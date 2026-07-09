@@ -1,0 +1,490 @@
+---
+title: "Arpeg Holdings Ltd c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27348/index.do"
+last_modified: "2006-11-03"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 CCI 593"
+citation2: ""
+neutral_citation: "2006 CCI 593"
+decision_date: "2006-11-03"
+language: "fr"
+item_id: "27348"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 170
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T23:35:31.717000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "463e8fa22558216b93eafacbd5ef8f154d2712058f35e0847946d4d5356d36e9"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Arpeg Holdings Ltd c. La Reine
+
+- Citation: 2006 CCI 593
+- Decision date: 2006-11-03
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 170, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Arpeg Holdings Ltd c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-11-03
+Référence neutre
+2006 CCI 593
+Numéro de dossier
+2002-4490(IT)G
+Juges et Officiers taxateurs
+Judith Woods
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2002-4490(IT)G
+ENTRE :
+ARPEG HOLDINGS LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée;
+ET ENTRE :
+Dossier : 2002-4499(IT)G
+CHRISTOPHER G. MATHISEN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée;
+ET ENTRE :
+Dossier : 2002-4500(IT)G
+BERTHA M. MATHISEN,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée;
+ET ENTRE :
+Dossier : 2002-4501(IT)G
+WILLIAM MATHISEN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée;
+ET ENTRE :
+Dossier : 2002-4502(IT)G
+P. ANNE MATHISEN,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée;
+ET ENTRE :
+Dossier : 2002-4503(IT)G
+E. JANE RATCLIFFE,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée;
+ET ENTRE :
+Dossier : 2002-4504(IT)G
+MARY McNEIL,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée;
+ET ENTRE :
+Dossier : 2002-4505(IT)G
+BARBARA BELL,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels entendus les 24, 25, 26 et 27 avril et 4 mai 2006,
+à Vancouver (Colombie-Britannique).
+Devant : L’honorable juge Judith Woods
+Comparutions :
+Avocat des appelants :
+Me Alistair G. Campbell
+Avocate de l’intimée :
+Me Linda L. Bell
+____________________________________________________________________
+JUGEMENT
+La Cour ordonne :
+a) L’appel d’Arpeg Holdings Ltd., visant la cotisation établie en vertu de la Loi de l’impôt sur le revenu (la « Loi ») pour l’année d’imposition 1996, est rejeté.
+b) L’appel d’Arpeg Holdings Ltd., visant les cotisations établies en vertu de la Loi pour les années d’imposition 1997 et 1998, est accueilli et les cotisations sont renvoyées au ministre du Revenu national pour qu’il les examine à nouveau et établisse de nouvelles cotisations conformément au jugement convenu produit en l’espèce et qu’il augmente de 10 000 $ le coût d’acquisition du bien de catégorie 10 en 1997.
+c) L’appel de Bertha M. Mathisen, visant la cotisation établie en vertu de la Loi pour l’année d’imposition 1997, est rejeté.
+d) L’appel de Bertha M. Mathisen, visant la cotisation établie en vertu de la Loi pour l’année d’imposition 1998, est accueilli et la cotisation est renvoyée au ministre du Revenu national pour qu’il l’examine à nouveau et établisse une nouvelle cotisation conformément au jugement convenu produit en l’espèce.
+e) L’appel de Christopher G. Mathisen, visant les cotisations établies en vertu de la Loi pour les années d’imposition 1997 et 1998, est accueilli et les cotisations sont renvoyées au ministre du Revenu national pour qu’il les examine à nouveau et établisse de nouvelles cotisations conformément au jugement convenu produit en l’espèce.
+f) Les appels de William Mathisen, Barbara Bell, Mary McNeil, E. Jane Ratcliffe et P. Anne Mathisen, visant les cotisations établies en vertu de la Loi pour les années d’imposition 1997 et 1998, sont rejetés.
+g) L’intimée a droit aux dépens, avec un seul mémoire d’honoraires d’avocat pour tous les appels.
+Signé à Toronto (Ontario), ce 3e jour de novembre 2006.
+« J. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 13e jour de mars 2008.
+Maurice Audet, réviseur
+Référence : 2006CCI593
+Date : 20061103
+Dossier : 2002-4490(IT)G
+ENTRE :
+ARPEG HOLDINGS LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée;
+ET ENTRE :
+Dossier : 2002-4499(IT)G
+CHRISTOPHER G. MATHISEN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée;
+ET ENTRE :
+Dossier : 2002-4500(IT)G
+BERTHA M. MATHISEN,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée;
+ET ENTRE :
+Dossier : 2002-4501(IT)G
+WILLIAM MATHISEN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée;
+ET ENTRE :
+Dossier : 2002-4502(IT)G
+P. ANNE MATHISEN,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée;
+ET ENTRE :
+Dossier : 2002-4503(IT)G
+E. JANE RATCLIFFE,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée;
+ET ENTRE :
+Dossier : 2002-4504(IT)G
+MARY McNEIL,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée;
+ET ENTRE :
+Dossier : 2002-4505(IT)G
+BARBARA BELL,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+__________________________________________________________________
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Woods
+[1] Les présents appels visent les cotisations établies en vertu de la Loi de l’impôt sur le revenu (la « Loi ») à l’égard de huit contribuables, soit Arpeg Holdings Ltd. (« Arpeg ») et sept membres de la famille Mathisen, lesquels sont des actionnaires indirects d’Arpeg (les « actionnaires »). Les appels ont été entendus ensemble sur preuve commune et intéressent les années d’imposition 1996, 1997 et 1998 d’Arpeg ainsi que les années d’imposition 1997 et 1998 des actionnaires.
+[2] Dans les cotisations, le revenu des appelants a fait l’objet de quelques rajustements. Un grand nombre d’éléments frappés d’appel ont été résolus et il reste les questions suivantes à trancher :
+a) Arpeg a-t-elle présenté une renonciation valide pour l’année d’imposition 1996?
+b) Arpeg a-t-elle surévalué le coût des biens de catégorie 10 achetés au cours de l’année d’imposition 1997?
+c) Quels avantages, le cas échéant, a-t-on conférés aux actionnaires?
+[3] Pour les raisons énoncées ci‑après, j’ai tiré les conclusions suivantes :
+a) la renonciation présentée au nom d’Arpeg pour l’année d’imposition 1996 est valide;
+b) Arpeg n’a pas surévalué le coût des biens de catégorie 10;
+c) les sommes à l’égard desquelles une cotisation a été établie au titre des avantages conférés aux actionnaires ne doivent pas être réduites.
+I. Validité de la renonciation
+[4] Le 20 juillet 2000, Chris Mathisen, vice‑président d’Arpeg, a signé une renonciation pour l’année d’imposition 1996 d’Arpeg. Si elle est valide, la renonciation aurait pour effet de prolonger le délai dans lequel cette année d’imposition pouvait faire l’objet d’une nouvelle cotisation. Ce délai expirait le 15 septembre 2000 selon le paragraphe 152(4) de la Loi. La renonciation visait un choix relatif à un bien de remplacement, qu’Arpeg avait produit en application des paragraphes 13(4) et 44(1) de la Loi relativement à la vente d’un bien situé au 1200, rue Homer, à Vancouver.
+[5] Le 9 juillet 2001, soit environ dix mois après l’expiration de la période normale de nouvelle cotisation, une nouvelle cotisation a été établie pour l’année d’imposition 1996 d’Arpeg. Le choix relatif à un bien de remplacement, produit par Arpeg relativement à cette année d’imposition, a été rejeté au motif que le bien situé au 1200, rue Homer, consistait en un bien locatif puisqu’il avait été loué à Murchies Tea & Coffee Ltd. On a donc considéré qu’Arpeg avait réalisé un gain en capital de presque 2 000 000 $ et qu’il y avait eu récupération d’une somme d’environ 500 000 $ au titre de la vente.
+[6] Arpeg ne conteste pas la conclusion du ministre voulant que le 1200, rue Homer, soit un bien locatif et qu’il ne puisse faire l’objet d’un choix relatif à un bien de remplacement. La seule contestation touchant la nouvelle cotisation pour 1996 tient au fait que la renonciation est invalide et que la nouvelle cotisation est donc prescrite.
+[7] Arpeg conteste la validité de la renonciation pour deux raisons. Premièrement, elle avance que la renonciation n’a pas été présentée selon le formulaire prescrit parce que Chris Mathisen n’était pas investi du pouvoir de signer le document au nom de la société. À titre subsidiaire, elle fait valoir que le vérificateur a sciemment induit M. Mathisen en erreur quant à la nature du document et que la renonciation est nulle selon la doctrine non est factum.
+[8] La Cour doit donc se demander si Chris Mathisen avait le pouvoir de signer la renonciation et si la doctrine non est factum s’applique en l’espèce.
+A. Chris Mathisen était-il investi du pouvoir de signer?
+[9] Avant de me prononcer sur la question de savoir si Chris Mathisen avait le pouvoir de signer la renonciation, je résumerai certains principes juridiques qui régissent le pouvoir d’un mandataire de lier une société.
+[10] Il est bien établi qu’un mandataire a le pouvoir d’agir pour le compte d’une société s’il est investi (de façon expresse ou implicite) du pouvoir réel ou apparent (ostensible) de le faire : Canadian Laboratory Supplies Ltd. c. Engelhard Industries of Canada Ltd., [1979] 2 R.C.S. 787 (C.S.C.).
+[11] Comme il s’agit d’un principe jurisprudentiel, il peut être modifié par voie législative. En l’espèce, la société Arpeg est régie par la Company Act, R.S.B.C. 1996, C. 62, laquelle ne modifie pas le principe susmentionné, à tout le moins dans la mesure où il est pertinent dans le cadre du présent appel.
+[12] Dans l’arrêt Hely-Hutchinson v. Brayhead, Ltd., [1967] 3 All E.R. 98 (C.A.), aux pages 101 et 102, le maître des rôles, lord Denning, explique ainsi la différence entre un pouvoir exprès, implicite ou apparent :
+[TRADUCTION]
+Il est inutile de procéder à un examen approfondi des règles de droit applicables au pouvoir réel, apparent ou ostensible d’un mandataire. La Cour s’est déjà prêtée à cet exercice dans l’arrêt Freeman & Lockyer (a firm) v. Buckhurst Park Properties (Mangal) Ltd. Il ressort de cette décision que le pouvoir réel peut être exprès ou implicite. Il est exprès lorsqu’il est conféré en termes exprès, comme lorsque le conseil d’administration adopte une résolution qui autorise deux de ses membres à signer les chèques. Il est implicite lorsqu’il peut être inféré de la conduite des parties et des circonstances de l’affaire, comme dans les cas où le conseil d’administration nomme un de ses membres à titre de directeur général. Le conseil autorise alors implicitement ce dernier à accomplir tous les actes qui relèvent habituellement de cette fonction. Le pouvoir réel, exprès ou implicite, lie la société et le mandataire, de même que la société et les tiers, qu’ils fassent partie ou non de la société.
+Le pouvoir ostensible ou apparent consiste dans le pouvoir dont est investi un mandataire aux yeux des tiers. Il correspond souvent au pouvoir réel. Par conséquent, lorsqu’il nomme un de ses membres à titre de directeur général, le conseil investit ce dernier non seulement du pouvoir implicite, mais aussi du pouvoir ostensible d’accomplir tous les actes qui relèvent habituellement de cette fonction. Les tiers qui le voient agir comme directeur général sont en droit de présumer qu’il est investi du pouvoir habituellement conféré à un directeur général. Il arrive toutefois que le pouvoir ostensible excède le pouvoir réel. Par exemple, lorsque le conseil nomme un directeur général, il peut expressément restreindre le pouvoir qui lui est conféré en précisant qu’il ne pourra commander des biens de plus de 500 ₤ sans l’approbation du conseil. Dans ce cas, son pouvoir réel est assujetti à la limite de 500 ₤, mais son pouvoir ostensible englobe tout le pouvoir habituellement conféré à un directeur général. La société est liée par les actes qu’il accomplit en vertu de son pouvoir dans le cadre de ses rapports avec ceux qui ignorent l’existence de cette restriction. Il peut lui‑même « cacher » ce fait. S’il commande des biens d’une valeur de 1 000 ₤ et qu’il signe lui‑même le document à titre de « directeur général pour le compte de la société », la société est liée envers l’autre partie qui ne connaît pas l’existence de la restriction de 500 ₤ […]
+[13] La Couronne reconnaît qu’Arpeg n’a pas expressément autorisé Chris Mathisen à signer la renonciation. Il s’agit donc de savoir si ce dernier avait le pouvoir implicite ou apparent de le faire.
+[14] À la lumière des principes énoncés dans l’arrêt Hely-Hutchinson, Chris Mathisen a été investi d’un pouvoir implicite si l’on peut affirmer qu’Arpeg a consenti à ce qu’il signe des documents de nature analogue à la renonciation. Si la société n’a pas donné cette approbation implicite, M. Mathisen avait néanmoins le pouvoir apparent ou ostensible de signer si Arpeg l’avait autorisé à faire valoir auprès de l’Agence du revenu du Canada (l’« Agence ») qu’il était investi de ce pouvoir et si l’Agence a pris des mesures par suite de cette assertion.
+[15] J’examinerai maintenant les faits pertinents.
+[16] Arne Mathisen, médecin, et son épouse, Bertha (Peggy) Mathisen, ont constitué Arpeg en société en 1957 afin d’acquérir un bien locatif situé à Vancouver, en Colombie‑Britannique. Au fil des ans, la société est devenue propriétaire d’un nombre croissant de biens réels et, pendant la période pertinente, Arpeg détenait environ huit biens locatifs résidentiels et commerciaux.
+[17] Au cours des années 80, les Mathisen ont établi un gel immobilier et les actions d’Arpeg ont été transférées à une corporation de portefeuille. Les actions de cette corporation étaient détenues par Arne, Bertha et leurs sept enfants.
+[18] Arne Mathisen était président d’Arpeg et il semble qu’il ait géré activement l’entreprise jusqu’à peu avant son décès, le 6 mars 1998. La façon dont il la dirigeait pendant sa présidence n’a peut‑être pas de pertinence directe avec la question dont je suis saisie puisque la renonciation a été signée plus de deux ans après son décès. Elle permet cependant de mettre en contexte la façon dont Arpeg a été dirigée après la mort d’Arne Mathisen.
+[19] Chris et Bill Mathisen, fils d’Arne et de Bertha, ont commencé à participer aux activités de l’entreprise au début des années 80. Ils ont tous deux le titre de « vice‑président ».
+[20] Chris Mathisen, titulaire d’un diplôme en commerce, secondait son père pour les questions liées à la société et à son administration, y compris la comptabilité et la gestion du budget. Comme Chris possédait une certaine formation en matière fiscale, c’est lui qui s’est chargé des questions de cet ordre, y compris la décision de présenter le choix relatif au bien de remplacement. L’aide‑comptable de la société, qui a pris sa retraite en 2000 à l’âge de 75 ans, a aidé Chris à cet égard. De façon générale, Arpeg n’avait pas recours à des consultants externes pour les questions fiscales.
+[21] Quant à Bill Mathisen, il agissait comme gestionnaire immobilier. Il supervisait la location et l’entretien des immeubles.
+[22] Après le décès d’Arne Mathisen le 6 mars 1998, Bertha Mathisen est devenue présidente de l’entreprise. Elle était informée des affaires commerciales d’Arpeg au moyen d’appels téléphoniques quotidiens de Chris et de Bill et elle se rendait aux bureaux de l’entreprise une fois par semaine pour signer les chèques. Selon les politiques bancaires de la société, seul le président ou deux administrateurs avaient le pouvoir de signer les chèques.
+[23] Le conseil d’administration d’Arpeg était composé de sept personnes, toutes membres de la famille Mathisen – Arne, Bertha, Chris, Bill et trois filles qui s’intéressaient à l’entreprise mais ne participaient pas activement aux activités quotidiennes.
+[24] Il ressort de l’ensemble de la preuve qu’il s’agit d’une entreprise familiale qui, du vivant d’Arne Mathisen, était dirigée par ce dernier avec l’aide de Chris et de Bill et qui, après le décès d’Arne, a été dirigée par Chris et Bill sous la supervision de Bertha Mathisen. Le conseil d’administration jouait également un rôle de surveillance.
+[25] Compte tenu de la preuve dont je suis saisie, j’arrive à la conclusion que Chris Mathisen avait le pouvoir implicite de signer la renonciation et que, même si ce n’avait pas été le cas, il avait le pouvoir apparent de le signer. L’une ou l’autre conclusion suffit pour décider que la renonciation est valide; je vais néanmoins exposer ci‑dessous les motifs justifiant ces deux conclusions.
+[26] Tout d’abord, en ce qui concerne le pouvoir apparent, je conclus qu’Arpeg a laissé croire à l’Agence que Chris Mathisen avait le pouvoir de signer les documents de nature fiscale.
+[27] Chris Mathisen était un administrateur et vice‑président d’Arpeg. Même si l’entreprise fonctionnait de façon informelle sans séparation stricte des fonctions, il était le dirigeant manifestement responsable des affaires générales de la société au moment pertinent. Il devait notamment s’occuper des questions fiscales et de celles touchant la vérification en général. Rien dans la preuve ne permet de penser que l’Agence a été informée d’une quelconque restriction expresse limitant le pouvoir que Chris paraissait détenir en raison de son rôle et de ses obligations.
+[28] En outre, après le décès d’Arne Mathisen, Chris Mathisen signait à la fois les documents courants et les documents importants de nature fiscale qui étaient remis à l’Agence pour le compte d’Arpeg, y compris les déclarations de revenus.
+[29] En permettant à Chris Mathisen de se présenter comme la personne responsable des questions fiscales et de signer les documents officiels et courants de nature fiscale, Arpeg a permis à Chris d’agir auprès de l’Agence comme s’il était investi du pouvoir de signer la renonciation. Par suite de cette façon d’agir, l’Agence a accepté la signature de Chris Mathisen sur la renonciation et n’a établi une nouvelle cotisation pour 1996 qu’après expiration de la période normale de nouvelle cotisation.
+[30] Je conclus donc que, s’il n’avait pas le pouvoir implicite de signer la renonciation, Chris Mathisen avait sans aucun doute le pouvoir apparent de le faire.
+[31] Comme il est mentionné plus haut, je conclus également qu’il avait le pouvoir implicite de signer, et ce, pour les raisons qui suivent.
+[32] Dans leur témoignage, Bertha, Chris et Bill Mathisen ont tous déclaré que la société suivait depuis longtemps une politique selon laquelle les documents devaient être signés soit par le président, soit par deux administrateurs. Les témoins ont également affirmé que la société a dérogé à cette politique lorsqu’elle a investi Chris Mathisen du pouvoir exprès de signer les déclarations de revenus pour 1997 et 1998.
+[33] Le témoignage des Mathisen a été bref et vague sur ce point. Pour pouvoir accepter ce témoignage intéressé sans autre corroboration, il aurait fallu me présenter de bien plus amples détails que ceux qui m’ont été fournis.
+[34] En outre, Arpeg n’a produit aucune résolution du conseil ni aucun procès‑verbal d’une réunion des administrateurs laissant entendre que le conseil se soit jamais penché sur une politique relative à un pouvoir général de signature. Au contraire, Arpeg a présenté un certain nombre de documents signés par deux administrateurs. La plupart de ces documents sont des documents officiels en matière immobilière, comme des baux et des offres d’achat, ce qui tend à montrer que deux administrateurs signaient habituellement les documents officiels de cette nature. Cependant, ils n’ont pas pour effet d’établir l’existence d’une pratique concernant d’autres genres de documents.
+[35] Considérée dans son ensemble, la preuve ne suffit pas à montrer qu’il existait une politique en vigueur ayant pour effet de restreindre le pouvoir de Chris Mathisen de signer des documents de nature fiscale, comme la renonciation en litige.
+[36] Avant de terminer mon examen sur ce point, il convient de mentionner certains documents faisant partie de la volumineuse documentation relative à la vérification qui a été produite par la Couronne.
+[37] En janvier 2001, Chris Mathisen a signé pour le compte d’Arpeg une lettre censée constituer un avis d’opposition aux cotisations proposées qui sont en litige en l’espèce (pièce R1, vol. 2, p. 48). Cette lettre était prématurée puisqu’elle a été écrite avant que les cotisations officielles ne soient établies, mais cela n’a rien à voir avec la question. Pour plus de précision, cette lettre n’est pas pertinente pour décider si l’Agence s’est fondée sur les façons d’agir susmentionnées puisqu’elle a été signée plusieurs mois après la renonciation. Elle est toutefois pertinente en ce qui touche la question du pouvoir implicite puisqu’elle est un exemple de document de nature fiscale que Chris Mathisen a signé seul pour le compte d’Arpeg. Soit le conseil d’administration a expressément autorisé Chris Mathisen à produire l’avis d’opposition – ce qui n’est nullement établi par la preuve –, soit Chris pensait qu’il avait le pouvoir de le signer.
+[38] De plus, les documents relatifs à la vérification renferment certaines résolutions de la société ayant pour effet de destituer Chris Mathisen de ses fonctions d’administrateur d’Arpeg pour une période donnée. Il s’agit d’un élément important puisque l’un des documents officiels en matière immobilière, produits en preuve par Arpeg (pièce A1, vol. 2, onglet 7), a été signé par Chris et Bill Mathisen en mai 1997 alors que Chris Mathisen n’était pas administrateur de la société. Ce qui laisse croire qu’Arpeg n’était pas aussi rigoureuse que ne l’ont laissé entendre les témoins en ce qui concerne le pouvoir de signature de documents, et même de documents officiels en matière immobilière.
+[39] Je n’ai pas accordé un grand poids à l’une ou l’autre de ces situations parce qu’aucune d’elles n’a été soulevée à l’audience. J’en fais néanmoins état parce qu’elles corroborent dans une certaine mesure ma conclusion voulant que Chris Mathisen ait été investi du pouvoir implicite de signer la renonciation.
+[40] Enfin, je souhaite formuler quelques observations au sujet de l’argument avancé par l’avocat d’Arpeg selon lequel il ne peut y avoir application de la doctrine du pouvoir apparent à l’égard des renonciations puisqu’elle ne s’applique qu’en matière contractuelle. Je ne crois pas que cet argument soit étayé par la jurisprudence. Même si un grand nombre des décisions judiciaires pertinentes portent sur des litiges intéressant des contrats, il ne s’ensuit pas que cette doctrine soit assujettie à pareille restriction. À titre d’exemple, je renvoie à l’arrêt Canadian Laboratory Supplies, précité, où le juge Estey s’est exprimé en ces termes, à la page 815 :
+Dans l’arrêt Freeman, […] le lord juge Diplock expose comment une compagnie peut donner un pouvoir exprès ou apparent à un employé de manière à être liée par ses démarches et ses actes […]
+[Non souligné dans l’original.]
+[41] Pour ces motifs, je conclus que Chris Mathisen avait le pouvoir de signer la renonciation pour le compte d’Arpeg.
+B. La doctrine « non est factum » s’applique-t-elle?
+[42] À titre subsidiaire, Arpeg soutient que Chris Mathisen a signé le formulaire sans savoir de quoi il s’agissait, non pas à cause d’une négligence de sa part, mais plutôt parce que le vérificateur lui a fait croire que la renonciation constituait un document courant de peu d’importance. Selon Arpeg, comme la renonciation a fondamentalement modifié ses droits, la doctrine non est factum (c’est‑à‑dire que l’acte n’est pas [valide]) devrait s’appliquer. À l’appui de cet argument, l’avocat a invoqué la décision Karakas v. The Queen, 96 D.T.C. 1143 (C.C.I.), de la Cour. Cependant, il importe de signaler que les faits de cette affaire sont sensiblement différents de ceux en l’espèce puisque le contribuable visé ne savait ni lire ni écrire.
+[43] Je vais commencer par un examen des nombreuses étapes de la vérification, qui a été amorcée en avril 2000 et visait les années d’imposition 1997 et 1998.
+[44] Pendant la vérification, le vérificateur Ed Eng a commencé à s’occuper du choix relatif à un bien de remplacement concernant le 1200, rue Homer, et il a décidé d’étendre sa vérification à l’année d’imposition 1996 pour cette seule question.
+[45] En juillet 2000, le vérificateur a décidé d’obtenir une renonciation quant à la période normale de nouvelle cotisation pour l’année d’imposition 1996, cette période venant à échéance le 15 septembre 2000. Il s’était dit que la vérification des années d’imposition 1997 et 1998 ne serait pas terminée à cette date et qu’il serait souhaitable de traiter tous les rajustements au titre de la vérification en même temps. Le vérificateur a préparé un formulaire de renonciation et Chris Mathisen l’a signé. La date de signature précisée sur le formulaire est le 20 juillet 2000.
+[46] Par un avis de nouvelle cotisation daté du 9 juillet 2001, une nouvelle cotisation a ensuite été établie pour l’année d’imposition 1996 afin de rajuster le revenu d’Arpeg de manière à y inclure des gains en capital et le montant de la récupération au titre de la vente du 1200, rue Homer.
+[47] Selon la version des événements présentée par Chris Mathisen, il n’avait aucune idée, pendant la vérification, que M. Eng s’intéressait au choix relatif à un bien de remplacement ni qu’il procédait à un quelconque examen de l’année d’imposition 1996.
+[48] Dans son témoignage, Chris a mentionné que, le matin du 20 juillet 2000, il a reçu un appel téléphonique au cours duquel M. Eng lui a dit que, pour terminer la vérification, il avait besoin qu’un certain formulaire soit signé. Chris Mathisen a accepté. Le vérificateur a apporté le formulaire aux bureaux d’Arpeg plus tard ce jour-là. Lorsqu’il est arrivé chez Arpeg, les deux hommes ont convenu par intercom que Chris allait descendre dans le hall d’entrée pour signer le document puisqu’ils étaient tous deux pressés. Chris Mathisen a ajouté qu’il n’avait pu lire le document, car il n’avait pas emporté ses lunettes de lecture, et qu’il avait signé le formulaire sur la foi des assertions du vérificateur, voulant qu’il ait été nécessaire pour lui de signer ce document pour [TRADUCTION] « terminer la vérification ».
+[49] Arpeg avance que, par ses actes, M. Eng avait sciemment l’intention d’induire Chris Mathisen en erreur quant à la nature de la renonciation.
+[50] Dans son témoignage, M. Eng a présenté une version quelque peu différente des faits et, fait très important, il a nié avoir agi avec une quelconque intention d’induire Chris en erreur.
+[51] M. Eng ne se rappelait nullement avoir téléphoné à Chris Mathisen au sujet de la renonciation, mais il gardait un souvenir très net de sa visite aux bureaux d’Arpeg pour faire signer le document. Il a déclaré qu’il était tombé sur Chris Mathisen dans la rue alors qu’ils s’approchaient tous deux des bureaux d’Arpeg. Les deux hommes ont convenu de s’asseoir dehors pour la signature de la renonciation.
+[52] Même si M. Eng ne se souvient pas d’avoir téléphoné à Chris Mathisen au préalable, un appel téléphonique est consigné dans ses notes de vérification. Il ressort des notes qu’un appel a eu lieu le 18 juillet, soit deux jours plus tôt que ne l’a affirmé Chris.
+[53] La note donne également à penser que la discussion touchant la renonciation a été beaucoup plus approfondie que Chris Mathisen l’a laissé entendre. L’inscription consignée en date du 18 juillet est ainsi rédigée :
+[TRADUCTION]
+18 juillet
+10 h 45
+Tél. à TP. L’ai informé que l’année d’imposition 1996 sera prescrite le 15 sept. 97 et que j’examine actuellement la question du choix relatif à un bien de remplacement. L’ai informé que je pouvais traiter le dossier maintenant, avant que la vérification soit terminée, ou qu’une renonciation pouvait être signée par un dirigeant autorisé pour maintenir ouvert le dossier de l’année, ce qui nous permettrait de traiter toutes les questions en même temps. TP s’est dit d’accord. A accepté que je passe le faire signer vendredi.
+[54] Arpeg soutient que le vérificateur a falsifié la note de vérification pour camoufler sa ruse. À l’appui de cette affirmation, Arpeg signale que la note comporte deux irrégularités. D’une part, la date de prescription devrait être le [TRADUCTION] « 15 sept. 00 ». D’autre part, le vérificateur devait emporter le formulaire aux bureaux d’Arpeg le « vendredi », alors que la signature manuscrite sur le document est le 20 juillet, soit un jeudi, selon la preuve présentée à l’audience.
+[55] Aucune inscription concernant la réunion au cours de laquelle la renonciation a été signée ne figurait dans les notes. On a contre‑interrogé M. Eng au sujet des divergences relatives à la date de signature et il n’a pu expliquer pourquoi la note de vérification fait état du vendredi alors que, selon le formulaire, la signature a eu lieu un jeudi.
+[56] Je n’éprouve aucune difficulté à conclure que M. Eng n’avait pas l’intention d’induire sciemment Chris Mathisen en erreur.
+[57] Premièrement, dans la mesure où il existe des divergences entre le témoignage des deux hommes, je préfère celui de M. Eng. Ce dernier n’avait aucune raison impérieuse d’obtenir la renonciation. Du point de vue du vérificateur, l’année d’imposition 1996 allait faire l’objet d’une nouvelle cotisation peu importe que la renonciation soit signée ou non. Il restait amplement de temps pour établir une nouvelle cotisation dans la période normale de nouvelle cotisation. Et même, la renonciation était à l’avantage d’Arpeg puisqu’elle lui permettait de présenter des observations avant que la cotisation ne soit établie, et c’est exactement ce qui s’est produit au début de 2001.
+[58] Deuxièmement, il est tout à fait farfelu que M. Eng ait pensé pouvoir tromper Chris Mathisen quant à la nature de ce document. M. Eng a sûrement présumé que la renonciation serait lue avant d’être signée. Je remarque également que le titre du formulaire attire l’attention du lecteur quant à la nature du document : « RENONCIATION À L’APPLICATION DE LA PÉRIODE NORMALE DE NOUVELLE COTISATION ».
+[59] Je suis également arrivée à la conclusion que, si Chris Mathisen n’a pas compris la nature du document, il ne peut s’en prendre qu’à lui‑même. Bien qu’il eût été préférable que M. Eng lui envoie au préalable une ébauche de la renonciation, Chris a choisi de signer le document lorsque M. Eng le lui a présenté.
+[60] Dans son témoignage, Chris Mathisen a déclaré qu’il n’avait pas lu le formulaire parce qu’il avait oublié ses lunettes de lecture. Il n’a pas été contre‑interrogé sur cette assertion, bien qu’il n’ait pas utilisé de lunettes pendant son témoignage pour lire les écritures de journal manuscrites. Même si je présume que ce témoignage est exact, ce n’est pas une raison suffisante pour avoir signé le document sans le lire. Même si l’on envisage la situation la plus favorable pour Arpeg, Chris Mathisen a fait preuve de négligence. Lorsqu’il a dû décider s’il signait le formulaire de renonciation le 20 juillet, il lui était loisible de ne pas signer le document ce jour‑là ou de ne pas le signer du tout.
+[61] L’avocat d’Arpeg laisse entendre que la version des faits présentée par Chris Mathisen est vraisemblable parce que le vérificateur a agi de manière sournoise en omettant de préciser l’objet visé par son enquête relative à la vérification. Comme M. Eng l’a lui‑même admis, il avait à l’époque pour pratique, dans le cadre d’une vérification, de ne pas révéler aux contribuables les questions qu’il examinait.
+[62] Cela permet certes d’ajouter foi au témoignage de Chris Mathisen voulant qu’il n’ait pas su que M. Eng examinait l’année d’imposition 1996. Par contre, ce n’est pas suffisant pour conclure qu’il y a eu falsification et présentation délibérément erronée des faits.
+[63] L’avocat d’Arpeg allègue en outre que les présumées irrégularités observées dans la note de vérification du 18 juillet donnent à penser qu’il s’agit d’un élément de preuve fabriqué. Je ne suis pas d’accord. Au contraire, il me semble plutôt que ces irrégularités étayent le point de vue selon lequel la note de vérification n’a pas été minutieusement rédigée après le fait.
+[64] L’argument d’Arpeg fondé sur la doctrine non est factum est donc rejeté.
+II. FNACC des biens de catégorie 10
+[65] La Couronne avance qu’Arpeg a surévalué d’une somme de 10 000 $ le coût d’acquisition des biens de catégorie 10 pour l’année d’imposition 1997.
+[66] Lorsqu’il a examiné les annexes relatives à la déduction pour amortissement jointes aux déclarations de revenus d’Arpeg pour 1997, le vérificateur a constaté une erreur de calcul à la ligne se rapportant aux biens de catégorie 10. Dans les nouvelles cotisations, la déduction pour amortissement demandée par Arpeg cette année‑là et l’année suivante a fait l’objet d’un rajustement en conséquence.
+[67] La partie pertinente de la ligne concernant les biens de catégorie 10 en litige est ainsi libellée :
+[TRADUCTION]
+2
+Fraction non amortie du
+coût en capital
+au début de
+l’année
+3
+Coût des
+acquisitions
+de
+l’année
+4
+Rajustements
+6
+Fraction non
+amortie du coût en capital (colonne 2 plus colonne 3
+plus ou moins colonne 4
+moins
+colonne 5)
+7
+Règle du 50 %
+(déduire la moitié de l’excédent, le cas échéant, du coût net des acquisitions sur colonne 5)
+8
+Fraction non amortie du coût en capital après réduction (colonne 6 moins colonne 7)
+9
+Taux de la DPA
+%
+10
+Déduction pour amortissement
+(colonne 8 multipliée par colonne 9; ou une somme moindre)
+11
+Fraction non amortie du coût en capital à la fin de l’année (colonne 6 moins colonne 10)
+24 845,21
+10 149,50
+(1 237,25)
+43 757,46
+9 456,13
+34 301,33
+30 %
+10 290,40
+33 467,06
+[68] Il est évident que l’annexe comporte une erreur. La somme figurant à la colonne 6 au titre de la fraction non amortie du coût en capital devrait être égale au total des colonnes précédentes, mais ce n’est pas le cas.
+[69] La Couronne soutient que les colonnes 3, 4 et 5 sont exactes et que la colonne 6 est surévaluée d’une somme de 10 000 $.
+[70] Arpeg fait valoir que l’erreur se trouve plutôt dans la colonne 3, soit celle du coût d’acquisition. Elle affirme que cette somme est sous‑évaluée de 10 000 $. Si Arpeg a raison, la colonne 6 ne comporte pas d’erreur.
+[71] La Couronne est confrontée à un obstacle : sa thèse est incompatible avec la somme figurant à la colonne 7, soit celle de la règle du 50 pour 100. La colonne 7 est toutefois compatible avec la thèse d’Arpeg selon laquelle le coût des acquisitions est sous‑évalué de 10 000 $.
+[72] Par contre, la thèse d’Arpeg comporte un point faible, à savoir l’absence de pièces justificatives étayant le coût des acquisitions.
+[73] Dans bien des cas, l’absence de pièces justificatives serait fatale. Cependant, aucune des parties ne s’est longtemps attardée sur ce point d’une importance relative moindre. Comme je l’ai mentionné au début, les présents appels comportaient un très grand nombre d’éléments en litige dont beaucoup ont été réglés avant l’audience. À la lumière de l’annexe considérée dans son ensemble, il semble vraisemblable que la thèse exacte soit celle d’Arpeg. J’ai donc décidé de laisser le bénéfice du doute à Arpeg.
+[74] Par conséquent, j’arrive à la conclusion que le coût d’acquisition des biens de catégorie 10 engagé par Arpeg pour l’année d’imposition 1997 doit être augmenté de 10 000 $.
+III. Avantages conférés aux actionnaires
+[75] Bertha Mathisen et six de ses enfants, tous actionnaires indirects d’Arpeg, ont fait l’objet d’une cotisation pour les années d’imposition 1997 et 1998 au titre des avantages qui leur ont censément été conférés par Arpeg et par une société liée. À l’appui des cotisations, la Couronne invoque les paragraphes 15(1) et 246(1) et, à titre subsidiaire, le paragraphe 6(1).
+[76] Les présumés avantages se rapportent aux biens suivants, qui auraient été mis à la disposition des actionnaires pour leur usage personnel : billets à des fins de divertissement et affiliation à des clubs, yacht, trois chalets à Whistler (Colombie‑Britannique) et une résidence à Crescent Beach (Colombie‑Britannique).
+[77] Les actionnaires ont admis que, si un avantage a été conféré, il devrait être inclus dans leurs revenus. La seule question à trancher est celle de la valeur, le cas échéant, de l’avantage conféré.
+[78] J’examinerai d’abord les billets et l’affiliation à des clubs. En 1997 et 1998, Arpeg a engagé des frais de 45 217,08 $ et de 42 222,93 $ respectivement, pour des billets à des fins de divertissement, comme l’opéra, des concerts symphoniques et des joutes de basket‑ball et de hockey, et pour les cotisations d’affiliation à des clubs, dont le Royal Vancouver Yacht Club, le Richmond Country Club et le Georgian Court.
+[79] Lorsqu’il a établi les nouvelles cotisations, le ministre a accepté que 30 pour 100 de ces frais constituaient des dépenses d’entreprise véritables et il a inclus le solde de 70 pour 100, soit 31 561,96 $ et 29 556,05 $, dans le calcul des revenus des actionnaires. Comme le ministre ne pouvait s’appuyer sur aucun fondement factuel pour répartir les dépenses entre les actionnaires, il a procédé en fonction du nombre d’actions détenues par chacun d’eux.
+[80] Les actionnaires soutiennent que tous ces frais ont été engagés à des fins commerciales. Voici ce que mentionne leur avocat dans ses observations écrites :
+[TRADUCTION]
+[…] les appelants font valoir que les dépenses s’apparentent à des dépenses en capital engagées principalement en vue de préserver l’existence d’Arpeg puisqu’elles visent à inciter les particuliers appelants à maintenir la société en activité. Les avantages dont jouissent les particuliers appelants sont accessoires à l’objectif de préservation de l’existence d’Arpeg.
+[81] La preuve produite pour étayer l’existence de fins productives de revenu était loin d’être convaincante. Selon le témoignage de Chris Mathisen, le conseil d’administration pensait qu’il était important pour Arpeg d’engager ces dépenses pour garder la famille unie et dévouée envers la société.
+[82] L’avocat des actionnaires affirme que le raisonnement suivi par le juge en chef Bowman dans la décision International Colin Energy Corp. v. The Queen, [2003] 1 C.T.C. 2406 (C.C.I.), étaye la conclusion voulant que les dépenses aient été engagées à des fins commerciales.
+[83] À mon avis, cet argument est frivole. Les dépenses engagées dans la décision International Colin Energy étaient liées à une fusion et ne comportaient aucun élément personnel. Le juge en chef a signalé que les dépenses, « [d]e toute évidence, […] avaient pour but d’augmenter les revenus de l’appelante ».
+[84] Les faits dont je suis saisie ne sont en rien analogues à ceux de cette affaire. Les dépenses se rapportent à des activités de divertissement et, à ce titre, elles avaient « de toute évidence » pour objet de profiter aux actionnaires. S’il existe un lien quelconque avec l’entreprise, il est ténu.
+[85] Les actionnaires contestent également l’inclusion de ces dépenses dans le revenu pour des questions de procédure. Comme il est mentionné plus haut, l’avantage a été réparti entre les actionnaires en fonction du nombre d’actions que chacun détenait. Pendant son témoignage, le vérificateur a reconnu qu’il n’avait pas tenté de déterminer quel actionnaire avait bénéficié de telle ou telle dépense en particulier. Les actionnaires avancent que les cotisations sont erronées parce que cette répartition était arbitraire.
+[86] L’avocat des actionnaires renvoie à un passage de l’arrêt Hickman Motors Ltd. c. La Reine, [1997] 2 R.C.S. 336, [1998] 1 C.T.C. 213 (C.S.C.), au paragraphe 96, dans lequel est reproduit un extrait d’une décision antérieure de la Cour (Kamin v. The Queen, 93 D.T.C. 62 [C.C.I.]) : « Le ministre n’a pas carte blanche pour établir les présomptions qui lui conviennent ». On fait donc valoir que le ministre n’est pas autorisé à répartir l’avantage de façon arbitraire.
+[87] Je dois d’abord signaler que les actionnaires ont eu amplement l’occasion de fournir une répartition au vérificateur avant que les cotisations ne soient établies et rien ne permet de penser qu’ils l’ont fait. Il ne s’agit pas d’un cas où le ministre a simplement formulé des présomptions qui lui conviennent. En l’espèce, rien ne me fonde à modifier les cotisations simplement parce que la répartition entre les actionnaires a été effectuée arbitrairement.
+[88] Quoi qu’il en soit, le passage tiré de l’arrêt Hickman Motors et reproduit plus haut a été pris hors contexte. Dans l’arrêt Hickman Motors, la Cour suprême du Canada ne se demandait pas si le ministre pouvait établir une cotisation d’une façon arbitraire. Elle était plutôt saisie d’une situation où les contribuables avaient produit certains éléments de preuve à l’instruction et où le ministre avait omis de présenter un quelconque élément de preuve en réponse. C’est ce qui ressort sans équivoque des paragraphes 96 et 97 :
+96 Dans la présente affaire, sans qu’aucune preuve ne leur ait été présentée, le juge de première instance et la Cour d’appel ont tous deux voulu transformer les présomptions non fondées et non vérifiées en « conclusions de fait », commettant ainsi des erreurs de droit sur la charge de la preuve. Mon collègue le juge Iacobucci exerce de la retenue à l’égard de ces soi-disant « conclusions concordantes » des cours d’instance inférieure, mais, bien que je sois tout à fait d’accord de façon générale avec le principe de retenue judiciaire, dans la présente affaire, deux décisions incorrectes ne sauraient en faire une bonne. Même si nous sommes en présence de « conclusions concordantes », la preuve non contestée et non contredite réfute positivement les présomptions du ministre : MacIsaac, précité. Comme le juge Rip de la Cour canadienne de l’impôt l’a noté dans Gelber c. M.R.N., 91 D.T.C. 1030, à la p. 1033, « [le ministre] n’est pas l’arbitre de ce qui est fondé ou non en matière de droit fiscal ». Le juge Brulé de la Cour canadienne de l’impôt dans Kamin, précité, a observé à la p. 64 :
+. . . le ministre devrait pouvoir réfuter cette preuve [prima facie] et présenter des arguments à l’appui de ses présomptions.
+. . .
+Le ministre n’a pas carte blanche pour établir les présomptions qui lui conviennent. À l’interrogatoire principal, on s’attend qu’il puisse produire des preuves plus concrètes que de simples présomptions pour réfuter les arguments de l’appelant. [Je souligne.]
+97 À mon avis, ces affirmations sont applicables à la présente affaire : l’intimée, dont les opinions ont été contestées par la preuve principale, n’a rien présenté de plus concret que de simples présomptions et n’a avancé aucun fondement. Elle a choisi de ne réfuter aucun des éléments de preuve de l’appelante. Par conséquent, elle ne s’est pas acquittée de son fardeau de preuve.
+[89] Les observations présentées par les actionnaires au sujet des dépenses reliées aux billets et au divertissement sont donc rejetées.
+[90] Je vais maintenant me pencher sur les autres éléments – le yacht de 50 pieds, les trois chalets à Whistler et la résidence à Crescent Beach.
+[91] Les parties s’entendent sur le nombre total de jours d’utilisation de chacun des biens pendant la période pertinente de même que sur la proportion de temps consacrée à un usage personnel et celle consacrée à un usage commercial. Ces chiffres sont précisés dans l’exposé conjoint des faits. En voici un résumé :
+Usage
+total
+(jours)
+Usage
+commercial (jours)
+Usage personnel
+(jours)
+Yacht
+25
+19
+6
+Propriétés de
+Whistler
+76
+25
+51
+Crescent
+Beach
+60
+8
+52
+[92] Le litige porte plutôt sur la méthode employée pour calculer la valeur des avantages conférés aux actionnaires.
+[93] Dans les cotisations, le ministre a calculé le montant des avantages à l’aide d’une méthode fondée sur le « coût du capital », analogue à celle employée dans les arrêts Fingold v. The Queen, [1997] 3 C.T.C. 441 (C.A.F.), et Youngman v. The Queen, 90 D.T.C. 6322 (C.A.F.).
+[94] Le calcul effectué par le ministre est exposé dans l’extrait suivant tiré des observations écrites de la Couronne (paragraphe 91). Même si ce passage vise le yacht, la même méthode a été appliquée pour les autres biens.
+[TRADUCTION]
+[…] le vérificateur a tiré le coût du capital des livres comptables de la société et il s’est servi de la moyenne annuelle des soldes d’ouverture et de clôture. Il a appliqué le taux d’intérêt prescrit par l’article 4300 du Règlement et il s’est servi de la moyenne annuelle de ce taux pour calculer le taux de rendement du capital. Il a mentionné avoir utilisé les taux énoncés à l’article 4300 du Règlement sur le fondement des politiques de l’Agence. Il a ensuite appliqué le taux de rendement moyen au coût du capital moyen pour arriver au montant total du rendement attendu pour chacune des années. Il a rajusté à la baisse le montant de l’avantage total en fonction du nombre de jours que le yacht a servi à des fins commerciales. Il a ensuite réparti le montant de l’avantage entre chaque actionnaire en fonction de leur pourcentage d’utilisation respectif.
+[95] Le tableau ci‑dessous montre les sommes totales incluses dans les revenus des actionnaires. Ces sommes ont été réparties entre les actionnaires selon les pourcentages qu’ils ont proposés. Par souci de précision, je signale que la somme relative aux propriétés de Whistler vise les trois chalets.
+1997
+1998
+Yacht
+15 222,66 $
+18 315,66 $
+Propriétés de
+Whistler
+29 364,61 $
+35 829,48 $
+Crescent Beach
+32 885,00 $
+38 603,00 $
+[96] Les actionnaires affirment que ces sommes excèdent considérablement ce qui est raisonnable dans les circonstances. Selon eux, la méthode appropriée consiste à calculer l’avantage sur le fondement de la valeur locative des propriétés pendant les jours où celles‑ci ont réellement été utilisées par les actionnaires à des fins personnelles. En outre, ils estiment que les frais d’entretien qui ont été remboursés aux sociétés par Arne et Bertha Mathisen devraient être défalqués du montant des avantages liés aux propriétés de Whistler et de Crescent Beach.
+[97] Les résultats des calculs effectués par les actionnaires figurent dans le tableau suivant.
+1997
+1998
+Yacht
+3 396 $
+3 396 $
+Propriétés de
+Whistler
+néant
+néant
+Crescent Beach
+néant
+néant
+[98] Ces sommes sont sensiblement inférieures à celles visées par les cotisations. Cela tient notamment au fait que l’usage réel des propriétés (à des fins tant commerciales que personnelles) était relativement faible. De plus, les frais d’entretien payés par Arne et Bertha Mathisen à l’égard des propriétés de Whistler et de Crescent Beach excédaient l’avantage par ailleurs calculé selon la méthode prônée par les actionnaires.
+[99] Je préciserai d’abord certains faits au sujet de chacune des propriétés.
+[100] Premièrement, le yacht. En 1995, Arpeg a acheté un yacht de 50 pieds pour la somme de 214 000 $. D’autres dépenses ont été engagées et, au cours de la période pertinente, Arpeg a investi environ 280 000 $ dans le navire. Selon l’exposé conjoint des faits produit par les parties, le yacht n’a été utilisé que pendant 25 jours chacune des années 1997 et 1998, soit 19 jours à des fins commerciales et 6 jours à des fins personnelles.
+[101] Deuxièmement, les propriétés de Whistler. À trois occasions distinctes débutant en 1969, Arpeg a acheté une action dans Whistler Ski Lodges Ltd. Chaque action permettait à Arpeg d’utiliser un chalet à Whistler et Arpeg avait donc l’usage de trois chalets au cours de la période pertinente. Le montant total des capitaux investis dans les propriétés de Whistler s’élève à environ 555 000 $. Les chalets ont été utilisés pour un total de 76 jours par année, soit 25 jours à des fins commerciales et 51 jours à des fins personnelles.
+[102] Troisièmement, la propriété de Crescent Beach. Il s’agit d’une vaste résidence utilisée par Bertha Mathisen deux mois chaque été. Les capitaux investis dans cette résidence se chiffrent approximativement à 584 000 $. La propriété a été achetée il y a de nombreuses années par une société affiliée, Arpeg Farms Ltd. Il s’agissait à l’origine de la maison de ferme d’une exploitation agricole dirigée par Arne Mathisen. Les activités de l’entreprise agricole ont été transférées à un autre endroit il y a plus de 25 ans. Suivant l’exposé conjoint des faits, la propriété de Crescent Beach servait huit jours par année à des fins commerciales.
+[103] Les principes applicables aux circonstances de ce genre sont énoncés dans les arrêts Fingold et Youngman.
+[104] Dans l’arrêt Youngman, le tribunal mentionne, à la page 6325 :
+Afin d’évaluer un avantage pour les fins de l’alinéa 15(1)c), il est premièrement nécessaire de déterminer quel est cet avantage ou, en d’autres termes, qu’est-ce que la société a fait pour son actionnaire; deuxièmement, il est nécessaire de trouver le prix que l’actionnaire aurait eu à payer, dans des circonstances semblables, pour obtenir le même avantage d’une société dont il n’était pas actionnaire.
+[105] La Cour doit donc trancher la question suivante : qu’ont fait Arpeg et Arpeg Farms pour les actionnaires?
+[106] La Couronne reconnaît que les propriétés ont servi dans une certaine mesure à des fins commerciales, ce que j’accepte. Toutefois, pour obtenir gain de cause, les actionnaires doivent établir que les sommes visées par les cotisations surévaluent l’avantage qu’Arpeg et Arpeg Farms leur ont conféré. Les actionnaires ne se sont pas acquittés de ce fardeau.
+[107] Arpeg et Arpeg Farms avaient ensemble investi environ 1 400 000 $ dans les biens. Quel avantage les sociétés en ont‑elles retiré sur le plan commercial?
+[108] Il ressort de la preuve que les propriétés de Whistler et le yacht ont été utilisés pour divertir les employés et les fournisseurs. Il est nécessaire de se demander quel avantage Arpeg pouvait retirer de cette situation et, malheureusement, la preuve est bien mince sur ce point. Arpeg avait très peu d’employés – un aide‑comptable, une secrétaire et quatre gérants résidants aux immeubles à usage d’habitation. Quant aux fournisseurs, il semble qu’il s’agissait de personnes qui entretenaient les immeubles, comme des plombiers et des électriciens. Aucun élément de preuve susceptible de me convaincre qu’Arpeg a tiré un avantage important de cette situation n’a été présenté.
+[109] Quant à la propriété de Crescent Beach, la preuve relative à un usage à des fins commerciales est encore plus ténue. Dans son témoignage, Chris Mathisen a mentionné qu’ils rencontraient les gérants résidants à cet endroit. Or, le témoignage de sa mère ne va même pas aussi loin. L’avocat d’Arpeg a posé à cette dernière des questions au sujet de l’usage de la maison d’été par des personnes autres que des membres de la famille. Voici un extrait de son témoignage :
+[TRADUCTION]
+Q Quelles autres fins – qui d’autres auraient pu utiliser la propriété? Incluant le terrain.
+R Oh, le terrain, eh bien, les locataires [d’autres propriétés situées sur le terrain] qui se trouvent là et le Crescent Beach Swim Club se servent de notre piscine l’été, quatre matinées par semaine, de 9 h à 12 h, pour enseigner la nage synchronisée, et ils utilisent aussi notre court de tennis pour des tournois à l’occasion et pour leur importante compagne de financement qui réunit, oh, de 250 à 300 personnes.
+[110] À la lumière de la preuve dans son ensemble, je conclus que l’avantage tiré des biens par les sociétés pendant les années d’imposition pertinentes était négligeable.
+[111] Les actionnaires font valoir qu’un avantage annuel de 3 396 $ pour l’ensemble de ces biens, réparti entre eux selon leur usage personnel, est approprié. Je ne suis pas d’accord. Cela est absolument hors de proportion avec les avantages qui ont été conférés. Après avoir appliqué les principes énoncés dans les arrêts Fingold et Youngman, j’arrive à la conclusion que les avantages, tels qu’ils ont été calculés par le ministre, sont plus appropriés. Ils constituent une estimation du coût des biens pour les sociétés, moins le coût légitimement attribuable à l’usage à des fins commerciales. La preuve ne justifie pas l’attribution d’un coût au titre de l’usage commercial au‑delà du nombre de jours pendant lesquels les biens ont réellement été utilisés à des fins commerciales.
+[112] Je passe maintenant aux autres arguments présentés par les actionnaires.
+[113] Les actionnaires soutiennent que le yacht servait principalement à des fins commerciales et qu’il n’est pas approprié, dans ces circonstances, d’établir à l’égard de cet avantage une cotisation fondée sur le fait que le bien pouvait être mis en service. L’avocat a invoqué les décisions suivantes à l’appui de son affirmation : Smith v. M.N.R., [1991] 2 C.T.C. 2143 (C.C.I.); Mid-West Feed Lot Ltd. v. M.N.R., [1987] 2 C.T.C. 2101 (C.C.I.); Houle v. The Queen, [1983] C.T.C. 406 (C.F. 1re inst.).
+[114] À mon avis, cet argument doit être rejeté. On ne peut s’appuyer sur les décisions invoquées sans tenir compte des arrêts Fingold et Youngman. À la lumière de l’ensemble de la preuve, je suis contrainte de conclure que le yacht constituait pour l’essentiel un bien à usage personnel. La preuve n’étaye pas la conclusion selon laquelle Arpeg a engagé 280 000 $ pour un yacht principalement à des fins productives de revenu. Un avantage annuel de 3 396 $ au titre du yacht, comme il est proposé par les actionnaires, est totalement déraisonnable dans les circonstances. La somme calculée par le ministre correspond beaucoup mieux à celle que les actionnaires auraient dû verser à un tiers pour obtenir le même avantage.
+[115] À titre subsidiaire, les actionnaires affirment que, si la méthode basée sur le coût du capital est acceptée à l’égard du yacht, elle doit se fonder sur le coût initial de celui‑ci, soit 214 000 $, défalqué d’une somme au titre de l’amortissement.
+[116] Je ne souscris pas à cet argument. Il est illogique de fonder l’avantage sur le coût initial du yacht et de ne pas tenir compte des autres montants en capital qu’Arpeg a investis dans le bien. Une déduction, de la somme investie, au titre de l’amortissement est tout aussi illogique. La méthode fondée sur le coût du capital repose sur la théorie voulant que la société ait investi un certain montant de capital, lequel comporte un coût annuel établi en fonction d’un taux d’intérêt raisonnable. Il n’y a pas de déduction au titre de l’amortissement dans ce calcul.
+[117] Quant aux propriétés de Whistler et de Crescent Beach, les actionnaires avancent que ces biens font partie du portefeuille de placements immobiliers d’Arpeg et d’Arpeg Farms et que l’avantage conféré aux actionnaires devrait par conséquent se limiter à la valeur de l’usage personnel véritable.
+[118] J’accepte qu’un jour, Arpeg et Arpeg Farms tireront vraisemblablement avantage d’une augmentation de la valeur de ces biens réels. Cependant, je n’estime pas que ce soit une raison suffisante pour évaluer l’avantage en fonction de la valeur locative pour l’usage personnel véritable. Les sociétés détiennent les propriétés depuis un grand nombre d’années pour l’usage personnel des membres de la famille. Les propriétés n’ont jamais été louées. Le fait que les sociétés réaliseront vraisemblablement un certain bénéfice lorsque la famille décidera de les vendre ne signifie pas qu’un avantage important n’a pas été conféré dans l’intervalle. Je ne me prononce pas en l’espèce sur l’argument selon lequel le montant de l’avantage doit faire l’objet d’une défalcation pour tenir compte de ce facteur. Cet argument ne m’a pas été présenté et la preuve n’est pas suffisante pour décider d’un montant de déduction approprié.
+[119] En ce qui concerne la seule propriété de Crescent Beach, l’avocat fait en outre valoir que, la maison faisant initialement partie d’une exploitation agricole, il est inopportun d’appliquer la méthode fondée sur le coût du capital.
+[120] Je ne suis pas d’accord. Même s’il peut y avoir une certaine logique à prendre en considération l’usage initial puisque l’usage du bien a récemment changé, rien ne justifie cet examen si le bien est détenu et sert à son usage actuel depuis plus de 25 ans.
+[121] Les actionnaires soutiennent également que l’avantage lié aux propriétés de Whistler et de Crescent Beach doit être défalqué du montant des frais d’entretien remboursés aux sociétés par Arne et Bertha Mathisen.
+[122] Ce n’est pas mon avis. Il peut être approprié de déduire du montant de l’avantage les frais d’entretien qui sont légitimement attribuables à l’usage commercial. Cet argument n’a toutefois pas été invoqué et aucun élément de preuve permettant de procéder à une répartition raisonnable n’a été produit. Dans les circonstances, je ne crois pas opportun de rajuster la somme visée par la cotisation établie à l’égard des actionnaires.
+IV. Dispositif
+[123] Par conséquent, les appels sont accueillis dans la mesure suivante :
+a) l’appel interjeté par Arpeg, pour les années d’imposition 1997 et 1998, sera accueilli et les cotisations seront renvoyées au ministre du Revenu national pour qu’il les examine à nouveau et établisse de nouvelles cotisations conformément au jugement convenu produit en l’espèce et qu’il augmente de 10 000 $ le coût d’acquisition du bien de catégorie 10 en 1997;
+b) l’appel interjeté par Bertha M. Mathisen, pour l’année d’imposition 1998, sera accueilli et la cotisation sera renvoyée au ministre du Revenu national pour qu’il l’examine à nouveau et établisse une nouvelle cotisation conformément au jugement convenu produit en l’espèce;
+c) l’appel interjeté par Christopher G. Mathisen, pour les années d’imposition 1997 et 1998, sera accueilli et les cotisations seront renvoyées au ministre du Revenu national pour qu’il les examine à nouveau et établisse de nouvelles cotisations conformément au jugement convenu produit en l’espèce.
+[124] À tous les autres égards, les appels sont rejetés.
+[125] Quant aux dépens, l’intimée a en grande partie obtenu gain de cause dans le cadre des présents appels et elle a droit aux dépens, mais avec un seul mémoire d’honoraires d’avocat pour tous les appels.
+Signé à Toronto (Ontario), ce 3e jour de novembre 2006.
+« J. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 13e jour de mars 2008.
+Maurice Audet, réviseur
+RÉFÉRENCE :
+2006CCI593
+NOS DES DOSSIERS DE LA COUR :
+2002-4490(IT)G, 2002-4499(IT)G, 2002‑4500(IT)G, 2002-4501(IT)G, 2002‑4502(IT)G, 2002‑4503(IT)G, 2002‑4504(IT)G et 2002‑4505(IT)G
+INTITULÉ DE LA CAUSE :
+Arpeg Holdings Ltd. c. Sa Majesté la Reine, Christopher G. Mathisen c. Sa Majesté la Reine, Bertha M. Mathisen c. Sa Majesté la Reine, William Mathisen c. Sa Majesté la Reine, P. Anne Mathisen c. Sa Majesté la Reine, E. Jane Ratcliffe c. Sa Majesté la Reine, Mary McNeil c. Sa Majesté la Reine, et Barbara Bell c. Sa Majesté la Reine
+LIEU DE L’AUDIENCE :
+Vancouver (Colombie-Britannique)
+DATES DE L’AUDIENCE :
+Les 24, 25, 26 et 27 avril et 4 mai 2006
+MOTIFS DU
+JUGEMENT PAR :
+L’honorable juge Judith Woods
+DATE DU JUGEMENT :
+Le 3 novembre 2006
+COMPARUTIONS :
+Avocat des appelants :
+Me Alistair G. Campbell
+Avocate de l’intimée :
+Me Linda L. Bell
+AVOCAT(E) INSCRIT(E) AU DOSSIER :
+Pour les appelants :
+Nom :
+Me Alistair G. Campbell
+Cabinet :
+Legacy Tax + Trust Lawyers
+Vancouver (Colombie-Britannique)
+Pour l’intimée :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

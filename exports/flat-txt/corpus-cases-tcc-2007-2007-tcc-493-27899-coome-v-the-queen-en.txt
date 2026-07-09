@@ -1,0 +1,279 @@
+Title: Coome v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27899/index.do
+Corpus path: corpus/cases/tcc/2007/2007-tcc-493-27899-coome-v-the-queen-en.md
+Document type: case_law
+Last modified: 2007-01-15
+
+# Coome v. The Queen
+
+- Citation: 2007 TCC 493
+- Decision date: 2007-01-15
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1747, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Coome v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-01-15
+Neutral citation
+2007 TCC 493
+File numbers
+2005-2971(IT)I
+Judges and Taxing Officers
+Murray A. Mogan
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2005-2971(IT)I
+BETWEEN:
+JOHN R. COOME,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on January 15, 2007, at Toronto, Ontario
+By: The Honourable Justice M.A. Mogan
+Appearances:
+Counsel for the Appellant:
+James Rhodes
+Counsel for the Respondent:
+Laurent Bartleman
+____________________________________________________________________
+JUDGMENT
+The appeals from the reassessments of tax made under the Income Tax Act for the 2001 and 2002 taxation years are dismissed.
+Signed at Ottawa, Canada, this 22nd day of August 2007.
+“M.A. Mogan”
+Mogan D.J.
+Citation: 2007TCC493
+Date: 20070822
+Docket: 2005-2971(IT)I
+BETWEEN:
+JOHN R. COOME,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Mogan D.J.
+[1] The taxation years under appeal are 2001 and 2002. During the hearing of the appeals, there were many documents entered into evidence as exhibits. Relying on Exhibits R-2 (Tabs 8 and 9) and R-3 (Tab 8), the Appellant’s reported income for each of the years under appeal may be computed by reference to the following amounts identified by the respective lines on each income tax return:
+Line
+2001
+2002
+101
+T4 Home Depot earnings
+$27,456
+$26,788
+104
+Other employment
+861
+-------
+113
+OAS
+5,232
+5,335
+114
+CPP
+5,674
+5,844
+121
+Investment income
+3,917
+-------
+129
+RRSP
+-------
+4,286
+135
+Business loss
+(16,566)
+(10,835)
+150
+Total income
+26,574
+31,418
+[2] By Notices of Reassessment issued to the Appellant in September 2004, the Minister of National Revenue disallowed the deduction of the business losses in the amounts of $16,566 and $10,835 for 2001 and 2002, respectively; and also disallowed the deduction of employment expenses in the amount of $6,392 in the 2002 taxation year. The Appellant has appealed from those reassessments and has elected the informal procedure.
+THE FACTS
+[3] The Appellant testified at length. At all relevant times, he was a licensed real estate agent in the Province of Ontario. He obtained his first licence in 1989 and spent a couple of years learning the business. In 1991, he was the top commission agent for Darryl Kent, a real estate broker in the Toronto Beaches area. He had continued success until 1994 when the Toronto Real Estate Board changed the rules for “open houses”. After 1994, it was more difficult to get new listings or clients.
+[4] In the late 1990s and in 2000, the Appellant would find small Ontario towns (like Tweed) which would have subdivisions of 50 to 60 lots waiting for development. He would drive out from the Toronto area to look at some of these lots to see if he regarded them as having potential. His prior experience in site preparation in the construction business helped him in appraising the potential of a vacant lot. By 2002, he realized that looking for subdivided lots or vacant land “on spec” was not an advantageous way to earn commissions and so he concentrated his real estate activities in the Toronto/Mississauga area.
+[5] By 2001 and 2002, he had become a subagent in the office of Prudential National Realty Inc. in Mississauga and he was not doing well. He paid only $20 per month and received very little support as subagent, but he had to be affiliated with a licensed broker in order to maintain his licence. In late 2002, he became a subagent to Ariette Kendall, a successful agent with the Sutton Group ‑ Quantum Realty in Mississauga. Ariette Kendall was getting 15 to 20 contacts per day and she would pass some on to the Appellant. She had two other subagents.
+[6] Exhibits A-2 to A-8 are documents showing the Appellant’s active involvement as a subagent to Ariette Kendall in the period late 2002 to 2004. In particular, Exhibit A-3 is a photocopy of various advertisements which Ariette Kendall would run to promote her contacts and listings among persons selling or buying houses. Because she was the principal agent producing the most contacts, Ariette Kendall received 50% of all the commissions which the Appellant earned as her subagent.
+[7] Exhibit A-1 is a statement issued to the Appellant by Sutton Group – Quantum Realty showing his gross commissions ($14,828.85) earned in the period January 1 to December 31, 2004 less certain expenses ($2,148.93) leaving him with “Net earnings before payroll” of $12,680. This last amount does not take into account the Appellant’s expenses incurred outside the Sutton Group office like automobile, personal computer, internet, cell phone, etc. There was no collateral statement showing what amount of profit or loss the Appellant reported as a real estate subagent on his 2004 income tax return.
+[8] In the years 1999, 2000, 2001 and 2002, the Appellant reported significant income (average $27,500 per year) from his employment at Home Depot. He also may have worked at Home Depot in 1997 and 1998 but he could not recall, although he reported employment income of $24,293 and $27,135 in those two years, respectively. He stated that he went to work at Home Depot in the late 1990s primarily to pay off his credit cards.
+[9] Exhibit A-9 (Tabs 5, 6 and 7) shows that the Appellant deducted automobile expenses for gasoline, repairs, parking fees, etc. in 2001 but he acknowledged that he did not maintain a log to record the business use or personal use of his car. The same applies to the year 2002. See Exhibit A-10 (Tabs 1 and 2). Exhibit R-3 (Tab 8) is a photocopy of the Appellant’s 2002 income tax return. Under cross-examination, the Appellant admitted that certain expenses in 2002 had been deducted twice. At page 115 of Tab 8, the Appellant deducted the following four amounts as “Employment Expenses”:
+Gasoline $1,134
+Maintenance 322
+Insurance 4,800
+License/Registration 160
+At page 120 of Tab 8, he deducted the same four amounts as “Business (real estate) Expenses”. I conclude that the Appellant is not a careful record keeper.
+[10] In cross-examination, counsel for the Respondent produced Exhibits R-1 and R-2 which summarize information from the Appellant’s income tax returns over the period 1989 to 2002. Counsel reviewed these exhibits with the Appellant who was able to confirm the revenue and expenses of his activity as a real estate agent in almost all of those years. And in the more recent years, the Appellant confirmed his earnings as an employee of Home Depot. In Schedule “A” to these Reasons for Judgment, I have summarized what I regard as the most relevant amounts from Exhibits R-1, R-2 and R-3 (Tab 8).
+[11] According to Schedule “A”, the financial results of the Appellant’s activity as a real estate agent in the years 1989 to 2002 were always negative. In other words, in each year, the Appellant’s reported expenses exceeded his reported commissions. In the two years under appeal, he earned no real estate commissions at all in 2001 and one commission of only $329.94 in 2002. It appears from Exhibit R-3, Tab 7 that the only commission ($329.94) which he earned in 2002 was from a transaction in which the Appellant and his wife were the purchasers, closing on November 29, 2002. I conclude that the Appellant, as a real estate agent, had no arm’s length clients at all in 2001 and 2002 after having a real estate agent’s licence for more than 10 years. He was, of course, employed at Home Depot in 2001 and 2002.
+ANALYSIS
+[12] Hypothetically speaking, if these appeals had been heard prior to 1996, the issue probably would have been stated as to whether the Appellant had a reasonable expectation of profit (“REOP”) with respect to his efforts as a real estate agent. In 1996, however, the Federal Court of Appeal delivered its judgment in Tonn v. The Queen, 96 DTC 6001. In Tonn, the Federal Court of Appeal seriously questioned for the first time whether REOP was an acceptable test to determine if a taxpayer had a source of income. After the decision in Tonn, there was some uncertainty in the law concerning the status of REOP until 2002 when the Supreme Court of Canada releases its decisions in Stewart v. The Queen, [2002] 2 S.C.R. 645 and The Queen v. Walls, [2002] 2 S.C.R. 684.
+[13] In Stewart, the Supreme Court stated that REOP is not an acceptable test to determine a source of income. I note the following passages from the Reasons of Iacobucci and Bastarache JJ.:
+40 … the REOP test should not be blindly accepted as the correct approach to the "source of income" determination. This conclusion is strengthened by the fact that subsequent cases have run the gamut with respect to the application of the REOP concept.
+47 … As a result, "reasonable expectation of profit" should not be accepted as the test to determine whether a taxpayer's activities constitute a source of income.
+[14] Also in Stewart, the Supreme Court has recommended a two-stage approach with respect to the source of income question:
+50 … As has been pointed out, a commercial activity which falls short of being a business, may nevertheless be a source of property income. As well, it is clear that some taxpayer endeavours are neither businesses, nor sources of property income, but are mere personal activities. As such, the following two-stage approach with respect to the source question can be employed:
+(i) Is the activity of the taxpayer undertaken in pursuit of profit, or is it a personal endeavour?
+(ii) If it is not a personal endeavour, is the source of the income a business or property?
+The first stage of the test assesses the general question of whether or not a source of income exists; the second stage categorizes the source as either business or property.
+[15] The first stage is intended to distinguish between a commercial activity and a personal endeavour. With respect to the facts in Mr. Coome’s appeals for 2001 and 2002, I rely on the following passage from Stewart:
+53 … Where the nature of an activity is clearly commercial, there is no need to analyze the taxpayer's business decisions. Such endeavours necessarily involve the pursuit of profit. As such, a source of income by definition exists, and there is no need to take the inquiry any further.
+54 It should also be noted that the source of income assessment is not a purely subjective inquiry. Although in order for an activity to be classified as commercial in nature, the taxpayer must have the subjective intention to profit, in addition, as stated in Moldowan, this determination should be made by looking at a variety of objective factors. Thus, in expanded form, the first stage of the above test can be restated as follows: "Does the taxpayer intend to carry on an activity for profit and is there evidence to support that intention?" This requires the taxpayer to establish that his or her predominant intention is to make a profit from the activity and that the activity has been carried out in accordance with objective standards of businesslike behaviour.
+55 The objective factors listed by Dickson J. in Moldowan, at p. 486, were: (1) the profit and loss experience in past years; (2) the taxpayer's training; (3) the taxpayer's intended course of action; and (4) the capability of the venture to show a profit. As we conclude below, it is not necessary for the purposes of this appeal to expand on this list of factors. As such, we decline to do so; however, we would reiterate Dickson J.'s caution that this list is not intended to be exhaustive, and that the factors will differ with the nature and extent of the undertaking. We would also emphasize that although the reasonable expectation of profit is a factor to be considered at this stage, it is not the only factor, nor is it conclusive. The overall assessment to be made is whether or not the taxpayer is carrying on the activity in a commercial manner. …
+[16] Having regard to the first question in the two-stage approach, I am satisfied that the Appellant’s efforts as a licensed real estate agent could not be considered a hobby or other personal endeavour. I am concerned, however, with the “objective factors” which the Supreme Court refers to in paragraphs 54 and 55 (quoted above) and whether the Appellant carried out his activity in accordance with objective standards of businesslike behaviour. In particular, I repeat the following two sentences from paragraphs 54 and 55:
+This requires the taxpayer to establish that his or her predominant intention is to make a profit from the activity and that the activity has been carried out in accordance with objective standards of businesslike behaviour.
+The overall assessment to be made is whether or not the taxpayer is carrying on the activity in a commercial manner.
+[17] The Appellant did not advertise in 2001 and 2002. He did not keep a log to record the business use or personal use of his automobile. He did not maintain a diary to record the appointments, meetings, open houses or other events connected with his efforts as a real estate agent. He worked only as a subagent to a highly successful agent (Ariette Kendall) receiving such contacts as she would pass down to him, but he was required to share his commissions 50-50 with her. And lastly, in 2001, he earned no commissions at all but recorded expenses of $16,566. In 2002, he earned only one commission of $329.94 on the purchase of a home for himself and his wife. In summary, he had no clients in 2001 and 2002 after holding his real estate agent’s licence for more than 10 years.
+[18] In my view, the Appellant does not fare well on the first and fourth objective factors cited by the Supreme Court in paragraph 55. On the profit and loss experience of past years, Schedule “A” to these reasons shows that in each year from 1989 to 2002, the Appellant’s real estate expenses exceeded his real estate revenue. Even in his two best years, he earned commissions of $36,474 in 1991 but reported expenses of $44,324; and he earned commissions of $20,694 in 1993 but reported expenses of $34,667. By 1998, his commission revenue was down to $2,417.
+[19] There is no evidence that the Appellant’s efforts as a real estate agent have the capability to show a profit. He was 56 years of age when he obtained his first licence in 1989. In the two years under appeal (2001 and 2002), he was about 68; he had never reported a profit from his efforts as an agent; and his commission earnings declined to nil in 2001 and near nil in 2002.
+[20] Although the Appellant’s activity as a licensed real estate agent is not a hobby or a personal endeavour, I find that he did not carry on that activity in a commercial manner or with businesslike behaviour. Accordingly, he is not permitted to deduct his claimed losses of $16,566 in 2001 and $10,835 in 2002.
+[21] For 2002, the Appellant deducted employment expenses of $6,392.38 in connection with his employment at Home Depot. Around 1998 or 1999, the Appellant had obtained employment at Home Depot and his earnings from that source are shown in Schedule “A” to these reasons. There is no evidence that the Appellant claimed employment expenses in 2001 or any preceding year. There is evidence that some of the employment expenses claimed in 2002 were duplicates of the same amounts claimed as business expenses in 2002. See paragraph 9 above. The Appellant was not able to demonstrate that any of his claimed employment expenses in 2002 was an expense required to be incurred in connection with his employment at Home Depot.
+[22] The appeals for the 2001 and 2002 taxation years are dismissed.
+Signed at Ottawa, Canada, this 22nd day of August, 2007.
+“M.A. Mogan”
+Mogan D.J.
+SCHEDULE “A”
+John R. Coome (Court File 2005-2971(IT)I)
+Amounts related to Mr. Coome’s activity as
+a real estate agent (identified as “RE”) plus
+certain other amounts, obtained from Exhibits R‑1, R-2 and R-3 and
+Mr. Coome’s oral testimony
+1989
+RE revenue
+$6,636
+RRSP benefit
+5,200
+Total income
+11,836
+RE expenses
+16,072
+1990
+RE revenue
+$12,058
+RRSP benefit
+5,000
+Total income
+17,058
+RE expenses
+26,769
+1991
+RE revenue
+$36,474
+RRSP benefit
+19,965
+Total income
+56,439
+RE expenses
+44,324
+1992
+RE revenue
+$15,394
+RRSP benefit
+39,206
+Total income
+54,600
+RE expenses
+42,266
+1993
+Gross RE commissions
+$20,694
+Net RE commissions (loss)
+-13,973
+Assumed RE expenses
+34,667
+1994
+RE revenue
+$ 1,972
+RRSP benefit
+10,930
+Total income
+12,902
+RE expenses
+12,958
+1995
+Gross RE commissions
+$ 1,752
+Net RE commissions (loss)
+-15,143
+Assumed RE expenses
+16,895
+1996
+Total earnings (T4)
+$14,751
+Net business income (loss)
+-7,970
+Total Income
+6,781
+1997
+Total earnings (T4)
+$24,293
+Net business income (loss)
+-6,826
+Total Income
+17,467
+1998
+Total earnings (T4)
+$27,135
+RE revenue
+2,417
+Net RE loss
+- 2,112
+Assumed RE expenses
+4,529
+Note: Not clear if T4 amount of $27,135 was from Home Depot employment
+1999
+Home Depot employment
+$30,255
+Net business RE income (loss)
+-17,957
+2000
+Home Depot employment
+$25,681
+RE commissions
+5,180
+Net RE (loss)
+-2,231
+Assumed RE expenses
+7,411
+2001
+Home Depot employment
+$27,456
+Net business RE income (loss)
+-16,566
+2002
+Home Depot employment
+$26,788
+Gross RE commissions
+329
+Net business RE income (loss)
+-10,835
+RE expenses as reported on tax return
+11,164
+CITATION: 2007TCC
+COURT FILE NO.: 2005-2971(IT)I
+STYLE OF CAUSE: JOHN R. COOME and
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: January 15, 2007
+REASONS FOR JUDGMENT BY: The Honourable Justice M.A. Mogan
+DATE OF JUDGMENT: August 22, 2007
+APPEARANCES:
+Counsel for the Appellant:
+James Rhodes
+Counsel for the Respondent:
+Laurent Bartleman
+COUNSEL OF RECORD:
+For the Appellant:
+Name: James Rhodes
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,151 @@
+---
+title: "Sandhu v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/25080/index.do"
+last_modified: "2006-01-25"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 TCC 50"
+citation2: ""
+neutral_citation: "2006 TCC 50"
+decision_date: "2006-01-25"
+language: "en"
+item_id: "25080"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2490
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T22:24:44.817000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "9df537bbfe4c87adf4932b95b5388ef8e4af09f89cc08f0a0d316bfeef1e3a58"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Sandhu v. The Queen
+
+- Citation: 2006 TCC 50
+- Decision date: 2006-01-25
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2490, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Sandhu v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-01-25
+Neutral citation
+2006 TCC 50
+File numbers
+2004-4817(GST)I
+Judges and Taxing Officers
+Leslie M. Little
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Citation: 2006TCC50
+Date: 20060125
+Docket: 2004-4817(GST)I
+BETWEEN:
+SUKHRAJ K. SANDHU,
+Appellant,
+And
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+(Edited from the transcript of Reasons for Judgment delivered orally from the Bench on December 15, 2005 at Edmonton, Alberta)
+Little J.
+[1] The appeal was heard in Edmonton, Alberta on Tuesday, December 13, 2005.
+[2] The Appellant is married to Dr. Sarinder Sandhu. The Appellant and her husband reside at 2027 - 36 Street in the City of Edmonton. The period under appeal is the period commencing January 1, 2001 and ending December 31, 2003 (hereinafter referred to as "the Period").
+[3] In the Period the Appellant was involved as the sole proprietor in the following commercial activities:
+A. the Appellant owned and leased commercial real property located at 56 - 9703 41st Avenue in the City of Edmonton, and the apartment was leased to a clinic owned and operated by the Appellant's husband;
+B. the Appellant provided cleaning and other janitorial services to her husband's clinic;
+C. the Appellant provided an answering service to her husband's clinic.
+[4] The Appellant testified that she would regularly receive 10 to 18 telephone calls per day for her husband's clinic. During these telephone calls the Appellant would book appointments, change appointments or make other arrangements for her husband's clinic.
+[5] The Appellant testified that during the Period she also developed a new business of distributing various health supplements. The supplements were sold to clients at her husband's clinic and were also sold to various other parties. The Appellant testified that the supplement distribution business has now become quite successful although it did not have much success during the Period.
+[6] The Appellant was registered for the purpose of Goods and Services Tax ("GST") imposed by the Excise Tax Act (the "Act").
+[7] The Appellant charged GST on the supplies of commercial property and charged GST on the supplies of janitorial services. However the Appellant did not charge GST on the supply of the answering service to her husband's clinic.
+[8] Dr. Sandhu owns all of the issued shares of the Alberta Wellness Clinic. Dr. Sandhu is a homeopathic doctor, and he operated his medical practice in the Alberta Wellness Clinic located at 56 - 9703 41st Avenue. The Alberta Wellness Clinic is not registered for GST purposes, having been exempted by the Canada Revenue Agency (the "CRA").
+[9] The Appellant filed a GST return indicating the tax that she collected and claiming input tax credits for a number of items. Mr. Kevin Price, an auditor with the CRA, carried out an audit on the Appellant's businesses. The original period under review was June 30, 2003, to September 30, 2003; however, Mr. Price testified that he later extended his audit to cover the full period that is June 30, 2001 to December 31, 2003.
+[10] Mr. Price was called as a witness by counsel for the Respondent. Mr. Price testified that after sending several letters to the Appellant and after discussions with the Appellant's accountant he received no response to his request for information and he issued a Reassessment (the First Reassessment) to disallow all input tax credits claimed by the Appellant and to make other adjustments. The Appellant filed a Notice of Objection. The Appeal Section discussed the matter with the Appellant and with her husband and issued a Second Reassessment. In the Second Reassessment the Appeal Section of the CRA allowed some of the input tax credits claimed but also confirmed many of the items dealt with in the First Reassessment.
+[11] The issues before me are as follows:
+Number 1:
+[12] Re. GST related to input tax credits. This issue deals with input tax credits on the utilities for the home at 36 Street in Edmonton. The Appellant claimed input tax credits equal to 50 percent of the GST paid on the utilities for her home. The Minister of National Revenue (the "Minister") allowed zero.
+[13] The Appellant testified that she used a large portion of her home to conduct her various businesses during the Period. I have carefully considered the Appellant's testimony and the testimony offered by her husband, and I am satisfied that the Appellant should be allowed to claim 35 percent of the GST paid on the utilities provided to the home during the Period. I am unable to accept the original position of 50 percent because I am not satisfied that 50 percent of the house was used for this purpose. I have reached this conclusion because testimony indicated that the answering service was operated from the Appellant's bedroom, i.e. you could not say the bedroom was exclusively used for business purposes.
+[14] My conclusion is that 35 percent should be allowed instead of zero allowed by the Minister and instead of 50 percent claimed by the Appellant.
+Number 2 GST re vehicle:
+[15] The Appellant testified that in 2001 and 2002 she and her husband owned two vehicles; a Honda CRV and a Dodge Voyageur van. On September 10, 2003, the Appellant purchased a 1999 Mercedes ML320 at a price of $34,940.00 (see Exhibit A-8).
+[16] Included in the purchase price was GST paid of $2,100.00. When the Appellant filed her income tax return for the 2000 year she indicated that the Honda CRV was used 50 percent for business and 50 percent for personal purposes. This is clearly shown on the 2000 tax return. In that year the Appellant made a claim for capital cost allowance of $975.00. When the Appellant filed her 2001 income tax return, no claim was made for capital cost allowance re the automobile. I refer you to the exhibit that was filed for the 2001 year.
+[17] When the Appellant filed her 2002 income tax return she claimed $663.00 in capital costs allowance, that is, on the basis of 50 percent business use.
+[18] When the Appellant filed her income tax return for the 2003 taxation year there was no claim for capital cost allowance re the automobile. The GST issues re the automobiles are as follows: The $2,100.00 paid in GST when the Mercedes was purchased by the Appellant on September 10, 2003. With respect to the $2,100.00, the Appellant and her husband maintain that the Mercedes was used substantially or almost entirely for business purposes. The Minister has allowed zero re the input tax credit ("ITC") calculations on the Mercedes.
+[19] In addition to the GST paid when the Mercedes was purchased, the Appellant also claimed input tax credits on the GST paid re gas for the Honda CRV in 2001, 2002 and 2003.
+[20] During the hearing Dr. Sandhu said that after considering the situation further he believes that the Honda CRV was used by his wife as follows:
+2000 2001 2002 2003
+Business 50% 50% 60% 70%
+Personal 50% 50% 40% 30%
+[21] After considering all of the evidence, I am prepared to accept Dr. Sandhu's statement re the business treatment for the Honda CRV for the years under appeal as follows:
+2001 2002 2003
+Business 50% 60% 70%
+Personal 50% 40% 30%
+[22] It therefore follows that the Appellant should be allowed to claim input tax credits re the operation of the CRV vehicle for 50 percent of costs in 2001, 60 percent of costs in 2002 and 70 percent of the cost of operating the vehicle in 2003.
+[23] I am not convinced that the Appellant should be allowed to deduct as an input tax credit an amount equal to $2,100.00 re the Mercedes. I have reached this conclusion because I do not believe it is reasonable for me to accept that a vehicle was used 90 percent or more of the time for business purposes when there was very little income generated by the distribution business until December 2003.
+[24] Furthermore, the Appellant testified that from January 1, 2003 up to at least September 10, 2003 she was using the Honda CRV 70 percent for business purposes.
+[25] The question of the business use of the Mercedes may come up in future years. It is the responsibility of the Appellant to provide evidence of business use in determining deductible expenses and GST for those years.
+[26] Before leaving the vehicle question, I wish to note that since the Appellant did not make a claim for capital cost allowance re the vehicle in 2003, the Appellant may wish to refile her 2003 tax return or advise officials of the CRA to allow her to claim capital cost allowance for 2003. I wish to note that this is a choice of the Appellant. It is optional; it is not mandatory.
+[27] There are two other GST issues that I would like to address. The Appellant claims that in 2003 she paid wages in the amount of $4,900.00. The Appellant said that she paid $900.00 to her father-in-law, $2,000.00 to her daughter and $2,000.00 to her son. Dr. Sandhu confirmed that his father, daughter and son each reported this amount in their income for that year.
+[28] I am prepared to accept the testimony of the Appellant and the testimony of Dr. Sandhu on this issue and the amount of $4,900.00 shown as wages on page 7 of the 2003 income tax return (Exhibit A-9) should be allowed as an expense of the Appellant.
+[29] The second point deals with the failure by the Appellant to charge GST on the fee paid for the answering service that she provided to her husband's clinic. The Appellant said that the fee charged by her to her husband's clinic was $700.00 per month for each month of 2001, 2002 and 2003. The Appellant and Dr. Sandhu each testified that GST was not charged on this fee because they were told by an official of the CRA that they did not have to charge seven percent GST because the income was shared between the Appellant, her father-in-law, her daughter and her son.
+[30] I am not aware of any GST exemption as described by the Appellant with respect to this sharing of income and therefore, in my opinion, GST is applicable to the amount paid for the answering service.
+[31] However, I am not convinced that a penalty should be imposed with respect to this fee, because I believe that the Appellant and her husband truly believed that the fee was exempt from GST.
+[32] With respect to the penalties imposed, I have concluded that when the Minister made the adjustments, as I have outlined above, he should eliminate all of the penalties. I have reached this conclusion, re no penalties, for the following reasons: I am convinced that the Appellant has attempted to comply with the provisions of the Act and did her best to file the tax returns properly. Furthermore, there was confusion related to the audit when Mr. Price did not receive a response from the Appellant's accountant.
+[33] Finally there appears to be problems that arose with respect to the Collections Section of the CRA.
+[34] Now, in terms of the accountant, it seems to me from the testimony that Dr. Sandhu and Mrs. Sandhu both testified that they are not aware of the letter from Mr. Price requesting more information. A communication breakdown occurred between Mr. Price, the accountant and the Appellant. For these reasons I do not think that a penalty should be applied.
+[35] Before closing I wish to say that I was impressed with the work ethics of the Appellant and her husband. In the future I urge the Appellant and her husband to keep proper business records and to continue to deal with her accountant on GST and income tax matters in order to ensure that problems of this nature do not occur.
+[36] The appeal is allowed, without costs, and the Minister is to make the adjustments as outlined above.
+Signed at Ottawa, Canada, this 25th day of January 2006.
+"L.M. Little"
+Little J.
+CITATION:
+2006TCC50
+COURT FILE NO.:
+2004-4817(GST)I
+STYLE OF CAUSE:
+Sukhraj K. Sandhu and
+Her Majesty the Queen
+PLACE OF HEARING:
+Edmonton, Alberta
+DATE OF HEARING:
+December 13, 2005
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Little
+DATE OF ORAL JUDGMENT:
+December 15, 2005
+APPEARANCES:
+Agent for the Appellant:
+Surinder Sandhu
+Counsel for the Respondent:
+Marla Teeling
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

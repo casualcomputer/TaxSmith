@@ -1,0 +1,149 @@
+---
+title: "Jodoin v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27294/index.do"
+last_modified: "2006-10-12"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 TCC 555"
+citation2: ""
+neutral_citation: "2006 TCC 555"
+decision_date: "2006-10-12"
+language: "en"
+item_id: "27294"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 901
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T21:41:39.162000+00:00"
+cases_cited_count: 3
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "8efa95f4fc2a5497bd1ed49db0b4fd4b4e86caf478371e6a421661adc91858fe"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Jodoin v. The Queen
+
+- Citation: 2006 TCC 555
+- Decision date: 2006-10-12
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 901, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Jodoin v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-10-12
+Neutral citation
+2006 TCC 555
+File numbers
+2006-946(IT)I
+Judges and Taxing Officers
+Eric A. Bowie
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2006-946(IT)I
+BETWEEN:
+LESLIE JODOIN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on August 31, 2006, at Edmonton, Alberta
+By: The Honourable Justice E.A. Bowie
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Kiran Kaur Bhinder
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment of tax made under the Income Tax Act for the 2004 taxation year is allowed and the reassessment is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the Appellant is entitled to deduct an allowable business investment loss in the amount of $42,666.
+Signed at Ottawa, Canada, this 12th day of October 2006.
+"E.A. Bowie"
+Bowie J.
+Citation: 2006TCC555
+Date: 20061012
+Docket: 2006-946(IT)I
+BETWEEN:
+LESLIE JODOIN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+BowieJ.
+[1] This is an appeal from a reassessment in respect of the Appellant's 2004 taxation year whereby the Minister of National Revenue (Minister) disallowed a business investment loss (BIL) of $85,332 for that year and adjusted her 2003 income tax return to allow the $85,332 BIL in the 2003 taxation year.
+facts
+[2] The Appellant, Leslie Jodoin, was the sole shareholder of Sincerely Yours Ltd. (the Corporation) which was a retail store in the business of selling giftware and antiques. The Corporation's fiscal year end was January 31. The Appellant operated this business for about five years, but on August 31, 2003 she closed down the store because it was not doing well. Between August 31 and December 31, 2003, the Appellant disposed of the Corporation's remaining assets, performed a final accounting for the Corporation and submitted final GST returns to Canada Revenue Agency. On the advice of her accountant, the Appellant did not dissolve the Corporation in that year. The Appellant testified that she was not in a position to make a final decision regarding the dissolution of the Corporation due to personal circumstances.
+[3] The Corporation was eventually dissolved on February 10, 2004. The Appellant made an election under subsection 50(1) of the Income Tax Act (Act)[1] and claimed an allowable business investment loss (ABIL) of $42,666 on her 2004 income tax return, which represented one-half of her BIL of $85,332 for the year. The BIL was a shareholder's loan from the Appellant to the Corporation that remained unpaid at dissolution.
+Appellant's position
+[4] The Appellant argues that the ABIL should be allowed in the 2004 taxation year because the bad debt did not crystallize until the dissolution of the Corporation on February 10, 2004. She maintains that prior to the dissolution, she could have used the Corporation for other business ventures, but she was not in a position at the end of 2003 to make such a decision due to personal circumstances. The Appellant also cites Longerich v. R.[2] and argues that she should be allowed to deduct an ABIL in 2004 because she made a subsection 50(1) election in that year, and not in 2003, in which no election was made.
+Respondent's position
+[5] The Respondent submits that the Appellant was entitled to deduct the ABIL of $42,666 in the 2003 taxation year but not in 2004. The Respondent argues that at the end of 2003, it was reasonable to expect that the Corporation would be dissolved or wound up at some point. Further, the Respondent argues that at the end of 2003, it would also be reasonable to expect that the Appellant had no intention to carry on business in the future. Counsel for the Respondent based her argument on subsection 50(1) and Jacques St-Onge Inc. v. Canada.[3]
+Analysis
+[6] The relevant provision of the Act is as follows:
+50.(1) For the purposes of this subdivision, where
+(a) a debt owing to a taxpayer at the end of a taxation year (other than a debt owing to the taxpayer in respect of the disposition of personal-use property) is established by the taxpayer to have become a bad debt in the year, or
+(b) a share (other than a share received by the taxpayer as consideration in respect of the disposition of personal-use property) of the capital stock of a corporation is owned by the taxpayer at the end of a taxation year and
+(i) the corporation has during the year become a bankrupt (within the meaning of subsection 128(3)),
+(ii) the corporation is a corporation referred to in section 6 of the Winding-up and Restructuring Act that is insolvent (within the meaning of that Act) and in respect of which a winding-up order under that Act has been made in the year, or
+(iii) at the end of the year,
+(A) the corporation is insolvent,
+(B) neither the corporation nor a corporation controlled by it carries on business,
+(C) the fair market value of the share is nil, and
+(D) it is reasonable to expect that the corporation will be dissolved or wound up and will not commence to carry on business
+and the taxpayer elects in the taxpayer's return of income for the year to have this subsection apply in respect of the debt or the share, as the case may be, the taxpayer shall be deemed to have disposed of the debt or the share, as the case may be, at the end of the year for proceeds equal to nil and to have reacquired it immediately after the end of the year at a cost equal to nil.
+[emphasis added]
+[7] Because the ABIL in the current case arose from a shareholder's loan that had become bad, paragraph 50(1)(a) is the applicable provision. Unlike paragraph 50(1)(b), paragraph 50(1)(a) has no condition of reasonable expectation of dissolution or winding-up.
+[8] The only issue raised by the Respondent is the timing of the ABIL. There is no disagreement that an appropriate election had been filed by the Appellant in respect of the 2004 taxation year and that none was filed in respect of 2003. The wording of subsection 50(1) clearly states that the taxpayer must elect in the taxpayer's return of income for the year to have this subsection apply in respect of a debt. Otherwise, the subsection does not apply.
+[9] The Appellant cites Longerich to support her argument that the ABIL should be allowed in the 2004 taxation year because she made a valid subsection 50(1) election on her income tax return for that year. In Longerich, O'Connor J. held that "subsection 50(1) of the Act must be complied with ...".
+[10] In Harris v. R.,[4] Sheridan J. held that the taxpayer's failure to make a subsection 50(1) election was fatal to a claim of an ABIL because the words in subsection 50(1) that I have emphasized above create a necessary condition precedent to the deduction.
+conclusion
+[11] For the foregoing reasons, I am of the view that the Appellant first became entitled to claim an ABIL in the amount of $42,666 in the 2004 taxation year.
+[12] Accordingly, the appeal is allowed, and the reassessment is referred back to the Minister for reconsideration and reassessment on the basis that the Appellant is entitled to deduct an ABIL in the amount of $42,666 in the 2004 taxation year.
+Signed at Ottawa, Canada, this 12th day of October, 2006.
+"E.A. Bowie"
+Bowie J.
+CITATION: 2006TCC555
+COURT FILE NO.: 2006-946(IT)I
+STYLE OF CAUSE: LESLIE JODOIN AND
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: Edmonton, Alberta
+DATE OF HEARING: August 31, 2006
+REASONS FOR JUDGMENT BY: The Honourable Justice E.A. Bowie
+DATE OF JUDGMENT: October 12, 2006
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Kiran Kaur Bhinder
+COUNSEL OF RECORD:
+For the Appellant:
+Name: N/A
+Firm: N/A
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] R.S.O. 1985 (5th Supp.), c. 1.
+[2] 2004 DTC 2980; [2004] 4 C.T.C. 2481.
+[3] 2003 DTC 153; [2004] 1 C.T.C. 2094.
+[4] [2005] 4 C.T.C. 2137; 2005 DTC 1179.

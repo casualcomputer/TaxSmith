@@ -1,0 +1,96 @@
+Title: Ellenton c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/31276/index.do
+Corpus path: corpus/cases/tcc/2010/2010-cci-441-31276-ellenton-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2010-07-08
+
+# Ellenton c. La Reine
+
+- Citation: 2010 CCI 441
+- Decision date: 2010-07-08
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5117, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Ellenton c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2010-07-08
+Référence neutre
+2010 CCI 441
+Numéro de dossier
+2010-702(IT)APP
+Juges et Officiers taxateurs
+Frank J. Pizzitelli
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Référence : 2010 CCI 441
+2010‑702(IT)APP
+2010‑1479(GST)APP
+ENTRE :
+GEORGE FRANCIS ELLENTON,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+TRANSCRIPTION DES MOTIFS DU JUGEMENT
+Je requiers que soit déposée la transcription révisée ci‑jointe des motifs du jugement rendus oralement à l'audience, à Vancouver (Colombie‑Britannique), le 8 juillet 2010. La transcription certifiée a été modifiée par souci de clarté et de précision.
+« F. J. Pizzitelli »
+Le juge Pizzitelli
+Signé à Ottawa, Canada, le 27 août 2010.
+Traduction certifiée conforme
+ce 21e jour d'août 2013.
+Mario Lagacé, jurilinguiste
+2010‑702(IT)APP
+2010‑1479(GST)APP
+ENTRE :
+GEORGE FRANCIS ELLENTON,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Motifs du jugement rendus oralement par le juge Pizzitelli le jeudi 8 juillet 2010 à la salle d'audience no 603 du Service administratif des tribunaux judiciaires située au 6e étage du 701, rue West Georgia, à Vancouver (Colombie‑Britannique).
+Comparutions :
+G. Ellenton
+Pour son propre compte
+Me H. Popenia
+Avocate de l'intimée
+Le greffier‑audiencier : F. Richard
+Allwest Reporting Ltd.
+1125, rue Howe
+12e étage
+Vancouver (Colombie‑Britannique)
+V6Z 2K8
+Par : K. Bemister
+AUDIENCE
+(L'audience a repris à 12 h 36.)
+LA COUR : Je rends jugement oralement pour les deux affaires précitées, à la fois l'affaire portant sur l'impôt sur le revenu et celle portant sur la TPS, qui ont été entendues ensemble.
+Les deux demandes portent sur une demande de prorogation du délai pour déposer un avis d'opposition en vertu des articles 166.2 et 304 respectivement de la Loi de l'impôt sur le revenu et de la Loi sur la taxe d'accise.
+Le 3 septembre 2008, le contribuable a fait l'objet de nouvelles cotisations en vertu de la Loi de l'impôt sur le revenu pour les années d'imposition 2005 et 2006. Le 7 décembre 2009, l'ARC a reçu une lettre datée du 28 novembre 2009 et dont le cachet postal indiquait le 4 décembre 2009, par laquelle l'appelant s'opposait à la nouvelle cotisation. Le 3 mars 2010, le ministre du Revenu national a répondu à l'appelant qu'il considérait sa lettre comme une demande de prorogation du délai pour déposer un avis d'opposition en vertu de l'article 166.1 de la Loi de l'impôt sur le revenu. Le 8 février 2010, le ministre a informé l'appelant que sa demande de prorogation n'était pas accueillie, au motif qu'elle avait été déposée après le délai prévu par la Loi. L'appelant a alors demandé à la Cour une prorogation du délai en vertu de l'article 166.2 de la Loi.
+Pour ce qui est de l'appel en matière de TPS pour la période du 1er septembre 2004 au 31 août 2006, le ministre a établi un avis de cotisation à l'égard de l'appelant le 22 juillet 2008. Le 14 janvier 2010, le ministre a reçu une lettre datée du 12 janvier 2010 par laquelle l'appelant l'informait qu'il avait de la difficulté à obtenir ses dossiers de sa comptable et lui demandait d'être patient. Le ministre a considéré cette lettre comme une demande de prorogation du délai pour déposer un avis d'opposition en vertu du paragraphe 303(1) de la Loi sur la taxe d'accise. Le 7 avril 2010, le ministre a informé l'appelant qu'il ne pouvait faire droit à sa demande et, le 3 mai 2010, l'appelant a demandé à la Cour une prorogation du délai pour déposer l'avis d'opposition en vertu de l'article 304 de la Loi sur la taxe d'accise.
+Les dispositions légales qui s'appliquent à ces demandes ont des libellés et des effets semblables. L'article 165 de la Loi de l'impôt sur le revenu et le paragraphe 301(1.1) de la Loi sur la taxe d'accise ont tous deux pour effet d'accorder au contribuable un délai de 90 jours suivant la réception de l'avis de nouvelle cotisation pour déposer un avis d'opposition. Le fait que l'appelant avait donc jusqu'au 2 décembre 2008 et jusqu'au 20 octobre 2008 pour déposer les avis d'opposition en vertu de la Loi de l'impôt sur le revenu et de la Loi sur la taxe d'accise, respectivement, n'est pas en litige. Aucun avis d'opposition n'a été déposé dans ces délais de 90 jours.
+En vertu de l'article 166.1 de la Loi de l'impôt sur le revenu et de l'article 303 de la Loi sur la taxe d'accise, le contribuable qui n'a pas déposé un avis d'opposition dans ces délais de 90 jours peut demander au ministre de proroger les délais de dépôt. En l'espèce, comme nous l'avons signalé, le ministre a considéré que l'appelant avait présenté une telle demande à l'égard de la Loi de l'impôt sur le revenu dans sa lettre que l'ARC a reçue le 7 décembre 2009, et à l'égard de la Loi sur la taxe d'accise dans sa lettre que l'ARC a reçue le 14 janvier 2010. Comme nous l'avons dit, le ministre a rejeté les deux demandes de prorogation au motif que les demandes avaient été présentées après les délais prescrits.
+En vertu de l'alinéa 166.1(7)a) de la Loi de l'impôt sur le revenu, le ministre ne peut accueillir la demande lorsqu'elle est présentée plus d'un an après le délai initial de 90 jours pour le dépôt de l'avis d'opposition. Dans ce cas‑ci, cette période d'un an a pris fin le 2 décembre 2009. La lettre de l'appelant datée du 28 novembre 2009, dont le cachet postal indique le 4 décembre 2009 et qui porte un timbre indiquant que l'ARC l'a reçue le 7 décembre 2009, est postérieure à cette période d'un an, même si ce n'est que de quelques jours.
+En vertu de l'alinéa 303(7)a) de la Loi sur la taxe d'accise, qui est semblable à l'alinéa 166.1(7)a) de la Loi de l'impôt sur le revenu que je viens de mentionner, le ministre ne peut accueillir la demande lorsqu'elle est présentée plus d'un an après le délai initial de 90 jours pour le dépôt de l'avis d'opposition. Dans ce cas‑ci, cette période d'un an a pris fin le 20 septembre 2009. La lettre de l'appelant du 12 janvier 2010 que l'ARC a reçue le 14 janvier 2010 est manifestement postérieure à la période d'un an.
+De même, en vertu de l'alinéa 166.2(5)a) de la Loi de l'impôt sur le revenu et de l'alinéa 304(7)a) de la Loi sur la taxe d'accise, qui sont semblables, la Cour ne peut faire droit à une demande si celle‑ci n'a pas été présentée au ministre dans les mêmes délais, c'est‑à‑dire au plus tard le 2 décembre 2009 dans le cas de la Loi de l'impôt sur le revenu et au plus tard le 20 septembre 2009 dans le cas de la Loi sur la taxe d'accise.
+L'appelant a reconnu pendant l'audience ne pas avoir respecté, à strictement parler, les dates d'échéance légales, mais il a fait valoir qu'il avait embauché une comptable, une certaine Debra Webb, pour qu'elle prépare les documents nécessaires et dépose les oppositions, et qu'il s'était fié à elle pour le faire. Il existe une preuve abondante qu'il lui a remis de nombreux documents, croyant, par erreur, qu'elle l'avait fait, puisqu'elle le lui avait affirmé oralement plusieurs fois à l’époque. Malheureusement, rien n'indique qu'elle ait déposé d'avis d'opposition dans les délais de 90 jours que j'ai déjà mentionnés, comme le confirment les affidavits d'un fonctionnaire de l'ARC. La preuve indique uniquement que la comptable a peut‑être déposé des avis d'opposition avec sa lettre du 22 juin 2009 au chef des appels. L'ARC ne dispose d'aucun renseignement qui indique qu'elle a reçu cette lettre, et l'appelant ne dispose d'aucune preuve que la lettre a été envoyée; il a seulement témoigné qu'on lui avait dit que la lettre avait été envoyée et il croit que l'affirmation dans l'affidavit de l'ARC voulant qu'elle n'ait pas reçu cette lettre est erronée. Quoi qu'il en soit, même si l'ARC avait reçu la lettre de la comptable, elle était postérieure au délai de 90 jours pour déposer les avis d'opposition, elle ne contient pas de demande de prorogation du délai et elle n'indique aucunement les raisons du dépôt tardif et, ainsi, elle ne peut être considérée comme une demande de prorogation présentée au ministre.
+L'appelant était un témoin très digne de foi et la preuve indique qu'il avait en fait engagé la comptable pour qu'elle le représente, mais que la comptable a cessé d'exercer sa profession vers le 31 juillet 2009, ce qu'il n'a appris qu'après s'être plaint à l'Institute of Certified General Accountants of British Columbia, puisque la comptable elle‑même ne le lui avait pas dit. Il a tenté à plusieurs reprises de communiquer avec elle et d'obtenir ses dossiers, mais ce n'est qu'au début janvier 2010 qu'il a enfin pu obtenir les neuf boîtes contenant ses documents. La preuve indique qu'il avait continué à informer l'ARC par écrit des difficultés qu'il avait à communiquer avec sa comptable et que c'est l'ARC elle‑même qui l'a informé qu'elle avait appris que la comptable n'exerçait plus. Le contribuable affirme être victime de circonstances qui échappaient à son contrôle, et la preuve étaye tout à fait cette affirmation. Comme je l'ai dit, le contribuable reconnaît que la période fixée pour le dépôt de sa demande est écoulée à strictement parler, mais vu les circonstances — et je reconnais qu'elles échappaient manifestement à son contrôle — il demande à la Cour d'être équitable, de ne pas le punir pour les actes de sa comptable, et de lui permettre de poursuivre son appel.
+Malheureusement pour l'appelant, en vertu de l'alinéa 166.2(5)a) de la Loi de l'impôt sur le revenu et de l'alinéa 304(7)a) de la Loi sur la taxe d'accise, la Cour n'a pas le pouvoir d'accueillir une demande de prorogation du délai pour déposer un avis d'opposition lorsque la demande est présentée plus d'un an après le délai habituel de 90 jours pour ce dépôt, puisque ces délais sont de rigueur. La Cour d'appel fédérale l'a confirmé à de nombreuses reprises, notamment dans les arrêts Aztec Industries Inc. c. La Reine, [1995] A.C.F. no 535 (QL), Pereira c. La Reine, 2008 CAF 264, et R. c. Carlson, 2002 CAF 145, dans lequel le juge Nadon a énoncé la règle de droit de façon succincte comme suit :
+[13] [...] Comme notre Cour l'a statué à de nombreuses occasions, lorsqu'un contribuable n'est pas en mesure de respecter un délai prévu par la Loi, même à cause d'une défaillance du système postal, ni le ministre ni la CCI ne peuvent lui venir en aide [...]
+Quant à la demande d’équité du contribuable, je suis certes d'accord qu'il s'agit, si jamais il en fut, d'une situation dans laquelle le ministre et la Cour devraient faire preuve de compréhension et lui permettre de déposer son avis d'opposition et de plaider sa cause devant la Cour, s'il le faut. Cependant, la loi, qui me lie, m'interdit d'aider le contribuable dans ces circonstances. Comme l'intimée l'a signalé, la Cour d'appel fédérale a confirmé, dans l'arrêt Chaya c. La Reine, 2004 CAF 327, que les motifs d'équité échappent à la compétence de la Cour.
+Au paragraphe 4 de cet arrêt, le juge Rothstein a affirmé que la Cour :
+[4] [...] ne peut pas déroger aux dispositions législatives pour des raisons liées à l'équité. S'il estime que la loi est inéquitable, le demandeur doit avoir recours au Parlement et non pas à la Cour.
+Sauf pour ce qui est d'une demande de réparation à l'encontre de son ancienne conseillère ou d'une demande de redressement au Comité de l'équité de l'ARC, il semblerait que l’appelant ne puisse obtenir de redressement de notre Cour. Par conséquent, je rejette la demande.
+Monsieur, c'est avec un profond regret que je rejette votre demande. Je dois dire que, si je pouvais le faire et que j'avais la compétence équitable nécessaire, j'aurais accueilli votre demande. Merci.
+(L'audience a pris fin à 12 h 45.)
+Traduction certifiée conforme
+ce 21e jour d'août 2013.
+Mario Lagacé, jurilinguiste

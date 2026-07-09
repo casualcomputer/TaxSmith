@@ -1,0 +1,251 @@
+---
+title: "Gravil v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28915/index.do"
+last_modified: "2008-10-07"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 TCC 505"
+citation2: ""
+neutral_citation: "2008 TCC 505"
+decision_date: "2008-10-07"
+language: "en"
+item_id: "28915"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1423
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T23:44:54.992000+00:00"
+cases_cited_count: 1
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "0fbd8d2288e75c57afdc28ff87ace0a6ad2baed329f942b39ea207fdfb40eee8"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Gravil v. The Queen
+
+- Citation: 2008 TCC 505
+- Decision date: 2008-10-07
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1423, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Gravil v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-10-07
+Neutral citation
+2008 TCC 505
+File numbers
+2006-1130(IT)G
+Judges and Taxing Officers
+Paul Bédard
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2006-1130(IT)G
+BETWEEN:
+FRANÇOIS GRAVIL,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on June 12, 2008, at Québec, Quebec
+Before: The Honourable Justice Paul Bédard
+Appearances:
+Counsel for the Appellant:
+Roger Breton
+Counsel for the Respondent:
+Michel Lamarre
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessments made under the Income Tax Act for the 1999 and 2000 taxation years is dismissed, with costs, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 7th day of October 2008.
+"Paul Bédard"
+Bédard J.
+Translation certified true
+on this 25th day of November 2008.
+Brian McCordick, Translator
+Citation: 2008 TCC 505
+Date: 20081007
+Docket: 2006-1130(IT)G
+BETWEEN:
+FRANÇOIS GRAVIL,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Bédard J.
+[1] The Appellant is appealing from the reassessments made on September 14, 2004, by the Minister of National Revenue ("the Minister") under the Income Tax Act ("the Act") for the 1999 and 2000 taxation years.
+[2] Through the reassessments, the Minister made the following changes to the Appellant's tax returns:
+1999
+$
+2000
+$
+Former total income
+62,505
+14,525
+Add
+1. Fees received from Les produits Déli‑Bon Inc.
+47,000
+60,000
+2. Amounts advanced and written off by Les produits Déli‑Bon Inc.
+136,430
+3. Benefit received from Les produits Déli‑Bon Inc. for the purchase of its shares
+213,162
+4. Benefit received from Les produits Déli‑Bon Inc.
+110,918
+Total additions
+47,000
+520,510
+A penalty was assessed under subsection 163(2)
+of the Income Tax Act for all added income
+Deduct
+Deductions claimed by the Appellant
+4,578
+37,653
+5. Business investment loss
+271,867
+Revised taxable income
+104,927
+225,515
+Background
+[3] The Appellant is an Aboriginal person living on an Indian reserve. In January 1996, the Appellant, who had worked as a food consultant for about 10 years, was hired by Les produits Déli‑Bon Inc. ("the company"), a business that produced and distributed fruit salad and was owned at the time by The Unimark Group Inc. ("Unimark"), a Texas corporation that was the company's sole shareholder. In the summer of 1999, the Appellant, who was then the company's principal officer, learned that Unimark was having serious financial problems and was thinking of divesting itself of the company, among other things. The idea of purchasing the company's shares began to form in the Appellant's mind. He was very familiar with the company's activities but knew little about how to finance such a purchase. He therefore thought it would be helpful to find a partner who knew about financing before proceeding with his purchase of the company's shares. This idea led him to contact Guy Picard, a credit consultant he had known for about a year, in 1999. Their discussions resulted in the partnership the Appellant was seeking. On October 11, 1999, the two partners purchased all the company's shares for US$1,423,932 as equal shareholders. The purchase agreement (Exhibit A‑8) stated that François Gravil and Guy Picard were acting "in trust for the company to be owned and operated by François Gravil and Guy Picard". Section 1 of the purchase agreement therefore set out the terms of the sale:
+Sale and Purchase of Stock. Seller hereby agrees to sell, and Purchaser hereby agrees to purchase, the Deli‑Bon Shares for $1,432,932 payable as follows:
+(a) by delivering $320,000 (U.S.) in immediately available funds on the closing date (as set forth in Section 4 of this Agreement);
+(b) by executing and delivering a 30 day non‑interest bearing promissory note in the original principal amount of $400,000 (U.S.), in substantially the same form as Exhibit B hereto (the “30 Day Note”). The note shall be secured by all the Deli‑Bon Shares in accordance with the terms of two pledge agreements in substantially the same form as Exhibit C hereto (the “Short‑term Pledge Agreement”) and Exhibit F hereto (the “Long‑term Pledge Agreement”);
+(c) by executing and delivering a 60 day non‑interest bearing promissory note in the original principal amount of $400,000 (U.S.), in substantially the same form as Exhibit D hereto (the “60 Day Note”). The note shall be secured by all the Deli‑Bon Shares in accordance with the terms of two pledge agreements in substantially the same form as the Short‑term Pledge Agreement and the Long‑term Pledge Agreement;
+(d) by executing and delivering a five year promissory note in the original principal amount of $303,932 (U.S.). The note shall bear interest at 8.75% per annum, with interest and principal payable in monthly installments of $6,272 and shall be in substantially the same form as Exhibit E hereto (the “5 Year Note”). The note shall be secured by the Deli‑Bon Shares. The note shall be secured by 51% of the outstanding Deli‑Bon Shares in accordance with the terms of the Long‑term Pledge Agreement.
+Finally, it is worth noting that section 15 of the purchase agreement was worded as follows:
+15 Neither this Agreement nor any interest of any party herein may be assigned, pledged or transferred without the prior written consent of the parties hereto.
+[4] The two men divided up roles in the company as follows:
+(1) as president, the Appellant was in charge of the company's operation, including sales and supplier relations;
+(2) as chief executive officer, Mr. Picard was responsible for financing and accounts payable.
+[5] The first two payments provided for in the agreement for the purchase of the company's shares were made using the company's own funds and were entered in its books as shareholder advances.
+[6] In May 2000, the Appellant concluded that his partnership with Mr. Picard could not continue any longer because of their differences of opinion over how to run the company. They talked about ending their partnership and finally agreed that the Appellant would leave the company. On June 15, 2000, the two men therefore signed a [translation] "Contract for Sale of Shares" (Exhibit A‑13) under which the Appellant sold Mr. Picard his shares in the company. The content of that document was as follows:
+[TRANSLATION]
+Contract for Sale of Shares
+I, the undersigned, François Gravil, businessman, acting personally and/or in trust, residing at 10 Gaspard Picard, Wendake, Quebec G0A 4V0, and
+Guy Picard, businessman, acting personally and/or in trust, residing at 80 des écureuils, Wendake G0A 4V0
+Do declare and agree as follows:
+That on October 11, 1999, through a stock purchase agreement, they purchased all shares owned by The UniMark Group Inc., being certificates C‑3 and C4, totalling 1,450,000 common shares.
+That they gave the said 1,450,000 common shares to The UniMark Group Inc. as collateral security under a stock power through two notes, a "60 days secured note" and a "5 years secured note" dated October 11, 1999.
+That they entered into a shareholder agreement and a consulting contract pursuant to a resolution passed by Les Produits Déli‑Bon Inc. on October 12, 1999.
+That Les Produits Déli‑Bon Inc. agreed to provide a vehicle pursuant to resolutions passed on December 20, 1999.
+That Guy Picard is purchasing from François Gravil, personally and/or in trust, all the common shares owned by François Gravil, that is, certificates C3 and C‑4, and given as security to The UniMark Group Inc., namely a total of 1,450,000 common shares.
+That François Gravil, personally and in trust, acknowledges receiving good and valuable consideration, full and final receipt whereof is hereby acknowledged.
+That François Gravil irrevocably transfers and renounces any right, title and interest in all the shares owned by him in Les Produits Déli‑Bon Inc. and/or Les Produits Déli‑Bon 2000 Inc., the whole in favour of Guy Picard.
+That François Gravil renounces outright any benefit granted by Les Produits Déli‑Bon Inc. and/or in Les Produits Déli‑Bon 2000 Inc. with respect to any financial consulting contract and/or any other benefit previously granted by resolution.
+That François Gravil renounces any right, title and interest and any personal or other remedy and grants and undertakes to sign before Danielle Grenon a release of any security created under any movable or immovable hypothec and/or collateral security within five days of being given notice to do so.
+That François Gravil undertakes not to directly or indirectly operate, within a 50‑kilometre radius of Québec, a business that produces and sells fruit salad and/or salsa products for a period of five years.
+That the parties declare themselves satisfied with the said agreement.
+. . .
+[7] The Appellant also signed the following document on June 15, 2000:
+[TRANSLATION]
+I, the undersigned, François Gravil, acknowledge receiving $75,000.00 from Guy Picard for good and valuable consideration.
+François Gravil
+[8] The same day, the Appellant signed the following notice of resignation:
+[TRANSLATION]
+I, the undersigned, François Gravil, businessman, residing at 10 Gaspard Picard, Wendake, province of Quebec G0A 4V0, give notice that I am resigning as company president, operations manager, financial consultant and/or employee of Les Produits Déli‑Bon Inc. and/or Les Produits Déli‑Bon 2000 Inc.
+In witness whereof, I have signed on this day at Loretteville, province of Quebec.
+François Gravil
+[9] On October 3, 2000, Unimark and UniMark Goods Inc. brought an action against the company, Les Produits Déli‑Bon 2000 Inc., François Gravil and Guy Picard to recover the unpaid balance of the sale price for the shares. On October 12, 2001, the company declared bankruptcy.
+[10] The evidence also showed the following:
+(i) on June 5, 2000, the company's board of directors passed the following resolution (Exhibit A‑18):
+[TRANSLATION]
+That the company to be formed as specified at the time the company was purchased (Guy Picard in trust and François Gravil in trust) shall be the new corporation Les Produits Déli‑Bon 2000 Inc., designating no. 1149110141.
+(ii) on June 3, 2000, the company's board of directors passed the following resolution (Exhibit A‑21):
+[TRANSLATION]
+That the company shall give a good, sufficient and final acquittance to François Gravil and Guy Picard, personally and/or in trust, for the total of US$725,000 owed pursuant to the following resolutions:
+A October 6, 1999
+B October 21, 1999
+C December 10, 1999
+That the said loans shall be the full responsibility of Les Produits Déli‑Bon 2000 Inc., designating no. 1149110141, in consideration of the shares issued, namely 1,450,000 common shares (certificates C‑3, C‑4).
+Minister's assumptions of fact
+[11] The same facts were assumed by the Minister in making and confirming the reassessments dated September 14, 2004, namely:
+(a) on October 11, 1999, the Appellant and Guy Picard purchased 50% each of the shares of Les produits Déli‑Bon Inc. ("the company") for US$1,423,932; (denied)
+(b) on June 14, 2000, the Appellant sold his shares in the company for $75,000 to Mr. Picard, who also assumed the amounts still owing at the time the said shares were purchased; (denied)
+(c) on October 12, 2001, the company declared bankruptcy; (admitted)
+Fees received from the company
+(d) the company's fiscal year started on October 3 and ended on October 2; (admitted)
+(e) the company operated a food business; (admitted)
+(f) the Appellant was the company's president, operations manager and sales manager; (admitted)
+(g) at all relevant times, the company had its place of business at 132 Giroux Street in Loretteville, Quebec; (admitted)
+(h) the company was located and carried on its activities off an Indian reserve; (admitted)
+(i) during the 1999 and 2000 taxation years, the Appellant received $47,000 and $60,000, respectively, from the company, which described those amounts as fees; (admitted)
+(j) at all relevant times, the Appellant did not work on the Indian reserve in the Huron village to earn those amounts; (admitted)
+(k) if the Appellant worked to earn those amounts, he worked at the company's place of business, which was off the reserve; (admitted)
+(l) the Appellant did not report those amounts in his tax returns for the 1999 and 2000 taxation years; (admitted)
+Benefit received from the company for the purchase of shares
+(m) on October 13 and 21, 1999, payments of US$320,000 and US$380,000 for the purchase of the company's shares were made using the company's own funds and recorded in its books as shareholder advances; (admitted)
+(n) out of the amounts loaned to the Appellant and Mr. Picard, the company, during its fiscal year ending on October 2, 2000, transferred $426,324 to the item for accrued expenses as fees and $221,836 to the item for consulting fees through accounting entries in its ledger, reducing the balance of receivables from the shareholders by the same amount, even though no service had been rendered by the shareholders; (admitted)
+(o) of the amounts transferred by the company, the portion the Appellant owed the company was $213,162 and $110,918, that is, half of the amount loaned; (denied as written)
+(p) the company thus paid personal expenses on the Appellant's behalf during the 2000 taxation year, namely $213,162 and $110,918 for the Appellant's purchase of the company's shares; (denied as written)
+Amounts advanced and written off
+(q) according to the company's financial statements, on October 2, 2000, it claimed a bad debt of $225,000; (admitted)
+(r) that bad debt was from advances made to the Appellant and Mr. Picard during the 1999 and 2000 taxation years; (denied as written)
+(s) $88,570 of the bad debt of $225,000 represented advances made by the company to Mr. Picard during the 1999 and 2000 taxation years; (not known)
+(t) the company paid $136,430 in personal expenses on the Appellant's behalf during the 2000 taxation year, namely the $225,000 written off by the company minus the $88,750 in advances made by the company to Mr. Picard; (denied as written)
+Issues
+[12] The first issue, namely whether the Minister was justified in adding unreported income of $47,000 for the 1999 taxation year and $60,000 for the 2000 taxation year to the income reported by the Appellant, will not be analysed because counsel for the Appellant admitted at the outset that the Minister was justified in doing so. However, the Appellant argued that the Minister was not justified in imposing a penalty on him under subsection 163(2) of the Act for that unreported income.
+[13] The second issue, namely whether the Minister was justified in adding $213,162, $110,918 and $136,430 to the Appellant's income for the 2000 taxation year as benefits conferred on a shareholder in accordance with subsection 15(1) of the Act, will be analysed only with regard to the $213,162 and $110,918, since counsel for the Appellant admitted at the outset that the Minister was justified in adding $136,430 to his income for the 2000 taxation year. It should be noted that, although the Appellant made an admission concerning the $136,430, he argued that the Minister was not justified in imposing a penalty on him under subsection 163(2) of the Act for that unreported income.
+[14] The third issue is whether, in computing the Appellant's business investment loss for the 2000 taxation year, the Minister was justified in taking account of the $75,000 the Appellant received when he sold his shares in the company.
+[15] The fourth issue is whether, for the Appellant's 1999 and 2000 taxation years, the Minister was justified in imposing a penalty under subsection 163(2) of the Act for all the income added by the Minister.
+Appellant's position and analysis
+[16] The Appellant argued that, in computing his business investment loss for the 2000 taxation year, the Minister was not justified in taking account of the $75,000 he had received from Mr. Picard on June 15, 2000. The Appellant submitted that he had transferred his shares to Mr. Picard for free. He claimed that the receipt for $75,000 (Exhibit A‑15) was for the cash repayment of an amount he had entrusted to Mr. Picard in cash in August 1999 when they were planning to purchase equal shares of a vacant lot located near the Indian reserve where they lived, a plan that they never carried out. This version of the facts is difficult to believe. Is it conceivable that the receipt for $75,000 (Exhibit A‑15) has nothing to do with the contract of sale (Exhibit A‑13) and the Appellant's resignation (Exhibit A‑14), documents that were all signed at the same time and in the same place? My answer to this question is no, especially since the Appellant's version strikes me as totally implausible. Why would the Appellant have entrusted $75,000 in cash to Mr. Picard, a future partner whom he barely knew at that point, when they were not contractually required to pay the vendor any amount whatsoever at that time? I note that the Appellant did not explain what had motivated him to entrust such an amount to Mr. Picard so early. For these reasons, I am of the opinion that, in computing the Appellant's business investment loss for the 2000 taxation year, the Minister was justified in taking account of the $75,000 he had received from Mr. Picard.
+Amounts of $213,162 and $110,918 added to the Appellant's income for the 2000 taxation year in accordance with subsection 15(1) of the Act
+[17] It will be recalled that, on October 13 and 21, 1999, payments of US$320,000 and US$380,000 for the purchase of the company's shares were made out of the company's own funds and entered in its books as shareholder advances. I also note that, out of the amounts so loaned to the Appellant and Mr. Picard, the company, during its fiscal year ending on October 2, 2000, transferred $426,324 to the item for accrued expenses as fees and $221,836 to the item for consulting fees through accounting entries in its ledger, reducing the balance of receivables from the shareholders (which was only $75,000 on October 2, 2000) by the same amount, even though no service had been rendered by the shareholders. Finally, I note that, out of the amounts transferred by the company, the portion the Appellant owed the company was $213,162 and $110,918, that is, half of the amount loaned. The Appellant argued that the Minister was not justified in adding those two amounts to his income for the 2000 taxation year as benefits conferred on a shareholder under subsection 15(1) of the Act for the following reasons:
+(i) Les Produits Déli‑Bon 2000 Inc. was the purchaser of the company's shares. The Appellant argued that he and Mr. Picard had purchased the company's shares for a company to be constituted, namely Les Produits Déli‑Bon 2000 Inc., which was constituted a few months after the agreement to purchase the company's shares was signed on October 11, 1999. Let me say at once that the Appellant was unable to file in evidence the minutes of Les Produits Déli‑Bon 2000 Inc. showing that it ratified the transaction of October 11, 1999, since its minute book could not be found. The Appellant alleged that Mr. Picard had simply forgotten to note down the effects of the ratification in the company's books of account as they had agreed. Finally, the Appellant argued that, although the documents in this regard were not all properly prepared, there are several documents (Exhibits A‑13, A‑18 and A‑19) showing that Les Produits Déli‑Bon 2000 Inc. ratified the transaction of October 11, 2000.
+(ii) Since Les Produits Déli‑Bon 2000 Inc. was the purchaser of the company's shares, the Appellant argued that the payments of US$320,000 and US$380,000 made out of the company's own funds for the purchase of the shares must be considered advances made by the company to Les Produits Déli‑Bon 2000 Inc. rather than to him and Mr. Picard and that he therefore does not have to pay tax on those amounts because the benefit was received by Les Produits Déli‑Bon 2000 Inc.
+[18] In theory, the Appellant's position with regard to the payments of US$320,000 and US$380,000 for the purchase of the company's shares is well‑founded. What emerges from section 123.7 of the Companies Act, articles 319 and 320 of the Civil Code of Québec and the interpretation thereof by the Quebec Court of Appeal in Société sylvicole de l'Outaouais v. Rasmussen et al., 2005 QCCA 729, J.E. 2005‑1551, is that the initial signatories of a pre‑incorporation contract, the promoters (here the Appellant and Mr. Picard), cease to be contracting parties and become mandataries of the recently constituted legal person following ratification (which may be tacit and which does not necessarily have to occur within the 90‑day time limit set out in section 123.7 of the Companies Act). That being said, the Appellant had to at least prove that Les Produits Déli‑Bon 2000 Inc. had ratified the transaction of October 11, 1999 at least tacitly, since there are apparently no documents from Les Produits Déli‑Bon 2000 Inc. stating that it ratified that transaction. The Appellant has not satisfied me that Les Produits Déli‑Bon 2000 Inc. ratified the transaction. First of all, neither the Appellant nor Mr. Picard clearly stated that the transaction had been ratified or said when it had been ratified by Les Produits Déli‑Bon 2000 Inc. In fact, the Appellant's evidence in this regard rested essentially on two documents filed in evidence as Exhibits A‑13 and A‑18. I note that the document filed as Exhibit A‑18 was prepared by Mr. Picard, who was unable to explain its content during his testimony. That document prepared by Mr. Picard may indeed indicate that Les Produits Déli‑Bon 2000 Inc. ratified the transaction of October 11, 1999. If that is the case, how can it be explained that the payments of US$320,000 and US$380,000 for the purchase of the company's shares were entered in the company's books of account (for its fiscal year ending on October 2, 2000) as advances to the Appellant and Mr. Picard (and not as advances to Les Produits Déli‑Bon 2000 Inc.) and that, during the same fiscal year, the company transferred $426,324 to the item for accrued expenses as consulting fees and $221,836 to the item for consulting fees through accounting entries in its ledger, reducing the balance of receivables from Mr. Picard and the Appellant by the same amount? If the transaction of October 11, 1999, had been ratified as argued by the Appellant, Mr. Picard, who handled the company's accounting, would never have agreed to make such entries in the company's books of account. Mr. Picard, who is facing the same tax problems as the Appellant, had no interest in not having the company's books reflect the effects of a ratification of the transaction of October 11, 2000, by Les Produits Déli‑Bon 2000 Inc. if such ratification had occurred. As for the document filed in evidence as Exhibit A‑13, it may also indicate that Les Produits Déli‑Bon 2000 Inc. ratified the transaction of October 11, 1999. Counsel for the Appellant argued that Unimark would not have taken the trouble to sue Les Produits Déli‑Bon 2000 Inc. if the latter company had not ratified the transaction of October 11, 1999. In my opinion, this fact does not necessarily show that that transaction was ratified. It might also be thought that Unimark decided to sue Les Produits Déli‑Bon 2000 Inc. in case it had ratified the transaction of October 11, 1999. It would have been very interesting to hear an officer of Unimark explain why Unimark had decided to sue Les Produits Déli‑Bon 2000 Inc. In any event, this evidence is not sufficient to satisfy me that the transaction was ratified, since most of the documentary evidence indicates the contrary.
+Penalties
+[19] The Appellant argued that the Minister was not justified in imposing a penalty on him under subsection 163(2) of the Act for his unreported fees of $47,000 and $60,000 during the 1999 and 2000 taxation years, respectively, because his accountant, Mr. Leblanc, had told him that the fees he had received from the company were not taxable because part of his services to the company had been provided on the Indian reserve where he resided. In other words, his accountant told him that his consulting fee income was exempt under paragraph 81(i)(a) of the Act and section 87 of the Indian Act. The Appellant's testimony that he provided part of his services on the Indian reserve and that his accountant told him this meant his fees were not taxable does not seem credible to me, since the evidence showed, inter alia, that the Appellant worked at the company's head office at least from 9:00 a.m. to 5:00 p.m. on at least every business day during the relevant period. It would have been very interesting to hear Mr. Leblanc's testimony concerning what he allegedly told the Appellant in this regard. The Appellant could have called Mr. Leblanc as a witness to back up his testimony. He did not do so, which leads me to infer that Mr. Leblanc's testimony would have been unfavourable to him. I conclude from this that Mr. Leblanc never made such statements to him and that the Appellant knowingly failed to report consulting fees of $47,000 and $60,000 during the 1999 and 2000 taxation years, respectively.
+[20] The Appellant also argued that the Minister was not justified in imposing a penalty on him under subsection 163(2) of the Act for the $136,432 (which he admitted must be included in computing his income for the 2000 taxation year under subsection 15(1) of the Act) because his accountant, Mr. Leblanc, had told him that that amount was an interest‑free loan with no repayment terms and that such a loan did not have to be included in computing his income for the 2000 taxation year. The Appellant's allegations about what his accountant said are simply not credible. It seems totally implausible that an accountant who was in any way competent would have made such an assertion. Once again, it would have been very interesting to hear Mr. Leblanc's testimony on this point. The Appellant did not call him as a witness even though he could have done so, which leads me to infer that this evidence would have been unfavourable to him. I conclude from this that Mr. Leblanc never made such a statement to the Appellant and that the Appellant knowingly failed to report that $163,432 amount in his tax return for the 2000 taxation year.
+[21] I also conclude that the Minister was justified in imposing a penalty on the Appellant under subsection 163(2) of the Act for the $213,162 and $110,918 not reported by the Appellant for the 2000 taxation year under subsection 15(1) of the Act. The Minister has satisfied me that the Appellant knowingly failed to report those amounts in his tax return for the 2000 taxation year.
+[22] For these reasons, the appeal is dismissed with costs.
+Signed at Ottawa, Canada, this 7th day of October 2008.
+"Paul Bédard"
+Bédard J.
+Translation certified true
+on this 25th day of November 2008.
+Brian McCordick, Translator
+CITATION: 2008 TCC 505
+COURT FILE NO.: 2006-1130(IT)G
+STYLE OF CAUSE: FRANÇOIS GRAVIL AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Québec, Quebec
+DATE OF HEARING: June 12, 2008
+REASONS FOR JUDGMENT BY: The Honourable Justice Paul Bédard
+DATE OF JUDGMENT: October 7, 2008
+APPEARANCES:
+Counsel for the Appellant:
+Roger Breton
+Counsel for the Respondent:
+Michel Lamarre
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Roger Breton
+Firm: Beaumont, Provençal, Breton
+L’Ancienne-Lorette, Quebec
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

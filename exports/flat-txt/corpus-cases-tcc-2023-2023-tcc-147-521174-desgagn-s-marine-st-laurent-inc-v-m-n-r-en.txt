@@ -1,0 +1,368 @@
+Title: Desgagnés Marine St-Laurent Inc. v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/521174/index.do
+Corpus path: corpus/cases/tcc/2023/2023-tcc-147-521174-desgagn-s-marine-st-laurent-inc-v-m-n-r-en.md
+Document type: case_law
+Last modified: 2023-11-01
+
+# Desgagnés Marine St-Laurent Inc. v. M.N.R.
+
+- Citation: 2023 TCC 147
+- Decision date: 2023-11-01
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5695, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Desgagnés Marine St-Laurent Inc. v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2023-11-01
+Neutral citation
+2023 TCC 147
+File numbers
+2021-1759(EI), 2021-1761(EI)
+Judges and Taxing Officers
+Jean Marc Gagnon
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2021-1761(EI)
+BETWEEN:
+DESGAGNÉS MARINE ST-LAURENT INC.,
+appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard on common evidence with the appeal by
+Desgagnés Marine Petro Inc., 2021-1759(EI)
+On January 10, 2023, at Quebec City, Quebec
+Before: The Honourable Justice Jean Marc Gagnon
+Appearances:
+Counsel for the appellant:
+Sarto Veilleux
+Counsel for the respondent:
+Anna Kirk
+AMENDED JUDGMENT
+The appeal under subsection 103(1) of the Employment Insurance Act is dismissed and the decision of the Minister of National Revenue is affirmed, in accordance with the attached reasons, without costs.
+This amended judgment replaces the judgment dated October 12, 2023.
+Signed at Toronto, Ontario, this 12th day of October 2023.
+Signed at Montreal, Quebec, this 1st day of November 2023.
+“J.M. Gagnon”
+Gagnon J.
+Docket: 2021-1759(EI)
+BETWEEN:
+DESGAGNÉS MARINE PETRO INC.,
+appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard on common evidence with the appeal by
+Desgagnés Marine St-Laurent Inc., 2021-1761(EI)
+On January 10, 2023, at Quebec City, Quebec
+Before: The Honourable Justice Jean Marc Gagnon
+Appearances:
+Counsel for the appellant:
+Sarto Veilleux
+Counsel for the respondent:
+Anna Kirk
+AMENDED JUDGMENT
+The appeal under subsection 103(1) of the Employment Insurance Act is dismissed and the decision of the Minister of National Revenue is affirmed, in accordance with the attached reasons, without costs.
+This amended judgment replaces the judgment dated October 12, 2023.
+Signed at Toronto, Ontario, this 12th day of October 2023.
+Signed at Montreal, Quebec, this 1st day of November 2023.
+“J.M. Gagnon”
+Gagnon J.
+Citation: 2023 TCC 147
+Date: 20231012
+Date: 2023-11-01
+Docket: 2021-1761(EI)
+BETWEEN:
+DESGAGNÉS MARINE ST-LAURENT INC.,
+appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+respondent.
+Dossier: 2021-1759(EI)
+BETWEEN:
+DESGAGNÉS MARINE PETRO INC.,
+appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+AMENDED REASONS FOR JUDGMENT
+Gagnon J.
+I. Introduction
+[1] The appellants operate a shipping company in Canada. Each of the appellants’ businesses is based in Quebec. Each of them employs crews on board the Groupe Desgagnés ships operating in the oil shipping sector, in this case. Moving a ship may take several weeks during which the ship does not dock and its crew does not disembark.
+[2] Each ship is equipped with a crew employed by the appellants. In this case, the employees hold positions which require, in the vast majority of cases, relevant or specialized academic and practical training that is specific to the functions and responsibilities assigned to the employee for performing services on the ship.
+[3] As for the entire marine industry, the hierarchy on board a cargo ship is very important and misconduct is rarely tolerated. Safety is also a constant concern, regulated by the competent authorities, the industry, the owners, and the operators. Each crew member therefore has a specific role and responsibilities determined by their position that are crucial to the proper conduct of operations on the ship.
+[4] In carrying out a commercial cargo transportation ship’s operations, its crew, under the management of the appellants, may also include one or more student interns who are approaching completion of an academic and practical program as part of learning a trade or occupation in the marine industry. The crews to which the interns are assigned include those responsible for the maintenance and operation of the mechanical equipment and machinery on board the ships.
+[5] For the period when a student intern was to be on board, from January 4, 2019, to April 12, 2019, and from September 23, 2019, to December 2, 2019 (Period 1 and Period 2, respectively, or collectively Periods), on a ship on which the workforce was under the management of Desgagnés Marine St-Laurent Inc. and Desgagnés Marine Petro Inc., respectively, Cadet Juyoung Cho (Cadet) submitted a request for a ruling regarding the insurability of the employment with the appellants. In accordance with section 90 of the Employment Insurance Act,[1] the Employment Insurance Commission of Canada (Commission) asked the Canada Revenue Agency to make a ruling as to whether such a position, held by the Cadet during the Periods, was insurable employment for the purposes of the Act.
+[6] On July 21, 2020, a ruling was made confirming that the Cadet was an employee and the employment was insurable under paragraph 5(1)(a) of the Act. That ruling was appealed by the appellants to the Minister of National Revenue (Minister) under section 91 of the Act. On May 18, 2021, the appeal was decided in accordance with subsection 93(3) of the Act (Revised Ruling) confirming that (i) even if no service was performed by the worker for the appellants, the worker was engaged in employment as an apprentice or intern and consequently the employment was included in insurable employment during the Periods and (ii) the insurable hours were on the order of 792 (without overtime) and 656 (including 88 hours of overtime) during Period 1 and Period 2, respectively, under the applicable provisions of the Employment Insurance Regulations, SOR/96-332 (Regulations).
+[7] The appellants appealed the Revised Ruling to this Court under section 103 of the Act. This appeal was therefore filed as provided by the Tax Court of Canada Act, R.S.C. 1985, c. T‑2 and the applicable regulations.
+[8] In paragraph 10 of the replies, the respondent sets out the presumptions of fact assumed to be true for the purposes of the Revised Ruling. The presumptions are essentially the same in the two amended replies, with the exception of certain details that have no significant impact for these purposes.
+[9] The respondent’s presumptions of fact that are common to the appellants are as follows:
+[translation]
+the appellant is a company that provides crew services on board various oil and chemical tankers owned by various companies;
+the appellant had its head office in Quebec;
+the appellant operated year-round;
+the appellant participated in a program to recruit apprentices/interns that offers the interns training and vocational experience;
+the appellant met with and interviewed the worker;
+the appellant paid the worker a flat rate per day at sea for the services he performed as an intern;
+the appellant issued a T4A slip for the amounts paid in connection with the regular internship hours;
+the worker was an intern during the period in issue;
+the worker had to complete an internship in a co-operative study program during which he had the opportunity to accumulate the necessary hours at sea and acquire knowledge and experience;
+the worker did his internship with the appellant during the period in issue;
+the worker was a cadet in the machine room on board a ship;
+the worker observed the experienced workers and performed services during the internship days;
+the worker performed the same tasks as he did during the hours of overtime for which he collected employment insurance;
+the worker performed the tasks assigned by the chief mechanic, which included:
+i. cleaning;
+ii. painting, servicing;
+iii. assembling and disassembling general pumps; and
+iv. replacing valves, installing watertight joints on connecting pumps, and other types of engine maintenance;
+the worker was under the supervision of the appellant throughout his internships;
+the worker received demonstrations from the chief mechanics on how to do the work; and
+the worker was paid a fixed amount for the internship for a period of eight hours per day, as follows:
+$30 per day for 0 to 90 hours of internship; and
+$40 per day for 90 to 180 hours of internships.
+[10] The respondent’s presumptions of fact are separate for each of the appellants and are as follows:
+[translation]
+Desgagnés Marine Petro Inc.:
+the appellant had two types of agreement with the worker:
+i. the internship days, which were 9 hours, paid by the day; and
+ii. the overtime, where the worker was treated as an employee and was paid by the hour;
+the appellant issued a T4 slip for the amounts paid in relation to the worker’s overtime;
+the worker received $1,147 for 88 hours worked after the internship (overtime) which were ruled by the appellant to be insurable;
+the worker received $2,840 for 71 hours as a cadet at 8 hours per day (71 x 8 = 568 hours), with no interruption in the work during the period ruled by the appellant not to be insurable; and
+the worker had a total of 656 insurable hours with the payer during the period in issue.
+[translation]
+Groupe Desgagnés St-Laurent Inc.:
+the worker received $3,060 for 99 days worked as a cadet at 8 hours per day (99 x 8 = 792 hours), with no interruption in the work during the period ruled by the appellant not to be insurable; and
+the worker had a total of 792 insurable hours with the payer during the period in issue.
+II. Issue
+[11] The two appeals were heard together on common evidence. In both appeals, the issue is whether the Cadet held insurable employment for the purposes of the Act during the Periods.
+[12] The appellants admitted that they were not disputing the number of hours established by the respondent. What the appellants deny is that the hours accumulated during the internship, during which the Cadet was a student intern, 792 during Period 1 and 568 during Period 2 (collectively Student Intern Hours) were insurable hours for the purposes of the Act, given that they were not accumulated in the course of insurable employment for the purposes of the Act.
+III. Position of the Parties
+[13] The appellants’ position is that during the Student Intern Hours, the Cadet did not hold insurable employment for the purposes of the Act. The Cadet was a student during the performance of his Student Intern Hours and did not hold employment. There was no employer-employee relationship. The appellants do not contest the validity of any of the provisions of the Act or the Regulations.[2]
+[14] The respondent submits that the Cadet held employment performed under a contract of employment within the meaning of article 2085 of the Civil Code of Québec (CCQ) during the Periods and adds that this employment was insurable employment with the appellants within the meaning of paragraph 5(1)(a) of the Act.
+[15] In the alternative, the respondent adds that if the Court finds that the Cadet was not performing services for the appellants, the Cadet held insurable employment within the meaning of paragraph 6(b) of the Regulations during the Periods because he was working as an apprentice or intern.
+[16] In support of their position, the appellants called Pascal Lévesque, then crew personnel manager on board Groupe Desgagnés ships. The respondent called Cadet Juyoung Cho.
+[17] We would recall that the burden of proof in tax matters generally lies with the appellant. The appellant bears the burden of disproving the presumptions of fact relied on by the Minister in making the Revised Ruling, and proving, on a balance of probabilities, the facts that support their position that the Revised Ruling is unsound.[3] It is the same burden that the appellants must assume in this appeal, and show, on a balance of probabilities, that the Cadet did not hold insurable employment during the Periods in relation to the Student Intern Hours for the purposes of the Act, in particular subsection 5(1) of the Act and paragraph 6(b) of the Regulations.
+IV. Analysis
+[18] In the appellants’ submission, the Cadet did not, in relation to the Student Intern Hours, hold insurable employment for the purposes of the Act and the Regulations. The Court does not find any other issue.
+[19] The evidence at the hearing was that the Cadet is enrolled in an Engineer Officer in Charge of an Engineering Watch program at the accredited teaching institution Fisheries and Marine Institute of Memorial University, Newfoundland and Labrador. One of the requirements of that program is that the student complete three internships at sea on board a ship, in order for the teaching institution to recognize that the student has successfully completed their officer program. The graduate may then apply for a certificate from Transport Canada.
+[20] The relevant legislative provisions in analyzing this appeal include the following:
+Employment Insurance Act
+Interpretation
+Definitions
+2 (1) employment means the act of employing or the state of being employed; (emploi)
+2 (1) insurable employment has the meaning assigned by section 5; (emploi assurable)
+2 (1) employer includes a person who has been an employer and, in respect of remuneration of an individual referred to as sponsor or co-ordinator of a project in paragraph 5(1)(e), it includes that individual; (employeur)
+Types of insurable employment
+5 (1) Subject to subsection (2), insurable employment is
+(a) employment in Canada by one or more employers, under any express or implied contract of service or apprenticeship, written or oral, whether the earnings of the employed person are received from the employer or some other person and whether the earnings are calculated by time or by the piece, or partly by time and partly by the piece, or otherwise;
+…
+(d) employment included by regulations made under subsection (4) or (5); and
+...
+Regulations to include employment
+5 (4) The Commission may, with the approval of the Governor in Council, make regulations for including in insurable employment ...
+(c) employment that is not employment under a contract of service if it appears to the Commission that the terms and conditions of service of, and the nature of the work performed by, persons employed in that employment are similar to the terms and conditions of service of, and the nature of the work performed by, persons employed under a contract of service; ...
+Employment Insurance Regulations
+Insurable Employment
+Employment Included in Insurable Employment
+6 Employment in any of the following employments, unless it is excluded from insurable employment by any provision of these Regulations, is included in insurable employment:
+…
+(b) employment of a person as an apprentice or trainee, notwithstanding that the person does not perform any services for their employer (l’emploi exercé par une personne à titre d’apprenti ou de stagiaire, même si aucun service n’est fourni à l’employeur);
+Civil Code of Québec
+2085. A contract of employment is a contract by which a person, the employee, undertakes, for a limited time and for remuneration, to do work under the direction or control of another person, the employer.
+2086. A contract of employment is for a fixed term or an indeterminate term.
+(Emphases added.)
+[21] The Court finds from subsection 5(1) of the Act that it provides for several situations for recognizing the existence of insurable employment for the purposes of the Act. For the purposes of this appeal, paragraphs 5(1)(a) and (d) were argued by both parties.
+[22] Paragraph 5(1)(a) of the Act expressly refers to employment under any express or implied contract of service or apprenticeship, whether written or oral. For the purposes of this appeal, paragraph 5(1)(d) may be summarized as employment that is included by regulations made under subsections 5(4) and (5) of the Act and is referred to in paragraph 5(4)(c), that is, employment that is not employment under a contract of service, in particular. In this case, one of those provisions is sufficient to establish insurable employment for the purposes of the Act and accordingly to determine the outcome of the appeal.
+[23] On its face, while paragraph 5(1)(a) of the Act is relatively permissive in terms of its scope, it indisputably requires that there be a contract of service (contract de louage de services), the equivalent of a contract de travail in Quebec. It is difficult for the Court to find from the evidence presented at the hearing that there was a contract of employment between the Cadet and the appellants. The Court is more persuaded that the evidence supports the position that the accumulated Student Intern Hours worked is not sufficiently reconcilable with the work that an employer may ordinarily expect from an employee under a contract of employment. More specifically, the Court is of the opinion that the evidence at the hearing did not, on a balance of probabilities, support the contention that, as between the parties, there was a sufficient relationship of subordination of the Cadet to the appellants, that being the most important characteristic of a contract of employment,[4] to support a contract of employment. Moreover, the effect of the evidence in the record is not to support the contention, on a balance of probabilities, that a contract of employment had been entered into between the appellants and the Cadet.
+[24] Determination of the existence of a relationship of subordination is a question of fact.[5] It results, in particular, from the employer’s ability to determine the work to be performed and to supervise and control it. Adherence to the work schedule, control of absences, mandatory presence in the workplace, control of the quantity and quality of the work, required working methods, the power to penalize the employee for their performance, source withholdings, and benefits are therefore considered to be indications of subordination.[6] Subordination will also vary depending on the employee’s level within the hierarchy, the extent of the employee’s competencies, the complexity and scope of the tasks assigned to the employee, the nature of the goods or services offered, and the context in which the function is performed.[7]
+[25] Subordination allows the employer to determine the work to be performed and to supervise and control the performance. It is present if, in fact, there is a concrete relationship of authority exercised by the employer over the worker.[8]
+[26] In this context, the performance of a service must be measurable. Based on the evidence in the record, the respondent could not argue that the Cadet there had been such performance by the Cadet in these appeals. In fact, the Cadet is an intern on board a ship, in addition to the crew, and is not an integral part of the crew. He is not on the muster list, so he has no particular function in an emergency. The appellants were able to discharge their burden on this point and the respondent was not able to re‑establish a position favorable to himself in this regard. On this point, the Court accepts the testimony of Mr. Lévesque, the appellant’s recruitment manager at the time of the relevant facts, while the Cadet’s testimony was somewhat difficult to follow and, most importantly, did not satisfy the Court on any conclusive factors identified above and establish the relationship of subordination and the performance of work that must illustrate it. No other witness testified.
+[27] Mr. Lévesque confirmed that five teaching institutions in Canada offer the program in which the Cadet was enrolled and each of them provides for internships at sea in the program offered. He stated that one of the things the internships offer the student intern is the opportunity to familiarize themself with the environment on board a ship, life at sea, a seven day a week work schedule, normally for eight hours’ work, for periods of varying length, depending on the occasion, which result in lengthy absences. The experience takes place in a relatively structured environment, organized hierarchically. At the end of an internship, the Cadet returns to classes. Out of three internships, the Cadet did two with the appellants. There is no promise of employment after the internship. The series of internships does not necessarily lead to a job. The Cadet may apply for a position after finishing the course, if they wish. This was not the case in this appeal.
+[28] Having regard to the foregoing, paragraph 5(1)(d) of the Act will be addressed in order to dispose of the appeal.
+[29] Paragraph 5(1)(d) of the Act states that employment included by regulations made under subsection (4) or (5) is insurable employment. Paragraph 5(4)(c) of the Act expands the meaning of insurable employment for the purposes of the Act by permitting the Commission to make regulations for including, in insurable employment, employment that is not employment under a contract of service. Such regulations are made on the condition that the Commission makes findings regarding the terms and conditions of service and the nature of the work performed. Section 6 of the Regulations constitutes the adoption by the Commission of employment that is included in insurable employment.
+[30] As was held in Canada v. Nelson,[9] it would be an error to add further conditions to those set out in section 6 of the Regulations, given the nature of that section. In that case, citing Canada (Attorney General) v. Agence de Mannequins Folio Inc.,[10] the Federal Court of Appeal concluded that it would be an error to treat subsection 5(4)(c) of the Act as stating preconditions to the application of paragraph 6(d) of the Regulations.
+[31] In Nelson, the Tax Court judge had determined that the conditions in paragraph 6(d) of the Regulations had been entirely met by the hairdressers who rented chairs. However, the judge concluded that paragraph 6(d) of the Regulations did not apply to the chair renters. He held that the terms and conditions of service of the chair renters in that case were not similar to the terms and conditions of service of persons employed by the hairdressing salon operator under a contract of service. For that reason, he held that paragraph 6(d) of the Regulations was ultra vires insofar as it covered the chair renters and it had to be interpreted narrowly as not applying to them.
+[32] In the opinion of the Federal Court of Appeal, the trial judge had treated paragraph 5(4)(c) of the Act as stating preconditions to the application of paragraph 6(d) of the Regulations. The Court of Appeal pointed out that the same reasoning had been rejected by the Federal Court of Appeal in Agence Folio, although that case had dealt with the equivalent of the present paragraph 6(g) of the Regulations. In Agence Folio, Justice Hugessen, writing for the Court Appeal, stated:
+[4] We are all of the opinion that the trial judge erred in law. Section 4 [now section 5 of the Act] sets out the parameters within which the Commission may exercise its regulation-making power. The validity of section 12 of the Regulations [now section 6 of the Regulations] was not challenged in this case. The provisions that allow for the power to be exercised are not conditions for the application of the regulation made under that power. Paragraph 12(g) of the Regulations sets out its own conditions, and the trial judge had no need to look for other conditions in the enabling provision.
+[33] In Nelson, the Federal Court of Appeal then applied the reasoning that had been adopted in Agence Folio for the purposes of paragraph 6(d) of the Regulations:
+Paragraph 5(4)(c) of the Employment Insurance Act is intended to permit the Commission to identify classes of persons for inclusion in the statutory scheme. It must be presumed that the Commission, in enacting paragraph 6(d) of the Employment Insurance Regulations, did so because it appeared to the Commission that, for persons working in barbering and hairdressing establishments in the circumstances described in paragraph 6(d), the terms and conditions of their service and the nature of their work is similar to that of employees working in such establishments. But that does not mean that in the case of a particular individual, the application of paragraph 6(d) of the Employment Insurance Regulations may be challenged on the basis that there is no similarity between the terms and conditions of service of that individual and the terms and conditions of service of an employee. Thus, once the Tax Court Judge found as fact that the chair renters met the conditions stated in paragraph 6(d) of the Employment Insurance Regulations, it was not open to him to decide that the regulation could not be applied because there were additional conditions in paragraph 5(4)(c) of the Employment Insurance Act that had not been met.
+[34] The conditions for paragraph 6(b) of the Regulations to apply are therefore found only in the paragraph itself. A reading of paragraph 6(b) of the Regulations shows that the conditions to be met are that the employment must be employment of a person as an apprentice or trainee, notwithstanding that the person does not perform any services for their employer. More specifically, it is not required that the employment in question be employment under a contract of service (“contrat de louage de services”, the equivalent of a “contrat de travail” in Quebec).
+- the meaning to be given to the term “employment”
+[35] The word “employment” is defined in the Act as the act of employing or the state of being employed” (in the French version, “le fait d’employer ou l’état d’employé”).
+[36] In Sheridan v. Canada,[11] the Federal Court of Appeal defined the term “employment” in section 6 of the Regulations as including a business, trade or occupation and not solely a master and servant relationship.[12] On that point, the Tax Court of Canada stated, in Carver PA Corporation v. M.N.R.:[13]
+11. It is trite law that the term “employment” in Regulation 6.(g) under the Act includes a business, trade or occupation and does not solely designate a master and servant relationship. It does not matter whether the worker involved is an employee or an independent contractor. Both are included in insurable employment by this Regulation. ...
+[37] Those comments by the Tax Court of Canada were made in the context of the analysis of paragraph 6(g) of the Regulations, which refers to “employment of a person who is placed in that employment by a placement or employment agency to perform services for and under the direction and control of a client of the agency, where that person is remunerated by the agency for the performance of those services.”
+[38] Since the expression “employment of a person” appears in both paragraph 6(b) and paragraph 6(g) of the Regulations, it is appropriate to conclude that the term “employment”, for the purposes of paragraph 6(b) of the Regulations, also means a business, trade or occupation, and does not require a master and servant relationship, that is, an employer-employee relationship.[14]
+[39] The terms “business”, “trade” and “occupation” are not defined in the Act, but the Larousse dictionary defines the word “occupation” as meaning that to which one devotes one’s time, one’s activity.
+[40] In Brewster,[15] “trainee” in paragraph 6(b) of the Regulations was interpreted broadly. In that case, drivers who were interested in joining the passenger bus transport company as driver guides had to participate in a training program where they were required, for the duration of the program, to travel to the location where learning to drive under conditions as real as possible could be simulated; if the completed the training program, they could submit their application for an open position and ultimately be hired by the company as a driver guide. In that case, the characteristics were as follows: (i) the training program was organized by the company once a year to establish a bank of candidates with no guarantee of employment; (ii) there were more trainees than positions to be filled; (iii) after successful completion of the training program, the trainees could apply for the available positions; (iv) during the training period, the trainees were not employees, received no remuneration as employees, received a daily allowance (per diem of $20 a day) and were given accommodations; (v) no service was considered to be performed by the trainees for the company. The Court confirmed that paragraph 6(b) of the Regulations applied. The word “employment” was not questioned by the parties and the absence of a requirement that services be provided to the employer appears to have confirmed that the conditions in the paragraph had been met.[16]
+[41] Accordingly, the appellants’ arguments, that the student interns have to be supervised at all times in performing the duties, that they are not on the muster list (the list of persons on board in case of emergency), and that they are not filling organizational needs cannot be used to thwart the effect of paragraph 6(b) of the Regulations.
+[42] The following comments by the Tax Court of Canada in Royal City Taxi[17] in relation to the use of the word “employment” in paragraph 6(e) of the Regulations may properly be applied to the use of the word “employment” in paragraph 6(b) of the Regulations:
+… looking at the text of paragraph 6(e) of the EI Regulations, the Federal Court of Appeal in Canada v. Skyline Cabs (1982) Ltd. decided that while at first blush the text of paragraph 12(e) of the Unemployment Insurance Regulations (now paragraph 6(e) of the EI Regulations), particularly the word “employment”, suggests that the individual must be an employee, this type of interpretation would be incorrect. The Federal Court of Appeal unanimously agreed that the word “employment” is not to be understood in the narrower sense of a contract of service, but in the broader sense of “activity” or “occupation”.[18] This interpretation is consistent with the Supreme Court’s position in Martin Service Station and demonstrates that the provision seeks to look beyond the mere existence of a relationship of employment.
+(Emphases added.)
+[43] In that case too, the Tax Court of Canada concluded that the person need not have the status of employee with the employer in order to be considered to hold employment within the meaning of section 6 of the Regulations and that the word “employment” must be interpreted in its broad sense, that is, as meaning an activity or occupation. That interpretation corresponds with the interpretation of the Supreme Court of Canada in Martin Service Station and demonstrates that the provision looks beyond the mere existence of a relationship of employment.
+[44] However, when employment is interpreted in its broad sense, it must not contradict the plain meaning of the words of the Regulations.[19]
+[45] For the purposes of section 12 of the Unemployment Insurance Regulations (which preceded section 6 of the Regulations), the word “employment” has been interpreted broadly, as confirmed by the Supreme Court of Canada in Scheer and Martin Service Station.[20] In Brewster, referring to those two decisions, the Tax Court of Canada added:
+These cases [sic] are authority for the proposition that the Unemployment Insurance Commission may, by regulation, include in insurable employment, self-employment or employment not under a contract of service. In the case at bar by section 12 of the regulations, the commission has included in insurable employment “the employment of a trainee notwithstanding that the person does not perform any service for his employer.”
+[46] Paragraph 6(b) of the Regulations is a provision adopted under subsections 5(1)(d) and 5(4)(c) of the Act. In Barbeau,[21] however, Justice Hogan made the following distinction:
+The insurable employment described in subsection 5(1) is, broadly speaking, employment held by persons bound by a contract of employment. Subsection 5(4), however, is an exception to this rule. Indeed, it broadens the scope of subsection 5(1) by extending the Employment Insurance program to include activities governed otherwise than by “contract of service.” Accordingly, regulations made under subsection 5(4) may include activities performed by persons other than employees, including self-employed workers.
+(Emphases added.)
+[47] In light of the foregoing, in order to find that there is employment under the exceptions permitted by subsection 5(4) of the Act, it cannot be required that there be a contract of employment and thus an employer-employee relationship, since the purpose of that provision is to extend the reach of paragraph 5(1)(a) of the Act.
+[48] Given that it cannot be required that there be a contract of employment, the appellants’ arguments, that no contract had been signed between them and the cadets and the fact that the cadets were not unionized as were the rest of the crew, cannot be relied on for the purposes of the Regulations.
+[49] The word “employment” as it is used in paragraph 6(b) must be assessed in a context other than a contract of service (contrat de louage de services or contrat de travail). A broad meaning must also be adopted.
+[50] The appellants rely on the decision in Université de Montréal[22] to assert that before finding that a cadet’s internship constitutes insurable employment under paragraph 6(b) of the Regulations, it must be determined whether there is an employer-employee relationship and whether there is a contract of service, which, in their submission, there are not in this case.
+[51] In that case, the pharmacy faculty at the Université de Montréal offered a master’s program that required an internship in a pharmacy business in order to receive the diploma. The internship was a joint teaching program between the private industry and the university. The private industry contributed $14,000 per intern and the amount of the scholarship was identical for all master’s students. The student chose the subject of their project.
+[52] The problem in Université de Montréal was that the relationship between the parties, with the obligations that resulted, was a professor-student relationship and the money paid was a scholarship. In paragraphs 28, 29 and 31 of her reasons, Justice Lamarre Proulx stated:
+[28] Exhibit A-3 shows that the payment constitutes a scholarship. On rare occasions, it is possible for a scholarship to be considered a salary. There must be special circumstances involving a relationship of subordination under an employment contract. In the case at bar, no employment contract was signed. A candidate asked to participate in a master's program and his application was accepted. Admission to the master's program entails a scholarship. That scholarship is in the nature of financial assistance to enhance research skills and the quality of research, and is not in the nature of a salary under an employment contract.
+[29] In the guide for interns (Exhibit A-5), the descriptions of the roles of the program director, the faculty internship coordinator, the on-site internship coordinator, the option coordinator, the training director and the student are descriptions of the teaching and training functions, as well as the obligations associated with student status.…
+[31] The program, as both the Appellant's witnesses and the Intervener described it, is designed to provide an internship at a pharmaceutical company for the purpose of obtaining practical experience as part of university studies. The various obligations that were described are the obligations of professors and students, not employers and employees.
+(Emphases added.)
+[53] In Université de Montréal, the appeal involved the relationship between the student and the teaching institution itself, and not the private partner where the student was to be placed. In that type of relationship, the student receives a scholarship rather than remuneration for their presence, and the student is in full control of the use of their time, with the advice of the professor. The environment where the student’s master’s program is carried out is not the same as in an internship intended to provide real experience with an employer that operates a business with employees who have the expertise that the intern wants to acquire, as part of an academic program. An internship in a business, under the supervision of an employer in the industry where the intern will be working once their training program is completed, is a sort of trampoline for the intern into the labour market. Of course it is part of the academic program, but its practical arrangement, with an employer and future coworkers, exposed to an environment where a merchant vessel with employees on board who are doing the same job for which the intern is studying, presents a very different situation from a professor-student relationship.
+[54] The overall experience to which the Cadet is exposed is more similar to the experience of an employee-employer relationship than of a student-professor relationship, of learning about a workplace under the control of an employer requiring that work be performed, tasks be completed, procedures and processes be followed, and a hierarchy adhered to, in a particular place on a particular schedule. With an employer, the Cadet is immersed in an environment and the setting where they will be required to perform work in their field of study. That description certainly corresponds to the meaning to be given to paragraph 6(b) of the Regulations when referring to the words “employment” and “intern” and it is not necessary that service be provided to the employer.
+[55] That situation is particularly true when employers like the appellants participate in these training internships, because, in particular, the interns are the next generation of a workforce for which these employers have a constant need. Other considerations are also present and clearly seen, but the possibility of these future qualified employees being recruited must not be disregarded.
+[56] In his testimony, Mr. Lévesque summarized the purpose of the internship, for the student intern, the teaching institution and the appellants, as follows:
+[translation]
+student intern:
+It is to put the theoretical knowledge into practice, in real life. So it is to see how it can be applied in practice in the workplace.
+teaching institution:
+In fact, for marine institutions, it is to be able to place their students, so, in an internship. Here again, it is going to validate what they have learned in class, to make sure that... that they graduate students who are ready to enter the labour market once they graduate, obtain their Transport certificate.
+the appellants:
+Uh, internships with Groupe Desgagnés, well, it’s a… it’s a window, too, for potential careers. It is also a role that Desgagnés has taken on with its various partners, training institutions, to train... to train the next generation, to train the future officers who are going to work in shipping.
+[57] Regarding evaluation and supervision by the appellants of the student intern’s work, Mr. Lévesque confirmed:
+[translation]
+Mr. Veilleux: Okay, who asks… I understand there is… Evaluation requested by the school about what? About?
+Mr. Lévesque: About certain things learned, about certain things learned during the internship.
+Mr. Lévesque [sic]: Okay. And to your knowledge, what is done with the evaluation?
+Mr. Lévesque: The student takes it and gives it to their... to their ... to the school.
+Mr. Veilleux: And who decides, whether the internship went well, whether it did not go well... ultimately, who decided whether the student’s internship was successful?
+Mr. Lévesque: It’s the school.
+(BRIEF PAUSE)
+Mr. Veilleux: You were talking about... about the evaluation. An evaluation that is sent to the school by... by whom, did you say?
+Mr. Lévesque: By the student, so…
+Mr. Veilleux: By the student, but it is prepared by whom, I’m sorry?
+Mr. Lévesque: The supervisor of the on-board internship, whether that is an officer engineer in this case. It may also be the chief engineer...
+Mr. Veilleux: Okay.
+Mr. Lévesque: So…
+Mr. Veilleux: So there is a supervisor of the internship on board the ship.
+Mr. Lévesque: Yes.
+Mr. Veilleux: That’s it?
+Mr. Lévesque: Yes.
+Mr. Veilleux: Who is decided by whom, and how?
+Mr. Lévesque: Who is decided by the people on board the ship, so based on... the sequence of the internship, generally. So whether it is with a more junior officer engineer on board, or more senior. It all depends...
+Mr. Veilleux: And what is the role of the marine institute in deciding who the officer responsible for...
+Mr. Lévesque: Uh, none.
+Mr. Veilleux: None. And what is the role of that officer, with the marine institute and the PO that you were talking about, the program officer?
+Mr. Lévesque: It is to complete the evaluation... the end of internship evaluation. In fact, it is also to make sure... to show them... to make sure the student... sees, that they have seen, theoretically, see how it is also applied in real life.
+[58] On cross-examination, Mr. Lévesque confirmed that during a Cadet’s internship, they are on the ship under the supervision of the Chief Engineer (first officer in the machine room) and the first, second and third officers.
+[59] The Cadet’s testimony confirmed that he was under the supervision of the management team in the machine room. He was given tasks to perform and assigned repair work, even during the internship, and he assisted the engineers on duty, but under their control.
+[60] He was given training on safety instructions. He received clothing to wear, except for boots. If he wanted to change shifts, he asked the officer on the ship, who either approved or denied his request. Occasionally, the Cadet worked a little more than eight hours in a day because there was a little more work to be done that day.
+[61] Mr. Lévesque also confirmed that the appellants were allowed to terminate an internship before it ended and ask the student intern to leave the ship. Those situations were not very common, but they did occur.
+[62] Regarding the tasks he had to perform during the internship, Mr. Lévesque stated:
+[translation]
+They familiarized themselves a lot with the work environment. They familiarize themselves with the various tools on board, various equipment, various machines. So they stick together a lot, with the shift officer, the officer who is in charge of the shift, who... the officer will also have them participate, in the sense that he shows them the work. So the purpose of the internship is to, maybe, to learn the trade, so the immediate supervisor of the internship will... familiarize with the equipment, with the machinery and with the tasks to perform.
+[63] However, Mr. Lévesque acknowledged on cross-examination that he was not more specifically familiar with the tasks that the machine room supervisors may ask a student intern to perform, but he could say that the student interns also carried out tasks, but always under the supervision of the officers responsible. Although the student intern is under supervision, one objective is to make them autonomous at the end of their program.
+[64] Mr. Lévesque confirmed on cross-examination that reimbursement for the student intern’s travel expenses depends on the internship being completed to the satisfaction of the superiors at Desgagnés.
+[65] In view of the different contexts, as noted earlier, the conclusion in Université de Montréal is not applicable in this case. The Cadet’s experience and functions on board the ship in connection with his internship are of a nature that clearly connects them with the meaning given to employment in the case law that applies here.
+[66] In Charron,[23] Justice Archambault noted that the use of the term “scholarship” is not conclusive in determining the nature of the money paid.
+[67] In light of that case, the fact that the appellants’ witness, Mr. Lévesque, used the term “scholarship” to describe the money received by the Cadet is not conclusive.
+[68] In Charron, Justice Archambault also said, regarding a scholarship:
+[translation]
+The situation might have been different if the appellant had been free to choose his research project and the process to follow. If his job had been a research job to further his own knowledge without being controlled by Dr. Moss, we could have found that there was a scholarship rather than a salary. ... A student who receives a scholarship is free to choose their research project, has considerable latitude in carrying out their research, and owns the results of the research. As well, a scholarship is not paid every two weeks based on services performed. A scholarship is generally financial aid given to a student to assist the student in their studies.[24]
+(Emphasis added.)
+[69] In this case, although the internship is mandatory in the cadets’ program of studies and leads to university credits being obtained (the Cadet receives an academic benefit), the decision in Charron supports the conclusion that this obligation is not conclusive as to whether insurable employment exists for the purposes of the Act.
+[70] The Cadet did not request and obtain a scholarship. He received daily compensation in connection with this participation in the training days he attended, where he performed assigned tasks. The compensation received, which was not denied by Mr. Lévesque’s testimony, depends on the number of days that the Cadet completed with the officers to whom he reported. The teaching institution or other body is not involved in the compensation or in funding the compensation. The compensation does not depend on a competition or registration for an academic recognition based on the academic program completed by the Cadet. As well, the Cadet remains under the supervision of the appellants for the duration of the internship, although he may stay in contact with the teaching institution. The Cadet’s schedule and use of time are decided by the appellants. The Court finds that the evidence at the hearing supports the position that the compensation paid to the Cadet does not come from a student support program; it depends primarily on the Cadet’s presence on board the ship, based on the length of his time there, the services that the Cadet performs during the period of his internship, and to a certain degree subject to the approval of the superiors in the Groupe Desgagnés in the case of the travel expenses. To the contrary, in short, if the Cadet does not stay on the ship, does not perform the tasks expected of him and does not complete the internship, he receives no compensation.
+[71] Mr. Lévesque talked about compensation and also used the word “scholarship” to describe the daily amount paid. He testified that student interns are compensated, that they are paid a gratuity in the form of a scholarship. Although the appellants’ use of the term “scholarship” is not conclusive as to the characterization, counsel for the appellants did not respond to the scholarship questionnaire requested by the Canada Revenue Agency to help in determining its meaning. The Court also notes that in the submissions by counsel for the appellants (Exhibit A‑1), referring to the scholarships questionnaire, they note that it would have required adjustments in order to represent the real facts regarding the money paid to the cadets by Desgagnés as a scholarship and added since these were not scholarships related to academic performance or the completion of academic research or a clinical placement, properly speaking, as the questionnaire suggests.
+[72] The Court is of the opinion that the evidence at the hearing in insufficient for the Court to conclude, on a balance of probabilities, that the total compensation paid to the Cadet in this case is similar to a scholarship.
+[73] Having regard to the foregoing, on a balance of probabilities, for the purposes of this case, the Cadet held employment, in particular for the purposes of section 6 of the Regulations and subsection 5(1) of the Act.
+- meaning to be given to the term “intern”
+[74] Neither the Act nor the Regulations define the term “intern”.
+[75] According to the Larousse dictionary, a stagiaire is “personne qui effectue un stage” and a stage is a “période pendant laquelle une personne exerce une activité temporaire dans une entreprise ou suit des cours en vue de sa formation”.
+[76] The English version of the Regulations says “trainee” to refer to a “stagiaire”. According to the Cambridge English dictionary, a trainee is “a person who is learning and practising the skills of a particular job”, with the following examples: ”a trainee dentist/electrician”.
+[77] The appellants seem to conclude, from the meaning given to “intern” for the purposes of the Federal labour standards for interns and student interns and the Federally regulated employer obligations towards interns and student interns in connection with the Canada Labour Code,[25] that when an individual is considered to be an intern, they may not be considered to be an employee and therefore may not be covered by the Act.
+[78] The result is that if we rely on that interpretation, paragraph 6(b) of the Regulations would never, or very rarely, apply. However, in order for that paragraph to apply, an apprentice or trainee must be employed as such, and this does not depend on the characterization of a trainee or apprentice as an employee. As in Barbeau, the purpose of paragraph 6(b) of the Regulations, as for all of the paragraphs in section 6 of the Regulations, is to extend the employment insurance scheme to activities governed otherwise than by a contract of service, precisely to include trainees and apprentices in paragraph 6(b) in certain circumstances.
+[79] In this case, the Cadet was on the ship as an intern of the appellants, and was hired and paid by the appellants;[26] the appellants had responsibilities to the Cadet and the Cadet had to submit to the appellants’ authority in respect of anything involving his presence on the ship. The appellants also had the power to terminate the Cadet’s time on the ship and contact the people in charge at the school about it.
+[80] The Cadet did not ask to be paid; the Cadet had to submit to the appellants’ authority, abide by its code of conduct and safety rules on the ship, and, one month before the internship started, the Cadet signed one of the appellants’ employee forms.[27]
+[81] As discussed earlier, the concept of “intern” does not mean that the intern has to perform services for the employer. Paragraph 6(b) of the Regulations provides that employment may be insurable employment even if no services are performed for the employer. The wording of paragraph 6(b) of the Regulations does not define the word “intern” or limit it to a particular meaning. In fact, the Cadet’s experience and occupation fit the meaning generally given to the word “internship” and the context of the paragraph does not impose any limitation on the meaning to be given, nor is there any indication that an internship must be limited to an employee-employer relationship. Rather, the interpretation of section 6 of the Regulations calls for a broad interpretation. In this context, the Court cannot accept the appellants’ argument that a distinction must be made between a student intern and a student in a recognized diploma-granting program.[28] The wording of paragraph 6(b) does not support such a distinction.
+[82] Since the question of whether services were performed or not need not be considered, the employment performed as a trainee to which paragraph (b) refers includes the internship completed by the Cadet on board the appellants’ ships.
+[83] Having regard to the foregoing, the evidence supports the conclusion, on a balance of probabilities, that the position held by the Cadet with the appellants during the Student Intern Hours qualifies as employment as a trainee for the purposes of paragraph 6(b) of the Regulations.
+V. Conclusion
+[84] On a balance of probabilities, the Court concludes that the Cadet held employment within the meaning of paragraph 6(b) of the Regulations and accordingly that he held insurable employment within the meaning of subsection 5(1) of the Act.
+[85] Having regard to all of the foregoing, the appeal is dismissed.
+These amended reasons for judgment replace the reasons for judgment dated October 12, 2023.
+Signed at Toronto, Ontario, this 12th day of October 2023.
+Signed at Montreal, Quebec, this 1st day of November 2023.
+“J.M. Gagnon”
+Gagnon J.
+CITATION:
+2023 TCC 147
+COURT FILE NO.:
+2021-1761(EI)
+2021-1759(EI)
+STYLE OF CAUSE:
+DESGAGNÉS MARINE ST-LAURENT INC. AND THE MINISTER OF NATIONAL REVENUE
+DESGAGNÉS MARINE PETRO INC. AND THE MINISTER OF NATIONAL REVENUE
+PLACE OF HEARING:
+Quebec City, Quebec
+DATE OF HEARING:
+January 10, 2023
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Jean Marc Gagnon
+DATE OF JUDGMENT:
+October 12, 2023
+November 1, 2023
+APPEARANCES:
+COUNSEL OF RECORD:
+For the appellants:
+Name:
+Sarto Veilleux
+Firm:
+Langlois Avocats – Lawyers
+Complexe Jules-Dallaire, T3
+2820 boul. Laurier
+13th floor
+Quebec QC G1V 0C1
+Canada
+For the Respondent:
+Shalene Curtis-Micallef
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] S.C. 1996, c. 23 (Act).
+[2] Section 19.2 of the Tax Court of Canada Act.
+[3] The burden of proof in tax appeals has been discussed recently in several decisions of the Federal Court of Appeal and the Tax Court of Canada. In Sarmadi v. The Queen, 2017 FCA 131 (Sarmadi), Justice Webb revisited the burden of proof in tax cases but his comments were not approved by his colleagues Justices Stratas and Woods, who preferred not to make a definitive ruling on the issue. In Eisbrenner v. The Queen, 2020 FCA 93 (Eisbrenner), Justice Webb, writing for the Federal Court of Appeal, reiterated the same line of comments as were adopted in Samadi in relation to the burden of proof. The application for leave to appeal the decision of the Federal Court of Appeal was dismissed on January 14, 2021. Since Eisbrenner, Justice Webb’s position on the burden of proof in tax cases has been confirmed or adopted in several decisions of the Federal Court of Appeal: Kufsky v. Canada, 2022 FCA 66, Chibani v. Canada, 2021 FCA 196, European Staffing Inc. v. Canada (National Revenue), 2020 FCA 2019 and Van der Steen v. Canada, 2020 FCA 168. The leading decisions of the Tax Court of Canada on this recent issue are the decisions of Justice Owen in Morrison v. The Queen, 2018 TCC 220 and Damis Properties Inc. v. The Queen, 2021 TCC 24.
+[4] The creation of that relationship implies acceptance by the employee of the employer’s power of control and supervision. See, inter alia, Bureau d’études Archer inc. c. Dessureault, 2006 QCCA 1556 and Kalyta c. Soquelec Ltée, 2018 QCCS 1951.
+[5] See Services immobiliers Asgaard inc. c. Gareau, 2020 QCCA 1769, Agence Océanica inc. c. Agence du revenu du Québec, 2014 QCCA 1385 (Océanica), and Gauthier c. Ressources minières Radisson inc., 2015 QCCQ 6064.
+[6] Océanica, Maislin c. Groupe Boutin inc., 2022 QCCS 412, Amzallag c. Multidev Technologies inc., 2018 QCCS 1271, Leclerc c. Constructions Louis-Seize & Associés inc., 2012 QCCS 5885, Marcotte c. 9126-4333 Québec inc., 2012 QCCQ 4390 (appeal dismisssed 2014 QCCA 471) and Lavoie c. 3171795 Canada inc., 2005 CanLII 32225.
+[7] Dicom Express inc. c. Paiement, 2009 QCCA 611, 8237514 Canada inc. c. Kucer, 2018 QCCS 12 and Bélanger c. 9254-9328 Québec inc., 2014 QCCS 2976.
+[8] Inter alia, 9026-1058 Québec inc. c. Gestion Tidisan inc., 2009 QCCS 1567.
+[9] 2001 FCA 131 (Nelson), at para 10.
+[10] (1993), 164 N.R. 74 (F.C.A.) (Agence Folio), at para 4.
+[11] [1985] F.C.A. No. 230 (QL) (Sheridan).
+[12] Sheridan is based on, inter alia, the comments of the Supreme Court of Canada in The Queen v. Scheer Ltd., [1974] S.C.R. 1046 (Scheer) and Martin Service Station Ltd. v. Minister of National Revenue, [1977] 2 S.C.R. 996 (Martin Service Station).
+[13] 2013 TCC 125 (Carver), at para 11.
+[14] For the purposes of section 12 of the Unemployment Insurance Regulations (C.R.C. 1978, c. 1576 (which preceded section 6 of the Regulations), the word “employment” must be interpreted broadly, as confirmed by the Supreme Court of Canada in Sheer and Martin Service Station. As well, relying on Martin Service Station, the Federal Court of Appeal held in Canada (Attorney General) v. Skyline Cabs (1982) Ltd., [1986] FCJ No. 335 (QL), that it was now settled law that the word used in paragraph 12(e) of the Unemployment Insurance Regulations (now paragraph 6(e) of the Regulations) made under the Unemployment Insurance Act, 1971, which replaced the former section 64B of the Unemployment Insurance Regulations, is to be interpreted in the broad sense of “activity” or “occupation” rather than the narrower sense of a contract of service (“contract de travail” in Quebec).
+[15] Brewster Transportation & Tours v. Minister of National Revenue, [1988] TCJ No. 936 (Brewster).
+[16] For the purpose of determining earnings for the purposes of the Act, the Tax Court of Canada concluded in Brewster that the daily allowance of $20 to cover certain needs and accommodation during the training period were included in insurable earnings, since the trainees held insurable employment within the meaning of the Act.
+[17] Royal City Taxi Ltd. v. M.N.R., 2019 TCC 105 (Royal City Taxi).
+[18] Ibid, at para 5.
+[19] Yellow Cab Co. v. Canada, 2002 FCA No. 1062 (QL) and Canada (Attorney General) v. Skyline Cabs (1982) Ltd., 1986 F.C.J. No. 335 (QL).
+[20] See note 14 referring to the judgments of the Supreme Court of Canada.
+[21] Barbeau v. The Minister of National Revenue, 2015 TCC 131 (Barbeau).
+[22] Université de Montréal v. M.N.R., 2005 TCC 499 (Université de Montréal).
+[23] Charron v. Canada (Minister of National Revenue – M.N.R.), 1994 TCC No. 47 (Charron).
+[24] Ibid, at para 12.
+[25] R.S.C. 1985, c. L‑2.
+[26] The Cadet confirmed on cross-examination that he did not consider that he had been given internships by the school. He met the appellants’ representative at the school, attended a presentation, and submitted his curriculum vitae to them, and the appellants contacted him personally by email. The Court confirmed with the Cadet whether the school told him where his internship would be or whether he was responsible for informing the school where his internship would be. The Cadet confirmed that the school did not give him an internship and he alone informed the school of his decision.
+[27] See, inter alia, Canada (Attorney General) v. Mondo-Tech International Inc., 2003 FCA 62.
+[28] The earlier discussion regarding the concept of employment and the purposes of the Cadet’s internships is also relevant in this context.

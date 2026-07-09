@@ -1,0 +1,194 @@
+---
+title: "Nelles v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26665/index.do"
+last_modified: "2005-12-29"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 TCC 817"
+citation2: ""
+neutral_citation: "2005 TCC 817"
+decision_date: "2005-12-29"
+language: "en"
+item_id: "26665"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3607
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T19:58:55.293000+00:00"
+cases_cited_count: 4
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "66337a08a6223b6cccf88481e468e72774f88b42672cdf3ad8412f581aab5018"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Nelles v. The Queen
+
+- Citation: 2005 TCC 817
+- Decision date: 2005-12-29
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3607, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Nelles v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-12-29
+Neutral citation
+2005 TCC 817
+File numbers
+2004-3617(IT)I
+Judges and Taxing Officers
+Terrence O'Connor
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2004-3617(IT)I
+BETWEEN:
+JOHN NELLES,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on December 1, 2005 at Belleville, Ontario
+Before: The Honourable Justice T. O'Connor
+Appearances:
+Counsel for the Appellant:
+R. Steven Baldwin
+Counsel for the Respondent:
+Geneviève Léveillé
+Cheryl Cruz
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act for the 2002 taxation year is allowed, with costs, and the reassessment is referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 29th day of December, 2005.
+"T. O'Connor"
+O'Connor, J.
+Citation: 2005TCC817
+Date: 20051229
+Docket: 2004-3617(IT)I
+BETWEEN:
+JOHN NELLES,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+O'Connor, J.
+Issue
+[1] The issue in this appeal is whether in the 2002 taxation year the Appellant ("John") is entitled to a deductible tax credit in the amount of $6,482 in respect of child support.
+Facts
+[2] John married Sandra Marie ("Sandra" or "Sandy") in Belleville, Ontario on July 11, 1993. They had two daughters, namely Cindy born August 19, 1993 and Sarah born May 4, 1995. Sandra and John began living separate and apart in May 2001 and remained as such during the year 2002. They entered into a Separation Agreement dated and signed at Belleville, February 10, 2003 ("Agreement"). The Agreement, prepared with the assistance of counsel, is sophisticated and lengthy, (19 pages). Its' most relevant provisions are as follows:
+4. LIVING SEPARATE AND APART
+The parties have been living separate and apart since on or about May 18, 2001, ... . The parties shall continue to live separate and apart from each other for the rest of their lives and there is no reasonable prospect that the parties will resume cohabitation.
+...
+6. EFFECTIVE DATE
+This agreement will take effect on the date it is signed by the latter of the parties to sign.
+7. JOINT CUSTODY
+(a) The parties ... shall have joint custody of the children ..., with a shared parenting agreement ... .
+...
+(c) John and Sandy have agreed to a week about arrangement with the children, with a commitment to utilize each other when child care is needed. Both parents are committed to the children spending as much time with each of them as possible.
+...
+9. CHILD SUPPORT
+(a) Based upon the father having an annual income for (sic) $43,000.00 per annum and the wife having an annual income of $30,000.00 per annum and the shared parenting of the children, the father will pay the mother the difference in the Guideline amounts in the amount of $163.00 per month commencing December 1, 2002.
+(b) The parties will exchange tax returns and notices of assessment on or before June 1st each year and commencing July 1st each year the parent having the higher employment income will pay the parent having the lower employment income for the prior taxation year the difference in the respective Guideline amounts.
+...
+(e) The parties shall be equally responsible for childcare costs and each of them shall be entitled to claim on their respective income tax returns one child as a dependant and the amount of the daycare costs paid (i.e. each paying (sic) claiming one-half of the total daycare costs as each parent is paying one-half of the daycare costs).
+(f) The parties shall agree upon any special or extra-ordinary expenses for the children and upon agreement those special and extra-ordinary expenses shall be shared in proportion to their respective incomes (i.e. based upon the father having employment income of $43,000.00 and the wife having employment income of $30,000.00, the father shall be responsible for 59% of those costs and the mother shall be responsible for 41% of those costs).
+...
+29. PROPER LAW
+This agreement shall be governed by and construed according to the laws of Ontario.
+[3] Sandra and John also entered into an Amending Separation Agreement ("Amendment") on November 29, 2005 (two days prior to the hearing of this appeal). The relevant provisions are as follows:
+...
+AND WHEREAS the parties entered into a Separation Agreement made on the 10th day of February, 2003.
+AND WHEREAS upon separation the parties obtained separate accommodations and implemented equal shared parenting of the children.
+AND WHEREAS the parties did not abide by the Separation Agreement dated February 10, 2003 so far as child support was concerned.
+AND WHEREAS no child support was paid by either party to the other in 2001 or 2002.
+AND WHEREAS John ... paid Sandra ... an amount of support in the amount of $163.00 per month for a period of only four months in 2003 and wish by this agreement to identify the basis upon which that support was paid.
+AND WHEREAS the parties wish to amend certain provisions of the Agreement dated February 10, 2003.
+THEREFORE THE PARTIES agree as follows:
+1. Paragraph 9(a) of the Separation Agreement dated February 10, 2003 is hereby deleted and declared null and void and superseded by the following:
+For fhe period of four months in 2003 when John ... paid Sandra ... support in the amount of $163.00 such amount is a net amount recognizing that Sandra ... acknowledges she would pay John ... support for one child (Cindy) and he would pay Sandra ... support for the second child (Sarah) such that there was a net amount payable of $163.00 and such that one parent paid support for one child and the other parent paid support for the second child such that the $163.00 is only a net amount and not an amount paid in respect of both children.
+The parties further acknowledge and agree that except for the support indicated in the above paragraph John ... nor Sandra ... have paid support to the other for either or both of the children and the parties further agree that no child support is payable for either of the children.
+2. Except as provided in this Amending Agreement there are no other changes or amendments to the Separation Agreement dated February 10, 2003.
+[4] Both the Agreement and the Amendment were signed by both Sandra and John. John's testimony is consistent with the contents of the Amendment.
+[5] In 2002 John and Sandra had separate residences and as a general rule their two daughters would live one week with John, then one week with Sandra in their separate residences.
+[6] Against this background John in his 2002 taxation year claimed the dependant tax credit in the amount of $6,482 and by reassessment the Minister disallowed it.
+Law
+[7] The provisions of the Income Tax Act ("Act") applicable in 2002 were paragraphs 118(1)(a), 118(1)(b) and subsections 118(5) and 56.1(4). As the taxpayer in this appeal is male the following summary will consider the taxpayer as a male. Paragraph 118(1)(a) provides, inter alia, for a deductible tax credit for a taxpayer who supports his consort with whom he is living. Paragraph 118(1)(b) and subsections 118(5) and 56.1(4), so far as relevant, provide as follows:
+118(1)(b) wholly dependent person ["equivalent to spouse" credit] – in the case of an individual who does not claim a deduction for the year because of paragraph (a) and who, at any time in the year,
+(i) is
+(A) ...
+(B) a person who is married ..., who neither supported nor lived with their spouse or ... and who is not supported by that spouse or ..., and
+(ii) whether alone or jointly with one or more other persons, maintains a self-contained domestic establishment (in which the individual lives) and actually supports in that establishment a person who, at that time, is
+(A) ...
+(B) wholly dependent for support on the individual, or the individual and the other person or persons, as the case may be,
+(C) related to the individual, and
+(D) except in the case of a parent or grandparent of the individual, either under 18 years of age or so dependent by reason of mental or physical infirmity,
+an amount equal to the total of
+(a formula follows)
+118(5) No amount may be deducted under subsection (1) in computing an individual's tax payable under this Part for a taxation year in respect of a person where the individual is required to pay a support amount (within the meaning assigned by subsection 56.1(4)) to the individual's spouse ... in respect of the person and the individual
+(a) lives separate and apart from the spouse ... throughout the year because of the breakdown of their marriage ...; or
+(b) claims a deduction for the year because of section 60 in respect of a support amount paid to the spouse ... .
+Aucun montant n'est déductible en application du paragraphe (1) relativement à une personne dans le calcul de l'impôt payable par un particulier en vertu de la présente partie pour une année d'imposition si le particulier, d'une part, est tenu de payer une pension alimentaire au sens du paragraphe 56.1(4) à son époux ... pour la personne et, d'autre part, selon le cas :
+a) vit séparé de son époux ... tout au long de l'année pour cause d'échec de leur mariage ... ;
+b) demande une déduction pour l'année par l'effet de l'article 60 au titre de la pension alimentaire versée à son époux ... .
+56.1(4) "support amount" means an amount payable or receivable as an allowance on a periodic basis for the maintenance of the recipient, children of the recipient or both the recipient and children of the recipient, if the recipient has discretion as to the use of the amount, and
+(a) the recipient is the spouse ... of the payer, the recipient and payer are living separate and apart because of the breakdown of their marriage ... and the amount is receivable under an order of a competent tribunal or under a written agreement; or
+(b) ...
+...
+«pension alimentaire » Montant payable ou à recevoir à titre d'allocation périodique pour subvenir aux besoins du bénéficiaire, d'enfants de celui-ci ou à la fois du bénéficiaire et de ces enfants, si le bénéficiaire peut utiliser le montant à sa discrétion et, selon le cas :
+a) le bénéficiaire est l'époux ... du payeur et vit séparé de celui-ci pour cause d'échec de leur mariage ... et le montant est à recevoir aux termes de l'ordonnance d'un tribunal compétent ou d'un accord écrit;
+b) ...
+...
+Analysis
+[8] In his 2002 Return, John claimed the tax credit of $6,482 (the maximum) because he believed he qualified by providing support for his daughter, Sarah. The Reassessment in question denies the claim, alleging as follows in the Reply to the Notice of Appeal.
+... the Appellant is not entitled to claim an amount for an eligible dependant of $6,482.00 pursuant to paragraph 118(1)(b) of the Act in computing tax payable for the 2002 taxation year for his daughter, Sarah as the Appellant was required to pay a support amount as defined in subsection 56.1(4) of the Act to the Former Spouse with respect to the said daughter and the Appellant and Former Spouse were living separate and apart throughout the said taxation year within the meaning of subsection 118(5) of the Act.
+[9] According to the Reply there does not appear to be a dispute as to the application of "commencement date", "support amount", "maintains a self‑contained domestic establishment" or "wholly dependent for support", definitions, the applications of which have been the subject of many tax appeals. The only concern is whether subsection 118(5) applies and this will be determined on the basis of whether or not John can be considered as being required to make support payments.
+[10] Counsel for the Respondent referred to the decisions of this Court in Shewchuk v. Canada [2000] T.C.J. No. 398 and Irwin v. Canada [2004] T.C.J. No. 510. Both these decisions dealt with shared parenting arrangements and an obligation on the taxpayer to pay to his/her spouse a support amount equal to the difference between the amounts each would, on the basis of employment income, be obliged to pay in accordance with the Federal/Ontario Child Support Guidelines established by SOR/97-175 (Guidelines). (In this appeal the monthly support set-off amount of $163.00 was arrived at by an application of the amounts in the Guidelines).
+[11] Counsel for John submitted that in these two decisions there was clearly an obligation, a requirement to pay support whereas in this appeal there was no obligation, no requirement as contemplated in paragraph 118(5). In my opinion counsel for John is correct. Subsection 118(5) is not applicable because the Appellant, John, was not required to pay support in the 2002 taxation year. The Agreement was only signed in 2003. It is not retroactive. It's effective date is in 2003 when it was signed. Although it indicated that payments were to commence in December 2002, this in fact did not happen and the parties acknowledged that there was no obligation to make a support payment and in fact no support payments were made. Both parties have acknowledged all of that in the Amendment. The Amendment does not govern the matter, but John's testimony confirms that the facts set forth in the Amendment were true, including notably that the parties had verbally agreed that there was no requirement to pay support in 2002. I do not see how the Agreement signed in 2003 can be used to establish a requirement to pay support commencing in the year 2002, more particularly since the parties verbally acknowledged that that was not the case. Put briefly, there was no requirement to pay ("tenu de payer") existing in 2002. Therefore subsection 118(5) does not apply. Moreover paragraph 118(5)(b) is not applicable and no other provision of the Act operates to deny the credit permitted by paragraph 118(1)(b). Nor can the credit be denied simply because John's return indicated that the support related to Sarah. It is not necessary to consider the effect of paragraph 9(e) of the Agreement. Therefore the appeal is allowed with costs.
+[12] Because the judgments in the two decisions mentioned above and because several other appeals discussing paragraph 118(5) have suggested an element of unfairness in its application, the following comments may be helpful by way of clarification.
+[13] At first glance it is difficult to identify the policy behind the provision. The element of unfairness appears to be that a taxpayer, who is required to make support payments to his separated spouse for the benefit of a child cannot (after 1997 when the rules changed from one of deduction by the support payor and inclusion by the recipient to the exact opposite of no deduction and no inclusion), deduct that amount from his income and also cannot have the dependant tax credit if he is "required" to pay child support. On the other hand in similar circumstances if the taxpayer is not required to pay support he can have the credit. This policy issue has been addressed by Justice Lamarre in Gautron v. the Queen, 2003 TCC 127 (English translation at 2005 DTC 729 and Justice Bédard in Frégeau v. the Queen, 2004 DTC 2726 (English translation at 2004 TCC 293).
+[14] One explanation for this is that the amounts provided for in the Guidelines contemplate that the recipient of the support has custody of the child or children and is the one who is entitled to the dependent credit. This of course ignores the fact that the Guidelines do not apply to shared parenting arrangements, such as that in this appeal where each parent has a separate residence and the children reside in each residence from week to week and where each parent contributes to support. The permutations and combinations resulting from different factual situations are limitless and determining whether one, both or none of the parents is entitled to the credit is mind boggling. The determination might be further complicated by the application of paragraph 118(4), which contemplates allocating or dividing the credit. Examples of some of the difficulties that can arise are exhibited in the Technical Interpretations, paragraphs 5104, 5522, 6765 and 7654 of Window on Canadian Tax.
+[15] In conclusion, as stated above, the appeal is allowed with costs.
+Signed at Ottawa, Canada, this 29th day of December, 2005.
+"T. O'Connor"
+O'Connor, J.
+CITATION: 2005TCC817
+COURT FILE NO.: 2004-3617(IT)I
+STYLE OF CAUSE: John Nelles and Her Majesty the Queen
+PLACE OF HEARING: Belleville, Ontario
+DATE OF HEARING: December 1, 2005
+REASONS FOR JUDGEMENT BY: The Honourable Justice T. O'Connor
+DATE OF JUDGMENT: December 29th, 2005
+APPEARANCES:
+Counsel for the Appellant:
+R. Steven Baldwin
+Counsel for the Respondent:
+Geneviève Léveillé
+Cheryl Cruz
+COUNSEL OF RECORD:
+For the :
+Name: R. Steven Baldwin
+Firm: Templeman Menninga, LLP
+Belleville, Ontario
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

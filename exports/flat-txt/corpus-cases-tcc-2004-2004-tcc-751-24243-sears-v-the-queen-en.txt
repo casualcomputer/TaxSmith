@@ -1,0 +1,117 @@
+Title: Sears v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/24243/index.do
+Corpus path: corpus/cases/tcc/2004/2004-tcc-751-24243-sears-v-the-queen-en.md
+Document type: case_law
+Last modified: 2004-11-10
+
+# Sears v. The Queen
+
+- Citation: 2004 TCC 751
+- Decision date: 2004-11-10
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2183, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Sears v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-11-10
+Neutral citation
+2004 TCC 751
+File numbers
+2003-2736(IT)I
+Judges and Taxing Officers
+Judith Woods
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2003-2736(IT)I
+BETWEEN:
+WILLIAM L. SEARS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on June 2 and October 22, 2004 at Hamilton, Ontario
+By: The Honourable Justice Judith Woods
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+A'Amer Ather
+____________________________________________________________________
+JUDGMENT
+The appeal in respect of the reassessment made under the Income Tax Act for the 2001 taxation year is dismissed.
+Signed at Ottawa, Canada this 10th day of November, 2004.
+"J.M. Woods"
+Woods J.
+Citation: 2004TCC751
+Date: 20041110
+Docket: 2003-2736(IT)I
+BETWEEN:
+WILLIAM L. SEARS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Woods J.
+[1] In this appeal for the 2001 taxation year, William Sears claims a deduction for support payments made in respect of household expenses such as taxes, hydro and insurance.
+[2] The Crown submits that the deduction should be disallowed because one of the requirements of the deduction, that the recipient have discretion as to use, was not satisfied. In the Reply, the Crown further argued that another requirement, that the payments be under a court order or written agreement, also was not satisfied but this argument was abandoned at the hearing. I will accordingly restrict my consideration to the discretion issue.
+Facts
+[3] In a court order issued in 1976 following the separation of Mr. Sears and his wife, Pauline, Mr. Sears was required to pay regular monthly support plus expenses relating to the home that Mrs. Sears lived in at the time, which was located at 2 Keats Road, Hamilton. The relevant part of the court order reads:
+the Petitioner, William Lewis Sears, shall pay to the Respondent, Pauline Elinore Sears;
+...
+(c) and shall make all payments for hydro, gas, oil, taxes, insurances and telephone (excluding long distance telephone charges) in connection with the home presently occupied by the Respondent.
+[4] In 1998, Mrs. Sears moved to a new home at 163 Highbury Drive in Stoney Creek, Ontario. As part of the legal and financial arrangements surrounding the move, Mrs. Sears' lawyer prepared an agreement that provided, inter alia, for the following: a transfer by Mr. Sears of his interest in the old home at 2 Keats Road; an interest-free mortgage in favour of Mr. Sears on the new home; and an obligation on Mr. Sears to pay household expenses on the new home. The clause dealing with support reads:
+The Husband hereby agrees and intends to continue to pay spousal support to the Wife in the sum of $480.83 per month and further agrees to continue to pay household expenses pursuant to the Decree Nisi dated November 12, 1996 by paying property taxes, hydro, gas, water and insurance on the current matrimonial home, which shall be paid thereon until that home is vacated. The husband shall thereafter pay the aforesaid expenses for the new home that the Wife is to purchase, being 163 Highbury Drive, Stoney Creek, Ontario.
+[5] Mr. and Mrs. Sears acted in accordance with the terms of this agreement and, in particular, Mr. Sears continued to pay the household expenses on 163 Highbury Drive. Mrs. Sears arranged for the bills to be sent to her former husband and the bills were paid directly.
+[6] Mr. Sears could not locate a signed copy of this agreement and introduced into evidence a version that was undated and unsigned. He tried to obtain an executed copy for the hearing but was unable to locate the lawyer that drafted the agreement.
+[7] In his income tax returns, Mr. Sears had always claimed a deduction for the support payments, including the payment of household expenses. Until the 2001 taxation year, the Minister of National Revenue had accepted the deduction but, in that year, the Minister disallowed the part of the deduction that related to household expenses. The total amount disallowed was $10,725.
+Analysis
+[8] In order for support payments to be deductible for purposes of the Income Tax Act, they must fit the definition of "support amount" in subsection 56.1(4). The part of the definition that is relevant to this appeal is the requirement that "the recipient has discretion as to the use of the amount."
+[9] The specific obligation that Mr. Sears had was "to pay" certain listed household expenses. Although the bills were paid directly, Mr. Sears submits that Mrs. Sears could have insisted that the payments be made to her. I accept this interpretation except to note that Mrs. Sears could not demand payment unless she had incurred an expenditure. The question, then, is whether Mrs. Sears exercised discretion as to use of the support payments when she directed her former husband to pay the third party expenses directly.
+[10] According to dictionary definitions, "discretion" means freedom to decide and "use" means exploit or employ. Generally, money is employed when it is applied to some purpose such as purchasing goods or services. Unless a person has some choice over the application of the funds, I do not think that the person has discretion as to use. Mrs. Sears did not in a substantive sense have any discretion as to how the money could be applied. The support obligation was earmarked for specific household expenses and Mrs. Sears would not be entitled to receive any payments unless these particular expenses had been incurred.
+[11] This interpretation appears to be consistent with the statutory scheme dealing with support payments. Under that scheme, support payments are generally not deductible (and included in the recipient's income) unless the recipient has discretion as to use. However, if the support payments are in respect of specific expenses, they can be deductible (and included in recipient's income) if the intended tax treatment is reflected in the court order or written agreement: subsection 60.1(2) of the Act. Accordingly, Parliament appears to have intended that payments earmarked for specific expenses would not be deductible (or included in the recipient's income) unless the parties specifically agreed to this.
+[12] In addition, this interpretation is consistent with the majority of cases that I am aware of that have considered clauses with similar wording, including one decision of the Federal Court of Appeal: The Queen v. Armstrong, 96 D.T.C. 6315 (F.C.A.); Borsellino v. The Queen, [1997] 2 C.T.C. 2923 (T.C.C.); and Levy v. The Queen, 2003 D.T.C. 1512 (T.C.C.).
+[13] The case law is not entirely consistent, however. Counsel for the Crown brought to my attention a recent decision of Mogan J. dealing with a similar clause: Carmichael v. The Queen, 2003 D.T.C. 856 (T.C.C.).
+[14] Carmichael is one of the few cases that I am aware of that decided that a recipient has discretion where the support obligation requires the payment of specific expenses. Mogan J. referred to the decision of Bowman A.C.J. in Hak v. The Queen, 99 D.T.C. 36 (T.C.C.) but the facts in Hak were somewhat different.
+[15] The decision in Carmichael that the spouse had discretion was based on a finding that the spouse exercised discretion by appointing her husband as her agent to pay the expenses on her behalf. Although I agree that the appointment of the husband is an exercise of discretion, it is not, in my respectful view, an exercise of discretion as to use of the payments.
+[16] For these reasons, I would conclude that Mrs. Sears did not have discretion as to the use of payments made on account of household expenses. Mr. Sears could have ensured a tax deduction for these payments if the written agreement had specifically provided for a deduction to the payor and an income inclusion to the recipient. This was not done.
+[17] The appeal is dismissed.
+Signed at Ottawa, Canada this 10th day of November, 2004.
+"J.M. Woods"
+Woods J.
+CITATION:
+2004TCC751
+COURT FILE NO.:
+2003-2736(IT)I
+STYLE OF CAUSE:
+William L. Sears v. The Queen
+PLACE OF HEARING:
+Hamilton, Ontario
+DATE OF HEARING:
+June 2 and October 22, 2004
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Judith Woods
+DATE OF JUDGMENT:
+November 10, 2004
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+A'Amer Ather
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

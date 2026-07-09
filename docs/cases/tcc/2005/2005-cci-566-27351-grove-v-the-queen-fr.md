@@ -1,0 +1,162 @@
+---
+title: "Grove v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27351/index.do"
+last_modified: "2005-08-23"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 CCI 566"
+citation2: ""
+neutral_citation: "2005 CCI 566"
+decision_date: "2005-08-23"
+language: "fr"
+item_id: "27351"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 173
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T22:37:50.938000+00:00"
+cases_cited_count: 3
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "7f1d01ee19f848390155c8f2ee3a0f1e15c1918bbfa754190ed119499bd9d75e"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Grove v. The Queen
+
+- Citation: 2005 CCI 566
+- Decision date: 2005-08-23
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 173, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Grove v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-08-23
+Référence neutre
+2005 CCI 566
+Numéro de dossier
+2000-2620(IT)G
+Juges et Officiers taxateurs
+Gerald J. Rip
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2000-2620(IT)G
+ENTRE :
+PAUL GROVE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels entendus à St. Catharines (Ontario), le 26 juillet 2005
+Devant : L'honorable juge Gerald J. Rip
+Comparutions :
+Avocat de l'appelant :
+Me Nicholas F. Ferguson
+Avocat de l'intimée :
+Me Bobby Sood
+____________________________________________________________________
+JUGEMENT
+Les appels interjetés à l'encontre des cotisations établies en application de la Loi de l'impôt sur le revenu pour les années d'imposition 1995 et 1996 sont rejetés.
+La Cour se prononcera ultérieurement sur les dépens.
+Signé à Ottawa, Canada, ce 23e jour d'août 2005.
+« Gerald J. Rip »
+Juge Rip
+Traduction certifiée conforme
+ce 5e jour de novembre 2006.
+Mario Lagacé, jurilinguiste
+Référence : 2005CCI566
+Date : 20050823
+Dossier : 2000-2620(IT)G
+ENTRE :
+PAUL GROVE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Rip
+[1] La seule question soulevée par Paul Grove dans le présent appel est celle de savoir si le ministre du Revenu national avait le droit d'imposer des pénalités aux termes du paragraphe 163(2) de la Loi de l'impôt sur le revenu (la « Loi » ) pour les années 1995 et 1996. M. Grove n'a pas contesté les montants que le ministre avait ajoutés à son revenu pour les deux années.
+[2] En 1995 et jusqu'au 20 juin 1996, la disposition liminaire du paragraphe 163(2) était libellée ainsi[1] :
+(2) Toute personne qui, sciemment ou dans des circonstances équivalant à faute lourde dans l'exercice d'une obligation prévue à la présente loi ou à son règlement, fait un faux énoncé ou une omission dans une déclaration, un formulaire, un certificat, un état ou une réponse - appelé « déclaration » au présent article - rempli, produit ou présenté, selon le cas, pour une année d'imposition conformément à la présente loi ou à son règlement, ou y participe, y consent ou y acquiesce est passible d'une pénalité égale, sans être inférieure à 100 $, à 50 % du total des montants suivants : [...]
+(2) Every person who, knowingly, or under circumstances amounting to gross negligence in the carrying out of any duty or obligation imposed by or under this Act, has made or has participated in, assented to or acquiesced in the making of, a false statement or omission in a return, form, certificate, statement or answer (in this section referred to as a "return") filed or made in respect of a taxation year as required by or under this Act or a regulation, is liable to a penalty of the greater of $100 and 50% of the total of [...]
+[3] Pendant toute la période pertinente, M. Grove exploitait, en tant que propriétaire unique, une entreprise qui effectuait la réparation d'automobiles pour les remettre en bon état et, éventuellement, les vendre. En 1995, il a déclaré avoir tiré un revenu brut de 52 407 $ de son entreprise, il a déduit des dépenses de 51 753 $ et il a déclaré un revenu net de 653 $. En 1996, il a déclaré un revenu brut de 63 465 $, déduit des dépenses de 60 380 $ et déclaré un revenu net de 3 084 $. Une cotisation a été établie à l'égard de M. Grove, au motif qu'il avait déclaré seulement une partie de son revenu pour les années 1995 et 1996, parce qu'il n'avait pas inclus un montant de revenu de 30 718 $ et de 37 133 $ respectivement dans ses déclarations de revenus produites pour les années d'imposition 1995 et 1996. Le ministre du Revenu national a calculé que M. Grove avait omis de déclarer jusqu'à environ 37 % de son revenu brut total pour chacune des années.
+[4] M. Parker Woods, un vérificateur principal de l'Agence du revenu du Canada ( « ARC » ) à Mississauga (Ontario), était responsable des dossiers de M. Grove pour les années d'imposition 1995 et 1996. Son chef d'équipe lui a confié les dossiers en 1998 dans le cadre normal de son travail. Il les a examinés dans son bureau, puis il a rencontré M. Grove. Il a demandé à M. Grove de lui fournir divers documents comptables ainsi que de décrire comment son entreprise était exploitée. Il estime avoir rencontré M. Grove environ cinq ou six fois au lieu d'affaires de celui-ci.
+[5] M. Woods a dit que l'atelier de réparations de M. Grove était un petit atelier qui avait un poste de travail et peut-être de l'espace pour deux automobiles. Selon lui, M. Grove était le seul travailleur.
+[6] M. Woods a dit que M. Grove avait deux comptes bancaires : un compte d'affaires et un compte personnel. M. Grove lui a indiqué que l'argent qu'il recevait de l'entreprise allait dans le compte d'affaires et était utilisé pour payer les dépenses d'entreprise.
+[7] M. Grove n'avait pas d'ordinateur. Un ami de M. Grove qui vivait en Alberta a rempli ses déclarations de revenus pendant plusieurs années. À l'aide d'Excel, son ami utilisait son ordinateur afin d'établir une feuille de calcul électronique pour la tenue des documents comptables de l'entreprise de M. Grove, dans la mesure où M. Grove avait de tels documents comptables. M. Grove fournissait les renseignements à son ami pour qu'il établisse les déclarations. M. Grove déclarait son revenu selon la méthode de la comptabilité de caisse, c'est-à-dire qu'il déclarait son revenu au fur et à mesure où il recevait l'argent et où il engageait les dépenses[2].
+[8] M. Woods s'est souvenu qu'à un moment donné, il a demandé à M. Grove s'il avait des revenus autres que ceux qu'il avait déclarés dans ses déclarations de revenus et celui-ci a répondu [TRADUCTION] « [qu']il réparait parfois des "automobiles personnelles" et [qu']il mettait l'argent dans son compte personnel » . Toutefois, la réparation d'automobiles constituait la seule source de revenus de M. Grove. Comme M. Grove effectuait des dépôts dans son compte personnel et dans son compte d'affaires, M. Woods a obtenu les documents comptables relatifs aux deux comptes afin de vérifier les dépôts et les retraits effectués. M. Woods n'a pas examiné les factures de vente ou les autres documents comptables parce que M. Grove utilisait la méthode de la comptabilité de caisse. Les données comptabilisées dans les feuilles de calcul électronique Excel reflétaient ses revenus, selon M. Woods. M. Grove ne tenait pas de journal des ventes et ses factures n'étaient pas organisées selon un ordre numérique. Par conséquent, M. Woods ne pouvait pas savoir s'il manquait des factures et il était d'avis que la liasse de factures que M. Grove lui avait donnée était peut-être incomplète. En effet, M. Woods s'est fondé sur les relevés bancaires pour déterminer le revenu de M. Grove pour chacune des deux années visées par l'appel. Il a dit que le montant total des reçus était inférieur à 52 000 $.
+[9] M. Woods a recommandé que les pénalités prévues à l'article 163 soient imposées à M. Grove, parce qu'il y avait un écart important entre le revenu déclaré et le revenu brut qu'il avait déterminé. Il a également tenu compte du niveau de scolarité de M. Grove, approximativement [TRADUCTION] « une douzième année » , et du fait que M. Grove avait une [TRADUCTION] « connaissance suffisante » de la Loi. M. Grove pouvait [TRADUCTION] « faire la distinction entre le revenu d'entreprise et le revenu personnel » , ainsi qu'entre « le revenu imposable et le revenu non imposable » . De plus, M. Grove a produit des déclarations de taxe sur les produits et services chaque trimestre pour demander les crédits de taxe sur les intrants.
+[10] Dans le cadre de la vérification de M. Grove, M. Woods a examiné les dépenses personnelles de M. Grove. Elles comportaient des éléments comme l'impôt foncier qu'il a payé en 1995 et en 1996 ainsi que les emprunts qu'il a contractés au cours de chacune de ces années. Cela comprenait également les montants qu'une personne dans la situation de M. Grove payerait pour l'électricité, le téléphone, le chauffage, l'assurance-habitation, la nourriture et les vêtements. M. Woods a considéré que M. Grove aurait eu besoin de 30 000 $ par année pour maintenir son style de vie. Pour établir ce montant, il s'est fondé sur des [TRADUCTION] « chiffres de Statistique Canada » . Par conséquent, M. Woods a supposé que le montant de 600 $ déclaré par M. Grove comme revenu en 1995 n'était pas suffisant pour son style de vie. Dans le même ordre d'idées, le montant de 3 084 $ qu'il a déclaré pour l'année 1996 était insuffisant. M. Woods a conclu que M. Grove savait ou aurait dû savoir que ces montants n'étaient pas suffisants pour assurer sa subsistance.
+[11] M. Woods a mentionné dans son témoignage que, même si M. Grove avait deux comptes bancaires, il lui arrivait souvent de transférer de l'argent entre les deux comptes. Lors du contre-interrogatoire, M. Woods a dit qu'il avait considéré que M. Grove faisait la tenue de ses dossiers et participait à l'établissement de ses déclarations de revenus. Il a conclu que M. Grove connaissait suffisamment ses documents comptables pour savoir ce qui aurait dû être inclus dans ses diverses déclarations de revenus. M. Woods a également dit qu'il ne croyait pas que M. Grove avait inclus, dans son revenu pour les deux années, tous les dépôts qu'il avait effectués dans son compte personnel. M. Woods était également d'avis que, si M. Grove avait vendu des biens personnels, les profits réalisés grâce à la vente de ces biens auraient dû être inclus dans son revenu et seraient donc imposables. M. Woods a donné comme exemple que, si M. Grove avait vendu une automobile qu'il avait en sa possession depuis plusieurs années, même s'il s'agissait d'une automobile personnelle, tous les profits réalisés à la vente de l'automobile auraient dû être inclus dans son revenu.
+[12] M. Woods a admis que, si M. Grove avait emprunté de l'argent ou vendu un bien, il aurait pu vivre du produit du prêt ou du produit du bien. M. Woods a dit que, si M. Grove avait contracté un emprunt de, disons 20 000 $, il aurait considéré que les 20 000 $ constituaient des frais de subsistance. En fait, M. Grove a emprunté 10 000 $ en 1995 et 27 000 $ en 1996. Dans un cas, une partie de l'argent a été utilisée pour acheter une automobile et, dans l'autre cas, l'argent a été utilisé pour acheter un régime enregistré d'épargne-retraite.M. Woods a dit qu'aux fins de l'établissement de la cotisation, il avait réduit le total des dépôts bancaires de M. Grove en déduisant le montant des prêts. En d'autres mots, il a rajusté les montants pour tenir compte des prêts. En 1995, par exemple, M. Grove a déposé 82 000 $ dans son compte d'affaires et 63 000 $ dans son compte personnel. Dans la mesure où il a eu un prêt de 10 000 $, ce montant aurait été déduit de ses comptes. De plus, en 1995, M. Grove a transféré 26 000 $ de son compte personnel dans son compte d'affaires. M. Woods a dit qu'il n'a pas inclus le revenu de 26 000 $ dans les deux comptes; c'est-à-dire qu'il n'y a pas eu d'inscription en double du montant de 26 000 $. Le montant a été inclus dans le compte où l'argent avait été déposé en premier.
+[13] M. Grove a mentionné dans son témoignage qu'en 1994, il avait contracté un prêt destiné à l'amélioration d'entreprise avec la banque et avait acheté une unité condominiale pour son entreprise. Il a également grevé sa maison d'une deuxième hypothèque afin d'investir l'argent dans l'entreprise. Les capitaux additionnels pour son entreprise provenaient du produit de la vente de biens personnels, y compris des automobiles. Avec cet argent, il a acheté du matériel et d'autres automobiles. Il a également acquis une machine à redresser les châssis, qui est utilisée pour redonner à l'automobile sa forme après une collision, même s'il ne réparait pas souvent des automobiles ayant subi une collision. Il a aussi acheté une cabine de pulvérisation pour 30 000 $. La cabine de pulvérisation est une installation équipée d'un système de ventilation indépendant de l'immeuble où il est situé. La cabine de pulvérisation permet de garder la peinture pulvérisée dans la « cabine » . Cet achat a été effectué avec l'argent emprunté.
+[14] M. Grove s'est plaint en disant que son entreprise lui coûtait de l'argent et qu'il s'était rendu compte qu'il y avait des limites à ce qu'une personne pouvait accomplir. Il a dit que, tout seul, il ne pouvait pas travailler assez rapidement pour régler ses dépenses.
+[15] M. Grove a dit qu'il n'avait jamais eu de problèmes avec l'ARC ou son prédécesseur quand son ami a rempli ses déclarations de revenus de 1992, 1993 et 1994. Son ami demeurait en Alberta, mais lui rendait visite et demeurait chez lui pendant son séjour. Au cours des années 1992, 1993 et 1994, M. Grove donnait à son ami ses factures, ses reçus et ses listes de dépenses. Le spécialiste en déclarations de revenus examinait les documents et posait des questions de temps à autre.
+[16] M. Grove donnait à son ami les factures qu'il avait pour tous les [TRADUCTION] « contrats fermés » . Si je comprends bien, une facture « fermée » est une facture pour laquelle les travaux sont terminés et une facture a été envoyée. Si les travaux pour une automobile ne sont pas terminés, la facture est [TRADUCTION] « ouverte » et M. Grove n'a fourni aucune facture « ouverte » à son ami pour l'établissement des déclarations de revenus. Une facture pouvait être « ouverte » même si M. Grove avait reçu des paiements échelonnés. M. Grove n'a pas été en mesure de dire si ces paiements échelonnés avaient été inclus dans son revenu. Je conclus qu'ils ne l'avaient pas été.
+[17] M. Grove a dit qu'il savait ce qui en était quand il a signé les déclarations de revenus : [TRADUCTION] « Je ne gagnais pas beaucoup d'argent, alors je ne voyais pas de problème » . Il savait qu'il avait emprunté un peu d'argent à ses amis et à sa mère et qu'il avait [TRADUCTION] « vendu des vieilleries » . Il avait accumulé beaucoup de matériel lié à l'automobile et il l'a vendu. En 1996, il a [TRADUCTION] « acheté » une automobile pour lui, mais il l'a vendue peu de temps après.
+[18] M. Grove a allégué qu'il a établi des factures pour tout ce qu'il a vendu, y compris pour les ventes au comptant. Toutefois, l'argent qu'il a reçu pour la vente de biens personnels a été déposé dans son compte personnel; les ventes de biens personnels n'ont pas [TRADUCTION] « nécessairement » été facturées. En 1995, selon M. Grove, il était rendu [TRADUCTION] « difficile » de faire des affaires et, après la vérification, il a décidé que cela ne valait pas la peine de poursuivre ses opérations là où il était situé. Il a donc acheté un immeuble à l'extérieur de la ville et il a poursuivi ses opérations à cet endroit.
+[19] Lors du contre-interrogatoire, M. Grove a dit que, pendant les années visées par l'appel, la plupart des travaux avaient été effectués pour des particuliers ou des petites entreprises. Pour les [TRADUCTION] « gros travaux » , généralement pour les travaux qui s'élevaient à 8 000 $ ou plus, il était habituellement payé au moyen de paiements échelonnés. Pour un contrat de 8 000 $, il recevait un montant de 3 000 $ à 4 000 $ [TRADUCTION] « à l'avance » . M. Grove a indiqué qu'il n'envoyait pas de facture. Il portait plutôt le montant au crédit d'une facture ultérieure. Les paiements étaient effectués en espèces ou par chèque, rarement par carte de crédit.
+[20] Vers 1998, M. Grove a retenu les services de M. Naresh Bansal, un nouveau comptable, qui a [TRADUCTION] « refait » ses documents comptables et a conclu que M. Grove devait de l'impôt. Toutefois, ils ont attendu que M. Woods termine sa vérification. Le comptable et M. Woods ont tous les deux reconnu que M. Grove n'avait déclaré qu'une partie de son revenu, mais ils ne s'entendaient pas quant au montant.
+[21] M. Grove ne voyait pas pourquoi il devrait tenir des documents comptables complexes dans le cadre de l'exploitation de son entreprise. Quant à lui, avec les relevés bancaires, il pouvait savoir ce que les gens lui payaient et quelles sommes il recevait. M. Grove a mentionné dans son témoignage que, lorsqu'il examinait sa déclaration de revenus, il se préoccupait de ce que son entreprise lui rapportait, c'est-à-dire son revenu brut, au cours d'une année donnée. En 1995, par exemple, il a constaté qu'il avait eu un revenu brut de 52 000 $ et il l'a [TRADUCTION] « juste accepté » . Il ne s'en est pas vraiment préoccupé, étant donné qu'il croyait que le montant n'était pas incongru. Pour ce qui est du revenu net, il a dit qu'au cours des années précédentes, il avait reçu des remboursements d'impôt et il ne pensait pas que les montants déclarés étaient irréguliers. Quand il a vu qu'un revenu net de 3 084 $ avait été déclaré dans sa déclaration de revenus de 1995, il a conclu que les affaires allaient mieux qu'en 1994 et il ne s'est donc pas renseigné.
+[22] Il ne fait aucun doute que M. Grove aurait pu porter beaucoup plus d'attention à la comptabilisation des mouvements de fonds de son entreprise, ainsi qu'à l'établissement et à la tenue des documents comptables pour la comptabilisation de ses activités commerciales. Il ne s'agit pas d'un cas où un contribuable s'est fié à son comptable et où celui-ci s'est trompé dans l'établissement des déclarations de revenus du contribuable[3].
+[23] En l'espèce, la Couronne a établi que c'était M. Grove qui avait tenu des documents comptables inadéquats et inappropriés. Il a donné ces documents comptables au spécialiste en déclarations de revenus, lequel a sans aucun doute rempli les déclarations de revenus en se fondant sur les documents comptables fournis. Pour cette raison, la personne qui a fourni les documents qui ont été utilisés pour remplir les déclarations de revenus, soit M. Grove, est responsable des erreurs ou des omissions dans les déclarations de revenus.
+[24] L'avocat de la Couronne a soutenu que M. Grove avait commis une faute lourde dans l'exécution de ses obligations aux termes de la Loi parce que, entre autres choses, il avait été volontairement aveugle. Je suis d'accord avec l'avocat. Dans l'arrêt Villeneuve v. R.[4] le juge Létourneau de la Cour d'appel fédérale a dit ce qui suit :
+Avec égards, je crois que la juge a omis de considérer la notion de faute lourde qui peut découler d'un aveuglement volontaire de son auteur. Même l'intention coupable qui, souvent, prend la forme de la connaissance de l'un ou de plusieurs des éléments constitutifs du geste reproché peut s'établir par une preuve d'aveuglement volontaire. En pareil cas, l'auteur du geste, bien qu'il n'ait pas de connaissance actuelle de l'élément reproché, se voit imputer la connaissance de cet élément.
+[25] Il me semble que M. Grove était une personne parfaitement en mesure de bien tenir ses documents comptables s'il le voulait et qu'il l'est toujours aujourd'hui. Toutefois, ce qui l'intéressait, c'était de réparer des automobiles et il se fiait aux documents comptables de base ainsi qu'aux documents bancaires de son compte d'affaires pour déclarer son revenu. En bref, tout ce qui l'intéressait, c'était de réparer des automobiles et il lui importait peu que ses documents comptables soient tenus de façon appropriée.
+[26] Le montant de revenu que M. Grove a omis de déclarer pour les années 1995 et 1996 représentait environ 37 % de son revenu pour ces années-là. Il est vrai que M. Grove travaillait pendant de longues heures pour son entreprise. Il passait ses journées à rencontrer des clients potentiels et à réparer des automobiles. Pour une raison ou pour une autre, il n'a pas songé à la nécessité de faire en sorte que ses revenus et ses dépenses soient comptabilisés comme il se doit, et cela a sûrement donné lieu à l'imposition des pénalités qu'il conteste en l'espèce.
+[27] Selon moi, M. Grove a commis une faute lourde en déclarant son revenu pour les années 1995 et 1996, et les pénalités imposées en application du paragraphe 163(2) de la Loi sont appropriées.
+[28] Les appels sont rejetés. Je ne rendrai pas immédiatement d'ordonnance concernant les dépens. Je demande aux avocats de faire des observations par écrit au sujet des dépens et me les envoyer dans les 30 jours suivant la date du présent jugement. Je note que M. Grove n'a pas contesté les montants de revenu non déclarés qui avaient été ajoutés à son revenu en 1995 et en 1996. Cette concession faite par M. Grove peut avoir permis de raccourcir le temps consacré à la préparation de l'instruction et la durée de l'instruction, ce qui peut avoir une incidence sur les dépens.
+Signé à Ottawa, Canada, ce 23e jour d'août 2005.
+« Gerald J. Rip »
+Juge Rip
+Traduction certifiée conforme
+ce 6e jour de novembre 2006.
+Mario Lagacé, jurilinguiste
+RÉFÉRENCE : 2005CCI566
+NO DU DOSSIER DE LA COUR : 2000-2620(IT)G
+INTITULÉ DE LA CAUSE : Paul Grove c. Sa Majesté la Reine
+LIEU DE L'AUDIENCE : St. Catharines (Ontario)
+DATE DE L'AUDIENCE : Le 26 juillet 2005
+MOTIFS DU JUGEMENT PAR : L'honorable juge Gerald J. Rip
+DATE DU JUGEMENT : Le 23 août 2005
+COMPARUTIONS :
+Avocat de l'appelant :
+Me Nicholas F. Ferguson
+Avocat de l'intimée :
+Me Bobby Sood
+AVOCAT(S) INSCRIT(S) AU DOSSIER :
+Pour l'appelant :
+Nom : Me Nicholas F. Ferguson
+Cabinet : Chown, Cairns
+Pour l'intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa (Ontario)
+[1] Depuis le 20 juin 1996, la disposition liminaire du paragraphe 163(2) est libellée ainsi :
+(2) Toute personne qui, sciemment ou dans des circonstances équivalant à faute lourde, fait un faux énoncé ou une omission dans une déclaration, un formulaire, un certificat, un état ou une réponse (appelé « déclaration » au présent article) rempli, produit ou présenté, selon le cas, pour une année d'imposition pour l'application de la présente loi, ou y participe, y consent ou y acquiesce est passible d'une pénalité égale, sans être inférieure à 100 $, à 50 % du total des montants suivants : [...]
+(2) Every person who, knowingly, or under circumstances amounting to gross negligence, has made or has participated in, assented to or acquiesced in the making of, a false statement or omission in a return, form, certificate, statement or answer (in this section referred to as a "return") filed or made in respect of a taxation year for the purposes of this Act, is liable to a penalty of the greater of $100 and 50% of the total of [...]
+Aux fins des présents appels, il n'y a pas de différence importante entre les deux dispositions.
+[2] Selon la Loi de l'impôt sur le revenu, le revenu tiré d'une entreprise doit être calculé conformément à la méthode de la comptabilité d'exercice. La seule exception est prévue au paragraphe 28(1) de la Loi, qui prévoit que les agriculteurs et les pêcheurs peuvent choisir de déclarer leur revenu au moyen de la méthode de la comptabilité de caisse. En l'espèce, M. Grove a déclaré son revenu au moyen de la méthode de la comptabilité de caisse et l'Agence des douanes et du revenu du Canada a aussi utilisé la méthode de la comptabilité de caisse pour l'établissement des nouvelles cotisations.
+[3] Par exemple, voir les jugements Findlay c. Canada, 2000 DTC 6345; [2000] A.C.F. no 731 (C.A.F.), et Johnson c. Canada, [1993] A.C.I. no 787.
+[4] 2004 DTC 6077, 2004 DTC 6576, paragraphe 6.

@@ -1,0 +1,392 @@
+Title: Heineke (Creative Staging Saskatchewan) c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30543/index.do
+Corpus path: corpus/cases/tcc/2011/2011-cci-475-30543-heineke-creative-staging-saskatchewan-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2011-10-11
+
+# Heineke (Creative Staging Saskatchewan) c. M.R.N.
+
+- Citation: 2011 CCI 475
+- Decision date: 2011-10-11
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7344, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Heineke (Creative Staging Saskatchewan) c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2011-10-11
+Référence neutre
+2011 CCI 475
+Numéro de dossier
+2011-1047(EI), 2011-1048(CPP), 2011-1049(CPP), 2011-1050(EI)
+Juges et Officiers taxateurs
+Paul Bédard
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2011-1047(EI)
+ENTRE :
+RUDOLF HEINEKE,
+FAISANT AFFAIRE SOUS LE NOM DE
+CREATIVE STAGING SASKATCHEWAN,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec les appels de Rudolf Heineke, faisant affaire sous le nom de Creative Staging Saskatchewan (2011-1048(CPP)), de Rudolf Heineke, faisant affaire sous le nom de Creative Staging Saskatchewan (2011-1049 (CPP)) et de Rudolf Heineke, faisant affaire sous le nom de Creative Staging Saskatchewan (2011-1050(EI)) le 4 juillet 2011, à Saskatoon (Saskatchewan).
+Devant : L’honorable juge Paul Bédard
+Comparutions :
+Pour l’appelant :
+Me Amanda Doucette
+M. Joseph Gill, stagiaire en droit
+Avocate de l’intimé :
+Me Bryn Frape
+____________________________________________________________________
+JUGEMENT
+L’appel est accueilli et la décision du ministre est modifiée, étant entendu que M. Darcy J. Wesolowski n’occupait pas un emploi assurable, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 11e jour d’octobre 2011.
+« Paul Bédard »
+Juge Bédard
+Traduction certifiée conforme
+ce 9e jour de janvier 2012.
+Mario Lagacé, jurilinguiste
+Dossier : 2011-1048(CPP)
+ENTRE :
+RUDOLF HEINEKE,
+FAISANT AFFAIRE SOUS LE NOM DE
+CREATIVE STAGING SASKATCHEWAN,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+___________________________________________________________________
+Appel entendu sur preuve commune avec les appels de Rudolf Heineke, faisant affaire sous le nom de Creative Staging Saskatchewan (2011-1047(EI)), de Rudolf Heineke, faisant affaire sous le nom de Creative Staging Saskatchewan (2011-1049 (CPP)) et de Rudolf Heineke, faisant affaire sous le nom de Creative Staging Saskatchewan (2011-1050(EI)) le 4 juillet 2011, à Saskatoon (Saskatchewan).
+Devant : L’honorable juge Paul Bédard
+Comparutions :
+Pour l’appelant :
+Me Amanda Doucette
+M. Joseph Gill, stagiaire en droit
+Avocate de l’intimé :
+Me Bryn Frape
+____________________________________________________________________
+JUGEMENT
+L’appel est accueilli et la décision du ministre du Revenu national est modifiée, étant entendu que l’emploi de M. Darcy J. Wesolowski était exclu des emplois ouvrant droit à pension, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 11e jour d’octobre 2011.
+« Paul Bédard »
+Juge Bédard
+Traduction certifiée conforme
+ce 9e jour de janvier 2012.
+Mario Lagacé, jurilinguiste
+Dossier : 2011-1049(CPP)
+ENTRE :
+RUDOLF HEINEKE,
+FAISANT AFFAIRE SOUS LE NOM DE
+CREATIVE STAGING SASKATCHEWAN,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec les appels de Rudolf Heineke, faisant affaire sous le nom de Creative Staging Saskatchewan (2011-1047(EI)), de Rudolf Heineke, faisant affaire sous le nom de Creative Staging Saskatchewan (2011-1048 (CPP)) et de Rudolf Heineke, faisant affaire sous le nom de Creative Staging Saskatchewan (2011-1050(EI)) le 4 juillet 2011, à Saskatoon (Saskatchewan).
+Devant : L’honorable juge Paul Bédard
+Comparutions :
+Pour l’appelant :
+Me Amanda Doucette
+M. Joseph Gill, stagiaire en droit
+Avocate de l’intimé :
+Me Bryn Frape
+____________________________________________________________________
+JUGEMENT
+L’appel est rejeté et la décision du ministre du Revenu national est confirmée, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 11e jour d’octobre 2011.
+« Paul Bédard »
+Juge Bédard
+Traduction certifiée conforme
+ce 9e jour de janvier 2012.
+Mario Lagacé, jurilinguiste
+Dossier : 2011-1050(EI)
+ENTRE :
+RUDOLF HEINEKE,
+FAISANT AFFAIRE SOUS LE NOM DE
+CREATIVE STAGING SASKATCHEWAN,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec les appels de Rudolf Heineke, faisant affaire sous le nom de Creative Staging Saskatchewan (2011-1047(EI)), de Rudolf Heineke, faisant affaire sous le nom de Creative Staging Saskatchewan (2011-1048 (CPP)) et de Rudolf Heineke, faisant affaire sous le nom de Creative Staging Saskatchewan (2011-1049(CPP)) le 4 juillet 2011, à Saskatoon (Saskatchewan).
+Devant : L’honorable juge Paul Bédard
+Comparutions :
+Pour l’appelant :
+Me Amanda Doucette
+M. Joseph Gill, stagiaire en droit
+Avocate de l’intimé :
+Me Bryn Frape
+____________________________________________________________________
+JUGEMENT
+L’appel est rejeté et la décision du ministre du Revenu national est confirmée, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 11e jour d’octobre 2011.
+« Paul Bédard »
+Juge Bédard
+Traduction certifiée conforme
+ce 9e jour de janvier 2012.
+Mario Lagacé, jurilinguiste
+Référence : 2011 CCI 475
+Date : 20111011
+Dossier : 2011-1047(EI)
+ENTRE :
+RUDOLF HEINEKE,
+FAISANT AFFAIRE SOUS LE NOM DE
+CREATIVE STAGING SASKATCHEWAN,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+Dossier : 2011-1048(CPP)
+ENTRE :
+RUDOLF HEINEKE,
+FAISANT AFFAIRE SOUS LE NOM DE
+CREATIVE STAGING SASKATCHEWAN,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+Dossier : 2011-1049(CPP)
+ENTRE :
+RUDOLF HEINEKE,
+FAISANT AFFAIRE SOUS LE NOM DE
+CREATIVE STAGING SASKATCHEWAN,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+Dossier : 2011-1050(EI)
+ENTRE :
+RUDOLF HEINEKE,
+FAISANT AFFAIRE SOUS LE NOM DE
+CREATIVE STAGING SASKATCHEWAN,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Bédard
+[1] Ces appels sont formés contre des décisions du ministre du Revenu national (le « ministre ») prises en vertu du Régime de pensions du Canada (le « RPC ») et de la Loi sur l’assurance-emploi (la « Loi »), décisions selon lesquelles, durant la période allant du 1er janvier 2008 au 31 décembre 2008, Darcy J. Wesolowski et, durant la période allant du 1er janvier 2008 au 31 décembre 2009, Bob Rosenfeldt, Adam Scott et Joey Prevost (ces quatre personnes étant ci-après collectivement appelées les « travailleurs ») exerçaient pour l’appelant des emplois assurables et ouvrant droit à pension.
+[2] L’appelant s’occupait de fournir des équipiers additionnels pour qu’ils procèdent aux opérations de montage et de démontage pour les concerts organisés au Credit Union Centre de Saskatoon (Saskatchewan) (le « CUC », ou le « Centre »).
+[3] La position du ministre est la suivante :
+a) les travailleurs exerçaient des emplois assurables au sens de l’alinéa 5(1)a) de la Loi durant les périodes pertinentes, puisqu’ils étaient employés en vertu de contrats de louage de services conclus avec l’appelant;
+b) les travailleurs exerçaient des emplois ouvrant droit à pension au sens de l’alinéa 6(1)a) du RPC durant les périodes pertinentes, puisqu’ils étaient employés en vertu de contrats de louage de services conclus avec l’appelant;
+c) les travailleurs n’exerçaient pas des emplois au service de l’appelant dans le cadre d’un cirque, d’une foire, d’un défilé, d’un carnaval, d’une exposition ou d’une activité semblable; par conséquent, selon le ministre, les emplois exercés par les travailleurs auprès de l’appelant n’étaient pas exclus des emplois assurables selon ce que prévoit le paragraphe 8(1) du Règlement sur l’assurance-emploi (le « Règlement sur l’A-E »), ni n’étaient exclus des emplois ouvrant droit à pension selon ce que prévoient les paragraphes 28(1) et 28(2) du Règlement sur le Régime de pensions du Canada (le « Règlement sur le RPC »);
+d) si la Cour arrive à la conclusion que les travailleurs exerçaient des emplois au service du payeur dans le cadre d’un cirque, d’une foire, d’un défilé, d’un carnaval, d’une exposition ou d’une activité semblable, alors l’emploi des travailleurs :
+(i) n’était, en vertu du paragraphe 8(3) du Règlement sur l’A-E, pas exclu des emplois assurables puisque la période totale de l’emploi des travailleurs auprès de l’appelant a dépassé six jours pour les deux années considérées;
+(ii) n’était, en vertu du paragraphe 28(4) du Règlement sur le RPC, pas exclu des emplois ouvrant droit à pension puisque la période totale de l’emploi des travailleurs auprès de l’appelant a dépassé six jours pour les deux années considérées.
+[4] Chaque affaire où se pose la question de savoir si un travailleur est un employé ou un entrepreneur indépendant doit être considérée comme un cas d’espèce. Compte tenu des circonstances de l’affaire, il convient d’attribuer le poids requis à chacun des quatre volets (contrôle, propriété des instruments de travail, chances de bénéfices et risques de perte) du critère composite énoncé dans l’arrêt Wiebe Door Services Ltd. v. M.R.N., 87 DTC 5025, et dans l’arrêt 671122 Ontario Ltd. c. Sagaz Industries Canada Inc., [2001] 2 R.C.S. 983. De plus, l’intention des parties au contrat est devenue, dans des arrêts récents de la Cour d’appel fédérale, un facteur dont le poids semble varier d’un cas à un autre (Royal Winnipeg Ballet c. M.R.N., 2006 CAF 87, [2007] 1 R.C.F. 35; Wolf c. Canada, [2002] 4 C.F. 396; City Water International Inc. c. Canada (M.R.N.), 2006 CAF 350, 355 N-R 77; Équipe de ski capitale nationale outaouais c. Canada (Revenu national), 2008 CAF 132, [2008] 4 C.T.C. 273).
+[5] Les faits sur lesquels le ministre s’est fondé pour rendre sa décision dans le dossier 2011-1049(CPP), qui concerne le RPC, et dans le dossier 2011-1050(EI), qui concerne l’assurance-emploi, sont les mêmes. Ces faits sont, dans les deux cas, exposés au paragraphe 9 de la réponse à l’avis d’appel modifié, comme il suit :
+[TRADUCTION]
+a) le Credit Union Centre (le « CUC ») est un vaste complexe récréatif de Saskatoon, en Saskatchewan, qui organise des concerts et autres spectacles;
+b) le promoteur de chaque spectacle amène avec lui sa propre équipe (l’« équipe responsable ») qui sera chargée des opérations d’organisation, de montage et de démontage;
+c) le payeur fournit des équipiers additionnels qui aident l’équipe responsable dans les opérations de montage et de démontage pour les spectacles présentés au CUC;
+d) le CUC recourait au payeur presque uniquement pour lui demander d’apporter son aide pour des spectacles;
+e) le travailleur était embauché par l’appelant pour aider aux opérations de montage et de démontage pour les spectacles présentés au CUC;
+f) il n’y avait aucun contrat d’emploi écrit entre le payeur et le travailleur;
+g) le payeur conservait une liste d’équipiers possibles, liste qui était modifiée constamment parce que les travailleurs étaient le plus souvent des personnes de passage;
+h) la liste des équipiers possibles du payeur comportait au-delà de 300 noms;
+i) le travailleur n’avait aucune garantie d’être appelé par le payeur pour être un équipier au cours de tel ou tel spectacle;
+j) le travail était de nature sporadique et dépendait des appels faits par le payeur;
+k) le payeur décidait quels travailleurs appeler à partir de sa liste;
+l) le travailleur était appelé plus souvent que d’autres travailleurs car il était considéré par le payeur comme un bon travailleur;
+m) le travailleur était libre d’accepter l’offre de travail pour chaque spectacle présenté au CUC;
+n) le travailleur pouvait appeler le payeur pour l’informer qu’il était disponible;
+o) si le travailleur était apprécié par l’équipe responsable et qu’il faisait du bon travail, il avait des chances d’être appelé plus souvent;
+p) le travailleur relevait de l’équipe responsable ou était supervisé par le payeur;
+q) le payeur devait s’assurer que les tâches assignées au travailleur étaient accomplies selon les exigences spécifiques du promoteur ou de l’organisateur du spectacle;
+r) les spectacles auxquels était affecté le travailleur étaient surtout des spectacles musicaux;
+s) le travailleur était payé selon un taux horaire par le payeur;
+t) le payeur fixait le taux horaire de rémunération qu’il payait au travailleur;
+u) le taux horaire payé par le payeur pouvait varier d’un spectacle à un autre;
+v) le payeur payait le travailleur par chèque à la fin de chaque spectacle;
+w) le travailleur a reçu du payeur une rémunération totale de 4 092,25 $ en 2008 et de 2 379,31 $ en 2009;
+x) le payeur fournissait au travailleur une protection contre les accidents du travail;
+y) la valeur des outils apportés par le travailleur pour l’exécution de ses tâches était négligeable;
+z) la plupart des équipements dont le travailleur avait besoin pour remplir ses tâches étaient fournis par l’équipe responsable;
+aa) le travailleur devait lui-même accomplir ses tâches;
+bb) le travailleur n’avait pas d’avantages sociaux ni d’indemnité de congé;
+cc) le travailleur n’assumait pas de frais d’exploitation;
+dd) le travailleur n’avait aucun intérêt financier dans les activités du payeur;
+ee) le travailleur choisissait de travailler pour les spectacles surtout parce qu’il pouvait ainsi assister aux concerts;
+ff) la rémunération versée au travailleur par le payeur ne représentait pas un pourcentage important du revenu total du travailleur;
+gg) le travailleur ne travaillait pas pour le même spectacle durant plus de sept (7) jours au cours d’une année civile;
+hh) le travailleur a travaillé pour deux à trois concerts par mois en 2008 et en 2009.
+[6] Les faits sur lesquels le ministre s’est fondé pour rendre sa décision dans le dossier 2011-1048(CPP), qui concerne le RPC, et dans le dossier 2011-1047(EI), qui concerne l’assurance-emploi, sont les mêmes. Ces faits sont, dans chaque cas, énoncés au paragraphe 9 de la réponse à l’avis d’appel modifié, comme il suit :
+[TRADUCTION]
+a) le Credit Union Centre (le « CUC ») est un vaste complexe récréatif de Saskatoon, en Saskatchewan, qui organise des concerts et autres spectacles;
+b) le promoteur de chaque spectacle amène avec lui sa propre équipe (l’« équipe responsable ») qui sera chargée des opérations d’organisation, de montage et de démontage;
+c) le payeur fournit des équipiers additionnels qui aident l’équipe responsable dans les opérations de montage et de démontage pour les spectacles présentés au CUC;
+d) le CUC recourait au payeur presque uniquement pour lui demander d’apporter son aide pour des spectacles;
+e) les travailleurs étaient embauchés par l’appelant pour aider aux opérations de montage et de démontage pour les spectacles présentés au CUC;
+f) il n’y avait aucun contrat d’emploi écrit entre le payeur et les travailleurs;
+g) le payeur conservait une liste d’équipiers possibles, liste qui était modifiée constamment parce que les travailleurs étaient le plus souvent des personnes de passage;
+h) la liste des équipiers possibles du payeur comportait au-delà de 300 noms;
+i) un travailleur n’avait aucune garantie d’être appelé par le payeur pour être un équipier au cours de tel ou tel spectacle;
+j) le travail était de nature sporadique et dépendait des appels faits par le payeur;
+k) le payeur décidait quels travailleurs appeler à partir de sa liste;
+l) les travailleurs étaient libres d’accepter l’offre de travail pour chaque spectacle présenté au CUC;
+m) les travailleurs pouvaient appeler le payeur pour l’informer qu’ils étaient disponibles;
+n) si les travailleurs étaient appréciés par l’équipe responsable et qu’ils faisaient du bon travail, ils avaient des chances d’être appelés plus souvent;
+o) les travailleurs relevaient de l’équipe responsable ou étaient supervisés par le payeur;
+p) le payeur devait s’assurer que les tâches assignées aux travailleurs étaient accomplies selon les exigences spécifiques du promoteur ou de l’organisateur du spectacle;
+q) les spectacles auxquels étaient affectés les travailleurs étaient surtout des spectacles musicaux;
+r) les travailleurs étaient payés selon un taux horaire par le payeur;
+s) le payeur fixait le taux horaire de rémunération qu’il payait aux travailleurs;
+t) le taux horaire payé par le payeur pouvait varier d’un spectacle à un autre;
+u) le payeur payait les travailleurs par chèque à la fin de chaque spectacle;
+v) le payeur fournissait au travailleur une protection contre les accidents du travail;
+w) la valeur des outils apportés par les travailleurs pour l’exécution de leurs tâches était négligeable;
+x) les travailleurs devaient eux-mêmes accomplir leurs tâches;
+y) les travailleurs n’avaient pas d’avantages sociaux ni d’indemnité de congé;
+z) les travailleurs n’assumaient pas de frais d’exploitation;
+aa) les travailleurs n’avaient aucun intérêt financier dans les activités du payeur;
+bb) les travailleurs choisissaient de travailler pour les spectacles surtout parce qu’ils pouvaient ainsi assister aux concerts;
+cc) les travailleurs ne travaillaient pas pour le même spectacle durant plus de sept (7) jours au cours d’une année civile.
+[7] Avec le consentement de l’intimé, le paragraphe 6.9 de l’avis d’appel modifié, dans le dossier 2011-1049 (CPP), qui concerne le RPC, a été à nouveau modifié. Il se présente ainsi :
+[TRADUCTION] 6.9 L’appelant dit que les gains annuels totaux de M. Prevost pour 2009 (gains résultant de son travail pour l’appelant) ont été de 2 379,31 $. L’appelant dit que le montant annuel de l’exemption de base au titre des cotisations au RPC en 2009 a été de 3 500 $. M. Prevost a donc gagné 1 120,69 $ de moins que le montant annuel de l’exemption de base.
+[8] Le témoignage de l’appelant, qui a semblé crédible, était essentiellement le suivant :
+a) Le Centre est un vaste complexe récréatif de Saskatoon, qui organise d’importants concerts et autres spectacles.
+b) L’appelant fournit des équipiers additionnels qui interviennent dans les activités de montage et de démontage pour les spectacles présentés au Centre.
+c) Le Centre est contacté par un « promoteur de spectacles ». Le promoteur de spectacles informe le Centre que l’entreprise de spectacles (par exemple les Eagles) a besoin d’une équipe de plateau additionnelle.
+d) Le Centre communique alors avec l’appelant et l’informe de l’équipe requise, ainsi que de la date et de l’heure du spectacle. L’appelant ne conclut pas de contrat écrit formel avec le Centre. Il n’a aucune garantie que le Centre communiquera avec lui pour obtenir une équipe de plateau additionnelle. L’appelant a ajouté que le travail est sporadique parce qu’il dépend des spectacles qui seront présentés au Centre et dépend également du choix du Centre de communiquer avec lui pour lui demander une équipe additionnelle en prévision des spectacles. En outre, au cours d’une année, il peut s’écouler plusieurs mois où il n’y a pas de spectacles et donc pas de demande de mise à disposition de travailleurs.
+e) Lorsque le Centre lui envoie une demande de mise à disposition de travailleurs, l’appelant prépare un devis, qui est transmis au promoteur du spectacle par l’entremise du Centre. Si le promoteur approuve le devis, alors l’appelant en reçoit confirmation par l’entremise du Centre.
+f) C’est surtout de bouche à oreille que l’appelant s’informe des équipiers possibles. Sa liste d’équipiers possibles compte plus de 300 noms. Cette liste change constamment parce que les travailleurs sont surtout des personnes de passage. Une fois informé par le Centre du nombre d’équipiers requis pour tel ou tel spectacle, il considère sa liste pour y choisir le nombre requis de travailleurs.
+g) Il ne dispose pas d’un groupe régulier d’équipiers. Si un équipier travaille pour un spectacle ou un concert, il ne sera peut-être pas appelé avant longtemps à travailler à nouveau. Cependant, l’appelant a reconnu qu’il a tendance à appeler plus souvent les travailleurs qui sont appréciés par l’équipe d’une entreprise de spectacles (l’équipe de base) et qui font du bon travail. Il appelait ces bons travailleurs ses favoris. Je ferais observer immédiatement que, en 2009, le Centre a recouru aux services de l’appelant pour 30 concerts ou spectacles et que l’appelant a recouru aux services de Joey Prevost, Adam Scott et Bob Rosenfeldt pour, respectivement, 14, 12 et 18 de ces concerts ou spectacles.
+h) L’entreprise de spectacles amène sa propre équipe de base. L’appelant fournit des travailleurs additionnels pour soutenir l’équipe de base. Lorsque les travailleurs arrivent (à l’heure fixée par lui) au Centre, ils se présentent à lui. Il les affecte alors à certaines tâches précises. À partir de ce moment-là, les travailleurs travaillent sous la supervision et le contrôle de l’équipe de base. L’appelant a aussi expliqué qu’il est présent toute la journée au Centre le jour du spectacle, pour notamment s’assurer que les tâches assignées aux travailleurs sont accomplies selon les exigences spécifiques de l’entreprise de spectacles, et parfois pour renvoyer les travailleurs qui ne répondent pas aux exigences de l’entreprise de spectacles.
+i) Il demande à tous les travailleurs d’apporter certains articles ou outils avec eux au Centre. Par exemple, tous les travailleurs doivent apporter une paire de gants et une clé à molette, et les monteurs doivent apporter leurs propres cordes et harnais. Si un travailleur oublie d’apporter ces articles, l’appelant ne les fournit pas. Le Centre ou l’entreprise de spectacles fournit l’équipement ou les outils additionnels. Les travailleurs n’étaient pas responsables des frais d’exploitation et ils n’avaient aucun intérêt financier dans l’entreprise de l’appelant.
+j) Les équipiers qu’il embauche sont payés à l’heure, et la rémunération varie selon le spectacle et le travail à faire. Par exemple, l’appelant a expliqué que les monteurs perçoivent en général un salaire horaire plus élevé que les autres travailleurs parce qu’ils font un travail plus dangereux. Le taux horaire de rémunération n’est pas négociable. La règle qu’il applique est la suivante : « c’est à prendre ou à laisser ». Les travailleurs étaient payés par chèque à la fin de chaque journée. Il fournissait aussi aux travailleurs une protection contre les accidents du travail. Il remet au Centre une facture représentant le coût des travailleurs fournis pour un spectacle. Une fois la facture approuvée, il reçoit le paiement directement du Centre. Il paie un travailleur un minimum de trois heures par jour parce qu’il pense que les lois du travail l’obligent à le faire.
+k) Les travailleurs étaient libres d’engager un assistant à condition que l’assistant soit considéré acceptable par l’appelant. Je ferais observer sur ce point que l’assistant était payé non pas sur la rémunération du travailleur, mais directement par l’appelant.
+l) Les travailleurs étaient libres d’envoyer un remplaçant à condition que le remplaçant soit considéré acceptable par l’appelant. Je ferais observer sur ce point également que le remplaçant était payé non pas par le travailleur, mais directement par l’appelant.
+m) L’appelant considère que les travailleurs qu’il embauche sont tous des sous-traitants. Cependant, l’appelant a admis qu’il ne parle jamais de leur statut avec les travailleurs qu’il embauche.
+[9] Le témoignage de M. Wesolowski, qui a semblé crédible, était essentiellement le suivant :
+a) Il était embauché en vertu d’une entente orale. Il n’a jamais discuté avec l’appelant de la qualification juridique des services qu’il fournissait à l’appelant. Cependant, il considère que la relation était une relation d’emploi à temps partiel.
+b) Il recevait une rémunération horaire allant de 10 $ à 12 $. L’appelant fixait son taux de rémunération. Le taux de rémunération n’était pas négociable. Il était payé à la fin de chaque journée de travail. L’appelant conservait un registre de ses heures travaillées.
+c) M. Wesolowski n’engageait pas personnellement de dépenses dans les services qu’il fournissait à l’appelant.
+d) Son travail était essentiellement un travail physique consistant à monter et à démonter une scène, ainsi qu’à charger du matériel.
+e) Il n’avait pas de nom ou de numéro d’entreprise enregistrée, ni de numéro de TPS, ni de compte bancaire d’entreprise, ni d’autres clients. Il n’annonçait jamais ses services.
+f) À une occasion, il a amené un assistant au Centre. L’appelant a embauché l’assistant et l’a payé directement.
+g) Lorsqu’il arrivait (à l’heure fixée par l’appelant) au Centre, il se présentait à l’appelant, qui lui assignait alors certaines tâches précises. À partir de là, il travaillait sous la surveillance et le contrôle de l’équipe de base. Cependant, il considérait que l’appelant était son principal patron. Il relevait de l’appelant pour les plaintes se rapportant à son travail.
+[10] Le témoignage de M. Joey Prevost a été pour l’essentiel semblable à celui de M. Wesolowski.
+[11] La preuve a aussi révélé ce qui suit :
+a) Joey D. Prevost a travaillé pour l’appelant 21 jours en 2008 et 14 jours en 2009.
+b) Bob Rosenfeldt a travaillé pour l’appelant 24 jours en 2008 et 18 jours en 2009.
+c) Adam Scott a travaillé pour l’appelant 18 jours en 2008 et 12 jours en 2009. Pièce I‑1 et paragraphe 8(1), précité.
+d) Darcy J. Wesolowski a travaillé pour l’appelant 5 jours en 2008.
+Analyse et conclusion
+[12] Je voudrais commencer par quelques observations sur le facteur de l’intention. D’abord, si l’intention des parties doit être un facteur déterminant ou prépondérant, cette intention doit être partagée par les deux parties. Autrement dit, s’il n’y a pas accord des volontés et que les parties ne sont pas sur la même longueur d’onde, alors l’intention ne saurait être un facteur. Ma deuxième observation est que, lorsque l’intention des parties ne peut être établie (ce qui est le cas ici), il est tout à fait acceptable, voire nécessaire, de considérer tous les faits pour voir quelle relation juridique ils reflètent. À ce titre, les quatre volets du critère composite énoncé dans l’arrêt Wiebe Door sont pertinents et utiles pour savoir ce qu’est l’intention des parties au contrat et ce qu’est la nature juridique du contrat.
+[13] Passons maintenant aux faits. Quels facteurs donnent à penser que les travailleurs étaient des employés de l’appelant?
+Responsabilité de l’investissement et de la gestion
+1. Les travailleurs n’avaient aucune responsabilité de ce genre.
+Chances de bénéfice / Risque de perte
+2. Les travailleurs n’assumaient pas de dépenses ni aucune responsabilité les exposant à un risque de perte.
+3. Il n’y avait en réalité aucune possibilité pour eux d’accroître leur revenu. La possibilité de travailler davantage d’heures et donc de gagner plus d’argent ne constitue pas à mon avis une chance de bénéfice.
+Contrôle
+4. Les travailleurs devaient se présenter à l’appelant au début de leur quart. L’appelant assignait alors aux travailleurs les diverses tâches qu’ils devaient accomplir durant la journée. Autrement dit, il disait aux travailleurs, au début de leur quart, à quel endroit ils devaient aller. En fait, à partir de ce moment-là, l’appelant déléguait au patron de l’équipe de base la plus grande partie de son autorité sur les travailleurs.
+5. L’appelant était présent toute la journée au Centre pour s’assurer notamment que les tâches assignées aux travailleurs étaient accomplies selon les exigences spécifiques indiquées par l’équipe de base, et pour mettre fin à la relation d’emploi avec les travailleurs qui ne répondaient pas auxdites exigences. La preuve a clairement révélé qu’il mettait fin à la relation avec un travailleur lorsqu’un promoteur de spectacles ou un membre de l’équipe de base se plaignait du travail accompli par ce travailleur.
+6. Les heures des travailleurs étaient consignées par l’appelant, et par lui seul. Les travailleurs ne facturaient pas à l’appelant leurs heures travaillées.
+7. Ce facteur permet clairement d’affirmer que les travailleurs étaient dans une relation de subordination avec l’appelant. Darcy Wesolowski en particulier a indiqué que, dans la hiérarchie des gens dont il relevait, c’est l’appelant qui se trouvait au sommet.
+Outils
+8. Vu la faible valeur des outils fournis, je suis d’avis que ce facteur est neutre. Autrement dit, je suis d’avis que ce facteur ne devrait pas avoir beaucoup de poids dans la décision globale.
+[14] Je suis d’avis qu’il n’y a pas de facteurs significatifs donnant à penser que les travailleurs exerçaient leurs activités à leur propre compte. Les facteurs non significatifs évoqués par l’avocate de l’appelant ne sauraient l’emporter sur la réalité globale, à savoir le fait que les travailleurs n’exerçaient pas leurs activités à leur propre compte.
+[15] La question à laquelle je dois maintenant répondre est la suivante : les travailleurs exerçaient-ils des emplois au service de l’appelant dans le cadre d’un cirque, d’une foire, d’un défilé, d’un carnaval, d’une exposition ou d’une activité semblable?
+[16] Puisque l’avocate de l’appelant a essentiellement répété durant l’audience ses arguments écrits sur ce point soumis à la Cour, je suis d’avis qu’il est utile de reproduire intégralement ces arguments écrits, qui sont les suivants :
+[TRADUCTION]
+37. L’appelant est d’avis que les travailleurs devraient être exclus des emplois assurables et des emplois ouvrant droit à pension parce que le travail qu’ils accomplissent peut être classé dans l’expression « ou d’une activité semblable », qui apparaît dans l’article 8 du Règlement sur l’assurance-emploi (le « Règlement sur l’A‑E ») et dans l’article 28 du Règlement sur le Régime de pensions du Canada (le « Règlement sur le RPC »).
+38. L’intimé a choisi d’interpréter d’une manière étroite l’article 8 du Règlement sur l’A-E et l’article 28 du Règlement sur le RPC, d’une manière qui limite l’application de cette exclusion aux seuls « festivals de musique ».
+39. Cependant, l’appelant dit que la Cour a déjà jugé que l’expression « ou d’une activité semblable » (dans le contexte du Règlement sur l’A-E et celui du Règlement sur le RPC) peut s’étendre à des activités autres que celles se rapportant aux festivals de musique.
+40. Dans la décision [Lotfi] c. Canada, la Cour devait se demander si un livreur de pizza qui avait travaillé durant des heures variables au cours d’une période de plusieurs jours exerçait un « emploi assurable ». La Cour a répondu par la négative en se fondant sur le sous-alinéa 8(1)a)(ii) du Règlement sur l’A-E. Elle s’est exprimée ainsi :
+14 La preuve a révélé que l’emploi de l’appelant n’a duré que quelques jours, deux ou trois, selon l’information fournie par le payeur. La courte durée de cet emploi a pour effet de l’exclure des emplois assurables en vertu du sous‑alinéa 8(1)a)(ii) du Règlement sur l’assurance-emploi que je reproduis ci‑dessous :
+8.(1) Sous réserve des paragraphes (2) à (4), sont exclus des emplois assurables les emplois suivants :
+a) l’emploi exercé par une personne, autrement qu’à titre d’artiste du spectacle, dans le cadre d’un cirque, d’une foire, d’un défilé, d’un carnaval, d’une exposition ou d’une activité semblable, si :
+[...]
+(ii) d’autre part, elle exerce cet emploi au service de cet employeur pendant moins de 7 jours par année.
+15 Cette Cour doit donc conclure que l’emploi de l’appelant était exclu des emplois assurables. Cependant, le Ministre a jugé que l’emploi de l’appelant n’était pas assurable parce que celui-ci rendait des services au payeur en vertu d’un contrat d’entreprise et non en vertu d’un contrat de louage de services. Cette Cour est d’avis que les circonstances, en l’espèce, viennent appuyer cette détermination du Ministre puisque l’examen des faits à la lumière des critères établis dans l’arrêt Wiebe Door Services Limited c. M.R.N., [1986] 3 C.F. 553 (C.A.F.) supporte cette conclusion.
+[Non souligné dans l’original]
+[Lotfi] c. Canada, 2005 CCI 270 [onglet J]
+41. L’appelant dit que, par l’interprétation qu’elle donne de l’alinéa 8(1)a) du Règlement sur l’A-E dans la décision [Lotfi], la Cour a jugé que même un livreur de pizza pouvait être visé par l’expression « une activité semblable ». L’appelant est d’avis que, si un livreur de pizza répond aux conditions d’application de cette expression, alors certainement un équipier travaillant pour un concert musical pourrait lui aussi être visé par cette expression.
+[17] Je suis d’avis que l’appelant ne peut pas se fonder sur la décision Lotfi pour prétendre que l’emploi des travailleurs était exclu des emplois assurables en application du paragraphe 8(1) du Règlement sur l’A-E, et qu’il était également exclu des emplois ouvrant droit à pension en application des paragraphes 28(1) et 28(2) du Règlement sur le RPC. Dans la décision Lofti, le juge Savoie a considéré à tort que l’emploi du travailleur était exclu des emplois assurables en application du paragraphe 8(1) du Règlement seulement parce que la preuve montrait que l’emploi n’avait duré que deux ou trois jours. Je suis d’avis que l’emploi est exclu des emplois assurables en application du paragraphe 8(1) du Règlement sur l’A-E, et exclu des emplois ouvrant droit à pension en application des paragraphes 28(1) et 28(2) du Règlement sur le RPC, si les trois conditions suivantes sont remplies :
+(i) l’emploi doit être exercé dans le cadre d’un cirque, d’une foire, d’un défilé, d’un carnaval, d’une exposition ou d’une activité semblable;
+(ii) le travailleur ne doit pas exercer régulièrement un emploi au service de l’employeur;
+(iii) il doit exercer cet emploi au service de cet employeur pendant moins de sept jours par année.
+Dans l’affaire Lotfi, les conditions indiquées dans (ii) et (iii) ci‑dessus étaient remplies. Cependant, je suis d’avis que la condition indiquée dans (i) ci‑dessus ne l’était pas. Je ne vois d’ailleurs tout simplement pas comment l’activité consistant à livrer des pizzas pourrait être considérée comme une activité semblable dans le cadre d’événements tels qu’un cirque, une foire, un défilé, un carnaval ou une exposition.
+[18] Cependant, je suis d’avis qu’un « concert » est une activité semblable à un cirque, une foire, un défilé, un carnaval ou une exposition au sens où il s’agit généralement d’un spectacle itinérant (c’est-à-dire qui va de ville en ville), et d’un spectacle dont l’objet est essentiellement de divertir le public.
+[19] Finalement, l’appelant affirme que, en vertu du paragraphe 8(3) du Règlement sur l’A-E, l’emploi des travailleurs n’était pas exclu des emplois assurables et que, en vertu du paragraphe 28(4) du Règlement sur le RPC, il n’était pas exclu des emplois ouvrant droit à pension, essentiellement parce que, à chaque spectacle, le travail était accompli par un promoteur différent et que, par conséquent, pour calculer le nombre de jours travaillés au cours d’une année, on devrait calculer le nombre de jours travaillés par spectacle. Puisque l’avocate de l’appelant a essentiellement répété, durant l’audience, ses arguments écrits soumis sur ce point à la Cour, je suis d’avis qu’il est utile de reproduire intégralement lesdits arguments écrits, qui sont les suivants :
+[TRADUCTION]
+42. L’appelant reconnaît que, pour que son emploi soit exclu des emplois assurables et des emplois ouvrant droit à pension, conformément à l’article 8 du Règlement sur l’A-E et à l’article 28 du Règlement sur le RPC, un travailleur doit aussi : a) ne pas exercer « régulièrement un emploi » au service de l’appelant; et b) ne pas avoir travaillé plus de six jours au cours de l’année.
+43. L’appelant dit que les travailleurs n’exercent pas « régulièrement un emploi » au service de l’appelant. Il dit que chacun des travailleurs figure sur une liste de travailleurs possibles qui peuvent être appelés par l’appelant pour travailler à des spectacles tout au long de l’année. Le nombre d’heures ou de jours que les travailleurs travailleront au cours d’une année n’est pas garanti, et il n’est pas même garanti que l’appelant communiquera avec l’un d’eux.
+44. En outre, l’appelant est d’avis que, puisque chaque spectacle concerne un promoteur différent, alors, pour le calcul du nombre de « jours » travaillés au cours d’une année, on doit plutôt calculer le nombre de jours travaillés par spectacle.
+45. L’appelant dit qu’aucun des « spectacles » qui ont eu lieu au CUC au cours des années visées par l’appel n’a duré plus de six jours.
+46. Au soutien de cette interprétation de la disposition, l’appelant se fonde sur la décision Section locale 212 (AIESP) c. Canada, une décision de la Cour canadienne de l’impôt qui portait sur une loi fédérale antérieure, la Loi de 1971 sur l’assurance-chômage.
+Section locale 212 (AIESP) c. Canada, [1988] A.C.I. n° 537 [onglet K].
+47. Dans la décision Section locale 212, le ministre avait conclu que le syndicat appelant, qui représentait des employés de la scène et du cinéma, était l’employeur présumé des travailleurs qu’il fournissait aux producteurs. Le syndicat était payé à des taux établis préalablement pour le personnel fourni, il déduisait ensuite 2 p. 100 du salaire gagné par chaque travailleur et il versait le reste au travailleur concerné. Il ne faisait aucune retenue à la source et ne versait aucune prime d’assurance‑chômage pour les travailleurs.
+48. La Cour a annulé la décision du ministre, estimant que les travailleurs n’étaient pas des employés du syndicat, pour la raison suivante :
+L’appelante ne génère aucun emploi. Au contraire, l’appelante attend qu’un organisme des arts du spectacle téléphone et sollicite les services des travailleurs. L’appelante soumet alors au moins deux noms pour le genre de travail demandé par la compagnie théâtrale, l’exposition ou le producteur de film, etc. La rémunération pour les différents métiers ou compétences est négociée au préalable par le syndicat. La personne qui engage les travailleurs doit signer une entente semblable à la pièce A‑4 déposée dans cette procédure. L’organisme qui embauche expose le genre de travail qu’il veut voir accompli. L’appelante désigne des travailleurs pour l’emploi. Lorsque le travail est terminé, l’appelante perçoit la rémunération totale pour le travail et la remet aux travailleurs intéressés après avoir déduit 2 % du salaire brut pour payer les dépenses de fonctionnement du syndicat comme en ont convenu les membres.
+49. La Cour a aussi jugé que les travailleurs étaient exclus des emplois assurables, conformément au paragraphe 15(1) du Règlement sur l’assurance-chômage (qui correspond à la version actuelle des dispositions applicables du Règlement sur l’A‑E et du Règlement sur le RPC) :
+Paragraphe 15(1) Sont exclus des emplois assurables, sous réserve du paragraphe (2), les emplois suivants :
+a) l’emploi exercé par une personne à un titre autre que celui d’artiste du spectacle à l’occasion d’un cirque, d’une foire, d’un défilé, d’un carnaval, d’une exposition ou d’une activité semblable, si cette personne
+(i) ne travaille pas régulièrement pour l’employeur qui retient ses services à cette fin, et
+(ii) travaille pour cet employeur moins de sept jours par année.
+50. La Cour avait passé en revue une liste de groupes ou d’organisations qui avaient besoin des travailleurs au cours de l’année (par exemple le Calgary Opera, le Shrine Circus, etc.) et avait conclu ainsi à propos des trois conditions du paragraphe 15(1) :
+Les travailleurs en question n’étaient pas des artistes de spectacle et c’est pourquoi ils répondent à la première condition des emplois exclus.
+La deuxième condition de cet article pour exclure des travailleurs des emplois assurables prévoit que les travailleurs ne doivent pas travailler régulièrement pour l’employeur qui retient leurs services à cette fin. […]
+Quelques-unes de ces représentations ont été probablement un événement « d’une fois ». D’autres comme le Shrine Circus reviennent probablement à chaque année. Supposons, par exemple, que des productions comme celles du Shrine Circus sont répétées à chaque année, rien ne garantit que le cirque retiendra les services des mêmes employés à chaque fois. […] Les travailleurs en question répondent alors à la deuxième condition énoncée dans les emplois exclus de l’article 15 du Règlement.
+La troisième condition pour exclure des travailleurs des emplois assurables en vertu de l’article 15 susmentionné stipule que l’employé « travaille pour cet employeur moins de sept jours par année ». […] [J]e conclus que les employés en question ont été employés pour une période inférieure à [sept] jours par chaque organisme producteur de spectacles ou d’événements. Les employés en question répondent aux conditions exposées à l’alinéa 15(1)a) du Règlement sur l’assurance-chômage et leur emploi fait partie des emplois exclus des emplois assurables.
+[Non souligné dans l’original]
+51. L’appelant dit que, dans la décision Section locale 212, la Cour a interprété l’expression « employés pour une période inférieure à sept jours par an » comme signifiant « employés pour une période inférieure à sept jours par chaque organisme producteur de spectacles ou d’événements. L’appelant dit qu’aucun des spectacles présentés durant les années 2008 ou 2009 ne requérait des travailleurs durant plus de six jours. Par ailleurs, même si le même spectacle devait être présenté à nouveau au CUC, il n’est pas garanti que les mêmes travailleurs seraient appelés pour un travail, ou seraient disponibles pour travailler à nouveau.
+52. L’appelant est d’avis que, même si la Cour arrive à la conclusion que les travailleurs sont des employés de l’appelant, les travailleurs devraient être exclus des emplois assurables et des emplois ouvrant droit à pension, conformément aux exceptions de l’article 8 du Règlement sur l’A-E et de l’article 28 du Règlement sur le RPC. Les travailleurs ne sont pas des artistes du spectacle, ils n’exercent pas régulièrement un emploi au service de l’appelant et ils sont employés moins de sept jours par année par chaque promoteur d’un événement au CUC.
+[20] Je suis d’avis que l’appelant ne peut pas se fonder sur la décision Section locale 212 puisque, dans ce précédent, la Cour a jugé que les employés avaient été employés durant moins de sept jours par chaque organisme producteur de spectacles. Autrement dit, la Cour a jugé que les employés en question avaient de multiples employeurs au cours de l’année. Je suis d’avis que, dans la présente affaire, les travailleurs n’avaient qu’un seul employeur au cours des années en cause et que cet employeur était l’appelant. Par conséquent, je crois que, selon le paragraphe 8(3) du Règlement sur l’A-E, les emplois exercés par M. Prevost, M. Rosenfeldt et M. Scott en 2008 et 2009 n’étaient pas exclus des emplois assurables et que, selon le paragraphe 28(4) du Règlement sur le RPC, ils n’étaient pas exclus des emplois ouvrant droit à pension, puisque la durée totale de chacun des emplois de ces travailleurs auprès de l’appelant a dépassé six jours en 2008 comme en 2009. Je relève que, selon la preuve :
+(i) M. Prevost a travaillé pour l’appelant 21 jours en 2008 et 14 jours en 2009;
+(ii) M. Scott a travaillé pour l’appelant 18 jours en 2008 et 12 jours en 2009;
+(iii) M. Rosenfeldt a travaillé pour l’appelant 24 jours en 2008 et 18 jours en 2009.
+[21] Cependant, je suis d’avis que l’emploi M. Wesolowski en 2008 était exclu des emplois assurables, en application du paragraphe 8(1) du Règlement sur l’A-E, et qu’il était exclu des emplois ouvrant droit à pension, en application des paragraphes 28(1) et 28(2) du Règlement sur le RPC, puisque la preuve a révélé qu’il n’a travaillé que cinq jours pour l’appelant en 2008.
+[22] Pour ces motifs, je suis d’avis que :
+(i) durant la période allant du 1er janvier 2008 au 31 décembre 2009, Bob Rosenfeldt, Adam Scott et Joey Prevost exerçaient auprès de l’appelant des emplois assurables et ouvrant droit à pension;
+(ii) durant la période allant du 1er janvier 2008 au 31 décembre 2008, Darcy J. Wesolowski n’exerçait pas auprès de l’appelant un emploi assurable et ouvrant droit à pension.
+Signé à Ottawa, Canada, ce 11e jour d’octobre 2011.
+« Paul Bédard »
+Juge Bédard
+Traduction certifiée conforme
+ce 9e jour de janvier 2012.
+Mario Lagacé, jurilinguiste
+RÉFÉRENCE : 2011 CCI 475
+Nos DES DOSSIERS DE LA COUR : 2011-1047(EI)
+2011-1048(CPP)
+2011-1049(CPP)
+2011-1050(EI)
+INTITULÉS : RUDOLF HEINEKE, FAISANT AFFAIRE SOUS LE NOM DE CREATIVE STAGING SASKATCHEWAN C. M.R.N.
+LIEU DE L’AUDIENCE : Saskatoon (Saskatchewan)
+DATE DE L’AUDIENCE : Le 4 juillet 2011
+MOTIFS DU JUGEMENT : L’honorable juge Paul Bédard
+DATE DU JUGEMENT : Le 11 octobre 2011
+COMPARUTIONS :
+Pour l’appelant :
+Me Amanda Doucette
+M. Joseph Gill, stagiaire en droit
+Avocate de l’intimé :
+Me Bryn Frape
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom : Amanda S.A. Doucette
+Joseph Gill, stagiaire en droit
+Cabinet : Stevenson Hood Thornton Beaubier s.r.l.
+Pour l’intimé : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada

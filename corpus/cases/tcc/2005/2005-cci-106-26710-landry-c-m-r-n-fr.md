@@ -1,0 +1,182 @@
+---
+title: "Landry c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26710/index.do"
+last_modified: "2005-02-16"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 CCI 106"
+citation2: ""
+neutral_citation: "2005 CCI 106"
+decision_date: "2005-02-16"
+language: "fr"
+item_id: "26710"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3456
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T23:14:28.608000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "e4130e1f2b6ae7ed089b9586c2d1ab62d9ad1ac6bdc55a3a1718a2a0cd5df8ce"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Landry c. M.R.N.
+
+- Citation: 2005 CCI 106
+- Decision date: 2005-02-16
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3456, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Landry c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-02-16
+Référence neutre
+2005 CCI 106
+Numéro de dossier
+2004-2504(EI)
+Juges et Officiers taxateurs
+Sylvio J. Savoie
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2004-2504(EI)
+ENTRE :
+LOUISE LANDRY,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+____________________________________________________________________
+Appel entendu le 17 décembre 2004 à Montréal (Québec)
+Devant : L'honorable S.J. Savoie, juge suppléant
+Comparutions :
+Pour l'appelante :
+L'appelante elle-même
+Avocate de l'intimé :
+Me Antonia Paraherakis
+____________________________________________________________________
+JUGEMENT
+L'appel est rejeté et la décision rendue par le Ministre est confirmée selon les motifs du jugement ci-joints.
+Signé à Grand-Barachois (Nouveau-Brunswick), ce 16e jour de février 2005.
+« S.J. Savoie »
+Juge suppléant Savoie
+Référence : 2005CCI106
+Date : 20050216
+Dossier : 2004-2504(EI)
+ENTRE :
+LOUISE LANDRY,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+MOTIFS DU JUGEMENT
+Le juge suppléant Savoie
+[1] Cet appel a été entendu à Montréal (Québec), le 17 décembre 2004.
+[2] Il s'agit de déterminer si Nathalie Tremblay, la travailleuse, avait exercé un emploi assurable lorsqu'au service de l'appelante du 23 août 1999 au 15 août 2003, la période en litige.
+[3] Le 10 mars 2004, le ministre du Revenu national (le « Ministre » ) a informé l'appelante de sa décision selon laquelle la travailleuse occupait un emploi assurable pendant cette période.
+[4] Par ailleurs, le Ministre a informé l'appelante que la travailleuse avait exercé un emploi assurable pendant 2 142 heures lors des 52 dernières semaines de la période en litige et que sa rémunération assurable pour les 27 dernières semaines de la période était 6 760,00 $.
+[5] En rendant sa décision, le Ministre s'est fondé sur les faits présumés suivants :
+a) l'appelante exploitait un service de garde d'enfants en milieu familial; (admis)
+b) elle était affiliée à un Centre de la petite enfance; (à parfaire)
+c) durant la période en litige, l'appelante était la seule propriétaire de l'entreprise; (admis)
+d) les enfants étaient gardés dans la résidence de l'appelante; (admis)
+e) il pouvait y avoir jusqu'à neuf enfants à la fois; (admis)
+f) les enfants pouvaient être âgés de 1 à 5 ans; (admis)
+g) les normes provinciales pour les garderies en milieu familial stipulent qu'une personne seule peut garder jusqu'à 6 enfants et que deux personnes peuvent en garder jusqu'à 9; (à parfaire)
+h) durant la période en litige, la travailleuse était l'assistante de l'appelante; (à parfaire)
+i) elle travaillait à la résidence de l'appelante; (admis)
+j) elle travaillait de 9 h à 17 h 30 du lundi au vendredi, soit 8,50 heures par jour; (admis)
+k) elle travaillait sous la direction de l'appelante; (nié)
+l) l'appelante fournissait à la travailleuse tout l'équipement nécessaire à son travail; (nié)
+m) elle rémunérait la travailleuse 250,00 $ par semaine au début de la période et 255,00 $ puis 260,00 $ par la suite; (nié)
+n) durant les 52 dernières semaines de la période en litige, la travailleuse a travaillé pendant 2 142 heures, soit 252 jours de 8,5 heures; (admis)
+o) durant les 27 dernières semaines de la période en litige, la travailleuse a reçu de l'appelante 6 760,00 $, soit 23 semaines de 5 jours à 260,00 $, 3 semaines de 4 jours à 210,00 $ et une semaine de 3 jours à 150,00 $. (admis)
+[6] La preuve a déterminé que l'appelante exploitait un service de garde reconnu par le Centre de la petite enfance (CPE). L'appelante soutient qu'elle n'exploite pas une garderie mais un service de garde en milieu familial. Elle a fait valoir à l'audition que la travailleuse n'était pas son assistante mais bien une assistante responsable, surtout depuis 2002, au même titre qu'elle, depuis que son statut d'assistante responsable a été reconnu, ce qui lui a valu une augmentation de salaire de 5 $ par semaine.
+[7] L'appelante, par ailleurs, a soutenu que la travailleuse ne travaillait aucunement sous sa direction et que, contrairement à ce que prétend le Ministre, elle n'a pas fourni tout l'équipement puisque la travailleuse a fourni des jeux et une table pour les jeux des enfants.
+[8] L'appelante a expliqué, en outre, qu'au lieu d'une rémunération payée à la travailleuse, celles-ci se partageaient les gains et les subventions.
+[9] La rémunération du service de garde provenait de deux sources : la première, des parents et la deuxième de la CPE qui leur payait une subvention sur présentation d'un rapport d'assiduité signé par l'appelante et la travailleuse. Celles-ci se partageaient le revenu. L'appelante avait droit au revenu que leur rapportait la garde de six enfants et la travailleuse à celui des trois autres moins les dépenses encourues par l'appelante pour ces derniers.
+[10] À l'exception des deux items décrits ci-haut, l'appelante a fourni le reste de l'ameublement utilisé au service de garde, ainsi que le local.
+[11] Il a été établi que l'appelante seule signait le contrat de garde avec les parents.
+[12] La preuve a révélé que l'appelante avait établi l'horaire des activités à la garderie et que la travailleuse s'y était soumise. Mais l'appelante précise que la travailleuse aurait pu le changer.
+[13] Il a été établi que l'appelante et la travailleuse avaient une très bonne relation. L'appelante a affirmé à l'audition qu'en cas de conflit éventuel entre elles, elle voyait mal comment elle pourrait la renvoyer. Mais poussée à bout lors du contre-interrogatoire, elle a admis qu'elle pourrait lui demander de partir.
+[14] Le local de l'entreprise était fourni par l'appelante, dans sa résidence, et les dépenses s'y rattachant étaient à ses frais. En plus de l'ameublement, sauf les deux articles identifiés ci-haut, elle se chargeait des dépenses d'électricité, du chauffage, des assurances, de la nourriture pour tous, incluant les enfants et la travailleuse, les poussettes pour les petits, les frais du téléphone, du déneigement, bref de toutes les dépenses. La travailleuse ne lui versait aucun loyer et ne contribuait aucunement au reste des dépenses de l'appelante. Il a été établi que l'appelante assumait même les frais d'assurance responsabilité pour la travailleuse.
+[15] Tous les avis de la CPE étaient adressés à l'appelante de même que la subvention.
+[16] À l'audition, la travailleuse a révélé que son choix, au départ, était de travailler comme salariée, mais qu'elle avait dû se soumettre à la volonté de l'appelante qui ne l'entendait pas ainsi. Elle a, par ailleurs, déclaré qu'elle n'avait pas vraiment le choix d'horaire. Elle avertissait l'appelante si elle avait du retard, ce qui était rare. Pour changer l'horaire, à l'occasion, les deux s'en parlaient et pouvaient s'arranger.
+[17] La travailleuse avait droit à deux semaines de vacances payées par année. L'appelante lui payait aussi ses jours fériés. Elle a confirmé qu'elle ne contribuait d'aucune façon aux dépenses de l'entreprise, incluant la nourriture.
+[18] Elle affirme avoir accepté de travailler comme travailleuse autonome parce que c'était la seule façon de pouvoir travailler pour l'appelante.
+[19] La travailleuse a par ailleurs affirmé qu'elle n'avait rien investi dans l'entreprise de l'appelante.
+[20] L'appelante demande à cette Cour de renverser la décision du Ministre selon laquelle la travailleuse exerçait un emploi assurable selon l'alinéa 5(1)a) de la Loi sur l'assurance-emploi (la « Loi » ). L'alinéa 5(1)a) de la Loi se lit comme suit :
+5.(1) Sous réserve du paragraphe (2), est un emploi assurable :
+a) l'emploi exercé au Canada pour un ou plusieurs employeurs, aux termes d'un contrat de louage de services ou d'apprentissage exprès ou tacite, écrit ou verbal, que l'employé reçoive sa rémunération de l'employeur ou d'une autre personne et que la rémunération soit calculée soit au temps ou aux pièces, soit en partie au temps et en partie aux pièces, soit de toute autre manière;
+[...]
+[21] La jurisprudence a établi des critères à suivre dans l'exercice qui consiste à déterminer s'il existe un contrat de louage de services. Celles-ci ont été exprimées dans l'arrêt Wiebe Door Services Ltd. c. M.R.N., [1986] 3 C.F. 553. Dans cet arrêt, la Cour d'appel fédérale a établi les quatre critères suivants :
+1. le contrôle du travail du travailleur par l'employeur;
+2. la propriété des outils;
+3. les chances de profit et les risques de perte;
+4. l'intégration.
+[22] La Cour suprême du Canada reprenait ces mêmes critères dans l'arrêt 671122 Ontario Ltd. c. Sagaz Industries Canada Inc., [2001] 2 R.C.S. 983, où le juge Major s'exprimait en ces termes :
+Bien qu'aucun critère universel ne permette de déterminer si une personne est un employé ou un entrepreneur indépendant, je conviens avec le juge MacGuigan que la démarche suivie par le juge Cooke dans la décision Market Investigations, [...], est convaincante. La question centrale est de savoir si la personne qui a été engagée pour fournir les services les fournit en tant que personne travaillant à son compte. Pour répondre à cette question, il faut toujours prendre en considération le degré de contrôle que l'employeur exerce sur les activités du travailleur. Cependant, il faut aussi se demander, notamment, si le travailleur fournit son propre outillage, s'il engage lui-même ses assistants, quelle est l'étendue de ses risques financiers, jusqu'à quel point il est responsable des mises de fonds et de la gestion et jusqu'à quel point il peut tirer profit de l'exécution de ses tâches.
+[23] Par ailleurs, la Cour d'appel fédérale dans l'arrêt Charbonneau c. Canada (ministre du Revenu national - M.R.N.), [1996] A.C.F. no. 1337, reprenait le même thème dans les termes suivants exprimés par le juge Décary :
+Les critères énoncés par cette Cour dans Wiebe Door Services Ltd. c. M.R.N., [1986] 3 C.F. 553 (C.A.F.), à savoir d'une part le degré de contrôle, la propriété des instruments de travail, les chances de bénéfice et les risques de perte et d'autre part l'intégration, ne sont pas les recettes d'une formule magique. Ce sont des points de repère qu'il sera généralement utiles de considérer, mais pas au point de mettre en péril l'objectif ultime de l'exercice qui est de rechercher la relation globale que les parties entretiennent entre elles. Ce qu'il s'agit, toujours, de déterminer, une fois acquise l'existence d'un véritable contrat, c'est s'il y a, entre les parties, un lien de subordination tel qu'il s'agisse d'un contrat de travail ou s'il n'y a pas, plutôt, un degré d'autonomie tel qu'il s'agisse d'un contrat d'entreprise ou de service [...].
+[24] Dans la cause sous étude, si on examine les faits sous le critère du contrôle, celui-ci n'est pas évident. Cependant, il a été établi que l'horaire avait été fixé par l'appelante et que la travailleuse, bon gré mal gré, s'y était soumise. Si parfois il y avait flexibilité dans l'horaire établi, c'était toujours avec l'assentiment et la permission de l'appelante. La preuve a révélé que la travailleuse était compétente et que depuis 2002 elle détenait le même certificat de compétence que l'appelante. Donc, la surveillance de la travailleuse n'était pas nécessaire. L'appelante a quand même avoué qu'en cas de conflit, si cela se produisait, elle pourrait renvoyer la travailleuse.
+[25] Examiné sous le deuxième critère, celui de la propriété des outils, la preuve a révélé que les activités de l'entreprise se déroulaient dans la résidence de l'appelante qui avait fourni un local destiné à ces activités. Donc, l'appelante fournissait le local, l'ameublement et assumait toutes les dépenses associées à ce local tel qu'indiqué ci-haut, même la couverture d'assurance responsabilité de la travailleuse. Pour sa part, la travailleuse n'avait fourni que deux items, c'est-à-dire une table et quelques jouets.
+[26] Quant aux chances de profit et aux risques de perte, il est clair, selon la preuve, que le service de garde était l'entreprise de l'appelante et que les clients lui appartenaient. La preuve a démontré que si des problèmes survenaient au niveau de la CPE, c'est l'appelante à qui on s'adressait et non pas à la travailleuse. L'appelante avait tout fourni le nécessaire pour l'entreprise, incluant le local, l'ameublement et payait toutes les dépenses associées au bien physique et à l'entreprise incluant les assurances. L'appelante fournissait même la clientèle. Donc la seule personne qui encourait des risques de perte et des chances de profit, c'était l'appelante.
+[27] Examiné sous le critère de l'intégration, les faits ont établi, de façon manifeste, que le travail de la travailleuse était bel et bien intégré dans l'entreprise de l'appelante. Selon les faits, on ne pourrait concevoir que la travailleuse oeuvrait dans sa propre entreprise.
+[28] À l'analyse des faits sous les critères énumérés ci-haut, il est difficile de conclure autrement que par l'affirmation que le travail de la travailleuse répondait à tous les critères qui établissaient qu'elle exerçait un emploi aux termes d'un contrat de louage de services.
+[29] La Cour d'appel fédérale dans l'arrêt Légaré c. Canada (ministre du Revenu national - M.R.N.), [1999] A.C.F. no 878, s'est penché sur le rôle du juge siégeant en appel d'une décision du Ministre. Dans cet arrêt, le juge Marceau s'exprimait en ces termes :
+[...] La Cour n'est pas chargée de faire la détermination au même titre que le ministre et, en ce sens, elle ne saurait substituer purement et simplement son appréciation à celle du ministre : c'est ce qui relève du pouvoir dit discrétionnaire du ministre. Mais la Cour doit vérifier si les faits supposés ou retenus par le ministre sont réels et ont été appréciés correctement en tenant compte du contexte où ils sont survenus, et après cette vérification, elle doit décider si la conclusion dont le ministre était « convaincu » paraît toujours raisonnable.
+[30] Cette Cour reconnaît que l'intention de l'appelante était claire : c'était d'offrir un travail à la travailleuse comme travailleuse autonome. Au départ, la travailleuse voulait oeuvrer comme salariée mais elle s'est conformée aux bons désirs de l'appelante. Quelle est l'importance que cette Cour doit accorder à l'intention des parties? La Cour d'appel fédérale s'est prononcée là-dessus, dans l'arrêt Standing c. Canada (ministre du Revenu national - M.R.N.), [1992] A.C.F. no 890, où le juge Stone s'exprimait en ces termes :
+[...] Peu importe l'appréciation, par la Cour de l'impôt, du critère énoncé dans l'arrêt Wiebe Door, l'essentiel, tout compte fait, c'est que les parties elles-mêmes ont ensuite qualifié leur relation d'employeur-employé. Rien dans la jurisprudence ne permet d'avancer l'existence d'une telle relation du simple fait que les parties ont choisi de la définir ainsi sans égards aux circonstances entourantes appréciées en fonction du critère de l'arrêt Wiebe Door.
+[31] Aux termes de cette analyse, cette Cour est d'avis que la travailleuse exerçait un emploi aux termes d'un contrat de louage de services au sens de l'alinéa 5(1)a) de la Loi et qu'elle occupait donc un emploi assurable pendant la période en litige. Cette Cour doit conclure également que durant les 52 dernières semaines de la période en litige, la travailleuse a travaillé pendant 2 142 heures, soit 252 jours de 8,5 heures. En outre, durant les 27 dernières semaines de la période en litige, la travailleuse a reçu de l'appelante 6 760,00 $, soit 23 semaines de cinq jours à 260,00 $, trois semaines de quatre jours à 210,00 $ et une semaine de trois jours à 150,00 $.
+[32] En conséquence, l'appel est rejeté et la décision rendue par le Ministre est confirmée.
+Signé à Grand-Barachois (Nouveau-Brunswick), ce 16e jour de février 2005.
+« S.J. Savoie »
+Juge suppléant Savoie
+RÉFÉRENCE :
+2005CCI106
+No DU DOSSIER DE LA COUR :
+2004-2504(EI)
+INTITULÉ DE LA CAUSE :
+Louise Landry et M.R.N.
+LIEU DE L'AUDIENCE :
+Montréal (Québec)
+DATE DE L'AUDIENCE :
+Le 17 décembre 2004
+MOTIFS DE JUGEMENT PAR :
+L'honorable S.J. Savoie,
+juge suppléant
+DATE DU JUGEMENT :
+Le 16 février 2005
+COMPARUTIONS :
+Pour l'appelante :
+L'appelante elle-même
+Pour l'intimé :
+Me Antonia Paraherakis
+AVOCAT(E) INSCRIT(E) AU DOSSIER:
+Pour l'appelante :
+Nom :
+Étude :
+Pour l'intimé :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

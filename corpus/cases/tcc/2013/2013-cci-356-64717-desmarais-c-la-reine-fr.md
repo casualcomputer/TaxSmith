@@ -1,0 +1,233 @@
+---
+title: "Desmarais c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/64717/index.do"
+last_modified: "2013-11-07"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2013 CCI 356"
+citation2: ""
+neutral_citation: "2013 CCI 356"
+decision_date: "2013-11-07"
+language: "fr"
+item_id: "64717"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5900
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T14:56:55.316000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "9e912abf72d31590b1c26fe1fe27ec0164f96fe3b4e394d5f04c4b2b9948c7d8"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Desmarais c. La Reine
+
+- Citation: 2013 CCI 356
+- Decision date: 2013-11-07
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5900, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Desmarais c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2013-11-07
+Référence neutre
+2013 CCI 356
+Numéro de dossier
+2012-2689(IT)I
+Juges et Officiers taxateurs
+Réal Favreau
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2012-2689(IT)I
+ENTRE :
+JEAN-PIERRE DESMARAIS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appels entendus le 21 août 2013, à Montréal (Québec)
+Devant : L'honorable juge Réal Favreau
+Comparutions :
+Avocate de l'appelant :
+Me Eva Derhy
+Avocat de l'intimée :
+Me Gabriel Girouard
+____________________________________________________________________
+JUGEMENT
+Les appels à l’encontre des nouvelles cotisations établies en date du 23 juin 2010 par le ministre du Revenu national en vertu de la Loi de l’impôt sur le revenu concernant les années d’imposition 2003 et 2004 de l’appelant sont accueillis et les nouvelles cotisations sont invalidées selon les motifs du jugement ci-joint.
+Signé à Ottawa, Canada, ce 7e jour de novembre 2013.
+« Réal Favreau »
+Juge Favreau
+Référence : 2013 CCI 356
+Date : 20131107
+Dossier : 2012-2689(IT)I
+ENTRE :
+JEAN-PIERRE DESMARAIS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Favreau
+[1] Il s’agit d’appels, par la voie de la procédure informelle, à l’encontre de nouvelles cotisations établies en date du 23 juin 2010 par le ministre du Revenu national (le « ministre ») en vertu de la Loi de l’impôt sur le revenu, L.R.C. (1985), ch. 1 (5e suppl.) telle que modifiée (la « Loi »), concernant les années d’imposition 2003 et 2004 de l’appelant.
+[2] Par ces deux nouvelles cotisations, le ministre a imposé pour chacune des années d’imposition 2003 et 2004, une pénalité de 2 500 $, en vertu du paragraphe 162(7) de la Loi, pour défaut de produire le formulaire T1134-A dans le délai prévu au paragraphe 233.4(4) de la Loi.
+[3] Le formulaire T1134-A est une déclaration annuelle de renseignements sur les sociétés étrangères affiliées qui ne sont pas des sociétés étrangères affiliées contrôlées du contribuable. L’obligation de produire le formulaire T1134-A est imposée par le paragraphe 233.4(4) de la Loi, qui a été introduit dans la Loi en 1997 mais applicable à compter des années d’imposition débutant après 1995. Un tel formulaire doit être présenté au ministre à l’égard de chacune des sociétés étrangères affiliées qui, à un moment quelconque au cours d’une année d’imposition ou d’un exercice financier, a été une société étrangère affiliée non contrôlée du contribuable. Ledit formulaire doit être présenté par un contribuable tenu de le produire dans les 15 mois suivant la fin de l’année d’imposition ou de l’exercice financier, selon le cas.
+[4] En établissant les nouvelles cotisations en litige, le ministre a tenu pour acquis les hypothèses de fait suivantes, énoncées au paragraphe 21 de la Réponse modifiée à l’avis d’appel :
+a) Le 6 mai 1997, la société OREX A.G. a été constituée au Liechtenstein.
+b) Le 10 février 2004, OREX A.G. a été prorogée en vertu de la Loi canadienne sur les sociétés par actions sous la dénomination sociale d’« OREX Mines d’Or Ltée » (OREX).
+c) Avant sa prorogation au Canada, OREX était une société non-résidente du Canada.
+d) À une date quelconque avant le 6 décembre 2003, l’appelant a acquis 256 actions du capital-actions d’OREX d’Omar Fakieh.
+e) L’appelant détenait toujours ces dernières actions au moment où OREX a été prorogée en vertu de la Loi canadienne sur les sociétés par actions.
+f) Avant sa prorogation, le capital-actions d’OREX était réparti de la façon suivante :
+Actionnaire (sic)
+Nombre actions (sic) ordinaires
+Greymount Associates Ltd.
+256
+Alexandre Kovalev
+256
+Jean-Pierre Desmarais
+256
+Alexei Barbariush
+112
+Total
+880
+g) En conséquence et suite à la prorogation d’OREX en vertu de la Loi canadienne sur les sociétés par actions, le capital-actions d’OREX a été converti de la façon suivante :
+Actionnaire (sic)
+Nombre actions (sic) ordinaires
+Greymount Associates Ltd.
+20 000
+Alexandre Kovalev
+20 000
+Jean-Pierre Desmarais
+20 000
+Alexei Barbariush
+8 775
+Total
+68 775
+h) L’actif principal d’OREX au moment de sa prorogation au Canada consistait en une participation de 68 778 000 actions de catégorie B du capital-actions de la société Amour International Mines d’Or Limitée (AIMO).
+i) La juste valeur marchande de ces 68 778 000 actions, à ce moment, était de 2 090 000 $.
+j) Ces actions détenues par OREX représentaient, à ce moment, 43,33% des actions votantes et participantes du capital-actions d’AIMO.
+k) À ce moment, AIMO détenait 429 actions ordinaires du capital-actions de la société privée Okhotsk Mining and Geological Company (OMGC).
+l) La juste valeur marchande de ces 429 actions était, à ce moment, de 8 689 000 $.
+m) Lesdites actions détenues par AIMO représentaient, à ce moment, 20 % des actions ordinaires du capital-actions d’OMGC.
+n) Les autres actions (1 716 actions) ordinaires du capital-actions d’OMGC étaient détenues par la société ISPA Polymetal.
+o) Au cours du mois de février 2004, ISPA Polymetal a vendu 538 actions ordinaires du capital-actions d’OMGC à une tierce partie pour 5 000 000 $ US.
+p) Au cours du mois d’avril 2004, OMGC a émis 20 592 nouvelles actions pour une somme de 33 420 000 $ US.
+q) OMGC est une société constituée en vertu des lois sur les sociétés de la Fédération de Russie.
+r) OMGC détenait la licence d’exploitation des mines d’or et d’argent Khanjakan et Yousken situées en Russie.
+s) Dans le cadre d’une opposition relativement à une autre cotisation datée du 21 mai 2010 pour l’année d’imposition 2004, l’appelant a représenté à l’Agence du revenu du Canada que la juste valeur marchande d’OREX, au moment de sa prorogation au Canada, était de 1 856 925 $.
+t) Antérieurement, l’appelant avait fait des représentations à l’Agence du revenu du Canada à l’effet que la juste valeur marchande d’OREX, au moment de sa prorogation, était de 2 375 000 $.
+u) Dans le cadre d’un règlement survenu dans le cadre de cette dernière opposition, l’appelant et l’Agence du revenu du Canada ont convenu que la juste valeur marchande d’OREX, au moment de sa prorogation, était de 1 856 925 $.
+[5] Dans la Réponse modifiée à l’avis d’appel, l’intimée a admis les faits suivants :
+a) le coût d’acquisition des 256 actions d’OREX A.G. que
+l’appelant a achetées d’Omar Fakieh, le ou vers le 3 décembre 2003,
+était de 200 000 $ US payable à l’aide d’un billet payable à demande;
+b) préalablement à la prorogation au Canada d’OREX A.G., le
+solde des actions de la société Amour International Mines d’Or Ltée (« AIMO ») détenues par OREX A.G. était de 68 775 000
+actions de catégorie « NB »;
+c) au moment de la prorogation au Canada d’OREX A.G.,
+l’appelant détenait alors 256 actions d’OREX A.G., soit environ 29%
+des actions émises et en circulation de cette société;
+d) au moment de la prorogation au Canada d’OREX A.G.,
+survenue le 10 février 2004, les 880 actions ordinaires restantes
+d’OREX A.G. ont été fractionnées et représentaient dès lors 68 775
+actions de catégorie « A ». Le seul élément d’actif détenu
+par la société OREX Mines d’Or Ltée (« OREX ») à ce moment était
+le placement dans la société AIMO soit 68 775 000 actions de
+catégorie « NB ».
+[6] Monsieur Jean-Pierre Desmarais, qui est un avocat senior de la firme Boscher Derhy Desmarais Godwin, a témoigné à l’audience pour expliquer qu’il n’avait pas à produire le formulaire T1134-A pour les années d’imposition 2003 et 2004 parce que, pendant cette période, OREX A.G. était une société étrangère affiliée qui était inactive au sens donné par la Loi et le formulaire T1134-A.
+[7] Lors du témoignage de Me Desmarais, les documents suivants furent déposés à la Cour :
+-la décision du ministre rejetant l’opposition de l’appelant (Pièce A-1);
+-l’avis de nouvelle cotisation émis à l’appelant pour l’année 2003 (Pièce A-2);
+-l’avis de nouvelle cotisation émis à l’appelant pour l’année 2004 (Pièce A-3);
+-l’opposition aux avis de nouvelles cotisations pour les années 2003 et 2004 (Pièce A-4);
+-la reconnaissance de dette de l’appelant envers Omar Fakieh datée du 3 décembre 2003 (Pièce A-5);
+-les états financiers de la société OREX A.G. pour l’année financière se terminant le 31 décembre 2002, datés du 29 octobre 2003 (Pièce A‑6);
+-les taux de change du dollar américain par rapport au dollar canadien en vigueur le 3 décembre 2003 et le 10 février 2004 (Pièce A-7);
+-un organigramme présentant l’actionnariat d’OREX A.G. en date du 3 décembre 2003 (Pièce A-8) lequel est reproduit en annexe du présent jugement;
+-les états financiers (bilan et notes seulement) de la société OREX pour l’année financière se terminant le 31 décembre 2004, datés du 30 mars 2007 (Pièce A-9);
+-les états financiers non consolidés d’AIMO pour l’année financière se terminant le 31 décembre 2004, datés du 11 juillet 2005 (Pièce A-10).
+[8] L’appelant est un résident du Canada qui a constitué en société, le 9 décembre 1994 la société AIMO en vertu de la Partie IA de la Loi sur les compagnies du Québec. La société OREX A.G. a été constituée en société au Liechtenstein le 6 mai 1997.
+[9] En décembre 2003, OREX A.G. détenait 49.33% des actions du capital‑actions de la société AIMO qui elle-même détenait une participation de 20% dans le capital-actions de la société russe, Okhotsk Mining and Geological Company (« Okhotsk »). L’autre 80% du capital-actions de la société Okhotsk était détenu par une autre société russe, ISPA Polymetal. (« ISPA »)
+[10] Lors de son témoignage, l’appelant a indiqué que la société Okhotsk avait été formée en 1993 afin de permettre le transfert à cette société de trois licences d’exploitation minière et d’une licence d’exploitation d’une mine d’or en Russie. Ces transferts de licences ont été effectués en contrepartie d’actions de la société Okhotsk, lesquelles étaient détenues par la société AIMO dans le but d’effectuer un appel public à l’épargne au Canada. Le placement dans la société Okhotsk était, en 2003 et 2004, le seul actif important de la société AIMO.
+[11] Lors de son témoignage, l’appelant a affirmé que, lorsqu’il a fait l’acquisition en décembre 2003 des actions de la société OREX A.G., il savait que l’actif de ladite société n’avait aucune valeur.
+[12] Lors de la prorogation au Canada de la société OREX A.G., l’appelant était secrétaire et administrateur de cette société. Selon l’appelant, l’actif de la société OREX A.G., à la date de la prorogation, n’avait aucune valeur et, que c’est la raison pour laquelle, il n’a pas fait préparer d’états financiers à cette date, ni n’a mandaté une firme d’évaluation pour obtenir un rapport d’évaluation de la valeur des actions de la société OREX A.G. à cette date. Pour appuyer sa position à l’effet que les actions de la société OREX A.G. n’avaient aucune valeur, en décembre 2003 et en janvier 2004, l’appelant a produit les états financiers de la société OREX A.G. pour l’année financière se terminant le 31 décembre 2002 lesquels montrent que le placement dans la société AIMO est inscrit aux livres comme ayant une valeur de seulement un franc suisse.
+[13] L’appelant a également indiqué que la société ISPA a, au cours du mois de février 2004, procédé à la vente de 538 actions ordinaires de la société AIMO à une tierce-partie pour une contrepartie de 5 000 000 $ US et à, au cours du mois d’avril 2004, procédé à des émissions d’actions de son capital-actions dans le but de faire augmenter la valeur des actions et de diluer la participation de la société AIMO qui est alors passée de 20% à 1.9%. Selon l’appelant, cette vente d’actions et ces émissions d’actions auraient été effectuées auprès de parties liées ou de parties ayant un lien de dépendance avec la société ISPA et/ou avec des actionnaires de cette dernière société. Les états financiers de la société AIMO pour l’année financière se terminant le 31 décembre 2004 indiquent que (a) cette société a été constituée en société le 9 décembre 1994 en vertu de la Partie IA de la Loi sur les compagnies du Québec, (b) le déficit accumulé de la société était de 19 370 002 $ au 31 décembre 2004 et de 18 572 440 $ au 31 décembre 2003, (c) la participation de la société dans la société Okhotsk consistait en 429 actions ordinaires représentant 1.90% des actions votantes et participantes, (d) la valeur aux livres de ce placement était de 3 869 $, soit la même valeur que pour l’année financière se terminant le 31 décembre 2003 et (e) le capital‑actions émis consistait en 158 691 061 actions de catégorie « B » ayant un capital versé de 6 551 816 $.
+[14] L’appelant a révélé que la société AIMO a, le 30 juin 2006, vendu la totalité de ses actions dans la société Okhotsk pour 7 500 000 $ US, payé comptant. Avant la fin de l’année financière se terminant le 31 décembre 2006, la société AIMO a été dissoute et elle a distribué à ses actionnaires 1 800 000 $. En date du 30 juin 2007, la société OREX a également été dissoute.
+[15] Les états financiers (bilan et notes seulement) de la société OREX pour l’année financière se terminant le 31 décembre 2004, datés du 30 mars 2007 montrent un placement de 68 775 000 actions de catégorie « NB » de la société AIMO ayant une valeur de 2 375 000 $ (à la juste valeur au moment de la prorogation) et un capital-actions émis et payé de 68 775 actions de catégorie « A » ayant un capital versé de 1 392 600 $.
+[16] En contre-interrogatoire, l’appelant a confirmé que le paiement du billet ou de la reconnaissance de dette de 200 000 $ US remis à Omar Fakieh pour l’acquisition des actions de la société OREX A.G. n’a jamais été effectué par ce dernier.
+[17] Monsieur Ante Kumanovic, CGA, LL.M. Fisc. directeur-fiscaliste chez Rochon Legault CA, a témoigné à l’audience et il a expliqué que le bilan de la société OREX au 31 décembre 2004 a été préparé par la firme Rochon Legault le 30 mars 2007, soit près de trois ans après les ventes d’actions de la société Okhotsk. Il a de plus confirmé qu’il a préparé la note de service adressée à l’Agence du revenu du Canada datée du 9 mai 2008, laquelle résumait les conséquences fiscales découlant de la prorogation de la société OREX A.G., de la dissolution de la société AIMO et de la dissolution de la société OREX (Pièce I-1).
+[18] M. Kumanovic a également fourni des explications concernant les états financiers de la société OREX A.G. au 31 décembre 2002 (Pièce A-6). Il a notamment indiqué que le placement dans la société AIMO était inscrit au bilan à une somme de un franc suisse, que ce placement représentait 39,43% des actions émises et en cours, que le capital versé desdites actions était de 6 551 816 $ et, finalement, que le déficit accumulé de ladite société était de 17 969 774 $.
+[19] Le témoin a également confirmé ne pas avoir été consulté par l’appelant quant à la production des formulaires T1134-A pour les années d’imposition 2003 et 2004.
+[20] Madame Bic Thu Tran Thi, EEE, une spécialiste en évaluation oeuvrant au sein de l’Agence du revenu du Canada, a témoigné à l’audience à titre d’expert en évaluation. Son statut d’expert n’a pas été contesté par l’appelant et l’exposé contenu dans le rapport d’expertise daté du 8 août 2013 représente la déposition de ce témoin. Le mandat qui lui a été confié était de fournir un indice quant à la juste valeur marchande des 68 775 000 actions de catégorie « B » de la société AIMO détenues par la société OREX en date du 10 février 2004, soit à la date de prorogation de la société OREX A.G. L’évaluation a été réalisée en juillet 2009, soit plusieurs années après les années 2003 et 2004, et elle ne représente pas une opinion formelle quant à la juste valeur marchande des actions. L’évaluatrice n’a pas contacté la société ISPA et elle n’a pas visité les mines en exploitation. Elle s’est surtout basée sur les informations contenues dans le rapport annuel de la société ISPA de 2004 lequel renfermait les états financiers consolidés et le rapport des vérificateurs externes pour les années se terminant les 31 décembre 2003 et 2004.
+[21] L’évaluatrice a utilisé la méthode basée sur la valeur corrigée de l’actif net pour déterminer la juste valeur marchande des 68 777 500 actions de catégorie « B » de la société AIMO et des 880 actions de la société OREX. Selon l’évaluatrice, la juste valeur marchande des actions de chacune des deux sociétés de placement était estimée à 2 500 000 $. Pour les actions de la société Okhotsk, l’évaluatrice a utilisé la méthode du flux monétaire actualisé afin de déterminer leur juste valeur marchande. D’après les calculs de l’évaluatrice fondés sur un certain nombre d’hypothèses, la juste valeur marchande du placement de 20% des actions de ladite société était de 8 300 000 $ au 10 février 2004.
+[22] En se basant sur la transaction effectuée par la société Okhotsk, en avril 2004, la valeur du placement de 20% des actions de cette société détenues par la société AIMO a été estimée à 8 689 000 $ (en se basant sur un taux de change de 1,3 du dollar américain par rapport au dollar canadien.) La transaction en question est celle par laquelle la société Okhotsk a émis 20 592 nouvelles actions ordinaires de son capital-actions pour un prix totalisant 33 420 000 $ US. ISPA a souscrit à 14 136 actions pour une somme de 22 942 000 $ US et les autres actionnaires ont souscrit à 6 456 actions pour une somme de 10 478 000 $ US. La société AIMO n’a pas participé à cette nouvelle émission d’actions, ce qui a eu pour effet de diminuer sa participation de 20% à 1.89%.
+Analyse
+[23] L’obligation de produire le formulaire T1134-A découle de l’application du paragraphe 233.4(4) de la Loi qui se lit comme suit :
+233.4(4) Déclarations concernant les sociétés étrangères affiliées. Un déclarant pour une année d’imposition ou un exercice est tenu de présenter au ministre pour l’année ou l’exercice, dans les quinze mois suivant sa fin, une déclaration sur le formulaire prescrit relativement à chacune de ses sociétés étrangères affiliées au cours de l’année ou de l’exercice.
+[24] Le terme « déclarant » aux fins de l’article 233.4 de la Loi est défini au paragraphe 233.4(1) de la Loi de la façon suivante :
+233.4(1) Pour l’application du présent article, est un déclarant pour une année d’imposition ou un exercice :
+a) le contribuable qui réside au Canada (sauf celui dont la totalité du revenu imposable pour l’année est exonéré de l’impôt prévu à la partie I) et relativement auquel une société non-résidente est une société étrangère affiliée au cours de l’année;
+[. . .]
+[25] Lors de l’audience il a été admis que l’appelant résidait au Canada au cours des années d’imposition 2003 et 2004 et que la société OREX A.G. était à un moment quelconque au cours de chacune des années d’imposition 2003 et 2004, une société non-résidente qui était une société étrangère affiliée au sens du paragraphe 95(1) de la Loi, de l’appelant. Par conséquent, l’appelant était, en principe, tenu de produire un formulaire T1134-A pour chacune des années d’imposition 2003 et 2004. La date limite de production dudit formulaire était le 31 mars 2005 pour l’année d’imposition 2003 et le 31 mars 2006 pour l’année d’imposition 2004.
+[26] L’appelant n’a pas produit les formulaires T1134-A parce que, suivant les instructions du formulaire, il n’avait pas à le faire du fait que la société OREX A.G. était une société étrangère affiliée « inactive » aux fins dudit formulaire, soit une société :
+a. qui avait des recettes brutes (y compris le produit tiré de la disposition de biens) inférieures à 25 000 $ dans l’année; et
+b. qui, à aucun moment de l’année, ne possédait des biens dont la juste valeur marchande dépassait 1 000 000 $.
+[27] La question à déterminer est donc de savoir si la juste valeur marchande des biens de la société OREX A.G. dépassait, à un moment quelconque entre le 3 décembre 2003 et le 10 février 2004, 1 000 000 $.
+[28] Les nouvelles cotisations faisant l’objet du présent litige ont été émises en date du 23 juin 2010 en vertu du paragraphe 162(7) de la Loi dont le texte est le suivant :
+162(7) Inobservation d’un règlement. Toute personne (sauf un organisme de bienfaisance enregistré) ou société de personnes qui ne remplit pas une déclaration de renseignements selon les modalités et dans le délai prévus par la présente loi ou le Règlement de l’impôt sur le revenu ou qui ne se conforme pas à une obligation imposée par la présente loi ou ce règlement est passible, pour chaque défaut – sauf si une autre disposition de la présente loi (sauf les paragraphes (10) et (10.1) et 163(2.22)) prévoit une pénalité pour le défaut – d’une pénalité égale, sans être inférieure à 100 $, au produit de la multiplication de 25 $ par le nombre de jours, jusqu’à concurrence de 100, où le défaut persiste.
+[29] Les nouvelles cotisations ayant été émises hors la période normale de nouvelle cotisation, il appartient à l’intimée de prouver que l’appelant a fait une présentation erronée des faits par négligence, inattention ou omission volontaire en ne produisant pas les formulaires T1134-A.
+[30] Selon l’appelant, la valeur des actions d’OREX A.G. a été déterminée lors de la dissolution de la société AIMO survenue le 30 juin 2007, soit bien après les périodes de déclaration du formulaire T1134-A pour les années 2003 et 2004. L’appelant a allégué qu’il avait agi de bonne foi et qu’il n’y a pas eu négligence ou omission volontaire de sa part. Il a adopté une position réfléchie et raisonnable au cours des périodes de déclaration et ce, même s’il a admis par la suite que les actions de la société AIMO détenues par la société OREX avaient une valeur supérieure à 1 000 000 $.
+[31] Selon l’intimée, l’allègement prévu au formulaire T1134-A est un allègement administratif seulement et l’appelant avait le fardeau de s’assurer que la valeur des actions de la société AIMO était inférieure à 1 000 000 $. L’appelant n’a fait aucun effort pour tenter de déterminer la valeur des actions et il ne s’est fié qu’à sa connaissance générale que ces actions n’avaient aucune valeur même s’il les a acquises pour une considération de 200 000 $ US. Il n’a pas fait préparer dans les délais prescrits d’états financiers de la société OREX A.G. et de la société OREX pour les années d’imposition 2003 et 2004. Il n’a pas fait préparer les déclarations de revenus de la société OREX A.G. pour les années d’imposition 2003 et 2004 et il n’a pas consulté son comptable quant à son obligation de produire les formulaires T1134-A. L’intimée a allégué que l’appelant n’a pas fait preuve de diligence raisonnable puisqu’il aurait pu produire les formulaires T1134-A en 2007 dans le cadre du Programme de divulgations volontaires. Pour l’intimée la bonne foi n’est pas suffisante et des gestes concrets pour déterminer la juste valeur marchande des actions de la société AIMO étaient requis de la part de l’appelant.
+[32] À la lumière des faits mis en preuve, il m’apparaît être évident que l’appelant avait une connaissance approfondie des opérations des sociétés OREX A.G. et OREX, de la société AIMO et de la société privée Okhotsk, cette dernière ayant été constituée pour détenir les licences d’exploitation de deux mines d’or et d’argent situées en Russie. Il s’est occupé de la prorogation de la société OREX A.G. au Canada. Il était informé des transactions de financement (émissions et ventes d’actions) effectuées en 2004 par la société Okhotsk et par ses actionnaires. Il a vu les états financiers de la société AIMO pour l’année terminée le 31 décembre 2004 avec les chiffres comparatifs de l’année 2003, qui ont été préparés par les vérificateurs externes en date du 11 juillet 2005.
+[33] L’appelant a fait l’acquisition des actions de la société OREX A.G. dans des circonstances très particulières. Le prix d’acquisition des 256 actions de la société OREX A.G. a été fixé à 200 000 $ US. Le prix d’acquisition des actions n’a pas été payé lors de l’acquisition mais a plutôt fait l’objet d’une reconnaissance de dette de l’ordre de 200 000 $ US dont le paiement ne devenait exigible que dans les dix jours suivant la réception par l’appelant des fonds correspondant au produit de la vente des titres de la société AIMO détenus par la société OREX A.G. et la distribution de ce produit de vente aux actionnaires de la société OREX A.G. dont faisait partie l’appelant.
+[34] Les modalités de la transaction ci-dessus décrite tendent à démontrer que la valeur des actions de la société OREX A.G. et de son placement dans la société AIMO était très incertaine. Le prix d’acquisition des actions de la société OREX A.G. n’était payable qu’à même le produit de disposition de son placement dans la société AIMO. Ces actions avaient sûrement une certaine valeur lors de leur acquisition et il y avait probablement une possibilité que la valeur desdites actions augmente dans les années futures pour que l’appelant juge bon d’en faire l’acquisition. L’appelant n’a pas assumé de risque financier lors de l’acquisition des actions de la société OREX A.G.
+[35] La transaction réalisée en avril 2004 par laquelle la société Okhotsk a émis 20 592 nouvelles actions à certains de ses actionnaires pour une contrepartie totale de 33 420 000 $ US a permis le financement de ses opérations futures. La société AIMO n’a pas participé à ce financement et sa participation dans la société Okhotsk a été fortement diluée. Même si l’appelant avait voulu à ce moment faire évaluer la valeur de cette participation très minoritaire dans une société privée russe, la tâche aurait été très ardue et le résultat aurait sans aucun doute été très peu fiable.
+[36] La valeur marchande du placement de la société AIMO dans la société Okhotsk n’a vraiment été déterminée que lors du rachat, au mois d’août 2006, des 429 actions pour 7 500 000 $ US et ce n’est, qu’à compter de ce moment, qu’il est devenu possible d’établir avec un certain degré de certitude la juste valeur marchande du placement de la société OREX dans la société AIMO.
+[37] Dans les circonstances, je suis d’avis que l’appelant a fait une analyse réfléchie, prudente et délibérée de la valeur du placement de la société OREX et qu’il n’a pas fait de présentation erronée des faits par négligence ou omission volontaire en ne produisant pas les formulaires T1134-A pour les années d’imposition 2003 et 2004. Je ne crois pas que l’interprétation des faits adoptée par l’appelant puisse être qualifiée de déraisonnable dans les circonstances.
+[38] Pour ces raisons, les appels sont accueillis et les nouvelles cotisations sont invalidées.
+Signé à Ottawa, Canada, ce 7e jour de novembre 2013.
+« Réal Favreau »
+Juge Favreau
+RÉFÉRENCE : 2013 CCI 356
+Nº DU DOSSIER DE LA COUR : 2012-2689(IT)I
+INTITULÉ DE LA CAUSE : JEAN-PIERRE DESMARAIS ET SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATE DE L’AUDIENCE : le 21 août 2013
+MOTIFS DU JUGEMENT PAR : L'honorable juge Réal Favreau
+DATE DU JUGEMENT : le 7 novembre 2013
+COMPARUTIONS :
+Avocate de l'appelant :
+Me Eva Derky
+Avocat de l'intimée :
+Me Gabriel Girouard
+AVOCATE INSCRITE AU DOSSIER :
+Pour l'appelant:
+Nom : Me Eva Derky
+Cabinet : Boscher Derhy Desmarais Godwin
+Montréal (Québec)
+Pour l’intimée : William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada

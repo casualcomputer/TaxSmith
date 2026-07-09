@@ -1,0 +1,229 @@
+Title: Hexalog Ltée c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/24494/index.do
+Corpus path: corpus/cases/tcc/2005/2005-cci-67-24494-hexalog-lt-e-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2005-01-19
+
+# Hexalog Ltée c. La Reine
+
+- Citation: 2005 CCI 67
+- Decision date: 2005-01-19
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2177, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Hexalog Ltée c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-01-19
+Référence neutre
+2005 CCI 67
+Numéro de dossier
+2000-4822(IT)G
+Juges et Officiers taxateurs
+Pierre R. Dussault
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2000-4822(IT)G
+ENTRE :
+HEXALOG LTÉE,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appels entendus les 11 et 12 février et le 2 novembre 2004 à Montréal (Québec).
+Devant : L'honorable juge Pierre R. Dussault
+Comparutions :
+Avocat de l'appelante :
+Me François Daigle
+Avocate de l'intimée :
+Me Marie Bélanger
+____________________________________________________________________
+JUGEMENT
+Les appels des cotisations établies en vertu de la Loi de l'impôt sur le revenu pour les années d'imposition 1995, 1996, 1997 et 1998 sont rejetés, avec dépens en faveur de l'intimée, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 19e jour de janvier 2005.
+« P. R. Dussault »
+Juge Dussault
+Référence : 2005CCI67
+Date : 20050119
+Dossier : 2000-4822(IT)G
+ENTRE :
+HEXALOG LTÉE,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Dussault
+[1] Il s'agit d'appels de cotisations établies pour les années 1995, 1996, 1997 et 1998 en vertu du paragraphe 227(10) de la Loi de l'impôt sur le revenu ( « Loi » ) relativement à la pénalité prévue au paragraphe 237.1(7.4) de la Loi. L'appelante s'est vu imposer cette pénalité pour avoir contrevenu aux dispositions du paragraphe 237.1(4) de la Loi, c'est-à-dire pour avoir vendu un « abri fiscal » sans avoir au préalable obtenu du ministre du Revenu national (le « ministre » ) un numéro d'inscription de cet « abri fiscal » .
+[2] En établissant les cotisations, le ministre a tenu pour acquis les faits énumérés aux alinéas a) à l) du paragraphe 5 de la Réponse à l'avis d'appel, qui se lisent comme suit :
+a) L'appelante est une société privée sous contrôle canadien;
+b) L'appelante fait la promotion d'un investissement dans une ferme ou plantation de bois de teck au Costa Rica à titre de mandataire pour Maya Forestales S.A. (ci-après nommé [sic], « la compagnie » );
+c) Selon la déclaration ou l'annonce (ci-après nommée, « la Déclaration » ) faite par la compagnie, l'investisseur acquière [sic] un lot de boisé à reforester au Costa Rica et les droits de plantation sur ce lot pour un montant de 100 $;
+d) Selon la Déclaration, l'investisseur donne un mandat à la compagnie pour faire l'aménagement du lot, herbiciser, fertiliser, préparer les plantules, les planter sur le lot, etc. et lui paie des frais d'aménagement et des honoraires au montant de 9 900 $;
+e) Selon la Déclaration, le montant de 9 900 $ mentionné au sous-paragraphe d) est déductible dans l'année où les dépenses mentionnées au sous-paragraphe d) sont exécutées;
+f) Selon la Déclaration, la compagnie émet une offre de rachat dont la valeur minimum (70%) de la dépense est accompagnée par une lettre de garantie bancaire;
+g) Le montant nécessaire à l'exécution de la garantie est déposé dans un compte en fidéicommis au nom de l'investisseur dans une institution financière canadienne;
+h) Pour les années 1995 et 1996 selon la Déclaration, l'acquisition d'une part dans la plantation de teck donnerait droit à une déduction la première année de l'achat égale à 99% du coût d'une part dans la plantation de teck, ce qui est supérieur au coût d'une part (100%) moins l'offre de rachat de 70% d'une part et par conséquent, une part dans la plantation de teck représente un abri fiscal;
+i) Aucune demande visant à obtenir un numéro d'enregistrement concernant l'abri fiscal tel que décrit au sous-paragraphe h), n'a été produite auprès du ministre pour toutes les années en litige.
+j) Les montants des ventes d'abris fiscaux sont les suivants :
+1995 :
+1996 :
+1997 :
+1998 :
+30 000 $
+192 000 $
+40 000 $
+30 000 $
+k) Selon la Déclaration, pour les années 1995 et 1996 dans le cas d'un investissement de 10 000 $, le montant déductible dans les quatre premières années, serait de 9 900 $, montant qui serait supérieur à l'excédent du coût de 10 000 $ moins la garantie de 7 000 $.
+9 900 $ > 10 000 $ - (70% de 10 000 $) = 3 000 $
+9 900 $ > 3 000 $
+l) Pour les années 1997 et 1998 l'investisseur a droit à un montant supplémentaire de 2% les années suivantes de l'achat de sorte que le total des déductions dans les quatre années suivant l'acquisition du produit serait de 99% + 2% pendant 3 ans, soit 105%. Ce total étant supérieur à l'excédent du coût de 106% représentant (100% + 2% de frais annuels pendant 3 ans) - le compte à payer à Maya Forestales (6%).
+105% > 100%
+[3] Au début de l'audience, l'avocat de l'appelante a affirmé que la seule question en litige était de savoir si l'appelante avait ou non vendu un « abri fiscal » au sens de la définition contenue dans le paragraphe 237.1(1) de la Loi et au sens du paragraphe 231(6) du Règlement de l'impôt sur le revenu ( « Règlement » ).
+[4] Toutefois, lors de la présentation de ses arguments, il a fait valoir que les années 1995 et 1996 étaient prescrites et qu'il appartenait à l'intimée de prouver que l'appelante avait fait une présentation erronée des faits et de démontrer que la pénalité était applicable au montant total des ventes de l'appelante et non seulement à la partie correspondant au prix de vente du lot.
+[5] Sur ces questions additionnelles relatives à la prescription et au fardeau de la preuve concernant les pénalités, l'avocat de l'appelante s'est référé plus particulièrement aux décisions dans les affaires Bigayan c. Canada, [1999] A.C.I. no 778 (Q.L.), [2000] 1 C.T.C. 2229, 2000 DTC 1619, et Hans c. Canada, [2003] A.C.I. no 464 (Q.L.), [2004] 1 C.T.C. 2078, 2003 DTC 1065. Or, ces décisions portent essentiellement sur des cotisations d'impôt sur le revenu établies après l'expiration de la période normale de nouvelle cotisation en vertu du sous-alinéa 152(4)a)(i) de la Loi; il est reconnu que dans des cas pareils le ministre a la charge d'établir les faits qui lui permettent de procéder à la cotisation après l'expiration de cette période, c'est-à-dire de démontrer que le contribuable a fait une présentation erronée des faits par négligence, inattention ou omission volontaire ou à commis quelque fraude en produisant une déclaration ou en fournissant quelque renseignement sous le régime de la Loi. Ces décisions portent également sur la pénalité qui, dans le cas d'omissions ou de faux énoncés faits sciemment ou dans des circonstances équivalant à faute lourde, est imposée en vertu du paragraphe 163(2) de la Loi, pénalité à l'égard de laquelle le paragraphe 163(3) énonce de façon expresse que le ministre a la charge d'établir les faits qui en justifient l'imposition.
+[6] Or, les cotisations qui font l'objet du présent litige ne sont pas des cotisations ordinaires d'impôt sur le revenu pouvant comprendre la pénalité prévue au paragraphe 163(2) de la Loi; elles sont d'un autre ordre. D'abord, ces cotisations ont été établies en vertu du paragraphe 227(10) de la Loi et non en vertu du sous-alinéa 152(4)a)(i). C'est l'alinéa 227(10)b) qui autorise expressément l'établissement d'une cotisation pour le montant de la pénalité prévue au paragraphe 237.1(7.4) de la Loi relativement à un « abri fiscal » , et pareille cotisation peut être établie en tout temps. En effet, l'alinéa 227(10)b) se lit comme suit :
+227(10)
+(10) Cotisation. Le ministre peut, en tout temps, établir une cotisation pour les montants suivants :
+a) [...]
+b) un montant payable par une personne ou une société de personnes en vertu du paragraphe 237.1(7.4);
+c) [...]
+d) [...]
+[...]
+[7] De plus, cette pénalité prévue au paragraphe 237.1(7.4) est très différente de celle prévue au paragraphe 163(2) de la Loi. Il est vrai qu'elle peut être imposée lorsqu'une personne fournit des renseignements faux ou trompeurs au ministre dans une demande d'attribution d'un numéro d'inscription pour un « abri fiscal » , mais elle peut l'être également, comme c'est le cas dans la présente affaire, lorsqu'une personne contrevient au paragraphe 237.1(4) de la Loi. Cette disposition interdit à quiconque de vendre ou d'émettre un « abri fiscal » ou d'accepter une contrepartie relativement à un « abri fiscal » avant que le ministre n'ait attribué à cet « abri fiscal » un numéro d'inscription. En somme, les cotisations concernant la pénalité prévue au paragraphe 237.1(7.4) n'ont rien à voir avec une cotisation d'impôt sur le revenu établie après la période normale de nouvelle cotisation en vertu du sous-alinéa 152(4)a)(i) ni avec la pénalité prévue au paragraphe 163(2) de la Loi. Il ne peut donc être question de prescription ou de renversement du fardeau initial de la preuve qui repose sur l'appelante.
+[8] Ces mises au point étant faites, je traiterai du cas précis de l'application de la pénalité prévue au paragraphe 237.1(7.4) aux montants en cause après avoir traité de la définition même d' « abri fiscal » et de son application aux faits de la présente affaire.
+[9] C'est au paragraphe 237.1(1) de la Loi que l'on trouve la définition d' « abri fiscal » . Pour les années en litige, cette définition se lisait comme suit :
+« abri fiscal » - « abri fiscal » Bien (y compris, pour plus de certitude, le droit à un revenu) pour lequel il est raisonnable de considérer, compte tenu de déclarations ou d'annonces faites ou envisagées relativement au bien, que, si une personne acquérait une part dans le bien, le montant visé à l'alinéa a) serait, à la fin d'une année d'imposition qui se termine dans les quatre ans suivant le jour où la part est acquise, égal ou supérieur au montant visé à l'alinéa b):
+a) le total des montants représentant chacun:
+(i) un montant ou, dans le cas d'une participation dans une société de personnes, une perte qui est annoncé comme étant déductible dans le calcul du revenu au titre de la part (y compris, si le bien est un droit à un revenu, un montant ou une perte afférent à ce droit qui est annoncé comme étant déductible) et qui pourrait être engagé ou subie par la personne ou attribué à celle-ci pour l'année ou pour une année d'imposition antérieure,
+(ii) un autre montant qui est annoncé comme étant déductible dans le calcul du revenu ou du revenu imposable au titre de la part et qui pourrait être engagé par la personne ou attribué à celle-ci pour l'année ou pour une année d'imposition antérieure, à l'exclusion d'un montant inclus dans le calcul d'une perte visée au sous-alinéa (i);
+b) l'excédent éventuel du montant visé au sous-alinéa (i) sur le total visé au sous-alinéa (ii):
+(i) le coût de la part pour la personne à la fin de l'année, déterminé compte non tenu de l'article 143.2,
+(ii) la valeur totale des avantages visés par règlement que la personne ou toute personne avec laquelle elle a un lien de dépendance pourrait recevoir, directement ou indirectement, au titre de la part.
+Les actions accréditives et les biens visés par règlement ne sont pas considérés comme des abris fiscaux.
+[10] Par ailleurs, le paragraphe 231(6) du Règlement se lisait ainsi :
+(6) Pour l'application de l'alinéa b) de la définition d' « abri fiscal » au paragraphe 237.1(1) de la Loi, l'avantage à recevoir au titre d'une part dans un abri fiscal est un montant que, compte tenu des déclarations ou annonces faites au sujet de cet abri fiscal, la personne qui acquiert cette part - appelée « l'acheteur » au présent paragraphe - ou une personne avec laquelle l'acheteur a un lien de dépendance peut raisonnablement s'attendre à recevoir ou à avoir à sa disposition, ce qui a pour conséquence de réduire l'effet d'une perte que l'acheteur pourrait subir en acquérant ou en détenant cette part ou encore en en disposant. Sont notamment des avantages:
+a) le montant que l'acheteur ou une personne avec laquelle il a un lien de dépendance doit, immédiatement ou dans le futur, à une autre personne dans la mesure où, selon le cas:
+(i) l'obligation de rembourser ce montant est conditionnelle,
+(ii) le remboursement de ce montant est ou sera garanti, une sûreté est ou sera fournie ou une convention en vue d'indemniser l'autre personne est ou sera conclue, par l'une des personnes suivantes:
+(A) un promoteur quant à l'abri fiscal,
+(B) une personne avec laquelle celui-ci a un lien de dépendance,
+(C) toute personne qui doit recevoir un paiement (à l'exception d'un paiement fait par l'acheteur) au titre de la garantie, de la sûreté ou de la convention,
+(iii) les droits que cette autre personne peut exercer à l'encontre de l'acheteur ou de la personne avec laquelle celui-ci a un lien de dépendance, à l'égard du recouvrement de tout ou partie du prix d'achat, sont limités à un montant maximum, ne peuvent être exercés que sur certains biens ou sont autrement limités par convention,
+(iv) le montant doit être payé en devises étrangères ou d'après sa valeur en devises étrangères et il est raisonnable de croire, compte tenu de l'historique des taux de change entre ces devises étrangères et la monnaie canadienne, que le montant total du remboursement, une fois converti en monnaie canadienne au taux de change en vigueur au moment de chaque paiement, sera considérablement inférieur au montant total qui serait payé s'il était converti en monnaie canadienne au moment où chaque paiement est devenu exigible;
+b) le montant que l'acheteur ou une personne avec laquelle il a un lien de dépendance a à un moment donné le droit de recevoir ou d'avoir à sa disposition, directement ou indirectement:
+(i) soit à titre d'aide fournie par un gouvernement, une municipalité ou un autre organisme public, sous forme de prime, de subvention, de prêt à remboursement conditionnel, de déduction d'impôt ou d'allocation de placement ou sous toute autre forme,
+(ii) soit à cause d'une garantie de recettes ou d'une autre convention selon laquelle l'acheteur ou la personne avec laquelle il a un lien de dépendance peut gagner des recettes, dans la mesure où il est raisonnable de croire que la garantie de recettes ou cette convention assurera à cet acheteur ou à cette personne un rendement sur la totalité ou une partie des dépenses de l'acheteur relatives à l'abri fiscal;
+c) le produit de disposition auquel l'acheteur peut avoir droit aux termes d'une convention ou d'un arrangement qui lui confère le droit, conditionnel ou non, de disposer de sa part dans l'abri fiscal - autrement que par suite de son décès -, y compris la juste valeur marchande d'un bien dont l'acquisition est prévue dans la convention ou l'arrangement, en échange de tout ou partie de la part dans l'abri fiscal;
+d) le montant que doit l'acheteur ou la personne avec laquelle il a un lien de dépendance au promoteur ou à la personne avec laquelle il a un lien de dépendance, au titre de l'acquisition d'une part dans l'abri fiscal.
+Sous réserve du sous-alinéa b)(ii), ne sont toutefois pas des avantages les bénéfices gagnés relativement à un abri fiscal.
+[11] Les documents publicitaires concernant l'investissement, proposé aux acheteurs canadiens, dans la plantation de tecks dont Maya Forestales était la propriétaire enregistrée au Costa Rica diffèrent les uns des autres. On trouve notamment ce qui suit à la première page de la pièce I-1 :
+BOISES DE TECK
+• Achat • Aménagement • Production
+• 99% de déductions fiscales
+• 100% de rendement par année
+• Une garantie absolue, irrévocable, de rachat
+[...]
+À la deuxième page de la même pièce on expose ce qui suit :
+De temps en
+temps vous pensez
+à tout ce que vous
+ferez quand
+Mais comment y parvenir
+viendra la retraite. avec tous ces impôts?
+Voici un investissement VERT qui s'accumule comme
+de l'OR à l'abri de l'impôt.
+Faites comme nous.
+Constituez votre propre
+entreprise de TECK.
+• Chaque acheteur d'un lot à aménager de teck confie par mandat la gestion de son entreprise de production de bois précieux ainsi créée à la compagnie Maya Forestales S.A. de San José.
+• Les "résultats" (dépenses ou revenus) de cette entreprise de production de bois précieux sont "transférées" [sic] annuellement aux propriétaires qui sont tenus d'en divulguer la nature, pertes et profits, au Ministère du Revenu de leur pays.
+• La compagnie Maya Forestales S.A. garantit "la bonne exécution" de son mandat en y associant une offre de rachat du lot dont la valeur minimum (70%) est accompagnée par une lettre de garantie bancaire irrévocable ou l'équivalent.
+• Un boisé de "teck" constitue la meilleure valeur de rente pour le moment de votre retraite ou encore la plus belle valeur à transmettre à vos héritiers.
+La Retraite...
+Nous aussi nous y avons pensé!
+Maya Forestales S.A.
+[12] La troisième page de cette pièce I-1, intitulée « Prévisions de profits » , fait état d'un certain nombre de calculs pour une « entreprise de teck de 100 arbres (au coût de 10 000 $can.) » .
+[13] La pièce I-2, un autre document publicitaire, indique en première page ce qui suit :
+Une entreprise de teck rapporte:
+• 99% des dépenses déductibles.
+• 100% de rendement par année.
+• Une garantie absolue, irrévocable.
+[...]
+[14] À la page 2 de cette pièce I-2 on peut lire notamment :
+L'ENTREPRISE:
+1- Vous achetez un lot à reforester et des droits de plantation.
+2- Vous donnez un mandat à Maya Forestales S.A. pour l'aménager en boisé.
+3- Vous devenez un producteur de bois de teck. (Code 0410).
+LES RESULTATS:
+1- Toutes les dépenses d'aménagement sont déductibles d'autres sources.
+2- Tous les "résultats" (profits ou pertes) de cette entreprise de production de bois précieux sont "transférés" annuellement au propriétaire qui est tenu d'en divulguer la nature au Ministère du Revenu de son pays.
+3- Tous les profits sont exempts d'impôt à vie au Costa Rica (Loi 7174).
+LA GARANTIE: (Droits d'auteur déposés au Canada)
+1- La compagnie Maya Forestales S.A. garantit "la bonne exécution" de son mandat en y associant une offre de rachat du lot dont la valeur minimum (70%) est accompagnée par une lettre de garantie bancaire irrévocable ou l'équivalent.
+LA VALEUR DE L'INVESTISSEMENT:
+1- Un boisé de "teck" constitue la meilleure valeur pour le moment de votre retraite ou encore la plus belle valeur à transmettre à vos héritiers. Il rapportera 100% de rendement par année sans compter l'inflation.
+[15] La pièce I-3 est un autre document publicitaire faisant état, à sa page 2, de ce que toutes les dépenses d'aménagement étaient déductibles d'autres sources et de ce que la compagnie Maya Forestales S.A. offrait à l'investisseur de prendre une assurance contre toute éventualité, avec compensation financière à 100 % des coûts initiaux.
+[16] La pièce I-4 est un autre document publicitaire, qui aurait été utilisé en 1998. On y mentionne, à la page 2, qu'il s'agit d'un investissement dans « un boisé de teck âgé de trois ans » et, à la page 4, que toutes les dépenses d'exploitation sont déductibles dans le pays du propriétaire.
+[17] Les pièces I-5 et I-6 sont des exemples de contrats préimprimés proposés aux investisseurs en 1997 et en 1998. Au contrat pour l'achat, au prix de 100 $, d'un lot pour y faire planter 100 arbres et au contrat pour l'aménagement du lot au prix de 9 900 $ se greffait un autre contrat pour l'entretien du boisé de tecks et pour les coupes et la commercialisation du bois au terme d'une période de huit ans. On y mentionne explicitement que des frais d'entretien et d'ingénierie forestière de 2 % à payer en devises américaines étaient exigés à chaque année et inclus dans les 40 % du prix de vente net du bois qui seraient conservés par Maya Forestales S.A. lorsque les arbres seraient coupés au terme de la période de huit ans. Dans la pièce I-6, on mentionne explicitement, à la page 3, que les frais d'entretien et d'ingénierie forestière annuels de 2 % à payer en devises américaines étaient déductibles annuellement.
+[18] On peut résumer ces différents documents en disant que l'investissement proposé aux Canadiens dans la plantation de tecks dont Maya Forestales S.A. était la propriétaire enregistrée au Costa Rica, comportait deux volets. Il y avait d'abord l'achat d'un lot ou d'une partie de lot de cette plantation pour une somme représentant 1 % de l'investissement, soit 100 $ dans le cas d'un investissement de 10 000 $. Puis, il y avait le paiement des frais d'aménagement de ce lot ou de cette partie de lot, paiement représentant 99 % de l'investissement, soit 9 900 $ dans le cas de ce même investissement de 10 000 $.
+[19] Selon les contrats signés en 1995 et en 1996, l'investisseur pouvait exercer une option de céder son lot à Maya Forestales S.A. au terme d'une période de huit ans, et ce, dans un délai de 180 jours après la fin de cette période. Maya Forestales garantissait le rachat du lot pour une somme égale à 70 % du coût initial comprenant le prix d'achat du lot (1 %) et les frais d'aménagement (99 %), soit pour une somme de 7 000 $ dans le cas d'un investissement de 10 000 $. Si, à l'expiration de cette période de huit ans, l'investisseur désirait procéder à la coupe et à la vente du bois, Maya Forestales S.A. conservait à titre de frais de coupe et de commercialisation une somme équivalente à 40 % du prix de vente net du bois.
+[20] En 1997 et en 1998, on ne retrouve plus cette garantie de rachat égale à 70 % du coût de l'investissement. Toutefois, on constate qu'en plus du coût initial de l'investissement, des frais additionnels d'entretien et d'ingénierie forestière de 2 % par année payables en devises américaines étaient demandés à l'investisseur, mais étaient inclus dans les 40 % de frais et coupe et de commercialisation conservés par Maya Forestales S.A. Il n'y a pas d'indication du montant utilisé pour calculer ces frais additionnels, mais il semble bien qu'ils étaient calculés en fonction du montant de l'investissement initial. Dans la pièce I-6, qui est un exemple d'un contrat signé en 1998, il y a une mention expresse que ces frais étaient déductibles annuellement.
+[21] L'avocat de l'appelante soutient qu'il faut distinguer nettement les deux volets de l'investissement, puisqu'il s'agit d'une part de l'acquisition d'un bien et d'autre part du paiement pour des services. Selon lui, l'application de la formule que l'on trouve à la définition d' « abri fiscal » ne peut donner le résultat que réclame l'intimée, puisque aucun montant n'est déductible au titre du bien lui-même, qui est le lot ou la partie de lot acquis pour 1 % du montant de l'investissement, ou 100 $ dans le cas d'un investissement de 10 000 $. Ainsi, les frais d'aménagement de 99 %, ou de 9 900 $ dans le cas d'un investissement de 10 000 $, seraient un montant déductible non pas au titre du bien acquis (le lot ou la partie de lot), mais essentiellement pour des services à être rendus par Maya Forestales S.A. en vertu du mandat que lui confiait l'investisseur. Quant à la question de la garantie de rachat égale à 70 % du montant de l'investissement initial, soit 7 000 $ pour un investissement de 10 000 $, applicable pour les années 1995 et 1996, l'avocat de l'appelante soutient qu'il ne s'agit aucunement d'une garantie de rachat du bien acquis, c'est-à-dire le lot ou la partie de lot dans la plantation, mais bien d'une garantie, après une période de huit ans, de rachat des arbres qui auront poussé sur ce lot ou la partie de lot, de sorte qu'il n'y aurait aucun avantage visé par le paragraphe 231(6) du Règlement qui viendrait réduire par l'application du sous-alinéa b)(ii) de la définition d' « abri fiscal » le coût du bien acquis. Concernant les frais d'aménagement additionnels de 2 % par année payables après la première année, ici encore, l'avocat de l'appelante estime que ce sont des montants déductibles non pas au titre du bien acquis mais essentiellement pour des services, de sorte que l'investissement proposé ne peut constituer un « abri fiscal » au sens de la définition du paragraphe 237.1(1) de la Loi.
+[22] Tout en reconnaissant que l'investissement proposé comporte deux volets, soit, pour l'investisseur, l'achat d'un lot ou d'une partie de lot et le paiement à l'avance des frais d'aménagement de ce lot, j'estime que ces deux volets constituent un ensemble indissociable, un package deal, d'ailleurs présenté comme tel dans les documents publicitaires utilisés pour en faire la promotion. Selon ces documents, l'investisseur acquérait « un boisé de teck » , ou une entreprise forestière à l'égard de laquelle il pouvait déduire tous les frais d'aménagement et d'entretien aux fins fiscales. Le coût de ces intérêts qu'un investisseur acquérait ainsi dans « son boisé de teck » comprenait à la fois le coût du lot ou de la partie de lot et des arbres à planter et tous les frais d'aménagement et d'entretien. Évidemment, la façon de structurer l'investissement et de présenter les choses faisait miroiter à l'investisseur potentiel les déductions fiscales les plus élevées possibles compte tenu de son investissement. Il est assez évident qu'un investisseur n'aurait pas été intéressé seulement par l'achat d'un lot ou d'une partie de lot faisant partie d'une plantation au Costa Rica et du droit d'y planter 100 arbres pour une somme totale de 100 $, sans plus, c'est-à-dire sans le paiement d'une somme additionnelle de 9 900 $ que l'on annonçait comme étant entièrement déductible aux fins fiscales. Le simple bon sens ne permet pas une telle hypothèse. L'inverse est également vrai : le paiement de frais d'aménagement ne pouvait se concevoir que si l'on avait d'abord acheté le lot ou la partie de lot à aménager. C'est en ce sens que les deux volets sont indissociables et forment un ensemble d'ailleurs proposé et vendu comme tel aux investisseurs et pour lequel ils payaient une somme globale.
+[23] Je n'ai pas à me prononcer sur la question de savoir si les frais d'aménagement correspondant à 99 % du montant de l'investissement auraient pu être réellement déductibles ou tous déductibles aux fins fiscales; je dois statuer uniquement sur celle de savoir quels sont les montants qui ont été annoncés comme étant déductibles. Dans les circonstances, j'estime que c'est 99 % du coût de l'investissement dans le boisé de tecks au Costa Rica, ou si l'on veut, 99 % du coût total de la part acquise dans un bien, qui était annoncé comme étant déductible et c'est là le chiffre dont il faut tenir compte selon les termes du sous-alinéa a)(ii) de la définition d' « abri fiscal » au paragraphe 237.1(1) de la Loi. L'utilisation à ce sous-alinéa de l'expression « au titre de la part » correspond à l'expression anglaise « in respect of the interest in the property » . Il est à noter que dans les différents paragraphes de l'article 237.1 de la Loi l'expression « in respect of » figure pas moins de trente fois et est rendue en français par plusieurs expressions différentes notamment par les expressions « au titre de » , « relativement à » , « en ce qui concerne » et « quant à » . À mon avis, on doit traiter ces expressions comme équivalentes et interpréter le texte français en ayant à l'esprit le sens le plus large possible de l'expression anglaise « in respect of » exprimant un lien ou un rapport quelconque entre deux sujets ou deux choses. En effet, dans le jugement de la Cour suprême du Canada dans l'affaire Nowegijick c. La Reine, [1983] 1 R.C.S. 29, le juge Dickson s'exprimait de la façon suivante sur le sens de cette expression, à la page 39 du jugement :
+The words "in respect of" are, in my opinion, words of the widest possible scope. They import such meanings as "in relation to", "with reference to" or "in connection with". The phrase "in respect of" is probably the widest of any expression intended to convey some connection between two related subject matters.
+[24] Ces propos ont été repris par le juge Iacobucci s'exprimant au nom de la majorité dans la décision de la Cour suprême du Canada dans l'affaire Slattery (Syndic de) c. Slattery, [1993] 3 R.C.S. 430, à la page 445, ainsi que par le juge Major s'exprimant aussi au nom de la majorité dans le jugement de la Cour suprême du Canada dans l'affaire Markevich c. Canada, [2003] 1 R.C.S. 94, au paragraphe 26, pages 111 et 112. Ainsi, à mon avis, en interprétant le sous-alinéa a)(ii) de la définition d' « abri fiscal » , on doit tenir compte de tout montant qui est annoncé comme étant déductible et qui a un rapport quelconque avec le bien acquis ou l'acquisition d'une part dans le bien.
+[25] Pour les années 1995 et 1996, il s'agit de déterminer si le montant annoncé comme étant déductible, soit 99 % du coût total de l'investissement, ou 9 900 $ dans le cas d'un investissement de 10 000 $, dépasse ou égale le coût total diminué de la valeur des avantages visés par règlement. Je dois d'abord signaler que, contrairement à la prétention de l'avocat de l'appelante, les contrats indiquent clairement que la garantie porte sur le rachat du lot. Or, cette garantie de rachat du lot et forcément des arbres qui y ont poussé annoncée dans les documents publicitaires, laquelle garantie est égale à 70 % du montant total de l'investissement, soit à 7 000 $ dans le cas d'un investissement de 10 000 $, tombe, à mon avis, dans le champ d'application du paragraphe 231(6) du Règlement, puisqu'il s'agit d'un montant qu'un investisseur peut raisonnablement s'attendre à recevoir, ce qui a pour conséquence de réduire l'effet d'une perte qu'il pourrait subir en disposant de sa part dans ce bien compte tenu du coût total de cette part. Pour les années 1995 et 1996, j'estime donc que le bien vendu par l'appelante comme mandataire de Maya Forestales S.A. correspond à un « abri fiscal » tel que ce terme est défini au paragraphe 237.1(1) de la Loi.
+[26] Pour les années 1997 et 1998, il n'est pas contesté que Maya Forestales S.A. ne fournissait plus la garantie de rachat égale à 70 % du coût total de l'investissement. Il n'est pas contesté non plus qu'elle demandait des frais additionnels d'entretien et d'ingénierie forestière de 2 % par année, à payer en devises américaines, et que ces frais étaient annoncés comme étant déductibles pour l'investisseur tout comme l'étaient les frais initiaux d'aménagement du lot ou de la partie de lot dont l'investisseur faisait l'acquisition pour une somme égale à 99 % du coût de l'investissement, soit 9 900 $ dans le cas d'un investissement de 10 000 $. Ces frais annuels de 2 % payables en devises américaines font en sorte que le total des montants annoncés comme étant déductibles, relativement au bien acquis, dans les quatre ans se terminant après l'acquisition excéderait le coût total de l'investissement. Le fait que les frais additionnels de 2 % soient en devises américaines augmente aussi le total des montants déductibles en excédent du coût. Toutefois, dans ce cas il n'est pas approprié, à mon avis, de se référer aux avantages visés par règlement et plus particulièrement au sous-alinéa 231(6)a)(i) du Règlement, comme l'a fait l'avocate de l'intimée, puisqu'il était annoncé que ces frais additionnels annuels de 2 % en devises américaines faisaient partie des 40 % du prix de vente net du bois qui serait coupé et commercialisé par Maya Forestales S.A. au terme du mandat de huit ans consenti par l'investisseur. Ainsi, l'obligation de payer ces frais n'est pas, à proprement parler, conditionnelle. Cependant, comme je l'ai dit, l'ajout de ces frais additionnels aux frais initiaux fait en sorte que l'investissement vendu par l'appelante comme mandataire de Maya Forestales S.A. au cours des années 1997 et 1998 correspond aussi à la définition d' « abri fiscal » que l'on trouve au paragraphe 237.1(1) de la Loi.
+[27] Comme il n'est pas contesté que l'appelante a vendu un « abri fiscal » comme mandataire de Maya Forestales et qu'il n'est pas contesté non plus qu'aucun numéro d'inscription d'un « abri fiscal » n'a été attribué, il ne reste à déterminer que le montant en fonction duquel la pénalité prévue au paragraphe 237.1(7.4) de la Loi doit être calculée.
+[28] Cette disposition se lit comme suit :
+237.1(7.4)
+(7.4) Pénalité. Toute personne qui, relativement à un abri fiscal, fournit des renseignements faux ou trompeurs au ministre dans la demande visée au paragraphe (2) ou contrevient au paragraphe (4) est passible d'une pénalité égale au plus élevé des montants suivants :
+a) 500 $;
+b) 25 % du total des montants représentant chacun la contrepartie reçue ou à recevoir d'une personne relativement à l'abri fiscal avant que les renseignements corrigés aient été fournis au ministre ou avant qu'un numéro d'inscription ait été attribué à l'abri fiscal, selon le cas.
+[29] J'ai déjà expliqué que ce que l'on proposait aux investisseurs était un ensemble indissociable comportant l'achat d'un lot ou d'une partie de lot dans une plantation de tecks au Costa Rica et le paiement des frais d'aménagement de ce lot ou de cette partie de lot, et que l'on vendait aux investisseurs cet ensemble comprenant biens et services pour une somme globale dont 1 % était appliqué à l'achat du lot ou de la partie de lot, et 99 %, au paiement des frais d'aménagement. À mon avis, c'est cet ensemble proposé aux investisseurs qui constitue un « abri fiscal » selon la définition du paragraphe 237.1(1) et c'est pour cet ensemble qu'ils payaient dès la signature des contrats, la contrepartie exigée étant égale à 100 % de l'investissement. C'est donc en fonction de cette contrepartie globale qui a été reçue relativement à cet « abri fiscal » que la pénalité de 25 % doit être calculée, comme elle l'a d'ailleurs été.
+[30] En conséquence de ce qui précède, les appels sont rejetés avec dépens en faveur de l'intimée.
+Signé à Ottawa, Canada, ce 19e jour de janvier 2005.
+« P. R. Dussault »
+Juge Dussault
+RÉFÉRENCE :
+2005CCI67
+No DU DOSSIER DE LA COUR :
+2000-4822(IT)G
+INTITULÉ DE CAUSE :
+Hexalog Ltée et Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+Montréal (Québec)
+DATE DE L'AUDIENCE :
+les 11 et 12 février 2004
+et le 2 novembre 2004
+MOTIFS DE JUGEMENT PAR :
+l'honorable juge P. R. Dussault
+DATE DU JUGEMENT :
+le 19 janvier 2005
+COMPARUTIONS :
+Avocat de l'appelante :
+Me François Daigle
+Avocate de l'intimée :
+Me Marie Bélanger
+AVOCAT INSCRIT AU DOSSIER:
+Pour l'appelante :
+Nom :
+Étude :
+Ville :
+Me François Daigle
+Bélanger, Sauvé
+Trois-Rivières (Québec)
+Pour l'intimée :
+John H. Sims, Q.C.
+Sous-procureur général du Canada
+Ottawa, Canada

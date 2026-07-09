@@ -1,0 +1,156 @@
+---
+title: "Jones c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25605/index.do"
+last_modified: "2003-04-16"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 CCI 202"
+citation2: ""
+neutral_citation: "2003 CCI 202"
+decision_date: "2003-04-16"
+language: "fr"
+item_id: "25605"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2445
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T19:17:02.239000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "3f950bda7bf59436e1f25d067e08a74c44541360ada41481c89d3a2cefd53d3a"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Jones c. La Reine
+
+- Citation: 2003 CCI 202
+- Decision date: 2003-04-16
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2445, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Jones c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-04-16
+Référence neutre
+2003 CCI 202
+Numéro de dossier
+2002-2110(IT)I
+Juges et Officiers taxateurs
+Leslie M. Little
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2002‑2110(IT)I
+ENTRE :
+PERRY JONES,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 24 février 2003 à Kelowna (Colombie‑Britannique)
+Devant : L’honorable juge L. M. Little
+Comparutions
+Représentant de l’appelant :
+Murray G. Rossworn
+Avocate de l’intimée :
+Me Jasmine Sidhu
+____________________________________________________________________
+JUGEMENT MODIFIÉ
+L’appel interjeté à l’encontre de la cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 1999 est admis sans dépens et la cotisation est déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation, selon les motifs du jugement ci‑joints.
+Le présent jugement remplace le jugement daté du 16e jour d’avril 2003.
+Signé à Vancouver (Colombie‑Britannique), ce 5e jour d’août 2003.
+« L. M. Little »
+Juge Little
+Traduction certifiée conforme
+ce 23e jour de février 2004.
+Crystal Lefebvre, traductrice
+Référence : 2003CCI202
+Date : 20030805
+Dossier : 2002‑2110(IT)I
+ENTRE :
+PERRY JONES,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT MODIFIÉS
+Le juge Little
+A. FAITS
+[1] L’appelant est un conducteur d’équipement lourd et un membre du syndicat Operating Engineers Union (« OEU »).
+[2] Bremith Contracting Ltd. (la « compagnie ») a été constituée en personne morale le 31e jour de décembre 1986 en vertu des lois de la province de la Colombie‑Britannique.
+[3] Toutes les actions émises de la compagnie étaient inscrites au nom de Brenda Smith, l’épouse de l’appelant. Cependant, l’appelant a témoigné qu’il était le propriétaire de toutes les actions émises de la compagnie. L’appelant a déclaré que les actions de la compagnie étaient inscrites au nom de son épouse plutôt qu’au sien, parce qu’en vertu de la politique du OEU, les membres du syndicat n’avaient pas le droit d’être des propriétaires exploitants des engins de chantier. L’appelant a également déclaré que la politique du OEU portant sur les propriétaires exploitants, en vigueur de 1980 à 1990 ne s’applique plus.
+[4] La compagnie exploitait une entreprise de construction. Cette dernière participait à l’établissement des lotissements et effectuait des fouilles pour des bâtiments et d’autres constructions. L’actif principal de la compagnie consistait en un bouteur de marque Caterpillar D3.
+[5] L’appelant a déclaré qu’il avait avancé des fonds à la compagnie pour qu’elle exploite son entreprise.
+[6] En 1999, l’appelant a retiré 37 500 $ de son régime enregistré d’épargne‑retrait (REER) qu’il détenait au OEU. Il a déclaré qu’après avoir payé 11 509 $ à titre d’impôt sur le revenu imposé sur ce retrait, il a avancé la somme de 25 000 $ à la compagnie.
+[7] Selon l’appelant, son épouse était responsable de la comptabilité, de la préparation des déclarations de revenus et remplissait les fonctions de secrétaire de la compagnie. L’appelant a également déclaré qu’en 2000, malgré une ordonnance de la Cour interdisant son épouse d’aliéner les actifs de la compagnie, celle‑ci a vendu des actifs (le bouteur et d’autres actifs) appartenant à la compagnie et a conservé les fonds.
+[8] Selon l’appelant, la compagnie a cessé toutes ses activités d’exploitation. Il soutient que la compagnie a continué d’exploiter son entreprise jusqu’en 1999. L’appelant a déclaré que la compagnie est devenue insolvable en 1999, ses actions n’ont aucune valeur et la compagnie n’est pas en mesure de rembourser l’argent que l’appelant lui a avancé.
+[9] Lorsque l’appelant a produit sa déclaration de revenus pour l’année d’imposition 1999, il a omis de déduire une perte déductible au titre d’un placement d’entreprise (« PDTPE ») relativement aux pertes qu’il a subies en raison des prêts qu’il a consentis à la compagnie.
+[10] Lorsque le ministre du Revenu national (le « ministre ») a émis un Avis de cotisation à l’intention de l’appelant pour l’année d’imposition 1999, l’appelant a déposé un Avis d’opposition. Dans l’Avis d’opposition, l’appelant a soutenu qu’il avait le droit de déduire une PDTPE d’au moins 25 000 $ en raison des prêts et d’autres avances qu’il a consenties à la compagnie.
+B. QUESTION EN LITIGE
+[11] Dans le calcul de son revenu pour l’année d’imposition 1999, l’appelant a‑t‑il le droit de déduire une PDTPE de 25 000 $ ou plus?
+ANALYSE
+[12] L’alinéa 39(1)c) de la Loi de l’impôt sur le revenu (la « Loi ») prévoit qu’un contribuable peut réclamer une perte déductible au titre d’un placement d’entreprise s’il a rempli certaines conditions.
+[13] Selon une des conditions qui doit être remplie, la société doit consister en une société exploitant une petite entreprise tant au moment dont le prêt a été consenti qu’au moment dont le prêt a perdu sa valeur.
+[14] En l’espèce, la compagnie exploitait activement une entreprise au moins jusqu’en 1996. Toutefois, l’appelant a témoigné qu’au cours des années 1997, 1998 et 1999, la compagnie a loué, à d’autres entrepreneurs indépendants, le bouteur de marque Caterpillar D3 sur la base d’une « location sans opérateur », c.‑à‑d. que l’entrepreneur indépendant payait la compagnie tant de l’heure pour l’usage du bouteur.
+[15] L’alinéa 39(1)c) de la Loi prévoit que le contribuable peut déduire une perte déductible au titre d’un placement d’entreprise lorsque la perte a été subie relativement aux actions dans une société exploitant une petite entreprise ou à l’égard de prêts consentis à la société :
+[16] L’expression « société exploitant une petite entreprise » est définie ainsi au paragraphe 248(1) :
+« société exploitant une petite entreprise » Sous réserve du paragraphe 110.6(15), société privée sous contrôle canadien et dont la totalité, ou presque, de la juste valeur marchande des éléments d’actif est attribuable, à un moment donné, à des éléments qui sont :
+a) soit utilisés principalement dans une entreprise que la société ou une société qui lui est liée exploite activement principalement au Canada;
+b) soit constitués d’actions du capital‑actions ou de dettes d’une ou de plusieurs sociétés exploitant une petite entreprise rattachées à la société au moment donné, au sens du paragraphe 186(4) selon l’hypothèse que les sociétés exploitant une petite entreprise sont, à ce moment, des sociétés payantes au sens de ce paragraphe;
+(c) soit visés aux alinéas a) et b).
+Pour l’application de l’alinéa 39(1)c), est une société exploitant une petite entreprise la société qui était une telle société à un moment de la période de douze mois précédant le moment donné; par ailleurs, pour l’application de la présente définition, la juste valeur marchande d’un compte de stabilisation du revenu net est réputée nulle.
+[17] L’expression « entreprise exploitée activement » est définie ainsi au paragraphe 248(1) de la Loi :
+« entreprise exploitée activement » Relativement à toute entreprise exploitée par un contribuable résidant au Canada, toute entreprise exploitée par le contribuable autre qu’une entreprise de placement déterminée ou une entreprise de prestation de services personnels.
+[18] Il convient de souligner que la définition d’une « entreprise exploitée activement » exclut une entreprise de placement déterminée.
+[19] L’expression « entreprise de placement déterminée » est définie ainsi au paragraphe 125(7) de la Loi :
+« entreprise de placement déterminée » Entreprise, sauf une entreprise exploitée par une caisse de crédit ou une entreprise de location de biens autres que des biens immeubles, dont le but principal est de tirer un revenu de biens, notamment des intérêts, des dividendes, des loyers et des redevances. Toutefois, sauf dans le cas où la société est une société à capital de risque de travailleurs visée par règlement au cours de l’année, l’entreprise exploitée par une société au cours d’une année d’imposition n’est pas une entreprise de placement déterminée si, selon le cas :
+a) la société emploie dans l’entreprise plus de cinq employés à plein temps tout au long de l’année;
+b) une autre société associée à la société lui fournit au cours de l’année, dans le cadre de l’exploitation active d’une entreprise, des services de gestion ou d’administration, des services financiers, des services d’entretien ou d’autres services semblables et il est raisonnable de considérer que la société aurait eu besoin de plus de cinq employés à plein temps si ces services ne lui avaient pas été fournis.
+[20] La définition ci‑dessus prévoit qu’une entreprise de placement déterminée en est une dont le but principal consiste à tirer un revenu de biens, notamment des intérêts, des dividendes, des loyers et des redevances. Toutefois, il convient de souligner que la définition d’une entreprise de placement déterminée ne comprend pas une entreprise de « location de biens autres que des biens immeubles ». (Je souligne.)
+[21] En l’espèce, l’appelant a témoigné qu’en 1997, en 1998 et en 1999, l’activité principale et unique de la compagnie consistait en la location du bouteur à d’autres sur une base de « location sans opérateur ».
+[22] Je suis d’avis qu’en 1997, en 1998 et en 1999, la compagnie n’était pas une entreprise de placement déterminée et que, par conséquent, la compagnie satisfait au critère selon lequel elle était, en 1999, une société exploitant une petite entreprise.
+[23] Pour qu’un contribuable puisse déduire une PDTPE, ce dernier doit être un actionnaire de la compagnie.
+COMMENTAIRE – Dans la présente affaire, Brenda Smith était l’actionnaire inscrite de la compagnie. Cependant, je suis convaincu, par le témoignage de l’appelant, qu’il était le propriétaire des actions de la compagnie.
+[24] En concluant que l’appelant était le propriétaire des actions de la compagnie, j’ai examiné et je souscris aux commentaires de Monsieur le juge Cattanach, C.F. 1re inst., no T‑5805‑81, 13 avril 1983 (83 DTC 5193). Aux pages 5198 et 5199, le juge Cattanach a mentionné la création d’une fiducie et a déclaré ceci :
+[...] L’equity s’occupe de l’intention et non de la forme et si l’on peut déduire sans aucun doute l’existence d’une intention de créer une fiducie, la Cour donnera effet à cette intention.
+Malgré la difficulté de donner une définition d’ensemble de la fiducie, le concept de cette dernière est facile à saisir. Le principe général de la fiducie consiste dans le fait qu’une personne à qui des biens sont dévolus est obligée, en equity, de les détenir au bénéfice d’un tiers.
+[25] Le contribuable doit également établir que l’argent a été avancé à la compagnie afin de tirer un revenu.
+COMMENTAIRE – Dans la présente affaire, l’appelant a avancé 25 000 $ à la compagnie pour que cette dernière puisse effectuer des paiements sur son actif principal – le bouteur. Si la compagnie réalisait un succès relatif à la location du bouteur, l’appelant aurait reçu un remboursement et des dividendes en fonction d’autres montants de la compagnie.
+[26] Tel que cela est souligné ci‑dessus, l’appelant a témoigné qu’il avait retiré 37 500 $ de son REER, qu’après avoir payé 11 509 $ à titre d’impôt sur le revenu, il avait avancé 25 000 $ à la compagnie.
+[27] Le témoignage de Mme Tomlinson et les renseignements contenus dans la pièce A‑6 confirment que l’avance de 25 000 $ a été effectuée à la compagnie par l’appelant.
+[28] Le contribuable doit également établir que la compagnie qui a reçu l’avance est insolvable ou n’est pas en mesure de rembourser l’avance.
+COMMENTAIRE – L’appelant a témoigné que son épouse avait vendu l’actif principal de la compagnie (un bouteur) et la compagnie était insolvable en 1999.
+[29] Je suis convaincu que l’appelant satisfait aux critères imposés par l’alinéa 39(1)c) de la Loi et qu’il devrait être autorisé à déduire 25 000 $ comme perte au titre d’un placement d’entreprise. Selon l’alinéa 38c) de la Loi, en calculant son revenu pour l’année d’imposition 1999, l’appelant a le droit de déduire une perte déductible au titre d’un placement d’entreprise équivalente à 75 p. 100 du 25 000 $ ou à 18 750 $.
+[30] Pour tirer cette conclusion, j’ai consulté un certain nombre de décisions de la Cour canadienne de l’impôt et de la Cour d’appel fédérale, notamment la décision récente Larry W. Rich c. La Reine, [2003] A.C.F. no 109, non publiée de la Cour d’appel fédérale. Dans l’affaire Rich, Monsieur le juge Rothstein a mentionné le montant d’une PDTPE qui a été déduit et il a dit ce qui suit au paragraphe 33 :
+La norme de contrôle à appliquer est la prépondérance des probabilités, non une tenue de livres irréprochable. En tout état de cause, je suis persuadé qu’il est suffisamment démontré que la créance se chiffrait à 125 000 $ à la fin de 1995.
+Je souscris aux commentaires de Monsieur le juge Rothstein.
+[31] Le représentant de l’appelant a fait valoir que l’appelant avait avancé plus de 25 000 $ à la compagnie. Toutefois, je ne suis pas convaincu, compte tenu de la preuve présentée à la Cour, que l’appelant peut déduire une PDTPE supérieure à 25 000 $ pour l’année d’imposition 1999.
+[32] Le présent appel est admis sans dépens.
+Signé à Vancouver (Colombie‑Britannique), ce 5e jour d’août 2003.
+« L. M. Little »
+Juge Little
+Traduction certifiée conforme
+ce 23e jour de février 2004.
+Crystal Lefebvre, traductrice

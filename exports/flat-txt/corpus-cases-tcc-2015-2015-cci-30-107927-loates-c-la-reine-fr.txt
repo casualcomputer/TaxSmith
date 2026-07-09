@@ -1,0 +1,162 @@
+Title: Loates c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/107927/index.do
+Corpus path: corpus/cases/tcc/2015/2015-cci-30-107927-loates-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2015-02-06
+
+# Loates c. La Reine
+
+- Citation: 2015 CCI 30
+- Decision date: 2015-02-06
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2744, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Loates c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2015-02-06
+Référence neutre
+2015 CCI 30
+Numéro de dossier
+2012-1517(IT)G
+Juges et Officiers taxateurs
+Randall S. Bocock
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2012-1517(IT)G
+ENTRE :
+M. BERNARD LOATES,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Devant : L’honorable juge Randall S. Bocock
+Comparutions :
+Pour l’appelant :
+L’appelant lui‑même
+Avocat de l’intimée :
+Me Jack Warren
+MODIFICATIONS AUX MOTIFS DU JUGEMENT
+Après avoir découvert des erreurs typographiques dans certains paragraphes des motifs du jugement prononcés le 6 février 2015, la Cour apporte les corrections suivantes à la version anglaise de ses motifs :
+À la première ligne du paragraphe 5, le mot « the » est supprimé.
+À la deuxième ligne du paragraphe 6, le mot « the » est supprimé.
+À la cinquième ligne du paragraphe 12, le point après « […] March 2 […] » est remplacé par une virgule.
+À la première ligne du point b) au paragraphe 22, le mot « the » est supprimé.
+Au paragraphe 39, le mot « Respondents » est remplacé par « Respondent ».
+Les présents motifs modifiés du jugement remplacent les motifs du jugement datés du 6 février 2015.
+Signé à Ottawa, Canada, ce 12e jour de février 2015.
+« R. S. Bocock »
+Juge Bocock
+Traduction certifiée conforme
+ce 28e jour de juillet 2015.
+Claude Mandeville, réviseure
+Référence : 2015 CCI 30
+Date : 20150212
+Dossier : 2012-1517(IT)G
+ENTRE :
+M. BERNARD LOATES,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE JUGEMENT MODIFIÉS
+Le juge Bocock
+I. Introduction [1] Le présent appel porte sur une cotisation établie en vertu de l’article 160 de la Loi de l’impôt sur le revenu, L.R.C. 1985, ch. 1 (5e suppl.) (la « Loi »). L’épouse de l’appelant, Karen Somerville, devait 158 058,27 $ en impôt (la « dette fiscale ») pour les années d’imposition 1998, 1999, 2000 et 2001. En 2008, le ministre a appris que l’appelant, Bernard Loates, possédait une propriété sur Howe Island, à Gananoque, en Ontario (la « propriété de Howe Island »). Celle‑ci lui avait été transférée par Mme Somerville le 15 mars 2005 (la « date du transfert »). Le ministre a émis un avis de cotisation le 30 septembre 2010 à l’endroit de M. Loates pour la dette fiscale.
+II. Exposé des faits [2] Deux personnes ont témoigné : M. Loates a témoigné pour son propre compte et Peter Neeteson, agent de perception à l’Agence du revenu du Canada (l’« ARC »), a témoigné pour le compte de l’intimée. Mme Somerville était présente au procès, mais l’appelant ne l’a pas fait comparaître comme témoin.
+A. Déposition de M. Loates [3] M. Loates et Mme Somerville se sont mariés en 2000. Ils ont vécu ensemble, de 1998 à janvier 2006, au 3050, rue Cochrane, Whitby (Ontario) (la « propriété de la rue Cochrane »), résidence dont Mme Somerville était l’unique propriétaire.
+[4] Le 25 juillet 2002, Mme Somerville a acheté, là encore à elle seule, la propriété de Howe Island, avec l’intention d’en faire l’endroit où ils habiteraient à la retraite.
+[5] M. Loates affirme avoir fait à Mme Somerville trois prêts totalisant environ 294 600 $ (les « prêts ») entre 2004 et 2006. Au début de 2005, Mme Somerville voulait réhypothéquer la propriété de la rue Cochrane, afin d’obtenir du capital pour son entreprise. M. Loates n’était pas d’accord. La propriété de la rue Cochrane a été évaluée à 1 000 000 $, et elle était grevée d’une hypothèque de 448 054,89 $, tel qu’en faisait foi le titre.
+[6] M. Loates a témoigné que, le 2 mars 2005, lui et Mme Somerville sont parvenus à une entente. Ils ont signé une entente manuscrite de « partage des biens » (l’« entente de partage »), qui prévoyait ce qui suit :
+a) M. Loates consentait à la deuxième hypothèque sur la propriété de la rue Cochrane et, en contrepartie, Mme Somerville lui transférait le titre de la propriété de Howe Island;
+b) M. Loates n’avait « aucun droit » sur la propriété de la rue Cochrane;
+c) Mme Somerville n’aurait « aucun droit » sur la propriété de Howe Island;
+d) Mme Somerville s’engageait à vendre la propriété de la rue Cochrane et à payer ses impôts et autres dettes.
+[7] Le 3 mars 2005, Mme Somerville a constitué sur la propriété de la rue Cochrane une deuxième hypothèque dont le montant s’élevait à 315 000 $ (la « deuxième hypothèque grevant la propriété de la rue Cochrane »”).
+[8] Comme autre sûreté rattachée à la deuxième hypothèque grevant la propriété de la rue Cochrane, une hypothèque accessoire a été inscrite sur le titre de la propriété de Howe Island le même jour pour un montant de 311 850 $ (l’« hypothèque accessoire grevant la propriété de Howe Island »).
+[9] Le 15 mars 2005, date du transfert, Mme Somerville a transféré le titre de la propriété de Howe Island à M. Loates.
+[10] Au procès, les parties ont convenu que, à la date du transfert, la juste valeur marchande de la propriété de Howe Island se chiffrait à 700 000 $, ce qui coïncidait avec la valeur présumée du ministre. Les parties ont également convenu que le solde de la première hypothèque grevant la propriété de Howe Island s’établissait à 414 735,11 $ à la date du transfert.
+[11] En janvier 2006, Mme Somerville a vendu la propriété de la rue Cochrane pour 800 000 $. Une fois les prêts hypothécaires remboursés, il restait 20 228,14 $, montant qui a été remis à l’ARC pour réduire la dette fiscale de Mme Somerville.
+[12] M. Loates a mentionné qu’il ne croyait pas qu’investir dans l’entreprise de services de consultation de Mme Somerville était une bonne idée. Il ne voulait pas grever d’une deuxième hypothèque le foyer matrimonial, la propriété de la rue Cochrane à l’époque. Il a affirmé que, pour éviter de mettre en péril les intérêts qu’il avait dans la propriété de la rue Cochrane, lui et Mme Somerville avaient signé une entente de partage des biens le 2 mars 2015, en se basant sur les connaissances que M. Loates avait en droit de la famille. En contrepartie du transfert du titre de la propriété de Howe Island par Mme Somerville, M. Loates renonçait à « sa part » dans la propriété de la rue Cochrane, qui était le foyer matrimonial à l’époque. Ils avaient alors évalué la « part » de M. Loates dans la propriété de la rue Cochrane à environ 276 000 $.
+[13] M. Loates a témoigné qu’il avait emprunté de l’argent à un dénommé M. Burke, un associé, pour faire les prêts à Mme Somerville. M. Loates s’est procuré d’autres fonds en vendant des œuvres d’art d’une valeur de 46 600 $. Il ne savait pas trop comment Mme Somerville utiliserait les prêts, ni comment elle les avait utilisés. Aucune modalité n’avait été fixée; les prêts avaient été faits de « bonne foi ». Jusqu’à ce jour, ni Mme Somerville, ni M. Loates n’avaient remboursé les montants dus à M. Burke.
+[14] M. Burke n’a pas témoigné. M. Loates n’a pu fournir aucun document concernant les prêts. M. Loates a déclaré qu’il s’était fié à son comptable, David Fluss, pour bien comptabiliser les prêts. M. Fluss est décédé subitement en 2011 ou en 2012. M. Loates a témoigné que, malgré de multiples tentatives, il n’avait pas été en mesure d’obtenir ses documents financiers du cabinet de M. Fluss. Par contre, M. Neeteson a affirmé que les prêts n’avaient jamais été portés à son attention par M. Loates lorsqu’ils ont communiqué ensemble au sujet de la vérification.
+B. Déposition de M. Neeteson [15] En 2008, M. Neeteson s’est vu attribuer le dossier de Mme Somerville.
+[16] En 2010, à la suite d’une recherche de titre, M. Neeteson a appris que la propriété de Howe Island avait été transférée à l’appelant.
+[17] M. Neeteson a déterminé que la propriété avait une valeur nette réelle à la date du transfert. Il a établi son calcul sur la valeur de la propriété (700 000 $) et il a soustrait de ce montant le solde de la première hypothèque qui figurait sur le titre à la date du transfert. Dans son calcul, M. Neeteson n’a pas tenu compte de l’hypothèque accessoire grevant la propriété de Howe Island comme une charge pour déterminer la valeur nette réelle de la propriété Howe Island ou la valeur marchande ou la contrepartie offerte pour celle-ci.
+[18] Dans une lettre datée du 26 octobre 2009, l’avocat de M. Loates a écrit à M. Neeteson pour lui donner des explications sur la vente des deux propriétés. La description corrobore essentiellement la déposition de M. Loates concernant l’arrangement avec Mme Somerville découlant de l’entente de partage des biens. M. Neeteson n’a pas jugé l’explication satisfaisante. Il n’a pas fait le suivi auprès de l’avocat.
+III. Règles de droit applicables [19] La décision faisant autorité relativement à l’article 160 de la Loi est l’arrêt Livingston c. Canada, 2008 CAF 89, 2008 DTC 6233 (Livingston). Plus précisément, au paragraphe 17, la Cour d’appel fédérale a affirmé ceci :
+Étant donné la signification claire des termes du paragraphe 160(1), les critères dont dépend le déclenchement de son application se révèlent évidents :
+1) L’auteur du transfert doit être tenu de payer des impôts en vertu de la Loi au moment de ce transfert.
+2) Il doit y avoir eu transfert direct ou indirect de biens au moyen d’une fiducie ou de toute autre façon.
+3) Le bénéficiaire du transfert doit être :
+i. soit l’époux ou conjoint de fait de l’auteur du transfert au moment de celui‑ci, ou une personne devenue depuis son époux ou conjoint de fait;
+ii. soit une personne qui était âgée de moins de 18 ans au moment du transfert;
+iii. soit une personne avec laquelle l’auteur du transfert avait un lien de dépendance.
+4) La juste valeur marchande des biens transférés doit excéder la juste valeur marchande de la contrepartie donnée par le bénéficiaire du transfert.
+[20] Dans Yates c. Canada, 2009 CAF 50, 2009 DTC 5062 (Yates), la Cour d’appel fédérale a examiné le libellé de l’article 160, par rapport au droit de la famille. Aux paragraphes 12 et 16, la juge Desjardins a déclaré que l’article 160 de la Loi était « incontestablement une mesure draconienne ». Toutefois, il ressort clairement, à la lecture de cette disposition, que la seule exception au paragraphe 160(1) est prévue au paragraphe 160(4). Le juge Blais, qui a souscrit aux motifs, a affirmé au paragraphe 67 que « [u]ne interprétation basée sur le langage clair du paragraphe 160(1) ne donne pas ouverture à une exception relative au droit de la famille […] ». Le juge Nadon, qui a également souscrit aux motifs, a expliqué au paragraphe 39 que la nature du transfert n’est pas un facteur pertinent pour déterminer si quelqu’un est assujetti aux dispositions du paragraphe 160(1) de la Loi.
+[21] Dans l’affaire Allen c. Canada, 2009 CCI 426, 2009 DTC 1292 (Allen”), la Cour a accepté, au paragraphe 39, que la proposition selon laquelle la date pertinente pour déterminer à quel moment la contrepartie est versée, relativement au quatrième critère de l’article 160, est la date du transfert, pas avant ni après.
+IV. Questions en litige [22] M. Loates ne conteste ni la dette fiscale, ni le transfert de la propriété, ni l’existence d’une relation avec lien de dépendance. Il conteste l’hypothèse du ministre voulant que la contrepartie qu’il a versée pour la propriété de Howe Island, qui a fait l’objet du transfert, soit inférieure à sa valeur marchande. Il soulève trois questions que devra trancher la Cour :
+a) Mme Somerville avait‑elle une dette envers M. Loates à la date du transfert et, le cas échéant, quel en était le montant (les « prêts compensés »)?
+b) M. Loates a-t-il fourni une contrepartie qui a pris la forme d’un échange de biens de valeur avec Mme Somerville, à la date du transfert (les « biens échangés »)?
+c) La propriété de Howe Island avait‑elle une valeur quelconque à la date du transfert (la « valeur nulle de la propriété transférée »)?
+V. Analyse [23] Les critères de Livingston à l’égard desquels il y a opposition ont trait aux questions de savoir si M. Loates a fourni une contrepartie égale à la valeur marchande de la propriété et si la propriété de Howe Island avait une valeur quelconque à la date du transfert. Chacun des trois arguments avancés par M. Loates porte à croire qu’il y a eu compensation d’une dette due, qu’un autre bien a été transféré en contrepartie ou que la propriété transférée n’avait aucune valeur.
+A. Prêts compensés [24] M. Loates, comme nous l’avons vu dans l’exposé des faits, soutient en premier lieu n’avoir tiré aucun avantage de la propriété transférée en raison des prêts qu’il avait consentis à Mme Somerville et qui totalisaient 294 600 $. Il s’était procuré ces fonds en empruntant une somme de 248 000 $ d’un associé, un dénommé M. Burke, et en vendant des œuvres d’art d’une valeur 46 600 $.
+[25] Pour ce qui est des prêts compensés faits à Mme Somerville et de la source des montants prêtés à M. Loates, il n’y a tout simplement aucune preuve. Ni Mme Somerville ni M. Burke n’ont témoigné, et aucun document bancaire, chèque annulé ou billet à ordre n’a été produit au procès. M. Neeteson a témoigné que M. Loates n’avait jamais soulevé la question des prêts compensés durant la vérification. Est peut‑être tout aussi révélatrice l’entente manuscrite de partage des biens, qui, aux dires de M. Loates, établissait les crédits et les débits en cours et le transfert de propriété entre les parties, sauf qu’il n’y est nullement fait mention du présumé remboursement des prêts compensés.
+[26] Indépendamment de ce dernier point, l’affirmation de M. Loates concernant l’existence des prêts compensés n’est étayée par aucune preuve documentaire de tiers ni par aucun témoignage de vive voix. Cette affirmation ne peut donc être retenue : Nandakumar c. La Reine, 2012 CCI 338, aux paragraphes 5 et 16(2).
+B. Biens échangés lors du transfert [27] En deuxième lieu, M. Loates affirme que l’entente de partage des biens constitue une preuve suffisante de la contrepartie qu’il a offerte en renonçant à la fois à ses droits en tant que conjoint et à ses droits relatifs au partage des biens prévus par la Loi sur le droit de la famille, L.R.O. 1990, chapitre F.3. Il prétend avoir renoncé à la propriété qui avait le plus de valeur, soit la propriété de la rue Cochrane (le foyer matrimonial), en échange d’un titre le désignant comme propriétaire unique de la propriété de Howe Island, qui avait moins de valeur (la propriété de loisirs). Cet argument repose sur la théorie selon laquelle sa renonciation avait une contrepartie évaluée à environ 276 000 $.
+[28] Cet argument ne peut non plus être retenu pour plusieurs raisons, la plus déterminante étant la décision de la Cour d’appel fédérale dans l’affaire Yates, précitée. La renonciation aux droits conjugaux prévus par contrat, même judicieusement évalués, prouvés et calculés avec précision, ne l’emporte pas sur la responsabilité conjointe du bénéficiaire du transfert à l’égard de la dette fiscale de l’auteur du transfert s’il est satisfait aux autres critères (Yates, aux paragraphes 16 et 67).
+[29] En outre, et quoique théorique, la logique applicable est simple. Mme Somerville était propriétaire en titre des deux propriétés. Ensemble, elles constituaient des biens familiaux, et toute répartition des biens devait tenir compte de la renonciation de Mme Somerville à ses droits sur la partie non grevée de la propriété de Howe Island, avant l’entente relative au partage des biens. De plus, M. Loates n’a fourni aucune preuve susceptible de corroborer la valeur relative des propriétés. Pour illustrer à quel point les valeurs proposées par M. Loates pouvaient être sans grande rigueur, mentionnons que la propriété de la rue Cochrane a finalement été vendue pour 800 000 $ en janvier 2006. Seulement huit mois après l’évaluation optimiste de M. Loates (1 000 000 $), cette propriété valait environ 200 000 $ de moins que ce qu’il avait estimé.
+[30] Enfin, l’entente relative au partage des biens ne fait état d’aucune valeur ni d’aucune renonciation à des droits précis et demeure totalement muette sur l’intention recherchée avec les transferts. De plus, il n’a été pas satisfait à l’obligation prévue au paragraphe 55(1) de la Loi sur le droit de la famille voulant que le contrat familial soit signé devant témoins. Même si ce critère n’est pas essentiel pour l’admission en preuve de l’entente relative au partage des biens dans le présent appel, l’absence de conformité à ce critère influe sur la pertinence, l’importance et l’objet de ce document. Qui plus est, rien n’indique que pareil transfert d’une somme globale reflétait une obligation récurrente, vitale et subsistante prévue par une ordonnance judiciaire ou une décision intéressant le partage des biens matrimoniaux : Yates, précité, au paragraphe 30. Par conséquent, il n’y a pas lieu d’écarter l’application de l’article 160 au motif que la contrepartie était un bien échangé, même si un véritable accord comporte des incohérences quant aux renonciations et à la contrepartie identifiable offerte : Allen, précité, au paragraphe 35.
+C. Valeur nulle de la propriété transférée [31] L’argument concernant la valeur nulle de la propriété transférée dépend de la question de savoir si l’hypothèque accessoire grevant la propriété de Howe Island influait sur sa valeur pour l’application des dispositions de l’article 160 et, le cas échéant, dans quelle mesure elle influait sur celle-ci. Si l’hypothèque accessoire grevant la propriété de Howe Island est entièrement comptabilisée comme une charge, on peut soutenir que cette propriété n’avait aucune valeur à la date du transfert; M. Loates n’aurait tiré aucun avantage puisque la juste valeur marchande était nulle et qu’aucune contrepartie ne devait être payée pour celle‑ci. L’avocat de l’intimée a accepté ce raisonnement qui a été avancé par la Cour. Par contre, s’il n’y a pas lieu de tenir compte de l’hypothèque accessoire grevant la propriété de Howe Island, c’est qu’elle avait une valeur à la date du transfert, et l’article 160 s’appliquerait au moins dans la mesure de la dette fiscale.
+[32] Une analyse de la valeur relative de la propriété de Howe Island et des charges peut être utile. Le ministre présume que la propriété de Howe Island valait 700 000 $ à la date du transfert. Sur le titre, était inscrite, à la date du transfert, une première hypothèque dont le solde se chiffrait à 414 735,11 $. L’hypothèque accessoire grevant la propriété de Howe Island avait été inscrite plusieurs jours avant la date de transfert pour un montant 311 850 $.
+[33] La dette prima facie constituée par les deux hypothèques, si elles sont entièrement incluses, dépasse la juste valeur marchande présumée de 700 000 $. À la date du transfert, le transfert inscrit à la page 1 du document indiquait une contrepartie de 730 083 $, montant inséré à la main dans la case 4, l’espace réservé à cette information. La page 2, qui présentait la déclaration sous serment concernant les droits de cession immobilière, comportait le même genre d’insertions indiquant des hypothèques présumées de 730 083 $ et une contrepartie totalisant le même montant. De plus, la déclaration sous serment de la page 2 indiquait également que la contrepartie était symbolique et expliquait qu’il s’agissait d’un acte de transfert entre [traduction] « un mari et sa femme motivé par leur amour et leur affection naturels ».
+[34] Il était évident durant la déposition de M. Loates qu’il ne comprenait pas bien la distinction entre ces déclarations contradictoires et les conséquences s’y rattachant. Assez curieusement, c’était le cas aussi pour M. Neeteson qui avait omis de prendre connaissance de la page 2 du document pendant son examen sommaire des titres même si le registre parcellaire qu’il a obtenu pour la propriété de Howe Island indiquait une contrepartie de 730 083 $. Peut‑être encore plus étonnant, M. Neeteson a omis d’examiner l’hypothèque accessoire grevant la propriété de Howe Island enregistrée le 3 mars 2005 (avant la date du transfert) parce que libération avait été donnée le 13 février 2006, soit après la date du transfert, mais avant sa recherche de titre. L’avocat de l’intimée, après avoir saisi l’incidence de ce point par suite des questions posées par la Cour, a affirmé que l’hypothèque accessoire grevant la propriété de Howe Island ne constituait pas la sûreté principale et ne devrait pas être déduite de la valeur présumée de la propriété de Howe Island qui se chiffrait à 700 000 $ selon le ministre.
+[35] Il est important pour le ministre, avant de décider d’attribuer une valeur nulle à une charge comme l’hypothèque accessoire grevant la propriété de Howe Island, d’adopter une approche équitable quant au moment choisi pour évaluer le bien et les charges enregistrées. L’avocat de l’intimée a précisé, à juste titre, que ces valeurs doivent être déterminées et attribuées à la date de transfert : Livingston, précité, au paragraphe 24. L’ARC ne peut pas faire abstraction des charges inscrites sur le titre à la date du transfert simplement parce qu’elles ont été libérées (et inscrites comme telles sur le registre parcellaire) subséquemment. Le ministre doit tenir compte de ces entraves sur le titre et évaluer la perte potentielle de valeur du bien à la date de son transfert.
+[36] Malgré cette erreur méthodologique de la part de l’intimée, il n’y a aucune conséquence en l’espèce. M. Loates a soutenu que, à la date du transfert, la propriété de la rue Cochrane valait 1 000 000 $. Elle a été vendue dix mois plus tard pour 800 000 $. Les prêts hypothécaires ont alors été remboursés en entier, et toute la garantie, l’hypothèque principale grevant la propriété de la rue Cochrane et l’hypothèque accessoire grevant la propriété de Howe Island, a été libérée. Le mot « garantie » est bien entendu employé au singulier tant du point de vue grammatical que du point de vue logique. Une même dette a été garantie par des charges grevant deux propriétés. L’hypothèque accessoire grevant la propriété de Howe Island était une dette contingente et son caractère accessoire allait de soi. Il est mentionné dans l’hypothèque accessoire grevant la propriété de Howe Island que la propriété de la rue Cochrane constituait la sûreté principale du prêt et que son remboursement et sa libération prouvaient la libération de l’hypothèque accessoire grevant la propriété de Howe Island.
+[37] Pour comprendre l’importance de la diminution de valeur de l’hypothèque accessoire grevant la propriété de Howe Island, il faut tenir compte de la valeur de la propriété de la rue Cochrane à la date du transfert. L’insuffisance de la valeur nette réelle de la propriété de la rue Cochrane à la date du transfert pour rembourser la deuxième hypothèque grevant la propriété de la rue Cochrane commandait que la propriété de Howe Island soit exigée en garantie par le prêteur.
+[38] Tel qu’il a été mentionné, la valeur de la propriété de la rue Cochrane à la date du transfert se chiffrait, compte tenu de l’admission de M. Loates et de son prix de vente, à au moins 800 000 $. Ce montant était plus élevé que toutes les charges enregistrées, y compris le plein montant de la deuxième hypothèque grevant la propriété de la rue Cochrane (à laquelle l’hypothèque accessoire sur la propriété de Howe Island était assortie). Compte tenu de cela, à la date de transfert, toute diminution de la valeur de la propriété de Howe Island attribuable à l’enregistrement de l’hypothèque accessoire grevant la propriété de Howe Island était pour le moins théorique. Par conséquent, l’hypothèse du ministre voulant que M. Loates ait tiré un avantage, pour lequel aucune contrepartie n’avait été payée, d’une valeur non moindre que le montant de la dette fiscale (158 058,27 $) demeure intacte. La propriété de Howe Island avait une valeur marchande présumée de 700 000 $ et une dette enregistrée, quantifiable et réalisable de quelque 414 000 $. Comme nous l’a enseigné la décision Livingston, c’est la valeur de l’avantage au moment du transfert qui importe et non la valeur d’une sûreté susceptible d’être réalisée à une date future si la valeur du bien changeait et si les droits virtuels de réalisation de la sûreté devenaient effectifs. Bref, l’hypothèque accessoire grevant la propriété de Howe Island n’a pas diminué sa valeur parce que la propriété de la rue Cochrane avait une valeur nette réelle plus que suffisante à la date du transfert pour permettre le remboursement de toute la garantie enregistrée sur celle‑ci.
+[39] Pour les motifs exposés précédemment, l’appel est rejeté et les dépens entre parties sont adjugés à l’intimée selon le tarif.
+Signé à Ottawa, Canada, ce 12e jour de février 2015.
+« R. S. Bocock »
+Juge Bocock
+Traduction certifiée conforme
+ce 28e jour de juillet 2015.
+Claude Mandeville, réviseure
+RÉFÉRENCE :
+2015 CCI 30
+NO DE DOSSIER DE LA COUR :
+2012-1517(IT)G
+INTITULÉ :
+M. BERNARD LOATES ET SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Ottawa (Ontario)
+DATE DE L’AUDIENCE :
+Le 8 décembre 2014
+MOTIFS DE JUGEMENT MODIFIÉS :
+L’honorable juge Randall S. Bocock
+DATE DU JUGEMENT :
+Le 6 février 2015
+DATE DES MOTIFS DE JUGEMENT MODIFIÉS :
+Le 12 février 2015
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui‑même
+Avocat de l’intimée :
+Jack Warren
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+S.O.
+Cabinet :
+Pour l’intimée :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada

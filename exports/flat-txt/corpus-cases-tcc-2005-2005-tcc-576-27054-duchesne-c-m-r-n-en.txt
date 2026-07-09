@@ -1,0 +1,190 @@
+Title: Duchesne c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27054/index.do
+Corpus path: corpus/cases/tcc/2005/2005-tcc-576-27054-duchesne-c-m-r-n-en.md
+Document type: case_law
+Last modified: 2005-09-06
+
+# Duchesne c. M.R.N.
+
+- Citation: 2005 TCC 576
+- Decision date: 2005-09-06
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 600, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Duchesne c. M.R.N.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-09-06
+Neutral citation
+2005 TCC 576
+File numbers
+2005-890(EI)
+Judges and Taxing Officers
+Alain Tardif
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2005-890(EI)
+BETWEEN:
+LIZIA DUCHESNE,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard together with the appeal of Entretien Lucie Jean (2005-893(EI))
+on August 18, 2005, at Chicoutimi, Quebec.
+Before: The Honourable Judge Alain Tardif
+Appearances:
+Agent for the Appellant:
+Lucie Jean
+Counsel for the Respondent:
+Me Martin Gentile
+____________________________________________________________________
+JUDGMENT
+The appeal under subsection 103(1) of the Employment Insurance Act is dismissed and the decision of the Minister of National Revenue is confirmed, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 6th day of September 2005.
+"Alain Tardif"
+Judge Tardif
+Docket: 2005-893(EI)
+BETWEEN:
+ENTRETIEN LUCIE JEAN,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard together with the appeal of Lizia Duchesne (2005-890(EI))
+on August 18, 2005, at Chicoutimi, Quebec.
+Before: The Honourable Judge Alain Tardif
+Appearances:
+Agent for the Appellant:
+Lucie Jean
+Counsel for the Respondent:
+Me Martin Gentile
+____________________________________________________________________
+JUDGMENT
+The appeal under subsection 103(1) of the Employment Insurance Act is dismissed and the decision of the Minister of National Revenue is confirmed, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 6th day of September 2005.
+"Alain Tardif"
+Judge Tardif
+Citation: 2005CCI576
+Date: 20050906
+Docket: 2005-890(EI)
+BETWEEN:
+LIZIA DUCHESNE,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+Docket: 2005-893(EI)
+BETWEEN:
+ENTRETIEN LUCIE JEAN,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGMENT
+Judge Tardif
+[1] The two appeals concern work allegedly performed by the appellant, Lizia Duchesne, during the period from May 24 to October 29, 2004, for Entretien Lucie Jean, a business whose sole proprietor was the appellant's mother.
+[2] Since the appeals concern the same work and the appellants are the two persons concerned by the work, it was agreed that the hearing would proceed on common evidence.
+[3] As the assumptions of fact relied upon to justify the Minister's decision are substantially the same in the two cases, I shall reproduce only those set out in the case of the appellant, Entretien Lucie Jean (2005-893(EI)). The assumptions of fact are as follows:
+[translation]
+(5) The appellant and the worker are related persons within the meaning of the Income Tax Act because
+(A) the appellant was the sole proprietor of the business; (admitted)
+(B) the appellant is the worker's mother; (admitted)
+(6) The Minister determined that the appellant and the worker did not deal at arm's length in the course of the employment. The Minister was satisfied that it was not reasonable to conclude that the appellant and the worker would have entered into a substantially similar contract of employment if they had been dealing with each other at arm's length, in view of the following circumstances:
+(a) the appellant registered the trade name of "Entretien Lucie Jean" on May 4, 2004; (admitted)
+(b) the appellant operated a janitorial business;(admitted)
+(c) during the period at issue, the appellant had three customers: Ameublement Tanguay, Industrie G.M.I. Inc. and Entreprise Chal-Pol; (admitted)
+(d) the worker was hired as a janitorial employee; (admitted)
+(e) the worker claims that she worked solely on the premises of Ameublement Tanguay because the other two customers were factories and she did not want to be exposed to chemical products as she was pregnant with twins during the period at issue, whereas the appellant claims that the worker worked on the premises of her three customers for six hours a day; (denied as written)
+(f) according to the worker, her duties consisted of vacuuming the carpets, dusting the offices, cleaning the washrooms and dining rooms and washing the glass on the entrance doors; (admitted)
+(g) according to the appellant, the worker worked from Monday to Thursday and on Sundays whereas the worker said that she worked from Monday to Friday; (no knowledge)
+(h) according to the appellant, the worker's work at Ameublement Tanguay took two people three hours a day whereas, according to the worker, the work at Ameublement Tanguay took two people six hours a day; (denied as written)
+(i) according to the appellant and according to the worker, the worker provided her services six hours a day for a 30-hour work week but, in reality, the worker worked only fifteen hours a week; (denied)
+(j) according to Laval Côté of Ameublement Tanguay, it was Lucie Jean and her son Luc who did the cleaning; (denied as written)
+(k) according to the appellant, the worker was paid at the janitorial joint committee hourly rate, i.e., $11.90; (admitted)
+(l) the worker's hours of work were not recorded; (denied)
+(m) the appellant entered the worker on the payroll for twenty-two 30-hour work weeks and one 24-hour work week irrespective of the hours actually worked by the worker; (denied as written)
+(n) the worker allegedly received a weekly paycheque of $357 gross, and this included the 30-hour work week; (admitted)
+(o) in the course of the respondent's investigation, the appellant did not prove that the worker was paid in full for her services;
+(p) during the 23 weeks of the period at issue, the worker received only four paycheques from the appellant;
+(q) on January 28, 2005, Yvan Bouchard, the appellant's accountant, declared that the business had no money to pay the worker;
+(r) on October 29, 2004, the worker quit the appellant to go on maternity leave and gave birth on December 10, 2004; (admitted)
+(s) on October 29, 2004, the appellant gave the worker a Record of Employment that showed May 24, 2004, as the first day of work and October 29, 2004, as the last day of work, and indicated 690 insurable hours and $8,211.00 in insurable earnings; (admitted)
+(t) the worker's Record of Employment is not consistent with the real situation insofar as the number of hours worked and the remuneration were concerned; (denied as written)
+(u) a person who did not deal at arm's length would not have been remunerated or enjoyed terms and conditions of employment similar to those of the worker.
+[4] Lucie Jean, the sole proprietor of the business operated under the name of Entretien Lucie Jean, and her daughter Lizia Duchesne appeared very nervous and even somewhat overwhelmed by the events.
+[5] The tribunal explained the procedure in detail and, most importantly, the requirements for the evidence that they were to submit.
+[6] Since Lucie Jean was unable to provide detailed explanations of all the facts, circumstances and terms and conditions governing the performance of the work, Lizia Duchesne quickly took over from her mother and described the work that she had done.
+[7] She explained the context and circumstances of her hiring. Despite numerous interventions by the court, the evidence largely consisted of the testimony of Lizia Duchesne and was very succinct and, in short, incomplete.
+[8] The testimony, which was already deficient, was not supported by any documentation. Moreover, the explanations were vague and even ambiguous. I am speaking in particular of the explanation for the payment of the remuneration. According to the appellant, she was paid every week. However, the accountant mentioned only four cheques, the business, in his opinion, lacking the wherewithal to pay her salary. The accountant did not testify, however. Questions to clarify the statement made by the accountant during the investigation did not elicit a clear response on this very crucial aspect.
+[9] There was just as much ambiguity when it came time to specify the location and nature of Lizia Duchesne's work.
+[10] The respondent called Diane Savard as a witness. She had handled the first-level determination. She testified about various conversations with the appellant and her mother and representatives of Ameublement Tanguay.
+[11] Having found contradictions on crucial points and particularly with respect to the hours required to perform the work and the locations where the work had been performed, Ms. Savard recommended that the work be excluded from insurable employment under paragraph 5(2)(i) of the Employment Insurance Act (the "Act").
+[12] Not satisfied with this determination, the appellants each filed a notice of appeal, following which the case was reviewed byFrance Vigneault in her capacity as appeals officer.
+[13] Ms. Vigneault reinvestigated and analysed the case; she, too, noted a number of contradictions to which she referred in her report, CPT110, as follows (Exhibit I-3, - table at page 6):
+Worker
+- When she began to work for her mother, she did not know that she was pregnant. (#5)
+- the worker had experience in this work. (#6)
+- Elle cleaned only at Ameublement Tanguay. (#8)
+- She said that Pierre Gaudreault was a very good friend of her mother and that he had passed on to her the maintenance contract with Ameublement Tanguay. (#6)
+Payor
+- When she hired her daughter, she knew that her daughter was pregnant. (#32)
+- The worker had no experience in this work. (#45)
+- Lizia Duchesne cleaned for three of the customers of the business. (#34)
+- She said that, when her business commenced operations, she went looking for new customers herself and that she had never taken over any previous contracts. (#27)
+- Her work schedule was from Monday to Friday (#12)
+- She worked from Monday to Friday and on Sunday morning. (#40)
+- The cleaning at Ameublement Tanguay took two people 6 hours in the evening. (#12)
+- The cleaning at Ameublement Tanguay took two people 3 hours in the evening. (#37)
+[14] Ms. Vigneault also made a number of observations in the exercise of her discretion under paragraph 5(3)(b) of the Act. For each criterion listed she made the following observations:
+Remuneration paid
+Lizia Duchesne's salary was $357 gross a week and she was paid by cheque. We obtained the payroll covering the period from May 24, 2004, to October 30, 2004, which corresponds to a duration of employment of 23 weeks. However, we received only four paycheques out of a potential twenty-three. Thus, we have no confirmation that Lizia Duchesne was really paid for all the weeks in the period at issue.
+Terms and conditions of employment
+The two parties provided different versions of the worker's work schedule. Furthermore, the worker said that she had worked only at Ameublement Tanguay, while the payor said that her daughter had also worked for two other customers, Industrie G.M.I. Inc. and Entreprise Chal-Pol. Accordingly, it cannot be claimed that any control was exercised over Lizia Duchesne's work.
+Nature and importance
+According to the information received from Laval Côté, Lucie Jean worked doing cleaning at Ameublement Tanguay with her son Luc, but he cannot confirm if Lucie Jean's daughter worked there. He estimated that the time required for two people to clean the business was between three and four hours a day.
+[15] From the facts presented and the different versions, the respondent concluded that a person dealing at arm's length would clearly not have entered into a similar contract of employment.
+[16] Having heard the testimony of Lizia Duchesne and her mother, Lucie Jean, I found nothing that could cast doubt on the quality of the respondent's work. Everyone concerned was contacted, they were asked the right questions and the answers that were obtained governed the determinations that were made, which, under the circumstances, were justified and reasonable.
+[17] There is, therefore, no reason to substitute myself for the Minister and to reanalyse the facts and circumstances that led to his decision; the evidence presented by the appellant, Lizia Duchesne, and her mother as the owner of the business added absolutely nothing new that could in any way cast doubt on the quality of the respondent's investigation.
+[18] To discharge the burden of proof, it is not enough to deny the assumptions of fact; the explanations submitted in relation to the evidence must be complete, credible, plausible and, ideally, supported and confirmed by sufficiently reliable evidence.
+[19] In the case at issue, the appellants unfortunately did not adduce such evidence; what is more, the evidence that they did produce was incomplete and totally deficient.
+[20] For all these reasons, I must dismiss the appeals and confirm the Minister's decision, which is well founded.
+Signed at Ottawa, Canada, this 6th day of September 2005.
+"Alain Tardif"
+Judge Tardif
+CITATION:
+2005CCI576
+COURT FILES NOS.:
+2005-890(EI) et 2005-893(EI)
+STYLES OF CAUSE:
+Lizia Duchesne v. MNR and
+Entretien Lucie Jean v. MNR
+PLACE OF HEARING:
+Chicoutimi, Quebec
+DATE OF HEARING:
+August 18, 2005
+REASONS FOR JUDGMENT BY:
+The Honourable Judge Alain Tardif
+DATE OF THE JUDGMENTS:
+September 6, 2005
+APPEARANCES:
+Agent for the Appellants:
+Lucie Jean
+Counsel for the Respondent:
+Me Martin Gentile
+COUNSEL OF RECORD:
+For the appellants:
+For the respondent:
+John H. Sims, Q.C., Deputy Minister of Justice
+and Deputy Attorney General of Canada
+Ottawa, Canada

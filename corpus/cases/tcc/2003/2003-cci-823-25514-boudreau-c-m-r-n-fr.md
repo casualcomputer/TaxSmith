@@ -1,0 +1,225 @@
+---
+title: "Boudreau c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25514/index.do"
+last_modified: "2003-11-24"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 CCI 823"
+citation2: ""
+neutral_citation: "2003 CCI 823"
+decision_date: "2003-11-24"
+language: "fr"
+item_id: "25514"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2372
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T18:29:39.578000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "1735ed9e2e958196ba7310556a8bb7404cb18edb262bdf226268be8e28f43c3f"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Boudreau c. M.R.N.
+
+- Citation: 2003 CCI 823
+- Decision date: 2003-11-24
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2372, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Boudreau c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-11-24
+Référence neutre
+2003 CCI 823
+Numéro de dossier
+2003-746(EI)
+Juges et Officiers taxateurs
+Cameron Hugh McArthur
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2003-746(EI)
+ENTRE :
+DENIS BOUDREAU,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+____________________________________________________________________
+Appel entendu sur preuve commune avec l'appel de Marguerite Comeau
+(2003-747(EI)) le 10 juillet 2003 à Bathurst (Nouveau-Brunswick)
+Devant : L'honorable juge C.H. McArthur
+Comparutions :
+Avocat de l'appelant :
+Me Terrence Lenihan
+Avocate de l'intimé :
+Me Stéphanie Côté
+____________________________________________________________________
+JUGEMENT
+L'appel en vertu du paragraphe 103(1) de la Loi sur l'assurance emploi est rejeté et la décision rendue par le Ministre, relativement à l'appel interjeté devant lui en vertu de l'article 91 de cette Loi, est confirmée, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, le 24e jour de novembre 2003.
+« C. H. McArthur »
+Juge McArthur
+Dossier : 2003-747(EI)
+ENTRE :
+MARGUERITE COMEAU,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+____________________________________________________________________
+Appel entendu sur preuve commune avec l'appel de Denis Boudreau
+(2003-746(EI)) le 10 juillet 2003 à Bathurst (Nouveau-Brunswick)
+Devant : L'honorable juge C.H. McArthur
+Comparutions :
+Avocat de l'appelante :
+Me Terrence Lenihan
+Avocate de l'intimé :
+Me Stéphanie Côté
+____________________________________________________________________
+JUGEMENT
+L'appel en vertu du paragraphe 103(1) de la Loi sur l'assurance emploi est rejeté et la décision rendue par le Ministre, relativement à l'appel interjeté devant lui en vertu de l'article 91 de cette Loi, est confirmée, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, le 24e jour de novembre 2003.
+« C. H. McArthur »
+Juge McArthur
+Citation: 2003CCI823
+Date: 20031124
+Dossier : 2003-746(EI)
+ENTRE :
+DENIS BOUDREAU,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+Dossier : 2003-747(EI)
+ET ENTRE :
+MARGUERITE COMEAU,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+MOTIFS DU JUGEMENT
+Le juge McArthur
+[1] Il s'agit d'appels portant sur l'assurabilité du travail effectué par l'appelant Denis Boudreau et l'appelante Marguerite Comeau durant les périodes allant du 7 octobre 2001 au 5 janvier 2002 dans le cas de Denis Boudreau et du 6 janvier 2002 au 6 avril 2002 dans le cas de Marguerite Comeau. Les appels couvrent, ensemble, une période allant du 7 octobre 2001 au 6 avril 2002.
+[2] Une preuve commune a été présentée pour les deux appels.
+[3] Le travail en litige a été effectué pour le compte et pour le bénéfice de la compagnie Dalhousie Island Lake Club Inc. (la « payeuse » ). La preuve a établi que la payeuse exploitait un club de chasse et pêche dans la région de Dalhousie au Nouveau-Brunswick.
+[4] En refusant de reconnaître que l'emploi de l'appelant était un emploi assurable au sens de la Loi sur l'assurance-emploi (la « Loi » ), le ministre du Revenu national (le « Ministre » ) s'est fondé sur les faits suivants :
+a) la payeuse est une société à but non lucratif incorporée le ou vers le 13 mai 1986;
+b) la payeuse consiste en un club de chasse et pêche de 300 membres environ, localisé à environ 30 milles en forêt dans la région de Dalhousie;
+c) la payeuse est dirigée par un comité de huit personnes;
+d) la payeuse possède un bâtiment principal avec un bar et une cuisine ainsi que six cabines disponibles pour la location;
+e) l'emplacement est occupé surtout l'été et l'automne; il est aussi fréquenté en hiver par les motoneigistes qui y viennent surtout les fins de semaines;
+f) la payeuse engage des concierges à l'année longue pour la surveillance et le maintien du campement, dont l'appelant et sa conjointe, Marguerite Comeau;
+g) pour les concierges, la payeuse fournit une chambre avec accès à une cuisine, une salle de bains et une laveuse: la payeuse ne fournit pas de sécheuse ni de nourriture;
+h) l'appelant et sa conjointe demeurent sur place pendant six mois à chaque année, y compris pendant la période en litige;
+i) pendant la période en litige, l'appelant et sa conjointe demeuraient tous les deux au campement à temps plein;
+j) pendant la période en litige, l'appelant et sa conjointe se partageaient les tâches qui consistaient à s'occuper de la location des chalets, faire le ménage du bâtiment principal, la vaisselle, et servir au bar;
+k) la nourriture, le nettoyage des cabines de location, ainsi que la surveillance pendant les évènements sociaux du club sont faites [sic] par des bénévoles et non par les concierges;
+l) en ce qui concerne la période en litige, l'appelant était rémunéré du 6 octobre 2001 au 5 janvier 2002 et recevait un salaire hebdomadaire de 486,60$ pour les 3 premières semaines et 525,00$ par la suite;
+m) la conjointe de l'appelant était rémunérée du 6 janvier 2002 au 6 avril 2002 et recevait un salaire hebdomadaire de 525,00$
+n) quelqu'un d'autre a remplacé l'appelant et sa conjointe à partir du 7 avril 2001 [sic] pour les 6 mois suivants;
+o) le même arrangement existait depuis plusieurs années entre l'appelant, sa conjointe et la payeuse;
+p) les modalités d'emploi constituent un arrangement artificiel afin de permettre à la payeuse d'obtenir 2 travailleurs pour le salaire d'une personne alors que l'autre personne bénéficiait des prestations d'assurance-emploi; et
+q) l'appelant et la payeuse ont démontré un intérêt commun lors des négociations pour les conditions de travail[1].
+[5] Initialement, l'intimé soutenait qu'il existait un lien de dépendance entre les appelants et la payeuse et que par conséquent, il s'agissait d'emplois qui étaient exclus selon l'alinéa 5(2)i) de la Loi. Une modification a été apportée à la Réponse à l'avis d'appel, de sorte que l'intimé soutenait désormais que les emplois des appelants n'étaient pas des emplois assurables au sens de l'alinéa 5(1)a) de la Loi. Les emplois des appelants n'auraient pas été exercés aux termes d'un contrat de louage de services.
+[6] L'intimé est d'avis que la payeuse et les appelants avaient fait des arrangements visant à tirer avantage de la Loi. Les modalités des contrats ne refléteraient donc pas la réalité. En théorie, l'appelant et l'appelante travaillaient chacun trois mois et étaient payés individuellement pour ces trois mois. Les périodes de trois mois étaient consécutives de sorte que, lorsque l'appelant exécutait son travail, sa conjointe (l'appelante) était sur les lieux, et inversement. Cependant, l'appelante avait affirmé à l'enquêteur de l'Agence des douanes et du revenu du Canada, avant de connaître la décision concernant leurs emplois, que même après que leur période respective de trois mois était écoulée, ils continuaient chacun à faire les mêmes tâches. En réalité, la payeuse obtenait 80 heures de travail par semaine pour le prix de 40 heures pendant six mois (40 heures travaillées par l'appelant et 40 heures travaillées par l'appelante). Les 40 autres heures étaient payées par l'assurance-emploi. Cet arrangement visant à tirer profit de la Loi avait pour effet, d'après l'intimé, de vicier le contrat de louage de services et puisqu'il était vicié, il ne s'agirait pas d'emplois assurables au sens de la Loi.
+[7] Les appelants affirment qu'il s'agissait bel et bien de contrats de louage de services. Le camp de chasse et pêche était situé au beau milieu des bois et avait une valeur de près de 800 000 $. La payeuse devait embaucher un couple à titre de concierges puisqu'il était essentiel que quelqu'un soit présent en tout temps, autrement, les risques de feu et de vol auraient été trop importants. De plus, les heures travaillées par les appelants au-delà de leurs 40 heures par semaine constituaient du bénévolat de leur part.
+[8] L'appelant et l'appelante exerçaient-ils des emplois assurables au sens de la Loi?
+[9] L'alinéa 5(1)a) de la Loi est rédigée comme suit :
+Sous réserve du paragraphe (2), est un emploi assurable :
+a) l'emploi exercé au Canada pour un ou plusieurs employeurs, aux termes d'un contrat de louage de services ou d'apprentissage exprès ou tacite, écrit ou verbal, que l'employé reçoive sa rémunération de l'employeur ou d'une autre personne et que la rémunération soit calculée soit au temps ou aux pièces, soit en partie au temps et en partie aux pièces, soit de toute autre manière.
+[10] Afin de déterminer si un travailleur était employé aux termes d'un contrat de louage de services, il convient de se référer aux critères établis dans l'arrêt Wiebe Door Services v. M.R.N.[2]. Ces critères sont : (i) le critère du contrôle, (ii) la propriété des instruments de travail, (iii) les chances de bénéfice et les risques de perte, et (iv) le critère de l'intégration. La Cour Suprême du Canada, dans l'arrêt 671122 Ontario Ltd. c. Sagaz Industries Canada Inc.[3],a confirmé l'actualité de ces critères tout en ajoutant qu'il ne s'agit pas là d'une liste exhaustive et que les tribunaux ne doivent pas appliquer ces critères aveuglément. Il importe de ne pas perdre de vue la réalité. Par conséquent, bien d'autres facteurs pourront servir à déterminer si l'emploi était exercé aux termes d'un contrat de louage de services.
+[11] Il y a un courant jurisprudentiel selon lequel une fausse présentation de la réalité faite dans le but de tirer profit de la Loi a pour effet que l'emploi ne saurait être considéré comme ayant été exercé aux termes d'un contrat de louage de services. Voici ce que différents juges ont dit sur le sujet :
+[12] L'honorable juge Tardif, dans l'affaire Thibeault c. Canada[4], a affirmé :
+Un véritable emploi est un emploi rémunéré selon les conditions du marché et qui contribue de façon réelle et positive à l'avancement et au développement de l'entreprise qui assume le salaire payé en contrepartie du travail exécuté. Il s'agit là d'éléments essentiellement économiques laissant peu ou pas de place à la générosité, à la compassion.
+[...]
+Certes, il n'est ni illégal, ni répréhensible d'organiser ses affaires pour profiter de la mesure sociale qu'est le régime de l'assurance-chômage, à la condition expresse que rien ne soit maquillé, déguisé ou organisé et que la venue des bénéfices surviennent [sic] à la suite d'événements sur lesquels le bénéficiaire n'a pas le contrôle. Lorsque l'importance du salaire ne correspond pas à la valeur économique des services rendus, lorsque les débuts et les fins des périodes s'avèrent coïncider avec la fin de la période de paiement et la durée de la période de travail coïncidant à son tour, avec le nombre de semaines requises pour se qualifier à nouveau, cela a pour effet de soulever des doutes très sérieux sur la vraisemblance du contrat de travail. Lorsque les hasards sont nombreux et exagérés, cela risque de créer une présomption à l'effet que les parties ont convenu d'un arrangement artificiel pour permettre aux parties de profiter des bénéfices[5].
+Cette décision du juge Tardif a été confirmée par la Cour d'appel fédérale puisque, le 15 juin 2000, celle-ci a rejeté, avec dépens, les demandes de contrôle judiciaire.
+[13] Le juge Tardif a poursuivi son analyse dans la décision Laverdière c. Canada,[6] en disant :
+Certes, un contrat de travail peut prévoir, tout en étant légal et légitime, toutes sortes d'autres conditions dont une rémunération beaucoup supérieure à la valeur du travail exécuté ou inversement; certains contrats peuvent même être à titre gratuit. Une prestation de travail peut être exécutée dans le cadre d'une opération de bénévolat. Il est possible d'imaginer toutes sortes d'hypothèses et de scénarios.
+Tout contrat de travail prévoyant des particularités est généralement opposable aux seules parties contractantes et ne lie en rien les tiers, dont l'intimé.
+Il en est ainsi au niveau de toute entente ou arrangement dont le but et objectif est d'étaler ou cumuler la rémunération due ou être due de manière à tirer avantage des dispositions de la Loi. Toute planification ou entente qui maquille ou altère les faits relatifs à la rétribution, dans le but de maximiser les bénéfices de la Loi, disqualifie le contrat de louage de services.[7]
+Enfin, dans la décision Duplin c. Canada,[8] il a ajouté :
+Entre elles, les parties peuvent convenir de ce qu'elles veulent, mais l'intimé n'est aucunement tenu de respecter ou accepter les formules retenues. L'assurabilité d'un travail doit répondre à certaines conditions fondamentales. Dans certains cas, même si les parties se sont entendues ou ont imposé certaines conditions ou particularités, cela n'est aucunement opposable à l'endroit des tiers, dont l'intimé.
+Seuls les faits réels doivent être pris en considération pour déterminer s'il a existé ou non un véritable contrat de louage de services. Souvent, les faits ont été falsifiés, maquillés ou même occultés d'où le Tribunal doit s'en remettre à l'ensemble de la preuve offerte disponible. Les seuls faits et éléments pertinents sont ceux relatifs à la prestation de travail, à la rémunération et à la présence ou non d'un lien de subordination.
+En d'autres termes, la volonté des parties à une entente de travail n'est aucunement déterminante pour la qualification d'un contrat de travail en contrat de louage de services. Il s'agit essentiellement d'un élément parmi beaucoup d'autres.[9]
+[14] Le juge Charron, dans la décision Martineau c. Canada,[10] a pour sa part affirmé :
+Toute entente ou arrangement prévoyant des modalités de paiement de la rétribution non pas en fonction du temps ou de la période d'exécution du travail rémunéré, mais en fonction d'autres objectifs tels tirer avantage des dispositions de la Loi, vicie la qualité du contrat de louage de services.
+En outre, il n'y a pas de place pour d'autres considérations telles la générosité ou la complaisance. On a souvent indiqué que l'assurance-chômage est une mesure sociale pour venir en aide à ceux qui perdent vraiment leur emploi et non un programme de subvention pour venir en aide à l'entreprise, ou pour avantager des bénéficiaires qui déforment ou modifient la structure et les modalités de paiement de la rétribution que commande leur prestation de travail.
+Toute entente ou arrangement relatif au cumul ou à l'étalement a pour effet de vicier le contrat de louage de services, d'autant plus que cela crée une relation contractuelle peu ou pas propice à l'existence d'un lien de subordination, composante essentielle d'un contrat de louage de services[11].
+[15] Il revient aux appelants de convaincre la Cour que le Ministre a commis une erreur en concluant qu'ils n'exerçaient pas des emplois assurables au sens de la Loi.
+[16] En l'espèce, les appelants ne nient aucune des hypothèses de faits du Ministre, si ce n'est celle selon laquelle « les modalités d'emploi constituent un arrangement artificiel afin de permettre à la payeuse d'obtenir 2 travailleurs pour le salaire d'une personne alors que l'autre personne bénéficiait des prestations d'assurance-emploi » [12]. Les appelants soutiennent que l'arrangement était ainsi fait en raison de circonstances particulières tenant à l'isolement du camp de chasse et pêche.
+[17] D'une part, nous avons les témoignages de l'appelant et de l'appelante. Notons que l'appelante a, sur certains points, modifié sa version des faits lorsque le Ministre a refusé de reconnaître son emploi comme un emploi assurable. D'autre part, nous avons un arrangement qui, curieusement, donne la nette impression qu'on tentait de profiter à tort de la Loi. Il est permis, certes, de tirer profit de la Loi. Il n'est toutefois pas permis de fausser la réalité pour en tirer profit. La payeuse aurait pu payer aux appelants un salaire hebdomadaire de 262,50 $ chacun pendant les six mois. La réalité a démontré que les deux concierges, l'appelant et l'appelante, travaillaient pendant les deux périodes de trois mois. En conséquence, la réalité est qu'ils gagnaient chacun 262,50 $ par semaine pour 40 heures de travail. Or, ce n'est pas là ce dont la payeuse et les appelants sont convenus et même s'il en avait été autrement, les appelants n'auraient pas été admissibles aux prestations d'assurance-emploi puisqu'ils n'auraient pas été sans emploi. S'ils y avaient été admissibles malgré tout, à tout le moins les prestations auraient été moindres puisque le salaire qu'ils auraient reçu aurait été inférieur.
+[18] Les faits m'amènent à conclure qu'il est plus probable que les modalités d'emploi ont été conçues pour tirer artificiellement profit de la Loi. D'après la jurisprudence, lorsque telle est la situation, le contrat de louage de services est vicié. Puisque le contrat de louage de services est vicié, il ne saurait être question d'un emploi assurable au sens de l'alinéa 5(1)a) de la Loi. Il devait y avoir une preuve prépondérante établissant que les appelants exerçaient des emplois assurables. Ces derniers ne se sont pas acquittés du fardeau de la preuve qui leur incombait.
+[19] Les appels sont donc rejetés.
+Signé à Ottawa, Canada, le 24e jour de novembre 2003.
+« C. H. McArthur »
+Juge McArthur
+RÉFÉRENCE :
+2003CCI823
+Nos DES DOSSIERS DE LA COUR :
+2003-746(EI) et 2003-747(EI)
+INTITULÉS DES CAUSES :
+Denis Boudreau et Marguerite Comeau
+et le Ministre du Revenu National
+LIEU DE L'AUDIENCE :
+Bathurst (Nouveau-Brunswick)
+DATE DE L'AUDIENCE :
+le 10 juillet 2003
+MOTIFS DE JUGEMENT PAR :
+l'honorable juge C. H. McArthur
+DATE DU JUGEMENT :
+le 24 novembre 2003
+COMPARUTIONS :
+Pour les appelants :
+Me Terrence Lenihan
+Pour l'intimé :
+Me Stéphanie Côté
+AVOCAT INSCRIT AU DOSSIER:
+Pour les appelants :
+Nom :
+Me Terrence Lenihan
+Étude :
+Ville :
+Byrne Lenihan Assoc.
+(Avocats & Notaires)
+Bathurst (Nouveau-Brunswick)
+Pour l'intimé :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Réponse à l'avis d'appel, dossier 2003-746(EI) au paragraphe 5.
+[2] [1986] 3 C.F. 553.
+[3] [2001] 2 R.C.S. 983.
+[4] [1998] A.C.I. no 690 (Q.L.).
+[5] Ibid., aux paragraphes 22 et 29.
+[6] [1999] A.C.I no 124 (Q.L.).
+[7] Ibid., aux paragraphes 48 à 50.
+[8] [2001] A.C.I. no 136 (Q.L.).
+[9] Ibid., aux paragraphes 28 à 30.
+Il importe de préciser que la Cour d'appel fédérale considère qu'il est redondant d'employer l'expression « véritable contrat de louage de services » , comme l'a fait le juge Tardif dans Duplin :
+Il est peut-être redondant d'employer le mot « véritable » pour qualifier le mot « contrat » dans ce contexte, mais cela ne veut pas dire qu'un critère juridique non prévu par la loi est employé. À mon avis, l'alinéa 3(1)a) laisse implicitement entendre le caractère « véritable » du contrat de louage de services. Ainsi, si l'existence de pareil contrat est alléguée et si l'allégation est rejetée parce que l'on ne croit pas la preuve, ou parce qu'un document dans lequel les conditions du contrat sont censément énoncées n'est pas un document véritable, il faut conclure qu'aucun contrat de louage de services n'a été passé. Cette conclusion est peut-être mieux énoncée dans ces termes, mais il ne serait pas inexact de dire qu'aucun contrat de louage de services véritable n'a été passé. [ Candor Enterprises Ltd. c. Canada, [2000] A.C.F. no 2110 (Q.L.), au paragraphe 23 .]
+[10] [2000] A.C.I. no 270 (Q.L.).
+[11] Ibid., aux paragraphes 11 à 13.
+[12] Réponse à l'avis d'appel, dossier 2003-746(EI) à l'alinéa 5p).

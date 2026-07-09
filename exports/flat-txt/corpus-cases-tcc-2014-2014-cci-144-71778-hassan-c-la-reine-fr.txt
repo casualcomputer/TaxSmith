@@ -1,0 +1,134 @@
+Title: Hassan c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/71778/index.do
+Corpus path: corpus/cases/tcc/2014/2014-cci-144-71778-hassan-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2014-05-13
+
+# Hassan c. La Reine
+
+- Citation: 2014 CCI 144
+- Decision date: 2014-05-13
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5374, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Hassan c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2014-05-13
+Référence neutre
+2014 CCI 144
+Numéro de dossier
+2013-4565(IT)I
+Juges et Officiers taxateurs
+Patrick J. Boyle
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2013-4565(IT)I
+ENTRE :
+NARUL HASSAN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 9 avril 2014 à Toronto (Ontario).
+Devant : L’honorable juge Patrick Boyle
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimée :
+Me Leslie Ross
+JUGEMENT
+Conformément aux motifs rendus oralement à l’audience (dont une copie est annexée aux présents motifs), l’appel interjeté à l’encontre de la nouvelle cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2009 est rejeté au motif que l’appelant n’a pas droit à des crédits d’impôt à l’égard d’un don de bienfaisance de 25 000 $ soi-disant fait au cours de l’année d’imposition 2009.
+LA COUR ORDONNE EN OUTRE que l’appelant verse à l’intimée des dépens de 300 $.
+Signé à Ottawa, Canada, ce 13e jour de mai 2014.
+« Patrick Boyle »
+Juge Boyle
+Traduction certifiée conforme
+ce 14e jour de juillet 2014.
+S. Tasset
+Dossier : 2013-4565(IT)I
+ENTRE :
+NARUL HASSAN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+VERSION RÉVISÉE DE LA TRANSCRIPTION
+DES MOTIFS DU JUGEMENT
+Que la transcription révisée ci-jointe des motifs du jugement prononcés oralement lors de l’audience à Toronto (Ontario), le 9 avril 2012, soit versée au dossier. J’ai révisé la transcription (certifiée par le sténographe judiciaire) par souci de stylistique, de clarté et d’exactitude. Je n’ai apporté aucune modification de fond.
+Signé à Ottawa, Canada, ce 13e jour de mai 2014.
+« Patrick Boyle »
+Juge Boyle
+Traduction certifiée conforme
+ce 14e jour de juillet 2014.
+S. Tasset
+Référence : 2014 CCI 144
+Date : 20140513
+Dossier : 2013-4565(IT)I
+ENTRE :
+NARUL HASSAN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Appel entendu et décision rendue oralement à l’audience
+le 9 avril 2014 à Toronto (Ontario).
+Le juge Boyle
+[1] Je m’apprête à rendre ma décision dans l’appel de M. Hassan instruit ce matin à Toronto sous le régime la procédure informelle. L’appel touche la demande, pour 2009, d'un crédit d’impôt pour don de bienfaisance relativement à un don que M. Hassan dit avoir fait à Operation Save Canada’s Teenagers et pour lequel il avait un reçu daté de 2009.
+[2] Aux dires de M. Hassan, exception faite d’une somme de 300 $, la plus grande partie du montant de 25 000 $ inscrit sur le reçu a été versée en 2010 et non en 2009.
+[3] Les documents de l’organisme de bienfaisance remis à M. Hassan à cet égard sont lacunaires et peu soignés et, en fait, ont été modifiés au moins une fois après que l’ARC a signalé un problème dans le rapprochement des renseignements donnés dans les documents de l’organisme de bienfaisance.
+[4] M. Hassan a dit s’être engagé à la fin de 2009 à faire un don de 25 000 $ au cours de l’année se terminant fin 2010. Il a dit avoir effectué tous les versements en espèces et que, en fait, on lui avait dit qu’aucun chèque ne serait accepté par l’organisme de bienfaisance. Les montants et les dates inscrits sur les relevés bancaires produits comme pièces justificatives par M. Hassan ne concordent pas le moindrement avec les présumés dons en espèces.
+[5] M. Hassan a dit spontanément qu’il avait peut-être choisi la mauvaise voie en raison des conseils de la personne qui a préparé sa déclaration de revenus. Ni M. Hassan, ni moi-même ne pouvons voir la moindre logique dans le fait de donner 25 000 $ à un organisme de bienfaisance pour avoir moins d’impôt à payer ou pour aider à payer l’impôt dû.
+[6] M. Hassan n’avait jamais fait de don important auparavant. Il a dit que, depuis, il n’en avait effectué qu’un autre, qui fait également l’objet d’un appel auprès des autorités fiscales. M. Hassan n’a plus jamais effectué de don important.
+[7] M. Hassan a été incapable de décrire précisément les activités de l’organisme de bienfaisance, non plus que ce que l’organisme faisait à son siège, même s’il affirme y être allé en voiture près de 20 fois pour effectuer ses dons en espèces. Il croyait comprendre que l'organisme aidait des adolescents en Afrique et, lorsqu’il lui a été posé une question à propos du nom de l’organisme, il a dit que celui‑ci aidait également des enfants canadiens. Ni son conseiller financier, ni personne d’Operation Save Canada’s Teenagers, à savoir M. Mokwe et Mme Khan, qui semblent faire équipe dans ce programme, n’ont comparu en cour pour essayer de donner des explications, de corroborer les dires de M. Hassan, d’aider celui‑ci ou d’aider la Cour à voir plus clair dans cette affaire.
+[8] M. Hassan a obtenu pour 2009 un reçu pour la somme de 25 000 $ sur la base d’un présumé don en espèces de 300 $ avec promesse de payer le reste avant la fin de 2010. Cette façon de faire n’est manifestement pas autorisée par la Loi de l’impôt sur le revenu. Je ne crois pas que le versement comptant de 300 $ ait été fait. Quoi qu’il en soit, si M. Hassan a versé ce montant ou quelque autre montant en 2009, c’était pour obtenir un reçu de 25 000 $ et, par conséquent, ce n’était pas un don de bienfaisance.
+[9] Le reçu qui lui a été délivré ne contenait pas tous les renseignements prescrits. Par exemple, le nom inscrit n’est pas le bon, l’endroit où le don a été fait n’est pas mentionné ou, du moins, pas clairement, le montant inscrit est erroné et il y a au moins une erreur de date ou une date manquante. En fait, l’une des erreurs typographiques sur le formulaire se trouve dans le nom de l’organisme de bienfaisance.
+[10] Il semble presque certain que ce programme visait à frauder le régime fiscal canadien et, par conséquent, le public canadien. Je n’ai pu établir clairement si M. Hassan était complice ou s’il a simplement été trompé. Je constate cependant qu’on ne lui a pas imposé de pénalité.
+[11] Quoi qu’il en soit, je constate qu’aujourd’hui, il n’a pas dit la vérité à la Cour sur sa participation à ce programme. Je n’admets pas ce qu’il a dit dans son témoignage, à savoir qu'il aurait fait ne serait-ce qu’un de ces dons en espèces.
+[12] Un vérificateur des organismes de bienfaisance de l’ARC est venu témoigner. L’enregistrement de l’organisme de bienfaisance a été depuis révoqué, principalement pour production de documents falsifiés à la fois en ce qui concerne les dons reçus et les dépenses de bienfaisance et autres dépenses effectuées. Aucun document à l’appui de dons n’a été remis à l’ARC ou localisé par l’ARC après enquête. Des accusations criminelles ont été portées contre le directeur qui, depuis, a fui le Canada. La présumée fraude dans laquelle M. Mokwe et Mme Khan étaient impliqués représentait plus de six millions de dollars de dons. L’ARC a établi de nouvelles cotisations pour tous les donateurs.
+[13] M. Hassan, votre appel est rejeté, comme je l’ai mentionné précédemment, et cela, pour plus d’un motif : d’abord, je ne crois pas que des dons en espèces ont été faits, et il m’aurait fallu plus que vos déclarations intéressées et les relevés bancaires que vous avez pu produire; ensuite, le reçu pour don de bienfaisance ne correspondait clairement pas aux exigences concernant les renseignements prescrits.
+[14] Les règles de la Cour permettent à celle‑ci d’adjuger des dépens contre un contribuable dans un appel régi par la procédure informelle si celui‑ci a indûment retardé le règlement de l’appel. Si la situation s’y prête, cela peut s’appliquer aux appels poursuivis qui sont complètement dénués de fondement et qui reposent sur une absence de véracité. Dans ces circonstances, j’adjuge des dépens de 300 $ que vous, M. Hassan, devez payer à l’intimée.
+Signé à Ottawa, Canada, ce 13e jour de mai 2014.
+« Patrick Boyle »
+Juge Boyle
+Traduction certifiée conforme
+ce 14e jour de juillet 2014.
+S. Tasset
+RÉFÉRENCE :
+2014 CCI 144
+NO DU DOSSIER DE LA COUR :
+2013-4565(IT)I
+INTITULÉ :
+NARUL HASSAN ET SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+Le 9 avril 2014
+MOTIFS DU JUGEMENT :
+L’honorable juge Patrick Boyle
+DATE DU JUGEMENT :
+Le 13 mai 2014
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimée :
+Me Leslie Ross
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada

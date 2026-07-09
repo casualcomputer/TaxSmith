@@ -1,0 +1,125 @@
+Title: Mercier c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30570/index.do
+Corpus path: corpus/cases/tcc/2011/2011-tcc-427-30570-mercier-c-la-reine-en.md
+Document type: case_law
+Last modified: 2011-10-28
+
+# Mercier c. La Reine
+
+- Citation: 2011 TCC 427
+- Decision date: 2011-10-28
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7311, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Mercier c. La Reine
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2011-10-28
+Neutral citation
+2011 TCC 427
+File numbers
+2010-2063(IT)I
+Judges and Taxing Officers
+François M. Angers
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2010-2063(IT)I
+BETWEEN:
+MONIQUE MERCIER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on July 13, 2011, at Montréal, Quebec.
+Before: The Honourable Justice François Angers
+Appearances:
+For the appellant:
+The appellant herself
+Counsel for the respondent:
+Sara Jahanbakhsh
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act for the 2006 and 2007 taxation years is dismissed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 28th day of October 2011.
+“François Angers”
+Angers J.
+Translation certified true
+on this 13th day of December 2011.
+Daniela Possamai, Translator
+Citation: 2011 TCC 427
+Date: 20111028
+Docket: 2010-2063(IT)I
+BETWEEN:
+MONIQUE MERCIER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Angers J.
+[1] This is an appeal from a reassessment dated March 19, 2009, by which the Minister of National Revenue (the Minister) disallowed the deductions for legal costs of $12,000 for 2006 and of $30,025 for 2007 claimed by the appellant.
+[2] The appellant and her ex-spouse ceased living together on May 30, 2006. At the time, the couple had three children aged 22, 18 and 14. The appellant retained the services of a law firm on July 4, 2006, for the purpose of discussing the situation and, particularly, settlement of the parties’ financial interests.
+[3] On August 2, 2006, the appellant received a demand letter involving an application for divorce and child support. The demand letter was followed by an application for divorce filed by her ex-spouse on August 17, 2006, which included an application for corollary relief involving, inter alia, custody of the children and child support, which was to be established on the basis of the ex-spouse’s exclusive custody from May 30, 2006, to August 21, 2006, and on the basis of shared custody as of August 21, 2006.
+[4] The application for divorce was also accompanied by a motion for interim relief. The ex-spouse reiterated, inter alia, his application for child support for the two younger children on the same bases as those described above. The motion was scheduled to be heard on September 28, 2006. However, the hearing had to be rescheduled as the appellant filed a motion asking the Quebec Superior Court not to deal with the application for divorce and motion for interim relief. That motion by the appellant was heard on September 19, 2006, and dismissed on October 4, 2006.
+[5] According to the appellant, from September 20 to December 19, 2006, a number of communication exchanges took place between the lawyers to prepare for the hearing of the motion for interim relief, which was now scheduled for December 19, 2006. While the motion for interim relief was heard as scheduled, the decision was made to uphold and make enforceable an interim agreement between parties on the same date as that of the hearing and filed in the Court docket.
+[6] The interim agreement involves support payments for the two youngest children as they are children of the marriage as defined by the Divorce Act. The parties agreed to share and alternate custody. They agreed on the calculation of their respective income and accepted each other’s calculations, which showed that the appellant had a higher income than the ex‑spouse by more than $150,000 annually. The appellant, therefore, amicably agreed to pay her ex-spouse child support in the amount of $400 per month as of September 1, 2006, for both children of the marriage and $450 per month, in arrears, for the months of June, July and August 2006, during which her ex‑spouse had custody of the children. They also agreed to share certain child-related expenses by a ratio of 62% for the appellant and 38% for the ex-spouse. They also agreed on their income estimates for 2007.
+[7] In 2007, certain legal counsel invoices for the preparation of the proposed defence and counterclaim in the divorce proceedings. The appellant claimed a deduction for a portion of the legal costs, which, according to her, were paid to seek child support. She claimed, inter alia, from her ex-spouse, that child support be established in accordance with child support guidelines, albeit reflective of reality with respect to the sharing of time spent with the children and the children’s life, retroactively to January 1, 2007, as she argued that her eldest daughter had been staying with her on a full-time basis for several months.
+[8] The application for divorce was heard on November 6, 2007, and the Court, inter alia, upheld and made enforceable an agreement on corollary relief which the parties signed on October 10 and 12, 2007. Under the heading "child support," the parties agreed that the base child support payable for the benefit of the children would be established in accordance with the Regulation respecting the determination of child support payments, based on the annual income of each parent, and would reflect reality as to custody arrangements and/or their residence. The parties agreed to have the child support varied the event that one of the children decided to live with one of them full-time.
+[9] The method used to calculate their respective income was the same as that provided for in their agreement on interim relief upheld by the Superior Court. Each of the parties disclosed their income for 2006 and their projected income for 2007. The gap between their income in 2006 was still the same and was even greater for 2007. The situation benefitted the ex-spouse, who, as a result, became the one who received child support. The parties agreed, finally, that if there were any significant changes in their income, they would inform one another so that changes could be made and, no later than May 15, 2008, and subsequent years, they would confirm their respective taxable income in order to recalculate the child support to be paid and the sharing of particular expenses retroactively.
+[10] Such a child support agreement was therefore based, according to the appellant, on the real income of each of the parties and on the place of residence of the children of the marriage.
+[11] After 2007, the appellant made requests with her ex-spouse to vary the child support so as to become the person who received child support. Her request were to no avail and the appellant has yet to commence legal proceedings to have the child support she paid in 2006, in 2007 and in 2008 varied
+[12] For his part, the ex-spouse explained that he commenced divorce proceedings in 2006 by which he sought to obtain child support for the three children, who resided with him. He stated that he made a request with the appellant to that effect, but she refused. It was not until after such steps were undertaken and a number of witnesses were called to testify at the hearing of the motion for interim relief that he was successful in coming to an agreement with the appellant, without the presence of their respective counsel, on December 19, 2006. In that agreement, the appellant accepted to pay him child support in the amount of $400 per month as of September 1, 2006, and $450 per month in child support arrears since June 2006.
+[13] At the time of the hearing of the application for divorce, which was held on August 31, 2007, the parties had already agreed, since October 12, that the appellant would pay her ex-spouse child support in the amount of $408.40 per month for the benefit of the two children of the marriage. It was, according to the ex-spouse, base child support and he said all this would eventually have to be settled.
+[14] The issue is therefore whether the legal costs of $12,000 for the 2006 taxation year and of $30,025 for the 2007 taxation year, of which the deduction was claimed by the appellant, are indeed deductible from her income for each of the taxation years.
+[15] It is trite law that the legal costs incurred to obtain child support for the benefit of a child are deductible in computing income. See Wakeman v. Canada, [1996] T.C.J. No. 477 (QL), [1996] 3 C.T.C. 2165 and McColl v. Canada, [2000] T.C.J. No. 335 (QL), 2000 DTC 2148. Such a principle has also been recognized by the Canada Revenue Agency in its Interpretation Bulletin IT-99R5 at paragraph 17, of which the relevant passage is as follows:
+. . . However, since children have a pre-existing right, arising from legislation, to support or maintenance, legal costs to obtain an order for child support are deductible. . . .
+[16] Indeed, in Nadeau c. M.N.R., 2003 FCA 400, [2004] F.C.R. 587, 2003 DTC 5736, the Federal Court of Appeal stated that income from a support payment is income from property and that as such the expenses incurred in obtaining the payment thereof may be deducted under the rules set out in subdivision b (see paragraphs 29 and 34).
+[17] Furthermore, it is on Nadeau that the respondent bases her argument that first and foremost, it is necessary to have income from property before legal expenses incurred in order to earn such income may be deducted. In other words, only the person who receives child support is entitled to deduct his or her legal expenses.
+[18] Although that may be the case in the vast majority of cases, in situations where the parties engaged in divorce proceedings have comparable income and where they each claim custody of the children and child support, seeing as they each have a reasonable expectation of being awarded custody and support, it appears to me that it is completely justified to grant the deduction to both parties, even if one of the parties makes his or her claim in a defence and counterclaim, or even if he or she withdraws his or her claim before the issuance of a judgment, as long as it is possible to demonstrate that at the time the claim was made, the party had a reasonable expectation of earning income from property.
+[19] Indeed, the Tax Court of Canada accepted that position in Trignani v. The Queen, 2010 TCC 209, 2010 DTC 1153, in which Woods J. dealt with the respondent’s argument that the taxpayer abandoned his child support claim and therefore was not entitled to a deduction. Woods J. dismissed that argument on the basis that the evidence had not established that fact, and she concluded as follows at paragraphs 27 and 28 of her decision:
+[27] In cross-examination, the appellant acknowledged that the child support claim was abandoned, as evidenced by a clause in the 2006 court order. I am not prepared to take the leap that the claim was abandoned before the relevant legal services were provided. It is quite possible that the claim was abandoned only when the minutes of settlement were entered into, which likely was after most of the legal services were rendered.
+[28] The evidence as a whole makes a strong case that the claim for child custody (and consequently child support) in 2001 was bona fide, not frivolous, and had a reasonable prospect of success. In the absence of evidence to the contrary, I am not willing to presume that this claim was not being vigourously pursued in 2006.
+[Emphasis added.]
+[20] The appellant submits that all the legal costs she incurred from July 2006 to January 2007 were in relation to the determination of child support payments and establishment of the legal context to be applied in order to determine who would be the payer of the child support, that is, $41,265.63. She also submits that the invoices dated June 14, 2007, and July 17, 2007, for the amounts of $1,334.13 and $6,423.63, respectively, concerned the preparation of a proposed defence and counterclaim. Considering that the counterclaim also dealt with other issues, the appellant only claimed the deduction of 30% of those invoices, that is, the percentage involving the issue of child support. She also added that invoices of September 10, October 10 and November 5, 2007, whose amounts are $440.24, $1,116.17 and $215.98, respectively, and she did so in the same ratio of 30%, which she links to the legal context for the payment of child support by her or by her ex-spouse. It is the establishment of legal context that caused the appellant to incur most of the expenses.
+[21] I cannot however accept the appellant’s argument that their case is unique and that astronomical legal costs had to be incurred to establish the legal context that would be used to determine who the payer of child support was. That issue is a basic issue: child support is paid based on who has custody of the children and based on the ability of either parent to pay once it is established who will have custody.
+[22] What I take from the particular facts of the case is that the appellant and her ex-spouse ceased living together in May 2006. The couple’s children continued to reside with their father, and in August 2006 the issue in matter was joint custody of the two children of the marriage, who would alternate their residence.
+[23] The appellant’s ex-spouse asked the appellant to pay him child support and seeing as she refused, he filed for divorce and a motion for interim relief on August 17, 2006. In my view, the appellant’s efforts in August and in September 2006 focused more on a motion for removal of jurisdiction of the Quebec Superior Court in the divorce proceedings than on a claim to obtain child support from her ex-spouse. The details of the appellant’s legal counsel invoices throughout fall 2006 reflect more efforts made by counsel to pursue the motion for removal than to seek child support. In fact, it was not until early December that the invoices began to refer to the hearing of the motion for interim relief and preparation of the hearing. No claim for child support was made by the appellant from her ex-spouse. In fact, no claim for child support was made by the appellant prior to the filing of her defence and counterclaim on July 11, 2007. It therefore seems obvious to me that the appellant was merely defending herself against the claim for child support during much of the judicial process.
+[24] It also seems obvious to me that, according to the arrangements in the judgment on interim motion, which upheld the amicable agreement between the parties, as well as the in the final judgment on the application for divorce, which also upheld an amicable agreement between the parties, there was a significant gap between the appellant’s salary and that of her ex-spouse throughout the entire relevant period. It is clear to see that, considering the age of the children and joint custody of the children, the appellant would be the payer of child support, despite her counterclaim of July 2007.
+[25] As to the appellant’s argument that she believed she ought to have received child support considering that her eldest daughter spent 65% of her time with her, it should be noted that the appellant did not proceed with her action and, more specifically, she did not do so within the years following 2007.
+[26] Given this situation, it is impossible for me to conclude that, under these circumstances, the appellant could have incurred legal costs in an honest and good faith belief that the she had a reasonable chance of success of earning income from property.
+[27] The appeal is dismissed.
+Signed at Ottawa, Canada, this 28th day of October 2011.
+“François Angers”
+Angers J.
+Translation certified true
+on this 13th day of December 2011.
+Daniela Possamai, Translator
+CITATION: 2011 TCC 427
+COURT FILE NO.: 2010-2063(IT)I
+STYLE OF CAUSE: Monique Mercier v. Her Majesty the Queen
+PLACE OF HEARING: Montréal, Quebec
+DATE OF HEARING: July 13, 2011
+REASONS FOR JUDGMENT BY: The Honourable Justice François Angers
+DATE OF JUDGMENT: October 28, 2011
+APPEARANCES:
+For the appellant:
+The appellant herself
+Counsel for the respondent:
+Sara Jahanbakhsh
+COUNSEL OF RECORD:
+For the appellant:
+Name:
+Firm:
+For the respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada

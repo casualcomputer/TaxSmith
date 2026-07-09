@@ -1,0 +1,152 @@
+Title: Jenkins v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27436/index.do
+Corpus path: corpus/cases/tcc/2005/2005-cci-167-27436-jenkins-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2005-03-03
+
+# Jenkins v. The Queen
+
+- Citation: 2005 CCI 167
+- Decision date: 2005-03-03
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 225, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Jenkins v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-03-03
+Référence neutre
+2005 CCI 167
+Numéro de dossier
+2004-3404(IT)I
+Juges et Officiers taxateurs
+Campbell J. Miller
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossiers : 2004-3404(IT)I
+2004-3405(IT)I
+ENTRE :
+ROBERT H.P. JENKINS
+et
+LORENA B. JENKINS,
+appelants,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels entendus à Halifax (Nouvelle-Écosse), le 21 février 2005.
+Devant : L'honorable juge Campbell J. Miller
+Comparutions :
+Avocat des appelants :
+Me Joseph M.J. Cooper, c.r.
+Avocat de l'intimée :
+Me Edward Sawa
+____________________________________________________________________
+JUGEMENT
+Vu le procès-verbal de transaction portant sur treize des quatorze postes de dépenses;
+Et vu l'audience tenue sur la question qui se posait encore dans ces appels;
+Les appels des cotisations établies en application de la Loi de l'impôt sur le revenu pour les années d'imposition 2000 et 2001 sont admis et l'affaire est renvoyée au ministre du Revenu national pour nouvel examen et nouvelle cotisation, compte tenu du fait que chacun des appelants a droit aux déductions additionnelles suivantes :
+a) Frais d'utilisation d'un véhicule à moteur (2000 et 2001) : octroi de dépenses d'entreprise additionnelles d'un montant de 3 123 $ pour l'année d'imposition 2000 et d'un montant de 3 804 $ pour l'année d'imposition 2001;
+b) Frais d'intérêt (2000 et 2001) : octroi de dépenses d'entreprise additionnelles d'un montant de 1 669 $ pour l'année d'imposition 2000 et d'un montant de 5 123 $ pour l'année d'imposition 2001;
+c) Déduction d'une dépense en capital admissible (2000 et 2001) : octroi de dépenses d'entreprise additionnelles d'un montant de 1 714 $ pour l'année d'imposition 2000 et d'un montant de 1 583 $ pour l'année d'imposition 2001;
+d) Frais liés aux fournitures et au matériel (2000) : octroi de dépenses d'entreprise additionnelles d'un montant de 488 $ pour l'année d'imposition 2000;
+e) Électricité et impôts fonciers (2000) : octroi de dépenses d'entreprise additionnelles d'un montant de 393 $ pour l'année d'imposition 2000;
+f) Frais divers (2000) : octroi de dépenses d'entreprise additionnelles d'un montant de 4 785 $ pour l'année d'imposition 2000;
+g) Frais liés aux réparations (2000) et aux engins (2000) : octroi de dépenses d'entreprise additionnelles d'un montant de 155 $ pour l'année d'imposition 2000;
+h) Frais juridiques et comptables (2001) : octroi de dépenses d'entreprise additionnelles d'un montant de 2 289 $ pour l'année d'imposition 2001;
+i) Services publics et frais divers relatifs à un immeuble (2001) : octroi de dépenses d'entreprise additionnelles d'un montant de 1 294 $ pour l'année d'imposition 2001;
+j) Frais d'alimentation (2001) : octroi de dépenses d'entreprise additionnelles d'un montant de 764 $ pour l'année d'imposition 2001;
+k) Déduction pour amortissement (2001) : octroi de dépenses d'entreprise additionnelles d'un montant de 12 $ pour l'année d'imposition 2001;
+l) Frais liés aux réparations (2001) et aux engins (2001) : octroi de dépenses d'entreprise additionnelles d'un montant de 786 $ pour l'année d'imposition 2001;
+m) Frais de mazout pour bateau (2001) : octroi de dépenses d'entreprise additionnelles d'un montant de 1 001 $ pour l'année d'imposition 2001;
+n) Dépenses liées à l'utilisation du domicile pour les besoins de l'entreprise (2000 et 2001) : octroi de dépenses d'entreprise additionnelles d'un montant de 1 891 $ pour l'année d'imposition 2000 et de 1 183,50 $ pour l'année d'imposition 2001.
+Signé à Ottawa, Canada, ce 3e jour de mars 2005.
+« Campbell J. Miller »
+Juge Miller
+Traduction certifiée conforme
+ce 15e jour de mars 2006.
+Christian Laroche, LL.B.
+Référence : 2005CCI167
+Date : 20050303
+Dossiers : 2004-3404(IT)I
+2004-3405(IT)I
+ENTRE :
+ROBERT H.P. JENKINS,
+et LORENA B. JENKINS
+appelants,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Miller
+[1] Robert et Lorena Jenkins ont interjeté appel sous le régime de la procédure informelle des cotisations établies par le ministre du Revenu national (le « ministre » ) à l'égard de leurs années d'imposition 2000 et 2001. Ces appels se rapportaient à la déductibilité, sous 14 postes différents, de dépenses se rattachant à la société de personnes des Jenkins, une entreprise de pêche. Le jour où l'instruction a eu lieu, l'avocat des Jenkins et l'avocat de l'intimée ont réglé toutes les questions sauf une. L'instruction s'est poursuivie uniquement à l'égard de la question de savoir si les Jenkins avaient droit à une déduction pour les frais de local de travail à domicile. Le ministre a soutenu que les Jenkins ne satisfaisaient pas aux exigences du paragraphe 18(12) de la Loi de l'impôt sur le revenu (la « Loi » ), selon lesquelles le local de travail :
+(i) est le principal lieu d'affaires du contribuable; ou
+(ii) sert exclusivement à tirer un revenu d'une entreprise et à rencontrer des clients sur une base régulière et continue dans le cadre de l'entreprise.
+[2] Il s'agit d'une question intéressante pour les contribuables qui exploitent une entreprise saisonnière comme la pêche qui, de nature, exige que l'on passe énormément de temps en mer. Que doit donc faire le pêcheur pour que les « frais liés au domicile » qu'il a légitimement engagés dans le cadre de l'entreprise soient déductibles? Quel est le principal lieu d'affaires d'un pêcheur? Est-ce son bateau seulement? Il est surprenant que la question n'ait pas déjà été examinée dans la jurisprudence.
+[3] En 2000 et 2001, les Jenkins, qui exploitaient une société de personnes, pêchaient le homard et le thon; le homard en mai et en juin, ainsi que le thon du mois de juillet au mois d'octobre. La pêche au homard était pratiquée sur deux bateaux appartenant aux Jenkins, le « Lady Lorena » et l' « Amber J » . Pour la pêche au thon, les Jenkins louaient un bateau plus rapide, le « Bear In Mind » , qui comportait également une toilette comme accessoire additionnel.
+[4] Pendant la saison de la pêche au homard, les bateaux étaient exploités depuis Annondale, à l'Île-du-Prince-Édouard, à 12 kilomètres en voiture de la résidence des Jenkins. Les Jenkins possédaient une structure en bois de 14 pieds sur 20 au quai d'Annondale. Le plancher de la structure était en ciment; il n'y avait pas d'électricité, ni d'installation de plomberie, ni de local à bureau; il s'agissait uniquement d'une aire d'entreposage composée d'une seule pièce.
+[5] La résidence des Jenkins comportait un garage qui était rattaché à la maison, ainsi qu'un sous-sol. Dans le sous-sol, il y avait un atelier d'une superficie de 24 pieds sur 26 ainsi qu'un bureau d'une superficie de dix pieds sur dix. Les Jenkins réparaient les engins et les casiers et construisaient de nouveaux casiers dans le garage. Ils avaient environ 600 casiers. Ils conservaient les cannes à pêche et les moulinets, les cordes et les bouées dans leur garage. Ils réparaient les pièces de leurs bateaux. Les classeurs de l'entreprise étaient également dans le garage et, si possible, le camion utilisé pour l'entreprise était également garé dans le garage.
+[6] Dans le bureau situé au sous-sol, il y avait un télécopieur, un téléphone et plusieurs classeurs. C'était là que les Jenkins tenaient le livre de paie et tous les dossiers. Il y avait trois ou quatre employés. M. Jenkins a témoigné que le bureau était utilisé pour tous les appels concernant l'entreprise de pêche. Il rencontrait parfois, mais pas souvent, deux ou trois autres personnes dans le bureau, mais étant donné qu'il y avait un plus grand nombre de personnes lorsqu'une réunion était tenue avec les clients éventuels ou d'autres membres de l'administration portuaire, la réunion pouvait avoir lieu dans le local de travail, au sous-sol, ou si le temps le permettait, à l'extérieur. M. Jenkins faisait souvent la construction de casiers dans l'atelier du sous-sol, qui était mieux chauffé. Il avait fait construire une porte extérieure menant au sous-sol pour qu'il soit possible de rentrer et de sortir les casiers. Il a témoigné que ni le bureau, ni l'atelier du sous-sol, ni le garage n'étaient utilisés à des fins personnelles.
+[7] Pendant la saison de la pêche au homard, qui durait deux mois, M. et Mme Jenkins étaient tous les jours à la maison. Ils allaient chaque jour en mer uniquement afin de récolter les homards. On commandait les appâts et on établissait les prix principalement depuis la résidence, mais M. Jenkins a reconnu qu'il arrivait parfois qu'il se procure les appâts au quai. Il s'occupait également de pêcher des appâts juste avant le début de la saison de la pêche au homard.
+[8] Pendant la saison de la pêche au thon, M. Jenkins était rarement chez lui, étant donné qu'il fallait pourchasser le poisson, pour reprendre l'expression qu'il a employée. En l'an 2000 et en 2001, M. Jenkins a passé presque toute la saison de la pêche au thon au large du Cap Breton. M. Jenkins a témoigné qu'aucune autre entreprise n'était exploitée à bord du bateau, si ce n'est la prise du poisson elle-même. Les appels téléphoniques, la tenue de livres, la construction des casiers et l'entreposage se faisaient tous à la maison. M. Jenkins estimait que lorsqu'il n'était pas en mer, il passait 80 p. 100 de son temps à s'occuper de l'entreprise à la maison et 20 p. 100 de son temps à assister à diverses réunions concernant l'entreprise de pêche.
+[9] Pendant la saison morte, M. Jenkins recevait des prestations au titre de l'assurance-emploi, mais aucun élément de preuve ne montre quelle période exacte était en cause. M. et Mme Jenkins ont déduit les frais associés à l'utilisation du domicile à des fins commerciales, lesquels s'élevaient à 3 782 $ en 2000 et à 2 367 $ en 2001. Le ministre a refusé toute déduction sous cette catégorie.
+Analyse
+[10] Le paragraphe 18(12) est rédigé en partie comme suit :
+18(12) Malgré les autres dispositions de la présente loi, dans le calcul du revenu d'un particulier tiré d'une entreprise pour une année d'imposition:
+a) un montant n'est déductible pour la partie d'un établissement domestique autonome où le particulier réside que si cette partie d'établissement:
+(i) soit est son principal lieu d'affaires,
+(ii) soit lui sert exclusivement à tirer un revenu d'une entreprise et à rencontrer des clients ou des patients sur une base régulière et continue dans le cadre de l'entreprise;
+[11] Les parties ont convenu que si les Jenkins étaient admissibles en vertu du paragraphe 18(12), la société de personnes aurait droit aux pleins montants qui ont été déduits, à savoir 3 782 $ et 2 367 $. Il s'agit donc uniquement de savoir si le local de travail à la maison est le « principal lieu d'affaires » des Jenkins ou s'il sert exclusivement à tirer un revenu d'une entreprise et s'il sert à rencontrer des clients sur une base régulière et continue. J'examinerai d'abord le deuxième volet de la question.
+[12] Il s'agit en premier lieu de savoir si le local de travail à domicile (bureau, garage et atelier) était utilisé exclusivement pour tirer un revenu d'entreprise. Je crois qu'il l'était. Selon M. Jenkins, les activités effectuées dans le bureau - la tenue des livres de paie et autres livres, les appels d'affaires et ainsi de suite, se rapportent toutes à l'entreprise. Il n'y avait pas d'utilisation personnelle. Il en allait de même dans le cas de l'atelier situé au sous-sol et du garage : l'entreposage, les réparations et les travaux de construction se rapportaient tous à l'entreprise de pêche. Rien ne montrait qu'on se soit livré à une activité personnelle. Les Jenkins ont facilement établi que ce local servait exclusivement à tirer un revenu d'une entreprise.
+[13] Toutefois, pour être admissible sous ce second volet, le local doit servir à rencontrer des clients sur une base régulière et continue. Or, cela crée un problème pour les Jenkins. Tenir chaque année une réunion ou deux avec des clients potentiels, ce n'est pas rencontrer des clients sur une base régulière et continue. Je reconnais que la nature même de l'entreprise de pêche des Jenkins est telle que ceux-ci ne rencontrent pas leurs clients sur une base régulière et continue. Les Jenkins avaient un seul client pour le homard. Le thon était vendu sur les quais dans la même mesure qu'il l'était à la suite de réunions tenues chez les Jenkins. Cette exigence ne vise tout simplement pas le type d'entreprise que les Jenkins exploitaient. Les Jenkins ne peuvent pas satisfaire et ne satisfont pas à cette exigence et ils ne sont donc pas admissibles en vertu du sous-alinéa 18(12)a)(ii).
+[14] J'examinerai maintenant l'exigence voulant que le local de travail soit le « principal lieu d'affaires » des Jenkins. Encore une fois, il est difficile d'appliquer cette notion à une société de personnes s'occupant d'une entreprise de pêche saisonnière. La Loi ne définit pas l'expression « principal lieu d'affaires » .
+[15] Ce qui est crucial, lorsqu'il s'agit de déterminer ce que l'on entend par « principal lieu d'affaires » , c'est de comprendre ce que l'on entend par « entreprise » dans ce contexte. Sur ce point, les parties m'ont fourni deux explications différentes. L'intimée fait valoir que l'entreprise, telle qu'elle est définie dans la Loi, s'entend notamment d'une profession, d'un métier, d'un commerce, d'une industrie ou d'une activité de quelque genre que ce soit. Elle va encore plus loin et laisse entendre que l'entreprise, telle qu'elle est utilisée dans le contexte d'un principal lieu d'affaires, doit donc se rapporter à l'aspect fondamental de l'entreprise, soit en l'espèce la prise du poisson; par conséquent, seuls les bateaux peuvent être le principal lieu d'affaires. Cette approche donne lieu à certaines conclusions étranges. Ainsi, le principal lieu d'affaires de la Compagnie pétrolière; impériale serait le champ de pétrole plutôt que son siège social, de Calgary; le principal lieu d'affaires d'un agriculteur pourrait être sa moissonneuse-batteuse plutôt que la maison de ferme et ainsi de suite.
+[16] L'autre lacune que comporte cette approche est qu'elle mène à la possibilité d'un grand nombre de lieux d'affaires, ce qui présente un dilemme, à savoir comment déterminer ce qui est le principal lieu d'affaires. Ainsi, si M. et Mme Jenkins possédaient une demi-douzaine de bateaux, qui sont tous en mer pendant toute la saison, s'agit-il dans tous les cas de « lieux d'affaires » ? L'un d'eux est-il le « principal lieu d'affaires » ? Cela dépend-il de la quantité de poisson qui est pris? Cela se détériore rapidement en une analyse difficile.
+[17] Je suppose que l'intimée interprète l'expression « principal lieu d'affaires » comme étant soit le « lieu de l'entreprise principale » ou peut-être le « principal lieu de l'entreprise » . La position prise par l'intimée serait plus défendable si l'une ou l'autre de ces expressions étaient employées, ce qui n'est pas le cas. L'expression en question est le « principal lieu d'affaires » . L'approche adoptée par l'intimée sème la confusion et l'incertitude.
+[18] Les appelants considéraient l'entreprise, dans le contexte du « principal lieu d'affaires » , sous un autre jour; en effet, ils se demandent où se déroule l'aspect « affaires » de l'entreprise. Cela me fait songer à une remarque que l'on entend souvent parmi les avocats : [TRADUCTION] « J'adore la pratique du droit elle-même, mais je déteste toutes les questions d'affaires dont je dois m'occuper. » Je suppose que la personne ordinaire à qui on demanderait ce que veut dire « principal lieu d'affaires » répondrait probablement ce qui suit : [TRADUCTION] « C'est là où se déroulent toutes les questions d'affaires » ; ce ne serait pas le lieu de forage, ou l'endroit où les récoltes sont faites ou encore l'endroit où le poisson est pêché, mais l'endroit où se déroulent les activités nécessaires, à savoir téléphoner aux clients et aux fournisseurs, établir les factures, tenir les livres de paie ainsi que les autres livres et registres, communiquer avec les autorités pour obtenir des permis, préparer les déclarations de revenu, chercher à recouvrer les sommes à recevoir, s'occuper des plaintes, élaborer les plans d'entreprise, préparer les états financiers, parler aux comptables et aux avocats et ainsi de suite. C'est là, selon moi, ce que la plupart des gens considéreraient comme l'élément « affaires » de l'entreprise. La prise du poisson elle-même est au coeur d'une entreprise de pêche, mais ce n'est pas le lieu où se déroule l'aspect « affaires » de la pêche. Le pêcheur pêche le poisson depuis un bateau, un point c'est tout. Il ne s'agit pas d'un lieu d'affaires, et encore moins du principal lieu d'affaires.
+[19] Selon la preuve, les appels téléphoniques, la tenue de livres, les réunions avec les clients, la tenue du livre de paie, la facturation et ainsi de suite se déroulaient dans le local de travail à domicile. Dans la plupart des cas, ces activités n'avaient lieu nulle part ailleurs. Dans certains cas, par exemple, lorsqu'il s'agissait de rencontrer des clients, cela se faisait peut-être sur les quais, mais c'était un lieu d'affaires communautaire, plutôt que le lieu d'affaires d'un pêcheur en particulier. Le principal lieu d'affaires des Jenkins était le local de travail à domicile. C'était depuis ce lieu et depuis ce lieu seulement que les Jenkins s'occupaient de l'aspect « affaires » de leur entreprise de pêche. C'est ce qu'on entend par principal lieu d'affaires. L'affaire est renvoyée au ministre pour nouvelle cotisation, compte tenu du fait que la maison des Jenkins était réellement leur principal lieu d'affaires et que les Jenkins ont chacun droit à la moitié des déductions de 3 782 $ pour l'année 2000 et de 2 367 $ pour l'année 2001, soit à des montants de 1 891 $ et 1 183,50 respectivement.
+Signé à Ottawa, Canada, ce 3e jour de mars 2005.
+« Campbell J. Miller »
+Juge Miller
+Traduction certifiée conforme
+ce 15e jour de mars 2006.
+Christian Laroche, LL.B.
+RÉFÉRENCE :
+2005CCI167
+No DES DOSSIERS DE LA COUR :
+2004-3404(IT)I et 2004-3405(IT)I
+INTITULÉ :
+Robert H.P. Jenkins et
+Lorena B. Jenkins c. Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+Halifax (Nouvelle-Écosse)
+DATE DE L'AUDIENCE :
+Le 21 février 2005
+MOTIFS DU JUGEMENT :
+L'honorable juge Campbell J. Miller
+DATE DU JUGEMENT :
+Le 3 mars 2005
+COMPARUTIONS :
+Avocat des appelants :
+Me Joseph M.J. Cooper, c.r.
+Avocat de l'intimée :
+Me Edward Sawa
+AVOCATS INSCRITS AU DOSSIER :
+Pour les appelants :
+Nom :
+Joseph M.J. Cooper, c.r.
+Cabinet :
+Joseph M.J. Cooper, c.r.
+Pour l'intimée :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

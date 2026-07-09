@@ -1,0 +1,184 @@
+---
+title: "Triassi c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/520950/index.do"
+last_modified: "2022-07-14"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2022 CCI 76"
+citation2: ""
+neutral_citation: "2022 CCI 76"
+decision_date: "2022-07-14"
+language: "fr"
+item_id: "520950"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4539
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2023-12-01T12:04:35.201000+00:00"
+cases_cited_count: 3
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "796dd1528572992ea0e068f4a6fd22243e5951c5a94a56831235d0546d399835"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Triassi c. La Reine
+
+- Citation: 2022 CCI 76
+- Decision date: 2022-07-14
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4539, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Triassi c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2022-07-14
+Référence neutre
+2022 CCI 76
+Numéro de dossier
+2018-4122(IT)G
+Juges et Officiers taxateurs
+Réal Favreau
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2018-4122(IT)G
+ENTRE :
+GIACOMO TRIASSI,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 4 novembre 2021, à Montréal (Québec)
+Devant : L’honorable juge Réal Favreau
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Me Emmanuel Jilwan
+JUGEMENT
+L’appel interjeté à l’encontre de la nouvelle cotisation datée du 19 septembre 2013 à l’égard de l’année d’imposition 2011 et à l’encontre de la nouvelle cotisation datée du 12 octobre 2018 à l’égard des années d’imposition 2009 et 2010 de l’appelant est rejeté avec dépens pour l’intimée, conformément aux motifs du jugement ci-joints.
+Signé à Montréal (Québec), ce 14e jour de juillet 2022.
+« Réal Favreau »
+Le juge Favreau
+Traduction certifiée conforme
+ce 12e jour de janvier 2023.
+François Brunet, réviseur
+Référence : 2022CCI76
+Date : 20220714
+Dossier : 2018-4122(IT)G
+ENTRE :
+GIACOMO TRIASSI,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Favreau
+[1] La Cour est saisie de l’appel interjeté à l’encontre d’une nouvelle cotisation établie par le ministre du Revenu national (le « ministre ») en vertu de la Loi de l’impôt sur le revenu, L.R.C. 1985, ch. 1 (5e suppl.), et ses modifications (la « Loi ») à l’égard des années d’imposition 2009, 2010 et 2011 de l’appelant.
+[2] Le 19 septembre 2013, le ministre a délivré des avis de nouvelle cotisation relatifs aux années d’imposition 2009, 2010 et 2011 de l’appelant.
+[3] Les modifications apportées au revenu de l’appelant étaient constituées par le refus des pertes locatives nettes déclarées de 43 868 $ pour l’année 2009, 23 287 $ pour l’année 2010 et 40 379 $ pour l’année 2011 et de l’inclusion pour l’année d’imposition 2010 d’un revenu d’intérêt de 1 822 $ (ajouté au revenu de l’appelant par un avis de nouvelle cotisation daté de février 2011) et d’un gain en capital imposable de 150 000 $.
+[4] Le 12 octobre 2018, le ministre a délivré des avis de nouvelle cotisation pour les années d’imposition 2009 et 2010 de l’appelant, accordant une perte locative nette de 20 589 $ pour l’année 2009 et réduisant à 100 000 $ le gain en capital imposable pour l’année 2010. Ces nouvelles cotisations s’appuyaient sur un règlement à l’amiable intervenu avec Revenu Québec dûment signé par l’appelant. Dans un affidavit daté du 12 novembre 2020, l’appelant a déclaré sous serment qu’il avait été induit en erreur par les avocats le représentant dans ce dossier et qu’il avait signé le règlement avec Revenu Québec contre ses intérêts.
+[5] Les questions à trancher sont les suivantes :
+(a) Le ministre était-il justifié d’établir la perte locative nette de l’appelant pour son année d’imposition 2009 à 20 589 $ et de refuser ses pertes locatives déclarées pour les années d’imposition 2010 et 2011?
+(b) Le ministre était-il justifié d’établir un gain en capital imposable de 100 000 $ pour l’année d’imposition 2010 de l’appelant?
+(c) Le ministre était-il justifié d’établir une nouvelle cotisation à l’égard de l’appelant pour l’année d’imposition 2009 après l’expiration de la période normale pour établir une telle cotisation?
+[6] M. Triassi a témoigné à l’audience. Il était l’unique actionnaire et administrateur d’une entreprise de tricot appelée G.A.T. Knitting Inc. Cette entreprise a été incorporée en 1995 et a cessé ses activités en 2007. Les inscriptions à la TPS et à la TVQ de l’entreprise ont été supprimées le 1er septembre 2007 et l’entreprise a été volontairement dissoute en 2007, et non en 2009 comme il avait été indiqué.
+[7] Le 6 avril 2000, l’appelant a acquis un immeuble d’un étage en briques de 10 000 pieds carrés sis au 370 avenue De Beauharnois et au 8888 et 8890 rue Verville, à Montréal (« l’immeuble de l’avenue De Beauharnois »). Le prix d’achat était de 150 000 $.
+[8] Le 8 mars 2008, l’appelant a conclu un bail d’un an avec M. Sylvain Larose pour la partie de l’immeuble se trouvant à l’adresse municipale 8888 rue Verville. La période de location s’étendait du 1er mars 2008 au 1er mars 2009 et le loyer mensuel était de 2 300 $ plus taxes. L’immeuble loué devait être utilisé à des fins d’entreposage.
+[9] Le 2 avril 2008, l’appelant a conclu un second bail d’un an avec M. Sylvain Larose pour le garage se trouvant dans l’immeuble situé au 370 avenue De Beauharnois. La période de location s’étendait du 1er avril 2008 au 1er mars 2009 et le loyer mensuel était de 300 $, taxes incluses. L’immeuble loué devait uniquement être utilisé pour du stationnement.
+[10] Le 8 octobre 2008, l’appelant a conclu un bail d’un an avec sa société, G.A.T. Knitting Inc. pour la partie de l’immeuble se trouvant au 370 avenue De Beauharnois. Le loyer mensuel était de 3 500 $, taxes comprises, et l’immeuble loué devait être utilisé pour l’entreposage des machines à tricoter.
+[11] Le 26 janvier 2009, un incendie est survenu au 8888 rue Verville, mettant fin aux deux baux de M. Sylvain Larose, soit le bail du 8888 rue Verville et du garage situé au 370 avenue De Beauharnois.
+[12] Selon l’appelant, l’incendie du 8888 rue Verville a causé des dommages évalués à 200 000 $. Par un règlement hors cour daté du 21 novembre 2012, l’appelant a reçu un dédommagement de 60 000 $ de sa compagnie d’assurance.
+[13] En 2009 et 2010, l’appelant a rénové l’immeuble et a finalement vendu l’immeuble De Beauharnois en juillet 2010 pour la somme de 450 000 $. L’immeuble n’a pas été loué entre la date de l’incendie et la date de vente de l’immeuble.
+[14] Le 13 avril 2010, l’appelant a acheté un bien immeuble situé au 3, 28e avenue, à L’Île-Perrot, au prix de 155 000 $ (l’immeuble de L’Ile-Perrot). L’immeuble n’était pas en bon état et a nécessité des rénovations majeures, qui ont été réalisées en 2010. L’appelant affirme que l’immeuble était loué en 2010 et que le loyer mensuel était de 300 $ par mois, payé en espèces. L’appelant a également fait valoir qu’il n’y avait pas de bail officiel signé pour cet immeuble et que le loyer n’a pas été déclaré aux fins de l’impôt sur le revenu.
+[15] En 2011, l’immeuble a été mis à louer, mais n’a pas été loué. En 2012, l’immeuble a été vendu par l’appelant, qui n’aurait apparemment pas réalisé de profit en raison des coûts importants de rénovation.
+[16] Pendant son contre-interrogatoire, l’appelant a été confronté au fait que sa société n’a jamais payé de loyer pour le bail du 8 octobre 2008 puisqu’elle avait été dissoute un an plus tôt. L’appelant a déclaré que Sylvain Larose a payé son loyer en espèces pendant trois mois et qu’il n’a pas déclaré ce loyer aux fins de l’impôt sur le revenu. Il a également ajouté que l’immeuble de l’avenue De Beauharnois a été utilisé pour entreposer huit machines à tricoter pendant leur mise en vente. Puisque personne n’a souhaité les acheter, elles ont finalement été mises au rebut. Selon les dires de l’appelant, il utilisait uniquement 15 % de l’immeuble pour l’entreposage de ses machines.
+[17] En ce qui a trait à l’immeuble de L’Île-Perrot, l’appelant l’utilisait pour entreposer sa voiture pendant l’hiver et le louait à des voisins, qui apparemment payaient 300 $ par mois pour y stationner leurs véhicules récréatifs. Aucun revenu n’a été déclaré par l’appelant pour ces immeubles.
+Les thèses des parties
+[18] L’appelant explique avoir acquis les deux immeubles en son nom propre, alors qu’ils n’étaient pas destinés à son usage personnel. Les deux immeubles étaient loués à Sylvain Larose, qui payait un loyer. Il ajoute également qu’il a perçu un revenu en 2007 et 2008 pour l’exploitation du garage de l’immeuble de l’avenue De Beauharnois. À l’égard du produit d’assurance de 60 000 $, l’appelant explique qu’il a été utilisé pour couvrir une partie des dépenses de rénovation de 200 000 $.
+[19] L’intimée réitère le fait que les nouvelles cotisations pour les années d’imposition 2009 et 2010 de l’appelant s’appuient sur le règlement à l’amiable intervenu avec Revenu Québec et signé par l’appelant alors qu’il était représenté par un avocat.
+[20] Les activités menées par l’appelant aux deux immeubles comportaient un élément personnel, puisqu’ils étaient utilisés pour entreposer les machines à tricoter appartenant à l’appelant et sa voiture personnelle pendant l’hiver.
+[21] Les activités de location des deux immeubles de l’appelant n’étaient pas exercées conformément aux normes objectives de comportement de l’homme d’affaires sérieux.
+[22] La crédibilité de l’appelant est compromise vu qu’il n’a pas déclaré ses revenus locatifs perçus pour ses deux immeubles pour les années d’imposition 2009, 2010 et 2011 et n’a pas déclaré aux fins de l’impôt sur le revenu le produit d’assurance de 60 000 $ qu’il a perçu.
+[23] Le paragraphe 44(1) de la Loi permettant au contribuable de reporter la reconnaissance d’un gain en capital dans certaines circonstances lors de la disposition d’une immobilisation se qualifiant comme un ancien bien d’entreprise immédiatement avant la disposition n’est pas applicable en l’espèce. La définition de l’« ancien bien d’entreprise » exclut spécifiquement l’immeuble possédé par un contribuable et utilisé pendant cette même année en vue de générer des recettes brutes, c’est-à-dire un revenu locatif. Par conséquent, l’appelant devait inclure le gain en capital imposable de 100 000 $ dans son revenu pour l’année d’imposition 2010.
+[24] L’intimée soutient que la déclaration de revenus de l’appelant pour l’année d’imposition 2009 était erronée puisqu’elle n’incluait pas le revenu d’intérêt de 1 822 $. Par conséquent, l’appelant a fait une fausse déclaration attribuable à la négligence, à l’inattention ou à une omission volontaire et le ministre était justifié d’établir une nouvelle cotisation à l’égard de l’année d’imposition 2009 de l’appelant au-delà de la période normale de nouvelle cotisation.
+Discussion et conclusion
+[25] Tout d’abord, je veux souligner que la question relative à la prescription pour l’année d’imposition 2009 n’est pas visée par le présent appel, puisque l’appelant ne l’a pas soulevée dans son avis d’appel modifié. De plus, l’intérêt compris dans l’année d’imposition 2009 de l’appelant n’est pas non plus visé par le présent appel, car cette question n’est pas controversée par l’appelant. L’appelant avait le fardeau de démontrer qu’il n’a pas gagné ce revenu, ce qu’il n’a pas réussi à faire.
+[26] La jurisprudence a examiné à de nombreuses reprises la question de savoir si le contribuable a le droit de déduire des pertes de ses activités locatives et la réponse dépend de la source de revenus du contribuable, provenant soit d’une entreprise ou d’un bien.
+[27] Dans la décision Sokil c. La Reine, 2009 CCI 601, [2009] CarswellNat 4124, je renvoie au critère consacré par la Cour suprême du Canada dans l’arrêt Stewart c. Canada, 2002 CSC 46 (CanLII), pour déterminer « si les activités d’un contribuable sont une source de revenus constituée d’une entreprise » ou d’un bien (paragraphes 15 et 16) :
+[15] Dans l’arrêt Stewart v. Canada (2002), 2002 CSC 46 (CanLII), 56 D.T.C. 6969, 2002 DTC 6969, la Cour suprême du Canada a élaboré une méthode à deux volets pour déterminer si les activités d’un contribuable sont une source de revenus constituée d’une entreprise faisant en sorte que l’article 9 de la Loi s’applique. Au paragraphe 50, cette méthode à deux volets est présentée de la façon suivante :
+[...]
+(i) L’activité du contribuable est-elle exercée en vue de réaliser un profit, ou s’agit-il d’une démarche personnelle?
+(ii) S’il ne s’agit pas d’une démarche personnelle, la source du revenu est-elle une entreprise ou un bien?
+Le premier volet du critère vise la question générale de savoir s’il y a ou non une source de revenus; dans le deuxième volet, on qualifie la source d’entreprise ou de bien.
+[16] La Cour suprême du Canada a donné des précisions sur le premier volet du critère aux paragraphes 52, 54 et 55 de cet arrêt :
+[52] Ce premier volet du critère vise simplement à établir une distinction entre les activités commerciales et les activités personnelles [...] Ainsi, lorsque la nature de l’entreprise du contribuable comporte des aspects indiquant qu’elle pourrait être considérée comme un passe-temps ou une autre activité personnelle, mais que l’entreprise est exploitée d’une manière suffisamment commerciale, cette entreprise sera considérée comme une source de revenus aux fins d’application de la Loi.
+[...]
+[54] [...] Ainsi, sous une forme plus élaborée, le premier volet du critère susmentionné peut être reformulé ainsi : « Le contribuable a-t-il l’intention d’exercer une activité en vue de réaliser un profit et existe-t-il des éléments de preuve étayant cette intention? » Cela oblige le contribuable à établir que son intention prédominante était de tirer profit de l’activité et que cette activité a été exercée conformément à des normes objectives de comportement d’homme d’affaires sérieux.
+[55] Les facteurs objectifs énumérés par le juge Dickson dans Moldowan, précité, p. 486, étaient (1) l’état des profits et pertes pour les années antérieures, (2) la formation du contribuable, (3) la voie sur laquelle il entend s’engager, et (4) la capacité de l’entreprise de réaliser un profit. [...]
+[28] À mon avis, conformément à la jurisprudence Stewart, les activités locatives de l’appelant comportaient un élément personnel. L’appelant utilisait l’immeuble de l’avenue De Beauharnois pour entreposer ses machines à tricoter et l’immeuble de L’Île‑Perrot pour entreposer son véhicule personnel pendant l’hiver.
+[29] Le fait qu’un élément personnel existe dans les activités locatives de l’appelant ne signifie pas qu’il ne peut pas déduire ses pertes locatives. Comme mentionné dans l’arrêt Stewart, une analyse plus approfondie est nécessaire pour déterminer si l’appelant :
+- a l’intention de réaliser un profit de ses activités locatives et s’il existe des éléments de preuve étayant cette intention;
+- a exercé ses activités locatives conformément à des normes objectives de comportement de l’homme d’affaires sérieux.
+[30] En l’espèce, je suis d’avis que l’intention déclarée par l’appelant de réaliser un profit n’est pas étayée par la preuve. De plus, à mon avis, l’appelant n’a pas exercé ses activités locatives conformément aux normes objectives de comportement de l’homme d’affaires sérieux. Je conclus que l’appelant ne s’est pas acquitté de son fardeau de preuve.
+[31] L’appelant a déduit ses pertes locatives sans déclarer aux fins de l’impôt le revenu locatif tiré de ses activités locatives.
+[32] En ce qui concerne la question du gain en capital, je tiens à souligner que le paragraphe 44(1) de la Loi prévoit le roulement d’un bien de remplacement. Il s’agit d’une dispense de la règle générale de l’imposition des gains en capital et toutes les conditions doivent être satisfaites pour que le contribuable puisse s’en prévaloir.
+[33] Le paragraphe 44(1) de la Loi joue lorsque le contribuable dispose d’un « ancien bien d’entreprise » et acquiert, dans un délai imparti, une autre immobilisation en remplacement de l’ancien bien (le « bien de remplacement »). Lorsque toutes les conditions sont satisfaites, le contribuable peut, dans le calcul du gain en capital réalisé à la disposition de l’ancien bien, utiliser le prix de base rajusté du bien de remplacement (généralement le prix d’acquisition) plutôt que celui de l’ancien bien, et ainsi reporter l’inclusion d’au moins une partie du gain réalisé.
+[34] Vu les faits de l’espèce, je conclus que l’appelant ne pouvait pas se prévaloir des dispositions de roulement prévues par le paragraphe 44(1) de la Loi. La définition d’« ancien bien d’entreprise » prévue par le paragraphe 248(1) de la Loi exclut spécifiquement un bien locatif défini comme étant le bien immeuble dont le contribuable est propriétaire et qu’il utilise au cours de l’année d’imposition de sa disposition en vue d’en tirer un revenu brut qui consiste en un loyer. En outre, un ancien bien d’entreprise ne peut pas être remplacé par un immeuble locatif.
+[35] En 2010, puisque l’appelant n’exerçait aucune activité d’entreprise dans les immeubles de l’avenue De Beauharnois et de L’Île-Perrot, il n’est pas possible de qualifier l’immeuble de L’Île-Perrot comme immeuble de remplacement.
+[36] Pour tous ces motifs, l’appel est rejeté, avec dépens à l’intimée.
+Signé à Montréal (Québec), ce 14e jour de juillet 2022.
+« Réal Favreau »
+Le juge Favreau
+Traduction certifiée conforme
+ce 12e jour de janvier 2023.
+François Brunet, réviseur
+RÉFÉRENCE :
+2022CCI76
+NO DU DOSSIER DE LA COUR :
+2018-41229(IT)G
+INTITULÉ :
+GIACOMO TRIASSI c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDITION :
+Montréal (Québec)
+DATE DE L’AUDIENCE :
+LE 4 NOVEMBRE 2021
+MOTIFS DU JUGEMENT :
+L’honorable juge Réal Favreau
+DATE DU JUGEMENT :
+LE 14 JUILLET 2022
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Me Emmanuel Jilwan
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+[EN BLANC]
+Cabinet :
+[EN BLANC]
+Pour l’intimée :
+François Daigle
+Sous-procureur général du Canada
+Ottawa, Canada

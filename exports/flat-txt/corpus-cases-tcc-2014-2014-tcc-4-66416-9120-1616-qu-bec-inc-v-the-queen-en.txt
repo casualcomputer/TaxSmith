@@ -1,0 +1,202 @@
+Title: 9120-1616 Québec Inc. v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/66416/index.do
+Corpus path: corpus/cases/tcc/2014/2014-tcc-4-66416-9120-1616-qu-bec-inc-v-the-queen-en.md
+Document type: case_law
+Last modified: 2014-01-09
+
+# 9120-1616 Québec Inc. v. The Queen
+
+- Citation: 2014 TCC 4
+- Decision date: 2014-01-09
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5990, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+9120-1616 Québec Inc. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2014-01-09
+Neutral citation
+2014 TCC 4
+File numbers
+2009-3116(GST)I
+Judges and Taxing Officers
+Réal Favreau
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2009-3116(GST)I
+BETWEEN:
+9120-1616 QUÉBEC INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on June 6, 2013, at Montréal, Quebec.
+Before: The Honourable Justice Réal Favreau
+Appearances:
+Counsel for the appellant:
+Mimikos Athanassiadis
+Counsel for the respondent:
+Benoît Denis
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment dated July 18, 2008, with no identifying number, made by the Minister of Revenue of Quebec, pursuant to the Excise Tax Act, for the following four quarterly reporting periods of the appellant, which are not consecutive, from August 1, 2004, to October 31, 2004, from August 1, 2005, to October 31, 2005, from August 1, 2006, to October 31, 2006, and from August 1, 2007, to October 31, 2007, is allowed but only to give effect to the Minister’s concession at the opening of the hearing.
+Accordingly, the reassessment is referred back to the Minister for reconsideration and reassessment so that the amount of the adjustments made to the calculation of the net tax reported by the appellant for the four (4) reporting periods in question be reduced by the overassessed amount of $14,472.75 to $51,719.88, adjusted as per the applicable interest and penalties, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 9th day of January 2014.
+“Réal Favreau”
+Favreau J.
+Translation certified true
+on this 28th day of February 2014
+Daniela Guglietta, Translator
+Citation: 2014TCC4
+Date: 20140109
+Docket: 2009-3116(GST)I
+BETWEEN:
+9120-1616 QUÉBEC INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Favreau J.
+[1] This is an appeal, under the informal procedure, from a reassessment dated July 18, 2008, with no identifying number, made by the Minister of Revenue of Quebec (the Minister), pursuant to Part IX of the Excise Tax Act, R.S.C., 1985, c. E‑15, as amended (the ETA) for the following four (4) reporting periods of the appellant, which are not consecutive, from August 1, 2004, to October 31, 2004, from August 1, 2005, to October 31, 2005, from August 1, 2006, to October 31, 2006, and from August 1, 2007, to October 31, 2007 (the periods in question).
+[2] The amounts assessed on July 18, 2008, are as follows:
+Adjustments in the calculation of the reported net tax
+[$21,365.14 + $16,042.66 + $16,861.39 +
+$11,923.44]
+$66,192.63
+Late remitting penalty
+[$3,309.71 + $1,362.12 + $340.70]
+$5,012.53
+Penalties under section 285 of the ETA
+(25% of $64,472.75)
+$16,118.19
+Interest on arrears
+[$4,715.08 + $2,886.01 + $2,250.20 + $1,463.15]
+$11,314.44
+Total [amount owing]
+$98,637.79
+and the amount of the net tax that should have been reported by the appellant for the four (4) periods in question is $87,860.33;
+[3] The adjustments in the amount of $66,192.63 to the calculation of the net tax reported by the appellant referred to in the previous paragraph can be broken down as follows:
+Goods and services tax (hereinafter the GST) collected or collectable
+$64,472.75
+Input tax credits (hereinafter the ITCs) over-claimed or claimed in error or without entitlement
+$1,719.88
+Total
+$66,472.75
+[4] The appellant does not expressly contest, in its Notice of Appeal, the $1,719.88 in ITCs, overclaimed or claimed in error or without entitlement, mentioned above.
+[5] The Minister imposed on the appellant a penalty in the amount of $5,012.53 under section 280 of the ITA, as well as a penalty in the amount of $16,118.19 (that is 25% of $64,472.75), pursuant to section 285. Interest was also calculated on the GST that the appellant was required to collect with respect to the taxable supplies it made but did not enter in its accounting records.
+[6] In his assessment of the appellant, the Minister relied on, but not exclusively, the following findings and assumptions of fact, set out in paragraph 27 of the Reply to the Notice of Appeal:
+[Translation]
+(a) the facts admitted above;
+(b) the appellant is a registrant for the purposes of Part IX of the E.T.A.;
+(c) the appellant’s fiscal years began on November 1 of a given calendar year and ended on October 31 of the following calendar year;
+(d) the appellant operated a licensed restaurant;
+(e) the appellant filed its GST net tax returns quarterly during the 4 periods in question;
+(f) all the supplies made by the appellant in the operation of the restaurant, a commercial activity, during the period starting May 1, 2004, and ending October 31, 2007 (hereinafter the “audit period”) were taxable supplies for which a tax, the GST, of 7% or 6% (depending on whether consideration for the supply was paid or invoiced before July 1, 2006 [7%] or after June 30, 2006 [6%]) on the value of the consideration for the supply, was payable by the appellant’s buyers, to be collected by the appellant;
+(g) since the appellant’s accounting books and records, given to the Minister when required at the time of the audit, were incomplete and unclear, for inter alia, the fiscal years ending October 31, 2005, and October 31, 2007, and the last six (6) months of the fiscal year ending October 31, 2004, the Minister reconstructed the total amount of the supplies made by the appellant using an indirect audit method for the audit period;
+(h) for the fiscal year ending October 31, 2006, the Minister determined that, for each combined litre of beer and wine the appellant supplied by sale, the appellant made taxable supplies for the restaurant (food and alcohol) of $78.8604;
+(i) the amount, or ratio, mentioned in the preceding subparagraph for said fiscal year was established based on all the available accounting data submitted by the appellant to the Minister, which was very detailed and which, overall, was deemed reliable for purposes of establishing said ratio, namely the “SALES DETAILS BY MENU/CATEGORY/ITEM”;
+(j) more specifically, the Minister noted, for said fiscal year ending October 31, 2006, all the litres of beer and wine sold and accounted for by the appellant, which totalled 6,898 litres (within that amount, the Minister took into account the happy hour component and other similar adjustments following submissions made by the appellant prior to the assessment), as well as the amount of the consideration for all the supplies made for the restaurant (food and alcohol) which was accounted for by the appellant, which totalled $543,983.00, and separated them from each other to obtain the aforementioned ratio of $78.8604/litre of beer and wine sold;
+(k) said accounting data, namely “SALES DETAILS BY MENU/CATEGORY/ITEM” or under another similar form, was not submitted to the Minister when required to do so for the other periods contained within the audit period, namely the last six (6) months of the fiscal year ending October 31, 2004 (from May 1, 2004, to October 31, 2004) and the fiscal years ending October 31, 2005, and October 31, 2007;
+(l) in order to reconstruct the total amount of supplies made by the appellant for the last six (6) months of the fiscal year ending October 31, 2004 (from May 1, 2004, to October 31, 2004) and the fiscal years ending October 31, 2005, and October 31, 2007, contained in the audit period, the Minister was forced to use the ratio he calculated for the fiscal year ending October 31, 2006;
+(m) based on the purchase invoices submitted by the appellant or the data provided by the brewers and the SAQ, the Minister determined the quantities, converted in litres, of wine and beer acquired by the appellant and supplied by the appellant by sale for each of the three fiscal years contained in the audit period as well as the entire fiscal year ending October 31, 2004, even though only the last six (6) months of said fiscal year are part of the audit period, and made some adjustments to take into account losses incurred by the appellant (the quantities used in the kitchen or consumed by staff, complimentary beverages offered to clients and losses of any nature, established at 8% for all said products, with the exception of beer, for which losses were established between 4.3% and 19.9%) and, where applicable, the change in inventory at the beginning and at the end of the fiscal year, set the total at 10,843,015 litres for the fiscal year ending October 31, 2004, at 10,350,845 litres for the fiscal year ending October 31, 2005, at 9,673,711 litres for the fiscal year ending October 31, 2006, and at 10,120,289 litres for the fiscal year ending October 31, 2007;
+(n) the Minister multiplied the respective quantities of wine and beer acquired by the appellant at the preceding subparagraph, which the appellant supplied, by the aforementioned ratio at subparagraph (j) above for each of the four (4) fiscal years mentioned earlier;
+(o) the total amount of the taxable supplies made by the appellant reconstructed by the Minister for the audit period is $3,050,784.94, that is, $673,550.21 for the last six (6) months of the fiscal year ending October 31, 2004 ($10,843,015 litres x $78.8604 x 79% [percentage of sales reported for this period throughout the fiscal year]), $816,271.84 for the fiscal year ending October 31, 2005 (10,350,845 litres x $78.8604), $762,872.78 for the fiscal year ending October 31, 2006 (9,673,711 litres x $78.8604) and $798,090.10 for the fiscal year ending October 31, 2007 (10,120,289 litres x $78.8604);
+(p) the appellant indicated, for the audit period, in its accounting books and records or, based on the GST amount reported for that same audit period, having made taxable supplies in the amount of $2,256,258.43;
+(q) the appellant did not, for the audit period, indicate in its accounting books and records supplies it made in the amount of $794,526.51 ($3,050,784.94 - $2,256,258.43);
+(r) the GST amount that the appellant collected or was required to collect during the audit period is $203,033.20, that is, 7% of $1,998,610.26 (for supplies made before July 1, 2006) plus 6% of $1,052,174.68 (for supplies made after June 30, 2006);
+(s) the appellant filed its net tax returns with the Minister and reported, for the audit period, an overall amount of $138,560.45 of GST collected or collectable in computing its net tax;
+(t) the appellant did not, therefore, report, in computing its net tax, during the audit period, an amount of $64,472.75 ($203,033.20 - $138,560.45) in GST collected or collectable;
+(u) the appellant therefore owes the Minister the amount of the adjustments made to its reported net tax for the 4 periods in question, plus interest and penalties;
+[7] At the opening of the hearing, counsel for the respondent filed on consent with counsel for the appellant, an Amended Reply to the Notice of Appeal by which the Minister recognizes that the adjustments in the calculation of the reported net tax that were assessed, were overestimated and subject to a concession by the respondent. As a result, the amount of the adjustments in the calculation of the net tax for the four (4) periods in question must, therefore, be reduced by the overassessed amount of $14,472.75, plus the interest and penalties that will have to be adjusted accordingly.
+[8] To take into account the concession described in the preceding paragraph, the Minister relied this time on the following findings and assumptions of fact set out in paragraph 27.1 of the Amended Reply to the Notice of Appeal:
+[Translation]
+(aa) for the fiscal year ending October 31, 2006, the Minister determined that, for combined litre of beer and wine the appellant supplied by sale, the appellant made taxable supplies for the restaurant (food and alcohol) of $74.17 (and not $78.8604 as mentioned in subparagraph 27(h) above).
+(bb) the Minister noted, for said fiscal year ending October 31, 2006, all the litres of beer and wine sold and accounted for by the appellant, which totalled 7,334 litres (and not 6,898 litres as mentioned at subparagraph 27(j) above) (within that amount, the Minister took into account the happy hour component at about 1,000 litres offered free of charge and other similar adjustments following submissions made by the appellant prior to the assessment), as well as the amount of the consideration for all the supplies made for the restaurant (food and alcohol) which was accounted for by the appellant, which totalled $543,983.00, and separated them from each other to obtain the aforementioned ratio of $74.17/litre of beer and wine sold;
+(cc) said ratio of $74.17/litre for the fiscal year ending October 31, 2006, was rounded off to $74.00/litre;
+(dd) to account in some way for the inflation factor, the Minister determined the ratio for the last six (6) months of the fiscal year ending October 31, 2004 (from May 1, 2004, to October 31, 2004) at $72.00/litre; for the fiscal year ending October 31, 2005, at $73.00/litre and for the fiscal year ending October 31, 2007, at $75.00/litre (and not at $78.8604 for these three periods as mentioned at subparagraph 27(l) above);
+(ee) the Minister multiplied the respective quantities of wine and beer acquired by the appellant at paragraph 27(m) above, which the appellant supplied, by the aforementioned ratios at the two subparagraphs above for each of the four (4) fiscal years, or part of the years, mentioned earlier;
+(ff) the total amount of the taxable supplies made by the appellant reconstructed by the Minister for the audit period is $2,845,443.15 (and not $3,050,784.94 as mentioned at subparagraph 27(j) above), that is, $614,955.18 for the last six (6) months of the fiscal year ending October 31, 2004, $755,611.69 for the fiscal year ending October 31, 2005, $715,854.61 for the fiscal year ending October 31, 2006, and $759,021.68 for the fiscal year ending October 31, 2007;
+(gg) the appellant indicated, for the audit period, in its accounting books and records or, based on the GST amount reported for that same audit period, having made taxable supplies in the amount of $2,097,298.15 (and not $2,256,258.43 as mentioned at subparagraph 27(p) above).
+(hh) the appellant did not, for the audit period, indicate in its accounting books and records supplies it made in the amount of $748,145.01 ($2,845,443.15 - $2,097,298.15);
+(ii) the GST amount that the appellant collected or was required to collect during the audit period is $189,206.55 (and not $203,033.20 as mentioned at subparagraph 27(r) above).
+(jj) the appellant did not, therefore, report, in computing its net tax, during the audit period, an amount of $50,646.11 ($189,206.55 - $138,560.45) in GST collected or collectable, that amount being rounded off to $50,000.00;
+[9] The issue to determine is whether the appellant failed to include, in the calculation of the net tax it reported to the Minister for the four (4) periods in question, an amount of $50,000 in GST it collected or was required to collect and whether the appellant is liable for ITCs overclaimed or claimed in error or without entitlement in the amount of $1,719.88.
+[10] At the opening of the hearing, the appellant admitted having purchased the quantities, converted in litres, of beer and wine for all of the reporting periods falling within the audit period. Counsel for the respondent explained that the accounting data provided by the appellant for the fiscal year ending October 31, 2006, was the initial focus of the audit. The data provided by the appellant was very detailed and was considered reliable by the auditor for purposes of establishing the ratio that indicates each litre of beer and wine sold (food and alcohol). The ratio determined for the 2006 fiscal year was applied to the other reporting periods included in the audit period because the accounting books and records for those other reporting periods were incomplete and unclear.
+[11] Georges Bakopanos testified at the hearing as manager and owner of the restaurant Le Topaze in Lachine, a patio bar with four (4) liquor permits. He explained the audit process and the difficulties he experienced with the auditor to rectify the numerous errors attributable primarily to the theft of alcohol, gratuities, the two-for-one from 4 p.m. to 7 p.m., special orders (food with wine), the personal consumption of staff, the percentage of losses (breakages-returns-clean-ups). Following his submissions, the auditor made adjustments to her first draft assessment. According to the witness, the adjustments made by the auditor were clearly insufficient. For example, the quantities of beer and wine contained in the beverage glasses of various sizes were not measured. According to him, the errors and corrections made by the auditor affect the reliability of the respondent’s data.
+[12] The auditor did not testify at the hearing because she no longer works for the Ministère du Revenu du Québec. Counsel for the respondent, however, filed a number of documents prepared by the auditor or used by her in the course of her audit. Among those documents are (a) spreadsheets for the calculation of the ratio of $74.17 per litre of beer and wine sold that was rounded off to $74.00; (b) numerous excerpts from detailed sales reports by menu, category and item provided by the Bacchus Gourmet software; and (c) submissions made to the auditor with respect to the sales made during the period ending October 31, 2006, and with respect to the quantities of beer and wine contained in the various glasses and other containers used for service.
+[13] The excerpts from the detailed sales reports filed in evidence primarily demonstrated inconsistencies in the way special orders were recorded in the system. Based on the appellant’s data, special bar orders (0003) represent 556 units of beer sold at an average price of $4.95; special orders (0002) represent 491 units of wine sold with a meal at an average price of $18.95 and special orders (0019) represent 45 pitchers of beer sold at a price of $10.
+[14] With respect to special bar orders (0003), the average price of consumption for the 2006 fiscal year was $4.97, whereas it was $4.71 for the 1st quarter of 2006, $1.98 for the 2nd quarter of 2006, $4.93 for the 3rd quarter of 2006 and finally $10.71 for the 4th quarter of 2006.
+[15] With respect to special orders (0002), the average price of tables d’hôte for the 2006 fiscal year was $18.95, whereas it was $18.84 for the 1st quarter of 2006, $8.08 for the 2nd quarter of 2006, $15.39 for the 3rd quarter of 2006, and finally $31.30 for the 4th quarter of 2006.
+[16] With respect to special orders (0019), the average price of a pitcher of beer for the 2006 fiscal year was $10.18 (rounded off to $10.00), whereas it was $8.59 for the 2nd quarter of 2006, $12.76 for the 3rd quarter of 2006 and finally $8.63 for the 4th quarter of 2006. It should be noted that for the 1st quarter of 2006, no entries were made in the system.
+[17] During oral submissions, counsel for the appellant mainly attacked the reliability of the auditor’s figures considering the numerous adjustments that had to be made to her calculations until the very day of the hearing by the filing of the Amended Reply to the Notice of Appeal and he lamented the fact that the auditor could not be cross-examined at the hearing.
+[18] Counsel for the appellant also criticized the Minister for not producing any calculations supporting the granting of 1,000 litres of alcohol to take into account the happy hour component and other similar adjustments. According to him, that adjustment is clearly insufficient because the appellant’s data indicates that alcohol sales made during the two-for-one from 4 p.m. to 7 p.m. account for at least 58% of the total alcohol sales and because the respondent did not produce any evidence that the appellant’s data in that regard was inaccurate.
+[19] With respect to special orders, counsel for the appellant acknowledged that the data recorded in the system was not always accurate because the price of promotions and specials changed regularly and the employees occasionally entered the wrong codes. Counsel for the appellant downplayed the importance of those errors in light of the fact the total of the special orders only accounted for $10,000 to $11,000 of sales out of $543,383 for the 2006 fiscal year.
+[20] Counsel for the respondent alleged that the appellant had no bookkeeping and no records for the two-for-one. The detailed sales recorded in the Bacchus Gourmet system did not contain any data regarding the two-for-one. The Minister still took them into account by granting 984 litres of alcohol sold during the two-for-one promotion. Counsel for the respondent acknowledged that the data recorded in the Bacchus Gourmet system for the 2006 fiscal year was fairly accurate but that the data for the other periods was not.
+[21] The only issue in dispute is the $50,000 gap in the calculation of the appellant’s net tax for the audit period and the ratio of $74.00 per litre of beer and wine sold by the appellant. Counsel for the respondent wanted to show that the data and calculations used to establish the ratio of $74.00 per litre sold were reliable and |reasonable in the circumstances.
+[22] Counsel for the respondent demonstrated that there was an unjustified gap of $13,000 between the reported sales for the 2006 fiscal year in the amount of $543,383 and the total detailed sales recorded in the Bacchus Gourmet system for the same period in the amount of $530,297.92.
+[23] Counsel for the respondent explained the reasons that 5000 ml of forgotten or miscalculated beer was added to the number of litres of alcohol sold, which resulted in an increase in the number of litres sold from 6,080 to 7,334 in light of the additional 287 litres sold and the 967 litres relating to the happy hour (984 litres with rounding). These adjustments brought the ratio per litre sold to $74.17, rounded off to $74.00.
+[24] The 984 litres allowed for the happy hour must be compared to the 2,780 litres claimed by the appellant. However, by excluding the hard liquor, cocktail and liqueur sales, which total 482 litres, the number of litres claimed by the appellant increases from 2,780 litres to 2,298 litres, a difference of 1,300 litres compared to the 984 litres allowed by the Minister.
+[25] With respect to the alcohol sales made during the happy hour, counsel for the respondent argued that the onus was on the appellant to show that its data was reliable and accurate. According to counsel for the respondent, the appellant did not show this. No one corroborated the data provided by the appellant. The data stored in the Bacchus Gourmet system does not show the sales made during the two-for-one and the internal alcohol inventory control system is rather unreliable.
+[26] Counsel for the respondent also attacked the witness’s credibility because he provided inaccurate details about the special orders and was not consistent in his explanations.
+[27] According to counsel for the respondent, the Minister was fully justified in using an alternative audit method in this case as the beer and wine sales made during the two-for-one were not recorded in the Bacchus Gourmet system and because there were discrepancies in the data recorded in Bacchus Gourmet between the quarterly data and the overall result for 2006.
+[28] Counsel for the respondent acknowledged that the granting of the 1,000 litres of alcohol consumed during the two-for-one promotion was arbitrary as were the 2,298 litres claimed by the appellant and submitted that the adjustments made by the Amended Reply to the Notice of Appeal did not invalidate the entire assessment and the entire audit.
+Relevant statutory provisions and burden of proof
+[29] Subsection 286(1) of the ETA sets out the agent’s duty to keep books and records:
+Every person who carries on a business or is engaged in a commercial activity in Canada, every person who is required under this Part to file a return and every person who makes an application for a rebate or refund shall keep records in English or in French in Canada, or at such other place and on such terms and conditions as the Minister may specify in writing, in such form and containing such information as will enable the determination of the person’s liabilities and obligations under this Part or the amount of any rebate or refund to which the person is entitled.
+[30] Subsection 288(1) of the ETA confers on duly authorized persons the authority to audit, among other things, an agent’s books and records to determine the agent’s tax liability:
+An authorized person may, at all reasonable times, for any purpose related to the administration or enforcement of this Part, inspect, audit or examine the documents, property or processes of a person that may be relevant in determining the obligations of that or any other person under this Part or the amount of any rebate or refund to which that or any other person is entitled. . . .
+[31] Under subsection 296(1) of the ETA, the Minister of National Revenue may assess, reassess or make an additional assessment of, inter alia, the net tax of an agent for a reporting period of the agent as well as any penalty or interest payable by the agent.
+[32] Under subsection 299(3) of the ETA, an assessment shall be deemed to be valid and binding, subject to being vacated on an objection or appeal under this Part and subject to a reassessment.
+[33] In Amiante Spec Inc. and Her Majesty The Queen, 2009 FCA 139 (CanLII), the Federal Court of Appeal made the following comments regarding the applicable burden of proof where a taxpayer wishes to challenge the validity of an assessment or reassessment:
+[15] Hickman reminded us that the Minister proceeds on assumptions in order to make assessments and that the taxpayer has the initial burden of demolishing the exact assumptions stated by the Minister. This initial onus is met where the taxpayer makes out at least a prima facie case that demolishes the accuracy of the assumptions made in the assessment. Lastly, when the taxpayer has met his or her onus, the onus shifts to the Minister to rebut the prima facie case made out by the taxpayer and prove the assumptions (Hickman, supra, at paragraphs 92, 93 and 94).
+. . .
+[23] A prima facie case is one "supported by evidence which raises such a degree of probability in its favour that it must be accepted if believed by the Court unless it is rebutted or the contrary is proved. It may be contrasted with conclusive evidence which excludes the possibility of the truth of any other conclusion than the one established by that evidence" (Stewart v. Canada, [2000] T.C.J. No. 53, paragraph 23).
+[24] Although it is not conclusive evidence, "the burden of proof put on the taxpayer is not to be lightly, capriciously or casually shifted", considering that "[i]t is the taxpayer's business" (Orly Automobiles Inc. v. Canada, 2005 FCA 425, paragraph 20). This Court stated that the taxpayer "knows how and why it is run in a particular fashion rather than in some other ways. He [or she] knows and possesses information that the Minister does not. He [or she] has information within his [or her] reach and under his [or her] control" (ibid.).
+Analysis and conclusion
+[34] Based on what was adduced in evidence, it appears to me that the Minister was justified in using an indirect audit method to determine that the appellant’s net tax amounts were indeed reported.
+[35] The unjustified gap of $13,000 between the sales reported and the sales recorded in the Bacchus Gourmet system for the 2006 fiscal year, the errors in recording data on special orders and the absence of a record of beer and wine sales made during the two-for-one fully justified the use of an indirect audit method in this case.
+[36] The audit was laborious and communication between the appellant and the auditor appears to have been rather difficult. In such a context, it is not surprising that numerous adjustments had to be made to the draft assessment and the assessment itself. Having regard to all the adjustments made, it is still appropriate to conclude that the indirect audit method used by the Minister yielded reliable results.
+[37] The accounting data provided by the appellant for the fiscal year ending October 31, 2006, was considered by the auditor as being sufficiently reliable for purposes of establishing the ratio that indicates each litre of beer and wine sold. The quantities of litres of beer and wine purchased during all the reporting periods falling within the audit period were admitted by the appellant. The indirect audit method used by the Minister was approved by a number of decisions of our Court, including those rendered in 9100-8649 Québec Inc. v. The Queen, 2013 TCC 160 (on appeal to the Federal Court of Appeal), Restaurant Place Romaine Inc. v. The Queen, 2010 TCC 347 and 9110-1568 Québec Inc. v. The Queen, 2009 TCC 554, and is not contested by the appellant.
+[38] Indeed, the appellant’s main point of contention is the allowance of 1,000 litres of alcohol to take into account the happy hour component and other similar adjustments, which, according to the appellant, is clearly insufficient considering the fact that the alcohol sales performed during the two-for-one account for at least 58% of the restaurant’s total alcohol sales. The allowance granted by the Minister represents approximately 10% of the litres of beer and wine purchased by the appellant during 2006 (that is approximately 9,000 litres) and approximately 14% of all the litres of beer and wine sold by the appellant (that is approximately 7,334 litres) during that same period. As explained at paragraph 24 above, the issue involves the 1,300 litres of alcohol, that is, the difference between the litres claimed by the appellant (2,298 litres) and the 984 litres allowed by the Minister.
+[39] The onus was on the appellant to show that the beer and wine sales made during the two-for-one were greater than the 984 litres allowed by the Minister. In my view, the appellant did not discharge its burden of proof in that respect. The evidence submitted by the appellant does not create the degree of probability required to constitute a prima facie case sufficient to reverse the burden of proof given the absence of a record of beer and wine sales made during the two-for-one, the lack of corroboration for the number of litres of beer and wine sold during the two-for-one submitted by the appellant and the non-probative value of the testimony of Mr. Bakopanos, who provided sometimes contradictory explanations regarding the gaps recorded with respect to special orders.
+[40] The allowance of 984 litres granted by the Minister to account for the beer and wine sales made during the two-for-one is reasonable in the circumstances. Considering the fact that Mr. Bakopanos’s testimony is not corroborated by reliable documentary evidence or by the testimony of credible and independent witnesses, it is difficult for me to grant an additional allowance to the appellant.
+[41] As for the penalties provided for in sections 280 and 285 of the ETA, counsel for the appellant did not make any submissions at the hearing and are, therefore, uncontested by the appellant. Section 285 provides the application of the penalty when a person “knowingly, or under circumstances amounting to gross negligence, has made or has participated in, assented to or acquiesced in the making of, a false statement or omission”. The burden of proof regarding this provision is on the respondent. The evidence showed that the appellant repeatedly made false statements or omissions in its tax returns. The appellant did not provide any explanations for its omissions and the only possible conclusion is that they are the result of wilful negligence by the appellant that amounts to gross negligence.
+[42] For these reasons, the appeal is allowed but only to give effect to the Minister’s concession at the opening of the hearing. Accordingly, the reassessment is referred back to the Minister for reconsideration and reassessment so that the amount of the adjustments made to the calculation of the net tax reported by the appellant for the four (4) reporting periods in question be reduced by the overassessed amount of $14,472.75 to $51,719.88, adjusted as per the applicable interest and penalties.
+Signed at Ottawa, Canada, this 9th day of January 2014.
+“Réal Favreau”
+Favreau J.
+Translation certified true
+on this 28th day of February 2014
+Daniela Guglietta, Translator
+CITATION: 2014 TCC 4
+COURT FILE NO.: 2009-3116(GST)I
+STYLE OF CAUSE: 9120-1616 Québec Inc. and Her Majesty the Queen
+PLACE OF HEARING: Montréal, Quebec
+DATE OF HEARING: June 6, 2013
+REASONS FOR JUDGMENT BY: The Honourable Justice Réal Favreau
+DATE OF JUDGMENT: January 9, 2014
+APPEARANCES:
+Counsel for the appellant:
+Mimikos Athanassiadis
+Counsel for the respondent:
+Benoît Denis
+COUNSEL OF RECORD:
+For the appellant:
+Name: Mimikos Athanassiadis
+Firm: Mimikos Athanassiadis
+Lawyer
+Westmount, Quebec
+For the respondent: William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

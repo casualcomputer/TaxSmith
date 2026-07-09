@@ -1,0 +1,152 @@
+Title: Gagné c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26051/index.do
+Corpus path: corpus/cases/tcc/2004/2004-cci-362-26051-gagn-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2004-05-20
+
+# Gagné c. M.R.N.
+
+- Citation: 2004 CCI 362
+- Decision date: 2004-05-20
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4079, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Gagné c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-05-20
+Référence neutre
+2004 CCI 362
+Numéro de dossier
+2003-2997(EI)
+Juges et Officiers taxateurs
+Sylvio J. Savoie
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2003-2997(EI)
+ENTRE :
+GILLES GAGNÉ,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+____________________________________________________________________
+Appel entendu le 23 février 2004 à Montréal (Québec)
+Devant : L'honorable S.J. Savoie, juge suppléant
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocat de l'intimé :
+Me Simon-Nicolas Crépin
+____________________________________________________________________
+JUGEMENT
+L'appel est rejeté et la décision rendue par le Ministre est confirmée selon les motifs du jugement ci-joints.
+Signé à Grand-Barachois (Nouveau-Brunswick), ce 20e jour de mai 2004.
+« S.J. Savoie »
+Juge suppléant Savoie
+Référence : 2004CCI362
+Date : 20040520
+Dossier : 2003-2997(EI)
+ENTRE :
+GILLES GAGNÉ,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+MOTIFS DU JUGEMENT
+Le juge suppléant Savoie
+[1] Cet appel a été entendu à Montréal (Québec), le 23 février 2004.
+[2] Cet appel porte sur la détermination des heures assurables de l'appelant, pour la période du 29 octobre 2002 au 14 janvier 2003, lorsqu'au service de Écotherm Inc., ci-après appelé le payeur, au sens de la Loi sur l'assurance-emploi (la « Loi » ).
+[3] Le 20 mai 2003, le ministre du Revenu national (le « Ministre » ) a informé l'appelant de sa décision selon laquelle il était déterminé que les heures d'emploi assurables de l'appelant totalisaient 560.
+[4] En rendant sa décision, le Ministre s'est fondé sur les présomptions de fait suivantes :
+a) le payeur a été constitué en société le 11 mai 2001; (ignoré)
+b) le payeur démarrait une entreprise de distribution de radiateurs électriques; (admis)
+c) l'appelant a été embauché comme directeur général; (admis)
+d) les tâches de l'appelant consistaient à promouvoir les ventes et à coordonner les activités du payeur; (admis)
+e) l'appelant et le payeur avaient signé une convention d'emploi le 28 novembre 2002; (admis)
+f) les heures d'ouverture du bureau du payeur étaient de 9 h 00 à 17 h 00 du lundi au vendredi; (admis)
+g) une entente était intervenue entre le payeur et l'appelant pour que ce dernier débute son travail au bureau à 10 h 00 afin de lui éviter les heures d'achalandage sur les routes; (admis avec précisions)
+h) le prédécesseur de l'appelant travaillait 8 heures par jour; (nié)
+i) l'appelant travaillait un peu plus, soit 10 heures par jour; (nié)
+j) la première semaine, l'appelant a travaillé 4 jours pour un total de 40 heures; (nié)
+k) l'appelant a travaillé ensuite 10 semaines à 50 heures par semaine pour un total de 500 heures; (nié)
+l) la dernière semaine de la période, l'appelant n'a travaillé que deux jours pour un total de 20 heures; (nié)
+m) l'appelant a travaillé au total pendant 560 heures pour le payeur; (nié)
+n) le 27 janvier 2003, le payeur remettait à l'appelant un relevé d'emploi qui indiquait comme premier jour de travail le 29 octobre 2002 et comme dernier jour de travail le 14 janvier 2003, et qui indiquait 560 heures assurables. (admis)
+[5] L'appelant réclame avoir travaillé un total d'heures assurables de 1 386, c'est-à-dire, pendant la période en litige, qu'il a travaillé 15 heures par jour, 7 jours par semaine totalisant 105 heures par semaine et qu'il a droit, en outre, à deux semaines de préavis.
+[6] Le Ministre, pour sa part, a établi le montant d'heures assurables à 560, selon son calcul de 10 heures par jour, 5 jours par semaine pendant 10 semaines. Il a ajouté à cela 4 jours de travail pour 40 heures pour la première semaine travaillée et 2 jours de travail pour 20 heures pour la dernière, ce qui totalise 560 heures. Le montant d'heures assurables tel que déterminé par le Ministre correspond au même total que celui inscrit sur le relevé d'emploi qui a été remis par le payeur à l'appelant le 27 janvier 2003, c'est-à-dire 560 heures assurables.
+[7] La preuve a établi qu'une entente avait été conclue entre les parties mais que celle-ci ne prévoyait pas le nombre d'heures de travail. Cependant, l'entente n'a pas été produite. Par ailleurs, la preuve a révélé qu'à partir du 28 novembre 2002, monsieur Prats, le vice-président du payeur et gendre du propriétaire, ne reconnaissait pas le nombre d'heures réclamé par l'appelant et qu'il en avait informé ce dernier le jour même. L'appelant admet que monsieur Prats l'a informé qu'il n'acceptait pas ce chiffre qui, selon lui, n'était pas raisonnable. Les 105 heures par semaine, il a appelé ça de « l'esclavagisme » [sic]. Selon monsieur Prats, l'employeur n'exigeait pas un tel nombre d'heures de la part de l'appelant. Aussi, celui-ci aurait demandé à l'appelant de renoncer à sa réclamation pour un tel nombre d'heures.
+[8] La preuve a révélé que le prédécesseur de l'appelant travaillait huit heures par jour, mais qu'il n'avait pas rencontré les attentes du payeur, qui a terminé son emploi après cinq mois. Monsieur Prats a déclaré que le remplaçant de l'appelant travaille 40 heures par semaine, mais admet cependant, que celui-ci bénéficie du travail réalisé par l'appelant. Il a été établi que le payeur ne s'attendait pas à ce que l'appelant travaille plus de 50 heures par semaine, comme c'est le cas en France où se trouve le siège social du payeur.
+[9] Un document intitulé « MÉMO » (pièce A-1) adressé par l'appelant à monsieur Prats et daté du 26 janvier 2003 établit que l'appelant travaillait de longues heures, souvent tard dans la nuit, de façon à pouvoir communiquer avec le bureau chef, en France. Les nombreux rapports d'activités supportent les longues heures de travail de l'appelant, nécessaires pour rencontrer les exigences du payeur. Ces rapports, produits en liasse sous la cote A-1, documentent en détail les tâches accomplies par l'appelant dans le cadre de ses fonctions reconnues par le payeur qui considérait l'appelant comme son maître d'oeuvre. Il était le directeur général et avait été embauché comme tel.
+[10] La preuve documentaire produite par l'appelant établit que celui-ci a accompli pendant la période en litige un travail colossal. Ceci n'a pas été contredit par le Ministre.
+[11] Le représentant du payeur, monsieur Prats, soutient que la réclamation de l'appelant n'est pas raisonnable. Il ajoute qu'il lui était impossible de vérifier un tel nombre d'heures. Pourtant, il reconnaît l'existence d'une entente selon laquelle l'appelant pouvait débuter son travail au bureau à 10 h afin d'éviter les heures d'achalandage sur les routes. Le payeur savait, en outre, que l'appelant faisait du travail à partir de sa demeure.
+[12] Il convient de reproduire le « mémo » de l'appelant destiné à Pierick Prats daté du 26 janvier 2003. Ce « mémo » fait partie de la pièce A-1 et résume de façon détaillée la position de l'appelant et vient supporter les allégués de l'appelant. Il s'agit de ses nombreux comptes-rendus qui décrivent ses activités tout au long de la période en litige. Je reproduis le « mémo » ci-dessous :
+MÉMO
+À : Pierick Prats FAX # : 1-514-636-8733
+DE : Gilles Gagné
+OBJET :Erreurs sur relevé d'emploi Date : dimanche, 26 janvier, 2003
+Case 15A, Heures assurables :Suite à notre conversation téléphonique du 22-01-03 et ton refus d'inclure la période de préavis de 2 semaines prévue à la convention d'emploi en cas de terminaison, j'ai vérifié auprès du service d'assistance du Développement des Ressources Humaines Canada pour compléter le formulaire de Relevé d'emploi et auprès du Bureau de Services Fiscal de l'agence des Douanes de Revenu Canada. La raison pour laquelle les 2 semaines de préavis doivent être prises en compte dans l'établissement du nombre de semaines pour le calcul du nombre d'heures assurables est indiquée au « Tableau résumé pour la rémunération et les heures assurables » du document que tu as en ta possession intitulé « Comment remplir le relevé d'emploi » à la ligne #31 que nous avons lu ensemble; « Le salaire versé pour la période de préavis reconnue, travaillée ou non » doit être pris en compte dans le calcul du nombre d'heures assurables indiqué à la case # 15A, soit un total de 132 semaines.
+Case 11, Dernier jour payé : Pour la raison indiquée en 15A, le dernier jour payé est le dernier jour de la dernière semaine de salaire assurable, soit le dernier jour de la dernière semaine de préavis, donc le 28-01-03.
+Case 12, Date de fin de période de paye : Pour la même raison qu'en case 15A, le dernier jour de la dernière période de paye assurable, soit la dernière semaine de préavis est donc le 31-01-03.
+Case 15B, Rémunération assurable et case 17A, Paye de vacances : Après vérification auprès de la Commission des Normes du Travail, le 6% est aussi applicable sur la semaine de vacances du Jour de l'an.
+Concernant le nombre de jours par semaine utilisé pour le calcul du nombre d'heures assurables à la case 15A, tu confirmes que tu pourrais utiliser 6 jours de travail par semaine plutôt que le 5 jours utilisé dans le relevé d'emploi original pour refléter un peu mieux le volume de travail que j'ai effectué, mais tu refuses d'utiliser 7 jours, ce qui serait le reflet réel des jours effectivement travaillés. Concernant le nombre d'heures travaillées par jour, tu confirmes utiliser 10 heures par jour plutôt que 8 heures, mais tu refuses d'utiliser 15 heures par jour, soit le nombre réel d'heures travaillées.
+Ta justification est à l'effet que ce n'est pas raisonnable et que tu n'étais pas en mesure de vérifier le nombre d'heures par jour ainsi que le nombre de jours par semaine. Que ce soit raisonnable ou non, c'est le nombre réel d'heures et de jours que j'ai effectivement travaillé. Nous savons tous que vos attentes et les échéances à rencontrer pour sauver ce qui pouvait être sauvé de la saison de chauffage n'étaient pas raisonnables. Dès mon entrée en fonction tu m'as indiqué l'urgence de générer des entrées de fonds, compte tenu de la panoplie d'erreurs que vous aviez faites jusqu'à ce jour, depuis août 2001, soit plus d'une année complète. Des fonds engloutis en pure perte de plus de $300,000, et de la possibilité que M. Peyronny mette fin abruptement à l'aventure en Amérique du Nord.
+Comme tu m'avais indiqué dès le départ que je pouvais travailler de la maison ou au bureau, tu n'es effectivement pas en mesure de vérifier toutes les heures de travail, ni celles effectuées à la maison parce que tu n'y étais pas, ni celles effectuées au bureau. Tu ne peux vérifier le travail effectué au bureau les soirs et les fins de semaines puisque tu n'y étais pas. Je peux te le confirmer parce que j'y étais. Tu peux même difficilement vérifier les heures de travail effectuées au bureau de jour dû à tes fréquentes absences du bureau.
+Pourtant tu ne peux plaider l'ignorance. Mon Rapport d'activités #1 (créé à 05h58 le lundi 25-11-02 et imprimé à 7h56 le mardi 26-11-02) que tu as reçu en main propre, indique à la page 2 que le samedi 02-11-02, j'ai terminé avec toi, l'installation des radiateurs dans la salle de montre du bureau et que le dimanche 03-11-02 j'ai réviser les brochures Européennes en prévision de la rédaction d'une brochure Québécoise. Mon Rapport d'activités #2 (créé à 08h26 le vendredi 22-11-02 et imprimé à 05h55 le lundi 25-11-02) indique à la page 3 que les samedi et dimanche 8 & 9-11-03 ont été consacrés à la rédaction du dépliant tel qu'il avait été entendu avec toi le vendredi précédent. Puis ce furent les échéances rapprochées pour la publicité dans les Revues de décoration. Le 28-11-02 je t'ai montré un formulaire de confirmation d'emploi destiné à Emploi Québec sur lequel je confirmais travailler 105 heures par semaine.
+Les samedi 30-11-02 et dimanche 01-12-02 ont été consacrés à la rédaction de la brochure, tel qu'indiqué au compte rendu du 24-12-02 à M. Peyronny où j'explique que pour rencontrer l'échéance irréaliste de sortie de la brochure du 20-12-02, la graphiste exigeait le 28-11-02 d'avoir le texte et les photos le lundi 2-12-02, ce qui ne me laissait que le week end pour tout faire.
+Dans mon compte rendu #4 daté du samedi 14-12-02, (créé à 08h06 le jeudi 12-12-02, imprimé à 11h32 et transmis par télécopieur à 11h33 le samedi 14-12-02) j'indique à M. Peyronny que la livraison des 3 premiers clients et l'échange de radiateurs pour l'une des clientes, a été faite le samedi 07-12-02. C'est d'ailleurs ce samedi 07-12-02 que j'ai apporté l'équipement de manutention et d'entreposage, pour réduire les frais d'Écotherm, tel qu'il avait été entendu au préalable avec toi et que tu as refusé par la suite de rembourser. C'est aussi ce samedi 07-12-02 que j'ai hérité d'une contravention en effectuant les livraisons. Dans le même compte rendu j'indique « ...que je travaille 15 heures par jour, 7 jours par semaine pour arriver à faire avancer les choses qui auraient dues avoir été faites depuis un an et qu'à 105 heures/semaine, c'est le travail de 3 semaines de 35 heures dans une semaine, à raison de $11/l'heure. »
+Au compte rendu #5 daté du 24-12-02, créé à 08h42 le dimanche 22-12-02, imprimé à 14h55 et transmis à 14h59 par télécopieur le mardi 24-12-02 (journée de maladie), j'indique que la 4e vente a eu lieu le samedi 21-12-02 et que la livraison se fera le samedi suivant, soit le 28-12-02. Le 27-12-02, lors d'une conversation téléphonique avec M. Peyronny, j'explique à nouveau que je dois travailler 15 heures par jour, 7 jours par semaine, soit 105 heures par semaine pour récupérer ce qui est récupérable de la saison de chauffage et rencontrer toutes les échéances. Le 30-12-02 pour la promotion du tirage du Salon National de l'Habitation, le 03-01-03 pour l'aménagement du kiosque du Salon National de l'Habitation, l'embauche des 2 conseillers pour le 06-01-03, le remplacement de la secrétaire qu'il m'a demandé, etc...
+Tel qu'indiqué au compte rendu #6 du dimanche 5 janvier, si je n'ai pu prendre une seule journée de la semaine de vacances qui m'était imposée au Jour de l'an, malgré que ce congé aurait été plus que mérité compte tenu de la somme de travail effectué jusqu'alors, c'est qu'il y avait encore beaucoup trop à faire pour que je puisse me le permettre.
+Dans mon compte rendu #6 du dimanche 05-01-03, j'indique aussi à M. Peyronny que la livraison prévue pour samedi le 28-12-02 t'a été déléguée pour me permettre de consacrer les samedi & dimanche 28 & 29-12-02 à passer des entrevues aux candidats pour les 2 postes de conseillers. Le Plan de développement d'Écotherm et le Rapport d'utilisation du budget qui accompagne ce compte rendu sont tous deux datés du dimanche 05-01-03. M. Peyronny m'a fait parvenir sa réponse au bureau par télécopieur, le dimanche soir 05-01-03 à 1h30 du matin, alors que j'étais encore au bureau. Je lui ai même retourné l'information réclamée concernant mes numéros de téléphone personnels quelques minutes plus tard dans la même nuit du dimanche au lundi 05-01-03.
+À mon compte rendu du samedi 11-01-03, j'indique à nouveau à M. Peyronny que les entrevues des candidats pour les 2 postes de conseillers ont eu lieu les samedi & dimanche 28 & 29-12-02, que « ...je dois travailler 15 heures par jour, 7 jours par semaine...et que mes filles ont perdu leur père depuis 2 mois et ½. » Le Plan de développement d'Écotherm et le Rapport d'utilisation du budget qui accompagnent ce compte rendu sont tous deux datés du dimanche 12-01-03.
+Les nombreux échanges de correspondance dans chacun des dossiers sur lesquels j'ai travaillé, avec la graphiste pour l'établissement de la publicité dans les revues de décoration et au répertoire des exposants du Salon National de l'Habitation et pour la rédaction de la brochure. La correspondance avec le personnel des revues de décoration et avec l'ensemble du personnel du Salon National de l'Habitation et de la Place Bonaventure, la correspondance envoyée et la correspondance reçue, quelques fois à des heures indues, dont tu as toi même été témoin à l'occasion, démontrent sans l'ombre d'un doute la véracité d'un travail colossal et sans interruption, de 75 longues journées de travail de 15 heures, 7 jours par semaine.
+La correspondance qui t'était personnellement adressée et la correspondance avec M. Peyronny le confirment aussi. Voir le tableau [...] montrant l'amplitude de l'horaire de travail du directeur général d'Écotherm Canada pour les 10 derniers jours d'emploi. Les heures sont tirées des données statistiques des documents et fichiers enregistrés sur mon ordinateur, du rapport de transmission de mon télécopieur et de mon compte d téléphone pour les appels outre mer effectués vers la France.
+S'il est parfaitement vrai que tu n'es pas en mesure de vérifier chacune des heures de travail (ce qu'aucun employeur ne peut faire d'ailleurs!) et que pour cette raison tu ne peux confirmer que le travail colossal qui a été effectué l'a été au prix d'un investissement de temps hors du commun, tu n'es pas davantage en mesure de réduire l'investissement de temps que j'ai effectué en argumentant qu'il s'agissait arbitrairement de 560 heures basé sur 8 ou 10 heures de travail par jour à raison de 5 ou 6 jours par semaine, ni de refuser de prendre en compte dans le calcul du nombre d'heures assurables, les 2 semaines de préavis prévues à la convention d'emploi.
+Ton refus d'inclure les 2 semaines de préavis reconnues, conformément aux directives de Développement des Ressources Humaines Canada et ton attitude de vouloir à tout prix réduire l'investissement de temps colossal que j'ai mis pendant mon emploi chez Écotherm, commence à ressembler à de la mauvaise foi et à une fausse déclaration de la part du représentant d'un employeur, délit passible de poursuites et d'une pénalité pouvant atteindre $25,000, en vertu de l'article 39 de la loi de l'assurance-emploi et/ou du Code criminel.
+[13] La qualité du travail exécuté par l'appelant n'a jamais été mise en doute par le payeur. Au contraire, le payeur a reconnu avoir bénéficié de la qualité du travail de l'appelant après le départ de ce dernier et même à ce jour. À l'audition, la preuve a été faite que contrairement à son prédécesseur, un monsieur Lamoureux qu'on a dû mettre à pied, l'appelant a rendu de précieux services au payeur dont il récolte toujours les bénéfices.
+[14] Le vice-président du payeur, monsieur Prats, à l'audition, a admis que l'appelant, d'après lui, devait sans doute travailler 10 heures par jour, 5 jours par semaine et même parfois les fins de semaine. Cependant, il n'a pas été en mesure d'établir la fréquence des fins de semaine travaillées ni le nombre d'heures travaillées. Il a admis qu'il ignorait l'heure d'arrivée au bureau de l'appelant et que ce dernier était toujours à son poste quand il partait à 16 heures. Monsieur Prats a ajouté que le payeur n'exigeait pas de l'appelant un nombre précis d'heures de travail mais il a reconnu que l'appelant « a fait énormément de travail...trop tôt pour en porter des fruits...ça prend du temps...par rapport à la structure qu'il commençait à mettre en place... »
+[15] Monsieur Prats est le remplaçant de l'appelant. Il travaille 40 heures par semaine. Mais, ce dernier a précisé :
+C'est vrai qu'on bénéficie du travail fait par lui, de ce qu'il a mis en place. La compagnie a fait des progrès.
+[16] Devant cette impasse, le Ministre s'appuie sur le paragraphe 10(3) du Règlement sur l'assurance-emploi pour faire sa détermination dans ce dossier. Le paragraphe en question est libellé comme suit :
+Lorsque le nombre d'heures convenu par l'employeur et le travailleur ou le groupe de travailleurs conformément au paragraphe (2) n'est pas raisonnable ou qu'ils ne parviennent pas à une entente, chaque travailleur est réputé avoir travaillé le nombre d'heures d'emploi assurable établi par le ministre du Revenu national d'après l'examen des conditions d'emploi et la comparaison avec le nombre d'heures de travail normalement accomplies par les travailleurs s'acquittant de tâches ou de fonctions analogues dans des professions ou des secteurs d'activité similaires.
+[17] À l'audition, l'appelant a été interrogé par le procureur du Ministre sur sa façon de gérer son horaire serré, alors que divorcé avec la garde partagée de deux adolescents, l'entretien de la maison, le ménage, les repas et l'épicerie. L'appelant a dû admettre que cela présentait des difficultés, mais qu'il avait tenu le coup.
+[18] Voici un autre dossier qui, quoique sympathique du point de vue de l'appelant, doit être résolu selon les dispositions du législateur. Il en a prévu le règlement au paragraphe 10(3) du Règlement ci-haut mentionné. Le Ministre a fait sa détermination tel que l'exige le paragraphe en question, en tenant compte de l'information recueillie du payeur.
+[19] Dans ces circonstances, l'intervention de cette Cour n'est pas justifiée. L'appel est rejeté et la détermination du Ministre est confirmée.
+Signé à Grand-Barachois (Nouveau-Brunswick), ce 20e jour de mai 2004.
+« S.J. Savoie »
+Juge suppléant Savoie
+RÉFÉRENCE :
+2004CCI362
+No DU DOSSIER DE LA COUR :
+2003-2997(EI)
+INTITULÉ DE LA CAUSE :
+Gilles Gagné et M.R.N.
+LIEU DE L'AUDIENCE :
+Montréal (Québec)
+DATE DE L'AUDIENCE :
+Le 23 février 2004
+MOTIFS DE JUGEMENT PAR :
+L'honorable S.J. Savoie,
+juge suppléant
+DATE DU JUGEMENT :
+Le 20 mai 2004
+COMPARUTIONS :
+Pour l'appelant :
+L'appelant lui-même
+Pour l'intimé :
+Me Simon-Nicolas Crépin
+AVOCAT(E) INSCRIT(E) AU DOSSIER:
+Pour l'appelant :
+Nom :
+Étude :
+Pour l'intimé :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

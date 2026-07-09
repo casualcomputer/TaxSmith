@@ -1,0 +1,122 @@
+---
+title: "Nigro v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26059/index.do"
+last_modified: "2003-04-25"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 CCI 190"
+citation2: ""
+neutral_citation: "2003 CCI 190"
+decision_date: "2003-04-25"
+language: "fr"
+item_id: "26059"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4054
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T19:15:37.994000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "148f87686a9f7685b4a074aed6ec0e5d03cd077abfa1fbdd31dcfaaab2e9bdc8"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Nigro v. The Queen
+
+- Citation: 2003 CCI 190
+- Decision date: 2003-04-25
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4054, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Nigro v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-04-25
+Référence neutre
+2003 CCI 190
+Numéro de dossier
+2000-746(IT)G
+Juges et Officiers taxateurs
+Michael J. Bonner
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Dossier: 2000-746(IT)G
+ENTRE :
+SALVATORE NIGRO,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 19 mars 2003, à Toronto (Ontario)
+Devant : l'honorable juge Michael J. Bonner
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocate de l'intimée :
+Me Andrea Jackett
+____________________________________________________________________
+JUGEMENT
+L'appel de la cotisation établie en vertu de la Loi de l'impôt sur le revenu pour l'année d'imposition 1993 est rejeté, et les dépens sont adjugés à l'intimée.
+Signé à Toronto (Ontario), le 25 avril 2003.
+« Michael J. Bonner »
+J.C.C.I.
+Traduction certifiée conforme
+ce 22e jour de mars 2005.
+Sophie Debbané, réviseure
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Référence: 2003CCI190
+Date: 20030425
+Dossier: 2000-746(IT)G
+ENTRE :
+SALVATORE NIGRO,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Bonner, C.C.I.
+[1] Il s'agit d'un appel d'une cotisation de l'impôt et de la pénalité afférente en vertu de l'article 163(2) de la Loi de l'impôt sur le revenu (la « Loi » ) pour l'année d'imposition 1993.
+[2] Pendant l'année, des montants importants ont transité par trois comptes en banque contrôlés par l'appelant. Des dépôts totalisant environ 2,7 millions de dollars ont été effectués. De ce total, tout sauf 150 349 $ a été débité du compte et crédité à Guido Muto (Muto) ou à des personnes choisies par lui. Le ministre du Revenu national (le « ministre » ) a déterminé que ce montant de 150 349 $ constituait le revenu de l'appelant.
+[3] L'appelant a produit une déclaration de revenu pour 1993 dans laquelle il a déclaré un revenu égal à zéro. Le ministre a imposé une pénalité en vertu de l'article 163(2) de la Loi à l'égard de l'omission de divulguer le revenu cotisé.
+[4] D'après la position de l'appelant dans le présent appel, il n'a pas reçu le revenu sur lequel il a été imposé.
+[5] La preuve de l'appelant était qu'avant 1993, il travaillait dans le domaine du voyage. Il a rencontré Muto. Les deux hommes avaient du « respect » l'un pour l'autre. Muto exploitait une entreprise de voyage et une entreprise d'import-export. L'appelant voulait travailler avec lui. Muto a demandé à l'appelant la permission d'utiliser les comptes en banque de celui-ci et de contribuer à l'exploitation de ses entreprises par la recherche d'investisseurs disposés à prêter à Muto l'argent nécessaire pour les financer. En échange de cela, l'appelant s'attendait à recevoir des actions dans les entreprises.
+[6] Je remarque qu'à aucun endroit dans la preuve ne se trouve d'explication claire et crédible de la raison pour laquelle Muto n'a pas ouvert ses propres comptes en banque. L'appelant a déclaré qu'il n'a pas interrogé Muto à ce sujet.
+[7] L'appelant avait trois comptes en banque. L'un était à son nom et, dans la preuve, était désigné comme son compte personnel. Les deux autres comptes étaient au nom d'une entreprise individuelle dénommée Virgo Marketing and Sales Consultants.
+[8] L'appelant a témoigné que, conformément à l'entente entre lui et Muto, l'argent était déposé dans les comptes et versé par chèques en blanc signés par l'appelant et remis à Muto pour son usage. En outre, de l'argent en espèces était prélevé sur les dépôts.
+[9] L'appelant a dit qu'il avait aidé Muto à emprunter de l'argent, mais qu'il avait dû cesser de le faire après l'interruption des remboursements aux prêteurs. L'appelant a dit que le montant en espèces prélevé sur les dépôts et obtenu lors de l'encaissement des chèques était utilisé pour rembourser les prêteurs. D'après l'appelant, certains prêteurs avaient avancé de l'argent et voulaient être remboursés en espèces. Les prêts consentis en espèces étaient, d'après lui, fort élevés, de l'ordre de 7 000 $ à 10 000 $. L'appelant n'a pas essayé d'expliquer pourquoi on préférait utiliser de l'argent liquide.
+[10] L'appelant a témoigné qu'aucune partie de l'argent déposé dans les comptes ne devait servir à son usage personnel. Lors du contre-interrogatoire, il a admis que certains montants avaient été prélevés sur le compte personnel pour couvrir des dépenses personnelles, mais il a dit que la source de l'argent utilisé à cette fin était de l'argent qui lui avait été prêté par sa mère. On n'a pas établi clairement quand ou comment l'argent emprunté s'est retrouvé dans le compte en banque.
+[11] Les personnes qui ont prêté l'argent à Muto n'ont pas reçu de billets à ordre. Aucune des personnes qui sont censées avoir consenti des prêts n'a été appelée à témoigner. L'appelant a donné deux explications : la première étant qu'il ne se rappelait pas de qui il s'agissait, et la deuxième étant qu'il ne pensait pas que ces personnes seraient venues témoigner.
+[12] D'après l'appelant, aucun dossier n'a été tenu afin d'établir la distinction entre ses dépôts et ceux de Muto dans son compte personnel.
+[13] Muto a témoigné à l'audition de l'appel. En réponse à des questions suggestives posées par l'appelant, il a confirmé qu'il avait demandé à l'appelant la permission d'utiliser les comptes en banque de celui-ci; qu'il avait effectué des dépôts et des prélèvements sur ces comptes; qu'il avait demandé à l'appelant d'encaisser des chèques pour rembourser des prêteurs; qu'il n'avait pas rémunéré l'appelant pour l'utilisation des comptes et qu'il avait promis à l'appelant une part dans ses entreprises une fois qu'elles seraient [TRADUCTION] « sur pied » . Le contre-interrogatoire ne l'a pas ébranlé, mais il avait une attitude prudente, et je ne suis pas persuadé que sa franchise ait été entière.
+[14] Anna Muto, la fille de Muto, a été convoquée à témoigner. Elle s'est souvenue que l'appelant et Muto s'étaient rencontrés dans le bureau de Muto. À part cela, elle a répondu à toutes les questions en affirmant qu'elle ne se souvenait pas.
+[15] Il incombe à l'appelant d'établir, selon la prépondérance des probabilités, que la base factuelle sur laquelle repose une cotisation fiscale est erronée. Il lui aurait été possible de s'acquitter du fardeau de la preuve en l'espèce si l'appelant avait présenté une preuve crédible que tout l'argent ayant transité par ces comptes était versé ou appartenait à un tiers. Il ne s'est pas acquitté du fardeau de la preuve. Je n'accepte ni le témoignage de l'appelant, ni celui de Muto. Leur récit n'était guère crédible, et aucun document écrit cohérent ne venait l'appuyer. J'ai eu l'impression que les deux hommes voulaient dissimuler l'essentiel des opérations nécessitant l'utilisation par Muto de comptes en banque détenus par l'appelant. Le récit de l'appelant est d'autant moins crédible qu'il n'a appelé aucun des soi-disant prêteurs à témoigner.
+[16] Il semble peu probable que Muto ait voulu utiliser les comptes en banque de l'appelant s'il n'avait rien eu à cacher. Il est difficile de concevoir que l'appelant ait collecté et distribué l'argent de Muto sans une rémunération plus immédiate et tangible que la promesse d'une part future dans l'entreprise de Muto. L'appelant a produit une convention d'actionnaires non signée qui, semble-t-il, aurait été préparée en 1992. Le document ne confirme pas l'affirmation de l'appelant selon laquelle il a rendu service à M. Muto en 1993 dans l'espoir d'obtenir une part de l'entreprise de Muto. L'action du ministre consistant à inclure 150 349 $ dans les cotisations n'était donc pas erronée.
+[17] En vertu de l'article 163(3) de a Loi, il incombe au ministre d'établir les faits qui justifient l'imposition d'une pénalité. En l'espèce, l'appelant a produit une déclaration de revenus qui indiquait un revenu égal à zéro alors qu'en fait il était de 150 349 $. L'omission de déclarer un montant aussi important ne peut censément être attribuée à la négligence ordinaire. À mon avis, l'appelant a sciemment omis ce revenu de sa déclaration. La pénalité a donc été imposée à bon escient.
+[18] Pour ces motifs, l'appel est rejeté avec dépens.
+Signé à Toronto (Ontario), le 25 avril 2003.
+« Michael J. Bonner »
+J.C.C.I.
+Traduction certifiée conforme
+ce 22e jour de mars 2005.
+Sophie Debbané, réviseure

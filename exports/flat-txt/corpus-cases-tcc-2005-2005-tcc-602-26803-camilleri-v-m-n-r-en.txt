@@ -1,0 +1,86 @@
+Title: Camilleri v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26803/index.do
+Corpus path: corpus/cases/tcc/2005/2005-tcc-602-26803-camilleri-v-m-n-r-en.md
+Document type: case_law
+Last modified: 2005-09-12
+
+# Camilleri v. M.N.R.
+
+- Citation: 2005 TCC 602
+- Decision date: 2005-09-12
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3483, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Camilleri v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-09-12
+Neutral citation
+2005 TCC 602
+File numbers
+2005-922(EI)
+Judges and Taxing Officers
+Judith Woods
+Subjects
+Employment Insurance Act
+Decision Content
+Citation: 2005TCC602
+Date: 20050912
+Docket: 2005-922(EI)
+BETWEEN:
+STEPHANIE CAMILLERI,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGMENT
+(delivered orally from the Bench
+on August 5, 2005 at Edmonton, Alberta)
+Woods J.
+[1] This is an appeal by Stephanie Camilleri in respect of a decision of the Minister of National Revenue that she was not engaged in insurable employment for purposes of the Employment Insurance Act. The Minister's decision was based on a finding that Ms. Camilleri's terms of employment were not arm's length. The central provision at issue is paragraph 5(3)(b) of the Act.
+[2] Under the relevant provisions of the Employment Insurance Act, a person who works for a corporation owned by persons related to her is deemed not to have insurable employment unless the terms of employment are substantially similar to arm's length terms. For the reasons that follow, I am satisfied that a non-arm's length finding is reasonable based on the evidence at the hearing.
+[3] Ms. Camilleri worked for a corporation in the oil service business that is owned by her parents. She worked for a division with about four employees and her employment began in January, 2003. The circumstances that led Ms. Camilleri to work in the family business were that her father wa/// t able to keep up with the growth in the business and was in danger of losing his biggest customer, Talisman Energy Inc. Talisman insisted in having someone in the office from 8 a.m. until 5 p.m. to answer phone calls.
+[4] Ms. Camilleri was employed at the rate of $12 per hour which the Crown does not dispute is an arm's length rate of pay for the services that she performed. These services, as described in the worker's questionnaire that Ms. Camilleri filled out, were secretarial duties, maintenance of computer databases and graphics.
+[5] The reasons for the Minister's determination that Ms. Camilleri's terms of employment were not arm's length are set out in the report of the appeals officer. There were two main reasons. The first is that Ms. Camilleri's remuneration was not paid on a regular basis and the cheques were not cashed on a regular basis. This fact was not disputed and the details are set out in paragraph 7(m) of the Minister's reply. The second reason is that Ms. Camilleri did not work a regular 40 hour work week. The hours of work are also not in dispute. They are set out in detailed time sheets that were introduced into evidence and are summarized in paragraph 7(q) of the Reply. The evidence shows that Ms. Camilleri's hours were often considerably less than 40 hours per week.
+[6] In my view, the substantial delays in the payment of the remuneration is a sufficient reason to justify a determination that Ms. Camilleri's terms of employment were not substantially similar to arm's length terms. The Reply of the Minister summarizes the date that cheques were issued for the pay periods. It shows a consistent pattern of delay in issuing the cheques. Some of the delays were a short period of time but in many cases the delay was for a period of months. For example, the pay cheques for the periods from February to July, 2003 were not issued until August and the pay cheques for the periods August to December, 2003 were not issued until December. The delays continued on throughout the relevant period although the delays were shorter as time went on.
+[7] Ms. Camilleri explained the delays by saying that there were cash flow issues with the business and that she had difficulties with the accounting system which her father did not have time to attend to with his busy schedule. In my view, these are not circumstances under which arm's length employees would generally work. Ms. Camilleri introduced evidence to show that other employees suffered delays in pay due to cash shortages. However these delays were not regular and did not last for lengthy periods. In my view, the delays in Ms. Camilleri's case go beyond what I believe most employees would tolerate.
+[8] As for the other factors that the Minister took into account, the hours of work and the delay in cashing cheques, I have concluded that it is reasonable to conclude that they also tend to point to non-arm's length terms of employment. In my view, Ms. Camilleri's evidence was not specific enough to explain the circumstances of her working less than 40 hours a week or why the cheques were not cashed in time. I would also note that her testimony did in certain respects conflict with answers she had given in the questionnaire that she had provided to the Canada Revenue Agency. I refer in particular to whether there was a written contract and the hours of work.
+[9] It appears from the time sheets that the hours of work were flexible. This may have been because Ms. Camilleri did not want to take money from the business during periods where there was no work for her to do. It also may have been because other family members could pitch in at the office when she wanted to take some time off. This would not be unusual in a family run business but in my view it is unusual in arm's length employment.
+[10] For the above reasons, I am satisfied that a finding that Ms. Camilleri's employment was not on arm's length terms is reasonable. The appeal is dismissed.
+Signed at Ottawa, Canada this 12th day of September, 2005.
+"J. Woods"
+Woods J.
+CITATION:
+2005TCC602
+COURT FILE NO.:
+2005-922(EI)
+STYLE OF CAUSE:
+Stephanie Camilleri and The Minister of National Revenue
+PLACE OF HEARING:
+Edmonton, Alberta
+DATE OF HEARING:
+July 29, 2005
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Judith Woods
+DATE OF JUDGMENT:
+August 9, 2005
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Kim Gowin
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+n/a
+Firm:
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,152 @@
+Title: Roy c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/365062/index.do
+Corpus path: corpus/cases/tcc/2019/2019-cci-50-365062-roy-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2019-03-18
+
+# Roy c. La Reine
+
+- Citation: 2019 CCI 50
+- Decision date: 2019-03-18
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4304, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Roy c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2019-03-18
+Référence neutre
+2019 CCI 50
+Numéro de dossier
+2017-2709(IT)I
+Juges et Officiers taxateurs
+Guy R. Smith
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2017-2709(IT)I
+ENTRE :
+SHAIBAL THEODORE ROY,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 11 décembre 2018, à Toronto (Ontario); observations écrites déposées les 15 janvier et 25 février 2019.
+Devant : L'honorable juge Guy R. Smith
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocat de l'intimée :
+Me Derek Edwards
+JUGEMENT
+L'appel interjeté à l'encontre des nouvelles cotisations établies pour les années d'imposition 2013, 2014 et 2015 en vertu de la Loi de l'impôt sur le revenu est accueilli et l'affaire est déférée au ministre pour nouvel examen et nouvelles cotisations conformément aux motifs du jugement ci‑joints.
+Les dépens sont adjugés contre l'intimée et fixés à 1 000 $ (y compris les débours) à payer immédiatement.
+Signé à Ottawa, Canada, ce 5e jour de mars 2019.
+« Guy R. Smith »
+Le juge Smith
+Référence : 2019 CCI 50
+Date : 20190318
+Dossier : 2017-2709(IT)I
+ENTRE :
+SHAIBAL THEODORE ROY,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT MODIFIÉS
+(Les présents motifs du jugement modifiés remplacent les motifs du jugement du 5 mars 2019.)
+Le juge Smith
+I. Introduction
+[1] Il s'agit d'un appel interjeté sous le régime de la procédure informelle à l'encontre des cotisations établies par le ministre du Revenu national (le « ministre ») pour les années d'imposition 2013, 2014 et 2015, comme l'indique l'avis de ratification du 27 mars 2017. Plus précisément, le ministre a réduit le montant déductible au titre du Régime enregistré d'épargne-retraite (REÉR) de l'appelant en se fondant sur le fait qu'il avait versé des cotisations non déduites de 2 000 $ au cours des années antérieures dont le ministre a autorisé la déduction en 2013, ce qui a réduit le solde à néant. Le ministre a adopté la thèse selon laquelle l'appelant n'a pas reporté de cotisations non déduites en 2014 et en 2015 et n'a pas versé de cotisations à son REÉR, de sorte qu'il n'avait pas droit à une déduction pour ces années d'imposition.
+[2] L'appelant n'est pas d'accord. Il fait valoir qu'il a versé une contribution importante à son REÉR en 2006 et que, compte tenu des déductions au titre du REÉR demandées de 2006 à 2012, il avait des cotisations non déduites à un REÉR qu'il a déclarées dans les limites du maximum déductible pour chacune des années d'imposition visées.
+[3] La seule question à trancher dans le présent appel est de savoir si l'appelant avait des cotisations non déduites à un REÉR de plus de 2 000 $ au début de l'année d'imposition 2013.
+II. Le contexte
+[4] L'appelant a témoigné pour son propre compte. Selon sa thèse, que le ministre reconnaît, il avait des cotisations non déduites à un REÉR de 1 856 $ au début de l'année d'imposition 2006. Il a versé 34 000 $ de plus au cours des 60 premiers jours de 2006 et 9 000 $ de plus au cours des 10 derniers mois de 2006, faisant en sorte que ses cotisations non déduites totalisaient 44 856 $.
+[5] Le ministre reconnaît également que l'appelant a demandé des déductions au titre du REÉR sans dépasser le maximum déductible au cours des années suivantes :
+2006
+2 683 $
+2007
+3 028 $
+2008
+3 054 $
+2009
+3 311 $
+2010
+2 518 $
+2011
+3 603 $
+2012
+3 298 $
+Total :
+21 495 $
+[6] Il n'est pas contesté que les cotisations de l'appelant en 2006 ont dépassé le « maximum déductible au titre des REÉR » au sens du paragraphe 146(1) de la Loi de l'impôt sur le revenu, L.R.C., 1985, ch. 1 (5e suppl.) (la « Loi »). L'appelant croyait qu'il s'agissait du moindre du « plafond REÉR » pour l'année d'imposition et de 18 % de son revenu gagné au cours de l'année précédente, moins son facteur d'équivalence.
+[7] L'appelant prétend que les cotisations excédentaires au REÉR ont été placées dans des titres qui ont rapidement perdu toute valeur. Il reconnaît avoir pris de très mauvaises décisions en matière de placements. Par conséquent, à l'exception de la somme de 1 090 $ retirée en 2008, il n'a pas été en mesure de retirer les cotisations excédentaires et le compte REÉR a finalement été fermé en mars 2012.
+[8] Entre-temps, l'appelant n'avait pas déclaré ses cotisations excédentaires en produisant la déclaration T1‑OVP, « Déclaration des particuliers — Cotisations excédentaires versées à un REÉR, RPAC et RPD ». Par conséquent, il a finalement fait l'objet d'une cotisation d'impôt en vertu de la partie X.1 de la Loi. Le paragraphe 204.1(2.1) prévoit un impôt payable calculé mensuellement au taux de 1 % des cotisations excédentaires cumulatives :
+204.1(2.1) Le particulier qui, à la fin d'un mois donné postérieur au mois de décembre 1990, a un excédent cumulatif au titre de régimes enregistrés d'épargne‑retraite doit, pour ce mois, payer un impôt selon la présente partie égal à 1 % de cet excédent.
+[9] L'appelant s'est également vu imposer des pénalités pour production tardive et des arriérés. Il a fini par déposer une demande d'allégement pour les contribuables en vertu du paragraphe 204.1(4) :
+204.1(4) Le ministre peut renoncer à l'impôt dont un particulier serait, compte non tenu du présent paragraphe, redevable pour un mois selon le paragraphe (1) ou (2.1), si celui-ci établit à la satisfaction du ministre que l'excédent ou l'excédent cumulatif qui est frappé de l'impôt fait suite à une erreur acceptable et que les mesures indiquées pour éliminer l'excédent ont été prises.
+[Non souligné dans l'original.]
+[10] La demande d'allégement de l'appelant a été acceptée. Dans une lettre du 19 juin 2015, le ministre a répondu qu'il était convaincu que la [TRADUCTION] « cotisation excédentaire fait suite à une erreur acceptable » et que [TRADUCTION] « nous avons réduit à néant votre cotisation excédentaire ». Pour cette raison, le ministre a confirmé qu'il renonçait à l'impôt en question, ainsi qu'aux pénalités et aux intérêts, soit 39 193,08 $. Le ministre n'a pas expliqué l'effet, le cas échéant, que cela aurait sur ses cotisations non déduites au REÉR à l'avenir.
+[11] L'appelant a déposé une copie de son avis de cotisation du 5 juin 2014 pour l'année d'imposition 2013. Il s'agissait de l'avis de cotisation initial. Il faisait état d'un maximum déductible de 3 298 $ pour 2013 et de cotisations non déduites à un REÉR de 23 439 $ pour 2014. Selon l'appelant, ce dernier montant correspondait plus ou moins à la différence entre ses cotisations à un REÉR en 2006 et les déductions demandées au titre d'un REÉR de 2006 à 2012, comme il a été mentionné ci‑dessus.
+[12] Toutefois, l'avis de nouvelle cotisation pour l'année d'imposition 2013 faisait état de [TRADUCTION] « cotisations non déduites des années antérieures de 2 000 $ [...] ». La seule explication fournie dans l'avis de ratification du 27 mars 2017 était la suivante :
+[TRADUCTION]
+Un examen des faits et des documents a révélé que le 22 avril 2016, le facteur d'équivalence de 6 027 $ a été ajouté à votre déclaration de revenus de 2003 de même qu'un revenu supplémentaire. Ces rajustements ont permis de recalculer votre maximum déductible annuel au titre d'un REÉR pour les années subséquentes (de 2004 à 2015).
+[13] Il s'agissait clairement d'une erreur et l'appelant a déposé un imprimé de l'Agence du revenu du Canada (ARC) (pièce A‑2) indiquant qu'on avait en fait tenu compte d'un facteur d'équivalence de 6 027 $ dans le calcul de son maximum déductible au titre d'un REÉR pour 2003. Dans une lettre du 22 septembre 2016, le ministre a reconnu que le rajustement était erroné.
+[14] À la fin de l'audience, la Cour a demandé qu'on lui présente des observations écrites et, plus précisément, a demandé à l'ARC un compte rendu complet des cotisations de l'appelant à un REÉR.
+III. Analyse
+[15] Dans ses observations écrites, l'intimée fait valoir que l'appelant [TRADUCTION] « aurait dû payer de l'impôt sur les contributions excédentaires au REÉR au titre de l'article 3 de la Loi » et que la perte de valeur monétaire réelle du placement du REÉR [TRADUCTION] « n'a aucune incidence sur l'obligation de l'appelant de payer de l'impôt et l'on ne devrait pas en tenir compte ». Je ne souscris pas à la thèse de l'intimée.
+[16] L'article 3 de la Loi, et plus précisément l'alinéa 56(1)h) et le paragraphe 146(8), prévoient que les « retraits » d'un REÉR doivent être inclus dans le revenu (Andaluz c. La Reine, 2015 CCI 165, au par. 10). Bien que cela ne soit pas pertinent en l'espèce, il faut tout de même indiquer que le paragraphe 146(8.2) est une disposition d'allégement permettant aux contribuables de retirer les cotisations excédentaires versées par inadvertance dans un délai d'un an et de se prévaloir d'une déduction compensatoire (Vale c. La Reine, 2004 CCI 107), de sorte que le retrait ne soit en fait pas imposable. Toutefois, les cotisations excédentaires retirées après un an doivent être incluses dans le revenu (Pelletier c. La Reine, 2006 CCI 237).
+[17] L'intimée explique que les cotisations totales de l'appelant pouvant être reportées prospectivement [TRADUCTION] « ont été rajustées de façon à ce que les cotisations non déduites à un REÉR ne tiennent pas compte du montant qu'on ne peut retirer » en raison de la perte de valeur et de la fermeture du compte en 2012. L'intimée ajoute que [TRADUCTION] « l'appelant avait des cotisations excédentaires cumulatives de 21 439 $ à la fin de 2012 » et que ses cotisations ont été réduites de ce montant [TRADUCTION] « pour refléter la réduction de la valeur du REÉR », sous réserve d'une « tolérance » pour cotisations excédentaires de 2 000 $.
+[18] Bien que l'alinéa 204.2(1.1)b) autorise les cotisations excédentaires cumulatives à un REÉR jusqu'à concurrence de 2 000 $, l'intimée n'a mentionné aucune disposition légale qui lui permettrait essentiellement de compenser ou d'éliminer les cotisations non déduites à un REÉR parce qu'elles correspondent à des cotisations excédentaires qui ne peuvent être retirées. Le recours du ministre semble se limiter à l'impôt de 1 % et à la pénalité pour défaut de produire le formulaire T1‑OVP dans les 90 jours suivant la fin de l'année d'imposition.
+[19] L'intimée soutient que les paragraphes 204.1(1) et 204.1(2) disposent [TRADUCTION] « que les cotisations excédentaires ne sont pas éliminées tant qu'elles ne sont pas retirées du compte ». C'est peut‑être le cas en général, mais en l'espèce, il est clair que les cotisations excédentaires n'ont pas été retirées, pour les raisons susmentionnées, et, plus important encore, que le ministre a accepté la demande de redressement de l'appelant, concluant que [TRADUCTION] « nous avons réduit à néant vos cotisations excédentaires ».
+[20] La meilleure description de la décision du ministre énoncée dans la lettre du 19 juin 2015 mentionnée ci‑dessus est qu'il s'agit « d'histoire ancienne ». Elle est définitive et lie le ministre et il ne semble pas y avoir de fondement à la thèse de l'intimée en l'espèce selon laquelle, ayant consenti à la demande de redressement de l'appelant, le ministre peut arbitrairement réduire à néant les cotisations non déduites à un REÉR.
+[21] L'intimée conclut en indiquant que [TRADUCTION] « l'appelant n'a jamais payé d'impôt en vertu de la partie X.1 pour la contribution excédentaire » et qu'il [TRADUCTION] « serait injuste pour la Cour de lui permettre de réduire son revenu imposable dans les années à venir tout en n'ayant jamais payé d'impôt sur la contribution excédentaire à titre de revenu imposable » [je souligne].
+[22] Cet argument est étrange, d'autant plus que l'intimée reconnaît l'absence de disposition légale empêchant expressément les contribuables de demander des déductions au titre des REÉR relativement aux contributions excédentaires (si elles n'excèdent pas le « maximum déductible au titre des REÉR ») et que l'intimée n'a pas été en mesure d'invoquer de disposition légale qui permettrait au ministre de réduire à néant les cotisations non déduites à un REÉR du fait qu'il s'agit de contributions excédentaires.
+[23] En outre, l'intimée n'est pas sans savoir que la Cour ne rend pas de décisions en fonction de l'équité (Barel c. La Reine, 2009 CCI 156, et Lapierre c. La Reine, 2019 CCI 18) et que son rôle ne consiste pas à donner « aux dispositions fiscales une interprétation tendancieuse ou une interprétation visant à obtenir un résultat donné pour enrichir le Trésor fédéral » (R. c. Quinco Financial Inc., 2014 CAF 108, au par. 9).
+[24] Je conclus ainsi qu'il n'y a pas de fondement juridique à la nouvelle cotisation du ministre. Par conséquent, je conclus que l'appelant avait des cotisations non déduites à un REÉR de 26 737 $ en 2012. Puisque l'appelant a demandé une déduction de 3 298 $ pour l'année d'imposition 2012, je conclus que celui‑ci avait des cotisations cumulatives non déduites à un REÉR de 23 439 $ à déduire pour les années d'imposition 2013, 2014, 2015 et suivantes. Cela comprend la tolérance de 2 000 $ susmentionnée.
+[25] Le moins que l'on puisse dire, c'est que ce fut une longue et frustrante bataille pour l'appelant. Dans ses observations écrites, il demande divers redressements contre l'ARC, notamment des pénalités et une indemnisation pour les « coûts d'occasions manquées », tous liés à la conduite de l'ARC et équivalant à des dommages‑intérêts que la Cour n'a pas compétence d'accorder.
+[26] Toutefois, la Cour a le pouvoir d'adjuger les dépens du présent appel. En l'espèce, la Cour est particulièrement préoccupée par le fait que l'intimée n'a pas été en mesure d'énoncer une position juridique claire et s'est appuyée sur de vagues notions d'équité. La Cour s'inquiète particulièrement du fait que le compte rendu par l'ARC des cotisations au REÉR de l'appelant (que la Cour avait demandé à la fin de l'audience) était encore une fois clairement erroné, puisqu'il ne tenait pas compte des cotisations versées en 2006.
+[27] Par suite de ce qui précède, et dans l'exercice de ses pouvoirs discrétionnaires, la Cour adjuge par les présentes des dépens contre l'intimée fixés à 1 000 $ (y compris les débours) à payer immédiatement.
+[28] L'appel est accueilli et les nouvelles cotisations pour les années d'imposition 2013, 2014 et 2015 sont déférées au ministre pour nouvel examen et nouvelles cotisations en tenant compte du fait que l'appelant avait droit aux déductions au titre du REÉR demandées au cours de ces années d'imposition.
+Signé à Ottawa, Canada, ce 18e jour de mars 2019.
+« Guy R. Smith »
+Le juge Smith
+RÉFÉRENCE :
+2019 CCI 50
+N° DU DOSSIER DE LA COUR :
+2017-2709(IT)I
+INTITULÉ :
+SHAIBAL THEODORE ROY c. SA MAJESTÉ LA REINE
+LIEU DE L'AUDIENCE :
+Toronto (Ontario)
+DATE DE L'AUDIENCE :
+Le 11 décembre 2018
+MOTIFS DU JUGEMENT MODIFIÉS :
+L'honorable juge Guy R. Smith
+DATE DU JUGEMENT:
+Le 5 mars 2019
+DATE DES MOTIFS DU JUGEMENT MODIFIÉS :
+Le 18 mars 2019
+COMPARUTIONS :
+Pour l'appelant :
+L'appelant lui‑même
+Avocat de l'intimée :
+Me Derek Edwards
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelant :
+Nom :
+[EN BLANC]
+Cabinet :
+[EN BLANC]
+Pour l'intimée :
+Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa, Canada

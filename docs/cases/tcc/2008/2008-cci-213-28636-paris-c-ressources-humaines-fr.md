@@ -1,0 +1,172 @@
+---
+title: "Paris c. Ressources Humaines"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28636/index.do"
+last_modified: "2008-04-16"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 CCI 213"
+citation2: ""
+neutral_citation: "2008 CCI 213"
+decision_date: "2008-04-16"
+language: "fr"
+item_id: "28636"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1168
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T10:53:47.040000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "e7af0a3231ee5c1a081f685c18d1ba49ae976fb671e2f90e6c103f0b98ef18d7"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Paris c. Ressources Humaines
+
+- Citation: 2008 CCI 213
+- Decision date: 2008-04-16
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1168, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Paris c. Ressources Humaines
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-04-16
+Référence neutre
+2008 CCI 213
+Numéro de dossier
+2007-4090(OAS)
+Juges et Officiers taxateurs
+Alain Tardif
+Sujets
+Loi sur la sécurité de la vieillesse
+Contenu de la décision
+Dossier : 2007-4090(OAS)
+ENTRE :
+YVON PARIS,
+appelant,
+et
+LE MINISTRE DU DÉVELOPPEMENT SOCIAL,
+intimé.
+____________________________________________________________________
+Appel entendu le 13 mars 2008, à Sherbrooke (Québec)
+Devant : L'honorable juge Alain Tardif
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocate de l'intimé :
+Me Stéphanie Côté
+____________________________________________________________________
+JUGEMENT
+L'appel interjeté en vertu du paragraphe 28(2) de la Loi sur la sécurité de la vieillesse à la suite d’une décision du ministre du Développement social datée du 16 mai 2006, pour la période de paiement de juin 2005 à mai 2006, pour l'année de référence 2005, est rejeté, sans frais, selon les motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 16e jour d'avril 2008.
+« Alain Tardif »
+Juge Tardif
+Dossier : 2007-4091(OAS)
+ENTRE :
+NICOLE GAGNÉ,
+appelante,
+et
+LE MINISTRE DU DÉVELOPPEMENT SOCIAL,
+intimé.
+____________________________________________________________________
+Appel entendu le 13 mars 2008, à Sherbrooke (Québec)
+Devant : L'honorable juge Alain Tardif
+Comparutions :
+Pour l'appelante :
+L'appelante elle-même
+Avocate de l'intimé :
+Me Stéphanie Côté
+____________________________________________________________________
+JUGEMENT
+L'appel interjeté en vertu du paragraphe 28(2) de la Loi sur la sécurité de la vieillesse à la suite d’une décision du ministre du Développement social datée du 16 mai 2006, pour la période de paiement de juin 2005 à mai 2006, pour l'année de référence 2005, est rejeté, sans frais, selon les motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 16e jour d'avril 2008.
+« Alain Tardif »
+Juge Tardif
+Référence : 2008CCI213
+Date : 20080416
+Dossiers : 2007-4090(OAS)
+2007-4091(OAS)
+ENTRE :
+YVON PARIS,
+NICOLE GAGNÉ,
+appelants,
+et
+LE MINISTRE DU DÉVELOPPEMENT SOCIAL,
+intimé.
+MOTIFS DU JUGEMENT
+Le juge Tardif
+[1] Il s'agit de deux appels en vertu de la Loi sur la sécurité de la vieillesse, articles 2, 14, 19 et 22 et alinéa 18 a) L.R.C. 1985, ch. O‑9 (la « Loi »).
+[2] Les questions en litige consistent à déterminer si le ministre du Développement social (le « ministre ») :
+a) dans l’appel d’Yvon Paris, 2007-4090(OAS), a calculé correctement le montant du supplément de revenu mensuel garanti auquel l’appelant avait droit en vertu de la Loi;
+b) dans l’appel de Nicole Gagné, 2007‑4091(OAS), a calculé correctement le montant de l’allocation de l’appelante en vertu de la Loi.
+[3] Les faits à l’appui des décisions dont il est fait appel sont les suivants :
+Dans le cas de l’appel d’Yvon Paris, 2007-4090(OAS) :
+a) Le 22 mars 2005, l’appelant a signé un formulaire intitulé « Déclaration de revenu prévu après la retraite ou après la diminution du revenu de pension – l’année 2005 » (l’option) afin que son supplément de revenu garanti soit révisé selon son revenu estimatif pour l’année 2005.
+b) Dans ce formulaire, il a déclaré recevoir une rente mensuelle de la Régie des rentes du Québec au montant de 616,05 $.
+c) Il a aussi déclaré recevoir 3 000 $ par mois d’un fonds enregistré de revenu de retraite (FERR) et que le versement des sommes relatives à ce FERR cesserait le 16 mai 2005.
+d) Dans son option, l’appelant n’a pas déclaré qu’il recevrait d’autres sommes d’argent en 2005.
+e) En avril 2005, le ministre a calculé le montant de supplément de revenu garanti auquel l’appelant aurait droit entre juin 2005 et mai 2006.
+f) Le ministre a tenu compte dans son calcul de la rente mensuelle de la Régie des rentes du Québec que l’appelant recevrait au cours de l’année 2005 et du revenu de sa conjointe.
+g) En mai 2006, le ministre a reçu de l’Agence du revenu du Canada les données concernant la déclaration de revenus de l’appelant pour l’année 2005.
+h) Le ministre a constaté que l’appelant avait reçu, en plus de rentes de la RRQ dont il était question dans l’option, un montant de 1 311 $ provenant d’un régime enregistré d’épargne-retraite (REER).
+i) Le 16 mai 2006, le ministre a donc révisé à la baisse le montant de supplément de revenu garanti auquel l’appelant avait droit en tenant compte du REER reçu en 2005.
+Dans le cas de l’appel de Nicole Gagné, 2007-4091(OAS) :
+a) Le 22 mars 2005, M. Yvon Paris, l’époux de l’appelante, a signé un formulaire intitulé « Déclaration de revenu prévu après la retraite ou après la diminution du revenu de pension – l’année 2005 » (l’option) dans lequel il déclarait son revenu estimatif pour l’année 2005.
+b) Dans ce formulaire, M. Paris a déclaré recevoir une rente mensuelle de la Régie des rentes du Québec au montant de 616,05 $.
+c) Il a aussi déclaré recevoir 3 000 $ par mois d’un fonds enregistré de revenu de retraite (FERR) et que le versement des sommes relatives à ce FERR cesserait le 16 mai 2005.
+d) Dans son option, M. Paris n’a pas déclaré qu’il recevrait d’autres sommes d’argent en 2005.
+e) En avril 2005, le ministre a calculé l’allocation de l’appelante de juin 2005 à mai 2006 en se basant notamment sur les revenus de M. Paris, tels qu’estimés dans l’option.
+f) En mai 2006, le ministre a reçu de l’Agence du revenu du Canada les données concernant la déclaration de revenus de M. Paris pour l’année 2005.
+g) Le ministre a constaté que M. Paris avait reçu un montant de 1 311 $ provenant d’un régime enregistré d’épargne-retraite (REER).
+h) M. Paris n’avait pas mentionné cette source de revenu dans son option.
+i) Le 16 mai 2006, le ministre a donc révisé à la baisse le montant l’allocation à laquelle l’appelante avait droit en tenant compte du REER reçu par M. Paris en 205.
+[4] Seul l’appelant a témoigné. Il était très amer et agressif, au point que j’ai dû intervenir d’une manière très ferme à plusieurs reprises.
+[5] Il appert que les appelants n’ont strictement rien compris du cheminement de leurs dossiers. À la demande de l’intimé, une suspension a été accordée afin qu’il y ait un échange pour que les appelants puissent mieux comprendre, et surtout mieux s’expliquer et mieux contester les décisions avec lesquelles ils étaient manifestement en désaccord.
+[6] Malgré la suspension, il semble que les explications qui leur furent soumises n’ont strictement rien changé dans l’approche des appelants, qui contestaient vigoureusement en affirmant qu’ils avaient fait l’objet d’erreurs manifestes.
+[7] Les explications qu’ils ont soumises n’avaient rien à voir avec leur contestation.
+[8] De son côté, l’intimé a très bien expliqué la décision faisant l’objet de l’appel. Malgré la clarté et les précisions présentées, les appelants ont répliqué par des remarques non pertinentes et continuaient de prétendre que les responsables de leurs dossiers avaient mal compris et manifestement fait des erreurs.
+[9] Je ne crois pas pertinent de reprendre les éléments présentés par l’intimé eu égard à la dimension technique, mais aussi mathématique.
+[10] Je me limiterai à indiquer que les appelants ont fait des choix quant au traitement fiscal de leurs dossiers respectifs. Ces choix menaient à des exercices essentiellement mathématiques.
+[11] Le processus suivi par l’intimé respecte en tous points les dispositions pertinentes de la Loi. Malgré le fait que les appelants ont affirmé avec énergie et agressivité que l’intimé avait manifestement fait des erreurs qui leur étaient préjudiciables, ils n’ont jamais expliqué ce qu’étaient ces erreurs.
+[12] En terminant, je crois que les appelants auraient intérêt à consulter une personne‑ressource pour se faire expliquer dans un langage simple et accessible pour eux les exigences et les conséquences des dispositions pertinentes de la Loi.
+[13] Les dispositions de la Loi sont claires et précises et ne prêtent à aucune interprétation. D’autre part, les appelants n’ont soumis aucun élément, explication ou preuve justifiant le bien‑fondé de leurs appels.
+[14] En conséquence, les appels sont rejetés, sans frais.
+Signé à Ottawa, Canada, ce 16e jour d'avril 2008.
+« Alain Tardif »
+Juge Tardif
+RÉFÉRENCE : 2008CCI213
+Nºs DES DOSSIERS DE LA COUR : 2007-4090(OAS) et 2007-4091(OAS)
+INTITULÉ DES CAUSES : Yvon Paris et Nicole Gagné c. Ministre du Développement social
+LIEU DE L’AUDIENCE : Sherbrooke (Québec)
+DATE DE L’AUDIENCE : le 13 mars 2008
+MOTIFS DU JUGEMENT PAR : L'honorable juge Alain Tardif
+DATE DU JUGEMENT : le 16 avril 2008
+COMPARUTIONS :
+Pour les appelants :
+Les appelants eux-mêmes
+Avocate de l'intimé : :
+Me Stéphanie Côté
+AVOCAT(E) INSCRIT(E) AU DOSSIER :
+Pour l'appelant:
+Pour l’intimé : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

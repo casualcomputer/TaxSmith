@@ -1,0 +1,116 @@
+Title: Dias v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/516414/index.do
+Corpus path: corpus/cases/tcc/2021/2021-tcc-85-516414-dias-v-the-queen-en.md
+Document type: case_law
+Last modified: 2021-11-17
+
+# Dias v. The Queen
+
+- Citation: 2021 TCC 85
+- Decision date: 2021-11-17
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4453, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Dias v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2021-11-17
+Neutral citation
+2021 TCC 85
+File numbers
+2018-3473(IT)G, 2018-3474(IT)G
+Judges and Taxing Officers
+David E. Graham
+Subjects
+Income Tax Act
+Decision Content
+Citation: 2021 TCC 85
+Date: 20211117
+Docket: 2018-3473(IT)G
+BETWEEN:
+XAVIER DIAS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent;
+Docket: 2018-3474(IT)G
+AND BETWEEN:
+WENDY DIAS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+(Edited for punctuation, capitalization, spelling, paragraph breaks and accuracy from the transcript of Reasons for Judgment delivered orally from the Bench on October 20, 2021 at Toronto, Ontario)
+Graham J.
+[1] The Appellants, Xavier and Wendy Dias, were 50/50 shareholders in a company named 2014705 Ontario Inc. When they filed their 2014 tax returns, they claimed allowable business investment losses in respect of loans to 201. When they filed their 2015 tax returns, they claimed non-capital loss carry forwards relating to the unused portion of those allowable business investment losses. The Minister of National Revenue denied both the ABIL claims and the related loss carry forwards. The Appellants have appealed.
+[2] I am going to give my oral judgment on the appeals at this time. I will not be issuing written reasons for judgment.
+[3] In 2006, Ms. Dias decided that she wanted to open a retail fashion and furniture business with her brother, David Anselm. The Appellants and Mr. Anselm consulted an accountant and obtained advice on how the business should be structured.
+[4] As a result of that advice, two companies were formed. The first company was Dandy Holdings Inc. Ms. Dias owned 45% of Dandy and Mr. Anselm owned the other 55%. The second company was Indiva Retail Inc. Again, Ms. Dias owned 45% of Indiva and Mr. Anselm owned the other 55%. My understanding is that Indiva was to conduct the business' retail operations out of premises leased by Dandy.
+[5] Dandy and Indiva needed financing. That financing was to come from the Appellants and Mr. Anselm. The Appellants obtained their share of the financing by using their savings, borrowing against their house and various lines of credit, and withdrawing funds from their RRSPs.
+[6] From November 2006 to October 2007, the Appellants made a series of large deposits into 201's bank account. Virtually all of the money that the Appellants deposited into 201's bank account was immediately transferred to Dandy's bank account.
+[7] The issue in these appeals is relatively narrow. The Respondent takes the position that the Appellants lent money to 201 and that 201 then lent money to Dandy. The Respondent submits that, since 201 was not a small business corporation, the Appellants were not entitled to claim ABILs when their loans to 201 became bad.
+[8] The Appellants agree that 201 was not a small business corporation. However, they argue that 201 was merely a conduit for their money. They submit that their loans were actually made to Dandy and/or Indiva. The Appellants argue that Dandy and Indiva were both small business corporations and thus that their ABIL claims and loss carry forwards should be allowed. I disagree. For the following reasons I find that the Appellants lent money to 201 and that 201 then lent similar amounts of money to Dandy.
+[9] I will turn first to the documentary evidence. All of the documentary evidence supports the idea that the Appellants lent money to 201.
+[10] 201's taxation year end is July 31. By July 31, 2007, $825,000 had moved from the Appellants through 201 to Dandy. Yet, on the Schedule 100 filed with its T2 return for its taxation year ending July 31, 2007, 201 reported that it had loans receivable of $790,080 and outstanding shareholder loans of $781,338. This indicates four things. First, it indicates that the accountant, who both designed the structure for the new business and prepared the tax returns, took the position that the Appellants had lent money to 201 and that 201 had, in turn, lent money to Dandy. Second, it indicates that Mr. Dias, as the signatory on the tax return, adopted that position. Third, the fact that the loans receivable and the shareholder loans payable are less than the $825,000 that had been advanced indicates that, contrary to Ms. Dias' testimony, some repayments had been made. Finally, the fact that the loans receivable and shareholder loans payable are not even equal to each other indicates that different adjustments had been made to those balances. This is completely inconsistent with the idea of a conduit. In summary, this contemporaneously prepared balance sheet indicates that the Appellants lent money to 201 who, in turn, lent that money to Dandy.
+[11] Similar problems appear in the Schedule 100 for 201's taxation year ending July 31, 2014. This schedule was provided to the auditor by the Appellants. The schedule shows that 201 had liabilities of only $830,514. This indicates that its shareholder loan was, at most, $830,514. If, as Ms. Dias testified, no repayments had been made on the loan, then why was the loan not the $850,000 that the bank statements showed had been advanced? The schedule shows 201 as having assets of $846,380. Ms. Dias testified that its only asset at this point would have been its loan receivable from Dandy. If 201 was merely a conduit, why would its shareholder loan be smaller than its outstanding loan receivable from Dandy?
+[12] The documents relating to the ABIL claims similarly undermine the Appellants' position. The Appellants claimed business investment losses totalling $846,480. They claimed these losses in respect of loans that they said they had made to 201, not Dandy or Indiva. They maintained that position throughout the audit. During the audit the Appellants each completed ABIL questionnaires twice. On each occasion, the Appellants reiterated that their loans had been made to 201. In support of their claims, they attached Schedule 100s for 201. It was only when their claims were denied that the Appellants first raised the idea that they had actually lent money to Dandy and Indiva.
+[13] In the course of the audit Ms. Dias prepared a chart titled “2014705 Ontario Inc. Loans” in which she described $850,000 in loans. It is unclear on the face of the chart whether these were loans made by the Appellants to 201 or loans made by 201 to Dandy. It does not matter which of these two things it was. If, as the Appellants contend, 201 was merely a conduit, then I would have expected the chart to refer to loans that the Appellants had made to Dandy. There would have been no reason to include 201 on the chart.
+[14] The Appellants want me to focus not on how the transactions were accounted for or the form of the loans, but rather on what the Appellants say was intended to happen. The difficulty I have with this assertion is that the best evidence of what the Appellants intended is how the Appellants treated the transactions at the time they occurred and when the ABIL were claimed. Both of these factors, as set out above, point to the loans having been made to 201.
+[15] The only other evidence of the Appellants' intention came from Ms. Dias. Ms. Dias was the Appellants' only witness. The idea that 201 was a conduit flows entirely from her testimony. I did not find Ms. Dias' testimony on this point to be reliable. Ms. Dias had only a high-level understanding of the structure and financial affairs of the business. She had no real knowledge or understanding of who had lent money to whom or how these loans had been recorded. Yet, she was certain that it was “preordained” that the money that went in to 201 would flow through to Dandy and Indiva. The word “preordained” featured predominantly in the case law relied upon by the Appellants. I do not think that Ms. Dias' use of the term was a coincidence. I have no doubt that she knew that the money that she and Mr. Dias had gathered would ultimately be used to finance the business to be operated by Dandy and Indiva. I also have no doubt that she knew that it would quickly move from 201 to Dandy. However, given Ms. Dias' lack of any detailed information, her seemingly rote use of the term “preordained” and her changing claims as to which company or companies the loans were made to, I give no weight to her statements that 201 was always intended to be a flow-through. They are simply bald assertions. As set out in more detail below, her assertions are not supported by what I would consider to be important explanations.
+[16] With that in mind I would like now to turn to the explanations that the Appellants did not provide. The Appellants did not explain why, if they intended to lend money to Dandy and/or Indiva, they would have deposited it to 201's bank account instead of depositing it directly into Dandy's or Indiva's bank accounts. Ms. Dias was certain that it was preordained that 201 would be a flow-through but she did not explain why it was necessary to have a flow-through. Without such an explanation, I find that it is more likely than not that the money flowed through 201 because it was a loan to 201.
+[17] Similarly, Ms. Dias referred repeatedly to the Appellants having lent money to Dandy and Indiva. All of the documentary evidence showed that the money flowed from 201 to Dandy. The Appellants did not explain why money that they intended to loan to Indiva would have flowed first through 201 and then through Dandy. Why not simply deposit the money in Indiva? Again, without an explanation it seems more likely than not that the money flowed through 201 because it was a loan to 201 and then flowed from 201 to Dandy because 201 had lent money to Dandy.
+[18] If the loans had truly been to both Dandy and Indiva I would, at a minimum, have expected the Appellants could tell me how much had been lent to each one. I was not provided with even a rough estimate.
+[19] Counsel suggested that it did not matter which company had received the loans because both were small business corporations. I disagree. The Minister assumed that the Appellants had lent money to 201. The Appellants cannot hope to demolish that assumption without showing to whom the money was actually lent.
+[20] The Appellants did not explain why they claimed ABILs in respect of loans to 201 if 201 had merely been a conduit. Why did they not claim ABILs for their loans to Dandy or Indiva?
+[21] They also did not explain why they only raised the issue of conduits after their ABIL claims where denied. On its face, it appears that their story shifted when it became clear that their original claim has failed. This suggests retroactive tax planning rather than a more accurate description of what had happened.
+[22] The Appellants could not explain why they claimed ABILs totalling only $846,480 when they claimed to have lent $850,000. The bank statements showed that more than $850,000 was deposited to 201's bank account. They also showed that 201 had transferred $850,000 to Dandy. Ms. Dias clearly stated that none of that was ever repaid so why claim an ABIL for an amount less than $850,000? If 201 was a mere conduit, why not claim an ABIL for the money that we know Dandy actually received? Again, without an explanation it seems more likely than not that the Appellants claimed a total of $846,480 because that was the amount that 201 owed to them.
+[23] The Minister made an assumption of fact that 201's purpose was to derive income from property by way of interest income on its loans to Dandy. Ms. Dias agreed that, during discoveries, the Appellants had admitted that this assumption was correct. However, she then stated that, while 201's purpose was to earn interest income on loans to Dandy, it was not what 201 actually did. If 201's purpose was to earn interest income on loans to Dandy, then I would have expected more than a simple assertion that it did not do so. I would have expected an explanation of why it did not do so. What caused 201 to change its mind? Without an explanation I find it is more likely than not that 201 did exactly what the Appellants admitted it was to do, it lent money to Dandy for the purpose of earning interest income.
+[24] I was particularly troubled by the lack of evidence from Mr. Anselm. As mentioned above, Mr. Anselm owned 55% of Dandy and Indiva. The Appellants' responses to discovery questions suggested that they were avoiding disclosing the fact that Mr. Anselm was Ms. Dias' brother and that he would have knowledge of the transactions in question. The Appellants did not call Mr. Anselm as a witness. I draw an adverse inference from their failure to do so.
+[25] Ms. Dias testified that Mr. Anselm was the one who was responsible for the finances of the business and who dealt with the accountant. As such, it seems to me that Mr. Anselm would have been in a far better position than Ms. Dias to answer many of the financial questions that she was unable to respond to on cross-examination. Most importantly, as the majority shareholder of both Dandy and Indiva, Mr. Anselm would presumably have been able to definitely say whether one or both of those companies had borrowed money from 201 or from the Appellants and, if so, how much had been borrowed. In light of all of the foregoing, I find that Mr. Anselm was not called as a witness because, if called, he would have testified that Dandy and/or Indiva borrowed money from 201, not from the Appellants.
+[26] I would like to touch briefly on the case law relied upon by the Appellants. The Appellants relied primarily on two cases.
+[27] The first is the 2005 decision of Chief Justice Bowman in Borys v. The Queen. The taxpayer in that case claimed to have made a loan to a company. When the loan became bad, the taxpayer claimed an ABIL. The Minister denied the claim because, among other things, the funds had flowed from the taxpayer to the shareholder of the company and then from the shareholder to the company. The Minister considered the taxpayer to have made a loan to the shareholder not the company. Chief Justice Bowman found that the shareholder was acting as a mere conduit. He reached this conclusion because the taxpayer's intention throughout was that the funds would be lent to the company, the funds actually were passed on to the company and the company signed a promissory note reflecting the fact that it had borrowed the funds from the taxpayer. This case is a clear example of how the idea of conduit can be applied to an ABIL. The taxpayer clearly intended to lend the money to the company. The loan was documented as such at the time and the taxpayer claimed an ABIL on that basis. Chief Justice Bowman found that the money merely flowed through the shareholder. By comparison, the Appellants have only recently asserted that they intended their loans to be to Dandy and/or Indiva, the documentary evidence does not support their position and their ABIL claims were made on an entirely different basis altogether.
+[28] The other case that the Appellants rely upon is Justice Smith's recent lengthy decision in Magren Holdings Ltd. v. The Queen. I will not dwell on the facts of that case. It can easily be distinguished. It neither dealt with loans nor ABILs. While it was certainly an example of a case where this Court has found that a company was acting as a bare trustee or agent, Justice Smith's findings very much turn on a complex set of transactions. They were also made in a very different context. In Magren, the Respondent was asking the Court to treat the taxpayer's properly documented transactions as simply being a flow-through. The appeals before me involve the exact opposite transaction. The Appellants are asking me to ignore the form of their own transactions in favour of the substance.
+[29] In conclusion, while there may be situations where it is difficult to determine whether back-to-back loans were made or whether a company was acting as a conduit for funds, this is not one of those situations.
+[30] This is certainly a sympathetic case. The Appellants lost a significant amount of money. Had they structured their affairs differently, they may have been successful in claiming ABILs, but in tax law form matters. The Appellants chose to lend money to 201 rather than to Dandy or Indiva. I do not know whether they received poor advice or simply never contemplated that the business would not succeed. Whatever the case may be, they are unfortunately taxed on the transactions that they entered into, not the ones that they now wish they had entered into.
+[31] On the basis of all of the foregoing, I find that the Appellants lent money to 201, not to Dandy or Indiva. As 201 was not a small business corporation, I find that the Minister correctly denied the Appellants' ABILs and related loss carry forwards. Accordingly, the appeals are dismissed.
+Signed at Ottawa, Canada, this 17th day of November 2021.
+“David E. Graham”
+Graham J.
+CITATION:
+2021 TCC 85
+COURT FILE NOS.:
+2018-3473(IT)G 2018-3474(IT)G
+STYLES OF CAUSE:
+XAVIER DIAS v THE QUEEN WENDY DIAS v THE QUEEN
+PLACE OF HEARING:
+Toronto, Ontario
+DATES OF HEARING:
+October 19 and 20, 2021
+REASONS FOR JUDGMENT BY:
+The Honourable Justice David E. Graham
+DATE OF ORAL REASONS:
+October 20, 2021
+DATE OF REASONS FOR JUDGMENT:
+November 17, 2021
+APPEARANCES:
+For the Appellant:
+Jeff D. Pniowsky Matthew Dallee
+Counsel for the Respondent:
+David Silver
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Jeff D. Pniowsky
+Firm:
+Thompson Dorfman Sweatman LLP
+For the Respondent:
+François Daigle
+Deputy Attorney General of Canada
+Ottawa, Canada

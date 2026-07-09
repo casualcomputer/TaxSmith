@@ -1,0 +1,611 @@
+---
+title: "Godoy Enriquez c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/406004/index.do"
+last_modified: "2019-05-10"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2019 CCI 114"
+citation2: ""
+neutral_citation: "2019 CCI 114"
+decision_date: "2019-05-10"
+language: "fr"
+item_id: "406004"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4417
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T18:18:12.770000+00:00"
+cases_cited_count: 27
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "bfa7a2843cb1ab02aba2684cb4819c97cba00f74146eb7473ea02f734326cd9b"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Godoy Enriquez c. M.R.N.
+
+- Citation: 2019 CCI 114
+- Decision date: 2019-05-10
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4417, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Godoy Enriquez c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2019-05-10
+Référence neutre
+2019 CCI 114
+Numéro de dossier
+2017-3972(EI), 2017-3973(EI), 2017-3974(EI), 2017-3975(EI), 2017-3976(EI), 2017-3978(EI), 2017-3981(EI), 2017-3984(EI), 2017-3988(EI), 2017-3993(EI), 2017-3995(EI), 2017-3996(EI), 2017-3997(EI), 2017-3998(EI)
+Juges et Officiers taxateurs
+Alain Tardif
+Sujets
+Loi sur l'assurance-emploi
+Notes
+A correction was made on May 29, 2019
+Contenu de la décision
+Référence : 2019 CCI 114
+Date : 20190528
+Dossier : 2017-3972(EI)
+ENTRE :
+JUAN ANTONIO GODOY ENRIQUEZ,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+Dossier : 2017-3973(EI)
+ET ENTRE :
+JORGE FERNANDO BOTELLO AGUILAR,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+Dossier : 2017-3974(EI)
+ET ENTRE :
+JUAN DE JESUS HERNANDES SOLIS,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+Dossier : 2017-3975(EI)
+ET ENTRE :
+JOSUE WILDER CANTORAL URRUTIA,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+Intimé.
+Dossier : 2017-3976(EI)
+ET ENTRE :
+HUGO ALBERTO LOPEZ GARCIA,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+Dossier : 2017-3978(EI)
+ET ENTRE :
+RUDY FERNANDO ALVAREZ VASQUEZ,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+Dossier : 2017-3981(EI)
+ET ENTRE :
+JOAQUIN ABNER MIRANDA LOPEZ
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+Dossier : 2017-3984(EI)
+ET ENTRE :
+HENRY DE JESUS AGUIRRE CONTRERAS,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+Dossier : 2017-3988(EI)
+ET ENTRE :
+GUSTAVO ADOLFO PRADO PAREDES,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+Dossier : 2017-3993(EI)
+ET ENTRE :
+BANNER AUDIEL DONIS Y DONIS,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+Dossier : 2017-3995(EI)
+ET ENTRE :
+MARVIN ESTUARDO DIAZ PERLA,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+Dossier : 2017-3996(EI)
+ET ENTRE :
+ISMAEL SIMON CHUTA,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+Dossier : 2017-3997(EI)
+ET ENTRE :
+ERIK TANADEO LOPEZ MAYORGA,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+Dossier : 2017-3998(EI)
+ET ENTRE :
+EDSON VINCENT PEREZ VASQUEZ,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+MOTIFS DU JUGEMENT MODIFIÉS
+Le juge Tardif
+[1] Il s’agit d’appels relatifs à l’assurabilité du travail effectué par les appelants. Les faits étant très similaires, les parties ont convenu de procéder au moyen d’une seule preuve commune à tous les dossiers.
+[2] Les réponses aux avis d’appel font état des faits retenus comme fondements au soutien des déterminations à l’origine des avis des appels. Les faits en question se sont avérés conformes à la preuve soumise. Il s’agit des faits suivants :
+(a) Les appelants sont citoyens guatémaltèques;
+(b) Les appelants n’étaient pas citoyen canadien, ni résident permanent au Canada durant la période en litige;
+(c) Les appelants détenaient un permis de travail fermé qui l’autorisait à travailler légalement pour un employeur spécifique (le « permis de travail »)
+(d) Les appelants ont quitté leur emploi avec l’employeur spécifique pour aller travailler pour les payeuses sans qu’il y ait modification de leur permis de travail;
+(e) Les appelants et les payeuses ont conclu des ententes verbales à Victoriaville, et
+(f) Les appelants ne détenaient pas de permis de travail valide pour travailler pour les payeuses, délivré par Citoyenneté et Immigration Canada, pour les périodes en litige.
+[3] Les appelants sont originaires du Guatémala. Confrontés dans leur pays à des difficultés multiples reliées à la pénurie de travail et aux très faibles salaires les obligeant à vivre dans la pauvreté extrême, ils ont fait les démarches auprès d’agences pour venir travailler au Canada dans le cadre du programme qui embauche beaucoup de travailleurs saisonniers généralement relié à l’agro‑alimentaire.
+[4] La preuve constituée par les témoignages de quelques appelants ainsi que de madame Viviana Medina, associée à un organisme communautaire dont la vocation est d’aider et soutenir les immigrants dont spécifiquement les travailleurs saisonniers.
+[5] La preuve a démontré que les appelants avaient été victimes d’une organisation dont l’objectif ultime était de s’enrichir à leur détriment; parasite, sans scrupule voire criminelle, cette organisation avait mis en place une stratégie qui recrutait des travailleurs dont notamment tous les appelants en leur faisant miroiter une meilleure qualité de vie, de meilleurs salaires et la possibilité d’obtenir rapidement un statut de résidant.
+[6] À ce stade, il est important de rappeler que cette organisation malveillante intervenait après l’arrivée des travailleurs mais aussi et surtout après une période de temps où ils avaient travaillé pour un premier donneur d’ouvrage visé et concerné par le permis de travail.
+[7] Quelque peu désappointés de l’expérience première non conforme à leurs attentes, ils constituaient des cibles ou proies faciles, sans ressource, sans soutien et tout à fait vulnérables pour l’entreprise qui les a sollicités et recrutés en faisant miroiter une sensible amélioration.
+[8] Compte tenu du contexte particulier, le stratagème mensonger et malhonnête a plu aux appelants qui devaient travailler dans un climat, contexte et conditions difficiles fort très différentes de celles que l’on leur avait présenté dans leur pays au moment de prendre la décision de venir au Canada. Croyant avoir des conditions de travail exceptionnelles, ils ont plutôt constaté que le travail était difficile et les conditions ne correspondaient pas à ce que l’on leur avait fait miroiter au Guatémala.
+[9] Sur cette question, deux des appelants ont notamment fait valoir ce qui suit :
+Premier témoin :
+Travaille dur, doit déplacer des objets très lourds, décroissance des heures de travail c’est‑à‑dire journée de plus de 10 heures vers quelques heures par jour et pas tous les jours. Salaire moins intéressant que celui espéré.
+2e témoin : Gustavo Adolfo Prado Paredes
+Maltraité : Manque d’eau, insultes et conclut que les conditions de travail étaient plus pénibles et exigeantes que dans leur pays d’origine soit le Guatémala. Mauvaises conditions tant physique que psychologique que morale.
+[10] Dans ce contexte de déception et désenchantement, ils rencontrent un certain Gordon qui exploite une agence de placements de personnes à Victoriaville; ce dernier leur fait miroiter de meilleures conditions, meilleurs salaires et meilleur milieu et un statut permanent; en d’autres termes, il leur était promis des conditions de travail supérieures le tout étant plus conforme à leurs attentes au moment de décider de venir au Canada.
+[11] Gordon leur indique qu’il va s’occuper de toute la paperasse requise auprès d’Immigration Canada pour régulariser leur dossier quant à la conformité et validité de leur permis de travail en vertu duquel ils sont venus travailler au Canada.
+[12] À première vue, il peut être tentant de leur reprocher une certaine naïveté, une certaine imprudence voire négligence. Par contre, à partir du contexte et circonstances à l’effet qu’il s’agissait de personnes ne parlant pas la langue, vulnérables, démunies, pauvres et sans aucunes ressources de soutien ou support, il est tout à fait inapproprié de conclure ainsi.
+[13] Ces personnes avaient un seul espoir, soit la ferme volonté d’améliorer leur situation et celle de leur famille. Ils ne connaissaient rien de la culture, des us et coutumes et en surcroît, ne comprenait pas la langue des divers documents qu’ils devaient pourtant signer.
+[14] Sur cette question, j’ouvre la parenthèse à l’effet qu’il m’apparaît totalement inacceptable de laisser de tels travailleurs saisonniers à eux‑mêmes. Il est urgent et impératif que l’État mette au pieds une organisation avec les ressources nécessaires pour rejoindre tous les travailleurs saisonniers ou tout au moins préparer une trousse écrite dans la langue des intéressés pour permettre à ces derniers de connaître leurs droits et obligations permettant ainsi aux travailleurs saisonniers d’obtenir des réponses à leurs problèmes ou préoccupations et cela, avant leur arrivée, lors de l’arrivée et tout au long de leur séjour au Canada.
+[15] En l’espèce, il m’apparaît évident que les appelants ont été victimes d’une organisation sans scrupule dont le seul objet était de s’enrichir sur le dos de personnes démunies, vulnérables sans ressources et tout à fait vulnérables.
+[16] Malgré le côté sympathique, la Cour ne doit pas s’écarter de la véritable question en litige. La question en litige est la suivante : les appelants ont travaillé, reçu une rémunération dans le cadre d’une relation employeur employés; sont‑ils qualifiés pour recevoir des prestations d’assurance‑emploi?
+[17] Les procureurs des appelants n’ont manifestement rien négligé pour prendre et conclure qu’ils s’agissaient de contrats de travail assurables. À cet effet, ils ont répertorié un grand nombre de décisions de différents tribunaux et ou commissions ayant rendus des décisions sur des questions connexes dont plusieurs sont façonnés par des motifs d’humanité, compassion et sympathie et bonne foi.
+[18] La question en litige est la même pour les deux parties, c’est-à-dire qu’elle est la suivante : est-ce que les appelants ont exercé un emploi assurable pendant la période en cause?
+[19] Un contrat de travail doit exister pour qu’une personne puisse bénéficier des avantages de la Loi sur l’assurance-emploi. Les lois du Québec sont applicables au litige aux fins de déterminer si un contrat de travail existe bel et bien dans le cas des appelants.
+[20] La relation entre les appelants et leur donneur d’ouvrage se qualifiait de contrat de travail au sens de l’article 2085 du Code civil du Québec. Par contre, vu que les appelants ne possédaient pas de permis de travail valide, la validité du contrat les liant à leur employeur doit être examinée.
+[21] En effet, si les contrats de travail sont sanctionnés par la nullité absolue si l’on considère que l’absence de permis de travail affecte l’intérêt général, ils sont alors considéré nul ab initio et les appelants ne peuvent alors bénéficier des prestations d’assurance-emploi.
+[22] Par contre, la simple contravention à une loi n’emporte pas nécessairement nullité absolue d’un contrat. Un exercice d’interprétation de la Loi sur l’immigration et la protection des réfugiés est nécessaire à cet effet. Il est aussi utile de se demander s’il est possible de prendre en compte d’autres considérations que l’objet de l’interdiction pour déterminer le type de nullité en cause.
+[23] Deux courants s’opposent ici. Il n’est pas évident que l’un doit primer sur l’autre, et ce, malgré un examen minutieux des notions en cause. L’analyse des dispositions législatives en cause ne permet pas de conclure qu’elles visent nécessairement l’intérêt général ou seulement des intérêts particuliers.
+I. Analyse
+[24] Un emploi est assurable lorsqu’il est exercé en vertu d’un contrat de louage de services au Canada en vertu de l’alinéa 5(1)a) de la Loi sur l’assurance‑emploi (ci-après « LAE »).
+[25] Ainsi, l’existence d’un contrat de travail est centrale à l’obtention des avantages du régime d’assurance-emploi.
+A. Droit applicable
+[26] L’article 8.1 de la Loi d’interprétation, LRC 1985, c. I-21, établit que l’interprétation des notions de droit privé doit se faire en fonction de la province à laquelle le litige de compétence fédérale se rattache. Conséquemment, l’évaluation de l’existence d’un contrat de travail se fait ici selon les lois du Québec, plus particulièrement à l’aide du Code civil du Québec (« C.c.Q. ») [1] .
+[27] Par ailleurs, les règles concernant le droit international privé contenues dans le C.c.Q. indiquent clairement que la loi s’appliquant à un contrat de travail est celle où la prestation de travail est effectuée (en l’absence de désignation contraire par les parties) [2] . Cela confirme que le droit québécois trouve ici application, même si les appelants ont signé leur contrat de travail au Guatémala [3] .
+B. Existence de contrats de travail
+[28] La définition de contrat de travail est prévue à l’article 2085 du C.c.Q. qui explique qu’il s’agit d’un contrat où une personne s’oblige à effectuer un travail sous la direction et le contrôle d’une autre personne contre une rémunération.
+[29] Les appelants ont bel et bien exercé une prestation de travail sous la supervision et le contrôle d’un employeur; finalement ils ont été payés pour leurs services [4] .
+[30] Conséquemment, la relation entre les appelants et leur donneur d’ouvrage se qualifie à priori pour les fins de l’application de l’alinéa 5(1)a) de la LAE.
+C. Validité des contrats de travail
+[31] Cependant, au-delà de la définition prévue à l’article 2085 du C.c.Q., un contrat de travail est assujetti aux règles générales de formation et de validité des contrats prévues aux articles 1371 à 1456 du C.c.Q.
+(1) Conditions de formation d’un contrat
+[32] Pour qu’un contrat soit valablement formé en droit civil québécois, plusieurs éléments sont nécessaires. Tout d’abord, les parties cherchant à contracter doivent être capables et consentir de manière libre et éclairée. De plus, le contrat en question doit avoir un objet et une cause (art. 1385 et suiv. du C.c.Q.).
+[33] Ici, l’aspect de la validité des contrats qui est remis en question est l’objet du contrat [5] , puisque l’article 1413 du C.c.Q. prévoit que l’objet d’un contrat ne doit pas être « prohibé par la loi ou être contraire à l’ordre public ».
+[34] L’objet d’un contrat est « l’opération juridique envisagée » (article 1412 du C.c.Q.). Ici, il s’agit simplement la prestation de services par les appelants contre une rémunération [6] .
+[35] Les personnes ne possédant pas le statut de citoyen canadien ou de résident permanent doivent obtenir un permis de travail pour travailler au Canada selon l'article 30 de la Loi sur l'immigration et la protection des réfugiés [7] (« LIPR ») et l'article 196 de son règlement d'application [8] :
+LIPR
+30(1) L’étranger ne peut exercer un emploi au Canada ou y étudier que sous le régime de la présente loi.
+Règlement sur l’immigration et la protection des réfugiés
+196 L’étranger ne peut travailler au Canada sans y être autorisé par un permis de travail ou par le présent règlement.
+[Je souligne.]
+[36] Un permis de travail lié à un employeur donné (permis « fermé ») n’est valide que pour un emploi avec l’employeur qui y est spécifié [9] .
+[37] En l’espèce, les appelants ont travaillé pour un employeur qui n’était pas celui précisé sur leur permis de travail fermé. Les contrats de travail des appelants ont donc un objet contraire à la loi puisque la LIPR indique clairement que les appelants ne pouvaient travailler au Canada sans permis de travail valide [10] .
+[38] De ce fait, une des conditions à la validité d’un contrat n’a pas été respectée.
+(2) Application de la théorie de l’illégalité au Québec
+[39] Par contre, il n’est pas contesté que l’illégalité d’un contrat n’entraîne pas nécessairement son annulation en common law [11] . Cependant, tel que mentionné plus tôt, ce sont ici les principes provenant du droit civil québécois qui doivent s’appliquer et la common law ne peut pas servir directement de source d’interprétation, surtout si les règles civilistes ne constituent pas un emprunt à cet autre régime [12] .
+[40] En effet, la common law utilise la « théorie de l’illégalité » pour maintenir des contrats illégaux en faveur d’une partie de bonne foi [13] . Dans Still c. M.N.R., [1997] F.C.J. No. 1622 (CF, div. d’appel), la Cour d’appel fédérale explique que ce n’est pas cette théorie, mais les articles du C.c.Q. qui doivent être appliqués lorsqu’un contrat de travail du Québec est analysé :
+[44] [...] On peut soutenir que la Cour devrait appliquer la théorie de l’illégalité en common law telle qu’elle est comprise et appliquée dans chaque province. En théorie, les conséquences juridiques ­qu’entraîne le défaut — d’une personne —d’obtenir un permis de travail de la manière prescrite par la Loi sur l’immigration pourraient être déterminées par la common law de la province dans laquelle le contrat de travail a été conclu. Vu le caractère bijuridique de la Cour fédérale, nous ne saurions perdre de vue le fait que les affaires émanant du Québec doivent être tranchées en vertu des dispositions relatives à l’illégalité qui figurent au Code civil du Québec. [...]
+[Je souligne.]
+[41] De plus, la théorie de l’illégalité est tirée d’un principe qui n’est nullement applicable en droit civil québécois, c’est-à-dire que l’absence de précision sur les conséquences de la violation d’une interdiction constitue une délégation aux tribunaux par le législateur du pouvoir de déterminer quelle conséquence est appropriée dans les circonstances [14] . Les tribunaux de droit civil doivent plutôt d’abord rechercher l’intention du législateur.
+[42] Une autre notion qui n’est pas applicable en droit civil a été mentionnée par les appelants, soit celle du caractère disproportionné de la sanction [15] . Les mêmes commentaires s’appliquent à cet argument.
+(3) Sanction des conditions de formation des contrats
+[43] Si l’une des conditions de formation du contrat n’est pas respectée, celui‑ci peut être déclaré nul (article 1416 du C.c.Q.). Dépendamment du type de nullité en cause — relative ou absolue — les règles applicables diffèrent.
+[44] Seule la nullité absolue peut être invoquée d’office par le tribunal ou par une personne autre que les parties (articles 1418 et 1420 du C.c.Q.). Un contrat frappé de nullité absolue n’est pas susceptible d’être confirmé par les parties (art. 1420, al. 2 du C.c.Q.).
+[45] La question fondamentale est donc la suivante : est-ce que l’illégalité de l’objet du contrat rend ici le contrat nul de nullité absolue?
+[46] Comme l’application de l’article 1413 du C.c.Q. découle ici d’un objet « contraire à la loi », le type de nullité dépend logiquement des intérêts protégés par l’article de loi qui engendre son application, soit le paragraphe 30(1) de la LIPR et de l’article 196 RIPR en l’espèce.
+[47] L’article 1421 du C.c.Q. présume qu’un contrat qui n’est pas conforme aux conditions nécessaire à sa formation n’est frappé que de nullité relative à moins que la loi n’indique clairement le caractère de la nullité.
+[48] Cet article crée une présomption simple en faveur de la nullité relative, qui peut être renversée si assez d’éléments penchent en faveur de la nullité absolue [16] . La qualification du type de nullité demeure donc un exercice nécessaire même quand la loi ne prévoit pas laquelle s’applique expressément et la présomption de l’article 1421 du C.c.Q. est à être utilisée quand un doute subsiste [17] .
+[49] La nullité absolue se produit lorsque la condition de formation du contrat qu’elle sanctionne s’impose pour la protection de l’intérêt général, par opposition à la protection d’intérêts particuliers (articles 1417 et 1419 du C.c.Q.).
+(a) Notion d’intérêt général
+[50] La jurisprudence civiliste sur la notion d’intérêt général ne détaille pas longuement le concept [18] . Les décisions se bornent souvent à répéter que ces règles visent les dispositions qui protègent « l'intérêt public, plutôt que simplement privé » [19] , ce qui revient à se demander si le législateur « comptait protéger un groupe limité de personne ou promouvoir le bien-être de la société » [20] .
+[51] Voici les commentaires faits par le Ministre de la justice sur la notion d’intérêt général prévue à l’article 14717 du C.c.Q. lors de l’adoption du Code civil du Québec. Remarquons que les termes « intérêt général » et « ordre public » n’ont pas la même signification même s’il existe une tendance à les utiliser indistinctement :
+La nullité absolue sanctionne une condition de formation qui vise l’intérêt général, c’est-à-dire ce qui est pour le bien public, à l’avantage de tous.
+Bien que la notion d’ordre public présente des liens étroits avec la notion d’intérêt général en ce que toutes deux sanctionnent de nullité les actes qui leur contreviennent, elles ne sont pas interchangeables, la première étant plus large que la deuxième.
+Seuls l’ordre public politique et l’ordre public économique de direction rejoignent la notion d’intérêt général.
+L’ordre public politique est voué à la défense des institutions essentielles de la société: l’État, la Famille, la Morale.
+L’ordre public économique de direction touche la réglementation directe des échanges de richesses et de services pour assurer l’implantation d’une politique d’économie dirigée.
+La notion d’ordre public ne saurait être substituée à la notion d’intérêt général, à moins de préciser au besoin la nature de l’ordre public en cause.
+[Je souligne.]
+[52] Conséquemment, il faut déterminer si une disposition fait partie de l’ordre public politique ou économique de direction lorsque vient le moment de décider si elle s’impose pour protéger l’intérêt général.
+[53] La décision Fortin c. Chrétien, 1998 CanLII 12628 (QCCA) (conf. 2001 CSC 45), fait ces commentaires plus détaillés sur l’ordre public de direction :
+On rattache généralement à l'ordre public politique et moral les lois portant sur l'administration de la justice, les lois sur l'organisation de l'État, les lois administratives et fiscales, les lois d'organisation des corporations professionnelles, les lois pénales, les lois du travail, les chartes des droits et libertés fondamentales. Les parties ne peuvent faire échec à ces lois ou s'y soustraire par convention particulière et le contrat qui a pour effet de le faire est frappé de nullité absolue. Ainsi, s'il y a exercice illégal de la profession d'architecte, de médecin, d'avocat, le contrevenant encourt non seulement une sanction pénale mais le contrat basé sur la violation de la loi est jugé nul et illégal.
+Sous le titre de l'ordre public économique de direction, la jurisprudence et la doctrine regroupent les textes et arrêts jurisprudentiels qui tentent d'imprimer aux agissements des individus une direction publique, sociale ou économique déterminée. Il s'agit, donc, avant tout de règles posées dans l'intérêt de la société toute entière et de son bon gouvernement et qui s'attachent davantage, mais non exclusivement cependant, à l'intérêt collectif.
+[Je souligne.]
+[54] L’ordre public de direction vise donc à protéger « l’ensemble des institutions qui constituent la base des règles du jeu de la société » [21] .
+[55] À priori, l’une ou l’autre des catégories visées par l’ordre public de direction pourrait trouver application. Une interprétation des dispositions en litige est nécessaire pour conclure sur la question.
+(b) Interprétation de l’objet des dispositions en litige
+[56] Il est pertinent de se demander si c’est l’objet de l’ensemble de la LIPR qui doit être interprété pour les fins de ce dossier ou essentiellement celui créant l’objet de l’interdiction.
+[57] Il arrive que les décisions considèrent que des lois entières visent à protéger l’ordre public [22] , alors que parfois seules des dispositions spécifiques font l’objet d’une telle interprétation [23] .
+[58] Comme l’article 1417 du C.c.Q. réfère à « la condition de formation du contrat qu’elle sanctionne » et non à la loi en général, il semble plus logique de centrer l’analyse sur l’objet du paragraphe 30(1) LIPR et de l’article 196 RIPR et de n’utiliser l’objet de la loi entière que pour interpréter ces dispositions.
+[59] Le point de départ de toute interprétation du caractère d’une disposition législative est généralement de vérifier si les tribunaux se sont déjà penchés sur la question.
+(i) Décisions antérieures
+[60] Les parties ont soumis les deux courants jurisprudentiels qui s’opposent.
+[61] D’un côté, il existe des décisions qui considèrent les dispositions liées à la LIPR comme étant d’ordre public. D’autre part, certaines décisions ont considéré que le non‑respect de l’article 18 du Règlement sur l’immigration de 1978 qui est l’équivalent de l’article 196 du RIPR, n’affectait pas automatiquement l’intérêt général [24] .
+(ii) Courant à l’encontre de la position des appelants
+[62] Une série de décisions de la Cour ont considéré que les intérêts protégés par la LIPR relèvent de l’ordre public de direction et qu’un contrat de travail exercé par un étranger sans permis de travail valide doit être sanctionné par la nullité absolue : Isidore c. M.N.R., [1997] T.C.J. No. 463, par.__ ; Saad c. M.N.R., [1997] T.C.J. No. 644 (CCI), par. 8; Amer c. M.N.R., [1999] T.C.J. No. 213 (CCI), par. 19-20; Mia c. M.N.R., [2001] T.C.J. No. 199 (CCI), par. 16‑18; Coicou c. M.N.R., 2008 CCI 628, par. 44.
+[63] Ces décisions se basent notamment sur un extrait de la doctrine de Baudoin et Jobin qui indique que « l'illicéité de l'objet est sanctionnée par une nullité absolue, puisque l'ordre public est en jeu » [25] . Ce n’est plus ce que l’auteur écrit dorénavant en parlant de l’illicéité de l’objet d’un contrat : « Quand la loi interdit expressément de passer tel ou tel contrat, il y aura alors nullité. Toutefois, quand elle se borne à interdire telle ou telle activité ou état de fait sous peine de sanction pénale ou administrative, la situation commande certaines nuances : comme on l’a vu précédemment, il y a lieu dans certains cas d’appliquer une sanction moins radicale que la nullité pure et simple, voire parfois de n’appliquer aucune sanction civile. » [26] .
+[64] Les décisions de ce courant expliquent aussi qu’elles considèrent que l’intérêt général est en cause puisque la Loi sur l’immigration, LRC, c. I‑2 (abrogée LC 2001, c. 27) visait à réglementer qui peut entrer et demeurer au Canada [27] . À cet effet, elles citent généralement l’extrait suivant de Saravia c. 101482 Canada Inc., [1987] R.J.Q. 2658 (C.P. Qué.) : « The Immigration Act 1976 is a statute of public order, and a contract, knowingly or not, made in breach of one or many of its sections will be void and null ».
+[65] La décision Saravia est une décision de la Cour provinciale datant d’une trentaine d’année. Elle ne lie évidemment pas la Cour canadienne de l’impôt. Elle se base principalement sur la décision Pauzé c. Gauvin, 1954 S.R.R. 15, où la Cour suprême écrivait que tous les contrats faits à l’encontre d’une disposition d’ordre public (la Loi sur les architectes en l’occurrence) sont nuls de nullité absolue.
+[66] Or, le droit n’est peut-être pas aussi figé qu’il y paraît à priori. De plus, cette décision a rarement été citée par d’autres décideurs que la Cour canadienne de l’impôt, et toujours par des cours inférieures le cas échéant [28] .
+[67] En contrepartie, on retrouve plusieurs décisions considérant que l’ordre public n’est pas en jeu et que le droit civil doit s’appliquer de la même manière que la common law dans des circonstances similaires à celle des appelants : Haule c. M.N.R., [1998] T.C.J. No. 1079 (CCI) [29] ; Luzolo c. M.N.R., [1999] T.C.J. No. 822 (CCI), par. 14-16; Lessuru c. M.R.N., 1998 CanLII 377 (CCI) [30] , Garneau c. M.N.R., 2006 CCI 160, par. 58 (en obiter).
+[68] Ces décisions mettent l’accent sur le fait que l’intérêt public n’est pas affecté dans les circonstances particulières où un appelant est de bonne foi au lieu de se demander si l’interdiction édictée par la Loi sur l’immigration vise à protéger l’intérêt général.
+[69] Elles sont en accord avec une certaine ligne de décisions administratives de la Commission des lésions professionnelles du Québec, où la nullité absolue n’est plus toujours déclarée quand un contrat de travail va à l’encontre des dispositions de la LIPR. En effet, elles considèrent aussi le but des lois dont on cherche à entraîner l’application (comme celui de la LATMP visant à indemniser les victimes d’accidents de travail) [31] .
+[70] L’analogie avec ces décisions est intéressante puisqu’elles visent aussi exactement la question de l’effet de l’invalidité d’un permis sur l’existence d’un contrat de travail. De plus, le terme « travail » dans la Loi sur les accidents de travail et les maladies professionnelles, RLRQ c. A‑3.001, art. 2, a une définition similaire à celle inscrite dans la LAE [32] .
+[71] Il est cependant étonnant que ces décisions appliquent directement l’arrêt Still sans soulever la distinction entre le droit civil et la common law, sauf pour mentionner que la Commission, n’étant pas une cour supérieure, n’a pas compétence pour prononcer la nullité d’un contrat et qu’elle doit lui donner plein effet jusqu’à ce qu’il soit déclaré nul [33] .
+[72] Les appelants considèrent d’ailleurs que la décision Haule prend en compte le droit civil québécois parce que les dispositions du C.c.Q. sont citées par la Cour [34] , mais cela n’est pas évident à la lecture des motifs de la décision. Ils soutiennent aussi que la décision Luzolo est applicable puisque le juge considère que le droit civil ne déroge pas à première vue à la common law [35] . Cet argument est difficile à adopter puisque l’égalité du droit civil et de la common law fait en sorte que le régime contractuel québécois n’a pas à « déroger » de la common law pour s’appliquer distinctement.
+(iii) Analyse du texte
+[73] Un autre indice pertinent se retrouve dans la rédaction du paragraphe 30(1) de la LIPR et de l’article 196(1) du RIPR, soit l’usage de la forme prohibitive. Lorsqu’une disposition est rédigée sous la forme d’une interdiction, cela peut dénoter la présence d’intérêts plus larges que ceux des particuliers [36] . La Loi d’interprétation, RLRQ c. I-16, art. 41.3, mentionne que les lois prohibitives emportent nullité. Il s’agit d’une reproduction de l’article 13 du Code civil du Bas-Canada [37] . Cette disposition a été reléguée dans la loi d’interprétation et retirées du Code civil. Bien qu’il ne soit généralement pas approprié d’utiliser une loi d’interprétation provinciale pour interpréter les lois émanant du Parlement, l'interrelation entre le Code civil et la Loi d’interprétation fait en sorte qu’il est difficile d’ignorer cette règle.
+[74] Selon une décision de la Cour d’appel du Québec, « cette présomption peut être renversée lorsqu'il apparaît que les objectifs poursuivis par le législateur, en édictant la prohibition, exigent que soient examinés la nature, les circonstances et les effets de l'opération juridique qui contrevient à la règle. » [38] Certains auteurs soutiennent aussi que cette règle d’interprétation « doit céder le pas lorsqu’il apparaît clairement que les objectifs poursuivis par le législateur, en édictant une prohibition quelconque, n’exigent pas ou même seraient desservis par la nullité du contrat qui contrevient à la règle » puisqu’il ne s’agit que d’une règle d’interprétation parmi d’autres [39] . Bref, l’usage de la forme prohibitive ne crée pas de présomption absolue qu’une disposition ait été édictée pour l’intérêt général, mais elle peut être utile à cet effet.
+[75] Puisque le texte lui-même ne fait pas pencher d’un côté de manière irrémédiable, il faut se référer au reste de la loi et à son contexte pour déterminer si l’objet de la disposition vise l’intérêt général.
+(iv) Dispositions illustratives de l’objet du législateur
+[76] La LIPR indique son objet au paragraphe 3 [40] :
+3. (1) En matière d’immigration, la présente loi a pour objet :
+a) de permettre au Canada de retirer de l’immigration le maximum d’avantages sociaux, culturels et économiques;
+b) d’enrichir et de renforcer le tissu social et culturel du Canada dans le respect de son caractère fédéral, bilingue et multiculturel;
+b.1) de favoriser le développement des collectivités de langues officielles minoritaires au Canada;
+c) de favoriser le développement économique et la prospérité du Canada et de faire en sorte que toutes les régions puissent bénéficier des avantages économiques découlant de l’immigration;
+d) de veiller à la réunification des familles au Canada;
+e) de promouvoir l’intégration des résidents permanents au Canada, compte tenu du fait que cette intégration suppose des obligations pour les nouveaux arrivants et pour la société canadienne;
+f) d’atteindre, par la prise de normes uniformes et l’application d’un traitement efficace, les objectifs fixés pour l’immigration par le gouvernement fédéral après consultation des provinces;
+g) de faciliter l’entrée des visiteurs, étudiants et travailleurs temporaires qui viennent au Canada dans le cadre d’activités commerciales, touristiques, culturelles, éducatives, scientifiques ou autres, ou pour favoriser la bonne entente à l’échelle internationale;
+h) de protéger la santé et la sécurité publiques et de garantir la sécurité de la société canadienne;
+i) de promouvoir, à l’échelle internationale, la justice et la sécurité par le respect des droits de la personne et l’interdiction de territoire aux personnes qui sont des criminels ou constituent un danger pour la sécurité;
+j) de veiller, de concert avec les provinces, à aider les résidents permanents à mieux faire reconnaître leurs titres de compétence et à s’intégrer plus rapidement à la société.
+(2) S’agissant des réfugiés, la présente loi a pour objet :
+a) de reconnaître que le programme pour les réfugiés vise avant tout à sauver des vies et à protéger les personnes de la persécution;
+b) de remplir les obligations en droit international du Canada relatives aux réfugiés et aux personnes déplacées et d’affirmer la volonté du Canada de participer aux efforts de la communauté internationale pour venir en aide aux personnes qui doivent se réinstaller;
+c) de faire bénéficier ceux qui fuient la persécution d’une procédure équitable reflétant les idéaux humanitaires du Canada;
+d) d’offrir l’asile à ceux qui craignent avec raison d’être persécutés du fait de leur race, leur religion, leur nationalité, leurs opinions politiques, leur appartenance à un groupe social en particulier, ainsi qu’à ceux qui risquent la torture ou des traitements ou peines cruels et inusités;
+e) de mettre en place une procédure équitable et efficace qui soit respectueuse, d’une part, de l’intégrité du processus canadien d’asile et, d’autre part, des droits et des libertés fondamentales reconnus à tout être humain;
+f) d’encourager l’autonomie et le bien-être socioéconomique des réfugiés en facilitant la réunification de leurs familles au Canada;
+g) de protéger la santé des Canadiens et de garantir leur sécurité;
+h) de promouvoir, à l’échelle internationale, la sécurité et la justice par l’interdiction du territoire aux personnes et demandeurs d’asile qui sont de grands criminels ou constituent un danger pour la sécurité.
+(3) L’interprétation et la mise en œuvre de la présente loi doivent avoir pour effet :
+a) de promouvoir les intérêts du Canada sur les plans intérieur et international;
+b) d’encourager la responsabilisation et la transparence par une meilleure connaissance des programmes d’immigration et de ceux pour les réfugiés;
+c) de faciliter la coopération entre le gouvernement fédéral, les gouvernements provinciaux, les États étrangers, les organisations internationales et les organismes non gouvernementaux;
+d) d’assurer que les décisions prises en vertu de la présente loi sont conformes à la Charte canadienne des droits et libertés, notamment en ce qui touche les principes, d’une part, d’égalité et de protection contre la discrimination et, d’autre part, d’égalité du français et de l’anglais à titre de langues officielles du Canada;
+e) de soutenir l’engagement du gouvernement du Canada à favoriser l’épanouissement des minorités francophones et anglophones du Canada;
+f) de se conformer aux instruments internationaux portant sur les droits de l’homme dont le Canada est signataire.
+[Je souligne.]
+[77] La section sur les sanctions se lit comme suit :
+124(1) Commet une infraction quiconque :
+a) contrevient à une disposition de la présente loi pour laquelle aucune peine n'est spécifiquement prévue ou aux conditions ou obligations imposées sous son régime;
+b) échappe ou tente d'échapper à sa détention;
+c) engage un étranger qui n'est pas autorisé en vertu de la présente loi à occuper cet emploi.
+(2) Quiconque engage la personne visée à l'alinéa (1)c) sans avoir pris les mesures voulues pour connaître sa situation est réputé savoir qu'elle n'était pas autorisée à occuper l'emploi.
+(3) Est disculpée de l'infraction visée à l'alinéa (1)a) la personne visée au paragraphe 148(1) qui établit qu'elle a pris toutes les mesures voulues pour en prévenir la perpétration.
+125. L'auteur de l'infraction visée au paragraphe 124(1) est passible, sur déclaration de culpabilité :
+a) par mise en accusation, d'une amende maximale de cinquante mille dollars et d'un emprisonnement maximal de deux ans, ou de l'une de ces peines;
+b) par procédure sommaire, d'une amende maximale de dix mille dollars et d'un emprisonnement maximal de six mois, ou de l'une de ces peines.
+[Je souligne.]
+[78] La définition du terme « travail » et le paragraphe 8(1) dans le RIPR [41] indiquent ce qui suit :
+2 Les définitions qui suivent s’appliquent au présent règlement.
+travail Activité qui donne lieu au paiement d’un salaire ou d’une commission, ou qui est en concurrence directe avec les activités des citoyens canadiens ou des résidents permanents sur le marché du travail au Canada.
+8(1) L’étranger ne peut entrer au Canada pour y travailler que s’il a préalablement obtenu un permis de travail (…)
+[Je souligne.]
+[79] La section du règlement sur les permis de travail s’intéresse plus particulièrement à d’autres éléments comme les effets de l’embauche de l’étranger :
+203 (1) Sur présentation d’une demande de permis de travail conformément à la section 2 par tout étranger, autre que celui visé à l’un des sous-alinéas 200(1)c)(i) à (ii.1), l’agent décide, en se fondant sur l’évaluation du ministère de l’Emploi et du Développement social, sur tout renseignement fourni, à la demande de l’agent, par l’employeur qui présente l’offre d’emploi et sur tout autre renseignement pertinent, si, à la fois :
+a) l’offre d’emploi est authentique conformément au paragraphe 200(5);
+b) le travail de l’étranger est susceptible d’avoir des effets positifs ou neutres sur le marché du travail canadien;
+(…)
+(3) Le ministère de l’Emploi et du Développement social fonde son évaluation relative aux éléments visés à l’alinéa (1)b) sur les facteurs ci-après, sauf dans les cas où le travail de l’étranger n’est pas susceptible d’avoir des effets positifs ou neutres sur le marché du travail canadien en raison de l’application du paragraphe (1.01) :
+a) le travail de l’étranger entraînera ou est susceptible d’entraîner la création directe ou le maintien d’emplois pour des citoyens canadiens ou des résidents permanents;
+b) le travail de l’étranger entraînera ou est susceptible d’entraîner le développement ou le transfert de compétences ou de connaissances au profit des citoyens canadiens ou des résidents permanents;
+c) le travail de l’étranger est susceptible de résorber une pénurie de main-d’œuvre;
+d) le salaire offert à l’étranger correspond aux taux de salaires courants pour cette profession et les conditions de travail qui lui sont offertes satisfont aux normes canadiennes généralement acceptées;
+e) l’employeur embauchera ou formera des citoyens canadiens ou des résidents permanents, ou a fait ou accepté de faire des efforts raisonnables à cet effet;
+f) le travail de l’étranger est susceptible de nuire au règlement d’un conflit de travail en cours ou à l’emploi de toute personne touchée par ce conflit;
+g) l’employeur a respecté ou a fait des efforts raisonnables pour respecter tout engagement pris dans le cadre d’une évaluation précédemment fournie en application du paragraphe (2) relativement aux facteurs visés aux alinéas a), b) et e).
+[Je souligne.]
+[80] En plus de la prise en compte de l’authenticité de l’offre d’emploi [42] et de l’octroi d’un salaire décent, d’autres dispositions visent spécifiquement à protéger les travailleurs étrangers comme [43] :
+196.1 L’étranger ne peut conclure de contrat d’emploi — ni prolonger la durée d’un tel contrat — avec un employeur :
+a) qui offre, sur une base régulière, des activités de danse nue ou érotique, des services d’escorte ou des massages érotiques;
+b) qui est visé à l’un des sous-alinéas 200(3)h)(i) à (iii).
+196.2 Pour l’application de la présente partie, la notion de violence vise :
+a) la violence physique, notamment les voies de fait et la séquestration;
+b) la violence sexuelle, notamment les contacts sexuels sans consentement;
+c) la violence psychologique, notamment les menaces et l’intimidation;
+d) l’exploitation financière, notamment la fraude et l’extorsion.
+209.2 (1) L’employeur qui a présenté une offre d’emploi à un étranger visé au sous-alinéa 200(1)c)(ii.2) est tenu de respecter les conditions suivantes :
+a) pendant la période d’emploi pour laquelle le permis de travail est délivré à l’étranger :
+(i) il est véritablement actif dans l’entreprise à l’égard de laquelle il a présenté l’offre d’emploi, sauf si celle-ci visait un emploi d’aide familial,
+(ii) il se conforme aux lois et aux règlements fédéraux et provinciaux régissant le travail et le recrutement de main‑d’oeuvre dans la province où l’étranger travaille,
+(iii) il lui confie un emploi dans la même profession que celle précisée dans son offre d’emploi et lui verse un salaire et lui ménage des conditions de travail qui sont essentiellement les mêmes — mais non moins avantageux — que ceux précisés dans l’offre,
+(iv) il fait des efforts raisonnables pour fournir un lieu de travail exempt de violence; (…)
+[Je souligne.]
+(v) Historique législatif et débats parlementaires
+[81] L’historique des lois sur l’immigration est particulièrement intéressant quant aux buts derrière les dispositions à l’étude.
+[82] L’adoption de la première loi sur l’immigration date du début de la confédération [44] . Heureusement, il n’est pas nécessaire de regarder l’ensemble des lois adoptées par le Parlement canadien depuis 1867, car la mise en place de règles spécifiques visant à ce que les étrangers possèdent tous obligatoirement un permis de travail pour occuper un emploi sur le territoire date de 1973 [45] . Avant cette modification, le système canadien d’entrée sur le territoire était simplement basé sur l’obtention d’un visa. La demande de visa devait être justifiée par une des raisons énumérées dans la loi (notamment certains emplois provisoires spécifiés) [46] .
+[83] L’ajout de l’exigence de posséder un permis de travail s’est inscrit dans le contexte d’une hausse du taux de chômage [47] . La mesure a visé à « faire en sorte que, dans tous les cas où cela est possible, les emplois vacants soient offerts de préférence à des canadiens » [48] . L’ajout au règlement se lisait ainsi :
+3D(2) Lorsque le fonctionnaire compétent reçoit une demande de visa d'emploi, i1 doit délivrer ce visa d'emploi sauf :
+a) s'il reçoit du service national de placement des renseignements indiquant :
+(i) qu'un citoyen canadien ou un résident permanent du Canada, dont les aptitudes correspondent à l’emploi que le candidat désire exercer au Canada, est prêt à prendre cet emploi et est libre de le faire et, s'il ne s'agit pas d'un travailleur indépendant, qu'il n'y a pas lieu de croire que l'employeur éventuel pourrait refuser, pour une raison relative à la nature de l'emploi, d'embaucher un citoyen canadien ou un résident permanent pour exercer cet emploi;
+ii) qu'une grève légale est en cours là où le candidat désire travailler, et que l'emploi que le candidat désire prendre est occupé en temps normal par une personne qui est en grève, ou
+(iii) qu'un différend ou conflit ouvrier autre qu'une grève légale sévit au lieu d'emploi et que les chances de règlement du différend ou conflit seraient vraisemblablement diminuées si le candidat prenait un emploi à cet endroit; ou
+b) si le candidat a enfreint les conditions d'un visa d'emploi qui lui a été délivré au cours des deux années précédentes.
+[84] La Loi sur l’immigration de 1976, 30e légis., 2e sess., c. 52, p. 1193, et le Règlement sur l’immigration de 1978, DORS/78-172, Gaz. Can. II, vol. 112, no 5, 8 mars 1978, p. 757, précédant la législation actuelle, comportaient essentiellement la même interdiction de travail sans permis. Un des critères pour l’octroi d’un permis était que l’autorisation ne puisse « (…) adversely affect employement opportunities for Canadian citizens or permanent résidents in Canada » [49] ou affecter les conflits de travail en cours.
+[85] Il semble donc assez constant que l’interdiction de travail par des étrangers sans permis vise surtout à protéger les opportunités d’emplois pour les citoyens canadiens et à empêcher que négociations collectives soient entravées par l’embauche d’étrangers. Les dispositions visant la protection des travailleurs temporaires sont plutôt apparues au fil du temps. [50]
+[86] Il est aussi intéressant de souligner que les anciens objectifs de l’article 3 de cette loi incluaient « maintenir et garantir la santé, la sécurité et l'ordre public au Canada », et que « l’ordre public » n’a pas été maintenue dans la nouvelle LIPR [51] . Toutefois, si l’on regarde l’ensemble des dispositions concernant l’objet de la loi ainsi que d’autres indices comme la définition du terme « travail » et les exigences concernant l’octroi d’un permis de travail, il serait probablement exagéré de soutenir que le législateur se soit nécessairement désintéressé de l’intérêt général par ce retrait dans la nouvelle loi sur l’immigration.
+[87] Les débats parlementaires sur l’adoption de la loi actuelle et l’analyse article par article du projet de loi ayant mené à son adoption [52] ne contiennent pas d’informations très explicites pour les fins d’interpréter l’article 30 LIPR [53] . La question des permis n’était pas un enjeu d’actualité d’aussi grande importance que les autres questions liées à l’immigration lors de l’adoption de la nouvelle loi semble-t-il.
+(vi) 3.2.5 Discussion
+[88] Tout d’abord, les buts énumérés par le législateur ne semblent pas viser des intérêts particuliers (à l’exception de ceux des réfugiés), mais plutôt des intérêts nationaux, comme la préservation de l’économie et de la sécurité.
+[89] Toutefois, l’un des objectifs mentionnés à l’alinéa 3(3)f) de la LIPR mérite une attention particulière. Cet alinéa explique que l’interprétation de la LIPR doit avoir pour effet de permettre au Canada « de se conformer aux instruments internationaux portant sur les droits de l’homme dont le Canada est signataire ».
+[90] Les lois internes ne sont pas subordonnées aux instruments internationaux [54] , mais la Cour suprême a pris en compte divers traités pour en arriver à une interprétation plus restrictive de la LIPR vu l’alinéa 3(3)f) dans B010 c. Canada (Citoyenneté et Immigration), 2015 CSC 58, par. 49-50 [55] . L’alinéa 3(3)f) « donne lieu à la présomption selon laquelle la loi doit être interprétée d’une manière conforme aux obligations internationales du Canada » [56] selon la Cour d’appel fédérale.
+[91] Le Canada fait partie du Pacte International relatif aux droit économiques, sociaux et culturels [57] , ONU, A.G., rés. 2200 A (XXI), 16 décembre 1966, dont l’article 9 prévoit que « Les États parties au présent Pacte reconnaissent le droit de toute personne à la sécurité sociale, y compris les assurances sociales. ». Le terme « assurances sociales » n’est pas défini dans le Pacte, mais selon le dictionnaire Petit Robert, il s’agit d’assurances « garantissant les travailleurs et les ayants droits contre la maladie, les accidents du travail, le chômage (c.f. Sécurité sociale) » [58] .
+[92] La Déclaration universelle des droits de l’Homme, ONU, A.G., rés. 217 A (III), 10 décembre 1978, prévoit aussi à son article 25 : « 1. Toute personne a droit à (…) la sécurité en cas de chômage (…) » [59] .
+[93] Le Canada n’a toutefois pas ratifié la Convention internationale des Nations Unies sur la protection des droits de tous les travailleurs migrants [60] , ONU, A.G. rés. 45/158, 18 décembre 1990, qui prévoyait un droit similaire plus spécifique pour les travailleurs étrangers en octroyant un droit à l’égalité de traitement avec les travailleurs citoyens pour les prestations de chômage à son article 54. Le gouvernement n’a pas expliqué officiellement les motifs de son refus, mais rien n’indique qu’on ait voulu restreindre les droits des travailleurs étrangers.
+[94] Depuis quelques années, le Canada subit une telle pénurie de travailleurs agricoles que des récoltes entières risquent d’être perdues faute de travailleurs intéressés et disponibles pour le travail. Les entreprises concernées par d’éventuelles pertes considérables pressent les autorités pour qu’elles facilitent, soutiennent et encouragent la venue de travailleurs étrangers.
+[95] Il s’agit désormais d’une ressource humaine bénéfique et tout à fait essentielle tant pour l’économie que pour le plus grand bien de tous les canadiens. L’intérêt général et public est certes en cause; il milite pour la venue des travailleurs étrangers et non pour les exclure ou les éloigner. Il s’agit là d’une question d’intérêt général pour la communauté canadienne.
+[96] Pour revenir à l’objet plus général des dispositions à l’étude, les lois en lien avec la restriction de la concurrence [61] et la gestion de l’économie [62] sont généralement considérées comme visant l’intérêt général. Les dispositions en cause limitent la concurrence étrangère sur le marché du travail et diminuent ainsi les risques d’une augmentation du taux de chômage, ce qu’on pourrait lier à l’ordre public économique de direction. Par contre, la situation réelle est toute autre, et ce, depuis quelques années.
+[97] Le système de permis de travail vise aussi indirectement à déterminer si un étranger peut entrer sur le territoire pour certaines fins (par. 8(1) RIPR). Le contrôle des travailleurs étrangers doit cependant exister et ce notamment pour la protection des travailleurs canadiens.
+[98] Les travailleurs canadiens doivent demeurer à l’abri de potentielles tactiques de mauvaise foi des employeurs pendant des conflits de travail. En l’espèce, cet aspect ou dimension n’est aucunement en cause.
+[99] Toutefois, il est clair que la diminution du chômage a logiquement un lien avec l’économie canadienne.
+[100] La Cour suprême a toutefois déterminé que seul l’ordre public de protection était touché par les dispositions générales prévues au Code civil du Québec [63] puisqu’elles visent à protéger un groupe spécifique et que le législateur n’a pas inclus la même prohibition de dérogation à ses règles que dans d’autres lois du travail [64] . Les dispositions en lien avec la négociation collective ont aussi été jugées comme ayant pour but de ramener l’équilibre des forces entre les parties, ce qui tend aussi vers la qualification d’ordre public de protection [65] .
+[101] Ainsi, il existe une certaine latitude dans la détermination du caractère d’une loi visant à protéger les intérêts des travailleurs.
+[102] L’exigence d’un permis de travail protège aussi les intérêts particuliers des travailleurs étrangers dans une certaine mesure en interdisant certains emplois dégradants et en contrôlant l’authenticité des offres d’emploi avant l’arrivée pour éviter qu’ils soient exploités. Encore une fois, il peut aussi s’agir de dispositions qui protègent l’ordre public moral puisqu’elles empêchent des comportements immoraux comme l’exploitation et l’usage de violence contre des travailleurs [66] . La différence entre la rédaction de l’article 196 et de l’article 196.1 du RIPR pourrait aussi plutôt tendre à démontrer que le Parlement n’a voulu rendre nul de nullité absolue que certains contrats tel que mentionné précédemment.
+[103] On voit donc qu’une loi peut aussi autant protéger des intérêts particuliers que l’intérêt général. Qu’en est-il dans ce cas? Dans la décision Garcia Transport Ltée c. Cie Royal Trust, [1992] 2 RCS 499, p. 526, la Cour a qualifié d’ordre public de protection la disposition à l’étude même si elle a considéré qu’elle visait entre autres à « promouvoir le bien-être économique de la société en général ». Contrairement à cette position, les lois encadrant les ordres professionnels visent l’ordre public de direction, même si elles ne protègent en principe qu’un groupe particulier (c’est‑à‑dire leur client) [67] selon la Cour suprême, quoique le raisonnement utilisé émane aussi de la période précédant le C.c.Q. En effet, Le Code civil du Bas-Canada ne distinguait pas clairement la nullité relative et la nullité absolue [68] , ce qui a mené les cours à faire par elles-mêmes des distinctions entre l’ordre public de direction et de protection et qui a de toute évidence influencé le législateur dans la rédaction du nouveau Code [69] .
+[104] Puisque ni la Cour d’appel ni la Cour suprême ne se sont prononcés définitivement sur la question de l’impact de la pluralité des intérêts visés par une loi, le débat demeure ouvert au sein des auteurs.
+[105] La solution émanant des auteurs qui fait le plus de sens à mon avis est celle préconisée par Luelles et Moore, soit que la réponse « [dépend] de la prépondérance de l'intérêt protégé » [70] . Plusieurs soutiennent que quand « les deux principes se présentent de manière équivalente, il faut donner préséance à l’ordre public de direction [puisque] l’intérêt général prime sur l’intérêt particulier » [71] , mais remarquons que cette position ignore la présomption de nullité relative de l’article 1421 du C.c.Q. [72] .
+[106] Enfin, l’existence de sanctions pénales si une personne contrevient à une disposition est un indice de la présence d’un objectif d’ordre public [73] , mais pas forcément d’un ordre public de direction [74] . Cet indice est donc plus ou moins révélateur même s’il est parfois utilisé pour renforcer une interprétation.
+(c) L’usage d’éléments externes à l’objet de l’interdiction pour qualifier la nullité
+[107] Il demeure utile de se demander si l’intérêt général protégé peut être évalué avec d’autres considérations que l’objet de l’interdiction, et ce, même si la théorie de l’illégalité en tant que telle ne s’applique pas au Québec.
+[108] En effet, l’une des principales différences entre les deux courants sur les effets de l’invalidité d’un contrat de travail se situe dans la manière d’interpréter ce que constitue l’intérêt général. Dans un cas, la disposition est évaluée dans l’abstrait, alors que dans l’autre il est évalué par rapport à la situation factuelle émanant de la preuve. Conséquemment, sans appliquer les principes tirés de la common law, il est pertinent de se demander si le droit civil limite dans tous les cas l’analyse à la détermination du caractère d’ordre public des dispositions législatives en cause ou s’il faut aussi déterminer si le non‑respect des dispositions contrarie l’ordre public dans le cas particulier des appelants.
+[109] De manière alternative, on pourrait aussi voir ce type d’interprétation comme une mise en balance des différents ordres publics en cause. On se demande donc si l’objet d’ordre public protégé par une loi peut s’incliner devant celui protégé par une autre loi puisque l’intérêt général serait mieux protégé dans ce cas. Ici il s’agirait de déterminer si l’objet de protection de l’économie canadienne (et/ou des travailleurs canadiens) peut être mis de côté au profit de la protection des droits sociaux des appelants [75] .
+[110] Bien qu’en principe le droit civil s’applique de manière plus stricte que la common law et qu’il ne revienne pas au juge de s’immiscer dans les décisions du législateur, il n’en demeure pas moins que la notion d’« intérêt général » laisse intentionnellement une vaste place à l’interprétation judiciaire.
+[111] À cet effet, il est évident voire notoire que les milliers de travailleurs agricoles étrangers ne constituent ni une menace ni une entrave aux droits des travailleurs canadiens.
+[112] Au contraire, ces travailleurs constituent un atout, un enrichissement voire même une nécessité fondamentale à la stabilité et au développement du secteur agro‑alimentaire au Canada.
+[113] Depuis maintenant plusieurs années, les travailleurs saisonniers étrangers sont étroitement associés aux nombreuses récoltes. Sans eux, plusieurs producteurs agricoles subiraient des pertes colossales à cause de la très grande pénurie de travailleurs canadiens. La situation en cette matière a évolué et plusieurs changements commandent une profonde réflexion de manière à ce que les travailleurs agricoles étrangers soient considérés comme un intrant essentiel ne préjudiciant en rien aux travailleurs canadiens mais plutôt comme un atout au maintien et développement de l’économie canadienne. Je conclus donc que l’intérêt général susceptible de commander possiblement une nullité absolue n’est pas en cause. Au contraire, l’intérêt général milite fortement pour la thèse des appelants.
+[114] Le texte de l’article 1417 du C.c.Q. qui régit la nullité absolue n’est aussi pas rédigé de manière à fermer toute considération autre que celle de l’intérêt protégé par la disposition créant une interdiction même si c’est ce que font concrètement un grand nombre de décisions [76] ainsi que plusieurs auteurs [77] .
+[115] En effet, le législateur a choisi d’écrire que la nullité absolue survient quand « la condition de formation du contrat qu’elle sanctionne s’impose pour la protection de l’intérêt général » ou « where the condition of formation sanctioned by its nullity is necessary for the protection of the general interest » en anglais. [Je souligne.]
+[116] Le sens commun entre les versions françaises et anglaises [78] ouvre la porte à ce que l’on considère si l’intérêt général est effectivement touché dans certaines circonstances particulières. En effet, le législateur aurait pu écrire que la nullité absolue survient quand la condition de formation du contrat « vise » ou « a pour objet » l’intérêt général, ce qui aurait limité l’analyse strictement au but visé par la disposition créant une interdiction.
+[117] Puisque le nouveau droit reprend essentiellement la distinction qui avait été faite par la jurisprudence pour nuancer l’impact du non-respect de la loi sur le type de nullité engendré, il n’est pas déraisonnable de conclure que le législateur a voulu donner une certaine discrétion au juge.
+[118] Le respect de l’obligation d’avoir un permis de travail pour travailler au Canada s’impose‑t‑il pour protéger l’intérêt général. À cet égard, je rappelle que les appelants avaient obtenu un permis; certes les droits et obligations prévues à leur contrat de travail étaient définis; par contre, je ne crois pas que la sanction devrait être équivalente à celle où ils n’auraient eu aucun permis. Ils avaient le permis mais n’ont pas respecté les conditions inhérentes quant au donneur d’ouvrage.
+[119] La bonne foi des appelants et le fait qu’ils ont été victimes d’un mensonge ont été allégués [79] pour inciter la Cour à ne pas qualifier d’absolument nul le contrat de travail passé entre les appelants et leur employeur.
+[120] La Cour d’appel [80] a manifesté une ouverture en édictant ce qui suit :
+Si les articles 1411 C.c.Q. et 1413 C.c.Q. ainsi que l'article 41.3 de la Loi d'interprétation selon lequel « les lois prohibitives emportent nullité, quoiqu'elle n'y soit pas prononcée », font naître une présomption d'invalidité de l'opération juridique qui contrevient à une loi prohibitive, cette présomption peut être renversée lorsqu'il apparaît que les objectifs poursuivis par le législateur, en édictant la prohibition, exigent que soient examinés la nature, les circonstances et les effets de l'opération juridique qui contrevient à la règle.
+[Je souligne.]
+[121] Il faut noter toutefois que la Cour suprême n’a pas repris cette partie des motifs de la Cour d’appel bien que sa décision ait été confirmée. Une autre décision de cette même cour allait dans le même sens, soit Madill c. Succession Vilon, 1987 CanLII 526 (QCCA) [81] , mais elle précède le C.c.Q. actuel et les règles concernant les nullités y différaient comme mentionné plus tôt.
+[122] Un autre arrêt de la Cour suprême pourrait soutenir l’interprétation des appelants. Dans Côté c. Rancourt, 2004 CSC 58, la Cour se questionnant sur le type de nullité entachant un contrat passé avec un avocat en situation de conflit d’intérêt malgré la prohibition prévue à la Loi sur le Barreau et au Code de déontologie des avocats explique :
+9 Le droit régissant les conflits d'intérêts requiert une analyse plus nuancée. Les intérêts en conflit peuvent toucher soit l'ordre public général, soit l'ordre public de protection. La nature de l'intérêt en jeu influencera les conclusions susceptibles d'être prononcées par le tribunal. Tout manquement à l'obligation de loyauté ne donne pas droit automatiquement à l'annulation du contrat, au remboursement des honoraires professionnels ou à des dommages-intérêts.
+10 Il est clair que les dispositions régissant l'organisation des corporations professionnelles et l'exercice exclusif des professions touchent en principe l'ordre public politique général (Fortin c. Chrétien, [2001] 2 R.C.S. 500, 2001 CSC 45, par. 20-21). Une contravention à ces dispositions confère à la partie lésée un recours civil fondé sur la nullité absolue du contrat ainsi entaché. Toutes les dispositions réglementaires adoptées en vertu des lois d'organisation des professions n'ont cependant pas la même importance, et la sanction d'une contravention doit être adaptée à la prohibition en cause et aux circonstances de l'affaire.
+11 Pour ce qui est de la prohibition des conflits d'intérêts, il faut analyser la nature du conflit pour qualifier la contravention. Certaines situations mettent en jeu l'intégrité du système judiciaire, et d'autres, seulement l'intérêt des parties (M. Proulx et D. Layton, Ethics and Canadian Criminal Law (2001), p. 287). Ainsi, lorsqu'un avocat représente simultanément deux coaccusés faisant l'objet d'accusations criminelles connexes et ayant des intérêts opposés, il ne peut apporter à chacun de ses clients l'assistance à laquelle il a constitutionnellement droit. La fiabilité du verdict revêt alors une importance qui prime l'intérêt privé des clients. Le respect de l'intégrité du système de justice criminelle repose en premier lieu sur la fiabilité des verdicts. La protection de l'intégrité du système judiciaire relève de l'ordre public général. Le contrat qui viole cet ordre est frappé de nullité absolue (art. 1417 du Code civil du Québec, L.Q. 1991, ch. 64 (« C.c.Q. ») et n'est pas susceptible de confirmation (art. 1418 C.c.Q.).
+13 Dans Succession MacDonald c. Martin, [1990] 3 R.C.S. 1235, notre Cour a élaboré des règles permettant à un cabinet de professionnels de continuer à représenter un client malgré un conflit d'intérêts. Les cas de conflit peuvent varier à l'infini. Il sera parfois possible de concilier les divers intérêts en cause, dont le libre choix de l'avocat. Une simple divulgation, suivie d'une renonciation (art. 3.06.08 du Code de déontologie) ou confirmation (art. 1423 C.c.Q.), sera parfois suffisante lorsque seul l'intérêt des parties est en jeu. Dans le cas où la situation donnant lieu au conflit n'a pas fait l'objet de discussions et que la confirmation est possible, le juge doit analyser le conflit pour en déterminer la nature et décider, s'il y a lieu, de la réparation qui s'impose. (…)
+16 Au vu de ces faits, il y a lieu de conclure que l'intérêt en jeu ne s'élevait pas au-dessus de celui des parties elles‑mêmes. Le conflit d'intérêts n'était pas susceptible de frapper de nullité absolue le contrat de service intervenu entre Côté et Rancourt. Il ne peut y avoir que nullité relative lors de la formation du contrat ou faute contractuelle dans son exécution.
+[Je souligne.]
+[123] Ainsi, il n’est pas inédit de regarder si la violation d’une prohibition d’ordre public va à l’encontre de l’intérêt général dans les circonstances concrètes qui sont posées devant le juge et si l’interdiction « s’impose » pour la protection de l’intérêt général au vu des faits particuliers de l’affaire.
+[124] Pour ce qui est de prendre en compte la bonne ou la mauvaise foi plus particulièrement, la Cour d’appel du Québec a rendu des décisions à tendance variable.
+[125] Dans Douville c. Société hypothécaire B.N.E., 1996 CanLII 6479 (QCCA), des dispositions d’ordre public économique de protection prévoyant la libération du débiteur dans certaines circonstances ont été appliquées par la Cour d’appel du Québec malgré la mauvaise foi du débiteur. La Cour a considéré que « étant des dispositions d'ordre public, les tribunaux, semble‑t‑il, ne possèdent aucun pouvoir discrétionnaire dans leur application ».
+[126] Les circonstances particulières sont considérées pertinentes pour qualifier le type de nullité en cause dans le cas d’un vice de consentement à un mariage, celui‑ci n’heurterait l’intérêt général que dans certains cas. Ce serait le cas par exemple si l’unique but était d’obtenir la citoyenneté canadienne sans faire vie commune avec son conjoint [82] .
+[127] La Cour canadienne de l’impôt a aussi déjà a décidé dans ce sens. Dans Durocher c. La Reine, 2015 CCI 297 (appel rejeté 2016 CAF 299), la Cour devait déterminer si convention unanime des actionnaires ne respectant pas une disposition de la Loi sur les valeurs mobilières devait être sanctionnée de nullité absolue, l’ancien juge en chef Rip s’exprime ainsi pour sauvegarder une convention faite de bonne foi :
+59 Dans son texte sur les sanctions des lois d'ordre public, l'auteure Michelle Cumyn résume bien la thèse du professeur Jobin, rédigée comme suit :
+Lorsque l'interdiction vise expressément tel contrat, le commerce de tel bien non conforme ou la prestation de tel service sans l'autorisation requise, il faudrait conclure à la nullité du contrat. En revanche, lorsque le législateur a simplement imposé certains devoirs à une personne sous peine de sanction, il n'y aurait pas lieu d'appliquer la nullité. Dans le premier cas, il y aurait violation directe de la loi par le contrat, dans le second cas, violation indirecte.
+60 Le professeur Jobin donne d'ailleurs comme exemple que « c'est une chose de prescrire, sous peine d'amende contre le propriétaire, que tout logement doit avoir au moins deux sorties, et c'en est une autre que de défendre le louage d'un logement qui n'est pas pourvu de deux sorties ».
+61 Les auteurs Jean Pineau, Danielle Burman et Serge Gaudet abondent également dans le sens de la thèse du professeur Jobin selon laquelle « [e]n l'absence d'indications expresses de la part du législateur sur le sort du contrat, il faut donc, dans l'hypothèse où il y a dérogation à la loi, se demander si les objectifs de la norme exigent ou non que le contrat soit nul. La présomption de nullité que pose l'article 41.3 de la Loi d'interprétation n'est rien d'autre qu'un guide ».
+62 À titre d'exemple, une loi peut très bien édicter que toute automobile arbore un numéro de série lisible, sans que l'on puisse pour autant conclure à la nullité de la vente d'un véhicule qui n'a pas de numéro de série ou dont le numéro est illisible.
+63 De plus, l'auteure Michelle Cumyn opine, en ce qui concerne la question de l'application éventuelle de la nullité absolue, qu'il faut rechercher, d'une part, si cette sanction est nécessaire pour assurer le respect de la loi, tout en tenant compte d'autre part, des inconvénients susceptibles de découler de la sanction de nullité pour les parties et certains tiers. Elle ajoute que, dans la mesure où la surveillance de l'application de la loi est prise en charge par une autorité de surveillance, disposant déjà d'un assortiment de sanctions préventives, la nullité absolue devrait être écartée.
+64 Tel est le cas en l'espèce. Aux termes de l'article 184 de la Loi sur les services financiers, l'Autorité constitue l'organisme chargé de l'application de cette loi; elle veille à la protection du public relativement à l'exercice des activités régies par la Loi sur les services financiers.
+65 De plus, il m'est difficile d'envisager d'imposer la sanction de nullité absolue du contrat alors que le législateur a lui-même prévu la sanction appropriée à l'article 485 de la Loi sur les services financiers: [omis]
+66 La Cour d'appel du Québec, à l'occasion de l'affaire Elge financialease inc. c. Dépanneur Kildare enr.13 a d'ailleurs souligné l'importance d'appliquer la sanction de nullité absolue avec retenue et prudence.
+67 Dans cette affaire, Dépanneur Kildare avait signé un contrat de crédit‑bail avec Elge dans le but d'obtenir un financement pour l'utilisation d'une rôtisserie fournie par N.A. Credit Services Inc. Quelques mois plus tard, Dépanneur Kildare s'est rendu compte que la rôtisserie n'était pas conforme aux standards imposés par la Loi sur les installations électriques. Il s'est alors plaint au fournisseur, mais en vain. Il a donc décidé de cesser de payer son loyer à Elge, tout en lui offrant de lui remettre la rôtisserie. Elge a refusé cette offre, et a intenté une action pour le montant des loyers dus. La Cour du Québec a maintenu l'action d'Elge, et a condamné Dépanneur Kildare à payer les arrérages de loyer. En appel de cette décision, Dépanneur Kildare a allégué, entre autres, la nullité absolue du bail, vue la non‑conformité de la rôtisserie.
+68 La Cour d'appel du Québec a rejeté l'appel. Sous la plume du juge Rothman, la Cour a relevé que l'objet du contrat était purement et simplement d'obtenir un financement, et c'est ce qu'il a obtenu. Le juge Rothman s'est exprimé ainsi sur la notion de nullité absolue :
+[TRADUCTION]
+Bien entendu, en principe, l'objet d'une obligation ou d'un contrat ne doit pas être interdit par la loi [...], et les lois prohibitives emportent nullité [...]. Cependant, l'application de ces principes a évolué au fil des ans pour s'adapter aux réalités et aux besoins changeants. [...]
+Les contrats qui violent une loi ou un règlement, même de façon indirecte ou théorique, ne doivent pas tous être considérés comme étant frappés de nullité absolue. La théorie de l'ordre public et de la nullité doit être appliquée en tenant dûment compte de la nature du droit et de la violation, ainsi que de la nature du contrat .
+[Je souligne.]
+[128] De manière similaire à cette décision, les sanctions en cas de manquement en général à la LIPR sont précisées aux articles 124 à 124 [83] .
+[129] Il faut prendre en compte les conséquences pratiques de manière subsidiaire pour justifier une interprétation de la loi. Par exemple, dans Québec (Commission des normes du travail) c. Asphalte Desjardins Inc., 2014 CSC 51, par. 64‑65, la Cour suprême explique que l’interprétation retenue par la Cour d’appel n’était « pas souhaitable » et que la leur permet d’éviter d’avoir à inviter le législateur à modifier la loi.
+[130] Les faits et circonstances ont démontré que les intérêts de la collectivité n’ont pas été heurtés par le travail des appelants.
+[131] Les lois visant à indemniser des membres du public lorsqu’ils sont victimes de certains aléas de la vie sont généralement considérées comme des lois d’ordre public visant l’intérêt général [84] . Il semble donc assez vraisemblable que la LAE vise à protéger le public en général [85] , quoiqu’encore une fois un groupe particulier soit visé (c’est-à-dire les travailleurs).
+[132] Les appelants mentionnent que la LAE n’interdit pas expressément que des versements d’assurance-emploi soient fait à des travailleurs étrangers sans permis, alors qu’elle exclut expressément plusieurs types de travailleurs [86] et interdit certains contrats de travail.
+[133] Il n’est pas faux d’affirmer que le Parlement a eu de nombreuses occasions d’exclure expressément les travailleurs étrangers lors des réformes de la Loi depuis 1930. La protection apportée par cette loi semble donc avoir une vaste portée particulièrement par la prise en considération du phénomène nouveau et stratégique que sont devenus les travailleurs étrangers, ces derniers n’obtiennent pas pour autant plus de droits et obligations que les travailleurs canadiens.
+[134] Les appelants mentionnent que l’ARC a outrepassé sa compétence en déclarant que le contrat de travail était nul [87] .
+[135] La nullité ne peut être prononcée que par un juge, ce qui requiert théoriquement le recours aux tribunaux judiciaires [88] , par le biais d’une action en annulation, avant que les effets de la nullité ne puissent être invoqués [89] . En effet, l’article 1416 du C.c.Q. indique qu’un contrat dont l’une des conditions de formation n’est pas respectée « peut être frappé de nullité », ce qui indique que la nullité n’existe pas de plein droit.
+[136] Toutefois, le fait d’invoquer la nullité au niveau de l’appel n’est pas nécessairement fatal puisque la Cour d’appel fédérale a déterminé que la compétence de la Cour canadienne de l’impôt inclut celle « de constater la nullité [d’un contrat] pour les fins de déterminer la validité d’une cotisation » [90] et qu’elle ne « déclare » pas la nullité au lieu d’une cour provinciale ce faisant [91] .
+[137] De plus, le paragraphe 104(1) de la LAE précise que la Cour canadienne de l’impôt a le « pouvoir de décider toute question de fait ou de droit qu’il est nécessaire de décider pour rendre une décision » sous le régime de cette loi.
+[138] Enfin, remarquons aussi qu’il est généralement admis qu’il est possible d’invoquer la nullité par voie d’exception, c’est-à-dire en tant que moyen de défense et sans recourir à une action en nullité [92] , ce que fait le Ministre en l’espèce.
+[139] Il a été plaidé que de prononcer le contrat nul aurait pour effet d’entraîner la restitution des prestations et que les appelants risqueraient alors d’être poursuivis pour qu’ils remboursent le salaire reçu. Certains jugements de la Cour canadienne de l’impôt ont aussi exprimé cette inquiétude [93] . Or, dans le cas des contrats par exécution successive, comme les contrats de travail, les règles usuelles de restitution des prestations sont écartées au profit de la restitution par équivalent, ou par l’absence de restitution quand celle-ci procurerait un avantage indu à l’une des parties (art. 1699 du C.c.Q.) [94] . Le jugement de la Cour canadienne de l’impôt ne constituant pas une déclaration de nullité, les effets du contrat ne seraient pas annulés par une décision en défaveur des appelants et l’employeur devrait passer par une cour provinciale pour ce faire [95] . Cet argument doit donc être écarté.
+[140] Selon les appelants, la nullité du contrat les empêcherait aussi de faire des réclamations salariales en cas de non-paiement de leur salaire [96] . Par contre, la décision de la Cour canadienne de l’impôt ne lie pas les tribunaux administratifs québécois qui sont libres d’adopter leur propre interprétation des principes entourant la nullité (c’est d’ailleurs ce qu’ils semblent faire selon les plaidoiries mêmes des appelants). D’autres avenues comme des recours civils (tel que l’enrichissement injustifié) resteraient certainement ouvertes aussi dans ce cas [97] .
+[141] Dans l’avis d’appel, il est mentionné que les contrats d’emploi n’ont pas été considérés nuls pour les fins d’une plainte pour harcèlement psychologique [98] , mais il semble assez évident que les décisions de tribunaux administratifs de juridiction provinciale ne lient pas la Cour canadienne de l’impôt [99] .
+[142] Les parties n’ont pas fait de représentations très étendues sur la notion d’équité. Il est bien établi que la Cour canadienne de l’impôt ne peut décider en fonction de l’équité [100] .
+[143] Le procureur des appelants a mentionné que l’équité n’entre pas en ligne de compte si le droit permet une interprétation particulière d’une disposition législative [101] . Cette interprétation est conforme à la jurisprudence entourant la compétence de la Cour.
+[144] Bien que la notion d’ordre public mette de manière inhérente en jeu des questions qui dépassent les contours de ce que constitue le droit strict, la Cour n’a la capacité d’user de considérations d’équité que lorsque la loi le permet. Par exemple, l’article 167 de la Loi sur les impôts demande au juge de déterminer s’il est juste et équitable dans les circonstances quand il s’agit de décider s’il doit faire droit à une demande de prorogation de délai pour déposer un avis d’appel. Tel que mentionné plus tôt, le droit ne paraît pas fixé quant à la capacité des cours de pousser leur analyse plus loin que l’objet de l’interdiction afin de déterminer si l’intérêt général est affecté par un contrat passé en contravention de la loi, mais dans tous les cas le test ne se transforme pas en simple évaluation de ce qui est équitable dans les circonstances.
+[145] Il est intéressant de souligner que le Québec a ajouté de nouvelles dispositions dans la Loi sur les normes du travail, RLRQ, c. N-1.1 pour éviter que des situations comme celles des appelants se répètent, par le biais des nouveaux articles 92.5 à 92.12 [102] qui visent à réglementer les activités des agences de recrutement de travailleurs étrangers temporaires. Ces agences devront dorénavant obtenir un permis de la CNESST. Cependant, les nouvelles dispositions n’entreront en vigueur que si le nouveau gouvernement adopte un règlement à cet effet.
+[146] Le Comité permanent sur les ressources humaines (fédéral) a recommandé l’abolition des permis associés à un seul employeur pour diminuer le mauvais traitement des travailleurs étrangers [103] . Cette mesure n’a pas été retenue par le gouvernement à ce jour.
+[147] Pour avoir droit aux prestations d’assurance-emploi, il est essentiel que les contrats de travail des appelants ne soient pas frappés de nullité absolue.
+[148] L’évidente bonne foi des appelants et l’objet visé par la LAE me permette de conclure que l’intérêt général n’est aucunement affecté par le maintien de la validité des contrats de travail des appelants.
+[149] Conséquemment, les appels des appelants sont accueillis en ce que le travail qu’ils ont effectué pour les périodes en litige est assurable.
+« Ces motifs du jugement modifiés sont émis en remplacement des motifs du jugement datés du 10e jour de mai 2019 afin de corriger le paragraphe 35. »
+Signé à Ottawa, Canada, ce 28e jour de mai 2019.
+« Alain Tardif »
+Juge Tardif
+RÉFÉRENCE :
+2019 CCI 114
+Nos DES DOSSIERS DE LA COUR :
+2017-3972(EI), 2017-3973(EI), 2017-3974(EI),
+2017-3975(EI),2017-3976(EI), 2017-3978(EI),
+2017-3981(EI), 2017-3984(EI), 2017-3988(EI),
+2017-3993(EI), 2017-3995(EI), 2017-3996(EI),
+2017-3997(EI), 2017-3998(EI)
+INTITULÉS DES CAUSES :
+JUAN ANTONIO GODOY ENRIQUEZ,
+JORGE FERNANDO BOTELLO AGUILAR,
+JUAN DE JESUS HERNANDES SOLIS,
+JOSUE WILDER CANTORAL URRUTA,
+HUGO ALBERTO LOPEZ GARCIA,
+RUDY FERNANDO ALVAREZ VASQUEZ,
+JOAQUIN ABNER MIRANDA LOPEZ
+HENRY DE JESUS AGUIRRE CONTRERAS,
+GUSTAVO ADOLFO PRADO PAREDES,
+BANNER AUDIEL DONIS Y DONIS,
+MARVIN ESTUARDO DIAZ PERLA,
+ISMAEL SIMON CHUTA,
+ERIK TANADEO LOPEZ MAYORGA,
+EDSON VINCENT PEREZ VASQUEZ c. M.R.N.
+LIEU DE L’AUDIENCE :
+Montréal (Québec)
+DATE DE L’AUDIENCE :
+le 10 octobre 2018
+MOTIFS DU JUGEMENT MODIFIÉS PAR :
+L'honorable juge Alain Tardif
+DATE DES MOTIFS DU JUGEMENT MODIFIÉS:
+le 28 mai 2019
+COMPARUTIONS :
+Avocat des appelants :
+Me Richard-Alexandre Laniel
+Avocat de l'intimé :
+Me Gabriel Girouard
+AVOCATS INSCRITS AU DOSSIER :
+Pour les appelants :
+Nom :
+Me Richard‑Alexandre Laniel
+Cabinet :
+Ouellet Nadon et Associés
+Montréal (Québec)
+Pour l’intimé :
+Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa, Canada
+[1] 9041-6868 Québec Inc. c. Ministre du Revenu national, 2005 CAF 334, par. 3-7.
+[2] Art. 3118 al. 2 C.c.Q.
+[3] Transcription, p. 15.
+[4] Cela n’est soulevé ni dans la réponse à l’avis d’appel, ni dans les plaidoiries.
+[5] Bien que l’avis d’appel réfère à la notion de consentement, qui n’entraîne qu’une nullité relative ne pouvant être soulevée que par les appelants, il ne s’agit pas du motif pour lequel le Ministre a rejeté la demande de prestation faite par les appelants. Rien n’empêche que plusieurs vices de formation affectent le même contrat. Il semble que la validité de la cause du contrat (la raison pour laquelle les parties ont signé le contrat) ne soit pas en litige puisque les appelants ne voulaient pas agir en contravention avec leur permis de travail.
+[6] L’article 1371 du C.c.Q. précise aussi que l’objet d’une obligation ne peut être contraire à l’ordre public.
+[7] L.C. 2001, c. 27.
+[8] Règlement sur l’immigration et la protection des réfugiés, DORS/2002-227 (« RIPR »).
+[9] Cette règle n’est pas prévue expressément dans la loi ou le règlement, mais on comprend à la lecture du règlement que le permis est accordé à l’égard d’un employeur en particulier puisque la demande doit viser une offre d’emploi spécifique (voir le paragraphe 203(1) du RIPR)).
+[10] L’invalidité des permis de travail a été admise (transcription, p. 4, par. 9-10).
+[11] Still c. M.N.R., [1997] F.C.J. No. 1622 (CF, div. d’appel).
+[12] Curly c. Latreille (1920), 60 R.C.S. 131 (CSC) : « Il est quelquefois dangereux de sortir d'un système juridique pour chercher des précédents dans un autre système, pour le motif que les deux systèmes contiennent des règles semblables, sauf bien entendu le cas où un système emprunte à l'autre une règle qui lui était auparavant étrangère. Alors même que la règle est semblable dans les deux, il est possible qu'elle n'ait pas été entendue ou interprétée de la même manière dans chacun d'eux, et, comme l'interprétation juridique — je parle bien entendu de celle qui nous oblige — fait réellement partie de la loi qu'elle interprète, il peut très bien arriver que les deux règles, malgré une apparente similitude, ne soient pas du tout identiques. ». Les règles québécoises sur la nullité des contrats sont inspirés du droit français et non de la common law : Michelle Cumyn, « Les sanctions des lois d’ordre public touchant à la justice contractuelle : leurs finalités, leur efficacité » (2007), 41 RJT 1, p. 16.
+[13] Still c. M.N.R., [1997] F.C.J. No. 1622 (CF, div. d’appel).
+[14] Coicou c. Ministre du Revenu National, 2008 CCI 628, par. 39.
+[15] Transcription, p. 50 et 75.
+[16] Garcia Transport Ltée c. Compagnie Trust Royal, [1992] 2 RCS 499; Vincent Karim, Les obligations, 4e éd., 2015, vol. 1, Montréal, Wilson & Lafleur, par. 1600.
+[17] Ibid. Cependant, dans Groupe Trans-inter inc. c. Ragusa Canada inc., 2012 QCCA 2033, par. 47 la Cour d’appel paraît donner un assez grand poids à cette présomption dans le contexte de l’évaluation du type de nullité engendré par l’exercice de l’activité de courtier sans permis, alors que la présomption semblait pratiquement ignorée par le passé.
+[18] Les décisions visent surtout les pouvoirs des municipalités (et d’autres questions relevant du droit administratif) et la règlementation de certaines professions.
+[19] Garcia Transport Ltée c. Compagnie Trust Royal, [1992] 2 RCS 499.
+[20] Jean-Louis Baudoin, Jean-Gabriel Jobin, Les obligations, Yvon Blais, Cowansville, 7e éd., 2013, no 103 (ci-après « Baudoin, Jobin »).
+[21] Fortin c. Chrétien, 2001 CSC 45, par. 21.
+[22] La Loi sur la protection du consommateur, LRQ, c. P-40.1, est considérée d’ordre public économique de protection dans son ensemble par plusieurs décisions comme : 9002-5073 Québec inc. c. Felix, 2013 QCCA 2048, par. 4.
+[23] Pensons par exemple à certains articles du C.c.Q. en droit des assurances qui sont d’ordre public. Voir Baudoin, Jobin, préc., note 20, no 110.
+[24] Voir par exemple : Haule c. M.N.R., [1998] T.C.J. No. 1079 (CCI), par. 22.
+[25] Mia c. M.N.R., [2001] T.C.J. No. 199, par. 16.
+[26] Baudoin, Jobin, préc., note 20, no 353.
+[27] Amer c. MNR, par. 19.
+[28] Seddiki c. Glatt’s Kosher Meat Products Ltd., 2001 CarswellQue 5589, EYB 2001-25714 (BCGTQ); Rouzier c. S.C.F.P., local 3187, [1994] T.T. 375; Bell Mobility Inc. et Kikangala, Re, 2014 CarswellNat 541. Il s’agit de décisions administratives en lien avec l’admissibilité aux dispositions concernant les congédiements injustes.
+[29] Comme mentionné par le Ministre, l’article 8.1 de la Loi d’interprétation a été adopté postérieurement à Haule (Loi d’harmonisation no 1 du droit fédéral avec le droit civil, LC 2001, c. 4, art. 8.). Cependant, contrairement à ce qui est sous-entendu dans la Réponse à l’avis d’appel, il n’existe pas de scission claire entre le droit précédant l’adoption de cet article et le droit postérieur. En effet, remarquez qu’une décision de 2006 s’inscrit dans ce courant.
+[30] La demande a été rejetée en raison de l’absence démonstration de bonne foi, mais le juge applique quand même les principes de l’arrêt Still.
+[31] Voir par exemple : Henriquez et Aliments Mello, 2006 CanLII 65957 (QCCLP) ; Flores Cornejo et Viandes et aliments Or-Fil, 2011 QCCLP 4969; Rodas Garcia et Services d'entretien Advance inc., 2010 QCCLP 2995; Reyes Avila et Aliments Alasko inc., 2013 QCCLP 3771; N'Zi et Coopérative de services à domicile du Cap Diamant, 2018 QCTAT 306.
+[32] Transcription, p. 42.
+[33] Sur la question de la déclaration de nullité, voir la section 1 de la partie IV.
+[34] Transcription, p. 24. Ainsi, le raisonnement sous-jacent au jugement serait donc encore valide malgré l’entrée en vigueur de l’article 8.1 de la Loi d’interprétation.
+[35] Transcription, p. 26.
+[36] Paul-André Côté, Interprétation des lois, Montréal, Éditions Thémis, 4e édition, 2009, no 890.
+[37] Savaria c. 101482 Canada Inc., [1987] R.J.Q. 2658 (C.P.).
+[38] Fortin c. Chrétien, 1998 CanLII 12628 (QCCA) (conf. pour d’autres motifs 2001 CSC 45).
+[39] Jean Pineau, Serge Gaudet, Théorie des obligations, 4e éd., Montréal, Éditions Thémis 2001, no 170.
+[40] Le paragraphe 3(2) s’intéresse à la protection des réfugiés, ce qui n’est pas en cause ici.
+[41] Un règlement peut être un outil d’interprétation de la loi même si cela peut sembler contre-intuitif à priori : voir par exemple Kabiankan c. Kechichian, [2000] R.J.Q. 1730 (QCCA), par. 15-17.
+[42] Le Règlement modifiant le Règlement sur l’immigration et la protection des réfugiés (travailleurs étrangers temporaires), Gaz. Can II, 10 octobre 2009, p. 3051, visait à faciliter la vérification de l’authenticité des offres d’emploi et d’exclure les employeurs du régime s’ils ne respectaient pas les conditions de travail promises aux étrangers afin de « réduire le plus possible le risque que les [travailleurs étrangers temporaires] soient exploités par des employeurs et des tiers (…). ».
+[43] Il existe d’autres exemples dans le règlement, mais les formulations sont assez similaires. Voir par exemple l’art. 209.3 RIPR.
+[44] Michel Chouinard, Louis Pelletier, « Aperçu historique de la politique d’immigration canadienne », Cahiers québécois de démographie, vol. 12, no 2, octobre 1983, https://www.erudit.org/fr/revues/cqd/1983-v12-n2-cqd2455/600505ar.pdf.
+[45] Règlement sur l’immigration – Partie 1 – Modification, 21 décembre 1972, DORS/73‑20, Gaz. Can. II, vol. 107, no 1, p. 83 (entrée en vigueur le 1er janvier 1973), art. 3A à 3D, http://www.collectionscanada.gc.ca/base-de-donnees/gazette-du-canada/001060-119.01-f.php?gen=2&image_id_nbr=438910&document_id_nbr=10663&f=p&PHPSESSID=42pqgvm4vp9mn0djsfjhm0sslpj8cq6jpvt3ia8hbu9449ega260. Il existait auparavant plusieurs cas énumérés où des autorisations étaient requises, mais aucune obligation générale n’était prévue au règlement.
+[46] Parlement du Canada, Débats de la chambre des communes, Ellen F. Fairclough (Ministre de la Citoyenneté et de l’Immigration), 2e légis., 4ère sess., vol. 3, 27 mars 1961,p. 3529, http://parl.canadiana.ca/view/oop.debates_CDC2404_03/1222?r=0&s=1.
+[47] Ninette Kelley, Michael J. Trebilcock, The making of the mosaic, a history of Canadian immigration policy, University of Toronto Press, 1998, p. 360.
+[48] Parlement du Canada, Débats de la chambre des communes, Robert K. Andras (Ministre de la Main-d’œuvre et de l’Immigration), 29e légis., 4e sess., vol. 3, 26 mars 1973, p. 2578 et 3374, http://parl.canadiana.ca/view/oop.debates_CDC2901_03/260?r=0&s=1.
+[49] Règlement sur l’immigration de 1978, art. 20(1). La traduction française est moins claire : « (…) l’embauchage de cette personne nuira à celui des citoyens canadiens ou des résidents permanents du Canada ».
+[50] Par exemple, le Règlement modifiant le Règlement sur l’immigration et la protection des réfugiés (travailleurs étrangers temporaires), Gaz. Can II, 10 octobre 2009, p. 3051, visait à faciliter la vérification de l’authenticité des offres d’emploi et d’exclure les employeurs du régime s’ils ne respectaient pas les conditions de travail promises aux étrangers afin de « réduire le plus possible le risque que les [travailleurs étrangers temporaires] soient exploités par des employeurs et des tiers (…). ». Des restrictions à la délivrance de permis ont aussi été abrogées récemment (Règlement modifiant le Règlement sur l’immigration et la protection des réfugiés (permis de travail), DORS/2018-61, Gaz. Can. II, vol. 152, no 8) pour ne plus limiter la durée cumulative des permis délivrés aux travailleurs étrangers temporaires. Toutefois, ces modifications visent peut-être plus à limiter les impacts de ces limites sur certaines industries qu’à favoriser les travailleurs étrangers. Dans tous les cas, les modifications n’abrogent pas l’existence de permis de travail liés à un employeur donné ou modifier l’exigence d’avoir un permis valide pour travailler au Canada.
+[51] Ibid.
+[52] Citoyenneté et immigration Canada, Loi sur l’immigration et la protection des réfugiés : analyse article par article, projet de loi C-11, mars 2001, http://epe.lac-bac.gc.ca/100/200/301/cic/bill_c-11_clause_by_clause-f/c11-article.pdf.
+[53] Débats parlementaires – Projet de loi C-11, 37e légis., 1ère sess., no 21, 26 février 2001, p. 1520 et suiv., https://www.noscommunes.ca/DocumentViewer/fr/37-1/chambre/seance-21/debats#LINK200.
+[54] Charkaoui Re, 2004 CAF 421, par. 138.
+[55] En raison des instruments internationaux, une disposition créant une interdiction de territoire a été interprétée afin de ne pas englober certaines situations où essentiellement les contrevenants n’agissaient pas de manière malfaisante.
+[56] Lewis c. Canada (Sécurité publique et Protection civile), 2017 CAF 130, par. 76.
+[57] https://www.ohchr.org/fr/professionalinterest/pages/cescr.aspx.
+[58] Le Petit Robert, Paris, 2018, p. 162, sous la définition du mot « assurance ».
+[59] http://www.un.org/fr/universal-declaration-human-rights/.
+[60] https://www.ohchr.org/fr/professionalinterest/pages/cmw.aspx.
+[61] Baudoin, Jobin, préc., note 20, no 107.
+[62] Michelle Cumyn, préc., note 12 p. 18.
+[63] Les lois du travail qui visent à protéger ce groupe relèvent probablement de l’ordre public de direction puisqu’elles prévoient expressément qu’on ne peut y déroger (voir par exemple Loi sur les normes du travail, RLRQ, c. N-1.1, art. 93), mais ce n’est pas le cas ici. L’analogie serait donc douteuse. De plus, la Cour suprême a refusé de se prononcer définitivement sur ces lois dans Québec (Commission des normes du travail) c. Asphalte Desjardins inc., 2014 CSC 51, par. 71.
+[64] Voir la note précédente. Voir aussi : Isidore Garon ltée c. Syndicat du bois d’oeuvre de la région de Québec inc., 2006 SCC 2, par. 60-61. A contrario voir la dissidence du juge LeBel (par. 156), reprise notamment par Québec (Procureur général) c. Syndicat de la fonction publique du Québec inc., 2010 QCCS 1702.
+[65] Isidore Garon ltée c. Tremblay, 2006 CSC 2, par. 38.
+[66] Michelle Cumyn, préc., note 16, p. 20.
+[67] Fortin c. Chrétien, 2001 CSC 45, par. 22.
+[68] Le Code se limitait à préciser qu’un contrat ne doit pas avoir un objet contraire à la loi et que les lois prohibitives emportent nullité (art. 14 et 1062).
+[69] Voir par exemple: Girard c. Veronneau, [1980] C.A. 534, J.E. 80-867 (C.A.).
+[70] Didier Luelles et Benoît Moore, préc., note 36, no 1124. C’est la position que paraît avoir adoptée la Cour d’appel dans Fortin c. Chrétien, 1998 CanLII 12628 (QCCA), (conf. pour d’autres motifs 2001 CSC 45).
+[71] Vincent Karim, préc., note 16, no 1359. Pour une opinion selon laquelle les lois partiellement édictées dans l’intérêt public sont d’ordre public de direction, voir : Paul‑André Côté, préc., note 38, p. 231 et 232.
+[72] Voir par exemple : Université de Sherbrooke c. Beaudoin, 2010 QCCA 28, par. 49.
+[73] Urbacon Architecture inc. c. Urbacon Buildings Group Corp., 2016 QCCA 620, par. 26.
+[74] Girard c. Veronneau, [1980] C.A. 534; Lafrance c. Carter, 2018 QCCQ 198, par. 44 et suiv; Madill c. Succession Vilon, 1987 CanLII 526 (QCCA).
+[75] Transcription, p. 65.
+[76] Les commentaires du Ministre (cités au paragraphe 35) ne semblent pas considérer cette possibilité. Cependant, cette source d’interprétation des lois ne lie pas les tribunaux (Verdun (Ville de) c. Doré, [1997] 2 R.C.S. 862) et il est clair que le législateur a lui‑même été influencé par les décisions émanant des règles applicables sous le Code civil du Bas-Canada.
+[77] Le C.c.Q. doit s’interpréter de manière « dynamique » en « cherchant l’esprit de ses dispositions », selon les commentaires du Ministre de la Justice sur la disposition préliminaire du C.c.Q. Le Code ne s’interprétant pas de manière statique, cela laisse plus de place à la créativité judiciaire.
+[78] L’article 7 de la Charte de la langue française, RLRQ, c. C-11 explique que les textes de loi français et anglais ont la même valeur juridique. Le sens commun est donc généralement retenu à moins que la Cour retienne que ce ne pouvait être l’intention du législateur (Doré c. Verdun (Ville), [1997] 2 RCS 862, 1997 CanLII 315 (CSC)). Le terme « s’impose », peut avoir comme sens « être nécessaire » ou « être de rigueur » selon le dictionnaire Larousse.
+[79] Transcription, pp. 9-11. Les plaidoyers font aussi mention d’une étude sur les conditions de travail et la vulnérabilité des travailleurs guatémaltèques.
+[80] Fortin c. Chrétien, 1998 CanLII 12628 (QCCA).
+[81] L’extrait suivant de la décision est évocateur : « Devant le développement de l'encadrement législatif ou réglementaire et la multiplication des dispositions impératives et prohibitives, il a fallu que la jurisprudence comme la doctrine s'interrogent davantage sur le but et la portée d'un régime de nullité. Elles se refusent parfois à tirer la conséquence draconienne de la nullité absolue à l'égard d'un acte posé à l'encontre d'une disposition prohibitive. […] Ces réserves étant faites, cependant, il faut examiner la nature de la violation de l'article 56a), par rapport aux circonstances de faits de l'espèce. »
+[82] Droit de la famille — 091179, 2009 QCCA 993.
+[83] Transcription, pp. 8 et 46.
+[84] Par exemple, la Cour d’appel du Québec a considéré que la Loi sur la sécurité civile visant à indemniser les victimes de sinistre était de cette nature dans Québec (Procureur général) c. Côté, 2009 QCCA 176. La Loi sur l’assurance automobile a eu la même qualification dans Automobiles Giguère inc. c. Taïga Sylviculture ltée, 2002 CanLII 63233 (QCCA).
+[85] Le Renvoi sur la Loi sur l’assurance-emploi, par. 48 explique que le régime est un programme public d’assurance fondé sur la notion de risque social et visant à préserver la sécurité économique des travailleurs. Il s’agit d’une « politique sociale » (par. 56) que l’on pourrait qualifier comme relevant de l’intérêt général par analogie avec la Loi sur la sécurité civile par exemple (voir la note précédente). Par exemple, la Loi sur les régimes complémentaires de retraite a été qualifiée de loi d’ordre public économique de direction puisqu’elle prévient que des personnes deviennent des fardeaux pour l’État lors de leur retraite dans Bowater Pâtes et Papiers Canada Inc. et Régie des rentes du Québec, 2000 CanLII 41643 (TAQ).
+[86] Transcription, p. 6.
+[87] Transcription, pp. 84-85.
+[88] Remarquons que le nouveau Code de procédure civile ne précise plus que les recours en annulation de contrat sont de la compétence exclusive de la Cour du Québec (ou de la Cour supérieure selon le cas), comme c’était le cas auparavant (Code de procédure civile, RLRQ, c. C-25, art. 31 et 34(2)).
+[89] Didier Luelles, Benoit Moore, préc., note 36, nos 1101 et 1103-1104.
+[90] Durocher c. Canada, 2016 CAF 299, par. 40-43. Voir aussi Markou c. La Reine, 2016 CCI 137, par. 16.
+[91] Remarquons aussi qu’il est possible d’invoquer la nullité par voie d’exception, c’est‑à‑dire en tant que moyen de défense (Baudoin, Jobin, préc., note 20, no 389). Le moyen n’a même pas été rejeté d’office quand il a été invoqué par un demandeur sans passer préalablement par un recours en jugement déclaratoire dans Durocher c. La Reine, 2015 CCI 297, par. 46. Cela est aussi assez cohérent avec le fait que la nullité absolue se prononce d’office par le juge même si les parties ne l’ont pas invoquée.
+[92] Baudoin, Jobin, préc., note 20, no 389.
+[93] Par exemple, voir : Garneau c. M.N.R., 2006 CCI 160, par. 58.
+[94] Baudoin, Jobin, préc., note 20, nos 400 et 921. Voir par exemple, Fortier c. Compagnie d'arrimage de Québec ltée, 2014 QCCCS 1984, par. 90-92.
+[95] Le Ministre a aussi fait remarquer que les décisions de la Cour ne lient pas les tribunaux provinciaux (transcription, p. 79).
+[96] Transcription, p. 20.
+[97] De surcroît, une personne ayant payé des cotisations en trop peut faire une demande de remboursement au Ministre (par. 96(2) LAE).
+[98] Transcription, p. 11.
+[99] Cela a d’ailleurs été plaidé par l’intimée : transcription, p. 76.
+[100] Voir par exemple : Sunil Lighting Products v. Minister of National Revenue, [1993] T.C.J. No. 666 (TCC); Smith v. Minister of National Revenue, 89 D.T.C. 299 (TCC).
+[101] Transcription, p. 60.
+[102] PL 176, Loi modifiant la Loi sur les normes du travail et d’autres dispositions législatives afin principalement de faciliter la conciliation famille-travail, 41e légis, 1ère sess., Québec, 2018 (sanctionné le 12 juin 2018), LQ 2018, c. 21.
+[103] Comité permanent des ressources humaines, « Programme des travailleurs étrangers temporaires », Rapport du Comité permanent des ressources humaines, 42e légis., 1ère sess., septembre 2006, https://www.noscommunes.ca/DocumentViewer/fr/42-1/HUMA/rapport-4/page-99#specific.

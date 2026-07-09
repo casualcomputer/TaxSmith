@@ -1,0 +1,163 @@
+---
+title: "Lecerf v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/25089/index.do"
+last_modified: "2004-09-28"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 TCC 626"
+citation2: ""
+neutral_citation: "2004 TCC 626"
+decision_date: "2004-09-28"
+language: "en"
+item_id: "25089"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2498
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T18:58:34.179000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "1811c70d76c204cbe99e75a6b1358d1953a3c828b543c29030f3a29fbdff50a0"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Lecerf v. The Queen
+
+- Citation: 2004 TCC 626
+- Decision date: 2004-09-28
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2498, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Lecerf v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-09-28
+Neutral citation
+2004 TCC 626
+File numbers
+2004-193(IT)I
+Judges and Taxing Officers
+David W. Beaubier
+Subjects
+Income Tax Act
+Decision Content
+Citation: 2004TCC626
+Date: 20040928
+Docket: 2004-193(IT)I
+BETWEEN:
+ROBERT LECERF,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+(delivered orally from the Bench at
+Edmonton, Alberta, on May 18, 2004)
+[1] This appeal pursuant to the Informal Procedure was heard at Edmonton, Alberta on May 18, 2004. The Appellant was the only witness.
+[2] The particulars in dispute are set out in paragraphs 4 and 8 to 16 in the Reply to the Notice of Appeal. They read:
+4. In respect of paragraph 7 of the Notice of Appeal:
+(a) he admits that Rhoda Smith (hereinafter "Rhoda") was paid $34,000.00 in 2000;
+(b) he denies that Rhoda was paid $23,600.00 in 2001;
+(c) he states that the amounts paid to Rhoda Smith were paid from a bank accounts for RDL Equipment Services; and
+(d) he has no knowledge of and puts in issue the remainder of the paragraph.
+...
+8. In computing income for the 2000 and 2001 taxation years, the Appellant deducted rental losses of $40,365.46 and $25,182.33, respectively, which included the amounts of $34,000.00 and $23,600.00 as rental expenses, respectively, for amounts paid to Rhoda for management fees (hereinafter the "Management Fees"). Details of the rental losses are outlined in Schedule A attached hereto and forming part of the Reply to the Notice of Appeal (hereinafter "Schedule A").
+9. The Minister of National Revenue (the "Minister") reassessed the Appellant for the 2000 and 2001 taxation years to disallow the Management Fees and reduce the rental losses to $6,365.46 and $1,582.33, respectively, as the Management Fees were not incurred for the purposes of earning income from business and property and were not reasonable in the circumstances. The Notices of Reassessment were dated June 2, 2003.
+10. The Appellant filed a Notice of Objections to those reassessments, dated July 7, 2003.
+11. The Minister confirmed the reassessments by means of a Notice of Confirmation dated October 22, 2003 on the basis that the Management Fees were:
+(a) not shown to have been incurred as expenditures to gain or produce income from a business or property; and
+(b) not reasonable in the circumstances.
+12. In so reassessing the Appellant for the 2000 and 2001 taxation years and in so confirming those reassessments, the Minister assumed the same facts as follows:
+(a) the Appellant is the sole shareholder of 774638 Alberta Ltd (the "Corporation");
+(b) the Corporation owned the property at 4932 - 50th Street in Rocky Mountain House (the "Property");
+(c) the Corporation rented the Property to the Appellant in the 2000 taxation year for $8,470.00;
+(d) during the 2000 taxation year, the Appellant sublet the Property to Astro-Tech Electronics for $1,070.00 a month for the months of January through May, 2000;
+(e) the total rent received by the Appellant from Astro-Tech Electronics in 2000 was $5,350.00;
+(f) Astro-Tech Electronics was owned and operated by Rhoda;
+(g) the Appellant did not rent the Property after May 2000;
+(h) the Appellant claimed rental losses of $40,365.46 and $25,182.33 in the 2000 and 2001 taxation years, respectively;
+(i) included in the rental losses were the expenses for the Management Fees;
+(j) the Management Fees were paid to Rhoda;
+(k) the Appellant and Rhoda did not have a written contract regarding the Management Fees;
+(l) Rhoda was paid $34,000.00 on December 29, 2000 by way of a cheque from R D L Equipment Services;
+(m) Rhoda was paid $600.00 on April 8, 2001;
+(n) Rhoda was paid $23,000.00 on February 1, 2002 by way of cheque from R D L Equipment Services;
+(o) the Appellant claimed interest expense of $1,274.25 as a rental expense in the 2000 taxation year for interest charged on the Appellant's two personal lines of credit;
+(p) the Appellant claimed telephone expenses as rental expenses in the 2000 and 2001 taxation years for the line rental of his personal telephone;
+(q) the Appellant claimed utilities expenses as rental expenses in the 2000 and 2001 taxation years representing 1/8 of his utilities for his personal residence for his home office; and
+(r) Rhoda did not provide any services to the Appellant in respect of the Property.
+B. ISSUES TO BE DECIDED
+13. The issues are:
+(a) whether the Management Fees were incurred by the Appellant for the purpose of gaining or producing income from a business or property; and
+(b) if the Court determines that the Management Fees were incurred by the Appellant for the purpose of gaining or producing income from a business or property, which is not admitted but denied, whether the amounts were reasonable in the circumstances.
+C. STATUTORY PROVISIONS, GROUNDS RELIED ON AND RELIEF SOUGHT
+14. He relies on sections 3, 9 and 67, subsection 248(1) and paragraph 18(1)(a) of the Income Tax Act, R.S.C. 1985, c. 1 (5th Supp) (the "Act") as amended for the 2000 and 2001 taxation years.
+15. He submits that as the Management Fees were not incurred for the purpose of gaining or producing income from a business or property within the meaning of paragraph 18(1)(a) of the Act the amounts are not deductible as rental expenses in the 2000 and 2001 taxation years.
+16. He further submits that if the Courts determine that the Management Fees were incurred by the Appellant for the purpose of gaining or producing income from a business or property, which is not admitted but denied, the amounts were not reasonable in the circumstances as required by section 67 of the Act.
+[3] Assumptions 12 (a) to (q) inclusive were not refuted.
+[4] Having regard to Stewart v. The Queen, [2002] 2 S.C.R. 645, the Court finds that there is no evidence that Mr. Lecerf had any personal interest in the series of transactions described herein. As a result, the Court has no reason to review the concept of a reasonable expectation of profit.
+[5] That leaves the assessment denying the expenses claimed on the basis that they were not reasonable pursuant to section 67 of the Income Tax Act.
+[6] In reviewing the question of reasonableness, the evidence established that:
+1. Mr. Lecerf purchased the property in question on April 4, 1997 for $75,000. He sold it to his "Corporation" on May 11, 1998 for $75,000 and the Corporation sold it to a third party on December 19, 2000 for $95,000.
+2. Mr. Lecerf and Rhoda Smith have the same phone number, at Mr. Lecerf's residence, the charges for which Mr. Lecerf deducted as a business expense in 2000 and 2001 along with Rhoda Smith's management fees.
+3. Exhibit A-1 is a picture of the property. It is located in downtown Rocky Mountain House. It is a one storey commercial premises with about 10 meters frontage which appears to be in average condition. Rocky Mountain House is a small town in Alberta's foothills about half-way between Edmonton and Calgary.
+4. When Mr. Lecerf bought the property, it had been rented to the same business for almost 20 years.
+5. Mr. Lecerf was working in construction out of Rocky Mountain House in 1999 when the management arrangements were made with Rhoda Smith.
+6. Respecting 2001, Rhoda Smith's receipt for $600 on April 8, 2001 calls it "wages" and Mr. Lecerf's cheque for $2,300 on February 1, 2002 describes it as "wages". The alleged invoice from Rhoda Smith to Mr. Lecerf for $2,300 is dated December 31, 2001 and, in the same handwriting states "paid by cheq #0185", i.e., the cheque dated February 1, 2002. (Exhibit A-5).
+7. Mr. Lecerf testified that the property had some work done on it under Ms. Smith's management in 2000 and 2001. But he did not claim any expenses relating to such work in those years. Nor did he have any documents or receipts respecting it when asked for them in cross-examination. These allegations are not accepted by the Court as being true.
+[7] In the Court's view:
+1. The alleged management fees are incredibly high for a $75,000 property in a small rural Alberta town. The normal rental property management fee, to the general knowledge of the public, is a contingency fee of around 5% of the rent collected. In this case the only rent Mr. Lecerf collected in either year was $5,350 from Rhoda Smith's firm for 5 months for 2000.
+2. These alleged management contracts are not in writing. They do not appear to represent ordinary or customary market terms and the "wages" references respecting 2001 are extraordinary. Moreover the "manager" in 2000 also owned the tenant business or was the tenant. Thus both years have evidence of matters that are suspicious and confirm the proposition that the management fees appear extraordinary and unreasonable.
+3. Mr. Lecerf claimed telephone expenses in addition to the management fees in both years. In an ordinary property management contract, the manager would pay the telephone fees at Rocky Mountain House where the proprietor was outside of the town. If the proprietor was in town, he would have no business type of reason to deduct telephone fees.
+[8] In the Court's view the management fees in question were not reasonable in the circumstances as required by section 67 of the Income Tax Act.
+[9] The appeal is dismissed.
+Signed at Kamloops, British Columbia, this 28th day of September, 2004.
+"D.W. Beaubier"
+Beaubier, J.
+CITATION:
+2004TCC626
+COURT FILE NO.:
+2004-193(IT)I
+STYLE OF CAUSE:
+Robert Lecerf v. The Queen
+PLACE OF HEARING:
+Edmonton, Alberta
+DATE OF HEARING:
+May 18, 2004
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Beaubier
+DATE OF ORAL REASONS:
+September 24, 2004
+APPEARANCES:
+Counsel for the Appellant:
+Gordon D. Beck
+Counsel for the Respondent:
+Susan Jantz
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Gordon D. Beck
+Firm:
+Tax Counsel
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,123 @@
+Title: Abeling v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26192/index.do
+Corpus path: corpus/cases/tcc/2005/2005-tcc-137-26192-abeling-v-m-n-r-en.md
+Document type: case_law
+Last modified: 2005-02-16
+
+# Abeling v. M.N.R.
+
+- Citation: 2005 TCC 137
+- Decision date: 2005-02-16
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3923, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Abeling v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-02-16
+Neutral citation
+2005 TCC 137
+File numbers
+2002-3677(EI)
+Judges and Taxing Officers
+Georgette Anne Sheridan
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2002-3677(EI)
+BETWEEN:
+JANET ABELING,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+ALTECH DIESEL LTD.,
+Intervenor.
+Appeal heard at Nanaimo, British Columbia on November 17, 2004
+Before: The Honourable Justice G. Sheridan
+Appearances:
+Counsel for the Appellant:
+Kenneth Kjellander
+Counsel for the Respondent:
+Pavanjit Mahil
+Agent for the Intervenor:
+Dean Horne
+JUDGMENT
+The appeal is dismissed and the decision of the Minister is confirmed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada this 16th day of February, 2005.
+"G. Sheridan"
+Sheridan, J.
+Citation:2005TCC137
+Date: 20050216
+Docket: 2002-3677(EI)
+BETWEEN:
+JANET ABELING,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+ALTECH DIESEL LTD.,
+Intervenor.
+REASONS FOR JUDGMENT
+Sheridan, J.
+[1] The Appellant, Janet Abeling, appealed from a decision of the Minister of National Revenue that for the period November 25, 1999 to December 21, 2001 her work for Altech Deisel Ltd. was not insurable employment[1] because she was an independent contractor. Altech intervened in this appeal in support of the Minister's decision. Ms. Abeling's position is that her work ought to be insurable because she was an employee. She testified on her own behalf; the Crown called as its only witness, Mr. Dean Horne, one of the two principals of Altech.
+[2] As is often the case in these matters, it was not so much the facts, as the legal conclusions to be drawn from them, that were in dispute. Ms. Abeling had the onus of demolishing the assumptions upon which the Minister based his decision. Because their working relationship had soured by the time she left Altech, Ms. Abeling and Mr. Horne had difficulty in relating their evidence in an objective manner. Both manifested in their testimony a certain familiarity with the Employment Insurance system and how to use it to best advantage.
+[3] Altech is a small business engaged in the sale and repair of diesel engines in Campbell River on Vancouver Island. In the fall of 1999 Altech was searching (at the insistence of its banker) for someone with the expertise it lacked to get its financial records in order; specifically, to prepare and submit on a timely basis monthly and year-end financial statements in a form acceptable to the bank. Altech was having financial difficulties and it was on that basis that the bank had agreed to keep the company afloat. Altech's accountant advertised the position[2] and Ms. Abeling applied. Though she professed to be a "Certified General Accountant"[3], it was not until after she had left Altech that Mr. Horne learned that her license had lapsed long before.
+[4] In any event, following a meeting between Ms. Abeling and Altech's principals, she was offered the position at an annual salary of $40,000. Influenced by past bad experiences with other firms and unsure of Altech's overall viability, Ms. Abeling countered with a six-month contract with the possibility of renewal at a salary of $30,000. She also insisted on being an independent contractor: in addition to being uncertain how long it might take her to get Altech's books up to par, at the time of her interview, Ms. Abeling was in the process of applying for Employment Insurance benefits in respect of former employment. Her evidence was that she believed that if she worked as an independent contractor, she could honestly say that she did not have a full time job and remain eligible for EI benefits.
+[5] And so Ms. Abeling began work at Altech in November 1999. Her main task was to do whatever was necessary to put the company's financial records in order to the bank's satisfaction but I accept Ms. Abeling's evidence that as time went on, she took on other administrative tasks. Mr. Horne went to some pains in his testimony to minimize her contribution in this regard. However, given his description of his company's day-to-day operation as a small business premise staffed by a few individuals working at their own tasks but in close proximity to each other, I do not accept his revised history of Ms. Abeling's workload. Though quick to say that Ms. Abeling was free to accept other clients while working for Altech, Mr. Horne balked at the suggestion that he (in his personal capacity) had sought Ms. Abeling's help in what may be generously described as "looking into" his wife's entitlement to EI benefits. For her part, Ms. Abeling stated that though technically she could have taken on other clients, the demands of her work at Altech prevented her from doing so, except for the EI issue and some personal tax matters for Mr. Horne and his partner.
+[6] I accept Mr. Horne's evidence that Ms. Abeling was at liberty to work from her home but that she chose to work mainly at Altech where she had a work space and a computer. Her own evidence was that she was not well equipped to work at home although she did maintain a "home office" and used her home address on all business documentation. For example, throughout the period in question, her invoices to Altech bear the heading "J. Abeling Certified General Accountant (A Proprietorship)" and show her home address[4], not Altech's, as the business address. Ms. Abeling's evidence was that the invoices were prepared after the fact at Altech's insistence. She did not dispute, however, that she had prepared them herself or that they represented accurately the amounts paid and when. Further, as Altech's bookkeeper, she made out the company's cheques[5] for Mr. Horne's signature, payable to "J. Abeling Certified General Accountant" for her services. Finally, a document entitled "Unaudited Financial Statements" prepared for Altech in the course of her duties bears the title "J. Abeling Certified General Accountant" on its cover page and appears again beneath Ms. Abeling's signature on the following page.
+[7] Both counsel referred the Court to the standard tests in Wiebe Door[6] and Sagaz[7] by which the Court must be guided in determining the status of the worker as either employee or independent contractor: the amount of control exercised over the worker, the ownership of tools, the worker's chance of profit/risk of loss and the "integration" test. In Weibe Door, MacGuigan, J. cautioned that the four-in-one test has at its essence "...the search for the total relationship of the parties". In reaching this conclusion, MacGuigan, J. directed the Court to consider what Lord Wright called "the combined force of the whole scheme of the operations". Thus, the nature of the relationship will depend entirely on the facts found by the Court in any particular case.
+[8] Looking at the evidence as a whole, I am satisfied that when Ms. Abeling accepted her position with Altech, both she and Mr. Horne were of the same mind: that she was to be an independent contractor engaged to sort out the company's financial records as she saw fit in accordance with her expertise. The evidence shows that Ms. Abeling held herself out as a Certified General Accountant and that she did indeed request such status. It was reasonable for Altech to expect someone in her position to work as an independent contractor. She consistently used her professional title "J. Abeling Certified General Accountant" in her billings to and payments from Altech as well as in other documentation she prepared on Altech's behalf for the bank and the company's accountant. All that Altech expected from her was that she "clean up the mess" that the books were in - Mr. Horne had no such expertise and relied on her to get it done right within a time frame that would please the bank. Ms. Abeling went into the position knowing this was the priority and that it was her role to make it happen. That she did her work at Altech during normal working hours is not indicative of employee status: she had no other clients, her home office was not as well-equipped and, at least at the outset, Ms. Abeling enjoyed the collegiality of the Altech premises.
+[9] As it happened, it took longer than six months to put things in order and Ms. Abeling ended up staying with Altech until December 2001. The delay in getting the company's fiscal affairs in order seems to have resulted from a combination of factors including Altech's worse-than-expected records-keeping practices; Ms. Abeling's health problems and rusty accounting skills; and finally, the stress of their deteriorating work relationship. None of this, however, had the effect of changing the nature of Ms. Abeling's status from independent contractor to employee. Though she testified that she continuously asked Mr. Horne to take her on as an "employee", he never agreed to do so. In any event, the evidence tends to show that any interest she had in acquiring employee status had more to do with taking advantage of the company's medical plan than ceasing to be an independent contractor. Her actions are not consistent with her stated desire to switch from independent contractor to employee; she continued to bill the company bi-weekly and to otherwise act in the same manner she established for herself as an independent contractor. Taking on some additional administrative tasks at Altech is not enough in itself to convert her from independent contractor to employee. The fact is that Ms. Abeling's being an employee did not cross anyone's mind until she was out of a job and that designation was a prerequisite to claiming EI benefits.
+[10] Ms. Abeling testified to having suffered from various health problems over the past few years. I accept that this influenced her decision-making and exacerbated her workplace difficulties. This is not sufficient, however, to transform her status, under the tests established in law, from independent contractor to employee. On the evidence presented, Ms. Abeling has not discharged her onus of demolishing the assumptions upon which the Minister based her decision. For the reasons set out above, the appeal is dismissed on the ground that Ms. Abeling was an independent contractor for the period November 25, 1999 to December 21, 2001 and her work is therefore excluded from insurable employment.
+Signed at Ottawa, Canada, this 16th day of February, 2005.
+"G. Sheridan"
+Sheridan, J.
+CITATION:
+2005TCC137
+COURT FILE NO.:
+2002-3677(EI)
+STYLE OF CAUSE:
+Janet Abeling and M.N.R.
+and Altech Diesel Ltd.
+PLACE OF HEARING:
+Nanaimo, British Columbia
+DATE OF HEARING:
+November 17, 2004
+REASONS FOR JUDGMENT BY:
+The Honourable Justice G. Sheridan
+DATE OF JUDGMENT:
+February 16, 2005
+APPEARANCES:
+Counsel for the Appellant:
+Kenneth Kjellander
+Counsel for the Respondent:
+Pavanjit Mahil
+Agent for the Intervenor:
+Dean Horne
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Kenneth Kjellander
+Firm:
+Kenneth C. Kjellander
+Law Corporation
+Victoria, British Columbia
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Pursuant to subsection 93(3) of the Employment Insurance Act.
+[2] Exhibit A-1.
+[3] Exhibit A-2.
+[4] Exhibit R-1.
+[5] Exhibit R-8.
+[6] Wiebe Door Services Ltd. v. Minister of National Revenue, 87 DTC 5025 (F.C.A.);
+[7] 671122 Ontario Ltd. v. Sagaz Industries Canada Inc., [2001] 4 C.T.C. 139 (S.C.C.)

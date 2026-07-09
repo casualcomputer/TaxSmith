@@ -1,0 +1,133 @@
+Title: Petcu v. Canada (Employment, Workforce Development and Official Languages)
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/521178/index.do
+Corpus path: corpus/cases/tcc/2023/2023-tcc-155-521178-petcu-v-canada-employment-workforce-development-and-official-languages-en.md
+Document type: case_law
+Last modified: 2023-11-21
+
+# Petcu v. Canada (Employment, Workforce Development and Official Languages)
+
+- Citation: 2023 TCC 155
+- Decision date: 2023-11-21
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5698, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Petcu v. Canada (Employment, Workforce Development and Official Languages)
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2023-11-21
+Neutral citation
+2023 TCC 155
+File numbers
+2019-1978(OAS)
+Judges and Taxing Officers
+Ronald MacPhee
+Subjects
+Old Age Security Act
+Decision Content
+Docket: 2019-1978(OAS)
+BETWEEN:
+VASILE PETCU,
+Appellant,
+and
+THE MINISTER OF EMPLOYMENT, WORKFORCE DEVELOPMENT, AND OFFICIAL LANGUAGES,
+Respondent.
+Appeal heard by Written Submissions
+By: The Honourable Justice Ronald MacPhee
+Participants:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Audrey Turcotte
+JUDGMENT
+The appeal made under the Old Age Security Act is dismissed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 21st day of November 2023.
+“R. MacPhee”
+MacPhee J.
+Citation: 2023 TCC 155
+Date: 20231121
+Docket: 2019-1978 (OAS)
+BETWEEN:
+VASILE PETCU,
+Appellant,
+and
+THE MINISTER OF EMPLOYMENT, WORKFORCE DEVELOPMENT, AND OFFICIAL LANGUAGES,
+Respondent.
+REASONS FOR JUDGMENT
+MacPhee J.
+[1] On July 13, 2018, the Appellant filed a Notice of Appeal with the Social Security Tribunal in response to the June 15, 2018 decision of the Minister of Employment and Social Development (“Minister”) which determined that he had been overpaid as a result of an incorrect calculation of his income for his Guaranteed Income Supplement (“GIS”) calculation.
+[2] The Appeal was referred to this court on May 14, 2019 in accordance with subsection 28(2) of the Old Age Security Act (“OASA”). As a result of the Appellant’s health conditions, the parties agreed on a document-based decision process, without physical appearance in court. Thereafter, the parties provided written submissions.
+Issue:
+[3] In Old Age Security Appeals, the Tax Court of Canada’s jurisdiction is limited to income computation.[1] Therefore, the question before the Court is whether the Appellant’s income for the period of July 2014 to June 2018 was properly determined for the purpose of his GIS entitlement.
+Facts:
+[4] The Appellant is both a Romanian and Canadian citizen. He collects pension income in both countries.
+[5] The Appellant is eligible for both GIS income and OAS income.
+[6] The Minister determined that the Appellant had been overpaid by $2044 in GIS income for the July 2014 to June 2018 period.
+[7] As set out in my reasons, the Minister correctly included the Appellant’s Romanian pension income in calculating the Appellant’s Income for GIS purposes. The Appellant does not dispute this inclusion.
+[8] The dispute concerns whether the Appellant may deduct bank fees and the cost of currency exchange fees that he paid to repatriate his Romanian pension to Canada as part of this calculation.
+[9] The Appellant also claims that the Minister incorrectly converted his pension income to Canadian dollars.
+Position of the Parties:
+[10] The Appellant submits that: (1) he ought to be able to deduct bank fees and the cost of currency exchange fees that he paid to repatriate his Romanian pension to Canada in calculating his GIS entitlement; and (2) the Minister used an incorrect foreign-exchange conversion rate in these calculations.[2]
+[11] The Respondent submits that: (1) the Appellant is precluded from deducting bank fees and the cost of currency exchange fees paid to repatriate his Romanian pension to Canada in calculating his GIS entitlement; and (2) the Minister used the appropriate Bank of Canada exchange rate in the calculation.
+The Law:
+(1) Income and Foreign Income Computation for GIS Purposes
+[12] For GIS purposes, the income of an individual is computed in accordance with the Income Tax Act with specific exceptions.[3] These exceptions mainly exclude certain benefits that would otherwise be included for tax purposes. These exclusions are not in issue in this matter.
+[13] In calculating income for GIS purposes consistent with the Income Tax Act, both Section 3 and paragraph 56(1) of the ITA apply. Pursuant to section 3 of the ITA, a taxpayer is subject to taxation on their worldwide income from sources inside and outside of Canada. Paragraph 56(1) of the ITA calls for the inclusion in a taxpayer’s income of any superannuation or pension benefit including:
+(C.1) the amount of any payment out of or under a foreign retirement arrangement established under the laws of a country, except to the extent that the amount would not, if the taxpayer were resident in the country, be subject to income taxation in the country,
+[14] A foreign pension must be included in the taxpayer’s income computation.[4] Therefore, I am confident that the Appellant’s Romanian pension was properly included in the calculation of his income.
+Are the Deductions claimed by the Appellant allowed?
+[15] In Dupuis,[5] Justice Tardif explained how deductions from taxable income do not apply to income computation for GIS purposes:
+[18] The ITA calculates the annual amount of tax payable by a taxpayer in three steps:
+by listing the amounts to be included in the computation of the taxpayer’sincome in Division B of Part I of the ITA (practitioners also refer to this as netincome or income for tax purposes, in contrast to accounting income);
+by permitting the income deductions provided at Division C of Part I of theITA to compute the taxpayer’s taxable income from his or her income; and
+in Division E of Part I, by providing the tax rates applicable to the amounts that constitute taxable income.
+[19] The amount at issue in this appeal, the amount to which section 2 of the OASA is referring, is the taxpayer’s income computed under Division B of Part I of the ITA (Step A, above). That is, the amount of income after income from all sources has been added, but before the deductions to compute the taxable income have been included. [6] [Emphasis added]
+[16] The provisions of the OASA, and section 2 more specifically, do not provide for a deduction for bank fees or currency exchange costs for the relevant calculation.
+[17] Therefore, I cannot accept that Appellant’s argument that his Income amount should be reduced by these amounts for GIS purposes.
+[18] Even if these deductions were statutorily allowed, the Appellant has not provided me with any evidence to show that they were incurred. On this basis, I would again have to deny these expenses.
+(2) Foreign Exchange Rate used by the Minister
+[19] Part of the Appellant’s appeal is his claim that the Minister incorrectly applied the Exchange rate to convert his Romanian pension payments from Romanian Leu (Romanian money) to Canadian dollars. I see no basis for this argument.
+[20] The Minister has an obligation to report foreign dollar amounts, such as the Romanian Leu, in Canadian dollars for the purpose of this calculation.[7] The Federal Income Tax and Benefit Guide (2018), in the section entitled Report foreign income and other foreign amounts, specifically refers to using the Bank of Canada exchange rate in effect on the day the income is received for this conversion.
+[21] Based on my understanding of the facts in this case, the Minister correctly applied the Bank of Canada exchange rate in calculating the Appellant’s income.
+Conclusion
+[22] The Minister was correct in including the Appellant’s Romanian pension in the Appellant’s income for the purposes of the GIS income calculation. Furthermore, the provisions of the OASA do not allow for the deductions from income claimed by the Appellant. Finally, I can see no error in the Minister’s conversion of the Romanian pension amounts into Canadian dollars.
+[23] Therefore, I must deny the Appeal.
+[24] Both parties will be responsible for their own costs in this matter.
+Signed at Ottawa, Canada, this 21st day of November 2023.
+“R. MacPhee”
+MacPhee J.
+CITATION:
+2023 TCC 155
+COURT FILE NO.:
+2019-1978(OAS)
+STYLE OF CAUSE:
+VASILE PETCU AND THE MINISTER OF EMPLOYMENT, WORKFORCE DEVELOPMENT, AND OFFICIAL LANGUAGES
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Ronald MacPhee
+DATE OF JUDGMENT:
+November 21, 2023
+PARTICIPANTS:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Audrey Turcotte
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+n/a
+Firm:
+For the Respondent:
+Shalene Curtis-Micallef
+Deputy Attorney General of Canada Ottawa, Canada
+[1] Old Age Security Act, RSC 1985, c 0-9, s 28(2). See also, Ibrahim v Canada (Minister of Employment and Social Development), 2021 TCC 64 at para 7.
+[2] The Appellant raises concerns concerning his health and his limited financial resources. These issues are beyond the jurisdiction of the Tax Court. The Appellant also seeks a commission of specialists to be appointed to decide his case. The Tax Court has exclusive jurisdiction to decide this matter. See Old Age Security Act, RSC 1985, c 0-9, s 28(2).; see also Tax Court of Canada Act, RSC 1985, c T-2, s 12(1).
+[3] Old Age Security Act, RSC 1985, c 0-9, s 2.
+[4] Ibrahim v Canada (Minister of Employment and Social Development), 2021 TCC 64 at para 11.
+[5] Dupuis v Canada (Minister of Human Resources and Skills Development), 2011 TCC 485 at para 18 and para 19.
+[6] See also Bakht v Canada (Minister of Human Resources Development), 2002 FCA 252 (wherein the FCA rejected the Appellant’s argument that income computation for GIS purposes should be reduced by the amount which he was entitled to deduct pursuant to section 118(3) of the ITA. While 118(3) provides a deduction in the calculation of taxes payable, this deduction is not allowed for purposes of computing income for GIS purposes.)
+[7] See Federal Income Tax and Benefit Guide (2018) “Pensions from a Foreign Country”.

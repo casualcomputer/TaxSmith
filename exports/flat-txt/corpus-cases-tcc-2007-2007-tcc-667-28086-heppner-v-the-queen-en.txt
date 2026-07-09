@@ -1,0 +1,141 @@
+Title: Heppner v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28086/index.do
+Corpus path: corpus/cases/tcc/2007/2007-tcc-667-28086-heppner-v-the-queen-en.md
+Document type: case_law
+Last modified: 2007-09-24
+
+# Heppner v. The Queen
+
+- Citation: 2007 TCC 667
+- Decision date: 2007-09-24
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1671, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Heppner v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-09-24
+Neutral citation
+2007 TCC 667
+File numbers
+2003-4552(IT)G
+Judges and Taxing Officers
+Judith Woods
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2003-4552(IT)G
+BETWEEN:
+DWAYNE HEPPNER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on May 11 and September 24, 2007 at Toronto, Ontario
+Before: The Honourable Justice Judith Woods
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Brent E. Cuddy
+____________________________________________________________________
+JUDGMENT
+The appeal in respect of assessments made under the Income Tax Act for the 1999 and 2000 taxation years is dismissed, with costs to the respondent.
+Signed at Toronto, Ontario, this 2nd day of November 2007.
+"J. Woods"
+Woods J.
+Citation: 2007TCC667
+Date: 20071102
+Docket: 2003-4552(IT)G
+BETWEEN:
+DWAYNE HEPPNER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Woods J.
+[1] This appeal concerns the deductibility of approximately $300,000 that was purportedly lost by Dwayne Heppner in a transaction emanating from Nigeria.
+[2] Although the notice of appeal raised other issues, the appellant indicated at the commencement of the hearing that he was only disputing this issue. The assessments relate to the 1999 and 2000 taxation years.
+[3] The appellant, who represented himself at the hearing, has a law degree but is not a practicing lawyer.
+[4] The position of the Crown is that there is no source of income from which the appellant can claim a deduction because the money was lost in a fraudulent scheme.
+[5] The legal principle that the Crown relies on is not in dispute, and has been articulated by the Federal Court of Appeal in several recent decisions: Hammill v. The Queen, 2005 D.T.C. 5397; Vankerk v. Canada, [2006] 3 C.T.C. 53; and The Queen v. Nunn, 2007 D.T.C. 5111.
+[6] In Hammill, the general principle is described by Noël J.A. as follows:
+27 This finding by the Tax Court Judge that the appellant was the victim of a fraud from beginning to end, if supported by the evidence, is incompatible with the existence of a business under the Act. This is not a case where the Court must have regard to the taxpayer's state of mind, or the extent of a personal element in order to determine whether a certain activity gives rise to a source of income under the Act (Stewart, supra, Tonn v. The Queen, 96 DTC 6001, etc.). Nor is this a defalcation case of the type described in Parkland Operations, supra; Cassidy's Limited, supra; Agnew, supra; and IT-185R, where a business is defrauded by an employee or a third party, and the issue becomes whether the resulting loss is reasonably incidental to the income-earning activities.
+28 A fraudulent scheme from beginning to end or a sting operation, if that be the case, cannot give rise to a source of income from the victim's point of view and hence cannot be considered as a business under any definition. […]
+[7] For the appellant to succeed in this appeal, then, it must be established that the losses were incurred in the course of a bona fide business. He submits that they were.
+[8] I will begin by reproducing the relevant parts of the statement of facts in the appellant’s notice of appeal.
+3. The Appellant was the unwitting victim of a sophisticated fraud, commonly known as the Nigerian Advance Fee Fraud.
+4. At all material times, the Appellant carried on business as a financial advisor, broker, and Vice-President Corporate Finance for a Toronto Stock Exchange member firm in the greater Toronto area.
+5. Edwin Kroeker ("Kroeker") is a Toronto area businessman.
+6. Kroeker was a trusted friend and business associate of the Appellant’s.
+7. In or about 1998 Kroeker received a facsimile transmission from a person purporting to be Dr. Mike Ibe of the Federal Republic of Nigeria ("Ibe"). Ibe represented to Kroeker that a corporation named Mantua International Services Inc. ("Mantua") was owed US $30,960,000.00 (the "Contract Amount") by the government of Nigeria. Ibe claimed that the unpaid amount was on account of fees owing for a contract of supply between Mantua and the government of Nigeria.
+8. Ibe further represented that the Nigerian government acknowledged that the Contract Amount was due and payable, but that there were certain bureaucratic obstacles delaying payment.
+9. Ibe requested Kroeker’s assistance in obtaining payment of the Contract Amount in return for a 30 percent share of the said amount upon receipt.
+10. Kroeker contacted various persons who represented themselves as Nigerian government officials and became convinced that the representations made by Ibe were truthful.
+11. In or about autumn of 1998 Kroeker approached the Appellant with respect to the above-described business opportunity. Kroeker arranged for the Appellant to receive a ten percent share of the Contract Amount in consideration of the Appellant providing Kroeker, Ibe and Ibe’s associates C.J. Nnaemeka, and Alhaji M.S. Aliyu with assistance in obtaining the Contract Amount and investment advice with respect to any amounts received.
+12. Kroeker caused a company to be incorporated under the laws of the Bahamas and named Mantua International Services Inc. ("Mantua Bahamas"). Mantua Bahamas took an assignment of the Contract Amount from Mantua and purported to stand in the shoes of Mantua as payee of the Contract Amount.
+13. Kroeker was president of Mantua Bahamas.
+14. On or about December 4, 1998 the Appellant, Ibe, C.J. Nnaemeka, Alhaji M.S. Aliyu, and Kroeker as president of Mantua Bahamas, entered into a formal agreement with respect to the division of the Contract Amount (the "Agreement"). The Agreement provided for ten percent of the Contract Amount to be paid to the Appellant upon receipt by Mantua Bahamas.
+15. During the course of 1999 Mantua received correspondence demanding various requests for payments that were purportedly necessary in order to facilitate the payment of the Contract Amount. These demands for payment escalated in amount as time went on. The first major demand for payment was in December 1998 for US $10,000 to hire Nigerian legal counsel to complete necessary documentation. This was followed that in January 1999 with a request for US $25,000 for a certificate from the Nigerian Drug Law Enforcement Agency certifying that the Contract Amount was not proceeds of crime. The Appellant and Kroeker were advised that the Nigerian members paid for these amounts out of their personal funds.
+16. Also in January of 1999 Kroeker received correspondence claiming that the Contract Amount had been transferred from the Central Bank of Nigeria to an account at Deutsche Bank, which was administered by the Nigerian Foreign Payment Panel, operating out of London, England. Kroeker claimed to have confirmed this information with a Deutsche Bank official.
+17. On or about February 16, 1999 the Foreign Payment Panel wrote to Kroeker, in his capacity as president of Mantua Bahamas, advising that the application for payment of the Contract Amount had been approved, but also requiring an immediate payment of US $340,560.00 as a cost of transfer fee.
+18. On or about February 18, 1999 the Appellant and Kroeker entered into a loan agreement with Cal-West Holding Inc. ("Cal-West") whereby the Appellant and Kroeker personally borrowed US $355,000.00 from Cal-West with interest at 3.0% per month. Pursuant to the terms of the loan agreement both Kroeker and the Appellant are borrowers and are both jointly and severally liable for repayment of principal and interest.
+19. On or about February 18, 1999 the Appellant personally received the loan proceeds from Cal-West and paid US $340,560.00 to the Foreign Payment Panel by way of a wire transfer from the Appellant’s personal bank account to a bank account in the name of the Foreign Payment Panel’s nominee, Walford Asia Limited, at the Standard Chartered Bank in Hong Kong.
+20. On or about February 19, 1999 the Foreign Payment Panel wrote to Kroeker, in his capacity as president of Mantua Bahamas, advising that the amount of US $340,560.00 had been received and that the Contract Amount was scheduled to be paid on February 23, 1999 by wire transfer.
+21. The Contract Amount was not in fact paid on February 23, 1999 or at all.
+22. In late February 1999 Kroeker advised the Appellant that he had received a telephone call from the Foreign Payment Panel indicating that there were unspecified problems with the payment of the Contract Amount.
+23. The Appellant and Kroeker made arrangements to meet with representatives of the Foreign Payment Panel in London, England during the week of March 13 to March 20, 1999.
+24. The Appellant and Kroeker travelled to London. While they spoke with persons identifying themselves as representatives of the Foreign Payment Panel, they were unable to arrange a meeting.
+25. The alleged Foreign Payment Panel representatives indicated that an additional US $400,000.00 was required for an insurance certificate before the Contract Amount could be released.
+26. While in London, the Appellant and Kroeker contacted Deutsche Bank in an attempt to confirm the advise of the Foreign Payment Panel. It became apparent that all correspondence from Deutsche Bank was fraudulent, and the Appellant and Kroeker both refused to pay the newly requested US $400,000.
+27. Following this refusal, neither the Appellant nor Kroeker were able to contact Ibe nor Ibe’s associates C.J. Nnaemeka, and Alhaji M.S. Aliyu as the telephone numbers previously used by those individuals had been disconnected.
+28. The Appellant and Kroeker contacted and met local authorities of Scotland Yard advising of the fraudulent transaction. The Appellant and Kroeker made numerous attempts to recover the funds they had expended in the enterprise but were wholly unsuccessful.
+[9] Based on the reply, it is apparent that the Minister was not convinced that the appellant actually incurred any losses. This is understandable because Mr. Heppner and Mr. Kroeker appear to be sophisticated businessmen and it is difficult to understand how they could be duped by a Nigerian fraud scheme.
+[10] Nevertheless, at the hearing the Crown did not press the argument that there were no losses, and instead relied solely on the argument that the losses had no connection with an actual business.
+[11] The appellant submits that there were actually two business connections. First, he suggests that the Nigerian transaction started out as a bona fide business venture. He suggests that it was legitimate at the start and that at some point it went sour. He also suggests that the transaction was part of his ordinary business, and that he was required to share the profits from the venture with his employer on a 50/50 basis.
+[12] For the reasons that follow, I have concluded that neither of these submissions is supported by the evidence.
+[13] First, I would note as a general comment that there is no reliable evidence that corroborates the appellant’s testimony as it relates to these two arguments. Mr. Kroeker also testified, but because he also purportedly lost money in this scheme, his evidence was as self-interested as Mr. Heppner’s was.
+[14] As for the appellant’s argument that the Nigerian transaction started out as a legitimate venture, the documentation introduced into evidence, as well as the notice of appeal, gives no hint whatsoever of any element of bona fides.
+[15] The appellant’s position is based on logical inferences that should be made, it is argued, from due diligence purportedly performed by Mr. Kroeker. The fact that due diligence was undertaken, and that everything seemed to be in order, is suggestive that this was a legitimate venture at some point, it is argued.
+[16] According to the testimony, due diligence was first undertaken before the appellant and Mr. Kroeker agreed to participate in the venture. The appellant testified that they had retained a Nigerian law firm to do some investigation, and he suggested that this firm was trustworthy because they had found it by doing an Internet search.
+[17] I find this testimony to be unconvincing. It appears to be contrary to the facts as stated in the notice of appeal and it is uncorroborated. Further, a retainer letter from a Nigerian law firm was introduced into evidence and I do not see any suggestion in that letter that due diligence was to be done. On its face, the retainer letter seems more consistent with the theory that the law firm was part of the scam, because it has the usual features of the requirement to pay money and urgency.
+[18] The appellant also suggested that due diligence was undertaken by Mr. Kroeker just before the $500,000 fee was paid to Walford Asia Limited. According to the testimony, Mr. Kroeker called Deutsche Bank in London to confirm that US $31,000,000 was being held in an account there just before the funds were transferred. This inquiry was supposedly made on an independent basis, with the contact being made through the Deutsche Bank switchboard.
+[19] I also find this testimony to be unconvincing. It too appears to be at odds with the notice of appeal and is not corroborated. I note in particular that the notice of appeal states that all correspondence with Deutsche Bank was fraudulent.
+[20] The evidence before me, when viewed as a whole, is more consistent with the entire Nigerian transaction being a scam, with no legitimacy whatsoever. The oral testimony of the appellant and Mr. Kroeker has not persuaded me otherwise.
+[21] That is not the end of the matter, though, because the appellant also suggests that the transaction was connected with his regular business, which was as a financial adviser and broker. The appellant testified that he was employed as a vice-president of IPO Capital, which at the time was a member of the Toronto Stock Exchange. He indicated that his main responsibility with IPO Capital was to carry out due diligence on corporations that were seeking to publicly trade their shares.
+[22] The appellant admitted that he was an employee of IPO Capital, but he said that he also had a business relationship with the corporation, which required that he share profits of business ventures on a 50/50 basis. As such, he said that IPO Capital would be entitled to one-half of his ten percent share in the Nigerian transaction.
+[23] I am not satisfied with this testimony either. It was neither detailed nor cogent, there was no documentation to support it, and no one from IPO Capital was called to testify.
+[24] I would also note that there is no mention of the arrangement with the employer in the notice of appeal. To the contrary, the notice of appeal in paragraph 30 suggests that the appellant would earn the entire ten percent share of the Contract Amount:
+30. The Denied Expenses were all amounts expended by the Appellant in an attempt to facilitate the payment of the Contract Amount, in order that the Appellant may have earned the fee detailed in paragraph 14 hereof.
+[25] I find that the evidence as a whole is insufficient to establish any connection between the appellant’s purported losses and a business venture with IPO Capital.
+[26] As a result, I conclude that the appellant has not established that there was any connection between the purported losses and a legitimate business. The appeal is dismissed, with costs to the respondent.
+Signed at Toronto, Ontario, this 2nd day of November 2007.
+"J. Woods"
+Woods J.
+CITATION: 2007TCC667
+COURT FILE NO.: 2003-4552(IT)G
+STYLE OF CAUSE: DWAYNE HEPPNER AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: May 11 and September 24, 2007
+REASONS FOR JUDGMENT BY: The Honourable Justice Judith Woods
+DATE OF JUDGMENT: November 2, 2007
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Brent E. Cuddy
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,169 @@
+---
+title: "Tinhorn Creek Vineyards Ltd. v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26672/index.do"
+last_modified: "2005-10-25"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 CCI 693"
+citation2: ""
+neutral_citation: "2005 CCI 693"
+decision_date: "2005-10-25"
+language: "fr"
+item_id: "26672"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3614
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T22:23:47.503000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "5128ac18671c2468e1d4f69efba6ecea674e26442b0c9b52d7f7086ba052ad54"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Tinhorn Creek Vineyards Ltd. v. The Queen
+
+- Citation: 2005 CCI 693
+- Decision date: 2005-10-25
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3614, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Tinhorn Creek Vineyards Ltd. v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-10-25
+Référence neutre
+2005 CCI 693
+Numéro de dossier
+2004-2182(IT)G
+Juges et Officiers taxateurs
+Diane Campbell
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Dossier : 2004-2182(IT)G
+ENTRE :
+TINHORN CREEK VINEYARDS LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appels entendus le 12 septembre 2005 à Kelowna (Colombie-Britannique)
+par Madame la juge Diane Campbell
+Comparutions :
+Avocat de l’appelante :
+Me Kenneth J. Ihas
+Avocate de l’intimée :
+Me Susan Wong
+____________________________________________________________________
+JUGEMENT
+Les appels à l’encontre des cotisations d’impôt établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 2000 et 2001 sont accueillis avec dépens et les cotisations sont renvoyées au ministre du Revenu national pour nouvel examen et nouvelles cotisations conformément aux motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 25e jour d’octobre 2005.
+« Diane Campbell »
+La juge Campbell
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Référence : 2005CCI693
+Date : 20051025
+Dossier : 2004-2182(IT)G
+ENTRE :
+TINHORN CREEK VINEYARDS LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+La juge Campbell
+[1] L’appelante interjette appel d’une nouvelle cotisation que le ministre du Revenu national (le ministre) a établie en vertu de la Loi de l’impôt sur le revenu (la Loi) pour l’année d’imposition de l’appelante se terminant le 29 février 2000 (l’année d’imposition 2000) ainsi que d’un avis de détermination d’une perte à l’égard de l’année d’imposition de l’appelante se terminant le 28 février 2001 (l’année d’imposition 2001).
+[2] Lorsqu’elle a calculé son revenu pour les années d’imposition 2000 et 2001, l’appelante s’est considérée comme une « entreprise agricole » et a choisi d’utiliser la « méthode de la comptabilité de caisse » conformément au paragraphe 28(1) de la Loi.
+[3] Le ministre a refusé le choix de l’appelante d’utiliser la méthode de la comptabilité de caisse, au motif que l’appelante n’était pas une entreprise agricole, mais exploitait plutôt une vinerie et le vignoble s’y rattachant et se livrait donc à la fabrication et à la vente de vin.
+[4] La question est de savoir si l’appelante exploitait une entreprise agricole qui lui aurait donné le droit de calculer son revenu à l’aide d’une méthode de comptabilité de caisse pour les années d’imposition 2000 et 2001. Il n’y a aucun litige au sujet du calcul et des montants figurant dans la déclaration de l’appelante.
+[5] Kenneth Oldfield, directeur général de l’appelante depuis 1994, est la seule personne qui a témoigné. C’est lui qui surveille l’ensemble de l’entreprise, qui comprend à la fois un vignoble et une vinerie. Il est également responsable des aspects financiers de la société. M. Oldfield a une formation en génie chimique et a étudié à la University of California, où il a suivi des cours portant sur les activités actuelles de l’appelante. De plus, il voyage tous les deux ans avec son personnel dans des régions où le raisin est cultivé afin d’examiner d’autres pratiques.
+[6] M. Oldfield s’est lancé en affaires en 1993, lorsqu’il a acheté 23 acres de vignobles existants ainsi qu’un autre terrain qui avait été employé comme vignoble jusqu’en 1988. Les vignobles se trouvent dans le district régional d’Oliver, en Colombie-Britannique. Au cours de ses années d’imposition 2000 et 2001, l’appelante était propriétaire de 175 acres de terrain, dont 160 acres étaient des vignobles, et tous les raisins cultivés sur l’ensemble des 160 acres ont été utilisés dans le cadre de l’exploitation de la vinerie.
+[7] La vinerie a été construite entre 1995 et mai 1996. Le terrain utilisé par la vinerie, qui se compose d’un immeuble ainsi que de matériel servant à la production du vin, s’étend sur une superficie d’un acre à un acre et demi. La plus grosse pièce d’équipement est le pressoir, qui sert à extraire le jus des raisins. Les autres articles d’équipement comprennent des pompes, un groupe d’embouteillage et des barils de bois. La plupart du temps, un stock de 1 000 barils de vin évalués à environ 300 000 $ est disponible à la vinerie. Les deux tiers de ces barils sont des barils de vin rouge et ce vin doit avoir vieilli pendant environ 19 mois.
+[8] M. Oldfield s’est reporté à l’onglet 4 de la pièce A-1, où se trouvent ses résumés des états financiers de l’appelante pour les deux années d’imposition. Ces résumés présentaient une répartition des dépenses en capital et des frais d’exploitation entre la ferme et la vinerie. M. Oldfield a expliqué que, si la terre de vignobles était vendue, la valeur comprendrait les vignes, le système de tuteurage et le système d’irrigation. La majeure partie de cet équipement a été acquise auprès des propriétaires précédents; cependant, au fur et à mesure que son entreprise a grossi, l’appelante a elle-même acheté de l’équipement, notamment des remorques, des tracteurs, des VTT et un camion. L’exploitation d’un vignoble nécessite également des fournitures comme des pulvérisateurs, du diesel et des fertilisants. La valeur marchande des biens immobilisés de l’appelante qui servent à la viticulture est sensiblement supérieure à celle des biens qui lui appartiennent et qu’elle utilise pour la fabrication du vin. Selon le témoignage de M. Oldfield, la valeur marchande de la terre de vignobles a grimpé en flèche au cours des dernières années et l’entreprise serait incapable d’entrer sur le marché aux prix d’aujourd’hui. Au soutien de son affirmation, M. Oldfield a précisé que l’appelante avait récemment vendu 25 acres de sa terre de vignobles au prix de 1 200 000 $.
+[9] L’appelante fait partie des 110 exploitants autorisés de vinerie de la Colombie-Britannique et est l’un des dix producteurs-éleveurs de vin de la province. Pour être considérée comme un producteur-éleveur, l’entreprise doit cultiver ses propres vignes sur une base exclusive. En conséquence, l’appelante n’achète pas de raisin à des tiers, mais il lui arrive à l’occasion de vendre une partie de sa récolte à des tierces parties. Cependant, la majorité des raisins cultivés dans les vignobles servent à la production du propre vin de l’appelante.
+[10] M. Oldfield a dit au cours de son témoignage qu’il a décidé d’ouvrir une vinerie et d’étendre les activités de son entreprise au-delà de la culture et de la vente de raisins afin d’accroître les profits, de créer un marché facilement accessible pour les raisins et de contrôler personnellement la qualité des raisins servant à la fabrication du vin.
+[11] M. Oldfield a également expliqué que la majorité des activités de l’entreprise sont axées sur l’exploitation du vignoble et non de la vinerie. Il a passé en revue les activités liées à la viticulture, qui débutent par la planification de la récolte pour l’année suivante. En février ou mars, on taille les vignes de façon à laisser un certain nombre de bourgeons pour la production de la récolte. Environ 180 000 vignes doivent être taillées, ce qui nécessite une équipe de 10 à 20 personnes pendant une période d’environ deux mois. Il s’agit d’une partie très manuelle de la culture du raisin. C’est également en février et mars qu’ont lieu la fertilisation d’hiver et l’épandage de soufre pour la lutte contre les ravageurs. Ce travail est exécuté par deux conducteurs de tracteur et des ouvriers. Les systèmes d’irrigation doivent être opérationnels et utilisés dès le dégel. En mai, les nouvelles pousses de vignes apparaissent et c’est à ce moment qu’a lieu le premier épamprage. Il s’agit d’un procédé manuel qui consiste à débarrasser chaque vigne de ses branches inutiles. C’est aussi en mai et juin qu’a lieu le palissage, opération qui consiste à relever les pousses de vigne dans le système de tuteurage afin de les maintenir en place. Cette opération peut être effectuée trois ou quatre fois, selon la saison de croissance. Pendant ce temps, l’irrigation et la vaporisation de fongicides se poursuivent et la culture est couverte par souci de protection. Le premier éclaircissage a lieu en juin et il faut alors enlever d’autres jeunes pousses inutiles, en plus de celles qui avaient été enlevées en février, afin d’obtenir la qualité de raisin souhaitée. À cette fin, le nombre de grappes de chaque vigne est compté à la main. Généralement, de 15 à 20 employés sont affectés à cette opération, selon la quantité du produit qu’il est nécessaire d’abandonner et la rapidité avec laquelle il est nécessaire de procéder. L’irrigation a lieu d’avril jusqu’à la fin de septembre et est contrôlée par un employé. Il faut compter sept jours pour arroser la totalité du vignoble. Selon les conditions météorologiques, l’opération est répétée dans les cinq jours qui suivent. La fertilisation et la vaporisation de produits de lutte contre les ravageurs se poursuivent sans relâche en juillet, tandis qu’au mois d’août, lorsque les raisins mûrissent, une autre vérification peut avoir lieu afin de savoir si le poids de la grappe convient. Si la grappe est trop lourde, il y aura une autre taille afin que les raisins puissent mûrir. À la fin d’août, avant les vendanges, le vignoble est en état de repos. Comme plusieurs autres aspects de l’exploitation, la récolte est une opération manuelle qui nécessite une main‑d’oeuvre importante. Étant donné que deux personnes peuvent cueillir deux tonnes de raisins par jour, il faut de 40 à 50 cueilleurs pendant une période de quatre à six semaines pour terminer la récolte, après quoi on procède à une dernière irrigation et on répare le système de tuteurage afin de préparer le vignoble pour l’hiver. Les employés sont mis à pied vers la mi-novembre. Le vignoble compte environ 100 employés sur une base annuelle, y compris trois employés qui travaillent à temps plein toute l’année et quatre employés qui travaillent à temps plein de février à la mi‑novembre. M. Oldfield a également expliqué les risques liés à la viticulture, notamment les conditions météorologiques, les hivers froids pouvant faire mourir les sarments et les vignes tandis que les étés plus frais peuvent se traduire par une récolte moins abondante pour la prochaine saison. Les insectes, les mauvaises herbes et les champignons figurent parmi les autres problèmes possibles.
+[12] M. Oldfield a ensuite résumé les activités poursuivies dans le cadre de l’exploitation de la vinerie. La cave à vin compte un vinificateur et quatre autres employés. De plus, trois ou quatre autres personnes y travaillent à temps partiel en septembre et octobre. En septembre, les raisins arrivent par camion chaque jour à la vinerie, où ils sont écrasés et pressés. C’est avec le jus ainsi obtenu que la fermentation commence. Il s’agit d’un procédé naturel au cours duquel le jus des raisins (sucre) fermente et se transforme progressivement en vin (alcool). Le personnel surveille le processus de fermentation afin d’éliminer la pellicule et les pépins de raisin. Les raisins vieillissent dans des fûts ou des réservoirs pendant une période allant de six mois à un an et demi. Au fur et à mesure que le produit vieillit, il est transféré dans différents fûts jusqu’à ce qu’il soit prêt à être embouteillé. Après l’embouteillage, le produit est transporté jusqu’à un entrepôt, où il continue de vieillir pendant une période de deux à douze mois, jusqu’à ce qu’il soit prêt à être vendu. Une petite partie de ce vin est offerte en vente dans une boutique aménagée sur place, mais la plus grande partie du produit est vendue par l’entremise de représentants en vin à des restaurants et, selon M. Oldfield, une partie du produit est acheminée à la British Columbia Liquor Board pour être exportée. D’autres produits, comme des verres et des livres sont également vendus à la boutique aménagée sur place, qui atteint le seuil de rentabilité.
+[13] En plus de M. Oldfield, un commis-comptable à temps plein, une réceptionniste et un directeur de la mise en marché, qui fixe les objectifs des représentants des ventes, s’occupent des aspects administratifs de l’entreprise. M. Oldfield partage son temps entre l’exploitation du vignoble et la vinification. Il apporte également son aide au directeur de la mise en marché et planifie et surveille différents aspects financiers.
+[14] En dernier lieu, au cours de son interrogatoire principal, M. Oldfield a décrit le programme Compte de stabilisation du revenu net (CSRN), qui a été mis sur pied en application de la Loi sur la protection du revenu agricole, L.C. 1991, ch. 22 [chapitre non officiel n° F‑3.3], et auquel l’appelante a participé au cours des années d’imposition en question. Ce programme volontaire offre une aide aux exploitations agricoles pendant les années où leur récolte est déficitaire, pourvu qu’elles aient déposé chaque année des sommes dans un compte CSRN individuel. Le gouvernement fédéral et les gouvernements provinciaux participants versent dans ce compte une contribution correspondant au même montant afin d’améliorer la stabilité du revenu à long terme.
+[15] En contre-interrogatoire, M. Oldfield s’est fait poser des questions au sujet de différents documents de la pièce A-1, qui montraient que les revenus provenant des ventes de vin atteignaient les sept chiffres, tandis que ceux de la vente de raisins étaient nettement inférieurs. M. Oldfield a également reconnu que les raisins vendus à des tierces parties étaient des raisins dont l’appelante n’avait pas besoin pour l’exploitation de sa vinerie et étaient des variétés cultivées par les anciens propriétaires qui ne convenaient pas pour le vin produit dans celle‑ci. Cependant, il a poursuivi en disant que l’intention est d’abord et avant tout d’utiliser les raisins dans la vinerie. Il a également confirmé que les raisins ne font pas partie du stock figurant sur les états, parce qu’ils sont transportés à la vinerie, où ils sont ensuite transformés. De plus, tous les frais de publicité et de promotion étaient liés aux activités de fabrication du vin et non à la viticulture. Les frais de déplacement, qui se rapportent aux salons professionnels, les frais de vente, qui correspondent aux commissions versées aux représentants, et les frais de livraison et de fret, qui concernent le coût du transport du vin vers les marchés, étaient tous liés à l’exploitation de la vinerie.
+[16] Lorsqu’il a été interrogé au sujet de la vente des 25 acres de terrain en 2004, M. Oldfield a répondu que l’entreprise cultivait plus de variétés de raisin que celles dont elle avait besoin et a donc décidé de vendre la superficie de terrain où poussait la variété dont elle n’avait plus besoin. De plus, c’était un bon temps pour vendre et l’opération a permis à l’appelante de rembourser une partie de sa dette. La culture de la vigne sur la superficie qui reste convient maintenant au calendrier de production et à la taille de la vinerie de l’appelante.
+Analyse
+[17] L’appelante soutient qu’elle a le droit d’utiliser la méthode de comptabilité de caisse pour calculer son revenu et invoque à cet égard le paragraphe 28(1) de la Loi, qui est ainsi libellé :
+28. (1) Dans le calcul du revenu d’un contribuable, pour une année d’imposition, tiré d’une entreprise agricole ou d’une entreprise de pêche, le revenu de cette entreprise pour cette année peut être déterminé, au choix du contribuable, selon une méthode (appelée « méthode de comptabilité de caisse » au présent article)...
+Les entreprises doivent généralement utiliser la méthode de la comptabilité d’exercice, sauf les entreprises agricoles et les entreprises de pêche, pour lesquelles la méthode de comptabilité de caisse est permise. La question à trancher en l’espèce est simplement de savoir si l’entreprise de viticulture et de fabrication de vin de l’appelante est une entreprise agricole, ce qui lui permettrait d’utiliser la méthode de comptabilité de caisse pour calculer son revenu conformément au paragraphe 28(1).
+[18] L’expression « entreprise agricole » qui figure au paragraphe 28(1) n’est pas définie dans la Loi, mais le mot « agriculture » est défini comme suit au paragraphe 248(1) :
+248. (1) « agriculture » Sont compris dans l’agriculture la culture du sol, l’élevage ou l’exposition d’animaux de ferme, l’entretien de chevaux de course, l’élevage de la volaille, l’élevage des animaux à fourrure, la production laitière, la pomoculture et l’apiculture. Ne sont toutefois pas visés par la présente définition la charge ou l’emploi auprès d’une personne exploitant une entreprise agricole. [non souligné dans l’original]
+Cette définition n’est pas exhaustive et les tribunaux lui ont donné une interprétation large en décidant qu’elle englobait, notamment, la sylviculture (La Reine c. Matthews, 74 DTC 6193), l’ensemencement, le nettoyage et la vente de fertilisants (Van Rooy c. M.R.N., 92 DTC 2395) et l’exploitation d’une entreprise d’incubation artificielle qui comporte l’achat des oeufs et leur incubation dans un incubateur (Pollon et al. c. La Reine, 84 DTC 6139).
+[19] Dans De Cloet Ltd. c. M.R.N., 89 DTC 207, le juge Sarchuk énumère à la page 212 les activités qu’englobe l’agriculture :
+Il n’est plus possible de décrire l’agriculture moderne, qu’il s’agisse de la culture de céréales, de légumes ou de tabac, comme le fait de « labourer la terre ». Peut-on conclure que la production hydroponique de légumes n’est pas de l’« agriculture » parce que les plantes ne poussent pas dans le sol et qu’il n’y a pas de « labourage du sol »? Je ne pense pas que cela soit le cas. L’agriculture englobe les aspects commerciaux de la production d’une plante ou d’une denrée qui a une valeur économique et j’estime que toutes les activités de l’agriculteur en font partie. Si pour mieux préparer ses produits à la vente, l’agriculteur lave et empaquette ses pommes de terre et ses carottes; ramasse, nettoie et empaquette ses champignons; sèche ses fèves ou ses pois ou répand du gaz d’éthylène sur ses tomates pour en contrôler la couleur, je pense que toutes ces actions font partie intégrante de ses activités agricoles et qu’il est juste de les qualifier comme telles. [non souligné dans l’original]
+[20] Pour que l’appelante puisse utiliser la méthode de comptabilité de caisse conformément au paragraphe 28(1), son revenu doit provenir des activités de l’agriculture. À la page 6143 de la décision Pollon, le juge Addy a formulé les commentaires suivants :
+Le privilège de la comptabilité selon la méthode de caisse dépend donc de ce que le revenu du contribuable est tiré de l’agriculture; il n’est nullement exigé que le contribuable s’occupe personnellement des opérations matérielles de l’exploitation agricole. Les fermiers absentéistes ou gentlemen farmers auraient droit au bénéfice pourvu que le revenu en cause soit tiré de l’agriculture. Quant au principe selon lequel le contribuable peut confier les opérations agricoles à une autre personne et être quand même considéré comme l’exploitant d’une entreprise agricole, voir la décision du juge Cattanach The Queen v. Fred Juster, 73 D.T.C. 5325, confirmé par la Cour d’appel à : 74 D.T.C. 6540.
+[21] Selon les faits de la présente affaire et la définition du mot « agriculture », l’entreprise de l’appelante englobe certainement la culture du sol et la pomoculture. L’appelante soutient que l’ensemble de son entreprise est une entreprise agricole, tandis que l’intimée répond qu’il s’agit d’une vinerie lucrative et que les vignobles servent à produire du vin embouteillé à la propriété.
+[22] Dans Leblanc c. M.R.N., 93 DTC 1564, le juge Brulé s’est attardé à la distinction entre les activités liées à la viticulture et celles de la vinerie à la page 1567 :
+J’estime également que la vaste définition du mot « agriculture » donnée par le juge Sarchuk, de la CCI, dans l’affaire De Cloet Ltd. c. M.R.N., 89 DTC 207, à la page 212, selon laquelle [TRADUCTION] « l’agriculture englobe les aspects commerciaux de la production [...] d’une denrée », n’implique pas que la fabrication de vin constitue de l’agriculture. Dans l’affaire en instance, la culture du raisin et la fabrication de vin sont des activités trop différentes pour être classées comme divers aspects d’une même production commerciale, par comparaison avec la culture et l’empaquetage des champignons, par exemple. Dans la fabrication de vin, le produit final est totalement différent du produit de base. On pourrait comparer la culture du raisin et la production de vin avec la culture des tomates et la production de sauce ou de pâte aux tomates. Dans ces deux cas, la première activité entre dans la vaste définition d’« agriculture », mais pas la seconde.
+[23] Lorsqu’il a exprimé l’avis que la fabrication de vin ne constitue pas de l’agriculture, le juge Brûlé a rejeté l’argument de l’appelante selon lequel le vignoble et la vinerie constituaient une seule et même entreprise. De l’avis du juge Brulé, la fabrication de vin et la culture du raisin étaient deux entreprises distinctes. Cependant, il est facile de faire une distinction entre la situation dont il était saisi et les faits de la présente affaire. Au cours des années d’imposition en litige dans l’affaire portée devant le juge Brulé, aucune vinerie n’existait et ce n’est que quelques mois avant l’audience, survenue en 1993, que le contribuable a obtenu une licence l’autorisant à fabriquer du vin. Comme l’a souligné l’avocat de l’appelante, étant donné que l’audience a eu lieu en août, soit avant les vendanges d’automne, il aurait été impossible que du vin ait été fabriqué à partir des raisins de ce contribuable à la date de l’audience. En deuxième lieu, au cours des années visées par l’appel porté devant le juge Brulé, le contribuable avait l’intention de vendre des raisins à des tierces parties et non du vin. À mon avis, les commentaires du juge selon lesquels la fabrication de vin n’entrait pas dans la définition de l’agriculture étaient des remarques incidentes.
+[24] La question à trancher en l’espèce dépend en grande partie des faits mis en preuve et je suis d’avis que ceux de la présente affaire sont très différents de ceux qui avaient été portés à l’attention du juge Brulé. La différence la plus importante réside dans le fait que l’appelante et l’intimée en l’espèce ont toutes deux convenu dès le départ que l’appelante n’exploitait qu’une seule entreprise et qu’il m’appartenait à moi de décider s’il s’agissait d’une entreprise agricole ou d’une entreprise de fabrication de vin (hypothèse 14(h) de la réponse de l’intimée à l’avis d’appel, qui a également été explicitée et convenue au cours de l’audience). De plus, l’appelante cultivait la quasi-totalité de la superficie de terrain qui lui appartenait et sa vinerie n’occupait qu’une petite parcelle de terrain. L’appelante est également l’un des seuls producteurs-éleveurs de vin autorisés, c’est-à-dire qu’elle fabrique du vin exclusivement à partir des raisins qu’elle cultive. J’ai également devant moi une preuve abondante concernant les pratiques agricoles détaillées suivies dans les vignobles par opposition aux activités poursuivies dans la vinerie, où la fabrication du vin constitue principalement un processus de vieillissement naturel pendant la fermentation et le stockage. Il ne semble pas que le juge Brulé a été saisi du même type de preuve.
+[25] M. Oldfield a présenté une preuve détaillée au sujet de l’exploitation de la vinerie et du vignoble. Il possédait des renseignements de première main au sujet de tous les aspects de l’entreprise, qu’il s’agisse des finances et de l’administration ou des pratiques suivies dans le vignoble et la vinerie. À la lumière des faits qu’il a présentés, je conclus que l’exploitation du vignoble et les activités qui s’y rattachent jouent un rôle prédominant dans l’ensemble de l’entreprise. Si la récolte de raisins est inférieure au cours d’une année donnée en raison des conditions météorologiques défavorables ou de l’action des ravageurs, la quantité et le type de vin qui sera produit seront directement touchés, de sorte que le profit dépend directement des activités de viticulture. La fabrication de vin est liée de si près à la viticulture que l’appelante ne peut s’adresser à des tiers pour acheter du raisin, parce qu’elle produit du vin embouteillé à la propriété. Même si aucun élément de preuve ne m’a été présenté à ce sujet, je soupçonne que, si l’appelante se tournait vers des tiers pour acheter du raisin, elle pourrait perdre son permis de producteur-éleveur.
+[26] C’est dans le vignoble que la majeure partie des employés travaillent, que la majeure partie de l’équipement est utilisé et que les frais de main‑d’oeuvre sont les plus élevés et c’est le vignoble qui occupe la majeure partie de la superficie du terrain de l’entreprise. Il a également été mis en preuve que les éléments d’actif associés au vignoble ont une plus grande valeur que ceux de la vinerie (pièce A-1, onglet 4). Je ne puis que conclure que l’exploitation du vignoble fait partie intégrante de l’entreprise et constitue la base à partir de laquelle la vinerie peut produire et embouteiller son propre vin. Les deux aspects dont il est question en l’espèce sont tellement liés entre eux qu’il est difficile d’isoler l’un de l’autre en ce qui concerne l’aspect bénéfice de l’entreprise. C’est peut-être l’une des raisons pour lesquelles l’intimée n’a pas tenté de faire valoir que l’appelante exploitait deux entreprises distinctes, admettant plutôt qu’elle n’en exploitait qu’une seule. Le fait que l’appelante transforme la totalité de ses raisins pour produire du vin ne signifie pas nécessairement que son entreprise ne peut être une entreprise agricole. À mon avis, chaque situation doit être tranchée en fonction des faits qui lui sont propres. Même si l’appelante transforme sa récolte ou se livre à la production commerciale de celle-ci pour en faire du vin, j’estime que les activités de fabrication de vin sont tellement liées à celles de la viticulture qu’il s’agit de simples aspects d’une même entreprise agricole dont l’exploitation débute par la culture des raisins, suivie par la commercialisation de ceux-ci au moyen de la production de vin. Il existe deux produits vendables en l’espèce, mais l’appelante a décidé sagement, reconnaissant certaines possibilités qu’offre l’industrie, de convertir ses raisins en vin afin d’accroître sa rentabilité. Cependant, la transformation des raisins ne constitue que l’une des nombreuses activités de l’entreprise agricole qu’elle exploite. Même s’il peut y avoir des cas où il est logique de séparer différentes activités qui sont poursuivies de manière indépendante les unes des autres, la situation examinée en l’espèce ne fait pas partie de ces cas. Les activités de l’appelante constituent une seule entreprise agricole.
+[27] L’appelante m’a également cité des définitions de dictionnaire ainsi que des définitions du mot « agriculture » et de termes connexes figurant dans d’autres lois fédérales et provinciales. Bien que la Cour puisse s’inspirer de ces définitions, celles-ci ne sont pas déterminantes. Selon le New Shorter Oxford English Dictionary, l’expression « wine farm » (ferme viticole) s’entend d’une ferme [TRADUCTION] « où des raisins sont cultivés en vue de la fabrication de vin et où du vin est habituellement fabriqué ». L’appelante a soutenu que cette définition permet de conclure que l’ajout d’une vinerie sur une ferme viticole ne signifie pas que l’entreprise n’est plus une entreprise agricole. En plus des différentes définitions de l’agriculture énoncées dans plusieurs lois provinciales, l’appelante m’a cité l’article 2 de la Loi sur la protection du revenu agricole, L.C. 1991, ch. 22, et le programme CSRN établi en application de cette Loi. La LPRA renvoie à des entreprises agricoles qui produisent du vin et qui peuvent être admissibles à participer au programme. Au cours des années d’imposition en cause en l’espèce, l’appelante a participé à ce programme, dans le guide duquel il est mentionné que l’admissibilité est assujettie à la condition que l’entreprise dépose une déclaration de revenus canadienne dans laquelle les revenus/pertes d’exploitation agricole sont déclarés. Même si le programme CSRN reconnaît le vin comme un produit d’une entreprise agricole et que les renvois faits à l’agriculture dans d’autres textes législatifs tendent à appuyer la position de l’appelante, c’est en me fondant sur la preuve dont j’ai été saisie que j’en suis arrivée aux conclusions que j’ai tirées en l’espèce.
+[28] L’appelante poursuit des activités qui, ensemble, constituent une entreprise agricole. La majorité des éléments d’actif et des frais d’exploitation se rapportent au vignoble. Les activités exigent une main-d’oeuvre importante et comprennent la culture du sol et la pomoculture, toutes deux mentionnées dans la définition du mot « agriculture » du paragraphe 248(1). Le fait que la totalité de la récolte soit utilisée pour la vinerie ne signifie pas que l’entreprise n’est plus une entreprise agricole. La pomoculture joue un rôle prédominant dans l’ensemble des activités et touche directement les bénéfices. L’appelante exploite une entreprise agricole dont elle tire son revenu, ce qui lui donne donc le droit d’utiliser la méthode de comptabilité de caisse pour calculer son revenu conformément au paragraphe 28(1) de la Loi.
+[29] Les appels sont accueillis avec dépens.
+Signé à Ottawa, Canada, ce 25e jour d’octobre 2005.
+« Diane Campbell »
+La juge Campbell
+Traduction certifiée conforme
+ce 8e jour de mars 2006.
+Louise Guilbeault-Poulin, traductrice
+RÉFÉRENCE :
+2005CCI693
+N° DU DOSSIER DE LA COUR :
+2004-2182(IT)G
+INTITULÉ DE LA CAUSE :
+Tinhorn Creek Vineyards Ltd. c.
+Sa Majesté La Reine
+LIEU DE L’AUDIENCE :
+Kelowna (Colombie-Britannique)
+DATE DE L’AUDIENCE :
+Le 12 septembre 2005
+MOTIFS DU JUGEMENT PAR :
+La juge Diane Campbell
+DATE DU JUGEMENT:
+Le 25 octobre 2005
+COMPARUTIONS :
+Avocat de l’appelante :
+Me Kenneth J. Ihas
+Avocate de l’intimée :
+Me Susan Wong
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Me Kenneth J. Ihas
+Étude :
+Petraroia Langford Rush
+Kelowna (Colombie-Britannique)
+Pour l’intimée :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa (Ontario)

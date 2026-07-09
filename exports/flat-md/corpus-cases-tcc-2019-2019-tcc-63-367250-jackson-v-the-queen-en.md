@@ -1,0 +1,136 @@
+---
+title: "Jackson v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/367250/index.do"
+last_modified: "2019-03-25"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2019 TCC 63"
+citation2: ""
+neutral_citation: "2019 TCC 63"
+decision_date: "2019-03-25"
+language: "en"
+item_id: "367250"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4323
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T12:17:32.196000+00:00"
+cases_cited_count: 2
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "52c4c7ff455319f564c8dba35530e1878af399c236babe15702f12fed493b8eb"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Jackson v. The Queen
+
+- Citation: 2019 TCC 63
+- Decision date: 2019-03-25
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4323, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Jackson v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2019-03-25
+Neutral citation
+2019 TCC 63
+File numbers
+2018-3987(IT)I
+Judges and Taxing Officers
+Frank J. Pizzitelli
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2018-3987(IT)I
+BETWEEN:
+MICHELE JACKSON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Motion determined by Written Submissions
+Before: The Honourable Justice F.J. Pizzitelli
+Participants:
+Counsel for the Appellant:
+Jason C. Rosen
+Counsel for the Respondent:
+Peter Swanstrom
+ORDER
+WHEREAS the Appellant has brought a motion for summary judgment pursuant to Rule 21(4) of the Tax Court of Canada Rules (Informal Procedure) for failure by the Respondent to serve the Reply to the Notice of Appeal within the 5 day period following the filing of the Reply by the Respondent with the Court pursuant to Rule 6(2).
+AND WHEREAS the Respondent opposes the Appellant’s above motion and has brought a cross-motion under Rule 21 to extend the deadline for service of the Reply to the Notice of Appeal from January 21, 2019 to January 29, 2019, the latter being the date the Reply was actually served.
+AND AFTER CONSIDERATION OF THE WRITTEN REASONS OF BOTH PARTIES:
+The Appellant’s motion is disallowed. The Respondent’s cross-motion to extend the time for service of the Reply is allowed. The Appellant shall pay the Respondent costs of $250 in respect of the Appellant’s motion within 30 days of the date of this Order.
+Signed at Ottawa, Canada, this 25th day of March 2019.
+“F.J. Pizzitelli”
+Pizzitelli J.
+Citation: 2019 TCC 63
+Date: 20190325
+Docket: 2018-3987(IT)I
+BETWEEN:
+MICHELE JACKSON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Pizzitelli J.
+[1] The Appellant has brought a motion for summary judgment pursuant to Rule 21(4) of the Tax Court of Canada Rules (Informal Procedure) (the “Rules”) for failure by the Respondent to serve the Reply to the Notice of Appeal within the 5 day period following the filing of the Reply by the Respondent with the Court pursuant to Rule 6(2).
+[2] The Respondent opposes the Appellant’s above motion and has brought a cross-motion under Rule 21 to extend the deadline for service of the Reply to the Notice of Appeal from January 21, 2019 to January 29, 2019, the latter being the date the Reply was actually served.
+[3] There is no dispute Rule 6(2) requires the Minister to serve its Reply on the Appellant within 5 days of filing the Reply. There is no dispute the Minister filed its Reply with the Court within the required time limits on January 14, 2019. There is no dispute the Minister had until January 21, 2019 to serve its Reply on the Appellant due to the intervention of the weekend. The Minister admits it did not do so due to an oversight of its litigation officer. The Appellant admits in its affidavit filed with the Court in support of its motion that it made inquiries of the Court and obtained a copy of the Reply on January 23, 2019. The affidavit evidence of both parties is that respective counsel spoke with each other and counsel for the Respondent offered to electronically send a copy of the Reply filed with the Court on January 23, 2019 but such offer was declined by the Appellant on the basis it had already obtained a copy from the Court and so was not necessary. There is no dispute the Respondent served its Reply on January 29, 2019, one week after the due date and 5 days after being notified by the Appellant it was late.
+[4] The essential circumstances in this matter is that the Appellant brought its motion on January 26, 2019, 3 days after already obtaining a copy of the Reply from the Court and being offered a copy by the Respondent, without waiting for the Respondent to serve its Reply after being told it would attend to it forthwith.
+[5] The Appellant’s argument is essentially that it has suffered prejudice as a result of the short delay in service entitling it to summary judgment under Rule 21(4). There is also no dispute that there is no specific summary judgment rule in the Rules, however the Appellant relies on Rule 21(4) that gives the Court the ability to determine the practice of the Court when matters are not otherwise provided for.
+[6] Rule 21(4) reads as follows:
+(4) Where matters are not provided for in these rules, the practice shall be determined by the Court, either on a motion for direction or after the event if no such motion has been made.
+[7] Let me say unequivocally that I find the Appellant’s motion to be totally without merit. The Appellant has not provided any factual basis to suggest it has been prejudiced in any way as a result of the Respondent’s short delay in serving the Reply. The matter has not been set down for trial, there is no evidence of any prejudice that would impact the ability of the Appellant to further her appeal and absolutely no evidence the Appellant was required to incur any additional costs in respect of its appeal, other than in rushing to seek the extreme remedy of summary judgment as it has in this matter.
+[8] Rule 21(1) provides that failure to comply with the Rules shall not render any proceeding void unless the Court so directs, giving the Court discretion to deal with the irregularities in “such manner and on such terms as in the opinion of the Court, the circumstances of the case require”.
+[9] I agree with the Respondent that Rule 6(2) does not provide a sanction if the Reply is not served after filing with the Court, within the time limits prescribed, unlike Subsection 18.16(4) of the Tax Court of Canada Act that provides a sanction if the Reply is not filed on time. See Zhuang v. The Queen, [1196] 3 CTC 2886 (TCC) affirmed [1998] 3 CTC 284 (FCA) and Scott v. The Queen, 2015 TCC 9. Moreover, in B.W. Strassburger v. The Queen, 2002 FCA 332, a case relied upon by the Appellant as well, the Federal Court of Appeal held that time prescribed rules could be waived by the Court.
+[10] While the Appellant is free to bring a motion pursuant to Rule 21(4) to seek a determination by the Court for irregularities in compliance with the Rules, I am not satisfied there is any reason to grant summary judgment to the Appellant in the matter at hand. The delay was but a week, the Respondent offered to provide a copy of the Reply immediately on being notified of the 2 day overdue period in service of the Reply and the Appellant had already obtained a copy of the Reply from the Court within that 2 day period. I am satisfied the Respondent acted immediately to cure the default and the Appellant has not been prejudiced in any way. In my opinion, any prejudice suffered by the Appellant relating to costs incurred in bringing this motion are self-inflicted and totally unnecessary. I find the Appellant was extremely unreasonable in wasting the Court’s time in bringing its motion and causing the Respondent to have to respond and bring its cross-motion in the circumstances of these matters.
+[11] The Appellant’s motion is disallowed and the Respondent’s cross-motion to extend the time for service of the Reply is allowed. The Appellant shall pay the Respondent costs in respect of the Appellant’s motion of $250 as requested within 30 days of the date of this Order.
+Signed at Ottawa, Canada, this 25th day of March 2019.
+“F.J. Pizzitelli”
+Pizzitelli J.
+CITATION:
+2019 TCC 63
+COURT FILE NO.:
+2018-3987(IT)I
+STYLE OF CAUSE:
+Michele Jackson v. The Queen
+DATE OF HEARING:
+Motion determined by Written Submissions
+REASONS FOR ORDER BY:
+The Honourable Justice F.J. Pizzitelli
+DATE OF ORDER:
+March 25, 2019
+APPEARANCES:
+Counsel for the Appellant:
+Jason C. Rosen
+Counsel for the Respondent:
+Peter Swanstrom
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Jason C. Rosen
+Firm:
+Rosen Kirshen Tax Law
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada

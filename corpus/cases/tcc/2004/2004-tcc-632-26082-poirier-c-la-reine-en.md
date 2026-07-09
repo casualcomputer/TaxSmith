@@ -1,0 +1,249 @@
+---
+title: "Poirier c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26082/index.do"
+last_modified: "2004-11-04"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 TCC 632"
+citation2: ""
+neutral_citation: "2004 TCC 632"
+decision_date: "2004-11-04"
+language: "en"
+item_id: "26082"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4110
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T18:51:56.259000+00:00"
+cases_cited_count: 3
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "3fb295fe5ed9e769ea08de5b2f1249227700bc6c1845173d5efefe2cb8bacf8b"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Poirier c. La Reine
+
+- Citation: 2004 TCC 632
+- Decision date: 2004-11-04
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4110, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Poirier c. La Reine
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-11-04
+Neutral citation
+2004 TCC 632
+File numbers
+2003-4201(IT)I
+Judges and Taxing Officers
+Pierre Archambault
+Subjects
+Income Tax Act
+Decision Content
+Citation: 2004TCC632
+Date: 20041104
+Docket: 2003-4201(IT)I
+BETWEEN:
+CAROLE POIRIER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+and
+DENIS MARTIN,
+Third Party.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+(Given verbally at the June 4, 2004, hearing at Québec, Quebec,
+and amended for clarity.)
+Archambault J.
+[1] Carole Poirier is appealing the reassessments established March 24, 2003, by the Minister of National Revenue (Minister) for the taxation years 1999, 2000 and 2001. With these reassessments, the Minister added $13,935, $13,439 and $13,728 in support payments to the calculation of Ms. Poirier's income for the three taxation years. When she filed her income tax return, Ms. Poirier did not claim any of these amounts.
+[2] Clearly, the Minister decided to include them in Ms. Poirier's income following a decision rendered by my colleague, Tardif J. in Denis Martin's appeals regarding the taxation years 1998, 1999 and 2000. In this February 24, 2003, judgment, Tardif J. found that Mr. Martin had the right to deduct support payments made to Ms. Poirier during those taxation years. The Minister claimed that the support payments Mr. Martin made for his children were not deductible because of changes made to the Income Tax Act (Act) that make support payments for children tax exempt (new rules). Tardif J. concluded that the support payments made by Mr. Martin were subject to the old system and not to the new rules.
+[3] Shortly before Ms. Poirier's appeal hearing, the Respondent asked that Mr. Martin be part of the appeals under section 174 of the Act, and that the Court also decide on the following questions, found at paragraph 3 of the application for judicial review:
+[translation]
+(a) In his income calculations for the 2001 taxation year, can Denis Martin deduct the $13,728 paid to Carole Poirier during the year as support payments?
+(b) In her income calculations for the 2001 taxation year, does Carole Poirier have to include the $13,728 received from Denis Martin during the year as support payments?[1]
+[4] At the beginning of the hearing, counsel for the Respondent asked-and all parties consented-that similar questions regarding the 2002 taxation year also be raised since Mr. Martin paid support payments in accordance with the same Superior Court order as the one that affects the other years in question.[2]
+[5] After having heard the evidence and arguments of each party, I rendered my decision immediately. I briefly stated the reasons for which I concluded that the support payments paid by Mr. Martin were subject to the new rules, and as a result, he could not deduct them. Ms. Poirier was not required to include them in her income. I then informed Mr. Martin that if he wished to appeal, I would provide more detailed reasons. Mr. Martin, who represented himself at the hearing, instructed counsel to study the advisability of appealing. Thus, these more detailed written reasons.
+Facts
+[6] The facts at issue are not contested by the parties. In fact, all the subparagraphs listed at paragraph 5 of the Reply to the Notice of Appeal were admitted by all the parties except maybe subparagraph 5(o), of which Ms. Poirier claimed to have no knowledge. These subparagraphs are reproduced here:
+[translation]
+(a) the Appellant and Denis Martin were divorced in a judgment pronounced January 20, 1992;
+(b) the Appellant and Denis Martin are the parents of four children:
+(i) Dominic, born November 20, 1980,
+(ii) Émilie, born May 4, 1982,
+(iii) Audray, born September 24, 1984,
+(iv) Joëlle, born October 8, 1986;
+(c) in the divorce, custody of the children was granted to the Appellant;
+(d) on March 15, 1996, support payments were revised to $325 per week with annual indexation;
+(e) on April 11, 1997, the child Dominic moved in with his father, Denis Martin;
+(f) on April 14, 1997, Denis Martin filed a motion to approve the change in custody of his son Dominic and for a reduction in support payments to the Appellant;
+(g) on April 28, 1997, Denis Martin and the Appellant signed a contract establishing that, should a change in custody be approved by the Court, Mr. Martin's support payments to the Appellant would be reduced to $247.41 per week and that it would remain deductible for Mr. Martin and taxable for the Appellant;
+(h) in accordance with the April 28, 1997, contract, the Appellant and Denis Martin let the Court determine the date the change in support payments would become effective;
+(i) on May 1, 1997, an interim order was issued granting custody of Dominic to Denis Martin, maintaining the status quo for support payments, and postponing the hearing of the motion to June 12, 1997;
+(j) this May 1, 1997, order also indicated that [translation] "the amount of support payments will be set retroactively to the date of the service of the pleadings;"
+(k) on July 4, 1997, the Honourable Justice Raynald Fréchette of the Superior Court, rendered a decision ordering joint custody of the child Dominic, and setting the amended support payments at $247.41[3] per week, payable by Mr. Martin to the Appellant, effective as of the date of the judgment;
+(l) since the Honourable Justice Fréchette's July 4, 1997, decision did not confirm the contract signed April 28, 1997, as such, according to Denis Martin and the Appellant, the parties signed a new contract on April 20, 1998, that stated that Mr. Martin will make monthly support payments to the Appellant for the three minor children, in the amount of $1,072.11, that these support payments will remain deductible for Mr. Martin and taxable for the Appellant, and that they would be retroactive to July 4, 1997;
+(m) on May 5, 1998, the Honourable Justice Raynald Fréchette of the Superior Court, rendered an amended decision in which, among other things, he ordered that support payments be payable starting July 1, 1997, and that they would remain taxable for the Appellant and deductible for Denis Martin;
+(n) in accordance with the amended judgment of May 5, 1998, the Minister deduced, from his understanding, that the support payments Denis Martin made to the Appellant from July 1, 1997, were subject to the new fiscal rules since Fréchette J. did not have the authority to decide whether support payments were deductible and/or taxable;
+(o) following the January 23, 2003, hearing of the case of the Appellant's former spouse, Denis Martin, before the Tax Court of Canada, it became apparent to Justice Alain Tardif, from his understanding of the case, that the statement in Fréchette J.'s amended decision of May 5, 1998, regarding the deductibility/taxation of the support payments were not intended to tell the Minister how to handle the situation, but essentially aimed at confirming the parties' wishes (contract dated April 28, 1997);
+(p) regarding the years in question, for each year, Denis Martin claimed $13,935, $13,439 and $13,728, respectively, as support payments or other allowance payable on a periodic basis in the calculation of his income, for the taxation years 1999, 2000 and 2001;
+(q) following the decision made by the Honourable Justice Alain Tardif, the Minister added $13,935, $13,439 and $13,728, respectively, as support payments or other allowance payable on a periodic basis, to the calculation of the Appellant's income, regarding the taxation years 1999, 2000 and 2001.
+[7] Since this is an excellent summary of the relevant facts, I will simply add a few facts, mainly from the documents submitted as evidence. We find in the motion to amend the corollary relief following a divorce judgment, dated April 14, 1997, the following details:
+[translation]
+2. In the years following the judgment in question, a number of judgments regarding support payments were rendered in this case;
+3. Finally, on March 15, 1996, the Honourable Justice Pierre Boily rendered a new judgment and sentenced the defendant to pay $325.00 per week in support payments for his children, indexable annually;
+4. Since this last judgment, some facts have arisen with consequences on the corollary relief, which must now be revised:
+...
+6. As a result, it is requested that the weekly support payments be reduced from $329.88 to $247.41 per week, retroactively to April 11, 1997;
+[Emphasis added].
+[8] Among the conclusions of this motion, is the following:
+[translation]
+SENTENCES the defendant to make support payments to the applicant for their three minor children Émilie, Audray and Joëlle in the amount of $1,071.29 monthly, indexable annually, to be made in two payments of $535.64 on the 15th and the last day of each month, retroactively to April 11, 1997, in accordance with the Act to facilitate the payment of support;
+[Emphasis added].
+[9] Moreover, I find it useful to reproduce some excerpts from the April 28, 1997 contract:
+[translation]
+We, the undersigned, Carole Poirier and Denis Martin, acknowledge that a motion to change custody of our son Dominic has been filed with the Superior Court, St-François district and that it should be heard shortly before the court.
+Should there be a change in custody, we agree to the following:
+- reduction of support payments from $329.88 to $247.41 per week.
+...
+- support payments will remain tax deductible for the father and taxable for the mother;
+...
+We accept that the following points of disagreement be brought before the court:
+- the reasons and validity of a change in custody;
+- the date the change in support payments should become effective, and the amount of retroactivity, if any;
+- the change in recipient of fiscal allocations and family benefits.
+We agree that there would be no benefit to submitting this issue to arbitration or mediation. Moreover, we hope that this agreement is exempt from the new rules affecting support payments, in the interest of the parties concerned.
+[Emphasis added].
+[10] In his July 4, 1997, judgment, Fréchette J. of the Superior Court of Quebec made the following preliminary comment:
+[translation]
+WHEREAS the defendant is presenting a motion to amend the corollary relief, namely a change in custody of the child Dominic, now aged 16, and amend visitation rights and support payments;
+[Emphasis added].
+[11] I would also like to cite from the preamble of the April 20, 1998, contract, in which Ms. Poirier and Mr. Martin recognize the following:
+[translation]
+WHEREAS the parties signed, on April 28, 1997, an agreement stating that following the Court's decision on the amount of the support payments, they would be payable by the defendant to the applicant and will continue to be deductible-taxable;
+WHEREAS at the July 4, 1997, hearing, the parties confirmed to the judge that they wanted the support to be deductible-taxable;
+[Emphasis added].
+[12] The last document to which I will refer is the Support Payments Bulletin published by the Ministère du Revenu du Québec. It is the March 2001 edition, called, "Support Payments," which states, on page two:
+The Ministère requires a judgment in order to carry out its role in the support-payment collection program. The more a judgment is explicit the easier it will be to apply...
+[Emphasis added].
+We should point out now that this statement is in accordance with section 1 of the Act to facilitate the payment of support (AFPS), R.S.Q., c. P-2.2.[4]
+Analysis
+[13] The main question raised by this case is whether the support payments paid by Mr. Martin during the relevant years are subject to the new rules. The relevant provisions are essentially found in paragraphs 56(1)(b) and 60(b) and in subsection 56.1(4) of the Act. Subsection 56.1(4) provides the following definitions of "commencement day," "support amount" and "child support amount":
+56.1 (4) Definitions. The definitions in this subsection apply in this section and section 56.
+56.1(4) Définitions. Les définitions qui suivent s'appliquent au présent article et à l'article 56.[5]
+"commencement day" at any time of an agreement or order means
+« date d'exécution » Quant à un accord ou une ordonnance :
+(a) where the agreement or order is made after April 1997, the day it is made; and
+a) si l'accord ou l'ordonnance est établi après avril 1997, la date de son établissement;
+(b) where the agreement or order is made before May 1997, the day, if any, that is after April 1997 and is the earliest of
+b) si l'accord ou l'ordonnance est établi avant mai 1997, le premier en date des jours suivants, postérieur à avril 1997 :
+(i) the day specified as the commencement day of the agreement or order by the payer and recipient under the agreement or order in a joint election filed with the Minister in prescribed form and manner,
+(i) le jour précisé par le payeur et le bénéficiaire aux termes de l'accord ou de l'ordonnance dans un choix conjoint présenté au ministre sur le formulaire et selon les modalités prescrits,
+(ii) where the agreement or order is varied after April 1997 to change the child support amounts payable to the recipient, the day on which the first payment of the varied amount is required to be made,
+(ii) si l'accord ou l'ordonnance fait l'objet d'une modification après avril 1997 touchant le montant de la pension alimentaire pour enfants qui est payable au bénéficiaire, le jour où le montant modifié est à verser pour la première fois,
+(iii) where a subsequent agreement or order is made after April 1997, the effect of which is to change the total child support amounts payable to the recipient by the payer, the commencement day of the first such subsequent agreement or order, and
+(iii) si un accord ou une ordonnance subséquent est établi après avril 1997 et a pour effet de changer le total des montants de pension alimentaire pour enfants qui sont payables au bénéficiaire par le payeur, la date d'exécution du premier semblable accord ou de la première semblable ordonnance,
+(iv) the day specified in the agreement or order, or any variation thereof, as the commencement day of the agreement or order for the purposes of this Act.
+(iv) le jour précisé dans l'accord ou l'ordonnance, ou dans toute modification s'y rapportant, pour l'application de la présente loi.
+"support amount" means an amount payable or receivable as an allowance on a periodic basis for the maintenance of the recipient, children of the recipient or both the recipient and children of the recipient, if the recipient has discretion as to the use of the amount, and
+« pension alimentaire » Montant payable ou à recevoir à titre d'allocation périodique pour subvenir aux besoins du bénéficiaire, d'enfants de celui-ci ou à la fois du bénéficiaire et de ces enfants, si le bénéficiaire peut utiliser le montant à sa discrétion et, selon le cas :
+(a) the recipient is the spouse or common-law partner or former spouse or common-law partner of the payer, the recipient and payer are living separate and apart because of the breakdown of their marriage or common-law partnership and the amount is receivable under an order of a competent tribunal or under a written agreement; or
+a) le bénéficiaire est l'époux ou le conjoint de fait ou l'ex-époux ou l'ancien conjoint de fait du payeur et vit séparé de celui-ci pour cause d'échec de leur mariage ou union de fait et le montant est à recevoir aux termes de l'ordonnance d'un tribunal compétent ou d'un accord écrit;
+(b) the payer is a natural parent of a child of the recipient and the amount is receivable under an order made by a competent tribunal in accordance with the laws of a province.
+b) le payeur est le père naturel ou la mère naturelle d'un enfant du bénéficiaire et le montant est à recevoir aux termes de l'ordonnance d'un tribunal compétent rendue en conformité avec les lois d'une province.
+"child support amount" means any support amount that is not identified in the agreement or order under which it is receivable as being solely for the support of a recipient who is a spouse or common-law partner or former spouse or common-law partner of the payer or who is a parent of a child of whom the payer is a natural parent.
+[Emphasis added]
+« pension alimentaire pour enfants » Pension alimentaire qui, d'après l'accord ou l'ordonnance aux termes duquel elle est à recevoir, n'est pas destinée uniquement à subvenir aux besoins d'un bénéficiaire qui est soit l'époux ou le conjoint de fait ou l'ex-époux ou l'ancien conjoint de fait du payeur, soit le père ou la mère d'un enfant dont le payeur est le père naturel ou la mère naturelle.
+[14] Mr. Martin claims that the July 4, 1997, order did not modify the March 15, 1996, order or change the total of the amounts in the order, since the April 28, 1997, agreement that already did so. As a result, there is no commencement day.
+[15] With respect to those who support this position, I feel it its poorly grounded. First, it must be decided whether the April 28, 1997, contract is really an "agreement" within the meaning of the relevant provisions of the Act. To fully understand the scope of the concept, its raison d'être must be examined, it's purpose in the Act. The relevance of the concept can be found in the definition of support amount, above. For such a support payment to be deductible under paragraph 60(b) of the Act, and for it to be included as income for the beneficiary under paragraph 56(1)(b), it must have been paid either under the terms of an order issued by a court of competent jurisdiction or under the terms of a written agreement. It seems that a simple verbal agreement would not be enough to allow for support payments to be deducted. There must be a written agreement or an order[6] by a court of competent jurisdiction. The obvious goal of the Act is to ensure that taxpayers are required to pay or have the right to receive such support payments because of an obligation coming from either a court order or an agreement that creates the obligation, and that the obligation is part of a written document. Even if the definition of "commencement day" merely makes reference to an "agreement," this is a written agreement. A verbal agreement would have no relevance.
+[16] Not only does the Act recognize that support payments do not need to be paid in accordance with an order by a court of competent jurisdiction to be deductible-a simple written agreement is enough-but, as my colleague, Lamarre J. stated in Clermont (supra), at paragraph 16, "it is open to the parties to vary a court order establishing child support, without necessarily having the new agreement approved by the court." In support of her findings, she cited Justice Pierre Dalphond, then Quebec Superior Court justice, in R.G. v. L.A., [2000] Q.J. No. 1397 Que. Sup. Ct. (Q.L.):
+108 Once a judgment of separation or divorce has been pronounced and the Court has awarded accessory measures, nothing prevents the parties from settling between themselves the way they want to execute the benefits and obligations derived from the judgment. The parties remain free to negotiate at any time.
+109 Though it is absolutely necessary for a divorce to become effective that it be pronounced by a Court since marriage is a matter going beyond the private interests of the parties involved, there is nothing in the Divorce Act that prevents two parties from making an agreement about their financial obligations towards each other further to a judgment of divorce. There is nothing in the laws of Quebec, Civil Code of Lower Canada or Civil Code of Quebec included, that prevents it either
+[Emphasis added]
+[17] It was therefore open to Mr. Martin and Ms. Poirier to accept the written agreement of April 28, 1997, to reduce the support payments set by Boily J. on March 15, 1996, from $325 per week to $247.41. However, they did not do so and I think there are two reasons for this. First, they did not seem to agree that it was time for Dominic to live with his father. A Superior Court justice had to decide this issue. As a result, the obligation to pay reduced support payments was dependent upon this issue. Therefore, the April 28 contract did not create the obligation to pay support payments; it was the Superior Court that would create it.[7]
+[18] Second, it was hoped that the support payments made by Mr. Martin would be subject to the AFPS, as confirmed in one of the conclusions of the April 14, 1997, motion. However, to do so required an order by the Superior Court. The Ministère du Revenu du Québec, that applies the AFPS, requires a compliance order from a court for it to collect support payments for recipients. It is therefore not surprising that many judgments concerning support payments had been made in the past in Ms. Poirier and Mr. Martin's case. This is also indicated in the April 14, 1997, motion.
+[19] This analysis of the facts leads me to make a finding on the nature of the contract signed on April 28, 1997. The purpose of this contract was not to create an obligation for Mr. Martin to pay child support to Ms. Poirier, but to come to an agreement on certain issues that were to be settled in Superior Court, namely, setting the amount of the reduced support payments if the court decided that Dominic could live with his father, and deciding on when the reduction would take effect. In other words, the April 28, 1997, contract was only a "partial consent to judgment" and not a "written agreement" within the meaning of subsection 56.1(4) of the Act that would create an obligation to pay support payments.
+[20] Moreover, courts are not required to accept such consents to judgment. I am sure that the Superior Court could have modified the amount if it found it unreasonable. In fact, when the motion was heard on May 1, 1997, the interim order granting Mr. Martin custody of Dominic maintained the status quo in terms of support payments, even though Dominic's parents had agreed on the reduced amount of these payments! For the reduction to take effect, the Superior Court would have had to set the amount of the reduction. In their April 20, 1997, contract, Mr. Martin and Ms. Poirier even acknowledged that the Superior Court set the support payments ([translation] "further to the Court's decision on the amount of the support payments").
+[21] Moreover, the commencement day of the obligation was dependent upon the Superior Court decision, as stated in the April 28, 1997, contract. It must also be noted that, contrary to the request in the April 14, 1997, motion, the reduced support payment obligation was only effective as of July 4, 1997, not April 11, 1997.
+[22] Support for this conclusion also comes from the fact that Mr. Martin and Ms. Poirier felt it was necessary to have a new order, the May 5, 1998, order, to amend the July 4, 1997, order that neglected to state that the support would be deductible for Mr. Martin and taxable for Ms. Poirier.
+[23] I therefore conclude that the April 28, 1997, contract is not an "agreement" within the meaning of subsection 56.1(4) of the Act. In this case, only an order from the Superior Court could allow Mr. Martin to deduct the support payments he made, if the other conditions were also met.
+[24] We must now focus on these other conditions. The problematic one here is the one regarding the "commencement date." Was there such a date in the Superior Court order? If so, the child support payments would be tax exempt. As I concluded that there was no written agreement in this case, that there were merely orders by the Superior Court, it is easier to make a decision on this matter. We shall review the facts. The last order in effect before Dominic decided to move in with his father was the one issued by Boily J. on March 15, 1996. The first order was likely the January 20, 1992, one, also issued by Boily J. These dates precede May 1997. It was the March 15, 1996, order that Mr. Martin wanted to amend in April 1997, and this is the one Fréchette J. modified on July 4, 1997. In that order, Fréchette J. reduced the support payments to $247.41 as of July 4, 1997. However, the date of the order and the effective date of the reduced amount of the support payment are both after April 30, 1997.
+[25] In my opinion, there is a commencement day within the meaning of paragraph (a) or subparagraphs (b)(ii) and (iii) of the definition of "commencement day" in subsection 56.1(4) of the Act, which I will reproduce in part again:
+"commencement day" at any time of an agreement or order means:
+(a) where the agreement or order is made after April 1997, the day it is made; and
+(b) where the agreement or order is made before May 1997, the day, if any, that is after April 1997 and is the earliest of:
+...
+(ii) where the agreement or order is varied after April 1997 to change the child support amounts payable to the recipient, the day on which the first payment of the varied amount is required to be made,
+(iii) where a subsequent agreement or order is made after April 1997, the effect of which is to change the total child support amounts payable to the recipient by the payer, the commencement day of the first such subsequent agreement or order, and
+...
+[26] Earlier, I mentioned that it was easier to make a decision on the issue in question once the absence of a written agreement was established. However, this does not mean it is easy. Actually, the definition of "commencement day" is not entirely clear. After reading it a number of times and reading the interpretation bulletin IT-530R on support payments, this is my understanding: paragraph (a) seems to deal with written agreements or any order made after April 1997 (whether or not it is a first written agreement or a first order) while paragraph (b) seems to deal with written agreements or orders made before May 1997. Therefore, if the support payments are to be considered payable under the July 4, 1997, order, then the commencement day is July 4, 1997, and if they are to be considered payable under the January 20, 1992, or the March 15, 1996, order, then it must be determined whether one of the situations in subparagraphs (b)(i) to (iv) applies and which is the earliest of the days mentioned in these subparagraphs that is after April 1997.
+[27] It is obvious that subparagraphs (b)(i) and (b)(iv) do not apply in this case because a joint election was not filed with the Minister and there was no day specified in the order. This leaves subparagraphs (b)(ii) and (b)(iii). In my opinion, these two paragraphs apply in this case since, in the first case, the January 20, 1992, or March 15, 1996, orders were established before May 1997; they were the subject of an amendment after April 1997-in the July 4, 1997, order-which affected the child support amount to be paid to the recipient. As for the second, there is a subsequent order established after April 1997-the July 4, 1997, order-that changed the total amounts of child support payable to the recipient under an order established before May 1997. This was the January 20, 1992, or the March 15, 1996, order. In this case, the commencement date is the commencement date of the subsequent order, or the execution date of the order, July 4, 1997. In the first case, in which subparagraph (b)(ii) applies, it would be the day the amended amount was paid for the first time, which, in all likelihood, was after July 4, 1997. The evidence did not indicate the day the amended amount was paid for the first time. At any rate, the issue is merely theoretical since the commencement day that is "after April 1997 and is the earliest" would be July 4, 1997, in this case.
+[28] So, whether the support payments were payable under the July 4, 1997, or the January 20, 1992, or the March 15, 1996, order, the commencement day is the same, July 4, 1997. The payments under one or the other of these orders are subject to the new rules and are tax exempt.
+[29] Before concluding, I would like to point out that I have no doubt that Ms. Poirier and Mr. Martin, when they negotiated the terms of the order to be rendered by the Superior Court, clearly established that the support payments would be deductible for Mr. Martin and taxable for Ms. Poirier. It is therefore surprising that Ms. Poirier never included support payment from Mr. Martin in her income. However, designating support payments as taxable or deductible is not dependent upon the parties' wishes or those of a judge, whether from this Court or another superior court. It is the Act that determines the taxation conditions and determines whether a taxpayer has the right to deduct certain amounts or is required to include them as income. If the Superior Court had issued its order before May 1997 or if Ms. Poirier and Mr. Martin had signed a binding written agreement before this date, the support payments would not have been subject to the new rules and would have been deductible by one and included as income for the other. However, since Ms. Poirier wanted the issue of custody decided by the Superior court, and she and Mr. Martin wanted the Superior Court order to be issued so that the support payments could be governed by the AFPS, and since, unfortunately for Mr. Martin, this order was not issued before April 1997, the provisions in the Act lead to the support payments being tax exempt.
+[30] For all the above reasons, the appeals from the reassessments established under the Act for the taxation years 1999, 2000 and 2001 are allowed and the assessments are referred back to the Minister of National Revenue for review and reassessment with the assumptions that the support payments Ms. Poirier received from Mr. Martin should be excluded from Ms. Poirier's income.
+[31] Moreover, the Court finds that the support payments Mr. Martin paid in 2001 and 2002 are not deductible in the calculation of his income for these two taxation years and that these payments should be excluded from the calculation of Ms. Poirier's income for the 2002 taxation year. Ms. Poirier and Mr. Martin are bound by this decision. All without costs.
+Signed at Ottawa, Canada, this 4th day of November 2004.
+"Pierre Archambault"
+Archambault J.
+REFERENCE:
+2004TCC632
+COURT FILE NUMBER:
+2003-4201(IT)I
+STYLE OF CAUSE:
+Carole Poirier and The Queen
+and Denis Martin, Third Party
+PLACE OF HEARING:
+Québec, Quebec
+DATE OF HEARING:
+June 4, 2004
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Pierre Archambault
+DATE OF JUDGMENT:
+July 15, 2004
+VERBAL DECISION RENDERED:
+June 4, 2004
+REVISED REASONS FOR JUDGMENT:
+November 4, 2004
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Stéphanie Côté
+For the Third Party:
+The Third Party himself
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] In fact, this question was already raised in Ms. Poirier's appeals.
+[2] For Mr. Martin's taxation years 1998, 1999 and 2000, there is obviously res judicata. As for the question of whether there can be res judicata regarding the right to deduct support payments for the taxation years 2001 and 2002-an issue that was not raised in this case-see the discussion in the decision I rendered in Victoriaville (Commission scolaire) v. R., 2002 G.T.C. 196 and 2002 G.S.T.C. 49. In my opinion, there is no res judicata for 2001 and 2002.
+[3] The order stated, [translation] "REDUCE the weekly support payments to $247.41, payable by the defendant to the applicant, effective as of this judgment."
+[4] See also the decision of my colleague, Lamarre J. in Clermont c.La Reine, 2003 TCC 752, 2003 DTC 1342, 2003 CarswellNat 3255, at paragraph 6, where she stated:
+...In fact, An Act to Facilitate the Payment of Support only applies to support payable as a pension to a creditor of support under a judgment enforceable in Quebec (see article 1 of that Act).
+[5] The definitions in subsection 56.1(4) apply to section 60 under subsection 60.1(4) of the Act.
+[6] All orders by a court of competent jurisdiction are also included in a written document.
+[7] For an example of a non-binding agreement, see the recent Court of Appeal decision, Hock v. The Queen, 2004 FCA 336, para. 5, dated October 6, 2004.

@@ -1,0 +1,238 @@
+---
+title: "Mattu v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29554/index.do"
+last_modified: "2009-11-27"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 TCC 605"
+citation2: ""
+neutral_citation: "2009 TCC 605"
+decision_date: "2009-11-27"
+language: "en"
+item_id: "29554"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6372
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T00:44:00.300000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "33df7a60786c2de2b5d4d48036f389bb9309fe0fd0498dbc22e3ec835cf64b32"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Mattu v. The Queen
+
+- Citation: 2009 TCC 605
+- Decision date: 2009-11-27
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6372, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Mattu v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2009-11-27
+Neutral citation
+2009 TCC 605
+File numbers
+2009-416(IT)I
+Judges and Taxing Officers
+Leslie M. Little
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2009-416(IT)I
+BETWEEN:
+GURDIP SINGH MATTU,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on September 8, 2009, at Vancouver, British Columbia
+Before: The Honourable Justice L.M. Little
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Andrew Majawa
+____________________________________________________________________
+JUDGMENT
+The appeals from the assessments made under the Income Tax Act for the 2004, 2005 and 2006 taxation years are dismissed, without costs.
+Signed at Vancouver, British Columbia, this 27th day of November 2009.
+“L.M. Little”
+Little J.
+Citation: 2009 TCC 605
+Date: 20091127
+Docket: 2009-416(IT)I
+BETWEEN:
+GURDIP SINGH MATTU,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Little J.
+A. Facts
+[1] Dashmesh Roofing Tiles Ltd. (“Dashmesh”) was incorporated under the laws of the Province of British Columbia on June 18, 2002.
+[2] The Appellant was the sole shareholder of Dashmesh.
+[3] On August 31, 2002, the Appellant signed an agreement to purchase the assets and inventory of Four Star Concrete Products Ltd. (“Four Star”) at a price of $150,000.00.
+[4] Pursuant to an agreement dated October 1, 2002, Four Star transferred the assets and inventory to Dashmesh.
+[5] From September 2002 to September 2003, Dashmesh carried on a business using the assets and inventory that had been purchased from Four Star. Dashmesh produced roof tiles made from concrete plus concrete picnic tables and concrete flower pots.
+[6] In the fall of 2003, Dashmesh ceased to carry on its business operation.
+[7] When the Appellant filed his income tax return for the 2004 taxation year, he claimed a gross Business Investment Loss of $236,090.00 in connection with his interest in Dashmesh.
+[8] The Minister of National Revenue (the “Minister”) maintains that Dashmesh did not dispose of any of the assets that had been purchased for nil consideration during the 2002, 2003 and 2004 taxation years.
+[9] The Minister disallowed the Business Investment Loss claimed by Dashmesh.
+[10] The Appellant also maintains that, in early 2003, he became involved in an “investment” with a man named “Phil” from The Netherlands.
+[11] The Appellant stated that Phil told him that, in exchange for funds from the Appellant, Phil would obtain US$50 million from Ghana. Phil apparently indicated to the Appellant that he would “share” the US$50 million received from Ghana with the Appellant if the Appellant would assist with the financing.
+[12] The Appellant arranged to have his Credit Union (Envision Credit Union) wire the sum of $39,950.00 to Phil at an address in the United Kingdom. The Appellant never received any of the money that Phil had promised.
+[13] A lawsuit occurred between the Appellant and Envision Credit Union in connection with the transfer of funds by the Appellant to Phil from the Envision Credit Union. The case was heard by the Supreme Court of British Columbia and the Appellant was unsuccessful in the lawsuit.
+[14] When the Appellant filed his income tax returns for the 2004, 2005 and 2006 taxation years, he claimed the following expenses:
+(a) an Allowable Business Investment Loss of $118,045.00 in the 2004 taxation year;
+(b) interest expense of $9,354.00 in the 2004 taxation year representing accrued interest on a Judgment issued by the British Columbia Supreme Court;
+(c) legal fees of $14,482.00 in the 2004 taxation year with respect to the lawsuit between the Appellant and Envision Credit Union;
+(d) a non-capital loss of $9,177.00 in the 2005 taxation year; and
+(e) a business loss of $50,000.00 in the 2006 taxation year. This was the money that the Appellant sent to Phil.
+[15] The Minister disallowed the items as specified in paragraph 14 above.
+B. Issues
+[16] During the hearing, the Appellant said that there were three main issues:
+1. the Allowable Business Investment Loss in the amount of $236,090.00 claimed by him in the 2004 taxation year;
+2. the expenses incurred by the Appellant in connection with the payment that the Appellant made to Phil, plus any related expenses; and
+3. Capital cost allowance claimed by the Appellant for a Cadillac automobile in the 2003 taxation year.
+C. Analysis and Decision
+[17] There is a great deal of confusion concerning the price paid by the Appellant or by Dashmesh for the assets of Four Star. I have used the word “confusion” for the following reasons:
+(a) Counsel for the Respondent filed an Exhibit Book containing various documents (Exhibit A-1). Tab 7 of Exhibit A-1 is a document called a Bill of Sale dated October 1, 2002 between Four Star (Vendor) and Dashmesh (Purchaser). The Bill of Sale states that the Vendor was selling all of the assets described in Schedule “A” to Dashmesh for $80,000.00. The Bill of Sale is signed by the four directors of Four Star (Bhupinder S. Bains, Chuhar S. Bains, Iqbal S. Sendher and Jaswinder S. Sendher). However, the Bill of Sale was not signed by the Appellant.
+(b) Counsel for the Respondent filed a document dated August 31, 2002 and referred to as a Buy Sell Agreement (Exhibit A-1, Tab 9). This document states that Four Star is selling “all its assets including inventory to Mr. Gurdip Singh Mattu for the amount of $150,000.00”.
+(c) The Appellant filed a further document dated October 15, 2002 (Exhibit R‑1). This document is referred to as a Bill of Sale. The document states that Four Star is selling all of its assets including inventory to Dashmesh for the price of $250,000.00. This document is signed by Iqbal Sendher, Bhupinder S. Bains and Chuhar S. Bains. Note: The name Gurdip S. Mattu (President, Dashmesh Roof Tiles Ltd.) is typed on the form but it is not signed by the Appellant.
+[18] In other words, we have two documents between Four Star and Dashmesh and one document between Four Star and the Appellant. The documents provide that the same assets and inventory owned by Four Star were sold either to Dashmesh or the Appellant pursuant to three separate agreements for $80,000.00, then for $150,000.00 and finally for $250,000.00.
+[19] Counsel for the Respondent questioned the Appellant on the three different documents purporting to sell the same assets and inventory of Four Star. During the cross‑examination, Mr. Mattu maintained that the assets and inventory of Four Star were purchased by him for $150,000.00 (Transcript, page 68, lines 14‑16).
+[20] Counsel for the Respondent asked about the agreement where the assets and inventory of Four Star were purportedly sold for $80,000.00. The Appellant said:
+Appellant: A. Mr. Bains told him, us, you know, to make this
+agreement just for PST.
+Mr. Majawa: Q. For PST?
+Appellant: A. Yes.
+Mr. Majawa: Q. So that he would have to pay less tax?
+Appellant: A. Less PST.
+(Transcript, page 69, lines 2-8)
+[21] The Appellant admitted that he drafted the document reflecting the sale of the assets at $80,000.00 as a favour to Mr. Bains. The Appellant also stated that he knew it was incorrect:
+Appellant: A. Yeah, I know it was incorrect.
+(Transcript, page 69, line 21).
+[22] Counsel for the Respondent also asked the Appellant to comment on the Bill of Sale dated October 15, 2002 where the assets of Four Star were purportedly sold to Dashmesh for $250,000.00. Counsel for the Respondent asked if the Appellant had prepared this document and the Appellant said:
+Appellant: A. I prepared this document, because, you know, Mr. Lidhar and his Chinese fellow, he said, you know, let's put the price over there and we can all get the loan on the company.
+(Transcript, page 75, lines 10-13)
+[23] At page 76 of the transcript, the following exchange occurred:
+Mr. Majawa: Q. Okay, but it was prepared for the purposes of --
+Appellant: A. Loans.
+Mr. Majawa: Q. Of being able to tell the bank "look, I've got assets worth 200 -- that I paid $250,000 for and I want a loan against those", right?
+Appellant: A. That's why, maybe that loan person ever discussed it with them, you know.
+(Transcript, page 76, lines 3-10)
+Mr. Majawa also said:
+Mr. Majawa: Q. … But you prepared this document, right?
+Appellant: A. Yes.
+Mr. Majawa: Q. But you knew you didn’t pay $250,000 for the assets?
+Appellant: A. No, no, no, …
+(Transcript, page 76, lines 19-23)
+[24] Counsel for the Respondent subpoenaed Mr. Chuhar S. Bains as a witness. (Note: Mr. C.S. Bains was a Director of Four Star when Four Star sold its assets.) Counsel for the Respondent asked Mr. Bains how much the Appellant had paid for the assets of Four Star. Mr. Bains said:
+Mr. Bains: A. $80,000.
+Mr. Majawa: Q. $80,000.
+Mr. Bains: A. Plus he helped -- he would agree to pay $1500 -- 15,000 the paying the bill.
+(Transcript, page 163, lines 19-22)
+[25] Mr. Bains confirmed that he had signed the document (Exhibit A-1, Tab 7) which shows that the assets of Four Star were sold to Dashmesh for $80,000.00 (Transcript, page 165, lines 6-10).
+[26] Mr. Bains said that there never was a deal to have the assets of Four Star sold for $150,000.00 (Transcript, page 166, lines 16-18).
+[27] In a situation of this nature, credibility is a major issue and we have three documents prepared by the Appellant purporting to sell the same assets of Four Star at three different prices - $80,000.00, $150,000.00 and $250,000.00. The fact that three purchase prices were used for the same assets is very troubling, in my mind, when I must consider the credibility of the Appellant. In other words, is the Appellant being honest in stating his position?
+[28] After carefully considering the evidence of the parties, I have decided to accept the evidence of Mr. Bains that the assets of Four Star were purchased for $80,000.00.
+[29] In addition to the $80,000.00 purchase price, the Appellant maintains that he purchased and personally paid for assets for Four Star. The evidence indicates that the Appellant made the following payments:
+August 31, 2002 $10,000.00
+September 19, 2002 $ 5,000.00
+[30] In addition to the payments referred to above, the Appellant maintains that he paid the following expenses for Four Star:
+(a) 10 Holding Racks at $900.00 each from
+A Touch of Brass ($9,350.00 + GST)
+(Exhibit A-4)
+$10,004.00
+(b) Si-Port 2 Industries Ltd.
+1000 pcs of Cap Molds
+(Exhibit A-5 and Exhibit A-6)
+$ 4,286.62
+(c) 1 Forklift from Leavitt Machinery
+(Exhibit A-7)
+$11,235.00
+(d) Information Leasing Corporation (Exhibit A-10)
+$ 1,374.44
+TOTAL:
+$26,900.06
+[31] I am prepared to accept that the Appellant paid $80,000.00 for the assets of Four Star. I am also prepared to recognize that the Appellant purchased various assets outlined above at a cost of $15,000.00 and $26,900.06.
+[32] I must next determine whether the Appellant may claim an Allowable Business Investment Loss on this $80,000.00 plus the cost of the other assets that he claimed that he had purchased.
+[33] As noted above, the Appellant claimed a Business Investment Loss of $236,090.00 and an Allowable Business Investment Loss of $118,045.00.
+[34] Paragraph 39(1)(c) of the Income Tax Act (the “Act”) defines a Business Investment Loss to be a capital loss realized on a disposition after 1977 of shares or debt of a small business corporation.
+[35] I must determine if the Appellant disposed of debt owing to him by Dashmesh. Respondent’s counsel said that the general ledger seems to be completely unreliable. He said that the revenues in the general ledger do not match the revenues in the income tax returns. In addition, Respondent’s counsel noted that the shareholder loan does not support the statement by the Appellant that Dashmesh owed him $236,090.00.
+[36] Mr. Majawa, counsel for the Respondent, said in argument:
+But I would say that it is odd that the general ledger shows $35,000 of revenue in the same year that they reported $174,000 of revenue on their tax return. …
+(Transcript of Argument, page 17, lines 18-21)
+[37] Counsel for the Respondent said:
+… The shareholder loan account certainly doesn’t support $236,000 owing to Mr. Mattu. …
+(Transcript of Argument, page 6, lines 24-25)
+[38] During the hearing, Mr. Majawa, counsel for the Respondent, called Jamie Monkman as a witness. Ms. Monkman is the Appeals Officer at the Canada Revenue Agency (the “CRA”) who worked on this file. The following exchange took place:
+Mr. Majawa: Q. And were you ever provided with any information to substantiate the entries in these general ledger accounts?
+Ms. Monkman: A. No, I was not.
+Mr. Majawa: Q. Provided with invoices?
+Ms. Monkman: A. No.
+Mr. Majawa: Q. Resolutions from the company?
+Ms. Monkman: A. I did not see any resolutions, no.
+Mr. Majawa: Q. An account that was specifically just determined for the shareholder loan account?
+Ms. Monkman: A. No.
+Mr. Majawa: Q. After reviewing the shareholder loan account what was your conclusion about it? Do you have a conclusion specifically about it?
+Ms. Monkman: A. Well, it’s not in a format – or I didn’t have enough evidence to support the amounts that were there, and it didn’t correspond to what Mr. Mattu was claiming. So I could not rely on it.
+(Transcript, page 212, lines 23-25 and page 213, lines 1-15)
+[39] Based on the evidence and the inadequate documentation that was provided to the Court, I have concluded that it is impossible to tell what Dashmesh owed the Appellant.
+[40] There is also a problem with the value of the assets owned by Dashmesh. The Appellant says the assets were worthless, but he did not call a witness or file any evidence to establish that the assets were worthless.
+[41] Counsel for the Respondent said:
+The Respondent submits that it’s just not reasonable that $180,000 of declared assets become worth nothing.
+(Transcript of Argument, page 18, lines 24-25 and page 19, line 1)
+[42] It appears from the evidence that the assets purchased for $80,000.00 (or $150,000.00 or $250,000.00) have declined in value, but there is no acceptable proof of the value of the assets.
+[43] If the Appellant provides information to officials of the CRA on the amount owed to him by Dashmesh and if the Appellant proves that the assets and inventory purchased by him or by Dashmesh were worthless, he may qualify in years subsequent to 2004 that he is entitled to a Business Investment Loss. However, based on the evidence presented to the Court, I have concluded that the Appellant is not entitled to the Business Investment Loss that he claimed in the 2004 taxation year.
+Capital Cost Allowance on Cadillac Automobile
+[44] The evidence indicated that the Appellant purchased a Cadillac Deville in 2003. The Appellant maintained that he used this automobile in operating his business - GSM Accounting. The Appellant claimed a capital cost allowance of $20,000.00 and the CRA audit allowed zero because they had no evidence that the automobile was used for business purposes. During the hearing, counsel for the Respondent called Jamie Monkman on this issue. Ms. Monkman testified that the Appellant did not file a Notice of Objection for the 2003 taxation year. The appeal with respect to the Cadillac is denied because the 2003 taxation year cannot be reviewed by this Court since no Notice of Objection was ever filed by the Appellant for that year.
+$50,000.00 Plus Related Expenses re Amount Sent by the Appellant to Phil
+[45] During the hearing, the Appellant testified that this claim was reduced on a settlement basis to $45,000.00. However, legal fees and other expenses were also claimed. The Appellant did not provide any documentation or other evidence to establish that these expenses were valid business expenses. The only inference that I can draw from the Appellant’s testimony is that the Appellant was a victim of a fraudulent scheme by Phil to obtain money from an illegal transaction. I have concluded that all expenses involved in this scheme are not deductible business expenses of the Appellant.
+[46] The appeals are dismissed, without costs.
+Signed at Vancouver, British Columbia, this 27th day of November 2009.
+“L.M. Little”
+Little J.
+CITATION: 2009 TCC 605
+COURT FILE NO.: 2009-416(IT)I
+STYLE OF CAUSE: Gurdip Singh Mattu and
+Her Majesty The Queen
+PLACE OF HEARING: Vancouver, British Columbia
+DATE OF HEARING: September 8, 2009
+REASONS FOR JUDGMENT BY: The Honourable Justice L.M. Little
+DATE OF JUDGMENT: November 27, 2009
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Andrew Majawa
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

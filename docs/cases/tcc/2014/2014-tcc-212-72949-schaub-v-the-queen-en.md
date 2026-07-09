@@ -1,0 +1,130 @@
+---
+title: "Schaub v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/72949/index.do"
+last_modified: "2014-07-04"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2014 TCC 212"
+citation2: ""
+neutral_citation: "2014 TCC 212"
+decision_date: "2014-07-04"
+language: "en"
+item_id: "72949"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5277
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T09:39:46.890000+00:00"
+cases_cited_count: 2
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "5a4926e4471aad0f6786ef99195e220e442b2813ee5864edfafc7625f699c699"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Schaub v. The Queen
+
+- Citation: 2014 TCC 212
+- Decision date: 2014-07-04
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5277, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Schaub v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2014-07-04
+Neutral citation
+2014 TCC 212
+File numbers
+2014-318(IT)I
+Judges and Taxing Officers
+Valerie A. Miller
+Subjects
+Income Tax Act
+Decision Content
+Citation: 2014TCC212
+Date: 20140704
+Docket: 2014-318(IT)I
+BETWEEN:
+PETER SCHAUB,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+(Delivered orally from the bench on June 4, 2014,
+in Vancouver, British Columbia.)
+V.A. Miller J.
+[1] The issue in this appeal is whether pension benefits of $17,781 were properly included in the Appellant’s income for his 2012 taxation year.
+[2] There was no dispute between the parties regarding the relevant facts in this appeal. Those facts were as follows.
+[3] The Appellant immigrated to Canada from Switzerland in 1978 and became a Canadian citizen in 1981. When he lived in Switzerland, he made 190 mandatory monthly contributions to the Swiss pension plan called Alters und Hinterlassenenversicherung (“AHV”). While he was in Switzerland, his monthly contributions to the AHV were matched by his employer.
+[4] It was his evidence that, in 1991, he started his own management consulting company in Vancouver and he decided to “diversify his long-term risk”. In 1993, he started to contribute to the AHV on a voluntary basis. I inferred from his evidence that he made both the employer and employee contributions to the AHV. Although it was very expensive, he made 191 voluntary monthly contributions to the AHV.
+[5] The Appellant stated that he contacted the Canada Revenue Agency in 1993 and was told that he was not allowed to deduct the voluntary contributions he made to the AHV.
+[6] The Appellant started to draw his AHV pension benefits in 2010.
+[7] In 2012, the Appellant included the AHV benefit amounts in income and then claimed a deduction for the benefit amounts. He was initially assessed to include the amount of $17,781 of pension benefits in his income. The assessment was confirmed and the appellant has appealed that confirmation. In his notice of appeal, he raised the following issues:
+a) Clear guidelines for the taxation of voluntary contributions to the AHV for Canadian citizens should be established.
+b) There should be a clear statement whether the voluntary contributions to the AHV can be deducted from the taxable income of Canadian citizens.
+c) He should receive a refund for the missed deductions from the taxable income for the years of voluntary contributions to the AHV.
+[8] At the outset, I must tell the Appellant that I cannot answer the issue raised in (b) nor can I grant the relief he seeks in (c). I cannot order a refund for the years when contributions were made to the AHV and the deduction of those contributions were not allowed. Those years are not before me and I make no decision regarding those issues. With respect to the issue raised in (a) I will decide whether the pension benefits received by the Appellant in 2012 for the AHV had to be included in his income in 2012.
+[9] The relevant provision of the Income Tax Act (“ITA”) is subparagraph 56(1)(a)(i) which reads:
+56(1) Amounts to be included in income for year – Without restricting the generality of section 3, there shall be included in computing the income of a taxpayer for a taxation year,
+(a) pension benefits, unemployment insurance benefits, etc. – any amount received by the taxpayer in the year as, on account or in lieu of payment of, or in satisfaction of,
+(i) a superannuation or pension benefit including, without limiting the generality of the foregoing, …
+[10] According to section 248 of the ITA, the terms “superannuation or pension benefit” include “any amount received out of or under a superannuation or pension fund or plan”. However, section 248 does not define the terms superannuation or pension benefit but it includes any payment made to a beneficiary under a pension fund or plan. The question is whether the AHV is a superannuation or pension fund or plan. The Appellant has described the AHV as being similar to the Canada Pension Plan.
+[11] In Woods v R., 2010 TCC 106 at paragraph 22, Boyle J. relied on the decision of the Supreme Court of Canada in Crown Trust Co. (McArdle Estate) v Minister of National Revenue (1965), 65 DTC 5176 (SCC) to state that one of the characteristics of a superannuation or pension fund or plan is that it entitles a person to a pension upon retirement.
+[12] In R. v Herman (1978), 78 DTC 6311 (FCTD) the issue was whether the taxpayers had to include their monthly pension benefits in income. They argued that the amounts were not benefits received from a superannuation or pension fund or plan because they had not been entitled to deduct their contributions to the fund. The Tax Review Board had allowed the taxpayer’s appeal but the Federal Court found against the taxpayers. It wrote:
+11 … While the learned Chairman clearly states that he realizes that there is no equity in tax law and that he is not basing his decision on that ground, I cannot agree that a pension fund must be limited to one to which contributions are deductible for tax purposes when made. Certainly there was a superannuation or pension fund here, and the regulations which were filed as an exhibit in the present trial make this abundantly clear, and I can find no justification either in the definitions of superannuation or pension benefit in paragraph 139(l)(ar) of the former Act (subsection 248(1) of the present Act) which refers to any amount paid out of a “superannuation or pension fund” in accordance with the terms of the fund, nor elsewhere in either Act, for breaking down such a fund into its elements and holding it is not such a fund with respect to the payments made by a taxpayer into it and not deductible by him from income tax when made, but is nevertheless a superannuation or pension fund with respect to payments made by the employer. While this might seem to be an equitable result, the text of the Act does not give any indication that this can be done.
+…
+13 In taxing superannuation or pension income the Act appears to make no distinction as to the origin of it. It merely taxes all of it when received by a taxpayer resident in Canada and liable to Canadian income tax. …
+[13] Ruparel v Canada, 2012 TCC 268 is a case very similar to the present appeal. There, the taxpayer’s spouse made voluntary contributions to the U.K. National Insurance plan. The voluntary contributions were not deductible from income when they were made. The taxpayer received the benefits under the plan but she claimed a deduction for the amounts equal to the voluntary contributions made by her spouse. In dismissing her appeal, Webb J., as he then was, stated that there were no provisions in the ITA which provided for the deduction of the capital elements of pension payments. This is true in the present situation. In Ruparel, the benefits received by the taxpayer were included in income under section 56 of the ITA.
+[14] The convention between Canada and Switzerland for the Avoidance of Double Taxation with respect to Taxes on Income and on Capital (the “Treaty”) does not prohibit the taxation of these pension benefits by Canada. Article 18 of the Treaty allows Switzerland to tax the pension benefits at 15% of the gross amount of the payment. The Appellant has stated that no taxes were charged in Switzerland. However, if they had been charged, the Appellant could have claimed a foreign tax credit in Canada.
+[15] I have concluded that the amounts received by the Appellant from the AHV were superannuation or pension benefits and they had to be included in his income in accordance with subparagraph 56(1)(a)(i) of the ITA regardless that he was unable to deduct the contributions to the AHV when he made them. The appeal is dismissed.
+Signed at Ottawa, Canada, this 4th day of July 2014.
+“V.A. Miller”
+V.A. Miller J.
+CITATION:
+2014TCC212
+COURT FILE NO.:
+2014-318(IT)I
+STYLE OF CAUSE:
+PETER SCHAUB AND THE QUEEN
+PLACE OF HEARING:
+Vancouver, British Columbia
+DATE OF HEARING:
+June 3, 2014
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Valerie Miller
+DATE OF JUDGMENT:
+June 13, 2014
+DATE OF WRITTEN
+REASONS FOR JUDGMENT: July 4, 2014
+APPEARANCES:
+For the Appellant:
+The Appellant Himself
+Counsel for the Respondent:
+Zachary Froese
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

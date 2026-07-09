@@ -1,0 +1,424 @@
+Title: Baldwin c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/97818/index.do
+Corpus path: corpus/cases/tcc/2014/2014-cci-284-97818-baldwin-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2014-09-26
+
+# Baldwin c. La Reine
+
+- Citation: 2014 CCI 284
+- Decision date: 2014-09-26
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5169, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Baldwin c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2014-09-26
+Référence neutre
+2014 CCI 284
+Numéro de dossier
+2012-1920(IT)I, 2012-2035(IT)I, 2012-2042(IT)I, 2012-2252(IT)I, 2012-2609(IT)
+Juges et Officiers taxateurs
+Valerie A. Miller
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2012-2252(IT)I
+ENTRE :
+LAURA BALDWIN,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu sur preuve commune avec les appels de
+Virginia Forsythe 2012-2042(IT)I; de Carrie Martin 2012-2035(IT)I; de Diane Sheridan 2012-2609(IT)I et d’Art Zoccole 2012-1920(IT)I du 13 au 17 janvier 2014 et les 26 et 27 février 2014, à Toronto (Ontario)
+Devant : L’honorable juge Valerie Miller
+Comparutions :
+Avocat de l’appelante :
+Me James Fyshe
+Avocats de l’intimée :
+Me Laurent Bartleman
+Me Gordon Bourgard
+JUGEMENT
+L’appel interjeté à l’encontre de la nouvelle cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2010 de l’appelante est rejeté.
+Aucuns dépens ne sont adjugés en l’espèce.
+Signé à Halifax (Nouvelle-Écosse), ce 26e jour de septembre 2014.
+« V.A. Miller »
+Juge V.A. Miller
+Traduction certifiée conforme
+ce 6e jour de janvier 2015.
+M.-C. Gervais
+Dossier : 2012-2042(IT)I
+ENTRE :
+VIRGINIA FORSYTHE,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu sur preuve commune avec les appels de Laura Baldwin 2012-2252(IT)I; de Carrie Martin 2012-2035(IT)I; de Diane Sheridan 2012-2609(IT)I et d’Art Zoccole 2012-1920(IT)I du 13 au 17 janvier 2014 et les 26 et 27 février 2014, à Toronto (Ontario)
+Devant : L’honorable juge Valerie Miller
+Comparutions :
+Avocat de l’appelante :
+Me James Fyshe
+Avocats de l’intimée :
+Me Laurent Bartleman
+Me Gordon Bourgard
+JUGEMENT
+L’appel interjeté à l’encontre de la nouvelle cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2010 de l’appelante est rejeté.
+Aucuns dépens ne sont adjugés en l’espèce.
+Signé à Halifax (Nouvelle-Écosse), ce 26e jour de septembre 2014.
+« V.A. Miller »
+Juge V.A. Miller
+Traduction certifiée conforme
+ce 6e jour de janvier 2015.
+M.-C. Gervais
+Dossier : 2012-2035(IT)I
+ENTRE :
+CARRIE MARTIN,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu sur preuve commune avec les appels de Laura Baldwin 2012-2252(IT)I; de Virginia Forsythe 2012-2042(IT)I; de Diane Sheridan 2012-2609(IT)I et d’Art Zoccole 2012-1920(IT)I du 13 au 17 janvier 2014 et les 26 et 27 février 2014, à Toronto (Ontario)
+Devant : L’honorable juge Valerie Miller
+Comparutions :
+Avocat de l’appelante :
+Me James Fyshe
+Avocats de l’intimée :
+Me Laurent Bartleman
+Me Gordon Bourgard
+JUGEMENT
+L’appel interjeté à l’encontre de la nouvelle cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2010 de l’appelante est rejeté.
+Aucuns dépens ne sont adjugés en l’espèce.
+Signé à Halifax (Nouvelle-Écosse), ce 26e jour de septembre 2014.
+« V.A. Miller »
+Juge V.A. Miller
+Traduction certifiée conforme
+ce 6e jour de janvier 2015.
+M.-C. Gervais
+Dossier : 2012-2609(IT)I
+ENTRE :
+DIANE SHERIDAN,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu sur preuve commune avec les appels de Laura Baldwin 2012-2252(IT)I; de Virginia Forsythe 2012-2042(IT)I; de Carrie Martin 2012-2035(IT)I; et d’Art Zoccole 2012-1920(IT)I du 13 au 17 janvier 2014 et les 26 et 27 février 2014, à Toronto (Ontario)
+Devant : L’honorable juge Valerie Miller
+Comparutions :
+Avocat de l’appelante :
+Me James Fyshe
+Avocats de l’intimée :
+Me Laurent Bartleman
+Me Gordon Bourgard
+JUGEMENT
+L’appel interjeté à l’encontre de la nouvelle cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2010 de l’appelante est rejeté.
+Aucuns dépens ne sont adjugés en l’espèce.
+Signé à Halifax (Nouvelle-Écosse), ce 26e jour de septembre 2014.
+« V.A. Miller »
+Juge V.A. Miller
+Traduction certifiée conforme
+ce 6e jour de janvier 2015.
+M.-C. Gervais
+Dossier : 2012-1920(IT)I
+ENTRE :
+ART ZOCCOLE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu sur preuve commune avec les appels de Laura Baldwin 2012-2252(IT)I; de Virginia Forsythe 2012-2042(IT)I; de Carrie Martin 2012-2035(IT)I et de Diane Sheridan 2012-2609(IT)I du 13 au 17 janvier 2014 et les 26 et 27 février 2014, à Toronto (Ontario)
+Devant : L’honorable juge Valerie Miller
+Comparutions :
+Avocat de l’appelant :
+Me James Fyshe
+Avocats de l’intimée :
+Me Laurent Bartleman
+Me Gordon Bourgard
+JUGEMENT
+L’appel interjeté à l’encontre de la nouvelle cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2010 de l’appelant est rejeté.
+Aucuns dépens ne sont adjugés en l’espèce.
+Signé à Halifax (Nouvelle-Écosse), ce 26e jour de septembre 2014.
+« V.A. Miller »
+Juge V.A. Miller
+Traduction certifiée conforme
+ce 6e jour de janvier 2015.
+M.-C. Gervais
+Référence : 2014 CCI 284
+Date : 20140926
+Dossier : 2012-2252(IT)I
+ENTRE :
+LAURA BALDWIN,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2012-2042(IT)I
+ET ENTRE :
+VIRGINIA FORSYTHE,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2012-2035(IT)I
+ET ENTRE :
+CARRIE MARTIN,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2012-2609(IT)I
+ET ENTRE :
+DIANE SHERIDAN,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2012-1920(IT)I
+ET ENTRE :
+ART ZOCCOLE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge V.A. Miller
+[1] Chacun des appelants travaillait pour Native Leasing Services (« NLS »), et leurs appels ont été entendus consécutivement. La question dans chaque appel est celle de savoir si le revenu d’emploi tiré par les appelants de NLS au cours de la période pertinente constituait des biens meubles d’un Indien situés sur une réserve au sens de l’article 87 de la Loi sur les Indiens et étaient par conséquent exonérés d’impôt au titre de la Loi de l’impôt sur le revenu.
+[2] Les éléments de preuve relatifs à NLS ont été présentés sous forme d’exposé conjoint des faits. Je les résume plus loin. Un exposé conjoint des faits a également été soumis pour chacun des appelants et j’ai intégré ces faits aux éléments de preuve exposés dans chacun des appels.
+[3] Dans la présente décision, j’englobe tous les Indiens (tant les Indiens inscrits que les Indiens non inscrits), les Métis et les Inuits dans le terme « autochtones ».
+Les appelants [4] Je décrirai brièvement chacun des appelants dans la présente section de ma décision et discuterai en détail de leur situation par rapport aux « facteurs de rattachement » dans la section de ma décision consacrée à mon analyse.
+Art Zoccole [5] L’appel d’Art Zoccole concerne son année d’imposition 2010. Son obligation fiscale a été calculée le 24 mai 2011 de manière à inclure dans ses revenus le montant de 64 911 $, en l’occurrence, ses revenus d’emploi provenant de NLS.
+[6] M. Zoccole est membre de la réserve de la Première Nation du Lac Des Mille Lacs. En 2010, il vivait à Toronto, où il travaillait comme directeur administratif de 2-Spirited People of the 1st Nations (« 2-Spirited »).
+[7] M. Zoccole travaille pour NLS depuis 2000. Aux termes de son contrat de travail avec NLS, il a été nommé directeur administratif de 2‑Spirited le 1er avril 2003. Sa description de travail a été annexée à son contrat de travail.
+Laura Baldwin [8] Laura Baldwin est membre de la Première Nation de Whitefish River de Birch Island, en Ontario.
+[9] Son appel concerne son année d’imposition 2010. Le montant de son obligation fiscale a été établi et confirmé en partant du principe que les revenus de 22 788 $ qu’elle avait tirés de NLS étaient imposables.
+[10] En 2010, Mme Baldwin vivait à Toronto. Elle offrait ses services comme agente de relation avec les locataires et commis à la paye auprès de Nishnawbe Homes Incorporated par l’intermédiaire de NLS (« Nishnawbe Homes ») et elle travaillait dans les locaux de Nishnawbe Homes, au 244, rue Church, au centre‑ville de Toronto.
+Virginia Forsythe [11] Virginia Forsythe est une Indienne inscrite et elle est membre de la Première Nation Wahgoshig située près de Matheson, en Ontario. En 2010, elle vivait à Cochrane, en Ontario.
+[12] Mme Forsythe travaille pour NLS depuis le 4 novembre 1999, où elle occupe le poste de coordonnatrice VIH/sida auprès de l’Association des Métis autochtones de l’Ontario.
+[13] Le 1er avril 2005, NLS a signé une entente de placement auprès de la Stratégie ontarienne de lutte contre le VIH et le sida à l’intention des Autochtones (la « SOLVSA ») en vue de lui fournir des employés pour divers postes, y compris celui de coordonnateur VIH/sida. Mme Forsythe occupait ce poste en 2010 au sein de la SOLVSA et travaillait à son bureau de Cochrane (Ontario).
+[14] Elle a reçu un avis de cotisation daté du 16 juin 2011 dans lequel était inclus dans ses revenus pour 2010 un montant de 54 275 $, soit ses revenus provenant de NLS.
+Carrie Martin [15] Carrie Martin est une Indienne inscrite membre de la Bande indienne Listuguj Mi’gmaq Government. En 2010, elle vivait à LaSalle (Québec), un des arrondissements de la ville de Montréal.
+[16] En 2010, elle a tiré un revenu d’emploi de 41 519,69 $ de NLS.
+[17] Dans le cadre de son emploi chez NLS, Mme Martin offrait en 2010 divers services au Foyer pour femmes autochtones de Montréal (le « FFAM »). Aux termes de l’entente de placement conclue avec le FFAM le 8 mai 1992, NLS offre au FFAM les services d’employés pour divers postes.
+[18] Mme Martin a conclu une série de contrats de travail avec NLS. En 2010, elle travaillait comme coordonnatrice en réduction des méfaits et coordonnatrice en évaluation pour la Fondation autochtone de guérison du FFAM.
+Diane Sheridan [19] Diane Sheridan est une Indienne inscrite membre de la Première Nation Hiawatha. Son appel concerne son année d’imposition 2009 au cours duquel elle a gagné 16 275 $ dans le cadre de son emploi chez NLS. En 2009, elle a travaillé pour NLS du 23 février au 10 juillet, où elle exerçait les fonctions d’intervenante dans le cadre du programme Bébés en santé, enfants en santé. Elle a été recrutée par NLS pour exercer ses fonctions par l’entremise du Centre d’amitié autochtone de Barrie (le « Centre d’amitié »), situé à Barrie, en Ontario.
+[20] En 2009, elle avait une résidence dans la réserve de la Première Nation Hiawatha. Elle vivait toutefois dans un sous-sol à Barrie du lundi au vendredi et rentrait chez elle dans la réserve de la Première Nation Hiawatha le vendredi après le travail. Elle revenait à Barrie le dimanche ou le lundi matin selon le temps qu’il faisait. Elle a insisté pour dire que sa résidence principale était située dans la réserve de la Première Nation Hiawatha, mais qu’elle se servait malgré tout du Centre d’amitié comme adresse postale. Elle avait un bureau au Centre d’amitié de Barrie.
+L’employeur NLS [21] Roger Obonsawin est un Indien inscrit membre de la Première Nation d’Odanak dont la réserve est située à Odanak, au Québec. Bien qu’il ne soit pas membre de la Première Nation des Six Nations, il a élu domicile dans la réserve des Six Nations. Suivant l’exposé conjoint des faits, une des raisons pour laquelle il a élu domicile à cet endroit était le [traduction] « litige fiscal ».
+[22] M. Obonsawin exploite deux entreprises, NLS et O.I. Employee Leasing Inc. (« OIEL »). Les deux entreprises offrent divers services administratifs à des organismes. Les deux entreprises sont des entités à but lucratif. NLS est exploitée par M. Obonsawin en tant qu’entreprise individuelle et OIEL est une entreprise constituée en personne morale dont M. Obonsawin est le président et l’unique actionnaire. Ces entreprises offrent les mêmes services, mais à différents types d’organismes. NLS offre des services de placement à des organismes autochtones à but non lucratif, tandis que OIEL offre des services à des entreprises à but lucratif offrant des programmes tant à des groupes autochtones qu’à des groupes non autochtones.
+[23] NLS offre aux organismes divers services de soutien, notamment des services de paye et de soutien en matière de ressources humaines, ainsi que des services de location/impartition de personnel, des services de tenue de livres et des services de dotation en personnel.
+[24] NLS désigne le placement d’employés au sein d’organismes sous le nom de « service de louages de services d’employés » et désigne les organismes sous le nom d’« organismes de placement ». Dans la plupart des cas, il existe déjà une relation employeur-employé entre l’organisme de placement et l’employé. Pour pouvoir changer d’employeur, l’employé signe un contrat avec NLS et signe une renonciation en faveur de l’organisme de placement, son ancien employeur. Suivant son concept de louage de services d’employés, NLS loue les services d’un employé à un organisme de placement et offre tous les services de soutien en matière de ressources humaines et les services administratifs en tant qu’employeur. J’appellerai ces employés les employés ou les « employés dont les services sont loués » pour les distinguer du personnel administratif employé par NLS.
+[25] La plupart des organismes de placement sont dirigés par des conseils d’administration. Bon nombre d’entre eux sont des centres d’amitié, des refuges et des organismes de santé exploités au profit des Autochtones et financés par le gouvernement. NLS ne comptait aucun représentant au sein des conseils d’administration des organismes de placement en 2009 et en 2010, la période en cause dans les présents appels. NLS ne déterminait pas les objectifs des organismes de placement et n’avait pas de connaissance directe des ententes de financement conclues entre les organismes de placement et les bailleurs de fonds gouvernementaux. NLS n’était partie à aucun des contrats portant sur les services offerts par des organismes de placement. Elle s’occupait uniquement de l’administration des ressources humaines de ses employés aux organismes de placement.
+[26] Les organismes de placement sont chargés d’offrir leurs services et d’établir leurs objectifs.
+[27] Les employés dont NLS loue les services se présentent chaque jour devant un superviseur choisi de concert par NLS et l’organisme de placement. Les employés reçoivent leurs instructions et leurs directives de ce superviseur en ce qui concerne leurs fonctions. Ils relèvent des organismes de placement et sont supervisés par eux. En cas de problème avec un employé, l’organisme de placement appelle NLS.
+[28] Pour être payés, les employés remplissent une feuille de temps qui est approuvée par un superviseur qui se trouve sur place à l’établissement de l’organisme de placement. Un résumé des feuilles de temps est envoyé au bureau de NLS une semaine avant le jour de paye des employés. NLS prépare ensuite des factures qu’elle transmet aux organismes de placement. Sont inclus dans le montant de ces factures la rémunération des employés, les frais de service de NLS, ainsi que les montants relatifs au Régime de pensions du Canada et à l’assurance‑emploi et les cotisations à la commission des accidents du travail.
+[29] NLS facturait des frais de service de 5 p. 100 (parfois 6 p. 100) calculés sur les coûts supportés par l’organisme de placement, en tenant compte des frais en question. Ces frais de service étaient parfois payés par l’organisme de placement ou par l’employé lorsque l’organisme de placement n’avait pas les moyens de les acquitter. Lorsqu’ils étaient assumés par l’organisme de placement, les frais de service étaient ajoutés à sa facture. Si l’employé les payait, ces frais étaient déduits de son salaire.
+[30] NLS a un compte de résultat à la succursale de la CIBC située dans la réserve de Hobbema, en Alberta. Selon le mécanisme prévu pour fournir les services de paye, l’organisme de placement devait ouvrir un compte bancaire à la CIBC près de son établissement commercial et effectuer des paiements au moyen du service Virexpress dans le compte de cette succursale de la CIBC conformément à son entente avec NLS. Pour 2009 et 2010, les nouveaux organismes de placement avaient des ententes de paiement de ces montants au moyen de prélèvements automatiques dans leur compte.
+[31] Les principales fonctions de NLS sont effectuées à son bureau de la réserve des Six Nations. Son personnel administratif vérifiait les feuilles de temps reçues des organismes de placement, inscrivait les renseignements dans le système de feuilles de paye, calculait les montants se rapportant aux payes de vacances et déposait par virement électronique le salaire des employés.
+[32] NLS payait le salaire de chacun des appelants à partir de son bureau de la réserve des Six Nations. Le salaire de chacun des appelants était déposé dans son compte bancaire, qui était également situé dans une réserve. Chacun des appelants traitait le revenu qu’il recevait de NLS comme un revenu exonéré d’impôt.
+[33] À l’occasion, NLS offrait de la formation aux employés sous forme d’ateliers. Cette formation était habituellement offerte à l’extérieur de la réserve et était achetée à des entreprises commerciales tierces non autochtones, qui la dispensait. En 2009 et en 2010, la somme totale consacrée à la formation dispensée à l’extérieur de la réserve se chiffrait à 2 274 $. Toutefois en 2009 et 2010, le personnel de NLS a offert tout au plus trois ateliers de formation gratuits aux employés dont les services étaient loués.
+[34] Le personnel administratif de NLS dressait une liste d’ateliers offerts, et envoyait cette liste aux employés dont les services étaient loués. Il s’agissait la plupart du temps de colloques d’une durée d’une ou deux journées de caractère général portant sur certaines habiletés utiles pour les organismes de placement.
+[35] Les organismes de placement offraient également de la formation directe aux employés dont les services étaient loués.
+[36] Seul le personnel administratif de NLS offrait des services dans la réserve des Six Nations. Les employés dont les services étaient loués n’offraient pas de services dans la réserve des Six Nations. En 2009, NLS comptait 477 employés dont les services étaient loués. En 2010, NLS disposait de 365 employés dont les services étaient loués. Presque sans exception, ces employés offraient principalement leurs services à l’extérieur de la réserve. En 2009, il y avait 11 membres du personnel administratif dans les bureaux de NLS et, en 2010, le personnel administratif comptait 13 membres.
+[37] Les frais de service que NLS tirait des organismes de placement à l’extérieur des réserves étaient sa seule source de revenus.
+[38] Bien que l’impôt sur le revenu ne fût pas, au départ, la seule raison pour laquelle le modèle de location des employés a été créé, M. Obonsawin a pensé, après avoir pris connaissance de l’arrêt Nowegijick c La Reine, [1983] 1 RCS 29, que, s’il exploitait son entreprise de louage de services d’employés à partir d’une réserve, les revenus gagnés par ses employés seraient exonérés d’impôt. C’est une des raisons pour laquelle NLS s’est établie dans une réserve et que ses fonctions principales et ses dossiers étaient gérés dans une réserve.
+La thèse des appelants en ce qui concerne l’interprétation de l’article 87 de la Loi sur les Indiens [39] La thèse des appelants est que la règle de common law en ce qui concerne le situs de la dette qui a été appliqué dans l’arrêt Nowegijick s’applique toujours en ce qui concerne l’emplacement du revenu d’emploi pour l’application de l’article 87 de la Loi sur les Indiens. L’avocat des appelants soutient que, dans l’arrêt Williams c Canada, [1992] 1 RCS 877, la Cour suprême du Canada n’a pas expressément écarté l’arrêt Nowegijick. Dans l’arrêt Williams, le juge Gonthier a plutôt formulé l’observation suivante au paragraphe 32 :
+[…] Il se peut que la résidence du débiteur demeure un facteur important, voire même le seul. Toutefois, on ne peut arriver directement à cette conclusion à partir d’une analyse de la façon dont le droit international privé tranche cette question.
+[40] L’avocat des appelants fait valoir que le juge Gonthier a tenu pour acquis à tort que le principe du situs de la dette tirait son origine du droit international privé. L’avocat a déclaré que le principe faisait partie de la common law et que l’on pouvait en trouver les origines au moins au XVIe siècle dans le droit des successions. Bien que la Cour suprême du Canada ait affirmé à plusieurs reprises qu’il convenait d’adopter une méthode libérale et téléologique pour interpréter les lois concernant les peuples autochtones, cette méthode ne devrait pas exclure l’application d’autres principes. En particulier, lorsqu’on interprète une disposition législative, on doit présumer que le législateur n’avait pas l’intention de modifier le droit existant ou de déroger aux principes établis de common law.
+[41] Dans ses observations écrites, après avoir analysé l’arrêt Succession Bastien c Canada, 2011 CSC 38, et après avoir discuté de l’arrêt McDiarmid Lumber Ltd c Première Nation de God’s Lake, 2006 CSC 58, l’avocat des appelants conclut ce qui suit :
+[traduction]
+1. La méthode qui est énoncée dans l’arrêt Williams pour déterminer l’emplacement du bien et qui est fondée sur les « facteurs de rattachement » n’est pas applicable dans tous les cas. En particulier, s’il est possible de déterminer l’emplacement du bien en appliquant les « règles d’interprétation classiques de la common law », il ne sera alors pas nécessaire d’invoquer le critère des « facteurs de rattachement ».
+2. Il s’ensuit que, par défaut, ce sont les « règles d’interprétation classiques de la common law » qui s’appliquent lorsqu’il s’agit de déterminer l’emplacement des biens pour l’application de l’article 87.
+3. Dans ces conditions, il incombe à celui qui souhaite invoquer d’autres facteurs de démontrer les raisons pour lesquelles les « règles d’interprétation classiques de la common law » ne s’appliquent pas. Dans le cas qui nous occupe, il s’ensuit qu’il incombe à la Couronne de démontrer les raisons pour lesquelles la règle de common law ne convient pas.
+[42] L’avocat des appelants conclut que, lorsqu’on applique la règle de common law relative au situs d’une dette aux faits des présents appels, on constate que les salaires des appelants sont situés dans une réserve où leur employeur, NLS, a ses bureaux. À titre subsidiaire, s’il y a lieu d’appliquer le critère des « facteurs de rattachement », les facteurs pertinents sont le lieu où la dette relative au salaire en question est recouvrable, le lieu du paiement et le lieu du contrat. Or, tous ces lieux se trouvent dans la réserve des Six Nations, tout comme les salaires des appelants.
+La thèse de l’intimée en ce qui concerne l’interprétation de l’article 87 de la Loi sur les Indiens [43] L’intimée affirme que le critère des « facteurs de rattachement » qui a été énoncé dans l’arrêt Williams et confirmé par la Cour suprême du Canada dans l’arrêt Bastien est le critère qui doit être appliqué pour déterminer l’emplacement d’un bien pour l’application de l’article 87 de la Loi sur les Indiens.
+Dispositions législatives applicables [44] L’alinéa 87(1)b) de la Loi sur les Indiens dispose :
+87. (1) Nonobstant toute autre loi fédérale ou provinciale, mais sous réserve de l’article 83 et de l’article 5 de la Loi sur la gestion financière des premières nations, les biens suivants sont exemptés de taxation :
+[…]
+b) les biens meubles d’un Indien ou d’une bande situés sur une réserve.
+[45] L’exemption prévue dans la Loi sur les Indiens est incorporée dans la Loi de l’impôt sur le revenu, à l’alinéa 81(1)a), qui dispose notamment ce qui suit :
+81(1) Ne sont pas inclus dans le calcul du revenu d’un contribuable pour une année d’imposition :
+a) une somme exonérée de l’impôt sur le revenu par toute autre loi fédérale [...]
+[46] Il a été décidé dans l’arrêt Nowegijick que les revenus étaient à la fois des biens meubles et des biens intangibles. La seule question à trancher dans les présents appels est celle de savoir si les revenus d’emploi de chaque appelant sont « situés sur une réserve ».
+[47] Je ne suis pas d’accord avec les appelants pour dire que le situs de la dette constitue le critère approprié pour trancher cette question. Si j’ai bien compris l’arrêt Williams, le « critère de la résidence du débiteur » appliqué dans l’arrêt Nowegijick pour trancher la question de savoir si le revenu était « situé sur une réserve » ne s’applique plus dans le contexte de l’article 87 de la Loi sur les Indiens. À cet égard, voici ce que le juge Gonthier a déclaré dans l’arrêt Williams :
+25 Selon la jurisprudence antérieure, la résidence du débiteur, c’est‑à‑dire la personne qui paie le revenu, constitue un facteur d’importance primordiale lorsqu’il s’agit de déterminer le situs de ce genre de bien.
+[…]
+27 La seule justification mentionnée, dans ces arrêts, à l’appui du choix de la résidence du débiteur comme situs d’une dette est qu’il s’agit là de la règle appliquée en droit international privé. La justification de cette règle en droit international privé est que c’est à la résidence du débiteur que l’on peut normalement faire exécuter le paiement d’une dette.
+[…]
+28 […] Cela peut être raisonnable pour les fins générales du droit international privé. Cependant, il faut s’interroger sur son utilité aux fins qui sous‑tendent l’exemption fiscale prévue dans la Loi sur les Indiens.
+[…]
+32 En répondant à cette question, il est évident qu’il serait complètement contraire à l’économie et aux objets de la Loi sur les Indiens et de la Loi de l’impôt sur le revenu d’adopter simplement les principes généraux du droit international privé dans le présent contexte. En effet, les objets du droit international privé ont peu sinon rien en commun avec ceux qui sous‑tendent la Loi sur les Indiens. On ne voit pas en quoi le lieu d’exécution normal d’une dette est pertinent pour décider si l’imposition de la réception du paiement de la dette représenterait une atteinte aux droits détenus par un Indien à titre d’Indien sur une réserve. Le critère du situs en vertu de la Loi sur les Indiens doit être interprété conformément aux objets de cette loi et non à ceux du droit international privé. En conséquence, il faut réexaminer attentivement, en fonction des objets de la Loi sur les Indiens, si l’on doit retenir la résidence du débiteur comme facteur exclusif pour déterminer le situs de prestations comme celles qui ont été versées en l’espèce. Il se peut que la résidence du débiteur demeure un facteur important, voire même le seul. Toutefois, on ne peut arriver directement à cette conclusion à partir d’une analyse de la façon dont le droit international privé tranche cette question. [Non souligné dans l’original.]
+[48] Il importe peu que la règle du « situs de la dette » tire historiquement ses origines de la common law ou du droit international privé. La Cour suprême du Canada nous enseigne que, pour décider si un bien est « situé sur une réserve », il faut tenir compte de l’objet de la Loi sur les Indiens et de la Loi de l’impôt sur le revenu.
+[49] Pour conclure que le critère des « facteurs de rattachement » était celui qui était approprié pour décider si les revenus étaient « situés sur une réserve » pour l’application de l’article 87, le juge Gonthier n’a pas limité l’application du critère aux prestations d’assurance-chômage. Il a plutôt envisagé la possibilité que le « critère des facteurs de rattachement » puisse s’appliquer à tout type de revenu. Cette interprétation a été confirmée par la Cour suprême du Canada dans l’arrêt Bastien, dans lequel la Cour a déclaré que le critère des « facteurs de rattachement » s’appliquait pour déterminer l’emplacement d’un bien meuble immatériel, autrement dit que le critère s’appliquait à tous les types de revenus. Dans l’arrêt Bastien, le juge Cromwell a expliqué ce qui suit :
+2 […] On détermine l’emplacement d’un bien meuble immatériel, comme le revenu en intérêts en cause en l’espèce, en effectuant une analyse en deux étapes. D’abord, on relève les facteurs potentiellement pertinents qui tendent à rattacher le bien à un emplacement, puis on détermine le poids qui doit leur être accordé pour établir l’emplacement du bien, en tenant compte de trois éléments : l’objet de l’exemption fiscale, le genre de bien et la nature de l’imposition du bien. […]
+[...]
+16 Lorsque l’emplacement d’un bien n’est pas facile à déterminer d’un point de vue objectif, en raison de la nature du bien ou du type d’exemption dont il est question, les tribunaux doivent appliquer la méthode des facteurs de rattachement décrite dans Williams c. Canada, [1992] 1 R.C.S. 877, pour déterminer où le bien est situé. Même si elle peut parfois sembler relever davantage de la métaphysique que du droit, la recherche de l’emplacement d’un bien est ce qu’exige la Loi sur les Indiens. Vu la complexité de cet exercice, il n’est généralement pas possible d’appliquer un test simple, standardisé, pour décider où se situe un bien immatériel. […]
+[50] Dans l’arrêt Williams puis de nouveau dans l’arrêt Bastien, la Cour suprême du Canada a expliqué qu’il fallait éviter d’appliquer un seul critère ou encore un critère qui ne comportait qu’un ou deux facteurs parce qu’un tel critère donnerait ouverture à des manipulations et à des abus.
+[51] La thèse des appelants n’est pas nouvelle. Ce n’est pas la première fois que cet argument est formulé dans un appel dans lequel NLS est un employeur. À titre d’exemple, citons les affaires Horn et autres c La Reine, 2008 CAF 352; Hester c La Reine, 2010 CCI 647 et Baptiste c La Reine, 2011 CCI 295. Dans chacune de ces affaires, comme dans la présente, cet argument a été jugé mal fondé. Dans son arrêt récent Succession de Charles Pilfold c La Reine, 2014 CAF 97, la Cour d’appel fédérale a confirmé que, pour l’application de l’article 87, lorsqu’on recherche le situs du revenu « il faut [...] prendre en considération tous les facteurs relatifs au revenu, notamment le cadre juridique formel par l’intermédiaire duquel est reçu le revenu ».
+[52] L’argument invoqué par les appelants au sujet du critère applicable à l’interprétation de l’article 87 de la Loi sur les Indiens est mal fondé.
+[53] Suivant l’arrêt Bastien, la première étape consiste à relever les facteurs potentiellement pertinents qui tendent à rattacher le bien à un emplacement. La seconde étape consiste à déterminer le poids qui doit être accordé à chaque facteur en tenant compte de l’objet de l’exemption fiscale, du genre de bien et de la nature de l’imposition du bien.
+Les « facteurs de rattachement » [54] Dans l’affaire Desnomie c R, [1998] 4 CTC 2207 (CCI), le juge Archambault a tenu compte des « facteurs de rattachement » suivants pour décider si un revenu d’emploi était « situé sur une réserve » :
+1. la résidence de l’employeur;
+2. la résidence de l’employé;
+3. le lieu où l’employé était payé;
+4. le lieu où le travail a été accompli;
+5. la nature des services fournis ou les circonstances particulières dans lesquelles ils ont été fournis.
+La décision du juge Archambault a été confirmée par la Cour d’appel fédérale ([2000] 3 CTC 6) (autorisation d’appel à la Cour suprême du Canada (265 NR 398) refusée). Je suis d’avis que ces facteurs continuent à s’appliquer aux revenus d’emploi dans le cadre d’une analyse fondée sur l’article 87.
+Le genre de bien [55] Chacun des appelants a reçu un salaire en échange des services qu’il a fournis. Le genre de bien en litige dans le présent appel est un revenu d’emploi.
+La nature de l’imposition du bien [56] Le revenu d’emploi est imposé en vertu du paragraphe 5(1) de la Loi de l’impôt sur le revenu. Il est imposable dès sa réception.
+L’objet de l’exemption fiscale [57] L’exemption vise à préserver les droits des Indiens sur leurs terres réservées et à assurer que la capacité des gouvernements d’imposer des taxes ne porte pas atteinte à l’utilisation de leurs biens situés dans leurs terres réservées (Williams, au paragraphe 16, confirmé par l’arrêt Bastien, au paragraphe 23). La Cour suprême du Canada et la Cour d’appel fédérale nous enseignent que les principes suivants sont importants et qu’il convient de s’en souvenir dans toute analyse fondée sur l’article 87.
+1. L’expression « situé sur une réserve » doit être interprétée de façon uniforme partout dans la Loi sur les Indiens comme voulant dire « à l’intérieur des limites de la réserve » (Union of New Brunswick Indians c Nouveau‑Brunswick (Ministre des Finances), [1998] RCS 1161).
+2. Tant le juge Gonthier dans l’arrêt Williams que le juge LaForest dans l’arrêt Mitchell c Bande indienne de Sandy Bay, [1990] 2 RCS 85, ont tenu à préciser que la loi ne vise pas à conférer un avantage économique général aux Indiens en leur assurant le pouvoir d’acquérir, de posséder et d’aliéner des biens sur le marché à des conditions différentes de celles applicables à leurs concitoyens.
+3. La possibilité de bénéficier de l’exemption ne dépend pas de la question de savoir si le bien fait partie intégrante du mode de vie dans la réserve ou qu’elle a un effet bénéfique sur le mode de vie traditionnel des Autochtones.
+4. L’exigence énoncée à l’article 87 a pour objet de « déterminer si l’Indien détient les biens en question en vertu des droits qu’il possède à titre d’Indien sur la réserve » (Williams, au paragraphe 19).
+5. Il ne s’agit pas de savoir si le propriétaire du bien est situé dans une réserve, mais si le bien l’est (Kelly c Canada, 2013 CAF 171, au paragraphe 52).
+6. Il est important d’éviter soigneusement d’attribuer au facteur du marché ordinaire un poids « qui aurait pour effet d’entraver l’objet de l’article 87 » (Kelly, au paragraphe 64).
+Analyse [58] J’aborderai globalement les facteurs concernant l’« emplacement de l’employeur », le « lieu où les appelants étaient payés » et la « résidence des appelants », étant donné que les faits concernant ces facteurs sont les mêmes pour tous les appelants, sauf en ce qui concerne Diane Sheridan, qui avait une résidence dans la réserve. J’inclurai également une analyse des faits concernant la résidence de Mme Sheridan dans la section que j’ai intitulée « La résidence des appelants ». J’aborderai ensuite les autres facteurs de rattachement pour chacun des appelants individuellement quant à la nature de leur emploi et aux services qu’ils ont fournis qui étaient différents des autres appelants.
+L’emplacement de l’employeur [59] Suivant l’arrêt Williams, l’emplacement de l’employeur est un facteur qu’il faut analyser dans le cadre du critère des facteurs de rattachement. Toutefois, en l’absence d’une preuve au sujet de l’importance des activités de l’employeur dans la réserve, ou d’un bénéfice pour la réserve du fait de la présence de l’employeur, il n’y a pas lieu d’accorder beaucoup de poids à ce facteur (La Reine c. Monias, 2001 CAF 239, au paragraphe 50).
+[60] NLS a choisi d’établir son bureau dans la réserve des Six Nations. Les fonctions principales de ses activités de louage de services d’employés – gestion des ressources humaines, gestion de la liste de paye et des avantages sociaux, facturation et comptabilité, et soutien administratif général – sont exercées à partir de ce bureau. Tous les dossiers de NLS, y compris ceux concernant le personnel et les finances, sont conservés dans la réserve.
+[61] Les accords de placement signés avec les organismes de placement et les contrats de travail conclus avec les appelants ont tous été signés dans la réserve des Six Nations.
+[62] En ce qui concerne plus précisément les employés dont les services étaient loués, NLS offrait les services suivants :
+a) si un organisme de placement acceptait la suggestion de NLS et mettait en place un système d’évaluation du rendement, les évaluations étaient effectuées par un superviseur de l’organisme de placement ou par NLS.
+b) En cas de problème avec un employé, l’entente conclue entre l’organisme de placement et NLS exigeait que l’organisme de placement communique avec NLS pour tenter de résoudre le problème. En cas d’impasse, NLS mettait fin aux services de l’employé.
+c) NLS offrait aux employés dont les services étaient loués des avantages sociaux facultatifs, de la formation et du réseautage.
+[63] NLS exerçait ses principales activités sur le territoire de la réserve des Six Nations, mais aucun élément de preuve ne donne à penser que la réserve tirait un avantage des activités de NLS. Les seuls employés de NLS qui travaillaient au bureau de celle‑ci situé dans la réserve des Six Nations étaient ceux de son personnel administratif. En 2009, le personnel administratif de NLS comptait onze membres et en 2010, treize. Rien ne permet de penser que les membres du personnel en question vivaient dans la réserve ou qu’ils étaient des Indiens ou que leur emploi pour NLS procurait un avantage à la réserve.
+[64] La seule source de revenus de NLS provenait des frais qu’elle tirait en proposant des employés aux organismes de placement. Aucun élément de preuve n’a été présenté au sujet des gains ou des profits qu’elle a obtenus en 2009 et en 2010. Aucun élément de preuve n’a été présenté pour démontrer que la présence de NLS dans la réserve des Six Nations aurait procuré un avantage à la réserve. Rien non plus ne permet de penser que NLS a payé de l’argent à la réserve des Six Nations. Elle aurait pu exercer ses activités n’importe où. Rien ne permet de penser que NLS était effectivement « rattachée » à la réserve par le fait qu’elle y avait son bureau.
+[65] Bien que son personnel administratif déposât le salaire des appelants dans leur compte bancaire dans une réserve à partir de la réserve des Six Nations, NLS « se contentait d’agir comme intermédiaire » entre les organismes de placement et les appelants (McIvor c La Reine, 2009 CCI 469, au paragraphe 85). J’accorde peu de poids au fait que NLS avait son compte bancaire à l’intérieur de la réserve. À mon avis, il s’agissait d’un stratagème visant à établir un lien entre le transfert des salaires des appelants de l’organisme de placement et une réserve.
+[66] En conclusion, il existe un faible lien en ce qui concerne l’emplacement de l’employeur, mais j’accorde peu de poids à ce facteur. Le bureau que NLS avait dans la réserve des Six Nations était en réalité un emplacement de convenance, ce qui ne permet pas de rattacher le revenu d’emploi des appelants à une réserve (Monias, au paragraphe 50).
+Le lieu où les appelants étaient payés [67] Chaque appelant était payé sous forme de dépôt de son salaire dans son compte bancaire dans la réserve. Les appelants n’ont pas expliqué pourquoi ils avaient un compte bancaire dans la réserve, et j’ai déduit de la pièce A‑7, onglet 8, qu’il s’agissait d’une condition de leur emploi chez NLS. À mon avis, il s’agissait d’une tentative des appelants et de NLS de manipuler le critère du situs du revenu d’emploi. Je n’ai accordé aucun poids à ce facteur.
+La résidence des appelants [68] Le lieu de résidence peut donc être un facteur pertinent servant à rattacher le revenu d’emploi à une réserve. Il peut indiquer si son revenu d’emploi a été acquis ou utilisé dans la réserve ou non (Monias, au paragraphe 20). Toutefois, le fait que les appelants ne résidaient pas dans une réserve peut également permettre de conclure que leur revenu d’emploi se situait à l’extérieur de la réserve.
+[69] L’arrêt Dubé c La Reine, 2011 CSC 39, nous enseigne que, bien que ce facteur puisse être susceptible d’être pertinent, on devrait lui accorder peu de poids. L’objectif consiste à trouver l’emplacement du revenu d’emploi des appelants et non le lieu où se trouvaient les appelants.
+[70] À l’exception de Diane Sheridan, tous les appelants vivaient à l’extérieur d’une réserve. Dans le cas des appelants qui habitaient à l’extérieur d’une réserve, ce facteur dénote que le revenu d’emploi se situait à l’extérieur d’une réserve, mais j’accorde peu de poids à ce facteur.
+[71] J’accorde également peu de poids à ce facteur dans le cas de Diane Sheridan. Elle habitait Barrie cinq jours par semaine et rentrait chez elle à la réserve de la Première Nation Hiawatha la fin de semaine. Aucun élément de preuve n’a été présenté pour démontrer qu’il existait un lien entre son revenu d’emploi et sa résidence dans la réserve de la Première Nation Hiawatha. Elle rentrait chez elle dans la réserve pour des raisons personnelles et non pour une raison liée à son emploi. Aucun élément de preuve n’a été présenté pour démontrer à quoi elle affectait son revenu d’emploi. Aucun élément de preuve n’a non plus été présenté pour démontrer que son revenu d’emploi procurait un avantage à la réserve.
+L’emplacement et la nature des services fournis et les circonstances particulières dans lesquelles ils ont été fournis [72] L’emplacement et la nature du travail des appelants constituent le facteur le plus important de l’analyse à effectuer dans le cadre de l’article 87, en raison du genre de bien en cause, en l’occurrence des revenus d’emploi. Ces revenus sont tirés par suite des services fournis et, par conséquent, les services eux-mêmes peuvent aider à déterminer l’emplacement. Dans l’arrêt Shilling c Ministre du Revenu national, 2001 CAF 178, la Cour d’appel fédérale a défini ce facteur de la manière suivante :
+49 […] Normalement, il faut tenir compte de la nature de l’emploi dans son ensemble et des circonstances y afférentes en vue de déterminer quel lien existe, le cas échéant, entre l’emploi exercé en dehors d’une réserve et une réserve.
+Art Zoccole [73] En 2010, M. Zoccole travaillait au bureau de 2‑Spirited, au centre-ville de Toronto. En tant que directeur administratif de 2‑Spirited, il coordonnait les activités de cet organisme. Il dirigeait et administrait les activités de cet organisme conformément à ses règlements administratifs et à ses politiques. Il était chargé du recrutement, de la sélection et de la direction de tout le personnel et il s’occupait de la gestion financière et de l’administration de l’organisme.
+[74] 2-Spirited est un organisme de services sociaux à but non lucratif qui offre des services aux autochtones gais, lesbiennes, bisexuels, transgenres et intersexués (« LGBT ») qui vivent avec le VIH ou le sida. Son énoncé de mission précise que ses membres proviennent de la communauté LGBT autochtone de Toronto, tandis que son guide d’information précise qu’il s’adresse à la communauté LGBT autochtone de l’Amérique du Nord.
+[75] M. Zoccole a expliqué que 95 p. 100 des gens à qui 2‑Spirited offre ses services sont des membres des Premières Nations qui proviennent de tous les coins du Canada et qui se rendent à Toronto pour des raisons d’ordre médical ou parce qu’ils ont été victimes de discrimination ou ont été ostracisés dans leur communauté d’origine. En 2010, 70 p. 100 de ses clients vivaient à Toronto. 2‑Spirited offre également des services indirects à des personnes vivant dans des réserves en collaboration avec des groupes œuvrant dans des réserves. À titre d’exemple d’interventions directes de 2‑Spirited, mentionnons le rapatriement de dépouilles. Dans son interrogatoire direct, M. Zoccole a expliqué en quoi consistaient ses fonctions :
+[traduction]
+Mes fonctions sont celles d’un directeur administratif, c’est‑à‑dire superviser les activités de l’organisme, m’assurer que les services que nous devons offrir à, je dirais, des centaines d’Autochtones vivant avec le VIH et le sida à Toronto et ailleurs au Canada, compte tenu du fait que les gens qui ont recours à nos services se trouvent un peu partout au Canada. Nous avons aussi un site Internet sur lequel nous publions des documents pour aider les gens à travailler avec notre communauté et qui est utilisé par les Premières Nations un peu partout au Canada.
+[76] 2-Spirited a été constituée en personne morale en 1995. M. Zoccole était l’un de ses premiers administrateurs. Suivant les documents constitutifs de 2‑Spirited, celui visait notamment les quatre objectifs suivants :
+[traduction]
+(i) sensibiliser la collectivité autochtone et le grand public par des programmes culturels, des rappels historiques et d’autres activités éducatives au sujet du rôle traditionnel des homosexuels, des lesbiennes et des gais et de la place d’honneur qu’ils occupent au sein de la communauté autochtone avant l’arrivée des non‑Autochtones au Canada.
+(ii) offrir une tribune pour sensibiliser le public au sujet de l’histoire, des pratiques, des rôles et des connaissances culturels des Autochtones en général et des personnes autochtones homosexuelles, lesbiennes et gais en particulier qui existaient avant l’arrivée des personnes non autochtones au Canada;
+(iii) promouvoir tous les aspects d’un mode de vie sain et d’une collectivité saine chez les Autochtones, notamment en complétant les activités des services de santé existants et contribuer à prévenir la propagation du virus de l’immunodéficience humaine et d’autres problèmes de santé connexes.
+(iv) améliorer la qualité de vie des personnes autochtones infectées ou affectées par le virus de l’immunodéficience humaine et par d’autres problèmes de santé connexes en leur offrant des soins et des services de soutien, de consultation, de renseignement, de conseils, d’aide et d’appui à eux et à leurs familles et amis tant avant qu’après le décès et en leur offrant des programmes et des projets conçus pour dissiper leur sentiment d’aliénation et d’isolement des autres membres de la communauté.
+[77] En 2010, 2-Spirited a bénéficié d’un financement du Bureau de lutte contre le sida du ministère de la Santé et des Soins de longue durée de l’Ontario (le Bureau de lutte contre le sida) et du Programme de soins de longue durée du Réseau local d’intégration des services de santé. Le plan de programme que 2‑Spirited a présenté au Bureau de lutte contre le sida pour ses exercices 2009‑2010 et 2010-2011 précisait que ses programmes et services prévoyaient la tenue d’ateliers tant pour des organismes autochtones que pour des organismes non autochtones à Toronto, à Thunder Bay, à London, à Windsor et à Kingston, des services de soutien à ses membres, le partage de ses ressources avec des organismes communautaires, la distribution de dépliants sur la prévention du VIH à ses membres ainsi qu’aux communautés des Premières Nations et la participation au projet de recherche autochtone de Toronto. Il visait avant tout à travailler auprès des Autochtones dans les zones urbaines ou rurales. Il n’offrait pas de services dans les réserves.
+[78] En 2010, M. Zoccole ne s’est pas rendu dans des réserves.
+[79] Vu ces faits, l’emploi exercé par M. Zoccole ne révèle l’existence d’aucun lien avec une réserve. Ces services ont été fournis à l’extérieur des réserves et, suivant l’énoncé de mission de 2‑Spirited, les membres de l’organisme étaient censés appartenir à la collectivité autochtone LGBT de Toronto. Le travail qu’il a pu faire pour 2‑Spirited dans les réserves n’était qu’accessoire aux activités principales de 2‑Spirited. L’emplacement, la nature des services fournis par M. Zoccole et les circonstances particulières dans lesquelles ces services ont été fournis font en sorte que son revenu d’emploi se situait à l’extérieur d’une réserve.
+Laura Baldwin [80] En 2010, Mme Baldwin offrait ses services comme agente de relation avec les locataires et commis à la paye auprès de Nishnawbe Homes par l’intermédiaire de NLS aux locaux de Nishnawbe Homes, au 244, rue Church, au centre-ville de Toronto.
+[81] Les fonctions de Mme Baldwin consistaient essentiellement à aider à la gestion de l’immeuble du 244, rue Church. Elle s’occupait notamment de la gestion, de la paye et de l’embauche de personnel, elle faisait passer des entrevues aux futurs locataires, elle fournissait des services de soutien aux locataires, et elle s’occupait des tâches du secrétariat et de la réception. Elle s’occupait également de la paperasse en ce qui concerne les locataires et elle percevait les loyers. Elle consacrait le trois quarts de son temps à s’occuper des locataires et le reste de son temps à des tâches administratives.
+[82] Nishnawbe Homes a ouvert l’immeuble du 244, rue Church à Toronto en 2008 sous forme d’immeuble d’habitation de trois étages rénové. L’immeuble compte 60 appartements meublés d’une chambre avec cuisines et toilettes partagées. Cet immeuble loge également les bureaux de Nishnawbe Homes. Il a été acheté et rénové avec les fonds fournis par le Programme Canada-Ontario de logement abordable. Conformément à un accord de contribution, Nishnawbe Homes a obtenu du soutien opérationnel sous forme d’exemption de taxes foncières, d’exemption de demande d’aménagement et d’exemption de permis de construction de la Ville de Toronto.
+[83] Un petit nombre de locataires de l’immeuble du 244, rue Church était des étudiants provenant de réserves qui fréquentaient l’université à Toronto. La plupart des locataires étaient d’anciens sans-abri ou d’anciennes personnes sans domicile fixe qui vivaient dans la région de Toronto. Tous les locataires étaient des Autochtones.
+[84] La déclaration de Mme Baldwin suivant laquelle la plupart des résidents de l’immeuble du 244, rue Church étaient des Indiens inscrits n’est ni confirmée ni fiable. Elle n’avait aucun document avec elle et a convenu que Nishnawbe Homes ne conservait aucun document au sujet des antécédents de ses locataires et ne pouvait confirmer s’ils provenaient directement d’une réserve. Elle a également convenu que toutes les [traduction] « personnes autochtones admissibles » pouvaient bénéficier des services de Nishnawbe Homes, et ce, indépendamment du fait qu’ils proviennent d’une réserve ou qu’ils soient des Indiens inscrits.
+[85] Pour être admissible comme locataire chez Nishnawbe Homes, une personne devait s’identifier comme Autochtone, et elle devait travailler ou bien recevoir un revenu d’Ontario au travail ou être admissible à toucher un revenu d’Ontario au travail ou du Programme ontarien de soutien aux personnes handicapées. Les locataires devaient aussi signer un bail d’un an, et la plupart d’entre eux payaient leur loyer en argent comptant.
+[86] Nishnawbe Homes est une société de logement sans but lucratif qui logeait des Autochtones au centre-ville de Toronto. Elle participait au Programme de logement pour Autochtones en milieu urbain, de sorte qu’elle recevait de l’aide de la Société canadienne d’hypothèques et de logement (la « SCHL ») afin de pouvoir acheter des maisons pour répondre aux besoins des ménages autochtones en milieu urbain qui étaient à la recherche de logements locatifs abordables, de qualité et de taille convenables. Suivant Frances Sanderson, directrice administrative de Nishnawbe Homes, les ententes conclues avec la SCHL ont permis à Nishnawbe Homes d’acheter dix maisons. La SCHL a également versé une subvention pour 49 unités des dix maisons.
+[87] Bien que le Programme de logement pour Autochtones en milieu urbain fût géré par la SCHL au nom du gouvernement fédéral, le financement fédéral et la responsabilité de l’administration de la plupart des logements sociaux hors réserve financés par le gouvernement fédéral ont été transférés à la Province de l’Ontario, laquelle a délégué, par voie législative, la gestion du portefeuille de logement social financé par le gouvernement fédéral, et notamment les projets de logement du Programme de logement pour Autochtones en milieu urbain ainsi que les programmes de logement social administrés par l’Ontario, aux municipalités ou, dans le Nord, aux conseils d’administration régionaux des services sociaux en tant que « gestionnaires de services ». La Ville de Toronto est le gestionnaire de services gouvernemental municipal chargé du financement et de l’administration du logement social et des ententes de logement social à Toronto.
+[88] Mme Baldwin effectuait tous ses services à Toronto, à l’extérieur des réserves. Même si la plupart des locataires provenaient d’une réserve, ils vivaient tous à Toronto, où ils bénéficiaient de ses services. Ce facteur ne permet pas à rattacher le revenu d’emploi de Mme Baldwin à une réserve. Elle effectuait des services pour Nishnawbe Homes, dont la raison d’être se confond en réalité avec celle du Programme de logement pour Autochtones en milieu urbain, en l’occurrence, venir en aide aux ménages autochtones à la recherche de logements locatifs abordables, de qualité et de taille convenables. Ces programmes visaient des activités exercées à l’extérieur des réserves.
+[89] La seule différence entre les fonctions de Mme Baldwin et celles des autres membres du personnel administratif travaillant dans un bureau de services sociaux au centre-ville de Toronto est le fait que tous les clients de Mme Baldwin sont des Autochtones. Ce facteur ne permet pas de rattacher le revenu d’emploi de Mme Baldwin à une réserve.
+Virginia Forsythe [90] En 2010, Mme Forsythe travaillait comme intervenante sociale en santé communautaire pour la SOLVSA dans ses bureaux de Cochrane, en Ontario, où elle habitait.
+[91] Le programme de la SOLVSA vise à [traduction] « sensibiliser la population autochtone au sujet des causes et des conséquences du VIH/sida en tenant des ateliers, des colloques, des conférences et des rencontres et en recueillant et en diffusant des renseignements sur le sujet ».
+[92] Les tâches de Mme Forsythe consistaient notamment à donner des ateliers sur le VIH/sida, des séances d’information, des sessions de promotion d’habitudes saines et des ateliers sur la sexualité saine; elle offrait également des services de consultation individuels et des services d’aiguillage. Elle offrait son soutien à des personnes au téléphone, par Facebook ou en personne. Elle proposait à ses clients des services de sensibilisation et de défense de leurs droits. Elle a déclaré qu’elle faisait de l’intervention directe, ce qui l’obligeait à se rendre dans des communautés pour donner des renseignements au sujet des services qu’elle offrait. Elle faisait de l’intervention directe tant dans les réserves qu’à l’extérieur des réserves.
+[93] Mme Forsythe a déclaré qu’elle offrait des services de consultation individuels, ce qui l’obligeait parfois à se rendre dans des réserves, mais que, la plupart du temps, les clients qui avaient besoin de services de consultation se rendaient en ville. En 2010, elle avait offert des services de consultation à une dizaine de personnes, dont trois vivaient dans des réserves.
+[94] Parmi les communautés que Mme Forsythe affirme avoir visitées, mentionnons Taykwa Tagamou, la Première Nation des Cris de Chapleau, Brunswick House, la Bande des Ojibway de Chapleau, les Premières Nations de Matagami, de Wahgoshig et de Constance Lake. Elle s’est également rendue au Complexe correctionnel de Monteith, au Centre Jubilee (une maison de thérapie pour toxicomanes de Timmins) et aux installations des Services de toxicomanie Cochrane Nord, à Smooth Rock, de Migwam Youth Facilities et de Pineger Youth Residence. En contre-interrogatoire, elle a déclaré qu’elle avait également donné des ateliers à Cochrane et à Timmins.
+[95] Mme Forsythe a estimé qu’elle consacrait environ 70 p. 100 de son temps à l’extérieur de son bureau à Cochrane et que, de ce temps, elle avait consacré environ 30 p. 100 de son temps auprès des gens des réserves ou avec des gens des réserves qui se trouvaient dans des établissements.
+[96] Suivant son témoignage, bon nombre des personnes avec lesquelles elle travaillait étaient des Indiens inscrits de passage à Cochrane. Toutefois, elle n’avait pas de statistiques au sujet des personnes avec lesquelles elle travaillait qui étaient des Indiens inscrits ou des Indiens non inscrits, des Métis ou des Inuits.
+[97] Elle a expliqué qu’elle travaillait à son bureau de SOLVSA à Cochrane, mais que son travail l’obligeait à se rendre dans diverses communautés autochtones, notamment dans des réserves dans la région du Nord-Est de l’Ontario. Mme Forsythe a subi un interrogatoire serré de la part de l’avocat de l’intimée pour vérifier si elle avait avec elle les documents qu’elle avait préparés en 2010 pour confirmer son témoignage au sujet de ses clients et de ses déplacements. Elle a admis qu’elle avait dû présenter à la SOLVSA des demandes de remboursement de ses frais de déplacement, qu’elle conservait une copie de ses demandes, mais qu’elle ne les avait pas apportées à l’audience pour démontrer ses déplacements en 2010. Voici ce qu’elle a déclaré lors de son témoignage :
+[traduction]
+Q. Vous deviez présenter des demandes de remboursement pour vos déplacements?
+R. Je présentais mes demandes de remboursement de frais de déplacement et ensuite [...]
+Q. À qui les présentiez-vous?
+R. Je les transmettais au bureau principal.
+Q. Quel bureau principal?
+R. Celui de mon agence de placement.
+Q. En avez-vous conservé des copies?
+R. Oui.
+Q. Vous ne les avez pas apportés?
+R. Non.
+Q. Parce qu’ils montreraient vos déplacements?
+R. Oui.
+[98] J’estime que la crédibilité de Mme Forsythe a été complètement ébranlée. Bien que je croie qu’elle a effectivement offert certains services à l’extérieur des réserves, rien ne confirme qu’elle l’a effectivement fait en 2010 et, si elle en a offert, à quelle fréquence elle l’a fait. Elle a convenu qu’elle ne se rendait à l’extérieur de la réserve que lorsqu’elle était invitée par le chef ou par le représentant en santé communautaire ou encore par un représentant du Native Aboriginal Addiction Program (programme contre la toxicomanie chez les autochtones).
+[99] En 2010, la SOLVSA était financée principalement par le ministère de la Santé et des Soins de longue durée de l’Ontario et recevait aussi du financement de l’Agence de la santé publique du Canada (l’« ASPC »).
+[100] M. Frank McGee, du ministère de la Santé, a également témoigné. Il a expliqué qu’il n’était pas important, pour les besoins du programme de la SOLVSA, de savoir si les clients vivaient dans une réserve ou à l’extérieur d’une réserve.
+[101] Bien que, à l’occasion, Mme Forsythe fournît ses services à l’extérieur des réserves, par définition, la nature de son emploi était d’aider et d’informer les Autochtones, et ce, indépendamment du lieu où ils vivaient. La mission de la SOLVSA ne se limitait pas aux personnes vivant dans des réserves. Il ressort de la preuve que Mme Forsythe consacrait la plupart de son temps à travailler à l’extérieur des réserves avec des gens vivant à l’extérieur des réserves. La preuve présentée à l’audience ne démontre pas que le lieu et la nature de son travail se rattachaient à une réserve.
+Carrie Martin [102] En 2010, Mme Martin occupait trois postes de différents au sein du FFAM. Du 1er au 31 mars, elle a travaillé comme coordonnatrice en réduction des méfaits. Ce poste était financé par l’ASPC à l’aide du Fonds pour les projets sur le VIH/sida des communautés hors-réserve des Premières Nations, des Inuits et des Métis (le Fonds des communautés hors-réserve). Le financement de l’ASPC a pris fin le 31 mars et Mme Martin a ensuite travaillé comme coordonnatrice en évaluation pour la Fondation autochtone de guérison du FFAM du 1er avril au 30 juin. Enfin, du 1er juillet au 31 décembre, elle a repris son poste de coordonnatrice en réduction des méfaits, qui était à ce moment‑là financé par la Province de Québec.
+[103] En tant que coordonnatrice en réduction des méfaits, Mme Martin aidait les femmes qui étaient des résidentes permanentes de la région de la ville de Montréal ainsi que des femmes qui vivaient dans des réserves et venaient à Montréal pour obtenir des services qui n’étaient pas offerts dans les réserves. Elle a déclaré que, dans cette dernière catégorie, les femmes retournaient dans la réserve après avoir reçu des traitements et qu’elle estimait qu’environ 50 p. 100 de sa clientèle appartenait à cette catégorie de personnes.
+[104] En tant que coordonnatrice en réduction des méfaits, Mme Martin travaillait avec des femmes autochtones séropositives, ou atteintes de l’hépatite C ou d’une infection transmissible sexuellement ou qui étaient à risque. Son travail consistait à sensibiliser ces femmes et à leur offrir des activités de prévention. Elle animait des ateliers sur des sujets se rapportant à la réduction des méfaits, elle accompagnait les femmes à leurs rendez‑vous, les aidait à prendre des rendez-vous pour le dépistage du VIH, organisait des cérémonies comme des sueries et d’autres cérémonies traditionnelles de guérison spirituelle, faisait des patrouilles de rue pour aider les femmes et faisait du réseautage avec d’autres organismes de services sociaux.
+[105] Lorsqu’elle travaillait comme coordonnatrice en évaluation, Mme Martin s’est occupée de rédiger le rapport semestriel final et de classer les dossiers de divers projets pilotés par le FFAM depuis une dizaine d’années. Tout ce travail était effectué dans les locaux du FFAM, à Montréal.
+[106] Suivant la preuve, peu importe le poste qu’elle occupait, Mme Martin offrait tous ses services à Montréal et à l’extérieur des réserves. Le Fonds des communautés hors-réserve de l’ASPC pour son poste de coordonnatrice en réduction des méfaits précisait que seules les activités qu’elle accomplissait à l’extérieur des réserves étaient financées. La nature des services qu’elle exécutait, les circonstances dans lesquelles ses services étaient accomplis et le financement autorisant ses services révèlent tous que le revenu d’emploi de Mme Martin était situé à l’extérieur d’une réserve. Son travail consistait essentiellement à offrir des services aux femmes autochtones de la région de Montréal.
+[107] Mme Martin a déclaré que la moitié de ses clientes provenait de réserves pour avoir accès à des services à Montréal et qu’elles retournaient dans leur réserve après avoir reçu les services. Le fait que ses clientes ne pouvaient recevoir ces services qu’à l’extérieur d’une réserve ne contribue pas à rattacher les fonctions de l’emploi de Mme Martin à une réserve (Monias, au paragraphe 42).
+Diane Sheridan [108] Mme Sheridan travaillait au Centre d’amitié autochtone de Barrie, en Ontario (le Centre d’amitié), comme intervenante dans le cadre du Programme Bébés en santé, enfants en santé. Son poste était financé par la Province de l’Ontario par l’intermédiaire du ministère des Services sociaux et communautaires.
+[109] Dans le cadre de ses fonctions, Mme Sheridan offrait des cours sur le rôle parental et des cours prénataux; elle visitait les familles qui étaient ses clients et elle créait des liens avec d’autres organismes pour partager des ressources et diriger des clients ou accepter des clients d’autres organismes au besoin. Ses clients s’adressaient à elle parce qu’ils étaient au courant des services qu’elle offrait ou parce qu’ils lui étaient recommandés. Les familles demeuraient ses clients pendant environ trois à six mois.
+[110] Elle devait obligatoirement rendre visite à ses clients à la maison pour voir comment ils étaient logés et pour vérifier si les bébés étaient à risque. En 2009, la plupart des visites qu’elle a effectuées à domicile ont eu lieu dans les limites municipales de la ville de Barrie.
+[111] Mme Sheridan enseignait à ses clients comment développer des modes de vie sains. Elle dispensait ou facilitait également les enseignements traditionnels pour aider ses clients à guérir selon les modes traditionnels. Ces cours étaient donnés au Centre d’amitié de Barrie.
+[112] Mme Sheridan a déclaré qu’elle entretenait des liens avec la Société d’aide à l’enfance de Barrie ainsi qu’avec l’Association autochtone de la région de Barrie. Elle aidait la Société d’aide à l’enfance à développer le volet autochtone de cet organisme. L’infirmière de la réserve de Rama, la responsable des services à l’enfance de la réserve de l’île aux Chrétiens et elle se rencontraient régulièrement pour partager des ressources et des idées. Suivant son témoignage, elles se rencontraient toutes les trois dans la réserve ou au Centre d’amitié. Elle n’a pas donné de détails au sujet de la fréquence de ces rencontres ou de la fréquence avec laquelle elles se rencontraient dans la réserve ou au Centre d’amitié.
+[113] Mme Sheridan travaillait avec des familles qui avaient des problèmes avec la garde de leurs enfants. Lors de son interrogatoire direct, elle a évoqué deux situations où elle avait dû s’occuper d’ententes de soins conformes aux traditions. En particulier, elle a déclaré qu’il y avait deux familles qui étaient sur le point de perdre leurs enfants. Dans un cas, des bébés jumeaux avaient été retirés à leur mère à la naissance à l’hôpital. Les jumeaux se trouvaient à Orillia et Mme Sheridan avait contribué à élaborer une entente de soins conformes aux traditions avec leurs grands-parents paternels dans la réserve de l’île aux Chrétiens. La seconde situation concernait une mère qui vivait à Barrie et qui était sur le point de perdre ses trois enfants. Mme Sheridan avait réussi à confier le soin des enfants à la famille de la mère. Un enfant avait été confié aux soins de membres de la famille dans la réserve de l’île aux Chrétiens et les deux autres enfants avaient été confiés à des membres de la famille à Barrie. Elle a déclaré qu’elle visitait les familles dans la réserve à l’occasion, mais la plupart de ses communications avaient lieu par téléphone.
+[114] Lors de son interrogatoire direct, Mme Sheridan a estimé à 50 p. 100 les services qu’elle consacrait aux familles vivant dans des réserves.
+[115] Le témoignage de Mme Sheridan était loin d’être clair. Son témoignage était constitué d’estimations et de suppositions, de sorte qu’elle ne s’est pas acquittée du fardeau qui lui incombait de démontrer que ses revenus d’emploi étaient « situés sur une réserve ». De plus, elle a à mon avis exagéré le nombre de familles vivant dans des réserves avec lesquelles elle travaillait ainsi que le pourcentage des services se rapportant à des familles vivant dans des réserves avec lesquelles elle aurait travaillé en 2009. Ma conclusion repose sur les éléments de preuve suivants.
+[116] En interrogatoire direct, Mme Sheridan ne pouvait se souvenir que de deux situations où elle avait travaillé avec des familles vivant dans des réserves en 2009. En contre-interrogatoire, elle a déclaré qu’elle avait travaillé avec trois familles vivant dans des réserves.
+[117] Au début de son contre-interrogatoire, elle a déclaré qu’en 2009, elle s’occupait toujours de 12 à 15 clients en même temps. En réponse à d’autres questions plus pointues de l’avocat de l’intimée, Mme Sheridan a admis qu’elle ignorait le nombre de clients qu’elle avait eus en 2009.
+[118] M. Lance Triskle était un assistant parajudiciaire autochtone en droit criminel qui avait travaillé auprès du Centre d’amitié de septembre 2005 à juillet 2007, lorsqu’il est devenu directeur administratif du Centre. Il a occupé ce poste jusqu’en juillet 2009. Il a expliqué que les jumeaux avaient été retirés à leur mère à la naissance en juin 2006 par la Société d’aide à l’enfance et que Mme Sheridan avait travaillé avec eux, mais qu’il ignorait à quel moment elle avait cessé de travailler avec eux. Il ne pouvait se souvenir si la garde des jumeaux avait été confiée selon un programme de soins conforme aux traditions, mais il a affirmé que leurs grands-parents, qui vivaient dans la réserve de l’île aux Chrétiens, avaient droit à des visites non surveillées des jumeaux.
+[119] M. Lance Triskle a également déclaré que les employés du Centre d’amitié ne pouvaient se rendre dans une réserve à moins d’y être invités. Il a déclaré que le fait de s’y rendre sans y être invité [traduction] « pouvait avoir de graves conséquences sur notre relation avec les Premières Nations en question, compte tenu du fait que bon nombre des membres de leur communauté vivaient dans nos centres urbains ».
+[120] M. Gary Sutherland est devenu directeur administratif du Centre d’amitié le 6 juillet 2009, mais il travaillait au Centre depuis son ouverture en 1988. Il a témoigné qu’un des objectifs du Centre d’amitié était [traduction] « d’agir au nom des Autochtones hors des réserves ». En particulier, le territoire géographique du Centre (sa zone de rayonnement) était la ville de Barrie et une zone de 25 kilomètres autour de Barrie. Il n’y avait pas de réserves dans la zone de rayonnement du Centre. Toutefois, le Centre ne refusait pas ses services aux personnes qui vivaient dans des réserves et qui se rendaient à Barrie pour recevoir des services du Centre. Il a estimé à pas plus de 10 p. 100 le nombre de familles provenant directement d’une réserve qui auraient reçu des services du programme Bébés en santé, enfants en santé.
+[121] Il a déclaré qu’au cours de son mandat, l’intervenante du programme Bébés en santé, enfants en santé n’était jamais tenue de se rendre dans une réserve pour exécuter ses services. Il doutait fortement que Mme Sheridan se soit rendue en voiture dans une réserve pour exécuter ses services parce que le budget consacré aux déplacements était minime – le montant annuel n’était que de 1 500 $ – et qu’on devait lui rembourser ses frais de déplacement dans la zone de rayonnement.
+[122] J’en suis arrivée à la conclusion que Mme Sheridan accomplissait la plupart de ses tâches au Centre d’amitié, au tribunal, dans les maisons situées dans la zone de rayonnement du Centre ainsi qu’aux bureaux de la Société d’aide à l’enfance – tous des lieux situés à Barrie et à l’extérieur des réserves. Les clients vivant dans des réserves qu’elle a pu avoir en 2009 se sont présentés à Barrie, à l’extérieur des réserves, pour demander ses services. Le nombre de clients vivant dans des réserves qu’elle a reçus en 2009 était minime.
+[123] Suivant la preuve, l’emplacement, la nature des services exécutés et les circonstances particulières dans lesquelles Mme Sheridan a accompli ses services professionnels ne peuvent être rattachés à une réserve. J’accepte qu’en 2009, elle ait pu avoir un petit nombre de clients qui vivaient dans des réserves, mais qui se présentaient à Barrie pour recevoir ses services et qu’elle ait pu les joindre par téléphone. Ces services étaient toutefois insuffisants pour permettre de rattacher ses revenus d’emploi à une réserve (Shilling c Ministre du Revenu national, [1999] ACF no 889 (C.F. 1re inst.), au paragraphe 60). Ses services étaient axés principalement sur la communauté autochtone qui vivait à l’intérieur de la zone de rayonnement du Centre et qui était elle-même située à l’extérieur d’une réserve. Le travail qu’elle effectuait avec des personnes vivant dans des réserves était accessoire à l’accomplissement de ses fonctions.
+Conclusion [124] Mon analyse des facteurs de rattachement m’amène à conclure que le revenu d’emploi de chacun des appelants était situé à l’extérieur d’une réserve. Par conséquent, le revenu de chacun des appelants a été à juste titre considéré comme imposable et les appels sont rejetés. Aucuns dépens ne sont adjugés dans la présente affaire.
+Signé à Halifax (Nouvelle-Écosse), ce 26e jour de septembre 2014.
+« V.A. Miller »
+Juge V.A. Miller
+Traduction certifiée conforme
+ce 6e jour de janvier 2015.
+M.-C. Gervais
+RÉFÉRENCE :
+2014 CCI 284
+Nos DES DOSSIERS DE LA COUR :
+2012-2252(IT)I
+2012-2042(IT)I
+2012-2035(IT)I
+2012-2609(IT)I
+2012-1920(IT)I
+INTITULÉ :
+LAURA BALDWIN
+VIRGINIA FORSYTHE
+CARRIE MARTIN
+DIANE SHERIDAN
+ART ZOCCOLE
+ET SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATES DE L’AUDIENCE :
+Du 13 au 17 janvier 2014
+Les 26 et 27 février 2014
+MOTIFS DU JUGEMENT :
+L’honorable juge Valerie Miller
+DATE DU JUGEMENT :
+Le 26 septembre 2014
+COMPARUTIONS :
+Avocat des appelants :
+Me James Fyshe
+Avocats de l’intimée :
+Me Laurent Bartleman
+Me Gordon Bourgard
+AVOCATS INSCRITS AU DOSSIER:
+Pour les appelants :
+Nom :
+James Fyshe
+Cabinet :
+Fyshe McMahon LLP
+Pour l’intimée :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada

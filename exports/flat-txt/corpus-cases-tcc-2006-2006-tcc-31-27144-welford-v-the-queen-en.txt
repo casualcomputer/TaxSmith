@@ -1,0 +1,203 @@
+Title: Welford v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27144/index.do
+Corpus path: corpus/cases/tcc/2006/2006-tcc-31-27144-welford-v-the-queen-en.md
+Document type: case_law
+Last modified: 2006-02-08
+
+# Welford v. The Queen
+
+- Citation: 2006 TCC 31
+- Decision date: 2006-02-08
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1013, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Welford v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-02-08
+Neutral citation
+2006 TCC 31
+File numbers
+2003-1401(IT)G
+Judges and Taxing Officers
+François M. Angers
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2003-1401(IT)G
+BETWEEN:
+MARK G. WELFORD,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Motion heard on December 2, 2005, at Toronto, Ontario.
+Before: The Honourable Justice François Angers
+Appearances:
+Counsel for the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Rosemary Fincham
+____________________________________________________________________
+ORDER
+The motion is allowed in part in accordance with the attached Reasons for Order.
+Signed at Ottawa, Canada, this 8th day of February 2006.
+"François Angers"
+Angers, J.
+Citation: 2006TCC31
+Date: 20060208
+Docket: 2003-1401(IT)G
+BETWEEN:
+MARK G. WELFORD,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Angers, J.
+[1] This is a motion for an order directing the appellant to answer questions concerning documents which he objected to having marked as exhibits during the examination for discovery held in March 2005. These documents, listed in the respondent's List 1 and List 2 of documents, are identified as follows in the respondent's Notice of Motion:
+i. Item A, List 1, Tab 5, described as a copy of cheque #243 payable to H. Aliasy Napal in the amount of $15,500.00, issued on the account of Mark & Ingrid Welford;
+ii. Item B, List 1, Tabs 60 to 65 inclusive, described as Canadian Recon Services Inc. Cheque Register for the periods August 2, 1990 to September 30, 1995;
+iii. Item C, List 1, Tabs 80 to 82 inclusive, described as Bank Account of H. Aliasy Napal/Bipin Napal, Record of Bipin Napal (Bank Account of H. Aliasy Napal, and Records of Mark Welford (Bank Account), respectively;
+iv. Item D, List 1, Tabs 87 through to 105, inclusive, described generally as the bank documents and schedule-analyses relating to Mark and Ingrid Welford, H. Allasy [sic] Napal, Bipin Napal, Sharon Lee Williams, Rita Duggan; Schedules of Canadian Recon cheques paid to Mark Welford, Ingrid Welford, Ingrid Elsing, Sharon Lee Williams, Adco Information Systems, Sho-Lite Enterprises Inc., and REN Associates; Schedule of Banks where Canadian Recon Cheques to Mark Welford, Ingrid Welford and Ingrid Elsing were negotiated; Schedule of cheques issued payable to Mark Welford on account in name of I. Elsing; Schedules of Payments by Mark Welford to H. Aliasy Napal, Rita Duggan and Sharon Lee Williams; Schedule of Cheques issued on account of H. Aliasy Napal that were signed by Bipin Napal; Schedule of False Expenses claimed by Canadian Recon Services Inc. 1991-1995; Schedules of Funds appropriated by Bipin Napal from Canadian Recon Services Inc. 1991-1995; and Schedules of Funds received by Mark Welford from Canadian Recon Services and H. Aliasy Napal less cheques paid out for the benefit of Bipin Napal 1991-1995;
+v. Item E, List 1, Tabs 109 to 113, inclusive, described generally as Schedules of Mark Welford's Revised Taxable Income and Federal Taxes sought to be evaded 1991-1995; Canadian Recon Services Inc. (operating as Focus Technologies) cheques payable to ADCO Information Systems, REN Associates, Sharon-Lee [sic] Williams and Sho-Lite Enterprises Inc.;
+vi. Item F, List 1, Tabs 123 and 124, described generally as Bank accounts of ADCO Information Systems, REN Associates, and H. Aliasy Napal;
+vii. Item G, List 1 Tabs 130 to 132 inclusive, described generally as Cheque Stubs regarding cheques issued by Canadian Recon Services Inc. to Sharon Lee Williams, Sho-Lite Holdings Inc; Payables Register - Sheet Sept-Oct/94 of Canadian Recon Services Inc. found in file "Bipin's Cheque Stubs";
+viii. Item H, List 1, Tab 135, described as Listing of cheques of Canadian Recon Services Inc. re: entries to be made to correct balance from file "Cheque Problems Requiring Correction";
+ix. Item I, List 2, Tabs 162 to 168, inclusive, described generally as Focus cheques and cheque stubs payable to Mark or Ingrid Elsing/Welford (1991-1995) and Focus cheque register for 1991 to 1995; and
+x. Item J, List 2, Tabs 170 to 173, inclusive, described generally as personal banking records of Ingrid Elsing/Welford, Mark or Ingrid Welford, and H. Allasy [sic] Napal.
+[2] The respondent is also seeking an order directing the appellant to answer question 471 in the transcript of his examination for discovery, asking him to inquire with Bell Canada as to the method by which they paid him and where they deposited his paycheques; the respondent is seeking as well an order directing the appellant to produce for inspection the T4 referred to in paragraph 13 of the Amended Notice of Appeal. Finally, the respondent seeks an order: directing the appellant to consent to the disclosure of the settlement agreement he reached with Bell Canada in respect of allegations of fraud; directing the appellant to consent to the disclosure of the transcript of his examination for discovery with Bell Canada in respect of allegations of fraud; amending Justice Margeson's order so as to extend the time by which the parties are required to complete oral examinations, satisfy undertakings and communicate with the hearings coordinator; directing the appellant to re-attend at examination for discovery to answer questions in respect of documents referred to in the Notice of Motion, without prejudice to the respondent and without restrictions as to the nature of the questions to be asked; and if appellant fails to comply with such order, an order of this Court dismissing the appeal with costs.
+[3] The appellant is appealing an assessment for his 1995 taxation year and reassessments of his 1991, 1992, 1993 and 1994 taxation years. The issues raised in the pleadings and that are to be determined by the trial judge at the hearing of the appeal are:
+1. whether the appellant was properly reassessed beyond the normal reassessment period for the 1991 and 1992 taxation years;
+2. whether the appellant had unreported income for the 1991, 1992, 1993 and 1994 taxation years;
+3. whether the appellant misappropriated any funds from Bell Canada, his employer;
+4. whether the appellant was properly assessed for the 1995 taxation year;
+5. whether the reassessments and assessment for the above-mentioned taxation years were based upon information obtained by breach of the appellant's rights under the Charter of Rights and Freedoms;
+6. if they were based on such information, what is the appropriate remedy?
+[4] The appellant was an employee of BellCanada from 1972 to 1976 and from 1984 to April 1995. It is alleged that he conspired with others to defraud Bell Canadaof millions of dollars and has failed to report his share of the misappropriated funds for the taxation years in issue and to file an income tax return for the 1995 taxation year.
+[5] As an employee of BellCanada, the appellant was entrusted with the purchase of materials and supplies needed for Bellcustomers and for projects of which he was in charge. It is alleged that he entered into a scheme with the sole shareholder of a corporation that was involved in the business of selling and servicing computers and computer parts. It is alleged that the scheme involved the appellant ordering from that corporation, and authorizing payment for, materials that were overbilled and/or never delivered to BellCanada's customers. It is further alleged that other parties were involved in the scheme and a detailed account has been provided of how the scheme worked, the other parties' participation and the flow of funds, including the share that made its way into the appellant's hands.
+[6] The affidavit filed in support of the motion provides a chart that shows the flow of funds that the respondent alleges occurred between the appellant and the other parties and which gave rise to the reassessments for the appellant's 1991, 1992, 1993 and 1994 taxation years and the assessment for his 1995 taxation year. It is also stated in the affidavit that the documents that the appellant refuses to be examined on are documents that establish the flow of funds to and from the appellant and the other parties, including the appellant's spouse. The transcript of the appellant's examination for discovery by counsel for the respondent was also submitted in support of the motion.
+[7] The appellant did not file an affidavit nor did he give evidence at the hearing of this motion.
+[8] At his examination for discovery, the appellant, through his solicitor, acknowledged that there was commenced in the Ontario courts by Bell Canada, against him, his spouse and the other parties, a civil action claiming that they defrauded Bell Canada by submitting to it illegitimate and fraudulent invoices which either grossly inflated the prices of particular items or were in respect of products which were never delivered to Bell Canada. It was further acknowledged by counsel for the appellant at the examination for discovery that he (counsel) had sent a letter to Revenue Canada suggesting that if Bell Canada was successful against the taxpayer and obtained judgment for an amount equal to or greater than the amount of alleged income shown in the reassessments, then no additional unreported earned income will have been received by the taxpayer. At the time of the examination for discovery, the civil action had been settled on a confidential basis and the appellant refuses to consent to the release of the terms of settlement. On the issue of whether the allegations made by Bell Canadawere similar to the assumptions of fact which are contained in the Reply to the Notice of Appeal, the following is the exchange that took place between counsel at the examination for discovery:
+MS. FINCHAM: If I can ask you to review this, paragraph 3 at page 6 of this Amended Amended Statement of Claim, these are allegations raised in respect of the Defendant Mark Gordon Welford who is the Appellant in this matter. Is that agreed?
+MR. BRUGGEMAN: Yes.
+MS. FINCHAM: And paragraphs 3, 4, 5, and 6 relate specifically to the Defendant and/or his spouse.
+MR. BRUGGEMAN: Yes.
+MS. FINCHAM: And you would agree with me that these paragraphs raise a number of similar issues or arise from the same set of facts as the appeal before the Tax Court of Canada.
+MR. BRUGGEMAN: No, I don't agree with that, so I think there are overlapping issues, but I don't think they arise out of the same facts. One is the allegation of fraudulent under-reporting of income and the other one is dealing with employment duties, and also, of course, these issues have all been finalized in the civil action.
+MS. FINCHAM: The overlapping issue with respect to - paragraph 15 sets it out: The Welford Defendants, Bipin Napal, and Focus Technologies defrauded the Plaintiff by submitting to the Plaintiff illegitimate and fraudulent invoices which either grossly inflated the prices of particular items provided by Focus Technologies to the Plaintiff or were in respect of products which were never delivered to the Plaintiff. And there are further allegations, and similar facts are in issue in this appeal.
+MR. BRUGGEMAN: The thing is, allegations were made, they were never substantiated, there was no judicial finding with respect to same, and no admissions were ever made.
+MS. FINCHAM: But the allegation of facts contained in the Amended Amended Statement of Claim are similar to the assumptions of fact in the Minister's Reply to the Notice of Appeal.
+MR. BRUGGEMAN: The allegations are similar, I'll agree with that.
+[9] The appellant, during the civil action by Bell Canada was examined for discovery (Question 388, transcript of examination for discovery in this appeal), and he refused to consent to the release of the transcript of his evidence at that examination on the basis of the implied undertaking rule found in subrule 30.1.01(3) of the Ontario Rules of Civil Procedure, which provides that all parties and their counsel are deemed to undertake not to use evidence or information to which Rule 30.1.01 applies for any purposes other than those of the proceeding in which the evidence was obtained, which includes, among other things, the evidence obtained at an examination for discovery. Subrule 30.1.01(4) provides that the use of such evidence is not prohibited by subrule (3) if the person who disclosed the evidence consents. The appellant has refused to consent (see Question 393, transcript of examination for discovery in this appeal), hence this motion.
+[10]The examination for discovery serves many purposes, one of which is to render the trial process more efficient and allow the parties to better prepare and assess their respective positions. It addresses the issues raised in the pleadings and, as regards this Court, its scope is defined in section 95 of the Tax Court of Canada Rules (General Procedure), which reads as follows:
+95. (1) A person examined for discovery shall answer, to the best of that person's knowledge, information and belief, any proper question relating to any matter in issue in the proceeding or to any matter made discoverable by subsection (3) and no question may be objected to on the ground that,
+(a) the information sought is evidence or hearsay,
+(b) the question constitutes cross-examination, unless the question is directed solely to the credibility of the witness, or
+(c) the question constitutes cross-examination on the affidavit of documents of the party being examined.
+[11] The test for whether a discovery question is relevant is defined by the pleadings and is extremely broad and less strict than at trial. An examination for discovery should favour full disclosure over consideration of any potential prejudice that such disclosure may cause. Questions of relevancy as well as the admissibility of evidence should be left to the judge who will hear the appeal. In a similar motion before this Court in Route Canada Real Estate Inc. v. The Queen, 95 DTC 502, at page 506, Judge Bellquoted the following passage from Reasons for Order of Christie, A.C.J., of this Court:
+With reference to additional discovery it is noted that subsection 95(1) of the Tax Court of Canada Rules (General Procedure) ("the General Rules") requires that a person examined for discovery shall answer, to the best of that person's knowledge, information and belief, any proper question relating to any matter in issue in the proceedings. Reference is also made to Sydney Steel Corp. v. Ship Omisalj et al., 52 F.T.R. 144, wherein Mr. Justice MacKay of the Federal Court-Trial Division said at page 147:
+Counsel for the parties are essentially agreed that the standard for propriety of a question asked in discovery is less strict than the test for admissibility of evidence at trial and the appropriate standard is whether the information solicited by a question may be relevant to the matters which at the discovery stage are in issue on the basis of pleadings filed by the parties. As noted by the defendants the test is as set out by Norris, D.J.A., in McKeen & Wilson Ltd. v. Gulf of Georgia Towing Co. Ltd. et al., [1965] 2 Ex. C.R. 480, at p. 482:
+... the questions objected to may raise matters which are relevant to issues raised on the pleadings. This is all that the defendants are required to show. As to whether or not they are relevant and admissible at the trial is a matter for the learned trial judge.
+And at page 148:
+When objection is taken that a question is not proper because it is not relevant for reasons given, the party asking the question must satisfy the court that the information it seeks may be relevant to a fact in issue. That standard is not likely to be difficult to meet in light of the goal of openness which the rules seek to foster in pretrial proceedings, particularly discovery, a goal which is the same whether discovery be oral or by written questions. Moreover, it is settled that where there is doubt as to whether the question need be answered the benefit of that doubt, in light of the principal goal of openness, favours requiring the answer to be given: (Royal Specialty Sales v. Mayda Industries Ltd. (1986), 4 F.T.R. 77, per Madame Justice Reed at p. 79).
+[12] The Federal Court of Appeal, in SmithKline Beecham Animal Health Inc. v. Canada, [2002] F.C.J. No 837 (QL), dealt with the issue of the scope of pre-trial discovery under the Tax Court of Canada Rules (General Procedure) and the application of the "train of inquiry" test for documentary discovery. Madam Justice Sharlow fully explained the application of the Tax Court of Canada Rules (General Procedure) with respect to the pre-trial disclosure of documents and oral examinations for discovery, summing up as follows:
+24 The scope and application of the rules quoted above depend upon the meaning of the phrases "relating to any matter in question between ... them in the appeal" and "relating to any matter in issue in the proceeding". In Compagnie Financiere et Commerciale du Pacifique v. Peruvian Guano Company (1882), 11 Q.B.D. 55 (C.A.), Brett, L.J. said this about the meaning of the phrase "a document relating to any matter in question in the action" (at page 63):
+It seems to me that every document relates to the matters in question in the action, which not only would be evidence upon any issue, but also which, it is reasonable to suppose, contains information which may -- not which must -- either directly or indirectly enable the party requiring the affidavit either to advance his own case or to damage the case of his adversary. I have put in the words "either directly or indirectly," because, as it seems to me, a document can properly be said to contain information which may enable the party requiring the affidavit either to advance his own case or to damage the case of his adversary, if it is a document which may fairly lead him to a train of inquiry, which may have either of these two consequences.
+25 The "train of inquiry" test for documentary discovery was expressly approved by this Court in Everest & Jennings Canadian Ltd. v. Invacare Corp., [1984] 1 F.C. 856, 55 N.R. 73, 79 C.P.R. (2d) 138 (F.C.A.), adopting the test from Boxer v. Reesor (1983), 43 B.C.L.R. 352, 35 C.P.C. 68 (B.C.S.C.). See also Ikea Ltd. v. Idea Design Ltd., [1987] 3 F.C. 317, 13 F.T.R. 306, 16 C.P.R. (3d) 65 (F.C.T.D.) and Oro Del Norte, S.A.v. The Queen (1990), 35 F.T.R. 107, [1990] 2 C.T.C. 67, 90 D.T.C. 6373 (F.C.T.D).
+26 The Tax Court has consistently applied the same test; see, for example, Ouellet v. Canada, [1994] 1 C.T.C. 2645, 94 D.T.C. 1315 (T.C.C.). In Owen Holdings Ltd. v. Canada, [1997] 3 C.T.C. 2286, 97 D.T.C. 380 (T.C.C.), the test was stated as follows at paragraph 29:
+The party demanding a document must demonstrate that the information in the document may advance his own case or damage his or her adversary's case.
+27 The judgment in Owen Holdings was varied on appeal to this Court, but the statement of the test was approved: Owen Holdings Ltd. v. Canada (1997), 216 N.R. 381, [1997] 3 C.T.C. 351, 97 D.T.C. 5401 (F.C.A.). Marceau J.A., for the majority, said this at paragraph 6:
+... It is our opinion, therefore, that the learned Tax Court judge adopted the proper approach and his findings with respect to the documents in categories (i), (ii), (v) and (vi) should not be disturbed. His assessment that those documents, which did not tend to establish "legislative facts" but rather set forth the "opinions of writers," were so remotely related to the issues in controversy that they could not lead to a line of inquiry that could be of any use to the appellant, appears to us to be perfectly sound.
+28 Isaac C.J., as he then was, dissented in part in the result, but he approved the "train of inquiry" test.
+29 The cases cited above also establish that the question of whether a document or question "relates to" an issue in the case depends upon a reasonable interpretation of the pleadings, see particularly: Compagnie Financiere, supra; Boxer v. Reesor, supra; and The Queen v. Special Risks Holdings Inc., [1983] 2 F.C. 743, 46 N.R. 361, [1983] C.T.C. 36, 83 D.T.C. 5046 (F.C.A.).
+[13] The appellant's position is that the documents and other information used to prepare the reassessments and the assessment under appeal were obtained in breach of his rights under the Canadian Charter of Rights and Freedoms and that the admissibility of that evidence is a matter for the trial judge as is the appropriate remedy should there have been such a breach; the fact remains, nevertheless, that for the time being and until such time as they are ruled inadmissible these documents relate to the issues raised in both the Amended Notice of Appeal and in the Reply. Paragraph 19 of the Amended Notice of Appeal refers to documents that were used to prepare the assessment and reassessments under appeal, and paragraphs 8, 9, 12 and 13 of the Reply refer specifically to those documents.
+[14] The affidavit of Mylène Forester in support of this motion establishes to my satisfaction that the documents that the appellant would not consent to having marked as exhibits during the examination for discovery and that he refused to be examined on are necessary to advance the respondent's case by enabling the respondent to establish the flow of funds to and from the appellant and his spouse and are therefore related to matters raised and in issue in this appeal. I am satisfied that the method by which the appellant was paid, where Bell Canada deposited his paycheques, as well as the T4 referred to in paragraph 13 of the Amended Notice of Appeal are matters relating to questions relevant in this appeal.
+[15] The respondent's motion in this Court also requests, as mentioned above, an order directing the appellant to consent to the disclosure of the transcript of the appellant's examination for discovery in the action brought against him by Bell Canada in the Ontario courts with respect to allegations of fraud. I have already made reference to the implied undertaking rule found in the Ontario Rules of Civil Procedure, in particular in subrules 30.1.01(3) and (4). Subrule 8 makes provision for an order that subrule (3) does not apply to the evidence or information obtained if the court is satisfied that the interest of justice outweighs any prejudice that would result to a party who disclosed the evidence. Such an order may impose terms and give such directions as are just.
+[16] By the motion herein, the respondent is seeking leave to obtain and use the discovery evidence of the appellant from a proceeding in which the respondent was not a party. That being so, the respondent's burden to obtain the discovery evidence would appear to be heavier in that courts seem to have been reluctant to grant such leave in non-party applications. John B. Laskin stated the following at page 315 of an article he wrote entitled "The Implied Undertaking in Ontario", (1989-90). 11 Adv. Q., 298, at pp. 315-16:
+Finally it appears that the court will be less likely to grant leave where leave is sought by a non-party to the proceedings in which disclosure was made. In Harman, Lord Roskill stated that he found it difficult to think of circumstances in which the court might be willing to grant leave "in favour of a stranger and against the wishes of the owner of the documents". In Bibby, the court refused to rule out the possibility of granting leave in those circumstances but stated that a non-party applicant bore a particularly heavy burden of showing cogent and persuasive reasons why leave should be granted. Most recently, in Derby & Co.Ltd. v. Weldon, the court stated that, on the authorities, leave to disclose to third parties to assist them in pursuing claims against the person who gave the discovery is "virtually never given".
+[17] This passage was cited with approval in two cases where a similar motion was brought by a non-party to an action. (See Livent Inc. v. Drabinsky, [2001] O.J. No. 918 (QL) (Ont. SCJ) and 051766 N.B. Ltd. v. Wilbur, [2005] N.B.J. No. 512 (QL), 2005 NBQB 443.
+[18] In addition to this heavier burden having to be met, a determination must be made as to the proper forum in which such an order as that requested here may be granted. By law, the implied undertaking rule applies to every proceeding. In Ontario and British Columbia, the rule has been codified and is part of the rules of civil procedure of those provinces. The implied undertaking rule is also applicable in both Federal Court and Tax Court of Canada proceedings. If the proceeding to which the implied undertaking rule applies was before the Tax Court of Canada and, for example, one of the parties wants to be relieved of this undertaking in order to use the examination for discovery evidence in another, separate, proceeding before the Ontario Superior Court of Justice, in my opinion, the Tax Court of Canada has the power to relieve that party of that undertaking. Such was the case in Sherman v. Canada, [2000] T.C.J. No. 128 (QL), where Judge Bowie of this Court stated the following, at paragraph 4:
+As these appeals were discontinued following the settlement between the parties, the documents have never been put into evidence, or otherwise produced in open Court. Without the consent of the producing party, then, the documents may only be used in the Ontarioaction if this Court [the Tax Court] makes an Order relieving Dr. Sherman and his counsel of the implied undertaking. On these motions, the party moving has the burden of showing that the prejudice he will suffer if he is not permitted to put the documents to use in the Ontario action outweighs the prejudice that the producing party, Orenstein & Partners, will suffer if he is permitted to use them in that action. [Emphasis added.]
+[19] It seems to me that if the proceeding giving rise to the application of the implied undertaking rule was before the Ontario Superior Court of Justice and one of the parties to that proceeding wants to use in the Tax Court an examination for discovery from that proceeding, it is the Ontario Superior Court of Justice that would have the power to permit the production of the document protected by the implied undertaking rule and to release the party from that undertaking.
+[20] Rules 1.02 and 1.03 of the Ontario Rules of Civil Procedure refer to the Ontario Superior Court of Justice and the Court of Appeal as the courts that may order that the implied undertaking rule not apply if they are satisfied that the interest of justice outweighs any prejudice that would result to a party who disclosed evidence. Where the proceedings took place before those courts, they have the power to order that the implied undertaking rule not be applied. Rules 1.02, 1.03 and 30.1.01(8) read as follows:
+1.02 (1) These rules apply to all civil proceedings in the Court of Appeal and in the Superior Court of Justice, subject to the following exceptions:
+1. They do not apply to proceedings in the Small Claims Court, which are governed by Regulation 201 of the Revised Regulations of Ontario, 1990.
+2. They do not apply to proceedings governed by Ontario Regulation 114/99 (Family Law Rules), except as provided in those rules.
+3. They do not apply if a statute provides for a different procedure. R.R.O. 1990, Reg. 194, r. 1.02 (1); O. Reg. 484/94, s. 1; O. Reg. 288/99, s. 1 (1, 2); O. Reg. 292/99, s. 1 (1, 2); O. Reg. 131/04, s. 1 (1, 2).
+Combined Proceeding in Family Court of Superior Court of Justice
+(1.1) Where a proceeding combines a matter to which the Family Law Rules apply with a matter to which these rules would ordinarily apply, the parties may agree, or the court on motion may order, that the Family Law Rules apply to the combined proceeding or part of it. O. Reg. 131/04, s. 1 (3).
+...
+DEFINITIONS
+1.03 (1) In these rules, unless the context requires otherwise,
+"action" means a proceeding that is not an application and includes a proceeding commenced by,
+(a) statement of claim,
+(b) notice of action,
+(c) counterclaim,
+(d) crossclaim, or
+(e) third or subsequent party claim;
+...
+"application" means a proceeding commenced by notice of application;
+...
+"court" means the court in which a proceeding is pending and, in the case of a proceeding in the Superior Court of Justice, includes,
+(a) a master having jurisdiction to hear motions under Rule 37, and
+(b) a case management master;
+...
+"proceeding" means an action or application;
+...
+30.1.01(8) If satisfied that the interest of justice outweighs any prejudice that would result to a party who disclosed evidence, the court may order that subrule (3) does not apply to the evidence or to information obtained from it, and may impose such terms and give such directions as are just. [Emphasis added.]
+[21] Provincial legislation is used by the Tax Court of Canada to assist it in determining the correctness of an assessment insofar as the question is one of substance and not procedure. Questions of procedure are matters to be dealt with by the provinces. In Lemieux v. Société Radio-Canada, [2001] F.C.J. No. 1810 (QL), the Federal Court - Trial Division stated the following:
+33 It is well settled that in exercising its principal powers the federal government may trench incidentally on areas of provincial jurisdiction, leaving the ordinary provincial law to regulate the subject in other respects. In the case at bar, the context and the exhaustive nature of the division of powers indicate that jurisdiction over "civil" procedure and evidence is conferred on the provinces by s. 92(14) of the Constitution Act. However, that subsection states that the procedure is that applicable in the provincial courts since the Constitution Act was framed on the basis that it was the provincial courts which would be responsible for implementing both federal and provincial legislation. A contrario, it is the federal government which may determine the "civil" (other than criminal) procedure and rules of evidence applicable in federal courts ...
+[22] I therefore conclude that, in the present case, the Ontario Superior Court of Justice is the proper forum for such a motion as it is the court in which the implied undertaking arose. There will be no order directing the appellant to consent to the disclosure of the transcript of his discovery evidence in the action brought against him by Bell Canada.
+[23] The respondent is also seeking, as mentioned earlier, an order from this Court directing the appellant to consent to the disclosure of the settlement agreement reached with his former employer in the Ontario civil action brought by that employer and based on allegations of fraud. At the hearing of this motion, the appellant informed the Court that he had no intention of disclosing the terms of the settlement and, more importantly, that he had no intention of using them as evidence for the purpose of his appeal before this Court.
+[24] In the transcript of his examination for discovery in this appeal, the appellant has acknowledged that in February of 1997 he suggested to Revenue Canada that if Bell Canada was successful against him and obtained judgment for an amount equal to or greater than the amount of alleged income shown in the reassessments, then no additional unreported earned income will have been received by him. He wanted Revenue Canada to stay its assessment and re-assessment actions until the conclusion of the civil action brought by Bell Canada. The transcript also reveals that the civil action was concluded in 2001 by a settlement agreement which contained the confidentiality clause with respect to which the respondent seeks an order directing the appellant to give his consent to disclosure of the agreement. The terms of the settlement agreement could be disclosed if both Bell Canada and the appellant agreed to their disclosure (Questions 371 and 372, transcript of examination for discovery in this appeal). Bell Canada's position on this issue is not known.
+[25] The appellant refuses to disclose the terms of the settlement on the basis of his undertaking not to do so given to BellCanada. He undertakes, however, not to use the terms of that settlement for his own benefit in his appeal of his tax assessment and reassessments before this Court, even though it might be to his advantage to do so.
+[26] Given that the appellant undertakes not to produce the terms of settlement as evidence in this appeal, their relevancy to the assessments under appeal is, it seems to me, greatly diminished. Furthermore, before such an order is given, it seems to me that Bell Canada should have been joined and given an opportunity to be heard. On that basis alone, there will be no order directing the appellant to consent to the disclosure of the settlement agreement reached with Bell Canada.
+[27] I therefore grant the motion in part and order the appellant to answer the questions concerning the following documents which he objected to having marked as exhibits during the examination for discovery, namely:
+i. Item A, List 1, Tab 5, described as a copy of cheque #243 payable to H. Aliasy Napal in the amount of $15,500.00, issued on the account of Mark & Ingrid Welford;
+ii. Item B, List 1, Tabs 60 to 65 inclusive, described as Canadian Recon Services Inc. Cheque Register for the periods August 2, 1990 to September 30, 1995;
+iii. Item C, List 1, Tabs 80 to 82 inclusive, described as Bank Account of H. Aliasy Napal/Bipin Napal, Record of Bipin Napal (Bank Account of H. Aliasy Napal, and Records of Mark Welford (Bank Account), respectively;
+iv. Item D, List 1, Tabs 87 through to 105, inclusive, described generally as the bank documents and schedule-analyses relating to Mark and Ingrid Welford, H. Allasy [sic] Napal, Bipin Napal, Sharon Lee Williams, Rita Duggan; Schedules of Canadian Recon cheques paid to Mark Welford, Ingrid Welford, Ingrid Elsing, Sharon Lee Williams, Adco Information Systems, Sho-Lite Enterprises Inc., and REN Associates; Schedule of Banks where Canadian Recon Cheques to Mark Welford, Ingrid Welford and Ingrid Elsing were negotiated; Schedule of cheques issued payable to Mark Welford on account in name of I. Elsing; Schedules of Payments by Mark Welford to H. Aliasy Napal, Rita Duggan and Sharon Lee Williams; Schedule of Cheques issued on account of H. Aliasy Napal that were signed by Bipin Napal; Schedule of False Expenses claimed by Canadian Recon Services Inc. 1991-1995; Schedules of Funds appropriated by Bipin Napal from Canadian Recon Services Inc. 1991-1995; and Schedules of Funds received by Mark Welford from Canadian Recon Services and H. Aliasy Napal less cheques paid out for the benefit of Bipin Napal 1991-1995;
+v. Item E, List 1, Tabs 109 to 113, inclusive, described generally as Schedules of Mark Welford's Revised Taxable Income and Federal Taxes sought to be evaded 1991-1995; Canadian Recon Services Inc. (operating as Focus Technologies) cheques payable to ADCO Information Systems, REN Associates, Sharon-Lee [sic] Williams and Sho-Lite Enterprises Inc.;
+vi. Item F, List 1, Tabs 123 and 124, described generally as Bank accounts of ADCO Information Systems, REN Associates, and H. Aliasy Napal;
+vii. Item G, List 1 Tabs 130 to 132 inclusive, described generally as Cheque Stubs regarding cheques issued by Canadian Recon Services Inc. to Sharon Lee Williams, Sho-Lite Holdings Inc. Payables Register Sheet - Sept-Oct/94 of Canadian Recon Services Inc. found in file "Bipin's Cheque Stubs";
+viii. Item H, List 1, Tab 135, described as Listing of cheques of Canadian Recon Services Inc. re: entries to be made to correct balance from file "Cheque Problems Requiring Correction";
+ix. Item I, List 2, Tabs 162 to 168, inclusive, described generally as Focus cheques and cheque stubs payable to Mark or Ingrid Elsing/Welford (1991-1995) and Focus cheque register for 1991 to 1995; and
+x. Item J, List 2, Tabs 170 to 173, inclusive, described generally as personal banking records of Ingrid Elsing/Welford, Mark or Ingrid Welford, and H. Allasy [sic] Napal.
+[28] I also order the appellant to:
+1. answer question 471 in the transcript of the examination for discovery, which requires the appellant to inquire with Bell Canada as to the method by which they paid him and where they deposited his paycheques;
+2. produce for inspection the T4 referred to in paragraph 13 of the Amended Notice of Appeal;
+3. re-attend at examination for discovery to answer the questions referred to above and other questions that arise from the answers given and to complete the said examination for discovery in accordance with the Tax Court of Canada Rules.
+[29] I also order that:
+1. oral examinations for discovery be completed by March 31, 2006, and that any undertakings resulting from such oral examinations be satisfied by April 28, 2006; and that
+2. the parties communicate in writing with the hearings coordinator by May 26, 2006 to state whether (i) the case will be settled; (ii) case management is required, (iii) a pre-hearing conference would be helpful, or (iv) a hearing date should be set. In the latter event, the parties may file a joint application to fix a time and place for the hearing in accordance with section 123 of the Tax Court of Canada Rules.
+[30] Costs of this motion shall be in the cause.
+Signed at Ottawa, Canada, this 8th day of February 2006.
+"François Angers"
+Angers, J.
+CITATION: 2006TCC31
+COURT FILE NO.: 2003-1401(IT)G
+STYLE OF CAUSE: Mark Welford v. The Queen
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: December 2, 2005
+REASONS FOR ORDER BY: The Honourable Justice François Angers
+DATE OF ORDER: February 8, 2006
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Rosemary Fincham
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Ontario

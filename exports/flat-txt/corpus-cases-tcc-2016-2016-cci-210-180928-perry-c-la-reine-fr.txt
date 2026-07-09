@@ -1,0 +1,132 @@
+Title: Perry c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/180928/index.do
+Corpus path: corpus/cases/tcc/2016/2016-cci-210-180928-perry-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2016-10-05
+
+# Perry c. La Reine
+
+- Citation: 2016 CCI 210
+- Decision date: 2016-10-05
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2935, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Perry c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2016-10-05
+Référence neutre
+2016 CCI 210
+Numéro de dossier
+2015-2548(IT)I
+Juges et Officiers taxateurs
+Patrick J. Boyle
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2015-2548(IT)I
+ENTRE :
+JUNIOR PERRY,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE]
+Appel entendu le 22 août et décision rendue le 26 août 2016,
+à Toronto (Ontario)
+Devant : L’honorable juge Patrick Boyle
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même (le 22 août 2016)
+Avocats de l’intimée :
+Me Caroline Ahn
+Me Peter Swanstrom (le 22 août 2016)
+JUGEMENT
+Conformément aux motifs prononcés de vive voix à l’audience (dont une copie est jointe aux présentes), l’appel interjeté à l’encontre des cotisations établies en vertu de la Loi de l’impôt sur le revenu relativement aux années d’imposition 2005 et 2006 de l’appelant est rejeté, sans dépens.
+Signé à Montréal (Québec), ce 5e jour d’octobre 2016.
+« Patrick Boyle »
+Le juge Boyle
+Dossier : 2015-2548(IT)I
+ENTRE :
+JUNIOR PERRY,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE]
+VERSION RÉVISÉE DE LA TRANSCRIPTION
+DES MOTIFS DU JUGEMENT PRONONCÉS DE VIVE VOIX
+Je requiers que soit déposée la transcription révisée ci-jointe des motifs du jugement prononcés de vive voix à l’audience, le 26 août 2016, à Toronto (Ontario). J’ai révisé la transcription (certifiée par le sténographe judiciaire) sur le plan du style et de la clarté, et pour y apporter des corrections mineures seulement. Je n’y ai fait aucune modification quant au fond.
+Signé à Montréal (Québec), ce 5e jour d’octobre 2016.
+« Patrick Boyle »
+Le juge Boyle
+Référence : 2016 CCI 210
+Date : 20161005
+Dossier : 2015-2548(IT)I
+ENTRE :
+JUNIOR PERRY,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE]
+MOTIFS DU JUGEMENT
+(Appel entendu le 22 août 2016 et décision rendue
+oralement à l’audience le 26 août 2016 à Toronto [Ontario].)
+Le juge Boyle
+[1] J’expose ici les motifs du jugement dans l’appel de Junior Perry entendu au début de la semaine à Toronto quant aux dons de bienfaisance qu’il a versés au PanAfrican Canadian Multicultural Center en 2005 et en 2006.
+[2] Il a déclaré, dans son témoignage, avoir fait des dons en espèces et en nature chaque année sur les conseils d’un comptable fiscaliste, un certain George, qui lui avait été recommandé par un ami.
+[3] Le ministre a présumé, dans sa réponse, que « George » désignait George Gudu, et l’appelant n’a pas cherché à prouver le contraire, bien qu’il ait déclaré ne pas se souvenir du nom de famille de George.
+[4] L’organisme de bienfaisance était enregistré en 2005 et en 2006, et a perdu son agrément en 2007.
+[5] M. Perry était soudeur; en 2006, son revenu en tant qu’employé était inférieur à 60 000 $.
+[6] La preuve fournie par l’appelant se limite à son propre témoignage et à deux reçus pour dons de bienfaisance. Son témoignage était très limité. Au mieux, il était vague, général et ambigu. Il a semblé changer sa version des faits au besoin, au fur et à mesure que des éléments de preuve étaient recueillis. Sa version semble incompatible avec les reçus pour dons de bienfaisance, et ce, à plusieurs égards.
+[7] M. Perry a affirmé avoir fait des dons chaque année, en partie en espèces ou par chèque, et en partie en nature. Il a dit que la partie en espèces représentait environ 5 000 $ en 2005, versés chaque mois au moyen de chèques postdatés d’environ 200 $. Il a ajouté qu’il y avait également une somme en espèces de peut‑être 1 500 $ dont il a fait don en 2004 et qui doit avoir été reportée sur son reçu de 2005; cela donnerait un total inférieur à 4 000 $. Aucun chèque n’a été produit et il n’a pas communiqué avec sa banque pour obtenir des copies.
+[8] Dans son témoignage, il a affirmé qu’il pensait avoir fait principalement des dons en espèces en 2005, mais le reçu de 8 415 $ indique qu’aucun don n’était en espèces et que tous les dons étaient en nature.
+[9] M. Perry pensait que ses dons en 2006 étaient principalement des dons en nature. Il a déclaré 9 130 $.
+[10] Il a maintenu ses dons mensuels au moyen de chèques postdatés de 200 $ en 2006. Son seul reçu pour 2006 indique un montant de 5 980 $. D’après ce reçu, la totalité de la somme a été versée en espèces et il s’agissait d’un versement unique effectué en octobre.
+[11] M. Perry n’a fourni aucune explication quant aux 3 150 $ supplémentaires déclarés en 2006. Sa déclaration de 2006 indique qu’un don de ce montant a été versé à un autre organisme de bienfaisance.
+[12] M. Perry ne savait pas du tout si ses dons en nature avaient été évalués, ni comment ou par qui. Il savait seulement qu’il avait payé 5 000 $ au détaillant The Brick pour un achat de meubles et d’électroménagers deux ou trois ans auparavant. Même cela n’a pas été corroboré par un reçu ou ne serait-ce que par une liste détaillée.
+[13] Je ne suis pas convaincu, selon la prépondérance des probabilités au moyen d’éléments de preuve crédibles et cohérents, que M. Perry a versé des dons à un organisme de bienfaisance en 2005 ou en 2006. Pour ce motif, l’appel doit être rejeté.
+[14] Il semble que les reçus n’étaient pas joints aux déclarations sur papier qu’il a produites. Il a plutôt joint la facture des frais de préparation de sa déclaration d’impôts de 2006. Les frais s’élevaient à 910 $. À côté de ce montant, il est écrit entre parenthèses « 9 130 $ », ce qui correspond au montant exact de ses dons de bienfaisance déclarés cette année-là. On peut constater que les frais de 910 $ correspondent, à 3 $ près, à 10 % de ces dons.
+[15] Ces éléments de preuve, examinés avec tout autre élément de preuve à ma disposition, m’amènent à conclure que, selon toute vraisemblance, M. Perry a acheté ses reçus à M. Gudu pour 10 % de leur valeur nominale.
+[16] L’appel doit également être rejeté parce que les reçus sont insuffisants à bien des égards et ne contiennent pas l’information exigée par les règlements.
+[17] L’orthographe du nom de l’organisme de bienfaisance qui figure sur les reçus comporte deux différences par rapport au nom de l’organisme de bienfaisance tel qu’il est enregistré. Il s’agit d’erreurs mineures qui, dans des circonstances normales, pourraient passer inaperçues. Cependant, aucun des reçus ne fournit de description des biens en nature donnés, pas plus que le nom et l’adresse de l’évaluateur.
+[18] Le reçu de 2006 est daté du 31 décembre 2006, mais comporte une adresse différente des adresses que l’organisme de bienfaisance a fournies à l’ARC jusque plus tard en 2007. Le reçu de 2006 n’indique qu’une seule date pour le don, ce qui ne concorde pas avec le témoignage de l’appelant.
+[19] Le reçu de 2006 semble indiquer un don en espèces seulement, ce qui ne concorde pas non plus avec le témoignage de l’appelant. Aucun des reçus n’indique que des dons en espèces ont été versés en 2004 et ont fait l’objet d’un reçu d’impôt ultérieurement.
+[20] Le présent appel est rejeté pour les deux années en question.
+Signé à Montréal (Québec), ce 5e jour d’octobre 2016.
+« Patrick Boyle »
+Le juge Boyle
+RÉFÉRENCE :
+2016 CCI 210
+No DU DOSSIER DE LA COUR :
+2015-2548(IT)I
+INTITULÉ :
+JUNIOR PERRY c. LA REINE
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATES DE L’AUDIENCE :
+Les 22 et 26 août 2016
+MOTIFS DU JUGEMENT :
+L’honorable juge Patrick Boyle
+DATE DU JUGEMENT :
+Le 5 octobre 2016
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même (le 22 août 2016)
+Avocats de l’intimée :
+Me Caroline Ahn
+Me Peter Swanstrom (le 22 août 2016)
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Cabinet :
+Pour l’intimée :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada

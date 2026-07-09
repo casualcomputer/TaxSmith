@@ -1,0 +1,160 @@
+---
+title: "Sutcliffe v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27325/index.do"
+last_modified: "2006-10-24"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 CCI 581"
+citation2: ""
+neutral_citation: "2006 CCI 581"
+decision_date: "2006-10-24"
+language: "fr"
+item_id: "27325"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 865
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T23:39:03.527000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "7fd90054dd9795b01fe748095b5422694e0e03803eb7e44fc676a193634027d4"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Sutcliffe v. The Queen
+
+- Citation: 2006 CCI 581
+- Decision date: 2006-10-24
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 865, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Sutcliffe v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-10-24
+Référence neutre
+2006 CCI 581
+Numéro de dossier
+2001-2556(IT)G
+Juges et Officiers taxateurs
+Judith Woods
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2001-2556(IT)G
+ENTRE :
+MARK SUTCLIFFE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+_______________________________________________________________
+Appel entendu du 2 au 10 février, le 16 février et le 4 mai 2005, à Ottawa (Ontario)
+Devant : L'honorable juge Judith Woods
+Comparutions :
+Avocats de l'appelant :
+Me Emilio S. Binavince
+Me Michael Eng
+Me Claude-Alain Burdet
+Avocats de l'intimée :
+Me Marley Dash
+Me David G. Frayer, c.r.
+_______________________________________________________________
+JUGEMENT
+La Cour ordonne que l'appel interjeté à l'encontre de cotisations établies en vertu de la Loi de l'impôt sur le revenu pour les années d'imposition 1996, 1997 et 1998 soit accueilli, et que les cotisations soient déférées au ministre du Revenu national pour nouvel examen et nouvelles cotisations en tenant compte du fait que les parts du revenu pouvant raisonnablement se rapporter aux fonctions de l'emploi de l'appelant exercées à l'étranger pendant chacune des années d'imposition en cause pour les itinéraires aériens indiqués dans les motifs du jugement correspondent aux pourcentages suivants du total du revenu gagné par l'appelant comme pilote d'avion pour chacun des vols, lequel revenu figure sur les relevés de paie et d'heures de travail déposés en preuve à l'instruction de l'appel :
+Halifax à Toronto
+22 %
+Toronto à Halifax
+51 %
+Montréal à Toronto
+0 %
+Toronto à Montréal
+11 %
+Vancouver à Toronto
+31 %
+Toronto à Vancouver
+49 %
+Aucuns dépens ne sont adjugés.
+Signé à Toronto (Ontario), ce 24e jour d'octobre 2006.
+« J. Woods »
+Le juge Woods
+Traduction certifiée conforme
+ce 18e jour de mars 2008.
+Yves Bellefeuille, réviseur
+Référence : 2006CCI581
+Date : 20061024
+Dossier : 2001-2556(IT)G
+ENTRE :
+MARK SUTCLIFFE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+ADDENDUM AUX MOTIFS DU JUGEMENT
+Le juge Woods
+[1] Après que j'ai rendu mes motifs du jugement, le 22 décembre 2005, les parties ont soumis à la Cour une lettre datée du 20 octobre 2006, qui est rédigée en partie ainsi :
+[TRADUCTION]
+Aux fins de résolution de la question qui reste en litige dans l'appel, les parties conviennent que les parts du revenu pouvant raisonnablement se rapporter aux fonctions de l'emploi de M. Sutcliffe exercées à l'étranger pendant les années d'imposition visées par l'appel pour les itinéraires aériens indiqués par la Cour correspondent aux pourcentages suivants du total du revenu gagné par M. Sutcliffe comme pilote d'avion pour chacun des vols, lequel revenu figure sur les relevés de paie et d'heures de travail déposés en preuve à l'instruction de l'appel :
+Halifax à Toronto
+22 %
+Toronto à Halifax
+51 %
+Montréal à Toronto
+0 %
+Toronto à Montréal
+11 %
+Vancouver à Toronto
+31 %
+Toronto à Vancouver
+49 %
+[2] Le jugement sera rendu conformément à mes motifs antérieurs et à cet accord.
+[3] Pour donner suite à un autre accord intervenu entre les parties, aucuns dépens ne seront adjugés.
+Signé à Toronto (Ontario), ce 24e jour d'octobre 2006.
+« J. Woods »
+Le juge Woods
+Traduction certifiée conforme
+ce 18e jour de mars 2008.
+Yves Bellefeuille, réviseur
+RÉFÉRENCE : 2006CCI581
+Nº DU DOSSIER DE LA COUR : 2001-2556(IT)G
+INTITULÉ : Mark Sutcliffe et Sa Majesté la Reine
+LIEU DE L'AUDIENCE : Ottawa, Canada
+DATES DE L'AUDIENCE : Du 2 au 10 février, le 16 février et le 4 mai 2005
+MOTIFS DU JUGEMENT : L'honorable juge Judith Woods
+DATE DU JUGEMENT : Le 24 octobre 2006
+COMPARUTIONS :
+Avocats de l'appelant :
+Me Emilio S. Binavince
+Me Michael Eng
+Me Claude-Alain Burdet
+Avocats de l'intimée :
+Me Marley Dash
+Me David G. Frayer, c.r.
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelant :
+Nom : Me Claude-Alain Burdet
+Cabinet : Viele Burdet
+Ottawa, Canada
+Pour l'intimée : John H. Sims, c.r.
+Sous‑procureur général du Canada
+Ottawa, Canada

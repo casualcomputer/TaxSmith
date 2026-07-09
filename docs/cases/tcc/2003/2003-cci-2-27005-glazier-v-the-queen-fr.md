@@ -1,0 +1,150 @@
+---
+title: "Glazier v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27005/index.do"
+last_modified: "2003-01-30"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 CCI 2"
+citation2: ""
+neutral_citation: "2003 CCI 2"
+decision_date: "2003-01-30"
+language: "fr"
+item_id: "27005"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 584
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T19:36:08.012000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "5184f5e043344a81541c2f137713048fc491d21cf092b25b336db92dd591e16a"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Glazier v. The Queen
+
+- Citation: 2003 CCI 2
+- Decision date: 2003-01-30
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 584, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Glazier v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-01-30
+Référence neutre
+2003 CCI 2
+Numéro de dossier
+2002-1861(IT)I
+Juges et Officiers taxateurs
+Alexander A. Sarchuk
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Référence : 2003CCI2
+Date : 20030130
+Dossier : 2002-1861(IT)I
+ENTRE :
+MARVIN GLAZIER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+_______________________________________________________________
+Appel entendu le 15 janvier 2003 à Toronto (Ontario)
+Par : L'honorable juge A. A. Sarchuk
+Comparutions :
+Représentant de l'appelant :
+Perry Truster
+Avocat de l'intimée :
+Me James Rhodes
+_______________________________________________________________
+JUGEMENT
+L'appel interjeté à l'encontre de la cotisation fiscale établie pour l'année d'imposition 1998 en vertu de la Loi de l'impôt sur le revenu est rejeté.
+Signé à Ottawa, Canada, ce 30e jour de janvier 2003.
+« A. A. Sarchuk »
+J.C.C.I.
+Traduction certifiée conforme
+ce 14e jour de mai 2004.
+Ingrid B. Miranda, traductrice
+Référence : 2003CCI2
+Date : 20030130
+Dossier : 2002-1861(IT)I
+ENTRE :
+MARVIN GLAZIER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Sarchuk
+[1] Il s'agit d'un appel interjeté à l'encontre d'une cotisation fiscale établie par le ministre du Revenu national pour l'année d'imposition 1998 de l'appelant. La question en litige est de savoir si ce dernier a le droit de déduire la somme de 23 595 $ à titre de versements de pension alimentaire pendant l'année d'imposition en question.
+[2] Les faits à l'origine du litige ne sont pas contestés. L'appelant et son ex-conjointe Marsha se sont mariés le 15 juin 1986. Il n'y a pas d'enfants du mariage. En 1989, les parties ont convenu de se séparer et ont vécu ainsi, à partir de cette date, sans interruption. Un jugement de divorce a été rendu le 16 septembre 1991. Le jugement obligeait l'appelant à verser des paiements de pension alimentaire à son ex-conjointe. Au cours de l'année 1997, en raison d'un changement de situation financière, l'appelant a cessé les paiements et son épouse a alors intenté une poursuite contre lui. Sur une demande de saisie-arrêt datée du 31 mars 1998[1], il est inscrit que les arriérés des aliments s'élevaient à 18 702,95 $. Au cours de cette période, les parties étaient engagées dans des négociations. Éventuellement, ils ont résolu les questions disputées et, le 6 juillet 1998, les deux parties ont souscrit au procès-verbal de transaction[2]. Les dispositions pertinentes au différend dont la Cour est saisie sont les suivantes :
+3 Paiement des arriérés et renonciation à la pension alimentaire
+(1) Le 25e jour de septembre 1998 au avant cette date, l'époux devra payer à l'épouse (ou à toute personne qu'elle aura indiquée par écrit) la somme de vingt-trois mille cinq cent quatre-vingt quinze dollars (23 595 $) dont sept mille cinq cent dollars (7 500 $) de frais et seize mille quatre-vingt quinze dollars (16 095 $) d'arriérés au titre de la pension alimentaire pour la conjointe en exécution du jugement de l'honorable juge Walsh, daté du 16 septembre 1991. Ce paiement sera le dernier prescrit par ledit jugement. L'époux ne sera plus tenu de verser de pension alimentaire à l'épouse.
+(2) Sous réserve des dispositions du paragraphe 1 ci-dessus, chaque partie :
+a) est financièrement indépendante;
+b) n'a pas besoin de soutien financier de l'autre partie;
+c) libère l'autre partie de toute obligation de verser une pension alimentaire ou des aliments provisoires en vertu de la Loi sur le droit de la famille ou de la Loi sur le divorce;
+d) renonce à tout droit de demander ou d'obtenir de l'autre partie une pension alimentaire ou des aliments provisoires, en vertu de la Loi sur le droit de la famille ou de la Loi sur le divorce.
+e) Les parties conviennent que leurs situations financières respectives peuvent changer dans le futur, pour des raisons de santé, de coût de la vie, d'emploi ou autre. Aucun changement, même s'il est important, profond, catastrophique ou autre, qu'il ait ou non un lien de causalité avec le mariage, ne donnera à l'une ou l'outre partie le droit de demander ou d'obtenir de pension alimentaire, provisoire ou permanente, ni en vertu de la Loi sur le droit de la famille, ni en vertu de la Loi sur le divorce, ni en vertu de tout autre texte législatif ou règle de droit, de la part de l'autre partie. Notamment, l'épouse s'engage expressément à ne pas déposer de requête en indexation des versements de pension alimentaire en vertu des paragraphes 34(5) et (6), ni de l'article 38, de la Loi sur le droit de la famille et à ne pas demander de modification en vertu des paragraphes 35(1) et (2), ou de l'article 37, de la Loi sur le droit de la famille, ni en vertu de l'article 17 de la Loi sur le divorce.
+4. Partage des biens
+(1) Le partage des biens a été effectué par le jugement de l'honorable juge Walsh, daté du 16 septembre 1991.
+[...]
+8. Dispositions générales
+(a) L'époux et l'épouse acceptent les conditions de la présente entente en règlement définitif et intégral de toute demande possible à l'encontre de l'autre partie, sauf exception des demandes :
+(i) découlant de la présente entente.
+(Je souligne.)
+[3] On a accordé à l'appelant un certain temps pour effectuer le paiement prescrit par l'entente de séparation. Ceci a eu lieu le 1er octobre 1998[3] et, peu après, le jugement de M. le juge O'Connell a été rendu le 26 octobre 1998[4]. Les extraits pertinents de ce jugement sont les suivants :
+[traduction]
+LA PRÉSENTE DEMANDE en modification déposée par le requérant pour que soit modifié le jugement de l'honorable juge Walsh, daté du 21 septembre 1991, dans le cadre de l'instance no 169020/89; pour annuler les arriérés au titre de la pension alimentaire dus à la conjointe et les frais afférents; pour annuler toute obligation supplémentaire du requérant de verser une pension alimentaire à l'intimée; et pour obtenir d'autres mesures de redressement, a été lue en ce jour à Toronto, en Ontario.
+SUITE À LA LECTURE dudit jugement, des déclarations sous serment et des états financiers des parties, ainsi que de la déclaration de consentement des parties préparée par leurs avocats, aucune des parties n'étant frappée d'incapacité,
+1. LA COUR ORDONNE QUE le requérant, ayant versé à l'intimée la somme de vingt-trois mille cinq cent quatre-vingt quinze dollars (23 595 $) le 1er octobre 1998, à titre de pension alimentaire, d'intérêts et de frais, dus à l'intimée au 26 juin 1998 en vertu du jugement de Monsieur le juge Walsh, daté du 21 septembre 1991 rendu dans le cadre de l'instance no 169020/89 à Toronto, est par les présentes libéré de toute obligation de payer à l'intimée tout autre montant, notamment des montants de pension alimentaire pour la conjointe, pour le passé, le présent et l'avenir.
+2. LA COUR ORDONNE QUE le jugement de Monsieur le juge Walsh, daté du 21 septembre 1991 dans le cadre de l'instance no 169020/89 à Toronto soit modifié par les présentes et annule toute obligation du requérant de verser à l'intimée quelque somme d'argent que ce soit en sus des montants versés, ou réputés l'avoir été, par l'intimée au requérant, jusqu'au 26 juin 1998, ou bien en sus des arriérés au titre de la pension alimentaire pour la conjointe exigibles le 26 juin 1998, ainsi que les intérêts et frais afférents, y compris la somme visée au paragraphe 1 ci-dessus.
+(Je souligne.)
+Position de l'appelant
+[4] L'appelant soutient que la somme de 23 595 $ ne représente que le total des arriérés au titre de la pension alimentaire pour la conjointe. Il invoque la demande de saisie-arrêt datée du 31 mars 1998 qui, selon lui, établit que le montant des arriérés à cette date s'élève à 18 702,95 $. De surcroît, puisque les versements périodiques de la pension alimentaire étaient de 1 630,64 $ par mois, un calcul rapide suffit pour démontrer que l'addition des retenues pour les mois d'avril, mai et juin donne un résultat de 23 594,87 $. Il en conclut que le montant de 23 595 $ mentionné dans le procès-verbal de transaction et dans l'ordonnance ultérieure de la Cour rendue par le juge O'Connell ne porte que sur les arriérés au titre de la pension alimentaire pour la conjointe, et aucunement sur l'exécution d'obligations futures.
+[5] Le représentant de l'appelant soutient que la jurisprudence portant sur des situations semblables aux faits en l'espèce, exprime clairement que la fraction d'un paiement forfaitaire qui concerne le versement rétroactif d'aliments périodiques est entièrement déductible. Il invoque la décision Soldera c. M.R.N.[5] dans lequel on a accordé au contribuable la déduction d'un paiement forfaitaire à son ex-conjointe correspondant à des obligations en souffrance. Le représentant se fonde particulièrement sur le commentaire de la Cour selon lequel « Pourvu que l'accord prévoie que les montants d'argent sont payables périodiquement, l'exigence contenue à l'alinéa est respectée. Les paiements ne changent pas de nature pour la seule raison qu'ils ne sont pas effectués à temps. » Le représentant a établi une distinction avec les affaires invoquées par l'intimée, en plaidant que celles-ci portaient sur des situations où le paiement forfaitaire réglait définitivement tous les montants d'aliments exigibles dans le futur. Ce qui, selon lui, n'est pas le cas en l'espèce.
+Position de l'intimée
+[6] L'avocat de l'intimée a soutenu que le paiement en question ne constituait pas des aliments, ni un autre type d'allocation payable sur une base périodique pour l'entretien de la conjointe de l'appelant. De surcroît, le paiement libérait l'appelant de toute obligation future de verser une pension alimentaire. Pour cette raison, il ne répond pas aux exigences de l'article 60.1 ni de l'alinéa 60b) de la Loi de l'impôt sur le revenu et, par conséquent, il n'est pas déductible dans le cadre de l'année d'imposition en question.
+Conclusion
+[7] Il est généralement reconnu que les paiements forfaitaires d'arriérés de versements périodiques sont déductibles pour le payeur et, dans certaines circonstances, imposables pour le bénéficiaire. Ceci est conforme à la décision de la Cour d'appel fédérale dans l'arrêt La Reine c. Sills[6] selon laquelle « Les paiements ne changent pas de nature pour la seule raison qu'ils ne sont pas effectués à temps » . D'un autre côté, si les parties conviennent du versement d'un montant forfaitaire substantiellement inférieur au montant exigible, en quittance de toute obligation future pour le payeur, alors la nature des paiements est modifiée et le paiement forfaitaire n'est plus déductible[7].
+[8] Dans le présent appel, il n'y a pas de doute que le montant de 16 095 $ payable en tant qu' « arriérés au titre de la pension alimentaire pour la conjointe » ne représente pas le montant total des arriérés en souffrance et exigibles à cette date. Il n'y a pas de doute non plus, que le montant négocié fait partie de la contrepartie versée pour libérer l'appelant de toute obligation future. Ceci est clairement établi par le paragraphe 10 du procès-verbal de transaction, selon lequel :
+10. Règlement intégral et définitif
+a) L'époux et l'épouse conviennent que les dispositions de l'accord portant sur la pension alimentaire et sur les biens sont liées inextricablement et constituent un règlement financier intégral et définitif.
+Pour tirer cette conclusion, il suffit de faire référence à la formulation de l'accord de séparation et de l'ordonnance, qui expriment en termes non ambigus que l'appelant a été « libéré de toute obligation de payer à l'intimée tout autre montant, notamment des montants de pension alimentaire pour la conjointe, pour le passé, le présent et l'avenir » .[8]
+[9] L'appelant n'est pas fondé à s'appuyer sur l'affaire Soldera, puisque dans cette dernière affaire, le paiement forfaitaire représentait un versement prescrit par une ordonnance antérieure et, plus important, les obligations présentes et futures n'étaient pas éteintes. À mon avis, dans l'espèce, il n'est pas possible de considérer le paiement forfaitaire comme autre chose qu'un montant versé dans le but de se libérer d'une obligation découlant d'une ordonnance ou d'un accord, soit dans le cadre d'arriérés de paiements de pension alimentaire, soit dans le cadre de futurs paiements, ou bien dans les deux cas. Par conséquent, l'appel est rejeté.
+Signé à Ottawa, Canada, ce 30e jour de janvier 2003.
+« A. A. Sarchuk »
+J.C.C.I.
+Traduction certifiée conforme
+ce 14e jour de mai 2004.
+Ingrid B. Miranda, traductrice
+[1] Pièce R-1.
+[2] Pièce R-2 - Accord de séparation - Procès-verbal de transaction daté du 6 juillet 1998. Cette pièce a été fournie par l'appelant et ne porte que sa signature. Cependant, on n'a pas contesté le fait que l'accord a été signé par les deux parties le 6 juillet 1998 et qu'il est exécutoire à compter de cette date.
+[3] Pièce A-2.
+[4] Pièce A-1.
+[5] C.C.I.., no 90-1497(IT), 26 février 1991 (91 DTC 987).
+[6] [1985] 2 C.F. 200 (85 DTC 5096) (C.A.F.).
+[7] M.N.R. v. Armstrong, (56 DTC 1044); MacBurnie c. La Reine, C.C.I., no 94-2419(IT)I, 17 août 1995 (95 DTC 686); Dubreuil c. M.R.N., 93 DTC 540; Groleau v. Canada, [2002] T.C.J. No. 103; Sills, précitée.
+[8] Pièce A-1, paragraphe 1.

@@ -1,0 +1,281 @@
+---
+title: "Mazurkewich v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27953/index.do"
+last_modified: "2007-09-04"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 TCC 517"
+citation2: ""
+neutral_citation: "2007 TCC 517"
+decision_date: "2007-09-04"
+language: "en"
+item_id: "27953"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1801
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T22:46:43.336000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "30bc9187c1da8a748167d2e18ae4e60fc034f6c27037edf195ce87b2efce5c27"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Mazurkewich v. The Queen
+
+- Citation: 2007 TCC 517
+- Decision date: 2007-09-04
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1801, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Mazurkewich v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-09-04
+Neutral citation
+2007 TCC 517
+File numbers
+2006-862(IT)I
+Judges and Taxing Officers
+Donald G.H. Bowman
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2006-862(IT)I
+BETWEEN:
+JAMES MAZURKEWICH,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard together with the appeals of Jeffrey K. Almen (2006‑876(IT)I)
+on August 20, 2007 at Prince Albert, Saskatchewan.
+Before: The Honourable D.G.H. Bowman, Chief Justice
+Appearances:
+Agent for the Appellant: Bruce Grandfield
+Counsel for the Respondent: Brooke Sitter
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 2001 taxation year is quashed.
+The appeal for the 2002 taxation year is allowed and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment to permit the appellant to deduct $547 as a moving expense.
+Signed at Ottawa, Canada, this 4th day of September 2007.
+“D.G.H. Bowman”
+Bowman, C.J.
+Docket: 2006-876(IT)I
+BETWEEN:
+JEFFREY K. ALMEN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard together with the appeals of James Mazurkewich (2006‑862(IT)I)
+on August 20, 2007 at Prince Albert, Saskatchewan.
+Before: The Honourable D.G.H. Bowman, Chief Justice
+Appearances:
+Agent for the Appellant: Bruce Grandfield
+Counsel for the Respondent: Brooke Sitter
+____________________________________________________________________
+JUDGMENT
+The appeals from the assessments made under the Income Tax Act for the 2001 and 2002 taxation years are dismissed.
+Signed at Ottawa, Canada, this 4th day of September 2007.
+“D.G.H. Bowman”
+Bowman, C.J.
+Citation: 2007TCC517
+Date: 20070904
+Docket: 2006-862(IT)I
+BETWEEN:
+JAMES MAZURKEWICH,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+AND
+Docket: 2006-876(IT)I
+BETWEEN:
+JEFFREY K. ALMEN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Bowman, C.J.
+[1] These appeals from assessments made under the Income Tax Act for the 2001 and 2002 taxation years were heard together. The issue that is common to the appeals for both appellants is the allocation of partnership losses.
+[2] Mr. Mazurkewich’s appeals raise a separate issue having to do with moving expenses. In 2000, he moved from British Columbia to Saskatoon to start a new business in partnership with Mr. Almen and their respective spouses. The Crown does not dispute that the expenses claimed were in fact incurred and were proper moving expenses within the meaning of section 62 of the Income Tax Act but contends that:
+(a) they cannot be deducted in 2001 because the appellant had nil income; and
+(b) they can be deducted in 2002 only to the extent of $547 because that is all the income that the appellant earned at the new work location.
+Section 62(1) reads as follows:
+62. (1) Moving Expenses – There may be deducted in computing a taxpayer’s income for a taxation year amounts paid by the taxpayer as or on account of moving expenses incurred in respect of an eligible relocation, to the extent that
+(a) they were not paid on the taxpayer’s behalf in respect of, in the courseof or because of, the taxpayer’s office or employment.
+(b) they were not deductible because of this section in computing the taxpayer’s income for the preceding taxation year;
+(c) the total of those amounts does not exceed
+(i) in any case described in subparagraph (a)(i) of the definition “eligible relocation” in subsection 248(1), the taxpayer’s income for the year from the taxpayer’s employment at a new work location or from carrying on the business at the new work location, as the case may be, and
+(ii) in any case described in subparagraph (a)(ii) of the definition “eligible relocation” in subsection 248(1), the total of amounts included in computing the taxpayer’s income for the year because of paragraphs 56(1)(n) and (o); and
+(d) all reimbursements and allowances received by the taxpayer in respect of those expenses are included in computing the taxpayer’s income.
+I agree with Crown counsel on both points. Therefore, the appeal of Mr. Mazurkewich for 2001 should be quashed because it is from a nil assessment. (Okalta Oils Ltd. v. M.N.R., 55 DTC 1176 (S.C.C.)). A recent and useful discussion of the rule is found in the decision of the Federal Court of Appeal in Interior Savings Credit Union v. R., [2007] 4 C.T.C. 55.
+[3] Moreover, the appeal for 2002 is allowed to permit $547 of the moving expenses to be deducted. The remainder of the moving expenses can be carried forward to subsequent years and deducted in those years to the extent that the appellant, Mr. Mazurkewich, has income from the new work location. See Moodie v. R., [2004] 4 C.T.C. 2329.
+[4] I turn now to the somewhat larger issue that is involved in both Mr. Mazurkewich’s appeal for 2002 and Mr. Almen’s appeals for 2001 and 2002. It requires a consideration of the question of the payment or notional payment for services rendered to a partnership by a partner. I was surprised to find that the matter is somewhat more complex than I had believed.
+[5] By a partnership agreement made as of March 28, 2000, the appellants and their respective wives (Elizabeth Almen and Diane Mazurkewich) formed a partnership under the name of Pruden’s Point Resort. Paragraph 1.03 provided:
+“Partnership” Interest” means the proportionate interest of any particular Partner in the Partnership at any particular time, the initial proportionate interest being as prescribed by Schedule “A” attached to this Agreement.
+Paragraph 2.04 provided:
+The net profits, if any, of the Partnership which the Partners determine to distribute shall be allocated and distributed to each Partner in proportion to their respective Partnership Interest existing as of the date of distribution. Any losses sustained or incurred by the Partnership shall be borne by the Partners in proportion to their respective Partnership Interest existing as of the date the loss is incurred.
+[6] Schedule A was not attached but the appellants and Diane Mazurkewich agreed that the four partners had equal interests of 25%. The two wives worked at the resort and I accept that they worked hard and that they did everything that was necessary to make the operation viable including bookkeeping, cleaning and cooking. Their husbands, the appellants, worked at jobs away from the resort and contributed financially to the partnership. It is obvious that the contribution of all four partners to the operation, whether it was in the form of labour or of money, was essential to the success and viability of the enterprise.
+[7] In the years under appeal, 2001 and 2002, the business of the partnership sustained a loss. In 2001, the loss was shown in the statement of business activities filed with the appellants’ returns as $55,859.61 and for 2002, $44,613.84. This was calculated as follows:
+2001
+2002
+Sales $150,149.02
+$173,454.68
+Cost of goods sold $ 68,464.75
+$ 60,596.29
+Expenses $137,543.00
+$157,672.23
+Loss ($ 55,859)
+($ 44,613.84)
+[8] This is the loss of the partnership under subsection 96(1) of the Income Tax Act and each partner’s share of the loss should be 25% thereof or $13,964.75 in 2001 and $11,153.46 in 2002. The accountant for the appellants, who also acted as their agent in the appeals, adjusted the loss as follows:
+Net Loss from Operations 2001 $(55,860.00)
+Distribution
+Jeff
+Almen
+Elizabeth
+Almen
+Jim
+Mazurkewich
+Diane
+Mazurkewich
+Total
+__________
+Partnership Wages
+$ (7,840.00)
+$(21,280.00)
+$ -
+$ (29,120.00)
+(58,240.00)
+Net Distribution
+_(28,525.00)
+(28,525.00)
+(28,525.00)
+(28,525.00)
+(114,100.00)
+Net Loss from
+Operations
+$(20,685.00)
+(7,245.00)
+$ (28,525.00)
+$ 595.00
+$(55,860.00)
+Partner Adjustments
+$ (6,720.00)
+$ 6,720.00
+$ (14,560.00)
+$ 14,560.00
+$ -_____
+Net Loss from Operations 2002 $ (44,613.84)
+Distribution
+Jeff
+Almen
+Elizabeth
+Almen
+Jim
+Mazurkewich
+Diane
+Mazurkewich
+Total
+__________
+Partnership Work
+Credit
+$ -
+$(29,120.00)
+$ -
+$ (29,120.00)
+$(58,240.00)
+Net Distribution
+_(25,713.46)
+(25,713.46)
+(25,713.46)
+(25,713.46)
+(102,853.84)
+Net Loss from
+Operations
+$(25,713.46)
+$ 3,406.54)
+$ (25,713.46)
+$ 3,406.54
+$(44,613.84)
+Partner Adjustments
+$ (14,560.00)
+$ 14,560.00
+$ (14,560.00)
+$ 14,560.00
+$ -_____
+[9] If one takes 2001 as an example and looks at the bottom line (net loss from operations), it will be apparent that the net loss that is being distributed is correct ($55,860.00) but it is not allocated in accordance with the 25% interest of each partner. A far bigger percentage is being allocated to the husbands, a small portion to Elizabeth Almen and a small amount of income to Diane Mazurkewich. The justification advanced for this is that the wives, who admittedly devoted a great deal more labour to the partnership business than the appellants, should get some recognition for the time and work they did.
+[10] The fact of the matter is that the attribution of “partnership wages” to them is purely notional. Nothing was paid to them and they did not declare these notional wages in their income tax returns. All that happened was that the loss was increased from $55,860.00 to $114,100.00 by the additional notional wages. In the result the partnership loss was allocated among the four equal partners on a 37%, 12%, 51% and 0% basis.
+[11] Mr. Grandfield argued the appellants’ position with great conviction and sincerity. The question of the deductibility of salaries or wages paid to a partner by a partnership appears to be more controversial than I had thought.
+[12] Interpretation Bulletin IT‑138R (now cancelled) was relied upon by the appellants’ agent. It previously said:
+Salaries
+10. Salaries paid by a partnership to its members do not constitute a business expense, but are a method of distributing partnership income among members. The income of a partnership in a taxation year may be less than the salaries which the partnership agreement requires to be paid to the partners. In this event, the excess of the salaries over such income appears as a deduction in the partners’ capital accounts. Such a reduction of the capital of each partner is allowed as a deduction in determining the allocation to him of the income or loss of the partnership.
+11. For example, suppose that A and B are members of AB partnership. Under the partnership agreement, A is to receive an annual salary of $2,500, after which A and B divide the income or loss equally. The income of the partnership before deduction of the $2,500 salary paid to A is $1,000. The loss after the salary is deducted is $1,500 and $750 is charged to each of the capital accounts. In such a case, A’s income is $1,750 ($2,500 - $750) and B’s loss is $750. Thus A’s income of $1,750 minus B’s loss of $750 equals the income of the partnership.
+[13] Without commenting on whether the view expressed in IT-138R is defensible or not, it does not, in any event, support the appellants’ position for several reasons:
+(a) nothing was in fact paid to the appellants’ spouses;
+(b) it results in an allocation and loss that is not in accordance with the partnership agreement;
+(c) the wages notionally attributable to the spouses were not brought into their income.
+[14] Generally I should have thought it open to question whether salary or wages paid by a partnership to a partner could be deducted as a business expense of the partnership. This view is consistent with that expressed by Hamlyn J. in Crestglen Investments Ltd. v. M.N.R., [1993] 2 C.T.C. 3210 at paragraph 23:
+Moreover, a partnership is not a distinct legal entity apart from the partners. A partner cannot be both the employer and the employed in the same partnership business. The tax treatment of a partners partnership income is the same whether it is partnership distribution or monies allocated for partnership management services. Thus a partner cannot be an employee of a partnership2 that is capable of entering into a contract of employment with the partnership and as a consequence an incorporated employee could not become an employee of a partnership that the incorporated employee was a partner.
+[15] The question of the tax treatment of salary or wages paid by a partnership to a partner has however yet to be definitively determined. I mentioned the Crestglen case above, in which Hamlyn J. followed Re Thorne and N.B. Workmen’s Comp. Bd. (1962), 48 M.P.R. 756, 33 D.L.R. (2d) 167 (aff’d without written reasons, S.C.R. 1962 S.C.R. viii), which he referred to in a footnote.
+[16] Nonetheless, there is certainly strong support for the opposite point of view. In Archbold v. The Queen, [1995] 1 C.T.C. 2872, Lamarre Proulx J. held that where an express agreement among partners permitted it, a partnership could pay a salary to one of its partners and such amount was a deductible expense. This view was shared by the eminent legal scholar and writer, the late Dr. Wolfe D. Goodman, Q.C., in an article published in Goodman on Estate Planning (2003) Volume XII, No. 1, page 931.
+[17] Mr. Grandfield’s preparation was thorough and the material that he gave me was very helpful in assisting me to understand the complexity of the problem. The question is discussed in Understanding the Taxation of Partnerships, 5th Edition (2006) at paragraphs 234-238 and in Death of a Taxpayer, 8th Edition (2005) at pages 148-149. The administrative practice of the Canada Revenue Agency (“CRA”) on this question seems to be going through an evolutionary process. The most recent pronouncement by the CRA is found in Technical News No. 30 of May 21, 2004. Sooner or later the matter will need to be fully argued, possibly with the benefit of expert accounting advice.
+[18] I do not think that any useful purpose would be served by my coming down on either side of this debate without further argument. It is not necessary for my decision here since nothing was in fact paid to the wives.
+[19] The appeal of James Mazurkewich for 2001 is quashed and the appeal for 2002 is allowed to permit Mr. Mazurkewich to deduct $547 as a moving expense.
+[20] The appeals of Jeffrey Almen for 2001 and 2002 are dismissed.
+Signed at Ottawa, Canada, this 4th day of September 2007.
+“D.G.H. Bowman”
+Bowman, C.J.
+CITATION:
+2007TCC517
+COURT FILES NOS.:
+2006-862(IT)I
+2006-876(IT)I
+STYLE OF CAUSE:
+James Maxurkewich and
+Jeffrey K. Almen v.
+Her Majesty The Queen
+PLACE OF HEARING:
+Prince Albert, Saskatchewan
+DATE OF HEARING:
+August 20, 2007
+REASONS FOR JUDGMENT BY:
+The Honourable D.G.H. Bowman, Chief Justice
+DATE OF JUDGMENT:
+September 4, 2007
+APPEARANCES:
+Agent for the Appellants:
+Bruce Grandfield
+Counsel for the Respondent:
+Brooke Sittler
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Bruce Grandfield & Co.
+Firm:
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

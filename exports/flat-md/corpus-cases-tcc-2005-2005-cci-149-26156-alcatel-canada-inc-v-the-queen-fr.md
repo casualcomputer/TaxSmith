@@ -1,0 +1,194 @@
+---
+title: "Alcatel Canada Inc. v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26156/index.do"
+last_modified: "2005-02-24"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 CCI 149"
+citation2: ""
+neutral_citation: "2005 CCI 149"
+decision_date: "2005-02-24"
+language: "fr"
+item_id: "26156"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3954
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T23:12:32.390000+00:00"
+cases_cited_count: 0
+cases_citing_count: 3
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "1837def9d506913d6dbdeeac7133fca2dcf73626047e9644e8abe43a4b94e39d"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Alcatel Canada Inc. v. The Queen
+
+- Citation: 2005 CCI 149
+- Decision date: 2005-02-24
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3954, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Alcatel Canada Inc. v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-02-24
+Référence neutre
+2005 CCI 149
+Numéro de dossier
+2003-748(IT)G
+Juges et Officiers taxateurs
+Michael J. Bonner
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Dossier : 2003-748(IT)G
+ENTRE :
+ALCATEL CANADA INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 16 novembre 2004, à Toronto (Ontario).
+Devant : L'honorable juge Michael J. Bonner
+Comparutions :
+Avocats de l'appelante :
+Me Al Meghji
+Me Peter MacDonald
+Avocats de l'intimée :
+Me Alexandra Brown
+Me Brent Cuddy
+____________________________________________________________________
+JUGEMENT
+L'appel interjeté à l'égard de la cotisation établie en vertu de la Loi de l'impôt sur le revenu pour l'année d'imposition 1994 de l'appelante est admis avec dépens et la cotisation est déférée au ministre du Revenu national pour nouvelle cotisation faisant droit à la déduction au titre du crédit d'impôt à l'investissement telle qu'elle est demandée.
+Signé à Toronto (Ontario), ce 24e jour de février 2005.
+« Michael J. Bonner »
+Juge Bonner
+Traduction certifiée conforme
+ce 12e jour de décembre 2005.
+Yves Bellefeuille
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Référence : 2005CCI149
+Date : 20050224
+Dossier : 2003-748(IT)G
+ENTRE :
+ALCATEL CANADA INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Bonner, C.C.I.
+[1] Il s'agit d'un appel interjeté à l'égard d'une cotisation d'impôt sur le revenu visant l'année d'imposition 1994 de l'appelante. Il soulève la question de savoir si l'appelante a droit au crédit d'impôt à l'investissement relativement à la valeur d'options d'achat d'actions qu'elle a accordées à certains de ses employés qui exerçaient des activités de recherche scientifique et de développement expérimental ( « RSDE » ).
+[2] Les faits essentiels ne sont pas contestés. Un grand nombre des allégations énoncées dans l'avis d'appel ont été admises dans la réponse modifiée. D'autres faits ont été établis par l'exposé conjoint des faits produit en l'espèce. Aucun témoin n'a été appelé à comparaître à l'audience.
+[3] À tous les moments pertinents, l'appelante, société anciennement connue comme la Newbridge Networks Corporation, exerçait des activités de recherche scientifique et de développement expérimental au Canada.
+[4] L'appelante offrait un programme d'actionnariat des employés. Dans le cadre de ce programme, les employés avaient le droit d'acheter un nombre donné d'actions ordinaires de l'appelante à un prix d'exercice au moins égal au prix du marché des actions à la bourse de Toronto à la date où les options avaient été accordées. Les options pouvaient être exercées en trois tranches égales au premier, au deuxième et au troisième anniversaire de la date où elles avaient été accordées, et elles expiraient quatre ans suivant cette date ou suivant la date de cessation d'emploi.
+[5] Le programme d'actionnariat permettait aux employés d'exercer leurs options de l'une de deux façons, à savoir la méthode habituelle ou la méthode sans espèces. Peu importe la méthode, les employés obtenaient, dès l'exercice de leurs options d'achat d'actions, un avantage égal à la différence entre la valeur au marché des actions au moment de l'exercice de l'option et le prix d'exercice. Aucune des parties n'a laissé entendre que la méthode choisie par l'employé pour exercer l'option avait une quelconque incidence sur l'issue du présent appel.
+[6] Le litige intéressant le crédit d'impôt à l'investissement découle des faits qui suivent. Dans sa déclaration de revenus pour 1994, l'appelante a choisi, conformément au paragraphe 37(10) de la Loi de l'impôt sur le revenu (la « Loi » ), d'utiliser la méthode facultative prévue à la division 37(8)a)(ii)(B) de la Loi pour calculer ses dépenses afférentes aux activités de RSDE. Dans le calcul de ses dépenses afférentes aux activités de RSDE de 1994, l'appelante a ajouté, en application de la subdivision 37(8)a)(ii)(B)(IV), la valeur d'options d'achat d'actions qu'ont obtenues les employés participant directement aux activités de RSDE et qui s'élevait à la somme de 23 344 318 $. L'appelante a donc demandé, en application de l'article 127 de la Loi, un crédit d'impôt à l'investissement ( « CII » ) de 4 668 864 $ au titre des options d'achat d'actions pour son année d'imposition 1994.
+[7] Le 27 novembre 2002, le ministre a établi une nouvelle cotisation à l'égard de l'appelante. Il a refusé le CII demandé et il a réduit le solde du compte de CII au motif que les options d'achat d'actions qu'ont obtenues les employés de l'appelante ne constituaient pas des « dépenses engagées » au sens de la division 37(8)a)(ii)(B). L'appel vise cette nouvelle cotisation.
+[8] La principale question en litige est celle de savoir si les avantages tirés d'options d'achat d'actions qu'ont obtenues les employés constituaient une « [...] dépense faite relativement à des frais engagés au cours de l'année pour le traitement ou le salaire [...] » au sens de la subdivision 37(8)a)(ii)(B)(IV) de la Loi. Selon la thèse de l'appelante, les avantages visés constituent une telle dépense.
+[9] La question est soulevée dans le contexte d'un ensemble de dispositions légales ayant pour objet d'offrir aux contribuables, au moyen de crédits d'impôt à l'investissement fondés sur les dépenses du contribuable afférentes aux activités de RSDE, une mesure les incitant à poursuivre ce genre d'activités. Pour interpréter la disposition, il faut garder à l'esprit l'objet visé par le législateur lorsqu'il a créé le programme d'encouragement[1].
+[10] Il convient à ce stade-ci d'examiner l'ensemble des dispositions légales invoquées par l'appelante pour étayer sa demande.
+[11] Le droit de déduire un crédit d'impôt à l'investissement de l'impôt par ailleurs payable est conféré au sous-alinéa 127(5)a)(i) de la Loi :
+(5) Est déductible de l'impôt payable par ailleurs par un contribuable en vertu de la présente partie pour une année d'imposition un montant qui ne dépasse pas le moins élevé des montants suivants :
+a) le total des montants suivants :
+(i) le crédit d'impôt à l'investissement du contribuable à la fin de l'année au titre de biens acquis, ou de dépenses faites, avant la fin de l'année,
+[...]
+[12] Le terme « crédit d'impôt à l'investissement » est défini au paragraphe 127(9) de la Loi :
+127(9) Les définitions qui suivent s'appliquent au présent article.
+« crédit d'impôt à l'investissement » Le crédit d'impôt à l'investissement d'un contribuable à la fin d'une année d'imposition correspond à l'excédent éventuel du total des montants suivants :
+a) l'ensemble des montants dont chacun représente le pourcentage déterminé [...]
+(ii) soit d'une dépense admissible que le contribuable a faite au cours de l'année,
+[...]
+[13] L'expression « dépense admissible » est également définie au paragraphe 127(9) :
+« dépense admissible » Dépense relative à des activités de recherche scientifique et de développement expérimental engagée par un contribuable et qui représente [...] une dépense visée à l'alinéa 37(1)a) ou au sous-alinéa 37(1)b)(i), et comprend un montant de remplacement visé par règlement, à l'exclusion [...]
+[14] L'alinéa 37(1)a) de la Loi donne les précisions suivantes au sujet du terme « dépense visée » :
+37(1) Le contribuable qui exploite une entreprise au Canada au cours d'une année d'imposition peut, en présentant le formulaire prescrit contenant les renseignements prescrits avec sa déclaration de revenu prévue à la présente partie pour l'année, déduire dans le calcul du revenu qu'il tire de cette entreprise pour l'année un montant qui ne dépasse pas l'excédent éventuel du total des montants suivants :
+a) le total des montants dont chacun représente une dépense de nature courante qu'il a faite au cours de l'année ou d'une année d'imposition antérieure se terminant après 1973 :
+(i) soit pour des activités de recherche scientifique et de développement expérimental exercées au Canada directement par le contribuable ou pour son compte, en rapport avec une entreprise du contribuable,
+[...]
+Je signale en passant que le second des deux principaux arguments avancés par l'intimée repose sur la mention, à l'alinéa 37(1)a), d'une dépense « de nature courante » .
+[15] Le paragraphe 37(8) de la Loi limite la portée des mentions figurant à l'article 37 aux dépenses afférentes aux activités de RSDE :
+(8) Dans le cadre du présent article :
+a) les mentions des dépenses afférentes aux activités de recherche scientifique et de développement expérimental [...]
+(ii) lorsqu'elles figurent ailleurs qu'au paragraphe (2), se limitent :
+[...]
+(B) si un contribuable en fait le choix sur formulaire prescrit et en conformité avec le paragraphe (10) pour une année d'imposition, aux dépenses engagées par lui au cours de l'année, représentant chacune :
+[...]
+(IV) soit la partie d'une dépense faite relativement à des frais engagés au cours de l'année pour le traitement ou le salaire d'un employé exerçant directement des activités de recherche scientifique et de développement expérimental au Canada, qu'il est raisonnable de considérer comme se rapportant à ce travail compte tenu du temps que l'employé y consacre; à cette fin, la partie de dépense est réputée correspondre au montant de la dépense si elle en constitue la totalité, ou presque,
+[...]
+[16] L'appelante a effectivement fait un choix en application du paragraphe (10) et il est donc nécessaire de se demander si les avantages constituent des dépenses engagées représentant chacune la partie d'une dépense faite relativement à des frais engagés pour le traitement ou le salaire d'un employé au sens de la disposition reproduite ci-dessus. Les termes « traitement » et « salaire » sont définis à l'article 248 de la Loi de telle sorte qu'ils englobent les avantages en litige.
+[17] L'obtention de capitaux était une conséquence accessoire de l'application du programme d'options d'achat d'actions, mais elle n'en était pas l'objet. Ce programme visait plutôt à obtenir les services d'une main-d'oeuvre satisfaite et productive en permettant aux employés de bénéficier des augmentations de la valeur au marché des actions de l'appelante.
+[18] L'objectif ressort sans équivoque d'une lettre que la direction a adressée à une employée pour l'informer qu'elle avait la possibilité de se prévaloir d'une option d'achat. Voici certains passages de cette lettre :
+[TRADUCTION]
+J'ai le plaisir de vous informer que notre conseil d'administration vous a accordé une option d'achat touchant 600 actions ordinaires de Newbridge Networks Corporation. Cette option d'achat d'actions vous permettra de participer au succès de la société. Votre participation dans cette série d'options a été décidée à la suite d'une revue de direction et se fonde sur votre rendement général. Cette mesure vise à vous encourager à fournir de bonnes idées et un bon travail et à faire preuve d'enthousiasme.
+Je souhaite vous remercier de m'avoir aidé à faire en sorte que notre société soit des plus motivées et d'avoir contribué à maintenir Newbridge dans sa position de chef de file au sein de notre secteur d'activité. Je crois que Newbridge connaîtra une croissance appréciable au cours des prochaines années. C'est en travaillant ensemble en tant qu'équipe que nous pourrons atteindre le succès commercial. Un succès que nous pouvons tous partager!
+J'en déduis que cette lettre donne une bonne idée des communications faites par la direction à tous les employés qui bénéficiaient du programme. Il est évident que les options d'achat d'actions constituaient un genre d'avantage tiré de l'emploi qui, même s'il diffère dans sa forme des traitements ou des salaires, n'en vise pas moins le même objectif.
+[19] Comme il est signalé plus haut, les employés tiraient, dès l'exercice de leurs options, un avantage égal à la différence entre le prix d'exercice et la valeur au marché des actions au moment de l'exercice. La différence devait être ajoutée au revenu de l'employé suivant l'article 7 de la Loi. La somme maintenant en litige correspond au total des avantages tirés des options d'achat.
+[20] Pour l'appelante, l'avantage lié au programme d'actionnariat des employés tenait de façon générale au fait qu'il lui permettait de récompenser ses employés sans avoir à faire un décaissement.
+[21] L'appelante n'a pas consigné la somme en litige à titre de dépense dans son état des résultats pour l'année d'imposition 1994. Les états financiers de l'appelante pour 1994 montraient uniquement l'augmentation du nombre d'actions et l'augmentation du capital-actions correspondant au prix d'exercice global de toutes les actions achetées dans le cadre du programme (plus l'augmentation correspondante de l'encaisse). Aucune somme n'a été consignée à titre de dépense sur l'état des résultats de l'appelante pour une quelconque année précédant l'année d'imposition 1994 lorsque les options ayant été exercées en 1994 ont été accordées aux employés de l'appelante.
+[22] Si j'ai bien compris, l'appelante avance la thèse suivante en ce qui concerne le paragraphe 37(8) :
+a) l'appelante a « engagé » des frais en 1994 pour le traitement ou le salaire au sens de la subdivision 37(8)a)(ii)(B)(IV) lorsque ses employés ont exercé leurs droits, ce qui l'a obligée à émettre des actions pour un prix moindre que leur valeur au marché;
+b) l'appelante a engagé une « dépense » lorsqu'elle a émis les actions au prix fixé par l'option.
+[23] La date à laquelle la dépense ou les frais ont été engagés, le cas échéant, n'est pas en litige. L'intimée a énoncé sa position à cet égard au paragraphe 11 de la réponse modifiée à l'avis d'appel :
+[TRADUCTION]
+Le fait d'accorder une option aux conditions prévues dans le cadre d'un programme d'options d'achat d'actions n'entraîne aucune conséquence tant que l'option n'est pas exercée et que les actions ne sont pas achetées par l'employé à un prix moindre que la valeur au marché au moment de l'exercice.
+[24] L'intimée a fait valoir que l'appelante, lorsqu'elle a permis à ses employés d'acheter des actions à un prix moindre que la valeur au marché, comme il est envisagé par le programme d'options, leur a accordé un avantage sans faire de décaissement et donc sans engager de dépense. Cet argument repose sur la prémisse selon laquelle les dispositions légales exigeant que des dépenses soient engagées ne peuvent être respectées que si un décaissement ou un paiement est fait. Comme l'appelante n'a fait aucun décaissement, elle n'a donc engagé aucune dépense, contrairement à l'exigence prévue par la subdivision 37(8)a)(ii)(B)(IV). Deuxièmement, l'intimée soutient que les opérations par lesquelles les employés de l'appelante pouvaient acheter des actions à un prix inférieur à la valeur au marché n'avaient pas de lien avec le processus de gain de l'appelante, mais plutôt avec la structure du capital-actions de celle-ci. Les décaissements, le cas échéant, ne constituaient donc pas une « dépense de nature courante qu'[elle] a faite » au sens de l'alinéa 37(1)a) de la Loi.
+[25] À l'appui de ses deux arguments, l'intimée a invoqué l'arrêt Lowry v. Consolidated African Selection Trust, [1940] A.C. 648, de la Chambre des lords. Dans cette affaire, une société contribuable, souhaitant exprimer sa gratitude pour les services rendus par ses employés, leur avait accordé le droit d'acheter de ses actions au pair. À l'époque, la valeur au marché des actions excédait la valeur au pair. La contribuable a tenté de déduire, dans le calcul de son profit, la prime d'émission qu'elle aurait reçue si les actions accordées aux employés avaient été émises dans le marché libre. La Chambre des lords a rejeté la demande de la contribuable par une majorité de trois juges sur cinq. Elle a ainsi infirmé la décision unanime de la Cour d'appel, qui avait elle-même infirmé la décision de première instance rejetant la demande de la contribuable. Cette décision, dans laquelle plus de juges ont tranché en faveur de la contribuable que contre elle, a été qualifiée de [TRADUCTION] « pierre angulaire de la cause de la Couronne » .
+[26] L'intimée s'est appuyée sur l'arrêt Lowry pour affirmer qu'une « dépense » s'accompagne nécessairement d'un décaissement et que les décaissements faits dans le cadre du programme d'options d'achat d'actions étaient à titre de capital.
+[27] Dans l'arrêt Lowry, la majorité des lords ont conclu que la voie suivie par la contribuable n'avait entraîné aucune dépense de sa part. Cette question se trouve au coeur de la présente affaire. Les passages suivants des motifs de la majorité des juges comptent parmi ceux invoqués par les avocats de l'intimée en l'espèce. À la page 653, le vicomte Caldecote a signalé que la contribuable aurait pu vendre ses actions dans le marché libre afin de réunir les fonds nécessaires pour verser aux employés une somme en espèces équivalant à l'avantage qu'elle leur a accordé. Si elle avait agi ainsi et versé aux employés une somme en espèces, le paiement aurait constitué des frais commerciaux déductibles. Il mentionne toutefois :
+[TRADUCTION]
+[...] La société a choisi de suivre une autre voie, qui ne l'obligeait pas à faire une dépense ni à réaliser un quelconque élément d'actif.
+Après avoir examiné la jurisprudence, il ajoute ce qui suit aux pages 656 et 657 :
+[TRADUCTION]
+[...] Je reviens aux faits de la présente affaire et je me demande si l'émission de ces actions de la façon choisie en l'espèce se traduisait pour l'intimée par « des frais ou des dépenses... totalement et exclusivement prévus ou faits pour les besoins de » son commerce. Son capital était intact après l'émission des actions : pas un penny n'a en réalité été déboursé ou dépensé. Ses rentrées commerciales n'ont pas diminué, et il ne me semble pas justifié de prétendre, à la lumière des faits, que l'intimée a fait don d'un objet de valeur à son propre détriment pécuniaire. La société avait le droit d'émettre ses actions au pair. C'est ce qu'elle a fait, et elle n'a jamais reçu, ni n'a jamais choisi de recevoir, rien de plus que la valeur au pair des actions.
+Il conclut à la page 658 :
+[TRADUCTION]
+[...] Il m'apparaît tout simplement que le coût assumé par la société pour gagner ses rentrées commerciales n'a pas augmenté du fait de l'émission de ces actions à un prix moindre que leur pleine valeur au marché.
+[28] Le vicomte Maugham ajoute : [TRADUCTION] « On nous invite à tenir compte de faits qui n'ont pas eu lieu » (à la page 660). Cette situation a également influé sur lui. Il estime qu'en l'espèce, l'assertion selon laquelle le fait de conférer le droit d'acheter des actions au pair constituait un don en argent ou un don d'un objet de valeur donne une « idée fausse » de l'opération en cause. Il signale en outre, à la page 661 : [TRADUCTION] « En réalité, l'émission des actions par une personne morale ne constitue nullement une opération commerciale » . Cette analyse des faits de l'affaire l'a amené à conclure, à la page 662 :
+[TRADUCTION]
+[...] À mon sens, il n'y a ici aucune opération commerciale du tout, ni aucun élément quel qu'il soit qui doive être reporté à l'état des résultats.
+[29] Lord Russell était du même avis. Voici ce qu'il déclare aux pages 671 et 672 :
+[TRADUCTION]
+[...] J'estime que le premier motif du jugement de la Cour d'appel n'est pas fondé puisque l'intimée n'a transféré ni argent ni objet de valeur à ses employés; elle a simplement choisi de ne pas obtenir davantage que la valeur nominale des actions afin d'inciter les employés à devenir actionnaires de la société. Je ne puis conclure (en l'absence d'une autorité irrésistible) que cette mesure prise par l'intimée est ou peut être assimilable à des frais ou à une dépense, ni que la prime que les employés pourraient, s'ils le souhaitaient, obtenir des acheteurs de leurs actions est ou pourrait être assimilable à de l'argent déboursé ou dépensé par l'intimée pour les besoins de son commerce.
+[30] De toute évidence, l'arrêt Lowry, même s'il appelle une grande déférence, ne lie pas les tribunaux au Canada. Plus important encore, il ne porte pas sur l'interprétation du terme « dépense » dans le contexte d'un régime légal visant à encourager, au moyen d'un crédit d'impôt, les activités du genre même de celles exercées par les employés de l'appelante. Enfin, il peut être considéré espèce différente puisque les faits de la présente affaire ne peuvent étayer la conclusion voulant que les coûts afférents à la rémunération des employés dans le cadre du programme d'options d'achat d'actions étaient à titre de capital.
+[31] L'ouvrage Black's Law Dictionary, huitième édition, donne la définition suivante du terme « dépense » [expenditure] :
+[TRADUCTION]
+1. Le fait de payer; sortie de fonds. 2. Une somme payée.
+À mon avis, il s'agit du sens ordinaire du terme. Une dépense ne se limite pas à un décaissement. Rien dans la définition n'exclut le versement d'éléments d'actif au moyen de mécanismes qui sont adoptés à cette fin et qui ne comportent aucun paiement en espèces. L'argument de l'intimée omet de reconnaître qu'une très réelle dépense est faite lorsque des actions ayant une valeur au marché établie sont vendues à un prix inférieur à cette valeur dans le contexte d'un régime de rémunération des employés qui achètent ces actions. L'avantage qu'en retirent les employés est réel. Ce n'est pas de la magie. Cet avantage passe de l'appelante aux employés par le truchement d'un mécanisme d'options d'achat d'actions. La dépense consiste en la contrepartie à laquelle l'appelante renonce lorsqu'elle émet ses actions à un prix moindre que la valeur au marché. L'encouragement à la recherche scientifique, l'objet visé par le texte légal, serait sensiblement amoindri par l'adoption de l'interprétation étroite prônée par l'intimée.
+[32] Le sens du terme « dépense » , tel qu'il découle implicitement des propos tenus par la majorité des juges dans l'arrêt Lowry, n'est pas le même que celui dans lequel il est couramment employé au Canada aujourd'hui. Par exemple, le mot « dépense » est utilisé par le ministère des Finances du gouvernement du Canada dans le terme « dépense fiscale » . Il est employé, sans nullement en étendre son sens ordinaire, pour désigner les recettes fiscales auxquelles on a renoncé en raison d'exemptions, de déductions, de réductions de taux, de remboursements, etc., qui réduisent l'impôt normalement payable[2].
+[33] Enfin, je signale que les avantages liés aux options d'achat d'actions en litige sont visés par les termes « traitement ou salaire » au sens où ils sont définis à l'article 248 de la Loi. Il est difficile de voir comment le traitement ou le salaire peut passer de l'employeur à l'employé sans une dépense de la part de l'employeur. La définition prévue à l'article 248 fait partie du contexte légal dans lequel se trouve l'article 37. Je rejette donc le premier argument de l'intimée puisqu'il a pour effet de restreindre le sens du terme « dépense » , ce qui n'est pas justifié par l'objet du texte légal.
+[34] Je me penche maintenant sur le deuxième argument de l'intimée, à savoir que la dépense en litige est à titre de capital. Cet argument repose sur l'assertion voulant que la contrepartie reçue par l'appelante pour les actions qu'elle a émises s'ajoutait au capital de la société et ne constituait pas une rentrée commerciale. Jusqu'ici, je suis d'accord. L'argument affirme en outre que la dépense - si une dépense a été faite - découle d'une distribution d'actions qui a produit du capital et non de la poursuite, par l'appelante, de ses activités journalières visant à produire des revenus. Là, je ne suis plus d'accord.
+[35] Comme il est mentionné plus haut, j'estime, à la lumière des faits tels que je les comprends, que l'objet premier du programme était de rémunérer les employés de l'appelante pour les services rendus et de les encourager à continuer leur bon travail. Rien ne permet de croire que le travail effectué par les employés visait d'une quelconque façon à augmenter ou par ailleurs modifier la structure du capital de l'appelante. Le simple fait qu'une activité entreprise en vue d'atteindre un objectif donné ait accessoirement engendré une immobilisation - en l'espèce le capital-actions produit par l'émission d'actions dans le cadre des options d'achat - ne permet pas de conclure que le coût de l'activité est à titre de capital[3].
+[36] S'appuyant sur un passage des motifs donnés par la Cour d'appel fédérale dans l'arrêt R. c. Kaiser Petroleum Ltd., no A-8-90, 10 octobre 1990, 90 D.T.C. 6603, l'intimée a soutenu que, même si la rémunération des employés était un des facteurs ayant motivé l'appelante, les moyens choisis comprenaient la modification de la structure du capital de l'appelante. À mon avis, rien dans la preuve présentée en l'espèce ne peut d'une quelconque manière étayer l'assertion selon laquelle l'émission des actions dans le cadre de l'option d'achat peut être qualifiée de « restructuration » du capital de l'appelante, comme c'était le cas dans l'affaire Kaiser. En l'espèce, les options ont été émises pour satisfaire au besoin récurrent de rémunérer les employés chargés des activités courantes de l'entreprise. Le coût du programme d'options constituait une dépense courante ordinaire.
+[37] L'intimée a également fait valoir qu'à l'époque, les principes comptables généralement reconnus n'exigeaient pas que les états financiers de l'appelante reflètent les dépenses engagées au titre des options. S'il était possible de ne pas tenir compte des dépenses sans effet sur la trésorerie dans la préparation d'un état des résultats, il pourrait, de la même manière, avoir été possible de ne pas en tenir compte dans le calcul d'une « dépense admissible » . Ce genre de comptabilité peut bien avoir eu cours en 1994, mais l'argument soulève la question de savoir si les comptes qui ne reflétaient pas le coût subi par l'appelante au titre des options révélaient avec exactitude les dépenses faites pour gagner son revenu. Si les comptes de l'appelante respectaient les normes applicables en 1994, il était alors nécessaire de modifier ces normes (et, je le signale, elles ont été modifiées). À mon sens, il est nécessaire de divulguer la dépense pour refléter la situation réelle tant pour les besoins de la présente affaire que de la comptabilité à l'interne.
+[38] Enfin, l'intimée avance que, même si la somme en litige satisfait aux exigences de la subdivision 37(8)a)(ii)(B)(IV), elle ne peut être ajoutée aux dépenses mentionnées à l'alinéa 37(1)a) sans contrevenir à l'interdiction énoncée à l'alinéa 7(3)b). À cela il faut répondre que la disposition déterminative prévue à l'alinéa 7(3)b), par son libellé non équivoque, s'applique uniquement au calcul du revenu. Elle n'a pas d'incidence sur le calcul des CII.
+[39] L'appel sera admis avec dépens et la cotisation sera déférée au ministre pour nouvelle cotisation faisant droit au crédit en litige.
+Signé à Toronto (Ontario), ce 24e jour de février 2005.
+« Michael J. Bonner »
+Juge Bonner
+Traduction certifiée conforme
+ce 12e jour de décembre 2005.
+Yves Bellefeuille, réviseur
+[1] Loi d'interprétation, L.R.C. 1985, ch. I-21, art. 12.
+[2] Voir le glossaire du ministère des Finances du Canada, à www.fin.gc.ca/gloss/gloss-f.html.
+[3] Voir l'arrêt Denison Mines Ltd. c. M.R.N., [1976] 1 R.C.S. 245.

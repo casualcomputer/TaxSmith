@@ -1,0 +1,128 @@
+Title: Yankson c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26694/index.do
+Corpus path: corpus/cases/tcc/2005/2005-cci-527-26694-yankson-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2005-08-25
+
+# Yankson c. La Reine
+
+- Citation: 2005 CCI 527
+- Decision date: 2005-08-25
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3440, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Yankson c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-08-25
+Référence neutre
+2005 CCI 527
+Numéro de dossier
+2005-1488(IT)I
+Juges et Officiers taxateurs
+Gerald J. Rip
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Référence : 2005CCI527
+Date : 20050825
+Dossier : 2005‑1488(IT)I
+ENTRE :
+THERESA YANKSON,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS INTÉRIMAIRES DE JUGEMENT
+Rendus à l’audience le 8 août 2005 (révisés)
+Le juge Rip
+[1] Le monde a changé. La technologie ne cesse d’évoluer. Il existe de nouvelles façons de dispenser une formation. Entre‑temps, de nombreuses dispositions de la Loi de l’impôt sur le revenu (la « Loi ») demeurent statiques, voire stagnantes, comme le confirment, je crois, les faits dont il est question dans le présent appel, qui résulte d’une cotisation établie pour 2003 dans laquelle l’appelante, Mme Theresa Yankson, s’est vu refuser un crédit d’impôt pour frais de scolarité de 18 393 $ en vertu de l’alinéa 118.5(1)c) de la Loi, ainsi qu’un crédit d’impôt pour études de 4 000 $ en vertu du paragraphe 118.6(2) de la Loi.
+[2] En 2002, Mme Yankson a présenté une demande d’admission au programme de baccalauréat en pratique des sages‑femmes offert à l’Université de la Colombie‑Britannique, l’un des trois seuls programmes du genre au Canada. Dans cette université, quinze étudiantes sont inscrites au programme en question, et elle reçoit environ 300 demandes. Le deuxième programme est offert conjointement par les universités McMaster, Laurentienne et Ryerson, et le rapport entre le nombre des demandes et celui des personnes inscrites est semblable; Mme Yankson a présenté aussi une demande d’admission à l’Université McMaster. Le troisième programme est offert à l’Université du Québec, où le cours est donné en français.
+[3] Les demandes que Mme Yankson a soumises à l’Université de la Colombie‑Britannique et à l’Université McMaster n’ont pas été retenues. Elle a alors présenté une demande au Seattle Midwifery School (la « SMS »), à Seattle (Washington), pour le programme débutant en janvier 2003 et prenant fin en décembre 2004, et sa demande a été retenue. Mme Yankson a terminé le programme et reçu un diplôme le 19 février 2005.
+[4] Pendant toute la période en cause, Mme Yankson a résidé à Calgary.
+[5] Selon Mme Yankson, le programme qu’offre la SMS est un [traduction] « programme d’apprentissage à distance », qui exigeait qu’elle y soit physiquement présente tous les mois durant un certain temps, et qui était assorti de travaux pratiques et en ligne. La SMS décrit le programme comme étant [traduction] « à faible résidence ». D’après une lettre de l’école qui a été produite au procès, les étudiants [traduction] « suivent tous les mois des cours intensifs et retournent à leur collectivité de résidence où ils terminent en ligne leurs travaux scolaires tout en prenant part à des séances de formation clinique en compagnie de sages‑femmes et d’autres fournisseurs de soins de santé ».
+[6] Comme il a été indiqué plus haut, le cours de sage‑femme que suivait Mme Yankson comportait trois volets : une présence physique à Seattle, des études en ligne et des études pratiques. Au début du cours, il fallait qu’elle soit présente à Seattle cinq jours par mois; pendant les deux ans qui ont suivi, à mesure que son cours avançait, sa présence mensuelle à Seattle a graduellement diminué à deux jours. Lorsqu’elle était présente à Seattle, elle se trouvait à la SMS de 8 h à 20 h tous les jours.
+[7] Le temps passé en ligne a lui aussi diminué graduellement à mesure que le cours avançait. Au début du cours, Mme Yankson travaillait en ligne 40 heures par semaine; les heures ont progressivement diminué à 10 heures par semaine.
+[8] Au début de ses études, Mme Yankson passait 10 heures par semaine à travailler dans un cabinet de sages‑femmes; les heures ont progressivement augmenté à 40 heures par semaine. L’école exigeait 1 500 heures de travaux pratiques pendant les deux ans que durait le cours.
+[9] Mme Yankson a principalement accompli le volet pratique de son cours en Alberta et en Colombie‑Britannique, mais elle a passé un certain temps à Sainte‑Lucie. D’après le témoignage de Mme Yankson, un certain nombre d’examens sont passés en ligne et d’autres par écrit, à l’école.
+[10] Mme Yankson a payé à la SMS, au titre des droits de scolarité et des frais, la somme de 12 951,45 $US en 2003 et de 11 459 $US en 2004. La SMS n’est pas un établissement qui décerne des grades. Elle est toutefois agréée par le Midwifery Education Accreditation Council aux États‑Unis et reconnue par le secrétaire à l’Éducation des États‑Unis. En 2003, Mme Yankson était admissible à une aide financière dans le cadre des programmes de prêts aux étudiants du Canada et de l’Alberta. Selon le site Web de Développement des ressources humaines, la SMS est un établissement d’enseignement désigné reconnu par la Loi fédérale sur l’aide financière aux étudiants[1] et, de ce fait, selon le paragraphe 118.6(1) de la Loi[2], elle est réputée être un établissement admissible pour l’application de l’alinéa 118.5(1)c) s’il s’agit d’un « établissement d’enseignement situé aux États‑Unis qui se trouve près de la frontière avec le Canada ».
+[11] La demande de Mme Yankson concernant un crédit d’impôt pour frais de scolarité est régie par l’article 118.5 de la Loi; l’alinéa c) de cet article indique ce qui suit :
+(1) Les montants suivants sont déductibles dans le calcul de l'impôt payable par un particulier en vertu de la présente partie pour une année d'imposition : [...]
+c) si, tout au long de l'année, le particulier réside au Canada près de la frontière entre le Canada et les États‑Unis et si :
+(i) d'une part, il est inscrit à un moment de l'année à un établissement d'enseignement situé aux États‑Unis — université, collège ou autre — offrant des cours de niveau postsecondaire,
+(ii) d'autre part, il fait régulièrement la navette entre sa résidence et cet établissement,
+le produit de la multiplication [...]
+(1) For the purpose of computing the tax payable under this Part by an individual for a taxation year, there may be deducted, ...
+(c) where the individual resided throughout the year in Canada near the boundary between Canada and the United States if the individual
+(i) was at any time in the year a student enrolled at an educational institution in the United States that is a university, college or other educational institution providing courses at a post‑secondary school level, and
+(ii) commuted to that educational institution in the United States,
+an amount equal to ...
+[12] L’alinéa 118.6(1)c) définit en ces termes ce qu’est un « établissement d’enseignement désigné » situé à l’extérieur du Canada :
+c) établissement d'enseignement situé aux États‑Unis — université, collège ou autre — offrant des cours de niveau postsecondaire si, tout au long de l'année mentionnée au paragraphe (2), le particulier mentionné à ce paragraphe réside au Canada près de la frontière entre le Canada et les États‑Unis et qu'il fasse régulièrement la navette entre sa résidence et cet établissement.
+(c) if the individual referred to in subsection (2) resided, throughout the year referred to in that subsection, in Canada near the boundary between Canada and the United States, an educational institution in the United States to which the individual commuted that is a university, college or other educational institution providing courses at a post‑secondary school level;
+[13] La demande de Mme Yankson concernant un crédit d’impôt pour études en application de l’alinéa 118.6(2)b) exige aussi qu’elle soit inscrite à un établissement d’enseignement désigné.
+[14] Au procès, l’avocate de l’intimée a fait valoir qu’il convient de rejeter l’appel relatif à l’alinéa 118.5(1)c) car, premièrement, Mme Yankson ne résidait pas près de la frontière entre le Canada et les États‑Unis et, deuxièmement, elle ne faisait pas régulièrement la navette entre sa résidence et la SMS à Seattle[3]. Il ne fait aucun doute que la SMS est un établissement d’enseignement pour les besoins du présent appel. Je note qu’à l’alinéa 118.5(1)c) la phrase en anglais « resided ... near the boundary ... » est traduite en français par « réside [...] près de la frontière [...] » et que, au sous‑alinéa (ii), la phrase en anglais « commuted to that educational institution ... » est traduite par « [...] fait régulièrement la navette entre sa résidence et cet établissement [...] ».
+[15] Je traiterai tout d’abord du sens à donner au mot « commute ». En anglais, ce mot, dans le contexte dont il est question en l’espèce, est défini comme suit :
+‑ travel by public or private conveyance between one's home and place of work; travel between regularly or frequently
+Shorter Oxford English Dictionary, vol. 1, 5th ed., 2002.
+‑ travel back and forth regularly or frequently (commuting between London and New York)
+Webster's Third New International Dictionary, 1986.
+[16] Les mots « faire la navette » sont définis comme suit par Le Nouveau Petit Robert :
+faire régulièrement l'aller‑retour entre deux lieux déterminés. « Il faisait la navette entre Londres et Vienne »
+[17] Il est important de signaler que le Webster et le Robert donnent tous deux comme exemple un déplacement aller‑retour entre deux villes éloignées, New York et Londres, ainsi que Londres et Vienne. Il convient aussi d’ajouter que, de nos jours, il n’est pas rare que des gens d’affaires quittent régulièrement ou souvent la localité où ils résident pour aller à une localité éloignée comme l’exige leur employeur. Ces déplacements peuvent être hebdomadaires, mensuels ou plus ou moins fréquents. Dans de telles circonstances, les gens d’affaires font l’aller‑retour entre leur lieu de travail et leur lieu de résidence. Le mot « commute » (« faire la navette ») ne peut pas décrire que de courtes distances, entre un centre‑ville et une banlieue, par exemple. Il décrit les pratiques de la personne. Si cette dernière a l’habitude de se rendre de façon régulière ou fréquente de son lieu de résidence jusqu’à une autre localité située à des centaines de milles de là, on dit de cette personne qu’elle fait la navette entre les deux endroits.
+[18] En 2003, Mme Yankson se rendait à Seattle tous les mois. Ses déplacements étaient au moins réguliers, sinon fréquents. Elle faisait la navette entre Calgary et Seattle.
+[19] Il me faut maintenant examiner si Mme Yankson résidait près de la frontière entre le Canada et les États‑Unis. Dans la décision Van de Water v. M.N.R.[4], mon collègue, le juge Dusseault, a conclu qu’une personne vivant à une distance de 75 à 80 kilomètres de la frontière ne résidait pas près de cette dernière parce que cette distance ne comportait pas « l'élément de proximité, de contiguïté de la zone frontalière ».
+[20] En l’espèce, le poste situé à la frontière entre le Canada et les États‑Unis qui est le plus proche de Calgary se trouve à environ 330 kilomètres (240 milles) au sud de Calgary, c’est‑à‑dire à Coutts (Alberta) et à Sweet Grass (Montana). La distance qui sépare Coutts de Seattle est d’environ 1 180 kilomètres (735 milles).
+[21] Le mot « near » signifie, en anglais, « close to, to or at a short distance from (a place, thing, person, etc.) in space or time »[5]. Le dictionnaire Robert définit le mot « près », en français, comme suit : « adverbe marquant la proximité, indiquant une petite distance ».
+[22] Étant donné ces définitions du dictionnaire ainsi que le sens usuel du mot « near » (ou « près », en français), il est évident qu’une personne vivant à Calgary ne réside pas près de la frontière entre le Canada et les États‑Unis.
+[23] Pour ce motif, l’appel de Mme Yankson doit être rejeté.
+[24] Cependant, au moins l’une des observations de l’appelante mérite d’être examinée de façon plus approfondie. Quand l’alinéa 118.5(1)c) est entré en vigueur en 1972, la seule façon dont un étudiant pouvait satisfaire aux exigences relatives à la fréquentation d’un établissement d’enseignement aux États‑Unis était de se trouver physiquement sur place; pour qu’un étudiant canadien fréquente l’établissement régulièrement, il fallait qu’il réside près de la frontière. Aujourd’hui, soutient Mme Yankson, cela n’est pas nécessaire. Il existe de nouveaux programmes scolaires qui profitent d’Internet et qui n’exigent donc pas que la personne soit physiquement présente à l’établissement d’enseignement. Il est possible qu’il faille être physiquement présent de façon régulière et, pour ce faire, n’importe quel Canadien aurait à se rendre régulièrement à l’établissement d’enseignement pour y suivre des cours de façon régulière et périodique, une fois par mois, par exemple, comme l’a fait Mme Yankson. Dans l’intervalle, l’étudiant fréquente l’établissement d’enseignement pendant qu’il est en ligne. Il importe peu que la personne réside près de la frontière.
+[25] Il n’est plus nécessaire d’être physiquement présent à l’établissement d’enseignement parce que l’étudiant suit activement le cours via Internet. Cet étudiant peut lire ou même écouter les exposés de cours en ligne, il peut poser des questions en ligne, il peut passer des examens en ligne. Il n’est pas nécessaire que le contribuable étudiant réside près de la frontière pour pouvoir fréquenter des établissements d’enseignement aux États‑Unis. Pourquoi une personne résidant à Calgary, à Saskatoon, à Thompson, à Sudbury ou à Chicoutimi ne profiterait‑elle pas du même avantage fiscal qu’une personne vivant à Vancouver ou à Windsor (Ontario)? Il est fort possible qu’une personne vivant à Sudbury et une autre vivant à Windsor suivent le même cours auprès d’un même établissement situé à Detroit, qui exige que ses étudiants soient physiquement sur place une fois par mois, mais que la majeure partie des exposés de cours aient lieu en ligne; l’un de ces deux étudiants bénéficierait des dispositions de l’alinéa 118.5c), l’autre pas.
+[26] L’importance de résider près de la frontière, censément pour faciliter la fréquentation de l’établissement d’enseignement, n’est plus valable[6].
+[27] La technologie a fait disparaître de nombreuses méthodes d’enseignement classiques et les a remplacées par des mécanismes nouveaux, dont l’enseignement en ligne. Une personne qui étudie en ligne n’a peut‑être aucun désavantage particulier par rapport à une personne qui suit le même cours sur place dans le même établissement. Il faudrait modifier la Loi pour tenir compte de cette situation. La Loi devrait éviter les anachronismes législatifs.
+[28] Au vu des faits décrits dans les présents motifs, s’il me faut analyser l’appel de Mme Yankson, je recommande que l’on envisage de délivrer une ordonnance de remise d’impôt à Mme Yankson en vertu de la Loi sur la gestion des finances publiques.
+[29] Compte tenu des dispositions actuelles des alinéas 118.5(1)c) et 118.6(1)c), il semble que je devrais analyser l’appel. Mais je me suis dit que la Charte canadienne des droits et libertés (la « Charte ») aiderait peut‑être Mme Yankson. En prononçant les présents motifs, j’ai demandé à chacune des parties de soumettre un mémoire traitant de la question de savoir si, au vu des faits que j’ai décrits, les droits que garantissent à Mme Yankson le paragraphe 15(1) ou une autre disposition de la Charte ‑ l’article 7 peut‑être ‑ ont été violés. Pour le moment, je crois que non, mais à cause de la discrimination fondée uniquement sur sa résidence physique, il serait bon d’examiner la question.
+[30] Les alinéas 118.5(1)c) et 118.6(1)c) sont différents des dispositions telles que l’article 110.7 qui accordent un avantage aux contribuables à cause du coût élevé de la vie dans le Nord; un effort est fait pour uniformiser les règles du jeu, si l’on peut dire. Avec les alinéas 118.5(1)c) et 118.6(1)c), le législateur fait preuve de discrimination sans raison valable.
+[31] J’ai aussi suggéré à Mme Yankson d’entrer en contact avec la Faculté de droit de l’Université de Calgary pour l’aider à préparer son mémoire. Peut‑être que d’autres pourraient l’aider aussi. Il faudrait me faire parvenir le mémoire au plus tard le 30 septembre 2005. Cependant, si l’une ou l’autre des parties a besoin d’une prorogation de délai raisonnable, elle est priée de le faire savoir au greffier de la Cour et j’accorderai la prorogation demandée.
+Signé à Ottawa, Canada, ce 25e jour d’août 2005.
+« Gerald J. Rip »
+Juge Rip
+Traduction certifiée conforme
+ce 23e jour de mars 2009.
+David Aubry, LL.B.
+Réviseur
+RÉFÉRENCE : 2005CCI527
+No DU DOSSIER DE LA COUR : 2005‑1488(IT)I
+INTITULÉ : Theresa Yankson et Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Calgary (Alberta)
+DATE DE L’AUDIENCE : Le 8 août 2005
+MOTIFS INTERIMAIRES DE
+JUGEMENT : L’honorable juge Gerald J. Rip
+DATE DES MOTIFS
+INTÉRIMAIRES DE JUGEMENT : Le 25 août 2005
+COMPARUTIONS :
+Pour l’appelante :
+L’appelante elle‑même
+Avocate de l’intimée :
+Me Marla Teeling
+AVOCATS INSCRITS AU
+DOSSIER :
+Pour l’appelante :
+Nom :
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous‑procureur général du Canada
+Ottawa (Ontario)
+[1] http ://www.hrsdc.gc.ca/fr/hip/cslp/importantlinks/17‑il‑international.pdf.
+[2] Voir aussi le Bulletin d’interprétation IT‑516R2, 9 décembre 1996, au paragraphe 7.
+[3] Au procès, le ministère public a convenu que Mme Yankson [traduction] « fréquentait à temps plein » la SMS. Voir la décision Krause v. The Queen, 84 DTC 2365, où le juge en chef adjoint Bowman (nommé juge en chef depuis) analyse le concept de la « fréquentation à temps plein ».
+[4] 91 DTC 276.
+[5] Shorter Oxford Dictionary, précité.
+[6] Il est douteux, selon moi, que l’emplacement du lieu de résidence de l’étudiant près de la frontière ait jamais été pertinent car il se peut que l’établissement d’enseignement soit situé à des centaines de kilomètres de la frontière. Les dispositions applicables de la Loi imposent au contribuable canadien le fardeau de résider près de la frontière; l’emplacement de l’établissement d’enseignement aux États‑Unis n’entre pas en ligne de compte. Il est concevable qu’une personne résidant à Windsor (Ontario), donc près de la frontière, fasse régulièrement la navette entre son lieu de résidence et un établissement d’enseignement reconnu situé à Billings (Montana) et qu’elle soit admissible aux crédits d’impôt; cependant, un résidant de Calgary vivant nettement plus près de Billings n’aurait pas droit aux crédits d’impôt s’il s’inscrivait au même cours auprès du même établissement. Est‑ce logique?

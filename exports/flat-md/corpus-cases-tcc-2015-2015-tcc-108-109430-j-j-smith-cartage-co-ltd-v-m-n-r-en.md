@@ -1,0 +1,245 @@
+---
+title: "J.J. Smith Cartage Co. Ltd. v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/109430/index.do"
+last_modified: "2015-04-30"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2015 TCC 108"
+citation2: ""
+neutral_citation: "2015 TCC 108"
+decision_date: "2015-04-30"
+language: "en"
+item_id: "109430"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2807
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T10:23:40.032000+00:00"
+cases_cited_count: 5
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "cda927d4b9128859f0e8299399b4a931ed5c01de7976803c177982b1b0ba80b2"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# J.J. Smith Cartage Co. Ltd. v. M.N.R.
+
+- Citation: 2015 TCC 108
+- Decision date: 2015-04-30
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2807, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+J.J. Smith Cartage Co. Ltd. v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2015-04-30
+Neutral citation
+2015 TCC 108
+File numbers
+2013-4705(CPP), 2013-4706(EI)
+Judges and Taxing Officers
+Kathleen T. Lyons
+Subjects
+Canada Pension Plan
+Decision Content
+Docket: 2013-4705(CPP)
+BETWEEN:
+J.J. SMITH CARTAGE CO. LTD.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+MONDEL SAMUEL,
+Intervenor.
+Appeal heard on common evidence with the appeal of
+J.J. Smith Cartage Co. Ltd., 2013-4706(EI) on
+September 5, 2014, at Toronto, Ontario
+Before: The Honourable Justice K. Lyons
+Appearances:
+Counsel for the Appellant:
+Setu N. Purohit
+Counsel for the Respondent:
+Peter Swanstrom and
+Christian Cheong
+For the Intervenor:
+The Intervenor himself
+JUDGMENT
+The appeal pursuant to section 28 of the Canada Pension Plan (the “Plan”) is dismissed, without costs, and the ruling of the Minister of National Revenue on the appeal made to him under section 27 of the Plan is confirmed, on the basis that Mondel Samuel was engaged in pensionable employment with the appellant during the period from September 30, 2011 to March 20, 2013, pursuant to paragraph 6(1)(a) of the Plan.
+Signed at Toronto, Ontario, this 30th day of April 2015.
+“K. Lyons”
+Lyons J.
+Docket: 2013-4706(EI)
+BETWEEN:
+J.J. SMITH CARTAGE CO. LTD.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+MONDEL SAMUEL,
+Intervenor.
+Appeal heard on common evidence with the appeal of
+J.J. Smith Cartage Co. Ltd., 2013-4705(CPP) on
+September 5, 2014, at Toronto, Ontario
+Before: The Honourable Justice K. Lyons
+Appearances:
+Counsel for the Appellant:
+Setu N. Purohit
+Counsel for the Respondent:
+Peter Swanstrom and
+Christian Cheong
+For the Intervenor:
+The Intervenor himself
+JUDGMENT
+The appeal pursuant to subsection 103(1) of the Employment Insurance Act (the “Act”) is dismissed, without costs, and the ruling of the Minister of National Revenue on the appeal made to him under section 91 of the Act is confirmed, on the basis that Mondel Samuel was engaged in insurable employment with the appellant during the period from September 30, 2011 to March 20, 2013, pursuant to paragraph 5(1)(a) of the Act.
+Signed at Toronto, Ontario, this 30th day of April 2015.
+“K. Lyons”
+Lyons J.
+Citation: 2015 TCC 108
+Date: 20150430
+Dockets: 2013-4705(CPP)
+2013-4706(EI)
+BETWEEN:
+J.J. SMITH CARTAGE CO. LTD.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+MONDEL SAMUEL,
+Intervenor.
+REASONS FOR JUDGMENT
+Lyons J.
+[1] J.J. Smith Cartage Co. Ltd., the appellant, appeals from the determination of the Minister of National Revenue (the “Minister”) that Mondel Samuel was employed under a contract of service in insurable and pensionable employment with the appellant for the period from September 30, 2011 to March 20, 2013 (the “Period”).
+[2] The sole issue is whether Mondel Samuel was an employee of the appellant or an independent contractor during the Period.
+[3] Jerry Smith and Dawn Smith, his spouse, testified on behalf of the appellant and Mondel Samuel, the intervenor, testified on his own behalf. In general, the intervenor’s testimony was more precise and reliable than Mr. Smith’s vague and generic testimony.
+I. Facts [4] The appellant operated an appliance delivery service in Toronto exclusively for Appliance Canada (“AC”) for approximately 25 years delivering appliances to customers of Leon’s Furniture. Mr. and Mrs. Smith are co-owners of the appellant. He controlled the day-to-day operations and made the major business decisions and she prepared correspondence, email, managed finances, recorded invoices and prepared pay for the drivers. Mr. Smith would go to Ottawa once or twice per month for discussions with AC.
+[5] During cross-examination of Mr. Smith by respondent counsel, he said that there was a verbal agreement with the intervenor from the outset that he was a sub-contracted driver and would make deliveries in Ottawa and the surrounding areas. The Smiths said that he was the sole driver who was left in charge, requiring no supervision. It ran smoothly except for an incident with a stove.
+[6] The intervenor testified that in May 2009 he met Andre Thomas, a driver, who introduced the intervenor to Mr. Smith. All three met in a pick-up truck outside the intervenor’s residence in Ottawa. AC had expressed interest in building a showroom in Ottawa. The intervenor said that there was no discussion as to terms and conditions nor about driving a truck. His physical condition was discussed. He was hired as an employee in July 2009 as a “helper” at $100 per day and provided, as requested, his social insurance number to Mr. Smith.
+[7] Late in June 2009, the intervenor commenced part-time employment at the Ottawa Hospital – Civic Campus as a housekeeper where he “overnights” and then works four days leaving him two days to work. In August 2010, he obtained his driver’s licence. In January 2011, the appellant promoted him to driver upon the departure of another driver. In October 2013, Mr. Smith told him to “pack stuff and leave” and get out.
+II. Position [8] The appellant argues that there was a contractor–subcontractor relationship with the intervenor. Similar to the Toronto drivers, fees were negotiated with the intervenor who was responsible for expenses, profits, risks and damages associated with the delivery business. The appellant did not oversee the intervenor’s activities as he had the flexibility to manage the deliveries for AC.
+[9] The respondent argues that there was no common intention and all the objective factors support the existence of an employer-employee arrangement between the appellant and the intervenor.
+[10] The intervenor asserts that he was hired as an employee and trained by the appellant, initially as helper then promoted to driver. He was subject to the appellant’s control, was paid bi‑weekly at a rate of pay set by the appellant and he did not provide any equipment except for work boots.
+III. Analysis
+[11] The test for determining whether a worker is in a contract of or for services was considered by the Supreme Court of Canada in 671122 Ontario Ltd. v Sagaz Industries Canada Inc., 2001 SCC 59, [2001] 2 SCR 983 [Sagaz]. In enunciating the principle “whose business is it?” Major J., at paragraph 47, states that:
+47. … the central question is whether the person who has been engaged to perform the services is performing them as a person in business on his own account. …
+[12] The Court endorsed the approach of the Federal Court of Appeal in Wiebe Door Services Ltd. v The Minister of National Revenue (1986), 87 DTC 5025 (FCA) [Wiebe Door], which identified objective factors. These factors comprise the level of control the employer has over the worker’s activities, whether the worker owns the tools and provides his or her own equipment, whether the worker hires his or her own helpers, the degree of financial risk taken by the worker and opportunity for profit; and, the degree of responsibility and management. No single factor is conclusive in characterizing the objective reality of the parties’ relationship and that list of factors is not exhaustive.
+[13] Recently in 1392644 Ontario Inc. (c.o.b. Connor Homes) v Canada (Minister of National Revenue - MNR), 2013 FCA 85, [2013] FCJ No. 327 (QL), the Federal Court of Appeal adopted a two-step process in answering the central question enunciated in Sagaz and held that the subjective intention of the parties is relevant but not determinative and the parties intent “must be grounded in a verifiable objective reality.”[1] Mainville J. states at paragraph 42 that:
+42. … The first step of the analysis should always be to determine at the outset the intent of the parties and then, using the prism of that intent, determining in a second step whether the parties’ relationship, as reflected in objective reality, is one of employer-employee or of independent contractor. …
+[14] The Court clarified any uncertainty concerning the use and weight to be given to the intention of the parties noting that legal effect of the relationship determines the legal status and cannot be decided solely on the declared intention of the parties.
+A. Intention
+[15] Based on the evidence, I find that there was no common understanding as to the nature of the relationship between the appellant and the intervenor.
+[16] In his testimony, Mr. Smith spoke of the nature of the relationship from the outset focusing on the intervenor as a driver. However, the uncontroverted evidence is that he was hired as a helper and promoted to driver sometime after. I reject Mr. Smith’s testimony that he did not ask for a social insurance number upon meeting the intervenor.
+[17] I accept as plausible given his lack of experience in deliveries, and notwithstanding his income tax filing, that the intervenor’s intent was that he would be an employee. This is supported by the provision of his social insurance number to Mr. Smith and his expectation of a T4, similar to his previous employer, which I accept.[2] During the intervenor’s cross-examination of Mrs. Smith, she admitted that the letter dated April 20, 2012, that she signed but did not recall, states “I am writing this letter to confirm employment for Mr. Mondel Samuel” and went on to note he had been working for the appellant for over two years.[3] I also note that when he joined the appellant he was a relatively new immigrant. I am satisfied that the intervenor considered himself an employee.
+[18] I conclude that there was no common understanding as to the nature of the relationship. Consequently, intention is not a relevant factor in this appeal.
+B. The Wiebe Door Test [19] Turning to the second step of the analysis to ascertain objectively, based on the facts, whether the Wiebe Door and Sagaz test has been met, the first factor is the determination of the level of control the appellant had over the intervenor’s activities.
+i. Control
+[20] It is established in the jurisprudence that the authority or right of a payer to exercise control over a worker as to the work and manner it is to be done that governs rather than the actual control.
+[21] While a couple of aspects in the arrangement in the present case indicate less control by the appellant over the intervenor, many other aspects of the arrangement show that the appellant had the right to exercise substantial control over the intervenor through Mr. Smith, delegated to AC by the appellant, while the appellant also maintained the ability and right to impose consequences if directions were not followed.
+[22] The appellant maintained responsibility for the delivery service as the contractor to AC. The intervenor’s weekly schedule, as driver, was set by the appellant during the Period. Drivers are not guaranteed work each day as the deliveries scheduled vary from week to week with the driver on standby until the afternoon prior to the delivery day. Mr. Smith received a daily call from AC as to the number of trucks needed the following day for Toronto. He described the process of selecting drivers. I accept his explanation of that process relating to the Toronto operation. Each day he would inform the intervenor if he would be making deliveries. If so, the daily “run sheet” was faxed to the appellant’s Ottawa warehouse.
+[23] The intervenor testified that he and Deveka were required to be at the warehouse by 7:00 a.m. weekdays in order to make deliveries between 8:00 a.m. to 5:00 p.m. They proceeded to AC’s warehouse and were given the deliveries for the day with the time periods within which to make the deliveries according to the run sheet. AC calls customers to give an approximate delivery time. The intervenor had the flexibility to vary the route and delivery time if he felt it necessary to deal with exigencies, such as traffic, and would contact customers in such circumstances.
+[24] The delivery duties and routine consisted of warming up and inspecting the truck, loading it, driving to delivery locations, unloading and placing new appliances according to the run sheet, loading old appliances, clearing debris, obtaining a customer’s signature, completing the driver’s log and monitoring and reporting fuel usage. At the end of the day, the drivers return to the AC warehouse.
+[25] Unless he had safety concerns, the intervenor must deliver all appliances on the run sheet. Mr. Smith said the intervenor could and did refuse to make certain deliveries. Mr. Smith had cancelled three deliveries because of safety concerns relating to the elevator at a delivery site.
+[26] The intervenor stated that Mr. Smith authorized Andre Thomas to train him, including how to complete the log book for the Ministry of Transport.[4] Mr. Smith had also explained to him how to deal with certain appliances, gave him the Appliance Canada Delivery Handbook 2012 detailing the procedures for making deliveries and setting out delivery expectations and instructions to be followed, including wearing AC’s apparel, and called the intervenor in the evenings emphasizing that the Minto deliveries were a priority.
+[27] Conversely, Mr. Smith said that while the intervenor was not expected to call him, he called to let Mr. Smith know what was going on. Mr. Smith denied that he had authorized Andre Thomas to train the intervenor, agreed that the intervenor had attended the Minto safety training session, as required by Minto, and confirmed that he had provided the AC Handbook to the intervenor. I accept the intervenor’s evidence and find that provision of the Handbook with the detailed instructions, the training and wearing of AC apparel indicate that the appellant exerted control over the intervenor’s activities including the manner and the mode of delivering appliances.
+[28] The intervenor was required to keep in contact with AC on its MIC system. In the event of problems, he said that the “protocol” was that he call Mr. Smith for direction who then contacted the AC customer service or he sometimes asked the intervenor to call AC in instances where the truck broke down. If AC had concerns, it contacted Mr. Smith. Mr. Smith explained that he did not use the MIC but needed to attend to major problems; otherwise, the drivers operate on their own.
+[29] In Saindon v Canada (Minister of National Revenue – MNR), 2014 TCC 172, [2014] TCJ No. 135 (QL) [Saindon], Hogan J. held that Saindon had exercised control over the truck driver that it had provided to dispatchers of another company through a delegation of authority to those dispatchers who dictated the work to the truck driver. Saindon’s ability and power to discipline the truck driver for misconduct was a manner in which control could have been exercised.[5]
+[30] Similarly, the appellant in the present case exercised control over the intervenor by delegating authority to AC while maintaining the ability to impose consequences if directions were not followed. The intervenor was expected to follow AC’s run sheets, the instructions in the AC handbook and remain in direct contact with AC’s customer service on the MIC system. While I accept Mr. Smith’s evidence that the appellant did not use the MIC system, he was in daily contact with AC and the intervenor, as noted, and was contacted if there were problems.
+[31] One illustration involving the appellant’s ability to impose consequences occurred when it unilaterally docked the intervenor’s pay, without negotiation, for mistakenly removing a stove from a customer’s premises due to a mix-up on the run sheet.[6] Another involved Mr. Smith sending a replacement driver and helper for the remainder of the week after the intervenor and Deveka were refused entry at the Minto work site because they did not have proper work boots which had been stolen from the truck.
+[32] A measure of control was also maintained over the intervenor’s pay. Mr. Smith claims that drivers’ fees were negotiated fluctuating between $130 to $150 daily for normal deliveries, increasing to $225 for long distance deliveries and higher rates where wholesale deliveries are made to a floor of a condominium.[7] He also negotiated an amount for garbage disposal or packing up cardboard for the recycling plant which the intervenor claims started at $40; the intervenor did these activities on days when deliveries were not being made. Mrs. Smith verified with Mr. Smith the number of days the intervenor worked and the negotiated rate of pay. Unlike other drivers, however, he was not required to send invoices. Instead, he texted information to Mrs. Smith which she used to prepare his bi-weekly pay for deposit into his Western Union account.
+[33] The intervenor disagreed that there was any negotiation, said he accepted the rate of pay the appellant was willing to pay and acknowledged in cross‑examination by appellant counsel to “no delivery, no pay.” I am not convinced that there was a negotiation of fees similar to his Toronto counterparts. I find it more probable that the intervenor accepted an amount established by the appellant as in an employment arrangement.
+[34] Similar to an independent contractor, supporting the appellant’s stance, the intervenor did not receive vacation pay, benefits, pay for statutory holidays nor pay for sick days. When requesting leave (ambiguously worded as a request for parental and vacation time), the appellant did not object. It viewed this as the intervenor’s ability to refuse work as long as he let the appellant know he was not available so that it could make alternative arrangements for a replacement. It is undisputed in the evidence that the appellant was responsible for finding a replacement driver which Mr. Smith did on a number of occasions.
+[35] Mr. Smith said that the intervenor often said that he had to go to his hospital job leaving scheduled deliveries for delivery the next day in which case he would call AC. While I accept Mr. Smith’s testimony that this occurred enabling the intervenor to exercise a level of control, it is improbable it would have been often given the expectations of AC that deliveries are to be made according to the run sheet.
+[36] The intervenor also testified that Mr. Smith provided information and instructions to the intervenor via Joel and stated that he was told by Mr. Smith that anything that Joel tells the intervenor to do, that he should “just go ahead and do it” and he did. This is strong indicia of control by the appellant.
+[37] Although there was less control by the appellant over the intervenor in a couple of instances, there were many other instances where the appellant had the right to exert substantial control over the intervenor as to the work and how it was performed. I find that this factor weighs more towards an employer-employee relationship.
+ii. Equipment and ownership of tools
+[38] A truck and a special dolly are essential for the operation of the appellant’s delivery business. Evidence adduced is uncontradicted that the appellant paid for and provided these items without charge to the intervenor. In my view, this factor weighs significantly towards a contract of services.
+[39] Respondent counsel referred me to the Federal Court of Appeal decision in Livreur Plus Inc. v Canada (Minister of National Revenue – MNR), 2004 FCA 68, [2004] FCJ No. 267 (QL), in which the Court noted that “the most important, the most significant, and the most costly” work tool was a crucial factor. Unlike the Toronto drivers who supplied their own truck or leased one from Mr. Smith and paid their vehicle expenses, vehicles were supplied to the intervenor plus all the operating expenses for the vehicles were paid by the appellant during the Period without charge.[8] Significantly, this included fuel, insurance and maintenance, relating to not only the delivery business but also encompassed his personal use of the vehicles.
+[40] Additionally, the appellant provided, at no charge, a special load-bearing dolly at a cost of $372. If damaged or lost, the drivers would pay for the repair or replacement, though no such instance occurred. I agree with the submission of respondent counsel that without a truck and a dolly, there was no delivery business.
+[41] In terms of other tools, there was conflicting testimony as to the provision of a drill, a hard hat, tie-down straps, socket set and box cutters. Mr. Smith said that drivers were expected to supply and maintain those items. The intervenor contends that his only expenditure was the amount of $55 for steel-toe work boots. He said that both vehicles were equipped with two types of dollies, hard hats and other tools such as a Milwaukee until it was stolen from the truck; it belonged to the appellant or Norman. Joel supplied box cutters. Even though Mr. Smith informed him that he could not use the AC tools, he continued to access these at the warehouse.
+[42] Mr. Smith indicated that drivers were not required to wear a uniform but AC gave the appellant apparel with the AC logo for identification purposes. However, the intervenor said that he was informed by Mr. Smith that he had to wear the clothing.
+[43] Given the specificity of detail by the intervenor and the photos entered as exhibits at the hearing corroborating his testimony, I accept and prefer the intervenor’s evidence relating to this factor.
+[44] For the foregoing reasons, this factor does not support a contractor-subcontractor arrangement and tilts heavily in the direction of an employer-employee relationship.
+iii. Hiring helpers
+[45] In accepting the intervenor’s more detailed testimony that the appellant hired, fired, replaced and paid the helpers, I find the evidence relating to this factor does not assist the appellant’s position.
+[46] Mr. Smith testified that it is important that the driver and helper work together as it is a strenuous job. He claimed that the intervenor hired Deveka, Al and Joel.
+[47] The intervenor denied hiring or recommending Deveka and stated that it was a driver in Toronto who recommended Deveka. Mr. Smith hired and later fired Deveka.[9] The intervenor denied that he could hire anyone but did make recommendations and stated he did not pay helpers but had relayed money to helpers that the appellant sent to him. The intervenor introduced Akim to Mr. Smith. In turn, Akim recommended Joel to Mr. Smith who hired both of them.
+[48] Helpers were also central to the delivery business. I am unconvinced that the appellant would allow the intervenor to hire helpers without Mr. Smith’s approval. It is more probable that when a helper resigned or was unavailable, the appellant secured a replacement through Mr. Smith, accepting that the intervenor could have made a recommendation.
+[49] The evidence on this factor tilts strongly towards an employer-employee arrangement.
+iv. Opportunity for profit and degree of financial risk
+[50] In my view, the intervenor had little, if any, opportunity to profit and bore virtually no financial risk.
+[51] Respondent counsel argued that the concept of “profit” necessarily requires a surplus of revenues over expenses and that in an employment arrangement where a worker receives a set rate for services while making no contribution to the expenses of the organization, there can be no true “opportunity” for profit. Reliance was placed on the decision of TBT Personnel Services Inc. v Canada, 2011 FCA 256, [2011] FCJ No. 1340 (QL) [TBT Personnel Services], in which the Court held that since the operating expenses were borne exclusively by the appellant, the intervenor could not “profit” financially by operating the business more efficiently.
+[52] There was some variance on the evidence as to the division of the proceeds from discarded appliances and conflicting evidence relating to the fees for garbage disposal. Mr. Smith said that the proceeds are divided between the driver and helper estimating that a driver can earn on average $240 extra per week and he only pays for fees for garbage disposal when he goes to Ottawa.
+[53] The intervenor contends that any amount of scrap over $200 went to Mr. Smith as the owner and fees for garbage disposal were always paid by the appellant. In cross-examination, the intervenor elaborated indicating Mr. Smith gave him “strict instructions” that anything over $200 should be used for the fee for garbage disposal with amounts less than $200 be shared between the driver and helper similar to the arrangement that had been in place in working with Andre Thomas. I accept the intervenor’s evidence.
+[54] Albeit some deliveries were to new condominiums, others entailed the removal of old appliances to be disposed of at a scrap yard or dealer in used appliances. In doing so, the appellant incurred all the associated operational costs (vehicle expenses, dolly and payment of helpers) as noted. If the customer was not home, the appellant would pay the driver for “re-delivery.” The intervenor’s sole expenditure is limited to his work boots.[10] I concur with the respondent’s submission that since the appellant was responsible for all the operational costs of the business, the intervenor was not in a position to profit.
+[55] The argument by appellant counsel that the intervenor had the risk of potential damage to appliances or equipment was rejected by the Court in TBT Personnel Service.[11] The damage was considered as being relatively minor compared to the largest financial aspect of the drivers’ work, namely the cost of the vehicle and its operation. The evidence adduced was that property damage that was other than cosmetic was handled by AC and it then calls Mr. Smith who passes the cost along to the driver who is given time to pay if requested; damage was not an issue in Ottawa.
+[56] I find on this factor that the intervenor did not have an opportunity to profit and bore virtually no financial risk, which is indicative of an employer-employee relationship.
+[57] For the foregoing reasons and on the totality of the evidence, I conclude that the intervenor was not in business on his own account. He was an employee engaged by the appellant in an employment arrangement under a contract of services in insurable and pensionable employment within the meaning of paragraph 5(1)(a) of the Employment Insurance Act and paragraph 6(1)(a) of the Canada Pension Plan.
+[58] The appeal is dismissed without costs.
+Signed at Toronto, Ontario, this 30th day of April 2015.
+“K. Lyons”
+Lyons J.
+CITATION:
+2015 TCC 108
+COURT FILE NO.:
+2013-4705(CPP) and 2013-4706(EI)
+STYLE OF CAUSE:
+J.J. SMITH CARTAGE CO. LTD. and MINISTER OF NATIONAL REVENUE and MONDEL SAMUEL
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+September 5, 2014
+REASONS FOR JUDGMENT BY:
+The Honourable Justice K. Lyons
+DATE OF JUDGMENT:
+April 30, 2015
+APPEARANCES:
+Counsel for the Appellant:
+Setu N. Purohit
+Counsel for the Respondent:
+Peter Swanstrom and
+Christian Cheong
+For the Intervenor:
+The Intervenor himself
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Setu N. Purohit
+Firm:
+Purohit Vaid Professional Corporation
+Markham, Ontario
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Elaboration of the two-step process is found at paragraphs 39 and 40 as follows:
+39. Under the first step, the subjective intention of each party to the relationship must be ascertained. This can be determined either by the written contractual relationship the parties have entered into or by the actual behaviour of each party, such as invoices for services rendered, registration for GST purposes and income tax filings as an independent contractor.
+40. The second step is to ascertain whether an objective reality sustains the subjective intent of the parties. …In other words, the subjective intent of the parties cannot trump the reality of the relationship as ascertained through objective facts. In this second step, the parties intent as well as the terms of the contract may also be taken into account since they color the relationship… However, that being said, the second step is an analyses of the pertinent facts for the purpose of determining whether the test set out in Wiebe Door Services Ltd. and Sagaz Industries Canada Inc. has been in fact met, i.e. whether the legal effect of the relationship the parties have established is one of independent contractor or employer-employee.
+[2] During cross-examination of the intervenor by appellant counsel, he admitted when he worked for Vinyl Windows for three months in late 2008, he received a T4 to file taxes.
+[3] Exhibit R-1, A-7. In re-examination, she said she would not normally use employment.
+[4] Mrs. Smith confirmed that daily logs needed to be completed before leaving the warehouse, however, neither she nor Mr. Smith reviewed the logs.
+[5] Saindon trucking provided a truck and driver to the Flying Eagle company. Flying Eagle’s dispatchers, under the terms of the contract, dictated the work the driver was to complete. Saindon’s ability and power to discipline the driver for misconduct was a manner in which control could have been exercised.
+[6] Email from AC, R. Kumar, in early 2013. The intervenor said that there was a mix-up in the paperwork and by the time AC called Mr. Smith, the appliance had been sold.
+[7] According to documentation tendered into evidence, an amount of $170 per day was also paid.
+[8] The truck was leased from Penske; it was responsible for the maintenance.
+[9] Deveka refused to replace his work boots after they were stolen from the truck and was fired.
+[10] The intervenor did not have a business registration number, did not collect HST from the appellant and did not advertise or quote jobs nor have delivery clients.
+[11] TBT Personnel Services hired/contracted drivers to deliver steel for their client. The contracted drivers were responsible only for paying fines for unlawful conduct and for any damage to equipment as a result of their own negligence and TBT Personnel Services was responsible for all operational costs related to the trucks. In finding a contract of service, the Court held the drivers’ liability for fines and damage as a result of negligence and resulting degree of financial risk was relatively minor compared to the cost of the truck and its operation.

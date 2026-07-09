@@ -1,0 +1,166 @@
+---
+title: "Pearson v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25232/index.do"
+last_modified: "2004-03-09"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 CCI 182"
+citation2: ""
+neutral_citation: "2004 CCI 182"
+decision_date: "2004-03-09"
+language: "fr"
+item_id: "25232"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2479
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T20:43:23.337000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "7ca08c717a30e670bcdf9f10132889a8a409ac14a2eca0e9987c3e7fba6bb4d9"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Pearson v. The Queen
+
+- Citation: 2004 CCI 182
+- Decision date: 2004-03-09
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2479, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Pearson v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-03-09
+Référence neutre
+2004 CCI 182
+Numéro de dossier
+2002-2070(GST)G
+Juges et Officiers taxateurs
+Gordon Teskey
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2002-2070(GST)G
+ENTRE :
+GEORGE PEARSON,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________
+Appel entendu le 16 février 2004 à Calgary (Alberta)
+Devant : L'honorable juge Gordon Teskey
+Comparutions :
+Avocat de l'appelant :
+Me Jonathan D. Warren
+Avocate de l'intimée :
+Me Margaret McCabe
+____________________________________________________________________
+JUGEMENT
+L'appel interjeté relativement à la cotisation de taxe sur les produits et services établie à l'égard d'un tiers en vertu de la Loi sur la taxe d'accise, dont l'avis est daté du 1er mai 2001, est accueilli, avec dépens, et la cotisation est annulée, conformément aux motifs du jugement ci-joints.
+Signé à Toronto (Ontario), ce 9e jour de mars 2004.
+« Gordon Teskey »
+Juge Teskey
+Traduction certifiée conforme
+ce 6e jour de mai 2005.
+Colette Dupuis-Beaulne, traductrice
+Référence : 2004TCC182
+Date : 20040309
+Dossier : 2002-2070(GST)G
+ENTRE :
+GEORGE PEARSON,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[Traduction française officielle]
+MOTIFS DU JUGEMENT
+Le juge Teskey
+[1] L'appelant interjette appel d'une cotisation établie à l'égard d'un tiers, dont l'avis est daté du 1er mai 2001. Il s'agit de la cotisation établie à l'égard de George Pearson père ( « George père » ) à titre d'administrateur de la société 358747 Alberta Limited ( « 358 » ), après que cette société ait omis de verser la taxe sur les produits et services ( « TPS » ).
+Question
+[2] La seule question dont est saisie la Cour est de savoir si George père était administrateur de droit ou administrateur de fait de 358 le 1er mai 1999 ou après.
+[3] George père prétend qu'il n'était ni administrateur de droit ni administrateur de fait le 1er mai 1999 ou après et que, par conséquent, la cotisation était frappée de prescription.
+[4] George père a témoigné pour son propre compte, et son fils, George Pearson fils ( « George fils » ), a aussi témoigné, ayant été appelé à témoigner pour George père.
+[5] Mary Pearson ( « Mary » ) a témoigné pour l'intimée.
+[6] Les témoignages de George père, de George fils et de Mary étaient des plus insatisfaisants. Ces témoignages étaient très contradictoires. Pour une partie de la période visée, George père et Mary étaient mariés. George fils est le fils de George père.
+[7] En n'oubliant pas qu'en tout temps, il incombe à George père de montrer qu'il n'était ni administrateur de droit ni administrateur de fait de 358 le 1er mai 1999 ou après, je propose d'examiner les documents qui ne sont pas contestés pour dégager les vrais faits de la présente affaire.
+[8] La cotisation de TPS établie à l'égard de 358, dont l'avis est daté du 17 juin 1997 et qui vise la période allant du 20 février 1995 au 31 décembre 1996, s'élevait à 57 354,59 $. Après l'ajout des intérêts et des pénalités, le montant total de la cotisation, au 17 juin 1999, s'élevait à 96 093,25 $.
+[9] Le 15 septembre 1997, 358 s'est opposée à la cotisation. L'avis d'opposition a été signé par Mary en tant qu'administratrice, suivant les conseils de son conseiller juridique indépendant, James R. Ryan ( « Me Ryan » ), Mary a signé l'avis d'opposition en tant qu'administratrice.
+[10] Le 7 octobre 1998, le ministre du Revenu national ( « le ministre » ) a envoyé une lettre à 358 pour confirmer la cotisation. La lettre a été envoyée au 615 Willowburn Crescent Se, Calgary, soit la résidence de Mary et l'ancien foyer conjugal, et une copie conforme a été envoyée à Me Ryan, le conseiller juridique de Mary.
+[11] Le 5 mars 1999, un huissier s'est présenté au 615 Willowburn Crescent et a interrogé Mary. Mary a dit, entre autres, qu'elle ne savait pas si 358 était toujours active.
+[12] Un grand nombre de relevés bancaires de la Banque Royale pour 358 ont été déposés dans le recueil des pièces. Le dernier relevé visait la période du 25 avril 1996 au 27 mai 1996.
+[13] Le 6 avril 1995, George père, George fils et Mary se sont présentés à la Banque Royale. George père et Mary ont signé pour la banque une liste des dirigeants et des administrateurs de 358. Les dirigeants étaient les suivants :
+George père
+président
+George fils
+vice-président
+Mary
+secrétaire
+Les administrateurs étaient George père, George fils et Mary.
+[14] Les trois personnes ont signé un certificat confirmant qu'une résolution avait été adoptée en bonne et due forme par les administrateurs de 358 pour que ceux-ci aient chacun l'autorisation d'effectuer des opérations bancaires de façon indépendante. Les trois personnes ont signé la carte bancaire usuelle.
+[15] Mary a reconnu sa signature sur beaucoup des documents. Pour les autres documents, soit qu'elle n'a pas reconnu sa signature, soit qu'elle l'a niée. Je me pencherai sur ces deux derniers points à mesure que les documents seront examinés dans les présents motifs.
+[16] Le 4 septembre 1996, Mary a signé un formulaire de TPS de Revenu Canada pour choisir le 31 décembre comme date de fin d'exercice. Le formulaire indiquait qu'elle était la personne-ressource.
+[17] Le 19 novembre 1996, un avis de changement des administrateurs de 358 a été déposé auprès du bureau d'enregistrement d'Alberta Municipal Affairs conformément à la Business Corporations Act. Mary a dit qu'elle avait du mal à reconnaître sa signature sur cet avis. Après avoir examiné les documents sur lesquels elle a reconnu sa signature, je suis convaincu qu'elle a signé l'avis. L'avis de changement d'administrateurs indiquait que George père n'était plus administrateur depuis le 1er mars 1995 et que Mary était la seule administratrice. Le document a été signé le 8 octobre 1996.
+[18] La déclaration annuelle pour 358 a été produite le 2 décembre 1996, et Mary nie qu'il s'agit de sa signature sur la déclaration. La signature semble être la même que les signatures reconnues par Mary, et je conclus qu'il s'agit en fait de la signature de Mary. La déclaration, datée du 27 novembre 1996, indique que toutes les actions de George père ont été transférées à Mary.
+[19] Le 14 février 1997, Mary a signé une déclaration de TPS.
+[20] Le 19 avril 2001, une recherche concernant 358 a été menée dans les registres des sociétés de l'Alberta. Les résultats de la recherche indiquent ce qui suit :
+(i)
+la charte a été radiée le 1er juin 1999;
+(ii)
+la dernière déclaration annuelle a été produite le 2 décembre 1996;
+(iii)
+il y a des déclarations annuelles en souffrance pour les années 2000, 1999 et 1998 et pour une autre année antérieure.
+[21] En février 1995, Mary et George père se sont séparés dans des circonstances désagréables. Aux dires de Mary, « c'était la guerre » .
+[22] Le 1er mars 1995, Mary a signé un affidavit de quatre pages contenant quatre pièces. L'affidavit a été établi dans le cadre d'une poursuite intentée par Mary contre George père. Dans l'affidavit, Mary demande la possession exclusive du foyer conjugal au 615 Willowburn Crescent. Elle allègue qu'elle a peur de George père et qu'une demande en vertu de la Matrimonial Property Act a été introduite le 7 février 1995. Elle prétend que le mariage val mal depuis un certain temps et elle fait allusion à des problèmes de l'été précédent. Elle allègue que George père est entré de force dans la maison au début de février et elle prétend avoir signé les documents annexés à l'affidavit sous la menace de George père.
+[23] En plus de demander dans l'affidavit l'utilisation exclusive du foyer conjugal, Mary cherchait à faire délivrer un certificat d'affaire en instance à l'égard des biens de l'entreprise.
+[24] Les documents annexés à l'affidavit sont les suivants :
+(i)
+un document de cession du nom de commerce, daté du 20 février 1995, indiquant que la société 368088 Alberta Ltd. ( « 368 » ) a cédé le nom « L.P. Sales » à 358. Le document a été signé par Mary pour 368;
+(ii)
+un document de cession de bail, daté du 20 février 1995, indiquant que le bail passe de 368 à 358. Mary a signé le document pour le bailleur initial, soit 344780 Alberta Ltd. ( « 344 » );
+(iii)
+une facture de vente d'équipement, datée du 20 février 1995, faisant état d'un montant de 80 000 $ pour une vente de 368 à 358. Le document a été signé par Mary pour 368;
+(iv)
+un billet à ordre établi par 344 à l'ordre de George père, daté du 28 juillet 1994, faisant état d'un montant de 72 700,11 $. Le document, signé par Mary et par George père, indiquait que les intérêts devaient être calculés à partir du 19 janvier 1989 à un taux de 12 % par année.
+[25] Je conclus que Mary et George père se sont séparés au début de février 1995, qu'ils se sont réconciliés dans la première semaine d'avril 1995 et qu'ils se sont séparés de nouveau le 8 août 1997. Cette fois encore, Mary a demandé une ordonnance de la Cour. Mary et George père n'ont pas vécu ensemble depuis le 8 août 1997 et ils ont divorcé en décembre 2002. Il y a toujours un litige qui oppose Mary et George père quant au partage des biens. Mary s'est remariée.
+[26] George père a dit qu'il ne se souvenait plus du moment où il a démissionné comme président, mais que 358 est devenue inactive au printemps de 1997, ce qui correspond au moment où George père a cessé d'exercer quelque fonction que ce soit pour 358 et où, à la connaissance de George père, 358 est devenue inactive.
+[27] Ainsi, comme Mary a dit au huissier en mars 1999 qu'elle ne savait pas si 358 était toujours active, et comme George père a indiqué que 358 est devenue inactive au printemps de 1997, je suis convaincu que 358 est, en fait, devenue inactive en 1997.
+[28] George fils est mécanicien en réfrigération, et son témoignage a confirmé certaines parties des témoignages de Mary et de George père. Il n'était qu'un ouvrier. Les trois personnes prenaient un café tous les matins à 8 h, après quoi elles déterminaient les tâches de la journée et choisissaient qui allait s'en occuper. George fils n'était au bureau que de 20 à 40 minutes par jour, parce qu'il sortait pour faire ses travaux manuels.
+[29] George fils ne se souvenait pas de la réunion à la Banque Royale, mais il a reconnu toutes les signatures et il a confirmé que lui, Mary et George père avaient chacun le pouvoir de signature.
+[30] George fils ne se souvenait pas d'avoir vu le prétendu procès-verbal de l'assemblée générale annuelle du 6 avril 1996, mais il a reconnu les trois signatures.
+[31] George fils a indiqué que Mary dirigeait 358, qu'elle s'occupait de la dactylographie, de la tenue des livres et des opérations bancaires, qu'elle donnait les directives aux employés et que ses fonctions n'ont jamais changé. Il a aussi dit que George père inspectait de l'équipement commercial d'occasion, en achetait, supervisait la remise à neuf de l'équipement acheté d'occasion et aidait à la vente de l'équipement remis à neuf.
+[32] Même s'il y a beaucoup d'autres documents écrits et de témoignages contradictoires, je crois que les faits ci-dessus sont les seuls faits dont j'ai besoin pour trancher la question.
+[33] J'estime que George père a bel et bien démissionné de son poste d'administrateur le 1er mars 1995, ce que Mary admet dans l'avis de changement des administrateurs de 358 qui a été produit le 19 novembre 1996.
+[34] J'estime que Mary est devenue la propriétaire unique de 358, fait que Mary a admis dans la déclaration annuelle produite le 2 décembre 1996.
+[35] L'intimée fait valoir que les trois signatures sur le prétendu procès-verbal de l'assemblée générale annuelle du 6 avril 1995 sont sur une page distincte et que je ne devrais pas donner foi à ce document, parce que Mary et George fils disent qu'ils n'ont jamais vu le document, même s'ils ont reconnu leur signature à la seconde page. L'avocate a fait observer que la seconde page provenait peut-être d'un autre document. Le procès-verbal, onglet 23 de la pièce R-1, est une pièce présentée par l'intimée. Je ne crois pas qu'une partie puisse contester la validité d'un document qu'elle présente à la Cour à titre de pièce. En tout état de cause, j'accepte que le document indique ce qui a été convenu par les trois personnes. Mary n'avait pas à rejeter les documents annexés à l'affidavit, parce qu'elle est devenue propriétaire unique de 358. Les documents provenant de la Banque Royale témoignent d'une mesure prise par les trois personnes pour faciliter les opérations bancaires pour 358. Ces documents indiquent que les trois personnes étaient prêtes à fournir et à attester tous les renseignements nécessaires aux fins des opérations bancaires. Je n'accepte pas les documents comme étant la preuve de la vérité.
+[36] Selon les preuves ci-dessus, je conclus que George père a cessé d'être administrateur de droit le 6 avril 1995 quand sa démission a été acceptée et que la démission a été confirmée pour information au public lorsque l'avis de changement d'administrateurs a été produit le 19 novembre 1996.
+[37] À partir de tous les documents et de toutes les preuves, je conclus que, après le 6 avril 1995, George père était administrateur de fait de 358 et qu'il a géré 358 avec Mary jusqu'à la séparation finale en 1997. George père n'était pas certain du moment où il a démissionné de son poste de président, mais il savait que 358 est devenue inactive au printemps de 1997.
+[38] Comme Mary était propriétaire et administratrice unique de 358, qui était inactive au moment de la séparation finale, George père a quitté 358 et n'a plus exercé quelque fonction que ce soit pour 358. Ainsi, après sa démission comme administrateur de droit, George père a été administrateur de fait jusqu'au moment où il a cessé d'exercer quelque fonction que ce soit pour 358, ce qui s'est produit lorsque 358 est devenue inactive.
+[39] Il ne faut pas oublier que Mary détenait toutes les actions et qu'elle était administratrice unique d'une compagnie inactive et sans valeur lorsqu'elle a chargé son conseiller juridique de radier la charte. La charte a été radiée le 1er juin 1999. En octobre 1998, Mary et son conseiller juridique savaient que l'opposition de 358 avait été refusée. Je suppose qu'il y a eu un certain temps entre le moment où les directives ont été données à Me Ryan pour faire radier la charte de 358 et le moment où les documents ont réellement été compilés et produits.
+[40] Pour les motifs ci-dessus, l'appel est accueilli, avec dépens, et la cotisation est annulée.
+Signé à Toronto (Ontario), ce 9e jour de mars 2004.
+« Gordon Teskey »
+Juge Teskey
+Traduction certifiée conforme
+ce 6e jour de mai 2005.
+Colette Dupuis-Beaulne, traductrice

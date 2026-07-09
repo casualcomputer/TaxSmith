@@ -1,0 +1,422 @@
+---
+title: "Redrupp v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26056/index.do"
+last_modified: "2004-09-20"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 TCC 640"
+citation2: ""
+neutral_citation: "2004 TCC 640"
+decision_date: "2004-09-20"
+language: "en"
+item_id: "26056"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4051
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T19:01:19.619000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "dfcea69a2ed6eeff7748442a44c4aa52186c6df925591688a246e77d6d173068"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Redrupp v. The Queen
+
+- Citation: 2004 TCC 640
+- Decision date: 2004-09-20
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4051, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Redrupp v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-09-20
+Neutral citation
+2004 TCC 640
+File numbers
+2001-1545(IT)G
+Judges and Taxing Officers
+Murray A. Mogan
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2001-1545(IT)G
+BETWEEN:
+WILLIAM R. REDRUPP,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on March 17 and 18, 2004, at Toronto, Ontario
+By: The Honourable Justice M.A. Mogan
+Appearances:
+Counsel for the Appellant:
+Brian R. Carr and Duane R. Milot
+Counsel for the Respondent:
+Bobby Sood
+____________________________________________________________________
+JUDGMENT
+The appeals from assessments of tax made under the Income Tax Act for the 1993, 1994 and 1995 taxation years are allowed, without costs, and the assessments are referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that, in the three years under appeal, the Appellant may deduct in computing income the following amounts not previously allowed as deductions:
+1993
+1994
+1995
+Automobile expenses
+$7,356
+$5,793
+$5,205
+Entertainment expenses
+4,353
+3,219
+2,986
+Law costs
+--
+8,473
+--
+Business use of home
+6,000
+6,000
+6,000
+Provision for PriceWatehouse amount
+42,160
+The Appellant is not entitled to any further relief.
+Signed at Ottawa, Canada, this 20th day of September, 2004.
+"M.A. Mogan"
+Mogan J.
+Citation: 2004TCC640
+Date: 20040920
+Docket: 2001-1545(IT)G
+BETWEEN:
+WILLIAM R. REDRUPP,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Mogan J.
+[1] The Appellant is a chartered accountant who engaged in the public practice of his profession from 1961 until the mid-1990s. When computing his income for the taxations years 1993, 1994 and 1995, he deducted significant amounts as business expenses, carrying charges and farm losses. Upon reassessment, the Minister of National Revenue ("MNR") disallowed as deductions most of those amounts. The Appellant has appealed from the reassessments under the Rules of General Procedure in this Court. The years under appeal are 1993, 1994 and 1995. The only issues are whether particular amounts are deductible in computing income.
+[2] Certain basic facts were admitted in the pleadings or otherwise proved. At all relevant times, the Appellant was a partner in PriceWaterhouse, an international accounting firm well known in Canada and other countries. In each year under appeal, the Appellant earned as a partner in his firm professional income exceeding $275,000. For 1995, the Appellant claimed a "provision against income" of $42,160 which appears to be a deduction with respect to a doubtful debt. The Appellant was a partner in a farming operation with two other persons owning properties contiguous to his; and he managed both the partnership and the farms. A summary of the relevant amounts taken from the Appellant's income tax returns (Exhibit A-1, Tabs 1, 2 and 3) is set out in the table below.
+1993
+1994
+1995
+Professional Income (PW)
+$290,350
+$289,175
+$354,664
+Business Expenses
+127,435
+130,749
+177,824
+Net Professional Income (line 137)
+162,915
+158,426
+176,840 *
+Farm Loss (line 141)
+64,377
+63,394
+73,154
+Carrying charges (line 221)
+34,820
+37,113
+42,259
+* discrepancy of $4,196 with line 137 on 1995 tax return.
+[3] The Notice of Appeal does not contain any details with respect to the various expenses which appear to be in dispute. The Notices of Reassessment for 1993 and 1994 are in Exhibit R-1, Tabs 8 and 9 but there are no statements of adjustment to show what expenses were allowed or disallowed. The Notice of Confirmation is part of Exhibit R-1, Tab 10 but it contains only total amounts. I will rely on copies of the income tax returns (Exhibit A-1, Tabs 1, 2 and 3; and Exhibit R-1, Tabs 1, 2 and 3) to set out what I think are the total business expenses including the doubtful debt amount for 1995.
+1993
+1994
+1995
+Automobile Expenses
+(fuel, insurance, repairs)
+27,810
+22,695
+21,633
+Interest Paid (investment in PW)
+42,980
+46,216
+49,368
+Entertainment
+$27,206 x 80%
+21,764
+--
+--
+$32,190 x 50%
+--
+16,095
+--
+$29,860 x 50%
+--
+--
+14,930
+Business use of Residence
+25,913
+25,631
+32,422
+Legal
+--
+13,840
+12,920
+Capital Cost Allowance
+(CCA automobile)
+8,968
+6,272
+4,391
+Provision against income
+_______--
+_______--
+42,160
+Total Business Expenses
+$127,435
+$130,749
+$177,824
+[4] According to the Respondent's Reply and the Confirmation (Exhibit R-1, Tab 10), in the reassessments under appeal, the MNR allowed as deductible 25% of automobile expenses and CCA, plus 10% of amounts claimed for entertainment, but did not allow the deduction of any other business expenses. Also, the MNR disallowed all carrying charges but allowed the restricted farm loss. The table below contains a summary of the amounts in dispute.
+1993
+1994
+1995
+Automobile Expenses
+27,810
+22,695
+21,633
+Automobile CCA
+8,968
+6,272
+4,391
+Total Automobile
+36,778
+28,967
+26,024
+25% allowed
+9,194
+7,242
+6,506
+Entertainment claimed
+21,764
+16,095
+14,930
+10% allowed
+2,176
+1,609
+1,493
+Business Expenses claimed
+127,435
+130,749
+177,824
+Less: Portion allowed
+11,370
+8,851
+7,999
+Expenses in dispute
+116,065
+121,898
+169,825
+Farm loss claimed
+64,377
+63,394
+73,154
+Restricted loss allowed
+8,750
+8,750
+8,750
+Farm loss in dispute
+55,627
+54,644
+64,404
+Carrying Charges (line 221)
+$34,820
+$37,113
+$42,259
+The carrying charges deducted on line 221 of the income tax returns are different from and in addition to the amounts of "interest paid" contained in the total business expenses (see table in paragraph 3).
+[5] The table in paragraph 4 shows that the amounts in dispute are significant with respect to the Appellant's professional income from PriceWaterhouse (see table in paragraph 2), his total business expenses (see table in paragraph 3), and his claimed farm losses (see table in paragraph 4). In support of his position, the Appellant made the following statements in his Notice of Appeal dated May 1, 2001:
+In each of 1993, 1994 and 1995 the taxpayer earned business professional income (PW) exceeding $275,000 per year and incurred expenses related to such income in the form of automobile, home office, entertainment, legal and interest incurred on debt related to partnership interest with PriceWaterhouse.
+Each year the taxpayer provided a detailed analysis accompanying the 1993, 1994 and 1995 income tax returns for each element of expense claimed by type of charge and month.
+(page 2)
+The business expenses claimed were reasonable in amount, particularly given the level of income of the taxpayer, his global business activities and responsibilities.
+(page 2)
+In summary on business expenses (professional) the issues are reasonableness of amounts and evidence of expenditures. (page 5)
+The business expenses incurred and shown with respect to 1993, 1994 and 1995 were supported by detailed analyses of expenses by month and source of charge and filed with the taxpayer's income tax return for each year. (page 10)
+[6] The Appellant produced a binder of 15 documents (Exhibit A-1) in which Tabs 1, 2 and 3 are copies of his T1 General income tax returns for 1993, 1994 and 1995, respectively. Similarly, the Respondent produced a binder of 12 documents (Exhibit R-1) in which Tabs 1, 2 and 3 are copies of the Appellant's T1 General income tax returns for 1993, 1994 and 1995, respectively. The parties are in agreement that, in each tax return as filed, there was a one-page schedule listing the business expenses shown in the table in paragraph 3 above. For example, I will duplicate the schedules from all three income tax returns.
+1993 Expenses
+Automobile - Fuel, insurance, repairs
+$27,810
+Interest - investment in PriceWaterhouse
+42,980
+Business use of residence (one-third)
+25,913
+Business entertainment - 80% of $27,206
+21,764
+Capital cost allowance
+8,968
+$127,435
+1994 Expenses
+Interest: Investment in PriceWaterhouse
+$46,216
+Legal
+13,840
+Automobile - fuel, repairs, insurance, etc.
+22,695
+Capital cost allowance - automobile
+6,272
+Business meal & entertainment -
+50% of $32,190
+16,095
+House expenses - $76,893
+-- Business use (one-third)
+25,631
+$130,749
+1995 Expenses
+Provision against partnership income
+$42,160
+Interest - investment in PriceWaterhouse
+49,368
+Legal costs
+12,920
+Automobile - capital cost allowance
+- fuel, repairs, insurance, interest
+4,391
+21,633
+Business meals, entertainment -
+50% of $29,860
+14,930
+House expenses - $81,054
+-- Business use (40%)
+$32,422
+$177,824
+The Facts
+[7] According to the Appellant's Exhibit A-1 and his oral testimony, his income tax returns for 1993 and 1994 (Tabs 1 and 2) included one-page summaries month-by-month of four specific expenses (i) interest on PriceWaterhouse loan; (ii) entertainment; (iii) automobile; and (iv) business use of home. Also, Exhibit A-1 and his oral evidence indicate that his return for 1995 (Tab 3) had one-page summaries month-by month for entertainment, automobile and business use of home (no summary for interest on PriceWaterhouse loan). This is where the parties disagree. The Respondent claims that when the T1 General returns were filed, they included no month-by-month summaries of any specific expenses. The Respondent claims that the returns as filed contained only the schedules reproduced in paragraph 6 above. Carmela Catizzone, the appeals officer at Revenue Canada who reviewed the Appellant's Notices of Objection, testified at the hearing. She stated that Revenue Canada could not locate the Appellant's 1995 income tax return but she was adamant in stating that the 1993 and 1994 returns, as filed, did not contain any month-by-month summaries of specific expenses. Ms. Catizzone thought that she first recalled seeing the month-by-month summaries at her examination for discovery in June 2003.
+[8] The month-by-month summaries described in paragraph 7 must be seen in the context of the Appellant's oral testimony. I will summarize his evidence concerning the preparation of his income tax returns. He prepares his own returns writing by hand the required amounts. When he comes to a specific business expense like "entertainment", he assembles all of the relevant invoices or receipts and consolidates the totals, month-by-month, on a spreadsheet under different categories across the top of the sheet like University Club, York Downs Golf Club, Mad River Golf Club (near Collingwood), Granite Club, American Express Credit Card and Home. When the spreadsheet is complete, upon a fresh schedule, he records the monthly totals under all categories to arrive at his aggregate entertainment expenses for the year. Good examples of this operation appear in Exhibit A-1, Tab 1 (sixth page in the Court copy) where the aggregate for 1993 is $27,206; and Tab 2 (eleventh page in the Court copy) where the aggregate for 1994 is $32,190.
+[9] Continuing the summary of the Appellant's evidence, he attached copies of the fresh schedules to his income tax returns; filed the returns; and kept the original spreadsheets with the underlying relevant invoices and receipts. When he received a Notice of Assessment from Revenue Canada with respect to a particular taxation year which did not challenge his business expenses, he would destroy or throw away any invoices, receipts and spreadsheets related to that year. He claims that this is why, during the audit (January to October 1997) of his tax years 1993, 1994 and 1995, he was not able to produce any receipts to prove any of his claimed expenses. I will leave aside for now the disagreement between the parties as to whether the month-by-month summaries were included in the income tax returns, as filed, because the summaries are not third party documents like an invoice or receipt. They do not prove that any particular amount was charged to the Appellant or paid by him.
+[10] There is a wealth of evidence concerning the Appellant's extensive practice as a chartered accountant and his success as a partner of PriceWaterhouse. He graduated from the University of Toronto in 1958 with a degree in Commerce and Finance. He articled at PriceWaterhouse ("PW") and was admitted to the Ontario Institute of Chartered Accountants in 1961. He was employed as a professional accountant in the "audit" stream of PW commencing in 1961. He was promoted to supervisor in 1964 and manager in 1967. He was then sent to Boston for a year. Upon his return from Boston, he was asked to open a PW office in London, Ontario. The practice which PW had in London in 1968/1969 was primarily an audit practice of Canadian subsidiaries of U.S. parent companies. The Appellant's basic assignment was to hold and expand that practice.
+[11] In the accounting profession, PW had stiff competition in London around 1968/1969 because there were well-established offices of other national accounting firms and many strong local firms. The Appellant started in London with only three chartered accountants including himself. In the early 1970s, he expanded into agriculture, corporate finance and income tax. In the area of corporate finance, he helped clients to borrow for the acquisitions of new business and real estate. This work involved the valuation of a business, the development of a business plan, determining the amount of a specific loan and how long it would take to repay. The Appellant became experienced in negotiating the terms of loans with banks and other financial institutions on behalf of PW clients. He combined this expertise with the agricultural business of many clients who were in the production of primary food products like beef, pork, poultry and crops. Agriculture is a big business in southwest Ontario from Hamilton west to London and Windsor and north to Georgian Bay.
+[12] The Appellant's work in London was recognized in 1971 when he became a partner of PW. In 1985, when the London office had about 50 chartered accountants, he was asked to come back to the Toronto office of PW to continue his work in the corporate finance group. He purchased a home at 408 Russell Hill Road in Toronto and had an office at the PW location in First Canadian Place (corner of Bay and King Streets). He continued with PW until 1994 when he retired and commenced his own business as a consultant in the area of corporate finance. Because the fiscal period of PW ends in January, he reported his 1994 earnings as a partner of PW in the calendar year 1995. The Appellant was widely recognized as an expert in corporate finance. In 1993, he was asked by a client in Germany to assist in the privatization of the coal mines in Romania. He went to Germany; worked on the project; and submitted a proposal but PW was not given the assignment. Similarly, he went to China with a client to advise on a project there.
+[13] I am satisfied on the evidence that the Appellant is a competent, well-respected and successful professional accountant, particularly in the area of corporate finance. Indeed, his competence in his chosen profession is one of his stumbling blocks in this Court. Revenue Canada has challenged the Appellant on all of the amounts in dispute summarized in paragraph 4 above. I will set out as a ratio and percentage the aggregate of all amounts in dispute for each year (paragraph 4 above) in relation to the Appellant's income as a partner in PW:
+1993: 206,512 = 71%
+290,350
+1994: 213,655 = 74%
+289,175
+1995: 276,488 = 78%
+354,664
+Those percentages speak for themselves. When the Appellant was deducting in each year a total of three amounts (business expenses, farm loss and carrying charges) which exceeded 70% of his income from PW, he might have expected and, in my view, he ought to have expected that those amounts would be challenged by Revenue Canada. His failure to retain relevant invoices and receipts for a reasonable time (perhaps the three-year normal reassessment period) runs against him. The audit for the three years under appeal commenced in January 1997, well within the time to reassess 1993 and subsequent years; and yet the Appellant could not produce any invoices or receipts for 1995, the most recent year in the audit.
+Analysis
+[14] The Appellant faces questions of credibility, reasonableness and common sense. The amounts in dispute are high and not proven. The best evidence would be an invoice from the creditor, a cancelled cheque, a receipt or other proof of payment. The best evidence was not presented in Court. Instead, we have only schedules in the handwriting of the Appellant with his oral explanation as to how they were prepared. The Appellant has significant experience as a professional auditor going back to his early years at PW from 1961 to 1967. When this appeal was heard in the spring of 2004, the Enron scandal was front-page news. From the witness stand, the Appellant commented as an aside that his audit teams at PW had a good "nose for fraud", and they would have detected the fraud at Enron long before it became public. A professional accountant with a keen scent for fraud should know the importance of original third party documents like invoices and receipts.
+[15] Keeping good business records is not only a matter of common sense but is also required under subsection 230(1) of the Income Tax Act which states in part:
+230(1) Every person carrying on business and every person who is required, by or pursuant to this Act, to pay or collect taxes or other amounts shall keep records and books of account ... at the person's place of business or residence in Canada ... in such form and containing such information as will enable the taxes payable under this Act ... to be determined.
+The need to retain and produce original documents has been confirmed by the Courts on many occasions. In Njenga v. The Queen, 96 DTC 6593, the Federal Court of Appeal stated:
+The Income tax system is based on self monitoring. As a public policy matter the burden of proof of deductions and claims properly rests with the taxpayer. The Tax Court Judge held that persons such as the Appellant must maintain and have available detailed information and documentation in support of the claims they make. We agree with that finding. Ms. Njenga as the Taxpayer is responsible for documenting her own personal affairs in a reasonable manner. Self written receipts and assertion without proof are not sufficient.
+[16] I will not permit the deduction of the amounts in dispute based on the Appellant's schedules and oral testimony alone. Certain amounts, in particular, cry out for verification. There is nothing to support the interest claimed to have been paid on money borrowed to invest in PW when the amount of interest deducted each year exceeds $42,000. Men of the Appellant's stature do not borrow from loan sharks! They borrow from banks or other financial institutions which are regulated and required to maintain extensive books and records. The Appellant should have been able to produce bank records or other similar documents to prove the payment of such interest. Exhibit A-1, Tab 4 is a one-page schedule for 1994 purporting to show the interest paid month-by-month on an investment of $385,000 in PW. The aggregate interest for the year ($49,368) was deducted by the Appellant in his 1995 fiscal year. To whom was the interest paid? How was it paid? By cheque? By direct withdrawal each month from the Appellant's bank account? The income tax audit for 1993-1994-1995 began in January 1997. At that time, the Appellant should have been able to verify the significant amounts of interest deducted as business expenses in each year. He did not verify any such amounts.
+[17] There is nothing to support the carrying charges which exceed $34,000 in each year. The Appellant claimed that part of the carrying charges was interest on money borrowed to contribute to an RRSP but he did not seem to realize that such interest is specifically not deductible under a provision of the Act.
+[18] The Appellant gave extensive evidence with respect to the business use of his car. I am persuaded that the Appellant uses his car frequently in connection with his business. I am troubled, however, by the absence of receipts and his claim that one car was used exclusively for business. If there were receipts to prove the total operating costs of his car each year, I would be inclined to allow 66% of such costs as deductible. In the absence of receipts, I will permit the deduction of 45% of the amount which he claimed as automobile expenses and CCA. In other words, I will increase the deduction for automobile expenses granted in the reassessments under appeal from 25% to 45%.
+[19] In the reassessments, the Minister allowed the Appellant to deduct only 10% of the amounts claimed for "entertainment". For many, many years, there has been a long-established practice of writing the name of the client or guest on the credit card receipt, private club voucher or ticket (game or theatre) when a person is entertained. I do not understand or accept the Appellant's failure to follow that long-established practice and produce acceptable receipts naming his guests. I am inclined to think that the Appellant spent more than 10% of the claimed amounts but, again in the absence of receipts, I would allow only 30% of the claimed amounts. I will increase the deduction for entertainment expenses granted in the reassessments under appeal from 10% to 30%.
+[20] At the hearing, the Appellant produced two invoices (Exhibit A-1, Tab 8 and 9) from the law firm Weir & Foulds showing that he was billed for law costs of $2,247.54 plus $6,225.11 in 1994 concerning a dispute and later agreement with PW. I will allow the Appellant to deduct his proven legal costs of $8,472.65 in 1994.
+[21] The Appellant's claims with respect to business use of his home are, in my view, exaggerated. I do not doubt that he used his home at times for business purposes but it must be remembered that, in 1993 and 1994, he was a senior partner in a prominent national and international accounting firm; and he had an office in First Canadian Place, Toronto. Having regard to subparagraphs 18(12)(a)(i) and (ii) of the Act, the work space in his home was not his principal place of business. I do accept, however, that there was a work space in his home "used exclusively for the purpose of earning income from business and used on a regular and continuous basis for meeting clients". I conclude from the approximate drawings of his home floor plans (Exhibit A-1, Tab 5) and his oral testimony that he used about 15% of his home (the office on the second floor) for business purposes.
+[22] In the absence of receipts (same old problem when the Appellant is a highly qualified accountant!), I reject out of hand the very high annual operating costs ($75,000 to $80,000) which he attributed to his home. I am satisfied from the evidence of the Appellant himself and the appeals officer (Ms. Catizzone) that certain of those costs were of a capital nature; and the aggregate is much too high. On an arbitrary basis, I will reduce the annual home operating costs to $40,000 per year, and permit the Appellant to deduct 15% of that amount ($6,000 per year) for business use of the home in each year under appeal.
+[23] In his 1995 income tax return, the Appellant deducted the amount $42,160 which he described as "Provision against partnership income (see attached)". He attached a copy of his letter to PW dated June 14, 1996 which is Exhibit A-1, Tab 12 in this appeal. The Appellant's letter refers to an earlier letter from PW dated April 22, 1996 which is Exhibit A-1, Tab 10. The best description of the amount $42,160 appears on the second page of a letter dated June 13, 1996 from PW to the Appellant (Exhibit A-1, Tab 11). And finally, a letter dated July 29, 1998 from PW to the Appellant (Exhibit A-1, Tab 13) shows that the amount $42,160 (or $42,967.76 as it is described in some documents) was not paid to the Appellant until July 1998. In evidence and argument, the Respondent did not dispute the truthfulness of any statement made in the letters which are Exhibit A-1, Tabs 10, 11, 12 and 13.
+[24] I am satisfied that, when the Appellant retired from PW in late 1994, there was a genuine dispute between him and his partnership concerning this amount $42,160. The PW partnership showed it as a 1995 distribution even though it was not paid to the Appellant until July 1998. If the Appellant was required to include the amount $42,160 as part of his 1995 net business income (see box 18 on form T5013, part of Exhibit A-1, Tab 3; and see also Exhibit A-1, Tab 12), then in my view he was entitled to deduct in 1995 that same amount $42,160 as a reserve for a doubtful debt under paragraph 20(1)(l) of the Act. When he in fact received the amount $42,160 in July 1998, he was required to include that amount in his 1998 income under paragraph 12(1)(d) of the Act.
+[25] The Appellant did not report the $42,160 as part of his 1998 income. In fairness to him, he would have filed his 1998 income tax return in the spring of 1999 and, by that time, he would have received his 1995 Notice of Reassessment dated March 9, 1998 disallowing his deduction of the $42,160 "provision". When Ms. Catizzone testified, the following exchange occurred between her and the Appellant's counsel:
+Q Now dealing with the partnership income and dealing with the deferral, Mr. Redrupp ultimately did provide you with letters on that particular issue. You did have the letters we had.
+A. With respect to the provision?
+Q. Yes.
+A. Yes.
+Q. With respect to the $42,000 provision.
+A. Yes.
+Q. And why did you not allow that deduction?
+A. I was prepared to allow it if he had included it in the 1998 income tax return.
+Q. So you are saying as long as it can be moved to 1998 you are happy that it could be deducted in 1995.
+A. Yes.
+I will allow the Appellant to deduct in 1995 the amount $42,160 which he attempted to deduct when filing his return for that year. One of the counsel suggested that the Appellant may be reassessed for 1998 (the year when he actually received the $42,160) to include that amount in income notwithstanding the passage of time if subsection 152(4.3) applies. I think the Appellant may be reassessed for 1998 in any event.
+Farm Losses
+[26] The Appellant claims that farming was his chief source of income within the meaning of section 31 of the Act. On this issue, the cornerstone of the law is the decision of the Supreme Court of Canada in Moldowan v. The Queen, 77 DTC 5213. Writing for the Court, Dickson J. as he then was stated at pages 5215-5216:
+Whether a source of income is a taxpayer's 'chief source' of income is both a relative and objective test. It is decidedly not a pure quantum measurement. A man who has farmed all of his life does not cease to have his chief source of income from farming because he unexpectedly wins a lottery. The distinguishing features of 'chief source' are the taxpayer's reasonable expectation of income from his various revenue sources and his ordinary mode and habit of work. These may be tested by considering, inter alia in relation to a source of income, the time spent, the capital committed, the profitability both actual and potential. A change in the taxpayer's mode and habit of work or reasonable expectations may signify a change in the chief source, but that is a question of fact in the circumstances.
+[27] Since 1977, many decisions in the Federal Court of Appeal and this Court have adopted the three-pronged test of time spent, capital committed and profitability as the basis for determining chief source of income. Around 1960, the Appellant's father had purchased a 60-acre farm north of Creemore and south of Collingwood about 130 kilometres north of Toronto. In 1964, the Appellant purchased some adjoining lands: 100 acres beside his father's farm and 40 acres behind it. In 1975, he purchased a further 75-acre farm nearby. In the years under appeal, the original 60 acres were owned by the Appellant's mother and some of the adjoining land was owned by his wife. It is acknowledged that the Appellant managed the farm operation on behalf of all three family members. Accordingly, the net farm loss was allocated among the three owners as follows:
+1993
+1994
+1995
+Appellant
+$64,377
+$63,394
+$73,154
+His wife
+His mother
+901
+1,734
+1,024
+1,826
+968
+4,689
+Net farm loss
+$67,012
+$66,244
+$78,811
+[28] In 1961, the Appellant purchased his first Hereford cattle which he described as "horned". In 1970, he fixed up the original 60 acres with new fences; sowed grain on 30 acres; and used 30 acres for pasture. In the 1960s and 1970s, he acquired more knowledge by attending courses put on by the Government of Ontario or certain feed companies. In 1980, he increased the size of the herd with more cows and calves and, in 1994, purchased his first high quality ("first class") bull then only four months old. The young bull was quarantined in the United States for a time and came to Canada in 1995. The Appellant stated that, in 1993, he would have had from 40 to 60 head of cattle: about 60 from January to May and about 40 from June to January.
+[29] The Appellant claims that he spent one-third of his time at the farm. That may be true for the year 2004 when this appeal was heard but it is simply not believable for the years under appeal 1993, 1994 and 1995. In 1993 and 1994, the Appellant was a senior partner at the main Toronto office of PW (in First Canadian Place). He stated that when he moved from London to Toronto, his main thrust was to "take public" certain entrepreneurs who previously had private corporations. Those projects require meetings with the client, a chartered bank, and most important the investment banker who will work on the prospectus and advise upon the securities to be sold to the public. It is high-level work for accountants, lawyers and investment bankers.
+[30] The Appellant stated that when he left PW at the end of 1994, he was the biggest earner in their corporate finance group. I believe him. He is intelligent, competent, hard working and a successful professional accountant. That success does not come from spending one-third of one's time at a farm 130 kilometres from home and office. That success comes from being available to slug it out in the corporate milieu of Bay Street. Each trip to the farm would require at least one hour in transit each way, going and coming. Also, the Appellant belongs to the Mad River Golf Club near Collingwood and near his farm. On his entertainment spreadsheet, the Mad River Golf Club was one of the locations where he incurred expenses. He stated that his visits to Mad River Golf Club were mainly to entertain at meals and not to play golf. That may be true but any time spent at the Mad River Golf Club was time not spent at the farm. I find that the Appellant spent less than one-third of his time at the farm.
+[31] According to Exhibit A-1, Tab 4, the Appellant had $385,000 invested in PW in 1994. That amount is not surprising given his success as a partner in that firm. Also, he had an undisclosed amount invested in the family home at 408 Russell Hill Road, Toronto, a preferred residential neighbourhood. It is probable that he had additional amounts invested in some of the private clubs he belonged to: Granite, University, York Downs Golf and Mad River Golf. Those clubs were used in connection with his professional life as indicated in the "entertainment" spreadsheet. Membership in such clubs would not contribute to the success of his farming endeavour.
+[32] During the years under appeal, ownership of the lands used for farming was divided among the Appellant, his wife and his mother. There is no evidence on the amount which the Appellant himself had invested in his portion of the farm partnership. Accordingly, it is not possible to compare the amount which the Appellant had invested in farming with the amounts which the Appellant had invested in his professional business and his city home. The amount invested in the city home is relevant because, for the fulltime farmer, the home is an integral part of the farm. Also, the Appellant had a residence of some kind at his farm. In the absence of evidence to the contrary, I am satisfied that the Appellant had a substantially greater amount of money invested in PW, his Toronto home plus his private clubs than the amount invested in his share of the farm partnership.
+[33] The last of the three-pronged test is profitability. I will extract from the farm income statements incorporated into Exhibit A-1, Tabs 1, 2 and 3 the amounts reported as revenue, expenses and loss:
+1993
+1994
+1995
+Farm revenue
+$31,895
+$28,878
+$33,041
+Farm expenses
+98,907
+95,122
+111,852
+Farm Loss
+$67,012
+$66,244
+$78,811
+In each year, the expenses (including a moderate amount for CCA) were more than three times the revenue. There is no documentary evidence that the farm produced a profit in the 10 years before 1993 or in any year after 1995. In other words, there is no evidence that the farm has shown a profit at any time in the last 20 years. I am not directing my mind to "reasonable expectation of profit". I am simply wondering how a farm which does not show a profit for 20 years can ever be regarded as a "chief source of income" in any one of the latter 10 years when the principal owner or partner earns a generous income each year from a non-farming source.
+[34] In Donnelly v. The Queen, 97 DTC 5499, Robertson J.A. referred to taxpayers "who earn their income in the city and lose it in the country". Those words certainly describe Mr. Redrupp because he is very much a city man. He drives only a Mercedes, even when going from Toronto to his farm, and that fact would distinguish him from the vast majority of farmers in Canada. In Taylor v. The Queen, 2002 DTC 7596, the Federal Court of Appeal qualified what Robertson J.A. said about "substantial profits from farming" in Donnelly, but did not depart from the three-pronged test.
+[35] In the Reply to the Notice of Appeal, the Respondent states that the Appellant did not incur farm expenses in the amounts he claimed in the years under appeal. This again puts in issue the question of verifying amounts paid. I have considered the Appellant's claim with respect to "chief source of income" by applying the three-pronged test from Moldowan as if there were no issue concerning proof of payment. In other words, even if all farming expenses were proved as having been paid, I would still conclude that farming was not the Appellant's chief source of income in any of the years under appeal.
+[36] I will allow the appeals for 1993, 1994 and 1995 only for the purpose of granting the Appellant limited relief by permitting additional deductions for automobile expenses (see paragraph 18 above), entertainment expenses (see paragraph 19 above, law costs (see paragraph 20 above), business use of home (see paragraph 22 above) and the "provision" amount of $42,160 in 1995. I will make no order as to costs because the relief which the Appellant obtained in each year under appeal is much less than one-half of the amounts in dispute.
+Signed at Ottawa, Canada, this 20th day of September, 2004.
+"M.A. Mogan"
+Mogan J.
+CITATION:
+2004TCC640
+COURT FILE NOS.:
+2001-1545(IT)G
+STYLE OF CAUSE:
+William R. Redrupp and Her Majesty the Queen
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+March 17 and 18, 2004
+REASONS FOR JUDGMENT BY:
+The Honourable Justice M.A. Mogan
+DATE OF JUDGMENT:
+September 20, 2004
+APPEARANCES:
+Counsel for the Appellant:
+Brian R. Carr and Duane R. Milot
+Counsel for the Respondent:
+Bobby Sood
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Brian R. Carr and Duane R. Milot
+Firm:
+Fraser Milner Casgrain
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

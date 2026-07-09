@@ -1,0 +1,157 @@
+---
+title: "Moussa Reza Alavian Esmat Roboby v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/25159/index.do"
+last_modified: "2004-12-14"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 TCC 809"
+citation2: ""
+neutral_citation: "2004 TCC 809"
+decision_date: "2004-12-14"
+language: "en"
+item_id: "25159"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2605
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T18:44:21.914000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "a045a87b1ba0f03c82537c2c3bdb9baa3cf0d0aaf679952e097d8121cd87b96b"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Moussa Reza Alavian Esmat Roboby v. The Queen
+
+- Citation: 2004 TCC 809
+- Decision date: 2004-12-14
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2605, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Moussa Reza Alavian Esmat Roboby v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-12-14
+Neutral citation
+2004 TCC 809
+File numbers
+2001-3710(GST)G
+Judges and Taxing Officers
+David W. Beaubier
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Citation: 2004TCC809
+Date: 20041214
+Docket: 2001-3710(GST)G
+BETWEEN:
+MOUSSA REZA ALAVIAN ESMAT ROBOBY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+2001-3776(IT)G
+AND BETWEEN:
+ESMAT ROBOBY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+2001-3777(IT)G
+AND BETWEEN:
+MOUSSA REZA ALAVIAN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Motions heard on December 9, 2004 at Vancouver, British Columbia
+By: The Honourable Justice D.W. Beaubier
+Appearances:
+Counsel for the Appellant:
+Steven M. Cook
+Counsel for the Respondent:
+David Jacyk
+ORDER AND REASONS FOR ORDER
+[1] These three motions by the Respondent to amend its pleadings were heard at Vancouver, British Columbia on December 9, 2004. They are to add portions, as italicised, to plead before the Court, as follows:
+2001-3710(GST)G, to paragraphs 15, 18 and 20:
+15. The issues are
+(a) whether the Appellants are liable for GST as builders deemed to have made a supply of a residential complex pursuant to s.191 of the Excise Tax Act, R.S.C. 1985, c. E-15, as amended (the "Act");
+(b) whether penalties were properly assessed in accordance with section 280 of the Act;
+(c) alternatively, whether the Appellants are liable for GST which they failed to remit with respect to the purchase of the lot on which the 1616 Parkway residence was built.
+...
+18. He further submits that the Appellants are not excepted by s. 191(5), as 1616 Parkway was not used primarily as a place of residence and was used primarily for the purpose of carrying on a business or an adventure in the nature of trade, or that the Appellant had at least an operating motive to sell 1616 Parkway.
+19. He further submits that the Appellants were properly assessed with penalties in accordance with section 280 of the Act.
+20. Alternatively, should the Court find that s. 191 of the Act does not apply to impose a GST liability, the Appellants are nevertheless liable for the GST which they failed to remit with respect to the purchase of the lot on which the 1616 Parkway residence was built.
+2001-3776(IT)G, to paragraphs 17 and 18:
+D. GROUNDS RELIED ON AND RELIEF SOUGHT
+17. He respectfully submits that the profit from the sale of property at 1616 Parkway was income earned in the course of carrying on a business or adventure in the nature of trade in the 1996 taxation year in that the Appellant had at least an operating motive to sell when she acquired 1616 Parkway.
+18. In the alternative to paragraph 21, he submits that the listing of 1616 Parkway constituted a clear and unequivocal positive act implementing a change of intention. This changed the character of the property from a capital asset to a trading asset such that the profit from the sale of property at 1616 Parkway was income earned in the course of carrying on a business or adventure in the nature of trade in the 1996 taxation year.
+...
+2001-3777(IT)G to paragraphs 20 and 21:
+D. GROUNDS RELIED ON AND RELIEF SOUGHT
+20. He respectfully submits that the profit from the sale of property at 1616 Parkway was income earned in the course of carrying on a business or adventure in the nature of trade in the 1996 taxation year, in that the Appellant had at least an operating motive to sell when he acquired 1616 Parkway.
+21. In the alternative to paragraph 21, he submits that the listing of 1616 Parkway constituted a clear and unequivocal positive act implementing a change of intention. This changed the character of the property from a capital asset to a trading asset such that the profit from the sale of property at 1616 Parkway was income earned in the course of carrying on a business or adventure in the nature of trade in the 1996 taxation year.
+and to the beginning of paragraph 17 which is not opposed, and the introductions to the assumptions of the other Replies which were not opposed either. However the proposed addition of a reference to subsection 45(1) in paragraph 19 of 2001-3777(IT)G and paragraph 16 of 2001-3776(IT)G is opposed.
+[2] Respecting these motions:
+1. They are essentially matters of law. There are no additional assumptions of fact.
+2. At the hearing of the motions, the appeals had not been set down for hearing, the motions were dated November and there was no element of surprise.
+3. The amendments, if granted, may require additional examination for discovery respecting, inter alia, values at different dates.
+[3] In paragraphs [15] to [17] inclusive of Smith Kline Beecham Animal Health Inc. v. The Queen, 2000 DTC 1526, Bonner, J. stated:
+[15] Furthermore, nothing said in Continental Bank suggests that subsection 152(4) has a bearing on the amendment which the Respondent seeks. Subsection 152(4) restricts the right of the Minister to "... reassess or make additional assessments, or assess tax, interest or penalties ...". The amendment now in question would not effect a reassessment of tax. Rather it is an attempt to defend the existing assessment of tax by asserting that, on the facts already pleaded, liability is imposed by a provision of the Act other than that relied on by the assessor.
+[16] It is long-settled law that the validity of an assessment depends on the application of the statute to the facts and not on the assessor's analysis. It is, I believe, unlikely that it was the intention of the Court in Continental Bank (supra) to overrule decisions such as Minden (supra) and Riendeau (supra) without referring to them. Accordingly, I am of the opinion that nothing said in Continental Bank can apply to prevent the Minister from relying on section 245 in the present case.
+[17] In any event, I disagree with the Appellant's argument which essentially asserts that subsection 152(9) of the Act is inapplicable because the Minister is attempting by amendment to change the basis of assessment at a time when it is too late to do so by reason of subsection 152(4). When subsection 152(4) is read in the new statutory context which includes subsection 152(9) it is evident that it cannot be said that the legislature intended that the advancing of arguments in support of an existing assessment can constitute the exercise of the power to reassess. Section 152 differentiates between assessment and reassessment on the one hand and the appeal process on the other. What the Respondent seeks is an amendment to the Reply which will permit him to do precisely what the plain language of subsection 152(9) permits, namely, advance an alternative argument in support of the Part XIII assessment. He seeks to argue in the alternative that the existing assessment of tax is supported by provisions of the Act other than those relied upon by the assessor and this he is entitled to do.
+[4] The proposed amendments are generally similar in concept to those dealt with by Bonner, J.. What they raise is either a different time of the formation of an intention based on an examination for discovery or a secondary intention based upon the facts assumed. These proposed possibilities would have been in the minds of the Appellants and/or their Counsel throughout the assessments and appeals processes. On this basis the Court grants these motions to amend by the Respondent.
+[5] The parties are both granted the right to conduct further examinations for discovery respecting the matters arising from these amendments, the said discoveries to occur on or before March 31, 2005 and any undertakings arising therefrom to be complied with within 30 days after the said examinations for discovery.
+[6] The hearing of these appeals is directed to occur over a period of two days at the Tax Court of Canada, 701 West Georgia Street, 6th floor, Vancouver, British Columbia, commencing at 9:30 a.m. on May 30, 2005.
+[7] Costs are in the cause.
+Signed at Saskatoon, Saskatchewan this 14th day of December, 2004.
+"D.W. Beaubier"
+Beaubier, J.
+CITATION:
+2004TCC809
+COURT FILE NO.:
+2001-3710(GST)G; 2001-3776(IT)G;
+and 2001-3777(IT)G
+STYLE OF CAUSE:
+Moussa Reza Alavian Esmat Roboby v. The Queen
+Esmat Roboby v. The Queen
+Moussa Reza Alavian v. The Queen
+PLACE OF HEARING:
+Vancouver, British Columbia
+DATE OF HEARING:
+December 9, 2004
+REASONS FOR ORDER BY:
+The Honourable D.W. Beaubier
+DATE OF ORDER:
+December 14, 2004
+APPEARANCES:
+Counsel for the Appellant:
+Steven M. Cook
+Counsel for the Respondent:
+David Jacyk
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,506 @@
+Title: Kelly c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25660/index.do
+Corpus path: corpus/cases/tcc/2004/2004-cci-45-25660-kelly-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2004-01-27
+
+# Kelly c. La Reine
+
+- Citation: 2004 CCI 45
+- Decision date: 2004-01-27
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3827, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Kelly c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-01-27
+Référence neutre
+2004 CCI 45
+Numéro de dossier
+2003-830(IT)I
+Juges et Officiers taxateurs
+Terrence O'Connor
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2003-830(IT)I
+ENTRE :
+CAROL A. KELLY,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 7 novembre 2003, à Vancouver (Colombie‑Britannique).
+Devant : L’honorable juge T. O’Connor
+Comparutions :
+Pour l’appelante :
+L’appelante elle-même
+Avocate de l’intimée :
+Me Shawna Cruz
+____________________________________________________________________
+JUGEMENT
+L’appel des nouvelles cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 1998 et 1999 est accueilli, sans dépens, et l’affaire est renvoyée au ministre du Revenu national pour nouvel examen et nouvelle cotisation selon les motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 27e jour de janvier 2004.
+« T. O’Connor »
+Juge O’Connor
+Traduction certifiée conforme
+ce 30e jour de mars 2009.
+D. Laberge, LL.L.
+Référence : 2004CCI45
+Date : 20040127
+Dossier : 2003-830(IT)I
+ENTRE :
+CAROL A. KELLY,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge O’Connor
+[1] Dans le présent appel, il s’agit de savoir si les pertes agricoles que l’appelante a subies au cours des années 1998 et 1999 sont pleinement déductibles ou si, comme le soutient le ministre du Revenu national (le « ministre »), ces pertes sont limitées au montant prévu à l’article 31 de la Loi de l’impôt sur le revenu (la « Loi »).
+[2] Initialement, l’appelante et l’intimée ne s’entendaient absolument pas au sujet des montants refusés ou modifiés au titre des dépenses. L’appelante exploitait trois entreprises distinctes; les documents suivants indiquent les dépenses et le revenu y afférents : états des résultats agricoles des années 1998 et 1999, états de location de serres de 1998 et de 1999, rapport comptable‑fiscal de 1999, qui font tous partie des présents motifs du jugement et qui sont reproduits à la fin de ces motifs. Comme l’avocate de l’intimée l’a expliqué à l’audition du présent appel, je n’ai pas à analyser tous ces chiffres puisque le ministre sera en mesure de calculer les montants exacts du revenu ou des pertes se rattachant aux trois entreprises en se fondant sur les états susmentionnés, représentant l’accord survenu entre les parties à ce sujet. Ainsi, en ce qui concerne l’état des résultats agricoles de 1998, lorsqu’une dépense agricole qui avait été refusée est cochée, le ministre a maintenant reconnu que ce montant doit être admis en plus du montant admis au stade de l’opposition. Ainsi, dans l’état des résultats agricoles de 1998, le montant de 2 447,26 $ se rapportant aux aliments pour animaux et ainsi de suite est coché, ce qui veut dire que l’appelante a droit à un montant de 2 447,26 $ à titre de dépense en plus du montant de 1 873,53 $, soit à 4 320,79 $ en tout.
+[3] Lorsqu’un montant est biffé, par exemple le montant de 247,80 $ pour les fournitures, l’appelante a reconnu que ce montant avait à juste titre été refusé.
+[4] Lorsqu’un chiffre est coché et qu’un nouveau chiffre est inscrit, par exemple le montant de 2 023,10 $ pour le véhicule à moteur, le ministre a reconnu que ce montant de 2 023,10 $ est celui qu’il faut admettre.
+[5] Les remarques suivantes s’appliquent à tous les états reproduits dans les présents motifs.
+[6] Étant donné qu’il y a eu entente sur tous les montants, la seule question qui se pose en l’espèce, comme il en a été fait mention, est de savoir si les pertes agricoles des années 1998 et 1999, à calculer à l’aide des états de résultats agricoles de 1998 et de 1999, sont pleinement déductibles ou si elles sont limitées aux montants prévus à l’article 31 de la Loi.
+[7] Je conclus que les faits principaux sont les suivants :
+a) Au cours de l’année 1998, l’appelante travaillait comme directrice financière au sein de la bande indienne de Cheam; son salaire s’élevait à 41 743 $. En 1999, l’appelante a accepté, pour des raisons de santé, un poste de niveau inférieur, à titre de surveillante de la comptabilité, son salaire étant ramené à 36 080 $. L’appelante travaillait essentiellement de 8 à 16 h;
+b) initialement, l’appelante et son mari possédaient une ferme de 43 acres et demie, qu’ils utilisaient principalement pour l’élevage et le soin de vaches Simmental. Au mois de novembre 1997, l’appelante et son mari ont vendu cette première ferme principalement à cause des sérieux problèmes de santé de l’appelante et ils ont par la suite acquis une ferme plus petite, près de Chilliwack (Colombie‑Britannique), d’une superficie de 2,28 acres, sur laquelle étaient situées leur résidence, une étable et des serres, la ferme étant également composée de pâturages;
+c) l’appelante affirme ce qui suit en ce qui concerne les trois premières années d’exploitation de la petite ferme : [traduction] « Mes dépenses étaient énormes [...] à la ferme parce qu’il fallait [...] poser des clôtures. Il fallait les poser pour les animaux. Pendant que nous exécutions tous les travaux nécessaires, nous avons mis les animaux en pension. Comme vous pouvez le constater, de 1998 à 2002, les pertes étaient passablement élevées pour les trois premières années; par la suite, au cours des deux années suivantes, les pertes sont revenues à la normale »;
+d) la contre‑réplique de l’appelante indique comme suit les chiffres exacts se rapportant aux pertes :
+1998 – 20 032,00 $
+1999 – 22 000,00 $
+2000 – 20 125,82 $
+2001 – 3 063,63 $ états distincts se rapportant à la ferme
+2002 – 471,26 $ états distincts se rapportant à la ferme;
+e) l’appelante ajoute ce qui suit : [traduction] « [...] par conséquent, comme je l’ai dit, je me suis toujours occupée à plein temps d’agriculture, j’ai travaillé à l’extérieur, bien sûr, pour subvenir aux besoins de ma famille et pour payer les dépenses se rattachant à la ferme, mais j’ai toujours considéré la ferme – j’avais toujours espéré que la ferme produirait un revenu, fournirait un moyen de subsistance, à un moment donné. En 2002, le seuil de rentabilité était atteint [...] »;
+f) l’appelante a produit un diagramme de la petite ferme. La résidence principale y figurait. De plus, l’appelante et son mari ont construit une clôture et un enclos en ciment pour les animaux. À l’arrière de la maison, il y avait une étable, qui était essentiellement un gros atelier, trois serres et des stalles pour les animaux. L’appelante a également déclaré ce qui suit : [traduction] « [...] nous possédions deux tracteurs. Nous avions une remorque pour le transport des animaux. Nous avions un épandeur de fumier, une broyeuse, un – deux chariots à foin. Lorsque – vous avez peut‑être déjà vu cela, des souleveuses à botte qui mettent les – elles mettent les bottes dessus. On les tire en arrière. La botteleuse mécanique, nous possédions toutes ces choses, et [...] »;
+g) en 1998 et en 1999, l’appelante et son mari élevaient environ six à huit vaches Simmental à la petite ferme. En 1997 et auparavant, ils élevaient, à la grosse ferme, deux à trois fois plus de bovins. La petite ferme a été vendue au mois de juillet 2003;
+h) en ce qui concerne le temps consacré aux activités agricoles, l’appelante a indiqué qu’il fallait de trois à quatre heures par jour pour nourrir les animaux, le matin et le soir, et que, le soir, elle s’occupait en outre de la tenue des livres de la ferme. Les veaux mâles étaient vendus à des éleveurs de bovins en tant qu’animaux reproducteurs, et les femelles étaient vendues à d’autres éleveurs. Tous les animaux étaient inscrits en tant que pur‑sang;
+j) en 1998, le revenu tiré des ventes s’élevait à environ 7 000 $ et, en 1999, il s’élevait à environ 6 000 $;
+k) l’appelante et son mari assistaient également à des foires et, en particulier, à la Pacific National Exhibition (la « PNE ») où ils exposaient leurs vaches Simmental. En 1998 et en 1999, il y a eu environ trois petites foires de deux ou trois jours chacune et la grosse foire, la PNE, qui durait chaque année six jours.
+Les observations
+[10] L’appelante soutient qu’au cours des années pertinentes, sa principale source de revenu était à la fois l’agriculture et une autre source, à savoir son revenu d’emploi, qu’elle utilisait pour acquérir les actifs agricoles et pour payer les dépenses agricoles. Par conséquent, les pertes subies par l’appelante ne devraient pas être assujetties à des restrictions. L’appelante signale les trois principaux facteurs : capitaux engagés, temps consacré, rentabilité présente et future. De son côté, l’avocate de l’intimée signale le faible montant du revenu, les pertes considérables qui ont été subies au cours des années en question, les problèmes de santé de l’appelante, qui l’empêchaient d’exécuter de gros travaux physiques à la ferme; l’avocate conclut que les pertes devraient être assujetties aux restrictions imposées à l’article 31 de la Loi.
+Analyse et décision
+[11] Le mot « agriculture » est défini comme suit au paragraphe 248(1) de la Loi :
+« agriculture » Sont compris dans l’agriculture la culture du sol, l’élevage ou l’exposition d’animaux de ferme, l’entretien de chevaux de course, l’élevage de la volaille, l’élevage des animaux à fourrure, la production laitière, la pomoculture et l’apiculture. Ne sont toutefois pas visés par la présente définition la charge ou l’emploi auprès d’une personne exploitant une entreprise agricole.
+[12] L’arrêt qui fait autorité, quant à la question soulevée en l’espèce, est Moldowan v. The Queen, 77 DTC 5213, de la Cour suprême du Canada. Il est utile de citer les remarques que le juge Dickson a faites, page 5215 et suivantes, au sujet du paragraphe 13(1) (maintenant article 31) de la Loi :
+Il faut noter également que le par. 13(1) entre seulement en jeu lorsque le contribuable a subi une perte provenant de son exploitation agricole pour l’année. Dans ces conditions, il peut sembler étrange que l’article parle d’agriculture comme principale source de revenu du contribuable au cours de l’année d’imposition; si le contribuable subit une perte dans son exploitation agricole au cours de l’année d’imposition, il est évident que l’agriculture ne contribue pas à son revenu cette année-là. Si l’on prend l’article au pied de la lettre, jamais un contribuable ne pourrait réclamer plus que la déduction maximale de $ 5 000 prévue audit article; celui-ci n’a de sens que si l’on met l’accent sur les mots « source » de revenu.
+Il y a d’abord eu controverse, mais il est maintenant admis que pour avoir une « source » de revenu, le contribuable doit avoir en vue un profit ou une expectative raisonnable de profit. L’expression source de revenu équivaut donc au terme entreprise : Dorfman c. M.R.N. [72 DTC 6131], [1972] C.T.C. 151. [...]
+Une jurisprudence volumineuse traite de la signification de l’expression expectative raisonnable de profit, mais il ne s’en dégage aucune constante. À mon avis, on doit s’appuyer sur tous les faits pour déterminer objectivement si un contribuable a une expectative raisonnable de profit. On doit alors tenir compte des critères suivants : l’état des profits et pertes pour les années antérieures, la formation du contribuable et la voie sur laquelle il entend s’engager, la capacité de l’entreprise, en termes de capital, de réaliser un profit après déduction de l’allocation à l’égard du coût en capital. Cette liste n’est évidemment pas exhaustive. Les facteurs seront différents selon la nature et l’importance de l’entreprise : La Reine c. Matthews, (1974), 74 DTC 6193. [...]
+Déterminer si une source de revenu est la principale « source » de revenu d’un contribuable suppose un test à la fois relatif et objectif. Ce n’est incontestablement pas une simple question de proportion. Celui qui a exploité une ferme toute sa vie ne cesse pas d’en tirer sa principale source de revenu du simple fait qu’il a inopinément gagné à la loterie. Ce qui distingue la principale « source » de revenu du contribuable, c’est l’expectative raisonnable de revenu en provenance des diverses sources, ainsi que ses habitudes et sa façon coutumière de travailler. On peut analyser ces éléments, notamment à l’égard de chaque source de revenu, en examinant le temps consacré à celle-ci, les capitaux engagés et la rentabilité présente et future. Un changement dans les habitudes ou la façon de travailler d’un contribuable ou dans ses expectatives raisonnables peut indiquer une modification de la principale source de revenu, mais cela demeure une question de fait dans chaque cas.
+[...]
+À mon avis, la Loi de l’impôt sur le revenu envisage dans son ensemble trois catégories d’agriculteur :
+(1) le contribuable qui peut raisonnablement s’attendre à tirer de l’agriculture la plus grande partie de son revenu ou à ce que ce soit le centre de son travail habituel. Ce contribuable, dont l’agriculture est le gagne-pain, est exempté de la limite imposée par le par. 13(1) pour les années où il subit des pertes provenant de son exploitation agricole;
+(2) le contribuable qui ne considère pas l’agriculture, ou l’agriculture et une source secondaire de revenu, comme son gagne-pain mais pour qui l’exploitation d’une ferme est une entreprise secondaire. Ce contribuable a droit aux déductions prévues au par. 13(1) au titre des pertes provenant d’une exploitation agricole;
+(3) le contribuable qui ne considère pas l’agriculture, ou l’agriculture et une source secondaire de revenu, comme son gagne-pain et qui poursuit une activité agricole comme passe-temps. Les pertes de ce contribuable provenant de son exploitation agricole qui ne constitue pas une entreprise, ne sont pas déductibles.
+Le paragraphe 13(1) suppose l’existence d’un contribuable qui tire son revenu de l’agriculture et de quelqu’autre source et il renvoie donc à la 1ère catégorie. Il vise une personne dont l’agriculture est la préoccupation majeure, tout en tenant compte de ses autres intérêts pécuniaires, comme un revenu provenant d’un investissement, d’un emploi ou d’une entreprise secondaire. L’article prévoit que ces intérêts subsidiaires ne placent pas le contribuable dans la 2e catégorie : le montant déductible pour perte n’est donc pas limité à $ 5 000. Bien que la proportion du revenu provenant de l’agriculture soit pertinente, elle n’est pas en elle-même décisive. Le test est à la fois relatif et objectif et on peut utiliser les critères indicatifs de la principale « source » de revenu pour discerner s’il s’agit ou non d’un intérêt auxiliaire. Une personne qui a exploité une ferme toute sa vie ne cesse pas d’appartenir à la 1ère catégorie uniquement parce qu’elle reçoit un héritage. D’autre part, une personne qui change de travail et concentre ses forces et ses capitaux dans l’agriculture avec l’espoir d’en tirer son revenu principal ne perd pas son droit de déduire la totalité de ses frais d’établissement.
+[13] Les principaux critères énoncés par la Cour suprême dans l’arrêt Moldowan à l’égard de la source principale de revenu sont donc :
+(i) le temps consacré à celle‑ci;
+(ii) les capitaux engagés;
+(iii) la rentabilité présente et future.
+Comme il en a été fait mention, ce ne sont pas les seuls critères; en effet, la Cour suprême a clairement signalé que les critères qu’elle mentionne sont « notamment » les critères applicables. Avant d’analyser ces critères, je dois dire que l’appelante est selon moi tout à fait crédible.
+Le temps consacré
+Je conclus que l’appelante a satisfait à ce critère. La preuve révèle que l’appelante consacrait passablement de temps aux activités agricoles; non seulement passait‑elle de trois à quatre heures à nourrir les animaux, mais elle s’occupait aussi de la tenue de livres, des ventes et des achats de fournitures et elle assistait aux foires et à la PNE. En outre, elle habitait avec son mari la résidence qui était située à cet endroit.
+Les capitaux engagés
+J’ai encore une fois conclu que l’appelante satisfait à ce critère. Les fonds disponibles ont servi à l’acquisition des fermes, à la construction des clôtures et d’autres structures agricoles ainsi qu’à l’acquisition de matériel et de bétail. L’agriculture n’était clairement pas un passe‑temps.
+[14] J’adopte en l’approuvant l’analyse que le juge Joyal a faite dans la décision Hadley v. The Queen, 1985 DTC 5058, pages 5063 et 5064 :
+Les conclusions que j’ai tirées à l’égard de l’exploitation agricole du demandeur doivent être situées dans le cadre des intentions et des expectatives de ce dernier. Même s’il est vrai que les entreprises, marquées par l’échec financier, peuvent indiquer à première vue que le demandeur appartient à la deuxième catégorie d’agriculteur correspondant à une "entreprise secondaire" dans la grille établie par le juge Dickson dans l’arrêt Moldowan, il me semble que les intentions et l’expectative du demandeur constituent un élément important des conclusions que j’ai tirées. Dans une large mesure, lorsqu’il examine l’historique d’une affaire, le juge doit en quelque sorte se mettre à la place de la personne visée, comme lorsqu’il s’agit d’interpréter des dispositions testamentaires. Les intentions et les expectatives doivent être analysées à la lumière des activités et de la situation économique du contribuable en matière d’élevage de bovins telles qu’elles existaient à l’époque.
+[...]
+De plus, comme je l’ai affirmé dans ces motifs, le demandeur n’est pas le type de personne qui risquerait volontiers un million de dollars dans une entreprise en s’attendant tout simplement qu’en cas d’échec, la moitié des pertes serait absorbée par des déductions de ses revenus d’autres sources.
+[…]
+Je suis par conséquent d’avis que la conclusion que j’ai tirée est fondée sur une situation factuelle unique comportant des éléments distinctifs. Les nombreux précédents cités par les avocats des deux parties pourraient être pertinents ou convaincants, mais je doute qu’aucun d’entre eux justifie une conclusion. Je préfère m’inspirer des principes établis dans l’arrêt Moldowan. Je pense que ma conclusion est conforme à ces principes et qu’elle respecte l’intention de l’article 31.
+La rentabilité présente et future
+[15] De 1998 à 2002, la ferme n’était pas rentable. Il s’agit donc de savoir s’il y avait une expectative raisonnable de profit. Il existe de nombreuses décisions faisant autorité portant qu’en établissant une cotisation conformément à l’article 31 de la Loi, l’intimée admet tacitement que l’appelante exploitait une entreprise et qu’elle ne se livrait pas simplement à un passe‑temps, mais il reste néanmoins à savoir s’il existait une expectative raisonnable de profit. Au cours des années en question, des pertes ont été subies, mais elles n’étaient pas très élevées compte tenu de la nature de l’exploitation et, de 1998 à 2002, elles étaient beaucoup moins élevées et peuvent avec raison être considérées comme des frais d’établissement.
+Les frais d’établissement
+[16] Quant aux frais d’établissement, il a été conclu, dans l’arrêt Moldowan, précité, que le montant qui peut être déduit dépend de la catégorie à laquelle appartient le contribuable. À la page 5216, le juge Dickson a dit ce qui suit, en parlant de l’agriculture de la première catégorie :
+D’autre part, une personne qui change de travail et concentre ses forces et ses capitaux dans l’agriculture avec l’espoir d’en tirer son revenu principal ne perd pas son droit de déduire la totalité de ses frais d’établissement.
+La combinaison de différents revenus à titre de source principale de revenu
+[17] Dans la décision Hover v. M.N.R., 93 DTC 98 (pages 107 et 108), le juge Bowman a fait les remarques suivantes au sujet des sources de revenu :
+La Loi ne stipule pas expressément que l’autre source de revenu doit être secondaire ou accessoire. Il semble que, si l’agriculture peut être combinée à une autre source de revenu, avec laquelle elle a ou non un rapport, elle peut tout aussi bien être combinée à un emploi ou à une entreprise important qu’à un emploi ou à une entreprise secondaire. De fait, si l’autre source de revenu n’était que secondaire ou accessoire, elle n’empêcherait pas que l’agriculture soit considérée à elle seule comme la principale source de revenu du contribuable, sans que celle-ci ne soit combinée à quelque autre source secondaire avec laquelle elle n’a aucun rapport.
+Compte tenu du revenu produit par le cabinet dentaire et du montant de liquidités qu’il a permis d’apporter à l’exploitation agricole, cette source de revenu ne peut être considérée ni comme accessoire à l’agriculture, compte tenu des revenus qu’elle a produits, ni comme une entreprise secondaire. Elle a été un ajout et un complément essentiels à l’exploitation agricole. Sans cette source, l’exploitation agricole n’aurait pu être lancée et les dépenses en immobilisations et les frais d’établissement considérables n’auraient pu être engagés. En ce sens, elle faisait partie intégrante de la combinaison. Bien que je sois évidemment obligé de me conformer aux principes énoncés par le juge Dickson, je dois tenter de les appliquer aux faits de l’affaire dont je suis saisi et conclure, pour pouvoir donner effet au terme « combinaison », que par « secondaire », le juge Dickson voulait comprendre une source de revenu qui, tout en étant appréciable, était indispensable à l’existence même de l’exploitation agricole.
+Et, à la page 110, le juge Bowman a dit ce qui suit :
+J’ai donc conclu, selon la preuve présentée, que la principale source de revenu de l’appelant était une combinaison de l’agriculture et de la pratique de la médecine dentaire et que l’article 31 ne s’applique pas dans la détermination de son revenu pour les années d’imposition 1984, 1985 et 1986.
+En statuant ainsi sur la question, le juge Bowman a conclu à l’existence d’une corrélation entre les deux sources, ce qui permettait de les combiner. La corrélation était la suivante : le financement des activités agricoles à l’aide des revenus tirés de la profession de dentiste, en ce sens que l’autre entreprise faisait partie intégrante de la combinaison. Je suis arrivé à la même conclusion dans ce cas‑ci.
+[18] En conclusion, à mon avis, il a été satisfait aux critères à appliquer pour établir que la source principale de revenu était l’agriculture ou une combinaison de l’agriculture et d’une autre source de revenu. L’article 31 ne s’appliquait pas à l’appelante et celle‑ci a droit à la totalité des pertes agricoles dont la déduction est demandée pour les deux années en question. Par conséquent, les appels seront accueillis, sans dépens, et l’affaire sera renvoyée au ministre pour nouvel examen et nouvelle cotisation, sur la base suivante :
+CAROL A. KELLY
+ÉTAT DES RÉSULTATS AGRICOLES DE 1998
+Montant déduit par l’appelante
+Montant admis au stade de l’opposition
+Dépenses agricoles refusées
+Revenu agricole
+7 259,16 $
+7 259,16 $
+DÉPENSES
+Fournitures
+1 463,21 $
+1 215,41 $
+247,80 $
+Aliments, suppléments, paille, litière
+4 320,79 $
+1 873,53 $
+2 447,26 $√
+Vétérinaire, médicaments
+487,84 $
+487,84 $
+0 $
+Machinerie réparations et assurances
+1 846,90 $
+1 495,83 $
+351,07 $√
+Clôtures
+construction et réparations
+5 462,33 $
+4 595,00 $
+867,33 $√
+Travaux à forfait et location de machinerie
+2 396,95 $
+0
+2 396,95 $√
+Électricité
+360,00 $
+360,00 $
+0 $
+Bureau
+387,81 $
+$0
+387,81 $√
+Impôts fonciers
+388,97 $
+388,97 $
+0 $
+Petits outils
+341,20 $
+341,20 $
+0 $
+Publicité
+92,88 $
+92,88 $
+0 $
+Véhicule à moteur
+5 300,08 $
+891,94 $
+2 023,10 $ 4 408,14 $√
+Téléphone
+741,48 $
+185,37 $
+334,03 $ 556,11 $√
+Préposé à l’entretien; déchets
+1 104,18 $
+500,70 $
+102,78 $ 603,48 $√
+Déplacements; promotion
+1 687,62 $
+1 687,62 $
+0 $
+Dépenses globales
+26 382,24 $
+14 116,29 $
+12 265,95 $
+Perte agricole
+(19 123,08 $)
+(6 857,13 $)*
+Perte agricole admise
+(4 678,57 $)*
+*Perte agricole restreinte admise comme suit : 2 500,00 $ plus 50 % (6 857,13 $ – 2 500,00 $)
+CAROL A. KELLY
+ÉTAT DES RÉSULTATS AGRICOLES DE 1999
+Montant déduit par l’appelante
+Montant admis au stade de l’opposition
+Dépenses agricoles refusées
+Revenu agricole
+5 649,69 $
+5 649,69 $
+DÉPENSES
+Fournitures
+391,79 $
+1 127,51 $
+(735,72 $)
+Aliments
+4 924,03 $
+3 643,17 $
+1 280,86 $√
+Achat de bétail
+1 577,84 $
+0 $
+1 577,84 $√
+Vétérinaire; médicaments
+870,42 $
+695,62 $
+174,80 $
+Machinerie; réparations et
+assurances
+2 389,42 $
+1 969,72 $
+419,70 $√
+Clôtures
+Constructions et
+réparations
+400,20 $
+400,20 $
+0 $
+Permis de brûlage
+25,00 $
+25,00 $
+0 $
+Électricité
+360,00 $
+360,00 $
+0 $
+Publicité
+102,00 $
+102,00 $
+0 $
+Déchets
+64,20 $
+0 $
+64,20 $√
+Autres assurances
+245,75 $
+245,75 $
+0 $
+Intérêts
+241,28 $
+0 $
+241,28 $√
+Frais de bureau
+841,21 $
+0 $
+591,21 $ 841,21 $√
+Honoraires
+102,00 $
+0 $
+102,00 $√
+Impôts fonciers
+376,54 $
+376,54 $
+0 $
+Transport
+30,00 $
+0 $
+30,00 $√
+Véhicule à moteur
+3 135,43 $
+653,99 $
+1 227,73 $ 2 481,44 $√
+Petits outils
+109,54 $
+0 $
+109,94 $√
+Entretien; réparations
+364,65 $
+364,65 $
+0 $
+Parage des onglons
+115,80 $
+115,80 $
+0 $
+Téléphone cellulaire mobilité
+1 045,07 $
+261,27 $
+783,80 $√
+Sciure
+293,00 $
+179,76 $
+113,24 $√
+Promotion
+1 334,47 $
+1 334,47 $
+0 $
+Préposé à l’entretien
+672,00 $
+0 $
+672,00 $√
+Dépenses globales
+20 012,04 $
+11 855,45 $
+8 156,59 $
+Perte agricole
+(14 362,35 $)
+(6 205,76 $)
+Perte agricole admise
+(4 352,88 $)*
+*Perte agricole restreinte admise comme suit : 2 500,00 $ plus 50 % (6 205,76 $ - 2 500,00 $)
+CAROL A. KELLY
+ÉTAT DE LOCATION DE SERRES DE 1998
+Montant déduit par l’appelante
+Montant admis au stade de l’opposition
+Dépenses locatives refusées
+Revenu locatif
+3 482,94 $
+3 482,94 $
+DÉPENSES
+Assurances
+427,00 $
+427,00 $
+0 $
+Intérêts
+3 913,82 $
+978,46 $
+2 935,36 $
+Entretien et
+réparations
+1 261,69 $
+1 188,46 $
+73,23 $
+Véhicule à moteur
+3 144,61 $
+165,26 $
+2 979,35 $
+Bureau
+347,80 $
+70,34 $
+277,46 $
+Impôts fonciers
+388,97 $
+388,97 $
+0 $
+Services publics
+902,94 $
+758,96 $
+143,98 $√
+Travaux à forfait
+K. Kelly
+2 396,95 $
+500 $ 2 396,95 $√
+Dépenses globales
+12 783,76 $
+3 977,45 $
+8 806,31 $
+Revenu net (perte) de location
+(9 300,82 $)
+(494,41 $)
+CAROL A. KELLY
+ÉTAT DE LOCATION DE SERRES DE 1999
+Montant déduit par l’appelante
+Montant admis au stade de l’opposition
+Dépenses locatives refusées
+Revenu locatif
+6 077,90 $
+6 077,90 $
+DÉPENSES
+Assurances
+245,75 $
+245,75 $
+0
+Intérêts
+3 217,33 $
+804,33 $
+2 413,00 $
+Entretien et
+réparations
+1 198,08 $
+600,41 $
+597,64 $
+Véhicule à moteur
+2 607,62 $
+521,52 $
+2 086,10 $
+Bureau
+383,43 $
+383,43 $
+0 $
+Impôts fonciers
+376,54 $
+376,54 $
+0 $
+Services publics
+1 631,70 $
+759,55 $
+872,15 $√
+Déchets
+60,00 $
+0 $
+60,00 $√
+Préposé à l’entretien
+684,00 $
+0 $
+342,00 $ 684,00 $√
+Dépenses globales
+10 404,42 $
+3 691,53 $
+6 712,89 $
+Revenu net (perte) de location
+(4 326,52 $)
+2 386,37 $
+CAROL A. KELLY
+RAPPORT COMPTABLE-FISCAL DE 1999
+Montant déduit par l’appelante
+Montant admis au stade de l’opposition
+Dépenses d’entreprise refusées
+Revenu tiré de l’entreprise de tenue de livres
+2 500,00 $
+2 500,00 $
+DÉPENSES
+Taxe professionnelle et permis d’exploitation
+100,00 $
+100,00 $
+0 $
+Assurances
+100,00 $
+49,15 $
+50,85 $
+Véhicule à moteur
+311,30 $
+311,30 $
+0 $
+Bureau
+1 410,75 $
+542,21 $
+868,54 $√
+Impôts fonciers
+379,59 $
+75,31 $
+304,28 $
+Téléphone; services publics
+660,00 $
+439,68 $
+220,32 $
+Déchets
+64,20 $
+0 $
+64,20 $√
+Dépenses globales
+3 025,84 $
+1 517,65 $
+1 508,19 $
+Revenu net (perte) d’entreprise
+(525,84 $)
+982,35 $
+Signé à Ottawa, Canada, ce 27e jour de janvier 2004.
+« T. O’Connor »
+Juge O’Connor
+Traduction certifiée conforme
+ce 30e jour de mars 2009.
+D. Laberge, LL.L.
+RÉFÉRENCE : 2004CCI45
+No DU DOSSIER DE LA COUR : 2003‑830(IT)I
+INTITULÉ : Carol A. Kelly
+c.
+Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Vancouver (Colombie-Britannique)
+DATE DE L’AUDIENCE : Le 7 novembre 2003
+MOTIFS DU JUGEMENT : L’honorable juge T. O’Connor
+DATE DU JUGEMENT : Le 27 janvier 2004
+COMPARUTIONS :
+Avocat de l’appelante :
+L’appelante elle-même
+Avocate de l’intimée :
+Me Shawna Cruz
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Cabinet :
+Pour l’intimée : Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

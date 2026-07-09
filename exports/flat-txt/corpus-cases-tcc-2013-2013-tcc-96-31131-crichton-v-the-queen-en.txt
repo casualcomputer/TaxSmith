@@ -1,0 +1,252 @@
+Title: Crichton v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/31131/index.do
+Corpus path: corpus/cases/tcc/2013/2013-tcc-96-31131-crichton-v-the-queen-en.md
+Document type: case_law
+Last modified: 2013-04-04
+
+# Crichton v. The Queen
+
+- Citation: 2013 TCC 96
+- Decision date: 2013-04-04
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4779, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Crichton v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2013-04-04
+Neutral citation
+2013 TCC 96
+File numbers
+2012-551(IT)I
+Judges and Taxing Officers
+Randall S. Bocock
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2012-551(IT)I
+BETWEEN:
+FRANK CRICHTON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on March 1, 2013, at Toronto, Ontario
+Before: The Honourable Mr. Justice Randall Bocock
+Appearances:
+Agent for the Appellant:
+Barb Weatherall
+Counsel for the Respondent:
+Tony Cheung
+____________________________________________________________________
+JUDGMENT
+In accordance with the attached Reasons for Judgment, the appeal from the reassessments made under the Income Tax Act for the 2005 and 2006 taxation years is allowed, in part, and the reassessments are referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that:
+a) the business operated by the Appellant was not a farming operation; and,
+b) additional business expenses are allowed in the amount of $6,759.17 for the 2005 taxation year and in the amount of $7,740.00 for the 2006 taxation year.
+Signed at Vancouver, British Columbia, this 4th day of April 2013.
+“R.S. Bocock”
+Bocock J.
+Citation: 2013 TCC 96
+Date: 20130404
+Docket: 2012-551(IT)I
+BETWEEN:
+FRANK CRICHTON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Bocock J.
+[1] Three issues were submitted to the Court in respect of these reassessments for the 2005 and 2006 taxation years (the “Relevant Years”).
+[2] First, is this taxpayer’s undertaking a “farming” operation such that section 31 of the Income Tax Act (the “Act”) applies in order to restrict losses in each year to a maximum of $8,750.00?
+[3] Second, did the Appellant have unreported income of $10,590.00 and $5,873.00 for 2005 and 2006 years?
+[4] Third, did the Appellant incur additional business expenses of $26,718.00 above the $12,204.00 allowed in taxation year 2005 and additional business expenses of $19,688.00 above the $12,536.00 allowed in taxation year 2006?
+I. Facts
+[5] The undertaking operated during taxation year 2005 and taxation year 2006 by the Appellant was an outdoor amusement ride consisting of a spoke harness apparatus mounted on a portable trailer. If one imagines looking straight down on a wagon wheel, the hub is mounted on the trailer. At the end of each spoke is a pony. The pony is attached by a bridle to the end of the spoke which moves in circles. On each pony, when business is brisk, sits a small child, whose parents or guardians pay for the little one’s joy of the pony ride. In short, it is a merry-go-round or carousel one sees at agricultural fairs and exhibitions throughout Canada. The sole difference is that the beasts of burden which carry the delighted child are not wooden, but alive. This undertaking is known as Charlies Pride Ponies (“Charlies Pride”).
+II. Farm or Business?
+[6] Since the conveyors of the children are alive and not wooden, they require feed, stalls, harness, shoes, pasture and enclosed transportation rather than petroleum, warehousing, fasteners, struts, crating and racking. This animate rather than inanimate state seems to have caused the Canada Revenue Agency (“CRA”) and the Minister to believe the undertaking was a farming business. The Respondent’s counsel submitted that the definition in subsection 248(1) caught this undertaking within it. Respondent’s counsel focused on the advertised, but never solicited, opportunity of portraiture with the ponies and their status as “show” animals. The definition of “farming” is as follows:
+“farming” -- “farming” includes tillage of the soil, livestock raising or exhibiting, maintaining of horses for racing, raising of poultry, fur farming, dairy farming, fruit growing and the keeping of bees, but does not include an office or employment under a person engaged in the business of farming;
+[7] In argument, the Respondent submitted that the undertaking constituted ‘livestock raising or exhibiting’.
+[8] With respect, 100 years ago such an assertion would have engaged every bakery, dairy, construction company or other business, requiring animal power to “drive” its enterprise, in farming. These ponies reside on a farm because they must live in a barn, eat hay and oats, be groomed and otherwise tended. This is not for the purposes of selling them in trade, raising them for propagation or exhibiting them at competitions or racing them, but simply to keep them alive so they can power the carousel thereby generating ride revenue. This method of “pony propulsion” may be anachronistic and archaic, but factually it is simply that. It is not farming. Therefore, whatever the business losses may be, they are simply that -- losses from business and not from farming.
+III. Unreported Income
+[9] The CRA conducted a bank deposit analysis of the three bank accounts maintained by Charlies Pride. Two were owned by the Appellant and one by Ms. Weatherall, Mr. Crichton’s unpaid assistant and dutiful friend. After deducting reported T4 income for both Mr. Crichton and Ms. Weatherall, the Minister assessed the surplus balance as unreported income.
+[10] Although Ms. Weatherall, who also acted as agent for Mr. Crichton, disagreed with the characterization on the issue of unreported income, she offered no evidence to rebut these logical and reasonable assumptions. Ms. Weatherall admitted that the accounting records for Charlies Pride were not organized nor complete for the Relevant Years. On this basis, the Court recognizes the requirement of the Minister to conduct the alternative analysis in this matter, the reasonable conclusions reach and the absence of any evidence in rebutting those assumptions. Therefore, the Appellant cannot succeed on this ground.
+IV. Disallowed Expenses
+[11] Generally, the evidence regarding the disallowed business expenses followed a fairly consistent, if elongated, pattern. Ms. Weatherall or Mr. Crichton presented either direct anecdotal evidence of the expenses from memory; some receipts (to varying degrees of completeness) were submitted at the Hearing, or, with the consent of Respondent’s counsel, limited documentary evidence by way of receipts was submitted to the Court after the Hearing.
+[12] Specifically, the Minister had disallowed those expenses where receipts were absent, unclear or unreasonable.
+[13] Respondent’s counsel conceded in submissions that where an expense was now supported by a document (receipt, acknowledgment or voucher) or otherwise unambiguous evidence and had some nexus to the business, then such an expense should be allowed. This concession was offered in response to the Court’s indication that the most logical basis for analysing the disallowed expenses was to concordantly follow the Minister’s pleaded item by item comparison of claimed versus allowed expenses culminating in a disallowed amount for each expense category.
+[14] Therefore, utilizing the chart below, those disallowed expenses disputed by the Appellant may be analyzed by taxation year as follows:
+i) 2005
+Expense
+Description
+Reported by
+Appellant in
+Tax Return
+Disallowed by
+Minister
+Court’s Conclusion
+After Hearing
+Additional Expense allowed on this Appeal
+Pony Purchase(s)
+$7,131.00
+$6,631.00
+On the face of total receipts produced, there was $3,835 for Ponies Purchased, but they are assets and not a current business expense.
+-Nil-
+Barn Expense
+$1,990.00
+$383.00
+There was testimony of an additional amount on account of barn rental of $100 per month was provided at the Hearing for $1,200 per year.
+$817.00
+Signage
+$230.00
+$230.00
+There was an invoice produced for this sign and the expense should be allowed.
+$230.00
+Fuel / Parking
+$1,451.00
+$1,366.00
+Invoices and receipts for gas for related vehicles from credit cards and Canadian Tire totalled.
+$387.00
+Licence / Insurance
+$1,919.00
+$1,845.00
+Insurance invoices for 2005 totalled $1,079.00.
+$1,004.00
+Vehicle Maintenance
+$1,671.00
+$1,671.00
+Vehicle maintenance totalled only once (separated from vehicles repairs totalled $679.00.
+$679.00
+Casual Labour
+$976.00
+$976.00
+Signage receipts totalling salaries for causal labour totalled $710.00.
+$710.00
+Outside Training
+$2,597.00
+$1,397.00
+Invoices for an additional $600.00 were produced
+$600.00
+Bank Charges
+$580.00
+$580.00
+Average bank charges were a plan fee of $11.00 per month on one account and on average $20.00 per month of interest charges.
+$480.00
+Tack and Harness Repair
+$1,731.00
+$1,731.00
+Invoices were present for $350.94 and this expense should be allowed.
+$350.94
+Equipment Repairs
+$2,015.00
+$2,015.00
+Various repairs and equipment purchases totalled a very conservative $717.00.
+$717.00
+Wagon Repair
+$1,269.00
+$1,269.00
+Wagon equipment supplies of $345.10 were submitted with materials at the Hearing.
+$345.10
+Pony Transportation
+$1,105.00
+$1,105.00
+Invoices totalling $449.14 existed in materials for pony transportation.
+$449.13
+ii) 2006
+Expense
+Description
+Reported by
+Appellant in
+Tax Return
+Disallowed by
+Minister
+Court’s Conclusion
+After Hearing
+Additional Expense allowed on this Appeal
+Pony Purchase(s)
+$825.00
+$202.00
+The cost of ponies in 2006 was $750.00 but is a Capital Asset, not an expense.
+-Nil-
+Barn Expense
+$2,595.00
+$1,538.00
+There were no additional invoices for barn expense.
+-Nil-
+Signage
+$285.00
+$285.00
+Signage expense invoice for $285.00 existed for 2006.
+$285.00
+Licence / Insurance
+$1,200.00
+$1,126.00
+An additional insurance invoice of $1,037.00 was submitted.
+$1,126.00
+Pony Transportation
+$473.00
+$473.00
+A pony transportation expense receipt for $200.00 was submitted.
+$200.00
+Vehicle Maintenance
+$1,285.00
+$1,285.00
+Vehicles maintenance totalling $613.00 were identifiable.
+$613.00
+Casual Labour
+$541.00
+$541.00
+Signed receipts totalling $530.00 were submitted for 2006.
+$530.00
+Bank Charges
+$1,426.00
+$1,426.00
+As in 2005, bank charges were $11.00 per month and interest charges averaged $20.00 per month for $32.00 per month.
+$480.00
+Tack & Harness Repairs
+$1,982.00
+$1,816.00
+A harness / tack wagon repair invoice existed for 2006 in the amount of $3,891.00.
+$1,816.00
+Equipment Repairs
+$1,813.00
+$1,816.00
+A conservative calculation of equipment repairs from invoices and receipts submitted was $891.00.
+$891.00
+Wagon Repairs
+$1,799.00
+$1,799.00
+As above tack/harness and wagon repair invoice existed for 2006 in the amount of $3,891.00.
+$1,799.00
+[15] In arriving at the additional expenses allowed by the Court, care was taken to avoid double inclusion of expenses in order to account for the possibility that the Minister had already allowed such an expense in a different category. The Appellant must live with such a methodology in light of the disorganized state of the books and records of the business. In fairness to the Minister and the CRA, there were also number of instances where invoices had not been furnished in respect of expenses until the Hearing itself.
+V. Summary
+[16] Firstly, the business was an outdoor amusement ride business and not a farming operation. Section 31 of the Act does not apply to limit losses from the business. Secondly, the reassessment as to unreported business income stands as calculated by the Minister. Third and lastly, the appeal is allowed in part and additional business expenses are allowed to the extent of $6,759.17 in 2005 taxation year and to the extent of $7,740.00 in the 2006 taxation year. Finally, the horses are not inventory, but assets and a recalculation by the Minister may be required to reflect this. Costs are not to be awarded given the only partial success and the very poor state of books and records for the business which likely lead to the need for an appeal in the first instance.
+Signed at Vancouver, British Columbia, this 4th day of April, 2013.
+“R.S. Bocock”
+Bocock J.
+CITATION: 2013 TCC 96
+COURT FILE NO.: 2012-551(IT)I
+STYLE OF CAUSE: FRANK CRICHTON AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: March 1, 2013
+REASONS FOR JUDGMENT BY: The Honourable Mr. Justice Randall Bocock
+DATE OF JUDGMENT: April 4, 2013
+APPEARANCES:
+Agent for the Appellant:
+Barb Weatherall
+Counsel for the Respondent:
+Tony Cheung
+COUNSEL OF RECORD:
+For the Appellant:
+Name: N/A
+Firm:
+For the Respondent: William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,170 @@
+Title: Nielsen Development Co. Ltd. v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30629/index.do
+Corpus path: corpus/cases/tcc/2009/2009-tcc-160-30629-nielsen-development-co-ltd-v-the-queen-en.md
+Document type: case_law
+Last modified: 2009-01-21
+
+# Nielsen Development Co. Ltd. v. The Queen
+
+- Citation: 2009 TCC 160
+- Decision date: 2009-01-21
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7124, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Nielsen Development Co. Ltd. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2009-01-21
+Neutral citation
+2009 TCC 160
+File numbers
+2007-2665(IT)G
+Judges and Taxing Officers
+Eugene P. Rossiter
+Subjects
+Income Tax Act
+Decision Content
+Citation: 2009TCC160
+2007-2665(IT)G
+2007-2667(IT)G
+2007-2669(IT)G
+BETWEEN:
+NIELSEN DEVELOPMENT CO. LTD,
+GOLDEN KING ENTERPRISES LTD,
+JASON LO
+Appellants,
+-and-
+HER MAJESTY THE QUEEN,
+Respondent.
+CERTIFICATION OF TRANSCRIPT OF
+REASONS FOR JUDGMENT
+Let the attached certified transcript of the Reasons for Judgment delivered orally from the Bench at Vancouver, British-Columbia, on January 21, 2009, be filed.
+"E.P. Rossiter"
+Rossiter A. C. J.
+Signed in Ottawa, on March 20th, 2009.
+IN THE TAX COURT
+2007-2665(IT)G
+2007-2667(IT)G
+2007-2669(IT)G
+BETWEEN:
+NIELSEN DEVELOPMENT CO. LTD,
+GOLDEN KING ENTERPRISES LTD,
+JASON LO
+Appellant;
+- and -
+HER MAJESTY THE QUEEN,
+Respondent.
+--------------
+Held before Mr. Associate Chief Justice Rossiter in Courtroom No. 602, 6th Floor, 701 West Georgia Street, Vancouver, B.C., on Wednesday, January 21, 2009.
+--------------
+APPEARANCES:
+Mr. C. Sturrock, For the Appellant;
+Mr. R. Grewal, For the Respondent.
+--------------
+THE REGISTRAR: F. Richard
+--------------
+Allwest Reporting Ltd.
+#1200 - 1125 Howe Street
+Vancouver, B.C.
+V6Z 2K8
+Per: C. Beaton
+REASONS FOR JUDGMENT
+(Delivered Orally in Vancouver, B.C. on January 21, 2009)
+THE REGISTRAR: The court will now render its judgment in appeal number 2007-2665(IT) Between Nielson Development Company Ltd and Her Majesty the Queen; 2007-2667(IT)G between Golden King Enterprises Limited and Her Majesty the Queen; and 2007-2669(IT)G between Jason Lo and Her Majesty the Queen. Counsel for the appellant, Craig Sturrock; counsel for the respondent, Raj Grewal.
+JUSTICE: This is the oral judgment of the court in the cases called by the registrar. Nielson Company limited and Jason Lo et al.
+Jason Lo owned 100 percent of Golden King Enterprises Limited. Golden King owned 100 percent of Nielsen Development Company Limited, Nielsen Operated PoCo Inn Best Western in Port Coquitlam, British Columbia. Nielsen had a management agreement with Mountain Tai Investments Company Limited to manage the PoCo Inn. Mountain Tai was owned by Phoebe Lo, Jason Lo's wife.
+In 2003 taxation year, Nielsen paid Mountain Tai $275,000 in management fees to manage the PoCo Inn. CRA disallowed $223,330 of this fee as being unreasonable in the circumstances saying the management fee should not be any greater than $51,671 for 2003.
+For 2004 taxation year, Nielsen paid Mountain Tai $300,000 as management fees to manage the PoCo Inn. CRA disallowed $246,749 of this as being unreasonable in the circumstances, saying the management fees should be no greater than $53,251 for 2004.
+Reassessments were issued accordingly, and the appellant appealed.
+Jason Lo was involved in trying to broker the sale of some B.C. Fast Ferries to China. In doing so, he traveled to China five or six times, but the deal ultimately fell through sometime in 2003. Within China he took cash advances from Golden King, on a credit card of $20,503 plus other cash advances. The $20,503 of cash advances was expensed by Golden King. Mr. Lo says he used the money to wine and dine people in China while he was trying to broker the sale of the B.C. Fast Ferries. He could not produce any documentation and receipts or particulars. CRA disallowed the $20,503 as an expense to Golden King and assessed the money as a shareholder benefit to Jason Lo. At the time, Jason Lo was owed hundreds of thousands of dollars in shareholders loan by Golden King. Jason Lo says it was a legitimate business expense to earn income, CRA says it was a shareholders benefit and reassessed Jason Lo accordingly, and Jason Lo appealed.
+There are other appeals on other similar issues, or collateral issues with Jason Lo, Golden King and Mountain Tai. All have been settled or adjourned pending the outcome of these appeals.
+Issues.
+1. Are the management fees paid by Nielsen to Mountain Tai reasonable under section 67 of the Income Tax Act?
+2. Is the $20,503 cash advances to Jason Lo by Golden King a shareholder benefit to Jason Lo, or a reimbursement of business expenses from Golden King?
+3. If the $20,503 is a shareholder benefit to Jason Lo, can it be treated as an adjustment to Jason Lo's outstanding credit balance on the shareholder account of Golden King?
+The position of the parties is evident from the introduction of the facts on these two appeals. The two appeals proceeded on the basis of common evidence.
+Turning to the facts. In addition to the facts referred to in the introduction I just gave, the following facts were adduced to trial. There is some conflict and some facts, but I will discuss this later.
+First of all, dealing with the cash advances. In addition the facts already mentioned, Jason Lo gave evidence and he was firm that:
+a) the cash advances were spent for business purposes for Golden King, not personally; and
+b) the cash advances were used to wine and dine prospective purchasers of the B.C. Fast Ferries in China.
+He provided no supporting documentation, only the credit card advance documents. He provided no particulars as to who, what, when, where or how the wining and dining took place, or the specific amounts. He didn’t write down what he spent the money on. When pressed by the court, there was no further explanation was given. He explained that in China at that time, credit cards were not used widely. It was a closed society, so to speak, and everything in the society was cash based. It was accepted by CRA that this brokerage deal was a business venture of Golden King in China.
+On the management fees, Jason Lo was operating business in Canada since the early 1980s. In 1983, he purchased a hotel in Golden B.C. He and Phoebe Lo, his wife, operated this hotel in every aspect. It was the first time they were in the hospitality business. Phoebe Lo was paid a salary at the time. The hotel consisted of 42 rooms, a swimming pool and sauna. There was no restaurant, no lounge, and it was sold in 1989.
+In 1989, Mr. Lo purchased a Best Western Northgate in Nanaimo, B.C. He and Phoebe Lo managed the hotel, with Mr. Lo doing more and more outside business interests, including act as an agent for some China beer in western Canada from 1980 to 1992; acting as a broker for fishmeal from Peru to China from 1989 to 1993.
+He was involved in the hotel business, but his involvement was declining on the day-to-day operations. This particular hotel operation had 76 rooms with meeting rooms, a 100-seat pub, a 75-seat restaurant which was eventually leased out but then taken back by the Lo's, and it was sold in 1996.
+In 1995 he purchased the Exhibition Park Best Western. It had 61 rooms, no restaurant, no lounge, and the management was done by Phoebe Lo. And this was sold in 2000.
+In 1996, Nielsen purchased the PoCo Best Western. It contained 51 rooms, had a sauna and whirlpool. They had leased out the restaurant. It was expanded in 1998 to double the size, plus at the time they added two meeting rooms, a lounge, an exercise room, and expanded the front desk area. So that at the time in 2003-2004 it had 99 rooms, 5 meeting rooms with a maximum of 350 people. Restaurant was leased out. They had the lounge, a spa area, an exercise room, and it was managed by Phoebe Lo through Mountain Tai.
+In terms of employees, at the time at the PoCo Inn, you had the management of Phoebe Lo through Mountain Tai, you had Leonard Bergquist who was the general manager, you had a lounge supervisor, a housekeeping supervisor who was the brother of Mrs. Lo. There was no front desk manager at the time if I recall. There was a night auditor and there was approximately a total of 30 people in total.
+In terms of who did what, or what was anyone's specific duties as between Phoebe Lo and the General Manager, there is a divergence of the facts to some extent in common facts in other points.
+When I refer to the general manager's evidence, he basically said the following: Phoebe Lo did the purchasing, she made the accounting decisions, she did the cheque signing. Some other people might have written the cheques but she signed the cheques. She made all decisions with respect to charitable donations, including contributions and who attended charitable functions. She decided all the room rates, rack, corporate, discounts, whatever the case may be for special teams. She decided all the equipment rates, whether it was for sound systems or whatever the case may be. All the equipment, she decided those rates. She decided the rates for the food and beverage. She made decisions with respect to what furniture was to be purchased, when, where and how, including all carpet. She made all decisions with respect to interior decorating. She made all decisions with respect to marketing and marketing attendances and who was going to go and when. She made all advertising decisions, she monitored all the costs, she and the general manager did the hiring and firing together. She did the budgeting apparently with Jason. She confirmed the rates for the hotel as well as the occupancy on the daily basis. Mr. Bergquist oversaw the operation of the lounge. She was responsible for room maintenance and housekeeping in conjunction with her brother. She looked after all the money in and all the money out. She looked after the interior design for the hotel. He made some decisions based upon previous decisions that were made and how he knew Phoebe Lo would want the hotel run. And he was the first responder on an emergency basis.
+Now, this general manager had plenty of experience in hotel management, being in the business for about 40 years. The general manager was of the view that he and Phoebe Lo co-managed the hotel. I think that was a charitable description. He was in a subordinate role, a facilitator for Phoebe Lo, who made all the decisions on a day-to-day basis for the operation of the hotel. In other words, he carried out the directions of Phoebe Lo. He took the lead in the lounge area, because he had experience in that area. He was the public face to some extent when Phoebe Lo would send him out to community events, and he backstopped Phoebe Lo when she was not on site. In terms of decision making according to the general manager, it was 80-20. 80 percent made by Phoebe, 20 percent made by him. In terms of responsibility it was 80 percent responsibility of Phoebe, and 20 percent his responsibility and both were basically available 24/7.
+Phoebe Lo's evidence was much the same as the general manager. She said she had full responsibility for all budgeting, marketing, hiring, firing, setting up systems for everyone to follow, giving directions with respect to computer retention or developed the computer system. Establishing all rates and discounts if any. Charitable donations, responsibility for charitable events, advertising, budgeting with her husband, repairs and renovations, report to Jason Lo, sending the general manager to functions, direction give to general manager, looking after the money in, looking after the money out, cheque signing, purchasing, housekeeping. She didn’t do the accounting. She was on the site from 8 A.M. to 4 P.M. Monday to Friday plus weekends when required. Her effort basically meant that they did not need an assistant manager, a marketing director, a controller or an interior designer.
+The general manager went to the bank, as did she. The general manager would get quotes and she told him to get quotes. He would confirm the night audit, he would check the inventory. He played golf when she told him to play golf, he did volunteer work when she told him to do volunteer work. He was available for emergency calls. They both did the hiring and firing and they both took some responsibility for accounts receivable. She said, "I give the general manager direction and we work together typically on a day-to-day basis."
+Patricia Manchester, had a telephone conversation with the general manager early in the audit phase and she took notes of her conversation, Exhibit R-1 tab 12, May 6, 2006, at 3 P.M. This conversation is in contrast to the general manager's evidence and Ms. Lo, as to who did what. The general manager and Ms. Lo said Jason Lo had little to do if anything with the management of the hotel. He might drop in, in the evening. It was all left up to Ms. Lo. But on the telephone call, the general manager appears to answer otherwise.
+In this telephone call, according to Ms. Manchester, the front desk was Jason Lo's responsibility. The sales and marketing groups were Jason's responsibility and the general manager. The discipline was the general manager's responsibility. The scheduling for the front desk was Jason's. The lounge was the supervisor's responsibility, the housekeeping was Mrs. Lo's brothers responsibility, the budget was done by Jason Lo, the emergencies were handled by the general manager and maybe Ms. Lo, and the housekeeping was done by Ms. Lo and her brother.
+Now, some of those things are consistent with what Mrs. Lo had said in her evidence and what the general manager said in his evidence and some of them are inconsistent. In particular the front desk and Jason Lo, sales and marketing groups and Jason Lo, scheduling for the front desk and Jason Lo, and the budget, to some extent, to Jason Lo.
+The general manager had apparently told Ms. Manchester that he was the number two guy in management behind Jason. If Jason was not in then the general manager is in charge on his own. He jointly runs the hotel with Jason.
+Separate and apart from these facts as to who did the management and what were their respective responsibilities, the operation was very successful financially with a significant operating profits, and I refer to Exhibit A-3. The operating profit, as a percentage of the gross for 1996 was 47.5 percent; 1997, 38.8 percent; 1998, 34.5 percent; 1999, 35.9 percent; 2000, 34 percent; 2001, 43 percent; 2002, 40 percent; 2003, 39 percent; 2004, 42.9 percent; 2005, 44 percent; 2006, 46.5 percent; 2007, 44 percent. Very impressive figures on any day of the week.
+There was a management services contract in existence since February 11th 1992, between Nielsen and Mountain Tai. This contract gave extensive, and broad management responsibility to Mountain Tai, which could have evolved to the greater responsibility or lesser responsibilities dependant upon the presence or absence of Jason Lo. And I specifically refer to Exhibit A-1, tab 17, clauses 2.01 and 2.02, which were very general, and which basically would allow the management company to assume whatever level of responsibility was necessary dependent upon the absence of Jason Lo. And as it turns out, the more Jason Lo was absent from the hotel operation, the more responsibility rested with Mountain Tai, as the facts have shown.
+Annual management fees, according to Jason Lo and Phoebe Lo, were decided by them together annually. There appears to be negotiations that go on between them. Phoebe Lo tells Jason Lo what she thinks in terms of the gross and the net, that is whether she made a contribution to it, the awareness of the market price of other hotels, and she gave evidence with respect to what the market management was with respect to the Holiday Inn, one place that they had looked to purchase.
+Her personal attendance on site, if there is any increase or decrease in profit, any special effort that she had made, such as renovations or pricing and getting work done. The decision as to management fee was by Jason Lo, and it was communicated to Mr. Fell. The income tax implications, as per Mr. Fell, and as per Jason Lo, and as per Phoebe Lo, were never discussed. Mr. Fell would simply take the figure give to him by Jason Lo and plugged it in to the tax equation for each entity, Nielsen and Mountain Tai. This is how the management fees were arrived at. Reference to a 10 percent guideline of the gross was a reference only. In years when Phoebe Lo was not putting in as much effort the fees were lower; i.e. in 2000 when she gave birth to her child.
+There was nothing done by the accountant to figure out the market rate for management fees other than what was given to him by Jason Lo and the suggested 10 percent guideline.
+Now those are the facts. I may have left out some facts here and there, but that is, I believe, a comprehensive summary.
+Turning to the analysis. First of all, to the cash advances.
+This is in relation to Jason Lo personally in the allegation that the cash advances were shareholders benefits. In the pleadings the respondent assumed as a fact $20,503 of unvouched cash advances. The burden is upon the appellant to establish the balance of probabilities that the cash advances were for business purposes and not for personal expenses. On all of the evidence before me in this issue, I cannot conclude that the appellant has met this burden. A simple bald statement that they were business expenses for wining and dining potential customers, end of story, without any explanation as to who, when, where, how, or the circumstances or quantum of expenditures were incurred, and no documentation whatsoever, no receipts or anything, not even a personal note from the person that spent the money, is simply not enough in this case to discharge the burden of the appellant that the cash advances were not personal expenses.
+Now the issue then becomes whether or not the cash advances can be said to be a repayment of the shareholders loan of Jason Lo by Golden King. I do not think that is the case in the facts of this particular case. The items themselves were expensed in the books of Golden King along with other items. There was no effort to change the book entry, and there was no evidence of intent by Golden King to repay the shareholder loan nor was there any evidence of intent by Jason Lo to have received the payment of his shareholder loan to the extent of $20,503.
+Therefore, the appeal in the issue of Jason Lo, is dismissed. However, the court will grant the consent judgment as per the agreement of the parties in the Agreed Statement of Issues of January 16th 2009.
+Turning to the issues of the management fees. In the pleadings the respondent assumes as reply in paragraph 8(p):
+"8(p) The duties and responsibilities performed by Phoebe Lo were similar to those performed by the general manager.
+"8(q) Phoebe Lo was not responsible for management services such as budgeting, accounting, financial services or overall management of the appellant's operations."
+8(r) The amounts of the fees paid to Mountain Tai was based in the appellant's taxable income.
+8(s), amounts paid to Mountain Tai for management fees, $51,673 in 2003, and $53,251 in 2004 are unreasonable in the circumstances."
+The issue here is were the management fees reasonable under section 67 of the Income Tax Act. In looking at what is reasonable, I look to the test as provided in GABCO v. the Minister of National Revenue, [68 DTC 5210] at page 7, the last paragraph which reads as follows.
+"It is not a question of the Minister or his court, substituting its judgment for what is a reasonable amount to pay, but rather a case of the Minister or the court coming to the conclusion that no reasonable business man would have contracted to pay such an amount having only the business consideration of the appellant in mind."
+Also, in Mohammad v. MNR [97 DTC 5503], the Federal Court of Appeal said at paragraph 28, in part as follows:
+"When evaluating the reasonableness of an expense, one is measuring its reasonableness in terms of its magnitude or quantum. Although such a determination my involve an element of subjective appreciation on the part of the trier of fact, there should always be a search for an objective component."
+When dealing with interest expenses, the task can be objectified readily. Here I have searched for an objective component in measuring the reasonableness of these management fees. I found little of objective component in the evidence before me. Having said that, I believe the following factors aught to be considered in trying to measure the reasonableness of these fees.
+1. The nature of the management services. Are they total management services or are they only partial management services? Do they simply run a room rental in the facility use aspect or does the management provide a management service to include budgeting, planning, marketing, physical improvement of the plant, business development, cost cutting and all aspects of the hands on operation.
+2. Management on site. Is management on site a true manager or are they managers from a afar, like that described by the general manager when he described the Delta group operation in his Ottawa experience.
+3. How are the hotel operations, in comparative terms, to similar hotel operations in similar markets in terms of efficiency of operations. You focus here on the efficiency of the operations.
+4. What about the effort put in and management services company in terms of responsibility such as budgeting, renovations, improvement, planning and execution, money in, money out, responsible for all the staff as opposed to simply looking after the room rental? Or look at the tasks undertaken or look at the jobs which are done and carried out by the management services team.
+5. Profitability. The quantum of the profit is a reflection of the management service has been performed, and how well they perform.
+6. The presence or absence of a management services contract.
+Now there might very well be other factors to be considered, but those are the ones which come to mind in this particular case. I know people were submitting and pushing the use of a specific percentage, but I don't really find any specific basis for using that in this particular case, other than the bid that was put in, or the quote that was given, and I'd put little if any weight on that particular quote, and I will explain why.
+There was another factor, and that is any special expertise, training or experience that the management services company might bring to the table.
+The Minister of National Revenue has said that the management fees were unreasonable in excess of X dollars, and I gave those figures earlier. The appellant says the management fees were reasonable. Neither has provided the court with any evidence as to what similar hotels and similar markets might charge as management fees. All I have is the evidence of Phoebe Lo, as to the information that she received or obtained when they were looking at purchasing a Holiday Inn. An offer presented to Nielsen by Bartek hospitality is to be given no weight, as it wasn’t substantiate the terms of how it came about, what services would be provided, the basis for the fees or really any background information for the amount presented.
+The court is not in the position and really cannot substitute its own opinion as to what is an appropriate management fee in the circumstances without appropriate evidence in this regard. I do not have that appropriate evidence. All I can do is determine on the evidence before me, as to whether or not the amount is reasonable under section 67 in the Income Tax Act, as per the GABCO case.
+I accept the evidence of Phoebe Lo and the general manager as to the duties and responsibilities of Phoebe Lo, that is Mountain Tai, at the PoCo Inn. I am not rejecting the evidence of Patty Manchester. She gave her evidence in a concise, forthright, and direct manner. She was well versed and prepared and well documented. She made a determination based on the information she was given and she really couldn't do anything else because of the lack of access she had to the key people who made the decisions on the management fees. She was told to talk to Mr. Fell, the accountant, who had nothing to do with deciding the amount of the management fees. He only took the figure when it was given to him. And she also talked to the general manager who wasn’t involved in the decision making either. He was, I believe, concerned in his conversations with her, of his own personal liability as is shown in Exhibit R-1, tab 7, which was correspondence from the general manager to Ms. Manchester on May 17th, 2006, where he was writing to explain how significant he was in the operation of the PoCo Inn, had the appearance to rationalize why the PoCo Inn gave him the accommodations that he was being taxed on as an employee benefit.
+Ms. Manchester was not given access to Jason Lo. He was very secretive. Nor did she get to talk to Phoebe Lo, she wasn’t allowed. They were the key personnel in this whole issue. Ms. Manchester couldn’t come to any other conclusion given the information she was given or for that matter that the information she was not given.
+As I said, I accept the evidence of Phoebe Lo and the general manager. I found Phoebe Lo to be a most impressive witness. She was well informed, obviously very familiar with the hotel operations. She was direct, forthright and frank. She was firm about her job, she knew her facts, she knew her job. She was in control, and demonstrated it on the witness stand.
+Here is what the evidence discloses. Jason Lo owns the PoCo hotel through Nielsen. He is involved in other business matters and relies upon his wife to run the operation. She has years of experience in operating similar ventures. She calls all the shots of the hotel and more, and I could go back to my original comments with respect to the factors to be considered in the evidence. That is, she was responsible for the purchasing, accounting decisions, cheque signing, charitable decisions, contribution and who attended, room rates, discounts, equipment rates, food and beverage rates, furniture and carpet renovations, marking attendances, advertising decisions, monitoring costs, hiring and firing in conjunction with general manager, budgeting in conjunction with Jason, confirming rates and occupancy – overseeing the lounge was done by the general manager – room maintenance, housekeeping, money in, money out, hotel interior design. Basically all those decisions was her responsibility and more.
+Not only does she do these things, she also looks out for new business opportunities. She gets Jason Lo to agree with her budgets and the business adjustment plans that she presents and then executes accordingly. She sees what renovations are required, she costs them out, she gets approval, she goes ahead, she executes all these improvements. She acts like a true owner on site.
+She recognizes what she is not good at. She has somebody else do the accounting, she has someone else run the lounge, she has someone else carry out the public relations and the public eye. As to the conflict between what the general manager testified to in Phoebe Lo as to her responsibilities and who managed the hotel, and the information the general manager gave Ms. Manchester in May of 2006, I can only conclude that the general manager was attempting to overstate his role in the hotel operation, to protect himself in the assessment against himself as to the reason he was given the accommodations at the hotel and his desire at the time to protect his employers.
+I accept the evidence of Phoebe Lo. It was compelling and accurate, to the point, unwavering. And it was just as if she was telling me what she does everyday. She appears to be a strong, independent person who knows her business and knows how to run a hotel operation.
+Jason Lo is most fortunate to have her to operate his hotel, because you just cannot get a person who has the obvious devotion and passion that she brings to the job from somewhere else.
+What we have here is we have a reasonable businessman before us, Jason Lo. He is secretive, but he is obviously successful and strives to achieve success to improve his economic position. All though I may feel the management fees are a lot of money to operate a hotel, Phoebe Lo is not your ordinary hotel manager. She is truly exceptional, and made money, and a lot of money in my mind, for Nielsen in how she operated the hotel. She conducted her own negotiations and made a deal annually with Jason Lo as to the management fee, based to a large extent on the factors that I have mentioned.
+In these circumstances:
+1. Considering the nature of the management fee services provided. The services provided here were complete, in a full package: Everything from seeking out new business, to planning to acquire new business, to budgeting, to looking after the physical plant and renovations, design interior, staffing costs, watching, marketing, everything except the accounting and having the public presence; a very broad range of services that you simply wouldn’t get from a professional management services company such as the one described by the general manager in the Delta operations in Ottawa.
+2. Management on site. She was on site from Monday to Friday, 8 to 4, and was available on weekends, and was present and obviously a key person at all times.
+3. The efficiency of the operation. All you would have to do is look at the operating profit percentage. It was very high. This very high percentage can only come from a very efficiently run operation. Someone who is truly hands on.
+4. The effort of management. The high degree of effort by Phoebe Lo is much higher that I think you would get in a standard management company. As I said, she treated her job as if she was an owner, and she acted as if she was an owner.
+5. Profitability. This operation was very profitable. The quantum of profit is really a reflection of how an operation is run. In order to make a profit two things are important: your gross, and your expenses. Your operating profit here was still very good even in difficult years, and this is a reflection of how management managed the operation, in particular the expenses.
+Going back to the effort of management, I might add that Phoebe Lo's efforts are exceptional. She really was doing the job of three or four individuals. I had named the types of jobs she was doing: the controller's job, the assistant manager's job, and a variety of other positions, interior designer. Also her efforts were saving Nielsen considerable monies. For example, for painting she had obtained a quote for $100,000. Rather than accept this quote and have someone come in and do the job, she ratcheted down the operation and had the job done internally for basically one third of the cost, saving 67,000, which went right into Nielsen's bottom line.
+6. There was a management services contract from 1992, which was extremely broad and was broad enough and flexible enough to allow the responsibilities of the management services contract to contract or expand, depending upon the presence or absence of Jason Lo on site.
+Also, the seventh factor was the experience and the special qualifications of the management company. Here you had Phoebe Lo who had been in three other hotel operations, and obviously had a wealth of experience to bring to the table.
+On all of the evidence presented, I am satisfied that the appellant has met the burden that the management fees were reasonable under section 67, and that these fees are fees that a reasonable businessman would have contracted to pay having only the business consideration of the appellant in mind.
+The appeal is therefore allowed in this particular matter.
+With respect to costs, since both parties were successful in part, there will be no order as to costs.
+Do the parties have any questions?
+MR. GREWAL: No, Your Honour.
+MR. STURROCK: No, Justice.
+JUSTICE: No questions? Thank you, gentlemen for a well-pleaded case. I ask for the court to be adjourned.
+(PROCEEDINGS CONCLUDED AT 2:21 P.M.)
+I hereby certify that the FOREGOING is a true and accurate transcript of the proceedings herein to the best of my skill and ability.
+__________________________________
+C. Beaton COURT REPORTER

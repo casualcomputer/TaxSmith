@@ -1,0 +1,188 @@
+Title: Wallster c. Le Roi
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/520988/index.do
+Corpus path: corpus/cases/tcc/2022/2022-cci-124-520988-wallster-c-le-roi-fr.md
+Document type: case_law
+Last modified: 2022-11-01
+
+# Wallster c. Le Roi
+
+- Citation: 2022 CCI 124
+- Decision date: 2022-11-01
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4510, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Wallster c. Le Roi
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2022-11-01
+Référence neutre
+2022 CCI 124
+Numéro de dossier
+2018-646(IT)G
+Juges et Officiers taxateurs
+Bruce Russell
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2018-646(IT)G
+ENTRE :
+DALE WALLSTER,
+appelant,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 23 novembre 2021, à Vancouver (Colombie‑Britannique)
+Devant : l’honorable juge Bruce Russell
+Comparutions :
+Avocat de l’appelant :
+Me David Davies
+Avocats de l’intimé :
+Me David McCormick
+Me Selena Sit
+JUGEMENT MODIFIÉ
+Conformément aux motifs de jugement ci-joints, l’appel est accueilli avec dépens, et la nouvelle cotisation établie le 12 août 2015 pour l’année d’imposition 2011 de l’appelant est annulée. Les parties disposent de 30 jours à compter de la date du présent jugement pour déposer, si elles le souhaitent, leurs observations écrites sur les dépens.
+Signé à Ottawa, Canada, ce 1er jour de novembre 2022.
+« B. Russell »
+Le juge Russell
+Traduction certifiée conforme
+ce 28e jour d’août 2023
+Karyne St-Onge
+Référence : 2022 CCI 129
+Date : 1er novembre 2022
+Dossier : 2018-646(IT)G
+ENTRE :
+DALE WALLSTER,
+appelant,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS MODIFIÉS DU JUGEMENT
+Le juge Russell
+I. Introduction :
+[1] L’appelant, M. Dale Wallster, interjette appel de la nouvelle cotisation que le ministre du Revenu national (le ministre) a établie à son égard le 12 août 2015 pour l’année d’imposition 2011, sous le régime de la Loi de l’impôt sur le revenu (la « Loi »). Dans cette nouvelle cotisation, le ministre a annulé la déduction de 215 129 $ d’une somme de 252 000 $ autorisée antérieurement concernant la renonciation de frais d’exploration au Canada (FEC).
+[2] Sauf indication contraire, les renvois à des dispositions législatives sont des renvois à des dispositions de la Loi.
+[3] Les parties reconnaissent que la nouvelle cotisation n’a pas été établie au cours de la « période normale de nouvelle cotisation » prévue aux paragraphes 152(3.1) et (4). Cette période a expiré le 3 juillet 2015, soit peu de temps avant l’établissement de la nouvelle cotisation du 12 août 2015. Invoquant le sous-alinéa 152(4)b)(v), l’intimé affirme que la nouvelle cotisation a été établie dans les délais.
+[4] L’appelant prétend que le sous-alinéa 152(4)b)(v) ne pouvait pas s’appliquer puisqu’une condition préalable à son application n’avait pas été remplie.
+II. Question en litige :
+[5] La seule question en litige concerne l’application du sous-alinéa 152(4)b)(v).
+III. Dispositions législatives :
+[6] Le sous-alinéa 152(4)b)(v) et le paragraphe 66(12.73) sont libellés ainsi :
+– Sous-alinéa 152(4)b)(v) : Le ministre peut établir une cotisation, une nouvelle cotisation ou une cotisation supplémentaire concernant l’impôt pour une année d’imposition, ainsi que les intérêts ou les pénalités, qui sont payables par un contribuable en vertu de la présente partie ou donner avis par écrit qu’aucun impôt n’est payable pour l’année à toute personne qui a produit une déclaration de revenus pour une année d’imposition. Pareille cotisation ne peut être établie après l’expiration de la période normale de nouvelle cotisation applicable au contribuable pour l’année que dans les cas suivants :
+[…]
+b) la cotisation est établie avant le jour qui suit de trois ans la fin de la période normale de nouvelle cotisation applicable au contribuable pour l’année et, selon le cas :
+[…]
+(v) est établie par suite d’une réduction, opérée en application du paragraphe 66(12.73), d’un montant auquel il a été censément renoncé en vertu de l’article 66 […]
+– Paragraphe 66(12.73) : Dans le cas où un montant auquel une société a censément renoncé en faveur d’une personne en vertu des paragraphes (12.6), (12.601) ou (12.62) excède celui auquel elle pouvait renoncer en vertu de ces paragraphes, les règles suivantes s’appliquent :
+a) la société est tenue de présenter au ministre un état sur le formulaire prescrit si, selon le cas :
+(i) le ministre lui en fait formellement la demande par écrit,
+(ii) l’excédent découle d’une renonciation censément effectuée au cours d’une année civile en vertu des paragraphes (12.6) ou (12.601) par l’effet du paragraphe (12.66) et, à la fin de l’année, la société avait ou aurait dû avoir connaissance de tout ou partie de l’excédent;
+b) en cas d’application du sous-alinéa a)(i), l’état doit être présenté au plus tard 30 jours après l’envoi de la demande;
+c) en cas d’application du sous-alinéa a)(ii), l’état doit être présenté avant mars de l’année civile subséquente;
+d) sauf pour l’application de la partie XII.6, tout montant ayant censément fait l’objet d’une renonciation en faveur d’une personne est réputé, une fois l’état présenté au ministre, avoir toujours été réduit de la partie de l’excédent indiquée dans l’état concernant cette renonciation;
+e) lorsqu’une société, dans l’état, n’applique pas la totalité de l’excédent en réduction d’un ou plusieurs montants auxquels il a censément été renoncé, le ministre peut réduire le montant total auquel la société a censément renoncé en faveur d’une ou plusieurs personnes du montant de l’excédent inappliqué, auquel cas le montant auquel il a censément été renoncé en faveur d’une personne est réputé, après le moment de la réduction, sauf pour l’application de la partie XII.6, avoir toujours été réduit de la partie de l’excédent inappliqué que le ministre a attribuée à la personne.
+[Non souligné dans l’original.])
+IV. Preuve :
+[7] Les faits de l’espèce ne sont pas contestés. À toutes les périodes pertinentes, la société Quattro Exploration and Production Ltd. (Quattro) a exercé des activités de prospection de pétrole et de gaz naturel. En 2011, l’appelant a souscrit des actions accréditives de Quattro.
+[8] Le 31 décembre 2011, Quattro, conformément au paragraphe 66(12.6), a censément renoncé, en faveur de l’appelant, à des dépenses de 252 000 $ à l’égard de ressources admissibles au titre des FEC. L’appelant a déclaré cette somme comme une déduction pour son année d’imposition 2011. Son année d’imposition 2011 a initialement fait l’objet d’une cotisation le 3 juillet 2012 et la déduction a été accordée.
+[9] En 2014, le ministre a établi que, le 31 décembre 2011, Quattro avait surévalué d’environ 85 % la somme totale des FEC à laquelle elle aurait valablement pu renoncer.
+[10] Le ministre en a informé Quattro dans une lettre du 20 novembre 2014. En outre, cette lettre constituait la demande formelle du ministre prévue au sous‑alinéa 66(12.73)a)(i) par laquelle le ministre a demandé à Quattro de lui présenter un état : [traduction] « Par la présente lettre, le ministre demande formellement à la société de présenter un état ».
+[11] Quattro devait présenter un état en remplissant le formulaire prescrit T101B, dans lequel elle fournirait de l’information sur la répartition entre ses détenteurs d’actions accréditives, dont l’appelant, de la réduction appliquée à l’excédent des FEC auxquels elle avait censément renoncé le 31 décembre 2011.
+[12] L’alinéa 66(12.73)b) exige que l’état soit présenté au ministre dans les 30 jours suivant la date de la demande formelle.
+[13] Quattro ne s’est pas conformée à cette exigence. Elle n’a jamais présenté l’état demandé.
+[14] Puisque Quattro n’avait pas présenté l’état demandé, un vérificateur de l’Agence du revenu du Canada (M. Osterman) a présenté au ministre, sans l’autorisation de Quattro, un formulaire T101B dûment rempli en guise d’état qui se rapportait à Quattro. Au vu de cet état, le ministre a réduit notamment la somme totale des FEC à laquelle Quattro avait renoncé en faveur de l’appelant en 2011. Cette réduction correspond à la somme de 215 219 $ dont je fais mention plus haut, du total de 252 000 $ auquel il avait censément été renoncé et que l’appelant avait déduit pour son année d’imposition 2011.
+V. Thèses des parties :
+[15] Selon l’appelant, le sous-alinéa 152(4)b)(v) (reproduit plus haut) ne s’appliquait pas aux fins de la prolongation de la période de nouvelle cotisation de manière à ce que la date réelle de nouvelle cotisation du 12 août 2015 soit incluse dans cette période. À l’appui de sa thèse, l’appelant affirme que la nouvelle cotisation n’a pas été « établie par suite d’une réduction, opérée en application du paragraphe 66(12.73) », comme l’exige le sous-alinéa 152(4)b)(v). L’appelant fait valoir qu’il n’y a eu aucune telle « réduction, opérée en application du paragraphe 66(12.73) », puisque Quattro n’a jamais présenté l’état (le formulaire T101B dûment rempli) qu’elle aurait dû présenter conformément à l’alinéa 66(12.73)a).
+[16] La Couronne intimée reconnaît que Quattro n’a pas présenté l’état demandé, mais elle soutient que la réduction prévue au paragraphe 66(12.73) a tout de même été effectuée. L’intimé affirme que le fait que Quattro n’a pas présenté l’état demandé revient [traduction] « pratiquement » au même que si elle avait présenté un état dans lequel elle aurait réduit à tort les sommes associées aux FEC auxquelles elle avait censément renoncé.
+VI. Analyse :
+[17] Une interprétation législative du paragraphe 66(12.73), auquel renvoie le sous-alinéa 152(4)b)(v), est nécessaire.
+[18] La fonction générale du paragraphe 66(12.73) est de permettre la réduction de tout excédent des sommes des FEC auxquelles il a été renoncé des sommes des FEC auxquelles il était possible de renoncer. Dans le processus menant à une réduction, énoncé à l’alinéa 66(12.73)a), la société concernée « est tenue de présenter au ministre un état » (à savoir le formulaire T101B prescrit).
+[19] L’alinéa 66(12.73)a) comprend deux sous-alinéas : (i) et (ii). Le sous‑alinéa (i) porte que le ministre demande formellement à la société concernée de présenter un état.
+[20] Le sous-alinéa (ii) traite des excédents qui découlent de renonciations effectuées selon la règle du « retour en arrière » par l’effet du paragraphe (12.66). Cette règle permet à une société admissible de renoncer aux frais d’exploration qu’elle a payés jusqu’à une année complète après la fin de l’exercice au cours duquel elle avait recueilli des fonds par l’émission d’actions accréditives. La renonciation en l’espèce ne constitue pas une renonciation effectuée en application du paragraphe 66(12.66).
+[21] Quoi qu’il en soit, de l’application du sous-alinéa (ii) découle non pas l’exigence que la société présente un état à la demande du ministre, mais plutôt l’exigence que la société présente un état avant mars de l’année civile suivant celle au cours de laquelle la renonciation selon la règle du retour en arrière a censément été effectuée, comme le prévoit l’alinéa 66(12.73c).
+[22] Dans l’une ou l’autre situation, la société concernée doit, dans l’état présenté, appliquer la totalité de l’excédent en réduction des FEC ayant fait l’objet d’une renonciation et le répartir entre les détenteurs d’actions accréditives concernés (alinéa 66(12.73)d)). Cependant, si, dans l’état présenté, la société n’a pas appliqué la totalité de l’excédent en question, le ministre peut procéder à l’attribution de la partie de l’excédent qui n’a pas été appliquée (alinéa 66(12.73)e)).
+[23] Le paragraphe 66(12.73) ne traite toutefois pas, du moins explicitement, des cas où la société concernée ne présente pas l’état demandé, comme en l’espèce.
+[24] Dans l’arrêt Hypothèques Trustco Canada c. Canada, 2005 CSC 54 [Hypothèques Trustco], la Cour suprême du Canada énonce au paragraphe 10 l’« analyse textuelle, contextuelle et téléologique » nécessaire à une interprétation législative :
+10. Il est depuis longtemps établi en matière d’interprétation des lois qu’« il faut lire les termes d’une loi dans leur contexte global en suivant le sens ordinaire et grammatical qui s’harmonise avec l’esprit de la loi, l’objet de la loi et l’intention du législateur » : voir 65302 British Columbia Ltd. c. Canada, 3 R.C.S. 804, par. 50. L’interprétation d’une disposition législative doit être fondée sur une analyse textuelle, contextuelle et téléologique destinée à dégager un sens qui s’harmonise avec la Loi dans son ensemble. Lorsque le libellé d’une disposition est précis et non équivoque, le sens ordinaire des mots joue un rôle primordial dans le processus d’interprétation. Par contre, lorsque les mots utilisés peuvent avoir plus d’un sens raisonnable, leur sens ordinaire joue un rôle moins important. L’incidence relative du sens ordinaire, du contexte et de l’objet sur le processus d’interprétation peut varier, mais les tribunaux doivent, dans tous les cas, chercher à interpréter les dispositions d’une loi comme formant un tout harmonieux.
+[Non souligné dans l’original.]
+[25] Au paragraphe 41 de l’arrêt plus récent Canada c. Loblaw Financial Holdings Inc., 2021 CSC 51, la Cour suprême renvoie au paragraphe reproduit ci‑dessus de l’arrêt Hypothèques Trustco, confirmant ainsi que la méthode « textuelle, contextuelle et téléologique » s’applique pour l’interprétation législative en matière fiscale. Elle confirme également que, « [l]orsque le libellé d’une loi est “précis et non équivoque”, le sens ordinaire des mots joue un rôle primordial ».
+[26] Au sujet de la composante « textuelle » de cette analyse, le libellé de l’alinéa 66(12.73)a) (c.-à-d. « la société est tenue de présenter au ministre un état sur le formulaire prescrit ») exige clairement et précisément que la société présente au ministre un état (formulaire T101B). Ce libellé n’est pas ambigu et ne peut pas avoir d’autre sens raisonnable.
+[27] Quant à la composante « contextuelle » du processus analytique de la Cour suprême, l’appelant mentionne les paragraphes 163(2.21) et (2.22), affirmant que ces dispositions relatives à la pénalité s’appliquent dans un cas, comme celui de Quattro, où l’état demandé n’a pas été présenté. Ces paragraphes sont ainsi libellés :
+(2.21) [Faux énoncés ou omissions quant au retour en arrière] Est passible de la pénalité prévue au paragraphe (2.22) toute personne qui, selon le cas :
+a) sciemment ou dans des circonstances équivalant à faute lourde, fait un faux énoncé ou une omission dans un document à présenter en vertu du paragraphe 66(12.73) concernant une renonciation censément effectuée par l’effet du paragraphe 66(12.66), ou participe, consent ou acquiesce à ce faux énoncé ou à cette omission;
+b) ne présente pas le document au plus tard le jour qui suit de 24 mois le jour où il devait être présenté.
+(2.22) La pénalité dont une personne est passible aux termes du paragraphe (2.21) correspond à 25 % de l’excédent éventuel :
+a) de la partie de l’excédent visé au paragraphe 66(12.73) dont la personne avait ou aurait dû avoir connaissance,
+sur :
+b) en cas d’inapplication de l’alinéa (2.21)b), la partie de l’excédent qui est indiquée dans le document,
+c) dans les autres cas, zéro.
+[Non souligné dans l’original.]
+[28] L’appelant fait valoir que ces dispositions :
+[traduction]
+[…] concernent précisément deux situations : la première, lorsqu’il s’agit d’une renonciation intentionnelle excessive (ou constituant une faute lourde) selon la règle du retour en arrière; et la deuxième, lorsqu’une société ne donne pas suite à une demande formelle du ministre de présenter un état sur le formulaire T101B, conformément au paragraphe 66(12.73) de la Loi[1].
+[Non souligné dans l’original.]
+[29] À mon avis, ces dispositions relatives à la pénalité s’appliquent uniquement dans le cas des renonciations effectuées conformément à la règle du retour en arrière. Selon l’alinéa 163(2.21)a), le document à présenter doit concerner « une renonciation censément effectuée par l’effet du paragraphe 66(12.66) […] ». Comme je le mentionne plus haut, il est question au paragraphe 66(12.66) des renonciations effectuées selon la règle du retour en arrière.
+[30] De même, le segment « ne présente pas le document » (non souligné dans l’original) de l’alinéa 163(2.21)b), renvoie au « document » dont il est question à l’alinéa 163(2.21)a) concernant une renonciation effectuée selon la règle du retour en arrière. Il ressort de l’alinéa 163(2.21)b) que la pénalité s’applique si la société n’a pas présenté le document dans les 24 mois suivant la date à laquelle elle devait l’avoir présenté.
+[31] L’appelant affirme que ces dispositions législatives :
+[traduction]
+[…] mettent en lumière ce qui peut se produire lorsqu’une société ne présente pas le formulaire demandé en application du paragraphe 66(12.73). Le ministre peut non seulement établir une nouvelle cotisation à l’égard des détenteurs d’actions accréditives au cours de la période normale de nouvelle cotisation, mais également imposer une pénalité à la société qui ne présente pas le formulaire, et ce, sans établir l’existence d’une faute lourde. La pénalité en cas de défaut de présentation (du formulaire T101B) est considérable […][2].
+[32] À mon avis, ces dispositions relatives à la pénalité s’appliqueraient dans le cas d’une société qui n’aurait pas présenté le document concernant une renonciation effectuée selon la règle du retour en arrière, mais pas dans le cas d’une société qui n’aurait pas présenté le document demandé, comme en l’espèce. La présente affaire ne concerne pas une renonciation effectuée selon la règle du retour en arrière, mais plutôt un état que le ministre a formellement demandé à la société de présenter.
+[33] Cependant, mis à part ce qui précède, un élément ressort de la composante « contextuelle » de l’analyse aux fins de l’interprétation législative de l’alinéa 163(2.21)b) quant à l’emploi de l’expression « ne présente pas le document ». L’utilisation par le législateur de cette expression claire et concise établit bien son intention explicite de faire référence à une situation de défaut de présentation.
+[34] Il ressort de l’utilisation de cette expression que, si le législateur veut faire référence à une situation de défaut de présentation d’un document, il l’indiquera simplement et succinctement, comme à l’alinéa 163(2.21)b). Ainsi, l’absence d’une telle expression, comme au paragraphe 66(12.73), indique que le législateur n’a pas eu l’intention de faire référence à ce scénario.
+[35] Je présume que le législateur aurait utilisé un libellé semblable à celui utilisé à l’alinéa 66(12.73)e) s’il avait voulu englober, au paragraphe 66(12.73), la situation du type de celle qui concerne Quattro quant au défaut de présentation du formulaire T101B demandé.
+[36] Enfin, pour ce qui est de la composante « téléologique » de l’analyse exposée dans l’arrêt Hypothèques Trustco, l’appelant prétend qu’une version antérieure du paragraphe 66(12.73) faisait explicitement référence au défaut de présentation d’un état, avant la modification apportée en 1997[3] qui correspond au libellé actuel.
+[37] Le paragraphe 66(12.73) était auparavant libellé ainsi :
+(12.73) Dans le cas où le total des montants auxquels une société a censément renoncé en faveur de personnes en vertu des paragraphes (12.6), (12.62) ou (12.64) au titre des frais qu’elle a engagés au cours d’une période se terminant à la date où cette renonciation a pris effet dépasse le total des montants auxquels elle pouvait renoncer en vertu de ces paragraphes au titre de ces frais, la société doit appliquer cet excédent en réduction du total des montants auxquels elle a renoncé, après avoir réduit les montants auxquels elle a renoncé à l’égard d’une ou de plusieurs de ces personnes, et doit présenter au ministre un état des corrections ainsi effectuées aux renonciations. Faute de telles réductions et faute de présentation de l’état dans un délai de 30 jours suivant avis écrit du ministre envoyé à la société et indiquant la nécessité de ces réductions pour l’établissement d’une cotisation d’impôt en vertu de la présente partie, le ministre peut, pour l’application du présent article, effectuer ces réductions. Malgré les paragraphes (12.61), (12.63) et (12.65), le montant auquel il est renoncé en faveur de chacune des personnes en question est réputé alors être le montant ainsi réduit, soit par la société, soit par le ministre.
+[Non souligné dans l’original.]
+[38] Il ressort clairement de ce libellé que le ministre pouvait procéder à la réduction des sommes [des FEC] auxquelles la société avait censément renoncé s’il avait donné à cette dernière un préavis de 30 jours pour qu’elle lui présente son document révélant une réduction des sommes auxquelles elle avait auparavant renoncé, et qu’aucun document de cette nature n’avait été présenté. (Cette situation s’apparente à ce qui a été fait en l’espèce : le vérificateur de l’Agence du Revenu du Canada qui s’est penché sur les actions accréditives, M. Osterman, a témoigné que, puisque Quattro n’avait pas présenté le formulaire T101B demandé, il avait lui-même rempli et présenté ce formulaire, et que le ministre avait ensuite procédé à la réduction des sommes auxquelles il avait été auparavant renoncé.)
+[39] La version antérieure du paragraphe 66(12.73) (« [f]aute de telles réductions et faute de présentation de l’état ») contraste clairement avec la version actuelle du paragraphe 66(12.73) dont il est question plus haut et disposant simplement (à l’alinéa e) : « lorsqu’une société, dans l’état, n’applique pas la totalité de l’excédent […] »).
+[40] Ces modifications au libellé correspondent à l’intention du législateur de faire en sorte que la version actuelle du paragraphe 66(12.73) s’applique à une situation où une société présente un document qui ne répond pas aux exigences, mais pas à une situation où aucun document n’est présenté.
+[41] Quant à l’objectif du législateur, il semblerait que le sous-alinéa 152(4)b)(v), ajouté à la Loi avec sa période de nouvelle cotisation prolongée, soit un complément au type de renonciation effectuée selon la règle du retour en arrière prévue au paragraphe 66(12.66) qui autorise une période de « retour en arrière » correspondant à une année civile complète pour la renonciation. Ce complément donne en apparence suite à une préoccupation concernant le raccourcissement du délai dans les affaires de renonciation effectuée selon la règle du retour en arrière pour l’établissement d’une nouvelle cotisation au cours de la période normale de nouvelle cotisation.
+[42] En ce qui concerne la thèse de l’intimé, selon laquelle les deux cas de figure sont [traduction] « pratiquement » les mêmes, j’estime, comme je le mentionne plus haut, que le libellé utilisé par législateur établit une distinction claire entre les sociétés qui ont présenté des renseignements, mais qui n’ont pas réduit correctement l’excédent non admissible des FEC ayant fait l’objet d’une renonciation, et les sociétés qui n’ont carrément pas présenté de renseignements.
+[43] Je remarque aussi que, dans la présente affaire, il n’était pas manifestement nécessaire de prolonger la période de nouvelle cotisation au-delà de la période normale de nouvelle cotisation de trois ans. En l’espèce, la nouvelle cotisation a été établie le 12 août 2015, soit un peu plus d’un mois après la fin de la période normale de nouvelle cotisation applicable à l’appelant, le 3 juillet 2015. En outre, le ministre avait disposé de près de six mois – entre la fin de 2014 et le 3 juillet 2015 – pour établir une nouvelle cotisation à l’égard de l’appelant au cours de la période normale de nouvelle cotisation.
+[44] Pour conclure, il ressort de l’analyse textuelle, contextuelle et téléologique énoncée dans l’arrêt Hypothèques Canada que le paragraphe 66(12.73), étant donné le « rôle primordial » d’un libellé clair et précis dans cette analyse, ne doit pas être interprété de manière à inclure le scénario où le document n’est pas présenté, comme dans le cas de Quattro en l’espèce. Par conséquent, la nouvelle cotisation n’a pas été « établie par suite d’une réduction, opérée en application du paragraphe 66(12.73), d’un montant auquel il a été censément renoncé en vertu de l’article 66 », comme l’exige le sous‑alinéa 152(4)b)(v). En effet, la condition énoncée à l’alinéa 66(12.73)a), à savoir que la société devait avoir présenté au ministre l’état demandé (formulaire T101B dûment rempli), n’a pas été respectée. Ainsi, le sous‑alinéa 152(4)b)(v) ne s’appliquait pas, de sorte que la nouvelle cotisation qui fait l’objet du présent appel était prescrite.
+[45] Le processus d’appel en matière de fiscalité doit pouvoir aboutir. Comme la Cour suprême du Canada le souligne dans l’arrêt Markevich c. Canada, 2003 CSC 9,au paragraphe 17 : « [l]es délais de prescription […] visent à promouvoir la certitude, à éviter les éléments de preuve périmés, à encourager la diligence et à apporter la tranquillité d’esprit ».
+VII. Conclusion :
+[46] L’appel sera accueilli avec dépens. La nouvelle cotisation du 12 août 2015 établie pour l’année d’imposition 2011 de l’appelant sera annulée, au motif qu’elle est prescrite et donc sans effet juridique.
+Les présents motifs du jugement modifiés remplacent les motifs du jugement du 31 octobre 2022 pour corriger les mots et chiffres soulignés aux paragraphes 23, 33, 40, 41, 42, 43 et 44.
+Signé à Ottawa, Canada, ce 1er jour de novembre 2022.
+« B. Russell »
+Le juge Russell
+RÉFÉRENCE :
+2022 CCI 129
+NO DU DOSSIER DE LA COUR :
+2018-646(IT)G
+INTITULÉ :
+DALE WALLSTER c. SA MAJESTÉ LE ROI
+LIEU DE L’AUDIENCE :
+Vancouver (Colombie-Britannique)
+DATE DE L’AUDIENCE :
+Le 23 novembre 2021
+MOTIFS DU JUGEMENT MODIFIÉS :
+L’honorable juge Bruce Russell
+DATE DU JUGEMENT MODIFIÉ :
+Le 1er novembre 2022
+COMPARUTIONS :
+Avocat de l’appelant :
+Me David Davies
+Avocats de l’intimé :
+Me David McCormick
+Me Selena Sit
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Me David Davies
+Cabinet :
+Thorsteinssons LLP Toronto (Ontario)
+Pour l’intimé :
+François Daigle Sous-procureur général du Canada Ottawa, Canada
+[1] Ibid., par. 37
+[2] Ibid., par. 38
+[3] L.C. 1997, ch. 25, par. 13(23).

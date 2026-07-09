@@ -1,0 +1,138 @@
+Title: Geoffrey Wayne c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29285/index.do
+Corpus path: corpus/cases/tcc/2009/2009-cci-353-29285-geoffrey-wayne-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2009-06-25
+
+# Geoffrey Wayne c. La Reine
+
+- Citation: 2009 CCI 353
+- Decision date: 2009-06-25
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7086, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Geoffrey Wayne c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2009-06-25
+Référence neutre
+2009 CCI 353
+Numéro de dossier
+2008-199(IT)I
+Juges et Officiers taxateurs
+Judith Woods
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2008-199(IT)I
+ENTRE :
+GEOFFREY WAYNE ELLIS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 25 juin 2009, à Hamilton (Ontario)
+Devant : L’honorable juge Judith Woods
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimé :
+Me Amit Ummat
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’encontre de la cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2006 est rejeté.
+Signé à Ottawa, Canada, ce 30e jour de juin 2009.
+« J. M. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 2e jour de septembre 2009.
+Marie-Christine Gervais, traductrice
+Référence : 2009 CCI 353
+Date : 20090630
+Dossier : 2008-199(IT)I
+ENTRE :
+GEOFFREY WAYNE ELLIS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Woods
+[1] La question en litige en l’espèce est de savoir si l’appelant, Geoffrey Ellis (ci‑après « M. Ellis »), a droit à une déduction pour la pension alimentaire pour enfants qu’il a versée à son ex‑épouse en 2006. Le montant de la déduction demandée est de 3 900 $.
+[2] Je suis arrivée à la conclusion que la déduction a été refusée à juste titre.
+[3] Selon le régime législatif applicable, une pension alimentaire pour enfants peut être déduite dans le calcul du revenu du payeur seulement si le montant est à recevoir aux termes de l’ordonnance d’un tribunal compétent ou d’un accord écrit. Cette exigence porte un coup fatal à la demande de M. Ellis.
+[4] Les dispositions législatives applicables de la Loi de l’impôt sur le revenu (la « Loi ») sont l’alinéa 60b), la définition de l’expression « pension alimentaire » figurant au paragraphe 56.1(4) et le paragraphe 60.1(4). J’ai reproduit ci‑dessous des passages de ces dispositions :
+60. Autres déductions – Peuvent être déduites dans le calcul du revenu d’un contribuable pour une année d’imposition les sommes suivantes qui sont appropriées :
+[…]
+b) Pension alimentaire [pour conjoint ou pour enfants] – le total des montants représentant chacun le résultat du calcul suivant :
+A – (B + C)
+où :
+A représente le total des montants représentant chacun une pension alimentaire que le contribuable a payée après 1996 et avant la fin de l’année à une personne donnée dont il vivait séparé au moment du paiement,
+[…]
+56.1(4) Définitions – Les définitions qui suivent s’appliquent au présent article et à l’article 56.
+« Pension alimentaire » Montant payable ou à recevoir à titre d’allocation périodique pour subvenir aux besoins du bénéficiaire, d’enfants de celui‑ci ou à la fois du bénéficiaire et de ces enfants, si le bénéficiaire peut utiliser le montant à sa discrétion et, selon le cas :
+a) le bénéficiaire est l’époux ou le conjoint de fait ou l’ex‑époux ou l’ancien conjoint de fait du payeur et vit séparé de celui‑ci pour cause d’échec de leur mariage ou union de fait et le montant est à recevoir aux termes de l’ordonnance d’un tribunal compétent ou d’un accord écrit;
+[…]
+60.1(4) Définitions – Les définitions figurant au paragraphe 56.1(4) s’appliquent au présent article et à l’article 60.
+[Non souligné dans l’original.]
+[5] Les circonstances dans lesquelles les paiements ont été effectués par M. Ellis sont énoncées ci‑dessous.
+[6] En 1995, M. Ellis et sa conjointe de fait se sont séparés et ont participé à un processus de médiation qui a donné lieu à la signature d’un accord manuscrit.
+[7] J’ai reproduit ci‑dessous les passages pertinents de l’accord, mais je tiens à souligner que l’écriture était parfois difficile à déchiffrer.
+[traduction]
+M. Ellis fera de son mieux pour fournir à l’enfant les vêtements et les autres objets de première nécessité dont il a besoin. Il est reconnu que l’enfant a particulièrement besoin de ces vêtements et objets au printemps et à l’automne.
+Le présent accord a été conclu sous réserve des droits de Mme Leonard d’intenter une action à l’égard d’une demande de pension alimentaire pour l’enfant devant un tribunal compétent.
+Tant que M. Ellis ne versera pas la pension alimentaire pour enfants mensuelle, il devra accumuler suffisamment d’argent pour acheter et acheter annuellement une obligation d’épargne du Canada de 500 $ au nom de l’enfant, la première obligation devant être achetée à l’automne 1996. Mme Leonard aura la garde de l’obligation une fois que celle‑ci aura été payée. L’obligation d’épargne ne doit pas [pas clair] être utilisée à des fins autres que l’éducation postsecondaire de l’enfant sans le consentement de M. Ellis.
+[8] L’accord ne prévoit pas le versement d’une pension alimentaire mensuelle, mais il envisage la possibilité qu’un tel versement soit effectué à l’avenir. L’accord a été rédigé ainsi parce que M. Ellis n’avait pas les moyens d’effectuer des paiements mensuels à ce moment‑là.
+[9] Peu après la conclusion de l’accord, la situation financière de M. Ellis s’est améliorée. Il a alors pu effectuer des paiements mensuels, ce qu’il a fait au moyen de montants variés, qui ont augmenté au fil du temps au fur et à mesure où ses finances s’amélioraient.
+[10] La preuve ne révèle pas de façon précise quand M. Ellis a commencé le versement mensuel de la pension alimentaire, mais cela importe peu.
+[11] La pension alimentaire versée en 2006 est plus pertinente. Il n’est pas contesté qu’une pension alimentaire mensuelle totalisant 3 900 $ a été versée en 2006.
+[12] L’appelant ne conteste également pas que l’accord conclu en 1995 est la seule convention écrite relative à la pension alimentaire.
+[13] Pour que M. Ellis ait gain de cause en l’espèce, il faut que les montants versés en 2006 soient à recevoir par son ex‑épouse aux termes d’un accord écrit.
+[14] Cette exigence a été admise dans de nombreuses décisions de la Cour, ainsi que dans des arrêts de la Cour d’appel fédérale : Martin c. La Reine, 2005 CAF 297, 2006 DTC 6523; Hodson v. The Queen, 88 DTC 6001 (CAF).
+[15] Dans la présente affaire, la pension alimentaire mensuelle versée par M. Ellis en 2006 n’était pas prévue dans l’accord écrit conclu en 1995. M. Ellis ne conteste pas ce fait.
+[16] M. Ellis soutient qu’il devrait avoir droit à un certain allègement, étant donné que l’accord écrit prévoit la fourniture de vêtements et d’autres objets de première nécessité, ainsi que l’achat d’une obligation d’épargne du Canada de 500 $.
+[17] Je comprends la situation dans laquelle M. Ellis se trouve en l’espèce, mais je ne peux pas souscrire à son argument.
+[18] L’accord écrit conclu en 1995 prévoyait que M. Ellis ferait de son mieux pour fournir les objets de première nécessité, mais la preuve ne permet pas d’établir un lien entre les versements mensuels effectués en 2006 et cette obligation de fourniture. Plus particulièrement, la preuve ne permettait pas de dire quelle partie des versements mensuels devait servir à l’achat des objets de première nécessité. Comme il n’y a pas de lien entre les versements effectués et la fourniture des objets de première nécessité, rien ne me permet d’accorder une part quelconque de la déduction demandée.
+[19] En ce qui concerne l’obligation d’acheter une obligation d’épargne du Canada, l’argument invoqué par M. Ellis n’est pas très clair.
+[20] M. Ellis a témoigné avoir acheté une obligation en 1996. S’il cherche à obtenir une déduction pour cette dépense, il n’y a pas lieu d’accorder une déduction à cet égard en 2006 parce que M. Ellis a mentionné dans son témoignage qu’il avait déjà demandé une déduction à l’égard de cette dépense l’année précédente. Les dépenses ne peuvent être déduites qu’une seule fois.
+[21] Si l’argument de M. Ellis concerne non pas l’obligation d’épargne achetée en 1996, mais plutôt l’obligation annuelle d’acheter une obligation d’épargne, cette obligation d’achat ne s’appliquait pas en 2006, parce qu’elle s’appliquait seulement si M. Ellis ne versait pas de pension alimentaire mensuelle. Comme des versements mensuels ont été effectués en 2006, M. Ellis n’était pas tenu d’acheter une obligation d’épargne cette année‑là.
+[22] Pour ces motifs, je ne suis pas d’avis qu’une déduction doit être accordée à l’égard de l’obligation d’acheter une obligation d’épargne.
+[23] Malheureusement pour M. Ellis, la pension alimentaire versée au cours de l’année d’imposition 2006 échappe à l’application de l’accord écrit. Aucune déduction ne peut être demandée pour ce genre de dépenses.
+[24] Enfin, M. Ellis allègue qu’il est injuste qu’on refuse de lui accorder une déduction parce que son ex‑conjointe avait accepté d’inclure le montant dans son revenu.
+[25] La question de savoir si l’ex‑conjointe de M. Ellis a inclus le paiement de 3 900 $ dans son revenu n’est pas pertinente en l’espèce. Cela peut sembler injuste, mais l’Agence du revenu du Canada n’est pas tenue de traiter le bénéficiaire et le payeur de la pension alimentaire de la même manière.
+[26] Pour ces motifs, l’appel est rejeté.
+Signé à Ottawa, Canada, ce 30e jour de juin 2009.
+« J. M. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 2e jour de septembre 2009.
+Marie-Christine Gervais, traductrice
+RÉFÉRENCE : 2009 CCI 353
+NO DU DOSSIER DE LA COUR : 2008-199(IT)I
+INTITULÉ : GEOFFREY WAYNE ELLIS et
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Hamilton (Ontario)
+DATE DE L’AUDIENCE : Le 25 juin 2009
+MOTIFS DU JUGEMENT : L’honorable juge J. M. Woods
+DATE DU JUGEMENT : Le 30 juin 2009
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Me Amit Ummat
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

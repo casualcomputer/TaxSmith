@@ -1,0 +1,155 @@
+Title: Kjarsgaard v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27422/index.do
+Corpus path: corpus/cases/tcc/2006/2006-tcc-632-27422-kjarsgaard-v-the-queen-en.md
+Document type: case_law
+Last modified: 2006-12-12
+
+# Kjarsgaard v. The Queen
+
+- Citation: 2006 TCC 632
+- Decision date: 2006-12-12
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 244, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Kjarsgaard v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-12-12
+Neutral citation
+2006 TCC 632
+File numbers
+2005-118(IT)G
+Judges and Taxing Officers
+Theodore E. Margeson
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2005-118(IT)G
+BETWEEN:
+KARL W. KJARSGAARD,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on October 24, 2006 at Ottawa, Canada
+Before: The Honourable Justice T.E. Margeson
+Appearances:
+Counsel for the Appellant :
+Frances M. Viele
+Counsel for the Respondent:
+Justine Malone
+____________________________________________________________________
+JUDGMENT
+The appeals from the reassessments made under the Income Tax Act for the 2001, 2002 and 2003 taxation years are allowed and the matters are referred to the Minister of National Revenue for reassessment and reconsideration on the basis that the Appellant is entitled to deduct the amount of $1,600 paid by him for the preparation of the objection under the provisions of 60(o) of the Act.
+With respect to the matter of costs, as the Respondent has been substantially successful in this appeal, she is entitled to have 80% of her taxed costs.
+There will be no costs to the Appellant.
+Signed at New Glasgow, Nova Scotia, this 12th day of December 2006.
+"T.E. Margeson"
+Margeson J.
+Citation: 2006TCC632
+Date: 20061212
+Docket: 2005-118(IT)G
+BETWEEN:
+KARL W. KJARSGAARD,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Margeson, J.
+[1] This appeal is against assessments by the Minister of National Revenue ("Minister") of the Appellant for the taxation years 2001, 2002 and 2003. For those years the Minister disallowed the Appellant's claims for deduction for support payments. The Minister also disallowed the Appellant's claim for $550 as legal fees in the 2003 taxation year.
+[2] In the Amended Notice of Appeal the Appellant reduced the alleged claim for spousal support payments and is claiming only 70% of the amount alleged to have been paid in the original Notice of Appeal.
+[3] In Court the Appellant further amended his claim for legal fees and expenses to the amount of $1,600.
+Issues
+[4] The issue to be decided is whether or not the Appellant is entitled to claim any amounts for spousal support in the years under appeal and whether or not the Appellant is entitled to claim the alleged disbursement of $1,600 in respect of fees and expenses incurred in preparing, instituting, and prosecuting an objection in relation to an assessment of tax and interest.
+Evidence
+[5] The Appellant, Karl W. Kjarsgaard, testified that he was divorced in 1993 and at the present time he is unmarried. He has two sons, Jonathan and Daniel. He was divorced in 1993 and his ex-wife obtained custody of the children. He continued to live in Bellingham, Washington as did his ex-spouse although they lived in separate households. This witness identified the Decree of Dissolution of their marriage issued by the Superior Court of Washington dated August 3, 1993. By this Order the Appellant was required to pay $2,000 of spousal maintenance and $800 of child support. He said that the spousal support was to terminate if the wife died or remarried. Child support was to continue until the children completed high school. He made these payments as required.
+[6] In 1997 he took a wage cut from his employer and had what he referred to as a "cash crunch". He obtained a Court Order in 1990 to reduce both spousal and child support. The Order reduced the child support and he said that in 2001 he was paying $1,400 US per month; $1,000 of this was for the wife and $400 was for the child. By that time the oldest son had finished high school. He paid these amounts each month and deducted these amounts in his Income Tax Return. The claims were disallowed and he said he did not know why.
+[7] In the year 2004 he pursued the matter and through his lawyer in the United States he was able to obtain, from the same Court that issued the Divorce Order, what is referred to as an "Order Clarifying Prior Orders". By that document it ordered:
+1. That all payments made by Karl Kjarsgaard to Holly S. Kjarsgaard from March 26, 1998 to date are 70% maintenance and 30% child support based on the 1993 Decree of Dissolution;
+2. That all future payments made by Karl Kjarsgaard to Holly Kjarsgaard are 70% maintenance and 30% child support based on the 1993 Decree of Dissolution.
+The Order was signed by the Judge and consented to by Holly Kjarsgaard and on behalf of the Appellant by his lawyer, Robert J. Och.
+[8] In cross-examination, he was referred to the Order of March 26, 1998 which required him to pay $1,200 per month as spousal maintenance from September 1997 to December 31, 1998 and $800 per month in child support.
+[9] That Order further provided that commencing on January 1, 1999 the father would pay $1,400 per month in child support until the child support was modified or terminated. He said that it was this $1,400 that he was seeking to deduct.
+[10] He was claiming 70% of this amount in accordance with the Order Clarifying Prior Orders which was issued on January 30, 2004.
+[11] He identified the document, Exhibit R-1, as his objection to the taxation year 2001 which was filed by his accountant. He did not discuss the reason why he was claiming the deduction and there was no mention of the 70-30 split. When asked when the matter first came up, he said that it was in January of 2003 when he realized that there was a problem with his 2001 Income Tax Return. He could not give any explanation as to why there was no mention in the objection of the split.
+[12] With respect to the claim for expenses he said that he paid $1,600 for preparation and filing of the objection. He did not know when he paid it but he paid it in two amounts. He believed that it was quite expensive but it was warranted since the person he contacted was an expert. He was asked why he would pay 70% to his wife and only 30% for the children and he said: "I felt it was adequate."
+[13] In re-direct, he said that he did not know anything about the meeting at the accountants' office. They represented him. He just gave them the information and he did not discuss it any further with them. He was asked if he saw the returns and he said that he merely looked at them to see if he had a refund or if there was money owing. He signed the 2001 Income Tax Return. He did not sign the 2002 Income Tax Return and he did not sign the 2003 Income Tax Return.
+[14] Kelly Kjarsgaard testified that she was presently a student and was the ex-wife of the Appellant. They were divorced in 1993. She was familiar with the document at Tab 6 which was the Decree of Dissolution of August 3, 1993 and she said that by that Order the Appellant had to pay $2,000 in spousal support and $800 in child support. She said that she received these payments.
+[15] 1n 1998, in accordance with the Order found at Tab 6, these payments were reduced. She was in Court on March 26, 1998 and heard the Order pronounced in Court. She was referred to the Exhibit at Tab 8, which was the Order Clarifying Prior Orders issued on January 30, 2004. She said that all payments were to be 70% maintenance and 30% child support based upon the 1993 Decree.
+[16] In cross-examination, she was referred to the Order of March 26, 1998 and the Order to pay $1,400 per month. However, she said it was broken down in 1993. She admitted that the document seemed strange to her. She did not know why the Judge reduced the child support from $800 to $400 per month.
+[17] In 1993, at the time of the divorce, she wanted to go back to school. She wanted spousal maintenance and wanted to be with her child. She did not know how long the education would take.
+Argument on behalf of the Appellant
+[18] Counsel said that in the Order of August 3, 1993 Judge Nichols in paragraph 3.9 ordered child support and maintenance to be paid. The maintenance amounted to 70% of the total payment and the child support amounted to 30%. The $2,800 was ordered to be paid.
+[19] Due to financial restraints, the Appellant sought a reduction and got it from Judge Nichols. This had nothing to do with the wife's education level because the Appellant expected to pay but he wanted the amount reduced. It happened in 1998. Previous to that there was the Order of 2003. All these documents can be interpreted so as to entitle the Appellant to the deduction that he seeks. Further, the Order Clarifying Prior Orders, dated January 30, 2004 should be given due consideration as well as the rest of the documents.
+[20] Counsel was prepared to admit that the document dated March 26, 1998 indicating $1,200 per month in spousal maintenance from September 1997 to December 31, 1998, posed a difficulty for her argument. She admitted that the words in the document were clear but argued that the wife said that the Judge made an Oral Order to reduce her payments by one-half on March 26, 1998.
+[21] She did not receive a copy of it from the lawyers and went to Court to get it later on. The Court also said that the $1,400 was broken down into $1,000 and $400. The judge did not make an Order for $1,400 for child support. If he had, the Appellant would have paid less than the $1,400 payment that he made. The actions of the Appellant were consistent throughout; $1,000 was for the wife and $400 was for the child. He continued to make the $1,400 payment to the end of 2003 and thereafter.
+[22] It was not until January 2003 that he received a Notice of Reassessment dated January 27, 2003. He became concerned about it and went to the United States to see his lawyer. They went back to the original Judge to resolve the issue. The 2004 Order reflects the change and shows a complete understanding of what went on before.
+[23] This substantially affected his financial obligations to his wife and children. It would be incorrect to look at the Order at Tab 7 and not the one at Tab 8. It would be wrong to fail to consider the Order of 2004 as being an "Order of Rectification". It was also an agreement between the parties, which was signed by the Appellant's lawyer on his behalf and signed by his ex-wife. It was a written agreement that should be given effect not only prospectively but retroactively.
+[24] She referred to the Income Tax Bulletin IT-530(R) in support of her position. The department was merely looking for a clear understanding of all terms of the document. The Appeal should be allowed and the Appellant be allowed the deduction because if it is a written agreement there is nothing to prevent the deduction.
+[25] Secondly, it qualifies on the face of it as an Order for the payment of the amounts under the provisions of 56.1(4) of the Income Tax Act ("Act"). The deduction should be allowed for the years 2001 to 2003 in accordance with the Amended Reply.
+[26] The Appellant should have his expenses of $1,600. The Appellant said on the stand, under oath, that he paid the amount of $1,600 in accordance with the letter from Mintz & Partners LLP found at Tab 9. This document referred to the Statement of Account even though it did not set out the amount on the Statement. The Statement did refer to the preparation of his Notice of Objection for the 2001 taxation year. This letter indicated that the invoice was paid in full.
+[27] This amount is deductible under subsection 60(o) of the Act. She argued that the Appellant paid the amounts set out in paragraph 4 of the Amended Reply and paid the expenses of $1,600 in accordance with the amendment that was made in Court.
+[28] The amount of $1,600 claimed for expenses was not excessive. If it was not $1,600, then the Court should grant a deduction for a reasonable amount. She did not say on what basis that reasonableness could be determined. She was not making any claim for child care expenses.
+Argument on Behalf of the Respondent
+[29] In argument, counsel for the Respondent said that the Appellant originally claimed the full amounts that he allegedly paid and now is claiming 70% only for spousal support.
+[30] The question before the Court is whether the $1,000 US was paid for spousal support. If it was, then it is deductible. If it was not then it is not deductible for the years in question.
+[31] Counsel argued that any payments made were made under the 1998 Order of Judge Nichols and not under the 1993 Order nor under the 2003 Order. In the years 2001, 2002 and 2003, $1,400 US was paid pursuant to the 1998 Order. This Order clearly spells out that $1,400 per month is to be paid for child support. The spousal support is referred to in paragraph 2. It refers to spousal support up to the date of December 31, 1998. Support and maintenance are always referred to in separate paragraphs as was done in the 1993 Order. There is no ambiguity in this Order. The 1998 Order is the clearest Order. It is less susceptible to ambiguity.
+[32] In the Order of 2003, the Judge seems to be interpreting his own previous Order. It should not be given any weight. It was issued as a result of actions taken by the Appellant because Revenue Canada did not permit the deductions that he sought. This Order was made after the fact. It clearly contradicts the 1998 Order. It is incompatible with the 1998 Order. This Court must interpret the 1998 Order.
+[33] This is not an Order of Rectification. It was a Consent Order and it would not have been questioned by the Judge. This Court must interpret the 1998 Order according to its clear meaning. In reference to the 2003 Order counsel pointed out that the Judge did not refer to specific paragraphs in the 1998 Order and it is therefore ambiguous. Therefore, it cannot be relied upon and it is only an opinion. It is not a Rectification Order.
+[34] It is the Judge's opinion only as to how the earlier Order should be interpreted. It does not say that paragraph 3 was wrong in the original Order. It also says that it is based on the original Order and it is not.
+[35] The matter of percentages was first referred to in this Order and it was not in the original Order of 1998.
+[36] The 2004 Order is only an allocation. It is not an Order, but if it is, it is not an Order as contemplated by the Act as it does not provide for any payment or create any obligation to pay an amount. This Order was not in place in 2001, 2002 and 2003.
+[37] It is also possible that what the Judge was saying in 2003 was not what he said or meant in 1998. The best evidence as to what the Order meant was the Order itself. It is clear and unambiguous.
+[38] She referred to the case of Denis Nagel v. R. [2004] 1 C.T.C 2842 where Justice Bowie states as follows:
+Both the Appellant and his ex-spouse gave evidence as to what was said in Court, with a view to characterizing the payment. I do not consider such evidence to be useful. The terms of the Order are to be considered in accordance with the words used in it. If written reasons accompany the Order they may be looked to for aid in interpretation, but oral evidence to what was said by a Judge or anyone else may not.
+[39] The Verifying Order is completely contradictory to the original Order. In this case there is no Order for spousal maintenance and no amount is deductible in accordance with paragraphs 56.1(4),(60)(b), and 60.1(4) of the Act.
+[40] Counsel further referred to the case of Lucy Wanjiru Njenga v. The Minister of National Revenue, 96 DTC 6593 in respect of the burden of proof. In that case, it was stated:
+The Income tax system is based on self monitoring. As a public policy matter the burden of proof of deductions and claims properly rests with the taxpayer. The Tax Court Judge held that persons such as the Appellant must maintain and have available detailed information and documentation in support of the claims they make. We agree with that finding. Ms. Njenga as the Taxpayer is responsible for documenting her own personal affairs in a reasonable manner. Self written receipts and assertions without proof are not sufficient.
+This case is applicable to the case at bar with reference to the claim for the $1,600 as expenses paid for the preparation and the filing of the objection. It was asserted that the $1,600 on the face of it seemed to be excessive for the preparation of an objection. It is likely that the Appellant's recollection was faulty and therefore was not proof on the balance of probabilities.
+[41] There is no evidence of any other amount which might be reasonable. Therefore, no other amount could be reasonable. The appeal should be dismissed with respect to these expenses as well.
+[42] In rebuttal, counsel said that Njenga at page 2 was not applicable. That was a case of the taxpayer keeping her own receipts. That is not the case here. Here it is known that the Appellant filed an objection. He was not hesitant about the amount that he paid. He said that he made two payments to the accountants who completed the objection and that he paid these amounts on his credit card. It would be harsh not to disallow this amount as a deduction. He told the Court that his lawyer told him that he could claim this amount in his return.
+[43] With respect to the argument made by counsel for the Respondent regarding the Judge's Order she said that it would be hard to believe that a Judge would just issue the Order without knowing what he was doing just to satisfy the parties. During the period under review, amounts changed because one child had reached the age of majority. Counsel asked the question,
+Can the 2004 Order be enforced?
+Her answer was that it can be because the Appellant was required to make the payments for both the spouse and the child.
+[44] Counsel opined that there was a third possible interpretation. In the 2003 Order the Court could be saying let us go back to the 1993 Decree which provided for maintenance for the wife of $2,000 and apply the 2003 Order allotting 30% for the child and 70% as maintenance for the wife. Under the 1993 Decree, $400 was required to be paid in child support and the rest was spousal payments.
+[45] Counsel opined that the Order was enforceable as an agreement but if it is not an agreement for the previous period or not an Order for the previous period it is an agreement in relation to the future years from 2004 onwards and the amounts are deductible under 61(14), 56.1(4) and 60(b) of the Act for the years 2004 onwards.
+Analysis and Decision
+[46] As both counsel have indicated, the greatest problem facing the Appellant here is the Order of March 26, 1998. As argued by counsel for the Respondent this Order on the face would seem to be clear and unambiguous. This Order is in complete contradiction of the position put forward by the Appellant.
+[47] In order for the Court to accede to the Appellant's argument, it would have to disregard the clear meaning of the Order of March 26 and to find that such clear meaning has been dislodged by a subsequent Order issued after the fact which contains little or no explanation as to why the Order of March 26, 1998 was unambiguous, unintended or misleading. Further, the Appellant is asking the Court to give effect retroactively to an agreement some five years after the 1998 Order was made in an attempt to clarify the 1998 Order, which is an Order which requires no clarification.
+[48] Counsel for the Respondent's arguments were well taken where she said that the Appellant started to deduct the payments in 2001, 2002 and 2003, but that was not pursuant to the 1998 Order. She indicated that this Order clearly spells out what payments were for child support. Paragraph 2 refers to the spousal support up to that date. It is not insignificant that the Order refers to maintenance and child support in separate paragraphs and is in the form of the Order in 1993 as well. There is no ambiguity in the 1998 Order and is clear on the face of it as to what it means.
+[49] The Court cannot opine as to why the Order was granted in 2003 but it is clear that it was a Consent Order and it is ambiguous. It does not refer to any specific paragraphs in the 1998 Order nor does it indicate in any way as to why the Order needed any clarification. Counsel for the Respondent argued that it may be nothing more than an opinion reached after an agreement between the parties and it cannot be relied upon. The evidence given by the ex-wife of the Appellant is of little assistance in interpreting the 1998 Order, which as indicated, on the face of it is clear and unambiguous.
+[50] The Appeal with respect to the deductions for maintenance in the years in question is dismissed. The Minister's assessment thereto is confirmed.
+[51] With respect to the deduction for the $1,600, although there is not a substantial amount of evidence with respect to the payment, there is some evidence upon which the Court can rely. The Court had the evidence of the Appellant himself, who was subject to scrutiny, who was cross-examined and whose evidence appeared to be straightforward, factual and relatively accurate. He said that he paid the $1,600 in two payments and the Court accepts his evidence to that effect.
+[52] Further, that evidence is corroborated to some extent by the fact that he had a letter from his representatives who had prepared the objection, who acknowledged that he paid the account in full and acknowledged to be representing him before Revenue Canada. It is true that the document does not refer to the specific amount and the Court takes into account the argument of counsel for the Respondent that the amount would appear to be excessive. Nonetheless, in the end, the Court is satisfied that the Appellant paid the amount of $1,600 for the preparation of the objection and he is entitled to deduct that amount under the provisions of 60(o) of the Act.
+[53] With respect to the argument of counsel for the Appellant that the Order of January 30, 2004 is an agreement between the parties with respect to maintenance for the Appellant's ex-wife after the date of January 30, 2004, the Court has no difficulty in coming to the conclusion that it is such an agreement. However, such a finding is not germane to the main issue in this case and in any event, the agreement cannot speak retroactively but only after January 30, 2004.
+[54] With respect to the matter of costs, the Appellant has had limited success and the Respondent has been substantially successful in the action. Therefore, the Court will allow the Respondent to have 80% of her taxed costs. There will be no costs to the Appellant.
+Signed at New Glasgow, Nova Scotia, this 12th day of December 2006.
+"T.E. Margeson"
+Margeson J.
+CITATION: 2006TCC632
+COURT FILE NO.: 2006-118(IT)G
+STYLE OF CAUSE: KARL W. KJARSGAARD AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Ottawa, Ontario
+DATE OF HEARING: October 24, 2006
+REASONS FOR JUDGMENT BY: The Honourable Justice T.E. Margeson
+DATE OF JUDGMENT: December 12, 2006
+APPEARANCES:
+Counsel for the Appellant :
+Frances M. Viele
+Counsel for the Respondent:
+Justine Malone
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Frances M. Viele
+Firm: Binavince & Associates
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,300 @@
+---
+title: "Ross v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30588/index.do"
+last_modified: "2011-11-08"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2011 TCC 515"
+citation2: ""
+neutral_citation: "2011 TCC 515"
+decision_date: "2011-11-08"
+language: "en"
+item_id: "30588"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7146
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T07:09:09.540000+00:00"
+cases_cited_count: 2
+cases_citing_count: 3
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "0cac923fb718c714bae6e189c29f7050b483190840d892b5dfea3e0240ecad61"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Ross v. The Queen
+
+- Citation: 2011 TCC 515
+- Decision date: 2011-11-08
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7146, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Ross v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2011-11-08
+Neutral citation
+2011 TCC 515
+File numbers
+2009-2973(IT)I
+Judges and Taxing Officers
+Gaston Jorré
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2009-2973(IT)I
+BETWEEN:
+KAREN ROSS,
+appellant,
+and
+HER MAJESTY THE QUEEN,
+respondent.
+____________________________________________________________________
+Appeal heard on May 3 and 4, 2010, at Nanaimo, British Columbia.
+Before: The Honourable Justice Gaston Jorré
+Appearances:
+For the appellant:
+The appellant herself
+Counsel for the respondent:
+Holly Popenia
+____________________________________________________________________
+JUDGMENT
+The appeal from the determinations made under the Income Tax Act for the 2005, 2006 and 2007 base taxation years is allowed, with costs of $600, and the matter is referred back to the Minister of National Revenue for reconsideration and redetermination in accordance with the attached reasons for judgment.
+Signed at Ottawa, Ontario, this 8th day of November 2011.
+“Gaston Jorré”
+Jorré J.
+Citation: 2011 TCC 515
+Date: 20111108
+Docket: 2009-2973(IT)I
+BETWEEN:
+KAREN ROSS,
+appellant,
+and
+HER MAJESTY THE QUEEN,
+respondent.
+REASONS FOR JUDGMENT
+Jorré J.
+Introduction
+[1] Karen Ross, the appellant, appeals determinations made by the Minister of National Revenue (Minister) and takes the position that she is entitled to receive the Canada Child Tax Benefit and the Goods and Services Tax Credit (GST Credit) with respect to her daughter and her son during the period from July 2006 to June 2009 inclusively.[1]
+[2] This appeal was heard under the informal procedure and the hearing lasted almost one day and a half. The original version of these reasons is in English.
+[3] The Minister allowed the father, John Ross, to claim both the Canada Child Tax Benefit and GST Credit.
+[4] This case turns primarily on the following question: Who was the parent who primarily fulfilled the responsibility for the care and upbringing of the daughter and son, Karen Ross or John Ross?
+[5] This requirement is in paragraph (b) of the definition of “eligible individual” in section 122.6 of the Income Tax Act (Act); it requires that the “eligible individual in respect of a qualified dependant at any time . . .” be the:
+(b) . . . parent of the qualified dependant who
+(i) . . . primarily fulfils the responsibility for the care and upbringing of the qualified dependant . . . .
+[6] The test, “primarily fulfils the responsibility for the care and upbringing”, requires an overall assessment.[2] This test can be referred to as the primary caregiver’s test.
+[7] In paragraph (h) of the definition of “eligible individual”, it says that “prescribed factors shall be considered in determining what constitutes care and upbringing”.
+[8] Section 6302 of the Income Tax Regulations (Regulations) prescribes factors to be considered:
+6302 For the purposes of paragraph (h) of the definition “eligible individual” in section 122.6 of the Act, the following factors are to be considered in determining what constitutes care and upbringing of a qualified dependant:
+(a) the supervision of the daily activities and needs of the qualified dependant;
+(b) the maintenance of a secure environment in which the qualified dependant resides;
+(c) the arrangement of, and transportation to, medical care at regular intervals and as required for the qualified dependant;
+(d) the arrangement of, participation in, and transportation to, educational, recreational, athletic or similar activities in respect of the qualified dependant;
+(e) the attendance to the needs of the qualified dependant when the qualified dependant is ill or otherwise in need of the attendance of another person;
+(f) the attendance to the hygienic needs of the qualified dependant on a regular basis;
+(g) the provision, generally, of guidance and companionship to the qualified dependant; and
+(h) the existence of a court order in respect of the qualified dependant that is valid in the jurisdiction in which the qualified dependant resides.
+These factors are not exclusive.
+[9] The required determination is essentially a question of fact.
+[10] Generally, the Minister did not argue that the other conditions for eligibility were not met by the appellant.
+[11] In particular, apart from a brief period in the summer of 2007 and 2008, the Minister did not dispute that the children resided with the appellant; this is no doubt because on the evidence before me the facts justify a finding that the children resided with both parents.[3] I shall discuss later the issue of residence in that brief disputed period.
+[12] This case, like many before this Court, involves two caring parents who are both very involved in their children’s lives.
+[13] Recently, but after the period in issue here, Parliament amended the legislation to allow the Canada Child Tax Benefit to be split in certain circumstances where there is shared custody.
+[14] Those changes do not apply to the period in question here and the law is often difficult to apply in cases such as this because the Canada Child Tax Benefit cannot be split.
+[15] However, the Canada Child Tax Benefit is paid on a monthly basis and the determination of one eligible parent must be made for each month; similarly the GST Credit is paid on a quarterly basis and the determination must be made for each quarter.
+The Facts
+[16] The appellant, Janet LeBlancq and John Ross testified; numerous exhibits were filed.
+[17] I accept the testimony of both the appellant and John Ross; I am satisfied that they were both trying to state the facts as best they could recall them. I am also satisfied that they have a different perception of events; this is not surprising given that each of them was with the children at different times.
+[18] Overall, I give somewhat more weight to the appellant’s evidence, which evidence was more detailed. It may be that this is the result of the appellant having better memory; with respect to the time the children spent with her in 2006 and, to a lesser extent, 2007, her evidence was more detailed because she made an effort at that time to record with whom the children were.[4]
+[19] The appellant’s daughter was born in October 1989 and her son was born in September 1991.
+[20] The parents separated in 1998 and divorced in 2000.
+[21] The separation agreement[5] between the appellant and John Ross provided that they would have joint custody of the children and consult each other on all significant issues regarding the children.
+[22] It provided that both were to have reasonable and generous access to the children and that the children’s time would be divided between the parents on a schedule to be agreed upon.
+[23] The agreement also provided that the children would live primarily with the appellant, but that it was anticipated that the children would live with their father not less than 40% of the time.
+[24] Among other provisions, the agreement provided that the appellant was to receive “any child tax credits”.[6]
+[25] The children grew up on Hornby Island and went to elementary school there.
+[26] However, after elementary school the children had to go to school in Courtenay on Vancouver Island. The daughter started going to school in Courtenay in mid-2002, and the son, in May 2004.
+[27] John Ross acquired a house in Courtenay in mid-2005.
+[28] Prior to that time, the general pattern was for the children to spend four days a week with their mother and three days a week with their father. The father and mother’s houses were across the road from each other.
+[29] That pattern changed after John Ross acquired the house in Courtenay.
+[30] John Ross kept his house on Hornby Island after he bought his house in Courtenay.
+[31] To travel from Hornby Island to school in Courtenay, one must take the ferry from Hornby Island to Denman Island, cross Denman Island, take a ferry from Denman Island to Vancouver Island and, finally, travel 20 to 25 km from the ferry terminal to school.
+[32] The departure time of the last ferry back was such as to make it impractical to participate in some late after-school activities.
+[33] Friday was different from the other week days because it was possible to take a later ferry home.[7]
+[34] In particular, while certain sports with early practices right after school finished in time for the children to take the “late” school bus home and make it to the last ferry, this was not true for other sports which had later practices.
+[35] In general, the sports with early practices corresponded to grades 8 to 10 and those with later practices corresponded to grades 11 and 12.[8]
+[36] Apart from staying with their father, sports were not the only reason for the children to sometimes want to stay late in Courtenay. Sometimes the children wanted to stay there so they could be with friends; sometimes they stayed overnight with friends in Courtenay even before the father had a house there.
+[37] The daughter started going to university in Victoria in September 2007. As a result, from then on during the school year she was not with either parent most days.
+[38] The following table summarizes the grade each child was in for each school year:
+School Year
+Grade (Daughter)
+Grade (Son)
+2002-2003
+8 C
+6 H
+2003-2004
+9 C
+7 H
+2004-2005
+10 C
+8 C
+2005-2006
+11 C
+9 C
+2006-2007
+12 C
+10 C
+2007-2008
+University V
+11 C
+2008-2009
+University V
+12 C
+Periods in issue are italicized and in bold.
+C = Courtenay
+H = Hornby Island
+V = Victoria
+[39] The appellant and John Ross owned a resort on Hornby Island. It is not entirely clear, but it appears that as a result of the separation agreement, John Ross became the sole owner of the resort.
+[40] In 2005, the same year he bought a house in Courtenay, John Ross sold the resort to a local community group. Unfortunately, that group ran into serious difficulties and as a result it hired him for four months in the summer of 2006 to run the resort.
+[41] Efforts to turn the resort around came to an end when the first mortgage holder put the resort into foreclosure.
+[42] In 2007, John Ross, together with others, reacquired the resort which he then ran.
+[43] From 2007 on, the resort was open seven days a week in the summer, Thursday to Sunday from, approximately, the May long weekend until Thanksgiving and two nights a week during the winter season.[9]
+[44] The consequence is that during the period in issue John Ross spent a certain amount of time on Hornby Island where he still had a house, particularly during the summer.
+[45] With respect to the factors to be considered that are enumerated in section 6302 of the Regulations, the following general picture emerges from the evidence:[10]
+(a) Factors 1 and 2: supervision of daily activities and needs and maintenance of a secure environment
+When the children were with one parent or the other, that parent provided a house for the children to reside, meals and lunches for school as well as supervision. Of course, given that in the years in question the children are teenagers, supervision is less frequent and often more indirect than with young children.
+(b) Factors 3 and 5: arrangement for medical care at regular intervals and, as required, attendance to the needs of the child when ill or otherwise in need of the attendance of another person
+Generally the children were in good health but, again, when something came up suddenly, the parent with the child was the one who dealt with the need.
+It was the appellant who took care of making medical and dental appointments. It appears that the appellant paid for almost all the dental appointments and, as well, the appellant is the one who obtained supplemental medical insurance. Given that the children were pretty healthy, the time involved in taking care of health needs was not great.
+(c) Factors 4 and 6: arrangement of, participation in, and transportation to, educational, recreational, athletic or similar activities, and provision of guidance and companionship
+While both parents were involved in these factors, the appellant was more involved, particularly with respect to trips away.[11]
+(d) Other considerations not in the enumerated factors
+Overall, one can generalize that the appellant appears to have made more efforts to try to be involved with her children when they were away from her than was the case for the father.
+During the period the appellant took the children on vacations, but the father did not due to the conflict between school term and the necessity for him to be present during the peak season at the resort.[12]
+[46] Finally and importantly, one must consider the time spent with each parent. From the earlier evidence that I described, once the father bought the house in Courtenay one would expect an increase in time spent with the father. Potentially, during regular school weeks one might expect a reversal of the previous pattern of four days with one and three days with the other to three days with one and four days with the other.
+[47] However, the actual time spent with each is not only affected by the availability of the father’s house, activities with friends, and sports practices, but also by the existence of long weekends, school holidays around Christmas and in the spring, the presence of the father on Hornby Island in the summer, etc.
+[48] The father testified that once he had the house in Courtenay the children were with him most of the time. He also testified that he was concerned with the frequency with which his daughter stayed with friends in Courtenay prior to his having a house in Courtenay.
+[49] His testimony was somewhat more detailed with respect to the summer period. In the summer of 2006 the children were between the two houses on Hornby Island as they had been before he had a house in Courtenay.
+[50] The father’s testimony was that in the summer of 2007 the children worked at the resort and the daughter stayed with him while the son stayed with both, but that the son stayed primarily with him.
+[51] In the summer of 2008 his testimony was that the daughter went back and forth between the parents during May and June, but after she stayed primarily with him. Prior to August the son went back and forth; after August the son took over the role of chef at the resort and because he was working so many hours he stayed with him full-time until the end of the summer.
+[52] I should note that while the appellant had her house during all the summer of 2006, in the summer of 2007 she rented out her house for about six weeks from mid‑July through the end of August. She acquired a small trailer referred to as the “fifth wheel” to live in during the period when the house was rented out. Because it was small she also had a tent for the children to stay in.[13]
+[53] In 2008 the appellant rented out her house for all of July and August and again made use of the “fifth wheel” to stay in.
+[54] Both parents agreed that the daughter was not keen on staying in the tent, but the appellant testified, and I accept her testimony, that her daughter would sometimes stay with her.[14]
+[55] The appellant also testified about the time spent by the children with each parent and she produced Exhibit A‑34, with respect to 2006, and Exhibit A‑35, with respect to 2007. These two exhibits gave a detailed monthly breakdown of the number of days spent with each parent as well as the number of days spent away from both parents.
+[56] Exhibit A‑34 was based on a record which she kept at the time whereas in 2007 the appellant had major surgery in January and as a result did not keep the same records as for 2007. The appellant had to reconstruct the time spent in 2007 in order to produce Exhibit A-35.
+[57] I would note that the appellant testified that some of the nights that the children were with her were nights that she stayed in the father’s house in Courtenay, on those nights when the father was not at home.
+[58] All the evidence that I have described prior to Exhibits A‑34 and A‑35 strongly suggests that the time spent with each parent is likely to be relatively close and that the parent who spent the most time with each child in a given month could easily vary on a monthly basis based on particular circumstances.
+[59] The time allocation shown in Exhibits A‑34 and A‑35 is consistent with that evidence. I accept that A‑34 is accurate and, while A‑35 cannot be as accurate, I accept that A‑35 is broadly accurate.
+[60] With respect to the months from July to December 2006, Exhibit A‑34 shows the son to have been with the appellant more than the father in five of the six months whereas the reverse was true for one of the six months. In the case of the daughter, it shows the daughter as having been with the father more than the appellant during four of the six months; the reverse is true for two of the six months.[15]
+[61] Exhibit A-35 with respect to 2007 shows the son as having been more with the father than the appellant during seven months of the year, whereas the reverse was true during five months.[16]
+[62] In the case of the daughter, prior to the daughter going to university in September the exhibit shows the daughter as having been with the father more than the appellant during six of the eight months; the reverse is true during two of the eight months.[17] For three of the four months beginning in September, it shows the daughter as having spent more time with the mother; the reverse is true for the month of December. However, I note that after October the daughter is over 18 and is no longer eligible for the Canada Child Tax Benefit.
+[63] There is nothing in the evidence that provides anything like the same level of detail as Exhibits A‑34 and A‑35 in respect of calendar year 2008 and the first six months of 2009.
+[64] With one exception, there is nothing in the evidence that would suggest the situation was substantially different with respect to 2008 and the first half of 2009 as compared to 2007. Subject to that one qualification I conclude that the time distribution in 2007 continued on in the same way in the following 18 months.
+[65] The one difference is that the parents would alternate having the children for Christmas and the following week.[18] In 2007 it was the father’s turn to have the children for Christmas whereas in 2008 it was the appellant’s turn. From this I conclude that the appellant would have had more time with the son than the father in December 2008, unlike December 2007.
+[66] As a result, the son spent more time with the father than the appellant during six months of 2008; the reverse was true during the other six months. For the six months of 2009 relevant to this appeal the son spent four months primarily with the father and two months primarily with the mother.
+Evidence of Janet LeBlancq
+[67] Ms. LeBlancq is a friend of the appellant who lives on Hornby Island and who has known the appellant and the father for over 20 years; she has also known the children since they were born.
+[68] The evidence of Ms. LeBlancq was, in essence, that from her perspective the appellant was the parent who was the most involved with the children.
+Analysis
+Residence ― July and August 2007 and 2008
+[69] As I mentioned earlier, the respondent accepted that the children resided with both parents or, put another way, had dual residence, through almost the entire period in issue.
+[70] The one exception was the period where the appellant rented out her home during the peak summer season, specifically six weeks beginning in mid-July 2007 and the months of July and August in 2008.
+[71] The respondent’s position, as I understood it, was that during these periods, because the daughter did not like sleeping in a tent, the daughter did not in fact stay with the appellant, and that in August 2008 the son did not stay with the appellant.[19]
+[72] The appellant’s evidence was that her daughter did stay with her from time to time. I accept that evidence and, as a result, I am satisfied that the daughter resided with the appellant throughout the period in issue.
+[73] As for the son’s situation in August 2008, it does not matter whether the son stayed or not with the appellant insofar as I am satisfied, as will be explained below, that in August 2008 the father was the primary caregiver.[20]
+[74] Consequently, I am satisfied that the son resided with the appellant at all times that are material to this appeal.
+GST Credit
+[75] Where a child resides with more than one parent, the rules relating to eligibility for the GST Credit are somewhat different from those relating to the Canada Child Tax Benefit. In Fraser v. The Queen,[21] Woods J. sets out clearly those differences:
+49 The caregiver test is imported into the GSTC provisions as part of a series of rules that are designed to prevent the payment of multiple benefits in respect of a child. The relevant provision is subsection 122.5(6), which provides:
+(6) If a person would, if this Act were read without reference to this subsection, be the qualified dependant of two or more individuals, in relation to a month specified for a taxation year,
+(a) the person is deemed to be a qualified dependant, in relation to that month, of the one of those individuals on whom those individuals agree;
+(b) in the absence of an agreement referred to in paragraph (a), the person is deemed to be, in relation to that month, a qualified dependant of the individual, if any, who is, at the beginning of that month, an eligible individual within the meaning assigned by section 122.6 in respect of the person; and
+(c) in any other case, the person is deemed to be, in relation to that month, a qualified dependant only of the individual that the Minister designates.
+50 The legislative scheme that is contemplated by clause (a) of s. 122.5(6) enables a dual residence situation to be resolved by the agreement of the parties. It is only where there is no agreement that the caregiver test applies by virtue of clause (b).
+[76] In Fraser, the parties had made an agreement and, accordingly, that agreement was applied.
+[77] In the present appeal, the parties had agreed that the appellant would receive “any child tax credits” in the separation agreement.[22] I am satisfied that the words “any child tax credits” (emphasis added) include any portion of the GST Credit arising in respect of the children.
+[78] Consequently, it is unnecessary to determine who the primary caregiver is for the purpose of the GST Credit and the appellant is entitled to that credit for both children throughout the period in issue.[23]
+Primary Caregiver
+[79] The question of who is the primary caregiver is, as I said earlier, essentially a question of fact.
+[80] Generally, not surprisingly, when a child resides with both parents, but a child spends most of one month with a particular parent, it is likely that that parent is the primary caregiver in that month. That parent is the one who is present and has the immediate responsibility for dealing with ongoing needs, whether they be issues that suddenly arise or the day-to-day routines such as meals, seeing to it that the children leave on time for school, etc.
+[81] However, the closer the time a child spends with each parent is to equal time the more difficult the question becomes.
+[82] In this case, the broad picture is one of the involvement of both parents. Some months are clearly to one side or the other. Other months are much closer. Furthermore, at a trial it is not always easy to reconstruct exactly what happened in the past.
+[83] Considering all the evidence as to the roles of the respective parents and considering, in particular, the detailed evidence with respect to time spent by the children with each parent, I have reached the following conclusions.
+[84] The appellant was the primary caregiver of the son in the months of July, August, September, October and November in 2006, the months of April, June, July, September and October in 2007, the months of April, June, July, September, October and December in 2008 and the months of April and June in 2009.[24]
+[85] The appellant was the primary caregiver of the daughter in the months of September and October in 2006 and the months of March, June, September and October in 2007.
+Conclusion
+[86] For these reasons, the appeal will be allowed and the matter will be referred back to the Minister for reconsideration and redetermination on the basis that:
+(a) the appellant is entitled to the Canada Child Tax Benefit
+(i) in respect of the son, for the months of July, August, September, October and November in 2006, the months of April, June, July, September and October in 2007, the months of April, June, July, September, October and December in 2008 and the months of April and June in 2009;
+(ii) in respect of the daughter, for the months of September and October in 2006 and the months of March, June, September and October in 2007;[25]
+(b) the appellant is entitled to the GST Credit with respect to both children throughout the period in issue.[26]
+[87] The appellant incurred a number of out-of-pocket disbursements from the filing of the notice of appeal until the conclusion of the hearing; these included two nights’ accommodation, meals and the cost of ferries.[27] To cover these disbursements, the appellant is awarded a lump sum of $600 in costs.[28]
+[88] Before I conclude, I wish to say that both parents care about their children very much and that they each, in their own way, contribute to the development of their children.
+[89] Finally, I wish to thank both the appellant and counsel for the respondent for their presentation of the case.
+Signed at Ottawa, Ontario, this 8th day of November 2011.
+“Gaston Jorré”
+Jorré J.
+CITATION: 2011 TCC 515
+COURT FILE NO.: 2009-2973(IT)I
+STYLE OF CAUSE: KAREN ROSS v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Nanaimo, British Columbia
+DATES OF HEARING: May 3 and 4, 2010
+REASONS FOR JUDGMENT BY: The Honourable Justice Gaston Jorré
+DATE OF JUDGMENT: November 8, 2011
+APPEARANCES:
+For the appellant:
+The appellant herself
+Counsel for the respondent:
+Holly Popenia
+COUNSEL OF RECORD:
+For the appellant:
+Name:
+Firm:
+For the respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Ontario
+[1] Because of the daughter’s age, October 2007 and October 2008 are the last months in respect of which, respectively, the Canada Child Tax Benefit and GST Credit are payable in respect of the daughter. The test is applied at the beginning of the month for the Canada Child Tax Benefit and at the beginning of the specified month for the GST Credit; see A of subsection 122.61(1) of the Act and the definition of “qualified dependant” in subsection 122.5(1) respectively. The period in issue corresponds to the 2005, 2006 and 2007 base taxation years.
+[2] While the quantitative aspect is clearly very important, nothing in the legislation says that the qualitative aspect is to be ignored and, in a close case, qualitative factors may be important in making an overall assessment.
+[3] “Residence” is to be determined in accordance with general tax law concepts of residents; see, for example, Lapierre v. The Queen, 2005 TCC 720, at paragraph 13. Under that general law it is possible to have more than one residence.
+[4] See the transcript of May 3, 2010 at page 102 to page 104, line 9, which explains the origin of Exhibits A-34 and A‑35.
+[5] Exhibit I-2.
+[6] I note that it is well established that the provisions of an agreement between the parties as to who shall receive the Canada Child Tax Benefit cannot override the statutory provisions of the Act; one must apply the provisions of the Act to the actual facts. With respect to the GST Credit, different rules apply; see below.
+[7] It is possible that this particular case might never have arisen if ferry schedules had been different and there had always been a later ferry. The ferry schedules did not pose any problem in terms of going to school.
+[8] See the transcript of May 3, 2010 at page 144, line 7, to page 145, line 25.
+[9] As I understood the evidence, this meant that in the winter there was staff present Friday to Sunday and guests could sleep at the resort Friday night and Saturday night.
+[10] With respect to the seventh and eight factors, attendance to the hygienic needs and a court order, respectively, these two factors play no role given that the children are old enough to take care of their own hygienic needs and that there is no court order giving custody to one or the other. Indeed, the separation agreement provides for joint custody and, while it foresaw that the children would live primarily with the appellant, everyone seems to have accepted that circumstances had changed and that, as a result, there was an evolution in living arrangements.
+[11] The appellant provided a good deal of evidence on this.
+[12] He did on occasion take his children skiing, however.
+[13] I note that the “fifth wheel” had running water and electricity.
+[14] See the transcript of May 3, 2010 at page 115; since the daughter would also have had to share a room with others while working at the resort in the summer of 2007 the need to occasionally get away and stay with the appellant would also be true in 2007 as it was in 2008.
+[15] November is equal with respect to the son, but given that I am satisfied the appellant was somewhat more intensively involved, I am satisfied that such a split month time wise should be attributed to the appellant.
+[16] In fact one month was equal. For the same reasons as in the previous note, I consider that it would be appropriate to consider the mother as the primary caregiver for that month.
+[17] Again, one month was equal and again I have concluded that it is appropriate to consider the mother as the primary caregiver for that month.
+[18] Exhibit A‑34, page 2.
+[19] This was because in that month the son had taken over the cook’s job in the resort and was working extremely long hours with the result that he stayed at the father’s house; unlike the mother’s house which was across the road, the “fifth wheel” was further from the resort.
+[20] As for the GST Credit, I would note that August is not a specified month. August falls within the quarter for which the specified month is July and, for GST Credit purposes, the question is whether the son resided with the particular parent at the beginning of the specified month; see the definition of “qualified dependant” in subsection 122.5(1). Although it is not necessary for the purposes of this decision, I would note that I am not satisfied that an absence from residing with the appellant for a month is sufficient to bring to an end the son’s residence with the appellant in the circumstances.
+[21] 2010 TCC 23.
+[22] Exhibits A-30 and I-2, page 6.
+[23] Although it is not necessary for me to do so, had it been necessary, I would have concluded that the appellant was the primary caregiver of the daughter during the months where the daughter was at university in Victoria.
+[24] My allocation of specific months is primarily based on Exhibits A-34 and A-35. See also paragraphs 60 to 66 above.
+[25] After October 2008, the daughter was over 18 and was no longer eligible for the Canada Child Tax Benefit.
+[26] In the case of the daughter, the daughter turned 19 in October 2008. Accordingly, the last period for which the appellant will receive the GST Credit in relation to the daughter is the quarter for which October 2008 is the specified month, given that the daughter is still 18 years old at the beginning of the month.
+[27] Including costs relating to her witness.
+[28] The appellant also referred to some disbursements incurred prior to the notice of appeal. However, costs prior to the notice of appeal may not be claimed.

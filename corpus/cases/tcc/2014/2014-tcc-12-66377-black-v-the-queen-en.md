@@ -1,0 +1,335 @@
+---
+title: "Black v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/66377/index.do"
+last_modified: "2014-01-14"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2014 TCC 12"
+citation2: ""
+neutral_citation: "2014 TCC 12"
+decision_date: "2014-01-14"
+language: "en"
+item_id: "66377"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5987
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T10:00:32.294000+00:00"
+cases_cited_count: 10
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "c4768e31101067787e6b9f052a56e64814ab44b13dd440d4a6539a50f4f131a8"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Black v. The Queen
+
+- Citation: 2014 TCC 12
+- Decision date: 2014-01-14
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5987, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Black v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2014-01-14
+Neutral citation
+2014 TCC 12
+File numbers
+2008-2896(IT)G
+Judges and Taxing Officers
+Gerald J. Rip
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2008-2896(IT)G
+BETWEEN:
+CONRAD BLACK,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Determination heard on May 15 and 16, 2013 at Toronto, Ontario.
+Before: The Honourable Gerald J. Rip, Chief Justice
+Appearances:
+Counsel for the applicant:
+David C. Nathanson, QC
+Adrienne K. Woodyard
+Counsel for the respondent:
+Arnold H. Bornstein
+Diana Aird
+____________________________________________________________________
+DETERMINATION
+Upon motion by counsel for the applicant for an order that a determination, before hearing, be made of the following question of law under section 58 of the Tax Court of Canada Rules (General Procedure):
+Whether, in view of the Canada-United Kingdom Income Tax Convention (1978) and the Canada-United Kingdom Income Tax Convention Act (1980) the Minister of National Revenue may assess tax against the applicant on the basis that he was a resident of Canada for purposes of the Income Tax Act on any of the items described in subparagraphs 5(i) to (vi) and subparagraph 5(viii) of the Amended Amended Notice of Appeal.
+And upon hearing the submissions of the parties;
+It is determined that the Minister of National Revenue may assess tax against the applicant on the basis that the applicant was a resident of Canada for purposes of the Income Tax Act on any of the items described in subparagraphs 5(i) to (vi) and subparagraph 5(viii) of the Amended Amended Notice of Appeal.
+The parties may make submissions in writing as to costs within 60 days.
+Signed at Ottawa, Canada, this 14th day of January 2014.
+“Gerald J. Rip”
+Rip C.J.
+Citation: 2014 TCC 12
+Date: 20140114
+Docket: 2008-2896(IT)G
+BETWEEN:
+CONRAD BLACK,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR DETERMINATION
+Rip C.J.
+[1] This a determination of the following question of law made pursuant to section 58 of the Tax Court of Canada Rules (General Procedure):
+Whether, in view of the Canada-United Kingdom Income Tax Convention (1978) and the Canada-United Kingdom Income Tax Convention Act (1980) the Minister of National Revenue ("Minister") may assess tax against the applicant on the basis that he was a resident of Canada for purposes of the Income Tax Act on any of the items described in subparagraphs 5(i) to (vi) and subparagraph 5(viii) of the Amended Amended Notice of Appeal.
+[2] There is no issue that, absent the Canada – U.K. Tax Convention[1], for purposes of the Income Tax Act (“Act”), the applicant was a resident of Canada in 2002. As a resident of Canada, he is required by Part I of the Act to pay tax on his worldwide income. In 2002, he was also a resident of the U.K. for purposes of U.K. tax. Article 4 of the Convention defines the term “resident of a Contracting State” for the purposes of the Convention and provides tie-breaker rules for dual residents. By virtue of paragraph (a) of Article 4(2) of the Convention, the applicant was deemed to be resident of the U.K. and not Canada. The Minister assessed the applicant income tax for 2002 on the Assessed Items described in subparagraphs 1(a) to 1(g) of the Amended Agreed Statement of Facts on the basis he was a resident of Canada "for purposes of the Act" in 2002. These amounts included income derived from duties of offices and employments performed outside of Canada.
+[3] The primary issues in considering the question to be determined are:
+a) whether Article 4(2) of the Canada‑U.K. Tax Convention deeming the applicant (by the tie breaker rule) to be resident of the United Kingdom ("U.K.") for the purposes of the Convention overrides the provisions of the Income Tax Act so as to prevent the Minister of National Revenue ("Minister") from assessing the applicant under Part I of the Income Tax Act certain amounts of income described in paragraph 1 of the Amended Agreed Statement of Facts ("Assessed Items") in 2002 as resident of Canada for purposes of the Act; and
+b) whether or not Article 27(2) of the Convention applies to enable the Minister to assess the applicant under Part I of the Act as a resident of Canada on any Assessed Items.
+FACTS
+[4] The matter proceeded by way of the following Amended Agreed Statement of Facts:
+1. By a series of reassessments, the last of which (the "Reassessments") is the subject of this appeal, the Minister of National Revenue assessed tax against the applicant under Part I of the Income Tax Act (the "Act") on the following amounts [referred to in these reasons as "Assessed Items"]:
+(a) $2,862,385 on account of incomes from the duties of offices and employments performed by the applicant outside of Canada;[2]
+(b) $90,291 on account of the value of the benefit assumed by the Minister to have been received by the applicant from 10 Toronto Street Inc ("10 Toronto") for the security paid in connection with the applicant's home at 26 Park Lane Circle, Toronto;
+(c) $87,834 on account of the value of the benefit assumed by the Minister to have been received by the applicant from The Ravelston Corporation ("Ravelston") for an amount paid to John Hillier;
+(d) $326,177 on account of taxable dividends received by the applicant;
+(e) $28,035 on account of interest and other investment income received by the applicant;
+(f) $365,564 on account of benefits which the Minister assumed that the applicant was deemed to have received under subsection 15(1), subsection 15(9) and subsection 80.4(2) of the Act in respect of indebtedness owed by him to Conrad Black Capital Corporation ("CBCC"); and
+(g) $1,367,055 on account of benefits that the Minister assumed had been conferred upon him as a result of his use of an airplane to which Hollinger International Inc. had access and which the applicant used[3].
+2. The Reassessment was made on the basis that the applicant was a resident of Canada for purposes of the Act in the 2002 taxation year.
+3. The respondent takes the position that the benefits described in subparagraphs 1(b) and (c), respectively, were conferred to the applicant in respect of, in the course of, or by virtue of an office or employment the applicant held with 10 Toronto and Ravelston, respectively, under paragraph 6(1)(a) of the Act.
+4. The respondent takes the following alternative position with respect to the interest benefit described in subparagraph 1(f): that the benefit was conferred on the applicant by virtue of a previous or current office or employment the applicant held with CBCC under subsections 80.4(1) and (9) of the Act.
+5. The respondent takes the position that the airplane benefit described in subparagraph 1(g) was conferred on the applicant in respect of, in the course of, or by virtue of an office or offices or employment or employments held by the applicant with one or more of Hollinger Inc., Hollinger International Inc., and Ravelston under paragraph 6(1)(a) of the Act. In the alternative, the respondent takes the position that the benefit was received by the applicant by virtue of his direct or indirect shareholding in one or more of those corporations under subsections 15(1), 56(2) or 246(1) of the Act.
+6. The applicant became resident of the United Kingdom under the law of the U.K. in 1992 and remained so resident throughout 2002.
+7. The applicant was, in the 2002 taxation year, apart from the provisions of the Canada‑United Kingdom Income Tax Convention (1978) (the "Convention") as enacted by the Canada‑United Kingdom Tax Convention Act (1980)[4] (the "Convention Act"), a resident of Canada for purposes of the Act.
+8. The applicant was not resident in another country, other than Canada or the U.K. in 2002. Nor did he become resident of any other country between 1992 and 2002.
+9. By virtue of paragraph 2 of Article 4 of the Convention Act, the applicant was deemed to be a resident of the U.K.
+10. The applicant was resident of, but not domiciled in the U.K. As he was not domiciled in the U.K., the applicant was subject to tax in the U.K. only on such portion of his non U.K. source income as was remitted to or received in the U.K.
+11. None of the amounts referred to in subparagraphs 1(b) through (g) was remitted to or received in the U.K. and therefore none was subject to tax in the U.K.
+12. The Minister of National Revenue assumed that the amount referred to in subparagraph 1(a) was in respect of the duties of offices or employments performed in the U.S.
+13. The applicant says that the amount referred to in subparagraph 1(a) was in respect of the duties of offices or employments performed in the U.S. and the U.K.
+14. To the extent that the amount referred to in subparagraph 1(a) relates to the duties or offices or employments performed in the U.K., it was not remitted to or received in the U.K. but was subject to tax in the U.K.
+15. To the extent that the amount referred to in subparagraph 1(a) relates to the duties of offices or employments in the U.S., it was not remitted to, received in or subject to tax in the U.K.
+16. The applicant reported in his return of income for 2002, and the Minister included in his income by the Reassessment, the amount of $808,226 derived from the duties of offices and employments performed by him in Canada.
+17. If the applicant was a resident of Canada for purposes of the Act, then the amount of $808,226 was properly included in computing his income as a resident.
+18. If the applicant was not a resident of Canada for purposes of the Act, then the amount of $808,226 was properly included in computing his income by virtue of subsection 2(3) and subparagraph 115(1)(a)(i) of the Act.
+19. If the applicant was not a resident of Canada for purposes of the Act, the the Minister was not entitled to assess tax against the Applicant under Part I of the Act on any of the items referred to in paragraph 1.
+20. If the applicant was a resident of Canada for the purposes of Act, the then Minister
+(a) was entitled to assess tax against the applicant under Part I of the Act on the amounts referred to in subparagraph 1(a) that relate to the duties of offices or employments performed outside the U.K.; and
+(b) was entitled to assess tax against the applicant under Part I of the Act on each of the items referred to in subparagraphs 1(b) through 1(g), subject to the determination at trial of whether, and if so, the extent to which, the applicant received taxable benefits in the amounts described in subparagraphs 1(b), (c) and (g).
+CONVENTION PROVISIONS
+[5] Article 4 of the Canada‑U.K. Tax Convention, in part, provides that:
+1. For the purposes of this Convention, the term "resident of a Contracting State" means any person who, under the law of that State, is liable to taxation therein by reason of his domicile, residence, place of management or any other criterion of a similar nature. But this term does not include any person who is liable to tax in that Contracting State in respect only of income from sources therein.
+1. Au sens de la présente Convention, l'expression « résident d'un État contractant » désigne toute personne qui, en vertu de la législation dudit État, est assujettie à l'impôt dans cet État en raison de son domicile, de sa résidence, de son siège de direction ou de tout autre critère de nature analogue. Toutefois, cette expression ne comprend pas les personnes qui ne sont assujetties à l'impôt dans cet État contractant que pour les revenus de sources situées dans cet État.
+2. Where by reason of the provisions of paragraph 1 an individual is a resident of both Contracting States, then his status shall be determined as follows:
+2. Lorsque, selon la disposition du paragraphe 1, une personne physique est considérée comme résident de chacun des États contractants, sa situation est réglée de la manière suivante :
+(a) he shall be deemed to be a resident of the Contracting State in which he has a permanent home available to him. If he has a permanent home available to him in both Contracting States, he shall be deemed to be a resident of the Contracting State with which his personal and economic relations are closer (centre of vital interests);
+a) cette personne est considérée comme résident de l'État contractant où elle dispose d'un foyer d'habitation permanent. Lorsqu'elle dispose d'un foyer d'habitation permanent dans chacun des États contractants, elle est considérée comme résident de l'État contractant avec lequel ses liens personnels et économiques sont les plus étroits (centre des intérêts vitaux);
+…
+. . .
+[6] In 2002, paragraph 2 of Article 27 of the Convention read as follows:
+Where under any provision of this Convention any person is relieved from tax in a Contracting State on certain income and, under the law in force in the other Contracting State, that person is subject to tax in that other State in respect of that income by reference to the amount thereof which is remitted to or received in that other State, the relief from tax to be allowed under this Convention in the first-mentioned State shall apply only to the amounts so remitted or received.
+Lorsque, en vertu d'une disposition de la présente Convention, une personne a droit dans un État contractant à un allégement d'impôt sur un certain revenu et, en vertu de la législation en vigueur dans l'autre État contractant, cette personne est soumise à l'impôt dans cet autre État à raison du montant de ce revenu qui y est transféré ou perçu, l'allégement qui doit être accordé dans le premier État en vertu de la présente Convention ne s'applique qu'au montant dudit revenu ainsi transféré ou perçu.
+[7] The Convention was made part of the law of Canada by the Canada‑U.K. Income Tax Convention Act 1980 ("Convention Act"). The Convention Act, at subsections 30(1) and (2), provides that:
+30(1) The Convention is approved and declared to have the force of law in Canada during such period as, by its items, the Convention is in force.
+30(1) La Convention est approuvée et a force de loi au Canada pendant la durée de validité prévue par son dispositif.
+(2) In the event of any inconsistency between the provisions of this Part, or the Convention, and the provisions of any other law, the provisions of this Part and the Convention prevail to the extent of the inconsistency.
+(2) Les dispositions de la présente partie et de la Convention l'emportent sur les dispositions incompatibles de toute autre loi ou règle de droit.
+PARTIES' SUBMISSIONS
+[8] The applicant submits that he is not liable for tax in Canada on the Assessed Items. The respondent says he is liable. Both parties agree that according to the Convention the applicant it not required to pay tax in the U.K. until such time as the income of the Assessed Items is remitted or received in the U.K. Therefore, if the applicant is correct, he is not liable for tax on the Assessed Items in 2002 in either country. If there is a flaw in the drafting of a tax convention — or the Act — that does not reflect what the drafter intended and the error permits a taxpayer to legitimately arrange his affairs so that he is not liable for tax anywhere, for example, it is not the role of the Court to remedy the flaw. Nevertheless this is not the situation before me.
+a) Applicant
+[9] The applicant submits that where a person is a resident of Canada by virtue of the Act without taking into account the Convention but is deemed to be a resident of the U.K. by virtue of the Convention, there is a "clear inconsistency". In such a case, he declares, the Convention prevails over the Act so that such a person will be a resident of the U.K. and not of Canada even for purposes of the Act[5].
+[10] Therefore, the applicant concludes, since he was deemed to be a resident of the U.K. under Article 4(2) of the Convention, he was not a resident of Canada for purposes of the Act and, therefore, not subject to tax in Canada on the Assessed Items. In applicant's view he could not have been a resident solely of the U.K. for purposes of the Convention and, at the same time, a resident of Canada for the purposes of the Act. Such a consideration would ignore the provisions of the Convention and defeat its purpose to avoid double taxation.
+[11] Counsel for the applicant anticipated the respondent's submissions on Article 27(2) of the Convention. Counsel argued that Article 27(2) of the Convention has no application to the matter at bar. It does not entitle the Minister to assess tax against the applicant under Part I of the Act on his non‑Canadian office and employment ("O&E") income or any of the other Assessed Items. Article 27(2), he asserts, applies only to limit the application of Articles 10, 11 and 12 of the Convention, provisions that relate to dividends, interest and royalties.
+[12] Counsel explained that a non‑resident of Canada who receives dividends from a Canadian source is ordinarily subject to a 25% withholding tax under Part XIII of the Act. The Convention provides the non‑resident with relief since, under the Convention, the withholding tax for individuals is 15% on dividends, for example. However, if the dividend is not remitted or received in the U.K., any relief would be denied: the 25% withholding tax under the Act would be chargeable.
+[13] Counsel submitted that the applicant was not subject to tax under Part I of the Act by virtue of the residency tie-breaker provisions of Article 4(2). There was, therefore, no "tax [in Canada]" from which the applicant was "relieved" under "any provision of [the] Convention" to which paragraph (2) of Article 27 could have applied. Consequently, applicant's counsel submitted Article 27(2) did not open the door to permit the Minister to tax the Assessed Items under Part I of the Act. It only permitted the Minister to assess tax under Part XIII of the Act at the rate of 25% on dividends and interest received by the applicant that were not remitted to or received in the U.K., on which the applicant would otherwise have been "relieved from tax" at the 15% and 10% rates provided by Articles 10 and 11 of the Convention, respectively. In this case, paragraph (2) of Article 27 of the Convention simply could not have, and did not, come into play.
+[14] Finally, applicant argues that it does not matter that the applicant's non‑Canadian O&E income may not have been subject to tax in 2002 in either the U.K. or Canada. That fact has no bearing on how the Convention is to be interpreted. Indeed, to conclude otherwise would be to interpret the Convention as though its primary purpose was to avoid "double non‑taxation". Canada may not invoke the provisions of the Act as a justification for its failure to recognize the operation of the Convention by which the applicant is a resident of the U.K., and not of Canada, for purposes of the Act.
+b) Respondent
+[15] The respondent's position is that the applicant is deemed to be a resident of the U.K. pursuant to Article 4(2) only for the purposes of the Convention. Article 4 "does not dictate the content of [domestic] law on 'residence'". The object of Article 4(1) is to provide "a definition of the expression 'resident' of a Contracting State" for the purposes of the Convention. The applicant was a resident of Canada as a matter of fact within the meaning of the Act and is to report to the Minister his earned income for 2002 as a resident of Canada. He may deduct income that is exempt from taxation or claim a reduced rate of income tax according to the provisions of the Convention.
+[16] Contrary to the applicant's reading of Article 27(2), the respondent's view of that provision is that where Canada provides the applicant with relief from taxation on certain income under any provision of the Convention and the income is subject to tax in the U.K. by reference to the amount that is remitted or received in the U.K., Canada may tax the amount of income that has not been remitted to, or received in, the U.K. Canada may tax the applicant as a resident of Canada, again without restrictions imposed by the Convention, on his employment income, including benefits, and dividends and interest. And the Minister so assessed the applicant for 2002.
+[17] It is the respondent's view that if a particular income or gain is not provided for in the Convention, Canada is free to include the amount of that income or gain in computing the applicant's income tax for 2002 in accordance with the Act without any restriction imposed by the Convention.
+ANALYSIS
+Interpretation of the Convention
+[18] The Vienna Convention, at Article 31(1), provides that:
+[a] treaty shall be contemplated in good faith in accordance with ordinary meaning to be given to the terms of the treaty in their content and in the light of its object and purpose.
+[19] Iacobucci, J., speaking for the Supreme Court in The Queen v. Crown Forest Industries Limited et al. ("Crown Forest"),[6] declared that "in interpreting a treaty, the paramount goal is to find the meaning of the words in question. This process involves looking into the language used and the intention of the parties." The Court, with approval, referred to Addy, J.'s comments in J.N. Gladden Estate v. The Queen:[7]
+Contrary to an ordinary taxing statute a tax treaty must be given a liberal interpretation with a view to implementing the true intentions of the parties. A liberal or legalistic interpretation must be avoided when the basic object of the treaty might be defeated or frustrated insofar as the particular item under consideration is concerned.
+[20] In Crown Forest, Iacobucci J. turned to extrinsic materials in order to help "illustrate and illuminate the intentions of the parties"[8]. Such materials include other international tax conventions, the OECD Model Convention and its commentaries, technical explanations that accompany treaties and academic commentary. Even commentaries adopted later may be relied on to interpret a tax treaty[9]. He also referred to Articles 31 and 32 of the Vienna Convention.
+[21] In Swantje v. R.[10] the Federal Court of Appeal cautioned that the approach in interpreting a treaty and the Act cannot be a purely mechanical one but must be a functional one, where the scheme must be considered as a whole; one must take into account the intent of the legislation, its object and spirit and what it actually accomplishes. This is similar to the Supreme Court's view in Stubart Investments Ltd. v. The Queen[11] where the Court approved E.A. Driedger's succinct description of interpretation of statutes:
+Today there is only one principle or approach, namely, the words of an Act are to be read in their entire context and their grammatical and ordinary sense harmoniously with the scheme of the Act, the object of the Act, and the intention of Parliament[12].
+[22] When interpreting the Convention and its interaction with the Act, I must adopt a liberal and purposive approach not a mechanical approach. I must look to the plain language of the treaty and to the intent of the parties.
+Article 4
+[23] The object and purpose of the Convention is what is announced in its title: to avoid double taxation[13]. But, as David Ward explains, over the years many countries, including Canada, have adopted in their internal law relieving provisions to eliminate or substantially reduce double taxation by credit, or exemption, or both. The result, according to Mr. Ward is that the principal purpose today of a tax treaty, at least from Canada's perspective, would seem to be the allocation of the taxing power between the country of the income's source and the taxpayer's country of residence[14].
+[24] Article 4 defines the term "resident of a Contracting State" for the purposes of the Convention. The parties agree that, in accordance with the "tie breaker" rule in Article 4(2)(a) of the Convention, in 2002 the applicant resided in the U.K. "for the purposes of the Convention". At the same time, the respondent argues that, in 2002, the applicant was a resident of Canada for the purposes of Part I of the Act. The applicant claims that, if the respondent is correct, then there is an inconsistency between the applicant being a resident of Canada for the purposes of the Act and a resident of the U.K. for purposes of the Convention. It is the applicant's position that, by virtue of subsection 30(2) of the Convention Act, the Convention prevails: the applicant was a non‑resident of Canada in 2002 for the purposes of the Act.
+[25] The meaning of the word "purposes" in Article 4 may assist in understanding whether a conflict exists. The word "purpose" is defined, in part, in The Shorter Oxford English Dictionary[15]:
+1. The object which one has in view … 3. The object from which anything is done or made, or for which it exists; end, aim …
+In the French language, the word "sens" means:
+2. Ce qu'un signe (notamment un signe de language) signifie … 3. Donner, fixer le sens d'un mot.[16]
+[26] Whenever the term "resident of a Contracting State" is found in the Convention, it is the person defined as such in Article 4 who is "a resident of a Contracting State" as far as the Convention is concerned. The dictionary definitions of "purpose" and "sens" stress a particular object, in the case at bar, the object of the definition being the Convention itself, nothing else. There is no suggestion of inconsistency. The words "purpose" and "sens" in Article 4 conforms with the meaning that could only have been the intention of the parties who drafted the Convention.
+[27] Article 4 determines whether or not a taxpayer who is resident of Canada and the U.K. is eligible for relief under the Convention as a resident of either the U.K. or Canada. On a plain language reading of Article 4, I cannot find any inconsistency between being a resident of Canada for the purposes of the Act and a resident of the U.K. for the purposes of the Convention.
+[28] I know of no authority to the effect that once a person is deemed by the Convention to be a resident of the U.K. for the purposes of the Convention that person ceases to be a resident of Canada for the purposes of the Act. Whether a person is a resident of Canada for purposes of the Act is a question of fact. That a person deemed by the Convention to be resident of the U.K. is "ipso facto" a resident of the U.K. and a non‑resident of Canada for purposes of the Act, as argued by the applicant, is not only a non sequitur but also wrong. Such a conclusion reflects a mechanical approach to the interpretation of the Convention and goes far beyond the intention of the Convention.
+[29] I cannot find an inconsistency between the Convention and the Act in the language used and the intention of the drafters of the Convention, the Convention Act. The provisions of the Convention and the Act can work side by side without conflict or contradiction. For example, it is clear that if an income or capital item is not provided for in the Convention, Canada's authority to tax that item is not restricted by the Convention.
+[30] In Friends of the Oldman River Society[17] the Supreme Court held that for two statutes to be inconsistent they must either be so contradictory that following one law would require breaching the other or the two laws must be unable to stand together:
+Ordinarily, then, an Act of Parliament must prevail over inconsistent or conflicting subordinate legislation. However, as a matter of construction a court will, where possible, prefer an interpretation that permits reconciliation of the two. "Inconsistency" in this context refers to a situation where two legislative enactments cannot stand together; … the underlying rationale is the same as where subordinate legislation is said to be inconsistent with another Act of Parliament -- there is a presumption that the legislature did not intend to make or empower the making of contradictory enactments. There is also some doctrinal similarity to the principle of paramountcy in constitutional division of powers cases where inconsistency has also been defined in terms of contradiction -- i.e., "compliance with one law involves breach of the other"; …
+In order for there to be an inconsistency then, there must be a conflict between the operations of the Act and the Convention. An inconsistency between the Act and Convention would exist, for example, if Canada taxed the applicant as a resident of Canada in violation of the objects and purposes of the Convention.
+[31] The Commentaries to the OECD Model Tax Convention state that tax conventions are not concerned with domestic law:[18]
+Conventions for the avoidance of double taxation do not normally concern themselves with the domestic laws of the Contracting States laying down the conditions under which a person is to be treated fiscally as "resident" and, consequently, is fully liable to tax in that State. They do not lay down standards which the provisions of the domestic laws on "residence" have to fulfil in order that claims for full tax liability can be accepted between the Contracting States. In this respect the States take their stand entirely on the domestic laws.
+[32] An example of the application of the tiebreaker rules in Article 4(2) is also provided in the Commentaries:[19]
+An example will elucidate the case. An individual has his permanent home in State A, where his wife and children live. He has had a stay of more than six months in State B and according to the legislation of the latter State he is, in consequence of the length of stay, taxed as being a resident of that State. Thus, both States claim that he is fully liable to tax. This conflict has to be solved by the Convention.
+In this particular case the Article (under paragraph 2) gives preference to the claim of State A. This does not, however, imply that the Article lays down special rules on "residence" and that the domestic laws of State B are ignored because they are incompatible with such rules. The fact is quite simply that in the case of such a conflict a choice must necessarily be made between the two claims, and it is on this point that the Article proposes special rules.
+[Emphasis added.]
+[33] In the example in the preceding paragraph, one state's claim to tax is given preference or priority over the other state's claim. No mention is made of an override of domestic law. This preference language is repeated in the commentary for Article 4(2):[20]
+This paragraph relates to the case where under the provisions of paragraph 1, an individual is a resident of both Contracting States.
+To solve this conflict special rules must be established which give the attachment to one State a preference over the attachment to the other State.
+[Emphasis added.]
+The word "preference" is used in the commentary relating to the various subtests in the tiebreaker rules. In view of the context, preference must mean giving one state's claim to tax priority or precedence over the other. If the drafters had intended to extinguish a state's claim they would have used different language.
+[34] This view is supported by leading tax authorities. In Introduction to the Law of Double Taxation Conventions,[21] Prof. Michael Lang agreed that:
+[t]he determination of the residence state is for treaty purposes only. The residence in just one of the two states does not automatically mean that in the other state taxes are levied under the limited tax liability rules. Domestic full tax liability rules of the source state remain applicable. The amount of tax is determined according to the full tax liability rules and not according to the limited tax liability rules.
+[35] Prof. Vogel is of the same view:[22]
+[s]ince the taxpayer is 'deemed' to be a non‑resident only in regard to the application of the treaty's distributive rules, he continues to be generally subject to those taxation and procedural provisions of his State of secondary residence which apply to all other taxpayers who are residents thereof …
+[36] And earlier, Prof. Vogel explains:[23]
+[i]n order to avoid the resultant double taxation or double non‑taxation, Article 4(2) stipulates — as a so‑called 'tiebreaker — for the purposes of the treaty, i.e. for the proper applicability of the distributive rules, of which the two contracting States the person concerned is deemed to be a resident. In this context, 'deemed' does not indicate a fiction, but rather a legal consequence of the treaty as opposed to the legal consequence under domestic law; for treaty purposes the person concerned actually is a resident of the contracting State in question.
+[37] Counsel for the applicant cited a number of Canadian cases as authorities for the proposition that the application of the tie‑breaker rules in Article 4 to determine residency for the purposes of the tax convention is sufficient on its own to give rise to an inconsistency between the Act and the Convention[24]. His conclusion that there is an inconsistency between the Convention and the Act in this manner is based on a mechanical approach, which is incompatible with the liberal and purposive approach to interpreting tax conventions. This approach does not take into account the role of Article 4 in the scheme of the Convention: a definition of residency for use by the operative provisions of the Convention to allocate taxing jurisdiction and avoid double taxation.
+[38] The applicant's proposition is also not supported by the case law that he has cited. Each of the taxpayers in these cases could point to an operative Article or purpose of the relevant tax convention that was being contravened. In these cases there would have been a violation of the double taxation or allocation purposes of the relevant tax treaty.
+[39] The difficulty the applicant faces in the matter at bar is that he cannot point to any operative provision of the Convention that being a considered resident of Canada for purposes of the Act would contravene. Double taxation between Canada and the U.K. is not an issue. The applicant has not remitted his income to the U.K. and were he to do so he could avail himself of Article 21 of the Convention[25]. In fact, given Article 27(2), taxing the applicant would accord with the purposes of the Convention and the intentions of the drafters.
+[40] Hunter Douglas Ltd. v. The Queen ("Hunter Douglas") involved the residency of a corporation under the Act and a tax treaty between Canada and the Netherlands. The Federal Court clearly went beyond a comparison of the residency definition contained in the Act and the definition contained in the tax treaty at issue. At paragraph 16, the Court states:
+It is under this last amendment, which is inconsistent with the definition of resident contained in such convention, that the Defendant attempts to justify classifying the plaintiff as resident in Canada at the time of such share dividend distribution in 1971 as it was incorporated before April 27, 1965 in Canada and in preceding taxation years of the corporation ending after April 26, 1965, it carried on business in Canada.
+[Emphasis added.]
+[41] In this case the Court acknowledges that the two definitions are inconsistent but then continues on to examine whether the inconsistency results in a contravention of the tax treaty. Under the applicant's proposed method of finding an inconsistency, the analysis would have stopped at paragraph 16 and not continued. Instead, the Court examined Article IV (which related to dividends) of the convention and held that the definition of residency in the Act could not prevail over that Article[26]:
+The amendments made in 1962 and 1965 to the Canada Income Tax Act (supra) contravene the provisions of the Canada-Netherlands Income Tax Convention and therefore ineffective to abrogate the provisions of Article IV(5) of such convention. The Minister of National Revenue for Canada therefore had no authority to impose liability against the plaintiff company for not withholding the 15% tax on dividends paid by it to shareholders not resident in Canada.
+[42] In Allchin v. The Queen ("Allchin") Bell J. of this Court held that a dual resident taxpayer was deemed by the treaty tie‑breaker rules to be a resident of the United States, not Canada. After examining the facts and applying the law, Justice Bell held that:[27]
+The combination of evidence describing the nature of the Appellant's lifestyle and activities in the U.S. and the information contained in the foregoing chart make it clear that during the years in question her habitual abode was in the U.S. In accordance with Article IV(2)(b) of the Treaty the Appellant
+shall be deemed to be a resident of the Contracting State in which he has an habitual abode.
+Accordingly, the Appellant, as a result of her dual residence and of the application of the tie‑breaking rules, was, during the taxation years in question, resident in the U.S. Therefore, she was not taxable in Canada pursuant to the provisions of Section 2 of the Act for her 1993, 1994 and 1995 taxation years.
+[43] The applicant seeks to rely on Justice Bell's conclusion without taking into account the reasoning by which he reached it. The inconsistency between the Canada‑U.S. Convention and the Act was a result of the fact that the Minister was seeking to tax Ms. Allchin on employment income that had already been taxed by the United States. This would have resulted in double taxation in contravention of the convention. In his analysis of the Canada‑U.S. Convention, Justice Bell noted and emphasized the following from the OECD Commentaries:
+I. PRELIMINARY REMARKS
+1. The concept of "resident of a Contracting State" has various functions and is of importance in three cases:
+a) in determining a convention's personal scope of application;
+b) in solving cases where double taxation arises in consequence of a double residence: [Emphasis in the original.]
+c) in solving cases where double taxation arises as a consequence of taxation in the State of residence and in the State of source or situs.
+[44] Bell J. also refers to Crown Forest on the same point:
+On the same page, Iacobucci, J. said that the Treaty was intended to benefit Canadians working in the U.S. or vice versa, it being important to spare such individuals double taxation …
+[45] This is where the inconsistency between the Act and the Canada‑U.S. Convention can be found. The Minister was seeking to tax income that was allocated to the United States under the treaty, which would have resulted in double taxation.
+[46] Wolf v. The Queen also involved a dual resident whose status was determined by the tie‑breaker rules in the Canada‑U.S. Convention. The key issue in Wolf was whether the taxpayer was a resident of the United States and therefore, could invoke treaty provisions that would exempt his income from tax in Canada. It was not whether there was an inconsistency between the Act and the Convention. This is clear from the Federal Court of Appeal's reasons:[28]
+In assessing the appellant for the taxation years 1990 through 1995, the Minister disallowed the deduction of business expenses claimed (more particularly lodging and travel expenses) on the basis that the appellant earned employment income and not business income during those years. The Minister estimated that the appellant was a resident of Canada during the years at issue.
+The appellant challenged these assessments alleging that he remained a citizen and a resident of the United States of America and that, according to Article IV of the Canada‑U.S. Income Tax Convention (1980) (the "Convention") as amended, he was not, for tax purposes, considered to be a resident of Canada during the years at issue. The appellant also submitted that he was working in Canada as an independent contractor during those years. He relied on Article XIV of the Convention and argued that his income was taxable in the United States and not in Canada considering the he did not have a fixed base regularly available to him in Canada.
+[Emphasis added.]
+[47] The result of the application of the tie‑breaker rules was stated by Justice Décary:
+The Minister has not challenged the Tax Court Judge's finding that Mr. Wolf was a resident of the United States of America for the purposes of the Convention between Canada and the United States of America with Respect to Taxes on Income and on Capital ("the Convention"). (The Convention was signed at Washington, D.C. on September 26, 1980, and enacted in law in Canada by the Canada‑United States Convention Act, 1984, S.C. 1984, c. 20.)
+[Emphasis added.]
+[48] Wolf is not an authority for the proposition that the mere application of the tie‑breaker rules gives rise to an inconsistency with the Act.
+[49] Applicant's counsel also cited a decision of the Supreme Administrative Court of Sweden in Lagerman v. Riksskatteverket[29]that supports his position. The Swedish Court considered tax consequences in Sweden of a person deemed resident of Kenya under the Sweden‑Kenya Tax Convention. The taxpayer P.L. received a dividend or possibly interest in 1986 from a Swedish dividend fund which he did not declare in his 1980 Swedish tax return. In 1986 he was a resident of Sweden under its tax law but he and his family were living in Kenya and were also resident of Kenya. The Convention deemed him to be a resident of Kenya. According to the Convention interest paid from Sweden to a natural person in Kenya may, under the then current laws of Sweden, not be taxed in Sweden. The Court considered P.L. a non‑resident of Sweden for purposes of Swedish domestic tax law and was therefore exempt from tax on interest. The majority held that:
+The rules of the agreement are significant for determining residence in the event of so‑called dual residence when it comes to establishing which State shall be regarded as the State of residence and which State is to be designated as the source State. For example, what concerns the present regulations in this case about the right to tax dividends and interest, are that Kenya, without dispute, is regarded as the State of residence and Sweden as the source State. In regard to the application of the agreement, it is common ground that P.L. is regarded as resident in Kenya. Sweden's right to tax the income should thus be viewed in the light of the provisions of the agreement that include the right of Sweden as source State to taxation of dividends and interest.
+[50] The two minority judges opined that P.L. remained a resident of Sweden under Swedish domestic law and was liable for tax in Sweden as a resident of Sweden. The minority view was that "domestic law is not meant to be influenced by the fact that the agreement states other rules [are] to be applied in its application … " I agree.
+[51] Article 4(2) provides preference criteria for instances where a taxpayer is a resident of both contracting states. These tiebreaker rules deem a dual resident to be a resident of either Canada or the U.K. for the purposes of the Convention. Once a taxpayer is a resident of either the U.K. or Canada for the purposes of the Convention, the other Articles of the Convention operate to relieve taxation and allocate taxing authority. That is what the Convention does: it allocates to each country the authority to tax. That a person is resident of the U.K. for Convention purposes does not affect his or her status under Canadian law for non‑treaty purposes[30].
+[52] As respondent's counsel stated, Canada is required by international law to implement the substance of the provisions of the Convention[31]. To respect its obligation, Canada need not treat the applicant as a non‑resident of Canada for the purposes of the Act. Canada's responsibility is to insure that the applicant can obtain relief from Canadian taxation to which he is entitled under the Convention[32].
+[53] In summary, a liberal and purposive approach must be adopted when interpreting tax treaties, not a mechanical approach. I must look to the plain language of the treaty and to the intent of the parties. When looking for an inconsistency between the Act and a tax convention, it is the results that should be examined. An inconsistency only occurs if the result of the application of the Act is in contradiction with, or in violation of, the purposes of the Convention and I have not found this to be.
+SUBSECTION 250(5) OF THE ACT
+[54] Both parties also referred to subsection 250(5) of the Act, both submitting that it does not apply to the matter at bar, but for different reasons[33]. I agree that subsection 250(5) does not apply. I have not drawn any inferences or conclusions from the enactment of 250(5) that have affected my analysis of Article 4(2)
+ARTICLE 27(2)
+[55] If I am correct that the applicant remained a resident of Canada in 2002 insofar as the Act is concerned, notwithstanding that he is deemed a resident of the U.K. for purposes of the Convention, it is debateable if the respondent has to resort to Article 27(2) in order to assess the applicant. Nevertheless, I am addressing the positions of the parties.
+[56] Article 27(2) of the Convention addresses the U.K. tax treatment of non‑domiciled residents of the U.K. who are required to pay tax on foreign income only when it enters the U.K.
+[57] The applicant submits that Article 27(2) of the Convention does not entitle the Minister to assess tax against him under Part I of the Act on his non‑Canadian O&E income or any other Assessed Items on the basis that no amount of such income was remitted or received in the U.K. The applicant was not "relieved from tax in [Canada]" "… under any provision of [the] Convention" on the Assessed Items. Put simply, as I understand applicant's argument, this is because the applicant was not a resident of Canada for the purposes of both the Convention and the Act.
+[58] Therefore, the applicant declares, there was no tax from which he could have been relieved in Canada "under any provision of the [the] Convention" to which Article 27(2) could have applied. Applicant submits that Article 27(2) could only permit the Minister to assess tax under Part XIII of the Act. A U.K. resident who is a non‑resident of Canada and has received dividend or interest income from sources in Canada that are not remitted to or received in the U.K. can only be taxed by Canada at the rate of 25 percent. If the amounts of dividend and interest are remitted or received in the U.K., the tax is 15 percent for dividend and 10 percent for interest income, as provided in Articles 10 and 11 of the Convention respectively.
+[59] The Amended Agreed Statement of Facts does not specify the source of dividend and interest included in the Assessed Items. However, the respondent submits in her factum that the pleadings do and the parties are in agreement on the point, that the source of dividend and interest is Canada.
+[60] The respondent submits that the applicant received certain benefits as a direct or indirect shareholder of various corporations and such benefits are not covered by the Convention. As a resident of Canada for purposes of the Act, the applicant is liable for tax under Part I of the Act.
+[61] It is the respondent's view that the Convention allocates the right to tax between Canada and the U.K. on an item‑by‑item basis. Articles 10, 11 and 15, for example, allocate the right to tax dividend, interest and employment income basically depending on the source of the income in Canada and the U.K. If an item is not addressed in the Convention, Canada, insists the respondent, retains its right to tax the applicant on the basis of his residence in Canada. The respondent refers to David Ward's explanation in "The Other Income Article of Income Tax Treaties"[34]:
+Where a treaty does not include an other income article in any form, unfortunate effects can also occur for taxpayers who, under internal law, are residents of both contracting states for tax purposes. Although the dual resident article provides a series of rules by which the taxpayer is considered to be a resident of only one of two states for purposes of the treaty, the absence of the other income article means that the treaty does not extent to this other income of the taxpayer. Therefore, for taxation purposes in respect of the other income, the taxpayer continues to be resident of both states and may be liable to full double taxation on all such income, including that arising in each state and in third states.
+[62] Respondent's counsel referred to the current version of the Convention containing Article 20A, an "Other Income" provision[35]. This new provision generally allows the taxpayer's country of residence for the purposes of the Convention to tax items of income not specifically covered in earlier provisions of the Convention. Article 20A does not apply to the 2002 taxation year.
+[63] According to Article 27(2), as it applied for 2002, when a person is relieved from tax in Canada on certain income and under the U.K. law, that person is subject to tax in the U.K. in respect of the portion of that income that is remitted to or received in the U.K., Canada will relieve that person from tax only in respect of the portion of the amount of the income that is remitted to or received in the U.K. Professor Krishna agrees that, in these circumstances, the benefits available under the Convention shall apply only to amounts that are actually taxed in the U.K. by virtue of their remittance or receipt[36].d
+[64] The applicant's submission with respect to Article 27(2) is based wholly on the assumption that the applicant was not subject to tax in Canada on the Assessed Items since he was a non‑resident of Canada in 2002. And that is the applicant's problem. I have determined that he was a resident of Canada in 2002 for the purposes of the Act and, as such, liable for tax on his world income subject to any allocation by the Convention of taxing power between Canada and the U.K. Article 27(2) does apply to the applicant and the Canadian tax authority may assess the applicant since he was resident of Canada in 2002.
+[65] The applicant's O&E income in 2002 has its source in the United States, which is not party to the Convention. A number of commentators, such as Professor Vogel, are of the view that the purpose of Article 27(2) is to allow the state of source to tax income that has not been remitted to the person's country of residence. If I were to accept this interpretation, respondent's counsel submits, Canada would not retain the right to tax the applicant's O&E income derived from his employment in the United States in accordance with Part I of the Act. For this to be correct, that is Canada's right to tax is limited, counsel submits, words have to be read into the provision since there is no reference in Article 27(2) to the source of income or to the state in which it arises. (Article 27(2) speaks to relief of tax in a Contracting State and the person being subject to tax by reference to amounts remitted or received in the other Contracting State.)
+[66] Counsel for respondent referred to several tax conventions to which Canada is a party that contain a provision permitting it to tax income that has not been remitted to the person's country of residence. In some cases under such a provision, Canada, for example, may tax the income only where it is the source of the income[37] while others provisions are similar to Article 27(2) that do not refer to a source[38]. The U.K. also has entered different tax treaties where there are and are not references to source[39].
+[67] I agree with respondent that reading the words such as "arising in Canada" into Article 27(2) would distort the intended meaning of that provision of the Convention. I cannot fathom that Canadian and British negotiators would agree to hand over any taxing authority to a third country, in the case of the applicant, income from employment in the United States, to the Americans. The applicant was resident in Canada for purposes of the Act in 2002. As resident of Canada, he is subject to tax on his worldwide income, including income from employment in a third state unless the Convention determines otherwise, which it does not.
+[68] Therefore, I determine that the Minister of National Revenue may assess tax against the applicant on the basis that he was a resident of Canada for purposes of the Income Tax Act on any of the items described in subparagraphs 5(i) to (vi) and subparagraph 5(viii) of the Amended Amended Notice of Appeal.
+[69] The parties may make submissions in writing as to costs within 60 days.
+Signed at Ottawa, Canada, this 14th day of January 2014.
+“Gerald J. Rip”
+Rip C.J.
+CITATION: 2014 TCC 12
+COURT FILE NO.: 2008-2896(IT)G
+STYLE OF CAUSE: CONRAD BLACK v. THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: May 15 and 16, 2013
+REASONS FOR ORDER BY: The Honourable Gerald J. Rip, Chief Justice
+DATE OF ORDER: January 14, 2014
+APPEARANCES:
+Counsel for the Appellant:
+David C. Nathanson, Q.C.
+Adrienne K. Woodyard
+Counsel for the Respondent:
+Arnold H. Bornstein
+Diana Aird
+COUNSEL OF RECORD:
+For the Appellant:
+Name: David C. Nathanson, Q.C.
+Adrienne K. Woodyard
+Firm: Davis LLP
+Toronto, Ontario
+For the Respondent: William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Convention between the Government of Canada and the Government of the United Kingdom of Great Britain and Northern Ireland for the Avoidance of Double Taxation and the Prevention of Fiscal Evasion with respect to Tax on Income and Capital Gains ("Canada‑U.K. Tax Convention" or the “Convention”). The Canada-U.K. Tax Convention was signed in 1978 and came into force on December 17, 1980. First, Second and Third Protocols were signed on April 15, 1980, October 6, 1985 and May 7, 2003, respectively, and entered into force on December 18, 1980, December 23, 1985 and May 4, 2004, respectively.
+[2] The parties agree that any income from duties of offices or employment performed in the United Kingdom ("U.K.") are taxable only in the U.K.
+[3] The items described in subparagraphs 1(a) to 1 (g) of the Amended Agreed Statement of Facts are substantially identical to subparagraphs 5(i) to (vi) and subparagraph 5(viii) of the Amended Amended Notice of Appeal. The items in these subparagraphs are referred to in these reasons as "Assessed Items".
+[4] S.C. 1980‑81‑82‑83, c. 44, Part X.
+[5] Wolf v. The Queen, [2000] T.C.J. No. 686 (QL), at paras. 16‑20, rev'd on other grounds, 2002 FCA 96, para. 32; and Alchin v. The Queen, 2005 TCC 711, at paras. 1 and 54, 2004 FCA 206, rev'ing 2003 TCC 476. See also Gladden Estate v. Her Majesty The Queen, (1985) 1 C.T.C. 163 (F.C.T.D.) at pp. 166‑167, 85 DTC 5191.
+[6] [1995] 2 S.C.R. 802, para. 22; 95 DTC 5389, p. 5393.
+[7] [1985] 1 C.T.C. 163 (F.C.T.D.), at pp. 166‑167, 85 DTC 5188, p. 5191.
+[8] (1995) 2 S.C.R. at 827, para. 54 and 95 DTC 5389, p. 5396 to 5398.
+[9] Prevost Car Inc. v. Canada, 2009 FCA 57, paras. 10-11. (Provided the new commentaries do not conflict with the previous commentaries in existence at the time a specific treaty was entered into and there are no objections registered by the parties)
+[10] 1994 CarswellNat 1020 (FCA), aff'd [1961 1 S.C.R.]
+[11] [1984] 1 S.C.R. 536 at 578.
+[12] Construction of Statutes, 2nd ed. (Toronto: Butterworth's, 1985) at 87.
+[13] Fiscal evasion is not a concern in the matter at bar.
+[14] David A. Ward, Access to Treaty Benefits: Research Report Prepared for Advisory Panel on Canada's Systemof International Treaties (September 2008), pp. 2‑3.
+[15] 3rd ed.
+[16] Le Grand Robert de la Langue Française, 2ieme éd.
+[17] Friends of the Oldman River Society v. Canada (Minister of Transport), [1992] 1 S.C.R. 3.
+[18] OECD, Committee on Fiscal Affairs, Model Tax Convention on Income and Capital (updated 2010) (OECD, 2012), Commentary on the Articles of the Model Tax Convention, C(4)-1 at para. 4 [Commentaries].
+[19] Commentaries, C(4)-2 at paras. 6-7.
+[20] Commentaries, C(4)-5 at paras. 9-10.
+[21] Amsterdam: IBFD. 2010 at 66. See also at p. 77.
+[22] Klaus Vogel, Klaus Vogel on Double Taxation Conventions: A Commentary, 3d ed. (London: Kluwer Law, 1997) ("Vogel"), at 225, para. 13.
+[23] Vogel, supra, note 24 at 224, para. 9a. See also Michael Lang, Introduction to the Law of Double Taxation Conventions (Amsterdam: IBFD, 2010) at 66, paras. 162 and 177, paras. 206‑207 ("Lang"); Vern Krishna and Pamela Cross, The Canada‑U.K. Tax Treaty: Text and Commentary (Markham, Ont.: LexisNexis, 2005) at 80.
+[24] Hunter Douglas Ltd. v. The Queen, [1980] 1 F.C. 493 (F.C.T.D.); Allchin v. The Queen, 2005 TCC 71; Wolf v. the Queen, [2005] T.C.J. No 686, rev’d on other grounds, 2002 FCA 96, among others: Hausmann Estate v. The Queen, [1998] T.C.J. No. 401; Sommerer v. The Queen, 2011 TCC 12 at paras. 111‑113, aff'd 2012 FCA 207, para. 68; Gladden Estate, op at Note 7.
+[25] Paragraph 2(a) and 3 of Article 21 of the Convention.
+[26] Hunter Douglas, supra, at para. 37.
+[27] Allchin, supra, at para. 54.
+[28] Wolf, FCA, supra, at paras. 30 and 31.
+[29] RA 1995 ref. 69 (Supreme Administrative Court). Counsel for the applicant had the reasons translated into English.
+[30] Krishna, supra, p. 80.
+[31] Lang, supra, Note 25 at 32, para. 50.
+[32] Vogel, supra, Note 25 at 26, para. 45a and 224‑285, para. 12.
+[33] Subsection 250(5) of the Act was amended applicable after June 27, 1999. The parties agree that the applicant was not resident — see para. 4. Subsection 250(5) was amended applicable after June 27, 1999: S.C. 1999, c. 22 s. 82(4) applicable after February 24, 1998, S.C. 2001, c. 17 s. 190(1) applicable after June 27, 1999. The parties agree that the applicant was not resident of any country other than the U.K. in 2002 and he did not become a resident of any other country between 1992 and 2002. The applicant's position is that the enactment of subsection 250(5) of the Act should not be deemed to be or involve a declaration that the law was different prior to its enactment. The fact that subsection 250(5) does not apply to the applicant, applicant's counsel asserts, does not mean that he was a Canadian resident (and not a U.K. resident) for the purposes of the Act.
+The respondent states that subsection 250(5) does not apply because transitional rules prevent subsection 250(5) from applying to a Canadian resident individual who was a treaty resident of another country at the time subsection 250(5) became effective. Subsection 250(5) is a substantive change to the law. It replaced a provision that originally applied only to corporations.
+See Subsections 45(2) and 44(f) of the Interpretation Act that provide that the repeal and the re‑enactment of a provision are not presumed to change the law. However, amendments, repeals and re‑enactments to the Act usually represent a change in the law due to the nature, object and context of the Act: see Century Services Inc. v. Canada (A.G.), [2010] 3 S.C.R. 379; 2010 SCC 60 at para. 54, per Deschamps J., at para. 129, and Abella J. differ as to whether there was a substantial change in the repealed provision. See also Silicon Graphics Ltd. v. R., 2002 FCA 260 at para. 43. The amendment of Subsection 250(2) to apply to natural person, not only a corporation, may arguably be a substantial change. See also transitional rules.
+[34] Article 20A came into force in 2004 and reads as follows:
+1. Items of income beneficially owned by a resident of a Contracting State, wherever arising, not dealt with in the foregoing Articles of this Convention shall be taxable only in that State.
+1. Les éléments de revenu dont un résident d'un État contractant est le bénéficiaire effectif, d'où qu'ils proviennent, qui ne sont pas traités dans les articles précédents de la présente Convention ne sont imposables que dans cet État.
+…
+. . .
+3. Items Notwithstanding the provisions of paragraphs 1 and 2 of this Article, items of income of a resident of a Contracting State not dealt with in the foregoing Articles of this Convention and arising in the other Contracting State may also be taxed in that other State.
+3. Nonobstant les dispositions des paragraphes 1 et 2 du présent article, les éléments de revenu d'un résident d'un État contractant qui ne sont pas traités dans les articles précédents de la présente Convention et qui proviennent de l'autre État contractant sont aussi imposables dans cet autre État.
+[35] David A. Ward, et al, "The Other Income Article of Income Tax Treaties", (1990) 38 CTJ 233 at 268. See also, Lang, supra, at 116, para. 282.
+[36] Krishna at p. 222.
+[37] Singapore, Article XXI; Malaysia, Article XXIV; Malta, Article 28(2).
+[38] For example, Armenia, Article 28(5); Bulgaria, Article 28(3); Mexico, Article 26(4); Venezuela, Article 28(6); Hong Kong, Article 26(4).
+[39] Compare, for example, Barbados, Article 22(1) and U.S., Article 1(7).

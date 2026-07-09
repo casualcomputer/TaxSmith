@@ -1,0 +1,354 @@
+---
+title: "Opheim v. The King"
+source: "https://norma.lexum.com/tcc-cci/decisions/en/item/521586/index.do"
+last_modified: "2026-02-16"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2026 TCC 31"
+citation2: ""
+neutral_citation: "2026 TCC 31"
+decision_date: "2026-02-16"
+language: "en"
+item_id: "521586"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5614
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2026-02-24T09:02:47.395000+00:00"
+cases_cited_count: 6
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "c111981aa345a4606ae60a040a798112eec2840f8fb1a4d2eb07808219c78c44"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Opheim v. The King
+
+- Citation: 2026 TCC 31
+- Decision date: 2026-02-16
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5614, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Opheim v. The King
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2026-02-16
+Neutral citation
+2026 TCC 31
+File numbers
+2025-1546(IT)G
+Judges and Taxing Officers
+Michael U. Ezri
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2025-1546(IT)G
+BETWEEN:
+WANDA OPHEIM
+and all persons listed in schedule A attached hereto,
+Appellants,
+and
+HIS MAJESTY THE KING,
+Respondent
+Motion heard on February 10, 2026 at Toronto, Ontario
+Before: The Honourable Justice Michael U. Ezri
+Appearances:
+Counsel for the Appellants:
+Dov Whitman, Caroline Boulanger
+Counsel for the Respondent:
+Martin Beaudry; Marissa Figlarz
+ORDER
+The Appellants’ motion for a direction to designate David Hawreluk v. His Majesty the King, 2023-2276(IT)G as a lead case under Rule 146.1(2) of the Tax Court of Canada Rules (General Procedure) is dismissed in accordance with the attached Reasons for Order.
+The respondent is entitled to an order for costs.If the parties cannot agree on the terms for costs, the respondent has until March 27, 2026, to provide up to three pages of submissions on costs and, if it wishes, a one-page bill of costs.The Appellants have until April 17, 2026, to file up to four pages on costs and if they wish a one-page bill of costs.The respondent has until May 1 to file a one-page reply submission and if it wishes, a one-page amended bill of costs.
+Signed at this 16th day of February 2026.
+“Michael Ezri”
+Ezri J.
+Citation: 2026 TCC 31
+Date:20260216
+Docket: 2025-1546(IT)G
+BETWEEN:
+WANDA OPHEIM
+and all persons listed in schedule A attached hereto,
+Appellants,
+and
+HIS MAJESTY THE KING,
+Respondent,
+REASONS FOR ORDER
+Ezri J.
+[1] The Appellants herein (the Theta King Appellants or the Appellants and the Theta King Appeals as the context requires) are all subject to a Case Management Order issued by St-Hilaire CJ on November 16, 2025 (the CM Order).
+[2] The Theta King Appellants have moved (the “Motion”) to designate the case of David Hawreluk v His Majesty the King, 2023-2276 as the sole lead case in respect of the Theta King Appellants. Mr. Hawreluk and the Theta King Appellants are represented by the same counsel.
+[3] The Hawreluk appeal is not one of the Theta King Appeals because it is not subject to the CM Order. Hawreluk is an appeal that was filed some two years before any of the Theta King appeals were filed. It was set down for trial for 12 days commencing in April 2026. The parties to the Hawreluk appeal have advised the Court that they will present between them 10 witnesses, including three experts and some 500 documents in total.
+[4] The respondent in the Theta King Appeals opposes the Motion.
+[5] The respondent in Hawreluk had earlier asked to participate in the Motion and to have the right to make submissions. Alternatively, it asked to be relieved from the implied undertaking rule that might limit its ability to adduce discovery evidence from Hawreluk in response to the Motion. By Orders dated January 29, 2026, and January 30, 2026, I dismissed the request to participate but granted relief from the implied undertaking rule.
+[6] For the reasons that follow, I reject the Appellants’ request to unilaterally impose Hawreluk as a lead case on the respondent.
+The Appeals in brief [7] The appeals of Mr. Hawreluk and of the Theta King Appellants relate to a series of foreign exchange (forex or Fx) transactions (the Strategy). It is not disputed that they are similar if not identical transactions.
+[8] Theta King Inc. develops foreign exchange contracts. Red Jacket Capital distributes and sells the contracts. Kootenay Commercial Lending Trust provides short-term loans to the forex investors. Theta King has a parent company, Midnight Integrated Financial Inc. (Midnight);
+[9] Hawreluk and the Theta King Appellants contracted with Theta King using money loaned by Kootenay and bet that the Canadian dollar would either go up or down as against the US dollar over a 30-day period. For the “up” contract, if the US to Canadian Fx rate does not decline by more than 2.5 cents (sometimes increased to 3.5 cents)[1] at any time over the 30 days, the investor gets a fixed payout. If the rate goes up over the 30 days, the investor receives an additional payment. If the rate does decline by 2.5 cents, at any time, the investor loses everything. The “down” contract works just the same way, but paying out if the dollar goes down.
+[10] Each contract was in the amount of $800,000.
+[11] If the investor is correct, they have to repay the Kootenay loan with interest and they also have to pay out 85% of the gain that they receive on the contract
+[12] The Kootenay loan is non-recourse so if the investor loses on the contract, they do not repay the loan.
+[13] The loan amount was not the full $800,000 but only $700,000 so a loss on a contract could still cost $100,000. According to the Hawreluk reply to the notice of appeal, a loss on a contract would be mitigated by claiming that loss as a business loss. It is true that the forgiveness of the Kootenay debt would be included in reporting the investor’s income but it was contemplated, per the reply, that only one half of the forgiven amount would be included, presumably because it would be reported as being on capital account.
+[14] Contracts came in standard form, in modified form, which affected payout thresholds, and also in a volatility form where the volatility of the currency movements over the 30-day period affected payouts.
+[15] Mr. Hawreluk participated in all of the variations of the contracts described in the pleadings. I understand from the respondent’s submissions at the hearing of this motion that five of the Theta King Appellants did so as well.
+The Assessments [16] The Hawreluk and the Theta King Appellants were reassessed by the Canada Revenue Agency (CRA) on the basis that the arrangement constituted an unregistered tax shelter thus precluding tax deductions. The forgiveness amounts were also assessed as being inclusions in income account that fell outside certain debt forgiveness rules relied on by the Mr. Hawreluk and the Appellants.
+[17] Mr. Hawreluk’s assessment did not include recourse to the General Anti-Avoidance Rule (GAAR) in s. 245 of the Income Tax Act (ITA). However, the respondent included s. 245 as a ground relied on in its reply to the notice of appeal. The Hawreluk respondent pled as additional material facts, not previously assumed by the CRA, that the transactions conferred a tax benefit, that they were avoidance transactions and that they resulted in an abuse or misuse of several sections of the ITA.
+[18] The GAAR was invoked by the CRA in assessing all of the Theta King Appellants, except for those whose tax years were statute barred when assessed. As of the hearing date, the respondent had filed replies for all but two of the Theta King Appellants. The filed replies set out the assumptions of fact made by the CRA in respect of the application of the GAAR.
+[19] To illustrate, in the Waitzer appeal, the Minister assumed as a fact that the series of transactions, “results in a tax benefit” and that, “but-for the tax benefit, a reasonable investor would not consider the…Strategy to be a profitable investment”.[2] In Hawreluk, the additional allegations of fact pled by the Crown are that, “the participation in the…Strategy resulted in a tax benefit”, and “the primary purpose of the …Strategy was not to earn profits from speculating in” foreign currency exchange and fluctuations.[3]
+[20] The GAAR allegations are therefore similar in both cases but the assumptions in Waitzer (and the other Theta King Appeals) are presumably going to impose a burden on Mr. Waitzer to disprove the assumptions whereas presumably[4] the Crown has the burden of proving its additional allegations of fact in Hawreluk.
+[21] Against that backdrop, we can now turn to the lead cases rule:
+The Rules [22] Tax Court of Canada Rule 146.1 provides as follows:[5]
+146.1 (1) This section applies if
+(a) two or more appeals have been filed before the Court;
+(b) the Court has not made a decision disposing of any of the appeals; and
+(c) the appeals give rise to one or more common or related issues of fact or law.
+(2) The Court may give a direction
+(a) specifying one or more of the appeals referred to in subsection (1) as a lead case or lead cases; and
+(b) staying the related appeals.
+(3) If the Court gives a direction, each party in a related appeal who agrees to be bound, in whole or in part, by the decision in the lead case shall, within 10 days, file Form 146.1 with the Court.
+(4) If a party does not agree to be bound by the decision in the lead case, in whole or in part, or does not file Form 146.1 with the Court, the Court shall give a direction that the appeal is no longer stayed.
+(5) The Court may, on its own initiative or at the request of a party, give directions with respect to the related appeals, provide for their disposal or take further steps with respect to those appeals.
+(6) If a lead case or lead cases are withdrawn or disposed of before the Court makes a decision in relation to the common or related issues, the Court shall give directions as to
+(a) whether another appeal or other appeals are to be heard as the lead case or lead cases; and
+(b) whether any direction affecting the related appeals should be set aside or amended.
+146.1 (1) Le présent article s’applique si les conditions ci-après sont réunies:
+a) au moins deux appels ont été interjetés devant la Cour;
+b) aucun de ces appels n’a fait l’objet d’une décision le réglant;
+c) ces appels soulèvent une ou plusieurs questions communes ou connexes de fait ou de droit.
+(2) La Cour peut, par une directive :
+a) désigner parmi ces appels une cause type ou des causes types;
+b) suspendre les appels connexes.
+(3) Si la Cour donne une directive, toute partie dans un appel connexe qui accepte d’être liée — en tout ou en partie — par le jugement rendu dans la cause type, dépose la formule 146.1 auprès de la Cour dans les dix jours.
+(4) Dans le cas où une partie refuse d’être liée, en tout ou en partie, par le jugement rendu dans la cause type ou ne dépose pas la formule 146.1 auprès de la Cour, celle-ci donne une directive qui annule la suspension de l’appel.
+(5) La Cour peut, de son propre chef ou à la demande d’une partie, donner des directives concernant tout appel connexe, prévoir le règlement de ces appels ou prendre toute autre mesure relative à ceux-ci.
+(6) Si la cause type ou les causes types sont retirées ou réglées avant qu’elle ne rende une décision relativement aux questions communes ou connexes, la Cour donne des directives :
+a) sur la question de savoir si un autre appel ou d’autres appels doivent être entendus à titre de cause type ou de causes types;
+b) sur la question de savoir s’il convient d’annuler ou de modifier toute directive ayant une incidence sur les appels connexes.
+[23] Subrule (2) gives the Court unilateral authority to designate lead cases. It does not on its face require the consent of any party. The effect of the designation is to briefly stay related appeals.
+[24] However, subrule (3) requires that each party who agrees to be bound must sign and file Form 146.1 within 10 days. Per subrule (4) the Court must direct that each related appeal for which the form is not filed, is no longer stayed.
+[25] The Appellants argue that the reference to “each party” in subrule (3), refers only to each appellant and not to the respondent. The effect of that position is that a group of related appeals can be stayed pending the disposition of a lead case if the appellant signs the relevant form even if the respondent does not do so.
+[26] The Appellants further argue that when an appellant signs the form to be bound, it also binds the respondent. That is not stated in the text of the Rule but per the Appellants, the Rule would make no sense if the stay imposed under subrule 3 in exchange for an agreement to be bound could be undone by virtue of not also binding the respondent.
+[27] Both parties approached the interpretation of Rule 146.1 using the text, context and purpose (TCP) framework that is the standard for statutory interpretation. Both parties referenced the English and French texts and are to be commended for having done so.
+[28] Appellants’ counsel argued that the words of the Rule, especially the word “party” and phrases like “each party”, “a party” “toute partie” and “chaque partie” are ambiguous.
+[29] I don’t agree with the Appellants that the terminology used in the Rule is ambiguous. Instead, the Appellants are doing something else that can be part of a TCP analysis. They are using TCP to try to reveal a latent ambiguity in the text.[6] However, the TCP exercise cannot be used to create ambiguity where none exists. Keeping these principles in mind, I turn to the parties’ TCP arguments.
+Text [30] Subrule 3 requires “each party in a related appeal” to sign a Form 146.1. The Appellants argue that “party” in this context refers only to each Theta King Appellant and not to the respondent in each related appeal.
+[31] The text is on its face clear and unambiguous. For a related appeal, each party must sign Form 146.1. if they do so, they are bound by the result of the lead appeal(s) and their case remains stayed. If they do not, subrule (4) kicks in after 10 days and this court shall order that the case is no longer stayed.
+[32] “Party” is not defined in the Rules, but there is no dispute that the Appellants and respondents are each “parties”. “Party” cannot, on its face be limited to just the appellant in subrule (3).
+[33] “Each” is not an ambiguous word. It refers to each party in a related appeal. If a dictionary definition is required for “each”, the Cambridge online dictionary confirms that each means, “every thing person etc.”[7]
+[34] The French text of the Rule is equally clear with its phrase: “toute partie dans un appel connexe”. The Appellants and respondent shared a similar view on the meaning of “toute partie”. It means every party or any party.[8] Nothing turns on whether toute means “each” or “any”. Whether it is each party or any party, the point is still that a consenting party must file the form.
+[35] The text seems clear and there is no ambiguity. The text in either language states that for a given appeal each party must sign Form 146.1. If a party does not, the appeal is ordered to no longer be stayed under subrule (4).
+[36] Under a TCP approach that plain meaning simply needs to be applied. To do otherwise would contravene the Federal Court of Appeal holding in Cheema, citing to the Supreme Court in Placer Dome that:
+Where the legislative language of a provision is precise, we cannot use its underlying purpose to “supplant” clear language or “to create an unexpressed exception to clear language”: Placer Dome Canada Ltd. v. Ontario (Minister of Finance), 2006 SCC 20, [2006] 1 S.C.R. 715 at para. 23.[9]
+[37] However, because TCP can be used to reveal ambiguity, I now consider the argument that the context and purpose of the Rule narrow “each party” to only an appellant and that the rule binds the respondent when the appellant files a signed Form 146.1.
+Context [38] The context put to me by the Appellants considered the use of the word “party” and the words “toute” and “chacun” in the Rules. I start with “party”.
+Party [39] In most instances the word “party” is explicitly or implicitly capable of applying equally to the taxpayer or the Crown. This makes sense since the point of the rules is to confer the same rights and impose the same obligations on a party regardless of whether they are the appellant, the respondent, the Crown or the taxpayer.
+[40] For example, section 17.3 of the Tax Court of Canada Act (TCCA) prohibits oral discoveries for small cases unless “one of the parties applies for it”. Subsection 18.13(1) which governs moving cases back to the General Procedure is to the same effect. It can be invoked by the Court or by “either party”.
+[41] Sometimes the nature of the provision explicitly or by implication is not capable or applying equally to everyone. Section 16.1 of the TCCA is an example of a provision that limits the meaning of “party” to someone other than the Crown. It provides as follows:
+16.1 A hearing before the Court may, on the application of any party to a proceeding, other than Her Majesty in right of Canada or a Minister of the Crown, be held in camera if it is established to the satisfaction of the Court that the circumstances of the case justify in camera proceedings.
+[42] However, even section 16.1 can refer to an applicant or a respondent because there are some situations like an interlocutory proceeding where the Crown is the applicant. Likewise, Rule 29 while referring to the transmission of interest of a party, can never refer to the Crown since the Crown can never transmit its interest. The party whose interest is being transmitted would normally be the appellant unless the proceeding was a section 174 type proceeding in which case it would be the taxpayer as respondent. The same holds true for rule 29.1 which regulates parties under a disability.
+[43] Subrule 82(3) has specific provisions for affirming compliance with the lists of documents. Paragraphs (a) and (b) apply to individuals and corporations and paragraph (c) applies to the Crown. Rule 93 on nominees for examination also has provisions that are specific to the Crown.
+[44] So, “party” can mean appellant, respondent or applicant. Very occasionally where a party must be or cannot be the Crown, then the text so indicates regardless of whether the Crown is a respondent or where the Crown is, exceptionally, an applicant. But it is virtually never the case that party means only “appellant” or “applicant”.
+[45] Rule 25 is however an exception. In Rule 25, party can mean only an appellant:
+25 A party may join in a notice of appeal all assessments under appeal unless otherwise directed.
+“Party” here cannot be anyone other than an appellant because the notice of appeal in which all assessments are joined is a document that only the appellant can file.
+[46] The Appellants rely on Rule 25 to show that the word, “party” is ambiguous. I don’t agree. That argument is an example of using TCP to create an ambiguity in the text of Rule 146.1 where none exists.
+[47] We have seen that references to parties are almost never limited only to the appellant or respondent. Rule 25 is exceptional, and the text of that Rule makes it absolutely clear that party must mean only an appellant. That clarion indication is simply not found in Rule 146.1. The use of the word “party” in Rule 146.1 is indistinguishable from its use throughout the TCCA and the Rules where it refers to appellants, applicants and respondents equally. Contextual analysis reveals no ambiguity.
+Toute [48] The Appellants noted that subrule (3) is unusual in rendering the English word “each” as “toute”. In other rules, “each” is usually rendered as “chaque”. For example, Rule 126.1(4) requires each party to file a settlement conference brief and the French text renders “each” as “chaque”. However, this argument does not really lead anywhere. “Toute” does mean each and the Appellants could not really explain how using “chaque”, instead of “toute” means that “party” refers only to the appellant. “Any Party” can as easily be the respondent as the appellant in a tax case. Consistency of expression in a statute or regulation is a principle of statutory interpretation but minor discrepancies in word choice are not always indicative of a deeper or hidden meaning in the text. This difference in expression also feels like an exercise in creating an ambiguity where none exists, rather than revealing one.
+[49] Turning briefly to subrule (4), that provision is also unambiguous. The words, “a party” (une partie) are not limited to the appellant. It is the same phrase that is used approximately 133 times throughout the Rules. With the exception of Rule 25, the phrase is used to signal that it can apply equally to appellants, applicants and respondents. Nor is there any necessary implication that “a party” must be or cannot be the Crown as in s. 16.1 of the TCCA or Rules 29, 29.1 82 or 93 of the Rules. If “a party” does not agree to be bound, then the Court “shall” direct that the appeal is no longer stayed regardless of whether the party is the Crown or the taxpayer.
+the Form [50] Both parties referenced Form 146.1 to help interpret the rule. It is interesting to note that the form specified by subrule (3) does not seem to provide or require the signatures of both the appellant and respondent. It simply states in part, that:
+“The (party), name agrees to be bound by the final decision in the lead cases,…”
+This is followed by a place for the date and the signature of the party and signature of counsel for the party. On its face, the form can be signed by any party to an appeal, appellant or respondent. However, in the style of cause the only place that “name” is found, is in the space for the appellant’s name. This feels a bit redundant. By identifying the party, as either appellant or respondent, the name adds nothing. If the party is the respondent, then the name has to be His Majesty and if the party is the appellant, then the name has to be whatever the name of the appellant is, in the style of cause. If the name of the party is used, the designation of appellant or respondent is similarly redundant.
+[51] The respondent relies on the French version of the form. The French text reads:
+La partie (nom et désignation de la partie) accepte d’être liée
+The respondent relies in particular to the word "désignation" as requiring the party to indicate if they are the appellant or respondent. This may be a correct interpretation, but it raises a question as to why that is necessary. Once the name is filled in, it is either the appellant’s name or it is the respondent’s name. The “designation” seems rather superfluous.
+[52] As I was preparing these reasons, I did note that the immediately preceding form, 145(2) also has a similar requirement for expert witnesses. The style of cause has the word “nom” for the appellant which can be filled in. The body of the form provides as follows in English and French:
+I, (name), having been named as an expert witness by the (party), certify…
+Je soussigné(e), (nom), témoin expert désigné(e) par l’(partie) atteste…
+Form 145(2) makes more sense than Form 146.1. One cannot know by which party an expert has been retained so the certification requires that the party be specified. The word “désigné” has a clearer meaning as well in that it refers to having been named by a party.
+[53] What I take away from reviewing Form 146.1 is that it is not a model of clarity but good enough for its purpose. The issues raised by it, are not persuasive enough to reveal an ambiguity in the text of the Rule.
+[54] Having considered rule 146.1 in comparison to other Tax Court Rules, I want to now turn to the purpose of Rule 146.1.
+Rule 146.1: A response to the problem of similar appeals [55] For many years this Court has adjudicated disputes in which many taxpayers participate in similar or even identical transactions. In this case, the transactions involve similar or identically worded contracts with respect to the movement of currencies. In other cases, the transactions are charitable donation cases where hundreds or thousands of taxpayers donate money as part of a carefully conceived arrangement involving identical contracts, identical charities and identical intermediary parties and/or promoters.
+[56] The CRA reviews the transaction and for whatever reason rejects the desired tax treatment in whole or in part. The only difference between each resulting appeal is often the name on the notice of appeal, the tax years, and the amount of money transacted. Common sense dictates that there is no point in having each taxpayer laboriously trudge through the exercise of mounting an appeal and incurring needless costs when one case or a select group of cases can determine the major issues in dispute. Similar considerations apply to the Crown who may not wish to endlessly plead and prove arcane contracts and arrangements that are foundational to the CRA’s assessment, but which are often wholly foreign to unsophisticated taxpayers who just wanted to sign on the dotted line, get the anticipated tax treatment and move on with their lives.
+[57] Historically, there has been no mechanism to streamline such cases. There is no class proceedings legislation that applies to the Tax Court. The CRA can propose to bind parties to income tax determinations under s. 174 of the ITA and GST determinations under s. 311 of the Excise Tax Act and the parties can even do this voluntarily[10] but the mechanisms are clumsy and require including each taxpayer in the proceedings, assuming that the relevant taxpayers can be easily identified.
+[58] No later than June 2007, the problem of efficiently processing group appeals was raised at the Tax Court Bench and Bar committee (BBC), a committee whose membership includes the Court, and representatives from the private bar and the Department of Justice. The June 28, 2007, minutes note that, “Where there is a test case, the challenge is to bind the other appeals which have been held in abeyance”. The Rules Committee[11] was to take up the issue and make recommendations.
+[59] The April 2009 minutes of the BBC indicated that the CRA wanted to confirm a small number of reassessments which would move forward while the remaining objections would only be confirmed if the taxpayer refused to be bound by the results of the lead case. It was agreed that the Rules Committee would draft a rule to allow taxpayers to opt in to another taxpayer’s appeal such that they would be bound by the outcome of that other appeal.
+[60] The November 2009 BBC minutes indicated that a UK model would be followed with the Chief Justice specifying which appeals would move forward and which would not with the latter taxpayers being asked to confirm within 90 days whether they wished to be bound by the final judgment on the cases that moved forward. At that time there were some 112 groups comprising 200,000 assessments before this Court.
+[61] Shortly thereafter, in January 2010, this Court published Practice Note 17 with proposed lead case rules. The Note provided that:
+(3) When the Court makes a decision in respect of the common or related issues the Court shall send a copy of that decision to each party in each of the related cases.” [emphasis added]’
+(4) within 90 days after the date that the Court has sent a copy of the decision to a party under subsection (3), that party shall notify in writing the Court whether or not the party agrees to be bound by the decision in whole or in part.
+[62] Subrule 4 was more onerous than its current iteration. The parties[12] in receipt of a subrule 3 notice had to respond one way or another to the notice. Further, subrule 4 did not terminate the stay of a related appeal if a party opposed the decision to specify a lead case and stay the other appeals. It simply provided a mechanism to be bound or not bound by the decision but without any right of a party to insist that their stayed case move forward.
+[63] The explanatory notes published in a Tax Court Notice to the Profession were vague. They simply stated that the rule would allow the court to proceed with the lead cases “while others are stayed…”. It said nothing about who, as between appellants and respondents might invoke the rule.
+[64] The final version of Rule 146.1 was promulgated in February 2014 and is the version under consideration in this Motion. Subrule (4) was broadened to confer on a party the right to insist that a case move forward, by not signing Form 146.1, with no explicit restriction on which party that might be.
+[65] Completing the BBC review, the November 2011 minutes indicate that the Court in reviewing certain Department of Finance proposals to improve caseload management at the Tax Court, wanted a mechanism to achieve a class action effect for closely related appeals. The Department of Finance Backgrounder referenced in those notes, proposed, among other things, amendments to s. 174 of the ITA. The version in force at that time applied to parties involved in the same transactions and it was proposed to expand the provision to apply to taxpayers who were not part of the same transaction but rather engaged in identical or substantially similar transactions. The proposals did not contemplate legislative or regulatory changes that would allow taxpayers to unilaterally select lead cases.
+Rule 146.1 as class proceedings legislation [66] Drawing on the BBC minutes, specifically the November 2011 minutes, the Appellants argue that rule 146.1 should be analogized to, or viewed as, a class proceeding type of process. In particular, it is a process that is intended to bind the respondent in the same way that a class proceeding binds a defendant.
+[67] It would take much a much clearer statement of intent in Rule 146.1 to so find. I am not prepared to infer that a respondent is bound by an appellant’s choice to sign a Form 146.1 in the absence of clear wording to that effect. It is one thing to argue that the word “party” might be ambiguous enough to bear a limited meaning in the context of Rule 146.1. It is something else entirely to read into the rule words that don’t exist, and which would bind the respondent to a lead case absent their consent. On its face, the Rule does nothing more than stay appeals. Parties who agree to be bound, keep their appeals stayed, and parties who do not sign the Form are forced back into active litigation almost immediately under Rule 146.1(4).
+[68] It is useful to compare Rule 146.1 to actual class proceedings legislation. In Ontario, class proceedings are permitted under the Class Proceedings Act.[13] That 15000-word act has 39 sections, and a wealth of detail on how classes are determined, how defendants are classified, procedures for class actions and a host of other matters. It allows plaintiffs to organize as a class, but it also allows defendants to invoke the class proceedings rules.[14] Rule 146.1 is not class proceedings legislation.
+[69] Federally, there is no Class proceedings statute, but the Federal Court Rules include at Part 5.1, a detailed set of class proceedings rules. The annotation to the Rules states that:
+Part 5.1 is a modern class proceedings regime…The regime originated in a discussion paper published by the Rules Committee in June 2000 which drew upon the experience under the legislative schemes in Quebec, Ontario and British Columbia.[15]
+[70] If and when class proceedings legislation or rules are enacted/promulgated for tax appeals, the enabling provisions will clearly state that they are such and will undoubtedly follow a detailed consultative process to determine if and how such rules can be adapted to fit the unique legal environment in which this Court operates. Rule 146.1 is not a class proceedings regime and was never advertised as such. It does not expressly or by implication bind unwilling parties to lead cases.
+The Case law on Rule 146.1: Mariano [71] In Mariano, this Court summed up the Rule’s purpose thusly:
+The spirit and intention of the lead case rule is self-evident. The Court, in controlling its process, is able to utilize this rule to prevent being swamped by potentially thousands of like cases, and the costs and resources applicable thereto, by hearing select cases chosen presumably with a view to having strong precedential value that may hopefully resolve at least the majority of all potential appeals, if not all.
+[56] (…) In essence, the lead case rules are designed to potentially benefit and may benefit all interested players – the Court, the Crown, the appellants and the taxpayers at large… [16]
+[72] Appellants’ counsel noted paragraph 36 where this Court noted that Rule 146.1:
+“does not bind either the… Minister or any other taxpayer if the taxpayer does not agree to be bound…”
+That sentence implies according to Appellants’ counsel that if the taxpayer does agree to be bound, then he also binds the Minister.
+[73] It might be possible to read the paragraph in that manner, but the sentence is supported by no authority. That turn of phrase, without more, does not advance the analysis.
+4092325 Investments [74] Justice Smith of this Court also had occasion to consider whether Rule 146.1 could be invoked in the face of opposition from the respondent. After considering the Rule and in particular subrule (3) Smith J. wrote in 4092325 Investments that:
+[27] The word “party” must also include the Respondent. It does not matter that she is the same party in all appeals. Just as individual appellants in a Group can decline to be bound by the lead case(s), so too the Respondent as a “party”, may decide not to be bound in some or all of the Appeals. For example, the Respondent may be of the view that certain appeals forming part of a group are sufficiently distinct that they should be segregated and dealt with separately.[17]
+[75] Smith J. held the following with respect to the generic nature of Form 146.1:
+[28] A textual reading of the lead cases rule suggests quite clearly that if the Respondent opposes the granting of a direction, then all of the appeals in the Group are “no longer stayed”. This analysis is supported by a review of Form 146.1 which provides that the “party” (or “la partie” in French) must be described. If the intention had been that only Appellants (and their counsel, if any) were required to sign the generic form, then it would indicate “The Appellant”, followed by a space for his or her name. That is not the case as the “party” must be identified. This refers to the Appellant or the Respondent.[18]
+[76] In deciding against invoking the Rule, Smith J. recognized that it would be both impractical and unfair to insist on specifying a lead case in the face of an objection from the Respondent:
+[33] If the logical consequence of the Respondent’s decision not to consent to the lead cases rule is that all of the appeals in the Group are “no longer stayed”, then that is not, from a case management point of view, a very satisfactory result. The Court must, in the exercise of its discretion, look for another workable solution.
+[34] I have expressed the view that the lead cases rule is not appropriate in this instance. I will add that it would be very surprising indeed that a group of appellants involved in complex corporate transactions could foist the lead cases rule upon the Respondent who does not agree that its use is appropriate.[19]
+[77] Justice Smith went on to rely on Rule 26 of the Rules as the preferred method to advance the appeals before him.
+[78] Smith J.’s decision was upheld by the Federal Court of Appeal, but the appellate court was careful to indicate that it’s affirmation of the decision was not to be taken as an endorsement of this Court’s view that the Crown needs to consent in order for Rule 146.1 to be invoked.[20]
+Other Policy perspective [79] One of the policy issues that was not fully addressed by the Appellants here is that of co-operation and consensus building.
+[80] Mariano speaks of the need to have rules that permit the Court to manage large groups of related cases. The Appellants use that objective to argue that no interpretation of Rule 146.1, other than one that gives an appellant a unilateral right to bind itself and the Crown, achieves that purpose. That is not so.
+[81] It is open to parties to litigation to come to a consensus on which cases should be designated as lead cases. That happens all the time in this Court under Rule 146.1. Rule 146.1 is effective even absent the unilateral designation interpretation sought by the Appellants. That system is not perfect. This Court continues to grapple with charitable donation cases years after early lead cases are adjudicated, but that problem usually results from appellants who choose not to be bound by or accept the adverse outcomes of the lead cases for their particular charitable donation program.
+[82] There are few policy imperatives in this court more strongly fostered than ones that encourage parties to work collaboratively even though their relationship is fundamentally adversarial. Parties in litigation are encouraged to work out their own timetables, submit agreed statements of facts, make settlement offers, and otherwise move cases along efficiently. Parties that do so can obtain enhanced costs if they win their cases or minimize their costs if they lose. The work of this court would be significantly impeded if parties did not work collaboratively to bring cases to trial and to simplify the conduct of those cases.
+[83] The Appellants’ proposed interpretation of Rule 146.1 runs counter to the policy of having parties work collaboratively where possible. Instead of parties selecting cases together, appellants can attempt to unilaterally designate cases without ever trying to address the needs of the other party.
+[84] Even if I thought that Rule 146.1 was sufficiently ambiguous to require a consideration of policy as an interpretive aid, I have serious doubts that the need to control the litigation of related files is best achieved by an interpretation that gives one party unilateral power to select lead cases, even where that power is constrained by the court’s discretion to weigh in on that choice. I would be loath to interpret an ambiguous rule in such a way. I doubt that this Court could ever balance the myriad factors that go into selecting lead cases as comprehensively as adversarial parties who recognize that it is in their best interests, in terms of time and cost, to try and come to an agreement themselves.
+[85] So I agree that the purpose of Rule 146.1 is to give this Court the tools it needs to manage related cases, but I think that the most powerful tool in the Rule 146.1 arsenal is not the coercion of a unilateral designation of lead cases, but the consensus between adversaries that certain appeals can be brought forward to govern the outcome of dozens, hundreds or thousands of other appeals.
+Conclusion on TCP [86] The text of Rule 146.1 is clear. Each party must sign a direction to stay a related appeal. I have reviewed the materials provided to me by the Appellants in order to determine whether they reveal a legislative ambiguity. They do not. The BBC minutes do not clearly indicate an intent to allow appellants to unilaterally put cases into abeyance nor do they reveal any acquiescence to such a proposal by the Department of Justice representatives, still less to being bound, by the appellant’s choice, to abide result of the lead case. Neither the draft Rule published in 2010 nor the accompanying explanatory notes provide any basis to read the choice to be bound, as being limited to appellant taxpayers.
+The Interests of Justice [87] Given that the Federal Court of Appeal has not endorsed the interpretation of Rule 146.1 set out in the 4092325 decision I may be wrong to adopt the holding in that case. I therefore turn to the substance of the matter in subrule 146.1(2) and consider whether the Court, which may give a lead cases direction, should give the one requested by the Appellants here.
+[88] I am not persuaded by the Appellants that the interests of justice are well served by issuing the requested direction. My four areas of concern are these:
+1) The timing of the request to designate a lead case;
+2) Hawreluk as an appellant;
+3) Failure to try and negotiate a lead cases agreement; and
+4) The different burden of proof re GAAR as between Hawreluk and the Appellants.
+Timing of Request to designate a lead case [89] The timing of the Appellants’ request demonstrates that they are trying to gain a strategic or tactical advantage under the Rule. That is not necessarily improper, but in this case, it create an unfairness to the respondent and so undermines the interests of justice.
+The withholding from Respondent of information about cases similar to Hawreluk [90] Sixteen of the 21 Theta King Appeals were filed in this Court on August 1, 2025, with the rest following later. That date was less than two months after this Court’s June 3, 2025, scheduling order setting down Hawreluk for trial.
+[91] For 12 of those 16 appeals, the Respondent’s affidavits show that Mr. Whitman, who is also Mr. Hawreluk’s counsel, had been the representative who had filed notices of objection with the CRA on behalf of those taxpayers. The affidavits also show, based on the dates of the notices of objection, that those twelve taxpayers could have filed their appeals with the Tax Court well before June 3, 2025. For each of those appeals, Mr. Whitman, had filed the notices of objection more than 90 days before June 3, 2025.[21]
+[92] Eight[22] of the 12 appeals referenced above could have been filed with this Court as of March 31, 2025, which is the date that the Hawreluk parties filed their request with this Court for trial dates. And just to be clear, in every Theta King Appeal and in Hawreluk, the taxpayers did not wait for notices of confirmation before filing tax appeals.
+[93] Finally, three Theta King Appellants out of 21 were assessed before or just after Mr. Hawreluk, and for one of them, Jeffrey McCord, the notice of objection was again filed by Mr. Whitman. It was filed some nine months before the Hawreluk objection was filed. So, Jeffrey McCord’s appeal could have filed much earlier than that of Mr. Hawreluk, but that did not happen.
+[94] The Theta King Appellants adduced no evidence to explain why 16 appeals, including the twelve where Mr. Whitman was acting for the taxpayers at the objection stage, were not filed until August 1, 2025, and in particular why they were not filed until after a trial date was secured for Hawreluk.
+[95] Mr. Whitman offered “plausible explanations” for the timing, but no evidence on the point.
+[96] In light of the evidence that I have described, I find that that there was a strategy to hold back the 12 cases that were ready for appeal in June 2025, including the 8 that were ready in March 2025, until after Hawreluk had been set down for trial.
+[97] It was not just that the appeals were strategically delayed. The Theta King Appellants did not communicate with the Hawreluk Respondent to advise of the pending appeals. They permitted the Hawreluk respondent to conduct discoveries and set trial dates without ever knowing that other appeals were pending.
+[98] Only after Hawreluk was set down for trial did the Theta King Appellants begin to file their appeals and when they are finally all filed, the Appellants then sought to designate Hawreluk as a lead case. It took the respondent by surprise.
+Does it matter that the Respondent was kept in the dark as it dealt with Hawreluk? [99] The Appellants argue that it does not really matter whether they waited until Hawreluk was set down for trial before seeking to designate it a lead case. The respondents adduced no evidence that their conduct of Hawreluk would have been different had they known that it would be designated as a lead case. More generally, it is up to all parties to conduct cases as they think best. It is far from obvious that the respondent would have done anything differently had they known that Hawreluk might be designated a lead case, a few months before trial.
+[100] The most basic answer to that argument is to flip it around. If the late request to designate Hawreluk as a lead case does not matter, then why did the Appellants not raise the issue with the respondent earlier? I think it is because they perceived that waiting would confer a strategic or tactical advantage on them. If the Appellants perceived a strategic advantage in designating Hawreluk as a lead case just before trial, it is not unreasonable that the respondent perceives that it has been disadvantaged. That perception is important. The interests of justice require making some effort to ensure that the court process is not only fair but appears to be fair.
+[101] Nor is the issue limited to perception. I basically agree that that the respondent has been disadvantaged. It is simplistic to the point of naive to suggest that a party’s conduct of litigation will be the same regardless of whether or not they know that a tax appeal is a lead case.
+[102] Decisions about how aggressively to resource Hawreluk, or any case, how aggressively to initiate or respond to disputes over matters like pleadings or discovery refusals must be viewed through the lens of how important the case is. In a lead case, a party is more likely to aggressively contest such matters and to more fully resource the case. Each case in this Court is important to someone, but it may not merit a full-court press in the way that a lead case almost invariably does so merit. Nor is this a bad thing. Appeals need to be prosecuted and defended in a practical manner having regard to the legal and financial stakes in issue.
+[103] Rule 4 provides that the rules, including, of course, Rule 146.1 are to be liberally construed to secure the most expeditious and least expensive determination of every proceeding on its merits. That requirement would potentially be compromised if a party, appellant or respondent, had to constantly second-guess litigation decisions out of fear that their case might unbeknownst to them become a lead case, months or years after each decision was taken.
+[104] In so saying, I don’t ignore subrule 146.1(1) which permits the lead case rule to be invoked at any time where the proposed lead case and the related appeals are not yet decided. However, the interests of justice that come into play when a proposed case is far along the road to trial are quite different than when the lead case is just getting started. At the outset of an appeal, questions about resourcing, strategy, expert evidence, settlement options and other matters can be explored and considered within the lead case framework. The further the case progresses the more difficult that becomes. The closer a case is to trial, the more weight must be given to an adverse party’s opposition to designating that case as a lead case.
+[105] Here, the respondent’s evidence includes a letter dated January 13, 2026, from counsel for the Hawreluk respondent. They state that they would not have joined in certifying Hawreluk as ready for trial, if they had known of the Theta King Appellants’ intention to designate Hawreluk as a lead case. They were, per the letter, deprived of the opportunity to consider the necessity of third-party discovery.
+[106] The Appellants respond that the Hawreluk respondent can still subpoena third parties, but I think that misses the point. The functions of discovery are to prepare for trial, avoid surprises and narrow issues. This extends to third party discovery when granted. Now, those objectives have potentially been thwarted.
+[107] I also have to take into account that the Hawreluk case and indeed the Theta King Appeals are complex. The transactions are sophisticated; the legal arguments are technical and varied and include the GAAR. Designating a complex case as a lead appeal for a group of 21 other complex cases, weeks before the lead case goes to trial and in the face of opposition from an adverse party should set and does set off alarm bells. Granting such a request is unwise and I am not prepared to do it here.
+Hawreluk as the sole lead appellant [108] Mr. Hawreluk is a problematic lead appellant because the evidence adduced at the motion shows that he was just a participant in the Strategy. He knew little about the scheme in which he participated, and he took few if any steps to inform himself prior to discovery. According to the transcript evidence adduced from Mr. Hawreluk’s discovery:
+a. He didn’t understand the mechanics of the trades that he undertook;
+b. He could not find the presentation that had been emailed to him by the promoters of the trading Strategy;
+c. He did not understand the basics of the relationships between the parties, notably Theta King, Red Jacket and Kootenay or the roles of key participants like Theta King;
+d. He made no notes of his discussions with anyone about the Strategy and his recall of conversations was limited; and
+e. He knew nothing about how or why contract sizes, or pricing or maturity dates were set or changed.
+[109] On the other hand, there appear to be a number of Theta King Appellants who may have been more than participants or at least were more knowledgeable. Per the Hawreluk transcript and the various Replies filed in the Theta King appeals, they include:
+a. Kenneth McCord, a Theta King Appellant was the founder and CEO of Red Jacket;
+b. David Sanderson, a Theta King Appellant was the co-founder of Red Jacket;
+c. James Niosi, a Theta King Appellant who worked for Midnight where he allegedly designed and implemented trading strategies and where he acquired knowledge of the Strategy at the heart of the Hawreluk and Theta King appeals;
+d. Kenneth Yurkovich, a Theta King Appellant, who is the brother of Joseph Yurkovich, a lawyer at Miller Thomson; Joseph referred Kenneth to Dave Sanderson;
+e. Joseph Yurkovich, a Theta King Appellant, who was Kenneth’s brother as well as being a lawyer with Miller Thomson. Miller Thomson in turn were lawyers for Midnight; and
+f. Lawrence Wilder, a Theta King Appellant who was also a partner at Miller Thomson.
+[110] The disparity between these Theta King Appellants and Mr. Hawreluk, raises concerns that he is far from the best choice to be not only a lead appellant but the only lead appellant. Having more than one lead appellant might address this problem, but that option has not been pursued by the Theta King Appellants.
+[111] The Appellants’ choice to insist on a single lead appellant who may lack the knowledge of other Appellants raises the next issue to consider. There is no evidence to show that the Appellants had availed themselves of any options to try and negotiate a lead case agreement with the respondent.
+No Lead Appeal Negotiations [112] Earlier, I focused on the importance of collaboration where possible, in the context of tax litigation generally and lead cases specifically. I return again to that issue. If unilateral designations are permitted, they should generally be reserved as a response to serious and unreasonable intransigence on the part of an adverse party. The Appellants had many avenues open to them to forestall recourse to a unilateral designation. They could have done some or all of the following:
+a. Raised the lead cases issue with the respondent, in a timely manner;
+b. Raised the lead cases issue with this Court and requested case management or other similar measures, in a timely manner; and
+c. Negotiated to address legitimate issues that a lead cases designation usually entails i.e. deciding how many lead cases are needed and which files should move forward as such, whether Rule 82 Lists of Documents would be used, and various other matters.
+[113] The Appellants did none of those things. They rolled the dice on a strategic decision to force a unilateral lead case designation that took the respondent by surprise. That approach left no space or time for the respondent or this Court to consider other alternatives prior to the start of the Hawreluk trial. The Appellants have not done enough to show that they are entitled to a unilateral direction naming Hawreluk as the sole lead appeal for the Theta King Appeals.
+The GAAR burden of proof in Hawreluk and the Theta King appeals [114] The CRA did not invoke the GAAR in assessing Mr. Hawreluk but it did invoke the GAAR for almost every other Theta King Appellant. The result is that the respondent is more likely to bear the onus of proving in Hawreluk that the transactions provided a tax benefit and were avoidance transactions. In the Theta King cases, the Appellants are more likely to bear the onus of disproving those matters. The respondent complains that it is unfair for them to have as a lead case the only one where they bear the onus.
+[115] Lead cases should reflect the commonality of the issues in dispute. I see no reason why they should not also reflect the basic balance of who proves what in Tax Court. If the burden of proving facts in the group of cases tends to point in one direction, it makes sense to select lead cases with this in mind.
+[116] Hawreluk is not an optimal choice to serve as the sole lead case because the burden of proof on the GAAR is likely to be out of step with the burden of proof on the GAAR in the other Theta King appeals.
+Conclusion on Interests of Justice [117] The interests of justice in the Theta King Appeals are best served by Appellants’ and respondent’s counsel starting over on the question of lead cases. They can and should use best efforts to arrive at a consensus on selecting lead cases that allow each party to fully advance their positions on the issues of fact and law needed to property try these complex transactions. That has not happened to date. Instead, the Appellants have attempted to foist on the respondent a fait accompli by designating as a lead case, a file that is about to go to trial, with an appellant who does not appear to be a good choice to be the sole lead appellant, in the context of an appeal where the burden of proof is out of step with the burden of proof in the Theta King Appeals. The interests of justice will be compromised if Hawreluk is designated as the sole lead Theta King case at this time.
+Conclusion [118] The Appellants’ motion for a direction to designate Hawreluk as the lead case for the Theta King Appeals in the face of objections by the respondent must be dismissed. Rule 146.1 requires each party to a related appeal to consent to the designation failing which the stay order imposed under rule 146.1(2) must be lifted. The Rule does not by its text or by implication permit an appellant to bind the Crown to a designation.
+[119] The interests of justice are not well served by designating Hawreluk as the lead Theta King appeal. On the contrary, the interests of justice are compromised by such a designation, which would be imposed late, by surprise, without consent, with a problematic appellant, and with a burden of proof on a complex issue that is likely to be different from what is found in the other Theta King Appeals.
+Costs [120] The Appellants proposed an award of costs at Tariff. The respondent has sought an opportunity to make costs submissions if the parties cannot agree on costs as between themselves.
+[121] The respondent is entitled to an order for costs. If the parties cannot agree on the terms for costs, the respondent has until March 27, 2026, to provide up to three pages of submissions on costs and if it wishes a one-page bill of costs. The Appellants have until April 17, 2026, to file up to four pages on costs and if they wish a one-page bill of costs. The respondent has until May 1 to file a one-page reply and if it wishes a one page amended bill of costs.
+Signed this 16th day of February 2026.
+“Michael Ezri”
+Ezri J.
+SCHEDULE “A” - “Theta King Appellants”
+2025-1547(IT)GKenneth Yurkovich
+2025-1548(IT)GEdward James Waitzer
+2025-1549(IT)GAdam Nayak
+2025-1550(IT)GKenneth McCord
+2025-1551(IT)GRahul Bhandari
+2025-1552(IT)GJeffrey McCord
+2025-1553(IT)GJustin Lazerte
+2025-1554(IT)GCathy Iaboni
+2025-1555(IT)GPatrick Iaboni
+2025-1557(IT)GJoe D’Angelo
+2025-1558(IT)GJason Tremblay
+2025-1559(IT)GGregory Jones
+2025-1560(IT)GDavid Sanderson
+2025-1561(IT)GJames Niosi
+2025-1562(IT)GJoseph Yurkovich
+2025-1826(IT)GNeil Selfe
+2025-1827(IT)GChrisula Selfe
+2025-2028(IT)GLawrence Wilder
+2025-2472(IT)GGordon Deman
+2025-2655(IT)GMark Hurley
+CITATION:
+2026 TCC 31
+COURT FILE NO.:
+2025-1546(IT)G
+STYLE OF CAUSE:
+WANDA OPHEIM AND ALL PERSONS LISTED IN SCHEDULE A AND HIS MAJESTY THE KING
+PLACE OF HEARING:
+Ottawa, Ontario
+DATE OF HEARING:
+N/A
+REASONS FOR ORDER BY:
+The Honourable Justice Michael U. Ezri
+DATE OF ORDER:
+February 16, 2026
+WRITTEN SUBMISSIONS BY:
+Counsel for the Appellants:
+Dov Whitman, Caroline Boulanger
+Counsel for the Respondent:
+Martin Beaudry, Marissa Figlarz
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Dov Whitman, Caroline Boulanger
+Firm:
+KPMG Law LLP
+For the Respondent:
+Marie-Josée Hogue Deputy Attorney General of Canada Ottawa, Canada
+[1] The Hawreluk Contract writes this as $0.025 and $0.035 which I read 2.5 and 3.5 cents respectively.
+[2] Reply to notice of appeal in Waitzer, at paras 14 (uuu) and 14(xxx)
+[3] Hawreluk reply, at paras 15(d) and (g)
+[4] I say presumably because questions about burden of proof are the purview of the trial judge not a motions judge hearing a lead cases motion.
+[5] Tax Court of Canada Rules (General Procedure), SOR 90/688, as amended.
+[6] As contemplated in Canada Trustco v R, 2005 SCC 54, at para 47.
+[7] Cambridge Dictionary, “each,” online: <https://dictionary.cambridge.org/dictionary/english/each>
+[8] Respondent’s counsel cites the definition in the Cambridge French–English Dictionary: “tout,” online: <https://dictionary.cambridge.org/dictionary/french-english/tout>
+[9] R v Cheema, 2018 FCA 45, at para 74.
+[10] ITA, s. 173; ETA s. 310.
+[11] See Tax Court of Canada Act, RSC 1985, c T‑2, ss 20–22 (regarding the composition and powers of the Rules Committee).
+[12] In order to avoid begging the question, I leave open whether “parties” here means only appellants.
+[13] Class Proceedings Act, 1992, SO 1992 c. 6.
+[14] Ibid, s. 3.
+[15] B. Saunders, Justice D.J. Rennie, G. Garton, Federal Courts Practice, 2023 (Thomson Reuters: Toronto, 2022), at 759.
+[16] Mariano v. R, 2016 TCC 161, at paras 53 and 56.
+[17] 4092325 Investments v R. 2018 TCC 228.
+[18] Ibid, at para 28.
+[19] Ibid, at paras 33 and 34.
+[20] 4092325 Investments Ltd v R, 2019 FCA 225.
+[21] As required by ITA para 169(1)(b).
+[22] The objection of Rahul Bandari was only filed in January 2025 and so the assessment could not yet be appealed. The assessments of Cathy and Patrick Iaboni were actually objected to in July 2024, but further reassessments were issued in October, resulting in objections in January 2025. Out of an abundance of caution I exclude these taxpayers as well.

@@ -1,0 +1,143 @@
+Title: Persaud c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30273/index.do
+Corpus path: corpus/cases/tcc/2011/2011-cci-163-30273-persaud-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2011-03-16
+
+# Persaud c. La Reine
+
+- Citation: 2011 CCI 163
+- Decision date: 2011-03-16
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7982, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Persaud c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2011-03-16
+Référence neutre
+2011 CCI 163
+Numéro de dossier
+2010-803(IT)I
+Juges et Officiers taxateurs
+Georgette Anne Sheridan
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2010-803(IT)I
+ENTRE :
+NAVINDRA B. PERSAUD,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 12 janvier 2011 à London (Ontario)
+Devant : L’honorable juge G. A. Sheridan
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Me Hong Ky (Eric) Luu
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’encontre de la nouvelle cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2008 est rejeté conformément aux motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 16e jour de mars 2011.
+« G. A. Sheridan »
+Juge Sheridan
+Traduction certifiée conforme
+ce 19e jour de mai 2011.
+Marie‑Christine Gervais
+Référence : 2011CCI163
+Date : 20110316
+Dossier : 2010-803(IT)I
+ENTRE :
+NAVINDRA B. PERSAUD,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Sheridan
+[1] L’appelant, Navindra Persaud, interjette appel de la cotisation que le ministre du Revenu national (le « ministre ») a établie pour l’année d’imposition 2008. Le présent appel soulève deux questions à la fois distinctes et connexes : la question de savoir si l’appelant a le droit de déduire des montants en vertu du paragraphe 118(1) de la Loi de l’impôt sur le revenu (la « Loi ») à l’égard de sa fille âgée de deux ans et la question de savoir s’il peut déduire une somme de 40 000 $ au titre des frais juridiques qu’il soutient avoir engagés pour faire valoir le droit déjà existant de sa fille à une pension alimentaire.
+[2] Il incombait à l’appelant de démontrer que les hypothèses de fait sur lesquelles le ministre avait fondé sa cotisation étaient erronées. Les extraits pertinents du paragraphe 8 de la réponse à l’avis d’appel figurent ci-dessous.
+1. Personne à charge admissible et pension alimentaire
+[traduction]
+8. PERSONNE À CHARGE ADMISSIBLE ET PENSION ALIMENTAIRE :
+a. L’appelant et Angela Sarah Garcia‑Persaud (l’« ex-épouse ») ont une enfant, soit S.J.S.P., née en 2006 (l’« enfant »);
+b. pendant la période pertinente au cours de l’année d’imposition 2008, l’appelant et l’ex-épouse vivaient séparément pour cause d’échec de leur relation;
+c. l’appelant a versé à l’ex-épouse une pension alimentaire pour enfant au cours des 10 premiers mois de l’année d’imposition 2008;
+d. aucune ordonnance judiciaire n’a été rendue à l’égard de l’appelant et de l’ex‑épouse avant le 30 août 2006.
+[3] L’appelant n’a pas contesté le fait qu’en 2008, son ex-épouse et lui-même vivaient séparément et qu’il devait lui verser une pension alimentaire pour leur fille dont ils avaient la garde conjointe. Dans de telles circonstances, le paragraphe 118(5) de la Loi s’applique de façon à refuser la déduction que l’appelant demande pour sa fille au titre des alinéas 118(1)b) et 118(1)b.1) de la Loi.
+2. Frais juridiques
+[4] Le ministre a formulé les hypothèses de fait suivantes au sujet du refus de la déduction des frais juridiques :
+[traduction]
+8. FRAIS JURIDIQUES
+e) en 2008, l’appelant a payé des frais juridiques totalisant un montant de 80 984 $;
+f) les frais juridiques n’ont pas été engagés aux fins du recouvrement de l’arriéré de pension alimentaire;
+g) les frais juridiques n’ont pas été engagés en vue de la détermination d’un montant que devait lui verser son ex-épouse au titre de la pension alimentaire;
+h) les frais juridiques n’ont pas été engagés dans le but de rendre non imposable la pension alimentaire pour enfant
+[5] Le ministre a refusé la déduction des frais juridiques au motif que l’appelant les avait engagés pour obtenir une séparation ou un divorce, pour déterminer, négocier ou contester le montant de la pension alimentaire ou pour déterminer les droits de garde ou de visite à l’égard d’un enfant[1].
+[6] L’appelant soutient qu’il a engagé ces frais pour faire valoir le droit de sa fille à une pension alimentaire, de sorte qu’ils sont déductibles selon la jurisprudence.
+Les faits
+[7] Après un procès tenu en décembre 2007, le divorce a été prononcé entre l’appelant et son ex-épouse conformément à l’ordonnance du juge Thompson datée du 7 décembre 2007[2] (l’« ordonnance initiale de 2007 »). La date de prise d’effet du divorce était le 7 janvier 2008. La cour provinciale a rendu d’autres ordonnances au sujet de la fille de l’appelant et de son ex-épouse; ainsi, elle a attribué à ceux‑ci la garde conjointe de l’enfant, la résidence principale de celle-ci se trouvant chez celui des deux parents qui en avait la garde au moment pertinent. Des ordonnances prévoyant des droits de visite réguliers et des droits de visite pendant les vacances et les jours de congé ont été rendues.
+[8] Les ordonnances mentionnées ci-après revêtent une importance particulière pour le présent appel : selon le paragraphe 4, l’ex‑épouse de l’appelant devait veiller à ce que, au plus tard le 1er mars 2008, la fille des ex‑époux (qui, selon l’appelant, avait vécu en dehors de la province de l’Ontario avant l’audience) habite désormais à une distance de conduite de moins de deux heures de la résidence de l’appelant en Ontario. Avant le déménagement, l’appelant devait verser une pension alimentaire pour enfant de 500 $ par mois[3]; après le déménagement, cette somme a été portée à 790 $ par mois[4]. Conformément au paragraphe 14, les parties devaient s’échanger chaque année leurs déclarations de revenus et, [traduction] « au besoin, rajuster la pension alimentaire pour enfant ». Selon le paragraphe 31, toute autre question relative à [traduction] « ce qui est dans l’intérêt de [leur fille] » devait être tranchée par le juge Thompson.
+[9] Au cours de son témoignage, l’appelant a souligné que son ex-épouse n’avait pas fourni ses données financières comme l’exigeait le paragraphe 14. En conséquence, en 2008, il a présenté une requête afin, notamment, d’exiger le respect des dispositions du paragraphe 14 de l’ordonnance initiale de 2007 prévoyant la divulgation des renseignements financiers. La requête devait être présentée le 22 septembre 2008, mais la Cour en a reporté l’audition au 23 octobre de la même année (la « requête de 2008 »).
+[10] Dans une ordonnance datée du 23 octobre 2008[5] (l’« ordonnance de modification de 2008 »), le juge Thompson a modifié l’ordonnance initiale de 2007 : bien que les parties aient conservé la garde conjointe de leur fille, la résidence principale de celle‑ci est devenue celle de l’appelant, qui a également obtenu le droit de prendre en dernier ressort « les décisions majeures la concernant ». La Cour a supprimé le paragraphe 11, qui obligeait l’appelant à verser une pension alimentaire pour enfant de 790 $ par mois suivant le déménagement de l’enfant, et aucune autre ordonnance n’a été rendue à l’encontre de l’une ou l’autre des parties à l’égard de la pension alimentaire pour enfant. En ce qui a trait aux dispositions du paragraphe 14 concernant la divulgation des renseignements financiers, la Cour a ordonné que [traduction] « le paragraphe 14 de [l’ordonnance initiale de 2007] soit modifié par l’élimination de tout renvoi au rajustement de la pension alimentaire pour enfant »[6].
+[11] Bien que l’appelant ait d’abord cherché à déduire un montant de 80 000 $ à titre de frais juridiques, il a réduit ce montant à 40 000 $, conformément à une lettre[7] de l’avocat spécialisé en droit de la famille qui l’avait représenté au cours de l’instance en 2008. Voici le texte de cette lettre :
+[traduction]
+OBJET : Persaud v. Garcia
+Je confirme que vous avez payé un montant de 80 984 $ à titre de frais juridiques au cours de l’année civile 2008, lequel montant comprend la TPS.
+Le litige qui vous opposait à Mme Garcia devant la Cour supérieure de justice à Walkerton portait sur la garde de votre fille et sur la pension alimentaire pour enfant dont M. le juge Thompson a ordonné le paiement.
+En conséquence, je suis d’avis que 50 p. 100 des frais juridiques que vous avez payés en 2008 sont déductibles de votre revenu imposable en application des dispositions de la Loi de l’impôt sur le revenu, soit un montant de 40 492 $.
+J’espère que les renseignements qui précèdent répondent à votre demande.
+[12] La preuve comporte également cinq factures totalisant 19 082,30 $[8] que l’avocat de l’appelant a fait parvenir à celui-ci à l’égard de services rendus entre le 28 mars et le 4 novembre 2008. Il ne s’agit que de quelques‑unes des factures reçues en 2008; l’appelant les a remises à l’Agence du revenu du Canada à l’étape de l’opposition. Lorsqu’il s’est fait demander en contre-interrogatoire de préciser les éléments des factures qui se rapportaient à l’exécution du droit de sa fille à une pension alimentaire, l’appelant a répondu qu’il était incapable de le faire parce que les factures n’étaient pas suffisamment détaillées. C’est pourquoi il se fondait sur la déclaration que son avocat avait formulée dans la lettre et selon laquelle il avait le droit de déduire 50 p. 100 du montant total facturé en 2008.
+[13] Aucun des documents se rapportant à la requête de 2008 n’a été présenté à la Cour, sauf l’affidavit daté du 17 octobre 2008 que l’ex-épouse de l’appelant a produit[9]. En contre-interrogatoire, l’appelant a expliqué qu’il n’avait apporté aucun autre document, par exemple, l’avis de requête, parce qu’il ne croyait pas que ce serait nécessaire. Il a ajouté qu’il avait consacré beaucoup de temps à l’appel relatif au litige relevant du droit de la famille.
+Analyse
+[14] L’appelant a raison en principe lorsqu’il dit que les frais engagés pour faire valoir un droit déjà existant à une pension alimentaire pour enfant sont considérés comme des frais courants engagés pour tirer un revenu d’un bien, de sorte qu’ils sont déductibles en vertu de l’alinéa 18(1)a) de la Loi; Nadeau c. R., 2003 CAF 400, aux paragraphes 16 et 17. Cependant, la question est de savoir si les frais juridiques de 2008 ont été engagés à cette fin.
+[15] L’appelant a soutenu qu’il avait engagé les frais juridiques pour contraindre son ex-épouse à fournir les renseignements financiers dont la Cour avait besoin pour déterminer l’obligation de celle-ci de verser une pension alimentaire pour enfant conformément aux Lignes directrices, le cas échéant. Il s’ensuit qu’il a engagé ces frais pour faire valoir le droit de sa fille à une pension alimentaire, de sorte qu’ils sont déductibles. L’appelant a ajouté que sa situation était en tout point semblable à celle de la décision McColl c. R., [2000] A.C.I. no 335.
+[16] En ce qui a trait à la décision McColl, celle-ci peut être se distinguer de la présente affaire, étant donné que dans McColl la Cour était convaincue, à la lumière de la preuve de la contribuable, que celle-ci avait engagé les frais juridiques pour faire valoir le droit de ses enfants à une pension alimentaire. Tel ne saurait être le cas en l’espèce. Je conviens avec l’avocat de l’intimée que l’appelant n’a présenté aucun élément de preuve appuyant ses allégations. En l’absence, à tout le moins, de l’avis relatif à la requête de 2008, il est impossible de dire quels étaient les motifs précis de celle‑ci. Les documents dont la Cour a été saisie, soit l’ordonnance de modification de 2008 et l’affidavit de l’ex-épouse de l’appelant, ne suffisent pas à étayer la position de celui-ci. Dans l’ordonnance de modification de 2008, la cour provinciale n’a ordonné à aucune partie de verser une pension alimentaire pour enfant et toutes les directives concernant le rajustement de la pension alimentaire pour enfant ont été éliminées. En ce qui concerne l’affidavit de l’ex-épouse, il a été établi en réponse à celui que l’appelant avait produit au soutien de la requête de 2008. Cependant, la Cour n’a pas été saisie de cet affidavit précédent, de sorte que la moitié de l’histoire ne lui a pas été révélée. Ce que montre l’affidavit de l’ex-épouse, c’est que, à la date de la requête de 2008, de nombreux points litigieux opposaient les parties. Hormis ce constat, même lorsqu’il est lu à la lumière de l’ordonnance de modification de 2008, l’affidavit de l’ex-épouse ne permet pas en soi de dire que la requête de 2008 portait sur l’exécution du droit déjà existant de la fille de l’appelant à une pension alimentaire. Il est tout aussi possible que la requête de 2008 ait porté sur la réduction des montants que la cour provinciale avait initialement ordonné à l’appelant de payer.
+[17] La lettre de l’avocat de l’appelant spécialisé en droit de la famille et les factures relatives à quelques-uns des services rendus en 2008 n’aide pas non plus la cause de l’appelant. En ce qui concerne la lettre, elle renferme uniquement l’opinion de l’avocat au sujet du pourcentage des frais de 2008 qui devrait être déductible. Il aurait été plus utile que l’avocat décrive dans cette lettre les services qu’il a rendus pour contraindre l’ex-épouse à fournir ses renseignements financiers ou, de façon encore plus générale, pour déterminer les obligations alimentaires de celle‑ci envers son enfant. Même lorsque j’applique les règles plus souples de la procédure informelle, je ne puis accorder de poids à ce qui constitue un témoignage d’opinion sous forme de ouï-dire. De plus, lorsque l’appelant a eu la possibilité de corriger cette lacune en contre-interrogatoire en passant en revue les factures afin d’expliquer à quoi correspondaient les services énumérés, il n’a pu le faire. En tout état de cause, les factures présentées en preuve représentent moins de la moitié du montant de 40 000 $ que l’appelant a cherché à déduire à titre de frais juridiques.
+[18] En conséquence, l’appelant ne s’est pas acquitté du fardeau qui lui incombait de prouver son droit à une déduction pour les frais juridiques qu’il a engagés en 2008. La preuve dont je suis saisie n’étant pas suffisante pour justifier une modification de la nouvelle cotisation établie par le ministre du Revenu national, l’appel interjeté à l’égard de l’année d’imposition 2008 doit être rejeté.
+Signé à Ottawa, Canada, ce 16e jour de mars 2011.
+« G. A. Sheridan »
+Juge Sheridan
+Traduction certifiée conforme
+ce 19e jour de mai 2011.
+Marie‑Christine Gervais
+RÉFÉRENCE : 2011CCI163
+No DU DOSSIER DE LA COUR : 2010-803(IT)I
+INTITULÉ : NAVINDRA B. PERSAUD c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : London (Ontario)
+DATE DE L’AUDIENCE : Le 12 janvier 2011
+MOTIFS DU JUGEMENT : L’honorable juge G. A. Sheridan
+DATE DU JUGEMENT : Le 16 mars 2011
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Me Hong Ky (Eric) Luu
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Pièce R-3.
+[2] Pièce R-1.
+[3] Paragraphe 36.
+[4] Paragraphe 11.
+[5] Pièce A-1.
+[6] À l’alinéa 1i).
+[7] Pièce A-2.
+[8] Pièce R-4.
+[9] Pièce R-2.

@@ -1,0 +1,369 @@
+Title: Robertson Human Asset Management Inc. c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/66534/index.do
+Corpus path: corpus/cases/tcc/2014/2014-cci-23-66534-robertson-human-asset-management-inc-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2014-01-20
+
+# Robertson Human Asset Management Inc. c. M.R.N.
+
+- Citation: 2014 CCI 23
+- Decision date: 2014-01-20
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5996, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Robertson Human Asset Management Inc. c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2014-01-20
+Référence neutre
+2014 CCI 23
+Numéro de dossier
+2012-1075(EI), 2012-1076(CPP), 2012-1294(EI), 2012-1295(CPP), 2012-1296(EI), 2012-1297(CPP)
+Juges et Officiers taxateurs
+Valerie A. Miller
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2012-1075(EI)
+ENTRE :
+ROBERTSON HUMAN ASSET MANAGEMENT INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+DEBORAH KOSTIALIK,
+intervenante.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec les appels de
+Robertson Human Asset Management Inc. 2012-1076(CPP),
+2012-1294(EI), 2012-1295(CPP), 2012-1296(EI), 2012-1297(CPP)
+les 26, 27 et 28 mars 2013 à Toronto (Ontario)
+Devant : l’Honorable juge Valerie Miller
+Comparutions :
+Avocat de l’appelante :
+Me Robert A. Betts
+Avocates de l’intimé :
+Me Mindy Caterina-Neufeld
+Me Lesley L’Heureux
+Pour l’intervenante :
+L’intervenante elle-même
+____________________________________________________________________
+JUGEMENT
+L’appel concernant l’avis de cotisation daté du 16 mai 2011 que le ministre du Revenu national a établi aux termes de la Loi sur l’assurance-emploi pour les années 2007, 2008 et 2009 est rejeté et la décision du ministre du Revenu national est confirmée.
+Signé à Ottawa, Canada, ce 20e jour de janvier 2014.
+« V.A. Miller »
+Juge V.A. Miller
+Traduction certifiée conforme
+ce 3e jour de mars 2014
+Claude Leclerc, LL.B.
+Dossier : 2012-1076(EI)
+ENTRE :
+ROBERTSON HUMAN ASSET MANAGEMENT INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+DEBORAH KOSTIALIK,
+intervenante.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec les appels de
+Robertson Human Asset Management Inc. 2012-1075(EI),
+2012-1294(EI), 2012-1295(CPP), 2012-1296(EI), 2012-1297(CPP)
+les 26, 27 et 28 mars 2013 à Toronto (Ontario)
+Devant : l’Honorable juge Valerie Miller
+Comparutions :
+Avocat de l’appelante :
+Me Robert A. Betts
+Avocates de l’intimé :
+Me Mindy Caterina-Neufeld
+Me Lesley L’Heureux
+Pour l’intervenante :
+L’intervenante elle-même
+____________________________________________________________________
+JUGEMENT
+L’appel concernant l’avis de cotisation daté du 16 mai 2011 que le ministre du Revenu national a établi aux termes du Régime de pensions du Canada pour les années 2007, 2008 et 2009 est rejeté et la décision du ministre du Revenu national est confirmée.
+Signé à Ottawa, Canada, ce 20e jour de janvier 2014.
+« V.A. Miller »
+Juge V.A. Miller
+Traduction certifiée conforme
+ce 3e jour de mars 2014
+Claude Leclerc, LL.B.
+Dossier : 2012-1294(EI)
+ENTRE :
+ROBERTSON HUMAN ASSET MANAGEMENT INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu sur preuve commune avec les appels de
+Robertson Human Asset Management Inc. 2012-1075(EI),
+2012-1076(CPP), 2012-1295(CPP), 2012-1296(EI), 2012-1297(CPP)
+les 26, 27 et 28 mars 2013 à Toronto (Ontario)
+Devant : l’Honorable juge Valerie Miller
+Comparutions :
+Avocat de l’appelante :
+Me Robert A. Betts
+Avocates de l’intimé :
+Me Mindy Caterina-Neufeld
+Me Lesley L’Heureux
+____________________________________________________________________
+JUGEMENT
+L’appel concernant la décision que le ministre du Revenu national a rendue aux termes de la Loi sur l’assurance-emploi et selon laquelle Jackie Harris a exercé un emploi assurable auprès de l’appelante au cours de la période allant du 1er janvier 2010 au 3 septembre 2010 est rejeté et la décision du ministre du Revenu national est confirmée.
+Signé à Ottawa, Canada, ce 20e jour de janvier 2014.
+« V.A. Miller »
+Juge V.A. Miller
+Traduction certifiée conforme
+ce 3e jour de mars 2014
+Claude Leclerc, LL.B.
+Dossier : 2012-1295(CPP)
+ENTRE :
+ROBERTSON HUMAN ASSET MANAGEMENT INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec les appels de
+Robertson Human Asset Management Inc. 2012-1075(EI),
+2012-1076(CPP), 2012-1294(EI), 2012-1296(EI), 2012-1297(CPP)
+les 26, 27 et 28 mars 2013 à Toronto (Ontario)
+Devant : L’Honorable juge Valerie Miller
+Comparutions :
+Avocat de l’appelante :
+Me Robert A. Betts
+Avocates de l’intimé :
+Me Mindy Caterina-Neufeld
+Me Lesley L’Heureux
+____________________________________________________________________
+JUGEMENT
+L’appel concernant la décision que le ministre du Revenu national a rendue aux termes du Régime de pensions du Canada et selon laquelle Jackie Harris a exercé un emploi ouvrant droit à pension auprès de l’appelante au cours de la période allant du 1er janvier 2010 au 3 septembre 2010 est rejeté et la décision du ministre du Revenu national est confirmée.
+Signé à Ottawa, Canada, ce 20e jour de janvier 2014.
+« V.A. Miller »
+Juge V.A. Miller
+Traduction certifiée conforme
+ce 3e jour de mars 2014
+Claude Leclerc, LL.B.
+Dossier : 2012-1296(EI)
+ENTRE :
+ROBERTSON HUMAN ASSET MANAGEMENT INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec les appels de
+Robertson Human Asset Management Inc. 2012-1075(EI),
+2012-1076(CPP), 2012-1294(EI), 2012-1295(CPP), 2012-1297(CPP)
+les 26, 27 et 28 mars 2013 à Toronto (Ontario)
+Devant : L’Honorable juge Valerie Miller
+Comparutions :
+Avocat de l’appelante :
+Me Robert A. Betts
+Avocates de l’intimé :
+Me Mindy Caterina-Neufeld
+Me Lesley L’Heureux
+____________________________________________________________________
+JUGEMENT
+L’appel concernant la décision que le ministre du Revenu national a rendue aux termes de la Loi sur l’assurance-emploi et selon laquelle Jennifer Paton a exercé un emploi assurable auprès de l’appelante au cours de la période allant du 12 mai 2010 au 18 mars 2011 est rejeté et la décision du ministre du Revenu national est confirmée.
+Signé à Ottawa, Canada, ce 20e jour de janvier 2014.
+« V.A. Miller »
+Juge V.A. Miller
+Traduction certifiée conforme
+ce 3e jour de mars 2014
+Claude Leclerc, LL.B.
+Dossier : 2012-1297(CPP)
+ENTRE :
+ROBERTSON HUMAN ASSET MANAGEMENT INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec les appels de
+Robertson Human Asset Management Inc. 2012-1075(EI),
+2012-1076(CPP), 2012-1294(EI), 2012-1295(CPP), 2012-1296(EI)
+les 26, 27 et 28 mars 2013 à Toronto (Ontario)
+Devant : l’Honorable juge Valerie Miller
+Comparutions :
+Avocat de l’appelante :
+Me Robert A. Betts
+Avocates de l’intimé :
+Me Mindy Caterina-Neufeld
+Me Lesley L’Heureux
+____________________________________________________________________
+JUGEMENT
+L’appel concernant la décision que le ministre du Revenu national a rendue aux termes du Régime de pensions du Canada et selon laquelle Jennifer Paton a exercé un emploi ouvrant droit à pension auprès de l’appelante au cours de la période allant du 12 mai 2010 au 18 mars 2011 est rejeté et la décision du ministre du Revenu national est confirmée.
+Signé à Ottawa, Canada, ce 20e jour de janvier 2014.
+« V.A. Miller »
+Juge V.A. Miller
+Traduction certifiée conforme
+ce 3e jour de mars 2014
+Claude Leclerc, LL.B.
+Référence : 2014CCI23
+Date : 20140120
+Dossier : 2012-1075(EI)
+ENTRE :
+ROBERTSON HUMAN ASSET MANAGEMENT INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+DEBORAH KOSTIALIK,
+intervenante,
+Dossier : 2012-1076(CPP)
+ET ENTRE :
+ROBERTSON HUMAN ASSET MANAGEMENT INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+DEBORAH KOSTIALIK,
+intervenante,
+Dossier : 2012-1294(EI)
+ET ENTRE :
+ROBERTSON HUMAN ASSET MANAGEMENT INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+Dossier : 2012-1295(CPP)
+ET ENTRE :
+ROBERTSON HUMAN ASSET MANAGEMENT INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+Dossier : 2012-1296(EI)
+ET ENTRE :
+ROBERTSON HUMAN ASSET MANAGEMENT INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+Dossier : 2012-1297(CPP)
+ET ENTRE :
+ROBERTSON HUMAN ASSET MANAGEMENT INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+MOTIFS DU JUGEMENT
+La juge V.A. Miller
+[1] La question à trancher dans les présents appels est de savoir si les instructeurs qui ont travaillé pour l’appelante étaient des employés ou des entrepreneurs indépendants. Dans chaque appel, le ministre du Revenu national (le « ministre ») a conclu que les instructeurs étaient des employés. Les appels 2012-1075(EI) et 2012‑1076(CPP) concernent des cotisations datées du 1er mai 2011, dans lesquelles le ministre a conclu que les instructeurs de l’appelante avaient exercé un emploi assurable et un emploi ouvrant droit à pension auprès d’elle en 2007, 2008 et 2009. Les cotisations concernaient trente-deux (32) instructeurs. Les appels 2012-1294(EI) et 2012-1295(CPP) concernent des décisions dans lesquelles le ministre a conclu que Jackie Harris a exercé un emploi assurable et un emploi ouvrant droit à pension auprès de l’appelante au cours de la période allant du 1er janvier 2010 au 3 septembre 2010. Les appels 2012-1296(EI) et 2012-1297(CPP) concernent des décisions dans lesquelles le ministre a conclu que Jennifer Paton a exercé un emploi assurable et un emploi ouvrant droit à pension auprès de l’appelante au cours de la période allant du 12 mai 2010 au 18 mars 2011. Les appels ont été entendus sur preuve commune.
+[2] Les témoins de l’appelante étaient Linda Robertson, Jurgen Schoenefeld et Tommy Wong, tandis que Renee Lowe, Jacqueline Harris, Jennifer Paton, Sarah Gamm et Debbie Gwilt ont témoigné pour le compte de l’intimé. L’intervenante, Deborah Kostialik, a également témoigné.
+[3] L’appelante a été constituée en société en 2000 et Linda Robertson et son conjoint détenaient chacun cinquante pour cent de ses actions.
+[4] Au cours de la période en cause, l’appelante comptait deux divisions, soit une division des ressources humaines et du recrutement et une division des actifs de carrière. Les présents appels concernent la division des actifs de carrière de l’appelante, qui exploitait sept collèges de formation professionnelle privée (les « collèges ») dans le sud de l’Ontario. Ces collèges se trouvaient à Hamilton, à Mississauga, à Oshawa, à Scarborough, à St. Catharines, à Toronto et à Woodbridge.
+[5] Les étudiants de l’appelante étaient des adultes qui avaient été blessés au travail et qui devaient suivre une formation de recyclage. Avant la fin de 2010, les étudiants étaient dirigés vers l’appelante par des entreprises qui s’occupaient de la gestion des limitations fonctionnelles (les « clients »), comme Cascade Disability Management, Sibley and Associates et RCS Disability Management, qui avaient conclu des contrats avec la Commission de la sécurité professionnelle et de l’assurance contre les accidents du travail (CSPAAT). Les entreprises spécialisées dans la gestion des limitations fonctionnelles affectaient à chaque étudiant un consultant en réadaptation professionnelle (CRP) afin de l’aider à déterminer ses objectifs professionnels. Le CRP dirigeait ensuite l’étudiant vers l’appelante et demandait une proposition relative à un programme éducatif susceptible de permettre à l’étudiant d’atteindre ses objectifs professionnels.
+[6] Par la suite, l’appelante évaluait le niveau de scolarité de l’étudiant à l’aide du Canadian Adult Achievement Test (« CAAT ») (épreuve canadienne de rendement pour adultes). Elle faisait ensuite parvenir une proposition écrite à son client ainsi que le résultat du CAAT que l’étudiant avait passé et les programmes recommandés pour celui-ci. La proposition était très détaillée. Elle faisait état du ratio étudiants‑enseignant pour chaque cours, de la durée de chaque cours par jour, du nombre de jours par semaine et du nombre de semaines au cours desquelles l’étudiant devait fréquenter le collège de l’appelante. Elle comportait également le nombre d’heures à consacrer aux devoirs et, enfin, le coût total des programmes proposés. Une fois qu’il avait accepté la proposition, le client faisait parvenir à l’appelante une lettre de parrainage dans laquelle il confirmait la formation qui serait offerte à l’étudiant et le collège que celui-ci fréquenterait. Selon la lettre de parrainage, l’appelante devait également faire parvenir au client des fiches de présence et des rapports d’étape tous les mois et donner un avis immédiat de tout obstacle pouvant empêcher l’étudiant de terminer le programme dans le délai prévu.
+[7] Entre 2007 et 2010, le nombre d’étudiants inscrits auprès de l’appelante a fluctué; cependant, à son apogée, le programme de l’appelante a compté de 70 à 120 étudiants qui y étaient inscrits en même temps. À la fin de 2010, la CSPAAT a cessé progressivement d’avoir recours aux entreprises spécialisées dans la gestion des limitations fonctionnelles et l’appelante a conclu une entente directement avec la Commission.
+[8] L’appelante offrait tant des programmes de formation générale que des programmes de formation professionnelle. Le ratio étudiants-enseignant était de 3:1 dans le cas des cours de formation générale et de 5:1 dans le cas des cours de formation professionnelle.
+[9] Tous les programmes offerts par l’appelante étaient des programmes d’apprentissage rapide et comportaient de l’apprentissage autodirigé. Il y avait des inscriptions continues, de sorte que chaque cours pouvait compter des étudiants ayant atteint différents niveaux et se trouvant à différents endroits dans le cadre du programme. Les étudiants recevaient habituellement un enseignement individuel d’une durée de 45 minutes, puis travaillaient seuls pendant le reste du cours.
+[10] L’appelante a embauché des personnes pour occuper l’un des quatre postes suivants : responsable du programme, directeur de centre, instructeur principal et instructeur.
+[11] Le responsable du programme était un employé chargé de superviser les collèges, de diriger les directeurs de centre et d’exercer les fonctions de ceux-ci en cas d’indisponibilité de l’un deux.
+[12] Les directeurs de centre étaient des employés qui étaient chargés de surveiller l’exploitation et l’administration d’un collège donné. Ils géraient les programmes de leur collège et étaient aussi responsables du développement des activités. Ils devaient rencontrer les clients et les étudiants. Ils supervisaient les instructeurs principaux et, à mon avis, ils étaient également chargés de superviser les instructeurs. Je reviendrai sur cette question plus loin dans mon analyse.
+[13] Les instructeurs principaux étaient des employés qui exécutaient une partie des tâches accomplies par les instructeurs. Cependant, ils recevaient également une formation pour apprendre les rudiments de l’entreprise de l’appelante afin de pouvoir devenir des directeurs de centre. Au cours de la période en cause, l’appelante comptait trois instructeurs principaux.
+[14] Les instructeurs, qui sont les travailleurs concernés dans les présents appels, étaient engagés pour enseigner aux étudiants. Ils ont conclu avec l’appelante un contrat appelé « Independent Contractor Agreement – Training Instructor » (contrat d’entrepreneur indépendant – instructeur). Selon l’une des conditions du contrat, l’instructeur reconnaissait qu’il était un entrepreneur indépendant.
+[15] Toutes les personnes engagées en qualité d’instructeurs avaient poursuivi des études pour devenir enseignants ou, comme dans le cas de Deborah Kostialik, possédaient une expertise en enseignement dans un domaine précis.
+[16] Voici une courte description du rôle de chaque témoin au sein de l’entreprise de l’appelante :
+a) Linda Robertson est la présidente et directrice générale de l’appelante et, au cours des années en cause, elle en était l’âme dirigeante.
+b) Jurgen Schoenefeld est un enseignant semi-retraité qui a travaillé en qualité d’instructeur pour l’appelante au collège de celle-ci situé à Oshawa de novembre 2008 à décembre 2011. Au cours de cette période, il a également exploité une entreprise appelée Canadian Scholastic Achievement League, qui offrait aux écoles la possibilité de participer à des concours académiques. Lorsqu’il a travaillé pour l’appelante, il a enseigné les mathématiques, l’anglais, la culture informatique et le service à la clientèle, en plus de donner de la formation en matière de recherche d’emploi.
+c) Tommy Wong est un enseignant au niveau secondaire à la retraite qui a travaillé pendant 31 ans au sein du système d’écoles publiques, où il a enseigné les mathématiques et les sciences et donné des cours d’éducation alternative. Il a été engagé par l’appelante en septembre 2008 et a enseigné aux collèges de celle-ci situés à Scarborough et à Oshawa. Lorsqu’il a travaillé pour l’appelante, il a enseigné les mathématiques, l’informatique et le service à la clientèle.
+d) Deborah Kostialik est intervenue dans les présents appels. Elle s’est décrite comme une enseignante, monitrice et formatrice. De juillet 2006 à juin 2011, elle a travaillé pour l’appelante comme instructrice au collège de celle-ci situé à St. Catharines, où elle a enseigné les applications informatiques, le service à la clientèle, la comptabilité et l’administration de bureau. Avant de travailler pour l’appelante, elle avait démarré une entreprise de services de consultation, qu’elle a continué à exploiter tout en travaillant pour l’appelante. Au cours de cette même période, elle a également fait partie du corps professoral du Niagara College of Applied Arts & Technology en qualité de professeure à temps partiel.
+e) Renee Lowe a été engagée par l’appelante en janvier 2007 à titre d’instructrice au collège d’Oshawa. Elle avait obtenu son diplôme d’un collège privé et était autorisée à enseigner de la maternelle à la 8e année. Lorsqu’elle a travaillé pour l’appelante, elle a enseigné l’ALS, les mathématiques et l’anglais. En janvier 2008, elle est devenue la directrice de centre au collège de Mississauga; par la suite, en 2010, elle a été nommée responsable du programme de l’appelante.
+f) Jacqueline Harris est titulaire d’un baccalauréat en éducation. Elle a été engagée à titre d’instructrice en octobre 2009 afin d’enseigner l’informatique et l’administration médicale et de donner de la formation en recherche d’emploi au collège de l’appelante situé à Oshawa. Quelque temps en 2010, Mme Harris est devenue instructrice principale pour l’appelante. Elle a cessé de travailler pour celle-ci en septembre 2010.
+g) Jennifer Paton est également titulaire d’un baccalauréat en éducation. Elle a travaillé comme instructrice pour l’appelante d’avril 2010 à janvier 2011 au collège d’Oshawa. Elle a donné des cours de rattrapage scolaire ainsi que de la formation dans les domaines du service à la clientèle, de la recherche d’emploi et de l’informatique.
+h) Sarah Gamm est titulaire d’un baccalauréat en éducation et a été instructrice pour l’appelante de juillet 2009 à décembre 2011. Pendant cette période, elle a travaillé sur une base intermittente au collège de St. Catharines, puis à celui de Hamilton, où elle a enseigné les mathématiques, l’anglais, l’ALS, l’informatique, le service à la clientèle, l’administration de bureau et le programme Dragon Speaking (reconnaissance vocale).
+i) Debbie Gwilt a été engagée par l’appelante à titre de directrice de centre pour le collège d’Oshawa. En août 2010, elle a également accepté de prendre en charge le collège de Scarborough. Elle touchait un salaire annuel de 45 000 $ ainsi qu’une commission et a travaillé pour l’appelante de janvier 2010 à novembre 2010.
+[17] Pour déterminer si les instructeurs étaient des employés ou des entrepreneurs indépendants lorsqu’ils ont travaillé pour l’appelante, il faut savoir s’ils fournissaient leurs services en tant que personnes travaillant à leur propre compte : 671122 Ontario Ltd c Sagaz Industries Canada Inc, [2001] 2 RCS 983. À cet égard, l’intention des parties revêt une importance particulière et j’appliquerai les facteurs énoncés dans l’arrêt Wiebe Door Services Ltd c MRN, [1986] 3 CF 553(CAF), pour analyser la relation de travail qui existait entre les instructeurs et l’appelante en vue de vérifier si cette relation est conforme à leur intention. Ces facteurs sont le contrôle, la propriété des instruments de travail, la possibilité de profit et le risque de perte.
+Intention
+[18] Au cours de leur témoignage, Jurgen Schoenefeld, Tommy Wong et Deborah Kostialik ont déclaré qu’ils avaient l’intention de travailler pour l’appelante en qualité d’entrepreneurs indépendants. Cependant, Jacqueline Harris, Jennifer Paton et Sarah Gamm ont affirmé qu’elles ne comprenaient pas le sens de l’expression « entrepreneur indépendant ». Même si elles n’ont pas tout à fait saisi le sens de cette expression, elles ont été informées qu’aucun montant ne serait retenu de leur salaire au titre de l’impôt et qu’elles pourraient déduire les frais qu’elles engageraient dans le cadre de la prestation de leurs services.
+[19] Tous les instructeurs ont signé avec l’appelante un contrat dans lequel ils ont reconnu qu’ils seraient engagés en qualité d’entrepreneurs indépendants et non d’employés de l’appelante. À mon avis, tous les instructeurs avaient l’intention d’agir en qualité d’entrepreneurs indépendants.
+Contrôle
+[20] Lorsque les instructeurs ont été engagés, ils ont assisté à une séance d’orientation au cours de laquelle ils ont visité l’établissement où ils enseigneraient; de plus, ils ont lu le manuel des politiques et procédures de l’appelante et signé un document dans lequel ils ont accepté les conditions du manuel en question. Ils ont également signé un document intitulé « New Instructor Check List » (liste de contrôle des nouveaux instructeurs), auquel ils devaient se conformer et, enfin, ils ont reçu une formation sur les procédures d’évacuation en cas d’incendie et sur les différentes procédures qu’ils devaient suivre. Ces procédures comprenaient la préparation de certains rapports quotidiens, hebdomadaires et mensuels.
+[21] En ce qui a trait au manuel des politiques et procédures, les instructeurs ont convenu que toutes les questions concernant les étudiants, les programmes de ceux-ci et les collèges devaient être acheminées à la coordinatrice des programmes, Renee Lowe. Debbie Gwilt et Sarah Gamm ont confirmé que l’appelante était responsable des programmes des étudiants. Lorsque Renee Lowe était directrice de programme, elle informait les instructeurs des dates auxquelles des changements seraient apportés aux programmes des étudiants et de la nature des changements en question. Ainsi, lorsqu’un étudiant n’obtenait pas le rendement exigé, c’est Renee Lowe, et non l’instructeur, qui déterminait les changements à apporter au programme de l’étudiant.
+[22] Les horaires d’enseignement des instructeurs et la taille de la classe étaient fixés par le directeur de centre en fonction du nombre d’étudiants dirigés vers l’appelante. Les instructeurs n’étaient pas consultés lorsque d’autres étudiants étaient ajoutés à leurs cours.
+[23] L’appelante exigeait des instructeurs qu’ils remettent une fiche des présences quotidiennes des étudiants, des mises à jour hebdomadaires concernant le progrès de chaque étudiant et des rapports d’étape mensuels faisant état du nombre d’heures passées en classe, des devoirs et des résultats des questionnaires et examens, des matières couvertes ainsi que des points forts et des difficultés des étudiants. Selon Jacqueline Harris, elle se faisait parfois dire quoi écrire dans les rapports mensuels (voir la pièce R-2, onglet 2A).
+[24] Les instructeurs recevaient un cartable contenant le programme d’études et les lignes directrices de chaque cours qu’ils enseignaient. Même s’ils devaient préparer leurs propres plans de leçon pour les cours, les instructeurs étaient tenus de suivre les lignes directrices. S’ils voulaient s’éloigner des lignes directrices, ils devaient obtenir l’approbation du directeur de programme. Les lignes directrices relatives aux cours de formation générale étaient détaillées au point où elles accordaient à l’instructeur très peu de marge de manœuvre quant à la façon d’enseigner les cours. Cependant, à l’exception de Jacqueline Harris, tous les témoins ont affirmé que l’appelante ne leur disait pas comment enseigner. Ils ont déclaré qu’ils se fondaient sur leur propre formation et leur propre expérience pour préparer les plans de leçon qu’ils utilisaient pour enseigner à leurs étudiants.
+[25] À mon avis, il est normal qu’une personne engagée en raison de sa compétence soit autorisée à se servir de celle-ci pour accomplir ses tâches. Le fait que les instructeurs préparaient les plans de leçon dont ils se servaient pour enseigner à leurs étudiants ne touche pas la décision relative à la question de savoir s’ils étaient des employés ou des entrepreneurs indépendants.
+[26] Les instructeurs étaient tenus de donner des devoirs aux étudiants, sauf s’ils recevaient des directives contraires du directeur de programme ou de Linda Robertson.
+[27] Les instructeurs avaient des réunions d’étape hebdomadaires avec les directeurs de centre. Debbie Gwilt a précisé qu’elle rencontrait chacun des instructeurs tous les lundis matins. Bien que Debbie Kostialik ait affirmé avoir exprimé son opposition lorsqu’elle s’est fait demander d’être présente aux réunions hebdomadaires, je souligne qu’elle a affirmé avoir participé aux réunions parce que Linda Robertson le lui demandait.
+[28] Aucun instructeur n’a déclaré avoir reçu une évaluation écrite de son rendement. Cependant, j’en suis arrivée à la conclusion que l’appelante passait en revue le rendement des instructeurs et supervisait ceux-ci. Ma conclusion repose sur les éléments de preuve suivants :
+a) Linda Robertson a déclaré au cours de son témoignage que les instructeurs étaient les personnes qui fournissaient les services offerts par l’appelante et que celle-ci les évaluait quant à la façon dont ils exécutaient les services et dont les étudiants progressaient.
+b) Debbie Gwilt a déclaré que l’une des fonctions qu’elle devait exercer en qualité de directrice de centre consistait à s’asseoir dans les classes des instructeurs afin de vérifier l’utilisation que les instructeurs faisaient du tableau blanc ainsi que l’interaction qu’ils avaient avec leurs étudiants, mais elle avait tellement de tâches à accomplir qu’elle n’avait pas le temps de faire cette vérification.
+c) Renee Lowe a affirmé au cours de son témoignage que, à ses débuts comme instructrice, elle a été soumise à une vérification par le directeur de centre. De plus, lorsqu’elle est devenue directrice de centre à son tour, elle a été tenue de faire une vérification à l’égard des nouveaux instructeurs au cours du premier mois d’enseignement de ceux-ci. Par la suite, elle devait procéder à cette vérification tous les trimestres.
+d) Selon Renee Lowe, la vérification était consignée sur une feuille de contrôle que l’appelante avait préparée et qui comportait des éléments comme l’utilisation efficace du tableau blanc, les points forts et les difficultés des étudiants et des commentaires généraux. Renee Lowe a ajouté qu’elle passait en revue la liste de contrôle et ses commentaires avec l’instructeur après la vérification.
+e) Selon la description de tâches du directeur de centre, la [TRADUCTION] « direction des enseignants » figurait parmi les responsabilités du directeur de centre (voir la pièce A-1, page 393).
+[29] Lorsqu’un instructeur prévoyait s’absenter, il ne pouvait engager l’enseignant qui le remplacerait. Il avisait l’appelante et les autres instructeurs qui enseignaient avec lui. C’est l’appelante qui choisissait en bout de ligne la personne qui remplacerait l’instructeur absent.
+[30] Lorsqu’un instructeur voulait prendre des vacances, il devait donner à l’appelante un préavis de deux semaines afin que celle-ci puisse lui trouver un remplaçant.
+[31] Les instructeurs n’étaient pas tenus de travailler un nombre minimal d’heures par semaine. Lors de l’entrevue précédant leur embauche, ils avaient mentionné les heures de travail qu’ils préféraient, c’est-à-dire qu’ils avaient précisé s’ils étaient disponibles le matin, l’après-midi ou toute la journée. Après avoir été embauchés, les instructeurs devaient être disponibles pendant la période qu’ils avaient choisie. Je constate que Jurgen Schoenfeld et Debbie Kostialik ont affirmé qu’ils auraient pu refuser de prendre un étudiant s’ils n’étaient pas disponibles. Cependant, cette possibilité ne répond pas à la question de savoir s’ils pouvaient refuser de travailler pour l’appelante en dehors de la période de disponibilité qu’ils avaient choisie. Renee Lowe a affirmé que, si un instructeur refusait de prendre des étudiants pendant les heures de disponibilité qu’il avait indiquées, l’appelante ne donnait pas d’autre travail à cet instructeur.
+[32] Cependant, il appert de la preuve que l’appelante consultait l’instructeur lorsqu’une charge d’enseignement s’ouvrait en dehors des heures pour lesquelles l’instructeur avait initialement déclaré être disponible. L’appelante accommodait habituellement les demandes des instructeurs.
+[33] Quelques instructeurs se sont fait demander d’accomplir un certain nombre de tâches autres que de l’enseignement pour l’appelante. Lorsqu’il n’y avait pas de directeur de centre à un collège donné, un des instructeurs se voyait remettre une clé du collège et devait ouvrir et fermer celui-ci. L’instructeur devait également fermer la cafetière, vérifier le refroidisseur d’eau, fermer les radiateurs électriques portatifs, redémarrer les ordinateurs, fermer les écrans d’ordinateurs, éteindre toutes les lumières et verrouiller la porte extérieure. L’instructeur était payé à son taux de salaire normal pour accomplir ces tâches.
+[34] Selon le contrat qu’ils avaient conclu avec l’appelante, les instructeurs étaient autorisés à travailler pour des tiers, pourvu que ceux-ci ne fassent pas concurrence à l’appelante.
+[35] L’appelante soutient que ses clients dictaient les matières à enseigner aux étudiants, le nombre d’heures d’enseignement à donner à ceux-ci et la durée totale de l’enseignement. En conséquence, ce sont les clients de l’appelante qui contrôlaient tant celle-ci que les instructeurs. Au soutien de sa position, l’avocat de l’appelante a invoqué la décision rendue dans R.B. Cormier Management Consultants Ltd c Canada (Minister of National Revenue), [1989] TCJ No. 419.
+[36] Les faits de l’affaire R.B. Cormier Management Consultants Ltd sont différents de ceux des présents appels. Dans cette affaire-là, les travailleurs utilisaient un manuel qui avait été préparé par le gouvernement et le juge Baryluk a conclu qu’il s’agissait en réalité d’une liste d’exigences imposées à Cormier. Dans les présents appels, les clients ne dictaient pas les matières à enseigner aux étudiants, le nombre d’heures d’enseignement à donner à ceux-ci ou la durée totale de l’enseignement. L’appelante proposait plutôt ces conditions en se fondant sur son évaluation du niveau de scolarité des étudiants et sur les objectifs professionnels de ceux-ci. Lorsque le client acceptait la proposition de l’appelante, celle-ci reproduisait les conditions en question dans la lettre de parrainage. L’appelante devait respecter la lettre de parrainage pour recevoir le financement convenu pour chaque étudiant. Je conviens qu’un programme relatif à un étudiant ne pouvait être appliqué qu’avec l’approbation du client de l’appelante, parce que le client devait en payer le coût. Cependant, eu égard à la preuve présentée en l’espèce, je suis d’avis que le client ne contrôlait pas les instructeurs quant à l’exécution de leurs tâches.
+[37] À mon avis, l’examen du facteur de contrôle donne à penser que les instructeurs étaient des employés de l’appelante.
+Propriété des instruments de travail
+[38] L’appelante fournissait aux instructeurs les étudiants, les salles de cours, les pupitres, les chaises, le cartable des instructeurs et tout le matériel dont ceux-ci avaient besoin pour enseigner. Même si Linda Robertson et Deborah Kostialik ont déclaré que le papier et les stylos fournis dans les classes devaient être utilisés uniquement par les étudiants, tous les autres témoins ont affirmé le contraire.
+[39] Certains instructeurs utilisaient leur propre matériel didactique. Cependant, ils n’étaient pas tenus de le faire aux termes de leur contrat.
+[40] L’examen de la propriété des instruments de travail donne davantage à penser qu’il s’agissait d’une relation de travail.
+Possibilité de profit
+[41] Au cours de la période visée par les appels, les instructeurs touchaient un salaire variant de 15 $ à 20 $ de l’heure. Pour recevoir leur paie, ils devaient remplir des feuilles de temps et facturer l’appelante toutes les deux semaines. Les formules à utiliser pour les feuilles de temps et les factures étaient fournies par l’appelante. La paie des instructeurs était déposée dans le compte bancaire de ceux-ci.
+[42] Selon les témoins, le taux de salaire horaire n’a pas été négocié; c’est un taux que l’appelante a offert et que les instructeurs ont accepté.
+[43] Les instructeurs n’avaient aucune possibilité de toucher des bénéfices découlant de leur relation avec l’appelante. L’examen de ce facteur donne à penser que les instructeurs étaient des employés.
+Risque de perte
+[44] Aucun témoin n’a fourni de renseignements donnant à penser que les instructeurs étaient exposés à un risque de perte financière. Ils n’étaient pas tenus de faire le moindre investissement lié à l’exécution de leur contrat avec l’appelante.
+Remplaçants
+[45] L’instructeur qui prévoyait s’absenter ne pouvait engager lui-même la personne qui le remplacerait. C’est l’appelante qui choisissait le remplaçant en question.
+Conclusion
+[46] Après avoir examiné tous les facteurs, je conclus que les instructeurs n’exploitaient pas une entreprise pour leur propre compte. Même si les parties ont peut-être souhaité que l’appelante engage les instructeurs en qualité d’entrepreneurs indépendants, les modalités de leur relation, analysées à la lumière des facteurs établis dans Wiebe Door, ne permettent pas de corroborer cette intention.
+[47] Les appels sont rejetés.
+Signé à Ottawa, Canada, ce 20e jour de janvier 2014.
+« V.A. Miller »
+Juge V.A. Miller
+Traduction certifiée conforme
+ce 3e jour de mars 2014
+Claude Leclerc, LL.B.
+RÉFÉRENCE : 2014CCI23
+NOS DES DOSSIERS DE LA COUR : 2012-1075(EI)
+2012-1076(CPP)
+2012-1294(EI)
+2012-1295(CPP)
+2012-1296(EI)
+2012-1297(CPP)
+INTITULÉ : ROBERTSON HUMAN ASSET MANAGEMENT INC. ET
+M.R.N. ET
+DEBORAH KOSTIALIK
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Le 26 mars 2013
+MOTIFS DU JUGEMENT : L’Honorable juge Valerie Miller
+DATE DU JUGEMENT : Le 20 janvier 2014
+COMPARUTIONS :
+Avocat de l’appelante :
+Me Robert A. Betts
+Avocates de l’intimé :
+Me Mindy Caterina-Neufeld
+Me Lesley L’Heureux
+Pour l’intervenante :
+L’intervenante elle-même
+AVOCATS INSCRITS AUX DOSSIERS :
+Pour l’appelante :
+Nom : Me Robert A. Betts
+Cabinet : Beard Winter LLP
+Pour l’intimé : William F. Pentney
+Sous-procureur général du Canada Ottawa, Canada

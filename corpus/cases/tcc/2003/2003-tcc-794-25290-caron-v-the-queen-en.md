@@ -1,0 +1,275 @@
+---
+title: "Caron v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/25290/index.do"
+last_modified: "2003-10-30"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 TCC 794"
+citation2: ""
+neutral_citation: "2003 TCC 794"
+decision_date: "2003-10-30"
+language: "en"
+item_id: "25290"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2403
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T17:33:49.106000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "fd834d1c59f0c5e70f1a4bddebb0e812301102eb2ba68ad2b3c28232451c8ca6"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Caron v. The Queen
+
+- Citation: 2003 TCC 794
+- Decision date: 2003-10-30
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2403, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Caron v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-10-30
+Neutral citation
+2003 TCC 794
+File numbers
+2001-3876(IT)I
+Judges and Taxing Officers
+Louise Lamarre Proulx
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2001-3876(IT)I
+BETWEEN:
+ROBERT CARON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeals heard on common evidence with the appeals of Jean‑Guy Provencher (2001‑3503(IT)I) on May 29, 2003, at Rouyn-Noranda, Quebec
+Before: The Honourable Justice Louise Lamarre Proulx
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Yanick Houle
+____________________________________________________________________
+JUDGMENT
+The appeals from the assessments made under the Income Tax Act for the 1992, 1993 and 1994 taxation years are dismissed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 30th day of October 2003.
+"Louise Lamarre Proulx"
+Lamarre Proulx J.
+Translation certified true
+On this 26th day of March 2009
+Monica Chamberlain, Reviser
+Docket: 2001-3503(IT)I
+BETWEEN:
+JEAN-GUY PROVENCHER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeals heard on common evidence with the appeals of Robert Caron (2001‑3876(IT)I) on May 29, 2003, at Rouyn-Noranda, Quebec
+Before: The Honourable Justice Louise Lamarre Proulx
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Yanick Houle
+____________________________________________________________________
+JUDGMENT
+The appeals from the assessments made under the Income Tax Act for the 1992, 1993 and 1994 taxation years are dismissed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 30th day of October 2003.
+"Louise Lamarre Proulx"
+Lamarre Proulx J.
+Translation certified true
+On this 26th day of March 2009
+Monica Chamberlain, Reviser
+Citation: 2003TCC794
+Date: 20031030
+Docket: 2001-3876(IT)I
+BETWEEN:
+ROBERT CARON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+AND
+Docket: 2001-3503(IT)I
+BETWEEN:
+JEAN-GUY PROVENCHER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Lamarre Proulx J.
+[1] These appeals were heard on common evidence. They are appeals under the informal procedure for the 1992 to 1994 taxation years.
+[2] The issues relate to: (a) the balance of the Appellants' at‑risk amount in respect of a limited partnership for the 1992 to 1994 taxation years within the meaning of subsection 96(2.2) of the Income Tax Act (the Act); and (b) whether the Court has the discretion to reduce or cancel the interest on the tax owed for those years.
+[3] According to the Minister of National Revenue (the Minister), in 1992, 1993 and 1994, the balance of the at‑risk amount was zero. The Minister therefore disallowed the respective amounts of $25,437, $12,231 and $4,755 claimed by the Appellants as net partnership losses. Those losses were considered limited partnership losses within the meaning of subsection 96(2.1) of the Act. At the time of the reassessments, the Minister assessed arrears interest under section 161 of the Act.
+[4] The facts on which the Minister relied in making the reassessments are set out in paragraph 5 of the Reply to the Notice of Appeal (the Reply) in the Appellant Caron's case and in paragraph 4 of the Reply in the Appellant Provencher's case. Those paragraphs are identical. I will therefore reproduce paragraph 5 of the Reply for the Appellant Caron:
+[TRANSLATION]
+(a) Royal City Manor Limited Partnership is a limited partnership (hereinafter "the limited partnership");
+(b) Royal City Manor General Partner Inc. is the limited partnership's general partner and owns all the shares of Royal City Manor Ltd.;
+(c) the limited partnership's project involved building and operating a seniors' centre with 165 beds in the municipality of New Westminster in the province of British Columbia (hereinafter "the real estate project");
+(d) Royal City Manor Ltd. is the legal owner of the land and building in the real estate project;
+(e) the limited partnership is the beneficial owner and operator of the real estate project;
+(f) the real estate project was financed in part by two mortgages granted by the Metropolitan Trust Company of Canada:
+(i) first, a $7,900,000 mortgage was granted;
+(ii) the mortgage was restructured to increase it to $8,400,000 and restructured again to increase it to $9,400,000;
+(iii) a second mortgage for $430,000 was also taken out;
+(g) the mortgages were signed by Royal City Manor Ltd., the real owner of the mortgaged building;
+(h) Royal City Manor Ltd. used the building it legally owned as collateral security for the above‑mentioned mortgages;
+(i) 13,724 units were issued by the limited partnership;
+(j) the Appellant subscribed for 188 of the 13,724 limited partnership units;
+(k) according to the Appellant's investment documents, the subscription price was paid as follows:
+(i) a cheque for $25,000 payable to Anchor Securities Ltd. in trust;
+(ii) a subscription note for $144,760 in favour of the limited partnership, which the Appellant undertook to sign;
+(iii) and a mortgage note for $144,760 in favour of the limited partnership, which the Appellant undertook to sign;
+(l) because of the mortgage note the Appellant undertook to sign, the Appellant deducted interest on the mortgage referred to in subparagraphs (f) and (g) during the years at issue;
+(m) the Minister found that the mortgage security given by Royal City Manor Ltd. to Metropolitan Trust to secure the mortgage payments was an amount or benefit that reduced the Appellant's at‑risk amount in respect of the limited partnership;
+(n) the Minister therefore reduced the balance of the Appellant's at‑risk amount in respect of the limited partnership by the balance of the mortgages taken out by Royal City Manor Ltd. for the years at issue;
+(o) the balance of the Appellant's at‑risk amount in respect of the limited partnership was therefore reduced to zero for 1992, 1993 and 1994 (see itemization in schedules) [the itemization is not reproduced];
+(p) since the Appellant's at‑risk amount in respect of the limited partnership was reduced to zero, the Appellant could not claim losses on his investment in the limited partnership for the 1992, 1993 and 1994 taxation years;
+(q) in light of the foregoing, the Minister disallowed the deduction of the $25,437, $12,231 and $4,755 claimed by the Appellant as net limited partnership losses for the 1992, 1993 and 1994 taxation years, respectively;
+(r) in light of the foregoing, and based on the reassessments at issue made under paragraph 152(4)(c) of the Income Tax Act (hereinafter "the Act"), the Minister of National Revenue assessed arrears interest because of the balance owing in the Appellant's tax account for the 1992, 1993 and 1994 taxation years.
+[5] The Appellant Caron's Notice of Appeal states the following, inter alia:
+[TRANSLATION]
+. . .
+Moreover, this notice was issued nearly five years later and generated interest and penalty costs that, in my opinion, cannot be justified.
+Recovery of an amount and any interest and penalties associated therewith should be stayed until the decision or decisions have been rendered. The taxpayer does not have to pay the price for the delays caused by the use of the mechanisms provided for by law. Accordingly, the interest and penalty costs should not start running until the final decision has been rendered.
+[6] The Appellant Provencher also complains about the assessment of interest and asks that it be cancelled.
+[7] With regard to the calculation of the at‑risk amount, the two Appellants referred to a legal opinion filed by them as Exhibit A‑1. As noted by counsel for the Respondent, that opinion concerns another limited partnership. Nonetheless, the opinion basically asserts that the investors' mortgage debt was real and that they would have been obliged to pay it if the mortgagor had defaulted.
+[8] Both Appellants pursued a career in teaching and are now retired. Mr. Caron testified first. They both agreed that each Appellant's testimony served as the other's testimony as well.
+[9] They admitted subparagraphs 5(a) to (c), (f), (g), (j), (k) and (l) of the Reply. They could neither admit nor deny subparagraphs 5(d), (e), (h) and (i) of the Reply. They denied subparagraph 5(m).
+[10] As Exhibit A‑2, they filed letters authorizing a decrease in withholding tax for the years at issue as well as 1990 and 1991.
+[11] As Exhibit I‑1, the Respondent filed a book of documents concerning the Royal City Manor Limited project. Exhibit I‑2 contains the audit documents. Exhibit I‑3 is made up of documents relating to Mr. Provencher, while Exhibit I‑4 contains those relating to Mr. Caron.
+[12] According to the Appellants, there were 73 investors in the project. The Appellants are the only ones who appealed the reassessments. An offer was made to reduce or cancel the interest that had accrued over an 18‑month period.
+[13] The Appellants borrowed the entire amount they invested, $43,200. Such an investment loan was provided for in the offer (Tab 1 of Exhibit I‑1).
+[14] With regard to subparagraphs (k)(iii) and (l), counsel for the Respondent explained that the mortgage note had been replaced by a mortgage assumption up to $144,760.
+[15] The subscription form, proxy, subscription note and mortgage note are at Tab 1 of Exhibits I‑3 and I‑4. The investment agreement was signed in 1990. Paragraph 12 of the agreement provided that the note would be cancelled once the signatory had signed and forwarded the first and second mortgage assumption agreements.
+[16] Those agreements are at Tabs 2(d) and (e) of Exhibit I‑1. Royal City Manor Ltd. was the registered owner of the property, which was subject to a $7,900,000 debenture in favour of the mortgage lender, the Metropolitan Trust Company of Canada. A clause provided that each limited partner assumed a pro rata share of the mortgage. Another clause provided that the limited partners requested and directed the general partner to pay on their behalf.
+[17] I quote clauses 2 and 3 of Schedule D, Mortgage Assumption Agreement:
+2. Each Limited Partner hereby authorizes and directs the Partnership to pay on his behalf (to the extent and out of payments due to him from the Partnership) his Pro Rata Share of all interest and principal to the Mortgage required to be paid to the Mortgagee in respect of the Mortgage pursuant to the terms and conditions of the Mortgage.
+3. Each Limited Partner hereby assigns to the Partnership any unadvanced portion of the principal amount of the Mortgage and directs that the same be advanced to or to the order of the Partnership, notwithstanding the assumption by the Limited Partners of the liability under the Mortgage hereunder.
+[18] The $7,900,000 debenture is at Tab 3 of Exhibit I‑1.
+[19] Exhibit A‑4 is an extract from the register of investors. It is a list of investments and repayments for the Royal City Manor project. The investors were repaid $288.27 each month from January 1991 to October 1992 and from March to September 1993. That amount was in keeping with the cash flow guarantee referred to in the offering document, Tab 1 of Exhibit I‑1.
+[20] Counsel for the Respondent asked the Appellant Caron whether it had been represented to him that there was no risk of having to make payments on the mortgage assumption. The Appellant answered that it was difficult to remember because it had occurred 13 years earlier.
+[21] Counsel also asked [translation] "what were the benefits that led you to invest?" The answer was that [translation] "it created employment, and we got some tax back."
+[22] Counsel for the Respondent asked the Appellants to read the part of the Offering Memorandum and Limited Partnership Agreement (Tab 2 of Exhibit I‑1) at pages 71 et seq. dealing with the tax treatment of limited partners and the possibility that the at‑risk amount would not include the amount of the mortgage assumption and that the monthly amount guaranteed by the developer would be subtracted from the at‑risk amount. The Appellants then said that this was the first time they had read this warning.
+[23] The following is from page 72:
+. . .
+The Tax Act provides that a Limited Partner's share of losses from a partnership for a given fiscal period of the Limited Partnership will only be deductible by him to the extent of his at‑risk amount in respect of the Limited Partnership at the end of the period. The at‑risk amount to an original Limited Partner at the end of a fiscal period will generally be the adjusted cost base of his interest reduced by any amounts owing by the Limited Partner to the Limited Partnership . . . and by the amount of any guarantee, indemnity or other arrangement provided to, or for, the benefit of the Limited Partner to protect him against the loss of all or part of his investment. . . .
+There can be no assurance that Revenue Canada, Taxation will not take the position that the liability of a Limited Partner under the First Mortgage Assumption Agreement and the Second Mortgage Assumption Agreement does not form part of his at‑risk amount. Furthermore, the at‑risk amount for each Limited Partner may be reduced by his pro rata share of the Cash Flow Guarantee provided to the Limited Partnership by the Developer and the Limited Partnership up to this lesser amount. . . .
+[24] The limited partners claimed the mortgage interest paid by the general partner. The general partner operated the centre and paid interest at the limited partners' request. At the end of the year, those expenses were divided among the investors, who claimed them in their income tax returns. This was accepted by the Minister.
+[25] The Appellant Caron's tax return for 1992 is at Tab 2 of Exhibit I‑4. The return includes form T5013 completed by the Royal City Manor Limited Partnership, which shows a loss of $25,435 for the Appellant. His share of the interest was $16,960 (limited partner's carrying costs for tax purposes). That interest would probably not have been taken into account in the partnership's income statement.
+[26] For 1993, the loss was $12,231 and the financing costs were $24,800 (Tab 3 of Exhibit I‑4).
+[27] For 1994, the loss was $4,755 and the financing costs were $15,813.97 (Tab 4 of Exhibit I‑4).
+[28] A computer printout of the 1998 tax return is at Tab 6 of Exhibit I‑4. A limited partnership loss of $42,423 was claimed that year. It is the total of the disallowed losses from 1992 to 1994. The Minister allowed that deduction under paragraph 111(1)(e) of the Act against the net income attributable to the Appellant as a partner after the centre was sold in 1998.
+[29] The same exercise was completed with the Appellant Provencher.
+[30] Andrée Simard testified for the Respondent. She did the audit in 1995 and 1996 when she was a tax avoidance officer.
+[31] The audit document was filed as Exhibit I‑2. On February 20, 1996, Ms. Simard sent each investor a letter stating the following:
+[TRANSLATION]
+. . .
+The loss that a limited partner in a limited partnership may claim in a year is limited to the partner's at‑risk amount at the end of the year.
+Since your at‑risk amount in respect of the said partnership was zero on December 31, 1992 (Appendix A), the $25,437 loss you claimed cannot be allowed.
+However, this loss is a limited partnership loss that can be claimed later against the income generated by the partnership.
+Moreover, we hereby advise you that we are currently auditing your at‑risk amount for the 1993 and 1994 taxation years as well as the deductibility of the interest you accrued on the mortgages secured by the partnership's property.
+. . .
+[32] Form T2020, the auditor's internal report dated December 12, 1995, is at Tab 4 of Exhibit I‑2. In that report, the auditor described her meeting with one of the partners who thought that there was no risk of him having to repay his share of the mortgage debt because the value of the building was greater than the mortgage.
+[33] A letter by auditor Cindy Kalb concerning 1993 and 1994 is at Tab 2 of Exhibit I‑2. It is dated February 12, 1997. It reads as follows:
+[TRANSLATION]
+. . .
+We hereby inform you that the audit of Royal City Manor Limited Partnership for the 1993 and 1994 taxation years is now over.
+As you know, the loss that a limited partner in a limited partnership may claim in a year is limited to the partner's at‑risk amount at the end of the year.
+Since your at‑risk amount was zero on December 31, 1993, and December 31, 1994 (see enclosed appendices), the $12,230 loss you claimed in 1993 and the $4,755 loss you claimed in 1994 cannot be allowed.
+However, these losses are limited partnership losses that can be claimed later against the income generated by the partnership.
+We hereby advise you that no adjustment will be made to the amount of interest you claimed in your 1993 and 1994 returns on the mortgages secured by the partnership's property.
+. . .
+Arguments of Counsel for the Respondent
+[34] Counsel for the Respondent argued that it is difficult to consider the assumption of part of the mortgage debt to be a real investment made by the Appellants. However, the amount of that assumption was taken into account in calculating the adjusted cost base (ACB). He also argued that the mortgage security given by Royal City Manor Ltd. to the mortgagee is an amount or benefit within the meaning of paragraph 96(2.2)(d) of the Act that reduces the at‑risk amount.
+[35] Paragraph 96(2.2)(d) of the Act reads as follows:
+96(2.2) At‑risk amount — For the purposes of this section and sections 111 and 127, the at‑risk amount of a taxpayer, in respect of a partnership of which the taxpayer is a limited partner, at any particular time is the amount, if any, by which the total of
+. . .
+(d) where the taxpayer or a person with whom the taxpayer does not deal at arm's length is entitled, either immediately or in the future and either absolutely or contingently, to receive or obtain any amount or benefit, whether by way of reimbursement, compensation, revenue guarantee or proceeds of disposition or in any other form or manner whatever, granted or to be granted for the purpose of reducing the impact, in whole or in part, of any loss that the taxpayer may sustain because the taxpayer is a member of the partnership or holds or disposes of an interest in the partnership, the amount or benefit, as the case may be, that the taxpayer or the person is or will be so entitled to receive or obtain. . . .
+. . .
+[36] Counsel submitted that the use of the words "or in any other form or manner whatever" shows that the provision applies to amounts or benefits of any kind. Counsel also referred to the end of subsection 96(2.2) of the Act, which reads as follows:
+and, for the purposes of this subsection, where the amount or benefit to which the taxpayer is at any time entitled is provided
+(e) by way of an agreement or other arrangement under which the taxpayer has a right, either absolutely or contingently (otherwise than as a consequence of the death of the taxpayer), to acquire other property in exchange for all or any part of the partnership interest, for greater certainty the amount or benefit to which the taxpayer is entitled under the agreement or arrangement shall be not less than the fair market value of that other property at that time, or
+(f) by way of a guarantee, security or similar indemnity or covenant in respect of any loan or other obligation of the taxpayer, by the partnership or a person or partnership with whom or which the partnership does not deal at arm's length, for greater certainty the amount or benefit to which the taxpayer is entitled under the guarantee or indemnity at any particular time shall not be less than the total of the unpaid amount of the loan or obligation at that time and all other amounts outstanding in respect of the loan or obligation at that time.
+[37] Counsel argued that paragraph 96(2.2)(d) of the Act requires only a benefit that reduces any loss in whole or in part, which means that the Minister correctly calculated the Appellants' at‑risk amount by subtracting the amount of the mortgage and the cash flow from the ACB.
+[38] Counsel argued that the Act allows limited partners, in a particular year, to deduct a loss to the extent of their at‑risk amount. The amount exceeding that at‑risk amount is a limited partnership loss under subsection 96(2.2) that can be carried forward under paragraph 111(1)(e) of the Act.
+[39] Counsel noted that the losses disallowed under subsection 96(2.2) of the Act were considered limited partnership losses within the meaning of subsection 96(2.1) of the Act and that, under paragraph 111(1)(e) of the Act, they could be carried forward against the partnership's income attributed to the limited partners in 1998.
+Appellants' Arguments
+[40] The Appellants reiterated that the mortgage debt they assumed must be included in calculating their at‑risk amount without subtracting the security given by the borrower on its building. This argument is based on the tax opinion they filed as Exhibit A‑1. Moreover, and above all, the Appellants believe they should have been informed that the deductions would not be allowed as soon as the initial assessments were made. They submitted that the amounts assessed and the interest have caused them financial difficulties.
+Analysis and Conclusion
+[41] The tax opinion on which the Appellants relied is a very basic opinion, and it also relates to another project. It is therefore of no help.
+[42] Based on the evidence, it seems to me that the Appellants never thought they were actually undertaking to pay the mortgagee if Royal City Manor Ltd. defaulted in respect of the security it had given. Their investment was the $43,000 they borrowed in all, not $43,000 plus the assumption amount of $144,700.
+[43] Under subsection 96(2.2), the at‑risk amount of a taxpayer in respect of a partnership is the amount by which the total of the amounts described in paragraphs (a) to (b.1) of that subsection exceeds the total of the amounts described in paragraphs (c) and (d).
+[44] In my opinion, the interpretation proposed by counsel for the Respondent is correct. Under paragraph 96(2.2)(d) of the Act, the security given by the mortgagor may reduce, in whole or in part, the mortgage assumption granted by the Appellants.
+[45] Was that assumption genuine? The mortgagee did not testify. The clauses of the mortgage assumption agreements are not clear. The law on the responsibilities of limited partners in a limited partnership is complex. A $144,760 mortgage assumption is an undertaking that may become very costly and that is not made lightly. A person thinks long and hard before making such an undertaking if there is some possibility of actually being bound to pay the amount. It is highly doubtful that the Appellants were truly bound, since they did not seem concerned about the undertaking at all. They did not remember what they had been told about it.
+[46] In any event, the security given by the mortgagor is a benefit within the meaning of paragraph 96(2.2)(d) of the Act, and its value must be taken into account in calculating the at‑risk amount.
+[47] The Appellants would have liked the Minister to make his final assessments the first year. All the forms were available to the Minister. It is difficult to repay the Minister when the money from tax refunds has been spent. There is interest in addition to the taxes owed. They asked the Court to cancel or reduce the interest.
+[48] Subsection 152(3.1) of the Act provides that the normal reassessment period for an individual is the period that ends three years after the day of mailing of a notice of an original assessment. I must conclude that the Minister acted within the time limit granted to him by Parliament.
+[49] The interest was assessed under section 161 of the Act, which provides that a taxpayer must pay interest on outstanding taxes from the date on which they are due. That section does not give this Court any discretion to reduce or cancel interest.
+[50] As pointed out to the Appellants during the hearing, subsection 220(3.1) of the Act gives the Minister alone this discretion.
+[51] The appeals are therefore dismissed.
+Signed at Ottawa, Canada, this 30th day of October 2003.
+"Louise Lamarre Proulx"
+Lamarre Proulx J.
+Translation certified true
+On this 26th day of March 2009
+Monica Chamberlain, Reviser
+CITATION:
+2003TCC794
+COURT FILE NOS.:
+2001-3876(IT)I & 2001-3503(IT)I
+STYLES OF CAUSE:
+Robert Caron and The Queen
+Jean-Guy Provencher and The Queen
+PLACE OF HEARING:
+Rouyn-Noranda, Quebec
+DATE OF HEARING:
+May 29, 2003
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Louise Lamarre Proulx
+DATE OF JUDGMENT:
+October 30, 2003
+APPEARANCES:
+For the Appellants:
+The Appellants themselves
+Counsel for the Respondent:
+Yanick Houle
+COUNSEL OF RECORD:
+For the Appellants:
+Name:
+Firm:
+For the Respondent
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

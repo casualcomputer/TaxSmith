@@ -1,0 +1,151 @@
+Title: 5119235 Manitoba Inc. v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30557/index.do
+Corpus path: corpus/cases/tcc/2011/2011-tcc-494-30557-5119235-manitoba-inc-v-m-n-r-en.md
+Document type: case_law
+Last modified: 2011-10-20
+
+# 5119235 Manitoba Inc. v. M.N.R.
+
+- Citation: 2011 TCC 494
+- Decision date: 2011-10-20
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7298, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+5119235 Manitoba Inc. v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2011-10-20
+Neutral citation
+2011 TCC 494
+File numbers
+2011-1008(EI)
+Judges and Taxing Officers
+Wyman W. Webb
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2011-1008(EI)
+BETWEEN:
+5119235 MANITOBA INC.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard on September 6, 2011 at Winnipeg, Manitoba
+Before: The Honourable Justice Wyman W. Webb
+Appearances:
+Agent for the Appellant:
+Robert McMullin
+Counsel for the Respondent:
+Larissa Benham
+____________________________________________________________________
+JUDGMENT
+The appeal under the Employment Insurance Act with respect to the decision of the Minister of National Revenue dated January 28, 2011, is allowed, without costs, and the decision of the Minister is varied to provide that Christine Sawler was not engaged by the Appellant in insurable employment as determined for the purposes of the Employment Insurance Act at any time during the period from September 24, 2005 to February 14, 2010.
+Signed at Ottawa, Canada, this 20th day of October 2011.
+“Wyman W. Webb”
+Webb, J.
+Citation: 2011TCC494
+Date: 20111020
+Docket: 2011-1008(EI)
+BETWEEN:
+5119235 MANITOBA INC.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGMENT
+Webb, J.
+[1] This is an appeal under the Employment Insurance Act (the “EI Act”). The Appellant operated a “Chicken Chef” franchise restaurant in Winnipeg. The shares of the Appellant were owned equally by Robert McMullin and Donna Sawler. The issue in this case is whether the Appellant was dealing at arm’s length with Christine Sawler who is the daughter of Donna Sawler and one of the employees of the Appellant. The period in question is the period from September 24, 2005 to February 14, 2010. Robert McMullin had asked if the period could be extended to June 2010. However, since an appeal to this Court is an appeal from a decision of the Minister and since the decision of the Minister was only in relation to the period ending on February 14, 2010, that is the period that is applicable in this appeal. The period under review cannot be extended for this hearing.
+[2] Section 5 of the EI Act provides in part as follows:
+5. (1) Subject to subsection (2), insurable employment is
+(a) employment in Canada by one or more employers, under any express or implied contract of service or apprenticeship, written or oral, whether the earnings of the employed person are received from the employer or some other person and whether the earnings are calculated by time or by the piece, or partly by time and partly by the piece, or otherwise;
+. . .
+5. (2) Insurable employment does not include
+…
+(i) employment if the employer and employee are not dealing with each other at arm's length.
+5. (3) For the purposes of paragraph (2)(i),
+(a) the question of whether persons are not dealing with each other at arm's length shall be determined in accordance with the Income Tax Act; and
+(b) if the employer is, within the meaning of that Act, related to the employee, they are deemed to deal with each other at arm's length if the Minister of National Revenue is satisfied that, having regard to all the circumstances of the employment, including the remuneration paid, the terms and conditions, the duration and the nature and importance of the work performed, it is reasonable to conclude that they would have entered into a substantially similar contract of employment if they had been dealing with each other at arm's length.
+[3] Since Donna Sawler and Robert McMullin were not related to each other, the Appellant was not related to Christine Sawler. As a result the provisions of paragraph 5(3)(b) of the EI Act are not applicable in this case.
+[4] For the purposes of the EI Act, insurable employment does not include employment if the employer and employee are not dealing with each other at arm’s length. It is the position of the Appellant that Christine Sawler was not engaged by the Appellant in insurable employment as the Appellant and Christine Sawler were not dealing with each other at arm’s length.
+[5] In The Queen v. Remai Estate, 2009 FCA 340, 2009 DTC 5188 (Eng.), [2010] 2 C.T.C. 120, Justice Evans, writing on behalf of the Federal Court of Appeal, made the following comments:
+31 The Judge applied the analytical framework adopted in Peter Cundill & Associates Ltd. v. R., [1991] 1 C.T.C. 197 (Fed. T.D.), aff'd. [1991] 2 C.T.C. 221 (Fed. C.A.) (“Peter Cundill”), and applied in McLarty at para. 64 and following, in order to determine if Sweet and Frank were dealing at arm's length when the Foundation sold the notes to Sweet in exchange for Sweet's note of the same value and bearing the same rate of interest.
+32 Peter Cundill requires a court to consider if: (i) there was a common mind directing the bargaining for both parties; (ii) they were acting in concert without separate interests; and (iii) one party exercised de facto control over the other. As with any multi-factor legal test, not all need be satisfied in every case. Some may assume particular importance in some circumstances, and others less. Nor are the listed factors necessarily exhaustive.
+33 The Crown concedes that Peter Cundill is the proper legal test, but argues that the Judge erred in law by failing to ask whether “the terms of the transactions ... reflect ordinary commercial dealings between ... [parties] acting in their own interests” (per Sharlow J.A. in Petro-Canada v. R., 2004 FCA 158, 2004 D.T.C. 6329 (F.C.A.) at para. 55).
+34 In my opinion, this is not an error of law, because whether the terms of a transaction reflect “ordinary commercial dealings between parties acting in their own interests” is not a separate requirement of the legal tests for determining if a transaction is at arm's length. Rather, the phrase is a helpful definition of an arm's length transaction which it is the purpose of the components of the Peter Cundill analytical framework to identify. It may also enable a judge to reflect on the soundness of the conclusion to which an application of the individual Peter Cundill factors has led.
+[6] One of the factors that is to be considered in determining whether two persons are dealing with each other at arm’s length is whether they were acting in concert without separate interests.
+[7] In this case Donna Sawler was responsible for the day to day operations of the Appellant including staffing decisions. During the direct examination of Donna Sawler by counsel for the Respondent, the following exchange took place:
+Q And I understand your daughter, Christine, worked at the Chicken Chef involved in this appeal. Whose decision was it to hire her?
+A I don't think it was really a decision. It was at the time -- like it wasn't like we discussed it. It was more like a given. Like it would be that she would come to work for us. And so did we also take Mike Morrissette, who was an employee at the Chicken Chef on Portage, and we also brought on board I think four former KFC employees.
+[8] It seems to me that the reference to it being “a given” only applies to Christine Sawler being employed. This suggests that the Appellant and Christine Sawler were acting in concert without separate interests. The arrangement in relation to overtime also suggests (and in my opinion strongly suggests) that the Appellant and Christine Sawler were acting in concert without separate interests.
+[9] In this case, it appears that Christine Sawler started working for $10 an hour and later it was increased to $13 per hour. These amounts did not appear to be significantly different than the amounts paid by the Appellant to other employees who were unquestionably dealing at arm’s length with the Appellant. However, the arrangement with Christine Sawler in relation to overtime was different from the arrangement with the other employees. The following is part of the exchange that took place between Donna Sawler and counsel for the Respondent during her direct examination by counsel for the Respondent:
+Q Did Christine work overtime?
+A Did she work overtime? Yes, she did.
+Q How often?
+A In the whole five years?
+Q If it's of assistance, again we can break it down per year, so --
+A I don't -- honestly I'd be guessing. I'd say, I don't know, 60, 70 percent of the time.
+Q So you would say often?
+A Often, yes.
+Q What rate was she paid for the extra hours she worked, so for overtime?
+A She wasn't.
+Q So are you saying that she didn't receive overtime pay for the overtime that she worked?
+A She did not.
+Q Did she get paid?
+A Yes, she got paid. She got paid straight time.
+…
+Q Did you discuss with Christine that she was not being paid the overtime rate?
+A No, she never asked me.
+Q Did any of the other employees work overtime?
+A Yes, they did.
+Q How often?
+A In the last year I believe Chantelle and Missy were actually scheduled for overtime. Like for example, Chantelle worked an opening shift on Saturday. That was a 9:30 to 7:00 shift. That was actually scheduled. She was paid overtime for it.
+Q So does that mean she would work at least once a week overtime?
+A At least, yes. And there was a period of time between when Anita left and Leaette was hired where they probably worked a fair amount of overtime.
+Q What rate did the other employees receive for overtime?
+A Time and a half.
+[10] That other employees, who were unquestionably dealing at arm’s length with the Appellant, were paid time and a half for overtime while Christine Sawler worked overtime as much as 60 to 70 percent of the time for her standard hourly rate, seems to me to lead to a conclusion that it is more likely than not that Christine Sawler and the Appellant were acting in concert without separate interests. The fact that Christine Sawler worked such a significant amount of overtime and never raised the issue of her pay for such overtime work when other employees were being paid time and a half for overtime also indicates that Christine Sawler and the Appellant were acting in concert without separate interests. It seems to me that if Christine Sawler and the Appellant would have had separate interests then Christine Sawler would have raised this issue since as much as 60 to 70 percent of the time that she was working she was working overtime.
+[11] Robert McMullin also raised an issue in relation to complaints that had been made against Christine Sawler. Although the exact number of complaints is not clear, it appears that a significant number of complaints had been made against Christine Sawler. Robert McMullin and Donna Sawler had different experiences in relation to the operation of a restaurant and the number of complaints that would be made by customers. Robert McMullin testified during his cross examination as follows:
+Q Okay, we will get to that in a moment.
+She wasn't the only person to get complaints, was she?
+A I believe there was one or two regarding Missy. The rest were all Christy.
+I mean in all fairness, in my restaurant over 18 years, I believe I've had two complaints head office complaints.
+[12] Robert McMullin was referring to another “Chicken Chef” restaurant that he operated through another company. Robert McMullin was referring to head office complaints. He also stated during his testimony that “in my years of experience, for every one complaint you would get at a head office, the store would probably deal with no less than ten to twenty”. Therefore it would appear that in his eighteen years his restaurant would have had approximately 22 to 44[1] complaints, which would be an average of less than three per year.
+[13] Donna Sawler, during her direct examination, testified as follows:
+Q Did complaints have any effect on an employee's performance review or wage increases?
+A It may have had an effect on my opinion, but, no, did I ever penalize an employee because of customer complaints? Like for example, and Rob could probably better speak, I don't know what this number is. It's covering a five-year span. If I was guessing, I don't know, ten, and some of them are not Christy's.
+An average restaurant where I used to work would average 500 complaints a year, to the high end of 900. I would not have considered this huge. Not to mention like the complaints that came through the store. Like I would say on average we maybe got in the store, I don't know, 10 a month.
+[14] An average of 500 to 900 complaints per year is significantly more than the less than 3 per year for Robert McMullin’s other restaurant. Assuming that a restaurant is open 365 days per year, the average number of complaints referred to by Donna Sawler (in referring to another restaurant where she worked) per day would be approximately equal to the average number of complaints experienced by Robert McMullin at his other restaurant on an annual basis. It seems to me that if a restaurant is receiving 900 complaints a year (which based on the restaurant operating 365 days a year) would mean an average of approximately 2.5 complaints per day, every day, then something is wrong with the restaurant. It seems to me that Donna Sawler was trying to rationalize why no action was taken against her daughter and was trying to minimize the complaints made against Christine Sawler. Although in this case it is not necessary to determine whether the number of complaints filed against Christine Sawler would indicate that Christine Sawler and the Appellant were acting in concert without separate interests, it seems to me that the lack of any disciplinary action taken by Donna Sawler (who was responsible for staffing) as a result of the complaints filed against Christine Sawler and her attempt to deflect any criticism of Christine Sawler by suggesting that a restaurant could expect 500 to 900 complaints a year, indicates that the Appellant and Christine Sawler were acting in concert without separate interests.
+[15] In my opinion, Christine Sawler and the Appellant were acting in concert without separate interests and therefore were not dealing with each other at arm’s length throughout the period under appeal (September 24, 2005 to February 14, 2010).
+[16] As a result, the appeal under the EI Act with respect to the decision of the Minister of National Revenue dated January 28, 2011, is allowed, without costs, and the decision of the Minister is varied to provide that Christine Sawler was not engaged by the Appellant in insurable employment as determined for the purposes of the EI Act at any time during the period from September 24, 2005 to February 14, 2010.
+Signed at Ottawa, Canada, this 20th day of October 2011.
+“Wyman W. Webb”
+Webb, J.
+CITATION: 2011TCC494
+COURT FILE NO.: 2011-1008(EI)
+STYLE OF CAUSE: 5119235 MANITOBA INC. AND
+THE MINISTER OF NATIONAL REVENUE
+PLACE OF HEARING: Winnipeg, Manitoba
+DATE OF HEARING: September 6, 2011
+REASONS FOR JUDGMENT BY: The Honourable Justice Wyman W. Webb
+DATE OF JUDGMENT: October 20, 2011
+APPEARANCES:
+Agent for the Appellant:
+Robert McMullin
+Counsel for the Respondent:
+Larissa Benham
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] The two head office complaints plus the 10 to 20 complaints for each one of these.

@@ -1,0 +1,134 @@
+Title: St-Pierre c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26345/index.do
+Corpus path: corpus/cases/tcc/2004/2004-cci-159-26345-st-pierre-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2004-02-20
+
+# St-Pierre c. La Reine
+
+- Citation: 2004 CCI 159
+- Decision date: 2004-02-20
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3292, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+St-Pierre c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-02-20
+Référence neutre
+2004 CCI 159
+Numéro de dossier
+2002-3214(IT)I
+Juges et Officiers taxateurs
+Alain Tardif
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2002-3214(IT)I
+ENTRE :
+VICTOR ST-PIERRE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Requête entendue le 28 janvier 2004 à Québec (Québec)
+Devant : L'honorable juge Alain Tardif
+Comparutions :
+Avocat de l'appelant :
+Personne n'a comparu
+Avocate de l'intimée :
+Me Emmanuelle Faulkner
+____________________________________________________________________
+JUGEMENT
+La requête visant à obtenir le rejet de l'appel est donc accueillie et l'appel en vertu de la Loi de l'impôt sur le revenu pour l'année d'imposition 1998 est rejeté, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 20e jour de février 2004.
+« Alain Tardif »
+Juge Tardif
+Référence : 2004CCI159
+Date : 20040220
+Dossier : 2002-3214(IT)I
+ENTRE :
+VICTOR ST-PIERRE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Alain Tardif
+[1] Il s'agit d'une requête pour rejet d'appel. La requête fait état de ce qui suit :
+1. L'intimée a présenté une requête en rejet d'appel dans ce dossier au motif que l'appelant n'a jamais signifié au ministre du Revenu national un avis d'opposition en vertu du paragraphe 165(1) de la Loi de l'impôt sur le revenu relativement à la nouvelle cotisation du 21 mai 2002 pour son année d'imposition 1998.
+2. L'intimée soutenait pour cette dernière raison, que l'appel de l'appelant n'était pas valide.
+3. L'audition de cette requête a eu lieu à Québec devant l'honorable juge Tardif, le 24 juillet 2003.
+4. Suite à l'audition de cette requête, une ordonnance a été rendue le 5 août 2003 par la Cour canadienne de l'impôt accordant à l'appelant un délai se terminant le 29 août 2003 pour signifier un avis d'appel amendé.
+5. Par cette même ordonnance, la Cour canadienne de l'impôt accordait à l'intimée un délai se terminant le 30 octobre 2003 afin de signifier une Réponse à l'avis d'appel amendé.
+6. L'appelant ne s'est toujours pas conformé à l'ordonnance du 5 août 2003 et n'a pas produit d'avis d'appel amendé.
+[2] La requête est appuyée par une déclaration sous serment décrivant tous les faits à l'origine à la présentation de la requête.
+[3] Il s'agit des faits suivants :
+[...]
+DÉCLARATIONS SOUS SERMENT
+Je, soussignée, Annick Provencher, affirme solennellement ce qui suit :
+1. Je suis avocate au ministère de la Justice, direction des Affaires fiscales, dont les bureaux sont situés au Complexe Guy-favreau, 200, boul. René-Lévesque Ouest, Tour Est, 9e étage, à Montréal, H2Z 1X4.
+2. J'ai une connaissance personnelle du présent dossier.
+3. L'intimée a présenté une requête en rejet d'appel dans ce dossier au motif que l'appelant n'a jamais signifié au ministre du Revenu national un avis d'opposition en vertu du paragraphe 165(1) de la Loi de l'impôt sur le revenu relativement à la nouvelle cotisation du 21 mai 2002 pour son année d'imposition 1998.
+4. L'intimée soutenait que pour cette dernière raison, l'appel de l'appelant n'était pas valide.
+5. L'audition de cette requête a eu lieu à Québec devant l'honorable juge Tardif, le 24 juillet 2003.
+6. Suite à l'audition de cette requête, la Cour canadienne de l'impôt a rendu une ordonnance en date du 5 août 2003, accordant à l'appelant un délai se terminant le 29 août 2003 pour signifier un avis d'appel amendé, tel qu'il appert de cette ordonnance ci-jointe comme pièce R-1.
+7. Par cette même ordonnance, la Cour canadienne de l'impôt accordait à l'intimée un délai se terminant le 30 octobre 2003 afin de signifier une Réponse à l'avis d'appel amendé.
+8. Le 7 novembre 2003, j'ai laissé un message sur la boîte vocale de Me Daniel Cantin, procureur de l'appelant, lui indiquant que certains délais n'avaient pas été respectés dans le dossier.
+9. Le 17 novembre 2003, n'ayant toujours pas eu de nouvelles du procureur de l'appelant, je lui ai fait parvenir une lettre par télécopieur, ci-jointe comme pièce R-2 avec bordereau de transmission et conformation d'envoi, lui demandant de prendre, dans un délai raisonnable, les mesures nécessaires auprès de la Cour canadienne de l'impôt afin de faire prolonger son délai pour produire son avis d'appel amendé et ainsi, de rectifier son défaut de se conformer à l'ordonnance du 5 août 2003.
+10. Le 20 novembre 20023, étant toujours sans nouvelles du procureur de l'appelant, et faisant suite à mon message du 7 novembre 2003, de même qu'à ma lettre du 17 novembre 2003, je lui laisse à nouveau un message sur sa boîte vocale lui demandant de me rappeler.
+11. Ce même jour, j'ai reçu un appel du procureur de l'appelant me confirmant qu'il veillerait au dépôt de l'avis d'appel amendé au plus tard le 28 novembre 2003.
+12. Le ou vers le 28 novembre 2003, un avis d'appel amendé m'a été signifié par télécopieur dans le présent dossier.
+13. Le 9 décembre 2003, M. Denis Pépin du greffe de la Cour canadienne de l'impôt m'indique, suite à un appel de ma part, que la Cour canadienne de l'impôt n'avant pas accepté le dépôt dudit avis d'appel amendé puisque le délai pour le dépôt était déjà expiré.
+14. Lors de cette même conversation téléphonique, M. Denis Pépin m'informe qu'un agent du greffe a communiqué avec le procureur de l'appelant le 4 décembre 2003 pour lui faire part de cette situation.
+15. Le 9 décembre 2003, j'ai laissé un message au procureur de l'appelant lui demandant s'il comptait présenter une requête dans le présent dossier afin de se conformer à l'ordonnance du 5 août 2003.
+16. Le même jour, le procureur de l'appelant m'informe que la raison justifiant le fait qu'il avait outrepassé son délai est que le comptable au dossier ne lui aurait pas fourni les documents dont il avait besoin afin de rédiger son avis d'appel amendé.
+17. Lors de cette même conversation, le procureur de l'appelant m'assure qu'une requête devrait m'être signifiée dans le présent dossier, dans la semaine du 15 décembre.
+18. En date d'aujourd'hui, je suis toujours sans nouvelles du procureur de l'appelant et je n'ai pas reçu signification d'une requête dans le présent dossier.
+[...]
+[4] Lors de l'appel du rôle à 9 h 30, le procureur de l'appelant était absent.
+[5] Suite aux représentations de l'intimée requérante, le Tribunal a accordé la requête pour le motif de non-respect de l'ordonnance en date du 24 juillet 2003 en ne produisant pas l'avis d'appel amendé et aussi pour motif de défaut de comparution lors de sa présentation de la requête par l'intimée.
+[6] Je crois, en outre, pertinent de rappeler un extrait dans l'affaire Adams c. Le Commissaire de la Gendarmerie Royale du Canada et autres (7 octobre 1994), A-634-93, (C.A.F.), citée dans l'affaire Sidhu c. Canada (ministre du Revenu national), [1994] A.C.F. no 2028 (Q.L.), où l'honorable juge Isaac, le 16 novembre 1994 s'exprimait comme suit :
+[Traduction]... le temps est révolu où les cours de justice accordaient aux plaideurs de faire à leur guise. Les tribunaux sont des institutions publiques chargées de régler les différends; ils coûtent très chers aux contribuables. Le public se préoccupe énormément de l'encombrement des rôles et des retards judiciaires. Les parties qui engagent des poursuites devant n'importe quel degré de juridiction avec l'intention de les mettre "au point mort" pour leurs fins personnelles peuvent être mises en demeure de rendre compte de leur gaspillage et de leur abus d'une ressource publique. Elles risquent également que leurs poursuites soient rejetées.
+[7] La requête visant à obtenir le rejet de l'appel est accueillie et l'appel en vertu de la Loi de l'impôt sur le revenu relativement à l'année d'imposition 1998 est rejeté.
+Signé à Ottawa, Canada, ce 20e jour de février 2004.
+« Alain Tardif »
+Juge Tardif
+RÉFÉRENCE :
+2004CCI159
+No DU DOSSIER DE LA COUR :
+2002-3214(IT)I
+INTITULÉ DE LA CAUSE :
+Victor St-Pierre et Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+Québec (Québec)
+DATE DE L'AUDIENCE :
+le 28 janvier 2004
+MOTIFS DE JUGEMENT PAR :
+l'honorable juge Alain Tardif
+DATE DU JUGEMENT :
+le 20 février 2004
+COMPARUTIONS :
+Pour l'appelant :
+Personne n'a comparu
+Avocate de l'intimée :
+Me Emmanuelle Faulkner
+AVOCAT INSCRIT AU DOSSIER:
+Pour l'appelant :
+Nom :
+Me Daniel Cantin
+Étude :
+Ville :
+Gagné Letarte
+Québec (Québec)
+Pour l'intimée :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

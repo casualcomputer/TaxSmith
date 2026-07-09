@@ -1,0 +1,220 @@
+---
+title: "Mortensen v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29696/index.do"
+last_modified: "2010-09-14"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 TCC 164"
+citation2: ""
+neutral_citation: "2010 TCC 164"
+decision_date: "2010-09-14"
+language: "en"
+item_id: "29696"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6201
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T02:01:24.096000+00:00"
+cases_cited_count: 2
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "8823c84fce58fc0597b8d070e3709f2859a02da842cbbe1d559d7c1dff6aa859"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Mortensen v. The Queen
+
+- Citation: 2010 TCC 164
+- Decision date: 2010-09-14
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6201, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Mortensen v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-09-14
+Neutral citation
+2010 TCC 164
+File numbers
+2007-4935(IT)G
+Judges and Taxing Officers
+Leslie M. Little
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2007-4935(IT)G
+BETWEEN:
+CHRIS MORTENSEN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Motion heard together with the Motions of
+John Kristensen (2007-4932(IT)G) and John Mortensen (2008-122(IT)G) on January 26, 2010 at Calgary, Alberta
+Before: The Honourable Justice L.M. Little
+Appearances:
+Counsel for the Appellant:
+James G. Shea
+Counsel for the Respondent:
+Marla Teeling
+Kim Palichuk
+____________________________________________________________________
+AMENDED ORDER
+Upon Motion filed on November 26, 2009, counsel for the Respondent asked that the Court apply the doctrine of issue estoppel or abuse of process to prevent the Appellant from relitigating the matter, in light of the criminal conviction of the Appellant for tax evasion, based on failure to report as taxable income the amounts of $5,398.52 and $48,000.00 for the 1997 and 1998 taxation years. Counsel for the Respondent specifically requested the following:
+(a) The Appellant is estopped from relitigating the inclusion of the unreported income;
+(b) The Appellant is estopped from appealing the assessment of gross negligence penalties upon the unreported income; and
+(c) In the alternative, the Appellant is abusing this Court’s process by attempting to relitigate the inclusion of the unreported income, with associated gross negligence penalties;
+And upon Motion filed on December 14, 2009, by counsel for the Appellant, counsel for the Appellant specifically requested the following:
+(a) The Respondent is estopped from rejecting the unclaimed lawful deductions of the Appellant;
+(b) The Appellant’s proper and legally available deductions can offset the unreported income alleged by the Respondent for the 1997 and 1998 taxation years;
+(c) To strike from the Respondent’s Notice of Motion and Affidavit dated November 26, 2009, all paragraphs relating to the Appellant’s criminal prosecution including the paragraph pleading reliance on issue estoppel and abuse of Court process pursuant to Rules 53(a) and (b) of the Tax Court of Canada Rules (General Procedure) (SOR/90-688a) (“Rules”); and
+(d) To strike off all the reliefs sought by the Respondent in its Notice of Motion and Affidavit dated November 26, 2009 under Rules 58(2)(a);
+And upon hearing what was alleged by the parties in Calgary on January 26, 2010 and upon reading the pleadings filed herein;
+The Motion filed by the Appellant is partially allowed and the Motion filed by the Respondent is partially allowed in accordance with the attached Reasons for Order.
+Signed at Toronto, Ontario, this 14th day of September 2010.
+“L.M. Little”
+Little J.
+Citation: 2010 TCC 164
+Date: 20100914
+Docket: 2007-4935(IT)G
+BETWEEN:
+CHRIS MORTENSEN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+AMENDED REASONS FOR ORDER
+Little J.
+A. FACTS
+[1] The Appellant resides in Calgary, Alberta.
+[2] During the relevant period, the Appellant was employed by Kamor Furniture Ltd. (“Kamor”), now known as Lifeform Furniture Manufacturing Inc., and Oggo Furniture Inc. (“Oggo”).
+[3] Kamor was founded by John Kristensen and his nephew, John Mortensen, in 1976. The Appellant is the son of John Mortensen.
+[4] By Notices of Reassessment dated January 21, 2003, the Appellant’s income for the 1997 and 1998 taxation years was increased by the amount of $53,399.00 and a penalty was issued under subsection 163(2) of the Income Tax Act (the “Act”). The Notices of Reassessment were issued on the following basis:
+Additional Income
+1997
+-
+$ 5,398.52
+1998
+-
+$48,000.00
+Total
+$53,398.52
+[5] The Appellant filed Notices of Objection and on April 2, 2007, the Reassessments were confirmed.
+[6] The Appellant filed a Notice of Appeal to the Tax Court on December 7, 2007. In his Notice of Appeal, the Appellant maintains that he has unclaimed deductions which offset the alleged unreported income.
+[7] The Minister of National Revenue (the “Minister”) filed a Reply on June 26, 2008.
+[8] On November 26, 2009, counsel for the Respondent filed a Notice of Motion. In the Notice of Motion counsel notes that the income under appeal was the same income involved when the Appellant was found guilty of tax evasion. Counsel for the Minister said in her Motion:
+…
+i. the Appellant is estopped from relitigating the inclusion of the Unreported Income;
+ii. the Appellant is estopped from appealing the assessment of gross negligence penalties upon the Unreported Income;
+iii. in the alternative, the Appellant is abusing this Court’s process by attempting to relitigate the inclusion of the Unreported Income, with associated gross negligence penalties;
+…
+[9] On December 14, 2009, counsel for the Appellant filed a Notice of Motion. Counsel for the Appellant specifically requested the following:
+…
+a. The Respondent is estopped from rejecting the unclaimed lawful deductions of the Appellant;
+b. The Appellant’s proper and legally available deductions can offset the unreported income alleged by the Respondent for the 1997 and 1998 taxation years;
+2. To strike from the Respondent’s Notice of Motion and Affidavit dated November 26, 2009, all paragraphs relating to the Appellant’s criminal prosecution including the paragraph pleading reliance on issue estoppel and abuse of Court process pursuant to Rules 53(a) and (b) of the Tax Court of Canada Rules (General Procedure) (SOR/90-688a) (“Rules”)
+3. To strike off all the reliefs sought by the Respondent in its Notice of Motion and Affidavit dated November 26, 2009 under Rules 58(2)(a)
+…
+[10] Counsel for the Appellant maintains that the Appellant should be entitled to deduct the expenses incurred by him in calculating his taxable income.
+B. ISSUES
+[11] Does issue estoppel or abuse of process apply in this situation?
+C. ANALYSIS AND DECISION
+[12] Counsel for the Respondent said that the doctrines of issue estoppel and abuse of process exist and are used to aid judicial economy, consistency, finality and the administration of justice. Counsel for the Respondent noted that they are available to prevent relitigation of matters already decided in another court proceeding.
+[13] In her Factum, counsel for the Respondent said:
+…
+2. The Appellants in these matters are attempting to relitigate matters already decided in another court proceeding. The Crown takes the position that the Appellants should be precluded from doing so, and seeks the Court’s ruling in relation to same pursuant to Rule 58.
+3. … the Appellants have been convicted, in the Provincial Court of Alberta, of criminal charges based on failure to report taxable income. …
+4. The decision of the Alberta Provincial Court in R. v. Mortensen 2004 ABPC 104 held that Christopher Mortensen failed to report $5,398.52 in commission cheques in 1997; and $48,000 in commission cheques in 1998. …
+5. The amounts upon which Christopher Mortensen was convicted are the same amounts upon which Christopher Mortensen was reassessed, and now appeals to the Tax Court.
+6. The decision by the Alberta Provincial Court was final. …
+…
+13. The Crown takes the position that the Appellants should be precluded from relitigating these same amounts, on the basis of issue estoppel or, alternatively, abuse of process, and seeks the Court’s ruling in relation to same pursuant to Rule 58.
+Issue Estoppel
+14. It is open to the court to apply the doctrine of issue estoppel to prevent relitigation of matters already decided in another court proceeding. According to the Federal Court of Appeal in the Van Rooy case [Van Rooy v. M.N.R., 88 D.T.C. 6323] issue estoppel can apply in a civil proceeding in the Tax Court where the issue estoppel is based on a conviction in a criminal case.
+15. Issue estoppel can be decided on a motion prior to hearing evidence at trial. In this case, the Crown has brought a motion under Rule 58, and has filed a supporting affidavit sworn by Scott Quon.
+16. In deciding whether or not issue estoppel applies, the Court should look at the realities of the criminal proceedings in order to determine what those proceedings determined.
+17. The case law sets out the preconditions for the application of issue estoppel:
+a. The earlier court decision must have decided the same question that is before this Court, and the question was fundamental to the earlier court’s decision;
+b. The earlier court decision must be final;
+c. There must be a mutuality of parties in the proceedings; and
+d. In light of the three foregoing criteria, whether issue estoppel ought to be applied to ensure justice is done on the facts of a particular case.
+18. In tax appeal cases, the doctrine of issue estoppel should be applied in respect of a prior criminal tax evasion where the Court is satisfied that the issue of quantum in each particular taxation year was decided in the criminal proceedings. For example, in Holub v. Canada [[1996] T.C.J. No. 1784] the Tax Court applied the doctrine of issue estoppel in a case where the appellants had been convicted of failing to report income, but then appealed a reassessment that included those same amounts in their income. The Court held the appellants were estopped from relitigating the information amounts, and could proceed with their action only as it related to the balance of the reassessment.
+…
+Abuse of Process
+21. The doctrine of abuse of process is also available to the Court to prevent relitigation of matters already decided in another court proceeding. Generally, this doctrine is available to preclude relitigation where the strict requirements of issue estoppel, namely privity and mutuality are not met, but where allowing the litigation to proceed would nonetheless violate such principles as judicial economy, consistency, finality and the administration of justice.
+22. Relitigation should be avoided unless it is in fact necessary to enhance the credibility and effectiveness of the adjudicative process. Examples of when relitigation might be appropriate would be where:
+a. The first proceeding is tainted by fraud or dishonesty;
+b. Fresh new evidence, previously unavailable, conclusively impeaches the original result; or
+c. Fairness dictates the original result should not be binding in the new context.
+…
+[14] James Shea, counsel for the Appellant, said that the Appellant agrees that he received the funds in the amounts of $5,398.52 and $48,000.00 in the 1997 and 1998 taxation years. However, Mr. Shea said that the Crown is seeking to take away from Chris Mortensen the right to deduct appropriate expenses incurred in relation to the earning of that income.
+[15] Counsel for the Respondent relied upon a number of Court decisions in support of her motion. Counsel referred to the decision of Justice Boyle in Golden et al. v. The Queen, 2008 D.T.C. 3363. At paragraphs 22 and 23 of the Golden decision, Justice Boyle said:
+[22] In considering whether or not issue estoppel applies, it is open for the Court to look at more than the certificate of criminal conviction. This Court should look at the realities of the criminal proceedings in order to determine what was decided by it.
+[23] The preconditions for the application of issue estoppel are:
+1. the earlier court decision must have decided the same question that is before this Court, and the question was fundamental to the earlier court's decision;
+…
+(Note: The decision of Justice Boyle in Golden was upheld by the Federal Court of Appeal, 2009 FCA 86, 2009 D.T.C. 5079.)
+[16] I have carefully reviewed the decision of Justice C.L. Daniel of the Alberta Provincial Court in R. v. Mortensen, 2004 ABPC 104, [2004] 4 C.T.C. 335. In reviewing the decision, I have noted that Justice Daniel did not consider or deal with any of the expenses that may have been incurred by the Appellant when he earned the commission income in 1997 and 1998.
+[17] In other words, it cannot be said that the decision of the Provincial Court of Alberta had decided the same question that is before the Tax Court.
+[18] Counsel for the Respondent also said that it is the Crown’s position that in the interest of finality, consistency and economy of judicial resources, that issue estoppel should simply apply to prevent the relitigating of amounts now 13 years old (Transcript, page 21, lines 24-25 and page 22, lines 1-5).
+[19] In connection with delay, Mr. Shea said:
+… The full forces of the Queen did not issue prosecution against him until 2003. It went to trial in 2003, appealed in 2004. …
+(Transcript, page 44, lines 2-4)
+(Note: The Judgment of Justice Daniel indicates that the case was heard on May 3 and 4, 2004 and his decision was rendered on June 18, 2004.)
+[20] Mr. Shea continues:
+The matter is not delayed in - - with all due respect, Your Honour. ….
+(Transcript, page 44, lines 5-6)
+[21] At page 44 of the Transcript, I said:
+Justice: … I notice that the reassessments under appeal were issued on April 2nd, 2007.
+(Transcript, page 44, lines 13-14)
+[22] In my opinion, based upon the above dates and circumstances, it is my opinion that counsel for the Respondent has no basis to blame the delay on the Appellant. Most of the delay in this case seems to have been caused by the Provincial Crown before and during the criminal prosecution and by the officials of the Canada Revenue Agency.
+[23] I have concluded as follows:
+(1) The Appellant is estopped from arguing that he did not receive the amounts of $5,398.52 in commission in the 1997 taxation year and $48,000.00 in commission in the 1998 taxation year.
+(2) The Appellant is not estopped from arguing before the Tax Court that he incurred expenses in the 1997 and 1998 taxation year in order to earn the commissions.
+(3) The Appellant is not estopped from appealing the assessment of gross negligence penalties on the unreported income.
+(4) The Respondent is not required to strike any comments made in the Notice of Motion and Affidavit as requested by the Appellant in his Notice of Motion.
+[24] The Respondent’s Motion is partially allowed and the Appellant’s Motion is partially allowed.
+Signed at Toronto, Ontario, this 14th day of September 2010.
+“L.M. Little”
+Little J.
+CITATION: 2010 TCC 164
+COURT FILE NO.: 2007-4935(IT)G
+STYLE OF CAUSE: Chris Mortensen
+and Her Majesty The Queen
+PLACE OF HEARING: Calgary, Alberta
+DATE OF HEARING: January 26, 2010
+REASONS FOR ORDER BY: The Honourable Justice L.M. Little
+DATE OF ORDER: March 19, 2010
+DATE OF AMENDED ORDER: SEPTEMBER 14, 2010
+APPEARANCES:
+Counsel for the Appellant:
+James G. Shea
+Counsel for the Respondent:
+Marla Teeling
+Kim Palichuk
+COUNSEL OF RECORD:
+For the Appellant:
+Name: James G. Shea
+Firm: Shea Nerland Calnan LLP
+Calgary, Alberta
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

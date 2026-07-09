@@ -1,0 +1,349 @@
+---
+title: "Tshibungu c. Le Roi"
+source: "https://norma.lexum.com/tcc-cci/decisions/fr/item/521445/index.do"
+last_modified: "2025-05-15"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2025 CCI 74"
+citation2: ""
+neutral_citation: "2025 CCI 74"
+decision_date: "2025-05-15"
+language: "fr"
+item_id: "521445"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5459
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2025-11-08T09:07:40.879000+00:00"
+cases_cited_count: 4
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "273a4a545711e22ab8d3415ffdb3d4de14b8b981d632dbd39099ecdfbc40a096"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Tshibungu c. Le Roi
+
+- Citation: 2025 CCI 74
+- Decision date: 2025-05-15
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5459, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Tshibungu c. Le Roi
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2025-05-15
+Référence neutre
+2025 CCI 74
+Numéro de dossier
+2018-3844(IT)I
+Juges et Officiers taxateurs
+Michael U. Ezri
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2018-3844(IT)I
+ENTRE :
+CLEMENT NYEMBWE TSHIBUNGU,
+appelant,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+Appel entendu les 18, 19 et 26 novembre 2024 et le 5 février 2025, à Toronto (Ontario).
+Devant : l’honorable juge Michael U. Ezri
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocats de l’intimé :
+Me Helli Raptis
+Me H.-M. Cap-Dorcelly
+Me Gabriel Caron
+JUGEMENT
+Les appels concernant les années d’imposition 2003 et 2004 sont rejetés.
+L’appel concernant l’année d’imposition 2005 est accueilli et la cotisation est déférée au ministre pour annulation de la pénalité imposée en vertu du paragraphe 163(2) à l’égard des pertes locatives rejetées.
+L’appel concernant l’année d’imposition 2006 est accueilli et la cotisation est déférée au ministre pour annulation de la pénalité imposée en vertu du paragraphe 163(2) à l’égard des dépenses d’emploi.
+L’appel concernant l’année d’imposition 2007 est accueilli et la cotisation est déférée au ministre pour annulation de la pénalité imposée en vertu du paragraphe 163(2) à l’égard des dépenses d’emploi.
+Aucuns dépens ne sont adjugés.
+Signé à Toronto (Ontario), ce 15e jour de mai 2025.
+« Michael Ezri »
+Le juge Ezri
+Référence : 2025 CCI 74
+Date : 20250514
+Dossier : 2018-3844(IT)I
+ENTRE :
+CLEMENT NYEMBWE TSHIBUNGU,
+appelant,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+MOTIFS DU JUGEMENT
+Le juge Ezri
+I. INTRODUCTION [1] L’appelant, Clement Nyembwe Tshibungu, allègue avoir fait des dons de plus de 100 000 $ à des organismes de bienfaisance enregistrés. Il aurait, sur une période de cinq ans, retiré des espèces de différents comptes bancaires pour ensuite les donner à deux hommes prénommés Charles et Andrew (ou s’agissait-il plutôt d’Edward? Il en est question un peu plus loin). L’Agence du revenu du Canada (l’« ARC »), puisqu’elle ne croyait pas l’appelant, a établi à son égard une cotisation refusant les crédits d’impôt pour don et imposant une pénalité pour les faux énoncés faits dans ses déclarations de revenus. Je conclus également que l’existence des dons allégués n’est pas étayée par la preuve.
+[2] Une deuxième question a également été examinée, concernant des dépenses d’emploi. Le montant de ces dépenses a été établi correctement dans les cotisations, mais je suis d’avis que les pénalités n’étaient pas justifiées à l’égard des redressements pour les deux années d’imposition.
+[3] La troisième question en litige concerne les pertes locatives de 2005. L’appelant ne demande plus la déduction pour les pertes locatives, mais il conteste la pénalité imposée, laquelle est toujours en litige.
+[4] Quant à la quatrième question, sur les crédits pour études demandés en 2004, la Couronne a expliqué qu’en fait, ils avaient été accordés dans la nouvelle cotisation.
+A. Aperçu des faits [5] L’appelant est titulaire d’une maîtrise en informatique et travaille dans ce domaine.
+[6] L’appelant a saisi notre Cour de plusieurs appels, qui sont en instance. L’appel en l’espèce vise les nouvelles cotisations établies à l’égard de l’appelant pour les années d’imposition 2003 à 2007. Pour chaque année, la principale question en litige concerne la décision de l’ARC de refuser les crédits d’impôt pour dons de bienfaisance. Les sommes qui auraient été données chaque année sont les suivantes :
+2003 : 34 000 $
+2004 : 27 950 $
+2005 : 11 090 $
+2006 : 15 330 $
+2007 : 16 500 $
+[7] Dans son témoignage, l’appelant a expliqué que, pendant les années en litige, il avait financé une série de dons en espèces en retirant des espèces de son compte bancaire ou en empruntant à des sociétés de prêt sur salaire. Il avait ensuite recours à des services de courtage, offerts par Charles et Andrew/Edward, à qui il remettait ces espèces. Quoi qu’il en soit, Charles et Andrew/Edward auraient donné ces espèces à différents organismes de bienfaisance. Ces opérations se seraient produites à plusieurs reprises durant les périodes visées par l’appel, parfois plusieurs fois par jour. Les courtiers produisaient ensuite des reçus fiscaux, dont le spécialiste en déclarations de revenus de l’appelant avait besoin pour préparer les déclarations de revenus de ce dernier.
+[8] L’appelant n’a produit des reçus que pour ses années d’imposition 2006 et 2007. Les reçus étaient douteux. Les différents organismes de bienfaisance ont affirmé ne pas avoir délivré de reçus ou n’avaient aucune trace de la délivrance de tels reçus. Parmi les éléments de preuve présentés au procès, on comptait les notes qu’avait prises l’agent des appels de l’ARC lors de ses conversations avec deux des organismes de bienfaisance ainsi que le témoignage de la directrice générale de l’un des organismes de bienfaisance.
+[9] Malheureusement, le spécialiste en déclarations de revenus de M. Tshibungu, un certain M. Frempong, ainsi que ses deux associés ont été mêlés à une tentative de déclaration de faux dons de bienfaisance pour des clients au moyen de faux reçus. Il semble que les deux associés aient été déclarés coupables et que M. Frempong ait choisi de prendre des vacances à l’extérieur du Canada, sans billet de retour. C’est parce que M. Tshibungu a eu recours aux services de préparation de déclarations de revenus de M. Frempong qu’il a attiré l’attention de l’ARC.
+[10] En 2009, l’ARC a mené une vérification à l’égard de l’appelant et a demandé les reçus et d’autres pièces justificatives des dons. L’ARC a reçu certaines pièces telles que des relevés bancaires indiquant des retraits de comptes bancaires ainsi que des prêts sur salaire, mais n’a reçu aucun document qui permettait de rattacher ces fonds aux organismes de bienfaisance. L’ARC a donc établi une nouvelle cotisation à l’égard de l’appelant dans laquelle les crédits pour dons ont été refusés.
+[11] L’ARC a également refusé la déduction de dépenses liées à une automobile qui s’élevaient à 7 450 $ en 2006 et à 8 700 $ en 2007 ainsi que la déduction d’une perte locative de 8 018 $ en 2005.
+[12] Les pénalités prévues au paragraphe 163(2) ont été imposées à l’égard de tous les redressements contestés devant notre Cour.
+[13] L’appelant s’est opposé aux cotisations, mais l’ARC n’a pu traiter son avis d’opposition que six ans plus tard puisque son enquête sur M. Frempong et ses associés avait mené à un procès criminel. Ce n’est que vers la fin de 2016 que la Direction générale des appels de l’ARC a demandé des documents supplémentaires justifiant les diverses déductions et divers crédits d’impôt demandés par l’appelant. Aucun document n’a été fourni. Toutefois, l’appelant soutient que la majorité de ces documents ont été volés de sa mallette lors d’un voyage en France à l’été 2017. L’ARC a en fin de compte confirmé les nouvelles cotisations, à l’exception d’un crédit d’impôt pour études qui a été accordé.
+B. Question liée à la preuve par enregistrement du souvenir [14] L’appelant et l’intimé ont présenté des éléments de preuve que j’ai admis à titre d’enregistrement du souvenir. Il est utile d’expliquer pourquoi j’ai admis ces documents en preuve.
+[15] Tanner Matschke était le premier agent des appels de l’ARC chargé d’examiner l’opposition de l’appelant concernant les nouvelles cotisations établies pour les années d’imposition 2003 à 2007. M. Matschke a tenu un journal de ses échanges (souvent appelé un T2020) dans lequel il consignait ses conversations de 2016 avec certains organismes de bienfaisance. Ces conversations portaient sur certains reçus pour dons présentés par M. Tshibungu. Les souvenirs de M. Matschke quant à son travail sur ce dossier dépendaient largement de son journal. Il n’était pas en mesure de se rappeler les détails des faits en l’espèce.
+[16] M. Tshibungu a produit en preuve une série de relevés bancaires, qui ne sont pas des enregistrements du souvenir, et a également présenté une liste (la « liste ») qu’il avait préparée et dans laquelle il indiquait quelles opérations des relevés bancaires constituaient des retraits en espèces ayant servi aux dons. La liste couvre les années 2003 à 2007. L’appelant a témoigné lors du voir-dire qu’il avait préparé la liste en réponse à la lettre de vérification de l’ARC envoyée en 2009. Il a témoigné qu’il n’avait aucun souvenir personnel des opérations.
+[17] Je suis d’avis que le journal de M. Matschke ainsi que la liste de M. Tshibungu, plutôt que leurs témoignages, constituent les éléments de preuve quant aux faits consignés dans ces documents puisque ni M. Matschke ni M. Tshibungu n’ont pu fournir de témoignage personnel à ce sujet. Il s’agit de documents qui enregistrent le souvenir des témoins.
+[18] La règle régissant l’enregistrement du souvenir a récemment fait l’objet d’un examen dans un article de l’Advocates’ Journal. J’en résume les principaux points ainsi :
+[traduction]
+a)Dans un litige civil, en raison de la quantité de documents produits, combinée au délai avant la tenue du procès, il n’est pas inhabituel que les souvenirs du témoin s’estompent avec le temps;
+b)La règle de l’enregistrement du souvenir est souvent examinée conjointement avec la « règle du souvenir contemporain ravivé ». Cette dernière règle prévoit que, lorsqu’un témoin a des souvenirs flous d’un événement, il pourrait être autorisé à utiliser des notes, des courriels ou d’autres documents pour se rafraîchir la mémoire. Toutefois, la preuve est constituée du témoignage oral du témoin et non pas du document qu’il a utilisé pour se rafraîchir la mémoire;
+c)Il arrive qu’un témoin ne se souvienne tout simplement pas des événements en cause indépendamment du document qui consigne cette information. Il n’est pas nécessaire que le témoin ne se souvienne aucunement des événements; le fait qu’il ait des trous de mémoire suffit. Dans ce cas, le document en soi sera admis en preuve afin de combler ces trous. Il s’agit de la « règle de l’enregistrement du souvenir ». Les exigences d’admission de tels documents sont les suivantes :
+Le document qui sera admis doit avoir été rédigé ou examiné par le témoin lui-même;
+Le document original doit être utilisé, si possible;
+Le document doit avoir été établi ou examiné dans un délai raisonnable, c’est-à-dire lorsque l’événement était suffisamment récent pour que le souvenir soit vivide et exact;
+Le témoin doit garantir l’exactitude du document[1].
+[19] En ce qui concerne M. Matschke :
+a)Il a des trous de mémoire. Sa preuve est le journal qu’il a tenu[2];
+b)Il a fait les inscriptions dans son journal T2020;
+c)Il a tenu son journal T2020 électroniquement, ce qui élimine la question de la version originale par opposition à la copie;
+d)Il a effectué ses inscriptions alors qu’il communiquait avec les personnes qui y sont mentionnées;
+e)Il a garanti l’exactitude du T2020 en témoignant que l’entièreté de sa démarche à titre d’agent des appels figurait au dossier;
+f)Ses notes ont été examinées par Robert Malouf (agent des appels qui a pris la relève), quoique cela n’ait pas été strictement nécessaire pour en fonder l’admissibilité, et ce dernier n’a pas soulevé de questions quant au T2020 à l’époque ni dans son témoignage au procès.
+[20] Les conditions pour que soient admises les inscriptions du journal T2020 de M. Matschke à titre d’enregistrement du souvenir ont été respectées et ces dernières ont donc été admises. À proprement parler, seuls les passages nécessaires pour étayer le témoignage de M. Matschke devraient être admis, mais puisqu’il s’avère difficile de déterminer quelles parties de ce document relativement court servent à rafraîchir la mémoire plutôt qu’à enregistrer le souvenir, j’ai admis la totalité du document. J’ajouterais que les auteurs de l’article paru dans The Advocates’ Journal dont il est question plus haut proposent la modification suivante au principe de l’enregistrement du souvenir :
+[traduction]
+[…] que le principe de l’enregistrement du souvenir soit modifié de sorte à supprimer la distinction entre les témoins qui n’ont aucun souvenir d’un événement et ceux qui ont certains souvenirs d’un événement. Autrement dit, qu’un document soit utilisé pour combler les vides ou rafraîchir la mémoire du témoin, l’entièreté du document devrait être admissible à titre d’enregistrement du souvenir sans égard au fait que le souvenir du témoin chevauche certains éléments du document, à condition que le document respecte les autres critères de fiabilité, de contemporanéité et de garantie quant à l’exactitude[3].
+C. M. Tshibungu [21] En ce qui concerne M. Tshibungu :
+a)Il ne se souvient pas des opérations figurant dans la liste, mais plusieurs d’entre elles correspondent aux relevés bancaires qu’il a présentés ainsi qu’aux lettres préparées par Money Mart et Cash Money dans lesquelles sont énumérées des opérations. Je répète que la liste est la preuve;
+b)Il a établi la liste;
+c)La liste a été préparée électroniquement puis imprimée. J’ignore s’il existe une version plus authentique que les copies produites en preuve;
+d)La liste n’a pas été préparée à la même époque que les événements qu’elle consigne. Même les opérations les plus récentes de la liste ont été effectuées deux ans avant son établissement. La liste contient également un nombre important d’opérations qui avaient eu lieu cinq ou six ans avant que M. Tshibungu n’aille les récupérer dans ses relevés bancaires et relevés d’opérations pour les ajouter à sa liste de dons de bienfaisance.
+[22] Les arguments justifiant l’admission de la liste d’opérations étaient très faibles. Bien franchement, si l’on applique le critère formel de l’enregistrement du souvenir, le document échoue en raison du manque de contemporanéité. Toutefois, deux facteurs ont milité en faveur de son admission :
+a)La Loi sur la Cour canadienne de l’impôt prévoit un assouplissement des règles de preuve dans les affaires entendues sous le régime de la procédure informelle de notre Cour. Le paragraphe 18.15(3) est rédigé en ces termes :
+(3) Par dérogation à la loi habilitante, la Cour n’est pas liée par les règles de preuve lors de l’audition de tels appels; ceux-ci sont entendus d’une manière informelle et le plus rapidement possible, dans la mesure où les circonstances et l’équité le permettent.
+b)Je suis conscient qu’il aura fallu huit ans à l’ARC pour traiter l’avis d’opposition de l’appelant. Les problèmes que pose la liste auraient pu être plus facilement résolus, du moins ceux qui concernent les années les plus récentes, si l’ARC avait mis plus d’empressement à examiner l’opposition.
+[23] La liste a donc été admise en preuve à titre d’enregistrement du souvenir dont le poids reste à déterminer.
+[24] Je me penche à présent sur les questions en litige.
+D. Les dons (1) Montant des dons [25] L’appelant a déclaré d’importants dons pour chacune des années d’imposition en cause. Si l’on accepte sans réserve les déclarations de revenus ainsi que le témoignage de M. Tshibungu, il a gagné en 2003, après retenues à la source, 49 415 $ de revenus nets de travail. Il a ensuite fait don de 34 000 $ à des organismes de bienfaisance, ce qui lui laissait seulement 15 000 $ pour payer son loyer à Toronto, s’acheter de la nourriture et payer ses autres dépenses quotidiennes. L’année 2004 était pire, avec seulement 13 273 $ pour payer ses dépenses, à l’exception bien évidemment de son remboursement d’impôt pour 2003. Quant aux années suivantes, les écarts sont moins prononcés. Toutefois, les relevés bancaires produits en preuve révèlent que, jusqu’en 2006, les comptes bancaires de M. Tshibungu étaient fréquemment à découvert et que des frais administratifs pour la présentation de chèques, pour opposition au paiement ou pour chèque sans provision lui étaient souvent facturés, ce qui donne à penser que M. Tshibungu excédait régulièrement la limite de son autorisation de découvert. Au vu de la preuve, la seule conclusion raisonnable que je peux tirer est qu’aucune personne raisonnable n’agirait comme l’appelant avec une portion aussi importante de son revenu.
+(2) Manière dont étaient effectués les dons [26] Pour toutes les années en cause, les dons ont été faits en espèces. L’appelant a affirmé qu’il retirait régulièrement des espèces, qu’il donnait ensuite à deux « courtiers ». Lors de son témoignage, l’appelant a indiqué que ceux-ci s’appelaient Charles et Andrew, mais qu’il ne pouvait pas se rappeler leurs noms de famille. Aucune précision n’a été donnée quant à l’endroit où les opérations se sont déroulées, aux raisons qui expliqueraient pourquoi telle somme était donnée à tel moment ni aux raisons pour lesquelles les dons étaient faits en espèces.
+[27] Ou est-ce que M. Tshibungu avait plutôt affirmé que les « courtiers » se prénommaient Charles et Edward? J’aurais pu jurer que M. Tshibungu passait de Charles et Andrew à Charles et Edward dans son témoignage. En effet, les transcriptions le confirment :
+18 novembre 2024 transcription (p. 21-22)
+26 novembre 2024 (p. 40 à 42)
+LE JUGE : Les noms de ces brokers? Les noms de ces brokers, quel[s] étai[ent] leurs noms?
+M. TSHIBUNGU : Votre Honneur, nous allons toucher à une autre partie sensible. Je peux dire un prénom -- je peux dire deux prénoms, mais je ne me rappelle plus du nom exact de cette organisation -- de cette société.
+LE JUGE : Vous avez oublié?
+M. TSHIBUNGU : Oui, Votre Honneur, ça fait trop longtemps. Et je crois que je vais devoir toucher le point que je garde en suspens, même si ça va un peu perturber la suite de mon raisonnement.
+LE JUGE : Est-ce que vous vous souvenez de leur prénom?
+M. TSHIBUNGU : Oui, je me rappelle des deux personnes avec lesquelles je travaillais. L’un s’appelait Andrew -- la deuxième personne s’appelait Andrew, mais le principal, Andrew -- le principal s’appelait Charles.
+LE JUGE : Andrew and Charles.
+M. TSHIBUNGU : Charles et Andrew, Votre Honneur, si vous permettez.
+Q : Donc vous n’avez pas fait de vérification qu’il les avait fait parvenir à la Cancer Recovery Foundation of Canada?
+R : Moi je me rappelle avoir fait les vérifications. Moi je me rappelle avoir fait les vérifications. D’abord a) la première chose que je fais c’est -- et je crois que je l’ai dit, je l’ai dit le premier jour de mon -- de mon témoignage, quand moi j’engage avec une -- un organisme de charité, je vérifie si le broker qui est en train de la représenter est reconnu. C’est pour ça que j’ai demandé à Mme Kroon la liste de ses brokers parce que je voulais voir si la -- la compagnie derrière M. Charles et M. Edward était -- parce que comme moi j’ai vérifié est-ce que vous connaissez quelle organisation qui fait du fundraising pour vous, oui, pour moi c’est suffisant
+…
+LE JUGE : Vous avez demandé à Cancer Foundation s’ils connaissaient x, y -- Edward Charles?
+R : Oui, avant de commencer à leur donner pour le compte de CRFC.
+LE JUGE : And est-ce que vous avez utilisé le nom de leur compagnie? Parce que je -- jusqu’à maintenant je ne savais pas qu’il y avait une compagnie derrière Edward Charles parce que vous avez prononcé le nom de Edward Charles.
+R : Ok. Merci Votre Honneur.
+En fait, quand j’ai dit -- j’ai dit que la compagnie qui faisait le fundraising, le broker, je ne me rappelle plus du nom. C’était des individus, mais qui travaillaient pour une compagnie, pour une organisation.
+[28] Il pourrait bien évidemment s’agir d’un lapsus commis par M. Tshibungu, mais je reconnais également avoir été frappé par la coïncidence qui existe entre les trois prénoms – Charles, Andrew et Edward – et les prénoms des trois frères de la famille royale britannique. En fin de compte, la contradiction me dérange parce qu’elle me porte à croire que l’appelant a inventé les noms des courtiers en s’inspirant des noms de la famille royale.
+[29] Je dois ajouter qu’aucun des éléments de preuve ne démontre de liens entre les personnes prénommées Charles et Andrew ou Edward et les organismes de bienfaisance en cause.
+[30] L’appelant a produit la liste dont il est question plus haut, concernant ses retraits en espèces de différents comptes bancaires ainsi que des relevés bancaires montrant ces retraits. Pour les années 2003 à 2005, la liste n’indique pas pour qui les retraits ont été effectués ni à qui les espèces ont été données. Les opérations de 2006 ont été classées sous le titre « Cancer Recovery Foundation of Canada ». Pour 2007, les opérations sont classées dans deux catégories : la Fondation du cancer du sein et l’Armée du salut. La liste n’est pas accompagnée de pièces justificatives qui prouveraient que les espèces ont réellement été données à ces organismes.
+[31] Les activités liées aux retraits sont étonnantes pour plusieurs raisons :
+a)Le nombre d’opérations était élevé. Au cours des cinq années en cause, M. Tshibungu aurait fait plus de 260 dons individuels en retirant des espèces de ses comptes bancaires ou en empruntant au moyen de prêts sur salaire de Money Mart ou de Cash Money;
+b)Les intervalles auxquels étaient effectués les retraits dans une année d’imposition donnée ou d’une année d’imposition à l’autre manquaient de constance. En 2003, l’appelant a effectué approximativement[4] 136 retraits d’espèces distincts en vue de faire des dons de bienfaisance. En 2004, ce nombre a descendu à approximativement 71 retraits, puis à approximativement 13 retraits en 2005. En 2006, l’appelant a effectué 18 retraits et en 2007, 21 retraits;
+c)Rien ne justifiait la fréquence à laquelle étaient effectués les retraits, particulièrement en 2003 et en 2004. Il est arrivé à maintes reprises que l’appelant ait effectué plusieurs retraits en une seule journée. Par exemple, le 14 avril 2003, l’appelant a indiqué dans la liste avoir fait quatre retraits de son compte bancaire chez CIBC. Le 27 octobre 2003, il a effectué quatre opérations auprès de trois institutions financières différentes; la plus importante opération étant un prêt sur salaire de 400 $ chez Money Mart. Il y a également un bon nombre de « triplets », où il y a eu trois retraits dans une journée, quoique le plus souvent l’appelant effectuait deux opérations par jour, parfois auprès de la même institution financière et d’autres fois non. La fréquence à laquelle il a effectué des doubles ou triples retraits a diminué en 2004, mais des journées comme celle du 15 janvier 2004 sortent du lot. Ce jour-là, M. Tshibungu aurait emprunté 720 $ chez Cash Money pour faire un don de bienfaisance et il aurait ensuite retiré 480 $ de son compte bancaire chez CIBC pour faire un deuxième don.
+d)Aucune explication n’a été donnée quant à la raison pour laquelle M. Tshibungu devait effectuer deux, trois, voire quatre dons de bienfaisance en espèces en une seule journée.
+[32] J’explique plus haut pourquoi j’ai admis la liste en preuve. Toutefois, il existe une différence entre admettre des documents et s’appuyer sur ceux-ci (c’est-à-dire leur donner du poids). À mon avis, la liste ne prouve en rien que les opérations constituaient réellement des dons à des organismes de bienfaisance. Les principaux problèmes que comporte la liste sont les suivants :
+a)Je ne crois pas le témoignage de M. Tshibungu selon lequel il a remis des espèces, jusqu’à trois ou quatre fois par jour, à deux hommes prénommés Charles et Andrew/Edward afin que ceux-ci donnent cet argent à des organismes de bienfaisance. Ce témoignage défie le bon sens;
+b)Je ne crois pas que Charles et Andrew/Edward aient réellement existé ou, s’ils ont existé, je ne crois pas que les prénoms qui m’ont été donnés soient vrais;
+c)Je ne crois pas que même une seule des sommes figurant sur la liste a été remise à un organisme de bienfaisance quelconque. J’ai entendu des témoignages convaincants selon lesquels les organismes de bienfaisance en question n’ont jamais reçu de dons de la part de M. Tshibungu.
+(3) Dons de 2003 à 2005 [33] Lors de son témoignage, l’appelant n’a pas spécifié à qui étaient destinés les dons de 2003 et de 2005, et il n’a présenté aucun reçu. Il a toutefois affirmé qu’il avait des raisons personnelles de soutenir les organismes de bienfaisance pour le cancer. Il a également déclaré qu’il avait des reçus pour ces années, mais ignorait qu’il devait les garder et que ces reçus avaient été conservés par son comptable et spécialiste en déclarations de revenus, M. Frempong. L’appelant a témoigné que les documents de son comptable avaient été saisis par l’ARC, ce qui correspond au témoignage de M. Matschke selon lequel le comptable était impliqué dans un stratagème qui consistait à produire des reçus fiscaux frauduleux.
+[34] Lors du contre-interrogatoire et de ses observations finales, l’appelant a fait beaucoup d’efforts pour démontrer qu’il n’avait jamais été particulièrement lié à de tels stratagèmes. Je suis d’accord. En l’absence d’éléments de preuve explicites montrant la complicité de l’appelant dans un stratagème élargi de fraude, et aucun élément de preuve en ce sens n’a été produit, la justesse de ses nouvelles cotisations doit reposer sur ce que M. Tshibungu a fait ou n’a pas fait, plutôt que sur les personnes qu’il connaissait ou ne connaissait pas.
+(4) Dons de 2006 [35] En ce qui concerne l’année d’imposition 2006, l’appelant a produit deux reçus semblables censés être des reçus fiscaux pour ses dons de 15 330 $ à la Cancer Recovery Foundation of Canada (la « fondation Recovery »). Chaque reçu concernait la totalité de l’année civile. On note les différences suivantes entre les deux reçus :
+a)Le numéro d’engagement du premier reçu était F0004258 alors que le numéro du deuxième reçu était F0004238;
+b)Les remerciements de chaque reçu étaient légèrement différents. Le premier reçu indiquait [traduction] « Merci de votre généreux don et de soutenir la Cancer Recovery Foundation ». Sur le deuxième reçu, on pouvait lire [traduction] « Merci de votre généreux don »;
+c)La mise en page des deux reçus était légèrement différente.
+(5) Témoignage de Mme Kroon sur les reçus de 2006 [36] Shannon Kroon, la directrice générale de la « Shine Through the Rain Foundation » (la « fondation Rain »), a témoigné pour l’intimé en ce qui concerne les dons de 2006. Mme Kroon travaille pour la fondation Recovery, devenue Rain, depuis 2010.
+[37] Mme Kroon a expliqué que la fondation Recovery avait changé de nom et était devenue la fondation Rain en 2016. Lorsqu’elle a été questionnée à cet égard en contre-interrogatoire, elle a présenté un certificat de modification ainsi que des clauses de modification conformément à la Loi canadienne sur les organisations à but non lucratif corroborant le changement du nom de la fondation.
+[38] Le témoignage de Mme Kroon a nui à l’appelant. Cette dernière a affirmé que la fondation Rain garde trace dans ses dossiers des dons reçus depuis 2003. Elle a mené des recherches approfondies, mais n’a pas pu trouver de document attestant d’un don fait par l’appelant. Mme Kroon n’a rien trouvé qui montrerait que la fondation Recovery, devenue Rain, n’ait jamais délivré un reçu fiscal à l’appelant.
+[39] L’intimé a introduit en preuve un rapport produit par Mme Kroon selon lequel 171 donateurs avaient fait un don le 31 décembre 2006. Le nom de l’appelant n’y figurait pas. Mme Kroon a également expliqué que, pendant les années en cause, la fondation Recovery n’avait pas l’habitude de délivrer un seul reçu pour les dons de toute l’année. Les reçus étaient plutôt délivrés quotidiennement ou mensuellement.
+[40] Mme Kroon a relevé plusieurs anomalies en ce qui concerne le don de 15 000 $ de l’appelant, notamment :
+a)Le don de bienfaisance le plus important jamais reçu par la fondation Recovery, devenue Rain, ne s’élevait qu’à 10 000 $ et il s’agissait d’un legs;
+b)Les dons en espèces sont rares; Mme Kroon se rappelle avoir reçu des billets de 20 $ à deux occasions. Les dons s’effectuent habituellement en ligne, sur Internet ou par l’intermédiaire des firmes de télémarketing retenues par la fondation Recovery, devenue Rain, pour solliciter des dons;
+c)Les donateurs qui versent de généreuses sommes ne surgissent pas de nulle part. Ils ont habituellement déjà donné à la fondation Recovery, devenue Rain.
+[41] Mme Kroon a fait remarquer que les reçus auxquels je fais référence plus haut comportent les problèmes suivants :
+a)Les deux reçus ont été signés par [traduction]« Brian Meloche, directeur national du développement ». Mme Kroon a témoigné que cette personne n’était pas employée par la fondation Recovery, devenue Rain. Elle a affirmé avoir examiné les documents de paie ainsi que les procès-verbaux des réunions afin de déterminer si cette personne avait déjà travaillé pour la fondation Recovery, devenue Rain, mais n’avait rien trouvé à son sujet;
+b)La fondation Recovery, devenue Rain, n’a pas de poste de directeur national du développement. Tous les reçus sont signés par Greg Anderson, le fondateur de la fondation Recovery;
+c)La fondation Recovery, devenue Rain, ne délivre pas de reçus qui prennent la forme de lettres. Les reçus de la fondation portent une mention qui atteste de leur caractère officiel. Ils portent les numéros de reçus fiscaux;
+d)Les reçus ne comportent pas de numéros d’engagement. Ces numéros d’engagement servent uniquement au télémarketing;
+e)Les problèmes de mise en page dont il est question plus haut ont été soulevés par Mme Kroon;
+f)Mme Kroon a pris connaissance des reçus de l’appelant il y a de cela quatre ans. À ce moment-là, elle a composé le numéro de téléphone inscrit au bas du reçu; elle est tombée sur la boîte vocale de l’alliance des pompiers volontaires.
+[42] En contre-interrogatoire, Mme Kroon a ajouté ce qui suit à son témoignage :
+a)Le numéro de téléphone 1-800 de la fondation Rain se termine par 4251 et non par 7371, le numéro indiqué sur les reçus;
+b)Peu de temps avant l’audience, l’appelant avait communiqué avec elle pour demander des informations en lien avec les reçus fiscaux en cause. Pour l’aider, elle lui a demandé à maintes reprises de fournir des détails supplémentaires concernant, par exemple, la manière dont il avait fait ses dons de bienfaisance et à qui ils étaient destinés, mais l’appelant n’a pas répondu à ses questions.
+[43] Dans ses observations finales, M. Tshibungu a mis en doute la fiabilité de Mme Kroon, principalement parce qu’elle lui avait mentionné, peu de temps avant l’audience, que l’intimé l’avait citée à comparaître et qu’elle ne pouvait plus l’aider.
+[44] Je suis d’avis que tous les tiers témoins devraient faire tout en leur possible pour soutenir les parties au litige sans égard à la partie qui les sollicite. Cela dit, j’estime que Mme Kroon a déployé des efforts soutenus pour aider M. Tshibungu. De nombreux courriels ont été produits en preuve et il en ressort clairement que Mme Kroon avait exprimé des doutes quant au fait que M. Tshibungu aurait fait un don important à la fondation Recovery, devenue Rain.
+[45] À la lumière du témoignage de Mme Kroon, je conclus que les reçus pour don à la fondation Recovery de 2006 sont des faux. Le témoignage de Mme Kroon vient également affaiblir la fiabilité et la crédibilité de l’appelant.
+(6) Reçus de 2007 [46] L’appelant a produit deux reçus fiscaux pour dons de bienfaisance en 2007 :
+a)Le premier reçu, daté du 31 décembre 2007, a été délivré pour un don de 8 000 $. Le reçu prend la forme d’une lettre rédigée par la Fondation canadienne du cancer du sein (la « FCCS ») dans laquelle elle remercie l’appelant pour [traduction] « Votre don aujourd’hui ». La lettre contient une erreur manifeste puisque la FCCS a d’abord fait référence à l’ARC par le nom d’Agence des douanes et du revenu du Canada, puis par le nom Agence du revenu du Canada. L’appellation « Agence des douanes et du revenu du Canada » est incorrecte. L’ARC a porté ce nom jusqu’en 1999, année où une loi lui donnant le nouveau nom « Agence du revenu du Canada » a été adoptée[5];
+b)Le deuxième reçu pour don de bienfaisance aurait été délivré par l’Armée du salut (« l’Armée ») le 31 décembre 2007, pour une somme de 8 500 $.
+[47] Selon le T2020 de M. Matschke, ce dernier a tenté de communiquer avec la FCCS et l’Armée. La FCCS a rappelé M. Matschke pour l’informer qu’elle n’avait pas délivré de reçu pour un don de bienfaisance de 8 000 $, mais qu’elle en avait délivré un de 35 $ portant le même numéro de reçu que celui du faux reçu de 8 000 $ de l’appelant.
+[48] L’Armée a avisé M. Matschke qu’elle n’avait pas trouvé de reçu délivré pour l’appelant et que, selon ses dossiers, elle n’avait pas délivré le reçu en cause.
+[49] Les informations contenues dans les notes de M. Matschke ne sont pas que l’enregistrement de souvenirs, il s’agit également de ouï-dire. La Couronne a demandé que ces informations soient admises parce qu’elles sont nécessaires et fiables, ce que j’ai fait. M. Matschke a fait son enquête il y a huit ans. Même si l’on trouvait quelqu’un qui pourrait témoigner, il n’y a aucune raison de croire que son témoignage étofferait le contenu des notes de M. Matschke.
+[50] J’explique plus haut les raisons pour lesquelles je n’ai pas donné de poids à la liste de M. Tshibungu. J’explique maintenant pourquoi j’accorde du poids au journal T2020 de M. Matschke :
+a)La preuve de la FCCS n’était pas une déclaration générale concernant le contenu de ses dossiers. Elle avait apparemment des documents précis indiquant qu’elle avait délivré un reçu pour don, mais qui était seulement de 35 $ et qui n’était pas au nom de l’appelant;
+b)La preuve de l’Armée n’était pas aussi convaincante. Elle concernait plutôt l’absence de documents, mais elle a tout de même affirmé qu’elle n’avait pas délivré le reçu présenté par M. Tshibungu;
+c)Les sommes indiquées sur chacun des reçus font pencher la balance en faveur de la preuve dans les notes de M. Matschke. Ces organismes de bienfaisance auraient chacun reçu des dons de plus de 8 000 $. Si l’appelant avait réellement fait des dons de ce montant, les organismes de bienfaisance auraient eu souvenir de lui;
+d)Le témoignage de Mme Kroon concernant les reçus de la fondation Recovery vient étayer dans une certaine mesure l’argument selon lequel les reçus de la FCCS et de l’Armée ne sont pas authentiques. Si un organisme de bienfaisance signale un problème avec le reçu d’un contribuable donné, il peut s’agir d’une erreur, mais si un tel problème survient trois fois, c’est une tendance.
+(7) Ouï-dire dans les reçus [51] Comme les informations contenues dans le T2020, les reçus pour dons de bienfaisance de M. Tshibungu sont également du ouï-dire. Ce sont des documents extrajudiciaires qui n’ont pas été préparés par l’appelant, mais plutôt par des inconnus, et l’appelant me demande de les admettre en preuve et de leur accorder du poids. S’ils sont authentiques, ces documents pourraient être admis à titre de reçus fiscaux officiels, mais leur authenticité est contestée. Ils auraient également pu être admis à titre de pièces commerciales si l’appelant avait obtenu des organismes de bienfaisance émetteurs un affidavit l’attestant, conformément à la Loi sur la preuve au Canada[6], ce qu’il n’a pas fait. De plus, aucune information n’a été donnée quant à la provenance des reçus, mis à part le témoignage de l’appelant en contre-interrogatoire selon lequel les « courtiers », vraisemblablement Charles ou encore Andrew/Edward, les lui avaient donnés. Il n’y a aucune explication quant à la façon dont les reçus lui ont été remis. En fin de compte, les reçus ont été admis sur consentement, mais je ne leur accorde aucun poids.
+[52] J’ai également admis en preuve le ouï-dire dans le témoignage de l’appelant (mais pas celui dans ses notes manuscrites) selon lequel il avait parlé à une personne prénommée Jessica à une boutique d’occasions de l’Armée du salut le 30 octobre 2024 et que celle-ci lui avait dit que les documents n’étaient plus disponibles.
+[53] Je retiens la preuve par ouï-dire de M. Matschke plutôt que celle figurant dans les reçus de l’appelant. Je retiens également la preuve issue des conversations de M. Matschke avec la FCCS et l’Armée plutôt que le ouï-dire issu de l’échange entre l’appelant et Jessica à la boutique de l’Armée du salut. Il n’y a pas suffisamment de détails expliquant pourquoi l’employée d’une boutique d’occasions de l’Armée du salut pourrait répondre efficacement aux questions de l’appelant. Quoi qu’il en soit, l’appelant a posé des questions huit ans après M. Matschke. Je ne suis donc pas prêt à conclure que l’absence d’informations en octobre 2024 signifie qu’aucune information n’était à la disposition de M. Matschke en 2016.
+[54] Je fais remarquer plus haut que M. Malouf a également témoigné pour l’intimé en ce qui concerne les reçus et les questions connexes. Il était également un agent des appels de l’ARC. Le dossier d’opposition de l’appelant lui avait été assigné parce que ce dernier avait demandé que l’ARC le serve en français, ce que M. Matschke ne pouvait faire. Étant donné que M. Malouf n’a pas mené d’enquêtes supplémentaires, son témoignage, quoique livré de manière directe, n’ajoute rien à mon analyse, sauf le fait qu’il appuie l’admissibilité du journal T2020 de M. Matschke à titre d’enregistrement du souvenir.
+[55] À la lumière de la preuve présentée plus haut, je conclus que les reçus de la FCCS et de l’Armée sont des faux.
+(8) Exigences de validité des reçus [56] Je me penche brièvement sur une question découlant des exigences légales encadrant la validité d’un don de bienfaisance. L’alinéa 118.1(2)a) de la Loi de l’impôt sur le revenu (la « LIR ») dispose que, pour qu’un don soit inclus dans le total des dons de bienfaisance, le versement du don doit être attesté par la présentation d’« un reçu contenant les renseignements prescrits ».
+[57] Les exigences prescrites comportent notamment les suivantes :
+a)Tout reçu officiel doit énoncer qu’il s’agit d’un reçu officiel aux fins de l’impôt sur le revenu[7]. Les reçus de l’appelant ne respectent pas cette exigence;
+b)Tout reçu doit indiquer le numéro de série du reçu[8]. L’utilisation de numéros de folio (reçu de 2006 de la fondation Recovery) ou de faux numéros ne satisfait pas à cette exigence;
+c)Tout formulaire de reçu est considéré comme inutilisable si la date de réception du don ou si le montant du don, dans le cas d’un don en espèces, est inscrit de façon incorrecte[9].
+[58] Les documents présentés par l’appelant comme étant des reçus de la fondation Recovery, de la FCCS et de l’Armée ne constituent en aucun cas des reçus fiscaux pour dons de bienfaisance, mais sont simplement des formulaires de reçus inutilisables en raison des modifications dont ils ont fait l’objet.
+(9) Conclusion sur la question des dons [59] Je ne crois pas que les retraits énumérés par l’appelant aient été effectués dans le but de faire des dons à des organismes de bienfaisance. Aucune personne raisonnable agissant de bonne foi n’effectuerait 136 retraits d’espèces distincts s’élevant à 34 000 $ en une seule année et plus de 250 retraits sur une période de cinq ans pour ensuite remettre cet argent à deux hommes prénommés Charles et Andrew/Edward, dont elle ignore les noms de famille. Je tiens à préciser :
+a)Je ne souscris pas à la thèse selon laquelle la totalité des espèces retirées, ou même une partie de celles-ci, a été remise à Charles et Andrew/Edward. Je répète que je ne crois même pas que ces hommes existent ou que les noms qui m’ont été donnés sont authentiques. La liste de retraits en espèces ne vient qu’étayer mon opinion quant à l’absurdité de la forme et de la nature des prétendus dons de l’appelant;
+b)Je suis d’avis qu’aucune des sommes en espèces que l’appelant a retirées et pour lesquelles il a demandé des crédits d’impôt pour dons de bienfaisance n’a été versée à des organismes de bienfaisance;
+c)Ces conclusions s’appliquent à chacune des années visées par le présent appel (2003, 2004, 2005, 2006 et 2007);
+d)Quant aux années pour lesquelles des reçus pour dons de bienfaisance ont été produits, soit 2006 et 2007, ces reçus étaient fabriqués et des faux.
+(10) Pénalité imposée en vertu du paragraphe 163(2) sur les demandes de crédits pour dons [60] Selon le paragraphe 163(2) de la LIR, toute personne qui, sciemment ou dans des circonstances équivalant à faute lourde, fait un faux énoncé ou une omission dans une déclaration ou qui y participe, y consent ou y acquiesce est passible d’une pénalité. Dans un appel en matière d’impôt, le ministre a la charge d’établir les faits qui justifient l’imposition de la pénalité[10].
+E. Faux énoncé [61] Compte tenu des conclusions que je tire ci-dessus, il est manifeste que les déclarations faites par l’appelant dans ses déclarations de revenus selon lesquelles il avait donné les sommes indiquées constituent de faux énoncés. Il faut donc établir si les faux énoncés ont été faits sciemment ou dans des circonstances équivalant à faute lourde.
+(1) Sciemment [62] Il est souvent difficile de prouver que le contribuable a fait sciemment un faux énoncé. C’est pourquoi, dans la plupart des affaires en la matière, l’intimé tente de démontrer que le contribuable a fait preuve d’aveuglement volontaire en faisant de faux énoncés et que faire preuve d’aveuglement volontaire équivaut à savoir. Le choix que doit faire le protagoniste du film La Matrice (prendre la pilule rouge afin de révéler le monde réel ou prendre la pilule bleue pour vivre dans l’ignorance béate) s’est taillé une place dans la culture populaire à titre de métaphore de l’aveuglement volontaire. En droit, l’aveuglement volontaire constitue le vernis du déni le plus fin contre des allégations de participation active ou de complicité passive à des actes répréhensibles.
+[63] Dans l’arrêt Wynter, la Cour d’appel fédérale a statué qu’il n’est pas nécessaire de prouver l’intention réelle de tromper pour établir l’aveuglement volontaire et le fait d’exiger que cette intention soit prouvée ne trouve pas appui dans :
+[…] la jurisprudence bien établie selon laquelle l’ignorance volontaire repose sur la conclusion selon laquelle le contribuable a délibérément décidé de ne pas se renseigner afin d’éviter de vérifier ce qui pourrait être une vérité gênante[11].
+[64] Notre Cour également souligne qu’il faut faire preuve de vigilance avant de confirmer les pénalités et elle encourage, lorsque la conduite du contribuable cadre avec deux hypothèses viables et raisonnables (l’une qui justifie la pénalité et l’autre pas), à accorder le bénéfice du doute au contribuable[12].
+[65] En l’espèce, puisque je considère que l’appelant a inventé les noms des courtiers, j’estime qu’il a pris part de façon volontaire à un stratagème impliquant des dons de bienfaisance qu’il savait faux. Toutefois, même si j’ai tort à cet égard, l’appelant remplit l’exigence d’avoir agi sciemment puisqu’il a fait preuve d’aveuglement volontaire. En voici quelques exemples :
+a)Sa conduite consistant à faire des dons en espèces au moyen de 250 opérations est hors du commun et contraire au comportement d’une personne raisonnable;
+b)Le fait qu’il semblait disposé à remettre l’argent à Charles et à Andrew/Edward sans poser de questions défie la logique et le bon sens;
+c)Le montant des espèces qu’il a données n’était pas seulement important, il était disproportionné à sa situation financière.
+[66] Lors de son interrogatoire principal, l’appelant a consacré énormément de temps à justifier l’absence de preuve par le vol de sa mallette survenu en France, en 2017. Je rejette cette explication. Il ressort de la preuve de la Couronne qu’on avait demandé à l’appelant de fournir des pièces justificatives lors de l’étape de la vérification en 2009 et qu’il ne l’avait pas fait. Je reconnais que le retard de l’ARC quant au traitement de l’opposition de l’appelant n’a été d’aucun secours pour lui[13]. Par contre, lorsque l’ARC a traité l’opposition, elle a agi promptement afin de faire les demandes dont il est question plus haut. L’intimé a agi tout aussi rapidement en communiquant avec Mme Kroon en 2018, soit lorsque l’appelant a déposé son avis d’appel. À l’opposé, l’appelant a attendu jusqu’à un mois avant l’audience avant de commencer à poser des questions, puis a laissé Mme Kroon dans l’ignorance quant à des détails importants dont elle avait besoin pour lui répondre. Ses efforts étaient trop peu, trop tard. Je fais également remarquer que la mallette en question a été volée en juillet 2017, soit huit mois après que les agents des appels de l’ARC ont écrit à l’appelant pour lui demander des pièces justificatives. Pendant ces huit mois, l’appelant n’a jamais communiqué avec l’ARC pour dire qu’il avait, qu’il cherchait ou qu’il comptait fournir des documents. Si l’appelant avait des documents à envoyer à l’ARC, il les aurait envoyés avant juillet 2017.
+[67] L’appelant indique qu’il s’est informé afin de s’assurer que les organismes de bienfaisance étaient authentiques, ce qui consistait à effectuer des recherches en ligne à ce sujet. Au troisième jour de l’audience, lors du voir-dire sur la liste de dons de M. Tshibungu, ce dernier a ajouté qu’il avait téléphoné aux organismes de bienfaisance pour leur demander s’ils avaient entendu parler des courtiers à qui il donnait les espèces. Ils auraient répondu qu’ils ne connaissaient pas ces courtiers. Pour la première fois, M. Tshibungu a déclaré que les courtiers étaient employés par une entreprise et qu’il s’était informé au sujet de l’entreprise pour laquelle ils travaillaient. M. Tshibungu n’a fourni aucune preuve de ces communications. J’ai peine à croire que M. Tshibungu ait remis des espèces des centaines de fois à deux personnes et qu’il ne peut se rappeler le nom de l’entreprise pour laquelle ils travaillent. Je n’accorde pas de poids à son témoignage selon lequel il s’est informé auprès de la FCCS ou de tout autre organisme de bienfaisance de manière contemporaine aux faits en cause.
+[68] L’appelant était irrémédiablement vague dans ses réponses aux questions de base posées par la Couronne en contre-interrogatoire, mais également à celles posées par Mme Kroon lorsqu’il s’était informé auprès d’elle en octobre 2024 au sujet de la présente affaire et, bien évidemment, à celles posées par l’ARC.
+[69] Je suis d’avis que la conduite de l’appelant devant notre Cour et dans ses affaires personnelles recèle de contradictions. En contre-interrogatoire, il a été incapable de fournir des réponses le moindrement précises aux questions concernant la façon dont il remettait les espèces, ses dépenses quotidiennes ou même la manière dont il a pu engager des frais de déplacement pour son travail alors qu’il ne possédait pas d’automobile. Son témoignage à ce sujet fait l’objet d’un examen un peu plus loin, mais son incapacité à fournir des détails de base de ses frais d’automobile, tant devant notre Cour qu’en 2009 lorsque l’ARC le lui avait demandé, est frappante. Je voudrais également ajouter qu’il est ressorti du contre-interrogatoire de l’appelant que ce dernier avait « oublié » de déclarer des revenus de 32 000 $ inscrits sur un feuillet T4 pour 2007.
+[70] Quand l’appelant n’était pas en train de répondre aux questions de manière évasive, de refuser de reconnaître ses propres déclarations de revenus sur lesquelles il avait apposé sa signature ou d’omettre de donner suite aux questions de l’ARC, je l’ai trouvé intelligent, organisé et soucieux du détail. C’est un professionnel qui est titulaire d’une maîtrise en informatique. Il occupait un emploi comportant des responsabilités dans le domaine de la technologie et des logiciels, interagissait avec les clients, voyageait seul et travaillait de manière autonome. En 2007, il gagnait un salaire d’au moins 100 000 $. Il s’agit d’un homme futé.
+[71] L’impression que m’a laissée M. Tshibungu d’être une personne capable et soucieuse du détail a été renforcée lorsqu’il a contre-interrogé les témoins à l’audience. Mis à part les erreurs découlant de son manque de connaissances du système judiciaire, il s’est bien rappelé des témoignages donnés en interrogatoire principal; il a posé ses questions de façon méthodique; et il a persévéré afin d’obtenir les réponses qu’il souhaitait. Par exemple, il a réussi à faire admettre aux témoins de l’ARC qu’il y avait peu d’éléments de preuve l’associant à l’inconduite alléguée de M. Frempong et de ses associés.
+[72] Je ne peux tout simplement pas concilier l’homme vague et indifférent qui a produit des déclarations de revenus sans faire le moindrement attention et qui a donné des réponses manifestement inexactes devant notre Cour avec l’informaticien compétent et soucieux du détail qui est également un habile contre-interrogateur. Je dois conclure que, si M. Tshibungu ne savait pas que les dons pour lesquels il a demandé des crédits d’impôt étaient faux, c’est parce qu’il a choisi cette ignorance.
+[73] Selon la prépondérance des probabilités, la Couronne a démontré que l’appelant a agi sciemment en établissant que celui-ci savait ce qu’il faisait ou qu’il avait fait preuve d’indifférence délibérée en déclarant qu’il avait fait des dons en espèces à différents organismes de bienfaisance.
+(2) Faute lourde [74] Compte tenu de ma conclusion concernant l’aveuglement volontaire, il n’est pas nécessaire, à proprement parler, de déterminer si la conduite de l’appelant équivalait à faute lourde. Toutefois, s’il était nécessaire de le faire, je conclurais à la faute lourde.
+[75] Le sens du terme « faute lourde » est bien établi dans la jurisprudence de notre Cour. Il s’agit d’un concept qui est analogue à l’aveuglement volontaire. Dans la majorité des affaires dont est saisie notre Cour, on continue de renvoyer à la décision Venne[14] de la Cour fédérale. Dans cette affaire, cette cour a donné l’explication suivante :
+La « faute lourde » doit être interprétée comme un cas de négligence plus grave qu’un simple défaut de prudence raisonnable. Il doit y avoir un degré important de négligence qui corresponde à une action délibérée, une indifférence au respect de la Loi.
+[76] Dans l’arrêt Wynter, la Cour d’appel fédérale a résumé habilement la distinction qui existe entre l’aveuglement volontaire et la faute lourde en offrant l’explication suivante :
+En termes simples, alors que le contribuable volontairement ignorant savait, le contribuable coupable d’une faute lourde aurait dû savoir[15].
+[77] Les faits qui mènent à une conclusion d’aveuglement volontaire s’appliquent également au critère de la faute lourde. Ceci dit, si le seul problème en l’espèce était que l’appelant ne s’était pas informé des antécédents des personnes avec qui il avait fait affaire, cette omission aurait simplement pu être qualifiée de faute ordinaire plutôt que de faute lourde. Toutefois, c’est l’utilisation de multiples opérations en espèces au fil des ans combinée à l’importance des sommes données qui font passer les actions de l’appelant de la faute ordinaire à l’« indifférence au respect de la loi ».
+[78] Dans la décision DeCosta, le juge en chef Bowman a jugé que trois facteurs étaient pertinents pour établir la distinction entre la faute lourde et la faute ordinaire. Je présente ces trois facteurs sous forme de tableau, lesquels sont accompagnés de mes commentaires :
+Facteurs DeCosta[16]
+Faits en l’espèce
+L’importance de l’omission relative au revenu déclaré
+L’omission était de grande importance compte tenu du montant des dons par rapport au revenu déclaré et des impôts impayés.
+La faculté du contribuable de découvrir l’erreur
+L’appelant a eu au minimum cinq ans pour découvrir l’erreur. Il a choisi de ne pas poser de questions.
+Le niveau d’instruction du contribuable et son intelligence apparente
+Les deux sont élevés. L’appelant a fait de bonnes études et est manifestement intelligent.
+[79] Les trois facteurs énoncés dans la décision DeCosta sont défavorables à l’appelant.
+[80] J’ai examiné si, pour l’année d’imposition 2003, l’appelant n’avait pas manqué de temps pour vérifier l’exactitude de ses déclarations de revenus, mais je ne suis pas prêt à conclure en ce sens, pour deux motifs :
+a)Compte tenu des montants des dons et de la fréquence à laquelle ont été effectués les nombreux retraits d’espèces en 2003, de toute évidence il fallait adopter une approche plus rigoureuse dans l’examen du traitement qu’avait fait l’appelant de ses affaires fiscales;
+b)Comme l’a fait remarquer l’appelant, il avait également fait un don important en 2002. Bien que je ne sois pas saisi des faits relatifs à ce don, je suis convaincu que l’appelant a eu assez de temps pour découvrir quelque problème que ce soit et pour faire des efforts sincères afin de se conformer à la LIR. Il ne l’a pas fait.
+[81] À l’audience, l’appelant a demandé avec insistance aux témoins de l’ARC de dire si la cotisation était fondée sur la conclusion que l’appelant savait qu’il faisait de faux énoncés ou celle qu’il avait commis une faute lourde. Les réponses données n’étaient pas des plus satisfaisantes. Par exemple, M. Matschke a seulement répondu que les énoncés de l’appelant étaient faux. Toutefois, notre Cour ne procède pas à des contrôles judiciaires. Le ministre a imposé la pénalité et, si la Couronne s’acquitte du fardeau de prouver que la conduite est suffisamment grave, la pénalité sera alors maintenue, même si elle est confirmée sur le fondement d’une partie de la disposition relative aux pénalités différente de celle sur laquelle s’était fondé le ministre. Il en va de même lorsque le ministre n’a pas déterminé précisément si la pénalité relevait plutôt de l’aveuglement volontaire ou plutôt de la faute lourde.
+F. Question de la prescription [82] Pour les années 2003 et 2004, le ministre était tenu d’établir une nouvelle cotisation dans les trois ans suivant le moment où il avait établi les cotisations initiales à l’égard des déclarations de revenus de l’appelant. Ce n’est pas ce qui s’est produit. Toutefois, en vertu du paragraphe 152(4) de la LIR, le ministre peut réouvrir une année d’imposition prescrite dans les cas où le contribuable a fait « une présentation erronée des faits, par négligence, inattention ou omission volontaire, ou a commis quelque fraude en produisant la déclaration ou en fournissant quelque renseignement sous le régime de la » LIR. Notre Cour a longtemps été d’avis que cette disposition imposait un critère moins rigoureux que celui applicable à l’imposition de pénalités pour faute lourde[17]. La faute ordinaire peut suffire à la réouverture d’une année d’imposition prescrite. Dans les affaires comme en l’espèce où la conduite du contribuable suffit à justifier l’imposition d’une pénalité pour faute lourde, cette conduite suffit également à justifier l’établissement d’une nouvelle cotisation à l’égard d’années d’imposition prescrites.
+[83] Encore une fois, l’appelant, en contre-interrogeant les témoins de l’ARC, a fendu les cheveux en quatre sur la partie du paragraphe 152(4) qui visait les actes qu’il avait commis en remplissant ses déclarations de revenus. Bien que les témoins de l’ARC n’aient pas vraiment pu répondre à la question, ce qui importe, en fin de compte, c’est de savoir si la preuve présentée à notre Cour justifie la réouverture des années d’imposition prescrites. En effet, cette preuve justifie l’application du paragraphe 152(4) pour 2003 et 2004.
+G. Dépenses d’emploi [84] La deuxième question visée par l’appel en l’espèce concerne la déduction de dépenses d’emploi en 2006 et 2007. Les sommes déclarées s’élevaient à 7 450 $ en 2006 et à 8 700 $ en 2007.
+[85] L’appelant a témoigné que son emploi l’obligeait à se rendre aux différents bureaux des clients de son employeur et que c’est pour cette raison qu’il avait payé des frais de déplacement. L’appelant n’avait pas d’automobile, mais lors de son témoignage et du contre-interrogatoire, il a affirmé qu’il louait des automobiles ou empruntait celles de ses amis.
+[86] Son témoignage était corroboré par deux formulaires T2200 remplis par son employeur en 2009, qui étaient joints à son avis d’opposition. L’appelant a demandé à Todd Smith de témoigner à l’appui de l’introduction en preuve des documents. M. Smith travaille pour la société Owl Time Clock (« Owl ») qui, après les années d’imposition en cause, a acheté la société pour laquelle travaillait l’appelant. Malheureusement, M. Smith ne connaissait pas la personne qui avait signé les formulaires T2200 et n’avait pas trouvé de dossiers en lien avec les formulaires T2200 de l’appelant.
+[87] L’intimé s’est opposé à l’admission en preuve des formulaires T2200 puisqu’ils indiquaient le numéro de téléphone d’Owl plutôt que celui de l’employeur de l’appelant. Toutefois, M. Smith a expliqué qu’Owl aurait simplement repris le numéro de téléphone de l’employeur de l’appelant. Par conséquent, le numéro inscrit sur les formulaires T2200 pourrait bien être le numéro original de l’employeur de l’appelant. J’ai souscrit aux explications de M. Smith quant aux circonstances et, puisque les formulaires T2200 ne présentaient pas d’autres anomalies majeures, j’ai autorisé leur admission en preuve. Les formulaires T2200 ont permis de confirmer que l’appelant pouvait se déplacer jusqu’à 20 fois par année pour son travail et que son employeur lui versait des paiements annuellement pour ces dépenses.
+[88] En ce qui concerne la nature des dépenses déclarées, l’appelant n’avait aucun élément de preuve. En 2009, l’ARC a demandé à l’appelant de fournir un formulaire T777 détaillant les dépenses déclarées, ce qu’il n’a jamais fait. Lorsqu’on lui a demandé s’il avait tenu un registre de kilométrage, l’appelant a indiqué qu’il avait rempli un formulaire pour son employeur, mais que ce formulaire appartenait à son employeur et que c’est lui qui l’avait conservé.
+[89] J’estime que les éléments de preuve de l’appelant comportent les problèmes suivants :
+a)La raison pour laquelle il n’a pas de documents à l’appui n’a aucun sens. Même s’il avait à remplir un formulaire pour son employeur, il aurait tout de même dû avoir ses propres pièces justificatives (factures pour les coûts de réparation ou pour l’essence, etc.) pour remplir le formulaire et ses déclarations de revenus. L’employeur n’aurait certainement pas conservé les pièces justificatives de l’appelant;
+b)Je suis incapable de dire si les dépenses de l’appelant excédaient les paiements que lui versait son employeur;
+c)Les dépenses qui ont été déclarées semblent extrêmement élevées pour quelqu’un qui ne possède pas de véhicule. Par exemple, si l’appelant a effectué dans une année 20 déplacements d’un jour et qu’il a loué une automobile louée chaque fois, il aurait payé 400 $ pour chaque déplacement, une somme qui me semble déraisonnable. Bien évidemment, il se peut qu’il ait loué les automobiles pour de plus longues périodes, mais, encore une fois, je ne dispose pas de contrats de location ni de tout autre élément de preuve qui me permettrait de fonder une conclusion de fait.
+[90] En l’absence d’éléments de preuve et compte tenu de mon opinion selon laquelle l’appelant n’est pas un témoin fiable en ce qui concerne ses affaires fiscales, je ne suis pas prêt à reconnaître les sommes déclarées. L’appelant a peut-être payé des frais de déplacement, mais je n’ai aucune raison de croire qu’ils excédaient les allocations versées par son employeur pour frais de déplacement.
+H. Pénalité imposée en vertu du paragraphe 163(2) pour les dépenses d’emploi [91] L’ARC a imposé les pénalités prévues au paragraphe 163(2) sur les frais de déplacement pour 2006 et 2007. L’intimé n’a produit aucune preuve justifiant la pénalité et s’est plutôt appuyé sur l’absence de pièces justificatives à l’appui des sommes déclarées.
+[92] Pour 2006, je conclus qu’il n’est pas satisfait aux exigences pour que s’applique la pénalité. C’est en 2006 que l’appelant a déclaré pour la première fois des frais de déplacement et, bien que son indifférence quant à la production des pièces justificatives exigées lui nuise, cette indifférence n’équivaut pas à une inconduite visée au paragraphe 163(2) de la LIR.
+[93] Quant à 2007, la question est encore plus vivement contestée. Il y a une limite au nombre de fois où le contribuable peut se montrer délibérément indifférent quant à ses propres affaires fiscales. Il y a de bonnes raisons de penser que, si l’appelant a évité une pénalité pour faute lourde en 2006, il ne devrait pas bénéficier d’un passe-droit pour 2007. Bien que je vois du mérite à cette approche, je crois que les actions de l’appelant en 2007 peuvent être qualifiées de quasi-fautes lourdes puisque les dépenses sont moins importantes par rapport au revenu déclaré, lequel est presque deux fois plus élevé que l’année antérieure, et que, contrairement aux dons de bienfaisance, l’appelant s’est bel et bien déplacé pour son travail. Je préfère donner le bénéfice du doute à l’appelant une dernière fois et ne pas confirmer la pénalité imposée en vertu du paragraphe 163(2) de la LIR en 2007.
+I. Pénalité imposée en vertu du paragraphe 163(2) sur la perte locative [94] Au début de l’audience, l’appelant a reconnu que l’une des sommes visées par les redressements en cause, une perte locative survenue en 2005, n’avait pas été dûment déclarée. Ce redressement a fait l’objet d’une pénalité prévue au paragraphe 163(2). À l’audience, j’ai demandé aux deux parties si la pénalité était toujours contestée, et c’était toujours le cas. L’appelant a renoncé à demander la déduction pour les pertes locatives, mais conteste toujours la pénalité imposée, tandis que l’intimé est d’avis que la pénalité doit s’appliquer.
+[95] Dans son témoignage, l’appelant a expliqué qu’il avait déclaré la perte parce qu’il croyait demander une déduction en lien avec le loyer qu’il avait payé. Son témoignage à cet égard n’a pas été contredit et l’intimé n’a présenté aucun autre élément de preuve à ce sujet. La déduction pour perte locative n’a pas été demandée dans les autres années d’imposition visées par l’appel. Je suis convaincu que cette déduction demandée n’était qu’une simple erreur et elle ne satisfait pas au critère pour l’imposition d’une pénalité pour faute lourde.
+J. Dépens [96] Dans sa plaidoirie finale, la Couronne a demandé les dépens relatifs au présent appel au motif que, si un appel est totalement dénué de fondement, notre Cour peut lui allouer les dépens en vertu des Règles de procédure informelle[18] et conformément à la décision Hassan de notre Cour[19]. Si l’on suppose, sans pour autant le conclure, que les dépens puissent être adjugés selon le bien-fondé d’un appel entendu sous le régime de la procédure informelle, je refuse de le faire en l’espèce pour quatre motifs :
+a)Une partie de l’appel en l’espèce a été accueillie;
+b)Le fardeau de la preuve incombait à l’intimé en ce qui concerne la réouverture des années d’imposition prescrites et l’imposition des pénalités pour faute lourde. En effet, il serait peu commun que l’appel assujetti à la procédure informelle de l’appelant soit frivole simplement parce que le ministre avait l’obligation de s’acquitter de son fardeau de la preuve à l’égard d’années d’imposition prescrites ou de pénalités pour faute lourde;
+c)Dans le même ordre d’idées, il n’était pas entièrement déraisonnable pour l’appelant de croire que les pénalités à l’égard de la perte locative et des dépenses d’emploi étaient fondées sur des faits différents et que ces pénalités pourraient ne pas être maintenues;
+d)L’ARC a commis une erreur en n’indiquant pas clairement qu’elle avait accordé les crédits d’impôt pour frais d’études en 2004. L’intimé lui-même pensait que les crédits d’impôt pour frais d’études avaient été refusés et a formulé des observations en ce sens dans sa réponse à l’avis d’appel. Il n’était donc pas déraisonnable de porter la cotisation de cette année d’imposition en appel. Ce n’est qu’à l’audience que les parties se sont rendu compte que cette question avait été réglée en faveur de l’appelant.
+II. CONCLUSION [97] Les appels concernant les années d’imposition 2003 et 2004 sont rejetés.
+[98] L’appel concernant l’année d’imposition 2005 est accueilli et la cotisation est déférée au ministre pour annulation de la pénalité imposée en vertu du paragraphe 163(2) à l’égard des pertes locatives.
+[99] L’appel concernant l’année d’imposition 2006 est accueilli et la cotisation est déférée au ministre pour annulation de la pénalité imposée en vertu du paragraphe 163(2) à l’égard des dépenses d’emploi.
+[100] L’appel concernant l’année d’imposition 2007 est accueilli et la cotisation est déférée au ministre pour annulation de la pénalité imposée en vertu du paragraphe 163(2) à l’égard des dépenses d’emploi.
+[101] Aucuns dépens ne sont adjugés.
+Signé à Toronto (Ontario), ce 15e jour de mai 2025.
+« Michael Ezri »
+Le juge Ezri
+RÉFÉRENCE :
+2025 CCI 74
+NO DU DOSSIER DE LA COUR :
+2018-3844(IT)I
+INTITULÉ :
+CLЙMENT NYEMBWE TSHIBUNGU c. SA MAJESTÉ LE ROI
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+Les 18, 19 et 26 novembre 2024 et le 5 février 2025
+MOTIFS DU JUGEMENT :
+L’honorable juge Michael U. Ezri
+DATE DU JUGEMENT :
+Le 15 mai 2025
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocats de l’intimé :
+Me Helli Raptis
+Me H.-M. Cap-Dorcelly
+Me Gabriel Caron
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+L’appelant lui-même
+Pour l’intimé :
+Shalene Curtis-Micallef Sous-procureure générale du Canada Ottawa, Canada
+[1] M. Jilesen, J. Kras. « Rethinking the Rules of Civil Evidence: In Need of a Refresh? The Doctrines of Past Recollection Recorded and Present Memory Refreshed », 40 Adv J no 4, 27-31, printemps 2022, par. 8.
+[2] Ibid, par. 26, reproduisant un article de 1927 qui détaille bien la question. Cet article de 1927 énonce notamment : [traduction] « Il n’est pas inhabituel d’entendre un témoin affirmer que le document lui a réellement permis de se rafraîchir la mémoire, alors qu’il est manifeste qu’il ne fait qu’accepter le contenu de l’écrit et qu’il serait entièrement impuissant sans le document, même après l’avoir consulté. » C’est ce qu’a admis M. Matschke en toute franchise lors de son témoignage.
+[3] Ibid, par. 30 [non souligné dans l’original].
+[4] J’utilise le terme « approximativement » parce que la liste n’est pas numérotée et que les opérations ont dû être comptées une par une, ce qui augmente le risque d’erreurs dans le compte des opérations.
+[5] Loi sur l’Agence du revenu du Canada, L.C. 1999, ch. 17, par. 4(1).
+[6] Loi sur la preuve au Canada, L.R.C. (1985), ch. C-5, art. 30.
+[7] Règlement de l’impôt sur le revenu, C.R.C., ch. 945, par. 3501(1).
+[8] Ibid, al. 3501(1)c).
+[9] Ibid, par. 3501(6).
+[10] Loi de l’impôt sur le revenu, L.R.C. (1985), ch. 1 (5e suppl.), par. 163(3).
+[11] Wynter c. Canada, 2017 CAF 195, par. 17.
+[12] Farm Business Consultants Inc c. R, [1994] A.C.I. no 760, par. 27.
+[13] Il semblerait que l’ARC ait attendu environ six ans, pour connaître l’issue des poursuites contre les associés du comptable de l’appelant, avant de répondre à son avis d’opposition.
+[14] Venne c. Canada (Ministre du Revenu national – MRN), [1984] A.C.F. no 314 (CF 1re inst.), par. 28.
+[15] Wynter, précité, note 11, par. 18.
+[16] DeCosta c. La Reine, 2005 CCI 545.
+[17] Canada c. Paletta (Succession), 2022 CAF 86, par. 68.
+[18] Règles de la Cour canadienne de l’impôt (procédure informelle), DORS/90-688b, par. 10(2).
+[19] Hassan c. La Reine, 2014 CCI 144, par. 14.

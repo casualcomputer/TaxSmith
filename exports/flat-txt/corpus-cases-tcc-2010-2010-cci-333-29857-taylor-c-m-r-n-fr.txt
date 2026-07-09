@@ -1,0 +1,146 @@
+Title: Taylor c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29857/index.do
+Corpus path: corpus/cases/tcc/2010/2010-cci-333-29857-taylor-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2010-06-18
+
+# Taylor c. M.R.N.
+
+- Citation: 2010 CCI 333
+- Decision date: 2010-06-18
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6414, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Taylor c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2010-06-18
+Référence neutre
+2010 CCI 333
+Numéro de dossier
+2009-3765(EI)
+Juges et Officiers taxateurs
+Wyman W. Webb
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2009-3765(EI)
+ENTRE :
+RONALD W. TAYLOR,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 3 mai 2010, à Toronto (Ontario).
+Devant : L’honorable juge Wyman W. Webb
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimé :
+Me Rita Araujo
+____________________________________________________________________
+JUGEMENT
+L’appel que l’appelant a interjeté à l’encontre de la décision du ministre selon laquelle une cotisation de 168,54 $ était exigible en vertu de la Loi sur l’assurance‑emploi à l’égard du paiement effectué en faveur de l’appelant en 2007 est rejeté sans qu’aucuns dépens soient adjugés.
+Signé à Ottawa, Canada, ce 18e jour de juin 2010.
+« Wyman W. Webb »
+Juge Webb
+Traduction certifiée conforme
+ce 13e jour d’août 2010
+Marie-Christine Gervais, traductrice
+Référence : 2010CCI333
+Date : 20100618
+Dossier : 2009-3765(EI)
+ENTRE :
+RONALD W. TAYLOR,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Webb
+[1] Il s’agit ici de savoir si l’appelant était tenu de verser une cotisation en vertu de la Loi sur l’assurance‑emploi (la « LAE ») à l’égard d’un paiement qui a été effectué en sa faveur en 2007.
+[2] L’appelant a commencé à travailler comme agent de police auprès du Service de police de Toronto en 1967. Il a pris sa retraite au mois de février 2000. Après que l’appelant eut pris sa retraite, il a été conclu qu’un certain montant serait versé aux personnes qui étaient membres du service de police de Toronto entre les années 1973 et 1989 (compte tenu du nombre de mois au cours desquels ces personnes étaient employées pendant cette période). Étant donné que l’appelant était membre du service de police de Toronto pendant toute cette période, il a reçu un montant de 9 363 $. Pendant qu’il travaillait pour le Service de police de Toronto, la Commission des services policiers de Toronto était l’employeur de l’appelant. Après que l’appelant eut pris sa retraite, les prestations de retraite qu’il recevait (et qu’il reçoit encore) lui étaient versées par la Caisse de retraite des policiers de la communauté urbaine de Toronto. Le paiement que l’appelant a reçu en 2007 a été effectué par l’Association de police de Toronto.
+[3] Lorsque le paiement forfaitaire a été effectué en faveur de l’appelant, en 2007, un montant de 168,54 $ a été retenu et versé à titre de cotisation payable par l’appelant en vertu de la LAE. L’appelant soutient qu’en 2007, il ne travaillait pas et qu’il ne devrait pas avoir à payer quoi que ce soit en vertu de la LAE à l’égard du paiement reçu en 2007.
+[4] Il existait une certaine confusion de la part de l’appelant et de l’avocate de l’intimé au sujet de la façon dont le montant de 168,54 $ avait été déterminé. L’appelant croyait comprendre qu’étant donné qu’il avait versé la cotisation maximale qui aurait été exigible en vertu de la LAE pour chaque année au cours de la période allant de l’année 1973 à l’année 1989, aucune cotisation ne devrait être exigible à l’égard de ce paiement forfaitaire.
+[5] L’avocate de l’intimé avait indiqué que la question des cotisations exigibles en vertu de la LAE à l’égard du paiement forfaitaire avait été examinée dans la décision que l’Association de police de Toronto avait obtenue de l’Agence du revenu du Canada. Elle a indiqué que la décision confirmait que la cotisation qui était exigible en vertu de la LAE à l’égard du paiement forfaitaire représentait uniquement la différence entre les cotisations qui auraient été exigibles en vertu de la LAE pour les années auxquelles le paiement se rapportait (si le montant avait été reçu au cours de ces années) et les montants qui avaient été payés au cours des années en question (ce que l’appelant croyait lui aussi comprendre), ce qui soulevait la question de savoir comment le paiement de 9 363 $ serait imputé aux années 1973 à 1989.
+[6] Toutefois, la décision anticipée en matière d’impôt sur le revenu qui a été produite au cours de l’audience ne traite pas de questions qui découlent de l’application de la LAE. De plus, il me semble évident que le montant de 168,54 $ représente simplement 1,8 p. 100 (soit le taux des cotisations ouvrières pour l’année 2007 selon la LAE) du montant payé en 2007[1]. Par conséquent, il semble évident, selon moi, que le montant a simplement été déterminé en multipliant le taux des cotisations ouvrières en vigueur en 2007 par le montant du paiement effectué en 2007 et que cela n’a rien à voir avec le montant des cotisations ouvrières payées (ou exigibles) au cours de la période allant de 1973 à 1989.
+[7] L’article 67 de la LAE prévoit ce qui suit :
+67. Sous réserve de l’article 70, toute personne exerçant un emploi assurable verse, par voie de retenue effectuée au titre du paragraphe 82(1), une cotisation correspondant au produit de sa rémunération assurable par le taux fixé en vertu des articles 66 ou 66.3, selon le cas.
+[8] Par conséquent, pour qu’une cotisation soit payable par l’appelant en vertu de la LAE à l’égard du paiement que celui‑ci a reçu en 2007, il faut que l’appelant ait exercé un emploi assurable et le montant reçu soit une rémunération assurable.
+[9] L’expression « rémunération assurable » est définie comme suit au paragraphe 2(1) de la LAE :
+« rémunération assurable » Le total de la rémunération d’un assuré, déterminé conformément à la partie IV, provenant de tout emploi assurable.
+[10] Le paragraphe 108(1) de la LAE (qui figure dans la partie IV de cette loi) prévoit ceci :
+108. (1) Le ministre peut, avec l’agrément du gouverneur en conseil, prendre des règlements :
+[…]
+g) concernant la définition et la détermination de la rémunération, de la période de paie et du montant de la rémunération assurable des assurés, et la répartition de la rémunération sur une période d’emploi assurable;
+[11] Le paragraphe 2(1) du Règlement sur la rémunération assurable et la perception des cotisations (le « RRAPC ») prévoit notamment ce qui suit :
+2. (1) Pour l’application de la définition de « rémunération assurable » au paragraphe 2(1) de la Loi et pour l’application du présent règlement, le total de la rémunération d’un assuré provenant de tout emploi assurable correspond à l’ensemble des montants suivants :
+a) le montant total, entièrement ou partiellement en espèces, que l’assuré reçoit ou dont il bénéficie et qui lui est versé par l’employeur à l’égard de cet emploi;
+[…]
+[12] Dans la réponse, les hypothèses suivantes ont été formulées, lesquelles n’ont pas été contestées par l’appelant :
+[traduction]
+8. En rendant sa décision, le ministre s’est fondé sur les hypothèses de fait suivantes :
+[…]
+g) en 1997, l’appelant a reçu un paiement forfaitaire de [l’Association de police de Toronto] à l’égard de son ancien emploi auprès de [la Commission des services policiers de Toronto];
+[…]
+l) le paiement représentait la part des cotisations excédentaires versées à la caisse de retraite d’OMERS par [la Commission des services policiers de Toronto] à l’égard de l’appelant;
+m) les cotisations de retraite excédentaires ont été versées au cours des années 1973 à 1989 par [la Commission des services policiers de Toronto];
+n) l’appelant n’était ni un membre de la caisse de retraite d’OMERS ni un cotisant à cette caisse;
+o) l’appelant a reçu la prestation à cause de l’emploi qu’il exerçait antérieurement auprès de [la Commission des services policiers de l’Ontario];
+[13] Les opérations envisagées sont décrites dans la décision anticipée en matière d’impôt sur le revenu datée du 7 juin 2007 qui a été obtenue à l’égard du paiement effectué en faveur de l’appelant et des autres bénéficiaires. Dans cette décision anticipée, il est dit que le montant qui a été versé à l’appelant provenait d’un fonds de réserve qui avait été constitué par la Commission des services policiers de Toronto (l’ancien employeur de l’appelant). Le fonds de réserve a été constitué parce que l’Association de police de Toronto avait autorisé la Commission des services policiers de Toronto à réduire ses cotisations au régime de retraite au moyen d’une partie du surplus accumulé dans le régime de retraite. Le paiement a été effectué par la Commission des services policiers de Toronto à l’Association de police de Toronto en sa qualité de représentante des employés, et l’Association de police de Toronto a remis le paiement à l’appelant et aux autres personnes admissibles.
+[14] Dans l’arrêt Toronto Police Services Board et al v. Ontario, 45 O.R. (3d) 622, 178 D.L.R. (4th) 440, la Cour d’appel de l’Ontario examinait l’OMERS (Régime de retraite des employés municipaux de l’Ontario) et la question des fonds excédentaires qui s’y étaient accumulés. Au paragraphe 20, le juge Krever a dit ce qui suit :
+[traduction]
+20 Les employeurs conviennent que la prestation prévue au moyen des accords supplémentaires a été accordée presque entièrement par suite des négociations collectives. Je suis d’accord avec le juge Rosenberg pour dire qu’il faut donc supposer que « le coût de ces prestations a été pris en compte dans la rémunération globale lors de la mise en œuvre ». Les prestations peuvent raisonnablement être considérées comme des salaires actuels dont le paiement est reporté ou différé. Il ne serait donc pas réaliste de dire que les employés n’ont aucun intérêt dans l’affectation de ces fonds.
+[15] Le paragraphe 10(1) du RRAPC prévoit notamment ce qui suit :
+10. (1) Lorsque, dans un cas non prévu par le présent règlement, un assuré travaille :
+a) soit sous la direction générale ou la surveillance directe d’une personne qui n’est pas son véritable employeur, ou est payé par une telle personne,
+[…]
+cette personne est réputée, aux fins de la tenue des registres, du calcul de la rémunération assurable de l’assuré ainsi que du paiement, de la retenue et du versement des cotisations exigibles à cet égard aux termes de la Loi et du présent règlement, être l’employeur de l’assuré conjointement avec le véritable employeur.
+[16] Il semble donc clair, selon moi, que le paiement que l’appelant a reçu en 2007 était financé par la Commission des services policiers de Toronto (l’ancien employeur de l’appelant) et qu’il a été effectué en faveur de l’appelant par l’Association de police de Toronto (qui était réputée être un employeur en plus de la Commission des services policiers de Toronto par suite de l’application du paragraphe 10(1) du RRAPC à certaines fins administratives, et notamment aux fins de la retenue et du versement des cotisations). Ce paiement se rapportait à l’emploi de l’appelant auprès de la Commission des services policiers de Toronto.
+[17] L’emploi assurable est défini à l’article 5, qui prévoit notamment ce qui suit :
+5. (1) Sous réserve du paragraphe (2), est un emploi assurable :
+a) l’emploi exercé au Canada pour un ou plusieurs employeurs, aux termes d’un contrat de louage de services ou d’apprentissage exprès ou tacite, écrit ou verbal, que l’employé reçoive sa rémunération de l’employeur ou d’une autre personne et que la rémunération soit calculée soit au temps ou aux pièces, soit en partie au temps et en partie aux pièces, soit de toute autre manière;
+L’emploi de l’appelant auprès de la Commission des services policiers de Toronto était clairement un emploi assurable. Par conséquent, le paiement forfaitaire que l’appelant a reçu en 2007 est une rémunération assurable. Pour constituer une rémunération assurable, la rémunération doit être versée dans le cadre d’un emploi assurable et à l’égard de cet emploi. La personne en cause n’a pas à exercer un emploi assurable au moment où elle reçoit la rémunération.
+[18] Selon l’article 67 de la LAE, l’appelant doit exercer un emploi assurable. L’article 67 de la LAE fait expressément mention de l’article 70[2], qui est libellé comme suit :
+70. Lorsqu’une rémunération assurable est versée à une personne après la fin de l’année où elle a exercé son emploi assurable, tout l’emploi assurable est réputé, pour le calcul de la rémunération assurable et des cotisations payables, avoir été exercé dans l’année de versement de la rémunération assurable.
+[19] Aucune période n’est précisée à l’article 70 de la LAE aux fins du versement de la rémunération assurable après la fin de l’année au cours de laquelle l’emploi assurable a été exercé. Par conséquent, même si le paiement a été effectué environ sept ans après que l’appelant eut pris sa retraite, l’emploi assurable exercé par l’appelant, par suite des dispositions de l’article 70 de la LAE, est réputé avoir été exercé en 2007.
+[20] Par conséquent, l’appelant a reçu une rémunération assurable en 2007 et son emploi assurable est réputé avoir été exercé en 2007, de sorte que, malheureusement, même s’il a reçu le paiement forfaitaire sept ans après avoir pris sa retraite, l’appelant est tenu de verser une cotisation en vertu de la LAE à l’égard de cet emploi.
+[21] L’appel interjeté par l’appelant est rejeté sans qu’aucuns dépens soient adjugés.
+Signé à Ottawa, Canada, ce 18e jour de juin 2010.
+« Wyman W. Webb »
+Juge Webb
+Traduction certifiée conforme
+ce 12e jour d’août 2010
+Marie-Christine Gervais, traductrice
+RÉFÉRENCE : 2010CCI333
+No DU DOSSIER DE LA COUR : 2009-3765(EI)
+INTITULÉ : RONALD W. TAYLOR
+c.
+LE MINISTRE DU REVENU NATIONAL
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Le 3 mai 2010
+MOTIFS DU JUGEMENT : L’honorable juge Wyman W. Webb
+DATE DU JUGEMENT : Le 18 juin 2010
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimé :
+Me Rita Araujo
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimé : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Il s’agit de 1,8 p. 100 de 9 363 $, c’est‑à‑dire 168,53 $, soit une cent de moins seulement que le montant retenu. Dans la réponse, il est déclaré que le paiement forfaitaire s’élevait à 9 363 $. Si le montant réellement versé se situait entre 9 363,06 $ et 9 369,49 $ (soit un montant de 9 363 $ si le chiffre est arrondi au dollar près), 1,8 p. 100 de ce montant correspondrait à un montant de 168,54 $.
+[2] L’intimé n’a pas mentionné l’article 70 de la LAE dans la réponse, mais étant donné qu’il a mentionné l’article 67 et qu’il est expressément fait mention de l’article 70 à l’article 67, cette omission ne devrait pas empêcher, à mon avis, l’application de cette disposition dans ce cas‑ci.

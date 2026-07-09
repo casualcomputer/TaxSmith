@@ -1,0 +1,289 @@
+---
+title: "Sobon v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26864/index.do"
+last_modified: "2004-06-22"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 TCC 2"
+citation2: ""
+neutral_citation: "2004 TCC 2"
+decision_date: "2004-06-22"
+language: "en"
+item_id: "26864"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 670
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T19:19:20.361000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "d4534ad3ebfe836bd739c6db0538e761dc7681277f40a8088de0ff2fcd01715e"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Sobon v. The Queen
+
+- Citation: 2004 TCC 2
+- Decision date: 2004-06-22
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 670, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Sobon v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-06-22
+Neutral citation
+2004 TCC 2
+File numbers
+2002-4897(IT)I
+Judges and Taxing Officers
+Leslie M. Little
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2002-4897(IT)I
+BETWEEN:
+RICHARD SOBON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on December 18, 2003 at Kelowna, British Columbia
+Before: The Honourable Justice L.M. Little
+Appearances:
+Counsel for the Appellant:
+Joseph L. Deuling
+Counsel for the Respondent:
+Stacey Michael Repas
+____________________________________________________________________
+JUDGMENT
+The appeals from the assessments made under the Income Tax Act for the 1997 and 1998 taxation years are dismissed, without costs, in accordance with the attached Reasons for Judgment.
+Signed at Vancouver, British Columbia, this 22nd day of June 2004.
+"L.M. Little'
+Little J.
+Citation: 2004TCC2
+Date:20040622
+Docket: 2002-4897(IT)I
+BETWEEN:
+RICHARD SOBON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Little J.
+A. FACTS:
+[1] The Appellant was employed by the Canadian Pacific Railway ("CPR") in 1980.
+[2] In the relevant years the Appellant was employed by the CPR as a construction superintendent and he worked out of the CPR office in Vancouver.
+[3] In 1982 the Appellant purchased a farm (the "Farm") consisting of 10.2 acres at a cost of $113,500.00. The Farm was located near Vernon, B.C. A house and several buildings were located on the Farm.
+[4] The Appellant drove from the Farm to the CPR work site on Sunday nights and worked a four-day week with 10-hour shifts per day. The Appellant usually returned to the Farm on Thursday nights. The CPR work site would be located on the CPR main rail line somewhere between Vancouver and Field, British Columbia.
+[5] Commencing in 1992 the Appellant carried out research on the feasibility of raising ostriches as a commercial business. The Appellant testified that he became a member of the Ostrich Association of British Columbia and discussed various aspects of producing ostriches with members of the Association.
+[6] The Appellant spent $20,000.00 - $25,000.00 repairing the buildings located on the Farm and building pens to make the Farm suitable for raising ostriches.
+[7] In 1992 the Appellant purchased seven female and two male ostriches.
+[8] Approximately 25% of the eggs laid by the female ostriches owned by the Appellant were fertile and a number of ostrich chicks were raised by the Appellant.
+[9] In the indicated years the Appellant had the following ostriches on the Farm:
+Male
+Female
+Chicks
+1996
+2
+7
+30
+1997
+2
+6
+30
+1998
+2
+6
+30
+[10] The Appellant sold the ostrich meat. The Appellant also sold some of the ostrich eggs, some breeding ostriches and the ostrich hide.
+[11] The Appellant testified on cross-examination that the ostrich meat was not inspected by Federal Department of Agriculture officials. The Appellant said that in order to sell ostrich meat in some restaurants in British Columbia the meat has to be inspected by officials of the Department of Agriculture. The Appellant said that he primarily sold the ostrich meat and other farm products to people with whom he worked.
+[12] In 1992 the breeding and raising of ostriches in British Columbia was a relatively new business. The Appellant testified that when he became involved in the ostrich business in 1992 the market price of a breeding ostrich had increased significantly in value from the price that was paid for breeding ostriches in previous years.
+[13] The Appellant also testified that in 1997 and 1998 some of the ostrich farmers in British Columbia began to dump the ostrich meat on the market. This action by the ostrich farmers caused the market price of ostrich meat to drop in value.
+[14] The Appellant also testified that there was an E-Coli problem in Vernon in 1998 and this was another factor that reduced the market price of ostrich meat.
+[15] On cross-examination by counsel for the Respondent the Appellant said that in 1997 and 1998 the Farm was set up to run between 100-120 birds. However, the Appellant agreed that the market for ostrich meat was not strong enough at that time to absorb that many ostriches. In addition the Appellant admitted that he would only produce what he could actually sell on the market.
+[16] In computing his income for the 1997 and 1998 taxation years the Appellant deducted the following farm losses:
+Farm Losses Deducted
+1997 Taxation Year
+$30,634.12
+1998 Taxation Year
+$35,624.66
+[17] The Minister of National Revenue (the "Minister") allowed the Appellant to claim restricted farm losses as follows:
+1997 Taxation Year
+$8,750.00
+1998 Taxation Year
+$8,750.00
+B. ISSUE:
+[18] Is the Appellant entitled to claim farm losses of $30,634.12 and $35,624.66 in determining his income for the 1997 and 1998 taxation years? (Note: The Appellant's Notice of Appeal referred to the farm loss issue plus a number of disallowed expenses. At the commencement of the hearing the parties agreed that the sole issue before the Court was the tax treatment of the farm losses in 1997 and 1998.
+C. ANALYSIS:
+[19] The Minister concluded that the Appellant is not entitled to deduct farm losses in excess of $8,750.00 per year for the 1997 and 1998 taxation years.
+[20] Commencing in 1992 the Appellant's gross and net farming income were as follows:
+Year
+Gross
+Revenue
+Total Farm
+Loss
+Farm Loss
+Claimed
+Farm Loss
+Allowed
+1992
+1993
+1994
+1995
+1996
+1997
+1998
+1,525.00
+-
+-
+732.00
+-
+7,339.00
+8,169.00
+-
+18,164.00
+16,041.00
+9,037.00
+35,446.00
+30,634.00
+35,624.00
+7,020.00
+18,164.00
+8,750.00
+5,768.00
+8,750.00
+30,634.00
+35,624.00
+-
+-
+-
+-
+-
+8,750.00
+8,750.00
+Total
+$17,765.00
+$144,946.00
+$114,710.00
+(See Exhibit R-4)
+[21] From 1999 to the year 2002 the Appellant's farm income, farm expenses and farm losses may be summarized as follows:
+Farm Income
+Farm Expenses
+Farm Losses
+1999
+$ 13,760.30
+$ 42,477.60
+$28,717.30
+2000
+6,604.97
+24,439.64
+17,834.67
+2001
+3,664.85
+19,909.53
+16,244.68
+2002
+5,324.47
+15,880.95
+10,556.48_
+Total
+$29,354.59
+$102,707.72
+$73,353.13
+(See Exhibit A-7)
+[22] From 1996 to 2002 the Appellant received the following salary from the CPR:
+Salary
+1996
+1997
+1998
+1999
+2000
+2001
+2002
+$55,673.00
+53,940.00
+55,887.00
+43,757.00
+52,101.01
+62,138.79
+$58,257.28
+[23] It will be noted that the Appellant suffered total farm losses of $218,299.13 ($144,946.00 +$73,353.13) in the years 1992 to 2002 and received farm income in those years of only $47,119.59 ($17,765.00 + $29,354.59). (Note: The farm income might be inflated since in 1997 the Appellant also received rental income when he rented part of the house on the Farm. In 1998 the Appellant also reported income from the sale of some surplus poles.)
+[24] Subsection 31(1) of the Act limits the Farm losses that may be claimed where a taxpayer's chief source of income is neither farming nor a combination of farming and some other source of income.
+[25] In Moldowan v. The Queen[1] Mr. Justice Dickson (as he then was) recognized three categories of farmers:
+1. A full-time farmer. (This type of farmer is free of the limitations contained in section 31 of the Act and may deduct all farm losses suffered against other income.);
+2. A farmer who operates his farm as a sideline business but who also is employed or carries on another business activity. This type of farmer is subject to the limitations contained in section 31;
+3. A hobby farmer. The farm losses sustained by this type of taxpayer are not deductible against other income.
+[26] In applying section 31 the Courts have used the following tests:
+(a) time spent on the farm;
+(b) capital committed to the farm; and
+(c) actual or potential profits from the farm.
+The Appellant may satisfy the tests outlined in paragraphs (a) and (b). However, we must carefully consider the actual or potential profit that the Appellant could realize from the Farm.
+[27] In The Queen v. Morrissey,[2] the Federal Court of Appeal held that actual or potential profit must be demonstrated in order to succeed under section 31. Mr. Justice Mahoney said at page 5084:
+On a proper application of the test propounded in Moldowan, when, as it is found that profitability is improbable notwithstanding all the time and capital the taxpayer is able and willing to devote to farming, the conclusion based on the civil burden of proof must be that farming is not a chief source of that taxpayer's income. To be income in the context of the Income Tax Act that which is received must be money or money's worth. Absent actual or potential profitability, farming cannot be a chief source of his income even though the admission that he was farming with a reasonable expectation of profit is tantamount to an admission which itself may not be borne out by the evidence, namely, that it is at least a source of income.
+I have set out, fairly I hope and certainly at some length, the basis for the Respondent's policy-based argument that the test of Moldowan ought to be applied as it was by the trial judge to achieve Parliament's desired result. I should not have done so had I not been persuaded that the government's intentions as told to Parliament in 1951 and 1952 may indeed not have been realized. Parliament chose to draw the line between gentleman farmers and real farmers in terms of source of income. It may not have intended to treat taxpayers like the Respondent as it intended to treat gentleman farmers, nor to deny gentleman farmers any relief at all. There may be a serious argument for remedial action, however I have not been persuaded that the Moldowan test is so elastic as to permit it to be judicially provided. The judiciary must interpret what Parliament has said, which is not necessarily what it may have intended to say.
+I would allow the appeal with costs and set aside the judgment of the Trial Division and dismiss the Respondent's action with costs.
+[28] I have also referred to a number of other court decisions including The Queen v. Roney[3] and The Queen v. Poirier[4]
+[29] In this situation the Appellant has suffered farm losses of approximately $218,000.00 from the years 1992 to 2002 and he only received income from the Farm of $47,119.59.
+[30] The Appellant has never realized a profit in the 10 years that he raised ostriches on the Farm.
+[31] Further it is apparent from the comments of the Appellant that the Farm could never generate a profit as it is presently operated.
+[32] From an analysis of all of the relevant facts, I have concluded that it could not be said that the Appellant's chief source of income in 1997 and 1998 was either farming or a combination of farming and some other source of income. The Appellant is therefore not entitled to claim the Farm losses claimed by him in determining his income for the 1997 and 1998 taxation years
+[33] The appeal is dismissed without costs.
+Signed at Vancouver, British Columbia, this 22nd day of June 2004.
+"L.M. Little"
+Little J.
+CITATION:
+2004TCC2
+COURT FILE NO.:
+2002-4897(IT)I
+STYLE OF CAUSE:
+Richard Sobon and
+Her Majesty the Queen
+PLACE OF HEARING:
+Kelowna, British Columbia
+DATE OF HEARING:
+December 18, 2003
+REASONS FOR JUDGMENT BY:
+The Honourable Justice L.M. Little
+DATE OF JUDGMENT:
+June 22, 2004
+APPEARANCES:
+Counsel for the Appellant:
+Joseph L. Deuling
+Counsel for the Respondent:
+Stacey Michael Repas
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Joseph L. Deuling
+Firm:
+Deuling & Company
+Lumby, British Columbia
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] 77 DTC 5213
+[2] 89 DTC 5080
+[3] 91 DTC 5148
+[4] 92 DTC 6335

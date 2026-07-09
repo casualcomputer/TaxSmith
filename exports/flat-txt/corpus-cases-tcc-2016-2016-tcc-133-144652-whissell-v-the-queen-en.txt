@@ -1,0 +1,145 @@
+Title: Whissell v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/144652/index.do
+Corpus path: corpus/cases/tcc/2016/2016-tcc-133-144652-whissell-v-the-queen-en.md
+Document type: case_law
+Last modified: 2016-05-30
+
+# Whissell v. The Queen
+
+- Citation: 2016 TCC 133
+- Decision date: 2016-05-30
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3089, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Whissell v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2016-05-30
+Neutral citation
+2016 TCC 133
+File numbers
+2013-2846(IT)G
+Judges and Taxing Officers
+John R. Owen
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2013-2846(IT)G
+BETWEEN:
+GEORGE WHISSELL,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on April 13, 2016, at Edmonton, Alberta
+Before: The Honourable Justice John R. Owen
+Appearances:
+Counsel for the Appellant:
+Douglas J. Forer
+Counsel for the Respondent:
+Gregory Perlinski
+JUDGMENT
+In accordance with the attached Reasons for Judgment, the appeal from the reassessments made under the Income Tax Act (“ITA”) for the 2007, 2008, 2009 and 2010 taxation years, notices of which are dated January 16, 2012, January 23, 2012, February 3, 2012 and January 30, 2012, are dismissed with costs to the Respondent.
+In accordance with the attached Reasons for Judgment, the appeal from the reassessment made under the ITA for the 2006 taxation year, notice of which is dated December 12, 2011, is allowed and the reassessment is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the Appellant is entitled to claim an additional amount of $150 as a charitable donation made in his 2006 taxation year.
+Signed at Ottawa, Canada, this 30th day of May 2016.
+“J.R. Owen”
+Owen J.
+Citation: 2016 TCC 133
+Date: 20160530
+Docket: 2013-2846(IT)G
+BETWEEN:
+GEORGE WHISSELL,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Owen J.
+[1] The Appellant, Mr. George Whissell, is appealing the reassessment by the Minister of National Revenue (the “Minister”) of his 2006, 2007, 2008, 2009 and 2010 taxation years (collectively, the “Taxation Years”) to include unreported income and, for all but the 2006 taxation year, to assess the Appellant a penalty under subsection 163(1) of the Income Tax Act (the “ITA”).
+[2] At the commencement of the hearing, counsel for the Appellant and the Respondent submitted an Agreed Statement of Facts (the “ASF”) and a Joint Book of Documents (the “Joint Book”) and advised the Court that they intended to rely solely on the facts set out in the ASF and in the documents in the Joint Book that are identified in the ASF as being accepted for the truth of their contents. These documents are found at Tabs 11 through 21 of the Joint Book (the “Documents”). The ASF is reproduced in Appendix A to these reasons.
+[3] Counsel for the Appellant also confirmed that, as a result of the facts stated in the ASF, the Appellant was admitting that he failed to report income in each of the returns that he filed for the Taxation Years and that he was correctly reassessed for those years to add the omitted amounts to income. For his part, counsel for the Respondent conceded that the Appellant made a charitable donation of $150 in 2006 and that the appeal of the 2006 reassessment should be allowed solely to reflect that donation.
+[4] The ASF states that the Appellant filed his returns for the Taxation Years on April 5, 2011 and was initially assessed as filed by notices dated April 21, 2011. The Minister subsequently reassessed the Taxation Years by notices dated December 12, 2011, January 16, 2012, January 23, 2012, February 3, 2012 and January 30, 2012 respectively (collectively, the “Reassessments”), as follows:
+1. For the 2006 taxation year, to increase the Appellant’s RRSP income by $4,871.
+2. For the 2007 taxation year, to increase the Appellant’s employment income by $21,725, other pension income by $2,090 and interest income by $9,024.
+3. For the 2008 taxation year, to increase the Appellant’s other pension income by $2,170 and interest income by $1,463.
+4. For the 2009 taxation year, to increase the Appellant’s other pension income by $3,157 and dividend income by $131,961.
+5. For the 2010 taxation year, to increase the Appellant’s other pension income by $3,052 and RRSP income by $7,025.
+[5] In the reassessments of the Appellant’s 2007 through 2010 taxation years, the Minister also assessed the Appellant penalties under subsection 163(1) of the ITA. Both counsel agreed that, because of the admissions by the Appellant in the ASF, the sole issue to be decided by the Court is whether the assessment of the subsection 163(1) penalties is correct.
+[6] Subsection 163(1) of the ITA states:
+163. (1) Every person who
+(a) fails to report an amount required to be included in computing the person’s income in a return filed under section 150 for a taxation year, and
+(b) had failed to report an amount required to be so included in any return filed under section 150 for any of the three preceding taxation years
+is liable to a penalty equal to 10% of the amount described in paragraph (a), except where the person is liable to a penalty under subsection (2) in respect of that amount.
+[7] Subsection 163(1) of the ITA describes what is commonly referred to as a strict liability offence. A penalty under the subsection may be assessed for a taxation year of the Appellant (I will refer to this taxation year as the “penalty year”) if the Appellant has failed to report an amount required to be included in income in the return he filed for the penalty year and had failed to report an amount required to be included in income in a return that he filed for one of the three taxation years preceding the penalty year.
+[8] The use of the present tense in paragraph 163(1)(a) and the past perfect (or pluperfect) tense in paragraph 163(1)(b) reflects the temporal relationship of the penalty year (present) to the three preceding taxation years (past). However, the change in tense has nothing to say about the order in which the returns for the relevant taxation years are actually filed. Accordingly, the return for the penalty year could be filed before, at the same time as, or after the returns for the three preceding taxation years. In this case, the returns for the Taxation Years were filed at the same time.
+[9] Under subsection 163(3) of the ITA, the Minister has the burden of establishing the facts justifying the assessment of a penalty under subsection 163(1) of the ITA. The Respondent submits that the facts in paragraphs 11 through 15 of the ASF establish that the Appellant failed to report income in the returns he filed for the Taxation Years. Those paragraphs identify in detail what income was and was not reported by the Appellant in the returns he filed for the Taxation Years. As well, the amounts described in paragraphs 11 through 15 of the ASF are supported by the Documents.
+[10] Counsel for the Respondent submits that, given these facts, a penalty is justified for each of the 2007, 2008, 2009 and 2010 taxation years of the Appellant. I note that a penalty is not justified for the Appellant’s 2006 taxation year because there is no evidence that the Appellant failed to report an amount in the returns he filed for his 2003, 2004 or 2005 taxation years.
+[11] I agree with counsel for the Respondent that the facts disclosed in the ASF and in the Documents satisfy the burden placed on the Minister to establish on a balance of probability the facts that justify the assessment of a penalty under subsection 163(1) for the Appellant’s 2007 through 2010 taxation years.
+[12] Counsel for the Appellant did not dispute that the Appellant failed to report income in his returns filed for each of the Taxation Years. Rather, counsel submitted that the facts stated in the ASF and in the Documents support a due diligence defence. Specifically, counsel referred to the following facts:
+1. The Appellant filed his returns for the Taxation Years at the same time, on April 5, 2011.
+2. The Appellant had not been assessed for any of the Taxation Years at the time he filed the returns and therefore had no notice of a deficiency in any of the returns filed on April 5, 2011.
+3. Save for the omission of the dividend of $131,961 in the Appellant’s 2009 return, the failure to report income followed a pattern or represented the reporting of some but not all of a particular type of income. The pattern was seen in the consistent failure to report certain pension type income in all of the Taxation Years and a partial omission was seen in the failure to report all of the Appellant’s employment and investment income in 2007.
+4. The failure to report pension type income represented a failure to report a small percentage of the Appellant’s total income. The percentages were 2%, 0.8%, 0.7% and 7% for the 2007, 2008, 2009 and 2010 taxation years respectively.
+5. The unpaid tax resulting from the failure to report income in each of the Taxation Years was not substantial.
+6. The Appellant was reassessed within a relatively short period of time after the initial assessment of the Taxation Years to include the omitted amounts in his income.
+7. The omitted amounts were all disclosed on information slips in the possession of the Canada Revenue Agency (the “CRA”). This means that the CRA had all of the information it needed to assess the Appellant for the omitted income and also explains why each Taxation Year was reassessed within a short period of time after the initial assessments.
+8. There was no evidence establishing either that the information slips were received or that they were not received by the Appellant.
+[13] Counsel for the Respondent submitted that none of these facts support a due diligence defence. I agree.
+[14] In R. v. Sault Ste. Marie (City), [1978] 2 S.C.R. 1299, the Supreme Court of Canada stated that there are two possible bases for the defence of due diligence applicable to strict liability offences:
+• reasonable mistake of fact, that is, an honest belief, on reasonable grounds, in a mistaken set of facts which, if true, would render the act or omission innocent; or
+• reasonable care taken to comply with the law, that is, taking all reasonable precautions in order to avoid the event that gave rise to the offence.
+[15] More recently, in Corporation de l'École Polytechnique v. The Queen, 2004 FCA 127, the Federal Court of Appeal stated:
+[28] The due diligence defence allows a person to avoid the imposition of a penalty if he or she presents evidence that he or she was not negligent. It involves considering whether the person believed on reasonable grounds in a non-existent state of facts which, if it had existed, would have made his or her act or omission innocent, or whether he or she took all reasonable precautions to avoid the event leading to imposition of the penalty. See The Queen v. Sault Ste-Marie, [1978] 2 S.C.R. 1299; The Queen v. Chapin, [1979] 2 S.C.R. 121. In other words, due diligence excuses either a reasonable error of fact, or the taking of reasonable precautions to comply with the Act.
+[29] The defence of due diligence should not be confused with the defence of good faith, which applies in the area of criminal liability, requiring proof of intent or guilty knowledge. The good faith defence enables a person to be exonerated if he or she has made an error of fact in good faith, even if the latter was unreasonable, whereas the due diligence defence requires that the error be reasonable, namely, an error which a reasonable person would have made in the same circumstances. The due diligence defence, which requires a reasonable but erroneous belief in a situation of fact, is thus a higher standard than that of good faith, which only requires an honest, but equally erroneous, belief.
+[16] In Résidences Majeau Inc. v. The Queen, 2010 FCA 28, the Federal Court of Appeal elaborated further on the reasonable mistake of fact defence:
+[9] A reasonable mistake of fact requires a twofold test: subjective and objective. The subjective test is met if the defendant establishes that he or she was mistaken as to a factual situation which, if it had existed, would have made his or her act or omission innocent. In addition, for this aspect of the defence to be effective, the mistake must be reasonable, i.e. a mistake a reasonable person in the same circumstances would have made. This is the objective test.
+[17] Taken as a whole, the facts highlighted by counsel for the Appellant and the facts stated in the ASF and the Documents disclose no basis to support a finding that the Appellant believed on reasonable grounds in a non-existent state of facts which, assuming such facts did exist, would have made his or her act or omission innocent.
+[18] These same facts also do not support a finding that the Appellant took reasonable care. Quite the contrary, the facts disclosed in the ASF and in the Documents clearly demonstrate that the returns filed by the Appellant for the Taxation Years omitted significant amounts of income even though that income was reported on information slips addressed to the Appellant. As I have not been provided with any explanation as to why the omissions occurred, I can only infer that the Appellant has no explanation.
+[19] Contrary to the submissions of counsel for the Appellant, the fact that the returns were filed at the same time does not explain the omissions in those returns. As well, the fact that the Appellant was not assessed for the Taxation Years prior to filing the returns does not explain the omissions in the returns.
+[20] Counsel for the Appellant submitted that the Appellant should be subject to a lower burden in establishing due diligence because he filed his returns at the same time and therefore had received no assessments for the Taxation Years at the time he filed. In my view, it is not reasonable to suggest that an individual who has failed to file his 2006, 2007, 2008 and 2009 tax returns on or before his filing due date for those taxation years should be subject to a lower burden in establishing due diligence than one whose tax filings are timely.
+[21] Counsel for the Appellant and counsel for the Respondent both referred to the fact that the ASF and the Documents do not indicate whether or not the information slips disclosing the missing incomes were actually received by the Appellant. However, the information slips are all addressed to the Appellant, and his failure to provide evidence that they were not received or that they were received after the returns for the Taxation Years were filed leads me to draw the negative inference that the information slips were received and in his possession at the time he filed his returns for the Taxation Years.
+[22] With respect to counsel for the Appellant’s reference to a pattern demonstrating due diligence, the only relevant pattern I can discern from the facts is that the Appellant failed to report income in every one of the returns that he filed for the Taxation Years. Without further explanation, this pattern suggests to me that the Appellant was not diligent in filing any of those returns.
+[23] It is trite to say that Canada’s income tax system relies on self-reporting. Here, save for 2010, the Appellant did not file his tax returns for the Taxation Years on time, and when he did file the returns, he failed to report material amounts of income in each such return, without providing any reasonable explanation for this failure. Under these circumstances, the Appellant has not established a due diligence defence in respect of any of the Taxation Years. While I acknowledge that the resulting subsection 163(1) penalty is harsh, that is a matter for Parliament to address.
+[24] In reaching this conclusion, I have considered the cases provided by counsel in the Joint Book of Authorities, including the decision of the Tax Court of Canada in Galachiuk v. The Queen, 2014 TCC 188.[1] In that case, the Court found that the taxpayer was diligent with respect to one of the two taxation years relevant to the application of the subsection 163(1) penalty and held that this finding was sufficient to eliminate the penalty. In light of my finding that the Appellant has not established that he was duly diligent when he filed his returns for the Taxation Years, I see no need to address the question of whether the due diligence defence can apply only to the penalty year or whether it applies to the penalty year and the three preceding taxation years.
+[25] For the foregoing reasons, the appeal of the reassessments of the Appellant’s 2007, 2008, 2009 and 2010 taxation years are dismissed with costs to the Respondent. The appeal of the reassessment of the Appellant’s 2006 taxation year is allowed without costs and the reassessment is referred back to the Minister for reconsideration and reassessment on the basis that the Appellant is entitled to claim an additional amount of $150 as a charitable donation made in his 2006 taxation year.
+Signed at Ottawa, Canada, this 30th day of May 2016.
+“J.R. Owen”
+Owen J.
+APPENDIX A
+CITATION:
+2016 TCC 133
+COURT FILE NO.:
+2013-2846(IT)G
+STYLE OF CAUSE:
+GEORGE WHISSELL v. HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Edmonton, Alberta
+DATE OF HEARING:
+April 13, 2016
+REASONS FOR JUDGMENT BY:
+The Honourable Justice John R. Owen
+DATE OF JUDGMENT:
+May 30, 2016
+APPEARANCES:
+Counsel for the Appellant:
+Douglas J. Forer
+Counsel for the Respondent:
+Gregory Perlinski
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Douglas J. Forer
+Firm:
+Tax Law LLP
+Edmonton, Alberta
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] I have also taken into consideration the fact that a proposed amendment to subsection 163(1) was tabled as part of the 2015 Federal Budget. The proposed amendment is to apply to taxation years beginning after 2014 and therefore it does not apply to the Taxation Years.

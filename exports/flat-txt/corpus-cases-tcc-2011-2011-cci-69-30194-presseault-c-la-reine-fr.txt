@@ -1,0 +1,247 @@
+Title: Presseault c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30194/index.do
+Corpus path: corpus/cases/tcc/2011/2011-cci-69-30194-presseault-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2011-02-07
+
+# Presseault c. La Reine
+
+- Citation: 2011 CCI 69
+- Decision date: 2011-02-07
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7728, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Presseault c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2011-02-07
+Référence neutre
+2011 CCI 69
+Numéro de dossier
+2009-1203(IT)I
+Juges et Officiers taxateurs
+Lucie Lamarre
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2009-1203(IT)I
+ENTRE :
+Roger R. Presseault,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels entendus sur preuve commune avec les appels de Roger R. Presseault, 2009‑1210(GST)I, et de
+Claire Presseault, 2009‑1212(IT)I,
+le 8 novembre 2010, à Ottawa (Ontario).
+Devant : L’honorable juge Lucie Lamarre
+Comparutions :
+Pour l’appelant :
+L’appelant lui‑même
+Avocate de l’intimée :
+Me Asheleigh Akalehiywot
+M. Paul Kippenstein (étudiant en droit)
+____________________________________________________________________
+JUGEMENT
+Les appels interjetés à l’égard des années d’imposition 1996, 1997, 1998 et 1999 sont accueillis sans dépens, mais uniquement en ce qui concerne ce dont les parties avaient convenu dans le règlement partiel dont il est question dans les motifs du jugement, et les cotisations sont déférées au ministre pour nouvel examen et nouvelles cotisations.
+Signé à Montréal (Québec), ce 7e jour de février 2011.
+« Lucie Lamarre »
+Juge Lamarre
+Traduction certifiée conforme
+ce 21e jour de mars 2011.
+Nathalie Gadbois, LL. L., LL. B.
+Dossier : 2009-1210(GST)I
+ENTRE :
+Roger R. Presseault,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+___________________________________________________________________
+Appel entendu sur preuve commune avec les appels de Roger R. Presseault, 2009‑1203(IT)I, et de
+Claire Presseault, 2009‑1212(IT)I,
+le 8 novembre 2010, à Ottawa (Ontario).
+Devant : L’honorable juge Lucie Lamarre
+Comparutions :
+Pour l’appelant :
+L’appelant lui‑même
+Avocate de l’intimée :
+Me Asheleigh Akalehiywot
+M. Paul Kippenstein (étudiant en droit)
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’encontre de la cotisation établie en vertu de la partie IX de la Loi sur la taxe d’accise, pour les périodes de déclaration allant du 1er janvier 1996 au 31 décembre 1999, est accuelli sans dépens, mais uniquement en ce qui concerne ce dont les parties avaient convenu dans le règlement partiel dont il est question dans les motifs du jugement, et la cotisation est déférée au ministre pour nouvel examen et nouvelle cotisation.
+Signé à Montréal (Québec), ce 7e jour de février 2011.
+« Lucie Lamarre »
+Juge Lamarre
+Traduction certifiée conforme
+ce 21e jour de mars 2011.
+Nathalie Gadbois, LL. L., LL. B.
+Dossier : 2009-1212(IT)I
+ENTRE :
+Claire Presseault,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels entendus sur preuve commune avec les appels de Roger R. Presseault, 2009‑1203(IT)I et 2009‑1210(GST)I,
+le 8 novembre 2010, à Ottawa (Ontario).
+Devant : L’honorable juge Lucie Lamarre
+Comparutions :
+Représentant de l’appelante :
+M. Roger R. Presseault
+Avocate de l’intimée :
+Me Asheleigh Akalehiywot
+M. Paul Kippenstein (étudiant en droit)
+____________________________________________________________________
+JUGEMENT
+Les appels interjetés à l’égard des années d’imposition 1996, 1997, 1998 et 1999 sont accueillis sans dépens, mais uniquement en ce qui concerne ce dont les parties avaient convenu dans le règlement partiel dont il est question dans les motifs du jugement, et les cotisations sont déférées au ministre pour nouvel examen et nouvelles cotisations.
+Signé à Montréal (Québec), ce 7e jour de février 2011.
+« Lucie Lamarre »
+Juge Lamarre
+Traduction certifiée conforme
+ce 21e jour de mars 2011.
+Nathalie Gadbois, LL. L., LL. B.
+Référence : 2011 CCI 69
+Date : 20110207
+Dossier : 2009-1203(IT)I
+ENTRE :
+Roger R. Presseault,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Dossier : 2009-1210(GST)I
+ENTRE :
+Roger R. Presseault,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Dossier : 2009-1212(IT)I
+ENTRE :
+Claire Presseault,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Lamarre
+[1] Il s’agit d’appels interjetés à l’encontre de nouvelles cotisations établies par le ministre du Revenu national (le « ministre ») en vertu de la Loi de l’impôt sur le revenu (la « LIR ») et à l’encontre d’une cotisation établie en vertu de à la Loi sur la taxe d’accise (la « LTA »). Les deux appelants, Roger R. Presseault et Claire Presseault, sont mariés et ils étaient associés à parts égales dans une société de personnes exploitée sous le nom de Les Enterprises CRP Enterprises (« CRP »), qui fournissait des services de traitement de texte et de traduction à partir de la résidence personnelle des appelants. Chacun des appelants a fait l’objet de nouvelles cotisations en application du sous‑alinéa 152(4)a)(i) de la LIR après l’expiration de la période normale de nouvelle cotisation, afin de tenir compte d’un revenu d’entreprise additionnel de 12 286 $, de 35 970 $, de 16 998 $ et de 11 279 $ pour les années d’imposition 1996, 1997, 1998 et 1999 respectivement; les appelants se sont aussi vu imposer des pénalités pour faute lourde suivant le paragraphe 163(2) de la LIR et des pénalités pour production tardive en vertu de l’article 162 de la LIR. En outre, ils ont fait l’objet de cotisations de taxe sur les produits et services (« TPS ») en vertu de la LTA totalisant 2 710 $ pour la période du 1er janvier 1996 au 31 décembre 1997, ils se sont vu refuser des crédits de taxe sur les intrants (« CTI ») totalisant 8 713 $ pour la période du 1er janvier 1996 au 31 décembre 1999 et ils se sont vu imposer une pénalité pour faute lourde en application de l’article 285 de la LTA.
+[2] Dans l’exposé conjoint des faits produit à la Cour le 1er juin 2010, il a été convenu que, pour l’année d’imposition 1997, chaque appelant avait omis de déclarer un revenu se chiffrant à 14 251 $. Il a aussi été établi que les appelants avaient reçu un montant de 16 725 $ de Lowe Martin Group. On y mentionnait aussi que les parties avaient convenu que le seul revenu non déclaré en litige restant était de 588,22 $ pour l’année d’imposition 1996, et que les seuls frais en litige restants pour les années d’imposition 1996 à 1999 étaient ceux qui étaient énumérés dans l’exposé conjoint des faits.
+[3] Au début de l’audience, les parties ont produit un règlement partiel, lesquel est reproduit ci‑dessous :
+[traduction]
+Les parties ont convenu de régler les questions en litige suivantes :
+1. Mme Presseault retire son appel interjeté à l’encontre des années d’imposition 1996, 1997, 1998 et 1999, sauf pour ce qui est des dépenses relatives à la sous‑traitance/consultation et des frais de repas et de représentation.
+2. Pour ce qui est des dépenses relatives à la sous‑traitance/consultation, les montants encore en litige sont les suivants : 30 013,50 $ pour 1996; 15 100,38 $ pour 1997; 4 256,50 $ pour 1998 et 810 030,25 $ pour 1999. Ils seront divisés entre les deux appelants en parts égales.
+3. Pour ce qui est des frais de repas et de représentation, les montants encore en litige sont les suivants : 276,08 $ pour 1996; 225,59 $ pour 1997; 452,33 $ pour 1998 et 323,30 $ pour 1999. Ils seront divisés entre les deux appelants en parts égales.
+Revenu non déclaré
+4. M. Presseault (l’« appelant ») a retiré son appel relativement au montant de revenu non déclaré de 588,22 $ qui avait été inclus dans son revenu pour l’établissement de la cotisation pour l’année d’imposition 1996.
+5. L’appelant a retiré son appel relativement au montant de revenu non déclaré de 16 725 $ qui avait été inclus dans son revenu pour l’établissement de la cotisation pour l’année d’imposition 1997.
+Frais de publicité et de promotion
+6. L’appelant a demandé une déduction de 2 553 $ au titre de frais de publicité et de promotion pour l’année d’imposition 1996. En plus du montant de 137 $ déjà admis, un montant additionnel de 23,64 $ sera admis pour cette année‑là.
+7. L’appelant a demandé une déduction de 3 217 $ au titre de frais de publicité et de promotion pour l’année d’imposition 1997. Un montant de 20,33 $ sera admis pour cette année‑là.
+8. L’appelant a demandé une déduction de 4 306 $ au titre de frais de publicité et de promotion pour l’année d’imposition 1998. Un montant de 12,61 $ sera admis pour cette année‑là.
+9. L’appelant a demandé une déduction de 1 368 $ au titre de frais de publicité et de promotion pour l’année d’imposition 1999. Aucun autre montant ne sera admis pour cette année‑là.
+10. L’appelant a retiré son appel relativement à tous les frais de publicité et de promotion restants qui avaient été refusés pour toutes les années d’imposition en litige.
+11.
+Créance irrécouvrable
+12. L’appelant a demandé une déduction de 275 $ au titre d’une créance irrécouvrable pour l’année d’imposition 1997. L’appelant a retiré son appel à l’égard de cette question.
+13. L’appelant a demandé une déduction de 1 684 $ au titre d’une créance irrécouvrable pour l’année d’imposition 1998. L’appelant a retiré son appel à l’égard de cette question.
+Frais d’impression et de photocopie
+14. Pour ce qui de la déduction demandée au titre de frais d’impression et de photocopie, l’appelant a retiré son appel pour toutes les années d’imposition en litige. Les montants suivants ont été refusés à juste titre : 1 941 $ pour 1996; 5 440 $ pour 1997; 5 746 $ pour 1998 et 3 772 $ pour 1999[1].
+Frais de fournitures de bureau
+15. L’appelant a demandé une déduction de 9 899 $ au titre de frais de fournitures de bureau pour l’année d’imposition 1997. Un montant additionnel de 252,76 $ sera admis pour cette année‑là.
+16. L’appelant a demandé une déduction de 2 425 $ au titre de frais de fournitures de bureau pour l’année d’imposition 1999. Un montant additionnel de 32,08 $ sera admis pour cette année‑là.
+17. L’appelant a retiré son appel relativement à tous les montants restants qui avaient été refusés au titre de frais de fournitures de bureau pour toutes les années d’imposition en litige.
+Frais de bureau à domicile (loyer, assurance, électricité, chauffage)
+18. Pour ce qui est du montant de la déduction demandée au titre de frais de bureau à domicile (loyer, assurance, électricité, chauffage), des montants additionnels de 2 458,85 $ pour l’année d’imposition 1996; de 2 705,30 $ pour l’année d’imposition 1997; de 2 773,87 $ pour l’année d’imposition 1998 et de 2 700,33 $ pour l’année d’imposition 1999 seront admis.
+Frais de ligne téléphonique professionnelle à domicile
+19. Pour ce qui est du montant de la déduction demandée au titre de frais de ligne téléphonique professionnelle à domicile, des montants additionnels de 13,46 $ pour l’année d’imposition 1996; de 38,63 $ pour l’année d’imposition 1997; de 98,28 $ pour l’année d’imposition 1998 et de 151,96 $ pour l’année d’imposition 1999 seront admis.
+Frais d’assurance automobile
+20. Pour ce qui est du montant de la déduction demandée au titre de frais d’assurance automobile pour toutes les années d’imposition en litige, l’appelant a retiré son appel à l’égard de ces frais.
+Frais de location automobile
+21. Pour ce qui est du montant de la déduction demandée au titre de frais de location automobile pour toutes les années d’imposition en litige, l’appelant a retiré son appel à l’égard de ces frais.
+Frais d’entretien automobile
+22. Pour ce qui est du montant de la déduction demandée au titre de frais d’entretien automobile pour toutes les années d’imposition en litige, l’appelant a retiré son appel à l’égard de ces frais.
+Frais d’essence
+23. Pour ce qui est du montant de la déduction demandée au titre de frais d’essence pour toutes les années d’imposition en litige, l’appelant a retiré son appel à l’égard de ces frais.
+Frais de stationnement
+24. L’appelant avait demandé une déduction de 1 272 $ au titre de frais de stationnement pour l’année d’imposition 1996, laquelle avait été refusée lors de l’établissement de la cotisation. L’appelant a retiré son appel à l’égard de cette question en litige.
+25. L’appelant avait demandé une déduction de 1 084 $ au titre de frais de stationnement pour l’année d’imposition 1997, laquelle avait été refusée. L’appelant a retiré son appel à l’égard de cette question en litige.
+26. L’appelant avait demandé une déduction de 815 $ au titre de frais de stationnement pour l’année d’imposition 1998, laquelle avait été refusée. L’appelant a retiré son appel à l’égard de cette question en litige.
+27. L’appelant avait demandé une déduction de 480 $ au titre de frais de stationnement pour l’année d’imposition 1999, laquelle avait été refusée. L’appelant a retiré son appel à l’égard de cette question en litige.
+Pénalités pour faute lourde établies en vertu du paragraphe 163(2) de la Loi de l’impôt sur le revenu
+28. L’appelant s’est vu imposer des pénalités pour faute lourde en vertu du paragraphe 163(2) de la Loi de l’impôt sur le revenu (la « Loi »). L’appelant convient que des pénalités pour faute lourde doivent être imposées et que celles‑ci doivent être rajustées conformément aux paragraphes susmentionnés.
+29. L’appelant convient également que, suivant le paragraphe 152(4) de la Loi, le ministre a établi a bon droit de nouvelles cotisations pour les années d’imposition en litige.
+30. Si l’appelant est débouté de son appel devant la Cour canadienne de l’impôt à l’égard des frais de sous‑traitance/consultation ou des frais de repas et de représentation, il est convenu que des pénalités pour faute lourde imposées conformément au paragraphe 163(2) de la Loi doivent s’appliquer à l’égard de ces frais. Le ministre ne doit pas être tenu de présenter une preuve pour s’acquitter de son fardeau de la preuve à cet égard.
+Pénalités pour production tardive imposées en vertu de l’article 162 de la Loi de l’impôt sur le revenu
+31. L’appelant s’est vu imposer des pénalités pour production tardive en vertu de l’article 162 de la Loi. L’appelant convient que des pénalités pour production tardive doivent être imposées et que celles‑ci doivent être rajustées conformément aux paragraphes susmentionnés.
+TPS
+32. Des pénalités pour faute lourde ont été imposées à l’appelant en vertu de l’article 285 de la Loi sur la taxe d’accise. L’appelant convient que des pénalités pour faute lourde doivent être imposées et que celles‑ci doivent être rajustées conformément aux paragraphes susmentionnés.
+33. Le ministre a inclus dans la cotisation un montant additionnel de 2 710,09 $ à percevoir au titre de la TPS pour la période du 1er janvier 1996 au 31 décembre 1997. L’appelant a retiré son appel à l’égard de cette question en litige.
+34. Le ministre a refusé des crédits de taxe sur les intrants de 8 713,26 $ pour la période du 1er janvier 1996 au 31 décembre 1999. Un montant additionnel de 144,42 $ au titre de crédits de taxe sur les intrants sera admis. L’appelant retire son appel à l’égard de toutes les autres questions relatives aux crédits de taxe sur les intrants, à l’exception de celles portants sur les frais de sous‑traitance/consultation et les frais de repas et de représentation
+Questions qui sont encore en litige
+35. Les seules questions qu’il reste à trancher devant la Cour canadienne de l’impôt concernent les montants déduits et refusés au titre de frais de sous‑traitance/consultation et de frais de repas et de représentation pour les années d’imposition en litige et les crédits de taxe sur les intrants correspondants, qui se chiffrent à 3 062,58 $ et à 89,16 $ respectivement pour les années d’imposition en litige.
+36. L’appelant a retiré son appel à l’égard de toute les questions restantes, pour toutes les années d’imposition en litige.
+[4] Comment le prévoient les paragraphes 2, 3 et 34 du règlement partiel susmentionné, les seules questions qu’il me reste à trancher concernent les montants pour lesquels des déductions ont été demandées et ont été refusées relativement aux frais de sous‑traitence/consultation et aux frais de repas et de représentation pour les années d’imposition en litige et les CTI correspondant à ces montants.
+[5] Roger Presseault a témoigné pour les appelants, son épouse étant trop malade pour assister à l’audience. Toutes les dépenses en litige concernent une relation contractuelle alléguée entre les appelants et une personne dénomée Daniel Ryan. M. Presseault a mentionné avoir été présenté à M. Ryan en 1992. À cette époque, M. Ryan était directeur exécutif du Conseil national des autochtones du Canada (le « CNAC »). Le 23 août 1993, un contrat avait été conclu entre CRP et le CNAC, selon lequel CRP devait fournir des services de traduction au CNAC. Cette entente, qui a été conclue en français, a été produite sous la cote A‑1, onglet 7. Elle était signée par Roger Presseault, au nom de CRP, et par Daniel Ryan, au nom du CNAC. Le contrat prévoyait que, à la demande de M. Ryan, CRP devait embaucher Nathalie Ladouceur pour réviser les traductions et ferait appel à Pro Discount Printers pour l’impression; ces dernières, qui dans le contrat sont désignés comme des sous‑traitantes, devaient être payés par CRP par l’intermédiaire de M. Ryan. Dans son témoignage, M. Presseault a affirmé que le jour après la signature du contrat, une femme se présentant comme étant Nathalie Ladouceur l’avait appelé pour confirmer qu’ils feraient affaire ensemble, conformément au contrat signé avec M. Ryan. Cependant, M. Presseault a reconnu qu’il n’avait jamais rencontré Nathalie Ladouceur. En fait, Nathalie Ladouceur a été appelée à témoigner par l’intimée. Elle est infirmière, n’a jamais travaillé dans le domaine de la traduction et n’a été informée du contrat qu’au moment où l’enquêteur de l’Agence du revenu du Canada (l’« ARC ») l’a appelée pendant qu’il menait une enquête sur les gestes posés par M. Presseault et M. Ryan. Il semble que Nathalie Ladouceur était une amie du fils de M. Ryan et qu’elle avait vécu avec lui en 1992 et en 1993, à Hull, au Québec. Pendant les années en litige, elle ne fréquentait plus le fils de M. Ryan et, en fait, elle avait vécu deux ans en Suisse, puis elle était allée demeurer à Montréal, au Québec.
+[6] M. Presseault a produit en preuve quelques chèques qui avaient été faits à l’ordre de Nathalie Ladouceur en 1994 et en 1995, et qui avaient été déposés dans le compte bancaire de M. Ryan, conformément aux renseignements obtenus par M. Presseault (pièce A‑1, onglet 10, et pièce A‑4).
+[7] M. Presseault a produit un autre contrat qui avait apparemment été conclu entre CRP et Daniel Ryan le 5 octobre 1995 (pièce A‑1, onglet 11). Cette entente avait aussi été rédigée en français et elle prévoyait que M. Ryan fasse la promotion des activités de CRP et fournisse aussi des services de révision pour les traductions effectuées par CRP. On y mentionnait que CRP acceptait que M. Ryan ait recours aux services des personnes figurant dans le contrat de 1993 susmentionné, que CRP paierait M. Ryan en espèces et que celui‑ci paierait les sous‑traitants. Le taux horaire fixé pour la révision allait de 35 $ à 75 $, et celui des services promotionnels, de 100 $ à 150 $. Apparemment, à la fin de l’année 1995, le CNAC devait environ 23 000 $ aux appelants et ceux‑ci ont décidé d’intenter une poursuite contre l’organisation. Les parties sont parvenues à un règlement à l’amiable et M. Presseault a expliqué que c’était pendant le litige que le contrat de 1995 avait été signé entre CPR et M. Ryan personnellement.
+[8] Daniel Ryan a été appelé à témoigner par l’intimée. Il a nié avoir signé le contrat de 1995. Il a affimé qu’il était très occupé à voyager pour le CNAC (renommé ultérieurement Congrès des Peuples Autochtones) et plus tard pour le ministère des Affaires indiennes et du Nord canadien, et qu’il ne voyait pas comment il aurait eu le temps de fournir les services mentionnés dans l’entente. Il a ajouté qu’il n’œuvrait pas dans le domaine de la traduction et qu’il n’avait jamais facturé directement des services de traduction aux appelants. Lorsque l’avocate de l’intimée lui a montré les factures remplies par les appelants, il a affimé qu’il ne les avait jamais vues auparavant. Dans son témoignage, il a dit que Mme Ladouceur n’avait jamais travaillé pour lui. En contre‑interrogatoire, il a admis qu’il avoir signé le contrat de 1993 au nom du CNAC, mais il était incapable d’expliquer pourquoi les noms de Nathalie Ladouceur et de Pro Discount Printers y apparaissaient. Il n’était pas non plus en mesure d’expliquer pourquoi les chèques faits au nom de Nathalie Ladouceur avaient été déposés dans son compte bancaire. M. Presseault avait produit trois chèques de montants variant de 640 $ à 930 $, payables à M. Ryan en 2000, tirés du compte de CRP et déposés dans le compte bancaire de M. Ryan (pièce A‑1, onglet 2). Apparemment, M. Ryan travaillait alors pour de l’Association des agents financiers autochtones du Canada (l’« AAFA ») et il avait demandé les services de l’appelant pour cette organisation. M. Ryan n’a pas été en mesure d’expliquer pourquoi les chèques sumentionnés avaient été émis à son nom. Enfin, M. Ryan a affirmé qu’il n’avait pas vu M. Presseault et ne lui avait pas non plus parlé après la fin du contrat conclu avec le CNAC, jusqu’à ce qu’il appelle M. Presseault à nouveau vers 2000 ou 2001 pour un contrat avec l’AAFA. Lorsqu’on lui a souligné les courriels échangées entre lui et M. Presseault de septembre 1997 à décembre 1999 (pièce A‑1, onglet 13), M. Ryan a continué à soutenir que ces communications étaient liées aux affaires conclues entre les appelants et le CNAC. M. Presseault a souligné que l’adresse de courriel de M. Ryan ne semblait pas être une adresse du CNAC et que le compte avait apparemment était créé en septembre 1997, après que M. Ryan eut quitté le CNAC. M. Ryan n’a pas pu expliquer cela, soutenant qu’il n’avait jamais fait affaires personnellement avec les appelants. Il persistait à dire qu’après 1996, il n’a pas fait affaires avec M. Presseault jusqu’à l’année 2000 ou 2001, expliquant que lorsqu’il a commencé à travailler pour le ministère des Affaires indiennes et du Nord canadien, il n’avait eu aucunement besoin d’appeler les appelants (transcription, p. 212‑213). M. Ryan a reconnu qu’il avait été accusé de fraude pour plus de 5 000 $ en 2002 tandis qu’il était directeur de l’exploitation de l’AAFA, et il s’est retrouvé avec un casier judiciaire et a été condamné à un an de probation (transcription, p. 161‑162).
+[9] La déduction demandée par les appelants a été refusée à l’égard de tous les paiements faits à Daniel Ryan ou à Nathalie Ladouceur qui figurent sur les factures que ces derniers auraient envoyées pour des services de sous‑traitance/consultation. Des exemples de telles factures ont été produites sous la cote A‑2 et la cote R‑1, volume 2, onglet 24. Ces factures montrent toutes qu’un paiement a été effectué en espèces. Mme Jennifer Linnett, l’enquêteure chargée du dossier de appelants, a expliqué pourquoi elle n’avait pas admis ces factures. En premier lieu, l’adresse de Nathalie Ladouceur était fausse, comme l’a confirmé Postes Canada. En deuxième lieu, Mme Linnet a tenté d’établir une correspondance entre chacun des montants qui auraient été payés à chaque date inscrite sur les factures et les montants retirés du compte bancaire de l’entreprise ou les retraits effectués à partir d’une carte de crédit ou d’un compte bancaire personnel. Elle n’a pas été en mesure d’établir de correspondance pour aucune facture et elle s’est rendu compte que, dans de nombreux cas, il n’était pas possible, compte tenu des retraits effectués, que tous les montants en espèces apparaissant sur les factures aient été payés. En troisième lieu, aucun des clients de CRP qu’elle a interrogés ne savait que CRP donnait son travail en sous‑traitance. En quatrième lieu, sur la plupart des factures envoyées en apparence par Nathalie Ladouceur, le taux de facturation était de 75 $ l’heure, tandis que le taux de facturation de CRP n’était que de 35 $ l’heure, ce qui n’avait aucun sens. Enfin, tant Nathalie Ladouceur et Daniel Ryan lui ont dit qu’ils n’avaient jamais fait les factures en litige aux appelants.
+[10] M. Presseault a déclaré avoir payé les montants qui figurent dans les factures de bonne foi et avoir été victime d’un individu qui lui semblait être un homme d’affaires honnête. Comme preuve, il a affimé que les chèques faits à l’ordre de M. Ryan ou de Mme Ladouceur aussi bien avant qu’après les années en litige montraient qu’il avait en fait travaillé avec M. Ryan et payé ses dépenses légitimes. M. Presseault a également produit, sous la cote A‑1, onglet 20, une répartition des travaux effectués lors des années en litige. Cependant, cette répartition ne sonne aucun détail sur les montants qui auraient été factués et payés pour des travaux effectés en sous‑traitance. M. Presseault a également produit ses agendas personnels pour les années en litige, qui montrent qu’il a rencontré M. Ryan pendant ces années‑là (pièce A‑3). En fait, il a utilisé ces agendas pour refaire une répartition de tous les repas pris avec M. Ryan et pour lesquels il demande maintenant une déduction au titre de frais de repas (pièce A‑1, onglet 19).
+[11] Lors du contre‑interrogatoiree, M. Presseault a dû admettre que les factures pour les repas, soit les pièces R‑4, R‑5 et R‑6 montrent que ces repas avaient été pris avec des enfants ou lors de son anniversaire de mariage ou encore lors d’un jour férié. M. Presseault maintenait, toutefois, que M. Ryan était présent et qu’il s’agissait de repas d’affaires. Il n’a pas gardé de registre des repas pris avec les clients parce qu’il n’a pris des repas qu’avec M. Ryan. Celui‑ci n’a pas nié avoir dîné occasionnellement avec M. Presseault dans les environs des bureaux du CNAC, mais, dans son témoignage, il a affirmé qu’il n’avait jamais pris de repas avec M. Presseault pendant lesquels la famille de M. Presseaul était présente ou lors d’un jour férié. Il a affirmé que, mis à part quelques exceptions, il n’était pas avec M. Presseault lors des repas énumérés à la pièce A‑1, onglet 19. M. Presseault a admis qu’en raison du résultat de l’enquête de l’ARC, il a reçu une amende de 12 000 $ — et possède maintenant un casier judiciaire — notamment pour avoir demandé la déduction de dépenses personnelles à titre de dépenses d’entreprise (transcription, p. 21, p. 64 et p. 101‑102). Il a aussi reconnu que ni les agendas personnels ni le contrat de 1995 ne faisaient partie des documents saisis par l’ARC lors de l’enquête. Il ne croyait pas qu’il était nécessaire à ce moment‑là de fournir ces documents à l’ARC. Pendant ces années, M. Presseault travaillait à temps plein chez Postes Canada et était membre du conseil arbritral d’assurance‑emploi, et seuls les agendas qu’il avait conservés pour justifier ses absences à Postes Canada avaient été trouvés par l’ARC lors de la saisie. Ces agendas ne mentionnaient aucunement ses démarches auprès de M. Ryan. M. Presseault a expliqué qu’il possédait deux types d’agendas séparés.
+Analyse
+[12] D’entrée de jeu, je dois dire que j’ai trouvé que ni le témoignage de M. Ryan ni celui de M. Presseault n’étaient crédibles. Les deux ont plaidé coupable à des accusations criminelles de fraude qui, je crois comprendre, sont en partie liées aux cotisations dont je suis ici saisie. Les témoignage des deux était incompatible et, à plus d’une occasion, M. Ryan ainsi que M. Presseault avaient de la difficulté à fournir des explications. Nathalie Ladouceur était franche et je n’ai aucun problème à croire qu’elle n’était pas du tout au courant des présumées ententes ni du fait que M. Ryan avait utilisé son nom frauduleusement pour ses propres intérêts. Pour ce qui est de M. Presseault, l’impression qu’il a donnée devant le tribunal était qu’il n’a fait que fermer les yeux sur la situation et qu’il a implicitement accepté de berner les autorités fiscales par sa complicité avec M. Ryan. Je ne crois pas que les deux hommes ont exploité une entreprise légitime ensemble; par conséquent, en l’absence d’entreprise véritable, les dépenses demandées à l’égard de M. Ryan doivent toutes être refusées.
+[13] Tout d’abord, il est important de dire que, dans leur déclaration de revenus initiale de 1996, les appelants avaient déduit un total de 14 810 $ au titre de frais de consultation, et 1 942 $ au titre de frais de repas et de représentation (pièce R‑1, volume 1, onglet 1, p. 8 et 11 et onglet 5, p. 5 et 8). Ils demandent maintenant 30 013,50 $ pour la consultation (deux fois plus) et 276,08 $ pour les repas et la représentation (sept fois moins). Pour 1997, ils avaient demandé 16 259,70 $ pour la sous‑traitance et 2 096,94 $ pour les repas et la représentation (pièce R‑1, volume 1, onglet 2, p. 9 et onglet 6, p. 6) tandis qu’ils demandent maintenant 15 100,38 $ et 225,59 $ pour ces dépenses respectivement (neuf fois moins pour les repas). Pour 1998, ils avaient demandé 7 046,60 $ au titre de frais de consultation et 2 787,58 $ au titre de frais de repas et de représentation (pièce R‑1, volume 1, onglet 3, p. 14 et onglet 7, p. 10). Ils demandent maintenant 4 256,50 $ et 452,33 $ pour ces dépenses respectivement (soit un peu plus de la moitié pour la consultation et six fois moins pour les repas). Enfin, pour 1999, ils avaient demandé 9 375 $ au titre de sous‑traitance et 1 033,98 $ au titre de frais de repas et de représentation (pièce R‑1, volume 1, onglet 4, p. 11 et onglet 8, p. 6). Ils demandent maintenant 10 030,25 $ et 323,30 $ pour ces dépenses respectivement (presque 1 000 $ de plus pour la consultation et plus de trois fois moins pour les repas).
+[14] À mon avis, la différence entre les montants demandés à l’origine et ceux qui sont maintenant demandés montrent l’aveuglement volontaire des appelants à l’égard de leurs responsabilités sur le plan fiscal. En outre, pour ce qui est des repas, les appelants s’entêtent à demander la déduction de montants qui constituent des dépenses personnelles (repas avec les enfants, repas d’anniversaire de marriage), sans fournir aucune preuve démontrant que des clients étaient présents lors de ces repas. Pour ce qui est des frais de consultation, il est simplement impossible de croire que les appelants auraient payé à un consultant deux fois plus que ce qu’ils facturaient à leurs propres clients. Ce n’est tout simplement pas une bonne pratique commerciale et la demande relative à cette dépense est complètement farfelue. En outre, dans son témoignage, Mme Linnett a affirmé qu’elle n’était pas en mesure d’établir un lien entre quelque retrait que ce soit du compte d’affaires ou des comptes personnels et les montants qui auraient été utilisés pour faire des paiements en espèces. M. Presseault n’a fourni aucune preuve concrète permettant de démontrer que des montants en espèces avaient réellement été retirés pour payer M. Ryan. La seule preuve fournie portait sur les années antérieures et postérieures à la période en litige et se limitait à quelques chèques libellés au nom de Mme Ladouceur (qui nous savons ne participait à aucune activité de traduction) ou de M. Ryan.
+[15] En outre, M. Presseault n’a pas été en mesure de rattacher les factures à des travaux précis effectués par les sous‑traitants présumés. Il a reconstitué une sorte de calendrier des travaux effectués (pièce A‑1, onglet 20) à partir de ses agendas personnels, mais aucune référence aux frais se rattachant à ces travaux ne s’y trouvait. De plus, il convient de souligner que M. Presseault n’a pas pu donner aucune explication au sujet de la raison pour laquelle il n’avait pas fourni ses agendas personnels ni le contrat de 1995, sur lesquels il s’est basé essentiellement, aux enquêteurs de l’ARC au moment de l’enquête. Tous ces documents ont été fournis longtemps après les événements et constituent plus ou moins une preuve intéressée.
+[16] Pour toutes ces raisons, je n’admets pas les dépenses réclamées maintenant par les appelants au titre de frais de consultation et de sous‑traitance ainsi que de frais de repas et de représentation.
+[17] Une dernière question en litige demeure. M. Presseault a produit à la Cour une lettre non signée qui n’est pas datée et qui aurait été envoyée à M. Ryan par Mme Linnett (pièce A‑1, onglet 5). Dans cette lettre, elle informe M. Ryan de rajustements quant à l’impôt sur le revenu pour tenir compte de revenus non déclarés. À l’audience, l’avocate de l’intimée à soulevé un doute quant à l’authentiticé de ce document, puisque les montants de revenus non déclarés correspondaient au revenu non déclaré de Claire Presseault. M. Presseault a déclaré que les enquêteurs de l’ARC lui avaient renvoyé ce document juste avant les procédures criminelles. Le jour après l’audience, l’avocate de l’intimée a informé M. Presseault que, après ses vérifications, elle avait été avisée du fait que le document constituait une ébauche et qu’il n’avait jamais été envoyé à M. Ryan. Il avait été fourni à M. Presseault dans le cadre du processus de communication de la preuve. M. Presseault a immédiatement écrit une lettre à la Cour dans laquelle il affirme que que cette admission par l’avocate de l’intimée devait être interprétée comme démontrant sa crédibilité. Malheureusement pour M. Presseault, ce document pourrait contribuer à prouver que M. Ryan avait ses propres problèmes avec l’ARC et montrer sa crédibilité, mais cela ne change en aucune façon ma perception du comportement de M. Presseault dans sa propre cause. Le document en question n’a aucune incidence sur les raisons pour lesquelles je refuse d’admettre les dépenses qui m’ont été demandées.
+[18] Les appels seront donc accueillis et je défère les cotisations au ministre pour nouvel examen et nouvelles cotisations uniquement pour prendre en considération ce qui a été convenu par les parties dans le règlement partiel. Il est convenu que les appelants ne peuvent pas déduire les frais de sous‑traitence et de consultation ni les frais de repas et de représentation demandés, ni les crédits de taxe sur les intrants y afférents.
+Signé à Montréal (Québec), ce 7e jour de février 2011.
+« Lucie Lamarre »
+Juge Lamarre
+Traduction certifiée conforme
+ce 21e jour de mars 2011.
+Nathalie Gadbois, LL. L., LL. B.
+RÉFÉRENCE : 2011 CCI 69
+No DES DOSSIERS DE LA COUR : 2009-1203(IT)I
+2009-1210(GST)I
+2009-1212(IT)I
+INTITULÉ : Roger R. Presseault c. SA MAJESTÉ LA REINE
+et
+Claire Presseault c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Ottawa (Ontario)
+DATE DE L’AUDIENCE : Le 8 novembre 2010
+MOTIFS DU JUGEMENT : L’honorable juge Lucie Lamarre
+DATE DU JUGEMENT : Le 7 février 2011
+COMPARUTIONS :
+Pour l’appelant Roger R. Presseault :
+Représentant de l’appelante Claire Presseault :
+L’appelant lui-même
+M. Roger R. Presseault
+Avocate de l’intimée :
+Me Asheleigh Akalehiywot
+M. Paul Kippenstein (étudiant en droit)
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Le chiffre est illisible dans la copie produite à la Cour.

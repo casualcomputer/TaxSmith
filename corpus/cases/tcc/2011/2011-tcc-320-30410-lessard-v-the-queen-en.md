@@ -1,0 +1,175 @@
+---
+title: "Lessard v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30410/index.do"
+last_modified: "2011-06-25"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2011 TCC 320"
+citation2: ""
+neutral_citation: "2011 TCC 320"
+decision_date: "2011-06-25"
+language: "en"
+item_id: "30410"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7937
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T07:29:21.007000+00:00"
+cases_cited_count: 3
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "70c0c7aa7be1698ab970bc20b5b37d8f6415f5e0289f6dea3378f8e27a05f090"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Lessard v. The Queen
+
+- Citation: 2011 TCC 320
+- Decision date: 2011-06-25
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7937, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Lessard v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2011-06-25
+Neutral citation
+2011 TCC 320
+File numbers
+2006-1555(IT)I
+Judges and Taxing Officers
+Gaston Jorré
+Subjects
+Income Tax Act
+Decision Content
+Dockets: 2006-1555(IT)I
+2006-1648(IT)I
+BETWEEN:
+FRANCINE LESSARD,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeals heard on April 18, 2011, at Montréal, Quebec
+Before: The Honourable Justice Gaston Jorré
+Appearances:
+For the appellant:
+The appellant herself
+Counsel for the respondent:
+Gabriel Girouard
+Simon Petit
+____________________________________________________________________
+JUDGMENT
+The appeals from the assessments made under the Income Tax Act for the 2003 and 2004 taxation years are dismissed, without costs, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Ontario, this 25th day of June 2011.
+"Gaston Jorré"
+Jorré J.
+Translation certified true
+on this 16th day of August 2011
+Susan Deichert, Reviser
+Citation: 2011 TCC 320
+Date: 20110625
+Dockets: 2006-1555(IT)I
+2006-1648(IT)I
+BETWEEN:
+FRANCINE LESSARD,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Jorré J.
+[1] The appellant is appealing from her assessments for the 2003 and 2004 taxation years.
+[2] Although the facts of these cases are unusual, they are not complicated, and there is no real controversy regarding the facts. The entire controversy is about the consequences of the facts. The appellant is contesting the inclusion in her income of the amount of $11,628 in 2003 and the amount of $10,000 in 2004.
+[3] Previously, she had appealed from her assessment for the 2002 taxation year. That appeal was dismissed by Justice Lamarre Proulx in Lessard v. The Queen,[1] a decision which was affirmed by the Federal Court of Appeal.[2] Leave to appeal was denied by the Supreme Court of Canada.
+[4] On November 5, 2001, the Régie des rentes du Québec (RRQ) notified the appellant that it had denied the application for a disability pension that she made on April 16, 2001.[3]
+[5] On October 9, 2002, the RRQ notified the appellant of its decision concerning her application for review. The RRQ informed the appellant that, after considering the report of psychiatrist Dr. Jacques Lesage, it had concluded that the appellant had been disabled since June 2000, and that a disability pension would be paid accordingly.[4]
+[6] The appellant appealed this decision before the Tribunal administratif du Québec (Tribunal). Her contention that she was not disabled within the meaning of the Act respecting the Québec Pension Plan (AQPP) was accepted. After examining the evidence, the Tribunal, based on the report of psychiatrist Dr. Lionel Béliveau, found as follows on November 2, 2004: [translation] "Although the applicant is incapable of performing her usual employment of Class I senior counsel, the evidence shows that the applicant is not incapable of carrying on gainful employment." Consequently, the appellant was not disabled within the meaning of the AQPP.[5]
+[7] The RRQ paid the appellant a disability pension in 2003, and until November in 2004, when the Tribunal rendered its decision. The amounts paid were $11,628 in 2003 and $10,000 in 2004. The appellant is not disputing that she received these amounts.
+[8] Neither amount was repaid before 2005.
+[9] Other than one aspect that I will deal with below, the appellant's argument is substantially the same as the argument she made in her 2002 appeal.
+[10] The appellant submits that the effect of the Tribunal's decision is to set aside the RRQ's decision to grant a disability pension, with the result that the appellant did not receive disability benefits. Accordingly, she submits that the amounts of $11,628 and $10,000 at issue were never income, and cannot be included in her income.
+[11] I see no relevant difference between the facts of the cases at bar and the facts set out in the decision regarding the 2002 year. Moreover, none of the appellant's submissions have convinced me that a different conclusion should be reached. Consequently, apart from one aspect that will be discussed below, I accept the analysis contained in paragraphs 15, 16 and 20 of Justice Lamarre Proulx's decision in Lessard.[6]
+[12] In 2003, and until November in 2004, the appellant received amounts that were paid as QPP disability benefits and must be included in her income pursuant to clause 56(1)(a)(i)(B) of the Income Tax Act (ITA). She had the benefit of these amounts.
+[13] Subparagraph 60(n)(ii) of the ITA very clearly states what happens where, as here, such an amount must be repaid. The taxpayer can deduct any amount repaid during the year the repayment is made.
+[14] There were no repayments in 2003 or 2004. Consequently, apart from the question that I will examine below, I would conclude that these appeals must be dismissed.
+[15] One aspect of the appellant's arguments remains to be examined. These arguments were not raised in the appeal concerning the 2002 year.
+[16] Noël Saint-Pierre, the appellant's counsel at the time, filed a Notice of Constitutional Question dated December 28, 2007. According to the sworn statement of Éric Bernier dated December 28, 2007, the notice was served on the Attorneys General of the provinces and territories by fax.
+[17] The appellant relies on sections 7 and 15 of the Canadian Charter of Rights and Freedoms (Charter), which provide as follows:
+Legal rights
+7. Everyone has the right to life, liberty and security of the person and the right not to be deprived thereof except in accordance with the principles of fundamental justice.
+. . .
+Equality rights
+15. (1) Every individual is equal before and under the law and has the right to the equal protection and equal benefit of the law without discrimination and, in particular, without discrimination based on race, national or ethnic origin, colour, religion, sex, age or mental or physical disability.
+[18] The appellant's argument, as I understand it, is that the making of the assessment and the demand for payment of the income tax on the amounts of approximately $11,628 and $10,000 at issue endanger her health, liberty and security of the person because it would deprive her of the minimum necessary for her to live on.
+[19] Further, she argues that it is discriminatory because it would be particularly burdensome for senior citizens and persons with disabilities.[7]
+[20] The appellant's arguments are unfounded. Even if I assume that section 7 of the Charter could apply where the effect of a statute is to deprive someone of the minimum income necessary for survival,[8] the appellant has not explained how the taxation of the pension would have such an effect.[9]
+[21] In fact, I do not see how the taxation of an amount that the appellant could freely dispose of could, in and of itself, reduce her income below a certain vital minimum, since the ITA contains various provisions that have the effect of exempting an individual's income, below a certain level, from taxation.[10]
+[22] As far as section 15 of the Charter is concerned, it is important to establish the group to which the appellant belongs. This group comprises people who, for a time, receive a pension to which they are not entitled, and who subsequently repay that amount. It is not persons who suffer a disability, or senior citizens.
+[23] Such a group is not one of the groups listed in section 15 of the Charter, nor is it a comparable group. Consequently, section 15 cannot apply.
+[24] With respect to the 2004 taxation year, the appellant also contests the interest assessed on insufficient instalments. Her contention is that there were no insufficient instalments because, if the amount received from the RRQ as a disability pension had not been added to her income, it would not have been necessary to pay instalments.
+[25] Since the Minister of National Revenue properly added the pension to the appellant's income, instalments were, necessarily, insufficient.
+[26] For all these reasons, the appeals are dismissed, without costs.
+Signed at Ottawa, Ontario, this 25th day of June 2011.
+"Gaston Jorré"
+Jorré J.
+Translation certified true
+on this 16th day of August 2011
+Susan Deichert, Reviser
+CITATION: 2011 TCC 320
+COURT FILE NOS.: 2006-1555(IT)I, 2006-1648(IT)I
+STYLE OF CAUSE: FRANCINE LESSARD v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Montréal, Quebec
+DATE OF HEARING: April 18, 2011
+REASONS FOR JUDGMENT BY: The Honourable Justice Gaston Jorré
+DATE OF JUDGMENT: June 25, 2011
+APPEARANCES:
+For the appellant:
+The appellant herself
+Counsel for the respondent:
+Gabriel Girouard
+Simon Petit
+COUNSEL OF RECORD:
+For the appellant:
+Name:
+Firm:
+For the respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Ontario
+[1] 2006 TCC 45.
+[2] 2007 FCA 9.
+[3] Exhibit A-4.
+[4] Exhibit A-2.
+[5] Exhibit A-3.
+[6] I do not see how the fact that 2004 is the year in which the Tribunal rendered its decision can change anything at all. The QPP payments were made before that decision.
+The appellant brought the following decisions to my attention: Canada v. Dominion Engineering Co., [1944] S.C.R. 371; Johnston v. M.N.R., 51 DTC 226 (T.A.B.); Minister of National Revenue v. Simon et al., [1977] 2 S.C.R. 812; Verdon v. Lauzon, Laval S.C. 540-05-003678-988, judgment dated September 14, 1998, J.E. 98‑2096; Leclair v. Markowski, [1978] C.S. 1132; Perini Estate v. The Queen, 82 DTC 6080 (F.C.A.); Gagnon v. The Queen, [1986] 1 S.C.R. 264; Furfaro-Siconolfi v. The Queen, [1990] 2 F.C. 3; Canada (Attorney General) v. Juliar et al. (2000), 50 O.R. (3d) 728 (C.A.); Kovarik v. Canada, [2001] T.C.J. No. 181 (QL); Hall v. The Queen, 2003 TCC 410; Barthels v. Canada, [2002] T.C.J. No. 256 (QL).
+I do not see how all these cases can help the appellant, because they deal with very different issues, whereas the decision in Lessard, 2006 TCC 45, aff'd, 2007 FCA 9, is directly on point.
+[7] The remedies sought in the Notice of Constitutional Question are beyond this Court's jurisdiction. The appellant asks:
+[TRANSLATION]
+That it be recognized that the collection . . . undertaken by the State violates the applicant's right to life, liberty and security of the person;
+That the repayment of the amount related to Dockets 2006-1648(IT)I and 2006‑1555(IT)I is, given the notice of assessment, arbitrary and in violation of the principles of fundamental justice; and
+That the demand for repayment of the amount related to Dockets 2006-1648(IT)I and 2006-1555(IT)I be SET ASIDE.
+Thus, the appellant is seeking (i) a declaration and (ii) an order prohibiting the respondent from collecting a sum of money. The Court's jurisdiction as it applies to this case is to vary, vacate or confirm tax assessments. This Court cannot make any declaration and cannot prohibit collection.
+[8] The appellant cited no cases or scholarly writing in support of this theory.
+[9] The appellant said that it would be difficult for her to pay the income tax resulting from the assessments and that she lived off pensions. This does not demonstrate that the fact that the amount is taxable deprives her of a minimum income or that it generally has this effect on persons receiving disability benefits. From a practical standpoint, it is difficult to see how the income tax in question, which represents a portion of the disability pension, could deprive the appellant of part of a vital minimum, given that she did not want to receive the pension itself, a larger amount.
+[10] In addition, it seems to me that the wrong question is being asked. In both years to which these appeals pertain, the appellant must pay income tax on amount which, in her submission, she should never have received, but did receive and could use. If a question concerning section 7 could be asked (and I make no finding with respect to such a question), it seems to me that it would be about the demand for repayment of the pension paid, not the income tax payable on the amount received.

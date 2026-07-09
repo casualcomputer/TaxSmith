@@ -1,0 +1,219 @@
+---
+title: "Mi Sask Industries Ltd. v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27069/index.do"
+last_modified: "2007-02-07"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 CCI 73"
+citation2: ""
+neutral_citation: "2007 CCI 73"
+decision_date: "2007-02-07"
+language: "fr"
+item_id: "27069"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 612
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T09:58:46.290000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "0e6ea5f70137b1dcadce733c0ee7a3a7911ee7f975f601e8ee1dcc2722907700"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Mi Sask Industries Ltd. v. The Queen
+
+- Citation: 2007 CCI 73
+- Decision date: 2007-02-07
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 612, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Mi Sask Industries Ltd. v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-02-07
+Référence neutre
+2007 CCI 73
+Numéro de dossier
+2005-3721(GST)I
+Juges et Officiers taxateurs
+David W. Beaubier
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2005-3721(GST)I
+ENTRE :
+MI SASK INDUSTRIES LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle]
+____________________________________________________________________
+Appel entendu le 24 janvier 2007 à Saskatoon (Saskatchewan)
+Devant : L’honorable juge D.W. Beaubier
+Comparutions :
+Avocat de l’appelante :
+Me John B. Benesh
+Avocate de l’intimée :
+Me Brooke Sittler
+____________________________________________________________________
+JUGEMENT
+Conformément aux motifs du jugement ci-joints, l’appel interjeté à l’encontre de la cotisation établie en vertu de la Loi sur la taxe d’accise, dont l’avis est daté du 4 octobre 2004 et porte le numéro 09FS0400225, est rejeté.
+Signé à Kelowna (Colombie-Britannique) ce 7e jour de février 2007.
+« D.W. Beaubier »
+Juge Beaubier
+Traduction certifiée conforme
+ce 6e jour de février 2008.
+Jean-François Leclerc-Sirois, LL.B, M.A.Trad.Jur.
+Référence : 2007CCI73
+Date : 20070207
+Dossier : 2005-3721(GST)I
+ENTRE :
+MI SASK INDUSTRIES LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle]
+MOTIFS DU JUGEMENT
+Le juge Beaubier
+[1] Le présent appel, interjeté sous le régime de la procédure informelle, a été entendu à Saskatoon (Saskatchewan) le 24 janvier 2007. L’appelante n’a appelé qu’un seul témoin, Bernard Miazga, son propriétaire, qui a travaillé comme chef de chantier lors de l’installation du pipeline à Medecine Hat (Alberta) en 2002 et en 2003.
+[2] Les paragraphes 8 à 10 de la réponse à l’avis d’appel donnent un aperçu des questions en litige. Ils sont ainsi rédigés :
+[traduction]
+8. Lorsqu’il a établi et confirmé la cotisation à l’égard de l’appelante pour la taxe perçue et percevable quant au paiement de 200 000 $ qu’elle a reçu de la Ville, le ministre s’est fondé sur les hypothèses de fait suivantes :
+a) l’appelante est un inscrit aux fins de la Loi et son numéro d’inscription est le BN 103712857;
+b) la Ville a conclu un contrat (le « contrat ») avec l’appelante afin de construire des traversées de pipeline sur certains cours d’eau en Alberta;
+c) lors de la construction des traversées de pipeline, des dommages ont été causés par des embâcles formés sur les barrières gonflables;
+d) selon le contrat, la Ville devait souscrire une assurance construction (l’« assurance »);
+e) selon le contrat, la Ville devait contracter une assurance auprès d’un assureur agréé en Alberta, et la police d’assurance devait être signée par des représentants autorisés à le faire en Alberta;
+f) la Ville n’a pas contracté d’assurance auprès d’un tiers assureur;
+g) la Ville a choisi de s’auto-assurer;
+h) l’appelante a cherché à être dédommagée par la Ville des dommages subis durant la construction des traversées de pipeline;
+i) un sous-traitant a aussi cherché à être dédommagé des dommages subis;
+j) le 31 juillet 2003, l’appelante a conclu une entente de règlement avec la Ville quant à l’indemnité qu’elle lui réclamait;
+k) selon l’entente de règlement, la Ville était tenue de payer 200 000 $ à l’appelante et de conserver 50 000 $ dans un compte bancaire;
+l) en échange du paiement des 200 000 $ par la Ville, l’appelante a renoncé à toute autre demande d’indemnisation à l’encontre de la Ville relativement aux dommages subis avant la conclusion de l’entente de règlement;
+m) selon l’entente de règlement, l’appelante était tenue de régler les poursuites intentées par des sous‑traitants contre la Ville à l’égard de son obligation de contracter une assurance;
+n) la fourniture de services par l’appelante en application du contrat était une fourniture taxable;
+o) l’appelante était tenue de déclarer la taxe perçue ou percevable de 13 084,11 $ dans sa déclaration pour la période de déclaration se terminant le 31 août 2003 quant au paiement de 200 000 $ reçu en vertu de l’entente de règlement;
+p) l’appelante n’a pas déclaré la taxe relative au paiement de 200 000 $ qu’elle a reçu de la Ville.
+B. QUESTION EN LITIGE
+9. Dans le présent appel, la question en litige est de savoir si la taxe s’applique au paiement de 200 000 $ versé à l’appelante par la Ville ou si elle y est incluse.
+C. DISPOSITIONS LÉGISLATIVES, MOYENS INVOQUÉS ET CONCLUSIONS RECHERCHÉES
+10. Le sous-procureur général se fonde sur les paragraphes 123(1), 221(1) et 225(1) et sur les articles 182, 224, 228, 296 et 299 de la Loi sur la taxe d’accise, L.R.C. (1985), ch. E-15, modifiée, de même que sur l’article 18.3009 de la Loi sur la Cour canadienne de l’impôt.
+[3] Les hypothèses 8a), b), c), d), e), f), g), j) et k) n’ont pas été réfutées.
+[4] Les hypothèses restantes sont contestées.
+[5] Le litige porte sur l’article 182 de la Loi sur la taxe d’accise, dont le texte suit :
+Renonciation et remise de dette
+182(1) Pour l’application de la présente partie, dans le cas où, à un moment donné, par suite de l’inexécution, de la modification ou de la résiliation, après 1990, d’une convention portant sur la réalisation d’une fourniture taxable au Canada, sauf une fourniture détaxée, par un inscrit au profit d’une personne, un montant est payé à l’inscrit, ou fait l’objet d’une renonciation en sa faveur, autrement qu’à titre de contrepartie de la fourniture, ou encore une dette ou autre obligation de l’inscrit est réduite ou remise sans paiement au titre de la dette ou de l’obligation, les présomptions suivantes s’appliquent :
+a) la personne est réputée avoir payé, au moment donné, un montant de contrepartie pour la fourniture égal au résultat du calcul suivant :
+(A/B) × C
+où :
+A représente 100 %,
+B le pourcentage suivant :
+(i) si la taxe prévue au paragraphe 165(2) était payable relativement à la fourniture, la somme de 100 %, du taux fixé au paragraphe 165(1) et du taux de taxe applicable à la province participante où la fourniture a été effectuée,
+(ii) dans les autres cas, la somme de 100 % et du taux fixé au paragraphe 165(1),
+C le montant payé, ayant fait l’objet de la renonciation ou remis, ou le montant dont la dette ou l’obligation a été réduite;
+b) la personne est réputée avoir payé, et l’inscrit avoir perçu, au moment donné, la totalité de la taxe relative à la fourniture qui est calculée sur cette contrepartie, laquelle taxe est réputée égale au montant suivant :
+(i) si la taxe prévue au paragraphe 165(2) était payable relativement à la fourniture, le total des taxes prévues à ce paragraphe et au paragraphe 165(1) calculées sur cette contrepartie,
+(ii) dans les autres cas, la taxe prévue au paragraphe 165(1), calculée sur cette contrepartie.
+Convention conclue avant 1991
+(2) L’alinéa (1)b) ne s’applique pas aux montants payés ou ayant fait l’objet d’une renonciation, ou aux dettes ou autres obligations réduites ou remises, par suite de l’inexécution, de la modification ou de la résiliation d’une convention, dans le cas où, à la fois :
+a) la convention a été conclue par écrit avant 1991;
+b) le montant est payé ou fait l’objet d’une renonciation, ou la dette ou l’obligation est réduite ou remise, après 1992;
+c) la convention ne tenait pas compte de la taxe relative au montant payé, remis ou ayant fait l’objet d’une renonciation, ni de celle relative au montant dont la dette ou l’obligation a été réduite.
+Exception – section IX
+(2.1) La section IX ne s’applique pas dans le cadre du paragraphe (1).
+Exception
+(3) Le paragraphe (1) ne s’applique pas à la partie de tout montant payée ou remise relativement à l’inexécution, la modification ou l’annulation d’une convention portant sur la réalisation d’une fourniture, si cette partie constitue, selon le cas :
+a) un montant supplémentaire visé à l’article 161 et exigé d’une personne parce que la contrepartie n’est pas versée dans un délai raisonnable;
+b) un montant versé par une compagnie de chemin de fer à une autre au titre d’une pénalité pour défaut de remettre du matériel roulant dans le délai imparti;
+c) une surestarie ou un droit de stationnement.
+1990, ch. 45, art. 12; 1993, ch. 27, art. 46; 1997, ch. 10, art. 32 et 176; 2006, ch. 4, art. 9.
+[6] Ainsi, selon le paragraphe 182(1) : « par suite de l’inexécution […] d’une convention portant sur la réalisation d’une fourniture taxable […] par un inscrit au profit d’une personne, un montant est payé à l’inscrit […] autrement qu’à titre de contrepartie de la fourniture […]
+a) la personne est réputée avoir payé […] un montant de contrepartie pour la fourniture […]
+b) la personne est réputée avoir payé […] la totalité de la taxe relative à la fourniture qui est calculée sur cette contrepartie […]. »
+[7] Le contrat conclu par l’appelante et la Ville de Medecine Hat (Alberta) (la « ville ») n’a pas été respecté par cette dernière. À la clause 11.2c) (pièce R-1), la ville s’est engagée à ce qui suit :
+[traduction]
+c) Assurance construction
+La Ville doit souscrire une assurance construction au moyen d’une police où la Ville, l’entrepreneur, les sous-traitants et l’ingénieur doivent être nommés à titre d’assurés additionnels. La franchise du contrat d’assurance ne doit pas être supérieure à deux mille cinq cents dollars (2 500 $) et le montant de protection doit correspondre à l’entière valeur de remplacement des travaux.
+Dans les faits, la Ville n’a pas contracté d’assurance auprès d’un tiers assureur. Comme l’explique l’hypothèse 8g), elle a choisi de s’auto-assurer.
+[8] L’appelante a reçu 200 000 $ conformément à une [traduction] « entente de règlement », signée et scellée, qu’elle a conclue avec la Ville de Medecine Hat le 29 juillet 2003 – la pièce A-8 en l’espèce. Les clauses pertinentes de l’entente sont ainsi rédigées :
+[traduction]
+[…]
+2. La Ville, par l’entremise de ses avocats, s’engage à :
+a) Sous réserve des clauses 2a)(ii) et 2a)(iii), payer à l’entrepreneur, ou en son nom, la somme de 250 000 $ – le « montant du règlement » – conformément aux modalités suivantes :
+(i) La somme de 200 000 $ à la signature de la présente entente de règlement;
+(ii) La somme de 50 000 $ au moment où l’entrepreneur présentera à la Ville une entente jugée satisfaisante par le directeur général de cette dernière. L’entente devra être signée par Aqua Dam and Diversion Ltd., et cette dernière devra y renoncer à toute réclamation contre la Ville à l’égard de l’assurance construction prévue par le contrat,
+[…]
+Si, au 30 août 2005, aucune réclamation (pour des dommages subis avant le 15 janvier 2005) n’est faite contre la Ville à l’égard de l’assurance construction, la somme de 50 000 $ plus les intérêts seront versés à l’entrepreneur une fois qu’il aura convaincu la Ville qu’aucune réclamation n’a été faite à l’endroit de cette dernière.
+[…]
+3(1) En contrepartie du versement par la Ville des 200 000 $ mentionnés à la clause 2a)(i), l’entrepreneur, sous réserve de la clause 3(2), décharge la Ville, ses fonctionnaires, ses employés, ses mandataires, ses élus et leurs assureurs de toute responsabilité à l’égard de ce qui suit, et renonce pour toujours à toute poursuite, cause d’action, créance, et à toute demande visant un montant d’argent, des dépenses, des dommages, des dépens (y compris les dépens avocat‑client), ainsi qu’à toute autre réclamation ou à tout recours qu’il pourrait intenter en date de la présente entente de règlement en vertu de la common law, de l’equity ou d’une loi relativement au contrat, à l’entente de règlement ou à toute autre source. Sans restreindre ce qui précède, l’entrepreneur décharge la Ville à l’égard :
+a) de toutes les dépenses et réclamations mentionnées dans les lettres de l’avocat de l’entrepreneur datées du 29 avril 2003 et du 2 mai 2003, de même que dans la lettre datée du 21 mai 2003 envoyée à la Ville par l’entrepreneur. Une copie de chaque lettre est jointe aux présentes;
+b) de toutes les dépenses et réclamations des sous‑traitants relatives à la clause 11.2c) des conditions générales du contrat, y compris les dépenses et les réclamations de Aqua Dam and Diversion Ltd.;
+c) de tous les frais, au-delà de ceux que la Ville est tenue d’assumer conformément au contrat, que l’entrepreneur pourrait engager pour retenir les services du sous-traitant « Porta Dam Inc. » ou de tout autre sous-traitant.
+[…]
+4. En contrepartie du versement par la Ville des 200 000 $ mentionnés à la clause 2a)(i) et du respect par cette dernière de son obligation de conserver 50 000 $ dans un compte bancaire si l’application de la clause 2a)(ii) l’exige, l’entrepreneur devra indemniser, défendre et dégager de toute responsabilité la Ville, ses fonctionnaires, ses employés, ses mandataires, ses élus et leurs assureurs respectifs à l’égard de toute poursuite, cause d’action, créance, et de toute demande visant un montant d’argent, des dépenses, des dommages, des dépens (y compris les dépens avocat-client), ainsi que de toute réclamation ou recours intenté en vertu de la common law, de l’equity ou d’une loi, qui découlent ou pourraient découler, en date de l’entente de règlement, de la clause 11.2c) des conditions générales du contrat et qui pourraient être intentés contre la Ville par un sous-traitant, un ancien sous-traitant, y compris Aqua Dam and Diversion Ltd. ou une société du même groupe, durant la période se terminant le 30 août 2005.
+[…]
+5. Il est entendu que la contrepartie offerte par la Ville conformément à la présente entente de règlement ne constitue pas une reconnaissance de responsabilité par cette dernière.
+6. La présente entente de règlement ne remplace par le contrat. Le contrat et tous les ordres de modification continuent à être en vigueur conformément aux modalités qu’ils prévoient; ils ne sont pas modifiés par la présente entente de règlement, sous réserve de ses dispositions expresses.
+[…]
+[9] La décharge (pièce A-8) accordée à la Ville par l’entrepreneur (l’appelante) en contrepartie des 200 000 $ vise toutes les réclamations énumérées dans les lettres mentionnées à la clause 3(1)a). Ces lettres font partie de la pièce A-8. À la deuxième page de la lettre datée du 29 avril 2003, on fait état d’une violation de la clause d’assurance. Aux deux premières pages de la lettre datée du 2 mai 2003, on allègue encore la même violation. La lettre datée du 21 mai 2003 donne simplement des détails quant aux dommages-intérêts réclamés sans toutefois indiquer la source de leur recouvrement.
+[10] Il en résulte que le paiement des 200 000 $ à l’appelante constituait une indemnité pour inexécution du contrat déposé comme pièce R-1. Cette inexécution découlait de l’omission de la Ville de contracter une assurance auprès d’un tiers comme l’exigeait la clause 11.2c).
+[11] Donc, la somme de 200 000 $ est visée par le paragraphe 182(1).
+[12] Pour ces motifs, l’appel est rejeté.
+Signé à Kelowna (Colombie-Britannique) ce 7e jour de février 2007.
+« D.W. Beaubier »
+Juge Beaubier
+Traduction certifiée conforme
+ce 6e jour de février 2008.
+Jean-François Leclerc-Sirois, LL.B, M.A.Trad.Jur.
+RÉFÉRENCE :
+2007CCI73
+Nº DU DOSSIER DE LA COUR :
+2005-3721(GST)I
+INTITULÉ :
+MI Sask Industries Ltd. et
+Sa Majesté la Reine
+LIEU DE L’AUDIENCE :
+Saskatoon (Saskatchewan)
+DATE DE L’AUDIENCE :
+Le 24 janvier 2007
+MOTIFS DU JUGEMENT :
+L’honorable juge D.W. Beaubier
+DATE DU JUGEMENT :
+Le 7 février 2007
+COMPARUTIONS :
+Avocat de l’appelante :
+Me John B. Benesh
+Avocate de l’intimée :
+Me Brooke Sittler
+AVOCAT(E) INSCRIT(E) AU DOSSIER :
+Pour l’appelante :
+Nom :
+Me John B. Benesh
+Cabinet :
+Benesh Bitz McHolm
+Pour l’intimée :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa (Canada)

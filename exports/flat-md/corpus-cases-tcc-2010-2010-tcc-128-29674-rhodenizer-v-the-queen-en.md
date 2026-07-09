@@ -1,0 +1,175 @@
+---
+title: "Rhodenizer v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29674/index.do"
+last_modified: "2010-03-05"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 TCC 128"
+citation2: ""
+neutral_citation: "2010 TCC 128"
+decision_date: "2010-03-05"
+language: "en"
+item_id: "29674"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6241
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T02:35:25.091000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "461fac5fa64e624be17d89d8b4869a0e3c6af017d768987af4602d51083b7830"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Rhodenizer v. The Queen
+
+- Citation: 2010 TCC 128
+- Decision date: 2010-03-05
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6241, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Rhodenizer v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-03-05
+Neutral citation
+2010 TCC 128
+File numbers
+2009-2424(GST)I
+Judges and Taxing Officers
+Réal Favreau
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2009-2424(GST)I
+BETWEEN:
+LOUISE ANN RHODENIZER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard December 4, 2009, at Montréal, Quebec.
+Before: The Honourable Justice Réal Favreau
+Appearances:
+For the appellant:
+The appellant herself
+Counsel for the respondent:
+Maryse Nadeau-Poissant
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment of December 22, 2008, bearing the number 84132 9022 RT0001, with respect to an application for a goods and services tax rebate for a substantially renovated residential complex is dismissed in accordance with the attached reasons for judgment.
+Signed at Ottawa, Canada, this 5th day of March, 2010.
+“Réal Favreau”
+Favreau, J.
+Translation certified true
+on this 11th day of June 2010.
+Bella Lewkowicz, Translator
+Citation: 2010 TCC128
+Date: 20100305
+Docket: 2009-2424(GST)I
+BETWEEN:
+LOUISE ANN RHODENIZER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Favreau J.
+[1] This appeal is the result of a denial by the Minister of Revenue for Quebec (the Minister), within his mandate to administer the Goods and Services Tax (the GST), the application for a GST rebate in the amount of $950.73 for a new residential complex or one that has undergone substantial renovation with respect to a residential complex located at 78 Frederick Street, Saint-Alphonse de Rodriguez, Quebec. The application for a rebate was made by the appellant on or around September 4, 2008, and the Minister’s decision denying the said application was in the Notice of Assessment bearing the number 84132 9022 RT0001 and dated December 22, 2008.
+[2] The differences between the parties rests solely on the issue of whether or not the renovation satisfies the definition of the expression “substantial renovation” for the purposes of subsection 256(2) of the Excise Tax Act, R.S.C., c. E-15, as amended, (the ETA). The expression “substantial renovation” is defined in subsection 123(1) of the ETA as follows:
+“substantial renovation” of a residential complex means the renovation or alteration of a building to such an extent that all or substantially all of the building that existed immediately before the renovation or alteration was begun, other than the foundation, external walls, interior supporting walls, floors, roof and staircases, has been removed or replaced where, after completion of the renovation or alteration, the building is, or forms part of, a residential complex;
+[3] According to the Minister, the residential complex with respect to which the appellant applied for a rebate did not undergo substantial renovations in terms of the ETA. In her Notice of Objection, (Exhibit I-1), the appellant indicated that the basement was completely redone following the work done within an excavation contract made with contractor, Guilbault Excavation Inc., on October 8, 2007 (Exhibit A-2). As per the terms of the contract, the work carried out was as follows:
+(a) stripping the complex;
+(b) disassembling existing foundation;
+(c) excavation for foundation;
+(d) providing and installing the sill and foundation including a basement entrance and 4 supports (for future verandas);
+(e) providing and installing foundation armouring;
+(f) providing and installing apertures for basement windows;
+(g) providing and installing French drains;
+(h) providing and installing the stone ¾ clear cut inside the foundation and on the drain;
+(i) tarring the foundation;
+(j) providing and installing adjustable columns;
+(k) providing and installing a basement shaft;
+(l) providing and installing polyethylene under the concrete slab;
+(m) providing and installing a concrete slab; and
+(n) backfilling with only excavated materials.
+[4] The renovation work the appellant is claiming for a tax rebate results primarily from the excavation work described above. The building, which is approximately 30 years old, sustained significant damage from a natural levee. During the excavation work, the basement was completely renovated and the appellant and her spouse lived in the basement.
+[5] In a document dated April 5, 2009, the appellant provided the following supplementary information regarding the renovation work to the main floor:
+- changing the bathroom tiles
+- changing the molding at the base of the walls;
+- fixing the cracks above the doors;
+- fixing the cracks over the windows;
+- changing the outside door handle;
+- adjusting the inside and outside doors;
+- painting all the rooms;
+- changing the floor moldings between the doors;
+- changing the plumbing in the kitchen and bathroom;
+- changing the toilet;
+- changing the bath faucet;
+- changing the electric sockets and switches in all the rooms;
+- changing the kitchen radiator and thermostat;
+- changing the staircase and the stair covering;
+- changing the bathroom window;
+- changing the bathroom ceiling fan; and
+- redoing the silicone around the counter in the kitchen.
+[6] During her testimony at the hearing, the appellant further clarified the work carried out:
+- the staircase and the basement were complete redone;
+- the exterior siding had to be replaced;
+- the outside perron, carport, the path to the main entrance, the asphalt and terracing were redone;
+- the basement entrance had to be moved;
+- 2 new radiators were installed on the main floor and 4 new radiators in the basement; and
+- inside door frame on the main floor was changed.
+All the rooms in the building were updated, with the exception of the roof and the cost for all the work exceeded $55,000.
+[7] The Minister established the assessment on the basis that the bathroom was part of the significant renovations but that the other renovations were minor, esthetic repairs, such as applying plaster, moldings or paint, or are not admissible upgrades, such as the rebuilding of the foundation or replacing the stairs. As a result, the admissible work carried out by the appellant to her residential complex did not transform her complex all or substantially all from the way it was before the prior to the work. As a general rule, the expression “all or substantially all” is interpreted as being 90% or more.
+[8] The work carried out by the appellant was certainly significant and constituted major renovations, as per the ordinary sense of the definition. However, Parliament defined the expression “substantial renovation” in a very restrictive manner as it excludes work that in theory should be considered as major. Work done to the foundation, exterior walls, interior support walls, floors, roof and stairs are excluded from the definition. As a result, it must be determined if the other work carried out to the building was sufficient enough to consider the building as being all or substantially all renovated or transformed or almost completely removed or renovated.
+[9] Even in considering all the renovation work, including what was done in the basement, I do not believe that all or substantially all the building was removed or replaced. With the exception of the basement and the bathroom, the main floor of the building underwent only esthetic changes.
+[10] The kitchen cabinets and the counters were not changed but the plumbing in the kitchen was changed. The rooms on the main floor were not altered; only the doorframe of an interior door was replaced. Only the electric sockets and switches were replaced and 2 radiators on the main floor were added or replaced.
+[11] The work done to the foundation, exterior walls and basement stairs are not admissible. The same for the work to the patio and carport as they are not considered to be a part of the liveable area. The work on the entrance path, the asphalt entrance and the terrace are not admissible.
+[12] The cost of the renovation work is not a criterion for determining whether the work carried out can be considered a substantial renovation. As a result, I cannot allow the appellant’s appeal.
+[13] The appeal is dismissed.
+Signed at Ottawa, Canada, this 5th day of March 2010.
+Réal Favreau
+Favreau J.
+Translation certified true
+on this 11th day of June 2010.
+Bella Lewkowicz, Translator
+CITATION: 2010 TCC 128
+COURT DOCKET NO.: 2009-2424(GST)I
+STYLE OF CAUSE: Louise Ann Rhodenizer v. Her Majesty the Queen
+PLACE OF HEARING: Montréal, Quebec
+DATE OF HEARING: December 4, 2009
+REASONS FOR JUDGMENT BY: The Honourable Justice Réal Favreau
+DATE OF JUDGMENT: March 5, 2010
+APPEARANCES:
+For the appellant:
+The appellant herself
+Counsel for the respondent:
+Maryse Nadeau-Poissant
+COUNSEL OF RECORD:
+For the appellant:
+Name: Maryse Nadeau-Poissant
+Firm:
+For the respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

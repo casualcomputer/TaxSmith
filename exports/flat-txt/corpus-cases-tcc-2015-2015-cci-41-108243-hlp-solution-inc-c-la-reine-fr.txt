@@ -1,0 +1,167 @@
+Title: HLP Solution inc. c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/108243/index.do
+Corpus path: corpus/cases/tcc/2015/2015-cci-41-108243-hlp-solution-inc-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2015-06-04
+
+# HLP Solution inc. c. La Reine
+
+- Citation: 2015 CCI 41
+- Decision date: 2015-06-04
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2761, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+HLP Solution inc. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2015-06-04
+Référence neutre
+2015 CCI 41
+Numéro de dossier
+2012-671(IT)G
+Juges et Officiers taxateurs
+Johanne D’Auray
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Citation : 2015 CCI 41
+2012-671(IT)G
+ENTRE:
+HLP SOLUTION INC.,
+APPELANTE,
+ET
+SA MAJESTÉ LA REINE,
+INTIMÉE,
+TRANSCRIPTION
+DES MOTIFS DE L’ORDONNANCE
+Je demande que la copie certifiée ci-jointe des motifs de l’ordonnance prononcés à l’audience à Ottawa (Ontario) le 12 janvier 2015, soit déposée, avec les corrections mineures apportées, de façon à améliorer le style et la clarté des motifs.
+« Johanne D’Auray »
+Juge D’Auray
+Signé à Montréal (Québec), le 18 février 2015
+Citation : 2015 CCI 41
+Numéro de dossier: 2012-671(IT)G
+COUR CANADIENNE DE L’IMPÔT
+ENTRE:
+HLP SOLUTION INC.
+Appelante
+- et -
+SA MAJESTÉ LA REINE
+Intimée
+MOTIFS RENDUS ORALEMENT PAR TÉLÉCONFÉRENCE
+PAR LA JUGE JOHANNE D’AURAY
+à la Cour canadienne de l’impôt
+200, rue Kent, Ottawa, Ontario
+le Lundi 12 Janvier 2015 à 14 h 00
+COMPARUTIONS:
+Me Julie Patenaude pour l’appelante
+Me Nathalie Lessard pour l’intimée
+Aussi présents:
+Estelle Lagacé Greffière
+Antoinette Forcione Sténographe
+A.S.A.P. Reporting Services Inc. © 2015
+200 Elgin Street, Suite 1105 333 Bay Street, Suite 900
+Ottawa, Ontario K2P 1L5 Toronto, Ontario M5H 2T4
+(613) 564-2727 416) 861-8720
+Ottawa, Ontario
+--- L’audience débute le Lundi 12 Janvier 2015
+à 14 h 00
+LA GREFFIÈRE: Cette téléconférence de la Cour canadienne de l’impôt à Ottawa est maintenant ouverte.
+L’honorable juge Johanne D’Auray préside.
+Dossier numéro 2012-671(IT)G entre HLP Solution Inc. et Sa majesté la Reine.
+Comparution pour l’appelante, Me Julie Patenaude; et pour l’intimée, Me Nathalie Lessard.
+Veuillez vous identifier lorsque vous vous adressez à la Cour.
+Madame la juge.
+JUGE D’AURAY: Alors, bonjour. Dans ce dossier, je vais rendre ma décision oralement quant à l’admissibilité du témoin expert de l’intimée. J’ai entendu la requête le 8 décembre 2014 à Montréal.
+Alors, le paragraphe 1.
+[1] L’appelante, HLP Solution Inc., réclame des crédits d’impôt pour la recherche et le développement expérimental (RS&DE) pour l’année d’imposition se terminant le 30 juin 2009 pour deux projets, soit:
+Projet 1: Logiciel de synchronisation mobile;
+Projet 2: Mail collector parallele.
+[2] Le ministre du Revenu national (le ministre) a refusé les crédits d’impôt à la RS&DE réclamés par l’appelante pour une partie du projet 1 et pour le projet 2 en entier. L’appelante a déposé un avis d’opposition. N’ayant pas eu de réponse de l’Agence du revenu du Canada (ARC) relativement à son opposition, l’appelante a alors déposé un appel auprès de cette Cour.
+[3] Lors de l’audience, l’appelante m’a avisé qu’elle contesterait la qualification de l’experte de l’intimée, Mme Rosu. Par conséquent, j’ai tenu un voir-dire pour déterminer si Mme Rosu pouvait témoigner à titre d’experte dans le présent appel.
+[4] Mme Rosu travaille à titre de conseillère en recherche et technologie (CRT) pour l’ARC depuis février 2009. Elle détient un doctorat ès sciences mention informatique de l’Université de Genève. Elle a aussi travaillé dans différentes entreprises privées dans le domaine de l’informatique.
+[5] À l’étape de la vérification, Mme Rosu a préparé le rapport d’examen technique dans lequel le projet 1 a été reconnu admissible en partie pour un crédit de RS&DE. Cependant, le projet 2 n’a pas été reconnu comme un projet de RS&DE, donc aucun crédit n’a été accordé.
+Position de l’appelante:
+[6] L’appelante ne conteste pas la compétence de Mme Rosu. Elle ne conteste pas non plus le fait que Mme Rosu est à l’emploi de l’ARC à titre de CRT.
+[7] Cependant, l’appelante fait valoir que Mme Rosu n’a pas l’impartialité requise pour témoigner à titre d’experte dans le présent appel. Elle fait valoir que Mme Rosu a été impliquée à toutes les étapes du dossier, soit:
+- elle a rédigé le rapport d’examen technique, soit le rapport scientifique qui a servi à l’établissement de la cotisation en litige;
+- elle a rédigé un addenda, c’est-à-dire une réponse aux commentaires faits par l’appelante relativement à son rapport d’examen technique. L’addenda confirme la position initiale de Mme Rosu, soit celle prise dans son rapport d’examen technique;
+- elle a assisté à toutes les rencontres avec l’appelante relativement aux projets en litige.
+[8] Suite à la réception par l’appelante de l’addenda, cette dernière a demandé à M. Filion, le directeur adjoint de Mme Rosu, une deuxième revue administrative des projets de l’appelante. Il ressort de la correspondance au dossier qu’il y avait un certain malaise entre Mme Rosu et l’appelante. L’appelante faisait valoir que Mme Rosu ne comprenait pas les projets effectués par l’appelante et alléguait que Mme Rosu avait fait preuve de mauvaise foi à son égard.
+[9] M. Filion a donc demandé à M. Ted Wierzbica, spécialiste dans le domaine des technologies de l’information à l’ARC, de s’impliquer dans la révision administrative. M. Wierzbica a, avec la collaboration de Mme Rosu, préparé un questionnaire à être complété par l’appelante. Le but du questionnaire était de déterminer s’il y avait des incertitudes technologiques liées aux projets.
+[10] L’appelante fait valoir que l’implication continue de Mme Rosu à l’étape de la vérification fait en sorte que cette dernière n’a pas l’impartialité requise pour témoigner en tant qu’experte.
+[11] À cet effet, l’appelante fait valoir que les opinions données par Mme Rosu à l’étape de la vérification se reflètent dans son rapport d’expertise déposé auprès de cette Cour. L’appelante prétend qu’à certaines occasions, Mme Rosu a, dans son rapport d’expertise, repris intégralement certains paragraphes provenant de son rapport d’examen technique. De plus, selon l’appelante, dans son rapport d’expertise Mme Rosu confond à certains endroits son rôle de CRT pour l’ARC et le rôle d’une experte. L’appelante soutient que dans son rapport d’expertise et dans son rapport de contre-expertise, Mme Rosu défend l’opinion qu’elle a rendue à l’étape de la vérification.
+[12] L’appelante fait donc valoir qu’eu égard à l’implication de Mme Rosu et des opinions qu’elle a rendues en ce qui a trait aux deux projets de RS&DE de l’appelante, elle pouvait difficilement changer d’opinion, elle n’avait donc pas l’impartialité requise pour agir à titre d’experte dans cet appel.
+Position de l’intimée:
+[13] Quant à l’intimée, elle fait valoir qu’il est rare qu’une Cour refuse d’entendre le témoignage d’un expert. Il faut qu’il y ait une preuve évidente de partialité, ce qui n’est pas le cas dans cet appel.
+[14] L’intimée fait aussi valoir que Mme Rosu est une experte et c’est à ce titre qu’on lui demande son opinion à l’ARC, que ce soit à l’étape de la vérification, de l’opposition ou d’un appel devant cette Cour. À cet effet, elle fait valoir que Mme Rosu s’est engagée à respecter le Code de conduite des experts en vertu des règles de cette Cour.
+[15] Selon l’intimée, cette Cour doit entendre l’ensemble du témoignage pour déterminer si un expert est devenu un défenseur de la thèse de son client. Cela ne devrait pas se faire à l’étape de l’admissibilité de l’expert.
+[16] Mme Rosu a témoigné qu’elle avait recommencé à zéro pour préparer le rapport d’expertise déposé auprès de cette Cour. À la lumière des faits qu’elle avait recueillis lors de la vérification, elle a fait une nouvelle revue de la littérature et a fait des recherches sur Internet, dont des forums d’usagers, afin de s’assurer que rien ne lui avait échappé.
+[17] À cet effet, lors de cette nouvelle recherche, Mme Rosu a constaté que les activités qu’elle avait acceptées à titre de RS&DE pour le projet 1, étaient des activités de pratique courante; elle s’était donc trompée à l’étape de la vérification en acceptant comme RS&DE une partie du projet 1. Selon l’intimée, ceci prouve que l’experte a analysé à nouveau les projets de RS&DE de l’appelante et que si elle avait trouvé de la littérature favorisant l’appelante, elle aurait renversé son opinion et aurait accordé à l’appelante des crédits de RS&DE. À cet égard, elle souligne le témoignage de Mme Rosu.
+[18] Par conséquent, l’intimée plaide que Mme Rosu est une experte compétente, impartiale qui recherche la vérité et qui n’induira pas cette Cour en erreur. Elle devrait donc être qualifiée à titre d’experte dans ce dossier.
+Droit applicable et analyse:
+[19] D’abord, j’aimerais mentionner que le rôle principal du témoin expert est d’assister la Cour dans l’appréciation d’une preuve portant sur des questions scientifiques ou techniques.
+[20] Le Code de conduite régissant les témoins experts abonde dans le même sens. Sous le titre, Devoir général envers la Cour, les deux premiers paragraphes du Code indiquent ce qui suit:
+1. Le témoin expert a l’obligation primordiale d’aider la Cour avec impartialité quant aux questions qui relèvent de son domaine de compétence.
+2. Cette obligation l’emporte sur toute autre qu’il a envers une partie à l’instance notamment envers la personne qui retient ses services. Le témoin expert se doit donc d’être indépendant et objectif. Il ne plaide pas le point de vue d’une partie.
+[21] Il est donc important de garder à l’esprit que l’obligation principale de l’expert est d’aider la Cour.
+[22] La décision clé quant à l’admission de la preuve d’expert est la décision R c Mohan [1994] 2 S.C.R. 9, de la Cour suprême du Canada. Le juge Sopinka énonce les critères suivants pour déterminer si la preuve d’expert devrait être admise:
+a) la pertinence;
+b) la nécessité d’aider le juge des faits;
+c) l’absence de toute règle d’exclusion;
+d) la qualification suffisante de l’expert.
+[23] Dans cet appel, seulement le critère lié à la pertinence est mis en doute par l’appelante. Je vais donc limiter mon analyse à ce critère.
+[24] Au paragraphe 18, le juge Sopinka explique ce qu’il entend par le critère lié à la pertinence:
+Comme pour toute autre preuve, la pertinence est une exigence liminaire pour l'admission d'une preuve d'expert. La pertinence est déterminée par le juge comme une question de droit. Bien que la preuve soit admissible à première vue si elle est à ce point liée au fait concerné qu'elle tend à l'établir, l'analyse ne se termine pas là. Cela établit seulement la pertinence logique de la preuve.
+Le juge Sopinka ajoute :
+D'autres considérations influent également sur la décision relative à l'admissibilité. Cet examen supplémentaire peut être décrit comme une analyse du coût et des bénéfices, à savoir «si la valeur en vaut le coût.» Voir McCormick on Evidence (3e éd. 1984), à la p. 544. Le coût dans ce contexte n'est pas utilisé dans le sens économique traditionnel du terme, mais plutôt par rapport à son impact sur le procès. La preuve qui est par ailleurs logiquement pertinente peut être exclue sur ce fondement si la valeur probante est surpassée par son effet préjudiciable, si elle exige un temps excessivement long qui est sans commune mesure avec sa valeur ou si elle peut induire en erreur en ce sens que son effet sur le juge des faits, en particulier le jury, est disproportionné par rapport à sa fiabilité.
+Et là, il continue:
+Bien qu'elle ait été fréquemment considérée comme un aspect de la pertinence juridique, l'exclusion d'une preuve logiquement pertinente, pour ces raisons, devrait être considérée comme une règle générale d'exclusion (voir Morris c. La Reine, [1983] 2 R.C.S. 190).
+Et ensuite, il continue:
+Qu'elle soit traitée comme un aspect de la pertinence ou une règle d'exclusion, son effet est le même. Ce facteur fiabilité-effet revêt une importance particulière dans l'appréciation de l'admissibilité de la preuve d'expert.
+25] Ainsi, selon la décision Mohan, le juge doit premièrement, lors de l’analyse du critère de la pertinence, s’assurer que la preuve est liée au fait concerné qu’elle entend établir. En d’autres mots la preuve doit être pertinente aux faits en litige. C’est ce que le juge Sopinka appelle la pertinence logique de la preuve.
+[26] Deuxièmement, toujours à même le critère de pertinence, le juge Sopinka indique que le juge doit procéder à une analyse de coûts/bénéfices, afin de déterminer si la valeur du témoignage en vaut le coup, pas dans le sens économique du terme, mais dans le sens de l’impact sur le procès.
+[27] D’ailleurs, dans la décision de la Cour d’appel de l’Ontario R v Abbey, [2009] OJ No 3534, 246 (CCC) (3d) 301, le juge Doherty applique les critères de la décision Mohan, mais il fait une distinction entre les conditions préalables à l’admissibilité dont il est question dans Mohan, soit les quatre critères, et la fonction de gardien du juge qui consiste à soupeser les avantages ou la valeur probante de l’admission d’une preuve par rapport aux coûts ou au préjudice de son admission. En vertu de Mohan, cette étape est faite au moment de l’analyse du critère de la pertinence.
+[28] Le juge Doherty change l’ordre de l’analyse des critères énoncés dans Mohan. Une fois les quatre critères de Mohan analysés, il passe à la deuxième étape où le juge doit assumer le rôle de gardien, qui exige l’exercice d’un pouvoir discrétionnaire, soit une analyse coûts/bénéfices. Il écrit à cet effet ce qui suit.
+[TRADUCTION] « En me fondant sur ces critères, je suggère de recourir à un processus en deux étapes pour déterminer l’admissibilité. Premièrement, la partie qui produit la preuve doit démontrer l’existence de certaines conditions préalables à l’admissibilité du témoignage de l’expert. Par exemple, cette partie doit prouver que le témoin proposé est qualifié pour fournir le témoignage pertinent. Deuxièmement, le juge du procès doit décider si le témoignage de l’expert qui satisfait aux conditions préalables à l’admissibilité est assez avantageux pour le procès pour justifier son admission malgré le préjudice potentiel, pour le procès, qui peut découler de l’admission du témoignage de l’expert. »
+Le juge Doherty ajoute :
+« Il est utile de faire une distinction entre ce que j’appelle les conditions préalables à l’admissibilité du témoignage d’opinion d’un expert et l’exécution de la fonction de « gardien », car les deux sont très différents. L’examen de la conformité aux conditions préalables à l’admissibilité est une analyse fondée sur des règles qui mènera à des réponses du type « oui » ou « non ». Une preuve qui ne satisfait pas à la totalité des conditions préalables à l’admissibilité doit être écartée, et le juge du procès n’a pas à examiner les aspects plus difficiles et subtils qui se présentent à l’étape de la « fonction de gardien » que comporte l’examen de l’admissibilité. »
+« L’examen effectué ‑‑ et ça c'est important ‑‑ au stade de la « fonction de gardien » n’implique pas l’application de règles bien nettes, mais il exige plutôt l’exercice d’un pouvoir discrétionnaire […]. Cette analyse coûts-avantages dépend de l’affaire en cause […]. Des juges différents, appliquant les principes pertinents dans l’exercice de leur pouvoir discrétionnaire, pourraient dans certains cas arriver à des conclusions différentes au sujet de l’admissibilité. »
+[29] Il ressort de ces deux décisions qu’une analyse doit être faite pour déterminer le coût/bénéfice de la preuve d’expert. Si le juge établi que la valeur probante et la fiabilité de la preuve d’expert risque de n’avoir aucune ou peu de valeur probante, le juge en utilisant sa discrétion pourra disqualifier l’expert à l’étape de la qualification ou de l’admissibilité de l’expert.
+[30] Le juge Doherty précise que chaque cas est différent et à savoir si l’expert devrait être disqualifié lors de l’admissibilité dépendra du résultat du voir-dire ou si un voir-dire n’a pas eu lieu, de la preuve présentée lors de l’audience au moment de l’admissibilité de l’expert.
+[31] Dans le présent appel, lors du voir-dire, j’ai déterminé que Mme Rosu n’avait pas l’impartialité requise pour témoigner. En soupesant la valeur probante de son témoignage eu égard au coût de son témoignage en terme d’impact au procès, j’ai décidé qu’il était préférable que Mme Rosu soit disqualifiée à l’étape de la qualification.
+[32] Les raisons qui m’ont amenée à cette décision sont les suivantes :
+- Mme Rosu a été impliquée dans toutes les étapes du dossier.
+- Mme Rosu a rendu l’opinion (le rapport d’examen technique) qui a servi à établir la cotisation.
+- Mme Rosu a aussi rédigé un addenda à son rapport technique soutenant toujours la même position, suite aux représentations de l’appelante.
+- Elle a aussi participé à toutes les rencontres avec l’appelante à titre de représentante de l’ARC.
+[33] À mon avis, il est très difficile pour une personne qui a été impliquée à toutes les étapes d’un dossier d’avoir le détachement requis pour donner à nouveau une opinion qui fera abstraction des opinions précédentes.
+[34] Elle a d’ailleurs indiqué lors du voir-dire qu’il est difficile de changer d’opinion si les faits ne changent pas. N’est-ce pas là la difficulté d’une personne qui a été impliquée à toutes les étapes d’un dossier et qui a rendu des opinions aux différentes étapes du dossier?
+[35] De plus, à différents endroits dans son rapport, Mme Rosu confond son rôle en tant que CRT à celui d’experte. Par exemple, à la page 6 de sa contre-expertise, Mme Rosu réfère aux demandes qu’elle a faites lors de la vérification, elle écrit:
+Je n’ai pas réussi à trouver des commentaires formulant des hypothèses dans les documents provenant du logiciel de contrôle de versions qui nous ont été fournis par la société. Malgré nos demandes, je n’ai jamais reçu des copies de tests documentant l’expérimentation. Dans ce contexte, je peux difficilement conclure que la procédure adoptée ait été conforme à la méthode scientifique.
+La réponse est non.
+[36] Également, dans le rapport d’expertise, il y a des indices qui démontrent un manque de détachement de la part de Mme Rosu.
+[37] Par exemple, elle décrit d’une manière détaillée tout le travail qu’elle a effectué dans le dossier à titre de CRT, et les rencontres qu’elle a tenues avec l’appelante, les demandes de documents faites à l’appelante lors de la vérification, ce qui ne s’avère pas en soit déterminant, mais inhabituel.
+[38] À certains endroits dans son rapport d’expert, Mme Rosu reprend intégralement des paragraphes qui font partie de son rapport d’examen technique.
+[39] De plus, dans son rapport d’expertise, Mme Rosu réfère à « nous », « nous » étant l’ARC. À cet effet, elle a indiqué lors du voir-dire, qu’il était parfois difficile de cacher le fait qu’elle travaillait pour l’agence. Elle a indiqué, et je cite : « C’est sûr que j’ai un dossier qui a été fait par l’ARC et des demandes qui ont été faites par l’ARC », mais conclut que le « nous » était une question de rédaction.
+[40] À mon avis, ces exemples et son implication constante au dossier ne font que démontrer qu’il y a confusion des rôles de Mme Rosu à titre d’experte et Mme Rosu à titre de CRT.
+[41] Dans la décision, Les Abeilles Service de Conditionnement Inc. c La Reine, 2014 CCI 313, (Les Abeilles) l’expert de l’intimée avait, tel que dans le présent dossier, rédigé le rapport d’examen technique menant à la cotisation. Lors de la qualification de l’expert pour l’intimée, l’avocate pour Les Abeilles s’est objectée au témoignage de l’expert. Elle a demandé à ce que l’expert soit disqualifié, faisant valoir qu’il n’avait pas l’impartialité requise.
+[42] Le juge Jorré a pris l’objection de l’avocate de Les Abeilles sous réserve. Après avoir entendu le témoignage de l’expert de l’intimée, il a indiqué qu’à la lumière de sa conclusion, il n’avait pas à décider l’objection formulée par l’avocate de Les Abeilles quant à l’admissibilité du témoin expert de l’intimée.
+[43] Le juge Jorré a cependant conclu que l’expert de l’intimée n’était pas impartial et qu’il refusait son témoignage à titre de témoin expert. Il a cependant accepté son témoignage à titre de témoin de faits.
+[44] Selon le juge Jorré, il était clair que l’expert de l’intimée avait confondu son rôle d’expert auprès de la Cour et celui de CRT. Il indique aussi à la note de bas de page numéro 36 ce qui suit:
+Les sérieuses difficultés que j’ai avec le témoignage de l’expert de l’intimée, et que j’exprime ci-dessous, illustrent les dangers à faire témoigner le conseiller scientifique au stade de la vérification comme témoin expert.
+[45] Dans la décision Gagné c La Reine, [2002] ACI no 61, 2002 CanLII 53, le juge Tardif dans un dossier portant sur la juste valeur marchande d’un immeuble indique ce qui suit quant au témoignage de l’expert de l’intimée:
+[…] Son implication dans le dossier dès le début des vérifications le disqualifiait, tout au moins, discréditait la valeur de son travail.
+[46] L’intimée a porté à mon attention le courant jurisprudentiel qui consiste à traiter la partialité comme une question de valeur probante plutôt que d’admissibilité. Dans les décisions qui m’ont été données et que j’ai examinées qui traitent des affaires fiscales, les juges de cette Cour n’ont donné aucune ou peu de valeur probante au témoignage des experts de l’intimée, dans les cas où les experts avaient été impliqués à la vérification. Conséquemment, dans ces dossiers la Cour n’a pas bénéficié du témoignage de l’expert produit par l’intimée.
+[47] De plus, dans les décisions où les juges ont choisi de traiter la partialité comme une question de valeur probante plutôt que d’admissibilité, il n’est pas clair de ces décisions qu’un voir-dire sur l’admissibilité de la preuve de l’expert a eu lieu.
+[48] En appliquant mon rôle de gardien en vertu de la décision Abbey ou sous le critère de la pertinence en vertu de la décision Mohan, l’analyse des coûts/bénéfices dans ce dossier est telle que la valeur probante du témoignage de l’expert de l’intimée risque d’être tellement faible que le témoignage n’aura pas d’impact sur les questions en litige. Ainsi, ce témoignage n’aura pas pour effet d’assister la Cour.
+[49] Il est important de noter que je ne disqualifie pas Mme Rosu parce qu’elle est à l’emploi de l’ARC. Je comprends la distinction entre l’indépendance et l’impartialité. Un témoin expert n’a pas à être indépendant.
+[50] Je tiens aussi à noter que je ne mets pas en doute la compétence de Mme Rosu. Elle s’est tout simplement retrouvée dans une position difficile.
+[51] Comme j’ai donné du temps à l’appelante afin que son expert rédige un rapport d’expert incluant les faits sur lesquels il s’était appuyé suite à l’objection de l’intimée, je donne donc à l’intimée l’occasion de présenter un nouveau rapport d’expert.
+J’aimerais que les parties décident de la date du rapport d’expert eu égard aux dates d’audience, soit fin avril.
+[52] Les dépens suivront la cause.

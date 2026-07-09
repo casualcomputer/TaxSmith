@@ -1,0 +1,171 @@
+Title: 6005021 Canada Inc. (Braun & Associates) c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30688/index.do
+Corpus path: corpus/cases/tcc/2009/2009-cci-339-30688-6005021-canada-inc-braun-associates-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2009-06-23
+
+# 6005021 Canada Inc. (Braun & Associates) c. M.R.N.
+
+- Citation: 2009 CCI 339
+- Decision date: 2009-06-23
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7184, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+6005021 Canada Inc. (Braun & Associates) c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2009-06-23
+Référence neutre
+2009 CCI 339
+Numéro de dossier
+2008-2955(CPP), 2008-2956(CPP)
+Juges et Officiers taxateurs
+Campbell J. Miller
+Sujets
+Régime de pensions du Canada
+Contenu de la décision
+Dossier : 2008-2955(CPP)
+ENTRE :
+6005021 CANADA INC. s/n BRAUN & ASSOCIATES,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec l’appel de Darwin Braun, 2008‑2956(CPP) le 11 juin 2009, à Kamloops (Colombie‑Britannique)
+Devant : L’honorable juge Campbell J. Miller
+Comparutions :
+Représentant de l’appelante :
+Darwin Braun
+Avocat de l’intimé :
+Me Matthew W. Turnell
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté en vertu de l’article 28 du Régime de pensions du Canada (le « Régime ») est rejeté et la décision du ministre du Revenu national concernant l’appel porté devant lui en vertu de l’article 27 du Régime est confirmée.
+Signé à Vancouver (Colombie‑Britannique), ce 23e jour de juin 2009.
+« Campbell J. Miller »
+Juge C. Miller
+Traduction certifiée conforme
+ce 2e jour de décembre 2009.
+Marie-Christine Gervais, traductrice
+Dossier : 2008-2956(CPP)
+ENTRE :
+DARWIN BRAUN,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec l’appel de 6005021 Canada Inc. s/n Braun & Associates, 2008‑2955(CPP)
+le 11 juin 2009, à Kamloops (Colombie‑Britannique)
+Devant : L’honorable juge Campbell J. Miller
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimé :
+Me Matthew W. Turnell
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté en vertu de l’article 28 du Régime de pensions du Canada (le « Régime ») est rejeté et la décision du ministre du Revenu national concernant l’appel porté devant lui en vertu de l’article 27 du Régime est confirmée.
+Signé à Ottawa, Canada, ce 23e jour de juin 2009.
+« Campbell J. Miller »
+Juge C. Miller
+Traduction certifiée conforme
+ce 2e jour de décembre 2009.
+Marie-Christine Gervais, traductrice
+Référence : 2009 CCI 339
+Date : 20090623
+Dossiers : 2008-2955(CPP)
+2008-2956(CPP)
+ENTRE :
+6005021 CANADA INC. s/n BRAUN & ASSOCIATES,
+et DARWIN BRAUN,
+appelants,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Miller
+[1] M. Darwin Braun (M. « Braun ») et sa société, 6005021 Canada Inc., faisant affaire sous le nom de Braun & Associates (la « société »), interjettent appel des évaluations établies par le ministre du Revenu national (le « ministre ») le 27 août 2007 concernant des cotisations au Régime de pensions du Canada (le « RPC »). Le ministre soutient que la société a omis de verser les sommes de 3 663 $, de 3 722 $ et de 3 821 $ pour les années d’imposition 2004, 2005 et 2006 relativement à l’emploi de M. Braun. Ce dernier s’oppose aux évaluations pour deux raisons : premièrement, le ministre n’a pas satisfait à l’exigence de l’article 26.1 du Régime de pensions du Canada (le « Régime ») et n’avait donc pas l’autorisation légale d’établir les évaluations; deuxièmement, M. Braun n’était pas un employé de la société. Il était entrepreneur indépendant et n’était donc pas assujetti au Régime.
+[2] Lors de son témoignage en interrogatoire principal, M. Braun m’a seulement dit que la société ne contrôlait pas ses heures de travail et ne faisait pas de retenues à la source. M. Braun était entièrement rémunéré à la commission. Voilà toute l’étendue de sa preuve.
+[3] Lors du contre‑interrogatoire, M. Braun a donné des précisions sur l’entente de travail qui avait été conclue entre sa société et lui. La société vendait divers produits d’assurance pour différentes compagnies d’assurance. La société touchait des commissions pour les ventes réalisées. La société touchait également des commissions de suivi à l’égard des polices existantes, conformément aux ententes conclues entre la société et les compagnies d’assurance. Au cours des années visées par l’appel, la société avait des bureaux à Kamloops et à Langley, pour lesquels elle payait le loyer et fournissait quelques articles d’ameublement de base. Cependant, M. Braun réalisait la plupart de ses ventes pendant ses déplacements au moyen de l’automobile de son épouse. La société lui payait 41 cents par kilomètre parcouru, quoique le taux aurait pu changer au cours de la période en litige qui s’étend sur trois ans. Il ressort clairement des déclarations de revenus de la société que celle‑ci a engagé de nombreuses dépenses pour exploiter son entreprise d’assurance : le salaire de l’épouse et des enfants de M. Braun, les frais de publicité et de promotion, les impôts et taxes, les frais de bureau, les frais de formation, les frais de téléphone et de télécopieur, les frais afférents à une automobile (le remboursement effectué à M. Braun en fonction du nombre de kilomètres parcourus), les frais de déplacement, etc. Les déclarations montraient également que des frais de sous‑traitance de 98 000 $, de 90 245 $ et de 62 500 $ ont été payés pour les années 2004, 2005 et 2006, respectivement. M. Braun a témoigné que ces frais comprenaient ses commissions et peut‑être d’autres commissions également, même si l’agent de l’Agence du revenu du Canada (l’« ARC ») qui a témoigné a confirmé qu’il avait été établi que la plupart des commissions avaient été versées à M. Braun.
+[4] M. Braun a présenté un formulaire intitulé [traduction] « Contrat de louage de services – entente privée (agent indépendant) », qui aurait été conclu le 31 juillet 2003[1]. La dernière page du contrat comporte un tableau de rémunération pour les 12 mois de 2004. On peut y voir que M. Braun a reçu des paiements de 5 000 $ chaque mois, ainsi qu’un paiement supplémentaire de 10 000 $ en juillet, ce qui donne un total de 70 000 $. Le style des entrées est uniforme, ce qui donne à penser qu’elles ont été effectuées au même moment. C’est à l’instruction que cette entente a été montrée pour la première fois à l’ARC ou au ministère de la Justice. Lors de l’instruction, M. Braun a également présenté en preuve 13 [traduction] « factures d’agent indépendant »[2] correspondant aux 12 paiements de 5 000 $ et au paiement de 10 000 $ susmentionnés. Fait intéressant à signaler, les factures portent la mention suivante :
+[traduction]
+Pour services rendus dans le cadre d’un contrat privé de louage de services par Darwin Braun, une « personne physique », sans attente raisonnable de profit.
+La mention suivante figure également sur la facture :
+[traduction]
+TPS non applicable, conformément au paragraphe 240(1) de la partie IX de la Loi sur la taxe d’accise.
+[5] Dans ses déclarations de revenus pour 2004, 2005 et 2006, M. Braun a déclaré un revenu de commissions de 1 $ en 2004 et n’a déclaré aucun revenu de commissions en 2005 et en 2006. Il n’y avait pas de tableau des revenus ou des dépenses.
+[6] L’examinateur des fiducies de l’ARC, M. Prygiel, a également témoigné. Il a reçu le dossier de la société du bureau de Penticton. Après avoir examiné les registres fournis par le comptable de M. Braun, il a conclu que la rémunération de M. Braun était un revenu d’emploi parce qu’il exerçait des activités pour l’entreprise et qu’il n’était pas inscrit aux fins de la TPS. Il a donc envoyé des feuillets T4 à M. Braun dans lesquels il a établi le revenu gagné par celui‑ci ainsi que les cotisations maximales à verser au titre du RPC, étant donné le montant du revenu.
+[7] Comme il a été mentionné au début de l’audience, M. Braun invoque deux arguments :
+(i) Article 26.1 du Régime;
+(ii) Entrepreneur indépendant versus employé.
+Article 26.1 – Régime de pensions du Canada
+[8] L’article 26.1 du Régime est libellé ainsi :
+26.1 (1) Le ministre du Développement social, de même que tout employeur ou employé, ou toute personne prétendant être l’un ou l’autre peut demander à un fonctionnaire de l’Agence revenu du Canada autorisé par le ministre du Revenu national de rendre une décision sur les questions suivantes :
+a) le fait qu’un emploi est un emploi ouvrant ou non droit à pension;
+b) la détermination de la durée d’un emploi, y compris ses dates de début et de fin;
+c) la détermination du montant des gains obtenus au titre d’un emploi ouvrant droit à pension;
+d) l’obligation ou non de verser une cotisation;
+e) la détermination du montant des cotisations à verser;
+f) l’identité de l’employeur d’un employé qui occupe un emploi ouvrant droit à pension.
+(2) Le ministre du Développement social peut faire cette demande à tout moment, toute autre personne devant toutefois la faire avant le 30 juin suivant l’année à laquelle la question se rapporte.
+(3) Le fonctionnaire autorisé rend sa décision dans les meilleurs délais suivant la demande.
+(4) Sauf dans le cas où la demande concerne une personne qui occupe un emploi ouvrant droit à pension, toute somme retenue sur sa rémunération ou payée par l’employeur à titre de cotisation pour elle est réputée l’avoir été en conformité avec la présente loi et lorsqu’il n’y a eu aucun semblable paiement ou retenue, il est présumé que la présente loi ne les exigeait pas.
+[9] M. Braun allègue que, comme le ministre n’a pas suivi cette procédure, il n’a pas le pouvoir d’établir une évaluation comme il l’a fait. Cependant, l’article 27.3 du Régime prévoit ce qui suit :
+27.3 Les articles 26.1 à 27.2 n’ont pas pour effet de restreindre le pouvoir qu’a le ministre de rendre une décision de sa propre initiative en application de la présente partie ou d’établir une évaluation ultérieurement à la date prévue au paragraphe 26.1(2).
+[10] J’ai traité de ces dispositions dans la décision Zazai Enterprises Inc. c. Canada (Ministre du Revenu national – M.R.N.)[3], où j’ai tenu les propos suivants :
+17 L’examen de ces dispositions dans leur ensemble montre que le ministre peut, sans restriction aucune, établir une évaluation telle que celle qu’il a établie en l’espèce. Si le paragraphe 26.1(4) était interprété de la façon préconisée par M. Sarmiento, le pouvoir conféré au ministre serait complètement anéanti; de fait, l’article 27.3 deviendrait inutile (résultat que le législateur ne pouvait certes pas chercher à obtenir), étant donné que la chose permettrait au ministre d’établir une évaluation, mais sans que celui‑ci puisse soutenir que le non‑paiement n’était pas conforme à la Loi. Somme toute, il n’y aurait rien qui puisse donner lieu à une évaluation. Je suis prêt à admettre que le libellé de ces dispositions est loin d’être clair, mais il faut l’interpréter de façon à lui attribuer un sens. Et le sens que je lui attribue, c’est que l’absence de demande de décision n’entrave aucunement l’exercice du pouvoir du ministre. Cette interprétation est en outre étayée par le paragraphe 26.1(2) du RPC, qui permet au ministre du Développement social de demander une décision à tout moment, c’est‑à‑dire que le gouvernement peut toujours surmonter l’obstacle dressé par M. Sarmiento simplement en présentant une demande. Les remarques que la Cour d’appel fédérale a faites dans l’arrêt Care Nursing Agency Ltd., précité, semblent justifier mon avis sur ce point.
+[11] Ce point de vue a été confirmé par la Cour d’appel fédérale (voir, par exemple, les arrêts Care Nursing Agency Ltd. c. Canada (Ministre du Revenu national – M.R.N.)[4] et Drosdovech c. Canada (Ministre du Revenu national – M.R.N.)[5].
+[12] L’appelant ne peut pas obtenir gain de cause sur ce point.
+Employé versus entrepreneur indépendant
+[13] Il existe une jurisprudence considérable sur le sujet, avec des points de vue divergents sur certains aspects du critère applicable (par exemple, le rôle de l’intention), mais tous s’entendent pour dire que ce sont les observations formulées par la Cour suprême du Canada dans l’arrêt 671122 Ontario Ltd. c. Sagaz Industries Canada Inc.[6] qui prévalent lorsqu’il est question d’expliquer la méthode utilisée actuellement, et plus particulièrement le paragraphe 47 de la décision du juge Major :
+47 Bien qu’aucun critère universel ne permette de déterminer si une personne est un employé ou un entrepreneur indépendant, je conviens avec le juge MacGuigan que la démarche suivie par le juge Cooke dans la décision Market Investigations, précitée, est convaincante. La question centrale est de savoir si la personne qui a été engagée pour fournir les services les fournit en tant que personne travaillant à son compte. Pour répondre à cette question, il faut toujours prendre en considération le degré de contrôle que l’employeur exerce sur les activités du travailleur. Cependant, il faut aussi se demander, notamment, si le travailleur fournit son propre outillage, s’il engage lui-même ses assistants, quelle est l’étendue de ses risques financiers, jusqu’à quel point il est responsable des mises de fonds et de la gestion et jusqu’à quel point il peut tirer profit de l’exécution de ses tâches.
+[14] M. Braun effectuait‑il la vente de produits d’assurance en tant que personne travaillant à son compte? Non, rien ne donne à penser qu’il s’agissait de l’entreprise de M. Braun. En fait, tout porte à croire qu’il s’agissait de l’entreprise de la société. M. Braun soutient que la preuve révèle que les deux parties voulaient clairement que leur relation soit considérée comme une entente conclue entre un employeur et un entrepreneur indépendant. Il ressort clairement des observations formulées par l’ancien juge en chef Bowman dans la décision Lang c. Canada (Ministre du Revenu national – M.R.N.)[7] que le rôle de l’intention peut varier, même si la Cour suprême du Canada n’a rien mentionné à ce sujet dans l’arrêt Sagaz. L’intention n’a toutefois jamais eu la même importance que le critère du contrôle. De plus, dans un cas comme celui‑ci, où les deux parties à l’entente sont dirigées par le même « cerveau » (soit M. Braun), il faut se garder d’accorder trop d’importance à une intention « mutuelle ». J’ajouterai que le moment où le [traduction] « Contrat de louage de services – entente privée (agent indépendant) » écrit a été produit me préoccupe et que j’accorde peu d’importance à l’intention des parties.
+[15] Avant de me pencher sur les critères plus traditionnels proposés par la Cour suprême du Canada, je constate que, même dans ses propres factures, M. Braun a inscrit [traduction] « pour services rendus sans attente raisonnable de profit ». D’après moi, cela ne peut que vouloir dire que M. Braun admettait qu’il n’avait pas l’intention de tirer profit de ce qu’il gagnait. Sans revenir en arrière pour revoir le rôle de l’attente raisonnable de profit, je conclus simplement que cela montre que même M. Braun n’avait pas vraiment l’intention d’exploiter une entreprise.
+[16] En ce qui concerne le contrôle, c’est un critère qui est toujours difficile à évaluer dans les cas où le travailleur est également l’âme dirigeante de l’entreprise de l’employeur. Je crois que les observations formulées par la Cour d’appel fédérale dans l’arrêt Groupe Desmarais Pinsonneault & Avard Inc. c. Canada (Ministre du Revenu national – M.R.N.)[8] sont utiles à cet égard. Le juge Noel a mentionné ce qui suit :
+5 La question que devait se poser le premier juge était de savoir si la société avait le pouvoir de contrôler l’exécution du travail des travailleurs et non pas si la société exerçait effectivement ce contrôle. Le fait que la société n’ait pas exercé ce contrôle ou le fait que les travailleurs ne s’y soit pas senti assujettis lors de l’exécution de leur travail n’a pas pour effet de faire disparaître, réduire ou limiter ce pouvoir d’intervention que la société possède, par le biais de son conseil d’administration.
+[17] En l’espèce, le critère du contrôle ne peut pas être déterminant quant à la question de savoir qui exploitait l’entreprise. Un trop grand nombre de critères semblent indiquer de façon concluante qu’il s’agit de l’entreprise de la société. C’était la société qui avait conclu les contrats avec les compagnies d’assurance. C’était elle qui était payée par celles‑ci, et c’était elle qui louait les locaux et qui possédait l’équipement de bureau.
+[18] En ce qui concerne le risque de perte et la possibilité de profit, la façon dont M. Braun était rémunéré est très révélatrice. Il recevait des paiements identiques chaque mois, sans rajustement de fin d’exercice qui refléterait une véritable rémunération à la commission de vente. Je n’ai été saisi d’aucun élément de preuve au sujet des risques auxquels M. Braun était exposé. S’il était rémunéré à la commission (je n’en suis pas convaincu), cette méthode de rémunération ne suffit pas, en soi, pour étayer une conclusion selon laquelle M. Braun pouvait accroître ses profits en tant qu’entrepreneur indépendant. Il n’a certainement pas montré qu’il voulait augmenter ses profits en réduisant ses dépenses, car il n’a pas fourni de preuve de dépenses engagées à part celles engagées par la société. Je ne peux tout simplement pas conclure qu’il travaillait à son propre compte : il était vendeur pour la société et, en tant qu’employé, il était assujetti au Régime. Les appels sont rejetés.
+Signé à Vancouver (Colombie‑Britannique), ce 23e jour de juin 2009.
+« Campbell J. Miller »
+Juge C. Miller
+Traduction certifiée conforme
+ce 2e jour de décembre 2009.
+Marie-Christine Gervais, traductrice
+RÉFÉRENCE : 2009 CCI 339
+NOS DES DOSSIERS DE LA COUR : 2008-2955(CPP) et 2008-2956(CPP)
+INTITULÉ : 6005021 CANADA INC. s/n BRAUN & ASSOCIATES et DARWIN BRAUN c. LE MINISTRE DU REVENU NATIONAL
+LIEU DE L’AUDIENCE : Kamloops (Colombie‑Britannique)
+DATE DE L’AUDIENCE : Le 11 juin 2009
+MOTIFS DU JUGEMENT : L’honorable juge Campbell J. Miller
+DATE DU JUGEMENT : Le 23 juin 2009
+COMPARUTIONS :
+Représentant des appelants :
+Darwin Braun
+Avocat de l’intimé :
+Me Matthew W. Turnell
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom : s.o.
+Cabinet :
+Pour l’intimé : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Pièce R-3.
+[2] Pièce R-2.
+[3] 2008 CCI 606.
+[4] 2008 CAF 334.
+[5] 2009 CAF 55.
+[6] 2001 CSC 59.
+[7] 2007 CCI 547.
+[8] 2002 CAF 144.

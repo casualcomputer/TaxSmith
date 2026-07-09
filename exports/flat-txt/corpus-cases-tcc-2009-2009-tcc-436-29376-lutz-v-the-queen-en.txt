@@ -1,0 +1,97 @@
+Title: Lutz v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29376/index.do
+Corpus path: corpus/cases/tcc/2009/2009-tcc-436-29376-lutz-v-the-queen-en.md
+Document type: case_law
+Last modified: 2009-07-21
+
+# Lutz v. The Queen
+
+- Citation: 2009 TCC 436
+- Decision date: 2009-07-21
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6867, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Lutz v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2009-07-21
+Neutral citation
+2009 TCC 436
+File numbers
+2008-1293(IT)I
+Judges and Taxing Officers
+Patrick J. Boyle
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2008-1293(IT)I
+BETWEEN:
+MARSHA LUTZ,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on July 21, 2009, at Hamilton, Ontario.
+Before: The Honourable Justice Patrick Boyle
+Appearances:
+For the appellant:
+The appellant herself
+Counsel for the respondent:
+Hong Ky (Eric) Luu
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act with respect to the appellant’s 2006 taxation year is dismissed without costs in accordance with the reasons given from the Bench.
+Signed at Ottawa, Canada, this 3rd day of September 2009.
+"Patrick Boyle"
+Boyle J.
+Citation: 2009 TCC 436
+Date: 20090903
+Docket: 2008-1293(IT)I
+BETWEEN:
+MARSHA LUTZ,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+(Delivered from the Bench on July 21, 2009, in Hamilton, Ontario
+and modified for clarity and accuracy.)
+Boyle J.
+[1] In 2006, Ms. Lutz was living with her common-law partner Zane Goldhawk. They had commenced living together in March 2005. Each of them brought a child to their new relationship.
+[2] For 2006, each of them claimed a personal tax credit for their own child as a wholly dependent person under paragraph 118(1)(b) of the Income Tax Act (the “Act”).
+[3] The Crown’s position is that subsection 118(4) is determinative. Subsection 118(4) generally precludes two taxpayers from claiming either for the same dependent or in respect of the same domestic establishment.
+[4] The sole issue in this case is one of statutory interpretation or more properly, the confusion created by the provisions of the Act in subsection 118(4).
+[5] The taxpayer’s position is that subsection 118(4) refers to clause 118(1)(b)(i)(B) and, since the taxpayer based her claim under clause (A) of subparagraph 118(1)(b)(i), the restriction in subsection 118(4) does not apply to her.
+[6] The Crown points out that subsection 118(4) is not referring to clause (b)(i)(B) of subsection 118(1) but is referring to factor B in the formulaic equation set out in subsection 118(1).
+[7] I agree with the Crown that, on a careful reading, this is indeed the case. It is certainly far from clear on a first reading of subsection 118(4) and the confusion results from the unfortunate fact that there is a clause (B) in the definition of factor B.
+[8] The Crown’s position is not only correct in law, it is also consistent with the intention of the dependent persons restrictions. The taxpayer’s position was only ever a technical one.
+[9] For these reasons, the taxpayer’s appeal is dismissed.
+Signed at Ottawa, Canada, this 3rd day of September 2009.
+"Patrick Boyle"
+Boyle J.
+CITATION: 2009 TCC 436
+COURT FILE NO.: 2008-1293(IT)I
+STYLE OF CAUSE: MARSHA LUTZ v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Hamilton, Ontario
+DATE OF HEARING: July 21, 2009
+REASONS FOR JUDGMENT BY: The Honourable Justice Patrick Boyle
+DATE OF JUDGMENT: September 3, 2009
+APPEARANCES:
+For the appellant:
+The appellant herself
+Counsel for the respondent:
+Hong Ky (Eric) Luu
+COUNSEL OF RECORD:
+For the appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,161 @@
+Title: Dello v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/25467/index.do
+Corpus path: corpus/cases/tcc/2003/2003-tcc-392-25467-dello-v-the-queen-en.md
+Document type: case_law
+Last modified: 2003-06-10
+
+# Dello v. The Queen
+
+- Citation: 2003 TCC 392
+- Decision date: 2003-06-10
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2355, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Dello v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-06-10
+Neutral citation
+2003 TCC 392
+File numbers
+1999-4937(IT)G
+Judges and Taxing Officers
+Pierre R. Dussault
+Subjects
+Income Tax Act
+Decision Content
+Docket: 1999-4937(IT)G
+BETWEEN:
+CONSTANTIN DELLO,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Hearing on preliminary questions of law submitted pursuant to paragraph 58(1)(a) of the Tax Court of Canada Rules (General Procedure)
+held on March 11, 2003, at Montreal, Quebec
+Before: The Honourable Judge P.R. Dussault
+Appearances:
+Counsel for the Appellant:
+Christopher Mostovac
+Counsel for the Respondent:
+Bernard Fontaine
+____________________________________________________________________
+JUDGMENT
+Question 1:
+Was the corporation, upon [the] issuance of [a] certificate of revival (Feb. 1998), retroactively capable of carrying-on [sic] a business and earning taxable income for taxation years 1991, 1992, 1993 and 1994?
+The answer is no.
+Question 2:
+Did the Minister of National Revenue have an acquired right to assess the income tax in the name of the Appellant as the sole proprietor of the business as opposed to the corporation during taxation years 1991 to 1994?
+The answer is yes.
+The whole in accordance with the attached Reasons for Judgment.
+Costs in the cause.
+Signed at Ottawa, Canada, this 10th day of June 2003.
+"P. R. Dussault"
+J.T.C.C.
+Citation: 2003TCC392
+Date: 20030610
+Docket: 1999-4937(IT)G
+BETWEEN:
+CONSTANTIN DELLO,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Reasons For Judgment
+(on preliminary questions of law submitted pursuant to paragraph 58(1)(a)
+of the Tax Court of Canada Rules (General Procedure))
+P.R. Dussault, J.T.C.C.
+[1] The appellant instituted an appeal from assessments made by the Minister of National Revenue (the "Minister") under the Income Tax Act (the "Act") for the 1991, 1992, 1993 and 1994 taxation years. While the challenge concerns a number of points, the appellant essentially contends that the income assessed in his hands, that was derived mainly from a business operated under the firm name "Les Consultants Acad Enr." (hereinafter the "business"), is not his, but that of a business corporation named Structures Condello Inc. - Condello Structures Inc. (hereinafter the "Corporation"). In assessing the appellant, the Minister assumed that the Corporation did not exist in law during the years at issue and, accordingly, that it was the appellant himself who had operated the business during those years.
+[2] Considering that a decision on that point might dispose of all or part of the proceeding, substantially shorten the hearing or result in a substantial saving of costs, and relying on section 58 of the Tax Court of Canada Rules (General Procedure), the parties agreed to ask the Court to rule on the following questions:
+Question 1:
+Was the corporation, upon [the] issuance of [a] certificate of revival (Feb. 1998), retroactively capable of carrying-on [sic] a business and earning taxable income for taxation years 1991, 1992, 1993 and 1994?
+Question 2:
+Did the Minister of National Revenue have an acquired right to assess the income tax in the name of the Appellant as the sole proprietor of the business as opposed to the corporation during taxation years 1991 to 1994?
+In that context, the parties agreed on the following facts:
+1. Condello Structures Inc., of which the Appellant was the sole shareholder and administrator, was incorporated in 1979 under the C.B.C.A.
+It was not carrying [on a] business at the time of it being dissolved for failure to file annual returns in 1984, August 10th.
+2. An application for revival was prepared in November 1990, but was incomplete and pending the filing of additional documents, and no certificate of revival was issued until February 1998.
+3. A reassessment for taxation year 1991 was issued in 1994 attributing income of the business in the hands of the Appellant and further reassessments were issued in [sic] the 5th of June 1998 to the same effect for the years 1991 to 1994 inclusive which are the object of the appeal.
+The parties agree that further evidence can be called to supplement the facts agreed upon pursuant to Rule 58(2)(a) of the Tax Court of Canada Rules (General Procedure).
+[3] As indicated, the parties also agreed to file further evidence, which was done through the testimony of the appellant, of Stanley Schulman, a chartered accountant, and of Denis Poliquin, an auditor with the Canada Customs and Revenue Agency, as well as through the filing of a certain number of documents.
+[4] The appellant testified concerning the circumstances of the Corporation's incorporation in 1979, the reasons why it remained dormant for a number of years, its dissolution in 1984 for failure to file annual returns, the wish to revive the Corporation and the steps taken to that end in 1990, as well as those taken in communicating with Revenue Canada in 1991 regarding source deductions and the collection of the goods and services tax ("GST"). In his testimony he also spoke of the use of the business's firm name during the same period by both him and the Corporation, of the assessments and, lastly, of the obtaining of the certificate of revival in February 1998.
+[5] Mr. Schulman testified with respect to the steps taken in 1990 to revive the Corporation, which steps did not achieve the desired result at that time. He stated that he had initially sent certain documents to Consumer and Corporate Affairs Canada, together with the fees payable (11 cheques of $30 each), and that he had completed and forwarded the missing documents that were required. According to him, in a subsequent conversation with an official, that official had stated that, failing a new deficiency notice, it could be assumed that the Corporation was in good standing. I will simply comment here that Mr. Schulman should have known that it was essential to obtain a certificate of revival, which was the very purpose of his efforts. Although the cheques sent in payment of the fees were cashed, no certificate was issued at the time since certain requirements had still not been met.
+[6] Mr. Poliquin gave testimony on an initial audit conducted by another person in respect of the 1991 taxation year, then on his own audit covering all the years at issue, on the returns filed by the appellant in his own name and in the Corporation's, and on the assessments that were made against the appellant given that the Corporation did not exist in law.
+[7] The exhibits were obviously filed in support of the testimony given during the examination-in-chief and cross-examination of the witnesses.
+[8] While the additional evidence was useful in attempting to explain the causes of the imbroglio, they nevertheless do not alter the legal realities of the situation. Neither the belief that the Corporation had been revived in 1990 nor Revenue Canada's issuing, in 1991, of an employer number and a number for GST collection purposes actually revived the Corporation, which had been dissolved since 1984. Only the certificate of revival obtained in February 1998 was able to produce that effect. Moreover, the first question raised relates strictly to the obtaining of that certificate in February 1998.
+[9] The legal effects of obtaining a certificate of revival are set out in subsection 209(4) of the Canada Business Corporations Act, R.S.C. 1985, c. C-44. That provision was amended by S.C. 2001, c. 14, s. 102, which now provides that revival has retroactive effect. In the instant case, however, the certificate of revival was obtained in February 1998, and thus it is the wording existing at that time that is applicable. Subsection 209(4) then read as follows:
+(4) [Rights preserved] A body corporate is revived as a corporation under this Act on the date shown on the certificate of revival, and thereafter the corporation, subject to such reasonable terms as may be imposed by the Director and to the rights acquired by any person after its dissolution, has all the rights and privileges and is liable for the obligations that it would have had if it had not been dissolved.
+(4) [Maintien des droits] La personne morale est reconstituée en société régie par la présente loi à la date figurant sur le certificat et recouvre dès lors, sous réserve des modalités raisonnables imposées par le directeur et des droits acquis après sa dissolution par toute personne, ses droits, privilèges et obligations antérieurs.
+[10] Counsel for the appellant relies mainly on the decision in Helcor Enterprises Ltd. v. Moore & James Food Services Ltd., [1990] 5 W.W.R. 596, in contending that subsection 209(4) of the Canada Business Corporations Act must be interpreted as having retroactive effect. In that case, the Manitoba Court of Queen's Bench held that the use of the word "thereafter" in subsection 202(2) of the The Corporations Act, R.S.M. 1987, c. C225, a provision similar to subsection 209(4), did not preclude retroactivity because of the very broad wording of the last part of that provision. The Court therefore upheld Helcor's right to sue Moore & James Food Services Ltd. for breach of contract, even though that right had come into existence after Helcor had been dissolved and before it was revived. The Court thus ruled that Helcor could exercise that right as of the date of its revival. It should be noted that Helcor was carrying on a business at the time it was dissolved for failure to file its annual returns and that it continued to do so despite its dissolution for what was considered a relatively minor violation of The Corporations Act. Hanssen J. wrote as follows at page 603 of the decision:
+I am satisfied that the effect of s. 202 was not only to restore Helcor's corporate existence but to restore its corporate activity during the period of time during which it was dissolved. As a result of its revival, Helcor "has all the rights and privileges and is liable for the obligations that it would have had if it had not been dissolved (emphasis mine). If it had not been dissolved, it would have had the right to sue Moore & James for breach of contract. Accordingly, it is now entitled to maintain its action against Moore & James for breach of contract even though the breach occurred after Helcor was dissolved and before it was revived.
+[11] At the federal level, moreover, most writers and the predominant case law attribute no retroactive effect to subsection 209(4) of the Canada Business Corporations Act. On this point, reference may be made in particular to Henri-Louis Fortin's article entitled "Liquidation volontaire et recours en matière d'impôt" (1993), Revue de planification fiscale et successorale, vol. 15, page 711, in which he states at page 734:
+[TRANSLATION]
+The clearly prevailing view in the case law and in legal writings82 is that revival under the CBCA does not have retroactive effect, in view of the word "thereafter" used in subsection 209(4). Consequently, the revival could not validate, after the fact, a proceeding undertaken by the corporation between the date of its dissolution and that of its revival.
+82 Maurice and Paul MARTEL, La compagnie au Québec: les aspects juridiques, vol. 1 (Montréal: Wilson & Lafleur/Martel, 1993), p. 950.1 and the case law cited; FRASER & STEWART, Company Law of Canada, 6th ed., by Harry Sutherland (Toronto: Carswell, 1993), pp. 639 ff. Contra: Michel PERREAULT, "Problèmes courants en droit corporatif et correctifs", (1991), vol. 2, Cours de perfectionnement du Notariat 469, par. 109, at page 504; André MORISSET and Jean TURGEON, Droit corporatif canadien et québécois, Farnham, Publications CCH/FM, loose leaf, par. 37-620, at pages 3,167 ff.
+[12] In La compagnie au Québec,vol. 1, Les aspects juridiques (Montréal: Éditions Wilson & Lafleur, Martel Ltée), page 34-61, Maurice and Paul Martel write:
+[TRANSLATION]
+. . . Prior to the reform of 2001, the Act provided that "thereafter" the corporation had all the rights and privileges and was liable for the obligations that it would have had if it had not been dissolved, which ruled out any fully retroactive effect287. . . .
+287 Cf. subsection 241(5) of the Business Corporations Act of Ontario, the retroactive effect of which was first affirmed (Re Time Square Cinema Ltd., (1977) 25 C.B.R. n.s. 189 (Ont. S.C.); Re Zangelo Investments Ltd., (1987) 57 O.R. (2d) 510 (H.C.), (1988) 63 O.R. (2d) 542 (C.A.)), then denied (Swale Investments Ltd. v. National Bank of Greece (Canada), (1997) 37 B.L.R. (2d) 324 (Ont. Gen. Div.), [1998] O.J. No. 5383 (C.A.)). Cf. also sections 262 and 263 of the Company Act of British Columbia, under which provisions a retroactive effect is possible, depending on the wording of the revival order: Natural Nectar Products Canada Ltd. v. Theodor, (1991) 49 B.L.R. 56 (B.C.C.A.); Pacific Produce Co. v. Lonsdale Farm Market Ltd., (1992) 11 C.B.R. (3d) 240 (B.C.S.C.); Canadian Sports Specialists Inc. v. Philippon, (1990) 66 D.L.R. (4th) 188 (B.C.S.C.).
+[13] As to the case law, the decision in Computerized Meetings & Hotel Systems Ltd. v. Moore (1982), 141 D.L.R. (3d) 306, on which counsel for the respondent mainly relies, appears to be authoritative and has been applied a number of times both in Quebec and elsewhere. In that decision, the Court held that subsection 209(4) (which at the time was subsection 202(4), S.C. 1974-75-76, c. 33, as amended by S.C. 1978-79, c. 9, subsection 64(2)) had no retroactive effect, so that a legal action commenced while the plaintiff corporation was dissolved was a nullity, since that corporation was not at the time an entity that could sue or be sued and since the effects of subsection 209(4), not being retroactive, could validate neither the writ of summons issued nor the plaintiff corporation's action commenced while it was dissolved.
+[14] A decision to the same effect was affirmed by the Quebec Court of Appeal in Les Entreprises Jacques Lebeau Inc. c. Compagnie d'assurance Victoria du Canada et al., [1996] A.Q. no 2570 (Q.L.). Counsel for the respondent also relies on the decisions in Pierre M. Lépine Construction Exquise inc. c. 2750-6245 Québec inc., [1998] A.Q. no 3451 (Q.L.), and Wolf Offshore Transport Ltd. v. Sulzer Canada Inc., [1992] N.J. No. 82 (Q.L.), in asserting that the use of the words "thereafter" in English and "dès lors" in French may allow a corporation to regain the rights it had prior to its dissolution, while recognizing that it cannot validly act to preserve those rights while it is dissolved. In those two decisions, reference is made to other judgments also to the same effect.
+[15] In the judgment in Wolf Offshore Transport Ltd., supra, the following comments appear at page 2:
+This means that had this corporation entered into any contracts or commenced any actions, or defended any actions prior to its being dissolved [it] could, on being revived, continue these actions. It does not, however, extend any capacity to the company to make good anything which may have been initiated during the time it was dissolved. The company could not contract when it was dissolved. The company could not commence an action when it was dissolved. A dissolved company is akin to a deceased person. It has no capacity to do anything. It is nothing. A person which is nonexistent could hardly be said to do anything. If it had a right of action prior to dissolution, it would have that right on being revived unless statute barred. The action could be commenced when the company was revived.
+(Emphasis added.)
+[16] The decision in Swale Investments Ltd. v. National Bank of Greece (Canada), [1997] O.J. No. 4997 (Q.L.), also provides an analysis of the similarities between the Ontario statute and the federal statute, and the same conclusion is reached.
+[17] The principle that a certificate of revival has no retroactive effect and accordingly does not give a business corporation the capacity to act legally when it is dissolved, and thus non-existent, means that one cannot artificially confer on it the capacity to act legally or attribute to it an activity, including the activity of operating a business, with the legal consequences and, more particularly, the tax consequences which that entails, for a period when the corporation in fact had no legal existence. An activity simply cannot be artificially attributed to a non-existent corporate entity.
+[18] This conclusion seems all the more obvious where such a corporation never carried on any activity or operated any business whatever before it was dissolved, as is here the case. There are thus very few previous rights, privileges and obligations of which a certificate of revival will allow the recovery from the moment it is obtained.
+[19] Counsel for the appellant pointed out on a number of occasions the appellant's good faith, but also referred to the actions of Revenue Canada representatives, who, in 1999, among other things, assigned the Corporation an employer number for source deduction purposes and a GST registration number. In the opinion of counsel for the respondent, the facts noted by counsel for the appellant are of such a nature as to suggest an argument based on the doctrine of estoppel or of "fin de non-recevoir", although that argument was not directly advanced. I would simply say that if there is in fact any issue in this regard, it has nothing to do with the question stated by counsel for the parties.
+[20] In his written arguments, counsel for the appellant raises certain additional points based on the existence of a counter-letter or of an apparent contract that might have existed between the appellant and the Corporation, or on the fact that the appellant may have actually acted as the Corporation's agent during the period when the Corporation was dissolved. Counsel for the appellant also refers to certain decisions advocating that economic realities be considered. On the one hand, here again, the points raised have nothing to do with the question submitted, which concerns only the certificate of revival obtained. On the other hand, it is well settled that economic realities cannot supplant legal realities (Shell Canada Ltd. v. Canada, [1999] 3 S.C.R. 622, par. 39, McLachlin J., and Singleton v. Canada, [2001] 2 S.C.R. 1046, par. 27, Major J.).
+[21] In view of the above, I must therefore answer question 1 in the negative.
+[22] As to question 2, I find its very wording ambiguous. First, it is drafted in terms which clearly refer to the wording of subsection 209(4) of the Canada Business Corporations Act, since counsel for the parties have chosen to use the words "acquired right". At first glance, the rights acquired by third parties while a business corporation was dissolved, and which subsection 209(4) is intended to protect, are the rights they have acquired against the dissolved corporation during the period when it was dissolved. However, counsel for the respondent interprets that provision as protecting the rights acquired by third parties not only against the revived corporation, but also against any other person. This interpretation leads him to conclude that the Minister of National Revenue still was entitled to assess the appellant as the owner of the business during the 1991 to 1994 taxation years. I do not believe that subsection 209(4) can be interpreted so broadly, precisely because this provision makes the rights that a dissolved corporation may regain from the moment it is revived subject to those that third parties may have acquired.
+[23] Moreover, if I understand correctly the argument of counsel for the appellant, the Minister lost the right to assess the appellant the moment the latter informed officials of the Corporation's existence in 1991 and those officials assigned the Corporation an employer number and a GST registration number and even initially assisted the appellant in completing certain forms with respect to the source deductions to be made by the Corporation. To put the argument another way, I will use the words of counsel for the appellant himself, who states that [translation] "the tax authorities cannot argue a kind of 'ignorance' as regards their knowledge or as to the identity of the entity operating the business in question". Counsel for the appellant goes on to state that [translation] "even if the tax authorities had been kept completely in the dark as to the operations of Structures Condello Inc., the attribution of the income generated in the circumstances remains a question of fact preventing the tax authorities from assessing whomever it appears in the circumstances to be most advantageous to the Department to assess."
+[24] I must admit to having some difficulty grasping the actual gist of the arguments put forward by counsel for the appellant. I will make only two comments. The first is that, in 1991, it was the appellant himself who wrongly informed the tax authorities that the Corporation existed. The second is that the attribution of income to a person, whether a natural person or a corporation, is not solely a question of fact, but is also a question of law.
+[25] I believe that the answer to the second question lies, at least in part, in the answer to the first. The certificate of revival obtained in February 1998 did not have the effect of reviving the Corporation during the years at issue. From 1991 to 1994, the Corporation was quite simply non-existent. It therefore did not have the capacity to act and, thus, to operate or own a business. The income earned accordingly belongs to the person who generated that income through his activity, that is to say to the person who operated the business, even if that person claims to have done so for and on behalf of the Corporation, which was dissolved at the time and which, in February 1998, had not been retroactively revived. In the circumstances, that person can only be the appellant himself.
+[26] As counsel for the respondent rightly emphasized, a taxpayer's tax liability results from the application of the Act, not from the assessment itself, which merely confirms the existence of that liability (The Queen v. Simard-Beaudry Inc. et al., [1971] F.C. 396, 71 DTC 5511 (F.C.T.D.) and The Queen v. The Sands Motor Hotel Ltd., [1984] C.T.C. 615 (Sask. Q.B.)). Moreover, subsection 152(3) of the Act provides as follows:
+Liability for the tax under this Part is not affected by an incorrect or incomplete assessment or by the fact that no assessment has been made.
+[27] The fact that the assessments for the years 1991 to 1994, which are here in issue, were made in June 1998, that is, a few months after the certificate of revival of the Corporation was obtained, in no way alters the appellant's tax liability with respect to the income generated by the operation of the business during the years at issue. Consequently, the Minister retained his right to assess the appellant in respect of that income. However, I find that this is not, strictly speaking, an "acquired right" which would as it were be protected by subsection 209(4) of the Canada Business Corporations Act. The Minister's right to assess a taxpayer is simply a right. It is conferred by section 152 of the Act and may be exercised in accordance with the conditions and within the limits set by that provision.
+[28] In concluding on this point, I think it important to refer to subsection 152(7) of the Act, which reads as follows:
+The Minister is not bound by a return or information supplied by or on behalf of a taxpayer and, in making an assessment, may, notwithstanding a return or information so supplied or if no return has been filed, assess the tax payable under this Part.
+[29] In my view, the Minister may always assess the taxpayer whom he considers to have earned the income. In case of dispute, it will fall to be determined, as is here the case, whether the assessment is valid in that respect.
+[30] The answer to question 2 is therefore affirmative, although, as I have just emphasized, I consider that the right involved is not strictly speaking an "acquired right". In the circumstances, the Minister consequently had the right to assess the appellant, as opposed to the Corporation, as sole proprietor of the business during the 1991 to 1994 taxation years.
+[31] The hearing of these appeals from the assessments made with respect to the appellant for the 1991 to 1994 taxation years will therefore proceed on the basis of the answers given to the two preliminary questions submitted to the Court.
+[32] Costs in the cause.
+Signed at Ottawa, Canada, this 10th day of June 2003.
+"P. R. Dussault"
+J.T.C.C.
+CITATION:
+2003TCC392
+COURT FILE NO.:
+1999-4937(IT)G
+STYLE OF CAUSE:
+Constantin Dello v. The Queen
+PLACE OF HEARING:
+Montreal, Quebec
+DATE OF HEARING:
+March 11, 2003
+REASONS FOR JUDGMENT BY:
+The Honourable Judge P.R. Dussault
+DATE OF JUDGMENT:
+June 10, 2003
+APPEARANCES:
+Counsel for the Appellant:
+Christopher Mostovac
+Counsel for the Respondent:
+Bernard Fontaine
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Christopher Mostovac
+Firm:
+Ravinsky Ryan
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

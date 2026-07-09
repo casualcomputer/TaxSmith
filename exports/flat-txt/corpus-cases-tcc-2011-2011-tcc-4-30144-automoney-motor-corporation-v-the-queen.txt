@@ -1,0 +1,114 @@
+Title: Automoney Motor Corporation v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30144/index.do
+Corpus path: corpus/cases/tcc/2011/2011-tcc-4-30144-automoney-motor-corporation-v-the-queen.md
+Document type: case_law
+Last modified: 2011-01-04
+
+# Automoney Motor Corporation v. The Queen
+
+- Citation: 2011 TCC 4
+- Decision date: 2011-01-04
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7783, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Automoney Motor Corporation v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2011-01-04
+Neutral citation
+2011 TCC 4
+File numbers
+2010-2520(GST)I
+Judges and Taxing Officers
+Robert James Hogan
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2010-2520(GST)I
+BETWEEN:
+AUTOMONEY MOTOR CORPORATION,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Motion heard by way of telephone conference
+on November 19, 2010, at Ottawa, Canada.
+Before: The Honourable Justice Robert J. Hogan
+Participants:
+Agent for the Appellant:
+Dan White
+Counsel for the Respondent:
+Laurent Bartleman
+____________________________________________________________________
+ORDER
+Upon motion of the Respondent pursuant to subsection 18.3002(1) of the Tax Court of Canada Act for an order that sections 17.1, 17.2 and 17.4 to 17.8 apply in respect of this appeal;
+And upon hearing what was alleged by the parties;
+It is ordered that sections 17.1, 17.2 and 17.4 to 17.8 shall apply in respect of this appeal in accordance with the attached reasons for order.
+Signed at Ottawa, Canada, this 4th day of January 2011.
+"Robert J. Hogan"
+Hogan J.
+Citation: 2011 TCC 4
+Date: 20110104
+Docket: 2010-2520(GST)I
+BETWEEN:
+AUTOMONEY MOTOR CORPORATION,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Hogan J.
+[1] The motion before me is brought by the Respondent for an order pursuant to subsection 18.3002(1) of the Tax Court of Canada Act (the “TCCA”) that the general procedure set out in sections 17.1, 17.2 and 17.4 to 17.8 of the TCCA apply in respect of the appeal brought by the Appellant under the informal procedure.
+[2] The appeal is brought under Part IX of the Excise Tax Act. The notice of appeal in this appeal was forwarded to the Minister of National Revenue on August 16, 2010. The amount in dispute is greater than $168,900.
+[3] Section 18.3002 of the TCCA provides as follows:
+18.3002(1) General procedure to apply ― Where the Attorney General of Canada so requests, the Court shall order that sections 17.1, 17.2 and 17.4 to 17.8 apply in respect of an appeal in respect of which sections 18.3003 and 18.3007 to 18.302 would otherwise apply.
+(2) Time for request ― A request under subsection (1) shall not be made after sixty days after the day the Registry of the Court transmits to the Minister of National Revenue the notice of appeal unless
+(a) the Court is satisfied that the Attorney General of Canada became aware of information that justifies the making of the request after the sixty days had elapsed or that the request is otherwise reasonable in the circumstances; or
+(b) the person who has brought the appeal consents to the making of the request after the sixty days have elapsed.
+(3) Costs ― The Court shall, on making an order under subsection (1), order that all reasonable and proper costs of the person who has brought the appeal be borne by Her Majesty in right of Canada where
+. . .
+(c) in the case of an appeal under Part IX of the Excise Tax Act, the amount in dispute does not exceed $7,000 and the aggregate of supplies for the prior fiscal year of the person did not exceed $1,000,000.
+[4] The Appellant, in its written representations on the motion, argues that the Attorney General has discretion under the TCCA to request or not to request that the appeal be transferred from the informal procedure to the general procedure. The argument is made that the question at issue is not complex and that the Appellant cannot afford to hire counsel to represent it in an appeal to be heard under the general procedure. As a result, a decision in favour of the Attorney General will deprive the Appellant of its right to seek justice.
+[5] I note that subsection 18.3002(1) of the TCCA uses the word “shall”. This means that the Court must order the appeal to be heard under the general procedure where the Attorney General so requests within 60 days after the day the Registry of the Court transmits the notice of appeal to the Minister of National Revenue. The Court does not have authority to deny the Attorney General’s request in this regard.
+[6] The Appellant makes the following further submissions:
+1. The Appellant made appeal under the informal procedure, in order to access representation that was within his means.
+2. Section 18.3007 of the Tax Court of Canada Act reads as follows:
+18.3007(1) The Court may, if the circumstances so warrant, make no order as to costs or order that the person who brought the appeal be awarded costs, notwithstanding that under the rules of Court costs would be adjudged to Her Majesty in right of Canada, or make an order that person be awarded costs, notwithstanding that under the rules of Court no order as to costs would be made, if
+(a) an order has been made under subsection 18.3002(1) in respect of the appeal;
+(b) the appeal is not an appeal referred to in subsection 18.3002(3); and
+(c) in the case of an appeal
+(i) under Part V.1 of the Customs Act, the amount in dispute does not exceed $50,000,
+(ii) under the Excise Act, 2001, the amount in dispute in the appeal does not exceed $50,000 and the aggregate of sales by the person for the prior calendar year did not exceed $6,000,000 . . . .
+(2) Where costs are awarded under subsection (1), the award shall be made at the time of the order disposing of the appeal. S.C. 1990, c. 45, s. 61; 2001, c. 25, s. 107; 2002, c. 22, ss. 403 and 408.
+It is the position of the Appellant that the above section of the Tax Court of Canada Act allows for the discretion of the court in awarding costs, if the circumstances so warrant, notwithstanding other limiting provisions of the Act.
+[7] I note that subsection 18.3007(2) specifically states that the award sought by the Appellant is to be made at the time of the order disposing of the appeal and not before.
+Signed at Ottawa, Canada, this 4th day of January 2011.
+"Robert J. Hogan"
+Hogan J.
+CITATION: 2011 TCC 4
+COURT FILE NO.: 2010-2520(GST)I
+STYLE OF CAUSE: AUTOMONEY MOTOR CORPORATION v. THE QUEEN
+PLACE OF HEARING: Ottawa, Canada
+DATE OF HEARING HELD BY WAY
+OF TELEPHONE CONFERENCE: November 19, 2010
+REASONS FOR ORDER BY: The Honourable Justice Robert J. Hogan
+DATE OF ORDER: January 4, 2011
+PARTICIPANTS:
+Agent for the Appellant:
+Dan White
+Counsel for the Respondent:
+Laurent Bartleman
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada

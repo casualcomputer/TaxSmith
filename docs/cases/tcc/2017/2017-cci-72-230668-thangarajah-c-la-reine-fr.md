@@ -1,0 +1,188 @@
+---
+title: "Thangarajah c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/230668/index.do"
+last_modified: "2017-05-02"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2017 CCI 72"
+citation2: ""
+neutral_citation: "2017 CCI 72"
+decision_date: "2017-05-02"
+language: "fr"
+item_id: "230668"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2313
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T17:31:43.548000+00:00"
+cases_cited_count: 2
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "2910a3b1a27b64cae89b4be32343d421b62466febd27ddd1477dc615c05e6c89"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Thangarajah c. La Reine
+
+- Citation: 2017 CCI 72
+- Decision date: 2017-05-02
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2313, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Thangarajah c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2017-05-02
+Référence neutre
+2017 CCI 72
+Numéro de dossier
+2016-2839(IT)APP, 2016-2840(IT)APP
+Juges et Officiers taxateurs
+Guy R. Smith
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2016-2840(IT)APP
+ENTRE :
+MALINI THANGARAJAH,
+requérante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Demande entendue sur preuve commune avec la demande de 1670000 Ontario Inc. (2016-2839(IT)APP) le 20 janvier 2017, à Toronto (Ontario).
+Devant : L’honorable juge Guy R. Smith
+Comparutions :
+Représentant de la requérante :
+M. Val Purushothaman
+Avocat de l’intimée :
+Me Eric Myles
+ORDONNANCE
+La demande de prorogation du délai pour déposer un avis d’opposition relativement à l’avis de nouvelle cotisation émis le 14 novembre 2014 aux termes de la Loi de l’impôt sur le revenu, concernant les années d’imposition 2011 et 2012, est rejetée, sans frais, conformément aux motifs de l’ordonnance ci-joints.
+Signé à Ottawa, Canada, ce 2e jour de mai 2017.
+« Guy Smith »
+Juge Smith
+Dossier : 2016-2839(IT)APP
+ENTRE :
+1670000 ONTARIO INC.,
+requérante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Demande entendue sur preuve commune avec la demande de Malini Thangarajah (2016-2840(IT)APP) le 20 janvier 2017, à Toronto (Ontario).
+Devant : L’honorable juge Guy R. Smith
+Comparutions :
+Représentant de la requérante :
+Val Purushothaman
+Avocat de l’intimée :
+Eric Myles
+ORDONNANCE
+La demande de prorogation du délai pour déposer un avis d’opposition relativement à l’avis de nouvelle cotisation émis le 5 novembre 2014 aux termes de la Loi de l’impôt sur le revenu, concernant les années d’imposition 2011 et 2012, est rejetée, sans frais, conformément aux motifs de l’ordonnance ci-joints.
+Signé à Ottawa, Canada, ce 2e jour de mai 2017.
+« Guy Smith »
+Juge Smith
+Référence : 2017 CCI 72
+Date : 20170502
+Dossier : 2016-2840(IT)APP
+ENTRE :
+MALINI THANGARAJAH,
+requérante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Dossier : 2016-2839(IT)APP
+ET ENTRE :
+1670000 ONTARIO INC.,
+requérante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE
+Le juge Smith
+[1] Les requérantes, Malini Thangarajah et 1670000 Ontario Inc., ont produit des demandes de prorogation du délai pour déposer des avis d’opposition relativement aux avis de nouvelle cotisation émis en novembre 2014 concernant les années d’imposition 2011 et 2012. Les deux demandes ont été entendues sur preuve commune.
+[2] Les questions suivantes doivent être examinées par la Cour :
+i) si les demandes de prorogation du délai pour déposer des avis d’opposition, présentées le 8 juillet 2016, respectent les exigences prévues au paragraphe 166.2(1) de la Loi de l’impôt sur le revenu, L.R.C., 1985, ch. 1, (5e suppl.) (la « Loi »);
+ii) à titre subsidiaire, si la lettre de l’ancien représentant des requérantes, datée du 10 septembre 2015, comme il est décrit plus en détail ci‑dessous, peut être qualifiée de demande de prorogation du délai pour déposer un avis d’opposition aux termes du paragraphe 166.1(2) de la Loi.
+[3] À la fin de l’audience tenue le 20 janvier 2017, les requérantes ont admis que les demandes présentées le 8 juillet 2016 avaient été présentées hors délai en ce sens qu’elles avaient été présentées plus d’un an « après l’expiration d’un délai de 90 jours suivant la date de la mise à la poste de l’avis de la décision au contribuable ». Il était également évident qu’elles ne contestaient pas le point de vue de l’intimée selon lequel la Cour n’a pas le pouvoir de proroger le délai établi par le Parlement pour la présentation de telles demandes. Par conséquent, il n’est pas nécessaire d’aborder cette question plus en détail ni de se reporter aux nombreuses décisions à ce sujet.
+[4] Après avoir entendu le représentant des requérantes au sujet de la deuxième question, la Cour a rendu une ordonnance provisoire et prononcé des motifs de vive voix le 1er mars 2017, ajournant l’instance afin de donner à la ministre le temps d’examiner si la lettre du 10 septembre 2015 (qui n’avait pas été mentionnée dans l’affidavit de l’intimée) pouvait être reconnue comme une demande valide de prorogation du délai pour déposer des avis d’opposition. Dans une lettre datée du 22 mars 2017, l’intimée a informé la Cour de son point de vue selon lequel ladite lettre ne devrait pas être reconnue comme telle. Cette question peut maintenant être examinée par la Cour.
+Contexte
+[5] Ce qui suit est un court résumé des éléments de preuve, qui ont été examinés précédemment dans les motifs de vive voix prononcés le 1er mars 2017. Mme Thangarajah a témoigné en son propre nom ainsi qu’au nom de la société requérante dont elle était l’unique actionnaire et administratrice. Elle a expliqué que son entreprise avait fait l’objet d’une vérification au début de 2014 et que, après plusieurs rencontres, elle a reçu un résumé de la position de l’ARC dans une lettre datée du 18 juin 2014. La lettre était adressée à la société requérante, et une deuxième lettre, datée du 22 octobre 2014, lui a été adressée personnellement. Les deux lettres faisaient référence à des revenus non déclarés et à une proposition de nouvelle cotisation selon la méthode indirecte ou de l’avoir net.
+[6] Mme Thangarajah a témoigné qu’elle ne souscrivait pas à la position de l’ARC et que, à un certain moment au cours de l’étape de vérification, elle a retenu les services de Ramesh Nicholas, du cabinet de consultation juridique CB, Nicholas & Associates. Une copie de la provision, datée du 21 août 2014, a été produite en tant qu’élément de preuve. M. Nicholas était autorisé à retenir les services de deux personnes afin d’effectuer — et je cite la lettre de provision — [traduction] « la comptabilité ou le rapprochement des comptes des requérantes ».
+[7] Bien que ce que M. Nicholas a réellement accompli, le cas échéant, pour les requérantes ne soit pas clair, Mme Thangarajah a témoigné l’avoir rencontré à plusieurs occasions, souvent accompagnée de son fils, afin d’examiner la comptabilité et l’évolution du dossier. Elle croyait comprendre que M. Nicholas ferait tout ce qu’il fallait pour s’occuper des avis de cotisation, mais il n’est pas certain qu’elle ne comprenait pas vraiment l’importance de déposer des avis d’opposition. Il ressort de la preuve soumise qu’elle a préparé et signé un formulaire d’autorisation de représentants, connu sous le nom de formulaire 1013A, le 21 février 2015 et l’a envoyé à l’ARC le 3 mars 2015, mais il n’y a aucune preuve qu’un formulaire semblable a été présenté pour la société requérante.
+[8] Dans les mois qui ont suivi, Mme Thangarajah a reçu des appels du bureau des recouvrements de l’ARC, et M. Nicholas en a été informé comme il convient et a été prié d’agir. Il l’a finalement fait, et cela apparaît clairement dans une lettre datée du 10 septembre 2015, adressée à une certaine Trudy Duggan du bureau des recouvrements de l’ARC, dans laquelle il cherchait à confirmer une conversation téléphonique qui avait eu lieu peu de temps auparavant. M. Nicholas a confirmé que les registres comptables des requérantes étaient en cours d’examen par des professionnels compétents, que le processus était presque terminé, qu’il comprenait, comme l’a probablement recommandé Mme Duggan, la nécessité de déposer des avis d’opposition en utilisant les formulaires T400A pour un particulier et RCS9 pour une société et que, aussitôt qu’il aurait des nouvelles des professionnels comptables, il lancerait ce qu’il appelait le « processus d’appel ».
+[9] Comme il ressort d’une télécopie inscrite comme pièce A-9, Mme Duggan a répondu le lendemain par une lettre envoyée par télécopieur, dans laquelle elle précisait que le dossier de recouvrement avait été mis à jour afin d’indiquer qu’un appel pour les années d’imposition 2011 et 2012 serait interjeté prochainement, et une autre note indiquait que cela devait être fait le plus tôt possible. Il était également indiqué que, bien que les documents puissent être transmis en copie à son bureau, — et je cite la télécopie en question — [traduction] « toutes les observations et tous les documents originaux » devaient être soumis à la division concernée.
+[10] Quoi qu’il en soit, il semble que rien d’autre n’a été fait et que les avis d’opposition réels n’ont pas été déposés, de sorte que le bureau des recouvrements de l’ARC a pris d’autres mesures qui ont mené à la saisie des comptes bancaires des requérantes. Cela a finalement mené au congédiement de M. Nicholas. Une plainte a été déposée auprès du Barreau du Haut-Canada, et, finalement, une boîte de rangement contenant les documents des requérantes a été récupérée. Il semble que M. Nicholas pourrait avoir fait une présentation erronée de son statut et utilisé l’expression [traduction] « cabinet d’avocats Nicholas », alors qu’il était parajuriste et qu’il n’était pas un membre en règle du Barreau de l’Ontario. J’ajouterai qu’il a été allégué que le statut de parajuriste de M. Nicholas avait été révoqué depuis, mais que rien n’a été présenté devant la Cour afin de corroborer cette affirmation. Pour conclure sur cette question, il est clair que les requérantes ont été trompées et qu’elles ont souffert du défaut de M. Nicholas de déposer les avis d’opposition.
+[11] Afin de compléter mon examen des faits, j’ajouterai seulement que le fils de Mme Thangarajah a également témoigné lors de l’audience. Il a corroboré l’intention de sa mère de contester les résultats de la vérification de l’ARC et, au final, les avis de nouvelle cotisation. Il a confirmé les problèmes liés à M. Nicholas ainsi que la plainte déposée au Barreau et a également souligné que les avis de nouvelle cotisation causeraient des difficultés économiques à sa mère.
+[12] Comme il a été mentionné ci-dessus, à la fin de l’audience, le représentant des deux requérantes a fait valoir que la lettre du 10 septembre 2015 devrait être considérée comme des avis d’opposition valides et que, même si elle avait été déposée après la période de 90 jours mentionnée ci-dessus, il n’était pas nécessaire de déposer une demande de prorogation du délai, puisque les lettres de Mme Duggan, envoyées par télécopieur le 11 septembre 2015 et inscrites comme pièce A-9, comprenaient un accusé de réception.
+[13] Les requérantes se sont appuyées sur une décision de la Cour dans l’affaire Melanson c. La Reine, 2011 CCI 569, qui traitait d’un contribuable qui avait transmis un avis d’opposition à l’ARC deux jours après l’expiration du délai de 90 jours suivant l’envoi de l’avis de nouvelle cotisation. Toutefois, la lettre n’était pas adressée au chef des Appels comme l’exige le paragraphe 165(2) de la Loi. Le juge Hershfield a conclu que la ministre avait le pouvoir discrétionnaire d’accepter l’avis d’opposition à titre de demande de prorogation du délai en vertu du paragraphe 166.1(4), même s’il n’était pas adressé au chef des Appels et qu’il n’a pas été présenté selon les modalités prescrites. Il s’est également fondé sur le paragraphe 220(2.1) de la Loi pour conclure que, lorsque la Loi prévoit des modalités prescrites, le ministre peut déroger à une telle exigence. Le juge Hershfield a finalement estimé que la contribuable avait été mal orientée et, au paragraphe 27, il a conclu ce qui suit : « La requérante a pris des mesures raisonnables pour se conformer à la loi et a donné suite à des informations écrites inexactes de la part de l’Agence quand on lui a dit de quelle façon déposer une opposition sans la prévenir qu’elle avait déjà dépassé le délai de prescription de 90 jours. » Le juge Hershfield a ensuite ajourné l’instance et renvoyé l’affaire à la ministre pour qu’elle examine s’il est approprié d’exercer le pouvoir discrétionnaire que lui confèrent diverses dispositions de la Loi. L’issue finale de cette affaire n’est pas connue.
+La lettre du 10 septembre 2015 constituait-elle une demande de prorogation du délai?
+[14] Comme il a été mentionné ci-dessus, à la lumière du raisonnement de la Cour dans l’affaire Melanson, précitée, les demandes de prorogation du délai pour déposer des avis d’opposition ont été ajournées à une date indéterminée afin de permettre à l’intimée de déterminer si la lettre du 10 septembre 2015 pourrait être considérée comme des demandes valides. Comme il a été mentionné précédemment, l’intimée a refusé de le faire dans une lettre datée du 22 mars 2017.
+[15] Comme il est indiqué dans les motifs de vive voix rendus le 1er mars 2017, la Cour n’est pas prête à accepter l’argument des requérantes selon lequel la lettre du 10 septembre 2015 constituait un avis d’opposition, même si la jurisprudence a établi un seuil plutôt faible en ce qui concerne les documents qui ne sont pas soumis selon les modalités prescrites ou qui ne contiennent pas de faits et de motifs détaillés. La position de la Cour (et, en fait, celle de l’ARC) aurait pu être différente si la lettre en question avait été intitulée « Avis d’opposition » ou si elle avait été signifiée au chef des Appels, comme l’exige le paragraphe 165(2) de la Loi ou si, à tout le moins, elle avait été remise à l’ARC dans les 90 jours suivant la mise à la poste des avis de nouvelle cotisation.
+[16] Les requérantes peuvent espérer, au mieux, que la lettre du 10 septembre 2015 puisse être reconnue par la Cour comme une demande de prorogation du délai pour présenter un avis d’opposition. Comme il est mentionné ci-dessus, l’intimée a refusé de reconnaître la lettre comme telle, et, bien qu’aucun motif précis n’ait été fourni, il semble, à première vue, que la lettre n’indique pas « les raisons pour lesquelles l’avis d’opposition n’a pas été signifié [à temps] », comme l’exige le paragraphe 166.1(2) de la Loi. Finalement, nous pouvons supposer en toute logique que la ministre a conclu que la lettre ne satisfaisait pas aux exigences du paragraphe 166.1(7).
+[17] En ce qui concerne le bien-fondé des demandes, je souligne que Mme Duggan a informé le représentant des requérantes qu’il devait procéder rapidement et déposer des avis d’opposition; elle a même fait référence aux modalités appropriées. Comme je l’ai mentionné dans mes motifs de vive voix rendus le 1er mars 2017, j’estime qu’elle avait le devoir d’en faire un peu plus et d’informer M. Nicholas qu’il était déjà trop tard pour présenter des avis d’opposition et qu’il aurait à présenter une demande de prorogation du délai. Elle ne lui a pas communiqué cette information. Toutefois, compte tenu qu’elle n’a pas respecté certaines normes de service, la question demeure la suivante : quelles sont les conséquences juridiques de ce défaut?
+[18] Comme il a souvent été mentionné, la Cour canadienne de l’impôt n’est pas une cour d’equity, et les notions d’equity perçues n’ont pas préséance sur des dispositions législatives précises. Au bout du compte, la Cour doit se tourner vers les dispositions applicables de la Loi. Le paragraphe 166.2(5) prévoit ce qui suit :
+(5) Il n’est fait droit à la demande que si les conditions suivantes sont réunies :
+a) la demande a été présentée en application du paragraphe 166.1(1) dans l’année suivant l’expiration du délai par ailleurs imparti pour signifier un avis d’opposition ou présenter une requête;
+b) le contribuable démontre ce qui suit :
+(i) dans le délai par ailleurs imparti pour signifier l’avis ou présenter la requête, il n’a pu ni agir ni charger quelqu’un d’agir en son nom, ou il avait véritablement l’intention de faire opposition à la cotisation ou de présenter la requête,
+(ii) compte tenu des raisons indiquées dans la demande et des circonstances de l’espèce, il est juste et équitable de faire droit à la demande,
+(iii) la demande a été présentée dès que les circonstances le permettaient.
+[19] Même si la Cour concluait que la lettre du 10 septembre 2015 a été envoyée au bureau des recouvrements de l’ARC dans la période de un an à partir de l’expiration du délai de 90 jours suivant la mise à la poste des avis de nouvelle cotisation, elle devrait tout de même être convaincue que la lettre pourrait effectivement être considérée comme une demande de prorogation du délai. Il est difficile de le faire, étant donné que la lettre ne fait pas mention des délais prescrits par la loi ni ne mentionne que la contribuable cherche à obtenir toute forme de prorogation. De plus, comme il a été souligné ci-dessus, elle ne mentionne pas les motifs pour lesquels les avis d’opposition n’ont pas été déposés à temps. L’affirmation selon laquelle les requérantes attendaient que les comptables terminent leur examen, même si elle explique le retard, ne justifie pas le défaut de transmettre les avis d’opposition dans le délai de 90 jours prescrit par la loi.
+[20] Au bout du compte, la Cour est d’accord avec l’intimée et conclut que la lettre du 10 septembre 2015 ne constitue pas une demande de prorogation du délai pour déposer un avis d’opposition, comme l’exige l’alinéa 166.2(5)a). Par conséquent, il n’est pas nécessaire d’examiner le critère à trois volets énoncé aux sous-alinéas 166.2(5)b)(i), (ii) ou (iii) de la Loi.
+[21] Même si, compte tenu de ce qui précède, il est statué sur les demandes, la Cour se prononcera sur le fait que les requérantes ont retenu les services de M. Nicholas, un soi-disant avocat, et se sont fiées à lui pour qu’il les aide à préparer et à déposer les documents nécessaires pour interjeter appel contre les avis de nouvelle cotisation. Bien qu’il ait eu amplement de temps pour préparer et déposer les avis d’opposition requis, puisque ses services ont été retenus plusieurs mois avant que les avis de nouvelles cotisations aient été émis, il a manifestement omis de le faire. Aucun motif n’a été donné pour expliquer ce défaut, même si l’inévitable conclusion est que c’était en raison de son incompétence. En d’autres mots, il semble qu’il ne savait pas ce qu’il faisait.
+[22] Toutefois, en ce qui concerne l’issue en l’espèce, à mon avis, rien n’indique que M. Nicholas s’est présenté en tant qu’avocat alors qu’il n’était en fait qu’un parajuriste. C’est une question qui relève de l’ordre professionnel concerné. Même si les requérantes pourraient avoir une cause d’action en dommages-intérêts découlant de la négligence de M. Nicholas — une cause d’action qui devrait être intentée devant un autre tribunal — la jurisprudence de la Cour a clairement établi qu’un contribuable qui cherche à invoquer la négligence d’un avocat doit également démontrer que cet avocat a agi avec diligence raisonnable. Ce principe a été expliqué dans la décision Di Modica c. Canada, [2001] A.C.I. no 620 (Q.L.), au paragraphe 16 :
+[16] Je suis d’avis que l’erreur de l’avocat peut être un motif juste et équitable d’accorder une prolongation du délai si l’avocat a par ailleurs exercé la diligence normale d’un avocat. Je ne crois pas que l’état du droit soit tel que la négligence ou le laxisme de l’avocat puissent être des motifs justes et équitables au sens de l’alinéa 166.2(5)b)(ii) de la Loi pour accorder la prolongation demandée.
+[23] Même si la Cour a comme politique générale de traiter les questions selon leur bien-fondé, il y a des limites à ce qu’elle peut faire. Dans l’affaire Chu c. La Reine, 2009 CCI 444, un contribuable avait également retenu les services de conseillers fiscaux pour qu’ils préparent et déposent un avis d’opposition, mais ils ne l’ont pas fait. Après avoir découvert l’erreur, le contribuable a présenté une demande de prorogation du délai pour déposer un avis d’opposition, mais la demande a été déposée plus de un an après l’expiration du délai de 90 jours suivant la mise à la poste de l’avis de cotisation. Le juge Hershfield a conclu qu’il avait en réalité les mains « liées » (par. 18) et que, même s’il était évident que les conseillers professionnels avaient fait preuve de négligence, il n’appartenait pas à la Cour de « jouer le rôle d’assureur en matière de fautes de commission » (par. 21). Il a conclu de la façon suivante :
+[22] Je ne puis user de créativité à l’égard du libellé de la disposition applicable; je n’ai pas compétence pour le faire. Compte tenu du texte non équivoque des dispositions législatives applicables, je n’ai nullement le loisir d’agir ainsi […].
+[24] Cette conclusion est très regrettable pour les requérantes. Néanmoins, pour tous les motifs qui précèdent, les demandes doivent être rejetées.
+Signé à Ottawa, Canada, ce 2e jour de mai 2017.
+« Guy Smith »
+Juge Smith
+RÉFÉRENCE :
+2017 CCI 72
+Nos DES DOSSIERS DE LA COUR :
+2016-2840(IT)APP 2016-2839(IT)APP
+INTITULÉ :
+MALINI THANGARAJAH et 1670000 ONTARIO INC. c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+Le 20 janvier 2017
+MOTIFS DE L’ORDONNANCE :
+L’honorable juge Guy R. Smith
+DATE DE L’ORDONNANCE :
+Le 2 mai 2017
+COMPARUTIONS :
+Représentant des requérantes :
+M. Val Purushothaman
+Avocat de l’intimée :
+Me Eric Myles
+AVOCATS INSCRITS AU DOSSIER :
+Pour les requérantes :
+Nom :
+[EN BLANC]
+Cabinet :
+[EN BLANC]
+Pour l’intimée :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada

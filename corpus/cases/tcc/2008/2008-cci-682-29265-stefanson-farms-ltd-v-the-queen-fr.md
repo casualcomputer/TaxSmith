@@ -1,0 +1,166 @@
+---
+title: "Stefanson Farms Ltd. v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29265/index.do"
+last_modified: "2008-12-19"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 CCI 682"
+citation2: ""
+neutral_citation: "2008 CCI 682"
+decision_date: "2008-12-19"
+language: "fr"
+item_id: "29265"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7005
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T10:05:31.021000+00:00"
+cases_cited_count: 2
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "7388703bdabd6a6943569595fd330c1595be4c998b396df684c7e5a3df3b0213"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Stefanson Farms Ltd. v. The Queen
+
+- Citation: 2008 CCI 682
+- Decision date: 2008-12-19
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7005, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Stefanson Farms Ltd. v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-12-19
+Référence neutre
+2008 CCI 682
+Numéro de dossier
+2004-2159(IT)G
+Juges et Officiers taxateurs
+Judith Woods
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2004-2159(IT)G
+ENTRE :
+STEFANSON FARMS LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+________________________________________________________________
+Appel entendu le 6 novembre 2008, à Winnipeg (Manitoba)
+Devant : L'honorable juge Judith Woods
+Comparutions :
+Représentant de l'appelante :
+Remi Smith
+Avocat de l'intimée :
+Me Lyle Bouvier
+________________________________________________________________
+JUGEMENT L'appel interjeté à l'encontre de la cotisation établie en application de la Loi de l'impôt sur le revenu à l'égard de l'année d'imposition 1998 est rejeté. L'intimée a droit aux dépens.
+Signé à Toronto (Ontario), ce 19e jour de décembre 2008.
+« J. Woods »
+Le juge Woods
+Traduction certifiée conforme
+ce 10e jour de juin 2009.
+Yves Bellefeuille, réviseur
+Référence : 2008CCI682
+Date : 20081219
+Dossier : 2004-2159(IT)G
+ENTRE :
+STEFANSON FARMS LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Woods
+[1] La société Stefanson Farms Ltd. interjette appel de la cotisation établie en application de la Loi de l'impôt sur le revenu à l'égard de son année d'imposition 1998.
+[2] La question au coeur du litige entre les parties concerne le coût des stocks acquis par l'appelante lors d'une réorganisation de la société de personnes effectuée pendant l'année d'imposition 1998.
+[3] L'intimée soutient que les dispositions au paragraphe 98(5) de la Loi s'appliquent à la réorganisation et que le coût des stocks acquis par l'appelante est de zéro, en raison du sous‑alinéa 98(5)b)(i).
+[4] De son côté, l'appelante soutient que le paragraphe 98(5) ne s'applique pas en l'espèce, et que le coût des stocks acquis est leur juste valeur marchande, en raison des principes généraux. La juste valeur marchande était de 227 245 $ pendant la période en cause et l'appelante veut déduire ce montant au cours de l'année d'imposition 1998. Elle demande la déduction en fonction de la méthode de la comptabilité de caisse. La méthode de comptabilité n'est pas remise en question en l'espèce.
+[5] Le paragraphe 98(5) de la Loi est une disposition de roulement qui prévoit qu'une entreprise peut être transférée d'une société de personnes à un associé de façon à reporter l'impôt. En bref, la société de personnes est réputée avoir disposé de ses biens au coût indiqué aux fins de l'impôt et ce même montant devient le coût du bien pour le successeur de l'entreprise.
+[6] En l'espèce, la réorganisation a entraîné le changement de la propriété d'une ferme familiale, auparavant une société de personnes, devenue une société. C'est le successeur de l'entreprise qui interjette appel.
+[7] Le différend porte sur l'un des éléments du paragraphe 98(5), soit que le successeur de l'entreprise doit avoir été un associé de la société de personnes. L'appelante fait valoir qu'elle n'a jamais été une associée de la société de personnes.
+[8] La partie du paragraphe 98(5) qui s'applique ici est rédigée en ces termes :
+(5) Entreprise de la société de personnes exploitée par un seul et unique propriétaire. Lorsque, à un moment donné après 1971, une société de personnes canadienne a cessé d'exister et que, dans les 3 mois suivant ce moment, au plus une seule des personnes (appelée « propriétaire » au présent paragraphe qu'il s'agisse d'un individu, d'une fiducie ou d'une société) qui étaient, immédiatement avant le moment donné, des associés de la société de personnes, poursuit lui‑même, à titre de propriétaire unique, l'exploitation de l'entreprise antérieurement exploitée par la société de personnes et continue à utiliser, dans le cours des activités de l'entreprise, un bien qui appartenait à la société de personnes immédiatement avant le moment donné et qu'il a reçu à titre de produit de disposition de sa participation dans la société de personnes, les règles suivantes s'appliquent :
+[...]
+b) le coût que le propriétaire supporte pour chacun des biens est réputé égal au total des montants suivants :
+(i) le coût indiqué du bien pour la société de personnes immédiatement avant le moment donné,
+[...]
+[Non souligné dans l'original.]
+Contexte
+[9] Randall Stefanson détenait la participation majoritaire dans la société de personnes qui exploitait la ferme avant la réorganisation, et il était l'unique actionnaire de l'appelante qui a poursuivi l'exploitation de l'entreprise après la réorganisation. Il a été le seul témoin de l'appelante à l'audience.
+[10] Les opérations en cause dans le présent appel ne sont pas contestées et sont énoncées en tant qu'hypothèses dans la réponse à l'avis d'appel. Les paragraphes qui s'appliquent sont reproduits ci‑dessous.
+[TRADUCTION]
+16. Lorsqu'il a ratifié les nouvelles cotisations établies à l'égard de l'année d'imposition 1998 de l'appelante, le ministre s'est fondé sur les hypothèses suivantes :
+a) avant le 1er janvier 1998, Randall Stephanson (ci‑après « M. Stephanson ») et Ann Stephanson [sic] (ci‑après « Mme Stephanson ») étaient associés dans une entreprise familiale constituée en société de personnes;
+b) M. Stephanson détenait 99 % de la participation dans la société de personnes et Mme Stephanson en détenait 1 %;
+c) les biens de l'entreprise familiale constituée en société de personnes comprenaient les stocks, les créances et les immobilisations;
+d) la valeur des stocks le 1er janvier 1998 était de 277 245 $;
+e) l'entreprise familiale constituée en société de personnes calculait ses revenus au moyen de la méthode de la comptabilité de caisse;
+f) la valeur des stocks de l'entreprise familiale constituée en société de personnes en date du 31 décembre 1997 avait été passée en charges aux fins de l'impôt;
+g) par une entente datée du 16 octobre 1998 et entrant en vigueur le 1er janvier 1998, l'appelante a acheté la participation de M. Stephanson dans l'entreprise familiale constituée en société de personnes pour 418 406 $ et lui a fourni un billet équivalent au prix d'achat, plus une action de catégorie A;
+h) [...]
+i) le 3 janvier 1998, l'appelante a acheté la participation de Mme Stephanson dans l'entreprise familiale constituée en société de personnes pour 4 226 $ et lui a fourni un billet équivalent au prix d'achat, plus une action de catégorie A;
+j) [...]
+k) l'appelante a poursuivi l'exploitation de l'entreprise antérieurement exploitée par la société de personnes, en utilisant les biens qui lui appartenaient;
+l) l'exercice initial de l'appelante s'est terminé le 31 décembre 1998;
+m) l'appelante a utilisé la méthode de la comptabilité d'exercice pour calculer le coût des biens vendus pour l'année d'imposition 1998;
+n) [...]
+Analyse
+[11] La question à trancher en l'espèce est de savoir si l'appelante et Ann Stefanson étaient des associées du 1er au 3 janvier 1998. Il s'agit de la période pendant la réorganisation débutant au moment où l'appelante a acheté une participation dans la société de personnes de Randall Stefanson et se terminant au moment où Ann Stefanson a vendu sa participation dans la société de personnes à l'appelante.
+[12] L'appelante soutient qu'elle n'a jamais été une associée dans la société de personnes.
+[13] J'ai de la difficulté à accepter cette position parce que les accords écrits qui ont été conclus laissent entendre le contraire. Même si ces accords ne mentionnent pas explicitement que l'appelante et Mme Stefanson devaient être associées, il est clair que c'est ce qui était prévu. Aucune autre interprétation raisonnable de ce qui aurait pu être prévu par ces accords n'a été proposée à l'audience.
+[14] Je conclus que, de prime abord, il est relativement clair dans les accords que l'appelante et Mme Stefanson devaient être associées pendant la période du 1er au 3 janvier 1998.
+[15] Dans son témoignage, M. Stefanson a affirmé que les documents avaient été rédigés par des conseillers professionnels et qu'il ne comprenait pas ce qu'avaient été leurs intentions. Ceci est fort possible. Il arrive souvent que des gens d'affaires signent des accords complexes, suivant les conseils de professionnels, sans bien comprendre ce qu'ils signent. Cependant, il n'en demeure pas moins que les parties sont liées par ces accords.
+[16] Monsieur Stefanson a aussi affirmé que sa mère et l'appelante n'ont pas exploité d'entreprise constituée en société de personnes pendant la période de deux jours en cause. On a fait valoir qu'une société de personnes ne pouvait pas exister dans ces circonstances : voir Backman c. La Reine, 2001 D.T.C. 5149, 2001 CSC 10.
+[17] À mon avis, ceci ne suffit pas pour permettre à l'appelante de renier les accords écrits. Les circonstances de l'affaire Backman étaient très différentes. En l'espèce, c'est le contribuable qui fait valoir que les documents ne correspondent pas au véritable état de choses. Ce n'était pas le cas dans Backman.
+[18] L'affaire dont je suis saisie ressemble un peu aux circonstances de la décision R. c. 1524994 Ontario Ltd., 2007 CAF 74. Dans cette décision, le contribuable a fait valoir que les documents qu'il a établis ne représentent pas les faits réels. La Cour d'appel fédérale a rejeté de façon catégorique l'argument du contribuable et a statué qu'il fallait respecter la forme des documents. On peut aussi renvoyer à la décision R. c. Gurd's Products Company Limited, 85 D.T.C. 5314, no A‑366‑81, 4 juillet 1985 (C.A.F.).
+[19] Enfin, je tiens aussi à souligner qu'en l'espèce, il n'y a pas assez d'éléments de preuve permettant de conclure que la société de personnes n'a pas exploité d'entreprise pendant la période du 1er au 3 janvier. Monsieur Stefanson a abordé brièvement la question, mais son témoignage n'était pas assez détaillé et ne me permet pas de conclure qu'aucune entreprise n'a été exploitée par la société de personnes pendant la période en cause.
+[20] L'appel est rejeté et l'intimée a droit aux dépens.
+Signé à Toronto (Ontario), ce 19e jour de décembre 2008.
+« J. Woods »
+Le juge Woods
+Traduction certifiée conforme
+ce 10e jour de juin 2009.
+Yves Bellefeuille, réviseur
+RÉFÉRENCE : 2008CCI682
+N° DE DOSSIER : 2004-2159(IT)G
+INTITULÉ : STEFANSON FARMS LTD. ET SA MAJESTÉ LA REINE
+LIEU DE L'AUDIENCE : Winnipeg (Manitoba)
+DATE DE L'AUDIENCE : Le 6 novembre 2008
+MOTIFS DU JUGEMENT PAR : L'honorable juge J. Woods
+DATE DU JUGEMENT : Le 19 décembre 2008
+COMPARUTIONS :
+Représentant de l'appelante :
+Remi Smith
+Avocate de l'intimée :
+Me Lyle Bouvier
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelante :
+Nom : s.o.
+Cabinet :
+Pour l'intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

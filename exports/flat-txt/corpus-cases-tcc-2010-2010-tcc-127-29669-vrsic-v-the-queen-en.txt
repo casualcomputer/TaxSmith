@@ -1,0 +1,137 @@
+Title: Vrsic v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29669/index.do
+Corpus path: corpus/cases/tcc/2010/2010-tcc-127-29669-vrsic-v-the-queen-en.md
+Document type: case_law
+Last modified: 2010-03-03
+
+# Vrsic v. The Queen
+
+- Citation: 2010 TCC 127
+- Decision date: 2010-03-03
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6237, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Vrsic v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-03-03
+Neutral citation
+2010 TCC 127
+File numbers
+2009-2268(GST)I
+Judges and Taxing Officers
+Campbell J. Miller
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2009-2268(GST)I
+BETWEEN:
+MICHAEL VRSIC,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on January 15, 2010, at Toronto, Ontario
+By: The Honourable Justice Campbell J. Miller
+Appearances:
+Counsel for the Appellant:
+Deborah Corcoran
+Counsel for the Respondent:
+Darren Prevost
+____________________________________________________________________
+JUDGMENT
+The appeals from the assessments made under the Excise Tax Act for the reporting period ending December 31, 2005, and for the reporting periods ending between March 31, 2007 and June 30, 2007 are allowed, and referred back to the Minister of National Revenue for variation on the basis that for the quarter ending December 31, 2005, the assessment is reduced by $6,694, and the two quarters ending March 31 and June 30, 2007, the assessment is reduced by $31,000, and the interest and penalties are adjusted accordingly. For the quarters ending March 31, June 30, September 30 and December 31, 2006, the appeals are dismissed. Mr. Vrsic is entitled to costs of $250.
+Signed at Ottawa, Canada, this 3rd day of March, 2010.
+"Campbell J. Miller"
+C. Miller J.
+Citation: 2010TCC127
+Date:20100303
+Docket: 2009-2268(GST)I
+BETWEEN:
+MICHAEL VRSIC,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Miller J.
+[1] Mr. Vrsic appeals by way of the Informal Procedure a GST director’s liability assessment arising against A.C. Standard Industrial Supply Ltd. ("AC" or "Company"), in the amount of approximately $68,000. Mr. Vrsic raised a due diligence defense at trial, but it became clear to me, upon review of the Canada Revenue Agency’s ("CRA") schedule of amounts owing (see attached Schedule "A"), that there was a significant problem with the underlying assessment against the Company. I advised the parties I would consider whether I could do anything about the underlying assessment and if I felt I could, I would allow the Respondent time to make written submissions. This is, in fact, what evolved and I have now received those written submissions, which I will address later in my reasons. The Appellant did not make any further representations, though was afforded an opportunity to do so.
+Facts
+[2] AC was incorporated by Mr. Vrsic’s father and a business partner in 1980. The Company was in the business of supplying tools and fasteners etc. to the tool and die industry. After the death of the business partner, Mr. Vrsic joined his father in the family business. Mr. Vrsic left a two year business course at Sheridan College to do so. So, in 1988, he commenced fulltime work at AC, first as a truck driver, but eventually ending up handling sales for the Company. He was made a director in 1989 and secretary-treasurer in 1996.
+[3] AC had an internal bookkeeper, Ms. Louise Armstrong, who took care of the Company’s books, including determining and making all tax remittances. Although Mr. Vrsic was a signing officer, and he acknowledged that he was the one to oversee the bookkeeping, he left these matters in Ms. Armstrong’s hands. Indeed, he provided a stamp of his signature, so that she need not chase after him to sign every cheque. He asked regularly if remittances were made and was always assured they were. The CRA conducted occasional GST audits – once every second or third year – and Mr. Vrsic also inquired if everything was in order from their perspective, and was again advised that it was.
+[4] The Company was reasonably successful, increasing its workforce and its sales over the years. Mr. Vrsic acknowledged that after 9/11, and again with difficulties in the steel industry and later in the automobile industry, business, and more importantly cash flow, became more difficult. Not, however, until the summer of 2006 did Mr. Vrsic appreciate the severity of the Company’s financial woes. He had relied upon financial statements which suggested business was okay. His father, who had suffered a stroke in 2003, and remained only peripherally involved in the Company, advised Mr. Vrsic in 2006 that there was a problem with tax remittances. Since some time in 2005 Ms. Armstrong had, according to Mr. Vrsic, been preparing cheques for remittance to CRA, but had not been sending them in. Mr. Vrsic did not catch this, not having checked to see if all cheques had cleared. He testified he had external accountants, who he met with once a year, but apparently they too did not identify this failure, assuming that remittances were simply being made.
+[5] Mr. Vrsic, recognizing the Company’s financial future was quickly turning south, poured $300,000 of his own money into the business in 2006. He had tried imposing a strict 30-day time period on customers for payments of accounts, but some of his major customers ignored the request and paid late.
+[6] When Mr. Vrsic determined what Ms. Armstrong was doing he confronted her. She left. She had been a 20-year valued employee and simply left, leaving bookkeeping affairs to Mr. Vrsic, including not providing a passcode to gain access to computer records.
+[7] Mr. Vrsic believed that the only way to meet the Company’s obligations, including the tax liability, was to sell the Company’s assets. He pursued a deal with a competitor, thinking they would get paid out at least $300,000 for the Company’s inventory. The competitor balked and Mr. Vrsic eventually unloaded the inventory for just $5,000. He had made a conscious decision to ensure that his employees were looked after, with the Company’s limited resources.
+[8] The Company’s sales went from $100,000 a month to less than $25,000 a month in the dying months of the Company’s life. Mr. Vrsic acknowledged, in an emotional outburst, that the failure of the Company to pay the taxes was his fault, though he tried to generate sufficient funds by first depositing $300,000 into the Company and next by attempting to sell the inventory.
+[9] Mr. Qadir, from CRA, testified that the CRA estimated AC’s liability for the first two quarters of 2007 based on the past sales history. Also, given that AC did not file any returns for those two quarters, the Government did not take account of any Input Tax Credits ("ITC") in calculating AC’s liability. The Government attempted unsuccessfully to collect the amount owing from AC. It then proceeded to file the necessary certificate before pursuing the director, Mr. Vrsic.
+Issues
+i) Is the due diligence defense available to Mr. Vrsic?
+ii) Can the underlying corporate assessment be reviewed?
+iii) If so, is it a correct assessment?
+Analysis
+[10] The provisions in play are subsections 323(1), (2) and (3) of the Excise Tax Act (the "Act"):
+323(1) If a corporation fails to remit an amount of net tax as required under subsection 228(2) or (2.3) or to pay an amount as required under section 230.1 that was paid to, or was applied to the liability of, the corporation as a net tax refund, the directors of the corporation at the time the corporation was required to remit or pay, as the case may be, the amount are jointly and severally, or solitarily, liable, together with the corporation, to pay the amount and any interest on, or penalties relating to, the amount.
+(2) A director of a corporation is not liable under subsection (1) unless
+(a) a certificate for the amount of the corporation's liability referred to in that subsection has been registered in the Federal Court under section 316 and execution for that amount has been returned unsatisfied in whole or in part;
+(b) the corporation has commenced liquidation or dissolution proceedings or has been dissolved and a claim for the amount of the corporation's liability referred to in subsection (1) has been proved within six months after the earlier of the date of commencement of the proceedings and the date of dissolution; or
+(c) the corporation has made an assignment or a bankruptcy order has been made against it under the Bankruptcy and Insolvency Act and a claim for the amount of the corporation's liability referred to in subsection (1) has been proved within six months after the date of the assignment or bankruptcy order.
+(3) A director of a corporation is not liable for a failure under subsection (1) where the director exercised the degree of care, diligence and skill to prevent the failure that a reasonably prudent person would have exercised in comparable circumstances.
+[11] There remains some discussion in the jurisprudence as to the correct test in applying the subsection 323(3) due diligence defense: the objective‑subjective test established by the case of Soper v. R,[1] or simply an objective test as enunciated by the Supreme Court of Canada in Peoples Department Stores Ltd. v. Wise,[2] (see for eg. Justice Ryer’s comments in paragraphs 11 and 12 of Hartrell v. R.[3]). My view is that Justice Rothstein put it most succinctly and accurately in the case of Moriyama v. R.[4] where he stated:
+…
+19. It will always be possible to find that a director did not take some step to prevent a failure of a corporation to remit tax. However, the test of due diligence under subsection 323(3) is not whether every conceivable step has been taken, but rather what steps to prevent failure "a reasonably prudent person would have exercised in comparable circumstances".
+…
+[12] Did Mr. Vrsic take steps a reasonably prudent person would have taken in comparable circumstances? Mr. Vrsic certainly was involved in the business on a day-to-day basis. He admitted that one of his responsibilities was overseeing the bookkeeping for the Company. What steps then did he take in this capacity to ensure remittances were made? He entrusted the responsibility to a long-term employee, who had for almost 20 years, properly and effectively carried out her duties, including, in the latter years, the preparation and remittance of GST. Mr. Vrsic would regularly ask Ms. Armstrong if she had looked after the GST. He would inquire of the CRA auditors on their visits if all was well. Even in 2004 and 2005 when cash flow started to become problematic he believed remittances were looked after, and indeed they were. The last quarter of 2005 was when Ms. Armstrong first determined there were insufficient funds to meet the Company’s GST obligations. To this point, I find Mr. Vrsic had acted prudently in relying upon his capable bookkeeper, inquiring regularly with respect to remittances and occasionally touching base with the CRA auditors on that issue. As Justice Rothstein put it, there may have been some further steps the Appellant might have taken to prevent the failure in late 2005, but, on balance, I find Mr. Vrsic acted as a reasonably prudent person would have acted up to that point.
+[13] My concern lies with Mr. Vrsic’s efforts and lack of controls in determining that CRA was not being paid. By 2006, matters were worsening financially for the Company. Mr. Vrsic, by a review of bank reconciliations alone, could have and should have detected the fact that CRA had not cashed a cheque of some $8,000 for the last quarter of 2005. At some point in 2006, he is also explicitly made aware of the GST problem. While he injects cash into the Company, he makes a conscious decision to look after employees ahead of paying the CRA. His actions, as a whole, do not reflect any diligence in attempting to prevent failure to remit. His actions to attempt to salvage some of the inventory with a view to paying off CRA is not the exercise of due diligence to prevent the failure: it is an attempt to make good the debt after the fact. This is not sufficient.
+[14] I conclude that Mr. Vrsic can rely on the defense of due diligence for the last quarter of 2005, but not thereafter. With nothing further, this would result in the assessment against him personally being reduced by $6,694 plus the interest and penalty related to the period ending December 31, 2005.
+[15] I turn now to the question of the underlying assessment, and, specifically, the Government’s assessment of $20,000 for each of the first two quarters of 2007. This assessment, according to Mr. Qadir, was based on an assumption by the Government of sales in 2007 equivalent to the history of sales over the previous year. In fact, as Mr. Vrsic testified, sales in 2007 were less than a quarter of what they were previously. Also, the Government allowed zero for ITCs as AC filed no forms claiming ITCs. The assessment for the first two quarters, I find, is grossly overstated. Can I do anything about that? I believe I can.
+[16] First, can Mr. Vrsic challenge the underlying assessment of AC? There have been two schools of thought developing in the Tax Court on this issue (see for example the cases of Kern v. R.[5] and Scavuzzo v. R.[6], Maillé v. R.[7] and Zaborniak v. R.[8]). I stand by my comments in Kern, where I stated that the language of the Act leaves the door open for a director to challenge the underlying assessment, where the company has not itself done so. Combined with the principles of natural justice approach taken by the Federal Court of Appeal in the case of Gaucher v. R.[9], I find it is open to Mr. Vrsic to challenge the assessment against AC.
+[17] The Respondent then argues that the Appellant cannot succeed on an unpleaded issue. The Respondent claims she was precluded from pleading material facts and assumptions in support of the assessment. Further, the Respondent was prevented from producing evidence and not afforded an opportunity to prepare and argue a case to support the assessment. I find none of these arguments persuasive. This was an informal procedure case. While there are some rules, proceedings are to some degree conducted in a rough and tumble fashion with a view to an expedient process and a correct result. To suggest that Mr. Vrsic should have amended his pleadings is imposing a general procedure attitude on an informal procedure case. Also, for the Respondent to suggest she was not afforded an opportunity to prepare or argue this new issue is completely confounding to me. I specifically gave the Respondent a month to do just that, and I have received and considered its arguments. I am not sure what more is required. Finally, for the Respondent to suggest there may have been more evidence that could have been presented is also a non-starter. The Respondent called a CRA representative. It was so blatantly evident from the Respondent’s own book of documents that there was some disconnect between reality and the Government’s assessment of AC’s last two quarters, that I asked the CRA representative about it. I then asked Respondent’s counsel if there are any questions arising. I then followed up by writing to counsel seeking further submissions about these last two quarters. I do not accept the Respondent’s implication that, in this informal procedure case, she has been in any way denied full opportunity to address the matter. So, I intend to consider the correctness of the assessment of $40,000 of GST for the last two quarters of AC’s business life.
+What evidence do I have?
+[18] First, I have Mr. Qadir’s evidence that the two $20,000 assessments were based on historic sales figures for AC, without granting any ITCs. Second, I have the uncontroverted evidence of Mr. Vrsic, who was forthright and honest, that in the last two quarters business had dropped over 75%.
+[19] Certainly, it is open to the Government to make an arbitrary assessment: it is then open to the taxpayer to disprove that assessment. The Government argues the Appellant led no evidence to show the assessment is incorrect. I certainly heard evidence that the GST assessed by the Government, was based on sales many times greater than what AC’s true sales in fact were. Granted, I only had Mr. Vrsic’s viva voce evidence, but I had formed a favorable impression of his honesty and integrity, and I accept that sales had fallen to the extent he suggested. This fits entirely within the overall story of the rise and fall of this business.
+[20] I find the $20,000 GST arbitrarily assessed by the Government for the last two quarters has been readily disproved as it was based on sales four or five times greater than what would be an accurate reflection of sales. So, even without considering ITCs, I reduce the GST from $20,000 per quarter to $4,500 per quarter.
+[21] With respect to the availability of ITCs, counsel for the Respondent cited Justice Bowie’s comments in the case of Key Property Management Corp. v. R.[10], which addresses the mandatory versus directory nature of the subsection 169(4) requirements to claim an ITC:
+The information prescribed is found in the Input Tax Credit Information (GST/HST) Regulations (the Regulations). The amount of information that a registrant must obtain in support of a claim for an ITC under these Regulations increases as the consideration for the supply increases, and the requirements at each level are quite specific. Counsel for the Appellant seem4ed to take the position that he oral evidence of Mr. Krauel should be an adequate substitute for compliance with the specific requirements of the Act and the Regulations. I reject any such proposition. It is well know that any value added system of taxation is potentially vulnerable to abuse, and that one of the most vulnerable aspects is in connection with claims for input tax credits. The whole purpose of paragraph 169(4)(a) and the Regulations is to protect the consolidated revenue fund against both fraudulent and innocent incursions. They cannot succeed in that purpose unless they are considered to be mandatory requirements and strictly enforced. The result of viewing them as merely directory would not simply be inconvenient, it would be a serious breach of the integrity of the statutory scheme. [emphasis added]
+[22] The Respondent acknowledged that the documents required pursuant to the ITC Information Regulations need not be presented in Court, though there must be some testimonial evidence establishing the existence of such documents at the relevant time. Indeed, I did not hear any evidence on this front.
+[23] Mr. Vrsic testified as to the Company’s sales in the last two quarters, but offered no evidence regarding the Company’s expenses, no evidence as to suppliers, nothing upon which I could make a reasonable finding that the subsection 169(4) requirements had been met with respect to any particular amounts. While it may make some commercial sense that supplies were 25% in the last two quarters, and that ITCs should be allowed on that basis, that would be complete speculation on my part, with no evidentiary grounding. I cannot allow any ITCs in these circumstances.
+[24] In conclusion, the appeals are allowed and referred back to the Minister for reassessments on the basis that the assessments against Mr. Vrsic should be reduced by $6,694 for the quarter ending December 31, 2005 and by a further $31,000 for the last two quarters ending March 31, 2007, and June 30, 2007, for a total reduction of $37,694 plus applicable interest and penalties. I grant Mr. Vrsic costs of $250.
+Signed at Ottawa, Canada, this 3rd day of March, 2010.
+"Campbell J. Miller"
+C. Miller J.
+CITATION: 2010 TCC 127
+COURT FILE NO.: 2009-2268(GST)I
+STYLE OF CAUSE: MICHAEL VRSIC AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: January 15, 2010
+REASONS FOR JUDGMENT BY: The Honourable Justice Campbell J. Miller
+DATE OF JUDGMENT: March 3, 2010
+APPEARANCES:
+Counsel for the Appellant:
+Deborah Corcoran
+Counsel for the Respondent:
+Darren Prevost
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Deborah Corcoran
+Firm: Tibollo & Associates
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] 51 DTC 5407.
+[2] 2004 SCC 68.
+[3] 2008 FCA 59.
+[4] 2005 FCA 2007.
+[5] 2005 TCC 314.
+[6] 2005 TCC 772.
+[7] 2003 TCC 222.
+[8] 2004 TCC 560.
+[9] [2001] 1 CTC 125.
+[10] 2004 TCC 210.

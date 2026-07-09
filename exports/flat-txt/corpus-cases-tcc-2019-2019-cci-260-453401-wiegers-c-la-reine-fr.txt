@@ -1,0 +1,204 @@
+Title: Wiegers c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/453401/index.do
+Corpus path: corpus/cases/tcc/2019/2019-cci-260-453401-wiegers-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2019-11-25
+
+# Wiegers c. La Reine
+
+- Citation: 2019 CCI 260
+- Decision date: 2019-11-25
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4281, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Wiegers c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2019-11-25
+Référence neutre
+2019 CCI 260
+Numéro de dossier
+2017-394(IT)I
+Juges et Officiers taxateurs
+Ronald MacPhee
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2017-394(IT)I
+ENTRE :
+MARIA WEIGERS,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+ET
+Dossier : 2017-398(IT)I
+ENTRE :
+NICOLA DiLENA,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appels entendus sur preuve commune le 31 octobre 2019, à Toronto (Ontario)
+Devant : L’honorable juge Ronald MacPhee
+Comparutions :
+Pour l’appelante Maria Weigers : L’appelante elle-même
+Représentante pour l’appelante Nicola DiLena : Maria Weigers
+Avocats de l’intimée :
+Me Matthew Turnell
+Me Sandra K.S. Tsui
+JUGEMENT
+Les appels interjetés à l’encontre des nouvelles cotisations établies aux termes de la Loi de l’impôt sur le revenu pour les années d’imposition 2006, 2007 et 2008 des appelantes sont rejetés sans dépens.
+Signé à Ottawa, Canada, ce 25e jour de novembre 2019.
+« R. MacPhee »
+Le juge MacPhee
+Référence : 2019 CCI 260
+Date : 20191125
+Dossier : 2017-394(IT)I
+ENTRE :
+MARIA WEIGERS,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+ET
+Dossier : 2017-398(IT)I
+ENTRE :
+NICOLA DiLENA,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge MacPhee
+[1] Ces appels ont été entendus sur preuve commune. Les appels en question portent sur les périodes d’imposition 2006, 2007 et 2008.
+[2] Au procès, les appelantes n’ont contesté ni les cotisations en cause ni les montants. Les appelantes ont plutôt soutenu au procès qu’elles avaient droit à un allègement des intérêts courus à l’égard de la somme due à l’issue des cotisations. Subsidiairement, elles demandent à l’intimée de leur faire la même offre de règlement que celle qui avait été offerte par le ministre aux autres participants avant la naissance du contentieux du cas en l’espèce.
+EXPOSÉ DES FAITS
+[3] Les appelantes ont participé à la Global Learning Gifting Initiative (GLGI) au cours des années d’imposition 2006, 2007 et 2008. Par conséquent, elles ont prétendu avoir fait des dons de bienfaisance au sens de l’article 118.1 de la Loi de l’impôt sur le revenu [1] (LIR).
+[4] Le ministre du Revenu national (le ministre) a établi de nouvelles cotisations à l’égard des appelantes et a refusé leurs crédits d’impôt pour dons de bienfaisance. Les appelantes ont déposé un avis d’opposition à l’intérieur du délai prévu.
+[5] En décembre 2014, le ministre a envoyé une lettre à un grand nombre de participants au programme de dons de bienfaisance de la GLGI pour leur présenter une offre de règlement. Cette offre de règlement proposait en partie d’annuler les intérêts depuis la date de l’avis de nouvelle cotisation jusqu’au moment de l’offre. L’offre de règlement a expiré 30 jours après l’envoi de la lettre.
+[6] Les appelantes ont soutenu qu’elles avaient seulement eu connaissance de l’offre de règlement le 18 août 2016. Les appelantes ont demandé à l’Agence du revenu du Canada (Agence) de leur proposer la même offre de règlement, mais le ministre a refusé de le faire. Subsidiairement, les appelantes demandent à la Cour de prononcer une ordonnance de remise des intérêts accumulés sur leurs cotisations.
+QUESTIONS EN LITIGE
+[7] La Cour canadienne de l’impôt a-t-elle compétence pour accorder un allègement des intérêts?
+[8] La Cour canadienne de l’impôt a-t-elle compétence pour ordonner à l’intimée de présenter aux appelantes la même offre de règlement que celle formulée précédemment par le ministre?
+DISCUSSION
+Position des appelantes
+[9] Conformément au paragraphe 220(3.1) de la LIR, les appelantes ont demandé que le ministre annule les intérêts courus passés et futurs sur les arriérés d’impôt liés aux avis d’opposition. Les appelantes allèguent que le ministre a tardé à répondre à leurs avis d’opposition individuels parce qu’il attendait le prononcé d’un jugement dans une cause type. Elles font également valoir que le ministre n’a pas respecté ses obligations énoncées au paragraphe 165(3) de la LIR et qu’il a indûment retardé le règlement de leurs oppositions.
+[10] Subsidiairement, les appelantes demandent à l’intimée, qui est maintenant chargée de leur dossier, de leur faire une offre de règlement conforme à celles qui ont été faites par le ministre aux autres contribuables ayant participé à la GLGI. L’offre de règlement demandée aurait pour effet d’annuler les intérêts courus depuis la date de l’avis de nouvelle cotisation jusqu’à aujourd’hui. Pour appuyer de cette thèse, les appelantes soutiennent n’avoir jamais reçu l’offre initiale adressée aux autres membres du groupe de la GLGI.
+La thèse du ministre
+[11] L’intimée soutient que la Cour canadienne de l’impôt peut seulement déterminer si la cotisation portée en appel est exacte en regard des faits et du droit. Notre Cour ne peut pas accorder aux appelantes l’allègement pour des raisons liées à l’équité qu’elles demandent.
+[12] De plus, l’intimée soutient que les appelantes n’ont fait aucun don dans le cadre du programme leur donnant droit au crédit d’impôt pour dons de bienfaisance en cause, conformément au paragraphe 118.1(1) de la LIR.
+[13] En bref, avant d’entrer dans les détails des diverses lois qui doivent être examinées pour trancher les questions soumises à la Cour de l’impôt, la réparation demandée ne relève pas de la compétence de notre Cour. Par conséquent, je dois rejeter leurs deux appels. Les motifs à l’appui de cette conclusion se trouvent dans les suivantes.
+Compétence de la Cour canadienne de l’impôt
+[14] L’article 12 de la [2] Loi sur la Cour canadienne de l’impôt (LCCI) prévoit que la Cour canadienne de l’impôt a compétence pour entendre les appels interjetés aux termes de la LIR.
+[15] Le paragraphe 169(1) de la LIR prévoit ce qui suit :
+Appel
+169 (1) Lorsqu’un contribuable a signifié un avis d’opposition à une cotisation, prévu à l’article 165, il peut interjeter appel auprès de la Cour canadienne de l’impôt pour faire annuler ou modifier la cotisation :
+a) après que le ministre a ratifié la cotisation ou procédé à une nouvelle cotisation;
+b) après l’expiration des 90 jours qui suivent la signification de l’avis d’opposition sans que le ministre ait notifié au contribuable le fait qu’il a annulé ou ratifié la cotisation ou procédé à une nouvelle cotisation;
+toutefois, nul appel prévu au présent article ne peut être interjeté après l’expiration des 90 jours qui suivent la date où un avis a été envoyé au contribuable, en vertu de l’article 165, portant que le ministre a ratifié la cotisation ou procédé à une nouvelle cotisation.
+[Non souligné dans l’original.]
+[16] Le paragraphe 171(1) de la LIR prévoit comment la Cour peut trancher un appel :
+Règlement de l’appel
+171 (1) La Cour canadienne de l’impôt peut statuer sur un appel :
+a) en le rejetant;
+b) en l’admettant et en :
+(i) annulant la cotisation,
+(ii) modifiant la cotisation,
+(iii) déférant la cotisation au ministre pour nouvel examen et nouvelle cotisation.
+[Non souligné dans l’original.]
+[17] Le paragraphe 152(1) de la LIR prévoit que le ministre utilise la cotisation pour fixer l’impôt pour l’année :
+Cotisation
+152 (1) Le ministre, avec diligence, examine la déclaration de revenu d’un contribuable pour une année d’imposition, fixe l’impôt pour l’année, ainsi que les intérêts et les pénalités éventuels payables et détermine :
+a) le montant du remboursement éventuel auquel il a droit en vertu des articles 129, 131, 132 ou 133, pour l’année;
+(b) le montant d’impôt qui est réputé, par les paragraphes 120(2) ou (2.2), 122.5(3), 122.51(2), 122.7(2) ou (3), 122.8(4), 122.9(2), 122.91(1), 125.4(3), 125.5(3), 125.6(2), 127.1(1), 127.41(3) ou 210.2(3) ou (4), avoir été payé au titre de l’impôt payable par le contribuable en vertu de la présente partie pour l’année.
+[Non souligné dans l’original.]
+Allègement des intérêts
+[18] L’article 161 de la LIR prévoit que le contribuable « est tenu » de verser des intérêts sur tout excédent d’impôt impayé. Cette disposition est assujettie au pouvoir discrétionnaire du ministre de renonciation aux intérêts ou aux pénalités aux termes du paragraphe 220(3.1).
+Le paragraphe 220(3.1) de la LIR donne au ministre le pouvoir de renoncer aux intérêts payables en application de la LIR ou de les annuler. Le ministre peut exercer ce pouvoir à sa discrétion.
+Renonciation aux pénalités et aux intérêts
+220 (3.1) Le ministre peut, au plus tard le jour qui suit de dix années civiles la fin de l’année d’imposition d’un contribuable ou de l’exercice d’une société de personnes ou sur demande du contribuable ou de la société de personnes faite au plus tard ce jour-là, renoncer à tout ou partie d’un montant de pénalité ou d’intérêts payable par ailleurs par le contribuable ou la société de personnes en application de la présente loi pour cette année d’imposition ou cet exercice, ou l’annuler en tout ou en partie. Malgré les paragraphes 152(4) à (5), le ministre établit les cotisations voulues concernant les intérêts et pénalités payables par le contribuable ou la société de personnes pour tenir compte de pareille annulation.
+[Non souligné dans l’original.]
+[19] Habituellement, le contribuable doit soumettre un formulaire RC4288 Demande d’allègement pour les contribuables – Annuler des pénalités ou des intérêts ou y renoncer, puis le ministre peut accorder un allègement des intérêts si le contribuable est concerné par l’une des situations suivantes :
+1) des circonstances exceptionnelles;
+2) des actions de l’Agence du revenu du Canada;
+3) une incapacité de payer ou difficultés financières.
+4) d’autres circonstances.
+[20] Toutefois, un appel interjeté par suite de l’exercice du pouvoir discrétionnaire doit se faire au moyen d’un contrôle judiciaire à la Cour fédérale [3] . La Cour de l’impôt, d’origine législative, n’a pas compétence pour examiner ces dispositions d’allègement discrétionnaire ni pour accorder un allègement des intérêts [4] .
+[21] Dans la décision Housser v The Queen [5] , le juge McArthur a affirmé que la Cour canadienne de l’impôt n’a pas compétence pour accorder un allègement des intérêts puisque la décision relève du pouvoir discrétionnaire du ministre :
+[traduction]
+9 Les pouvoirs de cette Cour émanent de lois d’habilitation; il ne s’agit pas d’une cour jugeant selon l’equity.
+10 La Cour canadienne de l’impôt n’a pas compétence pour substituer sa propre opinion à celle du ministre, lorsque ce dernier tire une conclusion en application du paragraphe 220(3.1).
+11 On a reporté la Cour à l’affaire Floyd Estate v. M.N.R., 93 DTC 5499. Il s’agissait d’une demande de contrôle judiciaire fondée sur la Loi sur la Cour fédérale. La Cour a dit ceci, à la page 550 :
+Soulignons au départ qu’il n’appartient pas à la Cour de décider si les intérêts par ailleurs payables par la contribuable doivent faire l’objet d’une renonciation ou être annulés. Cela relève du pouvoir discrétionnaire du ministre. Tel que je le comprends, le rôle de la Cour dans le cadre de ce contrôle judiciaire consiste à déterminer si le ministre a manqué à l’obligation d’équité procédurale ou si sa décision est entachée d’une erreur de droit, cas qui sont prévus au paragraphe 18.1(4) de la Loi sur la Cour fédérale.
+La Cour a refusé d’examiner la question de fond de savoir si la décision était équitable pour le contribuable.
+12 Cette Cour ne reconsidérera pas la décision du ministre. La décision qui est rendue au fond à l’égard de la demande que l’appelant a présentée en vertu du paragraphe 220(3.1) relève du pouvoir discrétionnaire du ministre.
+[Non souligné dans l’original.]
+[22] Dans la décision Raby c. La Reine [6] , le juge Dussault a également formulé les observations suivantes :
+51 Comme je l’ai fait lors de l’audience, je rappelle que l’annulation des intérêts relève du pouvoir discrétionnaire conféré au ministre par le paragraphe 220(3.1) de la Loi. La Cour canadienne de l’impôt n’a aucun pouvoir à cet égard, sa compétence se limitant à déterminer le bien-fondé d’une cotisation. Si un contribuable qui s’est adressé au ministre pour faire annuler les intérêts est insatisfait de la décision rendue, il peut formuler une demande de contrôle judiciaire en Cour fédérale.
+[23] Dans Adamson c. La Reine [7] , le juge Mogan a analysé la jurisprudence relative au pouvoir discrétionnaire conféré au ministre aux termes du paragraphe 220(3.1) de la LIR :
+13 La deuxième raison pour supprimer ces éléments est basée sur le pouvoir discrétionnaire accordé au ministre en vertu du paragraphe 220(3.1) de la Loi de l’impôt sur le revenu. Dans La succession de feu Henry H. Floyd c. M.R.N., C.F. 1reinst., no T‑3086‑92, 30 septembre 1993 (93 DTC 5499), le juge Dubé, de la section de première instance de la Cour fédérale, a dit aux pages 3 et 4 (DTC : à la page 5500) :
+Le nouveau paragraphe 220(3.1) s’applique aux pénalités et à l’intérêt à partir de l’année d’imposition 1985, mais jusqu’ici il n’a été rendu aucune décision portant sur son interprétation.
+Soulignons au départ qu’il n’appartient pas à la Cour de décider si les intérêts par ailleurs payables par la contribuable doivent faire l’objet d’une renonciation ou être annulés. Cela relève du pouvoir discrétionnaire du ministre. Tel que je le comprends, le rôle de la Cour dans le cadre de ce contrôle judiciaire consiste à déterminer si le ministre a manqué à l’obligation d’équité procédurale ou si sa décision est entachée d’une erreur de droit, cas qui sont prévus au paragraphe 18.1(4) de la Loi sur la Cour fédérale.
+[Non souligné dans l’original.]
+[24] La jurisprudence est claire : si un contribuable souhaite obtenir le contrôle d’une décision rendue par le ministère relativement à un allègement des intérêts, il doit déposer une demande de contrôle judiciaire à la Cour fédérale en application de l’article 18.1 de la Loi sur les Cours fédérales [8] . Malheureusement, notre Cour ne peut pas accorder l’allègement demandée par les appelantes.
+Offre de règlement expirée
+[25] Dans la décision Amoroso c. Canada (Procureur général) [9] , la Cour fédérale a conclu qu’un appelant ne peut prétendre avoir droit à une offre de règlement qui lui a été présentée par le ministre pour renoncer aux intérêts si l’offre de règlement a expiré.
+[26] Il semble y avoir très peu de jurisprudence sur la question de savoir si la Cour de l’impôt peut ordonner à l’intimé de faire une offre de règlement particulière, peu importe les circonstances [10] .
+[27] Cela étant dit, il demeure manifeste, après avoir examiné la compétence de la Cour de l’impôt telle qu’elle est définie à l’article 171 de la LIR, que je ne peux obliger ni le ministre ni l’intimée à refaire une offre de règlement expirée à un appelant.
+CONCLUSION
+[27] Les appels des deux appelantes sont donc rejetés.
+Signé à Ottawa, Canada, ce 25e jour de novembre 2019.
+« R. MacPhee »
+Le juge MacPhee
+RÉFÉRENCE :
+2019 CCI 260
+No DU DOSSIER DE LA COUR :
+2017-394(IT)I
+INTITULÉ :
+MARIA WEIGERS c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+Le 31 octobre 2019
+MOTIFS DU JUGEMENT :
+L’honorable juge Ronald MacPhee
+DATE DU JUGEMENT :
+Le 25 novembre 2019
+COMPARUTIONS :
+Pour l’appelante, Maria Weigers :
+Représentant de l’appelante,
+Nicola DiLena:
+L’appelante elle-même
+Maria Weigers
+Avocats de l’intimée :
+Me Matthew Turnell
+Me Sandra K.S. Tsui
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+[EN BLANC]
+Cabinet :
+[EN BLANC]
+Pour l’intimée :
+Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa (Canada)
+[1] Loi de l’impôt sur le revenu, L.R.C. (1985), ch. 1 (5e suppl.)
+[2] Loi sur la Cour canadienne de l’impôt, L.R.C. (1985), ch. T-2.
+[3] Canada (Revenu national) c. Sifto Canada Corp., 2014 CAF 140, au paragraphe 23.
+[4] Ugro c. La Reine, 2011 CCI 317, aux paragraphes 23 à 26.
+[5] [1994] 2 C.T.C. 2233.
+[6] 2006 CCI 406.
+[7] [2002] 2 C.T.C. 2469.
+[8] Loi sur les Cours fédérales, L.R.C., 1985, ch. F-7.
+[9] 2013 CF 157.
+[10] Voir aussi l’arrêt Moledina c. La Reine, 2007 CCI 354.

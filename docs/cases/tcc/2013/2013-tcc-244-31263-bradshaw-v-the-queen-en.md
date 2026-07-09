@@ -1,0 +1,194 @@
+---
+title: "Bradshaw v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/31263/index.do"
+last_modified: "2013-08-06"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2013 TCC 244"
+citation2: ""
+neutral_citation: "2013 TCC 244"
+decision_date: "2013-08-06"
+language: "en"
+item_id: "31263"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5104
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T08:58:00.430000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "76f8b8553a41c6a55fbf8b7a918580fc59f2449e191911ea1c6d7a4c4154957e"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Bradshaw v. The Queen
+
+- Citation: 2013 TCC 244
+- Decision date: 2013-08-06
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5104, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Bradshaw v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2013-08-06
+Neutral citation
+2013 TCC 244
+File numbers
+2012-1408(IT)I
+Judges and Taxing Officers
+Valerie A. Miller
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2012-1408(IT)I
+BETWEEN:
+RICHARD BRADSHAW,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on May 10, 2013, at Toronto, Ontario
+Before: The Honourable Justice Valerie Miller
+Appearances:
+Agent for the Appellant:
+Bridge R. Bahadoor
+Counsel for the Respondent:
+Stephen Oakey
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessments made under the Income Tax Act for the Appellant’s 2008 and 2009 taxation years is allowed, without costs, and the matter is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the Appellant is entitled to deduct amounts for a dependent spouse for the 2008 and 2009 taxation years.
+The appeal from the reassessment made under the Income Tax Act for the 2007 taxation year is dismissed.
+Signed at Halifax, Nova Scotia, this 6th day of August 2013.
+“V.A. Miller”
+V.A. Miller J.
+Citation: 2013TCC244
+Date: 20130806
+Docket: 2012-1408(IT)I
+BETWEEN:
+RICHARD BRADSHAW,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+V.A. Miller J.
+Preliminary
+[1] Although the Appellant filed a notice of appeal for his 2007, 2008 and 2009 taxation years, it was apparent from the documents included with the notice of appeal that he had not served the Minister of National Revenue (the “Minister”) with a notice of objection for his 2007 and 2008 taxation years. On April 11, 2012, the Appellant applied to the Court for an extension of time to serve notices of objection for those years and the application was allowed by Order dated July 23, 2012.
+[2] At the hearing of this appeal, the Appellant requested that the appeal for his 2007 and 2008 taxation years be joined to the present appeal. As more than 90 days had elapsed since the Appellant sent the notices of objection to the Minister, I granted the Appellant’s request.
+[3] The witnesses at the hearing were the Appellant and Melissa Quan.
+Issues
+[4] The following issues relate to the Appellant’s 2007, 2008 and 2009 taxation years:
+(i) whether he had a rental operation;
+(ii) whether he incurred an interest expense of $1,462, $1,496 and $1,462 in 2007, 2008 and 2009 respectively; and,
+(iii) whether he was entitled to claim a non-refundable tax credit in respect of a dependent spouse or common-law partner.
+[5] An additional issue in his 2009 taxation year is whether the Appellant had an automobile repair business.
+Rental Operation and Interest Expense
+Facts
+[6] According to the Appellant, he and Melissa Quan (“Melissa”) had been co-workers; and, in 2003, she started to live with him and his family at 54 Giannarco Way. The house at 54 Giannarco Way was owned by the Appellant, his sister and his brother.
+[7] On December 11, 2005, the Appellant and Melissa purchased a townhouse at 37 Brahm Court in Vaughn, Ontario (the “Property”) as joint tenants. They purchased the townhouse while it was under construction and they both testified that they intended the Property to be an investment which they would use as a rental property. They also both testified that the Appellant did not have any money for the down-payment and that Melissa borrowed approximately $21,000 or $22,000 from her parents for the deposit on the Property.
+[8] It was the Appellant’s evidence that the interest expenses he claimed were amounts he paid to Melissa for making the deposit on the Property. In support of his statement, he tendered an exhibit entitled Promissory Note which was dated February 10, 2006 and signed by him. The Promissory Note read, in part:
+FOR VALUE RECEIVED, RICHARD BRADSHAW promises to pay Melissa Quan at Vauhan (sp) Ontario the sum of $21,000 upon the following terms;
+Payment of the sum of $21,000 with interest at 7% per annum shall be made and payable on the sale of my property at 54 Giannarco Way, Vaughan, Ontario L6A 3J2.
+[9] In either April or May 2007, the Appellant and his family sold 54 Giannarco Way and he rented an apartment. The purchase of the Property closed in August 2007. The Appellant stated that he moved into the Property in August 2007 because he was unsuccessful in finding a tenant to rent it. He testified that, in September 2007, he found a tenant to share the Property with him and he charged this tenant $800 monthly.
+[10] In his income tax returns the Appellant claimed the following rental losses:
+2007
+2008
+2009
+Income
+$3,200.00
+$7,200.00
+$7,200.00
+Maintenance &
+Repairs
+$4,346.00
+$4,672.50
+$3,780.00
+Insurance
+227.50
+234.00
+351.18
+Interest
+2,968.75
+7,896.00
+8,415.74
+Property Taxes
+725.00
+739.00
+1,704.47
+Utilities
+732.92
+1,563.97
+1,607.98
+Other Expenses
+318.00
+420.00
+472.50
+Total Expenses
+$9,318.17
+$15,495.37[1]
+$16,331.87
+Net Loss
+($6,118.17)
+($8,295.37)
+($9,131.87)
+Analysis
+[11] The Appellant’s evidence was vague, inconsistent within itself and with some of the documentary evidence. I have found that his testimony was not trustworthy and some of the documents which he submitted were fiction.
+[12] Both Melissa and the Appellant testified that they jointly purchased the Property as an investment and that Melissa paid the deposit of $21,000 or $22,000. They also testified that Melissa never lived in the Property. However, their testimony was not supported by the following documentary evidence.
+[13] According to the Promissory Note, Melissa made a loan to the Appellant of $21,000 and not an investment in the Property. The Note reads that the Appellant was to repay Melissa the sum of $21,000 with interest of 7% per annum.
+[14] The Appellant and Melissa signed an Agreement of Purchase and Sale for the Property on December 11, 2005. The deposit made was not $21,000 as alleged by them but $5,000 payable forthwith and $25,000 payable over a period of 180 days by post-dated cheques.
+[15] On April 7, 2008, the Appellant and Melissa signed an Agreement wherein they agreed that they were the registered owners as joint tenants of the Property and they wished to transfer sole ownership of the Property to the Appellant in accordance with a settlement which they had negotiated between themselves. According to this Agreement, Melissa had paid $24,000 while the Appellant had paid $46,000 towards the purchase of the Property. In this Agreement, they stated that they were cohabiting in the Property and that they had separated on or about November 26, 2007. The Agreement was prepared by their lawyer and signed by each of them.
+[16] It is my opinion that this Agreement reflected the true state of affairs between the Appellant and Melissa and I have concluded that they purchased the Property as their principal residence and not as an investment property.
+[17] It is my view that the Appellant did not rent out a portion of his home and the rental expenses claimed by him were really personal expenses. He was not able to produce any evidence to show that he tried to find a tenant for the Property prior to his moving into it in August 2007. In addition, Melissa testified that the Property was not used as a rental property at any time during the period she owned an interest in it. She was a joint owner in the Property until April 15, 2008.
+[18] The Appellant’s credibility with respect to whether the Property was a rental property was so shaken by Melissa’s evidence that I have concluded that the Property was never used as a rental property.
+[19] I have not been persuaded that the Appellant paid any amount to Melissa for interest expenses. At one point in his testimony the Appellant stated that he paid Melissa an interest amount in each of 2006, 2007 and 2008. Later, he stated that he paid Melissa all of the interest expense in May 2008. I note that he claimed an interest expense in his income tax returns in 2007, 2008 and 2009.
+[20] The Appellant’s assertion that he paid Melissa any amount as an interest expense conflicted with his testimony that Melissa had purchased the Property with him as an investment. If her deposit on the Property was her investment, then I question why the Appellant would have to pay interest to Melissa on this deposit. No explanation was given.
+Non-refundable Tax Credit
+[21] I have concluded from the documents submitted by the Appellant that he supported his present spouse in 2008 and 2009 and he is entitled to deduct amounts for a dependent spouse in those years.
+Automobile Repair Business
+[22] It was the Appellant’s evidence that he started a roadside automobile repair business in either January or February 2009. He had no employees and he earned approximately $4,000 or $6,000. He found his clients through word of mouth. He owned some tools and he rented other tools which he needed. In early March 2009, he injured his hand and had to have his friends drive him to his various jobs. He stopped his automobile repair business in 2009. The Appellant reported a business loss of $5,116.59 from this endeavour.
+[23] With respect to this issue, the Appellant’s testimony was vague, imprecise and unconvincing. Although he claimed to have incurred business expenses of $11,418.59, he was not able to submit any documents to support his claim. The Appellant has not established that he had an automobile repair business or that he incurred a business loss of $5,116.59 in 2009.
+[24] The appeal is allowed and the Appellant is entitled to deduct amounts for a dependent spouse for the 2008 and 2009 taxation years.
+Signed at Halifax, Nova Scotia, this 6th day of August 2013.
+“V.A. Miller”
+V.A. Miller J.
+CITATION: 2013TCC244
+COURT FILE NO.: 2012-1408(IT)I
+STYLE OF CAUSE: RICHARD BRADSHAW AND
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: May 10, 2013
+REASONS FOR JUDGMENT BY: The Honourable Justice Valerie Miller
+DATE OF JUDGMENT: August 6, 2013
+APPEARANCES:
+Agent for the Appellant:
+Bridge R. Bahadoor
+Counsel for the Respondent:
+Stephen Oakey
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] The total expenses listed in the Appellant’s 2008 income tax return actually total $15,525.47.

@@ -1,0 +1,151 @@
+---
+title: "Deschenes v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28171/index.do"
+last_modified: "2003-12-09"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 TCC 857"
+citation2: ""
+neutral_citation: "2003 TCC 857"
+decision_date: "2003-12-09"
+language: "en"
+item_id: "28171"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2017
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T17:22:34.034000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "18fb1808a39ac081c88a224f88cc0840599aa80fe126c0b83acb1478f4bde06a"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Deschenes v. M.N.R.
+
+- Citation: 2003 TCC 857
+- Decision date: 2003-12-09
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2017, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Deschenes v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-12-09
+Neutral citation
+2003 TCC 857
+File numbers
+2003-1149(EI)
+Judges and Taxing Officers
+Sylvio J. Savoie
+Subjects
+Employment Insurance Act
+Decision Content
+[official english translation]
+Docket: 2003-1149(EI)
+BETWEEN:
+MAXIME DESCHÊNES,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard on August 18, 2003, at Chicoutimi, Quebec
+Before: The Honourable S.J. Savoie, Deputy Judge
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Julie David
+____________________________________________________________________
+JUDGMENT
+The appeal is dismissed and the decision of the Minister is confirmed in accordance with the attached Reasons for Judgment.
+Signed at Grand-Barachois, New Brunswick, this 9th day of December 2003.
+“S.J. Savoie”
+Savoie, D.J.
+Certified true translation
+Manon Boucher
+Reference: 2003TCC857
+Date: 20031209
+Docket: 2003-1149(EI)
+BETWEEN:
+MAXIME DESCHÊNES,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGMENT
+Savoie, D.J.
+[1] This appeal was heard at Chicoutimi, Quebec, on August 18, 2003.
+[2] This is an appeal of the insurability of the employment of the Appellant, Maxime Deschênes, when working for Claude Deschênes, the Payer, during the period in question, from September 15 to October 24, 1997.
+[3] On January 31, 2003, the Minister of National Revenue (the “Minister”) informed the Appellant, the Payer and Human Resources Development Canada (HRDC) of the decision that the Appellant’s employment was not insurable because it did not meet the requirements of a contract of service and there was no employer-employee relationship between the Payer and the Appellant.
+[4] The Minister’s decision was based on the following presumptions of fact, admitted or denied by the Appellant:
+(a) During the period in question, the Payer was the sole owner of an agri-tourism farm he operated under the name “Ferme Cinq Étoiles.” (admitted)
+(b) The Appellant, the Payer’s cousin, had a skidder and a farm tractor. (admitted)
+(c) In September 1997, the Appellant was unemployed and offered his services, including his machinery, to the Payer. (admitted with specifications)
+(d) The Appellant claimed that he carried out a number of duties for the Payer, at 40 hours a week for 6 weeks, whereas he only worked 76 hours over 4 weeks. (denied)
+(e) On October 25, 1997, the Payer issued an employment record, number A62304374, in the Appellant’s name, indicating that from September 15 to October 24, 1997, he accumulated 240 hours of work and a total insurable salary of $3,300 (6 weeks at $550). (admitted)
+(f) In a statutory declaration signed and dated May 17, 2002, the Payer declared the following, among other things:
+[translation]
+Regarding the employment record number A62304374 issued to Maxime Deschênes on October 25, 1997, I admit that he worked 76 hours with his skidder and the invoice was split into six weeks so that I could issue him an employment record for 40 hours of work per week, from September 14 to October 25, 1997. He needed these hours to qualify for employment insurance. (denied)
+(g) In a statutory declaration signed and dated May 28, 2002, the Appellant declared the following, among other things:
+[translation]
+We agreed that when I worked with my skidder, it would be at $30 an hour and with the tractor, $35 an hour…I paid for everything: my employment insurance contributions, and the employer’s share, contributions to the Quebec Pension Plan, and the employer’s share. (admitted)
+Regarding the employment record A62304374, it is not true that I finished on October 24, 1997. I did not work 6 weeks at $550 per week. The actual weeks are those indicated in the handwritten notes. (denied)
+(h) During the period in question, the Appellant worked for the Payer using his own machinery and paying all the costs. (admitted)
+(i) Neither the Payer nor the Appellant have documents to confirm the actual hours worked by the Appellant in September and October 1997. (denied)
+(j) There was an agreement between the parties for the sole purpose of allowing the Appellant to collect employment insurance benefits. (denied)
+[5] The evidence presented at the hearing established all the presumptions the Appellant denied. In fact, Exhibits I-2 and I-3, the Appellant’s and the Payer’s statutory declarations, submitted as evidence at the hearing, confirm the Minister’s presumptions of fact at subparagraphs (f) and (g) above. The same goes for the Minister’s presumption of fact at (d). This presumption was confirmed by the Appellant in his statutory declaration, submitted into evidence as I-2. As for the presumption in subparagraph (i), it was confirmed by the evidence taken at the hearing.
+[6] In 1997, the Appellant had not worked enough to qualify for employment insurance benefits. He asked the Payer, his cousin, to hire him and his cousin refused, telling him he could not afford to. The Appellant returned later and this time offered his services with his skidder or tractor. This is when the Payer hired him.
+[7] The Payer therefore hired the Appellant with the condition that he use his skidder at $30 an hour and his tractor at $35 an hour. According to the arrangement, the worker would pay all the contributions, including the Payer’s share, to employment insurance, the Quebec Pension Plan, the Commission de la santé et de la sécurité du travail (CSST), the [Régie de l’]Assurance maladie, and the [Commission des] Normes du travail, through deductions of the money the Payer gave him.
+[8] The only documents that establish the working conditions were the Payer’s handwritten notes, which the Appellant agreed with. The Payer did not give the Appellant additional money for the costs related to using his equipment. The handwritten notes prepared by the Payer establish a number of hours worked, but do not include any dates.
+[9] It was shown that the Appellant noted his hours of work and then compared them with those of the Payer. When the Payer settled his salary, he threw away his notes; the Appellant therefore no longer had proof of his hours worked. As for the Payer, his notes have no dates.
+[10] It was shown that the Appellant remembered he had also worked in the Payer’s buildings. When this happened, the Payer established his salary at $10 an hour, but converted this time into “excavation hours,” one “excavation hour” of $30 for three hours of work in the buildings.
+[11] The Appellant had no choice but to supply his tractor and skidder to work for the Payer. He did not make any money because his salary did not cover the costs of his fuel and equipment. For example, he filled the tank of his tractor every evening, with 110 litres, and for his skidder, with 30 litres he could work for more than one day.
+[12] The Appellant had no choice but to pay the contributions, the employer’s share, even though he felt it was not normal.
+[13] The Appellant did not work 40 hours per week because he had to care for the animals at his own farm.
+[14] The evidence showed that the Payer compensated the Appellant for 76 hours of work at $30 or $35 an hour, but the Payer does not have the details of the distribution of these hours.
+[15] The evidence showed that the Payer had an “arrangement” with the Appellant. Since the Payer hauled wood out of areas that were hard to access and was paid for this work, he could hire the Appellant with his tractor and skidder.
+[16] The evidence also showed that the parties had an agreement through which the Appellant could qualify for employment insurance benefits.
+[17] As for the criteria to determine whether the Appellant’s employment was insurable, the facts only need to be considered in light of the criteria of control and ownership of the tools to find that such conditions were not the conditions that exist in a normal employer-employee relationship. The Appellant was in no way subject to the control of the Payer and there was no relationship of subordination between them. As for the tools used, especially the skidder and tractor, they were the property of the Appellant, who paid for the fuel himself in order to carry out his duties.
+[18] In circumstances similar to those in the present case, this Court, per Tardif J., wrote in Duplin v. Canada (Minister of National Revenue - M.N.R.), [2001] T.C.J. No. 136:
+... A genuine contract of service exists where a person performs work that is defined in time and generally described in a payroll journal, in return for which that person receives fair and reasonable remuneration from the payer, which must at all times have the power to control the actions of the person it is paying. The remuneration must correspond to the work performed for a defined period of time.
+...
+The fundamental components of a contract of service are essentially economic in nature. The records kept, such as payroll journals and records concerning the mode of remuneration, must be genuine and must also correspond to reality. For example, the payroll journal must record hours worked corresponding with the wages paid. Where a payroll journal records hours that were not worked or fails to record hours that were worked during the period shown, that is a serious indication of falsification...
+[19] Tardif J. made similar comments in Laverdière v. Canada (Minister of National Revenue - M.N.R.), [1999] T.C.J. No. 124, when he wrote:
+An employee under a genuine contract of service where a real relationship of subordination exists and where the performance of the work is subject to the payer's power to control must be paid solely on the basis of the work performed at the agreed rate; there is no room for other considerations such as generosity or accommodation. I have often said that unemployment insurance is a social initiative to assist those who truly lose their jobs and not a program of grants to help businesses or to benefit recipients who distort or modify the structure and terms of payment of the remuneration they are owed for the work they perform.
+Any agreement or arrangement involving the accumulation or spreading out of hours has the effect of invalidating the contract of service, especially since it creates a contractual relationship that is hardly or not at all conducive to the existence of a relationship of subordination, which is an essential component of a contract of service.
+[20] In the present case, it is important to consider, once again, statements made by Tardif J., this time in Acériculture Rémi Lachance et Fils Inc. v. Canada (Minister of National Revenue - M.N.R.), [1997] T.C.J. No. 1171, where he wrote:
+Unemployment insurance is not a small business support program; it is essentially a social program designed to assist people who have lost their jobs; specific conditions must be met for such assistance to be provided. There must be genuine employment necessitated by the economic reality of the business creating that employment. In other words, the employment periods must be determined essentially by the needs of the business.
+...
+To exclude these facts from the analysis, it is not sufficient to claim that this was not work or to play down the importance of this work done outside the periods at issue.
+...
+In the case at bar, the evidence clearly showed that there was no contract of service within the meaning of the Act; rather, the appellant did her work in the context of a joint, shared business. The two statutory declarations speak volumes about the lack of control over the appellant's work. Moreover, I do not accept the explanations provided by the appellant and her spouse with regard to the existence of a relationship of subordination; I believe that they have distorted reality.
+Unemployment insurance is a social program established to help those who really lose their jobs, whether temporarily or permanently; there must be genuine employment and a genuine layoff, since unemployment insurance is not a financial support program to help small businesses develop.
+[21] The facts in the present case were reviewed in light of the established case law concerning contracts of service and, in particular, Montreal v. Montreal Locomotive Works Ltd, [1947] 1 D.L.R. 161, Wiebe Door Services Ltd. v. M.N.R., [1986] 3 F.C. 553 (F.C.A.D.) and Canada (Attorney General) v. Rousselle, [1990] F.C.J. No. 990. The facts in the present case do not meet the criteria established in these cases.
+[22] As a result, this Court must find that the Appellant did not have insurable employment within the meaning of the Employment Insurance Act during the period in question since, during this period, he and the Payer were not bound by a contract of service within the meaning of paragraph 5(1)(a) of the Employment Insurance Act.
+[23] Moreover, this Court finds that there was an arrangement between the Payer and the Appellant for the sole purpose of making the Appellant eligible for employment insurance benefits.
+[24] As a result, the appeal is dismissed and the decision of the Minister is confirmed.
+Signed at Grand-Barachois, New Brunswick, this 9th day of December 2003.
+“S.J. Savoie”
+Savoie, D.J.
+Certified true translation
+Manon Boucher

@@ -1,0 +1,188 @@
+Title: Lienaux v. The King
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/521451/index.do
+Corpus path: corpus/cases/tcc/2025/2025-tcc-67-521451-lienaux-v-the-king.md
+Document type: case_law
+Last modified: 2025-05-02
+
+# Lienaux v. The King
+
+- Citation: 2025 TCC 67
+- Decision date: 2025-05-02
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6119, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Lienaux v. The King
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2025-05-02
+Neutral citation
+2025 TCC 67
+File numbers
+2024-947(IT)I
+Judges and Taxing Officers
+David E. Spiro
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2024-947(IT)I
+BETWEEN:
+CHARLES LIENAUX,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+Appeal heard on January 30, 2025, at Halifax, Nova Scotia with post-trial written submissions filed February 19, 2025, March 7, 2025, and March 20, 2025
+Before: The Honourable Justice David E. Spiro
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Roisin Boyle
+JUDGMENT
+The appeal from the reassessment of the Appellant’s 2019 taxation year is dismissed without costs.
+Signed this 2nd day of May 2025.
+“David E. Spiro”
+Spiro J.
+Citation: 2025 TCC 67
+Date: 20250502
+Docket: 2024-947(IT)I
+BETWEEN:
+CHARLES LIENAUX,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+REASONS FOR JUDGMENT
+Spiro J.
+[1] The issue in this appeal is whether the Appellant, Mr. Charles Lienaux, was carrying on business in 2019, the taxation year in which he claimed $15,436 as deductible business expenses. On reassessment, the deduction of those expenses was disallowed. It was for the Appellant to show that those expenses were incurred for the purpose of gaining or producing income under paragraph 18(1)(a) of the Income Tax Act (the “Act”). He failed to do so. His appeal of the reassessment for his 2019 taxation year must, therefore, be dismissed.
+Notice of Appeal [2] By way of his Notice of Appeal, the Appellant appealed a reassessment disallowing what he called “business startup costs” of $15,436 that he says he incurred in 2019.
+[3] Along with three other individuals, the Appellant incorporated Agkinex Inc. in December 2019 to carry on business in the field of agricultural technology. The allegations of fact in his Notice of Appeal included that:
+… a few months later Covid-19 struck and all of our field trials and activities were cancelled, thus causing the company to die before it ever got started.
+I spent the latter half of 2019 working on this business, having cashed $50,000+ in RRSPs to live off. I travelled many times from NS to PEI to meet with potato farmers and the ag tech group at UPEI to establish plans for field trials in early 2020. All this effort, and all this cash investment was wiped out when the world shut down.
+Reply [4] In the Reply, the Respondent set out the assumptions of fact made by the Minister of National Revenue (the “Minister”) in determining the Appellant’s tax liability for his 2019 taxation year.[1] At paragraph 6 of the Reply, the assumptions pleaded included that:
+(a) the Appellant is a chartered professional accountant;
+…
+(d) on December 11, 2019, the Appellant along with three other individuals founded and incorporated a business under the corporate name of Agkinex Inc. (the “Corporation”);
+(e) the Appellant did not receive any salary or wage from the Corporation during the 2019 taxation year;
+(f) the Corporation did not generate any income for the 2019 taxation year;
+(g) since its inception, the Corporation has not filed any income tax return and has not performed any business activity;
+(h) on November 7, 2022, the Corporation was involuntarily dissolved for non-compliance to the requirement of filing the annual reports for the 2020 and 2021 annual filing periods with Corporations Canada;
+…
+(m) during the 2019 taxation year, the Appellant did not operate any business as a sole proprietor or a partner;
+(n) the claimed amount of $15,436 was not incurred by the Appellant, as the Corporation’s business start-up costs;
+(o) the claimed … expenses in the amount of $15,436 were not incurred in the course of any … business activity performed by the Appellant during the 2019 taxation year.
+[Emphasis added]
+[5] The most important assumptions of fact are the last three – 6(m), 6(n), and 6(o). Paragraph 6 of the Reply also includes a breakdown of the expenses claimed by the Appellant. The largest was motor vehicle expenses of $11,605. The next largest were home office expenses of $1,550 and hotel expenses of $1,320. The rest were for supplies ($425), food, beverage, and entertainment ($293), and parking ($243).[2]
+Evidence [6] The Appellant was the only witness at trial. He gave his evidence orally and, with a view to corroborating his expense claims, produced two bundles of documents marked as Exhibits A-1 and A-2.[3]
+[7] Before the period at issue, the Appellant worked for several large companies in the telecommunications equipment field including Cisco Systems and Nortel. By early 2017, he felt “burned out from the corporate grind” and “wanted to get into trying to start a business”.[4]
+[8] To that end, the Appellant joined a company called Hanatech Inc. in Halifax, Nova Scotia. It was an IT company to which he was introduced by former colleagues at Cisco Systems. The Appellant was with Hanatech from 2017 to mid-2019.
+[9] It was then that the Appellant became interested in a new idea:
+… there was a need for precision agriculture, where climate change was affecting crops and there was all this new technology, sensors and rain gauges and … we were able to, sort of, populate fields with technology to help the farmers be more productive … and we were focused on potato farms, particularly.[5]
+…
+… Rollo Bay, for instance, so when you go back, we got the history from them, there were hundreds of potato growers in PEI, 50, 100 years ago.
+And over that time, as we get closer to the present, they continue to consolidate. And the number of -- of groups get smaller, even though the land, itself, is still used. And this -- this, actually, enhances the need for technology to help them sense what's going on in all these various locations because they don't have the staff to be present to know that maybe it rained in a certain area and it doesn't have to be watered, or it's windy here and they can't spray for potato mites or various things like that.[6]
+[10] With a view to pursuing this idea, the Appellant contacted the owners of two potato farms in PEI: the Keenan family who owned Rollo Bay and Mr. Chad Robertson who owned Marvyn’s Garden. Around the same time, the Appellant contacted the University of PEI School of Precision Agriculture.[7]
+[11] The Appellant – along with Mr. David Spriet[8] – travelled five times to meet with the Keenan family and Mr. Robertson in PEI in the second half of 2019. The cost of travelling to and from those meetings accounts for most of the Appellant’s claimed expenses. According to the Appellant:
+… we were meeting and -- and [as] mentioned in the e-mail, discovering, talking, learning. You know, what do you need, what can we build to serve you?[9]
+[12] On December 11, 2019, the Appellant and Mr. Spriet – along with two others – incorporated Agkinex Inc. Its registered head office was in Bedford, Nova Scotia, where the Appellant lived. Agkinex Inc. had four shareholders and directors:[10]
+Mr. Andrew McAuley, a software developer who built all the software;
+Mr. Bryce Walsh, who came from a telemetry background;
+Mr. David Spriet, whose expertise was marketing; and
+The Appellant.
+[13] In December 2019, the Appellant spoke to someone at Innovacorp – a venture capital group that finances start-ups in Nova Scotia – with a view to interesting them in investing in Agkinex Inc. The conversation was about potential options for early-stage funding for Agkinex Inc.[11] Funding was neither secured nor promised.
+[14] Field trials of the technology were scheduled for Rollo Bay and Marvyn’s Garden in March of 2020. A meeting invitation was sent out on January 2020 for a “field trial discussion” on March 20, 2020. That discussion did not occur in light of the COVID-19 shutdown.[12] The Appellant testified that “we had done a substantial amount of work in preparation for the field trials.”[13] That work included:
+drafting a proposal;
+holding a meeting of all four founders each week;
+working on the software;
+meeting by video with the Keenan family and Mr. Robertson;
+receiving input from the Keenan family and Mr. Robertson; and
+reworking the software they planned to use in the field trials.[14]
+[15] In the early days of March, 2020, Agkinex Inc. set up an exhibit at the Nova Scotia Department of Agriculture Minister’s Conference. When asked about its purpose, the Appellant testified:
+… for us, it was about becoming, you know, getting out into the public, meeting more farmers, because we were brand new … we were just building a name for ourselves and meeting more of our potential customers (INDISCERNIBLE) at the time.[15]
+[16] When the COVID-19 pandemic shut everything down in mid-March 2020, the Appellant told the Keenan family and Mr. Robertson that the field trials had to be cancelled. They were never rescheduled. Here is how the Appellant described the circumstances around the cancellation:
+… that field trial was a lot of work getting ready with the Keenans and with Chad Robertson, in terms of planning. The work we had to, you know, collect information on all the sensors and working up screens and software, which I've brought as evidence, all the work we did.
+And -- and what happened, the essence of what happened here is we -- we put in a ton of work in, sort of, the August to December -- well, even into 2020, but this relates to the 2019 tax. A ton of work. We were getting ready to go for our field trials in the spring, and then COVID hit and we basically hit a wall, and we had to shut down.[16]
+…
+MR. LIENAUX: PEI was shut down and we were not able to -- to go to the trials. So we had to -- everything was locked down and we had to tell the Keenans and Mr. Robertson that we couldn't -- couldn't continue with the field trials.[17]
+[17] As everything had ground to a halt, the Appellant began searching for work. In March 2020, almost immediately after the COVID-19 pandemic was declared, the Appellant joined a company called Blue Light Analytics Inc. It was a startup company funded by Invest Nova Scotia. He joined as CFO.[18] The company makes a testing device for the blue light used by dentists to cure fillings.
+[18] The Appellant continues to be involved with Blue Light Analytics. He also became involved with another startup company funded by Invest Nova Scotia - a company called Densitas Inc. which does AI analysis of mammography. The Appellant also joined Densitas as CFO.[19]
+Analysis [19] When does a business begin? The Federal Court of Appeal conveniently summarized the judicial interpretation of paragraph 18(1)(a) of the Act in this context in Vesuna v The Queen, 2022 FCA 58:
+[2] For his legal costs to be deductible, Mr. Vesuna had to show that they were incurred for the purpose of gaining or producing income from a business: Income Tax Act, R.S.C. 1985, c. 1 (5th Supp.), s. 18(1)(a). The Minister denied Mr. Vesuna’s business expense claim on a number of grounds, among which was the failure by the appellant to demonstrate that his business had commenced in 2014. That decision was upheld by the Tax Court, on the basis that Mr. Vesuna had taken some preliminary steps to advance an idea and therefore had a subjective intention to conduct a business, but had not actually taken the essential steps to commence that business.
+[3] It is well established that the essential elements of a business must have been in place for a taxpayer to be carrying on business, and that mere intention or the taking of preliminary steps is not sufficient: Gartry v. Canada, [1994] 2 C.T.C. 2021, 94 D.T.C. 1947 at 1949, cited in Morris v. R., 2014 TCC 142, [2014] 5 C.T.C. 2099, Tiede v. R., 2011 TCC 84, [2011] 3 C.T.C. 2153 at para. 12 and Hourie v. R., 2010 TCC 525, 2010 D.T.C. 1378; MacDonald v. R., [1997] 1 C.T.C. 2501, 97 D.T.C. 1554 (T.C.C.) at para. 18; Samson & Frères Ltée c. R., [1995] TCJ No. 1385, 97 D.T.C. 642 at para. 22 (T.C.C.), cited in Tri-O-Cycles Concept Inc. c. R., 2009 TCC 632, 2010 D.T.C. 1030 at paras. 21-23 and Malin v. R., 2007 TCC 516, [2008] 2 C.T.C. 2055. It is not in dispute that the Tax Court Judge applied that legal test.
+[Emphasis added]
+[20] The first decision cited by the Federal Court of Appeal in Vesuna was Judge Bowman’s decision in Gartry v The Queen, [1994] 2 CTC 2021; 94 DTC 1947; 1994 CanLII 19352 (TCC). In Gartry, the appellant had converted, at considerable cost, a surplus naval vessel into a boat equipped to collect the daily catch from a number of fishing vessels and bring them into port for a fee. The appellant’s expenses of $25,500 were disallowed because the boat sunk before any income could be earned which, in the Minister’s view, meant that the appellant’s business had not yet commenced. In allowing the appeal, Judge Bowman wrote:
+… In determining when a business has commenced, it is not realistic to fix the time either at the moment when money starts being earned from the trading or manufacturing operation or the provision of services or, at the other extreme, when the intention to start the business is first formed. Each case turns on its own facts, but where a taxpayer has taken significant and essential steps that are necessary to the carrying on of the business it is fair to conclude that the business has started. That is certainly the case here. The appellant had borrowed money, agreed to buy the boat, arranged for a crew, obtained the necessary licences, arranged with a substantial number of owners of boats with "G" licences to utilize his services when the boat became available, arranged and paid for modifications to be made to the boat and placed insurance. In my view the business had been commenced and was well underway when the expenses in question were incurred.[20]
+[21] It is instructive to compare the steps taken in Gartry with the steps taken by the Appellant in 2019. The steps taken in Gartry included:
+borrowing money;
+agreeing to buy the boat;
+arranging for a crew for the boat;
+obtaining the necessary licences for the boat;
+arranging with owners of other boats to utilize the appellant’s services when his boat became available;
+arranging and paying for modifications to be made to the appellant’s boat; and
+placing insurance on the appellant’s boat.
+[22] These are a far cry from the preliminary steps taken by the Appellant in 2019. Putting his evidence at its highest, the Appellant was heavily engaged in preparing for field trials scheduled to take place on two potato farms in March 2020. The field trials themselves were preliminary steps that had to be taken before going to market. Any expenses incurred by the Appellant in 2019 were incurred in the taking of preliminary steps well before the commencement of any business.
+[23] The Appellant’s appeal must be dismissed because he failed to demolish the following assumptions of fact made by the Minister in determining his tax liability for his 2019 taxation year:
+(m) during the 2019 taxation year, the Appellant did not operate any business as a sole proprietor or a partner;
+(n) the claimed amount of $15,436 was not incurred by the Appellant, as the Corporation’s business start-up costs;
+(o) the claimed … expenses in the amount of $15,436 were not incurred in the course of any … business activity performed by the Appellant during the 2019 taxation year.
+[24] In concluding his evidence, the Appellant made a final plea for relief:
+… the essence of the reason that I'm here today is that I expended significant effort, costs, in the latter half of 2019, trying to get this company going. It came to an abrupt end and I just wanted -- you know, I feel like I -- I'm being taxe[d] as well on the dollars that I spent to try to get it going. I'm looking for some relief on that.[21]
+[25] The Appellant is an articulate and accomplished individual with a great deal of energy and a highly desirable set of skills. But the expenses he incurred in 2019 are not deductible in light of the judicial interpretation of paragraph 18(1)(a) of the Act as summarized in the decision of the Federal Court of Appeal in Vesuna.
+[26] For all of the above reasons, the appeal must be dismissed.
+Signed this 2nd day of May 2025.
+“David E. Spiro”
+Spiro J.
+CITATION:
+2025 TCC 67
+COURT FILE NO.:
+2024-947(IT)I
+STYLE OF CAUSE:
+CHARLES LIENAUX AND HIS MAJESTY THE KING
+PLACE OF HEARING:
+Halifax, Nova Scotia
+DATE OF HEARING:
+January 30, 2025 with post-trial written submissions filed on February 19, 2025, March 7, 2025, and March 20, 2025
+REASONS FOR JUDGMENT BY:
+The Honourable Justice David E. Spiro
+DATE OF JUDGMENT:
+May 2, 2025
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Roisin Boyle
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+N/A
+Firm:
+N/A
+For the Respondent:
+Shalene Curtis-Micallef Deputy Attorney General of Canada Ottawa, Canada
+[1] Assumptions of fact pleaded in the Reply included those made at the appeals stage. The pleading of those assumptions cast the onus of proof on the Appellant to demolish them (see the Federal Court of Appeal decision in Anchor Pointe Energy Ltd. v The Queen, [2007] 4 CTC 5; 2007 DTC 5379). The Appellant filed his 2019 return on the basis that the expenses were employment expenses but, on objection, claimed them as business startup costs.
+[2] Paragraph 6(i) of the Reply.
+[3] In his written submissions, the Appellant included new documents that he did not produce at the hearing. During the trial, I extended several opportunities to the Appellant to bring forward his documents (see, for example, page 3 of the transcript at lines 1-15; page 4 of the transcript at lines 10-15; page 12 of the transcript, line 24 to page 13, line 1; and page 84 of the transcript at lines 12-15). Even if the new documents were otherwise admissible, their prejudicial effect on the trial process (i.e., reconvening the hearing to allow the Crown an opportunity to cross-examine on them) would outweigh whatever modest probative value they might have had. In any event, the new documents would not have tipped the balance of probabilities in favour of the Appellant and would, therefore, not have changed the result.
+[4] Transcript, page 17, lines 23-25.
+[5] Transcript, page 18, lines 12-20.
+[6] Transcript, page 33, lines 9-24.
+[7] What, if anything, the Appellant did with that institution was never made clear.
+[8] Mr. Spriet was one of four founders of Agkinex Inc.
+[9] Transcript, page 33, lines 25-28.
+[10] Transcript, page 34, lines 6-15.
+[11] Transcript, page 30, line 27 to page 31, line 4.
+[12] Transcript, page 34, lines 17-25.
+[13] Transcript, page 36, lines 11-13.
+[14] Transcript, page 38, line 7 to page 39, line 19.
+[15] Transcript, page 41, lines 15-23.
+[16] Transcript, page 23, lines 12-28.
+[17] Transcript, page 25, lines 13-17.
+[18] Transcript, page 48, line 8 to page 49, line 8.
+[19] Transcript, page 50, lines 18-26.
+[20] Gartry, at 2025 (CTC) and 1949 (DTC).
+[21] Transcript, page 51, lines 9-20.

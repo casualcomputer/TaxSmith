@@ -1,0 +1,88 @@
+Title: Aizenberg v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28403/index.do
+Corpus path: corpus/cases/tcc/2008/2008-tcc-19-28403-aizenberg-v-the-queen-en.md
+Document type: case_law
+Last modified: 2008-01-23
+
+# Aizenberg v. The Queen
+
+- Citation: 2008 TCC 19
+- Decision date: 2008-01-23
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1566, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Aizenberg v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-01-23
+Neutral citation
+2008 TCC 19
+File numbers
+2007-3213(IT)I
+Judges and Taxing Officers
+Cameron Hugh McArthur
+Subjects
+Income Tax Act
+Decision Content
+Citation: 2008TCC19
+Date: 20080123
+Docket: 2007-3213(IT)I
+BETWEEN:
+HYMAN M. AIZENBERG,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+For the Appellant: The Appellant himself
+Counsel for the Respondent: Simon-Nicolas Crépin
+REASONS FOR JUDGMENT
+(Delivered orally from the Bench
+on December 10, 2007, in Montreal, Quebec)
+McArthur J.
+[1] These are appeals by Hyman Aizenberg from reassessments by the Minister of National Revenue for his 2000, 2001, 2002, 2003 and 2004 taxation years based on arbitrary returns completed and entered by the Minister as Exhibit R-1. The Appellant replied some time later with his own completed returns which were entered as Exhibit R-2.
+[2] The Respondent’s witness, Michel Lavigne, an investigation officer with Canada Revenue Agency, explained that the arbitrary assessments were done as a last resort having made all reasonable requests to the Appellant to file his own returns. The Reply to the Notice of Appeal contains in paragraph 9 facts assumed by the Minister, some of which are set out below and commented on.
+a) The Appellant operated a messenger and delivery service business;
+[3] This raised the question of whether the Appellant was an employee or an independent contractor. I have no problem in concluding that the Appellant was an independent contractor from the Appellant’s evidence and in his claim to deduct expenses as an independent contractor. Also, a letter from Richler & Tabasco, the Appellant’s accountants, was entered as Exhibit A-1, and confirms that management fees were paid to the Appellant from his company in 1998 and 1999. The Appellant may have been an employee of his own company during those years, but in the years under appeal, he was no longer operating the company and everything that we heard in evidence this morning leads me to conclude that he was an independent contractor, although the evidence was so unclear, I do not know exactly what the Appellant did and certainly, there was no evidence whatsoever that he worked for somebody other than himself.
+[4] Also, the Minister assumed that the Appellant operated the business from his own residence. There was no evidence in this regard one way or the other, and I will accept that.
+c) The Minister based the assessments for the taxation years on the information slips that were available, and projected the business income for the taxation years from the amount that was assessed for the taxation year prior to the 2000 taxation year, det5ails per Annex A, attached;
+[5] I do not believe it is contested that the Appellant received dividends or interest from the Royal Canadian Money Market Fund in the amount of $3,100 and, I believe, with other income, He admitted that this part of his income was about $4,000 in any event, and that is not in dispute.
+d) In calculating the taxable capital gains for the disposition per information slip T5008 for the 22001, 2002 and 2003 taxation years, the Minister allowed as cost base ½ of the proceeds of disposition as per amount indicated on the information slips;
+[6] Of course, this was required under subsection 67.1(1) of the Income Tax Act, and was not contested by the Appellant.
+e) In filing the income tax returns of July 24, 2006, the Appellant declared amounts as per Annex B for the taxation years.
+Annex B is an analysis of the returns that were finally, after many, many requests and demands and arbitrary assessments, filed by the Appellant, and which are entered in Exhibit R-2. I will just refer to the 2000 taxation year where the Minister referred to a taxable income of $28,000, and the Appellant showed a loss of $12,000. The difference is about $40,000, and that continues through the years. The Minister, in 2001, showed a net income of $38,000 and the Appellant showed a net income of $9,900. These differing amounts lead me to question the Minister’s arbitrary assessments.
+[7] The Respondent referred to the earlier years of 1998 and 1999, where the Appellant did file returns and declared approximately $17,000 in income. Projected from that, the Minister concluded that the income in the years in question was $24,000, $26,000 and appreciating in each of the years in question. The Minister, in doing the best he could with what was available to his agents and officers, arrived at the arbitrary figures.
+[8] What disturbs me is the question of expenses. There is no doubt, and I believe in anybody’s mind, that from the arbitrary amounts of income, an amount for expenses should realistically be deducted. However, no amounts were deducted because the Appellant was uncooperative in providing the expenses he had. Apparently, he has boxes of receipts, but he requested from the Minister that he be permitted to present these boxes one year at a time, have the Minister photocopy the invoices and receipts and return the box to him, probably while he waited. Of course, this was refused so the invoices were never examined.
+[9] The Appellant, I find, is an honest and an emotional person who has gone through difficult times particularly in 2002 and 2003 with a sickness, and I think the death of his mother with whom he then lived.
+[10] The calculation by the Minister was a rough and ready one because it was a last resort since the Appellant had gone years without filing returns. All reasonable efforts were taken to have the Appellant file returns, but this was not done until July 2006. The returns that the Appellant provided were not accepted, at least, the amounts were not accepted by the Minister and the biggest concern was he, in his version of the returns, indicated expenses of, well, for instance, in 2000, expenses of $17,192 which he refers to as carrying charges and interest and then on the following page in his return, he shows the same amount, $17,192 as bad debts. This is more than his income of $8,234 which he showed from the business and $4,000 from the Market Fund of the Royal Bank.
+[11] This leaves me in a difficult position having to arrive at a decision and taking into account that the Minister’s assessments were arbitrary, were guesswork based on the best information the Minister had in front of him, and the Appellant’s returns which were not acceptable to the Minister. Also, I can point out that the Appellant prepared a list of carrying charges and interest expense (Exhibit R-3) that a further witness for the Respondent, Ms. Thiffault, an appeals officer, found incomprehensible or could not be justified because there were no receipts, and there was no separation between business and personal expenses, and no indication of how these expenses set out on computer forms were accumulated for the purposes of earning income.
+[12] In conclusion, I accept the income as presented by the Minister but against that income, I am prepared to arbitrarily grant to the Appellant expenses for each year commencing with the year 2000 in the amount of $12,000 to offset the income. That amount will be increased by the amount of $1,500 a year for each year. So, the expenses in 2001 will be $13,500, in 2002, expenses of $15,000, 2003, $16,500, and 2004, expenses of $18,000.
+[13] The amounts of income assessed by the Minister as contained in Annex A of the Reply to the Notice of Appeal shall remain, but against those amounts in each year, the Appellant shall claim the expenses as indicated.
+Signed at Ottawa, Canada, this 23rd day of January, 2008.
+“C.H. McArthur”
+McArthur J.
+CITATION: 2008TCC19
+COURT FILE NO.: 2007-3213(IT)I
+STYLE OF CAUSE: HYMAN M. AIZENBERG and
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: Montreal, Quebec
+DATE OF HEARING: December 10, 2007
+REASONS FOR JUDGEMENT BY: The Honourable Justice C.H. McArthur
+DATE OF JUDGMENT: December 21, 2007
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Simon-Nicolas Crépin
+COUNSEL OF RECORD:
+For the Appellant:
+Name: N/A
+Firm: N/A
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

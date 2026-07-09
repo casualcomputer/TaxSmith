@@ -1,0 +1,115 @@
+Title: Ng Leung v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26693/index.do
+Corpus path: corpus/cases/tcc/2005/2005-tcc-552-26693-ng-leung-v-the-queen-en.md
+Document type: case_law
+Last modified: 2005-08-26
+
+# Ng Leung v. The Queen
+
+- Citation: 2005 TCC 552
+- Decision date: 2005-08-26
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3439, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Ng Leung v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-08-26
+Neutral citation
+2005 TCC 552
+File numbers
+2004-4343(IT)I
+Judges and Taxing Officers
+David W. Beaubier
+Subjects
+Income Tax Act
+Decision Content
+Citation: 2005TCC552
+Date: 20050826
+Docket: 2004-4343(IT)I
+BETWEEN:
+WENDY NG LEUNG,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Beaubier, J.
+[1] This appeal, pursuant to the Informal Procedure, was heard at Vancouver, British Columbia, on July 27, 2005. The Appellant was the only witness.
+[2] The particulars in dispute are detailed in paragraphs 8 to 15 of the Reply to the Notice of Appeal. They read:
+8. By way of a GSTC Notice dated May 28, 2004 in respect of the 2001 Base Year, the Minister advised the Appellant that her entitlement to the GSTC had been reviewed based on a change to the Appellant's marital information and as a result it had been determined that she had been underpaid by $650 in respect of the period from July 2002 to April 2003. The Appellant's GSTC entitlement in respect of the 2000 Base Year was also reviewed, however, no adjustment was made and no Notice was issued in respect of the 2000 Base Year in respect of the GSTC.
+9. The Appellant objected to the CTB Notices and the GSTC Notice ("Notices"). By way of a Notice of Confirmation dated August 11, 2004, the Minister confirmed the Notices as follows:
+In respect of the CTB Notices, on the basis that, in accordance with subsection 122.62(6) of the Act, the Appellant was required to elect to change her marital status before the end of the 11th month of her separation from her cohabiting spouse and therefore for the purpose of determining her CTB, June 2003 is the effective date for the benefit recalculations; and in respect of the GSTC Notice, that a GSTC of $650 was calculated in accordance with subsection 122.5(3) of the Act in respect of the Appellant and her qualified dependants.
+10. In issuing the Notices and confirming them, the Minister assumed the same facts, as follows:
+a) the 2000 taxation year is the base year for the period from July 2001 to June 2002;
+b) the 2001 taxation year is the base year for the period from July 2002 to June 2003;
+c) the Appellant was married to Patrick Leung ("Patrick")
+d) the Appellant and Patrick were divorced on September 6, 2004;
+e) the Appellant and Patrick are the parents of the Children and at all relevant times, the Children resided with the Appellant;
+f) the Appellant filed her Return of Income for the 2000 taxation year on March 11, 2001 reporting her marital status as Married and her net income as $15,540;
+g) the Appellant filed her Return of Income for the 2001 taxation year on April 30, 2002 not indicating her marital status and reporting her net income as $25,513;
+h) Patrick filed his Returns of Income for the 2000 and 2001 taxation years reporting his marital status as Married and reporting net income of $46,033 and $49,374, respectively; and
+i) the Appellant advised the Minister on May 6, 2004 that her marital status had changed from Married to Separated effective January 2002.
+B. ISSUE TO BE DECIDED
+11. The issue is whether the Appellant was entitled to increased CTB payments in respect of the period from April 2002 to May 2003 and to increased GSTC payments for January 2002 and April 2002.
+C. STAUTORY PROVISIONS RELIED ON
+12. He relies on sections 122.5, 122.6, 122.61 and 122.62 of the Act, as amended for the 2000 and 2001 Base Years.
+D.GROUNDS RELIED ON AND RELIEF SOUGHT
+13. He submits that the Appellant was the eligible individual in respect to the Children for the periods in question and was the person entitled to the CTB in respect of the Children in the periods from July 2001 to June 2002 and from July 2002 to June 2003.
+14. He submits further that since the Appellant did not advise the Minister of the change in her marital status from Married to Separated until May 6, 2004, the effective date for retroactive recalculation of the Appellant's entitlement to the CTB has been correctly determined to be June 2003, which is eleven months prior to May 6, 2004 as set out in subsection 122.6(6) of the Act.
+15. He submits that the Minister has properly determined the amount of the GSTC to which the Appellant was entitled in respect of the 2001 Base Year in accordance with section 122.5 of the Act.
+"GSTC Notice" is Goods and Services Tax Credit Notice; "CTB" is Child Tax Benefit.
+[3] Assumption 10(i) was refuted. The Appellant filed a Marital Status Change Notice on February 11, 2004. For this reason, Crown Counsel admitted that the Appellant's appeal should be allowed for the months of March, April and May, 2003; that is allowed by the Court. The remaining assumptions were not refuted.
+[4] At the outset, Crown Counsel moved that the appeal respecting the GST credit for the 2000 base year should be quashed as there was no Notice of Determination for that base year.
+[5] The Appellant and her husband separated in January, 2002, when he moved out of the matrimonial home. As stated, she filed the Notice with C.R.A. on February 11, 2004 (Exhibit R-5), approximately 25 months after their separation. Paragraph 9 of the Reply, as quoted, describes a part of the statutory problem which arises from this delay. The Appellant stated that she was too emotionally distraught before February 2004, to deal with the C.R.A. problems arising from the separation. She is believed.
+[6] Subsections 122.62 (1) to (4) and (6) read:
+122.62. (1) For the purposes of this subdivision, a person may be considered to be an eligible individual in respect of a particular qualified dependant at the beginning of a month only if the person has, no later than 11 months after the end of the month, filed with the Minister a notice in prescribed form containing prescribed information.
+(2) The Minister may at any time extend the time for filing a notice under subsection 122.62(1).
+(3) Where at the beginning of 1993 a person is an eligible individual in respect of a qualified dependant, subsection 122.62(1) does not apply to the person in respect of the qualified dependant if the qualified dependant was an eligible child (within the meaning assigned by subsection 122.2(2) because of subparagraph (a)(i) of the definition "eligible child" in that subsection) of the individual for the 1992 taxation year.
+(4) Where during a particular month a person ceases to be an eligible individual in respect of a particular qualified dependant (otherwise than because of the qualified dependant attaining the age of 18 years), the person shall notify the Minister of that fact before the end of the first month following the particular month.
+...
+(6) Where
+(a) before the end of a particular month an eligible individual in respect of a qualified dependant begins to live separate and apart from the individual's cohabiting spouse or common-law partner, because of a breakdown of their marriage or common-law partnership, for a period of at least 90 days that includes a day in the particular month, and
+(b) the individual so elects, before the end of the eleventh month after the particular month, in a form that is acceptable to the Minister,
+for the purpose of determining the amount deemed under subsection 122.61(1) to be an overpayment arising in any month after the particular month on account of the individual's liability under this Part for the base taxation year in relation to the particular month, subject to any subsequent election under subsection 122.62(5) or 122.62(7), the individual's adjusted income for the year is deemed to be equal to the individual's income for the year.
+(c) (Repealed by S.C. 1998, c. 21, s. 95.)
+(d) (Repealed by S.C. 1998, c. 21, s. 95.)
+[7] Respecting section 122.62:
+1. Subsection 122.62(6) is for the purpose of determining an overpayment.
+2. Subsection 122.62(1) and (2) only deal with the filer of the Notice. But they do so for the benefit of a qualified dependant and not for the purpose of the spouses.
+3. Their children resided with the Appellant. It is their benefit which is the subject of the provisions in question. They are not parties to this appeal.
+4. It is the children's concern that the Minister must have in mind when determining whether to extend the time pursuant to subsection 122.62(2).
+[8] Respecting the GST credit, paragraph 152(4.2)(b) allows the Appellant to request the Minister to do a reassessment or a redetermination under subsection 122.5(3). Pursuant to this provision, it appears that the Appellant may file "a return of income for the taxation year and (apply) for an amount" under subsection 122.5(3), by means of an amended income tax return and application for her income tax year ending December 31, 2002, the said application to include a Notice similar to Exhibit R-5. Effective May 13, 2005, subsection 152(4.2) now states:
+152(4.2)
+Notwithstanding subsections (4), (4.1) and (5), for the purpose of determining, at any time after the expiration of the normal reassessment period of a taxpayer who is an individual (other than a trust) or a testamentary trust in respect of a taxation year, the amount of any refund to which the taxpayer is entitled at that time for that year, or a reduction of an amount payable under this Part by the taxpayer for that year, the Minister may, if the taxpayer makes an application for that determination on or before the day that is ten calendar years after the end of that taxation year,
+(a) reassess tax, interest or penalties payable under this Part by the taxpayer in respect of that year, and
+(b) redetermine the amount, if any, deemed by subsection 120(2) or (2.2), 122.5(3), 122.51(2), 127.1(1), 127.41(3) or 210.2(3) or (4) to be paid on account of the taxpayer's tax payable under this Part for the year or deemed by subsection 122.61(1) to be an overpayment on account of the taxpayer's liability under this Part for the year.
+[9] For these reasons, this matter is adjourned until September 22, 2005 at 9:00 a.m. at the Tax Court of Canada in Vancouver, British Columbia, during which interval the Minister may chose to extend the Appellant's time to a later date pursuant to subsection 152(4.2).
+Signed at Regina, Saskatchewan, this 26th day of August 2005.
+"D.W. Beaubier"
+Beaubier, J.
+CITATION: 2005TCC552
+COURT FILE NO.: 2004-4343(IT)I
+STYLE OF CAUSE: Wendy Ng Leung v. The Queen
+PLACE OF HEARING: Vancouver, British Columbia
+DATE OF HEARING: July 27, 2005
+REASONS FOR JUDGMENT BY: The Honourable Justice D.W. Beaubier
+DATE OF JUDGMENT: August 26, 2005
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+John Gibb-Carsley
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Ontario

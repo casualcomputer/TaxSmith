@@ -1,0 +1,159 @@
+---
+title: "ViaLink Inc. v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29228/index.do"
+last_modified: "2009-02-20"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 TCC 257"
+citation2: ""
+neutral_citation: "2009 TCC 257"
+decision_date: "2009-02-20"
+language: "en"
+item_id: "29228"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7029
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T01:32:37.521000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "de97444acfb11057e1b18cc11356a8e12637612317bdf359f7a041f9495c0aa9"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# ViaLink Inc. v. The Queen
+
+- Citation: 2009 TCC 257
+- Decision date: 2009-02-20
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7029, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+ViaLink Inc. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2009-02-20
+Neutral citation
+2009 TCC 257
+File numbers
+2006-705(IT)G
+Judges and Taxing Officers
+Diane Campbell
+Subjects
+Income Tax Act
+Decision Content
+Citation: 2009TCC257
+Date: 20090521
+Dockets: 2006-705(IT)G
+2006-841(IT)G
+BETWEEN:
+VIALINK INC.,
+HUBERT WATT,
+Appellants,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS RESPECTING SUBMISSIONS ON COSTS
+Campbell J.
+[1] The parties have been unable to agree on the issue of costs and, as a result, pursuant to paragraph 70 of my Reasons for Judgment, written submissions have been filed setting out their respective positions.
+[2] The Canada Revenue Agency (the “CRA”) completed a net worth assessment of Hubert Watt and determined that he underreported his income in the 2000, 2001 and 2002 taxation years in the amounts of $45,767.27, $76,878.56 and $234,580.97 respectively. A bank deposit analysis was completed in respect to Mr. Watt’s company, Vialink Inc. (“Vialink”), and it was determined that the company had underreported its income in the 2001 and 2002 taxation years, in the amounts of $122,197.00 and $5,878.00 respectively. Gross negligence penalties were also imposed under subsection 163(2) of the Income Tax Act (the “Act”).
+[3] The appeals were allowed to permit the additional amount of $25,302.17 in respect of business expenses for Vialink in the 2001 taxation year, to permit an adjustment to penalties that was not made when changes were made to the shareholder appropriation figures, and to permit interest relief for a six month delay on the part of the Minister of National Revenue (the “Minister”). Other than these items, the Minister’s reassessments were upheld. The reassessments were left for the most part undisturbed largely due to credibility issues with the Appellants as reflected in falsified documents, misleading information and indifferent actions taken by Mr. Watt.
+[4] The Appellants submit that costs of $54,700.00 inclusive of disbursements were incurred, although their submissions did not contain a breakdown of the services. However, the Appellants are suggesting an award of costs of at least $30,000.00 which is based on the allowance of additional expenses on the corporate return and the fact, as alleged by the Appellants, that the Respondent continued to push the appeals through the court system when settlement was possible.
+[5] The Respondent seeks party and party costs as per Schedule II, Tariff B, in accordance with subsection 147(4) of the Tax Court of Canada Rules (the “Rules”) based on the submission that the Respondent was generally successful in both appeals.
+[6] The Respondent submits that, although concessions were made respecting expenses for Vialink in the 2001 taxation year, the amount was only a small portion of the assessed income of both Appellants and the concessions were based on the late production of documents during the hearing instead of the discovery process. In addition, two other adjustments respecting penalties and interest were made but they were minor amounts in relation to the total amounts at issue.
+[7] The Respondent’s Bill of Costs requests $10,134.05 for both fees and disbursements in respect to Mr. Watt’s appeal and $10,134.06 for fees and disbursements in respect to Vialink’s appeal.
+[8] The Court has a broad discretion in awarding costs pursuant to section 147 of the Rules. In Merchant v. The Queen, 98 DTC 1734, Bowman J. (as he was then) stated at paragraph 58 that:
+… The general rule is that a successful litigant is entitled to party and party costs. Where success is divided it is not unusual for no order to be made for costs. …
+[9] As stated in Merchant, to depart from the usual rule requires unusual circumstances. For a successful or partially successful litigant:
+(a) to be deprived of costs,
+(b) to be ordered to pay party and party costs,
+(c) to be ordered to pay costs to the other party on a solicitor and client basis,
+requires a measure of reprehensibility.
+[10] While the Appellants did achieve some additional deductions of $25,302.17 as well as adjustments to penalties and interest, the Respondent was successful overall in these appeals. It should also be noted that the documentary support for the expenses was provided to the Respondent only during the hearing and the Respondent expressed concerns that there might be some overlapping with other expenses. Furthermore, these particular expenses were never addressed during settlement discussions or at the pre-hearing conference and, if the documents had been produced early on, the hearing would not have been delayed to deal with these expense documents. (Transcript November 27, 2007, pages 83-85). As a result, the Respondent submits that these actions should not be rewarded in determining costs.
+[11] Subsection 18.26(1) of the Tax Court of Canada Act provides discretion to the Court, subject to the Rules, to award costs to the Appellants if the judgment reduces the aggregate of all amounts in issue by more than one-half. In these appeals, the amount of $25,302.17 allowed in respect to expenses of Vialink together with the two additional adjustments for penalties and interest were minor amounts in relation to the total amounts in issue. This should not entitle the Appellants to costs. While I was not provided the figures that relate to the penalty and interest adjustments, the presumption that these adjustments would not amount to more than one-half of the total amounts owed in the respective taxation years is not unrealistic. Consequently, none of the Appellants’ arguments support an award of costs in these appeals.
+[12] Even if the Appellants were successful in part in these appeals, the Appellants can be denied costs or ordered to pay costs based on the measure of reprehensibility in respect to Mr. Watt’s actions. Mr. Watt was uncooperative throughout the process. At times he refused to supply information to the auditor or supplied insufficient and vague information, did not respond to correspondence and some documentation he supplied was falsified in its entirety. This tainted the reliability of all of his evidence. If Mr. Watt had provided adequate documentation honestly and candidly when requested, many of the items in issue may have settled.
+[13] Although in my opinion Mr. Watt’s actions may very well have been reprehensible, the Respondent did not request solicitor/client costs. Notwithstanding the Respondent’s failure to request solicitor/client costs, this Court may nevertheless impose them. In Hassanali Estate v. The Queen, 96 DTC 6414, MacGuigan J. stated at paragraph 10:
+We do not regard the failure of the counsel for the respondent to request solicitor/client costs as alone fatal to the decision to award them, since in our view courts should have discretion to impose them on their own motion where warranted - but only after alerting counsel that such costs are under consideration and allowing the opportunity for presentation of both sides of the argument. We would therefore remit the matter to the Tax Court for the hearing of argument on the issue.
+[14] The Appellants made no submissions as to why solicitor/client costs should not be awarded. Instead the Appellants seem to suggest that the decision should be reviewed and costs awarded in their favour. According to Hassanali Estate, it would appear that, if I were to consider an award of solicitor/client costs, I would have to request that both parties provide additional submissions. Since the Respondent made no request for solicitor/client costs, I will not consider such an award although in the circumstances I would have done so had such a request been made.
+[15] Subsection 147(3) of the Rules directs me to a number of factors to be analyzed when considering costs:
+(a) The Result of the Proceeding:
+[16] Although the appeal was allowed in part to permit additional expense deductions of $25,302.17 together with minor penalty and interest adjustments, the Respondent was successful overall. In addition, the documents to support the expense items were not provided until the hearing had commenced.
+(b) The Amounts in Issue:
+[17] Mr. Watt had reported total income of $10,273.00, $5,495.00 and $4,729.00 for 2000, 2001 and 2002 respectively. The net worth assessments determined that his total income was $56,040.00, $82,374.00 and $239,310.00 for the respective periods. Similarly for Vialink, the Amended T2s reported total business income of $64,995.00 and $1,890.00 for 2000 and 2001 respectively, while the Bank Deposit Analysis calculated those amounts to be $187,192.00 and $7,768.00. The discrepancies between the amounts are large and any resulting tax implications can have a material impact on the total tax payable.
+(c) The Importance of the Issues:
+[18] From the perspective of the Appellants, the amounts determined according to the net worth analysis and the bank deposit analysis have the potential to impact greatly.
+(d) Any Offer of Settlement Made in Writing:
+[19] After the Examination for Discovery was complete, the Appellant made an offer to settle which was contained in a letter dated February 16, 2007. The additional income that the Appellant was willing to concede was: $26,000.00, $28,000.00 and $30,000.00 for 2000, 2001 and 2002 respectively and further requested that penalties be deleted. The Respondent rejected this offer. The Court’s decision to allow the appeals was not substantially more beneficial to the Appellants. Rather, the Respondent’s figures remained largely intact.
+(e) The Volume of Work:
+[20] If Mr. Watt had responded to CRA’s requests by providing prompt, honest and reliable information, the auditor would not have been forced to pursue other sources and alternatives in making the assessments.
+(f) The Complexity of the Issues:
+[21] Throughout the process, the Appellants were in the best position to provide evidence that the amounts were wrong by providing adequate information to overcome the Respondent’s assumptions.
+(g) The Conduct of any Party that Intended to Shorten or to Lengthen Unnecessarily the Duration of the Proceeding:
+[22] Mr. Watt’s conduct throughout delayed the process.
+(h) The Denial or the Neglect or Refusal of any Party to Admit Anything that Should have been Admitted:
+[23] Not applicable.
+(i) Whether Any Stage in the Proceeding was, or:
+(1) Improper, Vexatious or Unnecessary
+[24] If the Appellant had provided prompt, honest responses and documentation when requested, some of the issues may have been resolved which had the potential of shortening the hearing or perhaps avoiding one altogether. The Respondent made numerous requests during the audit but the Appellant’s conduct frustrated the process when he provided inadequate, misleading or falsified documents.
+(2) Taken Through Negligence, Mistake or Excessive Caution
+[25] Not applicable.
+(j) Any Other Matter Relevant to the Question of Costs:
+[26] At page 4 of the Appellants’ submissions, counsel seems to request that I revisit my decision to avoid a miscarriage of justice because the documentary evidence presented a strong and plausible explanation to support that the cash amounts were from non‑taxable sources. Counsel believes that a “reconsideration” of the case can fall under factor (j) of subsection 147(3). While I am not convinced that this factor (j) includes such a consideration, I believe that I gave clear and explicit reasons in my judgment explaining why Mr. Watt’s actions and conduct, not only frustrated the process throughout, but, made him a totally unreliable witness, tainting the documentary evidence he presented. Some of the documentary evidence was non-specific, inadequate and some of it, admittedly by Mr. Watt, had been falsified. If the Appellants had disagreed with the reasons, they had recourse to the Federal Court of Appeal.
+Conclusion
+[27] Based on the foregoing and in particular a review of the factors listed in subsection 147(3) of the Rules, I conclude that it is reasonable in these circumstances that costs be fixed, pursuant to subsection 147(4) of the Rules, in accordance with the Bill of Costs attached to the Respondent’s submissions and prepared pursuant to Schedule II, Tariff B. Therefore the Respondent shall be entitled to costs for services in respect to Mr. Watt of $8,575.00 plus disbursements of $1,559.05 for a total of $10,134.05 and to costs for services in respect to Vialink of $8,575.00 plus disbursements of $1,559.06 for a total of $10,134.06.
+Signed at Ottawa, Canada, this 21st day of May 2009.
+“Diane Campbell”
+Campbell J.
+CITATION:
+2009 TCC 257
+COURT FILE NOS.:
+2006-705(IT)G
+2006-841(IT)G
+STYLE OF CAUSE:
+Vialink Inc. and
+Hubert Watt and
+Her Majesty the Queen
+PLACE OF HEARING:
+Toronto, Ontario
+DATES OF HEARING:
+November 26 and 27, 2007 and
+April 22 and 23, 2008
+REASONS RESPECTING SUBMISSIONS ON COSTS:
+The Honourable Justice Diane Campbell
+DATE OF JUDGMENT:
+DATE OF REASONS RESPECTING SUBMISSIONS ON COSTS:
+February 20, 2009
+May 21, 2009
+SUBMISSIONS:
+Counsel for the Appellant:
+Osborne G. Barnwell
+Counsel for the Respondent:
+Nimanthika Kaneira and
+Laurent Bartleman
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Osborne G. Barnwell
+Firm:
+Toronto, Ontario
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

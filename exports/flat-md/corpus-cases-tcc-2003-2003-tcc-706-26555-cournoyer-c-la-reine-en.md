@@ -1,0 +1,259 @@
+---
+title: "Cournoyer c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26555/index.do"
+last_modified: "2003-11-13"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 TCC 706"
+citation2: ""
+neutral_citation: "2003 TCC 706"
+decision_date: "2003-11-13"
+language: "en"
+item_id: "26555"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3563
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T17:30:58.209000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "90eddbea283b53f9055447105f66a10ecc412622292c98e01b4fc50b1d99c46e"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Cournoyer c. La Reine
+
+- Citation: 2003 TCC 706
+- Decision date: 2003-11-13
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3563, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Cournoyer c. La Reine
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-11-13
+Neutral citation
+2003 TCC 706
+File numbers
+2003-534(IT)I
+Judges and Taxing Officers
+Paul Bédard
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2003-534(IT)I
+BETWEEN:
+CLAUDE COURNOYER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeals heard on September 18, 2003, at Montréal, Québec
+Before: The Honourable Justice Paul Bédard
+Appearances:
+Agent for the Appellant:
+Jacques Bélanger
+Counsel for the Respondent:
+Marie-Aimée Cantin
+JUDGMENT
+The appeals from the assessments made under the Income Tax Act for the 1996, 1997 and 1998 taxation years are dismissed. However, the appeal from the assessment made under the Income Tax Act for the 1995 taxation year is allowed, and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the following amounts should be deducted from the appellant's additional income:
+(i) $1,832 in respect of automobile rental expenses;
+(ii) $6,500 in respect of a personal loan; and
+(iii) $548.49 in respect of a credit that did not constitute income for the appellant;
+with the corresponding adjustments to the penalty and interest.
+Signed at Ottawa, Canada, this 13th day of November 2003.
+"Paul Bédard"
+Bédard, J.
+Translation certified true
+on this 25th day of August 2004.
+Sophie Debbané, Revisor
+Citation: 2003TCC706
+Date: 20031113
+Docket: 2003-534(IT)I
+BETWEEN:
+CLAUDE COURNOYER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Bédard, J.
+[1] These are appeals under the informal procedure from assessments made for the 1995, 1996, 1997 and 1998 taxation years.
+[2] On February 21, 2000, the Minister reassessed the appellant for the 1995 and 1996 taxation years. The reassessment for the 1995 taxation year was made after the normal assessment period.
+[3] In making those reassessments, the Minister added amounts of $85,774 and $20,518 in respect of business income, which the appellant had failed to report in the 1995 and 1996 taxation years, and assessed a penalty under subsection 163(2) of the Income Tax Act (the "Act") for each of those same years.
+[4] On August 21, 2000, the Minister reassessed the appellant for the 1997 and 1998 taxation years.
+[5] In making the reassessments in respect of the 1997 and 1998 taxation years, the Minister made the following corrections and assessed the penalty under subsection 163(2) of the Act on the additional business income for each of those same years:
+1998
+1997
+- added business income:
+- added disallowed business income:
+- cancelled employment income:
+- added income from other sources:
+- disallowed employment expenses:
+- disallowed carry-over of business
+loss from a subsequent year:
+$1,191
+$30,683
+$28,225
+($23,530)
+$23,530
+$8,930
+$13,133
+[6] In making and confirming the reassessments at issue here, the Minister relied in particular on the following facts stated in paragraph 10 of the Reply to the Notice of Appeal:
+[TRANSLATION]
+(a) Since 1994, the appellant had been operating a business under the trade name "Les Maîtres Peintres Claude et Pierre Enr."; (admitted)
+(b) The appellant was an equal partner with Pierre Pilon; (admitted)
+(c) In early February 1999, the Audit Division of the Canada Customs and Revenue Agency initiated an audit of the appellant and his partner;
+(d) Prior to the audit, the appellant had never reported any business income from "Les Maîtres Peintres Claude et Pierre Enr."; (admitted)
+(e) In filing his income tax return for the 1995 taxation year, the appellant reported employment income amounting to $9,600; (admitted)
+(f) In filing his income tax return for the 1996 taxation year, the appellant had reported gross business income amounting to $8,000; according to the information filed, that amount represented income earned from Garderie C. Cournoyer; (admitted)
+(g) In filing his income tax return for the 1997 taxation year, the appellant reported employment income of $23,530 from 2862-3650 Québec Inc. and claimed employment expenses of $8,930 against that income; (admitted)
+(h) In filing his income tax return for the 1998 taxation year, the appellant declared $17,550 in gross business income from "Les Maîtres Peintres Claude et Pierre Enr." and deducted from that income expenses totalling $30,683.70, which created a business loss of $13,133.70; (admitted)
+(i) The appellant, who had no bookkeeping or supporting documents, submitted his bank statements for audit purposes; (denied)
+(j) The appellant had a commercial account with the Bank of Montreal, folio 1055-396, for "Les Maîtres Peintres Claude et Pierre Enr.", as well as a personal account with the Caisse Populaire Les Grands Boulevards, folio 12371; (admitted)
+(k) The unidentified deposits of $85,774, $20,518, $28,225 and $1,191 traced to the commercial bank account were all considered to be business income for 1995, 1996, 1997 and 1998;
+(l) At the initial interview, the appellant admitted to the auditor that only 50 percent of the business income had been deposited to the commercial bank account since most customers paid in cash; the auditor consequently taxed each of the partners on all of the unidentified deposits appearing in that account; (denied)
+(m) The appellant also alleged that his duties as an employee of 2862-3650 Québec Inc. in 1997 had consisted of making deliveries for a textile company; he worked every week and was paid by cheque or in cash; (admitted)
+(n) Analysis of the appellant's personal bank account showed that he had made no weekly deposits to that account; furthermore, 2862-3650 Québec Inc. had no employer number for source deduction purposes, had never filed corporate tax returns and had dissolved its charter in 1997;
+(o) The auditor considered that the amount of $23,530 in fact represented income from other sources and consequently disallowed the appellant employment expenses of $8,930;
+(p) In making those changes, the auditor considered that, first, the 1997 T4 issued by 2862-3650 Québec Inc. was fake and, second, that no T2200 form, "Declaration of Conditions of Employment ", or supporting documents had been submitted by the appellant;
+(q) The full amount of $30,683 in business expenses claimed for the 1998 taxation year was disallowed since the appellant filed no supporting documents in support of his claim;
+(r) As a result of the changes made to the 1998 taxation year, the appellant incurred no non-capital losses and consequently could not deduct the amount of $13,133 in computing his taxable income for the 1997 taxation year;
+(s) At the objection stage, the appellant alleged that, of the $85,774 located in the business's bank account and attributable to the 1995 taxation year, an amount of $49,500 represented loans taken out by his partner, Pierre Pilon; Pierre Pilon, who did the accounting of the business and who had no personal bank account had, unbeknownst to him, deposited the borrowed amounts and then written cheques in his own name;
+(t) The Minister did not accept the appellant's allegations since he had filed no documents or evidence supporting his position and furthermore because the Minister had evidence clearly showing that the amounts he identified as loans in fact represented amounts received by the business for services rendered;
+(u) The appellant made a misrepresentation attributable to neglect, carelessness or wilful default in filing his income tax return or in supplying information for the 1995 taxation year;
+(v) The appellant knowingly, or under circumstances amounting to gross negligence, made or participated in, assented to or acquiesced in the making of, a false statement or omission in a return for each of the taxation years in issue; he was assessed penalties of $9,338.44, $1,398.74, $1,938.96 and $100 for the 1995, 1996, 1997 and 1998 taxation years.
+Preliminary Remarks
+[7] Even though the amounts in issue exceed $12,000, these appeals were heard under the informal procedure since the appellant chose to limit each of his appeals to $12,000.
+[8] The appellant filed no evidence for the 1996, 1997 and 1998 taxation years in respect of the business income added and business expenses disallowed for those years. Consequently, the Minister was correct in adding amounts of $20,518, $28,225 and $1,191 to the appellant's business income for the 1996, 1997 and 1998 taxation years respectively and in disallowing the appellant business expenses of $30,683 for the 1998 taxation year.
+[9] Certain important admissions should be recalled at this stage. The appellant admitted that:
+[TRANSLATION]
+(i) Since 1994, the appellant had been operating a business under the trade name "Les Maîtres Peintres Claude et Pierre Enr." (the "business");
+(ii) The appellant was an equal partner with Pierre Pilon;
+(iii) In early February 1999, the Audit Division of the Canada Customs and Revenue Agency initiated an audit of the appellant and his partner;
+(iv) Prior to the audit, the appellant had never reported any business income from "Les Maîtres Peintres Claude et Pierre Enr.";
+(v) In filing his income tax return for the 1997 taxation year, the appellant reported employment income of $23,530 from 2862-3650 Québec Inc. and claimed employment expenses of $8,930 against that income;
+(vi) He had a commercial account with the Bank of Montreal, folio 1055-396, for "Les Maîtres Peintres Claude et Pierre Enr.", as well as a personal account with the Caisse Populaire Les Grands Boulevards, folio 12371;
+(vii) He alleged that his duties as an employee of 2862-3650 Québec Inc. in 1997 consisted of making deliveries for a textile company; he worked every week and was paid by cheque or in cash; it was admitted that the analysis of the appellant's personal bank account showed that he had made no weekly deposits to that account.
+[10] André Gauthier testified that he had used the deposit method in his audit in order to establish the appellant's business income for the 1995 taxation year, since, at the first interview, the appellant had told him that he had no accounting records or supporting documents. Mr. Gauthier testified that he then considered as business income for the 1995 taxation year all the unidentified deposits totalling $85,774 traced in the bank statements of the commercial account filed jointly as Exhibit A-1.
+[11] The objections raised by the appellant concern:
+(i) the cancellation of the employment income for the 1997 taxation year and its conversion to income from other sources and the disallowance of the expenses incurred in the context of his employment for that same taxation year;
+(ii) the penalty assessed by the Minister on the additional business income for each of the taxation years in issue;
+(iii) the Minister's reassessment for the 1995 taxation year outside the normal reassessment period; and
+(iv) the specific elements outlined below respecting the business income for the 1995 taxation year.
+(i) Credit of $548.49
+The appellant's agent claimed that the appellant issued a cheque for $548.49 on the commercial account in January 1995, that that cheque was not honoured by the Bank of Montreal, that the Bank of Montreal accordingly credited the commercial account for the same amount and that, as a result, that credit could not constitute business income for the appellant for the 1995 taxation year.
+(ii) Credit of $4,000
+The appellant's agent is of the opinion that the second credit of $4,000 dated March 20, 1995, which is identified on the left under code RT, as it appears on the March 1995 bank statement of the commercial account, is a cheque the appellant deposited to the commercial account and that was not honoured because there were insufficient funds. He therefore argued that the Minister incorrectly treated that amount as business income of the appellant for the 1995 taxation year.
+(iii) Splitting of business income
+The Minister considered the unidentified deposits totalling $85,774 traced to the commercial account as business income for the 1995 taxation year. The Minister taxed the appellant on all those deposits for the 1995 taxation year. It is the view of the appellant's agent that the Minister could not tax the appellant on all those unidentified deposits because the appellant was an equal partner with Mr. Pilon in the business.
+(iv) Personal loans granted to Mr. Pilon
+The appellant's agent contended that a portion of the deposits to the commercial account for the 1995 taxation year represented personal loans taken out by Mr. Pilon, and that Mr. Pilon, who had no personal bank account, had deposited the borrowed amounts to the commercial account and then issued cheques in his own name. According to the appellant's agent, Mr. Pilon also deposited $49,500 to the commercial account during the 1995 taxation year. The appellant's agent thus contended that the $49,500 should be deducted from the income of the business for the 1995 taxation year.
+(v) Business expenses for the 1995 taxation year
+Photocopies of invoices supporting the expenses incurred by the business in its operation were filed jointly as Exhibit A-4. Those various invoices total approximately $20,000.
+Analysis
+Employment Income for the 1997 Taxation Year
+[12] For the 1997 taxation year, the Minister cancelled the appellant's employment income of $23,530 and converted it to income from other sources. He also disallowed the appellant's employment expenses of $8,930 for the same taxation year. The Minister essentially alleged that the appellant was not employed by Québec Inc. in the 1997 taxation year since Québec Inc. had no employer number for source deduction purposes and had never filed an income tax return.
+[13] The appellant, on the other hand, alleged that he was employed by Québec Inc. during the 1997 taxation year and that his duties were to make clothing deliveries.
+[14] I will essentially have to determine whether the appellant was actually employed by Québec Inc. during the 1997 taxation year.
+[15] The appellant thus had to show me on a balance of probabilities that he was employed by Québec Inc.
+[16] The appellant's evidence is based solely on his testimony, which was unclear to say the least. The appellant was unable to state exactly how he had been paid. It is useful to quote his testimony when counsel for the respondent examined him on the subject:
+[TRANSLATION]
+Q. Do you remember the salary you received?
+A. Well, I wasn't a regular employee, but, at one point, I was given two cheques; the first time, there were insufficient funds, and, as a result, I was paid in cash after that.
+Q. So there were insufficient funds for the cheques, and you continued working for him?
+A. Well, I didn't have a choice; I didn't have another job.
+Q. He paid you cash, but on what basis did he determine your salary?
+A. Well, I set it by the hour; I worked eight hours a day, depending, and he gave me what he wanted.
+Q. He gave you what he wanted?
+A. More or less. Well, at times, I worked 40 hours and he could give me so much. I don't exactly know how much; it was never a regular amount.
+Q. O.K. So it was more being paid under the table; ultimately, nothing was declared?
+A. It was more cash, in cash.[1]
+[17] In his testimony, the appellant was unable to state the situs of the business in Pierrefonds or the name of his immediate supervisor.
+[18] However, Mr. Gauthier testified that the T4 slip issued by Québec Inc. was false, that that company had carried on no activity during the 1997 taxation year and that it had never made any source deductions or remittances.
+[19] It is useful here to quote what Mr. Gauthier said when examined on the subject:
+[TRANSLATION]
+A. Well, as I said, when our audits were conducted, the company was ... there was no more activity in the company; there was no source deduction account, there were no payments, there was nothing. Even on the computer, there was absolutely no -- it's called option DD.3; that's a bit of shop talk, but it's what gives us the names of the employees, their salaries and so on. There was nothing, nothing, nothing; it was completely bogus. So, at that point, we knew that the T4 slip was fake.[2]
+[20] The appellant had to bring evidence that tended to show on a balance of probabilities that the Minister was wrong on this disputed point. The appellant cannot discharge that obligation by making vague and unclear statements. It is even more obvious that he cannot discharge that obligation by making incoherent statements. Such assertions greatly influence credibility, which is the heart of the matter in a case of this kind. In my view, not only was the appellant unable to discharge his obligation, but also his statements, which were very convincingly contradicted by Mr. Gauthier's testimony, definitely undermined his credibility. How can one not have serious doubts about the appellant's claims when they are not supported by sound documentary evidence or by credible independent testimony?
+[21] In my view, the Minister was right in cancelling the appellant's employment income of $23,530 for the 1997 taxation year and in converting it to income from other sources. He was also correct in disallowing the appellant's employment expenses of $8,930 for the 1997 taxation year because the appellant did not supply supporting evidence on that point or the T2200 form, "Declaration of Conditions of Employment", which had to be signed by the employer.
+Splitting of Business Income
+[22] As noted above, the Minister assessed all the unidentified deposits totalling $85,774 as business income for the 1995 taxation year. The Minister assessed the appellant on all those deposits on the ground given in subparagraph 10(l) of the Reply to the Notice of Appeal, where the Minister alleges that, at the initial interview, the appellant had admitted to Mr. Gauthier that only 50 percent of the business income had been deposited to the commercial account since most customers paid in cash. The Minister consequently assessed each of the partners on all the unidentified deposits appearing in the commercial account.
+[23] The appellant's agent claimed that the appellant made no such statement to Mr. Gauthier at the initial interview and that the Minister could therefore assess him on only half of the unidentified deposits to the commercial account for the 1995 taxation year since he was an equal partner with Mr. Pilon in the business.
+[24] Mr. Gauthier's testimony confirmed the Minister's allegations in the Reply to the Notice of Appeal in somewhat similar terms.
+[25] The appellant essentially testified that he had deposited all of the income of the business to the commercial account.
+[26] The appellant's agent had Mr. Pilon testify, and he essentially corroborated the appellant's testimony.
+[27] Who is speaking the truth? That question is a matter of assessing the credibility of the witnesses.
+[28] I have no doubt as to Mr. Gauthier's credibility. However, as I emphasized in my analysis of the question regarding the cancellation of the appellant's employment income for the 1997 taxation year, an issue on which Mr. Gauthier showed me convincingly that the appellant's credibility could be doubted, it is then difficult to lend credence to the appellant's testimony alone, which is not supported by credible documentary evidence or testimony. Mr. Pilon's testimony of course corroborated that of the appellant. However, I cannot entirely trust the testimony of a person who is interested and not entirely independent in the instant case. I therefore confirm that the Minister was entitled to assess the appellant on all of the unidentified deposits to the commercial account in the 1995 taxation year as business income.
+Credit of $4,000
+[29] The appellant claimed in his testimony that a $4,000 credit dated March 20, 1995, identified on the left below the code RT, as it appears on the March 1995 bank statement of the commercial account, represents a cheque he deposited and which was not honoured since there were insufficient funds (NSF). The appellant brought no other evidence.
+[30] On this point, counsel for the respondent filed as Exhibit I-6 a cheque for $4,000 issued on March 17, 1995, by Les Couvertures Éval to the order of the business. On the back of the cheque, it may be seen that the cheque was credited to the commercial account on March 20, 1995, and that there is no notation to the effect that the cheque was NSF.
+[31] In view of this insufficient and contradicted evidence, I therefore confirm that the Minister was entitled to assess the appellant on this amount of $4,000 as business income for the 1995 taxation year.
+Credit of $548.49
+[32] The appellant's agent claimed that the $548.49 credit dated January 1995 appearing in the January 1995 bank statement of the commercial account in fact represents a cheque (cheque No. 184) issued by the appellant in the amount of $548.49 that was not honoured by the Bank of Montreal since there were insufficient funds. The appellant's agent contended that the Bank of Montreal then credited the commercial account with the same amount in accordance with its customary practice. It is his view that the code NS appearing on the bank statement clearly confirms that the cheque was not honoured by the Bank of Montreal because there were insufficient funds. Consequently, the appellant's agent claimed that the Minister was wrong to treat the credit as business income for the 1995 taxation year.
+[33] The cheque was not filed in evidence. However, in my analysis of the January 1995 bank statement, I was able to note that, at the time cheque No. 184 was issued, the balance in the commercial account was only $526.03.
+[34] I therefore find that it is highly likely that cheque No. 187 issued by the appellant (appearing in the debit) was not honoured by the Bank of Montreal because there were insufficient funds at the time it was issued and the bank credited the commercial account with the same amount, as it appears in the commercial account. Accordingly, I find that the Minister was wrong to treat this credit as business income of the appellant for the 1995 taxation year.
+Personal Loans Granted to Mr. Pilon
+[35] The appellant's agent claimed that a portion of the deposits to the commercial account for the 1995 taxation year represented personal loans that Mr. Pilon took out. Mr. Pilon, who had no personal bank account, purportedly deposited the borrowed amounts of money to the commercial account, then issued cheques in his own name. According to the appellant's agent, Mr. Pilon deposited $49,500 to the commercial account in the 1995 taxation year. The appellant's agent therefore contended that the $49,500 had to be deducted from business income for the 1995 taxation year.
+(1) Cheque for $6,500
+[36] The appellant's agent is of the view that Mr. Pilon personally borrowed $6,500 from Instant-Impôt Inc. (the "Lender") on July 14, 1995. He claimed that Mr. Pilon deposited the amount thus borrowed to the commercial account on July 17, 1995, and that the borrowed amount could therefore not constitute business income of the appellant for the 1995 taxation year.
+[37] By consent, the appellant filed as Exhibit A-2 a cheque for $6,500 issued by the lender and the deposit slip showing that the cheque was deposited to the commercial account on July 17. It should be emphasized that the notation "Advance" appears on the cheque.
+[38] The appellant's agent had Mr. Pilon testify. Mr. Pilon's testimony on the terms of the loan was vague. He did not remember, for example, the interest rate agreed upon or the terms of repayment of the loan. However, his testimony showed that the loan agreement was oral, that he had repaid the loan in cash and that the lender did not give him a release upon repayment of the loan.
+[39] Notwithstanding Mr. Pilon's unconvincing testimony, I find that the appellant discharged his obligation to show on a balance of probabilities that the Minister was wrong on this point. The appellant supported his testimony with what I found to be plausible documentary evidence. Accordingly, the appellant's business income should be reduced by $6,500 for the 1995 taxation year.
+(2) Cheque for $10,000
+[40] The appellant's agent claimed that Mr. Pilon personally borrowed $10,000 from the spouse of the late Daniel McInnes (the "Lender") in November 1995. He contends that Mr. Pilon deposited the amount thus borrowed to the commercial account on November 24, 1995, and that that borrowed amount could not constitute business income of the appellant for the 1995 taxation year.
+[41] The appellant filed a deposit slip as Exhibit A-3 to show that a cheque for $10,000 was deposited to the commercial account on November 24, 1995. However, the appellant did not file the $10,000 cheque in evidence, and the lender did not testify.
+[42] The appellant's agent had Mr. Pilon testify. Mr. Pilon's testimony on the terms of the loan was vague. He did not remember, for example, the interest rate agreed upon or the terms of repayment of the loan. However, his testimony showed that the loan agreement was oral, that he repaid the loan in cash and that the lender did not give him a release upon repayment of the loan.
+[43] In this case, I do not believe that the appellant discharged his obligation to show on a balance of probabilities that the Minister was wrong on this point. In fact, the appellant's testimony did not satisfy me. I found the documentary evidence filed in support of Mr. Pilon's testimony insufficient to be plausible. Accordingly, the appellant's business income was not to be reduced by $10,000 for the 1995 taxation year.
+(3) Deposit of amounts in cash
+[44] The appellant's agent contended that, during the 1995 taxation year, Mr. Pilon personally borrowed amounts of cash totalling between $30,000 and $35,000 from a number of lenders and that the amounts thus borrowed were deposited to the commercial account during that same year.
+[45] The appellant's evidence was based solely on Mr. Pilon's testimony, and his testimony was disconcerting to say the least. He was unable to state the name of the lender or lenders or the terms of the loans. We moreover learned from his testimony that he had repaid the loans in cash.
+[46] In view of this doubtful testimony and in the absence of any documentary evidence whatever, I find that those amounts were not to have been deducted from the appellant's business income for the 1995 taxation year. The appellant definitely did not discharge his obligation to show on a balance of probabilities that the Minister was wrong on this point.
+Business Expenses
+[47] It should be emphasized that certain documents supporting the business expenses that the appellant intends to claim for the 1995 taxation year were filed jointly at the hearing as Exhibit A-4.
+[48] Counsel for the respondent did not see fit to examine the appellant on the relevance of those supporting documents or to analyze them. Therefore, I analyzed them.
+[49] I agree to allow a portion of the business expenses claimed by the appellant, that is, those concerning the rental by the business of a Ford Econoline Cargo. In the 1995 bank statements of the commercial account, I was able to trace seven cheques issued for $523.49 each, which were debited from the commercial account for a total of $3,664. The monthly amount of $523.49 corresponds to the monthly rent that appears on the lease agreement filed as Exhibit A-4.
+[50] I therefore confirm that the appellant was entitled to claim $1,832, that is, half of the business expenses related to the rental of a truck for the 1995 taxation year. It should be kept in mind that the appellant was an equal partner in the business.
+[51] As to the other expenses claimed by the appellant, I was unable to find in the bank statements of the commercial account any debited amounts corresponding to the amounts of the various invoices presented and filed as Exhibit A-4. The appellant did not see fit to produce any evidence whatever to show that the business had borne the expenses represented by those invoices. Once again, I must remind the appellant that he was required to show on a balance of probabilities that the Minister was wrong on this point. I find that the appellant did not discharge his obligation to do so.
+Penalty under Subsection 163(2) of the Act
+[52] Was the Minister right in assessing a penalty on the additional business income for each of the taxation years in issue in accordance with subsection 163(2) of the Act?
+[53] The answer is very simple in this case. In my view, the Minister was entitled to assess those penalties for each of the taxation years in issue because he proved that the appellant had made a wilful default, and had done so knowingly. Before the audit, the appellant had simply failed to report his business income, and had done so knowingly.
+[54] It is useful here to quote the answers the appellant gave in cross-examination.
+[TRANSLATION]
+Q. So you also agree that you never reported any income in 1995, 1996 and 1997 in your tax returns?
+A. Yes. That's because I thought that, since it was a small SME, and what I was doing ... I was working sometimes five months, six months; I didn't think it was important to report that. I thought that what I was doing ...
+Q. You didn't think you had to report money and to pay taxes?
+A. That's because I thought it was a small amount, it was very small; I had trouble making ends meet.[3]
+[55] It must also be recalled that the appellant filed no evidence concerning his business income and expenses for the 1996, 1997 and 1998 taxation years.
+Limitation Period
+[56] Was the Minister justified in making a reassessment dated February 21, 2000, for the 1995 taxation year in accordance with subparagraph 152(4)(a)(i) of the Act?
+[57] Under those provisions, the Minister may assess outside the normal period if the taxpayer has made a misrepresentation that is attributable to neglect, carelessness or wilful default, and the burden of proof is on the Minister.
+[58] It must be kept in mind that, on the previous issue, I determined that the Minister had discharged his burden of proof in this case with respect to penalties assessed under subsection 163(2) of the Act. Need it be recalled that the burden of proof on the Minister with respect to penalties is greater than with respect to the limitation period. I therefore find that the Minister was justified in making a reassessment for the 1995 taxation year.
+Signed at Ottawa, Canada, this 13th day of November 2003.
+"Paul Bédard"
+Bédard, J.
+Translation certified true
+on this 25th day of August 2004.
+Sophie Debbané, Revisor
+[1] See transcript of September 18, 2003, pages 59 and 60.
+[2] See transcript of September 18, 2003, pages 41 and 42.
+3 See transcript of September 18, 2003, page 58

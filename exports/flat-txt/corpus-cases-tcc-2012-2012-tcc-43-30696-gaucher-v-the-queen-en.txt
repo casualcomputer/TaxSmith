@@ -1,0 +1,127 @@
+Title: Gaucher v.The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30696/index.do
+Corpus path: corpus/cases/tcc/2012/2012-tcc-43-30696-gaucher-v-the-queen-en.md
+Document type: case_law
+Last modified: 2012-02-01
+
+# Gaucher v.The Queen
+
+- Citation: 2012 TCC 43
+- Decision date: 2012-02-01
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7194, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Gaucher v.The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2012-02-01
+Neutral citation
+2012 TCC 43
+File numbers
+2010-3326(IT)I
+Judges and Taxing Officers
+Robert James Hogan
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2010-3326(IT)I
+BETWEEN:
+LAURIANNE GAUCHER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard December 1, 2011, at Montréal, Quebec.
+Before: The Honourable Justice Robert J. Hogan
+Appearances:
+For the appellant:
+The appellant herself
+Agent for the respondent :
+Amin Njonkou-Kouandou, student-at-law
+____________________________________________________________________
+JUDGMENT
+The appeal from the redeterminations made under the Income Tax Act with respect to the Canada Child Tax Benefit for the 2005, 2006 and 2007 base years, and with respect to the Goods and Services Tax Credit for the 2007 taxation year is dismissed.
+Signed at Ottawa, Canada, this 1st day of February 2012.
+"Robert J. Hogan"
+Hogan J.
+Translation certified true
+on this 13th day of February 2012.
+Elizabeth Tan, Translator
+Citation: 2012 TCC 43
+Date: 20120201
+Docket: 2010-3326(IT)I
+BETWEEN:
+LAURIANNE GAUCHER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Hogan J.
+I. Introduction
+[1] According to the notices of determination by the Minister of National Revenue (the Minister), the appellant is liable for overpayments of Canada Child Tax Benefits (CCTB) and Goods and Services Tax Credit (GSTC) she received for her two children for the period of December 2007 to May 2009. The appellant admits that she was not eligible for these payments because the children lived with their father during that period, but she claims she is not liable for the amount claimed because it was the children's father who received the payments in question. She wonders why the Minister paid the amounts a second time to the children's father, leading the Minister to ask her to repay the overpayments.
+II. Summary of the facts
+[2] The appellant and Jonathan Gagné lived in a common-law relationship. The couple had two children during their relationship.
+[3] The appellant separated from her common-law spouse in November 2007, when the children were 2 and 3 years old. Since the separation, the father has had custody of the children.
+[4] In 2004, the appellant filed an application for Child Tax Benefits after her first child was born. She did the same in 2005 after her second child was born. The CCTB and GSTC payments were deposited directly into the appellant and Mr. Gagné's joint bank account at the Caisse Desjardins Les Salines in Saint-Hyacinthe.
+[5] The evidence shows that the appellant gave her Interac bank card to Mr. Gagné when they separated in November 2007. The appellant no longer had access to the bank account from that time on.
+[6] After the separation, the appellant moved to Drummondville and she opened a new bank account at the local Caisse Populaire to make her bank transactions easier.
+[7] Finally, in May 2008, the appellant signed a waiver of her rights regarding the joint bank account.
+[8] The evidence shows that from November 2007 to May 2009, the appellant did not have any control over the joint bank account. Mr. Gagné used all the CCTB and GSTC payments deposited to the account to pay for the children's expenses, since he had custody.
+[9] In May or June 2009, Mr. Gagné filed an application for the Child Tax Benefit indicating he had sole custody of his two children, who had been living with him since November 2007. He asked the Minister to deposit all CCTB payments to the same joint bank account to which previous payments to the appellant were deposited. After verifying this application, the Minister found Mr. Gagné was the eligible individual to receive the CCTB and GSTC as of November 2007.
+[10] Further to this determination, the Minister proceeded with the adjustment that is the subject of this case. He determined that the appellant was not the eligible individual for her two children, and she was liable for the amounts that were overpaid from December 2007 to May 2009.
+III. The issue
+[11] The respondent correctly summarized the issues in the Reply to the Notice of appeal as follows:
+[translation]
+(a) Is the appellant liable for the amount of $3,682 for the 2006 base year (for the period of December 2007 to June 2008), and the amount of $5,894.90 for the 2007 base year (for the period of July 2008 to May 2009) that the Minister determined was an overpayment of CCTB?
+(b) Is the appellant liable for the amount of $496 that the Minister determined was an overpayment of Goods and Services Tax/Harmonized Sales Tax (GST/HST) for the 2007 taxation year (for the period of July 2008 to May 2009)?
+IV. Analysis
+[12] In his closing arguments, counsel for the respondent asked me to dismiss the appeal because the appellant's only reason was that she had not received the overpayments the Minister claimed. According to counsel for the respondent, the Court does not have jurisdiction to hear this argument because it is an issue of collecting the respondent's debt, over which the Federal Court has sole jurisdiction. I do not share this opinion.
+[13] The notice of determination regarding the appellant included two determinations by the Minister, first that she was not the eligible individual for the CCTB and GSTC as of November 2007, and second that she was liable for the amounts claimed by the Minister, as indicated in the issues formulated by the respondent.
+[14] In Surikov v. Canada,[1] my colleague Bowie J. summarized the provisions of the Income Tax Act (the Act) that apply to this case as follows, at paragraph 6:
+(i) Paragraph 152(1)(b) requires the Minister to make a determination of the GSTC entitlement of the taxpayer;
+(ii) Subsection 152(1.2) makes the provisions of Divisions I and J of Part I, of the Act that relate to assessments, reassessments, objections, confirmations and appeals to this Court applicable to both determinations and redeterminations of GSTC entitlement made under paragraph 152(1)(b) and determinations and redeterminations of CCTB entitlement;
+(iii) Subsection 160.1(1) has the effect of making a taxpayer liable to repay any amount that the Minister has determined to be an overpayment of a refund, including an overpayment of GSTC or CCTB;
+(iv) Subsection 160.1(3) authorizes the Minister to assess the taxpayer for any such overpayment, and it makes the provisions of Division I of Part I relating to objections to assessments applicable to any such assessment;
+...
+Although subsection 160.1(3) does not specifically make the provisions of Division J, which include the right to appeal to this Court following confirmation of an assessment that has been objected to, applicable to an assessment under that subsection, there can be no doubt that an appeal will lie under subsection 169(1). The wording of subsection 160.1(3) is not materially different from that of subsection 160(2), and it has never been doubted that a subsection 160(2) assessment may be appealed to this Court.
+[15] The wording of the various notices of determination the appellant received and the respondent's wording of the issues show that the Minister made both a redetermination for the appellant and an assessment pursuant to section 160.1 of the Act. As a result, I must determine whether the appellant received the payments for which the respondent is claiming repayment.
+[16] The appellant's testimony leads me to find that Mr. Gagné took possession of the benefits that, at the appellant's request, were deposited directly in what used to be their joint account. The fact Mr. Gagné asked that retroactive CCTB payments be deposited in the same account corroborates the appellant's testimony that he had control of this account as of November 2007. However, the Minister deposited the payments in the joint account per the appellant's instructions. The appellant must accept that in the Minister's eyes, she received the benefits in question in accordance with the instructions she gave the Canada Revenue Agency (CRA). Moreover, under subsection 122.62(4) of the Act, an individual who ceases to be eligible must advise the Minister.
+[17] For these reasons, I must dismiss the appeal.
+[18] However, I cannot ignore the fact that dismissing the appeal appears to result in an unfair situation for the appellant. Mr. Gagné, by his actions, seems to have received the CCTB twice. This situation could have been avoided if the CRA had given the appellant the opportunity to object to the notice of determination requiring the repayment before authorizing the payment to Mr. Gagné. Indeed, the amounts were paid to Mr. Gagné in July 2009 and the notice of redetermination for the appellant was established in June 2009, which gave her almost no chance to object before the payment was made to Mr. Gagné. Additionally, as I mentioned above, Mr. Gagné asked for the retroactive payments to be deposited to the same account in which the overpayments to the appellant had been deposited. This should have been enough to alert the CRA. By showing some caution, the CRA could avoid such cases and reduce the costs of the resulting recovery proceedings.
+[19] As a result, I feel the CRA is able to rectify the situation, according to its powers under the Act. Section 160.1 of the Act allows the Minister to claim the repayment of any overpayment a taxpayer receives. Nothing is stopping the Minister from assessing Mr. Gagné based on this section on the ground that he did, in fact, receive the Child Tax Benefits twice. I imagine the appellant would be ready to help the Minister in this regard. Obviously, if the Minister is successful against Mr. Gagné, I think it would be fair in the circumstances that he forgive the appellant's obligation to repay the overpayments.
+Signed at Ottawa, Canada, this 1st day of February 2012.
+"Robert J. Hogan"
+Hogan J.
+Translation certified true
+on this 13th day of February 2012.
+Elizabeth Tan, Translator
+CITATION: 2012 TCC 43
+COURT FILE NO.: 2010-3326(IT)I
+STYLE OF CAUSE: LAURIANNE GAUCHER v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Montréal, Quebec
+DATE OF HEARING: December 1, 2011
+REASONS FOR JUDGMENT BY: The Honourable Justice Robert J. Hogan
+DATE OF JUDGMENT: February 1, 2012
+APPEARANCES:
+For the appellant:
+The appellant herself
+Agent for the respondent:
+Amin Njonkou-Kouandou, student-at-law
+COUNSEL OF RECORD:
+For the appellant:
+Name:
+Firm:
+For the respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] 2008 TCC 161.

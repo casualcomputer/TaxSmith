@@ -1,0 +1,145 @@
+Title: De Lucia Estate c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30000/index.do
+Corpus path: corpus/cases/tcc/2010/2010-cci-479-30000-de-lucia-estate-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2010-09-23
+
+# De Lucia Estate c. La Reine
+
+- Citation: 2010 CCI 479
+- Decision date: 2010-09-23
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7808, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+De Lucia Estate c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2010-09-23
+Référence neutre
+2010 CCI 479
+Numéro de dossier
+2010-551(IT)APP
+Juges et Officiers taxateurs
+Robert James Hogan
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2010-551(IT)APP
+ENTRE :
+LA SUCCESSION DE FEU ELENA DE LUCIA,
+demanderesse,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Demande entendue le 20 mai 2010, à Montréal (Québec)
+Devant : L’honorable juge Robert J. Hogan
+Comparutions :
+Représentant de la demanderesse :
+Horst Grein
+Avocate de l’intimée :
+Me Julie David
+____________________________________________________________________
+JUGEMENT
+Vu la demande de prorogation du délai pour signifier un avis d’opposition à la nouvelle cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2005;
+Et après avoir entendu les plaidoiries des parties;
+La demande est rejetée, sans frais, conformément aux motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 23e jour de septembre 2010.
+« Robert J. Hogan »
+Le juge Hogan
+Référence : 2010 CCI 479
+Date : 20100923
+Dossier : 2010-551(IT)APP
+ENTRE :
+LA SUCCESSION DE FEU ELENA DE LUCIA,
+demanderesse,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Hogan
+Introduction
+[1] Lorena De Lucia (la « demanderesse ») est l’exécutrice de la succession de sa défunte sœur, Elena De Lucia (la « succession »). L’Agence du revenu du Canada (l’« ARC ») a établi une nouvelle cotisation à l’égard de l’année d’imposition 2005 de la succession. Le délai pour faire opposition à cette nouvelle cotisation est expiré. Par conséquent, la demanderesse demande à la Cour de rendre une ordonnance prorogeant ce délai en vertu du paragraphe 166.2(1) de la Loi de l’impôt sur le revenu (la « LIR »).
+Contexte factuel
+[2] Les faits qui sous-tendent la présente demande sont en grande partie non contestés. Ces faits sont les suivants :
+a) Le 26 mai 2006, l’ARC a émis l’avis de cotisation initial à l’égard de l’année d’imposition 2005 de la succession.
+b) Le 23 novembre 2007, l’ARC a envoyé une lettre à la demanderesse à son adresse de l’époque (l’« ancienne adresse ») l’informant qu’elle proposait des rajustements à la cotisation initiale qui entraîneraient une augmentation significative de l’impôt payable par la succession à l’égard de l’année d’imposition 2005. Dans cette lettre, l’ARC a indiqué que la demanderesse serait la seule personne avec qui elle communiquerait à ce sujet. L’ARC a ajouté que si la demanderesse ne communiquait avec elle dans les 30 jours, elle établirait une nouvelle cotisation.
+c) Vers la fin de 2007 ou au début de 2008, la demanderesse a changé d’adresse, sans informer l’ARC de ce déménagement.
+d) Le 22 février 2008, l’ARC a émis une nouvelle cotisation à l’égard de l’année d’imposition 2005 de la succession. La demanderesse n’a pas soutenu que cette nouvelle cotisation n’avait pas été dûment envoyée, et l’ARC n’a pas présenté d’éléments de preuve à cet égard.
+e) Le 14 mai 2009, l’ARC a envoyé une autre lettre à la demanderesse, à sa nouvelle adresse, exigeant le paiement du solde impayé de la succession à l’égard de l’année d’imposition 2005, conformément à la nouvelle cotisation.
+f) Le 15 mai 2009, le comptable de la demanderesse a déposé auprès de l’ARC un avis d’opposition à la nouvelle cotisation. [1]
+g) Le 4 août 2009, l’ARC a rejeté l’opposition, invoquant l’expiration du délai de 90 jours au cours duquel la demanderesse pouvait déposer un avis d’opposition. L’ARC a ajouté qu’en outre, aucune demande de prorogation ne pourrait être accordée, puisque (en date du 4 août 2009) plus d’un an s’était écoulé depuis l’expiration du délai de 90 jours.
+h) Le 19 février 2010, la demanderesse a déposé la requête qui fait l’objet du présent contrôle judiciaire devant la Cour.
+Question en litige
+[3] La question que doit trancher la Cour est de savoir si la demande de prorogation du délai pour déposer l’avis d’opposition doit être accordée.
+Analyse
+[4] Le paragraphe 165(1) de la LIR permet à un contribuable à s’opposer à une cotisation établie par l’ARC, sous réserve de certains délais :
+165(1) Opposition à la cotisation — Le contribuable qui s’oppose à une cotisation prévue par la présente partie peut signifier au ministre, par écrit, un avis d’opposition exposant les motifs de son opposition et tous les faits pertinents, dans les délais suivants :
+a) lorsqu’il s’agit d’une cotisation relative à un contribuable qui est un particulier (sauf une fiducie) ou une fiducie testamentaire, pour une année d’imposition, au plus tard le dernier en date des jours suivants :
+(i) le jour qui tombe un an après la date d’échéance de production qui est applicable au contribuable pour l’année,
+(ii) le quatre-vingt-dixième jour suivant la date d’envoi de l’avis de cotisation;
+[...]
+[Non souligné dans l’original.]
+[5] Les articles166.1 et 166.2 de la LIR portent sur la possibilité pour un contribuable d’obtenir une prorogation du délai pour faire opposition :
+166.1 (1) Prorogation du délai [pour faire opposition] par le ministre — Le contribuable qui n’a pas signifié d’avis d’opposition à une cotisation en application de l’article 165 ni présenté de requête en application du paragraphe 245(6) dans le délai imparti peut demander au ministre de proroger le délai pour signifier l’avis ou présenter la requête.
+[...]
+(7) Conditions d’acceptation de la demande — Il n’est fait droit à la demande que si les conditions suivantes sont réunies :
+a) la demande est présentée dans l’année suivant l’expiration du délai par ailleurs imparti pour signifier un avis d’opposition ou présenter une requête;
+b) le contribuable démontre ce qui suit :
+(i) dans le délai par ailleurs imparti pour signifier l’avis ou présenter la requête, il n’a pu ni agir ni charger quelqu’un d’agir en son nom, ou il avait véritablement l’intention de faire opposition à la cotisation ou de présenter la requête,
+(ii) compte tenu des raisons invoquées dans la demande et des circonstances de l’espèce, il est juste et équitable de faire droit à sa demande,
+(iii) la demande a été présentée dès que les circonstances le permettaient.
+166.2(1) Prorogation du délai [pour faire opposition] par la Cour canadienne de l’impôt – Le contribuable qui a présenté une demande en application de l’article 166.1 peut demander à la Cour canadienne de l’impôt d’y faire droit après :
+a) le rejet de la demande par le ministre;
+b) l’expiration d’un délai de 90 jours suivant la présentation de la demande, si le ministre n’a pas avisé le contribuable de sa décision.
+Toutefois, une telle demande ne peut être présentée après l’expiration d’un délai de 90 jours suivant la date de la mise à la poste de l’avis de la décision au contribuable.
+[...]
+(5) Acceptation de la demande – Il n’est fait droit à la demande que si les conditions suivantes sont réunies :
+a) la demande a été présentée en application du paragraphe 166.1(1) dans l’année suivant l’expiration du délai par ailleurs imparti pour signifier un avis d’opposition ou présenter une requête;
+b) le contribuable démontre ce qui suit :
+(i) dans le délai par ailleurs imparti pour signifier l’avis ou présenter la requête, il n’a pu ni agir ni charger quelqu’un d’agir en son nom, ou il avait véritablement l’intention de faire opposition à la cotisation ou de présenter la requête,
+(ii) compte tenu des raisons invoquées dans la demande et des circonstances de l’espèce, il est juste et équitable de faire droit à sa demande,
+(iii) la demande a été présentée dès que les circonstances le permettaient.
+[Non souligné dans l’original.]
+[6] Les tribunaux ont fermement établi que ces délais sont obligatoires et ne peuvent pas être annulés. En appliquant l’article 166.1 de la LIR, le juge Bowie de la Cour canadienne de l’impôt a fourni les explications suivantes : [traduction]
+22 [...] ni la malchance [du contribuable] ni la négligence apparente de son avocat ne m’autorisent à faire fi des dispositions impératives des deux lois adoptées par le législateur dans des termes très précis et pour de très bonnes raisons. [2]
+Analyse
+[7] Le manque d’éléments de preuve dans le présent dossier fait qu’il est difficile d’établir exactement la façon dont la loi doit être appliquée aux faits de l’espèce. La demanderesse n’a pas fourni à la Cour les documents qui avaient été envoyés à l’ARC le 15 mai 2009. Cette date était comprise dans le délai d’un an et 90 jours au cours duquel la demanderesse pouvait demander une prorogation du délai pour faire opposition. Sans ces documents, il est impossible de déterminer si ces derniers satisfont aux exigences énoncées à l’alinéa 166.1(7)b) de la LIR, puisque la demanderesse a le fardeau de prouver qu’elle respecte les conditions qui permettraient à la Cour d’accorder une prorogation. [3]
+[8] Même en tenant pour acquis (sans éléments de preuve) que la demanderesse a respecté toutes les conditions de l’alinéa 166.1(7)b), son appel doit être rejeté en raison de l’interdiction contenue au paragraphe 166.2(1) de la LIR :
+166.2(1) Prorogation du délai [pour faire opposition) par la Cour canadienne de l’impôt – [...] une telle demande ne peut être présentée après l’expiration d’un délai de 90 jours suivant la date de la mise à la poste de l’avis de la décision au contribuable.
+[9] Dans sa lettre envoyée à la demanderesse le 4 août 2009, l’ARC a clairement indiqué qu’elle n’accorderait pas de prorogation de délai pour déposer un avis d’opposition. La demanderesse disposait donc de 90 jours à compter de cette date pour déposer la demande qui fait l’objet du présent contrôle judiciaire. Il est malheureux qu’elle ait attendu jusqu’au 19 février 2010 pour ce faire, puisque la demande est manifestement prescrite.
+Conclusion
+[10] Pour ces motifs, la demande est rejetée.
+Signé à Ottawa, Canada, ce 23e jour de septembre 2010.
+« Robert J. Hogan »
+Le juge Hogan
+RÉFÉRENCE : 2010 CCI 479
+NO DU DOSSIER DE LA COUR : 2010-551(IT)APP
+INTITULÉ : LA SUCCESSION DE FEU ELENA DE LUCIA c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATE DE L’AUDIENCE : Le 20 mai 2010
+MOTIFS DU JUGEMENT : L’honorable juge Robert J. Hogan
+DATE DU JUGEMENT : Le 23 septembre 2010
+COMPARUTIONS :
+Représentant de la demanderesse :
+Horst Grein
+Avocate de l’intimée :
+Me Julie David
+AVOCATS INSCRITS AU DOSSIER :
+Pour la demanderesse
+Nom :
+Cabinet :
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Ce document n’a pas été déposé en preuve devant la Cour. Il est donc impossible de déterminer si, en fait, ce document pourrait tenir lieu de demande au ministre de proroger le délai de signification de l’avis d’opposition.
+[2] Voir la décision Pereira v. The Queen, 2008 TCC 2, [2008] G.S.T.C. 8, confirmée par la Cour d’appel fédérale dans l’arrêt 2008 CAF 264, [2008] G.S.T.C. 187.
+[3] Telles qu’elles sont mentionnées à l’article 166.2 de la LIR.

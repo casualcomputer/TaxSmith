@@ -1,0 +1,321 @@
+Title: Santagapita c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28996/index.do
+Corpus path: corpus/cases/tcc/2008/2008-cci-662-28996-santagapita-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2008-12-03
+
+# Santagapita c. La Reine
+
+- Citation: 2008 CCI 662
+- Decision date: 2008-12-03
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6745, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Santagapita c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-12-03
+Référence neutre
+2008 CCI 662
+Numéro de dossier
+2008-1301(IT)I
+Juges et Officiers taxateurs
+Judith Woods
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossiers : 2008-1301(IT)I
+2008-1303(IT)I
+ENTRE :
+CHRISTINE SANTAGAPITA,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+ET ENTRE :
+JOSEPH SANTAGAPITA,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels entendus sur preuve commune les 24 et 31 octobre 2008,
+à London (Ontario).
+Devant : L’honorable juge Judith Woods
+Comparutions :
+Avocate des appelants :
+Me Julie Rogers-Glabush
+Avocate de l’intimée :
+Me Suzanie Chua
+____________________________________________________________________
+JUGEMENT
+Les appels concernant les cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 2002 et 2003 sont accueillis et les cotisations sont renvoyées au ministre du Revenu national pour nouvel examen et nouvelle cotisation sur la base suivante :
+1. Quant au produit de l’assurance de 50 000 $, un montant de 12 500 $ sera inclus dans le calcul du revenu de chacun des appelants pour l’année d’imposition 2002 et aucun montant ne sera inclus pour l’année d’imposition 2003;
+2. Quant aux frais accessoires, le paragraphe 18(3.1) de la Loi doit s’appliquer à l’égard des années d’imposition 2002 et 2003 compte tenu du fait que la rénovation du bâtiment a été terminée le 29 octobre 2003;
+3. Quant aux frais accessoires se rapportant à l’année d’imposition 2002, le montant restreint prévu au paragraphe 18(3.1) sera réduit conformément au paragraphe 20(29) de la Loi, jusqu’à concurrence d’un montant de 12 500 $ pour chaque appelant;
+4. Quant aux frais d’intérêt se rapportant à l’hypothèque, chacun des appelants a droit, pour les années d’imposition 2002 et 2003, à une déduction de 50 p. 100, soit 19 044 $ et 19 218 $ respectivement, conformément à l’alinéa 20(1)c) de la Loi;
+5. Quant aux services publics, des frais de 1 502 $ ont été engagés au cours de l’année d’imposition 2002.
+Les appelants ont droit aux frais et dépens pour un seul mémoire de frais.
+Signé à Ottawa, Canada, ce 3e jour de décembre 2008.
+« J. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 19e jour de janvier 2009.
+S. Tasset
+Référence : 2008CCI662
+Date : 20081203
+Dossiers : 2008-1301(IT)I
+2008-1303(IT)I
+ENTRE :
+CHRISTINE SANTAGAPITA,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+ET ENTRE :
+JOSEPH SANTAGAPITA,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Woods
+[1] Les appelants, qui sont mari et femme, interjettent appel de nouvelles cotisations établies en vertu de la Loi de l’impôt sur le revenu (la « Loi ») pour les années d’imposition 2002 et 2003. Les appels ont été entendus ensemble sur preuve commune sous le régime de la procédure informelle de la Cour.
+Historique
+[2] Les appels se rapportent à un immeuble commercial à usage locatif qui appartient aux appelants depuis 1986. Cet immeuble est situé au 124, rue Dundas, à London (Ontario).
+[3] Avant l’année 2001, les appelants louaient les locaux à 598537 Ontario Inc. Cette société appartenait à cent pour cent aux appelants; elle utilisait le rez‑de‑chaussée du bâtiment pour exploiter une quincaillerie, sous le nom de Warner Pro Hardware. Les deuxième et troisième étages du bâtiment étaient fermés et n’étaient pas utilisables.
+[4] Au mois de janvier 2001, un incendie s’est déclaré dans la quincaillerie, causant de gros dommages. Il a fallu fermer le magasin pendant un certain temps, mais M. Santagapita a néanmoins pu exploiter une entreprise de serrurerie à l’arrière des locaux.
+[5] Heureusement, les appelants et 598537 Ontario Inc. étaient adéquatement couverts par l’assurance pour leurs pertes. Une police couvrait tous les assurés, l’assureur étant Gore Mutual Insurance Company.
+[6] Peu de temps après l’incendie, de gros travaux de réparation ont été exécutés, d’abord par un entrepreneur que la compagnie d’assurance avait choisi, puis par M. Santagapita ou par des personnes que ce dernier avait embauchées.
+[7] À un moment donné, les appelants ont décidé de ne pas rouvrir la quincaillerie et ils ont fait des efforts pour louer le bâtiment à un tiers.
+[8] En 2005, le rez‑de‑chaussée du bâtiment a été loué à un locataire sans lien de dépendance pour que celui‑ci l’utilise pour des bureaux.
+Les points litigieux
+[9] Malheureusement, les questions qui se posent dans les présents appels font un peu penser à du sable mouvant. Je commencerai donc par décrire les questions telles qu’elles sont énoncées dans les avis d’appel modifiés des appelants, en date du 17 octobre 2008. Le passage pertinent des actes de procédure est reproduit ci‑dessous :
+[traduction]
+40. Le ministre a‑t‑il commis une erreur en concluant que l’immeuble n’était pas prêt à être mis en service jusqu’au 23 octobre 2003, de sorte que les dépenses devaient être capitalisées au lieu d’être admises à titre de dépenses courantes?
+41. Le ministre a‑t‑il commis une erreur en augmentant le revenu de l’appelant d’un montant de 12 500 $ pour chacune des années d’imposition 2002 et 2003 à l’égard du produit de l’assurance attribuable à la perte du revenu locatif?
+42. Subsidiairement, si le ministre a eu raison d’augmenter le revenu de l’appelant d’un montant de 12 500 $ pour chacune des années d’imposition 2002 et 2003 à l’égard du produit de l’assurance attribuable à la perte de loyer, l’appelant a‑t‑il le droit de déduire les dépenses jusqu’à concurrence de ce montant conformément au paragraphe 20(29) de la Loi?
+43. Le ministre a‑t‑il commis une erreur dans son calcul des dépenses?
+Le produit de l’assurance doit-il être inclus dans le revenu?
+[10] J’examinerai d’abord la question du produit de l’assurance. D’une façon générale, il s’agit de savoir si le ministre a commis une erreur en augmentant le revenu de chacun des appelants d’un montant de 12 500 $ pour les années d’imposition 2002 et 2003, de sorte qu’un montant de 50 000 $ en tout a été inclus dans le revenu. Ce montant représente le produit de l’assurance reçu pour la perte du loyer.
+[11] L’historique des faits est énoncé ci‑dessous.
+[12] Dans le cadre d’une transaction conclue avec la compagnie d’assurance en 2002, l’assureur a payé une somme forfaitaire de 121 500 $ (pièce A‑6). Cette somme a été versée à 598537 Ontario Inc. au moyen d’un chèque; elle comprenait tous les montants réclamés par les appelants ou par 598537 Ontario Inc.
+[13] Un montant de 50 000 $ était inclus dans la somme forfaitaire au titre de la [traduction] « perte de loyer ».
+[14] Compte tenu de la preuve soumise par l’intimée, laquelle comprend le témoignage du spécialiste en matière de réclamations qui s’est occupé du dossier chez Gore Mutual et laquelle comprend une lettre que le spécialiste a envoyée à l’avocate des appelants (pièce R‑3), je suis convaincue que les 50 000 $ constituaient le paiement afférent au droit des appelants de réclamer des dommages‑intérêts pour la perte de loyer aux termes de la police d’assurance. Cela étant, ce montant doit être inclus dans le revenu des appelants en vertu du paragraphe 9(1) de la Loi.
+[15] Les appelants soutiennent que ce montant n’est pas un revenu entre leurs mains parce que c’était leur société, plutôt qu’eux personnellement, qui a reçu l’argent.
+[16] Cet argument ne saurait être retenu. Les appelants avaient le droit de recevoir les fonds conformément à leur police d’assurance. C’est le droit aux fonds et non leur réception qui constitue l’événement imposable.
+[17] De plus, le paiement effectué en faveur de 598537 Ontario Inc. éteignait la créance des appelants contre l’assureur.
+[18] La preuve n’indique pas pourquoi le produit de l’assurance a été versé à 598537 Ontario Inc. sous la forme d’une somme forfaitaire. L’avocate des appelants a peut‑être demandé à l’assureur de payer ainsi les fonds. Mais cela importe peu. Les appelants avaient le droit de recevoir l’argent de l’assureur et de 598537 Ontario Inc., qui leur appartenait à cent pour cent.
+[19] Les appelants affirment en outre que le montant doit être inclus dans le revenu de l’année 2001.
+[20] Je ne souscris pas à cette prétention. L’incendie est survenu en 2001, mais il n’y a pas suffisamment d’éléments de preuve indiquant que le montant à payer pour la perte de loyer était connu ou déterminable à ce moment‑là.
+[21] Toutefois, selon certains éléments de preuve, le droit au paiement afférent à la perte de loyer est devenu connu le 27 février 2002 lorsque la compagnie d’assurance l’a reconnu dans une lettre envoyée à l’avocate des appelants (pièce R‑3). Compte tenu de la preuve qui a été présentée, je conclus que ce n’est qu’à ce moment‑là que les 50 000 $ étaient à recevoir.
+[22] Toutefois, cela ne met pas pour autant fin à l’affaire. Le ministre n’a pas inclus le montant de 50 000 $ au complet dans le revenu de 2002 lorsque la transaction a été conclue. Il a plutôt divisé le montant en parts égales entre les années d’imposition 2002 et 2003.
+[23] Il semble que le ministre ait divisé le montant de cette façon parce qu’il supposait que les 50 000 $ avaient été payés en deux versements égaux en 2002 et en 2003 (réponses, alinéa 15j)).
+[24] Toutefois, cette hypothèse était erronée. Le plein montant a été payé sous forme de somme forfaitaire en 2002.
+[25] Le ministre a commis une erreur en incluant une partie du produit de l’assurance attribuable à la perte de loyer dans le revenu des appelants pour l’année d’imposition 2003. Le montant au complet aurait dû être inclus dans l’année d’imposition 2002 lorsque la transaction a été conclue.
+[26] Par conséquent, le revenu pour l’année d’imposition 2003 doit être rajusté en vue de supprimer le produit de l’assurance.
+[27] Enfin, une dernière question a été soulevée pour la première fois dans les observations écrites. Elle n’a pas été clairement soulevée dans les actes de procédure et elle n’a pas non plus été soulevée à l’ouverture de l’audience lorsqu’un aperçu des points litigieux a été donné. Il semble que les parties se soient par la suite entendues pour que cette question soit prise en considération.
+[28] Les appelants soutiennent que l’inclusion du produit de l’assurance dans le revenu est frappée de prescription. À leurs dires, la question a été soulevée pour la première fois dans des nouvelles cotisations établies après l’expiration de la période normale de nouvelle cotisation et il n’y a pas eu négligence, inattention ou aveuglement volontaire de leur part lorsqu’ils ont exclu le montant en question de leurs déclarations de revenus.
+[29] Je ne suis pas d’accord avec les appelants pour dire qu’il n’y a pas eu négligence, inattention ou aveuglement volontaire. Les appelants ont pour le moins fait preuve d’inattention en omettant de déclarer les 50 000 $ au titre du revenu dans leurs déclarations de revenus pour l’année d’imposition 2002. On n’a fourni aucune explication valable tendant à justifier l’exclusion de ce montant des déclarations de revenus, y compris celles que 598537 Ontario Inc. a produites.
+[30] M. Santagapita a affirmé avoir toujours voulu inclure ce montant dans une modification de la déclaration de revenus de 598537 Ontario Inc. Or, cette explication est fournie six ans après l’année au cours de laquelle l’argent a été reçu, et aucune modification n’a encore été produite. Je ne trouve pas cette explication crédible.
+[31] Par conséquent, les cotisations seront maintenues sur ce point pour l’année d’imposition 2002, mais le produit de l’assurance sera exclu du revenu de l’année d’imposition 2003.
+À quelle date la construction a‑t‑elle été terminée?
+[32] Il s’agit en second lieu de savoir si certaines dépenses liées à la réparation du bâtiment doivent être capitalisées en vertu du paragraphe 18(3.1) de la Loi.
+[33] Le paragraphe 18(3.1) vise à exiger la capitalisation, au cours d’une période de construction, des dépenses liées à la construction qui seraient par ailleurs déductibles à titre de dépenses courantes.
+[34] Dans les nouvelles cotisations, le ministre a appliqué cette disposition à certaines dépenses engagées au cours des années d’imposition 2002 et 2003. Aux fins de l’établissement des cotisations, le ministre a supposé que la période de construction avait pris fin le 29 octobre 2003, lorsque l’entrée avant du bâtiment a été terminée.
+[35] Je ferais également remarquer que le ministre n’a pas capitalisé toutes les dépenses liées à la construction que les appelants ont déduites. Certains montants ont été refusés en entier conformément à l’alinéa 18(1)a). Nous reviendrons sur ce point plus loin dans les présents motifs.
+[36] Selon la position prise par les appelants, le paragraphe 18(3.1) ne s’applique pas aux années d’imposition 2002 ou 2003 parce que la rénovation du bâtiment était terminée à la fin de l’année 2001.
+[37] Les dispositions législatives pertinentes sont les paragraphes 18(3.1) et (3.3) de la Loi, qui sont reproduits ci‑dessous :
+18(3.1) Coûts liés à un bâtiment ou à un fonds de terre. Malgré les autres dispositions de la présente loi, dans le calcul du revenu d’un contribuable pour une année d’imposition :
+a) aucune déduction n’est faite à l’égard d’une dépense engagée ou effectuée par le contribuable (à l’exception d’une somme déductible en application des alinéas 20(1)a), aa) ou qq) ou du paragraphe 20(29)) qu’il est raisonnable de considérer soit comme un coût attribuable à la période de construction, de rénovation ou de transformation d’un bâtiment par le contribuable, par une personne avec laquelle il a un lien de dépendance, par une société dont il est un actionnaire déterminé ou par une société de personnes dont sa part sur le revenu ou la perte est d’au moins 10 %, ou pour leur compte, et lié à cette construction, rénovation ou transformation, soit comme un coût attribuable à cette période et lié à la propriété, pendant cette période, d’un fonds de terre qui :
+(i) soit est sous‑jacent au bâtiment,
+(ii) soit remplit les conditions suivantes :
+(A) il est contigu au fonds de terre sous‑jacent au bâtiment,
+(B) il est utilisé, ou destiné à être utilisé, comme terrain de stationnement, voie d’accès, cour ou jardin ou à un usage semblable,
+(C) il est nécessaire à l’utilisation présente ou projetée du bâtiment;
+b) dans la mesure où il serait déductible par ailleurs dans le calcul du revenu du contribuable pour l’année, le montant d’une telle dépense est inclus dans le calcul du coût ou du coût en capital, selon le cas, du bâtiment pour le contribuable, pour la personne avec laquelle il a un lien de dépendance, pour la société dont il est un actionnaire déterminé ou pour la société de personnes dont sa part du revenu ou de la perte est d’au moins 10 %, selon le cas.
+[...]
+(3.3) Achèvement de la construction. Pour l’application du paragraphe (3.1), la construction, la rénovation ou la transformation d’un bâtiment est terminée au premier en date des jours suivants : le jour où la construction, la rénovation ou la transformation est effectivement terminée et le jour où la totalité, ou presque, du bâtiment est utilisée aux fins auxquelles il a été construit, rénové ou transformé.
+[38] La question à trancher n’est pas contestée. Il s’agit de savoir à quel moment la rénovation du bâtiment a été terminée.
+[39] Selon les appelants, la rénovation a été terminée lorsque l’entrepreneur embauché par la compagnie d’assurance a fini son travail, à la fin de l’année 2001.
+[40] Je suis prête à reconnaître que l’entrepreneur embauché par la compagnie d’assurance a achevé sa partie des travaux à la fin de l’année 2001, mais cela ne veut pas pour autant dire que la rénovation a été terminée à ce moment‑là.
+[41] À la fin de l’année 2001, le bâtiment n’était clairement pas prêt à être mis en service. L’intérieur du bâtiment n’était qu’une enveloppe vide et l’entrée avant devait être refaite.
+[42] C’est M. Santagapita lui‑même qui a construit l’entrée, en 2003; il a achevé les travaux le 29 octobre de cette année‑là. Quant à l’intérieur, il semble que le bâtiment ait continué à être pour ainsi dire une enveloppe vide jusqu’en 2005, lorsqu’un locataire sans lien de dépendance a achevé les travaux.
+[43] Si j’examine la preuve dans son ensemble, je ne puis souscrire à la position des appelants lorsqu’ils affirment qu’à la fin de l’année 2001, la rénovation était terminée.
+[44] En édictant le paragraphe 18(3.1), le législateur voulait interdire la passation en charges de dépenses liées à la construction pendant qu’un immeuble est encore en construction. En l’espèce, la période de construction a pris fin au plus tôt lorsque l’entrée avant a été achevée, soit le 29 octobre 2003.
+[45] Selon les appelants, les travaux de rénovation exécutés en 2002 et en 2003 n’étaient pas nécessaires pour terminer la rénovation du bâtiment. Je ne suis pas convaincue qu’il en soit ainsi, et ce, pour la simple raison qu’à la fin de l’année 2001, le bâtiment n’était pas habitable et que des travaux de rénovation additionnels étaient envisagés. De fait, certains travaux de construction ont été exécutés en 2002 et en 2003.
+[46] M. Santagapita a témoigné avoir à dessein tardé à finir l’intérieur du bâtiment et l’entrée avant en attendant de trouver un locataire. Il a déclaré avoir par la suite décidé d’achever la façade avant de louer le bâtiment parce que l’entrée était une horreur pour les voisins.
+[47] Même si ce témoignage est retenu, il n’établit pas que la période de construction a pris fin à la fin de l’année 2001. Le projet de construction a peut‑être accusé des retards, mais cela ne veut pas dire que les travaux étaient terminés.
+[48] En outre, la preuve dans son ensemble ne me convainc pas que M. Santagapita a tardé à finir les travaux pour que ceux‑ci puissent être achevés selon les exigences d’un locataire.
+[49] Je ferais remarquer que le témoignage de M. Santagapita sur ce point va à l’encontre des déclarations que les appelants ont faites à l’assureur par l’entremise de leur cabinet d’avocats, Harrison Pensa. En effet, le 7 mars 2002, Harrison Pensa a dit ce qui suit à la compagnie d’assurance en tentant de régler la réclamation (pièce R‑2) :
+[traduction]
+[...] Je puis confirmer que M. Santagapita a l’intention de rouvrir ces locaux pour qu’une quincaillerie Warner Pro Hardware y soit exploitée. [...]
+[...] vous avez soulevé le fait que certains retards associés aux travaux de construction sont peut‑être attribuables à M. Santagapita, plus précisément, pour ce qui est de la façade du commerce. [...] Vous constaterez, au quatrième paragraphe de cette lettre, que M. Santagapita a dès le début, au mois de février 2001, pris sa décision au sujet de la façade. Toutefois, aucune réparation ne pouvait être faite à ce moment‑là à cause des problèmes continus concernant le mur mitoyen. M. Santagapita m’a informé qu’il n’est donc pas prêt à être tenu responsable des retards associés à la construction. [...]
+[50] Dans son témoignage, M. Santagapita est revenu sur certaines déclarations figurant dans la lettre, en affirmant qu’elle avait été rédigée dans le cadre de négociations en vue d’une transaction.
+[51] Ce témoignage me préoccupe parce qu’il m’est impossible de déterminer quelle est la bonne version des événements. Les représentations que Harrison Pensa a faites à l’assureur étaient des déclarations intéressées, comme l’était également le témoignage que M. Santagapita a présenté à l’audience.
+[52] Par conséquent, je ne suis pas convaincue que la période de construction ait pris fin à la fin de l’année 2001. L’examen de la preuve dans son ensemble m’amène à conclure que la construction a été terminée au plus tôt au moment présumé par le ministre, soit le 29 octobre 2003.
+[53] Avant de passer à autre chose, j’aimerais également mentionner un incident qui est survenu au cours de la période en cause, en ce qui concerne la TPS.
+[54] Un agent de l’Agence du revenu du Canada a témoigné à l’audience d’une façon passablement détaillée au sujet d’une fausse demande de remboursement de la TPS que M. Santagapita avait produite auprès de l’Agence du revenu du Canada au mois de janvier 2003.
+[55] Selon le témoignage de l’agent, lequel en général n’a pas été contesté, M. Santagapita avait ourdi un stratagème en vue de faire de fausses demandes de remboursement de crédits de taxe sur les intrants. Il s’agissait d’un stratagème minutieusement planifié et mis en œuvre, lequel comportait la création de fausses factures qui étaient acquittées au moyen de dépôts effectués dans une société contrôlée par M. Santagapita.
+[56] Bien sûr, cet incident ne prouve pas que le témoignage que M. Santagapita a présenté à l’audience n’était pas crédible, mais il donne à entendre qu’il faut être prudent en acceptant son témoignage sur des points qui auraient pu être corroborés, mais qui ne l’ont pas été.
+[57] L’avocate des appelants s’est opposée à la présentation de cette preuve, mais il était selon moi approprié, et de fait important, pour l’intimée de la présenter.
+Le paragraphe 18(3.1) s’applique‑t‑il aux frais d’intérêt?
+[58] Dans ses observations écrites, l’avocate de l’intimée a soulevé une question au sujet des frais d’intérêt. La chose n’a pas été mentionnée dans la réponse, ni même insinuée, et il n’en a pas été question dans les observations des appelants. Cette question donne aux appelants un autre moyen possible de passer les intérêts en charges et il faut louer l’avocate de l’intimée pour l’avoir soulevée dans ses observations écrites.
+[59] Dans les cotisations, le ministre a appliqué le paragraphe 18(3.1) et il a capitalisé les intérêts payables en 2002 sur une hypothèque qui grevait l’immeuble de la rue Dundas. Toutefois, aucun intérêt n’a été capitalisé pour l’année d’imposition 2003 parce que le ministre n’était pas convaincu que des frais d’intérêt avaient été engagés cette année‑là étant donné qu’aucune documentation n’avait été fournie.
+[60] La question est décrite au paragraphe 56 des observations écrites de l’intimée, reproduit ci‑dessous :
+[traduction]
+56. En établissant les nouvelles cotisations des appelants en 2002, le ministre a supposé que les intérêts payés ou payables par les appelants ne pouvaient pas être rattachés au bâtiment, mais qu’ils pouvaient raisonnablement être considérés comme des intérêts sur de l’argent emprunté utilisé par le contribuable à l’égard de la construction, de la rénovation ou de la transformation du bâtiment. Par conséquent, le ministre a supposé que des frais d’intérêt de 19 044 $ avaient été engagés en tant qu’ajout à un bien de la catégorie 3, conformément aux paragraphes 18(3.1) et (3.2). Afin de démolir l’hypothèse émise par le ministre et de demander avec succès la déduction des frais d’intérêt, il incombe aux appelants de démontrer :
+(i) que le paragraphe 18(3.2) ne s’appliquait pas;
+(ii) qu’une autre disposition de la Loi s’appliquait en vue de permettre la déduction.
+Cela peut être fait si les appelants prouvent que l’argent emprunté se rapportait au bâtiment et que les frais d’intérêt étaient déductibles conformément à l’alinéa 20(1)c). Pour que l’alinéa 20(1)c) s’applique, l’argent emprunté doit être utilisé en vue de tirer un revenu d’une entreprise ou d’un bien. Lors du contre‑interrogatoire, M. Santagapita n’a pas pu établir l’utilisation courante de l’argent emprunté. Par conséquent, les appelants n’ont pas établi l’utilisation directe de l’argent emprunté pour l’année 2002. Le ministre a eu raison de supposer que le paragraphe 18(3.1) s’appliquait aux frais d’intérêt de l’année 2002.
+[61] Si je comprends bien la position de l’intimée, les intérêts payables à l’égard de l’hypothèque grevant l’immeuble de la rue Dundas n’ont pas à être capitalisés en vertu du paragraphe 18(3.1) à moins que le produit de l’hypothèque ne puisse être raisonnablement considéré comme étant utilisé pour le projet de rénovation. D’autre part, si l’argent emprunté avait été utilisé aux fins de l’achat de l’immeuble, les intérêts pourraient être passés en charges en vertu de l’alinéa 20(1)c).
+[62] Je ferais d’abord remarquer que la réponse ne renferme aucune mention du paragraphe 18(3.2) ou de l’alinéa 20(1)c) et qu’aucune hypothèse n’est émise au sujet de l’utilisation du produit de l’hypothèque. Pour être juste envers les appelants, tout cela aurait dû être énoncé dans la réponse.
+[63] Quant au fond, la question à trancher se rapporte à l’utilisation réelle du produit de l’hypothèque. M. Santagapita a été contre‑interrogé par l’avocate de l’intimée sur ce point. Ses réponses étaient vagues, mais je conclus que les appelants ont probablement utilisé le produit de l’hypothèque afin d’acheter l’immeuble de la rue Dundas.
+[64] Par conséquent, les intérêts payables sur l’hypothèque peuvent être passés en charges en vertu de l’alinéa 20(1)c). Il reste à déterminer le montant dépensé au titre des intérêts; nous reviendrons sur ce point plus loin dans les présents motifs.
+Le montant capitalisé devrait-il être réduit, conformément au paragraphe 20(29)?
+[65] À titre d’argument subsidiaire, les appelants font valoir que certaines dépenses qui devraient par ailleurs être capitalisées en vertu du paragraphe 18(3.1) devraient être passées en charges conformément au paragraphe 20(29) de la Loi.
+[66] En général, le paragraphe 20(29) autorise la déduction des dépenses qui seraient par ailleurs capitalisées en vertu du paragraphe 18(3.1) jusqu’à concurrence du revenu tiré de la location du bâtiment.
+[67] Le paragraphe 20(29) prévoit ce qui suit :
+20(29) Idem. Lorsque, par l’effet du paragraphe 18(3.1), aucune déduction ne pourrait être faite par un contribuable, sans le présent paragraphe, à l’égard de dépenses afférentes à tout ou partie d’un bâtiment, mais que ces dépenses seraient déductibles, sans le paragraphe 18(3.1) et le présent paragraphe, dans le calcul du revenu du contribuable pour une année d’imposition, le moins élevé des montants suivants est déductible dans ce calcul pour l’année au titre de telles dépenses :
+a) le total de telles dépenses;
+b) le revenu que le contribuable tire pour l’année de la location de tout ou partie du bâtiment, calculé sans le paragraphe (28) et le présent paragraphe
+[68] Les appelants affirment que si le produit de l’assurance reçu pour la perte de loyer doit être inclus dans leur revenu, ils devraient avoir droit à une déduction jusqu’à concurrence de ce montant pour les dépenses par ailleurs capitalisées en vertu du paragraphe 18(3.1).
+[69] Je souscris à cet argument.
+[70] En ce qui concerne cette question, il faut interpréter le membre de phrase « le revenu que le contribuable tire pour l’année de la location [...] du bâtiment », au paragraphe 20(29). A‑t‑il une portée suffisamment générale pour inclure le produit de l’assurance?
+[71] Selon moi, le membre de phrase en question peut être interprété de plus d’une façon. Je conclus que, selon une approche téléologique, le membre de phrase peut, et devrait, être interprété en vue d’inclure le revenu tiré d’une activité locative, ce qui comprendrait le produit de l’assurance obtenu pour la perte de loyer.
+[72] Par conséquent, les dépenses engagées par les appelants qui devraient par ailleurs être capitalisées en vertu du paragraphe 18(3.1) sont déductibles jusqu’à concurrence d’un maximum de 12 500 $ pour chacun des appelants en ce qui concerne l’année d’imposition 2002.
+Quelles sont les dépenses qui ont été engagées?
+[73] Dans les nouvelles cotisations, le ministre a adopté le point de vue selon lequel certaines dépenses devaient être refusées en entier conformément à l’alinéa 18(1)a) de la Loi. Cette disposition est rédigée comme suit :
+18(1) Exceptions d’ordre général – Dans le calcul du revenu du contribuable tiré d’une entreprise ou d’un bien, les éléments suivants ne sont pas déductibles :
+a) Restriction générale – les dépenses, sauf dans la mesure où elles ont été engagées ou effectuées par le contribuable en vue de tirer un revenu de l’entreprise ou du bien;
+[74] Les appelants affirment, au paragraphe 47 des avis d’appel modifiés, que les dépenses déduites dans les déclarations de revenus sont exactes, sauf quant aux éléments pour lesquels le ministre a accepté un montant plus élevé.
+[75] Indépendamment du bien‑fondé de cet argument, j’admets qu’il est difficile de savoir exactement quelle est la réparation qui est demandée.
+[76] Il s’agit en premier lieu de déterminer les éléments que le ministre a accepté d’augmenter en sus de ce qui était demandé dans les déclarations de revenus. Il est vrai que le ministre a accepté d’augmenter le montant de certaines dépenses, mais on ne sait pas trop s’il s’agit des mêmes éléments que ceux que les appelants ont mentionnés au paragraphe 47 de leur mémoire.
+[77] À ce problème vient s’ajouter le fait qu’il ressort des observations écrites des appelants que leur position a quelque peu changé depuis le dépôt des avis d’appel modifiés.
+[78] Le tableau reproduit ci‑dessous résume, dans la mesure où j’ai pu rattacher les choses les unes aux autres, les positions finales des parties au sujet des diverses dépenses :
+Position des appelants dans les avis d’appel
+Position des appelants dans le mémoire
+Position de l’intimée dans les réponses
+Contesté?
+2002
+Assurance
+2 196 $
+2 196 $
+2 196 $
+Non
+Intérêts
+22 614 $
+19 044 $
+19 044 $
+Non
+Entretien et réparations
+12 518 $
+12 583 $
+Non
+Impôts fonciers
+2 788 $
+2 788 $
+2 788 $
+Non
+Services publics
+1 502 $
+1 502 $
+néant
+Oui
+2003
+Assurance
+2 621 $
+2 621 $
+2 621 $¹
+Non
+Intérêts
+17 644 $
+19 218 $
+néant
+Oui
+Entretien et réparations
+13 098 $
+15 475 $
+3 144 $
+Oui
+Impôts fonciers
+2 673 $
+2 673 $
+2 673 $
+Non
+Services publics
+500 $
+187 $
+187 $
+Non
+¹ Réponses, paragraphe 14 et alinéa 15x).
+[79] J’examinerai chacun des éléments contestés dans l’ordre où ils figurent dans le tableau.
+Les services publics
+[80] Le premier élément se rapporte aux frais de services publics pour l’année d’imposition 2002. Dans leurs observations écrites, les appelants affirment que le ministre a reconnu que ces dépenses avaient été engagées.
+[81] Il n’est pas clair, à mes yeux, que le ministre ait de fait reconnu que ces dépenses avaient été engagées. Les réponses du ministre donnent certes à entendre le contraire (alinéa 15s)).
+[82] Néanmoins, j’ai décidé d’accepter les observations des appelants sur ce point, qui est relativement peu important dans le contexte des présents appels.
+[83] Ma conclusion est fondée sur l’annexe A jointe aux avis d’appel modifiés. Ce document semble être un tableau de l’ARC donnant à entendre que les frais de services publics devraient être acceptés.
+Les intérêts
+[84] Le deuxième élément à prendre en considération se rapporte aux frais d’intérêt pour l’année d’imposition 2003.
+[85] En ce qui concerne les cotisations, le ministre a reconnu que des frais d’intérêt hypothécaire de 19 044 $ avaient été engagés au cours de l’année d’imposition 2002, mais il n’a pas reconnu que des frais d’intérêt avaient été engagés au cours de l’année d’imposition 2003 parce qu’aucune documentation n’avait été fournie.
+[86] À l’audience, les appelants ont produit la documentation nécessaire pour l’année d’imposition 2003. La documentation était composée d’un relevé bancaire indiquant des intérêts s’élevant en tout à 19 218 $. Compte tenu de cet élément de preuve ainsi que d’autres éléments, je conclus que ce montant représentait des intérêts payables à l’égard de l’année d’imposition 2003. Je conclus également que l’argent emprunté a été utilisé aux fins de l’achat initial du bâtiment.
+L’entretien et les réparations
+[87] Le dernier élément en litige figure sous la rubrique [traduction] « Entretien et réparations ».
+[88] Les appelants affirment que ces dépenses s’élèvent en tout à 15 475 $, alors qu’un montant de 13 098 $ seulement était déduit dans les déclarations de revenus. Après la vérification et le processus d’opposition, le ministre a uniquement admis un montant de 3 144 $.
+[89] À l’audience, les appelants ont produit en preuve de nombreux reçus (17 liasses distinctes) provenant de plusieurs magasins, dont la plupart étaient spécialisés dans la rénovation de maisons.
+[90] Les reçus en tant que tels n’établissent pas que ces articles ont été achetés aux fins de la réparation et de l’entretien du bâtiment de la rue Dundas.
+[91] Par conséquent, il s’agit d’une question de preuve. Existe‑t‑il suffisamment d’éléments de preuve établissant l’existence d’un lien entre les reçus et le projet de rénovation, au 124, rue Dundas?
+[92] L’établissement du lien suscite certains problèmes évidents. Premièrement, la plupart des reçus semblent se rapporter à des matériaux et à de l’équipement de construction, mais pas tous les reçus. De plus, l’avocate de l’intimée a signalé que l’un des reçus se rapportait à des tuiles qui devaient être livrées ailleurs, pour un autre bâtiment appartenant aux appelants. Aucune explication satisfaisante n’a été donnée sur ce point.
+[93] M. Santagapita a témoigné au sujet de ces reçus, mais selon moi, son témoignage n’était pas suffisamment clair et cohérent pour être convaincant.
+[94] Je ferais également remarquer qu’un grand nombre de reçus se rapportent à des achats payés en espèces. Je suis d’accord avec l’intimée pour dire qu’un grand nombre d’achats ont peut‑être été faits par d’autres personnes que les appelants.
+[95] Si j’examine la preuve dans son ensemble, je conclus qu’il n’y a pas suffisamment d’éléments de preuve fiables établissant un lien entre les reçus et le projet de construction au 124, rue Dundas.
+[96] Le problème essentiel auquel font face les appelants est qu’ils n’ont pas pu produire de livres comptables appropriés préparés en temps opportun.
+[97] Je reconnais que les appelants ont peut‑être engagé plus de dépenses que celles que le ministre a admises, mais il n’existe pas suffisamment d’éléments de preuve fiables pour établir quel devrait être le montant approprié. Dans ces conditions, les cotisations seront confirmées sur ce point.
+Conclusion
+[98] Compte tenu des conclusions susmentionnées, les appels seront accueillis et les cotisations seront renvoyées au ministre pour nouvel examen et nouvelle cotisation sur la base suivante :
+a) Quant au produit de l’assurance de 50 000 $, un montant de 12 500 $ sera inclus dans le calcul du revenu de chacun des appelants pour l’année d’imposition 2002 et aucun montant ne sera inclus pour l’année d’imposition 2003;
+b) Quant aux frais accessoires, le paragraphe 18(3.1) de la Loi doit s’appliquer à l’égard des années d’imposition 2002 et 2003 compte tenu du fait que la rénovation du bâtiment a été terminée le 29 octobre 2003;
+c) Quant aux frais accessoires se rapportant à l’année d’imposition 2002, le montant restreint prévu au paragraphe 18(3.1) sera réduit conformément au paragraphe 20(29) de la Loi, jusqu’à concurrence d’un montant de 12 500 $ pour chaque appelant;
+d) Quant aux frais d’intérêt se rapportant à l’hypothèque, chacun des appelants a droit, pour les années d’imposition 2002 et 2003, à une déduction de 50 p. 100, soit 19 044 $ et 19 218 $ respectivement, conformément à l’alinéa 20(1)c) de la Loi;
+e) Quant aux services publics, des frais de 1 502 $ ont été engagés au cours de l’année d’imposition 2002.
+[99] Les appelants ont droit aux frais et dépens pour un seul mémoire de frais.
+Signé à Ottawa, Canada, ce 3e jour de décembre 2008.
+« J. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 19e jour de janvier 2009.
+S. Tasset
+RÉFÉRENCE : 2008CCI662
+Nos DES DOSSIERS DE LA COUR : 2008-1301(IT)I
+2008‑1303(IT)I
+INTITULÉ : CHRISTINE SANTAGAPITA
+c.
+SA MAJESTÉ LA REINE
+et JOSEPH SANTAGAPITA
+c.
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : London (Ontario)
+DATE DE L’AUDIENCE : Les 24 et 31 octobre 2008
+MOTIFS DU JUGEMENT : L’honorable juge J. Woods
+DATE DU JUGEMENT : Le 3 décembre 2008
+COMPARUTIONS :
+Avocate des appelants :
+Me Julie Rogers-Glabush
+Avocate de l’intimée :
+Me Suzanie Chua
+AVOCATS INSCRITS AU DOSSIER :
+Pour les appelants :
+Nom : Julie Rogers-Glabush
+Cabinet : Cabinet d’avocats Rogers-Glabush
+London (Ontario)
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

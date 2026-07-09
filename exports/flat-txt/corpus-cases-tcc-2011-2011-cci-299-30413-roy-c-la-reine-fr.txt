@@ -1,0 +1,166 @@
+Title: Roy c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30413/index.do
+Corpus path: corpus/cases/tcc/2011/2011-cci-299-30413-roy-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2011-06-22
+
+# Roy c. La Reine
+
+- Citation: 2011 CCI 299
+- Decision date: 2011-06-22
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7942, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Roy c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2011-06-22
+Référence neutre
+2011 CCI 299
+Numéro de dossier
+2007-3748(IT)G
+Juges et Officiers taxateurs
+Eric A. Bowie
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2007-3748(IT)G
+ENTRE :
+RICHARD ROY,
+appelant,
+et
+SA MAJESTÉ LA REINE
+intimée.
+[traduction française officielle]
+____________________________________________________________________
+Appels entendus le 19 janvier 2011, à Ottawa (Ontario)
+Devant : L’honorable juge E. A. Bowie
+Comparutions :
+Pour l’appelant :
+L’appelant lui‑même
+Avocates de l’intimée :
+Me Natasha Wallace
+Me Geneviève Léveillé
+____________________________________________________________________
+JUGEMENT
+Les appels interjetés à l’égard des nouvelles cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 2000, 2001 et 2002 sont accueillis et les nouvelles cotisations sont modifiées de manière à annuler les pénalités.
+Signé à Ottawa, Canada, ce 22e jour de juin 2011.
+« E. A. Bowie »
+Juge Bowie
+Traduction certifiée conforme
+ce 12e jour d’août 2011.
+Mario Lagacé, jurilinguiste
+Référence : 2011 CCI 299
+Date : 20110622
+Dossier : 2007-3748(IT)G
+ENTRE :
+RICHARD ROY,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle]
+MOTIFS DU JUGEMENT
+Le juge Bowie
+[1] M. Roy a interjeté appel des nouvelles cotisations établies à son égard en vertu de la Loi de l’impôt sur le revenu[1] (la « Loi ») pour les années d’imposition 2000, 2001 et 2002. Pour chacune de ces années, il avait produit une déclaration de revenus où il affirmait avoir subi des pertes d’entreprise considérables relativement à une société de personnes qu’il exploitait avec deux autres associés. Les cotisations initiales ont été établies conformément aux déclarations de revenus de M. Roy, les pertes d’entreprise permettant de réduire ses autres revenus. Toutefois, en mars 2004, de nouvelles cotisations ont été établies, dans lesquelles les déductions pour pertes d’entreprise ont été refusées et des pénalités pour faute lourde ont été imposées. Les appels en cause visent ces nouvelles cotisations.
+[2] Les pertes déclarées par M. Roy ont été calculées de la manière suivante :
+Année d’imposition
+2000
+2001
+2002
+Revenus bruts de la société de personnes
+42 455 $
+42 385 $
+36 995 $
+Dépenses déclarées
+102 804 $
+100 048 $
+95 180 $
+Pertes d’entreprise totales
+60 349 $
+57 663 $
+58 185 $
+Participation de M. Roy dans la société de personnes
+80 %
+80 %
+89,1 %
+Pertes déclarées par M. Roy
+48 279 $
+46 130 $
+51 842 $
+Pour établir les nouvelles cotisations, le ministre du Revenu national (le « ministre ») a tenu pour acquis que, pour chacune des années en cause, les dépenses totales faites par la société de personnes étaient égales aux revenus bruts déclarés et que la société de personnes n’avait donc réalisé aucun bénéfice ou subi aucune perte. Les hypothèses sur lesquelles le ministre s’est fondé pour établir les nouvelles cotisations, décrites dans les plaidoiries du sous‑procureur général, reconnaissent expressément que l’appelant était membre d’une société de personnes, mais elles soutiennent que la société de personnes [traduction] « n’a subi aucune perte d’entreprise pour les années d’imposition 2000, 2001 et 2002 ». Il est bien établi en droit que, pour obtenir gain de cause dans les appels visant les nouvelles cotisations d’impôt établies à son endroit, M. Roy doit établir, au moyen d’éléments de preuve solides, que cette hypothèse de fait, sur laquelle le ministre s’est fondé pour établir les nouvelles cotisations, est erronée. C’est ce que la Cour suprême du Canada a décidé en 1924[2] et a rappelé à plusieurs reprises depuis[3].
+[3] Au paragraphe 13 de la réponse à l’avis d’appel, il est mentionné – sans toutefois qu’il s’agisse d’une hypothèse du ministre – que [traduction] « la société de personnes n’exploitait pas d’entreprise de location de bateau pendant les années d’imposition 2000, 2001 ou 2002 ». Il est difficile de comprendre comment l’intimée a pu avancer cet argument : si la société de personnes n’exploitait pas d’entreprise de location de bateau pendant les années en cause, elle ne pouvait tout simplement pas constituer une société de personnes, car rien ne donne à penser qu’elle exploitait quelque autre entreprise que ce soit, et, sans l’exploitation d’une entreprise en vue de réaliser un bénéfice, il ne peut pas y avoir de société de personnes (voir l’arrêt Backman c. Canada[4]). L’appelant a produit ses déclarations de revenu en partant du principe qu’il était associé au sein d’une société de personnes, que la société de personnes était propriétaire d’un bateau et qu’elle exploitait une entreprise de location coque nue. Le ministre a établi les cotisations et les nouvelles cotisations sur le même fondement. Il a été démontré qu’une annonce avait été affichée sur un site Web en vue de louer le bateau. Les appels sont donc instruits en tenant pour acquis qu’il existait une telle entreprise. Par conséquent, les seules questions en litige sont de savoir si l’appelant à réussi à infirmer l’hypothèse du ministre selon laquelle la société de personnes n’avait subi aucune perte pour les trois années en cause et si, pour chacune des trois années, le ministre s’est déchargé du fardeau « […] d’établir les faits qui justifient l’imposition de la pénalité » qui est prévu au paragraphe 163(3) de la Loi.
+[4] M. Roy a témoigné à l’audience. J’estime que, en général, son témoignage était honnête, mais il souffrait du fait qu’il consistait principalement à du ouï‑dire. Par ailleurs, même si je suis convaincu que M. Roy croyait ce qu’il disait, une grande partie de son témoignage était forcément fondée sur ce que lui avait dit son ami M. Jarvis. Pour les appels en cause, les facteurs primordiaux sont l’absence de toute information de première main quant aux opérations financières de la société de personnes et des livres et registres de la société de personnes. Ni le comptable qui avait rempli les déclarations de revenu de M. Roy et des autres associés, ni le répartiteur du ministre qui avait effectué la vérification fiscale, ni la Cour n’y ont eu accès. Par conséquent, il est tout simplement impossible de connaître les revenus et les dépenses de l’entreprise de location de bateau pour les années d’imposition en cause.
+[5] M. Roy est pilote militaire. Lors de sa formation pour cette profession, il a rencontré Bruce Jarvis et s’est lié d’amitié avec lui. Ils ont passé beaucoup de temps ensemble dans les années 1990, alors qu’ils étaient tous deux affectés à la base de Greenwood, en Nouvelle‑Écosse, comme instructeurs. Pendant cette période, ils ont souvent discuté de la possibilité de lancer une entreprise ensemble. En 1996, M. Jarvis est devenu pilote civil pour la compagnie aérienne Cathay Pacific et il a été affecté à Vancouver. Peu après, MM. Jarvis et Roy ont fait les premières démarches pour concrétiser leur rêve de lancer une entreprise de location de yacht. M. Jarvis était un marin expérimenté, capable d’être capitaine de voiliers allant jusqu’à 50 pieds. Un autre ancien collègue militaire de M. Jarvis, Sean Dunn, vivait aussi à Vancouver et était un bon marin. Ensemble, les trois devaient acquérir un voilier Bénéteau et l’amarrer à Vancouver, où M. Jarvis et M. Dunn s’en serviraient pour exploiter une entreprise de location coque nue. Il semble que M. Jarvis était l’âme dirigeante de ce projet. Comme il était le marin le plus aguerri, M. Jarvis allait évaluer les aptitudes des affréteurs potentiels et diriger les activités quotidiennes de l’entreprise. M. Dunn devait l’aider à s’occuper de l’entretien du bateau. M. Roy, qui vivait à l’autre bout du pays, n’allait pas pouvoir participer aux activités quotidiennes de l’entreprise, mais il devait contribuer à l’acquisition du bateau.
+[6] Vu les éléments de preuve présentés, je suis d’avis qu’aucun des associés ne disposait des liquidités considérables qui auraient été nécessaires pour acquérir un voilier de 50 pieds d’une telle qualité. Manifestement, M. Roy n’avait pas une telle somme. M. Dunn travaillait comme chauffeur d’autobus à Vancouver, et il semble peu probable qu’il ait eu beaucoup de capital à investir. M. Roy a témoigné qu’il ne savait pas exactement dans quelle mesure M. Jarvis avait contribué à l’achat du bateau, mais il semble que M. Jarvis était propriétaire de terrains sur l’île de Vancouver et qu’il les avait offerts en garantie pour obtenir un prêt de la CIBC. Grâce à la somme empruntée, MM. Jarvis et Dunn ont pu commander le bateau vers la fin de 1998. Le montant initial du prêt consenti par la CIBC et le prix d’achat versé au fabricant du bateau n’ont pas été mis en preuve. Cependant, la déclaration de revenu produite par M. Roy pour l’année d’imposition 2001 indique que la fraction non amortie du coût en capital du bateau s’élevait à 577 590 $, et une lettre envoyée par la CIBC révèle que les intérêts payés sur le prêt en 2000 totalisaient 39 472,50 $. M. Roy a témoigné que lui, M. Jarvis et M. Dunn avaient tous signé le contrat de prêt de la CIBC et qu’ils avaient demandé que le bateau leur soit livré à Vancouver. C’est à ce moment‑là que les choses ont pris un tournant désastreux.
+[7] Après que le bateau avait été commandé, mais avant qu’il ait été livré, Cathay Pacific a réaffecté M. Jarvis de Vancouver à Hong Kong. Ensuite, sans même consulter M. Roy, M. Jarvis a demandé au fabricant de lui livrer le bateau à Hong Kong, ce que ce dernier a fait. À compter de ce moment‑là, la relation entre M. Roy et M. Jarvis semble être devenue tendue, au mieux, et la participation de M. Roy dans le processus décisionnel a considérablement diminué. Le témoignage de M. Roy quant aux faits ultérieurs représente simplement du ouï‑dire, car il est fondé sur ce que M. Jarvis a bien voulu lui dire de temps à autre. Selon le témoignage de M. Roy, M. Jarvis a réussi à obtenir certains revenus en louant le bateau à Hong Kong, mais pas assez pour couvrir les dépenses. À un moment donné, M. Dunn s’est rendu à Hong Kong, puis lui et M. Jarvis ont tenté de retourner à Vancouver sur le bateau, mais un typhon les a forcés à abandonner leur traversée. En date de l’audience, le bateau était amarré en Thaïlande et sa mise en vente était annoncée à cet endroit.
+[8] Des documents déposés en preuve à l’audience révèlent les faits suivants à propos de la société de personnes et des propriétaires du bateau. En vertu de la Loi sur les noms commerciaux de l’Ontario, le nom « Offshore Adventures » a été enregistré comme nom commercial pour une société en nom collectif dont les associés étaient Barbara Jarvis, d’Etobicoke, en Ontario, et Richard A. Roy, de North Alton, en Nouvelle‑Écosse. Barbara Jarvis est la mère de Bruce Jarvis. Selon les déclarations de revenu produites par M. Roy pour les années d’imposition 2000 et 2001, M. Roy détenait une participation de 80 % dans la société de personnes « Offshore Adventures », et Mme Jarvis et M. Dunn détenaient chacun une participation de 10 % dans la société. En 2002, M. Dunn avait fait faillite, et la déclaration de revenu de M. Roy pour cette année‑là indique que M. Roy détenait désormais une participation de 89 % dans la société de personnes, sans donner de détails sur les autres associés.
+[9] L’autre document pertinent qui a été déposé en preuve est le certificat d’immatriculation du bateau Trionos, délivré en vertu de la Loi sur la marine marchande du Canada. Selon ce certificat, le bateau est une embarcation de plaisance de 14,3 mètres et de 23,37 tonnes de marque Bénéteau, dont la propriété est divisée de la manière suivante :
+Sean Patrick Dunn - 10 parts (15,625 %)
+Bruce Robert Jarvis - 2 parts (3,125 %)
+Richard Allan Roy - 52 parts (81,25 %)
+Aucun des éléments de preuve n’explique les contributions respectives des propriétaires au prix d’achat du bateau ou la manière dont ils avaient convenu de la division des parts du vaisseau dont témoigne le certificat d’immatriculation. De même, aucune explication n’a été donnée quant au fait que M. Jarvis est l’un des propriétaires du bateau, mais que c’est sa mère qui est associée de la société « Offshore Adventures ».
+[10] La société de personnes dont M. Roy prétend faire partie n’a aucun contrat de société et pas de compte bancaire. De plus, M. Roy n’a pas pu produire de livres comptables qui auraient permis de connaître les opérations financières de la société de personnes. M. Roy a témoigné qu’il avait peut‑être rencontré Mme Jarvis une fois, mais il a dit n’avoir jamais discuté des activités d’Offshore Adventures avec elle. Il semble que M. Roy n’en ait pas non plus discuté avec M. Dunn.
+[11] M. Kenneth Bower est comptable général accrédité. Il a rempli les déclarations de revenu de M. Roy pour les années visées par les appels, ainsi que celles des autres associés, à savoir M. Dunn et Mme Jarvis. M. Bower a témoigné qu’il avait établi les déclarations à partir des renseignements sommaires au sujet des revenus et des dépenses que lui avait fournis M. Jarvis alors que ce dernier était à Hong Kong, où il exploitait l’entreprise de location de bateau, quelle que soit la forme qu’elle avait. Ni M. Bower, ni M. Roy, ni aucun autre témoin n’avaient une connaissance directe des activités de la société de personnes. Sans surprise, les principales déductions demandées au titre des dépenses de la société de personnes ont trait aux intérêts payés sur le prêt de la CIBC et aux déductions pour amortissement relatives au bateau. Selon des lettres de la CIBC qui ont été déposées en preuve, les intérêts payés s’élevaient à 39 472,50 $ pour 2000 et à 31 688,29 $ pour 2001. À un moment donné, un arriéré a commencé à s’accumuler et la CIBC a intenté une poursuite devant la Cour suprême de la Colombie‑Britannique à l’encontre de MM. Jarvis, Roy et Dunn pour recouvrer le solde impayé. M. Bower a témoigné qu’il n’avait jamais vu de facture pour le bateau. Il avait quand même vu quelques reçus, mais, pour établir les déclarations de revenu, il s’était presque entièrement fondé sur les renseignements sommaires fournis par M. Jarvis.
+[12] Si l’intimée n’avait pas admis dans ses observations qu’il existait une société de personnes dont l’appelant, Sean Dunn et Barbara Jarvis étaient les associés, j’aurais conclu qu’il n’existe pas de société de personnes en l’espèce. Il n’existe aucun contrat de société et il est difficile de croire que les prétendus associés auraient pu conclure un accord oral, car M. Roy a été incapable de parler d’une seule discussion d’affaires qu’il aurait eue avec M. Dunn ou Mme Jarvis. Il n’y a tout simplement aucun élément de preuve qui permette de conclure que ces trois personnes, ou même deux d’entre elles ont discuté de l’entreprise de location de bateau ou de l’utilisation du Trionos. De même, rien ne démontre que le bateau a servi à des activités exercées « conformément à des normes objectives de comportement d’homme d’affaires sérieux »[5]. En l’absence de plan d’affaires, de compte bancaire et de hiérarchie, et compte tenu du fait que le bateau était effectivement en la possession et sous le contrôle de M. Jarvis à Hong Kong, il était tout à fait impossible de satisfaire au critère d’existence d’une entreprise énoncé par la Cour suprême du Canada dans l’arrêt Stewart[6]. Toutefois, vu la teneur des actes de procédure, ma décision n’est pas fondée sur ce facteur.
+[13] La thèse de l’intimée est que, pour chacune des années en question, les dépenses de la société de personnes ne dépassaient pas ses revenus bruts. À l’exception des intérêts sur le prêt, aucune des déductions demandées par l’appelant n’a trait à des dépenses de la société qui ont été établies. Les livres et registres, si même il y en a, semblent être en la possession de M. Jarvis, à Hong Kong. Ni M. Roy ni M. Bower n’ont vu la facture pour l’achat du bateau, mais une lettre envoyée à M. Roy le 5 janvier 2004 par le répartiteur du ministre, Wayne Chiasson, fait état du prix d’achat du bateau. Cette lettre dresse une liste [TRADUCTION] « […] des renseignements qui nous ont été fournis par le bureau de M. Bower le 29 octobre […] ». L’un des éléments de cette liste est décrit de la sorte :
+[TRADUCTION]
+Un contrat de commande, SM 0361, daté du 19 décembre 1998 qui fait état de frais de base et de modification de 2 121 868 francs français (FRF) ainsi que de frais de transport et de manutention de 289 809 FRF, à destination de Vancouver, au Canada. Selon le contrat, l’adresse de l’acheteur, identifié comme Sean Dunn, est la suivante : Offshore Adventures, 59, promenade Waterford, Etobicoke, Ontario, Canada, M9R 2N7.
+Au taux de change alors en vigueur, le coût en capital du bateau se serait élevé à environ 590 000 $ CAN.
+[14] Comme M. Roy n’a pas présenté le moindre élément de preuve au sujet des revenus de la société de personnes et seulement de maigres éléments de preuve au sujet des dépenses de celle‑ci, il n’a pas réussi à se décharger du fardeau d’infirmer l’hypothèse du ministre selon laquelle la société de personnes n’avait subi aucune perte pour les années en question.
+[15] M. Roy soutient aussi que, comme M. Dunn et Mme Jarvis n’ont pas fait l’objet de nouvelles cotisations afin de refuser les déductions demandées au titre des pertes d’entreprise, il serait injuste de ne pas annuler les nouvelles cotisations établies à son égard. M. Chiasson, le répartiteur du ministre, a répondu à cet argument lors de son témoignage : les deux autres associés n’ont pas fait l’objet de nouvelles cotisations parce que leurs parts relativement faibles des déductions ne justifiaient pas de débourser les frais liés au processus de vérification. De toute manière, l’argument de l’appelant n’a aucun bien‑fondé, car il est bien établi dans la jurisprudence qu’un contribuable n’a pas droit à un allègement simplement parce qu’un autre contribuable se trouvant dans une situation semblable a été traité différemment (voir les arrêts Ludmer c. Canada[7] et Sinclair v. Canada[8]).
+[16] Il reste donc à trancher la question des pénalités. Le ministre a imposé des pénalités à M. Roy en vertu du paragraphe 163(2) de la Loi. Le paragraphe 163(3) est ainsi rédigé :
+163(3) Dans tout appel interjeté, en vertu de la présente loi, au sujet d’une pénalité imposée par le ministre en vertu du présent article ou de l’article 163.2, le ministre a la charge d’établir les faits qui justifient l’imposition de la pénalité.
+J’ai déjà conclu que l’appelant n’a pas réussi à se décharger du fardeau d’établir que la société avait bel et bien subi les pertes à l’égard desquelles il avait demandé sa part des déductions pour le calcul de ses revenus, puisque les éléments de preuve nécessaires sont en la possession de M. Jarvis, à Hong Kong. Or, cela signifie aussi que le ministre n’a pas pu se décharger du fardeau d’établir que les pertes à l’égard desquelles les déductions ont été demandées n’existaient pas (voir la décision James v. M.N.R.[9]). Il me faut donc annuler les pénalités imposées à M. Roy.
+[17] Ainsi, les appels sont accueillis et les nouvelles cotisations doivent être modifiées de manière à supprimer les pénalités. En l’espèce, chaque partie doit assumer ses propres dépens.
+Signé à Ottawa, Canada, ce 22e jour de juin 2011.
+« E. A. Bowie »
+Juge Bowie
+Traduction certifiée conforme
+ce 12e jour d’août 2011.
+Mario Lagacé, jurilinguiste
+RÉFÉRENCE :
+2011 CCI 299
+No DU DOSSIER DE LA COUR :
+2007-3748(IT)G
+INTITULÉ :
+Richard Roy c. Sa Majesté la Reine
+LIEU DE L’AUDIENCE :
+Ottawa (Ontario)
+DATE DE L’AUDIENCE :
+Le 19 janvier 2011
+MOTIFS DU JUGEMENT :
+L’honorable juge E. A. Bowie
+DATE DU JUGEMENT :
+Le 22 juin 2011
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocates de l’intimée :
+Me Natasha Wallace
+Me Geneviève Léveillé
+AVOCAT INSCRIT AU DOSSIER :
+Pour l’appelant :
+Nom :
+s. o.
+Cabinet :
+s. o.
+Pour l’intimée :
+Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] L.C. 1985, ch. 1 (5e suppl.), dans sa version modifiée.
+[2] Anderson Logging Company v. The King, [1925] R.C.S. 45.
+[3] Johnston v. Minister of National Revenue, [1948] R.C.S. 486; Minister of National Revenue v. Sedgwick, [1964] R.C.S. 177; Hickman Motors Ltd. c. Canada, [1997] 2 R.C.S. 336.
+[4] [2001] R.C.S. 367.
+[5] Voir l’arrêt Stewart c. Canada, 2002 CSC 46, [2002] 2 RCS 645, au paragraphe 54.
+[6] Précité, note 5.
+[7] 1995 2 C.F. 3.
+[8] 57 DTC 5624.
+[9] 93 DTC 161.

@@ -1,0 +1,188 @@
+---
+title: "Tucker c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27603/index.do"
+last_modified: "2007-05-17"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 CCI 298"
+citation2: ""
+neutral_citation: "2007 CCI 298"
+decision_date: "2007-05-17"
+language: "fr"
+item_id: "27603"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 424
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T09:40:29.686000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "b41f74661be617d18bdecf1986624a6734557a8481987d815adc2fcc7d02939c"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Tucker c. La Reine
+
+- Citation: 2007 CCI 298
+- Decision date: 2007-05-17
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 424, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Tucker c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-05-17
+Référence neutre
+2007 CCI 298
+Numéro de dossier
+2005-3450(IT)G
+Juges et Officiers taxateurs
+Gerald J. Rip
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2005-3450(IT)G
+ENTRE :
+RALPH E. TUCKER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 14 mars 2007, à St-John's (Terre-Neuve).
+Devant : L’honorable juge en chef adjoint Gerald J. Rip
+Comparutions :
+Avocat de l’appelant :
+Me Gary F. Peddle
+Avocat de l’intimée :
+Me Marcel Prévost
+____________________________________________________________________
+JUGEMENT
+L’appel de la cotisation établie en vertu de l’article 227.1 de la Loi de l’impôt sur le revenu, dont l’avis est daté du 29 avril 2004 et porte le numéro 19353, est accueilli, avec dépens, et la cotisation est déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation afin que soit supprimé le montant visé par la cotisation pour la période du 1er janvier 2002 au 31 janvier 2003, c’est-à-dire 102 056,47 $ plus les intérêts, le cas échéant.
+Signé à Ottawa (Canada), ce 17e jour de mai 2007.
+« Gerald J. Rip »
+Juge en chef adjoint Rip
+Traduction certifiée conforme
+ce 15e jour d’octobre 2007.
+Johanne Brassard, trad. a.
+Référence : 2007CCI298
+Date : 20070517
+Dossier : 2005-3450(IT)G
+ENTRE :
+RALPH E. TUCKER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Rip
+[1] Ralph Tucker a interjeté appel d’une cotisation visant une obligation fiscale aux termes du paragraphe 227.1(1) de la Loi de l’impôt sur le revenu (la « Loi »)[1]. La cotisation, dont l’avis est daté du 29 avril 2004, a été établie parce que, selon le ministre du Revenu national (le « ministre »), D&M Educational Services Limited (« D&M ») n’a pas déduit les impôts comme l’exige l’article 153 ou n’a pas remis le montant des retenues au receveur général du Canada lorsque M. Tucker était l’un des administrateurs de la société, soit du 15 juin 2000 au 31 janvier 2003.
+[2] Les montants et les périodes visés par les cotisations sont les suivants :
+Période visée
+Montant de la cotisation
+15 juill. 2000 – 31 déc. 2000
+1080,18 $
+1er janv. 2001 – 31 oct. 2001
+52 535,58 $
+1er nov. 2001 – 31 déc. 2001
+11 429,64 $
+1er janv. 2002 – 31 janv. 2003
+102 056,47 $
+[3] M. Tucker est un homme d’affaires prospère de St. John's (Terre-Neuve). Lui et sa femme ont fondé en 1980 le Keyin College (« Keyin »), établissement d’enseignement professionnel, et M. Tucker en est le directeur administratif depuis 1981. Aux environs de 1994 ou de 1995, le collège a accordé des franchises à des exploitants du Canada atlantique. M. Tucker a siégé également au conseil d’administration d’environ neuf ou dix sociétés. Il a présidé la Newfoundland Labrador Association of Career College. En outre, il était président de la Workplace Health Safety and Compensation Commission of Newfoundland and Labrador et siégeait à la commission nationale.
+[4] M. Tucker était au courant des devoirs et des obligations d’un administrateur, y compris les obligations aux termes de la Loi.
+[5] Le franchiseur de Keyin était Keycorp Inc., dont M. Tucker était l’un des actionnaires. Il était également administrateur et président de Keycorp. À un moment donné, Keycorp comptait 14 franchises actives dans les provinces de l’Atlantique. De 2000 à 2002, Keyin avait neuf franchises en activité.
+[6] M. Tucker avait des contacts constants avec le personnel et les étudiants des collèges franchisés. Les éléments clés de la réussite de l’entreprise étaient le marketing, la bonne prestation des services payés par les étudiants et des programmes qui répondaient à leurs attentes. Les franchisés faisaient l’objet d’une évaluation en fonction de la croissance, et de l’aide leur était offerte. Si un franchisé avait un programme qui laissait à désirer, M. Tucker veillait à ce que des mesures correctives soient mises en place, mesures qui pouvaient être légères ou radicales et même aller jusqu’à la fermeture de la franchise.
+[7] L’exploitation des établissements était assujettie à la législation provinciale sur les établissements d’enseignement professionnel.
+[8] Le franchisé obtenait un territoire pour son établissement, ainsi qu’un programme, des règles de fonctionnement et des lignes directrices et il pouvait compter sur l’aide de mentors. Les programmes étaient actualisés. Le franchisé était lié par un accord de franchise en bonne et due forme.
+[9] Keycorp comptait au moins cinq cadres, un président, un directeur du marketing, un directeur des opérations chargé du programme d’études, un contrôleur et un secrétaire.
+[10] Les franchisés étaient chargés des activités courantes, comme l’embauche du personnel, les opérations bancaires, l’observation des lois provinciales et le respect des lignes directrices de Keycorp.
+[11] Les franchisés avaient trois sources de fonds : les droits de scolarité, le Programme canadien de prêts aux étudiants et Service Canada, organe fédéral de financement qui appuie les initiatives de formation.
+[12] Les redevances versées par le franchisé à Keycorp correspondaient au total des trois éléments suivants :
+a) 10 p. 100 des revenus;
+b) 3 p. 100 pour la publicité faite en coopération;
+c) 1 p. 100 pour les nouvelles activités de marketing et les recherches sur un nouveau programme d’études.
+[13] De 1997 à 2000, D&M a exploité le campus d’Halifax, qui ne progressait pas autant que M. Tucker le souhaitait. La franchise avait besoin d’aide. M. Tucker s’est rendu plusieurs fois dans l’établissement, et il a fini par y affecter une de ses employées de confiance, Debbie Lawrence, qu’il a chargée d’évaluer la situation, de vérifier les activités de l’entreprise et de recommander des améliorations.
+[14] Mme Lawrence travaillait pour Keycorp depuis une quinzaine d’années. Elle détenait un baccalauréat en commerce, avait travaillé chez IBM et, selon M. Tucker, excellait en communications. Elle avait été engagée au départ pour enseigner les communications et elle avait ensuite gravi les échelons pour devenir directrice du marketing au campus de St. John’s, après quoi elle était devenue directrice des opérations au siège social. Elle avait conçu le programme d’études et le plan de développement, elle était chargée de la publicité, du marketing et du « budget général ». Elle a fini par recevoir un pouvoir de signature pour la société.
+[15] M. Tucker a dit de Mme Lawrence qu’elle [traduction] « excellait dans ce qu’elle faisait ». Il faisait confiance à ses compétences.
+[16] Quoi qu’il en soit, Mme Lawrence a soumis des recommandations à M. Walsh, qui, selon M. Tucker, ne pouvait les accepter. M. Walsh a donc informé M. Tucker qu’il allait fermer l’établissement.
+[17] M. Tucker se rendait dans les différents campus environ deux fois l’an. Lorsqu’il est allé à Halifax, il n’a examiné ni les comptes ni les dossiers. Il voulait plutôt rencontrer le corps professoral et les étudiants et [traduction] « atténuer » les problèmes avec le ministère de l’Éducation. Il voulait appuyer Mme Lawrence afin de maintenir l’établissement ouvert. M. Tucker se fiait également au contrôleur de l’entreprise. Il a admis que, pour sa part, il ne pouvait s’occuper des affaires courantes. Il ne se rappelait pas avoir demandé [traduction] « expressément » à Mme Lawrence si elle avait fait les remises à l’Agence des douanes et du revenu du Canada (l’« ADRC »).
+[18] M. Tucker a dit qu’il ne tolérait jamais qu’un étudiant quitte un établissement sans avoir reçu une formation adéquate. Il ne voulait pas fermer l’établissement ni abandonner les étudiants. Il a donc demandé à Mme Lawrence de se charger des opérations et de mettre en œuvre les recommandations qu’elle avait formulées.
+[19] Aux termes d’un accord daté du 15 juillet 2000, M. et Mme Walsh ont vendu la participation qu’ils détenaient dans D&M à Keyin Virtual Campus Limited (« Virtual »), dont les actions appartenaient aux trois fils de M. Tucker. M. et Mme Walsh ont remis leur démission comme administrateurs, et M. Tucker est devenu administrateur de D&M.
+[20] Les états financiers de D&M visant l’exercice terminé le 31 août 1999 ont été joints à l’accord. M. Tucker a reconnu qu’aucune retenue à la source n’était impayée, en juillet 2000, mais il était au courant d’un différend entre les Walsh et l’ADRC.
+[21] Mme Lawrence est retournée à Halifax pour diriger et administrer l’Halifax College. Selon M. Tucker, elle était responsable des opérations courantes de l’établissement, des comptes débiteurs, du programme scolaire, de l’embauche et du congédiement des membres du personnel et de tous les aspects financiers comme la rémunération et les retenues à la source. M. Tucker a ajouté que la gestion de la rémunération avait été déléguée au contrôleur de Keycorp.
+[22] M. Tucker a affirmé qu’il était régulièrement en contact avec Mme Lawrence pendant la période où elle était chargée de l’établissement. Il s’est rendu à Halifax plusieurs fois. Il lui semblait qu’elle réalisait [traduction] « de bons progrès ».
+[23] Selon le témoignage de M. Tucker, M. Ken Noseworthy, contrôleur de l’entreprise, établissait toutes les semaines et tous les mois des états des comptes créditeurs et des comptes débiteurs. Il s’assurait, a ajouté M. Tucker, que Mme Lawrence avait assez d’argent pour faire fonctionner l’établissement. M. Tucker n’a pas examiné les états financiers; il discutait des finances avec M. Noseworthy.
+[24] Mme Lawrence n’a informé M. Tucker d’aucune insuffisance de trésorerie, mais elle a avisé M. Noseworthy. M. Tucker a fini par s’apercevoir que l’établissement d’Halifax avait besoin d’argent et que les Walsh [traduction] « n’avaient pas été tout à fait francs avec [eux]. Les Walsh avaient réglé leurs problèmes personnels et presque complètement vidé le compte en banque ». M. Noseworthy a amené Keycorp à avancer des fonds à D&M.
+[25] M. Tucker a également déploré que Mme Lawrence n’ait jamais signalé l’existence de comptes en souffrance auprès de l’ADRC. Il croyait quant à lui que le seul problème, concernant l’ADRC, était l’éventuel remboursement d’un montant de 26 000 $ de l’ADRC à M. ou à Mme Walsh. À un moment donné, M. Tucker a pensé que les Walsh verseraient les 26 000 $ à D&M[2].
+[26] M. Tucker ne s’est jamais douté que Mme Lawrence ne le tenait pas informé. C’est en août ou en septembre 2001 qu’il a pris connaissance pour la première fois du problème qui existait avec l’ADRC du fait que D&M ne remettait pas les impôts, quand Mme Lawrence a appelé M. Noseworthy pour lui faire savoir qu’elle [traduction] « avait du retard dans le versement de certaines charges sociales ». C’est alors que M. Tucker a dépêché M. Noseworthy à Halifax pour qu’il se renseigne sur le problème.
+[27] M. Tucker a expliqué que le contrôleur exerçait une surveillance sur les nouveaux franchisés pour s’assurer qu’ils n’avaient pas de difficultés. Il n’a pas dit si, en 2000, il considérait D&M comme une « nouvelle » franchise.
+[28] Après avoir passé une semaine à Halifax, M. Noseworthy a signalé à M. Tucker que la situation était [traduction] « pire que l’impression qu’on lui en avait donnée ». Les retards dans les versements à l’ADRC n’étaient pas de deux ou trois mois, mais d’environ cinq mois. M. Tucker a ordonné à M. Noseworthy de prendre le contrôle des comptes à Halifax, Mme Lawrence n’étant plus autorisée à faire des chèques.
+[29] M. Noseworthy a communiqué avec l’ADRC [traduction] « pour savoir ce que nous devions ». Le contrôleur a travaillé sur les comptes créditeurs de tous les créanciers, y compris l’ADRC, qui a vérifié le dossier de D&M. L’ADRC croyait que, depuis six mois, il n’y avait eu aucune remise des impôts retenus à la source. M. Tucker a donné à M. Noseworthy l’instruction de ne verser aucun arriéré d’impôt tant que les montants précis ne seraient pas connus et lui a demandé de rester à jour à compter de septembre. Il y a également eu des discussions sur la possibilité d’un remboursement de 26 000 $ et d’un crédit de 600 $.
+[30] M. Tucker devait alors faire un choix : poursuivre l’exploitation de l’Halifax College ou le vendre. Il a commencé à chercher un nouveau franchisé et, au 31 décembre 2001, Virtual a vendu sa participation dans D&M à Dibblee Consulting Services Inc. (« Dibblee »).
+[31] M. Tucker se rappelle qu’à la conclusion de la transaction avec Dibblee, il a remis sa démission comme administrateur de D&M. La copie de la lettre de démission se trouvait parmi plusieurs documents de fermeture produits au procès. M. Dibblee, actionnaire de Dibblee, devait remplacer M. Tucker comme administrateur.
+[32] Parmi les autres documents produits au procès figure le profil de D&M [traduction] « au 6 décembre 2001 », établi par Service Nova Scotia and Municipal Relations. Sur ce document, M. Tucker figure à titre d’administrateur de D&M, et un certain Peter G. Green y est indiqué en tant qu’[traduction]« agent attitré ». M. Tucker a dit pour commencer qu’il croyait que M. Green était le conseiller juridique de Dibblee, et qu’il n’avait jamais rencontré cette personne. Au cours du contre-interrogatoire, M. Tucker s’est cependant rappelé que M. Green était l’[traduction]« agent attitré » de D&M lorsqu’il était lui-même devenu administrateur de D&M, en juillet 2000.
+[33] Quelques documents relatifs à la conclusion de la vente ont été signés après coup, mais tous avec effet à la date de la vente.
+[34] Environ un an après la conclusion de la vente, M. Tucker a reçu un appel de l’ADRC l’informant qu’il figurait toujours comme administrateur de D&M dans les dossiers de Service Nova Scotia.
+[35] M. Tucker connaissait M. Dibblee et estimait qu’il était une personne digne de foi. Keycorp avait avancé un montant de 40 000 $ à D&M pour qu’elle ne soit pas à court de trésorerie. Il a également repoussé d’un an les obligations de D&M au titre des redevances. M. Tucker avait envisagé de verser directement les 40 000 $ à l’ADRC, mais M. Dibblee lui avait dit qu’il [traduction] « avait besoin d’une marge de manœuvre ». Dans la mesure où M. Dibblee s’était engagé à faire ce paiement, M. Tucker a dit qu’il était disposé à faire une avance à l’entreprise.
+[36] Malheureusement, encore une fois, lorsque Dibblee a repris D&M, celle-ci a continué de manquer à ses obligations, ne retenant pas les impôts à la source ou ne les remettant pas au receveur général. Une cotisation a été établie au nom de M. Tucker pour les montants non versés avant 2001.
+[37] M. Noseworthy possède une vaste expérience comme contrôleur dans des points de vente de KFC et à Keycorp. Il a suivi un cours de comptabilité au Cabot College et a obtenu un certificat en administration des affaires au terme de trois années d’études à l’Université Memorial.
+[38] Chez Keycorp, M. Noseworthy était chargé des fonctions de comptabilité ainsi que de l’examen de l’activité financière des diverses franchises et de la préparation des états financiers annuels pour vérification. Il s’occupait aussi des autres activités commerciales de M. Tucker.
+[39] M. Noseworthy a déclaré que M. Tucker s’occupait de [traduction] « beaucoup d’entreprises et de comités ». M. Tucker embauchait du personnel pour se charger des opérations courantes et lui faire rapport régulièrement (toutes les semaines, tous les mois, etc.). M. Tucker intervenait directement au besoin.
+[40] Le témoignage de M. Tucker a été corroboré pour l’essentiel par M. Noseworthy. Mme Lawrence et M. Noseworthy s’entretenaient toutes les semaines, voire plus fréquemment, lorsque Mme Lawrence était à Halifax, en 2000. Ils s’intéressaient surtout au paiement des comptes créditeurs, qui étaient épluchés [traduction] « poste par poste ». Malheureusement, il n’y avait aucun poste pour les retenues obligatoires. Il n’a jamais été question des retenues à la source avant septembre 2001.
+[41] M. Noseworthy a déclaré que Mme Lawrence avait travaillé comme aide‑comptable chez Keycorp et que le montant des retenues obligatoires était versé à temps. Compte tenu de ses antécédents, a-t-il dit, [traduction] « elle savait ce qu’il y avait à faire ». Il n’avait aucune raison de l’interroger, ni de douter de son travail avant septembre 2001. Si Mme Lawrence avait besoin de fonds, M. Noseworthy devait discuter de la situation avec M. Tucker, [traduction] « qui s’occuperait de la question ». Il a répété qu’il n’y avait eu aucune discussion au sujet du versement des montants retenus à la source. M. Tucker n’a jamais ordonné à qui que ce soit de ne pas faire les remises.
+[42] Au cours des discussions avec M. Dibblee en vue de la vente de D&M, Mme Lawrence a fourni de l’information au futur acheteur, a dit M. Noseworthy. Il a informé M. Dibblee du problème d’impôt et de retenues à la source. M. Noseworthy a dit qu’il avait eu plusieurs discussions avec M. Dibblee pour conclure la vente et s’assurer que D&M n’omettrait plus de faire les remises.
+[43] M. Tucker ne pouvait être considéré comme un administrateur externe. Il participait de près aux activités commerciales de Keycorp. Il s’intéressait beaucoup aux activités des divers franchisés, dont D&M, aussi bien avant qu’après la vente de la participation de M. et Mme Walsh à Virtual. Il avait une influence totale sur la direction de D&M; Mme Lawrence et M. Noseworthy relevaient tous les deux de lui.
+[44] Lorsque Virtual a acquis les actions de D&M, M. Tucker a envoyé Mme Lawrence à Halifax pour gérer les opérations de l’Halifax College. Il avait une confiance absolue en les compétences de Mme Lawrence, tout comme M. Noseworthy. Elle était une très bonne employée et [traduction] « excellait dans ce qu’elle faisait », et elle a été promue à divers postes de haut niveau chez Keycorp. M. Noseworthy a affirmé dans son témoignage que Keycorp n’avait jamais omis de verser les retenues à la source lorsque Mme Lawrence y était chargée de la rémunération. Néanmoins, tout au long du témoignage de MM. Tucker et Noseworthy, j’attendais une description de l’expérience de Mme Lawrence pour ce qui est du versement des retenues à la source. Je me demandais si cette fonction avait relevé – et relevait probablement toujours – du contrôleur chez Keycorp.
+[45] M. Tucker a sans nul doute délégué des fonctions à ses employés de haut rang, dont Mme Lawrence. Il était impressionné par son expérience et les résultats qu’elle avait obtenus à ses autres postes. Il l’a d’abord envoyée faire une vérification, puis prendre en main les opérations du campus d’Halifax et assainir la situation. Aucun élément de preuve ne m’a été soumis pour établir que, si elle était compétente en matière de programmes d’études et en marketing, par exemple, elle l’était également quand il s’agissait de se charger des retenues à la source et de leur remise au receveur général. Le travail qui lui a été confié à Halifax dépassait peut-être ses compétences. (Elle n’a pas témoigné au procès.) Et même après le 1er septembre 2001, lorsque M. Tucker était au courant des problèmes et que M. Noseworthy avait fait enquête, D&M a toujours omis de faire ses remises.
+[46] M. Tucker n’a pas agi avec le degré de soin, de diligence et d’habileté pour prévenir les omissions de D&M de remettre les retenues qu’une personne raisonnablement prudente aurait exercé dans des circonstances comparables. Il est donc responsable des montants établis dans les cotisations qui visent les périodes du 15 juillet au 31 décembre 2000, du 1er janvier au 31 octobre 2001 et du 1er novembre au 31 décembre 2001.
+[47] Lorsque l’accord avec Dibblee sur la cession de la participation dans D&M a été conclu, M. Tucker a remis sa démission comme administrateur « avec effet au 31 décembre 2001 », et le document signé à cet effet a été remis à D&M au moment de la conclusion de l’accord. (Rien ne prouve que la conclusion de l’accord n’a pas pris effet le 31 décembre 2001, même si certaines questions restaient à régler après la conclusion.)
+[48] On a également produit au cours du procès la copie d’un document présenté comme le compte rendu d’une résolution des administrateurs de Dibblee, datée du 31 décembre 2001, autorisant l’achat des actions de D&M et nommant Daryll Dibblee [traduction] « à titre d’administrateur de D&M ».
+[49] L’avocat de l’intimée s’est reporté aux dossiers de la Nouvelle-Écosse pour montrer que M. Tucker n’avait pas cessé d’être un administrateur de D&M le 31 décembre 2001. Il ne n’agit pas d’une source acceptable pour établir si oui ou non M. Tucker avait remis sa démission comme administrateur de D&M. Il est absolument normal que les administrateurs d’une société remettent leur démission lorsque la société change de main. C’est ce que M. Tucker a fait. Le fait que les nouveaux dirigeants de D&M n’ont pas informé la Nouvelle-Écosse de cette démission n’a pas pour conséquence le maintien de M. Tucker à ce poste. Il n’était plus administrateur de D&M après le 31 décembre 2001, lorsque cette société a omis de remettre au receveur général les retenues à la source. Il n’a donc aucune responsabilité à l’égard de montants établis par cotisation en vertu du paragraphe 227.1(1) pour les périodes ultérieures au 31 décembre 2001.
+[50] En conséquence, l’appel est accueilli, avec dépens, et la cotisation est déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation afin que soit supprimé le montant visé par la cotisation pour la période du 1er janvier 2002 au 31 janvier 2003, c’est-à-dire 102 056,47 $ plus les intérêts, le cas échéant.
+Signé à Ottawa (Canada), ce 17e jour de mai 2007.
+« Gerald J. Rip »
+Juge Rip
+Traduction certifiée conforme
+ce 15e jour d’octobre 2007.
+Johanne Brassard, trad. a.
+RÉFÉRENCE : 2007CCI298
+No DU DOSSIER DE LA COUR : 2005-3450(IT)G
+INTITULÉ : RALPH E. TUCKER c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : St-John's (Terre-Neuve)
+DATE DE L’AUDIENCE : Le 14 mars 2007
+MOTIFS DU JUGEMENT : L’honorable juge en chef adjoint Gerald J. Rip
+DATE DU JUGEMENT : Le 17 mai 2007
+COMPARUTIONS :
+Avocat de l’appelant :
+Me Gary F. Peddle
+Avocat de l’intimée :
+Me Marcel Prévost
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom : Me Gary F. Peddle
+Cabinet : Benson Myles
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Dans son avis, l’appelant interjette également appel de cotisations semblables en vertu des dispositions de la Nova Scotia Income Tax Act, loi à l’égard de laquelle la Cour n’a pas compétence, du Régime de pensions du Canada et de la Loi sur l’assurance-emploi. Dans sa réponse, l’intimée ne se reporte pas aux deux autres lois fédérales, et elle s’en tient à la seule cotisation établie en vertu de la Loi de l’impôt sur le revenu. Je le signale, car, si l’appelant a raison et s’il existe des cotisations analogues établies en vertu du Régime de pensions du Canada et de la Loi sur l’assurance-emploi, ses appels à ce sujet pourraient être accueillis, quelle que soit l’issue de l’appel au sujet de la cotisation établie en vertu de la Loi de l’impôt sur le revenu. L’avis d’appel peut présenter des faits qui suffisent pour qu’on accueille l’appel interjeté aux termes de ces autres lois, en l’absence de toute réponse de l’intimée. La Cour de l’impôt du Canada ne reçoit pas les copies des cotisations, et il incombe à l’une des parties de produire un avis au moment du procès.
+[2] Selon M. Tucker, M. et Mme Walsh s’étaient servis de la carte de crédit de l’entreprise à des fins personnelles et, si j’ai bien compris M. Tucker, ils avaient accepté d’utiliser leur remboursement d’impôt pour régler la dette de l’entreprise. Les Walsh n’ont jamais rien remboursé à D&M, et ils ont quitté le Canada.

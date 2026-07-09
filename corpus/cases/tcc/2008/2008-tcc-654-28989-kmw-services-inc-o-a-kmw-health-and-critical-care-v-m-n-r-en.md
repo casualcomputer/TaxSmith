@@ -1,0 +1,158 @@
+---
+title: "KMW Services Inc. o/a KMW Health and Critical Care v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28989/index.do"
+last_modified: "2008-11-28"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 TCC 654"
+citation2: ""
+neutral_citation: "2008 TCC 654"
+decision_date: "2008-11-28"
+language: "en"
+item_id: "28989"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6799
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T23:34:54.126000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "eaba7648882704825938131d7fe825a70fa62a5e3c5354e8bfaa8dceab9fa46c"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# KMW Services Inc. o/a KMW Health and Critical Care v. M.N.R.
+
+- Citation: 2008 TCC 654
+- Decision date: 2008-11-28
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6799, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+KMW Services Inc. o/a KMW Health and Critical Care v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-11-28
+Neutral citation
+2008 TCC 654
+File numbers
+2008-939(EI)
+Judges and Taxing Officers
+Patrick J. Boyle
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2008-939(EI)
+BETWEEN:
+KMW SERVICES INC.
+o/a KMW HEALTH and CRITICAL CARE,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Motion heard on common evidence with the motion in
+KMW Services Inc. o/a KMW Health and Critical Care (2008-940(CPP)), on November 24, 2008 at Toronto, Ontario.
+Before: The Honourable Justice Patrick Boyle
+Appearances:
+Counsel for the Appellant:
+Yehuda Levinson
+Counsel for the Respondent:
+Brandon Siegal
+____________________________________________________________________
+JUDGMENT
+UPON motion made by counsel for the Respondent for a Judgment to dismiss the appeal;
+AND UPON hearing submissions of the parties;
+The motion is granted and the appeal under the Employment Insurance Act is dismissed in accordance with the Reasons herein.
+Signed at Toronto, Ontario, this 28th day of November 2008.
+"Patrick Boyle"
+Boyle, J.
+Docket: 2008-940(CPP)
+BETWEEN:
+KMW SERVICES INC.
+o/a KMW HEALTH and CRITICAL CARE,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Motion heard on common evidence with the motion in
+KMW Services Inc. o/a KMW Health and Critical Care (2008-939(EI)), on November 24, 2008 at Toronto, Ontario.
+Before: The Honourable Justice Patrick Boyle
+Appearances:
+Counsel for the Appellant:
+Yehuda Levinson
+Counsel for the Respondent:
+Brandon Siegal
+____________________________________________________________________
+JUDGMENT
+UPON motion made by counsel for the Respondent for a Judgment to dismiss the appeal;
+AND UPON hearing submissions of the parties;
+The motion is granted and the appeal under the Canada Pension Plan is dismissed in accordance with the Reasons herein.
+Signed at Toronto, Ontario, this 28th day of November 2008.
+"Patrick Boyle"
+Boyle, J.
+Citation: 2008 TCC 654
+Date: 20081128
+Dockets: 2008-939(EI),
+2008-940(CPP)
+BETWEEN:
+KMW SERVICES INC.
+o/a KMW HEALTH and CRITICAL CARE,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGMENT
+(Delivered orally from the Bench on November 28, 2008, in Toronto, Ontario.)
+Boyle, J.
+[1] The Crown has brought a motion to dismiss the Appellant’s Employment Insurance and Canada Pension Plan appeals on the basis that this Court has no jurisdiction to hear these appeals because the Minister of National Revenue did not make a decision on an appeal for the reason that valid administrative appeals were not filed by the Appellant within the time period required by the legislation.
+[2] The Appellant was assessed for EI and CPP in 2005. Those assessments have already been the subject of an application to this Court to late-file an appeal. The applications were turned down by Justice Bowie in 2007. Justice Bowie’s reasons speak for themselves but, in essence, he concluded the Tax Court does not have jurisdiction to extend the time to appeal to this Court, or to hear an appeal, unless the Appellant has first filed an administrative appeal with the Minister.
+[3] It is important to note that the EI and CPP legislation differ materially from the Income Tax Act as regards late filing applications. Under the Income Tax Act, a taxpayer has the right to request the Minister to accept a late-filed objection, and the Minister’s decision can expressly be appealed to this Court. The EI and CPP legislation have no such express provision. (On the other hand, the Income Tax Act and the EI and CPP legislation each provide that the Court can accept a late-filed application for an appeal to the Court. This latter application is what was before Justice Bowie.)
+[4] Following Justice Bowie’s decision, the Appellant wrote to the Minister implicitly requesting that the Minister exercise his discretionary power to issue EI and CPP assessments as permitted by section 94 of the Employment Insurance Act and section 27.3 of the Canada Pension Plan to allow the new administrative appeals filed notwithstanding that they were out of time. However, the Minister has not done so. The Minister replied to the Appellant’s request by saying that the new appeals were also out of time and therefore could not be accepted as administrative appeals.
+[5] Thus, it appears we are right back where Justice Bowie found himself with respect to the first set of appeals. However, counsel argues that the Minister’s decision to not accept the new administrative appeals because they were out of time and to not exercise his discretionary power to reassess after the time period was itself a decision on an appeal that can be appealed to this Court.
+[6] Subsection 103(1) of the EI Act only gives the Tax Court jurisdiction to hear an appeal from “a decision on an appeal to the Minister under section 91 or 92”. Unfortunately for the Appellant, its right to appeal to this Court does not extend to whether or how the Minister exercises his discretionary power under section 94. Similarly subsection 28(1) of the CPP only gives the Tax Court jurisdiction to hear an appeal from “a decision on an appeal to the Minister under section 27 or 27.1”. It does not extend to the Minister’s discretionary power under section 27.3.
+[7] Administrative appeals under section 92 of the EI Act and section 27.1 of the CPP are to be filed within 90 days of the assessment in question. Since that was not done, there is no decision on an appeal under those sections to bring before this Court under subsection 103(1) of the EI Act or subsection 28(1) of the CPP.
+[8] The Minister’s refusal to exercise his discretion under section 94 of the EI Act or section 27.3 of the CPP and reassess to give effect to an appeal notwithstanding that it was not filed within 90 days is not “a decision on an appeal under section 91 or 92” of the EI Act or “section 27 or 27.1” of the CPP. As such, they are not reviewable by this Court. This is consistent with the decision of Justice Mogan in this Court’s decision in Deerhurst Resorts Ltd. v. MNR, 89 DTC 352, involving the former Unemployment Insurance legislation and the CPP.
+[9] Notwithstanding Mr. Levinson’s subtle and careful attempt in his new letter to the Minister and in this Court to try to meld a request to review the Minister’s exercise or failure to exercise his discretionary power together with a substantive review of the assessments on the merits, I am allowing the Crown’s motion to dismiss these appeals.
+[10] I am mindful of the fact that if Mr. Levinson successfully seeks to have the Minister’s decision to not exercise his discretionary power reviewed in another court, he may need to be back to this Court to have the appeal heard on its merits. While this is clearly neither efficient nor ideal, it is the legislative framework adopted by Parliament which, unless and until it is changed, has to be respected. I note that the Canadian Bar Association wrote to the Minister of Justice earlier this year recommending an extension of the Tax Court’s jurisdiction to enhance such inefficiencies. That letter is posted on the CBA website. Unless and until it is acted on, it cannot help this or similarly situate Canadian taxpayers.
+Signed at Toronto, Ontario, this 28th day of November 2008.
+"Patrick Boyle"
+Boyle, J.
+CITATION: 2008 TCC 654
+COURT FILE NOS.: 2008-939(EI), 2008-940(CPP)
+STYLE OF CAUSE: KMW SERVICES INC. o/a KMW HEALTH and CRITICAL CARE v. MNR
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: November 24, 2008
+REASONS FOR JUDGMENT BY: The Honourable Justice Patrick Boyle
+DATE OF JUDGMENT: November 28, 2008
+APPEARANCES:
+Counsel for the Appellant:
+Yehuda Levinson
+Counsel for the Respondent:
+Brandon Siegal
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Yehuda Levinson
+Firm: Levinson & Associates
+Toronto, Ontario
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

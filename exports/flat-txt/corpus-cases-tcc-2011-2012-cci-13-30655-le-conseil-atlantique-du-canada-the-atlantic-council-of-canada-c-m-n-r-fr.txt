@@ -1,0 +1,345 @@
+Title: Le Conseil Atlantique du Canada - The Atlantic Council of Canada c. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30655/index.do
+Corpus path: corpus/cases/tcc/2011/2012-cci-13-30655-le-conseil-atlantique-du-canada-the-atlantic-council-of-canada-c-m-n-r-fr.md
+Document type: case_law
+Last modified: 2011-12-22
+
+# Le Conseil Atlantique du Canada - The Atlantic Council of Canada c. M.N.R.
+
+- Citation: 2012 CCI 13
+- Decision date: 2011-12-22
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7212, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Le Conseil Atlantique du Canada - The Atlantic Council of Canada c. M.N.R.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2011-12-22
+Référence neutre
+2012 CCI 13
+Numéro de dossier
+2010-2905(EI), 2010-2933(CPP)
+Juges et Officiers taxateurs
+Johanne D’Auray
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Référence : 2012 CCI 13
+Date : 20120109
+Dossier : 2010‑2905(EI)
+ENTRE :
+LE CONSEIL ATLANTIQUE DU CANADA –
+THE ATLANTIC COUNCIL OF CANADA,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+ET ENTRE : Dossier : 2010‑2933(CPP)
+LE CONSEIL ATLANTIQUE DU CANADA –
+THE ATLANTIC COUNCIL OF CANADA,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+MOTIFS DE JUGEMENT MODIFIÉS
+La juge D’Auray
+[1] L’appelant est un organisme caritatif dont les objets et le but sont les suivants :
+[traduction] promouvoir l’éducation et d’autres fins utiles à la collectivité en lien avec les affaires extérieures au Canada ainsi qu’avec la participation canadienne dans l’Institut Atlantique et l’Association du Traité de l’Atlantique.
+[2] L’objectif de l’Institut Atlantique (IA) est de faciliter la circulation d’idées sur des questions d’ordre militaire, économique, politique et culturel des deux côtés de l’Atlantique. L’Association du Traité de l’Atlantique (ATA) vise à favoriser une meilleure compréhension des questions concernant l’OTAN.
+[3] Madame Luisa Sargsyan s’est jointe à l’appelant en juillet 2007 sous l’égide du Programme de stage du Forum sur la sécurité et la défense (Programme de stage FSD). Elle a quitté son emploi auprès de l’appelant en octobre 2008.
+[4] Les questions que j’ai à trancher dans les présents appels sont celles de savoir si Mme Sargsyan a occupé un emploi assurable au sens de l’alinéa 5(1)a) de la Loi sur l’assurance‑emploi (LAE) et ouvrant droit à pension au sens de l’alinéa 6(1)a) du Régime de pension du Canada (RPC) durant la période du 1er janvier 2008 au 30 septembre 2008.
+[5] Par suite de l’entente intervenue entre les parties, les appels interjetés en vertu de la LAE et du RPC ont été entendus sur preuve commune.
+Les faits
+[6] Deux personnes ont témoigné dans le cadre des présents appels, soit Mme Julie Lindhout et Mme Luisa Sargsyan. Leur témoignage était différent sur de nombreux points, ce qui m’oblige à procéder à un examen détaillé des faits.
+[7] Mme Lindhout est la présidente de l’appelant et a témoigné en son nom.
+[8] Elle a confirmé que l’appelant est une organisation non gouvernementale, enregistrée comme organisme caritatif, et que sa date de constitution est le 7 mars 1966.
+[9] Elle a expliqué que l’appelant était une petite entreprise employant du personnel à temps partiel, des contractuels ainsi que des bénévoles. Au moment de l’audience, l’organisme comptait cinq bénévoles et stagiaires. Le budget de l’appelant varie d’année en année; il se situe habituellement aux environs de 125 000 $.
+[10] Les activités de l’appelant comprennent la diffusion de lettres d’information traitant de questions dans les domaines des affaires extérieures du Canada, de la défense nationale, de la sécurité et de l’OTAN; l’organisation de tables rondes portant sur des questions d’intérêt pour l’appelant; et, en 2007, l’organisation de la 53e assemblée générale de l’ATA. En partenariat avec d’autres organismes, l’appelant donne également des séminaires sur des enjeux relatifs à l’OTAN à des étudiants au Canada et à l’étranger.
+[11] Mme Lindhout a expliqué que Mme Sargsyan s’est jointe à l’appelant en tant que stagiaire dans le cadre du programme de stages du FSD en juillet 2007. Elle est demeurée un an sous le programme. À la demande de Mme Sargsyan, son séjour a été par la suite prolongé de trois mois dans le cadre d’une bourse offerte par la Banque de Nouvelle‑Écosse. Elle a quitté son emploi auprès de l’appelant en octobre 2008. L’ensemble de la preuve présentée par les parties dans le cadre des présents appels concernait le programme de stages du FSD. Aucune preuve n’indiquait que la nature de la relation ou du travail avait changé en raison de la bourse offerte par la Banque de Nouvelle‑Écosse.
+[12] Le programme de stages du FSD vise à fournir une expérience de travail pertinente aux nouveaux diplômés de maîtrise ayant fait des études dans les domaines de la sécurité et de la défense. J’ai reproduit ci‑dessous la description du programme déposée par l’appelant comme pièce A‑1, onglet 2.
+[traduction]
+Groupe des politiques du MDN La défense et les programmes universitaires
+Le forum sur la sécurité et la défense (FSD)
+Le programme de stages du FSD
+Objectif : Le Programme de stages vise à aider les nouveaux diplômés de maîtrise ayant fait des études dans les domaines de la sécurité et de la défense à complémenter leur formation par une expérience de travail pertinente. Il permet aux stagiaires d’occuper, pendant un an, un poste de recherche ou de nature connexe dans une organisation canadienne, à l’exclusion des universités et du gouvernement. Des affectations dans des bureaux du gouvernement canadien à l’étranger (p. ex. Ambassades, OTAN, organisations internationales) peuvent être envisagées.
+Domaines pertinents : Nous encourageons les stages qui portent sur les questions actuelles et futures de sécurité et de défense du Canada, y compris leurs dimensions politique, internationale, historique, sociale, militaire et économique. Dans sa demande, le candidat est tenu d’expliquer clairement le lien entre son travail et les questions de sécurité et de défense du Canada. Les stages reliés aux sciences pures ou appliquées ne sont pas éligibles.
+Les demandes doivent établir leur pertinence en rapport avec des enjeux actuels concernant le Canada en matière de sécurité et de défense. Les stages peuvent porter, entre autres, sur les sujets suivants :
+· Les États défaillants ou les États en déroute
+· Le terrorisme
+· Les armes de destruction massive
+· Les régions névralgiques
+· La transformation des Forces canadiennes, y compris des démarches intégrées et unifiées pour les opérations
+· La défense du Canada
+· Les relations de défense entre le Canada et les États‑Unis
+· Le rôle international des Forces canadiennes
+· L’approche intégrée impliquant la Défense, la Diplomatie et le Développement (« 3D ») en matière de conflits et de situations postérieures à un conflit
+· L’acquisition et la gestion en matière de défense
+· Le soutien de la Défense nationale envers les autres ministères et organismes
+· Le Comité de sélection ne considérera pas les demandes incomplètes, les formulaires et références rédigés à la main ou qui ne se conforment pas aux critères de longueur et de police de caractère. Il est de la responsabilité du candidat de s’assurer que sa demande est complète.
+Valeur : La valeur des stages peut aller jusqu’à 35 000 $ pour douze mois ou un montant proportionnel si la période est plus courte. Nous encourageons les organisations participantes à ajouter des fonds supplémentaires.
+Nombre : Jusqu’à quatre stages sont offerts. Le ministère de la Défense nationale se réserve toutefois le droit de changer le nombre final de stages accordés, de même que leur valeur, en fonction du degré d’intérêt manifesté et de la qualité des candidatures reçues dans le cadre de ce programme et des autres programmes parrainés par le Forum sur la sécurité et la défense.
+Durée : Maximum de 12 mois. Le stage ne peut être renouvelé.
+Validité : Les stages peuvent être effectués dans une vaste gamme d’établissements liés à la sécurité et à la défense. Il est possible de soumettre plus d’une demande. Cependant, les étudiants doivent obtenir de leur éventuelle organisation d’accueil une preuve d’entente avant de présenter une demande à l’Association des universités et collèges du Canada (AUCC). Les universités ainsi que les ministères ou organismes du gouvernement au Canada sont exclus du programme. Une liste d’organismes éligibles ou qui ont accueilli des stages dans le passé est jointe en Annexe A[1].
+Conditions : Les candidats doivent être citoyens canadiens ou résidents permanents au moment de leur demande et doivent être titulaires d’une maîtrise avant d’entreprendre le stage. À la fin du stage, les bénéficiaires devront remettre un compte rendu raisonnablement détaillé de leur stage ou de leurs recherches à la Direction de la Politique officielle du ministère de la Défense nationale au plus tard le 1er octobre 2001. Les publications, mémoires, thèses ou présentations de conférences non publiées qui seront soumis doivent contenir un résumé d’au moins un paragraphe n’excédant cependant pas deux pages. En acceptant une bourse du Forum sur la défense et la sécurité, les candidats autorisent la libre circulation de leur travail au sein du ministère de la Défense nationale. Les candidats retenus permettent au Forum sur la sécurité et la défense d’utiliser leurs noms et/ou images pour ses documents promotionnels.
+Sélection : Après la réception par l’AUCC des formulaires de demande dûment complétés, le Comité de sélection indépendant du Forum sur la sécurité et la défense évaluera les demandes sur la base du dossier scolaire des candidats. Le Comité de sélection du Forum sur la sécurité et la défense prendra alors en compte le dossier scolaire, l’apport au Forum sur la sécurité et la défense, et la pertinence des demandes par rapport aux questions de sécurité nationale et de défense du Canada, tel qu’indiqué à la rubrique sur les « domaines pertinents ». Les décisions du Comité de sélection sont finales et sans appel.
+Date limite de présentation des demandes : Le 1er février 2006. En raison du délai suffisant qu’il est nécessaire d’accorder au traitement et à l’examen des demandes, aucun formulaire ne sera transmis après le 23 janvier 2006.
+Formulaires de demande
+Ou communiquer avec :
+Programme de bourses canadiennes
+Association des universités et collèges du Canada
+350, rue Albert, Bureau 600
+Ottawa, Ontario
+K1R 1B1
+Téléphone : 613‑563‑1236
+Télécopieur : 613‑563‑9745
+Courriel : awards@aucc.ca
+Internet : www.aucc.ca/dnd.html
+[Je souligne]
+[13] Mme Lindhout a expliqué que de 2006 à 2010, le programme de stages du FSD a été administré par l’Association des universités et collèges du Canada (AUCC). Avant 2006, il l’était directement par le ministère de la Défense nationale (MDN) et en 2010, le MDN a repris l’administration du programme.
+[14] Pour être admissible à un stage dans le cadre du programme de stages du FSD, le candidat doit trouver un organisme qui accepte d’agir comme organisme d’accueil. En décembre 2006, Mme Sargsyan a communiqué avec Mme Lindhout pour vérifier si l’appelant serait disposé à agir comme organisme d’accueil dans le cadre du programme. Mme Lindhout a révélé dans son témoignage que Mme Sargsyan semblait assez intéressée à ce que l’appelant agisse comme son organisme d’accueil, précisant qu’elle souhaitait apprendre comment un organisme non gouvernemental fonctionnait.
+[15] Le 10 janvier 2007, Mme Lindhout a écrit une lettre à l’AUCC, au nom de l’appelant, dans laquelle elle disait que l’appelant serait heureux d’accueillir Mme Sargsyan comme stagiaire dans le cadre du programme de stages du FSD. La lettre a été produite comme pièce A‑1, onglet 5.
+[16] Le 29 mai 2007, Mme Sargsyan a été avisée par l’AUCC qu’elle avait été sélectionnée comme bénéficiaire de la bourse d’études offerte par le MDN dans le cadre du programme de stages du FSD pour l’année académique 2007‑2008. Le 11 juin 2007, Mme Sargsyan a signé le formulaire d’acceptation de la bourse. Je reproduis la lettre transmise par l’AUCC à Mme Sargsyan ainsi que le formulaire d’acceptation de la bourse signé par Mme Sargsyan.
+[traduction]
+Association of Universities
+Association des universités
+and Colleges of Canada
+et collèges du Canada
+Le 29 mai 2007 AUCC ID.: xxxxxxxxxxxx
+Mme Luisa Sargsyan
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxx
+CANADA
+Madame Luisa Sargsyan,
+Objet : Ministère de la Défense nationale – Les stages du Forum sur la sécurité et la défense (FSD) : STAGE
+Félicitations! Je suis heureuse de vous annoncer que vous avez été choisie comme bénéficiaire de la bourse mentionnée en rubrique pour l’année académique 2007‑2008. Voici les détails concernant votre bourse :
+Validité maximum de la bourse : 1 an, non renouvelable.
+Conditions liées à votre bourse :
+Au terme de votre stage, un exemplaire d’une thèse ou d’un compte rendu détaillé de façon raisonnable des recherches entreprises et de vos expériences vécues au cours de l’année doit être présenté à l’AUCC, laquelle le transmettra au MDN au plus tard le 1er octobre 2008.
+Institution proposée : Le Conseil Atlantique du Canada.
+Renseignements relatifs aux versements :
+Type de versement
+Période de paiement
+Montant
+Devise
+Payable à
+Général
+Sept‑Déc
+17 500 $
+(CAN)
+Institution
+Général
+Jan‑Avr
+17 500 $
+(CAN)
+Institution
+Rapport/Thèse
+Sept‑Avr
+0 $
+(CAN)
+**AUCUN PAIEMENT
+Veuillez prendre note de ce qui suit :
+Ces fonds sont distribués en deux versements, le premier en septembre, et le second en janvier. Remarque : Votre deuxième versement en janvier est conditionnel à la réception (par l’AUCC) du rapport portant sur vos réalisations durant votre premier semestre ou année de travail ainsi que d’un plan de travail pour le semestre suivant. Si vous vous retirez du programme, vous devez rembourser la bourse.
+Étant donné que les bourses d’études sont considérées comme un revenu imposable, vous recevrez annuellement un formulaire T4A.
+Le traitement de vos versements se fera sur réception d’un exemplaire dûment signé du formulaire d’acceptation de la bourse ci‑joint et des documents requis décrits ci‑dessus.
+Je vous souhaite la meilleure des chances dans vos études pour la présente année.
+Cordialement,
+(s) G Kerr
+Ginette Kerr
+Agente de programme
+Bourses d’études supérieures
+600‑350 Albert Ottawa ON Canada K1R 1B1
+Phone/ Tél. : 613‑563‑1236 Fax/Téléc. : 613‑563‑9745
+www.aucc.ca
+[Je souligne]
+*********************************
+Association of Universities
+Association des universités
+and Colleges of Canada
+et collèges du Canada
+FORMULAIRE D’ACCEPTATION DE BOURSE
+Le 29 mai 2007
+AUCC ID.: xxxxxxxxxxx
+Mme Luisa Sargsyan
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxx
+CANADA
+PROGRAMME DE BOURSE : Ministère de la Défense nationale – Stage du Forum sur la sécurité et la défense (FSD) : STAGE
+INSTITUTION PROPOSÉE : Le Conseil Atlantique du Canada
+Prière d’inscrire ci‑dessous votre numéro d’étudiant (si connu), votre numéro d’assurance sociale (exigé aux fins de l’impôt sur le revenu), ainsi que l’institution que vous allez fréquenter au cas où elle serait différente de celle inscrite ci‑dessus. Le présent formulaire doit être signé et retourné à l’Association des universités et collège du Canada, à l’adresse indiquée ci‑dessous au plus tard le 27 juillet 2007.
+Numéro d’étudiant N/A
+Numéro d’assurance sociale XXXXXXXXXXX
+Institution Le Conseil Atlantique du Canada
+(CAC)
+Je, Luisa Sargsyan / décline (entourer l’un ou l’autre) la bourse dont il est fait mention ci‑dessus.
+(écrire votre nom en caractères d’imprimerie)
+Ma preuve d’enregistrement : _____ est jointe ___ vous sera transmise à une date ultérieure.
+Signature Luisa Sargsyan Date Le 11 juin 2007
+600‑350 Albert Ottawa ON Canada K1R 1B1
+Phone/ Tél.: 613‑563‑1236 Fax/Téléc.: 613‑563‑9745
+www.aucc.ca
+[17] Mme Sargsyan a commencé son stage auprès de l’appelant en juillet 2007 plutôt qu’en août. Mme Lindhout a dit dans son témoignage que Mme Sargsyan avait demandé de commencer tôt, parce qu’elle n’était pas satisfaite de son travail à Montréal. Mme Lindhout a accepté qu’elle puisse commencer en juillet.
+[18] La bourse de 35 000 $ a été remise par l’AUCC à l’appelant en deux versements de 17 500 $.
+[19] L’appelant n’a pas suivi le calendrier de paiement établi dans la lettre transmise à Mme Sargsyan par l’AUCC, soit une tranche de 17 500 $ devant être versée en septembre et une seconde de 17 500 $ en janvier. L’appelant a plutôt fait à Mme Sargsyan des versements mensuels de 2 900 $, à l’exception du dernier versement mensuel qui totalisait 3 200 $. Mme Lindhout a affirmé dans son témoignage que l’appelant avait suivi ce calendrier de paiement parce que dans le passé les stagiaires avaient indiqué leur préférence pour des versements mensuels et que le MDN les avait payés de cette façon lorsqu’il administrait le programme de stages du FSD.
+[20] Afin que Mme Sargsyan puisse recevoir de l’appelant le second versement de 17 500 $, le programme de stages du FSD exigeait qu’elle présente un rapport portant sur ses réalisations durant le premier trimestre ou année de travail ainsi qu’un plan de travail pour le semestre suivant. Comme autre condition, le programme exigeait que Mme Sargsyan présente, à la fin de son stage, une thèse ou un compte rendu raisonnablement détaillé des recherches conduites durant son stage. Le rapport d’étape et le rapport final devaient être présentés à l’AUCC, laquelle devait retransmettre au MDN le rapport final au plus tard le 1er octobre 2008. Rien n’exigeait que les rapports soient présentés à l’appelant.
+[21] Mme Lindhout a dit dans son témoignage qu’elle n’avait jamais vu le plan de travail initial, celui de mi‑année ni le rapport final rédigés par Mme Sargsyan dans le cadre du programme de stages du FSD. Ils ont tous été transmis directement à l’AUCC par Mme Sargsyan.
+[22] Mme Lindhout a ajouté qu’elle a dit à Mme Sargsyan qu’aucune déduction ne serait faite à la source sur les versements mensuels et que Mme Sargsyan lui a répondu que cette façon de faire lui était acceptable.
+[23] Mme Lindhout a affirmé que les heures de travail de Mme Sargsyan n’étaient pas fixes. Elle a cependant dit que Mme Sargsyan était habituellement au bureau entre 9 et 17 h. Il n’y avait pas de registres de présence et personne chez l’appelant ne relevait la durée de ses présences. Elle a utilisé un ordinateur de bureau qui était cependant utilisé par d’autres stagiaires en son absence. L’appelant comptait plus de stagiaires et de bénévoles que d’ordinateurs.
+[24] Mme Lindhout a dit dans son témoignage qu’on avait confié à Mme Sargsyan, en tant que stagiaire employée par l’appelant, diverses tâches répondant aux objectifs du programme de stages du FSD. Ainsi :
+- Elle a été rédactrice en chef du bulletin d’information de l’organisme de l’appelant et a rédigé certains articles en matière de défense pour le bulletin : voir la pièce A‑1, onglet 11. Tous les stagiaires ont eu l’occasion d’écrire dans le bulletin;
+- Elle a rédigé les procès‑verbaux de certaines des tables rondes sur des enjeux touchant la sécurité et la défense. Les stagiaires n’étaient pas tenus d’assister à ces tables rondes, mais Mme Sargsyan a choisi d’y assister. Il avait été entendu que si les stagiaires y assistaient, ils devaient rédiger un rapport;
+- Elle a rédigé les procès‑verbaux des réunions du comité exécutif pour une période de six mois. Selon Mme Lindhout, sa présence au comité exécutif constituait une façon pour elle d’en apprendre plus sur la gouvernance au sein d’un organisme non gouvernemental;
+- Elle a participé au concours d’essai de l’appelant portant sur l’Afghanistan et s’adressant aux étudiants inscrits aux études supérieures, même si Mme Lindhout a dit que le rôle de Mme Sargsyan s’était limité à afficher l’avis de concours sur le site Web de l’appelant;
+- Elle a exécuté des tâches administratives comme répondre au téléphone, mais cela ne s’est pas produit souvent, et seulement lorsque l’adjointe administrative était absente.
+[25] Mme Lindhout a déclaré que le principal projet de Mme Sargsyan en tant que stagiaire a été l’implantation d’un bulletin d’information qui attirerait l’attention sur des événements survenant dans diverses parties du monde. Ce bulletin d’information présentait des analyses objectives sur l’actualité au Moyen‑Orient, en Afrique et partout dans le bloc euro‑atlantique et couvrant une gamme de sujets touchant la politique, l’économie, la sécurité et l’OTAN. Le bulletin d’information s’intitulait « In Focus Transatlantic » (In Focus). C’était l’idée de Mme Sargsyan et Mme Lindhout a approuvé sa publication sous le nom de l’appelant.
+[26] Mme Lindhout a dit qu’elle croyait que le bulletin d’information In Focus constituait un bon projet pour Mme Sargsyan étant donné que les sujets traités cadraient avec le programme de stages du FSD. Mme Sargsyan a produit 10 ou 11 éditions de In Focus et ce bulletin d’information a été distribué au MDN.
+[27] Mme Lindhout a également dit que même si le bulletin d’information In Focus était une très bonne idée, il s’agissait d’un type de bulletin d’information que l’appelant n’aurait pas publié en temps normal car il ne disposait pas de ressources suffisantes pour le faire.
+[28] Lorsqu’il lui a été demandé pourquoi la publication de In Focus avait continué après le départ de Mme Sargsyan, Mme Lindhout a répondu que les stagiaires qui avaient joint les rangs de l’appelant après Mme Sargsyan se sont montrés intéressés à continuer de le publier. Mme Lindhout a déclaré qu’elle n’hésiterait pas à cesser sa publication de In Focus si les stagiaires perdaient intérêt dans sa production.
+[29] Mme Lindhout a aussi dit lors de son témoignage que Mme Sargsyan avait assisté à certaines conférences dans le cadre du programme de stages du FSD, dont :
+- la 53e assemblée générale de l’ATA, organisée par l’appelant, du 31 octobre au 2 novembre 2007, à Ottawa. Selon Mme Lindhout, les responsabilités de Mme Sargsyan pour cette conférence consistaient à rechercher des documents d’information pour les participants et à apporter son soutien à la confection de la liste des délégations et à l’enregistrement des délégués. Elle a également assisté à la conférence. Les dépenses de Mme Sargsyan en relation avec la conférence ont été payées par le MDN, alors que l’appelant a acquitté le coût de certains repas;
+- le Forum sur la sécurité et la défense du ministère de la Défense nationale tenu à Ottawa le 4 mars 2008. Mme Lindhout a déclaré que Mme Sargsyan avait été invitée par le MDN, qui avait payé toutes ses dépenses;
+- une conférence tenue à Toronto, le 30 avril 2008, où ont été abordés des sujets traitant de paix et de sécurité au niveau international. Mme Sargsyan a rédigé un rapport en vue de sa publication. La conférence avait été organisée par l’appelant;
+- le Young Atlanticist Summit organisé par l’ATA, à Bucarest. L’ATA a financé une grande partie des dépenses engagées par Mme Sargsyan en relation avec l’événement, alors que l’appelant en a assumé une petite portion.
+[30] En contre‑interrogatoire, Mme Lindhout a déclaré qu’elle n’avait pas dit à Mme Sargsyan ce qu’elle devait écrire ni même quelle orientation devaient prendre ses textes. Mme Lindhout a témoigné qu’elle révisait le travail de Mme Sargsyan, plus particulièrement lorsqu’elle écrivait pour le compte de l’appelant, selon les attentes du conseil d’administration à cet égard. Elle a dit qu’elle transmettait ses commentaires à Mme Sargsyan dans un style de supervision académique. Elle a ajouté que Mme Sargsyan était inscrite au programme de stages du FSD pour apprendre et acquérir une certaine expérience pratique.
+[31] Mme Lindhout a dit que Mme Sargsyan fixait elle‑même les délais de publication de In Focus et du bulletin d’information de l’appelant. La seule préoccupation de Mme Lindhout était que les délais fixés pour les publications soient respectés.
+[32] Mme Lindhout a affirmé que Mme Sargsyan s’était absentée du bureau pour une période d’environ huit semaines et demie[2] : une semaine pour visiter sa sœur au New Jersey; une semaine de vacances avant le Sommet à Bucarest; une semaine en Italie; trois semaines et demie pour rejoindre son fiancé en Californie, à Noël (les bureaux de l’appelant étaient fermés durant deux de ces semaines). Mme Lindhout a dit qu’elle n’aurait pas autorisé une absence aussi prolongée à l’extérieur du bureau si Mme Sargsyan avait été une employée de l’appelant.
+[33] Sachant que la durée du programme de stages du FSD n’était que d’un an, le 21 janvier 2008, Mme Sargsyan a écrit à Mme Lindhout et à M. McKenna, un collègue de Mme Lindhout, disant qu’elle était très intéressée à présenter une demande d’acceptation pour le programme de boursier diplômé auprès du Conseil international du Canada (CIC). Elle demandait s’il leur était possible de revoir une proposition de recherche qu’elle avait préparée pour le CIC et s’ils seraient disposés à lui fournir des lettres de recommandation.
+[34] Mme Lindhout a communiqué ses commentaires sur la proposition de recherche et lui a fourni une lettre de recommandation à l’appui de sa demande au CIC.
+[35] Vers la fin du programme de stages du FSD en août 2008, Mme Sargsyan n’avait pas encore trouvé d’endroit pour travailler. Selon Mme Lindhout, Mme Sargsyan était très désespérée car elle n’avait pas trouvé d’emploi et n’avait pas été choisie pour le programme de boursier diplômé du CIC. Mme Sargsyan a demandé à Mme Lindhout si elle pouvait rester en poste auprès de l’appelant de façon à avoir la chance d’élaborer de nouvelles possibilités de décrocher un autre emploi.
+[36] L’appelant ne disposait pas des fonds nécessaires pour garder Mme Sargsyan à son emploi après la fin du programme de stages du FSD. Afin de faciliter la tâche de Mme Sargsyan, Mme Lindhout a cherché à obtenir pour elle la bourse de 10 000 $ de la Banque de Nouvelle‑Écosse qui n’avait pas encore été octroyée. Mme Lindhout s’est adressée au conseil d’administration de l’appelant et à demander à ce que la bourse soit accordée à Mme Sargsyan. Le conseil a accepté la demande de Mme Lindhout et Mme Sargsyan a pu demeurer auprès de l’appelant pour trois autres mois.
+[37] Après avoir quitté l’appelant au début d’octobre 2008, Mme Sargsyan a accepté un poste consistant en un contrat de recherche auprès du ministère des Collèges et Universités de l’Ontario, lequel a pris fin en mars 2009.
+[38] Mme Lindhout a déclaré dans son témoignage que Mme Sargsyan l’avait appelée (probablement aux environs du 27 mars 2009) pour lui demander si l’appelant pouvait préparer un relevé d’emploi (RE) indiquant qu’elle avait 12 heures d’emploi assurable. Mme Lindhout a signé ce RE le 27 mars 2009 : voir la pièce A‑1, onglet 13. Mme Sargsyan n’a pas mentionné à Mme Lindhout la raison pour laquelle elle voulait que le RE indique 12 heures.
+[39] Le 2 avril 2009, Mme Sargsyan a écrit un courriel à Mme Lindhout lui demandant de modifier le RE afin d’indiquer le nombre total de ses heures (1 855) ainsi que le montant total de sa rémunération assurable (20 800 $) auprès de l’appelant : voir la pièce A‑1, onglet 14.
+[40] À ce stade, Mme Lindhout a réalisé que si elle devait fournir à Mme Sargsyan un RE modifié comme Mme Sargsyan l’avait demandé, elle aurait à en aviser le conseil d’administration de l’appelant, car cela irait à l’encontre des pratiques antérieures de l’appelant.
+[41] Elle a donc transmis un RE modifié indiquant 1 855 heures, représentant 15 mois de travail, à raison de 35 heures par semaine, comme étant le nombre total d’heures d’emploi assurable et 0 comme étant le montant total de rémunération assurable, le tout accompagné d’une note indiquant ce qui suit :
+[traduction] […] Bien qu’elle ait travaillé 35 heures par semaine de façon régulière, aucune retenue n’a été faite parce que son poste était un stage financé par des bourses accordées par le ministère de la Défense nationale, pour une période de 12 mois, et par la Banque de Nouvelle‑Écosse, pour trois autres mois. Les sommes étaient avancées au Conseil Atlantique du Canada pour être versées mensuellement à Mme Sargsyan.
+[42] L’appelant a préparé un T4A pour Mme Sargsyan indiquant une somme de 26 000 $ de revenus autres pour l’année d’imposition 2008 et 17 400 $ pour l’année d’imposition 2007 : voir la pièce A‑1, onglet 9. Le 6 avril 2009, Mme Sargsyan a demandé que le T4A soit modifié par l’appelant afin d’y indiquer que le revenu figurant à la case 38 provenait d’une bourse : voir la pièce A‑1, onglet 17.
+[43] Mme Sargsyan a témoigné pour le compte de l’intimé.
+[44] Mme Sargsyan possède une maîtrise en sécurité internationale de l’Université de Denver. Elle a dit qu’elle avait soumis sa candidature au programme de stages du FSD en 2007. Afin d’être admissible au programme de stages du FSD, elle devait s’assurer qu’un organisme d’accueil était disposé à l’accepter comme stagiaire pour une période de 12 mois. L’objectif du programme était de favoriser les expériences pertinentes en milieu de travail afin de compléter ses études.
+[45] En ce qui concerne son travail durant son stage auprès de l’appelant, le témoignage livré par Mme Sargsyan est en grande partie semblable à celui de Mme Lindhout. Il existe cependant de légères différences dans la description des tâches qu’elle avait à accomplir et du temps qu’elle y avait consacré. Mme Sargsyan a également déclaré que tout le travail accompli était en lien avec les activités de l’appelant. Voici ce qu’elle a mentionné à titre d’exemples :
+- elle a établi les coûts associés à un concours d’essai sur l’Afghanistan s’adressant aux étudiants inscrits aux études supérieures, en a préparé le message Internet et a choisi les trois meilleurs essais;
+- son travail d’éditrice en chef des bulletins d’information de l’organisme et de ceux de In Focus;
+- son travail relativement à la tenue de la 53e assemblée générale de la conférence de l’ATA;
+- son travail relativement à diverses conférences;
+- des tâches administratives pour le compte de l’appelant.
+[46] En ce qui concerne le bulletin d’information In Focus, Mme Sargsyan a confirmé que c’était son projet principal en tant que stagiaire chez l’appelant et que l’idée de le produire était la sienne. Elle a déclaré dans son témoignage qu’elle ne détenait pas les droits d’auteur pour In Focus et que ceux‑ci appartenaient à l’appelant.
+[47] Elle a dit qu’avant de lancer le projet elle devait obtenir l’approbation de Mme Lindhout et que ce qu’elle réalisait devait l’être sous la direction de Mme Lindhout.
+[48] Elle a témoigné que Mme Lindhout était sa supérieure et qu’on s’attendait à ce qu’elle travaille de 9 h à 17 h, qu’elle devait être présente aux bureaux de l’appelant pour son travail et qu’elle devait demander l’autorisation pour les vacances à l’extérieur de son lieu de travail.
+[49] Elle a confirmé le témoignage de Mme Lindhout en ce qui concerne la durée de ses absences du bureau, mais elle dit qu’elle avait demandé l’autorisation de s’absenter. Elle a dit être demeurée une semaine de plus que prévu en Californie à Noël parce qu’elle avait souffert d’une infection à l’oreille et qu’elle ne pouvait prendre l’avion avant que son état de santé s’améliore.
+[50] Elle a déclaré qu’elle utilisait le mobilier, le téléphone, l’ordinateur et le télécopieur de l’appelant dans le cadre de son travail. Elle a dit qu’elle possédait son propre portable, mais qu’elle ne l’utilisait jamais dans le cadre de son travail au service de l’appelant.
+[51] Elle a déclaré qu’elle n’avait pas choisi d’être payée mensuellement et que cette méthode de versement avait été déterminée par l’appelant. Elle a aussi dit qu’elle n’avait pas de numéro de TPS et qu’elle n’avait pas réclamé de dépenses dans ses déclarations couvrant les années d’imposition 2007 et 2008. Elle a dit ne pas savoir ce qu’était un T4A et qu’il n’avait jamais été question de déductions à la source avec Mme Lindhout ou quiconque d’autre au service de l’appelant.
+[52] En ce qui concerne sa demande de boursier diplômé auprès du CIC, elle a déclaré qu’elle avait préparé sa demande et sa proposition de recherche en dehors des heures de travail pour le programme de stages du FSD.
+[53] En contre‑interrogatoire, elle a expliqué être déménagée au Canada en 2006 et avoir travaillé à Montréal pour le compte de International Jewellery avant de se joindre à l’appelant. Elle a expliqué ne pas avoir mentionné cette expérience de travail dans le curriculum vitae présenté à l’appelant parce qu’elle l’adapte selon les besoins.
+[54] Dans son témoignage, elle a dit qu’elle avait travaillé comme employée pour le compte de International Jewellery, et qu’elle était au courant que des retenues à la source étaient faites sur son salaire brut et qu’un T4 était délivré par International Jewellery en relation avec son emploi.
+[55] Lorsqu’on l’a interrogée à propos du contrat qu’elle avait signé avec l’AUCC, dans lequel était indiqué qu’elle acceptait une bourse de 35 000 $ et qu’un feuillet T4A serait délivré, elle a répondu que même s’il s’agissait d’une bourse, elle se considérait comme une employée.
+[56] Lorsqu’il lui a été demandé pourquoi elle avait demandé à Mme Lindhout de modifier la case 38 son feuillet T4A pour y ajouter la mention « bourse », elle a répondu que son comptable lui avait de le faire.
+[57] Elle a déclaré qu’après avoir quitté son emploi auprès de l’appelant, elle avait travaillé pour le ministère des collèges et universités de l’Ontario. Son contrat avec le ministère s’est terminé en mars 2009. Elle a par la suite présenté une demande de prestations d’assurance‑emploi auprès de Services Canada, mais n’a pu en recevoir vu qu’il lui manquait 11 heures d’emploi assurable, ayant accumulé 899 heures d’emploi assurables, alors qu’elle devait en avoir 910.
+[58] Lorsqu’il lui a été demandé si c’était parce qu’elle avait besoin de 11 heures additionnelles pour répondre au critère lui donnant droit aux prestations d’assurance‑emploi qu’elle avait demandé à Mme Lindhout, à la fin mars 2009, de préparer un RE indiquant 12 heures d’emploi assurable, elle a dit qu’elle ne connaissait strictement rien à l’assurance‑emploi.
+Position de l’appelant
+[59] L’appelant soutient que les intentions des parties étaient claires. Mme Sargsyan a accepté l’offre présentée par l’AUCC en signant le formulaire d’acceptation le 11 juin 2007. Le contrat prévoyait que Mme Sargsyan recevrait 35 000 $ dans le cadre du programme de stages du FSD financé par le MDN : voir la pièce A‑1, onglet 6. Il prévoyait aussi qu’elle recevrait annuellement un feuillet T4A.
+[60] En vertu d’une des conditions du contrat, Mme Sargsyan devait présenter ses réalisations à l’AUCC pour recevoir son second versement de 17 500 $. Elle devait également rédiger un compte rendu détaillé des recherches entreprises ou remettre un exemplaire d’une thèse au terme de son stage.
+[61] L’appelant a déclaré qu’il n’avait pas reçu ces rapports et qu’il ne les avait pas examinés. L’appelant n’a pas su ce que Mme Sargsyan a déclaré par rapport à ses expériences de stage. Si elle avait été à son service, il aurait insisté pour voir les rapports rédigés par Mme Sargsyan avant leur transmission à l’AUCC.
+[62] L’avocat de l’appelant a souligné que l’appelant n’avait rien conservé de la bourse totalisant 35 000 $. La somme a été remise en entier à Mme Sargsyan. Selon lui, le rôle de l’appelant s’est limité à agir comme organisme d’accueil dans le cadre du programme de stages du FSD de façon à permettre à Mme Sargsyan d’acquérir une expérience de travail pertinente. Il a rappelé qu’il s’agissait d’une bourse et qu’en conséquence il n’existait pas de contrat d’emploi entre l’appelant et Mme Sargsyan.
+[63] L’appelant a souligné que la majorité des dépenses de Mme Sargsyan encourues lors de conférence ont été payées soit par le MDN, soit par d’autres organisations, l’appelant n’en payant qu’une modeste portion. Du point de vue de l’appelant, il s’agit là d’un autre facteur indiquant qu’elle n’était pas une employée.
+[64] En ce qui concerne le contrôle, l’avocat de l’appelant soutient que si Mme Sargsyan avait été une employée, elle n’aurait pas pu s’absenter du bureau pour des périodes aussi longues et elle n’aurait pas assisté à des conférences n’apportant aucun bénéfice direct à l’appelant.
+[65] En matière de contrôle, l’avocat de l’appelant a également soutenu que Mme Sargsyan avait bénéficié d’une souplesse considérable dans le choix du travail qu’elle a accompli. Elle a lancé et mis en place le bulletin d’information In Focus qui était en accord avec le programme de stages du FSD.
+[66] L’avocat a soutenu que Mme Sargsyan avait tenté par son témoignage de redéfinir sa relation avec l’appelant. À titre d’exemple, il rappelle la demande faite à Mme Lindhout de préparer un relevé d’emploi indiquant 12 heures pour lui permettre de satisfaire aux critères de l’assurance‑emploi.
+[67] L’avocat a affirmé qu’en raison des nombreux points de contradiction entre les témoignages de Mme Lindhout et de Mme Sargsyan, la question de la crédibilité était déterminante dans le cadre des présents pourvois.
+[68] À titre subsidiaire, l’avocat a fait valoir que si je déterminais que Mme Sargsyan était une employée, elle n’occuperait pas un « emploi assurable » au sens de la LAE, mais exercerait plutôt un emploi exclu aux termes de l’alinéa 5(2)a) de la LAE et n’occuperait pas un emploi ouvrant droit à pension en vertu de l’alinéa 6(2)(b) du RPC.
+Position de l’intimé
+[69] L’intimé a soutenu que Mme Sargsyan était employée en vertu d’un contrat de louage de services alors qu’elle travaillait pour le compte de l’appelant.
+[70] L’avocat de l’intimé a fait valoir que les parties n’avaient aucune compréhension commune de leurs intentions. De toute façon, il a soutenu que si je devais conclure que l’intention des parties n’était pas de convenir d’un contrat de louage de services, cette intention n’était pas étayée par les faits. Selon l’intimé, il importe peu qu’il se soit agi d’un stage ou d’une bourse d’études. Ce qui importe, ce sont les faits entourant la relation établie entre l’appelant et Mme Sargsyan.
+[71] L’intimé soutient que l’appelant exerçait un degré élevé de contrôle sur Mme Sargsyan. Elle devait être présente au bureau de 9 h à 17 h. Elle était sous la supervision directe de Mme Lindhout : voir pièce R‑1, onglet 1.
+[72] Le travail qu’elle a accompli l’a été au profit de l’appelant : elle a travaillé sur le concours d’essai, a contribué aux bulletins d’information de l’organisme et de In Focus, a assisté à des conférences et y à travailler, et a accompli des tâches administratives.
+[73] Elle utilisait l’ordinateur et les fournitures de bureau de l’appelant.
+[74] Elle ne payait pas ses dépenses et n’aurait pas pu tirer un profit de ses activités.
+[75] Le mode de rémunération a été déterminé par l’appelant qui a décidé de payer Mme Sargsyan mensuellement, et non en deux versements de 17 500 $ tel que prévu par le programme de stages du FSD.
+[76] Mme Sargsyan a continué de travailler pour l’appelant après la fin de son stage effectué dans le cadre du programme de stages du FSD.
+[77] En ce qui a trait au critère appliqué pour déterminer s’il s’agit d’un contrat de louage de services ou un contrat de services, l’avocat a cité, à l’intention de la Cour, la décision Wiebe Door Services Ltd. c. M.R.N., [1986] 3 C.F. 553 et l’arrêt 671122 Ontario Ltd. c. Sagaz Industries Canada Inc., 2001 CSC 59. Il a également renvoyé la Cour aux arrêts Équipe de ski capitale nationale outaouais c. Canada, 2008 CAF 132 et Mondo‑Tech Inc. c. Canada, 2003 CAF 62, comme étant des exemples de décisions traitant de programmes gouvernementaux semblables où on a conclu à l’existence d’une relation entre un employé et son employeur.
+Analyse
+[78] Dans le cadre des présents appels, je dois déterminer si Mme Sargsyan était une employée de l’appelant. Si je conclus par l’affirmative, il s’ensuit qu’elle a occupé un emploi assurable au sens de l’alinéa 5(1)a) de la LAE et que cet emploi ouvrait droit à pension au sens de l’alinéa 6(1)a) du RPC.
+[79] Le droit n’est pas en cause dans les présents appels. Le critère qu’il convient d’appliquer pour déterminer l’existence d’une relation employé‑employeur est établi de longue date. Au paragraphe 47 de l’arrêt 671122 Ontario Ltd. c. Sagaz Industries Canada, le juge Major, s’exprimant pour la Cour suprême du Canada, a repris les principes énoncés par le juge MacGuigan dans Wiebe Door en déclarant ce qui suit :
+47 Bien qu’aucun critère universel ne permette de déterminer si une personne est un employé ou un entrepreneur indépendant, je conviens avec le juge MacGuigan que la démarche suivie par le juge Cooke dans la décision Market Investigations, précitée, est convaincante. La question centrale est de savoir si la personne qui a été engagée pour fournir les services les fournit en tant que personne travaillant à son compte. Pour répondre à cette question, il faut toujours prendre en considération le degré de contrôle que l’employeur exerce sur les activités du travailleur. Cependant, il faut aussi se demander, notamment, si le travailleur fournit son propre outillage, s’il engage lui‑même ses assistants, quelle est l’étendue de ses risques financiers, jusqu’à quel point il est responsable des mises de fonds et de la gestion et jusqu’à quel point il peut tirer profit de l’exécution de ses tâches.
+[80] La nature de la relation entre l’appelant et Mme Sargsyan a fait l’objet des témoignages détaillés, et à l’occasion contradictoires, de Mme Sargsyan et de Mme Lindhout. Certaines des contradictions dans les témoignages concernent des points cruciaux. Lorsqu’il s’agit d’évaluer la version des témoins, je tiens compte de la mise en garde formulée par la Cour d’appel de la Colombie‑Britannique dans l’arrêt Faryna c. Chorny, [1952] 2 D.L.R. 354, p. 359, suivant laquelle la Cour doit examiner la véridicité de la version d’un témoin en tenant compte du contexte des circonstances qui l’ont entourée. Selon les termes de cette Cour :
+[traduction] Bref, le véritable critère applicable à la véridicité de la version du témoin dans un tel cas doit être sa conformité à la prépondérance des probabilités qu’une personne pratique et bien informée estimerait d’emblée raisonnable dans le lieu et la situation en question.
+[81] À mon avis, Mme Lindhout a été le témoin le plus crédible. Elle s’est montrée solide comme témoin, ses réponses étaient précises et pertinentes, aussi bien lors de son interrogatoire principal qu’en contre‑interrogatoire. Par ailleurs, Mme Sargsyan s’est montrée à l’occasion évasive en contre‑interrogatoire; elle n’a pas répondu directement aux questions qui lui ont été posées. Fait plus important, j’estime que le témoignage de Mme Lindhout reflétait davantage les circonstances entourant les événements, y compris la preuve écrite.
+[82] La preuve écrite étaye le témoignage de Mme Lindhout. L’objectif du programme de stages du FSD était de permettre aux stagiaires d’acquérir une expérience de travail pertinente et de compléter leurs études. La bourse du programme des stages du FSD était offerte par l’AUCC et non par l’appelant. Ce dernier jouait le rôle d’organisme d’accueil dans le cadre du programme.
+[83] Le contrat intervenu entre l’AUCC et Mme Sargsyan fait clairement état d’un arrangement relatif à une bourse d’études et il y est indiqué qu’un feuillet T4A sera transmis à Mme Sargsyan à la fin de chaque année d’imposition. Selon les termes du contrat, Mme Sargsyan devait rendre compte à l’AUCC, et non à l’appelant, de ses réalisations auprès de l’appelant afin de recevoir la bourse d’études de 35 000 $. Une clause du contrat prévoyait également que Mme Sargsyan était tenue de remettre la bourse d’études à l’AUCC si elle se retirait du programme.
+[84] En signant le contrat le 11 juin 2007, Mme Sargsyan savait donc que les 35 000 $ lui étaient versés à titre de bourse d’études. Elle savait aussi que l’appelant ne jouait que le rôle d’organisme d’accueil.
+[85] En dépit de ce contrat écrit, Mme Sargsyan a soutenu qu’elle était une employée de l’appelant.
+[86] Dans son témoignage, Mme Sargsyan a déclaré qu’elle était sous la supervision directe de Mme Lindhout et qu’elle ne pouvait rien faire sans son accord. Elle a dit qu’elle était tenue de travailler aux bureaux de l’appelant et que ses heures de travail étaient de 9 h à 17 h. Elle a aussi dit qu’elle devait aviser Mme Lindhout pour s’absenter du bureau.
+[87] Mme Lindhout a par ailleurs témoigné qu’elle avait supervisé Mme Sargsyan sur le plan académique. Elle a examiné les documents rédigés par Mme Sargsyan qui devaient être publiés sous le nom de l’appelant. Elle a cependant ajouté qu’elle n’a jamais indiqué à Mme Sargsyan de sujets ni comment les écrire. Elle était surtout intéressée par le produit final. Mme Sargsyan fixait ses propres échéanciers, qu’elle a respectés.
+[88] Mme Lindhout a de plus dit que Mme Sargsyan n’était pas tenue de travailler dans les bureaux de l’appelant et qu’elle n’a pas contrôlé les heures de Mme Sargsyan. Aucun registre des présences n’a été tenu.
+[89] Mme Sargsyan a aussi souligné que tout le travail qu’elle avait réalisé était au profit de l’appelant : elle a participé à la préparation de conférences, a travaillé sur le bulletin d’information de l’organisme et de In Focus. À son avis, elle n’a tiré aucun profit d’un point de vue académique du temps qu’elle a passé auprès de l’appelant.
+[90] Sur ce point, le témoignage de Mme Lindhout diffère de celui rendu par Mme Sargsyan. À son avis, le programme de stages du FSD a profité à Mme Sargsyan. Elle a dit que l’objectif du programme de stages du FSD était de procurer aux stagiaires une expérience pratique d’apprentissage de façon à permettre la présentation de leur candidature à des postes en matière de politiques ou à un doctorat.
+[91] Je suis convaincue que Mme Lindhout a décrit de façon plus précise le travail et la supervision qu’elle en a effectuée. Bien qu’il soit évident que l’appelant a profité de la présence au bureau de Mme Sargsyan pour y effecteur son travail, j’estime que l’objectif de la bourse d’études était d’aider Mme Sargsyan dans son développement. L’appelant a su reconnaître qu’elle n’était pas une employée, et il a accordé à Mme Sargsyan un degré passablement élevé d’autonomie et de souplesse pour le travail qu’elle avait à accomplir.
+[92] De plus, je ne considère pas crédible le témoignage de Mme Sargsyan en ce qui a trait à l’assurance‑emploi ni son explication concernant sa demande d’un RE modifié. Il semble qu’elle tentait après le fait de redéfinir sa relation avec l’appelant de façon à répondre aux critères d’admissibilité au bénéfice de prestations d’assurance‑emploi.
+[93] Mme Lindhout a témoigné qu’elle avait dit à Mme Sargsyan que l’appelant ne ferait aucune retenue à la source sur les fonds de la bourse d’études et Mme Sargsyan avait indiqué que cette façon de faire lui convenait.
+[94] Par ailleurs, dans son témoignage, Mme Sargsyan a déclaré qu’elle n’avait jamais discuté de la question des retenues à la source avec quiconque chez l’appelant, et qu’elle croyait donc être une employée. Elle a aussi soutenu qu’elle n’était pas au courant du fonctionnement du système d’assurance emploi.
+[95] Avant d’accepter la bourse d’études du programme de stages du FSD, Mme Sargsyan avait cependant travaillé pendant presque un an comme employée de International Jewellery, où son salaire était assujetti à des retenues à la source. Il est difficile d’admettre qu’elle ne se soit pas rendu compte de l’absence de retenue à la source sur les versements de bourse d’études qui lui ont été faits.
+[96] Lorsqu’on l’a interrogée sur les raisons pour lesquelles elle avait demandé à Mme Lindhout de modifier son feuillet T4A pour y indiquer qu’elle avait reçu les 35 000 $ comme bourse d’études, elle a répondu qu’elle l’avait fait sur les recommandations de son comptable.
+[97] Toutefois, à peu près à la même époque à laquelle elle a demandé à Mme Lindhout d’ajouter sur son feuillet T4A une référence à la bourse d’études, elle lui a aussi demandé de préparer un RE indiquant 12 heures d’emploi assurable. Lorsqu’on l’a interrogée en contre‑interrogatoire sur les raisons pour lesquelles elle avait demandé à Mme Lindhout de préparer un RE indiquant 12 heures, elle n’a pas répondu directement, mais elle a encore une fois prétendu ne pas être familière avec le système d’assurance‑emploi. Il semble cependant logique de conclure qu’elle savait à ce stade que 11 heures lui étaient nécessaires pour avoir droit au bénéfice des prestations d’assurance‑emploi.
+[98] Lorsque Service Canada lui a plus tard appris que la période d’emploi indiquée sur le RE ne correspondait pas à ses heures d’emploi assurable, Mme Sargsyan a demandé à l’appelant un autre RE reflétant le nombre réel d’heures consacrées à son emploi chez l’appelant. Cette demande était encore une fois compatible avec les efforts déployés pour obtenir le droit au bénéfice des prestations d’assurance‑emploi et démontrait à tout le moins une connaissance passagère du système de l’assurance‑emploi.
+[99] Je ne crois donc pas que Mme Sargsyan ne savait pas ce qu’elle faisait lorsqu’elle a demandé à Mme Lindhout de préparer le premier et le deuxième RE. Elle tentait d’obtenir des prestations d’assurance‑emploi et, pour y arriver, elle devait redéfinir sa relation avec l’appelant, pour passer d’une relation de stagiaire bénéficiant d’une bourse d’études à celle d’employée.
+[100] L’intimé a cité l’arrêt Mondo‑Tech International Inc. (Mondo‑Tech) c. Canada, 2003 CAF 62, dans lequel il a été jugé qu’un stagiaire se trouvait dans une relation d’employé. Les faits dans cette affaire se distinguent cependant de la présente espèce.
+[101] Dans Mondo‑Tech, la société Mondo‑Tech a soumis une proposition de subvention à l’ACDI dans le but de réaliser un projet de stages internationaux pour les jeunes. En vertu de la convention intervenue entre l’ACDI et Mondo‑Tech, cette dernière était responsable de l’implantation et de la gestion du projet. Mondo‑Tech était également chargée de trouver un organisme pour parrainer le projet. Métalec était une cliente de Mondo‑Tech. Elle exploitait une entreprise de fabrication de portes métalliques et était intéressée à vendre ses produits en Amérique du Sud. Métalec a accepté de parrainer le projet. Une convention tripartite a été signée par Mondo‑Tech, Métalec et le travailleur. La convention avait pour objet un stage en gestion de projet international en Uruguay. La convention prévoyait que le travailleur travaillerait à Montréal et, par la suite, en Uruguay; il devait faire de la recherche et du développement en communiquant avec diverses entreprises et en visitant divers sites afin de faire la promotion des produits de Métalec. Métalec était désignée comme le parrain et avait la responsabilité d’offrir la formation et de fournir des outils de bureau.
+[102] Mondo‑Tech avait le pouvoir, purement discrétionnaire, de mettre un terme à l’emploi du travailleur. La Cour d’appel fédérale a conclu que le travailleur était un employé de Mondo‑Tech.
+[103] À mon avis, la décision rendue dans l’arrêt Mondo–Tech n’est pas favorable à l’intimé. Dans les présents appels :
+- c’est Mme Sargsyan qui a demandé la bourse d’études et elle avait la responsabilité de trouver un organisme d’accueil. Par ailleurs, Mondo‑Tech a présenté une proposition à l’ACDI et avait la responsabilité de trouver une société d’accueil;
+- l’AUCC était responsable de l’administration et de la gestion du programme de stages du FSD. Mondo–Tech était responsable de l’administration et de la gestion de la convention;
+- le contrat est intervenu entre Mme Sargsyan et l’AUCC, l’appelant n’y était pas partie. Mondo‑Tech était partie aux deux conventions, l’une avec l’ACDU, et l’autre avec le travailleur et Métalec;
+- les rapports écrits rédigés par Mme Sargsyan durant son stage devaient être présentés à l’AUCC, et non à l’appelant. Dans le cas de Mondo‑Tech, les rapports rédigés par le travailleur devaient être présentés à Mondo‑Tech;
+- en vertu du contrat, si Mme Sargsyan devait se retirer du programme de stages du FSD, elle était tenue de rembourser l’AUCC, et non l’appelant. Dans le cas de Mondo‑Tech, si le travailleur abandonnait le stage, les montants reçus devaient être remboursés à Mondo‑Tech.
+[104] À certains égards, la position de Métalec en tant que parrain était la même que celle de l’appelant en tant qu’organisme d’accueil.
+[105] À mon avis, il est plus intéressant de lire la décision rendue par la juge Lamarre‑Proulx dans l’affaire Université de Montréal c. Ministre du Revenu national, 2005 CCI 499, où elle aborde la question de savoir si un travailleur ayant reçu une bourse d’études était assujetti à un contrat de louage de services. Voici ce qu’elle affirme aux paragraphes 28 et 31 de ses motifs :
+28 […] Bien rarement, une bourse peut‑elle être considérée comme un salaire. Il faut des circonstances particulières de lien de subordination dans une relation de travail. Dans la présente affaire, il n’y a pas de signature d’un contrat de travail. Il y a eu une demande de participer à un programme de maîtrise et il y a eu acceptation de la candidature. L’admission au programme de maîtrise signifiait l’octroi d’une bourse. Cette bourse est de la nature d’une assistance financière pour promouvoir les aptitudes à la recherche et la qualité de la recherche et nullement de la nature d’un salaire dans le cadre d’un contrat de travail.
+31 Le programme décrit tant par les témoins de l’appelante que par l’intervenant, est un programme qui a comme objet un stage dans une entreprise pharmaceutique pour des fins d’expérience de travail pratique dans un contexte d’études universitaires. Les différentes obligations décrites sont celles de professeurs et d’étudiants et non d’employeurs et d’employés.
+[106] Il en va de même dans le cadre des présents appels. Mme Sargsyan a présenté sa candidature au programme de stages du FSD. Le programme est financé par le MDN et géré par l’AUCC. Le formulaire d’acceptation et le contrat concernant la bourse d’études ont été signés par l’AUCC et par Mme Sargsyan. La bourse a été octroyée à Mme Sargsyan pour lui permettre d’acquérir une expérience de travail pertinente de façon à l’aider à trouver un poste en matière de politiques ou d’entreprendre un doctorat. Le rôle de l’appelant s’est limité à celui d’organisme d’accueil. En dépit du témoignage de Mme Sargsyan, à la lumière des éléments de preuve documentaire présentés et des témoignages entendus à l’instruction, je suis d’avis qu’il n’y avait pas de contrat de louage de services entre l’appelant et Mme Sargsyan.
+[107] L’examen des faits à travers le prisme des facteurs énumérés dans l’arrêt Wiebe Door ne change rien à ma conclusion.
+Contrôle
+[108] J’ai déjà abordé la question du contrôle aux paragraphes 86 à 91 de mes motifs.
+Outils
+[109] Mme Sargsyan utilisait l’ordinateur et l’équipement de bureau fournis par l’appelant. Lorsqu’elle était absente du bureau, l’ordinateur était utilisé par d’autres stagiaires et par de bénévoles, car il y avait plus de personnel que d’ordinateurs.
+Degré de risque financier encouru
+[110] Mme Sargsyan n’a pris aucun risque financier. Par ailleurs, l’appelant n’a pas non plus engagé de dépense en accueillant un stagiaire. L’appelant a remis à Mme Sargsyan la totalité de la bourse de 35 000 $ versée par le MDN via l’AUCC. La plupart des dépenses liées aux conférences auxquelles Mme Sargsyan a assisté tout au long du programme de stages du FSD ont été payées par d’autres organismes, laissant à l’appelant l’obligation de payer une petite partie seulement de ces dépenses.
+Le critère de l’intégration
+[111] Mme Sargsyan savait que son séjour auprès de l’appelant était prévu pour une durée prédéterminée afin d’acquérir de l’expérience pratique en relation avec ses études. Le programme de stages du FSD a fondamentalement été conçu pour son bénéfice, et non pour celui de l’organisme d’accueil.
+[112] Comme le soulignait lord Wright dans Montreal Locomotive[3], les quatre critères devraient être combinés et intégrés afin d’interpréter l’ensemble de la transaction. Examinant la transaction dans son ensemble, je conclus que les sommes reçues par Mme Sargsyan tenaient de la nature d’une bourse d’études ou d’une aide financière et ne constituaient pas une rémunération pour des services fournis.
+[113] Comme je l’ai dit précédemment, je suis d’avis que lorsque Mme Sargsyan a accepté les fonds constituant la bourse d’études, elle savait que sa relation avec l’appelant n’était pas une relation d’employée‑employeur.
+[114] Compte tenu de ma conclusion, je ne juge pas nécessaire d’analyser l’argument subsidiaire de l’appelant selon lequel Mme Sargsyan exerçait un emploi visé par une exception aux termes des alinéas 5(2)a) de la LAE et 6(2)b) du RPC.
+[115] Les appels sont accueillis.
+Fait à Ottawa, Canada, ce 9e jour de janvier 2012.
+« Johanne D’Auray »
+La juge D’Auray
+Traduction certifiée conforme.
+Ce 30e jour de mars 2012.
+Jean-Jacques Goulet, LL.L., traducteur.
+RÉFÉRENCE : 2012 CCI 13
+NO DE DOSSIER DE LA COUR : 2010‑2905(EI) et 2010‑2933(CPP)
+INTITULÉ : LE CONSEIL ATLANTIQUE DU CANADA ‑ THE ATLANTIC COUNCIL OF CANADA c.
+LE MINISTRE DU REVENU NATIONAL
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Le 23 août 2011
+MOTIFS DE JUGEMENT
+MODIFIÉS : L’honorable juge Johanne D’Auray
+DATE DES MOTIFS DE
+JUGEMENT MODIFIÉS : Le 9 janvier 2012
+COMPARUTIONS :
+Avocat de l’appelant : Harry R. Burkman
+Avocat de l’intimé : Tony Cheung
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom : Harry R. Burkman
+Firme : Law Office of Larry R. Burkman
+Toronto (Ontario)
+Pour l’intimé : Myles J. Kirvan
+Sous‑procureur général du Canada
+Ottawa, Canada
+[1] L’appelant figurait dans l’annexe A en tant qu’organisme éligible.
+[2] J’éprouve certaines difficultés à comprendre comment Mme Lindhout arrive à 8½ semaines, à moins qu’elle n’inclue le temps passé à des conférences. De toute façon, cela n’a aucun incidence sur ma décision.
+[3] Montreal (City) c. Montreal Locomotive Works Ltd. [1946] 3 W.W.R. 748.

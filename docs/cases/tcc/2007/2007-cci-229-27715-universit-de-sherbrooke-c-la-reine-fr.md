@@ -1,0 +1,186 @@
+---
+title: "Université de Sherbrooke c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27715/index.do"
+last_modified: "2007-06-14"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 CCI 229"
+citation2: ""
+neutral_citation: "2007 CCI 229"
+decision_date: "2007-06-14"
+language: "fr"
+item_id: "27715"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 467
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T09:35:20.778000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "d4944fea7450ad303078d950eef058a064c6fa6eda165b8ddd5b4f3334a38ac4"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Université de Sherbrooke c. La Reine
+
+- Citation: 2007 CCI 229
+- Decision date: 2007-06-14
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 467, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Université de Sherbrooke c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-06-14
+Référence neutre
+2007 CCI 229
+Numéro de dossier
+2004-4671(GST)G
+Juges et Officiers taxateurs
+Paul Bédard
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2004-4671(GST)G
+ENTRE :
+UNIVERSITÉ DE SHERBROOKE,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 30 octobre 2006, à Sherbrooke (Québec)
+Devant : L'honorable juge Paul Bédard
+Comparutions :
+Avocat de l'appelante :
+Me Luc R. Borduas
+Avocat de l'intimée :
+Me Michel Morel
+____________________________________________________________________
+JUGEMENT
+L'appel de la cotisation établie en vertu de la Loi sur la taxe d'accise, dont l'avis est daté du 12 septembre 2003, relativement à la taxe sur les produits et les services, pour la période du 1er août 1999 au 31 mai 2003, est rejeté, avec dépens, selon les motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 14e jour de juin 2007.
+« Paul Bédard »
+Juge Bédard
+Référence : 2007CCI229
+Date : 20070614
+Dossier : 2004-4671(GST)G
+ENTRE :
+UNIVERSITÉ DE SHERBROOKE,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Bédard
+[1] Il s’agit d’un appel interjeté sous le régime de la procédure générale d’une cotisation au montant de 234 560,75 $ établie à l’égard de l’appelante par le ministre du Revenu national par le biais du ministre du Revenu du Québec (le « ministre ») en vertu de la Loi sur la taxe d'accise (la « Loi »), pour la période du 1er août 1999 au 31 mai 2003 (la « période pertinente »). Dans l'établissement de sa taxe nette pour la période pertinente, l'appelante avait déclaré, à titre de crédits de taxe sur les intrants (« CTI »), la totalité de la taxe sur les produits et services (« TPS ») afférente aux biens meubles et services acquis et utilisés pour construire un stade d'athlétisme (le « stade ») sur un lot en friche qu'elle possédait déjà (le « lot ») et aux dépenses d'exploitation du stade. Aux termes de cette cotisation, le ministre a essentiellement établi que l'appelante ne pouvait demander, à titre de CTI, que 67 % de la TPS ainsi payée dans la période pertinente.
+Les faits
+[2] L'appelante est un inscrit aux fins de l'application de la TPS. Elle est une corporation légalement constituée en vertu de la Loi relative à l'Université de Sherbrooke, L.Q. 19154, chapitre 136, ayant notamment comme vocation l'enseignement universitaire. Le campus principal de l'appelante est situé au pied du Mont Bellevue de la ville de Sherbrooke; il regroupe de nombreux bâtiments dans l'ouest et des pavillons où se trouvent la plupart des facultés. De par sa vocation, l'appelante effectue presque exclusivement des fournitures exonérées. Au cours de la période pertinente, l'appelante exerçait aussi des activités commerciales. En effet, bien que son campus principal n'était pas utilisé principalement dans le cadre d'activités commerciales, son centre culturel, son centre sportif et son parc de stationnement étaient utilisés à des fins commerciales. L'appelante, en tant qu'organisme de services publics, demandait des remboursements partiels (67 %) de TPS sur ses acquisitions de fournitures. Néanmoins, elle demandait aussi des CTI afférents à l'utilisation commerciale de son centre sportif, de son centre culturel et de son parc de stationnement.
+[3] À compter de l'année 2000, des discussions ont eu lieu entre les représentants de l'appelante et de la Ville de Sherbrooke (la « Ville ») dans le but d'obtenir la tenue des Championnats du monde d'athlétisme jeunesse 2003 (« Championnats »). Dans le cadre de ces discussions et dans le but de répondre aux exigences liées à la tenue des Championnats, l'idée de l'aménagement d'un nouveau stade extérieur sur le campus principal de l'appelante fut avancée.
+[4] En 2001, la Fédération internationale d'athlétisme amateur (la « FIAA ») a octroyé à la Ville de Sherbrooke la présentation des Championnats. L'appelante et la Ville ont alors mis sur pied le Comité organisateur des 3e Championnats du monde d'athlétisme jeunesse de la FIAA — Sherbrooke 2003 en constituant une société sans but lucratif portant la dénomination de Comité (le « Comité organisateur »). Le Comité organisateur a reçu le mandat d'organiser les Championnats. Le 14 février 2002, l'appelante concluait une entente avec le Comité organisateur par laquelle elle assumait la responsabilité de la construction des infrastructures requises pour les fins des Championnats.
+[5] Le stade fut construit par l'appelante, conformément aux exigences de la FIAA, à l'arrière du Pavillon universitaire sur son campus principal. La construction du stade a débuté au printemps 2002 et s'est terminée au printemps 2003. La construction du stade a coûté environ 10 millions de dollars et fut financée principalement par des subventions gouvernementales. Le stade fut construit sur le lot numéro 2132202 des cadastres du Québec, circonscription foncière de Sherbrooke (le « lot »). Avant la construction du stade, le lot était un terrain en friche et, au moment où l'appelante a procédé à la construction du stade, son campus principal n'était pas utilisé principalement dans le cadre d'activités commerciales.
+[6] L'appelante et le Comité organisateur ont conclu un bail (le « bail ») aux termes duquel l'appelante mettait gratuitement à la disposition du Comité organisateur toutes les installations du stade aux seules fins de la présentation des Championnats, et ce, pour une période de trois (3) mois débutant le 15 mai 2003 et se terminant le 15 août 2003.
+[7] Depuis la fin de sa construction, en mai 2003, jusqu'à la date d'audition du présent appel, le stade fut presque exclusivement utilisé à des fins non commerciales.
+[8] Le 7 juin 2004, l'appelante et la Ville ont conclu une entente de partenariat visant à favoriser l'utilisation optimale des installations sportives, tant pour la collectivité sherbrookoise, la communauté universitaire que pour la communauté québécoise, canadienne et internationale dans le cadre d'événements d'envergure. Aux termes de cette entente, les parties ont aussi convenu de gérer conjointement l'utilisation et l'entretien de certaines installations sportives de l'appelante dont le stade et de former entre elles une société en participation sous le régime du Code civil du Québec afin de concrétiser leur entente de partenariat pour l'exploitation et la gestion de ces installations sportives. Tel qu'il appert au paragraphe 2.1 de cette entente, les parties s'engagent mutuellement l'une envers l'autre à déployer tous les efforts raisonnables et, le cas échéant, à effectuer les apports requis au bénéfice du Partenariat afin de :
+2.1.1 [...] gérer l'utilisation des installations sportives de façon rentable et dans le but d'éviter, ou, le cas échéant, limiter les apports ou contributions financières des Associés au fonctionnement du Partenariat et à la réalisation des buts et objectifs de la Présente Convention;
+[9] Dans cet objectif de rentabilité, les partenaires ont convenu d'établir une tarification en relation avec l'utilisation des installations sportives. Tel qu'il appert au paragraphe 6.2 de cette convention, l'appelante et la Ville partagent tous les revenus d'exploitation. Pour atteindre les objectifs visés par la Ville et l'appelante, un comité de gestion a été constitué, le rôle de ce comité consistant, entre autres, à prendre toutes les décisions et les mesures appropriées pour réaliser les objectifs et les buts prévus à l'entente.
+La position de l'intimée
+[10] L'intimée refuse d'accorder à l'appelante la totalité des CTI qu'elle avait demandés dans l'établissement de sa taxe nette pour la période pertinente pour les motifs suivants :
+i) elle soutient d'abord que le stade n'a pas été utilisé principalement pour l'appelante dans le cadre de ses activités commerciales;
+ii) elle allègue aussi que le stade constituait une amélioration, au sens du paragraphe 123(1) de la Loi, d'une immobilisation de l'appelante, en l'espèce son lot. Elle soumet que, conformément à l'alinéa b) de la formule énoncée au paragraphe 169(1) de la Loi, l'appelante ne pouvait demander les CTI afférents aux biens et services utilisés (construction du stade) pour améliorer son immobilisation (le « lot ») puisque le lot n'avait jamais été utilisé par l'appelante dans le cadre de ses activités commerciales avant la construction du stade;
+iii) enfin, elle soutient que l'appelante n'a pas utilisé une méthode raisonnable pour demander les CTI.
+[11] Dans un premier temps, je déterminerai si le ministre a eu tort de refuser à l'appelante une partie des CTI demandés par cette dernière pour le motif que le stade n'a pas été utilisé principalement par elle dans le cadre de ses activités commerciales.
+Le droit
+[12] La règle générale présidant au calcul des CTI est énoncée au paragraphe 169(1) de la Loi, qui se lit comme suit :
+Sous réserve des autres dispositions de la présente partie, un crédit de taxe sur les intrants d’une personne, pour sa période de déclaration au cours de laquelle elle est un inscrit, relativement à un bien ou à un service qu’elle acquiert, importe ou transfère dans une province participante, correspond au résultat du calcul suivant si, au cours de cette période, la taxe relative à la fourniture, à l’importation ou au transfert devient payable par la personne ou est payée par elle sans qu’elle soit devenue payable :
+A × B
+où :
+A représente la taxe relative à la fourniture, à l’importation ou au transfert, selon le cas, qui, au cours de la période de déclaration, devient payable par la personne ou est payée par elle sans qu’elle soit devenue payable;
+B :
+(a) dans le cas où la taxe est réputée, par le paragraphe 202(4), avoir été payée relativement au bien le dernier jour d’une année d’imposition de la personne, le pourcentage que représente l’utilisation que la personne faisait du bien dans le cadre de ses activités commerciales au cours de cette année par rapport à l’utilisation totale qu’elle en faisait alors dans le cadre de ses activités commerciales et de ses entreprises;
+(b) dans le cas où le bien ou le service est acquis, importé ou transféré dans la province, selon le cas, par la personne pour utilisation dans le cadre d’améliorations apportées à une de ses immobilisations, le pourcentage qui représente la mesure dans laquelle la personne utilisait l’immobilisation dans le cadre de ses activités commerciales immédiatement après sa dernière acquisition ou importation de tout ou partie de l’immobilisation;
+(c) dans les autres cas, le pourcentage qui représente la mesure dans laquelle la personne a acquis ou importé le bien ou le service, ou l’a transféré dans la province, selon le cas, pour consommation, utilisation ou fourniture dans le cadre de ses activités commerciales.
+[13] Ainsi, lorsqu’un inscrit ne fournit que des services taxables, il a droit à tous les CTI puisque le pourcentage en « B » est égal à 100 %. Par contre, si l’inscrit ne fait que des fournitures exonérées, il n’a droit à aucun CTI puisque le pourcentage établi en « B » est égal à zéro. Le calcul en « B » au paragraphe 169(1) entre en jeu dans le cas où l’entreprise de l’inscrit produit à la fois des fournitures taxables et des fournitures exonérées.
+[14] Une fourniture taxable s’entend d’une fourniture effectuée dans le cadre d’une activité commerciale, aux termes du paragraphe 123(1) de la Loi. La même disposition donne la définition suivante d’une activité commerciale.
+« activité commerciale » Constituent des activités commerciales exercées par une personne :
+a) l’exploitation d’une entreprise (à l’exception d’une entreprise exploitée sans attente raisonnable de profit par un particulier, une fiducie personnelle ou une société de personnes dont l’ensemble des associés sont des particuliers), sauf dans la mesure où l’entreprise comporte la réalisation par la personne de fournitures exonérées;
+b) les projets à risque et les affaires de caractère commercial (à l’exception de quelque projet ou affaire qu’entreprend, sans attente raisonnable de profit, un particulier, une fiducie personnelle ou une société de personnes dont l’ensemble des associés sont des particuliers), sauf dans la mesure où le projet ou l’affaire comporte la réalisation par la personne de fournitures exonérées;
+c) la réalisation de fournitures, sauf des fournitures exonérées, d’immeubles appartenant à la personne, y compris les actes qu’elle accomplit dans le cadre ou à l’occasion des fournitures.
+[15] Une fourniture exonérée s’entend d’une fourniture figurant à l’Annexe V de la Loi, selon les dispositions du paragraphe 123(1).
+[16] Les articles 10 et 11 de la Partie VI de l’Annexe V de la Loi décrivent comme fournitures exonérées les fournitures suivantes de la Loi :
+10. la fourniture par un organisme du secteur public de biens ou services, sauf la fourniture de sang ou de dérivés du sang, si la totalité, ou presque, des fournitures des biens ou services sont effectuées par l'organisme à titre gratuit.
+11. la fourniture du droit d’être spectateur à un spectacle ou à un évènement sportif ou compétitif, si la totalité, ou presque, des exécutants, des athlètes ou des compétiteurs y prenant part ne reçoivent ni directement ni indirectement de rémunération pour leur participation, exception faite d’un montant raisonnable à titre de prix, de cadeaux ou d’indemnités pour frais de déplacement ou autres frais accessoires à leur participation et des subventions qui leur sont accordées par un gouvernement ou une municipalité, et si aucune publicité ou représentation relative au spectacle ou à l’évènement ne met en vedette des participants ainsi rémunérés. N’est pas une fourniture exonérée la fourniture du droit d’être spectateur à un évènement compétitif où des prix en argent sont décernés et dont les compétiteurs sont des participants professionnels pour ce qui est des évènements compétitifs.
+[17] Il convient de préciser que l’appelante est un organisme de services publics aux termes du paragraphe 259(1) de la Loi et que le paragraphe 209(1) de la Loi prévoit que lorsqu’un inscrit est un organisme de services publics, les paragraphes 199(2) et (4) et 200(2) et (3) s’appliquent, avec les adaptations nécessaires, aux immeubles qu’il acquiert pour les utiliser à titre d’immobilisation et, dans le cas du paragraphe 199(4), aux améliorations apportées aux immeubles qui font partie de ses immobilisations, comme s’il s’agissait de biens meubles.
+[18] Aussi, aux fins de déterminer le pourcentage d’utilisation du stade dans le cadre des activités commerciales de l’appelante, le paragraphe 199(2) de la Loi prévoit :
+Acquisition d’immobilisations – Les règles suivantes s’appliquent à l’inscrit qui acquiert, importe ou transfère dans une province participante un bien meuble à utiliser comme immobilisation :
+a) la taxe payable par lui relativement à l’acquisition, à l’importation ou au transfert du bien n’est pas incluse dans le calcul de son crédit de taxe sur les intrants pour une période de déclaration que si le bien est acquis, importé ou transféré, selon le cas, en vue d’être utilisé principalement dans le cadre de ses activités commerciales;
+b) pour l’application de la présente partie, il est réputé avoir acquis, importé ou transféré le bien pour l’utiliser exclusivement dans le cadre de ses activités commerciales s’il l’a acquis, importé ou transféré, selon le cas, pour l’utiliser principalement dans ce cadre.
+L'analyse et la conclusion
+[19] Il ressort de ces dispositions pertinentes de la Loi que, dans la mesure où l'appelante démontre qu'elle a utilisé le stade principalement, c'est‑à‑dire à plus de 50 %, dans le cadre de ses activités commerciales, elle peut demander tous les CTI concernés. Toutefois, la preuve soumise n'est pas dans ce sens. Bien au contraire, la preuve a révélé que, depuis la construction du stade, l'appelante a effectué presque exclusivement des fournitures exonérées. Cependant, l'appelante soutient que, même si elle n'a pas utilisé le stade principalement dans le cadre de ses activités commerciales, elle a tout de même le droit de demander la totalité des CTI puisque son intention projetée, avant même de construire le stade, était de l'utiliser principalement dans le cadre de ses activités commerciales. L'appelante appuie ses prétentions à cet égard sur l'expression « en vue d'être utilisée » qui est prévue par le législateur à l'alinéa 199(2)a) de la Loi. Essentiellement, l'appelante allègue que cette expression nécessite la détermination de l'objet de l'acquisition du stade et non son utilisation réelle. À la lumière des enseignements du juge en chef adjoint Bowman, (tel était son titre à l'époque) dans la décision 510628 Ontario Ltd. (Rosset Landscaping) c. Canada, [2000] A.C.I. no 451, je ne peux faire autrement que partager la thèse de l'appelante à cet égard.
+[20] Toutefois, l'intention projetée de l'appelante d'utiliser le stade principalement dans le cadre de ses activités commerciales devait, tel que nous l'enseigne la juge Kempo dans la décision Beau Rivage Appartements c. Canada, [1994] A.C.I. no 1137, être une intention formelle et bien arrêtée (par opposition à de vagues intentions). Cette intention projetée devait de plus satisfaire objectivement au critère selon lequel il y avait des chances raisonnables que l'appelante donne suite à l'intention manifestée, et ce, dans un délai raisonnable. Enfin, l'appelante devait avoir pris une décision qui n'était pas seulement envisagée et qui ne dépendait pas d'événements futurs.
+[21] La question qui se pose maintenant est la suivante : Est-ce que l'appelante a fait la preuve, selon la prépondérance des probabilités, que son intention projetée était d'utiliser principalement le stade dans le cadre de ses activités commerciales?
+[22] Il ressort essentiellement de la preuve que :
+i) dès l'automne 2001, l'appelante et la Ville avaient constitué un groupe de travail formé de représentants des deux parties, dans le but d'obtenir les Championnats;
+ii) les préoccupations de l'appelante et de la Ville lors de la conception du projet étaient :
+1er) d'obtenir des subventions suffisantes des différents paliers de gouvernement pour réaliser la construction du stade;
+2e) de construire un stade d'athlétisme qui répondrait non seulement aux exigences de la FIAA, mais qui serait aussi assez polyvalent pour accueillir d'autres compétitions nationales et internationales d'athlétisme, des matches de soccer professionnel et amateur, des matches de football universitaire et professionnel et des événements culturels à caractère commercial (feux d'artifices, spectacles rock, compétitions de tambours et clairons, et cetera);
+3e) de rentabiliser le stade en y tenant des événements culturels ou sportifs à caractère commercial. Les parties ne voulaient pas que le stade soit « un éléphant blanc » en ce qu'ils auraient à éponger annuellement un déficit d'exploitation;
+4e) que l'appelante demeure propriétaire du stade après la tenue des Championnats et que le stade soit exploité par une société de gestion dont les partenaires seraient la Ville et l'appelante, société créée en juin 2004, à la suite de longues négociations entre les parties.
+[23] Il ressort toutefois des témoignages à l'appui de la position de l'appelante et de la preuve documentaire que :
+i) dès la conception du projet de construction du stade, les parties avaient prévu qu'après la tenue des Championnats, le stade servirait principalement de site d'entraînement et de compétition en athlétisme et qu'il pourrait accueillir à l'occasion d'autres types de manifestation (exemples : compétitions de corps de tambours, et clairons, spectacles en plein air, etc.)[1];
+ii) bien que l'objectif de rentabiliser le stade ait toujours été présent dans l'esprit des représentants de la Ville et de l'appelante, il n'y a jamais eu de véritable planification liée à la tenue d'événements culturels ou sportifs à caractère commercial dans le but de rentabiliser l'exploitation du stade[2]. Le témoignage de monsieur Jean‑Guy Ouellette à cet égard mérite d'être cité :
+Q. Êtes-vous d'accord avec moi qu'il n'y a eu aucune planification d'activités ou d'événements pour faire en sorte que les opérations s'autofinancent? Quand je vous dis aucune planification, c'est au moment de la conception du stade.
+R. Je dois vous dire que, oui, il y a eu certaines planifications. C'est‑à‑dire qu'il y a eu des principes de données.
+iii) que la planification et la tenue d'événements sportifs ou culturels à caractère commercial n'ont pu se réaliser aussi rapidement que les parties l'auraient souhaité parce que, dès la conception du projet, les parties avaient envisagé que cette tâche soit confiée à une société de gestion dont les parties seraient co‑propriétaires, société qui n'a pu être créée avant le mois de juin de l'année 2004 à cause des longues négociations entre les parties;
+iv) l'absence d'événements culturels ou sportifs à caractère commercial avant et après la création de la société de gestion s'explique aussi par la crainte du milieu sportif que la tenue de tels événements endommage la partie gazonnée du stade. Le témoignage de madame Luce Samoisette à cet égard mérite d'être cité[3] :
+Comme j'ai dit tantôt, ce sont des gens du milieu sportif et ils ont essayé de rentabiliser ça avec des activités sportives, ce qui n'a pas été le cas en 2005 et 2006. Ce qu'on leur demandait toujours c'est : « Pourquoi vous ne faites pas d'autres sortes d'activités? » et on nous a toujours dit : « En raison du terrain naturel qui va être endommagé et ça va être impossible de le ramener à une forme acceptable ou idéale » d'après eux, avec les ... sans engendrer énormément de coûts.
+v) l'appelante est toujours à la recherche de dons et de subventions dans le but de régler le problème lié à l'endommagement de la surface gazonnée qui pouvait être causé par la tenue d'événements culturels à caractère commercial.
+[24] En l'espèce, l'appelante a démontré tout au plus qu'elle avait une vague intention (par opposition à une intention bien arrêtée et formelle) lors de la conception du projet, de rentabiliser le stade en y tenant à l'occasion des événements culturels ou sportifs à caractère commercial sans pour autant faire la preuve, selon la prépondérance des probabilités, qu'elle avait l'intention bien arrêtée lors de l'acquisition du stade, de l'utiliser principalement à des fins commerciales, c'est‑à‑dire à plus de 50 %, et ce, en termes de temps d'utilisation et de superficie utilisée. L'appelante doit comprendre que l'objectif, même bien arrêté lors de l'acquisition d'un bien, de le rentabiliser et l'objectif à ce moment de l'utiliser principalement à des fins commerciales sont deux objectifs bien distincts et différents. En effet, il est fort possible qu'un inscrit ait l'intention bien arrêtée lors de l'acquisition d'un bien de le rentabiliser tout en ayant l'intention bien arrêtée à ce moment de ne pas l'utiliser principalement à des fins commerciales. À titre d'exemple, l'appelante aurait très bien pu atteindre son objectif de rentabilité en tirant la majorité de ses revenus de la tenue occasionnelle d'événements sportifs ou culturels à caractère commercial tout en utilisant le stade à ces fins qu'à 10 % en termes de temps d'utilisation ou de superficie utilisée. En l'espèce, la preuve a révélé très clairement que, dès la conception du projet, l'appelante avait prévu que le stade servirait principalement de site d'entraînement et de compétition en athlétisme après la tenue des Championnats, et qu'ainsi l'appelante, n'avait pas l'intention de l'utiliser principalement, et ce, en termes de temps d'utilisation ou de superficie utilisée, à des fins commerciales.
+[25] De plus, je suis d'opinion que l'appelante n'a même pas réussi à faire la preuve qu'elle avait l'intention bien arrêtée, lors de la conception du projet, de rentabiliser le stade en y tenant des événements culturels ou sportifs à caractère commercial. Je suis aussi d'avis que l'appelante n'avait pas de chances raisonnables de donner suite à ses vagues intentions manifestées lors de la conception du projet, et ce, dans un délai raisonnable. Tout au plus, l'appelante a démontré qu'elle avait manifesté une vague intention lors de la conception du projet de rentabiliser le stade en y tenant de tels événements et qu'elle voulait confier la réalisation de cet objectif à une société de gestion dont elle serait co‑partenaire avec la Ville.
+[26] Une personne comme l'appelante qui prétend avoir eu, dès la conception du projet, une intention bien arrêtée et formelle de rentabiliser son stade aurait dû, à mon avis, poser des gestes concrets pour réaliser son objectif en attendant la formation de la société de gestion. Elle aurait pu planifier dès la conception du projet la tenue de tels événements à caractère commercial en donnant formellement à ses employés ou encore à une entreprise indépendante le mandat d'organiser de tels événements. Pour la période allant de la conception du projet à la formation de la société de gestion, l'appelante n'a posé aucun geste concret en ce sens. Même après la formation de la société de gestion, l'appelante n'a pas insisté auprès de ses représentants qui siégeaient au comité de gestion de la société de gestion pour que son objectif de rentabilité soit réalisé. D'ailleurs, le stade n'avait toujours pas accueilli (à l'exception de deux matches de soccer) de tels événements à la date d'audition du présent appel et son exploitation était toujours à cette date déficitaire. À mon avis, le retard de l'appelante à donner suite à sa vague intention manifestée lors de la conception du projet s'explique avant tout par les problèmes, non encore solutionnés, qui sont liés à l'utilisation de la surface gazonnée du stade lors de la tenue de tels événements. En effet, la preuve a révélé que, dès la conception du projet, les instances sportives de l'appelante étaient réfractaires à la tenue de tels événements sur la surface gazonnée du stade. La preuve a aussi révélé que les représentants de l'appelante au comité de gestion de la société de gestion étaient en 2005 et 2006 tout aussi réfractaires à la tenue de tels événements, et ce, pour les mêmes motifs. Ceci démontre clairement, à mon avis, que l'appelante n'a pas satisfait objectivement au critère selon lequel il y avait des chances raisonnables qu'elle donne suite à son intention manifestée lors de la conception du projet, et ce, dans un délai raisonnable.
+[27] Pour ces motifs, je conclus que le stade n'a pas été utilisé principalement par l'appelante dans le cadre de ses activités commerciales. Bien que les autres questions, soulevées par l'intimée, qui sont liées à la notion d'amélioration d'une immobilisation et à la méthode raisonnable pour demander les CTI soient fort intéressantes, je ne crois pas qu'il soit indispensable, en l'espèce, de les traiter compte tenu de ma décision sur le premier point en litige.
+[28] Finalement, bien que cela ne soit pas nécessairement pertinent à l'issue du présent litige, je note que l'appelante pourrait de toute façon demander les CTI liés à l'acquisition du stade dès qu'elle aura atteint un niveau d'exploitation commerciale à plus de 50 % en termes de temps d'exploitation et de superficie utilisée, et ce, conformément aux règles de changement d'usage prévues par la Loi. Il me semble que cette avenue prévue par le législateur soit plus conforme à son intention liée à l'emploi de l'expression « en vue d'être utilisée » à l'alinéa 199(2)a) de la Loi de ne pas accorder de CTI à une personne qui n'a que de vagues intentions, lors de l'acquisition d'un bien, de l'utiliser principalement à des fins commerciales.
+[29] Pour ces motifs, l'appel est rejeté, avec dépens.
+Signé à Ottawa, Canada, ce 14e jour de juin 2007.
+« Paul Bédard »
+Juge Bédard
+RÉFÉRENCE : 2007CCI229
+Nº DU DOSSIER DE LA COUR : 2004-4671(GST)G
+INTITULÉ DE LA CAUSE : UNIVERSITÉ DE SHERBROOKE ET SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Sherbrooke (Québec)
+DATE DE L’AUDIENCE : le 30 octobre 2006
+MOTIFS DU JUGEMENT PAR : L'honorable juge Paul Bédard
+DATE DU JUGEMENT : le 14 juin 2007
+COMPARUTIONS :
+Avocat de l'appelante :
+Me Luc R. Borduas
+Avocat de l'intimée :
+Me Michel Morel
+AVOCATE INSCRITE AU DOSSIER :
+Pour l'appelante:
+Nom : Me Luc R. Borduas
+Cabinet : Heenan Blaikie
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Voir pièce A‑4, page 2 et le témoignage de monsieur Marc Bernier aux pages 58 et 59.
+[2] Voir notes sténographiques, le témoignage de monsieur Jean‑Guy Ouellette aux pages 78, 79 et 80.
+[3] Voir les notes sténographiques, page 110.

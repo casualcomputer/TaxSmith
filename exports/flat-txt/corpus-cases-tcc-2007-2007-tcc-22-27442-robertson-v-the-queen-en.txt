@@ -1,0 +1,125 @@
+Title: Robertson v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27442/index.do
+Corpus path: corpus/cases/tcc/2007/2007-tcc-22-27442-robertson-v-the-queen-en.md
+Document type: case_law
+Last modified: 2007-01-16
+
+# Robertson v. The Queen
+
+- Citation: 2007 TCC 22
+- Decision date: 2007-01-16
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 198, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Robertson v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-01-16
+Neutral citation
+2007 TCC 22
+File numbers
+2006-1462(IT)I
+Judges and Taxing Officers
+Georgette Anne Sheridan
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2006-1462(IT)I
+BETWEEN:
+LLOYD ROBERTSON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on November 2, 2006 at Prince Albert, Saskatchewan
+Before: The Honourable Justice G. Sheridan
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Anne Jinnouchi
+____________________________________________________________________
+JUDGMENT
+The appeal from the redetermination made under the Income Tax Act with respect to the Canada Child Tax Benefit for the 2003 base taxation year is dismissed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 16th day of January, 2007.
+"G. Sheridan"
+Sheridan, J.
+Citation: 2007TCC22
+Date: 20070116
+Docket: 2006-1462(IT)I
+BETWEEN:
+LLOYD ROBERTSON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Sheridan, J.
+[1] The Appellant, Lloyd Robertson, is appealing the redetermination of the Minister of National Revenue that he was not eligible to receive the Canada Child Tax Benefit ("CCTB") for the base year 2003. The Minister based his conclusion on the assumption that the Appellant's daughter was not resident with him and that he was not the person who primarily fulfilled the responsibility for her care and upbringing as required by the Income Tax Act.
+[2] Turning first to the question of residency, the relevant statutory provisions are set out below:
+Section 122.6 of the Income Tax Act:
+"eligible individual" in respect of a qualified dependant at any time means a person who at that time
+(a) resides with the qualified dependant,
+(b) is the parent of the qualified dependant who primarily fulfils the responsibility for the care and upbringing of the qualified dependant,
+...
+and
+(h) prescribed factors shall be considered in determining what constitutes care and upbringing;
+[3] The "prescribed factors" referred to in paragraph 122.6(h) are set out in section 6302 of the Income Tax Regulations:
+For the purposes of paragraph (h) of the definition "eligible individual" in section 122.6 of the Act, the following factors are to be considered in determining what constitutes care and upbringing of a qualified dependant:
+(a) the supervision of the daily activities and needs of the qualified dependant;
+(b) the maintenance of a secure environment in which the qualified dependant resides;
+(c) the arrangement of, and transportation to, medical care at regular intervals and as required for the qualified dependant;
+(d) the arrangement of, participation in, and transportation to, educational, recreational, athletic or similar activities in respect of the qualified dependant;
+(e) the attendance to the needs of the qualified dependant when the qualified dependant is ill or otherwise in need of the attendance of another person;
+(f) the attendance to the hygenic needs of the qualified dependant on a regular basis;
+(g) the provision, generally, of guidance and companionship to the qualified dependant; and
+(h) the existence of a court order in respect of the qualified dependant that is valid in the jurisdiction in which the qualified dependant resides.
+[4] The Appellant accepts the following assumptions of fact[1]:
+(a) the Appellant is the father of Teela;
+(b) Lisa Dhoedt is the mother of Teela;
+(c) Teela's date of birth was September 24, 1991;
+(d) the Appellant resided in La Ronge, Saskatchewan;
+(e) Lisa Dhoedt resided in Edmonton, Alberta;
+(f) the Appellant and Lisa Dhoedt lived separate and apart;
+(g) a judgment of the Court of Queen's Bench, Judicial Centre of Prince Albert, dated February 2, 2001 ordered, among other things, that the Appellant have sole custody of Teela;
+(h) the Appellant and Lisa Dhoedt agreed that for the 2004-2005 school year, that Teela would attend school in Edmonton;
+...
+[5] The Appellant represented himself and was the only witness to testify at this Informal Procedure hearing. In respect of assumption 8(h), he explained that to attend school in Edmonton, his then 13-year-old daughter needed a place to live. According to the Appellant, her mother (Lisa) agreed to provide room and board for her in exchange for his forgiveness of a loan to her dating back to March 1991, some months before their daughter was born. Although over the years Lisa had attempted repayment, at the time Teela wanted to go to school in Edmonton, the debt was still outstanding. Thus it was that they arrived at an agreement that would provide to the Appellant the accommodation he was seeking for his daughter while at the same time, relieving Lisa of her financial obligations to him. It was in the context of this agreement, rather than of any parental duty, that Teela came to live with her mother and that her mother became responsible for her day-to-day needs.
+[6] Based on these facts, the Appellant submits that at no time did Teela cease to reside with him. He was effectively in the same position as a custodial parent who sends his child to boarding school - while Teela was away from her father's residence to attend school, he paid her mother to provide a place to live and to see to her care and upbringing. In support of his position, he relied on Penner v. Her Majesty the Queen[2] in which it was held that a custodial grandmother who placed her granddaughter with a family while the child was attending school in another city was entitled to the CCTB. In that case, it was a finding of fact that the grandmother had paid $400 per month for her granddaughter's board and room.
+[7] I am persuaded by the Appellant's argument that the reasoning applied in Penner could apply with equal vigour to his own appeal. In the present matter, however, there is insufficient evidence before me to find that any such room and board arrangement existed. The Appellant has the onus of proving the facts supporting his position. Lisa was not called to corroborate the Appellant's version of what transpired between them. As for the documentation relied upon by the Appellant, it falls far short of establishing the existence of a debt: Exhibit A-3 is a copy of a document entitled "CONTRACT FOR EMPLOYEE LOAN THROUGH THE COMPANY" dated March 12, 1991[3]. The parties named in this agreement are the "Debtor", Lisa White (who is now Lisa Dhoedt, according to the Appellant's testimony) and as the "Creditor", an entity called "Hawkeye Associates". The document bears the Appellant's signature but apparently, in his capacity as the representative of Hawkeye Associates. On its face, there is nothing in the agreement to show that it is between the person now known as Lisa Dhoedt and the Appellant personally. He also produced a copy of a document dated May 10, 2003 purporting to show the Statement of Account of an amount owed by "Lisa Dhoedt (White)" to Hawkeye Associates[4]. According to this document, the outstanding amount is identified only as "as per contract". Again, even under the more relaxed rules of the Informal Procedure, there is no clear link between this ambiguous and possibly self-serving document and the debt the Appellant says was created in 1991. Finally, there is Exhibit A-5, the Appellant put in evidence a copy of a document entitled "Agreement With respect to Teela Robertson between Lloyd Robertson and Lisa Dhoedt (White)" dated June 28, 2004[5]. Although the agreement specifically sets out the Appellant's requirement to pay the school costs (paragraph 3: "Lloyd is to pay all fees charged by Victoria School with respect to providing Teela's education at Victoria School"), there is no similar reference to his having any obligations in respect of her accommodation. On the contrary, that responsibility is clearly assigned to Lisa (paragraph 4: "Lisa is to provide accommodation and any volunteer work assigned by the school as part of their special programming"). There is no mention of her doing so in consideration of the Appellant's forgiveness of her indebtedness.
+[8] In my view, the evidence supports the conclusion that the Appellant wisely recognized that his artistically talented daughter would benefit from attending the specialized school in Edmonton. Not wanting to let this educational opportunity slip away merely because of the school's location far from his residence, he and Teela's mother had the good sense to agree to share the cost of schooling and accommodation, each according to his or her means: the Appellant had the fiscal resources to pay the tuition; Lisa had a residence in Edmonton and the time to see to her daughter's care and upbringing. There is no question that Teela was physically present in mother's residence during the school year: it was there she had her meals, slept, kept her belongings, did her homework and lived her life. It must also be borne in mind that during this period, the Appellant himself was not living in his residence as he was attending college in Calgary.
+[9] The purpose of the CCTB is to benefit the child. The Act is geared to accomplish this by putting additional financial resources in the hands of the parent with whom the child is residing and who is seeing to the child's daily needs. For the base year 2003, that person was Teela's mother. In view of this finding and given the Appellant's admission that Lisa saw to their daughter's needs while she was in Edmonton, there is no need for me to consider the "care and upbringing" criteria set out in section 6302 of the Regulations. The appeal is dismissed.
+Signed at Ottawa, Canada, this 16th day of January, 2007.
+"G. Sheridan"
+Sheridan, J.
+CITATION: 2007TCC22
+COURT FILE NO.: 2006-1462(IT)I
+STYLE OF CAUSE: LLOYD ROBERTSON AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Prince Albert, Saskatchewan
+DATE OF HEARING: November 2, 2006
+REASONS FOR JUDGMENT: The Honourable Justice G. Sheridan
+DATE OF JUDGMENT: January 16, 2007
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Anne Jinnouchi
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Subparagraphs (i) to (l) of paragraph 8 are conclusions of law and were not properly included as facts assumed by the Minister.
+[2] 2006TCC413.
+[3] Exhibit A-3.
+[4] Exhibit A-4.
+[5] Exhibit A-5.

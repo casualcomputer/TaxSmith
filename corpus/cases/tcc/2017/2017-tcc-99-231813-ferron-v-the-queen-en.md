@@ -1,0 +1,202 @@
+---
+title: "Ferron v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/231813/index.do"
+last_modified: "2017-06-01"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2017 TCC 99"
+citation2: ""
+neutral_citation: "2017 TCC 99"
+decision_date: "2017-06-01"
+language: "en"
+item_id: "231813"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2142
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T11:20:52.194000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "30c12af9aa79145e8abba5fb894be2a33f54b9229af945ae98552fc106f03bfd"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Ferron v. The Queen
+
+- Citation: 2017 TCC 99
+- Decision date: 2017-06-01
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2142, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Ferron v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2017-06-01
+Neutral citation
+2017 TCC 99
+File numbers
+2016-3513(IT)I
+Judges and Taxing Officers
+Robert James Hogan
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2016-3513(IT)I
+BETWEEN:
+ÉMILIE FERRON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard on May 3, 2017, at Miramichi, New Brunswick
+Before: The Honourable Justice Robert J. Hogan
+Appearances:
+Agent for the appellant:
+Rhéal Ferron
+Counsel for the respondent:
+Sheherazade Ghorashy
+JUDGMENT
+The appellant’s appeals from the reassessments made for the 2012 and 2013 taxation years are set aside for the attached reasons.
+The appellant’s appeal from the assessment made for the 2014 taxation year is also dismissed, for the attached reasons.
+Signed at Ottawa, Canada, this 1st day of June 2017.
+“Robert J. Hogan”
+Hogan J.
+Citation: 2017 TCC 99
+Date: 20170601
+Docket: 2016-3513(IT)I
+BETWEEN:
+ÉMILIE FERRON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Hogan J.
+[1] The appellant is appealing the reassessments made under the Income Tax Act for the 2012, 2013 and 2014 taxation years, under the circumstances described hereinafter.
+[2] On April 25, 2013, November 21, 2013, and January 31, 2014, the Minister of National Revenue (hereinafter the Minister) sent the appellant notices of assessment and reassessment for the 2012 taxation year, which reflect the following changes:
+Title
+Reported
+Revised
+Employment insurance benefits
+$0
+$9,360
+Moving expenses
+$1,286
+$0
+Tuition, education and textbook amounts
+$0
+$4,803
+Other deductions
+$0
+$325
+[3] The appellant did not file a notice of objection to the reassessment made on January 31, 2014, within the time limit, which was May 1, 2014, for the 2012 taxation year.
+[4] The evidence shows that the appellant did not submit, within the time limit, that is, May 1, 2015, an application for an extension of time to file a notice of objection for the 2012 taxation year.
+[5] On May 1, 2014, the Minister sent the appellant a notification indicating that no federal tax was owing for the 2013 taxation year. The notification reflected the following changes:
+Title
+Reported
+Revised
+Employment insurance benefits
+$0
+$5,377
+Tuition, education and textbook amounts
+$6,206
+$11,584
+[6] On April 16, 2015, the Minister sent the appellant an initial Notice of Assessment for the 2014 taxation year in which it reduced the tuition, education and textbook amounts from $3,305 to $0, the deduction of which had been claimed by the appellant.
+[7] On or around February 8, 2016, the appellant filed an objection to that assessment with the Minister.
+[8] On July 18, 2016, the Minister signed the assessment dated April 16, 2015, for the 2014 taxation year.
+[9] In order to make a notice of assessment for 2014, the Minister relied on the following facts:
+a) as at January 1, 2012, the balance available for carrying forward the tuition, education and textbook amounts was $11,960;
+b) for the 2012 taxation year, the tuition, education and textbook amounts were $7,355;
+c) for the 2012 taxation year, the appellant transferred $5,000 under the tuition, education and textbook amounts to a parent;
+d) based on various corrections made to the appellant’s income for the 2012 taxation year, the appellant was required to claim an amount of $4,803 as tuition, education and textbook amounts to maintain her federal tax owing at zero;
+e) the $1,286 in moving expenses were disallowed by the Minister since the appellant, being a student, had no income from scholarships, fellowships, bursaries, prizes and study grants (awards);
+f) as at January 1, 2013, the balance available for carrying forward the tuition, education and textbook amounts was $9,512;
+g) for the 2013 taxation year, the tuition, education and textbook amounts were $3,707;
+h) based on various corrections made to the appellant’s income for the 2013 taxation year, the appellant was required to claim an amount of $11,584 as tuition, education and textbook amounts to maintain her federal tax owing at zero;
+i) based on the corrections made, the amount transferred by the appellant to a parent was changed from $3,707 to $1,635 for the 2013 taxation year;
+j) for the 2014 taxation year, the tuition, education and textbook amounts was $0;
+k) as at January 1, 2014, the balance available for carrying forward the tuition, education and textbook amounts was $0, as detailed below;
+Year
+Previous amount not applied (January 1)
+Tuition amount Education and textbook amounts
+Amount applied from current year
+Amount transferred
+Amount applied from previous year
+Carry forward amount available (December 31)
+2012
+$11,960
+$7,355
+$0
+($5,000)
+($4,803)
+$9,512
+2013
+$9,512
+$3,707
+($2,072)
+($1,635)
+($9,512)
+$0
+2014
+$0
+$0
+$0
+$0
+$0
+$0
+[10] At the start of the hearing, the respondent filed a motion to obtain an order that would set aside the appeals for the 2012 and 2013 taxation years for the following reasons: regarding the 2012 taxation year, the appellant did not file a notice of objection to the reassessment, and regarding the 2013 taxation year, there was notification from the Minister that no federal tax was owing for said year.
+[11] The evidence shows that the facts alleged by the respondent in support of its motion are true. It is well established that this Court lacks jurisdiction to hear an appeal when the appealing party has not filed a proper notice of objection within the prescribed time limit. It is also well established that this Court lacks the jurisdiction to hear an appeal from a zero assessment. For these reasons, the appeals by the appellant for the 2012 and 2013 taxation years are set aside.
+[12] I also note that the appellant provided no evidence that she incurred moving expenses in 2012 and 2014. The appellant chose not to testify. Her agent, however, testified. He claimed that the Minister had allowed the moving expenses indicated in the income tax returns for the 2012 and 2014 taxation years. Clearly, the issuing of the reassessments proves that this was not the case. It would also appear that the witness had no personal knowledge of the moving expense amounts that the appellant allegedly incurred. No documentary evidence was submitted in this regard. The burden of proving the existence of moving expenses falls on the appellant.
+[13] In the absence of evidence that the appellant incurred moving expenses, the appellant’s appeal for the 2014 taxation year is dismissed.
+Signed at Ottawa, Canada, this 1st day of June 2017.
+“Robert J. Hogan”
+Hogan J.
+CITATION:
+2017 TCC 99
+COURT FILE NO.:
+2016-3513(IT)I
+STYLE OF CAUSE:
+ÉMILIE FERRON v. HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Miramichi, New Brunswick
+DATE OF HEARING:
+May 3, 2017
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Robert J. Hogan
+DATE OF JUDGMENT:
+June 1, 2017
+APPEARANCES:
+Agent for the appellant:
+Rhéal Ferron
+Counsel for the respondent:
+Sheherazade Ghorashy
+SOLICITORS OF RECORD:
+For the Appellant:
+Name:
+[Blank / En blanc]
+Firm:
+[Blank / En blanc]
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

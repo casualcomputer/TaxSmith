@@ -1,0 +1,146 @@
+Title: Belley (Labonté) c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26079/index.do
+Corpus path: corpus/cases/tcc/2004/2004-cci-84-26079-belley-labont-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2004-05-11
+
+# Belley (Labonté) c. La Reine
+
+- Citation: 2004 CCI 84
+- Decision date: 2004-05-11
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4074, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Belley (Labonté) c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-05-11
+Référence neutre
+2004 CCI 84
+Numéro de dossier
+2003-531(IT)APP
+Juges et Officiers taxateurs
+Alain Tardif
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2003-531(IT)APP
+ENTRE :
+CAROLLE BELLEY (LABONTÉ),
+requérante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Demande entendue le 23 juillet 2003 à Québec (Québec)
+Devant : L'honorable juge Alain Tardif
+Comparutions :
+Pour la requérante :
+La requérante elle-même
+Représentant de l'intimée :
+Érick Bouchard (stagiaire en droit)
+____________________________________________________________________
+ORDONNANCE MODIFIÉE
+Le texte de l'ordonnance émise le 15 mars 2004 a été modifié
+et les modifications ont été intégrées dans le texte de ce document.
+Il s'agit d'une requête pour obtenir une ordonnance prolongeant le délai dans lequel les appels des cotisations établies en vertu de la Loi de l'impôt sur le revenu (la « Loi ») pour les années d'imposition 1992, 1994 et 1996 peuvent être interjetés;
+Pour ce qui est de la demande de prorogation relative aux cotisations émises respectivement le 11 juillet 1997 et le 19 juin 1998, elle est rejetée, étant donné qu'il s'est écoulé des délais respectifs de 53 à 64 mois entre les cotisations et les avis d'opposition déposés hors-délai.
+L'intimée devra statuer quant au bien-fondé de l'avis d'opposition déposé le 22 novembre 2002 quant à la cotisation établie le 20 septembre 2002, le ou avant le 14 avril 2004 de manière à ce que la requérante puisse faire valoir ses droits.
+Quant à la cotisation émise le 20 janvier 2003 relative à l'année d'imposition 2003, la demande de prorogation de délai a été préparée le 31 janvier 2003 et enregistrée au greffe de la Cour canadienne de l'impôt le 7 février 2003, soit moins de 20 jours après la cotisation; la demande est donc accueillie en ce que la demande de prolongation devra être considérée comme un avis d'opposition dûment produit dans les délais.
+Signé à Ottawa, Canada, ce 11e jour de mai 2004.
+« Alain Tardif »
+Juge Tardif
+Référence : 2004CCI84
+Date : 20040511
+Dossier : 2003-531(IT)APP
+ENTRE :
+CAROLLE BELLEY (LABONTÉ),
+requérante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS MODIFIÉS DE L'ORDONNANCE
+Le juge Alain Tardif
+[1] L'intimée a émis plusieurs avis de nouvelles cotisations. Les avis de nouvelles cotisations ont été émis aux dates, pour les périodes et relatives aux objets suivants :
+Date de la cotisation
+Année concernée
+Objet
+20 sept. 2002
+1992
+Prestation fiscale pour enfants (P.F.C.E.)
+20 janvier 2003
+1994
+Prestation fiscale pour enfants (P.F.C.E.)
+19 juin 1998
+1996
+Prestation fiscale pour enfants (P.F.C.E.)
+11 juillet 1997
+1996
+Crédit de taxe sur les produits et services (C.T.P.S.)
+[2] Des suites des nouvelles cotisations, l'appelante a réagi comme suit :
+Date
+de la cotisation
+Date
+de la réaction
+Nature de la réaction
+Résultat
+20 sept. 2002
+22 nov. 2002
+avis d'opposition
+Admission de l'intimée à l'effet qu'elle n'a pas donné de réponse à l'appelante.
+20 janvier 2003
+nil
+nil
+nil
+19 juin 1998
+22 nov. 2002
+avis d'opposition
+L'intimée a avisé l'appelante que son avis d'opposition concernant les avis de nouvelles cotisations émises respectivement les 11 juillet 1997 et 19 juin 1998 n'étaient pas recevables, eu égard qu'elles étaient produites hors des délais prévus par la Loi.
+11 juillet 1997
+22 nov. 2002
+avis d'opposition
+[3] Pour ce qui est des avis de nouvelles cotisations émises respectivement le 20 septembre 2002 et le 20 janvier 2003 pour les années d'imposition 1992 et 1994, il s'agit d'avis de nouvelles cotisations émises alors qu'il s'était écoulé une période beaucoup plus longue que le délai de trois ans prévu à l'article 152(3.1)b) de la Loi.
+[4] L'agence des douanes et du revenu du Canada peut émettre un avis de nouvelles cotisations après l'écoulement du délai de trois ans, mais à certaines conditions; ces conditions sont prévues au sous-alinéa 152(4.01(a)(i) :
+152. (4.01) Cotisation à laquelle s'appliquent les alinéas 152(4)a) ou b) — *Malgré les paragraphes (4) et (5), la cotisation, la nouvelle cotisation ou la cotisation supplémentaire à laquelle s'appliquent les alinéas (4)a) ou b) relativement à un contribuable pour une année d'imposition ne peut être établie après l'expiration de la période normale de nouvelle cotisation applicable au contribuable pour l'année que dans la mesure où il est raisonnable de considérer qu'elle se rapporte à l'un des éléments suivants :
+a) en cas d'application de l'alinéa (4)a) :
+(i) une présentation erronée des faits par le contribuable ou par la personne ayant produit la déclaration de revenu de celui-ci pour l'année, effectuée par négligence, inattention ou omission volontaire ou attribuable à quelque fraude commise par le contribuable ou cette personne lors de la production de la déclaration ou de la communication de quelque renseignement sous le régime de présente loi,
+[5] La requérante a donc des motifs apparents à faire valoir à l'encontre du bien-fondé des cotisations émises le 20 septembre 2002 et le 20 janvier 2003.
+[6] L'intimée ayant admis n'avoir jamais donné de réponse à l'appelante à la suite de son avis d'opposition, il y a lieu d'ordonner à l'intimée de statuer quant au bien-fondé de l'avis d'opposition dans un délai de 30 jours à la suite de quoi, Carole Belley (Labonté) pourra interjeter appel dans les délais prescrits.
+[7] Quant à la demande relative à la cotisation émise le 20 janvier 2003, la demande de prolongation a été préparée et produite dans un délai de moins de 20 jours, soit respectivement le 31 janvier et le 7 février 2003, la requérante était alors dans les délais prescrits pour avoir pleinement droit à la révision de la cotisation par le processus habituel de l'opposition. L'intimée devra en conséquence analyser le dossier comme si l'appelante avait déposé un avis d'opposition. Suite à la décision résultant du traitement de l'opposition, la requérante disposera du délai prévu par la Loi pour interjeter appel devant la Cour canadienne de l'impôt s'il s'avérait que la cotisation n'était pas néant.
+[8] Pour ce qui est des cotisations émises pour l'année d'imposition 1996, respectivement le 11 juillet 1997 et le 19 juin 1998, l'appelante a produit son avis d'opposition après l'expiration des délais prévus par la Loi. En effet, l'appelante a déposé son avis d'opposition le 22 novembre 2002, soit plus de 53 mois après l'émission de la cotisation le 19 juin 1998 et plus de 64 mois après la cotisation émise le 11 juillet 1997.
+[9] Conséquemment, il y a lieu de confirmer le bien-fondé des cotisations pour l'année d'imposition 1996, émises respectivement le 11 juillet 1997 et le 19 juin 1998, et concernant les prestations fiscales pour enfants (P.F.C.E.) et le crédit de taxe sur les produits et services (C.T.P.S.) étant donné que les délais tant pour faire opposition que pour obtenir une prolongation de délai sont largement dépassés.
+Signé à Ottawa, Canada, ce 11e jour de mai 2004.
+« Alain Tardif »
+Juge Tardif
+RÉFÉRENCE :
+2004CCI84
+No DU DOSSIER DE LA COUR :
+2003-531(IT)APP
+INTITULÉ DE LA CAUSE :
+Carolle Belley (Labonté)
+LIEU DE LA DEMANDE :
+Québec (Québec)
+DATE DE LA DEMANDE :
+le 23 juillet 2003
+MOTIFS MODIFIÉS DE L'ORDONNANCE PAR :
+l'honorable juge Alain Tardif
+DATE DE L'ORDONNANCE :
+Le 11 mai 2004
+COMPARUTIONS :
+Pour la requérante :
+La requérante elle-même
+Représentant de l'intimée :
+Érick Bouchard (stagiaire en droit)
+AVOCAT(E) INSCRIT(E) AU DOSSIER:
+Pour la requérante :
+Nom :
+Étude :
+Pour l'intimée :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

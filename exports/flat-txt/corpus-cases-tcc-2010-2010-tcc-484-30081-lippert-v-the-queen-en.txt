@@ -1,0 +1,144 @@
+Title: Lippert v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30081/index.do
+Corpus path: corpus/cases/tcc/2010/2010-tcc-484-30081-lippert-v-the-queen-en.md
+Document type: case_law
+Last modified: 2010-11-12
+
+# Lippert v. The Queen
+
+- Citation: 2010 TCC 484
+- Decision date: 2010-11-12
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7605, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Lippert v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-11-12
+Neutral citation
+2010 TCC 484
+File numbers
+2009-2765(IT)I
+Judges and Taxing Officers
+François M. Angers
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2009-2765(IT)I
+BETWEEN:
+MICHAEL LIPPERT,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard by telephone conference on July 7 and 8, 2010, and
+in court on July 9, 2010, at Calgary, Alberta.
+Before: The Honourable Justice François Angers
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Gregory Perlinski
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act in respect of the 2004 taxation year is dismissed in accordance with the attached Reasons for Judgment.
+The appeal from the reassessment made under the Income Tax Act in respect of the 2005 taxation year is allowed in part and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached Reasons for Judgment.
+Signed this 12th day of November 2010.
+"François Angers"
+Angers J.
+Citation: 2010 TCC 484
+Date: 20101112
+Docket: 2009-2765(IT)I
+BETWEEN:
+MICHAEL LIPPERT,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Angers J.
+[1] The Appellant is appealing reassessments for his 2004 and 2005 taxation years. His tax returns for both those years were initially assessed on June 28, 2005 and July 10, 2006 respectively. In computing his income for both those years, the Appellant reported net business income of $31,111.55 and $30,029.47 respectively, as detailed below.
+Please see table on pages 2 and 3.
+[2] The Minister of National Revenue (the Minister) reassessed the Appellant on May 3, 2007 for both taxation years and, in doing so, increased the Appellant’s net business income to $94,223.35 and $86,598.72 respectively by reducing the total expenses as shown above. The expenses were disallowed by the Minister as either not having been incurred or, if incurred, as not having been for the purpose of gaining or producing income from a business or property.
+[3] The Minister also assessed penalties pursuant to subsection 163(2) of the Income Tax Act (the Act) of $7,065.03 and $3,544.76 for the 2004 and 2005 taxation years respectively, as detailed above, on the amounts of $55,829.85 and $28,053.03. He assessed in addition $1,641.40 and $1,601.20 of Canada Child Tax Benefit overpayments to the Appellant’s spouse.
+[4] In filing his notices of objection, the Appellant submitted, in support of his objections, amended business income and expense statements requesting that the net business income be revised to $26,250.24 and $15,190.62 for the 2004 and 2005 taxation years respectively, as detailed below. These amendments became necessary when the Appellant lost the data from his computer.
+Please see table on pages 5 and 6.
+[5] The Minister confirmed the reassessments on May 27, 2009 on the basis that expense amounts of $63,111.80 and $56,569.25 originally claimed by the Appellant were not incurred to gain or produce income from a business or property within the meaning of paragraph 18(1)(a) of the Act, and that the Appellant knowingly or under circumstances amounting to gross negligence, in carrying out a duty or obligation imposed under the Act, made a false statement or omission in his income tax returns for the 2004 and 2005 taxation years, within the meaning of subsection 163(2) of the Act.
+[6] The Appellant provides courier services and operates his business as a sole proprietor under the name of Lippert Transportation. He works under a contract for services with DHL Express (Canada) Ltd. He has a small office in his home, which will be discussed later in these reasons, and a warehouse situated approximately 15 kilometres from his home. To provide the services, the Appellant uses different vehicles. He uses a Freightliner truck, which is parked at the warehouse. He used another vehicle, called a Hino, but only did so until March 2004. The Appellant did not use that vehicle for business purposes in either of the taxation years under appeal. The two other vehicles used by the Appellant are a Toyota 4Runner and a Toyota Matrix. At the time of the audit, the Appellant told the auditor that the 4Runner was used for business purposes 65% of the time and that the Toyota Matrix was not for business purposes as it was used by his wife. At trial, he testified that he drove the Matrix and that his wife drove the 4Runner. He used the Matrix to drive from his office to the warehouse.
+[7] The Appellant’s wife testified that the 4Runner was her vehicle during both taxation years, that it was for personal and family use, but that she sometimes did use it for business purposes in assisting the Appellant with deliveries. She did not keep a logbook and was unable to determine a percentage of personal versus business use for that vehicle. If the Appellant was mistaken when he told the auditor which vehicle he used for business purposes, I can only assume that, notwithstanding his mistake, the vehicle actually used was used 65% of the time for business purposes, as he admitted that percentage stated in subparagraph 8(h) of the Reply, which should refer to the Matrix instead of the 4Runner.
+[8] The gross income reported by the Appellant is not disputed, nor are the subcontract expenses as determined by the auditor during the audit. I will deal with each expense in the order in which it appears in the Reply to the Notice of Appeal.
+Business Taxes and Fees
+[9] The Appellant admitted that he only incurred $964.53 and $1,272.88 of business taxes and fees, as determined by the auditor for the 2004 and 2005 taxation years respectively, to earn income from a business or property. The expenses that were denied were for nutritional supplements, Costco memberships, clothing, shoes, alterations, lottery tickets and gym memberships. The Appellant testified that uniforms were supplied, but said that he supplied hats, gloves and shoes. He could not explain why two gym memberships were claimed for 2004. He admitted to buying personal items and groceries at Costco and could not explain the lottery tickets. No numbers were provided that could assist the Court in any way in this regard. The expenses were therefore properly disallowed.
+Computer Costs
+[10] The computer costs of $779.95 claimed by the Appellant for the 2004 taxation year were denied and reduced to $52.95. None were claimed for the 2005 taxation year. The Appellant could not provide any explanations to the Court to justify the amounts claimed under computer costs, nor was he able to explain the computer equipment used for business purposes in 2004. The expenses were properly reduced and the reduced amount properly assessed.
+Delivery and Freight
+[11] There is no dispute regarding this item.
+Equipment Rental, Insurance, Maintenance and Repair Expenses
+[12] The Appellant admitted subparagraphs (q), (r), (s) and (t) of the Reply to the Notice of Appeal pertaining to this expense. They read as follows:
+(q) The Appellant incurred $2,211.12 and $2,199.12 for insurance in 2004 and 2005, respectively, for the Freightliner;
+(r) The Appellant incurred $342.98 and $991.90, respectively, for insurance for the Toyota 4Runner for the purpose of gaining or producing income in the 2004 and 2005 taxation years;
+(s) $135.00 of general liability insurance incurred in 2005 was allowed as part of the total allowable expenses of $29,096.54;
+(t) The Appellant incurred $5,346.01 and $5,360.24 for maintenance and repairs in 2004 and 2005, respectively, for the Freightliner and the Toyota 4Runner.
+[13] Subparagraph (p) was denied on the basis that the equipment rental expenses for the Hino and the Toyota Matrix were not, according to the appellant, incurred to earn income. The evidence reveals that the Hino was not used for business purposes in either taxation year and it turns out that the Toyota Matrix rather than the 4Runner was used by the Appellant for business purposes as the Appellant had misinformed the auditor regarding the use of the latter. The Toyota 4Runner is therefore the one that was not used for business purposes, except on a few occasions that neither the Appellant nor his spouse could specify. The auditor allowed in their entirety the expenses pertaining to the 4Runner and allowed none for the Toyota Matrix. In order for expenses for the Matrix to be allowed, it will be necessary to reduce those allowed for the 4Runner. I do not have evidence before me that can assist in such a determination, and am satisfied that the appellant has been allowed an expense amount of fairly equal value. As for the Freightliner, the expenses allowed for insurance, maintenance and repairs for the two taxation years at issue are to remain unchanged. This item was therefore properly assessed.
+Fuel Costs
+[14] The Appellant has admitted all the facts assumed by the Minister under this heading. The amount allowed will remain unchanged.
+Interest Expense
+[15] As regards this heading, the Appellant agreed that part of the amount claimed in relation to Freightliner loan was with respect to principal payments and he agreed with the adjustment made by the auditor. Other interest was disallowed on a loan from the Canadian Imperial Bank of Commerce on the basis that the loan was not for the purpose of gaining or producing income from a business or property. The Appellant was unable to explain why and for what purpose the loan was taken out.
+[16] Interest on credit cards was also disallowed by the auditor for the same reason. The Appellant believes the interest was charged on fuel purchases but he did not present any statements that could confirm this and possibly enable the Court to determine how much of that interest could be attributed to fuel charges and for what vehicle. As for bank fees relating to overdraft charges and overdraft interest, the Appellant had in both the 2004 and 2005 taxation years only one bank account for both business and personal use. There is no evidence to assist the Court in determining what is applicable to each of these uses. The Appellant has not met his burden of proof and the interest expenses as audited shall remain unchanged.
+Legal and Accounting
+[17] The Appellant admitted the audited amount under this heading.
+Consulting Services (Management and Administration Fees)
+[18] The Appellant claimed under this heading an expense of $25,000 for the 2004 taxation year and $2,000 for the 2005 taxation year. Both expenses were disallowed by the auditor as not having been incurred to earn income from a business or property.
+[19] The Appellant could not explain the expense of $25,000 for the 2004 taxation year other than to say it was an amount paid to a company he had incorporated known as Northern Igloo Computers Ltd. The invoice (Exhibit R-1) is dated December 31, 2004 and is for consulting services as per the contract for the year ending December 31, 2004. The Appellant’s accountant testified that the Appellant wanted to diversify because of his failing health and also because a corporation can provide better tax benefits. The accountant and the Appellant agreed that Northern Igloo Computers Ltd. would invoice for consulting fees but no consulting services were provided. Northern Igloo Computers Ltd. did not file a tax return for 2004 and, in fact, had been dissolved in 1997, which is the year in which it filed its last tax return and deregistered for GST purposes. It did not exist at the time of the contract. The $25,000 was actually never paid to Northern Igloo Computers Ltd. That expense was therefore properly disallowed.
+[20] As for the consulting services of $2,000 for the 2005 taxation year, the Appellant said it was salary paid to his wife for helping him out during that year. It turns out, though, that the invoice of $2,000 provided to the auditor to support that expense was issued by Northern Igloo Computers Ltd. to the Appellant's wife. As mentioned above, Northern Igloo Computers Ltd. was non-existent in 2005, and no funds were actually transferred. The expense was therefore properly disallowed as it had nothing to do with the Appellant's business.
+Meals and Entertainment and Subsistence Expenses
+[21] The Appellant claimed an amount of $1,271.95 under this heading for the 2004 taxation year, which was disallowed; he claimed nothing for the 2005 taxation year, but the auditor allowed him $115 for that year. The Appellant testified that he walks approximately eight kilometres a day and does do deliveries on foot. He could not establish the amount of money he spends on food in a day other than to say he eats more when he works. The accountant testified that he simply “ballparked” the number for that expense. The auditor was not satisfied that the Appellant was using food and drink as a replacement for automobile fuel when making his deliveries on foot. The evidence before me has not satisfied me in this regard either. The expense was properly disallowed.
+Office Expenses
+[22] There is no dispute regarding this item for the 2004 taxation year. For the 2005 taxation year, the amount claimed by the Appellant was substantially reduced by the auditor, and the Appellant was unable to substantiate any of the expenses disallowed, thus leaving the Court with no choice but to conclude that the claim was properly disallowed.
+Rent
+[23] The Appellant admits that no expense was incurred for rent in the 2004 taxation year. The Appellant had claimed $525 under this heading. The expense was therefore properly disallowed. No rental expense was claimed for 2005.
+Supplies
+[24] The expense for supplies claimed by the Appellant for the 2004 taxation year was allowed by the auditor. As for the 2005 taxation year, the Appellant claimed $5,014.03, all of which was disallowed. The Appellant did not provide the Court with any documents to substantiate the expenses claimed under this heading for 2005, but merely stated that he incurred expenses for supplies. The expense was therefore properly disallowed.
+Security Expense
+[25] The Appellant admits that the expense claimed for the 2005 taxation year under this heading was not incurred to earn income from a business or property. No security expense was claimed for the 2004 taxation year. The expense was therefore properly disallowed.
+Telephone Expenses
+[26] The expense of $1,611.20 claimed by the Appellant under this heading for his 2004 taxation year for the use of his cell phone was allowed. For his 2005 taxation year, the Appellant claimed $3,771.82, all of which was disallowed because it included his home phone and other personal or living expenses. The Appellant did not present any evidence to substantiate the amount he claimed or to establish that the amount included his cell phone expenses. He also admitted that he had claimed this expense for the entire house and not just for his home office. The evidence adduced by the Appellant is insufficient to allow me to apportion the amount between business and personal use. I would allow, though, a cell phone expense for 2005 of the same amount as that for 2004, namely $1,611.20.
+Business Use of Home Expenses
+[27] The claim under this heading was broken down into different items, but it was the percentage assigned to the personal portion and the business portion for these items that the Appellant objected to. The office used for the business is located in the basement of the Appellant’s home. The basement is approximately 700 square feet in a two-storey house that the Appellant says has a floor area of 1,495 square feet. The Appellant claimed 20% of his home expenses as a business expense.
+[28] When he met with the auditor, the Appellant told him that he uses one-third of the total square footage for his home office but that he believed his accountant claimed only 10%.
+[29] It turns out, though, that part of the basement is used for a laundry and utility room and another part for a pantry, and that a substantial part is empty. The auditor used the Appellant’s numbers of 20% of a 1,000 square-foot area for the basement or 200 square feet, but took the total square footage of the house, namely 2,195 square feet, to come up with the 9% figure for business use. That 9% business use figure appears to me to be appropriate in these circumstances, and the total business use of home expense was appropriately calculated by the auditor since the Appellant did not submit any evidence to prove that the disallowed expenses were incurred at all, or if incurred, that it was for the purpose of earning income from a business or property.
+Penalties
+[30] In order to assess penalties under subsection 163(2) of the Act, the Minister must establish on a balance of probabilities that the Appellant knowingly, or under circumstances amounting to gross negligence, has made or has participated in, assented to or acquiesced in the making of, a false statement or omission in a return, form, certificate, statement or answer filed or made in respect of a taxation year for the purposes of the Act.
+[31] The Appellant kept the books and records for his business and says he did so to the best of his ability, although he did acknowledge that his bookkeeping was not good. As for the tax returns, they were prepared by his accountant, but were based on the information and data the Appellant provided. The Appellant acknowledged that he was aware that he was required to retain records to support claimed expenses.
+[32] The evidence has clearly disclosed that the Appellant claimed business expenses that were not incurred, claimed personal expenses as business expenses, overstated business expenses, and claimed as management fees amounts paid to his spouse or to a company that had been dissolved since 1997 and which were for all intents and purposes fictitious.
+[33] The penalties were assessed on five disallowed expenses claimed by the Appellant, namely: the interest expense claimed that included principal payments, the management fees claims that were based on fictitious invoices, the supplies expenses that were not substantiated, the business use of home expenses and the equipment rental expense. In my opinion, these kinds of expense claims are clearly not permissible and there has been no explanation provided that could lead me to believe that there was just an honest mistake. The Appellant, in my opinion, was totally indifferent. The auditor did not calculate penalties on other claimed expenses that were disallowed. With regard to those expenses, he gave the Appellant the benefit of the doubt as the claims may have been suggested by his accountant.
+[34] Considering all the circumstances, the Respondent has established on a balance of probabilities that the Appellant’s conduct amounted to gross negligence in that he either participated or acquiesced in the making of false statements in his 2004 and 2005 tax returns and that he was totally indifferent as regards whether or not he could actually claim some of the expenses he did claim. The Minister was justified in assessing penalties on the disallowed expenses. The appeal for 2004 is dismissed. The appeal for 2005 is allowed in part and the assessment is referred back to the Minister for reconsideration and reassessment.
+Signed this 12th day of November 2010.
+"François Angers"
+Angers J.
+CITATION: 2010 TCC 484
+COURT FILE NO.: 2009-2765(IT)I
+STYLE OF CAUSE: Michael Lippert v. Her Majesty the Queen
+PLACE OF HEARING: Calgary, Alberta
+DATE OF HEARING: July 7, 8 and 9, 2010
+REASONS FOR JUDGMENT BY: The Honourable Justice François Angers
+DATE OF JUDGMENT: November 12, 2010
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Gregory Perlinski
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada

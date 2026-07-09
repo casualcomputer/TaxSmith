@@ -1,0 +1,185 @@
+Title: Létourneau c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29564/index.do
+Corpus path: corpus/cases/tcc/2009/2009-cci-614-29564-l-tourneau-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2009-11-09
+
+# Létourneau c. La Reine
+
+- Citation: 2009 CCI 614
+- Decision date: 2009-11-09
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6321, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Létourneau c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2009-11-09
+Référence neutre
+2009 CCI 614
+Numéro de dossier
+2009-1801(IT)I
+Juges et Officiers taxateurs
+Lucie Lamarre
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2009-1801(IT)I
+ENTRE :
+CLÉMENT LÉTOURNEAU,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 9 novembre 2009, à Québec (Québec).
+Devant : L'honorable juge Lucie Lamarre
+Comparutions :
+Représentants de l'appelant :
+Laurie Beausoleil
+J.P. Timothée
+Avocate de l'intimée :
+Me Christina Ham
+____________________________________________________________________
+JUGEMENT
+L'appel de la cotisation établie en vertu de la Loi de l'impôt sur le revenu à l'égard de l'année d’imposition 2007 est rejeté.
+Signé à Ottawa, Canada, ce 9e jour de décembre 2009.
+« Lucie Lamarre »
+Juge Lamarre
+Référence : 2009 CCI 614
+Date : 20091209
+Dossier : 2009-1801(IT)I
+ENTRE :
+CLÉMENT LÉTOURNEAU,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+La juge Lamarre
+[1] Il s’agit d’un appel, selon la procédure informelle, à l’encontre d’une cotisation établie par le ministre du Revenu national (ministre) par laquelle on a refusé de considérer le revenu de 50 482 $ que l’appelant a perçu de la firme de comptables KPMG (KPMG) au cours de l’année d’imposition 2007, comme du revenu de pension admissible, pouvant être fractionné entre lui et sa conjointe, dans le calcul de leurs revenus respectifs, aux termes de l’alinéa 60c) et de l’article 60.03 de la Loi de l’impôt sur le revenu (LIR).
+[2] L’appelant est un comptable qui a exercé sa profession de 1965 jusqu’à sa retraite, le 28 février 1997. Il était un associé de KPMG et, à ce titre, avait accumulé, au cours des années, des unités de participation, qui lui donnaient une part dans les bénéfices, les pertes et le capital de la société KPMG.
+[3] Au moment de quitter, il est devenu un associé retraité de KPMG, acceptant ainsi d’abandonner toutes ses unités de participation. Par le fait même, il a obtenu le droit de participer au régime des associés retraités pour le reste de sa vie, tel que prévu par le contrat de société, et les procédés et méthodes y afférents (Procédés et Méthodes)[1]. L’appelant a quitté à l’âge de 59 ans et selon son témoignage, il avait droit de se faire rembourser 10% du capital investi pour acquérir ses unités de participation. S’il avait quitté à l’âge obligatoire, à 62 ans, il aurait eu droit à un maximum de 20% du capital investi pour ces mêmes unités.
+[4] De plus, l’appelant reçoit une allocation de retraite mensuelle de KPMG à vie, laquelle a été calculée selon un pourcentage du nombre maximum d’unités de participation que l’ex-associé a détenu au cours de la période de dix ans précédant la date à laquelle l’associé a abandonné ses unités de participation, multiplié par la valeur estimée selon la méthode de la comptabilité d’exercice de chaque unité de participation au moment où l’associé prend sa retraite (voir Procédés et Méthodes, pièce A-1, onglet 2, article XI).
+[5] Dans le cas présent, le montant de l’allocation de retraite à verser à l’appelant a été établi selon le calcul que l’on retrouve à la page 5 de l’entente proposée par KPMG à l’appelant (pièce A-1, onglet 3). Cette allocation annuelle a été établie à 43 982 $, laquelle a été réduite à 41 607 $ selon l’appelant pour que cette allocation soit transmise à sa conjointe à son décès. Par ailleurs, l’appelant a expliqué que sauf pour ce qui est de l’ajustement annuel selon l’augmentation du coût de la vie, d’un maximum de 3%, l’allocation de retraite ne fluctue pas en fonction des bénéfices de la société KPMG.
+[6] L’allocation de retraite tire sa source des bénéfices annuels de la société KPMG. C’est ce qui ressort de l’article XI, alinéa 3b) des Procédés et Méthodes (page 13). Si le montant total des participations des associés retraités excède 15% des bénéfices de la société pour tout exercice, ces participations seront toutefois réduites, de façon à ce que leur total représente globalement 15% des bénéfices de la société (article XI, alinéa 3f) des Procédés et Méthodes, à la page 14).
+[7] Par ailleurs, il a été convenu que les participations des ex-associés aux bénéfices de la société soient assimilées à une distribution d’une quote-part du revenu ou de la perte de la société, au sens du paragraphe 96(1.1) de la LIR (article XI, paragraphe 9 des Procédés et Méthodes, à la page 16).
+[8] Ainsi, KPMG a rempli le formulaire T5013 (« Statement of Partnership Income ») établissant un revenu professionnel provenant de la société de 50 482 $ pour l’appelant au cours de l’année d’imposition 2007. Ce formulaire a été joint à la déclaration de revenu de l’appelant pour l’année 2007 (pièce I-1, page 11). L’appelant a reporté sur sa déclaration de revenu, la moitié de cette somme, soit 25 241 $, à la rubrique « Revenus de profession libérale », (pièce I-1, page 2, ligne 137). L’autre moitié a été reportée dans la déclaration de revenu de sa conjointe pour la même année.
+[9] L’appelant soutient que cette allocation de retraite est un revenu de pension aux termes de l’alinéa 60c), de l’article 60.03 et du paragraphe 118(7) de la LIR, et qu’à ce titre, il avait droit de fractionner ce revenu avec sa conjointe.
+Dispositions législatives
+60. Autres déductions -- Peuvent être déduites dans le calcul du revenu d'un contribuable pour une année d'imposition les sommes suivantes qui sont appropriées :
+. . .
+c) Réattribution du revenu de pension -- si le contribuable est un pensionné, au sens du paragraphe 60.03(1), toute somme qui est un montant de pension fractionné, au sens de ce paragraphe, pour lui pour l'année;
+. . .
+60.03 [Fractionnement du revenu de pension] –
+. . .
+« montant de pension fractionné » Est un montant de pension fractionné pour une année d'imposition la somme choisie par un pensionné et un cessionnaire dans un choix conjoint visant l'année, n'excédant pas la somme obtenue par la formule suivante :
+0,5A × B/C
+où :
+A représente le revenu de pension déterminé du pensionné pour l'année;
+B le nombre de mois de l'année d'imposition du pensionné au cours desquels il était l'époux ou le conjoint de fait du cessionnaire;
+C le nombre de mois de l'année d'imposition du pensionné.
+. . .
+« pensionné » Est un pensionné pour une année d'imposition le particulier qui, à la fois :
+a) reçoit un revenu de pension déterminé au cours de l'année d'imposition;
+b) réside au Canada à celui des moments suivants qui est applicable :
+(i) s'il décède dans l'année d'imposition, le moment immédiatement avant son décès,
+(ii) dans les autres cas, la fin de l'année civile dans laquelle l'année d'imposition prend fin.
+« revenu de pension » S'entend au sens de l'article 118.
+« revenu de pension déterminé » S'entend au sens du paragraphe 118(7).
+. . .
+118(7) Définitions -- Sous réserve des paragraphes (8) et (8.1), les définitions qui suivent s'appliquent au présent paragraphe et au paragraphe (3) :
+« revenu de pension » S'agissant du revenu de pension qu'un particulier a reçu au cours d'une année d'imposition, le total des montants suivants :
+a) les montants que le particulier inclut dans le calcul de son revenu pour l'année :
+(i) à titre de versement de rente viagère prévue par un régime de retraite ou d'autres pensions, ou en provenant,
+. . .
+« revenu de pension déterminé » Le revenu de pension déterminé d'un particulier pour une année d'imposition correspond à ce qui suit :
+a) si le particulier a atteint 65 ans avant la fin de l'année d'imposition, le revenu de pension qu'il a reçu au cours de l'année;
+b) sinon, le revenu de pension admissible qu'il a reçu au cours de l'année d'imposition.
+[10] L’appelant soutient que l’allocation de retraite qu’il reçoit de KPMG se qualifie comme un revenu de pension puisqu’il s’agit d’une rente viagère prévue par un régime de retraite ou d’autres pensions au sens du sous-alinéa 118(7)a)(i) de la LIR. L’appelant reconnait que ni lui, ni la société, n’ont contribué au cours des années où il était associé à un régime de retraite.
+[11] L’intimée soutient de son côté, que l’allocation de retraite en question n’est pas une rente viagère prévue par un régime de retraite ou d’autres pensions, mais plutôt une compensation pour la perte de ses droits aux bénéfices futurs de la société suite à l’abandon de ses unités de participation. Ceci est très différent, affirme l’intimée, d’un régime de pension créé pour le bénéfice des employés.
+Analyse
+[12] L’appelant s’appuie sur deux décisions de cette Cour pour prétendre que l’allocation reçue de KPMG peut s’apparenter à un revenu de pension. Dans l’affaire Kaiser c. Canada [1994] A.C.I. no 493 (QC), le juge Rowe définit l’expression « prestation de retraite ou d’autres pensions » que l’on retrouvait alors au sous-alinéa 56(1)a)(i) de la LIR comme visant :
+[. . .] le versement d’une allocation « fixe ou pouvant être déterminée » à intervalles réguliers à une personne généralement, mais pas toujours, par suite de la cessation d’emploi pour lui assurer des moyens minimums de subsistance, le programme formel de paiement des prestations précisées ou l’organisation ou la promotion de la façon dont les prestations sont effectuées doivent relever d’une personne autre que le bénéficiaire puisque le droit de ce dernier de recevoir les prestations de retraite ou d’autres pensions est déterminé par le régime de retraite ou de pension visé au sous-alinéa 56(1)a)(i). En d’autres termes, la régularité et le montant des prestations sont dictées par les modalités du régime et ne relèvent pas du pouvoir discrétionnaire ou des instructions du bénéficiaire.
+[13] Par ailleurs, l’appelant se réfère à l’affaire Ouellet c. Canada [1995] A.C.I. no 676, pour soutenir que la cotisation par l’employeur n’est pas nécessairement requise pour conclure à l’existence d’un régime de pension. La juge Lamarre Proulx s’exprimait ainsi au paragraphe 39 :
+Ce qui importe, en fait, pour déterminer s’il s’agit d’un régime de retraite, c’est de vérifier s’il s’agit « d’un ensemble de règles formant un tout organisé » en fonction d’une charge ou d’un emploi qui prévoit le paiement de pensions en cas de cessation de cette charge ou de cet emploi.
+[14] L’avocate de l’intimée a distingué ces deux décisions en argumentant qu’elles s’appliquaient à des contribuables ayant exercé une charge ou un emploi qui pouvaient bénéficier d’un revenu de pension. Ceci ne s’applique pas, selon l’intimée, au cas en l’espèce. L’intimée n’a soumis aucune doctrine ou jurisprudence à l’appui.
+[15] En fait, dans l’affaire Kaiser, il avait été admis que les fonds en question provenaient d’un mécanisme de retraite étranger devant être inclus dans le revenu aux termes de la disposition 56(1)a)(i)(C.1) de la LIR. La question qui se posait était de déterminer si, au décès du bénéficiaire de ces fonds, le bénéficiaire désigné lors du décès était aussi assujetti à l’imposition aux termes de cette même disposition législative.
+[16] Dans l’affaire Ouellet, le litige était de déterminer si un juge nommé selon la Loi sur les tribunaux judiciaires du Québec avait droit à des prestations dans le cadre d’une caisse ou d’un régime de pension aux termes des alinéas 146(5)a) et b) de la LIR, aux fins d’établir le montant qu’il pouvait verser dans un régime enregistré d’épargne-retraite. La Loi sur les tribunaux judiciaires du Québec traite spécifiquement du régime de retraite et de pension des juges de la Cour du Québec.
+[17] Dans la présente instance, l’appelant est un ancien associé d’une firme comptable, qui partageait les profits et les pertes d’entreprise de la société. Il n’était pas un employé. Il n’a pas versé, au cours des années, une contribution à un régime de pension ou dans un fonds quelconque en prévision d’un revenu de pension dans le futur.
+[18] Dans l’arrêt Dunne c. Sous-ministre du Revenu du Québec, 2007 S.C.C. 19, la Cour Suprême du Canada s’est prononcée sur la nature juridique de sommes reçues par un contribuable dans une situation analogue. M. Dunne, un résident de l’Ontario, a été un associé d’un cabinet comptable pendant plusieurs années et est devenu admissible à ce qu’il considérait comme une allocation de retraite en vertu de son contrat de société. La question en litige était d’établir la nature juridique des sommes reçues par M. Dunne de la société, aux fins d’établir si une partie de celles-ci pouvait être imposable dans la province de Québec, puisque le cabinet comptable avec lequel il avait été associé exerçait aussi une entreprise au Québec.
+[19] Selon son contrat de société, M. Dunne avait droit à une allocation de retraite calculée selon une formule qui tenait compte du nombre d’années de service de l’associé à la retraite et de la moyenne, pour les trois meilleures années consécutives, de la somme de son traitement et de sa participation aux bénéfices. Par ailleurs, le contrat de société démontrait clairement, selon la Cour, que l’allocation de retraite constituait une part des bénéfices de la société, et ce, même si l’allocation était accordée en partie en contrepartie des années de service passé. La Cour en arrive à cette conclusion, entre autres, pour les raisons suivantes. En premier lieu, le contrat prévoyait que si le bénéfice brut de la société était insuffisant, les sommes versées aux anciens associés pouvaient être réduites proportionnellement. De plus, il était spécifié que les allocations de retraite étaient considérées comme une part du bénéfice brut. Ainsi, les allocations de retraite étaient plafonnées à 15% du bénéfice brut, et si nécessaire, elles étaient réduites proportionnellement de façon à ce que ce plafond ne soit pas dépassé.
+[20] Finalement, les associés avaient convenu que, pour fins d’imposition, les allocations de retraite devaient être considérées comme une part des revenus de la société.
+[21] La Cour Suprême du Canada a confirmé le jugement de la Cour d’appel du Québec, [2005] R.J.Q. 2184, 2007 D.T.C., 5237 (Fr.), qui s’exprimait ainsi aux paragraphes 38 à 44 :
+38 Il faut d'abord examiner les articles 608 et 609 [de la Loi sur les impôts du Québec, (L.I.)], dont je reproduirai ci-dessous de nouveau les extraits pertinents :
+608. Aux fins des articles 600, 607, 634 et 635 lorsque la principale activité d'une société consiste à exercer une entreprise au Canada et que ses membres ont conclu une entente afin d'allouer une part du revenu ou de la perte de la société provenant ou découlant d'une source quelconque au Canada ou de sources situées dans un autre endroit à une personne décrite à l'article 609, cette personne est réputée être membre de la société et doit inclure le montant ainsi alloué pour un exercice financier donné de la société dans le calcul de son revenu pour l'année d'imposition pendant laquelle prend fin cet exercice financier.
+609. La personne à laquelle l'article 608 s'applique est :
+a) un contribuable qui a cessé à un moment quelconque d'être membre de la société y décrite [...], lorsque les membres de celle-ci ou ceux d'une tierce société dont un membre de cette autre société est devenu membre immédiatement après la dissolution ont conclu une entente décrite à l'article 608 en faveur du contribuable ou de toute personne décrite au paragraphe b; et
+b)
+. . .
+(Les italiques sont de la soussignée.)
+39 Ainsi, aux fins de l'article 600 L.I., notamment, lorsque la principale activité d'une société consiste à exploiter une entreprise au Canada et que ses membres ont conclu une entente pour allouer une part du revenu ou de la perte de la société à une personne décrite à l'article 609, cette dernière, de par l'article 608, est réputée membre de la société et doit inclure le montant ainsi alloué dans le calcul de son revenu. L'article 609 vise, entre autres, le contribuable qui a cessé, à un moment ou à un autre, d'appartenir à la société décrite à l'article 608.
+40 La situation de l'intimé correspond aux conditions d'application de ces deux dispositions.
+41 Tout d'abord, la principale activité de la société à laquelle l'intimé a appartenu jusqu'en 1994 consiste à exploiter une entreprise au Canada, ce qui était toujours le cas au cours de l'année d'imposition 1997.
+42 Ensuite, les membres de cette société ont conclu une entente aux termes de laquelle l'intimé (comme les autres retraités) reçoit, sous la forme d'une pension, une part des revenus de la société. Cela, d'ailleurs, n'est pas contesté par l'intimé. À tout événement, les articles 4.4 et 5.5 des contrats de société produits sous les cotes R-9 et R-10 confirment que cette pension constitue une forme d'allocation des revenus de la société.
+43 Finalement, l'intimé est une personne qui a cessé d'être membre de la société en question.
+44 Il résulte donc des articles 608 et 609 L.I. que l'intimé, malgré sa retraite, est réputé être un membre de la société et qu'il doit donc inclure dans son revenu de l'année d'imposition en cause le montant de la pension de retraite que lui verse la société. L'article 600, paragr. f, confirme l'obligation de l'intimé d'inclure cette somme dans son revenu.
+[Je souligne.]
+[22] De façon parallèle, le paragraphe 96(1.1) de la LIR dit ce qui suit :
+96(1.1) Part du revenu versée à un associé qui se retire. Pour l’application du paragraphe (1), des articles 34.1, 34.2, 101, 103 et 249.1:
+a) lorsque la principale activité d’une société de personnes consiste à exploiter une entreprise au Canada et que ses associés ont conclu une convention afin d’allouer une part du revenu ou de la perte de la société de personnes provenant d’une ou de plusieurs sources en un endroit donné soit à tout contribuable qui, à un moment donné, a cessé d’être un associé :
+(i) de la société de personnes,
+(ii) d’une société de personnes qui, à un moment donné, a cessé d’exister ou qui, sans le paragraphe 98(1), aurait cessé d’exister et dont ont conclu une telle convention d’allocation :
+(A) ou bien les associés,
+(B) ou bien les associés d’une autre société de personnes dont, immédiatement après ce moment, les associés mentionnés à la division (A) sont devenus associés,
+soit à son époux ou conjoint de fait, à sa succession ou à ses héritiers, ou à toute personne mentionnée au paragraphe (1.3), ce contribuable, son époux ou conjoint de fait, sa succession ou ses héritiers, ou cette personne, selon le cas, sont réputés être des associés de la société de personnes;
+b) les montants dont chacun est égal à la part du revenu ou de la perte mentionnée au présent paragraphe et qu’alloue une société de personnes à un contribuable pour un exercice donné de la société de personnes doivent, malgré les autres dispositions de la présente loi, être inclus dans le calcul du revenu du contribuable pour son année d’imposition au cours de laquelle se termine cet exercice de la société de personnes.
+[Je souligne.]
+[23] Dans le cas présent, le contrat de société liant l’appelant et KPMG s’apparente beaucoup à celui qui a été analysé dans l’arrêt Dunne. Bien que l’appelant n’ait pas produit l’intégralité du contrat, on retrouve dans la partie qui a été déposée en cour, des clauses similaires fixant un montant maximum payable aux associés retraités en fonction des bénéfices de la société (le maximum étant 15% des bénéfices de la société pour les associés retraités). De plus, le contrat prévoit spécifiquement que les participations des ex-associés aux bénéfices de la société sont assimilées à une distribution d’une quote-part du revenu de la société au sens du paragraphe 96(1.1) de la LIR.
+[24] Ainsi, malgré le fait qu’il soit un associé retraité, l’appelant est réputé être un membre de la société et il doit donc inclure le montant de son allocation de retraite comme un revenu de la société. Dans l’arrêt Dunne, la Cour suprême du Canada a conclu que le membre retraité était réputé avoir exercé une entreprise au Québec aux termes de l’article 612.1 de la Loi sur les impôts du Québec.
+[25] La Cour d’appel du Québec s’exprimait ainsi à ce sujet aux paragraphes 45 à 48 :
+45 La question se pose maintenant de savoir si l'intimé doit payer, sur la totalité ou une partie de cette somme, de l'impôt au Québec.
+46 Il faut pour répondre à cette question considérer les article 612.1 et 25 L.I.
+47 L'article 612.1 L.I. énonce que :
+612.1 Lorsqu'une société exerce une entreprise au Québec à un moment quelconque d'une année d'imposition, chaque contribuable qui est réputé membre de la société en vertu de l'article 608, est réputé, pour l'application de l'article 25, exercer cette entreprise au Québec à un moment quelconque de l'année.
+(L'italique est de la soussignée.)
+47 Cette disposition s'applique à l'intimé : en 1997, la société en cause exerce une entreprise au Québec et l'intimé est réputé membre de cette société en vertu de l'article 608. L'intimé est donc également réputé, pour l'application de l'article 25 L.I., exercer « cette » entreprise au Québec. De quelle entreprise s'agit-il? De l'entreprise même de la société dont il est réputé membre, bien sûr. L'on remarque en effet que le législateur n'a pas écrit que le contribuable était réputé exercer « une » entreprise au Québec mais bien qu'il était réputé exercer « cette » entreprise, l'usage du démonstratif renvoyant directement à l'entreprise de la société dont le contribuable est réputé membre.
+48 Il en résulte que, réputé exercer l'entreprise de la société, l'intimé est nécessairement réputé exercer cette entreprise exactement de la même façon et par les mêmes moyens que cette société. Et si la société exerce son entreprise dans un établissement situé au Québec, l'intimé est, de même, réputé exercer cette entreprise dans le même établissement. Au fond, sa situation est exactement ce qu'elle aurait été s'il avait continué d'être un membre actif de la société. Tel qu'expliqué plus haut, la société n'est qu'un conduit et ses activités sont imputables aux membres, réels ou réputés, qui la forment et exercent à travers elle leur entreprise, celle-ci étant exploitée dans un ou plusieurs établissements. Il n'y a pas là de confusion entre les notions d'entreprise et d'établissement : il s'agit plutôt de reconnaître les liens qui existent entre la notion d'entreprise et celle d'établissement et de reconnaître également que la première n'est pas une notion désincarnée de tout situs. L'article 12 L.I. illustre d'ailleurs bien les liens entre l'entreprise et l'établissement en définissant ce dernier comme le lieu fixe ou l'endroit principal où un contribuable exerce son entreprise. [Je souligne.]
+[26] Ainsi, l’article 612.1 a pour but de déterminer le situs du revenu d’entreprise dans la province de Québec. Au niveau de la LIR, il n’y a pas de disposition similaire puisque peu importe la province dans laquelle l’entreprise est exploitée, celle-ci est exploitée au Canada. L’on peut donc conclure que le membre retraité est réputé avoir exercé une entreprise au Canada.
+[27] J’estime ainsi, que le revenu qui en résulte ne peut inévitablement être autre chose que du revenu d’entreprise pour l’ex-associé, qu’il doit inclure dans son revenu aux termes de l’article 9 retranscrit ci-dessous, et de l’alinéa 96(1.1)b) (précité) de la LIR.
+9(1) Revenu -- Sous réserve des autres dispositions de la présente partie, le revenu qu'un contribuable tire d'une entreprise ou d'un bien pour une année d'imposition est le bénéfice qu'il en tire pour cette année.
+[28] Un revenu provenant des bénéfices de la société ne peut être considéré comme un revenu de pension au sens du paragraphe 118(7) de la LIR. De fait, s’il s’agit d’un revenu d’entreprise, ce même revenu ne peut se définir également comme une rente viagère prévue par un régime de retraite « formant un tout organisé », qui se qualifierait comme un revenu de pension, et pour lequel un fractionnement de revenu pourrait être permis en vertu de l’alinéa 60c) de la LIR. La raison est simple. Si comme l’appelant le souhaite, selon son interprétation du texte de loi, on incluait ce revenu comme du revenu de pension, il faudrait aussi inclure ce même revenu comme du revenu d’entreprise par l’application du paragraphe 96(1.1) de la LIR. Il en résulterait une double imposition du même montant, ce que l’appelant ne désire certainement pas, et qui de toute façon, est prohibé par l’alinéa 248(28)a) de la LIR, qui se lit comme suit :
+(28) Restriction applicable aux inclusions, déductions et crédits d'impôt -- Sauf intention contraire évidente, les dispositions de la présente loi n'ont pas pour effet :
+a) d'exiger l'inclusion ou de permettre la déduction, directement ou indirectement, d'une somme dans le calcul du revenu, du revenu imposable ou du revenu imposable gagné au Canada d'un contribuable pour une année d'imposition ou du revenu ou de la perte d'un contribuable pour une année d'imposition provenant d'une source déterminée ou de sources situées dans un endroit déterminé, dans la mesure où cette somme a été incluse ou déduite, directement ou indirectement, dans le calcul de ce revenu, revenu imposable ou revenu imposable gagné au Canada ou de cette perte pour l'année ou pour une année d'imposition antérieure;
+[29] Comme le paragraphe 96(1.1) de la LIR exige l’inclusion de ce revenu comme un revenu de la société, et ce, « malgré les autres dispositions de la présente loi », ce revenu ne peut plus se qualifier autrement, puisque cette disposition de la LIR a, de par sa rédaction, préséance sur toute autre disposition de la LIR.
+[30] Pour ces raisons, je suis d’avis de rejeter l’appel.
+Signé à Ottawa, Canada, ce 9e jour de décembre 2009.
+« Lucie Lamarre »
+Juge Lamarre
+RÉFÉRENCE : 2009 CCI 614
+Nº DU DOSSIER DE LA COUR : 2009-1801(IT)I
+INTITULÉ DE LA CAUSE : CLÉMENT LÉTOURNEAU ET SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Québec (Québec)
+DATE DE L’AUDIENCE : le 9 novembre 2009
+MOTIFS DU JUGEMENT PAR : L'honorable juge Lucie Lamarre
+DATE DU JUGEMENT : le 9 décembre 2009
+COMPARUTIONS :
+Représentants de l'appelant :
+Laurie Beausoleil
+J.P. Timothée
+Avocate de l'intimée :
+Me Christina Ham
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelant:
+Nom :
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Pièce A-1, onglets 1 et 2.

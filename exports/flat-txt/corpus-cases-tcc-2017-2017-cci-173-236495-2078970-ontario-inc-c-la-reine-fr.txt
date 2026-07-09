@@ -1,0 +1,300 @@
+Title: 2078970 Ontario Inc. c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/236495/index.do
+Corpus path: corpus/cases/tcc/2017/2017-cci-173-236495-2078970-ontario-inc-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2017-09-07
+
+# 2078970 Ontario Inc. c. La Reine
+
+- Citation: 2017 CCI 173
+- Decision date: 2017-09-07
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2163, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+2078970 Ontario Inc. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2017-09-07
+Référence neutre
+2017 TCC 173
+Numéro de dossier
+2012-3093(IT)G, 2012-3094(IT)G
+Juges et Officiers taxateurs
+Henry A. Visser
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossiers : 2012-3093(IT)G
+2012-3094(IT)G
+ENTRE :
+2078970 ONTARIO INC., EN SA QUALITÉ D’ASSOCIÉE DÉSIGNÉE DE LUX OPERATING LIMITED PARTNERSHIP,
+requérante,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+et
+ENTRE :
+2078702 ONTARIO INC., EN SA QUALITÉ D’ASSOCIÉE DÉSIGNÉE DE LUX INVESTORS LIMITED PARTNERSHIP,
+requérante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Requête entendue le 27 octobre 2017, à
+Vancouver (Colombie‑Britannique)
+Par : L’honorable juge Henry A. Visser
+Comparutions :
+Avocats des requérantes :
+Me David R. Davies
+Me Shawn W. Tyron
+Avocats de l’intimée :
+Me Michael Taylor
+Me Raj Grewal
+ORDONNANCE
+VU la requête présentée par les requérantes afin que soit tranchée la question suivante aux termes de l’article 58 des Règles de la Cour canadienne de l’impôt (procédure générale) :
+Si le ministre a toujours conclu qu’une société de personnes n’existait pas, peut-il délivrer un avis de détermination valide à l’égard de cette prétendue société de personnes en application du paragraphe 152(1.4) de la Loi?
+ET VU les allégations des parties;
+LA COUR ORDONNE CE QUI SUIT :
+a) la requête des requérantes est accueillie et la question à trancher à la seconde étape de l’audience tenue aux termes de l’article 58 des Règles sera la suivante :
+Si le ministre a toujours conclu qu’une société de personnes n’existait pas, peut-il délivrer un avis de détermination valide à l’égard de cette prétendue société de personnes en application du paragraphe 152(1.4) de la Loi;
+b) le juge qui présidera la seconde étape del’audience tenue aux termes de l’article 58 des Règles fixera les dépens;
+c) l’audience pour statuer sur la question se tiendra dans la salle d’audience de la Cour canadienne de l’impôt, située au 701, rue West‑Georgia, 6e étage, à Vancouver, en Colombie‑Britannique, à une date qui sera fixée en consultation avec les avocats;
+d) les éléments de preuve qui seront présentés à l’audience comprendront notamment :
+l’avis d’appel modifié relatif à chacun des deux appels;
+la réponse modifiée relative à chacun des deux appels;
+les déclarations sous serment de Carole Lacapra, faites le 18 octobre 2016, à l’appui des deux requêtes;
+sur requête, tout autre élément de preuve autorisé par le juge qui entend la question à la seconde étape de l’audience tenue aux termes de l’article 58 des Règles;
+e) le mémoire des requérantes devra être déposé et signifié 30 jours avant la date prévue de l’audience;
+f) le mémoire de l’intimée devra être déposé et signifié 15 jours avant la date prévue de l’audience;
+g) la réponse des requérantes au mémoire de l’intimée, le cas échéant, devra être déposée et signifiée sept jours avant la date prévue de l’audience.
+Signé à Ottawa, Canada, ce 7e jour de septembre 2017.
+« Henry A. Visser »
+Le juge Visser
+Traduction certifiée conforme
+ce 29e jour de mars 2019.
+Mario Lagacé, jurilinguiste
+Référence : 2017 CCI 173
+Date : 20170907
+Dossiers : 2012‑3093(IT)G
+2012‑3094(IT)G
+ENTRE :
+2078970 ONTARIO INC., EN SA QUALITÉ D’ASSOCIÉE DÉSIGNÉE DE LUX OPERATING LIMITED PARTNERSHIP,
+requérante,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+et
+ENTRE :
+2078702 ONTARIO INC., EN SA QUALITÉ D’ASSOCIÉE DÉSIGNÉE DE LUX INVESTORS LIMITED PARTNERSHIP,
+requérante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE
+Le juge Visser
+INTRODUCTION
+[1] La société requérante 2078970 Ontario Inc. (« 2078970 ») est l’associée commanditée et désignée de Lux Operating Limited Partnership (« Lux OLP ») et la société requérante 2078702 Ontario Inc. (« 2078702 ») est l’associée commanditée et désignée de Lux Investor Limited Partnership (« Lux ILP ») en ce qui concerne leur appel des avis de détermination que le ministre du Revenu national (le ministre) a délivrés à leur égard à titre de sociétés de personnes en application du paragraphe 152(1.4) de la Loi de l’impôt sur le revenu (Canada) [1] (la Loi) le 11 février 2010 et le 25 février 2010 [2] . En effectuant ces déterminations, le ministre a conclu que les deux sociétés de personnes n’étaient pas des sociétés de personnes valides en droit et a donc conclu que les pertes déclarées étaient nulles pour les exercices 2006, 2007 et 2008 en cause dans les appels sous-jacents. Bien que les requérantes soutiennent que les sociétés de personnes sont valides, elles soutiennent notamment que les avis de détermination correspondants délivrés par le ministre ne sont pas valides sur le plan procédural du fait que le ministre ne peut délivrer un avis de détermination en application du paragraphe 152(1.4) de la Loi concernant une prétendue société de personnes s’il a conclu (avant de délivrer les avis de détermination) qu’il n’existe aucune société de personnes valide.
+[2] À cet égard, chacune des requérantes a présenté une requête aux termes de l’article 58 des Règles de la Cour canadienne de l’impôt (procédure générale) (les « Règles ») afin que la Cour tranche la question ci-après (la « question à trancher ») aux termes de l’article 58 des Règles avant l’audition des appels connexes :
+« Si le ministre a toujours conclu qu’une société de personnes n’existait pas, peut-il délivrer un avis de détermination valide à l’égard de cette prétendue société de personnes en application du paragraphe 152(1.4) de la Loi? »
+[3] Une requête présentée aux termes de l’article 58 des Règles comporte deux étapes. À la première étape, la Cour doit décider si elle doit rendre une ordonnance afin que soit tranchée sur le fond, aux termes de l’article 58 des Règles, la question proposée lors d’une audience à la seconde étape. L’intimée s’oppose aux requêtes au motif que la question à trancher ne satisfait pas aux exigences du paragraphe 58(2) des Règles et, plus précisément, qu’elle ne présente aucune possibilité raisonnable de succès. Pour les motifs qui suivent, je suis d’avis qu’il y a lieu d’accueillir les requêtes des requérantes et de déférer la question pour qu’elle soit entendue sur le fond lors d’une audience à la seconde étape aux termes de l’article 58 des Règles.
+FAITS
+[4] Lux OLP and Lux ILP font partie d’une structure financière à plusieurs paliers mettant en cause des sociétés de personnes que l’intimée a décrite ainsi dans ses observations [3] :
+[TRADUCTION]
+« Au mois d’août 2005, une société en commandite, Lux Operating Limited Partnership (« Lux OLP »), a été constituée et a fait l’acquisition d’éléments d’actif d’une entreprise exploitante, y compris un portefeuille d’éléments de propriété intellectuelle, de Luxell Technologies Inc. (« Luxell »);
+une seconde société en commandite, Lux Investor Limited Partnership (« Lux ILP »), a été constituée pour devenir l’associée commanditaire de Lux OLP;
+des unités de Lux ILP ont été vendues à 58 nouveaux investisseurs en leur qualité d’associés commanditaires, ce qui a permis une levée de capitaux de 30 000 000 $, dont 4 000 000 $ ont été versés en espèces et 26 000 000 $ ont été payés au moyen de billets à ordre (les « billets des investisseurs »). Les billets des investisseurs devaient être payés en cinq versements annuels commençant au plus tôt le 31 janvier 2008 (28 mois plus tard);
+Lux ILP est devenue l’associée commanditaire de Lux OLP et a fait un apport de 30 000 000 $ en échange d’unités de Lux OLP (4 000 000 $ en espèces et 26 000 000 $ par la cession des billets des investisseurs);
+Lux OLP a ensuite acheté des éléments d’actifs de Luxell pour la somme de 29 000 000 $;
+l’achat des éléments d’actif était assorti de la possibilité accordée à Luxell d’acquérir, de Lux ILP, les unités impayées de Lux OLP – et d’acquérir ainsi de nouveau le contrôle des éléments d’actif de l’entreprise – au coût d’achat minimal de 26 000 000 $. La date limite pour l’exercice de l’option était le 31 janvier 2008;
+Lux OLP s’est engagée auprès de Luxell à exploiter l’entreprise au moyen des éléments d’actif pour le compte de Lux OLP contre des frais de gestion. Les montants dus à Luxell devaient être payés sous la forme de billets à ordre qui deviendraient exigibles seulement 36 mois après la date de leur émission (les billets de gestion);
+Lux [OLP] a payé les 29 000 000 $ en échange des éléments d’actif de Luxell en versant 3 000 000 $ en espèces et en cédant les billets des investisseurs ayant une valeur nominale de 26 000 000 $;
+Lux OLP a commencé à émettre des billets de gestion chaque année à Luxell en lien avec les frais associés à l’exploitation de l’entreprise. Le premier billet de gestion ne devenait pas exigible avant le 31 décembre 2008 (40 mois après l’achat des éléments d’actif);
+au mois de novembre 2007 (26 mois après l’achat des éléments d’actif), Luxell a exercé son option de racheter, de Lux ILP, les unités de Lux OLP pour la somme de 26 000 000 $;
+Luxell a payé le coût d’option de 26 000 000 $ en cédant les billets des investisseurs à Lux ILP;
+le 7 janvier 2008, Luxell a liquidé Lux OLP et annulé les billets de gestion dont elle était créancière envers elle-même, 11 mois avant que le premier billet ne devienne exigible;
+les investisseurs qui sont devenus des associés commanditaires de Lux ILP n’ont jamais été tenus de payer le principal des billets des investisseurs;
+les montants que Lux OLP a déduits dans le calcul du revenu provenant de son entreprise comprenaient un montant au titre de la déduction pour amortissement déclaré en ce qui concerne les éléments d’actif de propriété intellectuelle achetés auprès de Luxell et des dépenses d’exploitation engagées par Luxell aux termes du marché de services; et
+pour la période du 1er septembre 2005 au 7 janvier 2008, Lux OLP a déclaré des pertes totales de 35 149 485 $, qui sont passées de Lux OLP à Lux ILP avant d’être attribuées aux associés commanditaires de Lux ILP, qui les ont déduites en calculant leur revenu ».
+DROIT ET DISCUSSION
+[5] L’article 58 des Règles est ainsi libellé :
+58. (1) Sur requête d’une partie, la Cour peut rendre une ordonnance afin que soit tranchée avant l’audience une question de fait, une question de droit ou une question de droit et de fait soulevée dans un acte de procédure, ou une question sur l’admissibilité de tout élément de preuve.
+(2) Lorsqu’une telle requête est présentée, la Cour peut rendre une ordonnance s’il appert que de trancher la question avant l’audience pourrait régler l’instance en totalité ou en partie, abréger substantiellement celle-ci ou résulter en une économie substantielle de frais.
+(3) L’ordonnance rendue en application du paragraphe (1) contient les renseignements suivants :
+a) la question à trancher avant l’audience;
+b) des directives relatives à la manière de trancher la question, y compris des directives sur la preuve à consigner, soit oralement ou par tout autre moyen, et sur la méthode de signification ou de dépôt des documents;
+c) le délai pour la signification et le dépôt d’un mémoire comprenant un exposé concis des faits et du droit;
+d) la date, l’heure et le lieu pour l’audience se rapportant à la question à trancher;
+e) toute autre directive que la Cour estime appropriée.
+[6] Aux paragraphes 10 à 25 de la décision Paletta c. La Reine, 2016 CCI 171, le juge Owen a donné l’aperçu ci-après de l’article 58 des Règles dans sa version actuelle après les modifications qu’il a subies et qui sont entrées en vigueur en 2014 [4] :
+[10] On a examiné l’article 58 dans un certain nombre de décisions. Par contre, seulement quelques décisions ont examiné la dernière version de l’article, qui est entrée en vigueur le 7 février 2014 (DORS/2014‑26, article 6). Le Résumé de l’étude d’impact de la réglementation décrit les modifications de 2014 à l’article 58 des Règles comme suit :
+Des modifications sont apportées aux articles 53 et 58 afin de regrouper à l’article 53 les situations où la Cour peut radier un acte de procédure ou un autre document ou en supprimer des passages et, à l’article 58, les situations où la Cour peut se prononcer sur une question de droit, une question de fait ou une question de droit et de fait. En raison de ces modifications, les articles 59, 60, 61 et 62 sont abrogés.
+[11] Par conséquent, l’article 58 actuel regroupe les articles 58, 59, 60, 61 et 62 des Règles dans un seul article qui, à certains égards, ressemble à l’ancien article 58, mais qui, à d’autres égards, en est assez différent. La version antérieure énonçait :
+58(1) Une partie peut demander à la Cour,
+a) soit de se prononcer, avant l’audience, sur une question de droit, une question de fait ou une question de droit et de fait soulevée dans une instance si la décision pourrait régler l’instance en totalité ou en partie, abréger substantiellement l’audience ou résulter en une économie substantielle des frais;
+b) soit de radier un acte de procédure au motif qu’il ne révèle aucun moyen raisonnable d’appel ou de contestation de l’appel,
+et la Cour peut rendre jugement en conséquence.
+(2) Aucune preuve n’est admissible à l’égard d’une demande,
+a) présentée en vertu de l’alinéa (1)a), sauf avec l’autorisation de la Cour ou le consentement des parties;
+b) présentée en vertu de l’alinéa (1)b).
+(3) L’intimée peut demander à la Cour le rejet d’un appel au motif que,
+a) la Cour n’a pas compétence sur l’objet de l’appel;
+b) une condition préalable pour interjeter appel n’a pas été satisfaite;
+c) l’appelant n’a pas la capacité légale d’intenter ou de continuer l’instance,
+et la Cour peut rendre jugement en conséquence. [6]
+[12] À mon avis, les modifications apportées au texte et à l’économie de l’article 58, lorsqu’on le compare à la version précédente, justifient un nouvel examen de l’article sous sa forme actuelle.
+[13] L’article 58 continue de décrire une procédure en deux étapes. Le paragraphe 58(1) énonce que la Cour peut, sur requête d’une partie, rendre une ordonnance afin que soit tranchée avant l’audience :
+1. une question de fait, une question de droit ou une question de droit et de fait soulevée dans un acte de procédure;
+2. une question sur l’admissibilité de tout élément de preuve.
+[14] En vertu du paragraphe 58(2), la Cour peut rendre l’ordonnance s’il appert que de trancher la question avant l’audience pourrait :
+1. régler l’instance en totalité ou en partie;
+2. abréger substantiellement celle‑ci;
+3. résulter en une économie substantielle de frais.
+[15] À la première étape, la Cour détermine si elle devrait rendre une ordonnance, en tenant compte des exigences aux paragraphes 58(1) et 58(2), qui sont examinés en appliquant les règles habituelles d’interprétation des lois, tout en gardant à l’esprit, cependant, le paragraphe 4(1) des Règles, qui dispose : « Les présentes règles doivent recevoir une interprétation large afin d’assurer la résolution équitable sur le fond de chaque instance de la façon la plus expéditive et la moins onéreuse. »
+[16] En ce qui concerne les exigences aux paragraphes 58(1) et 58(2), le paragraphe 58(1) dispose qu’il doit y avoir soit une question de fait, une question de droit ou une question de droit et de fait soulevée dans un acte de procédure, soit une question sur l’admissibilité de tout élément de preuve.
+[17] Dans l’arrêt Canada (Directeur des enquêtes et recherches) c. Southam Inc., [1997] 1 R.C.S. 748, la Cour suprême du Canada a décrit ce qui constitue une question de droit, une question de fait et une question de droit et de fait (au paragraphe 35) :
+[...] En résumé, les questions de droit concernent la détermination du critère juridique applicable; les questions de fait portent sur ce qui s’est réellement passé entre les parties; et, enfin, les questions de droit et de fait consistent à déterminer si les faits satisfont au critère juridique. Un exemple simple permettra d’illustrer ces concepts. En droit de la responsabilité civile délictuelle, la question de savoir en quoi consiste la « négligence » est une question de droit. Celle de savoir si le défendeur a fait ceci ou cela est une question de fait. Une fois qu’il a été décidé que la norme applicable est la négligence, la question de savoir si le défendeur a respecté la norme de diligence appropriée est une question de droit et de fait. [...]
+[18] La question de droit, de fait, ou de droit et de fait doit être soulevée dans un acte de procédure. L’article 58 ne prévoit pas de moyen pour examiner des questions qui ne sont pas soulevées dans un acte de procédure [7].
+[19] La seconde condition préalable possible en vertu du paragraphe 58(1) a été ajoutée lors des modifications apportées en 2014 à l’article 58. Elle étend l’application de l’article 58 aux questions sur l’admissibilité d’un élément de preuve. L’ajout de cette condition préalable confirme la portée large de l’article 58 actuel, puisqu’il peut maintenant porter sur pratiquement toute question qui pourrait survenir lors de l’audience de l’appel.
+[20] Selon le paragraphe 58(2), il suffit s’« il appert » que l’audience tenue en vertu de l’article 58 « pourrait » mener à l’un des résultats précisés. Le verbe « pouvoir » est utilisé dans deux sens au paragraphe 58(2). Le premier sens est permissif, et il s’agit également du sens qu’il a au paragraphe 58(1). La répétition du sens permissif montre clairement que la décision de rendre une ordonnance est entièrement discrétionnaire. Plus précisément, le fait qu’une question puisse satisfaire aux exigences des paragraphes 58(1) et 58(2) n’oblige pas la Cour à rendre une ordonnance en vertu de l’article 58.
+[21] Le fait que l’article soit discrétionnaire est complètement compatible avec le fait que la Cour canadienne de l’impôt a le pouvoir implicite de contrôler sa procédure. Dans l’arrêt R. c. Cunningham, 2010 CSC 10, [2010] 1 R.C.S. 331, la Cour suprême du Canada a déclaré :
+De même, dans le cas d’un tribunal d’origine législative, le pouvoir de faire respecter sa procédure et le droit de regard sur la manière dont les avocats exercent leurs fonctions s’infèrent nécessairement du pouvoir de constituer une cour de justice. Notre Cour a confirmé que les pouvoirs d’un tribunal d’origine législative peuvent être déterminés grâce à une « doctrine de la compétence par déduction nécessaire » :
+[...] sont compris dans les pouvoirs conférés par la loi habilitante non seulement ceux qui y sont expressément énoncés, mais aussi, par déduction, tous ceux qui sont de fait nécessaires à la réalisation de l’objectif du régime législatif [...]
+(ATCO Gas and Pipelines Ltd. c. Alberta (Energy and Utilities Board), 2006 CSC 4, [2006] 1 R.C.S. 140, par. 51)
+Même si, dans cet arrêt, le juge Bastarache renvoie à un tribunal administratif, la même règle de la compétence par déduction nécessaire vaut pour un tribunal d’origine législative. [8]
+[22] Outre qu’elle reflète le pouvoir implicite de la Cour de contrôler ses propres procédures, la répétition de l’aspect permissif de l’article 58 confirme qu’il peut très bien y avoir d’autres considérations en jeu lorsque la Cour décide de rendre ou non une ordonnance. L’utilisation répétée d’un libellé permissif aux paragraphes 58(1) et 58(2) confirme que la Cour n’est pas tenue d’examiner uniquement les exigences établies à ces paragraphes. [9]
+[23] Le second sens du verbe « pouvoir » au paragraphe 58(2) exprime une possibilité. Plus précisément, s’« il appert » au juge qui entend la requête que le fait de trancher la question « pourrait » (c.‑à‑d. pourrait possiblement) mener à l’un des trois résultats précisés au paragraphe 58(2), alors le juge peut (et non doit) rendre une ordonnance.
+[24] Les décisions rendues en vertu de la version antérieure de l’article 58 sont bien résumées par le juge en chef dans le jugement Suncor, précité. Comme l’a fait observer le juge en chef, dans certaines décisions rendues en vertu de la version antérieure de l’article 58, la Cour a jugé qu’une question ne satisfait pas à l’exigence qui est maintenant au paragraphe 58(2) si seulement l’une des deux réponses possibles menait aux résultats escomptés.
+[25] À mon sens, ces décisions n’énoncent pas de règle stricte qu’il faut appliquer à la version actuelle de l’article 58. Par ailleurs, le libellé discrétionnaire général dans la version actuelle du paragraphe 58(2) appuie la thèse selon laquelle une question n’échoue pas nécessairement au critère de ce paragraphe si l’une des réponses possibles ne menait pas aux résultats escomptés. La Cour devrait plutôt tenir compte de la possibilité d’une telle réponse lorsqu’elle examine si elle devrait exercer son pouvoir discrétionnaire en vertu de l’article 58. À mon avis, une telle approche est conforme au libellé discrétionnaire du paragraphe 58(2), au mandat prévu au paragraphe 4(1) des Règles et aux principes généraux énoncés par la Cour suprême du Canada dans Hryniak . [5]
+[7] Je suis d’accord avec l’aperçu que le juge Owen a donné de l’article 58 des Règles dans sa version actuelle. Bien que les jugements antérieurs portant sur les versions précédentes de l’article 58 des Règles puissent encore être utiles, ils devaient être examinés avec prudence et écartés si les modifications apportées à l’article 58 l’exigent.
+[8] Aux paragraphes 13 à 16 de la décision Suncor Énergie inc. c. La Reine, 2015 CCI 210, le juge en chef Rossiter a résumé ainsi les exigences techniques qu’il faut remplir à la première étape d’une requête présentée aux termes de l’article 58 des Règles :
+13 Dans la décision McIntyre c. La Reine, 2014 CCI 111 (C.C.I. [Procédure générale]), la juge Campbell a établi, au paragraphe 23, qu’il faut satisfaire à trois exigences techniques pour franchir la première étape d’une requête présentée aux termes de l’article 58 des Règles :
+(1) il existe des questions de droit, des questions de fait ou des questions de droit et de fait;
+(2) les questions sont soulevées dans les actes de procédure;
+(3) la décision sur les questions pourrait régler l’instance en totalité ou en partie, abréger substantiellement l’audience ou résulter en une économie substantielle des frais.
+14 Dans la décision Sentinel Hill Productions IV Corp. c. La Reine, 2013 CCI 267 (C.C.I. [Procédure générale]), la juge Woods a établi, au paragraphe 3, que la première étape « vise principalement » à rechercher si la deuxième et la troisième exigences énoncées ci‑dessus sont respectées. Cela donne à penser que la juge Woods ne croyait pas que la première exigence, selon laquelle il doit s’agir d’une question de droit, d’une question de fait ou d’une question de droit et de fait, était importante, peut‑être parce que chaque question doit être soit une question de droit, soit une question de fait, soit une question de droit et de fait. Il s’agit de tous les types de questions possibles.
+15 D’après les décisions McIntyre et Sentinel Hill, il existe essentiellement seulement deux exigences :
+(1) les questions sont soulevées dans les actes de procédure;
+(2) le fait de trancher les questions pourrait régler l’instance en totalité ou en partie, abréger substantiellement celle-ci ou résulter en une économie substantielle des frais.
+16 En outre, il convient de souligner que la juge Campbell, au paragraphe 25 de la décision McIntyre, précitée, a conclu qu’au‑delà de ces exigences techniques, « la Cour a le pouvoir discrétionnaire de tenir compte d’autres facteurs, ainsi que de toutes les circonstances de l’affaire.
+[9] En l’espèce, les parties sont d’accord pour dire que les deux premières exigences auxquelles est assujettie une requête présentée aux termes de l’article 58 des Règles sont remplies. Plus précisément, elles conviennent que la question à trancher est une question de droit ou une question mixte de droit et de fait et que la question à trancher a été soulevée dans les actes de procédure des parties. Je suis d’accord. En l’espèce, la question à trancher vise la question de droit très étroite de la validité de la délivrance d’avis de détermination dans le contexte d’une situation factuelle très précise qui ne semble pas être contestée [6] . De plus, la question à trancher a manifestement été soulevée dans les actes de procédure des parties [7] .
+[10] Les parties ne s’entendent pas sur l’application de la troisième exigence à laquelle est assujettie une requête présentée aux termes de l’article 58 des Règles, selon laquelle « que de trancher la question avant l’audience pourrait régler l’instance en totalité ou en partie, abréger substantiellement celle-ci ou résulter en une économie substantielle de frais ». Les requérantes soutiennent que la question à trancher soulève une question préliminaire et que, en cas de réponse négative à la question à trancher, il y aura lieu d’accueillir les appels des requérantes du fait que les avis de détermination sous-jacents ne seront pas valides. Les requérantes soutiennent également qu’une audience sur le fond de ces deux appels prendrait probablement dix à douze jours; toutefois, étant donné l’absence de différends factuels en ce qui concerne la question à trancher, les débats sur cette question préliminaire ne prendraient probablement qu’une demi-journée. Par conséquent, les requérantes soutiennent qu’une réponse négative à la question à trancher réglerait l’appel en totalité et éliminerait donc la nécessité d’un procès possiblement long, ce qui abrégerait substantiellement l’audience et résulterait en une économie substantielle de frais.
+[11] Étant donné que la question à trancher soulève une question préliminaire qu’il faut aborder au procès en cas de rejet de la présente requête présentée aux termes de l’article 58 des Règles, les requérantes soutiennent par ailleurs qu’une réponse affirmative fournie à la question à trancher éliminera la nécessité d’aborder cette question préliminaire au procès parce qu’elle serait chose jugée, ce qui abrégerait le procès et réduirait les frais associés à celui-ci d’une durée et d’un montant correspondant à l’audience tenue aux termes de l’article 58 des Règles.
+[12] Les requérantes ont fait remarquer que la Cour a été divisée par le passé sur la question de savoir si la troisième exigence à laquelle est assujettie la présentation d’une requête aux termes de l’article 58 des Règles a été remplie dans le cas où une question à trancher ne fera que régler l’instance en partie ou abréger l’audience si elle est tranchée en faveur du requérant, et soutiennent que les décisions Rio Tinto Alcan Inc. c. La Reine [8] et Paletta [9] étayent l’argument des requérantes selon lequel la troisième exigence à laquelle est assujettie la présentation d’une requête aux termes de l’article 58 des Règles dans sa version actuelle a été remplie dans les circonstances de l’espèce.
+[13] Bien que l’intimée semble être d’accord pour dire que la question à trancher se rapporte à une question préliminaire qu’il faut aborder avant la tenue du procès sur le fond [10] , l’intimée soutient que la troisième exigence à laquelle est assujettie une requête présentée aux termes de l’article 58 des Règles ne sera pas remplie pour deux raisons. Dans un premier temps, l’intimée soutient que la question à trancher ne fera que régler l’instance en partie ou abréger l’audience si la question est tranchée en faveur des requérantes et que, en renvoyant aux décisions Kwok c. La Reine [11] et McIntyre c. La Reine [12] , la Cour a déjà conclu que la troisième exigence à laquelle est assujettie une requête présentée aux termes de l’article 58 des Règles n’est pas remplie dans le cas où la question ne fera que régler l’instance en totalité ou en partie ou abréger substantiellement une audience si la question est tranchée en faveur du requérant.
+[14] Je suis d’accord avec les requérantes. En l’espèce, le fait de trancher la question en faveur des requérantes peut rendre nuls les avis de détermination délivrés par le ministre et peut ainsi régler l’instance en totalité ou en partie, ou abréger substantiellement l’audience ou résulter en une économie substantielle de frais. De plus, si la question à trancher l’est en faveur de l’intimée, la question préliminaire de la validité des avis de détermination aura été abordée et sera donc chose jugée; ce volet préliminaire de l’instance sera donc réglé. Par conséquent, l’audience des appels devrait également être abrégée d’une durée correspondant à peu près au temps qui serait consacré à débattre de la question à trancher à l’audience tenue à la seconde étape aux termes de l’article 58 des Règles. Même si la question à trancher répondait donc à mon avis aux trois exigences, qu’elle soit tranchée dans un sens ou dans l’autre, je partage également l’avis exprimé par le juge Owen dans la décision Paletta, au paragraphe 25, et j’estime que la version actuelle de l’article 58 des Règles ne devrait pas être interprétée de manière restrictive et n’énonce pas de règle stricte qu’il faut appliquer dans chaque cas.
+[15] Dans un second temps, l’intimée soutient que la question à trancher n’a aucune possibilité raisonnable de succès et qu’elle ne peut donc pas abréger substantiellement l’audience, comme raison invoquée pour étayer son argument selon lequel la troisième exigence à laquelle est assujettie la présentation d’une requête aux termes de l’article 58 des Règles ne sera pas remplie. L’intimée renvoie à la décision Sentinel Hill [13] pour étayer cet argument en général et plus précisément en ce qui concerne la question à trancher. L’intimée soutient également que la question à trancher en appel vise l’exactitude du montant déterminé par le ministre au titre des pertes de sociétés de personnes contestées, et non le raisonnement ou les motifs du ministre, puisqu’il est loisible au ministre d’avancer un nouveau fondement à l’appui de l’établissement d’une cotisation en opposition à un appel [14] . L’intimée soutient également que le paragraphe 152(1.4) de la Loi dispose clairement que le ministre peut délivrer une détermination à l’égard d’une société de personnes en cas de production d’une déclaration de société de personnes [15] , et que la question à trancher laisse supposer que la délivrance d’une détermination à l’égard d’une société de personnes est assujettie à une condition préliminaire que la Loi n’appuie pas.
+[16] L’intimée soutient également que la question à trancher mène à une interprétation absurde des dispositions de la Loi portant sur les déterminations effectuées à l’égard des sociétés de personnes. Plus précisément, bien que les requérantes soutiennent que les deux sociétés de personnes sont des sociétés de personnes en bonne et due forme, elles cherchent à rendre nuls les avis de détermination du ministre en invoquant une raison procédurale fondée sur l’argument du ministre selon lequel les sociétés de personnes n’étaient pas des sociétés de personnes valides. L’intimée soutient qu’il serait absurde que les dispositions portant sur les déterminations effectuées à l’égard de sociétés de personnes ne s’appliquent pas à une société de personnes en raison de la croyance erronée du ministre que la société de personnes en cause n’était pas une société de personnes valide, et que l’argument des requérantes nuit à l’objectif des dispositions visant à effectuer des déterminations à l’égard des sociétés de personnes.
+[17] Bien que l’intimée reconnaisse qu’une cotisation peut être invalidée tant parce qu’elle est nulle sur le plan procédural que parce qu’elle est incorrecte, elle soutient que le paragraphe 152(1.2) de la Loi intègre toutes les dispositions d’ordre procédural des sections I (Déclarations, cotisations, paiement et appels) et J (Appels auprès de la Cour canadienne de l’impôt et de la Cour d’appel fédérale) dans leur application à l’établissement d’une cotisation ou d’une nouvelle cotisation concernant un montant d’impôt et qu’elles s’appliquent donc aux règles de détermination visant les sociétés de personnes. L’intimée fait également remarquer qu’il est loisible au ministre d’établir une cotisation à l’égard de contribuables, telles les fiducies, lorsque le ministre estime que les contribuables n’ont pas d’existence légale [16] . Ainsi, l’intimée soutient que les avis de détermination délivrés par le ministre qui sont visés par les deux appels en cause ne sont entachés d’aucune irrégularité procédurale.
+[18] Étant donné que la validité des deux sociétés de personnes est une question capitale dans le cadre des appels des requérantes, et que ces appels soulèvent des questions factuelles complexes, l’intimée soutient que le recours à l’article 58 des Règles ne peut remplacer la tenue d’une audience complète des appels.
+[19] Les requérantes soutiennent que l’on peut faire une distinction entre l’affaire Sentinel Hill et l’affaire en l’espèce, étant donné que la question à trancher ne soulève aucune question sans intérêt ou d’importance secondaire et que le ministre n’a jamais conclu dans le cadre des présents appels qu’il existait une société de personnes valide, contrairement à ce qu’il en était dans l’affaire Sentinel Hill, dans laquelle le ministre avait changé de fondements à l’égard de la cotisation en appel.
+[20] Les requérantes soutiennent également qu’il existe un certain nombre de distinctions importantes entre les règles de détermination visant les sociétés de personnes et les règles de cotisation applicables aux contribuables de façon générale. En vertu du paragraphe 152(1) de la Loi, le ministre doit établir le montant d’impôt payable par un contribuable après la production d’une déclaration par le contribuable. Bien que les sociétés de personnes ne soient généralement pas assujetties à l’impôt sous le régime de la Loi, elles sont tenues de produire une déclaration annuelle de société de personnes et les associés des sociétés de personnes sont tenus en tant que contribuables d’inclure le revenu ou la perte provenant de la société de personnes dans le calcul annuel de leur revenu. Les requérantes soutiennent également que, aux termes du paragraphe 152(1.4), le ministre peut déterminer le revenu ou la perte d’une société de personnes après la production d’une déclaration de société de personnes, mais n’est pas tenu de faire. Le ministre peut plutôt décider d’établir une cotisation directement à l’égard des associés comme contribuables. Les requérantes soutiennent donc que deux voies procédurales s’offrent au ministre lorsqu’il décide de l’exactitude d’un montant de revenu ou de perte déclaré par l’associé d’une société de personnes et, bien que les dispositions visant les déterminations relatives aux sociétés de personnes prévoient un raccourci procédural, leur application par le ministre n’est pas obligatoire, mais bien discrétionnaire. Les requérantes soutiennent également que le ministre doit d’abord confirmer l’existence d’une société de personnes valide et que le ministre ayant conclu en l’espèce qu’il n’y en avait pas, il aurait dû établir une cotisation à l’égard des associés des sociétés de personnes en tant que contribuables plutôt que de recourir au processus de détermination visant les sociétés de personnes.
+[21] Je suis d’accord pour dire qu’il existe d’importantes distinctions entre l’affaire Sentinel Hill et les faits de l’espèce. Dans l’affaire Sentinel Hill, le ministre n’a pas conclu d’emblée que la société de personnes n’était pas valide, mais l’a plutôt soulevé de façon subsidiaire en appel. En l’espèce, le ministre a conclu d’emblée qu’il n’existait aucune société de personnes valide. Dans la décision Sentinel Hill, la juge Woods a conclu que la question proposée n’avait pas été soulevée par la requérante dans les actes de procédure, alors qu’il ne fait pas de doute que la question à trancher a été soulevée dans les actes de procédure en l’espèce.
+[22] Il existe également une importante distinction entre la question proposée dans la décision Sentinel Hill et la question à trancher en l’espèce. La juge Woods avait formulé la question proposée dans la décision Sentinel Hill, au paragraphe 7, de la manière suivante :
+L’extrait ci‑dessus précise que la question proposée consiste essentiellement à rechercher si le ministre du Revenu national (le « ministre ») ne peut plus maintenant établir de nouvelles cotisations à l’égard des associés pour cause de prescription aux termes du paragraphe 152(1.8) de la Loi de l’impôt sur le revenu (la « Loi »).
+[23] En l’espèce, il est évident que la question à trancher vise uniquement la conformité à la procédure en application du paragraphe 152(1.4) de la Loi, et uniquement la validité des avis de détermination délivrés aux sociétés de personnes, et, fait important, ne vise pas les cotisations établies à l’égard des associées.
+[24] Au paragraphe 12 de l’arrêt Sentinel Hill de la Cour d’appel fédérale, la juge Dawson a fait les observations suivantes :
+Enfin, j’estime à l’instar de l’avocat des appelantes que, vu les circonstances, il ne serait pas approprié de la part de la Cour de répondre à la question proposée, et la Cour ne le fera pas. Cela dit, il convient de noter que l’argument avancé par les appelantes est difficile à défendre compte tenu de l’économie de la Loi. En effet, le paragraphe 152(1.4) autorise le ministre à envoyer un avis de détermination lorsqu’est produite la déclaration de renseignements d’une société de personnes. Le fait de déposer une telle déclaration équivaut en fait à déclarer que l’entité en question est bien, en fait et en droit, une société de personnes.
+[25] Bien que les observations de la juge Dawson sur la validité procédurale d’un avis de détermination semblent s’appliquer à la question à trancher, je constate qu’elles ont été faites de manière incidente. À la lumière des distinctions importantes qui existent entre l’affaire Sentinel Hill et les présentes requêtes, je suis d’avis que la question à trancher n’a pas déjà été pleinement examinée par la Cour ou par la Cour d’appel fédérale. Ainsi, je suis d’avis que le jugement rendu dans Sentinel Hill ne mène pas inévitablement à la conclusion selon laquelle la question à trancher n’a aucune possibilité raisonnable de succès.
+[26] Ayant conclu que les trois exigences pour la tenue d’une audience à la première étape d’une requête présentée aux termes de l’article 58 des Règles ont généralement été remplies en l’espèce, j’estime qu’il convient de déférer la présente affaire à la seconde étape pour la tenue d’une audience, sauf si la question à trancher n’a aucune possibilité raisonnable de succès. Il est important de mentionner que le rôle de la Cour, lorsqu’elle décide, lors d’une audience tenue à la première étape, si la question à trancher n’a aucune possibilité raisonnable de succès, n’est pas de répondre à la question ni de l’examiner pleinement.
+[27] Les paragraphes 152(1.4) à (1.9) de la Loi sont reproduits à l’annexe des présents motifs de l’ordonnance. À mon avis, les dispositions visant les déterminations relatives aux sociétés de personnes, interprétées conjointement avec la Loi dans son ensemble, établissent clairement que le ministre dispose de deux avenues possibles pour déterminer le revenu des associés. Plus précisément, le ministre peut établir une cotisation à l’égard des associés directement ou recourir aux dispositions visant les déterminations relatives aux associés lorsqu’elles sont applicables. Il convient également de mentionner certaines distinctions qui existent entre les paragraphes 152(1.4) et 152(1.8). Le paragraphe 152(1.4) fait état d’une détermination effectuée par le ministre à l’égard d’une « société de personnes », mais est muet sur une telle détermination par le ministre lorsqu’il a conclu d’emblée qu’il n’existe aucune société de personnes valide. Le paragraphe 152(1.8) s’applique de façon à permettre au ministre d’établir une cotisation à l’égard de l’associé d’une société de personnes à la suite d’observations faites au ministre selon lesquelles la personne était un associé de la société de personnes et le ministre a délivré un avis de détermination, mais que le ministre (ou un tribunal) « conclut, à un moment ultérieur, que la société de personnes n’a pas existé ». Bien que je sois d’avis qu’il y a une certaine ambiguïté quant à la façon dont le paragraphe 152(1.8) s’appliquerait dans une situation donnée [17] , on peut soutenir qu’il envisage le cas où le ministre délivre au départ un avis de détermination en application du paragraphe 152(1.4) au motif qu’une société de personnes existait réellement et conclut, à un moment ultérieur, qu’elle n’a pas existé. Il démontre également que les « conclusions » du ministre sur l’existence ou la validité d’une société de personnes sont pertinentes quant à certaines dispositions au moins visant les déterminations relatives aux sociétés de personnes.
+[28] Dans l’ensemble, compte tenu du régime des dispositions législatives visant les déterminations relatives aux sociétés de personnes, je suis d’avis qu’on ne peut conclure que la question à trancher n’a aucune possibilité raisonnable de succès.
+CONCLUSION
+[29] Pour l’ensemble des motifs qui précèdent, les requêtes de requérantes sont accueillies avec dépens payables au montant adjugé par le juge qui présidera l’audience qui sera tenue à la seconde étape de l’audience portant sur la question à trancher aux termes de l’article 58 des Règles. La question à trancher à la seconde étape de l’audience tenue aux termes de l’article 58 sera la suivante :
+Si le ministre a toujours conclu qu’une société de personnes n’existait pas, peut-il délivrer un avis de détermination valide à l’égard de cette prétendue société de personnes en application du paragraphe 152(1.4) de la Loi?
+[30] La Cour tiendra compte des documents suivants à l’audience portant sur la question à trancher :
+a) l’avis d’appel modifié relatif à chacun des deux appels;
+b) la réponse modifiée relative à chacun des deux appels;
+c) les déclarations sous serment de Carole Lacapra, faites le 18 octobre 2016, à l’appui des deux requêtes;
+d) sur requête, tout autre élément de preuve autorisé par le juge qui entendra la question à la seconde étape de l’audience tenue aux termes de l’article 58 des Règles.
+[31] Le mémoire des requérantes devra être déposé et signifié 30 jours avant la date prévue de l’audience. Le mémoire de l’intimée devra être déposé et signifié 15 jours avant la date prévue de l’audience. La réponse des requérantes au mémoire de l’intimée, le cas échéant, devra être déposée et signifiée sept jours avant la date prévue de l’audience.
+Signé à Ottawa, Canada, ce 7e jour de septembre 2017.
+« Henry A. Visser »
+Le juge Visser
+Traduction certifiée conforme
+ce 29e jour de mars 2019.
+Mario Lagacé, jurilinguiste
+ANNEXE
+LES PARAGRAPHES 152(1.4) À (1.9) DE LA LOI
+152(1.4) Montant déterminé relativement à une société de personnes — Le ministre peut déterminer le revenu ou la perte d’une société de personnes pour un exercice de celle-ci ainsi que toute déduction ou tout autre montant, ou toute autre question, se rapportant à elle pour l’exercice qui est à prendre en compte dans le calcul, pour une année d’imposition, du revenu, du revenu imposable ou du revenu imposable gagné au Canada d’un de ses associés, de l’impôt ou d’un autre montant payable par celui‑ci, d’un montant qui lui est remboursable ou d’un montant réputé avoir été payé, ou payé en trop, par lui, en vertu de la présente partie. Cette détermination se fait dans les trois ans suivant le dernier en date des jours suivants :
+a) le jour où, au plus tard, un associé de la société de personnes est tenu par l’article 229 du Règlement de l’impôt sur le revenu de remplir une déclaration de renseignements pour l’exercice, ou serait ainsi tenu si ce n’était le paragraphe 220(2.1);
+b) le jour où la déclaration est produite.
+(1.5) Avis de détermination — Le ministre envoie un avis de la détermination effectuée en application du paragraphe (1.4) à la société de personnes concernée et à chaque personne qui en était un associé au cours de l’exercice.
+(1.6) Absence d’avis — La détermination effectuée en application du paragraphe (1.4) pour un exercice n’est pas invalidée du seul fait qu’une ou plusieurs personnes qui étaient des associés de la société de personnes concernée au cours de l’exercice n’ont pas reçu d’avis de détermination.
+(1.7) Ministre et associés liés — Les règles suivantes s’appliquent lorsque le ministre détermine un montant en application du paragraphe (1.4) ou détermine un montant de nouveau relativement à une société de personnes :
+a) sous réserve des droits d’opposition et d’appel de l’associé de la société de personnes visé au paragraphe 165(1.15) relativement au montant déterminé ou déterminé de nouveau, la détermination ou nouvelle détermination lie le ministre ainsi que les associés de la société de personnes pour ce qui est du calcul, pour une année d’imposition, du revenu, du revenu imposable ou du revenu imposable gagné au Canada des associés, de l’impôt ou d’un autre montant payable par ceux-ci, d’un montant qui leur est remboursable ou d’un montant réputé avoir été payé, ou payé en trop, par eux, en vertu de la présente partie;
+b) malgré les paragraphes (4), (4.01), (4.1) et (5), le ministre peut, avant la fin du jour qui tombe un an après l’extinction ou la détermination des droits d’opposition et d’appel relativement au montant déterminé ou déterminé de nouveau, établir les cotisations voulues concernant l’impôt, les intérêts, les pénalités ou d’autres montants payables et déterminer les montants réputés avoir été payés, ou payés en trop, en vertu de la présente partie relativement à un associé de la société de personnes et à tout autre contribuable pour une année d’imposition pour tenir compte du montant déterminé ou déterminé de nouveau ou d’une décision de la Cour canadienne de l’impôt, de la Cour d’appel fédérale ou de la Cour suprême du Canada.
+(1.8) Restriction — Lorsqu’un montant est déterminé en application du paragraphe (1.4) pour un exercice par suite d’observations faites au ministre selon lesquelles une personne était un associé d’une société de personnes pour l’exercice et que le ministre, la Cour canadienne de l’impôt, la Cour d’appel fédérale ou la Cour suprême du Canada conclut, à un moment ultérieur, que la société de personnes n’a pas existé pour l’exercice ou que la personne n’en a pas été un associé tout au long de l’exercice, le ministre peut, dans l’année suivant le moment ultérieur et malgré les paragraphes (4), (4.1) et (5), établir pour une année d’imposition une cotisation concernant l’impôt, les intérêts, les pénalités ou d’autres montants payables par une contribuable, ou déterminer pour une année d’imposition un montant qui est réputé avoir été payé ou payé en trop par lui, en vertu de la présente partie seulement dans la mesure où il est raisonnable de considérer que la cotisation ou la détermination, selon le cas :
+a) se rapporte à une question qui a été prise en compte lors de la détermination du montant en application du paragraphe (1.4);
+b) découle de la conclusion selon laquelle la société de personnes n’existait pas au cours de l’exercice;
+c) découle de la conclusion selon laquelle la personne n’a pas été un associé de la société de personnes tout au long de l’exercice.
+(1.9) Renonciation visant la période de détermination — Un associé donné d’une société de personnes peut présenter une renonciation visant la période pendant laquelle le ministre peut faire la détermination prévue au paragraphe (1.4) relativement à la société de personnes pour un exercice. Pour ce faire, il doit :
+a) soit être désigné à cette fin dans la déclaration de renseignements remplie en application de l’article 229 du Règlement de l’impôt sur le revenu pour l’exercice;
+b) soit y être expressément autorisé par la société de personnes.
+RÉFÉRENCE :
+2017 CCI 173
+Nos DES DOSSIERS DE LA COUR :
+2012-3093(IT)G
+2012-3094(IT)G
+INTITULÉ :
+2078972 ONTARIO INC., EN SA QUALITÉ D’ASSOCIÉE DÉSIGNÉE DE LUX OPERATING LIMITED PARTNERSHIP,
+et
+SA MAJESTÉ LA REINE,
+et
+ENTRE :
+2078970 ONTARIO INC., EN SA QUALITÉ D’ASSOCIÉE DÉSIGNÉE DE LUX INVESTORS LIMITED PARTNERSHIP,
+et
+SA MAJESTÉ LA REINE,
+LIEU DE L’AUDIENCE :
+Vancouver (Colombie‑Britannique)
+DATE DE L’AUDIENCE :
+Le 27 octobre 2017
+MOTIFS DU JUGEMENT :
+L’honorable juge Henry A. Visser
+DATE DU JUGEMENT :
+Le 7 septembre 2017
+COMPARUTIONS :
+Avocats de la requérante :
+Me David R. Davies
+Me Shawn W. Tyron
+Avocats de l’intimée :
+Me Michael Taylor
+Me Raj Grewal
+AVOCATS INSCRITS AU DOSSIER :
+Pour la requérante :
+Nom :
+[EN BLANC]
+Cabinet :
+[EN BLANC]
+Pour l’intimée :
+Nathalie G. Drouin
+Sous‑procureure générale du Canada
+Ottawa, Canada
+[1] L.R.C. 1985, ch. 1 (5e suppl.), dans sa forme modifiée.
+[2] Conformément au paragraphe 165(1.15) de la Loi, l’associé désigné d’une société de personnes peut faire une opposition concernant un montant déterminé par le ministre en application du paragraphe 152(1.4) de la Loi relativement à l’exercice de la société de personnes.
+[3] Alinéas 3a) à o) des observations de l’intimée, tirée des hypothèses du ministre alléguées au paragraphe 14 des réponses aux avis d’appel modifiés.
+[4] La Cour d’appel fédérale a confirmé le jugement rendu dans la décision Paletta après l’audition des présentes requêtes. Voir l’arrêt Paletta c. La Reine, 2017 CAF 33.
+[5] Les notes de bas de page 6 à 9 mentionnées dans les extraits cités de l’arrêt Paletta se lisent ainsi :
+[6] L’alinéa 58(1)a) a été modifié par DORS/2004-100 pour ajouter « une question de fait ou une question de droit et de fait ». Avant cette modification, l’article visait uniquement une question de droit.
+[7] Quant à ce que signifie le terme « soulevée dans un acte de procédure », voir, par exemple, les commentaires de la juge Woods dans le jugement Sentinel Hill Productions IV Corp. c. La Reine, 2013 CCI 267, aux paragraphes 27 à 31, un jugement cité par le juge en chef Rossiter dans le jugement Suncor Énergie inc. c. La Reine, 2015 CCI 210, au paragraphe 14. Le libellé de cette exigence n’a pas changé dans la version actuelle de l’article 58.
+[8] Au paragraphe 19. Voir également la décision Canada (Ministre du Revenu national) c. Compagnie d’assurance vie RBC, 2013 CAF 50, [2013] 2 R.C.F. F‑9, aux paragraphes 35 et 36.
+[9] Dans le jugement McIntyre c. La Reine, 2014 CCI 111, la juge Campbell a confirmé que ce pouvoir discrétionnaire existait également en vertu de la version antérieure de l’article 58 (voir le paragraphe 25). Le juge en chef a cité et approuvé cette observation dans le jugement Suncor, précité (au paragraphe 16) en traitant de la version actuelle de l’article 58. Dans le jugement Rio Tinto Alcan Inc. c. La Reine, 2016 CCI 31, la juge D’Auray a énoncé ce qui suit, au paragraphe 55 :
+« [...] le juge a toujours un pouvoir discrétionnaire et peut décider, en s’appuyant sur d’autres motifs, que la question ne se prête pas à une détermination en vertu de l’article 58 des Règles ».
+[6] Voir le paragraphe 3 sous la rubrique [TRADUCTION] « LES MOYENS AU SOUTIEN DE LA REQUÊTE SONT LES SUIVANTS : », à la page 2 de l’avis de requête de chaque requérante, qui résume les quatre faits – tous admis par l’intimée – que les requérantes allèguent être essentiels à la détermination de la question à trancher.
+[7] Voir l’alinéa 32a) de l’avis d’appel modifié de 2078970 et les paragraphes 15 et 19 de la réponse modifiée de l’intimée à cet avis, ainsi que l’alinéa 30a) de l’avis d’appel modifié de 2078702 et les paragraphes 16 et 21 de la réponse de l’intimée à cet avis.
+[8] 2016 CCI 31, aux paragraphes 49 à 52.
+[9] Au paragraphe 25.
+[10] L’intimée, en résumant les [TRADUCTION] « QUESTIONS À TRANCHER » dans sa réponse à chacun des présents appels, qualifie de [TRADUCTION] « question préliminaire » la validité des déterminations.
+[11] 2008 CCI 238, au paragraphe 6.
+[12] 2014 CCI 111, au paragraphe 24.
+[13] Sentinel Hill Productions IV Corp. c. La Reine, 2013 CCI 267 (C.C.I. [Procédure générale]), confirmée par la Cour d’appel fédérale : 2014 CAF 161.
+[14] Voir l’arrêt Canada c. Loewen, 2004 CAF 146, aux paragraphes 11 et 13, et le paragraphe 152(9) de la Loi.
+[15] Voir également l’arrêt Sentinel Hill rendu par la CAF, au paragraphe 12.
+[16] Voir l’arrêt Antle c. Canada, 2010 CAF 280.
+[17] Voir aussi le paragraphe 24 du jugement Sentinel Hill de la juge Woods.

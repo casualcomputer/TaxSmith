@@ -1,0 +1,130 @@
+Title: Perron v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30967/index.do
+Corpus path: corpus/cases/tcc/2012/2012-tcc-341-30967-perron-v-the-queen-en.md
+Document type: case_law
+Last modified: 2012-09-28
+
+# Perron v. The Queen
+
+- Citation: 2012 TCC 341
+- Decision date: 2012-09-28
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4841, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Perron v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2012-09-28
+Neutral citation
+2012 TCC 341
+File numbers
+2011-851(GST)I
+Judges and Taxing Officers
+Paul Bédard
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2011-851(GST)I
+BETWEEN:
+MARTIN PERRON,
+Appellant,
+and
+HER MAJESTY THE QUEEN
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard August 24, 2012, at Québec, Quebec
+Before: The Honourable Justice Paul Bédard
+Appearances:
+For the appellant:
+The appellant himself
+Counsel for the respondent:
+Sylvain Lacombe
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made regarding the Goods and Services Tax pursuant to Part IX of the Excise Tax Act for the period of October 1, 2009, to December 31, 2009, is dismissed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 28th day of September 2012.
+"Paul Bédard"
+Bédard J.
+Translation certified true
+on this 10th day of January2012.
+Elizabeth Tan, Translator
+Citation: 2012 TCC 341
+Date: 20120928
+Docket: 2011-851(GST)I
+BETWEEN:
+MARTIN PERRON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Bédard J.
+[1] This is an appeal from an assessment made pursuant to the Excise Tax Act (ETA) regarding the Goods and Services Tax (GST).
+[2] On May 10, 2010, the respondent, through the Minister of Revenue of Quebec (the Minister), assessed the appellant with respect to Part IX of the ETA for the period of October 1, 2009, to December 31, 2009, and sent him a notice of assessment, dated that same day.
+[3] As shown in the appellant's notice of assessment, the amounts assessed are as follows:
+Adjustments in the calculation of the reported net tax
+$2,685.75
+Net interest
+$18.28
+Total [amount owing]
+$2,704.03
+[4] Specifically, the adjustments of $2,685.75 in the calculation of the net tax reported by the appellant, mentioned in the preceding paragraph, consist of the disallowance of an input tax credit (ITC) in respect of a vehicle purchased by the appellant.
+[5] In making the assessment, the Minister relied, inter alia, on the following findings and assumptions set out in the Reply to the Notice of Appeal (the Reply):
+[translation]
+(a) The appellant operates a welding business under the name “Soudure Mobile Express”; (admitted)
+(b) During the period in question, the appellant was a registrant for the purposes of applying the Goods and Services Tax (hereinafter the GST) and an agent of the Minister for the purposes of collecting and remitting the GST; (admitted)
+(c) On October 1, 2009, the appellant acquired a 2010 Ford F-250 4X4 vehicle, serial number 1FTSW2BR3AEA15143 (hereinafer the vehicle); (admitted)
+(d) The appellant did not acquire the vehicle for commercial purposes only; (denied)
+(e) The appellant does not personally own another vehicle; (denied)
+(f) No mileage logbook was provided to the Minister; (admitted)
+Issue
+[6] Was the respondent justified in disallowing the ITC in the amount of $2,6785.75 claimed by the appellant in respect of the purchase of the vehicle?
+Appellant's testimony
+[7] The appellant's testimony essentially states that
+(i) in 2008, 2009 and 2010, he worked for a welding company. The evidence showed that the appellant's employment income was $54,294, $63,790 and $42,632 in 2010, 2009 and 2008, respectively (see Exhibit I‑1, tab 3). The appellant explained that his hours of work were from 7:00 a.m. to 3:00 p.m., 48 weeks per year. He stated that in 2010 he went to work either in a Mazda 5 vehicle that he co-owned with his spouse or on a motorcycle (Harley Davidson) that he had purchased in April 2005 (see Exhibit A‑3);
+(ii) during 2008, 2009 and 2010, he also operated a welding business. The appellant explained that he did not have a welding workshop. He went to his clients to do the welding with the vehicle and the trailer he pulled behind it to transport all the equipment needed to do his work. The appellant also explained that his clients were in the Quebec City and Beauce regions. The appellant testified that he operated his business on weekends and some evenings. He also testified that in 2010, he worked 1,650 hours as an employee and devoted 1,362 hours of his time to the business;
+(iii) the appellant's business generated sales of $45,232, $32,794 and $66,629 in 2008, 2009 and 2010, respectively (see Exhibit I‑1, tab 2);
+(iv) his spouse (an employment advisor with the Carrefour jeunesse-emploi de la Capitale Nationale) has been on maternity leave since November 15, 2009. The appellant explained that before her maternity leave, they carpooled to work.
+Appellant's theory
+[8] The appellant claimed that he saw no point in keeping records to establish the commercial use of the vehicle since it was used for commercial purposes 100% of the time. The appellant claimed that he worked more than 3,000 hours per year, including approximately 1,300 hours on weekends and some evenings. Therefore, there was not much time for him to use the vehicle (which, I note, could transport 6 passengers) for personal or recreational purposes.
+Analysis and conclusion
+[9] To be eligible for the claimed ITC, the appellant had to demonstrate in this case that the vehicle was used for commercial purposes more than 90% of the time.
+[10] The appellant's evidence in this regard essentially rests on his testimony since for all practical purposes, he did not provide any relevant information in support of his testimony, not even a mileage logbook. I would also note that the appellant did not provide an agenda detailing his business travel schedule. He did not provide invoices for maintenance or gas either. At best, the appellant filed invoices (Exhibit A‑5) that show he devoted about 355 hours to his business in 2010; I note that the appellant testified that he devoted about 1,300 hours to his business in 2010.
+Analysis and conclusion
+[11] It is possible to claim that a vehicle was used solely for commercial purposes; however, the claim must be plausible and likely. The burden of proof is greater when a vehicle can also be used for personal reasons. I note that the vehicle was designed mainly to transport six passengers. When a person decides to purchase a vehicle with characteristics that might raise questions, that person must be careful, vigilant and disciplined when using the vehicle, and be prepared with convincing proof that the vehicle was used for commercial purposes more than 90% of the time. This is even more relevant in this case, as the appellant's spouse was confined to the house since she did not have a vehicle to get around. I note that the appellant testified that he used the Mazda 5 (at least in winter) to get to work and that the vehicle was used solely for commercial purposes. Having a record to rely on would have been very useful to clarify any doubts. The alleged use could also have been confirmed with an agenda or even invoices sent to a client. This relevant evidence could establish destinations and the number of kilometres driven for commercial purposes in relation to the total kilometres driven in a given year.
+[12] In this case, the appellant failed to produce this relevant evidence, which he could have produced and by which the facts might have been elucidated. He did not do so. I infer from this that the evidence would not have been favourable. I do not understand why the appellant only filed part of the invoices sent to clients in 2010; these invoices show that in 2010, he worked at most 355 hours of the 1,362 he claimed to have devoted to his business. He could have supported his testimony about the hours devoted to his business in 2010 had he produced all the invoices, and this would have also established the distance driven to see his clients in 2010. This would have been possible with a simple reading of the vehicle's odometer at the end of 2010, if all the kilometres driven had been for commercial purposes. This relevant evidence he could have produced was even more important because the explanations about needing a four-door vehicle with two bench seats—to put equipment on them, sheltered from the cold—were not very convincing.
+[13] Overall, the appellant's testimony was not sufficient or adequate for the Court to find that the appellant met his burden of proof.
+[14] For these reasons, the appeal is dismissed.
+Signed at Ottawa, Canada, this 28th day of September 2012.
+"Paul Bédard"
+Bédard J.
+Translation certified true
+on this 10th day of January 2012.
+Elizabeth Tan, Translator
+CITATION: 2012 TCC 341
+COURT FILE NO.: 2011-851(GST)I
+STYLE OF CAUSE: MARTIN PERRON AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Québec, Quebec
+DATE OF HEARING: August 24, 2012
+REASONS FOR JUDGMENT BY: The Honourable Justice Paul Bédard
+DATE OF JUDGEMENT: September 28, 2012
+APPEARANCES:
+For the appellant:
+The appellant himself
+Counsel for the respondent:
+Sylvain Lacombe
+COUNSEL OF RECORD:
+For the appellant:
+Name:
+Firm:
+For the respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada

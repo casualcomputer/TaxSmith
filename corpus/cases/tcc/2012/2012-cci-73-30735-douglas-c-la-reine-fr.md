@@ -1,0 +1,144 @@
+---
+title: "Douglas c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30735/index.do"
+last_modified: "2012-03-05"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2012 CCI 73"
+citation2: ""
+neutral_citation: "2012 CCI 73"
+decision_date: "2012-03-05"
+language: "fr"
+item_id: "30735"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7530
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T14:46:32.246000+00:00"
+cases_cited_count: 1
+cases_citing_count: 6
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "dd54cf02097e49dba18aaac26211e095d81b2e68778cb539f272af2d05006431"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Douglas c. La Reine
+
+- Citation: 2012 CCI 73
+- Decision date: 2012-03-05
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7530, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Douglas c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2012-03-05
+Référence neutre
+2012 CCI 73
+Numéro de dossier
+2011-3091(IT)I
+Juges et Officiers taxateurs
+Judith Woods
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2011-3091(IT)I
+ENTRE :
+BRUCE W. DOUGLAS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 24 février 2012 à Grande Prairie (Alberta)
+Devant : L’honorable juge J.M. Woods
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Me Gregory Perlinski
+____________________________________________________________________
+JUGEMENT
+L’appel concernant la cotisation établie en vertu de la Loi de l’impôt sur le revenu (la « Loi ») pour l’année d’imposition 2008 est accueilli, et la cotisation est déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation compte tenu du fait que la pénalité imposée en vertu du paragraphe 162(7) de la Loi doit être annulée. L’appelant a droit à ses dépens, le cas échéant.
+Signé à Toronto (Ontario), ce 5e jour de mars 2012.
+« J. M. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 11e jour d’avril 2012.
+Marie-Christine Gervais, traductrice
+Référence : 2012 CCI 73
+Date : 20120305
+Dossier : 2011-3091(IT)I
+ENTRE :
+BRUCE W. DOUGLAS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Woods
+[1] Le ministre a imposé à l’appelant, Bruce Douglas, une pénalité de 2 500 $ parce qu’il avait omis de produire un formulaire dans le délai prescrit. Selon le formulaire, le contribuable est tenu de déclarer les biens étrangers détenus ainsi que le revenu étranger gagné. Ce formulaire est connu sous le nom de T1135.
+[2] La question à trancher est celle de savoir si la pénalité a été imposée à juste titre en application du paragraphe 162(7) de la Loi de l’impôt sur le revenu (la « Loi »).
+[3] Les faits pertinents peuvent être exposés brièvement.
+[4] M. Douglas a établi sa propre déclaration de revenus pour l’année d’imposition 2008. Un formulaire T1135 était annexé à la déclaration et indiquait que M. Douglas détenait un bien immobilier au Royaume-Uni dont la valeur se situait entre 100 000 $ et 300 000 $. Aucun revenu n’a été déclaré relativement au bien.
+[5] Le délai de production de la déclaration de revenus était le 15 juin 2009, mais ce n’est qu’en mars 2010 que la déclaration a été produite. M. Douglas a sciemment produit sa déclaration en retard, comme il l’avait déjà fait auparavant, croyant comprendre qu’une telle pratique était acceptable s’il n’y avait pas d’impôt à payer. Pour l’année d’imposition 2008, M. Douglas a indiqué dans sa déclaration qu’il n’avait pas d’impôt à payer étant donné que son revenu de profession libérale net était seulement de 865 $.
+[6] Le délai fixé pour la production du T1135 est le même que celui pour la déclaration de revenus. Comme le T1135 était annexé à la déclaration de revenus produite en mars 2010, le formulaire a aussi été produit en retard.
+[7] Le paragraphe 162(7) prévoit ce qui suit :
+(7) Toute personne (sauf un organisme de bienfaisance enregistré) ou société de personnes qui ne remplit pas une déclaration de renseignements selon les modalités et dans le délai prévus par la présente loi ou le Règlement de l’impôt sur le revenu ou qui ne se conforme pas à une obligation imposée par la présente loi ou ce règlement est passible, pour chaque défaut – sauf si une autre disposition de la présente loi (sauf les paragraphes (10) et (10.1) et 163(2.22)) prévoit une pénalité pour le défaut – d’une pénalité égale, sans être inférieure à 100 $, au produit de la multiplication de 25 $ par le nombre de jours, jusqu’à concurrence de 100, où le défaut persiste.
+[8] Comme il a été mentionné précédemment, le délai de production du T1135 est le même que celui applicable à la déclaration de revenus. En l’espèce, le délai était le 15 juin 2009. M. Douglas reconnaît que le formulaire n’a été produit qu’en mars 2010 et qu’il a été produit en retard.
+[9] Comme le T1135 a été produit avec plus de 100 jours de retard, le ministre a décidé qu’une pénalité maximale de 2 500 $ devait être imposée en application du paragraphe 162(7).
+Analyse
+[10] Dans la présente affaire, le problème que pose selon moi l’imposition de la pénalité est le fait que M. Douglas a pris des mesures raisonnables pour satisfaire à ses obligations fiscales.
+[11] Plus précisément, il était raisonnable pour M. Douglas de conclure que la déclaration de revenus pouvait être produite en retard parce qu’il n’y avait pas d’impôt à payer pour l’année (paragraphe 162(1) de la Loi). Il soutient que c’est un fait bien connu au Canada. J’en conviens.
+[12] Il était également raisonnable pour M. Douglas de joindre le T1135 à la déclaration de revenus. M. Douglas a simplement suivi les instructions figurant sur le formulaire :
+Remplissez et retournez ce formulaire avec votre déclaration de revenus […]
+[13] Il serait injuste de pénaliser M. Douglas pour le non-respect d’un délai de production dans ces circonstances.
+[14] La pénalité prévue au paragraphe 162(7) est stricte et le législateur n’a pas prévu de moyen de défense fondé sur la diligence raisonnable à l’égard de celle‑ci, mais la Cour a conclu que même les pénalités strictes ne devraient pas être imposées si un contribuable a pris toutes les mesures raisonnables pour se conformer à la loi : Home Depot of Canada Inc. c. La Reine, 2009 CCI 281.
+[15] En l’espèce, M. Douglas n’a pas adopté une attitude désinvolte à l’égard de ses obligations fiscales. D’après ce que la preuve révèle, il a déployé des efforts assidus pour se conformer à la loi et il a agi de manière raisonnable et avec compétence. L’intimée n’a pas laissé entendre qu’il y avait des renseignements auxquels M. Douglas aurait pu facilement avoir accès et qui l’auraient informé de ce problème.
+[16] En outre, il n’est pas raisonnable de s’attendre à ce que M. Douglas demande conseil à un expert en fiscalité concernant le T1135, étant donné le faible revenu qu’il avait gagné. Selon la réponse, M. Douglas a déclaré un revenu de profession libérale brut de 28 636 $ et un revenu de profession libérale net de 865 $.
+[17] Je suis d’avis que le moyen de défense fondé sur la diligence raisonnable, qui est d’origine prétorienne, doit être appliqué avec modération. Cependant, il y a lieu de l’appliquer en l’espèce.
+[18] La pénalité est donc annulée et l’appel est accueilli. L’appelant a droit à ses dépens, le cas échéant.
+Signé à Toronto (Ontario), ce 5e jour de mars 2012.
+« J. M. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 11e jour d’avril 2012.
+Marie-Christine Gervais, traductrice
+RÉFÉRENCE : 2012 CCI 73
+NO DU DOSSIER DE LA COUR : 2011-3091(IT)I
+INTITULÉ : BRUCE W. DOUGLAS c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Grande Prairie (Alberta)
+DATE DE L’AUDIENCE: Le 24 février 2012
+MOTIFS DU JUGEMENT : L’honorable juge J.M. Woods
+DATE DU JUGEMENT : Le 5 mars 2012
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Me Gregory Perlinski
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa (Ontario)

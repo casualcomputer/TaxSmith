@@ -1,0 +1,241 @@
+---
+title: "Poehlke c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30093/index.do"
+last_modified: "2010-11-25"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 CCI 604"
+citation2: ""
+neutral_citation: "2010 CCI 604"
+decision_date: "2010-11-25"
+language: "fr"
+item_id: "30093"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7625
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T12:25:13.842000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "4f10b919b2f70c8242f5be56703e705a645c6ea35e679c3a158d67e842806dad"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Poehlke c. La Reine
+
+- Citation: 2010 CCI 604
+- Decision date: 2010-11-25
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7625, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Poehlke c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2010-11-25
+Référence neutre
+2010 CCI 604
+Numéro de dossier
+2009-3018(IT)I
+Juges et Officiers taxateurs
+Eric A. Bowie
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2009-3018(IT)I
+ENTRE :
+CHARLOTTE W. POEHLKE,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels entendus le 28 septembre 2010, à Vancouver (Colombie‑Britannique).
+Devant : L’honorable juge E.A. Bowie
+Comparutions :
+Pour l’appelante :
+L’appelante elle‑même
+Avocat de l’intimée :
+Me Robin Whittaker
+____________________________________________________________________
+JUGEMENT
+Les prétendus appels interjetés à l’égard des nouvelles cotisations d’établies en vertu de la Loi de l’impôt sur le revenu (la « Loi ») pour les années d’imposition 1999, 2000, 2001, 2002, 2003 et 2008 sont annulés.
+Les appels des nouvelles cotisations établies au titre de la Loi pour les années d’imposition 2004, 2005, 2006 et 2007 sont rejetés.
+Signé à Ottawa, Canada, ce 25e jour de novembre 2010.
+« E.A. Bowie »
+Juge Bowie
+Traduction certifiée conforme
+ce 17e jour de janvier 2011.
+Nathalie Gadbois, LL. L., LL. B.
+Référence : 2010 CCI 604
+Date : 20101125
+Dossier : 2009-3018(IT)I
+ENTRE :
+CHARLOTTE W. POEHLKE,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Bowie
+[1] Mme Poehlke prétend interjeter appel à l’égard de nouvelles cotisations d’impôt sur le revenu établies pour les années d’imposition 1999 à 2008 inclusivement. Au début de l’audience, l’avocat de l’intimée a présenté une requête en annulation des appels pour les années d’imposition 1999 à 2003 et 2008. Compte tenu de la preuve qui m’a été soumise, l’appelante a fait l’objet d’une nouvelle cotisation et a reçu un remboursement d’impôt pour les années 1999, 2000, 2001, 2002 et 2003, conformément aux dispositions des paragraphes 152(4.2) et 164(1.5) de la Loi de l’impôt sur le revenu[1] (la « Loi »). Le paragraphe 165(1.2) prévoit qu’aucun avis d’opposition ne peut être présenté à l’égard d’une cotisation établie en application du paragraphe 152(4.2) et ne peut, par conséquent, faire l’objet d’un appel, en raison du préambule du paragraphe 169(1). La preuve révélait également que l’appelante n’avait pas produit d’avis d’opposition pour l’année d’imposition 2008 et qu’il lui était donc également impossible d’interjeter appel de cette cotisation. Je dois par conséquent annuler les appels pour les années d’imposition 1999 à 2003 et 2008.
+[2] Les appels interjetés pour les années 2004, 2005, 2006 et 2007 ont été régulièrement portés devant la Cour et ils ont été entendus le 28 octobre 2010, sous le régime de la procédure informelle. Les appels portent sur la prétention de l’appelante voulant que, pour les années visées, elle a droit à un crédit d’impôt pour personne handicapée à l’égard de son fils cadet. Le droit au crédit en question découle des articles 118.3 et 118.4 de la Loi. Les parties pertinentes de ces articles ont été modifiées par la Loi d’exécution du budget (L.C. (2006), ch. 4, par. 63(2)), applicable à l’année 2005 et aux années subséquentes. Par conséquent, l’appel de Mme Poehlke interjeté à l’égard de l’année 2004 est régi par les dispositions préalables à la modification législative et les appels interjetés à l’encontre des années 2005, 2006 et 2007 sont régis par les dispositions postérieures à la modification.
+[3] Par souci de commodité, les paragraphes 152(4.2), 164(1.5), 165(1.2) et 169(1), ainsi que les parties pertinentes des articles 118.3 et 118.4 applicables avant et après la modification législative sont reproduites en annexe des présents motifs.
+[4] En ce qui concerne la demande de crédit d’impôt pour personnes handicapées, la preuve qui m’a été présentée est constituée du témoignage oral de l’appelante et de certains documents qui ont été désignés par un agent de l’Unité du crédit d’impôt pour personnes handicapées de l’Agence du revenu du Canada (l’« Agence »). Ces documents sont les suivants : le Certificat pour le crédit d’impôt pour personnes handicapées (« CCIPH ») relativement au fils cadet de l’appelante et rempli par le Dr M.G. Frey, un questionnaire rempli par celui‑ci à la demande de l’Agence, ainsi qu’un rapport psychopédagogique rédigé par Mme Maryam Naser, une psychologue scolaire du district scolaire no 38, Richmond. Conformément au paragraphe 118.3(4) de la Loi, le questionnaire est réputé figurer dans le CCIPH du Dr Frey.
+[5] Pour avoir gain de cause dans ces appels, l’appelante doit démontrer que son fils a une déficience prolongée le rendant incapable d’accomplir une activité courante de la vie quotidienne ou faisant en sorte qu’il doive y consacrer un temps excessif. Une déficience est prolongée s’il est raisonnable de s’attendre à ce qu’elle dure au moins 12 mois d’affilée[2]. La Loi définit l’expression « activités courantes de la vie quotidienne » à l’alinéa 118.4(1)c). Pour l’appel interjeté à l’égard de l’année 2004, est la suivante : « la perception, la réflexion et la mémoire ». À la suite de la modification de la Loi de 2006, la définition pertinente pour les années d’imposition 2005, 2006 et 2007 est la suivante : « les fonctions mentales nécessaires aux activités de la vie courante », lesquelles sont définies à l’alinéa 118.4(1)c.1) :
+(i) la mémoire,
+(ii) la résolution de problèmes, l’atteinte d’objectifs et le jugement (considérés dans leur ensemble),
+(iii) l’apprentissage fonctionnel à l’indépendance;
+L’intimée soutient que la preuve ne permet pas d’établir que la condition du fils de l’appelante satisfait au critère énoncé, que ce soit avant ou après la modification législative de 2006. Cependant, il n’est pas contesté que si cette condition ne satisfait pas au critère, il est raisonnable de s’attendre à ce qu’elle dure au moins 12 mois d’affilée.
+[6] L’opinion initiale exprimée par le Dr Frey dans le formulaire T2201 est ambiguë. Il y a inscrit que le patient était limité de façon marquée dans l’exécution des fonctions mentales nécessaires aux activités de la vie courante, et ce, depuis sa naissance. Il a ajouté que le patient avait besoin d’aide à l’apprentissage à l’école, et il a résumé son opinion en affirmant que le patient est un élève possédant une déficience intellectuelle légère. Dans le questionnaire qu’il a rempli en août 2008, lequel fait partie du formulaire T2201 original, il a affirmé que le patient pouvait s’acquitter des tâches de la vie quotidienne auxquelles on peut s’attendre d’une personne de son âge, et qu’il pouvait prendre des décisions appropriées pour son âge et suivre des instructions. Il avait la capacité de nouer des relations avec ses pairs et n’avait aucun défaut de mémoire grave. Il n’avait pas à consacrer un temps excessif aux fonctions mentales nécessaires aux activités de la vie courante. D’après de Dr Frey, ses déficiences étaient liées au rendement scolaire et n’étaient pas comportementales. Il a conclu son opinion en affirmant que le patient devrait être capable de terminer l’école et de vivre de façon autonome, et qu’il souffrait d’une déficience intellectuelle légère.
+[7] Le rapport psychopédagogique de Mme Naser n’est pas incompatible avec la totalité de l’opinion du Dr Frey. Il est plus détaillé, est formé de dix pages, suivies de trois pages de résultats de tests. Le rapport mentionne que le fils de l’appelant possède des niveaux de compétences faibles en communication verbale et en mathématique, mais que sa rapidité d’exécution de tâches cognitives et sa mémoire visuelle se situent dans la moyenne. Elle le décrit comme un élève doté d’une déficience intellectuelle légère, et recommande qu’un programme scolaire modifié soit élaboré pour répondre à ses besoins en matière d’apprentissage. Elle affime qu’il bénéficierait d’activités d’apprentissage axées sur des concepts comme le temps, l’argent et les mesures.
+[8] À la lumière de la preuve, je ne peux pas conclure qu’en 2004, le fils de l’appelante était incapable de percevoir, de réfléchir ou de mémoriser, ou prenait un temps excessif pour accomplir ces activités, ni qu’en 2005, 2006 ou 2007 il ne possédait pas les fonctions mentales nécessaires aux activités de la vie courante, comme le définit la Loi. Par conséquent, je fois rejeter les appels.
+Signé à Ottawa, Canada, ce 25e jour de novembre 2010.
+« E.A. Bowie »
+Juge Bowie
+Traduction certifiée conforme
+ce 17e jour de janvier 2011.
+Nathalie Gadbois, LL. L., LL. B.
+ANNEXE
+152(4.2) Malgré les paragraphes (4), (4.1) et (5), pour déterminer, à un moment donné après la fin de la période normale de nouvelle cotisation applicable à un contribuable — particulier, autre qu’une fiducie, ou fiducie testamentaire — pour une année d’imposition le remboursement auquel le contribuable a droit à ce moment pour l’année ou la réduction d’un montant payable par le contribuable pour l’année en vertu de la présente partie, le ministre peut, si le contribuable demande pareille détermination au plus tard le jour qui suit de dix années civiles la fin de cette année d’imposition, à la fois :
+a) établir de nouvelles cotisations concernant l’impôt, les intérêts ou les pénalités payables par le contribuable pour l’année en vertu de la présente partie;
+b) déterminer de nouveau l’impôt qui est réputé, par les paragraphes 120(2) ou (2.2), 122.5(3), 122.51(2), 122.7(2) ou (3), 127.1(1), 127.41(3) ou 210.2(3) ou (4), avoir été payé au titre de l’impôt payable par le contribuable en vertu de la présente partie pour l’année ou qui est réputé, par le paragraphe 122.61(1), être un paiement en trop au titre des sommes dont le contribuable est redevable en vertu de la présente partie pour l’année.
+164(1.5) Malgré le paragraphe (1), le ministre peut, à la date de mise à la poste d’un avis de cotisation d’un contribuable pour une année d’imposition, ou après cette date, rembourser tout ou partie d’un paiement en trop par le contribuable pour l’année si, selon le cas :
+a) la déclaration de revenu du contribuable — particulier, autre qu’une fiducie, ou fiducie testamentaire — pour l’année en vertu de la présente partie a été produite au plus tard le jour qui suit de dix années civiles la fin de l’année d’imposition;
+b) [… ]
+165(1.2) Malgré les paragraphes (1) et (1.1), aucune opposition ne peut être faite par un contribuable à une cotisation établie en application des paragraphes 118.1(11), 152(4.2), 169(3) ou 220(3.1). Il est entendu que cette interdiction vaut pour les oppositions relatives à une question pour laquelle le contribuable a renoncé par écrit à son droit d’opposition.
+169(1) Lorsqu’un contribuable a signifié un avis d’opposition à une cotisation, prévu à l’article 165, il peut interjeter appel auprès de la Cour canadienne de l’impôt pour faire annuler ou modifier la cotisation :
+a) après que le ministre a ratifié la cotisation ou procédé à une nouvelle cotisation;
+b) après l’expiration des 90 jours qui suivent la signification de l’avis d’opposition sans que le ministre ait notifié au contribuable le fait qu’il a annulé ou ratifié la cotisation ou procédé à une nouvelle cotisation;
+toutefois, nul appel prévu au présent article ne peut être interjeté après l’expiration des 90 jours qui suivent la date où avis a été expédié par la poste au contribuable, en vertu de l’article 165, portant que le ministre a ratifié la cotisation ou procédé à une nouvelle cotisation.
+AVANT LA MODIFICATION DE 2006
+118.3 (1) Un montant est déductible dans le calcul de l’impôt payable par un particulier en vertu de la présente partie pour une année d’imposition, si les conditions suivantes sont réunies :
+a) le particulier a une déficience mentale ou physique grave et prolongée;
+a.1) les effets de la déficience sont tels que la capacité du particulier d’accomplir une activité courante de la vie quotidienne est limitée de façon marquée ou le serait en l’absence de soins thérapeutiques qui, à la fois :
+(i) sont essentiels au maintien d’une fonction vitale du particulier,
+(ii) doivent être administrés au moins trois fois par semaine pendant une durée totale moyenne d’au moins 14 heures par semaine,
+(iii) selon ce à quoi il est raisonnable de s’attendre, n’ont pas d’effet bénéfique sur des personnes n’ayant pas une telle déficience;
+a.2) l’une des personnes suivantes atteste, sur le formulaire prescrit, qu’il s’agit d’une déficience mentale ou physique grave et prolongée dont les effets sont tels que la capacité du particulier d’accomplir une activité courante de la vie quotidienne est limitée de façon marquée ou le serait en l’absence des soins thérapeutiques mentionnés à l’alinéa a.1) :
+(i) un médecin en titre,
+(i.1) s’il s’agit d’un trouble de la parole, un médecin en titre ou un orthophoniste,
+(ii) s’il s’agit d’une déficience visuelle, un médecin en titre ou un optométriste,
+(iii) s’il s’agit d’une déficience auditive, un médecin en titre ou un audiologiste,
+(iv) s’il s’agit d’une déficience quant à la capacité de marcher, de s’alimenter ou de s’habiller, un médecin en titre ou un ergothérapeute,
+(v) s’il s’agit d’une déficience sur le plan de la perception, de la réflexion et de la mémoire, un médecin en titre ou un psychologue;
+b) le particulier présente au ministre l’attestation visée à l’alinéa a.2) pour une année d’imposition;
+c) aucun montant représentant soit une rémunération versée à un préposé aux soins du particulier, soit des frais de séjour du particulier dans une maison de santé ou de repos, n’est inclus par le particulier ou par une autre personne dans le calcul d’une déduction en application de l’article 118.2 pour l’année (autrement que par application de l’alinéa 118.2(2)b.1)).
+Le montant déductible est déterminé selon la formule suivante :
+A × (B + C)
+où :
+A représente le taux de base pour l’année;
+B 6 000 $;
+C :
+a) si le particulier n’a pas atteint l’âge de 18 ans avant la fin de l’année, l’excédent éventuel de 3 500 $ sur l’excédent éventuel, sur 2 050 $, du total des montants représentant chacun un montant payé au cours de l’année pour le soin ou la surveillance du particulier et inclus dans le calcul de la déduction prévue aux articles 63, 64 ou 118.2 pour une année d’imposition,
+b) dans les autres cas, zéro.
+118.3(4) Lorsqu’une déduction est demandée en vertu du présent article ou de l’article 118.8 relativement à la déficience d’un particulier, les règles suivantes s’appliquent :
+a) toute personne visée aux paragraphes (1) ou (2) ou à l’article 118.8 relativement à la demande doit fournir par écrit les renseignements que le ministre lui a demandés par écrit concernant la déficience du particulier, ses effets sur lui et, le cas échéant, les soins thérapeutiques mentionnés à l’alinéa (1)a.1) qui doivent être administrés;
+b) les renseignements ainsi fournis par une personne visée à l’alinéa (1)a.2) sont réputés figurer dans une attestation établie en la forme prescrite.
+118.4(1) Pour l’application du paragraphe 6(16), des articles 118.2 et 118.3 et du présent paragraphe :
+a) une déficience est prolongée si elle dure au moins 12 mois d’affilée ou s’il est raisonnable de s’attendre à ce qu’elle dure au moins 12 mois d’affilée;
+b) la capacité d’un particulier d’accomplir une activité courante de la vie quotidienne est limitée de façon marquée seulement si, même avec des soins thérapeutiques et l’aide des appareils et des médicaments indiqués, il est toujours ou presque toujours aveugle ou incapable d’accomplir une activité courante de la vie quotidienne sans y consacrer un temps excessif;
+c) sont des activités courantes de la vie quotidienne pour un particulier :
+(i) la perception, la réflexion et la mémoire,
+(ii) le fait de s’alimenter ou de s’habiller,
+(iii) le fait de parler de façon à se faire comprendre, dans un endroit calme, par une personne de sa connaissance,
+(iv) le fait d’entendre, de façon à comprendre, dans un endroit calme, une personne de sa connaissance,
+(v) les fonctions d’évacuation intestinale ou vésicale,
+(vi) le fait de marcher;
+d) il est entendu qu’aucune autre activité, y compris le travail, les travaux ménagers et les activités sociales ou récréatives, n’est considérée comme une activité courante de la vie quotidienne.
+[…]
+APRÈS LA MODIFICATION DE 2006 (VERSION ACTUELLE)
+118.3(1) Un montant est déductible dans le calcul de l’impôt payable par un particulier en vertu de la présente partie pour une année d’imposition, si les conditions suivantes sont réunies :
+a) le particulier a une ou plusieurs déficiences graves ou prolongées des fonctions physiques ou mentales;
+a.1) les effets de la ou des déficiences sont tels que la capacité du particulier d’accomplir plus d’une activité courante de la vie quotidienne est limitée de façon importante si les effets cumulatifs de ces limitations sont équivalents au fait d’être limité de façon marquée dans la capacité d’accomplir une activité courante de la vie quotidienne, ou sont tels que la capacité du particulier d’accomplir une activité courante de la vie quotidienne est limitée de façon marquée ou le serait en l’absence de soins thérapeutiques qui, à la fois :
+(i) sont essentiels au maintien d’une fonction vitale du particulier,
+(ii) doivent être administrés au moins trois fois par semaine pendant une durée totale moyenne d’au moins 14 heures par semaine,
+(iii) selon ce à quoi il est raisonnable de s’attendre, n’ont pas d’effet bénéfique sur des personnes n’ayant pas une telle déficience;
+a.2) s’il s’agit d’une déficience des fonctions physiques ou mentales dont les effets sont tels que la capacité du particulier d’accomplir une seule activité de la vie quotidienne est limitée de façon marquée ou le serait en l’absence des soins thérapeutiques mentionnés à l’alinéa a.1), un médecin en titre – ou, dans chacun des cas ci‑après, la personne mentionnée en regard du cas – atteste, sur le formulaire prescrit, qu’il s’agit d’une déficience grave et prolongée des fonctions physiques ou mentales dont les effets sont tels que la capacité du particulier d’accomplir une activité courante de la vie quotidienne est limitée de façon marquée ou le serait en l’absence de ces soins :
+(i) s’il s’agit d’une déficience visuelle, un optométriste,
+(ii) s’il s’agit d’un trouble de la parole, un orthophoniste,
+(iii) s’il s’agit d’une déficience auditive, un audiologiste,
+(iv) s’il s’agit d’une déficience quant à la capacité de s’alimenter ou de s’habiller, un ergothérapeute,
+(v) s’il s’agit d’une déficience quant à la capacité de marcher, un ergothérapeute ou, après le 22 février 2005, un physiothérapeute,
+(vi) s’il s’agit d’une déficience des fonctions mentales nécessaires aux activités de la vie courante, un psychologue;
+a.3) s’il s’agit d’une ou de plusieurs déficiences des fonctions physiques ou mentales dont les effets sont tels que la capacité du particulier d’accomplir plus d’une activité courante de la vie quotidienne est limitée de façon importante, l’une des personnes ci‑après atteste, sur le formulaire prescrit, que la ou les déficiences sont des déficiences graves et prolongées des fonctions physiques ou mentales dont les effets sont tels que la capacité du particulier d’accomplir plus d’une activité de la vie quotidienne est limitée de façon importante et que les effets cumulatifs de ces limitations sont équivalents au fait d’être limité de façon marquée dans la capacité d’accomplir une seule activité de la vie quotidienne :
+(i) s’il s’agit d’une déficience quant à la capacité de marcher, de s’alimenter ou de s’habiller, un médecin en titre ou un ergothérapeute,
+(ii) s’il s’agit d’une autre déficience, un médecin en titre;
+b) le particulier présente au ministre l’attestation visée aux alinéas a.2) ou a.3) pour une année d’imposition;
+c) aucun montant représentant soit une rémunération versée à un préposé aux soins du particulier, soit des frais de séjour du particulier dans une maison de santé ou de repos, n’est inclus par le particulier ou par une autre personne dans le calcul d’une déduction en application de l’article 118.2 pour l’année (autrement que par application de l’alinéa 118.2(2)b.1)).
+Le montant déductible est déterminé selon la formule suivante :
+A × (B + C)
+où :
+A représente le taux de base pour l’année;
+B 6 000 $
+C :
+a) si le particulier n’a pas atteint l’âge de 18 ans avant la fin de l’année, l’excédent éventuel de 3 500 $ sur l’excédent éventuel, sur 2 050 $, du total des montants représentant chacun un montant payé au cours de l’année pour le soin ou la surveillance du particulier et inclus dans le calcul de la déduction prévue aux articles 63, 64 ou 118.2 pour une année d’imposition;
+b) dans les autres cas, zéro.
+118.3(4) Lorsqu’une déduction est demandée en vertu du présent article ou de l’article 118.8 relativement à la déficience d’un particulier, les règles suivantes s’appliquent :
+a) toute personne visée aux paragraphes (1) ou (2) ou à l’article 118.8 relativement à la demande doit fournir par écrit les renseignements que le ministre lui a demandés par écrit concernant la déficience du particulier, ses effets sur lui et, le cas échéant, les soins thérapeutiques mentionnés à l’alinéa (1)a.1) qui doivent être administrés;
+b) les renseignements ainsi fournis par une personne visée à l’alinéa (1)a.2) sont réputés figurer dans une attestation établie en la forme prescrite.
+118.4(1) Pour l’application du paragraphe 6(16), des articles 118.2 et 118.3 et du présent paragraphe :
+a) une déficience est prolongée si elle dure au moins 12 mois d’affilée ou s’il est raisonnable de s’attendre à ce qu’elle dure au moins 12 mois d’affilée;
+b) la capacité d’un particulier d’accomplir une activité courante de la vie quotidienne est limitée de façon marquée seulement si, même avec des soins thérapeutiques et l’aide des appareils et des médicaments indiqués, il est toujours ou presque toujours aveugle ou incapable d’accomplir une activité courante de la vie quotidienne sans y consacrer un temps excessif;
+b.1) un particulier n’est considéré comme ayant une limitation équivalant au fait d’être limité de façon marquée dans la capacité d’accomplir une activité courante de la vie quotidienne que si sa capacité d’accomplir plus d’une activité courante de la vie quotidienne (y compris, à cette fin, la capacité de voir) est toujours ou presque toujours limitée de façon importante malgré le fait qu’il reçoit des soins thérapeutiques et fait usage des instruments et médicaments indiqués, et que si les effets cumulatifs de ces limitations sont équivalents au fait d’être limité de façon marquée dans la capacité d’accomplir une activité courante de la vie quotidienne;
+c) sont des activités courantes de la vie quotidienne pour un particulier :
+(i) les fonctions mentales nécessaires aux activités de la vie courante,
+(ii) le fait de s’alimenter ou de s’habiller,
+(iii) le fait de parler de façon à se faire comprendre, dans un endroit calme, par une personne de sa connaissance,
+(iv) le fait d’entendre, de façon à comprendre, dans un endroit calme, une personne de sa connaissance,
+(v) les fonctions d’évacuation intestinale ou vésicale,
+(vi) le fait de marcher;
+c.1) sont compris parmi les fonctions mentales nécessaires aux activités de la vie courante :
+(i) la mémoire,
+(ii) la résolution de problèmes, l’atteinte d’objectifs et le jugement (considérés dans leur ensemble),
+(iii) l’apprentissage fonctionnel à l’indépendance;
+d) il est entendu qu’aucune autre activité, y compris le travail, les travaux ménagers et les activités sociales ou récréatives, n’est considérée comme une activité courante de la vie quotidienne.
+e) le fait de s’alimenter ne comprend pas :
+(i) les activités qui consistent à identifier, à rechercher, à acheter ou à se procurer autrement des aliments,
+(ii) l’activité qui consiste à préparer des aliments, dans la mesure où le temps associé à cette activité n’y aurait pas été consacré en l’absence d’une restriction ou d’un régime alimentaire;
+f) le fait de s’habiller ne comprend pas les activités qui consistent à identifier, à rechercher, à acheter ou à se procurer autrement des vêtements.
+RÉFÉRENCE : 2010 CCI 604
+NO DU DOSSIER DE LA COUR : 2009-3018(IT)I
+INTITULÉ : CHARLOTTE W. POEHLKE
+c.
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Vancouver (Colombie‑Britannique)
+DATE DE L’AUDIENCE : Le 28 septembre 2010
+MOTIFS DU JUGEMENT : L’honorable juge E.A. Bowie
+DATE DU JUGEMENT : Le 25 novembre 2010
+COMPARUTIONS :
+Pour l’appelante :
+L’appelante elle‑même
+Avocat de l’intimée :
+Me Robin Whittaker
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom : S/O
+Cabinet : S/O
+Pour l’intimée : Myles J. Kirvan
+Sous‑procureur général du Canada
+Ottawa, Canada
+[1] L.R.C. (1985), ch.1 (5e suppl.), dans sa version modifiée.
+[2] Paragraphe118.4(1) de la Loi.

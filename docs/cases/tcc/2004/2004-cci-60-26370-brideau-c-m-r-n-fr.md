@@ -1,0 +1,206 @@
+---
+title: "Brideau c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26370/index.do"
+last_modified: "2004-02-03"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 CCI 60"
+citation2: ""
+neutral_citation: "2004 CCI 60"
+decision_date: "2004-02-03"
+language: "fr"
+item_id: "26370"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3383
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T22:03:08.631000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "04959b73368d0444504db3d53e6f474a02099e56472058d15a1907de76d52693"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Brideau c. M.R.N.
+
+- Citation: 2004 CCI 60
+- Decision date: 2004-02-03
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3383, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Brideau c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-02-03
+Référence neutre
+2004 CCI 60
+Numéro de dossier
+2002-4643(EI)
+Juges et Officiers taxateurs
+Sylvio J. Savoie
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2002-4643(EI)
+ENTRE :
+JEAN-GUY BRIDEAU,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+____________________________________________________________________
+Appel entendu le 1er octobre 2003 à Bathurst (Nouveau-Brunswick)
+Devant : L'honorable S.J. Savoie, juge suppléant
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocate de l'intimé :
+Me Antonia Paraherakis
+____________________________________________________________________
+JUGEMENT
+L'appel est rejeté et la décision rendue par le Ministre est confirmée selon les motifs du jugement ci-joints.
+Signé à Grand-Barachois (Nouveau-Brunswick), ce 3e jour de février 2004.
+«S.J. Savoie»
+Juge suppléant Savoie
+Référence : 2004CCI60
+Date : 20040203
+Dossier : 2002-4643(EI)
+ENTRE :
+JEAN-GUY BRIDEAU,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+MOTIFS DU JUGEMENT
+Le juge suppléant Savoie
+[1] Cet appel a été entendu à Bathurst (Nouveau-Brunswick) le 1er octobre 2003.
+[2] Il s'agit d'un appel portant sur l'assurabilité de l'emploi de l'appelant lorsqu'au service de Lydia Savoie, la payeuse, au cours de la période en litige, soit du 28 octobre 2001 au 1er décembre 2001.
+[3] Le ministre du Revenu national (le « Ministre ») a informé l'appelant de sa décision selon laquelle son emploi n'était pas assurable pendant la période en litige puisqu'il ne rencontrait pas les exigences d'un contrat de louage de services.
+[4] En rendant sa décision, le Ministre s'est basé sur les hypothèses de fait suivantes, énoncées aux paragraphes 7 et 8 de la Réponse à l'avis d'appel, lesquelles ont été admises, niées ou ignorées par l'appelant :
+7.a) la payeuse faisait l'achat de couronnes de Noël (les « couronnes ») fabriquées à la main par différentes personnes, dont l'appelant; (admis)
+b) la payeuse revendait les couronnes à une entreprise d'exportation opérant sous le nom de Savoie Export Limitée; (ignoré)
+c) la payeuse ne connaissait pas les heures de travail de l'appelant; (admis)
+d) la payeuse ne supervisait pas l'appelant; (admis)
+e) la payeuse n'avait aucun contrôle sur le nombre de couronnes faites par l'appelant; (ignoré)
+f) sur les factures au nom de l'appelant, la payeuse indiquait un prix de 15,00 $ la douzaine pour les couronnes de l'appelant; (admis)
+g) l'appelant produisait 2 douzaines de couronnes par jour; (admis)
+h) l'appelant n'a pas reçu le montant de 2 486,00 $ indiqué sur le relevé d'emploi émis par la payeuse; (admis)
+i) l'appelant n'a pas travaillé 300 heures tel qu'indiqué sur le relevé d'emploi émis par la payeuse; (ignoré)
+j) il n'y avait aucun contrat de louage de services entre l'appelant et la payeuse; (ignoré)
+8.a) les factures préparées au nom de l'appelant présentent les données suivantes : (ignoré)
+dates
+nombre de couronnes
+montant total
+29 octobre
+23 douz.
+345,00 $
+3 novembre
+10 ½ douz.
+157,50 $
+9 novembre
+4 ½ douz.
+67,50 $
+9 novembre
+28 douz.
+428,00 $
+12 novembre
+2 ½ douz.
+37,50 $
+14 novembre
+27 ½ douz.
+412,50 $
+16 novembre
+3 douz.
+45,00 $
+22 novembre
+6 douz.
+90,00 $
+24 novembre
+27 douz.
+405,00 $
+26 novembre
+27 ½ douz.
+412,50 $
+30 novembre
+6 douz.
+90,00 $
+Total
+165 ½ douz.
+2 482,50 $
+b) l'appelant n'a reçu aucune rémunération pour les couronnes qu'il a fabriquées; (admis)
+c) les factures au nom de l'appelant ne reflètent pas le nombre de couronnes faites par l'appelant durant la période en litige; (admis)
+d) la période en litige comprend 34 jours consécutifs; (admis)
+e) l'appelant aurait produit au plus 68 douzaines de couronnes durant la période en litige, soit 2 douzaines par jour pendant 34 jours, au rythme de 7 jours par semaine, sans arrêt de travail; (admis)
+f) à 15,00 $ la douzaine, l'appelant aurait gagné au plus 1 020,00 $ pendant la période en litige; (admis)
+g) les cotisations de l'appelant et de la payeuse pour l'assurance‑emploi et la pension ainsi que les retenues d'impôt indiquées sur le T4 de l'appelant totalisent 736,45 $; (ignoré)
+h) l'appelant a fabriqué des couronnes en échange d'un relevé d'emploi d'une valeur de 2 486,00 $ et de 300 heures; (admis)
+i) l'arrangement entre l'appelant et la payeuse ne constitue pas un contrat de louage de services. (nié)
+[5] La preuve a établi les faits suivants :
+[6] La payeuse ne connaissait pas les heures de travail de l'appelant et ne donnait aucune directive à celui-ci quant à l'exécution de ses tâches. Elle ne déterminait pas son horaire de travail. L'appelant choisissait son horaire de travail et décidait lui-même du nombre d'heures qu'il travaillerait.
+[7] L'appelant n'était aucunement supervisé. Ce qui intéressait la payeuse, c'était le produit fini, c'est-à-dire le résultat du travail, peu importe les moyens utilisés.
+[8] Par ailleurs, l'appelant possédait son propre lieu de travail et la payeuse ne payait aucun frais de location pour son utilisation et ne remboursait aucun frais de chauffage ou d'électricité. La payeuse ne fournissait aucun outil à l'appelant pour l'exécution de ses tâches.
+[9] Selon la preuve, il n'existait aucun lien de subordination entre la payeuse et l'appelant, élément pourtant essentiel dans tout contrat de louage de services. La payeuse n'exerçait aucun contrôle sur l'appelant qui oeuvrait comme il le voulait et fournissait son local de travail et ses outils, autres éléments importants dans un contrat de louage de services.
+[10] La preuve a révélé que le dossier sous étude fait partie de plusieurs qui ont amené Développement des ressources humaines Canada (DRHC) à faire enquête après avoir reçu des demandes d'assurabilité. Comme plusieurs autres travailleurs recrutés par la payeuse pour fabriquer des couronnes de Noël, l'appelant vendait ses couronnes à la payeuse en échange d'un relevé d'emploi forgé pour justifier des prestations d'assurance-emploi.
+[11] La payeuse s'est vue imposer des pénalités par DRHC pour la fraude commise.
+[12] Il a été établi que l'appelant fabriquait des couronnes et les remettait à la payeuse avec une facture. La payeuse, en retour, réglait la facture à l'appelant par chèque que celui-ci encaissait pour ensuite remettre l'argent liquide à la payeuse. Cet arrangement a été admis par l'appelant et sa conjointe lors de leurs témoignages à la Cour.
+[13] Contrairement à ce qui s'est produit dans plusieurs dossiers semblables, la preuve présentée par l'appelant a semblé honnête. Celui-ci n'a pas tenté de camoufler les faits ou de présenter une version qui l'aurait exonéré, comme il a tenté de le faire avec les enquêteurs.
+[14] Dans le dossier sous étude, la réponse à la question d'assurabilité se retrouve à l'alinéa 5(1)a) de la Loi sur l'assurance-emploi qui se lit comme suit :
+5.(1) Sous réserve du paragraphe (2), est un emploi assurable :
+a) un emploi exercé au Canada pour un ou plusieurs employeurs, aux termes d'un contrat de louage de services ou d'apprentissage exprès ou tacite, écrit ou verbal, que l'employé reçoive sa rémunération de l'employeur ou d'une autre personne et que la rémunération soit calculée soit au temps ou aux pièces, soit en partie au temps et en partie aux pièces, soit de toute autre manière;
+[…]
+[15] L'appelant a admis la plupart des présomptions du Ministre. Quant à celle énoncée à l'alinéa 8i) de la Réponse à l'avis d'appel, il l'a niée mais n'a apporté aucune preuve pour prouver sa fausseté. Le Ministre a allégué un arrangement entre l'appelant et la payeuse qui a pour effet de vicier le contrat de louage de services. Or, cette présomption du Ministre a été prouvée. Il faut préciser de plus que l'appelant n'a apporté aucune preuve pour réfuter les présomptions qu'il a choisi d'ignorer.
+[16] L'appelant avait le fardeau de prouver la fausseté des présomptions du Ministre. Il ne s'est pas acquitté de cette tâche. Il faut donc rappeler que la Cour d'appel fédérale dans l'arrêt Elia c. Canada (ministre du Revenu national - M.R.N.), [1998] A.C.F. no 316, a statué que les présomptions du Ministre doivent être considérées comme avérées, pour autant que celles-ci n'ont pas été expressément réfutées par l'appelant.
+[17] Il est important de souligner que dans le dossier sous étude, il a été prouvé que l'appelant n'a reçu aucune rémunération pour les services rendus à la payeuse. Ceci a donc pour effet de falsifier la notion même de l'emploi assurable, telle que définie sous l'alinéa 5(1)a) de la Loi sur l'assurance-emploi, reproduit ci-haut.
+[18] Le dossier sous étude est très simple : il s'apparente à celui dans l'arrêt Kelly c. M.R.N., [1989] no 109 où cette Cour, sous la plume du juge Labelle, écrivait ce qui suit :
+Le tribunal conclut que les appelants n'ont pas droit à des prestations d'assurance-chômage parce qu'ils n'ont jamais été payés pour le travail qu'ils ont effectué. Les appelants ont tous travaillé exactement le nombre de semaines dont ils avaient besoin pour recevoir des prestations d'assurance-chômage. Bien qu'ils ont travaillé, ils n'ont jamais été payés. En échange de leur travail, l'employeur leur donnait de faux relevés d'emploi qui leur permettaient de recevoir des prestations d'assurance‑chômage. Le tribunal juge que l'emploi de chacun des appelants n'était pas un emploi assurable parce que ces appelants n'avaient reçu aucune rémunération. Pour ces motifs, le tribunal confirme les décisions du Ministre et rejette les appels.
+[19] En conséquence, cette Cour doit conclure que l'appelant, au cours de la période en litige, n'occupait pas chez la payeuse un emploi assurable puisqu'il n'existait pas de véritable contrat de louage de services au sens de l'alinéa 5(1)a) de la Loi sur l'assurance-emploi. En outre, l'appelant et la payeuse ont conclu entre eux un arrangement dans le but de qualifier l'appelant à des prestations d'assurance-emploi.
+[20] En raison de ce qui précède, l'appel est rejeté et la décision rendue par le Ministre est confirmée.
+Signé à Grand-Barachois (Nouveau-Brunswick), ce 3e jour de février 2004.
+« S.J. Savoie »
+Juge suppléant Savoie
+RÉFÉRENCE :
+2004CCI60
+No DU DOSSIER DE LA COUR :
+2002-4643(EI)
+INTITULÉ DE LA CAUSE :
+Jean-Guy Brideau et M.R.N.
+LIEU DE L'AUDIENCE :
+Bathurst (Nouveau-Brunswick)
+DATE DE L'AUDIENCE :
+le 1er octobre 2003
+MOTIFS DE JUGEMENT PAR :
+L'honorable S.J. Savoie,
+juge suppléant
+DATE DU JUGEMENT :
+Le 3 février 2004
+COMPARUTIONS :
+Pour l'appelant :
+L'appelant lui-même
+Pour l'intimé :
+Me Antonia Paraherakis
+AVOCAT(E) INSCRIT(E) AU DOSSIER:
+Pour l'appelant :
+Nom :
+Étude :
+Pour l'intimé :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

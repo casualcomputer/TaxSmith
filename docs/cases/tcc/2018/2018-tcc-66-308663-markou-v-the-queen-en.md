@@ -1,0 +1,422 @@
+---
+title: "Markou v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/308663/index.do"
+last_modified: "2018-04-09"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2018 TCC 66"
+citation2: ""
+neutral_citation: "2018 TCC 66"
+decision_date: "2018-04-09"
+language: "en"
+item_id: "308663"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7366
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T11:50:39.098000+00:00"
+cases_cited_count: 12
+cases_citing_count: 6
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "8f69b9b03df02cbecaf81582623788b9b1920dc9dcc71f24547270f0e28a9723"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Markou v. The Queen
+
+- Citation: 2018 TCC 66
+- Decision date: 2018-04-09
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7366, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Markou v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2018-04-09
+Neutral citation
+2018 TCC 66
+File numbers
+2012-1995(IT)G, 2012-423(IT)G, 2012-562(IT)G, 2013-36(IT)G
+Judges and Taxing Officers
+Brent Paris
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2012-423(IT)G
+BETWEEN:
+GEORGE MARKOU,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on common evidence with the appeals of Gerry Petriello 2012-1995(IT)G, Simonetta Olivanti 2013-36(IT)G and William H. Henderson 2012-562(IT)G on March 27 and 28, 2017 at Toronto, Ontario and written submissions received October 10, 2017 and October 24, 2017
+Before: The Honourable Justice B. Paris
+Appearances:
+Counsel for the Appellant:
+Guy Du Pont, Ad.E.
+Michael H. Lubetsky
+Reuben Abitbol
+Counsel for the Respondent:
+Arnold Bornstein
+John Grant
+Lorraine Edinboro
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 2002 taxation year is dismissed, with costs, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 9th day of April 2018.
+“B.Paris”
+Paris J.
+Docket: 2012-1995(IT)G
+BETWEEN:
+GERRY PETRIELLO,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on common evidence with the appeals of George Markou 2012-423(IT)G, Simonetta Olivanti 2013-36(IT)G and William H. Henderson 2012-562(IT)G on March 27 and 28, 2017 at Toronto, Ontario and written submissions received October 10, 2017 and October 24, 2017
+Before: The Honourable Justice B. Paris
+Appearances:
+Counsel for the Appellant:
+Guy Du Pont, Ad.E.
+Michael H. Lubetsky
+Reuben Abitbol
+Counsel for the Respondent:
+Arnold Bornstein
+John Grant
+Lorraine Edinboro
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 2002 taxation year is dismissed, with costs, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 9th day of April 2018.
+“B.Paris”
+Paris J.
+Docket: 2013-36(IT)G
+BETWEEN:
+SIMONETTA OLIVANTI,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on common evidence with the appeals of George Markou 2012-423(IT)G, Gerry Petriello 2012‑1995(IT)G, and William H. Henderson 2012-562(IT)G on March 27 and 28, 2017 at Toronto, Ontario and written submissions received October 10, 2017 and October 24, 2017
+Before: The Honourable Justice B. Paris
+Appearances:
+Counsel for the Appellant:
+Guy Du Pont, Ad.E.
+Michael H. Lubetsky
+Reuben Abitbol
+Counsel for the Respondent:
+Arnold Bornstein
+John Grant
+Lorraine Edinboro
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 2001 taxation year is dismissed, with costs, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 9th day of April 2018.
+“B.Paris”
+Paris J.
+Docket: 2012-562(IT)G
+BETWEEN:
+WILLIAM H. HENDERSON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on common evidence with the appeals of George Markou 2012-423(IT)G, Gerry Petriello 2012-1995(IT)G, Simonetta Olivanti 2013-36(IT)G on March 27 and 28, 2017 at Toronto, Ontario, and written submissions received October 10, 2017 and October 24, 2017
+Before: The Honourable Justice B. Paris
+Appearances:
+Counsel for the Appellant:
+Guy Du Pont, Ad.E.
+Michael H. Lubetsky
+Reuben Abitbol
+Counsel for the Respondent:
+Arnold Bornstein
+John Grant
+Lorraine Edinboro
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 2001 taxation year is dismissed, with costs, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 9th day of April 2018.
+“B.Paris”
+Paris J.
+Citation: 2018 TCC 66
+Date: 20180409
+Dockets: 2012-423(IT)G
+2012-1995(IT)G
+2013-36(IT)G
+2012-562(IT)G
+BETWEEN:
+GEORGE MARKOU, GERRY PETRIELLO,
+SIMONETTA OLIVANTI, WILLIAM H. HENDERSON,
+Appellants,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Paris J.
+[1] The Appellants in these appeals participated in a leveraged donation program (the “Program”) through which they purportedly made gifts to a registered charity and obtained charitable donation tax receipts. Mr. Henderson and Ms. Olivanti participated in the Program in respect of their 2001 taxation year and Mr. Markou and Mr. Petriello participated in it in respect of their 2002 taxation year.
+[2] All of the Appellants claimed charitable donation tax credits under section 118.1 of the Income Tax Act (the “Act”) as a result of their participation in the Program.
+[3] The issue in these appeals is whether the Appellants are entitled to those credits.
+[4] The Minister of National Revenue (“Minister”) disallowed the credits on the basis that the amounts transferred by the Appellants under the Program were not gifts within the meaning of section 118.1 of the Act.
+[5] In her Replies to the Notices of Appeal, the Respondent also pleads, in the alternative, that the general anti-avoidance rule (“GAAR”) applies to deny the credits.
+[6] In the case of Maréchaux v. The Queen, 2009 TCC 587 this Court found that a taxpayer who participated in the same leveraged donation program that is in issue here was not entitled to any of the charitable donation tax credits he had claimed. That decision was upheld by the Federal Court of Appeal (2010 FCA 287), and leave to appeal was denied by the Supreme Court of Canada (2011 CanLII 33976).
+[7] The Appellants maintain that the Maréchaux case is not dispositive of their appeals and that they are entitled to tax credits in the full amount claimed. Alternatively, they say they should be allowed tax credits for the amount of cash they contributed as part of the transfers that were made under the Program to the charity.
+Facts
+[8] The appeals were heard on common evidence, which consisted of a Partial Agreed Statement of Facts and a Further Agreed Statement of Facts, several volumes of documents entered on consent, and transcripts of testimony given by Markou and Henderson in relation to a motion that was previously heard and decided by the Court under Rule 58 of the Tax Court of Canada Rules (General Procedure) (the “Rule 58 determination”). The parties agreed that the testimony of Markou and Henderson would apply for the purposes of all of these appeals.
+Overview of the Program
+[9] The Program, known as the “Donation Program for Medical Science and Technology”, was promoted and operated by Trinity Capital Corporation (“Trinity”) during 2001, 2002 and 2003.
+[10] Taxpayers who participated in the Program entered into a series of predetermined transactions set up by Trinity designed to provide them with charitable donation tax credits in excess of the amount of cash they laid out.
+[11] The Program required participants to pledge an amount to the John McKellar Charitable Foundation, (the “Foundation”), a Canadian registered charity.
+[12] The pledge amounts were paid to the Foundation partly by cash contribution made from the participants’ own resources and partly by an amount borrowed by the participants from one of a number of subsidiaries of Trinity, including Capital Structures Ltd. (for 2001) and Capital Structures 2002 Ltd. (for 2002) (the “Lenders”). The Lenders were set up for the sole purpose of providing loans to participants in the Program.
+[13] The loans provided under the Program in 2001 were for a 20 year term and were interest-free. The loans provided under the Program in 2002 were for a 25 year term and were also interest-free.
+[14] In 2001, each participant’s cash contribution portion was 30% of the donation amount, and in 2002 it was 32% of the donation amount. The remainder of the donation was funded by the loan arranged by Trinity for each participant.
+[15] The participants also borrowed an additional amount from the respective Lenders equal to 10% of the donation amount in 2001 and 17% in 2002. Those additional amounts were then paid to the Lenders for expenses described as a “security deposit”, a “loan transaction fee” and premiums on a “deposit accretion insurance policy”.
+[16] In total, the amount borrowed by participants amounted to 80% of the amount pledged in 2001 and 85% in 2002.
+[17] The Program allowed participants to assign the security deposit and deposit accretion insurance policy to the Lenders in full payment of the loan at any time after January 15 of the year following the year the loan was made, and the Lenders were obligated to accept the assignment as full payment of the outstanding loan. Each of the Appellants did so in this case.
+[18] The participants were given charitable donation tax receipts for the full amount transferred to the Foundation on their behalf.
+[19] The total amount of purported gifts made under the Program by all participants was approximately $18 million in 2001 and $106 million in 2002.
+The Transfer of Funds
+[20] As part of the Program, Trinity facilitated the transfer of funds from the participants and from the Lenders, on behalf of the participants, to the Foundation.
+[21] The Foundation directed substantially all of the funds it received under the Program to the Mackenzie Institute for the Study of Terrorism (“Mackenzie”) and to Cornell University (“Cornell”). The Mackenzie Institute was a Canadian registered charity and Cornell was a prescribed university under Schedule VIII (s. 3503) of the Income Tax Regulations. The Foundation retained a small portion of the funds it received under the Program for its own purposes.
+[22] Trinity arranged with Mackenzie and Cornell that they would use substantially all of the funds received from the Foundation to purchase certain property (medical intellectual property and medical laboratory equipment) from Charterbridge Holdings International Ltd., a British Virgin Islands corporation. The amounts that Mackenzie and Cornell agreed to pay for the property was far in excess of the fair market value of the property.
+[23] Mackenzie also directed that a portion of the funds it received under the Program be paid to Trinity in return for acting as Mackenzie’s fundraising agent.
+Circular Flow of Funds
+[24] The Lenders, in both 2001 and 2002, borrowed funds by way of daylight loans in order to make the loans to the participants. The proceeds of the daylight loans were transferred from the Lenders through a number of entities (including the Foundation) and back to the Lenders and to the entities providing the daylight loans over the course of one day in a circular flow of funds. The Lenders knew in advance of entering into the loans with each participant that, through a series of directions and pre-arranged transactions with third parties, the proceeds loaned to the participants would be returned to them the same day, or shortly thereafter.
+Transactions Involving the Appellants
+William H. Henderson
+[25] Henderson participated in the 2001 Program by, inter alia:
+- signing a pledge, dated December 17, 2001, to donate $100,000 to the Foundation;
+- providing a cheque for $30,000 (equal to 30% of his purported donation) to the law firm of Fraser Milner Casgrain, the solicitors for Trinity, in Trust;
+- signing a loan agreement dated December 17, 2001 with Capital to borrow $80,000 (equal to 80% of his purported donation);
+- signing a non-negotiable promissory note, dated December 14, 2001, to pay to or to the order of Capital the amount of $80,000;
+- by directing the payment of the pledge amount to the Foundation out of the amounts provided to Fraser Milner Casgrain and the amounts borrowed from Capital; and
+- directing the payment of the remaining loan proceeds as a security deposit for repayment of the loan, as the premium for a deposit accretion insurance policy from Gettysburg National Indemnity (SAC) Ltd. (“Gettysburg”) and as a loan fee.
+[26] The loan from Capital had a 20-year term, was interest free and was extinguishable by the assignment of the deposit accretion insurance policy and the security deposit to Capital.
+[27] Henderson’s purported donation to the Foundation was made on December 31, 2001.
+[28] On January 21, 2002, the Foundation issued a charitable donation tax receipt to Henderson in the amount of $100,000.
+[29] Henderson assigned his security deposit and insurance policy to Capital in full satisfaction of his loan.
+[30] At the time of making the purported donation, Henderson resided in Mississauga, Ontario.
+Simonetta Olivanti
+[31] Olivanti participated in the 2001 Program by making a purported donation of $50,000 to the Foundation. She did so by:
+- signing a pledge, dated December 3, 2001, to donate $50,000 to the Foundation;
+- providing a cheque, dated December 3, 2001, in the amount of $15,000 (or 30% of her purported donation) to Fraser Milner Casgrain, in Trust;
+- signing a loan agreement dated December 3, 2001 with Capital for proceeds of $40,000 (equal to 80% of her purported donation);
+- signing a non-negotiable promissory note, dated December 3, 2001, to pay to or to the order of Capital the amount of $40,000; and
+- by directing the payment of the pledge amount to the Foundation out of the amounts provided to Fraser Milner Casgrain and the amounts borrowed from Capital; and
+- directing the payment of the remaining loan proceeds as a security deposit for repayment of the loan, as the premium for a deposit accretion insurance policy from Gettysburg and as a loan fee.
+[32] The loan from Capital had a 20-year term, was interest free and was extinguishable by the assignment of the deposit accretion insurance policy and the security deposit to Capital.
+[33] Olivanti’s purported donation to the Foundation was made on December 31, 2001.
+[34] On January 21, 2002, the Foundation issued a charitable donation tax receipt to Olivanti in the amount of $50,000.
+[35] Olivanti assigned her security deposit and insurance policy to Capital in full satisfaction of her loan.
+[36] At the time of making the purported donation, Olivanti resided in Laval, Quebec.
+George Markou
+[37] Markou participated in the 2002 Program by making a purported donation of $11,000,000 to the Foundation. He did so by:
+- signing a pledge to donate $11,000,000 to the Foundation, dated November 27, 2002;
+- providing a bank draft, dated November 28, 2002, for $3,520,000 (equal to 32% of his purported donation) to Fraser Milner Casgrain, in Trust;
+- signing a loan agreement dated November 27, 2002 with Capital 2002 for proceeds of $9,350,000 (equal to 85% of his purported donation);
+- signing a non-negotiable promissory note, dated November 27, 2002, to pay to or to the order of Capital 2002 the amount of $9,350,000;
+- by directing the payment of the pledge amount to the Foundation out of the amounts provided to Fraser Milner Casgrain and the amounts borrowed from Capital; and
+- directing the payment of the remaining loan proceeds as a security deposit for repayment of the loan, as the premium for a deposit accretion insurance policy from British Indemnity Limited and as a loan fee.
+[38] The loan from Capital 2002 had a 25-year term, was interest free and was extinguishable by the assignment of the deposit accretion insurance policy and the security deposit to Capital 2002.
+[39] Markou’s purported donation to the Foundation was made on December 5, 2002.
+[40] On December 11, 2002, the Foundation issued a charitable donation tax receipt to Markou in the amount of $11,000,000.
+[41] On March 16, 2003, Markou assigned his security deposit and insurance policy to Capital 2002 in full satisfaction of his Loan.
+[42] At the time of making the purported donation, Markou resided in Unionville, Ontario.
+Gerry Petriello
+[43] Petriello participated in the Program by making a purported donation of $50,000 to the Foundation. He did so by:
+- signing a pledge, dated December 16, 2002, to donate $50,000 to the Foundation:
+- providing a certified cheque or bank draft for $16,000 to Fraser Milner Casgrain, in Trust (32% of his purported donation);
+- signing a loan agreement with Capital 2002 for a proceeds of $42,500 (equal to 85% of his purported donation);
+- signing a non-negotiable promissory note to pay to or to the order of Capital 2002 the amount of $42,500; and,
+- by directing the payment of the pledge amount to the Foundation out of the amounts provided to Fraser Milner Casgrain and the amounts borrowed from Capital; and
+- directing the payment of the remaining loan proceeds as a security deposit for repayment of the loan, as the premium for a deposit accretion insurance policy from British Indemnity Limited and as a loan fee.
+[44] The loan from Capital 2002 had a 25-year term, was interest free and was extinguishable by the assignment of the deposit accretion insurance policy and the security deposit to Capital 2002.
+[45] Petriello’s purported donation to the Foundation was made on December 20, 2002.
+[46] On January 6, 2003, the Foundation issued a charitable donation tax receipt to Petriello in the amount of $50,000.
+[47] Petriello assigned his security deposit and insurance policy to Capital 2002 in full satisfaction of his Loan.
+[48] At the time of making the purported donation, Petriello resided in Dollard‑Des-Ormeaux, Quebec.
+Testimony from Rule 58 determination
+[49] Markou and Henderson both testified that they understood that their entire donations (both the cash and loan portions) would be used for medical research and believed the Foundation to be a bona fide and credible charity. They were introduced to the Program by their financial advisors, who provided them with a package of materials that included a lengthy legal opinion from the legal firm of Fraser Milner Casgrain and relied on those materials when deciding to make their donations. They also confirmed that they each received a loan as part of the Program arrangements but were not aware of the circular flow of funds used in the loan transactions.
+Legislation
+[50] The definition of “total charitable gifts” is found in subsection 118.1(1) of the Act:
+“total charitable gifts” of an individual for a taxation year means the total of all amounts each of which is the fair market value of a gift (other than a gift the fair market value of which is included in the total Crown gifts, the total cultural gifts or the total ecological gifts of the individual for the year) made by the individual in the year or in any of the 5 immediately preceding taxation years (other than in a year for which a deduction under subsection 110(2) was claimed in computing the individual’s taxable income) to
+(a) a registered charity,
+(b) a registered Canadian amateur athletic association,
+(c) a housing corporation resident in Canada and exempt from tax under this Part because of paragraph 149(1)(i),
+(d) a Canadian municipality,
+(e) the United Nations or an agency thereof,
+(f) a university outside Canada that is prescribed to be a university the student body of which ordinarily includes students from Canada,
+(g) a charitable organization outside Canada to which Her Majesty in right of Canada has made a gift during the individual’s taxation year or the 12 months immediately preceding that taxation year, or
+(g.1) Her Majesty in right of Canada or a province,
+to the extent that those amounts were
+(h) not deducted in computing the individual’s taxable income for a taxation year ending before 1988, and
+(i) not included in determining an amount that was deducted under this section in computing the individual’s tax payable under this Part for a preceding taxation year;
+(Emphasis added.)
+The Maréchaux Decision
+[51] In Maréchaux v. The Queen, (supra) the taxpayer participated in the Program in 2001. Woods J. found that he was not entitled to a charitable donation tax credit in relation to the amount transferred to the Foundation because the amount was not a gift. Woods J. referred to the definition of “gift” set out by the Federal Court of Appeal in The Queen v. Friedberg, 92 DTC 6031 (FCA), at 6032, that “a gift is a voluntary transfer of property owned by a donor to a donee, in return for which no benefit or consideration flows to the donor”. Woods J. continued on to say that:
+[32] In applying the above definition to the facts of this appeal, it is clear that the appellant did not make a gift to the Foundation because a significant benefit flowed to the appellant in return for the Donation.
+[33] The benefit is the financing arrangement. The $80,000 interest-free loan that was received by the appellant, coupled with the expectation of the Put Option, was a significant benefit that was given in return for the Donation. The financing was not provided in isolation to the Donation. The two were inextricably tied together by the relevant agreements.
+[52] The “put option” was the ability of the taxpayer to fully satisfy the loans shortly after closing by assigning the security deposit and the deposit accretion insurance policy to the Lender.
+[53] With respect to the question of whether the taxpayer had made a partial gift, consisting of his own cash outlay, Woods J. said:
+[48] In some circumstances, it may be appropriate to separate a transaction into two parts, such that there is in part a gift, and in part something else.
+[49] On the particular facts of this appeal, it is not appropriate to separate the transaction in this manner. There is just one interconnected arrangement here, and no part of it can be considered a gift that the appellant gave in expectation of no return.
+Appellants’ Position
+[54] The Appellants argue that according to both the ordinary and technical meaning of the word “gift”, as that term is used in section 118.1 of the Act, they each made a valid gift of the entire amount they transferred to the Foundation, including the proceeds of the loan obtained from the Lenders.
+[55] The Appellants maintain that Maréchaux is not dispositive of the issues in these appeals.
+[56] First, they say that, unlike in Maréchaux, they did not receive any benefit or consideration for the donations to the Foundation and are therefore entitled to full charitable donation tax credits.
+[57] Second, they take the position that Maréchaux is not determinative of the question of whether the taxpayer could claim a charitable donation tax credit for the cash portion of the transfer to the Foundation because that question was not raised.
+[58] The Appellants say that the arrangements relating to the loans they received from the Lenders did not constitute a benefit received in return for making their gifts because C. Miller J. held in the Rule 58 determination the Appellants did not have any legal or beneficial interest in the loan proceeds prior to the transfer of the loan proceeds to the Foundation. They also say that the obligation on the Appellants to use the loans to make their donations is consistent with the intention to confer a benefit on the Foundation for the full amount of their donations.
+[59] Therefore, the Appellants submit that the receipt of the loans does not vitiate their donations to the Foundation. The testimony given by Markou and Henderson (and applicable to the other Appellants) also supports the conclusion that they had the requisite donative intent in respect of the entire amount claimed.
+[60] If the loans were a benefit, the Appellants say that this still would not entirely disqualify their donations as gifts because the receipt of a benefit does not, in itself, vitiate the entire gift.
+[61] The Appellants submit that under both the common law and under the civil law of Quebec, where a benefit or advantage is received by a donor in relation to the gift, the amount of the gift is simply diminished to the extent of the value of the benefit or advantage that is received. This is referred to as “split gifting” or “partial gifting”.
+[62] The Appellants say that the concept of split or partial gifting has been accepted in a number of cases including cases decided by this Court and the Federal Court of Appeal.
+[63] They say, as well, that the word “gift” in section 118.1 was intended by Parliament to encompass such gifts and that this reading of the word “gift” in 118.1 is consistent with the principles of bijuralism as required by sections 8.1 and 8.2 of the Interpretation Act, R.S.O. 1985, c. I-21. Those provisions read:
+Duality of legal traditions and application of provincial law
+8.1 Both the common law and the civil law are equally authoritative and recognized sources of the law of property and civil rights in Canada and, unless otherwise provided by law, if in interpreting an enactment it is necessary to refer to a province’s rules, principles or concepts forming part of the law of property and civil rights, reference must be made to the rules, principles and concepts in force in the province at the time the enactment is being applied.
+Terminology
+8.2 Unless otherwise provided by law, when an enactment contains both civil law and common law terminology, or terminology that has a different meaning in the civil law and the common law, the civil law terminology or meaning is to be adopted in the Province of Quebec and the common law terminology or meaning is to be adopted in the other provinces.
+[64] The Appellants take the position that the possibility of split gifting is supported by the amendments made to the Act in 2013, at subsections 248(33) to (41) and following, which allow for split-receipting in cases where a donor receives a benefit or advantage in relation to the gift. The Appellants say that these amendments clarified the law as it existed prior to the amendments.
+[65] The Appellants also seek to rely on four Consent Judgments of this Court, issued in Bartlett v. The Queen, 2012-3321 IT(G), Baldwin v. The Queen, 2012‑3355 IT(G), Culverson v. The Queen, 2012-4034 IT(G), and Cucciniello v. The Queen, 2012-2077 IT(G). In those cases, the Minister had disallowed charitable donation tax credits claimed by the taxpayers in respect of the same leveraged donation program that is before the Court now and the taxpayers appealed to this Court. The parties consented to judgment allowing the appeals in part on the basis that the Appellants were entitled to charitable donation tax credits for certain amounts claimed as donations made to the Foundation post-December 20, 2002 (i.e. the date that the split gifting amendments to the Act came into force.) From a review of the pleadings, the amounts for which the credits were allowed appear to be the cash portion of those donations.
+[66] The Appellants submit that, since any settlement of a tax appeal must be done on a principled basis, the Respondent must have accepted in Bartlett, Baldwin, Culverson and Cucciniello that the taxpayers had the requisite donative intent for the cash portion of their donation to the Foundation in order to be allowed the tax credits. According to the Appellants, since they participated in the same Program as the taxpayers in those cases, it is an abuse of process for the Respondent to take the position that the Appellants in the cases at bar had a different intention regarding the amounts transferred to the Foundation than the taxpayers in those cases.
+[67] Finally, the Appellants argue that the GAAR is not applicable to the transactions giving rise to the donation tax credits.
+Analysis
+Did the Appellants Receive a Benefit?
+[68] I will start by addressing the Appellants’ submission that, on the facts of these cases, the Appellants did not receive any benefit relating to the loans that were used to fund the bulk of the amounts that were transferred on their behalf to the Foundation. Again, the Appellants say that this result flows from the conclusions of C. Miller J. on the Rule 58 determination.
+[69] The Appellants sought to have two questions answered on the Rule 58 determination. One of those questions was whether the proceeds of the loans contracted for by the Appellants with the Lenders were subject to a Quistclose trust.
+[70] A Quistclose trust provides an equitable remedy to a lender where it has lent money to a borrower for a specific purpose and there is a risk of other creditors seizing the advanced funds before the borrower is able to use them for the intended purpose. C. Miller J. said at paragraph 29 of his decision that:
+… With the Quistclose trust, the property is vested with the borrower who has a fiduciary obligation to use funds for a specific purpose or return the funds to the lender.
+[71] C. Miller J. considered the nature of the legal arrangements between the Appellants and the Lenders and concluded that the loans were not subject to a Quistclose trust.
+[72] He described the relevant legal arrangements between the Appellants and the Lenders in the following terms:
+1. The Appellants and Capital have an agreement in which Capital agrees to lend money to the Appellants.
+2. In that very agreement, the Appellants direct Capital to deliver the loan funds to a charity on the Appellants’ behalf.
+3. Capital delivered funds to its parent’s law firm (FMC).
+4. Capital directs FMC to deliver the funds to the charity’s law firm, and, according to the agreement, this triggers the debt relationship between Capital and the Appellants.
+5. FMC confirms funds were delivered to the charity on the Appellants’ behalf.
+(at paragraph 33)
+[73] The Court went on to set out the reasons for its conclusion that there was no Quistclose trust:
+24. I find, however, that the Appellants and more appropriately the lender, in this situation, are not in a Quistclose arrangement. They are in a contractual arrangement where, in Mr. Henderson’s case for example, on one day a lender puts funds into its law firm’s trust account, with the lender holding an irrevocable authority and direction from a borrower to immediately deliver funds to a charity. The funds do not vest in the borrower prior to delivery to the charity, permitting any possibility of the funds being held by the borrower in any trust, resulting, constructive or otherwise. The lender is in no need of the protection of a Quistclose trust, but is protected by the contractual arrangement already in place and by the fact the funds never leave its control. They go into their lawyer’s trust account, not into the borrower’s trust account
+…
+34.… I have concluded that no legal title ever vested in the Appellants that would give rise to the protective Quistclose trust in Capital’s favour.… … The Appellants, in granting an irrevocable authority to Capital to deliver monies to the charity, had exhausted any power they might have had while the funds were held by FMC. Capital, and only Capital, could direct FMC: the Appellants could not, once the funds were delivered to FMC, direct otherwise. …
+35.… I have concluded that until the funds were delivered to the charity’s lawyers, the Appellants had no legal or beneficial interest in the funds. Once delivered to the charity’s lawyers, the Appellants had a debtor/creditor relationship with Capital. That is all.
+[74] The Appellants rely on the finding that they had no legal or beneficial interest in the funds that were paid by the Lenders to the charity’s lawyers to support their position that they did not receive a benefit as a result of the loans. The Appellants maintain that the loans were “pure obligations” on the Appellants because they never had legal title, beneficial title, free access to or enjoyment of, or any kind of physical access to the loan proceeds.
+[75] The Appellants also say that the right to extinguish the loans by assigning the security deposit and insurance policy represents, at most, an attenuation of the loan obligation and were not a “stand-alone benefit”. The Appellants also say that the value of the right was trivial, given that the loan was already fully secured by the security deposit and insurance policy.
+[76] In my view, the Appellants’ position on this point flies in the face of common sense. The finding by C. Miller J. on the Rule 58 determination that the Appellants did not have any legal or beneficial interest in the loan proceeds at particular point did not include the finding that the Appellants did not have the enjoyment of the loan proceeds. The Court noted, at paragraph 32, that “the loan agreement … would suggest that at the very least the Appellants had a power to direct where funds are to go”. The loan agreements entered into by the Appellants also provided, at paragraph 2.2 of each agreement that “the Lender will be deemed to have advanced to the borrower the Loan Amount” upon delivery of the Loan Amount to the Foundation’s lawyers. It is clear that the Appellants used the loan proceeds for their own purpose: to make their donations to the Foundation and that to this extent they received the benefit of the loans.
+[77] The Appellants contracted for the delivery of the loan proceeds to the Foundation, and as a result, each became indebted to the Lender for the amount of the loan made to them. It is the terms of the indebtedness rather than the manner in which the indebtedness arose that gave rise to a benefit to the Appellants. Those terms were that the loans were not repayable 20 or 25 years, bore no interest and could be extinguished almost immediately by assignment of the security deposit and insurance policy (the “put option”). The Federal Court of Appeal noted in Maréchaux at paragraph 9, that it is “self-evident that a person who has the use of borrowed money, repayable in twenty years’ time, without having to pay interest has thereby received a significant benefit.” The Court also said, at paragraph 11, that “the ‘put option’ was a significant benefit provided to the donor by the lender in return for the payment.” The conclusions are equally applicable in these appeals. I therefore find that the financing arrangements respecting the loans in the cases before me had significant value to the Appellants.
+[78] Furthermore, if the Appellants never had any legal or beneficial interest in the loan proceeds it would not be possible for them to claim that they made a gift of those proceeds. A person can only make a gift of property owned by them. As stated by the FCA in Friedberg at paragraph 8 “…a gift is a voluntary transfer of property owned by a donor to a donee…” (my emphasis).
+Did the Appellants Make Split Gifts?
+[79] Having determined that the Appellants each received a benefit in return for their donations to the Foundation, the next question to be determined is whether they are entitled to charitable donation tax credits for the cash portion of their donations. They maintain that where partial consideration for a transfer of property is given, the value in excess of the consideration may still qualify as a gift under both common law and in the civil law of Quebec. The Appellants say that the transaction can be split into a gift component and a non-gift component.
+Common Law
+[80] The Appellants contend that the theory that consideration vitiates a gift is not based on the common law but is, rather, a recent innovation of revenue officials.
+[81] However, I am not convinced by the jurisprudence cited by the Appellants that the common law definitively recognizes split gifts. While it is true that the notion of split gifts has been implicitly accepted in a number of tax cases, the legal basis for such gifts has not been examined in those cases.
+[82] I will start by considering cases that deal generally with the principle that under the common law any material benefit received in return for a gift vitiates that gift.
+[83] For example, in the Supreme Court of Canada case Peter v. Beblow, [1993] 1 S.C.R. 980, McLachlin J. (as she then was) observed that the central element of a gift at law is “the intentional giving to another without expectation of remuneration.”
+[84] As well, the Ontario Court of Appeal in McNamee v. McNamee, 2011 ONCA 533 set out the elements of a gift at paragraphs 23 and 24 of its decision, including the requirement that the transfer be without consideration:
+[23] Although the term "gift" is not defined in the Family Law Act, a gift, generally speaking, is a voluntary transfer of property to another without consideration: Black's Law Dictionary, 7th ed. (St. Paul, MN: West Group, 1999), at p. 696; Birce v. Birce (2001), 2001 CanLII 8607 (ON CA), 56 O.R. (3d) 226, [2001] O.J. No. 3910 (C.A.), at para. 17. A transfer of property by contractual agreement involves a mutual exchange of obligations ("consideration"), but a transfer by way of gift involves a gratuitous, unilateral transaction: Mary Jane Mossman and William Flanagan, Property Law: Cases and Commentary, 2nd ed. (Toronto: Emond Montgomery Publications, 2004), at p. 439. As McLachlin J. observed in Peter v. Beblow, 1993 CanLII 126 (SCC), [1993] 1 S.C.R. 980, [1993] S.C.J. No. 36, at p. 991-92 S.C.R., "[t]he central element of a gift [is the] intentional giving to another without expectation of remuneration".
+[24] The essential ingredients of a legally valid gift are not in dispute. There must be (1) an intention to make a gift on the part of the donor, without consideration or expectation of remuneration, (2) an acceptance of the gift by the donee, and (3) a sufficient act of delivery or transfer of the property to complete the transaction: Cochrane v. Moore, (1890), 25 Q.B.D. 57 (C.A.), at p. 72-73; Mossman and Flanagan, supra, at p. 441, Bruce Ziff, Principles of Property Law, 5th ed. (Toronto: Carswell, 2010), at p. 157.
+[85] In McNamee, the Court also said, at paragraph 37, that:
+…A transfer of property by way of gift may equally be motivated by commercial purposes provided the transfer is gratuitous, i.e., as McLachlin J. (as she then was) put it in Peter v. Beblow, supra, provided it involves “[the] intentional giving to another without expectation of remuneration.” (my emphasis)
+[86] However, while the Courts in Peter v. Beblow and McNamee v. McNamee state categorically that consideration flowing to the donor will vitiate a gift, the issue of split gifts did not arise and it cannot be presumed that the Courts intended to decide the question.
+[87] The Appellants, though, have not brought to my attention (nor have I found) any cases outside the tax law context in which the issue of split gifting has been considered.
+[88] In the Appellants’ first case, Watson v. Bradshaw, (1881) 6 OAR 666, the issue was whether the conditions for making a gift inter vivos had been met. The decision turned on the distinction between gifts inter vivos and gifts mortis causâ and in no way on the fact that the donor had been motivated to make the gift because the donee had nursed him when he had been sick.
+[89] Next, in the City of Dartmouth v. Hoque et al., (1981) 126 DLR (3d) 127 (NSSCAD) the issue was whether the deed transfer tax was payable on a transfer of real property between spouses. The transferred property was subject to a mortgage and the mortgage was assumed by the transferee spouse. The question to be decided by the Court was whether the transferee spouse had given any consideration for the transfer. The Court of Appeal held that despite the assumption of the mortgage, no consideration for the transfer was paid and the transfer was a gift, with the result that no deed transfer tax was payable. It seems implicit in the Court’s finding that, if the transfer had been found to have been made for consideration, that it would not have been a gift and would not have qualified for the exemption from the deed transfer tax. Therefore, this case does not support the Appellants’ argument that the receipt of consideration does not vitiate a gift at common law.
+[90] Two other cases cited by the Appellants, McNamee (supra) and V.J.F. v. S.K.W., 2016 BCCA 186, deal with the distinction between motive and intention and whether the donors of the alleged gifts in those cases had the requisite intention to make a gift. Those cases do not address the issue of split gifts either.
+[91] Finally, in Neville v. National Foundation for Christian Leadership, 2013 BCSC 183 (affirmed 2014 BCCA 38), the plaintiffs were seeking a return of amounts donated by them to a charity linked to Trinity Western University, where the plaintiffs’ daughter was a student. Those donations had previously been held by this Court and the Federal Court of Appeal not to be gifts and therefore not eligible for charitable donation tax credits because the plaintiffs had received bursaries for their daughter in return for the donations: Coleman et al v. Canada, 2010 TCC 109 and Ballard et al v. Canada, 2011 FCA 82.
+[92] The plaintiffs also brought an action in the B.C. Supreme Court seeking, inter alia, a return of the donations from the charity on the basis of unjust enrichment. While the B.C. Supreme Court did make a finding that the transfers were gifts at common law, there was no dispute before the Court that the purported donations were gifts at common law and the issue of whether consideration had been received for the transfers was not argued by the parties nor addressed by the Court. The Court simply stated at paragraph 26 of its decision that:
+There is really no doubt based on the evidence adduced before me that the donations were gifts in the sense that “there is a delivery of the gift and … the person to whom the gift has been made accepts”. I do not understand either party to contest that proposition.
+[93] It should be noted that the action in Neville was commenced before the decisions by this Court and the Court of Appeal in Coleman et al and Ballard et al, respectively (supra), and that the original purpose of the action was to obtain a declaration that the purported donations were gifts at common law, a declaration that the plaintiffs understood would be binding on this Court. In Neville, the Court stated that:
+The significance of the declaration that the donations were gifts has, it seems to me, all but disappeared in the light of the decisions of the Tax Court and Federal Court of Appeal that the donations were not a charitable gift for the purposes of the Income Tax Act. (at para 21)
+[94] The Court in Neville was not asked to rule on the question of split gifts, and the case cannot be taken as authority for the proposition that the common law recognizes split gifts.
+[95] The tax jurisprudence is likewise unsettled in respect of the question whether the receipt of any consideration at all by a donor vitiates a gift at common law.
+[96] In French v. The Queen, 2016 FCA 64, the Federal Court of Appeal reviewed a number of its earlier decisions and commented that those cases were not conclusive of the question. In several of those cases, the Court appeared to implicitly accept that split gifts could be made. None of those cases, though, directly addressed the issue.
+[97] On the other hand, the Federal Court of Appeal has accepted the general proposition that any consideration at all received in relation to a gift vitiates the gift at common law. in Friedberg, the Court adopted the following definition of “gift”:
+[…] a gift is a voluntary transfer of property owned by a donor to a donee in return for which no benefit or consideration flows to the donor (at page 6032).
+[98] Also, in Webb v. The Queen, 2004 Carswell Nat 3169, Bowie J stated:
+[16] Much has been written on the subject of charitable donations over the years. The law, however, is in my view quite clear. I am bound by the decision of the Federal Court of Appeal in The Queen v. Friedberg among others. These cases make it clear that in order for an amount to be a gift to charity, the amount must be paid without benefit or consideration flowing back to the donor, either directly or indirectly, or anticipation of that. The intent of the donor must, in other words, be entirely donative. (at para. 16)
+[99] It is not necessary, however, for me to decide whether a split gift could have been made for the purposes of the Act as it read at the time of the transactions in issue, since I have come to the conclusion that the facts in these cases would not support a finding that a split gift had been made.
+[100] Split gifts require that the gift portion of a transaction be separated from the non-gift portion, and that the gift portion be supported by donative intent. In Maréchaux, Woods J. found that it would not be appropriate to allow a charitable donation tax credit for the taxpayer’s cash outlay because the transfer to the Foundation could not be split into two transactions and no part of the transfer was made with donative intent. In French, Noel J. noted that the Federal Court of Appeal had endorsed this conclusion, as well:
+In upholding the Tax Court’s decision, denying the tax credit claimed, this Court endorsed paragraph 49 of Woods J.’s reasons holding that the $20,000 portion of the transfer lacked the requisite donative intent (Maréchaux FCA at para. 12):
+There is just one interconnected transaction here, and no part of it can be considered a gift that the appellant gave in expectation of no return. (at para 38) [my emphasis]
+Civil Law
+[101] Although the civil law of Quebec recognizes various categories of partial gifts, including remunerative gifts, donative intent is still required in respect of the portion of a transfer that is purported to be a gift.
+[102] The requirement for donative intent would appear to be the same under Quebec civil law as under the common law in order for a transfer to qualify as a gift.
+[103] Article 1806 of the Civil Code of Quebec (“CcQ”) sets out that a transfer of property to a donee must be done by gratuitous title in order to be a gift. Article 1806 reads as follows:
+1806. Gift is a contract by which a person, the donor, transfers ownership of the property by gratuitous title to another person, the donee; a dismemberment of the right of ownership, or any other right held by a person, may also be transferred by gift.
+Gifts may be inter vivos or mortis causa.
+[104] Article 1381 of the CcQ defines the notion of “gratuitous title” as follows:
+1381. A contract is onerous when each party obtains an advantage in return for his obligation.
+When one party obligates himself to the other for the benefit of the latter without obtaining any advantage in return, the contract is gratuitous.
+[105] It follows that gratuitous title comprises two elements, namely an intention to benefit another person (i.e. donative intent) and the absence of any advantage in return.
+[106] The requirement for donative intent was considered by the Quebec Court of Appeal in Martin v. Dupont, 2016 QCCA 475 at paragraphs 28 to 31 of the decision:
+[TRANSLATION]
+[28] Thus, the donation requires that two elements be present: the material element and the mental element.
+... there is no liberality in the absence of the intellectual or mental element, the animus donandi, and in the absence of the material element, the transfer of value without an equivalent consideration. Tétrault c. Gagnon, 1962 CanLII 82 (SCC), [1962] R.C.S. 766, 770
+[29] The mental element, or animus donandi, has been defined as a “real desire to alienate property for the benefit of a third person, without deriving any advantage.” Deschênes c. Gagné, J.E. 2007-412 (C.A.), 2007 QCCA 123 (CanLII), paragr. 69-70.
+[30] The donation thus implies the intent to grow poorer without receiving anything in return, apart from expecting gratitude from the donee. Sevgi Kelci, « Fascicule 15 : Donations » dans Jurisclasseur Québec : Successions et libéralités, Montréal, LexisNexis, feuilles-mobile, à jour en février 2015, fasc. 15 au paragr. 15; Québec (Procureur général) c. Mascouche (Ville de), J.E. 2012-1257 (C.A.), 2012 QCCA 1099 (CanLII). It is also imperative that the donor derives no material benefit.
+[31] Both elements are mandatory; the absence of one of them is sufficient to conclude that the act is not a donation.
+[107] Remunerative gifts are dealt with in Article 1810 of the CcQ. It provides that:
+A remunerative gift or a gift with a charge constitutes a gift only for the value in excess of that of the remuneration or charge.
+[108] Article 1810 does not do away with the requirement that the gift portion of the transfer be done with donative intent. It would appear that donative intent in civil law, as in common law, is always an essential element of a gift, even a partial gift.
+[109] Therefore, whether the civil law or common law meaning of the word “gift” in 118.1 is used, the result would be the same in these cases because none of the Appellants had the requisite donative intent with respect to the cash portion of the amounts transferred to the Foundation. Just as in Maréchaux, in each case before me there was just one interconnected transaction and no part of it can be considered a gift that was given in expectation of no return.
+[110] As Woods J. said in Maréchaux, “the financing was not provided in isolation to the Donation. The two were inextricably tied together by the relevant agreements.” This conclusion is supported by the provisions of the loan agreement each Appellant entered into. According to those agreements, each Appellant’s entire donation to the Foundation was made conditional upon the approval of the loan by the Lender. Section 2.2 of the loan agreement reads, in part:
+If this Loan Application is not accepted …, the Pledge Deposit shall be immediately returned to the Borrower, without interest or deduction. If this Loan Application is accepted with that period, then the Lender agrees to advance the Loan Amount to the Borrower and the Borrower irrevocably authorizes and directs the immediate delivery of the Loan Amount… and the Pledge Deposit to or to the order of the Charity on behalf of the Borrower…
+(my emphasis)
+[111] In light of the contractual arrangements entered into by the Appellants, it cannot be said that any portion of their donations to the Foundation was made with donative intent.
+Consents
+[112] I am unable to accept the Appellants’ argument that the Respondent’s positon concerning the Appellants’ lack of donative intent constitutes an abuse of process in light of the Consent Judgments issued by the Court in Bartlett, Baldwin, Culverson and Cucciniello. I cannot see that the consents that were appended to the Judgments contain an admission by the Respondent concerning the taxpayers’ donative intent and such an admission cannot be inferred from the relief to which the Respondent consented. The Consents relate to donations made after December 20, 2002 and to which the split gifting amendments would apply. After that date, certain transfers of property that were made without donative intent may still qualify as gifts despite the receipt of consideration by the transferor for the transfer, provided that the consideration received does not exceed 80% of the fair market value of the property that is transferred. Subsection 248(30) reads as follows:
+(30) The existence of an amount of an advantage in respect of a transfer of property does not in and by itself disqualify the transfer from being a gift to a qualified donee if
+(a) the amount of the advantage does not exceed 80% of the fair market value of the transferred property; or
+(b) the transferor of the property establishes to the satisfaction of the Minister that the transfer was made with the intention to make a gift.
+[113] Thus it appears that where the 80% threshold is not crossed, the lack of donative intent is no longer a bar to allowing charitable donation tax credits for transfers to qualified donees. Therefore, it cannot be said that the issue of donative intent was necessarily decided by the Judgments based on the consents. Therefore, the Respondent’s reliance on the donative intent argument in the cases before me does not constitute an abuse of process.
+Conclusion
+[114] Since no part of the transfers of property made by the Appellants to the Foundation was made with donative intent, they are not entitled to charitable donation tax credits. Given this conclusion, it is not necessary for me to address the alternative argument relating to the GAAR.
+[115] For all of these reasons, the appeals are dismissed, with one set of costs to the Respondent.
+Signed at Ottawa, Canada this 9th day of April 2018.
+“B.Paris”
+Paris J.
+CITATION:
+2018 TCC 66
+COURT FILE NOs.:
+2012-423(IT)G, 2012-1995(IT)G, 2013-36(IT)G and 2012-562(IT)G
+STYLE OF CAUSE:
+GEORGE MARKOU, GERRY PETRIELLO, SIMONETTA OLIVANTI, WILLIAM HENDERSON AND HER MAJESTY THE QUEEN
+PLACE AND DATES OF HEARING:
+Toronto, Ontario
+March 27 and 28, 2017
+REASONS FOR JUDGMENT BY:
+The Honourable Justice B. Paris
+DATE OF JUDGMENT:
+April 9, 2018
+APPEARANCES:
+Counsel for the Appellant:
+Guy Du Pont, Ad.E.
+Michael H. Lubetsky
+Reuben Abitbol
+Counsel for the Respondent:
+Arnold Bornstein
+John Grant
+Lorraine Edinboro
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Guy Du Pont
+Michael H. Lubetsky
+Reuben Abitbol
+Firm:
+Davies Ward Phillips & Vineberg LLP
+Toronto, Ontario
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada

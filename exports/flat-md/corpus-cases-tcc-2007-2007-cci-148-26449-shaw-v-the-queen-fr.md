@@ -1,0 +1,162 @@
+---
+title: "Shaw v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26449/index.do"
+last_modified: "2007-03-15"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 CCI 148"
+citation2: ""
+neutral_citation: "2007 CCI 148"
+decision_date: "2007-03-15"
+language: "fr"
+item_id: "26449"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3148
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T09:52:19.279000+00:00"
+cases_cited_count: 1
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "28695f41a38aaf0e6da52b8893f4215848c69a5c7e619a01ca5378ac9aba919c"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Shaw v. The Queen
+
+- Citation: 2007 CCI 148
+- Decision date: 2007-03-15
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3148, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Shaw v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-03-15
+Référence neutre
+2007 CCI 148
+Numéro de dossier
+2006-1671(IT)I
+Juges et Officiers taxateurs
+Joe E. Hershfield
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2006-1671(IT)I
+ENTRE :
+TIMOTHY C. SHAW,
+appelant,
+Et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 1er mars 2007, à Toronto (Ontario).
+Devant : L’honorable juge J.E. Hershfield
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimée :
+Me Sonia Akibo-Betts
+____________________________________________________________________
+JUGEMENT
+L’appel de la nouvelle cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2004 est accueilli et la nouvelle cotisation est renvoyée au ministre du Revenu national pour nouvel examen et nouvelle cotisation pour les raisons énoncées dans les motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 15e jour de mars 2007.
+« J.E. Hershfield »
+Juge Hershfield
+Traduction certifiée conforme
+ce 27e jour de février 2008.
+D. Laberge, LL.L.
+Référence : 2007CCI148
+Date : 20070315
+Dossier : 2006-1671(IT)I
+ENTRE :
+TIMOTHY SHAW,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+(VERSION RÉVISÉE DES MOTIFS PRONONCÉS
+À L’AUDIENCE, LE 8 MARS 2007
+Le juge Hershfield
+[1] Il s’agit d’un appel d’une nouvelle cotisation établie à l’égard de l’année d’imposition 2004 de l’appelant, par laquelle la pleine déduction de paiements effectués au titre de la pension alimentaire versée à la femme de l’appelant, dont celui‑ci s’était séparé en 1998, a été refusée.
+[2] Le montant dont la déduction était demandée s’élevait à 81 150 $. Cela comprenait un montant de 5 200 $ pour des paiements qui, comme on l’a admis à l’audience, avaient été effectués en 2003. Lorsqu’on l’a renvoyé à la disposition de la loi autorisant les déductions relatives à une pension alimentaire, l’appelant a reconnu que l’alinéa 60b) de la Loi de l’impôt sur le revenu (la « Loi ») n’autorisait pas la déduction de la pension alimentaire payée avant la fin de l’année au cours de laquelle la déduction des montants y afférents était demandée si ces montants étaient déductibles au cours d’une année antérieure. Par conséquent, puisque le montant de 5 200 $ avait été payé en 2003, ce montant n’était pas déductible en 2004 s’il était déductible en 2003. En l’espèce, la déductibilité des montants se rattachant à la pension alimentaire pour chacune des années 2003 et 2004 dépend également de la question de savoir si ces montants ont été payés aux termes d’un accord particulier qui, selon l’appelant, était un accord écrit. Par conséquent, si la pension alimentaire versée en 2003 est déductible du fait qu’elle a été versée aux termes de cet accord, la déduction du montant y afférent ne peut pas être demandée en 2004 étant donné que ce montant aurait été déductible au cours de l’année précédente.
+[3] Sur le reste du montant dont la déduction a été demandée, l’intimée a uniquement admis un montant de 61 650 $, de sorte qu’un montant de 14 300 $ est encore en litige. Ce montant se rapporte aux onze mois (du mois de janvier au mois de novembre 2004) pour lesquels l’appelant a demandé la déduction d’un montant mensuel de 6 300 $, l’intimée ayant admis un montant de 5 000 $ par mois.
+[4] Il n’est pas contesté que, du mois de janvier au mois de novembre 2004, l’appelant a payé le montant mensuel additionnel de 1 300 $. Il s’agit uniquement de savoir si ce montant additionnel a été payé aux termes d’un accord écrit comme l’exige le paragraphe 56.1(4) dans lequel l’expression « pension alimentaire » (le montant déductible en vertu de l’alinéa 60b)) est définie comme un montant à recevoir aux termes d’une ordonnance ou d’un accord écrit.
+[5] Il convient d’examiner quatre accords.
+[6] Le premier accord est un accord de séparation préparé par l’avocat de l’appelant au mois de décembre 1998. Cet accord n’a jamais été signé par l’appelant ni par sa femme, mais, selon le témoignage de l’appelant, il s’agissait d’un accord aux termes duquel il était obligé d’effectuer des paiements à compter du mois de janvier 1999. Les dispositions pertinentes, en ce qui concerne la pension alimentaire, figuraient au paragraphe 6.1 de l’accord de 1998, et prévoyaient les paiements suivants :
+[traduction]
+a) à compter du 1er janvier 1999, et le 1er jour de chaque mois subséquent, un montant de 3 500 $ par mois, jusqu’au 1er décembre 1999;
+b) au plus tard le 31 décembre 1999 inclus, un montant de 18 000 $;
+c) à compter du 1er janvier 2000, et le 1er jour de chaque mois subséquent, un montant de 5 000 $ par mois, jusqu’au 1er août 2003;
+d) à compter du 1er septembre 2003, et le 1er jour de chaque mois subséquent, un montant de 6 300 $ par mois.
+Ces dispositions ont été observées jusqu’à ce qu’un accord, en 2004, porte le montant de pension alimentaire à 6 650 $ par mois.
+[7] Un deuxième accord a été conclu au mois d’avril 2000. Cet accord a été qualifié d’accord provisoire; il prévoyait une pension provisoire s’élevant à 5 000 $ par mois. Cet accord est conforme à l’accord de 1998, qui prévoyait qu’à compter du 1er janvier 2000, la pension alimentaire devait passer de 3 500 $ à 5 000 $ par mois. L’accord, qui a été conclu au mois d’avril 2000, fait mention des 5 000 $ par mois à titre d’obligation future et confirme que les paiements mensuels de 5 000 $, du mois de janvier au mois de mars 2000, doivent être considérés comme ayant été payés conformément à l’accord du mois d’avril 2000. L’appelant a reconnu que cet accord avait été conclu en vue d’assurer la déduction fiscale de 5 000 $ par mois. Cela donne à entendre qu’il craignait que l’accord de 1998 n’était peut‑être pas suffisant.
+[8] L’accord suivant est l’accord de séparation qui a été conclu et signé au mois de novembre 2004, lequel prévoyait une pension alimentaire de 6 650 $ par mois à compter du 1er décembre 2004. Cet accord fait mention de paiements ultérieurs à la période visée par l’appel et ne fait pas mention de l’obligation relative aux paiements avant le 1er décembre 2004. Je note également que cet accord semble avoir été rédigé à l’aide d’une ébauche antérieure sur laquelle des modifications avaient été effectuées à la main dans la version finale du mois de décembre 2004. L’ébauche antérieure semble avoir été préparée au mois de septembre 2003, mais elle ne comporte pas la disposition pertinente figurant dans l’accord de 1998, à savoir l’alinéa 6.1d) portant sur la majoration de la pension alimentaire, de 5 000 à 6 300 $ par mois. Cette ébauche antérieure n’a jamais été signée ni acceptée et il n’y a pas été donné suite.
+[9] Un quatrième accord a été signé le 5 janvier 2006. Cet accord, signé par l’appelant et par sa femme, fixe l’obligation alimentaire à 6 300 $, du mois de septembre 2003 au mois de novembre 2004. Cela correspond à l’obligation énoncée dans l’accord de 1998. Toutefois, cet accord de 2006 ne dit pas que l’obligation existe conformément à cet accord de 1998. Il dit plutôt que ces sommes, qui ont déjà été payées, doivent être considérées comme ayant été payées aux termes de l’accord de 2006. Si l’accord avait été signé cinq jours plus tôt, soit en 2005, cela aurait aidé l’appelant. Un accord conclu en 2005 peut prévoir que les paiements effectués au cours d’une année antérieure (c’est‑à‑dire les paiements effectués en 2004) sont réputés être des paiements effectués aux termes d’un accord écrit, même si cet accord a été conclu par la suite. Le paragraphe 60.1(3) autorise cette application rétroactive, mais uniquement pour une période antérieure d’un an. L’accord de 2006 a donc été conclu cinq jours trop tard pour aider l’appelant.
+[10] L’appelant a déclaré avoir examiné la question avec des représentants de l’Agence du revenu du Canada (l’« ARC ») pendant un an et que personne ne l’avait informé de la chose. Il était outragé lorsqu’il a appris que l’ARC aurait pu régler toute l’affaire fort simplement en l’informant en temps opportun du choix prévu au paragraphe 60.1(3). Je suis d’accord avec l’appelant. L’ARC devrait aider les contribuables en pareil cas. La femme de l’appelant a déclaré les montants qui ont été déduits et elle reconnaissait tout à fait que l’appelant était tenu de lui verser les 6 300 $ selon les modalités par lesquelles ce montant a été payé. Je ne vois absolument pas pourquoi l’ARC n’a pas mieux aidé l’appelant.
+[11] Néanmoins, l’appelant soutient que le montant en question (les 6 300 $ par mois qui ont été déduits par opposition aux 5 000 $ par mois qui ont été admis pour les mois de janvier à novembre 2004) a été payé aux termes de l’accord de 1998, qui était un accord écrit, bien qu’il n’ait pas été signé.
+[12] L’intimée soulève la question de savoir si, en 1998, il existait un accord et soutient que même s’il en existait un il ne s’agit pas d’un accord écrit s’il n’est pas signé. L’avocate de l’intimée a soumis à l’appui de sa position deux décisions faisant autorité, sur lesquelles je reviendrai ci‑dessous dans les présents motifs.
+[13] Quant à la première question, à savoir si le document de 1998 est un accord, l’intimée soutient qu’il ne s’agit que d’une ébauche ou d’un projet d’accord qui n’est jamais devenu un accord véritable. L’avocate de l’intimée affirme que la lettre d’accompagnement par laquelle l’accord de 1998 a été envoyé à l’appelant indique que cet accord lui était transmis pour examen et commentaires. Cela donne à entendre qu’il ne s’agissait que d’une ébauche ou d’un projet d’accord. En outre, si ce document devait être un accord, pourquoi l’ont‑ils incorporé dans l’accord du mois d’avril 2000, qui portait sur les paiements effectués au titre de la pension alimentaire et visait à assurer que ces paiements soient effectués aux termes d’un accord écrit? S’ils voulaient que l’accord de 1998 soit un « accord écrit », ou s’ils croyaient que l’accord de 1998 était un « accord écrit », pourquoi avaient‑ils besoin de l’accord de 2000? L’intimée soutient également que l’accord de 2004, dans lequel il n’est pas fait mention de l’obligation de 6 300 $, ainsi que l’accord de l’an 2000, constituent les seuls accords. Quant à l’accord de 2006, l’avocate de l’intimée affirme qu’il ne dit pas que les paiements s’élevant à 6 300 $ étaient effectués aux termes de l’accord de 1998, parce que les parties reconnaissent que cet accord n’existait pas.
+[14] J’examinerai d’abord la question de savoir si, pour constituer un accord écrit aux termes duquel un paiement est effectué, un accord écrit doit être signé. L’intimée invoque la décision Paré c. R.[1]. Dans cette affaire, la Couronne avait pris la position selon laquelle un résumé écrit des ententes auxquelles la médiation avait donné lieu constituait un accord écrit même s’il n’était pas signé. La position prise par la Couronne découlait en bonne partie, semble‑t‑il, du fait que les dispositions concernant la pension alimentaire énoncées dans ce résumé écrit avaient été observées. Dans la décision Paré, le juge a fait remarquer que le résumé écrit prévoyait expressément qu’il ne liait pas les parties. Cela crée une distinction importante d’avec la présente affaire.
+[15] Néanmoins, dans la décision Paré, le juge a ensuite examiné d’autres décisions susceptibles de laisser planer un doute au sujet de la pertinence d’une telle distinction. Le juge cite deux décisions de la Commission de révision de l’impôt dans lesquelles Guy Tremblay (« M. Tremblay ») conclut clairement que l’observation d’un accord écrit non signé prouve uniquement l’existence d’un contrat verbal[2]. Le raisonnement sur lequel est fondé cette conclusion est énoncé de cette façon dans la décision Jacoby. Lorsque le législateur prend la peine de parler d’un « accord écrit » et prévoit que seul un accord écrit peut prendre la place d’une ordonnance rendue par un tribunal compétent, il faut supposer que l’accord écrit doit nécessairement comporter un caractère formel comparable comme, au moins, le fait d’être signé. Selon le raisonnement qui a été fait, il serait redondant de préciser que l’accord doit être consigné par écrit et qu’il doit être signé. Ces conclusions ne sont pas tirées sans une analyse réfléchie d’un certain nombre d’arguments donnant à entendre que les mots « accord écrit » ne comportent pas en eux-mêmes une exigence quant à la signature. Ainsi, il est fait mention de Halsbury’s Laws of England et de la Loi d’interprétation ainsi que des dispositions de la Loi et de son règlement d’application dans lesquels il est expressément mentionné qu’il faut des signatures[3]. De telles mentions auraient pu nous amener à conclure que, pour être un contrat écrit, un contrat n’a pas à être signé. M. Tremblay conclut néanmoins qu’il faut interpréter strictement la disposition en question pour donner effet à son objet.
+[16] Je suis loin d’être convaincu que, pour donner effet à son objet, il faut donner aux mots de la disposition en question une interprétation aussi stricte. C’est en partie l’expérience que j’ai acquise au sein de la Cour qui m’amène à tirer cette conclusion. J’ai entendu les témoignages vindicatifs, haineux, tout à fait contradictoires et peu dignes de foi de couples séparés, et il est clair que la gestion des affaires de pension alimentaire serait impossible si ce n’était de l’exigence voulant qu’un critère précis s’applique à l’obligation juridique véritable régissant la pension alimentaire. Cela en soi n’exige pas que l’on tire une conclusion selon laquelle le législateur doit avoir voulu qu’un sens clair, moins formaliste, des mots « accord écrit » soit écarté. Il est clairement possible d’avoir un accord écrit non signé exécutoire aux termes duquel des paiements doivent être faits, et il est clairement possible de donner effet à un tel accord, un accord qui ne va pas à l’encontre du critère précis que le législateur entendait appliquer. De fait, une interprétation de la Loi qui permet l’obtention des résultats mutuellement recherchés dans les cas où les parties se fondent sur les dispositions d’un accord écrit qu’elles considèrent toutes deux comme légalement exécutoire, que cet accord soit signé ou non, est à coup sûr une interprétation conforme à l’intention du législateur, comme on doit le supposer. Il n’est pas nécessaire d’établir un critère plus précis dans des cas comme celui‑ci, lorsqu’il n’y a jamais eu de désaccord ou de preuve contradictoire au sujet de ce que les parties voulaient, en ce qui concerne les obligations alimentaires. En fin de compte, une signature ne fait en somme que manifester l’intention légale d’être lié par les obligations consignées par écrit auxquelles cette signature se rapporte. La nécessité d’une telle preuve dépend sans aucun doute des faits de chaque affaire. Selon cette approche, je suis d’avis que l’accord écrit de 1998 est un accord écrit aux termes duquel la pension alimentaire en question était payable au cours de la période ici en cause.
+[17] Je ne souscris pas à l’avis selon lequel la disposition en question doit être interprétée si strictement qu’elle exige que l’accord soit dans tous les cas signé. Je tiens à faire remarquer qu’une signature, si elle est nécessaire, n’a pas à figurer dans le document écrit lui‑même, dans la mesure où l’on peut s’y reporter ou la joindre au document. Il ressort clairement d’une myriade de décisions (remontant, au Canada du moins, à l’arrêt O’Donohoe v. Stammers[4] de la Cour suprême du Canada) qu’un contrat n’a pas à être consigné dans un seul document ou selon une présentation particulière. Un contrat peut être composé d’écrits distincts, mais liés les uns aux autres, des documents signés et des documents non signés peuvent être lus ensemble et un témoignage de vive voix peut être admis en vue de montrer le lien existant entre les documents, lorsqu’il peut être conclu à l’existence de ce lien selon une inférence équitable et raisonnable. De tels documents, rassemblés afin d’inclure une signature, forment un contrat écrit, et en outre un contrat écrit signé. Même un chèque signé par l’appelant se rapportant au montant mensuel de 6 300 $ afférent à la pension alimentaire constituerait une signature qui peut uniquement se rapporter à l’accord de 1998. Un bordereau de dépôt bancaire signé ou l’endossement d’un chèque se rapportant à la pension alimentaire constituerait une signature de la femme de l’appelant, laquelle, selon une inférence équitable en l’espèce, se rattacherait, pourrait‑on conclure, à l’accord de 1998. Il existe une preuve non contredite de paiements par chèque qui ont été déposés conformément à l’obligation dont il avait été mutuellement convenu, laquelle avait été consignée par écrit dans l’accord de 1998. De plus, il y a la lettre signée que la femme de l’appelant a envoyée à l’ARC au mois de novembre 2005, dans laquelle il est reconnu que des paiements ont été effectués en 2004 au titre de la pension alimentaire, lesquels englobaient les paiements de 6 300 $. Selon une inférence équitable, une telle signature se rattache également à l’accord de 1998. Par conséquent, en droit, il m’est loisible de conclure que l’accord de 1998 se rapportant aux obligations alimentaires était un accord écrit comportant les signatures requises et telle est la conclusion que je tire.
+[18] Je n’ai trouvé, dans les décisions fiscales, aucune mention directe de la doctrine de la jonction de documents, comme elle est énoncée dans l’arrêt O’Donohoe, mais je note que dans la décision Grant v. Canada[5], la Cour a combiné un chèque et la lettre d’une avocate pour conclure à l’existence d’un accord écrit.
+[19] Dans la décision Foley v. Canada[6], la Cour a conclu que les lettres échangées entre des avocats constituaient un accord écrit aux fins de la déductibilité en vertu de l’alinéa 60b) de la Loi. Cette décision mettait davantage l’accent sur des engagements écrits qui ont légalement force obligatoire et elle mettait moins l’accent sur les formalités qui étaient peut‑être requises lorsque le droit fiscal exigeait un « accord écrit de séparation ».
+[20] En l’espèce, il y a, à mon avis, un accord écrit, en 1998, quant à la pension alimentaire payable pour la période allant du mois de janvier au mois de novembre 2004. Les parties voulaient être légalement liées par la disposition de ce document, qui prévoyait à l’égard des paiements effectués au titre de la pension alimentaire [traduction] « à compter du 1er septembre 2003, et le 1er jour de chaque mois subséquent, un montant de 6 300 $ par mois ». L’accord de l’an 2000 n’a pas à indiquer, et ne doit pas être considéré comme indiquant, une négation de cette obligation compte tenu de la conduite des parties, et notamment du fait que des chèques ont été signés et que les deux parties ont produit des déclarations de revenus qui étaient sur tous les points conformes à la disposition établie en 1998 et au témoignage non contredit de l’appelant. L’accord de l’an 2000 n’est pas incompatible avec l’accord de 1998 et la preuve n’étaye pas l’idée selon laquelle l’accord de l’an 2000 devait remplacer l’accord de 1998 ou éclipser son existence. Le fait que cet accord visait à assurer la déduction des paiements de 5 000 $ était fondé sur l’hypothèse voulant qu’il soit peut‑être nécessaire d’avoir un tel document. Je dois essentiellement trancher la question de savoir si cette hypothèse était exacte ou si elle était erronée. Le fait qu’il s’agissait d’une hypothèse erronée ne doit pas influer sur ma conclusion, à savoir que les parties voulaient, pendant la période ici en cause, être légalement liées par l’accord écrit de 1998 en ce qui concerne les obligations alimentaires. En outre, la preuve montre que l’accord de l’an 2000 n’a pas été observé après le mois d’août 2003. C’est l’accord de 1998 qui l’a été. Cela ne sert qu’à confirmer le témoignage de l’appelant, selon lequel on n’a jamais voulu que l’accord de l’an 2000 régisse les paiements, après le 31 août 2003.
+[21] Quant à l’accord de l’année 2004, je ne fais aucune inférence défavorable à partir du fait qu’une ébauche antérieure de cet accord ne prévoyait pas la hausse des paiements effectués au titre de la pension alimentaire, de 5 000 à 6 300 $ par mois. L’accord de 2004 s’applique à compter du moment de sa conclusion. Les paiements à effectuer au titre de la pension alimentaire ont continué à être effectués, au taux de 6 300 $ par mois, aux termes de l’accord de 1998, et ce, jusqu’au 1er décembre 2004, lorsque le montant de la pension alimentaire à payer à l’avenir a été porté à 6 650 $ par mois, aux termes de l’accord de 2004.
+[22] Quant à l’accord de l’année 2006, il s’agit d’une tentative infructueuse pour changer la réalité, laquelle visait à assurer l’application d’une disposition déterminative de la Loi. La réalité n’a pas changé. Le paiement a de fait été effectué aux termes de la disposition consignée par écrit en 1998, régissant les paiements à effectuer au titre de la pension alimentaire, du mois de janvier au mois de novembre 2004. Cette disposition isolée constituait un accord écrit qui devait légalement avoir force obligatoire. La disposition a été remplacée ou répudiée le 1er décembre 2004 seulement, lorsque l’accord de 2004 a été conclu. C’est tout ce qu’il faut pour permettre à l’appelant de tirer parti de la déduction demandée, sauf pour le montant de 5 200 $ mentionné au début des présents motifs.
+[23] L’appel est accueilli en conséquence.
+Signé à Ottawa, Canada, ce 15e jour de mars 2007.
+« J.E. Hershfield »
+Juge Hershfield
+Traduction certifiée conforme
+ce 27e jour de février 2008.
+D. Laberge, LL.L.
+RÉFÉRENCE : 2006CCI148
+No DU DOSSIER DE LA COUR : 2006-1671(IT)I
+INTITULÉ : Timothy Shaw
+c.
+Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Le 1er mars 2007
+MOTIFS DU JUGEMENT : L’honorable juge J.E. Hershfield
+DATE DU JUGEMENT : Le 15 mars 2007
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimée :
+Me Sonia Akibo-Betts
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] 2003 CCI 869 (procédure informelle).
+[2] Milburn v. M.N.R., 79 DTC 24, et Jacoby v. M.N.R., 81 DTC 843 (Comm. de rév. de l’impôt).
+[3] Jacoby, précitée, paragraphes 5.04.5 et 5.04.6.
+[4] (1884), 11 SCR 358; voir également Doran v. McKinnon (1916), 53 SCR 609.
+[5] [2001] 2 CTC 2474.
+[6] [2000] 4 CTC 2016.

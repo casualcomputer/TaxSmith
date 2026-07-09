@@ -1,0 +1,295 @@
+Title: Phoenix Estates Ltd. v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27082/index.do
+Corpus path: corpus/cases/tcc/2006/2006-tcc-206-27082-phoenix-estates-ltd-v-the-queen-en.md
+Document type: case_law
+Last modified: 2006-03-31
+
+# Phoenix Estates Ltd. v. The Queen
+
+- Citation: 2006 TCC 206
+- Decision date: 2006-03-31
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 952, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Phoenix Estates Ltd. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-03-31
+Neutral citation
+2006 TCC 206
+File numbers
+2003-3121(IT)G
+Judges and Taxing Officers
+David W. Beaubier
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2003-3121(IT)G
+BETWEEN:
+PHOENIX ESTATES LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+____________________________________________________________________
+Appeal heard together on common evidence with the appeals of Phoenix Estates Ltd., (2003-3277(GST)I), Ronald Coutre, (2003-3274(IT)G) and Cori Coutre (2003-3275(IT)I) on March 15 and 16, 2006
+at Victoria, British Columbia
+Before: The Honourable Justice D.W. Beaubier
+Appearances:
+Counsel for the Appellants:
+D. Laurence Armstrong
+Counsel for the Respondent:
+Susan Wong
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act for the 1998 taxation year is allowed and the reassessment is referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached Reasons for Judgment.
+The Respondent is awarded a full set of taxable costs respecting this appeal.
+Signed at Saskatoon, Saskatchewan, this 31st day of March, 2006.
+"D.W. Beaubier"
+Beaubier J.
+Docket: 2003-3277(GST)I
+BETWEEN:
+PHOENIX ESTATES LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+____________________________________________________________________
+Appeal heard together on common evidence with the appeals of Phoenix Estates Ltd., (2003-3121(IT)G), Ronald Coutre, (2003-3274(IT)G) and Cori Coutre (2003-3275(IT)I) on March 15 and 16, 2006
+at Victoria, British Columbia
+Before: The Honourable Justice D.W. Beaubier
+Appearances:
+Counsel for the Appellants:
+D. Laurence Armstrong
+Counsel for the Respondent:
+Susan Wong
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment made under the Excise Tax Act, dated August 6, 2003 and bearing number 11CU-GL031551758232, is allowed and this matter is referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached Reasons for Judgment.
+Signed at Saskatoon, Saskatchewan, this 31st day of March, 2006.
+"D.W. Beaubier"
+Beaubier, J.
+Docket: 2003-3274(IT)G
+BETWEEN:
+RONALD COUTRE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+____________________________________________________________________
+Appeal heard together on common evidence with the appeals of Phoenix Estates Ltd., (2003-3121(IT)G and 2003-3277(GST)I) and Cori Coutre (2003-3275(IT)I) on March 15 and 16, 2006 at Victoria, British Columbia
+Before: The Honourable Justice D.W. Beaubier
+Appearances:
+Counsel for the Appellants:
+D. Laurence Armstrong
+Counsel for the Respondent:
+Susan Wong
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act for the 1998 taxation year is allowed and the reassessment is referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached Reasons for Judgment.
+Signed at Saskatoon, Saskatchewan, this 31st day of March, 2006.
+"D. W. Beaubier"
+Beaubier, J
+Docket: 2003-3275(IT)I
+BETWEEN:
+CORI COUTRE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+____________________________________________________________________
+Appeal heard together on common evidence with the appeals of Phoenix Estates Ltd., (2003-3121(IT)G and 2003-3277(GST)I) and Ronald Coutre (2003-3274(IT)G) on March 15 and 16, 2006 at Victoria, British Columbia
+Before: The Honourable Justice D.W. Beaubier
+Appearances:
+Counsel for the Appellants:
+D. Laurence Armstrong
+Counsel for the Respondent:
+Susan Wong
+____________________________________________________________________
+JUDGMENT
+The Appellant having withdrawn her appeal, the appeal from the reassessment made under the Income Tax Act for the 1998 taxation year is dismissed in accordance with the attached Reasons for Judgment.
+Signed at Saskatoon, Saskatchewan, this 31st day of March, 2006.
+"D. W. Beaubier"
+Beaubier, J
+Citation: 2006TCC206
+Date: 20060331
+Docket: 2003-3121(IT)G
+BETWEEN:
+PHOENIX ESTATES LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+Docket: 2003-3277(GST)I
+AND BETWEEN:
+PHOENIX ESTATES LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+Docket: 2003-3274(IT)G
+AND BETWEEN:
+RONALD COUTRE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+Docket: 2003-3275(IT)I
+AND BETWEEN:
+CORI COUTRE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent
+REASONS FOR JUDGMENT
+Beaubier, J.
+[1] These appeals were heard at Victoria, British Columbia on March 15 and 16, 2006. At the opening of the hearing of these matters Cori Coutre withdrew her appeal, 2003-3275(IT)I. It was agreed by counsel that the remaining appeals would be heard together on common evidence. Ronald Coutre; Tony Brcic, a civil engineer, qualified to give expert evidence in which sewers are constructed and developed in British Columbia, Alberta and Saskatchewan; and the Appellants' expert real estate appraiser, Gary Blake, testified for the Appellants. The Respondent's expert real estate appraiser, Bengy Uppal, and Michael Baxter, City Engineer for the City of Langford, British Columbia, testified for the Respondent.
+[2] From appeal 2003-3121(IT)G, paragraphs 4 to 9 inclusive and assumptions 10(b) to (k) inclusive and paragraph 11 of the Reply to the Notice of Appeal where admitted by the Appellants, paragraphs 6 to 12 inclusive of that Reply read:
+...
+6. In computing income for the 1998 taxation year, the Appellant reported proceeds of disposition in the amount of $2,000.00 with respect to real property situated at 596 Atkins Road ("Lot A") and 628 Atkins Road (Lot "B") in Victoria, British Columbia, being $1,000.00 for each lot.
+7. The Minister reassessed the Appellant for the 1998 taxation year on July 16, 2002, to increase the proceeds of disposition by a total of $152,000,00 being comprised of an increase of $72,000.00 with respect to Lot A and an increase of $80,000.00 with respect to Lot B. The Minister also reassessed the Appellant with respect to other amounts which are not the subject of this appeal.
+8. The Appellant filed a Notice of Objection dated October 10, 2002, and received by the Minister on October 11, 2002.
+9. After considering the Appellant's objection, the Minister reassessed the Appellant's 1998 taxation year on August 18, 2003, to decrease the proceeds of disposition from $152,000.00 to $112,000.00. This $40,000.00 decrease represented half of the $80,000.00 in additional proceeds which were originally reassessed with respect to Lot B. The Minister made no other changes.
+10. In so reassessing the Appellant, the Minister relied on the following assumptions:
+(a) the facts stated and admitted in the "Statement of Facts" of this Reply;
+(b) the Appellant is a company incorporated under the laws of British Columbia;
+(c) the Appellant's fiscal year end is September 30, 1998;
+(d) at all material times, the Appellant was in the business of real estate development;
+(e) at all material times, the sole shareholder of the Appellant was Ronald Coutre;
+(f) at all material times, Mr. Coutre's spouse was Coralee (also known as Cori) Coutre;
+(g) prior to May 15, 1998, the Appellant was the sole owner of real property situated at 596 Atkins Road in Victoria, British Columbia ("Lot A");
+(h) prior to May 15, 1998, the Appellant also owned a one-half interest in real property situated at 628 Atkins Road in Victoria, British Columbia ("Lot B");
+(i) prior to May 15, 1998, the remaining one-half interest in Lot B was owned by Malcolm Developments Inc. ("Malcom Developments");
+(j) at all material times, Malcom Developments was at arm's length with the Appellant;
+(k) on May 15, 1998, ownership of Lot A and Lot B was transferred entirely from the Appellant and Malcolm Developments to Mrs. Coutre for consideration of $1,000.00 per lot;
+(l) as of May 15, 1998, the fair market value of Lot A was at least $73,000.00;
+(m) as of May 15, 1998, the fair market value of Lot B was at least $81,000.00;
+(n) the additional proceeds of disposition with respect to Lot A were $72,000.00, being the fair market value of $73,000.00 less the consideration of $1,000.00 already received; and
+(o) the additional proceeds of disposition with respect to the Appellant's one-half interest in Lot B were $40,000.00, being one-half the fair market value of $81,000.00 less one-half of the consideration of $1,000.00 already received.
+11. At all material times, Mr. Coutre was also the sole director of the Appellant.
+B. ISSUES TO BE DECIDED
+12. The issues are as follows:
+(a) whether the fair market value of Lot A was at least $73,000.00 as of May 15, 1998;
+(b) whether the fair market value of Lot B was at least $81,000.00 as of May 15, 1998; and
+(c) whether the Minister properly assessed the Appellant for additional proceeds of disposition totalling $112,000.00 in the 1998 taxation year.
+[3] All the of the assessments in appeal flow from these facts. GST appeal 2003-3277(GST)I is from GST levied on the values assessed. Ronald Coutre's appeal 2003-3274(IT)G is from an assessment for 1998 which alleges a benefit to him under subsection 56(2) of the Income Tax Act, of a net of $77,040, including GST respecting the transfer to Cori Coutre ("Cori") of Lot A, and of $42,800 respecting the transfer to Cori of ½ the value of Lot B, for a total of $119,840.
+[4] The majority of the testimony turned on the value of Lots A and B on May 15, 1998, as determined by the parties' appraisers. That is the date that Phoenix Estates Ltd. ("Phoenix") transferred its interests in the lots to Cori.
+[5] Both lots were part of separate subdivisions in the Langford District in the western suburbs of Victoria. They were subdivided into septic percolation field lots for their subdivisions, Lot B (sometimes called 628) in 1992, and Lot A (sometimes called 596) in 1994. Each also had a sewage holding tank dug into the ground for this purpose.
+[6] The values alleged to be fair market value of the lots by the appraisers and Phoenixas of May 15, 1998, the date of transfer to Cori are:
+LOT
+PHOENIX
+GARY BLAKE
+BENGY UPPAL
+Lot A(596)
+$1,000
+$23,000
+$73,000
+½ Lot B (628)
+$ 500
+$14,000
+$40,500
+[7] The chronology respecting these two lots in what was then the District of Langford is as follows:
+December 29, 1988 - Phoenixis incorporated in British Columbiaby Ronald Coutre ("Ronald") who is at all material times its sole shareholder and director. Phoenixand Ronald are real estate developers in the Langford area at all material times. In the 10 years to the date of Hearing, Ronald has developed and sold about 250 lots. By May 15, 1998 he had dealt with the District of Langford respecting developments about 10 times according to Mr. Baxter.
+1992- Phoenix develops a subdivision strata of 14 lots which drain their storm water and sewage into Lot B. Servient covenants and easements are registered by Strata Corporation against Lot B in favour of all 14 lots. Lot B eventually becomes civic address 628 Atkins Road, Langford. One-half of Lot B is owned by Malcolm Developments Inc. ("Malcolm") with Phoenix. Lot B is an "L" shaped lot with an additional panhandle amounting to a driveway in excess of 30 meters length, giving access to the street address of 628 Atkins Road.
+July 30, 1994- Ronald marries Cori, who is a school teacher.
+1994 - Phoenix develops a subdivision strata 8 lots which drain their storm water and sewage into Lot A, and servient covenants and easements are registered by the Strata Corporation against LotA in favour of all 8 lots. Lot A eventually becomes 596 Atkins Road, Langford. One-half of Lot A is owned by 316789 B.C. Ltd. with Phoenix.
+August 22, 1996 - Coutres' first child is born.
+1997- A-1 Tab 6 - Title Tab 7 - 316789 B.C. Ltd. transfers its ½ interest in Lot A to Phoenix for $500.
+August 14, 1997- "Nellie Kukewich" also referred to as "Crystal View Development" signs a petition to the Langford District for a sewage line of approximately 1½ kilometres to hook up Crystal View Development to the existing Langford District sewer line. The petition is an undertaking by the petitioner to pay the entire cost of the sewage line. The line is to proceed along Atkins Road in front of 596 and 628.
+February and March, 1998 - The District of Langford treats each lot along Atkins Road as a separate boundary for hooking up to the sewer line to be built and sends out invitations to each lot owner to sign a petition to choose to hook up to the sewer and to pay for its portion of the sewer line from Crystal View Development. Phoenix signs the petition for both LotA and Lot B.
+By March 15, 1998 - The District of Langford has conducted the second of four meetings to pass a by-law to borrow money to construct the sewer line as petitioned.
+April 11, 1998 - Coutres' second child is born.
+May 4, 1998- The by-law is passed by the District of Langford to authorize an application to borrow money to construct the sewer line. Then the District could go to the Municipal Authority to borrow the money to construct the sewer along Atkins Road. The District and City have never had any difficulty in obtaining such money from the Municipal Authority and did not in this case. Thereupon a "design and build contract" was put out for tender and construction of the sewer line began. (Construction of the sewer line was completed in due course).
+May 15, 1998 - Phoenixtransfers to Cori:
+Lot A for $1,000;
+One-half of Lot B for $500; and
+Malcolm transfers its ½ of Lot B to Cori for $500. Malcolm is not related to Cori or the Appellants within the parameters of the Income Tax Act.
+[8] Once the sewer line was constructed allowing lots 1-14 and 1-8 to hook up, the easements and covenants executed by the Strata Corporation gave the lot owners a maximum of 6 and 12 months to hook up. If they did not, the owners of Lot A and Lot B could do the hook up at the expense of the "dominant" lot owners and could discharge the easements and covenants from the titles to the lots. They were finally discharged in 2001.
+[9] The Appellants' appraiser was unsure about these hook up and discharge requirements until he read them in the course of cross-examination. He believed these problems and the contamination of sewage percolation on Lots A and B made them subject to considerable cost and risk on May 15, 1998.
+[10] The Respondent's appraiser knew of the hook up and discharge requirements in the easements and covenants and regarded the hook up and their discharge as a virtual certainty. He believed that there was "zero risk" that they wouldn't happen on May 15, 1998. As a result he appraised Lots A and B's value as "holding property for further residential use" within one year.
+[11] Mr. Brcic, the expert sewer engineer, reported that the developments of Lots A and B would require:
+1. The municipality to adopt the borrowing by law for the Sewer Specified Area.
+This was done on May 4, 1998.
+2. The removal of all easements and covenants.
+This hadn't happened on May 15, 1998 and couldn't begin to happen until the sewer was built. However, Mr. Baxter testified that the District and City of Langfordhave never failed to follow through with construction once the borrowing by law passed.
+3. The services of a geotechnical engineer to confirm the structural integrity of the ground condition.
+4. The services of an environmental consultant, the decommissioning of the existing percolation fields and potential remediation of the sites.
+(These are the responsibility of the owner who wishes to build on Lots A and B. They could be sold as bare land without this expense.)
+5. Connecting the two Strata Corporation sewer systems to a potential sewer system along Atkins Road.
+(This was compelled on the dominant lot owners by the registered easements and covenants.)
+[12] Lot A, 596 Atkins Road is the most straightforward lot of the two. It is regular shaped and was transferred to Cori on May 15, 1998, 10,700 square feet in area, averaging 76.4 feet wide and 141.2 feet in depth (.248 acres). It was level, but was still being used as a sewage settlement area for 8 lots, the liquids percolated into the soil and the solids into a holding tank. At May 15, 1998 it had no septic of its own and no sewage service, sidewalk curbs or street lighting. It faced a gravel road and was across from a railway line. It was zoned R-1. The most obvious comparables were three lots with septic that had the following particulars:
+Address
+Area
+Date of Sale
+Price
+614 Atkins Road
+.17 acre
+October, 1997
+$104,000
+624 Atkins Road
+.17 acre
+November, 1996
+$146,500
+636 Atkins Road
+.35 acre
+November, 1996
+$140,000
+Less improvement factors and with a time adjustment, Mr. Uppal valued them for comparable purposes at:
+614 Atkins Road
+$74,679
+624 Atkins Road
+$94,903
+636 Atkins Road
+$108,605
+Mr. Uppal's final valuation of Lot A, based on his analysis, was $73,000 on May 15, 1998.
+[13] Mr. Blake did not use any prior sales comparables on Atkins Road, although he referred to the 2001 sale of 454 Atkins Road for $65,000. Nor, given Mr. Uppal's sales dates of Atkins Roadcomparables, did Mr. Blake explain why he did not use these prior sales. He did refer to Mr. Brcic's report which raised a possibility that environmental remediation and a sewage pumping station for each lot "might" require a cost in excess of $100,000. As a result Mr. Blake valued 596 Atkins Road at $23,000 on May 15, 1998.
+[14] In the foregoing circumstances, the Court accepts Mr. Uppal's valuation of $73,000 as the fair market value of Lot A, 596 Atkins Road on May 15, 1998.
+[15] Lot B, 628 Atkins Road had two serious detrimental factors that Lot A did not have: First, it was lower than the surrounding lots, so that it would receive surface drainage from them. Second, the long "panhandle" to Atkins Road was 19.7 feet wide, so the address is almost nominal and it looks at the backyards of all the surrounding lots. Mr. Uppal valued Lot B at $81,000 on May 15, 1998 using the same comparables for both. Mr. Blake also repeated his comparables to arrive at a fair market value of Lot B on May 15, 1998 of $28,000.
+[16] In the Court's view, neither appraiser gave sufficient attention in their
+Reports or their testimony to the two detrimental factors described in paragraph [15]. Lot B's area is .396 acres and, without the panhandle driveway, it is "L" shaped and has no street frontage.
+[17] To the Court, Mr. Uppal's Sale 2, an irregular shaped panhandle lot at 281 Atkins Road which sold for $81,000 in June of 1997 and had septic services is a somewhat remote but similar comparable. Mr. Uppal adjusted it upward for a time factor and also adjusted an upward factor of 10 percent for the larger size of Lot B. The Court chooses to adjust the $81,000 price of Sale2 downward due to the detrimental factors. Mr. Uppal adjusted 614, 624 and 636 Atkins Road's sale prices downward by an average of $39,000 due to their comparable detrimental factors.
+[18] 624 Atkins Road is also a low property, but it has a full frontage on Atkins Road. 624 is adjacent to the 19.7 foot driveway of 628 which creates the address on Atkins Road. But 624 is not a "back lot" and it was not impregnated with liquid sewage from 14 lots as was 628 and it did not have a sewage tank for the solids from 14 lots. Mr. Uppal's appraisal allowed a reduction of $53,000 from 624's $146,500 purchase price for "improvements" when he dealt with it as a comparable. Mr. Uppal's description of "improvements" does not refer to the lack of frontage; it makes an adjustment for a lack of septic service but does not directly refer to the environmental problem. 624 is as low as 628. The frontage problem and view from 628 Atkins Road also remains to be adjusted for, since neither appraiser discussed it. Mr. Uppal also anticipated that a sale of Lot B would occur within one year; in view of Lot B's problems, that is most optimistic.
+[19] 624 Atkins Road has a frontage of 20.191 metres, whereas the driveway frontage of 628 Atkins Roadis 6.00 metres and this frontage is not obvious from Atkins Road. Practically speaking, the difference is about 14 metres. To a prospective residence builder, this was an extremely serious impediment that cannot be corrected. The logical buyer for 628 Atkins Roadwas the owner of an adjoining lot; but 628 Atkins Road was zoned R-1 for single or two family dwellings in what appears to be a modest residential neighbourhood; this puts a cap on any value.
+[20] There are two easy ways to deal with the detrimental factors described respecting Lot B: one is to multiply the price of 624 Atkins Roadin 1996 by their
+respective frontages as a fraction:
+6__
+20.191 x $146,500 = approximately $43,500.
+This appears to be simplistic. But when the appraisals are examined critically, it may not be. The second alternative is to accept Mr. Blake's appraisal of $28,000 - but Mr. Blake did not recognize the easement - covenant situation and he did not deal with the obvious adjacent comparable sale price of 624 Atkins Road in 1996.
+[21] Despite these objections, even the figure of $43,500 appears to be too high for a low, sewage laden lot with no practical frontage and no view, whose obvious value is only to adjoining lot owners in an R-1 zoned district in a modest neighbourhood. An adjoining owner in a R-1 zoned modest neighbourhood of average sized lots would need an extraordinary reason to add .396 of an acre and the accompanying property taxes to an existing residential lot.
+[22] It is for these reasons that the Court accepts Mr. Blake's comparables that do not include the Atkins Road lots situated near Lot B and also his concerns respecting sewage contamination from 14 lots with a remotely problematic sale date for Lot B. Therefore, the valuation of Mr. Blake of $28,000 is accepted as the fair market value of Lot B on May 15, 1998.
+[23] Thus Phoenixtransferred its interests in both lots to Cori for less than fair market value on May 15, 1998. Ronald was the sole shareholder and director of Phoenixand Cori was his wife and the mother of his children. He was also an experienced developer of lots in the Langford area and knew that Phoenix, by transferring the lots to Cori, was conferring a benefit on Cori. Ronald testified that when Phoenixtransferred the Lots to Cori it was family planning so that an increase in their value would provide the family (which the Court interprets to be Cori's since title became hers) an opportunity for a secure future.
+[24] On this basis, the Court finds that when Phoenixtransferred its interests in Lots A and B to Cori on May 15, 1998for less than fair market value, it did so pursuant to the direction of Ronald Coutre as a benefit that Ronald Coutre desired to have conferred on Cori Coutre. Therefore, the Minister properly included the benefit in calculating Ronald Coutre's income for the 1998 taxation year to the extent that it would be as if the transfer of its interests in Lot A and Lot B had been made to Ronald Coutre.
+[25] These matters are referred to the Minister of National Revenue for reconsideration and reassessment on the following basis:
+1. Respecting appeal 2003-3121(IT)G, that the fair market values of Lots A and B on May 15, 1998 were $73,000 and $28,000 respectively and that the Minister is to assess Phoenixfor corresponding additional proceeds of disposition accordingly.
+2. Respecting appeal 2003-3274(IT)G that the Minister properly assessed Ronald Coutre for receiving a benefit to be calculated correspondingly for the 1998 taxation year, based on the fair market values found in these Reasons.
+3. Respecting appeal 2003-3277(GST)I that the Minister shall reassess Phoenixfor GST with respect to Phoenix's supply of Lots A and B based upon the fair market value of its interest in these properties as found in these Reasons.
+[26] The Respondent is awarded a full set of taxable costs respecting appeal 2003-3121(IT)G.
+Signed at Saskatoon, Saskatchewan, this 31st day of March, 2006.
+"D.W. Beaubier"
+Beaubier J.
+CITATION: 2006TCC206
+COURT FILE NOS.: 2003-3121(IT)G, 2003-3277(GST)I
+2003-3274(IT)G and 2003-3275(IT)I
+STYLE OF CAUSE: Phoenix Estates Ltd., et al. v. The Queen
+PLACE OF HEARING: Victoria, British Columbia
+DATE OF HEARING: March 15 and 16, 2006
+REASONS FOR JUDGMENT BY: The Honourable Justice D.W. Beaubier
+DATE OF JUDGMENT: March 31, 2006
+APPEARANCES:
+Counsel for the Appellants:
+D. Laurence Armstrong
+Counsel for the Respondent:
+Susan Wong
+COUNSEL OF RECORD:
+For the Appellants:
+Name: D. Laurence Armstrong
+Firm: Armstrong Nikolich
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

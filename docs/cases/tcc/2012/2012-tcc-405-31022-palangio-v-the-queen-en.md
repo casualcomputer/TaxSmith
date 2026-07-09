@@ -1,0 +1,173 @@
+---
+title: "Palangio v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/31022/index.do"
+last_modified: "2012-10-24"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2012 TCC 405"
+citation2: ""
+neutral_citation: "2012 TCC 405"
+decision_date: "2012-10-24"
+language: "en"
+item_id: "31022"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4904
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T08:04:40.054000+00:00"
+cases_cited_count: 1
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "f459406181a0b0e81a2216e060fd068b9275713f87e351f87e87ac876e9cab21"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Palangio v. The Queen
+
+- Citation: 2012 TCC 405
+- Decision date: 2012-10-24
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4904, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Palangio v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2012-10-24
+Neutral citation
+2012 TCC 405
+File numbers
+2011-2064(IT)I
+Judges and Taxing Officers
+Brent Paris
+Subjects
+Income Tax Act
+Decision Content
+Citation: 2012 TCC 405
+Date: 20121116
+Dockets: 2011-2064(IT)I,
+2011-2065(GST)I
+BETWEEN:
+MICHAEL PALANGIO,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+(Delivered orally from the bench on October 24, 2012 in Toronto, Ontario.)
+Paris J.
+[1] The issues in Mr. Palangio's income tax appeal are:
+(a) whether his activity of writing for a local newspaper in Cochrane, Ontario, constituted a business source of income to him so as to allow him to claim losses of $33,165 in his 2006 taxation year and $3,708.60 in his 2007 taxation year;
+(b) whether his activity of renting tools and equipment constituted a business source of income to him in his 2005, 2006, and 2007 taxation years, and if so, what were the revenues and expenses of that business;
+(c) whether he was entitled to additional deductions in calculating his loss from a rental property in his 2005, 2006, and 2007 taxation years.
+[2] With respect to this last issue, the Respondent has conceded that the Appellant is entitled to deduct the following additional rental expenses:
+For 2005: $989 for property taxes and $748 for telephones expenses;
+For 2006: $644 for property taxes, $748 for telephone expenses, and $375 for motor vehicle expenses;
+For 2007: $748 for telephone expenses, $644 for property taxes, $2,887 for interest expenses, $287 for motor vehicle expenses, and $60 for insurance expenses.
+[3] The only additional amounts still in issue with respect to the rental property are disallowed maintenance and repair expenses of $8,527.86.
+[4] The Appellant is also appealing a reassessment for Goods and Services Tax ("GST") by which the Minister determined that the commercial portion of the Appellant's property rental activity and his tool rental activity were not commercial activities within the meaning of subsection 123(1) of the Excise Tax Act, and therefore, that any supplies made in the course of those activities were not taxable supplies. The Appellant was reassessed for the period between April 1, 2005, and December 31, 2007, to reverse the GST assessed and the input tax credits ("ITCs") allowed in respect of those supplies. The issue before me in that appeal is whether the activities were businesses carried on with a reasonable expectation of profit.
+[5] In reporting his income for 2005, 2006, and 2007, the Appellant consolidated his income and expenses from all of his activities into a single statement of business activities. This makes it very difficult to determine what portion of the revenue and expenses shown on that statement relates to what activity.
+[6] The Appellant did not appear to have any coherent set of records for each activity, and his testimony in this regard was unclear for the most part. This in turn, made it difficult to assess the commercial nature of his operations, both for the income tax and GST appeals.
+[7] I will deal firstly with the question of whether the Appellant's writing constitutes a business.
+[8] The Appellant testified that he was elected as a commissioner of the Cochrane Public Utilities Commission (PUC) in December 1999. While in this position, he wrote several letters to the editor of two local papers criticizing the manner in which the PUC carried out its mandate to oversee the management and operation of the publicly owned water sewer and telephone systems in Cochrane, Ontario.
+[9] In those letters, he drew attention to what he believed were questionable business practices engaged in by certain PUC managers and expressed concern that the persons hired to run the water and sewer treatment plants were not qualified.
+[10] The Appellant was sued by the PUC in 2003 as a result of the letters he had written and certain actions he had taken. In July 2003, the PUC obtained an injunction against him, pending the trial of the lawsuit.
+[11] The Appellant was enjoined from the conduct set out on the sixth page of the ruling of Mr. Justice Riopelle of the Ontario Superior Court of Justice found at tab 16 of Exhibit A‑1, as follows:
+a) from commenting on or attacking the qualifications or competence of Ross Peever, Doug Theobald, Gerry Robichaud, Don Belisle or any P.U.C. commissioner or senior management employee, except to Commissioner Palangio's legal counsel for the limited purpose of preparing for this litigation;
+b) with respect to any matter which may have occurred on or before July 11, 2003, and of which Commissioner Palangio already has knowledge, from publicly commenting on or attacking the integrity of or criticizing any past, present or future employees or commissioners of the P.U.C. or any members of their families;
+c) with respect to any matter which may occur or come to his attention for the first time only after July 11th, 2003, from publicly commenting on or attacking the integrity of or criticizing any past, present or future employee or commissioner of the P.U.C. or any members of their families unless the comment, attack or criticism is fair and proportionate to the incident, with the onus of proving fairness and proportionally falling on Commissioner Palangio;
+d) from pursuing a course of conduct amounting to harassment towards past, present or future commissioners or employees of the P.U.C. or any members of their families; and
+e) from acting in breach of his duties as a commissioner, by disclosing confidential information or otherwise.
+[12] In December 2003, the Appellant was elected as Councillor of the Town of Cochrane. In March 2004, he began writing a column for a newspaper that the Cochrane and Area Ratepayers' Cooperative had recently begun publishing. The Appellant said that he felt it was his duty as Councillor to inform the citizens of Cochrane of what was happening on council.
+[13] According to the Appellant, he was to be paid $100 per column by the Ratepayers' Cooperative at some future time when the newspaper started making a profit.
+[14] The Appellant testified that the columns generated controversy and the Town of Cochrane sought an injunction to ‑‑ in his words ‑‑ "muzzle him."
+[15] It appears to me that the later proceedings by the Town of Cochrane were a continuation of the PUC lawsuit that was started in 2003. The Appellant said that the PUC was merged or somehow absorbed into the Town of Cochrane in 2003 or 2004, and from that point on, the Town took over the PUC lawsuit. He also said that the Town took him to court in 2004 because it felt that he had breached the earlier injunction. This leads me to infer that there was only one lawsuit brought against the Appellant, started by the PUC and continued by the Town.
+[16] At some point, the Appellant countersued the PUC or the Town. There was no evidence of when this occurred or what relief was sought in the countersuit. While the lawsuits were ongoing, the Appellant continued to write articles for the Ratepayers' Cooperative newspaper on matters not covered by the injunction. In total, he wrote 24 columns up to November 2006.
+[17] In late 2006, the Appellant and the Town entered into discussions with a view to settling their legal dispute. In March 2007, they each consented to the dismissal of their claims on the basis of a confidential settlement agreement. Under the agreement, the Appellant received $45,000 from the Town to cover a portion of his legal costs, which totaled $82,150.
+[18] The Appellant is claiming the amount by which his legal costs exceeded his recovery from the Town as business expenses in 2006 and 2007 in relation to his column writing activity.
+[19] The Respondent denies that the Appellant's column writing was a business for the purposes of the Income Tax Act.
+[20] In Stewart v. The Queen, 2002 S.C.C. 46, the Supreme Court of Canada dealt with the question of how to determine whether a taxpayer has a business source of income from a particular activity. According to the Court, one must first consider whether the activity was undertaken in pursuit of a profit or whether it was a personal endeavour of the taxpayer.
+[21] In this case, the evidence, in my view, falls short of demonstrating that the Appellant undertook his writing for the Ratepayers' newspaper for profit. I find that he wrote the column as part of his political activities and in the context of serving as town Councillor as a means of promoting transparency in the Town's governance.
+[22] This view of his motivation for writing columns accords with his own initial submissions to the Canada Revenue Agency on the matter when his claim for a deduction of the legal fees was denied. In a letter to the auditor in July 2008, he wrote:
+Can you send me something in writing about why I can't deduct my legal bills? I am being taxed on the Councillor's salary, so why shouldn't I be able to deduct bills incurred on that job?"
+[23] The Appellant testified that he changed his position to claim the expenses as part of a writing business after he realized that his legal problems all arose from things he had written. I would also point out that his position changed after he was told that the amounts could not be deducted from his Councillor's salary.
+[24] I do not accept the Appellant's assertions that he was ever paid or that the Ratepayers' Co‑operative agreed to pay him for the columns. The Appellant himself provided a letter to the CRA from the Ratepayers' Cooperative dated November 24, 2010, stating that between March 2004 and November 2006, the Appellant had donated 24 articles to the newspaper and that the value of the donated articles was $2,400. This directly contradicts the Appellant's evidence that the Ratepayers' Co‑operative had agreed to pay him for the articles and had paid him for some of them in 2007.
+[25] For these reasons, I find that the Appellant did not intend to make a profit from the columns he wrote for the Ratepayers' newspaper, and therefore, I find that he did not have a business source of income from which he could deduct the excess legal fees.
+[26] Had I not reached this conclusion, I would still not have been convinced that the legal fees were incurred as a result of writing columns in the Ratepayers' newspaper. From reading the draft Consent to Judgment in the lawsuit (Exhibit R‑2), it appears that all of the conduct for which the Appellant was sued related to actions he took between December 1999 and November 2003 when he was on the PUC.
+[27] This predates the writing of the columns, and therefore, the legal fees could not have been incurred in relation to his column writing activity or anything written in these columns. In other words, the Appellant has not proven any connection between the lawsuit and the columns written by him from March 2004 on.
+[28] The next issue is whether the Appellant had a source of income from tool rentals in 2005, 2006, and 2007.
+[29] The Appellant testified that he began renting tools in the 1990s after he acquired a mechanical drywall panel lift for his own use. The lift held sheets of drywall in position while a worker fastened the drywall to the studs of the building.
+[30] The Appellant's lift was the first of its kind in Cochrane and as word of it spread locally, people began asking to use it. The Appellant rented it out for relatively nominal amounts and initially gave the proceeds to charity, he said. Later, he rented out a small drill and some drywall cutting equipment with the lift. He then acquired some used scaffolding, again, for his own use, and occasionally rented it out as well.
+[31] A summary of rentals prepared by the Appellant for the hearing showed he rented tools on three occasions in 2005 for $800, on four occasions in 2006 for $825, and on eight occasions in 2007 for $2,850.
+[32] Almost all the rentals in those years were to friends of the Appellant. It appears that the tools that were rented out were all acquired by the Appellant for use in carrying out repairs and maintenance on the rental property he owned in Cochrane, and that the cost of the tools had all been claimed against that rental operation.
+[33] The tools that were rented were stored at the rental property, either in the basement along with the rest of the tools used on the property, or outside, in the case of the scaffolding.
+[34] The Respondent maintains that the tool rental activity was not carried on in the pursuit of profit, and therefore, was not a business source of income. If the court accepts that there was a profit motive, the Respondent says that there was a personal element to the activity, the Appellant still did not carry on the activity in a businesslike manner.
+[35] In my view, the tool rental was not and was never intended by the Appellant to be a stand‑alone business, but rather was incidental to the operation of the rental property. The tools were acquired for use in maintaining and repairing the rental property and their cost was charged to the rental property activity.
+[36] The Appellant does not appear to have made representations to anyone except the CRA that he was running a tool rental business, since there was no signage for it, no advertising for it, no business name, and no apparent organized effort to obtain clients.
+[37] Furthermore, there was no separate accounting done by the Appellant for the tool rentals, and no reporting of it as a separate source of income on his tax returns as is required for each source of income under the Income Tax Act.
+[38] The Appellant maintains that he reported the revenue from tool rentals on a separate line of his Statement of Business Activities as other income each year. I am unable to confirm that this was the case.
+[39] The amounts shown as other income on those forms do not correspond to the revenues shown in the list of rentals prepared by the Appellant for the hearing. Other income on the Statement of Business Activities was shown as $900 in 2005, $1,150 in 2006, and $1,100 in 2007, while the tool rental income shown on the Appellant's list at the hearing was $800, $825, and $2,850 for the corresponding years.
+[40] In any event, there is no attempt on the Appellant's tax returns to separate out expenses related to the tool rental activity, nor were separate records kept.
+[41] Even if I had found that the tool rental activity was independent of the rental property activity, I would still have found that there was a personal element to the activity and that the Appellant had not shown that the activity was carried on in a commercial manner in the years in issue.
+[42] The personal element would have been his desire to assist friends and acquaintances by renting them tools he had on hand. The fact that the Appellant did not advertise, have a business sign, did not make an effort to attract business, and had very few actual rentals and did not keep any formal accounts for the activity all tend to support the view that the Appellant did not carry on the activity in a commercial manner.
+[43] As a result of my findings, it is apparent that the incidental tool rental revenues should have been included in the rental property revenue as part of that operation. However, since it has not been shown with any certainty how much revenue was actually earned, I do not propose to make any adjustment for it in my judgment.
+[44] The next question in this case is whether the Appellant is entitled to deduct a greater amount of expenses for repairs and maintenance than that allowed by the Minister in calculating his income from his rental property activity.
+[45] In the course of argument, counsel for the Appellant advised the Court that the Appellant was only seeking an additional deduction for three items, all in 2007: a tachometer, an RPM gauge, and roof repairs. Each of these items is supported by a receipt.
+[46] It was not shown that the first two items were related to repairs or maintenance carried out on the rental property. They appear to be motor vehicle expenses, but the Appellant deducted a separate amount for motor vehicle expenses related to the rental property, and it is incumbent on him to show that these two items have not already been claimed under that head. No evidence on this point was led.
+[47] The roof repair, however, is clearly a maintenance expense and should be allowed. The evidence showed that the roof work was done to return the roof to its original condition and did not result in an improvement to the original roof. In these circumstances, the expenditure should be allowed as a current expense rather than one made on capital account.
+[48] In this regard, I refer to the CRA's own interpretation bulletin IT 128 R at paragraph 4 as well as to the case of the Deputy Minister of Revenue Quebec v. Denise Goyer, 1987 AQ 644, 1987 Carswell Quebec 122. The Appellant is entitled, therefore, to an additional $6,900 deduction from the income from the rental property in 2007.
+[49] The last issue before the Court arises from the GST reassessment under Part IX of the Excise Tax Act. The Appellant is contesting the Minister's finding that his commercial property rental activity and his tool rental activity were not commercial activities as defined in subsection 123(1) of the Excise Tax Act, and therefore, that he was not required to collect and remit GST in respect of supplies made in the course of those activities and was not entitled to ITCs for GST paid by him on supplies used in the course of those activities.
+[50] The definition of commercial activity in subsection 123(1) reads in part: "a commercial activity of a person means a business carried on by the person other than a business, carried on without a reasonable expectation of profit."
+[51] Earlier in my reasons, I held that the Appellant's tool rental activity did not constitute a business for the purposes of the Income Tax Act, and that there was no commercial activity connected with that activity. The reasons for which I reached those conclusions also lead to me find no such business existed for the purposes of Part IX of the Excise Tax Act as well.
+[52] With respect to the commercial rental activity, in the years in issue, the Appellant had one third of the main floor of his building in Cochrane available for commercial rental. Another portion of the main floor consisted of a residential rental unit. The area of the main floor was approximately 1,600 square feet. The commercial area was about 550 square feet. The building had three stories, but the upper two floors were unusable and had been since the Appellant purchased the building in the early 1990s.
+[53] In 2005, the Appellant rented the commercial space for three months for $300 per month, and in 2006, it was rented out to the Cochrane Ratepayers' Cooperative for four months for a total of $700. It was not rented in 2007.
+[54] The Appellant also said he rented out the parking area to the owner of a neighbouring building for $500 per year for 2005 and 2007 and for $400 for the 2006 year. Therefore in total, he earned nonresidential rent of $1,400 in 2005, $1,100 in 2006, and $500 in 2007.
+[55] It was admitted that the Appellant had a loss on the rental of the commercial space in each year, and that he had reported losses on his tax returns each year since he acquired the building.
+[56] The onus is on the Appellant to show that he had a reasonable expectation of profit from the commercial rental in 2005, 2006, and 2007, despite these ongoing losses. I am not satisfied that he has met this onus.
+[57] In Stewart v. The Queen, the Supreme Court of Canada referred to the following objective factors suggested in Moldowan v. The Queen, 1 S.C.R. 480, that ought to be considered in a reasonable expectation of profit analysis:
+The taxpayer's profit and loss experience in past years, the taxpayer's training, the taxpayer's intended course of action, and the capability of the venture as capitalized to show a profit.
+[58] The taxpayer's training is not a particularly relevant factor in this case, and I attach no weight to it.
+[59] I have already referred to the uninterrupted losses from the time the property was purchased. This points away from a reasonable expectation of profit. The Appellant's intended course of conduct was apparently to repair the upper floors and to use them as additional rental space. He said if he had three commercial rental units, he could make a profit. However, given the amount of time that had passed since acquisition, I find that the repair of the upper floors was either not a priority for the Appellant or that he did not have the money to carry them out.
+[60] It was also not shown that even if the Appellant has repaired the upper floors that there was enough demand in Cochrane to be able to rent it out. Indeed, it is clear that the Appellant was unsuccessful in renting out even the limited commercial space he had available in 2005, 2006, and 2007.
+[61] Finally, the Appellant admitted that he could not make a profit on the commercial rental as it existed in 2005, 2006, and 2007.
+[62] None of the objective factors supports a conclusion that the Appellant had a reasonable expectation of profit from the commercial rental, and counsel did not suggest that any other factors should be taken into account.
+[63] On this basis, I conclude that the Appellant's commercial rental did not constitute commercial activity as defined under ss. 123(1) of the Excise Tax Act.
+[64] For all of these reasons, the Income Tax appeal is allowed in part, and the reassessments shall be referred back to the Minister for reassessment on the basis that the Appellant is entitled to deduct the additional amounts referred to at the beginning of these reasons, as well as $6,900 as additional repair and maintenance expenses in his 2007 taxation year. The GST appeal is dismissed.
+Signed at Ottawa, Canada, this 16th day of November 2012.
+"B. Paris"
+Paris J.
+CITATION: 2012 TCC 405
+COURT FILE NO.: 2011-2064(IT)I
+STYLE OF CAUSE: Michael Palangio and Her Majesty the Queen
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: October 24, 2012
+REASONS FOR JUDGMENT BY: The Honourable Justice B. Paris
+DATE OF JUDGMENT: November 16, 2012
+APPEARANCES:
+Agent for the Appellant:
+David Piccolo
+Counsel for the Respondent:
+Stephen Oakey
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

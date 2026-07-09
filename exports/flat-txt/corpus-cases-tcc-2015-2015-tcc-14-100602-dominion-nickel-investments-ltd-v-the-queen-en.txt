@@ -1,0 +1,255 @@
+Title: Dominion Nickel Investments Ltd v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/100602/index.do
+Corpus path: corpus/cases/tcc/2015/2015-tcc-14-100602-dominion-nickel-investments-ltd-v-the-queen-en.md
+Document type: case_law
+Last modified: 2015-01-20
+
+# Dominion Nickel Investments Ltd v. The Queen
+
+- Citation: 2015 TCC 14
+- Decision date: 2015-01-20
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2796, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Dominion Nickel Investments Ltd v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2015-01-20
+Neutral citation
+2015 TCC 14
+File numbers
+2012-2176(IT)G
+Judges and Taxing Officers
+Gaston Jorré
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2012-2176(IT)G
+BETWEEN:
+DOMINION NICKEL INVESTMENTS LTD.,
+appellant,
+and
+HER MAJESTY THE QUEEN,
+respondent.
+Motion heard on March 14, 2014 at Montreal, Quebec.
+Before: The Honourable Justice Gaston Jorré
+Appearances:
+Counsel for the appellant:
+Wilfrid Lefebvre, Q.C.
+Jonathan Lafrance
+Counsel for the respondent:
+Charles Camirand
+ORDER
+Upon motion made by the appellant for an order:
+1. ordering the respondent to disclose and provide to the appellant an unredacted copy of all the documents mentioned in the response to undertakings dated November 28, 2013, more specifically the documents that relate to or are mentioned in undertakings 1 to 5;
+2. ordering the respondent to disclose and provide to the appellant an unredacted copy of all the documents that relate to the two assessments which are appealed, more specifically the documents contained in the binders 10, 15, 16, 17, 21, 22, 23 and 25 of the Canada Revenue Agency file;
+For the reasons set out in the attached reasons for order, the motion is allowed on terms and the Court orders as follows:
+1. With respect to (i) the documents in Exhibit R-2 containing redactions and (ii) the documents referred to in Exhibits H and I of the affidavit of Evanthia Markou,[1] the respondent will provide unredacted copies of the documents subject to the following exceptions:[2]
+(a) Business numbers, social insurance numbers, corporation numbers and the like will remain redacted, or in the case of the documents referred to in Exhibits H and I of the affidavit of Ms. Markou, are to be redacted.
+(b) Dates of birth and marital status will remain redacted, or in the case of the documents referred to in Exhibits H and I, are to be redacted.
+(c) Documents covered by solicitor-client privilege are not to be produced; this includes all of Exhibit E of the affidavit of Ms. Markou.
+(d) Accounts and bank records of law firms already produced will keep their existing redactions. This includes redactions in Exhibit G.
+(e) Accounts and bank records of law firms contained in the documents referred to in Exhibits H and I are only to be produced if they contain entries relevant to the appellant; any entries unrelated to the appellant on such documents are to be redacted.
+(f) The respondent will not have to produce unredacted copies of the Cortax printouts except as specifically set out in paragraph 2 below.
+(g) Duplicates of documents already provided need not be produced.
+2. With respect to what was referred to as the Cortax printouts which contain information coming from tax returns, the respondent shall provide the following in respect of taxpayers specifically named in the reply:
+Unredacted copies of the Cortax printouts will be provided except for the following:
+(a) Social insurance numbers, identification numbers, dates of birth and marital status will remain redacted or, in the case of the documents referred to in Exhibits H and I of the affidavit of Ms. Markou, are to be redacted.
+(b) Dates of assessment and the like will remain redacted or, in the case of the documents referred to in Exhibits H and I, are to be redacted.
+(c) Anything relating to deductions or credits relating to medical expenses, disability, children, education, spousal support, moving expenses, farming and fishing income, employment insurance, pension splitting, pensions, CPP/QPP, OAS, RRSPs and, more generally, deductions unrelated to earning income shall remain redacted or, in the case of the documents referred to in Exhibits H and I, are to be redacted.
+(d) Total, net and taxable income as well as amounts assessed shall remain redacted or, in the case of the documents referred to in Exhibits H and I, are to be redacted.
+(e) With respect to all of the items enumerated above, not only the amounts shall remain redacted, but also the line of the printout describing the item.
+3. The respondent shall pay the appellant’s costs.
+Signed at Ottawa, Ontario, this 20th day of January 2015.
+“Gaston Jorré”
+Jorré J.
+Citation: 2015 TCC 14
+Date: 20150120
+Docket: 2012-2176(IT)G
+BETWEEN:
+DOMINION NICKEL INVESTMENTS LTD.,
+appellant,
+and
+HER MAJESTY THE QUEEN,
+respondent.
+REASONS FOR ORDER
+Jorré J.
+Introduction [1] The appellant has filed a motion to compel the respondent to produce certain documents as well as unredacted copies of other documents that have already been produced.
+[2] One way of categorizing these documents is the following:
+(a) documents that are partially redacted,
+(b) documents that are entirely redacted and
+(c) documents that have not been produced at all.
+[3] These documents can be broken down in other ways as well.
+[4] At the hearing the appellant indicated that it would not pursue certain aspects of its motion; among other things, it indicated that it did not seek the documents where solicitor‑client privilege was claimed and it did not seek to have the redactions of identifying numbers, such as business numbers or social insurance numbers, removed. It also does not seek to have removed the redactions from lawyers’ trust accounts.
+[5] For the reasons that follow, I agree almost entirely with the result sought by the appellant and will issue an order accordingly.
+[6] I should explain what I mean by an entirely redacted document.
+[7] These documents usually have a cover page that appears to be some form of control sheet; it has a number at the top and such information as the case name, the case number and the box number. Occasionally, there is a second page to the cover sheet. The control sheet appears to be prepared sometime after the Canada Revenue Agency obtained the substantive document and presumably is used to help manage all the documents. The control sheet does not contain any substantive information.
+[8] For example, there may be a document which consists of three pages. The first page is a control sheet and the next two pages are, say, a letter. The letter is the substantial document and the entire letter has been redacted. I refer to such a document as being entirely redacted.
+[9] All the documents in issue that are in categories (a) and (b) of paragraph 2 above were listed in the respondent’s list of documents pursuant to rule 81 (partial disclosure) of the Tax Court of Canada Rules (General Procedure).[3] The documents which have not been produced, category (c) above, were not in the list.
+[10] Under rule 81, a party must produce:
+. . . a list of the documents of which the party has knowledge at that time that might be used in evidence,
+(a) to establish or to assist in establishing any allegation of fact in any pleading filed by that party, or
+(b) to rebut or to assist in rebutting any allegation of fact in any pleading filed by any other party.
+[11] Rule 81 is an important, and long-established, feature of the procedure of this Court designed to try to reduce the cost of litigation by eliminating the necessity of producing all relevant documents automatically. Of course, a party may make application to obtain a full list pursuant to rule 82.
+[12] Under rule 81 a party need only produce the documents it may rely on. Given that, it is surprising that the list includes documents that the respondent has entirely redacted.
+General Nature of the Dispute [13] For the purposes of these reasons, I will very briefly describe the nature of the dispute.
+[14] According to the appellant, it acquired and then wound up another corporation. As a result, the appellant says that by the operation of section 88 of the Income Tax Act, it became entitled to claim a deduction in respect of a charitable donation of $65 million made to the Banyan Tree Foundation by the corporation it acquired. The deduction was claimed in its 2004 taxation year. The Minister of National Revenue subsequently reassessed to disallow the claimed deduction.
+[15] Various issues arise, but what is important for the purposes here is that the validity of the charitable donation is in dispute.
+[16] A number of parties other than the appellant are involved and many of those parties are located outside Canada.
+Principles Applicable to the Motion [17] The resolution of evidentiary and procedural issues that arise in the course of the trial process often involves the balancing of a number of principles and considerations. That is the case here.
+[18] Here, one must take into account a variety of factors including a party’s discovery rights, the scope of discovery, privacy issues, particularly considering to the policy which is behind section 241 of the Act, the implied undertaking, proportionality, the position a motions judge is in as opposed to a trial judge and the “need to get on with it”. In this case, it is also relevant that much of the information is in the hands of parties other than the taxpayer and that some of those parties and some of the relevant events take place outside the country.
+[19] Balancing these considerations and, indeed, which considerations are relevant, is very much dependent on the specific facts and circumstances of each case and, by its nature, is not a precise science.
+[20] There is an abundant amount of jurisprudence on issues of discovery.[4]
+[21] Different considerations may come into play at trial.
+[22] The scope of discovery is very wide. Some of the key points applicable here regarding discovery are set out in the following portions of HSBC Bank Canada v. The Queen:[5]
+13 . . .
+1. . . .
+(a) Relevancy on discovery must be broadly and liberally construed and wide latitude should be given;
+. . .
+(c) The motions judge should not seek to impose his or her views of relevancy on the judge who hears the case by excluding questions that he or she may consider irrelevant but which, in the context of the evidence as a whole, the trial judge may consider relevant;
+. . .
+2. The threshold test for relevancy on discovery is very low but it does not allow for a “fishing expedition”: Lubrizol Corp. v. Imperial Oil Ltd.
+. . .
+6. A party is entitled to have full disclosure of all documents relied on by the Minister in making his assessment: Amp of Canada Ltd. v. R.
+. . .
+14 . . .
+1. The examining party is entitled to “any information, and production of any documents, that may fairly lead to a train of inquiry that may directly or indirectly advance his case, or damage that of the opposing party”: Teelucksingh v. The Queen.
+2. The court should preclude only questions that are “(1) clearly abusive; (2) clearly a delaying tactic; or (3) clearly irrelevant”: John Fluevog Boots & Shoes Ltd. v. The Queen.
+15 Finally in the recent decision of 4145356 Canada Limited v. The Queen I concluded:
+(a) Documents that lead to an assessment are relevant;
+(b) Documents in CRA files on a taxpayer are prima facie relevant, and a request for those documents is itself not a broad or vague request;
+(c) Files reviewed by a person to prepare for an examination for discovery are prima facie relevant; and
+(d) The fact that a party has not agreed to full disclosure under section 82 of the Rules does not prevent a request for documents that may seem like a one-way full disclosure.
+[Footnotes omitted.]
+[23] Some of the above points have to be read in terms of documents rather than questions.
+[24] It is of course well accepted that relevancy must be judged by reference to the pleadings.
+[25] It is very important to bear in mind that a motions judge is in a very different position from the trial judge who hears the entire case and is better placed to judge whether something is or is not relevant.
+[26] In section 241 of the Act, Parliament has clearly expressed a strong policy protecting privacy in income tax matters. However, paragraph 241(3)(b) clearly allows for the production of evidence in “any legal proceedings relating to the administration or enforcement of” the Act.
+[27] Accordingly, while the privacy of tax information is, of course, an important consideration, section 241 has no direct application here.
+[28] The general rule is that, where a document is relevant, it will have to be produced in its entirety. However, parts of it may be redacted where the part is “clearly irrelevant”.[6]
+[29] Privacy considerations have been considered in this Court in deciding whether parts of a document could be redacted. In Cameco Corporation v. The Queen,[7] the appeal related to transfer pricing of uranium and Chief Justice Rip, as he then was, allowed the redaction of salary payments to individuals.
+[30] Similarly, in Heinig v. The Queen,[8] Justice Webb, as he then was, held that it was appropriate to redact social insurance numbers of third parties.
+[31] In both Cameco and Heinig, the redactions are of information that is “clearly irrelevant”.
+[32] In considering privacy interests, it is important to keep in mind that there is now a strong implied undertaking[9] established in Canada that information obtained on discovery may only be used for the purpose of the action in the course of which it was obtained. Except to the extent that the information becomes public in the course of trial, the undertaking survives after the end of the action.
+[33] This undertaking inherently limits the further disclosure of the information and helps protect privacy interests of others.
+[34] It is useful to remember that, while the existence of the implied undertaking is now clearly established in Canada, that was not always the case. It is in the period of roughly 1985 to 2000 that it became firmly established.[10]
+[35] Prior to the implied undertaking becoming firmly established, one had more reason to be concerned with confidentiality in the course of the discovery process.
+[36] In an age where litigation can easily become very costly, proportionality concerns are relevant. Dealing with redactions from documents is time‑consuming for all concerned. As a result, partial redactions ought not to be encouraged unless necessary.
+[37] I think it is also important to bear in mind that much of the knowledge of what is at stake in this appeal is in the hands of third parties and some of those parties are offshore. While that does not change the appellant’s general onus, it also militates in favour of the appellant having access to all of the Minister’s knowledge and documentation relevant to the case.
+Analysis [38] Having reviewed these principles, let us now turn to their application. The disputed items are referred to in Exhibits A to K of the affidavit of Evanthia Markou. In most of these exhibits, there is a list of the documents in question and in the left-hand column these documents are numbered from one to the end of that particular list.[11]
+[39] Apart from the claim for solicitor‑client privilege on certain documents which is not disputed, the essence of the respondent’s position appears to be based on the view that what is redacted and what has not been produced is irrelevant and, in addition, should not be disclosed in order to protect privacy.
+[40] I would also note that although at the hearing the respondent was not suggesting that section 241 had any application, as such, it is clear that, when one reads the examination for discovery of Ms. Markou, she, in consultation with her team leader, redacted material out of concern for section 241.[12]
+[41] At the hearing, Ms. Markou explained that there were two reasons why the information about other taxpayers was mixed in with information relevant to the appellant’s transaction.
+[42] First, the respondent was looking into a number of transactions involving different taxpayers, but where the same persons were involved in arranging those transactions. As a result, requests for information were often made to individuals or to organizations in a single request dealing with a number of transactions.
+[43] As a result, there are documents dealing with transactions relating to different persons.
+[44] Secondly, because examinations relating to different taxpayers in different transactions were being worked on at the same time, there were in the same project binders documents relating to different individuals.
+[45] I will begin with the application of the principles to the redacted documents which are contained in the disk which was entered as Exhibit R-2. This corresponds to the contents of the lists in Exhibits A to G of the affidavit of Ms. Markou.
+[46] I first note that there are two reasons which suggest that the documents in Exhibit R-2 are, prima facie, relevant to the appeal. First, they were produced in the respondent’s list of documents under rule 81. The fact that they were produced in that list suggests that at some point the respondent thought that they were relevant to the appeal.
+[47] Secondly, most documents, including the ones which are entirely redacted, have a cover sheet which has on it as a case name “Dominion Nickel Investments Ltd.”. Again this suggests that at some point these documents were thought relevant to this matter or, at least, they involved inquiries which were thought to be potentially relevant to this matter.
+[48] Given that “documents that lead to an assessment are relevant” and given that a party is entitled to documents that may lead to “a train of inquiry that may directly or indirectly advance his case”,[13] I am satisfied that the appellant is entitled to examine the documents and consider what was being sought.
+[49] Accordingly, all these documents are, prima facie, relevant and the appropriate test is whether there are things which are “clearly irrelevant” which should be redacted.
+[50] When looking at these documents, and not having the kind of knowledge of the facts and issues that come from being the trial judge, while I see many redactions containing information that does not strike me as likely to be useful, I am unable to determine that they are “clearly irrelevant”, subject to certain exceptions.
+[51] Accordingly, with respect to the documents in Exhibit R-2, I will order the respondent to provide unredacted copies subject to the following exceptions:
+(a) Business numbers, social insurance numbers, corporation numbers and the like will remain redacted.
+(b) Dates of birth and marital status will remain redacted.
+(c) Documents covered by solicitor-client privilege will not be produced, e.g. Exhibit E of the affidavit of Ms. Markou.
+(d) Exhibit G contains documents from two law firms. There is correspondence as well as bank statements, some of which are clearly labelled as trust accounts. The existing redactions are to remain.
+(e) Existing redactions of the Cortax printouts will remain except as set out in paragraph 52 below.
+[52] With respect to what was referred to as the Cortax printouts[14] which contain information coming from tax returns, the respondent shall provide the following in respect of taxpayers specifically named in the reply:
+Unredacted copies of the Cortax printouts will be provided except for the following:
+(a) Social insurance numbers, identification numbers, dates of birth and marital status will remain redacted.
+(b) Dates of assessment and the like will remain redacted.
+(c) It is quite clear that the following are clearly irrelevant: anything relating to deductions or credits relating to medical expenses, disability, children, education, spousal support, moving expenses, farming and fishing income, employment insurance, pension splitting, pensions, CPP/QPP, OAS, RRSPs and, more generally, deductions unrelated to earning income. All such items will remain redacted.
+(d) With respect to all of the above, not only the amounts shall remain redacted, but also the line of the printout describing the item.
+(e) Total, net and taxable income as well as amounts assessed shall remain redacted.[15]
+[53] The respondent was very concerned with the possible use of documents in issue at trial, but that is a different issue which I will come back to.
+[54] Exhibit F is a list of documents which were previously released but which the respondent says should be redacted in part. Even if I had a motion before me from the respondent seeking this, the appellant has already received these documents and, absent any extraordinary circumstances,[16] there is no reason to issue any order in respect of these, especially given the implied undertaking.
+[55] I will now turn to the remaining documents.
+[56] The respondent does not seek production of what is listed in Exhibits J and K of the affidavit of Ms. Markou and, accordingly, nothing additional need be produced in respect of those binders.[17]
+[57] What is left are the documents referred to in Exhibits H and I of the affidavit of Ms. Markou.
+[58] These documents in the boxes in question were, in general, not produced although there is apparently some duplication with what has been produced.
+[59] The respondent did not provide me with the documents from those boxes; while I may actual have some in the form of duplicates, I do not know which ones are duplicated in what is covered by Exhibits H and I.[18]
+[60] As a result I am unable to examine these documents myself. All I have are the indexes provided in Exhibits H and I.
+[61] What I do know is that Ms. Markou worked on this file and two other files involving the same persons arranging different transactions. Others in her group worked on a number of files as did her supervisor. As already stated, information in documents often covered more than one transaction and some materials covering different transactions were stored in the same boxes.
+[62] I also know that when Ms. Markou was working on the redactions with her supervisor, section 241 was very much on their mind. That section is an extremely important one for the Agency and for Canadians but is not a relevant test for production in these circumstances.
+[63] In addition, shortly before the hearing the respondent provided the appellant with revised copies of many documents previously produced where the redactions were reduced.
+[64] Given these particular circumstances and considering the previously cited passage of Teelucksingh, I am satisfied that it is likely that many documents referred to in Exhibits H and I were considered as part of the audit of the appellant and accordingly are, prima facie, relevant.
+[65] Given that I cannot examine the documents, I am not in a position to conclude that all, or part of any of, these documents are clearly irrelevant.
+[66] Accordingly, the documents referred to in Exhibits H and I should be provided subject to substantially the same exceptions as in the case of the documents in Exhibit R-2; the details will be set out in the order. In addition, duplicates of documents already provided need not be produced.
+Arrangements for Trial [67] A large part of the respondent’s concern appeared to be not only protecting the privacy of third parties now, but also at trial.
+[68] As for the immediate issue, as already indicated the implied undertaking will protect third parties since any discovery information can only be used by the appellant for the purpose of this litigation. That prevents wider diffusion of the information and, except for what becomes public at trial, the undertaking survives the completion of the litigation and can only be lifted by an order of this Court.
+[69] As for the concerns with respect to disclosure at trial, I would point out the following. First, the appellant may well not use much of the material disclosed so that any privacy concerns are narrowed.
+[70] Secondly, with respect to what is used, there is nothing to prevent the parties from negotiating an arrangement whereby they will exchange all the documents they propose to use at trial a reasonable time in advance and propose to the Court in advance of trial an arrangement for managing this issue such as to prevent public disclosure of documents where privacy issues arise,[19] until the Court has decided if the document or a portion thereof should be kept private.[20] If they cannot reach an agreement on such arrangements, either party may apply to the Court for directions.
+Conclusion [71] For these reasons, the motion is allowed and the respondent will produce additional documents as set out above.
+Signed at Ottawa, Ontario, this 20th day of January 2015.
+“Gaston Jorré”
+Jorré J.
+CITATION:
+2015 TCC 14
+COURT FILE NO.:
+2012-2176(IT)G
+STYLE OF CAUSE:
+DOMINION NICKEL INVESTMENTS LTD. v. THE QUEEN
+PLACE OF HEARING:
+Montreal, Quebec
+DATE OF HEARING:
+March 14, 2014
+ADDITIONAL WRITTEN
+SUBMISSIONS FROM THE PARTIES:
+April 4, 2014
+REASONS FOR ORDER BY:
+The Honourable Justice Gaston Jorré
+DATE OF ORDER:
+January 20, 2015
+APPEARANCES:
+Counsel for the appellant:
+Wilfrid Lefebvre, Q.C.
+Jonathan Lafrance
+Counsel for the respondent:
+Charles Camirand
+COUNSEL OF RECORD:
+For the appellant:
+Wilfrid Lefebvre, Q.C.
+Jonathan Lafrance
+Firm:
+Norton Rose Fulbright Canada
+Montreal, Quebec
+For the respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Ontario
+[1] These correspond to binders 15, 16, 17, 21 and 22.
+[2] For greater certainty, the respondent does not have to produce anything listed in Exhibits J and K of the affidavit of Ms. Markou; the respondent also does not have to produce anything in what are referred to as binders 10, 23 and 25. Also for greater certainty, nothing in this order requires the appellant to return any document that has already been produced.
+[3] The respondent’s list of documents is found in Exhibit A-1 to the affidavit of Jonathan Lafrance. Part of the list is the original list and part of the list, at the back of the list, beginning with No. 1201, is an additional list which was produced at a later date at or before the examination for discovery of Evanthia Markou.
+[4] See, among other decisions, Kossow v. The Queen, 2008 TCC 422, a decision of Justice Valerie Miller, at paragraphs 50 and 51, HSBC Bank Canada v. The Queen, 2010 TCC 228, a decision of Justice Campbell J. Miller, at paragraphs 13 to 16, John Fluevog Boots & Shoes Ltd. v. The Queen, 2009 TCC 345, a decision of Justice Diane Campbell, and Sputek v. The Queen, 2010 TCC 540, a decision of Justice Robert J. Hogan, at paragraphs 6 to 12.
+[5] 2010 TCC 228.
+[6] See O.I. Group of Companies v. Canada (Minister of National Revenue), 2006 FCA 234, at paragraph 22. Different considerations may apply with respect to very large records. For example, there may be different considerations where instead of a dispute over the redaction of parts of a single page of, say, a bank account, the dispute is over the redaction of an electronic record containing one calendar year of a bank account which, if printed, would take over 1,000 pages of which only two were relevant to the dispute.
+[7] 2014 TCC 45, paragraph 55.
+[8] 2009 TCC 47, paragraphs 9 to 12.
+[9] Sometimes referred to as the deemed undertaking.
+[10] The rule in England goes back quite far in time but the situation in Canada was different.
+In 1994, in Goodman v. Rossi, [1994] O.J. No. 2778 (QL), the majority of the Ontario Divisional Court declined to adopt the English rule of the implied undertaking. Among other things, Justice O’Leary, in the majority, stated:
+24 In summary, the rule was first held to be part of the law in Ontario in Lac Minerals in 1985, even though prior thereto the rule was unknown to the bar in Ontario and had not been enunciated in any Ontario case. Since Lac Minerals, several Ontario judges have agreed that the rule exists in Ontario. The validity of the rule has not been passed on by the Divisional Court or the Court of Appeal. . . .
+In 1995 that decision was reversed by the Ontario Court of Appeal. Morden A.C.J.O., speaking on behalf of the Court, concluded that:
+17 . . . on the basis of precedent and policy, that a particular version of the implied undertaking rule should be recognized in Ontario . . .
+[Goodman v. Rossi, [1995] O.J. No. 1906 (QL)]
+In Goodman, the Ontario Court of Appeal noted that there appeared to be no such implied undertaking in the United States.
+In Quebec, in the 1999 decision of Lac d’Amiante du Québec, [1999] J.Q. no 1043 (QL), the majority of the Quebec Court of Appeal overturned the decision of the Superior Court and held that there was an implicit undertaking. This was upheld by the Supreme Court of Canada, see [2001] 2 S.C.R. 743.
+I note that in Quebec there could not have been an implied undertaking prior to 1983 because, as noted by Justice Fish, as he then was, in the Quebec Court of Appeal Lac d’Amiante du Québec decision in the first paragraph of his reasons: “Prior to 1983, depositions taken on discovery were, in Quebec, part of the court record.”
+By virtue of article 396 of the Code of Civil Procedure, chapter 25, R.S.Q. 1977, C-25, as it then was: “The depositions taken by virtue of this chapter form part of the record.” The depositions covered in the chapter included examination for discovery, documentary discovery and interrogatories. It is worth noting that this was a very different system from the current one.
+[11] I have compared the redacted versions contained in Exhibit R-1 with the unredacted versions in Exhibit R-2.
+[12] Just before or a short time before the hearing of the motion, the respondent provided the appellant with copies of a significant number of documents where the redactions had either been removed or reduced.
+[13] See 4145356 Canada Limited and Teelucksingh, above.
+[14] Printouts which look like what I have often heard referred to as option C printouts.
+[15] I have tried hard to imagine a clear delineation of what may be clearly irrelevant, but, apart from certain categories which I have specifically enumerated, it is hard to do in the abstract. I also considered a two‑stage process where, first, for the remaining items of information in the printouts, the item description would be shown and the actual amounts would be deleted and, second, a process would be put in place for the appellant to identify particular lines of information that it believed to be relevant, for the appellant to seek to persuade the respondent of the relevance and, if necessary, to bring the matter back before the Court. I concluded that it was too cumbersome and that, given the implied undertaking, it was unnecessary.
+[16] Such as endangering someone’s life.
+[17] Transcript, pages 28, 31 and 32. I would note that binder 25 is not an issue. It contains the valuation which the appellant described as of the utmost importance; it was fully disclosed in Exhibit R-1 which was received by the appellant shortly before trial (document EV.CRA.Folder.0001.pdf). Binder 10 is also not an issue as it is covered by documents dealt with elsewhere.
+[18] I note that Exhibit R-1, folder “all documents”, has exactly one less document than Exhibit R-2. This confirms that Exhibit R-2 does not have all the other documents referred to in Exhibits H and I.
+[19] I note that there may be documents were relevance is the only issue and where there is no added privacy concern.
+[20] I would note that there were partial redactions that I saw where I had a hard time imagining why this would cause a privacy issue that should be of concern to the Court. There is a high burden to persuade a court that part of the evidence in a trial should be kept private: see Sierra Club of Canada v. Canada (Minister of Finance), 2002 SCC 41.

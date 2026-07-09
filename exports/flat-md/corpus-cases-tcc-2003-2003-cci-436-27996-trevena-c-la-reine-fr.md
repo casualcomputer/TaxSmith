@@ -1,0 +1,156 @@
+---
+title: "Trevena c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27996/index.do"
+last_modified: "2003-06-23"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 CCI 436"
+citation2: ""
+neutral_citation: "2003 CCI 436"
+decision_date: "2003-06-23"
+language: "fr"
+item_id: "27996"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1778
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T19:03:29.985000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "a0b2c49494c3df0d45c7f5446260c84e8c0b6a7749e4dc6f25630104466bbd79"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Trevena c. La Reine
+
+- Citation: 2003 CCI 436
+- Decision date: 2003-06-23
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1778, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Trevena c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-06-23
+Référence neutre
+2003 CCI 436
+Numéro de dossier
+2001-1764(IT)I
+Juges et Officiers taxateurs
+Murray A. Mogan
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2001‑1764(IT)I
+ENTRE :
+MARGARET WILVA TREVENA,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu les 28 et 29 octobre 2002 à Kitchener (Ontario)
+Devant : L’honorable juge M. A. Mogan
+Comparutions :
+Représentant de l’appelante :
+Fred Kalliokoski
+Avocat de l’intimée :
+Me Steven Leckie
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’encontre de la cotisation fiscale établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 1999 est rejeté.
+Signé à Ottawa, Canada, ce 23e jour de juin 2003.
+« M. A. Mogan »
+J.C.C.I.
+Traduction certifiée conforme
+ce 20e jour de mai 2004.
+Ingrid B. Miranda, traductrice
+Référence : 2003CCI436
+Date : 20030623
+Dossier : 2001‑1764(IT)I
+ENTRE :
+MARGARET WILVA TREVENA,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Mogan
+[1] Quand l’appelante a produit sa déclaration de revenus pour l’année d’imposition 1999, elle a déduit un montant de 21 600 $, à la ligne 220 de sa déclaration, à titre de « versements de pension alimentaire ». Dans un Avis de cotisation envoyé en juillet 2000, le ministre du Revenu national a refusé la déduction de 21 600 $ au motif que l’appelante ne satisfait pas aux critères énoncés à l’alinéa 60b) ou à l’article 60.1 de la Loi de l’impôt sur le revenu. L’appelante a interjeté appel à l’encontre de cette cotisation. La seule question est de savoir si le montant de 21 600 $ est déductible dans le calcul de son revenu. L’appelante a choisi le régime de la procédure informelle.
+[2] L’appelante est une femme entreprenante. Elle a participé avec succès à beaucoup d’entreprises commerciales et été propriétaire d’un immeuble commercial. Elle est née en 1929 et a épousé Clarence Trevena. Deux filles sont nées de ce mariage : Lynn et Cheryl. L’appelante et Clarence Trevena se sont séparés en 1972 et ont divorcé plus tard. Au moment de leur séparation, l’appelante et Clarence Trevena habitaient à St. George, en Ontario, un village à 15 km au nord de Brantford. Ils habitaient au 14 Main Street, dans une propriété qui comportait une épicerie au rez‑de‑chaussée et un appartement de trois chambres à coucher à l’étage. L’appelante exploitait l’épicerie sous le nom de « The Village Market » et l’immeuble au 14 Main Street était enregistré à son nom. Au moment de la séparation, Clarence a délaissé tous les droits qu’il possédait sur ladite propriété et sur le magasin.
+[3] Catharine Crawford est née vers 1926. Elle s’est mariée, a eu deux enfants qui ont atteint l’âge adulte (John et Leslie). En 1972, elle a divorcé. Au début des années 1970, la fille de Catharine Crawford, Leslie, et la fille de l’appelante, Lynn, étaient des bonnes amies à l’école secondaire où elles étudiaient. L’appelante et Catharine Crawford se sont rencontrées et sont devenues des bonnes amies en raison de l’amitié de leurs filles, Lynn et Leslie, respectivement. En mars 1974, Catharine Crawford (« Catharine ») a vendu sa maison située au 12 Todd Street, à Brantford et déménagé dans l’appartement de l’appelante, situé au‑dessus de l’épicerie du 14 Main Street, à St. George. L’appelante et Catharine ont partagé le même logement (mais non pas la même adresse) pendant environ 21 ans, à partir de mars 1974 jusqu’en octobre 1995.
+[4] En octobre 1995, l’appelante et Catharine résidaient à Bracebridge, en Ontario, Catharine est tombée malade. L’appelante a appelé la fille de Catherine, Leslie, pour qu’elle se rende à Bracebridge pour prendre soin de sa mère. Selon la preuve présentée par Leslie, celle‑ci est partie de Brantford pour Bracebridge le 28 octobre 1995 et a pris des mesures pour que sa mère déménage dans la maison de retraite « Bracebridge Villa ». En février 1996, un docteur de Bracebridge a envoyé Catharine dans une clinique de Penetanguishene. En mai, on a diagnostiqué qu’elle souffrait de la maladie d’Alzheimer. Pendant l’été 1996, Leslie a pris des mesures pour que sa mère (Catharine) soit transférée dans une maison de repos de Brantford afin qu’elle soit plus près de Leslie.
+[5] Tard dans l’année 1996, une action à été intentée devant la Cour de l’Ontario (Division générale) sous le numéro du dossier de la Cour 96‑MC‑2285. Les parties apparaissent comme suit dans l’intitulé :
+[traduction]
+ENTRE :
+CATHARINE SEABORN CRAWFORD,
+représentée par son tuteur à l’instance, John Crawford
+DEMANDERESSE
+et
+MARGARET WILVA TREVENA et
+815760 ONTARIO LIMITED
+DÉFENDERESSES.
+La demanderesse est la personne identifiée dans les présents motifs du jugement comme « Catharine ». Son fils John a intenté cette poursuite ès qualité de tuteur à l’instance, parce qu’elle souffre de la maladie d’Alzheimer. L’appelante dans les présents motifs du jugement était l’une des défenderesses. L’autre défenderesse était une société ontarienne qui servait de société de portefeuille à l’appelante.
+[6] La poursuite devant la Cour de l’Ontario était une affaire sérieuse. Catharine (en tant que demanderesse) prétendait, en grand détail, avoir la propriété à titre bénéficiaire de la totalité ou d’une partie de nombre de lots de biens‑fonds qui appartenaient (ou avaient appartenu) à l’appelante. Catharine prétendait aussi à beaucoup d’autres droits de nature non foncière. La demande de Catharine était fondée principalement sur l’allégation suivante, qui est énoncée au paragraphe 5 de la demande introductive d’instance :
+[traduction]
+5. À partir de mars 1974 jusqu’en octobre 1995, les parties ont cohabité dans une union réputée équivalente au mariage et dans laquelle elles entretenaient une relation conjugale, lorsque la demanderesse a été expulsée de sa maison par la défenderesse Wilva Trevena …
+La demande introductive d’instance modifiée le plus récent constitue la pièce R‑1, onglet 6 du présent appel; la défense modifiée constitue la pièce R‑1, onglet 7. L’appelante et sa société de portefeuilles se sont défendues énergiquement en niant l’allégation principale de la demanderesse.
+[7] L’appelante et la fille de Catharine, Leslie, ont toutes les deux témoigné lors de l’audition du présent appel. L’appelante a témoigné pour son propre compte et Leslie a été assignée à témoigner pour la défenderesse. Les témoignages de l’appelante et de Leslie corroborent les résultats de la poursuite devant la Cour de l’Ontario. Une conférence préparatoire était prévue pour le 13 août 1997 : les parties et leurs avocats respectifs y ont rencontré ensemble un juge de la Cour supérieure de l’Ontario. Selon Leslie, le juge qui présidait la rencontre déclara : quelque chose qui ressemblait à « Aujourd’hui, on va la régler, cette affaire. » La réunion entre les parties, leurs avocats et le juge a duré presque toute la journée, jusqu’à 22 h 30. La conférence préparatoire a été un succès, dans le sens que l’on signa le procès‑verbal de transaction qui mit fin au litige.
+[8] Le procès‑verbal de transaction est écrit à la main sur quatre pages de papier ligné. Il a été signé à la page 4 par l’appelante et par John Crawford (ès qualité de tuteur à l’instance de Catharine) et daté du 13 août 1997. Le procès‑verbal de transaction se trouve à l’onglet 3C de la pièce R‑1 du présent appel. Une disposition du procès‑verbal de transaction prévoit que l’avocat de la défense rédige une entente de non‑divulgation comprenant un consentement à une ordonnance de mise sous scellés du dossier de la Cour de l’Ontario. Compte‑tenu de la disposition prévoyant une entente de non‑divulgation, je ne vais citer que le paragraphe 3 du procès‑verbal de transaction, qui est essentiel à la résolution du présent appel :
+[traduction]
+3. Sous réserve du paragraphe 9 ci‑dessous, la défenderesse Trevena doit payer, à partir du 30 juillet 1992 et le 30e jour de chaque mois suivant jusqu’au décès de la demanderesse, la somme de 1 800 $ pour les dépenses de cette dernière au moyen d’un dépôt direct sur un compte bancaire dont le numéro lui sera fourni par la demanderesse.
+[9] Pendant l’année civile 1999, l’appelante a versé 1 800 $ par mois pour l’entretien de Catharine en vertu du paragraphe 3 du procès‑verbal de transaction mentionné plus haut. Le montant total payé par l’appelante en 1999 s’élevait à 21 600 $. Il s’agit du montant que l’appelante a déduit lors du calcul de son revenu dans sa déclaration de revenus de 1999. La déduction a été refusée par le ministre et ce refus est la seule question en litige dans le présent appel. Pour être en mesure de déduire les 21 600 $, l’appelante doit d’abord démontrer qu’elle est visée par l’alinéa 60b) ou par le paragraphe 60.1(2) de la Loi de l’impôt sur le revenu.
+[10] Je peux statuer immédiatement sur la question touchant au paragraphe 60.1(2). Il n’y a pas de doute que les montants en litige ont été payés en vertu du procès‑verbal de transaction, que j’admets comme « accord écrit ». J’ai examiné le paragraphe 60.1(2) récemment, dans l’appel de Susan Carmichael (Numéro du dossier de la Cour 2000‑2091(IT)G – Date du jugement : le 30 mai 2003). Selon l’état actuel du droit, il n’est pas nécessaire qu’une entente écrite fasse référence aux paragraphes 56.1(2) et 60.1(2). Cependant, pour que ces dispositions soient appliquées, le libellé du document doit indiquer clairement que les deux parties conviennent que celle qui aura payé un certain montant va le déduire en calculant son revenu et que l’autre partie va ajouter le même montant dans le calcul de son revenu. Rien dans le procès‑verbal de transaction n’indique que les parties ont étudié les répercussions fiscales quand elles ont convenu les versements mensuels de 1 800 $. Par conséquent, le paragraphe 60.1(2) n’est pas applicable dans le présent appel.
+[11] Pour que l’appel soit accueilli, il faut que l’appelante soit visée par l’alinéa 60b) de la Loi. Les dispositions pertinentes de cet alinéa énoncent que :
+60 Peuvent être déduites dans le calcul du revenu d'un contribuable pour une année d'imposition les sommes suivantes qui sont appropriées :
+a) […]
+b) le total des montants représentant chacun le résultat du calcul suivant :
+A - (B + C)
+où :
+A représente le total des montants représentant chacun une pension alimentaire que le contribuable a payée après 1996 et avant la fin de l'année à une personne donnée dont il vivait séparé au moment du paiement,
+B le total des […]
+Si l’appelante ne peut exciper d’un montant positif (21 600 $) sous la rubrique « A », les montants devant être soustraits à « B » et « C » ne sont plus pertinents. L’expression « pension alimentaire » est définie au paragraphe 56.1(4) et incorporée dans l’article 60 par le paragraphe 60.1(4). Voici la définition :
+« pension alimentaire » Montant payable ou à recevoir à titre d'allocation périodique pour subvenir aux besoins du bénéficiaire, d'enfants de celui-ci ou à la fois du bénéficiaire et de ces enfants, si le bénéficiaire peut utiliser le montant à sa discrétion et, selon le cas :
+a) le bénéficiaire est le conjoint ou l’ancien conjoint du payeur et vit séparé de celui‑ci pour cause d'échec de leur mariage et le montant est à recevoir aux termes de l'ordonnance d'un tribunal compétent ou d'un accord écrit;
+b) le payeur est le père naturel ou la mère naturelle d'un enfant du bénéficiaire et le montant est à recevoir aux termes de l'ordonnance d'un tribunal compétent rendue en conformité avec les lois d'une province.
+[12] Selon les faits en l’espèce, les conditions essentielles pour créer une « pension alimentaire » en l’année 1999 sont les suivantes : un montant
+(i) payable à titre d’allocation périodique;
+(ii) pour subvenir aux besoins du bénéficiaire;
+(iii) le bénéficiaire est le conjoint ou l’ancien conjoint du payeur;
+(iv) le bénéficiaire et le payeur vivent séparément pour cause d’échec de leur mariage;
+(v) le montant est dû aux termes d’un accord écrit.
+Si les conditions ci‑dessus étaient satisfaites, on pourrait soulever la question constitutionnelle de savoir si l’appelante et Catharine auraient été considérées comme « conjointes » en 1999. Cependant, d’après les faits en l’espèce, l’appelante ne satisfait pas aux conditions exigées par la définition d’une « pension alimentaire » et, par conséquent, la question constitutionnelle est superflue. Pour les motifs mentionnés ci‑dessous, l’appel sera rejeté.
+[13] L’appelante a témoigné pendant deux heures environ. Il s’agit d’un témoin très crédible. Je lui attribue une crédibilité élevée. L’appelante a nié fermement toute cohabitation et toute relation conjugale avec Catharine. Lors de son interrogatoire principal et lors de son contre‑interrogatoire, on a porté à son attention les deux paragraphes ci‑dessus, extraits de sa défense modifiée (pièce R‑1, onglet 7) :
+[traduction]
+8. En aucun moment, Catharine et Wilva n’ont vécu de relation conjugale, d’épouses, sexuelle, co‑dépendante, affectueuse, fiduciaire, ou comportant des obligations fiduciaires; elles étaient plutôt amies, pensionnaire et propriétaire, associées en affaires et parfois, employée et employeure.
+95. Les défenderesses déclarent, et cela est un fait, qu’en aucun moment Wilva et Catharine n’ont cohabité dans le cadre d’une union réputée équivalente au mariage comme le prétend la demanderesse, ni cohabité tout court. Les défenderesses rejettent absolument la prétention que la demanderesse ait droit à une assurance‑vie, ou à toute autre sûreté, ainsi qu’il a été prétendu ou autrement.
+L’appelante a confirmé, devant son représentant et devant l’avocat de l’intimée, la véracité de ses propos énoncés aux paragraphes 8 et 95 ci‑dessus. Il était clairement contraire à son intérêt, dans le cadre du présent appel, de confirmer la vérité de sa déposition. Pour cette raison, son témoignage oral est encore plus crédible.
+[14] L’appelante a déclaré que sa relation avec Catharine n’avait aucune teneur sexuelle. Elles n’étaient que des amies. Catharine payait à l’appelante 300 $ par mois pour la chambre et la pension, sauf lorsqu’elle était au chômage. Ce loyer a été augmenté plus tard à 350 $ par mois. En échange, Catharine pouvait profiter de tout l’appartement (plus tard, de toute la maison) et inviter ses amies. L’appelante a indiqué clairement qu’elle n’était pas lesbienne, et ne voulait pas être identifiée comme telle.
+[15] Selon l’appelante, il n’y a eu que trois propriétés ou commerces dont Catharine et elle‑même ont été co-propriétaires : a) le 34 Main Street, à St. George (une boulangerie); b) le comptoir de crème glacée Willies, à St. George; c) le comptoir de crème glacée Willies, à Cainsville (près de Brantford). L’épicerie de St. George dont l’appelante était la propriétaire exclusive et qu’elle a exploitée seule à partir de 1972 (jusqu’à sa vente, tard dans les années 1980) constituait le noyau de son activité commerciale et sa véritable source de revenu. Elle lui a fourni une grande partie de son capital de retraite.
+[16] L’appelante a expliqué la présence de sa signature au bas du procès‑verbal de transaction en disant qu’elle s’était sentie intimidée par le procès et que son propre avocat lui avait conseillé de négocier un montant plutôt qu’être tenue de le payer par décision du tribunal. Si on considère les cinq conditions ci‑dessus au paragraphe 12, il est évident que l’appelante satisfait à la première, à la seconde et à la cinquième. Sur le fondement de son propre témoignage, cependant, elle ne répond ni à la troisième, ni à la quatrième conditions. Par conséquent, l’appelante n’est pas en droit de demander de déduction en vertu de l’alinéa 60b) de la Loi. L’appel est rejeté.
+Signé à Ottawa, Canada, ce 23e jour de juin 2003.
+« M. A. Mogan »
+J.C.C.I.
+Traduction certifiée conforme
+ce 20e jour de mai 2004.
+Ingrid B. Miranda, traductrice

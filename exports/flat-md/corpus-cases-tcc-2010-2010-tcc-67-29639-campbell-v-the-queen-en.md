@@ -1,0 +1,294 @@
+---
+title: "Campbell v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29639/index.do"
+last_modified: "2010-02-04"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 TCC 67"
+citation2: ""
+neutral_citation: "2010 TCC 67"
+decision_date: "2010-02-04"
+language: "en"
+item_id: "29639"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6159
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T02:40:19.180000+00:00"
+cases_cited_count: 3
+cases_citing_count: 4
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "00389c3534731f79fb5728a0563c9d1b121c54636941f82ea4b656a47121c0aa"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Campbell v. The Queen
+
+- Citation: 2010 TCC 67
+- Decision date: 2010-02-04
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6159, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Campbell v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-02-04
+Neutral citation
+2010 TCC 67
+File numbers
+2009-2118(IT)I
+Judges and Taxing Officers
+Wyman W. Webb
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2009-2118(IT)I
+BETWEEN:
+PATTI D. CAMPBELL,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on January 26, 2010,
+at Ottawa, Ontario.
+Before: The Honourable Justice Wyman W. Webb
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Ronald McPhee
+____________________________________________________________________
+JUDGMENT
+The appeal is allowed, with costs, and the matter is referred back to the Minister of National Revenue for reconsideration on the basis that the Appellant was an eligible individual in respect of D.P.C. (the “Child”) at the beginning of each of the following months for the purposes of determining the Canada Child Tax Benefit of the Appellant:
+August 2006
+October 2006
+December 2006
+February 2007
+April 2007
+June 2007
+August 2007
+October 2007
+December 2007
+February 2008
+April 2008
+June 2008
+August 2008
+October 2008
+December 2008
+February 2009
+April 2009
+June 2009
+and that the Child was a qualified dependent of the Appellant in relation to the months of October 2006, April 2007, October 2007, April 2008, October 2008, and April 2009 and the Appellant was an eligible individual in relation to each of these months for the purposes of determining the Goods and Services Tax Credit of the Appellant.
+Signed at Ottawa, Canada, this 4th day of February, 2010.
+“Wyman W. Webb”
+Webb J.
+Citation: 2010TCC67
+Date: 20100204
+Docket: 2009-2118(IT)I
+BETWEEN:
+PATTI D. CAMPBELL,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Webb J.
+[1] The issue in this appeal is whether the Appellant is entitled to the Canada Child Tax Benefit (the “CCTB”) and the Goods and Services Tax Credit (“GSTC”) for D.P.C. (the “Child”) for the period from July 2006 to June 2009 (the “period under appeal”) or for any part or parts of the period under appeal. The Appellant had received CCTB and GSTC payments for some parts of this period but it was subsequently determined that she was not entitled to receive any amounts as a CCTB or as a GSTC for any part of the period under appeal. Following the filing of a Notice of Objection by the Appellant, the Minister of National Revenue confirmed that the Appellant was not entitled to any CCTB or GSTC for the Child for any part of the period under appeal.
+[2] Under the Income Tax Act (“Act”) the CCTB is treated as an overpayment of the person's liability under the Act and hence, if the individual is eligible, such amount is paid to the eligible individual as a refund of this overpayment. Under subsection 122.61(1) of the Act the overpayment amount is calculated on a monthly basis. This subsection provides, in part, as follows:
+Where a person ... [has] filed a return of income for the year, an overpayment on account of the person's liability under this Part for the year is deemed to have arisen during a month in relation to which the year is the base taxation year, equal to the amount determined by the formula
+1/12 [(A - B) + C + M]
+where
+A is the total of
+(a) the product obtained by multiplying $1,090 by the number of qualified dependants in respect of whom the person was an eligible individual at the beginning of the month, and
+…
+C is the amount determined by the formula
+F – (G × H)
+where
+F is, where the person is, at the beginning of the month, an eligible individual in respect of
+(a) only one qualified dependant, $1,463, and
+(emphasis added)
+[3] Because the overpayment is deemed to have arisen during a month in respect of a person who was an eligible individual in respect of a qualified dependent at the beginning of the month, this requires a determination of whether any particular person was an eligible individual at the beginning of each month in respect of that qualified dependent. As a result, it does not necessarily follow that because one particular person was the eligible individual in respect of a qualified dependent at the beginning of a particular month, that the same person would then be the eligible individual at the beginning of the following month in respect of that qualified dependent. The definitions of "eligible individual" and “qualified dependant” in section 122.6 of the Act provide that:
+"eligible individual" in respect of a qualified dependant at any time means a person who at that time
+(a) resides with the qualified dependant,
+(b) is the parent of the qualified dependant who primarily fulfils the responsibility for the care and upbringing of the qualified dependant,
+...
+and for the purposes of this definition,
+(f) where a qualified dependant resides with the dependant's female parent, the parent who primarily fulfils the responsibility for the care and upbringing of the qualified dependant is presumed to be the female parent,
+(g) the presumption referred to in paragraph (f) does not apply in prescribed circumstances, and
+(h) prescribed factors shall be considered in determining what constitutes care and upbringing;
+“qualified dependant” at any time means a person who at that time
+(a) has not attained the age of 18 years,
+(b) is not a person in respect of whom an amount was deducted under paragraph (a) of the description of B in subsection 118(1) in computing the tax payable under this Part by the person's spouse or common-law partner for the base taxation year in relation to the month that includes that time, and
+(c) is not a person in respect of whom a special allowance under the Children's Special Allowances Act is payable for the month that includes that time;
+[4] In this particular case there is no dispute that the Appellant is the female parent of the Child. The Respondent was disputing whether the Child was residing with the Appellant during the period under appeal. If the Child was not residing with the Appellant during the period under appeal, then the Appellant would not be an eligible individual (since she would not be residing with the Child) and hence she would not be entitled to the CCTB. If the Child was residing with the Appellant, the position of the Respondent is that the presumption in paragraph (f) of the definition of “eligible individual” referred to above was not applicable and, in any event, Timothy Campbell was the Child’s parent who primarily fulfilled the responsibility for her care and upbringing during the period under appeal.
+[5] Paragraph (g) of the definition of “eligible individual” referred to above provides that the presumption as set out in paragraph (f) does not apply in prescribed circumstances. These prescribed circumstances (in which the presumption would not be applicable) are set out in section 6301 of the Income Tax Regulations ("Regulations") and include, as one of these circumstances, the situation where "more than one notice is filed with the Minister under subsection 122.62(l) of the Act in respect of the same qualified dependent who resides with each of the persons filing the notices if such persons live at different locations". Assuming that the Child resided with both the Appellant and Timothy Campbell, since both Timothy Campbell and the Appellant filed the notice with the Minister under subsection 122.62(1) of the Act and since they were not residing at the same location, the presumption in paragraph (f) of the definition of “eligible individual” referred to above is not applicable.
+[6] The GSTC is only determined for eligible individuals in relation to specified months. Subsection 122.5 of the Act provides in part as follows:
+(3) An eligible individual in relation to a month specified for a taxation year who files a return of income for the taxation year and applies for an amount under this subsection is deemed to have paid during the specified month on account of their tax payable under this Part for the taxation year an amount equal to ¼ of the amount, if any, determined by the formula
+A – B
+where
+A is the total of
+(a) $213,
+(b) $213 for the qualified relation, if any, of the individual in relation to the specified month,
+(c) if the individual has no qualified relation in relation to the specified month and is entitled to deduct an amount for the taxation year under subsection 118(1) because of paragraph (b) of the description of B in that subsection in respect of a qualified dependant of the individual in relation to the specified month, $213,
+(d) $112 times the number of qualified dependants of the individual in relation to the specified month, other than a qualified dependant in respect of whom an amount is included under paragraph (c) in computing the total for the specified month,
+(emphasis added)
+[7] The definitions of “eligible individual”, “qualified dependent” and “qualified relation” are in subsection 122.5 and these are as follows:
+“eligible individual”, in relation to a month specified for a taxation year, means an individual (other than a trust) who
+(a) has, before the specified month, attained the age of 19 years; or
+(b) was, at any time before the specified month,
+(i) a parent who resided with their child, or
+(ii) married or in a common-law partnership.
+“qualified dependant” of an individual, in relation to a month specified for a taxation year, means a person who at the beginning of the specified month
+(a) is the individual's child or is dependent for support on the individual or on the individual's cohabiting spouse or common-law partner;
+(b) resides with the individual;
+(c) is under the age of 19 years;
+(d) is not an eligible individual in relation to the specified month; and
+(e) is not a qualified relation of any individual in relation to the specified month.
+“qualified relation” of an individual, in relation to a month specified for a taxation year, means the person, if any, who, at the beginning of the specified month, is the individual's cohabiting spouse or common-law partner.
+[8] Subsection 122.5(4) of the Act provides that:
+(4) For the purposes of this section, the months specified for a taxation year are July and October of the immediately following taxation year and January and April of the second immediately following taxation year.
+[9] Subsection 122.5(6) of the Act provides that:
+(6) If a person would, if this Act were read without reference to this subsection, be the qualified dependant of two or more individuals, in relation to a month specified for a taxation year,
+(a) the person is deemed to be a qualified dependant, in relation to that month, of the one of those individuals on whom those individuals agree;
+(b) in the absence of an agreement referred to in paragraph (a), the person is deemed to be, in relation to that month, a qualified dependant of the individual, if any, who is, at the beginning of that month, an eligible individual within the meaning assigned by section 122.6 in respect of the person; and
+(c) in any other case, the person is deemed to be, in relation to that month, a qualified dependant only of the individual that the Minister designates.
+(emphasis added)
+[10] The result of the foregoing definitions and requirements for CCTB and the GSTC mean that, for the purposes of this appeal, the issues are as follows:
+(a) Was the Child residing with the Appellant at the beginning of any the months during the period under appeal for the purposes of the CCTB, and if so, for which months; and was the Child residing with the Appellant at the beginning of any of the months of January, April, July or October during the period under appeal for the purposes of the GSTC?
+(b) If the Child was residing with the Appellant at the beginning of any of these months, was she also residing with Timothy Campbell at the beginning of the same month or months?
+(c) If the Child was residing at the beginning of any particular month or months with both the Appellant and Timothy Campbell, which parent, at the beginning of such month or months, was the parent who primarily fulfilled the responsibility for the care and upbringing of the Child at that time?
+[11] The Appellant, Greg Gardiner (a friend of the Appellant), Timothy Campbell and Kelly Campbell (Timothy Campbell’s current spouse) all testified during the hearing. The first issue that has to be determined is whether the Child resided with the Appellant, Timothy Campbell or both during the period under appeal.
+[12] Justice Rand of the Supreme Court of Canada in Thomson v. M.N.R., 1945 CarswellNat 23, [1946] C.T.C. 51, made the following comments on “residing” and “ordinarily resident”:
+47 The gradation of degrees of time, object, intention, continuity and other relevant circumstances, shows, I think, that in common parlance "residing" is not a term of invariable elements, all of which must be satisfied in each instance. It is quite impossible to give it a precise and inclusive definition. It is highly flexible, and its many shades of meaning vary not only in the contexts of different matters, but also in different aspects of the same matter. In one case it is satisfied by certain elements, in another by others, some common, some new.
+48 The expression "ordinarily resident" carries a restricted signification, and although the first impression seems to be that of preponderance in time, the decisions on the English Act reject that view. It is held to mean residence in the course of the customary mode of life of the person concerned, and it is contrasted with special or occasional or casual residence. The general mode of life is, therefore, relevant to a question of its application.
+[13] Justice Bonner in S.R. v. The Queen, 2003 TCC 649, [2004] 1 C.T.C. 2386, made the following comments:
+12 The word "reside" with as used in the section 122.6 definition of the term "eligible individual" must be construed in a manner which reflects the purpose of the legislation. That legislation was intended to implement the child tax benefit. That benefit was introduced in 1993 with a view to providing a single nontaxable monthly payment to the custodial parent of a child. That payment was intended to benefit the child by providing funds to the parent who primarily fulfilled the responsibility for the care and upbringing of the child. The threshold test is whether the child resides with the parent. Physical presence of the child as a visitor in the residence of a parent does not satisfy the statutory requirement. The word "resident" as used in s. 122.6 connotes a settled and usual abode. …
+[14] In Lapierre v. The Queen, 2005 TCC 720, 2008 DTC 4248, Justice Dussault stated that:
+13 Although residence is the fundamental concept applied to determine if a person is subject to income tax under the Act, that term is nonetheless not defined therein and it is the courts that have attempted to establish its scope. Essentially a question of fact, a person's residence in a given place is determined by a certain number of criteria of time, object, intention and continuity that do not necessarily always carry the same weight and which can vary according to the circumstances of each case. (see Thomson v. M.N.R., [1946] S.C.R. 209). All things considered, residence implies a certain constancy, a certain regularity or else a certain permanence according to a person's usual lifestyle in relation to a given place and is to be distinguished from what might be called visits or stays for specific purposes or of a sporadic nature. When the Act sets as a condition to reside with another person, I do not consider it appropriate to attribute to the verb "to reside" a meaning which deviates from the concept of residence as it has been developed by the courts. To reside with someone is to live or stay with someone in a given place with a certain constancy, a certain regularity or else in an habitual manner.
+[15] As a result it is necessary to determine whether the Child lived with the Appellant and / or Timothy Campbell on a settled and usual basis. It is not simply a question of which house she was at on the first day of any given month. Did she have a settled and usual abode with the Appellant or Timothy Campbell? Did she live with either or both of them regularly during this period?
+[16] The evidence was clear that the Appellant and Timothy Campbell had joint custody of the Child throughout the period under appeal. It is also clear that there was a settled rotation of time that the Child would be with each parent. The Appellant described this rotation as follows:
+THE WITNESS: Okay. So Monday night I picked her up. She spends the night with me. I put her on the bus Tuesday morning. Then she's in school all day, then I pick her up at 4:30 again on Tuesday. Then she goes back to her father's on Wednesday. I put her on the bus Wednesday morning, then she's back at her father's Wednesday night, and she's there Wednesday night and Thursday night, and then I pick her up again Friday at 4:30 till noon on Sunday.
+And then it rotates the next week; Monday and Tuesday with her father, and then Wednesday and Thursday with me, and then back with her father on Friday. So she takes the bus from my place Friday morning, goes to school, and then she's with her father.
+[17] It seems clear to me that this regular cycle of alternating between the Appellant’s home and Timothy Campbell’s home continued throughout the period under appeal and that the Child was residing with both parents throughout this period. The Child had a settled and usual abode with both parents. The fact that the Appellant lived in different houses or apartments during the three year period from July 2006 to June 2009 does not change the fact that the Child was with her wherever the Appellant’s home was located.
+[18] The issue is then whether the Appellant or Timothy Campbell was the parent who primarily fulfilled the responsibility for the Child’s care and upbringing. Section 6302 of the Regulations provides that:
+6302. For the purposes of paragraph (h) of the definition “eligible individual” in section 122.6 of the Act, the following factors are to be considered in determining what constitutes care and upbringing of a qualified dependant:
+(a) the supervision of the daily activities and needs of the qualified dependant;
+(b) the maintenance of a secure environment in which the qualified dependant resides;
+(c) the arrangement of, and transportation to, medical care at regular intervals and as required for the qualified dependant;
+(d) the arrangement of, participation in, and transportation to, educational, recreational, athletic or similar activities in respect of the qualified dependant;
+(e) the attendance to the needs of the qualified dependant when the qualified dependant is ill or otherwise in need of the attendance of another person;
+(f) the attendance to the hygienic needs of the qualified dependant on a regular basis;
+(g) the provision, generally, of guidance and companionship to the qualified dependant; and
+(h) the existence of a court order in respect of the qualified dependant that is valid in the jurisdiction in which the qualified dependant resides.
+[19] The definition of “eligible individual” in section 122.6 of the Act, as noted above, provides in part that:
+"eligible individual" in respect of a qualified dependant at any time means a person who at that time
+…
+(b) is the parent of the qualified dependant who primarily fulfils the responsibility for the care and upbringing of the qualified dependant,
+(emphasis added)
+[20] As noted above there is also a presumption (which does not apply in this case) that if the qualified dependent resides with the female parent that the female parent is “the parent who primarily fulfils the responsibility for the care and upbringing of the qualified dependant”. Only individuals who are parents of the qualified dependent can be “eligible individuals” and the definition provides that a determination must be made with respect to the parents and the determination is which parent is “the parent who primarily fulfils the responsibility for the care and upbringing of the qualified dependant”. In this case there was evidence of the role that Kelly Campbell and her daughters played in the care and upbringing of the Child but it seems to me that the relevant question is what role did Timothy Campbell and the Appellant play in the care and upbringing of the Child?
+[21] The evidence in relation to the roles played by the Appellant and Timothy Campbell in the care and upbringing of the Child was in very general terms. With respect to the supervision of the daily activities and needs of the Child, the Appellant stated that when the Child was with her that she would supervise her daily activities and needs. Timothy Campbell testified that when the Child was staying at his house, he, Kelly Campbell, or Kelly Campbell’s daughters would supervise the daily activities of the Child. The Child would have been eight years old at the commencement of the period under appeal and therefore would have been attending school throughout the period under appeal. It seems to me that each parent equally fulfilled the supervision of the daily activities of the Child since the Child spent approximately one-half of her time that she was not in school or at some other activity at each parent’s house over the two week cycle of joint custody. There was an indication that there were occasions during the period under appeal when each parent would not be able to look after the Child when it was his or her time to have the Child. There was however no specific details of how many times this occurred only statements by Timothy Campbell that the Appellant would leave messages on his answering machine indicating that the Appellant could not take the Child and an admission by Timothy Campbell during cross examination that he was playing in a band on weekends. Without details with respect to the number of times this occurred, I find that the Child spent approximately one-half of her time that she was not in school or at some other activity at each parent’s house during the period under appeal.
+[22] It seems to me that the Appellant would be the parent who supervised the daily activities and needs of the Child when the Child was with the Appellant and Timothy Campbell would be the parent who supervised the daily activities and needs of the Child when the Child was with him.
+[23] Each parent maintained a secure environment in which the Child resided. Just because the Appellant had to move because she could not afford a particular place does not mean that the environment in which the Child was residing when the Child was with the Appellant was not a secure environment. Timothy Campbell lived in the same house throughout the period under appeal.
+[24] With respect to the arrangement of, and transportation to, medical care at regular intervals and as required for the Child, there was very little evidence that the Appellant took the Child to see a doctor or a dentist. It seems clear that the Child needed dental work during the period under appeal. During the examination of Timothy Campbell he stated the following in relation to this factor:
+Q. The third thing I want to talk to you about is the arrangement of and transportation to medical care at regular intervals as required for the qualified dependent.
+If [the Child] has to go to the dentist ‑‑ we heard some evidence in that regard ‑‑ can you give me any further evidence as to say [the Child’s] dentistry needs?
+A. Actually right now they're fine. They've all been met.
+Q. Who looked after it between 2006 and 2009?
+A. My wife, Kelly, and myself both looked after it after we received the letter that was submitted earlier.
+[25] The letter to which Timothy Campbell referred was a letter dated June 2, 2005 from Leeds, Grenville & Lanark District Health Unit. At the top of the letter it is identified as “Dental Program For Children in Need of Treatment” and “Third Party Notification”. The letter indicates that the Child was in immediate need of dental treatment, although the particular treatment was not identified. It is not at all clear whether the treatment that was required was completed before or during the period under appeal since the letter is dated a little over a year before the commencement of the period under appeal.
+[26] The Respondent introduced into evidence a statement from Lance McIntosh D.D.S. dated August 14, 2008 which the Respondent submitted was support for a finding that Timothy Campbell arranged for the dental needs of the Child. This was described by Timothy Campbell as representing a typical trip to the dentist (after the other problems referred to in the letter dated June 2, 2005 were addressed). However it is clear from this statement that Kelly Campbell also had dental work done on the same day as the Child and there is a reference to an upcoming appointment for Timothy Campbell on September 15, 2008. It therefore seems to me that it was more likely than not that Kelly Campbell arranged for the Child’s dental work to be done.
+[27] Whenever Timothy Campbell referred to other appointments with the medical doctor or the eye doctor, he would state that either Kelly Campbell or he would take the Child. It seems to me that it was more likely than not that Kelly Campbell was the person who arranged for and who took the Child to her various medical and dental appointments. It does not seem to me that Timothy Campbell can fulfill this responsibility by delegating this responsibility to Kelly Campbell any more than the Appellant can fulfill this responsibility by delegating this responsibility to Timothy Campbell. If one parent is allowed to satisfy the requirement that such parent primarily fulfilled the responsibility for the care and upbringing of a qualified dependent by showing that such parent did not personally fulfill such responsibility but delegated this responsibility to someone else, then each parent could delegate someone else to fulfill their responsibilities and neither parent would be required to personally fulfill any responsibility. It seems to me that the definition of eligible individual requires me to examine what each parent personally did, not what some one else did as a result of a parent delegating the responsibility for the care and upbringing of a child to such other person. As a result neither parent could be considered as the parent who primarily fulfilled this responsibility.
+[28] With respect to the educational, recreational, athletic, and other activities of the Child, there was very little evidence of any personal involvement of either parent. The activities of the Child were activities that were arranged through the school or church. Another woman would pick up the Child to take her to drama. It seems to me that neither one of the two parents would be considered to be the parent who primarily fulfilled this responsibility.
+[29] If the Child was ill when she was with the Appellant, then the Appellant would attend to her needs. If the Child was sick when she was with Timothy Campbell, then either Timothy Campbell or Kelly Campbell would attend to her needs. It appears that each parent would primarily fulfill this responsibility when the Child was with that parent.
+[30] With respect to the attendance to the hygienic needs of the Child, each parent would look after these needs of the Child when she was at that parent’s house and therefore each parent would primarily fulfill this responsibility when the Child was with that parent.
+[31] With respect to the provision, generally, of guidance and companionship to the Child, it seems to me that each parent would provide guidance and companionship to the Child whenever the Child was with that parent. The responses of the Appellant and Timothy Campbell in relation to this factor were as follows:
+The Appellant:
+MS. CAMPBELL: I spend all my time with her, Your Honour. She doesn't go to a sitter. I had a sitter for her last summer when I was working at ‑‑ in Brockville as a server, and the whole time I worked there I had a child care for her once; only once. She's always with me. I don't ‑‑ I haven't had a sitter in four years. I spend all my time with her. We go ‑‑ in the summertime I take her to the beach. We're always doing something together; we spend all of our time together. I don't want her elsewhere; I want her with me. Sometimes she might do a sleepover at a friend's, but also that friend does sleepovers at my place as well. She's always with me.
+Timothy Campbell
+Q. The provision generally of guidance and companionship to the qualified dependent,…; guidance and companionship, being a parent and guiding [the Child], is that something you both do equally, or do you have any position on that?
+A. I'd say from 2006 to 2008 most of the guidance came from our house. After that I'd say almost equally going through 2009.
+Q. What happened between 2006 and 2008? Why do you distinguish that time period?
+A. Just personal problems I think Patti was having at the time.
+Q. With respect to what?
+A. A number of factors probably, and I'd be speculating, but you could say relationship, job. Again, I'm speculating; I have no proof.
+…
+Q. As far as guidance and companionship of [the Child], you mentioned ensuring she does her homework, you mentioned ensuring she does her chores and follows certain rules in the house. Is there anything else you want to add in that regard as far as being a parent to [the Child]?
+A. Other than just teach her right or wrong, teaching her about friendships, teaching her history that they're not going to learn in school, teaching her about community.
+Q. How do you do that?
+A. By participating in the community with certain little things that go on, or taking her so she can see other things happening. She goes with my mother, who is a strong member in the Legion, and helps her with things. She's active with the church groups.
+[32] Although the answer provided by Timothy Campbell was longer, there was no indication that he would be providing guidance and companionship to the Child when the Child was with the Appellant. Timothy Campbell acknowledged that he and the Appellant have equally provided guidance since 2008. For the period from 2006 to 2008. Timothy Campbell stated that “most of the guidance came from [his] house” without indicating whether it was he or Kelly Campbell who provided such guidance. It seems to me that each parent would be the parent who primarily fulfilled this responsibility when the Child was with that parent.
+[33] The final factor is the existence of a court order. In this case the court order dated June 27, 2005 provided in part that:
+1. The parties shall have joint custody of the child…with the child’s primary residence being with the Respondent father.
+2. The Appellant mother, Patti Campbell, shall have the child in her care and control as follows:
+(a) alternating weekends from Friday at 4:00 pm until Sunday at 12:00 noon, commencing April 1, 2005;
+(b) during the week (Monday to Friday) [the Child] shall be in the care of the Applicant mother up to two days, with these times to be determined pursuant to the Applicant’s work schedule so as the child is not left in the care of a third party. The Applicant shall provide her work schedule to the Respondent a minimum of two months in advance;
+(c) during the summer holiday period (July and August) each party shall be entitled to a two (2) week period of uninterrupted time with the child. Each party shall advise of their holiday schedule on or before June 1st. Each party shall be entitled to telephone access with the child while in the other parent’s care;
+(d) during the Christmas holiday period the child shall be in the care of the Respondent father, Timothy Campbell, from Christmas Eve (December 24th) at 12:00 noon until Christmas Day at 2:00 pm in all odd numbered years, and with the Applicant mother in even numbered years. The child shall be in the Respondent’s care from December 25th at 2:00 pm until December 26th at 2 pm in all even numbered years, and with the Applicant in all odd numbered years;
+(e) Each party shall be permitted to speak with the child by telephone during those periods in which the child is in the other parent’s care between 5:00 pm and 7:00 pm.
+[34] The parties did not follow the order exactly as the Appellant had the Child for more than two days from Monday to Friday every second week. The order does clearly provide that the parents had joint custody and, even though the order did not provide for the two week schedule that the parents adopted, it clearly did provide that the child was to be with each parent for significant amounts of time and also for telephone access when the Child was with the other parent. This order, as implemented by the parents, does not support a finding that either parent was the parent who primarily fulfilled the responsibility for the care and upbringing of the Child.
+[35] It does appear that, as between the Appellant and Timothy Campbell, that they played equal roles in the care and upbringing of the Child. It is not easy in this case to determine which one of these two individuals was the parent who primarily fulfilled the responsibility for the care and upbringing of the Child at the beginning of any particular month during the period under appeal. It is clear that the Child, over the course of the two week cycle, spent approximately the same amount of time with one parent as she did with the other parent. However, the Act, in relation to the CCTB, does not stipulate what will happen if both parents equally fulfill the responsibility for the care and upbringing of the qualified dependent and the Act, in relation to the CCTB, appears to be drafted on the assumption that in every family situation one parent will be the person who primarily fulfills this responsibility and that this responsibility cannot be shared equally[1].
+[36] It does not seem to me that the correct result in this situation, where the Appellant and Timothy Campbell share equally in fulfilling their responsibility for the care and upbringing of the Child, is that neither parent should be entitled to the CCTB because neither parent would be able to satisfy the requirement that such parent must be the parent who primarily fulfills such responsibility. The question of whether a person is an eligible individual arises each month and is to be determined at the beginning of each month. It seems to me that in this case, the Appellant and Timothy Campbell generally shared equally in fulfilling the responsibility for the care and upbringing of the Child and for some of the factors, the parent who actually had the Child with him or her at the beginning of the month would, as of that time, be the parent who can reasonably be considered to be the one who was then primarily fulfilling the responsibility for that factor. Therefore each of the Appellant and Timothy Campbell should be considered to satisfy the requirement that such parent was the one who, at the beginning of any particular month, was the parent who primarily fulfilled the responsibility for the care and upbringing of the qualified dependent on an alternating basis from month to month.
+[37] The issue in this case is only related to the Appellant. Although it does seem obvious that if the Appellant is not the parent at the beginning of a particular month who is the eligible individual in respect of the Child for the purposes of section 122.6 of the Act, then Timothy Campbell must be the eligible individual at the beginning of such month, the only determination that will be made is which months are the months, at the beginning of which, the Appellant was an eligible individual for the purposes of section 122.6 of the Act.
+[38] As a result, I find that the Appellant was the parent who was primarily responsible for the Child’s care and upbringing at the beginning of the following months and therefore she was an eligible individual in respect of the Child for the purposes of section 122.6 of the Act at the beginning of the following months during the period under appeal:
+August 2006
+October 2006
+December 2006
+February 2007
+April 2007
+June 2007
+August 2007
+October 2007
+December 2007
+February 2008
+April 2008
+June 2008
+August 2008
+October 2008
+December 2008
+February 2009
+April 2009
+June 2009
+[39] The alternating eligibility of the Appellant and Timothy Campbell reflects the alternating custody arrangement for the Child.
+[40] The appeal is allowed, with costs, and the matter is referred back to the Minister of National Revenue for reconsideration on the basis that the Appellant was an eligible individual in respect of the Child at the beginning of each one of the months listed above for the purposes of determining the CCTB of the Appellant and that the Child was a qualified dependent of the Appellant in relation to the months of October 2006, April 2007, October 2007, April 2008, October 2008, and April 2009 and the Appellant was an eligible individual in relation to each of these months for the purposes of determining the GSTC of the Appellant.
+Signed at Ottawa, Canada, this 4th day of February, 2010.
+“Wyman W. Webb”
+Webb J.
+CITATION: 2010TCC67
+COURT FILE NO.: 2009-2118(IT)I
+STYLE OF CAUSE: PATTI D. CAMPBELL AND
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: Ottawa, Ontario
+DATE OF HEARING: January 26, 2010
+REASONS FOR JUDGMENT BY: The Honourable Justice Wyman W. Webb
+DATE OF JUDGMENT: February 4, 2010
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Ronald McPhee
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] With respect to the GSTC, paragraph 122.5(6)(c) of the Act provides that in any case where there is no agreement between the persons claiming a qualified dependent and none of such persons is an eligible individual (as defined for the purposes of the CCTB) in respect of the qualified dependent, the person is deemed to be a qualified dependent of the individual designated by the Minister. However since the class of persons in respect of whom a GSTC may be claimed is broader than the class of persons in respect of whom a CCTB may be claimed, it is not clear whether paragraph (c) was intended to apply only when the qualified dependent is not a child of the person claiming the GSTC (and hence the person claiming the GSTC cannot be an eligible individual in respect of the qualified dependent for the purposes of the CCTB).

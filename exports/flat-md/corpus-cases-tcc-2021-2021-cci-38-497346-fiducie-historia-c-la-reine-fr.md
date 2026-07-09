@@ -1,0 +1,204 @@
+---
+title: "Fiducie Historia c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/497346/index.do"
+last_modified: "2021-05-17"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2021 CCI 38"
+citation2: ""
+neutral_citation: "2021 CCI 38"
+decision_date: "2021-05-17"
+language: "fr"
+item_id: "497346"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4604
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2023-12-01T11:57:02.056000+00:00"
+cases_cited_count: 14
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "8345952b3a3e4af9efac710a35c7b4bdd3c9bab6b38163fe68ed5846ee197504"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Fiducie Historia c. La Reine
+
+- Citation: 2021 CCI 38
+- Decision date: 2021-05-17
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4604, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Fiducie Historia c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2021-05-17
+Référence neutre
+2021 CCI 38
+Numéro de dossier
+2019-1335(IT)G
+Juges et Officiers taxateurs
+Guy R. Smith
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2019-1335(IT)G
+ENTRE :
+FIDUCIE HISTORIA,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Requête déposée conjointement le 17 janvier 2020 en vertu de l’article 58 des Règles de la Cour canadienne de l’impôt (procédure générale) et motifs rendus oralement par téléconférence le 19 février 2021.
+Devant : L'honorable juge Guy R. Smith
+Parties :
+Avocats de l’appelante:
+Me Guy Du Pont
+Me Élisabeth Robichaud
+Me Sammy Cheaib
+Avocats de l'intimée:
+Me Susan Shaughnessy
+Me Michel Lamarre
+ORDONNANCE
+Selon les motifs rendus oralement par téléconférence le 19 février 2021, la requête déposée conjointement le 17 janvier 2020 en vertu de l’article 58 des Règles de la Cour canadienne de l’impôt (procédure générale) est rejetée, sans dépens;
+La Cour ordonne cependant aux parties de déposer une demande conjointe pour fixer un échéancier, et ce d’ici le 19 mars 2021.
+Signé à Ottawa (Canada), ce 24ième jour de février 2021.
+« Guy R. Smith »
+Juge Smith
+Référence : 2021 CCI 38
+Date : 20210517
+Dossier : 2019-1335(IT)G
+ENTRE :
+FIDUCIE HISTORIA,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+TRANSCRIPTION DES MOTIFS DE L’ORDONNANCE
+(Prononcés oralement le 19 février 2021 à Ottawa (Canada))
+Le juge Smith
+[1] Je vais maintenant rendre ma décision dans cette affaire.
+[2] Il s’agit d’une requête déposée conjointement le 17 janvier 2020, laquelle demande une ordonnance autorisant que soient tranchées avant la tenue de l’audience certaines questions de droit en vertu de la Règle 58 des Règles de procédure de la CCI (Procédure générale).
+[3] La requête a été fixée pour le 1er octobre 2020, mais les parties ont demandé qu’elle soit tranchée sur la foi des observations écrites et sans comparution des parties. Des représentations conjointes ont été déposées le 25 septembre 2020.
+[4] Je fais ici un sommaire des « Questions Proposées » en vertu de la Règle 58:
+i) Est-ce que l’entente intervenue le 15 novembre 2013 entre les fiduciaires de la Fiducie Historia (ci-après la « Fiducie ») et les bénéficiaires Julien Rémillard et Maxime Rémillard a eu pour effet de déléguer à ces derniers les pouvoirs des fiduciaires dûment nommés conformément à l’acte de fiducie;
+ii) Les cas échéant, est-ce que les attributions faites par la Fiducie à Lucien Rémillard pour les années d’imposition 2013 et 2015 sont nulles;
+iii) Le cas échéant, s’agit-il d’une nullité relative ou absolue;
+iv) S’il s’agissait d’une nullité relative, est-ce que l’Agence de revenu du Canada aurait l’intérêt nécessaire pour la soulever.
+[5] La requête demande aussi une ordonnance prévoyant que la preuve consistera en un exposé des faits sur lesquels les parties s’entendront et une ordonnance prévoyant les modes d’administration de la preuve advenant que les parties ne soient pas en mesure de convenir, d’un exposé conjoint des faits.
+Les faits pertinents
+[6] À mon avis, les faits suivants sont essentiels pour les fins de cette analyse et pour comprendre les diverses transactions qui ont eu lieu le 15 novembre 2013.
+[7] Lucien Rémillard était un de trois fiduciaires de la Fiducie constituée en vertu des lois du Québec par acte notarié daté du 22 août 2002. Ce dernier a mis fin à sa résidence canadienne le 15 novembre 2013 pour ensuite s’établir à la Barbade. Le même jour, il a démissionné comme fiduciaire et a été remplacé par une tierce partie selon les modalités de l’acte constitutif de la Fiducie. Il y avait donc, à ce moment-là, trois fiduciaires sans liens de dépendance entre eux.
+[8] La Fiducie et Lucien Rémillard détenaient des actions dans la société Maybach Corporation. Le 15 novembre 2013, la société Maybach a racheté les actions de Lucien Rémillard et dès lors la Fiducie est devenue l’unique actionnaire.
+[9] Le même jour, soit le 15 novembre 2013, une entente est intervenue entre les fiduciaires et deux des bénéficiaires, soit les frères Julien Rémillard et Maxime Rémillard, fils de Lucien Rémillard. En vertu de cette entente, les fiduciaires s’engageaient « à exercer leurs pouvoirs à l’égard de la Fiducie selon les directives transmises par les frères Rémillard et à ne prendre aucune décision visant la Fiducie sans avoir préalablement obtenu l’accord des frères Rémillard ». Les fiduciaires reconnaissaient que cet engagement ne les libérait pas de leurs obligations à titre de fiduciaire, qu’il ne s’agissait pas d’une délégation de leurs pouvoirs de fiduciaires, mais qu’ils devaient exercer ces pouvoirs « en adéquation avec leur engagement envers les frères Rémillard ». L’entente prévoyait de plus que « si les fiduciaires ou certains d’entre eux » étaient « en désaccord avec les directives reçues . . . ils devaient remettre leurs démissions à titre de fiduciaires » et seraient remplacés selon les modalités prévues à l’acte constitutif de la Fiducie, le tout tel que prévu aux paragraphes 2.1 et 2.2 de l’entente.
+[10] Par résolutions écrites datées du 4 décembre 2013 et du 12 décembre 2013, faisant suite à une demande signée par les frères Rémillard, les fiduciaires ont attribué à Lucien Rémillard un revenu de 30 000 000 $ et un revenu de dividendes de 72 000 $, pour un total de 30 072 000 $.
+[11] Par résolution écrite datée du 29 octobre 2015 faisant suite à une demande signée par les frères Rémillard, les fiduciaires ont attribué à Lucien Rémillard un revenu de dividendes de 20 000 000 $ et par résolution écrite datée du 27 novembre 2015 faisant suite à une demande signée par les frères Rémillard, les fiduciaires ont attribué à Lucien Rémillard un revenu de dividendes de 250 000 $.
+[12] Les montants ainsi attribués à Lucien Rémillard, soit la somme de 30 072 0000 $ pour l’année d’imposition 2013 et 20 250 000 $ pour l’année d’imposition 2015, ont été déduits à l’encontre des revenus de la Fiducie conformément au paragraphe 104(6) de la Loi de l’impôt sur le revenu (la « LIR »).
+[13] Le 9 août 2017, la ministre du Revenu national a établi de nouvelles cotisations refusant la déduction réclamée par la Fiducie pour les montants susmentionnés aux motifs qu’en vertu de l’entente intervenue le 15 novembre 2013, les fiduciaires s’étaient engagé i) a exercé leurs pouvoirs à l’égard de la Fiducie selon les directives transmises par les frères Rémillard ii) de ne prendre aucune décision visant la Fiducie sans avoir préalablement obtenu l’accord des frères Rémillard et iii) de démissionner à titre de fiduciaires en cas de désaccord avec les directives reçues des frères Rémillard, et que, en s’engageant de la sorte, les fiduciaires avaient abdiqué leur libre arbitre quant aux prises de décisions nécessaires à l’exercice de leurs pouvoirs discrétionnaires à l’égard de la Fiducie et avaient délégué ces pouvoirs aux frères Rémillard.
+[14] Selon la ministre, en vertu de l’entente intervenue le 15 novembre 2013, les frères Rémillard étaient devenus à la fois bénéficiaires et fiduciaires dans les faits, et ce, sans agir conjointement avec un fiduciaire qui n’était ni constituant ni bénéficiaire, ce qui était contraire à l’article 1275 du Code civil du Québec (le « CCQ ») qui crée une prohibition à cet égard qui est d’ordre public.
+[15] La ministre maintient donc que les attributions faites par les fiduciaires pour les montants susmentionnés en faveur de Lucien Rémillard pour les années d’imposition 2013 et 2015 « sont invalides et frappées de nullité absolue » et donc que la Fiducie ne pouvait déduire les montants attribués conformément au paragraphe 104(6) de la LIR.
+[16] Selon l’appelante, l’entente intervenue le 15 novembre 2013 « n’a jamais eu pour but ou effet » et « l’intention des parties n’a jamais été » de retirer aux fiduciaires leurs pouvoirs d’administration sur la Fiducie et que, depuis la conclusion de l’entente, ils ont continué à exercer les pouvoirs et les devoirs qui leur avaient été dévolus par l’acte de fiducie. L’appelante prétend de plus que le tout était conforme aux articles 1275, 1278, 1287, 1312 et 1314 du CCQ qui permet notamment aux bénéficiaires d’exercer « un certain droit de regard dans la prise de décisions par les fiduciaires » et aux fiduciaires de prendre toute mesure propre à assurer l’affectation du patrimoine incluant la consultation des bénéficiaires.
+[17] L’appelante maintient finalement que même si les attributions en question n’étaient pas conformes à l’article 1275 de CCQ, tel que le prétend la ministre, il s’agirait d’une nullité relative et non absolue conformément à l’article 1419 du CCQ et la ministre n’aurait pas l’intérêt requis pour invoquer la nullité des attributions qui ont été ratifiées par le bénéficiaire.
+Les représentations des parties
+[18] Je me tourne maintenant aux principaux arguments avancés par les parties dans le contexte de la requête en vertu de la Règle 58.
+[19] Dans l’avis de requête qui, rappelons-le a été déposée conjointement, les parties indiquent au paragraphe 10 qu’une détermination des « Questions Proposées » dont un sommaire a été fait ci-haut, « aurait pour effet de régler l’instance en totalité ou en partie et donc qu’elle abrégerait substantiellement l’instance en délimitant les questions en litige et donc la preuve à être administrée par les parties ».
+[20] Au paragraphe 11 de l’avis de requête, les parties indiquent « que la détermination des Questions Proposées constitue l’utilisation la plus efficace, dans les circonstances de cet appel, des ressources de la Cour et des parties ».
+[21] Au paragraphe 20 des représentations conjointes, il est indiqué que « la Règle 58 vise, entre autres objectifs, à assurer le Règlement équitable et rapide des litiges . . . et à assister les parties à trouver des solutions susceptibles de mettre fin au litige sans procès, ce qui ainsi permet d’accroitre l’accès à la justice, considérant les critères de proportionnalité, d’efficacité et d’équité qui la sous-tendent ».
+[22] Les parties indiquent (paragraphe 23) que la « Question (a) soulève l’effet juridique d’une entente conclue entre les fiduciaires et les frères Rémillard », que « les Questions (b) et (c) soulèvent la portée ainsi que l’effet de l’article 1275 du CCQ sur les attributions » et que « la Question (d) soulève la question de l’intérêt qu’a l’Agence à soulever la nullité alléguée qu’engendre l’article 1275 du CCQ », ces questions étant tous soulevée dans les actes de procédures.
+[23] Les parties maintiennent, en citant la décision Ironside c. La Reine, 2015 CCI 116, que le test pour la Règle 58 consiste à déterminer si la disposition de ces questions « pourrait » disposer de l’instance en tout ou en partie et qu’il n’est pas nécessaire que la Cour soit « absolument convaincue » que c’est ce qui se passera pour renvoyer la question à la deuxième étape du processus avant l’audience.
+[24] Les parties maintiennent de plus que si les Questions (a) et (b) recevaient une réponse négative, cette détermination mettrait fin de l’instance en faveur de la Fiducie, mais que si la détermination se faisait en faveur de l’intimée, cela abrégerait l’audience d’une durée correspondante au temps qui serait consacré à débattre cette question et guiderait les parties dans l’administration de leur preuve, réduisant ainsi le temps de témoignage.
+[25] En ce qui concerne la Question (c), les parties indiquent que s’il était décidé que la nullité alléguée était absolue, cela mettrait fin à l’instance en faveur de l’intimée, mais qu’une décision contraire abrégerait l’audience d’une durée correspondant au temps qui serait consacré à débattre cette question et guiderait les parties dans l’administration de leur preuve, réduisant ainsi le temps de témoignage.
+[26] Et enfin, quant à la Question (d), une décision selon laquelle l’Agence n’a pas intérêt mettrait fin à l’instance en faveur de la Fiducie, mais une décision contraire abrégerait l’audience d’une durée correspondant au temps qui serait consacré à débattre cette question et guiderait les parties dans l’administration de leur preuve, réduisant ainsi le temps de témoignage.
+[27] Les parties concluent donc dans leurs représentations conjointes (paragraphe 29) que les réponses aux Questions Proposées règleraient l’instance en totalité ou en partie, et dans ce dernier cas, délimiteraient les questions et par le fait même, abrégeraient la preuve à être administrée par les parties à l’audience et que, dans l’un ou l’autre cas, les réponses aux Questions Proposées seraient susceptibles d’engendrer des économies de délai, de coûts pour les parties et de ressources judiciaires.
+[28] Pour ces motifs, les parties maintiennent que la détermination des Questions Proposées constitue l’utilisation la plus efficace des ressources de la Cour et des parties dans les circonstances de cet appel.
+Deux observations
+[29] Avant de revoir la Règle 58, je vais faire deux observations. Premièrement, les parties ont conjointement déposé un avis de requête et des représentations écrites. Il est donc pertinent de revoir la décision récente de Patel c. Canada, 2020 CAF 27 ou il était aussi question d’une demande conjointe en vertu du paragraphe 172(2) de la LIR. La Cour fédérale d’appel a indiqué, et je cite « le fait que les parties s’entendent quant à la manière dont leurs appels en matière fiscale devraient être instruits est un facteur très pertinent, bien que non déterminant, à prendre en compte dans l’exercice du pouvoir discrétionnaire visant à déterminer si la demande des parties doit être accueillie ou refusée » (mon soulignement). Donc même si les parties dans cette instance ont conjointement déposé un avis de requête, la Cour doit néanmoins analyser le tout dans l’exercice de son pouvoir discrétionnaire pour enfin décider si la demande doit être accueillie ou refusée.
+[30] Deuxièmement, bien que les parties n’aient pas soulevé la Règle 4 des Règles de la CCI, je suis d’avis qu’il faut en tenir compte puisqu’elle prévoit, et je cite que « les Règles doivent recevoir une interprétation large afin d’assurer la résolution équitable sur le fond de chaque instance de la façon la plus expéditive et la moins onéreuse ».
+La Règle 58
+[31] Qu’en est-il de la Règle 58? Les requêtes présentées en vertu de cette Règle comportent deux étapes. Premièrement, la Cour doit décider s'il convient de trancher la question, selon ce qui est prévu par la Règle. Deuxièmement, si c'est le cas, la Cour entendra l'argumentation et tranchera la question ou les questions.
+[32] À mon avis, il y a trois éléments essentiels. Premièrement, il doit y avoir « une question de droit ou une question de droit et de fait » qui, deuxièmement, est « soulevé dans un acte de procédure » et troisièmement, la Cour doit être satisfaite que les questions à tranchées pourraient « régler l’instance en totalité ou en partie, abréger substantiellement celle-ci ou résulter en une économie substantielle de frais ».
+[33] L’alinéa 58(1)(a) a été amendé et élargi en 2014 pour prévoir que la Règle s’appliquait à « une question de fait ou une question de droit et de fait » plutôt que seulement « une question de droit ». Tel que l’indique la juge Campbell au paragraphe 26 de la décision McIntyre c. La Reine, 2014 CCI 111, « depuis que cette disposition des Règles a été modifiée, l’existence d’un litige factuel n’est plus un obstacle absolu à une décision de faire droit à une demande, mais demeurera pertinente relativement à la question de savoir si la décision abrégera substantiellement l’audience ou entraînera une économie substantielle ».
+[34] La juge Campbell a ensuite conclu (paragraphe 27) que « malgré cette modification, une décision fondée sur l’article 58 des Règles ne devrait en aucun cas remplacer une audience et il ne devrait pas y avoir de contestation des faits importants qui sous-tendent la question de droit. Cela signifie que la procédure prévue à l’article 58 des Règles ne devrait pas servir de solution de rechange à un procès aux fins de régler des points litigieux ».
+[35] L’amendement de 2014 a aussi étendu l’application de la Règle 58 aux questions sur l'admissibilité d'un élément de preuve. Tel que l’indique le juge Owen dans la décision Paletta c. La Reine, 2016 CCI 171, « l'ajout de cette condition préalable confirme la portée large de l'article 58 actuel, puisqu'il peut maintenant porter sur pratiquement toute question qui pourrait survenir lors de l'audience de l'appel ». Le juge Owen indique de plus que « selon le paragraphe 58(2), il suffit s'il « appert » que l'audience tenue en vertu de l'article 58 « pourrait » mener à l'un des résultats précisés. Le verbe « pouvoir » est utilisé dans deux sens au paragraphe 58(2). Le premier sens est permissif, et il s'agit également du sens qu'il a au paragraphe 58(1). La répétition du sens permissif montre clairement que la décision de rendre une ordonnance est entièrement discrétionnaire. Plus précisément, le fait qu'une question puisse satisfaire aux exigences des paragraphes 58(1) et 58(2) n'oblige pas la Cour à rendre une ordonnance en vertu de l'article 58 ».
+[36] Dans Paletta, le litige portait sur une question de pénalité pour faute lourde et de prescription en vertu de la LIR. Le juge Owen a rejeté la demande pour une ordonnance en vertu de la Règle 58 au motif que « [l]a façon de présenter la preuve suggérée par l’appelant n’offrirait pas une adjudication juste et équitable de la question de la prescription ». Cette conclusion a été confirmée par la Cour fédérale d’appel (2017 CAF 33) qui a conclu qu’il était « loisible de conclure qu’une procédure au titre de l’article 58 des Règles n’était pas justifiée ».
+[37] Dans la décision Sentinel Hill Productions IV Corp. c. La Reine, 2014 CAF 161, la question proposée en vertu de la Règle 58 reposait sur une hypothèse non prouvée que les sociétés de personnes n'existaient pas pendant les périodes concernées et l'existence même de ces sociétés de personnes était une question controversée. La CCI a refusé d’obtempérer à la demande en vertu de la Règle 58 et la Cour d’appel fédérale était d’accord indiquant, et je cite « qu’il serait entièrement théorique de vouloir répondre à la question proposée avant que ne soit tranchée la question de l’existence de la société de personnes » (paragraphe 6).
+[38] À mon avis, la plus récente décision de Canada c. Lux Operating Limited Partnership c. La Reine, 2020 FCA 162 abonde dans le même sens. Dans cette décision, la question proposée en vertu de la Règle 58 avait été acceptée au stade préliminaire et la requête avait été entendue par un autre juge de la CCI qui devait adresser la question de la détermination de déduction par une société de personnes en vertu du paragraphe 152(1.4) de la LIR. La Cour d’appel fédérale a noté que la question de fait, à savoir s’il existait ou non une société de personne, n’avait jamais été adressée et que la Cour n’était pas en mesure de répondre à la question avec un « oui » ou un « non » définitif. Elle a donc conclu que la question était prématurée et a indiqué ce qui suit au paragraphe 23 et 24:
+TRADUCTION NON-OFFICIELLE
+23. La validité des sociétés de personnes a clairement été mise en cause par la Couronne dans les plaidoiries déposées devant la Cour canadienne de l'impôt. Par conséquent, la question préliminaire que la Cour de l'impôt devra aborder dans ces appels est de savoir si les prétendues sociétés de personnes étaient des sociétés de personnes valides . . . .
+24. . . . Par conséquent, s'il n'y avait pas de sociétés de personnes en 2006, il ne pourrait y avoir de déterminations valides à l'égard des sociétés de personnes en vertu du paragraphe 152(1.4) de la Loi.
+[39] Au paragraphe 39 et 40 la Cour fédérale indique ce qui suit :
+39. Cette situation est similaire à celle de l'affaire Antle et al. v. The Queen, 2009 TCC 465, où la fiducie a fait l'objet d'une cotisation, mais où l'existence de la fiducie était contestée. La fiducie a pu interjeter appel devant la Cour de l'impôt et, même si son appel devant la Cour de l'impôt a été annulé, la fiducie a également pu interjeter appel devant cette Cour (2010 CAF 280). Dans chaque cas, la première question à trancher était de savoir si la fiducie existait.
+40. De même, dans cette affaire, la première question qui devrait être tranchée par la Cour d’Impôt (ou tout autre tribunal ultérieur) serait l'existence des sociétés de personnes. Si le tribunal conclut que les sociétés de personnes existaient en 2006, il pourrait alors aborder la question du montant de la perte de chaque société de personnes pour chaque exercice aux fins de la Loi.
+[40] La Cour fédérale a donc conclu de la façon suivante aux paragraphes 46 et 47:
+46. La réponse à la question telle que posée par les parties n'est ni un oui ni un non définitif. Ce n'est pas une question qui aurait dû être posée en vertu de la règle 58, car elle est prématurée. La question clé à laquelle il faut répondre avant de pouvoir examiner la validité des déterminations faites en vertu du paragraphe 152(1.4) de la Loi est de savoir si les sociétés de personnes ont existé. C'est la question que les parties devraient soulever devant la Cour canadienne de l'impôt. Une fois que la validité des sociétés de personnes a été définitivement décidée, soit les déterminations sont invalides (si les sociétés de personnes n'existaient pas), soit les déterminations ont été valablement émises (si les sociétés de personnes étaient valides) et l'exactitude des déterminations selon lesquelles les pertes étaient nulles peut être examinée par la Cour.
+47. J'accueillerais donc les appels sans frais et annulerais l'ordonnance rendue par la Cour fiscale. En rendant l'ordonnance que la Cour fiscale aurait dû rendre, la réponse à la question est que la question est prématurée et qu'il n'est pas possible d'y répondre définitivement à l'heure actuelle.
+[41] Il me semble donc évident dans cette décision que la procédure en vertu de la Règle 58 n’a pas porté fruit. L’appel n’a pas été abrégé substantiellement et il n’y a pas eu une économie substantielle de frais pour les parties.
+[42] Je poursuis donc ma revue de la jurisprudence en indiquant que dans la décision 3488063 Canada Inc. c. La Reine, 2016 D.T.C. 5099, la Cour d’appel fédérale a confirmé que si la question au cœur du litige tourne sur des questions de faits importants « le juge du procès est celui qui doit entendre la preuve ». De même, dans la décision Banque HSBC Canada c. La Reine, 2011 CCI 37, le juge C. Miller a maintenu que la jurisprudence a établi que dans une procédure en vertu de la Règle 58, les faits sous-jacents aux questions de droit ne devraient pas être contestés.
+[43] Le principe voulant qu’une requête en vertu de la Règle 58 ne soit pas appropriée lorsque des faits importants sont contestés, c’est-à-dire des faits portants sur une question de fond, a été soutenu dans les décisions Aitchison Professional Corp. c. La Reine, 2016 CCI 281 ; Cougar Helicopters inc. c. La Reine, 2017 CCI 126 et Lehigh Hanson Materials Limited c. La Reine, 2017 CCI 205.
+[44] Et finalement, dans la décision récente de McCartie c. La Reine, 2020 CAF 18, le juge de première instance avait rejeté une demande en vertu de la Règle 58 et sa décision avait été portée en appel. La Cour fédérale était d’accord avec la CCI indiquant au paragraphe 22, et je cite:
+22. En outre, comme le juge de la Cour canadienne de l’impôt l’a souligné à juste titre, vu les circonstances de la présente instance, il a refusé d’ordonner la détermination des questions en application de la Règle 58, parce que « [l]a détermination des trois premières questions à trancher exigerait que le juge des requêtes entende des témoignages qui devraient fort probablement être répétés devant le juge du procès, quelles que soient les réponses aux questions. La possibilité que deux juges, après avoir entendu un témoignage considérable, se prononcent sur la crédibilité des mêmes témoins et sur le poids à accorder à leurs témoignages à l'occasion des mêmes appels, n'est ni équitable ni conforme aux intérêts des parties et de la justice » (Motifs, au paragraphe 45).
+Analyse et conclusion
+[45] Dans cette instance, les parties indiquent dans leurs représentations conjointes que les questions (a) à (d) sont des questions « de droit et/ou des questions mixtes de droit et de fait ». Or dans la décision Canada (directeur des enquêtes et recherches) c. Southam Inc., [1997] 1 R.C.S. 748, la Cour suprême du Canada a adressé cette question en indiquant (paragraphe 35) que « les questions de droit concernent la détermination du critère juridique applicable » tandis que « les questions de fait portent sur ce qui s’est réellement passé entres les parties » et finalement « les questions de droit et de fait consistent à déterminer si les faits satisfont au critère juridique ».
+[46] À la lumière de ceci, je conclus que les questions (c) à (d) sont des questions de droit tandis que la question (a) est une question mixte de droit et de fait puisqu’elle porte sur l’effet juridique et la nature même de l’entente intervenue le 15 novembre 2013 entre les fiduciaires et les frères Rémillard.
+[47] L’intimé prétend que l’entente était contraire à l’article 1275 du CCQ qui est d’ordre public, mais l’appelante soulève des questions factuelles au paragraphe 22 de l’avis d’appel indiquant que « l’entente n’a jamais eu pour but ou effet de retirer aux fiduciaires leurs pouvoirs d’administration sur la Fiducie » et encore au paragraphe 38 que « l’intention des parties à l’entente n’a jamais été d’effectuer une délégation générale de pouvoirs des fiduciaires en faveur des frères Rémillard . . . tels que le démontre le comportement des parties suite à l’entente ».
+[48] À mon avis, il sera quasi impossible de répondre à la question traitant du but ou de l’objet ou encore de l’intention des parties à l’entente sans entendre le témoignage des fiduciaires ou des frères Rémillard ou au moins certains d’entre eux. Si le juge des requêtes devait entendre le témoignage de ces témoins, il est fort probable qu’ils seraient appelés à témoigner à nouveau devant le juge du procès ce qui soulève la possibilité que deux juges se prononcent sur la crédibilité des mêmes témoins, ce qui serait contraire aux principes énoncés par la CAF dans les décisions 3488063 Canada Inc. ou encore McCartie, précités. Les parties reconnaissent d’ailleurs cette possibilité aux paragraphes 26 à 28 des représentations conjointes ou il est indiqué que, dépendant de la résolution des Questions (a), (b), (c) ou (d), ceci « guiderait les parties dans l’administration de leur preuve, réduisant ainsi le temps de témoignage ». Force est de constater qu’il s’agirait du même témoignage lors du procès même s’il était réduit.
+[49] À mon avis, le but, l’objet et l’intention des signataires de l’entente intervenue le 15 novembre 2013 sont tous des questions de fait essentiel qui sont sous‑jacentes aux questions de droits. Comme le souligne le juge Webb dans la décision Lux Investor, à moins que la Cour se penche sur cette question et arrive à une conclusion définitive, les autres questions sont en quelque sorte prématurées. Ou encore, pour reprendre la conclusion de la CAF dans Sentinel Hill, à moins que cette question soit adressée de façon définitive, il serait théorique d’adresser les questions (c) à (d).
+[50] De plus, tel que l’indique la Juge Campbell dans la décision McIntyre, précitée, la procédure prévue à la Règle 58 ne devrait pas servir de solution de rechange à un procès sur les faits et, à mon avis, c’est ce que les parties tentent de faire ici. En effet, il me semble apparent que les Questions Proposées résument l’ensemble du litige, ce qui n’est pas le but de la Règle 58.
+[51] Pour conclure, je ne suis pas convaincu que la procédure proposée est appropriée ou qu’elle aurait pour effet d’abréger substantiellement l’appel ou qu’il en résulterait une économie substantielle de frais. Les montants en jeu sont élevés, mais les faits sont relativement simples. À mon avis, les parties pourraient abréger substantiellement l’appel et réduire les frais en complétant les interrogatoires au moyen de questions écrites ce qui permettrait ensuite aux parties de préparer et de déposer une entente partielle sur les faits avant la tenue de l’audience. Le témoignage des fiduciaires et des frères Rémillard, ou de certains d’entre eux, sur la question du but, de l’objet et de l’intention de l’entente devrait être d’une courte durée, suivi des représentations orales ou écrites sur les questions de droit.
+[52] La requête est rejetée, mais la Cour ordonne aux parties de déposer une demande conjointe pour fixer un échéancier au plus tard le 19 mars 2021.
+[53] Le tout sans dépens.
+Signé à Ottawa (Canada), ce 17e jour de mai 2021.
+« Guy R. Smith »
+Juge Smith
+RÉFÉRENCE :
+2021 CCI 38
+Nº DU DOSSIER DE LA COUR :
+2019-1335(IT)G
+INTITULÉ DE LA CAUSE :
+FIDUCIE HISTORIA ET
+LA REINE
+LIEU DE L’AUDIENCE :
+Ottawa (Canada)
+DATE DE L’AUDIENCE :
+Le 19 février 2021
+MOTIFS DE L’ORDONNANCE PAR :
+L’honorable juge Guy R. Smith
+DATE DE L’ORDONNANCE :
+Le 17 mai 2021
+COMPARUTIONS :
+Avocats de l’appelante:
+Me Guy Du Pont
+Me Élisabeth Robichaud
+Me Sammy Cheaib
+Avocats de l'intimée:
+Me Susan Shaughnessy
+Me Michel Lamarre
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelant:
+Nom :
+Me Guy Du Pont
+Me Élisabeth Robichaud
+Me Sammy Cheaib
+Cabinet :
+Davies Ward Phillips & Vineberg S.E.N.C.R.L.
+Pour l’intimée :
+Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa (Canada)

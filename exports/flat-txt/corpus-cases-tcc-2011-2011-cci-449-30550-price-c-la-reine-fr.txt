@@ -1,0 +1,250 @@
+Title: Price c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30550/index.do
+Corpus path: corpus/cases/tcc/2011/2011-cci-449-30550-price-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2011-10-12
+
+# Price c. La Reine
+
+- Citation: 2011 CCI 449
+- Decision date: 2011-10-12
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7304, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Price c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2011-10-12
+Référence neutre
+2011 CCI 449
+Numéro de dossier
+2002-4174(IT)G
+Juges et Officiers taxateurs
+Cameron Hugh McArthur
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2002-4174(IT)G
+ENTRE :
+GORDON PRICE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appels entendus les 24, 25 et 26 novembre 2010 et
+les 14, 15, 16 et 17 juin 2011 à Ottawa (Ontario)
+Devant : L’honorable juge C. H. McArthur
+Comparutions :
+Avocate de l’appelant :
+Me Frances M. Viele
+Avocat de l’intimée :
+Me Charles M. Camirand
+JUGEMENT
+Les appels interjetés à l’encontre des cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 1995, 1996, 1997, 1998, 1999 et 2000 sont accueillis et les cotisations sont déférées au ministre du Revenu national pour qu’il procède à un nouvel examen et établisse de nouvelles cotisations en tenant compte de ce qui suit :
+i) Les pourcentages de revenu se rapportant aux vols de l’appelant en dehors du Canada sont les suivants :
+Vancouver à Toronto : 31 %
+Toronto à Vancouver : 49 %
+ii) Les calculs du ministre concernant les autres vols internationaux sont acceptés. Le temps et la distance parcourus dans l’espace aérien canadien pour les vols à destination de Shannon (Irlande) et de Londres (Angleterre), ou les vols qui ont emprunté un itinéraire semblable, égalent respectivement 168 minutes et 1 229 miles;
+iii) Les prestations d’invalidité reçues par l’appelant sont imposables au Canada, tel qu’elles ont été calculées par le ministre : 8 500 $ en 1999 et 17 500 $ en 2000;
+iv) Comme l’a concédé l’intimée, la rémunération se rapportant à la mise en place pour les vols de retour à destination et en provenance de Winnipeg est répartie tel qu’il a été convenu;
+v) Conformément à la concession de l’intimée, la rémunération se rapportant à la formation reçue en 2000 n’est pas imposable au Canada, contrairement à tous les revenus non liés à des fonctions précises, comme l’a établi précédemment le ministre.
+Aucuns dépens ne sont adjugés.
+Signé à Ottawa, Canada, ce 12e jour d’octobre 2011.
+« C. H. McArthur »
+Juge McArthur
+Traduction certifiée conforme
+ce 12e jour de décembre 2011.
+Mario Lagacé, jurilinguiste
+Référence : 2011 CCI 449
+Date : 20111012
+Dossier : 2002-4174(IT)G
+ENTRE :
+GORDON PRICE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge McArthur
+[1] Les présents appels sont interjetés à l’encontre des avis de cotisation par lesquels le ministre du Revenu national a augmenté la part du revenu canadien de l’appelant pour les années d’imposition 1995, 1996, 1997, 1998, 1999 et 2000. Pendant les années pertinentes, l’appelant ne résidait pas au Canada mais aux Bermudes. En vertu du sous‑alinéa 115(1)a)(i) de la Loi de l’impôt sur le revenu (la « Loi »), les revenus que tire au Canada un non-résident des fonctions d’emplois qu’il exerce ici sont imposables. Il n’existe aucune convention fiscale entre le Canada et les Bermudes et le revenu de l’appelant gagné à l’extérieur du Canada n’est donc pas imposable dans ce pays.
+[2] La question est de savoir quelle proportion de son revenu gagné chez Air Canada est imposable au Canada.
+[3] L’appelant, un ancien pilote en chef (capitaine), conteste la méthode employée par le ministre pour calculer la portion canadienne de son revenu gagné chez Air Canada. Une quarantaine d’autres pilotes de cette même société aérienne ont interjeté de semblables appels. Cette affaire a été qualifiée de cause dont la décision fera jurisprudence, bien que la décision Sutcliffe c. Sa Majesté la Reine[1] l’ait été également et qu’elle soit antérieure. Il est reconnu que l’appelant (aujourd’hui à la retraite) était un non‑résident du Canada au sens de la Loi pendant toutes les périodes pertinentes.
+[4] Les parties pensaient avoir réglé la question touchant les vols internationaux au cours des trois premiers jours de l’audience qui s’est tenue en novembre 2010, mais certains détails ont été contestés ultérieurement. Dans l’ensemble, les questions litigieuses concernent la répartition du revenu pour les vols intérieurs (principalement des allers‑retours entre Toronto et Vancouver) et pour des fonctions non précises telles que la rémunération pendant les vacances, les congés de maladie, la mise en place et d’autres obligations non liées aux vols.
+[5] Un des faits établis est que l’appelant était citoyen canadien, mais qu’il résidait aux Bermudes pendant les années pertinentes – de 1995 à 2000 inclusivement. Son épouse et lui s’y sont installés en 1993. Tous les vols, internationaux et intérieurs, qu’il a pilotés partaient du Canada, principalement de Toronto. En tant que pilote en chef, il pouvait décider de ses itinéraires de voyage; la plupart des trajets étaient internationaux. La répartition des fonctions qu’il a exercées à l’intérieur et à l’extérieur du Canada permettra d’établir son revenu imposable au Canada. De 1995 à 2000 inclusivement, il a gagné le revenu suivant chez Air Canada : 175 000 $, 202 000 $, 196 000 $, 212 500 $, 215 500 $ et 261 000 $, respectivement.
+[6] Dans la décision précédente, M. Sutcliffe était lui aussi un pilote d’Air Canada qui en appelait de la méthode de répartition de son revenu adoptée par le ministre. Son affirmation selon laquelle il n’était pas résident n’a pas non plus été contestée. Contrairement à la situation en l’espèce, la répartition touchant les vols internationaux avait donné lieu à de plus vifs débats. La décision Sutcliffe traitait également de la question des vols intérieurs et des fonctions non liées aux vols.
+[7] En 1999, M. Price a reçu 17 000 $ en prestations d’invalidité, dont 8 500 $ ont été attribués à son revenu canadien. De même, il a reçu 34 500 $ en 2000, dont 17 500 $ ont été attribués à des prestations d’invalidité reçues au Canada. Il fait valoir qu’en tant que non‑résident, aucune de ces prestations ne devrait être considérée comme un revenu canadien.
+[8] Le ministre soutient que le revenu se rapportant à des vols intérieurs est un revenu gagné au Canada, sans égard à l’espace aérien dans lequel les vols s’effectuent. Un grand nombre de vols, les trajets Toronto‑Vancouver et Toronto‑Montréal par exemple, traversent l’espace aérien américain.
+[9] Les conditions d’emploi de l’appelant étaient énoncées dans une convention (le « contrat[2] ») négociée entre Air Canada et l’Association des pilotes d’Air Canada. L’appelant était rémunéré en fonction du temps de vol en minutes, comme le montrent les annexes A à F de la réponse du ministre à l’avis d’appel. Il n’est pas nécessaire d’examiner ici la convention dans le menu détail.
+[10] Pour tous les vols, l’appelant consacrait un minimum de quinze minutes au Canada aux contrôles prévol, aux formalités de sortie et aux manœuvres d’atterrissage et de roulage, dans le cadre de ses fonctions d’emploi. En plus du temps de vol, l’appelant était aussi rémunéré pour la mise en place[3], dont le revenu a été réparti selon le lieu de départ et d’arrivée du vol de mise en place. La rémunération reçue pour sa disponibilité a été attribuée aux vols respectifs et celle qui se rapportait aux formations l’a été suivant l’endroit où la formation a eu lieu.
+[11] Par ailleurs, l’appelant était rémunéré pour les congés de maladie, les vacances, les déplacements et les heures accumulées et bénéficiait d’autres avantages décrits plus précisément dans le contrat, et à l’égard desquels il ne s’acquittait d’aucune fonction précise. La répartition de ce revenu, comme de celui qui a été reçu pour des fonctions réellement exercées, était proportionnelle. L’appelant gagnait également d’autres montants accessoires, notamment au titre de la garantie concernant la période de service, de la garantie de jumelage et de la rémunération des opérations outremer, répartis selon les vols auxquels ils se rapportaient.
+[12] L’audience a débuté le 24 novembre 2010 et s’est poursuivie les deux jours suivants, après quoi elle a été ajournée pour permettre aux parties d’obtenir de NavCanada (« NavCan[4] ») les renseignements nécessaires sur la durée de vol dans l’espace aérien américain lors des vols intérieurs et de concevoir une formule mathématique permettant de résoudre la question des vols intérieurs. Une montagne de données devait être condensée en pourcentages utilisables dans l’espoir que les parties s’entendent sur des calculs de répartition raisonnables.
+[13] Le présent litige entre les parties concerne surtout la durée de vol dans l’espace aérien américain et canadien pour les trajets que l’appelant a effectués entre Toronto et Vancouver, de même que la répartition de ses fonctions non liées au vol lorsqu’il attendait un vol de retour de l’étranger. Je crois comprendre que, du point de vue de l’appelant, presque 90 % de ses vols entre Toronto et Vancouver[5] s’effectuaient dans l’espace aérien américain. Le ministre obtient un pourcentage bien inférieur en se basant sur les moyennes déduites des plans de vol d’Air Canada.
+[14] Comme nous l’avons déjà mentionné, outre la répartition des vols Toronto‑Vancouver, l’autre principale question litigieuse concerne la répartition du travail entre les vols, qui représente, d’après l’appelant, 70 % des fonctions qu’il exerce loin de chez lui[6]. Sous la rubrique [traduction] « Motifs sur lesquels l’appelant entend s’appuyer » de l’avis d’appel modifié, M. Price déclare notamment :
+[traduction]
+2. En l’occurrence, le ministre n’a pas tenu compte du lieu d’emploi et de l’activité rémunératrice réels ou véritables. Pour établir la cotisation ou la nouvelle cotisation, le ministre s’est appuyé sur une invention ou sur des présomptions déraisonnables et injustes. L’appelant fait valoir que des hypothèses généralisées, comme la nouvelle méthode de répartition, ne peuvent s’appliquer rationnellement que lorsque les faits réels ou véritables ne sont pas connus ou ne peuvent pas être connus; elles ne peuvent jamais se substituer aux faits réels et véritables.
+3. Il n’existe aucun lien rationnel entre la méthode et les critères de répartition d’une part et leur finalité d’autre part. Leur application artificielle permet de générer un plus grand revenu imposable au Canada. Le poids relatif accordé aux diverses fonctions d’emploi ne repose sur aucun motif rationnel ou légitime.
+[15] L’audition des appels, qui a commencé en novembre 2010, a duré trois jours et s’est poursuivie quatre jours en juin 2011. Les parties se sont entendues sur certaines questions, mais ont dû en débattre à nouveau pendant l’audience de juin, qui s’est avérée relativement laborieuse.
+[16] À la fin de l’audience, les avocats des parties ont énuméré les questions qu’ils souhaitaient voir abordées :
+a) Quelle méthode de répartition est plus raisonnable pour établir le revenu de l’appelant gagné au Canada? Comment la présente affaire devrait-elle être traitée eu égard à la décision Sutcliffe?
+b) Quel pourcentage des vols Toronto‑Vancouver et Vancouver‑Toronto s’est effectué au‑dessus du Canada? Le témoignage du témoin de NavCan est‑il admissible?
+c) Les prestations d’invalidité sont‑elles imposables au Canada?
+d) Quelle méthode devrait être employée pour les vols internationaux : les minutes de vol ou la distance parcourue au‑dessus du Canada?
+e) La Cour devrait‑elle recommander que le ministre renonce au calcul des intérêts sur les impôts impayés? La nouvelle cotisation de l’appelant établie six ans après l’avis d’opposition était‑elle équitable?
+J’examinerai ces questions dans l’ordre.
+a) Méthode de répartition La méthode de répartition de l’intimée [17] La méthode de répartition de l’intimée suit en grande partie celle qui avait été retenue dans Sutcliffe, dont les faits sont très proches du cas qui nous occupe. Avant cette décision, le revenu attribué aux vols internationaux n’était pas imposable au Canada, contrairement à celui qui était attribué aux vols intérieurs. On entendait par vol international un vol dont la provenance ou la destination se trouvait à l’extérieur du Canada, peu importe s’il s’effectuait partiellement ou en majorité au‑dessus du territoire canadien. Un vol intérieur était un vol en provenance et à destination d’un lieu au Canada, peu importe s’il se déroulait partiellement ou en majorité au‑dessus d’un territoire en dehors du Canada.
+[18] Dans la décision Sutcliffe, la juge Woods s’est écartée de cette formule et a décidé que le revenu gagné par un pilote non‑résident auprès d’une société aérienne canadienne devait être réparti et imposé ainsi :
+· le revenu gagné par le pilote relativement à la partie du vol intérieur qui s’effectue dans l’espace aérien canadien est considéré comme un revenu gagné au Canada;
+· le revenu gagné par le pilote relativement à la partie du vol international qui s’effectue dans l’espace aérien canadien est considéré comme un revenu gagné au Canada;
+· la rémunération versée par la société aérienne au pilote pour des fonctions non précises, telles que les vacances et les congés de maladie, doit être répartie au prorata des fonctions exercées au Canada.
+Le revenu gagné au Canada est établi suivant le temps que le pilote passe dans l’espace aérien canadien. La juge s’est servie des hypothèses suivantes pour calculer le temps passé dans l’espace aérien canadien :
+· les trajectoires moyennes de vol sont déterminées comme étant la route la plus directe entre le point d’origine et celui de destination en utilisant la navigation traditionnelle, c.‑à‑d., les grands arcs de cercle;
+· la distance au Canada est calculée en prenant la distance entre le point d’origine (ou de destination) et (ou depuis) le point à la frontière ou dans les eaux territoriales où le vol quitte le Canada (ou y entre), ce qui est déterminée en fonction de la trajectoire moyenne de vol;
+· la distance pour la trajectoire de vol est obtenue à l’aide des données reçues d’une société aérienne canadienne et cette distance a été vérifiée auprès d’une source indépendante;
+· le temps au Canada est déterminé en divisant la distance parcourue au Canada par la vitesse;
+· la vitesse est la vitesse moyenne pendant toute la durée du vol, déterminée par rapport à la distance et aux minutes pour le vol telles qu’elles sont indiquées par la société aérienne.
+La méthode de répartition de l’appelant [19] L’appelant ne souscrit pas du tout à la méthode de répartition de l’intimée. Il distingue les faits de la décision Sutcliffe de la présente affaire. Tout d’abord, Mark Sutcliffe était copilote puis, pendant sa première année comme commandant de bord, il a piloté avant tout des DC9 et des A320, principalement au Canada et aux États‑Unis. L’appelant a pour sa part trente ans d’expérience comme commandant de bord et il pilotait de plus gros avions (des 747 et des Airbus 340), surtout vers des destinations outremer. L’appelant indique que Mark Sutcliffe pilotait des vols court‑courriers, probablement vers une destination canadienne ou américaine, et qu’il lui arrivait fréquemment de regagner le point de départ au Canada le jour même. L’appelant pilotait des vols long‑courriers, il était donc loin de chez lui pendant des jours entiers et exerçait les fonctions de son emploi hors du pays.
+[20] L’appelant demande à la Cour de tenir compte du fait que le travail et les diverses fonctions d’un commandant de bord plus expérimenté, qui pilote de plus gros avions, à une plus grande vitesse et sur de plus grandes distances, diffèrent de ceux d’un commandant de bord moins expérimenté qui pilote de plus petits avions vers des destinations relativement proches, que ce soit au Canada ou aux États‑Unis. L’appelant estime que ses fonctions ne sont pas les mêmes que celles décrites dans la décision Sutcliffe et qu’il devrait en être ainsi de la répartition de son revenu.
+[21] L’appelant a déclaré à plusieurs reprises que les conditions de son emploi l’obligeaient souvent à être loin de chez lui pendant plusieurs jours d’affilée entre les vols et qu’il demeurait en service même lorsqu’il ne pilotait pas. Ses fonctions consistaient alors notamment à régir le vol, à recevoir les instructions des autorités, à superviser la sécurité, à travailler en liaison avec l’employeur, à gérer le risque, à diriger les membres d’équipage, à s’occuper des rapports et des mises à jour et à veiller à l’examen et à la maintenance. Il soutient qu’en vertu de la réglementation professionnelle, le repos s’inscrit dans ses fonctions. Il ajoute qu’il est responsable de l’aéronef, du départ jusqu’à son retour à Toronto et qu’il exerce donc 70 % de ses fonctions entre les vols à l’extérieur du Canada.
+[22] L’exemple suivant, qui ne s’appuie pas sur de réelles données de vol, illustre sa méthodologie.
+Préparé par l’appelant à l’intention de la Cour.
+Vols internationaux – faits
+Départ de Toronto le lundi à 9 h
+Arrivée à Toronto le mercredi à 9 h
+Durée du vol total (durée de vol)
+10 heures
+Durée de vol au‑dessus du Canada
+5 heures
+Temps passé loin du point de départ / temps consacré à l’exercice de ses fonctions
+48 heures (revenu non canadien)[7]
+Rémunération pour le vol
+10 000 $[8]
+Dans cet exemple, le vol quitte Toronto le lundi matin à 9 h et revient le mercredi matin suivant à la même heure. L’appelant est donc parti à l’étranger pendant quarante‑huit heures. Si l’on se fie aux données d’Air Canada, la durée réelle de vol est de dix heures et la durée de vol au‑dessus du Canada de cinq heures. Ces données sont fournies par l’Agence du revenu du Canada (l’« ARC ») et calculées de la manière indiquée plus haut. Bien qu’il conteste l’emploi des trajectoires de vol et des moyennes ayant permis de parvenir à ces chiffres, l’appelant les a adoptées pour illustrer sa méthode. Le temps passé loin du point de départ ou consacré à l’exercice des fonctions est de quarante‑huit heures, d’après l’heure de départ et d’arrivée, et la rémunération pour le vol s’élève à 10 000 $.
+Comparaison des méthodes
+Méthode de l’appelant
+Fonctions au Canada
+5 heures
+Temps passé loin du point de départ / temps consacré à l’exercice de ses fonctions
+48 heures
+Pourcentage attribué au Canada
+10,4 %
+Revenu attribué au Canada
+1 040 $ sur un total de 10 000 $
+Méthode de l’intimée
+Fonctions au Canada
+5 heures
+Durée de vol / temps consacré à l’exercice de ses fonctions
+10 heures
+Pourcentage attribué au Canada
+50,0 %
+Revenu attribué au Canada
+5 000 $
+[23] Les deux parties parviennent à une attribution différente du revenu au Canada en partant des mêmes faits simplement parce que l’appelant estime n’avoir travaillé au Canada que cinq heures sur les quarante‑huit qu’a duré sa période de service. L’ARC estime de son côté qu’il était en service au Canada pendant cinq heures, mais sur un total de dix heures seulement, car seul le temps de vol est pris en compte et non celui qui s’est écoulé entre les vols, alors que l’appelant se trouvait peut‑être en Extrême‑Orient, en Europe ou ailleurs hors du Canada. M. Price mentionne avoir quitté Toronto lundi matin pour le travail, et être revenu quarante‑huit heures plus tard, entendant par là qu’il était au service de son employeur, Air Canada, pendant quarante‑huit heures, dont cinq seulement devraient être considérées comme la source d’un revenu canadien.
+[24] L’employeur obligeait l’appelant à rester au point de sa destination pour s’acquitter des fonctions énumérées plus haut, c’était là une condition de son emploi. Ce dernier reconnaît qu’il gagnait un salaire, mais il en découle que ce salaire est un revenu accumulé quotidiennement pendant toute la période où il a été mérité, y compris lorsqu’il ne volait pas[9].
+Analyse [25] La juge Woods a appliqué le principe formulé par le juge Bowman dans la décision Sumner c. La Reine[10]. Entre différentes méthodes de répartition, le juge doit opter pour la plus raisonnable. Il a mentionné ce qui suit :
+[24] En l’espèce, l’employeur a lui‑même réparti les recettes selon un calcul fondé sur les recettes brutes, et bien que cette façon de procéder ne soit pas déterminante et n’entraîne pas la préclusion, il s’agit à tout le moins d’une preuve prima facie qu’on a tenté de procéder à une répartition raisonnable. C’eût peut‑être été différent si M. Sumner n’avait pas été un employé et si l’employeur n’avait pas effectué de répartition. Pour quiconque tente de déterminer le revenu qui est tiré d’une entreprise consistant à organiser des spectacles rock dans différents pays, il me semble que le témoignage d’expert d’un comptable serait très utile. Il se peut fort bien que les spectacles aient occasionné des pertes dans un pays et rapporté des bénéfices dans un autre. Il importe en outre d’examiner la question de la répartition des frais généraux d’entreprise. Mon intention n’est pas d’approuver dans les présents motifs un mode de calcul au détriment de l’autre. Les deux modes me semblent avoir des inconvénients, et d’autres formules de répartition pourraient convenir. En ce qui concerne l’appel de M. Sumner, ma décision est uniquement fondée sur le fait qu’on n’a pas établi que le mode de calcul fondé sur la « durée du séjour » était meilleur ou plus approprié que celui que le ministre a utilisé. L’appel de M. Sumner est par conséquent rejeté.
+[Non souligné dans l’original.]
+[26] Il ne suffit pas à l’appelant d’établir que la méthode de répartition du ministre est inexacte, il doit fournir à la Cour une méthode plus raisonnable que celle qui a été retenue dans la décision Sutcliffe.
+[27] La théorie de l’appelant ne résiste pas à une analyse de la convention négociée entre Air Canada et le syndicat des pilotes. Air Canada payait ses pilotes pour les minutes de vol et non pour la période écoulée entre les vols. La convention collective prévoit une méthode bien précise de calcul pour la rémunération des pilotes. L’appelant était payé pour le temps de vol en minutes. Son revenu était calculé à partir d’un taux multiplié par les minutes de vol. Sous réserve du paragraphe 17.11, il n’était rémunéré que pour les fonctions exercées pendant la période de service, qui débute, d’après le contrat, une heure avant l’heure de départ prévue ou l’heure à laquelle il était censé se présenter, selon la première de ces éventualités, et se termine trente minutes après la fin du vol[11].
+[28] L’absence de chez soi pendant les escales est peut‑être une condition de l’emploi, mais le pilote n’était payé qu’en fonction du temps de vol. Même s’il s’agit d’une condition d’emploi, cela ne veut pas dire qu’elle entre dans la rémunération du pilote. Qui plus est, il n’est pas raisonnable d’accorder la même valeur à une heure de pilotage d’un aéronef qu’à une autre passée dans un hôtel à Tokyo ou ailleurs, et il ne semble pas que ce soit l’intention des parties à la convention collective.
+[29] Le paragraphe 17.11 du contrat concerne la rémunération pour les escales. Le voici :
+[traduction]
+.02 Garantie de jumelage – Dans les cas de trajets qui supposent une ou plusieurs escales obligatoires loin de l’aéroport d’attache, le pilote se verra garantir les crédits et la rémunération d’une (1) heure de vol pour toutes les quatre (4) heures de voyage réel, calculés au prorata. Les heures de voyage sont comptées à partir du moment où le pilote est censé se présenter à son aéroport d’attache avant de piloter un vol ou de celui où il se présente effectivement, selon la dernière de ces éventualités, jusqu’à l’heure à laquelle il est relevé de son service trente (30) minutes après l’arrivée à son aéroport d’attache pour un repos obligatoire.
+.01 Tout crédit spécial se rapportant à une heure de voyage sera calculé aux fins de rémunération comme une prolongation de la dernière portion du dernier trajet, sauf en cas de combinaison d’étapes de vols internationaux et intérieurs; auquel cas le rapport entre les étapes de vols internationaux et les étapes de vols intérieurs entre en jeu et le rapport entre les étapes de vols internationaux et les étapes de vols intérieurs sera calculé comme un pourcentage de la garantie de jumelage totale.
+[30] La garantie de jumelage accorde un revenu additionnel aux pilotes qui passent du temps loin de leur aéroport d’attache pendant les escales. Ce revenu a été attribué par Air Canada sous forme de minutes supplémentaires ajoutées à la dernière portion du vol de retour.
+[31] Finalement, la convention écrite ne mentionne nulle part les fonctions non liées au vol auxquelles l’appelant renvoie. Tout en reconnaissant qu’il y avait des divergences entre sa méthodologie et le libellé du contrat, M. Price a expliqué que ses fonctions allaient bien au‑delà de ce que contient le document et m’a suggéré de privilégier la doctrine juridique qui accorde préséance au fond plutôt qu’à la forme. Le contrat ne prévoit pas la rémunération pour les fonctions non liées au vol que l’appelant réclame. La préséance du fond sur la forme ne peut être invoquée pour modifier le libellé clair du contrat.
+[32] Même si l’on admet que le revenu de l’appelant est un salaire, la définition de ce terme[12] ne peut être interprétée de façon que les heures non liées au vol soient des heures de travail ou qu’elles aient la même valeur[13]. D’après la convention, la période de service débute une heure avant l’heure de départ prévue et se termine trente minutes après la fin du vol[14]. En outre, l’alinéa 17.05.02 stipule qu’Air Canada prévoira un endroit convenable au centre‑ville pour les escales de plus de quatorze heures. L’obligation de repos pendant les longues escales et les périodes où les pilotes ne sont pas en service est reprise aux alinéas 17.05.03 et 17.05.04.
+[33] Je conclus que la méthode la plus raisonnable est celle qui reflète la structure de rémunération figurant dans le contrat de travail, conformément à la décision Austin c. La Reine[15]. M. Austin, un non‑résident canadien qui occupait le poste de quart‑arrière dans la Ligue canadienne de football (LCF), avait joué trois matchs sur dix‑huit aux États-Unis en 1994 et quatre en 1995. Il avait passé six jours aux États‑Unis en 1994 et huit jours en 1995 alors qu’il jouait pour son équipe canadienne. La question en litige était de savoir si son revenu devait être calculé selon un pourcentage quotidien, comme le faisait valoir le ministre, ou en fonction du nombre de matchs, comme le prétendait l’appelant. J’ai conclu que l’approche de M. Austin était plus raisonnable parce que, pour l’essentiel, il était payé par match en vertu de son contrat de travail et il n’était pas rémunéré pour les parties non jouées. La situation de l’appelant, qui est payé par minute de vol, est analogue à celle de M. Austin.
+b) Répartition – Vols aller‑retour Toronto‑Vancouver [34] Lors son plaidoyer final, l’appelant a renvoyé aux paragraphes 35 et 36 de la décision Sutcliffe et soutenu qu’ils s’appliquent aussi bien en l’espèce. La juge Woods a écrit ce qui suit :
+35 Plusieurs pilotes d’Air Canada et un régulateur de vol ont témoigné pour le compte de l’appelant. En général, ils ont décrit la méthode employée par l’Agence comme étant beaucoup trop simpliste, puisqu’elle est fondée sur l’idée des « trajets moyens » et sur des vitesses qui sont essentiellement fictives. De plus, cette méthode ne prend pas en compte les retards qui surviennent au décollage ou à l’atterrissage.
+36 Selon les témoignages, les pilotes reçoivent les plans de vol préparés par les régulateurs de vol avant le départ d’un vol. Les régulateurs de vol utilisent un système informatisé pour calculer la distance la plus courte entre deux points, modifiée par rapport à l’espace aérien réglementé, à la situation météorologique et au courant‑jet. Ces plans de vol changent inévitablement une fois que le vol a commencé à cause des changements de météo et de la configuration des vents. Le carburant coûte fort cher, de sorte qu’il est important, en établissant le trajet, de tirer parti des vents arrière et d’éviter les vents de face. Les pilotes ont témoigné que le trajet de vol réel et la durée de chaque vol sont intrinsèquement imprévisibles à cause de ces variables. Par conséquent, la méthode employée par l’Agence était fort artificielle, selon les pilotes.
+[35] Les plans de vol, enregistrés par NavCan et fournis par Air Canada, indiquent la trajectoire, la vitesse et le moment auquel l’avion traverse la frontière. D’après Air Canada, le plan de vol représente le trajet le plus efficient entre le point A et le point B : il tient compte de différents éléments tels que la météo, le courant‑jet et même les éruptions volcaniques, le cas échéant. NavCan ignore si le pilote a strictement suivi le plan de vol. Le témoin de l’intimée a affirmé qu’il était rare que le pilote dévie du plan de vol, mais il n’a pas exclu cette éventualité. L’appelant a déclaré au contraire qu’il contrôlait son aéronef et qu’il pouvait dévier du plan de vol initial. Un changement météorologique soudain peut entraîner une modification du plan de vol. L’appelant fait valoir que la méthode de l’intimée repose sur des hypothèses et ne tient pas compte des véritables conditions de vol. Bien qu’il ait déclaré que près de 90 % des vols de Vancouver s’effectuaient au‑dessus du territoire américain, l’appelant a accepté la répartition de 31 %‑49 % établie dans la décision Sutcliffe.
+[36] Pour éviter tout malentendu, j’examinerai cette question plus en détail. Pour ce qui est du témoignage du témoin de NavCan, je l’accepte et le considère utile pour comprendre les données sur lesquelles le ministre s’est fondé pour établir les cotisations. L’appelant y souscrit en grande partie, bien qu’il s’y soit opposé au motif qu’il s’agissait de ouï‑dire, étant donné que le témoin de NavCan n’avait pas conçu lui‑même le plan de vol. J’estime que les chiffres et les détails relatifs au plan de vol qu’a fournis le témoin sont admissibles, car il était qualifié pour interpréter le document de vol. Les trajets précis dont il parlait appartenaient à l’appelant et s’effectuaient à moins de 50 % dans l’espace aérien américain pendant les vols Vancouver‑Toronto et Toronto‑Vancouver.
+[37] L’appelant a également soutenu pendant son témoignage que les pilotes étaient non seulement habilités à dévier du plan de vol déterminé, mais qu’ils le faisaient la plupart du temps[16]. Je crois que l’intimée voulait que je conclue que les trajets de vol enregistrés par NavCan rendent fidèlement compte de la réalité et que l’ARC peut toujours s’appuyer sur les chiffres fournis par cette organisation pour établir les cotisations des pilotes. Les trajets de vol peuvent bien représenter fidèlement la réalité et appuyer la conclusion la plus raisonnable, mais il est souvent loisible aux pilotes de s’en écarter et nous ne disposons d’aucune preuve tangible en ce qui a trait à la fréquence et à l’étendue de ces modifications. Pour établir qu’un trajet de vol est une estimation juste de l’itinéraire effectivement suivi par le pilote, d’autres éléments de preuve corroborants, comme le témoignage de pilotes d’Air Canada, s’imposent.
+[38] Compte tenu des témoignages de l’appelant et du témoin de NavCan, j’estime que les montants de revenu que l’on peut raisonnablement attribuer aux fonctions de l’emploi exercées par l’appelant à l’extérieur du Canada sont de 31 % et de 49 % pour le trajet Toronto‑Vancouver. Ce calcul, quelque peu arbitraire, se justifie pourtant par les facteurs suivants : (i) ces pourcentages se situent à peu près à mi‑chemin des propositions de l’intimée et de l’appelant; et (ii) ce sont les pourcentages auxquels la juge Woods est parvenue dans la décision Sutcliffe[17], qui semblent plus raisonnables que ceux que les parties ont présentés.
+[39] L’avocat de l’intimée a fait valoir que nous ne pouvions pas appliquer les conclusions de Sutcliffe à la présente affaire, car elles s’appuyaient sur des éléments de preuve différents. Nous disposons des chiffres fournis par l’intimée, basés sur les trajets de vol de NavCan, et de ceux fournis par l’appelant pendant son témoignage. Bien qu’il me semble difficile d’accepter que l’appelant n’ait presque jamais suivi les trajets de vol, nous ne disposons pourtant d’aucun témoignage corroborant du contraire. Je ne puis conclure que les trajets de vol fournis par NavCan représentent fidèlement l’itinéraire réellement adopté par l’appelant dans tous les cas ou presque. Il a réfuté, du moins partiellement, les présomptions du ministre concernant les vols Toronto‑Vancouver et Vancouver‑Toronto. La juge Woods a examiné la preuve de M. Sutcliffe, pilote chez Air Canada, et peut‑être d’autres pilotes, au sujet du même trajet aérien. Comme je ne dispose d’aucune indication claire sur le pourcentage qui convient, les conclusions de la juge Woods me paraissent convaincantes. Personne n’a présenté de meilleure méthode.
+c) Prestations d’invalidité [40] L’alinéa 26.03.03 du contrat stipule que la prime mensuelle du régime d’assurance‑invalidité est versée par Air Canada. Ces prestations d’invalidité versées aux pilotes qui sont des résidents canadiens sont imposables en application de l’alinéa 6(1)f) de la Loi. En vertu de l’article 115, le paiement d’une telle prestation à un non‑résident comme l’appelant est imposable au Canada.
+[41] L’appelant fait valoir que les prestations d’invalidité qu’il a reçues en 1999 (17 112 $) et en 2000 (34 655 $) ne devraient pas être imposées au Canada car il ne résidait pas ici. Il s’appuie sur la décision Blauer c. Canada[18], instruite sous le régime de la procédure informelle de la Cour. Mme Blauer résidait et travaillait au Canada avant de devenir invalide et de quitter le pays pour Israël. En tant que non‑résidente, elle recevait des prestations d’assurance‑salaire de la part d’une société d’assurance canadienne. L’employeur se chargeait de la prime de l’assurance. Le juge ayant présidé l’instance a conclu ce qui suit :
+[J]e souscris à l’argument de l’appelante. Le libellé du sous‑alinéa 115(1)a)(i) n’inclut pas tous les paiements qui représentent un revenu d’emploi lorsqu’ils sont gagnés par un non-résident, mais il inclut plutôt uniquement un certain type de revenu d’emploi, à savoir le revenu tiré de l’exercice des fonctions d’une charge ou d’un emploi. Il n’y a pas d’ambiguïté. Il ne faudrait pas considérer cette disposition comme incluant d’autres catégories de revenu d’emploi telles que les paiements d’A‑S (c’est‑à‑dire des prestations d’assurance‑invalidité) indépendamment de leur inclusion, en vertu de l’article 6, dans le cas des résidents. De tels paiements ne constituent pas, par essence, une contrepartie des services rendus. Il s’agit de prestations d’assurance‑invalidité plutôt que d’un revenu tiré des fonctions exercées dans le cadre d’un emploi. Si l’intention du législateur devait être plus inclusive en ce qui concerne la partie I de la Loi, ce qui est selon moi loin d’être clair, c’est au législateur et non à la Cour qu’il incombe de résoudre la question. Pour ces motifs, j’accueille l’appel en ce qui concerne les paiements d’A‑S.
+Avec égards, la position du ministre me paraît plus convaincante. Il faut donner un sens large à l’expression « revenu tiré d’une charge ou d’un emploi », comme il est mentionné dans la décision Sutcliffe :
+[128] Les indemnités de maladie et de congé sont reçues pour cause de maladie ou en raison de congés, en ce sens qu’elles s’accumulent durant ces périodes, mais la rémunération est également reçue parce que l’employé a convenu de fournir des services à l’employeur. L’appelant n’aurait pas droit à une indemnité de maladie ou de congé s’il n’avait pas convenu d’exercer ses fonctions de pilote.
+[129] À mon avis, selon la seule interprétation raisonnable du sous‑alinéa 115(1)a)(i), la rémunération de l’appelant qui s’accumule pendant les périodes où celui‑ci n’est pas de service, y compris l’indemnité de vacances prévue par la loi, est attribuable aux fonctions qui sont exercées. L’essence de la relation entre l’employé et l’employeur veut que les services soient rendus en contrepartie du paiement de ces services.
+[130] Le lien entre la rémunération qui est versée et les services qui sont rendus permet aux employeurs de déduire la rémunération versée et exige que les employés soient imposés à cet égard. Je rejette l’argument de l’appelant selon lequel une partie de la rémunération ne comporte aucun lien avec le Canada, pour ce qui est de la réalisation du revenu.
+[Non souligné dans l’original.]
+[42] En vertu de l’article 115 de la Loi, un revenu est imposable au Canada pour autant qu’un lien puisse être établi avec l’exercice d’une fonction au Canada. Par ailleurs, le terme « revenu » figurant aux articles 115 et 3 de la Loi devrait recevoir une interprétation libérale. Voir La Reine c. Savage[19]. L’article 115 de la Loi renvoie précisément à l’article 3. Toute acquisition importante dont le contribuable tire un avantage économique, comme une prestation d’invalidité, constitue un revenu aux fins des articles 3 et 115 de la Loi.
+[43] Finalement, l’alinéa 6(1)f) de la Loi prévoit que le revenu provenant de prestations d’un régime privé d’assurance‑emploi auquel l’employeur du contribuable a contribué, est imposable. La Cour d’appel fédérale a estimé, dans l’arrêt Hurd c. R.[20] :
+6 […] Puisque le sous‑alinéa 115(1)a)(i) renvoie expressément à l’article 3, qui fait partie de la section B, laquelle porte sur le calcul du revenu du contribuable pour une année d’imposition, et puisque l’article 7 fait partie de la sous‑section a de la section B, il me semble évident qu’on doit, aux fins de l’application du sous‑alinéa 115(1)a)(i), tenir compte de l’article 7 dans le calcul du revenu gagné par un non‑résident. Il semble donc que la seule question à trancher soit celle de savoir si l’avantage reçu par l’intéressé est un avantage tiré de l’emploi qu’il occupait au Canada à la société en question, avant qu’il quitte ce pays en 1971.
+[44] Les non-résidents doivent également tenir compte des articles 5 à 8 de la Loi pour calculer leur revenu canadien.
+d) Vols internationaux [45] L’appelant a adopté les chiffres de l’intimée en ce qui concerne les vols internationaux; cependant, les calculs de durée de vol qu’il a effectués étaient quelque peu arbitraires. La méthode privilégiée par l’intimée consistait à diviser la distance par la vitesse anémométrique moyenne pour obtenir les minutes de vols.
+[46] L’appelant fait valoir que la méthode de l’intimée est incohérente, car les calculs pour les vols internationaux reposent sur la distance. Le ministre divise la distance parcourue au Canada, basée sur les trajets de vol moyens, par la vitesse anémométrique moyenne des vols afin d’obtenir la durée du vol au Canada pour les vols internationaux. Pour tous les vols à destination de l’Europe, le ministre présume que la distance parcourue au Canada est de 1 229 milles. En s’appuyant sur la distance en milles et la vitesse anémométrique moyenne du vol, le ministre a établi la durée de vol au Canada à 168 minutes pour le vol entre Londres (LHR) et Toronto (YYZ). Pour le vol entre Shannon, en Irlande (SNN) et Toronto (YYZ), la durée de vol au Canada est de 132 minutes. L’écart entre ces deux durées s’explique par une différence de vitesse anémométrique moyenne. Pour des raisons que nous ignorons, l’avion qui effectue le trajet Shannon‑Toronto vole plus vite.
+[47] L’appelant fait valoir que sa méthode de calcul est plus raisonnable, car les trajets de vol changent en fonction de plusieurs facteurs et qu’il est donc impossible de calculer la véritable vitesse anémométrique de l’avion. Il s’est servi du même nombre de minutes pour les vols se rendant dans la même région du monde. Il explique qu’un vol entre Londres et Toronto est à peu près identique à un vol entre Shannon et Toronto (1 229 milles), et que le temps de vol au Canada devrait donc être le même dans les deux cas. Il a opté pour la durée la plus courte de 132 minutes, plutôt que pour les 168 minutes proposées par l’intimée. Pour l’appelant, le temps est le facteur pertinent si les pilotes se servent des vents pour faire arriver l’avion à destination plus rapidement et, si l’appareil vole plus vite au‑dessus du Canada, alors moins de fonctions ont été exercées au Canada.
+[48] Sa thèse a un certain fondement, quoique l’écart entre les deux méthodes soit minime. Il ajoute que, si l’on présume que tous les vols à destination de l’Europe suivent le même itinéraire et que tous les vols parcourent la même distance au‑dessus du territoire canadien, soit 1 229 milles pour un vol de Toronto à destination de l’Europe, il est raisonnable d’appliquer la même présomption à la durée.
+[49] La méthode de calcul de l’appelant est logique, mais le problème qu’elle pose est qu’elle ne permet pas d’établir sur quelle base les 132 minutes devraient l’emporter sur les 168. La méthode de l’intimée donne un résultat décevant : une différente durée de vol au‑dessus du Canada pour la même distance, mais qui s’explique du moins par le fait que diverses vitesses moyennes ont été enregistrées pour diverses destinations selon le trajet de vol. Ce raisonnement n’est peut‑être pas le plus précis, mais il est rationnel. Quoi qu’il en soit, pour ce qui est du montant des cotisations, les conséquences de l’application d’une méthode plutôt que d’une autre sont négligeables.
+[50] Du reste, une méthode de répartition fondée sur des trajets de vol moyens plutôt que sur des données de vol précis est plus raisonnable dans ce contexte. Je suis d’accord avec la juge Woods pour dire qu’une telle méthode est raisonnable et souhaitable (voir les paragraphes 69, 86 et 87 de la décision Sutcliffe). J’ai opté pour la méthode de calcul de l’intimée parce qu’elle se fonde sur de véritables trajets de vol. Les 132 minutes auxquelles est parvenu l’appelant ne sont pas corroborées et servent peut‑être les intérêts de ce dernier.
+e) Intérêts [51] L’appelant fait valoir qu’il est injuste qu’il soit tenu de payer des intérêts ayant couru pendant les six années et plus qu’a mises le ministre pour répondre à son avis d’appel. Nous ne sommes pas un tribunal d’equity et je n’ai pas compétence pour renoncer à des pénalités ou à des intérêts imposés en application du paragraphe 220(3.1) de la Loi, à moins qu’ils n’aient été mal calculés. L’appelant n’a pas essayé de prouver que le ministre n’avait pas procédé avec célérité ou qu’il avait agi de manière inéquitable, et le ministre n’a pas eu la possibilité de réfuter un tel argument.
+Commentaires généraux [52] Ce serait un grand bienfait que ces interminables tactiques cessent. J’irais jusqu’à dire que tous les pilotes d’Air Canada sont des citoyens canadiens qui reçoivent un revenu sous forme de salaire de leur employeur canadien. Leur lieu d’emploi est le Canada, c’est là que se trouve leur aéroport d’attache d’où partent et où arrivent leurs vols.
+[53] Un grand nombre d’entre eux ont tiré profit en toute légalité de la Loi de l’impôt sur le revenu, et en particulier de l’article 115, pour diminuer substantiellement leurs obligations fiscales en devenant non‑résidents du Canada. Cela entre entièrement dans le cadre de la législation. Ce sont les manœuvres excessivement énergiques destinées à parvenir au pourcentage le plus faible possible pour les fonctions exercées au Canada et pour d’autres montants comme les prestations d’invalidité, qui posent problème.
+[54] Pour compenser, le ministre réagit à son tour de manière excessive. Il est peut‑être temps pour le législateur de mettre un terme à tout cela et de fixer un pourcentage ferme pour les pilotes d’Air Canada qui sont des non‑résidents. La complexité de la convention entre Air Canada et le syndicat des pilotes n’améliore en rien la situation. Mon obligation consiste à interpréter et à appliquer la législation telle qu’elle existe actuellement. Je ne peux pas changer la loi, mais je formule une suggestion désintéressée.
+[55] Le besoin d’une méthode plus simple se fait grandement sentir. Le législateur devrait peut‑être établir la répartition du revenu pour les pilotes qui sont des non‑résidents au moyen d’un simple mécanisme normalisé. Par exemple, faire en sorte que les pilotes d’Air Canada qui sont des non‑résidents du Canada voient 60 % de leur revenu total versé par Air Canada désigné comme un revenu canadien imposable et les 40 % restants comme un revenu étranger non imposable. Il est incompréhensible qu’il existe un écart allant de 90 % à moins de 50 % pour la partie des vols qui s’effectuent au‑dessus de l’espace aérien américain. À l’heure actuelle, la méthode de répartition la plus raisonnable est décrite dans la décision Sutcliffe.
+[56] Je conclus que :
+(i) Les montants de revenu attribuables aux fonctions d’emploi de vol exercées à l’extérieur du Canada par l’appelant pour le trajet Vancouver‑Toronto sont de 31 % et de 49 % pour le trajet Toronto‑Vancouver.
+(ii) Les prestations d’invalidité sont imposables au Canada suivant la méthode de l’intimée.
+(iii) Le calcul proposé par l’intimée pour les vols internationaux basé sur la vitesse anémométrique moyenne est raisonnable.
+(iv) Conformément aux concessions de l’intimée, la rémunération se rapportant à la mise en place pour les trajets Vancouver‑Winnipeg et Winnipeg‑Vancouver doit être répartie selon la même formule au prorata que le reste du revenu annuel.
+(v) Finalement, la rémunération se rapportant à la formation reçue en 2000 doit être considérée comme non imposable au Canada, comme l’a concédé l’intimée pendant l’instruction.
+(vi) Je rejette l’affirmation de l’appelant selon laquelle 70 % de son revenu se rapportant aux vols internationaux devrait être attribué au temps, soit environ 48 heures passées à l’extérieur à attendre le retour au Canada.
+(vii) Aucuns dépens ne sont adjugés.
+Signé à Ottawa, Canada, ce 12e jour d’octobre 2011.
+« C. H. McArthur »
+Juge McArthur
+Traduction certifiée conforme
+ce 12e jour de décembre 2011.
+Mario Lagacé, jurilinguiste
+RÉFÉRENCE : 2011 CCI 449
+No DU DOSSIER DE LA COUR : 2002-4174(IT)G
+INTITULÉ : GORDON PRICE c.
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Ottawa (Ontario)
+DATES DE L’AUDIENCE : Les 24, 25 et 26 novembre 2010 et
+les 14, 15, 16 et 17 juin 2011
+MOTIFS DU JUGEMENT : L’honorable juge C. H. McArthur
+DATE DU JUGEMENT : Le 12 octobre 2011
+COMPARUTIONS :
+Avocate de l’appelant :
+Me Frances M. Viele
+Avocat de l’intimée :
+Me Charles M. Camirand
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom : Me Frances M. Viele
+Cabinet
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] 2006 DTC 2076.
+[2] Les termes « convention » et « contrat » renvoient au document d’emploi versé sous la cote R‑2, onglet 16.
+[3] L’expression « mise en place » désigne les vols effectués par l’appelant comme passager pour rejoindre une destination de départ.
+[4] NavCan est une société à but non lucratif qui documente de manière détaillée les points d’entrée et de sortie du Canada pour chaque vol international.
+[5] Le vol Toronto-Vancouver comprend le retour de Vancouver à Toronto.
+[6] Il s’agit de la période d’attente avant son retour au Canada depuis une destination outremer; il a laissé entendre qu’elle durait en moyenne 48 heures.
+[7] Ma précision.
+[8] Le ministre convient que ce tableau est une illustration utile (préparée par l’appelant à titre d’exemple de sa méthode de calcul). L’intimée a reconnu que ce tableau rend raisonnablement compte des observations de l’appelant.
+[9] L’appelant semble ignorer la convention (pièce R‑2, onglet 16).
+[10] 2000 DTC 1667 (C.C.I.).
+[11] Voir le paragraphe 17.04 de la convention versée sous la cote R‑2, onglet 16.
+[12] Black’s Law Dictionary, 7e éd., sub verbo [traduction] « salaire » (indemnité convenue pour des services – en particulier pour des services professionnels ou semi‑professionnels – habituellement payée à des intervalles réguliers sur une base annuelle, par opposition à une base horaire).
+[13] La juge Woods a qualifié la rémunération de Mark Sutcliffe de salaire au paragraphe 140.
+[14] Ce qui est le contraire de la position de l’appelant.
+[15] 2004 CCI 6.
+[16] Cela me paraît difficile à accepter, mais il est possible que l’appelant ait inclus des déviations négligeables.
+[17] Jugement rendu après la décision principale dans l’affaire Sutcliffe, voir Sutcliffe c. Canada, 2006 CCI 581.
+[18] 2007 CCI 706.
+[19] [1983] 2 R.C.S. 428.
+[20] [1982] 1 C.F. 554.

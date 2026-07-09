@@ -1,0 +1,138 @@
+---
+title: "McGowan v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26327/index.do"
+last_modified: "2005-01-14"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 CCI 43"
+citation2: ""
+neutral_citation: "2005 CCI 43"
+decision_date: "2005-01-14"
+language: "fr"
+item_id: "26327"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3274
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T23:22:13.787000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "3231344c017776fe07cf48896d1d423b0c2fc3280251e6809b173e554cd1e820"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# McGowan v. The Queen
+
+- Citation: 2005 CCI 43
+- Decision date: 2005-01-14
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3274, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+McGowan v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-01-14
+Référence neutre
+2005 CCI 43
+Numéro de dossier
+2004-1732(IT)I
+Juges et Officiers taxateurs
+Leslie M. Little
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2004-1732(IT)I
+ENTRE :
+STUART MCGOWAN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu à Edmonton (Alberta), le 30 novembre 2004.
+Devant : L'honorable juge L.M. Little
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocate de l'intimée :
+Me Elena Sacluti
+____________________________________________________________________
+JUGEMENT
+L'appel de la cotisation établie en vertu de la Loi de l'impôt sur le revenu pour l'année d'imposition 2002 est rejeté sans que des dépens soient adjugés, selon les motifs de jugement ci-joints.
+Signé à Vancouver (Colombie-Britannique), ce 14e jour de janvier 2005.
+« L.M. Little »
+Juge Little
+Traduction certifiée conforme
+ce 31e jour d'octobre 2005.
+Sara Tasset
+Référence : 2005CCI43
+Date : 20050114
+Dossier : 2004-1732(IT)I
+ENTRE :
+STUART MCGOWAN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Little
+A. LES FAITS
+[1] L'appelant était le conjoint de fait de Nancy Ford ( « Mme Ford » ).
+[2] Après la rupture de cette union de fait, l'appelant a déposé, le 30 août 2001, un avis à l'intention de ses créanciers devant la Cour du Banc de la Reine de l'Alberta en vue d'obtenir une ordonnance de fusion en vertu des dispositions relatives au paiement méthodique des dettes figurant dans la partie X de la Loi sur la faillite.
+[3] Conformément à une ordonnance de fusion en date du 10 octobre 2001 (l' « ordonnance de fusion » ), l'appelant devait :
+(i) verser au Credit Counselling Services de l'Alberta un montant mensuel de 900 $ à compter du 30 novembre 2001;
+(ii) imputer le produit de la vente, une fois que certains biens situés en Ontario seraient vendus, au remboursement des dettes.
+[4] Le juge James, de la Cour supérieure de l'Ontario, Division de la famille, a été saisi d'un avis déposé par l'appelant; il a délivré une ordonnance temporaire le 20 février 2002 (l' « ordonnance temporaire » ), laquelle prévoyait ce qui suit :
+(i) la demande concernant la délivrance d'une ordonnance de ne pas faire est rejetée;
+(ii) la demande concernant la remise de certains effets personnels est rejetée;
+(iii) le produit net de la vente du chalet appartenant à l'appelant et à Mme Ford doit être remis au Credit Counselling Services de l'Alberta;
+(iv) l'appelant et Mme Ford s'entendront sur l'agent immobilier et signeront un mandat de vente.
+[5] L'appelant a engagé des frais juridiques pour se défendre contre une demande que Mme Ford avait présentée pour qu'il lui verse sa pension alimentaire et en vue du règlement concernant l'actif et le passif de la famille.
+[6] L'appelant a versé un montant de 15 938,40 $ à James Jagtoo, un avocat de l'Ontario.
+[7] Lorsque l'appelant a produit sa déclaration de revenu pour l'année d'imposition 2002, il a déduit des honoraires d'avocat d'un montant de 14 143 $ qu'il avait versés à M. Jagtoo.
+[8] Le ministre du Revenu national (le « ministre » ) a délivré un avis de nouvelle cotisation pour l'année d'imposition 2002 et il a rejeté tous les frais d'avocat que l'appelant avait déduits.
+B. POINT LITIGIEUX
+[9] Il s'agit de savoir si l'appelant a le droit de déduire les honoraires d'avocat qu'il a versés à M. Jagtoo en calculant son revenu pour l'année d'imposition 2002.
+C. ANALYSE
+[10] Il importe de noter que l'appelant a payé les honoraires d'avocat pour se défendre contre une demande que son ancienne conjointe de fait avait présentée en vue d'obtenir une pension alimentaire. Il a également payé les honoraires d'avocat aux fins du règlement de la question de l'actif et du passif de la famille.
+[11] Dans l'arrêt Nadeau v. The Queen, 2003 DTC 5736, le juge Noël, de la Cour d'appel fédérale, examinait une demande de contrôle judiciaire présentée à la suite d'une décision rendue par le juge Archambault, de la Cour canadienne de l'impôt. Le juge Archambault avait refusé la déduction des frais juridiques que l'appelant avait engagés en contestant une requête visant à faire augmenter le montant de la pension alimentaire présentée par son ex-femme.
+[12] Dans sa décision, le juge Noël a dit ce qui suit :
+[3] Les faits qui sous-tendent la présente affaire sont fort simples. Le demandeur a obtenu un divorce en juillet 1996 suite à un jugement rendu par la Cour supérieure du Québec. Le jugement lui ordonnait de verser une pension alimentaire à son ex-épouse pour le bénéfice des enfants du couple.
+[4] Quelque temps plus tard, son ex-épouse a entamé des procédures judiciaires afin de faire augmenter la pension et l'étendre à elle-même. Le demandeur a contesté cette procédure devant la Cour d'appel et a eu gain de cause. Il a par la suite demandé la défiscalisation de la pension alimentaire avec comme résultat qu'elle fut réduite de moitié par la Cour d'appel. En 1999, le montant des frais judiciaires s'élevait à 4 284 $ et c'est la déduction de cette somme qui fait l'objet du présent litige.
+[5] Le ministre du Revenu national (le ministre ou le défendeur) a refusé au demandeur la déduction de cette dépense au motif qu'elle n'avait pas été encourue pour gagner du revenu provenant d'une entreprise ou d'un bien (confirmation de la cotisation, Dossier du demandeur, page 8).
+[...]
+[14] Une jurisprudence constante reconnaît depuis plus de 40 ans que le droit à une pension alimentaire lorsqu'établi par un tribunal est un « bien » au sens du paragraphe 248(1) de la Loi et que le revenu issu d'une telle pension constitue entre les mains de la personne qui la reçoit un revenu de bien (voir en particulier les affaires Jean Boos c. M.N.R. (1961), 27 Tax A.B.C. 283; La Reine c. Burgess, [1981] CTC 258; Bayer c. M.R.N., [1991] 2 C.T.C. 2304; Evans c. M.N.R., [1960] S.C.R. 391 et Sembinelli c. Canada, [1994] 2 C.T.C. 378).
+[...]
+[16] Ainsi, il est de jurisprudence constante que le revenu provenant d'une pension alimentaire est calculé en fonction du régime applicable au revenu tiré d'un bien (ou d'une entreprise) que l'on retrouve à la sous-section b de la Loi. Selon ce régime, une dépense encourue pour constituer une source de revenu est de nature capitale et sa déduction est prohibée (voir l'alinéa 18(1)b)). Par contre, une dépense encourue pour gagner un revenu issu de cette source (soit après qu'elle a pris naissance), est dite « courante » et elle tombe sous l'exception prévue à l'alinéa 18(1)a) :
+[...]
+[17] Ce régime, tel qu'il fut appliqué par les tribunaux au cours des années fait en sorte que dans la perspective du récipiendaire, une dépense qui a comme but de donner naissance au droit à une pension alimentaire est de nature capitale et ne peut donc être déduite. Par contre, une dépense encourue pour recouvrer un montant dû en vertu d'un droit déjà existant est de nature « courante » et peut donc être déduite.
+[18] Inversement, les dépenses encourues par le payeur d'une pension alimentaire (soit pour empêcher qu'elle soit établie ou augmentée, ou soit pour la diminuer ou y mettre fin), ne peuvent être considérées comme ayant été encourues pour gagner un revenu et les tribunaux n'ont jamais reconnu de droit à la déduction de ces dépenses (voir, par exemple, Bayer, supra).
+[13] Compte tenu de la conclusion tirée par le juge Noël dans l'arrêt Nadeau, j'ai conclu qu'on ne saurait considérer les honoraires d'avocat que l'appelant a payés en vue d'empêcher son ancienne conjointe de fait d'obtenir une pension alimentaire comme ayant été engagés pour gagner un revenu.
+[14] J'ai également conclu que les honoraires d'avocat que l'appelant a payés pour régler la question du partage de l'actif et du passif de la famille étaient des frais personnels ou de subsistance et que l'alinéa 18(1)h) de la Loi interdit leur déduction.
+[15] L'appel sera rejeté sans que des dépens soient adjugés.
+Signé à Vancouver (Colombie-Britannique), ce 14e jour de janvier 2005.
+« L.M. Little »
+Juge Little
+Traduction certifiée conforme
+ce 31e jour d'octobre 2005.
+Sara Tasset

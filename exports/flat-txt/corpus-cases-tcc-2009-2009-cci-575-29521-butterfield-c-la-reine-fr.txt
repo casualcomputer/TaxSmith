@@ -1,0 +1,114 @@
+Title: Butterfield c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29521/index.do
+Corpus path: corpus/cases/tcc/2009/2009-cci-575-29521-butterfield-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2009-06-26
+
+# Butterfield c. La Reine
+
+- Citation: 2009 CCI 575
+- Decision date: 2009-06-26
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6278, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Butterfield c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2009-06-26
+Référence neutre
+2009 CCI 575
+Numéro de dossier
+2007-3126(IT)G
+Juges et Officiers taxateurs
+Campbell J. Miller
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Référence : 2009 CCI 575
+Date : 20091109
+Dossiers : 2007-3126(IT)G
+2007-3169(GST)G
+ENTRE :
+JOHN SEBASTIAN BUTTERFIELD,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle]
+MOTIFS DU JUGEMENT
+(Rendus oralement à l’audience le 26 juin 2009,
+à Vancouver (Colombie‑Britannique))
+Le juge Miller
+[1] La présente affaire porte sur la responsabilité des administrateurs. M. Butterfield s’oppose à la cotisation établie à son égard, à titre d’administrateur de la société C. Davis Manufacturing Co. Ltd. (« C. Davis »), par l’Agence du revenu du Canada (l’« ARC »). Cette cotisation a trait à des retenues à la source non versées s’élevant à 2 752 $ et à de la taxe sur les produits et services (la « TPS ») non versée totalisant 21 403 $. Les faits en cause ne sont pas vraiment en litige. M. Butterfield était l’unique administrateur de C. Davis, une entreprise d’imprimerie. Vers la fin de 2003, l’entreprise a éprouvé des difficultés financières, ce qui a mené M. Butterfield à s’adresser d’abord à un avocat spécialisé en droit de la faillite, puis, peu après, à des conseillers en insolvabilité et à un syndic de faillite. Au début décembre, M. Butterfield a rencontré des représentants d’un cabinet de spécialistes de l’insolvabilité, Campbell Saunders. Peu après, les biens de C. Davis ont été cédés dans le cadre d’une procédure de faillite.
+[2] À partir de ce moment‑là, M. Butterfield a eu l’impression qu’il n’avait ni influence ni pouvoir sur la gestion de l’entreprise. Il est vrai que le syndic de faillite avait fait inspecter les locaux de l’entreprise par un évaluateur et que celui‑ci avait rencontré M. Butterfield. Ce dernier a dit s’être rendu compte que l’évaluateur ne connaissait rien à l’imprimerie, et il a expliqué que la liste des actifs de l’entreprise dressée par l’évaluateur était insatisfaisante, sous‑estimant énormément la valeur des actifs de l’entreprise. M. Butterfield avait établi une liste plus juste pour le syndic, mais il a eu l’impression qu’on n’en avait pas tenu compte.
+[3] Le syndic a fait visiter les locaux de l’entreprise le 11 décembre, et il avait avisé M. Butterfield que sa présence n’était pas nécessaire. M. Butterfield n’a jamais appris quelles offres avaient résulté de cette visite, si ce n’est qu’un acheteur a offert d’acheter l’entreprise telle qu’exploitée. Dès janvier, le nouveau propriétaire a commencé à exploiter l’entreprise avec les mêmes employés qui avaient travaillé pour M. Butterfield.
+[4] En mai 2004, M. Butterfield a écrit à l’ARC, et le passage pertinent de sa lettre est ainsi rédigé :
+[traduction]
+Je réponds par la présente à vos deux lettres datées du 28 avril, qui portent chacune sur un des deux comptes mentionnés ci‑dessus. Je ne conteste pas ma responsabilité personnelle à l’égard du paiement de ce qui vous est proprement dû. Cependant, il m’est présentement impossible de savoir quelles sommes vous sont véritablement dues. Le syndic de faillite m’a simplement dit de « demander à l’ADRC ».
+[5] En 2005, le nom de C. Davis a été rayé du registre des sociétés de la Colombie‑Britannique. Selon l’ARC, c’est à ce moment‑là que M. Butterfield a cessé d’être administrateur de C. Davis. À la mi‑février 2006 – un fatidique 14 février – l’ARC a établi une cotisation en application de la Loi de l’impôt sur le revenu (la « LIR ») et de la Loi sur la taxe d’accise (la « LTA ») à l’égard de M. Butterfield, en sa qualité d’administrateur, relativement aux dettes de C. Davis – 2 752 $ de retenues à la source non versées et 21 403 $ de TPS non versée.
+[6] En l’espèce, la question est de savoir si M. Butterfield a cessé d’être administrateur de C. Davis en décembre 2003. Dans l’affirmative, le délai fixé par le paragraphe 227.1(4) de la LIR aurait empêché l’ARC d’établir une cotisation à son égard. Je ferai seulement référence à la LIR, car la disposition pertinente de la LTA est presque identique. Le paragraphe 227.1(4) de la LIR est rédigé de la sorte :
+227.1(4) L’action ou les procédures visant le recouvrement d’une somme payable par un administrateur d’une société en vertu du paragraphe (1) se prescrivent par deux ans à compter de la date à laquelle l’administrateur cesse pour la dernière fois d’être un administrateur de cette société.
+[7] À ce sujet, la jurisprudence est bien établie et fort claire : la cession des biens d’une société dans le cadre d’une faillite ne fait pas que ses administrateurs cessent d’être administrateurs. Plusieurs décisions m’ont été citées à l’appui de cette position, notamment Kalef v. R.[1], The Queen v. Wellburn and Perri[2], Worrell v. R.[3] et Lassonde v. Minister of National Revenue[4]. M. Butterfield a avancé un argument quelque peu différent. Il n’affirme pas que c’est la cession des biens elle‑même qui a fait qu’il avait mis fin à son mandat d’administrateur, mais que c’est plutôt la façon cavalière dont il avait été écarté de l’administration de l’entreprise par le syndic qu’il l’avait empêché de jouer ce rôle. M. Butterfield a fait référence à la définition d’administrateur établie par la Company Act[5] de la Colombie‑Britannique (la loi sur les sociétés de cette province) qui est ainsi rédigée :
+[traduction]
+1(1) Est assimilé à un administrateur toute personne, indépendamment du nom sous lequel elle est désignée, qui exécute les fonctions d’un administrateur.
+[8] M. Butterfield est d’avis que, quand il a cessé de pouvoir exécuter les fonctions d’un administrateur en décembre 2003, il a, par définition, cessé d’être administrateur. Il soutient que l’article 130 de la Company Act ne s’applique tout simplement pas en l’espèce. Cette disposition est ainsi rédigée :
+[traduction]
+130(1) Le mandat d’un administrateur prend fin à l’expiration de la période pour laquelle il a été nommé conformément aux statuts constitutifs ou lorsque :
+a) il meurt ou démissionne;
+b) il est démis de ses fonctions conformément au paragraphe (3);
+c) il n’est pas habilité en vertu de l’article 114;
+d) il est démis de ses fonctions conformément à l’acte ou aux statuts constitutifs.
+(2) La démission d’un administrateur prend effet à la date de réception, au siège social de la société, d’un écrit à cet effet ou à la date postérieure qui y est indiquée.
+[…]
+M. Butterfield reconnaît qu’il n’a jamais donné sa démission à titre d’administrateur.
+[9] Il s’agit là d’un argument logique et fascinant, mais, malheureusement pour M. Butterfield, je ne saurais y souscrire. La loi est claire. Encore une fois, comme le montre notamment Kalef, il est vrai que je dois me fonder sur les dispositions pertinentes de la législation provinciale relative au droit des sociétés. Toutefois, en lisant la définition donnée à « administrateur » dans la Company Act tout en tenant compte des exigences de l’article 130, je suis arrivé aux conclusions suivantes :
+(i) La définition de l’administrateur est inclusive. Elle ne prévoit pas que [traduction] « seule la personne qui exécute les fonctions d’un administrateur est un administrateur », mais plutôt que « [e]st assimilé à un administrateur toute personne […] qui exécute les fonctions d’un administrateur ». Selon moi, il va de soi que la personne dûment nommée au poste d’administrateur, comme l’était M. Butterfield, est bel et bien un administrateur. La définition donnée au paragraphe 1(1) de la Company Act vise à étendre le sens du terme « administrateur » pour y inclure les personnes qui ne sont pas dûment nommées. En Colombie‑Britannique, ces personnes‑là sont elles aussi considérées comme des administrateurs.
+(ii) Ce n’est pas la définition d’administrateur établie au paragraphe 1(1) de la Company Act qui faisait de M. Butterfield un administrateur, mais bien le fait qu’il avait été dûment nommé administrateur. Par conséquent, il pouvait seulement cesser d’être administrateur dans les cas précis énoncés à l’article 130 de la Company Act. Comme M. Butterfield a reconnu n’avoir jamais remis sa démission, il a continué d’être administrateur de C. Davis jusqu’à la radiation du nom de l’entreprise en 2005. Ainsi, l’ARC a bel et bien établi la cotisation relative à la responsabilité des administrateurs dans le délai de deux années qui lui était imposé.
+[10] M. Butterfield, votre argument était ingénieux et bien conçu, mais, compte tenu de mon interprétation de la disposition où est défini l’administrateur, je suis d’avis qu’il n’est pas tout à fait convaincant. Comme toutes les exigences prévues à l’article 227.1 de la LIR et à l’article 323 de la LTA ont été remplies, il me faut rejeter votre appel et accorder les dépens à l’intimée.
+Signé à Ottawa, Canada, ce 9e jour de novembre 2009.
+« Campbell J. Miller »
+Juge Miller
+Traduction certifiée conforme
+ce 11e jour de janvier 2010.
+Mario Lagacé, jurilinguiste
+RÉFÉRENCE :
+2009 CCI 575
+Nos DES DOSSIERS DE LA COUR :
+2007-3126(IT)G;
+2007-3169(GST)G
+INTITULÉ :
+John Sebastian Butterfield c.
+Sa Majesté la Reine
+LIEU DE L’AUDIENCE :
+Vancouver (Colombie‑Britannique)
+DATE DE L’AUDIENCE :
+Le 26 juin 2009
+MOTIFS DU JUGEMENT :
+L’honorable juge Campbell J. Miller
+DATE DU JUGEMENT :
+Le 30 juin 2009
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimée :
+Me Nadine Taylor‑Pickering
+AVOCAT INSCRIT AU DOSSIER :
+Pour l’appelant :
+Nom :
+s.o.
+Cabinet :
+Pour l’intimée :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] 1996 CarswellNat 188.
+[2] 95 DTC 5417.
+[3] 2000 CarswellNat 2344.
+[4] 2001 CarswellNat 2277.
+[5] RSBC 1996, ch. 62.

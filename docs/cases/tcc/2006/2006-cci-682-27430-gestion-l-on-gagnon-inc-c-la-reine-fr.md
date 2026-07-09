@@ -1,0 +1,240 @@
+---
+title: "Gestion Léon Gagnon Inc. c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27430/index.do"
+last_modified: "2006-12-14"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 CCI 682"
+citation2: ""
+neutral_citation: "2006 CCI 682"
+decision_date: "2006-12-14"
+language: "fr"
+item_id: "27430"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 252
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T23:27:48.420000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "9349a5e7596fc0c3dbddaffc152616fa29aff067546ef45c3540ef2f3a24d096"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Gestion Léon Gagnon Inc. c. La Reine
+
+- Citation: 2006 CCI 682
+- Decision date: 2006-12-14
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 252, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Gestion Léon Gagnon Inc. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-12-14
+Référence neutre
+2006 CCI 682
+Numéro de dossier
+2005-2177(IT)G
+Juges et Officiers taxateurs
+Louise Lamarre Proulx
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2005-2177(IT)G
+ENTRE :
+GESTION LÉON GAGNON INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 9 novembre 2006, à Montréal (Québec)
+Devant : L'honorable juge Louise Lamarre Proulx
+Comparutions :
+Avocat de l'appelante :
+Me Serge Fournier
+Avocate de l'intimé :
+Me Marie-Andrée Legault
+____________________________________________________________________
+JUGEMENT
+L'appel de la cotisation établie en vertu de la Loi de l'impôt sur le revenu pour l'année d'imposition 2001 est accordé, avec dépens, et la cotisation est déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation, selon les motifs du jugement ci-joints.
+La Cour accorde la demande des parties et l'appel est classé dans la catégorie B et non dans la catégorie C, vu le montant d'impôt en litige.
+Signé à Ottawa, Canada, ce 14e jour de décembre 2006.
+« Louise Lamarre Proulx »
+Juge Lamarre Proulx
+Référence : 2006CCI682
+Date : 20061214
+Dossier : 2005-2177(IT)G
+ENTRE :
+GESTION LÉON GAGNON INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+La juge Lamarre Proulx
+[1] Il s'agit d'un appel concernant l'année d'imposition 2001.
+[2] La question en litige est de savoir si une société, en émettant des actions à une valeur de rachat plus élevée que leur capital versé, a conféré un avantage à l'appelante en vertu du paragraphe 15(1) de la Loi de l'impôt sur le revenu (la « Loi » ).
+[3] Les faits que le Ministre a pris en compte pour établir sa nouvelle cotisation sont décrits au paragraphe 12 de la Réponse modifiée à l'avis d'appel (la « Réponse » ) comme suit :
+a) l'appelante a une fin d'exercice financier le 31 août de chaque année;
+b) la totalité des actions de l'appelante sont détenues par M. Léon Gagnon;
+c) les actions votantes et participantes de la société Centre Financier Iberville/Champlain Inc. ( « CFIC » ) sont pour leur part détenues à 55% par Léon Gagnon et à 45% par Sylvie Turcotte son épouse;
+d) le 19 décembre 2000, CFIC procédait à l'émission de 300 actions de catégorie « J » en faveur de l'appelante, pour une contrepartie de 300 $;
+e) pour acquérir ces actions, l'appelante n'a pas eu à payer, céder ou transférer quoi que soit d'autre que leur coût d'acquisition de 300 $;
+f) ces actions, non-participantes et non-votantes, dont le capital versé était de 1 $ l'action, étaient rachetables au gré du détenteur pour 1 000 $ l'action;
+g) en émettant ces actions en faveur de l'appelante, CFIC lui a conféré un avantage de 299 700 $, soit la différence entre le capital versé de 300 $ des actions et leur valeur de rachat totalisant 300 000 $;
+h) d'ailleurs, CFIC a racheté ces actions de l'appelante pour 300 000 $ le 16 janvier 2001, soit moins d'un mois après leur émission.
+[4] Tous ces alinéas ont été admis par l'appelante à l'exception de l'alinéa 12 g).
+[5] Je trouve utile de citer immédiatement l'article 123.54 de la Loi sur les compagnies comme suit :
+123.54 [Rachat à demande, selon statuts]
+Une compagnie peut acquérir des actions entièrement payées qu'elle a émises et qu'elle est tenue, en vertu de ses statuts, de racheter à la demande d'un actionnaire ou à une date déterminée ou déterminable, au prix déterminé dans ses statuts ou calculé suivant la méthode prévue dans les statuts.
+[Exceptions] Elle ne peut toutefois les payer s'il y a des motifs raisonnables de croire qu'en raison de ce fait :
+10 elle ne pourrait acquitter son passif à échéance; ou
+20 la valeur comptable de son actif serait inférieure au total de son passif et des sommes nécessaires au paiement, en cas de rachat ou de liquidation, des actions payables par préférence ou concurremment.
+1979, c. 31, a. 27; 1980, c. 28, a. 14.
+[6] Il est également utile de connaître les dispositions analogues de la Loi canadienne sur les sociétés par actions. Je cite la définition d' « action rachetable » au paragraphe 2(1) et les paragraphes 36(1) et 36(2) de cette loi :
+2(1) [Définitions] ...
+[ « action rachetable » "redeemable ..."] Action que la société émettrice, selon le cas :
+a) peut acheter ou racheter unilatéralement;
+b) est tenue, par ses statuts, d'acheter ou de racheter à une date déterminée ou à la demande d'un actionnaire.
+36(1) [Rachat des actions] Malgré les paragraphes 34(2) ou 35(3), mais sous réserve du paragraphe (2) et de ses statuts, la société peut acheter ou racheter des actions rachetables qu'elle a émises à un prix ne dépassant pas le prix de rachat fixé par les statuts ou calculé en conformité avec ces derniers.
+36(2) [Exception] La société ne peut faire aucun paiement en vue d'acheter ou de racheter des actions rachetables qu'elle a émises s'il existe des motifs raisonnables de croire que :
+a) ou bien elle ne peut, ou ne pourrait de ce fait, acquitter son passif à échéance;
+b) ou bien la valeur de réalisation de son actif serait, de ce fait, inférieure au total :
+(i) de son passif,
+(ii) des sommes nécessaires, en cas de rachat ou de liquidation, à désintéresser les actionnaires qui, par rapport aux détenteurs des actions à acheter ou à racheter, doivent être payés par préférence ou concurremment, déduction faite de toute partie de ces sommes déjà inscrite au passif.
+[7] Monsieur Léon Gagnon, président et seul actionnaire de l'appelante, a expliqué qu'à l'époque des événements, l'appelante était une société dont la principale activité était la gestion de placements.
+[8] Monsieur Gagnon était le président et le directeur de la société Centre Financier Iberville-Champlain Inc. ( « Centre Financier » ). Il détenait 55% des actions et son épouse Sylvie Turcotte, 45%. Cette société avait un contrat de franchise de Desjardins, Sécurité financière. Centre Financier gérait une équipe de représentants en services financiers. Madame Turcotte s'occupait de l'administration interne de Centre Financier.
+[9] En 1999 et 2000, Centre Financier a reçu de Desjardins un boni spécial au montant total de 300 000 $. Monsieur Gagnon affirme que ce montant a été inclus dans la déclaration de revenu de Centre Financier. Ceci n'est pas mis en doute par l'intimée.
+[10] Toutefois, ni lui ni son épouse ne désiraient garder cet argent dans les avoirs de Centre Financier. Ils souhaitaient mettre cet argent en sécurité sans conséquence fiscale immédiate pour le moment. Ils ont fait appel à un fiscaliste, monsieur Jean-Yves Lepage. Ce dernier a suggéré un dividende inter corporatif. Quand les époux auront besoin de la somme ou une partie de celle-ci, ils paieront l'impôt exigible sur les montants qu'ils retireront.
+[11] Le 6 juin 2000, Centre Financier a modifié ses statuts en vertu de la Partie IA de la Loi sur les compagnies en ajoutant des actions de catégorie « J » (pièce A-2). Voici leur description :
+ACTIONS DE CATÉGORIE « J »
+1) Dividendes
+Sous réserve de l'article 123.70 de la Loi sur les compagnies et des droits afférents aux actions des catégories « E » à « H » , les actionnaires de la catégorie « J » ont droit de recevoir, à la discrétion du conseil d'administration, un dividende annuel non cumulatif. Le conseil d'administration n'aura pas l'obligation de déclarer un dividende en même temps sur toute autre catégorie d'actions. Il incombe aux administrateurs de déterminer le moment et les modalités de versement de tout dividende déclaré.
+2) Remboursement
+Si pour tout motif et notamment en cas de liquidation volontaire ou de liquidation forcée ou de dissolution, il y a répartition des biens de la société, les actionnaires de la présente catégorie ont droit, en priorité, sur les actions de catégories « A » à « D » , « G » et « H » mais subséquemment aux actionnaires des catégories « E » et « F » au remboursement d'un montant égal au prix de rachat déterminé ci-dessous au paragraphe 5.
+3) Participation additionnelle
+Les actions de la présente catégorie ne confèrent aucun autre droit de participation aux profits ou aux surplus d'actif de la société.
+4) Droit de vote
+Sous réserve des dispositions de la Loi sur les sociétés par actions, les actionnaires de la présente catégorie n'ont pas à ce seul titre droit de vote aux assemblées des actionnaires de la société ni droit d'assister à celles-ci ou d'en recevoir l'avis de convocation.
+5) Rachat par la société
+Sous réserve de l'article 123.54 de la Loi sur les compagnies et de toute convention d'actionnaires, les actionnaires de la présente catégorie peuvent exiger de la société qu'elle rachète, dans les 30 jours suivant une demande écrite à cet effet, toutes ou partie des actions de cette catégorie qu'ils détiennent. Le prix de rachat pour chaque action sera de 1 000 $.
+Suite au rachat, la compagnie doit réduire le compte de capital actions émis et payé de la présente catégorie conformément à l'article 123.51 de la Loi sur les compagnies. Aux fins du présent paragraphe, le rachat est réputé parfait par la remise et l'annulation des certificats représentant les actions soumises au rachat.
+[12] Le 19 décembre 2000, l'appelante a acquis 300 actions de catégorie « J » émises par Centre Financier au prix de 1 $. C'est en raison de cette émission au prix de 1 $ pour des actions rachetables au gré de l'actionnaire au prix de 1 000 $ que le ministre du Revenu national (le « Ministre » ) a considéré qu'il y avait eu un avantage conféré à l'appelante en tant qu'actionnaire.
+[13] Le 16 janvier 2001, Centre Financier a racheté les 300 actions de catégorie « J » et a émis un chèque de 300 000 $. Comme le rachat avait lieu en faveur de l'appelante dont seul monsieur Gagnon est actionnaire, madame Turcotte à titre d'actionnaire de Centre Financier a également signé la résolution de rachat et a même ajouté à la main ce qui suit :
+Je déclare avoir pris connaissance en toute connaissance de cause, et être en accord avec le présent rachat d'actions par Gestion Léon Gagnon inc.
+Sylvie Turcotte
+[14] Lors du contre-interrogatoire de monsieur Gagnon, l'avocate de l'intimée a posé les questions suivantes aux pages 22 à 25 des notes sténographiques :
+[39] Q. O.K. Est-ce que vous savez pourquoi, au lieu de faire une émission d'actions puis après ça racheter les actions, on n'a pas déclaré un dividende sur les actions de catégorie J?
+R. Voulez-vous préciser votre question : déclaré un dividende à?
+[40] Q. Non, mais c'est parce que vous avez dit que le but de la planification c'était de ... bon transférer l'argent, les bénéfices là qu'il y avait dans Centre financier dans Gestion Léon Gagnon?
+R. Oui.
+[41] Q. O.K. Par le biais d'un dividende?
+R. Inter compagnie.
+[42] Q. Inter compagnie, O.K. Alors pour déclarer un dividende, il faut tout d'abord que la compagnie soit actionnaire si on fait une émission d'actions. Pourquoi on n'a pas simplement déclaré un dividende sur ces actions-là? Le savez-vous?
+R. Non, bien moi ce que je sais, c'est que je me suis adressé à un fiscaliste. On a regardé la situation ensemble, puis l'objectif était de protéger le capital, de protéger le patrimoine puis de le faire sans conséquences fiscales et c'est la recommandation qu'on m'a faite, et je l'ai appliquée.
+[43] Q. O.K.
+R. Je ... ça dépasse mes compétences à ce niveau-là.
+[44] Q. O.K. Alors sur la résolution qui prévoit l'émission d'actions, c'est exact que le prix d'émission des actions de catégorie G était 1 $ l'action?
+R. Oui.
+[45] Q. C'est exact?
+R. C'était 1 $.
+[46] Q. O.K. Comment ça été décidé ça, que c'était 1 $ l'action?
+R. Encore là ça a été décidé de ... ça a été sous la recommandation qu'on m'a faite.
+[47] Q. O.K.
+R. J'ai appliqué les recommandations, je ne saurais expliquer là les technicalités.
+[48] Q. O.K. Maintenant les actions de catégorie J qui ont été émises, c'est exact qu'elles ont une valeur de rachat de 1 000 $ l'action?
+R. Oui, c'est exact.
+[49] Q. Oui? O.K. Comment ça a été établi ce montant-là de 1 000 $ l'action?
+R. Même chose que pour le 1 $ ... malheureusement, ça dépasse mes compétences, comment ça a été établi ...
+[50] Q. Mais le but c'était de prendre le 300 000 $ de la compagnie opérante puis le mettre dans la compagnie de gestion, c'est ça?
+R. Le but c'était de protéger le capital et de protéger le patrimoine familial et de faire sans conséquences fiscales.
+[51] Q. O.K.
+R. Et la recommandation, ça a été de la compagnie A à B, les vases communicants.
+[52] Q. O.K. Est-ce que c'est exact qu'au moment où ça a été fait cette transaction-là, l'émission des actions puis qu'on a prévu une valeur de rachat de 1 000 $ l'action donc 300 000 $ au total, la compagnie elle avait les liquidités pour payer ce montant-là?
+R. La compagnie Centre financier?
+[53] Q. Oui.
+R. Oui, tout à fait, il y avait des surplus accumulés d'un peu plus de 300 000 $ dans la compagnie.
+...
+[15] Monsieur Jean-Yves Lepage est un consultant en fiscalité. Il travaillait à l'occasion avec les représentants de Centre Financier.
+[16] Voici son explication aux pages 30 et 32 des notes sténographiques :
+...
+R. Oui, parce que ... bien je peux dire en somme que c'était l'objectif que monsieur Gagnon visait depuis le départ là. C'était de dire, cet argent-là, on a déjà ... la société a déjà payé ses impôts là-dessus, je n'en ai pas besoin personnellement, donc je ne veux pas payer d'impôt immédiatement, je les paierai lorsque je sortirai l'argent. Maintenant est-ce qu'il y a un moyen de transférer ou de sécuriser cet argent-là sans qu'il y ait d'impôt à payer? Et le résultat à notre avis était de dire bon, il va y avoir un dividende inter compagnie non imposable.
+...
+R. Bien on ... Oui, on a regardé et justement il n'y avait aucun avantage pour monsieur Gagnon dans cette situation-là parce que l'argent partait d'une société et s'en allait dans une autre société. Et on n'a pas réduit l'impôt à payer là-dedans parce que monsieur Gagnon n'est pas dans une situation meilleure qu'il l'était auparavant. En ce sens que, l'argent est toujours dans une société et il devra payer de l'impôt sur les sommes qu'il retirera de la société. Donc, qu'il retire de la société A ou de la société B, le résultat en finalité sera le même. Il y aura de l'impôt à payer. Alors l'objectif n'était pas de différer, d'éliminer l'impôt au contraire. C'était juste de ... sécuriser l'argent.
+[17] Il relate que la description des caractéristiques des actions de la catégorie « J » a été faite avec l'aide d'une avocate.
+[18] En contre-interrogatoire, voici les questions de l'avocate de l'intimée, aux pages 33 à 36 des notes sténographiques :
+[72] Q. Oui? Pouvez-vous nous expliquer comment ça été déterminé le prix d'émission d'actions à 1 $ et puis le montant, la valeur de rachat au gré du détenteur des actions?
+R. Bon grosso modo, ce qu'on a fait, c'est qu'on a dit, bon le montant à sortir est de 300 000 $. Alors on va émettre des actions à une valeur nominale de 1 $ et on les rachètera à une valeur de 1 000 $ prévu par le ... dans le certificat et la différence, c'est là que la différence, donc on considère que la différence serait un dividende inter compagnie.
+[73] Pourquoi vous n'avez pas, comme on dit, roulé les actions déjà existantes de monsieur Gagnon plutôt que d'en émettre des nouvelles?
+R. Bon, oui. C'est quelque chose auquel on a pensé, c'est une des ...
+[74] C'est la façon normale de fonctionner.
+R. C'est une des possibilités oui, effectivement qu'on a envisagées, puis on en est venu à la conclusion que, oui ça aurait fonctionné. C'est de la façon comme vous le dite, normale de fonctionner mais on avait, c'est sûr qu'il y aurait eu des coûts qui auraient été plus élevés à ce moment-là alors que là c'était plus simplement relativement simple, en procédant de cette façon-là, tout ce qu'il y avait c'était de modifier le capital-actions et de faire les rachats d'actions.
+[75] Q. O.K. C'était pour éviter de l'argent finalement?
+R. Pardon?
+[76] Q. C'était pour éviter que ça ...
+R. C'était pour éviter des frais là.
+...
+[19] Madame Sylvie Turcotte a confirmé qu'elle et son époux, depuis qu'ils sont mariés, soit 27 ans, ont toujours considéré qu'ils avaient un patrimoine unique et qu'elle était tout à fait d'accord à ce que le montant de 300 000 $ soit inclus dans les avoirs de l'appelante.
+[20] Madame Turcotte a ajouté que Centre Financier avait été vendu en 2005. Elle a ainsi expliqué le contexte de la vente à la page 41 des notes sténographiques :
+[99] ...
+R. Oui, je peux vous expliquer, c'est bien simple. Mon conjoint a eu un cancer et puis ... il y avait son adjoint qui en assurait l'intérim. Puis avec cet adjoint-là il y avait une entente à l'effet que les ... ça serait tranquillement transféré, lui il en deviendrait propriétaire finalement. Mais comme, avec ce qui arrivait là, ça nous a fait comme ... c'était un petit peu difficile aussi pour nous, là, à la maison puis lui, qui travaillait beaucoup mais qu'il n'en était pas le propriétaire. Fait que finalement, on a ... on s'est assis, on a regardé, puis finalement on a vendu tout de suite.
+[21] Il faut penser que les actionnaires de Centre Financier désiraient vendre leur entreprise sans que le montant de 300 000 $ reste dans les actifs de la société.
+Analyse et conclusion
+[22] Ainsi que nous l'avons vu à la lecture des dispositions des lois corporatives ci-dessus citées, le droit corporatif permet la possibilité du rachat des actions à une valeur supérieure à leur prix d'émission. Le prix peut être déterminé dans les statuts et le montant payable à la demande d'un actionnaire. Certaines conditions s'appliquent au rachat.
+[23] L'alinéa 15(1)a) de la Loi se lit ainsi :
+15(1) Avantages aux actionnaires -- La valeur de l'avantage qu'une société ou à une personne en passe de le devenir est incluse dans le calcul du revenu de l'actionnaire pour l'année -- sauf dans la mesure où cette valeur est réputée par l'article 84 constituer un dividende -- si cet avantage est conféré autrement que :
+a) par la réduction du capital versé, le rachat, l'annulation ou l'acquisition, par la société, d'actions de son capital-actions ou à l'occasion de la liquidation, cessation ou réorganisation de son entreprise, ou par une opération à laquelle l'article 88 s'applique;
+[24] La Loi prévoit le traitement fiscal dans le cas de rachat d'actions. Ainsi, s'il y a un gain en capital, le paragraphe 84(3) de la Loi prévoit que la société qui rachète est réputée avoir versé un dividende égal à l'excédent éventuel de la somme payée sur le capital versé.
+[25] On me plaide que ce n'est pas le rachat qui est en cause mais l'émission. Dès l'émission, il y a eu un avantage conféré et je ne dois pas me préoccuper du rachat.
+[26] Je ne peux pas. C'est le rachat qui constitue l'avantage. Le rachat est soumis aux dispositions du droit corporatif. Il n'est pas automatique.
+[27] Il m'est difficile de comprendre les motifs profonds qui ont amené les vérificateurs du Ministre à cotiser en vertu du paragraphe 15(1) de la Loi. Ils n'ont pas témoigné et on ne m'a pas produit leurs rapports.
+[28] Je ne vois pas sur quelle base je pourrais déclarer que la seule émission d'actions dont la valeur de rachat est supérieure au prix d'achat constitue un avantage en vertu du paragraphe 15(1) de la Loi alors que le rachat tout en étant mu par l'actionnaire est soumis aux dispositions des lois corporatives.
+[29] De plus, le paragraphe 15(1) de la Loi prévoit qu'il ne s'agit pas d'un avantage si le rachat est réputé constituer un dividende en vertu de l'article 84 de la Loi, ce qu'il serait en vertu du paragraphe 84(3) de la Loi.
+[30] On m'a plaidé que le roulement des actions de Centre Financier dans des sociétés de gestion aurait été la procédure normale. On ne m'a pas expliqué pourquoi cette procédure était essentielle. On peut aussi se demander si le roulement aurait servi les fins des actionnaires du Centre Financier qui désiraient vendre mais sans le montant de 300 000 $.
+[31] La Loi craint le dépouillement du surplus d'une société sans conséquence fiscale. Mais ici ce ne fut pas le cas. Le rachat d'une action à un prix supérieur au coût de son émission est réputé être un dividende corporatif.
+[32] Pour ces raisons, l'appel est accordé avec dépens.
+[33] Les parties ont demandé à ce que l'appel soit classé dans les appels de la catégorie B et non de la catégorie C, vu le montant d'impôt en litige. Ce qui a été accordé par la Cour.
+Signé à Ottawa, Canada, ce 14e jour de décembre 2006.
+« Louise Lamarre Proulx »
+Juge Lamarre Proulx
+RÉFÉRENCE : 2006CCI682
+N º DU DOSSIER DE LA COUR : 2005-2177(IT)G
+INTITULÉ DE LA CAUSE : GESTION LÉON GAGNON INC. c.
+SA MAJESTÉ LA REINE
+LIEU DE L'AUDIENCE : Montréal (Québec)
+DATE DE L'AUDIENCE : le 9 novembre 2006
+MOTIFS DU JUGEMENT PAR : L'honorable juge Louise Lamarre Proulx
+DATE DU JUGEMENT : le 14 décembre 2006
+COMPARUTIONS :
+Avocat de l'appelante :
+Me Serge Fournier
+Avocat de l'intimée :
+Me Marie-Andrée Legault
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelant:
+Nom : Me Serge Fournier
+Cabinet : Brouillette Charpentier Fortin
+Montréal (Québec)
+Pour l'intimé : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

@@ -1,0 +1,168 @@
+Title: Kreuz c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29388/index.do
+Corpus path: corpus/cases/tcc/2009/2009-cci-441-29388-kreuz-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2009-08-17
+
+# Kreuz c. La Reine
+
+- Citation: 2009 CCI 441
+- Decision date: 2009-08-17
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6879, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Kreuz c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2009-08-17
+Référence neutre
+2009 CCI 441
+Numéro de dossier
+2009-658(IT)I
+Juges et Officiers taxateurs
+Cameron Hugh McArthur
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2009-658(IT)I
+ENTRE :
+VICTOR G.E. KREUZ,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 17 août 2009 et décision rendue oralement le 21 août 2009, à Toronto (Ontario)
+Devant : L’honorable juge Cameron McArthur
+Comparutions :
+Pour l’appelant :
+L’appelant lui‑même
+Avocat de l’intimée :
+Me Ian Theil
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’encontre de la cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2005 est accueilli, et l’affaire est renvoyée au ministre du Revenu national pour qu’il procède à un nouvel examen et établisse une nouvelle cotisation en tenant compte du fait que l’appelant à droit à une déduction pour les dépenses d’emploi afférentes à un véhicule à moteur attribuées au Peterborough Victoria Northumberland and Clarington Catholic District School Board seulement.
+Signé à Ottawa, Canada, ce 9e jour de septembre 2009.
+« C.H. McArthur »
+Juge McArthur
+Traduction certifiée conforme
+ce 14e jour d’octobre 2009.
+Marie-Christine Gervais, traductrice
+Référence : 2009 CCI 441
+Date : 20090909
+Dossier : 2009-658(IT)I
+ENTRE :
+VICTOR G.E. KREUZ,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Pour l’appelant : L’appelant lui-même
+Avocat de l’intimée : Me Ian Theil
+MOTIFS DU JUGEMENT
+Le juge McArthur
+[1] Il s’agit d’un appel interjeté à l’encontre d’une cotisation dans laquelle le ministre du Revenu national (le « ministre ») a refusé d’accorder la déduction de 5 372 $ demandée par l’appelant au titre de dépenses d’emploi afférentes à un véhicule à moteur engagées en 2005. La question en litige est de savoir si les dépenses d’emploi engagées peuvent être déduites en application des alinéas 8(1)h.1) et 8(1)j) de la Loi de l’impôt sur le revenu (la « Loi ») ou bien s’il s’agit de dépenses personnelles engagées par l’appelant pour faire la navette entre sa résidence et son lieu d’emploi.
+[2] Les questions précises à trancher sont énumérées ainsi dans les observations du ministre :
+[traduction]
+a) Premièrement, l’appelant n’était pas tenu d’exercer ses fonctions ailleurs qu’à son lieu d’emploi, soit l’école où il enseigne un jour donné, au sens de la première condition mentionnée à l’alinéa 8(1)h.1) de la Loi (le sous‑alinéa 8(1)h.1)(i) dans la version anglaise).
+b) Deuxièmement, le ministre allègue que l’appelant n’a pas été habituellement tenu d’exercer les fonctions de son emploi à différents endroits au sens des alinéas 8(1)h.1) et j) de la Loi parce qu’il avait été engagé pour des contrats de suppléance ponctuels particuliers et qu’il ne travaillait habituellement pas dans plus d’une école le même jour.
+c) Troisièmement, le ministre allègue que l’appelant n’a pas le droit de déduire les dépenses dont la déduction a été refusée en application de l’article 8 de la Loi dans la mesure où le paragraphe 8(2) en interdit la déduction.
+d) Finalement, le ministre ajoute que l’appelant n’a pas produit le formulaire prescrit T2200 des employeurs pour l’année d’imposition 2005 et qu’il n’a donc pas le droit de déduire les dépenses en application du paragraphe 8(10).
+[3] L’appelant réside à Peterborough (Ontario) et a déclaré un revenu de 29 000 $ en 2005. Il est titulaire d’un diplôme universitaire obtenu en 2003 et a été engagé en tant qu’enseignant suppléant pour le Peterborough Victoria Northumberland and Clarington Catholic School Board (le « conseil des écoles catholiques ») et le Kawartha Pine Ridge District School Board (le « conseil des écoles publiques ») pendant l’année 2005. Il s’est rendu dans diverses écoles du district cette année‑là et, comme il est mentionné, a demandé une déduction de 5 372 $ au titre de frais afférents à un véhicule.
+[4] La position de l’appelant est que la plupart des employés travaillent à un endroit de façon continue. Ces employés ne peuvent pas demander une déduction pour frais afférents à un véhicule à moteur lorsqu’ils produisent leur déclaration pour la raison suivante :
+[traduction]
+« les frais afférents à un véhicule à moteur engagés pour faire la navette entre la résidence et le lieu d’emploi » ne peuvent pas être déduits en application de la Loi.
+De plus, ces employés disposent de nombreux moyens pour ne plus utiliser un véhicule à moteur, ou bien l’utiliser dans une moindre mesure, afin de se rendre au travail.
+[5] Il a ajouté qu’il doit se rendre à court préavis et dans toutes sortes de conditions météorologiques à l’une des quelque 40 ou 50 écoles, je crois, puis il a dit que les autres employés ont le droit à une déduction pour frais afférents à un véhicule à moteur en application des mêmes dispositions.
+[6] Son but est d’obtenir un poste permanent d’enseignant. Toutefois, en 2005, il était seulement suppléant, et lorsqu’on l’appelait pour faire de la suppléance, il devait parcourir jusqu’à 50 ou 60 kilomètres, ou même plus, à partir de sa résidence à Peterborough pour aller enseigner. Il est qualifié pour enseigner aux niveaux primaire et secondaire. Il était rare qu’il refuse d’accéder à une demande du conseil. Il lui arrivait parfois d’enseigner dans cinq écoles différentes au cours d’une même semaine. Il possédait sa propre voiture, ce dont il avait absolument besoin pour se déplacer d’une école à une autre dans un court délai. Il m’a semblé être une personne intègre et sérieuse.
+Législation
+[7] L’alinéa 8(1)h.1) de la Loi prévoit ce qui suit :
+8(1) Sont déductibles dans le calcul du revenu d’un contribuable tiré, pour une année d’imposition, d’une charge ou d’un emploi ceux des éléments suivants qui se rapportent entièrement à cette source de revenus, ou la partie des éléments suivants qu’il est raisonnable de considérer comme s’y rapportant :
+a) […]
+h.1) dans le cas où le contribuable, au cours de l’année, a été habituellement tenu d’accomplir les fonctions de son emploi ailleurs qu’au lieu d’affaires de son employeur ou à différents endroits et a été tenu, aux termes de son contrat d’emploi, d’acquitter les frais afférents à un véhicule à moteur qu’il a engagés dans l’accomplissement des fonctions de sa charge ou de son emploi, les sommes qu’il a dépensées au cours de l’année au titre des frais afférents à un véhicule à moteur pour se déplacer dans l’exercice des fonctions de son emploi, sauf s’il a, selon le cas :
+(i) reçu une allocation pour frais afférents à un véhicule à moteur qui, par l’effet de l’alinéa 6(1)b), n’est pas incluse dans le calcul de son revenu pour l’année,
+(ii) demandé une déduction pour l’année en application de l’alinéa f);
+Les exceptions ne s’appliquent pas en l’espèce.
+Analyse
+[8] En bref, les conditions prévues par la Loi que l’appelant doit remplir sont les suivantes :
+a) premièrement, le paragraphe 8(10) exige que l’appelant produise un formulaire prescrit et, en l’espèce, le conseil des écoles catholiques lui en avait fourni un, mais il n’avait pas réussi à en obtenir un du conseil des écoles publiques;
+b) deuxièmement, pour ce qui est de la première condition mentionnée à l’alinéa 8(1)h.1) (le sous‑alinéa 8(1)h.1)(i) dans la version anglaise), je suis d’avis que l’appelant remplit la condition. Ses employeurs, les conseils scolaires, étaient situés à Peterborough, et je n’ai aucun mal à conclure qu’il s’agissait du lieu d’affaires de ses employeurs;
+c) troisièmement, pour ce qui est de la deuxième condition mentionnée à l’alinéa 8(1)h.1) (le sous‑alinéa 8(1)h.1)(ii) dans la version anglaise), l’appelant remplit également la condition. Pour se rendre aux diverses écoles à court préavis, qu’elles soient situées à 10 kilomètres ou à 60 kilomètres de sa résidence, il avait besoin d’une voiture. Il devait assumer seul l’entretien de sa voiture, peu importe que cela ait été mentionné dans son contrat de travail ou non, lequel comportait la clause A2‑03 de la convention collective. Qui d’autre pouvait payer ses frais de déplacement?
+d) finalement, l’appelant pouvait être informé la veille qu’il devait enseigner dans une école située à quelque 50 kilomètres de chez lui. Comme il était nouveau dans le métier et souhaitait satisfaire son employeur, tout en ayant à l’esprit ses objectifs à long terme, il se sentait obligé de le faire, beau temps mauvais temps. Pour gagner sa vie, il devait accepter toutes les demandes. Sa voiture était un outil dont il avait besoin pour exercer son métier. Il ne disposait pas d’autres moyens de transport ou bien il n’était pas pratique pour lui de les utiliser.
+[9] Dans la décision O’Neil v. The Queen[1], le juge Rip a conclu qu’un coordonnateur de la sécurité de la Ville d’Ottawa dont le travail comportait des visites à l’extérieur de l’hôtel de ville ne remplissait pas les conditions prévues à l’alinéa 8(1)h.1). Sa décision se distingue de l’espèce parce que dans O’Neil, l’appelant voulait obtenir la déduction des frais de déplacement engagés entre sa résidence et l’hôtel de ville. Il avait été remboursé pour les déplacements qu’il avait faits pour se rendre à de nombreux endroits, mais pas pour ceux qu’il avait faits entre sa résidence et l’hôtel de ville.
+[10] Dans la présente affaire, l’appelant ne veut pas déduire les frais de déplacement engagés, s’il y a lieu, pour se rendre aux bureaux des conseils scolaires, il veut seulement déduire ceux engagés pour ses déplacements entre sa résidence et les propriétés que les conseils possédaient. Les lieux d’affaires de ses employeurs étaient les bureaux des deux conseils à Peterborough et non chacune des salles de classe où l’appelant se rendait quotidiennement. Il n’est pas déraisonnable de conclure que l’appelant et ses employeurs avaient conclu un contrat tacite selon lequel l’appelant devait se rendre à diverses écoles avec sa voiture, à ses propres frais, et il est évident qu’il ne recevait pas d’allocation pour frais de déplacement.
+[11] Le conseil des écoles catholiques lui avait remis le formulaire T2200 prescrit requis, qui a été déposé sous la cote A‑1, et dans lequel figurent les questions et les réponses de l’employeur qui constituent les conditions d’emploi :
+[traduction]
+a) Selon son contrat de travail, l’employé devait-il payer les frais qu’il a engagés dans l’exécution des tâches qui lui étaient confiées?
+Réponse : Oui.
+En règle générale, demandiez-vous que cet employé travaille ailleurs qu’à votre établissement ou à différents endroits?
+Réponse : Oui.
+C’est une question importante pour déterminer que le lieu d’affaire de l’employeur n’était pas les écoles. C’est également une simple question de bon sens.
+[traduction]
+b) L’employé a-t-il reçu une allocation pour frais d’automobile?
+Réponse : Non.
+6 Avez-vous exigé que cet employé engage d’autres frais pour lesquels il n’a reçu ni allocation ni remboursement?
+Réponse : Non.
+Selon son contrat de travail, l’employé devait-il payer les frais qu’il a engagés?
+Réponse : Oui.
+[12] Je crois que le bon sens doit l’emporter. Le ministre soutient que, le cas échéant, l’appelant devrait recevoir un remboursement pour s’être déplacé seulement dans un sens, soit pour aller à l’école et non pour retourner à sa résidence. Je ne crois pas que cet argument mérite quelque commentaire que ce soit. La question la plus difficile est de savoir si les sommes relatives aux déplacements en voiture sont des sommes que l’appelant a « dépensées […] pour se déplacer dans l’exercice des fonctions de son emploi ».
+[13] Dans la décision Menard c. La Reine[2], l’appelant était un débardeur qui se présentait à différents quais du Port de Montréal conformément aux directives. La Cour d’appel fédérale a conclu que les quais étaient les différents endroits mentionnés à l’alinéa 8(1)h.1), mais que l’appelant n’était nullement tenu par contrat d’avoir une automobile. Cela diffère de la situation de l’appelant qui, j’en suis arrivé à la conclusion, ne disposait d’aucune autre façon pratique de se déplacer pour se rendre aux diverses écoles. Il va de soi qu’il utilisait son propre véhicule.
+[14] Dans Chrapko v. Canada[3], pendant la période pertinente, le contribuable travaillait comme préposé aux paris mutuels pour l’Ontario Jockey Club. Les frais de déplacement avaient été engagés lorsque le contribuable se rendait à l’une des trois pistes à partir de sa résidence à Niagara Falls. Dans Chrapko, la Cour a limité les frais déductibles à ceux que le contribuable avait engagés pour se rendre à un lieu de travail autre que ceux où il travaillait habituellement, ce qui est semblable à la présente espèce, mais ces endroits dans Chrapko comprenaient Woodbine et Greenwood où il travaillait 75 % du temps. La Cour a conclu que les frais de déplacement que le contribuable pouvait déduire étaient ceux qu’il avait engagés lorsqu’il travaillait à Fort Erie, bien qu’il ait choisi de résider à Niagara Falls, qui est plus près de Fort Erie. Chrapko appuie la position de l’appelant.
+[15] L’appelant a cité de nombreuses affaires, notamment Rousseau c. La Reine[4]. Dans la décision Rousseau, l’appelant était un plombier qui avait demandé une déduction pour les frais d’utilisation d’un véhicule à moteur engagés pour ses déplacements entre sa résidence et les chantiers. Voici un passage de la décision Rousseau :
+Or, le formulaire T‑2200 signé par le représentant de chaque employeur indique bien que monsieur Rousseau était obligé de se déplacer dans l’exercice de son emploi et qu’il ne recevait pas d’allocation à cette fin.
+Cela s’applique en l’espèce également. Dans la décision Rousseau, le juge Paris a ensuite ajouté que, dans l’arrêt Rozen c. Canada[5], la Cour fédérale avait mentionné ce qui suit :
+Si un employé est tenu de se déplacer pour se rendre à son travail, et que son employeur n’est pas prêt à lui verser le montant exact et total du transport, alors cet employé répond aux exigences du sous‑alinéa 8(1)h)(ii).
+Le juge Paris a conclu que M. Rousseau s’était conformé à la Loi.
+[16] Finalement, j’aborderai la troisième condition mentionnée à l’alinéa 8(1)h.1) qui prévoit que le contribuable doit avoir dépensé les sommes déduites pour se déplacer dans l’exercice des fonctions de son emploi. Dans l’arrêt Chrapko, la Cour d’appel fédérale a accepté, de façon implicite, que les déplacements d’un contribuable entre sa résidence et un lieu de travail pouvaient être considérés comme étant des déplacements effectués dans l’exercice des fonctions de son emploi si le contribuable était habituellement tenu d’exercer ces fonctions à différents endroits. Le même raisonnement a été suivi dans Her Majesty the Queen v. Merten[6] et dans Royer c. Canada[7].
+[17] Maintenant, pour ce qui est de la deuxième condition, j’ai déjà mentionné le fait que, dans les circonstances, il va de soi que l’appelant était obligé de supporter les frais afférents à son véhicule selon son contrat de travail. Les motifs suivants, qui ont été donnés par la juge Sheridan dans la décision Hudson c. Canada[8], s’appliquent également à la présente affaire :
+[…] [Le contribuable] était tenu d’avoir son véhicule à sa disposition au bureau. Pour l’appelant, la seule façon de répondre à cette exigence consistait à se rendre au travail dans son véhicule chaque jour. Si M. Hudson avait laissé son véhicule stationné en permanence au bureau, comme l’avocate de l’intimée l’a suggéré plutôt hardiment dans son argumentation, il aurait été complètement privé de l’utilisation de son propre véhicule à des fins personnelles, une attente qu’il n’est pas raisonnable de nourrir à l’égard d’un employé. (Et si l’employeur avait fourni la place de stationnement, l’appelant aurait pu en outre être imposé pour sa peine.) Je retiens le témoignage de l’appelant selon lequel, n’eût été de l’obligation d’avoir son véhicule au bureau, il aurait utilisé un des moyens de transport plus économiques […]
+Je peux sans difficulté conclure que l’appelant travaillait lorsqu’il se déplaçait pour se rendre aux écoles. Il ne s’agissait pas de voyages d’agrément. Ces déplacements qu’il devait faire pour se rendre à divers endroits faisaient partie des exigences de son emploi. L’appelant fournissait de précieux services à ses employeurs et il était obligé de voyager dans toutes sortes de conditions climatiques pour remplacer un enseignant qui n’était pas en mesure de travailler.
+[18] Je cite avec approbation un passage des observations préliminaires de l’appelant :
+[traduction]
+En tant qu’enseignant suppléant, je travaille à divers endroits. Les deux conseils scolaires pour lesquels je travaille couvrent de grands territoires, qui s’étendent sur 160 kilomètres d’un bout à l’autre. Je demeure à Peterborough, soit environ dans le milieu des limites territoriales des conseils. Pour travailler cinq jours par semaine afin de satisfaire mon employeur, je me déplace à l’extérieur de Peterborough et je fais souvent des voyages aller‑retour de 150 kilomètres. Je ne pourrais pas travailler si je n’avais pas de voiture. Aucun autre choix réaliste ne s’offre à moi. Je demande à la Cour de tenir compte des commentaires formulés au sujet du choix dans Mitchell c. Canada.
+[…] Dans de telles affaires, aucun choix ne s’offrait aux appelants, ils devaient simplement se déplacer pour s’acquitter de leurs tâches respectives ou subir les conséquences de tout refus.
+Cela s’applique également à l’appelant et, je tiens à le souligner, est conforme au bon sens.
+Conclusion
+[19] En terminant, je conclus que l’appelant ne remplit pas les conditions énoncées au paragraphe 8(10) en ce qui concerne le conseil des écoles publiques et qu’il n’a pas le droit de déduire les frais de déplacement qu’il a engagés pour aller aux écoles du conseil des écoles publiques et en revenir. Toutefois, l’appel est accueilli pour les frais de déplacement qu’il a supportés lorsqu’il était employé par le conseil des écoles catholique en 2005. J’accepte le témoignage de l’appelant en ce qui concerne la distance parcourue et les frais engagés. On ne m’a pas donné de précisions à ce sujet et j’espère que les montants que l’appelant a fournis à l’intimée et qui n’ont pas été contestés sont suffisants. Le ministre ne s’est pas opposé aux montants dans la réponse à l’avis d’appel.
+Signé à Ottawa, Canada, ce 9e jour de septembre 2009.
+« C.H. McArthur »
+Juge McArthur
+Traduction certifiée conforme
+ce 14e jour d’octobre 2009.
+Marie-Christine Gervais, traductrice
+RÉFÉRENCE : 2009 CCI 441
+NO DU DOSSIER DE LA COUR : 2009-658(IT)I
+INTITULÉ : VICTOR G.E. KREUZ et
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Le 17 août 2009
+MOTIFS DU JUGEMENT : L’honorable juge C.H. McArthur
+DATE DU JUGEMENT : Le 9 septembre 2009
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui‑même
+Avocat de l’intimée :
+Me Ian Theil
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom : s.o.
+Cabinet : s.o.
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] [2001] 1 C.T.C. 2091, 2000 D.T.C. 2409 (C.C.I.)
+[2] 2004 CCI 516, 2006 D.T.C. 2515
+[3] [1988] 2 C.T.C. 342, 88 D.T.C. 6487 (C.A.F.)
+[4] 2006 CCI 552
+[5] [1985] A.C.F. no 1002.
+[6] 90 DTC 6600
+[7] 1999 Cour canadienne de l’impôt no 111.
+[8] 2007 CCI 661

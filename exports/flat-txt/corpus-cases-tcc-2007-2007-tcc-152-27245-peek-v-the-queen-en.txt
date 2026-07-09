@@ -1,0 +1,207 @@
+Title: Peek v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27245/index.do
+Corpus path: corpus/cases/tcc/2007/2007-tcc-152-27245-peek-v-the-queen-en.md
+Document type: case_law
+Last modified: 2007-03-16
+
+# Peek v. The Queen
+
+- Citation: 2007 TCC 152
+- Decision date: 2007-03-16
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 786, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Peek v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-03-16
+Neutral citation
+2007 TCC 152
+File numbers
+2004-2723(IT)G
+Judges and Taxing Officers
+Murray A. Mogan
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2004-2723(IT)G
+BETWEEN:
+DAVID PEEK,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on September 20, 2006, at Vancouver, British Columbia
+By: The Honourable Justice M.A. Mogan
+Appearances:
+Counsel for the Appellant:
+Jack Anderson
+Counsel for the Respondent:
+Susan Wong
+____________________________________________________________________
+JUDGMENT
+The appeals from assessments made under the Income Tax Act for the 1996, 1997, 1998, 1999 and 2000 taxation years are dismissed, with costs.
+Signed at Ottawa, Canada, this 16th day of March 2007.
+"M.A. Mogan"
+Mogan D.J.
+Citation: 2007TCC152
+Date: 20070316
+Docket: 2004-2723(IT)G
+BETWEEN:
+DAVID PEEK,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Mogan D.J.
+[1] The Appellant filed income tax returns for the years 1996, 1997, 1998, 1999 and 2000 reporting net income in the range of $6,000 to $20,000 for the first four years and net income of $55,000 for the year 2000. During that five-year period, the Appellant obtained through unlawful means approximately $602,000 from HSBC Bank Canada ("HSBC"). By Notices of Assessment dated February 19, 2003, the Minister of National Revenue (the "Minister") added to the Appellant's reported income for the five years 1996 - 2000 significant amounts relating to the amounts which the Appellant had obtained from HSBC. The Appellant has appealed from the reassessments for those five years.
+[2] There are two principal issues in these appeals. First, did the money unlawfully obtained from HSBC have the character of income in the hands of the Appellant? And second, is the Minister permitted to reassess the taxation years 1996, 1997 and 1998 after the normal reassessment period as defined in subsection 152(3.1) of the Income Tax Act (the "Act")? Those first three years are commonly referred to as "statute-barred years". At the commencement of the hearing, counsel for the parties filed as Exhibit 1 an Agreed Statement of Facts comprising 10 paragraphs which are set out below.
+1. At all material times, the Appellant sold life insurance policies on a commission basis.
+2. The Appellant had previously worked in banking, first with Lloyds Bank, then with the Bank of Montreal, and lastly with HSBC, which was formerly known as the Bank of British Columbia;
+3. At all material times the Appellant had two accounts at HSBC;
+4. From 1993 to 2000, the Appellant engaged in a "kiting" scheme in which he would typically write a cheque from one account with insufficient funds and deposit the cheque into his second account to cover the outstanding payments against the second account. Prior to the cheque clearing, the Appellant would write a cheque from the second account to cover the overdraft created in the first account;
+5. By June 27, 2000, the Appellant was indebted to HSBC for $659,877.27;
+6. On June 8, 2001, HSBC obtained judgment against the Appellant in the Supreme Court of British Columbia for the full amount of the indebtedness, plus interest from and after June 22, 2000;
+7. The Appellant also engaged in the practice of purchasing life insurance policies for himself and his family in order to receive sales commissions which would initially exceed premiums initially paid by him;
+8. The Appellant was subsequently charged criminally for his actions against HSBC;
+9. The Appellant was convicted of these criminal charges; and
+10. On February 19, 2003, the Minister of National Revenue reassessed the Appellant for unreported income from the "kiting" scheme totalling $367,526.00 for the 1996, 1997, 1998, 1999 and 2000 taxation years.
+[3] The Appellant was born in the U.K.in 1940. He started working at Lloyds Bank in 1957 and continued there until 1970 when he and his wife moved to Canadafor greater opportunities. He worked briefly for the Bank of Montreal (1970-72) and then with the Bank of British Columbia (which later became HSBC) from 1972-1983. He was required to leave his employment at HSBC in 1983 because he had placed a second mortgage on his home without informing HSBC when it held the first mortgage. In 1983, he decided to sell life insurance and, after the necessary qualifications, was sponsored by North American Life Insurance Co.
+[4] Although the Appellant lost his house through foreclosure in 1985 and was forced to declare personal bankruptcy in 1986, North American Life continued to sponsor him because of his early success in the life insurance business. The Appellant's financial problem in the late 1980s and early 1990s arose from the fact that his commission cheques from North American Life were irregular but his cost of living - maintaining his family - was constant on a week-by-week basis.
+[5] North American Life would issuea commission cheque each week if there was money in the Appellant's account but, if he finalized the sale of a life policy in a particular week, it could take two or three months to be paid his commission on that policy because medical examinations, blood tests, doctors' reports, etc. were required before an underwriting decision was made by the Company. Accordingly, if there were some weeks when the Appellant did not sell a life policy, there would be weeks when he was not paid any commission. By 1993, the Appellant had two financial problems. He was not receiving a commission cheque every week from North American Life to help meet his weekly cost of living. Also, he was not earning enough to maintain his standard of living
+[6] To overcome his 1993 financial problems, the Appellant embarked upon two programs which, by June 2000, brought him financial ruin. In the first program, he engaged in a "kiting" scheme. In the second program, he started selling life insurance policies to himself and members of his family. I will consider first the kiting scheme. At the HSBC branch in Campbell River, BC, the Appellant had account number 650-258029-150 in his own name. I will hereafter refer to this account as "150". At the same HSBC branch, account number 650-258665-170 was in the joint names of the Appellant and his wife, Rona Peek. I will hereafter refer to this joint account as "170". The Appellant regarded 150 as his savings account and 170 as his chequing account. It was the kiting of cheques between 150 and 170 which caused him to be charged criminally for his actions against HSBC.
+[7] As I understand the evidence, the Appellant would write a cheque to himself drawn on 150 and deposit that cheque through an automated banking machine ("ABM") in 170 to cover outstanding payments from 170 without having funds in 150 to cover the cheque. He would repeat the process the following day by writing a cheque drawn on 170 and depositing it through an ABM to cover the overdraft in 150 created the previous day. Due to the one day delay in clearing cheques deposited through an ABM, he was able to keep 150 and 170 in a credit balance as far as HSBC records showed but, in actual fact, his own records showed an overdraft in each account. On many days, he would have to write more than one cheque on each account in order to create a credit balance in the HSBC records.
+[8] Exhibit R-1, Tab 28, contains page 4 of the monthly statement for account 150 as at January 19, 2000 showing transactions from December 30, 1999 to January 4, 2000. The same exhibit also contains pages 3 and 4 of the monthly statement for account 170 as at January 21, 2000 showing transactions from December 30, 1999 to January 5, 2000. These two extracts from the monthly statements for 150 and 170 over the December 31, 1999 year end show how the Appellant kited cheques between the two accounts to create a credit balance in the HSBC records. For example, on December 31, he deposited in 150 through ABMs the following three cheques drawn on 170:
+December 31
+$85,790.09
+December 31
+84,701.25
+December 31
+78,335.72
+Total
+$248,827.06
+The monthly statement for 170 shows that these three cheques were not charged to 170 until January 4, 2000.
+[9] Also, on December 31, the Appellant deposited in 170 through ABMs the following five cheques drawn on 150:
+December 31
+$71,567.90
+December 31
+76,891.42
+December 31
+83,460.17
+December 31
+79,840.55
+December 31
+78,654.38
+Total
+$390,414.42
+Page 4 of the monthly statement for 150 in Exhibit R-1, Tab 28 has only one entry after December 31, 1999; and so it does not show the above five cheques being charged to 150. I note, however, in Exhibit R-1, Tab 29, that the Revenue Canada auditor (Mr. B. Anderson) has listed the above five cheques plus the three cheques listed in paragraph 8 as the eight cheques which the Appellant kited over the year end of December 31, 1999 in order to keep 150 and 170 out of an overdraft position.
+[10] The aggregate of the three cheques listed in paragraph 8 plus the five cheques listed in paragraph 9 is $639,241. That is a staggering amount of money to be floating like a "kite" between 150 and 170 on New Year's Eve 1999 when one considers the relative impecuniosity of the Appellant reporting net income of only $29,000 in 1999. HSBC finally noticed the unusual activity in the two accounts 150 and 170. After interviewing the Appellant, the Bank determined that there was a kiting operation. On June 21, 2000, the Appellant's banking card was blocked and the two accounts 150 and 170 were frozen, preventing him from depositing any further cheques. When the outstanding kited cheques were finally processed, the Appellant owed the Bank $657,985.76 as at June 21, 2000.
+[11] One of the Respondent's witnesses was John K. Paterson, Corporate Security Manager at HSBC. He was involved in the Bank's investigation of the Appellant's kiting operating. He identified his memorandum dated June 28, 2000 at Exhibit R-1, Tab 24. In that memorandum, he summarized the Appellant's kiting operation as follows under the heading "Methodology":
+Essentially it can be seen that Peek deposited cheques through the ABM machines at the above noted Credit Unions for deposit to his HSBC accounts. There is a one day delay in the clearing of the cheques and this afforded him the opportunity to write a cheque on account #258029 for say $50.00 and deposit it via ABM for credit to account #258665. As account 029 had no funds, he would write a cheque on 665 in a slightly higher amount - say $60.00 for deposit to 029 to cover the $50.00 cheque plus provide a small extra balance (which would be the "profit" that he would subsequently remove as stolen funds). He would then write a cheque on 029 for a higher amount again - say $70.00 to cover the $60.00 cheque and so it would go. At the time of discovery, he was writing 5 cheques a day against one account - all in amounts of $75,000 to $85,000 and overlying them with a similar number of cheques on the other account for slightly increased amounts. The essence of the kite can therefore be seen to be writing cheques on an account for which there are no funds but prior to the cheques clearing and being debited to that account, a deposit is made sufficient to cover them. There is no "real" money belonging to Peek at all and he simply creates the illusion of real money through the above manipulation.
+[12] Referring to numbers 5 through 9 of the Agreed Statement of Facts set out in paragraph 2 above, HSBC sued the Appellant and obtained judgment against him in the British Columbia Court for approximately $659,000 plus interest from June 22, 2000; criminal charges were laid against him with respect to his kiting operation and he was convicted of those charges. In paragraph 6 above, I refer to the two programs which the Appellant commenced in 1993 and which brought him financial ruin. The second program was selling life insurance policies to himself and members of his family.
+[13] The Appellant explained that upon the sale of certain life policies, the commission he would earn over a few months would easily exceed the cost of monthly premiums over the first two years. The downside of such life policies was that, if a particular policy was not maintained for a minimum period like four years, the insurance company would reclaim from the salesperson any commission received on the sale of that policy. In 1993, the financial pressure on the Appellant was such that he decided to sell such policies to himself on his own life and to members of his family in order to receive commissions notwithstanding the downside. In a statement prepared for the British Columbia Court in December 2001 (Exhibit R-1, Tab 32), the Appellant described his life insurance program as follows:
+... I wrote a small policy on my own life (no medical requirements) on which the company would pay me on an annualized premium basis, as they always did on life insurance sales. This means that for one monthly premium deposit, they would assume that during the first year of the policy all subsequent premiums are paid. The agent therefore was paid "up front" at around 70% of annual premium, plus bonus of another 100% (this varied) of the commission. In short, for an initial outlay of $100, for example, I would 'earn' almost $1700. This sounds very lucrative, until you realize that premiums have to continue in order to maintain the policy and eventually payments will far exceed commissions earned. Nevertheless, I did this several more times over the next two years during slow months and in the absence of overdraft facilities. This must seem very foolish to an outsider, as it wasn't long before this got out of hand with monthly insurance premiums well over $1000. I couldn't cancel the policies as the insurer had a 4 year chargeback restriction in place, whereby agents lose most of the commissions earned, especially in the first two years.
+[14] Exhibit R-1, Tabs 19, 20 and 29 demonstrate how the Revenue Canada auditor (Brad Anderson) deducted annual premiums paid by the Appellant for life insurance policies on his own life and other members of his family from amounts which the Appellant "earned" each year through his cheque kiting operation. According to Tab 20, the Appellant had about 25 life policies on his family in 1996 for which he paid aggregate premiums of $79,609. The number of family policies began to decline after 1996 when he allowed the older policies to lapse after they had been in effect for five years to secure his sales commissions (no reclaiming by the company!).
+[15] Tab 29 shows the amounts earned by the Appellant through his cheque kiting operation. The amount "earned" in a particular year was the amount by which the overdrafts in 150 and 170 at the end of that year exceeded the comparable overdrafts at the end of the preceding year. Tab 20 shows the total premiums paid by the Appellant each year on family life policies. Tab 19 shows how Mr. Anderson deducted the total premiums paid each year from the cheque kiting profit for each year to arrive at amounts identified as "unreported income". And, in Tab 18, the Appellant has confirmed in writing his agreement with Mr. Anderson's computation of the amounts which Revenue Canada regards as unreported income for the years 1996 to 2000 being the years under appeal.
+[16] In Exhibit R-2, Mr. Anderson summarized his method of computing the Appellant's net unreported income according to Revenue Canada. Set out below are the relevant parts of Exhibit R-2.
+Year
+Net Reported Income
+Income from cheque kiting
+Insurance premiums deducted
+Net unreported income
+1996
+$6,000
+$158,143
+$79,609
+$78,534
+1997
+18,000
+177,367
+74,949
+102,418
+1998
+20,000
+129,443
+62,638
+66,805
+1999
+16,000
+118,347
+16,940
+101,407
+2000
+55,000
+18,762
+400
+18,362
+Totals
+$115,000
+$602,062
+$234,536
+$367,526
+The amounts in the right-hand column under the heading "Net Unreported Income" are the amounts which were added to the Appellant's reported income for the respective years under appeal. See Exhibit R-1, Tabs 12 to 16 inclusive.
+The Issues
+[17] The primary issue is whether the money unlawfully obtained from HSBC had the character of income in the hands of the Appellant. In argument, I asked Appellant's counsel if the Appellant had only one business (i.e. selling life insurance) for which the kiting of cheques was an integral part; or if his cheque kiting operation was separate from his business of selling life insurance. Counsel replied that he thought that the two operations were integrated because the banking for both was done through the same bank (HSBC). Indeed, both operations were conducted through the same two accounts at only one branch of HSBC.
+[18] There is extrinsic evidence that the two operations were integrated. According to Exhibit R-1, Tab 20, the annual premiums paid on the family life policies in the three statute-barred years were:
+1996
+$79,609
+1997
+74,949
+1998
+62,638
+In each of those years, the Appellant reported very modest income of $20,000 or less. Therefore, the Appellant could not have paid those high annual premiums on the family life policies (required to secure his retaining the commissions earned on the sale of such policies) unless he kited cheques from 150 (his savings account) to 170 (his chequing account) to pay those premiums. I find as a fact that the cheque kiting operation was an integral part of the Appellant's life insurance business.
+[19] In the circumstances of this case, the kiting of cheques by the Appellant was a fraudulent act because HSBC was induced to honour bona fide cheques issued to third parties (i.e. North American Life) believing that the Appellant had his own funds on deposit to support such third party cheques. The funds which appeared to be on deposit in account 170 (the chequing account) were drawn by the Appellant from account 150 (the savings account) using one or more kited cheques when the Appellant knew that he did not have sufficient funds of his own in 150 to cover the kited cheques.
+[20] In paragraphs 8 and 9 above, I refer to Exhibit R-1, Tab 28 to show that the Appellant had eight kited cheques "in the air" over December 31, 1999; and the aggregate face value of those cheques was $639,241. Also, Mr. Paterson's memorandum (Exhibit R-1, Tab 24) states that when the Bank closed down accounts 150 and 170 in June 2000, the Appellant was writing five cheques a day on each account, and that all cheques were in the range of $80,000. This was a constant, daily operation juggling significant amounts of money to deceive HSBC.
+[21] The law is well settled that money obtained by fraud may be income in the hands of the wrongdoer. In Poynton v. The Queen, 72 DTC 6329, the OntarioCourt of Appeal convicted an employee of income tax evasion when he obtained money from his employer by fraud and failed to report it as income. In Buckman v. M.N.R., 91 DTC 1249, the taxpayer was a lawyer convicted of fraud for having embezzled money (approximately $520,000) from his clients. When Revenue Canadaincluded the embezzled amounts in Mr. Buckman's income for 1983, 1984 and 1985, he appealed claiming that the embezzled funds were not income but money borrowed from his clients. When dismissing Mr. Buckman's appeal, Sobier J. stated at paragraphs 30 and 31:
+The Appellant received the money, appropriated it unto himself and used and enjoyed it for his own benefit. It was never treated by him as a loan. There was no intention to repay the Funds. Mr. Buckman was engaged in an on-going, long term scheme to steal from his clients. In reality, he intended to hold the Funds for his own account and did so in fact.
+The number of misappropriations and the methods employed by the Appellant had all the earmarks of a business. He took risks in stealing the Funds and being found out. His reward however, was his hope of escaping detection and keeping the Funds for his own use. There is no difference whether the thief acted as a solicitor, agent or employee. The fact that the Funds are to be treated as income flows from the realities of the situation. Paraphrasing Evans, J.A. in Poynton: What is being sought to be taxed didn't accrue to Mr. Buckman qua solicitor or qua mortgage broker but qua thief.
+[22] The Appellant's circumstances are similar to Mr. Buckman's situation. The amounts of money (approximately $650,000) which the Appellant obtained unlawfully from HSBC are substantial. The frequency of the transactions (many cheques), the magnitude of the kited cheques, and the period of time when the transactions were effected (seven years 1994 - 2000) had the earmarks of a commercial operation. The Appellant took the risk of being found out. His potential reward, however, was escaping detection. Mr. Peek's misdeeds were not those of an office boy pilfering petty cash from the till!
+[23] A letter dated June 30, 2000 from HSBC's lawyers to the Appellant (Exhibit A-1, Tab 1) demanded payment of the "Indebtedness". The letter used the notations Loan 258029-150 and Loan 258665-170 to identify the accounts in which the kited cheques were deposited but HSBC never regarded itself as a "lender" to the Appellant. From the moment when the kiting operation was discovered, HSBC regarded the $650,000 as money unlawfully obtained; and HSBC notified the police.
+[24] I have no hesitation in concluding that the money unlawfully obtained from HSBC had the character of income in the hands of the Appellant.
+[25] The remaining issueis whether the Minister may reassess the statute-barred years 1996, 1997 and 1998. Subsection 152(4) permits the Minister to make a reassessment "at any time" except that, after the normal reassessment period, a reassessment may be made only if the taxpayer "has made any misrepresentation that is attributable to neglect, carelessness or wilful default or has committed fraud" in filing his return. For the statute-barred years, the relevant amounts speak for themselves:
+Year
+Other Income
+Profit from
+Kiting Operation
+1996
+$6,616
+$158,143
+1997
+18,438
+177,367
+1998
+20,245
+129,443
+[26] In each year, the profit from the kiting operation was never less than six times the Appellant's income from other sources. The Appellant claimed that he was astonished to learn in 2002 that Revenue Canada was going to include the profit from his kiting operation with his income from other sources. He may have been astonished to learn that fact in 2002 but, during 1996, 1997 and 1998, the Appellant knew year-by-year that the financial benefits he was achieving each year from his extensive kiting operation far exceeded his income from other sources.
+[27] Having regard to the Appellant's experience and sophistication from working 26 years in banking (1957 to 1983), and having regard to the very substantial number of cheques which were kited on a daily basis in the years 1996, 1997 and 1998, the Appellant's failure to report any profit from his kiting operation in those years was a misrepresentation attributable to neglect or carelessness. And if he had reflected upon his standard of living with respect to his modest income from other sources, his failure to report such profit would have been attributable to wilful default. The appeals for all five years are dismissed, with costs.
+Signed at Ottawa, Canada, this 16th day of March, 2007.
+"M.A. Mogan"
+Mogan D.J.
+CITATION: 2007TCC152
+COURT FILE NO.: 2004-2723(IT)G
+STYLE OF CAUSE: DAVID PEEK and
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: Vancouver, British Columbia
+DATE OF HEARING: September 20, 2006
+REASONS FOR JUDGMENT BY: The Honourable Justice M.A. Mogan
+DATE OF JUDGMENT: March 16, 2007
+APPEARANCES:
+Counsel for the Appellant:
+Jack Anderson
+Counsel for the Respondent:
+Susan Wong
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Jack Anderson
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

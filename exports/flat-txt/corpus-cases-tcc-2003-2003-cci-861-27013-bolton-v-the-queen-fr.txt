@@ -1,0 +1,99 @@
+Title: Bolton v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27013/index.do
+Corpus path: corpus/cases/tcc/2003/2003-cci-861-27013-bolton-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2003-12-05
+
+# Bolton v. The Queen
+
+- Citation: 2003 CCI 861
+- Decision date: 2003-12-05
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 623, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Bolton v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-12-05
+Référence neutre
+2003 CCI 861
+Numéro de dossier
+2002-4153(IT)I
+Juges et Officiers taxateurs
+Cameron Hugh McArthur
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Référence : 2003CCI861
+Date : 20031205
+Dossier : 2002-4153(IT)I
+ENTRE :
+TAMARA BOLTON,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Représentant de l'appelante : Peter Bolton
+Avocat de l'intimée : Me Eric Sherbert
+____________________________________________________________________
+MOTIFS DU JUGEMENT
+(Rendus oralement à l'audience à Toronto (Ontario)
+le 18 septembre 2003.)
+Le juge McArthur
+[1] M. et Mme Bolton, vous êtes en colère et choqués de la façon dont l'Agence des douanes et du revenu du Canada vous a traités. Je vous ai permis de décharger votre frustration et si vous n'avez pas été traités avec respect, c'est regrettable. Toutefois, dans le cadre de la présente audience, il n'y a rien que je puisse faire à cet égard et je ne peux tenir compte de cette partie de votre argument.
+[2] Par ailleurs, vous ne m'avez pas facilité la tâche puisque non seulement vos livres sont en désordre, mais vous ne m'en avez soumis aucun. J'ai entendu vos arguments principaux, mais vous ne m'avez toutefois fourni aucune précision. Par contre, je suis convaincu de votre honnêteté et de votre franchise. Vous ne vous êtes pas présentés devant la Cour dans le but de mentir, mais vous ne disposez d'aucune preuve pour prouver votre situation. Par conséquent, ma décision sera, par nécessité, quelque peu sommaire et rapide. Après avoir entendu les deux parties et tenté de déterminer quels étaient les chiffres exacts, je vous accorderai toutes les déductions que vous avez réclamées pour l'année 1997, à l'exception de celle au montant de 8 000 $ pour les motifs que j'exposerai brièvement ci-dessous.
+[3] En ce qui concerne les dépenses les plus considérables que vous avez engagées en 1997 aux fins d'achat de fournitures et qui s'élèvent à 18 000 $, vous avez reconnu que, de ce montant, une somme de 12 000 $ correspondait à une dépense en capital engagée pour l'achat d'ordinateurs, ce qui laisse un écart de 6 000 $. De cette somme, une dépense de 3 000 $ n'a pas été justifiée et, par conséquent, je vous refuse cette déduction de 3 000 $. Par contre, je vous accorde l'autre déduction de 3 000 $, qui constitue une dépense engagée en vue de rénover le 210 et le 212 de la rue Main. Je conclus que l'entreprise que vous tentiez d'exploiter était le prolongement de la librairie et que ces deux entités étaient exactement la même chose. Par conséquent, ces dépenses engagées en vue d'accroître vos activités font partie des dépenses engagées aux fins d'exploitation de votre librairie. Donc, j'ai refusé de vous accorder la déduction des autres dépenses au montant de 3 000 $ parce que, d'une part, elles ne sont pas justifiées et parce que, d'autre part, je ne dispose comme preuve que de vos observations.
+[4] Un pourcentage important des frais de services publics que vous avez réclamés s'appuyait sur une répartition correspondant à 2 500 pieds carrés pour votre appartement situé à l'étage supérieur et à 2 800 pieds carrés pour votre librairie. J'admets les chiffres que vous avez soumis, soit 900 pieds carrés pour votre appartement situé à l'étage supérieur et 2 800 pieds carrés pour votre librairie située à l'étage inférieur. Je n'ai fait aucun calcul étant donné que je ne dispose pas de chiffres exacts. La présentation ainsi que le témoignage de la vérificatrice m'ont fort impressionné. De nombreuses factures lui ont été remises entre les mains et, à mon avis, elle a fait du mieux qu'elle le pouvait avec ce dont elle disposait.
+[5] Vous aviez certainement des montants consacrés à la publicité supérieurs à ce que vous aviez droit, mais je ne peux rien faire de plus que de diviser par deux les montants réclamés et de vous refuser la moitié du montant de 2 882 $ que vous avez réclamé. En ce qui concerne la taxe professionnelle, les frais et le permis, il me semble, selon les renseignements dont je dispose, que le refus de vous accorder la somme de 1 000 $ était justifié. Le loyer n'est pas une dépense que l'on peut compromettre. Elle était une dépense locative ou bien ne l'était pas. Je peux très bien comprendre pourquoi la vérificatrice n'a pas admis cette dépense, notamment si aucun chèque annulé ne lui a été remis et si elle n'a constaté aucune preuve dans la déclaration de revenus de M. Bolton. Toutefois, ici encore, j'admets les témoignages de l'appelante et de M. Bolton et j'admets également que ce montant a été payé.
+[6] Maintenant, ces chiffres sont fournis pour tenter d'arriver aux chiffres nets qui m'ont déjà été soumis. L'appel interjeté pour l'année d'imposition 1997 sera accueilli pour permettre à l'appelante de déduire des dépenses totales au montant de 30 000 $ par opposition aux dépenses s'élevant à environ 39 000 $ qu'elle a réclamées.
+MONSIEUR LE JUGE : Maintenant, Me Sherbert, y a-t-il autre chose que je puisse intégrer dans une ordonnance? Êtes-vous satisfait de ce montant global ou souhaiteriez-vous y réfléchir? Je suis tout à fait disposé à fournir une aide aux fins de préparation de l'ordonnance.
+Me SHERBERT : Non. À mon avis, ce montant global est suffisant. Voulez-vous dire satisfaisant dans la mesure où Revenu Canada le rectifie?
+MONSIEUR LE JUGE : C'est exact.
+Me SHERBERT : À mon avis, donc, un montant global est suffisant. Selon ce que je comprends, ce montant est approprié.
+MONSIEUR LE JUGE : Donc, si dans l'ordonnance pour l'année d'imposition 1997, je déclare que l'appel est accueilli afin de permettre à Tamara Bolton de déduire des dépenses au montant total de 30 000 $, l'ADRC comprendra-t-elle clairement de quoi il s'agit?
+Me SHERBERT : C'est-à-dire que puisque le revenu net est maintenant nul, alors il s'agirait d'une perte de 30 000 $?
+MONSIEUR LE JUGE : C'est cela, une perte de 30 000 $.
+Me SHERBERT : Peut-être faudrait-il indiquer qu'il s'agit d'une perte d'entreprise ou de quelque chose du genre de manière à ce qu'ils comprennent que ce montant doit être considéré comme une perte et non comme le montant total.
+MONSIEUR LE JUGE : Très bien. Donc, ce que vous dites, c'est que le revenu est maintenant nul. Maintenant, M. et Mme Bolton est-ce vous comprenez cela?
+M. BOLTON : Je crois que oui.
+MONSIEUR LE JUGE : Je ne vous demande pas de discuter avec moi.
+M. BOLTON : Non, bien sûr.
+MONSIEUR LE JUGE : J'ai rendu ma décision. Je vous demande seulement si vous comprenez?
+M. BOLTON : Si je comprends bien, ce que vous dites... Si j'examine la partie supérieure de la page 2, ici, dans la lettre que Me Sherbert m'a fait parvenir, il est indiqué que ces dépenses auraient pour résultat une perte nette de vingt-neuf et quatre-vingt-quinze [épellation phonétique] pour l'année 1997 et, selon ce que je comprends, vous augmentez cette perte à 32 925 $.
+MONSIEUR LE JUGE : 30 000 $.
+M. BOLTON : Donc, 30 000 $ exacts?
+MONSIEUR LE JUGE : Oui.
+M. BOLTON : Donc, vous augmentez cette perte d'environ 27 000 $?
+MONSIEUR LE JUGE : De combien?
+M. BOLTON : D'environ 27 000 $ de plus? Parce qu'ils ont établi la perte à vingt-neuf et vingt-cinq [épellation phonétique] pour cette année-là.
+MONSIEUR LE JUGE : Ah, je vois! Lors que vous disiez 29, je croyais que vous vouliez dire 29 000 $.
+M. BOLTON : Non, je disais 2 925 $. Donc, vous augmentez cette perte admissible à...
+MONSIEUR LE JUGE : Bon, je crois que nous ne sommes pas sur la même longueur d'ondes. Je n'ai pas le document, du moins pas pour l'instant. Je fais référence à l'Avis d'appel. Mon dossier ne contient que deux choses, soit ledit document et votre Avis d'appel. Par ailleurs, après une demi-journée passée à entendre des témoignages, je n'ai toujours rien qui m'apparaisse crédible. Cependant, ce que je dis figure dans la Réponse à l'avis d'appel datée de 1997 et déposée à l'annexe A.
+M. BOLTON : Celle-ci?
+MONSIEUR LE JUGE : Oui. Prenez l'annexe. Me Sherbert, seriez-vous assez aimable pour passer en revue le document en question?
+Me SHERBERT : Bien sûr. Je crois comprendre ce qu'il veut dire. Oui. Il a raison. Selon le règlement dont nous disposons, il s'agirait d'une perte d'entreprise de 2 000 $ ...
+M. BOLTON : 925.
+Me SHERBERT : Cette perte d'entreprise est maintenant de 30 000 $, exactement.
+MONSIEUR LE JUGE : Donc, vous me suivez tous les deux?
+Me SHERBERT : Oui. Je pense que cela explique notre question.
+MONSIEUR LE JUGE : Qu'avons-nous pour l'année d'imposition 1998? Je présume que vous êtes parvenu à un règlement et que l'année 1998 ne constituait pas une préoccupation?
+Me SHERBERT : Non, parce que pour cette année-là, Revenu Canada avait établi ses pertes ou son revenu net à zéro et nous avons jugé que cette décision était favorable aux deux parties.
+MONSIEUR LE JUGE : L'appel pour l'année d'imposition 1998 est donc retiré?
+Me SHERBERT : Oui. En effet, l'appel est retiré ou l'appelante a renoncé à son appel pour cette année-là, oui.
+MONSIEUR LE JUGE : Est-ce exact?
+M. BOLTON : Oui, Monsieur le juge. Essentiellement, nous sommes d'accord avec cet argument visant à établir le revenu à zéro pour cette année-là.
+MONSIEUR LE JUGE : Bon, très bien. C'est tout donc. Je vous remercie.
+Signé à Ottawa, Canada, ce 5e jour de décembre 2003.
+« C. H. McArthur »
+J.C.C.I.
+Traduction certifiée conforme
+ce 10e jour de février 2004.
+Nancy Bouchard, traductrice

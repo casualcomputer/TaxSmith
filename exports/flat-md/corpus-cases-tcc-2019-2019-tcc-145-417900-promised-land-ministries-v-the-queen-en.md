@@ -1,0 +1,341 @@
+---
+title: "Promised Land Ministries v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/417900/index.do"
+last_modified: "2019-06-28"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2019 TCC 145"
+citation2: ""
+neutral_citation: "2019 TCC 145"
+decision_date: "2019-06-28"
+language: "en"
+item_id: "417900"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4383
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T12:09:07.332000+00:00"
+cases_cited_count: 6
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "0b00de2f0b69bcad31fec469dd6b41ef7b8bb07300211e13e6c63f1d83200494"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Promised Land Ministries v. The Queen
+
+- Citation: 2019 TCC 145
+- Decision date: 2019-06-28
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4383, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Promised Land Ministries v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2019-06-28
+Neutral citation
+2019 TCC 145
+File numbers
+2015-4620(IT)G
+Judges and Taxing Officers
+Kathleen T. Lyons
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2015-4620(IT)G
+BETWEEN:
+PROMISED LAND MINISTRIES,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on November 14 and 15, 2018, at Edmonton, Alberta
+Before: The Honourable Justice K. Lyons
+Appearances:
+Counsel for the Appellant:
+Robert Neilson
+Counsel for the Respondent:
+Wendy Bridges
+JUDGMENT
+The appeal with respect to the notice of suspension dated January 14, 2015, issued pursuant to paragraph 188.2(2)(a) of the Income Tax Act, is dismissed.
+Costs are awarded to the respondent. Each party is to provide written submissions on costs within 30 days from the date of this Judgment.
+Signed at Nanaimo, British Columbia, this 28th day of June 2019.
+“K. Lyons”
+Lyons J.
+Citation: 2019 TCC 145
+Date: 20190628
+Docket: 2015-4620(IT)G
+BETWEEN:
+PROMISED LAND MINISTRIES,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Lyons J.
+[1] Promised Land Ministries, the appellant (“PLM”), appeals the decision made by the Minister of National Revenue to suspend PLM’s receipting privileges and qualified donee status for one year pursuant to paragraph 188.2(2)(a) of the Income Tax Act (“Suspension”). [1] The Suspension arose as a result of the Minister’s audit of PLM’s financial years ending December 31, 2011 and December 31, 2012 (“relevant years”). The Minister determined that PLM failed to maintain adequate books and records thus continued to be non-compliant with the requirements of paragraph 230(2)(a) and subsection 230(4) of the Income Tax Act (“ITA”) and further failed to implement corrective measures stated in the compliance agreement signed in early 2009 (“Agreement”) involving an audit of an earlier year in which PLM had agreed to maintain adequate books and records. PLM disagrees.
+I. BACKGROUND FACTS:
+[2] PLM, a registered charity since the early 1990s for the purposes of the ITA, undertakes charitable work within Canada. Locally, it provides spiritual help to individuals during the week and holds church services on Fridays and Sundays. PLM specialized in delivering three-day workshops to provide spiritual help to individuals, including those from other denominations, who want to heal and restore their faith.
+[3] As the founder and leader of PLM since the 1990s, Pastor Jozef Jasinski went on missions, since 2003, to 25 countries in Africa, Indonesia and elsewhere to teach and preach to church leaders about spiritual welfare. Leaders would then take the teachings to their own churches. [2] Documents entitled “Promised Land Ministries” summarize where Pastor Jasinski went on various missions in the relevant years with testimonials and photos; these are sent to PLM’s supporters to show them their money was not spent in vain. [3] Without such documents, PLM cannot obtain donations.
+[4] Colin Chong, an elder who became involved with PLM in 2007, said that Pastor Jasinski had a vision from the Lord and is constantly looking for support for the church in Edmonton and the world. Mr. Chong described PLM as “missions minded” providing spiritual help to poorer countries three or four times annually.
+Compliance Agreement
+[5] After the Minister concluded an audit of PLM’s fiscal period ending December 31, 2007, the Canada Revenue Agency and Pastor Jasinski executed a compliance agreement (the “Agreement”) effective April 1, 2009. [4] He testified it was entered into because of a missing airline receipt (later located) and with the purpose of keeping all receipts moving forward.
+[6] In the Agreement, books and records were identified as the area of non‑compliance, with subsections 230(2) and 230(4) as the focus, which PLM committed to rectify such concerns plus it agreed it shall implement all corrective measures to maintain adequate books and records given that:
+It was found during the audit that the charity does not maintain adequate documentation to support the expenditure of its funds. Furthermore, detailed invoices and vouchers were not always available. As such, we concluded that the charity did not have adequate control of the resources generated and expended with respect to its’ charitable activities operating outside of Canada. [5]
+[7] Failure to maintain adequate books and records could result in penalties, its “qualified donee” status and receipting privileges being suspended or its registration could be revoked.
+[8] Shortly after, PLM was notified in writing that the CRA was satisfied that PLM will take corrective measures, that there will be no change to its registered charitable status and that at some point “A follow-up review will be conducted by CRA to confirm that the required corrective measures have been implemented and adhered to.” (“Agreement letter”). [6]
+Post-Agreement - Office Audit
+[9] Brian Carr was a CRA Office Audit Officer who conducted audits on registered charities in 2013 (“the auditor”). He testified that the Agreement is based solely on the failure to maintain adequate books and records to support PLM’s activities outside Canada. Before sending the letter dated December 17, 2013 (“2013 Letter”) to PLM, he had reviewed the Returns, the Agreement and the Agreement letter. [7] To conduct the office audit (“Audit”), he requested documentation, information and explanations for five areas of non-compliance. [8]
+[10] One such area is books and records, listed at 4 b. in Appendix 1 to these reasons, together with other questions in 4 and in 5 and the answers given at the examination for discovery of the auditor. [9] The respondent highlighted questions 5 b. and answers given as the basis for the Agreement, governing legislation and corrective measures to ensure detailed invoices and vouchers were available and to maintain adequate books and records.
+[11] The 2013 Letter indicates that:
+This is to advise you that Promised Land Ministries (the Organization) was selected for an office audit, as part of the Canada Revenue Agency’s (CRA) follow-up process of Compliance Agreements. As you will recall, the CRA conducted an audit of the Organization in 2009. As a result of that audit, the Organization agreed to enter into a Compliance Agreement with the CRA (see copy attached) which obligated the Organization to implement specific corrective measures in order to fully comply with the provisions of the Income Tax Act.
+[12] Under “Books and records” in the 2013 Letter, the auditor sought a detailed breakdown of expenses, including supporting invoices, pertaining to the categories “Mission Expenses” for Africa and Europe totalling the amounts of $16,822 and $6,550, respectively, reported on PLM’s “Income Statement” regarding the December 31, 2011 fiscal period plus information for the categories “Travel for Missions” and “Mission and other expenditures”; the amounts totalled $52,728 and $30,885, respectively, for the December 31, 2012 fiscal period. Upon Pastor Jasinski’s return from vacation in January 2014, he called the auditor to ask for more time to seek help with the Audit. The auditor said he had five phone conversations with PLM up to March 2014 which resulted in three additional time extensions.
+[13] PLM’s letter, signed by Pastor Jasinski and Mr. Chong, to the CRA dated March 8, 2014 attached segments of the returns for the relevant years (“Returns”). [10] Although Mr. Chong described that letter as responding to information CRA had requested in the 2013 Letter, he admitted under cross‑examination that PLM did not have the details nor could it make the numbers work by recreating the expense categories and PLM had asked for time to recreate the financial information and submit amended returns for the relevant years. Also, the March 8, 2014 letter states that “The expense breakdown is where we are having problems”. Under cross-examination, the auditor said he had understood from the March 8, 2014 letter that PLM had problems reconciling categories and expenses in the amounts of $16,822 and $6,550 on the Returns.
+Returns, Amended Returns, General Ledgers and Unaudited Financial Statements
+[14] Pastor Jasinski identified PLM’s “2011 Return”, prepared by Jonathan Craig, a chartered accountant with H&R Block, and its “2012 Return”, prepared by a female also with H&R Block (the “accountants”). [11] Mr. Chong said that all records were given to the accountants to prepare the Returns and when the Audit began he attempted to contact Mr. Craig thrice. [12]
+[15] Johan Vandenbrink, a chartered accountant with extensive experience having obtained his designation in the late 1970’s, said he was retained by PLM at the end of February 2014 to respond to the Audit concerning the expense categories, vehicle expenses and items in improper categories; he was given the same documentation as Mr. Craig. Because he was unable to reconcile the total amounts of expense categories in the Returns, he said he asked the auditor if amended returns could be filed. Since no clear answer was received, he prepared amended returns for the relevant years (“Amended Returns”) plus unaudited financial statements. [13]
+[16] In preparing the Amended Returns, Mr. Vandenbrink reviewed PLM’s bank statements, cheque stubs, deposit books, expense receipts, donation receipts, some documents in a package (pertaining to the Amended Returns, unaudited financial statements and General Ledgers) and briefly looked at Exhibit A1, Tab 15 plus additional documents. [14] Except for these additional documents, he had looked at the same documents in preparing the General Ledgers. [15] It was established in cross-examination that when he had prepared the General Ledgers for the relevant years in 2014, he had used some documents in Exhibit A1, Tab 30 provided to him by Mr. Chong or Pastor Jasinski and it was acknowledged that there were no receipts and vouchers for activities outside Canada. [16]
+[17] As to the unaudited financial statements, Mr. Vandenbrink relied on receipts, cheque stubs, deposits, the PLM documents and invoices, which are the supporting documents for what is contained in the General Ledgers. [17] He confirmed in cross-examination that he had looked at the All in One Statements and copies of cheques that accompanied those bank statements and that he would have looked at PLM’s All Receipted Donations summary for 2012 generated from the program. [18] Certain documents were available to him and he recalls seeing them but he did not rely too heavily on them as back up. [19]
+[18] The auditor could not remember if Mr. Vandenbrink notified him of PLM’s intent to prepare Amended Returns. Unbeknownst to the auditor until later, on April 26, 2014, PLM filed an Amended 2011 Return with the CRA. The auditor said that an amended return would normally be filed if corrections are to be made but his 2013 Letter requested PLM to utilize Form T1240 for any amendments; he explained it is less cumbersome than the T3010 Registered Charity Information Return.
+Communications between CRA and PLM
+[19] Since PLM had failed to provide any information as to its expenses for activities outside Canada, the auditor determined that PLM failed to maintain adequate books and records and had failed to observe its commitment under the Agreement to implement all corrective measures. He sent an “administrative fairness letter” dated May 27, 2014 (“May 2014 Letter”) to PLM which details, amongst other things, three categories of expenditures at points 2, 3 and 5 under the sub-heading “Failure to maintain adequate books and records”. Point 2 states:
+2. Our correspondence dated December 17, 2014, [sic 2013], requested the Organization provide us with a breakdown of the amount of $16,822 reported as “Mission Expenses – Africa” and the amount of $6,550 reported as “Mission Expenses – Europe” on the Organization’s “Income Statement” for the December 31, 2011, fiscal period including copies of invoices to support these amount [sic]. The Organization failed to provide any information.
+[20] CRA also notified PLM that pursuant to subsection 149.1(2), the Minister may revoke PLM’s registration as a charitable organization in the manner set out in paragraphs 168(1)(b) and (e) because PLM was not compliant with or contravened subsections 230(2) and (4) involving books and records. One purpose of the May 2014 Letter was to invite PLM to present additional information and/or additional written representations, within 30 days, regarding the Audit findings of the five non-compliant areas, one of which was books and records. [20] PLM was advised that subsequent to receipt of additional information and/or representations, CRA Director General of the Charities Directorate would decide on the appropriate course of action. This may include the issuance of an education letter, a compliance agreement, the application of penalties and/or suspensions provided in sections 188.1 and 188.2 or giving Notice of Intention to Revoke registration under subsection 168(1).
+[21] PLM responded in its letter of June 9, 2014 that: [21]
+1. We agree that for the fiscal periods being audited, the books and records of the Ministry were not adequate. We previously had an accountant, who quit shortly before this period. The professional help we received subsequently was not very good. We also have been unable to contact them, to assist in bringing our records to proper standards. We now have a new accountant assisting us, and we believe we will be able to achieve and maintain the books at a proper level from now on. Also, an amended 2011 Charitable has been submitted, and an amended 2012 Charitable [sic] return is enclosed.
+Suspension
+[22] The Minister was not satisfied with PLM’s response nor had it addressed all of the issues in the May 2014 Letter and determined PLM did not maintain adequate books and records thus did not comply with the requirements in subsections 230(2) and (4) as it had failed to provide supporting invoices and vouchers such that CRA’s concerns were not alleviated. Furthermore, it had failed to implement the corrective measures under the Agreement regarding the adequacy of its books and records. Consequently, on January 14, 2015, a Notice of Suspension was issued by the Minister in which PLM was advised that effective January 21, 2015 its charitable receipting privileges and qualified donee status are suspended for one year in accordance with paragraph 188.2(2)(a). [22]
+Objection
+[23] Shortly after, PLM signalled its intention to object to the Suspension and referred back to the June 9, 2014 letter outlining its intent “to achieve and maintain the books at a proper level from now on.” [23] Signed by Mr. Chong and authored and signed by Pastor Jasinski, the objection dated March 24, 2015 states, in part, that:
+Our appeal is based on the opinion that we have fully addressed the concerns originally presented to us, in the letter dated May 27, 2014 from CRA. Furthermore, we believe that a letter from Promised Land Ministries, crucial to addressing these concerns, dated June 9, 2014 has been overlooked.
+…
+In this letter we have admitted that there were problems with our books in 2011 and 2012 and that these problems were caused by sub-standard professional help. [24]
+[24] Mr. Chong suggested in his testimony that Wally Eng, the senior appeals officer, had only asked, in his letter to PLM dated May 6, 2015, whether PLM wanted to make further representations. However, Mr. Eng also highlights that “The objection was not accompanied by any further documentation to support these expenditures” and reiterated PLM failed to provide books and records and information to support certain expenditures as requested during the Audit. [25]
+Documentation produced
+[25] As the custodian of and responsible for the records for expenses, it was established that Pastor Jasinski kept such records at his home office or church. PLM’s final letter to CRA dated June 5, 2015, signed and authored by Pastor Jasinski, indicates:
+We are submitting detailed reporting to address the Books and Records requests of the letter dated December 17, 2013 from Brian Carr.
+These requests concerned the years 2011 and 2012 and were directed at the expenses that were incurred during mission trips to other countries. We are now attempting to satisfy this original request. [26]
+[26] The auditor testified that the documentation PLM eventually produced at the objection stage in support of expenditures for activities outside Canada approximated only half the amounts reported by it and consisted of monthly bank statements with only some receipts and invoices. [27] Ultimately, CRA issued a Notice of Confirmation dated July 13, 2015. [28]
+[27] At the hearing, Pastor Jasinski said the documentation produced were for expenses incurred by PLM during the missions and were accurate and approximate. [29] PLM purchased food (and other things), prepared lunches and preached the word of God. Classes at level 101 were delivered in poorer places, Indonesia and neighbouring areas. Trips to three schools occurred during the 2011 Sierra Leone mission. Money was requested because there were 1,605 participants. According to Pastor Jasinski, poorer places operated on cash economies, it was difficult to obtain receipts and the only currency accepted was the U.S. dollar. The local coordinator for that mission confirmed by letter the expenses PLM incurred were needed for Pastor Jasinski’s mission. [30] Mr. Chong said PLM went on trips to rural churches in four remote areas of Indonesia in 2012 and to similar areas in the Philippines. [31]
+[28] Airline tickets for Bali and Indonesia were identified by Pastor Jasinski as well as documents for missions to the Philippines and Myanmar in 2011 and 2012 that involved three-day spiritual welfare classes and set-up costs that include lunches, coordinators, accommodation et cetera to facilitate the trips. [32] For Bali, an email from the coordinator refers to finding a hall, bus transportation, a breakdown of trips to five cities and financial need separated by category. Pastor Jasinski flew into bigger cities and then took local airlines to fly between the numerous islands with helpers including pastors who were brought along because some communities had none as they were so poor.
+[29] Teaching and preaching also occurred in Poland. Pastor Jasinski said that European countries also needed schools with more advanced classes. According to Mr. Chong, this was more of a “congregational focus” and noted receipts for expenses for the airline, hotels, taxis and train receipts for Pastor Jasinski. [33] One receipt was from the Airline Ticket Centre for travel via Frankfurt to Poland for a mission in 2011. Under cross-examination, Pastor Jasinski acknowledged that he was originally from Poland, was accompanied by his wife and his son and said that travel was not all to Poland. He then referred to bringing Mr. Malangen from Toronto to Edmonton.
+Official Donation Receipts
+[30] Official donation receipts (“Receipts”) was also one of the five areas identified in the 2013 Letter as non-compliant during the Audit period. The auditor had matched the contents of the Receipts issued and the list of Receipts with the Returns (T3010s) for the relevant years.
+[31] In 2011, Pastor Jasinski had asked Mr. Chong for assistance as he had computer skills. Tasked with donations receipting, half the administration, Mr. Chong implemented the electronic donations database program (“program”) for donations received. After Pastor Jasinski collected the donations in envelopes from church members, Mr. Chong would enter donation amounts into the database, ensured receipts and totals were correct and corrected errors.
+[32] PLM’s first response to the 2013 Letter was a letter dated March 5, 2014 that addressed only CRA’s query regarding Receipts. Mr. Chong explained that the Receipts, cancelled Receipts and replacement Receipts arose from two donors who had requested their donations to be reallocated to three companies which caused an overstatement of PLM’s income. Later, information from the program was provided with PLM’s June 9 and 10, 2014 letters to the CRA which the auditor confirmed he had read but was unaware PLM maintained such program and never asked PLM how it maintained that information because the auditor’s focus throughout the Audit was on the expenditures. [34]
+[33] At times I found Mr. Chong’s evidence proved to be incomplete, inaccurate and on more than one occasion hearsay and self-serving. For example, he commented that Pastor Jasinski had told him that poorer countries were cash economies where it was not easy to obtain written receipts, the U.S. dollar is the only currency recognized and other details regarding the overseas missions even though Mr. Chong admitted he had not been overseas. Overall, his evidence was not overly helpful.
+II. ISSUES:
+[34] The issues are:
+a. Whether the Minister reasonably found that PLM failed to maintain proper books and records pursuant to paragraph 230(2)(a) and subsection 230(4)?
+b. If so, whether the Suspension pursuant to paragraph 188.2(2)(a) is justified?
+III. LAW:
+[35] Unless otherwise stated, all references to provisions that follow are to the ITA.
+[36] In 2011, subsection 149.1(1), the first relevant provision, provided that a:
+qualified donee means a donee described in any of paragraphs 110.1(1)(a) and 110.1(1)(b) and the definitions total charitable gifts and total Crown gifts in subsection 118.1(1); (donataire reconnu)
+[37] The definition of a qualified donee was amended effective 2012. The relevant part of paragraph 149.1(1)(b) reads a“qualified donee, at any time, means a person that is … a registered charity.” The recital of facts demonstrate that PLM was a registered charity.
+[38] Generally, as stipulated in subsections 230(2) and 230(4), records and books of account of a registered charity must be kept by it in such form to enable the Minister to determine if a charity’s registration should be revoked. Specifically, in 2011, paragraph 230(2)(a) read:
+230(2) Every registered charity and registered Canadian amateur athletic association shall keep records and books of account at an address in Canada recorded with the Minister or designated by the Minister containing
+(a) information in such form as will enable the Minister to determine whether there are any grounds for the revocation of its registration under this Act;
+…
+[39] In 2012, paragraph 230(2)(a) was amended to read:
+Records and books
+230(2) Every qualified donee referred to in paragraphs (a) to (c) of the definition qualified donee in subsection 149.1(1) shall keep records and books of account — in the case of a qualified donee referred to in any of subparagraphs (a)(i) and (iii) and paragraphs (b) and (c) of that definition, at an address in Canada recorded with the Minister or designated by the Minister — containing
+(a) information in such form as will enable the Minister to determine whether there are any grounds for the revocation of its registration under this Act;
+…
+[40] During the relevant years, subsection 230(4) read as follows:
+Limitation period for keeping records, etc.
+230(4) Every person required by this section to keep records and books of account shall retain
+(a) the records and books of account referred to in this section in respect of which a period is prescribed, together with every account and voucher necessary to verify the information contained therein, for such period as is prescribed; and
+(b) all other records and books of account referred to in this section, together with every account and voucher necessary to verify the information contained therein, until the expiration of six years from the end of the last taxation year to which the records and books of account relate.
+IV. PARTIES’ POSITIONS
+[41] PLM’s position is it acted in good faith in providing what it believed the Minister was requesting. The Minister cannot simply state the books and records are inadequate. Rather, she is obliged to specify the inadequacies and why the Suspension is justified. Conceding there were problems with expense categories in the Returns resulting in filing Amended Returns and that it had previously agreed to “do better” under the Agreement, PLM asserts the issues were addressed by tasking Mr. Chong with the receipting system and hiring the accountants to prepare the Returns to meet its obligations. Accordingly, the books and records were adequate and did not contravene subsections 230(2) nor 230(4). Even if inadequate, PLM submits that the shortcomings were not serious enough to warrant the Suspension which was unreasonable.
+[42] The respondent’s position is that despite PLM’s commitment under the Agreement to implement all corrective measures to maintain adequate books and records and Pastor Jasinski had clearly understood that, which specifically included the retention of all receipts, during the relevant years PLM failed to produce receipts, invoices and vouchers for its expenses for activities outside Canada despite repeated requests from CRA during the Audit. After CRA’s initial request in 2013, in 2015 PLM eventually produced some but not all the documentation that supported only half of the expensed amounts reported. The respondent submits the Minister properly exercised her discretion under subsection 188.2(2) by imposing the Suspension as PLM failed to maintain adequate books and records containing information to enable the Minister to determine whether there were any grounds for revocation of PLM’s charitable registration.
+V. ANALYSIS
+[43] A qualified donee, that is a registered charity within the meaning of subsection 149.1(1) in Canada, enjoys a special status and advantages over unregistered organizations. Advantages include exemption from tax on certain activities and the ability to issue official receipts to donors who make gifts to a registered charity. To retain such status, a registered charity is required to observe certain requirements to enable the Minister to determine whether there are any grounds for revocation of its registration under the ITA. If there is a contravention of any of sections 230 to 231.5, the Minister can suspend tax receipting privileges under paragraph 188.2(2)(a) for one year or give notice of intention to revoke its registration pursuant to subsection 168(1). [35]
+a. Whether the Minister reasonably found that PLM failed to maintain proper books and records as required under paragraph 230(2)(a) and subsection 230(4)?
+[44] In Prescient Foundation v Canada (Minister of National Revenue), 2013 FCA 120, 2013 DTC 5101 (FCA) [Prescient], the Federal Court of Appeal held that for revocation of a charity’s registration to be reasonable under the ground of inadequate books and records, the Minister must “clearly identify the information which the registered charity has failed to keep” and “explain why this breach justifies the revocation. It is not sufficient to simply state that the charity has failed to keep proper records.” [36] Natural justice requires that a charity be properly and adequately informed of the particulars of the alleged breach so that it may respond to the allegations. [37] PLM relied on these principles in support of its main argument that the Minister did not identify inadequacies or deficiencies regarding the books and records, did not review the books and records and did not give guidance. [38]
+[45] The Court in Prescient further instructed that a court must be satisfied that it was reasonable in the circumstances for the Minister to require the records or information at issue and is not precluded from “later referring in this Court to prior correspondence in which the issue of inadequate records was raised with the concerned registered charity, insofar as such prior correspondence is relevant to the particulars of the alleged breach as set out in the notice of intention to revoke”. [39] Clearly, the former aspect was satisfied by virtue of the Agreement.
+[46] PLM argued it maintained all such information regarding the donation receipts that contained all the prescribed information in its books and records in a form which would enable the Minister to verify donations received and receipts issued. PLM says the respondent’s assertion that PLM breached subsections 230(2) and 230(4) because it did not report all the cancelled Receipts or identify those issued to replace the cancelled Receipts is unfounded. PLM says it had recorded all such information in the program developed by Mr. Chong which the Minister could have looked at had she bothered ask.
+[47] Although the Receipts aspect was identified by CRA as one area of non‑compliance, PLM provided a satisfactory explanation early on to CRA and it was resolved. Yet, evidence was proferred, oral and documentary, at the hearing on the donations receipting system, including the program and the Receipts, which I find was largely irrelevant to the matter before me other than perhaps to illustrate the program was a measure taken by PLM post-Agreement which I accept occurred but not until approximately two years after the effective date of the Agreement. Generally, I found such evidence to be a distraction from the other germane area CRA identified as non-compliant involving the substantiation of expenses for activities outside Canada that has a nexus to the Agreement.
+[48] PLM next argued when it revisited documents regarding the African mission and looked at source documents in the books and records, it could not reconcile the expense categories to the amounts claimed in the Returns prepared by the former accountants. When PLM raised this, the auditor simply reiterated the initial request for a breakdown that accords with the amount claimed but did not indicate what was inadequate nor specifically ask for documents with respect to the Africa mission.
+[49] Read-ins of excerpts from questions and answers at the examination for discovery of Mr. Carr show, PLM says, the concern was simply about the expense amount categories in the Returns, not the books and records and there was no contravention of the ITA provisions because there is no requirement for a particular form or manner in which books and records are required to be kept. The requirement is adequacy of books and records, not adequate receipts which it had a lot of with the largest expense was for airfares which were retained. From a natural justice perspective, PLM suggests that the Minister simply saying that the books and records are inadequate is not enough and there needs to be more specificity as to why the books and records are deficient.
+[50] I disagree with PLM’s submissions. CRA went beyond a mere reference to PLM’s books and records being inadequate and clearly particularized the alleged breach in its 2013 Letter which shows the first request was made for a breakdown of the expense amount of $16,822 for “Mission Expenses – Africa” reported in the Return; the first paragraph of that Letter clearly states that the Audit was a follow up to the Agreement and CRA requires invoices and vouchers to support the expenses for activities outside Canada. The second request was made for invoices, in the same Letter, to substantiate the expense amount for Africa mission plus mission expenses for Europe on its 2011 Return and other expenses on its 2012 Return as noted in the read-ins (the first and second requests are collectively referred to as “the requests”). PLM’s history underscores it was cognizant of certain obligations under the Agreement. Pastor Jasinski agreed that the 2013 Letter refers to the Agreement. The requests and the reiteration in the May 2014 Letter shows, and I find, that PLM was adequately informed of the particulars of the alleged breach and was given the opportunity to respond not only on those occasions but a year later when contacted by the senior appeals officer and thereafter.
+[51] Furthermore, PLM’s submissions misconstrue or fail to appreciate the broad definition of “record” found in subsection 248(1) which reads:
+record includes an account, an agreement, a book, a chart or table, a diagram, a form, an image, an invoice, a letter, a map, a memorandum, a plan, a return, a statement, a telegram, a voucher, and any other thing containing information, whether in writing or in any other form; (registre)
+[52] Not only does the definition of record include a “return”, it also includes invoice, voucher and “any other thing containing information, whether in writing or in any other form” which would include an expense receipt. The evidence was clear that the auditor reviewed the Returns. By definition, therefore, CRA reviewed PLM’s records, at least in part, to the extent it could. When CRA followed up during the Audit with the requests for more records based on the amounts reported in the Returns, PLM failed to give expense receipts, invoices or vouchers to substantiate the amount of expenses in such categories regarding activities outside Canada which effectively curtailed the auditor’s ability to review PLM’s books and records. This disavows PLM’s submissions that the CRA did not review its records and that at no time did CRA officials ask for or review its records.
+[53] In arguing that the Minister conflated the expense categories with the issue of having inadequate books and records, PLM not only fails to recognize the breadth of the definition of record would encompass the expense categories as part of the books and records but misses the point that when CRA provided the specificity it did regarding the expense categories, including identifying amounts and asking for supporting invoices, it was discharging its obligation congruent with the principles in Prescient, relied on by PLM. In my view, the requests made to PLM by CRA, having identified the items as an area of non-compliance and in particularizing same in the manner it did, satisfies the natural justice element so that PLM could respond to the allegations had it chosen to do so. The evidence reveals that PLM was given a number of opportunities over a lengthy period and 18 months later still only provided part of the information despite its clear commitment under the Agreement to keep all receipts.
+[54] According to PLM, the problems with the Returns do not amount to a breach under paragraph 230(2)(a) nor subsection 230(4) because there was a “misunderstanding” during the Audit as to what CRA was concerned about and it had asked CRA what PLM could do to comply as to the wrong amounts in the Returns but received no guidance. Mr. Chong said he and Mr. Vandenbrink were under the impression they were supposed to correct and provide information to CRA regarding the expense category. When it revisited its books and records, it was unable to reconcile the categories resulting in filing the Amended Returns. This misunderstanding stemmed from the request for a breakdown of the expense amount of $16,822 as reflected in PLM’s March 2014 Letter to the CRA, which indicates that the auditor was asking for something that PLM could not do, prove the expense amount. That Letter and the 2013 Letter, it says, confirms the misunderstanding and that things did not add up and the CRA’s May 2014 Letter again refers to that expense amount. [40] PLM says that the May 6, 2015 letter is the first correspondence from CRA Appeals but it was not until June 5, 2015 that it “dawned” on PLM what it was being asked to do.
+[55] Although PLM suggested it was unclear what CRA wanted, I find it runs counter to the evidence. For example, CRA’s detailed correspondence starting with the 2013 Letter, in which CRA indicated that PLM was selected for an office audit as part of CRA’s follow-up process of the Agreement regarding the audit of PLM in 2009 so as to ensure that PLM was keeping vouchers and receipts as agreed. That is clear. It noted that the Agreement obligated PLM to implement specific corrective measures in order to fully comply with the provisions of the ITA. [41] The auditor had looked at the Returns, sought Receipts on the donations side, made the requests (breakdown of expense categories and invoices) and commented on (minor) errors in the Returns. That is clear. This was followed by CRA’s detailed May 2014 Letter.
+[56] Pastor Jasinski was keenly aware from the outset that CRA’s focus was on expenses for activities outside Canada and PLM had to retain all such documentation. Mr. Chong said he was aware that PLM was required to “do better” regarding books and records, having source documents available and more care was needed for overseas expenses especially African nations. PLM noted early on “the expense breakdown is where we have problems” without even mentioning CRA’s request for invoices and it had resolved a number of items. The auditor recommended that PLM file another simpler form to correct errors, yet Amended Returns were filed. I am unconvinced that it was unclear what CRA wanted. If such a misunderstanding existed, it was of PLM’s own doing.
+[57] Mr. Chong’s evidence was that notwithstanding he had explained the expense category to the auditor and the senior appeals officer, he failed to convince either regarding the corrections, however, the auditor testified he was unconcerned about the difference in amounts in the Returns, viewed these as minor errors and accepted same as well as the explanations regarding the cancelled and replaced Receipts which was done before the appeals stage. I prefer and accept the evidence of the auditor. His focus throughout the Audit remained on the lack of support for expenses for activities outside Canada consistent with the requests in the 2013 Letter and reiterated in points 2, 3 and 5 under the sub-heading “Failure to maintain adequate books and records” in the May 2014 Letter and pursuant to which PLM was given the opportunity to provide additional information within 30 days if it chose to do so. At the objection stage, PLM was reminded no additional information had been presented.
+[58] I do not accept PLM’s submission that when it said in its correspondence to CRA “We agree that for the fiscal periods being audited, the books and records of the Ministry were not adequate” that this was a disguised attempt by Mr. Chong to appease the auditor and correct errors. I find that this as well as its other later correspondence to the same effect is a clear admission of such inadequacy and consistent with it having to file Amended Returns because the information could not be reconciled (albeit recognizing these were minor errors) and that it did not maintain vouchers and expense receipts. [42]
+[59] Another assertion PLM made is that the CRA did not carry out an audit or there was no real audit and merely requested substantiation of the amounts in the expense categories in its Returns before determining its books and records were inadequate. That disregards, in my view, the nature and function of an office audit, how it unfolds and that it is within CRA’s purview to determine the type and scope of an audit. [43] It is then incumbent on PLM to locate and provide the requested information and documentation to CRA.
+[60] The preamble of the 2013 Letter indicates that the purpose of the CRA contacting PLM was to conduct an office audit and was seeking receipts and expenses reported in the Returns. Office audits, the auditor explained, are typically less complex than field audits and are conducted at CRA offices where an auditor reviews all information and documentation available in the charity’s file. [44] If additional information is required, the auditor can contact the charity by phone or registered mail, which was done in the present case. The purpose of the Audit he said, as is common in office audits, was to ensure PLM was following the terms of the Agreement; he reviewed the information provided by PLM. Clearly, follow-up from the Agreement was the focus and I find an office audit occurred.
+[61] PLM argued that allegations of inadequacies are unfounded because these are errors by former accountants who could not be located. That argument runs counter to the finding by the Federal Court of Appeal in Canadian Committee for the Tel Aviv Foundation v Canada, 2002 FCA 72, 2002 DTC 6843 (FCA), involving a revocation, which rejected the charity’s explanation that it could not produce receipts because of a change in management and found a third party could not be blamed for what was the charity’s responsibility. [45] By analogy, I find that PLM’s attempt to attribute blame to Mr. Craig or the other former accountant is insufficient plus his actions are irrelevant for PLM’s failure to keep adequate books and records; it is ultimately responsible for keeping records, including invoices, vouchers and expense receipts. Pastor Jasinski was the manager, sole employee responsible for making deposits and custodian of PLM’s records which were kept at church or his home.
+[62] To summarize, I find that the Minister clearly identified the information which PLM failed to keep comprising amounts of expense categories reported on the Returns when the auditor requested a breakdown of same as well as copies of invoices to support such amounts. The information sought and documentation requested by CRA in the 2013 Letter regarding the expense categories formed part of PLM’s books and records which CRA identified as non-compliant subject to PLM providing some substantiation to the contrary. PLM was given a number of opportunities to respond. Notwithstanding the requests, it was highlighted again for PLM six months later in the May 2014 Letter, yet nothing was provided throughout the Audit to support the amounts reported in the Returns even though that concern was the subject of the Agreement and even though Pastor Jasinski was cognizant of the specific concern and even though Mr. Chong knew PLM had to do better. The letter sent by the senior appeals officer to PLM – some 18 months after the 2013 Letter was sent – continued to highlight the concern and at this juncture does PLM provide documentation and some receipts. Even then, these approximated only half of the amount reported on the Returns.
+[63] I find and conclude that PLM failed to provide the information requested regarding the records thus was non-compliant and therefore in breach of the requirement to maintain adequate books and records with respect to certain aspects of its operations in the relevant years. As such, the Minister reasonably found that PLM failed to maintain proper books and records pursuant to paragraph 230(2)(a) and subsection (4) of the ITA.
+b. Is the Suspension a reasonable response in the circumstances pursuant to paragraph 188.2(2)(a)?
+[64] Given my finding PLM was in breach of the provisions, did CRA articulate why the Suspension was warranted and amount to a reasonable response.
+[65] PLM contends it tried to do the best it could to comply and meet its obligations. Although it had some receipts (for airline tickets, hotels and trains), it did not have every receipt because receipts are often not provided and difficult to obtain, according to Pastor Jasinski, given the prevalence of cash economies in poorer countries and remote areas where there were no debit machines, no credit cards and the local coordinators who made the arrangements only accepted cash in U.S. ($100 bills) currency. Also, accountants were hired to prepare the Returns and later Mr. Vandenbrink to assist with the Audit. Recognizing that the Suspension is a lesser sanction than revocation, PLM submitted it is nevertheless serious for a small charity and financially difficult.
+[66] I reject Pastor Jasinski’s explanation regarding the inability or difficulty of obtaining and tracking receipts in cash economies as self-serving. As acknowledged in his testimony, he was aware that the CRA’s focus was on expenses and receipts and he had to keep all of these thus PLM was put on notice in the Agreement of the concern as to substantiation of expenditures for its activities outside Canada and that there would be a follow up. It was incumbent on PLM to find ways to address such concerns so it can satisfy CRA’s requests for information for records regarding such expenditures. For example, the respondent suggested one way this might have been accomplished is for Pastor Jasinski to take a voucher book and he could have obtained a signature, and other details, from the individual PLM dealt with to see how the money was spent.
+[67] Under paragraph 188.2(2)(a), the Minister may suspend for one year, the ability of a registered charity to issue an official receipt and suspend its status as a qualified donee. In 2011, that paragraph reads as follows:
+Notice of suspension — general
+188.2(2) The Minister may give notice by registered mail to a registered charity that the authority of the charity to issue an official receipt referred to in Part XXXV of the Income Tax Regulations is suspended for one year from the day that is seven days after the notice is mailed
+(a) if the charity contravenes any of sections 230 to 231.5; or
+…
+[68] Effective 2012 the paragraph was amended to include all listed qualified donees and reads: [46]
+Notice of suspension — general
+188.2(2) The Minister may give notice by registered mail to a person referred to in any of paragraphs (a) to (c) of the definition qualified donee in subsection 149.1(1) that the authority of the person to issue an official receipt referred to in Part XXXV of the Income Tax Regulations is suspended for one year from the day that is seven days after the day on which the notice is mailed
+(a) if the person contravenes any of sections 230 to 231.5.
+[69] In Prescient, the Court found that although one failure to disclose information with respect to its records was insufficient, when combined with its lack of timeliness in not providing information until after the audit the Minister’s revocation was reasonable. The suspension of tax receipting privileges and other lesser sanctions were described in the following manner:
+51 Indeed, the Minister has less drastic administrative corrective measures or intermediate sanctions available to him, such as formal notices, compliance agreements, or the suspension of a charity’s tax receiving privileges for one year under paragraph 188.2(2)(a) of the Act. The registration of a charity that fails to maintain proper records should, therefore, only be revoked on this ground in case of material or repeated non-compliance. …
+[70] In International Pentecostal Ministry v Canada (Minister of National Revenue – MNR), 2010 FCA 51, 2010 DTC 5045 (FCA), also involving revocation by the Minister, the Court found that the revocation of the charity’s registered status was reasonable based on its failure to maintain books and records regarding activities, gifts and expenditures outside of Canada.
+[71] Upon receipt of the 2013 Letter, PLM sought and was granted several extensions of time to enable it to obtain assistance and hired Mr. Vandenbrink. In the May 2014 Letter, the auditor provided PLM with a further opportunity to respond and provide information. Although PLM sent correspondence with explanations in response to some of the areas CRA identified as non-compliant, at no time during the Audit did PLM produce receipts, invoices, vouchers or any other documents to support the expense amounts for its activities outside Canada. Whilst it belatedly produced documents and some receipts at the appeals stage in June 2015, only half the documentation was produced to substantiate the expenses reported in the Returns which were mostly bank statements.
+[72] Significantly, this was not PLM’s first experience and it had committed under the Agreement to keeping all receipts moving forward. Again, Pastor Jasinski knew that and that the Agreement was premised on the lack of receipts for expense amounts for activities outside Canada.
+[73] Applying the principles to the evidence adduced and having regard to the special status a charity holds, I am satisfied and find that the breach justifies the lesser sanction of the Suspension especially since there has been repeated non‑compliance involving receipts for expense amounts for activities outside Canada, it could only account for half of such expenses and the production of documentation and such receipts were not timely and the fact remains that PLM has still not produced all such receipts, as contemplated under the Agreement, for activities outside Canada during the relevant years.
+[74] Consequently, the Minister’s response to the failure to maintain adequate records was reasonable in the circumstances. I conclude that the Minister’s decision, pursuant to paragraph 188.2(2)(a), to suspend PLM’s authority to issue official charitable receipts and its qualified donee status was a reasonable response and warranted in the circumstances.
+[75] The appeal is dismissed.
+[76] Costs are awarded to the respondent. Each party is to provide written submissions on costs within 30 days of the date of this Judgment.
+Signed at Nanaimo, British Columbia, this 28th day of June 2019.
+“K. Lyons”
+Lyons J.
+Appendix I
+Excerpts from Transcript of Examination for Discovery of Mr. Carr
+Question 4:
+4. Paragraph 8 of the Respondent’s Reply indicates that the notice of suspension was issued to the Appellant on the basis that it failed to maintain proper books and records as required by subsections 230(2) and 230(4) of the Income Tax Act (the “Act”);
+Is that correct?
+Answer: Yes
+What are all of the ways in which the Respondent says the books and records maintained by the Appellant were not proper for the purpose of subsection 230(2) and 230(4) of the Act?
+Answer:
+The list of official donation receipts issued during the audit period did not report all of the cancelled official donation receipts or identify the receipts issued to replace the cancelled receipts.
+The Appellant failed to provide us with a breakdown of the amount $16,822 reported as “Mission Expenses – Africa” and the amount of $6,550 reported as “Mission Expenses – Europe” on the Appellant’s “Income Statement” for the December 31, 2011 fiscal period and failed to provide copies of invoices to support these amounts.
+The Appellant failed to provide us with a detailed breakdown of the amount $52,728 reported as “Travel for Missions” and the amount of $30,885 reported as “Mission and other expenditures” on the Appellant’s “Statement of Operations and Changes in Fund Balance” for the December 31, 2012 fiscal period and failed to provide copies of invoices to support these amounts.
+The Appellant failed to provide us with a breakdown of the amount of $2,475 as “Donation” as reported on its “Statement of Operations and Changes in Fund Balance” including the name of the organization(s) receiving the donation, the BN/registration number of the organization(s) and amount donated to each organization, or to provide any information relating to this expense.
+The Appellant failed to provide us with a breakdown of the amount of $8,392 reported as “Vehicle” expense on the Appellant’s “Statement of Operations and Changes in Fund Balance” for the December 31, 2012 fiscal period, or to provide any information relating to this expense.
+In reaching this conclusion, did anyone from CRA review the books and records maintained by the Appellant for the years at issue?
+Answer: I reviewed the documentation provided by the Appellant.
+Question 5:
+5. Please review subparagraphs 12 a) to 12 m) of the Respondent’s Reply:
+With respect to each subparagraph, please advise:
+Who, if anyone, within the CRA assumed the fact(s) to be correct?
+Answer: Myself, and the manager of the Office Audit Section, the Compliance Sanction Officer, the Director of Compliance and the Director General may have also assumed the facts to be correct.
+Was the allegation recorded in a document and, if so, which document(s)?
+Answer: Some or all of the Minister’s assumptions are contained in the Audit Report, AFL dated May 27, 2014, Memo to the Director General dated December 8, 2014 and the Notice of suspension of receipting privileges dated January 14, 2015.
+What are all the facts that you know or must have properly informed yourself of about this allegation?
+Answer: The facts as reported by the Appellant in its information returns for the audit period; the facts contained in the Compliance Agreement dated February 26, 2009; and, the facts contained in the documentation received from the Appellant.
+With respect to subparagraph b):
+What was the basis for issuing the Compliance Agreement referenced herein?
+Answer: The Appellant failed to maintain adequate books and records.
+Is the Compliance Agreement referred to located at the Respondent’s book of documents, Tab 19?
+Answer: Yes
+What specific corrective measures, if any, did the CRA suggest to the Appellant as part of the Compliance Agreement?
+Answer: The Appellant was to take steps to ensure detailed invoices and vouchers were available and to maintain adequate books and records as of March 4, 2009.
+Did the auditor who issued the Compliance Agreement advise the Appellant what constitutes adequate books and records and, if so, what explanation was provided?
+Answer: Yes, the Appellant was advised in the Compliance Agreement that under section 230(2) of the Income Tax Act, it is required to keep records and books of account and shall retain:
+(a) the records and books of account referred to in this section in respect of which a period is prescribed, together with every account and voucher necessary to verify the information contained therein, for such period as prescribed; and
+(b) all other records and books of account referred to in this section, together with every account and voucher necessary to verify the information contained therein, until the expiration of six years from the date of the last taxation year to which the records and books relate.
+c. With respect to subparagraph d), which corrective measures in particular did the Appellant fail to implement?
+Answer:
+The Appellant failed to provide us with a copy of its invoices to support its “Mission Expenses – Africa” and “Mission Expenses – Europe” for the December 31, 2011, fiscal period.
+The Appellant failed to provide us with a copy of invoices to support its “Travel for Missions” and “Mission and other expenditures” for the December 31, 2012.
+The Appellant failed to provide us with a breakdown of its “Vehicle” expense.
+The Appellant failed to maintain adequate books and records to allow it to correctly report its expenses.
+With respect to subparagraph f), what are all the ways that the Appellant’s responses were incomplete or contained serious deficiencies?
+Answer: The Appellant failed to provide any information or invoices related to the expenses set out in answer to question 4(b) above.
+With respect to subparagraph g), which aspects of the Appellant’s operations are referred to herein?
+Answer: It failed to maintain invoices and vouchers necessary to verify its reported expenses.
+f. With respect to subparagraphs h) to m), inclusive, what are all of the ways the Respondent says the books and records maintained by the Appellant inadequate? [sic]
+Answer: The Appellant failed to provide any invoices or vouchers necessary to verify its reported expenses, or necessary to correctly report its expenses.
+CITATION:
+2019 TCC 145
+COURT FILE NO.:
+2015-4620(IT)G
+STYLE OF CAUSE:
+PROMISED LAND MINISTRIES and HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Edmonton, Alberta
+DATE OF HEARING:
+November 14 and 15, 2018
+REASONS FOR JUDGMENT BY:
+The Honourable Justice K. Lyons
+DATE OF JUDGMENT:
+June 28, 2019
+APPEARANCES:
+Counsel for the Appellant:
+Robert Neilson
+Counsel for the Respondent:
+Wendy Bridges
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Robert Neilson
+Firm:
+Felesky Flynn LLP
+Edmonton, Alberta
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Notice of suspension of receipting privileges dated January 14, 2015.
+[2] He has a degree in construction and industrial automation.
+[3] Exhibit A1, Tab 2 includes 2012 and 2013 activities. Other examples are in Exhibit A1, Tab 30.
+[4] Exhibit A3, Tab 19. Agreement signed by Jozef Jasinski on February 26, 2009 and by Erin Carroll, CRA Verification and Enforcement Division, on March 4, 2009.
+[5] Agreement, paragraph 2.
+[6] Exhibit A5, Tab 19 - Agreement letter dated March 26, 2009.
+[7] Exhibit A1, Tab 1.
+[8] Exhibit A1, Tab 1, page 3. Other areas comprise line entries omitted on T3010s, some schedules were not completed and copies of T4s were requested.
+[9] Tax Court of Canada Rules (General Procedure), Rules 100(1.1), (3.1) and (3).
+[10] Exhibit A1, Tab 2. Adjustment requests and page 4 of 9 of the 2011 Return signed by Pastor Jasinski and dated August 3, 2012. It went unexplained, why the content of that box F2 on page 4 and page 4 of the 2011 Return, date stamped as received by the CRA on November 26, 2012 and also signed by Pastor Jasinski dated August 3, 2012, differs; Mr. Craig’s name is not on the latter document.
+[11] Exhibit A5, Tabs 1 and 2.
+[12] These consist of bank statements, cheque stubs, vouchers and all the necessary accounting records/information.
+[13] Amended 2011 Return and Amended 2012 Return dated April 26, 2014 and June 2, 2014, respectively. Exhibit A1, Tabs 12 and Exhibit A2, Tab 36, respectively.
+[14] Exhibit A1, Tabs 14, 15 and 16 to 27, comprising the banks statements, Tabs 28, 29 and 30, respectively. Other documents are at Exhibit A1, Tabs 31(g) and 32(h).
+[15] Exhibit A1, Tab 11; Exhibit A2, Tab 34.
+[16] A synopsis of expenditures for the 2011 missions to Sierra Leone and Poland (same information presented in two different formats), the February and March 2011 bank statements, copies of the face of the cheques with respect to the bank statements, receipts for money transfers from Pastor Jasinski to Pastor Tamba Howard Job Sessie, a PLM summary where Pastor Jasinski went on missions in 2011 and Airline Ticket Centre invoices to Sierra Leone for Pastor Jasinski and Timothy Gardiner. Exhibit A1, Tab 12. The General Ledgers comprise a record that summarize expenses, bank statements and cancelled cheques and were utilized to summarize the transactions from the program for the relevant years. Other documents at Exhibit A2, Tab 33.
+[17] Exhibit A1, Tab 13, Exhibit A2, Tab 35 and Exhibit A3, Tabs 53 to 58.
+[18] Exhibit A2, Tabs 40 to 52.
+[19] Exhibit A4, Tabs 59, 60 and 61.
+[20] Exhibit A1, Tab 3. Four other areas included official donation receipts, errors/omissions on the T3010 Return and late filing of same and T4s not issued for remuneration and benefits.
+[21] Exhibit A1, Tab 4 is the unsigned version and Exhibit R2 is the signed version of the June 9, 2014 letter.
+[22] Exhibit A1, Tab 6. Pastor Jasinski acknowledged receipt of the Notice of Suspension. Pursuant to subsection 188.2(4), PLM applied to and was granted an Order by this Court dated September 14, 2015, postponing the Suspension until PLM's appeal is finally disposed of.
+[23] Exhibit R1 - PLM’s letter dated January 28, 2015.
+[24] Exhibit A1, Tab 7.
+[25] Exhibit A1, Tab 8. CRA Charities Redress Section.
+[26] Exhibit A1, Tab 9. CRA Tax and Charities Appeal Directorate.
+[27] Documents consisted of ledgers, bank statements and deposit books.
+[28] Exhibit A1, Tab 10.
+[29] Exhibit A1, Tab 30. PLM paid for everything on missions including printing manuals, diplomas, transport et cetera.
+[30] Exhibit A1, Tab 30. He arranged accommodations, printing diplomas and anything else that Pastor Jasinski required locally.
+[31] Exhibit A3, Tab 56.
+[32] Exhibit A3, Tabs 57; Exhibit A4, Tab 59.
+[33] Exhibit A3, Tab 58, Exhibit A1, Tab 31 and Exhibit A4, Tab 59.
+[34] Exhibit A1, Tabs 1-32.
+[35] Subsection 168(1) provides grounds upon which the Minister may revoke registration of a qualified donee (which includes various definitions in subsection 149.1(1)) which includes a charitable organization.
+[36] Prescient, supra, at para 47.
+[37] At paragraph 48(b), the Court noted that this also aids the Court in its understanding as to why the Minister imposed a sanction in order to then facilitate the Court’s determination as to whether the sanction imposed was reasonable in the circumstances.
+[38] There are no decisions involving a section 188.2 suspension.
+[39] Prescient, supra, at paras 49 and 50.
+[40] Exhibit A1, Tab 3, page 3, paragraph 2.
+[41] Exhibit A1, Tab 1.
+[42] PLM’s letters dated June 9, 2014 and March 24, 2015.
+[43] Unlike an office audit, a field audit is conducted at the charity’s place of business to examine books and records by one or more auditors. The CRA’s T4118 Guide to Auditing Charities (“Guide”) identifies several factors and outlines steps regarding the field audit. The auditor contacts the charity to notify it of the audit, arrange a meeting and notify the charity what items will be reviewed during the audit to allow the charity to gather the necessary materials. CRA’s Registered Charities Publication 2015-07-14B.
+[44] Such documentation can include governing documents, description of programs and activities, annual information returns, financial statements and other sources, where appropriate.
+[45] The charity had been audited previously. The Minister was not satisfied with documents produced by the charity to support outside expenses.
+[46] A further amendment occurred, effective June 29, 2012, to add paragraphs 188.2(2)(e), (f) and (g).

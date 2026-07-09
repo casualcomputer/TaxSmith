@@ -1,0 +1,160 @@
+Title: Houle c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26231/index.do
+Corpus path: corpus/cases/tcc/2004/2004-cci-652-26231-houle-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2004-10-29
+
+# Houle c. La Reine
+
+- Citation: 2004 CCI 652
+- Decision date: 2004-10-29
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4028, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Houle c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-10-29
+Référence neutre
+2004 CCI 652
+Numéro de dossier
+2004-1681(IT)APP
+Juges et Officiers taxateurs
+Paul Bédard
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2004-1681(IT)APP
+ENTRE :
+ROBERT HOULE,
+requérant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Demande entendue le 23 août 2004, à Montréal (Québec).
+Devant : L'honorable juge Paul Bédard
+Comparutions :
+Avocate du requérant :
+Me Yolaine Lindsay
+Représentant de l'intimée :
+Soleil Tremblay (stagiaire)
+Me Agathe Cavanagh (observatrice)
+ORDONNANCE
+Vu la demande faite afin d’obtenir une ordonnance prolongeant le délai dans lequel un avis d'opposition à l'égard des cotisations établies en vertu de la Loi de l'impôt sur le revenu pour les années d'imposition 1999 et 2000 peut être signifié;
+Et vu les allégations des parties;
+La demande pour les années 1999 et 2000 est rejetée selon les motifs de l’ordonnance ci-joints.
+Signé à Ottawa, Canada, ce 29e jour d'octobre 2004.
+« Paul Bédard »
+Juge Bédard
+Référence : 2004CCI652
+Date : 20041029
+Dossier : 2004-1681(IT)APP
+ENTRE :
+ROBERT HOULE,
+requérant,
+Et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DE L'ORDONNANCE
+Le juge Bédard
+[1] Il s'agit d'une demande faite en vertu du paragraphe 166.2 de la Loi de l'impôt sur le revenu (la « Loi ») en vue d'obtenir une ordonnance portant prorogation du délai à l'intérieur duquel le requérant peut signifier un avis d'opposition à l'égard des cotisations datées du 27 mars 2003 pour les années d'imposition 1999 et 2000. La Cour doit déterminer si la demande du requérant visant la prorogation du délai pour signifier son opposition aux cotisations est bien fondée.
+Les faits
+[2] Le 16 octobre 2002, le requérant a reçu une lettre de madame Lucie Gervais (pièce I-1) de l'Agence des douanes et du revenu du Canada (« l'agence ») indiquant que le requérant faisait l'objet d'une vérification plus détaillée à l'égard de ses déclarations de revenus pour les années d'imposition 1999 et 2000.
+[3] Après vérification des pièces justificatives soumises par le requérant, madame Gervais a fait parvenir à ce dernier un projet de cotisations daté du 7 janvier 2003 (pièce I-1). Ce projet de cotisations donnait au requérant jusqu'au 7 février 2003 pour faire des observations.
+[4] Le 12 février 2003, madame Gervais a fait parvenir au requérant une lettre (pièce I-1) qui indiquait les changements que l'agence apportait aux déclarations fiscales du requérant pour les années d'imposition en cause. Cette lettre indiquait aussi que le requérant recevrait sous peu des avis de nouvelle cotisation qui refléteraient ces changements.
+[5] Le 27 mars 2003, le ministre du Revenu national (le « ministre »), a établi les avis de nouvelle cotisation pour les années d'imposition en cause.
+[6] Le requérant n'a pas signifié son opposition aux cotisations du 27 mars 2003 dans le délai prescrit par le paragraphe 165(1) de la Loi, lequel délai expirait le 25 juin 2003.
+[7] Le 11 novembre 2003, madame Chantal Amiot, fiscaliste et représentante du requérant a adressé au ministre une demande de prorogation du délai pour signifier une opposition aux cotisations du 27 mars 2003 (pièce R‑2) y joignant les avis d'opposition. Madame Amiot exposait dans sa demande les faits et motifs suivants :
+· M. Houle est client chez nous depuis l'année 2002;
+· Il a reçu une lettre de l'ADRC en janvier 2003 concernant ses déclarations 1999 et 2000;
+· N'étant pas en accord avec les corrections de l'ADRC, il discute avec son conseiller financier de l'époque et ce dernier lui suggère de s'opposer à cette décision;
+· Il pense avoir remis ses avis de cotisation audit conseiller ou à un de ses représentants avec le mandat de préparer une opposition;
+· Lors de la production de ses impôts 2002, il se rend compte que le ministère lui demandait de régler ses impôts 1999 et 2000;
+· À plusieurs reprises, M. Houle a demandé à son conseiller de l'époque ce qui se passait. Le conseiller expliquait à M. Houle la perception et les oppositions étaient des départements distincts et qu'il était normal de rencontrer cette situation;
+· En octobre dernier, le client a reçu la demande formelle de paiement adressée à son employeur et a compris que quelqu'un n'avait pas fait son travail;
+· J'ai alors discuté avec M. Houle et contacté le ministère pour m'apercevoir que l'opposition n'avait jamais été déposée;
+· Le client n'avait pas les avis de nouvelles cotisations entre ses mains puisqu'il croit les avoir remis à son conseiller financier;
+· Nous avons demandé de recevoir cesdits avis;
+· [Nous] vous demandons de ne pas léser le contribuable et de lui permettre de défendre son dossier fiscal comme il se doit;
+· Nous sommes conscients que le contribuable n'est pas tenu d'ignorer la loi, mais l'erreur majeure qu'il a commise fût [sic] de s'adresser à un conseiller en placements plutôt qu'à un professionnel de la fiscalité.
+[8] Par lettre datée du 19 janvier 2004 (pièce R-4), le ministre notifiait au requérant son refus de lui accorder une prorogation du délai pour signifier son opposition aux cotisations du 27 mars 2003.
+[9] Le 16 avril 2004, l'avocate du requérant déposait auprès de la Cour une demande de prorogation du délai pour signifier une opposition aux cotisations du 27 mars 2003.
+[10] Dans sa demande de prorogation de délai du 16 avril 2004, l'avocate du requérant alléguait essentiellement :
+(i) que le requérant avait confié à son conseiller financier le mandat de faire opposition aux cotisations;
+(ii) que le requérant n'avait constaté le défaut de son mandataire de ce faire que le 28 octobre 2003;
+(iii) que le requérant avait donc été dans l'impossibilité d'agir personnellement puisqu'il croyait que son mandataire avait exécuté son mandat, et que le requérant ne devrait pas subir de préjudice de ce fait.
+Remarques préliminaires
+[11] Il convient de souligner que, dès l'ouverture de l'audience, l'avocate du requérant a modifié sa demande de prorogation de délai de manière qu'il y soit désormais allégué que l'enveloppe dans laquelle avaient été acheminés les avis de cotisation du 27 mars 2003 portait comme date d'oblitération par Postes Canada le 29 septembre 2003, que le requérant avait donc reçu ces avis vers la fin du mois de septembre 2003, que monsieur Rock Robert Bilodeau, le conseiller financier du requérant avait pris connaissance de ces avis au début du mois d'octobre 2003 et qu'en conséquence le requérant avait été dans l'impossibilité d'agir ou de charger quelqu'un d'agir en son nom avant la fin du mois de septembre 2003. L'avocate du requérant a expliqué à la Cour que monsieur Bilodeau venait tout juste de lui remettre l'enveloppe (pièce R-1) dans laquelle avaient été acheminés les avis de cotisation et de porter à son attention l'oblitération de Postes Canada sur cette enveloppe, oblitération qui indiquait, selon l'avocate, que l'enveloppe avait été postée le 29 septembre 2003.
+Analyse
+[12] Dans son témoignage monsieur Bilodeau a expliqué :
+(i) qu'en décembre 2002, le requérant avait retenu ses services à titre de conseiller financier;
+(ii) qu'en janvier 2003, le requérant l'avait consulté relativement au projet de cotisations du 7 janvier 2003 (pièce I-1), et qu'il avait alors conseillé à ce dernier de s'opposer aux cotisations lorsqu'elles seraient établies. Il avait en même temps expliqué au requérant qu'un contribuable ne pouvait pas s'opposer à un projet de cotisation et qu'ainsi le requérant ne pouvait rien faire tant que les cotisations ne seraient pas établies;
+(iii) que, par la suite, le requérant l'avait appelé régulièrement pour discuter de ce problème et que sa réponse avait toujours été la même : il faut attendre les avis de cotisation;
+(iv) que, vers la fin du mois de septembre ou le début du mois d'octobre 2003, le requérant l'avait appelé pour lui dire qu'il avait reçu une lettre de l'agence;
+(v) qu'un de ses employés avait été prendre l'enveloppe et les avis de cotisation datés du 27 mars 2003 chez le requérant;
+(vi) qu'entre le 8 et le 15 octobre 2003, il avait constaté que l'enveloppe contenait les avis de cotisation datés du 27 mars 2003;
+(vii) qu'il avait alors mandaté un employé de monsieur Gaétan Fradette, un comptable avec qui il travaillait en étroite collaboration, pour préparer les avis d'opposition au nom du requérant;
+(viii) que le salaire du requérant avait été saisi par l'agence vers la fin du mois d'octobre ou vers le début du mois de novembre 2003, et que monsieur Bilodeau avait alors mandaté madame Chantal Amiot, fiscaliste employée par monsieur Fradette, pour s'occuper du problème de la saisie du salaire du requérant;
+(ix) que, pendant qu'il était lui-même en Europe, madame Amiot avait rencontré le requérant et avait communiqué avec l'agence afin d'obtenir des explications relatives à la saisie du salaire du requérant; selon monsieur Bilodeau, madame Amiot aurait alors appris de l'agence que les avis d'opposition aux cotisations du 27 mars 2003 n'avaient pas été signifiés;
+(x) qu'il était lui-même en Europe et que madame Amiot n’avait pas en sa possession l’enveloppe dans laquelle avaient été acheminés les avis de cotisation du 27 mars 2003 lorsqu'elle a préparé et fait parvenir au ministre la demande de prorogation de délai et qu'ainsi il n'avait pu rectifier les faits allégués par madame Amiot dans la demande de prorogation de délai;
+(xi) qu'en décembre 2003, il avait fait parvenir par télécopieur (pièce R-5) à madame Diane Charette de l'agence une copie de la fameuse enveloppe pour tenter de lui démontrer qu'elle avait été postée le 29 septembre 2003, que le requérant était ainsi dans les délais pour faire opposition et qu'on devrait en conséquence lever la saisie du salaire du requérant; il a témoigné que ses démarches auprès de madame Charette s'étaient avérées infructueuses.
+[13] Essentiellement, le requérant a témoigné qu’il avait reçu les avis de cotisation à la fin du mois de septembre 2003, qu’il n’avait rien compris quant à la nature de ces documents et qu’il les avait transmis à monsieur Bilodeau pour qu’il fasse le nécessaire.
+[14] Dans son plaidoyer, l'avocate du requérant a soutenu :
+(i) que l'enveloppe dans laquelle avaient été acheminés les avis de cotisation du 27 mars 2003 portait comme date d'oblitération par Postes Canada le 29 septembre 2003;
+(ii) que je devrais retenir le témoignage non contredit du requérant et de monsieur Bilodeau selon lequel ils n'avaient pas eu vent de ces avis de cotisation avant la fin du mois de septembre 2003 et qu'ainsi le requérant avait été dans l'impossibilité d'agir avant la fin du mois de septembre 2003;
+(iii) que, compte tenu des circonstances de l'espèce, il serait juste et équitable de faire droit à la demande.
+[15] Premièrement, après un examen minutieux de la pièce R-1, je conclus que l'enveloppe qui contenait les avis de cotisation du 27 mars 2003 a été postée le 29 avril 2003 soit le même jour que celui où l'agence a timbré (en rouge) cette enveloppe. En effet, le chiffre romain qui apparaît sur l'oblitération de Postes Canada (de couleur noire) et qui indique le mois où l'agence avait posté l'enveloppe est, à mon avis, un IV, et non un IX comme l'a soutenu l'avocate du requérant.
+[16] Étant donné que le requérant a témoigné qu'il avait reçu les avis de cotisation vers la fin du mois de septembre 2003 et qu'il les avait remis en octobre 2003 à monsieur Bilodeau et étant donné que ce dernier a témoigné qu'il avait pris connaissance de ces documents en octobre 2003 et qu'il avait alors mandaté madame Amiot pour produire des avis d'opposition à ces cotisations et pour régler le problème de la saisie de salaire, comment expliquer que madame Amiot n'ait pas allégué ces faits, pourtant cruciaux en l’espèce, dans sa demande de prorogation de délai (pièce R-2) datée du 11 novembre 2003 et comment expliquer que l'avocate du requérant n'ait pas allégué ces mêmes faits dans sa demande de prorogation de délai datée du 16 avril 2004? Il faut rappeler que madame Amiot et l'avocate du requérant ont plutôt allégué, chacune dans sa demande de prorogation de délai, tout simplement l'erreur de monsieur Bilodeau. Comment expliquer que l'avocate du requérant n'ait été avisée des faits susmentionnés que le matin même de l'audition?
+[17] Pourquoi le requérant n’a-t-il pas avisé madame Amiot qu’il avait reçu à la fin du mois de septembre 2003 les avis de cotisation? Il convient de rappeler que monsieur Bilodeau a témoigné que madame Amiot avait préparé la demande de prorogation de délai à partir des informations transmises par le requérant. Celui‑ci a certes témoigné qu’il n’avait rien compris aux documents qu’il avait reçus à la fin de septembre 2003 et qu’il les avait remis à monsieur Bilodeau pour qu’il fasse le nécessaire, mais je doute fortement que, lorsque le requérant a rencontré madame Amiot ou discuté avec elle, il fût encore ignorant et inconscient à ce point quant à la nature de ces documents qu’il avait reçus à la fin de septembre 2003. Cela supposerait qu’il ne s’était pas informé auprès de monsieur Bilodeau sur la nature des documents ainsi reçus et sur les conséquences qui en résultaient. Cela m’apparaît invraisemblable et improbable. Le fait qu’il n’a pas informé son avocate qu'il n'avait reçu les avis de cotisation qu'à la fin du mois de septembre 2003 demeure inexpliqué et inexplicable.
+[18] Comment expliquer que monsieur Bilodeau, qui était pourtant le mandataire principal du requérant et celui-là même qui avait choisi les intervenants dans le dossier fiscal du requérant, n'ait pas avisé madame Amiot et l'avocate du requérant du fait que les avis de cotisation ont été reçus à la fin de septembre 2003? Comment expliquer qu'il n'ait avisé l'avocate du requérant que le matin même de l'audience? Son témoignage à cet égard m'apparaît déterminant et mérite d'être cité :
+R. Comme je disais, j'ai reçu l'avis de cotisation entre le huit (8) et le quinze (15) octobre, quelque part vers la fin octobre, début novembre, monsieur Houle a eu une saisie de salaire, puis on avait retenu aussi les impôts de la production 2003 en acompte. Mais comme on ne pouvait pas s'opposer, on n'avait pas l'avis de cotisation à la main, sur quoi je m'oppose? Sauf qu'elle s'est promenée. Donc, madame Amyot [sic], elle, elle dit, il y a quelqu'un qui n'a pas fait son travail, mais madame Amyot [sic], même son travail avec le bureau de monsieur Fradette, elle, elle est fiscaliste, elle est partie de ce que monsieur Houle lui a dit, mais elle n'avait pas le dossier physique que j'ai ici en main. Parce que quand monsieur Fradette a fini de mes dossiers, il me les rapporte chez moi. Donc, la fameuse copie de l'enveloppe, elle ne l'a pas vue, elle, elle a écrit une note à partir de ce que monsieur, quand j'ai dit à Robert, j'ai dit, bien, là, tu as un avis de saisie, j'ai dit, je vais t'envoyer voir Chantal, j'ai dit, moi là, rendu à la saisie alors qu'on ne s'est pas opposé, il faut faire quelque chose. Alors, elle a écrit une lettre, moi, j'étais parti en Europe, je suis revenu, j'ai vu la lettre, c'était déjà parti, je ne pouvais pas dire, bien, écoute, ce n'est pas ça qui s'est passé, voici les faits. J'avais même envoyé au mois de décembre à une dame qui s'appelle Diane Charette au Ministère, la copie des enveloppes qu'on vous a déposées.
+Q. Montrez donc ce que vous avez envoyé, monsieur Bilodeau?
+R. J'ai l'accusé de réception du fax, qu'est-ce qu'il n'y a pas en‑dessous de ça, c'est la copie, la photocopie.
+Q. C'est la photocopie. Là, je n'en ai pas de copie, ça vient direct du dossier là, mais.
+R. L'accusé de réception du fax avec la date, attaché à ça la fameuse enveloppe que vous avez en main.
+Q. Bon, si vous me permettez, Monsieur le Juge, preuve de transmission par télécopieur le dix-huit (18) décembre 2003, sous R-5. Et là, vous transmettez à madame Charette copie de l'enveloppe avec le cachet de la poste?
+R. L'enveloppe, oui, avec les deux sceaux pour dire, regardez, pourquoi on perd notre temps à s'obstiner, arrêtez la saisie chez mon client. On s'est opposé, puis on a eu l'enveloppe telle date, donc on est dans les délais. Mais rien à faire.
+[19] Selon le témoignage de monsieur Bilodeau, il savait à cette époque-là que les avis de cotisation avaient été postés le 29 septembre 2003. Sa démarche du 18 décembre 2003 auprès de madame Charette de l'agence en serait la preuve indéniable. Certes, il a témoigné qu'il n'avait pas mis madame Amiot au courant avant qu'elle n'expédie sa demande de prorogation de délai datée du 11 novembre 2003 parce qu’il était à cette époque en Europe et ne lui avait pas remis la fameuse enveloppe. À ce sujet, je tiens à souligner qu'il aurait été fort intéressant d'entendre madame Amiot donner sa propre version des faits. À supposer que ce qu'a dit monsieur Bilodeau pour expliquer le fait de ne pas avoir avisé madame Amiot soit crédible, ce dont je doute, il n'en demeure pas moins que le fait que monsieur Bilodeau n'a avisé l'avocate du requérant que le matin même de l'audience demeure inexpliqué et inexplicable. Était-il encore en Europe? Qui donc a rencontré l’avocate du requérant lorsqu’elle a préparé la demande de prorogation de délai?
+[20] Compte tenu de la preuve soumise, je conclus que les avis de cotisation du 27 mars 2003 ont été postés le 29 avril 2003, que le témoignage du requérant et de monsieur Bilodeau qui ont tenté de démontrer que les avis de cotisation avaient été postés le 29 septembre 2003 et reçus par le requérant vers la fin de ce mois, est tout simplement invraisemblable et peu crédible et que le requérant n'a donc pas démontré que, dans le délai imparti pour signifier au ministre son opposition aux cotisations, il n'avait pu ni agir ni charger quelqu'un d'agir en son nom, conformément aux exigences du sous-alinéa 166.2(5)b)(i) de la Loi.
+[21] La demande pour les années 1999 et 2000 est donc rejetée.
+Signé à Ottawa, Canada, ce 29e jour d'octobre 2004.
+« Paul Bédard »
+Juge Bédard
+RÉFÉRENCE :
+2004CCI652
+No DU DOSSIER DE LA COUR :
+2004-1681(IT)APP
+INTITULÉ DE LA CAUSE :
+Robert Houle et Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+Montréal (Québec)
+DATE DE L'AUDIENCE :
+Le 23 août 2004
+MOTIFS DE L'ORDONNANCE PAR :
+L'honorable juge Paul Bédard
+DATE DE L'ORDONNANCE :
+Le 29 octobre 2004
+COMPARUTIONS :
+Pour le requérant :
+Me Yolaine Lindsay
+Pour l'intimée :
+Soleil Tremblay (stagiaire)
+Me Agathe Cavanagh (observatrice)
+AVOCAT(E) INSCRIT(E) AU DOSSIER:
+Pour le requérant :
+Nom :
+Me Yolaine Lindsay
+Étude :
+Lindsay Lévesque
+Saint-Hyacinthe (Québec)
+Pour l'intimée :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

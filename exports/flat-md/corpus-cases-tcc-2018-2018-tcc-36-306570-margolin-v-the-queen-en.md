@@ -1,0 +1,261 @@
+---
+title: "Margolin v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/306570/index.do"
+last_modified: "2018-02-21"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2018 TCC 36"
+citation2: ""
+neutral_citation: "2018 TCC 36"
+decision_date: "2018-02-21"
+language: "en"
+item_id: "306570"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7216
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T11:53:16.133000+00:00"
+cases_cited_count: 7
+cases_citing_count: 5
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "2529a10b935ededbc8efa7921db1021aca645938632c898428c608ffd7d82c36"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Margolin v. The Queen
+
+- Citation: 2018 TCC 36
+- Decision date: 2018-02-21
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7216, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Margolin v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2018-02-21
+Neutral citation
+2018 TCC 36
+File numbers
+2016-2714(GST)I
+Judges and Taxing Officers
+Randall S. Bocock
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2016-2714(GST)I
+BETWEEN:
+GIDEON MARGOLIN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on December 12, 2017, at Toronto, Ontario
+Before: The Honourable Mr. Justice Randall S. Bocock
+Appearances:
+Counsel for the Appellant:
+Ari A. Lokshin
+Counsel for the Respondent:
+Alexander Hinds
+JUDGMENT
+IN ACCORDANCE with the Reasons for Judgment attached, the appeal is hereby dismissed, without costs, on the basis that the Appellant was not entitled to the provincial portion of the Goods and Services Tax/Harmonized Sales Tax (HST) New Housing Rebate in respect of the purchase of 116 Riding Mountain Drive, Richmond Hill, Ontario.
+Signed at Ottawa, Canada, this 21st day of February 2018.
+“R.S. Bocock”
+Bocock J.
+Citation: 2018 TCC 36
+Date: 20180221
+Docket: 2016-2714(GST)I
+BETWEEN:
+GIDEON MARGOLIN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Bocock J.
+I. General Basis for Denial of HST Rebate
+a) Grounds for denial
+[1] The Appellant, Mr. Margolin, was denied the provincial portion of the Goods and Services Tax/Harmonized Sales Tax (HST) New Housing Rebate (the “Rebate”) concerning his purchase of a property located at 116 Riding Mountain Drive, Richmond Hill, Ontario (the “Rebate property”). In denying the HST Rebate, the Minister of National Revenue (the “Minister”) asserted that:
+(i) Mr. Margolin and his spouse, when they became bound to acquire the Rebate property, did not intend to occupy it as their primary residence (the “intention”); and/or
+(ii) Neither of them actually used the Rebate property as their primary place of residence (the “occupancy”).
+b) The relevant sections of the Act
+[2] Given the grounds for denying the Rebate, the following pieces of legislation are relevant to this appeal.
+[3] Firstly, the Excise Tax Act, RSC 1985, c. E-15, as amended (the “ETA”) provides that a Rebate shall be paid in the following circumstances:
+New housing rebate
+(2) Where
+(b) at the time the particular individual becomes liable … under an agreement of purchase and sale of the … unit …, the particular individual is acquiring the … unit for use as the primary place of residence of the particular individual or a relation of the particular individual,
+(g) either
+(i) the first individual to occupy the complex or unit as a place of residence at any time after substantial completion … is
+(A) in the case of a single unit residential complex, the particular individual or a relation of the particular individual, and
+…
+the Minister shall … pay a rebate to the particular individual …
+[4] Secondly, because the Rebate property was purchased at a price greater than $450,000.00, the following provision concerning a rebate payable in Ontario under the New Harmonized Value-added Tax System Regulations, No. 2 is relevant:
+DIVISION 2
+New Housing Rebates for Building and Land
+Definitions
+Rebate in Ontario
+(2) If an individual is entitled to claim a rebate under subsection 254(2) of the Act in respect of a residential complex that is a single unit residential complex, or a residential condominium unit, acquired for use in Ontario as the primary place of residence of the individual or of a relation of the individual, or the individual would be so entitled if the total consideration (within the meaning of paragraph 254(2)(c) of the Act) in respect of the complex were less than $450,000, for the purposes of subsection 256.21(1) of the Act, the individual is a prescribed person and the amount of a rebate in respect of the complex under that subsection is equal to the lesser of $24,000 …
+c) Legally interpreting intention and occupancy concerning a rebate property
+[5] The Tax Court has interpreted the statutory framework of intention and occupancy on multiple occasions.
+(i) Initial intention to occupy as primary place of residence
+[6] Subsection 254(2) requires intention to be determinatively measured at the time the purchaser becomes legally bound under the agreement of purchase and sale (the “APS”) concerning the property: Wong v HMQ, 2013 TCC 23 at paragraph 10. The determination at that critical moment will be informed by the stated intention of the claimant. However, this subjective intention is occasionally unreliable and must be filtered through the prism of “actual use” of the rebate property: Coburn Realty Ltd. v Canada, 2006 TCC 245 at paragraph 10, itself referencing 510628 Ontario Ltd. v HMQ, [2000] TCJ No 451, 2000 GSTC 58 at paragraph 11. Accordingly, such a factual analysis of the surrounding factual circumstances is necessary: Nahid Safar-Zadeh v HMQ, 2017 TCC 35 at paragraph 4.
+(ii) Occupancy by the claimant of the property as a primary place of residence
+[7] While subjective intention to occupy a property necessarily directs the finder of fact to the objective factual evidence surrounding the intention at the time the APS becomes binding, it is also relevant at the subsequent time when the claimant must be the first to occupy the property as a residence with elements of use rendering it the primary place of residence: Mahendran Kandiah v HMQ, 2014 TCC 276 at paragraph 20. As an example, renting or selling the home before occupancy, notwithstanding the initial intention, will invalidate a claim: Napoli v HMQ, 2013 TCC 307 at paragraph 11. There must be some evidence of positive action culminating in first occupancy of the property as a primary place of residence: Kandiah at paragraphs 21 and 22. Plans may change to shorten or truncate the long term plans after brief occupancy, but the change in plans cannot have taken place or have been contemplated at the time the APS became binding: Montemarano v HMQ, 2015 TCC 151 at paragraph 16.
+II. The Evidence Before the Court
+[8] The hearing of the evidence took just under one and a half days. There was partially necessitated by the requested introduction of an affidavit by respondent’s counsel during the cross-examination of Mr. Margolin. In total there were four witnesses: Mr. Margolin, his cleaning lady, his mover, all called by the Appellant, and the subsequent buyer of the Rebate property, called by the Respondent.
+a) Circumstance surrounding the acquisition and construction of the Rebate Property
+[9] Mr. Margolin became a widower in 2009. He subsequently began a serious relationship with a woman, Natalia, in late fall of 2011. Natalia did not wish to live in the house where his first wife had died (“Highcliffe”). Therefore in December 2011, when Natalia and Mr. Margolin commenced cohabiting, they did so in Natalia’s one bedroom, subsidized apartment (the “rental apartment”). In February 2012, Mr. Margolin and Natalia entered into an APS for the construction of the Rebate property.
+[10] The marriage was shaky. There was evidence of separation and reconciliation over the course of 2012 and 2013 culminating in permanent separation in 2014. Divorce proceedings commenced in September 2015 and are still pending.
+[11] Back in February 2012, during the same period when Mr. Margolin was executing the APS for the Rebate property, he purchased another already completed residence on February 15, 2012. This was quite a grand house on an 11 acre estate lot as disclosed by the MLS listing summarized in a reproduced “spec” sheet prepared by Mr. Margolin some 4 years later. Mr. Margolin bought this property for $2,000,000.00. At the time Mr. Margolin purchased this property on Jane Street in King City (“Jane Street”), he was the cooperating real estate broker of record purchasing the property on his own account. Jane Street had been listed on such terms for one year period from June 13, 2011 to June 30, 2012. All of this quite useful information was disclosed in Mr. Margolin’s evidence of the listing summary conveniently generated and reproduced by him. Although he owns Jane Street to this day, he testified this property was an interim purchase pending the completion of construction of the Rebate property.
+[12] Prior to all of this, in March 2010, Mr. Margolin had purchased another property, a new home constructed in Vaughn, Ontario (“Lynvest”). He asserts he lived in this property in the late part of 2011. He claimed a new house rebate for this property. Lynvest was sold on December 7, 2011. The closing date was February 1, 2012, conveniently reflected in a very brief, one page reporting letter of Mr. Margolin’s solicitor. It purported to attach a statement of adjustments, account and trust ledger. These documents were not produced in evidence. However, a listing agreement dated the date of sale was produced by Mr. Margolin. It listed Mr. Margolin and his brokerage as listing and selling brokers, respectively.
+[13] At the hearing, as partially described above, the evidence concerning the Lynvest property was attemptedly introduced the first day of the hearing within an affidavit produced by the Respondent. The attempt to introduce the affidavit was made after Mr. Margolin had testified that he lived in Natalia’s rental apartment and Highcliffe during the fall of 2011 and winter of 2012 without mention of Lynvest. The evidence regarding the Lynvest property evidence was subsequently adduced during the second day because the Court’s adjournment affording a review of such evidence.
+[14] Also initially introduced by the Respondent within the affidavit was evidence of another property. In June 2015, Mr. Margolin bought a house in Aurora, Ontario (“Chouinard”). Mr. Margolin closed the transaction and occupied Chouinard on March 7, 2017. A new home HST rebate has been claimed. Presumably in response to the affidavit, on the second day of hearing Mr. Margolin produced a hand written invoice for moving services to “move your stuff”, cheque paying the invoice, photographs of rooms Mr. Margolin testified were in the Chouinard residence, and a photograph of a rental truck parked in the driveway of Chouinard.
+b) Occupancy of the Rebate property
+[15] With respect to the Rebate property, Mr. Margolin testified that Natalia never moved in upon completion. Natalia did not testify. On March 18, 2014, Mr. Margolin hired movers to move belongings to the Rebate property. On March 15, Mr. Margolin purchased appliances for the Rebate property. He also changed his address on certain documents and registrations: driver’s licence (April 4, 2014); ownership for an 11 year old car (April 14, 2014); a bank account (April 11, 2014); a personal line of credit showing no balance owing (produced May 8, 2014); gas bill for the premises (dated March 24, 2014); water bill (dated April 10, 2014) and electricity bill (April 29, 2014). A moving services bill dated August 27, 2014 related to Mr. Margolin’s transfer of his belongings back to Jane Street and was also produced.
+[16] During his occupancy of the Rebate property, Mr. Margolin says he was under considerable stress. His marriage was crumbling. His father passed away on April 9, 2014. This required him to spend much time with his newly widowed mother tending to family obligations relating to the funeral and grieving. He testified that he “spent very little time at the home” because of these familial obligations brought upon by the circumstances. As a result, very little was done to the house to make it a home. He testified that he move to the Rebate property certain household tools, his professional engineering books and some 50 to 60 oil paintings. A mattress and table were also moved.
+[17] Mr. Margolin undertook very few activities at the Rebate property. Family commitments meant he spent nights at his mother’s apartment. When he slept at the Rebate property, he would occasionally eat breakfast there, but rarely any other meals. He did not clean it. Before he sold the property, a cleaning lady was retained.
+[18] Copies of utility bills for the Rebate property covering the occupancy period were introduced into evidence. Consumption for similarly measured periods during occupancy declined: 270kwh in February/March (one month), 206 kwh in March to May, 117 kwh from May to July and 18.94 kwh in July-August (one month). The property was heated by gas, had a gas water heater and a gas cooking range. With respect to gas, effectively no gas was consumed in the months of May, June, July or August of 2014. April and March were not heavy months of consumption. By far the heaviest period of consumption for gas was in February and March, before occupancy.
+[19] Mr. Margolin’s cleaning lady testified at the hearing. She cleaned the house to ready it for showing and sale in May or June 2014. She noted there were furniture and paintings in the basement, one table and a chair in the kitchen and a mattress and chair on the second floor. She assisted Mr. Margolin in moving furniture from the kitchen to the basement. Oddly, Mr. Margolin testified his “bad back” had necessitated the previous and subsequent hiring of movers. The cleaning lady cleaned the Rebate property only once. She also cleaned on occasion for Mr. Margolin’s mother.
+[20] The mover who assisted Mr. Margolin in moving to and from the Rebate property also testified. Although he was not present during the move in, he testified as to what was moved: exercise equipment (disassembled and reassembled), pictures, sofas, files and cabinets.
+[21] The buyer who purchased the Rebate property from Mr. Margolin testified as to the degree of occupancy of the house when viewed during Mr. Margolin’s occupancy in June 2014. Generally, this witnessed advised the Court that the Rebate property was an empty house. He described it as having no furniture, clothing, pictures or other items. The basement was also empty, housing only the furnace. There were cardboard runners rather than carpeting in the basement. On cross-examination, the subsequent owner was certain that the Rebate property was the one that he had viewed, observed as empty and ultimately bought.
+c) the sale of the Rebate property
+[22] Mr. Margolin sold the Rebate property on August 28, 2014. He told the Court that he sold the house because he could not afford to keep Jane Street and it. His savings and proceeds from Highcliffe allowed him to buy Jane Street ($2 million), but he had to finance the Rebate property ($950,000.00). The $617,000.00 mortgage for the Rebate property was taken for a one year term: open for the first 6 months and then closed for the last 6. The 12 month term ran from February 27, 2014 to March 1, 2015. Mr. Margolin suggested that the 6 month open period followed by the 6 month closed period negated any intention of quick resale.
+d) Mr. Margolin’s ownership and occupancy of other properties
+[23] As indicated, Mr. Margolin, as a real estate broker was in the business of selling real property for others. He also purchased properties for himself. His contention is that he purchased and occupied all such properties. He asserted this with respect to Lynvest, Chouinard as well as the Rebate property. He claimed a HST New Housing rebate for all three. The rebates and issues concerning other properties are not before this Court. Instead, only the issues concerning the Rebate property and Mr. Margolin’s cross-over credibility and reliability as to his testimony are relevant. What is useful in the determination of his occupancy of the Rebate property as a primary residence is the chronological context of his occupancy, ownership and use of other properties in relation to the Rebate property.
+[24] The following is a comparison continuity chart prepared by the Court from evidence concerning the various properties owned or occupied by Mr. Margolin during the period measured before the acquisition of the Rebate property until the initial hearing date before this Court.
+Property
+APS Date (Purchase)
+Occupancy Date(s)
+Listing Date
+APS Date(sale)
+Closing Date
+Length of Ownership
+Length of Occupancy
+Highcliffe
+No Info
+2002
+No info
+No info
+Approximatively November 2013 (doesn’t exactly remember)
+Approximatively 10 years
+Approximatively 10 years (2002-2012)
+Rental Apartment
+N/A
+February 1, 2012
+N/A
+N/A
+N/A
+N/A
+5.5 months
+Rebate Property
+Offer: February 11, 2012
+Offer Accepted: February 22, 2012
+Closing: February 27, 2014/September 2013
+March 18, 2014
+June 10, 2014
+July 1, 2014
+Most likely August 27 or 28, 2014
+Approximatively 5 months
+Approximatively 5 months (March 18, 2014-August 27, 2014)
+Jane Street
+Offer: February 15, 2012 Closed: June 12, 2012
+July 12, 2012
+1st listed August 16, 2016
+N/A – has not sold yet
+N/A- has not sold yet
+Still owns – 5 years
+1 year, 3 months and 3 years, 2 months
+Lynvest
+March 2, 2010
+Shortly after closing (October 18, 2011)
+December 7, 2011
+December 7, 2011
+February 1, 2012
+1 year and 9 months
+Approximatively 4 months (October 18, 2011-February 1, 2012)
+Chouinard
+June 6, 2015
+Possession: March 8, 2017
+October 20, 2017 – started moving
+Currently lives at property
+Currently lives at property
+Currently lives at property
+Still owns – 2 years and 8 months
+3.5 months so far
+III. Analysis and Application of Evidence to Primary issue
+[25] As described at the outset, the primary issue before the Court may be further sub-divided:
+(i) do the factual circumstances, on balance, objectively support an intention to acquire the property as the primary place of residence; and
+(ii) do the facts, on balance, support a degree of first occupancy consistent with a primary place of residence.
+[26] With respect to the evidence on intention and occupancy, the Court generally observes the following concerning the level of credibility and reliability of the evidence.
+[27] Mr. Margolin did not reveal his ownership of Lynvest until it was raised by the Respondent. He originally testified he moved directly from Highcliffe and/or the rental apartment to Yonge St. He states this was because of the short period of his occupancy of Lynvest. Yet, this period was equal to or greater than the time he asserts he occupied the Rebate property. As well, Mr. Margolin’s testimony was inconsistent with the other witnesses about his ability to move furniture, the furniture moved into the Rebate property and where it was placed in the residence. Mr. Margolin’s testimony is not to be discounted out of hand for these reasons, but to the extent there exists disinterested third party evidence, third party source documentation or common logical inferences, as a finding of credibility such sources shall be preferred to that of Mr. Margolin.
+a) Intention to occupy a primary residence
+[28] The subsisting intention of Natalia and/or Mr. Margolin to occupy the Rebate property as a primary residence at the time of the APS is muddled at best. It requires examination of the surrounding circumstances at the time and after the execution of the APS. Such circumstances do not provide the usual clear and singular undertaking to purchase a “to be constructed” dream home for newlyweds. Firstly, the Rebate property was acquired at the same time as Jane Street: Jane Street was a then constructed, much grander and “attractively priced” dwelling into which both Mr. Margolin and Natalia immediately moved and both remain, notwithstanding their divorce proceedings, to this day. Secondly, the purchase of the Lynvest property was closed only 45 days before the acquisition of the Rebate property and Lynvest was sold mere days before the Rebate property was acquired, all escaping Mr. Margolin’s initial recall.
+[29] Quite apart from this conflicting evidence regarding formative intention, before drawing determinative conclusions, the Court shall undertake an analysis of the second, conjunctive requirement, the actual occupancy of the Rebate property.
+b) Did Mr. Margolin first occupy the residence as a primary place of residence
+[30] The Court observes the following material conclusions regarding Mr. Margolin’s degree of occupancy of the Rebate property:
+(a) at best, he tangentially lived at the premises: the utility consumption, amount of furniture moved, the arrangement of furniture and the type of articles moved were all minimalist and superficial;
+(b) the direction of certain mail to the Rebate property is offset by the fact that almost all such notifications related specifically to that property where Mr. Margolin retrieved such mail during his visits to the Rebate property;
+(c) Mr. Margolin’s testimony regarding Chouinard clearly reflected a desire to follow his lawyer’s advice to avoid “trouble” with the HST rebates. He said so in testimony. The more compelling testimony would have been how he actually and factually occupied the property as a primary residence. The occupancy and evidence of that property occurred “real time” after the adjournment of the first day of hearing in this appeal. No such opportunity to buttress evidence existed for the Rebate property;
+(d) even when assigning the highest favourability to the evidence given by mover and the cleaning lady indicate to totality of such evidence indicates that within the Rebate property there were 3 partially occupied rooms out of 9 (including the basement): one bedroom, the kitchen and the basement;
+(e) the less than 6 month ownership after closing, coupled with a sale just before the short term one year mortgage became closed (and subject to early prepayment penalties) suggests a transitory hold of the Rebate property consistent with superficial occupancy. The sale during the open mortgage period suggests the opposite of Mr. Margolin’s contention: the open period facilitated early sale by reducing prepayment costs;
+(f) for both properties, the Rebate property and Chouinard, for which moving expenses were produced, there was no manifest of articles moved which is common in the moving industry. This heightens the ad-hoc and superficial nature of the move to the Rebate property.
+c) Summary and decision
+[31] Ultimately, Mr. Margolin must satisfy both the intention to occupy as a primary place of residence and consistent actual occupancy to receive the rebate. Should on balance he fail in either case, the appeal will be dismissed.
+[32] Therefore, the Court focuses on the second prong: the requirement by Mr. Margolin to first occupy the Rebate property as a primary place of residence. For the following listed examples described and revealed through these reasons, the Court finds that, on balance, he has failed to do so:
+(i) the speed of listing and sale of the Rebate property after its release for occupancy;
+(ii) the lack of substantial relocation and consistent habitation at the Rebate property;
+(iii) the short term and peculiar financing arrangements;
+(iv) the continued occupancy and habitation by both Mr. Margolin and Natalia at Jane Street throughout the ownership and purported occupancy of the Rebate property;
+(v) the measurable drop in consumption levels of utilities after the completion of construction and occupancy including the consumption of electricity during the hottest months of the year, a period when electrically powered air-conditioning rather than gas powered forced air heat would be used;
+(vi) Natalia did not ever occupy the Rebate property and, at best, Mr. Margolin by his own testimony did so on a sporadic, transient and ad hoc basis; and
+(vii) although listing agreements were produced for Lynvest and Jane Street, no such agreements (obviously readily available and procurable by Mr. Margolin) were produced for the Rebate property leaving the Court to speculate when it was actually listed for sale. At the latest, the Rebate property had to have been listed in May, 2014, less than one month after purported occupancy.
+[33] In conclusion, all of the foregoing leads the Court to conclude that at and after the date which Mr. Margolin became the registered owner of the Rebate property, he did not become the first to use it as a primary place of residence. Mr. Margolin moved into Jane Street in June or July of 2012: his testimony on the Jane Street occupancy date was not entirely clear. However, it is more likely than not, given all the evidence, that after the summer of 2012 Jane Street remained and remains today his primary place of residence. In respect of this appeal, the only critical period for the determination of use as a primary place of residence is April to August of 2014. During that period, it is more likely than not that Mr. Margolin lived at Jane Street with his wife where they both primarily resided.
+[34] Giving that finding, Mr. Margolin does not qualify for the provincial portion of the new home HST rebate for the Rebate property because the evidence does not reveal that he occupied it to the degree of use approaching a primary place of residence. For these reasons, the appeal is dismissed.
+Signed at Ottawa, Canada, this 21st day of February 2018.
+“R.S. Bocock”
+Bocock J.
+CITATION:
+2018 TCC 36
+COURT FILE NO.:
+2016-2714(GST)I
+STYLE OF CAUSE:
+GIDEON MARGOLIN AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+December 12, 2017
+REASONS FOR JUDGMENT BY:
+The Honourable Mr. Justice Randall S. Bocock
+DATE OF JUDGMENT:
+February 21, 2018
+APPEARANCES:
+Counsel for the Appellant:
+Ari A. Lokshin
+Counsel for the Respondent:
+Alexander Hinds
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Ari A. Lokshin
+Firm:
+Lokshin Law Office
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada

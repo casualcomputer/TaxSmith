@@ -1,0 +1,329 @@
+---
+title: "Milkowski v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28092/index.do"
+last_modified: "2007-07-25"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 CCI 680"
+citation2: ""
+neutral_citation: "2007 CCI 680"
+decision_date: "2007-07-25"
+language: "fr"
+item_id: "28092"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1677
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T09:26:54.701000+00:00"
+cases_cited_count: 0
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "dbacf188e44036c9c64211873468656c29236c6816143b6ddd6c5ef01adfacd6"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Milkowski v. The Queen
+
+- Citation: 2007 CCI 680
+- Decision date: 2007-07-25
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1677, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Milkowski v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-07-25
+Référence neutre
+2007 CCI 680
+Numéro de dossier
+2006-3100(IT)I
+Juges et Officiers taxateurs
+Campbell J. Miller
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2006-3100(IT)I
+ENTRE :
+JACEK MILKOWSKI,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 25 juillet 2007, à Toronto (Ontario).
+Devant : L’honorable juge Campbell J. Miller
+Comparutions:
+Représentant de l’appelant :
+M. Costa A. Abinajem
+Avocat de l’intimée :
+Me Brandon Siegal
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté en matière d’impôt sur le revenu pour l’année d’imposition 2001 est accueilli, et la cotisation est annulée.
+Les appels interjetés en matière d’impôt sur le revenu pour les années d’imposition 2002 et 2003 sont accueillis, et l’affaire est renvoyée au ministre compte tenu du fait que le revenu déclaré en moins de M. Milkowski s’élevait à 7 068 $ en 2002 et à 8 017 $ en 2003 et qu’aucune pénalité pour faute lourde ne doit être imposée en vertu du paragraphe 163(2).
+Signé à Ottawa, Canada, ce 7e jour de novembre 2007.
+« Campbell J. Miller »
+Juge Miller
+Traduction certifiée conforme
+ce 17e jour de décembre 2007.
+Johanne Brassard, trad. a.
+Dossier : 2006-3099(GST)I
+ENTRE :
+JACEK MILKOWSKI,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 25 juillet 2007, à Toronto (Ontario).
+Devant : L’honorable juge Campbell J. Miller
+Comparutions :
+Représentant de l’appelant :
+M. Costa A. Abinajem
+Avocat de l’intimée :
+Me Brandon Siegal
+____________________________________________________________________
+JUGEMENT
+L’appel relatif à la TPS est accueilli, et l’affaire est renvoyée au ministre compte tenu du fait qu’il n’y a pas de revenu déclaré en moins en 2001, mais qu’il y a un revenu non déclaré de 9 424 $ et de 10 690 $ pour les années 2002 et 2003 respectivement; aucune pénalité pour faute lourde ne doit être imposée en vertu de l’article 285.
+Signé à Ottawa, Canada, ce 7e jour de novembre 2007.
+« Campbell J. Miller »
+Juge Miller
+Traduction certifiée conforme
+ce 17e jour de décembre 2007.
+Johanne Brassard, trad. a.
+Référence : 2007CCI680
+Date : 20071107
+Dossiers : 2006-3099(GST)I
+2006-3100(IT)I
+ENTRE :
+JACEK MILKOWSKI,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Miller
+[1] Il s’agit ici d’une affaire de cotisation fondée sur l’avoir net. La méthode de la cotisation fondée sur l’avoir net a été décrite comme un outil rudimentaire, mais elle peut néanmoins être perfectionnée par un dialogue respectueux et raisonnable entre les parties, ailleurs que devant les tribunaux. Malheureusement, ce n’est pas ce qui est arrivé dans ce cas‑ci.
+[2] M. Milkowski interjette appel sous le régime de la procédure informelle, en vertu de la Loi de l’impôt sur le revenu et de la Loi sur la taxe d’accise, pour la période de trois ans englobant les années 2001, 2002 et 2003. Le ministre du Revenu national a également établi des pénalités et des intérêts.
+[3] M. Milkowski est peintre de métier. Au cours de la période pertinente, il exploitait son entreprise avec sa femme dans le cadre d’une société de personnes, leurs parts respectives étant de 75 et de 25 p. 100. M. Milkowski exécutait ses travaux dans des locaux commerciaux en général (dans une proportion d’environ 90 p. 100) et dans des résidences pour le reste. M. Milkowski a témoigné que les entrepreneurs généraux pour lesquels il travaillait le rémunéraient toujours par chèque. Il exécutait de 70 à 80 p. 100 de ses travaux pour un seul entrepreneur général, et le reste était accompli pour deux ou trois autres entrepreneurs généraux. Il arrivait parfois que M. Milkowski soit obligé d’embaucher des sous‑traitants pour achever les travaux. La plupart du temps, le tarif était établi au pied carré : selon M. Milkowski, un tarif de 22 cents était courant.
+[4] M. Milkowski a produit ses déclarations de revenus pour les années d’imposition 2001, 2002 et 2003 en déclarant un revenu d’entreprise brut de 59 260 $, de 45 930 $ et de 48 735 $ respectivement, et un revenu net de 18 871 $, de 10 754 $ et de 7 781 $ respectivement. Il a déclaré, au titre du revenu personnel total, 10 626 $, 6 278 $ et une perte de 3 175 $ pour les années 2001, 2002 et 2003 respectivement.
+[5] En 2005, l’Agence du revenu du Canada (l’« ARC ») a procédé à une vérification. Elle a reçu de M. Milkowski des relevés de compte bancaire, des factures et certains autres documents de l’entreprise. Étant donné que l’on estimait que le revenu déclaré ne pouvait pas justifier le train de vie d’une famille de cinq personnes, l’ARC a procédé à une cotisation fondée sur l’avoir net. Lorsque l’appelant, et plus particulièrement son comptable, ont été mis au courant de la chose, ils ont cessé de fournir des renseignements à l’ARC. Le vérificateur a soutenu que deux critères financiers justifiaient l’idée d’un revenu déclaré en moins : l’analyse des dépôts bancaires et l’analyse de la source des fonds et de leur utilisation. L’analyse des dépôts bancaires consistait à additionner tous les dépôts bancaires pour l’année 2001; il a été noté que le total de 64 470 $ était supérieur de 7 280 $ au revenu brut déclaré de M. Milkowski. L’analyse de la source des fonds et de leur utilisation pour l’année 2003 indiquait que les fonds utilisés s’élevaient à 346 302 $, alors que la source des fonds ne s’élevait qu’à 294 861 $. La chose était dans une large mesure attribuable à l’achat d’une maison, que M. Milkowski avait payée à l’aide de ses économies, d’une ligne de crédit et d’une hypothèque. La société TD Canada Trust avait d’abord refusé de consentir une hypothèque parce que le versement initial était trop faible, de sorte que M. Milkowski s’est vu obligé de s’adresser à un courtier pour obtenir une hypothèque.
+[6] Le vérificateur a procédé à une cotisation fondée sur l’avoir net à l’aide des renseignements déjà fournis par l’appelant, y compris les déclarations de revenus qui avaient été produites, ainsi que des statistiques de Statistique Canada. L’ARC a conclu que l’appelant avait sous‑déclaré son revenu de 14 205 $, de 18 298 $ et de 35 337 $, en 2001, en 2002 et en 2003 respectivement, et l’appelant a fait l’objet d’une cotisation en conséquence en vertu de la Loi de l’impôt sur le revenu et de la Loi sur la taxe d’accise. Dans une lettre de proposition datée du 25 avril 2005, l’ARC a déclaré ce qui suit :
+[traduction]
+À la suite d’une vérification factuelle de votre entreprise, nous avons conclu que vos recettes et dépenses correspondent à la documentation qui a été fournie. Toutefois, nous estimons que votre revenu net est trop faible pour justifier votre train de vie. Afin de déterminer votre revenu exact, nous avons employé une technique de vérification indirecte pour la période de trois ans. Le revenu additionnel a été déterminé à l’aide de la méthode de la cotisation fondée sur l’avoir net. En calculant les changements d’avoir net d’une année à l’autre et en effectuant ensuite des rajustements pour les dépenses personnelles et les sources de revenu non imposables, nous avons déterminé vos besoins minimaux sur le plan du revenu.
+Par conséquent, suivant cette approche, le vérificateur a calculé l’actif et le passif, personnels et commerciaux, tout en reconnaissant qu’il avait à sa disposition des renseignements bancaires personnels pour une année seulement et qu’il ne disposait d’aucun renseignement au sujet de la réduction du principal de l’hypothèque, qu’il supposait être de 6 300 $ en 2001, de 4 200 $ en 2002 et de 4 200 $ en 2003. Le vérificateur a également établi un sommaire des dépenses personnelles sous les 14 rubriques suivantes :
+1) Alimentation
+2) Logement
+3) Dépenses du ménage
+4) Vêtements
+5) Transport
+6) Soins de santé
+7) Soins personnels
+8) Loisirs
+9) Livres et imprimés
+10) Études
+11) Tabac et alcool
+12) Sécurité
+13) Cadeaux et contributions
+14) Divers
+Pour calculer les dépenses liées au logement, au transport et aux soins de santé, le vérificateur s’est fondé sur des renseignements reçus de l’appelant. Le vérificateur s’est fondé sur les statistiques de Statistique Canada pour toutes les autres dépenses. Les avis de nouvelle cotisation concernant les années d’imposition 2001, 2002 et 2003 ont été reçus le 21 juillet 2005 et ils ont été ratifiés le 25 juillet 2006.
+[7] Mme Milkowski a témoigné au sujet des dépenses du ménage. Elle a déclaré que la famille avait un train de vie très faible étant donné que le ménage avait peu d’argent. Elle a parlé des besoins alimentaires, y compris l’entretien de la maison; elle estimait que cela coûtait environ 150 $ par semaine en 2003. Elle a indiqué les besoins vestimentaires et soutenu qu’un montant annuel d’environ 2 400 $ était exact. Elle a également parlé de leurs besoins, sur le plan social, récréatif et éducatif, en fixant des coûts de beaucoup inférieurs aux estimations que l’ARC avait établies en se fondant sur Statistique Canada. Il a également été révélé que l’un des enfants Milkowski avait eu un revenu de 4 800 $ en 2003.
+[8] Points litigieux
+(i) La prescription empêche‑t‑elle l’ARC d’établir une nouvelle cotisation pour l’année 2001 en vertu de la Loi de l’impôt sur le revenu?
+(ii) Dans la négative, les cotisations fondées sur l’avoir net sont‑elles valides pour l’application de la Loi de l’impôt sur le revenu et aux fins de la responsabilité relative à la TPS pour l’année 2001, ainsi que pour les années 2002 et 2003?
+Analyse
+[9] M. Abinajem, représentant de l’appelant, a principalement soumis deux arguments au sujet de la cotisation fondée sur l’avoir net :
+1. En premier lieu, la cotisation n’était pas justifiée;
+2. En second lieu, la cotisation n’était pas valide.
+[10] En ce qui concerne la thèse selon laquelle la cotisation n’était pas justifiée, M. Abinajem a soutenu qu’il ne faut pas s’appuyer sur une cotisation arbitraire fondée sur l’avoir net lorsqu’il existe des livres et des registres, parce qu’il s’agit d’une méthode de dernier ressort. Le représentant a maintenu que, dans ce cas‑ci, l’appelant avait en sa possession des comptes et des documents appropriés et que le vérificateur avait même reconnu ceci dans une lettre : [traduction] « À la suite d’une vérification factuelle de votre entreprise, nous avons conclu que vos recettes et dépenses correspondent à la documentation qui a été fournie. » L’auteur de la lettre dit que la vérification a été amorcée parce que l’on estimait que le revenu de M. Milkowski était trop faible pour justifier son train de vie. M. Abinajem fait valoir que cette approche susciterait une avalanche de vérifications abusives et inutiles.
+[11] La cotisation fondée sur l’avoir net est autorisée au paragraphe 152(7) de la Loi, qui est rédigé comme suit :
+Le ministre n’est pas lié par les déclarations ou renseignements fournis par un contribuable ou de sa part et, lors de l’établissement d’une cotisation, il peut, indépendamment de la déclaration ou des renseignements ainsi fournis ou de l’absence de déclaration, fixer l’impôt à payer en vertu de la présente partie.
+[12] L’ARC s’est fondée sur cette disposition en vue d’établir des cotisations sur toute base jugée acceptable, notamment une cotisation arbitraire ou cotisation fondée sur l’avoir net. Ces cotisations sont souvent utilisées lorsque le contribuable refuse de produire une déclaration, produit une déclaration manifestement inexacte ou omet de fournir des pièces justificatives ou des documents en vue de permettre à l’ARC de vérifier la déclaration. M. Abinajem maintient qu’aucune de ces circonstances n’existe en l’espèce. Me Siegal, au nom de l’intimée, fait valoir que le revenu net déclaré de M. Milkowski était manifestement inexact et justifie la cotisation fondée sur l’avoir net.
+[13] La Cour peut-elle conclure que la cotisation fondée sur le paragraphe 152(7) est invalide à cause des circonstances entourant son établissement et annuler la cotisation sur cette base? Non.
+[14] Le paragraphe 152(7) n’énonce aucune restriction qui sert de condition préalable aux fins de l’examen effectué par la Cour. Il ne s’agit pas d’un processus à deux étapes, dans lequel il faut d’abord décider si l’ARC peut établir une cotisation et ensuite établir la validité de la cotisation. Si le contribuable croit que l’ARC agit d’une façon abusive en invoquant le paragraphe 152(7), le recours à exercer peut prendre la forme d’une action fondée sur l’abus de procédure. Cependant, une fois que la cotisation est établie, le paragraphe 152(8) prévoit que la cotisation est réputée valide; or, c’est la question de la validité de la cotisation dont la Cour est ici saisie.
+[15] J’examinerai donc maintenant la cotisation elle‑même. Les parties ont passé la journée à faire témoigner les Milkowski et le vérificateur de l’ARC, au point qu’à la fin de la journée, il ne restait plus assez de temps pour l’argumentation orale. Les parties m’ont remis plus de 60 pages d’observations écrites. L’intimée a reconnu certains points dans la cotisation fondée sur l’avoir net. L’appelant a mis l’accent sur les erreurs commises par le vérificateur et sur les raisons inappropriées qui ont été à l’origine de la cotisation fondée sur l’avoir net, questions que j’ai examinées. Je ne puis voir de meilleur exemple que la présente affaire lorsqu’il s’agit d’insister pour que les parties en cause dans une cotisation fondée sur l’avoir net se rencontrent bien avant l’instruction et que leurs conseillers financiers respectifs établissent les chiffres. Or, cela n’a pas été fait.
+[16] Je conclus que certaines parties de la cotisation fondée sur l’avoir net sont inexactes. Voici un sommaire des rajustements à effectuer, compte tenu des témoignages présentés par les Milkowski et de l’examen des statistiques de Statistique Canada. Les rajustements se rapportent aux tableaux de vérification de l’ARC :
+Tableau I – Actif
+Tableau II – Passif
+Tableau III – Rajustements
+Tableau IV – Dépenses personnelles
+Déductions effectuées sur le revenu déclaré en moins :
+2001
+2002
+2003
+Tableau I
+Valeur du véhicule
+-1 200 $[1]
+-900 $
+-8 459 $[2]
+Tableau II
+Différence de l’avoir net résultant des soldes hypothécaires exacts
+(voir appendice A)
+-3 281 $
+308 $
+19 $
+Tableau III
+Supplément de l’Ontario
+-1 100 $
+-1 100 $
+-308 $
+Revenu familial additionnel
+-4 800 $
+Tableau IV
+Alimentation
+-2 000 $
+-2 000 $
+-2 000 $
+Logement (admis)
+-1 800 $
+-11 544 $
+Dépenses du ménage
+-1 000 $
+-1 000 $
+-1 000 $
+Vêtements
+-1 250 $
+-1 250 $
+-1 250 $
+Soins personnels
+-500 $
+-500 $
+-500 $
+Loisirs
+-1 500 $
+-1 500 $
+-1 500 $
+Études
+-500 $
+-500 $
+-500 $
+Tabac et alcool
+Sécurité (admis)[3]
+-500 $
+-2 745 $
+-500 $
+-3 293 $
+-500 $
+-3 660 $
+Cadeaux
+Transport (admis)
+Autre (admis)
+-500 $
+-1 654 $
+-266 $
+-500 $
+-167 $
+-272 $
+-500 $
+355 $
+-280 $
+Total
+-17 996 $
+-14 974 $
+-36 427 $
+Revenu déclaré en moins selon le gouvernement
+18 940 $
+24 398 $
+47 117 $
+Revenu déclaré en moins réel
+944 $
+9 424 $
+10 690 $
+[17] L’appelant a soutenu que des rajustements auraient également dû être effectués à l’égard des éléments suivants :
+1. REER – Je conclus que le vérificateur a correctement indiqué les cotisations au REER à titre d’actifs plutôt qu’à titre de sécurité, comme l’a fait l’appelant. La chose a pour effet de réduire le montant de la sécurité indiqué dans le tableau IV; sinon, il y aurait comptabilisation en double.
+2. Dette relative aux cartes de crédit – Il n’y avait pas suffisamment d’éléments de preuve indiquant des changements d’une année à l’autre pour procéder à des rajustements à ce titre.
+3. Déduction pour amortissement – L’appelant a soutenu que la DPA sans décaissement relative aux immobilisations devrait être déduite du montant majoré de l’avoir net. Cela aurait été acceptable si les immobilisations étaient demeurées constantes d’une année à l’autre. Toutefois, l’ARC a réduit la valeur des immobilisations en tenant compte de la DPA. Par conséquent, aucune déduction additionnelle n’est justifiée.
+[18] Cet examen m’amène à conclure que la déclaration de revenus de 2001 était exacte : M. Milkowski n’a pas fait de présentation erronée des faits justifiant l’application du paragraphe 152(4) et permettant à l’intimée d’établir une cotisation à l’égard de l’année d’imposition 2001 après l’expiration de la période normale de nouvelle cotisation. L’appel interjeté à l’égard de l’année d’imposition 2001 est donc accueilli, et la cotisation est annulée.
+[19] En ce qui concerne les années d’imposition 2002 et 2003, le revenu déclaré en moins doit être rajusté à la baisse, à 9 424 $ et à 10 690 $ respectivement, la part de M. Milkowski représentant 75 p. 100 de ces montants.
+[20] Il reste la question des pénalités pour les années d’imposition 2002 et 2003. Le paragraphe 163(2) de la Loi prévoit que le contribuable est passible de pénalités lorsqu’il a, sciemment ou dans des circonstances équivalant à faute lourde, fait un faux énoncé ou une omission dans une déclaration ou y a participé. La disposition correspondante de la Loi sur la taxe d’accise figure à l’article 285. Lorsqu’une pénalité pour faute lourde est imposée, il incombe au ministre de prouver, selon la prépondérance des probabilités, qu’il y a eu faute lourde. Le fait qu’un revenu a été déclaré en moins ne veut pas nécessairement dire que le contribuable a commis une faute lourde. L’intimée reconnaît qu’il doit y avoir d’autres facteurs et propose les facteurs suivants dans ce cas‑ci : l’importance du revenu non déclaré, le pourcentage du revenu non déclaré par rapport au montant qui aurait dû être déclaré et le manque de crédibilité de l’appelant en ce qui concerne l’hypothèque et les autres emprunts.
+[21] En ce qui concerne l’importance du revenu déclaré en moins, il n’existe aucune mesure stricte, mais je conclus qu’un revenu déclaré en moins d’environ 10 000 $, compte tenu des nombreux points litigieux possibles et de la fourchette des estimations possibles, n’est pas important au point d’établir d’une façon certaine que M. Milkowski savait ou aurait dû savoir qu’il sous‑déclarait son revenu. Toutefois, le déficit de 10 000 $ représente une fraction élevée de ce qui aurait dû être déclaré en 2002 et en 2003. Quant à l’hypothèque, l’intimée soutient que le montant de l’hypothèque et le taux obtenu ne donnent pas à entendre qu’il s’agissait d’un prêt à risque élevé et que M. Milkowski doit donc avoir indiqué au prêteur un plus grand nombre d’actifs et un revenu plus élevé que ce qu’il a déclaré. L’intimée a également fait référence à la ligne de crédit accordée à M. Milkowski à l’appui de sa position. Il ne s’agit que d’une conjecture de la part du ministre et cela ne constitue certes pas une preuve suffisante pour satisfaire à l’obligation qui incombe au ministre de prouver la faute lourde.
+[22] Enfin, le fait que M. Milkowski a fourni des livres et des registres qui ont amené l’ARC à dire, dans sa lettre : [traduction] « [N]ous avons conclu que vos recettes et dépenses correspondent à la documentation qui a été fournie » me laisse perplexe. L’appelant n’a pas réussi à me convaincre, dans l’ensemble, que le revenu qu’il avait déclaré était exact, mais le ministre n’a pas non plus réussi à me convaincre que l’inexactitude du montant déclaré en moins par l’appelant est attribuable à une faute lourde.
+[23] L’appel interjeté en matière d’impôt sur le revenu pour l’année 2001 est accueilli, et la cotisation est annulée compte tenu du fait que le ministre a tout simplement établi sa cotisation trop tard. Les appels interjetés en matière d’impôt sur le revenu pour les années d’imposition 2002 et 2003 sont accueillis, et l’affaire est renvoyée au ministre compte tenu du fait que le revenu déclaré en moins par M. Milkowski s’élevait à 7 068 $ en 2002 et à 8 017 $ en 2003, aucune pénalité pour faute lourde ne devant être imposée en vertu du paragraphe 163(2). L’appel interjeté à l’égard de la TPS est accueilli, et l’affaire est renvoyée au ministre compte tenu du fait qu’en 2001, il n’y avait pas de revenu déclaré en moins, mais que le revenu non déclaré s’élevait à 9 424 $ et à 10 690 $ pour les années 2002 et 2003 respectivement. Encore une fois, aucune pénalité pour faute lourde ne doit être imposée en vertu de l’article 285.
+[24] Aucuns dépens ne sont adjugés.
+Signé à Ottawa, Canada, ce 7e jour de novembre 2007.
+« Campbell J. Miller »
+Juge Miller
+Traduction certifiée conforme
+ce 17e jour de décembre 2007.
+Johanne Brassard, trad. a.
+Appendice « A »
+2000
+2001
+2002
+2003
+Avoir net selon l’ARC
+45 276 $
+53 988 $
+53 934 $
+50 268 $
+Augmentation du montant de l’hypothèque*
+12 728 $
+16 009 $
+15 513 $
+15 493 $
+Avoir net révisé
+32 548 $
+37 979 $
+38 421 $
+34 725 $
+Moins : année antérieure
+32 548 $
+37 979 $
+38 421 $
+Augmentation (diminution) de l’avoir net
+5 431 $
+442 $
+(3 646 $)
+Augmentation de l’avoir net selon l’ARC
+8 712 $
+(54 $)
+(3 665 $)
+Déduction de l’avoir net
+3 281 $
+(388 $)
+(19 $)
+* (Sur entente des parties)
+RÉFÉRENCE : 2007CCI680
+Nos DES DOSSIERS DE LA COUR : 2006-3099(GST)I, 2006-3100(IT)I
+INTITULÉ : JACEK MILKOWSKI
+c.
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Le 25 juillet 2007
+MOTIFS DU JUGEMENT : L’honorable juge Campbell J. Miller
+DATE DU JUGEMENT : Le 7 novembre 2007
+COMPARUTIONS :
+Représentant de l’appelant :
+M. Costa A. Abinajem
+Avocat de l’intimée :
+Me Brandon Siegal
+AVOCAT INSCRIT AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Montant surévalué.
+[2] Il ne possédait plus de véhicule.
+[3] Les parties se sont entendues sur les dépenses concernant la sécurité, mais les montants en cause comprenaient les cotisations au REER, qui avaient déjà été incluses dans le tableau I, de sorte que ces montants ont également été retranchés de cette catégorie.

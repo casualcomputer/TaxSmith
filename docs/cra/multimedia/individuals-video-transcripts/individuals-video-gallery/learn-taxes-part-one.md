@@ -1,0 +1,35 @@
+---
+title: "Learn about your taxes: The one about the TD1 form, part 1"
+gallery_title: "Learn about your taxes: The one about the TD1 form, part 1"
+source: https://www.canada.ca/en/revenue-agency/news/cra-multimedia-library/individuals-video-gallery/learn-taxes-part-one.html
+series: "Learn About Your Taxes"
+video_source: https://youtu.be/TaFJWpvJqXQ
+last_modified: 2023-06-08
+---
+
+# Learn about your taxes: The one about the TD1 form, part 1
+
+## Transcript
+If you’ve started your first job, or gotten a new one, congratulations! When starting, your employer probably gave you a form that looks like this. This is called the Personal Tax Credits Return, or TD1 form.
+Just so you know, you’ll get two of these. You’ll get a federal TD1 form, and another one for the province or territory you’re working in. Depending on your employer, you’ll either get the TD1 form on paper or in electronic format to fill out.
+It’s super important to fill out your TD1 form correctly. Don’t worry, we’ll help you through it!
+So, why is it important? The TD1 form gives your employer the best estimate of your personal tax situation, so that they can deduct the right amount of income tax from your pay.
+If you don’t give accurate information on the form, your employer may take the wrong amount of tax off your pay. This may lead to either of two things:
+- not getting enough tax taken off your pay, and owing more money when doing your taxes; or
+- having too much tax deducted over the year, and getting money back as a larger refund after doing your taxes.
+It’s always best to fill out the form correctly to avoid any surprises at tax time!
+So how does the form change the amount of tax being taken off your pay? You’ll enter information about the tax credits you plan on claiming when doing your taxes. This lowers how much tax is taken off your income.
+You’ll be asked to enter amounts on the first page of the form to claim tax credits you may be eligible for in specific situations, like if you:
+- are a student paying tuition fees;
+- have a child or dependant;
+- financially support a spouse or common-law partner; or
+- are a person with a disability.
+Depending on which tax credits amounts are entered, your employer will use the total claim amount to determine how much tax to deduct from your pay.
+What if you have multiple jobs? If you have multiple jobs, it’s important to know that you can’t claim tax credits on more than one TD1 form if you earn more than the credits you are claiming on the first page of the TD1.
+If you claim tax credits on more than one form, your employers may not take enough tax from your pay. This can lead to a large, unexpected amount of tax owing when you do your taxes.
+So, if you’ve already entered amounts on TD1 forms with one employer, read and follow the steps on page two of the form to make sure you don’t claim credits with another employer.
+So when do you have to fill out the form? Thankfully, the form isn’t something you have to fill out every year. But you will have to fill out the form each time you start a new job with a new employer. You should fill out a new form if your personal situation changes, like the ones mentioned earlier, or if you need to change any of the amounts you’ve previously entered.
+You can also fill out a new form if you want to increase the amount of tax that you want your employer to deduct from each paycheque. This might help avoid a tax owing surprise at tax time!
+Once you’ve completed the form, you can hand it back to your employer, and they’ll use it to determine your pay. You don’t need to send it to the CRA.
+Well there you have it, the basics of the TD1 form, and why it’s important. Need help filling out the form? Don’t worry! We’ve got you covered in Part 2!
+For more help, follow us on social media or go to Canada.ca

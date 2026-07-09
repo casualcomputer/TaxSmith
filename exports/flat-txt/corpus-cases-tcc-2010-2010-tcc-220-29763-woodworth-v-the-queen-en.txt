@@ -1,0 +1,173 @@
+Title: Woodworth v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29763/index.do
+Corpus path: corpus/cases/tcc/2010/2010-tcc-220-29763-woodworth-v-the-queen-en.md
+Document type: case_law
+Last modified: 2010-04-22
+
+# Woodworth v. The Queen
+
+- Citation: 2010 TCC 220
+- Decision date: 2010-04-22
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6509, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Woodworth v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-04-22
+Neutral citation
+2010 TCC 220
+File numbers
+2009-3163(IT)APP
+Judges and Taxing Officers
+Valerie A. Miller
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2009-3163(IT)APP
+BETWEEN:
+VIOLA MAE WOODWORTH,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Application heard on March 2, 2010 at
+Calgary ,
+Alberta
+Before: The Honourable Justice Valerie Miller
+Appearances:
+Counsel for the Applicant:
+Dan Misutka Josh Jantzi
+Counsel for the Respondent:
+Robert Neilson Scott
+England
+____________________________________________________________________
+ORDER
+Upon reading the application for an Order extending the time within which to file a Notice of Appeal to the assessment made under the Income Tax Act for the 2005 taxation year;
+And upon hearing the counsel for the Applicant and counsel for the Respondent;
+The application is dismissed in accordance with the attached Reasons.
+Signed at
+Ottawa ,
+Canada
+, this 22nd day of April 2010.
+“V.A. Miller”
+V.A. Miller, J.
+Citation: 2010TCC220
+Date: 20100422
+Docket: 2009-3163(IT)APP
+BETWEEN:
+VIOLA MAE WOODWORTH,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+V.A. Miller, J.
+[1] The Applicant seeks an application for extension of time to file a Notice of Appeal in respect of her 2005 taxation year.
+[2] The Applicant’s 2005 taxation year was assessed by notice dated April 2, 2007 which was issued pursuant to subsection 152(7) of the Income Tax Act (the “Act”). She objected to this assessment on July 6, 2007 and was granted an extension of time to file the Notice of Objection. The evidence at the hearing of this application was that the Minister of National Revenue (the “Minister”) confirmed the assessment on December 6, 2007.
+[3] In the original Notice of Application, counsel for the Applicant argued that the Notice of Confirmation was invalid as it was not personally received. The evidence showed that the Notice of Confirmation was sent by registered mail to the Applicant on December 6, 2007.
+[4] It was the Applicant’s evidence that she was away from her home in December 2007 and she asked her friend, Elvin Calahaisen, to pick up her mail. She stated that she told him not to sign for any mail on her behalf.
+[5] On December 28, 2007, Mr. Calahaisen accepted delivery of the Notice of Confirmation on behalf of the Applicant.He placed all of the mail on a table but the Applicant failed to review all of her mail when she returned.
+[6] At the hearing of the application, counsel sought to file an Amended Notice of Application which contained additional issues in support of the application. As counsel for the Respondent was taken by surprise, he was given the opportunity to file written submissions and counsel for the Applicant was given a time to respond in writing.
+[7] I allow the Amended Notice of Application to be filed.
+[8] The facts which gave rise to the assessment which is the subject of this application are as follows:
+a) In 1992, Dr. Woodworth, the Applicant’s spouse, opened a Registered Retirement Savings Plan (RRSP) with the CIBC Trust Corporation (the Trustee). The Applicant was the named beneficiary of the RRSP.
+b) Dr. Woodworth died on September 24, 2004. At the time of his death, Dr. Woodworth was a tax debtor.
+c) In February 2005, the Trustee transferred the proceeds of the RRSP into the Applicant’s RRSP.
+d) The Applicant did not file her income tax return for the 2005 taxation year within the time specified by the Act and the Minister issued an arbitrary assessment pursuant to subsection 152(7) of the Act on April 2, 2007 (the “Assessment”).
+e) The Assessment issued on April 2, 2007 included the value of the RRSP.
+f) On January 11, 2007, the Minister issued an assessment pursuant to section 160 of the Act in respect of the RRSP transfer (the “160 Assessment”).
+[9] The Amended Notice of Application contained the following submissions:
+a) The Assessment is null and void;
+b) If the Assessment is not void, this appeal should be consolidated with the appeal of the 160 Assessment which has been filed with this Court;
+c) The Minister has not vacated, confirmed or varied the Assessment, or reassessed the Applicant;
+d) The Applicant’s circumstances warrant the Court granting the application for extension of time.
+Assessment is void
+[10] It is the Applicant’s position that after the Minister issued the 160 Assessment he was functus officio with respect to the Applicant’s tax liability relating to the proceeds of the RRSP. Counsel for the Applicant argued that the Assessment was void ab initio as the Minister had no jurisdiction to make a second assessment relative to the RRSP transfer.
+[11] The Minister has assessed the Applicant pursuant to Act. Section 160 of the Act is a collection tool that is used by the Minister to facilitate the collection of a tax debtor’s tax liability from another person [1] . It is a harsh tool but the Minister has the discretion whether or not to use this method of collection.
+[12] Having assessed the Applicant pursuant to section 160, the Minister is not functus officio with respect to assessing the Applicant for her personal tax liability in a particular taxation year.
+[13] The Applicant was required to file a return of income for her 2005 taxation year [2] .
+[14] The Minister was authorized by subsection 152(7) of the Act to assess the Applicant for her 2005 taxation year. As a result, the Assessment is not void ab initio.
+Consolidation of Appeals
+[15] Section 26 of the Tax Court of Canada Rules (General Procedure) (the “Rules”) reads:
+26. Where two or more proceedings are pending in the Court and
+(a) they have in common a question of law or fact or mixed law and fact arising out of one and the same transaction or occurrence or series of transactions or occurrences, or
+(b) for any other reason, a direction ought to be made under this section,
+the Court may direct that,
+(c) the proceedings be consolidated or heard at the same time or one immediately after the other, or
+(d) any of the proceedings be stayed until the determination of any other of them.
+[16] The term “proceedings” is defined in section 2 of the Rules to mean an appeal or reference.
+[17] The Assessment has not been validly appealed to this Court and it cannot be consolidated with the appeal of the 160 Assessment. This is most unfortunate as the appeal of the two assessments should have proceeded at the same time.
+Confirmation of the Assessment
+[18] It is the Applicant’s position that the Notice of Confirmation was never issued.
+[19] The Applicant has relied on the decision in Aztec Industries v. Canada [3] as authority for its position that the Court must perform a two step analysis to decide (1) whether the Minister has proven that a notice had been issued and mailed as required by law; and, (2) assuming such proof, did the taxpayer rebut the presumption that such notice was received. If the taxpayer proves that she did not receive the notice, it rebuts the presumption that the notice was “sent”. As a result, the time limitation under section 169 is not triggered.
+[20] In Schafer v. R. [4] , the Federal Court of Appeal disagreed with the approach proposed by the Applicant. Isaac, C.J., as he then was, stated:
+9 I am aware that the Tax Court has interpreted almost identical sections of the Income Tax Act2 to mean that the limitation period does not start to run unless the taxpayer receives the notice of assessment within the statutory time limit.3 However, this Court has criticized that approach in the past. In Bowen v. Minister of National Revenue, Stone J.A. cited a passage from the Tax Court's decision in Antoniou requiring receipt to start the limitation period, and then stated:
+With respect, we are unable to agree with that conclusion. In our view, it disregards the plain meaning of subsection 165(3) and section 169 of the [Income Tax] Act...
+In our opinion, the duty resting upon the Minister under subsection 165(3) was to do precisely what he did, viz., notify the respondent of the confirmation by registered mail. Nothing in that subsection or in section 169 required the notification to be "served" personally or to be received by the taxpayer.4
+[21] In the present application, the Respondent has proved that the Notice of Confirmation was sent by registered mail and was received by Mr. Calahaisen at the Applicant’s address. Subsection 248(7) deems the Applicant to have received the Notice of Confirmation on the date that it is mailed.
+[22] In Schafer, Isaac, C.J. wrote:
+16 In my respectful view, subsection 334(1) does not create a rebuttable presumption. I have come to this conclusion for two reasons. The first is the conclusion of Stone J.A. in Bowen that:
+a requirement for the receipt of the notification would be difficult, if not totally unworkable, from an administrative standpoint.8
+I agree that it would be extremely difficult to administer a scheme in which a notice is sent by ordinary first class mail that would require the Minister to contact every person who has been sent a notice of assessment to ensure that they have, in fact, received it.
+[23] The wording in subsection 334(1) of the Excise Tax Act is almost identical to that in subsection 248(7) of the Act. I conclude that the deeming provision in subsection 248(7) is not a rebuttable presumption.
+[24] The Minister confirmed the Assessment on December 6, 2007. The time period for filing the Notice of Appeal was ninety days from that date; that is, the Notice of Appeal had to be filed by March 6, 2008 [5] .
+[25] This application for extension of time was brought pursuant to section 167 of the Act. Subsection 167(5) of the Act reads as follows:
+(5) When order to be made -- No order shall be made under this section unless
+(a) the application is made within one year after the expiration of the time limited by section 169 for appealing;
+[26] The time limitation for filing this application was March 6, 2009. This application was filed with the court on October 8, 2009 which is beyond the time period allowed by the Act.
+Applicant’s Circumstances
+[27] Counsel for the Applicant argued that it is just and equitable to make an order extending the time to appeal the Assessment. He stated that the Applicant believed that her objections to the Assessment and the 160 Assessment were ongoing; she had retained tax counsel in November 2008 to commence appeals in this Court from both assessments. The Applicant’s former tax counsel failed to commence either appeal and did not advise the Applicant until late August 2009.
+[28] Counsel submitted that at all times the Applicant had a bone fide intention to appeal the Assessment.
+[29] I do not have the jurisdiction to waive the time limit in the Act. As was stated by Nadon, J. in Carlson v. R. [6] at paragraph 13, if a postal failure cannot save a taxpayer, then the Applicant’s failure to read her mail will not help her.
+13 … As this Court has held on numerous occasions, when a taxpayer is unable to meet the deadline prescribed by the Act, even by reason of a failure of the postal system, neither the Minister nor the TCC can come to his help. (See Schafer v. R., [2000] F.C.J. No. 1480 (Fed.
+C.A.
+); Bowen v. Minister of National Revenue (1991), [1992] 1 F.C. 311 (Fed.
+C.A.
+)). Hence, if a postal failure cannot save a taxpayer, he will not be saved by his failure to grasp the significance of a notice of assessment served on him.
+[30] The application for extension of time is dismissed.
+Signed at
+Ottawa ,
+Canada
+, this 22nd day of April 2010.
+“V.A. Miller”
+V.A. Miller, J.
+CITATION: 2010TCC220
+COURT FILE NO.: 2009-3163(IT)APP
+STYLE OF CAUSE: VIOLA MAE WOODWORTH AND
+THE QUEEN
+PLACE OF HEARING:
+Calgary ,
+Alberta
+DATE OF HEARING: March 2, 2010
+REASONS FOR ORDER BY: The Honourable Justice Valerie Miller
+DATE OF ORDER: April 22, 2010
+APPEARANCES:
+Counsel for the Applicant:
+Dan Misutka
+Josh Jantzi
+Counsel for the Respondent:
+Robert Neilson
+Scott England
+COUNSEL OF RECORD:
+For the Applicant:
+Name: Dan Misutka
+Josh Jantzi
+Firm: Fraser Milner Casgrain LLP
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of
+Canada
+Ottawa, Canada
+[1] Addison & Leyen Ltd. v. Canada, 2006 FCA 107 at paragraph 62.
+[2] Section 150
+[3] [1995] 1 C.T.C. 327 (FCA)
+[4] 2000 DTC 6542 (FCA)
+[5] Section 169
+[6] 2002 FCA 145

@@ -1,0 +1,138 @@
+Title: Osei-Tutu v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30054/index.do
+Corpus path: corpus/cases/tcc/2010/2010-tcc-185-30054-osei-tutu-v-the-queen-en.md
+Document type: case_law
+Last modified: 2010-04-12
+
+# Osei-Tutu v. The Queen
+
+- Citation: 2010 TCC 185
+- Decision date: 2010-04-12
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7694, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Osei-Tutu v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-04-12
+Neutral citation
+2010 TCC 185
+File numbers
+2007-2549(IT)I
+Judges and Taxing Officers
+Patrick J. Boyle
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2007-2549(IT)I
+BETWEEN:
+BEATRICE OSEI‑TUTU,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on March 8, 2010, at Edmonton, Alberta.
+Before: The Honourable Justice Patrick Boyle
+Appearances:
+Agent for the appellant:
+Samuel Amponsah
+Counsel for the respondent:
+Gregory Perlinski
+____________________________________________________________________
+JUDGMENT
+Upon motion made by counsel for the respondent for a judgment quashing the appeals from the assessments and determinations made under the Income Tax Act with respect to the appellant’s 1999, 2000, 2001 and 2002 taxation years;
+And upon hearing submissions of the parties;
+The respondent’s motion is granted and the purported appeals are quashed.
+The appeal from the reassessment and determination made under the Income Tax Act with respect to the appellant’s 2003 taxation year is allowed, and the matter is referred back to the Minister of National Revenue for reassessment and redetermination in accordance with the Reasons for Judgment attached hereto.
+Costs in the amount of $250 shall be payable by the respondent in favour of the appellant.
+It is further ordered that the filing fee in the amount of $100 be reimbursed to the appellant.
+Signed at Ottawa, Canada, this 12th day of April 2010.
+"Patrick Boyle"
+Boyle J.
+CITATION: 2010 TCC 185
+2007-2549(IT)I
+BETWEEN:
+BEATRICE OSEI‑TUTU,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+EDITED VERSION OF TRANSCRIPT
+OF REASONS FOR JUDGMENT
+Let the attached edited transcript of the Reasons for Judgment delivered orally from the Bench at Edmonton, Alberta, on March 8, 2010, be filed. I have edited the transcript (certified by the Court Reporter) for style, clarity and to make minor corrections only. I did not make any substantive change.
+Signed at Ottawa, Canada, this 12th day of April 2010.
+"Patrick Boyle"
+Boyle J.
+Citation: 2010 TCC 185
+Date: 20100412
+Docket: 2007-2549(IT)I
+BETWEEN:
+BEATRICE OSEI‑TUTU,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+EDITED VERSION OF TRANSCRIPT
+OF REASONS FOR JUDGMENT
+[delivered orally from the Bench at Edmonton, Alberta, on March 8, 2010]
+Boyle J.
+[1] These are my reasons for decision in the Osei‑Tutu motion heard this morning and in the matter, as it turns out.
+[2] The appellant, Ms. Osei‑Tutu, has appealed her 1999 to 2003 years on the basis that in those years she was living common-law with Mr. Amponsah. She claims she is entitled to claim a common-law spousal credit in respect of Mr. Amponsah for income tax purposes and that it also affects the amounts she should have received as GST credits and as Child Tax Benefits.
+[3] The 2003 appeal has been fully resolved this morning. The Crown conceded that the 2003 GST credit needs to be redetermined with respect to Ms. Osei‑Tutu and the children of the marriage. The Crown also conceded that the 2003 GST credit needs to be redetermined with respect to Mr. Amponsah for any periods for which he has not yet received the credit. I will be ordering that those redeterminations are to be made. Mr. Amponsah, representing Ms. Osei‑Tutu, confirmed that, for 2003, the common‑law spousal credit has been given to Ms. Osei‑Tutu, and that it and the 2003 Child Tax Benefits are no longer in dispute.
+[4] The Crown has brought a motion to strike Ms. Osei‑Tutu’s appeals for 1999 to 2002 on the ground that they have not been validly instituted. The Income Tax Act only gives this Court power to hear appeals from the Minister’s decision to objections: see section 169. However, in this case the taxpayer never filed valid objections to the 1999 to 2002 taxation years, since they were filed beyond the maximum time permitted by section 165.
+[5] Ms. Osei‑Tutu asked the Canada Revenue Agency (the “CRA”) to make an adjustment to her 1999 to 2002 tax assessments to reflect her common‑law relationship with Mr. Amponsah in January 2006. She appears to have used the appropriate CRA T1 Adjustment form. I understand she had initially claimed a spousal tax credit in respect of her former spouse for the years 1999 to 2001, which were initially permitted but were denied in reassessments of 1999 and 2000, in October 2002, and in a reassessment of 2001, in January 2003. It appears that her 2002 return was never reassessed nor objected to because in that year she had claimed an equivalent to married credit.
+[6] By a one‑page letter dated March 1, 2006, the CRA responded that it could not update her marital status for prior years because the information she provided with her request conflicted with the information previously provided.
+[7] Ms. Osei‑Tutu then filed the objections, which are the subject of her appeal to this Court. These objections are dated March 7, 2006.
+[8] The CRA responded to these objections with a brief letter that pointed out that only her 2003 objection was a validly filed objection and allowing her common‑law spousal credit for 2003.
+[9] The CRA’s October 19, 2006, letter went on to confirm that it will update its records to reflect her common‑law spousal relationship with Mr. Amponsah since 1999. It then continued that this change may result in future changes to her returns or GST or CTB benefits.
+[10] Ms. Osei Tutu replied to that letter with a phone call and an attestation signed by each of her and Mr. Amponsah confirming they had been in a common‑law relationship for each of 1999 to 2003. This was dated November 14, 2006 and was faxed to the CRA.
+[11] In response to Ms. Osei‑Tutu’s further reply, the CRA sent her a one‑page letter, the material paragraph of which reads:
+“Based on your reply of November 15, 2006, we are closing your file on the basis that you now agree with the assessment. We have changed your marital status for the years 1999 to 2003 from single or married to common‑law as per your request. We hereby confirm the assessment as correct under subsection 165(3) of the Income Tax Act.”
+[12] It troubles me greatly that in the face of this letter the CRA would continue to pursue the motion to quash or the appeals themselves. There is no other way for a typical Canadian to read this letter than that the adjustments were being made for 1999 and later years, as she had requested. Crown counsel described the middle sentence of this paragraph as mind‑boggling. I agree.
+[13] While it is possible for a specialist well‑versed in income tax rules and procedures to read into the three sentences read together what the writer may have intended and conclude it was just poorly written, there was no way Ms. Osei‑Tutu or any other reasonably intelligent Canadian could read it any other way than she appears to have. She had finally succeeded.
+[14] The CRA is satisfied that Mr. Amponsah was Ms. Osei‑Tutu’s common‑law spouse since 1999. The CRA has the statutory power in subsection 152(4.2) to reassess her 1999 and later years to reflect that; the CRA is refusing to do that. Unfortunately this Court has no power to order the CRA to make such reassessments. The Federal Court does have that power.
+[15] Since that November 2006 letter, Ms. Osei‑Tutu has continued to pursue her appeal in this Court. Given the wording of the final letter, she no doubt reasonably expected this Court would be able to resolve what she must have guessed was a communication or other technical glitch. Indeed the letter only tells her of her appeal right to this Court. It does not tell her that if she disagrees with how the CRA exercised its discretion, she should begin an appeal in the Federal Court.
+[16] No explanation has been given to her or to this Court as to why the CRA has not made the requested adjustments, given it is satisfied of the facts of Ms. Osei‑Tutu’s common‑law relationship since 1999 and it has the power under subsection 152(4.2) to reassess.
+[17] The CRA has issued an Information Circular, IC07‑1, headed: Taxpayer Relief Provisions, dealing precisely with how it deals with individuals’ adjustment requests and when it will reassess for up to a ten‑year period as permitted by subsection 152(4.2). Paragraphs 71 and 72 of that Information Circular provide:
+71. The CRA may issue a refund or reduce the amount owed if it is satisfied that such a refund or reduction would have been made if the return or request had been filed or made on time, and provided that the necessary assessment is correct in law and has not been already allowed.
+72. Individuals . . . can make a request if they were not aware of, or missed, claiming a deduction or a non‑refundable tax credit that was available for the year, such as child care expenses or the amount for an eligible dependant. Individuals can also ask for refunds or reductions of amounts owing for refundable tax credits such as provincial tax credits that have not been claimed. . .
+[18] From what I can understand, Ms. Osei‑Tutu’s claim is fully in accordance with these two paragraphs. If it were within my power, I would order the CRA to reassess under subsection 152(4.1), however, this Court does not have that power.
+[19] The law requires me to allow the Crown’s motion and to strike the 1999 to 2002 appeals because Ms. Osei‑Tutu did not properly object to those years within the time frames required by the Income Tax Act.
+[20] I would urge the respondent, the CRA, together with its counsel to seriously reconsider its refusal to reassess Ms. Osei Tutu to allow her adjustment request, so that it can at least clearly explain to her why it is not being allowed, given the CRA is satisfied she was entitled to the common‑law spousal credit and given the CRA’s administrative policies set out in its own Information Circular on when it will reassess in such circumstances.
+[21] Ms. Osei‑Tutu, I will be having these reasons transcribed and sent to both you and Mr. Perlinski. I would urge you to read them because I know they may have been difficult to follow as I read them. I would urge you to obtain a copy of the CRA Information Circular I referred to and perhaps Mr. Perlinski can make arrangements to get you a copy. As I stated earlier, if at the end of the day you are not satisfied with the CRA’s response and how it exercises its discretion in your case, you have to complain to the Federal Court, not the Tax Court. The same registry office serves both courts, if you are looking for information on it. I hope it does not get to that and wish both sides well in hopefully trying one more time to resolve the dispute. I may have had to strike the appeal in this Court, but the dispute with the CRA remains to be resolved.
+[22] Mr. Osei‑Tutu has been successful in her 2003 appeal. While the Crown’s motion to strike the years 1999 to 2002 was also successful, that is a procedural victory in an informal appeal in which a possibly better and final resolution was available but was in the discretion of the CRA, which it has inexplicably refused to exercise. In these circumstances I am awarding costs payable by the respondent to Ms. Osei Tutu in the amount of $250.
+[23] Thank you Mr. Perlinski and Mr. Amponsah for your clear and helpful input. Thank you Madam Registrar and Madam Court Reporter. We are adjourned.
+Signed at Ottawa, Canada, this 12th day of April 2010.
+"Patrick Boyle"
+Boyle J.
+CITATION: 2010 TCC 185
+COURT FILE NO.: 2007-2549(IT)I
+STYLE OF CAUSE: BEATRICE OSEI‑TUTU v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Edmonton, Alberta
+DATE OF HEARING: March 8, 2010
+REASONS FOR JUDGMENT BY: The Honourable Justice Patrick Boyle
+DATE OF JUDGMENT: April 12, 2010
+APPEARANCES:
+Agent for the appellant:
+Samuel Amponsah
+Counsel for the respondent:
+Gregory Perlinski
+ALSO PRESENT:
+Court Registrar:
+Jennifer Sorvisto
+Court Reporter:
+Trish Cossey
+COUNSEL OF RECORD:
+For the appellant:
+Name:
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada

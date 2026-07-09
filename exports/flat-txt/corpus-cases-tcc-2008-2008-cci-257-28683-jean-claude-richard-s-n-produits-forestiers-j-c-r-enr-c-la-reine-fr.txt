@@ -1,0 +1,447 @@
+Title: Jean-Claude Richard s/n Produits Forestiers J.C.R. Enr. c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28683/index.do
+Corpus path: corpus/cases/tcc/2008/2008-cci-257-28683-jean-claude-richard-s-n-produits-forestiers-j-c-r-enr-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2008-05-20
+
+# Jean-Claude Richard s/n Produits Forestiers J.C.R. Enr. c. La Reine
+
+- Citation: 2008 CCI 257
+- Decision date: 2008-05-20
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1473, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Jean-Claude Richard s/n Produits Forestiers J.C.R. Enr. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-05-20
+Référence neutre
+2008 CCI 257
+Numéro de dossier
+2007-1469(IT)I
+Juges et Officiers taxateurs
+Paul Bédard
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2007-1469(IT)I
+ENTRE :
+JEAN-CLAUDE RICHARD, S/N PRODUITS
+FORESTIERS J.C.R. ENR.,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 16 janvier 2008, à Montréal (Québec)
+Devant : L'honorable juge Paul Bédard
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocate de l'intimée :
+Me Janie Payette
+____________________________________________________________________
+JUGEMENT
+L’appel des nouvelles cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 2002 et 2003 est accueilli, selon les motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 20e jour de mai 2008.
+« Paul Bédard »
+Juge Bédard
+Référence : 2008CCI257
+Date : 20080520
+Dossier : 2007-1469(IT)I
+ENTRE :
+JEAN-CLAUDE RICHARD, S/N PRODUITS
+FORESTIERS J.C.R. ENR.,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Bédard
+[1] Dans le calcul de son revenu pour les années d’imposition 2002 et 2003, l’appelant a réclamé respectivement les sommes de 43 292 $ et de 37 062 $ à titre de pertes provenant de l’exploitation d’une entreprise forestière. Par avis de nouvelles cotisations datés du 18 avril 2005, le ministre du Revenu national (le « ministre ») a procédé aux changements suivants dans le calcul du revenu de l’appelant pour les années d’imposition en cause :
+a) le ministre considère que l’appelant exploite une entreprise agricole avec l’espoir raisonnable de pouvoir en tirer un profit, mais dont le revenu ne provient pas principalement de l’agriculture ni d’une combinaison de l’agriculture et de quelque autre source;
+b) le ministre a accordé à titre de pertes déductibles provenant d’une activité agricole ne constituant pas la principale source de revenu une somme annuelle de 8 750 $, et a calculé respectivement des sommes de 34 542 $ et de 28 312 $ au titre de pertes agricoles restreintes pouvant être reportées.
+L’appelant interjette appel à l’encontre de ces nouvelles cotisations d’impôt sur le revenu établies par le ministre à l’égard des années d’imposition 2002 et 2003.
+[2] Pour établir et ratifier ces nouvelles cotisations, le ministre a tenu pour acquis les mêmes faits :
+a) l’appelant travaille pour Hydro-Québec depuis 1981; (admis)
+b) l’appelant est fils de bûcheron et aurait exercé ce métier de 1969 à 1978; (admis)
+c) l’appelant et madame Michèle Neveu forment une famille recomposée avec trois enfants :
+i) Kathleen, née au mois de février 1982;
+ii) Joanie, née au mois de mai 1987;
+iii) Pierre-Olivier, né au mois de février 1993.
+(admis)
+d) pour nos années d’imposition en litige, l’appelant a déclaré exploiter, à titre de propriétaire unique les biens ou actifs suivants sous la raison sociale de Produits forestiers J.C.R. enr. :
+i) terrains boisés à St-Michel-des-Saints (4 lots);
+ii) terre adjacente aux terrains boisés sur laquelle 4 chalets étaient construits;
+iii) location d’une superficie de terrain de 146 acres, du ministère des Ressources naturelles, sur laquelle se trouve une érablière dans le dessein de produire du sirop d’érable.
+(admis)
+e) pour les années d’imposition 2002 et 2003, l’appelant travaillait 4 jours par semaine comme employé chez Hydro-Québec; (nié tel que rédigé)
+f) pendant la période de 17 ans (1987 à 2003), seulement à trois occasions (1988, 1999 et 2000) les revenus bruts provenant de la prétendue exploitation d’une entreprise forestière de l’appelant étaient plus élevés que son revenu d’emploi; (nié)
+g) l’appelant, pour la période de 17 ans (1987 à 2003), a encouru annuellement des pertes à l’égard de la prétendue exploitation d’une entreprise forestière, sauf pour l’année d’imposition 1999; (nié)
+h) pour les années d’imposition en litige, les pertes encourues étaient pratiquement égales au revenu d’emploi de l’appelant; (aucune connaissance)
+i) pour les années d’imposition 2002 et 2003, la vérificatrice constata la répartition du revenu brut provenant d’une prétendue exploitation d’une entreprise forestière en ces divers éléments suivants :
+2002
+2003
+i)
+subventions
+2 419
+4 897
+ii)
+ventes de sirop
+5 345
+3 722
+iii)
+ventes de sous-produits de sirop
+649
+1 656
+iv)
+revenus d’intérêts (sirop)
+122
+1 146
+v)
+revenu brut de location
+2 000
+2 000
+vi)
+revenus divers
+2 290
+3 526
+vii)
+ventes de bois
+36
+0
+12 861
+16 947
+(admis)
+j) le ministre considère que la sylviculture et la production de sirop d’érable représentent des activités générant des revenus agricoles plutôt que provenant d’opérations forestières; (nié)
+k) le ministre considère cependant que l’appelant exploite une entreprise agricole ne constituant pas sa principale source de revenu. (nié)
+[3] L’appelant, dont la crédibilité n’a pas à être mise en doute, a témoigné que :
+a) pendant les années en litige, il occupait un poste de releveur de compteurs chez Hydro-Québec;
+b) son revenu d’emploi pendant ces années avait été de 38 960 $ et de 40 000 $ en 2002 et en 2003, respectivement;
+c) il avait travaillé pendant 130 jours pour Hydro-Québec pendant l’année 2003. Il convient de souligner que l’appelant a déposé en preuve sous la cote A-11 des relevés d’Hydro-Québec pour appuyer son témoignage à cet égard;
+d) il avait consacré 1 375 heures de travail à son entreprise en 2003, réparties sur 235 jours;
+e) pendant l’année 2002, les jours de travail pour Hydro-Québec et, les jours et les heures consacrés à son entreprise avaient été sensiblement les mêmes qu’en 2003;
+f) il est propriétaire de boisés depuis 1983. Pendant les années en litige, il était propriétaire de boisés d’une superficie d’environ 176 hectares;
+g) en 1986, il est devenu producteur forestier au sens de l’article 120 de la Loi sur les forêts (L.R.Q., ch. F‑4.1). En devenant producteur forestier, l’appelant est devenu admissible au programme d’aide à la mise en valeur des forêts privées. Ce programme offre une aide financière et technique aux producteurs forestiers pour la réalisation d’activités forestières dans les forêts privées. Ces activités ont pour but de protéger et de mettre en valeur toute superficie à vocation forestière enregistrée, conformément à l’article 120 de la Loi sur les forêts[1]. Les activités couvertes par l’aide sont :
+a) l’élaboration de plans d’aménagement forestiers;
+b) l’aide technique;
+c) l’exécution de travaux sylvicoles;
+d) la fourniture de plants pour le reboisement.
+Il convient de souligner que le producteur doit faire appel à un conseiller forestier accrédité pour obtenir l’aide financière accordée et profiter des services professionnels et techniques nécessaires à l’exécution des travaux admissibles. L’appelant a expliqué que, pour bénéficier de cette aide, il avait fait appel en 1986 au cabinet d’ingénieurs forestiers Sylva Croissance, cabinet qui le conseille depuis cette date pour l’aménagement de ses boisés;
+h) grâce à ce programme d’aide, il a notamment fait les travaux suivants :
+i) en 1987, il a préparé 1,5 hectare de terrain (scarifiage, labourage, brûlage, etc.) et a planté sur cette superficie 7 500 épinettes;
+ii) en 1988, il a préparé 1,1 hectare de terrain et a planté sur cette superficie 2 700 épinettes, en plus de faire l’entretien de la plantation sur 3 hectares;
+iii) en 1998, il a construit 1,4 kilomètre de chemins forestiers en plus d’améliorer 0,774 kilomètre de chemins forestiers;
+iv) en 2000, il a procédé à une éclaircie précommerciale sur une superficie de 2 hectares. Il convient de souligner que l’éclaircie commerciale est une activité de coupe visant à sélectionner et à dégager les jeunes arbres futurs de leurs voisins moins prometteurs qui nuisent à leur croissance. Ce type de coupe est dite « précommerciale » parce que les tiges coupées n’ont pas les dimensions nécessaires pour être utilisées par l’industrie. Les tiges sont donc laissées sur place où, en se décomposant, elles enrichissent le sol;
+v) en 2000, il a procédé à une éclaircie commerciale sur une superficie de 0,7 hectare. L’éclaircie commerciale est une pratique sylvicole qui consiste à enlever une partie des arbres de la forêt dans le but de fournir davantage de lumière et d’espace aux arbres que l’on choisit de laisser sur place. L’éclaircie commerciale permet de récupérer des arbres qui tôt ou tard mourraient ou ne pourraient être récupérés;
+vi) en 2000, il a construit 0,846 kilomètre de chemins forestiers;
+vii) en 2001, il a procédé à une éclaircie précommerciale sur une superficie d’un hectare;
+viii) en 2003, il a construit 2,92 kilomètres de chemins forestiers;
+i) conjointement à ces travaux subventionnés, il a récupéré (abattu et débité) du bois destiné à la vente. Il convient de souligner que les revenus de l’appelant liés à la vente du bois destiné aux usines de sciage et aux papeteries sont les suivants :
+en 1988 :
+19 054 $
+en 1989 :
+27 001 $
+en 1990 :
+5 558 $
+en 1991 :
+667 $
+en 1992 :
+4 636 $
+en 1993 :
+365 $
+en 1994 :
+néant
+en 1995 :
+2 379 $
+en 1996 :
+1 454 $
+en 1997 :
+6 093 $
+en 1998 :
+15 267 $
+en 1999 :
+215 922 $
+en 2000 :
+77 247 $
+en 2001 :
+14 751 $
+en 2002 :
+36 $
+en 2003 :
+néant
+Je souligne immédiatement que l’appelant n’a pas été en mesure de préciser le nombre d’hectares sur lesquels les travaux de coupe ont été réalisés;
+j) il a effectué lui-même les travaux de débitage et d’abattage d’arbres, sauf en 1999 et 2000, où il avait confié ces travaux à des sous-traitants. L’appelant a expliqué qu’il avait récupéré une grande quantité de bois destinée à la vente en 1999 et 2000 dans le but de réduire sa dette liée à l’acquisition d’un boisé en 1999, dette qu’il n’était plus en mesure de supporter;
+k) il n’a récupéré aucune quantité de bois destinée à la vente pendant les années en litige. L’appelant a expliqué qu’il avait consacré l’essentiel de son temps pendant ces années à construire des chemins forestiers et à réparer ses chalets situés dans le boisé qu’il avait acheté en 1999;
+l) à partir de 1998, il décide de diversifier son entreprise en se lançant dans la production de sirop d’érable. Pour ce faire, il loue du ministère des Ressources naturelles un terrain d’une superficie de 146 acres qui contient une érablière et achète de l’équipement pour produire du sirop d’érable. Vu l’effondrement du marché du sirop d’érable en 2000, il décide de vendre son équipement acéricole et de diminuer considérablement sa production de sirop d’érable en attendant de trouver un acheteur pour son équipement. En 2002, il vend l’essentiel de son équipement acéricole et exploite sur une base artisanale une partie de l’érablière jusqu’en 2005, année où il abandonne complètement la production de sirop d’érable.
+[4] La preuve a aussi révélé que :
+a) l’appelant, pour la période de 17 ans de 1987 à 2003, a subi annuellement des pertes à l’égard de son entreprise, sauf en 1999;
+b) pour les années de 1987 à 2003, le revenu brut d’entreprise de l’appelant, son revenu net d’entreprise et son revenu d’emploi étaient les suivants :
+Revenu
+d’entreprise
+brut
+Revenu
+d’entreprise
+net
+Revenu
+d’emploi
+Type de revenu selon la déclaration de revenu
+1987
+1 548 $
+-3 384 $
+42 680 $
+Revenu d’agriculture
+1988
+25 864 $
+-8 979 $
+38 145 $
+Revenu d’entreprise
+1989
+27 975 $
+-5 028 $
+27 766 $
+Revenu d’agriculture
+1990
+5 851 $
+-9 761 $
+45 658 $
+Revenu d’entreprise
+1991
+870
+-11 017 $
+41 227 $
+Revenu d’entreprise
+1992
+6 623 $
+-446 $
+39 880 $
+Revenu d’agriculture
+1993
+429 $
+-8 743 $
+40 136 $
+Revenu d’agriculture
+1994
+1 115 $
+- 4 176 $
+45 456 $
+Revenu d’agriculture
+1995
+6 452 $
+-3 520 $
+38 763 $
+Revenu d’agriculture
+1996
+1 454 $
+-6 343 $
+40 446 $
+Revenu d’agriculture
+1997
+6 083 $
+-4 175 $
+42 277 $
+Revenu d’agriculture
+1998
+36 632 $
+- 1 891 $
+39 728 $
+Revenu d’agriculture
+1999
+234 290 $
+9 824 $
+24 130 $
+Revenu d’entreprise
+2000
+117 884 $
+-31 112 $
+41 300 $
+Revenu d’entreprise
+2001
+34 554 $
+-57 715 $
+41 439 $
+Revenu d’entreprise
+2002
+14 244 $
+-43 292 $
+44 050 $
+Revenu d’agriculture
+2003
+18 287 $
+-37 062 $
+43 269 $
+Revenu d’agriculture
+Il convient de souligner que l’appelant a lui-même décrit dans ses déclarations de revenu pour ces années ses revenus d’entreprise comme étant des revenus agricoles, sauf pour les années 1999 à 2001;
+c) Pour les années 1998 à 2006, les revenus bruts d’entreprise de l’appelant se répartissent en ces divers éléments suivants :
+Vente de
+boisés
+Vente de
+sirop
+Autres
+revenus
+Location de
+chalets
+Total
+1998
+20 267
+14 191
+2 172
+36 630
+1999
+215 922
+14 885
+3 483
+234 290
+2000
+77 247
+26 107
+14 529
+117 883
+2001
+14 751
+15 775
+4 028
+34 554
+2002
+36
+5 345
+7 480
+12 861
+2003
+3 759
+13 598
+17 357
+2004
+1 170
+5 494
+5 576
+2 000
+14 240
+2005
+5 949
+2 000
+5 322
+7 600
+20 871
+2006
+13 773
+11 578
+2 400
+27 751
+______________________________________________________________
+Total
+349 115
+87 556
+67 766
+12 000
+516 437
+d) les dettes à long terme de l’entreprise de l’appelant étaient de 220 851 $ au 31 décembre 2000, de 205 514 $ au 31 décembre 2001, de 156 408 $ au 31 décembre 2002, de 142 276 $ au 31 décembre 2003, de 127 040 $ au 31 décembre 2004, de 117 242 $ au 31 décembre 2005 et de 107 291 $ au 31 décembre 2006;
+e) les apports en capital de l’appelant à son entreprise avaient été les suivants :
+Année
+Apports
+1998
+‑
+1999
+12 000
+2000
+43 387
+2001
+47 082
+2002
+39 555
+2003
+38 070
+2004
+31 762
+2005
+18 643
+2006
+25 301
+f) les intérêts payés par l’appelant sur la dette à long terme de l’entreprise avaient été les suivants :
+Année
+Intérêts payés
+1998
+2 729
+1999
+12 960
+2000
+16 301
+2001
+16 006
+2002
+14 548
+2003
+10 703
+2004
+7 552
+2005
+7 011
+2006
+7 211
+Position de l’appelant
+[5] La position soutenue par l’appelant lors de l’audition est essentiellement celle que l’on retrouve dans son avis d’appel et qui se lit comme suit :
+Je suis un fils de bûcheron et j’ai été moi-même bûcheron professionnel de 1969 à 1978. J’ai ensuite suivi un cours de soudure et j’ai été embauché par Hydro‑Québec en 1981, entreprise pour laquelle je travaille toujours.
+Depuis 1983, je suis aussi propriétaire de boisés dont la superficie approximative est évaluée aujourd’hui à 500 acres. Le fruit de l’abattage de ces arbres est destiné à la vente, soit pour le sciage, le déroulage, les panneaux, la pulpe pour les pâtes et papier ou pour le bois de chauffage.
+Mon projet étant à caractère multiressources et la situation géographique favorisant une telle activité, j’ai acheté la terre adjacente à mes propriétés sur laquelle quatre chalets étaient déjà construits. Après certains travaux d’entretien, ces chalets pouvaient être mis en location. De plus, cette acquisition me permettait d’agrandir mon boisé. Pour attirer la clientèle, nous devions avoir des activités à offrir pendant les quatre saisons, ce qui m’a amené à louer, du ministère des Ressources naturelles, un superficie de terrain de 146 acres contenant une érablière servant à la production de sirop d’érable. Les informations que j’avais reçues à l’époque me permettaient de croire en la viabilité et en la rentabilité du projet. Du même coup, la saison du dégel étant peu propice à la foresterie, je croyais pouvoir rentabiliser cette période de l’année. Mais hélas, les informations que j’avais reçues du ministère-conseil ne se sont pas avérées totalement vraies. Mais, les investissements étaient déjà faits. La situation économique du marché du sirop d’érable s’est effondrée. Pour toutes ces raisons, mon plan s’en est retrouvé affecté et ma situation financière est devenue très précaire. Dès l’an 2000, ma décision de me départir de mes équipements acéricoles était prise mais près de deux ans se sont écoulés avant que je trouve un acheteur. Ce qui ne devait être qu’une parenthèse de diversification de mon revenu est devenu mon cauchemar économique.
+Mon entreprise n’en est pas une de type agricole à temps partiel mais plutôt une entreprise forestière à caractère commercial. Le revenu que j’en tire provient principalement de la vente du bois aux usines et aux papetières. Depuis 1998, soit l’année où j’ai entrepris la diversification de mon portefeuille, mon revenu brut cumulatif d’entreprise s’élève à tout près du demi-million de dollars et 69 % de ce revenu proviennent de la vente du bois selon mes états financiers.
+J’effectue des travaux de débitage et d’abattage d’arbres. Je ne reboise pas mes terres mais je favorise plutôt la régénérescence naturelle, la superficie étant assez grande pour le permettre et ainsi contribuer au développement durable. Pour ce faire, je suis assisté d’un ingénieur forestier qui a d’ailleurs élaboré un plan de gestion pour mon entreprise. Mais, il va sans dire que certains travaux, comme la construction de chemins, doivent être faits. Ce sont des heures de travail qui ne génèrent pas de revenus immédiats mais des dépenses. C’est pourquoi une entreprise doit être examinée dans son ensemble. Une année où les revenus peuvent sembler faibles, ne veut pas dire que les heures de travail investies sont moindres.
+Je m’appuierai donc sur le bulletin d’interprétation IT-373R2 pour vous démontrer que mon boisé est un boisé commercial pour lequel il existe un plan de gestion et que j’ai les compétences et l’expérience pour l’exploiter. Je vends de la matière première pour le bois d’œuvre et mes revenus sont assujettis au prix du marché. Je vous présenterai un document prouvant l’espoir raisonnable de profit que je peux tirer de mon entreprise.
+De bonne foi, je suis convaincu que l’article 31, qui limite la déductibilité des pertes, ne s’applique pas à mon entreprise car je vous démontrerai que mon boisé est commercial et non agricole. La nature seule s’occupe de la production du bois, je n’effectue aucun traitement spécial. Je ne fais pas de « culture de bois ». Je prélève du bois qui pousse de façon totalement naturelle sur la terre dont je suis propriétaire et le revends aux entreprises qui en font la transformation.
+[. . .]
+Analyse
+[6] L’appelant prétend essentiellement que son entreprise (dont 68 % des revenus de 1998 à 2006 proviennent de la vente de bois) n’est pas une entreprise agricole, mais une entreprise forestière à caractère commercial. À cet égard, l’appelant soutient que son boisé d’une superficie d’environ 180 hectares était utilisé pour des activités forestières alors que l’intimée prétend qu’il l’était par une entreprise agricole.
+[7] J’aimerais d’abord citer le passage suivant où le juge Dussault, dans l’affaire Desrosiers[2], nous fait part de son analyse (qui m’apparaît très pertinente en l’espèce) du terme « agriculture » tel qu’il est défini au paragraphe 248(1) de la Loi et des éléments dont il faut tenir compte et qu’il faut analyser dans notre démarche visant à déterminer si nous sommes en présence ou non d’une exploitation agricole :
+51 Le paragraphe 248(1) de la Loi n'établit pas une définition véritable du terme agriculture. Toutefois, il indique ce qui suit :
+« agriculture » Sont compris dans l'agriculture la culture du sol, l'élevage ou l'exposition d'animaux de ferme, l'entretien de chevaux de course, l'élevage de la volaille, l'élevage des animaux à fourrures, la production laitière, la pomoculture et l'apiculture. Ne sont toutefois pas visés par la présente définition la charge ou l'emploi auprès d'une personne exploitant une entreprise agricole.
+52 Évidemment, une telle définition ne se veut pas exhaustive. Le recours au sens ordinaire du terme semble donc approprié pour en circonscrire la portée.
+53 Dans le Grand Robert, Dictionnaire alphabétique et analogique de la langue française, 2e édition, 1988 (« Le Grand Robert »), le terme agriculture est défini dans son sens premier de la manière suivante :
+Culture, travail de la terre; par ext., production des plantes et des animaux utiles fournissant les denrées alimentaires et les matières premières d'autres industries. --> Culture; apiculture, arboriculture, aviculture, horticulture, pisciculture, sériciculture, sylviculture, viticulture; élevage; primaire (secteur primaire).
+54 Si une telle définition n'établit pas les limites absolues du terme elle n'en indique pas moins un certain nombre d'activités qui lui sont associées et qui dépassent celles qui sont déjà énumérés dans la Loi. Les termes arboriculture et sylviculture sont évidemment ceux qui nous intéressent dans la présente affaire. Ces termes ne sont aucunement définis dans la Loi. Le grand Robert les définit respectivement ainsi :
+ARBORICULTURE [. . .]
+Partie de l'agriculture qui a pour objet la culture des plantes ligneuses. --> Arbre. Arboriculture forestière. --> Foresterie, sylviculture. - Spécialt. Production de fruits. Arboriculture fruitière. --> Agrumiculture, horticulture, pomoculture (ou pomologie), viticulture. Arboriculture d'ornement. --> Jardinage; horticulture.
+SYLVICULTURE
+[. . .]
+Didact. Exploitation rationnelle des arbres forestiers (conservation, entretien, régénération, reboisement, etc.). --> Arboriculture.
+55 Dans le même ouvrage on donne au verbe « exploiter » dans l'expression « exploiter un bois » le sens d'« en abattre et débiter les arbres ».
+56 Où nous mènent ces définitions? Si elles ne tracent pas une ligne de démarcation absolue entre les termes « agriculture » d'une part et « opérations forestières » ou « exploitation forestière » d'autre part, elles indiquent de façon assez claire les activités qui sont plus précisément associées à l'une ou à l'autre et dont il convient de mesurer l'ampleur respective dans la mesure où elles coexistent. Dans un cas limite comme le cas présent, c'est donc ultimement en fonction de la nature des activités et de leur importance relative que la solution doit être recherchée.
+57 On aura déjà remarqué ici que cette démarche est précisément celle suggérée au paragraphe 13. du Bulletin d'interprétation IT-373R2 portant sur les « Boisés » et publié en date du 16 juillet 1999. Comme on le sait, ces bulletins ne lient pas les tribunaux mais peuvent s'avérer très utiles lorsque certaines difficultés d'interprétation se présentent. La date récente de publication ne saurait, à mon avis, constituer un obstacle au regard de la présente affaire dans la mesure ou il y est exprimée une démarche logique, réaliste et nuancée. J'ajouterai que pour la question qui nous concerne, les idées exprimées ne sont aucunement le résultat de changements législatifs ou jurisprudentiels récents. Pour fins de commodité, je reproduis à nouveau le paragraphe 13. du Bulletin d'interprétation IT-373R2 qui se lit ainsi :
+No. 13. Ce sont les faits entourant chaque cas qui déterminent si un boisé constitue une exploitation agricole, une exploitation forestière ou une quelconque entreprise commerciale. Si les activités d'une entreprise exploitée avec un espoir raisonnable de profit (un BOISÉ COMMERCIAL) n'ont pas comme principal objet d'abattre ou de débiter du bois mais plutôt de planter, de soigner et de récolter des arbres dans le cadre d'un plan de gestion forestière ou d'un autre plan semblable de gestion des ressources, et si l'on a apporté beaucoup de soin à la croissance, à la santé, à la qualité et à la composition des peuplements, on considère en général qu'il s'agit d'une entreprise agricole (un BOISÉ DE FERME COMMERCIAL). En revanche, si la principale activité de l'entreprise est l'exploitation forestière (boisé commercial non agricole) et qu'elle ne consiste pas à planter, soigner et récolter des arbres, le fait que des activités de reboisement ont cours ne transforme pas l'entreprise en une exploitation agricole.
+[8] Donc, pour décider si l’appelant exploitait une entreprise agricole ou une entreprise forestière, il faut à mon avis établir, à partir de la preuve soumise, les activités (liées à l’exploitation des boisés) réellement exercées par l’appelant, puis déterminer parmi celles-ci les activités qui étaient précisément associées à l’une ou l’autre entreprise, et finalement déterminer leur importance relative. En d’autres termes, dans un cas limite comme le cas présent, c’est ultimement en fonction de la nature des activités et de leur importance relative que la solution doit être recherchée.
+[9] Les activités (liées à l’exploitation du boisé) réellement exercées par l’appelant pendant les années 1987 à 2003 étaient les suivantes :
+a) L’appelant a fait des travaux liés à la conservation, à l’entretien, à la régénération et au reboisement de son boisé (travaux qui, à mon avis, sont précisément associés à une entreprise agricole) sur une superficie d’un peu plus de 9 hectares, donc sur environ 5 % de la superficie totale de son boisé qui, je le rappelle, s’étend sur environ 180 hectares. Je note qu’à partir de 1999, l’appelant a fait des travaux de cette nature sur une superficie représentant à peine 2 % de la superficie totale de son boisé. Enfin, je souligne que l’appelant n’a pas fait de travaux de cette nature pendant les années en litige.
+b) L’appelant a, par ailleurs, construit environ 4 kilomètres de chemins forestiers sur son boisé, dont 2,3 kilomètres pendant les années en litige. Il convient de souligner que l’appelant a construit à toutes fins utiles lui-même les chemins forestiers, et ce, en utilisant la machinerie et l’équipement dont il était propriétaire. À mon avis, cette activité doit précisément être associée à l’exploitation d’une entreprise forestière et aucunement associée à une entreprise agricole parce qu’elle a pour objet principal de permettre à l’exploitant d’accéder à la ressource forestière. En fait, les chemins forestiers permettent l’exploitation rationnelle et rentable de la ressource forestière parce qu’ils permettent à l’équipement forestier lourd d’accéder à la ressource forestière et facilitent le transport de la ressource destinée à la vente. Je souligne, à cet égard, que monsieur Alex Gagnon (l’ingénieur forestier de l’appelant pendant plusieurs années) a témoigné que les travaux de construction de chemins forestiers étaient très onéreux et peu subventionnés.
+c) Enfin, l’appelant a coupé et abattu (travaux qui, à mon avis, sont précisément associés à une entreprise forestière) des arbres dont le bois était destiné à la vente aux papeteries et scieries. Bien que l’appelant n’ait pas été en mesure de préciser le nombre d’hectares sur lesquels les travaux de coupe ont été réalisés à partir de 1987, la preuve a toute de même révélé que pendant les années 1998 à 2006, l’entreprise de l’appelant a généré un revenu brut cumulatif d’environ 500 000 $, dont 68 % provient de la vente de bois à des scieries et papeteries. En fait, les ventes annuelles de l’appelant pendant cette période se chiffraient à environ 39 000 $ en moyenne. Il convient de souligner que les travaux de coupe ont été exécutés par l’appelant pendant cette période, à l’exception des années 1999 et 2000, où il a eu recours à des sous-traitants pour ce faire. Enfin, je note que l’appelant n’a pas fait de travaux de coupe pendant les années en litige.
+[10] L’avocate de l’intimée a soutenu que les activités de l’appelant n’avaient pas « comme principal objet d’abattre ou de débiter du bois mais plutôt de planter, de soigner et de récolter des arbres dans le cadre d’un plan de gestion forestière ou d’un autre plan semblable de gestion des ressources », pour reprendre les termes utilisés au paragraphe 13 du Bulletin d’interprétation IT-373R2, et ce, essentiellement parce que l’appelant n’a pas démontré que les travaux de coupe ont été réalisés sur des superficies plus grandes que celles qui ont fait l’objet de travaux liés à la conservation, l’entretien, la régénération et le reboisement, travaux qui, je le rappelle, ont été effectués sur une superficie représentant à peine 5 % de la superficie totale du boisé de l’appelant. L’avocate de l’intimée a aussi insisté sur le fait que l’appelant a décrit son entreprise d’entreprise agricole dans ses déclarations de revenu.
+[11] Décider que l’entreprise de l’appelant est une entreprise agricole pour le motif qu’il a pas démontré que les travaux de coupe ont été réalisés sur une superficie plus grande que celle qui a fait l’objet de travaux liés à la conservation, l’entretien, la régénération et le reboisement m’apparaît pour le moins trop réducteur et simpliste. Le facteur de la superficie liée à l’une ou l’autre des activités est un facteur qu’il faut considérer mais ne peut, à mon avis, être déterminant, d’autant plus qu’en l’espèce les travaux dits agricoles ont été exécutés depuis 1987 sur à peine 5 % de la superficie du boisé et sur à peine 2 % de la superficie depuis 1999. Il faut plutôt considérer un ensemble de facteurs, notamment le temps et les ressources financières ou autres consacrées par l’appelant à chacune des activités. À cet égard, il m’apparaît invraisemblable de conclure à la lumière de la preuve soumise que le temps consacré par l’appelant de 1987 à 2003 aux travaux de coupe et à la construction de chemins forestiers était moins important que le temps consacré à entretenir, à conserver, à régénérer et à reboiser moins de 5 % de la superficie du boisé. Il m’apparaît aussi très évident que la partie la plus importante des ressources financières était consacrée par l’appelant à la construction de chemins forestiers et à la coupe de bois.
+[12] Pour ces motifs, je suis d’avis que l’entreprise de l’appelant n’était pas une entreprise agricole mais plutôt une entreprise forestière puisque les activités purement associées à cette dernière étaient plus importantes que celles précisément associées à une entreprise agricole. Par conséquent, l’appelant avait le droit de déduire de son revenu d’emploi dans les années en cause les pertes liées à l’exploitation de l’entreprise forestière pendant ces mêmes années.
+[13] Pour ces motifs, l’appel est accueilli.
+Signé à Ottawa, Canada, ce 20e jour de mai 2008.
+« Paul Bédard »
+Juge Bédard
+RÉFÉRENCE : 2008CCI257
+Nº DU DOSSIER DE LA COUR : 2007-1469(IT)I
+INTITULÉ DE LA CAUSE : JEAN-CLAUDE RICHARD, S/N PRODUITS FORESTIERS J.C.R. ENR. ET SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATE DE L’AUDIENCE : le 16 janvier 2008
+MOTIFS DU JUGEMENT PAR : L'honorable juge Paul Bédard
+DATE DU JUGEMENT : le 20 mai 2008
+COMPARUTIONS :
+Pour l'appelant :
+L'appelant lui-même
+Avocat de l'intimée :
+Me Janie Payette
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelant:
+Nom :
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] (Voir la pièce I-2)
+[2] Desrosiers, succession c. Canada, [2000] A.C.I. no 160 (QL), no du greffe 98-906(IT)G.

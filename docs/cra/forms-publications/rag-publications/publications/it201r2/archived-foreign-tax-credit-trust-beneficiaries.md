@@ -1,0 +1,230 @@
+---
+title: "ARCHIVED - Foreign Tax Credit - Trust and Beneficiaries"
+source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it201r2/archived-foreign-tax-credit-trust-beneficiaries.html
+last_modified: 2017-11-07
+---
+# ARCHIVED - Foreign Tax Credit - Trust and Beneficiaries
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+[What the "Archived Content" notice means for interpretation bulletins](https://www.canada.ca/en/revenue-agency/services/forms-publications/what-archived-content-notice-means-interpretation-bulletins.html)
+
+| NO.: | **IT-201R2** |  | DATE: | February 12, 1996 |
+
+| --- | --- | --- | --- | --- |
+
+| SUBJECT: | INCOME TAX ACT **Foreign Tax Credit -- Trust and Beneficiaries** |  |  |  |
+
+| REFERENCE: | Subsections 104(22) to (22.4) (also section 126; subsections 20(11) and (12), and 104(13) and (14); and the definitions of "business-income tax" and "non-business-income tax" in subsection 126(7) of the *Income Tax Act*) |  |  |  |
+
+### Notice -- Bulletins do not have the force of law
+
+***This document is also available for [download in PDF format](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it201r2.html).***
+
+## Foreign Tax Credit -- Trust and Beneficiaries
+
+## Contents
+
+- *[Application](#P66_2707)*
+
+- *[Summary](#P68_2809)*
+
+- *[Discussion and Interpretation](#P70_3337)*
+
+    - [Designation of foreign source income](#P71_3366) (¶s 1-2)
+
+    - [Flow-through of business-income tax or non-business-income tax](#P79_4828) (¶s 3-4)
+
+    - [T3 Supplementary](#P83_6207) (¶ 5)
+
+    - [Recalculation of a trust's foreign source income and foreign tax](#P88_6668) (¶ 6)
+
+    - [Allocation of residual income](#P90_7382) (¶ 7)
+
+    - [Incomplete or invalid designations](#P379_8519) (¶ 8)
+
+    - [Deduction from income](#P381_8783) (¶ 9)
+
+- *[Explanation of Changes](#P397_9285)*
+
+## Application
+
+This bulletin cancels and replaces Interpretation Bulletin IT-201R dated September 4, 1984.
+
+## Summary
+
+This bulletin discusses the rules that allow a trust to designate trust income from a foreign source included in a beneficiary's income as income of the beneficiary from that foreign source. Only a trust that is resident in Canada throughout a taxation year can make this designation. As a result of the designation, the beneficiary is treated as having paid a pro-rata share of any business-income tax or non-business-income tax paid by the trust on that foreign source income for the purposes of the foreign tax credit.
+
+## Discussion and Interpretation
+
+### Designation of foreign source income
+
+**¶1.** Subsection 104(22) allows a trust to designate its foreign source income for a taxation year to its beneficiaries provided the trust was resident in Canada throughout the year. The designation is made in the trust's income tax return for the year. The amount that a trust can designate in respect of a particular beneficiary is limited to the portion of the trust's income for the year from a source in a country other than Canada that
+
+- can reasonably be considered (having regard to all the circumstances including the terms and conditions of the trust arrangement) to be part of the income that was included in the beneficiary's income by virtue of subsection 104(13) or (14) (see the current versions of IT-342, *Trusts -- Income Payable to Beneficiaries*, and IT-394, *Preferred Beneficiary Election*); and
+
+- is not designated by the trust in respect of any other beneficiary.
+
+When the trust has made this designation, subsection 104(22) deems the designated income to be income of the particular beneficiary from that foreign source for the purposes of subsections 104(22) and (22.1) and the foreign tax credit rules under section 126.
+
+**¶** **2.** When a beneficiary of a trust is another trust, the other trust can, within the terms of subsection 104(22), designate foreign source income to its own beneficiaries that had been designated to it in its capacity as beneficiary, and *ad infinitum* if there are other trusts in succession.
+
+### Flow-through of business-income tax or non-business-income tax
+
+**¶ 3.** For the purposes of subsections 104(22) to (22.3), subsection 104(22.4) provides that the expressions "business-income tax" and "non-business-income tax" have the meanings assigned by subsection 126(7). These expressions are discussed in detail in the current version of IT-270, *Foreign Tax Credit*.
+
+**¶** **4.** When, as a result of a designation described in ¶ [1](#P72_3403) above, a portion of the income of a trust from a foreign source is deemed to be income of a beneficiary from that source for a particular taxation year, subsection 104(22.1) deems the beneficiary to have paid for that particular year a pro-rata share of the business-income tax or non-business-income tax paid by the trust on that income for the purposes of determining the beneficiary's foreign tax credit under section 126. The pro-rata share is equal to the proportion of the business-income tax or non-business-income tax paid by the trust on the foreign source income for a taxation year of the trust that ends in the particular year that the beneficiary's deemed income under subsection 104(22) from that source is of the trust's income for the year from that source. For this purpose, the business-income tax or non-business-income tax paid by the trust is the amount paid by the trust before it is reduced under subsection 104(22.3) (see ¶ [6](#P89_6734) below).
+
+### T3 Supplementary
+
+**¶** **5.** The Canadian dollar equivalent of the beneficiary's share of:
+
+- deemed foreign source income; and
+
+- the related business-income tax or non-business-income tax
+
+are reported on the beneficiary's T3 Supplementary. For information on the applicable conversion rate principles to follow when converting foreign source income and the related business-income tax or non-business-income tax into Canadian dollars, refer to the current version of IT-270.
+
+### Recalculation of a trust's foreign source income and foreign tax
+
+**¶** **6.** For the purposes of determining the foreign tax credit of a trust that has made a designation under subsection 104(22), subsection 104(22.2) provides that the trust must reduce its income from a foreign source for a taxation year by the total of all amounts deemed to be income of its beneficiaries from that source as designated in ¶ [1](#P72_3403) above. Under subsection 104(22.3), the trust must also reduce the business-income tax or non-business-income tax that it paid for the year in respect of that source by the total of all amounts deemed to be paid by its beneficiaries as business-income tax or non-business-income tax in respect of that source.
+
+### Allocation of residual income
+
+**¶** **7.** When foreign income forms part of the residual income of the trust, it is usually allocated to the beneficiaries and the trust, when applicable, in the ratio that they share the residual income.
+
+***Example***
+
+Trust deed requires:
+
+- U.S. bond interest to go to A
+
+- Canadian bond interest to go to B
+
+- 1/6 of the residual income to go to C
+
+- 1/2 of the residual income to go to D
+
+- The remaining 1/3 to be accumulated in the trust
+
+|  |  | **All Income** |  | **Foreign Source Income** |  | **Non- business- income Tax Paid** |  |  |  |  |
+
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+| Income of trust: |  |  |  |  |  |  |  |  |  |  |
+
+| U.S. bond interest |  | $ | 2,500 |  | $ | 2,500 |  | $ | 375 |  |
+
+| Canadian bond interest |  |  | 1,500 |  |  |  |  |  |  |  |
+
+| U.S. dividends |  |  | 600 |  |  | 600 |  |  | 90 |  |
+
+| Other Canadian income |  |  | 5,400 |  |  |  |  |  |  |  |
+
+|  |  |  | --------- |  |  | --------- |  |  | --------- |  |
+
+| Total |  | $ | 10,000 |  | $ | 3,100 |  | $ | 465 |  |
+
+|  |  |  | ===== |  |  | ===== |  |  | ===== |  |
+
+| Income allocation and designation: |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+|  |  | **All Income** |  | **Foreign Source Income Designated** |  |  |  |  |  |  |  |  |
+
+| A |  |  |  |  | $ | 2,500 |  |  |  |  | $ | 2,500 |
+
+| B |  |  |  |  |  | 1,500 |  |  |  |  |  |  |
+
+| Residual income: |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| C (1/6) |  | $ | 1,000 |  |  |  |  | $ | 100 |  |  |  |
+
+| D (1/2) |  |  | 3,000 |  |  |  |  |  | 300 |  |  |  |
+
+| Trust (1/3) |  |  | 2,000 |  |  | 6,000 |  |  | 200 |  |  | 600 |
+
+|  |  |  | --------- |  |  | --------- |  |  | --------- |  |  | --------- |
+
+| Total |  |  |  |  | $ | 10,000 |  |  |  |  | $ | 3,100 |
+
+|  |  |  |  |  |  | ===== |  |  |  |  |  | ===== |
+
+Non-business-income tax allocation:
+
+|  | A |  | $ | 375 |  | ($375 × $2,500/$2,500) |
+
+| --- | --- | --- | --- | --- | --- | --- |
+
+|  | B |  |  | -- |  |  |
+
+|  | C |  |  | 15 |  | ($90 × $100/$600) |
+
+|  | D |  |  | 45 |  | ($90 × $300/$600) |
+
+|  | Trust |  |  | 30 |  | ($90 - ($15 + $45)) |
+
+|  |  |  |  | ------- |  |  |
+
+|  | Total |  | $ | 465 |  |  |
+
+|  |  |  |  | ===== |  |  |
+
+### Incomplete or invalid designations
+
+**¶ 8.** When a designation by a trust is incomplete or is invalid because it designates too large an amount, the trust will be given an opportunity to provide the information necessary to complete the designation or to make a new one.
+
+### Deduction from income
+
+**¶ 9.** While the rules in subsections 104(22) to (22.3) apply for the purposes of section 126, they do not apply for the purposes of subsection 20(11) or (12). As a result, a beneficiary cannot claim any non-business income tax allocated to it under these rules as a deduction from income under subsection 20(11) or (12). For more information on the deduction under subsection 20(11) or (12), see the current version of IT-506, *Foreign Income Taxes as a Deduction From Income*.
+
+## Explanation of Changes
+
+### Introduction
+
+The purpose of the *Explanation of Changes* is to give the reasons for the revisions to an interpretation bulletin. It outlines revisions that we have made as a result of changes to the law, as well as changes reflecting new or revised departmental interpretations.
+
+### Overview
+
+This bulletin discusses the rules in subsections 104(22) to (22.4) which allow a trust resident in Canada to designate foreign source income to a beneficiary under the trust. These rules also permit a pro-rata share of the business-income tax or non-business-income tax paid on that income to flow through to the beneficiary for the purposes of the foreign tax credit.
+
+We revised the bulletin to reflect amendments to subsection 104(22) enacted in S.C. 1994, c. 21 (formerly Bill C-27). Subsection 104(22) was amended by dividing the subsection into five new subsections. These new subsections require that a designation of foreign source income be made on a source-by-source basis. The comments in this bulletin are not affected by any draft legislation released before September 28, 1995.
+
+### Legislative and other changes
+
+New ¶ [1](#P72_3403) (former ¶ 2) reflects the amendment to subsection 104(22) to allow a trust resident in Canada to designate foreign source income to its beneficiaries. This amendment applies to taxation years ending after November 12, 1981, except that, for trusts resident outside Canada for taxation years commencing before 1988, the amendment applies for taxation years ending after November 12, 1981, and commencing before 1988.
+
+New ¶ [3](#P80_4892) deals with subsection 104(22.4) which defines "business-income tax" and "non-business-income tax" by reference to the definitions of those expressions in section 126.
+
+New ¶ [4](#P81_5194) (former ¶ 3) discusses subsection 104(22.1) which corresponds to former paragraph 104(22)(b). Subsection 104(22.1) treats a beneficiary under a trust, as a result of the trust's designation under subsection 104(22), as having paid a pro-rata share of business-income tax or non-business-income tax paid by the trust.
+
+New ¶ [5](#P84_6225) (former ¶ 4) has been revised to reflect subsection 104(22.1) which makes a distinction between business-income tax and non-business-income tax. The former wording of subsection 104(22) did not distinguish between these two types of taxes even though a beneficiary's share of foreign tax had to be divided into business and non-business categories for reporting purposes.
+
+New ¶ [6](#P89_6734) (former ¶ 5) discusses subsections 104(22.2) and (22.3) which correspond to former paragraphs 104(22)(c) and (d).
+
+The example following new ¶ [7](#P91_7413) (former ¶ 6) has been expanded to show the flow-through of non-business-income tax from a trust to its beneficiaries.
+
+New ¶ [9](#P382_8806) explains that the non-business-income tax allocated to a beneficiary as a result of a designation made under subsection 104(22) cannot be claimed as a deduction from income under subsection 20(11) or (12).
+
+Throughout the bulletin, we have made a number of minor changes to improve the overall clarity and readability of the bulletin.
+
+### Notice -- Bulletins do not have the force of law
+
+Interpretation bulletins (ITs) provide Revenue Canada's technical interpretations of income tax law. Due to their technical nature, ITs are used primarily by departmental staff, tax specialists, and other individuals who have an interest in tax matters. For those readers who prefer a less technical explanation of the law, the Department offers other publications, such as tax guides and pamphlets.
+
+While the ITs do not have the force of law, they can generally be relied upon as reflecting the Department's interpretation of the law to be applied on a consistent basis by departmental staff. In cases where an IT has not yet been revised to reflect legislative changes, readers should refer to the amended legislation and its effective date. Similarly, court decisions subsequent to the date of the IT should be considered when determining the relevancy of the comments in the IT.
+
+An interpretation described in an IT applies as of the date the IT is published, unless otherwise specified. When there is a change in a previous interpretation and the change is beneficial to taxpayers, it is usually effective for all future assessments and reassessments. If the change is not favourable to taxpayers, it will normally be effective for the current and subsequent taxation years or for transactions entered into after the date of the IT.
+
+A change in a departmental interpretation may also be announced in the *Income Tax Technical News*.
+
+***If you have any comments regarding matters discussed in this IT, please send them to:***
+
+***Director, Business and Publications Division Income Tax Rulings Directorate Policy and Legislation Branch Revenue Canada Ottawa ON K1A 0L5***

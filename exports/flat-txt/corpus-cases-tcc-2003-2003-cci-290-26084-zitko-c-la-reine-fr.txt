@@ -1,0 +1,110 @@
+Title: Zitko c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26084/index.do
+Corpus path: corpus/cases/tcc/2003/2003-cci-290-26084-zitko-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2003-04-25
+
+# Zitko c. La Reine
+
+- Citation: 2003 CCI 290
+- Decision date: 2003-04-25
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4112, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Zitko c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-04-25
+Référence neutre
+2003 CCI 290
+Numéro de dossier
+2002-2870(IT)I
+Juges et Officiers taxateurs
+Campbell J. Miller
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Dossier: 2002-2870(IT)I
+ENTRE :
+LUCIA ZITKO,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 24 janvier 2003 à Ottawa (Ontario)
+Par : L'honorable juge Campbell J. Miller
+Comparutions :
+Représentant de l'appelante :
+Jack R. Bowerman
+Avocate de l'intimée :
+Me Justine Malone
+____________________________________________________________________
+JUGEMENT
+L'appel de la cotisation d'impôt établie en vertu de la Loi de l'impôt sur le revenu pour l'année d'imposition 2000 est admis et la cotisation est déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation en tenant compte du fait que, dans le calcul de son revenu, l'appelante est en droit de déduire des frais juridiques de 9 019,57 $.
+Signé à Ottawa, Canada, ce 25e jour d'avril 2003.
+« Campbell J. Miller »
+J.C.C.I.
+Traduction certifiée conforme
+ce 14e jour de mars 2005.
+Mario Lagacé, réviseur
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Référence: 2003CCI290
+Date: 20030425
+Dossier: 2002-2870(IT)I
+ENTRE :
+LUCIA ZITKO,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Miller
+[1] Mme Lucia Zitko interjette appel, sous le régime de la procédure informelle, à l'encontre de la cotisation établie pour son année d'imposition 2000 par le ministre du Revenu national (le « ministre » ), cotisation dans laquelle le ministre n'a pas admis que Mme Zitko déduise de son revenu 32 624,57 $ de frais juridiques et comptables. Il ressortait clairement de l'avis d'appel de Mme Zitko - mais moins clairement de la réponse de l'intimée - que Mme Zitko interjetait appel non seulement au sujet de la déductibilité des frais, mais en premier lieu au sujet de l'inclusion même, dans son revenu, d'une somme de 84 253,20 $ au titre d'un règlement forfaitaire.
+[2] Les faits sont simples.
+[3] Jusqu'en août 1994, Mme Zitko a travaillé pour Consultronics Limited ( « Consultronics » ). Elle était couverte par une police collective d'assurance-invalidité souscrite auprès de L'Impériale, Compagnie d'Assurance-Vie ( « L'Impériale » ). Les primes relatives au régime étaient payées par son employeur, Consultronics. En août 1994, Mme Zitko est devenue invalide à cause d'une fibromyalgie, soit une affection à douleur chronique, et, sur la recommandation de son médecin, elle a cessé de travailler. Elle a immédiatement demandé des prestations d'invalidité, mais n'en a pas reçues. Elle n'est jamais retournée travailler, malgré les demandes répétées de son employeur.
+[4] En avril 1997, Mme Zitko a intenté une action contre Consultronics et L'Impériale. Concernant Consultronics, Mme Zitko réclamait des dommages-intérêts pour rupture de contrat, négligence en matière de résiliation et congédiement injustifié. En mai 1999, elle a réglé son différend avec Consultronics pour une somme de 10 000 $ qui a été payée au cabinet juridique avec lequel elle faisait affaire.
+[5] Concernant L'Impériale, Mme Zitko réclamait une somme représentant les prestations hebdomadaires payables à elle par L'Impériale ou l'équivalent en dommages-intérêts, une somme représentant les prestations d'invalidité de longue durée auxquelles elle avait droit ou l'équivalent en dommages-intérêts, des dommages-intérêts pour rupture de contrat et une déclaration selon laquelle elle aurait droit à des prestations futures pour la période pendant laquelle elle continuerait d'être totalement invalide.
+[6] En mars 2000, Mme Zitko a réglé son différend avec L'Impériale selon les modalités suivantes :
+(i) L'Impériale versera à la demanderesse un arriéré de prestations hebdomadaires et de prestations d'invalidité de longue durée d'un montant de 76 753,20 $, sous réserve des retenues légales;
+(ii) L'Impériale versera à la demanderesse des intérêts sur l'arriéré, soit des intérêts d'un montant de 7 500 $ (ces deux premiers montants représentent en tout 84 253,20 $);
+(iii) L'Impériale paiera à l'avocat de la demanderesse des frais et débours d'un montant de 22 000 $;
+(iv) Après le 1er janvier 2001 mais au plus tard le 15 janvier 2001, L'Impériale versera à la demanderesse la somme de 37 910,92 $, sous réserve des retenues légales;
+(v) La demanderesse mettra fin à son action contre L'Impériale;
+(vi) La demanderesse fournira à L'Impériale une décharge totale et définitive.
+Mme Zitko a signé un formulaire standard de décharge selon ces modalités, ce qui incluait la phrase suivante :
+[TRADUCTION]
+En outre, je comprends et accepte le fait que le paiement susmentionné, notamment, ne constitue pas un aveu de responsabilité de L'Impériale et qu'en fait L'Impériale nie toute responsabilité.
+[7] Mme Zitko a déclaré pour l'année 2000 des frais déductibles de 32 624,57 $, ce qui incluait 1 605 $ de frais comptables. Le paiement de ces frais provenait du montant de 22 000 $ pour frais et débours reçu lors du règlement, ainsi que du compte en fiducie de l'avocat de Mme Zitko.
+[8] La première question est de savoir si le montant de 84 253 $ payé en 2000 par L'Impériale au cabinet juridique avec lequel faisait affaire Mme Zitko est un revenu assujetti à de l'impôt. Tel sera le cas si ce montant entre dans le cadre de l'alinéa 6(1)f) de la Loi de l'impôt sur le revenu, qui se lit comme suit :
+6(1) Sont à inclure dans le calcul du revenu d'un contribuable tiré, pour une année d'imposition, d'une charge ou d'un emploi, ceux des éléments suivants qui sont applicables :
+[...]
+f) le total des sommes qu'il a reçues au cours de l'année, à titre d'indemnité payable périodiquement pour la perte totale ou partielle du revenu afférent à une charge ou à un emploi, en vertu de l'un des régimes suivants dans le cadre duquel son employeur a contribué :
+(i) un régime d'assurance contre la maladie ou les accidents,
+(ii) un régime d'assurance-invalidité,
+(iii) un régime d'assurance de sécurité du revenu; [...]
+[9] Deux décisions récentes de la Cour d'appel fédérale traitent de cette question même (Tsiaprailis c. Canada, 2003 CAF 136, et Siftar c. Canada, 2003 CAF 137). Mme Zitko invoquait la décision rendue par la section de première instance de la Cour fédérale dans l'affaire Tsiaprailis, laquelle décision a, malheureusement pour Mme Zitko, été infirmée par la Cour d'appel fédérale. Cette dernière a indiqué clairement qu'un règlement forfaitaire qui représente un arriéré de paiements périodiques impayés entre dans le cadre de l'alinéa 6(1)f). Tel est l'état actuel du droit. Quoique le représentant de Mme Zitko ait habilement argué que, du fait que l'appelante n'a jamais reçu de paiements de L'Impériale avant le règlement, les 84 253 $ ne peuvent être considérés comme un arriéré, la preuve n'étaye pas une telle conclusion. Même les propres avocats de Mme Zitko -Tierney, Stauffer - ont décrit le montant comme étant un « arriéré de prestations hebdomadaires et de prestations d'invalidité de longue durée » . De plus, une note de service du cabinet juridique traitait clairement d'un arriéré. Je ne vois pas comment cette caractérisation est modifiée du fait qu'aucun paiement périodique n'a été effectué. La Cour d'appel fédérale insiste sur la question de savoir si la somme forfaitaire était attribuable à des montants qui avaient été payables en vertu du régime d'assurance et non sur la question de savoir si des paiements périodiques avaient déjà été effectués. Dans le cas de Mme Zitko, la somme forfaitaire de 84 253 $ est clairement attribuable à de tels montants et est donc un revenu en vertu de l'alinéa 6(1)f).
+[10] En ce qui a trait à la question de la déductibilité des frais juridiques, les parties ont convenu que le total des frais engagés en 2000 était de 32 624 $. De ce montant, 1 605 $ représentent des frais comptables, et aucune disposition de la Loi ne prévoit que de tels frais peuvent être déduits d'un revenu d'emploi. De plus, 22 000 $ ont, conformément aux modalités du règlement conclu avec L'Impériale, été payés directement aux avocats de Mme Zitko. Aucune partie des 22 000 $ n'a été incluse dans le revenu de Mme Zitko. Je suis convaincu que ce montant était destiné à couvrir des frais juridiques. Ce qui est en cause, c'est donc seulement la déductibilité de 9 019,57 $ (32 824,57 $ moins 1 605 $ moins 22 000 $ de frais juridiques payés lors du règlement).
+[11] Des frais juridiques engagés pour gagner un revenu imposable en vertu de l'alinéa 6(1)f) sont-ils déductibles?
+[12] Un revenu reçu selon l'alinéa 6(1)f) est, conformément à l'esprit de la Loi, un revenu d'emploi. En vertu du paragraphe 8(2), seuls les montants visés par l'article 8 sont déductibles dans le calcul du revenu d'un contribuable tiré d'un emploi. La seule déduction qui est prévue à l'article 8 et qui se rapporte à des frais juridiques est une déduction prévue à l'alinéa 8(1)b), lequel se lit comme suit :
+8(1) Sont déductibles dans le calcul du revenu d'un contribuable tiré, pour une année d'imposition, d'une charge ou d'un emploi ceux des éléments suivants qui se rapportent entièrement à cette source de revenus, ou la partie des éléments suivants qu'il est raisonnable de considérer comme s'y rapportant :
+a) [...]
+b) les sommes payées par le contribuable au cours de l'année au titre des frais judiciaires ou extrajudiciaires qu'il a engagés pour recouvrer le traitement ou salaire qui lui est dû par son employeur ou ancien employeur ou pour établir un droit à ceux-ci;
+[13] Les sommes réclamées par Mme Zitko étaient-elles un traitement ou salaire qui lui était dû par son employeur? Dans l'action qu'elle avait intentée, Mme Zitko cherchait assurément à obtenir des sommes de l'employeur et de l'assureur. Dans les deux cas, il s'agit d'un « traitement ou salaire » , car la définition de cette expression se lit comme suit :
+248(1) Les définitions qui suivent s'appliquent à la présente loi.
+« traitement ou salaire » Sauf aux articles 5 et 63 et à la définition de « prestation consécutive au décès » , le revenu que tire un contribuable d'une charge ou d'un emploi, calculé d'après la sous-section a de la section B de la partie I, y compris les honoraires touchés par le contribuable pour des services qu'il n'a pas fournis dans le cours des activités de son entreprise, mais à l'exclusion des prestations de retraite ou de pension, ainsi que des allocations de retraite.
+Les sommes assimilées à un revenu d'emploi en vertu de l'alinéa 6(1)f) entrent carrément dans le cadre de cette définition. Toutefois, les sommes reçues en vertu de l'alinéa 6(1)f) vont nécessairement être reçues de l'assureur; l'alinéa 8(1)b) traite de frais juridiques engagés au titre de sommes non pas reçues de l'employeur mais dues par l'employeur. Si l'expression « traitement ou salaire » définie dans la Loi et utilisée à l'alinéa 8(1)b) inclut une rentrée d'argent visée à l'alinéa 6(1)f), alors, par voie de conséquence, le traitement ou salaire sera payé par l'assureur. Cela n'empêche pas de conclure que quelque chose était encore dû par l'employeur. L'intimée argue que le membre de phrase « qui lui est dû » est limité par le membre de phrase « par son employeur » et que cela implique que, les fonds ayant été payés par l'assureur, ils n'étaient pas dus par l'employeur. Je ne suis pas d'accord. Certes, l'assureur a payé les sommes visées à l'alinéa 6(1)f), mais il l'a fait parce que l'employeur avait conclu avec lui un contrat à cette fin. L'employeur a payé l'assureur en vue du versement des prestations. Ça faisait partie du contrat d'emploi de Mme Zitko que l'employeur fournisse, grâce à un contrat avec l'assureur, des prestations d'invalidité. L'assureur payait les prestations, mais il s'agissait de sommes dues par l'employeur, conformément au contrat d'emploi qu'il avait conclu avec Mme Zitko. Tout comme la Cour d'appel fédérale va au-delà d'un règlement forfaitaire et examine le contrat sous-jacent pour déterminer que la somme forfaitaire représente des paiements périodiques aux fins de l'alinéa 6(1)f), je n'ai aucune difficulté à aller au-delà du paiement de l'assureur à Mme Zitko et à examiner le contrat d'emploi sous-jacent pour conclure que les sommes étaient dues par l'employeur aux fins de l'alinéa 8(1)b). Je conclus qu'il est donc pleinement satisfait aux exigences de l'alinéa 8(1)b) et que les frais juridiques de 9 019,57 $ sont déductibles.
+[14] L'appel est admis et l'affaire est déférée au ministre pour nouvel examen et nouvelle cotisation en tenant compte du fait que Mme Zitko est en droit de déduire pour l'année 2000 des frais juridiques de 9 019,57 $.
+Signé à Ottawa, Canada, ce 25e jour d'avril 2003.
+« Campbell J. Miller »
+J.C.C.I.
+Traduction certifiée conforme
+ce 14e jour de mars 2005.
+Mario Lagacé, réviseur

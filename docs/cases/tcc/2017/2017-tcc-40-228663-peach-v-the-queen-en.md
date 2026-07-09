@@ -1,0 +1,291 @@
+---
+title: "Peach v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/228663/index.do"
+last_modified: "2017-03-14"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2017 TCC 40"
+citation2: ""
+neutral_citation: "2017 TCC 40"
+decision_date: "2017-03-14"
+language: "en"
+item_id: "228663"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2285
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T11:27:02.546000+00:00"
+cases_cited_count: 3
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "1777009d09881b882f4eec261a18bd1d34338bd388af540a397d2f48390f8c2a"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Peach v. The Queen
+
+- Citation: 2017 TCC 40
+- Decision date: 2017-03-14
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2285, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Peach v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2017-03-14
+Neutral citation
+2017 TCC 40
+File numbers
+2013-4435(IT)I
+Judges and Taxing Officers
+Randall S. Bocock
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2013-4435(IT)I
+BETWEEN:
+HAROLD PEACH,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Consideration of written submissions regarding the redetermination of certain issues further to a status hearing held by telephone conference call on September 13, 2016, at Ottawa, Ontario
+The Honourable Mr. Justice Randall S. Bocock
+Counsel for the Appellant: Leah Gruchy
+Counsel for the Respondent: Amy Kendell
+REDETERMINATION ORDER
+IN ACCORDANCE with and in pursuance of the direction of Trudel J.A delivered orally from the Bench of the Federal Court of Appeal on June 8, 2016 at St. John’s Newfoundland, this Court has considered the extent, if any, to which the Appellant’s claimed expenses were unreasonable and the needed reduction, if warranted, which is necessary under section 67 of the Income Tax Act, RSC 1985, c.1, as amended (the “ITA”) to render such unreasonable expenses reasonable;
+NOW THEREFORE THIS COURT ORDERS THAT:
+the amount of expenses by category for the 2009 taxation year which were originally claimed and which are unreasonable and, by deduction, those which are reasonable are as follows:
+Category
+Expense Amount Originally Claimed
+Extent of Unreasonable Expenses
+Balance of Reasonable Expenses
+Meals and Entertainment
+$1,662.00
+$662.00
+$1,000.00
+Business Tax Fees and Licenses
+$760.00
+NIL
+$760.00
+Office Expenses
+$665.00
+NIL
+$665.00
+Delivery, Freight and Express
+$38.00
+NIL
+$38.00
+Motor Vehicle Expense
+$4,056.00
+$3,083.00
+$973.00
+Capital Cost Allowance
+$2,962.00
+$2,142.00
+$820.00
+Other
+$304.00
+$304.00
+NIL
+Total
+$10,440.00
+$6,191.00
+$4,249.00
+the amount of expenses by category for the 2010 taxation year which were originally claimed and which are unreasonable and, by deduction, those which are reasonable are as follows:
+Appellant’s Category of Expenses
+Expense Amount Originally Claimed
+Extent of Unreasonable Expenses
+Balance of Reasonable Expenses
+Business Tax Fees and Licenses
+$769.00
+NIL
+$769.00
+Meals and Entertainment
+$1,161.00
+$661.00
+$500.00
+Motor Vehicle Expense
+$5,380.00
+$4,304.00
+$1,076.00
+Office Expenses
+$1,043.00
+$378.00
+$665.00
+Travel
+$525.00
+$525.00
+NIL
+Capital Cost Allowance
+$4,040.00
+$3,356.00
+$684.00
+Total
+$12,918.00
+$9,224.00
+$3,694.00
+accordingly, the matter is referred back to the Minister of National Revenue (the “Minister”) for reconsideration and reassessment on the basis that the Appellant is entitled to deduct reasonable business expenses in respect of his financial consulting business in the amount of $4,249.00 for the 2009 taxation year and in the amount of $3,694.00 for the 2010 taxation year;
+the Appellant shall be entitled to his costs in accordance with the applicable tariff as if the appeal were a two-day informal appeal.
+Signed at Vancouver, British Columbia, this 14th day of March 2017.
+“R.S. Bocock”
+Bocock J.
+Citation: 2017 TCC 40
+Date: 20170314
+Docket: 2013-4435(IT)I
+BETWEEN:
+HAROLD PEACH,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Bocock J.
+Background of this Order
+[1] This Court originally heard the appeal of the Appellant in St. John’s, Newfoundland on August 21, 2014. Oral reasons for judgment were rendered by telephone conference on September 9, 2014. There were two bases of the Appellant’s, Mr. Peach’s, appeal before the Court. The first basis concerned Mr. Peach’s assertion that he incurred losses from a rental property for the 2009 and 2010 taxation years. The second basis of appeal concerned additional business losses from a financial consulting business for the same two taxation years. The Court dismissed the appeal in its entirety.
+[2] Mr. Peach appealed to the Federal Court of Appeal. The Federal Court of Appeal denied Mr. Peach’s appeal in respect of the rental losses. In respect of the financial consulting business losses, the Federal Court of Appeal allowed the appeal, set aside that judgment of this Court and returned the matter to the Tax Court for a redetermination.
+[3] Specifically, Trudel J.A., found and directed as follows:
+[5] Under section 67, the Judge, without saying why, considered globally whether the expenses were reasonable and accepted that, as set out in the Minister’s assessment, some of the expenses should be allowed to the extent they matched the appellant’s commission income. He did not have regard to the particular expenses and the appellant’s explanation for them.
+[6] Stewart makes it clear (at paragraph 57) that under section 67, unreasonable expenses can be eliminated or reduced to make them reasonable.
+[7] We are not satisfied that the Judge asked himself that question, namely whether the actual expenses in this case were unreasonable and what reduction in the appellant’s claimed expenses might be necessary in order to be reasonable.
+[8] As a result, the appeal will be allowed in part, with costs, the judgement of the Tax Court of Canada will be set aside with respect to the appellant’s business losses and returned to the Tax Court of Canada for redetermination of the section 67 issue.
+[4] The Chief Justice of this Court directed that this judge hear and re-determine “whether the actual expenses in this case were unreasonable and what reduction in the Appellant’s claimed expense might be necessary in order to be reasonable.”
+Process for Redetermination of Business Expenses
+[5] After a conference call, parties’ counsel mutually agreed to submit further argument by written submissions. These written submissions, the audio CD of the original hearing and the direction of the Federal Court of Appeal constitute the basis for this re-determination order.
+[6] Given the categories of expenses and the Federal Court of Appeal’s direction that particular expenses and Mr. Peach explanation for them be considered, the Court has employed a hopefully useful methodology. The Court has examined each particular category of expense, the evidence and testimony for each at the hearing and the subsequent written respective submissions of counsel. The Court has provided its related conclusions concerning the extent of unreasonableness, if any. Therefore, by deduction, the Court has determined the reasonable expenses which Mr. Peach may deduct from income in each year.
+Legal Basis for Analysis
+[7] In undertaking the redetermination, the Court uses the instruction provided in Stewart v. The Queen, 2002 SCC 46 at paragraph 57:
+57 It is clear from these provisions that the deductibility of expenses presupposes the existence of a source of income, and thus should not be confused with the preliminary source inquiry. If the deductibility of a particular expense is in question, then it is not the existence of a source of income which ought to be questioned, but the relationship between that expense and the source to which it is purported to relate. The fact that an expense is found to be a personal or living expense does not affect the characterization of the source of income to which the taxpayer attempts to allocate the expense, it simply means that the expense cannot be attributed to the source of income in question. As well, if, in the circumstances, the expense is unreasonable in relation to the source of income, then s. 67 of the Act provides a mechanism to reduce or eliminate the amount of the expense. Again, however, excessive or unreasonable expenses have no bearing on the characterization of a particular activity as a source of income.
+[8] In addition, poor business judgment should not be the primary basis which determines that business expenses are unreasonable, but rather, a conclusion that no person of business would pay such amount given the circumstances of the taxpayer before the Court: Ankrah v. R., 2003 TCC 413 at paragraph 4, itself citing Gabco Limited v. MNR, (1968), 68 DTC 5210 (Ex. CF) at page 5216.
+[9] Moreover, any contemporenous assessment of reasonableness or unreasonableness cannot utilize a simple notion that expenses exceeded revenue: Williams v. R., 2009 TCC 93 at paragraphs 16 and 17. Logically, this conclusion exists for two reasons. First, the measure of revenue versus expenses is a quantifiable calculation which occurs after the fact. It cannot possibly be made at the time of the expenditure or even during the annual period of measure. Second, a business expenditure is by nature made to gain business income, thus is incurred beforehand, with its hopeful result of income unpredictably subsequent.
+Analysis
+[10] The Federal Court of Appeal requires that this Court review the facts concerning the unreasonableness (and by deduction reasonableness) of the additional business expenses by each category. Appropriately, the evidence of Mr. Peach was not considered in the Federal Court of Appeal’s decision. To that extent, counsels’ submissions have been received and filtered by this Court through the actual evidence, pleadings and documentary evidence before this Court at the hearing.
+[11] Of particular note in that regard, are the following facts concerning the 2009 and 2010 taxation years adduced into evidence by Mr. Peach, either in his testimony in chief, his documents or on cross-examination:
+(a) the vast majority of Mr. Peach’s testimony related to his purported rental property;
+(b) his testimony and submissions regarding his financial consulting business were primarily directed towards demonstrating that he had a business source of income (a finding the Court originally made);
+(c) Mr. Peach spent no more than 8 hours a week on his business during 2009 and 2010;
+(d) primarily, these efforts consisted of attending training sessions in St. John’s, some 125 km away from his residence;
+(e) aside from training, business growth was attempted through face to face, direct marketing rather than advertising and promotion, which was discouraged by the principal, Primerica;
+(f) Mr. Peach produced no travel log for his business travel, nor did he testify that he kept one;
+(g) Mr. Peach previously operated the business for 10 years and incurred losses in each year;
+(h) his losses increased as time passed;
+(i) Mr. Peach moved to Nunavut in August of 2010;
+(j) Mr. Peach claimed expenses and capital cost allowance for five (5) vehicles during the 2009 and 2010 appeal years;
+(k) Mr. Peach was the only person undertaking the financial consulting business;
+(l) Mr. Peach testified that the operation of his business was not “reasonable”, but rather “hopeful”; and
+(m) Mr. Peach produced no expense receipts for the appeal years, however, the Respondent admitted she did not contest that the quantum of the amounts claimed were incurred by Mr. Peach, but only that such amounts were not reasonable or were not incurred in respect of the business.
+[12] On the basis of the foregoing, the following represent, in the case of each heading of expense, an analysis grouped by categories of the unreasonableness and reasonableness of the claimed expenses.
+Meals and Entertainment
+(i) Testimony and submissions by Appellant
+Mr. Peach testified that meals and entertainment were incurred solely for him while travelling away from home. These expenses were incurred to allow him to attend the branch meetings and training sessions in St. John’s, some 125km from his home.
+(ii) Respondent’s Submissions
+No evidence was produced at trial regarding these expenses: amounts, entertainees or any cross-reference to purpose. The history of losses over the 10 previous years renders these expenses unreasonable.
+(iii) Analysis of Reasonable vs. Unreasonable Expense
+Mr. Peach spent 8 hours a week on his business. Based upon a 50 week working year and generously assuming Mr. Peach travelled to St. John’s the one day he worked each week, this would require him to buy his lunch each day. He did not testify that he met with clients in St. John’s, nor did he pay for others’ meals. Anything beyond $20.00 per day for lunch would be unreasonable, even if he travelled to St. John’s 50 days a year, itself unlikely. Therefore, expenses for his out of town meals beyond $1,000.00 are unreasonable. For 2010, Mr. Peach was not in Newfoundland for 6 months to travel to St. John’s. Therefore, one half these expenses for 2010 are reasonable.
+(iv) Determination of Unreasonable Amount
+Amounts beyond $20.00 a day are unreasonable. In 2009, the amount claimed was $1,662.00, the unreasonable amount is determined to be $662.00, rendering a reasonable amount as a 2009 expense for meals and entertainment of $1,000.00. In 2010, the amount claimed was $1,161.00, the unreasonable amount is determined to be $661.00, rendering a reasonable amount as a 2010 expense for meals and entertainment of $500.00.
+Business Tax, Fees and Licenses
+(i) Testimony and submissions by Appellant
+Business Taxes and fees are fixed costs and must be incurred to operate.
+(ii) Respondent’s Submissions
+Since a business existed, these costs are reasonable.
+(iii) Analysis of Reasonable vs. Unreasonable Amounts
+The parties have agreed and, while the logic of expending such sums given the return achieved over a decade is not entirely logical, they were nonetheless incurred as part of a business and are not necessarily unreasonable.
+(iv) Determination of Unreasonable Amount
+As conceded by the Respondent, there is no amount determined to be unreasonable and therefore the sum of $760.00 for 2009 and $769.00 for 2010 are to be allowed on account of Business Tax, fees and Licenses.
+Office Expenses
+(i) Testimony and submissions by Appellant
+Office expenses are required for a business, therefore those claimed are reasonable.
+(ii) Respondent’s Submissions
+A certain sum is reasonable for office expenses. The sum for 2010 is $378.00 more than that claimed 2009. No evidence was furnished at the hearing as to the increase and therefore 2010 should remain the same.
+(iii) Analysis of Reasonable vs. Unreasonable Amounts
+While the evidence at the hearing was scant, office expenses for 2009 are allowed at $665.00 as claimed. While it is more logical, given Mr. Peach’s absence from Newfoundland for the latter part of 2010, that anything in excess of one-half of $665.00 is unreasonable, the Court is prepared to agree with the Respondent’s concession of the $665.00.
+(iv) Determination of Unreasonable Amount
+In 2009, the amount claimed was $665.00, there is no unreasonable amount, yielding a reasonable amount of $665.00 as 2009 office expenses. In 2010, the amount claimed was $1,043.00, the unreasonable amount is determined to be $378.00 given the five month absence, rendering a reasonable amount for 2010 office expenses of $665.00.
+Delivery Freight and Express
+(i) Testimony and submissions by Appellant
+Respondent has conceded all such expenses as reasonable.
+(ii) Respondent’s Submissions
+The amount of $38.00 is reasonable.
+(iii) Analysis of Reasonable vs. Unreasonable Amounts
+On the basis that a receipt was original submitted, as conceded by the Respondent at the hearing, the amount claimed is reasonable.
+(iv) Determination of Unreasonable Amount
+The amount of $38.00 is reasonable.
+Capital Cost Allowance
+(i) Testimony and submissions by Appellant
+Mr. Peach acquired two new cars in each of 2009 (April) and 2010 (July). Operating expenses decreased as the cost of these newer capital assets increased. In July 2009, only one-half of capital cost allowance was claimed for a new car (acquired in April) and in 2010, again, only one-half was claimed because of relocation.
+(ii) Respondent’s Submissions
+The use of 5 cars is unreasonable. Adding a new car to the capital asset pool in both of 2009 and 2010 was not reasonable. Total capital cost allowance for each of 2009 ($17,085.00) and 2010 ($17,105.00) should be averaged over one car for 2009 ($3,417.00) and for 2010 ($3,421.00). Given Mr. Peach’s testimony that 24% and 20% constituted business travel, the amounts for motor vehicle capital cost allowance should thereafter be reduced in each of 2009 to $820.00 and 2010 to $684.00. There was no further evidence of capital cost allowance for other assets.
+(iii) Analysis of Reasonable vs. Unreasonable Amounts
+Three issues figure prominently:
+1. The new car in 2009 was acquired in April of that year;
+2. The new car in 2010 was acquired the month before Mr. Peach left Newfoundland for Nunavut;
+3. No log was produced at the hearing identifying how much business travel occurred per week or month or which vehicle was used. It is unreasonable to allow a percentage of capital costs allowance across 5 different motor vehicles. The Respondent’s submission is consistent and reasonable.
+(iv) Determination of Unreasonable Amount
+In 2009, the amount claimed is $2,962.00, the unreasonable amount is determined to be $2,142.00, rendering a reasonable amount as a 2009 capital cost allowance of $820.00. In 2010, the amount claimed was $4,040.00, the unreasonable amount is determined to be $3,356.00, rendering a reasonable amount as a 2010 capital cost allowance of $684.00.
+There simply was no other evidence regarding other capital cost allowance beyond that offered for the motor vehicles.
+Motor Vehicle Expense
+(i) Testimony and submissions by Appellant
+The Appellant owned 5 motor vehicles over the course of 2009-2010. Mr. Peach attempted to introduce motor vehicle registrations, but not were made exhibits at the hearing. In 2009, there were 3 old vehicles which were expensive to maintain and all used for business. In April 2009, Mr. Peach acquired a new motor vehicle for $44,488.54. As a result, expenses reduced but capital costs allowance increased. In 2010, another new car was purchased to replace another vehicle. The ratios of 24% and 20% of business use was reasonable in the circumstances.
+(ii) Respondent’s Submissions
+No evidence was adduced at trial disclosing the motor vehicle expenses. Therefore, 24% business usage should be allowed of what was claimed in 2009 ($973.00) and 20% in 2010 ($1,076.00).
+(iii) Analysis of Reasonable vs. Unreasonable Amounts
+The business use of 5 different motor vehicles over 2 years in a one person business is unreasonable. No justification for these additional and varied motor vehicles was entered into evidence at the hearing.
+The acquisition of a new car in April 2009 rendered the continued use of older vehicles unstainable, unreasonable and inexplicable. Simply, a one person business, undertaken one day a week cannot use more than one car at one time. Given this use, the only reasonable calculation of expenses for motor vehicles is that offered by the Respondent. This uses the percentages offered by Mr. Peach, but applied to one average motor vehicle expense category rather than five. It is reasonable, logical and balanced. For these expense purposes, the Court will ignore Mr. Peach’s 5 month absence from Newfoundland in 2010.
+(iv) Determination of Unreasonable Amount
+In 2009, the amount claimed is $4,056.00, the unreasonable amount is determined to be $3,083.00, rendering a reasonable amount as a 2009 motor vehicle expenses of $973.00. In 2010, the amount claimed was $5,380.00, the unreasonable amount is determined to be $4,304.00, rendering a reasonable amount as a 2010 motor vehicle expenses of $1,076.00.
+Other Expenses
+[13] Appellant’s counsel submits that receipts of this category of evidence were submitted to CRA in July 2012. This may well be. However, no evidence, either by way of documents or vive voce testimony, was submitted to this Court at trial. Nothing before the Court allows it to make any determination regarding this genre of expense. Such expenses are not allowed because no evidence of same exists. The pertains to the “other” category in 2009 and “travel” in 2010, neither of which were referred to in Mr. Peach’s testimony at the hearing.
+[14] On the basis of the foregoing, the findings contained below represent this Court’s determination, on the facts, of the extent of the unreasonable expenses and, by deduction, the reasonable expenses that shall be allowed Mr. Peach for his business in the 2009 and 2010 taxation years. As a summary, the original expenses claimed, those which were unreasonable and those which are reasonable and allowed for the two taxation years are as follows:
+Taxation Year
+Re-determined Unreasonableness Expenses
+Reasonable Expenses
+2009
+$6,191.00
+$4,249.00
+2010
+$9,224.00
+$3,694.00
+[15] Mr. Peach shall be entitled to his costs in accordance with the tariff as if the matter were a two day informal appeal, subject to the right of either party to make further submissions in writing to the Court within 30 days of the date of this Order.
+Signed at Vancouver, British Columbia, this 14th day of March 2017.
+“R.S. Bocock”
+Bocock J.
+CITATION:
+2017 TCC 40
+COURT FILE NO.:
+2013-4435(IT)I
+STYLE OF CAUSE:
+HAROLD PEACH AND THE QUEEN
+REASONS FOR ORDER BY:
+The Honourable Mr. Justice Randall S. Bocock
+DATE OF ORDER:
+March 14, 2017
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Leah Gruchy
+Firm:
+Grittens & Associates
+For the Respondent:
+Amy Kendell
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

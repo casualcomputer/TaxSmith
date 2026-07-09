@@ -1,0 +1,116 @@
+Title: Zembal v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30252/index.do
+Corpus path: corpus/cases/tcc/2011/2011-tcc-145-30252-zembal-v-the-queen-en.md
+Document type: case_law
+Last modified: 2011-03-08
+
+# Zembal v. The Queen
+
+- Citation: 2011 TCC 145
+- Decision date: 2011-03-08
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7994, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Zembal v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2011-03-08
+Neutral citation
+2011 TCC 145
+File numbers
+2009-3763(IT)I
+Judges and Taxing Officers
+Georgette Anne Sheridan
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2009-3763(IT)I
+BETWEEN:
+LARRY ZEMBAL,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on January 14, 2011, at London, Ontario
+Before: The Honourable Justice G. A. Sheridan
+Appearances:
+Agent for the Appellant:
+Wayne Chartrand
+Counsel for the Respondent:
+Hong Ky (Eric) Luu
+____________________________________________________________________
+JUDGMENT
+The appeals from the reassessments made under the Income Tax Act for the 2005 and 2006 taxation years are allowed and the matters are referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 8th day of March 2011.
+“G. A. Sheridan”
+Sheridan J.
+Citation: 2011TCC145
+Date: 20110308
+Docket: 2009-3763(IT)I
+BETWEEN:
+LARRY ZEMBAL,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Sheridan J.
+[1] The issue in this appeal is the deductibility of motor vehicle expenses incurred by the Appellant, Larry Zembal, for the 2005 and 2006 taxation years.
+[2] In determining the Appellant’s tax liability for the 2005 and 2006 taxation years, the Minister of National Revenue assumed the facts set out at paragraph 23 of the Reply to the Notice of Appeal:
+i) at all material times, the Appellant was employed by Con-Drain Company (1983) Ltd. (“Con-Drain”) as a Bulldozer driver;
+ii) under his contract of employment with Con-Drain, the Appellant was required to pay his own motor vehicle expenses and did not receive any allowance or repayment;
+iii) the Appellant’s area of travel for employment related purposes in 2005 and 2006 was the Southern Ontario Area;
+iv) the Appellant was required to report to a specific job site to which he was assigned to work for as long as he was required to work at that site;
+v) the disallowed expenses were not made and incurred or, if incurred, they were not incurred by the Appellant for the purpose of earning income from employment with Con-Drain;
+vi) the tools, material and equipment required by the Appellant to perform his work tasks were generally prepositioned at the specific job site he was required to work at;
+vii) the Appellant was not ordinarily required to carry out his duties of employment away from his employer’s place of business or in different places;
+viii) the Appellant did not travel between work sites in the course of the day;
+ix) the Appellant claimed motor vehicle expenses for the 2005 and 2006 taxation years, in the amounts of $4,099.37 and $6,267.08, respectively, which were computed by him as being travel from his home to each work site location, and travel from that work site to his home;
+x) if the disallowed expenses were incurred, they were personal or living expenses of the Appellant.
+[3] The Appellant had the onus of proving wrong these assumptions. He took particular issue with subparagraphs 23(vi), (vii) and (viii). Notwithstanding the assumption in subparagraph 23(v) that “the disallowed expenses were not made and incurred”, I did not understand that to be the Minister’s position at the hearing. Nor did the Respondent dispute that the Appellant was ordinarily required to work away from his employer’s place of business or at different places, as had been assumed in paragraph 23(vii).
+[4] The only question is whether, on the facts, the Appellant can satisfy the criteria in subparagraph 8(1)(h.1)(ii) of the Income Tax Act, the relevant portions of which read:
+Motor vehicle travel expenses – where the taxpayer, in the year,
+a. was ordinarily required to carry on the duties of the office or employment away from the employer’s place of business or in different places, and
+b. was required under the contract of employment to pay motor vehicle expenses incurred in the performance of the duties of the office or employment,
+amounts expended by the taxpayer in the year in respect of motor vehicle expenses incurred for travelling in the course of the office or employment …
+[5] The Appellant is an experienced bulldozer operator. In 2005 and 2006, he was working on Con-Drain projects for the installation of sewer mains and water service pipes in residential developments north of Toronto. He resided in Kleinburg, Ontario, a 15-minute drive from his employer’s business office but the accepted practice was for him to go directly to a job site as and when instructed by Con-Drain’s foreman. He travelled from his home to the various job sites in his truck.
+[6] As a bulldozer operator, the Appellant’s duties included clearing the land for construction, building and keeping roads open for the vehicles on the site, covering the newly installed sewer and water systems, and smoothing the terrain. As a senior operator with many years experience in heavy machinery, the Appellant was also called upon to assist Con-Drain’s junior operators at the company’s other projects in the area.
+[7] While his employer provided the bulldozers he used, the Appellant was responsible for their care and maintenance; primarily, keeping the machine clean and lubricated as well as maintaining its oil and fluid levels. For these tasks, the Appellant required a shovel to keep the bulldozer tracks free of the mud and other debris picked up while in operation and a grease gun for its daily lubrication. The Appellant was responsible for replacing his tools if they were stolen. Although there were trailers on site, these were for the labourers, for storing small non‑valuable items or eating their lunch. As a heavy equipment operator, the Appellant was not part of that group. His “lunchroom” was the cab of his bulldozer. For that reason and because he spent some 10 hours a day in what was a very small space, he preferred not to store the shovel and grease gun in the cab. Another was that the heavy equipment left on the construction site was often broken into or vandalized. Theft was a constant risk on the job site; with no secure storage facility available to him, the Appellant had no option but to keep his tools in his truck. Furthermore, the Appellant needed to have the tools with him in the event he was required to go to a different job site. Thus, while the Appellant admitted that his employer never directly told him he had to carry his tools around with him, as a practical matter, it was a job requirement.
+Analysis
+[8] The Appellant was the only witness to testify. I found him to be a straight‑forward witness and have no reason to doubt his testimony. I am satisfied that his situation fell within the criteria of subparagraph 8(1)(h.1)(ii) of the Act.
+[9] Counsel for the Respondent argued that in driving from his residence to the various job sites the Appellant was in the same position as any other employee travelling from his residence to his place of employment and accordingly, his expenses ought not to be deductible, Hogg v. R., 2002 FCA 177. Counsel urged the Court to follow Colavecchia v. R., 2010 TCC 194, another Informal Procedure appeal involving an employee of Con-Drain in which the taxpayer’s appeal was dismissed.
+[10] In my view, however, the present case is readily distinguishable from Colavecchia. Firstly, Margeson, J. had difficulty with the taxpayer’s credibility. There is no such concern here. There are also significant factual differences: the taxpayer in Colavecchia was a “pipe‑layer helper” who was able to eat his lunch and change his clothes in the trailer provided, from which I infer he was a labourer rather than a skilled operator. Other than having been assigned “specific tasks”[1], it is not clear what his duties were. There is no mention of any tools. Margeson, J. noted at paragraph 76 that “… there was no evidence that the taxpayer was doing anything apart from travelling from home to his place of work” during which he was not “performing any service for his employer”.
+[11] In the present case, there was clear evidence of the specialized nature of the Appellant’s duties which expressly required him to be available, upon his employer’s request, to travel to different job sites to assist other bulldozer operators employed by Con-Drain. The fact that this rarely occurred in the two years under appeal does not detract from the Appellant’s obligation to be prepared to do so. I am also satisfied that he was under an implied obligation to keep with him his shovel and grease gun. In the circumstances, the only reasonable means of transporting and storing such equipment was in his truck.
+[12] In this regard, the present case is more in keeping with the facts in Evans v. R., [1999] 1 C.T.C. 2609, an Informal Procedure decision in which the motor vehicle expenses of an itinerant school psychologist were allowed. She, like the Appellant, was required to keep certain materials used in her employment in the trunk of the car she used to travel from her home to the schools in her assigned area, but for her employment duties, she would have had no reason to do so. The Appellant was in the same position. In having to provide his own transportation to the employer’s other work sites during the working day and to keep with him the tools necessary for his employment, the Appellant’s travel “… actually involved the performance of some service as compared to simply getting [himself] to the place of work”. O’Neil, above, at paragraph 24; cited with approval by the Federal Court of Appeal in Hogg at paragraph 11.
+[13] In these circumstances, I am satisfied that the Appellant is entitled to a motor vehicle deduction under subparagraph 8(1)(h.1)(ii). However, I agree with the Respondent’s alternative position that the total amount claimed by the Appellant ought to be reduced to reflect the distance he would have travelled between his residence and his employer’s place of business. The Appellant estimated his travel time from his home to Con-Drain’s business office at 15 minutes; to the various job sites, approximately 45 minutes, depending on the traffic. Based on these figures, the Appellant ought to be allowed 2/3 of the totals claimed in 2005 and 2006.
+[14] For the reasons set out above, the appeals of the reassessments of the 2005 and 2006 taxation years are allowed and the matters are referred back to the Minister for reconsideration and reassessment in accordance with these Reasons for Judgment.
+Signed at Ottawa, Canada, this 8th day of March 2011.
+“G. A. Sheridan”
+Sheridan J.
+CITATION: 2011TCC145
+COURT FILE NO.: 2009-3763(IT)I
+STYLE OF CAUSE: LARRY ZEMBAL AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: London, Ontario
+DATE OF HEARING: January 14, 2011
+REASONS FOR JUDGMENT BY: The Honourable Justice G. A. Sheridan
+DATE OF JUDGMENT: March 8, 2011
+APPEARANCES:
+Agent for the Appellant:
+Wayne Chartrand
+Counsel for the Respondent:
+Hong Ky (Eric) Luu
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] At paragraph 9.

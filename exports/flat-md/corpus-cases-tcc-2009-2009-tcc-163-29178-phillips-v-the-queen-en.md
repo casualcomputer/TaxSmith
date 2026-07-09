@@ -1,0 +1,157 @@
+---
+title: "Phillips v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29178/index.do"
+last_modified: "2009-04-09"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 TCC 163"
+citation2: ""
+neutral_citation: "2009 TCC 163"
+decision_date: "2009-04-09"
+language: "en"
+item_id: "29178"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6738
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T01:23:01.756000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "1e6ff396e807100d250e4319cb1a4f1bf4e816c8a571edb276ec431bbda3c9dd"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Phillips v. The Queen
+
+- Citation: 2009 TCC 163
+- Decision date: 2009-04-09
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6738, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Phillips v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2009-04-09
+Neutral citation
+2009 TCC 163
+File numbers
+2008-3470(IT)I
+Judges and Taxing Officers
+Georgette Anne Sheridan
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2008-3470(IT)I
+BETWEEN:
+SCOTT PHILLIPS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on March 18, 2009 at Calgary, Alberta
+Before: The Honourable Justice G. A. Sheridan
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Valerie Meier
+JUDGMENT
+In accordance with the attached Reasons for Judgment, the appeal from the reassessment made under the Income Tax Act for the 2006 taxation year is allowed, and the reassessment is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that:
+1. the Appellant is entitled to deduct $290.55 for car rental expenses; and
+2. $29.57 for the ramp construction costs.
+The filing fee of $100 shall be refunded to the Appellant.
+Signed at Ottawa, Canada, this 9th day of April, 2009.
+“G. A. Sheridan”
+Sheridan, J.
+Citation: 2009TCC163
+Date: 20090409
+Docket: 2008-3470(IT)I
+BETWEEN:
+SCOTT PHILLIPS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Sheridan, J.
+[1] In 2006, the Appellant, Scott Phillips, moved from Ontario to Airdrie, Alberta to take up new employment. At issue are certain deductions disallowed by the Minister of National Revenue on the basis that they were not “moving expenses” within the meaning of subsections 62(1) and (3) of the Income Tax Act:
+1. $ 5,000 for a commission related to the purchase of the new residence;
+2. $ 290.55 for car rental from May 6 to 10, 2006; and
+3. $ 29.57 for materials used to construct a ramp to unload a recreational aircraft from the moving van.
+The Real Estate Commission
+[2] When the Appellant moved to Alberta in 2006, that province was experiencing an unprecedented real estate boom. The Appellant found himself in a seller’s market. The vendor of the property he purchased in Airdrie had not listed the property with an agent; as a result, the Appellant ended up paying, out of his own pocket, fees to his real estate agent for services that would normally have been borne by a vendor as part of his commission to the selling agent.
+[3] The Appellant argues that in the unusual circumstances of his situation, subsection 62(3) of the Act ought to be interpreted broadly to permit the deduction of the fees he paid to his real estate agent. The applicable provision is paragraph 62(3)(f):
+(3) Definition of “moving expenses” – In subsection (1), “moving expenses” includes any expense incurred as or on account of
+…
+(f) where the old residence is sold by the taxpayer or the taxpayer’s spouse or common-law partner as a result of the move, the cost to the taxpayer of legal services in respect of the purchase of the new residence and of any tax, fee or duty (other than any goods and services tax or value-added tax) imposed on the transfer or registration of title to the new residence, and
+…
+but, for greater certainty, does not include costs (other than costs referred to in paragraph (f)) incurred by the taxpayer in respect of the acquisition of the new residence.
+[4] Subsection 62(1) provides generally for the deduction of “amounts paid by the taxpayer as or on account of moving expenses”. The term “moving expenses” is defined in subsection 62(3) as including the items listed in that provision; the use of the word “includes” means that the list is not exhaustive[1]. However, the concluding portion of subsection 62(3) expressly excludes from the definition of “moving expenses”, “… costs (other than costs referred to in paragraph (f)) incurred by the taxpayer in respect of the acquisition of the new residence.”
+[5] As the $5,000 fee the Appellant paid to his realtor cannot be characterized as “legal services” or “any tax, fee or duty … imposed on the transfer or registration of title to the new residence” as contemplated by paragraph (f), it was a cost incurred “in respect of the acquisition of the new residence”. As such, it falls squarely within the exclusionary provision of subsection 62(3) and was properly disallowed by the Minister.
+The Car Rental Expense
+[6] The Appellant owned a car in Ontario prior to his move in 2006. He considered driving or shipping it to Alberta. Upon learning that shipping would cost in the area of $1,500[2], he decided it would make more sense to sell it and purchase a new one in Alberta. Upon his arrival, he rented a car at the Calgary airport and drove to Airdrie to start his new job. He immediately began the search for a car to replace the one he had sold in Ontario; within five days, he had acquired and registered a 1994 Saturn for which he paid $1,200[3]. The cost of the rental car used in the interim was $ 290.55[4].
+[7] The Minister disallowed the car rental deduction. The Appellant’s argument is that but for the move to Alberta, he would not have incurred this expense. Had he driven or shipped that vehicle to Alberta, he could have deducted the costs of doing so, either of which would have been significantly more costly than the rental cost of $290.55. Instead, he chose the more fiscally prudent option and upon his arrival at the Calgary airport, proceeded forthwith to acquire a replacement vehicle.
+[8] Counsel for the Respondent submitted that such an expense is not a “moving expense” since there is no specific provision for car rental costs in subsection 62(3); nor does such an expense fall within the ordinary meaning of “moving expenses”.
+[9] To determine whether the cost claimed by the taxpayer is within the ordinary meaning of “moving expenses”, the test is whether that cost is “… a direct consequence of the change in residence imposed by the change in employment”[5]. But for his move from Ontario to work in Alberta, the Appellant would not have needed to move his car to Alberta; in lieu of the more costly options of shipping or driving his existing vehicle to Alberta, the Appellant quite sensibly decided to replace it. He could not reasonably be expected to acquire a replacement vehicle in Airdrie, some 31 kilometers north of Calgary, without interim transportation. Immediately upon his arrival in Alberta he set about replacing his former vehicle and within five days, had done so. In these circumstances, the car rental expense of $290.55 was a direct and reasonable cost of the move and is therefore deductible.
+The Ramp Expense
+[10] The Appellant owns a two-passenger hobby aircraft small enough, he testified, to have been constructed in his living room. Its wings can be removed for transportation or storage. When he moved from Ontario, he moved the aircraft by truck to Alberta. In Ontario, he had friends who were able to help him lift the aircraft into the moving truck; alone in Alberta, he had only himself to rely on. An ingenious fellow, the Appellant went off to the local lumber yard and purchased $29.57 worth of lumber to construct a ramp to effect the removal of the aircraft from the moving truck into his garage. There it was stored (with its wings removed) until he was able to make other arrangements at the Airdrie airport.
+[11] The Minister disallowed the deduction of the $29.57 on the basis that it did not come within the meaning of subsection 62(3)(b):
+62(3) Definition of “moving expenses”. In subsection (1), “moving expenses” includes any expense incurred as or on account of
+…
+(b) the cost to the taxpayer of transporting or storing household effects in the course of moving from the old residence to the new residence,
+…
+[12] The Appellant argued that the cost of the ramp materials ought to be deductible, as without the ramp he could not have completed the transport of the aircraft from Ontario to Alberta. In support of his position, he referred the Court to Interpretation Bulletin IT-178R3 which lists among the examples of allowable moving expenses the costs of transporting such items as boats and trailers.
+[13] The Respondent argues that the $29.57 is not properly deductible as that cost was not incurred for the “transporting or storing” of the aircraft and further, that the Appellant’s aircraft does not come within the meaning of “household effects” in paragraph 62(3)(b). Counsel for the Respondent referred to Yaeger v. Minister of National Revenue[6] in which the question was whether the costs of keeping and shipping a horse and trailer from England to Canada were properly deductible under subsection 62(3). Concluding that a horse and trailer could not reasonably be considered “household effects”, Couture, C.J. dismissed the appeal. His decision was based, in part, on the French version of paragraph 62(3)(b) in which the word used for “household effects” is “meubles” (which translates as “furniture”) and the adjectival clause modifying that term “… qui doivent être transportés de son ancienne résidence dans sa nouvelle résidence”. The Court concluded that “… no one in everyday usage would use the word “furniture” when referring to animals”[7]. Further, Couture, C.J. translated “transportés de son ancienne résidence dans sa nouvelle résidence”[8] as meaning “transported into the new residence”; on that translation, the Court held that because a horse trailer could not be put “into” the new residence, it was also excluded from the provision. [Emphasis added.]
+[14] There being no animals involved in the present matter, it remains only to consider whether the Court’s conclusion with regard to the horse trailer is applicable to the aircraft. In my view it is not. Notwithstanding the words used in the French version of paragraph 62(3)(b), in English, the ordinary meaning of the term “household effects” is broader than just “furniture”. Furthermore, in the English version of paragraph 62(3)(b), the phrase is “transporting to the new residence” which does not necessarily mean all household goods would be put inside the new house.
+[15] I accept the Appellant’s description of the aircraft as a small hobby aircraft used for personal recreation, designed to permit the removal of its wings to facilitate transportation or storage. It is no different in kind from other recreational vehicles such as a motor boat, a ski-doo or a bicycle, any of which would normally be considered part of the household effects under subsection 62(3). This interpretation is consistent with the example of the transport and storage of a boat and trailer cited in IT-178R3. Furthermore, the “new residence” must be read broadly to include the house and related areas like the garage or storage sheds.
+[16] The next question is whether the cost of the ramp to unload the aircraft was part of the transportation and storage costs. Counsel for the Respondent argued that because the Appellant was able to retain the ramp after he finished unloading the aircraft, its costs could not reasonably be linked to the move. I prefer however, the characterization advanced by the Appellant that the ramp is analogous to the cardboard boxes used in a move. Their cost would certainly be moving expenses; the fact that they might be reusable after the items were unpacked would not diminish their deductibility under paragraph 62(3)(b). Without the ramp, the Appellant would not have been able to complete its transportation to the new residence i.e., to make the last leg of the journey from the truck into the garage. The construction of the ramp was integral to the act of transporting the aircraft and the $29.57, part of the total transportation cost. Accordingly, the ramp cost is deductible.
+[17] The Appellant is also claiming relief from the interest charged in respect of the disallowed amounts. As counsel for the Respondent correctly submitted, the Tax Court of Canada has no jurisdiction to grant such relief.
+[18] The appeal is allowed and referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the Appellant is entitled to deduct $290.55 for car rental expenses and $29.57 for the ramp construction costs.
+Signed at Ottawa, Canada, this 9th day of April, 2009.
+“G. A. Sheridan”
+Sheridan, J.
+CITATION: 2009TCC163
+COURT FILE NO.: 2008-3470(IT)I
+STYLE OF CAUSE: SCOTT PHILLIPS AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Calgary, Alberta
+DATE OF HEARING: March 18, 2009
+REASONS FOR JUDGMENT BY: The Honourable Justice G. A. Sheridan
+DATE OF JUDGMENT: April 9, 2009
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Valerie Meier
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Séguin v. R., 1997 CarswellNat 2392 (F.C.A.); [1998] 2 C.T.C. 13 (F.C.A.).
+[2] Exhibit A-5.
+[3] Exhibit A-2.
+[4] Exhibit A-1.
+[5] Séguin, above, at paragraph 10.
+[6] [1986] 1 C.T.C. 2282 (T.C.C.).
+[7] Yaeger, above at page 2287.
+[8] Yaeger, above, at paragraph 36.

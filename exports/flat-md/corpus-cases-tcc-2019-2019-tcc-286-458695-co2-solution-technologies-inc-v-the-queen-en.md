@@ -1,0 +1,543 @@
+---
+title: "CO2 Solution Technologies Inc. v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/458695/index.do"
+last_modified: "2019-12-20"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2019 TCC 286"
+citation2: ""
+neutral_citation: "2019 TCC 286"
+decision_date: "2019-12-20"
+language: "en"
+item_id: "458695"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4297
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T11:56:48.610000+00:00"
+cases_cited_count: 12
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "1f4a20e2eb98034b02ea73aff87b62eece665d9a9e26ca77003b73dd5217ae32"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# CO2 Solution Technologies Inc. v. The Queen
+
+- Citation: 2019 TCC 286
+- Decision date: 2019-12-20
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4297, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+CO2 Solution Technologies Inc. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2019-12-20
+Neutral citation
+2019 TCC 286
+File numbers
+2015-5635(IT)G
+Judges and Taxing Officers
+Guy R. Smith
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2015-5635(IT)G
+BETWEEN:
+CO2 SOLUTION TECHNOLOGIES INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard on November 20, 21 and 22, 2018, at Quebec City, Quebec.
+Before: The Honourable Justice Guy R. Smith
+Appearances:
+Counsel for the appellant:
+Julie Gaudreault-Martel
+Lauzanne Bernard Normand
+Counsel for the respondent:
+Anne Poirier
+Simon Petit
+JUDGMENT
+The appeal from the assessment dated December 31, 2012, made by the Minister of National Revenue under the Income Tax Act, reducing to nil the refundable investment tax credit claimed by the appellant for the 2009 taxation year, is dismissed with costs to the respondent, in accordance with the attached reasons for judgment.
+Signed at Ottawa, Canada, this 20th day of December 2019.
+“Guy R. Smith”
+Smith J.
+Translation certified true
+on this 7th day of February 2020.
+François Brunet, Revisor
+Citation: 2019 TCC 286
+Date: 20191220
+Docket: 2015-5635(IT)G
+BETWEEN:
+CO2 SOLUTION TECHNOLOGIES INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Smith J.
+I. Background
+[1] CO2 Solution Technologies Inc. (hereafter “CO2 Technologies” or “the appellant”) claimed eligible scientific research and experimental development (“SR&ED”) expenses under subsection 127(9) of the Income Tax Act, R.S.C. 1985, c. 1 (5th Supp.) (“ITA”), stating that it was a “Canadian‑controlled private corporation” (hereafter “CCPC”).
+[2] The ITA provides for eligible SR&ED expenses that generally qualify for an investment tax credit (hereafter “ITC”) of 20%. However, if the corporation is a CCPC, as defined, subsection 127(10.1) provides for an ITC enhanced by 15% and subsection 127.1(1) provides for a refundable ITC (hereafter “refundable ITC”) of 35% for a “qualifying corporation,” that is, a corporation that is a CCPC within the meaning of subsection 125(7).
+[3] The Minister of National Revenue (the “Minister”) made an assessment for the 2009 taxation year, setting the appellant’s refundable ITC at nil on the ground that it was not a CCPC, as it is controlled, directly or indirectly, by a public corporation, namely CO2 Solutions Inc. (“Public CO2” or “public corporation”) and was therefore not entitled to the ITC enhancement or to the refundable ITC under subsection 127.1(1) of the ITA.
+[4] Unless otherwise stated, all references to legislative provisions in these reasons refer to the legislative provisions of the ITA as concerns the assessment and the taxation year in question.
+II. Issue
+[5] The issue is whether the appellant was entitled to the refundable ITC as a CCPC or whether, as claimed by the Minister, it was “a corporation controlled, directly or indirectly in any manner whatever . . . by one or more public corporations” within the meaning of paragraph 125(7)(a).
+[6] Alternatively, the Court must determine whether the public corporation was deemed to have control in law under subparagraph 251(5)(b)(i).
+III. Summary of facts
+[7] The parties filed a partial agreed statement of facts (“partial agreed statement of facts”) summarizing all the relevant facts, attached as Appendix A.
+[8] I will, nevertheless, provide an overview of the relevant facts by adding that the Court also heard from a number of witnesses for the appellant.
+[9] Public CO2 was incorporated as a joint stock company in 1997. This is a high‑tech company that operates [translation] ”in the field of carbon dioxide capture and management.” It used to claim refundable ITCs in connection with its SR&ED activities, but ceased doing so when it became public in 2004.
+[10] In 2005, Public CO2 had the following structure.
+On June 20, 2005, 9157‑4400 Québec Inc. (“4400”) was incorporated as a wholly owned subsidiary of Public CO2, whereas 9157‑4426 Québec Inc. (“4426”) and 9157‑4475 Québec Inc. (“4475”) were incorporated as wholly owned subsidiaries of 4400.
+[11] CO2 Technologies was also incorporated on June 20, 2005.
+[12] On July 4, 2005, 4400 established the Fiducie Financière CO2 Solution (“Fiducie CO2”). The deed of trust provides that the capital beneficiaries are 4400, 4426 and 4475 and the income beneficiaries are 4426, 4475 and CO2 Technologies.
+[13] The directors of Public CO2 are the directors of 4400, 4426, 4475 and of the appellant. They are also trustees of Fiducie CO2. According to the constituting document creating the trust (“deed of trust”), one essential condition is that each trustee must also be a director of Public CO2. For the taxation year in question, it is not disputed that the directors of these entities were essentially the same persons.
+[14] Fiducie CO2 subscribed for the shares of 4426 and the shares of CO2 Technologies. At all times relevant to the present case, Fiducie CO2 is the sole shareholder of CO2 Technologies and it alone can elect its directors.
+Transfer of SR&ED assets to the appellant
+[15] Public CO2 then transferred all of its assets connected to its SR&ED activities (paragraph 18 of the partial agreed statement of facts), as well as the contracts of employment of employees directly involved in these activities, to CO2 Technologies and entered into a lease or sublease agreement for some movable property and a commercial space. No relocation took place.
+[16] In consideration of this transfer, CO2 Technologies issued 305,000 shares with a fair market value and paid‑up capital of $305,000 to Public CO2. The same day, CO2 Technologies bought back these shares for $305,000.
+SR&ED research agreement
+[17] Public CO2 and CO2 Technologies subsequently entered into a research and development agreement (“research agreement”) on the [translation] ”management, sequestration, elimination and recycling of greenhouse gas” (paragraph 22 of the partial agreed statement of facts). In return, Public CO2 undertook to pay financial compensation equal to (i) 10% of income from the sale and marketing of results obtained by CO2 Technologies and (ii) 25% of any income from the granting of licences for the use of results obtained by CO2 Technologies. The parties agreed that Public CO2 would remain [translation] ”the owner of the intellectual property thus developed” (paragraph 24).
+Funding of the appellant and its operations
+[18] On July 4, 2005, Public CO2 subscribed for 500,000 shares of 4400 in consideration of $500,000, and the latter paid the same amount to 4426 as a contribution to its contributed surplus. 4426 then declared a dividend in the same amount on the shares held by Fiducie CO2. The latter acquired the appellant’s shares for total consideration of $500,000. Part of this amount, that is, $305,000, was used to buy back the Public CO2 shares, as explained above.
+[19] Following the reorganization, Public CO2 subscribed, on three occasions between 2005 and 2008, for shares of 4400 in consideration of $3,500,000 (including $2,000,000 during the 2009 fiscal year). The latter then paid the amount received as a contribution to 4426, which declared a dividend in the same amount on the shares held by Fiducie CO2, which then advanced the amounts received to CO2 Technologies by way of a no‑interest promissory note.
+Testimonies
+[20] As stated above, the Court heard the testimony of a number of people, including Linda Parent, the Financial Director of Public CO2. Following the reorganization in June 2005, she became responsible for the administrative management of the subsidiaries and of the appellant. She stated that approximately 16 of the 19 employees were transferred to the appellant following the reorganization. She added that the appellant had never received royalties under the research contract and, in particular, that it did not generate any income in 2009.
+[21] I gather from her testimony and from all the other testimonies that the intent was for the appellant to have a certain degree of operational and business autonomy. It maintained separate accounting, but paid 10% in management and administration fees to Public CO2. It could carry on business with third parties other than Public CO2, which it did on a few occasions.
+IV. Submissions of the parties
+(a) Appellant’s submissions
+[22] The appellant submits that it has been a CCPC since the date of its incorporation and that control in law has always been exercised by Fiducie CO2. It maintains that Public CO2 never exercised direct or indirect control in any way whatever for the purposes of the ITA.
+[23] The appellant maintains that this issue must be analyzed based on all the years during which it operated the company, that is, from 2005 to 2012. It acknowledges that it was a start‑up company and received funding from multiple sources, including the subsidiaries of Public CO2, but maintains that management of its business and its board of directors was autonomous and separate from Public CO2 from an operational standpoint. It had its own bank account, its accounting, its financial statements, and so on and so forth.
+[24] If there was any connection between the appellant and Public CO2, it was that of a partnership stemming from the research contract and from the fact that it retained intellectual property. It is for this reason that the appellant’s name was on the public corporation’s consolidated financial statements. However, this was essentially a business partnership. Even though the members of the board of directors were the same, they understood their duties and acted on behalf of the appellant autonomously and independently. There was therefore no control in fact.
+[25] As for the respondent’s alternative argument, the appellant submits that the legal presumption under subparagraph 251(5)(b)(i) does not apply to this situation because it is not deemed to be controlled by Public CO2.
+(b) Respondent’s submissions
+[26] The respondent submits that Public CO2 created the structure in question after becoming public in order to circumvent the restrictions of the ITA, which prevented it from profiting from the more advantageous ITC plan for CCPCs.
+[27] The respondent maintains that, despite the reorganization, the appellant was not a CCPC because it was “controlled, directly or indirectly in any manner whatever” by “one or more public corporations” within the meaning of paragraph 125(7)(a). In addition, under subsection 256(5.1), Public CO2 had control in fact, as it was a “controller” that had “any direct or indirect influence that, if exercised, would result in control in fact” of the appellant.
+[28] While conceding that operational or business control is not relevant to this analysis pursuant to the case law applicable at this time, the respondent maintains that Public CO2 had control in fact of the appellant under the deed of trust and the research contract. The respondent adds that under the appellant’s articles of incorporation, only the subsidiaries of Public CO2 or related entities could be a shareholder of it. The appellant could not issue shares to a third party not related to the public corporation.
+[29] Alternatively, the respondent submits that Public CO2 is deemed to have control in law because of the application of the presumption in subparagraph 251(5)(b)(i) of the ITA, which creates a legal fiction according to which each of its subsidiaries would have “a right under a contract, in equity or otherwise, either immediately or in the future and either absolutely or contingently” to shares of the capital stock of the appellant. Pursuant to this provision, they are deemed to have the same position in relation to control as if the person owned them at that time. Even though what we have here is a discretionary trust, subsection 248(25) provides a parallel definition for persons who are “beneficially interested” by adding “whether . . . subject to the exercise of any discretion.”
+[30] Lastly, the respondent states that the appellant’s status as a CCPC must be analyzed from one year to another and therefore for the 2009 taxation year in the case at hand. It follows that it is not relevant for the Court to analyze facts arising before or after the year at issue.
+V. Legislative framework and case law
+[31] It is not disputed that Public CO2 was a “public corporation” and that the appellant was a “Canadian corporation” and a “private corporation” according to the definition of these expressions in subsection 89(1) of the ITA. However, what must be determined is whether the appellant had CCPC status.
+[32] Subsection 248(1) of the ITA states that the definition of “Canadian‑controlled private corporation” is provided in subsection 125(7), which reads as follows:
+125(7) - The definitions in this subsection apply in this section.
+[...]
+“Canadian-controlled private corporation” means a private corporation that is a Canadian corporation other than:
+125(7) - Les définitions qui suivent s’appliquent au présent article.
+[...]
+« société privée sous contrôle canadien » Société privée qui est une société canadienne, à l’exception des sociétés suivantes:
+(a) a corporation controlled, directly or indirectly in any manner whatever, by one or more non-resident persons, by one or more public corporations (other than a prescribed venture capital corporation), by one or more corporations described in paragraph (c), or by any combination of them;
+[…]
+a) la société contrôlée, directement ou indirectement, de quelque manière que ce soit, par une ou plusieurs personnes non résidentes, par une ou plusieurs sociétés publiques (sauf une société à capital de risque visée par règlement), par une ou plusieurs sociétés visées à l’alinéa c) ou par une combinaison de ces personnes ou sociétés;
+[…]
+[Emphasis added.]
+(i) Control in law (or de jure control)
+[33] Given the use of the expression “controlled corporation,” we must first review the concept of control in law, which was established in Buckerfield’s Limited et al. v. MNR, 64 DTC 5301, (1964) CTC 504 (Exchequer Court) (“Buckerfield’s”), in which the Court stated that the issue was to determine whether a shareholder enjoyed “effective control” over the affairs of the corporation, as manifested by the ownership of such a number of shares as carries with it the right to a majority of the votes in the election of the board of directors (p. 507).
+[34] The concept of “effective control” was subsequently confirmed by the Supreme Court of Canada in Duha Printers (Western) Ltd. v. The Queen, [1998] 1 S.C.R. 795, 98 DTC 6334, (1998) 3 CTC 303 (“Duha Printers”), in which the Court stated that one must consider the corporation’s governing statute, the share register of the corporation, any specific or unique limitation on either the majority shareholder’s power to control the election of the board of directors or the board’s power to manage the business and affairs of the company, as manifested in either the articles of incorporation of the corporation or any unanimous shareholder agreement. Iacobucci J. made it clear that external documents, other than the share register of the corporation, the articles of incorporation and unanimous shareholder agreements, generally should not be considered in assessing de jure control (paragraph 85).
+(ii) Control in fact (or de facto control)
+[35] The concept of control in fact was introduced in the ITA following the addition in 1988 of subsection 256(5.1), which reads as follows:
+[…]
+256(5.1) - For the purposes of this Act, where the expression “controlled, directly or indirectly in any manner whatever,” is used, a corporation shall be considered to be so controlled by another corporation, person or group of persons (in this subsection referred to as the “controller”) at any time where, at that time, the controller has any direct or indirect influence that, if exercised, would result in control in fact of the corporation (…)
+[…]
+256(5.1) - Pour l’application de la présente loi, lorsque l’expression « contrôlée, directement ou indirectement, de quelque manière que ce soit, » est utilisée, une société est considérée comme ainsi contrôlée par une autre société, une personne ou un groupe de personnes — appelé « entité dominante » au présent paragraphe — à un moment donné si, à ce moment, l’entité dominante a une influence directe ou indirecte dont l’exercice entraînerait le contrôle de fait de la société (…)
+[Emphasis added.]
+[36] In Silicon Graphics Ltd. v. The Queen, 2002 FCA 260 (“Silicon Graphics”), the Federal Court of Appeal had to decide whether non‑resident shareholders had de jure control of the corporation. Having concluded that there was insufficient evidence in that regard, the Court then asked whether “one or more non‑resident persons had direct or indirect influence that, if exercised, would result in control in fact in the years” (paragraph 62). The Court concluded as follows:
+67. It is therefore my view that in order for there to be a finding of de facto control, a person or group of persons must have the clear right and ability to effect a significant change in the board of directors or the powers of the board of directors or to influence in a very direct way the shareholders who would otherwise have the ability to elect the board of directors.
+[Emphasis added.]
+[37] The Federal Court of Appeal then attempted to summarize the jurisprudential trend at the time in Transport M.L. Couture v. The Queen, 2004 FCA 23 (“Transport M.L.”), citing the trial judge, who explained that in “the absence of any legislative guidance, the courts have concluded over the years that only de jure control is decisive (that is, the power to elect a majority of the directors of a corporation)” (paragraph 12) and that:
+[14] . . . subsection 256(5.1) was adopted in 1988 to incorporate the concept of de facto control into the Act, together with the concept of de jure control. To avoid any conflict between these two concepts, the Act now provides in subparagraph 256(1.2)(b)(ii) that a corporation may be controlled by a person notwithstanding that the corporation is also controlled or deemed to be controlled by another person. Accordingly, Transport Couture could exercise de facto control over ML1 and ML2 although the de jure control lay elsewhere.
+[38] The Court then concluded as follows:
+[24] It is not possible to list all the factors which may be useful in determining whether a corporation is subject to de facto control (Duha Printers, [1998] 1 S.C.R. 795, paragraph [38]). However, whatever factors are considered, they must show that a person or group of persons has the clear right and ability to change the board of directors of the corporation in question or to influence in a very direct way the shareholders who would otherwise have the ability to elect the board of directors (Silicon Graphics, [2002] FCA 260, paragraph [67]). In other words, the evidence must show that the decision‑making power of the corporation in question in fact lies elsewhere than with those who have de jure control.
+[Emphasis added.]
+[39] The question of “factors” that must be analyzed to determine whether a corporation is “subject to de facto control” was addressed by our Court in Lyrtech RD Inc. v. The Queen, 2013 TCC 12 (“Lyrtech”): a public corporation had transferred its SR&ED activities to the appellant and the sole shareholder of the latter was a trust whose trustees were also directors of the public corporation.
+[40] The facts in Lyrtech were therefore very similar to the present case. The Court concluded that there was control in fact between the public corporation and the appellant, which sought to benefit from the advantages of CCPC status. Favreau J. based his decision mainly on a set of factors that, according to him, showed that the public corporation could influence the appellant’s activities beyond its power to change the composition of the appellant’s board of directors, including (i) the fact that the office of trustee had to be held by a director of the public corporation; (ii) the two individuals who were the appellant’s directors and trustees were also prominent officials of the public corporation; and (iii) the appellant was economically dependent on the public corporation, especially given that the appellant was paid on the basis of sales and not according to work completed, and its operations were largely unprofitable and funded by the public corporation.
+[41] The Court therefore concluded that the appellant corporation’s activities were wholly part of the public corporation and that it had no operational or financial autonomy.
+[42] Lyrtech was upheld on appeal, and the Federal Court of Appeal made the following comments as to when control in fact should be analyzed: Lyrtech RD. Inc. v. The Queen, 2014 FCA 267:
+42. What is relevant for R&D credits is whether there was an economic dependence or de facto control during the taxation years in issue. The fact that the appellant intended to eventually become financially autonomous is irrelevant; what is relevant is whether it was autonomous during the years at issue, failing which it was not entitled to the credits.
+[43] Then, in Solutions MindReady R&D Inc. v. The Queen, 2015 TCC 17 (“Solutions MindReady”) [1] , Favreau J. had to examine a situation nearly identical to Lyrtech where an accounting firm had recommended a structure “to qualify the appellant as a” CCPC. He concluded as follows:
+[35] Following the decisions of this Court and the Federal Court of Appeal in Mimetix Pharmaceuticals Inc. v. Canada, [2001] F.C.J. No. 749 (Lamarre J.) affirmed by the Federal Court of Appeal, 2003 FCA 106; Plomberie J.C. Langlois Inc. v. Canada, 2004 TCC 734 (Lamarre‑Proulx J.) affirmed by the Federal Court of Appeal, 2006 FCA 113; L.D.G. 2000 Inc. v. Canada, [2002] F.C.J. No. 659 (Angers J.); and more recently in Lyrtech RD Inc. v. The Queen, 2013 TCC 12, affirmed by the Federal Court Appeal, 2014 FCA 267, the law is now well settled: the determination of the influence necessary for a corporation to be considered as being controlled by another corporation requires the examination of the operational and economic decisions of the corporation in question. A form of determinative economic influence that enables a corporation to be in a position to impose its will on the affairs of another corporation is sufficient to constitute de facto control.
+[Emphasis added.]
+[44] This Court’s decision in McGillivray Restaurants v. The Queen, 2014 TCC 257 (“McGillivray”) [2] was then appealed from to the Federal Court of Appeal (2016 FCA 99), which summarized the trial judgment:
+[16] The Judge determined that there were two competing interpretations of subsection 256(5.1). He found that the Court’s decision in Silicon Graphics Limited v. Canada, 2002 FCA 260, [2003] 1 FC 447 (Silicon Graphics), provided a narrow interpretation under which a person would only be considered to have control in fact if that person had the clear right and ability either to effect significant change in the board of directors or the powers of the board of directors or to influence in a very direct way the shareholders who would otherwise have the ability to elect the board of directors.
+[17] In contrast, he concluded that the Court’s decisions in Mimetix Pharmaceuticals Inc. v. Her Majesty the Queen, 2003 FCA 106, [2003] 3 C.T.C. 72 (Mimetix Pharmaceuticals) and Plomberie J.C. Langlois Inc. v. Canada, 2006 FCA 113, [2007] 3 C.T.C. 148 (Plomberie J.C. Langlois) had broadened the test set forth in Silicon Graphics. Thus, he concluded that the test required him to look beyond the right and ability to affect the composition or powers of the board, and to consider broader manners of influence in making the determination of who in fact has effective control of the affairs and fortunes of the corporation in question.
+[45] Therefore, just like in the decision in Lyrtech, Boyle J. concluded that “broader manners of influence” should be considered in tackling the issue of control in fact. The Federal Court of Appeal did not agree, however, stating the following:
+43. In Lyrtech, this Court affirmed that the test for de facto control is that in Silicon Graphics . . . . Lyrtech cannot, in my view, be read as having determined that the narrow test in Silicon Graphics was manifestly wrong and ought not to be followed. To the extent that Lyrtech may be taken as having repudiated the Silicon Graphics test, it ought not to be followed.
+[46] The Federal Court of Appeal was therefore of the opinion that the criterion developed in Silicon had not been relaxed. It concluded as follows at paragraph 45: “Accordingly, I affirm that the narrow test set out in paragraph 67 of Silicon Graphics is correct and has not been overturned by this Court.”
+[47] Having made these observations, Ryer J. concluded that an oral agreement between two spouses, granting one of them the right “to determine the Taxpayer’s Board of Directors was influence of the type contemplated by subsection 256(5.1), within the interpretation of this Court set out in Silicon Graphics” paragraph 57).
+[48] The McGillivray decision was then applied for the first time by our Court in Aeronautic Development Corp. v. The Queen, 2017 TCC 39 (“Aeronautic”), in which Hogan J. stated the following:
+46. For the courts to conclude that the controller has control in fact, I believe that the evidence must show that the controller has the ability to affect the economic interest of the voting shareholders in a manner that allows the controller to impose his or her will on them, should he or she decide to do so. The evidence must allow the Court to discern that it would be unlikely that the shareholders would exercise their voting rights independently of the controller’s wishes.
+[49] With respect to the development agreement, Hogan J. pointed out that the “terms of the Development Agreement were dictated by Mr. Silva, who controlled both parties when the agreement was entered into. The terms and conditions of the Development Agreement appear to me to be lopsided” (paragraph 50). He added that this agreement was the sole source of the Appellant’s income.
+[50] Although the trial decision was upheld by the Federal Court of Appeal, the latter, in a ruling by Gleason J., criticized the manner in which McGillivray was applied at trial:
+48. Turning, first, to the legal errors alleged, I agree with ADC that the Tax Court erred in its interpretation of subsection 256(5.1) of the ITA in the two ways ADC asserts.
+49. As already noted, in McGillivray, which is the most recent authority on the point, this Court determined that operational control is insufficient to constitute de facto control under subsection 256(5.1) of the ITA and held that, instead, there must be some legally-enforceable arrangement or arrangements that give rise to such control. The development agreement undoubtedly does constitute such an arrangement.
+50. However, in the instant case, the Tax Court went well beyond relying on the terms of the development agreement in considering what circumstances gave rise to de facto control and instead considered such issues as ADC’s financial position, the other shareholders’ dependence on the viability of ADC and representations made by Mr. Silva in newsletters regarding the integration of ADC with his other companies. While these other factors are indicative of operational control, they are not the result of a legally-enforceable arrangement. I thus conclude that the Tax Court erred in premising its de facto control decision in part on factors that McGillivray determined to be irrelevant under subsection 256(5.1) of the ITA.
+[Emphasis added.]
+[51] Thus, the Federal Court of Appeal reiterated that the factors to be considered must arise from one or more legally binding agreements, again confirming that the criterion for analyzing control in fact is narrow. However, the trial decision was upheld:
+52. Despite these two errors, I see no basis for interfering with the Tax Court’s decision as these two errors are immaterial to the result reached. As noted, and as indeed conceded by ADC, the development agreement constitutes a legally-enforceable arrangement capable of establishing de facto control under subsection 256(5.1) of the ITA in the circumstances of this case.
+[Emphasis added.]
+(iii) Deemed control in law
+[52] As stated above, the respondent alternatively submits that Public CO2 is deemed to have control in law of the appellant in view of subparagraph 251(5)(b)(i) and of the definition of “beneficially interested” under subsection 248(25) of the ITA. These provisions provide as follows:
+251(5) - For the purposes of subsection 251(2) and the definition Canadian-controlled private corporation in subsection 125(7) :
+[…]
+251(5) - Pour l’application du paragraphe (2) et de la définition de société privée sous contrôle canadien au paragraphe 125(7):
+[…]
+(b) where at any time a person has a right under a contract, in equity or otherwise, either immediately or in the future and either absolutely or contingently:
+(i) to, or to acquire, shares of the capital stock of a corporation or to control the voting rights of such shares, the person shall, except where the right is not exercisable at that time because the exercise thereof is contingent on the death, bankruptcy or permanent disability of an individual, be deemed to have the same position in relation to the control of the corporation as if the person owned the shares at that time
+[…]
+b) la personne qui, à un moment donné, en vertu d’un contrat, en equity ou autrement, a un droit, immédiat ou futur, conditionnel ou non :
+(i) à des actions du capital-actions d’une société ou de les acquérir ou d’en contrôler les droits de vote, est réputée occuper la même position relativement au contrôle de la société que si elle était propriétaire des actions à ce moment, sauf si le droit ne peut être exercé à ce moment du fait que son exercice est conditionnel au décès, à la faillite ou à l’invalidité permanente d’un particulier
+[…]
+248(25) For the purposes of this Act,
+(a) a person or partnership beneficially interested in a particular trust includes any person or partnership that has any right (whether immediate or future, whether absolute or contingent or whether conditional on or subject to the exercise of any discretion by any person or partnership) as a beneficiary under a trust to receive any of the income or capital of the particular trust either directly from the particular trust or indirectly through one or more trusts or partnerships;
+248(25) Les règles suivantes s’appliquent dans le cadre de la présente loi :
+a) comptent parmi les personnes ou sociétés de personnes ayant un droit de bénéficiaire dans une fiducie donnée celles qui ont le droit — immédiat ou futur, conditionnel ou non, ou soumis ou non à l’exercice d’un pouvoir discrétionnaire par une personne ou une société de personnes — à titre de bénéficiaire d’une fiducie de recevoir tout ou partie du revenu ou du capital de la fiducie donnée, soit directement de celle-ci, soit indirectement par l’entremise d’une ou de plusieurs fiducies ou sociétés de personnes;
+[53] These provisions are found in Part XVII of the ITA entitled “Interpretation” and therefore, unless stated otherwise, the Court must conclude that they are of general application. They were reviewed by the Federal Court of Appeal in the decision in Propep Inc. v. Canada, 2009 FCA 274 (“Propep”) where Lamarre J. (as she then was) of this Court was to determine whether the companies were related for the purposes of the “small business deduction” provided for in subsection 125(1) of the ITA. It is worth noting that, in this case, all of the voting shares of the appellant’s capital stock were owned by another corporation whose shares were held by a trust. Lamarrre J. concluded that the corporations were not related because, based on the interpretation of the deed of trust, the second beneficiary’s right to capital and revenue “was conditional on” the first beneficiary “being wound up” (paragraph 9), “a suspensive condition that had not yet been realized” (paragraph 15), and therefore subparagraph 256(1.2)(f)(ii) did not apply. This provision reads as follows:
+Control, etc.
+For the purposes of this subsection and subsections 256(1), 256(1.1) and 256(1.3) to 256(5),
+(…)
+(f) where shares of the capital stock of a corporation are owned, or deemed by this subsection to be owned, at any time by a trust,
+(i) [Repealed, 2014, c. 39, s. 76]
+(ii) where a beneficiary’s share of the accumulating income or capital therefrom depends on the exercise by any person of, or the failure by any person to exercise, any discretionary power, those shares are deemed to be owned at that time by the beneficiary,
+256 (1.2) - Pour l’application du présent paragraphe et des paragraphes (1), (1.1) et (1.3) à (5):
+(…)
+f) les actions du capital-actions d’une société dont une fiducie est à un moment donné propriétaire ou réputée propriétaire en application du présent paragraphe :
+(i) [Abrogé, 2014, ch. 39, art. 76]
+(ii) sont réputées être la propriété à ce moment de chaque bénéficiaire dont la part sur le revenu ou le capital accumulés de la fiducie est conditionnelle au fait qu’une personne exerce ou n’exerce pas un pouvoir discrétionnaire,
+[Emphasis added.]
+[54] The Federal Court of Appeal did not agree, stating that it was necessary “to identify the legal effects of the trust deed according to its wording and the circumstances surrounding its execution” (paragraph 14) and that even though this was “a suspensive condition that had not yet been realized,” the trustees nonetheless had the discretion to benefit the beneficiary such that, under subparagraph 256(1.2)(f)(ii), the shares in question were deemed to be owned by the beneficiary in question.
+[55] The Court concluded that, in any case, “income interest in a trust, even when subject to a condition, is a right that is regarded as absolute” (paragraph 20), pursuant to the definition of “income interest” in subsection 108(1) of the ITA and pursuant to subsection 248(25) cited above, which is of general application and notably provides that a “taxpayer is deemed to be ‘beneficially interested’ when that taxpayer has a right, ‘whether absolute or contingent’, to receive income or capital of a trust” (paragraph 22). The trial judge was of the opinion that the expression “beneficially interested” did not apply because it did not appear in any of the provisions pertaining to related corporations. However, the Federal Court of Appeal did not agree, stating that:
+[24] With respect, the expression “beneficially interested” does not have to be reproduced in each provision where it is likely to be applied. This concept applies each time the question arises whether a person is “beneficially interested” in a particular trust. A person who has a contingent right to the capital or income of a trust is “beneficially interested” for the purposes of the Act.
+[56] The appellant in this case is relying on the analysis of these provisions by Favreau J. in Lyrtech (2013 TCC 12), in which he concluded that the beneficial interest of the beneficiaries of the trust in question was “too aleatory, uncertain or indirect to be a right to the appellant’s shares under paragraph 251(5)(b)” (paragraph 55), adding that:
+[56] I highly doubt that Parliament’s intent was for subsection 248(25) to apply to paragraph 251(5)(b) because the concept of beneficial interest is far too broad in scope and much too vague for it to apply to the concept of de jure control for the purposes of the definition of “Canadian‑controlled private corporation”.
+[57] On appeal, the Federal Court of Appeal did not address the alternative argument on this matter.
+VI. – Analysis and conclusion
+[58] First, it should be noted that CCPC status and the concept of control under subsection 256(5.1) must be analyzed from year to year, given the expression “at any time where, at that time” under subsection 256(5.1). Also, the definition of “qualifying corporation” provides that this concept applies to a corporation that is a CCPC “in the particular taxation year” and the definition of “non‑qualifying corporation” provides that it is “a corporation that is, at that time” not a CCPC. I therefore do not agree with the appellant, who submits that the Court must analyze all its operations from 2005 to 2012. The examination must be of its situation during the taxation year.
+[59] For the purposes of the issue of control in law, it is acknowledged that Fiducie CO2 was the appellant’s sole shareholder and therefore had control in law. However, the Supreme Court of Canada held in Duha Printers, by citing Buckerfield’s, that we must go beyond the register of shareholders or directors to identify the person or group of people with “effective control” of a corporation.
+[60] The Supreme Court specifies that one must consider “the corporation’s governing statute,” particularly “any specific or unique limitation on either the majority shareholder’s power to control the election of the board.” Even though Iacobucci J. provided a caveat about so‑called “external” documents, it remains that in this case, the deed of trust is the document creating the trust, which is the appellant’s sole shareholder.
+[61] Fiducie CO2 was established by deed of trust by 4400, a wholly owned subsidiary of Public CO2. The Court must conclude, and the testimonial evidence confirms that the latter designed, developed and dictated the terms and conditions of this document, who established that trustees had to also be directors of Public CO2. According to the partial agreed statement of facts, it is agreed that the directors of Public CO2 were also trustees of Fiducie CO2 at the beginning of the taxation year in question, in addition to being the directors of 4400, 4426 and 4475 and of the appellant.
+[62] In accordance with the established mechanism, a change in the board of directors of Public CO2 would result, ipso facto, in a change in the trustees of the trust. In other words, a trustee who ceased being a director of Public CO2 would automatically cease being a trustee of Fiducie CO2. It is agreed that this was an essential condition. In my opinion, this is sufficient and enables the Court to conclude that Public CO2 had effective control and therefore control in law of the appellant according to Buckerfield’s and Duha Printers. In reaching this conclusion, I read nothing into the fact that the trustees had to consent to this office given that they also had to consent, in the normal course of business, to their appointment as directors of the public corporation, its subsidiaries and the appellant.
+[63] However, the respondent did not explicitly raise this argument, opting instead to rely on the broader and more general notion of control in fact. As explained by the Federal Court of Appeal in Transport M.L., “subsection 256(5.1) was adopted in 1988 to incorporate the concept of de facto control in the Act, together with the concept of de jure control.” In addition, as the Federal Court of Appeal stated in Lyrtech “Parliament [enacted] subsections 256(6.1) and (6.2) to adopt the concept of simultaneous de jure and de facto control” paragraph 22).
+[64] In analyzing control in fact, even though the Court does not, in this case, take into account the apparent factors of operational and economic influence, as we are directed by the Federal Court of Appeal in McGillivray and Aeronautic, it must nonetheless conclude that, because of the deed of trust, the appellant was a corporation “controlled, directly or indirectly in any manner whatever” by a public corporation within the meaning of subsection 256(5.1). To cite Silicon Graphics, Public CO2 had, by reason of the deed of trust and through its subsidiaries, “the clear right and ability to . . . influence in a very direct way” the appellant’s sole shareholder, namely Fiducie CO2. The Court must conclude that the trust agreement was a “legally‑enforceable arrangement,” according to the phrase used by the Federal Court of Appeal in McGillivray and Aeronautic.
+[65] As the respondent points out, while McGillivray involved an oral agreement between two spouses, this case involves a written agreement, that is, the deed of trust. Just like Ryer J., the Court must conclude that this document was “influence of the type contemplated by subsection 256(5.1), as per the interpretation propounded by this Court in Silicon Graphics.”
+[66] Moreover, Appendix ”C” of the appellant’s certificate of incorporation dated June 20, 2005, states that only some entities [translation] ”can hold shares of the capital stock issued and in circulation,” namely Public CO2 or its wholly owned subsidiaries, or a trust whose beneficiaries are Public CO2 or its wholly owned subsidiaries. It seems apparent to me that this is a legally binding contract whose purpose was to ensure control of the appellant by the public corporation, within the meaning of subsection 256(5.1).
+[67] What remains is the research agreement between the appellant and the public corporation, the terms and conditions of which had allegedly also been dictated by the latter. As Gleason J. points out in Aeronautic (FCA), “there must be some legally‑enforceable arrangement or arrangements that give rise to [de facto control]” (paragraph 49) and “the development agreement constitutes a legally‑enforceable arrangement capable of establishing de facto control under subsection 256(5.1) of the ITA” (paragraph 52). Although it is alleged in this case that the appellant had a certain degree of autonomy and that it transacted with third parties, I see no reason to distinguish the facts of this case from Lyrtech or Solutions MindReady, which were nearly identical, or Aeronautic, which also bore on a research agreement.
+[68] Ultimately, in view of the above, the Court must conclude that Public CO2 was a “controller” that, for the taxation year in question, had “direct or indirect influence that, if exercised, would result in control in fact” of the appellant within the meaning of subsection 256(5.1).
+[69] Having concluded that the appellant was subject to control in fact by the public corporation, there is no need to address the respondent’s alternative argument as to the appellant’s deemed control in law under subparagraph 251(5)(b)(i) or the concept of being beneficially interested under subsection 248(25). However, it seems to me that this Court would have been bound by the conclusion of the Federal Court of Appeal in Propep.
+[70] The Court therefore concludes that the appellant was not a CCPC for the taxation year in question, since it was a corporation “controlled, directly or indirectly in any manner whatever” by a public corporation within the meaning of paragraph 125(7)(a). On that sole ground, we can conclude that it was not a “qualifying corporation” under subsection 127.1(2) and was therefore not entitled to the ITC enhancement under subsection 127(10.1) or to the refundable ITC under subsection 127.1(1).
+[71] For these reasons, the appeal is dismissed with costs to the respondent.
+Signed at Ottawa, Canada, this 20th day of December 2019.
+“Guy Smith”
+Smith J.
+Translation certified true
+on this 7th day of February 2020.
+François Brunet, Revisor
+12015-5635(IT)G
+TAX COURT OF CANADA
+BETWEEN:
+CO2 SOLUTION TECHNOLOGIES INC.
+Appellant
+and
+HER MAJESTY THE QUEEN
+Respondent
+[OFFICIAL ENGLISH TRANSLATION]
+PARTIAL AGREED STATEMENT OF FACTS
+THE PARTIES AGREE, for the sole purposes of the present appeal, that the following facts are true.
+The appellant’s return and the assessment at issue
+1. In preparing its income tax return for its 2009 year, the appellant stated that it was a Canadian‑controlled private corporation (hereafter “CCPC”).
+2. For its 2009 taxation year, the appellant claimed $779,473 and $52,112, respectively, in eligible SR&ED expenses of a current nature and of a capital nature under subsection 127(9) of the Income Tax Act (“ITA”).
+In connection with these expenses and under subsections 127(9), 127(10.1) and 127.1(1) of the ITA, the appellant claimed an investment tax credit (hereafter “ITC”) of $291,055 and a refundable ITC of $280,112.
+On December 31, 2012, the Minister of National Revenue (“Minister”) issued an assessment in respect of the appellant for the 2009 taxation year, setting the refundable ITC of $280,112 claimed to nil. In all other respects, this 2009 assessment is a nil assessment.
+By making such an assessment, the Minister took the position that the appellant does not qualify as a CCPC, within the meaning of subsection 125(7) of the ITA, because it was a corporation controlled, directly or indirectly in any manner whatever, by a public corporation. On or around March 28, 2013, the appellant challenged the December 31, 2012, assessment for the 2009 taxation year.
+On or around September 22, 2015, the Minister confirmed that assessment.
+Background
+CO2 Solutions Inc. (Public) was incorporated as a joint stock company in November 1997 pursuant to the Companies Act, Part 1A.
+In March 2004, it was merged with several corporations, namely 9081‑5044 Québec Inc., 9118‑2402 Québec Inc., 9067‑3427 Québec Inc. and 9079‑6707 Québec Inc., subsequently becoming a public corporation.
+It ran a high‑tech company that operates in the field of carbon dioxide capture and management.
+In March 2004, Public’s directors were as follows:
+Réjean BLAIS
+Yvon GIASSON
+Kimberley Ann OKELL
+Martin P. PELLETIER
+Ghislain THÉBERGE
+Bernard VERREAULT
+Claude VILLENEUVE
+Jean LAMARRE
+Andrée-Lise MÉTHOT
+[BLANK]
+Public qualified as a CCPC until March 2004 and, as such, claimed refundable ITCs for its SR&ED activities.
+Between March 2004 and June 2005, Public claimed non‑refundable ITCs and ceased claiming ITCs thereafter.
+Reorganization and transactions in June and July 2005
+In 2005, Public transferred its SR&ED activities to the appellant.
+A number of steps took place, as described below:
+a) On June 20, 2005, the appellant was incorporated.
+b) On June 20, 2005, 9157‑4400 Québec Inc. (“AuteurCo”) was incorporated and Public subscribed for 400 Class A shares for a total consideration of $400.
+c) On June 20, 2005, 9157‑4426 Québec Inc. (“Beneficiary1”) was incorporated and, on July 4, 2005, AuteurCo subscribed for 100 Class A shares of Beneficiary1 for a total consideration of $100.
+d) On June 20, 2005, 9157‑4475 Québec Inc. (“Beneficiary2”) was incorporated and, on July 4, 2005, AuteurCo subscribed for 100 Class A shares of Beneficiary2 for a total consideration of $100.
+e) On or around July 4, 2005, the following individuals agreed to be the directors of AuteurCo, Beneficiary1 and Beneficiary2:
+Réjean BLAIS
+Yvon GIASSON
+Kimberley Ann OKELL
+Martin P. PELLETIER
+Ghislain THÉBERGE
+Bernard VERREAULT
+Claude VILLENEUVE
+Jean LAMARRE
+Andrée-Lise MÉTHOT
+[BLANK]
+f) On July 4, 2005, Fiducie financière CO2 Solution (“Fiducie”) was created. AuteurCo was the settlor and transferred to it a silver ingot free of charge.
+g) At the time of Fiducie’s incorporation, the trustees were Réjean Blais and Ghislain Théberge.
+h) Fiducie’s deed of trust also names as trustees the following people, who had previously accepted this office: Yvon Giasson, Jean Lamarre, Andrée-Lise Méthot, Kimberley Ann Okell, Martin P. Pelletier, Bernard Verreault and Claude Villeneuve.
+i) According to Fiducie’s deed of trust, the beneficiaries of Fiducie’s income were Beneficiary1, Beneficiary2 and the appellant.
+j) According to Fiducie’s deed of trust, the beneficiaries of Fiducie’s capital were AuteurCo, Beneficiary1 and Beneficiary2.
+k) According to Fiducie’s deed of trust, it is an essential condition for each trustee to be, while in this position, a sitting director of Public and to accept this office in writing.
+l) According to Fiducie’s deed of trust, a person who becomes Public’s director also becomes eligible to hold the office of trustee, but only if that person had previously accepted such office.
+m) According to Fiducie’s deed of trust, a person who is a director of Public and a trustee could relinquish the office of trustee, while remaining Public’s director.
+n) On July 4, 2005, AuteurCo made a donation to Fiducie in the amount of $100 by deed of donation.
+o) On July 4, 2005, Fiducie subscribed for 100 Class E shares of Beneficiary1 for a total consideration of $100.
+p) On July 4, 2005, Public subscribed for 500,000 Class A shares of AuteurCo for a total consideration of $500,000.
+q) On July 4, 2005, AuteurCo paid $500,000 to Beneficiary1 as a contribution. This amount was applied to its contributed surplus.
+r) On July 4, 2005, Beneficiary1 declared a dividend of $500,000 on Class E shares held by Fiducie.
+s) On July 4, 2005, Fiducie subscribed for 100 Class A shares of the appellant for a consideration of $100.
+t) On or around July 4, 2005, the following individuals agreed to be the appellant’s directors:
+Réjean BLAlS
+Yvon GIASSON
+Kimberley Ann OKELL
+Martin P. PELLETIER
+Ghislain THÉBERGE
+Bernard VERREAULT
+Claude VILLENEUVE
+Jean LAMARRE
+Andrée-Lise MÉTHOT
+[BLANK]
+u) On July 4, 2005, Fiducie subscribed for 499,900 Class B shares of the appellant for a consideration of $499,900.
+On July 4, 2005, the established structure was reflected in the table in Appendix A.
+The year‑end for the appellant, Public, AuteurCo, Beneficiary1 and Beneficiary2 is June 30.
+On July 4, 2005, AuteurCo granted the appellant an option to acquire shares of Beneficiary1 and Beneficiary2.
+On or around July 4, 2005, the appellant acquired a number of Public’s assets, including its SR&ED activities in connection with the design, development, production and marketing of products and services related to the management, sequestration, elimination and recycling of greenhouse gas, goodwill related to these activities, and the rights and interest in the contracts of employment of certain employees, including all employees directly involved in SR&ED activities.
+As payment for these assets, the appellant issued to Public three hundred five thousand (305,000) Class ”C” shares of the appellant’s capital stock with a fair market value and paid‑up capital of three hundred five thousand dollars ($305,000).
+As part of this transaction, Public and the appellant agreed that Public would lease or sublease from the appellant certain movable property as well as commercial space located at 2300 Jean‑Perrin Street in Quebec City.
+The same day, the appellant bought back its Class ”C” shares for three hundred five thousand dollars ($305,000).
+A research and development agreement was entered into between Public and the appellant, according to which the latter undertook to carry out all of the research and development work relating to the management, sequestration, elimination and recycling of greenhouse gas in the context of climate change (hereafter “capture technology”).
+In consideration of the appellant’s work, Public undertook to pay financial compensation as follows:
+a) Ten percent (10%) of all income received by Public arising from the sale and marketing of results obtained by the appellant;
+b) Twenty‑five percent (25%) of all income received by Public arising from the granting of licences for the use of results obtained by the appellant.
+In accordance with this research agreement, the appellant undertook to carry out SR&ED work, while Public continued to be the owner of the intellectual property thus developed by the appellant in connection with the [translation] ”research work,” defined as all research and development work relating to the management, sequestration, elimination and recycling of greenhouse gas in the context of climate change.
+On July 1, 2008, the directors of the appellant, Public, AuteurCo, Beneficiary1 and Beneficiary2 were as follows:
+Réjean BLAIS
+Yvon GIASSON
+Kimberley Ann OKELL
+Martin P. PELLETIER
+Jocelyn PROTEAU
+Glenn KELLY
+On July 1, 2008, the trustees of Fiducie were as follows:
+Réjean BLAIS
+Yvon GIASSON
+Kimberley Ann OKELL
+Martin P. PELLETIER
+Jocelyn PROTEAU
+Glenn KELLY
+On June 30, 2009, the directors of the appellant, Public, AuteurCo, Beneficiary1 and Beneficiary2 were as follows:
+Evan PRICE
+[BLANK]
+Kimberley Ann OKELL
+Martin P. PELLETIER
+Jocelyn PROTEAU
+Glenn KELLY
+On June 30, 2009, the trustees of Fiducie were as follows:
+Evan PRICE
+[BLANK]
+Kimberley Ann OKELL
+Martin P. PELLETIER
+Jocelyn PROTEAU
+Glenn KELLY
+Funding of the appellant’s operations
+Following the reorganization, Fiducie paid the following advances to the appellant: $500,000 on November 2, 2005; $1,000,000 on July 25, 2006; and $2,000,000 on August 28, 2008.
+Fiducie obtained the necessary amounts to proceed with each advance as follows:
+a) Public acquired Class A shares of AuteurCo.
+Date
+Class A shares of AuteurCo acquired by Public
+Consideration paid by Public to AuteurCo
+November 2, 2005
+500,000 shares
+$500,000
+July 25, 2006
+1,000,000 shares
+$1,000,000
+August 28, 2008
+2,000,000 shares
+$2,000,000
+b) AuteurCo contributes this amount to Beneficiary1, which applies it against its contributed surplus.
+Date
+Contribution paid by AuteurCo to Beneficiary1
+November 2, 2005
+$500,000
+July 25, 2006
+$1,000,000
+August 28, 2008
+$2,000,000
+c) Beneficiary1 declares a dividend on Class E shares held by Fiducie.
+Date
+Dividend declared on Class E shares of Beneficiary1 held by Fiducie
+November 2, 2005
+$500,000
+July 25, 2006
+$1,000,000
+August 28, 2008
+$2,000,000
+d) Fiducie advances these amounts to the appellant in consideration of a no‑interest demand note.
+Date
+Advance from Fiducie to the appellant
+No‑interest demand note issued by the appellant in favour of Fiducie
+November 2, 2005
+$500,000
+$500,000
+July 25, 2006
+$1,000,000
+$1,000,000
+August 28, 2008
+$2,000,000
+$2,000,000
+Appellant’s directors
+At all times relevant to the dispute, Fiducie was the appellant’s sole shareholder.
+At all times relevant to the dispute, only Fiducie could elect the appellant’s directors.
+Montreal, November 20, 2018
+Montreal, November 20, 2018
+BCF LLP
+1100 René-Lévesque Blvd. West
+Suite 2500
+Montreal, Quebec H3B 5C9
+Per: Julie Gaudreault-Martel, counsel
+Lauzanne Bernard-Normand, counsel
+Email: julie.gaudreault-martel@bcf.ca
+Counsel for the appellant
+ATTORNEY GENERAL OF CANADA
+Department of Justice Canada
+Tax Litigation Directorate
+Quebec Regional Office
+Guy-Favreau Complex
+200 René-Lévesque Blvd. West
+East Tower, 9th Floor
+Montreal, Quebec H2X 1X4
+Fax: 514-283-3103
+Per: Anne Poirier, counsel
+Simon Petit, counsel
+Telephones: 514-496-4703
+514-283-6386
+Emails: anne.poirier@justice.gc.ca
+simon.petit@justice.gc.ca
+File number: 8413173
+Counsel for the respondent
+APPENDIX B
+2005
+2006
+2007
+2008
+2009
+2010
+2011
+2012
+Total
+Earnings
+$409,709
+$198,992
+$10,118
+$1,900,118
+$1,050,216
+$3,570,153
+(37% of funding)
+Advances from Fiducie
+$1,000,000 [1]
+$1,000,000 [2]
+$2,000,000 [3]
+$4,000,000
+(42% of funding)
+Government assistance
+$57,034
+$15,651
+$23,746
+$75,804
+$272,162
+$1,018
+$445,415
+(5% of funding)
+Tax credits
+$367,491
+$753,467
+$486,050
+$1,607,008
+(17% of funding)
+Research and development costs incurred
+$904,998
+$700,855
+$750,046
+$784,261
+$878,756
+$1,721,847
+$1,477,172
+$7,217,945
+General operating costs
+$376,531
+$648,752
+$413,073
+$446,673
+$618,423
+$787,704
+$700,425
+$3,991,581
+CITATION:
+2019 TCC 286
+COURT FILE NO.:
+2015-5635(IT)G
+STYLE OF CAUSE:
+CO2 SOLUTION TECHNOLOGIES INC. v. HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Quebec City, Quebec
+DATE OF HEARING:
+November 20, 21 and 22, 2018
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Guy R. Smith
+DATE OF JUDGMENT:
+December 20, 2019
+APPEARANCES:
+Counsel for the appellant:
+Julie Gaudreault-Martel
+Lauzanne Bernard Normand
+Counsel for the respondent:
+Anne Poirier
+Simon Petit
+COUNSEL OF RECORD:
+For the appellant:
+Name:
+Julie Gaudreault-Martel
+Firm:
+BCF LLP
+Montreal, Quebec
+For the respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Purchase of shares on July 4, 2005, and advances from Fiducie on November 12, 2005.
+[2] Dated July 24, 2006.
+[3] Dated August 28, 2008.
+[1] This decision was appealed from, but the appeal was discontinued and the Federal Court of Appeal therefore made no ruling.
+[2] Following this decision, the Act was amended with the introduction, in the 2017 federal budget, of the new paragraph 256(5.11), but it was not applicable retroactively for the purposes of the present case. The explanatory notes indicate that this new paragraph [translation] ”cancels the effects of a decision rendered in 2016 by the Federal Court of Appeal (McGillivray Restaurant Ltd. v. The Queen), in which the Court concluded that the factors that can be used to determine if a person has control in fact are limited to a legally enforceable right and ability to effect a change to the board of directors or its powers, or to exercise influence over the shareholder or shareholders who have that right and ability.” CANADA, Department of Finance, Budget 2017, March 22, 2017 (“Budget Speech”), Tax Measures: Supplementary Information, p. 24. As Alain Fournier explains in “Mise à jour sur le contrôle de fait et le contrôle de droit”, Collection APFF – Impôt et taxes, October 6, 2017: [translation] ”Now, the influence that may be exercised with respect to the appointment of a board of directors must draw on not only a legally enforceable right, but also on any other potentially relevant factor, but that influence must not draw on a right that has legal force. Various family and economic factors could therefore be considered, provided that these influence only the composition of the board of directors.”

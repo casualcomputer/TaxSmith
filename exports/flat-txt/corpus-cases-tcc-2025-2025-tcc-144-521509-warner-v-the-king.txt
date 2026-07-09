@@ -1,0 +1,140 @@
+Title: Warner v. The King
+Source: https://norma.lexum.com/tcc-cci/decisions/en/item/521509/index.do
+Corpus path: corpus/cases/tcc/2025/2025-tcc-144-521509-warner-v-the-king.md
+Document type: case_law
+Last modified: 2025-10-07
+
+# Warner v. The King
+
+- Citation: 2025 TCC 144
+- Decision date: 2025-10-07
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5435, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Warner v. The King
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2025-10-07
+Neutral citation
+2025 TCC 144
+File numbers
+2025-112(IT)APP
+Judges and Taxing Officers
+David E. Graham
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2025-112(IT)APP
+BETWEEN:
+OWEN WARNER,
+Applicant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+Application called for hearing on September 11, 2025,
+at Toronto, Ontario
+Before: The Honourable Justice David E. Graham
+Appearances:
+For the Applicant:
+The Applicant himself
+Counsel for the Respondent:
+Eric Myles
+JUDGMENT
+The Applicant’s application for an order extending the time within which a notice of objection to the reassessments made under the Income Tax Act of the Applicant’s 2015 and 2016 taxation years may be served on the Minister of National Revenue is quashed without costs.
+Signed this 7th day of October 2025.
+“David E. Graham”
+Graham J.
+Citation: 2025 TCC 144
+Date: 20251007
+Docket: 2025-112(IT)APP
+BETWEEN:
+OWEN WARNER,
+Applicant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+REASONS FOR JUDGMENT
+Graham J.
+[1] I am publishing these reasons because I have noticed that taxpayers are increasingly bringing applications for extension of time to object without first fulfilling the necessary conditions precedent. A decision that clearly sets out all of the tests that a taxpayer has to meet to be granted an extension may help to avoid this problem.
+[2] These reasons cover applications for extension of time to object under the Income Tax Act. A companion set of reasons, issued on the same day, covers the slightly different tests that apply to applications for extension of time to object under the Excise Tax Act (Amador v. The King (2025 TCC 143)).
+[3] I will first set out the law and then apply it to the Applicant’s application.
+The Eight Tests [4] Parties and the Court commonly refer to four conditions that must be met for the Court to grant an extension of time to object. However, it would be more accurate to describe it as eight tests: four conditions precedent and four conditions.
+Conditions Precedent [5] Subsection 12(4) of the Tax Court of Canada Act gives the Court exclusive original jurisdiction to hear and determine applications for extensions of time to object under subsection 166.2(1) of the Income Tax Act. Subsection 166.2(1) sets out three conditions precedent that must be met for the Court to obtain that jurisdiction. There is also a fourth unexpressed condition precedent that arises from the caselaw.
+[6] The four conditions precedent are as follows:
+(a)the taxpayer must first have applied to the Minister of National Revenue under section 166.1 for an extension of time to object (s. 166.2(1); Mezzanine Steel Ltd. v. The Queen[1]);
+(b)either:[2]
+(i)the Minister must have refused that application (s. 166.2(1)(a)); or
+(ii)90 days must have has passed since the application was filed and the Minister must not yet have notified the taxpayer of the Minister’s decision (s. 166.2(1)(b));
+(c)if the Minister refused the application, the taxpayer must have brought their application to the Court within 90 days of the date the Minister mailed the notification of that decision to the taxpayer (s. 166.2(1); Burke v. The Queen[3]); and
+(d)the assessment that the taxpayer wants to object to must not be a “nil assessment” (i.e. the assessment must assess tax, interest or penalties) (984274 Alberta Inc. v. The Queen[4]).
+[7] The Court has no power to waive or change any of these conditions precedent.
+[8] If a taxpayer fails to meet any of these conditions precedent, the Court has no choice but to quash the application. The Court does not need to consider whether the four conditions set out below are met. On the contrary, the Court has no jurisdiction to consider those conditions at all.
+[9] Ideally, the question of whether the Court has jurisdiction to hear an application for extension of time to object should be decided when the application is called for hearing. The Court should then rule on the question. If the Court does not have jurisdiction, it should quash the application and proceed no further. Only if the Court has jurisdiction should it proceed to hear the application and consider whether the following four conditions have been met.[5]
+[10] The Court must consider whether the conditions precedent have been met whether the parties raise that question or not. The Court cannot gain jurisdiction by consent or mistake (L.I.U.N.A. Local 527 Members’ Training Trust Fund v. The Queen[6]).
+Conditions [11] If a taxpayer satisfies the conditions precedent for filing an application for extension of time to object with the Court, then the Court has jurisdiction to hear their application. At that point, the Court must determine whether the taxpayer meets the following four conditions:
+(a)the taxpayer must have applied to the Minister within one year of the deadline for filing a notice of objection (s. 166.2(5)(a));
+(b)between the date of the assessment and the objection deadline, the taxpayer must either (s. 166.2(5)(b)(i); Bygrave v. The Queen[7]):
+(i)have been unable to act or instruct someone else to act in their name; or
+(ii)had a bona fide intention to object;
+(c)after the objection deadline passed, the taxpayer must have applied to the Minister as soon as circumstances permitted (s. 166.2(5)(b)(iii); Bygrave[8]); and
+(d)given the reasons set out in the application and the circumstances of the case, it must be just and equitable to grant the application (s. 166.2(5)(b)(ii)).
+[12] The first three conditions turn on what the taxpayer did or did not do before or after the objection deadline. The objection deadline is normally 90 days after the date that the Minister sent the notice of assessment to the taxpayer (s. 165(1)(b)). The objection deadline may be somewhat longer if the Minister assessed an individual (other than a trust) or a graduated rate estate within one year of their tax return filing due date (s. 165(1)(a)(i)).
+[13] The Court has no power to waive or change any of the above conditions. If a taxpayer fails to meet any of these conditions, the Court has no choice but to dismiss their application.
+[14] Most applications for extension of time to object that fail are dismissed because the taxpayer did not meet the first condition. It is worth repeating that the Court has no power to extend the one-year deadline in any circumstances.
+Mailing Is Only Considered If Conditions Precedent Are Met [15] Taxpayers sometimes assert that the Minister never sent them a notice of assessment or sent it to the wrong address and that the objection deadline should therefore be calculated from when the taxpayer first received the assessment, not from when it was dated.
+[16] The long-established method for challenging whether a notice of assessment was properly sent is for the taxpayer to file an application for extension of time to object with the Minister, wait for the Minister to reject the application, then bring an application for extension of time to object to this Court, and, in the course of that application, raise the issue of whether the notice was properly sent. This method engages the jurisdiction of the Court and allows the Court to determine whether the notice was sent.
+[17] As explained above, if a taxpayer has not met the conditions precedent, the Court does not have the jurisdiction to hear their application. Since the issue of whether the notice of assessment was properly sent is only relevant to the four conditions, if the conditions precedent have not been met, the Court has no jurisdiction to consider whether the notice was sent. The Federal Court of Appeal made this point very clearly in McGowan v. The Queen:[9]
+The [taxpayer] claims that there is no proof as to the date of mailing of the notices of assessments [sic] and therefore there is “no triggering date” to start the [objection] periods. However, …the [taxpayer] did not apply to the Tax Court of Canada for an extension of time within 90 days of the Minister’s decision. The “triggering date” for this 90-day [application] period…is not in dispute, nor is the fact that the [taxpayer] did not submit his application within 90 days of that date. As a result, and in accordance with subsection 166.2(1), neither the Tax Court of Canada nor this Court can consider the [taxpayer’s] application or his arguments about the mailing date of the notices of assessment.
+[18] If a taxpayer who has not met the conditions precedent nonetheless asks the Court to decide whether an assessment was sent, the taxpayer is actually asking the Court to grant declaratory relief. The Court does not have that power (Canada (Attorney General) v. British Columbia Investment Management Corp.[10]; Persaud v. The Queen[11]; Manke v. The Queen[12]; Roy v. The Queen[13]).
+Owen Warner’s Application [19] The Minister reassessed Owen Warner’s 2015 and 2016 tax years to deny various expenses relating to a rental property. Mr. Warner had 90 days to object to the reassessments. For a variety of reasons, he did not object by that deadline. Mr. Warner brought an application for an extension of time to object.
+[20] Mr. Warner did not satisfy one of the conditions precedent for bringing an application to this Court. By letter dated November 29, 2023, the Minister notified Mr. Warner that his application for an extension of time to object had been denied. As set out above, one of the conditions precedent that Mr. Warner had to meet for this Court to have jurisdiction to hear his application was that he had to file his application with the Court within 90 days of that date. He did not do so. It took him almost 14 months to file his application. As a result, the Court has no jurisdiction to hear his application and it must be quashed.
+[21] While I accept that there were reasons for Mr. Warner’s delay in bringing his application, that does not change the fact that I have no jurisdiction to consider it.
+Signed this 7th day of September 2025.
+“David E. Graham”
+Graham J.
+CITATION:
+2025 TCC 144
+COURT FILE NO.:
+2025-112(IT)APP
+STYLE OF CAUSE:
+OWEN WARNER AND HIS MAJESTY THE KING
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+September 11, 2025
+REASONS FOR JUDGMENT BY:
+The Honourable Justice David E. Graham
+DATE OF JUDGMENT:
+September 7, 2025
+APPEARANCES:
+For the Applicant:
+The Applicant himself
+Counsel for the Respondent:
+Eric Myles
+COUNSEL OF RECORD:
+For the Applicant:
+Name:
+BLANK
+Firm:
+BLANK
+For the Respondent:
+Shalene Curtis-Micallef Deputy Attorney General of Canada Ottawa, Canada
+[1] 2001 DTC 5119 (Federal Court Appeals Division), at para. 4. See also McKernan v. The Queen [2003] 1 CTC 2275 (TCC), at para. 14 and Asiedu v. The Queen (2011 TCC 150, at para. 4).
+[2] Mezzanine Steel, supra at para. 4.
+[3] 2012 TCC 378, at para. 28. See also De Lucia Estate v. The Queen (2010 TCC 479, at paras. 8 and 9) and Laing v. The King (2023 TCC 50 at paras. 27- 34).
+[4] 2020 FCA 125.
+[5] An example from another aspect of the Court’s work will help to illustrate this point. Say the Minister reassesses a taxpayer to deny various travel expenses on the basis that they were personal expenses. If the taxpayer appeals to the Court without first filing a notice of objection with the Minister, they have not met a condition precedent to appealing and the Court quashes the appeal (s. 169(1); Bormann v. The Queen (2006 FCA 83)). The Court does so before hearing evidence about the taxpayer’s travel expenses. The Court does not, after quashing the appeal, proceed to decide whether the taxpayer’s travel expenses were personal. The Court is without jurisdiction and the appeal simply ends.
+[6] 92 DTC 2365 (TCC), at paras. 15 - 17. See also The Queen v. Krahenbil ([2000] 3 CTC 178 (Federal Court Appeal Division); Telus Communications (Edmonton) Inc. v. The Queen (2005 FCA 159 at para. 23), and Cooper v. The Queen ([1987] 1 CTC 2287 (TCC), at para. 22, reversed on other grounds [1989] 1 CTC 66 (FCTD)).
+[7] 2017 FCA 124 at para. 13. In Bygrave, the Federal Court of Appeal was dealing with an application for an extension of time to appeal rather than an application for an extension of time to object. However, the Court’s analysis of the time period in which the tests must be met is still applicable.
+[8] At paras. 14 and 15.
+[9] [1995] 2 CTC 18, at para. 13. See also Burke, supra, at para. 27.
+[10] 2019 SCC 63, at para. 41.
+[11] 2013 TCC 405, at para. 4.
+[12] [1999] 1 CTC 2186 (TCC), at para. 14.
+[13] 2004 TCC 667.

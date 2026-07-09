@@ -1,0 +1,180 @@
+Title: Canada Safeway Limited v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27128/index.do
+Corpus path: corpus/cases/tcc/2006/2006-tcc-345-27128-canada-safeway-limited-v-the-queen-en.md
+Document type: case_law
+Last modified: 2006-06-19
+
+# Canada Safeway Limited v. The Queen
+
+- Citation: 2006 TCC 345
+- Decision date: 2006-06-19
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 932, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Canada Safeway Limited v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-06-19
+Neutral citation
+2006 TCC 345
+File numbers
+2003-2925(IT)G
+Judges and Taxing Officers
+David W. Beaubier
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2003-2925(IT)G
+BETWEEN:
+CANADA SAFEWAY LIMITED,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on June 7, 2006 at Calgary, Alberta
+Before: The Honourable Justice D.W. Beaubier
+Appearances:
+Counsel for the Appellant:
+H. George McKenzie, Q.C.
+Counsel for the Respondent:
+Marta E. Burns
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act for the 1996 taxation year is allowed and the reassessment is referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached Reasons for Judgment.
+Each party will bear its own costs.
+Signed at Saskatoon, Saskatchewan, this 19th day of June, 2006.
+"D. W. Beaubier"
+Beaubier, J.
+Citation: 2006TCC345
+Date: 20060619
+Docket: 2003-2925(IT)G
+BETWEEN:
+CANADA SAFEWAY LIMITED,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Beaubier, J.
+[1] This appeal pursuant to the General Procedure was heard at Calgary, Alberta on June 7, 2006. Donald Wright, Senior Vice President of Real Estate and Engineering for Safeway Inc., the parent company of the Appellant, was the only witness. Before October 1, 1991 and during the time in question, Mr. Wright held a similar position with the Appellant and, as such, he participated in and was aware of the matters in question in this appeal. At that time, he lived about 20 miles from the property site in question.
+[2] At the outset of the hearing, counsel agreed that the Appellant's appeal of the assessment denying the deduction of $1,859,236 from the Appellant's 1996 taxation year should be allowed and that is so ordered; this matter is referred back to the Minister of National Revenue for reconsideration and reassessment accordingly.
+[3] The particulars in dispute are set out in subparagraphs 9 (a) to (ii) inclusive; 10 (i); 11 and 12. They read:
+9. In so assessing and reassessing the Appellant for the 1996 taxation year the Minister relied on the following assumptions of fact:
+Peninsula Village
+a) Schroeder Properties Ltd. ("SPL") is a major retail land developer based in British Columbia;
+b) The Appellant has its own in-house real estate experts and has regular dealings with real estate brokerage firms;
+c) By the spring of 1987, SPL had acquired a 20.5 acre parcel of land at the intersection of 152 Street and 24 Avenue in South Surrey, legally described as:
+Parcel Identifier: 016-791-878
+City of Surrey
+Lot 2
+Section 23
+Township 1
+New Westminster District
+Plan NWP87485
+("Peninsula Village") with the intention of developing this property into a shopping centre;
+d) Peninsula Village originally was owned exclusively by SPL;
+e) SPL could not afford to develop Peninsula Village on its own;
+f) In March of 1989 SPL approached the Appellant to form a joint venture to develop Peninsula Village;
+g) The area where Peninsula Village is located had speculative potential of which the Appellant was aware;
+h) At the time SPL approached the Appellant, the zoning was residential and an initial application to rezone had been defeated;
+i) SPL presented the Appellant with two different development scenarios;
+(i) if development commenced by September 1, 1989, there would be a total potential profit of $12,072,890; or
+(ii) if development commenced by September 1, 1991, there would be a total potential profit of $11,462,549;
+j) SPL and the Appellant entered into the Peninsula Village Co-Ownership Agreement on or about April 24, 1989;
+k) There was little downside risk to the Appellant;
+l) The Appellant obtained a 54% interest and SPL retained a 46% interest;
+m) The Appellant's initial unsecured contribution was $1,080,000;
+n) The Appellant had significant involvement in the development of Peninsula Village;
+o) The Appellant was involved in the acquisition, rezoning, development, construction, leasing and listing for sale of Peninsula Village;
+p) Overall management and control of the Peninsula Village and of the construction, leasing, financing, management and operation of Peninsula Village was vested in the Management Committee;
+q) The Management Committee was comprised of one voting representative of SPL and one voting representative of the Appellant;
+r) SPL was designated as the Project Manager, Leasing Manager, and the Property Manager;
+s) At the time SPL and the Appellant signed the Peninsula Village Co-Ownership Agreement there were no guarantees of any future retail grocery store;
+t) It was only after rezoning of the parcel of land by City Council that the Appellant could be assured of a new store at the Peninsula Village location;
+u) If rezoning was not obtained for Peninsula Village, the Appellant still had an option to acquire six or more acres for its own store and to sell the balance of the land to residential developers;
+v) Without rezoning the Appellant and SPL would still have an excellent real estate asset in a growing area with increasing land values;
+w) Upon rezoning the Appellant had an option to take a guaranteed profit of two million dollars but the Appellant did not exercise this option and continued to hold its interest and complete the development of Peninsula Village;
+x) The Appellant's intentions upon entering the Agreement were to develop Peninsula Village into a shopping centre and then sell its interest at a profit;
+y) The Appellant never intended to retain ownership of Peninsula Village and to earn a rental income from it;
+z) Net income earned on Peninsula Village was $964,202.00 for 5½ years, the Appellant's interest being 54% or $520,669.00;
+aa) This net income is consistent with highly leveraged real estate projects of this type;
+bb) The Appellant intended to wait until a substantial portion of Peninsula Village was leased out and then sell its interest at a profit;
+cc) The Appellant advanced a $5 million mortgage to Peninsula Village, which was repaid in full on January 3, 1996;
+dd) The initial lease-up period was from November 1991 to November 1994;
+ee) The Appellant listed the property for sale in January 1993 and took it off the market in May 1993;
+ff) There were offers made that were rejected by the Appellant for being too low;
+gg) SPL made an offer to purchase the Appellant's 54% interest on or about July 5, 1994 for $17,375,000, but SPL was unable to secure adequate financing.
+hh) An offer was made by CB Commercial Real Estate Group Canada Inc. on September 30, 1994, for $17,550,000;
+ii) The Appellant sold its interest in Peninsula Village on or about March 19, 1996, for a gain as follows:
+Proceeds of Sale $ 18,021,811
+Adjusted Cost Base $ 13,462,253
+Gain on Disposition $ 4,559,558
+...
+B. ISSUES TO BE DECIDED
+10. The issues are whether:
+i) the Appellant's gain on the sale of its interest in the Peninsula Village Shopping Centre should be included on account of income or capital;
+...
+C. STATUTORY PROVISIONS RELIED ON
+11. He relies on sections 3, 6, 9, 38, 39, 53, 54 and 171, subsections 13(7), 40(1), 40(2), 45(1), 69(2), and 248(1) and paragraph 13(21)(c) of the Income Tax Act, R.S.C. 1985, c. 1 (5th Supp.), as amended (the "Act"), and sections 1101(1) and 1102(1)(b) of the Income Tax Regulations.
+D. GROUNDS RELIED ON AND RELIEF SOUGHT
+12. The Appellant's activities with respect to its ownership in the Peninsula Village Shopping Centre were a business or an adventure in the nature of trade. The gain on the sale of the Appellant's ownership interest in Peninsula Village Shopping Centre was correctly included by the Minister as an income gain and not on account of capital, pursuant to sections 3 and 9 of the Act.
+...
+[4] Assumptions 9 (a), (b), (c), (e), (f), (h), (i), (j), (l), (m), (p), (q), (r), (s), (t), (u), (z), (cc), (dd), (ee), (ff), (gg), (hh) and (ii) were either not refuted by the evidence or were established by the evidence. The remaining assumptions will be dealt with in the following paragraphs of these Reasons.
+[5] Respecting the remaining assumptions, by subparagraph:
+9(d)Schroeder Properties Ltd. ("SPL") originally had exclusive ownership of an option to purchase the land on which PeninsulaVillage was built. It was unable to purchase the property until it obtained financing as a result of the joint venture with the Appellant. After it obtained its joint interest in the land, the actual planning and development (as distinct from the concept) of Peninsula Villagefollowed.
+9(g)The area where PeninsulaVillage is located had a critical potential for a large grocery store, in the Appellant's view. Its memos and documents indicate that the Appellant considered that the value of the site would increase in any event resulting in limited risk to the Appellant.
+9(k)Is correct, according to the Appellant's own inter-office documents.
+9(n)Is not correct. SPL did the development of Peninsula Village. The Appellant's activities were vetoes, except insofar as its own store was concerned. It refused possible leases to stores it considered to be possible competition to Safeway and it vetoed construction of store sites that it felt intruded on suitable parking space.
+9(o)The Appellant was not "involved" in all of this; SPL was, except for the Appellant's listing of its interest for sale. Rather, the Appellant's "involvement" was that described in the comments in assumption 9 (n). It also had a public opinion survey done respecting the rezoning of the site for a commercial use such as its proposed store.
+9(v)The word "excellent" in this assumption is an exaggeration, rather it appears from the evidence that the land values were not expected to fall.
+9(w)Is true. However, this fact supports the Appellant's contention that it entered into the agreements in order to build and operate a store.
+9(x)Is questionable, and the subject of this appeal. The Appellant wanted to build a store. That was its motive for entering into its deal with SPL. The Appellant considered the store site to be ideal and necessary to buy for its own store and to prevent a competitor from building on or near that site. The evidence is that it did not intend to sell at a loss, that it projected a possible sale at a profit greater than what it got on the sale and that it did not expect to sell at a loss.
+9(y)Is correct. The Appellant intended to be in the grocery business and to have its store on the site.
+9(aa)There is no evidence that this assumption is true or false, or that there was any evidence respecting this from which such an assumption could be made.
+9(bb)The Appellant intended to sell its interest in the joint venture and not to become a long term landlord when it entered into the joint venture. The Appellant intended to establish its store on the site in the most advantageous way possible and to prevent a competitor from doing so there, or in a nearby location. Once that was accomplished, it would sell its interest in the joint venture. Whether its intent at the outset was to sell at a profit will be analyzed later.
+[6] Respondent's counsel pointed out in argument that the assessment is based on the premise that the Appellant conducted two separate business transactions. First, the lease of the store. Second, an adventure in the nature of trade in a business transaction to enter the joint venture and sell its interest therein at a profit. There was no secondary intention.
+[7] Appellant's counsel argued in rebuttal that the joint venture was secondary to the store lease.
+[8] The Appellant's history and the evidence is that the Appellant wanted a store in that area because it would be a profitable store and it would prevent a competitor from building a store nearby. (A 15 year history since then has proven that to be a fact.) The Court finds it to be correct that the Appellant's need for this store caused it to enter into the joint venture agreement. In other words, it was the Appellant's intention to have a profitable store that caused it to enter into the joint venture agreement.
+[9] Mr. Wright testified that when it entered into the joint venture agreement, CSL intended to eventually sell its interest in the joint venture agreement - neither for a profit nor a loss. He said that Appellant did not intend to lose money on the eventual sale of its joint venture interest; it hoped or expected to profit from its sale, and it projected a possible profit. Rather, he said it intended to make a profit from the operation of its store. Some of its vetoes in the development of the site reduced the ultimate value of the joint venture to enhance the store's profit. For instance, it chose additional parking over additional store premises and vetoed more profitable leases to stores competitive to Safeway.
+[10]But did the Appellant, as the Respondent's counsel argued, enter into a separate adventure in the nature of trade, or business transaction, to purchase an interest in the joint venture and then sell that interest at a profit? The agreement itself is at Tab 18 of Exhibit A-1, which was entered by the Appellant as a full exhibit with the consent of the Respondent. It is titled "Peninsula Village Co-Ownership Agreement" and is executed by the Appellant, SPL and Schroeder Properties (SPL2) Ltd.. It is clearly to establish a co-ownership of the shopping centre property as a property agreement (and not as a partnership - see paragraphs 3.01 and 3.02). The parties' purpose is to rezone the property and develop a shopping centre on the approximately 20 acres with 50-50 voting rights and to sell the property (see paragraph 3.03). If that zoning is achieved, which is the purpose of the deal, paragraph 10.11 reads as follows:
+Section 10.11 - Compulsory Purchase of CSL Co-Ownership Interest
+1. Notwithstanding anything to the contrary herein contained, SPL2 and CSL agree that CSL shall have the right, on written notice delivered to SPL2 within 60 days after Rezoning, to require SPL2 to purchase the Co-Ownership Interest of CSL in the Property, for a cash price equivalent to the aggregate of:
+(a) CSL's Proportionate Share of the Development Costs incurred by the Parties to the date of such notice;
+(b) the sum of two million dollars; and
+(c) the Development Costs incurred by CSL, if any, between the date of such notice and the completion of the compulsory purchase.
+2. The compulsory purchase will complete in the offices of SPL2's Vancouver solicitors on the first Business Day which is at least 60 days after delivery of the notice and the provisions of Schedule "E" will apply, mutatis mutandis.
+[11]Section 10.12 provides for the Appellant to retain 6 acres and for the parties to sell at prevailing market if rezoning is not achieved. But that is not the purpose of the Co-Ownership Agreement.
+[12]The Co-Ownership Agreement describes, exactly, the intent of each party in legally enforceable terms and conditions at the outset of their contract. It is to rezone the property for a shopping centre. It is that the Appellant shall have the right to sell its co-ownership interest in the property to "SPL2" for a profit of $2,000,000 upon rezoning being achieved.
+[13]In other words, from the outset of the agreement, the Appellant had the intent to sell its interest at a profit. It did not exercise its right under paragraph 10.11 because it projected, and upon sale attained, a greater profit.
+[14]Thus, it was an adventure in the nature of trade and the proceeds of sale should be included in its income.
+[15]This appeal is allowed pursuant to paragraph [2] of these Reasons.
+[16]Each party will bear its own costs.
+Signed at Saskatoon, Saskatchewan, this 19th day of June, 2006.
+"D. W. Beaubier"
+Beaubier, J.
+CITATION: 2006TCC345
+COURT FILE NO.: 2003-2925(IT)G
+STYLE OF CAUSE: Canada Safeway Limited v. The Queen
+PLACE OF HEARING: Calgary, Alberta
+DATE OF HEARING: June 7, 2006
+REASONS FOR JUDGMENT BY: The Honourable D.W. Beaubier
+DATE OF JUDGMENT: June 19, 2006
+APPEARANCES:
+Counsel for the Appellant:
+H. George McKenzie, Q.C.
+Counsel for the Respondent:
+Marta E. Burns
+COUNSEL OF RECORD:
+For the Appellant: H. George McKenzie, Q.C.
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

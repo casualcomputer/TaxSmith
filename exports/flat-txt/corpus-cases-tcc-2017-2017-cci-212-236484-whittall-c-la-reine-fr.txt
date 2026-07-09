@@ -1,0 +1,142 @@
+Title: Whittall c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/236484/index.do
+Corpus path: corpus/cases/tcc/2017/2017-cci-212-236484-whittall-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2017-10-24
+
+# Whittall c. La Reine
+
+- Citation: 2017 CCI 212
+- Decision date: 2017-10-24
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2160, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Whittall c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2017-10-24
+Référence neutre
+2017 CCI 212
+Numéro de dossier
+2016-511(GST)I
+Juges et Officiers taxateurs
+Randall S. Bocock
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2016‑511(GST)I
+ENTRE :
+ROBIN WHITTALL,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE]
+Appel entendu le 13 juin 2017, à Nanaimo (Colombie‑Britannique)
+Devant : L’honorable juge Randall S. Bocock
+Comparutions :
+Représentant de l’appelant :
+Sean Leitenberg
+Avocat de l’intimée :
+Me Bruce Senkpiel
+JUGEMENT
+CONFORMÉMENT aux motifs du jugement ci‑joints, l’appel concernant le remboursement de la taxe sur les produits et services/taxe de vente harmonisée (TPS/TVH) pour habitations neuves contenu dans la demande en date du 19 février 2014 est rejeté, sans dépens.
+Signé à Ottawa, Canada, ce 24e jour d’octobre 2017.
+« R.S. Bocock »
+Juge Bocock
+Référence : 2017 CCI 212
+Date : 20171024
+Dossier : 2016‑511(GST)I
+ENTRE :
+ROBIN WHITTALL,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE]
+MOTIFS DU JUGEMENT
+Le juge Bocock
+I. Questions en litige [1] Robin Whittall interjette appel à l’encontre de la décision du ministre du Revenu national (le « ministre ») de rejeter sa demande de remboursement de la TPS pour habitations neuves. Le remboursement de la TPS refusé concerne des « rénovations majeures » d’un bien résidentiel. La Cour doit décider seulement si M. Whittall, à titre de propriétaire, a exécuté suffisamment de travaux au bien afin qu’ils constituent des « rénovations majeures » de « la totalité ou la presque totalité du bâtiment » qui existait immédiatement avant les travaux.
+II. Travaux de M. Whittall au bien [2] À l’audience, M. Whittall et sa conjointe ont décrit les rénovations qu’ils ont faites au bien résidentiel situé au 960, place Woodpecker à Parksville, en Colombie‑Britannique.
+[3] Il n’y a aucun doute que d’importantes rénovations ont été faites au bien. Toutes les pièces ont été touchées. Les faits sont peu contestés quant à savoir quelles rénovations ont été effectuées. Des diagrammes sous forme de croquis « avant » et « après » ont été déposés à l’audience. La maison a été construite en 1991. Les rénovations ont été effectuées sur une période de quatre ans et demi et elles ont été achevées en 2014. Le bâtiment est une maison de style ranch n’ayant aucun sous‑sol. Sa superficie habitable est d’environ 1 800 pieds carrés (ou 167,23 mètres carrés).
+[4] Les rénovations ont principalement été effectuées à l’intérieur, mais comprenaient de nouvelles fenêtres et portes extérieures. Les murs entre la cuisine, la salle à manger et le salon ont été entièrement enlevés. Ces trois pièces sont effectivement devenues une « grande pièce » contiguë et combinée. Cette rénovation exigeait de nouvelles cloisons sèches, un nouveau plancher, un nouveau système d’électricité, de nouveaux placards, entre autres. À l’exclusion du garage, qui n’a pas été rénové, une telle superficie entièrement rénovée correspondait à un peu moins de la moitié de la surface utile habitable dans la maison.
+[5] Le reste des rénovations visaient les trois chambres à coucher (dont une comprend des chambres communicantes), une salle de bain et une entrée interne au garage (qui fonctionne en tant que vestibule et buanderie). Hormis des réparations importantes et le remplacement partiel du bas de la cloison sèche dans ces pièces, rien n’a été modifié, enlevé ou remplacé. Néanmoins, les réparations, le remaniement et la peinture refaite au complet, ainsi que l’installation de nouveaux accessoires fixes ont été entrepris dans toutes ces pièces. En général, les fenêtres, les planchers ou e couvre‑plancher, la plomberie, les interrupteurs électriques et les prises de courant ont tous été remplacés.
+III. Ce que les lois, les règlements et les bulletins indiquent a) Définition de « rénovations majeures » [6] Le paragraphe 123(1) de la Loi sur la taxe d’accise, LRC 1985, ch. E‑15, dans sa version modifiée (la « LTA »), dispose :
+rénovations majeures Sont des rénovations majeures d’un immeuble d’habitation les travaux de rénovation ou de transformation de la totalité ou d’une partie d’un bâtiment [...] la totalité ou la presque totalité du bâtiment ou de la partie de bâtiment, selon le cas, qui existait immédiatement avant les travaux, exception faite des fondations, des murs extérieurs, des murs porteurs intérieurs, des planchers, du toit, des escaliers [...], a été enlevée ou remplacée [...]
+b) Remboursement pour habitations construites par le propriétaire 256(1) Définitions – Les définitions qui suivent s’appliquent au présent article.
+(2) Le ministre verse un remboursement à un particulier dans le cas où, à la fois :
+a) le particulier [...] un immeuble [...] d’habitation à logement unique [...] y fait des rénovations majeures [...];
+b) la juste valeur marchande [...] est inférieure à 450 000 $;
+c) le particulier a payé la taxe [...];
+[...]
+(i) le premier particulier à occuper l’immeuble après [...] est le particulier ou son proche [...]
+c) Bulletin d’information technique B‑092 [7] Le ministre par l’entremise de l’Agence du revenu du Canada (l’« ARC ») n’a pas été silencieux au sujet de l’expression « la totalité ou la presque totalité ». Le Bulletin d’information technique B‑092 (le « bulletin B‑092 ») fournit trois méthodes à titre d’exemples non exhaustifs d’approches déterminantes équitables et raisonnables aux fins du calcul du degré de rénovation. Ces trois méthodes typiques sont les suivantes :
+(1) superficie en pieds carrés de plancher rénovée (en pieds carrés) par rapport à la superficie totale de plancher du bâtiment; (2) superficie en pieds carrés de plancher et de mur des pièces rénovées par rapport à la superficie totale de plancher et de mur du bâtiment; (3) nombre de pièces rénovées par rapport au nombre total de pièces du bâtiment. [8] De même, en ce qui concerne ce qui « a été enlevée ou remplacée », le ministre, à l’aide du bulletin B‑092, une longue publication (très longue, mais considérablement pertinente), a publié ce qui suit :
+Dans un projet de rénovation majeure, l’intérieur d’un bâtiment est entièrement vidé. Les murs intérieurs (autres que les murs de soutien), par exemple, sont complètement enlevés et les plafonds et les planchers sont remplacés, ainsi que les systèmes de chauffage, d’électricité et de plomberie, y compris le système de conduits. Le câblage électrique, y compris l’éclairage, les raccords et la tuyauterie de plomberie et tous les appareils sanitaires seraient remplacés, les comptoirs de cuisine et les toilettes. Ce genre de projet constituerait des rénovations majeures.
+Les renseignements qui suivent précisent ce qui doit, au minimum, être enlevé ou remplacé pour que les exigences énoncées dans la définition de « rénovations majeures » soient satisfaites. En règle générale, tous les murs intérieurs (p. ex. les plaques de plâtre) dans l’ensemble de la partie visée (au moins 90 % du bâtiment) devraient être enlevés ou remplacés. Autrement dit, le revêtement des murs devrait être enlevé jusqu’aux tournisses et les murs doivent être remis à neuf avec des plaques de plâtre. Dans le cas des habitations plus vieilles, il serait suffisant de couvrir les murs de plâtre avec des plaques de plâtres neuves. Cependant, il ne serait pas suffisant de seulement enlever ou remplacer les murs. Pour que les exigences minimales soient satisfaites, il faudrait enlever ou remplacer les murs et les plafonds ou les planchers dans l’ensemble de la partie visée. Il ne serait pas nécessaire de remplacer en entier les systèmes de chauffage, d’électricité ou de plomberie.
+« L’enlèvement ou le remplacement » ne comprend pas la réparation. Par exemple, le colmatage des murs en plaque de plâtre, la peinture des surfaces ou le sablage d’un plancher en bois franc ne constitue pas l’enlèvement ou le remplacement auquel fait allusion la définition de rénovations majeures. Les réparations ne font pas partie des exigences dont il faut tenir compte pour établir si des rénovations majeures ont été effectuées et elles ne peuvent pas être incluses dans une demande de remboursement pour habitations neuves.
+Les rénovations nécessaires pour satisfaire aux exigences minimales énoncées dans la définition de rénovations majeures peuvent varier selon le genre de pièce rénovée. Comme il est indiqué ci-dessus, l’enlèvement ou le remplacement des murs et des plafonds ou des planchers constituerait des travaux admissibles, quelle que soit la pièce visée. Dans le cas de pièces particulières, toutefois, d’autres possibilités peuvent mener à la conclusion que la pièce a fait l’objet de rénovations majeures; voici quelques exemples :
+• Dans une cuisine typique, une grande partie des murs peut être couverte d’armoires et de placards. L’enlèvement ou le remplacement des armoires (sans que le mur derrière elles soit enlevé) en plus du plafond ou du plancher et des murs restants seraient généralement suffisants.
+• Dans une salle de bain typique, l’enlèvement ou le remplacement des murs en plus des appareils sanitaires (la toilette, le bain, le meuble-lavabo) sera suffisant. Étant donné que l’exigence consiste à enlever ou à remplacer, il pourrait être suffisant d’enlever et de réinstaller ensuite les mêmes appareils dans la salle de bain, en plus d’enlever ou de remplacer les murs.
+• Dans une chambre à coucher ou un passage typique, il serait normalement suffisant d’enlever ou de remplacer les plaques de plâtre (ou le recouvrement des murs de plâtre avec des plaques de plâtre) et le plancher ou le plafond.
+IV. Ce qu’enseigne la jurisprudence [9] Le degré de rénovation a été établi à un seuil élevé. Le juge Hershfield, dans Erickson c. SMR, a déclaré ce qui suit au paragraphe 16 :
+[...] La Loi n’autorise pas de remboursement à l’égard d’une rénovation, importante ou non, à moins que presque tout l’édifice ne soit refait. [...]
+[10] De même, la Cour de l’impôt a décidé que, même s’il n’existe pas un seuil numérique absolu (Cousineau c. SMR, [2001] GSTC 135, au paragraphe 2), « 90 pour cent » est, sauf si les circonstances justifient le contraire, la quantité minimale de rénovations nécessaires pour atteindre le niveau de « presque totalité » et répondre ainsi à la définition : Cousineau, au paragraphe 3. Cette décision correspond à l’extrait du bulletin B‑092 reproduit ci‑dessus.
+[11] Un énoncé au paragraphe 14 du jugement Lair c. SMR, 2003 CCI 929, est souvent confirmé en tant qu’opinion contraire où le juge Rip, tel était alors son titre, a déclaré :
+D’après les faits dont j’étais saisi alors, si tout observateur raisonnable et neutre du bâtiment, avant et après la construction de l’intérieur et de l’extérieur du bâtiment, pouvait conclure que le degré de rénovation et de transformation était majeur, cela répondait alors à la définition de « rénovations majeures ».
+[12] Dans les décisions rendues par la suite, on a tenté de rapprocher ces deux opinions apparemment divergentes. La nécessité et le degré de rénovation sont pertinents, si le fait de ne pas apporter ces rénovations empêche de remédier à l’effondrement : Colosimo c. SMR, 2005 CCI 584, au paragraphe 9. La question de savoir si les rénovations sont largement de nature superficielle visant principalement à renouveler ou à moderniser l’apparence : King c. SMR, 2006 CCI 374, au paragraphe 11, et Blades c. SMR, 2012 CCI 227, au paragraphe 14. En outre, l’examen doit comprendre tous les éléments de preuve dans le contexte visant à considérer tout le bâtiment qui existait immédiatement avant les travaux : Baby c. SMR, 2013 CCI 39.
+[13] En résumé, un thème commun tout au long de l’affaire utilise le mot connotatif « gutted » du vieil anglais, ou « refait » en français : Erickson, au paragraphe 15, King, au paragraphe 11 et Goulet c. SMR, 2013 CCI 225, au paragraphe 15.
+V. Arguments de l’appelant a) Les rénovations étaient assez majeures pour rendre le bâtiment « comme neuf » [14] Le représentant de l’appelant a soutenu que le bâtiment a été rénové à un degré tel que les rénovations en ont fait une nouvelle maison. Rien dans le bâtiment ne ressemblait au bâtiment qui existait immédiatement avant les travaux. Le principe de la quantité mesurable de rénovations de 90 % devrait être écarté. Au contraire, conformément à la décision dans Lair, on devrait appliquer le critère visant à savoir si un observateur raisonnable et neutre conclurait, avant et après, que des rénovations majeures ont été effectuées.
+b) La méthode et les analyses de l’ARC étaient erronées [15] Le représentant de l’appelant a fait valoir que, en contre‑interrogatoire, il a été révélé que l’ARC a omis, tant à l’étape de la vérification qu’en appel, d’accorder un crédit pour diverses rénovations ou a inclus des améliorations non pertinentes, a exclu des améliorations pour chaque pièce en raison de son respect servile de l’analyse mathématique rejetée dans Shotlander c. SMR, 2005 CCI 502 (sic), au paragraphe 14.
+c) La cloison sèche devrait être exclue en tant qu’élément à prendre en considération dans le calcul des rénovations [16] Le représentant de l’appelant a plaidé, pendant longtemps devant la Cour, que le fait que tous les murs de cloison sèche dans le bâtiment n’ont pas été enlevés et/ou remplacés n’était pas pertinent; la cloison sèche est essentielle à la sécurité, à l’intégrité et la force d’un bâtiment. En résumé, la cloison sèche est fixée inextricablement aux murs porteurs intérieurs et peut‑être aux murs extérieurs d’un bâtiment. Selon le bulletin B‑092, de tels murs sont exclus du calcul pour déterminer les rénovations majeures. En conséquence, l’élément concernant l’enlèvement et le remplacement de la cloison sèche dans le bâtiment ne doit pas être pris en considération.
+[17] Afin d’étayer cet argument, le représentant de l’appelant a offert les diagrammes textuels des descriptions du mur extérieur, les exigences récentes concernant les caractéristiques prévues par le code du bâtiment en Colombie‑Britannique et les documents indiquant les différences entre les murs séparatifs et les murs porteurs.
+VI. Discussion et décision a) Le bâtiment « ressemblait à un bâtiment neuf » [18] Le critère n’était pas l’apparence du bâtiment après les travaux. Le critère consiste à savoir si, selon la totalité des rénovations, à la suite de la liste soigneusement dressée des éléments à inclure, mais à l’exclusion de ceux qui ne doivent pas être inclus, des rénovations majeures ont été effectuées au bâtiment. En résumé, on pourrait soutenir que le bâtiment a fait l’objet de rénovations majeures suffisantes au point où la totalité ou la presque totalité du bâtiment a été enlevée ou remplacée : Camiré c. SMR, 2008 CCI 82, au paragraphe 11.
+[19] L’apparence des bâtiments à l’œil nu, étant donné les éléments à inclure ou à exclure, n’est pas nécessairement pertinente. Ce fait est également confirmé par le juge Rip dans Lair, confirmé souvent en tant que critère moins rigoureux, lorsqu’il renvoie aux travaux achevés par la propriétaire : soulever la structure de plusieurs pieds au‑dessus du sol, construire un sous‑sol, construire des pièces habitables entièrement nouvelles au sous‑sol, « refaire » le premier étage, installer une nouvelle fosse septique, agrandir la superficie du bâtiment, remplacer le toit au complet et modifier radicalement l’extérieur. En résumé, le juge Rip a déclaré que la maison, avant les rénovations, était « sur le point de s’effondrer ». En outre, la résidence qui a fait l’objet de rénovations majeures « ne ressemble nullement à ce qu’elle était avant le début de la construction ». Certes, un certain nombre des éléments énumérés doivent être par ailleurs exclus : les toits, les planchers et les rajouts. De manière assez uniforme, les trois principes appliqués par le juge Rip sont courants dans la jurisprudence : la réfection d’un vieux bâtiment, la nécessité de rénover et la fonction renouvelée par rapport à l’apparence. Dans leur témoignage pendant cet appel, ni M. Whittall, ni Mme Whittall ni leur fille n’ont suggéré que la maison a été « refaite ».
+[20] Même en appliquant le critère établi dans Lair, largement considéré comme le critère le plus favorable pour accorder des remboursements, les rénovations effectuées par M. et Mme Whittall n’y répondent pas. Au mieux, seulement la moitié des pièces ont fait l’objet de rénovations majeures. La plupart des murs, sauf s’ils ont été démolis de manière permanente ou nouvellement construits, ont été [traduction] « re‑lissés » et n’ont pas été enlevés largement en raison des coûts de disposition, mais indiquant néanmoins que le remplacement n’était pas nécessaire.
+[21] En outre, dans le cadre de la jurisprudence, la décision Blades est remarquablement semblable : un nouvel îlot de cuisines, un système d’électricité mis à niveau, de nouveaux planchers et plafonds dans les pièces publiques, le fait d’enlever les séparations, de reconstruire les murs, de remettre à neuf les murs, mais non pas nécessairement d’enlever par rapport aux tournisses. En ce qui concerne les faits, cette résidence ressemblait également à une résidence neuve, mais le bâtiment n’avait pas été transformé au‑delà de ce qu’était son apparence à son état initial. L’appel a été rejeté pour ce motif. Malheureusement, il en est de même pour le présent appel.
+b) L’analyse de l’ARC est erronée [22] Même si la Cour n’a pas à trancher ce point puisqu’elle a fait sa propre évaluation ci‑dessus, les méthodes suivies par l’ARC étaient bien fondées. Elles étaient également assez généreuses et équitables. Mme Wharram de l’ARC a indiqué qu’elle a utilisé l’analyse d’une pièce à l’autre ainsi que l’analyse de la superficie carrée, tandis que le premier examinateur chargé du dossier a utilisé les analyses des surfaces. Sur ce motif, les trois méthodes décrites dans le bulletin B‑092 ont toutes été utilisées par l’ARC à un moment donné au cours du processus concernant la demande de remboursement de M. Whittall. L’examinateur a conclu que 52,5 % des surfaces avaient fait l’objet de rénovations majeures. Mme Wharram a conclu, pour chaque pièce, que le pourcentage s’élevait à environ 60 % et à 63 % en fonction de la superficie carrée. Elle a accordé aux appelants l’avantage du calcul le plus favorable. Elle a exercé son pouvoir discrétionnaire en vue d’inclure certaines surfaces autrement exclues par définition au sens de la définition et du bulletin B‑092. Toutefois, elle estimait que le bâtiment n’avait pas fait l’objet de rénovations majeures. La Cour est du même avis.
+c) La cloison sèche doit être exclue des éléments pris en considération ou du calcul [23] Malgré le vaillant effort, la Cour ne peut retenir l’argument selon lequel la cloison sèche doit être éliminée du [traduction] « calcul de rénovations » parce que, tel qu’il a été affirmé, la cloison sèche fait partie intégrante des « murs porteurs intérieurs » ou des « murs extérieurs ». La cloison sèche est un revêtement mural ou un bardage pour les tournisses servant d’appui fixées aux fermes d’un toit. La cloison sèche est l’équivalent moderne du plâtre et du support d’enduit. Elle est simplement moins chère, plus efficace et plus facilement construite et appliquée. Il n’y a aucun doute sur le fait que les codes du bâtiment modernes prévoient, parmi les méthodes de production, de construction et d’installation, d’offrir une sécurité, une force et une intégrité accrues. La logique exige que de telles caractéristiques accrues et plus récentes soient accessoires à sa fonction initiale et principale : le bardage placé sur les tournisses verticales à peindre, à couvrir avec du papier ou à décorer. Une simple conclusion ressort de tout point de vue de l’intuition, de la logique ou du bon sens : le principal objet de panneaux de placoplâtre est de fournir une surface plate, stable et lisse aux fins de décoration. Les panneaux, les carreaux de plafond et les panneaux décoratifs muraux ne sont pas différents. Peu importe leur force portante et leur qualité de résistance au feu, celles‑ci sont accessoires à leur principal objectif. Aucune jurisprudence, loi ou bulletin de l’ARC ne suggère directement le contraire.
+[24] En outre, l’affaire Cowan and Talbot v. HMQ, une décision orale non publiée rendue par le juge Sommerfeldt, a été invoquée par le représentant de l’appelant en tant que jurisprudence relative à l’exclusion de la cloison sèche du « calcul des rénovations ». Plus particulièrement, dans la transcription, le juge Sommerfeldt a indiqué ce qui suit au sujet de la cloison sèche :
+[traduction]
+Il devient nécessaire d’amorcer et d’effectuer une analyse de la question de savoir si des rénovations majeures ont été effectuées. Une des questions soulevées à l’audience est cette question liée à la cloison sèche. Selon ce que je comprends, l’Agence du revenu du Canada a certaines politiques qui semblent tenir compte ou exiger que la cloison sèche, soit la cloison sèche initiale, soit entièrement enlevée d’un mur et ensuite remplacée par une nouvelle pierre à plâtre ou plaque de parement en plâtre.
+Je n’ai trouvé aucune mention d’une telle exigence dans la jurisprudence qui a été invoquée. Hormis la jurisprudence invoquée pendant l’audience, j’ai lu certaines autres décisions. Je n’ai constaté aucune jurisprudence portant sur l’exigence qu’une nouvelle cloison sèche doit être installée. Je suis d’accord avec l’argument de M. Leitenberg selon lequel, dans une situation typique, la cloison sèche est visée aux tournisses. En d’autres termes, elle est affixée de manière assez permanente. Dans le passé, cette cloison sèche était parfois affixée en la clouant, à l’aide de clous spéciaux à cloison sèche, peut‑être pas de manière aussi permanente qu’avec des vis. Toutefois, même dans le cas de vis, celles‑ci peuvent être facilement enlevées. Ce n’est donc pas absolument permanent, mais j’estimerais qu’une fois que la cloison sèche est affixée au mur, elle devient une partie du mur.
+La définition de « rénovations majeures » prévue au paragraphe 123(1) de la Loi sur la taxe d’accise n’indique pas que les murs extérieurs et que les murs porteurs intérieurs étaient exclus de l’exigence d’enlever et de remplacer et, par conséquent, je croirais que, pour l’essentiel, la question de savoir si la cloison sèche a été enlevée n’est pas une question qui, selon moi, constitue un élément essentiel de l’analyse de la question de savoir si des rénovations majeures ont été effectuées.
+[25] La conclusion de la Cour est entièrement conciliable avec la conclusion du juge Sommerfeldt. En premier lieu, le juge Sommerfeldt déclare qu’une analyse de la question de savoir si des rénovations majeures ont été effectuées est nécessaire. En deuxième lieu, il a été reconnu par le juge que l’ARC et une certaine jurisprudence indiquent qu’il s’agit d’une bonne indication, mais non une exigence obligatoire dans le calcul dans tous les cas. En outre, cette conclusion du juge est une opinion incidente à sa décision dans Cowan and Talbot. Le juge Sommerfeldt a décidé que la condition préexistante de la résidence était néfaste à sa survie. La présence généralisée d’insectes, de moisissure biodangereuse et de faune résidente (plus que les animaux indésirables communs) a suscité et a nécessité des rénovations majeures au point où le bâtiment a été « refait », selon la description de M. Talbot.
+[26] La Cour n’a tiré aucune conclusion définitive concernant le fait que la cloison sèche fait « partie » des murs portants intérieurs ou des murs extérieurs, mais simplement qu’elle ne constituait pas un [traduction] « élément essentiel » du calcul. Par conséquent, peu importe la conclusion tirée concernant l’inclusion obligatoire de la cloison sèche dans le calcul, il s’agissait d’une opinion incidente à la décision ultime de la Cour du juge Sommerfeldt qui a accepté, au motif de sa décision, les trois principes décrits ci‑dessus concernant le vieux bâtiment [traduction] « refait », la nécessité des rénovations et la fonction renouvelée ou rétablie par rapport à l’apparence du bâtiment rénové.
+VII. Conclusion [27] Pour ces motifs, l’appel est rejeté, sans dépens.
+Signé à Ottawa, Canada, ce 24e jour d’octobre 2017.
+« R.S. Bocock »
+Juge Bocock
+RÉFÉRENCE :
+2017 CCI 212
+NO DU DOSSIER DE LA COUR :
+2016‑511(GST)I
+INTITULÉ :
+ROBIN WHITTALL ET SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Nanaimo (Colombie‑Britannique)
+DATE DE L’AUDIENCE :
+Le 13 juin 2017
+MOTIFS DU JUGEMENT :
+L’honorable juge Randall S. Bocock
+DATE DU JUGEMENT :
+Le 24 octobre 2017
+COMPARUTIONS :
+Représentant de l’appelant :
+Sean Leitenberg
+Avocat de l’intimée :
+Me Bruce Senkpiel
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée :
+Nathalie G. Drouin
+Sous‑procureure générale du Canada
+Ottawa, Canada

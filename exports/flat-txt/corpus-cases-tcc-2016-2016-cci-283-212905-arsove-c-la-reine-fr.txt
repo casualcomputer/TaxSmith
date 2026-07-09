@@ -1,0 +1,183 @@
+Title: Arsove c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/212905/index.do
+Corpus path: corpus/cases/tcc/2016/2016-cci-283-212905-arsove-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2016-12-06
+
+# Arsove c. La Reine
+
+- Citation: 2016 CCI 283
+- Decision date: 2016-12-06
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2947, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Arsove c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2016-12-06
+Référence neutre
+2016 CCI 283
+Numéro de dossier
+2016-1418(IT)I
+Juges et Officiers taxateurs
+Lucie Lamarre
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2016-1418(IT)I
+ENTRE :
+SALLY T. ARSOVE,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 14 novembre 2016, à Ottawa (Ontario).
+Devant : L’honorable juge en chef adjointe Lucie Lamarre
+Comparutions :
+Représentant de l’appelante :
+M. Jack R. Bowerman
+Avocats de l’intimée :
+Me Kiel Walker
+Me Shubir (Shane) Aikat
+JUGEMENT
+L’appel interjeté à l’encontre de la nouvelle cotisation établie au titre de la Loi de l’impôt sur le revenu pour l’année d’imposition 2013 est rejeté.
+Signé à Ottawa, Canada, ce 6e jour de décembre 2016.
+« Lucie Lamarre »
+Juge en chef adjointe Lamarre
+Référence : 2016 CCI 283
+Date : 20161206
+Dossier : 2016‑1418(IT)I
+ENTRE :
+SALLY T. ARSOVE,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge en chef adjointe Lamarre
+[1] Il s’agit d’un appel interjeté à l’encontre d’une nouvelle cotisation établie le 20 février 2015 par laquelle le ministre du Revenu national (le ministre) a refusé la déduction de 867,67 $ CA demandée par l’appelante au titre du crédit pour impôt étranger dans le calcul de son impôt payable pour l’année d’imposition 2013. Pour établir cette nouvelle cotisation, le ministre a formulé les hypothèses de fait suivantes :
+[traduction]
+a) en 2013, l’appelante résidait au Canada; (admis)
+b) en 2013, l’appelante était citoyenne des États‑Unis; (admis)
+Déclaration de revenus américaine pour 2013
+c) l’appelante a reçu une distribution d’un IRA d’un montant de 5 617,78 $ US moins une retenue d’impôt de 561,78 $ US de The Village Bank pour l’année d’imposition 2013; (admis)
+d) l’appelante a produit la déclaration de revenus américaine pour 2013; (admis)
+e) en produisant la déclaration de revenus américaine pour 2013, en plus d’autres montants, l’appelante :
+(i) a déclaré la distribution d’un IRA d’un montant de 5 617,78 $ US; (admis)
+(ii) a déclaré un revenu imposable de 69 487 $ US; (admis)
+(iii) a déclaré la somme de 561,78 $ US relativement à l’impôt retenu sur la distribution d’un IRA; (admis)
+(iv) a demandé un crédit pour impôt étranger de 13 298 $ US en lien avec son revenu de source canadienne;
+(v) a déclaré qu’aucun impôt n’était à payer;
+(vi) a demandé un remboursement de 561,78 $ US pour de l’impôt payé en trop;
+f) l’appelante a reçu un remboursement du montant d’impôt de 561,78 $ US qui avait été retenu en lien avec la distribution d’un IRA; (admis)
+g) l’appelante n’a payé à l’IRS aucun impôt sur le revenu ne provenant pas d’entreprises;
+Déclaration de revenus et de prestations au Canada
+h) en produisant la déclaration de revenus pour 2013, en plus d’autres montants, l’appelante :
+(i) a déclaré un revenu étranger ne provenant pas d’une entreprise de 5 785 $ en lien avec la distribution d’un IRA; (admis)
+(ii) a demandé un crédit pour impôt étranger d’un montant de 867,67 $ en lien avec la distribution d’un IRA. (admis)
+[2] M. Jack R. Bowerman, CPA, qui a établi les déclarations de revenus canadienne et américaine pour 2013 pour l’appelante, a également représenté cette dernière à l’audience devant la Cour.
+[3] La Cour est appelée à trancher la question de savoir si l’appelante a le droit de demander un crédit pour impôt étranger dans le calcul de son impôt canadien pour l’année d’imposition 2013.
+[4] Le ministre soutient que l’appelante n’a payé aucun impôt sur le revenu ne provenant pas d’entreprises à l’Internal Revenue Service (l’« IRS ») en 2013 (ce que nie l’appelante) et qu’elle n’a donc pas droit à un crédit pour impôt étranger en application des paragraphes 126(1) et 126(7) de la Loi de l’impôt sur le revenu (la « LIR »). Les passages pertinents de ces dispositions sont ainsi libellés :
+Déduction pour impôt étranger
+126(1) Le contribuable qui résidait au Canada à un moment donné d’une année d’imposition peut déduire de l’impôt payable par ailleurs par lui pour l’année en vertu de la présente partie une somme égale à :
+a) la partie de tout impôt sur le revenu ne provenant pas d’entreprises qu’il a payé pour l’année au gouvernement d’un pays étranger (sauf, lorsque le contribuable est une société, tout impôt, ou toute partie d’impôt, de ce genre qu’il est raisonnable de considérer comme ayant été payé par le contribuable relativement au revenu qu’il a tiré d’une action du capital‑actions d’une société étrangère affiliée lui appartenant) dont il peut demander la déduction;
+cette somme ne peut toutefois dépasser : […]
+Définitions
+(7) Les définitions qui suivent s’appliquent au présent article.
+[…]
+impôt sur le revenu ne provenant pas d’une entreprise S’agissant de l’impôt sur le revenu ne provenant pas d’une entreprise payé par un contribuable pour une année d’imposition au gouvernement d’un pays étranger, s’entend, sous réserve des paragraphes (4.1) à (4.2), de la fraction de l’impôt sur le revenu ou sur les bénéfices qu’il a payé pour l’année au gouvernement de ce pays, qui remplit les conditions suivantes :
+a) elle n’a pas été incluse dans le calcul de l’impôt sur le revenu provenant d’entreprises du contribuable pour l’année, relativement à une entreprise exploitée par lui dans un pays étranger;
+b) elle n’était pas déductible en vertu du paragraphe 20(11) dans le calcul de son revenu pour l’année;
+c) elle n’a pas été déduite en vertu du paragraphe 20(12) dans le calcul de son revenu pour l’année.
+Le terme ne vise toutefois pas un impôt ou la fraction d’un impôt :
+c.1) qui se rapporte à un montant déduit par l’effet du paragraphe 104(22.3) dans le calcul de l’impôt sur le revenu tiré d’une entreprise payé par le contribuable;
+d) qui n’aurait pas été payable si le contribuable n’avait pas été un citoyen de ce pays et qu’il n’est pas raisonnable de considérer comme étant attribuable à un revenu tiré d’une source située à l’étranger;
+e) qu’il est raisonnable de considérer comme se rapportant à un montant que toute autre personne ou toute société de personnes a reçu ou a le droit de recevoir de ce gouvernement;
+f) que, si le contribuable déduit une somme selon le paragraphe 122.3(1) de son impôt payable par ailleurs pour l’année en vertu de la présente partie, il est raisonnable de considérer comme se rapportant à son revenu d’emploi, à concurrence du moindre des montants déterminés à ce titre pour l’année en vertu de l’alinéa 122.3(1)c) ou d);
+g) qu’il est raisonnable d’attribuer à tout ou partie d’un gain en capital imposable au titre duquel le contribuable ou son époux ou conjoint de fait demande une déduction selon l’article 110.6;
+h) [Abrogé, 2013, ch. 33, art. 13]
+i) qu’il est raisonnable de considérer comme se rapportant à un montant déductible en application du sous‑alinéa 110(1)f)(i) dans le calcul du revenu imposable du contribuable pour l’année. (non-business income tax)
+[Non souligné dans l’original.]
+[5] L’appelante soutient qu’elle avait le droit de déduire du montant d’impôt canadien payable pour 2013 un crédit pour impôt étranger de 867,67 $ CA, qui équivaut à 15 p. 100 de son revenu de source américaine (un paiement périodique de pension provenant d’une distribution d’un « individual retirement account » (IRA) d’un montant de 5 617,78 $ US), conformément à l’article XVIII (paragraphe 1 et alinéa 2a)) et à l’article XXIV (alinéa 2a) et paragraphes 4 et 6) de la Convention entre le Canada et les États‑Unis d’Amérique en matière d’impôts sur le revenu et sur la fortune de 1984 (la « Convention »), L.C. 1984, c. 20. Ces dispositions sont libellées de la manière suivante :
+ARTICLE XVIII
+Pensions et rentes
+1 Les pensions et les rentes provenant d’un État contractant et payées à un résident de l’autre État contractant sont imposables dans cet autre État, mais le montant d’une pension qui est inclus dans le revenu aux fins d’imposition dans cet autre État n’excède pas le montant qui sera inclus dans le premier État si le bénéficiaire était un résident de ce premier État.
+2 Toutefois :
+a) Les pensions sont aussi imposables dans l’État contractant d’où elles proviennent et selon la législation de cet État, mais si un résident de l’autre État contractant est le bénéficiaire effectif d’un paiement périodique de pension, l’impôt ainsi établi ne peut excéder 15 p. 100 du montant brut de ce paiement; et
+[…]
+ARTICLE XXIV
+Élimination de la double imposition
+[…]
+2. En ce qui concerne le Canada, sous réserve des dispositions des paragraphes 4, 5 et 6, la double imposition est évitée de la façon suivante.
+a) Sous réserve des dispositions de la législation canadienne concernant l’imputation de l’impôt payé dans un territoire en dehors du Canada sur l’impôt canadien dû et de toute modification ultérieure de ces dispositions qui n’en affecterait pas le principe général,
+(i) l’impôt sur le revenu payé ou dû aux États-Unis à raison de bénéfices, revenus ou gains provenant des États‑Unis, et
+(ii) dans le cas d’une personne physique, les cotisations de sécurité sociale payées aux États‑Unis (autres que les cotisations concernant les prestations d’assurance‑chômage) par cette personne physique sur ces bénéfices, revenus ou gains,
+sont portés en déduction de tout impôt canadien dû à raison des mêmes bénéfices, revenus ou gains;
+[…]
+4. Lorsqu’un citoyen des États‑Unis est un résident du Canada, les règles suivantes s’appliquent.
+a) Le Canada accorde sur l’impôt canadien une déduction à l’égard des impôts sur le revenu payés ou dus aux États‑Unis à raison de bénéfices, revenus ou gains qui proviennent (au sens du paragraphe 3) des États‑Unis, sauf que cette déduction n’a pas à excéder le montant de l’impôt qui serait payable aux États‑Unis si le résident n’était pas un citoyen des États‑Unis; et
+b) Aux fins du calcul de l’impôt des États‑Unis, les États‑Unis accordent sur l’impôt des États‑Unis un crédit d’un montant égal aux impôts sur le revenu payés ou dus au Canada après la déduction visée à
+l’alinéa a). Le crédit ainsi accordé ne réduit pas cette part de l’impôt des États‑Unis qui est déductible de l’impôt canadien conformément à l’alinéa a).
+[…]
+6. Lorsqu’un citoyen des États‑Unis est un résident du Canada, les éléments de revenu visés aux paragraphes 4 et 5 sont, nonobstant les dispositions du paragraphe 3, considérés comme provenant du Canada dans la mesure nécessaire pour éviter la double imposition de ces revenus en vertu du paragraphe 4b) ou du paragraphe 5c).
+[Non souligné dans l’original.]
+[6] Dans sa déclaration de revenus des particuliers des États‑Unis (formulaire 1040‑U.S. Individual Income Tax Return) pour 2013, l’appelante a rajusté le revenu brut de 79 487 $ US, comprenant le montant total de la distribution d’un IRA de 5 618 $ US, qu’elle avait gagné aux États‑Unis et reçu cette année‑là. Quand elle a retiré ce montant, un impôt fédéral sur le revenu des États‑Unis de 562 $ US a été retenu. Le reste du revenu que l’appelante a déclaré avait été gagné au Canada.
+[7] Dans la déclaration de revenus des États‑Unis de l’appelante, un montant d’impôt de 13 298 $ US a été calculé, mais, après déduction d’un crédit pour impôt étranger du même montant, le montant total d’impôt payable a été réduit à zéro. L’impôt fédéral retenu sur la distribution d’un IRA a été remboursé à l’appelante. (Transcription de la déclaration de revenus de l’IRS pour la période d’imposition de 2013, pièce A‑1, onglet 3, document no 1.)
+[8] Selon la transcription du compte de l’IRS pour la période d’imposition de 2013, délivrée le 6 août 2013 (pièce A‑1, onglet 3, document no 2) et présentant un sommaire de la déclaration de revenus de l’appelante ainsi que des mesures prises par la suite (y compris des rectifications effectuées par l’IRS à la déclaration initiale), le solde de compte plus le montant d’impôt dû après la clôture de l’examen de la déclaration de revenus était de zéro.
+[9] Dans sa déclaration de revenus canadienne, l’appelante a déduit de l’impôt canadien qu’elle devait payer un crédit pour impôt étranger de 867,87 $, comme si les États‑Unis avaient perçu l’impôt de 15 p. 100 qu’ils étaient en droit de percevoir en application de l’article XVIII de la Convention.
+[10] Cependant, il semble qu’en produisant sa déclaration de revenus aux États‑Unis, l’appelante a considéré que le montant total de la distribution d’un IRA de source américaine provenait du Canada, en application du paragraphe 6 de l’article XXIV de la Convention. Par conséquent, elle a demandé un crédit pour impôt étranger aux États‑Unis comme si elle avait payé un impôt canadien sur le montant total (5 617,78 $ US) de la distribution d’un IRA. Ainsi, elle n’a payé aucun impôt américain sur ce montant, et l’IRS, pour une raison quelconque, n’a effectué aucune rectification à cet égard et a donc accepté la déclaration telle qu’elle a été produite. En fin de compte, aucun impôt américain n’a été payé sur ce revenu de pension.
+[11] Selon ce que j’ai compris, si l’appelante avait interprété correctement le paragraphe 6 de l’article XXIV de la Convention, la part du revenu tiré d’une distribution d’un IRA qu’il aurait fallu considérer comme provenant du Canada n’aurait été que la part sur laquelle un impôt américain de plus de 15 p. 100 aurait été perçu.
+[12] L’appelante aurait donc normalement payé au gouvernement américain 15 p. 100 du montant tiré de la distribution d’un IRA (15 p 100 x 5 617,78 $ US), comme le prévoit l’article XVIII de la Convention, un montant pour lequel elle aurait eu droit à un crédit pour impôt étranger dans le calcul de son impôt au Canada.
+[13] Si l’impôt américain perçu avait été supérieur à 15 p. 100, l’appelante aurait eu le droit de déduire dans le calcul de son impôt américain un crédit pour impôt étranger pour le montant d’impôt payé au Canada en sus des 15 p. 100, compte tenu du fait que l’impôt excédentaire était perçu sur un montant de revenu considéré comme provenant du Canada par application du paragraphe 6 de l’article XXIV de la Convention.
+[14] Pour dire les choses plus simplement, quand un citoyen américain qui réside aussi au Canada touche un revenu de pension qui provient des États‑Unis, ceux‑ci sont autorisés, selon la Convention, à imposer la première tranche de 15 p. 100 de ce revenu, et l’excédent est imposable au Canada. C’est la raison pour laquelle, pour éviter une double imposition, un contribuable est autorisé, dans le calcul de l’impôt canadien, de demander un crédit pour impôt étranger pour l’impôt de 15 p. 100 qu’il a payé aux États‑Unis, et il a droit à un crédit pour impôt étranger à l’égard de son impôt américain pour l’impôt de plus de 15 p. 100 payé au Canada.
+[15] Maintenant, comme je l’ai déjà mentionné, lors de la production de sa déclaration de revenus américaine pour l’année 2013, l’appelante a considéré le montant total tiré de la distribution d’un IRA comme ayant été gagné au Canada et comme étant imposable au Canada. Elle a par conséquent demandé un crédit pour impôt étranger à l’égard de l’impôt américain payable, comme si elle avait payé de l’impôt au Canada sur le montant total et non simplement sur la partie à l’égard de laquelle un impôt de plus de 15 p. 100 a été perçu. Ainsi, l’appelante n’a payé aucun impôt aux États‑Unis, et l’IRS a accepté sa déclaration telle qu’elle a été produite et n’a effectué aucune rectification après l’avoir examinée (pièce A‑1, onglet 3, document no 2).
+[16] L’alinéa 126(1)a) de la LIR dispose qu’un résident du Canada peut déduire de l’impôt payable par ailleurs une somme égale à l’impôt sur le revenu ne provenant pas d’entreprises qu’il a payé au gouvernement d’un pays étranger.
+[17] L’appelante a fait valoir que le montant d’impôt payé est le montant d’impôt qui est calculé avant la déduction du crédit pour impôt étranger (en l’espèce, l’impôt américain avant la déduction du crédit pour impôt étranger était de 13 298 $ US).
+[18] Dans la décision Zhang c La Reine, 2007 CCI 634, 2007 DTC 1744, confirmée par 2008 CAF 198, 2008 DTC 6458, il a été déterminé que l’impôt payé sur le revenu ne provenant pas d’entreprises, au sens de l’alinéa 126(1)a) de la LIR, était le montant du prélèvement établi à l’égard de l’appelant par le gouvernement des États‑Unis en application de la loi fiscale du pays. Ce montant était, dans cette affaire‑là, le montant total d’impôt payable après déduction du crédit d’impôt pour enfants.
+[19] En l’espèce, le gouvernement américain n’a imposé en fin de compte aucun impôt ou prélèvement à l’appelante après la déduction du crédit pour impôt étranger.
+[20] Comme cela est précisé dans la décision Zhang (CCI), précitée, au paragraphe 10, le but du crédit pour impôt étranger est d’éviter la double imposition.
+[21] En l’espèce, étant donné qu’aucun impôt n’a été payé, ni n’était dû, selon la transcription de compte de l’IRS pour l’année 2013, la Convention n’entre pas en jeu, car il n’y a pas eu de double imposition.
+[22] Il s’ensuit qu’aucun montant n’était déductible au titre de l’alinéa 126(1)a) de la LIR.
+[23] L’appel est rejeté.
+Signé à Ottawa, Canada, ce 6e jour de décembre 2016.
+« Lucie Lamarre »
+Juge en chef adjointe Lamarre
+RÉFÉRENCE :
+2016 CCI 283
+No DU DOSSIER DE LA COUR :
+2016-1418(IT)I
+INTITULÉ :
+SALLY T. ARSOVE c.
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Ottawa (Ontario)
+DATE DE L’AUDIENCE :
+Le 14 novembre 2016
+MOTIFS DU JUGEMENT :
+L’honorable juge en chef adjointe Lucie Lamarre
+DATE DU JUGEMENT :
+Le 6 décembre 2016
+COMPARUTIONS :
+Représentant de l’appelante :
+M. Jack R. Bowerman
+Avocats de l’intimée :
+Me Kiel Walker
+Me Shubir (Shane) Aikat
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+[EN BLANC]
+Cabinet :
+[EN BLANC]
+Pour l’intimée :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada

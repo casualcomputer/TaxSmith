@@ -1,0 +1,98 @@
+Title: Abeling c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26192/index.do
+Corpus path: corpus/cases/tcc/2005/2005-cci-137-26192-abeling-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2005-02-16
+
+# Abeling c. M.R.N.
+
+- Citation: 2005 CCI 137
+- Decision date: 2005-02-16
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3923, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Abeling c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-02-16
+Référence neutre
+2005 CCI 137
+Numéro de dossier
+2002-3677(EI)
+Juges et Officiers taxateurs
+Georgette Anne Sheridan
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2002‑3677(EI)
+ENTRE :
+JANET ABELING,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+ALTECH DIESEL LTD.,
+intervenante.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu à Nanaimo (Colombie‑Britannique), le 17 novembre 2004.
+Devant : L’honorable juge G. Sheridan
+Comparutions :
+Avocat de l’appelante :
+Me Kenneth Kjellander
+Avocat de l’intimé :
+Me Pavanjit Mahil
+Représentant de l’intervenante :
+M. Dean Horne
+JUGEMENT
+L’appel est rejeté et la décision du ministre est confirmée selon les motifs de jugement ci‑joint.
+Signé à Ottawa, Canada, ce 16e jour de février 2005.
+« G. Sheridan »
+Juge Sheridan
+Traduction certifiée conforme
+ce 1er jour de novembre 2005.
+Sara Tasset
+Référence : 2005CCI137
+Date : 20050216
+Dossier : 2002‑3677(EI)
+ENTRE :
+JANET ABELING,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+ALTECH DIESEL LTD.,
+intervenante.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Sheridan
+[1] L’appelante Janet Abeling a interjeté appel de la décision par laquelle le ministre du Revenu national (le « ministre ») a conclu que, pour la période allant du 25 novembre 1999 au 21 décembre 2001, elle n’exerçait pas un emploi assurable[1] chez Altech Diesel Ltd. parce qu’elle était un entrepreneur indépendant. Altech est intervenue dans cet appel pour appuyer la décision du ministre. Mme Abeling prend la position selon laquelle l’emploi devrait être assurable parce qu’elle était une employée. Mme Abeling a témoigné pour son propre compte; la Couronne a cité comme unique témoin M. Dean Horne, l’un des deux dirigeants d’Altech.
+[2] Comme il arrive souvent dans ces affaires, ce ne sont pas tant les faits que les conclusions de droit à en tirer qui étaient en litige. Mme Abeling avait la charge de démolir les hypothèses sur lesquelles le ministre avait fondé sa décision. Étant donné que leurs relations de travail s’étaient détériorées au moment où Mme Abeling a quitté l’emploi qu’elle exerçait chez Altech, Mme Abeling et M. Horne ont eu de la difficulté à présenter leur preuve d’une façon objective. Dans leurs témoignages, ils ont tous deux montré qu’ils avaient une certaine connaissance du régime de l’assurance‑emploi et de la meilleure façon d’en tirer parti.
+[3] Altech est une petite entreprise qui s’occupe de la vente et de la réparation de moteurs Diesel à Campbell River, sur l’île de Vancouver. À l’automne 1999, Altech cherchait (sur les instances de son banquier) une personne qui possédait l’expertise qui lui manquait afin de mettre de l’ordre dans ses documents financiers et, plus précisément, afin de préparer et de soumettre en temps opportun les états financiers mensuels et de fin d’exercice sous une forme que la banque jugerait acceptable. Altech éprouvait des difficultés financières, et c’est sur cette base que la banque avait convenu de maintenir la société à flot. Le comptable d’Altech a fait paraître une offre d’emploi[2] et Mme Abeling a soumis sa candidature. Mme Abeling déclarait être « comptable générale licenciée »[3], mais ce n’est qu’après qu’elle eut quitté Altech que M. Horne a appris que sa licence était depuis longtemps expirée.
+[4] Quoi qu’il en soit, à la suite d’une entrevue qu’elle a eue avec les dirigeants d’Altech, Mme Abeling s’est vu offrir le poste, moyennant un salaire annuel de 40 000 $. Compte tenu des difficultés qu’elle avait eues auprès d’autres firmes et puisqu’elle ne savait pas trop si Altech était d’une façon générale viable, Mme Abeling a de son côté proposé un contrat de six mois qui pourrait être renouvelé moyennant un salaire de 30 000 $. Elle a également insisté pour agir à titre d’entrepreneur indépendant : en plus de ne pas savoir combien de temps il lui faudrait pour organiser les livres d’Altech, Mme Abeling venait de présenter, au moment de l’entrevue, une demande en vue de toucher des prestations d’assurance‑emploi à l’égard de son ancien emploi. Mme Abeling a témoigné croire que si elle travaillait comme entrepreneur indépendant, elle pourrait honnêtement dire qu’elle n’exerçait pas un emploi à plein temps et ainsi demeurer admissible aux prestations d’assurance‑emploi.
+[5] Mme Abeling a donc commencé à travailler pour Altech au mois de novembre 1999. Elle était principalement chargée de faire ce qu’il fallait pour mettre de l’ordre dans les documents financiers de la société à la satisfaction de la banque, mais je retiens le témoignage de Mme Abeling selon lequel elle a assumé avec le temps d’autres tâches administratives. Dans son témoignage, M. Horne a fait certains efforts pour minimiser la contribution de Mme Abeling à cet égard. Toutefois, compte tenu de la façon dont il a décrit les activités quotidiennes de sa société en tant que petite entreprise comptant quelques employés qui s’acquittaient de leurs propres tâches, mais qui travaillaient à proximité les uns des autres, je ne retiens pas la version révisée que M. Horne a donnée au sujet de la charge de travail de Mme Abeling. M. Horne s’est empressé de dire que Mme Abeling pouvait à sa guise accepter d’autres clients tout en travaillant pour Altech, mais il a rejeté l’idée qu’il avait demandé (en sa qualité personnelle) l’aide de Mme Abeling lorsqu’il s’était agi [traduction] d’« étudier », comme on peut généreusement qualifier la chose, la possibilité pour sa femme d’obtenir des prestations d’emploi. De son côté, Mme Abeling a dit que même si, en théorie, elle pouvait accepter d’autres clients, les exigences de son travail chez Altech l’empêchaient de le faire, sauf pour la question de l’assurance‑emploi et pour certaines questions fiscales personnelles concernant M. Horne et son associé.
+[6] Je retiens le témoignage de M. Horne selon lequel Mme Abeling pouvait à sa guise travailler à domicile, mais qu’elle avait décidé de travailler surtout chez Altech, où elle avait un poste de travail et un ordinateur. Mme Abeling a elle‑même témoigné qu’elle ne disposait pas du matériel voulu pour travailler à domicile, mais qu’elle avait un [traduction] « bureau à domicile » et que son adresse domiciliaire était inscrite dans tous les documents commerciaux. Ainsi, pendant toute la période en question, les factures que Mme Abeling adressait à Altech étaient intitulées [traduction] « J. Abeling, comptable générale licenciée (entreprise individuelle) » et indiquaient l’adresse domiciliaire[4] plutôt que celle d’Altech, comme adresse d’entreprise. Selon la preuve soumise par Mme Abeling, les factures ont été préparées après coup sur les instances d’Altech. Toutefois, Mme Abeling n’a pas contesté qu’elle avait elle‑même préparé ces factures ou que ces factures indiquaient les montants exacts qui avaient été payés et le moment où les paiements avaient été effectués. En outre, en sa qualité d’aide‑comptable d’Altech, Mme Abeling rédigeait les chèques de la société[5] pour que M. Horne les signe, et ces chèques étaient payables à [traduction] « J. Abeling, comptable générale licenciée » pour les services fournis. Enfin, un document intitulé [traduction] « État financiers non vérifiés » préparé pour Altech dans l’exécution de ses tâches porte le titre [traduction] « J. Abeling, comptable générale licenciée » sur la page couverture et ce titre figure encore sous la signature de Mme Abeling, à la page suivante.
+[7] Les deux avocats ont référé la Cour aux critères énoncés dans les arrêts Wiebe Door[6] et Sagaz[7], sur lesquels la Cour doit se fonder en décidant si le travailleur a qualité d’employé ou d’entrepreneur indépendant : le degré de contrôle exercé sur le travailleur, la propriété des instruments de travail, les chances de bénéfice et les risques de perte et le critère de l’« intégration ». Dans l’arrêt Wiebe Door, le juge MacGuigan a fait remarquer que le critère composé de quatre parties intégrantes vise essentiellement à « déterminer quelle relation globale les parties entretiennent entre elles ». En tirant cette conclusion, le juge MacGuigan a demandé à la Cour de tenir compte de ce que lord Wright avait appelé « l’ensemble des éléments qui entraient dans le cadre des opérations ». Par conséquent, la nature de la relation dépend entièrement des faits constatés par la Cour dans un cas particulier.
+[8] Eu égard à la preuve dans son ensemble, je suis convaincue que lorsque Mme Abeling a accepté le poste chez Altech, il y avait accord de volontés; elle devait agir à titre d’entrepreneur indépendant dont les services avaient été retenus afin de mettre de l’ordre dans les documents financiers de la société comme elle le jugeait bon selon son expertise. La preuve montre que Mme Abeling déclarait être comptable générale licenciée et qu’elle demandait de fait que cette qualité lui soit reconnue. Il était raisonnable pour Altech de s’attendre à ce que quelqu’un qui se trouvait dans la situation de Mme Abeling travaille à titre d’entrepreneur indépendant. Mme Abeling a toujours utilisé son titre professionnel [traduction] « J. Abeling, comptable générale licenciée » dans les factures envoyées à Altech et dans les paiements reçus d’Altech ainsi que dans les autres documents qu’elle préparait pour le compte d’Altech à l’intention de la banque et du comptable de la société. Altech s’attendait simplement à ce que Mme Abeling [traduction] « mette de l’ordre » dans les livres – M. Horne ne possédait pas l’expertise voulue et il comptait sur Mme Abeling pour s’acquitter de cette tâche dans un délai que la banque jugerait acceptable. Mme Abeling a accepté le poste en sachant que cette tâche était prioritaire et qu’il lui incombait de s’en acquitter. Le fait qu’elle travaillait chez Altech pendant les heures normales de travail n’indique pas qu’elle avait le statut d’employé : elle n’avait pas d’autres clients, son bureau à domicile n’était pas doté du matériel nécessaire et, au début du moins, elle bénéficiait de la camaraderie qui régnait dans les locaux d’Altech.
+[9] En fin de compte, il a fallu plus que six mois pour mettre de l’ordre dans les dossiers et Mme Abeling est finalement restée chez Altech jusqu’au mois de décembre 2001. Il semble qu’il ait fallu du temps pour mettre de l’ordre dans les affaires financières de la société à cause d’un certain nombre de facteurs, notamment à cause des pratiques d’Altech en matière de tenue de livres, lesquelles étaient pires que ce qui était prévu; à cause des problèmes de santé de Mme Abeling et parce que les compétences de Mme Abeling en matière de comptabilité étaient rouillées; enfin, par suite du stress attribuable au fait que les relations de travail allaient en se détériorant. Toutefois, rien de tout cela n’a eu pour effet de faire passer le statut de Mme Abeling de celui d’entrepreneur indépendant à celui d’employée. Mme Abeling a témoigné qu’elle demandait continuellement à M. Horne de l’embaucher comme [traduction] « employée », mais qu’il n’avait jamais consenti à le faire. Quoi qu’il en soit, la preuve tend à démontrer que tout intérêt que Mme Abeling avait lorsqu’il s’agissait d’obtenir le statut d’employée était plutôt lié au fait qu’elle voulait tirer parti du régime d’assurance‑maladie de la société plutôt que de cesser d’être un entrepreneur indépendant. Les actions de Mme Abeling ne sont pas compatibles avec le désir qu’elle a exprimé de devenir une employée plutôt qu’entrepreneur indépendant; Mme Abeling a continué à facturer la société toutes les deux semaines et à agir par ailleurs de la façon dont elle s’était présentée, à titre d’entrepreneur indépendant. Le fait que Mme Abeling a assumé certaines tâches administratives additionnelles chez Altech ne suffit pas en soi pour faire d’elle une employée plutôt qu’un entrepreneur indépendant. En fait, personne ne s’est arrêté à la question de savoir si Mme Abeling était une employée tant que celle‑ci n’a pas perdu son emploi; or, pour demander des prestations d’emploi, Mme Abeling devait avoir cette désignation.
+[10] Mme Abeling a témoigné avoir divers problèmes de santé depuis quelques années. Je reconnais que cela influençait ses prises de décision et exacerbait ses difficultés au lieu de travail. Toutefois, cela ne suffit pas, selon les critères établis en droit, pour transformer son statut d’entrepreneur indépendant en celui d’employée. Selon la preuve, Mme Abeling ne s’est pas acquittée de la charge qui lui incombait de démolir les hypothèses sur lesquelles le ministre a fondé sa décision. Pour les motifs susmentionnés, l’appel est rejeté pour le motif que Mme Abeling était un entrepreneur indépendant pendant la période allant du 25 novembre 1999 au 21 décembre 2001 et qu’elle n’exerçait donc pas un emploi assurable.
+Signé à Ottawa, Canada, ce 16e jour de février 2005.
+« G. Sheridan »
+Juge Sheridan
+Traduction certifiée conforme
+ce 1er jour de novembre 2005.
+Sara Tasset
+[1] Conformément au paragraphe 93(3) de la Loi sur l’assurance‑emploi.
+[2] Pièce A‑1.
+[3] Pièce A‑2.
+[4] Pièce R‑1.
+[5] Pièce R‑8.
+[6] Wiebe Door Services Ltd. v. Minister of National Revenue, 87 DTC 5025 (C.A.F.).
+[7] 671122 Ontario Ltd. v. Sagaz Industries Canada Inc., [2001] 4 C.T.C. 139 (C.S.C.).

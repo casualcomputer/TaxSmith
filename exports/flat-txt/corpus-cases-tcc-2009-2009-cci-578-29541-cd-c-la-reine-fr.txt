@@ -1,0 +1,142 @@
+Title: CD c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29541/index.do
+Corpus path: corpus/cases/tcc/2009/2009-cci-578-29541-cd-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2009-11-09
+
+# CD c. La Reine
+
+- Citation: 2009 CCI 578
+- Decision date: 2009-11-09
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6359, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+CD c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2009-11-09
+Référence neutre
+2009 CCI 578
+Numéro de dossier
+2008-4213(IT)I
+Juges et Officiers taxateurs
+Gerald J. Rip
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2008-4213(IT)I
+ENTRE :
+CD,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 13 août 2009, à Edmonton (Alberta)
+Devant : L’honorable juge en chef Gerald J. Rip
+Comparutions :
+Pour l’appelante :
+GD
+Avocate de l’intimée :
+Me Valerie Meier
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’encontre de la nouvelle détermination établie par le ministre du Revenu national (le « ministre ») en vertu de la Loi de l’impôt sur le revenu, dont l’avis est daté du 28 février 2008, pour l’année de base 2006, à l’égard du Supplément de la prestation nationale pour enfants (le « SPNE ») et de la Prestation fiscale canadienne pour enfants (la « PFCE ») pour les mois d’août 2007 à janvier 2008 est accueilli, et la détermination est déférée au ministre pour qu’il procède à un nouvel examen et établisse une nouvelle détermination en tenant pour acquis que l’appelante a droit au SPNE et à la PFCE pour les mois d’août et de septembre 2007.
+Signé à Ottawa, Canada, ce 9e jour de novembre 2009.
+« G.J. Rip »
+Juge en chef Rip
+Traduction certifiée conforme
+ce 17e jour de décembre 2009.
+Marie-Christine Gervais, traductrice
+Référence : 2009 CCI 578
+Date : 20091109
+Dossier : 2008-4213(IT)I
+ENTRE :
+CD,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge en chef Rip
+[1] La question en litige dans le présent appel, interjeté à l’encontre d’une cotisation d’impôt sur le revenu établie pour l’année de base 2006, est de savoir si l’appelante, CD, a droit à la Prestation fiscale canadienne pour enfants (la « PFCE ») et au Supplément de la prestation nationale pour enfants (le « SPNE »), qui sont décrits à la sous‑section a.1 de la Loi de l’impôt sur le revenu (la « Loi »), pour les mois d’août 2007 à janvier 2008 inclusivement.
+[2] Le ministre du Revenu national (le « ministre ») a conclu que l’appelante n’était pas le « particulier admissible » au sens de l’article 122.6 de la Loi et qu’elle n’avait donc pas droit à la PFCE et au SPNE à l’égard de sa fille, KD, pour la période allant du 21 juillet 2007 au 31 janvier 2008 pour les raisons suivantes :
+a) KD ne résidait pas avec l’appelante pendant la période;
+b) l’appelante n’était pas la personne – père ou mère – qui assumait principalement la responsabilité pour le soin et l’éducation de KD pendant la période.
+[3] L’expression « particulier admissible » est définie à l’article 122.6. Aux fins du présent appel, « particulier admissible » a le sens suivant :
+[…] S’agissant, à un moment donné, du particulier admissible à l’égard d’une personne à charge admissible, personne qui répond aux conditions suivantes à ce moment :
+… in respect of a qualified dependant at any time means a person who at that time
+a) elle réside avec la personne à charge;
+(a) resides with the qualified dependant,
+b) elle est la personne — père ou mère de la personne à charge — qui assume principalement la responsabilité pour le soin et l’éducation de cette dernière;
+(b) is the parent of the qualified dependant who primarily fulfils the responsibility for the care and upbringing of the qualified dependant,
+[…]
+…
+h) les critères prévus par règlement serviront à déterminer en quoi consistent le soin et l’éducation d’une personne.
+(h) prescribed factors shall be considered in determining what constitutes care and upbringing;
+[4] Les « critères prévus par règlement » sont énumérés à l’article 6302 du Règlement de l’impôt sur le revenu (le « Règlement ») :
+a) le fait de surveiller les activités quotidiennes de la personne à charge admissible et de voir à ses besoins quotidiens;
+(a) the supervision of the daily activities and needs of the qualified dependant;
+b) le maintien d’un milieu sécuritaire là où elle réside;
+(b) the maintenance of a secure environment in which the qualified dependant resides;
+c) l’obtention de soins médicaux pour elle à intervalles réguliers et en cas de besoin, ainsi que son transport aux endroits où ces soins sont offerts;
+(c) the arrangement of, and transportation to, medical care at regular intervals and as required for the qualified dependant;
+d) l’organisation pour elle d’activités éducatives, récréatives, athlétiques ou semblables, sa participation à de telles activités et son transport à cette fin;
+(d) the arrangement of, participation in, and transportation to, educational, recreational, athletic or similar activities in respect of the qualified dependant;
+e) le fait de subvenir à ses besoins lorsqu’elle est malade ou a besoin de l’assistance d’une autre personne;
+(e) the attendance to the needs of the qualified dependant when the qualified dependant is ill or otherwise in need of the attendance of another person;
+f) le fait de veiller à son hygiène corporelle de façon régulière;
+(f) the attendance to the hygienic needs of the qualified dependant on a regular basis;
+g) de façon générale, le fait d’être présent auprès d’elle et de la guider;
+(g) the provision, generally, of guidance and companionship to the qualified dependant; and
+h) l’existence d’une ordonnance rendue à son égard par un tribunal qui est valide dans la juridiction où elle réside.
+(h) the existence of a court order in respect of the qualified dependant that is valid in the jurisdiction in which the qualified dependant resides.
+[5] Le fait que KD était une « personne à charge admissible » aux fins de la sous‑section a.1 n’est pas contesté.
+[6] Les faits qui ont conduit au présent appel se rapportent à une situation regrettable et il ne servirait à rien d’en donner une description complète. J’ai donc ordonné que les personnes concernées dans cette triste affaire soient identifiées au moyen de leurs initiales et non leur nom, et j’ai essayé d’inclure dans les motifs seulement les faits nécessaires pour arriver aux conclusions qui m’ont amenées à accueillir l’appel en partie.
+[7] CD a témoigné que, le 5 mars 2007, elle a [traduction] « commencé à fréquenter » DS lorsque « [ils ont] emménagé ensemble, puis [ils ont] vécu ensemble par intermittence jusqu’au 17 août 2007 ». À ce moment‑là, CD était sur le point d’accoucher de KD, qui est née le 19 mars 2007. DS est le père de KD. L’appelante a souvent mentionné que sa relation avec DS était [traduction] « bizarre ».
+[8] CD a dit que DS et elle avaient vécu [traduction] « normalement » jusqu’au 22 juin 2007, puis qu’il l’avait [traduction] « mise à la porte » de leur domicile. À ce moment‑là, CD, une patiente schizophrène recevant des soins médicaux, était en train de demander un supplément dans le cadre d’un programme de l’Alberta appelé Assured Income for the Severely Handicapped (l’« AISH ») et devait aviser l’AISH de tout changement dans sa situation financière ou familiale. D’après CD, DS avait adopté comme position avec l’agent du AISH chargé du traitement de son cas qu’elle et lui n’avaient aucune relation. Entre temps, le 23 juin, DS a changé la serrure de la porte de leur appartement. CD a dit qu’elle n’a jamais eu la clé de l’appartement après le 22 juin, même s’il lui est arrivé de passer la nuit là‑bas par la suite.
+[9] Le 28 juin, CD a de nouveau essayé d’emménager dans l’appartement, mais selon ses dires, DS a mis ses vêtements dans l’entrée et l’a [traduction] « mise à la porte ». Le 17 août, DS a signifié à CD une déclaration déposée devant la Cour provinciale de l’Alberta dans laquelle il demandait qu’on lui accorde la tutelle de KD. CD a dit que DS était [traduction] « en état d’ébriété » au moment où il avait signifié la déclaration.
+[10] CD considérait qu’elle était responsable de KD et qu’elle en était la seule tutrice jusqu’au 17 août. Dans une lettre datée du 12 septembre 2007 rédigée par le médecin en titre de CD, lettre qui a été déposée devant la Cour, il est mentionné que, selon lui, CD était capable de prendre soin de son enfant. Le médecin a également mentionné que CD continuerait de prendre ses médicaments. CD a dit qu’il lui était arrivé de passer la nuit avec DS jusqu’au 17 août [traduction] « lorsqu’il était d’humeur agréable ». Les dates exactes n’ont pas été mises en preuve. Elle se souvenait qu’elle [traduction] « se levait lorsqu’il se levait », vers 7 h ou 7 h 30, puis il lui demandait de partir. Pendant la journée, elle amenait KD chez ses parents ou chez la sœur de DS. CD a soutenu qu’entre le 1er et le 17 août, elle avait KD [traduction] « la plupart du temps ». Le soir, après le retour à la maison de DS vers 18 h, l’appelante était à l’appartement où elle cohabitait avec DS. CD s’est plainte que DS [traduction] « se mettait en colère » contre l’enfant et qu’il [traduction] « ne voulait pas prendre KD ». Par contre, DS a dit que c’était lui qui habillait KD, qui lui donnait son bain et qui l’amenait chez le médecin avec sa sœur. Selon lui, c’était lui qui avait eu la garde de KD jusqu’au 17 août.
+[11] Pour la période allant du 17 au 19 août, KD a vécu chez les parents de CD avec cette dernière. CD a dit que, le 19 août, on lui avait conseillé de présenter une demande d’aide juridique et de garder KD chez ses parents. CD a déclaré que, jusqu’au 31 août, KD avait demeuré avec elle chez ses parents. CD a dit que, du 1er septembre jusque [traduction] « vers le mois d’octobre », elle avait pris soin de KD chez ses parents. Du 28 au 30 septembre, elle avait [traduction] « recommencé à fréquenter [DS] »; ils vivaient ensemble avec KD. Pendant environ deux semaines en octobre, CD avait demeuré avec DS et leur enfant. CD s’est souvenue que, le 19 octobre, DS [traduction] « [l]’a prise à la gorge et [l]’a poussée en bas de l’escalier »; elle avait alors quitté la maison et porté plainte à la police. CD ne se souvenait pas de l’endroit où KD avait passé la nuit du 19 octobre. Il semble que DS a eu la garde de KD du 19 au 22 octobre. CD a dit que, du 22 au 26 octobre, elle avait demeuré chez ses parents avec son enfant. Le 26 octobre, elle [traduction] « a retourné l’enfant à DS chez lui ». Il [traduction] « [lui] a arraché l’enfant des bras et [l]’a poussée en bas de l’escalier ». À partir de ce moment‑là, KD a demeuré avec DS.
+[12] DS a également demandé la PFCE à l’égard de KD. Il a témoigné qu’il était personnellement responsable de KD depuis le 21 juillet 2007, lorsque l’appelante les avait quittés, lui et l’enfant. Il a dit que c’était lui qui avait la garde de KD lorsqu’il avait signifié les documents de tutelle à CD le 17 août. Il a dit que c’était sa sœur qui s’occupait de KD chez elle pendant la journée, quand il était au travail.
+[13] DS a témoigné qu’en raison des crises de schizophrénie de CD en juin et de la dépression post‑partum de CD, lui et sa sœur avaient pris soin de KD. Les lundis, pendant la journée, les parents de CD s’occupaient de KD jusqu’au soir, puis le bébé retournait chez DS. DS a confirmé que CD avait demeuré avec lui jusqu’au 21 juillet, où elle lui a laissé KD et a quitté la maison. Il a dit que KD vivait avec lui lorsqu’il avait signifié à CD les documents pour la garde de KD le 17 août. DS a également déclaré dans son témoignage qu’il n’avait jamais agressé CD et que c’était [traduction] « elle l’instigatrice ». CD venait [traduction] « seulement [à la maison] pour des visites ». Il a convenu qu’ils avaient de nouveau brièvement vécu ensemble en septembre.
+[14] DS se souvenait que CD avait passé la nuit du 16 août chez lui, mais qu’à son retour le jour suivant, il avait découvert que l’appartement avait été saccagé. Il a demandé à CD de partir avec sa fille. Il a admis que, [traduction] « à peu près » du 17 août au 28 septembre, il n’avait pas vu l’enfant. DS et CD s’étaient entendus pour qu’il puisse visiter l’enfant chez les parents de CD et c’est ce qu’il a fait. Cependant, CD était rarement chez ses parents lors de ses visites.
+[15] DS a témoigné que, le 26 septembre, CD avait amené l’enfant chez DS pendant quelques heures. Le 28 septembre, selon les dires de DS, CD a retourné l’enfant à DS de façon permanente étant donné qu’elle prenait des médicaments. DS a déclaré que CD lui avait dit qu’elle ne voulait pas rester chez ses parents. Elle est restée chez lui deux heures, puis elle est partie sans l’enfant. DS a convenu que, du début du mois de septembre au 26 septembre, KD était chez les parents de CD.
+[16] La preuve produite en l’espèce laisse beaucoup à désirer. Je ne blâme pas CD. Elle a essayé de se souvenir des événements et de répondre avec honnêteté. J’estime que DS a parfois répondu avec désinvolture au cours de son témoignage. Il ne fait aucun doute que la relation entre CD et DS a entaché leurs témoignages.
+[17] La question que je dois trancher est de savoir si CD était le « particulier admissible », au sens de l’article 122.6, pour les mois d’août, de septembre et d’octobre 2007. Je suis convaincu qu’elle n’était pas le « particulier admissible » après octobre 2007.
+[18] L’avocate de l’intimée a laissé entendre que c’était la mère de CD qui prenait soin de KD lorsque que KD demeurait chez les parents de CD et que CD ne pouvait donc pas être le « particulier admissible ». Compte tenu des faits de l’espèce, je ne suis pas d’accord avec l’avocate de l’intimée. Lorsque CD demeurait chez ses parents avec KD, c’était elle qui s’occupait de KD et, si on tient compte de l’âge de KD, c’était elle qui surveillait ses activités quotidiennes et voyait à ses besoins et qui veillait à ce qu’elle réside dans un milieu sécuritaire. C’est CD qui a décidé de vivre chez ses parents avec KD. Le fait que sa mère l’a aidé, même dans une très grande mesure, ne devrait pas compromettre le fait que CD puisse être considérée comme le « particulier admissible ». Il n’est pas rare que les grands‑parents contribuent au bien‑être de leur petit‑enfant.
+[19] Il ne fait aucun doute que CD n’était pas le « particulier admissible » après septembre 2007. Les parties admettent que, après septembre 2007, DS avait la garde de KD. En août 2007, les parents se sont partagés la garde de KD, ou du moins, l’enfant a demeuré avec les deux parents lorsque CD demeurait chez DS, et ce jusqu’au 17 août. Après le 17 août et jusqu’à la fin de septembre, KD a demeuré avec CD, à la maison des parents de CD, ce qui a été admis par CD et DS.
+[20] Pour ces motifs, je conclus que CD était le « particulier admissible » à l’égard de KD pour les mois d’août et de septembre 2007. L’appel est accueilli et l’affaire est déférée au ministre pour qu’il procède à un nouvel examen et établisse une nouvelle détermination en conséquence.
+Signé à Ottawa, Canada, ce 9e jour de novembre 2009.
+« G.J. Rip »
+Juge en chef Rip
+Traduction certifiée conforme
+ce 17e jour de décembre 2009.
+Marie-Christine Gervais, traductrice
+RÉFÉRENCE : 2009 CCI 578
+NO DU DOSSIER DE LA COUR : 2008-4213(IT)I
+INTITULÉ : CD c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Edmonton (Alberta)
+DATE DE L’AUDIENCE : Le 13 août 2009
+MOTIFS DU JUGEMENT : L’honorable juge en chef Gerald J. Rip
+DATE DU JUGEMENT : Le 9 novembre 2009
+COMPARUTIONS :
+Pour l’appelante :
+GD
+Avocate de l’intimée :
+Me Valerie Meier
+AVOCAT INSCRIT AU DOSSIER :
+Pour l’appelante :
+Nom :
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

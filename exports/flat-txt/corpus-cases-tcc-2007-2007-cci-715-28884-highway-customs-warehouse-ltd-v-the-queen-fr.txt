@@ -1,0 +1,161 @@
+Title: Highway Customs Warehouse Ltd. v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28884/index.do
+Corpus path: corpus/cases/tcc/2007/2007-cci-715-28884-highway-customs-warehouse-ltd-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2007-11-28
+
+# Highway Customs Warehouse Ltd. v. The Queen
+
+- Citation: 2007 CCI 715
+- Decision date: 2007-11-28
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1327, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Highway Customs Warehouse Ltd. v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-11-28
+Référence neutre
+2007 CCI 715
+Numéro de dossier
+2004-691(IT)G
+Juges et Officiers taxateurs
+Eric A. Bowie
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2004-691(IT)G
+ENTRE :
+HIGHWAY CUSTOMS WAREHOUSE LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+___________________________________________________________________
+Requête entendue par téléconférence,
+le 24 septembre 2007, à Ottawa (Ontario).
+Devant : L’honorable juge E.A. Bowie
+Comparutions :
+Avocate de l’appelante :
+Me Barbara Shields
+Avocate de l’intimée :
+Me Bonnie Moon
+____________________________________________________________________
+ORDONNANCE
+Vu la requête présentée par l’appelante afin d’obtenir une ordonnance modifiant le jugement rendu par la Cour le 3 février 2006;
+Et après avoir entendu les avocates des parties et lu les documents versés au dossier;
+La Cour ordonne que la requête soit rejetée et que chacune des parties assume ses propres dépens.
+Signé à Ottawa, Canada, ce 28e jour de novembre 2007.
+« E.A.Bowie »
+Juge Bowie
+Traduction certifiée conforme
+ce 30e jour de mars 2008.
+Aleksandra Koziorowska, LL.B.
+Référence : 2007CCI715
+Date : 20071128
+Dossier : 2004-691(IT)G
+ENTRE :
+HIGHWAY CUSTOMS WAREHOUSE LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DE L’ORDONNANCE
+Le juge Bowie
+[1] L’appelante a déposé la présente requête en application du paragraphe 172(1) des Règles de la Cour canadienne de l’impôt (procédure générale) (les « Règles ») afin d’obtenir la modification du jugement sur consentement que j’ai signé en l’espèce le 3 février 2006. L’intimée consent à ce que la requête soit accueillie. Le dispositif du jugement est rédigé de la façon suivante :
+Les appels interjetés à l’encontre des cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 1995, 1996 et 1997 sont accueillis sans dépens, et les cotisations sont déférées au ministre du Revenu national pour qu’il procède à un nouvel examen et établisse de nouvelles cotisations conformément aux modalités du consentement à jugement ci-joint.
+Les parties pertinentes du consentement visé dans le jugement sont ainsi libellées :
+[TRADUCTION]
+1. Que les termes « Paiements à William A. Glendenning de 15 364 $ en 1995, de 11 317 $ en 1996 et de 15 538 $ en 1997 » soient substitués aux termes « Paiements à William A. Glendenning de 11 100 $ pour chacune des années d’imposition 1995, 1996 et 1997 »;
+2. Que les termes « Paiements à William L. Alvey de 13 627 $ en 1995, de 14 808 $ en 1996 et de 16 329 $ en 1997 » soient substitués aux termes « Paiements à William L. Alvey de 9 831 $ en 1995, de 10 736 $ en 1996 et de 11 550 $ en 1997 sont déductibles ».
+Le consentement a été signé par l’avocat dûment autorisé de chacune des parties.
+[2] Presque une année plus tard, en janvier 2007, la présente requête a été produite. À l’appui de celle‑ci, on a déposé un affidavit signé par l’avocat de l’appelante (qui n’est pas le même avocat qu’en l’espèce). Les moyens invoqués au soutien de la requête sont formulés comme suit dans l’avis de requête :
+[TRADUCTION] […] les sommes énoncées dans le jugement sur consentement du 19 janvier 2006 ont à tort été exprimées en monnaie canadienne plutôt qu’en monnaie américaine. La présente demande est donc déposée en application du paragraphe 172(1) des Règles de la Cour canadienne de l’impôt.
+L’affidavit produit à l’appui de la requête expose les raisons pour lesquelles la requête a été présentée ainsi que le fondement du calcul des sommes qui, selon les parties, doivent maintenant remplacer celles figurant dans le jugement sur consentement initial. Voici le texte des paragraphes 3 et 4 de cet affidavit :
+[TRADUCTION]
+3. Quant à la pension en cours de versement payée à Andrew Haak et à W. Gordon Glendenning, les sommes que l’appelante doit être autorisée à déduire sont, dans le jugement sur consentement, exprimées en monnaie américaine plutôt qu’en monnaie canadienne de sorte qu’elles sont sous‑évaluées puisqu’on a omis de les convertir en dollars canadiens. Par suite de cette erreur dans le jugement sur consentement produit à la Cour, l’ordonnance et le jugement de la Cour rendus consécutivement à cet acte de procédure sous‑évaluent aussi la pension en cours de versement que l’appelante doit être autorisée à déduire. […]
+4. Subséquemment à la production du jugement sur consentement et au prononcé de l’ordonnance, les parties se sont rendu compte du fait qu’une erreur de calcul avait été commise. […]
+Le consentement à la modification signé par l’avocate de l’intimée est joint à l’affidavit. Les deux parties ont insisté pour que je rende un jugement modifié faisant état des sommes corrigées qu’elles affirment maintenant être les sommes exactes que l’appelante peut déduire dans le calcul de son revenu pour chacune des trois années d’imposition en cause. J’ai manifesté certains doutes quant à ma compétence d’agir ainsi. Il me semble en effet que la Cour est maintenant dessaisie de ces trois appels. À ma demande, les parties ont présenté des observations écrites sur la question.
+[3] Le fait qu’il y ait un terme au litige et que l’issue ait un caractère irrévocable est non seulement souhaitable, mais essentiel à l’intégrité de l’ordre judiciaire et à la confiance que lui porte le grand public. En toute logique, ce dernier et les parties doivent être assurés qu’une fois qu’il rend son jugement en bonne et due forme, le tribunal judiciaire ne décidera pas par la suite d’y substituer un jugement différent. Cela étant dit, il tombe sous le sens que cette importante règle doit souffrir certaines exceptions restreintes. Les jugements obtenus par suite de fraude en sont un exemple patent. Dans le cadre de limites très étroitement définies, une autre exception est faite lorsque des éléments de preuve nouveaux et différents deviennent pour la première fois disponibles après le prononcé du jugement. L’exception qui m’intéresse en l’espèce touche à la règle relative au lapsus. Cette règle se trouve à deux endroits dans les Règles de la Cour, soit les articles 168 et 172, bien que sous une forme quelque peu différente.
+168 Lorsque la Cour a prononcé un jugement disposant d’un appel, toute partie peut, dans les dix jours de la date à laquelle elle a pris connaissance du prononcé du jugement, demander, par voie de requête, un nouvel examen des termes du prononcé du jugement, mais seulement pour l’une ou l’autre des raisons suivantes :
+a) le prononcé n’est pas en accord avec les motifs, le cas échéant;
+b) on a négligé ou accidentellement omis de traiter dans le jugement d’une question dont on aurait dû traiter.
+[…]
+172(1) Le jugement qui :
+a) comporte une erreur découlant d’un lapsus ou d’une omission,
+b) doit être modifié relativement à une question sur laquelle la Cour n’a pas statué,
+peut être modifié par la Cour, sur demande ou de son propre chef.
+172(2) Une partie peut demander, par voie de requête dans l’instance, selon le cas :
+a) l’annulation ou la modification d’un jugement en raison d’une fraude ou de faits survenus ou découverts après qu’il a été rendu;
+b) un sursis d’exécution d’un jugement;
+c) une mesure de redressement différente de celle qui a déjà été accordée.
+En l’espèce, l’appelante invoque l’alinéa 172(1)a) et soutient que le jugement signé en février 2006, parce qu’il a adopté par renvoi le consentement signé par les parties, comportait « […] une erreur découlant d’un lapsus […] ». Si j’ai bien compris leurs observations écrites, les deux avocates avancent la thèse suivante : l’erreur commise par un avocat, lorsque la Cour lui donne suite, devient l’erreur de la Cour, qui peut donc la corriger en application de cette règle.
+[4] L’avocate de l’appelante affirme en outre qu’elle peut recourir à l’article 397 des Règles des Cours fédérales pour demander la correction de l’erreur commise par l’appelante. Cette règle est ainsi rédigée :
+397(1) Dans les 10 jours après qu’une ordonnance a été rendue ou dans tout autre délai accordé par la Cour, une partie peut signifier et déposer un avis de requête demandant à la Cour qui a rendu l’ordonnance, telle qu’elle était constituée à ce moment, d’en examiner de nouveau les termes, mais seulement pour l’une ou l’autre des raisons suivantes :
+a) l’ordonnance ne concorde pas avec les motifs qui, le cas échéant, ont été donnés pour la justifier;
+b) une question qui aurait dû être traitée a été oubliée ou omise involontairement.
+397(2) Les fautes de transcription, les erreurs et les omissions contenues dans les ordonnances peuvent être corrigées à tout moment par la Cour.
+Selon l’article 1 des Règles des Cours fédérales, la règle reproduite ci‑dessus s’applique à la Cour fédérale et à la Cour d’appel fédérale et, selon l’article 2, le terme « Cour » qui y est employé s’entend uniquement de ces deux tribunaux. Quoi qu’il en soit, l’article 397, s’il s’appliquait d’une quelconque façon à la Cour canadienne de l’impôt, n’ajouterait rien aux propres règles de cette dernière.
+[5] L’avocate m’a renvoyé à un certain nombre de précédents qui, d’après elle, étayent la présente demande, mais je n’en trouve aucun permettant d’affirmer que la règle relative au lapsus peut être invoquée pour corriger un jugement dont on prétend qu’il est inexact par suite d’une erreur commise par un avocat, sauf la possible exception de l’arrêt Yost c. Le Directeur nommé en vertu de la Loi anti‑inflation[1].
+[6] L’appelante a invoqué l’arrêt Bujnowski c. Canada[2] à l’appui de sa requête parce que le juge de première instance a modifié son jugement pour corriger une erreur découlant d’une admission inexacte concernant le montant d’un remboursement reçu par l’appelant dans cette affaire. Cependant, l’examen des motifs[3] prononcés par le juge de première instance montre sans équivoque que le lapsus corrigé dans cette affaire n’avait pas été commis par un avocat, mais bien par le juge lui‑même. L’avocate avait fait à l’instruction une admission relative à la somme de 12 426,79 $, soit le montant net de l’impôt étranger payé par l’appelant, après avoir tenu compte d’un remboursement. Le juge a à tort mentionné dans son jugement que l’appelant avait droit à un crédit pour impôt étranger de 14 787,28 $, ce qui correspondait à l’impôt étranger brut avant que le remboursement ne soit pris en compte. Le jugement portant modification a été rendu de manière à prendre le remboursement en considération. La règle relative au lapsus a été adoptée précisément pour permettre la correction de ce genre d’erreurs.
+[7] Dans la décision C.I.T. Financial Ltd. v. Canada[4], le juge Bowman, maintenant juge en chef, a rejeté une requête présentée en application de l’article 172 des Règles pour qu’il examine à nouveau le jugement qu’il avait antérieurement prononcé dans cette affaire. Il mentionne ce qui suit au paragraphe 4 :
+Je ne crois pas que la correction que l’avocat de l’appelante me demande d’apporter à mes motifs tombe sous le coup de l’article 168 ou du paragraphe 172(1) des Règles. Le jugement concorde avec les motifs et je n’ai ni oublié ni omis involontairement une question qui aurait dû être traitée. Il n’y a pas d’erreur ni d’omission ou de lapsus involontaire au sens de l’article 171 des Règles. J’ai rendu le jugement que j’avais l’intention de rendre. J’estime donc être dessaisi de l’affaire.
+[8] La même conclusion a été tirée par le président Jackett de la Cour de l’Échiquier dans le cadre d’un appel interjeté à l’égard de la décision M.N.R. v. Gunnar Mining Ltd.[5] de la Commission de révision de l’impôt. Dans cette affaire, un commissaire a entendu un appel intéressant l’allégation voulant que deux montants de revenu distincts soient exonérés d’impôt. L’avocat avait antérieurement reconnu – et il avait informé le commissaire de ce fait – que, si ces moyens d’appel échouaient, l’appel devait néanmoins être accueilli pour permettre à l’appelant de déduire des sommes plus importantes au titre de la déduction pour amortissement et de coûts d’exploration reportés. Le commissaire présidant l’audience a entendu l’appel, l’a rejeté sur le fond et a rendu un jugement en ce sens, mais sans avoir tenu compte de l’entente préalable des parties. Après le rejet d’un appel visant ce jugement, le contribuable a demandé au commissaire, par requête, de modifier son jugement afin de l’autoriser à déduire une déduction pour amortissement ainsi que des coûts d’exploration reportés supplémentaires. Cette requête a été accueillie, et le jugement modifié. Le ministre a ensuite interjeté appel de ce jugement. Le président Jackett a fait droit à l’appel et prononcé des motifs détaillés concernant les origines et la portée admissible de la règle relative au lapsus. Il a conclu que cette règle ne pouvait permettre à un tribunal de modifier sa décision une fois qu’elle a été rendue, sous réserve de deux exceptions seulement : lorsqu’un lapsus a été commis dans la rédaction du jugement et lorsque le jugement n’exprime pas avec justesse l’intention manifeste du tribunal.
+[9] L’avocate de l’intimée a renvoyé à l’arrêt Yost[6]. Dans cette affaire, la Cour d’appel fédérale était saisie d’une demande de contrôle judiciaire visant une décision rendue par le directeur nommé en vertu de la Loi anti-inflation. Dans sa décision initiale[7], la Cour d’appel a confirmé en partie la décision du directeur, mais elle a annulé la portion d’ordre pécuniaire de son ordonnance pour cause d’incompétence à cet égard. La Cour d’appel était arrivée à cette conclusion sur le fondement du texte de la loi applicable que lui avait fourni l’avocat. Or, cette version du texte législatif était antérieure à une modification qui conférait au directeur la compétence de se prononcer sur la partie pécuniaire de son ordonnance. Ce n’est qu’après avoir été saisie d’une requête présentée en application de l’alinéa 337(5)b) que la Cour d’appel a pour la première fois eu connaissance du texte modifié de la loi pertinente. Elle a rendu des motifs modifiés par lesquels elle ordonnait qu’environ la moitié de ses précédents motifs soient radiés et qu’une nouvelle version rejetant la demande de contrôle judiciaire dans son intégralité soit « substitu[ée][8] » à ces motifs radiés. Or, dans la décision Gunnar Mining, le président Jackett avait précisément conclu, à la lumière de la jurisprudence fondée sur la common law anglaise et de l’arrêt Paper Machinery[9], que les tribunaux n’ont pas compétence pour agir ainsi. Comme la Cour d’appel, dans l’arrêt Yost, ne donne aucun motif pour justifier sa décision de modifier le jugement antérieur et qu’elle ne fait aucune mention des décisions Gunnar Mining ou Paper Machinery ou d’un quelconque autre précédent anglais auxquels on renvoie dans ces affaires, et comme, en outre, l’arrêt Yost ne figure dans aucune des décisions récentes de la Cour d’appel fédérale, je conclus qu’il faut considérer que cette décision a été rendue par inadvertance.
+[10] La Cour d’appel fédérale a à nouveau été saisie de cette même question dans l’arrêt Boateng v. Minister of Employment and Immigration[10]. M. Boateng a présenté une requête en application du paragraphe 337(5) des Règles de la Cour fédérale[11] pour que la Cour réexamine son jugement antérieur portant rejet de la demande de contrôle judiciaire qu’il avait présentée au motif que des éléments avaient été omis dans sa demande antérieure alors qu’ils auraient dû y figurer. Le juge Mahoney, siégeant seul, a tenu les propos suivants au moment de rejeter la demande[12] :
+À mon avis, le défaut d’une partie de présenter les éléments de preuve disponibles ne lui donne pas le droit au réexamen d’une décision qui a tranché l’affaire d’une façon définitive. La règle en cause envisage un oubli commis par la Cour, et non par une partie […]
+Ces règles tirent leur origine de l’arrêt Paper Machinery et de la jurisprudence anglaise. Dans la décision Gunnar Mining, le président Jackett renvoie à un grand nombre de ces précédents. Dans l’arrêt Dupont Canada Inc. c. Canada[13], la Cour d’appel fédérale mentionne que le paragraphe 397(1) :
+[…] permet de corriger certaines erreurs commises par la Cour, mais qu’il n’est pas destiné à remédier à une erreur commise par l’avocat qui a omis d’attirer l’attention de la Cour sur une question[14].
+[11] Parmi les autres décisions invoquées par l’appelante dans son mémoire, l’affaire Tigney Technology Inc. v. Canada[15] est la seule où la Cour a appliqué la règle relative au lapsus pour modifier un jugement. Bien que ce ne soit pas tout à fait clair à la lecture des motifs, il semble que l’erreur corrigée dans cette affaire ait été commise par le juge et non par un avocat. Dans la décision Malowitz c. Canada, le juge Brulé a annulé un jugement rendu ex parte. L’avocat de l’appelant, en raison d’une erreur qui s’est produite à son bureau, avait omis de comparaître au moment où l’affaire a été appelée. Le juge Brulé avait cependant pris soin de signaler qu’il n’appliquait pas la règle relative au lapsus puisqu’il « n’y a pas eu d’erreur de commise en l’espèce ».
+[12] En résumé, donc, la jurisprudence de la Cour canadienne de l’impôt, de la Cour de l’Échiquier, de la Cour fédérale et de la Cour d’appel fédérale ainsi que des tribunaux anglais établit que le recours à la règle relative au lapsus se limite aux affaires où le tribunal, et non l’une ou les deux parties, a commis une erreur ou une omission involontaire, ou a rendu un jugement qui est manifestement incompatible avec les motifs donnés. Ce n’est pas le cas en l’espèce. La Cour est dessaisie des appels en cause. L’intimée a consenti à la modification demandée et elle a produit un mémoire au soutien de la requête. Il est toutefois bien établi que ce consentement ne saurait être attributif de compétence : voir l’arrêt Canadian Pacific Railway Company v. Fleming[16].
+[13] Bien que l’issue de la présente affaire ne repose pas sur l’affidavit produit au soutien de la requête dont je suis saisi, ce document illustre bien les raisons pour lesquelles la Cour serait mal venue de modifier son jugement dans un cas comme celui‑ci. L’erreur ayant donné lieu à la requête tient au fait que l’avocat a omis, dans le consentement au jugement, d’exprimer en monnaie canadienne les sommes devant être déduites du revenu, lesquelles ont été payées en monnaie américaine. La pièce « C » jointe à l’affidavit produit à l’appui de la présente requête consiste en un tableau montrant la conversion des sommes que l’avocate souhaite maintenant substituer à celles figurant dans le consentement. Il ressort sans équivoque de l’examen de ce tableau que deux taux ont été utilisés pour calculer les deux sommes payées en 1996. Ces taux sont les suivants : 1,00 $US = 1,37926 $CAN et 1,00 $US = 1,01955 $CAN. Le deuxième taux est de toute évidence erroné. Je puis uniquement supposer que, si je modifiais le jugement selon les modalités proposées dans la présente requête, les avocates, lorsqu’elles se rendraient compte de cette dernière erreur, produiraient probablement une autre requête pour demander une nouvelle modification du jugement.
+[14] Pour toutes les raisons qui précèdent, la requête est rejetée. Les parties assumeront chacune leurs propres dépens liés à la requête.
+Signé à Ottawa, Canada, ce 28e jour de novembre 2007.
+« E.A.Bowie »
+Juge Bowie
+Traduction certifiée conforme
+ce 30e jour de mars 2008.
+Aleksandra Koziorowska, LL.B.
+RÉFÉRENCE : 2007CCI715
+NO DU DOSSIER DE LA COUR : 2004-691(IT)G
+INTITULÉ DE LA CAUSE : Highway Customs Warehouse Ltd. c.
+Sa Majesté La Reine
+LIEU DE L’AUDIENCE : Ottawa (Ontario)
+DATE DE L’AUDIENCE : Le 24 septembre 2007
+MOTIFS DE L’ORDONNANCE PAR: L’honorable E.A. Bowie
+DATE DE L’ORDONNANCE : Le 28 novembre 2007
+COMPARUTIONS :
+Avocate de l’appelante :
+Me Barbara Shields
+Avocate de l’intimée :
+Me Bonnie Moon
+AVOCAT(E) INSCRIT(E) AU DOSSIER :
+Pour l’appelante :
+Nom : Me Barbara Shields
+Cabinet : Aikins, MacAulay & Thorvaldson LLP
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] [1980] 2 C.F. 720.
+[2] [2006] 2 C.T.C. 237; 2006 CAF 32.
+[3] [2005] 1 C.T.C. 2831; 2005 CCI 90.
+[4] [2003] DTC 1545; 2003 CCI 544.
+[5] 70 DTC 6135.
+[6] Précité, note 1.
+[7] [1980] 1 C.F. 735.
+[8] Ibid., page 739.
+[9] Paper Machinery Ltd. v. J.O. Ross Engineering Corporation, [1934] S.C.R. 186.
+[10] (1990) 112 N.R. 318.
+[11] Le paragraphe 337(5) a depuis été repris sous la forme du paragraphe 397(1) des Règles des Cours fédérales et il est pour l’essentiel identique à l’article 168 des Règles de la Cour.
+[12] Ibid., page 319.
+[13] [2002] 4 C.T.C. 59; 202 CAF 307.
+[14] Ibid., paragraphe 10.
+[15] 97 DTC 414; 1997 ACI 1402.
+[16] (1893) 22 S.C.R. 33.

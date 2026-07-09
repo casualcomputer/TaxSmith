@@ -1,0 +1,257 @@
+Title: Wendy Kamstra S/N Maplewood Resource Centre c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27256/index.do
+Corpus path: corpus/cases/tcc/2006/2006-cci-43-27256-wendy-kamstra-s-n-maplewood-resource-centre-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2006-01-18
+
+# Wendy Kamstra S/N Maplewood Resource Centre c. M.R.N.
+
+- Citation: 2006 CCI 43
+- Decision date: 2006-01-18
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 797, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Wendy Kamstra S/N Maplewood Resource Centre c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-01-18
+Référence neutre
+2006 CCI 43
+Numéro de dossier
+2005-997(EI)
+Juges et Officiers taxateurs
+William E. MacLatchy
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2005-997(EI)
+ENTRE :
+WENDY KAMSTRA S/N MAPLEWOOD RESOURCE CENTRE,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+ANDREA MCMANUS,
+intervenante.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu sur preuve commune avec les appels de Wendy Kamstra s/n Maplewood Resource Centre (2004-2933(EI), 2004-2934(CPP) et 2005‑998(CPP)) à Toronto (Ontario), le 3 octobre 2005
+Devant : L’honorable juge suppléant W.E. MacLatchy
+Comparutions :
+Pour l’appelante :
+L’appelante elle-même
+Avocat de l’intimé :
+Me John Grant
+Pour l’intervenante :
+L’intervenante elle‑même
+JUGEMENT
+L’appel est accueilli et la décision du ministre est annulée, conformément aux motifs du jugement ci‑joints.
+Signé à Toronto (Ontario), ce 18e jour de janvier 2006.
+W.E. MacLatchy
+Juge suppléant MacLatchy
+Traduction certifiée conforme
+ce 4e jour de décembre 2006.
+Christian Laroche, LL.B.
+Dossier : 2005-998(CPP)
+ENTRE :
+WENDY KAMSTRA S/N MAPLEWOOD RESOURCE CENTRE,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+ANDREA MCMANUS,
+intervenante.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu sur preuve commune avec les appels de Wendy Kamstra s/n Maplewood Resource Centre (2004-2933(EI), 2005-997(EI) et 2004‑2934(CPP)) à Toronto (Ontario), le 3 octobre 2005
+Devant : L’honorable juge suppléant W.E. MacLatchy
+Comparutions :
+Pour l’appelante :
+L’appelante elle-même
+Avocat de l’intimé :
+Me John Grant
+Pour l’intervenante :
+L’intervenante elle-même
+JUGEMENT
+L’appel est accueilli et la décision du ministre est annulée, conformément aux motifs du jugement ci‑joints.
+Signé à Toronto (Ontario), ce 18e jour de janvier 2006.
+W.E. MacLatchy
+Juge suppléant MacLatchy
+Traduction certifiée conforme
+ce 4e jour de décembre 2006.
+Christian Laroche, LL.B.
+Dossier : 2004-2933(EI)
+ENTRE :
+WENDY KAMSTRA S/N MAPLEWOOD RESOURCE CENTRE,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu sur preuve commune avec les appels de Wendy Kamstra s/n Maplewood Resource Centre (2004-2934(CPP), 2005-997(EI) et 2005‑998(CPP)) à Toronto (Ontario), le 3 octobre 2005
+Devant : L’honorable juge suppléant W.E. MacLatchy
+Comparutions :
+Pour l’appelante :
+L’appelante elle-même
+Avocat de l’intimé :
+Me John Grant
+JUGEMENT
+L’appel est accueilli et la décision du ministre est annulée, conformément aux motifs du jugement ci‑joints.
+Signé à Toronto (Ontario), ce 18e jour de janvier 2006.
+W.E. MacLatchy
+Juge suppléant MacLatchy
+Traduction certifiée conforme
+ce 4e jour de décembre 2006.
+Christian Laroche, LL.B.
+Dossier : 2004-2934(CPP)
+ENTRE :
+WENDY KAMSTRA S/N MAPLEWOOD RESOURCE CENTRE,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu sur preuve commune avec les appels de Wendy Kamstra s/n Maplewood Resource Centre (2004-2933(EI), 2005-997(EI) et 2005‑998(CPP)) à Toronto (Ontario), le 3 octobre 2005
+Devant : L’honorable juge suppléant W.E. MacLatchy
+Comparutions :
+Pour l’appelante :
+L’appelante elle-même
+Avocat de l’intimé :
+Me John Grant
+JUGEMENT
+L’appel est accueilli et la décision du ministre est annulée, conformément aux motifs du jugement ci‑joints.
+Signé à Toronto (Ontario), ce 18e jour de janvier 2006.
+W.E. MacLatchy
+Juge suppléant MacLatchy
+Traduction certifiée conforme
+ce 4e jour de décembre 2006.
+Christian Laroche, LL.B.
+Référence : 2006CCI43
+Date : 20060118
+Dossiers : 2005-997(EI)
+2005-998(CPP)
+ENTRE :
+WENDY KAMSTRA S/N MAPLEWOOD RESOURCE CENTRE,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+ANDREA MCMANUS,
+intervenante,
+ET
+Dossiers : 2004-2933(EI)
+2004-2934(CPP)
+ENTRE :
+WENDY KAMSTRA S/N MAPLEWOOD RESOURCE CENTRE,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge suppléant MacLatchy
+[1] Les présents appels ont été entendus le 3 octobre 2005, à Toronto, Ontario, sur preuve commune avec le consentement des parties.
+[2] L’appelante a interjeté appel à l’encontre des décisions rendues par le ministre du Revenu national (le « ministre ») pour le règlement de la question de savoir si Andrea McManus et Shirley Peterbaugh, les travailleuses, occupaient un emploi assurable et ouvrant droit à pension quand elles travaillaient pour l’appelante pendant les périodes allant du 18 août 2003 au 13 mai 2004 et du 31 janvier au 27 octobre 2003, respectivement, au sens de la Loi sur l’assurance‑emploi (la « Loi ») et du Régime de pensions du Canada (le « Régime ») respectivement.
+[3] Dans des lettres datées du 14 février 2005, dans le cas d’Andrea McManus, et du 15 avril 2004, dans le cas de Shirley Peterbaugh, le ministre a informé l’appelante qu’il avait été déterminé que l’emploi exercé par les travailleuses pour l’appelante, pendant les périodes en question, constituait un emploi assurable et ouvrant droit à pension parce que les travailleuses avaient été engagées aux termes d’un contrat de louage de services.
+[4] L’appelante, Andrea McManus et Janice Langlois, une travailleuse sociale autorisée ainsi qu’une conseillère en toxicomanie agréée, ont témoigné dans le cadre de l’instruction des appels.
+[5] Pour rendre ses décisions, le ministre s’est fondé sur les allégations de fait suivantes énoncées dans les réponses aux avis d’appel :
+[TRADUCTION]
+Andrea McManus
+a) L’appelante exploite un « service de soins à domicile » pour son fils handicapé, Michael, ci‑après appelé « Michael », dans la résidence privée de celui‑ci;
+b) Michael a 12 ans et il a subi des lésions neurologiques graves il y a neuf ans, dans un accident d’automobile;
+c) Michael doit recevoir des soins 24 heures par jour, 7 jours par semaine;
+d) La compagnie d’assurance State Farm Insurance Co fournit des fonds à l’appelante pour les soins de Michael;
+e) L’appelante engage des employés pour qu’ils subviennent aux besoins de tous les jours de Michael;
+f) La travailleuse a été engagée par l’appelante afin d’aider Michael;
+g) La travailleuse exerçait notamment les fonctions suivantes : elle administrait les médicaments à Michael; elle agissait à titre d’aide en orthophonie; elle participait aux activités quotidiennes de Michael, par exemple, elle l’accompagnait lorsqu’il jouait à des jeux, qu’il allait au cinéma, qu’il allait promener le chien, qu’il jouait au baseball et qu’il allait aux activités des scouts; elle aidait Michael à développer ses aptitudes à la vie quotidienne et à s’occuper de son hygiène personnelle; elle surveillait Michael et ses amis; elle s’occupait de l’entretien quotidien de la maison de Michael;
+h) La travailleuse assurait la prestation des services à la résidence de Michael et à d’autres endroits en dehors de son domicile, selon les activités quotidiennes de Michael;
+i) La travailleuse était payée 15 $ l’heure par l’appelante;
+j) La travailleuse devait consigner ses heures de travail sur une feuille de temps;
+k) Le taux de rémunération de la travailleuse était déterminé par l’appelante;
+l) Les heures de travail de la travailleuse variaient et elles étaient déterminées par l’appelante;
+m) L’appelante disait à la travailleuse ce qui devait être fait chaque jour;
+n) La travailleuse fournissait ses services exclusivement à l’appelante;
+o) Si la travailleuse n’était pas disponible pour une période de travail particulière, l’appelante trouvait quelqu’un pour la remplacer, ou bien l’appelante ou le père de Michael exécutaient les tâches eux‑mêmes;
+p) Tout l’ameublement et le matériel requis était fourni à la travailleuse par l’appelante;
+q) L’appelante payait toutes les dépenses, y compris les dépenses engagées pour les excursions d’un jour;
+r) La travailleuse était remboursée par l’appelante pour l’utilisation de son automobile personnelle au taux de 33 cents le kilomètre;
+s) L’appelante se réservait le droit de mettre fin à l’emploi de la travailleuse en tout temps;
+t) L’appelante a engagé d’autres travailleurs pour assurer la prestation de services semblables;
+u) Pour l’année 2003, l’appelante a envoyé des T4 à ses autres employés.
+Shirley Peterbaugh
+a) L’appelante exploite un « service de soins à domicile » pour son fils handicapé, Michael, dans la résidence privée de celui‑ci;
+b) La résidence est au nom de Michael et elle est détenue en fiducie par Wendy Kamstra (l’« appelante »);
+c) Michael a subi des lésions neurologiques graves il y a neuf ans, dans un accident d’automobile et il est maintenant âgé de douze ans;
+d) Michael doit recevoir des soins 24 heures par jour, 7 jours par semaine;
+e) La compagnie d’assurance de l’automobile, la « State Farm Insurance Co. », a versé 1 M$ dans un compte de réhabilitation médicale pour les soins de Michael;
+f) La compagnie d’assurance réévaluait régulièrement les patients et elle pouvait réduire le financement ou y mettre fin en tout temps;
+g) Jusqu’à 700 000 $ avaient déjà été dépensés pour la prestation de services professionnels pour Michael;
+h) À ce moment‑là, l’appelante a décidé qu’il serait peut‑être plus avantageux que la compagnie d’assurance alloue un montant mensuel de 14 000 $ pour que l’appelante puisse engager et payer directement diverses personnes pour qu’elles s’occupent des soins à domicile de Michael;
+i) Les professionnels de la santé (comme les orthophonistes, les neuropsychologues, etc.) ont continué de facturer la compagnie d’assurance et sont payés par la compagnie d’assurance;
+j) La travailleuse a été engagée à titre d’« aide aux soins à domicile » aux termes d’une entente verbale;
+k) La travailleuse est une aide aux soins à domicile agréée;
+l) La travailleuse a été engagée pour effectuer ce qui est appelé les A.V.Q. (activités de la vie quotidienne), comme les soins personnels, les services de soins infirmiers, l’administration des médicaments, l’enseignement à domicile, le transport pour les rendez‑vous et les excursions à l’extérieur de la maison de Michael;
+m) La travailleuse assurait la prestation des services dans la maison de Michael;
+n) La travailleuse travaillait en moyenne 32 heures par semaine, du lundi au vendredi, et parfois pendant la fin de semaine;
+o) La travailleuse disait à l’appelante quand elle était disponible pour travailler;
+p) Les heures de travail de la travailleuse étaient consignées sur un calendrier par l’appelante;
+q) La travailleuse était payée 15,50 $ l’heure, par chèque, deux fois par mois (les 15e et 30e jours de chaque mois);
+r) La travailleuse a reçu une paye de vacances jusqu’au 15 juillet 2003;
+s) La travailleuse devait porter un t‑shirt ou une chemise à manches longues avec le nom « Maplewood Resource Centre »;
+t) L’appelante fournissait tout le matériel requis à la travailleuse;
+u) L’appelante se réservait le droit de mettre fin à l’emploi de la travailleuse;
+v) L’appelante a engagé d’autres travailleurs pour exercer des fonctions semblables.
+[6] L’appelante ainsi que son fils, Michael, ont été gravement blessés dans un accident d’automobile et son fils a gardé des séquelles importantes sous forme de lésions cérébrales permanentes. L’appelante a elle‑même été blessée si gravement qu’elle a très peu de souvenirs, sinon aucun dans la plupart des cas, concernant les événements ayant eu lieu après l’accident. La seule chose qu’elle fait maintenant, c’est s’occuper de son fils qui a besoin de soins et d’encadrement 24 heures par jours, sept jours par semaine. Pour aider l’appelante et le père du garçon dans ce train‑train quotidien, il a été nécessaire d’engager des personnes de l’extérieur qualifiées à titre de fournisseurs de soins. Ces travailleurs externes, y compris les travailleuses en l’espèce, étaient de fait payés par la State Farm Insurance, conformément à l’Auto Insurance Agency Accidental Benefits Act. Au début, l’appelante avait recours aux services d’une agence pour avoir des travailleurs selon les besoins, mais les services de ces agences coûtaient trop cher et les avocats de l’appelante et d’autres personnes lui ont conseillé de conclure des contrats directement avec les travailleurs pour éviter de payer les frais de ces agences et réduire le coût des soins pour son fils. La compagnie d’assurance concernée ne peut fournir que certains montants pour les soins de son fils, il y a donc une limite à ce que l’appelante peut payer pour ces travailleurs.
+[7] Les travailleuses étaient des personnes qualifiées qui comprenaient les besoins de Michael. La lésion que Michael a subie au niveau du tronc cérébral est si grave qu’il n’y a que cinq personnes au Canada qui ont des besoins aussi importants que lui. L’appelante, par l’intermédiaire d’un autre fournisseur de soins, a appris qu’Andrea McManus se cherchait du travail dans ce domaine. Elle a examiné son curriculum vitae, elle lui a fait passer une entrevue et elle a acquis la conviction que cette personne possédait les compétences voulues pour donner à son fils les soins nécessaires. Les travailleuses devaient administrer des médicaments à l’adolescent, le maîtriser quand il avait des crises ainsi que des accès de fureur et constamment lui indiquer comment se comporter et quoi faire dans le cadre de ses activités quotidiennes, quand il était seul ainsi qu’avec ses amis. Les travailleuses s’étaient fait dire que le taux de rémunération horaire était déterminé en fonction de l’argent que la compagnie d’assurance allouait.
+[8] L’appelante n’a pas pleinement la capacité de se souvenir clairement de ses rapports avec les travailleuses en raison des lésions cérébrales qu’elle avait elle‑même subies lors de l’accident et du trouble émotionnel causé par celui‑ci. Elle a toujours voulu que les travailleurs engagés soient des entrepreneurs indépendants et non pas ses employés. Aucun contrat écrit n’avait été établi avec les travailleurs, mais les heures de travail étaient consignées sur une feuille de travail qui ressemblait à un calendrier. Le témoignage fourni par Andrea McManus lors de l’audience des présents appels appuie le fait qu’elle était considérée comme une entrepreneuse indépendante.
+[9] Les critères recommandés par la Cour d’appel fédérale dans les affaires faisant partie de la « trilogie » sont d’une certaine utilité.
+[10] La question du contrôle est difficile à déterminer dans ces circonstances, d’autant plus que les souvenirs de l’appelante et d’Andrea McManus n’étaient pas clairs et qu’ils étaient souvent contradictoires. L’appelante donnait des instructions et faisait des suggestions concernant les activités quotidiennes de Michael pour tenter de satisfaire son fils et pour aider les fournisseurs de soins. Toutefois, les fournisseurs de soins savaient quelles tâches ils devaient exécuter quotidiennement pour subvenir aux besoins du patient comme la nécessité de maîtriser l’adolescent quand il avait des crises et des accès de fureur violents. Les travailleuses savaient quand administrer les médicaments et quelles doses donner selon les besoins. Leurs heures de travail étaient établies de façon à faire en sorte qu’il y ait des fournisseurs de soins compétents avec le garçon en tout temps. Les heures de travail des travailleuses étaient déterminées en fonction des besoins du patient. La question du contrôle et de la supervision n’est donc pas vraiment utile pour déterminer la relation qu’il y avait entre les parties.
+[11] Les outils dont les travailleuses avaient besoin étaient ceux qui leur étaient propres, comme la capacité de prévoir les problèmes qui se posaient avec le patient, de gérer les situations qui se présentaient et de déterminer les choses et les circonstances en présence desquelles le patient pouvait être mis quand il était à l’extérieur de la maison. Les travailleuses conduisaient leur propre voiture pour aller travailler et aucun autre véritable outil n’était vraiment nécessaire. Ce critère n’est d’aucune utilité.
+[12] Pour ce qui est du critère de la possibilité de profit et du risque de perte, les travailleuses étaient responsables des profits et des pertes. Les travailleuses pouvaient, si elles le voulaient, travailler ailleurs pour gagner plus d’argent. Elles pouvaient travailler pour d’autres employeurs et être en même temps des fournisseuses de soins en disponibilité pour l’appelante. L’utilité de ce critère est douteuse.
+[13] Le critère d’intégration est également équivoque. Les travailleuses géraient elles‑mêmes leur horaire de travail et elles pouvaient travailler quand elles le voulaient. Elles savaient bien que l’appelante avait besoin de leurs services et elles essayaient de respecter un certain horaire pour aider l’appelante. Les travailleuses consignaient leurs heures de travail pour que l’appelante sache quand elles avaient travaillé et s’il y avait quelqu’un pour veiller sur son garçon en tout temps. Les travailleuses facturaient l’appelante pour les heures travaillées et elles étaient payées en conséquence. Aucun montant n’était déduit de ces sommes. Quand elles ont été engagées, les travailleuses se sont fait dire qu’elles étaient des entrepreneuses indépendantes.
+[14] Aucun des critères ci‑dessus n’étaient très convaincant d’une façon ou d’une autre et les cours ont indiqué qu’il fallait examiner l’ensemble de la relation entre les parties, y compris leur intention. En l’espèce, j’accepte la preuve selon laquelle l’appelante a dit aux travailleuses qu’elles seraient des entrepreneuses indépendantes et qu’un contrat d’entreprise avait donc été établi entre les parties. Lors de son témoignage, Andrea McManus a admis qu’on lui avait dit qu’elle serait une entrepreneuse indépendante, mais elle n’était pas certaine de ce que cela voulait dire.
+[15] Compte tenu de l’ensemble de la relation entre les deux parties et des actions de celles‑ci, la Cour conclut qu’il existait entre elles un contrat d’entreprise. Les appels sont donc accueillis et les décisions du ministre sont annulées en conséquence.
+Signé à Toronto (Ontario), ce 18e jour de janvier 2006.
+W.E. MacLatchy
+Juge suppléant MacLatchy
+Traduction certifiée conforme
+ce 4e jour de décembre 2006.
+Christian Laroche, LL.B.
+RÉFÉRENCE :
+2006CCI43
+NO DU DOSSIER DE LA COUR :
+2005-997(EI), 2005-998(CPP)
+2004-2934(CPP) et 2004-2933(EI)
+INTITULÉ DE LA CAUSE :
+Wendy Kamstra s/n Maplewood Resource Centre c. M.R.N. et
+Andrea McManus ET Wendy Kamstra s/n Maplewood Resource Centre c. M.R.N.
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+Le 3 octobre 2005
+MOTIFS DU JUGEMENT PAR :
+L’honorable juge suppléant W.E. MacLatchy
+DATE DU JUGEMENT :
+Le 18 janvier 2006
+COMPARUTIONS :
+Pour l’appelante :
+L’appelante elle-même
+Avocat de l’intimé :
+Me John Grant
+Pour l’intervenante :
+L’intervenante elle-même
+AVOCAT(S) INSCRIT(S) AU DOSSIER :
+Pour l’appelante :
+Nom :
+Cabinet :
+Pour l’intimé :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

@@ -1,0 +1,192 @@
+---
+title: "Minin c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28794/index.do"
+last_modified: "2008-07-30"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 CCI 429"
+citation2: ""
+neutral_citation: "2008 CCI 429"
+decision_date: "2008-07-30"
+language: "fr"
+item_id: "28794"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1514
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T10:32:09.484000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "7e86b13b61b8ce8fa7dfec3eeb7de4edea3269ef47d5d6a891a462c29fcfe3ef"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Minin c. La Reine
+
+- Citation: 2008 CCI 429
+- Decision date: 2008-07-30
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1514, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Minin c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-07-30
+Référence neutre
+2008 CCI 429
+Numéro de dossier
+2005-2082(IT)G
+Juges et Officiers taxateurs
+Wyman W. Webb
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2005-2082(IT)G
+ENTRE :
+VICTOR MININ,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 16 juillet 2008, à Toronto (Ontario).
+Devant l’honorable juge Wyman W. Webb
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Me Paolo Torchetti
+____________________________________________________________________
+JUGEMENT
+L’appel est accueilli, en partie et sans dépens, et l’affaire est renvoyée au ministre du Revenu national pour nouvel examen et nouvelle cotisation au motif que l’appelant a droit, dans le calcul de son revenu pour l’année 2000, à une déduction de 103 964 $ (70 000 $US) relativement au projet de casino russe envisagé.
+Signé à Halifax (Nouvelle-Écosse), ce 30e jour de juillet 2008.
+« Wyman W. Webb »
+Juge Webb
+Traduction certifiée conforme
+ce 10e jour d’octobre 2008.
+Danièle Laberge, LL.L.
+Référence : 2008CCI429
+Date : 20080730
+Dossier : 2005-2082(IT)G
+ENTRE :
+VICTOR MININ,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Webb
+[1] Trois questions ont été traitées au cours de l’audition du présent appel :
+(a) celle de savoir si l’appelant a cessé d’être un résident du Canada et est devenu un résident des États-Unis en avril 2000;
+(b) celle de savoir si certaines dépenses se rapportant au logement de l’appelant dans la région de San Francisco étaient déductibles dans le calcul de son revenu en 2000;
+(c) celle de savoir si l’appelant a droit à une déduction dans le calcul de son revenu en 2000 quant à une somme qu’il prétend avoir dépensée relativement à un éventuel projet de casino dans une région près de la frontière entre la Russie et la Chine.
+[2] Avant 2000, l’appelant vivait avec son épouse et ses enfants à Toronto. Son épouse et lui se sont séparés (et ont par la suite divorcé en 2003). Durant la première partie de l’année 2000, l’appelant vivait à Niagara Falls, en Ontario, et il travaillait à Amherst dans l’État de New York. Il disposait en outre d’un appartement à Amherst dans l’État de New York, où il pouvait passer la nuit lorsqu’il devait être à une réunion tôt le lendemain matin. Il travaillait à forfait à un projet pour Citigroup. Le contrat avec Citigroup a duré les trois premiers mois de 2000.
+[3] Après avoir achevé ce contrat, l’appelant s’est rendu en avion en Russie et en Israël, puis il est revenu en Amérique du Nord. À son retour, il a essayé de trouver du travail dans la région de San Francisco. Il a eu deux entrevues et par suite de la deuxième entrevue il a obtenu un emploi chez eLUXURY.com en avril 2000. Cet emploi était en Californie et eLUXURY.com fournissait un logement à l’appelant. L’appelant ne payait pas de loyer pour ce logement et il y a habité pendant la durée du contrat qui a pris fin en août 2000. À la fin du contrat, il a cessé d’occuper le logement où il habitait. Pendant qu’il travaillait pour elle, eLUXURY.com payait le loyer de l’appartement. Une fois le contrat achevé, eLUXURY.com a cessé de payer le loyer et le prix de location de l’appartement était trop élevé pour l’appelant.
+[4] Après la fin de ce contrat avec eLUXURY.com, l’appelant a eu un autre emploi pendant une courte période, puis il a trouvé du travail chez AudioBase. Il a habité dans des hôtels et dans d’autres logements temporaires. Dans chaque cas, les endroits étaient meublés et il louait les appartements pour de courtes périodes. L’endroit où il a habité pendant la plus longue période en 2000 était l’appartement fourni par eLUXURY.com.
+[5] Tout au long de l’année 2000, l’appelant était marié, mais il vivait séparé de son épouse. L’appelant a deux enfants – un né en 1986 et l’autre en 1996. Ses enfants vivaient avec son épouse dans la région de Toronto. La mère de l’appelant vivait dans la même maison de Toronto où ces derniers vivaient. La mère de l’appelant venait de Russie et il voulait la parrainer pour qu’elle immigre au Canada. Lorsque l’appelant a produit sa déclaration de revenus au Canada pour l’année 2000, il a indiqué qu’il était un résident du Canada (il a inscrit l’adresse où vivaient sa mère, son épouse et ses enfants comme étant son adresse) et qu’il était marié (il n’a pas indiqué qu’il était séparé).
+[6] Lorsqu’il était en Californie, il revenait à la maison par avion aux deux fins de semaine pour voir sa mère et ses enfants. Il était proche de sa mère et il était important pour lui qu’elle soit disponible pour s’occuper de ses enfants.
+[7] À l’égard de la première question quant à savoir si l’appelant avait cessé d’être un résident du Canada en 2000, il semble clair qu’il avait d’importants liens de résidence avec le Canada. Ses enfants vivaient avec sa mère et son épouse au Canada. Il subvenait à leurs besoins en envoyant régulièrement de l’argent. Il avait gardé sa couverture de l’Assurance-santé de l’Ontario (OHIP) et ses cartes de crédit canadiennes. Il se rendait par avion à Toronto aux deux fins de semaine pour voir ses enfants et sa mère. Il n’avait déménagé en Californie aucun objet personnel. Les logements où il a habité en Californie en 2000 étaient tous des logements qu’il occupait pour de très courtes périodes ou des logements de nature temporaire.
+[8] De plus, il y a un autre fait très important qui indique qu’il n’a pas cessé d’être un résident du Canada en 2000. Lorsque l’appelant a produit sa déclaration de revenus au Canada pour l’année 2000, il a indiqué qu’il était un résident du Canada et il a inscrit l’adresse de sa mère, de son épouse et de ses enfants comme étant son adresse. Il a déclaré qu’il a produit sa déclaration de revenus au Canada en tant que résident du Canada parce qu’il voulait parrainer sa mère pour qu’elle immigre ici et qu’il s’inquiétait de ne pouvoir le faire s’il n’était pas un résident du Canada. Sa mère est restée au Canada jusqu’à ce qu’elle retourne en Russie à la fin de décembre 2000 ou au début de janvier 2001. Par conséquent, l’appelant aurait maintenu son intention jusqu’à la fin de décembre 2000 ou jusqu’au début de janvier 2001. Sa mère est revenue au Canada en 2005, mais elle est décédée au cours de cette année.
+[9] Il ressort d’un examen de la Loi sur l’immigration et la protection des réfugiés et du Règlement sur l’immigration et la protection des réfugiés que l’appelant a pu avoir une préoccupation légitime relativement à son droit de parrainer sa mère. Les articles 11, 12 et 13 de la Loi sur l’immigration et la protection des réfugiés prévoient ce qui suit :
+11(1) L’étranger doit, préalablement à son entrée au Canada, demander à l’agent les visa et autres documents requis par règlement, lesquels sont délivrés sur preuve, à la suite d’un contrôle, qu’il n’est pas interdit de territoire et se conforme à la présente loi.
+(2) Ils ne peuvent être délivrés à l’étranger dont le répondant ne se conforme pas aux exigences applicables au parrainage.
+12(1) La sélection des étrangers de la catégorie « regroupement familial » se fait en fonction de la relation qu’ils ont avec un citoyen canadien ou un résident permanent, à titre d’époux, de conjoint de fait, d’enfant ou de père ou mère ou à titre d’autre membre de la famille prévu par règlement.
+[…]
+13(1) Tout citoyen canadien et tout résident permanent peuvent, sous réserve des règlements, parrainer l’étranger de la catégorie « regroupement familial ».
+[10] L’article 130 du Règlement sur l’immigration et la protection des réfugiés prévoit ce qui suit :
+130(1) Sous réserve du paragraphe (2), a qualité de répondant pour le parrainage d’un étranger qui présente une demande de visa de résident permanent au titre de la catégorie du regroupement familial ou une demande de séjour au Canada au titre de la catégorie des époux ou conjoints de fait au Canada aux termes du paragraphe 13(1) de la Loi, le citoyen canadien ou résident permanent qui, à la fois :
+a) est âgé d’au moins dix-huit ans;
+b) réside au Canada;
+c) a déposé une demande de parrainage pour le compte d’une personne appartenant à la catégorie du regroupement familial ou à celle des époux ou conjoints de fait au Canada conformément à l’article 10.
+(2) Le citoyen canadien qui ne réside pas au Canada peut parrainer une demande visée au paragraphe (1) faite par son époux, son conjoint de fait, son partenaire conjugal ou son enfant à charge qui n’a pas d’enfant à charge à condition de résider au Canada au moment où le demandeur deviendra résident permanent.
+[11] L’appelant était un citoyen canadien en 2000. L’appelant, puisqu’il voulait parrainer sa mère, devait résider au Canada. Cela indique clairement une intention de demeurer un résident du Canada étant donné qu’il était important pour l’appelant que sa mère soit au Canada pour s’occuper de ses enfants et qu’il voulait parrainer sa demande d’immigration au Canada. Par conséquent, je conclus que l’appelant n’a pas cessé d’être un résident du Canada en 2000.
+[12] L’appelant a travaillé aux États-Unis pendant de longues périodes en 2000 et il a touché une rémunération importante (environ 195 000 $ de la société eLUXURY.com et d’AudioBase). Il a passé plus de la moitié de l’année 2000 aux États-Unis. Il a eu différents logements aux États-Unis en 2000. En conséquence, il semble que, en 2000, il était assujetti à l’impôt aux États-Unis et qu’il était un résident des États-Unis pour l’application de l’article IV de la Convention fiscale Canada – États-Unis (la « Convention »). Cet article prévoit, en partie, ce qui suit :
+1. Au sens de la présente Convention, le terme « résident » d’un État contractant désigne toute personne qui, en vertu de la législation de cet État, est assujettie à l’impôt dans cet État en raison de son domicile, de sa résidence, de sa citoyenneté, de son siège de direction, de son lieu de constitution ou de tout autre critère de nature analogue, mais, dans le cas d’une succession ou d’une fiducie, seulement dans la mesure où les revenus que tire cette succession ou cette fiducie sont assujettis à l’impôt de cet État, soit dans ses mains, soit dans les mains de ses bénéficiaires. Au sens du présent paragraphe, une personne physique qui n’est pas un résident du Canada en vertu du présent paragraphe et qui est un citoyen des États‑Unis ou un étranger ayant obtenu le droit de résider de façon permanente aux États‑Unis (un détenteur de la « carte verte ») n’est un résident des États-Unis que si cette personne physique a une présence importante aux États-Unis, y possède un foyer d’habitation permanent ou si elle y séjourne de façon habituelle et que ses liens personnels et économiques avec les États-Unis sont plus étroits que ceux qu’elle entretient avec tout État tiers. […]
+2. Lorsque, selon les dispositions du paragraphe 1, une personne physique est un résident des deux États contractants, sa situation est réglée de la manière suivante :
+a) Cette personne est considérée comme un résident de l’État contractant où elle dispose d’un foyer d’habitation permanent; si elle dispose d’un foyer d’habitation permanent dans les deux États ou ne dispose d’un tel foyer dans aucun des États, elle est considérée comme un résident de l’État contractant avec lequel ses liens personnels et économiques sont les plus étroits (centre des intérêts vitaux);
+b) Si l’État contractant où cette personne a le centre de ses intérêts vitaux ne peut pas être déterminé, elle est considérée comme un résident de l’État contractant où elle séjourne de façon habituelle;
+c) Si cette personne séjourne de façon habituelle dans les deux États ou si elle ne séjourne de façon habituelle dans aucun des États, elle est considérée comme un résident de l’État contractant dont elle possède la citoyenneté; et
+d) Si cette personne possède la citoyenneté des deux États ou si elle ne possède la citoyenneté d’aucun d’eux, les autorités compétentes des États contractants tranchent la question d’un commun accord.
+[13] Comme l’appelant était un résident du Canada et un résident des États‑Unis en 2000 pour l’application du paragraphe 1 de l’article IV de la Convention, il est nécessaire d’examiner l’application des règles décisives. Les règles décisives sont énoncées au paragraphe 2 de l’article IV. La première règle décisive est fondée sur la détermination du pays ou des pays dans lesquels l’appelant dispose d’un foyer d’habitation permanent. L’appelant a déclaré que lorsqu’il revenait au Canada il demeurait dans la maison où vivaient son épouse, ses enfants et sa mère, ou il demeurait chez des amis. Cela dépendait de l’humeur de son épouse. L’appelant a déclaré qu’il n’avait pas la clé de la maison où habitaient son épouse, ses enfants et sa mère.
+[14] Étant donné que cette maison au Canada était un foyer d’habitation permanent, la question pour l’application de la Convention consiste à savoir s’il disposait ou non de la propriété. Il ne me semble pas plausible qu’il n’ait pas disposé de cette maison s’il avait choisi d’y demeurer. L’appelant assumait les dépenses de la maison et sa mère, qui était une ancienne générale russe, demeurait dans cette maison. Il ne semble pas plausible que sa mère, en tant qu’ancienne générale russe, ait accepté les ordres de l’épouse de l’appelant (sa belle-fille) si cette dernière avait tenté de refuser à l’appelant l’accès à la maison. L’appelant a clairement déclaré que sa mère lui aurait donné accès à la maison. Par conséquent, selon toute vraisemblance, la mère de l’appelant lui aurait donné accès à la propriété quand il le voulait même si son épouse s’y était opposée et je conclus par conséquent qu’il disposait de cette maison. Le choix de demeurer dans la maison ou chez des amis lui appartenait. La question aux fins de l’application de la Convention consiste à savoir s’il disposait de la propriété. Il en disposait et je conclus qu’il avait un foyer d’habitation permanent au Canada durant toute l’année 2000.
+[15] Il faut alors se demander s’il disposait d’un foyer d’habitation permanent aux États-Unis. Dans l’affaire Garcia v. The Queen, [2008] 1 C.T.C. 2215, 2007 D.T.C. 1593, la juge Lamarre a déclaré ce qui suit :
+[11] Je suis d’avis que, conformément aux règles décisives, l’appelant était un résident du Canada car, durant son séjour au pays, il disposait d’un foyer d’habitation permanent alors qu’il n’en avait aucun aux États-Unis.
+[12] En tirant cette conclusion, je m’appuie sur les observations du Comité des Affaires fiscales de l’OCDE (Organisation de coopération et de développement économiques) concernant l’article 4 (définition de résident) du Modèle de convention fiscale concernant le revenu et la fortune, dans sa version abrégée datée du 15 juillet 2005, à la page 80, paragraphes 11, 12 et 13 (voir le cahier de l’intimée portant sur la jurisprudence, la doctrine et les dispositions législatives, onglet B) :
+11. L’article accorde la préférence à l’État contractant où l’intéressé dispose d’un foyer d’habitation permanent. Ce critère suffira souvent pour résoudre le conflit résultant du fait qu’une personne qui a un foyer permanent dans un État contractant a seulement effectué un séjour d’une certaine durée dans l’autre État contractant.
+12. L’alinéa a) veut dire que, pour l’application de la Convention (donc lorsqu’il y a conflit entre les législations des deux États) on considère que la résidence de la personne physique se trouve là où celle-ci a la possession ou la jouissance d’un foyer d’habitation, à condition que ce dernier soit permanent, c’est-à-dire que la personne l’ait aménagé et réservé à son usage d’une manière durable, par opposition au fait du séjour à un certain endroit dans des conditions telles que ce séjour apparaisse comme devant être limité à une courte durée.
+13. Au sujet de la notion de foyer d’habitation, il faut observer que toute forme d’habitation peut être prise en considération (maison ou appartement qui est la propriété de l’intéressé ou pris en location, chambre meublée louée). Mais la permanence de l’habitation est essentielle, ce qui signifie que l’intéressé fait le nécessaire pour avoir le logement à sa disposition en tout temps, d’une manière continue et pas occasionnellement pour effectuer un séjour qui, compte tenu des raisons qui le motivaient, est nécessairement lié à une courte durée (voyage d’agrément, voyage d’affaires, voyage d’études, stage dans une école, etc.).
+[…]
+[14] À cela, j’ajouterais l’extrait de doctrine suivant :
+[traduction]
+Les conventions considèrent habituellement la personne physique possédant deux résidences comme résident du pays où elle dispose d’un foyer d’habitation permanent. La permanence suppose que la personne a aménagé et réservé le foyer d’habitation à son usage permanent, plutôt que pour un usage temporaire ou des séjours de courte durée. Un « foyer d’habitation » s’entend de toute forme d’établissement résidentiel, par exemple une maison, un appartement ou même une chambre meublée louée. C’est la permanence du foyer d’habitation, plutôt que l’importance ou la nature du logement acheté ou loué, qui sert à mesurer le degré d’attachement au pays.
+[Non souligné dans l’original.]
+[16] Je ne suis pas convaincu que les logements que l’appelant a occupés dans la région de San Francisco en 2000 pourraient être considérés comme des foyers d’habitation permanents dont il disposait. Les endroits où il a demeuré en 2000 dans la région de San Francisco sont les suivants :
+· D’avril à août 2000, il a demeuré dans l’appartement fourni par eLUXURY.com.
+· Du 7 août au 30 août, il a demeuré aux Bay City Suites, un endroit qu’il a décrit dans une note manuscrite comme un [traduction] « logement temporaire ».
+· Du 9 septembre au 13 septembre, il a demeuré au Howard Johnson Hotel à Corte Madera, en Californie.
+· Pendant deux semaines, du 14 septembre au 28 septembre, et pendant une semaine, du 2 octobre au 9 octobre, il a loué un condominium.
+· Il a signé un bail pour la location d’un appartement meublé d’une chambre pour la période du 8 octobre 2000 au 7 mars 2001 (l’entente mentionne le 7 mars 2000, mais on peut supposer qu’on entendait le 7 mars 2001). À la fin de cette période, la location était au mois et il pouvait y être mis fin au moyen d’un préavis de deux semaines.
+[17] Les trous dans le calendrier ci-dessus étaient probablement des périodes durant lesquelles il avait eu des logements temporaires. Aucune permanence ne ressort de ces conditions de logement. Il a demeuré à différents endroits afin d’être près de son travail, ce qui, puisque son travail était constitué de contrats à court terme, signifiait qu’il avait dû se déplacer à plusieurs reprises pour trouver du nouveau travail ou pour être près d’un nouveau lieu de travail.
+[18] La seule propriété ayant eu un certain degré de permanence en 2000 aux États-Unis était une parcelle d’un terrain qu’il avait achetée dans la région d’Oakland. Il s’agissait d’une parcelle d’un terrain vacant sur laquelle il avait l’intention de construire une maison selon ce qu’il a indiqué. Il a passé beaucoup de temps à nettoyer cette parcelle de terrain, mais rien n’indiquait qu’il y ait eu quelque construction sur le terrain et il n’a jamais habité sur cette propriété.
+[19] Comme il avait l’intention de parrainer sa mère pour qu’elle immigre, l’appelant a dû vouloir conserver son statut de résident du Canada, ce qui a sans aucun doute eu une influence sur sa décision de disposer ou non d’un foyer d’habitation permanent aux États‑Unis. Il n’était pas un citoyen américain et il n’avait pas de carte verte. Il détenait seulement ce qu’il a décrit comme un visa commercial d’Amérique du Nord valide pour un an (mais pouvant être renouvelé). Il détenait un permis de conduire de la Californie, mais il a indiqué qu’il l’avait obtenu seulement parce qu’il voulait acheter une automobile et qu’il devait avoir un tel permis pour obtenir de l’assurance. Il a indiqué que, en 2001, il avait acheté un bateau et qu’il avait ensuite vécu sur ce bateau, mais cela ne s’était produit qu’en 2001.
+[20] À mon avis, l’appelant ne disposait pas d’un foyer d’habitation permanent aux États-Unis en 2000. En conséquence, en vertu de la Convention, l’appelant était un résident du Canada en 2000 et les dispositions du paragraphe 250(5) de la Loi de l’impôt sur le revenu ne s’appliquaient pas à lui en 2000.
+[21] Le ministre a accepté la déduction par l’appelant de certaines dépenses d’entreprise pour l’année d’imposition 2000 et l’appelant, après avoir produit sa déclaration de revenus pour 2000, a produit une demande de redressement d’une T1. Les seules dépenses additionnelles pour lesquelles des éléments de preuve ont été présentés à l’audience étaient le montant déduit relativement aux logements aux États-Unis et le montant se rapportant au projet de casino envisagé près de la frontière entre la Russie et la Chine.
+[22] Les sommes que l’appelant a dépensées pour ses logements aux États-Unis en 2000 étaient des frais de subsistance personnels. L’appelant a soutenu qu’il exploitait une entreprise de mise en valeur d’immeubles aux États-Unis et qu’il faisait des recherches sur des propriétés mises en vente en raison du transfert de propriété à un créancier hypothécaire ou en raison du non-paiement des impôts fonciers. Cependant, comme il n’a tiré aucun revenu de cette entreprise en 2000, les restrictions prévues au paragraphe 18(12) de la Loi de l’impôt sur le revenu auraient été applicables même s’il avait eu un bureau dans ses logements aux États-Unis. Compte tenu du nombre de différents endroits où il a habité en 2000, il ne semble pas plausible qu’il ait eu un bureau dans chacun de ces endroits.
+[23] Il semble en outre que sa déduction pour frais d’hébergement comprend une déduction pour la période pendant laquelle eLUXURY.com payait le loyer de son logement.
+[24] Les sommes payées pour des logements aux États-Unis n’étaient pas non plus admissibles au titre de frais de déménagement étant donné que la définition de frais de déménagement contenue au paragraphe 62(3) de la Loi de l’impôt sur le revenu inclut seulement les frais de logement près de la nouvelle résidence. Ces sommes n’avaient pas été payées pour se loger près de la nouvelle résidence, mais étaient des sommes payées pour l’endroit qu’il occupait à titre de résidence. Ainsi, ces frais n’étaient pas des frais de déménagement.
+[25] En conséquence, aucun montant n’est déductible dans le calcul du revenu de l’appelant pour 2000 aux fins de l’application de la Loi de l’impôt sur le revenu relativement aux frais d’hébergement engagés par l’appelant et aucun montant n’est déductible relativement au logement fourni par eLUXURY.com.
+[26] L’appelant demandait en outre une déduction d’un montant de 70 000 $US qu’il prétendait avoir payé relativement à un projet de casino russe envisagé. L’avocat de l’intimée a soutenu qu’il n’y avait aucun élément de preuve établissant que le montant avait été engagé. Il y a toutefois le témoignage de vive voix de l’appelant selon lequel ce montant avait été engagé et également un reçu daté du 20 mars 2000 qui semble être signé par l’appelant et un autre individu qui, selon ce qui est inscrit, est le représentant autorisé d’un administrateur gouvernemental et un homme d’affaires russe. Seul l’appelant a témoigné au cours de l’audience.
+[27] Le reçu mentionne que le montant de 70 000 $US a été payé en entier et que l’appelant est le seul propriétaire de l’analyse de marché et de l’étude de faisabilité d’un casino dans la zone commerciale Chita Oblast entre la Russie et la Chine.
+[28] L’appelant a décrit cette zone commerciale comme une région frontière entre la Russie et la Chine facilement accessible aux personnes qui se déplacent à partir de la Russie ou de la Chine, de sorte que des affaires peuvent être conclues entre les deux pays. L’appelant a décrit cette région comme une région intéressante pour un projet de casino. L’appelant a déclaré qu’en raison de ses relations il avait acquis les droits exclusifs de construire et d’exploiter un casino dans cette région et qu’il avait pris des dispositions pour qu’une étude de faisabilité soit effectuée à l’égard de ce projet. L’appelant avait également pris contact avec les casinos à Las Vegas afin d’établir s’il y avait un certain intérêt quant à ce projet et le Caesars Palace avait manifesté un intérêt.
+[29] L’appelant a déclaré que le montant de 70 000 $US devrait être réparti entre le droit exclusif de construire ce casino et l’étude faisabilité par l’allocation de 20 000 $US au droit exclusif et de 50 000 $US à l’étude de faisabilité. Dans la présente affaire, cela n’importe pas que le montant soit alloué à l’étude de faisabilité ou aux droits exclusifs de construire et d’exploiter un casino dans cette région. Les droits se rapportant à l’étude de faisabilité sont dans la même catégorie que les droits exclusifs se rapportant à la mise en œuvre du casino étant donné que ces droits n’ont été acquis que relativement au projet de casino et qu’ils ont été également acquis pour être revendus. L’intention de l’appelant lorsqu’il a acquis les droits exclusifs se rapportant à la mise en œuvre du casino et à l’étude de faisabilité était de vendre ces droits aussi rapidement que possible. Il n’avait pas l’intention de participer à la construction ou à l’exploitation du casino.
+[30] Au début de 2000, le gouvernement chinois a modifié ses lois ou a annoncé qu’il les modifierait, ce qui signifiait que le projet de casino avait cessé d’être un projet viable. En conséquence, la valeur des droits exclusifs de construire et d’exploiter un casino et de tout autre intérêt dans l’étude de faisabilité était réduite à néant.
+[31] L’appelant a déclaré qu’il n’y avait pas beaucoup de documents se rapportant à l’acquisition des droits exclusifs ou à la somme payée pour obtenir de tels droits parce que c’était ainsi que les affaires étaient menées en Russie à l’époque en cause.
+[32] Dans la présente affaire, je conclus selon toute vraisemblance que l’appelant a acquis les droits exclusifs se rapportant à la mise en œuvre du casino dans cette région particulière. La mère de l’appelant était une ancienne générale russe et il est donc certainement plausible que l’appelant ait eu au sein du gouvernement russe des relations lui permettant d’acquérir ces droits. L’appelant a déclaré qu’il avait obtenu 70 000 $US par suite d’emprunts à des amis, de la vente de certaines de ses propriétés en Russie et d’apports de sa famille. Des copies de documents montrant des paiements à Lev Khazauovich et à Leonard Popov ont été présentées en preuve. Ces individus étaient des amis de l’appelant qui lui avaient prêté une partie de l’argent (environ 20 000 $US de Lev Khazauovich et 10 000 $US de Leonard Popov). Un de ces individus est maintenant à Moscou et l’autre est au Minnesota. Étant donné que l’appelant reçoit maintenant de l’aide sociale et qu’il a des ressources financières limitées, il n’aurait pas été raisonnable d’exiger qu’il appelle ces individus en cour pour témoigner. Puisque la mère de l’appelant est décédée en 2005, elle ne pouvait pas témoigner. Je suis convaincu, selon la prépondérance des probabilités, que l’appelant a payé 70 000 $US et qu’il a acquis les droits exclusifs se rapportant à la mise en œuvre du projet de casino dans la région près de la frontière entre la Russie et la Chine et à l’étude de faisabilité. Il faut en outre souligner que le revenu tiré par l’appelant en 2000 de la société eLUXURY.com et d’AudioBase s’élevait à 195 631 $.
+[33] Il ressort clairement de la preuve, et l’intimée ne le conteste pas, que l’intention de l’appelant était de vendre ces droits aussi rapidement que possible et non de mettre en œuvre lui-même le projet. Il achetait les droits pour faire un bénéfice de la vente des droits elle-même.
+[34] Ainsi, ces droits (les droits exclusifs se rapportant à la mise en œuvre du projet de casino et à l’étude de faisabilité) constituaient pour lui des éléments d’inventaire. Puisque les droits constituent des éléments d’inventaire et que leur valeur à la fin de 2000 était nulle, l’appelant a droit à une déduction de 70 000 $US pour 2000. Dans la réponse modifiée, l’intimée a tenu pour acquis que le taux de conversion du dollar américain au dollar canadien utilisé par l’appelant était de 1,4852. L’intimée n’a contesté ce taux de change ni dans la réponse modifiée ni au cours de l’audience. Conséquemment, le taux de conversion utilisé est de 1,4852 et le montant de 70 000 $US est donc de 103 964 $, en dollars canadiens.
+[35] Par conséquent, l’appel est accueilli, en partie et sans dépens, et l’affaire est renvoyée au ministre du Revenu national pour nouvel examen et nouvelle cotisation au motif que l’appelant a droit, dans le calcul de son revenu pour l’année 2000, à une déduction de 103 964 $ (70 000 $US) relativement au projet de casino russe envisagé.
+Signé à Halifax (Nouvelle‑Écosse), ce 30e jour de juillet 2008.
+« Wyman W. Webb »
+Juge Webb
+Traduction certifiée conforme
+ce 10e jour d’octobre 2008.
+Danièle Laberge, LL.L.
+RÉFÉRENCE : 2008CCI429
+No DU DOSSIER DE LA COUR : 2005-2082(IT)G
+INTITULÉ : VICTOR MININ ET SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Le 16 juillet 2008
+MOTIFS DU JUGEMENT : L’honorable juge Wyman W. Webb
+DATE DU JUGEMENT : Le 30 juillet 2008
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Me Paolo Torchetti
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom : Victor Minin lui-même
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

@@ -1,0 +1,155 @@
+Title: Scopacasa v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25440/index.do
+Corpus path: corpus/cases/tcc/2004/2004-cci-655-25440-scopacasa-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2004-09-28
+
+# Scopacasa v. The Queen
+
+- Citation: 2004 CCI 655
+- Decision date: 2004-09-28
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2380, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Scopacasa v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-09-28
+Référence neutre
+2004 CCI 655
+Numéro de dossier
+2000-2768(IT)G
+Juges et Officiers taxateurs
+Georgette Anne Sheridan
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2000-2768(IT)G
+ENTRE :
+DOMENIC SCOPACASA,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+__________________________________________________________________
+Appel entendu sur preuve commune avec l'appel de
+Domenic Scopacasa (2000-3648(GST)I), le 15 septembre 2004,
+à Thunder Bay (Ontario).
+Devant : L'honorable G. Sheridan
+Comparutions :
+Avocat de l'appelant :
+Me Dennis C. Roddy
+Avocate de l'intimée :
+Me Tracey Telford
+__________________________________________________________________
+JUGEMENT
+L'appel interjeté à l'égard de la nouvelle cotisation établie en vertu de la Loi de l'impôt sur le revenu pour l'année d'imposition 1995 est rejeté conformément aux motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 28e jour de septembre 2004.
+« G. Sheridan »
+Juge Sheridan
+Traduction certifiée conforme
+ce 19e jour de mai 2005.
+Jacques Deschênes, traducteur
+Dossier :2000-3648(GST)I
+ENTRE :
+DOMENIC SCOPACASA,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+__________________________________________________________________
+Appel entendu sur preuve commune avec l'appel de
+Domenic Scopacasa (2000-2768(IT)G), le 15 septembre 2004,
+à Thunder Bay (Ontario).
+Devant : L'honorable G. Sheridan
+Comparutions :
+Avocat de l'appelant :
+Me Dennis C. Roddy
+Avocate de l'intimée :
+Me Tracey Telford
+__________________________________________________________________
+JUGEMENT
+L'appel interjeté à l'égard de la nouvelle cotisation établie en vertu de la Loi sur la taxe d'accise et dont l'avis porte le numéro 09BP1401428 est rejeté conformément aux motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 28e jour de septembre 2004.
+« G. Sheridan »
+Juge Sheridan
+Traduction certifiée conforme
+ce 19e jour de mai 2005.
+Jacques Deschênes, traducteur
+Référence : 2004CCI655
+Date : 20040928
+Dossiers : 2000-2768(IT)G
+2000-3648(GST)I
+ENTRE :
+DOMENIC SCOPACASA,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Sheridan
+[1] L'appelant, M. Domenic Scopacasa, interjette appel d'une nouvelle cotisation établie pour son année d'imposition 1995 et dans laquelle le ministre du Revenu national a conclu que le profit tiré de la vente d'une maison dont l'appelant était propriétaire constituait un revenu d'entreprise. L'appelant fait également appel, sous le régime de la partie IX de la Loi sur la taxe d'accise, d'une cotisation relative à cette même opération et au montant de la taxe sur les produits et services non versé. M. Scopacasa fait valoir que la maison constituait sa résidence principale et que le produit qu'il a tiré de sa vente est exonéré d'impôt suivant l'alinéa 40(2)b) de la Loi de l'impôt sur le revenu. Quant à l'appel touchant la TPS, il soutient que, comme la maison était sa résidence principale, il n'est pas un « constructeur » au sens du paragraphe 123(1) de la Loi sur la taxe d'accise et qu'il n'est donc pas tenu de payer la TPS. Ces appels ont été entendus sur preuve commune.
+[2] M. Scopacasa est briqueteur. Il est titulaire d'un diplôme en maçonnerie. Il a quitté l'Italie et a immigré au Canada en 1965. Après son mariage en Italie en 1970, lui et son épouse ont acheté une maison de deux étages située au 33, rue Ontario, à Thunder Bay (Ontario). Ils ont trois enfants, qui sont nés en 1971, en 1973 et en 1980. En 1976, ils ont construit une maison sur l'avenue Dublin où ils ont vécu jusqu'en 1983. À cette époque, Mme Scopacasa, qui estimait que les enfants devaient être éduqués en italien, a déménagé avec eux en Italie. Après leur départ, M. Scopacasa est retourné vivre au 33, rue Ontario. À un moment donné, cet immeuble a été converti en trois logements locatifs dont un servait, et continue de servir, d'appartement à M. Scopacasa. Il est situé au deuxième étage et consiste en une cuisine, une salle de séjour et une chambre. Une salle de bain commune sert à tous les appartements qui se trouvent à l'étage. Le troisième appartement se compose du rez-de-chaussée et du sous-sol du 33, rue Ontario. M. Scopacasa passe une partie de l'année au Canada et une autre en Italie : tous les ans, il travaille d'avril à novembre environ à titre de briqueteur dans la région de Thunder Bay; et lorsque la saison est finie, il va passer l'hiver avec sa famille à leur résidence en Italie.
+[3] En juin 1993, M. Scopacasa a acheté de 897551 Ontario Ltd. un terrain situé au 105, croissant Vintage, dans un nouveau lotissement à Thunder Bay, pour la somme de 55 000,00 $. Le président de 897551 Ontario Ltd. était Frank Silvestri, un ami de longue date de M. Scopacasa. Ce dernier a donné un dépôt en espèces de 300,00 $ au moment de l'offre d'achat, laissant un solde impayé de 54 700,00 $. En juin 1994, M. et Mme Scopacasa ont hypothéqué l'immeuble du 33, rue Ontario, pour une somme de 40 000,00 $. À peu près au même moment, ils ont mis en vente un immeuble à usage locatif dont ils étaient propriétaires (34, rue Ontario) et, cet automne-là, M. Scopacasa a commencé la construction de l'immeuble au 105, croissant Vintage. En raison des exigences de son emploi à plein temps et de son absence prolongée en Italie, les travaux relatifs à la maison progressaient lentement. En mai 1995, M. Scopacasa a pu déménager certains biens dans la maison non encore terminée : un grille-pain four, un four à micro-ondes, un matelas. Dans l'intervalle, il continuait d'occuper son appartement du 33, rue Ontario. En juin 1995, il a fait procéder au branchement d'eau au 105, croissant Vintage. Dans son témoignage, il a affirmé qu'il avait rempli une formule pour que la Société canadienne des postes livre son courrier au 105, croissant Vintage, au lieu du 33, rue Ontario, mais il ne disposait d'aucun document étayant cette assertion. Au cours du printemps et de l'été 1995, M. Scopacasa travaillait comme briqueteur à Marathon (Ontario), soit à quelque trois heures et demie de Thunder Bay. Chaque semaine, il quittait Thunder Bay le dimanche après-midi et n'y revenait que le vendredi suivant.
+[4] En août 1995, un événement a complètement changé les projets de M. Scopacasa concernant le 105, croissant Vintage. Selon ses dires, il avait acheté la maison dans la perspective du retour au Canada de son fils aîné, alors âgé de 23 ans, lequel étudiait la médecine en Italie. D'après M. Scopacasa, son fils rêvait de pratiquer la médecine dans le Nord de l'Ontario. Espérant réunir la famille à nouveau, mais sachant que le 33, rue Ontario, était trop petit pour tous les accueillir, M. Scopacasa a décidé de construire une maison plus grande. En août, il a appris que son fils et le reste de la famille allaient finalement demeurer en Italie. Environ deux mois plus tard, en octobre 1995, il a vendu la maison à Cheryl Yamashita et Alfred Guerin pour la somme de 175 000,00 $.
+[5] Pour convaincre la Cour du bien-fondé de son argument voulant que le gain tiré de la vente du 105, croissant Vintage, ne soit pas imposable, M. Scopacasa a l'obligation d'établir que l'hypothèse du ministre selon laquelle [TRADUCTION] « [...] le terrain a été acheté et la maison construite par [M. Scopacasa] en vue de leur revente [...][1] » est erronée. Lorsqu'elle examine la preuve dont elle est saisie, la Cour doit appliquer le critère énoncé dans les décisions The Minister of National Revenue v. Taylor[2] et Happy Valley Farms Ltd. c. La Reine[3]:
+1. Nature du bien vendu. - Le bien vendu, à savoir la maison située au 105, croissant Vintage, pouvait tout autant constituer un bien en immobilisation qu'avoir été l'objet d'une opération commerciale; voilà justement la question qu'il faut examiner.
+2. Durée de la possession à titre de propriétaire. - Le 105, croissant Vintage, a été vendu en octobre 1995, plus de deux ans après que M. Scopacasa a acheté le terrain non bâti. En raison des absences de M. Scopacasa occasionnées par son emploi et ses séjours en Italie, la construction de la maison a duré plus longtemps que les trois ou quatre mois habituellement nécessaires. Plus important encore sont les cinq mois qui se sont écoulés entre le moment où il a commencé à occuper la maison, en mai 1995, et la vente de celle-ci en octobre de la même année. J'ai employé le terme « occupé » parce qu'à la lumière de la preuve produite, il est difficile d'admettre, comme M. Scopacasa le soutient, qu'il avait « déménagé » dans la maison. Les effets qu'il a apportés dans l'immeuble ne peuvent être considérés comme autre chose que des biens de première nécessité, biens dont il avait besoin pendant qu'il travaillait à la construction de la maison lors des rares occasions où il se trouvait à Thunder Bay. Dans l'intervalle, la plus grande partie de ses meubles et de ses effets personnels sont demeurés au 33, rue Ontario. L'eau n'a été branchée qu'au milieu du mois de juin 1995. Aucun téléphone n'a jamais été installé à la maison pendant qu'il y travaillait. En revanche, M. Scopacasa a conservé le service téléphonique au 33, rue Ontario. Selon ses dires, il aurait choisi d'agir ainsi parce qu'il était en train d'installer une nouvelle salle de bain dans l'immeuble afin d'en faciliter la vente et qu'il avait besoin d'un téléphone pendant qu'il se trouvait sur les lieux. Il me paraît étrange qu'un téléphone ait été nécessaire sur les lieux de rénovations mineures, mais non au chantier de construction de la maison où, censément, il passerait plus de temps. Prise dans son ensemble, la preuve laisse supposer que la possession à titre de propriétaire a été de courte durée, ce qui est compatible avec une opération d'achat-revente.
+3. Fréquence ou nombre d'opérations similaires effectuées par le contribuable. - L'opération relative au 105, croissant Vintage, était un fait isolé.
+4. Améliorations apportées au bien réalisé ou se rapportant à pareil bien. - Même si M. Scopacasa a effectué de nombreux travaux sur la maison, la preuve tend à établir que ses efforts visaient à améliorer la qualité marchande de l'immeuble plutôt qu'à satisfaire ses goûts personnels. Rien dans la preuve ne permet de croire que M. Scopacasa a porté un intérêt particulier à la conception du 105, croissant Vintage; il a construit la maison à l'aide d'un plan emprunté, après avoir fait quelques petites modifications touchant le toit et les fenêtres. Au moment de la vente, la maison n'était pas encore terminée. La moquette n'avait pas été choisie, et encore moins installée; cela est compatible avec la pratique suivie dans le domaine immobilier qui consiste à rendre les maisons nouvellement construites plus attrayantes aux yeux des acheteurs éventuels, ces derniers pouvant faire les choix de ce genre eux-mêmes. Je n'accepte pas l'explication de M. Scopacasa selon laquelle il avait mis cette décision de coté dans l'attente que son épouse revienne d'Italie. Au cours de son témoignage, Mme Scopacasa n'a même pas réussi à se souvenir du nom de la rue où, apparemment, son mari peinait à construire une maison pour sa famille, qui était sur le point d'être réunie.
+Il faut également se demander, sous cette rubrique, si le contribuable a « [...] fait un effort particulier afin de trouver ou d'attirer des acheteurs » . À cet égard, M. Scopacasa ne s'est pas montré très ouvert pendant son témoignage. J'accepte le fait qu'il n'a jamais formellement mis la maison en vente. Il est plus difficile de savoir s'il a pris d'autres mesures, quelles qu'elles soient. Dans son témoignage, il a affirmé qu'il n'avait jamais envisagé, avant que son fils décide de manière imprévue de ne pas revenir au Canada, de vendre le 105, croissant Vintage. Ce n'est que lorsqu'il a eu connaissance de ce revirement en août 1995 qu'il a mentionné son intention de vendre à Frank Silvestri au cas où [TRADUCTION] « quelqu'un chercherait une maison » . Il a déclaré ne pas savoir comment les acheteurs avaient appris que la propriété était à vendre. La maison était [TRADUCTION] « ouverte » et il a supposé qu'ils l'avaient peut-être vue par eux-mêmes pendant l'hiver, alors qu'il se trouvait en Italie, ou pendant l'été, alors qu'il travaillait à Marathon, ou peut-être par l'entremise de Frank Silvestri, lequel était [TRADUCTION] « toujours dans le lotissement » . Que M. Scopacasa ait une attitude aussi désinvolte à l'égard de la dette de près de 100 000,00 $ qu'il avait contractée pour une propriété immobilière soudainement devenue inutile n'est pas compatible avec l'image de l'homme que j'ai vu à la barre des témoins. Il était expérimenté dans l'achat et la vente de propriétés immobilières. Il avait mentionné qu'il se préoccupait de la contrainte financière occasionnée par l'hypothèque de 40 000,00 $ et le coût du terrain. À mon avis, son absence d'inquiétude est davantage compatible avec le fait qu'il avait toujours eu l'intention de vendre le 105, croissant Vintage; qu'il se fiait à son ami d'une trentaine d'année, Frank Silvestri, le promoteur immobilier qui était [TRADUCTION] « toujours dans le lotissement » , pour trouver des acheteurs tandis que lui-même construisait la maison; qu'il a pu verser un dépôt d'uniquement 300,00 $ au moment d'acheter le terrain parce qu'il était entendu que celui-ci serait revendu dès que la maison serait habitable; et qu'il rembourserait immédiatement le solde du prix d'achat à M. Silvestri dès la vente de la maison. Je suis convaincue que, par l'intermédiaire de Frank Silvestri, et à partir du moment où il a acheté le terrain, M. Scopacasa a fait un effort particulier afin de trouver et d'attirer des acheteurs pour le 105, croissant Vintage.
+5. Circonstances ayant entraîné la vente du bien. - Au cours de son témoignage, M. Scopacasa a déclaré qu'il avait toujours eu l'intention de vivre avec sa famille dans la maison qu'il construisait au 105, croissant Vintage. Pourtant, dans l'acte formaliste de transport de cette propriété qu'il a signé avec Mme Yamashita et M. Guerin[4], M. Scopacasa atteste par sa signature que [TRADUCTION] « le bien cédé n'est pas habituellement habité à titre de résidence familiale par moi et mon épouse, laquelle n'est pas séparée de moi » . Il a affirmé qu'il avait pour la première fois pensé à vendre la maison en août 1995, lorsqu'il a appris que son fils ne reviendrait pas au Canada : ce revirement chez son fils était à l'origine de la [TRADUCTION] « soudaine urgence » qui l'a poussé à vendre la maison qu'il avait acquise à titre de bien en immobilisation. Or, pendant le contre-interrogatoire, M. Scopacasa a reconnu avoir écrit au vérificateur de l'ADRC[5] et lui avoir déclaré qu'il avait vendu la maison parce qu'il n'avait pas les moyens financiers d'assumer l'hypothèque de 40 000,00 $ et le coût du terrain et qu'il se préoccupait du fait que la maison soit vacante pendant l'hiver. Son explication pour justifier ces assertions contradictoires - soit qu'il ne voulait pas divulguer sa situation familiale au vérificateur - n'était pas convaincante. Je suis d'avis qu'aucune de ces raisons n'est le véritable motif de la vente, à savoir qu'il avait toujours eu l'intention de vendre la maison dès qu'il pourrait la terminer et/ou que Frank Silvestri pourrait trouver un acheteur.
+6. Motif ou intention du contribuable au moment de l'acquisition du bien. - Outre le témoignage direct du contribuable en ce qui a trait à ses intentions au moment d'acheter le bien, la Cour peut également tirer des inférences des circonstances de l'affaire[6], y compris, comme il est mentionné dans la décision Happy Valley, le « comportement du contribuable dans son ensemble lorsqu'il avait le bien en sa possession[7] » . Après avoir examiné la preuve exposée plus haut, je ne puis me convaincre, selon la prépondérance des probabilités, que M. Scopacasa a acheté la propriété en vue de l'utiliser comme résidence principale. J'arrive à la conclusion qu'il avait toujours eu l'intention d'acheter le terrain, d'y construire une maison et de vendre le 105, croissant Vintage, aussi rapidement que possible. Cela suffit à faire de la vente du 105, croissant Vintage, un « projet comportant un risque de caractère commercial » , ce qui donne lieu à un revenu d'entreprise imposable en vertu de la Loi de l'impôt sur le revenu. Cela signifie également que M. Scopacasa était un « constructeur » au sens de la Loi sur la taxe d'accise et qu'il doit rembourser la TPS découlant de la cession du bien.
+[6] Par conséquent, les deux appels sont rejetés, sans dépens.
+Signé à Ottawa, Canada, ce 28e jour de septembre 2004.
+« G. Sheridan »
+Juge Sheridan
+Traduction certifiée conforme
+ce 19e jour de mai 2005.
+Jacques Deschênes, traducteur
+RÉFÉRENCE :
+2004CCI655
+NOS DES DOSSIERS DE LA COUR :
+2000-2768(IT)G et
+2000-3648(GST)I
+INTITULÉ DE LA CAUSE :
+Domenic Scopacasa c. Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+Thunder Bay (Ontario)
+DATE DE L'AUDIENCE :
+Le 15 septembre 2004
+MOTIFS DU JUGEMENT PAR :
+L'honorable G. Sheridan
+DATE DU JUGEMENT :
+Le 28 septembre 2004
+COMPARUTIONS :
+Avocat de l'appelant :
+Me Dennis C. Roddy
+Avocate de l'intimée :
+Me Tracey Telford
+AVOCAT(S) INSCRIT(S) AU DOSSIER :
+Pour l'appelant :
+Nom :
+Me Dennis C. Roddy
+Cabinet :
+Cheadle Johnson Shanks MacIvor
+Pour l'intimée :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Paragraphe 10(l) de la réponse de l'intimée à l'avis d'appel.
+[2] [1956] D.T.C. 1125 (Cour de l'Échiquier).
+[3] 86 D.T.C. 6421, C.F. 1re inst., no du greffe: T-6632-82, 16 juillet 1986.
+[4] Pièce A-5.
+[5] Pièce R-4.
+[6] Racine et al. v. The Minister of National Revenue, [1965] C.T.C. 150, p. 159, à laquelle renvoie la décision Happy Valley (précitée).
+[7] 86 D.T.C. 6421, p. 6424.

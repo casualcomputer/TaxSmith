@@ -1,0 +1,145 @@
+Title: Beardwood v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27116/index.do
+Corpus path: corpus/cases/tcc/2003/2003-cci-833-27116-beardwood-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2003-11-13
+
+# Beardwood v. The Queen
+
+- Citation: 2003 CCI 833
+- Decision date: 2003-11-13
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 921, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Beardwood v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-11-13
+Référence neutre
+2003 CCI 833
+Numéro de dossier
+2003-582(IT)I
+Juges et Officiers taxateurs
+Georgette Anne Sheridan
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2003-582(IT)I
+ENTRE :
+EDWARD BEARDWOOD,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 14 octobre 2003 à Toronto (Ontario)
+Devant : L'honorable juge Georgette Sheridan
+Comparutions
+Pour l'appelant :
+L'appelant lui-même
+Avocat de l'intimée :
+Me Joel Oliphant
+____________________________________________________________________
+JUGEMENT
+L'appel est rejeté et la décision du ministre est confirmée conformément aux motifs du jugement.
+Signé à Ottawa, Canada, ce 13e jour de novembre 2003.
+« G. Sheridan »
+Juge Sheridan
+Traduction certifiée conforme
+ce 10e jour de février 2004.
+Liette Girard, traductrice
+Référence : 2003CCI833
+Date : 20031113
+Dossier : 2003-582(IT)I
+ENTRE :
+EDWARD BEARDWOOD,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Sheridan
+[1] Il s'agit d'un appel interjeté à l'encontre de la décision du ministre du Revenu national (le « ministre » ) rejetant la demande d'un crédit d'impôt pour personnes handicapées de l'appelant pour l'année d'imposition 2001.
+FAITS
+[2] M. Beardwood est un homme âgé de 75 ans qui, depuis son pontage en 1986, a vu ses activités physiques normales diminuer de façon draconienne. Par exemple, il ne peut plus pelleter ni patiner. Il a indiqué dans son témoignage qu'il a de la difficulté à respirer, particulièrement la nuit. En contre-interrogatoire, M. Beardwood a estimé qu'il lui fallait [TRADUCTION] « environ 10 minutes » pour parcourir un pâté de maisons; plutôt que d'utiliser un appareil de marche, il préfère arrêter et se reposer jusqu'à ce qu'il puisse continuer.
+[3] Il prend des médicaments tous les jours : de la nitroglycérine en vaporisateur et de la nitroglycérine en timbre. Il a déclaré qu'il ne peut fonctionner sans ces médicaments. S'il ne les prenait pas, il courrait un grand risque de subir un ACV ou une crise cardiaque. En contre-interrogatoire, il a admis qu'il n'avait pas été hospitalisé pour un problème découlant de ses problèmes cardiaques, mais il consulte son médecin de famille et un cardiologue régulièrement pour faire vérifier son état.
+[4] De 1986 à 2000, M. Beardwood a réclamé avec succès le crédit d'impôt pour personnes handicapées. Pour l'année d'imposition 2001, il a présenté deux attestations médicales T2201 à l'Agence des douanes et du revenu du Canada : l'un du Dr Costaris (pièce R-1) et l'autre du Dr Cheung (pièce R-2). Le ministre était d'avis cependant, que ces attestations ne respectaient pas les critères législatifs puisque les réponses des médecins aux questions n'appuyaient pas la conclusion selon laquelle M. Beardwood souffrait d'une « déficience grave et prolongée » comme le prévoit la loi.
+QUESTION
+[5] La seule question en litige dans le cadre du présent appel est celle de savoir si M. Beardwood remplissait les conditions nécessaires pour avoir droit à un crédit d'impôt pour personnes handicapées comme le prévoient les articles 118.3 et 118.4 de la Loi de l'impôt sur le revenu (la « Loi » ).
+DISPOSITIONS LÉGISLATIFS
+[6] Les dispositions pertinentes de la Loi (2001) sont ainsi rédigées :
+118.3 (1) Un montant est déductible dans le calcul de l'impôt payable par un particulier en vertu de la présente partie pour une année d'imposition, si les conditions suivantes sont réunies :
+a) le particulier a une déficience mentale ou physique grave et prolongée;
+a.1) les effets de la déficience sont tels que la capacité du particulier d'accomplir une activité courante de la vie quotidienne est limitée de façon marquée ou le serait en l'absence de soins thérapeutiques qui, à la fois :
+(i) sont essentiels au maintien d'une fonction vitale du particulier,
+(ii) doivent être administrés au moins trois fois par semaine pendant une durée totale moyenne d'au moins 14 heures par semaine,
+(iii) selon ce à quoi il est raisonnable de s'attendre, n'ont pas d'effet bénéfique sur des personnes n'ayant pas une telle déficience;
+a.2) l'une des personnes suivantes atteste, sur le formulaire prescrit, qu'il s'agit d'une déficience mentale ou physique grave et prolongée dont les effets sont tels que la capacité du particulier d'accomplir une activité courante de la vie quotidienne est limitée de façon marquée ou le serait en l'absence des soins thérapeutiques mentionnés à l'alinéa a.1) :
+(i) un médecin en titre,
+(i.1) s'il s'agit d'un trouble de la parole, un médecin en titre ou un orthophoniste,
+(ii) s'il s'agit d'une déficience visuelle, un médecin en titre ou un optométriste,
+(iii) s'il s'agit d'une déficience auditive, un médecin en titre ou un audiologiste,
+(iv) s'il s'agit d'une déficience quant à la capacité de marcher, de s'alimenter ou de s'habiller, un médecin en titre ou un ergothérapeute,
+(v) s'il s'agit d'une déficience sur le plan de la perception, de la réflexion et de la mémoire, un médecin en titre ou un psychologue;
+b) le particulier présente au ministre l'attestation visée à l'alinéa a.2) pour une année d'imposition;
+c) aucun montant représentant soit une rémunération versée à un préposé aux soins du particulier, soit des frais de séjour du particulier dans une maison de santé ou de repos, n'est inclus par le particulier ou par une autre personne dans le calcul d'une déduction en application de l'article 118.2 pour l'année (autrement que par application de l'alinéa 118.2(2)b.1)).
+Le montant déductible est déterminé selon la formule suivante : [établie dans l'article].
+[...]
+[7] L'article 118.4 prévoit les définitions de certains termes de l'article précédent :
+118.4. (1) Pour l'application du paragraphe 6(16), des articles 118.2 et 118.3 et du présent paragraphe :
+a) une déficience est prolongée si elle dure au moins 12 mois d'affilée ou s'il est raisonnable de s'attendre à ce qu'elle dure au moins 12 mois d'affilée;
+b) la capacité d'un particulier d'accomplir une activité courante de la vie quotidienne est limitée de façon marquée seulement si, même avec des soins thérapeutiques et l'aide des appareils et des médicaments indiqués, il est toujours ou presque toujours aveugle ou incapable d'accomplir une activité courante de la vie quotidienne sans y consacrer un temps excessif;
+c) sont des activités courantes de la vie quotidienne pour un particulier :
+(i) la perception, la réflexion et la mémoire,
+(ii) le fait de s'alimenter ou de s'habiller,
+(iii) le fait de parler de façon à se faire comprendre, dans un endroit calme, par une personne de sa connaissance,
+(iv) le fait d'entendre de façon à comprendre, dans un endroit calme, une personne de sa connaissance,
+(v) les fonctions d'évacuation intestinale ou vésicale,
+(vi) le fait de marcher;
+d) il est entendu qu'aucune autre activité, y compris le travail, les travaux ménagers et les activités sociales ou récréatives, n'est considérée comme une activité courante de la vie quotidienne;
+ANALYSE
+[8] La jurisprudence indique clairement que les critères établis par les articles 118.3 et 118.4 doivent être appliqués de façon rigoureuse. Dans l'affaire Craven c. Canada, [1995] A.C.I. no 239, le juge en chef adjoint Bowman a conclu que même si l'appelant souffrait d'une déficience « grave et prolongée » , il n'entre pas dans le cadre étroit des exigences législatives de façon à avoir droit au crédit d'impôt pour personnes handicapées.
+[9] L'avocat de l'intimée a cité le passage suivant au soutien de sa prétention selon laquelle l'appel doit être rejeté :
+[L'appelant] ne répond toutefois pas aux critères stricts du paragraphe 118.4(1). Il peut accomplir, bien que péniblement, les activités énumérées à l'alinéa 118.4(1)c), mais si l'on considère son cas avec réalisme, son incapacité apparaît grave et permanente. L'application des critères inflexibles de l'article 118.4 ne permet pas à la Cour d'user de son bon sens ou de faire montre de compassion dans l'interprétation des dispositions relatives au crédit d'impôt pour personnes handicapées prévu par la Loi de l'impôt sur le revenu - dispositions qui doivent être appliquées avec compassion et bon sens. La loi établit un distinction injuste entre les personnes qui répondent aux critères sévères du paragraphe 118.4(1) et celles, comme l'appelant, qui souffrent d'autres formes d'incapacité grave et permanente, mais qui ne satisfont pas à ces critères.
+[10] Monsieur le juge Létourneau de la Cour d'appel fédérale a quelque peu tempéré cette analyse dans l'affaire Johnston c. Canada, [1998] A.C.F. no 169 où il a prévenu que ( ¶ 11) :
+[...] même si elles ne s'appliquent qu'aux personnes gravement limitées par une déficience, ces dispositions ne doivent pas recevoir une interprétation trop restrictive qui nuirait à l'intention du législateur, voire irait à l'encontre de celle-ci.
+[11] Le fait que l'affaire Johnston n'avait qu'une application très étroite a été démontrée dans l'affaire Radia c. La Reine [2000] A.C.I. no 87. En rejetant, avec regret, l'appel de l'appelant, Monsieur le juge Bowie a déclaré ce qui suit :
+Dans des décisions récentes, la Cour d'appel fédérale a approuvé, en ce qui a trait à l'interprétation des articles 118.3 et 118.4, l'approche humanitaire et humaine élaborée par le juge Bowman, notamment dans les affaires Noseworthy, [1996] 2 A.T.I. 2006; Cotterell, [1996] A.C.F. no 1781 (Q.L.); Radage, 96 D.T.C. 1615 et Lawlor, [1996] 2 C.T.C. 2005. Toutefois, bien qu'il ne constitue pas un modèle de simplicité et de clarté, le libellé de l'article ne présente toutefois pas d'ambiguïté quant à l'exigence selon laquelle chacune des cinq conditions y énoncées doivent être remplies pour que le contribuable ait droit au crédit d'impôt. Les faits particuliers de la présente cause appellent l'application d'une mesure de redressement. Ce n'est cependant pas aux tribunaux d'accorder un tel redressement, compte tenu des exigences de la Loi, auxquelles l'appelant en l'espèce ne peut tout simplement pas répondre. [...] [Je souligne.]
+[12] Pour que M. Beardwood se voit accorder le redressement qu'il demande, il doit pouvoir démontrer qu'il respecte les exigences législatives des articles 118.3 et 118.4. L'avocat de l'intimée a soutenu qu'il ne l'avait pas fait. En particulier, l'avocat a invoqué le défaut de M. Beardwood à surmonter l'obstacle présenté par l'alinéa 118.3(1)a.2), soit le dépôt d'une attestation médicale qui prouve, conformément aux critères législatifs, la prétention par le contribuable selon laquelle il souffre d'une déficience.
+[13] L'avocat s'est fondé sur une décision de la Cour d'appel fédérale, MacIsaac c. Canada, [1999] A.C.F. no 1898, dans laquelle Monsieur le juge Sexton a conclu ce qui suit :
+( ¶ 5) [...] Le paragraphe 118.3(1)a.2) de la Loi de l'impôt sur le revenu n'est pas simplement indicatif. Il s'agit d'une disposition impérative. Dit simplement, selon le libellé de ces dispositions, il doit y avoir une attestation faite par un médecin qui indique que l'individu souffre de déficiences. Notre Cour a rendu une décision dans le même sens dans l'affaire Partanen c. Canada, [1999] A.C.F. no 751, et nous nous estimons liés par cette décision. [Je souligne.]
+[14] Dans l'affaire Buchanan c. Canada [2002] A.C.F. no 838, Monsieur le juge Rothstein a précisé que la loi exigeait le dépôt d'une attestation « favorable » afin d'accorder un crédit d'impôt pour personnes handicapées :
+( ¶ 19) Or, il se pose un problème : en effet, afin d'accorder un crédit d'impôt pour personnes handicapées, le ministre doit avoir reçu une attestation médicale favorable.
+[15] Une attestation médicale « favorable » comme l'a décrit le juge d'appel Rothstein est une attestation médicale T2201 où au moins l'une des questions de la série se rapportant à la déficience du contribuable reçoit une réponse négative.
+[16] En l'espèce, aucune des questions du formulaire T2201 n'a reçu de réponse négative de la part des deux médecins. Pour chacune des réponses énumérées ci-dessous, le Dr Costaris et le Dr Cheung ont coché la case « oui » sur le formulaire :
+[traduction]
+Votre patient peut-il voir?
+Votre patient peut-il marcher?
+Votre patient peut-il parler?
+Votre patient est-il capable de percevoir, de réfléchir et de se souvenir?
+Votre patient peut-il entendre?
+Votre patient peut-il se nourrir ou s'habiller lui-même?
+Votre patient est-il capable de s'occuper lui-même de fonctions d'évacuation intestinale ou vésicale?
+[17] Bien que l'on puisse se questionner sur l'à-propos de cette façon de rendre un diagnostic médical significatif, ces questions reflètent clairement le libellé du paragraphe 118.4(1). On y retrouve énumérées les déficiences qui doivent être considérées exister avant que l'on puisse déterminer qu'une personne souffre d'une déficience qui limite sa capacité « d'accomplir une activité courante de la vie quotidienne » , comme le définit ce paragraphe. En l'espèce, selon l'information figurant dans les attestations qu'il a déposées, il n'est pas possible de conclure que sa condition médicale entre dans le cadre des déficiences définies par la loi à l'alinéa 118(1)a.2).
+[18] Étant donné la décision McIssac, l'incapacité de M. Beardwood à produire une attestation médicale « favorable » constitue un obstacle infranchissable à son droit à un crédit d'impôt pour personnes handicapées à moins qu'il puisse démontrer qu'il est visé par l'exception décrite par Monsieur le juge Rothstein dans la décision Buchanan :
+[...] le particulier peut demander au médecin de réexaminer les réponses qu'il a données dans l'attestation ou encore il peut obtenir une attestation favorable d'un autre médecin qui n'interpréterait pas les exigences de la Loi d'une façon erronée.
+[...]
+En effet, le cas échéant, le particulier peut demander réparation à la Cour de l'impôt. Les procédures engagées devant la Cour de l'impôt ne sont pas des procédures de contrôle judiciaire visant à permettre de déterminer si la cotisation établie par le ministre est correcte ou raisonnable. La Cour de l'impôt a plutôt pour tâche d'arriver elle-même à une appréciation correcte (sauf si elle n'est pas en mesure de le faire et si elle juge nécessaire de déférer la cotisation au ministre pour nouvel examen en vertu du sous-alinéa 171(1)b)(iii) de la Loi). La Cour de l'impôt examinera l'affaire en se fondant sur la preuve qui lui est soumise, et ce, même si le ministre n'avait pas cette preuve à sa disposition lorsqu'il a établi la cotisation. [Je souligne.]
+[19] Selon la preuve déposée devant la Cour de l'impôt, rien n'indiquait que les médecins de M. Beardwood ont mal interprété les exigences de la Loi. En effet, M. Beardwood a déclaré que s'il était lui-même un médecin, il aurait répondu aux questions exactement de la même façon que le Dr Costaris et le Dr Cheung. L'objection de M. Beardwood aux questions visait leur substance et non les réponses qu'y ont apporté ses médecins. Il a déclaré avec une certaine vigueur que, à son avis, ces questions « ridicules » n'étaient pas utiles à l'évaluation du droit d'un contribuable à demander un crédit d'impôt pour personnes handicapées.
+[20] M. Beardwood n'est pas le premier ni probablement le dernier à exprimer de la frustration quant à l'application des dispositions de la Loi visant le crédit d'impôt pour personnes handicapées. Cela, cependant, ne suffit pas à autoriser la Cour à accorder le redressement demandé.
+[21] Bien qu'il ait été compatissant et respectueux à l'égard des problèmes cardiaques de M. Beardwood, l'avocat de l'intimée a soutenu à bon droit que les exigences de la Loi et de la jurisprudence sont très claires, que la preuve a démontré que M. Beardwood n'avait pas déposé une « attestation médicale favorable » et que, n'ayant pas prouvé que sa condition existait déjà, il ne pouvait avoir droit au crédit d'impôt pour personnes handicapées. Le fait qu'il a pu le faire pour les années d'imposition 1986 à 2000 n'est pas pertinent au présent appel.
+[22] En conséquence, la Cour n'a d'autre choix que de rejeter l'appel.
+Signé à Ottawa, Canada, ce 13e jour de novembre 2003.
+« G. Sheridan »
+Juge Sheridan
+Traduction certifiée conforme
+ce 10e jour de février 2004.
+Liette Girard, traductrice

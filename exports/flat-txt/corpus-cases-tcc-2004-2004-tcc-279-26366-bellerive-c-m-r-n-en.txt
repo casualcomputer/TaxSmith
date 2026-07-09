@@ -1,0 +1,182 @@
+Title: Bellerive c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26366/index.do
+Corpus path: corpus/cases/tcc/2004/2004-tcc-279-26366-bellerive-c-m-r-n-en.md
+Document type: case_law
+Last modified: 2004-04-27
+
+# Bellerive c. M.R.N.
+
+- Citation: 2004 TCC 279
+- Decision date: 2004-04-27
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3379, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Bellerive c. M.R.N.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-04-27
+Neutral citation
+2004 TCC 279
+File numbers
+2001-1012(EI)
+Judges and Taxing Officers
+Sylvio J. Savoie
+Subjects
+Employment Insurance Act
+Decision Content
+[OFFICIAL ENGLISH TRANSLATION]
+Docket: 2001-1100(EI)
+BETWEEN:
+DANIEL FILION,
+Appellant,
+And
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeal of Andrée Bellerive (2001-1012(EI)) on December 1, 2003, at Trois-Rivières, Quebec.
+Before: The Honourable S.J. Savoie, Deputy Judge
+Appearances:
+Representing the Appellant:
+Me Gilbert Nadon
+Representing the Respondent:
+Me Mélanie Bélec
+____________________________________________________________________
+JUDGMENT
+The appeal is allowed and the decision rendered by the Minister overturned pursuant to the attached Reasons for Judgment.
+Signed at Grand-Barachois, New Brunswick, the 27th day of April, 2004.
+"S.J. Savoie"
+Savoie, D.J.
+Certified true translation
+Colette Beaulne
+[OFFICIAL ENGLISH TRANSLATION]
+Docket: 2001-1012(EI)
+BETWEEN:
+ANDRÉE BELLERIVE,
+Appellant,
+And
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeal of Daniel Filion (2001-1100(EI)) on December 1, 2003, at Trois-Rivières, Quebec.
+Before: The Honourable S.J. Savoie, Deputy Judge
+Appearances:
+Representing the Appellant:
+Me Gilbert Nadon
+Representing the Respondent:
+Me Mélanie Bélec
+____________________________________________________________________
+JUDGMENT
+The appeal is allowed and the decision rendered by the Minister overturned pursuant to the attached Reasons for Judgment.
+Signed at Grand-Barachois, New Brunswick, the 27th day of April, 2004.
+"S.J. Savoie"
+Savoie, D.J.
+Certified true translation
+Colette Beaulne
+[OFFICIAL ENGLISH TRANSLATION]
+Citation: 2004TCC279
+Date: 20040427
+Docket: 2001-1012(EI)
+BETWEEN:
+ANDRÉE BELLERIVE,
+Appellant,
+And
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+AND
+Docket: 2001-1100(EI)
+DANIEL FILION,
+Appellant,
+And
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGMENT
+Deputy Judge Savoie
+[1] These appeals were heard on common evidence at Trois-Rivières, Quebec, on December 1, 2003.
+[2] The issue is to determine whether the employment held by Andrée Bellerive, the Appellant, with Daniel Filion, the Payer, from September 18 to October 6, 2000, was insurable employment within the meaning of the Employment Insurance Act (the "Act").
+[3] The Minister of National Revenue (the "Minister") informed the Appellant on March 6, 2001, that the employment at issue had not been deemed insurable employment because after reviewing the terms and conditions of the employment, it is reasonable to conclude that the Payer and the Appellant would not have entered into a substantially similar contract of employment if they had been dealing with each other at arm's length.
+[4] The Minister based the decision on the following presumptions of fact:
+a) The Payer was running the Gestion D.P. 2002 Enr. snack bar in Radisson, James Bay (admitted);
+b) The Payer, the Appellant's common-law spouse, was the sole proprietor of the snack bar (denied);
+c) The Payer ran his business from mid-April to mid-October every year (admitted);
+d) Since the 1997 season, the Payer had hired the Appellant to manage the snack bar; she worked there under a contract of employment (admitted);
+e) On July 8, 2000, the Payer stopped running his snack bar because he had in his possession an order of intent to purchase the business (admitted);
+f) On July 8, 2000, the Appellant stopped working for the Payer and submitted a claim for employment insurance benefits (admitted);
+g) On July 14, 2000, the Payer issued the Appellant a Record of Employment on which was indicated that she had worked from April 30 to July 8, 2000, and had accumulated 500 hours of insurable employment (admitted);
+h) On August 21, 2000, the Appellant submitted a claim for employment insurance benefits (admitted);
+i) On September 14, 2000, HRDC informed the Appellant that it could not pay her benefits because she needed 910 hours of insurable employment to be eligible for benefits (admitted);
+j) In reality, the Appellant needed only 525 hours to qualify (admitted);
+k) On September 16, 2000, the Appellant returned to Radisson alone and did a great deal of work on the Payer's snack bar before its probable sale (admitted);
+l) The Appellant washed the walls, mirrors, seats, various pots, the hood over the stove, refrigerator and freezer in the snack bar (admitted);
+m) The snack bar consisted of three habitation modules, one of which was used exclusively for storage (admitted);
+n) The Appellant worked in the snack bar alone and slept there because the mobile home had been taken back to Shawinigan-Sud (admitted);
+o) The Appellant claims to have worked 50 hours a week for three weeks preparing the snack bar; she was alone and her hours of work were not accounted for (admitted);
+p) During the period at issue, the Appellant received $500 a week, plus 4% vacation pay from the Payer, who had stopped running the snack bar on July 8 when the snack bar was running a deficit (admitted);
+q) An excessive number of hours was claimed given the work done (denied).
+[5] It should be noted that all the Minister's presumptions were admitted, except (b) and (q).
+[6] The evidence showed that the Appellant, Andrée Bellerive, worked as a manager in the snack bar owned by Mr. Daniel Filion, the Payer. The snack bar closed on July 8, 2000. However, the Payer hired the Appellant from September 18 to October 6, 2000, to clean the snack bar in preparation for its eventual sale.
+[7] The Appellant and Payer lived at the same residential address. The Payer, Daniel Filion, provided P.O. Box 55, Radisson, as his address, while the Appellant provided 80 Iberville, Radisson. The Minister took note of this specific detail, but in this Court's opinion, this fact was not in and of itself very important.
+[8] The Appellant strenuously denied that she was the spouse of Mr. Filion, the Payer. At the hearing, four witnesses testified for the Appellant in connection with the Minister's allegation in paragraph 5(b) of the response to the notice of appeal. For her part, the Appellant testified that she has never been the Payer's spouse. She stated that the Payer had his room, and she had hers. She also stated that she is homosexual, has her own medical insurance policy, and paid for her own food. She said that she was not involved in any of the Payer's activities, and they never travelled together. She denied that she had gone to Florida with the Payer, but said that he went alone.
+[9] The Payer, Daniel Filion, testified that he and the Appellant were not spouses. He stated that he was aware that the Appellant is homosexual. He said that he went about his business, and she went about hers.
+[10] The Court heard, during testimony from Cathy Roberge, a bar maid and former hair stylist, that the Appellant had told her she was homosexual and was not the Payer's spouse.
+[11] Réal Lafrenière, a friend of the Payer's, testified that he knew Mr. Filion very well and that he was in fact not the Appellant's spouse. He stated that they did not go out together and that Mr. Filion always visited him alone, without the Appellant. He added that the Appellant went out with her female friends.
+[12] However, the Minister's counsel stated that based on the report on an appeal (Exhibit I-7), two of the Payer's former employees, Nancy Bluteau and Stéphanie Fortin, both testified that the Appellant and Payer were spouses and lived at the same address. Ms Bluteau added that they went south together every year.
+[13] Still based on the foregoing report on an appeal, Ms Céline Leclerc, an employee of the municipality of Radisson, stated that the Appellant and the Payer acted like and appeared to be spouses.
+[14] The evidence provided by the Appellant, particularly that provided by the Appellant herself and the Payer, is direct evidence and the Appellant's counsel is right in pointing out that its probative value exceeds that provided by the Minister.
+[15] Given the evidence provided in this regard, this Court must conclude that, based on the evidence, the Appellant and the Payer are not spouses, and are therefore not related within the meaning of the Income Tax Act.
+[16] However, this Court also concludes that even if they had been related, the Minister's review of the circumstances provided for in paragraph 5(3)(b) of the Act, specifically, the remuneration the Appellant was paid, the terms and conditions of employment, and the duration, nature and significance of the work performed, should have led the Minister to conclude that unrelated parties could have signed a contract of employment with similar conditions.
+[17] The Appellant was paid $10 an hour for 50 hours of work a week. She received the same salary as she was receiving before in her capacity as snack bar manager. The snack bar closed in July 2000. The Payer had received a verbal purchase offer from Aboriginals and business was dropping off, in a deficit, according to the Minister. Human Resources Development Canada (HRDC) deemed that the Appellant had held insurable employment until July 8, 2000, but, because her duties were different during the period at issue, HRDC deemed her employment not to be insurable employment. Her duties had changed because the Payer's needs had changed: the snack bar needed to be cleaned to make it acceptable to the new owner. The Appellant's salary for this new work, in her new capacity, was the same as she received before, that is, $10 an hour. She also continued to work 50 hours a week as she had when she was the snack bar manager.
+[18] In January 1998, the Appellant guaranteed a loan for the Payer. The Appellant said she had signed on the condition that the loan be insured. The Minister's decision was based in part on this fact. However, in Nicole Guindon-Lalonde v. Canada (Minister of National Revenue - M.N.R.) [1995] F.C.A. No 1348, the Federal Court of Appeal did not accept this argument and overturned the decision of Justice Tremblay of this Court, [1995] T.C.J. No 72, based in part on this fact, in determining that: "It would be difficult to conclude that this was a normal situation for an employee. What was involved was rather an interest in an adventure in the nature of trade." The Federal Court of Appeal therefore dismissed this argument. The oral evidence provided by the Appellant showed that the Payer went to the snack bar in Radisson twice a week or a total of four or five times during the duration of the employment. The Payer said he trusted the Appellant. He had told her what to do and she knew her job. She worked 50 hours a week performing her duties.
+[19] In her report on an appeal, the Appeals officer points out that the Appellant was working for the purposes of her employment insurance benefits, not the business. She added that the Appellant had apparently gone back to the snack bar in September to clean for three weeks because she had just found out that she needed more hours to qualify for employment insurance benefits. The Appellant's evidence showed, however, that she was unaware of the contents of the HRDC letter dated September 14, 2000, in which she is informed that she needed 910 hours of insurable employment to qualify for benefits. She had only 500. It would be interesting to know what impact this information would have had on her because, based on the HRDC letter of September 14, 2000, the 150 hours she claimed would have been worthless to her.
+[20] If consideration is given to the nature and importance of the work performed, it was directly related to the employer's need to ensure that the snack bar was in acceptable condition to the buyer.
+[21] From a standpoint of the nature and importance of the work performed, the evidence showed that the duties carried out by the Appellant during the period at issue were carried out by the Payer in previous years and they took him one month to complete. Further, he had hired the Appellant for one month because he knew from experience that this was how much time was required, but the Appellant completed the duties in three weeks. The Minister maintained that without any other evidence, the remuneration and the period claimed by the Appellant to perform this work, which was directly related to the employer's need for the snack bar to be in acceptable condition to the buyer, were excessive.
+[22] In my opinion, the Appellant showed on the balance of evidence that the Minister's decision was unfounded.
+[23] Under similar conditions, during a previous period of work, the Minister deemed that the Appellant's employment was insurable employment because he met the requirements of a contract of employment. The Appellant had worked for the Payer since 1997, and worked in his snack bar as a manager. However, HRDC deemed that the Appellant's employment during the period at issue was not insurable employment on the grounds that she performed different duties. In other words, since the Payer's mission had changed, the Appellant performed the work with a view to meeting the requirements of this new mission, thereby becoming uninsurable. This conclusion, based on the reasons provided is, in my opinion, erroneous.
+[24] In my opinion, it was shown that the Appellant's employment was insurable because it met the requirements of a contract of employment.
+[25] I need not reiterate all the facts that led HRDC, in a previous request by the Appellant, to conclude that a contract of employment existed. Granted, the Minister is not bound by an HRDC decision, but in the opinion of this Court, when the facts are analyzed in light of the criteria set out in the jurisprudence, this Court must conclude that the Minister's decision was unfounded.
+[26] The Minister's decision, when examined in light of the principle set forth in the case law, specifically in Légaré v. Canada (Minister of National Revenue - M.N.R.), [1999] F.C.A. No 878, leads to the conclusion that the facts retained by the Minister were not correctly assessed, based on the context within which they occurred. Consequently, the conclusion with which the Minister was "satisfied" does not still seem reasonable. In paragraphs 3 and 4 of this decision, Federal Court of Appeal Justice Marceau ruled that:
+While the applicable principles for resolving these problems have frequently been discussed, judging by the number of disputes raised and opinions expressed, the statement of these principles has apparently not always been completely understood. For the purposes of the applications before us, we wish to restate the guidelines which can be drawn from this long line of authority, in terms which may perhaps make our findings more meaningful.
+The Act requires the Minister to make a determination based on his own conviction drawn from a review of the file. The wording used introduces a form of subjective element, and while this has been called a discretionary power of the Minister, this characterization should not obscure the fact that the exercise of this power must clearly be completely and exclusively based on an objective appreciation of known or inferred facts. And the Minister's determination is subject to review. In fact, the Act confers the power of review on the Tax Court of Canada on the basis of what is discovered in an inquiry carried out in the presence of all interested parties. The Court is not mandated to make the same kind of determination as the Minister and thus cannot purely and simply substitute its assessment for that of the Minister: that falls under the Minister's so-called discretionary power. However, the Court must verify whether the facts inferred or relied on by the Minister are real and were correctly assessed having regard to the context in which they occurred, and after doing so, it must decide whether the conclusion with which the Minister was "satisfied" still seems reasonable.
+[27] Based on Justice Marceau's instructions, after completing this analysis, it is this Court's opinion that the Minister did not correctly assess the facts retained or presumed. Consequently, the conclusion with which the Minister was "satisfied" no longer seems reasonable.
+[40] Consequently, the appeals are allowed and the Minister's decisions overturned.
+Signed at Grand-Barachois, New Brunswick, the 27th day of April, 2004.
+"S.J. Savoie"
+Savoie, D.J.
+Certified true translation
+Colette Beaulne
+CITATION:
+2004TCC279
+COURT DOCKET No:
+2001-1012(EI) and 2001-1100(EI)
+STYLE OF CAUSE:
+Andrée Bellerive and M.N.R. and
+Daniel Filion and M.N.R.
+PLACE OF HEARING:
+Trois-Rivières, Quebec
+DATE OF HEARING:
+December 1, 2003
+REASONS FOR JUDGMENT BY:
+The Honourable S.J. Savoie, Deputy Judge
+DATE OF JUDGMENT:
+April 27, 2004
+APPEARANCES:
+For the Appellants:
+Me Gilbert Nadon
+For the Respondent:
+Me Mélanie Bélec
+SOLICITOR OF RECORD:
+For the Appellants:
+Name:
+Me Gilbert Nadon
+Firm:
+Ouellet, Nadon et Associés
+Montreal, Quebec
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

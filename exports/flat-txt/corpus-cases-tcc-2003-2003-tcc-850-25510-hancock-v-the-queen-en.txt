@@ -1,0 +1,190 @@
+Title: Hancock v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/25510/index.do
+Corpus path: corpus/cases/tcc/2003/2003-tcc-850-25510-hancock-v-the-queen-en.md
+Document type: case_law
+Last modified: 2003-11-20
+
+# Hancock v. The Queen
+
+- Citation: 2003 TCC 850
+- Decision date: 2003-11-20
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2368, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Hancock v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-11-20
+Neutral citation
+2003 TCC 850
+File numbers
+2002-1770(IT)I
+Judges and Taxing Officers
+Alban Garon
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2002-1770(IT)I
+BETWEEN:
+JOSEPH HANCOCK,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on May 26, 2003 at Blanc-Sablon, Quebec.
+Before: The Honourable Alban Garon, Chief Justice
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Pierre-Paul Trottier
+____________________________________________________________________
+JUDGMENT
+The appeals from the assessments made under the Income Tax Act with respect to the 1998 and 1999 taxation years are allowed and the assessments are referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the Appellant is entitled to the deduction of the business losses in the amounts of $8,072.93 and $6,840.22 respectively.
+Signed at Ottawa, Canada, this 20th day of November 2003.
+"Alban Garon"
+Garon, C.J.
+Citation: 2003TCC850
+Date: 20031120
+Docket: 2002-1770(IT)I
+BETWEEN:
+JOSEPH HANCOCK,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+___________________________________________________________________
+REASONS FOR JUDGMENT
+GARON, C.J.
+[1] These are appeals from income tax assessments for the 1998 and 1999 taxation years. By his reassessments, the Minister of National Revenue disallowed losses claimed by the Appellant to be business losses amounting to $8,072.93 and $6,840.22 for the years 1998 and 1999 respectively.
+[2] In reassessing the Appellant for the 1998 and 1999 taxation years, the Minister of National Revenue assumed the facts set out in paragraph 10 of the Reply to the Notice of Appeal, which reads:
+10. In so reassessing the Appellant for the 1998 and 1999 taxation years, the Minister relied on the following assumptions of fact:
+(a) those admitted to and stated above;
+(b) the Appellant allegedly started Ptarmigan Adventures in May of 1995, in order to offer snowmobile tours, (the "Activity") during the time period of December 25th to April 30th each year;
+(c) the alleged Activity was to provide guided tours of the Labrador coast by snowmobile, and was to include the use of cabins owned by the Appellant;
+(d) the Activity has generated no sales or revenues of any kind since its alleged start-up in 1995;
+(e) the Appellant has not provided any tours since 1995;
+(f) the activity has reported losses since 1995 detailed as follows:
+Sales Loss
+1995 Nil ($12,350)
+1996 Nil (5,481)
+1997 Not reported Not reported
+1998 Nil (8,072)
+1999 Nil (6,840)
+(g) the Appellant claimed the losses as outlined above on his tax returns for those years;
+(h) the Appellant owned one snowmobile prior to 1995;
+(i) the Appellant owned 3 cabins for at least 10 years prior to 1995;
+(j) the cabins were approximately 80 km from the Appellant's residence;
+(k) the cabins remained vacant and unused for at least the last 10 years prior to 1995;
+(l) the Appellant began claiming expenses including CCA in relation to his cabins and snowmobile in 1995;
+(m) the Appellant recorded the cabins on a CCA schedule at an amount of $17,200;
+(n) the Appellant has claimed CCA on the cabins, and as at December 31, 1999 the Undepreciated Capital Cost of the cabins had been reduced to $12,845.77;
+(o) the Appellant did not earn any revenue from the cabins at any time since 1995;
+(p) the Appellant made no effort to earn any revenue from the cabins;
+(q) the Appellant drove a snowmobile for approximately 25 years, including the years at issue, for personal use;
+(r) the use of the snowmobile earned no revenue since 1995;
+(s) there was sufficient snowfall during the years at issue for driving a snowmobile;
+(t) at all relevant times the Appellant operated an ambulance business and was on call 75% of the time;
+(u) during the times the Appellant worked at his ambulance business, he was unavailable to work in the activity;
+(v) the Appellant did not maintain sufficient books and records to calculate his income tax liability;
+(w) the activity was not run in a business like manner;
+(x) the activity was a personal endeavor of the Appellant and not carried out in the pursuit of profit;
+(y) the expenses claimed by the Appellant were not incurred for the purpose of earning income from a business or property; and
+(z) the Appellant did not have a reasonable expectation of profit during the relevant taxation years.
+[3] The Appellant and Mr. Dalton Earle, a friend of the Appellant, were the only witnesses at the hearing of these appeals.
+[4] The Appellant admitted subparagraphs (b), (c), (d), (e), (g), (i), (l), (m), (n), (o), (q) and (r) of paragraph 10 of the Reply to the Notice of Appeal and denied all the other subparagraphs of paragraph 10 with the exception of subparagraph (a), to which the Appellant did not address himself specifically. The latter allegation refers to other paragraphs of the Reply to the Notice of Appeal.
+[5] The Appellant is a self-employed paramedic.
+[6] In addition to the facts set out in the Reply to the Notice of Appeal that were admitted by the Appellant, some other evidence is worth noting.
+[7] At the beginning of his examination in chief, the Appellant filed with the Court a prepared statement which reads, in part, as follows: (Exhibit A-1, paragraphs 3, 4, 5 and 6)
+Your Honour, I believe that the evidence will show beyond the reasonable doubt that every effort was made to make Ptarmigan Adventures a successful and profitable business venture, but the business failed due to circumstances beyond my control.
+Your Honour, back in 1995 I set out on a venture to start a snowmobile touring business. The objective was to attract snowmobile enthusiast to ride the untouched last frontier of Canada - The heart of Labrador. The idea was to carry 4-6 clients at a time to enjoy the great snowmobile adventures, wildlife and scenic photography. For the avid hunters we offered guided hunting trips for caribou and Ptarmigan.
+Then the most unusual thing happened for the next three years we had very little snow, mild weather, and extensive periods of rain. Just when I started to get correspondence by phone and mail, I had to keep postponing bookings because the weather and snow conditions weren't suitable to entertain clients for snowmobile touring. This continued for the next three years with dwindling interest with each passing year.
+I believe that the evidence will show that I worked very hard to make this business a profitable one, and that I had every expectation of profit. I was only willing to invest in advertising, your honour, what was within my means at the time. I spent moderately in advertising, your honour, because I didn't want to bankrupt myself in the process. Now in some peoples view that might make me a poor businessman, but it doesn't make me guilty of tax evasion.
+[8] The Appellant testified that back in 1995, he embarked on a venture, which he called "a snowmobile touring business." He wanted to attract snowmobile enthusiasts to the untouched last frontier of Canada in the heart of Labrador. He mentioned that he planned "to carry four or six clients at a time to enjoy great snowmobile adventures, wild life and scene photography." Ice fishing and shooting ptarmigans, a game bird, were also contemplated activities. For the avid hunter, he "offered guided hunting trips in Ptarmigan." These tours were to include the use of cabins owned by the Appellant.
+[9] Prior to starting the business, he had prepared a business plan that he had submitted to the Atlantic Canada Opportunities Agency ("ACOA"), a federal government organization, in order to get a loan. His application for a loan, the date of which was not mentioned, was rejected but he was given a loan by ACOA for "advertising back in 1995."
+[10] The Appellant testified that he owned two snowmobiles until sometime around 1997 and that only one of the two was used for personal purposes. He indicated that the three cabins were located at different places, the distances from his residence being 238 kilometres, 138 kilometres and 78 kilometres
+respectively. Two cabins were owned by the Appellant for about 10 years. The Eagle River cabin was built in 1997. Prior to 1995, two cabins were used for personal purposes.
+[11] With respect to advertising, the Appellant claimed that he did a lot of advertising. He attended a snowmobile trade show in Syracuse, New York, in 1995. He had to drive there because he had to bring large posters or signs, some mounted birds and a lot of photos. Flying would not have been practical. To go to Syracuse for the trade show was a hassle for him. Approximately 6,000 brochures entitled Ptarmigan Adventures in Labrador were published. These were distributed at different places of interest across Canada including airports. It cost him $13,000 to $15,000, including lodging expenses, just to do the trade show. The expenses connected with it are detailed in Exhibit A-2. As well, he advertised worldwide through the Internet, Travel Guide magazines and Newfoundland Sports during the relevant period. In this respect, he referred to three countries in particular, U.S., Germany and Switzerland. The advertising expenses amounted to $1,200 to $1,500. He attended a tourism seminar in Cornerbrook. He also added "... I did get a lot of information from the Newfoundland tours and part of government. I got, under Frank Phillips who was Outdoors Product Development specialist, and he gave me direction to go to the different outfitters that would give me sound advice as how to proceed with the venture and the project."
+[12] Commenting on the weather conditions that prevailed at the relevant times, the Appellant said this:
+[...]
+... in 1996, we had a series of rare weather, mild weather conditions and that sort of thing but then in the interim period, the three years that was when the weather wasn't suitable in that interim period was when I was giving the itinerary, the cabins ready, renovations.
+[Transcript at page 22, line 24 to page 23, line 3].
+[....]
+A. Your Honour, the 1995 was a year that we had a lot of snow and usually, Labrador winters can be something you can depend on for snow. I mean, Labrador's synonymous was snow. And for some unknown reason, the weather conditions in '96, '97 and '98 were such that a lot of rain, mild periods, periods when it would cold off and be okay and then, the next week it was rain and snow again. The weather conditions was totally unsettled.
+[Transcript at page 48, line 24 to page 49, line 6].
+[13] The Appellant described the work that he carried out respecting the cabins and the trails in order to make the venture profitable in the following terms:
+[...]
+Up to this point, the cabins were basically just tilted and stuff, and so I done a lot of renovations, I spent a lot of money during those three years getting the itinerary ready for snowmobile tours.
+And I cut a lot of trails at the time to make the scenery more accessible and to make it a lost easier to - because this, Your Honour, was an area where there's a lot of wilderness and you wouldn't see a lot of people, probably one or two besides ourselves that was in this area because it's a wilderness area, if you can understand the concept of what a wilderness area is like, and there's a lot of scenic areas in that area, so we cut trails to make the areas more accessible to clients.
+[Transcript at page 23, lines 3 to 16].
+[14] With regard to his availability to run this venture, the Appellant stated that while it is true that he was on call 75% of the time for the purposes of the ambulance business in which he was engaged, he had trained four to five persons to operate the ambulance and in this respect he said this: "I'm perfectly capable of paying employees to run that for me or to work for me."
+[15] During the period in issue, in 1998 and 1999 as well as during the years 1996 and 1997, there was not a single guided tour. He explained why no tours were booked in these terms:
+Then, the most unusual thing happened for the next three years, we had very little snow and mild weather conditions and extensive periods of rain. Just when I started to get correspondence by phone and mail, I had to keep postponing booking because the weather and snow conditions weren't suitable to entertain the clients for snowmobile touring.
+[Transcript at page 13, line 21 to page 14, line 2].
+He also said this:
+Q. And when you're talking about the weather conditions, you're talking about the weather conditions in those two years, 1998 and 1999?
+A. No, Your Honour, it's '96, '97 and '98. '99 was a good year but by the time '99 rolled around, the interest that I had accumulated from the trade show and the circulation of brochures and that sort of thing kind of dwindled the interest and kind of people lost interest.
+I had phone calls from and a fax in different contexts with different clients that would have made the trip and would have done the tours during the first three years, but by the time '99 rolled around it was like, there was dwindling interest and I didn't have a lot of money to put into it, and it was risky for me to lose any other money and to make the venture get off the ground.
+[Transcript at page 23, line 21 to page 24, line 13].
+[16] The Appellant asserted that he invested about $30,000 to $35,000 from 1995 to 1999. In 1999, he closed out the business when he "was hit with income tax for $4,000 to $5,000 and something that I couldn't afford. That extra money I would have probably used for advertising." Throughout his testimony, the Appellant stressed the point that given the right circumstances, the business could have been profitable.
+Analysis
+[17] The Appellant's main contention is formulated in the second paragraph of the Notice of Appeal in this way: "I tried very hard to make Ptarmigan Adventures a profitable business venture however due to circumstances beyond my control I lost a lot of my own hard earned money."
+[18] As appears from paragraph 13 of the Reply to the Notice of Appeal, the Respondent's main submission is that "the activity was a personal endeavor of the Appellant, and did not constitute a source of income in accordance with section 9 of the Act."
+[19] The question in issue is whether or not the Appellant was engaged in a business in respect of his activity referred to as Ptarmigan Adventures. The decision of the Supreme Court in the case of Stewart v. Canada, [2002] S.C.J. No. 46, at paragraph 50, set out the following test in broad terms:
+(i) Is the activity of the taxpayer undertaken in pursuit of profit, or is it a personal endeavour?
+[20] I must first determine if the activity of the taxpayer was undertaken in pursuit of a profit or whether it was rather a personal endeavor.
+[21] In the present case, there is no question that his activity had personal elements. Prior to the years in issue, more specifically in 1995, 1996 and 1997 the Appellant rode a snowmobile in the area in question and used his cabins between one to five times a year. Friends and a member of his family helped him renovate the cabins before 1995. The Appellant was candid enough to admit that one of the reasons he started his business was because he loved to ride his snowmobile in the country and in the wilderness.
+[22] There are aspects of his venture that had a business component. The Appellant invested $30,000 to $35,000 of his own money. He made some renovations to his cabins after he started this activity. He went to a trade show in Syracuse in the State of New York, in 1995. Before that time, he had never gone to a trade show. For the trade show, the Appellant had brought approximately 6,000 brochures. He advertised through the Internet, travel guides and
+Newfoundland Sports. He bought sleeping bags, winter clothes and generators for the cabins. The Appellant sought the advice of an outdoor specialist by the name of Frank Phillips.
+[23] Also, the Appellant prepared a business plan and submitted it to the ACOA. The latter agency granted him a loan for advertising purposes. Moreover, in 1995 the Appellant prepared projected statements of profit and loss for three years. These undated statements were done by a firm Labrador Enterprises in association with a local Southern Labrador Development Association.
+[24] In the Stewart case referred to earlier, the Supreme Court indicated at paragraph 60 thereof that where the activity could be classified as a personal pursuit it must be determined whether or not the activity is being carried on in a sufficiently commercial manner to constitute a source of income. In another passage, at paragraph 54, the Court stated that the taxpayer is required in such cases to establish that his or her predominant intention is to make a profit from the activity and that the activity has been carried out in accordance with objective standards of businesslike behaviour. The Court referred to the four factors set out in the case of Moldowan v. The Queen, [1978] 1 S.C.R. 480 at page 486, for the purpose of determining if a taxpayer had a reasonable expectation of profit from a particular activity. The Court made clear that the list of criteria was not exhaustive. These criteria are the following:
+The profit and loss experience of past years;
+the taxpayer's training;
+the taxpayer's intended course of action;
+the capability of the venture to show a profit.
+[25] With respect to the first factor, the Appellant experienced significant losses during the two years in issue and the three immediately preceding years, the years 1995, 1996, 1997.[1] The first three years were mainly devoted to setting up the infrastructure for the operation of this activity. The activity has never earned a profit over the years of its operation. The start-up period does not appear to be unduly long.
+[26] With respect to the taxpayer's training, the Appellant was already operating a business in an unrelated field, to wit the ambulance business, but he was not familiar with what was required to operate the new venture successfully although he possessed some substantial knowledge about some aspects relating to the operation of this activity. He definitely took a number of positive steps to familiarize himself with this type of venture.
+[27] As far as the taxpayer's intended course of action, I am inclined to the view that the Appellant clearly demonstrated that he intended to carry on this activity with a view to profit in taking the following steps: a) incurring substantial expenditures in respect of the publication of 6,000 brochures, advertisement, cutting trails, (which operation involved the cutting of trees and stumps), getting the itinerary ready for tourists, and doing renovation work to the cabins; b) seeking advice from certain government officials and attending a tourism seminar; and c) securing a loan from ACOA.
+[28] With respect to the capability of the venture to show a profit, the Appellant was able to persuade ACOA to make him a loan on one occasion. On an objective basis, it is difficult to arrive at a negative conclusion regarding this factor, bearing in mind that in the relevant years the weather conditions were clearly exceptional, an assertion that was not disputed by the Respondent at the hearing of these appeals and was corroborated by a witness, Mr. Dalton Earle.
+[29] Considering all facts, I am inclined to the view that the operation was sufficiently commercial. The Appellant had in the relevant years a reasonable expectation of profit from this activity and the activity was carried out in accordance with objective standards of businesslike behaviour.
+[30] For these reasons, I would allow the appeals from the assessments for the 1998 and 1999 taxation years and refer the matter back to the Minister of National Revenue for re-examination and reassessment on the basis that the Appellant is entitled to the deduction of the subject losses in respect of the two years.
+Signed at Ottawa, Canada, this 20th day of November 2003.
+"Alban Garon"
+Garon, C.J.
+CITATION:
+2003TCC850
+COURT FILE NO.:
+2002-1770(IT)I
+STYLE OF CAUSE:
+Joseph Hancock
+and Her Majesty The Queen
+PLACE OF HEARING:
+Blanc-Sablon, Quebec
+DATE OF HEARING:
+May 26, 2003
+REASONS FOR JUDGMENT BY:
+The Honourable Alban Garon
+Chief Justice
+DATE OF JUDGMENT:
+November 20, 2003
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Pierre-Paul Trottier
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] The Appellant testified, despite the Minister's assumption in subparagraph 10(f) of the Reply to the Notice of Appeal, that there were losses in 1997 that were reported.

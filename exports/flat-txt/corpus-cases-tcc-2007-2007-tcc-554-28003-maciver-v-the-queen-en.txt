@@ -1,0 +1,184 @@
+Title: MacIver v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28003/index.do
+Corpus path: corpus/cases/tcc/2007/2007-tcc-554-28003-maciver-v-the-queen-en.md
+Document type: case_law
+Last modified: 2007-09-25
+
+# MacIver v. The Queen
+
+- Citation: 2007 TCC 554
+- Decision date: 2007-09-25
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1785, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+MacIver v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-09-25
+Neutral citation
+2007 TCC 554
+File numbers
+2003-3065(IT)G
+Judges and Taxing Officers
+Diane Campbell
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2003-3065(IT)G
+BETWEEN:
+DONALD NEIL MACIVER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Motion heard on May 9, 2007 at Winnipeg, Manitoba
+Before: The Honourable Justice Diane Campbell
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Jeff Pniowsky
+____________________________________________________________________
+JUDGMENT
+UPON motion made by Counsel for the Respondent to have this appeal dismissed pursuant to Rules 85, 91 and 110 of the Tax Court of Canada Rules (General Procedures);
+AND UPON reviewing the documentation filed;
+AND UPON hearing submissions by the parties;
+IT IS ORDERED that the Respondent’s motion to dismiss the appeal is granted with costs in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 25th day of September 2007.
+"Diane Campbell"
+Campbell J.
+Citation: 2007TCC554
+Date: 20070925
+Docket: 2003-3065(IT)G
+BETWEEN:
+DONALD NEIL MACIVER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Campbell J.
+[1] The Respondent brought a motion to have this appeal dismissed pursuant to Rules 85, 91 and 110 of the Tax Court of Canada Rules (General Procedure). The motion was based on the following:
+(1) the Appellant refused to answer proper questions in the examination for discovery;
+(2) the Appellant refused to give undertakings;
+(3) the Appellant refused to bring his documents to the examination for discovery;
+(4) the Appellant refused to identify the Respondent’s copies of non‑contentious documents.
+(5) the Appellant gave inappropriate, evasive and abusive responses and made scandalous statements impugning the integrity of various individuals;
+(6) the Appellant reasserted the truth of perjurous statements and the contents of perjurous affidavits;
+(7) the Appellant made false or misleading statements before a Justice of this Court.
+[2] The appeal concerns an assessment that was made after the Appellant was convicted of tax evasion, including several counts of perjury. He was also charged with two counts of obstruction of justice in reference to a related lawsuit, referred to as the CASIL lawsuit, in which he provided false testimony before the Manitoba Superior Court by swearing false affidavits, giving false testimony on examination under oath and writing an intentionally misleading letter to a judge of that court.
+[3] The Appellant is 75 years old and is an experienced lawyer who has practiced law for decades. The Respondent alleges that the Appellant’s actions in this appeal mirror his patterns of contempt committed in other prior proceedings. According to the Respondent, the Appellant’s actions have not only frustrated the discovery process but have impugned upon the integrity of this Court’s processes and procedures.
+[4] In General Motors of Canada Ltd. v. The Queen, [2006] T.C.J. No. 116, I reviewed the primary aims of discovery proceedings at paragraph 7:
+[7] The three principle objectives of discovery proceedings were stated in Modriski v. Arnold, [1947] 3 D.L.R. 321 (Ont. C.A.) as follows:
+1. To enable the examining party to know the case he has to meet;
+2. To enable him to procure admissions which will dispense with other formal proof of his own case; or
+3. To procure admissions which will destroy his opponent's case.
+More recently, some decisions have added a fourth objective: (Violette v. Wandlyn Inns Ltd., [1995] N.B.J. No. 574:
+4. To facilitate settlement.
+[5] The Federal Court of Appeal recognized the critical importance of discovery proceedings in an oft-cited passage from paragraph 13 of Yacyshyn v. The Queen, [1999] F.C.J. No. 196:
+[13] Indeed, the days of trial by ambush or surprise are fortunately gone and a party to proceedings is subject to disclosure of its case and, in return, entitled to discovery of the other party's case. This sound rule of practice and procedure aims at ensuring both the fairness and the expeditiousness of the proceedings.
+[6] The Rules clearly specify the protections afforded to the discovery process in Tax Court proceedings. The Respondent alleges that the Appellant breached Rule 85(3)(a) by failing to bring his documents to the discovery and breached Rule 110 by refusing to answer proper questions and by giving responses that were inappropriate, scandalous or abusive.
+[7] Although the Respondent did not reference Rule 95(1) in his motion to dismiss, it does offer some assistance when considering the issue of “proper questions”, in relation to Rule 110. Rules 85 and 91 work together in that Rule 85 describes the nature of the parties’ obligations related to documents while Rule 91 describes the potential consequences of a breach of those obligations. Likewise, Rules 95(1) and 110 work together, in that Rule 95(1) describes the parties’ obligations related to answering “proper questions” while Rule 110 describes the potential consequences of a breach of those obligations.
+[8] The four relevant Rules for the purposes of this motion state:
+85. (1) A party who has delivered a list of documents to any other party shall allow the other party to inspect and copy the documents listed, except those which he objects to produce, and when he delivers the list he shall also deliver a notice stating a place where the documents may be inspected and copied during normal business hours.
+(2) Where a party is entitled to inspect the documents to which reference is made in the list of documents, the other party shall, on request and on payment in advance of the cost of reproduction and delivery, deliver copies of any of the documents.
+(3) All documents listed in a party's list of documents under section 81 or under section 82 and that are not privileged, and all documents previously produced for inspection by the party shall, without notice, subpoena or direction, be taken to and produced at,
+(a) the examination for discovery of the party or a person on behalf of, in place of, or in addition to the party, and
+(b) the hearing of the appeal,
+unless the parties otherwise agree.
+91. Where a person or party who is required to make discovery of documents under sections 78 to 91 fails or refuses without reasonable excuse to make a list or affidavit of documents or to disclose a document in a list or affidavit of documents or to produce a document for inspection and copying, or to comply with a judgment of the Court in relation to the production or inspection of documents, the Court may,
+(a) direct or permit the person or party to make a list or affidavit of documents, or a further list or affidavit of documents,
+(b) direct the person or party to produce a document for inspection and copying,
+(c) except where the failure or refusal is by a person who is not a party, dismiss the appeal or allow the appeal as the case may be,
+(d) direct any party or any other person to pay personally and forthwith the costs of the motion, any costs thrown away and the costs of any continuation of the discovery necessitated by the failure to disclose or produce, and
+(e) give such other direction as is just.
+95. (1) A person examined for discovery shall answer, to the best of that person's knowledge, information and belief, any proper question relating to any matter in issue in the proceeding or to any matter made discoverable by subsection (3) and no question may be objected to on the ground that,
+(a) the information sought is evidence or hearsay,
+(b) the question constitutes cross-examination, unless the question is directed solely to the credibility of the witness, or
+(c) the question constitutes cross-examination on the affidavit of documents of the party being examined.
+110. Where a person fails to attend at the time and place fixed for an examination in the notice to attend or subpoena, or at the time and place agreed on by the parties, or refuses to take an oath or make an affirmation, to answer any proper question, to produce a document or thing that that person is required to produce or to comply with a direction under section 108, the Court may,
+(a) where an objection to a question is held to be improper, direct or permit the person being examined to reattend at that person's own expense and answer the question, in which case the person shall also answer any proper questions arising from the answer,
+(b) where the person is a party or, on an examination for discovery, a person examined on behalf of or in place of a party, dismiss the appeal or allow the appeal as the case may be,
+(c) strike out all or part of the person's evidence, including any affidavit made by the person, and
+(d) direct any party or any other person to pay personally and forthwith costs of the motion, any costs thrown away and the costs of any continuation of the examination.
+[9] The majority of cases heard pursuant to Rule 91 deal with an Appellant’s failure to disclose documents or to provide a list of documents to the other party. This motion however concerns the Appellant’s failure to bring his documents to the examination, after he had already disclosed all of his documents to the Respondent. Generally, this Court leans toward first ordering an appellant to produce the withheld documents or restricting an appellant’s right to adduce evidence, rather than dismissing an appeal. It will impose the strongest sanction of dismissing an appeal only where there are repeated breaches, or where the refusal respecting documents is in combination with breaches of other Rules, or where there is an apparent intent to delay and abuse the process (Rusnak v. The Queen, [2000] T.C.J. No. 247, and Lichman v. The Queen, [2004] T.C.J. No. 166).
+[10] The Federal Court of Appeal recognized the Court’s ability to protect its processes in Yacyshyn at paragraphs 12 and 18:
+[12] …the Tax Court has the inherent jurisdiction to prevent an abuse of its process.
+…
+[18] It is trite law that an abuse of process can, in appropriate circumstances, lead to the dismissal or the stay of proceedings.
+[11] It is clear that this Court has the discretion to choose the appropriate consequence for the breach. However, when the ultimate and most drastic sanction of dismissal is imposed, that discretion must be exercised reasonably, by giving sufficient weight to all the relevant circumstances involved in the appeal. It would not be reasonable to dismiss the Appellant’s appeal solely on the basis that he did not bring his documents with him to the examination for discovery. He had, in fact, fully disclosed all of his documents and accordingly the Respondent’s disclosure rights were not compromised. Further, it was the Appellant’s argument that he believed the Respondent’s correspondence to him concerning this examination contained an agreement by the Respondent waiving the document production requirement. In fact Rule 85 allows that the parties may "otherwise agree". The Appellant also argued that his copies of the documents were too numerous for him to easily transport to the examination. From a review of this correspondence, it is arguable that the Appellant may have interpreted the wording to mean he did not have to show up at the examination with his documents. However, he was requested by the Respondent on successive days of the examination to bring those documents. If I give him the benefit of the doubt on his interpretation of the Respondent’s correspondence, he provided no reasonable explanation as to why he did not cooperate with the Respondent’s continuing requests after the examination began. He also refused to admit to or answer questions relating to the copies of the documents he provided to the Respondent and included in his own List of Documents. In fact he refers to some documents, upon which he relies to make his claim, as mere “pieces of paper”. However, if the motion had been based on this ground alone, I would never apply the ultimate sanction of dismissal but when I look to the other grounds in this motion and review the various documentation filed and the submissions of the parties, I believe that it is reasonable in these circumstances to dismiss the appeal. I do not believe this is a case where the Appellant should have a “last chance” to comply with the rules and processes of this Court, nor do I believe that if I were to order strict and clear instructions to the Appellant with tight deadlines that it would force this Appellant to comply. In fact, all that an order of that nature would accomplish is to force the Respondent to file another similar motion in the future because I am convinced that this Appellant will continue with a blatant and flagrant contempt for court orders as well as a calculated repeat of the obstructive conduct exhibited to date in these proceedings. An admonishment by myself and an order that he complies, would be meaningless here. Even if the Appellant were not an experienced lawyer, I believe I would have reached the same conclusion. The fact that he is a lawyer, who knows full well the consequences of repeated breaches of the rules, simply reinforces my decision to impose the harshest of sanctions.
+[12] There are numerous aggravating factors upon which I have relied in reaching this decision. My conclusions are based upon the submissions of the parties, the documentation and in particular the following:
+(1) Appendix “A” to the Respondent’s submissions which reference the Appellant’s refusals to provide answers or where he gives inappropriate or scandalous responses;
+(2) Appendix “B” to the Respondent’s submissions which references false statements made before this Court;
+(3) Appendix “C” to the Respondent’s submissions which references the Appellant’s declarations of truth of his perjurous affidavits.
+[13] Rule 95(1) states that the individual being examined must answer “any proper question relating to any matter in issue in the proceeding”. In Baxter v. The Queen, 2004 TCC 636, at paragraph 10, the Court stated that “relevancy is defined by the pleadings” and, at paragraph 12, that “The threshold level of relevancy is quite low” in respect to discoveries. Courts have consistently applied the principles articulated in the case of Baxter and have deemed questions to be proper where there was some connection to the matter in issue. Where a party refuses to answer such questions, they are in breach of Rule 95(1). As with breaches relating to document production, this Court favours first ordering the Appellant to re-attend the examination to answer the questions or restricting the Appellant’s right to produce evidence rather than dismissing the appeal.
+[14] The Respondent argues that this Appellant is even more deserving of a harsh sanction because he is “an experienced practicing lawyer, and his conduct was not born out of misplaced ignorance, but out of knowing contempt;” [Respondent’s Written Submissions, paragraph 57(a)]. He argued that refusing to answer any questions related to his criminal conviction, reasserting the truth of proven perjurous statements and misleading a Justice of this Court were all part of the Appellant’s “deliberate pattern to thwart the legitimate discovery processes of this Court, and part of a wider pattern of contempt for the administration of justice” [Respondents Written Submissions, paragraph 56]. He submits that ordering the Appellant to re-attend an examination would not change this behaviour but would merely delay the matter until another judge faces the same circumstances at some future date.
+[15] The Appellant’s response is that:
+It is unfortunate that the Crown has not provided the Court with full transcripts and copies of the documents relied on in the Motion. This could have prevented taking statements from the Examination for Discovery and other documents out of context.
+[Appellant’s Submissions, page 1]
+[16] The Appellant also states that:
+The Crown consistently asked irrelevant questions and repeatedly asked questions which were intended solely to bring into issue my credibility. As I read rule 95(1)(b), these questions were improper.
+[Appellant’s Submissions, page 4]
+[17] After prolonged argument by both parties on the lack of proper, or any, notice by the Appellant for his read-ins, I obtained a copy of the full transcript and permitted the Appellant to proceed despite argument by the Respondent that the Appellant was continuing his abusive pattern of breaching the rule that required notice of read-ins in a motion that deals with abuse of the rules. In the end, much of the material, which the Appellant referenced, dealt with the substantive issues rather than the points which the Respondent raised in this motion.
+[18] In response to many of the questions asked in the examination for discovery, the Appellant simply stated “my assertions stand and cannot be questioned”. Although he attempted to explain this away in his submissions, the response was clearly intended to avoid responding to what I consider pertinent and relevant questions. The questions were not being asked solely to attack the Appellant’s credibility. They were all clearly relevant to the matters in issue, regardless of whether they are read in isolation or in the context of the entire examination for discovery. The Appellant declared entire subject areas irrelevant simply because he believed that his position was beyond scrutiny. The documents were replete with numerous refusals by the Appellant to answer direct references to the pleadings, including inappropriate responses such as “you’re asking silly questions again” (p. 186, Tab 11 of Appendix “A”). In a previous application, the Appellant attempted unsuccessfully to have portions of the Reply to the Notice of Appeal struck. The assumptions in the Reply are therefore validly before this Court. However, the Appellant continued to declare many of them invalid and refused to answer proper questions put to him in this regard. Many of his refusals were based on incredulous assertions for which he could not, or would not, provide any plausible explanation. For example, after positively declaring that banking documents in the Appellant’s name were not authentic, his responses were as follows:
+1377 Q. What’s the basis of you disputing their authenticity?
+A. It’s because I don’t believe they’re authentic.
+1378 Q. Aside from your belief, is there any experience, any facts to back up that belief, sir?
+A. I object to that question and I’m not going to answer that.
+1379 Q. So you are refusing to provide the basis of your belief as to why these documents are inauthentic?
+A. I don’t have to.
+(p. 303, Tab 29 of Appendix “A”)
+[19] In addition, after positively asserting that a Swiss bank account may have forwarded funds to pay the Appellant’s credit card without his knowledge, the Appellant’s response followed the same pattern:
+1710 Q. Well, the reason I’m asking that, sir, is that seems to be quite a spectacular allegation, that a bank would, without instructions from you, transfer specific sums to your credit cards.
+A. I don’t know anything about Swiss banking any more than you do.
+1711 Q. Okay, do you have any specific facts that give you reason to believe that the Swiss banks did that?
+…
+1716 Q. Do you have any facts to support that suggestion?
+A. I haven’t stopped beating my wife because I never started beating her.
+(p. 378 and p. 379, Tab 42 of Appendix “A”)
+[20] These are just two examples of the Appellant’s deliberate obstructive behaviour. Such responses are simply attempts to wilfully evade answering proper questions that I consider well above the threshold level referred to in Baxter.
+[21] It is also evident from the Appellant’s responses that he refused to provide undertakings or to make enquiries into matters relating to his own affairs. In his submissions he stated that he understood the usual practice on examinations was to take an undertaking under advisement and to report back at a future date. However, his actual responses do not support this spin which he attempted to place on the matter of undertakings. In addition, the Appellant in a case management conference specifically denied his refusal to provide undertakings at the examination just a few days earlier. His confirmation to a Justice of this Court that he provided undertakings was the direct opposite of what actually occurred just a few days earlier at the examination.
+[22] The Appellant actually asserted at this case management conference that he had provided two undertakings and specifically referenced the Berger Report as one of them. However, at the conclusion of the examination, the Appellant actually states that he did not provide any undertakings and that he reserved the right not to provide the Berger Report because it was not subject to an undertaking. The Appellant’s statements to the case management judge just a few days after the examination are a blatant example of the Appellant’s deliberate and calculated attempt to adjust his assertions and his behaviour to suit the circumstances while disregarding and ignoring the rules and procedures of this Court. His bold assertions fly in the face of what actually occurred and resulted in misleading a Justice of this Court. He is not an inexperienced Appellant. As an experienced lawyer, he knows better than to engage in such wilful, obstructive, and dishonest behaviour meant only to hinder and impede the administration of justice.
+[23] The Appellant’s responses to appropriate questions range from uncooperative to openly antagonistic and abusive. Even when asked to review his own records, he simply states that he is not reviewing anything. (p. 394, Tab 44 of Appendix “A”). In fact some of his responses imply that he was fully aware of the prejudicial effect of refusing to answer because it would result in the Respondent being taken by surprise at trial.
+[24] The Respondent also referred me to the Appellant’s allegations of impropriety in respect to participants in related proceedings, including the Manitoba Court of Appeal, opposing counsel in the CASIL lawsuit, and Canada Revenue Agency representatives, as further examples of inappropriate, scandalous and abusive responses and behaviour.
+[25] During the examination for discovery, the Appellant relied on the same arguments which were determined to be untrue in prior proceedings. In the CASIL lawsuit the Court found that the Appellant committed perjury in several affidavits respecting his control over Swiss funds. As a result, the Appellant was incarcerated for a period of time (Tab 49 of Appendix “A”). In swearing the truth of these affidavits during the examination, he was essentially recommitting the same acts for which he was previously convicted and incarcerated. He made no attempt to qualify his statements contained in these affidavits but instead continued to assert the veracity of those statements by declaring as irrelevant the fact that he was found guilty of committing perjury in respect to these very same affidavits. (Tab 1, Appendix “C”)
+[26] In summary, this is not a case of the relevance of several questions put to an Appellant during an examination for discovery. In reviewing the transcript of the examination and other documentation, it is apparent that the Appellant made absolutely no effort to respond to proper questions put to him but instead has engaged in a deliberate pattern intended to frustrate the discovery processes of this Court. He has been intentionally uncooperative, obstructive, evasive and dishonest throughout his participation in the proceedings to date and unfortunately I do not see this behaviour changing in the future. What I find most remarkable is that he continues to ignore and deny his convictions for perjurous statements and affidavits by reasserting them. I do not intend to give him another platform to continue with such conduct. There is simply no point in providing this Appellant with another opportunity as I am convinced that he will only continue in a similar pattern of bad behaviour. In circumstances such as this, a strong message must be sent that this Court will not condone such unacceptable behaviour.
+[27] Although an order for costs may have no financial impact upon the Appellant as he has no attachable funds within Canada, the Respondent’s motion to dismiss the appeal is granted with costs.
+Signed at Ottawa, Canada, this 25th day of September 2007.
+"Diane Campbell"
+Campbell J.
+CITATION:
+2007TCC554
+COURT FILES NO.:
+2003-3065(IT)G
+STYLE OF CAUSE:
+Donald Neil MacIver and
+Her Majesty the Queen
+PLACE OF HEARING
+Winnipeg, Manitoba
+DATE OF HEARING
+May 9, 2007
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Diane Campbell
+DATE OF JUDGMENT
+September 25, 2007
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Jeff Pniowsky
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

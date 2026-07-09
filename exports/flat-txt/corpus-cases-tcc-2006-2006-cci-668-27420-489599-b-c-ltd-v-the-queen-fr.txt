@@ -1,0 +1,100 @@
+Title: 489599  B C  Ltd v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27420/index.do
+Corpus path: corpus/cases/tcc/2006/2006-cci-668-27420-489599-b-c-ltd-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2006-12-05
+
+# 489599  B C  Ltd v. The Queen
+
+- Citation: 2006 CCI 668
+- Decision date: 2006-12-05
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 242, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+489599 B C Ltd v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-12-05
+Référence neutre
+2006 CCI 668
+Numéro de dossier
+2006-1940(IT)G
+Juges et Officiers taxateurs
+David W. Beaubier
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Référence : 2006CCI668
+Date : 20061205
+Dossier : 2006-1940(IT)G
+ENTRE :
+489599 B. C. LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+________________________________________________________________
+Requête entendue le 4 décembre 2006,
+à Vancouver (Colombie‑Britannique).
+Devant : L'honorable juge D. W. Beaubier
+Comparutions :
+Avocat de l'appelante :
+Me Gordon S. Funt
+Avocate de l'intimée :
+Me Karen A. Truscott
+________________________________________________________________
+MOTIFS DE L'ORDONNANCE ET ORDONNANCE
+Le juge Beaubier
+[1] La présente requête visant l'obtention d'une date d'audience relativement à une requête fondée sur l'alinéa 58(1)a) des Règles de la Cour canadienne de l'impôt (procédure générale) a été présentée par l'avocat de l'appelante, conformément à l'énoncé du juge en chef Bowman concernant cette procédure dans l'affaire Gregory c. Sa Majesté la Reine, C.C.I., no 1999‑488(IT)G, 17 mars 2000, 2000 D.T.C. 2027, au paragraphe 12. Elle a été entendue à Vancouver (Colombie‑Britannique), le 4 décembre 2006.
+[2] La question visée par la requête proposée est la suivante :
+[TRADUCTION]
+La requérante, qui avait à son emploi au moins cinq employés à temps plein et un employé à temps partiel, ou plusieurs, tout au long des années d'imposition 2003 et 2004, employait‑elle nécessairement tout au long de ces années « plus de cinq employés à temps plein », au sens de l'alinéa c) de la définition du terme « entreprise de prestation de services personnels » au paragraphe 125(7) de la Loi de l'impôt sur le revenu (Canada)?
+[3] Le paragraphe 9 de la réponse à l'avis d'appel se lit comme suit :
+[TRADUCTION]
+9. Lorsqu'il a ainsi ratifié l'impôt dû par l'appelante pour les années d'imposition 2003 et 2004, le ministre s'est fondé sur les hypothèses de fait qui précèdent et sur les hypothèses de fait supplémentaires suivantes :
+a) l'appelante employait sept personnes dans son entreprise tout au long des années d'imposition 2003 et 2004 : cinq employés à temps plein et deux employés à temps partiel.
+[4] L'avocat de l'appelante a invoqué l'alinéa c) de la définition du terme « entreprise de prestation de services personnels » au paragraphe 125(7) de la Loi de l'impôt sur le revenu (la « Loi »), qui est déterminante à l'égard de certains éléments de la cotisation visée par l'appel. Ce paragraphe se lit comme suit :
+« entreprise de prestation de services personnels » S'agissant d'une entreprise de prestation de services personnels exploitée par une société au cours d'une année d'imposition, entreprise de fourniture de services dans les cas où :
+[…]
+c) soit que la société n'emploie dans l'entreprise tout au long de l'année plus de cinq employés à temps plein;
+[5] En se référant à une interrogation soulevée par le juge Rothstein dans l'affaire Lerric Investments Corp. c. Sa Majesté la Reine, C.A.F., no A‑514‑99, 9 février 2001, 2001 D.T.C. 5169, au paragraphe 18, selon laquelle « il suffit que l'employeur emploie plus de cinq employés à temps plein », l'appelante propose que l'expression « cinq employés à temps plein » pourrait signifier « cinq employés en tout temps ».
+[6] Cependant, au paragraphe 8(n), le ministre a formulé l'hypothèse suivante :
+[TRADUCTION]
+8. Lorsqu'il a ainsi établi une nouvelle cotisation à l'égard de l'impôt dû par l'appelante pour les années d'imposition 2003 et 2004, le ministre s'est fondé sur les hypothèses de fait suivantes :
+[…]
+(n) au cours des années d'imposition 2003 et 2004, l'appelante n'employait pas dans son entreprise tout au long de chacune de ces années plus de cinq employés à temps plein;
+[7] Ainsi, les hypothèses du ministre aux paragraphes 8(n) et 9(a) sont contradictoires si l'on accepte l'interprétation proposée par l'avocat de l'appelante.
+[8] Sur le fondement du paragraphe [7] des présents motifs, la requête visant l'obtention d'une date d'audience est rejetée, parce que les actes de procédure ne sont pas suffisamment clairs pour traiter la requête proposée sur le fondement de ces seuls actes, en application de l'article 58 des Règles. Cette question concerne le juge qui présidera l'audience.
+[9] Les dépens suivront l'issue de la cause.
+Signé à Vancouver (Colombie‑Britannique), ce 5e jour de décembre 2006.
+« D. W. Beaubier »
+Le juge Beaubier
+Traduction certifiée conforme
+ce 1er jour d'août 2007.
+Yves Bellefeuille, réviseur
+RÉFÉRENCE : 2006CCI668
+Nº DU DOSSIER DE LA COUR : 2006‑1940(IT)G
+INTITULÉ DE LA CAUSE : 489599 B. C. Ltd. c. La Reine
+LIEU DE L'AUDIENCE : Vancouver (Colombie‑Britannique)
+DATE DE L'AUDIENCE : Le 4 décembre 2006
+MOTIFS DU JUGEMENT PAR : L'honorable juge D. W. Beaubier
+DATE DU JUGEMENT : Le 5 décembre 2006
+COMPARUTIONS :
+Avocat de l'appelant :
+Me Gordon S. Funt
+Avocate de l'intimée :
+Me Karen A. Truscott
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelant :
+Nom : Me Gordon S. Funt
+Étude : Fraser Milner Casgrain
+Pour l'intimée : John H. Sims, c.r.
+Sous‑procureur général du Canada
+Ottawa, Canada

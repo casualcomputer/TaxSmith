@@ -1,0 +1,162 @@
+---
+title: "Dodds v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26390/index.do"
+last_modified: "2004-01-30"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 TCC 29"
+citation2: ""
+neutral_citation: "2004 TCC 29"
+decision_date: "2004-01-30"
+language: "en"
+item_id: "26390"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3337
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T19:51:42.189000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "65270790b4cd6b15aae08391fb6cff8e4ecc42302f772b33ed70b97b90c14d5b"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Dodds v. M.N.R.
+
+- Citation: 2004 TCC 29
+- Decision date: 2004-01-30
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3337, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Dodds v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-01-30
+Neutral citation
+2004 TCC 29
+File numbers
+2003-904(EI)
+Judges and Taxing Officers
+William E. MacLatchy
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2003-904(EI)
+BETWEEN:
+DANIEL DODDS,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+AM STONE DIRECT MARKETING INC.,
+Intervener.
+____________________________________________________________________
+Appeal heard on common evidence with the appeal of Daniel Dodds (2003‑930(CPP)) on December 8, 2003 at Toronto, Ontario
+Before: The Honourable W.E. MacLatchy, Deputy Judge
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Jocelyn Espejo Clarke
+Agent for the Intervener:
+George Stone
+____________________________________________________________________
+JUDGMENT
+The appeal is allowed and the decision of the Minister is vacated in accordance with the attached Reasons for Judgment.
+Signed at Toronto, Ontario, this 30th day of January 2004.
+"W.E. MacLatchy"
+MacLatchy, D.J.
+Citation: 2004TCC29
+Date: 20040130
+Dockets: 2003-904(EI)
+2003-930(CPP)
+BETWEEN:
+DANIEL DODDS,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+AM STONE DIRECT MARKETING INC.,
+Intervener.
+REASONS FOR JUDGMENT
+MacLatchy, D.J.
+[1] These appeals were heard on common evidence on December 8, 2003 at Toronto, Ontario in the presence of both the Appellant and the Intervener.
+[2] By Notices of Assessment dated February 8, 2002, February 11, 2002, May 9, 2002 and May 13, 2002, AM Stone Direct Marketing Inc. (the "Payor") was assessed for failure to remit employment insurance premiums and Canada Pension Plan contributions in respect of approximately 124 workers, including the Appellant (the "Workers" – See Appendix "A"), for the period from January 1, 2000 to January 31, 2002.
+[3] The Payor appealed to the Respondent for reconsideration of the assessments, and the Respondent varied the assessments by letter dated December 17, 2002. The Respondent reduced the assessments concerning Alma Stone and George Stone and confirmed the assessments regarding the other Workers.
+[4] The Appellant represented himself and gave evidence in a well‑prepared and candid manner. Obviously, he had done a great deal of research concerning the meaning of being an independent contractor or an employee. He received guidance from the brochure dealing with that subject prepared by Canadian Customs and Revenue Agency (CCRA). Having applied the tests suggested, he was of the strong belief that he had been correct when he described himself as an independent contractor in his dealings with the Payor/Intervener.
+[5] The Appellant described himself as a sales consultant engaged by the Payor to manage their sales territory and bring fresh business to the Payor using his skills in those fields. He had more than 20 years experience operating as a sales consultant and territory manager relevant to sales. He could initiate 'cold' rolls and arrange to train prospective clients in the use of web sites to track their sales. Although there never was any written agreement between he and the Payor, there was a verbal agreement that he was engaged by the Payor to sell and assist clients to use a web site as a business adjacent. He was to be paid commission on his sales each month and could have a draw on future commissions monthly. He agreed to devote his time and energies to sales of the web sites prepared by the Payor as instructed by the Appellant and his customer/client. He estimated that a 40-hour week was a reasonable allowance of time to be devoted to the job although at times he would contribute more than such an estimate in a particular week and would take time in compensation from another week. He used the 40‑hour week as a benchmark and not as a strict time frame for his marking hours. His hours were not recorded except by himself in order to judge how effective his efforts had been on a particular sale.
+[6] Evidence was also given by George Stone the President of the Payor and his straightforward testimony, in most respects, supported the evidence of the Appellant. Both parties believed they had an arrangement between themselves that created independency for the Appellant and that the Appellant operated his own business and invoiced the Payor for his time and commission on sales that the Appellant made. Both witnesses believed the Appellant was an independent contractor and not an employee and it was not until the CCRA told them that the Appellant was an employee that the Intervener must deduct EI and CPP from the monies due the Appellant, that the Appellant decided he could not work under those conditions and ended their relationship.
+[7] The classical tests recommended in Wiebe Door Services Ltd. v. M.N.R., 87 DTC 5025, of control, ownership of tools, chance of profit and risk of loss together with the entrepreneurial test were understood by the Appellant and the representative of the Intervener.
+[8] Control – Both witnesses said there was little or no control exercised by the Payor over the Appellant as the Appellant ran his own business and brought his skills as a territory manager and sales consultant to the arrangement they had made. The Payor did not have the qualifications necessary to control the Appellant. When asked about reporting to the Payor, the Appellant replied there was no requirement to report on a regular basis but only as was necessary to give progress reports and for the Appellant to consult with the graphic and production departments concerning their progress on the requirements off the client. Each had to be current with how the work was unfolding for the benefit of their client.
+[9] The Appellant made the contact with and entered into contracts with the client without the necessity of any approval or co-signing by the Payor. Consultation between the Appellant and the Payor was necessary in order that the particular job could be priced and quoted to the client by the Appellant.
+[10] The Appellant had his own skills that he brought to the working arrangement between he and the Payor. He may not have had much knowledge about the internet business and web sites but when he came to the Payor, he spent 2 to 3 months learning the business and the technical aspects of the business so that he could teach his clients how to use a web site and to get the most from having such a site. The Appellant stated this was not training but on the job learning that he did on his own.
+[11] The hours worked by the Appellant were his own business – none were mandated by the Payor. He worked when and how he wished so long as he was effective at his job and brought clients' business to the Payor.
+[12] The Appellant was asked who he reported to at the Payor's and he indicated it was the son of the Intervener's witness. He indicated that this was not a requirement and was to share information concerning a clients business – a sharing of information and ideas as well as the profitability of each project for the Payor and the Appellant.
+[13] The Appellant acknowledge that he used the Payor's business cards and letterhead in order to open doors to get business for himself, as the Payor's name was well known in the Appellant's sales area.
+[14] The Appellant was not given any vacation time nor vacation pay and took time off from his efforts as he saw fit. He did not have a sales expectation given to him by the Payor. He set his own targets for quantum of business.
+[15] The element of control is important to the relationship between an employer and his employee. It is used to order when, where and how the employee is to perform his work. This was clearly not in evidence in the arrangement between the Payor and the Appellant.
+[16] Ownership of Tools - The Appellant's evidence was that he operated out of his own home office or from his vehicle or at the office of the client. At home he had his own office space and equipment including desk, telephone, fax machine, copier and computer and his own paper and other necessary office supplies. He had his own vehicle – for which he received no reimbursement; and, his own cell phone. If he went to the office of the Payor he could use a desk, if any, a telephone and other office equipment, as needed, free of charge. No specific office was arranged or assigned to him. Although office equipment was made available to him, it was essential that he have his own office and equipment available to him at all times.
+[17] Chance of Profit – The Appellant operated strictly on a commission basis, paid for by work he brought to the Payor. He covered his own expenses from his commissions and all other costs for operating his own enterprise. According to the Appellant, he could do business with others at the same time as working with the Payor but he felt that for his own success and in fairness to the Payor he should devote his full efforts to bringing in business for the Payor.
+[18] Risk of loss – During the time period in question, the Appellant had deductions made from his commissions for bad debts or shortfalls for one reason or another. He was not too clear on these items as they were not substantial enough to worry about. His own expenses could be most important relative to the profitability of his business.
+[19] Integration – Whose business was it? As viewed from the perspective of the Appellant, the business was his own venture and he could have run his business with other persons or companies as well as that of the Payor. His expertise was as a sales consultant and territorial management consultant. It was a separate entity and not just part of the business of the Payor. When the CCRA instructed the Payor to make source deductions from the monies due to the Appellant, he gave his notice that that was not what he had bargained for with the Payor and accordingly left his engagement with the Payor.
+[20] This Court has considered the evidence presented to it and has applied such to the tests recommended by the various higher Courts and has reached the conclusion that the arrangement between the Payor and the Appellant, during the period in question, was not one of employer/employee. The Appellant operated as an independent contractor.
+[21] It is accepted that the parties cannot necessarily define their arrangement by merely stating that it is one of independence. It still must be viewed by examining the whole of the arrangement existing between the parties. The tests above are a helpful tool to assist the Court to reach a reasoned judgment of the arrangement existing but the Court must examine all of the evidence submitted to it, give such evidence its proper weight in the circumstances and based on that information reach its conclusion. The intention of the parties to their arrangement can be and should be taken into consideration when reaching its conclusion.
+[22] In these circumstances, the Court is convinced that the Appellant operated pursuant to a contract for services with the Payor during the period in question.
+[23] These appeals are allowed and the decisions of the Minister are vacated.
+Signed at Toronto, Ontario, this 30th day of January 2004.
+"W.E. MacLatchy"
+MacLatchy, D.J.
+CITATION:
+2004TCC29
+COURT FILE NO.:
+2003-904(EI) and 2003‑930(CPP)
+STYLE OF CAUSE:
+Daniel Dodds and M.N.R. and
+AM Stone Direct Marketing Inc
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+December 8, 2003
+REASONS FOR JUDGMENT BY:
+The Honourable W.E. MacLatchy,
+Deputy Judge
+DATE OF JUDGMENT:
+January 30, 2004
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Jocelyn Espejo Clarke
+Agent for the Intervener:
+George Stone
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada
+For the Intervener:
+Name:
+Firm:

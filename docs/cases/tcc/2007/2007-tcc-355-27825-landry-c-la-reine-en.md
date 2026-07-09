@@ -1,0 +1,162 @@
+---
+title: "Landry c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27825/index.do"
+last_modified: "2007-08-08"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 TCC 355"
+citation2: ""
+neutral_citation: "2007 TCC 355"
+decision_date: "2007-08-08"
+language: "en"
+item_id: "27825"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 365
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T22:51:59.134000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "53ddaeece0cbd1b98d4a905fb02bc65e59ed6e41b053d278643994c333a6ae30"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Landry c. La Reine
+
+- Citation: 2007 TCC 355
+- Decision date: 2007-08-08
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 365, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Landry c. La Reine
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-08-08
+Neutral citation
+2007 TCC 355
+File numbers
+2007-658(IT)I
+Judges and Taxing Officers
+Paul Bédard
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2007-658(IT)I
+BETWEEN:
+CHANTAL LANDRY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on June 6, 2007, at Québec, Quebec
+Before: The Honourable Justice Paul Bédard
+Appearances:
+Counsel for the Appellant:
+Jean‑H. Lemire
+Counsel for the Respondent:
+Anne Poirier
+____________________________________________________________________
+JUDGMENT
+The appeal against a Notice of Redetermination dated February 20, 2006, in which the Minister of National Revenue denied the Appellant the Canada Child Tax Benefit for the period from July 2005 to August 2005 inclusive, with respect to the 2004 base year, is dismissed, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 8th day of August 2007.
+"Paul Bédard"
+Bédard J.
+Translation certified true
+on this 20th day of August 2007.
+Francie Gow, Translator
+Citation: 2007CCI355
+Date: 20070808
+Docket: 2007-658(IT)I
+BETWEEN:
+CHANTAL LANDRY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Bédard J.
+[1] This is an appeal against a Notice of Redetermination of the Canada Child Tax Benefit with respect to the 2004 base year.
+[2] The issue is whether the Minister of National Revenue (the Minister) correctly concluded that the Appellant was not the parent who primarily fulfilled the responsibility for the care and upbringing of her child Sébastien, with respect to the 2004 base year, in July and August 2005.
+[3] In a Notice of Redetermination dated February 20, 2006, with respect to the 2004 base year, the Minister determined that the Appellant was not an eligible individual in respect of her child Sébastien for July and August 2005.
+[4] On May 16, 2006, the Appellant served on the Minister a Notice of Objection to the Notice of Redetermination of the Canada Child Tax Benefit dated February 20, 2006, with respect to the 2004 base year.
+[5] On October 16, 2006, the Minister confirmed the Redetermination of the Canada Child Tax Benefit dated February 20, 2006, with respect to the 2004 base year.
+[6] In making and confirming the Redetermination of the Child Tax Benefit issued February 20, 2006, with respect to the 2004 base year, the Minister relied on the following assumptions of fact:
+[TRANSLATION]
+a) the Appellant and Mr. Alain Petit are the parents of, among others, a son named Sébastien, born April 9, 1995; (admitted)
+b) for the 2003 base year, in the period from February 2005 to June 2005, the Appellant was not considered the parent who primarily fulfilled the responsibility for the care and upbringing of her child Sébastien; (admitted)
+c) on September 9, 2005, in a notice of redetermination of the Canada Child Tax Benefit, the Minister considered the Appellant the parent who primarily fulfilled the responsibility for the care and upbringing of her child Sébastien, as of July 2005 for the 2004 base year; (admitted)
+d) Alain Petit filed a Canada Child Tax Benefit claim in respect of his son Sébastien, claiming that the child in question lived with him from June 17, 2005, to August 7, 2005, after which date he returned to live with the Appellant; (denied as written)
+e) on December 5, 2005, the Minister sent the Appellant and Alain Petit a questionnaire to fill out regarding the period from June 17, 2005, to August 7, 2005, to assess which of the two parties was the parent eligible to receive tax benefits in respect of the child Sébastien; (admitted)
+f) the Appellant replied in writing on January 4, 2006, that a decision handed down by the Superior Court granted her sole custody of her son Sébastien on June 30, 2005; (admitted)
+g) Alain Petit sent a letter dated December 28, 2005, in which he provided the names of persons, one for each part of the period at issue, who could confirm that the child Sebastian was living with him; (unknown)
+h) at the objections stage, the Appellant's representative, Jean‑H. Lemire, acknowledged that the child Sébastien was living with his father during the period at issue, but said that he considered the stay a visit, given that his client had been granted legal custody of the child in question on June 30, 2005, by a decision of the Superior Court. (admitted)
+[7] It should be noted at this point that pursuant to a judgment rendered by the Superior Court of Québec on June 30, 2005[1] (the judgment), the Appellant was granted sole custody of Sébastien, and Sébastien's father, Alain Petit, was given the following access rights:
+[TRANSLATION]
+- Every second weekend, from Thursday evening after school (around 4:00 p.m.) until 6:00 p.m. on Sunday;
+- One week during the Christmas season, alternating from year to year between Christmas and New Year's;
+- The week of spring break each year in late February and/or early March;
+- One month during the summer, the dates to be agreed upon with the applicant.[2]
+Appellant's testimony
+[8] The Appellant admitted that Sébastien lived continuously with his father from February 2004 to August 7, 2005, inclusive. She explained that she had agreed with Sébastien's father, pursuant to the statement in the judgment providing Sébastien's father with access for a month in the summer, that he would take Sébastien from July 1, 2005, to July 31, 2005. She added that Sébastien's father had not taken the necessary measures to ensure that Sébastien return to live with her on July 31, 2005. She explained that the father eventually complied with her request and returned Sébastien to her home on August 7, 2005, but only after she had threatened to call the police to have her rights enforced.
+Father's testimony
+[9] The father testified that he had become aware of the judgment on July 7, 2005, the date on which he had brought his son back to the Appellant's home. He explained that a few minutes after arriving at the Appellant's residence, Sébastien had begged him to take him back to his own home. He therefore agreed with the Appellant that he would take Sébastien for the period from July 7, 2005, to August 7, 2005, inclusive, the date on which he took the necessary measures to return Sébastien to live with the Appellant.
+Appellant's position
+[10] Counsel for the Appellant made the following clams:
+i) during the period from July 1, 2005, to July 31, 2005, Sébastien was only visiting his father, given that, according to the judgment, his client had sole custody of Sébastien as of June 30, 2005;
+ii) during the period from August 1, 2005, to August 7, 2005, Sébastien's presence at his father's residence was illegal, given that his father had abused his access rights by unilaterally deciding to keep Sébastien against the Appellant's will.
+Analysis and Conclusion
+[11] Paragraph (a) of the definition of the term "eligible individual" in s. 122.6 of the Income Tax Act (the Act) requires in particular that the eligible individual reside with the dependent. The residence test is thus an essential factor in obtaining the credit.
+[12] The term "reside with" as used in the definition of the term "eligible individual" under s. 122.6 of the Act, essentially means "live in the same house" habitually. I must therefore decide the following issue: was the Appellant habitually living in the same house as her son in July and August 2005?
+[13] I also note that the fact of having sole custody of a child under an agreement or judgment does not automatically entitle one to the Child Tax Benefit. That is simply not a determinant factor. In no way does a separation agreement or similar judgment bind the Minister, nor does it confer tax rights on a parent with whom the child is not residing and who is not responsible for the child.
+[14] Finally, it is important to understand that in the formula for determining the amount of benefits payable found in s. 122.61 of the Act, the minimum benefit period is one month and that a month of benefits is to be paid to whoever was the eligible individual at the beginning of the month; that is, to the person who was primarily fulfilling the responsibility for the care and upbringing of the child at that time.
+[15] With respect to the month of July 2005, I conclude that the Appellant was not the eligible individual, since Sébastien was not residing with his mother during that period. Accordingly, the Appellant was not entitled to the Canada Child Tax Benefit during that period. Let me reiterate that the fact of having sole custody of a child pursuant to an agreement or judgment does not automatically entitle one to the Child Tax Benefit.
+[16] With respect to the month of August 2005, I would have concluded that the Appellant was the eligible individual if she had satisfied me that Sébastien's stay with his father during the first seven days of that month had been in any way illegal. To do so, the Appellant first had to satisfy me that on the same day the judgment was rendered, namely June 30, 2005, she had not only become aware of the judgment, but had also agreed with Alain Petit that he would be responsible for Sébastien from July 1 to July 31, 2005, inclusive. On that point, Mr. Petit's version of the facts simply strikes me as more plausible than the Appellant's version. Note that Mr. Petit testified that he had become aware of the judgment on July 7, 2005, the date on which he returned Sébastien to the Appellant's residence, in accordance with the terms of the judgment granting the Appellant sole custody of Sébastien. Note also Mr. Petit's testimony to the effect that, five minutes after arriving at the Appellant's residence, Sébastien had begged him to take him back home with him, and it was at that point that he and the Appellant agreed that he would take Sébastien for the period from July 7, 2005, to August 7, 2005, inclusive, the date on which he was required to take the necessary measures to return Sébastien to his mother's residence. Accordingly, I find that Sébastien's presence in his father's home during the first seven days of August was not illegal, and that Sébastien was therefore not living with his mother at the beginning of August. Because the Appellant was not living with Sébastien at the beginning of that month, she could not have been the eligible individual for the month of August 2005, and, accordingly, she was not entitled to the Canada Child Tax Benefit for that month.
+[17] For these reasons, the appeal is dismissed.
+Signed at Ottawa, Canada, this 8th day of August 2007.
+"Paul Bédard"
+Bédard J.
+Translation certified true
+on this 20th day of August 2007.
+Francie Gow, Translator
+CITATION: 2007CCI355
+COURT FILE NO.: 2007-658(IT)I
+STYLE OF CAUSE: CHANTAL LANDRY v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Québec, Quebec
+DATE OF HEARING: June 6, 2007
+REASONS FOR JUDGMENT BY: The Honourable Justice Paul Bédard
+DATE OF JUDGMENT: August 8, 2007
+APPEARANCES:
+Counsel for the Appellant:
+Jean‑H. Lemire
+Counsel for the Respondent:
+Anne Poirier
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Jean‑H. Lemire
+Firm: Picard, Lemire, Asselin, Demers
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] See Exhibit A-1.
+[2] See Exhibit A-1, paragraph 61.

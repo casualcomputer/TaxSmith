@@ -1,0 +1,114 @@
+---
+title: "Bradshaw v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/351594/index.do"
+last_modified: "2018-10-12"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2018 TCC 246"
+citation2: ""
+neutral_citation: "2018 TCC 246"
+decision_date: "2018-10-12"
+language: "en"
+item_id: "351594"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4978
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T11:37:04.840000+00:00"
+cases_cited_count: 4
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "027c49abadbc53c718d75eb370430d2b69886b34362ce86ac1e4ad45ce9eb80c"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Bradshaw v. The Queen
+
+- Citation: 2018 TCC 246
+- Decision date: 2018-10-12
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4978, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Bradshaw v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2018-10-12
+Neutral citation
+2018 TCC 246
+File numbers
+2017-408(IT)G
+Judges and Taxing Officers
+Diane Campbell
+Subjects
+Income Tax Act
+Decision Content
+Citation: 2018 TCC 246
+Date: 20181206
+Docket: 2017-408(IT)G
+BETWEEN:
+WARREN BRADSHAW,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+(Delivered orally from the bench on October 12, 2018, at Hamilton, Ontario.)
+Campbell J.
+[1] Mr. Bradshaw is appealing both his 2012 and 2013 taxation years. When he filed his 2012 income tax return, he claimed an amount of $310,555 as “Other Deductions”. He also claimed $204,138 as “Other Deductions” in his 2013 income tax return. The Minister of National Revenue (the “Minister”) assessed these two taxation years, denying the claimed deductions and imposing a penalty pursuant to subsection 163(2) of the Income Tax Act (the “Act”). The end result of claiming the deductions in the amounts he did was that they reduced his total income in each year to approximately zero with no tax being payable.
+[2] Mr. Bradshaw refused to give any direct evidence or provide any supporting documentation although I advised him it would be to his benefit to do so. The only statement he made in support of his appeals was in final argument, where he offered the short statement that he completed returns in this manner based on his own interpretation of the provisions of the Act.
+[3] On cross-examination, Mr. Bradshaw either could not explain or refused to offer an explanation for what these other deduction amounts encompassed. When pressed by counsel, he testified he had no details, but that they were “expenses to live”. At a later point in his cross-examination, he testified that, instead, the amounts had been accumulated over prior years and had not been previously claimed. However, no other details, calculations, etc. were provided, except for his statement that he thought he was entitled to claim these amounts due to his personal interpretation of the income tax provisions, although he admitted to never seeking legal or accounting or any other type of professional advice from anyone. When asked about why he did not seek such advice, his response was, “It’s my interpretation, not theirs”. He also refused to pinpoint any of the provisions that he felt supported his claimed deductions.
+[4] To make this whole scenario worse, Mr. Bradshaw had problems with his prior returns for the 2008 to 2011 taxation years. He was aware when he claimed these large deductions that these prior returns had not been accepted as filed, that they were under appeal and that business losses had been denied and penalties had been imposed for those years.
+[5] As counsel for the Minister pointed out, the claim of “Other Deductions” which about equalled his income in each of these years, is similar to the claims made in many other groups of appeals that have come before this Court under the guise of losses of some sort which have no factual basis and whose only aim is to reduce income to the point where the taxpayer is effectively paying no taxes. These so-called schemes entice taxpayers into thinking they may be able to get away with claiming deductions without explaining them so that they escape their obligation to pay tax, which would otherwise be owing. When something looks too good to be true, it generally is. With Mr. Bradshaw’s work experience and educational background, I do not believe he could have ever thought that he could legitimately escape his tax obligations in this manner. Nor do I believe that he could have expected to come before this Court and be successful in his appeals, when he refused to present any evidence and provided only vague responses to questions put to him by counsel. Mr. Bradshaw was certainly an evasive witness/Appellant, much to his detriment.
+[6] Even if Mr. Bradshaw was putting the “Other Deductions” amounts in issue, which he never stated he was, I have absolutely no evidence before me in this regard and they remain unsupported vague claims, reminiscent of other claims and schemes coming before this Court that are without any merit whatsoever.
+[7] Despite problems with prior returns for the 2008 to 2011 taxation years, where losses were denied and penalties imposed with an eventual appeal to this Court, the Appellant decided to forge ahead with the same behaviour, claiming sufficiently large amounts as “Other Deductions” that equalled his income and reduced his taxes to nil and, even more incredible, he did so based on his own opinion and interpretation of the Act without obtaining one outside professional opinion. With this history, Mr. Bradshaw knew or ought to have known that the claims for these “Other Deductions” in his returns were false and suspect. Mr. Bradshaw described himself as an estimator/manager of his brother’s steel fabrication company, Bradshaw Iron Works. He has worked in this industry for 40 to 50 years and prior to selling it to his brother, he was the owner, overseeing 10 employees. Mr. Bradshaw was clearly capable of understanding the potential consequences of choosing to continue to claim false deductions in his returns, which never existed. In fact, it constitutes reckless behaviour on his part, particularly in light of the prior problems he had encountered. This alone is sufficient for me to conclude that the Minister was correct in imposing gross negligence penalties in this instance, that is, the existence of a false statement and Mr. Bradshaw’s knowledge in making it.
+[8] Respondent counsel took this Court through some of the basic caselaw dealing with gross negligence. The general principles regarding gross negligence are set out in the cases of Venne v The Queen, 84 DTC 6427 (FCTD), [1984] CTC 223, DaCosta v Canada, 2005 TCC 545, 2005 DTC 1436, and Farm Business Consultants Inc. v The Queen, 95 DTC 200, [1994] TCJ No. 260. The courts have also made it clear that gross negligence can include “wilful blindness” in addition to an intentional act and wrongful intent. I believe it is also appropriate for me, given the circumstances, to conclude that Mr. Bradshaw was wilfully blind. In considering the factors set out in Torres v The Queen, 2013 TCC 380, affirmed by the Federal Court of Appeal, 2015 FCA 60, which are applicable to these appeals, Mr. Bradshaw was acting with wilful blindness in making the false statements in his returns. The magnitude of the advantage he would receive by claiming those deductions meant that he paid no taxes in respect to an income of $322,592 in 2012 and $215,636 in 2013. In addition, he made no inquiries to anyone else, instead relying on his own interpretation of the Act, which had only led him into problems with prior returns and the imposition of penalties as a consequence. This was not a mere oversight on Mr. Bradshaw’s part, as he wilfully persisted in the same conduct he had engaged in in the past. The claims were blatantly false and readily detectible, particularly to an individual with Mr. Bradshaw’s intellect and work experience. To engage in this same conduct again, in light of the history with his prior returns, is beyond comprehension. But then to come to this Court and refuse to offer anything concrete in the way of evidence perhaps speaks volumes in that Mr. Bradshaw knows full well what the result of his conduct will be. I have no doubt that he refused also to obtain other professional advice because he knew full well that he would be advised not to continue to make these foolish claims for non-existent deductions.
+[9] The appeals are dismissed. The Minister’s imposition of penalties is warranted. I am awarding costs to the Respondent in the lump sum amount of $5,000, payable forthwith.
+Signed at Ottawa, Canada, this 6th day of December 2018.
+“Diane Campbell”
+Campbell J.
+CITATION:
+2018 TCC XX
+COURT FILE NO.:
+2017-408(IT)G
+STYLE OF CAUSE:
+WARREN BRADSHAW and THE QUEEN
+PLACE OF HEARING:
+Hamilton, Ontario
+DATE OF HEARING:
+October 12, 2018
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Diane Campbell
+DATE OF JUDGMENT:
+DATE OF REASONS FOR JUDGMENT:
+October 12, 2018
+December 6, 2018
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Dominique Gallant
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada

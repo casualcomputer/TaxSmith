@@ -1,0 +1,120 @@
+---
+title: "Webinar - The Community Volunteer Income Tax Program (CVITP) Grant"
+gallery_title: "Webinar - The Community Volunteer Income Tax Program (CVITP) Grant"
+source: https://www.canada.ca/en/revenue-agency/news/cra-multimedia-library/individuals-video-gallery/community-volunteer-income-tax-program-cvitp-grant.html
+video_source: https://youtu.be/fihkO9znSBQ
+last_modified: 2025-03-19
+---
+
+# Webinar - The Community Volunteer Income Tax Program (CVITP) Grant
+
+## Transcript
+### Slide 1 – The CVITP Grant
+[Brianna]: Hello, and welcome.
+My name is Brianna and I’m in Toronto. My pronouns are she/her. I have blue eyes, blonde hair, and I’m wearing a grey blazer. I’m with the Canada Revenue Agency, or CRA for short.
+I’m very happy to be here today to talk about the grant for the Community Volunteer Income Tax Program or CVITP.
+If you’re in Quebec, the program is known as the Income Tax Assistance – Volunteer Program or ITAVP.
+We’ll go over how to find out if your organization is eligible for the CVITP Grant and how to apply.
+[Visual]: Icon for the Community Volunteer Income Tax Program. Three icons of people all in different colors arranged inside a circle with their arms touching. Off to the right of the circle it is written: “People helping people.”
+### Slide 2 – Land Acknowledgment
+[Brianna]: I wish to acknowledge that the land on which I am presenting from is the unceded territory of many nations including the Mississaugas of the Credit, the Anishnabeg, the Chippewa, the Haudenosaunee and the Wendat peoples.
+The land is also home to many diverse First Nations, Inuit, and Métis people. Additionally, it is covered by Treaty 13 with the Mississaugas of the Credit.
+Given that we are meeting virtually, I also want to acknowledge the lands where you are gathered from coast to coast. I invite you to take a moment of silence to think about the territory where you find yourself.
+[Visual]: An eagle, narwhal and fiddle icon.
+### Slide 3 – Topics we’ll cover
+[Brianna]: We know how important this grant has been for community organizations since it first started in 2021 and we’re committed to delivering it once again for 2025.
+The CVITP Grant helps community organizations offset the costs of running free tax clinics.
+Although we are in a time of fiscal restraint, the CRA is committed to providing support for people to do their taxes and proud to continue to offer the CVITP grant. This ensures that organizations have the funding they need to help people with a modest income get the benefit and credit payments they are entitled to.
+We hope the grant can encourage your organization to host its first clinic, support the clinics you usually run, or expand your services to help more people.
+During today’s presentation, I’ll be answering some basic questions about the CVITP Grant.
+We’ll review the eligibility criteria so you can take steps to make sure that your organization qualifies.
+We’ll explore how funding amounts are determined and how much you can expect to receive.
+Then, we’ll look at how and what you’ll need to apply.
+Finally, I’ll share timelines on the grant process and give you an idea of when to expect payment.
+### Slide 4 – How to qualify for the CVITP Grant
+[Brianna]: To qualify for the CVITP Grant, your organization must be registered and approved as part of the CVITP, or the ITAVP if you’re in Quebec.
+Your organization must have at least two registered and approved volunteers.
+You must also have a CVITP Organization Identification Number, also known as a COIN, and use it on every return completed.
+Once these requirements are met, you’ll have to provide free tax filing services during the activity period. The period is from June 1, 2024 to May 31, 2025.
+And, your organization must file a minimum of 10 returns.
+Grant funding is provided retroactively, which means your organization must host free tax clinics before you can apply for funding.
+### Slide 5 – How to qualify for the CVITP Grant ̶ Continued
+[Brianna]: Applications will open on May 1, 2025, and you need to apply before June 30, 2025.
+Once your application is reviewed, you’ll get a determination letter telling you whether it has been approved or denied.
+If approved, the CRA will also send you a funding agreement that you’ll need to sign and return within a specified timeframe.
+On the agreement, you will have to provide banking information for an account with a Canadian institution that accepts direct deposit. Your funding will be deposited into this account.
+### Slide 6 – The CVITP Organization Identification Number (COIN)
+[Brianna]: The CVITP Organization Identification Number, or COIN, is a unique, eight-digit identification number assigned to all approved organizations that participate in the CVITP or ITAVP.
+The COIN counts the number of federal income tax returns that an organization files electronically using the provided tax software.
+The COIN is mandatory if your organization plans to apply for CVITP Grant funding. Only returns filed using the COIN will be counted towards the amount you receive.
+An organization keeps the same COIN every year, even if it takes a break from participating in the CVITP. The COIN is only accepted in the software provided by the CRA.
+You can find instructions on how to enter your COIN in the online CVITP learning guide.
+There are two ways you can file tax returns using the COIN:
+- electronically using EFILE; or
+- by printing the return and mailing it to the appropriate tax centre. The printed version of the return has a barcode that allows it to be tracked.
+There is no way to add the COIN after submitting the tax return if a volunteer forgets to enter it.
+The COIN was introduced in 2020. You won’t be able to use it to count tax returns from 2019 or earlier.
+The COIN doesn’t collect any information from individual tax returns. It's only a counter used to apply for the CVITP Grant. If you have not received your COIN, it will be included in your program registration approval email.
+If you misplace your COIN, contact your local CVITP coordinator.
+If your organization isn’t applying for the grant, the COIN is optional.
+Your organization can file tax returns without it. However, we encourage all organizations to use it because it helps improve data collection and reporting within the program.
+### Slide 7 – Types of eligible organizations
+[Brianna]: Organizations eligible for the grant include non-profits, charities, and other types of community organizations.
+Some examples of organizations that participate include:
+- band offices
+- family services associations
+- multicultural societies
+- places of worship
+- post-secondary student groups or associations
+- seniors’ support and recreation centres
+- service clubs
+- settlement organizations
+- shelters and support centres
+- volunteer bureaus, and
+- for-profit organizations that provide free tax filing service separate from their other activities
+### Slide 8 – Organizations ineligible for grant funding
+[Brianna]: Non-community or non-volunteer-based organizations that normally operate for profit cannot receive funding from the CVITP Grant.
+It’s important to make sure that the name of your organization is not the same as the name of a for-profit business and that you keep volunteer activities separate from business activities.
+Also, you cannot receive the grant if your organization operates under the office of a municipal counselor or a federal, provincial or territorial Member of Parliament.
+### Slide 9 – How grant funding is determined
+[Brianna]: Funding amounts for the grant are based on two main factors:
+The first is the number of federal returns filed by volunteers affiliated with your organization. The returns must be prepared on the program-provided software using your organization’s COIN. They can be submitted electronically through EFILE or printed and mailed.
+Under the new formula, all organizations receive $5 per federal tax return filed.
+In your grant application, you must report the total number of returns filed. This means you must track all returns filed.
+The CRA will use the COIN to verify the number your organization reports on its grant application. Organizations may use their COIN to file returns for previous years starting with the 2020 version of the software.
+The second factor is the total government assistance your organization receives for its free tax clinics. This is the total funding provided by federal, provincial, territorial, and municipal levels of government.
+All grant applicants must disclose this amount because it’s used to calculate funding.
+You don’t need to include any previous CVITP or Revenu Québec grants that your organization has received.
+The maximum funding for each organization is capped at $30,000 per CVITP Grant year. Your organization can get this amount if it files 6,000 returns.
+### Slide 10 – CVITP Grant amount example
+[Brianna]: Here’s an example of a funding calculation.
+This organization filed 300 returns last year. They also received $200 from their municipal government to host free tax clinics.
+Since they filed 300 returns, their base amount would be $1,500.
+The CRA then deducts the total government assistance the organization received from federal, provincial, territorial or municipal governments. Only funds received from these levels of government should be included in this amount.
+You should not include previous CVITP and Revenu Québec grants received for the purpose of free tax filing services.
+After deducting the total government assistance, this organization would receive $1,300 from the CVITP Grant.
+### Slide 11 – How to apply
+[Brianna]: The application period for the CVITP Grant is from May 1 to June 30 each year.
+To complete an application, your organization will need:
+1. The total number of federal income tax returns filed during the activity period. The number you declare will be compared to the number of returns filed under the COIN for your organization. The CVITP Grant team will follow up if there’s a significant discrepancy between what you report and what is under your COIN.
+2. The total government assistance your organization received from either a federal, provincial, municipal, or territorial government. Only funds received from one of these levels of government should be included. You should not include previous CVITP and Revenu Québec grants.
+3. Your CVITP Organization Identification Number, or COIN, which is used as a counter for the number of returns filed by your organization’s volunteers.
+With this information, you can apply for the CVITP Grant by clicking the green “Apply for the CVITP Grant” button on either the main page of the CVITP Grant or the “How to Apply” sub-page.
+Be sure to read through the information on our webpages, including the How to Apply section and the CVITP Grant Terms and Conditions, which can be found at [canada.ca/free-tax-clinics-grant](https://www.canada.ca/en/revenue-agency/services/tax/individuals/community-volunteer-income-tax-program/grant.html).
+[Visual]: Green “Apply for the CVITP Grant” button.
+### Slide 12 – When to expect payment
+[Brianna]: This year’s application period will close on June 30, 2025.
+Next, qualified grant recipients will be approved and decision letters will be sent to both approved and denied applicants.
+If approved, the CVITP Grant team will also send your organization a funding agreement that you’ll need to sign and return within a specified timeframe.
+On the agreement, you will have to provide banking information for an account with a Canadian institution that accepts direct deposit. Your funding will be deposited into this account.
+The CVITP Grant team plans to send payments in fall 2025 so funds can be factored when planning tax clinics for the next tax season.
+We know these funds are important to your organization and we’re committed to transferring the payments in a timely manner.
+Thank you for your patience.
+### Slide 13 – Thank you!
+[Brianna]: This is the end of the webinar. We hope that we helped you gain a better understanding of the CVITP Grant.
+For more information, visit [canada.ca/free-tax-clinics-grant](http://www.canada.ca/free-tax-clinics-grant).
+You can also send your questions about the CVITP Grant to [CVITPGRANTG@cra-arc.gc.ca](mailto:CVITPGRANTG@cra-arc.gc.ca).
+We also encourage you to visit our Upcoming Events page at [canada.ca/cra-outreach-events](http://www.canada.ca/cra-outreach-events) to view and register for upcoming webinars.
+Stay connected by following us on social media: we are on X, Facebook, YouTube, LinkedIn, and Instagram.
+Thank you for joining us, today! We hope it was helpful!
+[Visual]: Icons for X, Facebook, YouTube, LinkedIn, and Instagram.

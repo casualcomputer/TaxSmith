@@ -1,0 +1,165 @@
+---
+title: "Baribeau c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30235/index.do"
+last_modified: "2011-02-28"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2011 CCI 125"
+citation2: ""
+neutral_citation: "2011 CCI 125"
+decision_date: "2011-02-28"
+language: "fr"
+item_id: "30235"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7749
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T14:04:39.916000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "97670f30ad9e80c45c311a0d642db93c79270b1739a82b8b705c7a4d5b2ee6fa"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Baribeau c. La Reine
+
+- Citation: 2011 CCI 125
+- Decision date: 2011-02-28
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7749, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Baribeau c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2011-02-28
+Référence neutre
+2011 CCI 125
+Numéro de dossier
+2009-1884(IT)G
+Juges et Officiers taxateurs
+Cameron Hugh McArthur
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2009-1884(IT)G
+ENTRE :
+MARC BARIBEAU,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 1 décembre 2010, à Rouyn-Noranda (Québec)
+Devant : L’honorable juge C.H. McArthur
+Comparutions :
+Pour l’appelant :
+l’appelant lui-même
+Avocate de l’intimée :
+Me Chantal Roberge
+____________________________________________________________________
+JUGEMENT
+L’appel de la cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2003 est admis, avec dépens, et la cotisation est déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation en tenant pour acquis que l’appelant n’avait pas à ajouter la somme de 40 000 $ à son revenu pour l’année d’imposition 2003 et la pénalité imposée par le ministre pour revenu non déclaré est annulée.
+Signé à Ottawa, Canada ce 28e jour de février 2011.
+« C.H. McArthur »
+Juge McArthur
+Référence : 2011 CCI 125
+Date : 20110228
+Dossier : 2009-1884(IT)G
+ENTRE :
+MARC BARIBEAU,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge McArthur
+[1] Il s’agit d’un appel à l’encontre d’une cotisation établie à l’égard de l’appelant pour l’année d’imposition 2003 et de la pénalité imposée à l’appelant pour avoir omis de déclarer un revenu de 40 000 $. La nouvelle cotisation a été émise quatre jours après l’expiration de la période normale[1]. L’intimée a consenti à jugement pour les pénalités.
+[2] La question en litige : est-ce que le ministre du Revenu national était justifié d’ajouter 40 000 $ au revenu de l’appelant en 2003?
+[3] Le 2 décembre 2003, la société 9098-3016 Québec inc. (9098) a vendu la propriété minière Courville-Maruska à Ressources Mirabel inc. (« Mirabel »), par l’intermédiaire de l’appelant, pour la somme de 140 000 $. En 2004, Mirabel a émis 350 000 actions de son capital-actions au nom de 9098. En 2008, la société 9098 a transféré 100 000 actions de Mirabel[2] à l’appelant pour ses services relativement à la vente. Le ministre a calculé que le prix de vente de la propriété minière était de 140 000 $ et que le nombre d’actions émises par Mirabel en contrepartie de cette vente était de 350 000, la valeur de chacune des actions était donc de 0,40 $ au 2 décembre 2003. Ainsi, la valeur de 100 00 actions de Mirabel était de 40 000 $ le 2 décembre 2003. L’appelant n’a pas déclaré le revenu de commission au montant de 40 000 $ pour services rendus dans sa déclaration de revenu de l’année d’imposition 2003 parce qu’il a conclu que les 100 000 actions n’avaient pas de valeur.
+[4] L’appelant s’est représenté lui-même sans témoins. Les faits suivants ont été tirés de l’avis d’appel :
+C. Revenu Canada a basé sa cotisation sur une commission payée en argent et ce que moi j’ai reçu ce sont des actions entiercées donc impossible de les vendre et suite a un litige entre les parties, les actions ont été en ma possession cinq ans plus tard soit le 5 janvier 2009.
+D. Revenu Canada m’a imposé sur une somme de 40 000 $ et le montant réellement reçu est de 13 000 $ dollars et non en 2003, mais bien en janvier 2008. Je détiens toutes les preuves.
+Pendant son témoignage, il a répété à plusieurs reprises que les actions n’avaient aucune valeur en 2003[3].
+[5] L’avocate du ministre s’est fondée sur le fait que l’appelant avait admis aux alinéas 11 c) et d) de la Réponse à l’avis d’appel[4]. L’appelant convenait peut-être du fait que les hypothèses c) et d) étaient effectivement énoncées dans la Réponse à l’avis d’appel ou bien qu’il s’agissait là de la valeur convenue en vue de la vente. Il ressort manifestement de son témoignage préalable et ultérieur qu’il est convaincu, hors de tout doute, qu’en date du 2 décembre 2003, les 100 000 actions (qu’il a reçues seulement en janvier 2008) n’avaient aucune valeur. Les actions n’ont pas été libérées par l’autorité des marchés financiers avant le mois de juillet 2004. Avant leurs valeurs étaient douteuses et 0,40 $ était plus un désir qu’une réalité et, pour répéter, les actions n’étaient pas libérées à l’appelant avant 2008. Je n’accepte pas l’argument de l’avocate de l’intimé à la page 154 de la transcription du procès :
+La preuve, au niveau des admissions, on a également eu une admission sur le fait que la juste valeur marchande des actions en décembre 2003 était de 0,40 $ à ce moment-là.
+[6] Le ministre s’appuie sur les articles 3 et 9, l’alinéa 12(1)b), ainsi que les paragraphes 152(4) et 248(1) de la Loi de l’impôt sur le revenu (la « Loi »). Même si ce n’était pas indiqué dans sa plaidoirie, l’avocate du ministre s’est référée à l’article 35 que je ne prends pas en considération. Dans toute circonstance, je ne crois pas que cet article s’applique en l’espèce[5]. La position du ministre est clairement expliquée au paragraphe 17 de la page 4 de la Réponse à l’avis d’appel, dans lequel il est indiqué que le montant en cause est 40 000 $. Cette position est fondée principalement sur l’alinéa 12(1)b), sans aucune référence à l’article 35. Il est trop tard, au moment des observations finales, pour renvoyer à cet article.
+[7] De toute façon, l’intimée n’a pas satisfait le fardeau de la preuve en vertu du paragraphe 152(4). Le test qu’on applique pour le paragraphe 152(4) comme l’indique la Loi est le degré de soin qu’une personne prudente aurait exercé. Afin qu’il puisse répondre à l’appelant après la période normale de trois ans (153(3)), il incombait au ministre de prouver que ce dernier n’avait pas exercé le degré de soin prévu au paragraphe 152(4), qui est rédigé en ces termes :
+[. . . ] l’appelant a omis de faire les démarches qu’une personne prudente et respectueuse des lois aurait faites pour s’assurer que c’était la bonne façon de déclarer un revenu de commission pour services rendus. (152(4) Loi de l’impôt sur le revenu)
+[8] Bien qu’il ne soit pas un avocat, l’appelant a plaidé sa propre cause de son mieux. Son occupation est le forage au diamant et il fait la prospection avec le but de ramasser des propriétés minières.
+[9] L’appelant avait de la difficulté à exprimer les faits et c’était difficile de suivre sa preuve. Cela est compréhensible, étant donné qu’il a acquis son expérience et son expertise dans le monde impitoyable de la prospection, du forage au diamant et des biens miniers. Il ne connaît pas les incidences de l’alinéa 12(1)b), de l’article 35 ou de tout autre texte législatif.
+[10] Naturellement, son approche est fondée sur le bon sens. Il a facilité la vente d’un bien minier de 9098 à Mirabel (maintenant connue sous le nom « Rocmec Mining Inc. »). La transaction a été conclue le 2 décembre 2003. La société 9098 a reçu 350 000 actions de Mirabel en 2004. Les actions ne sont devenues négociables qu’à la mi-2004. S’en est suivi un litige concernant les actions, et l’appelant n’a pas reçu 100 000 actions en contrepartie de services rendus qu’en janvier 2008. À ce moment‑là, il a vendu ces actions pour environ 13 000 $. Il a inclus ce montant dans sa déclaration de revenu de 2008. Il y avait un refus de 9098 de lui remettre des actions.
+[11] L’appelant soutient n’avoir reçu aucune somme en 2003 et qu’il n’y avait donc aucune raison d’inclure de somme dans le calcul de son revenu imposable pour l’année d’imposition 2003. D’après l’intimée, « la disposition en cause ici c’est vraiment le paragraphe 9(1) et l’alinéa 12(1)b) [6]». À la page 102 aux lignes 16 à 25 de la transcription du procès, Me Chantal Roberge a énoncé la position du ministre comme suit :
+Me CHANTAL ROBERGE : . . . en revenu en actions pour des services rendus en décembre 2003 et que ces actions-là avaient en 2003 une valeur de 40 000 $ et conformément à l’alinéa 12(1)b) qui est le principe de la comptabilité d’exercice, qui est un principe reconnu en droit fiscal depuis fort longtemps, le revenu doit être déclaré au moment où il est gagné même si la somme ne peut être reçue immédiatement. C’est ça le . . . la base de la cotisation là, en quelques mots, ça se résume à ça.
+[12] L’appelant est un expert dans le domaine des concessions minières. C’était évident qu’il n’était pas à l’aise dans la salle d’audience. Il a déclaré « Je n’ai aucune connaissance légale ». Je crois qu’il avait connaissance de la valeur des actions de l’exploitation minière et, en particulier, de la valeur de ses 100 000 actions dans la société Mirabel. Il est indiqué au paragraphe 12(c) de la Réponse à l’avis d’appel : « L’appelant avait une bonne connaissance du monde des affaires ». Cette phrase reflète le fait que l’appelant a une connaissance de l’exploitation minière de sa région, soit l’Abitibi-Témiscamingue. Par moments, il était un spéculateur de séance qui connaissait un certain succès dans le domaine[7].
+[13] Il a répété à plusieurs reprises, en s’appuyant sur plusieurs documents, qu’il ne pouvait pas vendre ses actions en 2003 et je cite : « Je pouvais rien faire avec … en 2003…les actions n’étaient pas libérées avant juillet 2004…personne donnera cinq cents pour les actions, il était impossible de les vendre, il n’y avait pas de marché en 2003 ». En effet les 100 000 actions de Mirabel (Rocmec) n’étaient pas libérées à lui avant mars 2004 (voir Pièce I-3).
+[14] Comme il a déjà été mentionné, l’appelant ne connaissait pas l’alinéa 12(1)b) de la Loi, alinéa sur lequel s’est fondé le ministre, particulièrement les dispositions déterminatives. Essentiellement, l’alinéa prévoit que le contribuable doit inclure dans le calcul de son revenu toute somme à recevoir, même si la somme en question n’est reçue qu’au cours d’une année postérieure. L’alinéa 12(1)b) se lit comme suit :
+« […] les sommes à recevoir qui n’ont pas été effectivement reçues au cours de l’année; pour l’application du présent alinéa, une somme est réputée à recevoir pour services rendus dans le cours des activités de l’entreprise à compter du premier en date des jours suivants :
+[…]
+(ii) le jour où aurait été remis ce compte si la remise n’avait pas subi un retard indu; »
+[15] La question est donc de savoir ce qu’étaient les « sommes à recevoir » par l’appelant. L’appelant affirme que « le jour où a été remis le compte à l’égard des services » (la somme étant constituée des 100 000 actions de Mirabel) n’a aucun poids parce qu’à ce moment-là, il était impossible de traiter les actions. En fait, les actions n’ont pas été émises en 2003. Compte tenu de la définition de « montant » énoncée au paragraphe 248(1), j’accepte qu’il inclue la valeur des actions. L’appelant a affirmé avoir vendu les actions en 2008 au montant de 13 000 $, soit à la première occasion qu’il a eu de le faire. Il n’y a aucune trace écrite d’un montant fixe qui aurait pu avoir été rendu à l’appelant soit par Mirabel soit par 9098. En réalité, en décembre 2003, la valeur des actions de Mirabel était douteuse. Ce n’est pas logique d’accorder une valeur de 40 000 aux actions.
+[16] L’hypothèse de fait suivante au paragraphe 12 d) de la Réponse à l’avis d’appel, vitale à la cotisation établie par le ministre, est erronée :
+d) Puisque le prix de vente de la propriété minière était de 140 000 $ et que le nombre d’actions émises par Mirabel en contrepartie de cette vente était de 350 000, la valeur de chacune des actions était donc de 0,40 $ au 2 décembre 2003.
+Cette conclusion n’est pas logique. Aucune preuve acceptable n’a été présentée en ce qui a trait à la valeur marchande de la propriété et à la valeur marchande des actions.
+e) […] la valeur de 100 000 actions Mirabel était de 40 000 $ (100 000 actions x 0,40 $/action) au moment où l’appelant a rendu ses services à 9098-3016 Québec inc. le 2 décembre 2003.
+[17] L’hypothèse du ministre selon laquelle les actions valaient 0,40 $ l’unité relève de la conjecture. La valeur de 0,40 $ par action attribuée par Mirabel en décembre 2003, et acceptée par le ministre est un chiffre plus mythique que réel. Pour la présente analyse, j’interprète le mot « somme », tel qu’il est utilisé à l’alinéa 12(1)b), comme signifiant la « valeur »[8] des actions en date du 2 décembre 2003. J’accepte la preuve de l’appelant voulant que la valeur des actions ne s’élevait pas à 40 000 $. En 2003, les actions n’avaient pas été émises. Les actions inexistantes n’avaient pas de valeur marchande apparente. Il n’y avait aucune preuve que la somme de 40 000 $ était une somme « à recevoir par le contribuable au titre de la vente de biens ou de la fourniture de services au cours de l’année [9]» 2003.
+[18] L’avocate du ministre soutient que la position de l’appelant n’aide pas ce dernier en raison de la disposition déterminative au sous-alinéa 12(1)b)(i). L’appelant est réputé avoir reçu les actions pour des services qu’il a rendus :
+(i) le jour où a été remis le compte à l’égard des services,
+[…]
+[19] Le 2 décembre 2003 est la date de la vente du bien de laquelle est issue la somme à recevoir, représentée par les 100 000 actions. L’appelant a souligné que la valeur d’actions cotées en cent est instable et que, si les actions avaient été négociables (elles ne l’étaient cependant pas) en date du 2 décembre 2003, la valeur de 0,40 $ par action ne serait pas nécessairement demeurée fixe pendant toute de la journée. L’alinéa 12(1)b) indique comme suit :
+b) Sommes à recevoir − les sommes à recevoir par le contribuable au titre de la vente de biens ou de la fourniture de services au cours de l’année, dans le cours des activités d’une entreprise, même si les sommes, en tout ou en partie, ne sont dues qu’au cours d’une année postérieure, sauf dans le cas où la méthode adoptée par le contribuable pour le calcul du revenu tiré de son entreprise et acceptée pour l’application de la présente partie ne l’oblige pas à inclure dans le calcul de son revenu pour une année d’imposition les sommes à recevoir qui n’ont pas été effectivement reçues au cours de l’année; pour l’application du présent alinéa, une somme est réputée à recevoir pour services rendus dans le cours des activités de l’entreprise à compter du premier en date des jours suivants :
+(i) le jour où a été remis le compte à l’égard des services,
+(ii) le jour où aurait été remis ce compte si la remise n’avait pas subi un retard indu;
+[20] Rien n’est venu prouver qu’un compte avait été « remis », au sens des sous‑alinéas 12(1)b)(i) et (ii).
+[21] Tout au long de l’audience, j’ai tenu compte du fait que l’appelant n’avait aucune formation juridique et qu’il ne comprenait ni la Loi ni les règles de procédure. Il avait le droit d’agir en son propre nom.
+[22] À mon avis, une « personne raisonnable » en serait venue à la même conclusion, empreinte de bon sens, que celle à laquelle en est venu l’appelant. Pourquoi inclure dans son revenu un montant qui n’a pas réellement existé pendant l’année d’imposition 2003? Il n’est pas raisonnable de s’attendre à ce que l’appelant ait été au courant des dispositions déterminatives du paragraphe 12(1).
+[23] Pour ces motifs, l’appel est accueilli, et les dépens sont adjugés à l’appelant.
+Signé à Ottawa, Canada, ce 28e jour de février 2011.
+« C.H. McArthur »
+Juge McArthur
+RÉFÉRENCE : 2011 CCI 125
+Nº DU DOSSIER DE LA COUR : 2009-1884(IT)G
+INTITULÉ DE LA CAUSE : MARC BARIBEAU ET SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Rouyn-Noranda (Québec)
+DATE DE L’AUDIENCE : le 1 décembre 2010
+MOTIFS DU JUGEMENT PAR : L’honorable juge C.H. McArthur
+DATE DU JUGEMENT : le 28 février 2011
+COMPARUTIONS :
+Pour l’appelant :
+l’appelant lui-même
+Avocat de l’intimée :
+Me Chantal Roberge
+AVOCAT INSCRIT AU DOSSIER :
+Pour l’appelant:
+Nom : N/A
+Cabinet : N/A
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Paragraphe 152(3.1) de la Loi de l’impôt sur le revenu.
+[2] À ce temps, Mirabel était nommé Rocmec Mining Inc. Un litige entre l’appelant et d’autres parties a engendré le retard de plus de quatre ans.
+[3] Voir les pages 10 et 11 et 22 à 25 de la transcription.
+[4] Voir les pages 24 et 25 de la transcription, lignes 23 et 24.
+[5] L’article 35 décrit le traitement fiscal des droits miniers [. . .]
+Au moment de la disposition, le prospecteur doit inclure dans son revenu une somme correspondant au moindre de la juste valeur marchande des actions au moment de l’échange ou au moment de leur disposition [. . .] (tiré de la transcription du procès, page 156, lignes 1 et 2, 15 à 21.)
+[6] Transcription du procès, page 101, lignes 15 à 17.
+[7] Sa déclaration de revenu pour l’année d’imposition 2005 fait état d’un gain brut de plus de 215 000 $ en transactions d’actions de plus de 50 sociétés, dont Ressources Pardon Inc., Kinross Gold Corporation et Levon Resources.
+[8] The Canadian Oxford Dictionary (1998).
+[9] Alinéa 12(1)b) de la Loi de l’impôt sur le revenu.

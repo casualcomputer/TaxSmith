@@ -1,0 +1,129 @@
+Title: Ivens c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28189/index.do
+Corpus path: corpus/cases/tcc/2003/2003-cci-910-28189-ivens-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2003-12-05
+
+# Ivens c. La Reine
+
+- Citation: 2003 CCI 910
+- Decision date: 2003-12-05
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1970, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Ivens c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-12-05
+Référence neutre
+2003 CCI 910
+Numéro de dossier
+2003-2062(IT)I
+Juges et Officiers taxateurs
+Alban Garon
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2003‑2062(IT)I
+ENTRE :
+SHAWN L. IVENS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Requête instruite les 27 et 28 novembre 2003, à Vancouver (Colombie‑Britannique).
+Devant : L’honorable Alban Garon, juge en chef
+Comparutions :
+Pour l’appelant :
+L’appelant lui‑même
+Avocat de l’intimée :
+Me Gavin Laird
+____________________________________________________________________
+ORDONNANCE
+Vu la requête présentée par l’avocat de l’intimée pour que soit rendue une ordonnance rejetant l’appel interjeté de la nouvelle cotisation d’impôt sur le revenu établie pour l’année d’imposition 1998;
+Et vu les allégations des parties;
+La requête est accordée.
+Le prétendu appel formé contre la nouvelle cotisation d’impôt sur le revenu établie pour l’année d’imposition 1998 est annulé, conformément aux motifs de l’ordonnance.
+Signé à Ottawa, Canada, ce 5e jour de décembre 2003.
+« Alban Garon »
+Juge en chef Garon
+Traduction certifiée conforme
+ce 26e jour de mars 2009.
+Aleksandra Koziorowska, LL.B.
+Référence : 2003CCI910
+Date : 20031205
+Dossier : 2003‑2062(IT)I
+ENTRE :
+SHAWN L. IVENS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+MOTIFS DE L’ORDONNANCE
+Le juge en chef Garon
+[1] L’intimée a présenté une requête pour que soit rendue une ordonnance annulant l’appel formé contre la nouvelle cotisation d’impôt sur le revenu établie pour l’année d’imposition 1998.
+[2] Comme il est indiqué dans l’avis de requête daté du 19 septembre 2003, la requête se fonde sur le fait que l’une des conditions préalables au dépôt d’un appel valide n’a pas été remplie, parce que :
+1. L’appelant n’a pas signifié, dans le délai prévu par le paragraphe 165(1) de la Loi de l’impôt sur le revenu (la « Loi »), un avis d’opposition à l’avis de nouvelle cotisation pour l’année 1998 daté du 1er juin 2001; et
+2. L’appelant n’a pas, dans le délai prévu par le paragraphe 169(1) de la Loi, interjeté appel directement auprès de la Cour canadienne de l’impôt concernant la nouvelle cotisation établie le 1er juin 2001 conformément au paragraphe 165(7) de la Loi.
+[3] Les faits principaux concernant cette requête, qui sont exposés dans l’affidavit de M. A.K.W. Chan, annexé à l’avis de requête daté du 19 septembre 2003, pourraient être résumés ainsi :
+1. Le 8 mars 2001, le ministre du Revenu national (le « ministre ») a établi une première cotisation à l’égard de l’appelant en incluant dans le revenu de celui‑ci un revenu d’emploi de 17 875 $ et des paiements d’assistance sociale se chiffrant à 621 $.
+2. Par lettre datée du 5 avril 2001, l’appelant s’est opposé à la cotisation susmentionnée.
+3. Le 1er juin 2001, le ministre a établi une nouvelle cotisation à l’égard de l’appelant pour son année d’imposition 1998, en lui permettant de déduire des intérêts de 150 $ qu’il a payés sur ses prêts étudiants, ainsi qu’en lui accordant un crédit de taxe sur les ventes provincial au montant de 50 $.
+4. Par lettre datée du 31 juillet 2001, le ministre a informé l’appelant que, s’il était en désaccord avec la nouvelle cotisation datée du 1er juin 2001, il devait :
+a) soit déposer un avis d’opposition,
+b) soit interjeter appel directement auprès de la Cour canadienne de l’impôt dans un délai de 90 jours après la mise à la poste de la nouvelle cotisation.
+5. Le 3 septembre 2002, l’appelant s’est opposé à la nouvelle cotisation du 1er juin 2001 établie pour son année d’imposition 1998.
+6. Le 24 mars 2003, l’appelant a déposé un avis d’appel où il est fait référence aux années d’imposition 1998 et 1999.
+Analyse
+[4] J’examinerai maintenant la manière dont il convient d’appliquer aux faits les dispositions de la Loi portant sur le délai à l’intérieur duquel un avis d’opposition doit être signifié au ministre, et sur le délai à l’intérieur duquel un avis d’appel doit être déposé auprès de la Cour canadienne de l’impôt.
+Avis d’opposition
+[5] Le paragraphe 165(1) de la Loi prévoit que, s’agissant d’un particulier, l’avis d’opposition doit être signifié au ministre « au plus tard le dernier en date des jours suivants :
+(i) le jour qui tombe un an après la date d’échéance de production qui est applicable au contribuable pour l’année,
+(ii) le 90e jour suivant la date de mise à la poste de l’avis de cotisation. »
+[6] L’expression « date d’échéance de production », qui est définie au paragraphe 248(1) de la Loi, renvoie en général, dans le cas d’un particulier, à la période prenant fin le 30 avril de l’année qui suit immédiatement l’année pour laquelle la déclaration de revenu doit être produite. Je désignerai ci‑après la période à l’intérieur de laquelle il faut procéder à la signification d’un avis d’opposition comme la période normale.
+[7] Par conséquent, dans la présente affaire, la date d’échéance de production applicable à l’appelant pour sa déclaration de revenu pour 1998 était le 30 avril 1999. Un an après la date d’échéance de production qui est applicable au contribuable signifie donc le 30 avril 2000. L’autre date mentionnée au paragraphe 165(1) de la Loi est celle qui correspond au 90e jour suivant la date de mise à la poste de l’avis de cotisation. Ici, la date de mise à la poste était le 1er juin 2001, et il s’agit donc du 30 août 2001.
+[8] Il découle de ce qui précède que l’avis d’opposition, qui a été signifié le 3 septembre 2002, a été signifié plus d’un an après le dernier en date des deux jours mentionnés au paragraphe 165(1) de la Loi, le dernier en date des deux jours en question étant le 30 août 2001.
+[9] Cependant, l’article 166.1 de la Loi prévoit que, si un avis d’opposition n’a pas été signifié dans le délai imparti, le contribuable peut demander au ministre de proroger le délai, et le ministre peut proroger le délai si les conditions énoncées au paragraphe 166.1(7) de la Loi sont réunies. L’une des conditions est que la demande doit être présentée dans l’année suivant l’expiration du délai par ailleurs imparti pour le dépôt d’un avis d’opposition, ce qui voudrait dire en l’espèce dans l’année qui suivait le 30 août 2001, soit au plus tard le 30 août 2002. Ici, l’appelant a signifié son avis d’opposition le 3 septembre 2002, c’est‑à‑dire plus d’un an après l’expiration du délai par ailleurs imparti pour la signification d’un avis d’opposition. Par conséquent, aucune prorogation du délai ne pouvait être accordée par le ministre.
+[10] Une prorogation de délai pouvait aussi être accordée par la Cour canadienne de l’impôt. Cependant, la demande doit là aussi être présentée dans l’année suivant l’expiration du délai par ailleurs imparti pour la signification d’un avis d’opposition, comme cela est indiqué au paragraphe 166.2(5) de la Loi.
+[11] Par conséquent, aucune prorogation du délai de signification d’un avis d’opposition ne pouvait être accordée dans la présente affaire par la Cour ou par le ministre pour l’année d’imposition 1998, parce que la demande de prorogation de délai a été présentée trop tard, c’est‑à‑dire plus d’un an après l’expiration du délai par ailleurs imparti pour la signification d’un avis d’opposition au ministre.
+Avis d’appel
+[12] Après réception de l’avis de nouvelle cotisation daté du 1er juin 2001, l’appelant avait aussi la possibilité d’interjeter appel directement auprès de la Cour canadienne de l’impôt à l’encontre de la nouvelle cotisation en cause, sans signifier un deuxième avis d’opposition pour l’année d’imposition 1998. Cela est autorisé par le paragraphe 165(7) de la Loi.
+[13] Le paragraphe 169(1) de la Loi prévoit qu’aucun appel ne peut être interjeté après l’expiration des 90 jours qui suivent la date à laquelle l’avis de nouvelle cotisation a été envoyé par la poste au contribuable. L’article 167 de la Loi prévoit que, si un appel n’a pas été interjeté par le contribuable à l’intérieur du délai imparti, ce que j’appelle le « délai normal » pour faire appel, le contribuable peut présenter à la Cour une demande de prorogation de délai, ainsi que le prévoit le paragraphe 167(1) de la Loi.
+[14] La demande de prorogation du délai imparti pour faire appel d’une cotisation pourra être accordée par la Cour si certaines conditions sont réunies. L’une des conditions est que la demande soit présentée dans l’année suivant l’expiration du délai normal.
+[15] En l’espèce, la nouvelle cotisation a été établie le 1er juin 2001 et l’appel a été déposé le 24 mars 2003.
+[16] Le délai normal pour faire appel aurait été les 90 jours suivant la nouvelle cotisation du 1er juin 2001. L’appel devait donc être interjeté avant le 31 août 2001, et la demande de prorogation de délai ne pouvait pas être présentée après le 30 août 2002. Il en résulte que l’appel a été interjeté plus de sept mois après la date la plus éloignée avant laquelle une demande de prorogation du délai imparti pour faire appel pouvait être présentée.
+[17] Il découle de ce qui précède que l’appelant a dépassé le délai de signification d’un avis d’opposition à la nouvelle cotisation établie le 1er juin 2001 pour l’année d’imposition 1998, et dépassé le délai imparti pour faire appel de ladite nouvelle cotisation. Il n’a pas non plus respecté le délai prévu pour le dépôt d’une demande de prorogation du délai imparti pour signifier un avis d’opposition ou du délai imparti pour interjeter appel auprès de la Cour à l’encontre de la nouvelle cotisation du 1er juin 2001.
+[18] Par conséquent, la requête est accordée et le prétendu appel formé contre la nouvelle cotisation d’impôt sur le revenu établie pour l’année d’imposition 1998 est annulé.
+Signé à Ottawa, Canada, ce 5e jour de décembre 2003.
+« Alban Garon »
+Juge en chef Garon
+Traduction certifiée conforme
+ce 26e jour de mars 2009.
+Aleksandra Koziorowska, LL.B.
+N° DU DOSSIER DE LA COUR : 2003‑2062(IT)I
+INTITULÉ : Shawn L. Ivens et
+Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Vancouver (Colombie‑Britannique)
+DATE DE L’AUDIENCE : Les 27 et 28 novembre 2003
+MOTIFS DE L’ORDONNANCE : L’honorable Alban Garon, juge en chef
+DATE DE L’ORDONNANCE : Le 5 décembre 2003
+COMPARUTIONS :
+Pour l’appelant : L’appelant lui‑même
+Avocat de l’intimé : Me Gavin Laird
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimé : Morris Rosenberg
+Sous‑procureur général du Canada
+Ottawa, Canada

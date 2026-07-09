@@ -1,0 +1,172 @@
+---
+title: "Xu v. The King"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/521110/index.do"
+last_modified: "2022-09-28"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2022 TCC 108"
+citation2: ""
+neutral_citation: "2022 TCC 108"
+decision_date: "2022-09-28"
+language: "en"
+item_id: "521110"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5833
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2023-12-01T11:30:47.683000+00:00"
+cases_cited_count: 2
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "b33f8c5b048874831281c79038e6ee2f35cd91a6b94f4c91be7b631596846292"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Xu v. The King
+
+- Citation: 2022 TCC 108
+- Decision date: 2022-09-28
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5833, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Xu v. The King
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2022-09-28
+Neutral citation
+2022 TCC 108
+File numbers
+2021-1015(GST)I
+Judges and Taxing Officers
+Randall S. Bocock
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Dockets: 2021-1015(GST)APP
+BETWEEN:
+BRYAN LEI XU, SHAO YUN XU,
+Applicant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+Application heard on August 16, 2022, at Toronto, Ontario
+Before: The Honourable Mr. Justice Randall S. Bocock
+Appearances:
+Counsel for the Appellant:
+Jason C. Rosen James Pendergast
+Counsel for the Respondent:
+Eric Myles
+ORDER
+WHEREAS the Court has published its reasons for Order on this date;
+NOW THEREFORE THE APPLICATION to extend the time to file a notice of objection to a notice of reassessment dated August 26, 2019 with respect to a GST/HST New Residential Rental Property Rebate made under the Excise Tax Act, RSC 1985, c. E-15, as amended (the “ETA”), is dismissed on the basis that a valid notice of objection had been served on the Minister’s agents on September 4, 2019.
+AND FURTHER the Appellants shall have until October 31, 2022 to file and serve an amended notice of appeal, if desired, and thereafter, the Respondent shall have until January 3, 2023 to file her reply.
+Signed at Calgary, Alberta, this 28th day of September, 2022.
+“R.S. Bocock”
+Bocock J.
+Citation: 2022 TCC 108
+Date: 20220928
+Dockets: 2021-1015(GST)APP
+BETWEEN:
+BRYAN LEI XU, SHAO YUN XU,
+Applicant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+REASONS FOR ORDER
+Bocock J.
+I. FACTS AND BACKGROUND [1] On November 20, 2015, the Minister paid the Applicants, Mr. and Mrs. Xu, a new residential rental unit rebate (“rebate”) in relation to the Excise Tax Act, RSC 1985, c. E-15, as amended (the “ETA”).
+[2] In 2018 and 2019, the Minister conducted a follow-up audit of the Applicants’ books and records related to the rebate and related unit. The Minister’s agents (the “CRA”) needed more documents and information. The CRA felt the time for a response was sufficient, but that the information was not. So, on June 19, 2019, the CRA gave the Applicants 30 days to further supplement the information. On July 19, 2019, the CRA closed the audit with a final warning letter indicating if the final request was not answered to its satisfaction, the Applicants would be reassessed.
+[3] On August 26, 2019, the Minister reassessed (the “reassessment”) the Applicants for the full amount of the previously paid rebate plus accrued interest.
+[4] Of critical importance to this application and the Applicants’ potential appeal was a communication or submission sent to the CRA on September 4, 2019 (the “submission”). The submission contained some 10 documents comprising many pages and a brief covering letter. The documents, more or less, fulfilled the CRA’s document “wish list” of June, 2019. The relevant contents of the covering letter dated September 4, 2019 (“reassessment request”), stated as follows:
+September 4, 2019
+Michael Wong Excise Tax Examiner GST/HST Refund Integrity Section Compliance Programs Branch
+Dear Mr. Wong,
+Subject: Request for re-assessment of Case #50499531
+I am writing to request a re-assessment of case #50499531. I understand that I have missed the August 18th deadline to submit all the requested documents. I got confused by the submission process and only just realized that I am not able to register the business number associated (BN: 79842 1723 RT0001) to my CRA online account. I am therefore faxing the documents in. I don’t wish to just make excuses, but to provide the actual documents required from the initial audit request.
+Out of the 10 requested documents, I don’t have the following 2: 5. Bank statements – as previously mentioned to you on the phone, the bank account I used then was closed and I don’t have the transaction details.
+[…]
+8. Statement of Adjustment – I couldn’t find the document.
+Please accept my apology in not providing you with the required documents in a timely manner. Thank you for your help!
+Sincerely yours,
+Bryan Lei Xu
+[5] After sending the submissions, Mr. Xu confirmed receipt by the CRA. He had a fax confirmation receipt. Thereafter, he also spoke with CRA representatives. There is no dispute regarding: i) these certain conversations; ii) the CRA’s receipt of the submissions; or, iii) that the Applicants did not file an application to extend the time to file a notice of objection until January 22, 2021.
+[6] The Minister refused the application on the basis that:
+a)No notice of objection (“objection”) to the reassessment had been filed before November 25, 2019 pursuant to subsection 301(1.1) of the ETA;
+b)No application to extend the time to file a notice of objection (“application to extend”) had been filed before November 25, 2020 pursuant to subsection 303(7) of the ETA.
+[7] At a very high level, the issue is whether the Applicants have filed an objection with the Minister on or before November 25, 2019 or an application to extend within the further one-year period, on or before November 25, 2020.
+[8] The general grounds for the application by the Applicants are that the (September 4, 2019) submission is an objection by any other name: the reassessment request and the enclosures otherwise contain all the requisite hallmarks of an objection.
+[9] In opposition, the Respondent says the submission lacks any critical nexus or reference to the reassessment and is a mere apologia for the late filed documents responsive to the audit wish list.
+II. ISSUES [10] So the Court confronts the narrower issue: is the reassessment request an objection sufficient for the purposes of subsection 301(1.1) of the ETA? Distilled even further, the highly magnified issue is revealed: is a subsequent covering letter that “request[s] a reassessment of case #50499531” but does not specifically reference the reassessment notice, its date or its existence, suffice as an objection to that reassessment notice?
+[11] Counsel agree that these constitute the general, specific and highly refined issue and sub-issues in this application. Counsel also agree with the Court’s conveyed view that should the Court conclude the reassessment request is insufficient, then the application ought to be dismissed.
+[12] Asymmetrically however, counsel agree with the Court’s conclusion that if the reassessment request constitutes an objection, then the application should still be dismissed because it is unneeded. The timing of the reassessment request falls with the 90 day “as of right” objection period under section 301 of the ETA. If the objection was filed, the Minister was required to consider it. If the Minister did not, within the period of 180 days required under subsection 306(b), then the appeal may be directly brought before this Court, subject to the Respondent’s right to file a reply.
+III. THE PARTIES’ SUBMISSIONS [13] Applicant’s counsel submitted various arguments, summarized by the Court below:
+The Applicants exhibited a constant, consistent and unabated position that the Minister’s position was incorrect and a reassessment of the position should occur. The reassessment request itself referenced the correct dispute, issues and materials;
+The CRA itself received the request for reassessment and partially processed it but never issued a confirmation notice or reassessment;
+Even after the request for reassessment and submissions, the Applicants further submitted other documents because they anticipated an ultimate response;
+Subsection 301(2) of the ETA specifically allows the Minister “to accept a notice of objection notwithstanding that it was not filed in the prescribed form”;
+The authorities indicate the actual form is not essential and substance not precision should carry the day: Randall v HMQ, 2008 TCC 621 at paragraph 7.
+[14] The issue is whether the spirit of the provision requiring identification of the contest of the (re)assessment has been complied with such that the Minister receives and notes the dispute: Lesler v. HMQ, 2004 CarswellNat 5489 at paragraph 8.
+[15] Similarly, the dispute between the CRA, on behalf of the Minister, and the taxpayer is critical to determining whether there has been an objection to the assessing position. A request to reassess the Minister’s position depends on whether an action “in opposition” or “disapproval, disagreement or dislike” has been initiated: Schneidmiller v. HMQ, 2009 TCC 354 at paragraphs 7, 8 and 9.
+[16] In totality, the Applicants filed their opposition to the reassessment within two weeks of its sending with the clear and prominent request “I am writing to request a reassessment of case #50499531”.
+[17] In rebuttal, Respondent’s counsel states:
+The request for reassessment was a belated attempt to comply with the CRA’s document wish list and apologize for missing the deadline. Conclusively, this is not an objection but a request for readjustment and it will not suffice;
+Quite apart from continuous opposition to the reassessment, the Applicants appeared to have been inconsistent in attention over the months following September, 2019;
+The conditions for a valid objection or extension have simply not been met. The reassessment was sent. No discernible objection was received within the prescribed time. No application to extend was received within the prescribed time. The mailing of the notice of assessment is the critical point of commencement. The balance of deadlines follow that point in sequence: Aztec Industries Inc. v. Canada, 1995 CarswellNat 278 at paragraphs 10 and 11.
+IV. ANALYSIS AND DECISION [18] Hundreds of applications to extend the time to file an objection or appeal come before the Tax Court each year, whether under the ETA or the Income Tax Act.
+[19] Of critical focus is whether a taxpayer simply ignored, missed, did not read or understand that a genuine dispute, disagreement and (re)assessment for tax was in contest. Factually, this application is not a situation involving those unfortunate and careless omissions and oversights of a taxpayer. The Court notes this because such omissions and oversights of a taxpayer should not impact or prejudice the Minister. The Minister has a legal right and statutory duty to close a tax period, year or assessment once a taxpayer is (re)assessed, where no dispute or contest exists.
+[20] Factually, that is not what occurred in this matter. There was an active dispute. The Minister acted decisively (some inaccurately might say hastily) during the representations phase to conclude the audit and reassess. After doing so, the taxpayer wrote the Minister’s agents and said… “I am writing to request a re-assessment of case #50499531”. The “re: line” in the letter states boldly “subject: Request for re-assessment of case #50499531”. Whether by serendipity, luck or otherwise the reassessment request was sent within the 90-day period required by section 301 of the ETA.
+[21] And there is more, it does not end there. The Minister received it. The taxpayer confirms the Minister did. The Minister’s agent initiated dealing with the “reassessment”, but inexplicably stopped. There is no explanation for this: internally, in the CRA notes, externally, for the Applicant, or now, for the Court. Had the notes said, “…the taxpayer has been reassessed, this office has no further involvement”, one might understand. Instead, Mr. Xu continues to inquire. At some point after time elapses, the Minister’s tack changes. The Applicants efforts became late and in vain.
+[22] The Court cannot abide this. The Minister’s receipt of the submission communication with two weeks of the reassessment is precisely how the system should work. The form was not usual, but there is no prescribed form.
+[23] The content was not perfectly organized or complete, but it was better than most. The date of reassessment was not present, but the mandatory file reference number for submitting documents during representations certainly was. The nomenclature was not exact, but it more than implicitly concludes a reassessment had occurred because before August 26, 2019, no reassessment had been made.
+[24] Frequently, where one stands depends on where one sits. The Minister’s agent filed an affidavit with no reference to the ongoing active dispute during the summer 2019 or the Applicants’ submissions. This allowed Respondent’s counsel to say: reassessment sent; no responsive objection and no timely application; the Minister has a right and duty to move on and the Minister should not be prejudiced. The Applicants take an equally unequivocal, but opposite view.
+[25] In the middle ground lies a fairer characterization. In early and mid 2019, an active dispute was ongoing, arising from an audit. Mr. Xu missed a deadline for representations. The Minister reassessed. Within days Mr. Xu wrote, “I request a reassessment”. He confirmed the Minister received it. He followed up. The Minister’s agents noted this in the file. The agents discussed the file, after the reassessment, after the submissions, and after the follow-up. They closed the file in toto. The appeals section, months later, said “too late”, the Minister has no knowledge of an objection, submission or dispute. Further, Applicants, you missed the application deadline.
+[26] This Court fundamentally upholds that taxpayers should attend to their tax affairs and be responsive to audits, requests, reassessments and the like. Likewise, the Minister shall not be prejudiced by unilateral omissions, ignorance or carelessness of taxpayers. By similar measure, prejudice cannot occur where active engagement, receipt and acknowledgment of the very thing sought in the time demanded occurs. Weighing the rights and wrongs is not necessary. The Minister was not confused, prejudiced or blindsided. Her agents simply closed the file and put away all recollection of the dispute when swearing affidavits before this Court. While ignoring those facts was an option in late 2019, and 2020 and during the COVID pandemic, it is not now.
+V. CONCLUSION AND COSTS [27] This matter is resolved on its unique facts. The submission, dated two weeks after the notice of reassessment, while not perfectly detailed, was sufficient to initiate the objection process responsive to an audit and conclusions already in active dispute. The Minister’s agents uncertainly considered it and gave the Minister the benefit of the doubt. They were entitled to do so, then. The Court gives the Applicants the benefit of the doubt, now. Technically, the application is dismissed. More importantly, the notice of objection pursuant to section 301(1.1) of the ETA was received shortly after September 4, 2019 in the form of the reassessment request. The Minister has not considered the objection as she should have done. Therefore, through effluxion of time under subsection 306(b), the appeal is properly before this Court.
+[28] The Court observes the length of time, the COVID disruptions to sittings and the fact that the Applicants now have counsel. Therefore, the Appellants shall have 30 days to file an amended notice of appeal, if any. The Respondent shall have 60 days to file a Reply. After January 2023, registry may place the matter on the docket at Toronto.
+Signed at Calgary, Alberta, this 28th day of September, 2022.
+“R.S. Bocock”
+Bocock J.
+CITATION:
+2022TCC108
+COURT FILE NO.:
+2021-1015(GST)APP;
+STYLE OF CAUSE:
+BRYAN LEI XU, SHAO YUN XU AND HIS MAJESTY THE KING
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+August 16, 2022
+REASONS FOR ORDER BY:
+The Honourable Mr. Justice Randall S. Bocock
+DATE OF ORDER:
+September 28, 2022
+APPEARANCES:
+Counsel for the Appellant:
+Jason C. Rosen James Pendergast
+Counsel for the Respondent:
+Eric Myles
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Blank
+Firm:
+Blank
+For the Respondent:
+François Daigle Deputy Attorney General of Canada Ottawa, Canada

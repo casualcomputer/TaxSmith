@@ -1,0 +1,154 @@
+---
+title: "Izkendar v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/99523/index.do"
+last_modified: "2014-11-18"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2014 TCC 344"
+citation2: ""
+neutral_citation: "2014 TCC 344"
+decision_date: "2014-11-18"
+language: "en"
+item_id: "99523"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5229
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T09:27:25.478000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "1f9e750b9036fface5d8e04a4eb545c50f303a5c3d75e11a90fe23397b11a53f"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Izkendar v. The Queen
+
+- Citation: 2014 TCC 344
+- Decision date: 2014-11-18
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5229, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Izkendar v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2014-11-18
+Neutral citation
+2014 TCC 344
+File numbers
+2013-220(IT)I
+Judges and Taxing Officers
+Robert James Hogan
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2013-220(IT)I
+BETWEEN:
+MARTIN IZKENDAR,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on September 16, 2014, at Vancouver, British Columbia.
+Before: The Honourable Justice Robert J. Hogan
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Selena Sit
+Christa Akey
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act for the 2007 taxation year is dismissed in accordance with the attached reasons for judgment.
+Signed at Ottawa, Canada, this 18th day of November 2014.
+“Robert J. Hogan”
+Hogan J.
+Citation: 2014 TCC 344
+Date: 20141118
+Docket: 2013-220(IT)I
+BETWEEN:
+MARTIN IZKENDAR,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Hogan J.
+I. Overview [1] The Appellant, Martin Izkendar, is appealing a reassessment of his 2007 taxation year by which the Minister of National Revenue (the “Minister”) disallowed his claim for a charitable donation as follows:
+Taxation Year
+Net Income as Reported
+Donation Claimed
+Donation Disallowed
+2007
+$28,471.50
+$7,315
+$7,315
+[2] The Minister alleges that the Appellant purchased a false charitable donation receipt from his accountant, Saheem Raza, who, together with his brother, Fareed Raza (the “Raza Brothers”), offered tax and accounting services under the trade names Fareed Raza & Co. Inc. and F & A Accounting Corporation (“FA”). The Raza Brothers were charged with fraud for making false statements on income tax returns prepared by them for their clients.
+II. Factual Background [3] The Appellant testified that Saheem Raza (“Mr. Raza”) introduced him to the Mehfuz Children Welfare Trust (the “Mehfuz Trust”). He encouraged the Appellant to make a $7,315 cash donation to the Mehfuz Trust. According to the Appellant, Mr. Raza offered his assistance to transfer the funds to the Mehfuz Trust and obtain an official receipt on the Appellant’s behalf.
+[4] The Appellant acknowledged that he met Mr. Raza for the first time in 2008 when he dropped off his information returns that were subsequently used by Mr. Raza to prepare his 2007 return.
+[5] On cross-examination, the Appellant acknowledged that he had no direct dealings with the Mehfuz Trust. He could not explain why he considered that a gift allegedly made in 2008 could qualify as an eligible gift for his 2007 taxation year.
+[6] Ms. Jane Yang, an investigator with the enforcement division at the Vancouver Tax Services Office of the Canada Revenue Agency testified on behalf of the Respondent. In October of 2008, while attending an internal training session in Toronto, Ms. Yang learned that one of her colleagues in Toronto was having success in uncovering schemes used by tax preparers to sell forged charitable donation receipts to their clients.
+[7] On her return to Vancouver, Ms. Yang discovered that a number of clients of FA appeared to have made large donations to the Mehfuz Trust. The donation pattern appeared to be abnormal. The taxpayers were donating a significant portion of their net income to the Mehfuz Trust.
+[8] A criminal investigation was launched and a seizure was conducted at FA’s offices on July 14, 2010. The seized documents included receipts from the Mehfuz Trust, which Ms. Yang believed were forged, and Mr. Raza’s desk calendar. The calendar contained annotations that suggested that Mr. Raza was recording amounts that he was receiving in return for caregiver and donation receipts. Ms. Yang was able to establish that, in many cases, the amount indicated on the calendar alongside a client’s name represented from 8% to 11% of the amount claimed on the client’s return as a gift to the Mehfuz Trust. Ms. Yang also observed that the receipts for the Mehfuz Trust seized at the FA offices were different from the official receipts issued by the Mehfuz Trust.
+[9] As a result of her investigation, Ms. Yang concluded that the Raza Brothers had forged donation receipts totalling approximately $12,000,000. Ms. Yang estimated that this scheme resulted in a loss of tax revenue of approximately $4,700,000.
+[10] Mr. Mashud Miah, the chairman and founder of the Mehfuz Trust, also testified on behalf of the Respondent. Mr. Miah was born in Bangladesh and immigrated to Canada in 1985. In addition to his duties at the Mehfuz Trust from 2001 to 2009, Mr. Miah worked as a cleaner.
+[11] Mr. Miah explained that the Mehfuz Trust was named after his son, Mehfuz, who was born prematurely at a hospital in Vancouver. He believes that had his son been born prematurely in Bangladesh he likely would not have survived. In 1997, Mr. Miah was involved in two serious car accidents, and the treatment he received while in hospital again made him recognizant of the quality of health care services provided at Canadian hospitals. These events inspired him to establish the Mehfuz Trust in 2000-2001, with the assistance of Fareed Raza, as a vehicle to raise funds in Canada for the purpose of building and operating a medical clinic in Bangladesh. According to Mr. Miah, the clinic was built, and it offered health care to poor and handicapped children from 2003 to 2009. The clinic’s operations were abandoned in 2009 after the Mehfuz Trust became tainted by the controversy surrounding the actions of the Raza Brothers.
+[12] Mr. Miah alleges that in 2008 he discovered Saheem Raza forging charitable donation receipts of the Mehfuz Trust on entering Saheem’s office, which he was to clean as part of his cleaning services arrangement with FA. He testified that he saw Saheem signing his (Mr. Miah’s) name to a receipt. He subsequently saw forged receipts lying around the office. In the spring of 2008, after consulting with a lawyer, he reported to the CRA that he suspected that the Raza Brothers were forging charitable donation receipts in the name of the Mehfuz Trust. Mr. Miah testified that he stopped using FA’s accounting services in 2007 as a result of his suspicions regarding the Raza Brothers’ improprieties.
+III. Analysis [13] The Respondent presented common evidence in this appeal and the appeals of Jose Vekkal (2013-882(IT)I), Remmy Vekkal (2013-883(IT)I), Azim Bani (2012-3541(IT)I), Ruben Nocon (2013‑635(IT)I), Iraj Rasuli (2013-886(IT)I), Khorshid Rasuli (2013-887(IT)I), Ladan Abootaleby-Pour (2013‑1779(IT)I) and Oleg Komarynsky (2013-3354(IT)I).
+[14] At the conclusion of the hearing of this appeal, an issue arose as to whether the evidence presented by the other eight appellants or obtained by the Respondent through the cross-examination of those appellants should form part of the record of the Appellant’s appeal. I observe that the order issued by the case management judge did not deal with this question in setting down the appeal for hearing. I also note that the Appellant was not served with the pleadings in the other appeals and he did not partake in the examination or cross-examination of the other appellants. Therefore, I will disregard the evidence of the other appellants for the purpose of disposing of this appeal.
+[15] In any event, I did not find that evidence particularly relevant for the purpose of deciding this matter.
+[16] For the sake of brevity, I incorporate by reference my credibility findings with respect to Ms. Yang’s and Mr. Miah’s evidence as set out in paragraphs 24, 25, 26 and 27 of the reasons for judgment in the appeals of Jose Vekkal (2013‑882(IT)I) and Remmy Vekkal (2013-883(IT)I) released on the same date as these reasons for judgment.
+[17] The Appellant’s 2007 tax return was reassessed beyond the normal reassessment period. Therefore, the Respondent has the onus of establishing that the Appellant made with respect to the donation he claimed for that year a misrepresentation attributable to neglect, carelessness or wilful default. For the reasons outlined below, I am satisfied that the Respondent has met her onus in this regard.
+[18] First, I do not believe that the Appellant was in a financial position to make the alleged donation. The Appellant reported a net income of $28,471.50 and claimed an alleged donation of $7,315. The donation claim represented 25.7% of his net income. He testified that he had $7,315 in cash savings stored in his home, but provided no explanation as to the source of those funds.
+[19] The alleged gift is also inconsistent with the Appellant’s prior donation history. The evidence shows that from 2000 to 2013, other than the alleged donation in dispute in this appeal, the Appellant donated only $385, and that was in 2006. It is implausible that the Appellant would have given Mr. Raza $7,315 in cash to donate to a charity that he had only just learned about for the first time from Mr. Raza.
+[20] The Appellant admitted that he paid the cash to Mr. Raza in 2008. However, he claimed a deduction in respect of the alleged donation for his 2007 taxation year. This is clearly a misrepresentation because if the alleged gift was made in 2008 it was not an eligible gift for 2007.
+[21] Finally, it is insufficient for the Appellant to deny responsibility on the grounds that he placed his trust in a third party preparer of income tax returns. A misrepresentation was made in his return and the Appellant was negligent or wilfully blind in failing to review that return.
+[22] After considering all of the evidence, I am satisfied that the Appellant knowingly purchased a false donation receipt from the Raza Brothers in 2008 for a fraction of the amount shown on the receipt. Therefore, the Appellant made a false representation in respect of the donation claim disallowed by the Minister for his 2007 taxation year. Consequently, the Minister was justified in reassessing the Appellant beyond the normal reassessment period.
+[23] For these reasons, the reassessment is upheld and the appeal is dismissed.
+Signed at Ottawa, Canada, this 18th day of November 2014.
+“Robert J. Hogan”
+Hogan J.
+CITATION:
+2014 TCC 344
+COURT FILE NO.:
+2013-220(IT)I
+STYLE OF CAUSE:
+MARTIN IZKENDAR v. HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Vancouver, British Columbia
+DATE OF HEARING:
+September 16, 2014
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Robert J. Hogan
+DATE OF JUDGMENT:
+November 18, 2014
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Selena Sit
+Christa Akey
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

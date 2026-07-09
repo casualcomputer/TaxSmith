@@ -1,0 +1,220 @@
+---
+title: "Sirivar c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/66554/index.do"
+last_modified: "2014-01-22"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2014 CCI 24"
+citation2: ""
+neutral_citation: "2014 CCI 24"
+decision_date: "2014-01-22"
+language: "fr"
+item_id: "66554"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5997
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T16:10:40.890000+00:00"
+cases_cited_count: 1
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "cc1fe37d388582124183ff43d373f1a6c0f8de96830834947f7484107d228772"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Sirivar c. La Reine
+
+- Citation: 2014 CCI 24
+- Decision date: 2014-01-22
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5997, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Sirivar c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2014-01-22
+Référence neutre
+2014 CCI 24
+Numéro de dossier
+2011-933(IT)I
+Juges et Officiers taxateurs
+Robert James Hogan
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossiers : 2011-933(IT)I
+2013-1563(IT)I
+ENTRE :
+ABBEY K. SIRIVAR,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels entendus le 8 novembre 2013, à Toronto (Ontario).
+Devant : L’honorable juge Robert J. Hogan
+Comparutions :
+Pour l’appelant :
+L’appelant lui‑même
+Avocate de l’intimée :
+Me Rita Araujo
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’encontre de la cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2008 est accueilli conformément aux motifs du jugement ci‑joints, et la cotisation est déférée au ministre du Revenu national pour qu’il procède à un nouvel examen et établisse une nouvelle cotisation de manière à ce que l’appelant puisse obtenir une déduction supplémentaire de 4 975 $ relativement aux frais de logement qu’il a supportés pour 2008. L’appel interjeté à l’encontre de la cotisation établie pour l’année d’imposition 2011 est rejeté conformément aux motifs du jugement ci‑joints.
+Signé à Montréal (Québec), ce 22e jour de janvier 2014.
+« Robert J. Hogan »
+Juge Hogan
+Traduction certifiée conforme
+ce 19e jour de février 2014.
+Espérance Mabushi, M.A. Trad. Jur.
+Référence : 2014 CCI 24
+Date : 20140122
+Dossiers : 2011-933(IT)I
+2013-1563(IT)I
+ENTRE :
+ABBEY K. SIRIVAR,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Hogan
+I. Introduction
+[1] Il s’agit d’un appel interjeté sous le régime de la procédure informelle à l’encontre de nouvelles cotisations établies en vertu de la Loi de l’impôt sur le revenu (la « LIR ») pour les années d’imposition 2008 et 2011 de l’appelant. La Cour est appelée à se prononcer sur la question de savoir si l’appelant, un agent de l’impôt à l’Agence du revenu du Canada (l’« ARC ») durant les périodes en cause, avait le droit de déduire en vertu de l’article 62 de la LIR certains frais à titre de frais de déménagement.
+II. Résumé des faits
+[2] De février 2002 à janvier 2008, l’appelant était un agent de l’impôt à l’ARC à Ottawa. Il résidait à Ottawa dans une maison en rangée dont il était propriétaire.
+[3] En janvier 2008, l’appelant a déménagé à Toronto pour occuper un nouveau poste auprès de l’ARC. Il a vécu à l’hôtel la première semaine. Par la suite, il a loué une chambre dans une résidence privée.
+[4] L’appelant a témoigné qu’il avait l’intention d’acheter une maison à Toronto, mais qu’il avait reporté l’achat, parce qu’il devait travailler à différents endroits. Pendant environ 20 semaines durant la période pertinente, l’appelant devait retourner à Ottawa pour travailler sur un dossier important qui était en appel. Il a n’obtenu un remboursement que pour huit semaines des 20 semaines au cours desquelles il avait engagé des frais de déplacement. En outre, pour la majeure partie de la période, il ne savait pas trop à quel bureau de l’ARC il devait se présenter à Toronto. En raison des prix élevés des logements à Toronto, l’appelant n’y avait pas acheté de maison en 2008.
+[5] En mars 2011, l’appelant a finalement vendu sa résidence d’Ottawa. Il a déduit environ 5 000 $ relativement à des frais liés à la propriété de la maison. Selon l’appelant, la résidence d’Ottawa était inoccupée en 2011. Dans les années antérieures, l’appelant avait loué des chambres à des membres de sa famille pour pouvoir couvrir les frais liés à la propriété de la maison. Son cousin, Tefiro Kyeyune, a témoigné qu’il avait déménagé de la résidence de l’appelant en 2010. Toutefois, il ne pouvait pas confirmer que la maison était inoccupée en 2011.
+[6] Le tableau suivant est un résumé des frais que l’appelant a déduits et dont la déduction a été refusée par le ministre du Revenu national (le « ministre ») :
+[traduction]
+Année
+Frais
+Montant déduit
+Montant accordé
+Montant en litige
+2008
+Location d’une chambre à Toronto
+5 250 $
+275 $
+4 975 $
+Neuf voyages à Ottawa
+677,57 $
+196,88 $
+480,69 $
+2011
+Frais liés à la propriété de la maison d’Ottawa
+5 000 $
+0 $
+5 000 $
+Frais de déplacement
+940,16 $
+0 $
+940,16 $
+Frais d’entreposage et de déménagement
+4 828,80 $
+4 268,80 $
+560 $
+III. Positions des parties
+[7] L’appelant soutient que les frais qu’il a déclarés sont déductibles à titre de frais de déménagement en vertu de l’article 62 de la LIR.
+[8] En ce qui concerne les frais dont la déduction a été refusée pour l’année d’imposition 2008, l’intimée soutient que l’alinéa 62(3)c) de la LIR limite les frais de logement à ceux qui ont été engagés pendant une période maximale de 15 jours, ce qui représente un montant de 275 $ en l’espèce. En outre, l’intimée fait valoir que les frais de déplacement dont la déduction a été refusée concernaient l’affectation de l’appelant et ne sont pas, par conséquent, admissibles en tant que frais de déménagement.
+[9] Quant aux frais dont la déduction a été refusée pour l’année d’imposition 2011, l’intimée affirme que les mêmes frais ont été déduits par l’appelant en tant que frais de location en 2010 et que la déduction a été accordée. En outre, l’appelant n’a pas réussi à démontrer que le bien était inoccupé en 2011.
+IV. Analyse
+[10] Le présent appel concerne l’application de l’article 62 de la LIR. Cette disposition est ainsi libellée :
+62(1) Frais de déménagement – Un contribuable peut déduire dans le calcul de son revenu pour une année d’imposition les sommes qu’il a payées au titre des frais de déménagement engagés relativement à une réinstallation admissible dans la mesure où, à la fois :
+a) elles n’ont pas été payées en son nom relativement à sa charge ou à son emploi ou dans le cadre ou en raison de sa charge ou de son emploi;
+b) elles n’étaient pas déductibles par l’effet du présent article dans le calcul de son revenu pour l’année d’imposition précédente;
+c) leur total ne dépasse pas le montant applicable suivant :
+(i) dans le cas visé au sous‑alinéa a)(i) de la définition de « réinstallation admissible » au paragraphe 248(1), le total des sommes représentant chacune une somme incluse dans le calcul du revenu du contribuable pour l’année tiré de son emploi au nouveau lieu de travail ou de l’exploitation de l’entreprise au nouveau lieu de travail ou une somme incluse dans le calcul de son revenu pour l’année par l’effet du sous‑alinéa 56(1)r)(v) relativement à son emploi au nouveau lieu de travail,
+(ii) dans le cas visé au sous‑alinéa a)(ii) de cette définition, le total des montants inclus dans le calcul du revenu du contribuable pour l’année par l’effet des alinéas 56(1)n) et o);
+d) les remboursements et allocations qu’il a reçus relativement à ces frais sont inclus dans le calcul de son revenu.
+(2) Frais de déménagement d’étudiants – Un contribuable peut déduire dans le calcul de son revenu pour une année d’imposition la somme éventuelle qu’il pourrait déduire en application du paragraphe (1) s’il n’était pas tenu compte du sous‑alinéa a)(i) de la définition de « réinstallation admissible » au paragraphe 248(1) et si l’alinéa b) de cette définition était remplacé par ce qui suit :
+« b) la résidence que le contribuable habitait ordinairement avant la réinstallation (appelée « ancienne résidence » à l’article 62 et au présent paragraphe) et celle qu’il habitait ordinairement après la réinstallation (appelée « nouvelle résidence » à l’article 62 et au présent paragraphe), ou l’une de ces résidences, sont situées au Canada; »
+(3) Frais de déménagement – Pour l’application du paragraphe (1), sont comprises dans les frais de déménagement toutes dépenses engagées au titre :
+a) des frais de déplacement (y compris les dépenses raisonnables pour repas et logement) engagés pour le déménagement du contribuable et des membres de sa maisonnée qui se transportent de l’ancienne résidence à la nouvelle résidence;
+b) des frais de transport et d’entreposage des meubles du contribuable qui doivent être transportés de son ancienne résidence à sa nouvelle résidence;
+c) des frais de repas et de logement, près de l’ancienne résidence ou de la nouvelle résidence, engagés par le contribuable et les membres de sa maisonnée pendant une période maximale de 15 jours,
+d) des frais de résiliation du bail en vertu duquel il était le locataire de son ancienne résidence;
+e) des frais relatifs à la vente de son ancienne résidence;
+f) lorsque le contribuable ou son époux ou conjoint de fait vend l’ancienne résidence par suite du déménagement, des frais, pour le contribuable, à l’égard des services juridiques relatifs à l’achat de la nouvelle résidence et des impôts, frais, droits et taxes (sauf toute taxe sur les produits et services ou taxe à valeur ajoutée) applicables au transfert ou à l’enregistrement du droit de propriété de cette résidence ;
+g) des intérêts, impôts fonciers, primes d’assurance et coûts du chauffage et des services publics relativement à l’ancienne résidence, jusqu’à concurrence de 5 000 $ ou, s’il est moins élevé, du total des dépenses de cette nature engagées par le contribuable pour la période, à la fois :
+(i) tout au long de laquelle l’ancienne résidence n’est ni ordinairement occupée par le contribuable ou par une autre personne qui y résidait habituellement avec lui immédiatement avant le déménagement, ni louée par le contribuable à une autre personne,
+(ii) au cours de laquelle des efforts sérieux sont faits en vue de vendre l’ancienne résidence;
+h) du coût de la révision de documents juridiques pour tenir compte de l’adresse de la nouvelle résidence du contribuable, du remplacement des permis de conduire et des certificats d’immatriculation de véhicules non commerciaux (à l’exclusion du coût de l’assurance‑véhicule) et des connexion et déconnexion des services publics ;
+il est toutefois entendu que le terme ne vise pas les frais (autres que les frais visés à l’alinéa f)) engagés par le contribuable pour l’acquisition de sa nouvelle résidence.
+[…]
+248(1) Définitions
+« réinstallation admissible » – Réinstallation d’un contribuable relativement à laquelle les conditions suivantes sont réunies :
+a) elle est effectuée afin de permettre au contribuable :
+(i) soit d’exploiter une entreprise ou d’occuper un emploi à un endroit au Canada (appelé « nouveau lieu de travail » à l’article 62 et au présent paragraphe),
+(ii) soit de fréquenter, comme étudiant à temps plein inscrit à un programme de niveau postsecondaire, un établissement d’une université, d’un collège ou d’un autre établissement d’enseignement (appelé « nouveau lieu de travail » à l’article 62 et au présent paragraphe);
+b) la résidence que le contribuable habitait ordinairement avant la réinstallation (appelée « ancienne résidence » à l’article 62 et au présent paragraphe) et celle qu’il habitait ordinairement après la réinstallation (appelée « nouvelle résidence » à l’article 62 et au présent paragraphe) sont toutes deux situées au Canada;
+c) la distance entre l’ancienne résidence et le nouveau lieu de travail est supérieure d’au moins 40 kilomètres à la distance entre la nouvelle résidence et le nouveau lieu de travail.
+Toutefois, pour l’application des paragraphes 6(19) à (23) et de l’article 62 à la réinstallation d’un contribuable qui est absent du Canada mais y réside, il n’est pas tenu compte des mots « au Canada » au sous‑alinéa a)(i) de la présente définition ni de son alinéa b).
+[11] Dans la décision Marvin R.V. Storrow c. La Reine[1], la Cour fédérale, Section de première instance, a interprété le paragraphe 62(3) de la LIR de la manière suivante (aux pages 598 et 599) :
+La question principale de cet appel est de savoir si les sommes supplémentaires que le contribuable a engagées, lors de son déménagement, en vue d’acquérir une nouvelle résidence qui se comparait assez bien à son ancienne résidence étaient des
+… sommes qu’il a payées à titre ou au titre des frais de déménagement engagés pour déménager de son ancienne résidence pour venir occuper sa nouvelle résidence …
+Je suis d’accord avec quelques-uns des premiers arguments que l’avocat du demandeur a fait valoir en ces termes :
+a) Lorsqu’un article qui contient une définition utilise le verbe « comprend » comme au paragraphe 62(3), alors l’expression qu’on veut définir comprend non seulement les choses qu’on déclare comprises, mais aussi les autres choses [TRADUCTION] « … que le mot signifie dans son sens ordinaire … »
+b) Les mots « frais de déménagement » doivent être interprétés selon le sens ordinaire et courant qu’ils peuvent avoir dans le contexte de la loi en question.
+Le demandeur allègue que les frais de déménagement constituent une dépense en vue de changer d’habitation; cette dépense comprend tous les frais qui sont directement et uniquement liés au déménagement, et ce, à compter du moment de la décision du départ jusqu’à la réinstallation. Les sommes supplémentaires engagées pour l’acquisition d’une résidence comparable à Vancouver, les intérêts sur ces sommes, les frais d’enregistrement, les frais d’installation d’un lave-vaisselle et de nouvelles serrures ont tous été occasionnés, dit-on, par suite du déménagement d’une résidence à une autre.
+La défenderesse prétend par contre que les montants en cause ne sont pas réellement des dépenses; ils ne sont que des frais extraordinaires occasionnés en l’espèce en vue de remplacer un élément d’actif, soit l’ancienne résidence.
+Je suis d’accord en général avec la prétention de la défenderesse.
+À mon avis, les dépenses contestées ne constituaient pas des frais de déménagement selon la signification ordinaire ou habituelle de l’expression. Les dépenses ou les frais que cette expression comprend sont, à mon avis, des débours ordinaires engagés par un contribuable qui, en fait, change de résidence. L’expression ne comprend pas (sauf si le paragraphe 62(3) le fait ressortir de façon explicite) des choses comme l’augmentation du coût de la nouvelle habitation par rapport à l’ancienne que ce soit en vertu de la vente, du bail ou autrement). Elle ne comprend pas non plus les frais d’installation d’articles ménagers de l’ancienne maison dans la nouvelle, ou le coût de remplacement et de rajustement qui y sont afférents (comme les tentures, les tapis, etc.). Les frais le déménagement, comme le permet le paragraphe 62(3), ne comprennent pas, à mon avis, les dépenses ou les frais occasionnés à la suite de l’acquisition d’une nouvelle résidence. Seules sont déductibles les dépenses engagées en vue du déplacement physique du contribuable, de sa maisonnée et de ses biens à la nouvelle résidence.
+[12] Dans l’arrêt A.G. of Canada v. Séguin[2], la Cour d’appel fédérale a adopté une interprétation semblable :
+8 Selon le sens ordinaire des mots employés, sont inclus dans la disposition les frais engagés pour déménager physiquement, pour changer de résidence, de même que certains autres frais qui se rapportent directement au déménagement et à la réinstallation proprement dits et non un montant destiné à compenser pour des dommages accessoires qui sont sans rapport avec le déménagement et la réinstallation proprement dits dans la nouvelle résidence. Ainsi sont exclus les frais d’intérêts de l’ancienne résidence qui ne se rattachent pas directement au déménagement physique du contribuable et de sa famille, mais plutôt à l’emprunt bancaire qu’il a contracté sur son ancienne résidence.
+[13] L’intimée soutient que l’alinéa 62(3)c) de la LIR limite la déduction générale des frais de logement à une période maximale de 15 jours. Elle se fonde sur la décision Christian c. La Reine[3], rendue par le juge Favreau :
+20 Le montant contesté en ce qui concerne la déduction des frais de subsistance temporaire (logement) s’élève à 4 550,88 $. Le ministre a accepté un montant de 2 298 $, ce qui représente une période de 13 jours qui est en deçà de la période maximale de 15 jours autorisée par l’alinéa 62(3)c) de la Loi. Cette disposition législative ne prévoit aucune exception et doit être respectée. Le ministre a accepté la déduction des frais en question qui étaient appuyés par des reçus et que l’appelante a supportés pendant son séjour dans la région de London.
+[14] Je tiens à souligner que l’alinéa 63(2)c) de la LIR parle de la déduction des « frais […] de repas et de logement » pour un logement temporaire. En l’espèce, la déduction de l’appelant ne concerne que le logement, lequel logement n’est pas précisément visé par l’alinéa 63(2)c) de la Loi. À mon avis, la disposition envisage une déduction pour des frais de logement et de pension. Si le législateur avait eu l’intention de limiter les frais de logement à 15 jours, il l’aurait expressément prévu. L’alinéa 62(3)c) de la LIR vise à inclure des éléments qui ne seraient peut‑être pas par ailleurs considérés comme des « frais de déménagement ».
+[15] Les faits de la décision Christian sont substantiellement différents de ceux en l’espèce. Il ressort de la preuve qu’en l’espèce, l’employeur de l’appelant a prolongé la réalisation complète du déménagement de l’appelant à Toronto. Celui‑ci ne pouvait pas trouver de foyer d’habitation permanent, parce qu’il ne savait pas exactement où son lieu de travail serait à Toronto, et parce que son employeur voulait qu’il partage son temps entre Toronto et Ottawa. L’appelant ne devrait pas être pénalisé pour avoir satisfait aux besoins de son employeur.
+V. Conclusion
+[16] En ce qui concerne le solde des frais en litige, l’appelant n’a pas réussi à prouver que les montants qu’il avait déclarés étaient déductibles au titre de l’article 62 de la LIR. Les frais de déplacement qui ont été refusés pour 2008 avaient été supportés relativement à l’emploi de l’appelant. Pour ce qui est du montant déduit pour l’année d’imposition 2011, la preuve établit que les frais visés ont fait l’objet d’une demande de déduction à titre de frais de location pour l’année d’imposition 2010 qui a été accordée. En résumé, l’appelant n’a pas réussi à démontrer que le solde des frais en litige était admissible en tant que frais de déménagement pour l’application de l’article 62 de la LIR.
+Signé à Montréal (Québec), ce 22e jour de janvier 2014.
+« Robert J. Hogan »
+Juge Hogan
+Traduction certifiée conforme
+ce 19e jour de février 2014.
+Espérance Mabushi, M.A. Trad. Jur.
+RÉFÉRENCE : 2014 CCI 24
+Nos DES DOSSIERS DE LA COUR : 2011-933(IT)I
+2013-1563(IT)I
+INTITULÉ : ABBEY K. SIRIVAR c.
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Le 8 novembre 2013
+MOTIFS DU JUGEMENT : L’honorable juge Robert J. Hogan
+DATE DU JUGEMENT : Le 22 janvier 2014
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui‑même
+Avocate de l’intimée :
+Me Rita Araujo
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée : William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] [1979] 1 C.F. 595.
+[2] 97 DTC 5457.
+[3] 2010 CCI 458.

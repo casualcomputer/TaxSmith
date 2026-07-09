@@ -1,0 +1,187 @@
+Title: Groupe Financier Bosco Inc. c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25542/index.do
+Corpus path: corpus/cases/tcc/2006/2006-cci-213-25542-groupe-financier-bosco-inc-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2006-04-12
+
+# Groupe Financier Bosco Inc. c. M.R.N.
+
+- Citation: 2006 CCI 213
+- Decision date: 2006-04-12
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2415, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Groupe Financier Bosco Inc. c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-04-12
+Référence neutre
+2006 CCI 213
+Numéro de dossier
+2005-3536(EI)
+Juges et Officiers taxateurs
+Sylvio J. Savoie
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2005-3536(EI)
+ENTRE :
+GROUPE FINANCIER BOSCO INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+____________________________________________________________________
+Appel entendu le 28 février 2006 à Montréal (Québec)
+Devant : L'honorable S.J. Savoie, juge suppléant
+Comparutions :
+Représentant de l'appelante :
+Franck Barbusci
+Avocat de l'intimé :
+Me Mounes Ayadi
+________________________________________________________________
+JUGEMENT
+L'appel est rejeté et la décision rendue par le Ministre est confirmée selon les motifs du jugement ci-joints.
+Signé à Grand-Barachois (Nouveau-Brunswick), ce 12e jour d'avril 2006.
+« S.J. Savoie »
+Juge suppléant Savoie
+Référence :2006CCI213
+Date : 20060412
+Dossier : 2005-3536(EI)
+ENTRE :
+GROUPE FINANCIER BOSCO INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+MOTIFS DU JUGEMENT
+Le juge suppléant Savoie
+[1] Cet appel a été entendu à Montréal (Québec), le 28 février 2006.
+[2] Il s'agit d'un appel portant sur l'assurabilité de l'emploi de madame Anie Belmadi, la travailleuse, lorsqu'au service de l'appelante du 1er avril 2003 au 15 février 2004.
+[3] Le 16 septembre 2005, le ministre du Revenu national (le « Ministre » ) a informé l'appelante de sa décision selon laquelle la travailleuse occupait un emploi assurable.
+[4] En rendant sa décision, le Ministre s'est appuyé sur les faits présumés suivants :
+5 a) l'appelante a été constituée en société le 1er mai 2003;
+b) Mme Christiane Soulard était l'unique actionnaire de l'appelante et M. Franck Barbusci était le président;
+c) le siège social et les bureaux de l'appelante sont situés au 8129, rue St-Denis à Montréal;
+d) les activités de l'appelante sont dans le domaine de la gestion et de l'administration d'entreprise ainsi que dans la vente d'assurances pour véhicules;
+e) pour la vente d'assurances, l'appelante passe par les concessionnaires qui proposent à leur clientèle les produits d'assurances de l'appelante;
+f) lors de son embauche, la travailleuse a signé un contrat de travail avec l'appelante;
+g) la travailleuse déclare que son intention première lors de la signature de son contrat avec l'appelante était de fournir des services à l'appelante en échange d'une rémunération raisonnable;
+h) la travailleuse a rendu des services à l'appelante comme directrice régionale pour le territoire de l'Abitibi;
+i) la travailleuse faisait de la promotion continue des produits de l'appelante et donnait aussi des sessions de formation aux employés des concessionnaires qui s'occupaient de la vente des produits de l'appelante;
+j) au début de sa période de travail pour l'appelante, la travailleuse a reçu, aux frais de l'appelante, une formation qu'elle a continué de recevoir sur une base régulière;
+k) la travailleuse se rendait aux bureaux de l'appelante à Montréal aux deux semaines pour faire la révision de son travail et pour recevoir une formation additionnelle;
+l) la principale tâche de la travailleuse consistait à rencontrer les concessionnaires automobiles de la région pour leur offrir la possibilité de vendre les produits d'assurance de l'appelante auprès de leur clientèle;
+m) l'appelante fournissait à la travailleuse une liste des concessionnaires qu'elle devait visiter et la travailleuse devait essayer d'augmenter cette liste de concessionnaires;
+n) l'appelante préparait son travail de sa résidence et la majorité de son travail se faisait à l'extérieur, sur la route et chez les concessionnaires;
+o) par nécessité, la travailleuse effectuait son travail durant les heures normales de travail;
+p) la travailleuse estime qu'elle travaillait en moyenne 50 heures par semaine;
+q) la travailleuse devait demeurer en contact avec l'appelante, par téléphone, télécopieur ou par courriel, sur une base quotidienne;
+r) la travailleuse devait préparer, pour l'appelante, des rapports écrits et verbaux sur une base régulière;
+s) la travailleuse était tenue de rendre ses services personnellement et exclusivement pour l'appelante;
+t) la travailleuse devait atteindre des standards, établis par l'appelante, pour la qualité de son travail et le volume de ventes;
+u) l'appelante a fourni à la travailleuse un ordinateur portatif, une imprimante, un télécopieur et un appareil de plastification;
+v) l'appelante devait recevoir le plus élevé d'un salaire de base de 500 $ par semaine ou une commission de 8 % de ses ventes;
+w) la travailleuse devait recevoir de l'appelante un remboursement de son compte de cellulaire ainsi que pour l'utilisation de son véhicule selon un taux par kilométrage parcouru;
+x) durant la période en litige, la travailleuse a toujours reçu le salaire de base de 500 $ par semaine.
+[5] L'appelante a admis les faits présumés du Ministre énoncés aux alinéas 5 a), c), f), g), i), l) à o), r), t) et u); elle a admis sauf à parfaire ceux énoncés à l'alinéa 5 b); elle a nié ceux énoncés aux alinéas d), e), h), j), k), q), s) et v) à x); elle a ignoré celui énoncé à l'alinéa p).
+[6] La preuve a révélé que madame Christiane Soulard, pendant la période en litige, n'était pas l'unique actionnaire de l'appelante, mais qu'elle l'est maintenant.
+[7] Il a été établi à l'audition que l'appelante ne faisait pas la vente d'assurances automobile, mais plutôt la vente d'assurance sur le crédit consenti lors de la vente d'automobiles. Il s'agit d'une assurance qui garantit le paiement des versements du client qui a acheté une automobile, en cas de décès ou d'invalidité de celui-ci.
+[8] L'appelante a apporté cette précision à l'audition à l'alinéa 5 e) à l'effet que pour la vente d'assurances, l'appelante passe par le représentant du concessionnaire qui propose au client du concessionnaire le produit d'assurances de l'appelante. L'appelante assurait la gestion du programme d'assurance-crédit et vendait son produit au concessionnaire.
+[9] Selon la preuve soumise, la travailleuse a rendu des services à l'appelante comme directrice régionale, d'abord à Trois-Rivières, puis en Abitibi.
+[10] La travailleuse est arrivée chez l'appelante, après avoir fait un séjour chez Toyota où elle y travaillait en tant que directrice commerciale. Elle avait déjà reçu une formation et était aussi habilitée à donner des cours de formation, ce qui faisait partie de ses tâches chez l'appelante où elle a reçu, au départ, une formation sur les produits de celle-ci, sur la façon d'approcher les clients et sur les techniques de vente.
+[11] Le président de l'appelante a affirmé à l'audition que celle-ci n'exigeait pas que la travailleuse passe au bureau régulièrement. Il a précisé qu'elle passait au bureau à Montréal à l'occasion, lors de visites quelconques, mais la travailleuse a soutenu le contraire, affirmant qu'elle se rendait au bureau de l'appelante deux fois par mois pour des réunions et des cours de formation. Elle a affirmé, par ailleurs, qu'elle était en contact par téléphone au bureau, de trois à quatre fois par jour.
+[12] Le tribunal a entendu à l'audition le témoignage du président de l'appelante, M. Franck Barbusci, et celui de la travailleuse. À bien des égards, les deux versions entendues sont contradictoires. Ainsi, M. Barbusci affirme que si la travailleuse téléphonait au bureau fréquemment, c'était pour demander de l'argent; c'est alors qu'on lui demandait des détails sur les possibilités de ventes afin de pouvoir lui justifier des avances sur ses commissions.
+[13] L'appelante a soutenu que la travailleuse n'était d'aucune façon tenue de rendre ses services exclusivement à celle-ci. Par ailleurs, l'appelante affirme que madame Belmadi est une travailleuse autonome, et c'est pourquoi elle travaille 60 heures par semaine. Dans ces conditions, il est permis de douter qu'elle pourrait offrir ses services à un autre employeur.
+[14] L'appelante a nié que la travailleuse devait recevoir le plus élevé d'un salaire de 500,00 $ par semaine ou une commission de 8 pour cent sur ses ventes. Parlant au nom de l'appelante, monsieur Barbusci affirme que la travailleuse devait être payée uniquement sur commission, fixée à 8 pour cent sur ses ventes. Il a expliqué que la travailleuse recevait des avances et c'est ce que le 500,00 $ par semaine représentait. Il a ajouté que ces avances étaient remboursables à l'appelante sur les commissions à venir. Par ailleurs, l'appelante a affirmé qu'il est faux de prétendre qu'elle devait rembourser à la travailleuse son compte de cellulaire et ses dépenses de voiture. L'appelante soutient, au contraire, que parce que la travailleuse était sans le sou, on lui avait avancé des argents pour qu'elle puisse garder son téléphone cellulaire et pour défrayer son coût d'essence. Il a été établi que l'appelante a payé la dépense du déménagement de la travailleuse de Trois-Rivières à l'Abitibi.
+[15] L'appelante a toujours maintenu qu'elle ne versait aucun salaire à la travailleuse, seulement des avances sur une commission sur ses ventes. L'appelante a soutenu à l'audition que puisque la travailleuse n'a pratiquement pas fait de ventes, elle a contracté une dette de 25 000,00 $ envers elle.
+[16] La preuve a révélé que les parties ont signé un contrat lorsque la travailleuse a débuté son travail pour l'appelante. L'appelante affirme que le contrat qu'elle a signé avec la travailleuse supporte sa position, à savoir, que la travailleuse a été embauchée en tant que travailleuse autonome et qu'aucune relation employeur-employé n'existait entre elles. Cependant le contrat n'a pas été produit à l'audition et l'appelante ne l'a jamais fourni à l'agent des appels qui en avait fait la demande. Par ailleurs, il a été établi que le contrat signé par les parties avait été préparé par l'appelante, et que la travailleuse ne pouvait rien y changer.
+[17] L'emploi de la travailleuse a pris fin lorsque l'appelante a cessé de la rémunérer. Par la suite, l'appelante a fait une demande de remboursement des avances, mais cette démarche a été abandonnée, pour le motif, selon l'appelante, que celle-ci avait appris que la travailleuse n'avait pas les moyens de faire le remboursement. Il en a été de même pour le matériel de l'appelante conservé par la travailleuse.
+[18] La preuve soumise sur l'intention des parties est contradictoire. La travailleuse affirme qu'elle était employée à salaire, comme elle l'avait exigé dès son embauche. Elle ajoute qu'elle devait, en outre, recevoir une commission sur les produits de l'appelante qu'elle vendait. L'appelante soutient, au contraire, que la travailleuse rendait ses services en tant que travailleuse autonome puisque c'est ainsi qu'elle a retenu ses services. L'appelante s'appuie sur un contrat signé entre elle et la travailleuse mais qui n'a pas été produit à l'audition. Cette Cour ne tiendra pas compte de ce contrat, étant donné les circonstances. Donc, pour ce qui est de l'intention des parties, il faudra la trouver dans l'analyse de la preuve soumise au tribunal.
+[19] Il a été établi que la travailleuse a fourni à l'appelante une prestation de travail. Elle a oeuvré pour l'appelante à Trois-Rivières et en Abitibi. Elle se présentait comme la directrice régionale de l'appelante sur une carte d'affaires qu'elle distribuait aux nouveaux clients.
+[20] La preuve a révélé que la travailleuse a reçu une formation de l'appelante au départ et régulièrement pendant la durée de l'emploi. À l'embauche, l'appelante lui a promis de l'aider avec les clients et cela s'est produit à certaines occasions où monsieur Barbusci lui a rendu visite en Abitibi. Par ailleurs, elle a reçu une formation sur les techniques de vente, dont par exemple, comment elle devait approcher les clients et faire la présentation des produits de l'appelante.
+[21] L'appelante a fourni à la travailleuse un manuel sur les différents produits de l'appelante, un ordinateur portable, un télécopieur et un téléphone cellulaire. L'appelante payait les dépenses de la travailleuse, dont par exemple son téléphone, sa papeterie et autres dépenses diverses et lui remettait une somme de 150,00 $ par mois pour couvrir celles-ci.
+[22] La preuve a révélé que l'appelante avait l'exclusivité des services de la travailleuse. Monsieur Barbusci l'a nié à l'audition, mais il a quand même affirmé que la travailleuse travaillait 60 heures par semaine pour sa société.
+[23] La travailleuse devait prévenir l'appelante de ses absences. Elle faisait des rapports écrits régulièrement à l'appelante après avoir recueilli du concessionnaire toute l'information sur les ventes des produits de l'appelante. L'agent des appels a confirmé à l'audition que monsieur Barbusci lui avait affirmé que la travailleuse lui faisait des rapports réguliers; c'était obligatoire.
+[24] La preuve a établi que la travailleuse a fait une déclaration de revenu à titre d'employée.
+[25] L'objet de ce litige se situe donc au niveau de la relation entre les parties, c'est-à-dire, de l'appelante et de la travailleuse, à savoir s'il existait entre elles un contrat de travail, ou, pour utiliser le libellé de la Loi sur l'assurance-emploi, si la travailleuse occupait un emploi assurable.
+[26] Au Québec, province régie par les principes du droit civil, le contrat de travail est défini à l'article 2085 du Code civil du Québec, L.Q. 1991, ch. 64, selon lequel « le contrat de travail est celui par lequel une personne, le salarié, s'oblige, pour un temps limité et moyennant rémunération, à effectuer un travail sous la direction ou le contrôle d'une autre personne, l'employeur » .
+[27] Le contrat de travail se distingue du contrat d'entreprise ou de service, soit « [...] celui par lequel une personne, selon le cas l'entrepreneur ou le prestataire de services, s'engage envers une autre personne, le client, à réaliser un ouvrage matériel ou intellectuel ou à fournir un service moyennant un prix que le client s'oblige à lui payer » (article 2098). L'article 2099 prévoit que « L'entrepreneur ou le prestataire de services a le libre choix des moyens d'exécution du contrat et il n'existe entre lui et le client aucun lien de subordination quant à son exécution » .
+[28] Ainsi, la subordination ou l'exercice d'un pouvoir de contrôle constitue un facteur plus important, même déterminant, selon le droit québécois. La Loi sur l'assurance-emploi, qui est applicable au présent litige, est une loi fédérale. Or, depuis le 1er juin 2001, l'article 8.1 de la Loi d'interprétation, L.R.C. 1985, ch. I-21, exige que soit appliqué le droit privé de la province d'où provient le litige lorsque des notions de droit privé sont en jeu. Cet article est reproduit ci-dessous :
+8.1 Le droit civil et la common law font pareillement autorité et sont tous deux sources de droits civils au Canada et, s'il est nécessaire de recourir à des règles, principes ou notions appartenant au domaine de la propriété et des droits civils en vue d'assurer l'application d'un texte dans une province, il faut, sauf règle de droit s'y opposant, avoir recours aux règles, principes et notions en vigueur dans cette province au moment de l'application du texte.
+[29] Le juge Dussault, de cette Cour, dans Lévesque c. Canada (ministre du Revenu national - M.R.N.), [2005] A.C.I. no 183, a écrit :
+[23] Dans l'affaire Sauvageau Pontiac Buick GMC ltée c. Canada, C.C.I., no 95-1642(UI), 25 octobre 1996, [1996] A.C.I. no 1383, (Q.L.), le juge Archambault, en se référant à la décision de la Cour suprême du Canada dans l'affaire Quebec Asbestos Corp. v. Couture, [1929] S.C.R. 166, concluait, eu égard à ces définitions, que l'élément déterminant était la présence ou non d'un lien de subordination. De plus, il y retenait la définition de cette expression énoncée par le juge Pratte dans l'affaire Gallant, précitée. Au paragraphe 12 de sa décision, le juge Archambault s'exprimait dans les termes suivants :
+12 Il ressort clairement de ces dispositions du C.C.Q. que le lien de subordination demeure la principale distinction entre un contrat d'entreprise (ou de service) et un contrat de travail. Quant à cette notion de lien de subordination, je crois que les commentaires du juge Pratte dans l'affaire Gallant sont toujours applicables :
+Ce qui est la marque du louage de services, ce n'est pas le contrôle que l'employeur exerce effectivement sur son employé, c'est plutôt le pouvoir que possède l'employeur de contrôler la façon dont l'employé exécute ses fonctions.
+[30] Par ailleurs, le juge Létourneau de la Cour d'appel fédérale dans l'affaire D & J Driveway Inc. c. Canada (ministre du Revenu national - M.R.N.), [2003] A.C.F. no 1784 (Q.L.), affirmait que ce n'est pas parce qu'un donneur d'ouvrage peut contrôler le résultat du travail qu'il existe nécessairement une relation employeur-employer. Voici d'ailleurs comment il s'exprimait à cet égard au paragraphe 9 du jugement :
+9 Un contrat de travail requiert l'existence d'un lien de subordination entre le payeur et les salariés. La notion de contrôle est le critère déterminant qui sert à mesurer la présence ou l'étendue de ce lien. Mais comme le disait notre collègue le juge Décary dans l'affaire Charbonneau c. Canada (ministre du Revenu national - M.RN.), [1996] A.C.F. no. 1337, (1996) 207 N.R. 299, suivie dans l'arrêt Jaillet c. Canada (ministre du Revenu national - M.R.N.), [2002] A.C.F. no 1454, 2002 FCA 394, il ne faut pas confondre le contrôle du résultat et le contrôle du travailleur. Au paragraphe 10 de la décision, il écrit :
+Rares sont les donneurs d'ouvrage qui ne s'assurent pas que le travail est exécuté en conformité avec leurs exigences et aux lieux convenus. Le contrôle du résultat ne doit pas être confondu avec le contrôle du travailleur.
+[31] Afin de déterminer s'il y a présence ou absence d'un lien de subordination, plusieurs indices peuvent être pris en considération. Ainsi, la juge Monique Fradette de la Cour du Québec dans l'affaire Seitz c. Entraide populaire de Lanaudière inc., Cour du Québec (chambre civile), no 705-22-002935-003, le 16 novembre 2001, [2001] J.Q. no 7635 (Q.L.), établissait une série d'indices pouvant permettre de déterminer s'il y a subordination ou non. Voici ce qu'elle écrivait sur ce point aux paragraphes 60 à 62 de son jugement :
+[60] La jurisprudence exige, pour qu'il y ait un contrat de travail, l'existence d'un droit de surveillance et de direction immédiate. Le simple fait qu'une personne donne des instructions générales sur la manière d'effectuer le travail, ou qu'elle se réserve un droit d'inspection et de supervision sur le travail, ne suffit pas à convertir l'entente en un contrat de travail.
+[61] Une série d'indices développée par la jurisprudence permet au tribunal de déterminer s'il y a présence ou non d'un lien de subordination dans la relation des parties.
+[62] Les indices d'encadrement sont notamment :
+- la présence obligatoire à un lieu de travail
+- le respect de l'horaire de travail
+- le contrôle des absences du salarié pour des vacances
+- la remise de rapports d'activité
+- le contrôle de la quantité et de la qualité du travail
+- l'imposition des moyens d'exécution du travail
+- le pouvoir de sanction sur les performances de l'employé
+- les retenues à la source
+- les avantages sociaux
+- le statut du salarié dans ses déclarations de revenus
+- l'exclusivité des services pour l'employeur
+[32] Il faudrait préciser, toutefois, que la présence de quelques indices appuyant l'une ou l'autre des conclusions, à savoir, s'il existe ou non un lien de subordination, ne justifie pas que se termine là l'analyse. L'exercice consiste, selon la distinction établie dans le Code civile du Québec, à déterminer la relation globale des parties. Il s'agit donc d'établir dans quelle proportion les indices pouvant mener à la conclusion qu'il existe un lien de subordination sont prédominants par rapport aux autres.
+[33] Examinons la preuve à la lumière des indices établis par la juge Fradette pour y déceler la relation globale entre les parties et y déterminer la présence ou l'absence d'un lien de subordination.
+[34] La présence obligatoire à un lieu de travail : la tâche de la travailleuse consistait à représenter l'appelante auprès des concessionnaires dans le territoire désigné de Trois-Rivières, d'abord, puis en Abitibi. Son travail se faisait chez les différents concessionnaires et à partir de chez elle. Pour le reste, il a été établi qu'elle se rendait assidûment au bureau de l'appelante à Montréal. Il faut reconnaître que la nature du travail de la travailleuse n'exigeait pas sa présence dans un seul lieu. À mon avis, examinée sous cet indice, la preuve favorise l'existence d'un lien de subordination.
+[35] Le respect de l'horaire du travail : à vrai dire, aucune preuve n'a été soumise quant à l'horaire de la travailleuse. Monsieur Barbusci, cependant, a reconnu que la travailleuse travaillait 60 heures par semaine. Étant donné le genre de travail et le nombre d'heures qu'elle y mettait, il fallait que la travailleuse respecte un certain horaire, même si celui-ci n'était pas fixé par l'appelante. À mon avis, examinée sous cet indice, la preuve favorise davantage l'existence d'un lien de subordination.
+[36] Le contrôle des absences du salarié pour des vacances : il a été établi que la travailleuse devait prévenir l'appelante de ses absences. Cette obligation devenait plus onéreuse, cependant, en raison de la distance séparant son lieu de travail en région, et la place d'affaires de l'appelante.
+[37] Ici encore, j'estime que la preuve favorise l'existence d'un lien de subordination.
+[38] La remise de rapports d'activité : la preuve a abondamment documenté le fait que la travailleuse devait et fournissait des rapports écrits et verbaux à l'appelante. Ceci nous porte à la conclusion que sous cet indice, la preuve nous amène à déterminer l'existence d'un lien de subordination.
+[39] Le contrôle de la quantité et de la qualité du travail : je considère que la preuve, en l'espèce, analysée sous cet aspect, est neutre.
+[40] L'imposition des moyens d'exécution du travail : la preuve a établi que la travailleuse a reçu un manuel de l'appelante pour lui servir de guide dans son travail; elle a reçu aussi une liste de produits ainsi qu'une formation sur les techniques de ventes et elle a bénéficié de la présence de monsieur Barbusci sur place en Abitibi pour l'aider dans son travail, à l'occasion. Sous cet aspect, la preuve soutient la présence d'un lien de subordination.
+[41] Quant aux indices portant sur le pouvoir de sanction sur les performances de l'employée, les retenues à la source et les avantages sociaux, la preuve recueillie supporte l'absence d'un lien de subordination.
+[42] Il a été établi que la travailleuse dans sa déclaration de revenus a établi qu'elle était rémunérée comme employée. La preuve recueillie, sous cet angle, semble établir l'existence d'un lien de subordination.
+[43] L'exclusivité des services pour l'employeur : il y a divergence entre la preuve de la travailleuse et celle de l'appelante sur ce point. Cependant, monsieur Barbusci a reconnu que la travailleuse travaillait 60 heures par semaine. Il est difficile de réconcilier cette réalité avec la notion qu'elle travaillait ou qu'elle pouvait travailler ailleurs. Je considère donc que sous cet aspect également la preuve favorise l'existence d'un lien de subordination.
+[44] À la lumières des indices énumérés ci-haut, je dois conclure que le degré de contrôle dans la relation entre l'appelante et la travailleuse était tel qu'il existait bel et bien un lien de subordination suffisant pour déterminer qu'il existait un contrat de travail plutôt qu'un contrat d'entreprise.
+[45] L'examen des faits à la lumière du Code civil du Québec et de la jurisprudence nouvelle en matière d'assurabilité et plus précisément sur la notion de contrat de travail n'a pas supporté la prétention de l'appelante qui visait à établir l'existence d'un contrat d'entreprise.
+[46] Donc, cette Cour doit conclure que la travailleuse exerçait un emploi assurable auprès de l'appelante au terme d'un contrat de louage de services au sens de l'alinéa 5(1)a) de la Loi et qu'elle occupait donc un emploi assurable pendant la période en litige.
+[47] Par ailleurs, la preuve décrivant la relation entre l'appelante et la travailleuse supporte la conclusion qu'il existait entre elles un contrat de travail selon les dispositions du Code civil du Québec.
+[48] En conséquence, l'appel est rejeté et la décision rendue par le Ministre est confirmée.
+Signé à Grand-Barachois (Nouveau-Brunswick), ce 12e jour d'avril 2006.
+« S.J. Savoie »
+Juge suppléant Savoie
+RÉFÉRENCE :
+2006CCI213
+No DU DOSSIER DE LA COUR :
+2005-3536(EI)
+INTITULÉ DE LA CAUSE :
+Groupe Financier Bosco Inc. et M.R.N.
+LIEU DE L'AUDIENCE :
+Montréal (Québec)
+DATE DE L'AUDIENCE :
+Le 28 février 2006
+MOTIFS DE JUGEMENT PAR :
+L'honorable S.J. Savoie,
+juge suppléant
+DATE DU JUGEMENT :
+Le 12 avril 2006
+COMPARUTIONS :
+Représentant de l'appelante :
+Franck Barbusci
+Avocat de l'intimé :
+Me Mounes Ayadi
+AVOCAT INSCRIT AU DOSSIER:
+Pour l'appelant :
+Nom :
+Étude :
+Pour l'intimé :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

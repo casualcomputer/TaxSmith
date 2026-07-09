@@ -1,0 +1,184 @@
+---
+title: "Anderson c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/119975/index.do"
+last_modified: "2015-09-22"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2015 CCI 229"
+citation2: ""
+neutral_citation: "2015 CCI 229"
+decision_date: "2015-09-22"
+language: "fr"
+item_id: "119975"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2711
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T16:22:18.042000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "3d4c11fa6b12b4b3f0a742b84ab895afb5dc58986a16441e1ad17ae485ed519f"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Anderson c. La Reine
+
+- Citation: 2015 CCI 229
+- Decision date: 2015-09-22
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2711, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Anderson c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2015-09-22
+Référence neutre
+2015 CCI 229
+Numéro de dossier
+2015-1893(IT)APP
+Juges et Officiers taxateurs
+Valerie A. Miller
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2015-1893(IT)APP
+ENTRE :
+BRUCE ANDERSON,
+requérant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Demande entendue le 17 septembre 2015, à Toronto (Ontario).
+Devant : L’honorable juge Valerie Miller
+Comparutions :
+Représentante du requérant :
+Mme Ida Abrahim
+Avocate de l’intimée :
+Me Lindsay Beelen
+JUGEMENT
+La demande de prorogation du délai pour signifier un avis d’opposition pour les années d’imposition de l’appelant allant de 2001 à 2009 est rejetée.
+Signé à Ottawa, Canada, ce 22e jour de septembre 2015.
+« V.A. Miller »
+Juge V.A. Miller
+Traduction certifiée conforme
+ce 20e jour d’octobre 2015.
+Espérance Mabushi, M.A. Trad. Jur.
+Référence : 2015 CCI 229
+Date : 20150922
+Dossier : 2015-1893(IT)APP
+ENTRE :
+BRUCE ANDERSON,
+requérant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge V.A. Miller
+[1] M. Anderson sollicite une ordonnance lui accordant une prorogation du délai pour déposer un avis d’opposition pour les années d’imposition allant de 2001 à 2009.
+[2] Selon l’article 165 de la Loi de l’impôt sur le revenu (la « Loi »), M. Anderson était tenu de signifier au ministre du Revenu national (le « ministre ») un avis d’opposition dans les quatre‑vingt‑dix jours suivant la date d’envoi de l’avis de cotisation ou de nouvelle cotisation, selon le cas, pour chaque année en cause. La Loi lui permettait en outre de demander au ministre de lui accorder une prorogation du délai pour déposer un avis d’opposition. Toutefois, M. Anderson devait présenter cette demande dans un délai d’un an après l’expiration du délai de quatre‑vingt‑dix jours.
+[3] En ce qui concerne les années en cause, les dates pertinentes sont les suivantes :
+Année
+Date de la cotisation
+Date de la nouvelle cotisation
+Date limite pour faire opposition
+Date limite pour demander au ministre une prorogation du délai pour faire opposition
+2001
+18 octobre 2005
+17 octobre 2006
+15 janvier 2007
+15 janvier 2008
+2002
+18 octobre 2005
+17 octobre 2006
+15 janvier 2007
+15 janvier 2008
+2003
+18 octobre 2005
+17 octobre 2006
+15 janvier 2007
+15 janvier 2008
+2004
+13 novembre 2007
+11 février 2008
+11 février 2009
+2005
+13 novembre 2007
+11 février 2008
+11 février 2009
+2006
+18 novembre 2008
+16 février 2009
+16 février 2010
+2007
+18 novembre 2008
+16 février 2009
+16 février 2010
+2008
+9 août 2010
+8 novembre 2010
+8 novembre 2011
+2009
+30 août 2010
+29 novembre 2010
+29 novembre 2011
+[4] M. Anderson n’a respecté aucun délai. Il s’est opposé aux cotisations établies pour les années allant de 2001 à 2009 au moyen d’un avis daté du 11 juillet 2013.
+[5] Au moyen d’une lettre datée du 27 septembre 2013, le ministre a avisé M. Anderson que son avis d’opposition ne pouvait pas être accepté étant donné qu’il n’avait pas été déposé dans un délai de quatre‑vingt‑dix jours suivant la date figurant sur les avis de cotisation ou de nouvelle cotisation. Le ministre l’a en outre avisé qu’une prorogation du délai pour déposer un avis d’opposition ne pouvait pas être accordée.
+[6] M. Anderson a demandé à la Cour une ordonnance lui accordant une prorogation du délai pour déposer un avis d’opposition le 23 avril 2015.
+[7] En outre, M. Anderson disposait de quatre‑vingt‑dix jours, après le rejet de sa demande de prorogation de délai par le ministre, pour demander à la Cour une prorogation du délai pour déposer une opposition pour les années en cause. Il n’a pas non plus respecté ce délai.
+[8] La représentante de M. Anderson a déclaré que son client ne comprenait pas le sens et l’importance des avis de cotisation.
+[9] Comme je l’ai expliqué à M. Anderson et à sa représentante, les délais prévus par la Loi sont stricts et la Cour ne peut pas les modifier. Cela a été confirmé par la Cour d’appel fédérale dans l’arrêt Canada c Carlson, 2002 CAF 145, où le juge Nadon a formulé les observations suivantes :
+Comme notre Cour l’a statué à de nombreuses occasions, lorsqu’un contribuable n’est pas en mesure de respecter un délai prévu par la Loi, même à cause d’une défaillance du système postal, ni le ministre ni la CCI ne peuvent lui venir en aide (Voir Schafer c. Sa Majesté la Reine [2000] A.C.F. 1480 (C.A.F.); Le Procureur général du Canada c. John F. Bowen [1992] 1 C.F. 311 (C.A.F.)). Par conséquent, si une défaillance du système postal ne peut secourir un contribuable, il ne sera pas sauvé parce qu’il n’a pas saisi le sens d’un avis de cotisation qui lui a été signifié.
+[10] M. Anderson n’a pas déposé sa demande de prorogation du délai pour faire opposition relativement à ses années d’imposition allant de 2001 à 2009 dans un an et quatre‑vingt‑dix jours après la date figurant sur les avis de cotisation, et la demande de prorogation est rejetée.
+Signé à Ottawa, Canada, ce 22e jour de septembre 2015.
+« V.A. Miller »
+Juge V.A. Miller
+Traduction certifiée conforme
+ce 20e jour d’octobre 2015.
+Espérance Mabushi, M.A. Trad. Jur.
+RÉFÉRENCE :
+2015 CCI 229
+No DU DOSSIER DE LA COUR :
+2015-1893(IT)APP
+INTITULÉ:
+BRUCE ANDERSON et SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+Le 17 septembre 2015
+MOTIFS DU JUGEMENT :
+L’honorable juge Valerie Miller
+DATE DU JUGEMENT :
+Le 22 septembre 2015
+COMPARUTIONS :
+Représentante du requérant :
+Mme Ida Abrahim
+Avocate de l’intimée :
+Me Lindsay Beelen
+AVOCATS INSCRITS AU DOSSIER :
+Pour le requérant :
+Nom :
+Cabinet :
+Pour l’intimée :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada

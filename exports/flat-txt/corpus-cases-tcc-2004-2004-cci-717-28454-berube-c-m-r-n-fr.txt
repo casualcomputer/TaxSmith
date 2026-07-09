@@ -1,0 +1,245 @@
+Title: Berube c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28454/index.do
+Corpus path: corpus/cases/tcc/2004/2004-cci-717-28454-berube-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2004-11-10
+
+# Berube c. M.R.N.
+
+- Citation: 2004 CCI 717
+- Decision date: 2004-11-10
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1188, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Berube c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-11-10
+Référence neutre
+2004 CCI 717
+Numéro de dossier
+2003-852(EI)
+Juges et Officiers taxateurs
+François M. Angers
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2003-852(EI)
+ENTRE :
+ALAIN BÉRUBÉ,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+____________________________________________________________________
+Appel entendu sur preuve commune avec les appels de
+Louise Robichaud (2003-855(EI)) et Donald Charrette (2003-853(EI))
+le 4 octobre 2004 à Matane (Québec)
+Devant : L'honorable juge François Angers
+Comparutions :
+Avocat de l’appelant :
+Me Édouard Côté
+Avocate de l'intimé :
+Me Agathe Cavanagh
+____________________________________________________________________
+JUGEMENT
+L’appel est accueilli et la décision rendue par le ministre du Revenu national est infirmée selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 10e jour de novembre 2004.
+« François Angers »
+Juge Angers
+Dossier : 2003-855(EI)
+ENTRE :
+LOUISE ROBICHAUD,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+____________________________________________________________________
+Appel entendu sur preuve commune avec les appels de
+Alain Bérubé (2003-852(EI)) et Donald Charrette (2003-853(EI))
+le 4 octobre 2004 à Matane (Québec)
+Devant : L'honorable juge François Angers
+Comparutions :
+Avocat de l’appelante :
+Me Édouard Côté
+Avocate de l'intimé :
+Me Agathe Cavanagh
+____________________________________________________________________
+JUGEMENT
+L’appel est accueilli et la décision rendue par le ministre du Revenu national est infirmée selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 10e jour de novembre 2004.
+« François Angers »
+Juge Angers
+Dossier : 2003-853(EI)
+ENTRE :
+DONALD CHARETTE,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+____________________________________________________________________
+Appel entendu sur preuve commune avec les appels de
+Alain Bérubé (2003-852(EI)) et Louise Robichaud (2003-855(EI))
+le 4 octobre 2004 à Matane (Québec)
+Devant : L'honorable juge François Angers
+Comparutions :
+Avocat de l’appelant :
+Me Édouard Côté
+Avocate de l'intimé :
+Me Agathe Cavanagh
+____________________________________________________________________
+JUGEMENT
+L’appel est accueilli et la décision rendue par le ministre du Revenu national est infirmée selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 10e jour de novembre 2004.
+« François Angers »
+Juge Angers
+Référence : 2004CCI717
+Date : 20041110
+Dossiers : 2003-852(EI)
+2003-855(EI)
+2003-853(EI)
+ENTRE :
+ALAIN BÉRUBÉ,
+LOUISE ROBICHAUD,
+DONALD CHARETTE,
+appelants,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+MOTIFS DU JUGEMENT
+Le juge Angers
+[1] Il s’agit d’appels d’une détermination par le ministre du Revenu national (le « Ministre ») en date du 11 décembre 2002, à l’effet que l’emploi des appelants avec la société 9033-2024 Québec Inc., faisant affaire sous la raison sociale de Charette Cycle (ci-après Charette Cycle), n’était pas assurable au sens de la Loi sur l’assurance-emploi (LAE). Ces appels ont été entendus sur preuve commune.
+[2] Dans le dossier d’Alain Bérubé, la période en question est du 25 février au 8 juin 2001. La prétention du Ministre et que l’emploi ne répond pas aux exigences relatives à un contrat de louage de service et qu’il n’y a pas de relation employeur-employé entre l’appelant et Charette Cycle parce que ceux-ci ont conclu un arrangement visant à rendre l’appelant admissible à des prestations d’assurance-emploi.
+[3] Les périodes en question dans le dossier de l’appelante Louise Robichaud sont du 9 mars au 18 septembre 1998, du 4 avril au 13 septembre 1999 et du 1er novembre 1999 au 4 mars 2000. Pour les périodes en question, l’intimé soutient que l’emploi de l’appelante avec Charette Cycle n’est pas assurable car il ne répond pas aux exigences relatives à un véritable contrat de louage de service et qu’il n’existe pas de relation employeur-employé entre elle et Charette Cycle au motif que celles-ci ont conclu un arrangement visant à rendre l’appelante admissible à des prestations d’assurance-emploi. Le Ministre a déterminé, dans la même décision, que l’emploi de l’appelante, du 5 mars au 4 août 2000 et du 2 avril au 31 août 2001, était un emploi assurable.
+[4] Pour ce qui est du dossier de l’appelant Donald Charette, les périodes en question sont du 2 février au 13 mars 1998, du 11 mai 1998 au 12 février 1999, du 5 avril au 10 décembre 1999 et du 17 juillet au 29 septembre 2000. L’intimé soutient que son emploi n’est pas assurable parce qu’il ne répond pas aux exigences relatives à un contrat de louage de service et qu’il n’y a pas de relation employeur-employé entre lui et Charette Cycle. De façon subsidiaire, l’intimé soutient qu’après avoir examiné les modalités de l’emploi, un contrat de travail semblable n’aurait pas été conclu s’il n’y avait pas eu un lien de dépendance entre Charette Cycle et l’appelant.
+[5] Charette Cycle a été constituée en société le 28 mars 1996. Durant les périodes en question, Luc Charette était l’unique actionnaire. L’appelant Donald Charette est le frère de Luc Charette. Charette Cycle exploite une entreprise de vente de pièces et de réparation de motocyclettes à St-Gabriel, Québec. À même son établissement commercial, il exploite un comptoir de vente Sears par catalogue. Selon le propriétaire, la proportion de son chiffre d’affaires pour le comptoir Sears est d’environ 20%, alors que les chiffres fournis semblent indiquer un pourcentage moindre. Cette entreprise est exploitée durant toute l’année mais connaît une période plus achalandée durant le printemps et l’été. Elle est ouverte du lundi au vendredi, de 9h00 à 17h00, sauf le jeudi et le vendredi où elle ferme à 21h00.
+[6] À l’exception des faits énoncés ci-haut, le représentant de l’appelant a nié les présomptions de fait sur lesquelles le Ministre a fondé ses décisions. Je reproduis ci-après ces énoncés pour chacun des dossiers des appelants :
+Dossier d’Alain Bérubé :
+En rendant sa décision, l’intimé, le Ministre du Revenu National, s’est fondé sur les présomptions de faits suivantes :
+. . .
+e) les états financiers du payeur indiquaient les renseignements suivants :
+2001
+revenus bruts 105806
+bénéfice (perte) (4 281$)
+f) les réparations et la vente des pièces de motifs représentaient 95 % du chiffre d’affaires du payeur durant l’année en litige ;
+g) l’entreprise était en exploitation à l’année longue mais la période d’affaires la plus achalandée du payeur était au printemps et à l’été ;
+h) les heures d’ouverture étaient de 9h00 à 17h00 du lundi au mercredi et de 9h00 à 21h00 le jeudi et le vendredi ;
+i) à une date indéterminée, le payeur a embauché l’appelant comme mécanicien ;
+j) durant la période en litige, l’appelant était inscrit au registre des salaires du payeur pour 15 semaines de travail consécutif de 40 heures par semaine ;
+k) durant la période en litige, la rémunération de l’appelant était prétendument de 12,00 $ de l’heure alors que les prétendues chèques de paye de l’appelant étaient endossés par ce dernier et déposés au compte de banque du payeur ;
+l) le payeur et l’appelant prétendaient que la rémunération de l’appelant était versée en argent liquide alors que la facturation entière du payeur pour l’année 2001 ne totalisait que 207,5 heures de travail facturées ;
+m) durant la période en litige, il n’y avait que pour 87,25 heures de réparation facturées par le payeur alors que l’appelant apparaissait au journal des salaires pour 600 heures ;
+n) avant la période en litige, l’appelant a rendu certains services au payeur sans apparaître au journal des salaires ;
+o) le journal des salaires du payeur ne reflétaient pas la réalité quant aux heures réellement travaillées par l’appelant ;
+p) au journal des salaires du payeur, il n’y avait aucun mécanicien pour faire la mécanique des moteurs et des transmissions suite à la prétendue mise à pied de l’appelant alors que le payeur avait autant de revenus de ventes de pièces et de réparation dans les mois suivants la période en litige;
+q) la prétendue période de travail de l’appelant ne correspondait pas avec les périodes les plus achalandées du payeur ;
+r) le 15 juin 2001, le payeur émettait un relevé d’emploi à l’appelant qui indiquait comme premier jour de travail le 26 février 2001 et comme dernier jour de travail le 8 juin 2001, comme heures assurables 600 heures et comme rémunération assurable totale 7 488,00 $ ;
+s) l’appelant avait besoin de 600 heures pour se qualifier à obtenir des prestations d’assurance-emploi ;
+t) le payeur et l’appelant ont conclu un arrangement afin de qualifier l’appelant à recevoir des prestations d’assurance-emploi.
+Dossier de Louise Robichaud :
+En rendant sa décision, l’intimé, le Ministre du Revenu National, s’est fondé sur les présomptions de faits suivantes :
+. . .
+d) Les activités du comptoir Sears se déroulent à l’année alors que les activités concernant les motos sont concentrées de mars à septembre.
+e) Le payeur a embauché l’appelante comme commis-vendeuse au comptoir Sears.
+f) L’appelante et M. Charette sont les seules personnes à travailler au comptoir Sears.
+g) L’appelante devait travailler au comptoir Sears surtout durant la saison forte de la moto puisque M. Charette consacrait beaucoup plus de temps < [sic] la réparation de motos.
+h) Les principales tâches de l’appelante consistaient à s’occuper du comptoir Sears, commander des pièces, préparer la facturation, faire les dépôts, s’occuper de l’entretien de l’ouverture et de la fermeture du magasin.
+i) L’appelante n’avait pas d’horaire fixe de travail; elle rentrait selon les besoins du payeur qui ne comptabilisaient pas ses heures de travail.
+j) Lorsqu’elle était inscrite au registre des salaires, l’appelante était parfois inscrite pour 40 ou 44 heures par semaine, parfois pour le même nombre d’heures à chaque 2 semaines et parfois pour seulement 7 heures par semaine.
+k) Au cours et entre les périodes en litiges [sic], l’appelante rendait des services au payeur sans être inscrite au registre des salaires.
+l) Le 8 octobre 1998, le payeur émettait un relevé d’emploi au nom de l’appelante, portant le numéro A65227751, indiquant qu’elle avait débuté le travail le 9 mars 1998 pour le terminer le 18 septembre 1998.
+m) Dans sa déclaration statutaire signée et datée du 26 février 2002, l’appelante reconnaissait que son relevé d’emploi était faux concernant le 1er jour de travail car elle avait commencé à temps partiel dès le mois d’août 1997.
+n) Le 20 août 1999, le payeur émettait un relevé d’emploi au nom de l’appelante, portant le numéro A66090363, indiquant qu’elle avait débuté le travail le 21 décembre 1998 pour le terminer le 13 août 1999. Le 1er septembre 1999, le payeur modifiait la date du début du travail de l’appelante en indiquant qu’elle avait débuté le 4 avril 1999.
+o) Dans sa déclaration statutaire signée et datée du 26 février 2002, l’appelante reconnaissait que son relevé d’emploi était faux concernant le 1er jour de travail car elle avait recommencé à rendre des services au payeur le ou vers le 24 septembre 1998.
+p) Le 22 août 2000, le payeur émettait un relevé d’emploi au nom de l’appelante, portant le numéro A70065619, indiquant qu’elle avait débuté le travail le 1er novembre 1999 pour le terminer le 4 août 2000.
+q) Dans sa déclaration statutaire signée et datée du 26 février 2002, l’appelante reconnaissait que son relevé d’emploi était faux concernant le 1er jour de travail car elle avait recommencé à rendre des services au payeur le ou vers le 25 août 1999.
+r) Les prétendues périodes d’emploi de l’appelante, entre le 9 mars 1998 et le 4 mars 2000, ne coïncident pas avec les périodes de fortes activités du payeur ni avec les périodes réellement travaillées par l’appelante.
+s) Il y a eu arrangement entre les parties pour permettre à l’appelante de pouvoir se qualifier pour recevoir des prestations d’assurance-emploi.
+Dossier de Donald Charette :
+En rendant sa décision, l’intimé, le Ministre du Revenu National, s’est fondé sur les présomptions de faits suivantes :
+. . .
+f) les états financiers du payeur indiquaient les renseignements suivants :
+1997
+1998
+1999
+2000
+revenus bruts
+80 331$
+109 242$
+107 492$
+105 806$
+bénéfice (perte)
+(1 849$)
+4 650$
+(2 867$)
+5 115$
+g) les réparations et la vente des pièces de motos représentaient 95 % du chiffre d’affaires du payeur durant les années en litige ;
+h) l’entreprise était en exploitation à l’année longue mais la période d’affaires la plus achalandée du payeur était au printemps et à l’été ;
+i) les heures d’ouverture étaient de 9h00 à 17h00 du lundi au mercredi et de 9h00 à 21h00 le jeudi et le vendredi ;
+j) l’appelant a été embauché comme mécanicien et monteur de motos ;
+k) durant les périodes en litige, l’appelant était inscrit au journal des salaires du payeur pour des semaines de travail qui variaient de 7 heures à 50 heures par semaine ;
+l) les prétendues chèques de paye de l’appelant étaient endossés par ce dernier et déposés au compte de banque de payeur alors que, lorsqu’il était rémunéré, l’appelant était rémunéré en argent liquide ;
+m) les périodes de travail de l’appelant ne correspondaient pas avec les périodes les plus achalandées du payeur ;
+n) le journal des salaires du payeur ne reflétaient pas la réalité quant aux heures et quand [sic] aux semaines réellement travaillées par l’appelant ;
+o) le 19 mars 1998, le payeur émettait un relevé d’emploi à l’appelant qui indiquait comme premier jour de travail le 2 février 1998 et comme dernier jour de travail le 13 mars 1998, comme heures assurables 300 heures et comme rémunération assurable totale 3 000,00$ ;
+p) le 26 février 1999, le payeur émettait un relevé d’emploi à l’appelant qui indiquait comme premier jour de travail le 11 mai 1998 et comme dernier jour de travail le 12 février 1999, comme heures assurables 592 heures et comme rémunération assurable 11 semaines avec une rémunération hebdomadaire de 447,20 $ et 5 semaines avec une rémunération hebdomadaire de 50,96 $ ;
+q) le 17 décembre 1999, le payeur émettait un relevé d’emploi à l’appelant qui indiquait comme premier jour de travail le 5 avril 1999 et comme dernier jour de travail le 10 décembre 1999, comme heures assurables 516 heures et comme rémunération assurable totale 4 711,20$;
+r) le 2 octobre 2000, le payeur émettait un relevé d’emploi à l’appelant qui indiquait comme premier jour de travail le 17 juillet 2000 et comme dernier jour de travail le 29 septembre 2000, comme heures assurables 462 heures et comme rémunération assurable totale 4 638,40 $ ;
+s) l’appelant travaillait pour le payeur tout en recevant des prestations d’assurance emploi ;
+t) le payeur et l’appelant ont conclu un arrangement afin de qualifier l’appelant à recevoir des prestations d’assurance-emploi tout en continuant à rendre services au payeur.
+[7] Selon Luc Charette, le propriétaire, son entreprise fait principalement la réparation, la construction et le montage de motos de différentes marques, dont les Harley-Davidson. Il occupe un immeuble de trois étages à St-Gabriel, un petit village de 2 000 habitants. Il exploite son entreprise depuis le mois de mai 1996. Il n’a pas de formation professionnelle en mécanique mais il a appris sur le tas. Au début, il avait un associé, un mécanicien, mais il a acheté les actions de ce dernier avant les périodes en question. Son frère Donald Charette est alors devenu son mécanicien mais, à la suite d’un accident blessant ce dernier, il a embauché l’appelant Alain Bérubé du 26 février au 8 juin 2001 à titre de mécanicien.
+[8] Il a expliqué à la Cour que, durant les mois d’hiver, l’entreprise fait surtout du montage de motocyclettes selon les exigences et les goûts des clients. Il appelle ce travail des contrats à long terme puisqu’il s’échelonne sur une durée de plus de six semaines, surtout lorsqu’il s’agit de démonter des pièces pour les faire chromer, peindre la structure et monter le tout une fois les pièces de retour. Ce genre de contrat est à prix fixe et il ne lui est pas nécessaire de comptabiliser les heures de son mécanicien. En fait, les heures du mécanicien ne sont comptabilisées que lorsqu’il fait du travail à l’heure pour les clients.
+[9] Il conserve sur ce qu’il a appelé un brouillon les heures consacrées à un client mais elles ne paraissent pas sur les factures à prix fixe où le temps du mécanicien était déjà inscrit. Il a ajouté qu’il fournissait à ses mécaniciens les outils nécessaires et que c’est lui qui leur donnait le travail à effectuer.
+[10] L’appelant Alain Bérubé a été embauché pour travailler 40 heures par semaine au salaire net de 300 $ par semaine qui était converti en brut par la comptable de Charette Cycle. Selon Luc Charette, l’appelant faisait tout ce qui a rapport à la mécanique et, de plus, faisait de la soudure, de la peinture et la fabrication de pièces. L’appelant était payé par chèque à chaque semaine. L’appelant endossait les chèques qui étaient encaissés à la Caisse populaire locale par Luc Charette ou Louise Robichaud. Luc Charrette a déclaré n’avoir jamais déposé les chèques de paye de ses employés dans le compte de Charette Cycle. Au printemps, il a ré-embauché l’appelante Louise Robichaud pour travailler à la réception et au comptoir Sears et il est retourné faire ce qu’il appelle la petite mécanique et la routine de l’été. Il a déclaré ne pas avoir besoin de mécanicien durant la saison active et que, le cas échéant, il s’occupait lui-même des travaux de mécanique.
+[11] L’appelant Alain Bérubé travaillait déjà dans un garage comme mécanicien lorsque Luc Charette l’a contacté. Ne pouvant travailler suffisamment de semaines chez son employeur pour devenir admissible à des prestations d’assurance-emploi à chaque année, il accepta d’aller travailler pour Charette Cycle. On lui a offert 40 heures par semaine à 12 $ l’heure, soit 1$ de plus que chez son ancien employeur. Il a reconnu quand même être payé par semaine. Ses heures varient entre 35 et 43 heures. Il a été remercié le 8 juin 2001 car, selon lui, le gros du travail était fait et Luc Charette s’occupait des petits travaux. Il a déclaré avoir endossé ses chèques de paye que Luc allait changer à la Caisse populaire pour lui remettre le montant en argent. Il a reçu sa paye en retard une seule fois. Sa paye nette était de 370,67 $ et les chèques déposés en preuve étaient tous endossés d’abord par l’appelant Alain Bérubé et ensuite par Luc Charette ou par l’appelante Louise Robichaud à partir du 18 mai 2001.
+[12] L’appelante Louise Robichaud est à l’emploi de Charette Cycle depuis 1996. Elle a été embauchée comme réceptionniste pour Charette Cycle et le comptoir Sears. De plus, elle ouvrait et fermait les portes de l’entreprise quand elle y travaillait. Elle a été embauchée à 300 $ net par semaine pour des semaines de 40 heures, soit durant les heures d’ouverture du commerce. Elle était en chômage durant ce que Luc Charette a qualifié de saison morte. Selon Luc Charette, il est arrivé à madame Robichaud de travailler une semaine sur deux lorsqu’il devait s’absenter, de ne travailler parfois que 7 heures par semaine et il lui est arrivé durant son congé de maladie en 2000 de se présenter au commerce tous les jours. Madame Robichaud demeure à 7 minutes de marche du commerce.
+[13] Dans son témoignage, madame Robichaud a expliqué qu’elle a commencé à travailler chez Charrette Cycle en mars 1998. Elle y a travaillé jusqu’au 18 septembre 1998. Elle a repris le travail le 4 avril 1999 jusqu’au 13 septembre 2000. Il s’agit des périodes en question mais elle a fait remarquer que, du 5 mars au 4 août 2000 et du 2 avril au 31 août 2001, son emploi était assurable. Elle a expliqué que son travail a pourtant toujours été le même. Elle a travaillé au comptoir de Charette Cycle et de Sears et elle suivait les directives de son patron. Son salaire variait entre 250 $ et 300 $ net par semaine.
+[14] Du mois d’août au mois de novembre 2000, madame Robichaud a reçu des prestations de chômage durant son congé de maladie. Sur les conseils de son médecin, elle sortait prendre des marches. Comme St-Gabriel est un petit village, elle s’arrêtait chez Charette Cycle et il lui est arrivé, à la demande de Luc Charette, de faire le dépôt bancaire de l’entreprise. Elle a dit avoir fait cela à quelques reprises. Elle ne se souvient pas d’avoir travaillé une semaine sur deux mais soutient qu’elle a travaillé 7 heures par semaine à l’occasion.
+[15] Madame Robichaud a fourni deux déclarations aux représentants de l’intimé, l’une le 4 octobre 2001 et l’autre le 26 février 2002. La principale différence, selon son témoignage, entre les deux déclarations sont les dates apparaissant sur ses relevés d’emploi. Dans la deuxième déclaration, elle reconnaît avoir indiqué que la première journée de travail était fausse mais qu’elle l’a fait sous le pression de deux représentants dont un monsieur Trudel et un monsieur D’Amours. Elle n’a pas rédigé le texte et n’est pas d’accord avec son contenu au sujet des dates. Selon son témoignage, les dates sur les relevés d’emploi sont véridiques et malgré qu’elle a déclaré que la date du dernier relevé était fausse, le ministre a considéré son emploi assurable. Elle reconnaît avoir fait quelques dépôts bancaires en période de chômage pour rendre service.
+[16] L’appelant Donald Charette a été embauché en 1998. Il était mécanicien de moto à Québec avant son embauche. Il travaillait 40 heures par semaine selon les heures d’ouverture et était payé par semaine à raison de 300 $ net. Du mois de février au mois de mars 1998, il recevait 10 $ l’heure, mais du 10 mai au 26 septembre de la même année, il recevait 7,28 $ l’heure. Luc Charette a expliqué qu’il demandait à son frère de venir au dépanneur pour une journée de 7 heures et que son frère l’a déclaré dans ses cartes de chômage. Il appelle ça “ payer pour le professeur ”. Le taux horaire variait parce qu’il rémunerait l’appelant sur la base d’un salaire net et laissait la comptable calculer le salaire brut. Luc Charette a nié avoir déposé les chèques de paye de son frère dans le compte de Charette Cycle ou dans le sien. Il a reconnu avoir endossé les chèques, mais affirme avoir remis l’argent liquide à son frère. L’appelant Donald Charette n’a pas témoigné.
+[17] De son côté, l’intimé a fait témoigner monsieur Denis Trudel qui est enquêteur depuis 1992. À la suite d’une dénonciation anonyme visant les emplois des appelants Donald Charette et Louise Robichaud, il a rencontré l’appelante Louise Robichaud et s’est rendu chez Charette Cycle par après. M. Luc Charette a bien collaboré et a remis à monsieur Trudel la documentation pertinente. À partir de cette documentation, il a constitué un tableau représentatif des opérations de Charette Cycle de 1996 à 2001. Le tableau donne, pour chacune des années, les périodes où les employés ont travaillé et les périodes où ils étaient bénéficiaires de prestations d’assurance-emploi, les heures facturées pour le travail des mécaniciens, le montant des ventes des pièces et de services, les ventes de vêtements, les ventes du comptoir Sears, les dates des dépôts bancaires faits par l’appelante Louise Robichaud et la quantité de pièces achetées par Charette Cycle. Chaque année est comptabilisée en semaines et au mois selon le cas. Les heures facturées n’identifient pas le mécanicien et le nombre d’heures semble toujours être minime. Des heures de travail d’un mécanicien ont été facturées alors que les appelants Donald Charette ou Alain Bérubé étaient en période de chômage mais il est bien vrai que Luc Charette était toujours là et qu’il faisait aussi des travaux de mécanique.
+[18] Pour ce qui est des dépôts bancaires faits par l’appelante Louise Robichaud, le tableau indique qu’elle en a fait durant sa période de chômage et durant les périodes de travail mais pas nécessairement tous les jours. M. Trudel a ajouté qu’en 1998, les achats de pièces du mois de mai, soit 12 285 $ étaient élevés à une époque où l’appelant Donald Charette ne travaillait que 7 heures par semaine et était en chômage. En janvier 1999, alors que l’appelant Donald Charette travaillait à plein temps, les achats de pièces s’élevaient à 946 $ alors qu’en mai, mois au cours duquel il n’a travaillé que quelques heures, les achats de pièces se sont élevés à 7 822 $. Pour 2001, M. Trudel a remarqué que, durant le temps où l’appelant Alain Bérubé travaillait à plein temps, il n’y a presque pas d’heures facturées pour le mécanicien mais que, durant la période où ce dernier était en chômage, il y en a beaucoup plus. De plus, l’entreprise a enregistré un gros chiffre d’affaires au cours des mois de juin, juillet et août, et pendant lesquels l’appelant Alain Bérubé était en chômage. Il n’y a pas de déclaration dans le dossier de Donald Charette.
+[19] Quant à l’appelante Louise Robichaud, M. Trudel a affirmé que sa première journée de travail indiquée sur son relevé d’emploi est fausse puisqu’elle aurait fait des dépôts dans les semaines précédant cette date. C’est en se fondant sur cette information qu’il maintenait sa position que les relevés d’emploi ne reflètent pas la réalité.
+[20] Il incombait donc aux appelants de démontrer, par une prépondérance des probabilités, que la position prise par le Ministre, en l’espèce, est erronée et que les présomptions de fait sur lesquelles sa décision a été prise étaient fausses. La preuve avancée par les appelants nous montre une entreprise qui ne bénéficie pas de ce que l’on pourrait qualifier une saine gestion. Le témoignage de son propriétaire, M. Luc Charette, appuie ce jugement. Qu’il me suffise de signaler sa façon de fixer des prix pour les réparations et la personnalisation de motos de ses clients ou encore de facturer un prix pour faire chromer des pièces et que tous ces prix incluent sa main d’œuvre ou celle de son mécanicien. Cela explique le peu de temps comptabilisé pour le travail de ses mécaniciens qui peut paraître sur ses factures. La preuve révèle aussi qu’une partie importante ce travail visant la réparation et la personnalisation de motos peut se faire tard l’automne ou au cours des mois d’hiver et non pas durant la saison des motos où les clients veulent profiter de leurs motos. Sa facturation est souvent faite à la fin de ces réparations qui parfois peuvent s’échelonner sur plusieurs semaines. Luc Charette n’a pas de méthode de facturation ordonnée pouvant permettre d’évaluer le degré d’achalandage de son entreprise sur une base mensuelle.
+[21] Le témoignage de Luc Charette était loin d’être précis. Il a déclaré avoir embauché l’appelant Alain Bérubé à un salaire de 300 $ net par semaine alors que des chèques déposés en preuve et le témoignage de l’appelant lui-même prouvent qu’il recevait 370 $ net. Luc Charrette a déclaré avoir embauché l’appelante Louise Robichaud en 1996 alors que cette dernière a témoigné que c’est en 1998 qu’elle a été embauchée. Les tableaux de monsieur Trudel appuient madame Robichaud. Malgré ce manque de précision, je ne peux pas rejeter le témoignage de monsieur Charette dans son entier. Même s’il semble un peu mal organisé dans son travail, les explications qu’il apporte sur le rendement de son entreprise semblent plausibles.
+[22] Dans le dossier de l’appelant Alain Bérubé, le Ministre fonde sa décision sur le fait que l’appelant n’aurait travaillé que le nombre d’heures nécessaires pour devenir admissible à des prestations d’assurance emploi bien que le chiffre d’affaires de Charette Cycle allait en augmentant. Luc Charette a expliqué cet état de choses dans son témoignage lorsqu’il dit que la plus grosse partie du travail de mécanique se fait dans les mois d’hiver et que, durant l’été, il lui est possible de faire ce travail lui-même. La vente des pièces et les services a été combinée dans le tableau préparé par monsieur Trudel de sorte qu’il n’est pas possible d’identifier les revenus provenant des services rendus par rapport à la vente des pièces. Les heures facturées n’identifient pas le nom de l’employé qui les a faites de sorte qu’il ne peut y avoir de fondement dans la présomption de fait que l’on trouve aux sous-paragraphes l) et m) de la Réponse à l’avis d’appel.
+[23] Quant aux présomptions de fait au sous-paragraphe n) de la Réponse à l’avis d’appel, la preuve a révélé que monsieur Bérubé a quitté son emploi avec JLP pour aller chez Charette Cycle. Il n’aurait donc pas rendu certains services avant la période en question. Le fait que le propriétaire s’occupait notamment des travaux de mécanique après le départ de monsieur Bérubé laisse entendre que l’entreprise faisait autant de revenus provenant de la vente de pièces que des réparations. Finalement, les chèques de paye de l’appelant n’étaient pas déposés au compte de banque de Charette Cycle comme le prétend le ministre.
+[24] L’appelant Alain Bérubé s’est donc acquitté du fardeau de la preuve qui lui incombait en l’espèce et son appel est accueilli en ce sens que ce dernier occupait un emploi assurable pendant la période en question.
+[25] Dans le dossier de l’appelante Louise Robichaud, la question qu’il faut se poser est de savoir si cette dernière a rendu des services à Charette Cycle lorsqu’elle recevait des prestations d’assurance-emploi. La preuve de l’intimé repose sur le fait que l’horaire de travail de l’appelante, lorsqu’elle était inscrite au registre des salaires, n’était pas constants en ce sens qu’elle travaillait parfois de 40 à 44 heures par semaine, parfois une semaine sur deux et parfois seulement 7 heures par semaine. De plus, les relevés d’emploi concernant le 1er jour de travail étaient faux et, finalement, les périodes d’emploi de l’appelante ne coïncidaient pas avec les périodes de fortes activités de Charette Cycle.
+[26] En l’espèce, Luc Charette a fourni des explications sur les horaires de travail de l’appelante en ce sens que cette dernière a tout d’abord été embauchée sur une base hebdomadaire correspondant aux heures d’ouverture de l’entreprise. Il a également expliqué pourquoi cette dernière pouvait travailler une semaine sur deux ou encore 7 heures par semaine. Cela est dû au fait qu’il pouvait s’absenter et que, durant cette absence, il avait besoin de la présence de l’appelante dans les locaux de l’entreprise. En l’absence de l’appelante, Luc Charette s’occupait de toutes les activités de son entreprise sauf les dépôts bancaires, ce qui l’aurait obligé à se rendre à la banque.
+[27] Pour ce qui est de la controverse concernant la première journée de travail, l’enquêteur Trudel s’est fondé sur le fait que l’appelante aurait effectué un dépôt bancaire pour le compte de Charette Cycle un jour ou quelques jours avant le début de son emploi. M. Trudel a affirmé dans son témoignage n’avoir aucun autre élément de preuve pour établir que l’appelante aurait effectivement débuté son travail avant la date indiquée. En l’espèce, je ne crois pas qu’un simple dépôt bancaire soit suffisant pour établir que l’appelante a commencé et a fourni une journée de travail au sens habituel. Pour ce qui est des périodes d’emploi de l’appelante par rapport aux périodes achalandées de Charette Cycle pour les périodes en question, il m’est très difficile d’établir ce rapport puisqu’en 1998, elle a travaillé pour son employeur à partir du 8 mars jusqu’au 18 septembre 1998 et du 4 avril au 15 août 1999 et du mois d’octobre 1999 jusqu’au 27 février 2000 à temps partiel ou une semaine sur deux et ce durant les périodes achalandées.
+[28] Le tableau de monsieur Trudel indique clairement que l’appelante a effectué des dépôts pour le compte de Charette Cycle lorsqu’elle était bénéficiaire de prestations d’assurance-emploi et elle le reconnaît. Certains de ces dépôts ont été effectués pendant les périodes où elle a travaillé pour son employeur. Ces dépôts ne se faisaient pas de façon systématique et j’accepte les explications de l’appelante lorsqu’elle dit qu’il s’agissait ici d’un service rendu bénévolement lors de ses randonnées dans le village et de ses visites chez Charette Cycle. Rien dans la preuve avancée ne semble indiquer que madame Robichaud aurait rendu plus de services que ceux décrits. Pour ces motifs, l’appel est accueilli et, durant les périodes en question, l’emploi qu’occupait l’appelante Louise Robichaud était un emploi assurable.
+[29] Dans le dossier de l’appelant Donald Charette, la prétention du Ministre est que ce dernier aurait travaillé pour Charette Cycle tout en recevant des prestations d’assurance-emploi et qu’il a conclu un arrangement avec Charette Cycle afin de devenir admissible aux prestations durant les périodes en question. On soutient de façon subsidiaire que son emploi n’est pas assurable puisqu’il existe un lien de dépendance entre lui et Charette Cycle, de sorte que les conditions de travail n’auraient pas été semblables sans ce lien de dépendance.
+[30] En ce qui concerne la première prétention, le Ministre soutient que la période d’affaires la plus achalandée de Charette Cycle était au printemps et à l’été, et, quoique cette affirmation soit étayée par les chiffres d’affaires, la preuve avancée par les appelants démontre que ce n’était pas le cas pour ce qui est des activités du mécanicien. En effet, la preuve démontre que la présence d’un mécanicien était nécessaire à l’automne, durant l’hiver et au début du printemps où on effectuait les réparations et les rénovations à long terme de motos pour que ses clients puissent justement profiter de leurs motos durant la période printemps-été. Il est donc difficile de faire le lien entre les besoins de l’entreprise en ce qui concerne les services d’un mécanicien et le chiffre d’affaires de l’entreprise, d’autant plus que, selon Luc Charette, il faisait lui-même les petits travaux de mécanique durant les périodes achalandées. Cela explique aussi pourquoi l’appelant avait des heures réduites au cours de mois d’été où ses services étaient moins en demande et où il ne semblait offrir qu’un coup de main à Luc Charette.
+[31] Tout comme dans le dossier de l’appelant Alain Bérubé, la prétention du Ministre que les chèqus de paye de l’appelant étaient déposés au compte de Charette Cycle s’avère erronée. La preuve avancée par l’appelant me convainc que tel n’était pas le cas. Je conclus donc que l’emploi de l’appelant durant les périodes en question était un emploi assurable puisqu’il répond aux exigences d’un véritable contrat de louage de services en ce sens qu’il n’y a pas eu d’arrangement entre Charette Cycle et l’appelant.
+[32] Pour ce qui est de la prétention subsidiaire du Ministre, je tiens à souligner que l’agent des appels et l’appelant Donald Charette n’ont pas témoigné dans cet instance. À mon avis, la preuve avancée par les parties sur les modalités d’emploi, la durée, la nature et l’importance du travail accompli est, à toutes fins pratiques, identique, qu’il y ait lien de dépendance ou non, sauf peut-être une plus grande d’expérience de la part de l’appelant qui justifie la rémunération plus élevée.
+[33] À mon avis, les faits retenus par le Ministre n’ont pas été correctement appréciés. Compte tenu des présents motifs, sa conclusion ne me paraît pas raisonnable en l’espèce. L’appel de Donald Charette est donc accueilli.
+Signé à Ottawa, Canada, ce 10e jour de novembre 2004.
+« François Angers »
+Juge Angers
+RÉFÉRENCE : 2004CCI717
+Nº DES DOSSIERS DE LA COUR : 2003-852(EI), 2003-855(EI), 2003-853(EI)
+INTITULÉS DES CAUSES : ALAIN BÉRUBÉ, LOUISE ROBICHAUD, DONALD CHARETTE ET M.R.N.
+LIEU DE L’AUDIENCE : Matane (Québec)
+DATE DE L’AUDIENCE : le 4 octobre 2004
+MOTIFS DE JUGEMENT PAR : L'honorable juge François Angers
+DATE DU JUGEMENT : le 10 novembre 2004
+COMPARUTIONS :
+Avocat des appelants :
+Me Edouard Côté
+Avocate de l'intimé :
+Me Agathe Cavanagh
+AVOCATS INSCRITS AU DOSSIER :
+Pour les appelants :
+Nom : Me Edouard Côté
+Étude : Guay Côté Desaulniers Ouellet (S.E.N.C.)
+Avocats
+Pour l’intimé : Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Ontario

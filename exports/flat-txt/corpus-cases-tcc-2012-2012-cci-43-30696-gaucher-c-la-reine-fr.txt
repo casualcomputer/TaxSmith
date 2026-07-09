@@ -1,0 +1,118 @@
+Title: Gaucher c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30696/index.do
+Corpus path: corpus/cases/tcc/2012/2012-cci-43-30696-gaucher-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2012-02-01
+
+# Gaucher c. La Reine
+
+- Citation: 2012 CCI 43
+- Decision date: 2012-02-01
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7194, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Gaucher c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2012-02-01
+Référence neutre
+2012 CCI 43
+Numéro de dossier
+2010-3326(IT)I
+Juges et Officiers taxateurs
+Robert James Hogan
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2010-3326(IT)I
+ENTRE :
+LAURIANNE GAUCHER,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 1er décembre 2011, à Montréal (Québec).
+Devant : L’honorable juge Robert J. Hogan
+Comparutions :
+Pour l’appelante :
+L’appelante elle‑même
+Représentant de l’intimée :
+Amin Njonkou-Kouandou, stagiaire
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’encontre des nouvelles déterminations établies en vertu de la Loi de l’impôt sur le revenu à l’égard de la prestation fiscale canadienne pour enfants pour les années de base 2005, 2006 et 2007, et à l’égard du crédit pour la taxe sur les produits et services pour l’année d’imposition 2007, est rejeté.
+Signé à Ottawa, Canada, ce 1er jour de février 2012.
+« Robert J. Hogan »
+Juge Hogan
+Référence : 2012 CCI 43
+Date : 20120201
+Dossier : 2010-3326(IT)I
+ENTRE :
+LAURIANNE GAUCHER,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Hogan
+I. Introduction
+[1] Selon des avis de détermination établis par le ministre du Revenu national (le « ministre »), l’appelante est redevable de paiements en trop qu’elle aurait reçus au titre de la prestation fiscale canadienne pour enfants (« PFCE ») et du crédit pour la taxe sur les produits et services (« CTPS ») à l’égard de ses deux enfants pour la période de décembre 2007 à mai 2009. L’appelante concède qu’elle n’avait pas droit à ces paiements puisque les enfants résidaient avec leur père pendant cette période, mais elle prétend qu’elle n’est pas redevable du montant réclamé puisque c’est le père des enfants qui a en fait reçu les paiements en question. Elle se demande pourquoi le ministre a payé les sommes une deuxième fois au père des enfants, ce qui a fait qu’il lui demande de rembourser les paiements en trop.
+II. Exposé sommaire des faits
+[2] L’appelante et M. Jonathan Gagné ont vécu en union de fait. De cette union sont nés deux enfants.
+[3] L’appelante s’est séparée de son conjoint de fait en novembre 2007, alors que les enfants avaient respectivement 2 et 3 ans. Depuis la séparation, le père a la garde des enfants.
+[4] En 2004, l’appelante a déposé une demande de prestation fiscale pour enfants à la suite de la naissance de son premier enfant. Elle a fait de même en 2005, après la naissance de son deuxième enfant. Les versements de PFCE et de CTPS ont été déposés directement dans le compte bancaire conjoint de l’appelante et de M. Gagné à la Caisse Desjardins Les Salines de Saint-Hyacinthe.
+[5] La preuve démontre que l’appelante a remis sa carte bancaire Interac à M. Gagné lors de leur séparation en novembre 2007. L’appelante n’avait plus accès au compte bancaire à compter de cette date.
+[6] Après la séparation, l’appelante a déménagé à Drummondville et elle a ouvert un nouveau compte bancaire à la caisse populaire de cette ville pour faciliter ses transactions bancaires.
+[7] Finalement, en mai 2008, l’appelante a signé une renonciation à ses droits à l’égard du compte bancaire conjoint.
+[8] La preuve démontre que du mois de novembre 2007 au mois de mai 2009, l’appelante n’exerçait aucun contrôle sur le compte bancaire conjoint. M. Gagné a utilisé tous les paiements de PFCE et de CTPS déposés dans son compte pour payer les dépenses des enfants, dont il avait la garde.
+[9] En mai ou juin 2009, M. Gagné a déposé une demande de prestation fiscale pour enfants indiquant qu’il avait la garde exclusive de ses deux enfants, qui habitaient avec lui depuis novembre 2007. Il a demandé au ministre de déposer tous les paiements de PFCE dans le même compte bancaire conjoint que celui dans lequel les paiements antérieurs à l’appelante avaient été versés. Après la vérification de cette demande, le ministre a déterminé que M. Gagné était le particulier admissible à recevoir la PFCE et le CTPS à compter de novembre 2007.
+[10] À la suite de cette détermination, le ministre a procédé au redressement faisant l’objet du présent litige. Il a déterminé que l’appelante n’était plus le particulier admissible à l’égard de ses deux enfants et qu’elle est redevable des montants qui lui ont été payés en trop de décembre 2007 à mai 2009.
+III. La question en litige
+[11] L’intimée a correctement résumé comme suit les questions en litige dans sa réponse à l’avis d’appel :
+a) Est-ce que l’appelante est redevable de la somme de 3 682 $ pour l’année de base 2006 (pour la période de décembre 2007 à juin 2008), et de la somme de 5 894,90 $ pour l’année de base 2007 (pour la période de juillet 2008 à mai 2009) que le ministre a déterminé lui avoir versées en trop au titre de la PFCE?
+b) Est-ce que l’appelante est redevable de la somme de 496 $ que le ministre a déterminé lui avoir versée en trop au titre de la taxe sur les produits et services/taxe de vente harmonisée (« TPS/TVH ») pour l’année d’imposition 2007 (pour la période de juillet 2008 à mai 2009)?
+IV. Analyse
+[12] Dans sa plaidoirie finale, l’avocat de l’intimée m’a demandé de rejeter l’appel parce que l’appelante soulève comme seul motif le fait qu’elle n’a pas reçu les paiements en trop réclamés par le ministre. Selon l’avocat de l’intimée, la Cour n’a pas compétence pour entendre cet argument, puisqu’il s’agit d’une question de recouvrement de la créance de l’intimée, matière sur laquelle la Cour fédérale a compétence exclusive. Je ne partage pas cet avis.
+[13] L’avis de détermination établi à l’égard de l’appelante contenait deux déterminations du ministre, soit, d’une part, qu’elle n’était plus le particulier admissible à recevoir la PFCE et le CTPS à partir de novembre 2007 et, d’autre part, elle était redevable des sommes réclamées par le ministre, comme l’indiquent les questions en litige formulées par l’intimée.
+[14] Dans la décision Surikov c. Canada[1], mon collègue le juge Bowie, a résumé les dispositions de la Loi de l’impôt sur le revenu (la « Loi ») applicables à cette affaire comme suit, au paragraphe 6 :
+(i) Selon l’alinéa 152(1)b), le ministre doit faire une détermination concernant l’admissibilité du contribuable au CTPS;
+(ii) Le paragraphe 152(1.2) prévoit que les dispositions des sections I et J de la partie I de la Loi, qui concernent les cotisations, les nouvelles cotisations, les oppositions, les ratifications et les appels interjetés devant la Cour, sont applicables à la fois aux déterminations et aux nouvelles déterminations concernant l’admissibilité au CTPS effectuées en vertu de l’alinéa 152(1)b), et aux déterminations et nouvelles déterminations concernant l’admissibilité à la PFCE;
+(iii) le paragraphe 160.1(1) a pour effet d’imposer au contribuable l’obligation de rembourser tout montant que le ministre a déterminé être un paiement en trop d’un remboursement, y compris un paiement en trop du CTPS ou de la PFCE;
+(iv) le paragraphe 160.1(3) autorise le ministre à établir une cotisation à l’égard du contribuable pour tout paiement en trop de ce genre, et il prévoit que les dispositions de la section I de la partie I touchant les oppositions aux cotisations sont applicables à toute cotisation de ce genre;
+[…]
+Bien que le paragraphe 160.1(3) ne prévoit pas expressément que les dispositions de la section J, qui comprennent le droit d’interjeter appel devant la Cour à la suite de la ratification d’une cotisation qui a fait l’objet d’une opposition, s’appliquent à une cotisation établie en vertu de ce paragraphe, il ne peut y avoir de doute qu’un appel puisse être interjeté en vertu du paragraphe 169(1). Le libellé du paragraphe 160.1(3) ne comporte aucune différence significative par rapport à celui du paragraphe 160(2), et il n’a jamais fait de doute qu’une cotisation établie en vertu du paragraphe 160(2) puisse faire l’objet d’un appel devant la Cour.
+[15] Le libellé des divers avis de détermination reçus par l’appelante ainsi que la formulation des questions en litige par l’intimée démontrent que le ministre a à la fois effectué une nouvelle détermination à l’égard de l’appelante et établi une cotisation en vertu de l’article 160.1 de la Loi. Par conséquent, je dois déterminer si l’appelante a reçu les paiements dont l’intimée réclame le remboursement.
+[16] Le témoignage de l’appelante me permet de conclure que M. Gagné s’est emparé des prestations qui, à la demande de l’appelante, étaient déposées directement dans ce qui était auparavant leur compte conjoint. Le fait que M. Gagné ait demandé que les paiements rétroactifs de PFCE soient déposés dans le même compte, corrobore le témoignage de l’appelante selon lequel il avait de fait le contrôle de ce compte à compter de novembre 2007. Or, le ministre a déposé les paiements dans le compte conjoint en raison des instructions de l’appelante. L’appelante doit accepter qu’aux yeux du ministre, elle a reçu les prestations en litige conformément aux instructions qu’elle a données à l’Agence du revenu du Canada (l’« ARC »). De plus, en vertu du paragraphe 122.62(4) de la Loi, il incombe au particulier qui cesse d’être admissible d’en aviser le ministre.
+[17] Pour ces motifs, je dois rejeter l’appel.
+[18] Néanmoins, je ne peux passer sous silence le fait que le rejet de l’appel semble donner lieu à un résultat peu équitable envers l’appelante. M. Gagné, par ses actes, semble avoir reçu deux fois la PFCE. On aurait pu éviter cette situation si l’ARC avait donné à l’appelante l’occasion de s’opposer à l’avis de détermination exigeant le remboursement avant d’autoriser le paiement à M. Gagné. En effet, les sommes ont été versées à M. Gagné en juillet 2009 alors que l’avis de nouvelle détermination à l’égard de l’appelante a été établi en juin 2009, ce qui ne lui laissait presque aucune chance de s’y opposer avant que le paiement soit versé à M. Gagné. De plus, comme je l’ai déjà mentionné, M. Gagné a demandé que les paiements rétroactifs soient versés dans le même compte que celui dans lequel les paiements en trop à l’appelante avaient été déposés. Cela aurait dû suffire à éveiller les soupçons de l’ARC. En faisant preuve d’un peu de prudence, l’ARC pourrait éviter de tels litiges et réduire les coûts des procédures en recouvrement qui en résultent.
+[19] Par conséquent, j’estime que l’ARC est en mesure de rectifier la situation, selon les pouvoirs que lui donne la Loi. En effet, l’article 160.1 de la Loi permet au ministre de réclamer le remboursement de toutes les sommes reçues en trop par un contribuable. Rien n’empêche le ministre d’établir une cotisation à l’égard de M. Gagné en se fondant sur cet article au motif qu’il a en fait reçu en double les prestations fiscales pour enfants. J’imagine que l’appelante serait prête à aider le ministre à cet égard. Évidemment, si le ministre a gain de cause contre M. Gagné, j’estime qu’il serait juste dans les circonstances qu’il fasse remise à l’appelante de son obligation de rembourser les paiements en trop.
+Signé à Ottawa, Canada, ce 1er jour de février 2012.
+« Robert J. Hogan »
+Juge Hogan
+RÉFÉRENCE : 2012 CCI 43
+Nº DU DOSSIER DE LA COUR : 2010-3326(IT)I
+INTITULÉ DE LA CAUSE : LAURIANNE GAUCHER c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATE DE L’AUDIENCE : Le 1er décembre 2011
+MOTIFS DU JUGEMENT PAR : L'honorable juge Robert J. Hogan
+DATE DU JUGEMENT : Le 1er février 2012
+COMPARUTIONS :
+Pour l’appelante :
+L’appelante elle‑même
+Représentant de l’intimée :
+Amin Njonkou-Kouandou, stagiaire
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Cabinet :
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] 2008 CCI 161.

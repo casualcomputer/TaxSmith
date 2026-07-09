@@ -1,0 +1,115 @@
+Title: Wilkins c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29042/index.do
+Corpus path: corpus/cases/tcc/2009/2009-cci-61-29042-wilkins-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2009-01-29
+
+# Wilkins c. La Reine
+
+- Citation: 2009 CCI 61
+- Decision date: 2009-01-29
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6851, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Wilkins c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2009-01-29
+Référence neutre
+2009 CCI 61
+Numéro de dossier
+2008-1739(IT)I
+Juges et Officiers taxateurs
+Wyman W. Webb
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2008-1739(IT)I
+ENTRE :
+DARREN WILKINS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle]
+____________________________________________________________________
+Appel entendu à Fredericton (Nouveau‑Brunswick), le 12 janvier 2009.
+Devant : L’honorable juge Wyman W. Webb
+Comparutions :
+Représentante de l’appelant :
+Mme Karen McLeod
+Avocat de l’intimée :
+Me Toks C. Omisade
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’égard de la cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2006 de l’appelant est rejeté, sans dépens.
+Signé à Toronto (Ontario) ce 29e jour de janvier 2009.
+« Wyman W. Webb »
+Juge Webb
+Traduction certifiée conforme
+ce 17e jour de mars 2009.
+Jean-François Leclerc-Sirois, LL.B, M.A.Trad.Jur.
+Référence : 2009 CCI 61
+Date : 20090129
+Dossier : 2008-1739(IT)I
+ENTRE :
+DARREN WILKINS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle]
+MOTIFS DU JUGEMENT
+Le juge Webb
+[1] En l’espèce, la question est de savoir si l’appelant a droit à un crédit d’impôt en vertu de l’article 118.62 de la Loi de l’impôt sur le revenu (la « LIR ») relativement aux intérêts qu’il a payés à l’égard d’une ligne de crédit que TD Canada Trust lui avait consentie pour lui venir en aide pendant qu’il étudiait au Confederation College, à Thunder Bay, en Ontario.
+[2] À l’audience, l’appelant était représenté par Karen McLeod. Celle‑ci a expliqué qu’elle avait aidé l’appelant à obtenir la ligne de crédit auprès de TD Canada Trust. Mme McLeod avait cosigné la demande de ligne de crédit de l’appelant. L’appelant avait aussi obtenu un prêt étudiant distinct en vertu de la Loi fédérale sur les prêts aux étudiants, et il a eu droit à un crédit d’impôt quant aux intérêts qu’il avait payés sur ce prêt‑là.
+[3] L’article 118.62 de la LIR est ainsi rédigé :
+118.62 Le montant obtenu par la formule suivante est déductible dans le calcul de l’impôt payable par un particulier en vertu de la présente partie pour une année d’imposition :
+A × B
+où :
+A représente le taux de base pour l’année;
+B le total des montants (sauf un montant versé en paiement intégral ou partiel d’un jugement) représentant chacun un montant d’intérêt payé au cours de l’année (ou d’une des cinq années d’imposition précédentes postérieures à 1997, dans la mesure où il n’a pas été inclus, pour une autre année d’imposition, dans le calcul de la déduction prévue par le présent article) par le particulier ou une personne qui lui est liée sur un prêt consenti au particulier, ou tout autre montant dont il est débiteur, en vertu de la Loi fédérale sur les prêts aux étudiants, de la Loi fédérale sur l’aide financière aux étudiants ou d’une loi provinciale régissant l’octroi d’aide financière aux étudiants de niveau postsecondaire.
+[4] Comme l’a souligné le juge Little dans Renz v. The Queen, [2003] 1 C.T.C. 2307, 2002 DTC 2014 :
+[5] Aux termes de l'article 118.62, pour donner droit au crédit d'impôt, les intérêts versés doivent découler d'un prêt étudiant consenti en vertu de la Loi fédérale sur les prêts aux étudiants, de la Loi fédérale sur l'aide financière aux étudiants ou d'une loi provinciale régissant l'octroi d'aide financière aux étudiants de niveau postsecondaire. À mon avis, le libellé de l'article est clair et dénué de toute ambiguïté à cet égard, et l'appelant n'est pas visé par cette disposition. En outre, puisque le libellé de l'article 118.62 est clair, il n'est nul besoin de recourir à quelque principe d'interprétation que ce soit pour en interpréter le sens.
+[5] L’article 118.62 de la LIR prévoit que le crédit d’impôt ne peut être accordé que lorsque les intérêts ont été payés sur des prêts étudiants consentis en vertu de la Loi fédérale sur les prêts aux étudiants, de la Loi fédérale sur l'aide financière aux étudiants ou d'une loi provinciale régissant l'octroi d'aide financière aux étudiants de niveau postsecondaire, ou encore, lorsque les intérêts ont été payés sur des sommes dues en vertu de ces lois. Mme McLeod a reconnu que la ligne de crédit accordée par TD Canada Trust n’était pas un prêt consenti en vertu d’une des lois énumérées à l’article 118.62 de la LIR et que la somme due par l’appelant quant à la ligne de crédit n’était pas due en vertu d’une de ces lois. Selon Mme McLeod, l’objet de la ligne de crédit était le même que celui du prêt que l’appelant avait obtenu en vertu de la Loi fédérale sur les prêts aux étudiants, à savoir le financement des études de l’appelant.
+[6] Cependant, l’article 118.62 de la LIR ne comporte pas seulement un critère fondé sur l’objet, car il ne prévoit pas qu’un particulier ait droit à un crédit d’impôt en fonction seulement de l’objet du prêt, sans tenir compte de la façon dont le prêt a été obtenu. Le crédit d’impôt peut seulement être accordé à l’appelant si le prêt en cause a été consenti en vertu d’une des lois énumérées à l’article 118.62 de la LIR, ou si la somme est due en vertu d’une de ces lois. Comme les intérêts payés par l’appelant relativement à la ligne de crédit consentie par TD Canada Trust n’ont pas été payés sur un prêt ou une somme due par l’appelant en vertu d’une des lois énumérées à l’article 118.62 de la LIR, ces intérêts ne donnent pas droit au crédit d’impôt prévu à l’article 118.62 de la LIR.
+[7] Par conséquent, l’appel est rejeté, sans dépens.
+Signé à Toronto (Ontario) ce 29e jour de janvier 2009.
+« Wyman W. Webb »
+Juge Webb
+Traduction certifiée conforme
+ce 17e jour de mars 2009.
+Jean-François Leclerc-Sirois, LL.B, M.A.Trad.Jur.
+RÉFÉRENCE :
+2009 CCI 61
+No DU DOSSIER DE LA COUR :
+2008‑1739(IT)I
+INTITULÉ :
+Darren Wilkins et Sa Majesté la Reine
+LIEU DE L’AUDIENCE :
+Fredericton (Nouveau‑Brunswick)
+DATE DE L’AUDIENCE :
+Le 12 janvier 2009
+MOTIFS DU JUGEMENT :
+L’honorable juge Wyman W. Webb
+DATE DU JUGEMENT :
+Le 29 janvier 2009
+COMPARUTIONS :
+Représentante de l’appelant :
+Mme Karen McCleod
+Avocat de l’intimée :
+Me Toks C. Omisade
+AVOCAT INSCRIT AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

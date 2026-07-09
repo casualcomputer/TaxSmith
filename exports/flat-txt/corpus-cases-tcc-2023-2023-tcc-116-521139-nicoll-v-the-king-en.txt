@@ -1,0 +1,169 @@
+Title: Nicoll v. The King
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/521139/index.do
+Corpus path: corpus/cases/tcc/2023/2023-tcc-116-521139-nicoll-v-the-king-en.md
+Document type: case_law
+Last modified: 2023-08-02
+
+# Nicoll v. The King
+
+- Citation: 2023 TCC 116
+- Decision date: 2023-08-02
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5765, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Nicoll v. The King
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2023-08-02
+Neutral citation
+2023 TCC 116
+File numbers
+2022-944(IT)I
+Judges and Taxing Officers
+Susan Wong
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2022-944(IT)I
+BETWEEN:
+SCOTT NICOLL,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+Appeal heard on September 14, 2022, at Kelowna, British Columbia
+Before: The Honourable Justice Susan Wong
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Nicolas Sigouin
+JUDGMENT
+The appeal from the reassessments made under the Income Tax Act for the 2014 and 2015 taxation years is dismissed without costs.
+Signed at Ottawa, Canada, this 2nd day of August 2023.
+“Susan Wong”
+Wong J.
+Citation: 2023 TCC 116
+Date: August 2, 2023
+Docket: 2022-944(IT)I
+BETWEEN:
+SCOTT NICOLL,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+REASONS FOR JUDGMENT
+Wong J.
+I. Introduction/Overview
+[1] Mr. Nicoll is a boilermaker who regularly travels from his home in Kelowna to jobs in various out-of-town locations. Various iterations of a collective agreement have governed the terms of his employment since at least the early 1990s.
+[2] In 2014 and 2015, the collective agreement changed the way travel allowances were calculated and paid to employees. The changes seemed to be aimed at streamlining the process for reimbursing employees for travel by (among other things) eliminating the need for receipts and using a single location as a common starting point for all trips.
+[3] While the changes may have streamlined the reimbursement process, they also affected the tax treatment.
+II. Issues
+[4] Framed most broadly, the issues are as follows:
+whether the travel allowances of $4,006 and $6,590 received in the 2014 and 2015 taxation years, respectively, were properly included in income; and
+whether any amount of travel or motor vehicle expenses is deductible from employment income in those years.
+III. Factual background
+[5] Mr. Nicoll has worked as a boilermaker for over 30 years and has lived in Kelowna for 17 years, including the years under appeal. The terms of his employment are governed by a collective agreement between his union (Boilermakers Lodge 359) and The Boilermaker Contractors’ Association of British Columbia, which is an umbrella association of member companies who together are the “employer”.[1]
+[6] He testified that his union hall typically calls him at his home in Kelowna to let him know what his next job is. His jobs ordinarily require him to drive from Kelowna to other locations. In 2014 and 2015, he had jobs in Port Alice, Fort Nelson, Trail, Kamloops, Castlegar, Quesnel, Crofton, and Edmonton, among others.[2]
+[7] He explained that under older versions of the collective agreement, the employer paid him his hourly rate for travel time, plus full airfare and transportation costs to his hotel.[3] Under the newer collective agreement which governs the period from 2014 to 2020,[4] the employer reimbursed him for travel by way of an allowance the highlights of which are as follows:
+the employer paid an initial and terminal travel allowance calculated using Canada Revenue Agency’s annual per-kilometre vehicle rate;
+the allowance was calculated using Burnaby City Hall as a common starting place for all workers, regardless of whether a person actually set out from there (which Mr. Nicoll typically did not);
+there would be no additional payment or reimbursement for travel time or expenses incurred, subject to specific exceptions which included:
+fares paid for ferries, tolls, taxis, and planes; and
+project-specific agreements between the union and employer that a standard allowance would be paid to everyone.
+[8] Mr. Nicoll testified that under this regime, he did not have to submit receipts for travel and would automatically receive the allowance if he was dispatched to an out-of-town worksite. He stated that the allowance calculated this way sometimes paid him less than it actually cost him to travel and sometimes it paid him more, so it likely averaged out by the end of a year. He also recalled that under the previous collective agreement, his travel reimbursements were not subject to tax.
+[9] During the audit, Mr. Nicoll provided T2200 (Declaration of Conditions of Employment) forms for 2014 and 2015, signed by one of the companies for which he did a significant amount of work in those years. In box 7 of the T2200 for both years, the employer affirms that Mr. Nicoll was required to pay expenses for which he did not receive an allowance or reimbursement and describes the expenses to be travel expenses in the same amount as the allowances under appeal (i.e. $4,007.34 in 2014 and $6,591.60 in 2015).[5]
+IV. Legislative framework
+[10] Section 6 of Income Tax Act sets out the amounts to be included in employment income and paragraph 6(1)(b) deals specifically with allowances for personal or living expenses. The relevant portions read as follows:
+6. (1) Amounts to be included as income from office or employment – There shall be included in computing the income of a taxpayer for a taxation year as income from an office or employment such of the following amounts as are applicable:...
+(b) personal or living expenses [allowances] – all amounts received by the taxpayer in the year as an allowance for personal or living expenses or as an allowance for any other purpose, except
+...
+(vii) reasonable allowances for travel expenses (other than allowances for the use of a motor vehicle) received by an employee (other than an employee employed in connection with the selling of property or the negotiating of contracts for the employer) from the employer for travelling away from
+(A)the municipality where the employer’s establishment at which the employee ordinarily worked or to which the employee ordinarily reported was located, and
+(B)the metropolitan area, if there is one, where that establishment was located,
+in the performance of the duties of the employee’s office or employment,
+(vii.1) reasonable allowances for the use of a motor vehicle received by an employee (other than an employee employed in connection with the selling of property or the negotiating of contracts for the employer) from the employer for travelling in the performance of the duties of the office or employment,
+...
+[11] The above wording has been in effect since 1994 and applies to the 1990 taxation year and later.[6] The retroactive amendment in 1994 specifically deleted the previous wording of “allowances (not in excess of reasonable amounts)”[7] from both subparagraphs 6(1)(b)(vii) and (vii.1) and replaced it with “reasonable allowances”.
+[12] In explanation of the amendment, the May 30, 1991 Department of Finance Technical Notes say:
+These paragraphs are amended, applicable to the 1990 and subsequent taxation years, to provide that reasonable allowances in respect of travelling expenses and motor vehicle expenses will be excluded in computing the income of an individual from an office or employment. Thus allowances that are not reasonable, rather than only those in excess of a reasonable allowance, may be included in income. In these circumstances, the taxpayer may be entitled to a deduction with respect to travelling expenses under paragraph 8(1)(f) or (h).
+[13] In addition, subparagraph 6(1)(b)(x) deems an allowance received for use of a motor vehicle to be unreasonable for the purposes of subparagraph (vii.1) where the measurement of usage is not based solely on kilometers driven.
+[14] Section 8 of the Act contains the corresponding deduction provisions, the relevant portions of which read as follows:
+8. (1) Deductions allowed – In computing a taxpayer’s income for a taxation year from an office or employment, there may be deducted such of the following amounts as are wholly applicable to that source or such part of the following amounts as may reasonably be regarded as applicable thereto:
+...
+(h) travel expenses – where the taxpayer, in the year,
+(i) was ordinarily required to carry on the duties of the office or employment away from the employer’s place of business or in different places, and
+(ii) was required under the contract of employment to pay the travel expenses incurred by the taxpayer in the performance of the duties of the office or employment,
+amounts expended by the taxpayer in the year (other than motor vehicle expenses) for travelling in the course of the office or employment, except where the taxpayer
+(iii) received an allowance for travel expenses that was, because of subparagraph 6(1)(b)(v), (vi) or (vii), not included in computing the taxpayer’s income for the year, or
+...
+(h.1) motor vehicle travel expenses – where the taxpayer, in the year,
+(i) was ordinarily required to carry on the duties of the office or employment away from the employer’s place of business or in different places, and
+(ii) was required under the contract of employment to pay motor vehicle expenses incurred in the performance of the duties of the office or employment,
+amounts expended by the taxpayer in the year in respect of motor vehicle expenses incurred for travelling in the course of the office or employment, except where the taxpayer
+(iii) received an allowance for motor vehicle expense that was, because of paragraph 6(1)(b), not included in computing the taxpayer’s income for the year, or
+...
+[15] At the same time that subparagraphs 6(1)(b)(vii) and (vii.1) were retroactively amended in 1994, paragraph 8(1)(h.1) was added to deal with motor vehicle expenses and paragraph 8(1)(h) was amended to remove motor vehicle expenses from travel expenses. Both changes were retroactive to 1988.[8]
+[16] In explanation of the amendment, the May 30, 1991 Department of Finance Technical Notes say:
+Paragraph 8(1)(h) is amended to permit an employee to deduct travelling expenses, other than motor vehicle expenses, where the taxpayer was not in receipt of an allowance for such expenses which was non-taxable by reason of subparagraphs 6(1)(b)(v), (vi) or (vii) and the taxpayer does not claim any deduction for the year under paragraphs 8(1)(e), (f) or (g).
+[17] Put simply, the legislative amendments say (and Parliamentary intent confirms) that an allowance for travel or motor vehicle expenses must be wholly reasonable in order to be excluded from employment income. Allowances that are unreasonable must be included in their entirety; i.e. there is no discretion to carve out a reasonable portion from the rest.[9]
+[18] Correspondingly, where such an allowance is considered unreasonable and must therefore be included in income, travel or motor vehicle expenses may be deductible from income by virtue of paragraphs 8(1)(h) and (h.1).
+V. Discussion and analysis
+[19] The collective agreement created administrative ease by obviating the need for receipts and standardizing the reimbursement regime by paying a travel allowance for every trip based on simple mileage using Burnaby City Hall as a common starting point. Unfortunately, the streamlined system also eliminated the specifics which are required in order for Mr. Nicoll to be able to apply sections 6 and 8 in the way he seeks.
+[20] With respect to the travel expenses allowance provision,[10] its wording requires that the employee be travelling away from the employer’s establishment, whether it be the location where the employee ordinarily works/reports or the metropolitan area of the establishment. Here, Burnaby City Hall has no connection to the employer’s establishment so the allowance received by Mr. Nicoll is either unreasonable or falls outside the parameters set out by the provision.
+[21] If Mr. Nicoll’s allowance is instead considered under the provision dealing with allowances for motor vehicle expenses,[11] it would be deemed unreasonable by virtue of subparagraph 6(1)(b)(x). Burnaby City Hall is an arbitrary starting point in this context so the allowance was not based solely on the number of kilometres driven for an employment purpose; therefore, the deeming provision would apply.
+[22] Subsection 6(6), which deals with employment at a special work site or remote location was also raised by the appellant. This provision excludes from income the value of an allowance (not in excess of a reasonable amount) for board/lodging and transportation under defined circumstances.
+[23] In terms of transportation expenses, they must be for transportation between: (i) the principal place of residence and the special work site,[12] or (ii) the remote location and a location in Canada or the country in which the taxpayer is employed.[13] With respect to the former, the use of Burnaby City Hall rather than the principal place of residence disqualifies Mr. Nicoll’s situation from subparagraph 6(6)(b)(i). With respect to the latter, there was insufficient evidence as to which work locations might be considered remote, so subparagraph 6(6)(b)(ii) cannot be applied. I would expect that the streamlined reimbursement system under the collective agreement did not lend itself to this type of recordkeeping in any event.
+[24] With respect to the possible deduction of travel or motor vehicle expenses under paragraphs 8(1)(h) or (h.1), the challenge here is evidentiary. It is clear from the Department of Finance Technical notes that Parliament intended for employees to be able to deduct travel/motor vehicle expenses where their allowance was considered unreasonable and included in income. I can see from the collective agreement and Mr. Nicoll’s testimony that he and his counterparts had the discretion to live and base themselves in or outside of B.C.’s Lower Mainland.
+[25] There might be a question as to whether in some circumstances, travel from one’s home to the out-of-town location is personal versus work-related. However, the appellant sought to deduct expenses equivalent to the amount of the allowances, which does not shed light on what the actual deductible amounts might be (if any). Again, I would expect that the streamlined reimbursement system under the collective agreement did not lend itself to this type of recordkeeping.
+VI. Conclusion
+[26] The appeal is dismissed, without costs.
+Signed at Ottawa, Canada, this 2nd day of August 2023.
+“Susan Wong”
+Wong J.
+CITATION:
+2023 TCC 116
+COURT FILE NO.:
+2022-944(IT)I
+STYLE OF CAUSE:
+SCOTT NICOLL AND HIS MAJESTY THE KING
+PLACE OF HEARING:
+Kelowna, British Columbia
+DATE OF HEARING:
+September 14, 2022
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Susan Wong
+DATE OF JUDGMENT:
+August 2, 2023
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Nicolas Sigouin
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+N/A
+Firm:
+N/A
+For the Respondent:
+Shalene Curtis-Micallef Deputy Attorney General of Canada Ottawa, Canada
+[1] Exhibit R-1; Exhibit A-6, page 6
+[2] Exhibits A-3, A-4, and A-6
+[3] Exhibit A-5, articles 19:04 and 19:05
+[4] Exhibits A-6 and R-1, Article 19
+[5] Exhibit A-2, pages 6 to 9
+[6] Income Tax Amendments Revision Act, S.C. 1994, c. 7. Schedule II (being S.C. 1991, c. 49), subsections 3(2), (3), and (7)
+[7] Income Tax Act, R.S. 1952, c. 148, s. 1 at subparagraphs 6(1)(b)(vii) and (vii.1)
+[8] Income Tax Amendments Revision Act, S.C. 1994, c. 7. Schedule II (being S.C. 1991, c. 49), subsections 5(2), (3), and (10)
+[9] Canada (National Revenue) v. Al Saunders Contracting & Consulting Inc., 2020 FCA 89 (CanLII) at paragraphs 21 to 23
+[10] Income Tax Act, subparagraph 6(1)(b)(vii)
+[11] Income Tax Act, subparagraph 6(1)(b)(vii.1)
+[12] Income Tax Act, subparagraph 6(6)(b)(i)
+[13] Income Tax Act, subparagraph 6(6)(b)(ii)

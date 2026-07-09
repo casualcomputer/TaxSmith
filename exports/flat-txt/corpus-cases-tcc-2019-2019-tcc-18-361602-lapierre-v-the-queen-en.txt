@@ -1,0 +1,179 @@
+Title: Lapierre v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/361602/index.do
+Corpus path: corpus/cases/tcc/2019/2019-tcc-18-361602-lapierre-v-the-queen-en.md
+Document type: case_law
+Last modified: 2019-01-18
+
+# Lapierre v. The Queen
+
+- Citation: 2019 TCC 18
+- Decision date: 2019-01-18
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4340, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Lapierre v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2019-01-18
+Neutral citation
+2019 TCC 18
+File numbers
+2016-5158(IT)G
+Judges and Taxing Officers
+Lucie Lamarre
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2016-5158(IT)G
+BETWEEN:
+LOUIS LAPIERRE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on November 23, 2018, at Montreal, Quebec
+Before: The Honourable Lucie Lamarre, Associate Chief Justice
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Marie-France Camiré
+JUDGMENT
+The appeal from the reassessment made by the Minister of National Revenue with respect to the Appellant’s 2013 taxation year is dismissed with costs payable to the Respondent in accordance with the tariff of the Tax Court of Canada Rules (General Procedure).
+Signed at Ottawa, Canada, this 18th day of January 2019.
+“Lucie Lamarre”
+Lamarre A.C.J.
+Citation: 2019 TCC 18
+Date: January 18, 2019
+Docket: 2016-5158(IT)G
+BETWEEN:
+LOUIS LAPIERRE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Lamarre A.C.J.
+[1] The Appellant is appealing a reassessment by the Minister of National Revenue whereby he was denied a deduction from income in the amount of $200,879 with respect to the salary he received from the International Security Assistance Force (ISAF) in his 2013 taxation year.
+[2] The Respondent’s position is twofold. The Respondent first states that the Appellant’s income is not deductible under subparagraph 110(1)(f)(iii) of the Income Tax Act (ITA) because the Appellant was not an employee of a prescribed international organization.
+[3] The Respondent’s second argument is that the Appellant’s income is not exempt from taxation under paragraph 81(1)(a) of the ITA because no other statute exempts the Appellant’s income from tax.
+Facts
+[4] It is not disputed that the Appellant was resident in Canada during the 2013 taxation year.
+[5] It is also admitted that the Appellant was an employee of ISAF in Afghanistan under an employment contract with Headquarters ISAF (HQ ISAF) as an international civilian consultant (ICC) in Kabul, Afghanistan, for the period from June 23, 2012 to June 22, 2013 (Exhibit R-1, Tab 6).
+[6] The terms of the contract were subject to the Civilian Human Resources Policy and Regulations (CHRPRs) (Exhibit R-1, Tab 15), which apply to the employment of ICCs in the NATO-led ISAF.
+[7] In those regulations, ICCs are described as being civilians employed by ISAF in support of specialized mission requirements, which are normally performed by military personnel or by NATO International Civilians (NICs) in peacetime headquarters. ICCs are part of the force [ISAF], as stated in the Military Technical Agreement (MTA) (Exhibit R-1, Tab 15, page 7).
+[8] The Respondent filed in evidence as Exhibit R-1, Tab 14, pages 2 and 3, a letter from Steven Hill, Legal Adviser and Director, Office of Legal Affairs for the North Atlantic Treaty Organization (NATO), addressed to Mr. Bradley Bates, Legal Officer, United Nations, Human Rights and Humanitarian Law Section at Global Affairs Canada. Mr. Bates testified as to the contents of that letter.
+[9] The letter was written in answer to Mr. Bates’ request regarding the relationship between ISAF, including HQ ISAF, and the Agreement on the Status of the North Atlantic Treaty Organisation, National Representatives and International Staff (Ottawa Agreement).
+[10] The letter states that Article 1 of the Ottawa Agreement defines NATO as consisting of the North Atlantic Council and its subsidiary bodies. By contrast, ISAF was a UN-mandated, NATO-led operation established on the territory of Afghanistan under the authority of the UN Security Council.
+[11] The UN Security Council passed resolutions authorizing the establishment of ISAF to assist in the maintenance of security in Kabul and its surrounding areas (Exhibit R-1, Tab 12, Resolution 1386 (2001) and Resolution 1510 (2003)).
+[12] The status of the ISAF presence and of ISAF’s supporting personnel was governed by the MTA concluded between ISAF and the Afghan Interim Administration (Exhibit R-1, Tab 11). According to the MTA (at pages 3 and 10), the arrangements regarding the status of ISAF are subject to the provisions of the Convention on the Privileges and Immunities of the United Nations concerning experts on missions, and those provisions apply mutatis mutandis to ISAF and supporting personnel.
+[13] According to the letter signed by Mr. Hill, there exists no decision at NATO establishing ISAF HQ as a NATO subsidiary body under the Ottawa Agreement.
+[14] Further, ISAF does not appear as a subsidiary body subject to the Ottawa Agreement on the list of the NATO bodies to which the NATO Civilian Personnel Regulations (CPRs) apply (Exhibit R-1, Tab 16, page 308).
+[15] ISAF is also not listed on the UN website as one of the specialized agencies of the United Nations (Exhibit R-1, Tab 9).
+[16] In answer to a question from the Appellant in cross-examination, Mr. Bates explained that the fact that the CHRPRs are applicable to the employment of ICCs in the NATO-led ISAF mission (as per Exhibit R-1, Tab 15) does not make ISAF a NATO subsidiary body. ISAF consisted of troops from numerous contributing nations, some of which are not part of the NATO alliance (Transcript, pages 57-58).
+Analysis
+1. Deduction pursuant to subparagraph 110(1)(f)(iii) of ITA
+[17] Subparagraph 110(1)(f)(iii) of the ITA reads as follows:
+DIVISION C
+Computation of Taxable Income
+Deductions permitted
+110 (1) For the purpose of computing the taxable income of a taxpayer for a taxation year, there may be deducted such of the following amounts as are applicable
+...
+Deductions for payments
+(f) any social assistance payment made on the basis of a means, needs or income test and included because of clause 56(1)(a)(i)(A) or paragraph 56(1)(u) in computing the taxpayer’s income for the year or any amount that is
+…
+(iii) income from employment with a prescribed international organization,
+[Emphasis added.]
+[18] Subsection 8900(1) of the Income Tax Regulations defines as follows what constitute prescribed international organizations under subparagraph 110(1)(f)(iii):
+PART LXXXIX
+Entities Prescribed with Respect to Certain Rules
+International Organizations
+8900 (1) For the purposes of subparagraph 110(1)(f)(iii) and paragraph 126(3)(a) of the Act, the following international organizations are prescribed:
+(a) the United Nations; and
+(b) each international organization that is a specialized agency brought into relationship with the United Nations in accordance with Article 63 of the Charter of the United Nations.
+[19] Section 63 of the Charter of the United Nations states the following:
+Article 63
+1. The Economic and Social Council may enter into agreements with any of the agencies referred to in Article 57, defining the terms on which the agency concerned shall be brought into relationship with the United Nations. Such agreement shall be subject to approval by the General Assembly.
+2. It may coordinate the activities of the specialized agencies through consultation with and recommendations to such agencies and through recommendations to the General Assembly and to the Members of the United Nations.
+[20] Article 57 of the Charter reads as follows:
+Article 57
+1. The various specialized agencies, established by intergovernmental agreement and having wide international responsibilities, as defined in their basic instruments, in economic, social, cultural, educational, health, and related fields, shall be brought into relationship with the United Nations in accordance with the provisions of Article 63.
+2. Such agencies thus brought into relationship with the United Nations are hereinafter referred to as specialized agencies.
+[21] The specialized agencies referred to above are listed on the UN website filed as Exhibit R-1, Tab 9. As mentioned by Mr. Bates in his testimony, and as evidenced on the UN website, ISAF is not listed as a specialized agency of the United Nations. While the UN authorized ISAF, ISAF is a different entity from the UN. In regard to the above-mentioned evidence, the Appellant did not adduce other evidence to establish that ISAF is a specialized agency of the UN.
+[22] It follows that the employment income received by the Appellant from ISAF is not income from employment with a prescribed international organization within the meaning of subparagraph 110(1)(f)(iii) of the ITA and is therefore not deductible in the computation of his taxable income.
+[23] The Appellant also raised the unfairness of his receiving as a civilian employee working abroad tax treatment under the ITA that differed from his treatment when he was a deployed member of the Canadian Forces, even though his duties were very similar.
+[24] The Tax Court of Canada is not a court of equity and is bound by the ITA. Whether Parliament provides certain deployed members of the Canadian Forces with a deduction from income from employment in paragraph 110(1)(f) and whether Parliament has not provided civilian employees with a similar deduction, even where they perform similar functions, are matters not at issue before me and I express no opinion thereon. The Appellant’s remedy, if any, is therefore with Parliament, not with the Tax Court.
+2. Exemption from income tax under paragraph 81(1)(a) of ITA
+[25] Paragraph 81(1)(a) of the ITA reads as follows:
+SUBDIVISION G
+Amounts Not Included in Computing Income
+Amounts not included in income
+81 (1) There shall not be included in computing the income of a taxpayer for a taxation year,
+Statutory exemptions
+(a) an amount that is declared to be exempt from income tax by any other enactment of Parliament, other than an amount received or receivable by an individual that is exempt by virtue of a provision contained in a tax convention or agreement with another country that has the force of law in Canada.
+[26] The Appellant is of the view that the Ottawa Agreement (which is incorporated into the Privileges and Immunities (North Atlantic Treaty Organisation) Act) is an Act of Parliament that grants an exemption from taxation with regard to his employment income from ISAF. The Respondent says that the Ottawa Agreement does not apply here.
+[27] Section 2 of the Privileges and Immunities (North Atlantic Treaty Organisation) Act reads as follows:
+Approval
+2 The Agreement on the Status of the North Atlantic Treaty Organisation, National Representatives and International Staff, set out in the schedule, is approved and confirmed.
+[28] The Agreement referred to in section 2 above is the Ottawa Agreement.
+[29] The Ottawa Agreement is reproduced in the schedule attached to the Privileges and Immunities (North Atlantic Treaty Organisation) Act. Articles 1, 2, 17 and 19 of the Ottawa Agreement state:
+PART I
+General
+Article 1
+In the present Agreement,
+(a) the Organisation means the North Atlantic Treaty Organisation consisting of the Council and its subsidiary bodies;
+(b) the Council means the Council established under Article 9 of the North Atlantic Treaty and the Council Deputies;
+(c) subsidiary bodies means any organ, committee or service established by the Council or under its authority, except those to which, in accordance with Article 2, this Agreement does not apply;
+(d) Chairman of the Council Deputies includes, in his absence, the Vice-Chairman acting for him.
+Article 2
+The present Agreement shall not apply to any military headquarters established in pursuance of the North Atlantic Treaty nor, unless the Council decides otherwise, to any other military bodies.
+PART IV
+International Staff and Experts on Missions for the Organisation
+Article 17
+The categories of officials of the Organisation to which Articles 18 to 20 apply shall be agreed between the Chairman of the Council Deputies and each of the Member States concerned. The Chairman of the Council Deputies shall communicate to the Member States the names of the officials included in these categories.
+Article 19
+Officials of the Organisation agreed upon under Article 17 shall be exempt from taxation on the salaries and emoluments paid to them by the Organisation in their capacity as such officials. Any Member State may, however, conclude an arrangement with the Council acting on behalf of the Organisation whereby such Member State will employ and assign to the Organisation all of its nationals (except, if such Member State so desires, any not ordinarily resident within its territory) who are to serve on the international staff of the Organisation and pay the salaries and emoluments of such persons from its own funds at a scale fixed by it. The salaries and emoluments so paid may be taxed by such Member State but shall be exempt from taxation by any other Member State. If such an arrangement is entered into by any Member State and is subsequently modified or terminated, Member States shall no longer be bound under the first sentence of this Article to exempt from taxation the salaries and emoluments paid to their nationals.
+[30] The Respondent argues that the Ottawa Agreement only applies to NATO, that is, the Council and its subsidiary bodies. The Respondent says that ISAF is not a subsidiary body as defined in Article 1 of the Ottawa Agreement, as ISAF is not under the authority of the Council. Even though ISAF was part of a NATO-led operation in Afghanistan, the Respondent argues, ISAF is under the authority of the UN Security Council. ISAF’s constitution was authorized by the UN and there is no NATO decision that establishes HQ ISAF as a NATO subsidiary body under the Ottawa Agreement. In the alternative, the Respondent argues that, even ISAF is a subsidiary body of NATO, the Ottawa Agreement does not apply to ISAF, and therefore to the Appellant, because ISAF is a military body.
+[31] In paragraphs 17 and 19 of his Notice of Appeal, the Appellant argues that Article 19 of the Ottawa Agreement exempts his income from tax because ISAF is a subsidiary body of NATO and because he held employment in a position that put him in one of the “categories of officials of the Organisation . . . agreed between the Chairman of the Council Deputies and each of the Member States concerned” under Article 17 of the Ottawa Agreement. The Appellant argues that this was the nature of his position because NATO scrutinized the hiring process for the position and conducted a review with regard to security clearance. His salary was also allegedly paid through the NATO common funding budget.
+[32] The Respondent’s answer is that the Appellant does not have an employment contract with NATO but was hired as an ICC through an employment contract with HQ ISAF. According to his contract, he is not a NATO International Civilian (Exhibit R-1, Tabs, 5, 6 and 7). The CHRPRs applicable to the Appellant do not provide for any tax exemptions for ICCs (Exhibit R-1, Tab 15).
+[33] I agree with the Respondent that the Ottawa Agreement does not apply to exempt the Appellant’s income from Canadian tax. It is clear from the evidence that the Appellant was an ISAF employee, not a NATO employee.
+[34] The Appellant did not establish that ISAF is one of NATO’s subsidiary bodies. The evidence rather establishes that ISAF was set up by United Nations Security Council resolution in order to provide security assistance in the reconstruction of Afghanistan (Resolution 1386 (2001) and Resolution 1510 (2003), Exhibit R-1, Tab 12).
+[35] In the alternative, even if ISAF were to be considered a subsidiary body of NATO, I agree with the Respondent that it is a military body, to which the Ottawa Agreement does not apply. The evidence reveals that ISAF is governed by the MTA, the language of which strongly suggests that ISAF is a military body. Despite the fact that ISAF employs civilian personnel like the Appellant, it is still a military body. It is clear from Article 2 of the Ottawa Agreement that this agreement does not apply to any military headquarters established pursuant to the North Atlantic Treaty nor to any other military body, unless the Council decides otherwise. There is no evidence that the Council decided otherwise.
+[36] I therefore conclude that the Appellant’s income is not exempt from taxation pursuant to paragraph 81(1)(a) of the ITA.
+[37] The appeal is dismissed.
+Signed at Ottawa, Canada, this 18th day of January 2019.
+“Lucie Lamarre”
+Lamarre A.C.J.
+CITATION:
+2019 TCC 18
+COURT FILE NO.:
+2016-5158(IT)G
+STYLE OF CAUSE:
+LOUIS LAPIERRE v. HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+MONTREAL, QUEBEC
+DATE OF HEARING:
+NOVEMBER 23, 2018
+REASONS FOR JUDGMENT BY:
+The Honourable Lucie Lamarre, Associate Chief Justice
+DATE OF JUDGMENT:
+JANUARY 18, 2019
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Marie-France Camiré
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada

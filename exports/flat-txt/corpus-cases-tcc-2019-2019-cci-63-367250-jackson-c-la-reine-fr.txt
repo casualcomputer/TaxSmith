@@ -1,0 +1,109 @@
+Title: Jackson c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/367250/index.do
+Corpus path: corpus/cases/tcc/2019/2019-cci-63-367250-jackson-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2019-03-25
+
+# Jackson c. La Reine
+
+- Citation: 2019 CCI 63
+- Decision date: 2019-03-25
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4323, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Jackson c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2019-03-25
+Référence neutre
+2019 CCI 63
+Numéro de dossier
+2018-3987(IT)I
+Juges et Officiers taxateurs
+Frank J. Pizzitelli
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2018-3987(IT)I
+ENTRE :
+MICHELE JACKSON,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Requête tranchée par voie d’observations écrites
+Devant : L’honorable juge F.J. Pizzitelli
+Participants :
+Avocat de l’appelante :
+Me Jason C. Rosen
+Avocat de l’intimée :
+Me Peter Swanstrom
+ORDONNANCE
+ATTENDU QUE l’appelante a présenté une requête en jugement sommaire conformément au paragraphe 21(4) des Règles de la Cour canadienne de l’impôt (procédure informelle) (les Règles) à la suite du défaut de l’intimée de lui signifier sa réponse à l’avis d’appel dans les cinq jours qui ont suivi le dépôt de sa réponse auprès de la Cour en application du paragraphe 6(2) des Règles.
+ET ATTENDU QUE l’intimée s’oppose à la requête susmentionnée de l’appelante et a déposé une requête incidente conformément à l’article 21 des Règles visant à obtenir une prolongation du délai alloué pour signifier sa réponse à l’avis d’appel du 21 janvier 2019 au 29 janvier 2019, cette dernière date correspondant à la date à laquelle la réponse a, dans les faits, été signifiée.
+ET APRÈS AVOIR EXAMINÉ LES EXPLICATIONS ÉCRITES DES DEUX PARTIES :
+La requête de l’appelante est refusée. La requête incidente de l’intimé visant à obtenir la prolongation du délai alloué pour signifier sa réponse est accueillie. L’appelante dispose de 30 jours après la date de la présente ordonnance pour verser à l’intimée des dépens à hauteur de 250 $ relativement à sa requête.
+Signé à Ottawa, Canada, ce 25e jour de mars 2019.
+« F.J. Pizzitelli »
+Le juge Pizzitelli
+Référence : 2019 CCI 63
+Date : 20190325
+Dossier : 2018-3987(IT)I
+ENTRE :
+MICHELE JACKSON,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE
+Le juge Pizzitelli
+[1] L’appelante a présenté une requête en jugement sommaire conformément au paragraphe 21(4) des Règles de la Cour canadienne de l’impôt (procédure informelle) (les Règles) à la suite du défaut de l’intimée de lui signifier sa réponse à l’avis d’appel dans les cinq jours qui ont suivi le dépôt de sa réponse auprès de la Cour en application du paragraphe 6(2) des Règles.
+[2] L’intimée s’oppose à la requête susmentionnée de l’appelante et a déposé une requête incidente conformément à l’article 21 des Règles visant à obtenir une prolongation du délai alloué pour signifier sa réponse à l’avis d’appel du 21 janvier 2019 au 29 janvier 2019, cette dernière date correspondant à la date à laquelle la réponse a, dans les faits, été signifiée.
+[3] Nul ne conteste le fait que le paragraphe 6(2) des Règles exige que le ministre signifie sa réponse à l’appelante dans les cinq jours qui suivent le dépôt de sa réponse. Les parties conviennent que le ministre a déposé sa réponse auprès de la Cour le 14 janvier 2019, à l’intérieur du délai alloué à cette fin. Elles conviennent également que le ministre avait jusqu’au 21 janvier 2019 pour signifier sa réponse à l’appelante, si l’on tient compte de la fin de semaine. Le ministre a admis que son défaut de signifier son avis à l’appelante procède d’un oubli de son agent des litiges. L’appelante a reconnu dans son affidavit déposé auprès de la Cour pour appuyer sa requête qu’elle s’était renseignée auprès de la Cour et avait obtenu copie de la réponse de l’intimée le 23 janvier 2019. La preuve par affidavit des deux parties atteste que les deux avocats ont discuté ensemble et que l’avocat de l’intimée a offert d’envoyer par voie électronique une copie de la réponse déposée auprès de la Cour le 23 janvier 2019, une offre que l’appelante n’a pas jugé nécessaire d’accepter puisqu’elle en avait déjà obtenu copie auprès de la Cour. Les parties conviennent enfin que l’intimée a signifié sa réponse le 29 janvier 2019, soit une semaine après l’échéance et cinq jours après le rappel par l’appelante.
+[4] Il ressort des faits fondamentaux de cette affaire que l’appelante a déposé sa requête le 26 janvier 2019, soit trois jours après avoir obtenu copie de la réponse de l’intimée auprès de la Cour et après que l’intimée a offert de lui en faire parvenir une copie, sans attendre que l’intimée signifie sa réponse après que celle-ci lui a pourtant indiqué son intention de le faire sur-le-champ.
+[5] En somme, l’appelante prétend que ce court retard dans la signification de la réponse lui a occasionné un préjudice et lui donne droit à un jugement sommaire aux termes du paragraphe 21(4) des Règles. Tous conviennent que les Règles ne comportent aucune disposition précise qui prévoit le prononcé d’un jugement sommaire. L’appelante invoque toutefois le paragraphe 21(4) des Règles, qui autorise la Cour à déterminer la pratique applicable en cas de silence des Règles.
+[6] Le paragraphe 21(4) des Règles est libellé comme suit :
+(4) En cas de silence des présentes règles, la pratique applicable est déterminée par la Cour, soit sur une requête sollicitant des directives, soit après le fait en l’absence d’une telle requête.
+[7] Je tiens à dire d’emblée que la requête de l’appelante est selon moi tout à fait injustifiée. En effet, l’appelante n’a présenté aucun fait pour étayer son allégation voulant qu’elle ait subi un quelconque préjudice à la suite du court retard de l’intimée dans la signification de sa réponse à l’avis d’appel. Nous n’en sommes pas encore rendus à l’étape du procès dans cette affaire, et rien dans la preuve n’atteste un quelconque préjudice susceptible de nuire à la cause de l’appelante, et encore moins des frais supplémentaires ayant dû être engagés par l’appelante relativement à son appel, outre sa précipitation à obtenir le redressement excessif que représente un jugement sommaire dans cette affaire.
+[8] Le paragraphe 21(1) des Règles énonce que l’inobservation des Règles n’annule aucune procédure, à moins que la Cour ne l’ordonne expressément, et accorde à cette dernière la latitude nécessaire pour traiter les irrégularités « de la manière et aux conditions que la Cour estime nécessaires dans les circonstances ».
+[9] Je donne raison à l’intimée lorsqu’elle affirme que le paragraphe 6(2) des Règles ne prévoit aucune sanction en cas de défaut de signifier la réponse à l’avis d’appel après son dépôt auprès de la Cour dans le délai imparti à cette fin, contrairement au paragraphe 18.16(4) de la Loi sur la Cour canadienne de l’impôt qui en prévoit une si la réponse n’est pas présentée dans les délais. Voir les décisions Zhuang c. La Reine, [1196] 3 CTC 2886 (CCI), confirmée par [1998] 3 CTC 284 (CAF), et Scott c. La Reine, 2015 CCI 9. De plus, dans l’arrêt B.W. Strassburger c. La Reine, 2002 CAF 332, cité par l’appelante, la Cour d’appel fédérale avait conclu que la Cour peut déroger aux règles qui fixent des délais.
+[10] Il va sans dire que l’appelante peut, aux termes du paragraphe 21(4) des Règles, déposer une requête en vue d’obtenir une décision de la Cour lorsque des irrégularités compromettent la conformité aux Règles. Cela dit, je ne vois aucune raison d’accorder un jugement sommaire à l’appelante dans cette affaire. Après tout, le retard n’était que d’une semaine, l’intimée a offert d’envoyer une copie de la réponse sur-le-champ lorsqu’elle a été avisée qu’elle avait dépassé de deux jours le délai alloué pour signifier sa réponse, et l’appelante avait déjà obtenu auprès de la Cour copie de la réponse pendant ces deux jours. Je conclus que l’intimée a agi avec célérité pour corriger son erreur et que l’appelante n’a subi aucun préjudice. En fait, je crois que l’appelante est elle-même à blâmer pour tout préjudice qu’elle aurait subi relativement aux frais encourus pour déposer la présente requête qui était tout à fait inutile. Je ne peux que conclure que l’appelante s’est montrée des plus déraisonnable, faisant perdre du temps à la Cour avec le dépôt de cette requête et obligeant l’intimée à devoir déposer à son tour une réponse et une requête incidente afin de régler ces questions.
+[11] Je rejette la requête de l’appelante et fais droit à la requête incidente de l’intimée visant à obtenir une prolongation du délai alloué pour signifier sa réponse. L’appelante doit payer à l’intimée les dépens établis à 250 $ occasionnés par sa requête dans les 30 jours suivant la date de la présente ordonnance.
+Signé à Ottawa, Canada, ce 25e jour de mars 2019.
+« F.J. Pizzitelli »
+Le juge Pizzitelli
+RÉFÉRENCE :
+2019 CCI 63
+NO DU DOSSIER DE LA COUR :
+2018-3987(IT)I
+INTITULÉ :
+Michele Jackson c. La Reine
+DATE DE L’AUDIENCE :
+Requête tranchée par voie d’observations écrites
+MOTIFS DE L’ORDONNANCE :
+L’honorable juge F.J. Pizzitelli
+DATE DE L’ORDONNANCE :
+Le 25 mars 2019
+COMPARUTIONS :
+Avocat de l’appelante :
+Me Jason C. Rosen
+Avocat de l’intimée :
+Me Peter Swanstrom
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Me Jason C. Rosen
+Cabinet :
+Rosen Kirshen Tax Law
+Pour l’intimée :
+Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa, Canada

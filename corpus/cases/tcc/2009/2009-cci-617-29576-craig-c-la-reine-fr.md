@@ -1,0 +1,437 @@
+---
+title: "Craig c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29576/index.do"
+last_modified: "2009-12-17"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 CCI 617"
+citation2: ""
+neutral_citation: "2009 CCI 617"
+decision_date: "2009-12-17"
+language: "fr"
+item_id: "29576"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6332
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T11:18:04.858000+00:00"
+cases_cited_count: 7
+cases_citing_count: 4
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "9362f86465b70418a506e26f52a67594e5ffc546f94135e19fdc93b1b41e5d18"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Craig c. La Reine
+
+- Citation: 2009 CCI 617
+- Decision date: 2009-12-17
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6332, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Craig c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2009-12-17
+Référence neutre
+2009 CCI 617
+Numéro de dossier
+2007-3040(IT)G
+Juges et Officiers taxateurs
+Joe E. Hershfield
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2007-3040(IT)G
+ENTRE :
+JOHN H. CRAIG,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec l'appel de
+John H. Craig 2008-869(IT)G, le 25 août 2009, à Toronto (Ontario).
+Devant : L'honorable juge J.E. Hershfield
+Comparutions :
+Avocats de l'appelant :
+Me Glenn Ernst
+Me Marisa Wyse
+Avocate de l'intimée :
+Me Jenny P. Mboutsiadis
+____________________________________________________________________
+JUGEMENT
+L'appel interjeté de la nouvelle cotisation établie au titre de la Loi de l'impôt sur le revenu pour l'année d'imposition 2000 est accueilli avec dépens, et la nouvelle cotisation est renvoyée au ministre du Revenu national pour nouvel examen et nouvelle cotisation, conformément aux motifs énoncés dans les motifs de jugement ci‑joints.
+Signé à Winnipeg (Manitoba), ce 17e jour de décembre 2009.
+« J.E. Hershfield »
+Juge Hershfield
+Traduction certifiée conforme
+ce 19e jour de mars 2010.
+François Brunet, réviseur
+Dossier : 2008-869(IT)G
+ENTRE :
+JOHN H. CRAIG,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec l'appel de
+John H. Craig 2007-3040(IT)G, le 25 août 2009, à Toronto (Ontario).
+Devant : L'honorable juge J.E. Hershfield
+Comparutions :
+Avocats de l'appelant :
+Me Glenn Ernst
+Me Marisa Wyse
+Avocate de l'intimée :
+Me Jenny P. Mboutsiadis
+____________________________________________________________________
+JUGEMENT
+L'appel interjeté de la nouvelle cotisation établie au titre de la Loi de l'impôt sur le revenu pour l'année d'imposition 2001 est accueilli avec dépens, et la nouvelle cotisation est renvoyée au ministre du Revenu national pour nouvel examen et nouvelle cotisation, conformément aux motifs énoncés dans les motifs de jugement ci‑joints.
+Signé à Winnipeg (Manitoba), ce 17e jour de décembre 2009.
+« J.E. Hershfield »
+Juge Hershfield
+Traduction certifiée conforme
+ce 19e jour de mars 2010.
+François Brunet, réviseur
+Réviseur
+Référence : 2009 CCI 617
+Date : 20091217
+Dossiers : 2007-3040(IT)G
+2008-869(IT)G
+ENTRE :
+JOHN H. CRAIG,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Hershfield
+[1] La Cour est saisie d’appels interjetés de nouvelles cotisations établies pour ses années d'imposition 2000 et 2001. Ces appels se rapportent à l'application des dispositions relatives aux pertes agricoles restreintes énoncées à l'article 31 de la Loi de l'impôt sur le revenu (la « Loi »).
+[2] En ce qui concerne l'année d'imposition 2000, la nouvelle cotisation frappée d’appel ne comportait aucun rajustement des pertes agricoles restreintes que l'appelant avait déclarées pour cette année‑là à l'égard de certaines activités de courses de chevaux auxquelles il se livrait. Néanmoins, l'appel est fondé sur le fait que l'appelant a depuis lors conclu qu'il avait le droit de déduire les pertes en question pour cette année‑là, et ce, sans aucune restriction.
+[3] En ce qui concerne son année d'imposition 2001, l'appelant a déclaré ses activités de courses de chevaux comme constituant deux entreprises. Les pertes subies par suite de l'achat et de la vente de chevaux ont été déclarées comme provenant d'une source différente de celles qu'il avait subies dans le cadre de ses activités de courses de chevaux. Les pertes attribuables aux activités de courses ont été déclarées au titre des dispositions relatives aux pertes agricoles restreintes, alors que les pertes attribuables aux activités d'achat et de vente ont été déclarées à titre de pertes découlant d'une entreprise non agricole, ces pertes n'étant pas visées par les dispositions relatives aux pertes agricoles restreintes. L'appelant a fait l'objet de nouvelles cotisations, compte tenu du fait que les deux activités étaient visées par les dispositions relatives aux pertes agricoles restreintes. L'appel est fondé sur le fait que les dispositions relatives aux pertes agricoles restreintes ne visent aucune des deux activités.
+[4] À l'audience, l'appelant a reconnu qu'il ne soutenait plus que l'achat et la vente de chevaux constituaient une entreprise non agricole distincte. Il avançait plutôt la thèse que les activités de courses de chevaux comprenaient l'achat et la vente de chevaux et constituaient de l'« agriculture » selon la définition figurant à l'article 248 de la Loi pour les deux années visées par les appels, mais qu'elles n'étaient néanmoins pas visées par les dispositions relatives aux pertes agricoles restreintes figurant à l'article 31 de la Loi.
+[5] Il faut en l’espèce rechercher si les pertes en question sont visées par les dispositions relatives aux pertes agricoles restreintes énoncées à l'article 31 de la Loi. L'appelant soutient que ces pertes sont des pertes d'entreprise ordinaires.
+Faits et conclusions préliminaires
+[6] Voici un aperçu des activités de l'appelant qui se rapportent à la question soulevée dans les présents appels et sur lesquelles les parties se sont entendues ou qui ont été établies à ma satisfaction par la preuve :
+a. L'appelant pratique le droit depuis environ 35 ans; à l'heure actuelle, il est associé au cabinet d'avocats Cassels, Brock & Blackwell LLP, à Toronto;
+b. En l'an 2000 et en 2001, l'appelant a tiré de la pratique du droit un revenu de 770 423 $ et de 646 600 $ respectivement. Au cours de ces années‑là, l'appelant a facturé environ 900 et 1 300 heures enregistrées respectivement[1]. Sa rémunération représentait sa valeur, lorsqu'il s'agissait de générer des affaires et de maintenir des relations personnelles avec les clients, et ce, au profit du cabinet. L'appelant gérait et supervisait le travail que d'autres avocats du cabinet effectuaient pour ces clients et donnait des conseils stratégiques. Un grand nombre de ses clients sont devenus des clients fidèles du cabinet. Le cabinet obtient de nouveaux clients par le bouche à oreille. De plus, l'appelant semble être fort respecté dans son domaine et sa réputation lui permet d'attirer des clients. Le revenu qu'il a tiré du droit au cours des dernières années est passé à sept chiffres, et ce, sans qu'il change énormément le temps consacré à la pratique du droit;
+c. En plus de la pratique du droit, l'appelant est membre du conseil d'administration de plusieurs sociétés (jusqu'à sept sociétés). Le temps qu'il consacre à ces conseils (une centaine d'heures chaque année en moyenne) donne lieu à des heures enregistrables facturables dans sa pratique du droit. Les honoraires sont versés au cabinet. En ce qui concerne ces activités, l'appelant a reçu des options d'achat d'actions qui lui ont personnellement permis de réaliser des gains forts intéressants au titre du revenu d'emploi;
+d. Indépendamment de la pratique du droit, mais peut‑être à cause de son domaine d'intérêt et de sa spécialisation dans les milieux juridiques, l'appelant a réalisé des gains en capital élevés sur des placements effectués dans des actions du secteur du pétrole et du gaz;
+e. Comme il en est fait mention dans la réponse et dans la pièce A‑4, et comme les parties en ont convenu ou comme il a été témoigné à l'audience, l'appelant a déclaré les montants suivants au titre du revenu et des pertes au cours des années 1996 à 2001 :
+Année
+Revenu d'emploi
+Revenu professionnel net (tiré de la pratique du droit)
+Revenu de placement (gains en capital imposables)
+Revenu (perte) agricole
+1996
+588 600
+715 085
+213 915
+(63 924)
+1997
+517 350
+668 579
+259 989
+(273 061)
+1998
+35 200
+653 715
+128 667
+(185 142)
+1999
+487 500
+710 066
+313 881
+(142 803)
+2000
+24 000
+770 423
+372 732
+(222 642)
+2001
+36 000
+646 600
+129 331
+(205 655)
+f. L'appelant a reconnu qu'au cours des années en cause, il comptait sur le revenu tiré de la pratique du droit (et notamment sur son revenu d'emploi) et sur son revenu de placement au titre des gains en capital pour subvenir à ses besoins. De plus, il est possible de dire avec passablement de certitude que ces rentrées de fonds servaient à financer ses activités de courses de chevaux au cours des années en cause;
+g. L'appelant effectue un apport de capital dans son cabinet d'avocats, lequel varie d'une année à l'autre, de 150 000 $ (les montants en cause en l'an 2000 et en 2001 respectivement étaient de 165 000 $ et de 150 000 $) à 280 000 $ pour l'année courante. Il a été reconnu que le capital placé dans son portefeuille (la source de ses gains en capital) était plus élevé que le capital investi dans les activités de courses de chevaux, abstraction faite des coûts annuels visant à couvrir les déficits d'exploitation;
+h. L'appelant a témoigné qu'il y avait un chevauchement mineur entre ses activités de courses de chevaux et sa pratique du droit. Il a admis que les courses de chevaux n'avaient pas grand attrait lorsqu'il s'agissait de divertir les clients et il a fait remarquer que son principal client élevait des chevaux, ce qui contribuait au côté amical de leur relation, mais c'étaient ses talents d'avocat qui donnaient lieu à cette relation plutôt que le fait qu'il s'intéressait aux courses de chevaux;
+i. L'appelant envisage de ralentir ses activités et de mettre graduellement fin à la pratique du droit au cours des six années à venir, puisqu'il aura alors atteint l'âge de la retraite prescrit par son cabinet;
+j. Quant à ses activités de courses de chevaux, l'appelant est depuis environ 25 ans propriétaire de chevaux Standardbred et s'occupe de courses, ce qui comprend l'achat et la vente de chevaux Standardbred (les « activités de courses de chevaux »). L'entreprise est exploitée toute l'année. Les courses de chevaux Standardbred ne sont pas une activité saisonnière;
+k. Il ne ressort pas des éléments de preuve que, avant de s'intéresser aux courses de chevaux, l'appelant ait eu des connaissances, une expérience ou une formation dans ce domaine, sous quelque aspect que ce soit. L'appelant a retenu les services d'un entraîneur afin de faciliter le lancement de cette nouvelle entreprise et il a continué à avoir recours à de tels services aux termes d'une entente plutôt exhaustive qui prévoyait la fourniture de l'entretien requis des chevaux ainsi que leur entraînement;
+l. Au cours des années qui ont précédé l'année 2000, l'appelant a consulté des publications de l'industrie et a acquis des connaissances de son entraîneur et d'autres personnes. Il s’est intéressé à tous les aspects de l'industrie, de l’élevage aux règlements de course, et il assistait régulièrement à des ventes de chevaux, à des courses et à des séances d'entraînement, de sorte qu'il avait plus de 15 années d'expérience sur le plan opérationnel, comme le montre peut‑être mieux le fait qu'il était président de la Commission d'appel en matière de chevaux de race Standardbred. De plus, je note que l'appelant était membre fondateur du Comité des propriétaires de chevaux de race Standardbred (le « CPCRS »), groupe qui cherche à éliminer l'usage de drogues dans l'industrie des courses de chevaux et qui a contribué au succès d'activités sans tache telles que la sienne;
+m. L'appelant a développé ses activités. Partie de rien, son écurie est passée à 10, puis à 15 chevaux au milieu des années 1990. En l'an 2000, il possédait 20 chevaux. Il est alors arrivé à la conclusion selon laquelle ce nombre était trop élevé pour qu'il puisse s'en occuper. Un changement de la planification opérationnelle, en vue d'avoir un moins grand nombre de chevaux, des chevaux plus jeunes et des chevaux de meilleure qualité, l'a amené à réduire le nombre de chevaux dans son écurie, de 20 à quelque 14 chevaux en 2001, puis à 11 chevaux au moment de l'audience;
+n. Pendant de nombreuses années, et notamment au cours de ses années d'imposition 2000 et 2001, l'appelant a consacré chaque année plus de 600 heures à ses activités relatives à la propriété, aux courses ainsi qu'aux achats et ventes de chevaux. Ses activités étaient notamment les suivantes :
+- examen sur Internet, le matin, des services de courses ainsi qu'informations au jour le jour et discussions quotidiennes, par téléphone, avec l'entraîneur quant à tous les aspects des activités, y compris les progrès accomplis sur le plan de l'entraînement, les boiteries et les stratégies de course : une heure par jour ou 250 heures par année[2];
+- rencontres, le samedi, avec l'entraîneur et les vétérinaires et présence à l'entraînement presque toutes les semaines. Les discussions, au cours de ces réunions, portaient entre autres sur des sujets semblables à ceux dont il était question lors des conversations téléphoniques quotidiennes, notamment les régimes d'entraînement, les stratégies de course et les ventes de chevaux : 4,5 heures par semaine ou 200 heures par année;
+- présence sur les pistes de course, plus de 40 fois par année. Au cours d'une année donnée, les chevaux de l'appelant pouvaient participer à 150 ou 160 courses : 150 heures par année[3];
+- consultation de catalogues de ventes de chevaux et présence lors de ventes, trois ou quatre fois par année;
+- présence aux audiences tenues par la Commission d'appel. En sa qualité de président de la Commission d'appel en matière de chevaux de race Standardbred, l'appelant entend des appels de décisions prises sur une piste de course ou se rapportant à des courses. L'appelant entend chaque jour sept ou huit appels, trois ou quatre fois l'an;
+- préparation de documents pour les déclarations de revenu annuelles et aux fins de la production trimestrielle des déclarations relatives à la TPS.
+o. Les recettes sont tirées des sommes gagnées (les « bourses ») et des ventes de chevaux. La bourse moyenne, sur une piste de catégorie A, varie de 12 000 à 50 000 $ par course. Les cinq premiers chevaux partagent la bourse, les pourcentages y afférents, de la première à la cinquième place, étant de 50, 25, 12, 8 et 5 %. Les bourses, pour les courses « stake », sont beaucoup plus élevées, mais il faut effectuer une série de paiements afin d'inscrire un cheval;
+p. Les bourses, pour les courses « stake », peuvent varier de 30 000 à plus de 1 500 000 $ pour les principales coupes. Les bourses sont maintenant beaucoup plus élevées, grâce à l'augmentation des paiements pour les courses « stake », aux recettes provenant des machines à sous et autres du même genre, et aux subventions de l'Ontario pour les chevaux issus de l'élevage ontarien;
+q. Il y a des centaines de courses « stake » chaque année. En l'an 2000, les chevaux de l'appelant ont remporté la première place à six reprises et se sont à plusieurs reprises classés en deuxième ou troisième place. En 2001, le nombre de chevaux gagnants était le même, mais un moins grand nombre de chevaux se sont classés en deuxième place, ce qui n'a pas été suffisant pour payer les dépenses. L'appelant a connu plus de succès au cours des deux années suivantes;
+r. La situation de l'appelant, quant aux revenus et aux pertes attribuables à ses activités de courses de chevaux, est la suivante[4] :
+Année d'imposition
+Revenu (perte)
+1986
+1987-91
+27 222 $
+Pertes non précisées
+1992
+25 500 $
+1994
+28 850 $
+1995
+73 000 $
+1996
+(63 924 $)
+1997
+1998
+1999
+2000
+2001
+(237 061 $)
+(185 142 $)
+(142 803 $)
+(222 642 $)
+(205 655 $)
+2002
+69 000 $
+2003
+32 000 $
+2004
+(81 212 $)
+2005
+(66 262 $)
+2006
+(63 924 $)
+2007
+(143 003 $)
+2008
+(85 043 $)
+s. En plus de financer les pertes d'exploitation, l'appelant a investi de gros montants dans son écurie. Il a estimé comme suit le montant investi chaque année[5] :
+Année d'imposition
+Capital
+1994
+190 000 $
+1995
+206 000 $
+1996
+341 000 $
+1997
+130 000 $
+1998
+221 000 $
+1999
+222 000 $
+2000
+412 000 $
+2001
+254 000 $
+t. L'appelant a reconnu avoir investi des montants moins élevés au cours des années subséquentes, des montants de 100 000 à 300 000 $, et ce, à cause d'un changement de stratégie opérationnelle visant la réduction de la taille de son écurie; il s’agissait d’avoir moins de chevaux, mais de meilleure qualité;
+u. À part une partie du matériel, comme les harnais et les sulkys, l'appelant n'a investi presque aucun capital dans ses activités de courses de chevaux, si ce n'est pour les chevaux de course. L'appelant n'avait aucune obligation directe, quant au loyer, au personnel ou à d'autres frais généraux, à part ceux qui étaient visés par l'entente qu'il avait conclue avec l'entraîneur;
+v. L'appelant a toujours eu recours aux services du même entraîneur depuis qu'il a entrepris ses activités de courses de chevaux[6]. L'entente conclue avec l'entraîneur comprend la fourniture de toutes les installations, des aliments et de la main-d'œuvre nécessaires à l'entretien et à l'entraînement des chevaux. L'entraîneur remet à l'appelant des états mensuels ainsi que des sommaires trimestriels. Les états mensuels indiquent les dépenses pour chaque cheval, ce qui comprend les frais d'entraînement (pour le nombre de jours où un cheval particulier a été entraîné le cas échéant), les frais quotidiens de ferme ou de stalle, les frais de vétérinaire et d'autres éléments divers. Incidemment, ces états indiquent les bourses gagnées, le cas échéant, ce mois‑là. Les montants gagnés sont indiqués dans le calcul d'un élément additionnel figurant dans les états mensuels de l'entraîneur, soit des frais additionnels représentant 5 p. 100 des montants gagnés par un cheval au cours du mois[7];
+w. L'entraîneur possède une part (25 %, 33,33 % ou 50 %) à l'égard de certains chevaux faisant partie des activités de courses de chevaux de l'appelant. De fait, en l'an 2000 et en 2001, l'entraîneur possédait une part à l'égard de la plupart des chevaux participant aux activités de courses de l'appelant, comme le montrent les états qu'il soumettait;
+x. L'entraîneur effectue un paiement pour la part qu'il a à l'égard des chevaux et partage au prorata tous les frais y afférents, notamment les frais d'entraînement et les frais de 5 p. 100 sur les montants gagnés. Une estimation approximative de la part de l'entraîneur, exprimée en pourcentage, quant au capital et aux dépenses attribuables à l'ensemble des activités de courses de chevaux de l'appelant, pourrait être de l'ordre de 20 p. 100[8];
+y. L'appelant n'a pas de plan écrit afin de démontrer que ses activités de courses de chevaux peuvent, ou pourraient avoir, des chances raisonnables d'être rentables, et ce, d'une façon continue, qu'elles sont une source principale de revenu ou qu'elles constituent le moyen par lequel il peut gagner sa vie. De fait, l'appelant a reconnu que sa pratique d'avocat, au cours des années ici en cause, avant ces années et par la suite, constituait sa principale profession et son principal gagne‑pain. Il a en outre reconnu que cela continuera probablement à être le cas dans l'avenir, jusqu'à ce qu'il prenne sa retraite dans quelques années. L'appelant croit qu'il consacrera alors plus de temps à ses activités de courses de chevaux et à son travail de membre du conseil d'administration.
+[7] Malgré le manque de connaissances et d'expérience de l'appelant lorsqu'il a entrepris ses activités de courses de chevaux, et même s'il semble que ces activités pouvaient être exercées sans qu'il y contribue énormément, je conclus, compte tenu du témoignage que l'appelant a rendu, qu'il avait en l'an 2000 un rôle fort actif dans cette entreprise. L'entraîneur était pleinement responsable de l'entraînement et de l'entretien des chevaux, mais quant aux autres aspects des activités, il se contentait de faire des recommandations, notamment en ce qui concerne les chevaux à acheter et à vendre, les chevaux qu'il fallait laisser reposer, les chevaux qu'il fallait faire courir dans une catégorie donnée ou les pistes sur lesquelles des chevaux particuliers devaient courir. C'était toujours l'appelant qui prenait la décision finale à cet égard[9].
+[8] Je conclus également que l'intérêt manifesté à ces activités par l'appelant au fil des ans a contribué à lui permettre d'acquérir des connaissances et une expérience, ce qui me permet de déduire qu'il n'est pas simplement un investisseur qui sous‑traitait ses activités. Le fait que l'appelant cherchait quotidiennement à évaluer son entreprise à tous les égards montre bien qu'il voulait assurer le succès de l'entreprise sous sa direction. L'appelant apprenait à connaître ses propres chevaux, la compétition, les possibilités quant aux courses et les pistes de course afin de prendre, sur consultation de l'entraîneur, les décisions quotidiennes nécessaires au succès de l'entreprise. Bref, je conclus qu'au cours des années ici en cause, l'appelant avait acquis de l'expérience quant à tous les aspects qu'un exploitant réussissant bien dans son entreprise aurait connus. Toutefois, c'est une question de perspective. La rentabilité est un coup de dé; la bonne fortune et la mauvaise fortune y ont un rôle fort important. La rentabilité peut en fait être une question de chance ou de malchance. Je conclus que l'approche adoptée par l'appelant, son expérience, ses connaissances et le fait qu'il a consacré son temps et ses ressources à ces activités lui permettent d'avoir de la rentabilité une vision et une attente réalistes comme on pourrait s'y attendre d'un exploitant de courses de chevaux. Le fait que l'entraîneur a investi des fonds dans ces activités le montre bien.
+[9] L'appelant conserve personnellement les documents concernant ses activités de courses de chevaux, qu'il a enregistrées à titre d'entreprises distinctes et qui sont inscrites aux fins de la TPS. L'appelant ne prépare pas d'états financiers et il a souvent déclaré que le montant investi d'une année à l'autre n'était qu'un montant estimatif. Il a été admis que les pièces se rapportant à ces investissements avaient été préparées aux fins de l'audience. Or, selon l'intimée, cela n'est pas compatible avec l'exploitation d'une entreprise commerciale.
+[10] Une bonne compréhension de la nécessité de préparer des états financiers et de l'objet de pareils états jette une certaine lumière sur la question.
+[11] En premier lieu, il faut préparer des états financiers afin de montrer aux tiers où en est l'entreprise. Ainsi, ces états aident la banque à évaluer la situation de l’entreprise lorsqu'il s'agit de consentir un prêt et que l'entreprise fait partie de la garantie qui est fournie à la banque. Ces états aident les investisseurs à déterminer la valeur de leur placement et mettent les associés au courant de la situation pour ce qui est de leur participation à l'entreprise. Il n'y a pas lieu, dans le cas d'un propriétaire unique, de préparer des états financiers. La Loi ne l'exige pas en pareil cas.
+[12] En second lieu, les états financiers brossent le tableau de la situation financière de l’entreprise à un moment donné, habituellement à la fin de l’exercice. Le propriétaire unique est peut‑être en mesure de rendre compte de sa situation financière à un moment donné, mais si on lui demande, en 2009, quels étaient les capitaux investis en l'an 2000, il lui faudrait demander de quel jour il s'agit ou il lui faudrait estimer la moyenne pour l'année en revenant en arrière et en retrouvant les documents. C'est ce que l'appelant a fait.
+[13] À l'aide de ses documents, l'appelant préparait les états de résultats à la fin de chaque année. Les montants en cause sont indiqués au sou près et ils sont incontestablement exacts. Essentiellement, toutes les dépenses figurant dans les états de l'entraîneur et la part des gains revenant à l'appelant, telle qu'elle a été déclarée, n'ont pas été mises en question. De plus, les documents de l'appelant, en ce qui concerne l'achat et la vente de chevaux de course, et le moment où ces documents ont été rédigés n'ont pas été mis en question. Les documents de l'appelant indiquant les capitaux investis ne devraient donc pas être contestés. L'objection est dénuée de fondement.
+[14] L'appelant n'avait pas dressé par écrit de plan d'entreprise, mais il a sans aucun doute adopté de nouvelles approches à l'égard de ses activités et il modifiait ces approches de temps en temps dans le but de rendre ces activités plus rentables.
+[15] En 1997, l'appelant a décidé d'agrandir son écurie en acquérant un plus grand nombre de yearlings (des chevaux de moins de deux ans), qui offraient à long terme de bonnes perspectives. Il n'est donc pas surprenant que des pertes aient été subies au cours des deux ou trois années suivantes. L'appelant a pris cette décision en vue d'assurer avec le temps une meilleure rentabilité. Cela avait pour effet d'accroître les pertes et les risques d'entreprise, mais les bourses augmentaient (en particulier, dans le cas des chevaux admissibles au programme Standardbred Ontario Sires Stakes, dont les bourses étaient lucratives), de sorte que le rendement de l'investissement semblait prometteur.
+[16] Cette stratégie a connu des résultats modestes en 2002 et en 2003, mais l'appelant possédait trop de chevaux, de sorte qu'il a révisé son plan d'entreprise afin d’avoir des chevaux moins nombreux, mais de meilleure qualité. Comme il l'a dit, il en coûte aussi cher d'assurer l'entretien d'un cheval perdant que ce qu'il en coûte pour un cheval gagnant, et la pénurie de personnel, pour une grosse écurie, aggravait en outre le problème.
+[17] Les résultats ont néanmoins continué à être décevants. Dans l'ensemble, l'appelant admet avoir commis des erreurs à certains moments, par exemple en effectuant de mauvais achats et en insistant pour faire courir des chevaux trop jeunes, ce qui contribuait aux problèmes de boiterie. De plus, en 2003 et 2004, l’usage des drogues illégales assurant une meilleure performance a commencé à se répandre, ce qui donnait aux propriétaires peu scrupuleux un avantage injuste. Sur ce point, l'appelant était personnellement fier du rôle qu'il a eu à titre de membre fondateur du CPCRS, lorsqu'il s'est agi d'apporter ce qu'il a qualifié de gros changements en matière de dépistage de drogues et quant à la gravité des pénalités.
+[18] L'appelant a témoigné qu'il continuerait à exercer ses activités de courses de chevaux et qu'il pensait bien pouvoir le faire, à plus petite échelle du moins, indépendamment de son revenu tiré de la pratique du droit.
+Les textes législatifs
+[19] Voici la disposition pertinente de la Loi :
+31(1) Pertes provenant d'une activité agricole ne constituant pas la principale source de revenu – Lorsque le revenu d'un contribuable, pour une année d'imposition, ne provient principalement ni de l'agriculture ni d'une combinaison de l'agriculture et de quelque autre source, pour l'application des articles 3 et 111, ses pertes pour l'année, provenant de toutes les entreprises agricoles exploitées par lui, sont réputées être le total des montants suivants :
+a) la moins élevée des sommes suivantes :
+(i) l'excédent du total de ses pertes pour l'année, déterminées compte non tenu du présent article et avant toute déduction prévue aux articles 37 ou 37.1 et provenant de toutes les entreprises agricoles exploitées par lui, sur le total des revenus, ainsi déterminés, qu'il a tirés pour l'année de ces entreprises,
+(ii) 2 500 $ plus la moins élevée des sommes suivantes :
+(A) 1/2 de l'excédent du montant visé au sous‑alinéa
+(i) sur 2 500 $
+(B) 6 250 $;
+b) l'excédent éventuel de la somme visée au sous‑alinéa (i) sur la somme visée au sous‑alinéa (ii) :
+(i) la somme qui serait déterminée en vertu du sous‑alinéa a)(i) compte non tenu du passage « et avant toute déduction prévue aux articles 37 ou 37.1 »,
+(ii) la somme déterminée en vertu du sous‑alinéa a)(i),
+(1.1) Perte agricole restreinte. – Pour l'application de la présente loi, la perte agricole restreinte d'un contribuable pour une année d'imposition correspond à l'excédent éventuel du montant visé à l'alinéa a) sur le total visé à l'alinéa b) :
+a) le montant déterminé selon le sous‑alinéa (i)a)(i) relativement au contribuable pour l'année;
+b) le total du montant déterminé selon le sous‑alinéa (1)a)(ii) relativement au contribuable pour l'année et des montants représentant chacun un montant qui, par l'effet de l'article 80, est à appliquer en réduction de la perte agricole restreinte du contribuable pour l'année.
+(2) Décision du ministre – Pour l'application du présent article, le ministre peut déterminer si le revenu d'un contribuable, pour une année d'imposition, ne provient principalement ni de l'agriculture ni d'une combinaison de l'agriculture et de quelque autre source.
+La thèse de l'appelant
+[20] Selon la thèse de l'appelant, les activités de courses de chevaux, combinées à la pratique du droit, constituaient sa principale source de revenu au cours des années ici en cause, de sorte que l'article 31 de la Loi ne joue pas; on ne saurait restreindre la perte qu'il a subie dans le cadre de ses activités de courses de chevaux au cours de ces années‑là.
+[21] L'appelant se fonde surtout sur la jurisprudence Gunn c. The Queen[10].
+[22] M. Gunn, comme l'appelant, était un avocat dont le revenu professionnel était élevé. M. Gunn s'était également livré à l'agriculture et à l'élevage de bétail pendant plus de 18 ans, tout en pratiquant le droit. Sauf pour deux années, il avait toujours subi des pertes, de plus de 100 000 $ pour certaines années, dans le cadre de ses activités agricoles.
+[23] Dans l'arrêt Gunn, la Cour d'appel fédérale a fait remarquer que l'arrêt de principe relatif à l'article 31, Moldowan c. The Queen[11], a fait l’objet de critiques. L'appelant fait remarquer la nature de ces critiques en renvoyant à la décision du juge Bowman (tel était alors son titre) dans l'affaire Hover c. Canada (Minister of National Revenue - M.N.R.)[12] et à la décision du juge Joyal dans l'affaire Harold S. Hadley c. Her Majesty the Queen[13]. Ces décisions enseignent que le critère consacré par l'arrêt Moldowan mène à une situation intenable, étant donné que cela veut en fait dire qu'il est impossible d'éviter l'application de l'article 31, sauf si l’on peut établir que l'autre source de revenu est une source accessoire par rapport à l'agriculture. S'il était possible de l'établir, cela voudrait dire que l'appelant a établi que l'agriculture constitue sa principale de source de revenu, de sorte que le critère de la combinaison, à l'article 31, serait dénué de sens.
+[24] L'appelant ajoute que, dans l'arrêt Moldowan, on se fondait sur des principes d'interprétation des lois qui ne tiennent plus aujourd’hui. Il cite plusieurs décisions faisant autorité à l'appui de cet argument. Celui‑ci est, de fait, étayé par la jurisprudence Gunn elle‑même et il semble donc inutile de se fonder sur ces autres décisions.
+[25] Le critère de la combinaison, à l'article 31, que l'appelant invoque est formulé comme suit au paragraphe 83 de l'arrêt Gunn :
+[83] À mon avis, la question de la combinaison doit être interprétée de manière à n’exiger qu’un examen de l’effet cumulatif du total du capital investi dans l’agriculture et dans une deuxième source de revenu, du total du revenu tiré de l’agriculture et d’une deuxième source de revenu, et du total du temps consacré à l’agriculture et à la seconde source de revenu, compte tenu du mode de vie ordinaire du contribuable, de son expérience de l’agriculture, enfin de ses intentions et de ses attentes. On évitera ainsi d’appliquer le critère jurisprudentiel selon lequel l’agriculture doit être l’élément prédominant de la combinaison de l’agriculture et de la seconde source de revenu, un critère qui à mon avis a été mis à mal par la jurisprudence ultérieure. Il y aurait une réponse positive à la question de la combinaison si, par exemple, le contribuable a investi une somme appréciable dans une entreprise agricole, s’il consacre la quasi‑totalité de son temps de travail à la fois à l’agriculture et à l’autre activité principale lucrative, et si ses activités quotidiennes combinent l’agriculture et l’autre activité lucrative, le temps consacré à chacune étant important.
+[26] L'appelant soutient que, vu la jurisprudence Brian J. Stewart c. The Queen[14], eu égard aux faits de l'espèce, ses activités de courses de chevaux ne peuvent pas être considérées comme une démarche personnelle. En outre, compte tenu des capitaux investis dans les activités de courses de chevaux et du nombre de chevaux possédés par l'appelant dans le cadre de ces activités, il est soutenu que les activités ont atteint un degré de commercialité, d'engagement et d'importance dans le cadre de la vie quotidienne professionnelle du contribuable, de sorte qu'on ne saurait les considérer comme une entreprise secondaire.
+[27] En outre, comme l'a reconnu la juge Woods au paragraphe 19 de la décision Clemmer c. The Queen[15], les capitaux engagés dans l'agriculture doivent également inclure « la contribution financière à l'entreprise dans son ensemble plutôt que de simplement tenir compte des dépenses imputables au capital ». Les apports de l'appelant à cet égard étaient clairement conséquents.
+[28] Le temps consacré aux activités de courses de chevaux par rapport au temps consacré à la pratique du droit est important.
+[29] Compte tenu de ces faits, il est soutenu que l'appelant répond à l’enseignement de la jurisprudence Gunn, quant à l'identification d'une source principale de revenu, de sorte qu'il convient de reconnaître que sa principale source de revenu pour les années d'imposition ici en cause était la combinaison de ses activités de courses de chevaux et de sa pratique du droit. Il est également souligné, à l'appui de la thèse de l'appelant, que la preuve de la rentabilité au cours de certaines années doit se voir attribuer énormément de poids.
+[30] L'appelant a reconnu que, dans l'arrêt Gunn, la Cour d'appel fédérale avait dit que l’issue de la cause aurait été la même, même si les principes consacrés par l'arrêt Moldowan avaient été appliqués plus strictement. En soulignant l'importance similaire que M. Gunn et lui‑même accordaient à leurs entreprises agricoles respectives, l'appelant soutient qu'il doit également être conclu que, comme M. Gunn, il n'est pas visé par la restriction établie à l'article 31.
+[31] En ce qui concerne la question de la force obligatoire de la jurisprudence Gunn, l'appelant a cité la décision Johnson c. Canada[16], dans laquelle le juge Webb a conclu qu'il ne pouvait écarter la jurisprudence Gunn quant à la combinaison.
+[32] En ce qui concerne le fait qu'il comptait sur un entraîneur qu'il avait embauché pour exploiter l'entreprise, l'appelant invoque les jurisprudences Astroff c. M.N.R.[17] et Felicella c. The Queen[18], lesquelles enseignent que pareils facteurs ne sont pas pertinents. En ce qui concerne la nature risquée de l'entreprise, l'appelant se fonde sur la décision Clemmer, dans laquelle la juge Woods, qui examinait le même point dans un contexte similaire, a fait remarquer que le tribunal doit en principe éviter de reconsidérer une décision commerciale du contribuable.
+[33] L'appelant a également examiné un certain nombre de décisions dans lesquelles il a été conclu que les activités de courses de chevaux étaient visées par l'article 31 de la Loi. Il a été soutenu qu'il est possible de faire des distinctions entre ces décisions et la présente espèce.
+La thèse de l'intimée
+[34] L'intimée soutient que la principale source de revenu de l'appelant n'était ni l'agriculture ni une combinaison de l'agriculture et de quelque autre source. Selon elle, sa principale source de revenu provenait plutôt de la pratique du droit ou d'une combinaison de la pratique du droit et du revenu de placement. À l'audience, il a été souligné que l'appelant identifiait ces deux flux de revenu comme constituant la source de son gagne‑pain et il a été déclaré que, de toute façon, l'appelant n'avait pas prouvé le contraire.
+[35] L'intimée a reconnu que les activités de courses de chevaux de l'appelant constituaient une entreprise, mais elle a néanmoins soutenu qu'en exerçant ces activités, l'appelant se montrait indifférent à l'égard des pertes subies; elle invoque l'arrêt Minister of National Revenue c. Donnelly[19], de la Cour d'appel fédérale; selon elle, cette jurisprudence enseignerait qu'en pareil cas l'article 31 s'applique.
+[36] En se fondant encore une fois sur l'arrêt Donnelly, l'intimée fait remarquer qu'il faut évaluer la rentabilité de l'entreprise par rapport aux capitaux investis. Un bénéfice minime par rapport à la durée de l'investissement et aux capitaux investis ne peut pas être considéré comme ayant le degré de rentabilité qui est raisonnable dans ces circonstances.
+[37] L'intimée se fonde également sur l’application stricte du critère consacré par l'arrêt Moldowan. Elle fait valoir que, dans la mesure où la jurisprudence Gunn s’oppose à la jurisprudence Moldowan, je suis tenu de suivre l’enseignement de la Cour suprême du Canada dans l'arrêt Moldowan, comme il a été conclu dans la décision Falkener c. Canada[20]. Selon la jurisprudence Moldowan, le contribuable, pour être à l'abri de la restriction imposée à l'article 31, doit être une personne dont la préoccupation majeure est l'agriculture. L'intimée affirme que telle est la seule interprétation sensée de la disposition en question.
+[38] D'autres décisions sont invoquées à l'appui de la thèse selon laquelle l'article 31 vise à protéger l'agriculteur à plein temps qui a recours à une source secondaire de revenu afin de soutenir son activité agricole. Voir, par exemple, Loyens c. The Queen[21]. Selon l'intimée, des distinguos s’imposent entre les faits des affaires invoquées par l'appelant, et notamment l'affaire Gunn, qui est sans aucun doute celle qui est le plus comparable à la situation de l'appelant. L'intimée fait en outre valoir que, si la jurisprudence Gunn élargit la portée des principes établis dans l'arrêt Moldowan d'une façon acceptable, cela n'aide pas pour autant l'appelant en l'espèce. Bref, l'intimée soutient qu'il est possible de faire une distinction entre les faits de l'affaire Gunn et ceux de la présente espèce.
+[39] L'intimée soutient que la constatation de bénéfices pour six des 25 années d'exploitation n'indique pas que les activités de courses de chevaux constituent une source principale de revenu. Cela indique plutôt une source principale de pertes – soit au mieux une entreprise secondaire.
+[40] En examinant des décisions telles que Moldowan, Canada c. Morrissey[22], Afzal c. R.[23] et Donnelly, pour n'en nommer que quelques‑unes, l'intimée soutient que la comparaison des faits de ces affaires et de ceux de la présente espèce démontre que l'appelant appartient à une catégorie d'agriculteurs qui est visée par la restriction des pertes prévue à l'article 31[24].
+Analyse
+[41] Comme cela a été signalé, l'intimée a reconnu, lors des débats, que les activités de courses de chevaux constituaient une entreprise, de sorte qu'il est reconnu que ces activités constituent une source de revenu.
+[42] Si l’on reconnait que les activités de courses de chevaux constituent une entreprise, logiquement, celles-ci ne constituent pas une démarche personnelle, un simple passe‑temps. Ce raisonnement repose sur l'analyse qui a été faite dans l'arrêt Stewart, où la Cour suprême du Canada a fait ressortir sous un jour nouveau le sens de l'expression « source de revenu ». Cet arrêt a fait jurisprudence : il décide qu'aux termes de la Loi, il n'existe aucune restriction à l'égard de la déduction de pertes subies dans le cadre d'une activité considérée comme constituant une source de revenu, c'est‑à‑dire qu'il n'existe aucune restriction à l'égard de pertes subies dans le cadre d'une activité exercée à titre d'entreprise, par opposition à une démarche personnelle. Ces notions sont mutuellement exclusives. Cela étant, reconnaître que les activités de courses de chevaux constituent une entreprise, c'est, dans l'état actuel du droit, reconnaître qu'il ne s'agit pas d'une démarche personnelle.
+[43] Ce raisonnement et cette conclusion sont pertinents, en ce sens que, si l'article 31 vise des démarches personnelles telles que celles de personnes qui se livrent à l'agriculture en tant que passe‑temps, comme l’enseignent un grand nombre de décisions antérieures et postérieures à l'arrêt Moldowan, il s'ensuit que les personnes qui se sont consacrées à l'agriculture d'une façon suffisamment professionnelle pour respecter les critères consacrés par l'arrêt Stewart ne seront jamais visées par cette disposition. Or, il ne peut clairement pas en être ainsi.
+[44] Même s'il est conclu qu'une entreprise agricole est une entreprise au sens du critère de l'arrêt Stewart, la restriction relative aux pertes prévue à l'article 31 joue néanmoins s'il s'agit d'une entreprise secondaire. Malgré les anomalies auxquelles donne lieu l'article 31, la jurisprudence enseignant qu’il faut interpréter la disposition en question comme prévoyant une restriction à l'égard d'une entreprise secondaire est bien fixée. En l'absence de pareille notion, l'énigme que posent la question de la combinaison et son application serait encore plus difficile à résoudre qu'elle ne l'a été.
+[45] Toutefois, l'application de la notion d'entreprise secondaire n'a pas été facile. De fait, tel qu'il est énoncé dans l'arrêt Moldowan en ce qui concerne les trois catégories d'agriculteurs, le critère de l'entreprise secondaire a fait l’objet de nombreuses critiques. Si, afin d'éviter la restriction prévue à l'article 31, l'agriculture doit être plus qu'une entreprise secondaire, la tendance est que ce doit être la principale source, ce qui rend dénué de sens le critère de la combinaison.
+[46] À mon avis, c'est là que l'analyse effectuée dans l'arrêt Gunn élargit les principes d'interprétation consacrés par l'arrêt Moldowan, de façon à limiter l'étendue des pertes agricoles restreintes, ce qui aide considérablement à rationaliser une interprétation satisfaisante de l'article 31. À mon avis, cela confirme qu'une activité agricole ne sera pas assimilée à une entreprise secondaire aux fins de l'application du critère de la combinaison, à l'article 31, et ce, même dans le cas où cette activité ne sera peut‑être jamais la principale source de revenu du contribuable.
+[47] Une telle application de l'article 31 ou l'application préconisée dans l'arrêt Gunn offre une possibilité à l'appelant, c'est‑à‑dire que, pour défendre sa thèse en l’espèce, l'appelant se fonde entièrement sur le fait que j'appliquerai l'arrêt Gunn et sur la façon dont je l'appliquerai.
+[48] Le point de départ de l'analyse consiste à examiner l'interprétation de l'article 31, telle qu'elle est préconisée dans l'arrêt Moldowan, et à la comparer à celle qui a été suivie dans l'arrêt Gunn afin de mieux comprendre ce en quoi l'interprétation prônée dans l'arrêt Gunn est plus libérale. Il sera alors possible de décider si l'appelant doit voir sa thèse retenue, comme le fut celle de M. Gunn. Si je retiens la thèse de l'appelant, il faudra rechercher si cette interprétation peut l'emporter, sans qu'il soit par ailleurs conclu que l'appelant satisfait également aux critères de la jurisprudence Moldowan, comme c'était le cas pour M. Gunn.
+La classification des agriculteurs selon la jurisprudence Moldowan
+[49] Il est utile de réitérer en détail les principes directeurs de la jurisprudence Moldowan, consacrant trois catégories d'agriculteurs :
+i) l'agriculteur de la première catégorie est, de nos jours, celui qui satisfait au critère de la jurisprudence Stewart quant au revenu tiré d'une entreprise et qui a satisfait aux critères additionnels établis dans le cas des agriculteurs qui peuvent déduire leurs pertes agricoles sans restriction aucune. Il s'agit de l'agriculteur « [...] qui peut raisonnablement s'attendre à tirer de l'agriculture la plus grande partie de son revenu ou à ce que ce soit le centre de son travail habituel »[25]. [Non souligné dans l’original.] Il considère l'agriculture comme son gagne‑pain même s'il y a des années où il subit des pertes;
+ii) l'agriculteur de la deuxième catégorie est celui qui satisfait au critère de la jurisprudence Stewart, mais qui n'a pas satisfait aux critères additionnels de la première catégorie;
+iii) selon la jurisprudence Moldowan, l'agriculteur de la deuxième catégorie est « le contribuable qui ne considère pas l'agriculture, ou l'agriculture et une source secondaire de revenu, comme son gagne‑pain mais pour qui l'exploitation d'une ferme est une entreprise secondaire »[26]. Dans cette observation, la seconde source est qualifiée de « secondaire » même si, au point de vue quantitatif, ce doit être la source la plus élevée de revenu. Si l'agriculture est simplement une activité secondaire, l'autre source, par rapport à l'agriculture, n’est pas une activité « secondaire » (source de revenu) et ne peut pas être utilisée aux fins du critère de la combinaison en vue de soutenir l'entreprise agricole secondaire, de façon qu'elle soit l'une des deux sources qui, ensemble, constituent une source principale de revenu;
+iv) on a interprété la chose comme voulant dire qu'une seule de deux sources peut être prédominante et qu'afin d'éviter l'application de la restriction prévue à l'article 31, cette source doit être l'agriculture. Il faut bien comprendre qu'on ne saurait établir une telle prédominance simplement à partir de montants en argent, mais c'est cette application du critère de la combinaison qui aurait pour effet de le rendre stérile, s'il était appliqué strictement;
+v) l'agriculteur de la troisième catégorie ne satisfait pas au critère de la jurisprudence Stewart et, selon l’enseignement de la jurisprudence Moldowan, il se voit refuser toutes les pertes.
+[50] Ce qui est important dans ce rappel des catégories d'agriculteurs consacrées par la jurisprudence Moldowan, c'est que l’on reconnaît les limites du critère de la combinaison s'il est utilisé afin de permettre l'utilisation d'une source rentable afin de soutenir une source agricole non rentable, de façon à l'ajouter au groupe déjà identifié des agriculteurs de la première catégorie. Cela est restrictif et indique, semble‑t‑il, quoique pas très clairement, que l'agriculture doit être la principale source de revenu, même selon le critère de la combinaison.
+L'approche préconisée par la jurisprudence Gunn
+[51] Afin d'établir si l'activité agricole doit faire partie de la formule de la combinaison, l'arrêt Gunn nous enseigne, au paragraphe 83, qu'il faut tenir compte du fait que :
+[…] la question de la combinaison doit être interprétée de manière à n’exiger qu’un examen de l’effet cumulatif du total du capital investi dans l’agriculture et dans une deuxième source de revenu, du total du revenu tiré de l’agriculture et d’une deuxième source de revenu, et du total du temps consacré à l’agriculture et à la seconde source de revenu, compte tenu du mode de vie ordinaire du contribuable, de son expérience de l’agriculture, enfin de ses intentions et de ses attentes. [...]
+[52] Selon mon interprétation de cette observation concernant le critère de la combinaison, il faut que les facteurs concernant la principale source qui sont pris en compte à l'égard de l'agriculture, et notamment la rentabilité future, soient examinés par rapport aux facteurs concernant la principale source qui sont pris en compte à l'égard de la seconde source incluse dans la combinaison, ce qui est compatible avec la jurisprudence Moldowan, laquelle préconise une évaluation de la rentabilité en termes relatifs[27].
+[53] Le défi, selon l'arrêt Gunn, consiste à évaluer jusqu'à quel point la contribution apportée par l'agriculture en tant que source doit être prise en compte dans la formule de l'adjonction des revenus. D'autres jurisprudences enseignent que la contribution n'a pas à être importante sur le plan quantitatif (voir les décisions Taylor c. Canada[28] et dans Kroeker). Toutefois, à mon avis, l'arrêt Gunn enseigne que l'agriculture doit contribuer d'une façon appréciable à la formule de l'adjonction, de façon à indiquer qu'elle est une source principale ou qu'elle peut le devenir[29].
+L'interprétation de l'arrêt Gunn par opposition à l'interprétation de l'arrêt Moldowan
+[54] Vu ma lecture de l'arrêt Gunn, il est clair à mon avis que, selon le critère de la combinaison, il n'est jamais nécessaire d'établir que l'agriculture assure la plus grande partie du revenu du contribuable ou même qu'elle doit être l'entreprise ou l'activité professionnelle prédominante du contribuable. Comme il a été reconnu dans l'arrêt Gunn, le critère applicable est plus libéral que ce qu’enseigne l'arrêt Moldowan, à savoir que l'agriculture doit être la principale source de revenu, et ce, même selon le critère de la combinaison. Notre Cour, en reconnaissant que les critères établis dans ces arrêts‑là sont différents, s’est déjà exprimée de manière contradictoire au sujet de l’autorité dont jouit l'arrêt Gunn vu l'arrêt Moldowan[30].
+[55] Néanmoins, les facteurs pris en compte dans l'arrêt Gunn font également partie de l'analyse effectuée dans l'arrêt Moldowan. À la page 4, le juge Dickson (tel était alors son titre) a fait l’observation suivante :
+[…] Ce qui distingue la principale «source» de revenu du contribuable, c’est l’expectative raisonnable de revenu en provenance des diverses sources, ainsi que ses habitudes et sa façon coutumière de travailler. On peut analyser ces éléments, notamment à l’égard de chaque source de revenu, en examinant le temps consacré à celle-ci, les capitaux engagés et la rentabilité présente et future. [...]
+[56] Les critères ou facteurs servant à identifier une source principale dans l'arrêt Moldowan, et notamment, mais non exclusivement, la rentabilité, ne sont pas très différents de ceux qui ont été utilisés dans l'arrêt Gunn pour énoncer la formule de l'adjonction des revenus. Dans les deux cas, le temps consacré, les capitaux engagés, la rentabilité future ainsi que les habitudes et la façon coutumière de travailler du contribuable sont les critères permettant de déterminer si l'agriculture constitue plus qu'une entreprise secondaire.
+[57] Si la comparaison des deux arrêts s'arrêtait là, il serait possible de conclure qu’il n’y a pas conflit entre l'arrêt Gunn et l'arrêt Moldowan. Toutefois, comme cela a été signalé, la comparaison ne s'arrête pas là. Contrairement à l'arrêt Moldowan, l'arrêt Gunn enseigne que l'activité qui soutient le revenu agricole n'a pas à être subordonnée à l'agriculture, et qu'il suffit que l'activité agricole, par rapport à l'autre source, apporte une contribution pertinente ou une contribution valable à la formule de l'adjonction des revenus, évaluée à l'aide des critères établis dans l'arrêt Moldowan.
+[58] Si le critère de la combinaison est appliqué de cette façon, l'arrêt Gunn accorde le traitement de la première catégorie à un groupe plus large d'agriculteurs en permettant que le critère de la combinaison s'applique de façon à arriver à ce résultat, et ce, même si l'agriculture à elle seule ne sera peut‑être jamais la principale source ou la source prédominante, que ce soit au point de vue quantitatif ou au point de vue de l'engagement.
+[59] Il reste cependant à rechercher si une conception aussi élargie de l’enseignement de l'arrêt Moldowan s’impose à la présente cour. L’application stricte des règles du précédent judiciaire m'oblige peut‑être bien à suivre l'arrêt Moldowan. Telle était la conclusion que le juge Bowie a tirée dans la décision Falkener. Il me semble difficile d’admettre qu’il soit loisible à la Cour d’écarter l’enseignement d’une cour supérieure en se fondant sur un distinguo excessivement subtil, et ce, même si cet enseignement a une portée excessive, selon une doctrine sérieuse, au regard des textes.
+[60] Toutefois, je ne suis pas certain que l’enseignement de l'arrêt Gunn s’écarte de celui de l’arrêt Moldowan. L'arrêt Gunn évite simplement les contradictions et difficultés auxquelles a donné lieu l'arrêt Moldowan. Dans l'arrêt Gunn, on fait une lecture harmonieuse de l'article 31 et des distinctions perceptibles entre les activités agricoles occasionnelles et un intérêt marqué en matière d'agriculture. De telles distinctions deviennent plus apparentes si l'on applique l'approche préconisée dans l'arrêt Gunn, qui repose lui‑même sur des facteurs utilisés dans l'arrêt Moldowan. Il est plus facile de rationaliser une abondante jurisprudence dans laquelle on a tenté de suivre l’enseignement de l'arrêt Moldowan à la lumière de l'analyse effectuée dans l'arrêt Gunn.
+[61] De fait, j'estime que l'arrêt Gunn réhabilite simplement l’enseignement de l'arrêt Moldowan, lequel interprète de manière acceptable l'article 31 – il ne rend pas cette analyse stérile, et tient compte du libellé de celui-ci. L'analyse effectuée dans l'arrêt Gunn est fondée sur les facteurs de l'engagement personnel et de l'engagement commercial qui ont été retenus dans l'arrêt Moldowan d'une façon qui s'inscrit bien dans la formule de la combinaison prévue à l'article 31. C'est somme toute ce que l'arrêt Moldowan visait à accomplir. La notion d'entreprise secondaire ou accessoire a été retenue dans l'arrêt Moldowan car l’on voulait écarter une interprétation intenable de la disposition en question. C'est exactement ce que l'arrêt Gunn accomplit, en adoptant une approche qui repose sur la directive donnée par la Cour suprême du Canada, à savoir qu'il faut appliquer la restriction à une entreprise agricole secondaire. Cela dit, je me vois tenu de suivre cet arrêt afin d'éviter certains des résultats non voulus que comporte l’application stricte des quelques lignes de l'arrêt Moldowan dans lesquelles les trois catégories d'agriculteurs sont sommairement décrites.
+[62] Je retiens l'analyse de l'arrêt Gunn en me fondant sur le fait qu'à mon avis, cette analyse est compatible avec une interprétation satisfaisante du libellé de l'article 31.
+[63] Si on limite initialement le groupe d'agriculteurs de la première catégorie pour lesquels il est raisonnable de penser que l'agriculture leur fournit la plus grande partie de leur revenu, il faut avoir recours, en établissant les personnes qui font partie de cette catégorie, à l’évaluation quantitative globale de l'activité agricole, indépendamment des pertes subies au cours d'une année particulière. Toutefois, étant donné que, selon l'article 31, il faut rechercher si l'activité agricole constitue une source principale de revenu au cours de l'année particulière, qui est une année où une perte a été subie, le sens de l’expression « principale source » doit être élargi en vue d'inclure d'autres facteurs, ce qui n'exclut pas pour autant l'identification du groupe initial de la première catégorie dans le contexte d'une évaluation quantitative globale. De fait, c'est ce que devrait clairement montrer la description initiale de la première catégorie d'agriculteurs, soit un contribuable qui considère l'agriculture comme son gagne‑pain même si, au cours de certaines années, il subit des pertes.
+[64] Si on limite au départ ainsi le groupe d'agriculteurs de la première catégorie, on évite un certain nombre de contradictions en analysant ensuite le critère de la combinaison lequel, à coup sûr, peut uniquement servir à élargir le groupe d'agriculteurs de la première catégorie qui sont admissibles à déduire des pertes sans aucune restriction.
+[65] Quant au critère de la combinaison, nous devons conclure que la principale source de revenu du contribuable au cours de l'année où la perte a été subie était une combinaison de l'agriculture et d'une autre source. Étant donné que le contribuable n'a pas établi qu'il est raisonnable de s'attendre à ce que l'agriculture ait fourni ou fournira la plus grande partie du revenu selon une évaluation quantitative globale, il faut décider, à l'aide du critère de la combinaison, non seulement de la rentabilité future, mais aussi du degré d'engagement démontré par le contribuable à l'égard de la source agricole. Cet engagement doit démontrer que l'activité est plus qu'une entreprise secondaire. Dans des affaires telles que l'affaire Gunn et la présente espèce, la détermination du degré d'engagement comporte une comparaison entre la source qui soutient la source agricole et la source agricole elle‑même.
+[66] Le libellé de l'article 31 peut uniquement étayer cette interprétation si, selon le critère de la combinaison, l'expression « principale source de revenu » acquiert un sens spécial qui s'applique uniquement dans le contexte de ce critère. De fait, il faut modifier le sens de cette expression dans le critère de la combinaison même si on la compare au sens qu'elle a lorsqu'il s'agit d'établir le groupe initial d'agriculteurs de la première catégorie. En ce qui concerne le critère de la combinaison, il ne devrait pas être nécessaire d'établir que l'agriculture constituera un jour la plus grande partie du revenu du contribuable. En ce qui concerne le critère de la combinaison, l'arrêt Moldowan nous enjoint à examiner d'autres facteurs qui démontrent que l'agriculture n'est pas une entreprise secondaire.
+[67] Cette approche fait partie intégrante de la jurisprudence Gunn.
+[68] En outre, l'arrêt Gunn enseigne que l'approche moins libérale n'est pas conforme aux règles modernes d'interprétation de la loi, qui visent à éviter des anomalies telles que celles qui sont inhérentes à l’application stricte des trois catégories d'agriculteurs décrites dans l'arrêt Moldowan.
+[69] L'arrêt Gunn enseigne également qu'il n'existe aucun élément historique permettant de conclure que le législateur voulait qu'une telle approche stricte s'applique. Cette idée appelle des précisions.
+[70] Selon un ancien document, les contribuables qui exploitent des « fermes d'agrément » ou les gentlemen‑farmers ne devaient pas être autorisés, selon l'intention du législateur, à utiliser le trésor public afin de subventionner leur vie à la campagne[31]. Toutefois, ce document n'indique pas nécessairement l'intention de restreindre les déductions relatives à des pertes subies dans le cadre d'activités agricoles qui ont été exercées avec un tel degré d'engagement personnel qu'elles établissent d'une façon crédible l'intention d'exploiter une entreprise viable sur le plan économique et commercial, offrant des possibilités réelles de réaliser un bénéfice. Aucun document parlementaire n’indique qu'une activité agricole qui satisfait à ce critère préliminaire ne peut pas être à juste titre incluse dans le critère de la combinaison établi à l'article 31, et ce, peu importe le nombre d'années au cours desquelles des pertes ont été subies.
+[71] Un grand nombre de photographes amateurs, de collectionneurs de timbres et de mordus de la navigation de plaisance qui se livrent à leurs loisirs respectifs avec énormément de passion et d'engagement ne réussiront pas à satisfaire au critère consacré par l'arrêt Stewart et ne pourront donc pas déduire les pertes auxquelles donnent lieu leurs loisirs, mais s'ils réussissent à satisfaire à ce critère, ils pourront utiliser leurs pertes sans aucune restriction[32]. Les mordus d’agriculture pour lesquels cette activité constitue un divertissement ou qui se livrent à l'agriculture en tant que gentilshommes propriétaires et qui ne tirent pas la plus grande partie de leur revenu de l'agriculture doivent satisfaire à une norme plus stricte afin de bénéficier d'un traitement semblable à celui dont bénéficient ceux qui se livrent à pareils passe‑temps. Afin de pouvoir utiliser les pertes agricoles sans aucune restriction, ils doivent se livrer à leur centre d'intérêt de façon que ce centre d'intérêt soit considéré comme l'une de deux principales sources de revenu ou plus. L'article 31 impose à l'agriculteur une norme plus stricte. Le critère préliminaire consacré par l'arrêt Gunn me semble reconnaître la norme qui correspond le mieux à l’interprétation du libellé de la disposition qui ne contredit pas l'intention du législateur. En outre, ce critère ne méconnait pas, à mon avis, les principes sous‑jacents consacrés par l'arrêt Moldowan. Par conséquent, puisque j'ai trouvé une approche qui respecte ces principes et le texte de la Loi, je me vois tenu de suivre cette approche au besoin.
+[72] Je suis d’avis que le critère à suivre est donc le suivant : le mode d'exploitation du contribuable comporte-t-il dans une mesure suffisante un engagement, un degré de commercialité et des possibilités de profit pour être reconnu comme une principale source, selon les critères consacrés par l'arrêt Moldowan quant à l'engagement et à la rentabilité? L'examen du temps consacré, des capitaux investis et d'une possibilité réelle de profit par suite de la recherche de la rentabilité devrait facilement permettre de déterminer s'il est possible de considérer le contribuable comme un agent commercial engagé ayant des chances raisonnables de succès dans un secteur véritable de l'économie. Un tel critère n'aura pas pour effet de mettre dans une situation privilégiée les personnes pour qui l'agriculture est un divertissement.
+Les distinctions de fait à l'égard de l'affaire Gunn
+[73] Il demeure que la thèse de l'appelant ne peut être retenue que si les faits de l'affaire Gunn ne peuvent pas donner lieu à des distinctions suffisantes pour justifier un résultat différent, comme je l’ai conclu.
+[74] Dans l'affaire Gunn, le contribuable, qui se livrait à l’élevage de bétail et à l'agriculture, avait perdu de l'argent chaque année pendant 15 années consécutives (de 1987 à 2001) avant de faire un profit, en 2002 (soit trois ans après les années qui avaient fait l'objet d'un examen dans cette affaire‑là). Il avait encore une fois essuyé des pertes en 2003 et il avait réalisé des bénéfices en 2004.
+[75] En concluant que l'agriculture n'était pas une entreprise secondaire pour M. Gunn, la Cour d'appel fédérale a retenu la preuve non contredite que M. Gunn avait produite au sujet des possibilités de profit de son entreprise agricole et elle a accordé une certaine importance à la synergie entre la pratique du droit et les activités agricoles. Je ne tire pas cette dernière conclusion en l’espèce, mais je retiens la preuve non contredite que l'appelant a présentée au sujet des possibilités de profit de ses activités de courses de chevaux.
+[76] Je note en outre que l'importance des facteurs pris en compte dans l'analyse Gunn, en plus de démontrer la rentabilité, indique clairement dans cette affaire, comme c'est ici le cas, que l'entreprise agricole en cause constituait plus qu'une entreprise secondaire. Même s'ils tiraient leur principal revenu de la pratique du droit et que le nombre total d'heures consacrées à cette pratique était supérieur au nombre d'heures consacrées à leurs entreprises agricoles, les deux contribuables consacraient à leurs entreprises agricoles des capitaux importants et une grande partie de leur travail quotidien. L'entreprise était dans les deux cas une préoccupation majeure sur le plan des affaires. L'appelant passait ses matinées, ses soirées et ses fins de semaine à chercher à accroître la rentabilité future de l'entreprise. Il ne s'agissait pas simplement d'un exutoire à son mode normal de vie, ni d'un divertissement ou d'un sport. Comme dans le cas de M. Gunn, l'appelant cherchait à assurer le succès économique de ses activités.
+[77] Comme c'était le cas pour M. Gunn, l'intérêt porté par l'appelant à son entreprise agricole ne se limitait pas en l'espèce à la ferme, à l'écurie et aux pistes de course. J'ai accordé de l'importance au fait que l'appelant était un membre actif du monde des courses de chevaux Standardbred et qu'il y apportait sa contribution. L'appelant cherchait à améliorer l'intégrité des courses de chevaux Standardred, de façon à améliorer la rentabilité future de ses activités. Sa connaissance des compétitions, dont dépendait la rentabilité, était suffisante pour lui permettre de devenir président de la commission d'appel de l'industrie.
+[78] Une distinction sur laquelle l'intimée pourrait éventuellement se fonder se rapporte au degré de rentabilité future. Un aspect de cette question se rapporte aux possibilités relatives de profit qu'offraient les activités agricoles de l'appelant comparativement à celles qui existaient dans le cas de M. Gunn, alors qu'un autre aspect de la question se rapporte aux risques associés aux courses de chevaux.
+[79] Dans l'affaire Gunn, le revenu agricole net du contribuable au cours de la 18e année était d'environ 96 000 $, alors que le revenu tiré de la pratique du droit s'élevait à 247 000 $, ce qui, au point de vue quantitatif, met M. Gunn dans une meilleure situation établie relative que l'appelant sur le plan de l'agriculture. Je ne crois toutefois pas que l'analyse puisse être aussi précise. En outre, si je me fondais sur une telle distinction, je serais obligé de pénaliser l'appelant pour avoir établi une pratique du droit lucrative exigeant un nombre plutôt modeste d'heures facturables par rapport au nombre d'heures qu'un grand nombre d'autres avocats qui gagnent beaucoup moins d'argent doivent facturer.
+[80] De plus, je note que, contrairement à M. Gunn, l'appelant a connu deux années rentables consécutives, immédiatement après les années visées par les présents appels; cela tend à confirmer qu’il est impossible de faire une distinction à l'égard de l'arrêt Gunn sur la base de la rentabilité future relative.
+[81] Quant aux risques associés aux courses de chevaux, je ne souscris pas à l'importance que l'intimée accorde à ce facteur. Les agriculteurs oeuvrent dans un environnement incroyablement risqué. L'évaluation de l'engagement à assurer la rentabilité ne devrait pas être fondée sur les conjectures qui sont faites au sujet des risques inhérents à différents types d'activités agricoles, mais plutôt, comme l’enseignent les arrêts Moldowan et Gunn, sur le temps consacré, sur les capitaux investis et sur l'énergie déployée par le contribuable, indiquant un engagement à assurer son succès économique et la recherche de ce succès. Comme dans l'affaire Gunn, les activités agricoles, dans le cas de l'appelant, revêtaient un aspect suffisamment commercial et faisaient suffisamment partie de son mode de vie ordinaire et de son travail habituel pour ne pas être considérées comme une entreprise secondaire.
+[82] Il existe une autre distinction entre les faits des deux affaires, laquelle peut bien être au cœur de la position prise par l'intimée. M. Gunn se livrait à l’élevage de bovins et à la culture de céréales; il avait des connaissances en agriculture et il exploitait lui‑même la ferme. Son activité visait à assurer la subsistance de la société. Il s'agit d'une partie essentielle de l'économie canadienne. Par contre, l'appelant est avocat exerçant en milieu urbain qui s'intéresse aux courses de chevaux depuis, en termes relatifs, une bonne distance. Son activité lui sert de divertissement dans le domaine du sport.
+[83] En l'espèce, la combinaison d'activités de courses de chevaux exercées par un citadin qui sous‑traite une si grosse partie du travail pose, pour l'appelant, certains problèmes d'impression. Ces impressions dans leur ensemble donnent à penser que les activités de courses de chevaux, par opposition à d'autres activités agricoles, constituent inévitablement, sinon intrinsèquement, une distraction, qui est davantage conforme à une activité secondaire à laquelle on se livre pour son plaisir plutôt qu'à une attente objective de réaliser des bénéfices qui contribueraient vraiment au revenu global selon le critère de la combinaison établi à l'article 31.
+[84] Je reconnais que l'on ne saurait omettre de tenir compte de cette impression. Je reconnais également qu'elle découle, dans des cas comme celui‑ci, d'une attitude cynique, à savoir qu'il s'agit ni plus ni moins d'une distraction. Or, il faut veiller à ne pas trancher une affaire en se fondant sur des impressions et sur un état d'esprit cynique; cependant, les distinctions qui sont à l'origine de ces impressions et de cet état d'esprit doivent néanmoins être prises en considération, quoiqu'il soit peut‑être possible de régler la question en se reportant à l'arrêt Gunn, dans lequel on rejette, au paragraphe 67, l'idée selon laquelle l'article 31 peut s'appliquer plus vigoureusement aux activités de courses de chevaux. Il pourrait également être possible de passer la question sous silence en signalant que certaines décisions faisant autorité laissent planer un doute sur la question de savoir si le degré de rentabilité est pertinent dans l'application de l'article 31 de la Loi.
+[85] De plus, et ce ci est peut‑être encore plus important, je note que la Loi définit l'agriculture de manière à englober les courses de chevaux et impose le même critère aux fins de l'application, à l'égard de l'appelant et de M. Gunn, de la règle concernant les pertes restrictives. Cela pourrait être une raison suffisante lorsqu'il s'agit de régler la question de l'impression, selon laquelle une personne s'intéresse essentiellement aux courses de chevaux pour son plaisir personnel. Selon la Loi, telle qu'elle est rédigée, on ne saurait accorder un meilleur traitement, sur le plan fiscal, à M. Gunn qu'à l'appelant simplement à cause de l'impression différente que nous donnent les courses de chevaux, par opposition à la culture des céréales et à l'élevage de bétail. C'est la Loi qui doit résoudre la question plutôt que les tribunaux.
+[86] Toutefois, il ne semble pas tout à fait satisfaisant de régler ainsi la question.
+[87] Une façon plus satisfaisante de régler la question consiste à se fonder sur l'examen de l'activité en question en appliquant des critères objectifs à la question de la rentabilité future. Indépendamment de sa forme commerciale et de la mesure dans laquelle le contribuable cherche à assurer le succès économique de l'activité, le critère voulant qu'il existe une attente raisonnable de rentabiliser réellement l'activité (par rapport à l'autre source qui est prise en considération selon le critère de la combinaison) doit non seulement être un critère relatif, mais aussi un critère objectif[33].
+[88] À mon avis, suivre un tel critère en l'espèce ne met pas l'appelant dans une situation plus précaire. Vu les ressemblances de fait avec l'affaire Gunn, je conclus que même un tel critère milite en faveur de l'appelant. L'appelant peut à bon droit embaucher un entraîneur et faire en sorte que ses chevaux soient logés et que leur entretien soit assuré en sous-traitant la fourniture de ces services. Cela ne diminue pas pour autant la force probante de la preuve étayant le caractère raisonnable de son attente, à savoir que ses activités de courses de chevaux pourraient éventuellement devenir une source principale de revenu, mesurée par sa contribution, selon le critère de la combinaison établi à l'article 31. De fait, comme il en a été fait mention, la participation de l'entraîneur, qui a également investi des capitaux dans les activités de l'appelant, sert dans ce cas‑ci à ajouter du poids à la conviction de l'appelant quant à la rentabilité future.
+[89] Si les deux affaires sont considérées dans leur ensemble, je retiens la thèse de l'appelant. Il est impossible de faire des distinctions suffisantes, justifiant une solution différente. Si la Cour d'appel fédérale a conclu, comme elle l'a fait au paragraphe 93, que M. Gunn n'était pas assujetti aux restrictions imposées à l'article 31 quant aux pertes, même selon l'interprétation du critère de la combinaison établi dans l'arrêt Moldowan, l'appelant doit bénéficier de la même solution. Cela dit, même si je fais erreur en retenant l'interprétation élargie du critère de la combinaison établi à l'article 31 qui est consacrée par l'arrêt Gunn, je conclus de toute manière qu'il n'est pas possible de faire une distinction suffisante entre les faits de ces affaires pour arriver à une solution différente.
+Conclusion
+[90] Par conséquent, les appels sont accueillis avec dépens.
+Signé à Winnipeg (Manitoba), ce 17e jour de décembre 2009.
+« J.E. Hershfield »
+Juge Hershfield
+Traduction certifiée conforme
+ce 19e jour de mars 2010.
+François Brunet, réviseur
+RÉFÉRENCE : 2009 CCI 617
+Nos DES DOSSIERS DE LA COUR : 2007-3040(IT)G; 2008-869(IT)G
+INTITULÉ : JOHN H. CRAIG
+c.
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Le 25 août 2009
+MOTIFS DU JUGEMENT : L’honorable juge J.E. Hershfield
+DATE DU JUGEMENT : Le 17 décembre 2009
+COMPARUTIONS :
+Avocats de l'appelant :
+Me Glenn Ernst
+Me Marisa Wyse
+Avocate de l'intimée :
+Me Jenny P. Mboutsiadis
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom : Glenn Ernst
+Marisa Wyse
+Cabinet : Goodmans LLP
+250, rue Yonge, bureau 2400
+Toronto (Ontario) M5B 2M6
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Les heures enregistrées facturables ne comprenaient pas les heures consacrées à l'administration du cabinet, lesquelles, a‑t‑il dit, s'élevaient à 221 heures en l'an 2000 et à 197 heures en 2001. Cela ne comprend pas les heures passées à générer des affaires, lesquelles ne sont pas enregistrées; toutefois, l'appelant a témoigné qu'il ne consacrait pas énormément de temps à cette tâche au cours d'une journée donnée. Il travaillait à Toronto; ses clients n'étaient pas de Toronto et il ne cherchait pas particulièrement à recruter des clients ou à divertir les clients existants en vue de conserver leur clientèle. L'appelant a témoigné que les heures enregistrées, auxquelles venaient s'ajouter les heures consacrées à l'administration, représentaient à peu près les heures consacrées à la pratique du droit.
+[2] J'ai estimé le nombre annuel d'heures en me fondant sur le témoignage que l'appelant a rendu au sujet de la durée et de la fréquence de ses activités. Ce témoignage me satisfait et je conclus que le temps consacré aux activités de courses de chevaux représentait chaque année plus de 600 heures au cours des années ici en cause.
+[3] Depuis l'année 2006, lorsqu'il a commencé à regarder chez lui, le soir, les courses télédiffusées en direct, il ne se rend plus sur les pistes de course que 30 à 40 fois par année, mais les soirées qu'il a passées à étudier ses chevaux et d'autres chevaux, dans des compétitions télédiffusées, ont contribué à ajouter au moins une heure par jour au temps qu'il consacrait à ses activités de courses de chevaux, de sorte que le nombre additionnel d'heures consacrées à ces activités sont de beaucoup supérieures à 600 heures par année, depuis 2006.
+[4] Les revenus et pertes, dans cet alinéa, sont tirés de l'avis d'appel, qui ne comprenait pas de revenus ou de pertes pour l'année 1993. Dans la réponse, l'intimée a admis que les gains et pertes allégués dans l'avis d'appel étaient tels qu'ils avaient été déclarés. La Couronne n'a produit aucune preuve en vue de contredire les montants déclarés. De plus, l'appelant a témoigné au sujet de plusieurs montants, notamment les bénéfices réalisés au cours des premières années ainsi qu'en 2002 et en 2003. Il n'y a pas lieu de douter de ce témoignage. Enfin, je tiens à faire remarquer que j'ai modifié le montant de la perte, pour l'année 2001, de sorte qu'il corresponde à ce qui est indiqué au sous‑alinéa 6e) ci‑dessus, ce montant étant exact comme en ont convenu les parties.
+[5] Étant donné que les gains et pertes se rapportant à l'achat et à la vente de chevaux ne sont pas imputables au capital, il serait possible de considérer l'investissement comme faisant partie de l'inventaire. Néanmoins, il est mentionné que cela fait partie des capitaux investis par l'appelant, aux fins de l'analyse fondée sur l'article 31. Les estimations de ces investissements figurent dans la pièce A‑1 et l'appelant les a attestées à l'audience. L'avocate de l'intimée s'est opposée à la production de la pièce A‑1 parce qu'elle avait été préparée bien après la période en cause, aux fins du présent litige. Il faut néanmoins reconnaître qu'il n'y avait rien qui contredisait le témoignage présenté par le témoin. De plus, la pièce A‑3 indique les capitaux que l'appelant a investis dans des chevaux de course en l'an 2000 et le total est celui dont il est fait mention dans la pièce A‑1. Tout bien pesé, j'ai retenu, malgré l'objection, les estimations figurant dans la pièce A‑1.
+[6] L'appelant avait parfois recours à un entraîneur différent lorsque les chevaux participaient à des courses sur des pistes de catégorie B.
+[7] Je note que les frais d'exploitation ne semblent pas tous figurer dans les états de l'entraîneur. Ainsi, les frais, pour une course « stake », ne sont pas indiqués et il n'en est pas rendu compte, et ce, même si les recueils de documents montrent que pareils frais ont été payés pour des chevaux à l'égard desquels l'entraîneur avait une part. Il est possible de supposer qu'il est rendu compte de ces frais séparément avec la comptabilité afférente aux sommes gagnées, mais je ne dispose d'aucun élément de preuve quant à cet aspect des activités de l'appelant.
+[8] Cette estimation de 20 p. 100 est fondée sur mon calcul des capitaux investis dans des chevaux de course pour l'année 2000, selon la pièce A‑3, qui indique le coût de chaque cheval et la part de l'entraîneur, exprimée en pourcentage. L'examen des états préparés par l'entraîneur pour d'autres années donne à entendre que le pourcentage serait à peu près le même. Je note également ici que l'appelant avait une modique participation dans au moins un autre cheval entraîné par une autre écurie et par un autre exploitant, qui le faisait par ailleurs courir. Ces participations sont incluses dans les activités de courses de chevaux de l'appelant, mais elles sont peu ou pas pertinentes en l’espèce.
+[9] On pourrait se demander si l'appelant avait un tel pouvoir sur un cheval à l'égard duquel l'entraîneur avait une participation importante, mais il est difficile de ne pas retenir le témoignage de l'appelant lorsqu'il a déclaré avoir eu le dernier mot quant à ces questions. L'appelant a toujours témoigné sincèrement et, d'une façon générale, il est clairement un homme intègre. D'autre part, il est toujours préférable qu'une partie intéressée corrobore le témoigne qu'il rend, de façon qu’il puisse être retenu. En l’espèce, on n'a pas demandé à l'appelant de confirmer que son pouvoir était le même à l'égard des chevaux dont l'entraîneur était copropriétaire. L'entraîneur n'a pas été cité à témoigner et aucune représentation de l'entente conclue entre l'entraîneur et l'appelant n'a été faite par écrit. À cet égard, je note qu'il incombe dans une certaine mesure à l'intimée, dans une affaire telle que celle‑ci, de ne pas se contenter de se fonder sur des déductions défavorables possibles qui pourraient être faites au sujet d'un témoignage intéressé non corroboré. Tout bien pesé, je retiens le témoignage de l'appelant lorsqu'il déclare que c'était lui qui prenait les décisions finales sur toutes les questions autres que celles se rapportant à l'entraînement et au soin des chevaux ainsi que lorsqu'il s'agissait de faire en sorte que les chevaux soient prêts à participer à une course.
+[10] 2006 DTC 6544 (C.A.F.).
+[11] 77 DTC 5213 (C.S.C.).
+[12] 93 DTC 98 (C.C.I.).
+[13] 85 DTC 5058 (C.F. 1re inst.).
+[14] 2002 DTC 6969 (C.S.C.).
+[15] 2004 DTC 3573 (C.C.I.).
+[16] 2009 CCI 383.
+[17] 84 DTC 1689 (C.C.I.).
+[18] 95 DTC 402 (C.C.I.).
+[19] 97 DTC 5499.
+[20] 2007 DTC 1470.
+[21] 2008 DTC 4698.
+[22] 89 DTC 5080.
+[23] [1998] 1 C.T.C. 2125 (C.C.I.), confirmé par la Cour d'appel fédérale, 99 DTC 5004.
+[24] Parmi les autres décisions mentionnées, il y a Sylvain c. R., [2002] 4 C.T.C. 2285; McRae c. R., [2004] 4 C.T.C. 2136; Graham c. R., [1985] 1 C.T.C. 380; Kroeker c. R., 2002 CAF 392.
+[25] Moldowan, page 4.
+[26] Moldowan, page 4.
+[27] Moldowan, page 5.
+[28] [2002] A.C.F. no 1534, paragraphe 5.
+[29] La jurisprudence enseignant qu'il n'est pas nécessaire que l'activité agricole puisse être fortement rentable pour être soutenue par une autre source ne va pas jusqu'à nier qu'il doit exister une attente raisonnable de faire plus qu'un bénéfice minime qui ne pourrait jamais contribuer au gagne‑pain du contribuable d'une façon évidente et valable.
+[30] Johnson, note de bas de page 16, et Falkener, note de bas de page 20.
+[31] L'expression « gentleman‑farmer » a longtemps été employée en vue de décrire les personnes qui ont une ferme d'agrément et qui ne s'occupent pas d'agriculture à des fins lucratives. Ainsi, le gentleman‑farmer a été mentionné dès 1928 dans la jurisprudence américaine, dans la décision Walter P. Temple c. Commissioner of Internal Revenue, où le commissaire a refusé la déduction demandée par le requérant, parce que celui‑ci était un gentleman‑farmer qui ne s'occupait pas d'agriculture et d'élevage à des fins lucratives. Dans certaines décisions fiscales américaines subséquentes, les expressions « gentleman farmer » et « hobby farmer » sont employées d'une façon interchangeable. Au Canada, le « gentleman‑farmer » a d'abord été mentionné par le ministre des Finances dans les débats de la Chambre des communes de 1951 et de 1952, à l'égard de modifications apportées aux dispositions relatives aux pertes agricoles de la Loi de l'impôt sur le revenu. Dans la décision Morrissey, le juge Mahoney a reproduit des transcriptions de ces débats. Le ministre a qualifié les gentlemen‑farmers de personnes qui ont des « fermes d'agrément », « dont la profession principale n'est pas l'agriculture » et qui ne font presque jamais d'argent à l'aide de leurs fermes.
+[32] Avant l’arrêt Stewart, les personnes se livrant à un passe‑temps devaient satisfaire à une norme plus stricte afin de déduire leurs pertes. Néanmoins, la norme ou le critère préliminaire consacré par l'arrêt Gunn pour qu'un agriculteur puisse déduire la totalité de ses pertes est plus strict pour les personnes qui ont une ferme d'agrément que pour d'autres personnes se livrant à un passe‑temps, et ce, même selon la norme antérieur à l’arrêt Stewart.
+[33] Dans l'arrêt Moldowan, page 4, il est dit que le critère de la source principale de revenu suppose un « test à la fois relatif et objectif ».

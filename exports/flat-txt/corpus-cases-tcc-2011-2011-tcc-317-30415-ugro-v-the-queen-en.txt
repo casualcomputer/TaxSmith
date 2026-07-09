@@ -1,0 +1,209 @@
+Title: Ugro v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30415/index.do
+Corpus path: corpus/cases/tcc/2011/2011-tcc-317-30415-ugro-v-the-queen-en.md
+Document type: case_law
+Last modified: 2011-06-27
+
+# Ugro v. The Queen
+
+- Citation: 2011 TCC 317
+- Decision date: 2011-06-27
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7945, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Ugro v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2011-06-27
+Neutral citation
+2011 TCC 317
+File numbers
+2009-2166(IT)G
+Judges and Taxing Officers
+Leslie M. Little
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2009-2166(IT)G
+BETWEEN:
+ANDREW UGRO,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard together with the appeals of Kelly Ugro (2009‑2165(IT)G) on February 2, 2011, at Victoria, British Columbia
+Before: The Honourable Justice L.M. Little
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Bruce Senkpiel
+____________________________________________________________________
+JUDGMENT
+The appeals from the assessments made under the Income Tax Act with respect to the 2001, 2002, 2003, 2004 and 2005 taxation years are allowed, with costs and the assessments are referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached Reasons for Judgment.
+Signed at Vancouver, British Columbia, this 27th day of June 2011.
+“L.M. Little”
+Little J.
+Docket: 2009-2165(IT)G
+BETWEEN:
+KELLY UGRO,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard together with the appeals of Andrew Ugro (2009‑2166(IT)G) on February 2, 2011, at Victoria, British Columbia
+Before: The Honourable Justice L.M. Little
+Appearances:
+Agent for the Appellant:
+Andrew Ugro
+Counsel for the Respondent:
+Bruce Senkpiel
+____________________________________________________________________
+JUDGMENT
+The appeals from the assessments made under the Income Tax Act with respect to the 2002, 2003, 2004 and 2005 taxation years are allowed, with costs, and the assessments are referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached Reasons for Judgment.
+Signed at Vancouver, British Columbia, this 27th day of June 2011.
+“L.M. Little”
+Little J.
+Citation: 2011 TCC 317
+Date: June 27, 2011
+Dockets: 2009-2166(IT)G
+2009-2165(IT)G
+BETWEEN:
+ANDREW UGRO,
+KELLY UGRO,
+Appellants,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Little J.
+A. FACTS
+[1] The Appellants are spouses of one another.
+[2] The Appellants operated a graphic design business under the name of Hub Media. (The business of Hub Media is hereinafter referred to as the “Business”).
+[3] Hub Media provides design and delivery of printed material, advertising, display and web-marketing materials to customers.
+[4] From 1995 to 2001, the Appellant, Andrew Ugro, operated Hub Media as a proprietorship.
+[5] In 2002, the Appellants began to operate Hub Media as a partnership (the “Partnership”).
+[6] The Minister of National Revenue (the “Minister”) maintained that the Appellants or the Partnership had the following amount of income:
+(a) in 2001, Andrew Ugro had billings of $56,648.70, cost of goods sold of $4,508.69 and expenses of $19,488.62;
+(b) in 2002, the Partnership had billings of $365,626.82, cost of goods sold of $269,540.00 and expenses of $18,340.92;
+(c) in 2003, the Partnership had billings of $225,784.47, cost of goods sold of $155,456.91 and expenses of $24,804.06;
+(d) in 2004, the Partnership had billings of $281,682.52, cost of goods sold of $215,653.16 and expenses of $21,185.70;
+(e) the revised billings of the Business in 2001, 2002, 2003 and 2004 were calculated by the Minister using bank deposits as set out in the Appellants’ ledger, plus current accounts receivables, less closing accounts receivables, less taxes collected for each respective year;
+(f) the Appellants claimed the entire amount expended for meals and entertainment expenses of Hub Media in 2001, 2002, 2003 and 2004. The Minister maintains that each of the Appellants were only entitled to claim 50 per cent of the meals and entertainment.
+[7] The Appellants reported the following income from Hub Media:
+Year Andrew Ugro Kelly Ugro
+2001 $ 9,302.83 $ 0
+2002 $20,424.53 $20,424.53
+2003 $17,152.71 $17,152.71
+2004 $16,626.60 $16,626.60
+2005 $16,684.06 $16,684.06
+(Note: The Appellant, Andrew Ugro, earned 100 per cent of the income from the Business in 2001 and each of the Appellants earned 50 per cent of the income from the Business from 2002 to 2005).
+[8] The Minister maintained that each of the Appellants failed to report the following additional income from the Business:
+Year Andrew Ugro Kelly Ugro
+2001 $ 23,349.00 $ 0
+2002 $ 18,449.00 $ 18,449.00
+2003 $ 5,610.00 $ 5,610.00
+2004 $ 5,796.00 $ 5,796.00
+2005 $ 5,363.00 $ 5,636.00
+[9] The Minister established in evidence that the Appellant, Andrew Ugro, failed to file his income tax returns for his 2001 to 2005 taxation years before the statutory deadlines in the Income Tax Act (the “Act”).
+[10] The Appellant, Andrew Ugro, admitted that he filed his 2001 to 2004 income tax returns on or about January 3, 2007 and that he late-filed his 2005 income tax return on January 31, 2007.
+[11] The Minister maintained that the Appellant, Kelly Ugro, failed to file her income tax returns for her 2002 to 2005 taxation years before the statutory deadlines in the Act.
+[12] The Minister maintained that the Appellant, Kelly Ugro, filed her 2002 to 2004 income tax returns on or about January 3, 2007 and that she late-filed her 2005 income tax return on January 31, 2007.
+B. ISSUES
+[13] The issues to be decided are whether:
+(a) the Minister properly included the Unreported Incomes in calculating the Appellants’ tax liability in the 2001, 2002, 2003, 2004 and 2005 taxation years;
+(b) the Minister properly disallowed 50 per cent of the meals and entertainment expenses claimed by the Appellants in the 2001, 2002, 2003 and 2004 taxation years; and
+(c) the Court is able to waive the penalty and interest calculated on the tax liability assessed upon the Appellants’ 2001, 2002, 2003, 2004 and 2005 taxation years.
+C. ANALYSIS AND DECISION
+[14] At the commencement of the argument, Counsel for the Respondent said:
+The Minister concedes that paragraph 15(l) [i.e. of the Reply] is incorrect. It states there that the appellant claimed the entire amount expended for meals and entertainment expenses of the business in 2001, 2002, 2003 and 2004. Based on information received in answers to undertakings, it appears that only 50 percent of meals and entertainment for those years were actually claimed. …
+(Transcript, Volume I, page 30, line 24 to page 31, line 5).
+[15] Counsel for the Respondent said that the Minister agreed to the following reductions in income for the Appellants:
+Year Andrew Ugro Kelly Ugro
+2001 $421.48 $ 0
+2002 $383.42 $383.42
+2003 $ 0 $ 0
+2004 $259.14 $259.14
+2005 $ 0 $ 0
+Note: Counsel for the Respondent said that:
+With respect to 2003, … the $760.10 is offset by an error in 2003 by the Canada Revenue Agency in favour of the taxpayer in the amount of $5,886.73. And so because of the error, which far exceeds the meals and entertainment, no adjustment should be made for 2003.
+(Transcript, Volume I, page 31, line 22 to page 32, line 3)
+(Note: Counsel for the Respondent said that there should be no adjustment for 2005 because the Minister issued an arbitrary assessment for that year.)
+[16] The Appellant, Andrew Ugro, said that he had established a “formula” for determining his net business income for 2001 and the net business income for the Partnership for 2002, 2003, 2004 and 2005.
+[17] In connection with the “formula” or position adopted by the Appellants in determining their net income for the years in question, I refer to the decision of Justice James Russell of the Federal Court in Ugro v Minister of National Revenue, 2009 FC 826, 2010 D.T.C. 5002. In this case, Mr. Ugro had appealed to the Federal Court in connection with the Minister’s decision under the Fairness Legislation. In that case, Justice Russell said:
+[88] At the heart of this application lies a disagreement between the Applicant and CRA regarding a new system of accounting that the Applicant claims to have developed himself because his former accountant filed fraudulent returns on his behalf, or so he alleges. This is not a dispute over the figures used by CRA. The Applicant says that his accounting system provides a more accurate picture of this net business income for tax purposes and he takes issue with the way that CRA has calculated gross revenue, gross profit, and net business income. CRA's concern with the Applicant's accounting system is focused on the method he uses to calculate his revenue and gross profit.
+[89] CRA's concerns over the Applicant's system have been explained to him in numerous discussions and decisions. In the end, he just disagrees with CRA's explanations and the results yielded by the more traditional accounting methods that CRA has used to compute his net business income for the years in question.
+[90] As a result of this disagreement, the Applicant alleges bad faith, lack of procedural fairness, bias, errors of law, errors of fact and unreasonableness on the part of CRA, all of which have culminated in the second fairness Decision currently under review.
+[91] I have reviewed the written record carefully. I can see that this protracted dispute has given rise to considerable frustration on both sides. In the end, however, at least as far as the Applicant's requests for credit adjustments are concerned, there is simply a disagreement over whether the Applicant's self-invented accounting system yields an accurate result.
+[92] CRA's objections and concerns with the Applicant's system have been explained to him on numerous occasions and he has been given every opportunity to demonstrate why his methodology, and the results it yields, should be accepted by CRA.
+[93] I can find no evidence of bad faith, bias, or lack of procedural fairness on the part of CRA and the officers and officials who have been involved with the Applicant and his accounting and tax problems.
+[94] As regards the accuracy of his accounting methodology, and the alleged inaccuracy of the methods employed by CRA to determine net business income for the years in question, the Applicant offers his own assertions and his reading of certain statutory provisions and case law. However, on the central issue of how net business income is most accurately calculated for the Applicant, he has not demonstrated that CRA has been wrong in law, has overlooked any material fact, or has been unreasonable in its calculations and conclusions.
+(Note: The decision of Justice Russell has been appealed to the Federal Court of Appeal. The appeal is held in abeyance pending the final resolution of the Appellants’ related Tax Court of Canada appeal.)
+(Transcript, Volume I, page 28, line 24 to page 29, line 2).
+[18] In the evidence before me, officials of the Canada Revenue Agency (the “CRA”) have not accepted the Appellant’s method of calculating his net income or the net income of the Partnership.
+[19] In his argument, Counsel for the Respondent said:
+… the real issue that is before the court today, [is] with respect to the two different systems of accounting, …
+(Transcript, Volume II, page 69, lines 19 to 21).
+[20] Counsel for the Respondent said:
+It would be the position of the respondent that the case law referred to by the appellant was largely irrelevant. To the extent that he quoted relevant tax principles regarding sales, gross profit and net profit, they support the Minister's position. What is relevant here is what the appellant did do in his calculations of profit, and how he, in fact, calculated them.
+As we know, two chartered accountants originally did his taxes and the taxpayer disagrees with how they did his taxes. His system has been looked at by two auditors of the Canada Revenue Agency, two appeals officers, two levels of fairness review, a Federal Court judge, and the appellant's witness yesterday, another appeals officer from the Canada Revenue Agency. And it's the appellant's position, who has no accounting training, that his system works.
+The appellant's alleged accounting system can't work. He doesn't even do a proper accounting system, as we saw yesterday when he showed his accounting
+system on the overhead. He doesn't enter daily journal items throughout the year and then have them posted to the general ledger. He makes it at the end of the year. In effect, his disbursement is a clearing account. It's simply a plug[ged] number. Every year, his system doesn't balance and every year he puts in a plug[ged] number to balance his accounting, because his system doesn't work.
+In his argument, the appellant suggested the bank account ledger could be used in default as a profit and loss statement. That's patently absurd. Amounts withdrawn from the bank account might be drawings or personal items. Then the expenses are paid out of the same bank account, that you'd have double accounting of those expenses. His argument as to how his system works shows that it doesn't, and what I'd like to do, just really briefly, is take a look at the respondent's book of documents, tab 43. It would be tab 43 and 17.
+(Transcript, Volume II, page 70, line 7 to page 71, line 17)
+[21] At page 78 of the transcript, Counsel for the Respondent quotes from the Canderel Ltd. v Her Majesty the Queen, [1998] 1 S.C.R. 147 case:
+Then again at page 18, probably the most important paragraph for the purposes of this case, paragraph 50 at page 18:
+"It follows from all of this that in calculating his or her income for a taxation year, the taxpayer must adopt a method of computation which is not inconsistent with the Act, or established rules of law, which is consistent with well-accepted business principles, and which will yield an accurate picture of his or her income for that year."
+And it's this next sentence that's key.
+"In the simplest cases, it will not even be necessary to resort formally to the various well-accepted business principles as the simple formula by which revenues are set against the expenditures incurred in earning them is always the basic determinant."
+That's all we're doing here.
+Paragraph 52 deals with onus with regard to computation of income. So I just want to look at that really briefly. It says:
+"Revenue Canada is free to indicate its disapproval of the taxpayer's chosen method of computation by means of assessment. We know from the Supreme Court of Canada decision in Johnson, this court held that the onus is on the taxpayer in the face of an assessment to establish that the factual findings on which the assessment is based are wrong. However, to satisfy this onus, where the dispute is over the appropriate method of computation, the taxpayer need only show that his or her income was calculated in a manner consistent with the foregoing paragraph; that is, that the figure attained was in conformity with the then-existing legal framework and represents an accurate picture of his or her financial position for the year in question."
+And it's the respondent's position that it's been the evidence before the court that two chartered accountants didn't accept this method. He invented this method. The CRA doesn't accept it. There is nothing that would indicate that it's allowed by basic business principles. And we would also submit that it's been shown that it doesn't accurately give a picture of his income.
+Then, normally, if the taxpayer was able to satisfy that onus, it would then shift to the Minister to prove either that the figure does not constitute an accurate picture of income or that some other method of computation would yield a more accurate picture.
+And then in paragraph 53, this is the summary that we've seen before of the six principles. And so it's relevant and important, but I don't think we need to read through it, unless the court wishes us to do that.
+JUSTICE: Please go ahead. Please continue, I mean. Don't read it. I've read it several times.
+MR. SENKPIEL: And so then it's the respondent's position that simply the accounting system that the appellant has put forward not only hasn't been demonstrated to accord with business principles, it's been seen to have a great deal of problems in it, and actually it ends up with quite absurd results when actually put into play. And so it would be our position that, aside from those amounts that the respondent has conceded, the appeal should be dismissed.
+(Transcript, Volume II, page 78, line 14 to page 81, line 5)
+[22] I have carefully considered the Appellants’ evidence and arguments and the Court decisions to which the Appellant, Andrew Ugro, referred and I have concluded that the Minister was correct in his determination of the net income of Andrew Ugro, for the 2001 taxation year and of the Partnership for the 2002 to 2005 taxation years. I have, therefore, determined that the Appellants have not satisfied the onus of establishing that the Minister’s calculations of net income for Andrew Ugro in 2001 and the net income of the Partnership in 2002, 2003, 2004 and 2005 were incorrect.
+Interest and Penalties
+[23] In their Notice of Appeal, the Appellants asked the Court to set aside the decision by the CRA to include penalties and interest.
+[24] With respect to the accruing of interest, the Tax Court does not have the power to waive interest.
+[25] The penalties that were imposed were late filing penalties since the tax returns for each Appellant were late-filed. See paragraphs [9], [10], [11] and [12] above.
+[26] The Tax Court does not have the authority to waive this type of penalty.
+Costs
+[27] Counsel for the Respondent suggested that the Court should impose costs. I hereby award the following costs:
+a) costs payable by the Appellant, Andrew Ugro, to the Respondent in the amount of $1,000.00;
+b) costs payable by the Appellant, Kelly Ugro, to the Respondent in the amount of $1,000.00.
+[28] The Appeals are allowed and the Minister is to make the adjustments referred to herein.
+Signed at Vancouver, British Columbia, this 27th day of June 2011.
+“L.M. Little”
+Little J.
+CITATION: 2011 TCC 317
+COURT FILE NOS.: 2009-2166(IT)G
+2009-2165(IT)G
+STYLE OF CAUSE: ANDREW UGRO AND HER MAJESTY THE QUEEN and KELLY UGRO AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Victoria, British Columbia
+DATE OF HEARING: February 2, 2011
+REASONS FOR JUDGMENT BY: The Honourable Justice L.M. Little
+DATE OF JUDGMENT: June 27, 2011
+APPEARANCES:
+For the Appellants:
+Andrew Ugro
+Counsel for the Respondent:
+Bruce Senkpiel
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada

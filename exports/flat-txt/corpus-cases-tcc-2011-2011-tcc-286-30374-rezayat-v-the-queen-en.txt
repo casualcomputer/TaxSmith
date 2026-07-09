@@ -1,0 +1,141 @@
+Title: Rezayat v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30374/index.do
+Corpus path: corpus/cases/tcc/2011/2011-tcc-286-30374-rezayat-v-the-queen-en.md
+Document type: case_law
+Last modified: 2011-06-02
+
+# Rezayat v. The Queen
+
+- Citation: 2011 TCC 286
+- Decision date: 2011-06-02
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7892, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Rezayat v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2011-06-02
+Neutral citation
+2011 TCC 286
+File numbers
+2010-2840(IT)I
+Judges and Taxing Officers
+Cameron Hugh McArthur
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2010-2840(IT)I
+BETWEEN:
+SAFORA REZAYAT,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on February 23, 2011, at Toronto, Ontario
+Before: The Honourable Justice C.H. McArthur
+Appearances:
+Agent for the Appellant:
+Mohammad Fayaz
+Counsel for the Respondent:
+Diana Aird
+____________________________________________________________________
+JUDGMENT
+The appeal from reassessment made under the Income Tax Act for the 2007 taxation year is dismissed, without costs.
+Signed at Ottawa, Canada, this 2nd day of June 2011.
+“C.H. McArthur”
+McArthur J.
+Citation: 2011 TCC 286
+Date: 20110602
+Docket: 2010-2840(IT)I
+BETWEEN:
+SAFORA REZAYAT,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+McArthur J
+[1] This is an appeal from the decision of the Minister of Revenue (Minister) to include in the Appellant’s income the value of shares she received in the 2007 taxation year from Bermuda based Tyco International Ltd. (International).
+[2] In this case, I am faced with identical facts and issues decided previously by three colleagues. The most recent of the three judgments is Yang v. Her Majesty the Queen. [1] The other two are Capancini v. Her Majesty the Queen [2] and Hamley v. Her Majesty the Queen. [3] The facts of these three cases arose out of the same Tyco transactions. In Capancini, Bowie J. found that International never owned the shares of Electronics Ltd. (Electronics) and Covidien Ltd. (Covidien) as they existed upon transfer to the Appellant. [4] Hershfield J. (in Hamley) and Sheridan J. (in Yang) found that it did. I believe similar appeals will follow. An eventual decision from the Federal Court of Appeal would be a blessing.
+[3] The Minister’s position is that the shares the Appellant received in Tyco Electronics and Covidien were dividends in kind, the value of which was to be included income. This creates an unfortunate situation for the Appellant who states, in part, in her notice of objection:
+“…the value of the stock, before and after the reverse split, is the same . . . due to current market conditions. I stand to lose more than half the stock value and have to pay an additional $4,000 – in taxes and penalties on the income I’ve never received. . . .”
+[4] Unfortunately, section 86.1 of the Income Tax Act ( the Act), which offers relief from taxation in similar circumstances, does not apply to exempt the dividends from income because the companies were incorporated in Bermuda, which does not have a tax treaty with Canada. The Appellant does not contest this.
+[5] She held 700 shares in International before June 29, 2007. On that date, International took two subsidiary corporations public: Electronics and Covidien. All three are incorporated in Bermuda. A document prepared for the United States Securities and Exchange Commission (USEC), released on July 3, 2007 [5] states in part:
+Distribution of the Common Shares of Tyco Electronics Ltd. and Covidien Ltd.
+On June 29, 2007, Tyco International Ltd. (“Tyco International”) completed the distribution of common shares of Tyco Electronics, and Covidien Ltd. to the shareholders of Tyco International. Tyco International, Tyco Electronics, and Covidien are now three wholly independent, publicly-traded companies.
+Each Tyco International shareholder received one common share of Covidien and one common share of Tyco Electronics for every four common shares of Tyco International held by such Tyco International shareholder at the close of business on June 18, 2007 (the record date).
+. . . Tyco International has received private letter rulings from the Internal Revenue Service (the “IRS”) substantially to the effect that the distribution will qualify as tax-free for U.S. federal income tax purposes . . .
+One-for-Four-Reverse Stock Split
+Immediately following the distribution of the common shares of Tyco Electronics and Covidien, every four common shares of Tyco International were converted into one common share of Tyco International as the result of a one-for-four “reverse stock split.”
+[6] This plan involved two stages. First, shareholders in International were given ¼ of a share in each of Electronics and Covidien for every share they held in International. Immediately after the distribution, there was a 4:1 stock consolidation (reverse-split) on shares in International. Collectively, these transactions are referred to as the “Tyco transactions.” The parties dispute the underlying nature of these transactions.
+[7] The Appellant received 175 shares in each of Electronics and Covidien. She states that immediately after that distribution, her 700 shares in International were replaced by 175 new shares in International. The Respondent characterizes the 175 shares in International as a 4:1 stock consolidation, and not as an exchange for new shares.
+[8] Her broker, RBC Direct Investing Inc., issued a T5 slip indicating that she received $14,665.35 US ($15,760 CAD) for her 175 shares of Electronics and 175 shares of Covidien, that being the market value of these two sets of stocks on the date of issue. On the basis of that T5 slip the Minister reassessed the Appellant, adding this value to her income for the 2007 taxation year.
+[9] She was represented by her spouse who, very understandably, asserts that she is being taxed on an amount that is not income to her but simply what she already owned, but in a different form. Her 175 shares in each of the three corporations on June 29, 2007 represented exactly the same ownership interest in exactly the same businesses as did her former 700 International shares on June 28, 2007. Her spouse added that since the value of her investment was unchanged after the Tyco transactions occurred there was no economic benefit, and she should not be taxed on the value of the shares in Electronics and Covidien. She in effect broke even yet the Minister added approximately $14,000 to her taxable income. He concluded: [6]
+. . . My argument is it’s not a dividend in kind because there was no profit sharing. There was a return in capital and Mrs. Rezayat did receive the new shares but did give something back and that was the portion of Tyco Electronics that balances off that value she received.
+[10] The Respondent replies in part that the shares received were dividends-in-kind, because they were property of a corporation distributed to shareholders on a pro rata basis.
+[11] In an earlier case, Morasse v. Her Majesty the Queen,[7] C. Miller J. considered whether shares created and distributed under Mexican law were a dividend. The Appellant owned 400 shares of Telmex. That corporation spun-off its mobile telephone business under a Mexican legal process called “escisión,” and transferred assets to a newly created corporation, América Móvil (AM). Shares in AM were then given to shareholders in Telmex. At no time prior to the distribution were shares in AM available for purchase or trade, as those shares did not legally exist until they were issued to Telmex shareholders.
+[12] The Minister assessed the value of the AM shares as investment income. The Appellant argued that the shares were not taxable under section 86.1, and alternately, that the shares were a non-taxable capital receipt. C. Miller J. held that section 86.1 did not apply but found the shares were not taxable in any event.
+[13] He concluded that Telmex did not legally own the shares in AM before they were distributed, so they could not be a dividend-in-kind. AM shares could not be taxed as a stock-dividend since they were not capital stock of Telmex. He described the “escisión” as a unique process which allowed some of the value of Telmex to be transferred into AM. Since the subsequent loss in value of the Telmex shares was almost equal to the value of the new shares in AM, the Court held that the transaction was not a distribution of profits, but rather a distribution of assets into a new corporation, and allowed the appeal.
+[14] Morasse was applied to the fact situation in the present matter in the three prior decisions referred to. In Capancini the Court held that the transactions were not taxable. Bowie J. concluded that the facts before him were indistinguishable from that in Morasse and for similar reasons the shares in Electronics and Covidien were not taxable as dividends-in-kind. Although this is an equitable decision when considering the effect of a dismissal of the appeal on the innocent taxpayer, with the reasons that follow, I favour the Minister’s position.
+Legislation
+[15] The Act defines “dividends” and “stock dividends” (in section 248) as follows:
+“dividend” includes a stock dividend (other than a stock dividend that is paid to a corporation or to a mutual fund trust by a non-resident corporation);
+“stock dividend” includes any dividend (determined without reference to the definition “dividend” in this subsection) paid by a corporation to the extent that it is paid by the issuance of shares of any class of the capital stock of the corporation;
+[16] Subsection 52(2) of the Act prescribes the cost of property given as a dividend-in-kind:
+Where any property has after 1971, been received by a shareholder of a corporation at any time as, on account or in lieu of payment of, or in satisfaction of, a dividend payable in kind (other than a stock dividend) in respect of a share owned by the shareholder of the capital stock of the corporation, the shareholder shall be deemed to have acquired the property at a cost to the shareholder equal to its fair market value at that time, and the corporation shall be deemed to have disposed of the property at that time for proceeds equal to that fair market value.
+Analysis
+[17] Again, the broad question is whether International’s distribution of shares in Electronics and Covidien was a dividend and therefore income to the Appellant. The definition of “dividend” in the Act has a large scope. It includes a distribution to a shareholder, whether cash or shares of a different corporation. A brief review of tabs 2, 3, 4 and 5 of the Respondent’s Book of Documents leads one to conclude that the shares in Electronics and Covidien were owned by International prior to distribution and the receipt of those shares by the Appellant is a dividend-in-kind. The documents show a parent corporation distributing shares it held in wholly-owned subsidiaries. The timing of the distribution indicates that the Appellant received the shares prior to the consolidation of the parent company’s shares, eliminating the possibility that the transactions were an exchange or redemption.
+[18] Further, the Appellant did receive an economic benefit from the transactions. By applying subsection 52(2) of the Act, she obtained an increase in the adjusted cost base (ACB) of her investment, which would reduce capital gains if the shares are later sold at a profit.
+[19] A finding that the International shares were consolidated and not replaced is supported by the Form 8-K as referred to earlier.
+[20] That statement does not refer to new shares of International being created. Further, International held all the shares of Electronics on June 29, 2007. The filings with the USEC further show, as of March 20, 2007, the common stock of Electronics and Covidien had been issued at some point prior, but the shares were not publicly traded. International distributed the shares it held in each corporation to International shareholders on June 29, 2007.
+[21] Both Electronics and Covidien had net revenue in 2007 in excess of one billion dollars. For example, Covidien’s net sales in 2007 were $10.170 billion and it is described as a leading Global Health Care Products company. It was incorporated in Bermuda in 2000 as a wholly-owned subsidiary of International.
+[22] Electronics net sales were $13.5 billion in the same year. After the spin-off, Electronics shares traded on the New York Stock Exchange. Electronics was also incorporated in Bermuda in 2000 as wholly-owned subsidiary of International.
+[23] It is clear from forms 8-K and 10-K[8] that the shares in Electronics and Covidien existed well before the June 29, 2007 distribution and they were owned by International. The transactions were structured as a disbursement of shares and then a subsequent share consolidation, rather than a share-swap. There is no evidence that these shares were somehow a return of capital to the shareholders. International labelled the distribution as a dividend (albeit, tax free in the US). Since the property given was not cash it is a dividend-in-kind and is deemed income based on fair market value, pursuant to subsection 52(2).
+[24] The timing of the transaction is relevant. The effect of the share distribution and subsequent consolidation was that the shareholder did not redeem their shares of International to receive the shares in Electronics and Covidien, so it can be argued that they gave nothing of value to receive them.
+[25] Further, by subsection 52(2), the new shares are deemed to have been received at fair market value. For the Appellant, this means their ACB on the received shares was $6,994.75 for Electronics and $7,596.75 for Covidien, for a total ACB in those shares of $14,591.50. The subsequent share consolidation reduced the quantity of International shares held by the Appellant, but there was no evidence that it reduced her total ACB of those shares.[9]
+[26] In the future, when these shares are sold, the increase in ACB will result in lower capital gains (or greater capital losses), which is an economic benefit to the Appellant.
+[27] International tried to prevent this result by insuring there would be no negative tax consequences to U.S. shareholders.[10] In Canada, section 86.1 can stop subsection 52(2) from applying, giving much the same effect. It does not in this case however, because as referred to earlier, the corporations involved are resident in Bermuda, with whom Canada has no tax treaty and the distribution cannot come under subsection 86.1(2).
+[28] The prior case law showing differing results between Bowie J. in Capancini and Hershfield J. in Hamley should be examined in light of this analysis. Again, it is the differing interpretation of Morasse that causes the disparate findings. In Capancini, it was held that the facts in that case were indistinguishable from the facts in Morasse. While it is not clear exactly how the facts were presented in Capancini, I believe that the Tyco transactions are distinguishable from the circumstances in Morasse.
+[29] In Morasse, the share transactions were executed based on the concept of “escisión”, and the shares distributed were in a newly created corporate entity. In the present case, the shares distributed were those of wholly-owned subsidiary corporations, which had existed before the shares were distributed. This disparity was recognized by Hershfield J. in Hamley. He stated that he had no evidence that the International distributions were of the same effect as those in Morasse, and he did not follow that decision.
+[30] In Yang, Sheridan J. stated at paragraph 15 the following which applies equally to the present case:
+[15] All of the above works to distinguish the facts of the present matter from Capancini and Morasse where, in each case, the Court found that the shares received by the taxpayer had never been owned by the distributing parent company and did not, therefore, come within the meaning of “dividend in kind”. Here, the documentary evidence does nothing to refute the Minister’s assumption that Tyco International did own the Tyco Electronics and Covidien shares it ultimately distributed, thus putting the Appellant’s case on the same factual footing as Hamley and bringing it within Justice Hershfield’s analysis set out above at paragraph 7 of these Reasons. In these circumstances, there is no justification for the Court to interfere with the Minister’s reassessment.
+[31] For these reasons, the appeal is dismissed, without costs.
+Signed at Ottawa, Canada, this 2nd day of June 2011.
+“C.H. McArthur”
+McArthur J.
+CITATION: 2011 TCC 286
+COURT FILE NO.: 2010-2840(IT)I
+STYLE OF CAUSE: SAFORA REZAYAT AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: February 23, 2011
+REASONS FOR JUDGMENT BY: The Honourable Justice C.H. McArthur
+DATE OF JUDGMENT: June 2, 2011
+APPEARANCES:
+Agent for the Appellant:
+Mohammad Fayaz
+Counsel for the Respondent:
+Diana Aird
+COUNSEL OF RECORD:
+For the Appellant:
+Name: N/A
+Firm: N/A
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] 2011 TCC 187.
+[2] 2010 TCC 581.
+[3] 2010 TCC 459.
+[4] I do not believe Bowie J. had all of the facts before him that were presented in the present appeal.
+[5] Exhibit R-1, tab 2, pages 8 and 9.
+[6] Transcript of proceedings at page 27, lines 9 to 15.
+[7] 2004 TCC 239.
+[8] Exhibit R-1, Tab 2 and Tab 4.
+[9] Stock consolidations alone do not change total ACB of shares. The total paid to acquire the shares remains the same: Brian J. Arnold, D. Keith McNair & Claire F.L. Young, Taxation of Corporations and Shareholders, (Toronto: Carswell, 1986). Also, see Canada Revenue Agency, Interpretation Bulletin IT-65, “Stock Splits and Consolidations” (8 September 1972). It is not clear what the Appellant's ACB in the original Tyco International shares was.
+[10] Exhibit R-1, tab 2, at 10-18.

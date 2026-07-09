@@ -1,0 +1,241 @@
+Title: Whitehorse (City) v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30927/index.do
+Corpus path: corpus/cases/tcc/2012/2012-tcc-298-30927-whitehorse-city-v-the-queen-en.md
+Document type: case_law
+Last modified: 2012-08-16
+
+# Whitehorse (City) v. The Queen
+
+- Citation: 2012 TCC 298
+- Decision date: 2012-08-16
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7425, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Whitehorse (City) v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2012-08-16
+Neutral citation
+2012 TCC 298
+File numbers
+2010-383(GST)G
+Judges and Taxing Officers
+Georgette Anne Sheridan
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2010-383(GST)G
+BETWEEN:
+THE CITY OF WHITEHORSE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on January 26, 2012 at Vancouver, British Columbia
+Before: The Honourable Justice G. A. Sheridan
+Appearances:
+Counsel for the Appellant:
+Kimberley L. Cook
+Counsel for the Respondent:
+Sara Fairbridge
+____________________________________________________________________
+JUDGMENT
+In accordance with the attached Reasons for Judgment, the appeal from the reassessment made under the Excise Tax Act, notice of which is dated February 20, 2009, is dismissed, with costs to the Respondent.
+Signed at Ottawa, Canada this 16th day of August 2012.
+“G. A. Sheridan”
+Sheridan J.
+Citation: 2012 TCC 298
+Date: 20120816
+Docket: 2010-383(GST)G
+BETWEEN:
+THE CITY OF WHITEHORSE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Sheridan J.
+[1] The issue is whether pursuant to sections 259 and 174 of the Excise Tax Act, the Appellant is entitled to a GST rebate of $137,399.80 on an allowance (“Yukon Bonus Travel Allowance”) paid to its employees for round-trip airline tickets and related travel expenses from Whitehorse to a designated southern Canadian city[1] (“Yukon Flights”).
+[2] The parties filed an Agreed Statement of Facts:
+The parties to this appeal agree, for the purposes of this appeal only, to the hereinafter recited facts. All parties are at liberty to adduce any further or other evidence which is not inconsistent with this Agreed Statement of Facts.
+1. The Appellant is a municipality incorporated under the laws of Yukon.
+2. The Appellant is located in Whitehorse, Yukon.
+3. The Appellant registered under Part IX of the Excise Tax Act, R.S.C. 1985, c. E-15 (the “ETA”), effective January 1, 1991, and was assigned a Goods and Services Tax (“GST”) registration number.
+4. At all material times, the Appellant was required to file GST returns on a quarterly basis.
+5. At all material times, the Appellant provided both taxable and exempt supplies.
+6. At all material times, the Appellant claimed input tax credits (“ITCs”) with respect to its taxable supplies.
+7. The Appellant filed applications for GST/HST public service bodies’ rebates and claimed rebates as a municipality at the rate of 100% on the GST that became payable after January 31, 2004 in respect of its exempt supplies.
+8. In October 2008, the Appellant claimed a public service bodies’ rebate totalling $400,741.35 for the period of July 1, 2008 to September 30, 2008 (the “Period”).
+9. Of the public service bodies’ rebate claim for the Period, $137,399.80 of the total claim of $400,741.35 related to the Appellant’s payment to certain of its employees of a Yukon Bonus travel allowance (the “Yukon Bonus Travel Allowance”) during 2004 through 2007 (the “Rebate”).
+10. On February 20, 2009 the Minister of National Revenue (the “Minister”) assessed the Appellant to deny the Rebate and accordingly issued Notice of Assessment Number 0830450851237003 dated February 20, 2009.
+11. During 2004 through 2007, the Appellant paid to its employees the following amounts with respect to the Yukon Bonus Travel Allowance:
+a. $547,201.42 in 2004;
+b. $545,635.69 in 2005;
+c. $577,974.54 in 2006; and
+d. $586,361.04 in 2007.
+12. The Appellant calculated the Rebate as follows:
+Year
+Yukon Bonus Travel
+Allowance Paid
+GST rate
+Rebate claimed
+2004
+$547,201.42
+7/107
+$35,798.22
+2005
+$545,635.69
+7/107
+$35,695.79
+2006
+$577,974.54
+6/106
+$32,715.54
+2007
+$586,361.04
+6/106
+$33,190.25
+Total Rebate
+$137,399.80
+13. The Appellant paid the Yukon Bonus Travel Allowance to employees based on which of the following groups the employee belonged to:
+a. the Public Service Alliance of Canada, Local Y022 (“Y022”);
+b. the Public Service Alliance of Canada, Local Y023 (“Y023”);
+c. the International Association of Fire Fighters, Local 2217 (“2217”); and
+d. Management and Confidential Employees (later known as Management and Management Staff) (“Management”).
+14. For the employees in Y022, Y023 and 2217, the entitlement to the Yukon Bonus Travel Allowance was stipulated by collective agreements entered into between the groups and the Appellant.
+15. For the Management employees, the entitlement to the Yukon Bonus Travel Allowance was stipulated by by-law.
+16. The Yukon Bonus Travel Allowance was intended to fund the employees’ travel costs associated with travelling away from Whitehorse to a southern Canadian city (either Edmonton or Vancouver).
+17. Collective agreements and by-laws dating back to 1992 evidence that the amount of the Yukon Bonus Travel Allowance was originally based on the equivalent of the cost of two return adult airfares from Whitehorse to Edmonton or Vancouver. The amount paid in the Yukon Bonus Travel Allowance increased over the years. In 1996 the amount paid was increased to $2,474.70 based on an increase in the price of airfare.
+18. In order to receive the Yukon Bonus Travel Allowance, employees had to have completed at least two years of service if they were in Y022 and Y023, at least one year of service if they were in Management and at least one or two years of service (depending on when they were hired) if they were in 2217.
+19. The Yukon Bonus Travel Allowance was income from employment to the employees within the meaning of section 6 of the Income Tax Act, R.S.C. 1985, c.1 (5th Supp.) (the “ITA”) as amended.
+20. Under the ITA, the employees of the Appellant were entitled to an income tax deduction for the travel expenses that they incurred to travel to and from Whitehorse in respect of their use of the Yukon Bonus Travel Allowance, provided they met the relevant criteria and completed CRA Form T2222 (E).
+21. In order to receive the Yukon Bonus Travel Allowance, the employees had to complete an application form and return it to the Appellant’s payroll department. Paragraph 3 of the application form included the following election for the employee:
+“I elect NOT to have taxes deducted at the source and further certify and agree that the money claimed will be spent for the purpose of travelling and that I will be responsible to Revenue Canada for any taxes owed on this money”.
+22. The application form also included the option of electing to have taxes taken off at source at a rate of 25%, in which case the employee was not required to certify and agree that the money claimed would be spent for the purpose of travelling.
+23. The Appellant provided the employees who received the Yukon Bonus Travel Allowance with T4 slips which included the Yukon Bonus Travel Allowance in box 14 as “Employment income” and in box 32 as “Travel in a prescribed zone”.
+24. Canada Pension Plan contributions and Employment Insurance premiums were deducted from the Yukon Bonus Travel Allowance amounts paid to the employees.
+25. The employees lived in and worked in Whitehorse or its environs.
+26. The travel that the Yukon Bonus Travel Allowance was intended to pay for was the employees’ personal travel.
+27. The Yukon Bonus Travel Allowance was not for business travel.
+28. Employees were reimbursed if they needed to travel for business.
+29. How the Yukon Bonus Travel Allowance would be spent was at the discretion of the employee who received it.
+Legislation
+[3] Because the City of Whitehorse is a municipality, its claim for the recovery of tax paid in respect of the Yukon Bonus Travel Allowance is governed by subsection 259(4) of the Excise Tax Act which, in certain circumstances, permits the payment of a rebate:
+259.(4) If a person is … designated to be a municipality for the purposes of this section in respect of activities (in this subsection referred to as the “designated activities”) specified in the designation, the Minister shall … pay a rebate to the person in respect of property or service (other than a prescribed property or service) equal to the total of
+(a) all amounts, each of which is determined by the formula
+A x B x C
+where
+A is the specified percentage
+B is … an amount deemed to have been paid … at any time by the person …, and
+C is the extent (expressed as a percentage) to which the person intended, at that time, to consume, use or supply the property or service in the course of the designated activities … [Emphasis added.]
+[4] The term “prescribed property or service” which appears in subsection 259(4) is defined in paragraph 4(1)(g) of The Public Service Body Rebate (GST/HST) Regulations (SOR/99-367) (“Rebate Regulations”), the relevant portions of which read:
+4.(1) For the purpose of determining a rebate payable to a particular person under section 259 of the Act, a prescribed property or service is
+…
+(g) property or a service that is acquired … by the particular person exclusively for the personal consumption, use or enjoyment … of a particular individual who was … an … employee …
+…
+[5] Returning to the rebate formula in subsection 259(4), where allowances are concerned, the reference in ‘B’ to “an amount deemed to have been paid” requires regard to section 174. Where the conditions of section 174 are met, an employer is deemed to have received a supply of the property or service for which the allowance was paid; any consumption or use of the property or service by its employees is deemed to be that of the employer; and the employer is deemed to have paid the tax in accordance with the formula in section 174. The only provision relevant to the present appeal is subparagraph 174(a)(iv) which requires that the supply for which the allowance was paid be “in relation to” the employer’s activities:
+174. For the purposes of this Part, where
+(a) a person pays an allowance
+(i) to an employee of the person, …
+…
+for
+…
+(iv) supplies … of property or services acquired … by the employee, … in relation to activities engaged in by the person [Emphasis added.],or
+(v) the use in Canada, in relation to activities engaged in by the person, of a motor vehicle,
+(b) an amount in respect of the allowance is deductible in computing the income of the person for a taxation year of the person for the purposes of the Income Tax Act, or would have been so deductible if the person were a taxpayer under that Act and the activity were a business,
+(c) in the case of an allowance to which subparagraph 6(1)(b)(v), (vi), (vii) or (vii.1) of that Act would apply
+(i) if the allowance were a reasonable allowance for the purposes of that subparagraph, and
+(ii) where the person is a partnership and the allowance is paid to a member of the partnership, if the member were an employee of the partnership, or, where the person is a charity or a public institution and the allowance is paid to a volunteer, if the volunteer were an employee of the charity or institution,
+the person considered, at the time the allowance was paid, that the allowance would be a reasonable allowance for those purposes and it is reasonable for the person to have considered, at that time, that the allowance would be a reasonable allowance for those purposes,
+the following rules apply:
+(d) the person is deemed to have received a supply of the property or service,
+(e) any consumption or use of the property or service by the employee, member or volunteer is deemed to be consumption or use by the person and not by the employee, member or volunteer, and
+(f) the person is deemed to have paid, at the time the allowance is paid, tax in respect of the supply equal to the amount determined by the formula
+A × (B/C)
+where
+A is the amount of the allowance,
+B is
+(i) the total of the rate set out in subsection 165(1) and the tax rate for a participating province if
+(A) all or substantially all of the supplies for which the allowance is paid were made in participating provinces, or
+(B) the allowance is paid for the use of the motor vehicle in participating provinces, and
+ii) in any other case, the rate set out in subsection 165(1), and
+C is the total of 100% and the percentage determined for B.
+Appellant’s Position
+[6] Both parties cited the Federal Court of Appeal decision ExxonMobil Canada Ltd. v. R., 2010 FCA 1 for the principle that under subparagraph 174(a)(iv), it is the supply, not the allowance used to acquire it, that must be “in relation to” the employer’s activities:
+50 … If meaning is to be given to the words of subparagraph 174(a)(iv), regard must be had to the particular property or services contemplated and their intended use. Applying these criteria, property or services which are intended by the employer for the exclusive personal use of the employees and which lend themselves to such a use bear no relationship to the employer’s activities. In contrast, property or services which can be used by the employees in the course of their employment activities, and which are intended for such a use, are in relation to the employer’s activities.[2] [Emphasis added.]
+[7] The property or services at issue in ExxonMobil were certain incidental moving costs for which its employees received an allowance:
+8 … in addition to paying and/or reimbursing direct moving expenses incurred by relocated employees, [ExxonMobil] paid the employees a moving allowance of up to a maximum of 15% of their salary. The moving allowance was intended to compensate relocated employees for incidental expenses related to the move that were not reimbursable as moving expenses.
+9 The appellants suggest, and the respondent accepts, that such expenses would include for example: "draperies, blinds and carpeting for the new premises; removal and installation of lighting fixtures; disconnection and reconnection of utilities (e.g., hydro, water, and gas), computers, antennae and satellite dishes; penalties for early cancellation of service contracts (e.g., cell phones, pagers, home security systems, Internet service providers), initial house cleaning, redirection of mail, the cost of registering vehicles or obtaining licenses in a new province; children's school uniforms and books; disassembly and reassembly of items for shipment; replacement of items that cannot be shipped (e.g., dangerous goods, frozen goods, plants); and additional insurance costs for valuable items shipped"… [Referred to in these Reasons for Judgment as “Incidental Moving Costs”]
+[8] On these facts[3], the Court held that the Incidental Moving Costs were for the “exclusive” personal use of the employees and accordingly, were not “in relation to” its activities as required under subparagraph 174(a)(iv).
+[9] While acknowledging that like the Incidental Moving Costs the Yukon Flights were for the personal use of the Appellant’s employees, counsel for the Appellant contended they were not exclusively so as contemplated by the test in ExxonMobil.
+[10] Counsel argued further that the determination of the “exclusive” nature of a personal use supply required the application of the test established in an earlier Federal Court of Appeal decision, Midland Hutterian Brethren v. Canada, [2000] F.C.J. No. 2098. In that case, the Court allowed a claim by a Hutterite colony for ITCs in respect of the GST paid on cloth used to make work clothes (“Work Cloth”). In overturning the Tax Court judge’s finding that the Work Cloth had not been acquired for the “consumption, use or supply in the course of commercial activity”, the majority of the Federal Court of Appeal held that:
+25 There is no language in subsection 169(1) that requires the use in question to be exclusively commercial … Once an item is found to be acquired and used in connection with the commercial activities of a GST registrant and that item directly or indirectly contributes to the production of articles or the provision of services that are taxable, then an ITC is available using the formula in that subsection. …
+26 Here, the evidence is clear. The [Work Cloth] was supplied by the Colony to its members because of its durability and longevity. The long-wearing nature of the [Work Cloth] saved the Colony money over the long term when compared to other materials. In this way, it contributed both to the Colony’s commercial activities and bottom line. Given that a Crown witness admitted that the Minister allows for ITCs for certain items such as work gloves and boots acquired by other farm registrants for use by their employees, I am of the opinion that the connection for the [Work Cloth] … is not too remote.
+[11] In a strong dissent, Evans, JA rejected the majority’s conclusion but accepted its analysis that “… for the goods to be acquired for use ‘in the course of commercial activities’, there must be a functional connection between the needs of the business and the goods.”[4] On his view of the facts, no such connection existed:
+68 No doubt it will not always be easy to draw the line between an ITC-eligible good consumed in the process of the commercial activity … and … one that is not because it satisfies a personal need of the registrant and has only a tenuous connection with the registrant’s commercial activities.
+69 Whether a good was acquired for use “in the course of commercial activities” may often require an assessment of the whole factual context, and a weighing of the various factors indicative of the good’s functional integration into the commercial activity. To the extent that this exercise involves findings of fact, the Court should be reluctant to intervene, in the absence of “palpable and overriding error” by the Tax Court Judge.
+[12] The Midland Hutterian Brethren decision was not considered by the Federal Court of Appeal in ExxonMobil. However, counsel for the Appellant submitted that the ExxonMobil test is consistent with the Midland Hutterian Brethren "functional connection" test as both require a finding of “exclusive” personal use before the supply can be precluded from being “in relation to” the claimant’s activities.
+[13] Applying Justice Evans’ criteria in Midland Hutterian Brethren to the present facts, counsel for the Appellant argued that notwithstanding the personal nature of the Yukon Flights, “an assessment of the whole factual context, and a weighing of the various factors indicative of the good’s functional integration into the commercial activity”[5] showed them not to be for the employees’ exclusive personal use. Because the Yukon Flights enhanced the Appellant’s capacity to recruit and retain employees, they provided an indirect benefit to the Appellant and therefore, were “used” in relation to its activities. In support of this contention, counsel noted the Appellant’s duties under the municipal bylaws[6] to ensure proper administration of the municipality and the Appellant’s location in a “prescribed zone” for the purposes of the Income Tax Act. She also referred the Court to federal policy recognizing the economic challenges faced by northern employers, including their ability to recruit and retain employees, and justifying special tax treatment to address such concerns[7]. Taken in this context, counsel submitted, the Yukon Flights acquired by the Appellant’s employees with the Yukon Bonus Travel Allowance formed part and parcel of the Appellant’s strategy for the management of its activities. In this regard, they were clearly distinguishable from the purely personal Incidental Moving Costs in ExxonMobil. On the facts of the present case, the Yukon Flights were “in relation to” its activities as required under subparagraph 174(a)(iv) and the Appellant ought to be entitled to a rebate under subsection 259(4) of the Act.
+Respondent’s Position
+[14] The Respondent rejected the Appellant’s position arguing that it blurred the distinction between the objectives of the Yukon Bonus Travel Allowance and the nature of the supply acquired with it, the Yukon Flights. Regardless of the policy behind their payment, counsel for the Respondent cited the following agreed facts in support of the Crown’s contention that the Yukon Flights themselves were for the “exclusive” personal use of the Appellant’s employees:
+…
+16. The Yukon Bonus Travel Allowance was intended to fund the employees’ travel costs associated with travelling away from Whitehorse to a southern Canadian city (either Edmonton or Vancouver).
+…
+25. The employees lived in and worked in Whitehorse or its environs.
+26. The travel that the Yukon Bonus Travel Allowance was intended to pay for was the employees’ personal travel.
+27. The Yukon Bonus Travel Allowance was not for business travel.
+28. Employees were reimbursed if they needed to travel for business.
+29. How the Yukon Bonus Travel Allowance would be spent was at the discretion of the employee who received it.
+[15] Although not relying on the Midland Hutterian Brethren decision, counsel for the Respondent argued that whether applying the “functional connection” test or the ExxonMobil test, the outcome would be the same: the purely discretionary nature of the Yukon Flights rendered their supply “too remote” from the Appellant’s activities to be considered anything other than for its employees’ “exclusive” personal use. In this regard, the Yukon Flights were akin to the Incidental Moving Costs in ExxonMobil. As in that case, the Appellant’s argument confused the business purpose of the allowance with the exclusively personal nature of the supply acquired with it. Thus, even if the Yukon Bonus Travel Allowance was paid to enhance the Appellant’s capacity to recruit and retain employees, that did not diminish the exclusively personal quality of the Yukon Flights.
+[16] As the conditions of subparagraph 174(a)(iv) had not been met, counsel for the Respondent submitted, no amount was “deemed to have been paid” as required under subsection 259(4)B and no rebate was payable.
+Analysis
+[17] In Midland Hutterian Brethren, Justice Evans prefaced his formulation of the “functional connection” test by acknowledging the difficulty in determining where, on the spectrum between being in relation to an employer’s activities or for its employees’ exclusive personal use, a particular supply ought to fall. In respect of a supply acquired with an allowance under subparagraph 174(a)(iv), ExxonMobil provides some assistance in this determination by noting that it is the supply and not the allowance used to acquire it that must be “in relation to” the employer’s activities. In that case, having specifically recognized the link between the purpose behind the allowance and the company’s activities, Noël, JA rejected ExxonMobil’s claim that the Incidental Moving Costs themselves were in relation to its activities,:
+7 The appellants [ExxonMobil] carry on business in the oil and gas industry. Domestically, their business extends to nearly every province and territory in Canada. As part of their business, the appellants are required to relocate their employees to different locations across the country, some of which are remote. There is no issue that the ongoing relocation of employees, particularly skilled professionals, is an essential component of the appellants' business operations and that the relocation policy adopted by the appellants was intended to facilitate employee transfers by allowing such transfers to take place with minimal disruption to the employees. … [Emphasis added.]
+[18] In the present matter, there is little dispute that the payment of the Yukon Bonus Travel Allowance was based on similarly valid management objectives. The question, however, is whether the Yukon Flights acquired with the Yukon Bonus Travel Allowance were sufficiently connected to the Appellant’s activities to preclude a finding under the first prong of the ExxonMobil test that they were for the employees’ exclusive personal use. For ease of reference, the ExxonMobil test is set out again below:
+… property or services which are intended by the employer for the exclusive personal use of the employees and which lend themselves to such a use bear no relationship to the employer’s activities. …[8]
+[19] I agree with counsel for the Appellant that the Yukon Flights are not quite on the same footing as the Incidental Moving Costs in ExxonMobil; it somehow rankles to equate the purchase of school uniforms for the children of corporate executives with annual flights for municipal employees out of an officially recognized remote community. What the Yukon Flights do have in common with the Incidental Moving Costs, however, is a tenuous link to the activities of the employer. Indeed, the Yukon Flights were intended to give the employees a break from their regular employment duties in the north; they allowed the employees to spend their time as they wished in southern centres far removed from their place of work. In this regard, the Yukon Flights bore little resemblance to the funded travel more typically related to business activities, for example, to meet with clients or to attend professional conferences or job interviews.
+[20] Counsel for the Appellant countered with the example of meal allowances or employee “break” rooms[9]. In respect of meal allowances, counsel argued that even though the meals constitute a supply intended to be consumed exclusively by employees, they are accepted as being “in relation to” a registrant’s activities. Similarly, the comfortable furniture and television that might furnish a staff room are supplies intended to provide a place for employees to relax while on a break. It seems to me, however, that this argument overlooks the fact that in either case, the employees are consuming/using the meals/break rooms while required to be on the job. Expressed in terms of Midland Hutterian Brethren, there is a “functional connection” between the supply and the performance of employment duties; under ExxonMobil, that connection would preclude a finding that the meals were for the “exclusive” personal use of the employees.
+[21] As for the second prong of the ExxonMobil test, airline flights and related travel costs in general lend themselves equally to work-related or personal purposes. In the present circumstances, the Yukon Flights lent themselves to an exclusive personal use.
+[22] In my view, the facts of this appeal fall into the difficult category anticipated by Justice Evans in Midland Hutterian Brethren. However, on balance, I am unable to conclude that there exists a sufficient nexus between the Yukon Flights and the Appellant’s activities. Accordingly, the appeal is dismissed, with costs to the Respondent.
+Signed at Ottawa, Canada this 16th day of August 2012.
+“G. A. Sheridan”
+Sheridan J.
+CITATION: 2012 TCC 298
+COURT FILE NO.: 2010-383(GST)G
+STYLE OF CAUSE: THE CITY OF WHITEHORSE AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Vancouver, British Columbia
+DATE OF HEARING: January 26, 2012
+REASONS FOR JUDGMENT BY: The Honourable Justice G. A. Sheridan
+DATE OF JUDGMENT: August 16, 2012
+APPEARANCES:
+Counsel for the Appellant:
+Kimberley L. Cook
+Counsel for the Respondent:
+Sara Fairbridge
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Kimberley L. Cook
+Firm: Thorsteinssons LLP Tax Lawyers
+P.O. Box 49123
+` Three Bentall Centre
+27th Floor – 595 Burrard Street
+Vancouver, BC, V7X 1J2
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Agreed Statement of Facts; Appellant’s Argument at paragraph 6.
+[2] At paragraph 50.
+[3] At paragraph 52.
+[4] At paragraph 31.
+[5] Midland Hutterian Brethren, at paragraph 69.
+[6] Appellant’s Book of Authorities at Tab 5.
+[7] Appellant’s Book of Authorities at Tabs 9 and 10.
+[8] At paragraph 50.
+[9] Appellant’s Argument at paragraph 65.

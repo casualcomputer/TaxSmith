@@ -1,0 +1,194 @@
+Title: Schreiner v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/25018/index.do
+Corpus path: corpus/cases/tcc/2006/2006-tcc-234-25018-schreiner-v-the-queen-en.md
+Document type: case_law
+Last modified: 2006-04-13
+
+# Schreiner v. The Queen
+
+- Citation: 2006 TCC 234
+- Decision date: 2006-04-13
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2525, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Schreiner v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-04-13
+Neutral citation
+2006 TCC 234
+File numbers
+2004-3071(IT)I
+Judges and Taxing Officers
+Leslie M. Little
+Subjects
+Income Tax Act
+Decision Content
+Dockets: 2004-3071(IT)I
+2005-362(IT)I
+BETWEEN:
+NADINE SCHREINER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on October 14, 2005 at Saskatoon, Saskatchewan
+Before: The Honourable Justice L.M. Little
+Appearances:
+Counsel for the Appellant:
+Beaty Beaubier
+Counsel for the Respondent:
+Brooke Sittler
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 2001 base taxation year is dismissed, without costs and the appeal for the 2002 taxation year is dismissed, without costs in accordance with the attached Reasons for Judgment.
+Signed at Vancouver, British Columbia, this 13th day of April 2006.
+"L.M. Little"
+Little J.
+Citation: 2006TCC234
+Date: 20060413
+Dockets: 2004-3071(IT)I
+2005-362(IT)I
+BETWEEN:
+NADINE SCHREINER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Little J.
+A. FACTS
+[1] The Appellant and Eric Schreiner ("Eric") were married on September 30, 1983.
+[2] The Appellant and Eric went through several separations and reconciliations and they separated on a permanent basis in 1998. The Appellant and Eric were divorced in June 2000.
+[3] The Appellant and Eric have one child, Jessica, born on June 1, 1988.
+[4] Nadine filed a Petition with the Court of Queen's Bench of Saskatchewan (Family Law Division). On August 22, 2001 Mr. Justice F.G.W. Dickson issued an Order which provided as follows:
+HAVING READ THE MATERIALS herein and upon the consent of the parties IT IS HEREBY ORDERED:
+1. There shall be no custody order made regarding Jessica Schreiner, born June 1st, 1988. She will reside with her father, and will spend significant and meaningful amounts of time with her mother. Without limiting the generality of the foregoing, the parties agree and acknowledge that:
+(a) Jessica will spend every second weekend with her mother, extended where it is a long weekend;
+(b) Jessica will spend Tuesday and Wednesday evenings and overnights with her mother, and such other time as she wishes. Transition time is after school; 7:00 p.m. on non-school days;
+(c) Summer and school-year vacations to be divided as agreed, equitably (roughly equally) bearing in mind Jessica's maturity and wishes;
+(d) Jessica shall have maximum contact with each parent, and shall spend roughly 40% - 60% of her time with each;
+(e) June time shall be as on Schedule "A"; the regular schedule shall continue except as noted thereon.
+2. Neither parent shall pay child support to the other. Each shall care for Jessica and provide for her needs while she is in their care. The issue of child support may be reviewed in October of 2001. Basic school fees and expenses shall be shared equally.
+(Exhibit R-1)
+[5] The Appellant claimed the Child Tax Benefit ("CCTB") relating to Jessica for the 2000 base taxation year. The Minister of National Revenue (the "Minister") issued a Notice of Reassessment denying the Appellant's claim for the CCTB. The Appellant filed an appeal to the Tax Court and her appeal for the CCTB for the 2000 base taxation year was allowed by Justice Beaubier.
+[6] Eric also filed an income tax return for the 2000 and 2001 base taxation years. The Minister issued Notices of Reassessment denying Eric's claim for the CCTB. Eric filed an appeal to the Tax Court of Canada. By Judgment dated May 18, 2004 Justice Sheridan held that Eric was the eligible individual who was entitled to claim the CCTB for the 2000 and 2001 base taxation years. Justice Sheridan held that Nadine Schreiner was the person who was entitled to claim the CCTB for the 2002 base taxation year.
+[7] In computing her tax liability for the 2002 taxation year, the Appellant claimed an amount of $6,482.00 for the wholly dependent person (i.e. the Appellant claimed that Jessica was a wholly dependent person).
+B. ISSUES TO BE DECIDED
+[8] 1. Whether the Appellant is considered to be an eligible individual re Jessica for the period July 2002 to June 2003 (the "Period") of the 2001 base taxation year and therefore, whether she is entitled to the CCTB for the Period pursuant to section 122.6 of the Income Tax Act.
+2. Whether the Appellant is entitled to the GSTC re Jessica for the following Quarters:
+(a) The Quarter beginning July 2002
+(b) The Quarter beginning October 2003
+(c) The Quarter beginning January 2003
+(d) The Quarter beginning April 2003
+3. Whether the Appellant was entitled to claim a dependent credit of $6,482.00 under paragraph 118(1)(b) of the Income Tax Act in connection with Jessica for the 2002 taxation year.
+C. ANAYLSIS AND DECISION
+I. Re: Child Tax Benefit
+[9] In Eric Schreiner v. The Queen, [2004] T.C.J. No. 262 my colleague Justice Sheridan issued Reasons for Judgment. In that case Justice Sheridan said at paragraphs 8, 9 and 10:
+[8] I find that for the Base Years 2000 and 2001, each parent played an equal role in factors (a) to (g) in section 6302. For factor (h), however, I find that the Order requiring Jessica to reside with her father for 8 of every 14 days tips the balance slightly in favour of Mr. Schreiner. Accordingly, I find that he was the "eligible individual" and entitled to receive the Child Tax Benefit for the periods and in the amounts set out below:
+Base Year 2000
+July 2001-September 2001
+$ 553.81
+Base Year 2000
+October 2001-June 2002
+1,661.42
+Base Year 2001
+July 2002-June 2003
+2,444.00
+Base Year 2002
+[9] For the Base Year 2002, it is my view on the evidence presented that Mr. Schreiner was not the "eligible individual". By that time, Jessica had turned 15 and circumstances had changed regarding the level of dependency on each parent. While still residing with her father, Jessica was beginning to have a little more reliance on her mother. In particular, the evidence going to section 6302(f) "the hygienic needs of the qualified dependent on a regular basis" and section 6302(g) "the provision generally, of guidance and companionship, to the qualified dependent" slightly outweigh section 6302(h), the "Court Order" factor, for this period. At her present age, Jessica is quite naturally more disposed to discuss section 6302(f) matters with her mother. As for section 6302(g), Mr. Schreiner pointed out that a teenaged girl is not likely very interested in going clothes shopping or to the beauty salon with her dad in tow. For her part, Ms. Schreiner testified to her spending time with Jessica in such activities and engaging with her daughter in what used to be described, in a less politically correct era, as "girl talk". As was the case for Base Years 2000 and 2001, each parent played an equal role for factors (a) to (e) of section 6302. The difference arises in factors (f) and (g) which tip the balance slightly in favour of Ms. Schreiner as the "eligible individual" for the period July 2003 to October 2003.
+[10] The appeal is allowed and the determination is sent back to the Minister for redetermination in accordance with the attached Reasons.
+[10] After carefully considering the evidence before me and the comments of Justice Sheridan in the appeal of Eric Schreiner v. The Queen, I have concluded that the Appellant was not the person entitled to the CCTB for the 2000 and 2001 base taxation years. However, I agree with Justice Sheridan's conclusion that the Appellant was the person entitled to the CCTB for the 2002 base taxation year.
+[11] The appeal for the 2001 base taxation year is dismissed, without costs.
+II. Goods and Services Tax Credit
+[12] Section 122.5 of the Act provides definitions for the purpose of the Goods and Services Tax Credit ("GSTC").
+[13] Section 122.5 reads as follows:
+"qualified dependant" of an individual, in relation to a month specified for a taxation year, means a person who at the beginning of the specified month
+(a) is the individual's child or is dependent for support on the individual or on the individual's cohabiting spouse or common-law partner;
+(b) resides with the individual;
+(c) is under the age of 19 years;
+(d) is not an eligible individual in relation to the specified month; and
+(e) is not a qualified relation of any individual in relation to the specified month.
+[14] The Appellant filed a Petition with the Court of Queen's Bench of Saskatchewan (Family Law Division). On August 22, 2001 Mr. Justice Dickson of the Court issued an Order which provided as follows:
+1. There shall be no custody order made regarding Jessica Schreiner, born June 1, 1988. She will reside with her father, and will spend significant and meaningful amounts of time with her mother ... (Exhibit R-1)
+[15] Eric Schreiner was called as a witness by counsel for the Respondent. Eric Schreiner was asked about the Court Order:
+Q. ... it is stated that the word "reside" with you, and there is no word relating to residence when it speaks of the mother?
+A. That had to do with the outcome of the custody access investigation.
+Q. Okay. Do you want to tell me a little about that?
+A. The ... Bonnie Clements was her name. Her ... she had come to both houses, and done a custody access investigation, and after concluding her investigation, the Custody Order recommend that I have full custody of Jessica, and that she and have her mother have liberal visitation. (Transcript, Nadine Schreiner v. The Queen, p. 93, ll. 6-20.)
+[16] In order for Jessica to come within the definition of a "qualified dependent" she must reside with Nadine. According to the Court Order (Exhibit R-1) Jessica resided with Eric.
+[17] Based upon the sworn testimony and the documents that were filed including, in particular, the Court Order (Exhibit R-1), I have concluded that the Appellant is not entitled to claim the GSTC because the "residence" requirement in section 122.5 is not satisfied.
+[18] The appeal involving the GSTC for the quarters specified in paragraph [8] 2 above is dismissed, without costs.
+III. Re: Wholly Dependent Credit - Paragraph 118(1)(b) of the Act
+[19] Paragraph 118(1)(b) reads as follows:
+118. (1) For the purpose of computing the tax payable under this Part by an individual for a taxation year, there may be deducted an amount determined by the formula
+A X B
+where
+A is the appropriate percentage for the year, and
+B is the total of,
+. . .
+(b) Wholly dependent person − in the case of an individual who does not claim a deduction for the year because of paragraph (a) and who, at any time in the year,
+(i) is
+(A) a person who is unmarried and who does not live in a common-law partnership, or
+(B) a person who is married or in a common-law partnership, who neither supported nor lived with their spouse or common-law partner and who is not supported by that spouse or common-law partner, and
+(ii) whether alone or jointly with one or more other persons, maintains a self-contained domestic establishment (in which the individual lives) and actually supports in that establishment a person who, at that time, is
+(A) except in the case of a child of the individual, resident in Canada,
+(B) wholly dependent for support on the individual, or the individual and the other person or persons, as the case may be,
+(C) related to the individual, and
+(D) except in the case of a parent or grandparent of the individual, either under 18 years of age or so dependent by reason of mental or physical infirmity,
+an amount equal to the total of
+(iii) $7,131, and
+(iv) the amount determined by the formula
+$6,055 − (D − $606)
+where
+D is the greater of $606 and the dependent person's income for the year.
+[20] It will be noted that subparagraph 118(1)(b)(i) provides as follows:
+(b) Wholly dependent person − in the case of an individual who does not claim a deduction for the year because of paragraph (a) and who, at any time in the year,
+(i) is
+(A) a person who is unmarried and who does not live in a common-law partnership, or
+(B) a person who is married or in a common-law partnership, who neither supported nor lived with their spouse or common-law partner and who is not supported by that spouse or common-law partner, and
+[21] I have carefully considered all of the evidence before me. I do not find that the Appellant's evidence was credible. I have therefore concluded that the Minister's Assessment should be upheld since the Appellant has not satisfied the onus to establish that the Assessment was incorrect.
+[22] I also refer to paragraph 118(4)(b) of the Act which specifies that only one individual can claim an equivalent-to-married status amount under paragraph 118(1)(b) in respect of a particular person.
+[23] In Eric Schreiner v. The Queen, Citation No. 2006TCC231, dated April 13, 2006, I allowed Eric Schreiner to claim the tax credit provided by paragraph 118(1)(b). It therefore follows that paragraph 118(4)(b) would not allow anyone other than Mr. Eric Schreiner to claim the dependent credit for the 2002 taxation year.
+[24] The appeal by Nadine regarding the claim that Jessica was a wholly dependent person in 2002 is dismissed, without costs.
+Signed at Ottawa, Canada , this 13th day of March 2006.
+"L.M. Little"
+Little J.
+CITATION:
+2006TCC234
+COURT FILE NOS.:
+2004-3071(IT)I
+2005-362(IT)I
+STYLE OF CAUSE:
+Nadine Schreiner and
+Her Majesty the Queen
+PLACE OF HEARING:
+Saskatoon, Saskatchewan
+DATE OF HEARING:
+October 14, 2005
+REASONS FOR JUDGMENT BY:
+The Honourable Justice L.M. Little
+DATE OF JUDGMENT:
+April 13, 2006
+APPEARANCES:
+Counsel for the Appellant:
+Beaty Beaubier
+Counsel for the Respondent:
+Brooke Sittler
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Beaty Beaubier
+Firm:
+Priel Stevenson Hood & Thornton
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

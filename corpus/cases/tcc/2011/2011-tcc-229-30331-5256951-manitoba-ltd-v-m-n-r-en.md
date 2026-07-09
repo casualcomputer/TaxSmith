@@ -1,0 +1,348 @@
+---
+title: "5256951 Manitoba Ltd. v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30331/index.do"
+last_modified: "2011-04-29"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2011 TCC 229"
+citation2: ""
+neutral_citation: "2011 TCC 229"
+decision_date: "2011-04-29"
+language: "en"
+item_id: "30331"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 8035
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T07:38:10.127000+00:00"
+cases_cited_count: 7
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "2b451249b9a5cbf1a4234417156002786525b0db823fc9bfb022d6eaa524dbf8"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# 5256951 Manitoba Ltd. v. M.N.R.
+
+- Citation: 2011 TCC 229
+- Decision date: 2011-04-29
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 8035, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+5256951 Manitoba Ltd. v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2011-04-29
+Neutral citation
+2011 TCC 229
+File numbers
+2010-3001(EI)
+Judges and Taxing Officers
+Wyman W. Webb
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2010-3001(EI)
+BETWEEN:
+5256951 MANITOBA LTD.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeals heard together with the appeals of
+5256951 Manitoba Ltd., (2010-3003(CPP))
+on February 11, 2011 at Winnipeg, Manitoba,
+and closing arguments heard by conference call on April 12, 2011
+Before: The Honourable Justice Wyman W. Webb
+Appearances:
+Agent for the Appellant:
+Lorne Neyedly
+Counsel for the Respondent:
+Tom Gagnon
+____________________________________________________________________
+JUDGMENT
+The Appeals by the Appellant from the assessments under the Employment Insurance Act (all dated July 10, 2009) for employment insurance premiums in respect of Wayne Scholz for 2006, 2007, 2008 and 2009 are allowed, without costs, and these assessments are vacated.
+Signed at Ottawa, Canada, this 29th day of April 2011.
+“Wyman W. Webb”
+Webb, J.
+Docket: 2010-3003(CPP)
+BETWEEN:
+5256951 MANITOBA LTD.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeals heard together with the appeals of
+5256951 Manitoba Ltd., (2010-3001(EI))
+on February 11, 2011 at Winnipeg, Manitoba
+and closing arguments heard by conference call on April 12, 2011
+Before: The Honourable Justice Wyman W. Webb
+Appearances:
+Agent for the Appellant:
+Lorne Neyedly
+Counsel for the Respondent:
+Tom Gagnon
+____________________________________________________________________
+JUDGMENT
+The Appeals by the Appellant from the assessments under the Canada Pension Plan (all dated July 10, 2009) for Canada Pension Plan contributions in respect of Wayne Scholz for 2006, 2007, 2008 and 2009 are allowed, without costs, and these assessments are vacated.
+Signed at Ottawa, Canada, this 29th day of April 2011.
+“Wyman W. Webb”
+Webb, J.
+Citation: 2011TCC229
+Date: 20110429
+Dockets: 2010-3001(EI)
+2010-3003(CPP)
+BETWEEN:
+5256951 MANITOBA LTD.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGMENT
+Webb, J.
+[1] The Appellant was assessed (by notices of assessment that were all dated July 10, 2009) pursuant to the Employment Insurance Act (the “EI Act”) for employment insurance premiums and pursuant to the Canada Pension Plan (the “CPP”) for Canada Pension Plan contributions in relation to the amounts paid by the Appellant to Wayne Scholz in 2006, 2007, 2008 and 2009. The amounts assessed under each Act are as follows:
+Year
+Amount Assessed under the EI Act
+Amount Assessed under the CPP
+2006
+$880.54
+$1,595.88
+2007
+$1,061.63
+$2,086.42
+2008
+$882.41
+$1,757.26
+2009
+$128.71
+$278.02
+Total:
+$2,953.29
+$5,717.58
+[2] The issue in these appeals is whether Wayne Scholz was an employee or an independent contractor. The question of whether an individual is an employee or an independent contractor has been the subject of several cases. In 671122 Ontario Ltd. v. Sagaz Industries Canada Inc., [2001] S.C.J. 61, 2001 S.C.C. 59 (“Sagaz”), Justice Major of the Supreme Court of Canada stated as follows:
+46 In my opinion, there is no one conclusive test which can be universally applied to determine whether a person is an employee or an independent contractor. Lord Denning stated in Stevenson Jordan, supra, that it may be impossible to give a precise definition of the distinction (p. 111) and, similarly, Fleming observed that "no single test seems to yield an invariably clear and acceptable answer to the many variables of ever changing employment relations ..." (p. 416). Further, I agree with MacGuigan J.A. in Wiebe Door, at p. 563, citing Atiyah, supra, at p. 38, that what must always occur is a search for the total relationship of the parties:
+[I]t is exceedingly doubtful whether the search for a formula in the nature of a single test for identifying a contract of service any longer serves a useful purpose.... The most that can profitably be done is to examine all the possible factors which have been referred to in these cases as bearing on the nature of the relationship between the parties concerned. Clearly not all of these factors will be relevant in all cases, or have the same weight in all cases. Equally clearly no magic formula can be propounded for determining which factors should, in any given case, be treated as the determining ones.
+47 Although there is no universal test to determine whether a person is an employee or an independent contractor, I agree with MacGuigan J.A. that a persuasive approach to the issue is that taken by Cooke J. in Market Investigations, supra. The central question is whether the person who has been engaged to perform the services is performing them as a person in business on his own account. In making this determination, the level of control the employer has over the worker's activities will always be a factor. However, other factors to consider include whether the worker provides his or her own equipment, whether the worker hires his or her own helpers, the degree of financial risk taken by the worker, the degree of responsibility for investment and management held by the worker, and the worker's opportunity for profit in the performance of his or her tasks.
+48 It bears repeating that the above factors constitute a non-exhaustive list, and there is no set formula as to their application. The relative weight of each will depend on the particular facts and circumstances of the case.
+[3] In Royal Winnipeg Ballet v. Minister of National Revenue, 2006 FCA 87, 2006 DTC 6323, the dancers and the ballet company had a common intention that the dancers would be hired as independent contractors. The Federal Court of Appeal reviewed the relevant facts of that case as determined by the factors outlined in Wiebe Door Services Ltd. v. Minister of National Revenue, [1986] 2 C.T.C. 200, 87 DTC 5025 (“Wiebe Door”). A majority of the Justices of the Federal Court of Appeal concluded that the relevant facts in that case did not change the intended relationship between the dancers and the Royal Winnipeg Ballet and that the dancers were independent contractors. Justice Sharlow of the Federal Court of Appeal made the following comments in the Royal Winnipeg Ballet case in writing for the majority of the Justices of the Federal Court of Appeal:
+65. The judge chose the following factors as relevant to the Wiebe Door analysis (it is not suggested that he chose the wrong factors or that there are any relevant factors that he failed to consider):
+· The indispensable element of individual artistic expression necessarily rests with the dancers. The RWB chooses what works will be performed, chooses the time and location of the performances, determines where and when rehearsals will be held, assigns the roles, provides the choreography, and directs each performance.
+· The dancers have no management or investment responsibilities with respect to their work with the RWB.
+· The dancers bear little financial risk for the work they do for the RWB for the particular season for which they are engaged. However, their engagements with the RWB are for a single season and they have no assurance of being engaged in the next season.
+· The dancers have some chance of profit, even within their engagement with the RWB, in that they may negotiate for remuneration in addition to what is provided by the Canadian Ballet Agreement. However, for the most part remuneration from the RWB is based on seniority and there is little movement from that scale.
+· The career of a dancer is susceptible to being managed, particularly as the dancer gains experience. Dancers engaged by the RWB have considerable freedom to accept outside engagements, although there are significant contractual restrictions (the need for the consent of the RWB, and the obligation to hold themselves out as being engaged by the RWB).
+· Although the dancers bear many costs related to their engagement with the RWB and their dancing careers generally, the RWB is obliged to provide dance shoes, costumes, tights, wigs and certain other necessary items.
+· The dancers are responsible for keeping themselves physically fit for the roles they are assigned. However, the RWB is obliged by contract to provide certain health related benefits and warm-up classes.
+66. The control factor in this case, as in most cases, requires particular attention. It seems to me that while the degree of control exercised by the RWB over the work of the dancers is extensive, it is no more than is needed to stage a series of ballets over a well planned season of performances. If the RWB were to stage a ballet using guest artists in all principal roles, the RWB's control over the guest artists would be the same as if each role were performed by a dancer engaged for the season. If it is accepted (as it must be), that a guest artist may accept a role with the RWB without becoming its employee, then the element of control must be consistent with the guest artist being an independent contractor. Therefore, the elements of control in this case cannot reasonably be considered to be inconsistent with the parties' understanding that the dancers were independent contractors.
+67. The same can be said of all of the factors, considered in their entirety, in the context of the nature of the activities of the RWB and the work of the dancers engaged by the RWB. In my view, this is a case where the common understanding of the parties as to the nature of their legal relationship is borne out by the contractual terms and the other relevant facts.
+[4] In D.W. Thomas Holdings Inc. v. Minister of National Revenue, 2009 FCA 371, Justice Layden-Stevenson, stated, on behalf of the Federal Court of Appeal, that:
+5 Contrary to the appellant's assertion, Miller J. did consider the issue of intention. In keeping with the approach set out in Royal Winnipeg Ballet v. Canada (Minister of National Revenue), [2007] 1 F.C.R. 35 (FCA), she examined the evidence to ascertain whether it supported that intention and concluded that it did not.
+[5] The Appellant carried on a business of buying and selling boats as “The Boat Finders”. It appears that the boats would generally be purchased in the United States and sold to customers in Canada. The Appellant would pick up boats from various locations and bring them to its premises. Once the Appellant sold a boat it would be delivered to the purchaser. Wayne Scholz was retained by the Appellant to drive the Appellant’s truck to pick up boats and bring them to the Appellant’s place of business. It also appears, as determined below, that Wayne Scholz was retained by the Appellant’s customers to deliver boats to them.
+[6] In this case there is a dispute between the Appellant and Wayne Scholz with respect to whether there was a common intention that Wayne Scholz would be an employee or an independent contractor. Lorne Neyedly, who was the general manager of the Appellant and the father of the shareholder of this company, testified during the hearing. He stated, during cross-examination that:
+Q You say in your evidence that Mr. Scholz declared himself to be an independent contract driver to you, is that correct?
+A Continually to me and the other witnesses.
+Q And you say that at the initial meeting he declared himself to be a contract driver, is that correct?
+A At the initial meeting, at the ending meeting he declared himself to be a contract driver.
+[7] During his testimony, Wayne Scholz stated that:
+Q At that, when you first started, did you discuss whether you would be an employee or a contractor?
+A I just assumed employee because we never talked about any kind of contract at all, period.
+Q So what did you think you were?
+A Employee.
+Q Did you ever tell Mr. Neyedly you were an independent contractor?
+A Never.
+Q And throughout the time you were working for Boat Finders, what did you think you were?
+A An employee.
+[8] There is clearly a discrepancy between the testimony of these two witnesses. The Appellant also called Carla Provencal as a witness. I have no hesitation in accepting her testimony. She was a very credible witness. She stated that:
+Q So what was your understanding of Wayne Scholz' position?
+A That he wasn't an employee, he was an independent contract driver.
+Q Were you ever asked to do payroll?
+A Once I issued the paycheques when Louise was away and I was still fairly new, still training, it was in the fall of 2008, and Louise coached me by phone. And I asked who all had to have paycheques and she said pull the time sheets, and I filled out a time sheet and the other employees filled out time sheets. So I pulled the time sheets.
+I asked about Wayne. She says, don't worry about Wayne. You don't have to issue a cheque for him because he's not on the payroll. So I just issued cheques for myself, for Jared, for Mike.
+Q Did she identify Wayne as an employee or –
+A No. She said that he wasn't an employee so I didn't have to worry about a payroll cheque for him.
+[9] Louise is Louise Scholz, the wife of Wayne Scholz. She was also the bookkeeper / office manager of the Appellant. It appears that Louise Scholz was given a significant amount of autonomy in carrying out her duties for the Appellant. She also was granted signing authority for cheques. It seems to me that it is more likely than not that Louise Scholz would not have told Carla Provencal that Wayne Scholz was not an employee if Wayne Scholz really intended to be and thought that he was an employee.
+[10] Carla Provencal also stated that:
+Q And what was your thoughts when Brian Fey came in, the trust examiner for CRA?
+A Brian had stated that the reason that he was there for the audit was because Wayne Scholz had stated that he was an employee and had applied for EI benefits, and that's what generated or kicked off the audit.
+And I was actually very shocked and flabbergasted because, in the time that I had been there, Wayne had referred to himself as an independent contract driver in our conversations and that's what I was told he was by Louise Scholz and by everyone else at The Boat Finders.
+Q Did he ever make reference about being a farmer to you?
+A Yes. When he would come in and be waiting for some of the documentation for going out for picking up boats, because I was up at the front as the receptionist and he would be waiting there, we'd talk, of course, like normally like people do, about what the weather was doing and, you know, how the farm was going and just all that kind of stuff.
+And I became an independent self-employed person in the 1st of July, so I didn't work as an employee for The Boat Finders. And so in March when I was there and he was in, we'd had a conversation and just kind of general conversation about, yes, I'm not, you know, I'm going to be self-employed, and just talking in that respect, and he said, yes, it's good to be self-employed. Like, you know, I like being a farmer. I like, you know, doing the contract driving because you're not an employee for anybody and you get to kind of choose your days and your times, and that kind of stuff.
+[11] Wayne Scholz also stated that he reported his income from the Appellant as an employee when he filed his income tax returns. His income tax returns for these years were not submitted into evidence. It seems more likely than not that the Appellant would not have access to the income tax returns filed by Wayne Scholz. However, the Respondent, The Minister of National Revenue, would have access to the income tax returns that were filed by Wayne Scholz.
+[12] In the Law of Evidence in Canada, third edition, by Justice Lederman, Justice Bryant and Justice Fuerst of the Superior Court of Justice for Ontario, it is stated at p. 377 that:
+§6.449 In civil cases, an unfavourable inference can be drawn when, in the absence of an explanation, a party litigant does not testify, or fails to provide affidavit evidence on an application, or fails to call a witness who would have knowledge of the facts and would be assumed to be willing to assist that party. In the same vein, an adverse inference may be drawn against a party who does not call a material witness over whom he or she has exclusive control and does not explain it away. Such failure amounts to an implied admission that the evidence of the absent witness would be contrary to the party’s case, or at least would not support it.*
+§6.450 An adverse inference should be drawn only after a prima facie case has been established by the party bearing the burden of proof.*
+(* denotes a footnote reference that is in the original text but which has not been included.)
+[13] It seems to me that this can also apply to a failure to produce documents that are within the exclusive control of a party. In this case those documents are the income tax returns of Wayne Scholz for 2006, 2007, 2008 and 2009. These income tax returns would either have confirmed Wayne Scholz’s statement that he intended to be and considered himself to be an employee or they would have contradicted these statements since employment income is not reported on the same line in the income tax return as income from a business. Wayne Scholz was a witness called by the Respondent, he was not a witness called by the Appellant.
+[14] Counsel for the Respondent stated during closing arguments that the Appellant had the onus of proof with respect to the intention of the Appellant and Wayne Scholz.
+[15] In The Queen v. Anchor Pointe Energy Ltd., 2003 DTC 5512, Justice Rothstein (as he then was) stated that:
+23 The pleading of assumptions gives the Crown the powerful tool of shifting the onus to the taxpayer to demolish the Minister's assumptions. The facts pleaded as assumptions must be precise and accurate so that the taxpayer knows exactly the case it has to meet.
+[16] In The Queen v. Loewen, 2004 FCA 146, Justice Sharlow also made the following comments:
+9 It is the obligation of the Crown to ensure that the assumptions paragraph is clear and accurate. For example, the Crown cannot say that the Minister assumed, when making the assessment, that a certain car was green and also that the same car was red, because it is impossible for the Minister to have made both of those assumptions at the same time: Brewster, N C v. The Queen, [1976] CTC 107 (F.C.T.D.).
+10 Nor is it open to the Crown to plead that the Minister made a certain assumption when making the assessment, if in fact that assumption was not made until later, for example, when the Minister confirmed the assessment following a notice of objection. The Crown may, however, plead that the Minister assumed, when confirming an assessment, something that was not assumed when the assessment was first made: Anchor Pointe Energy Ltd. v. Canada, 2003 DTC 5512 (F.C.A.).
+11 The constraints on the Minister that apply to the pleading of assumptions do not preclude the Crown from asserting, elsewhere in the reply, factual allegations and legal arguments that are not consistent with the basis of the assessment. If the Crown alleges a fact that is not among the facts assumed by the Minister, the onus of proof lies with the Crown. This is well explained in Schultz v. Canada, [1996] 1 F.C. 423 (C.A.) leave to appeal to S.C.C. refused, [1996] S.C.C.A. No. 4.
+[17] There is no reference in either the Reply filed in relation to the Appeal under the EI Act or in the Reply filed in relation to the Appeal under the CPP that the Minister had assumed that the parties had any particular intention. If the Respondent should now want to allege that the parties did not have a mutual intention that Wayne Scholz would be an independent contractor then the Respondent would have the onus of proving this. It seems to me that in relation to this the tax returns for Wayne Scholz would have either confirmed Wayne Scholz’s statements that he always considered himself to be an employee and that he reported his income as such or they would have contradicted these statements. It seems to me that an unfavourable inference can be drawn from the failure of the Respondent to introduce copies of the income tax returns that Wayne Scholz had filed for 2006, 2007, 2008 and 2009. The negative inference is that these returns would have indicated that he reported his income derived from the services that he provided to the Appellant as income from a business and not as income from employment.
+[18] Since Louise Scholz was Wayne Scholz’s wife and since she was also the bookkeeper / office manager for the Appellant, if Wayne Scholz considered himself to be an employee throughout these four years, why did he not ask his wife to provide him with a T4 slip? Wayne Scholz confirmed during his cross-examination that he had never asked for a T4 slip or a record of employment.
+[19] I accept the testimony of Lorne Neyedly and Carla Provencal and I do not accept the testimony of Wayne Scholz. Therefore I find that there was a mutual intention that Wayne Scholz would be retained as an independent contractor and not as an employee.
+[20] In Royal Winnipeg Ballet, the facts related to the dancers and the circumstances of their work were not sufficient to alter the arrangement from that which was intended by the parties. Therefore it seems to me that “in keeping with the approach set out in Royal Winnipeg Ballet”, the relevant facts in this case, as determined by the factors as set out in Wiebe Door and Sagaz, would have to more strongly indicate an employer/employee relationship than did the facts in the case of the Royal Winnipeg Ballet in order for Wayne Scholz to be considered to be an employee. In both the Royal Winnipeg Ballet case and in this case, there was an intention to create an independent contractor relationship and not an employer/employee relationship.
+[21] The Respondent submitted that the Royal Winnipeg Ballet case could be distinguished on the basis that in that case, as stated by Justice Sharlow “there is no dispute between the parties as to what they believe that relationship to be” but in this appeal there was a dispute between the parties. However, since I do not accept the testimony of Wayne Scholz in relation to the issue of whether he intended to be an employee, I find that there was also no dispute in this case with respect to what the parties believed their relationship to be.
+[22] With respect to the control factor, the evidence in this particular case was that the amount of control that the Appellant had over Wayne Scholz would have been less than the amount of control that the Royal Winnipeg Ballet had over the ballet dancers. In the Royal Winnipeg Ballet case, Justice Sharlow described the degree of control that the Royal Winnipeg Ballet had over the dancers as “extensive”. As noted by Justice Sharlow in the above decision:
+The RWB chooses what works will be performed, chooses the time and location of the performances, determines where and when rehearsals will be held, assigns the roles, provides the choreography, and directs each performance.
+[23] Wayne Scholz drove the Appellant’s truck to pick up boats[1]. He was retained by the Appellant to perform a certain task when the need arose. If Wayne Scholz was not available to drive the truck, the Appellant would contact another driver on its list. During the period from 2006 to 2009 the Appellant had a list of six to seven drivers that it could call upon to drive the truck. One of these other drivers was an employee of the Appellant.
+[24] In the case of Direct Care In-Home Health Services Inc. v. Minister of National Revenue, 2005 TCC 173, Justice Hershfield made the following comments in relation to control:
+11 Analysis of this factor involves a determination of who controls the work and how, when and where it is to be performed. If control over work once assigned is found to reside with the worker, then this factor points in the direction of a finding of independent contractor; if control over performance of the worker is found to reside with the employer, then it points towards a finding of an employer-employee relationship.* However, in times of increased specialization this test may be seen as less reliable, so more emphasis seems to be placed on whether the service engaged is simply “results” oriented; i.e. “here is a specific task -- you are engaged to do it”. In such case there is no relationship of subordination which is a fundamental requirement of an employee-employer relationship.* Further, monitoring the results, which every engagement of services may require, should not be confused with control or subordination of a worker.*
+12 In the case at bar, the Worker was free to decline an engagement for any reason, or indeed, for no reason at all. …
+(emphasis added)
+(* denotes a footnote reference that was in the original text but which has not been included.)
+[25] Wayne Scholz was engaged to perform a certain task – to drive the truck. He was free to decline an engagement for any reason. If he declined, the Appellant simply called another driver on the list. While Wayne Scholz indicated that he felt that he could not decline too often, this would be the same for anyone who was on a list for potential assignments. If any person would decline too often the person assigning the task could stop calling.
+[26] In ACE-J Transportation Inc. v. Canada (Minister of National Revenue), 2010 TCC 174 Justice Weisman held that five truck drivers were retained as independent contractors. He stated in part that:
+18 Of great importance in this case is that these same cases talk about the importance of a worker having a right to refuse assignments. The evidence in this case is quite clear that the five workers indeed had such a right, and that the controls mentioned above only came into effect once the driver accepted an assignment.
+[27] The ability to refuse an assignment is a significant factor in determining whether a person is an employee or an independent contractor. If an employee refuses an assignment, there is a possibility of disciplinary action or dismissal. If an independent contractor refuses an assignment, there is simply the possibility that the person requesting the assignment may look elsewhere the next time that such person requires the services offered by the independent contractor. This is part of the control test. An employer has control over an employee with respect to the assignment of work while a person retaining the services of an independent contractor does not have any control over the assignment of work to an independent contractor who may refuse an assignment with no consequences other than the risk of not being called the next time the person has work to be done. I find that in this case Wayne Scholz had the right to refuse any driving assignment that was offered to him. Since the only consequence of refusing an assignment would be that the Appellant may be less likely to call him the next time the Appellant needs a driver, this strongly indicates that Wayne Scholz was an independent contractor not an employee.
+[28] With respect to the ownership of equipment, the Respondent placed significant emphasis on the fact that the Appellant owned the truck that Wayne Scholz was retained to drive. In ACE-J Transportation Inc., referred to above, Justice Weisman made the following comments:
+22 This brings me back to the truck. The truck is of interest because I am not sure that it is a tool in these circumstances. This goes directly to a submission made by counsel for the Minister that surely a driver needs a truck to drive. I had not read a case that says this and I have yet to see one, but it seems to me that there is a difference between a business where the person's business is to drive trucks and a business where it is the person's business to do haulage which involves having a truck with which to do the hauling.
+23 I would think that for someone who is in the haulage business a truck is a necessary tool. I am not sure whether or not it is in a business where the person is solely a driver. I do know that some of the cases at the provincial level say that the truck is an essential tool.
+24 That brings me back to Precision Gutters. It does sound to me like this machine that made gutters and these gentlemen were found to be independent contractors, notwithstanding that the payer supplied that essential instrument just as the payer here was supplying and repairing a truck.
+[29] Therefore the fact that the Appellant owned the truck does not mean that Wayne Scholz could not be carrying on a business of driving the truck. In Royal Winnipeg Ballet the dancers bore many costs but the Royal Winnipeg Ballet was obliged to provide dance shoes, costumes, tights, wigs and certain other necessary items.
+[30] It is not clear whether Wayne Scholz would have been able to hire other workers to perform the tasks that he was to perform. It appears that the interest of the Appellant was simply that the boat (or boats) would be picked up and delivered to the Appellant and not necessarily that Wayne Scholz had to be the person who drove the truck. It was clear that Louise Scholz could also drive the truck as she would drive it from the Appellant’s premises to Wayne Scholz and return it when the trip was finished. She also accompanied him on trips to the United States to pick up boats. Since she could drive the truck, it seems more likely than not that she did drive for parts of long trips, notwithstanding the statements of Wayne Scholz to the contrary. In the Royal Winnipeg Ballet case, there was no discussion with respect to whether or not the dancers could hire any helpers but it would seem illogical to suggest that the dancers could hire any person to replace them in the production.
+[31] With respect to the degree of financial risk/opportunity for profit, Wayne Scholz, as were the other drivers who were retained as independent contractors, was paid a fixed amount based on the location to which he had to travel. There was a significant discrepancy between the testimony of Lorne Neyedly and Wayne Scholz also with respect to the question of who set the rates.
+[32] The following is an excerpt from the testimony of Lorne Neyedly provided during his testimony in chief:
+Wayne Scholz would set his fees and charge The Boat Finders accordingly and we agreed to pay the sums that he charged us.
+[33] The following is an excerpt from the testimony of Lorne Neyedly provided during his testimony on cross-examination:
+Q Okay. Now you said today that Mr. Scholz set his own rates?
+A Absolutely.
+Q Did you have all your drivers set their rates?
+A Yes.
+Q So just to understand, all the different drivers, they came to you –
+A Yes.
+Q -- and told you what they would charge, is that correct?
+A They would tell us what they would want for a trip back from Grand Forks or from Fargo, and we agreed or we didn't agree.
+Q So you didn't set any of the rates then?
+A No.
+Q Well, Mr. Neyedly, I put it to you that you did set the rates?
+A How?
+Q Is that not true?
+A Tell me how I set the rates.
+Q I'm asking you.
+A If you wanted to pick –
+Q I'm putting it to you.
+A If you wanted to pick up a boat from Fargo, you call me up and you said, I want to go pick up a boat. Give me a hundred and a half. That's how they set their rates.
+Q So you are saying you did not then?
+A H'mn, h'mn.
+[34] The following is an excerpt from the testimony of Wayne Scholz provided during his examination in chief:
+Q Okay. I would like to turn now to the issue of payment. When you first started, did you discuss how you would be paid?
+A He told me that he would give me $300 to go to Minneapolis. He told -- he give me the prices all upfront.
+Q Yes.
+A It was so much a trip.
+Q You said it was so much a trip?
+A So much a trip, yes.
+Q So like a set rate then?
+A A set rate.
+Q And what was the set rate based on?
+A On mileage, I guess, how he figured, how the distance was.
+Q Yes.
+A And then if I was hauling the pheasants then he always gave us more because it was more labour intensive to unload.
+Q But we're just talking about Boat Finders today though. Who came up with these figures?
+A Lorne did.
+Q Okay. Now, and you just told us these figures, they were based on distances, right?
+A Yes, I believe they are.
+[35] There is obviously an issue of credibility in this case. As I had noted earlier I accept the testimony of Lorne Neyedly in relation to the issue of whether there was a mutual intent that Wayne Scholz was to be retained as an independent contractor. I also accept the testimony of Lorne Neyedly in relation to the question of who set the rates. Therefore I find that the rates were set by Wayne Scholz. This would be consistent with an independent contractor relationship.
+[36] There was also another area in which the witnesses did not agree. The truck was used to pick up boats, generally, in the United States that were to be delivered to the Appellant and the truck was also used to deliver boats to the customers of the Appellant. While both Lorne Neyedly and Wayne Scholz did agree that the Appellant paid Wayne Scholz to drive the truck when boats were being picked up, they did not agree on who paid Wayne Scholz when he used the truck to deliver a boat to a customer.
+[37] Leon Schellenberg stated during his testimony that:
+Q Do you recognize these as invoices in The Boat Finders' sales journal?
+A Yes, I do. However in here, and all these invoices or most of these invoices here, as I mentioned before, Wayne Scholz' wife, Louise Scholz, was the bookkeeper for The Boat Finders and on all these invoices here she's put a little notation on the left‑hand side or in the middle of the thing which isn't in the total here, stating that the purchaser of the boat, in the first instance Bruce Larson, Calgary Alberta, should pay directly to the driver $650 for delivery. That's in invoice 8151.
+And if we go, skip a page, go to invoice number 7301, Kelvin Kozak, Edmonton, Alberta, again the wife of the driver, Louise Scholz, apparently when she prepared these things, she's the one that typed these things up, again put on the side, "Delivery $300.00 Paid directly to [the] driver".
+So these amounts here, and it goes on, there's 7302 another $300, 7303 another $600, 6105 $1,000, 7306 "$400 Paid directly to driver Wayne Scholz".
+So all these amounts worked through the books of Boat Finders. These were paid directly to Wayne Scholz and had really nothing to do with them. They didn't go -- they weren't in the total on the invoices. It was something that the bookkeeper, the spouse of Mr. Scholz, put on the, sort of as a notation on these invoices. So he was being paid directly by the purchaser of the boat and –
+…
+THE WITNESS: They were not, they were not through the books. They were not through the books.
+[38] The following is an excerpt from the testimony of Lorne Neyedly provided during his testimony in chief:
+…The Evidence document number 3, all of those boats and sleds were sold to various clients out west. We would -- once we sold them, we were fully paid for them. They would have to get insurance on them before they could be transported, and Wayne and Louise Scholz offered to deliver the clients, to deliver to their now clients these sleds and boats and they were to be paid cash at the other end.
+The amounts on the invoice, as testimony by Carla Scholz, [sic] was actually in our computer located underneath the invoice. And I've brought it up on top of the invoice to show, we had to reconcile for Leon the amount of monies that Wayne Scholz received as cash, not through our books.
+MR. JUSTICE: So if I take a look at the very first one –
+THE WITNESS: Yes.
+MR. JUSTICE: -- this says sold to Bruce Larson.
+THE WITNESS: Yes.
+MR. JUSTICE: And there is a note. "Delivery to Regina $650.00 Pay driver direct"?
+THE WITNESS: Yes. That's not on the original invoice. That's below the invoice in the computer.
+MR. JUSTICE: But it is on the invoice I am looking at.
+THE WITNESS: Because I put it there for –
+MR. JUSTICE: You added that?
+THE WITNESS: I had to, I had to bring it up to show what was going on.
+MR. JUSTICE: Okay. So when I see, all the ones that say delivery to wherever, you are the one who typed those?
+THE WITNESS: Yes, they weren't on the original invoice, but they are in the computer underneath the invoices. We have testimony to substantiate that.
+MR. JUSTICE: So how do you know that $650 was paid to him?
+THE WITNESS: The only thing I did is I copied on the back of Bruce Larson's an email to Louise. The actual amounts, the only way I know these amounts is they were underneath the invoices in the computer.
+She would negotiate -- how it unfolds is I'm the seller. I would sell a boat, I would sell a sled, and we sell a fair piece of equipment, number of equipment out west, up in through Regina and up to Edmonton, Calgary and on up to Fort McMurray. All the sleds that Wayne and Louise took out to Alberta, they combined a load, I think they got about four sleds minimum, if not five sleds, and they would make arrangements with these clients and the sleds, they were getting $400 apiece. And then they would go out there.
+And I had no responsibility for what they were charging these clients. Louise would do this on behalf of her and Wayne in our office, actually in our office.
+And then they would get the load loaded up and then they would take the trip on the weekend or they'd leave on a Friday, and then they would head out and delivery these units and they'd be paid by the clients, which I consider to be their clients, and they either got paid cash or they got paid cheques. I don't know. That money never came back to our books. That's why this came up with Leon Schellenberg.
+And then from there, when they took the trips to Alberta, they'd go on and visit their son up in the Fort McMurray region, and we allowed them to use our truck and trailer, I guess just because we were nice guys and trying to help them make an extra buck.
+[39] Carla Provencal stated during her testimony as follows:
+Q Yes, okay, I'll just reword it. Are you aware that Wayne Scholz delivered boats and sleds out west?
+A Yes, he did, quite often.
+Q Are you aware of how he was paid?
+A He was paid independently by the customer that was receiving the boat. At one point in time when I was training, the invoices for the customers from The Boat Finders are computer generated from an Excel spreadsheet and Louise would track who was getting deliveries by putting the delivery fee on the bottom of the invoice, but it was outside the printable area because it wasn't a fee to The Boat Finders. It was paid independently to Wayne.
+And one time when there was training, I accidentally printed out the entire page with the $500 fee, that particular one was a $500 fee, for delivery and I was told by Louise, my supervisor, that that wasn't the correct invoice, not to print that, that it was for informational purposes only, and that the fee was an independent fee going to Wayne as a contract driver and that he would collect it when he got there separately. So it wasn't actually part of The Boat Finders' invoice.
+[40] Wayne Scholz stated during his examination in chief that:
+Q Were you ever paid directly by the customers?
+A No.
+[41] During cross-examination Wayne Scholz stated that:
+Q Okay. Delivering the units out west, [sic] whom paid you for the delivery of those units out west?
+A Well, didn't you?
+Q I'm asking you.
+MR. JUSTICE: He is asking you now.
+THE WITNESS: Okay. The Boat Finders.
+BY MR. NEYEDLY:
+Q So the Boat Finders paid you to deliver these units out west?
+A Yes, you did.
+[42] It seems clear to me that the customers who purchased boats from the Appellant were responsible for paying for the delivery of the boats to them. The only issue is whether the customers paid the Appellant, who in turn paid Wayne Scholz, or the customers paid Wayne Scholz directly. If, as suggested by Wayne Scholz, the Appellant paid Wayne Scholz to deliver boats to its customers, (which would mean that the customer paid the Appellant for delivery), why was this not reflected on the invoice that Louise Scholz (Wayne Scholz’s wife) prepared for the sale of the boat to the customer? If the customer had paid the Appellant to deliver the boat, then GST would have been charged on the delivery fee. It seems obvious that Louise Scholz did not include GST on the delivery fee as the delivery fee itself was not included in the invoice that she prepared.[2]
+[43] I do not accept the testimony of Wayne Scholz and I do accept the testimony of the other witnesses and I find that the customers of the Appellant retained Wayne Scholz to deliver their boats to them and that they paid Wayne Scholz directly for the delivery of the boats that they had purchased from the Appellant. The amount charged for delivering the boat to the customer (based on the amounts added by Lorne Neyedly to the invoices) ranged from $300 to $1,000. The Appellant had an interest in ensuring that its customers received the boats that they had purchased and it does not seem unreasonable that the Appellant would have allowed Wayne Scholz to use its truck for this purpose. Therefore Wayne Scholz did have an opportunity for profit as he set the fees that he would charge the Appellant to pick-up boats and he set the fee that the customers of the Appellant would pay him to deliver the boats to them. Wayne Scholz’s fee and billing arrangements are more consistent with an independent contractor relationship than they are with an employer / employee relationship.
+[44] In the Royal Winnipeg Ballet case, the dancers, as acknowledged by the Federal Court of Appeal, had little financial risk. With respect to the opportunity for profit, the dancers with the Royal Winnipeg Ballet could negotiate for additional remuneration, although most were paid in accordance with a predetermined scale. In Royal Winnipeg Ballet the dancers were allowed to accept outside engagements provided that they had the consent of the Royal Winnipeg Ballet and provided that they held themselves out as being engaged by the Royal Winnipeg Ballet. In this case, there were no such restrictions imposed on Wayne Scholz in accepting outside engagements.
+[45] In the Royal Winnipeg Ballet case, the dancers did not have any management or investment responsibilities with respect to their work with the Royal Winnipeg Ballet. In this case Wayne Scholz did not have any management or investment responsibilities.
+[46] There is another issue in this case. Leon Schellenberg, a chartered accountant testified. He stated that he had reviewed the accounting records of the Appellant and had found significant discrepancies between the amounts of several cheques that had been prepared by Louise Scholz for Wayne Scholz and the amounts of the invoices related to such cheques. There were also a number of cheques for which no supporting documentation could be found. In this appeal the only issue is whether Wayne Scholz was an employee or an independent contractor. Whether Wayne Scholz has received more than he was entitled to receive from the Appellant is a matter that will need to be (and should be) resolved in another hearing by a court with the jurisdiction to resolve this matter.
+[47] As a result, I find that the relevant facts related to the engagement of Wayne Scholz by the Appellant as determined by the factors as set out in Wiebe Door and Sagaz do not suggest more strongly an employer/employee relationship than did the facts in Royal Winnipeg Ballet and in this case the relevant facts related to the engagement of Wayne Scholz by the Appellant more strongly indicate an independent contractor relationship than they do an employer/employee relationship. As a result Wayne Scholz was an independent contractor and not an employee of the Appellant during the period under appeal.
+[48] The Appeals by the Appellant from the assessments under the Employment Insurance Act for employment insurance premiums in respect of Wayne Scholz for 2006, 2007, 2008 and 2009 are allowed, without costs, and these assessments are vacated.
+[49] The Appeals by the Appellant from the assessments under the Canada Pension Plan for Canada Pension Plan contributions in respect of Wayne Scholz for 2006, 2007, 2008 and 2009 are allowed, without costs, and these assessments are vacated.
+Signed at Ottawa, Canada, this 29th day of April 2011.
+“Wyman W. Webb”
+Webb, J.
+CITATION: 2011TCC229
+COURT FILE NOS.: 2010-3001(EI); 2010-3003(CPP)
+STYLE OF CAUSE: 5256951 MANITOBA LTD. AND
+THE MINISTER OF NATIONAL REVENUE
+PLACE OF HEARING: Winnipeg, Manitoba
+DATE OF HEARING: February 11, 2011 and April 12, 2011
+REASONS FOR JUDGMENT BY: The Honourable Justice Wyman W. Webb
+DATE OF JUDGMENT: April 29, 2011
+APPEARANCES:
+Agent for the Appellant:
+Lorne Neyedly
+Counsel for the Respondent:
+Tom Gagnon
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] He also delivered boats to customers, although, as noted below, he was retained by the customers to do so.
+[2] In the invoice related to the sale of a boat to Bruce Larson, there is an unidentified amount charged of $127.50. However since it is clear from the testimony of Lorne Neyedly that the delivery charge was not included in the invoice that Louise Scholz had prepared, this $127.50 charge would not have been for GST in relation to the delivery fee that was not disclosed on the invoice. The other invoices that were included clearly indicate that GST was only charged in relation to the sale of the boat (and related equipment) and not in relation to the delivery charge.

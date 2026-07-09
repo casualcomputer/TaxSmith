@@ -1,0 +1,178 @@
+---
+title: "Kaur v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/31242/index.do"
+last_modified: "2013-07-11"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2013 TCC 227"
+citation2: ""
+neutral_citation: "2013 TCC 227"
+decision_date: "2013-07-11"
+language: "en"
+item_id: "31242"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5146
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T09:00:09.806000+00:00"
+cases_cited_count: 5
+cases_citing_count: 6
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "78fca7621931494069a0a4e4e265979b8fe53105a6cc7adc62de5937ebbf41d7"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Kaur v. The Queen
+
+- Citation: 2013 TCC 227
+- Decision date: 2013-07-11
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5146, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Kaur v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2013-07-11
+Neutral citation
+2013 TCC 227
+File numbers
+2011-1130(GST)G
+Judges and Taxing Officers
+Robert James Hogan
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2011-1130(GST)G
+BETWEEN:
+SATPAL KAUR,
+appellant,
+and
+HER MAJESTY THE QUEEN,
+respondent.
+____________________________________________________________________
+Appeal heard on May 15, 2013, at Vancouver, British Columbia.
+Before: The Honourable Justice Robert J. Hogan
+Appearances:
+For the appellant:
+The appellant herself
+Counsel for the respondent:
+Selena Sit
+Kristian DeJong
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under section 323 of the Excise Tax Act, the notice of which is dated December 24, 2009 and bears number 831358, is dismissed, without costs, in accordance with the attached reasons for judgment.
+Signed at Magog, Québec, this 12th day of July 2013.
+“Robert J. Hogan”
+Hogan J.
+Citation: 2013 TCC 227
+Date: 20130712
+Docket: 2011-1130(GST)G
+BETWEEN:
+SATPAL KAUR,
+appellant,
+and
+HER MAJESTY THE QUEEN,
+respondent.
+REASONS FOR JUDGMENT
+Hogan J.
+I. Context
+[1] Section 323 of the Excise Tax Act (the “ETA”) provides that a director may be found liable for a corporation’s failure to remit goods and services tax (“GST”) unless the director can show that he or she exercised due diligence to prevent the failure. The appellant, Satpal Kaur, is appealing a director’s liability assessment issued against her on December 24, 2009 for a corporation’s unremitted GST, plus related interest and penalties, for a total of $455,169.64.
+II. Factual Background
+[2] The appellant is the sole director of 644346 BC Ltd. (the “Corporation”). The Corporation was in the business of building and selling residential properties in British Columbia.
+[3] As a GST registrant, the Corporation was responsible for collecting GST on all taxable supplies. The GST in question here consisted of GST collected on the sale of new homes by the Corporation. Like all GST registrants, the Corporation was able to claim input tax credits for GST paid or payable on goods and services acquired for use, consumption or supply in its commercial activities.
+[4] The Corporation was assessed for net GST payable in the amount of $357,691.66 covering the GST reporting periods ended December 31, 2004, March 31, 2006, September 30, 2006 and December 31, 2006.
+[5] The appellant testified that she was a residential real estate agent in Quebec in the mid-1980’s. She met Mr. Familamiri in Montreal in 1989. Mr. Familamiri, who has an engineering degree, was active in residential construction in Quebec until he moved to Vancouver in 1995.
+[6] Until she also moved to Vancouver in 1995, the appellant worked as a real estate agent for a Century 21 real estate brokerage office, owned and operated by Mr. Familamiri. The appellant arranged construction financing for a few small real estate projects undertaken by Mr. Familamiri in Quebec. She testified that Mr. Familamiri had a bad credit record and could not obtain construction financing on his own. These projects came in on budget and the bank financing was repaid. The appellant earned sales commission from the sales of those properties.
+[7] The appellant undertook two real estate projects with Mr. Familamiri in British Columbia beginning in 2002.
+[8] The first project involved the construction of six townhouses, on a vacant lot, purchased by the Corporation in East Vancouver (the “Triumph Project”). Two of the townhouses were sold after completion of the project in 2004. The Corporation was unable to sell the four remaining townhouses and they were transferred to the appellant in 2006. The appellant rented out the four townhouses to generate cash flow to fund the carrying costs of the properties.
+[9] In December of 2004, the Corporation commenced the construction of a 26‑unit townhouse project on vacant land that it owned in Port Coquitam, British Columbia (the “Grant Project”). The construction budget for the Grant Project was established at $4,976,504. The appellant arranged for the construction financing for the Corporation. She also guaranteed the construction loan. To reduce the risk of default, the appellant arranged for the sale of more than half of the units prior to the commencement of construction.
+[10] The appellant in her amended notice of appeal describe as follows the circumstances surrounding the Corporation’s failure to remit the GST collected on the sale of the properties it constructed:
+Mr. Familamiri started several projects in Vancouver and needed assistance with financing. I signed for several mortgages over the years and he did everything else on those projects. I helped with finances because of our friendship, but I left those projects to him. He had experience in property development and construction. I had no experience. I focused on my real estate career, taking care of my mother and young son, and providing for my family as the sole provider.
+The two projects that are the subject of this appeal, the Grant and the Triumph, were started in Year 2002 and 2003. I signed the purchase agreements and Mr. Familamiri was to develop townhouses on the properties. We created 644346 BC Ltd. to oversee the projects. I was the sole shareholder and director of 644346 BC Ltd. Mr. Familamiri P.Eng M.Eng was the General Manager.
+I was not aware of any issues with the projects until late 2005/2006. Mr. Familamiri informed me that the project had a lot of labour and cash flow problems, most serious being the framer quit in the middle of the project. He usually did not inform me of project issues. He kept all operational and project financial matters to himself. I agreed to that because of my lack of expertise, knowledge and experience with both financial and administrative in construction industry.
+Apparently there was a high demand for skilled labour in 2005/2006 and it created a labour shortage. The Treasury Board of Canada Secretariat stated in its publication “DPR 2005-2006 Western Economic Diversification”:
+British Columbia
+The construction sector represented 35 per cent of provincial employment
+gains last year; however, like the mining and retail sectors, the sector is
+facing a shortage in skilled labour that could soon prove a drag on overall
+economic performance.
+Mr. Familamiri found it very difficult to find contractors to replace and correct the deficiencies. In the end, due to severe shortage of trades, Mr. Familamiri had no choice but to hire regular labour and carpenters to finish the work on an hourly basis. Expenses due to the abandonment of the contractors increased the cost of the projects by approximately $456,790.
+During this time the projects were also unexpectedly faced with significant cost increases in almost every trade, material and labour in the industry. As a result of the above series of events, by the time the units were completed, the costs of the projects had increased by $2,386,019. Not only did this give me zero profit, but most of the units were pre-sold. The customers were pressuring us to complete the units.
+In order to finance the shortfall, Mr. Familamiri and I used all our personal resources, such as borrowing additional monies from the banks, borrowing from friends and relatives, increasing clients’ deposits and taking direct deposits to the company, and refinancing our own homes and properties to be able to complete the projects. We managed to gather an additional $1,085,158, which was less than half the amount needed to deliver the homes. The builder, 494743 B.C. Ltd. took over the Triumph project properties because 644346 B.C. Ltd. could no longer support the costs. If the builder had not stepped-in, the mortgage would have foreclosed on the properties. The Triumph properties were rented-out to raise funds.
+We were faced with a major dilemma in which we had to make the right decision. We utilized all our resources and did everything in our power to raise funds. I personally contributed an additional $800,000 to the projects. I cannot stress enough how much hardship, stress and suffering we went through by salvaging what we could to deliver the projects. Our contract with the general contractor, 494743 B.C. Ltd. remains unfulfilled and our account remains outstanding by $261,925.69 due to lack of funds.
+GST Remittance Issues
+The first time I became aware of a problem with GST remittances was in late Year 2007. I was called by CRA and told that GST had not been remitted completely in 2005 and 2006. I was surprised. My role on the projects was to gather financing and sell the properties. I had left all operational matters to Mr. Familamiri because of his extensive experience. I thought there must have been some mistake. I told CRA to speak to the company accountant. CRA followed-up some time later with a letter that confirmed the issue. At that point I realized that it may not be a mistake and approached Mr. Familamiri.
+Mr. Familamiri indicated that he had had a choice: either complete the project and pay the pending bills and address the builders liens or abandon the project. He had chosen to complete the project because of clients deposits they had paid directly to the company. Had he known then about the heavy financial losses, he would have abandoned the project which would have triggered financial losses for clients, suppliers, labour, banks and obviously CRA. There was very little I could do in 2008 to address the shortfall retroactively. The project staff was ordered to balance the GST account, and each time this was not possible due to cash flow shortage. The cheques would go NSF if they were sent to the CRA. 644346 BC Ltd. had no more funds. I was not able to raise any more funds as I had exhausted all sources of funding to address the labour shortage and cost increases.
+[11] The appellant and Mr. Familamiri offered a similar explanation at trial.
+III. Issue
+[12] Is the appellant liable for the Corporation’s unremitted GST or did she satisfy the requirements of the due diligence defence under subsection 323(3) of the ETA?
+IV. Analysis
+[13] Subsection 323(1) of the ETA outlines the liability of directors where a corporation fails to remit net tax owed:
+Liability of directors
+323. (1) If a corporation fails to remit an amount of net tax as required under subsection 228(2) or (2.3) or to pay an amount as required under section 230.1 that was paid to, or was applied to the liability of, the corporation as a net tax refund, the directors of the corporation at the time the corporation was required to remit or pay, as the case may be, the amount are jointly and severally, or solidarily, liable, together with the corporation, to pay the amount and any interest on, or penalties relating to, the amount.
+[14] The appellant invokes the due diligence defence that is available under subsection 323(3) of the ETA to a director who has been assessed on the basis of liability for a corporation’s unremitted tax. Subsection 323(3) states the following:
+Diligence
+323. (3) A director of a corporation is not liable for a failure under subsection (1) where the director exercised the degree of care, diligence and skill to prevent the failure that a reasonably prudent person would have exercised in comparable circumstances.
+[15] The appellant believes that she should escape liability under section 323 because she delegated all GST oversight to Mr. Familamiri, whom she had reason to trust. The appellant argues that she should not be held accountable for the Corporation’s failure to remit GST because the decision to use the collected GST for another purpose was made by Mr. Familamiri, who acted without her knowledge. She maintains that when the CRA informed her of the Corporation’s failure the Corporation was insolvent and had no assets that could be used to cure the deficiency.
+[16] Unfortunately, the appellant’s due diligence defence fails for the reasons enumerated by the Federal Court of Appeal in Buckingham v. Canada.[1] In that case Mainville J.A. noted:
+37 . . . I conclude that the standard of care, skill and diligence required under subsection 227.1(3) of the Income Tax Act and subsection 323(3) of the Excise Tax Act is an objective standard . . . .
+38 . . . Consequently, a person who is appointed as a director must carry out the duties of that function on an active basis and will not be allowed to defend a claim for malfeasance in the discharge of his or her duties by relying on his or her own inaction . . . .
+39 An objective standard does not however entail that the particular circumstances of a director are to be ignored. These circumstances must be taken into account, but must be considered against an objective “reasonably prudent person” standard. . . .
+[Emphasis added.]
+[17] In Buckingham,[2] the Federal Court of Appeal compared the aforementioned provisions with paragraph 122(1)(b) of the Canada Business Corporations Act, which requires directors and officers to “exercise the care, diligence and skill that a reasonably prudent person would exercise in comparable circumstances.” Mainville J.A. wrote:
+40 The focus of the inquiry under subsections 227.1(3) of the Income Tax Act and 323(3) of the Excise Tax Act will however be different than that under paragraph122(1)(b) of the CBCA, since the former require that the director’s duty of care, diligence and skill be exercised to prevent failures to remit. In order to rely on these defences, a director must thus establish that he turned his attention to the required remittances and that he exercised his duty of care, diligence and skill with a view to preventing a failure by the corporation to remit the concerned amounts.
+[Emphasis added.]
+[18] To establish a due diligence defence, the director must show that he or she took positive action to prevent the corporation’s failure to remit the amounts in question. The director’s oversight duties with respect to the GST cannot be delegated in their entirety to a subordinate, as was done in the present case.
+[19] At trial, the appellant admitted that she was aware of the Corporation’s financial difficulties by the end of December 2005, when Mr. Familamiri advised her that a subcontractor had abandoned work on the Grant project to take more lucrative work elsewhere. She also knew at that time that she would have difficulty repaying the construction loan for the Triumph project because four out of the six townhouses remained unsold. In these circumstances, the appellant was required to take proactive steps to ensure that the Corporation would meet its GST collection and remittance obligations.
+[20] The appellant also asserts that, had she been made aware of the Corporation’s financial shortfall on the sales of the townhouses, she could have walked away. If she had done so, she would not have been liable for the Corporation’s failure to remit GST. In my opinion, this argument is without merit. The appellant admitted that she personally guaranteed the Corporation’s construction liens. If the appellant had abandoned the Grant project, the bank likely would have used its security interest to complete the sales. The GST would have been remitted. The bank would have used part of the proceeds of sale to discharge the construction liens. In that case, the appellant would have owed the bank an amount equal to or greater that the GST amount used by the Corporation to discharge the construction loans. The appellant would not have been, as she contends, in a better position had she abandoned the project. She would have been indebted to the bank rather than the government. The CRA would have received the GST collected in trust from the purchasers. In summary, the actions taken by the Corporation benefited only the appellant by allowing the bank financing to be repaid, thus freeing the appellant from her personal guarantee.
+[21] The appellant submitted during her oral argument four cases for my review.[3] Each of these cases was decided prior to Buckingham[4] and relied on the Federal Court of Appeal’s decision in Soper v. Canada[5]. In Buckingham,[6] the Federal Court of Appeal confirmed that an objective standard must be applied in considering a director’s due diligence defence under subsection 323(3) of the ETA. That decision set aside the objective-subjective standard enunciated in the earlier decision in Soper.[7]
+[22] Applying the objective standard enunciated in Buckingham,[8] I conclude that the appellant did not, after learning of the Corporations’ financial difficulty in late 2005 or early 2006, exercise the care, diligence and skill a reasonably prudent person would have exercised to prevent the Corporation’s failure to remit the GST collected from its clients.
+[23] For all of these reasons, the appeal is dismissed.
+Signed at Magog, Québec, this 12th day of July 2013.
+“Robert J. Hogan”
+Hogan J.
+CITATION: 2013 TCC 227
+COURT FILE NO.: 2011-1130(GST)G
+STYLE OF CAUSE: SATPAL KAUR AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Vancouver, British Columbia
+DATE OF HEARING: May 15, 2013
+REASONS FOR JUDGMENT BY: The Honourable Justice Robert J. Hogan
+DATE OF JUDGMENT: July 12, 2013
+APPEARANCES:
+For the appellant:
+The appellant himself
+Counsel for the respondent:
+Selena Sit,
+Kristian DeJong
+COUNSEL OF RECORD:
+For the appellant:
+Name:
+Firm:
+For the respondent: William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] 2011 FCA 142.
+[2] Supra, note 1.
+[3] Thomas v. The Queen, 2011 TCC 421; Arsic v. The Queen, 2010 TCC 423; Verret v.The Queen, 2008 TCC 240; Head v. The Queen, 2007 TCC 227.
+[4] Supra note 1.
+[5] 1997 F.C.J. No. 881 (QL).
+[6] Supra, note 1.
+[7] Ibid.
+[8] Ibid.

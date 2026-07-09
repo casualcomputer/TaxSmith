@@ -1,0 +1,100 @@
+Title: Hardtke c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29215/index.do
+Corpus path: corpus/cases/tcc/2009/2009-cci-240-29215-hardtke-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2009-03-30
+
+# Hardtke c. La Reine
+
+- Citation: 2009 CCI 240
+- Decision date: 2009-03-30
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6864, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Hardtke c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2009-03-30
+Référence neutre
+2009 CCI 240
+Numéro de dossier
+2004-367(IT)G
+Juges et Officiers taxateurs
+Georgette Anne Sheridan
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2004-367(IT)G
+ENTRE :
+DIETER HARDTKE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Devant : L’honorable juge G. A. Sheridan
+Avocat de l’appelant :
+Me Jason Dutrizac
+Avocat de l’intimée :
+Me Daniel Bourgeois
+____________________________________________________________________
+ORDONNANCE
+Vu que l’audience du 30 mars 2009 portant sur la requête de l’appelant a été ajournée sine die, requête par laquelle l’appelant demandait à la Cour de lui donner l’autorisation de soumettre à son examen un ensemble de questions relatives au document que l’intimée a déposé, dont il est question dans les observations sous l’appellation [traduction] « document de travail » et qui est joint au dossier de la requête de l’appelant sous l’onglet « B »;
+Vu que l’appelant a déposé ses questions;
+Vu que l’intimée, à la demande de la Cour, a expliqué quelle était sa position relativement à ces questions;
+Et vu les documents produits par les parties, la requête de l’appelant demandant à la Cour de donner des directives par voie d’ordonnance au sujet de la reprise de l’interrogatoire préalable du représentant de l’intimée ou de limiter la portée de cet interrogatoire est rejetée, et les dépens suivront l’issue de la cause, conformément aux motifs de l’ordonnance ci‑joints.
+Signé à Ottawa, Canada, ce 4e jour de mai 2009.
+« G. A. Sheridan »
+Juge Sheridan
+Traduction certifiée conforme
+ce 19e jour d’août 2009.
+François Brunet, réviseur
+Référence : 2009 CCI 240
+Date : 20090504
+Dossier : 2004-367(IT)G
+ENTRE :
+DIETER HARDTKE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE
+La juge Sheridan
+[1] L’appelant a déposé une requête demandant à la Cour de donner des directives par voie d’ordonnance au sujet de la reprise de l’interrogatoire préalable du représentant de l’intimée ou de limiter la portée dudit interrogatoire. J’ai ajourné l’audition de la requête du 30 mars 2009 afin de permettre à l’avocat de l’appelant de soumettre à la Cour les questions qu’il souhaitait poser avant que je ne rende ma décision.
+[2] Ayant depuis eu l’occasion de me pencher sur les observations formulées par l’avocat de l’appelant lors de l’audition de la requête du 30 mars 2009, à la lumière des questions qu’il a soumises et des arguments de l’intimée qui s'y oppose, je ne suis pas convaincue que ces questions soient de quelque manière justifiées.
+[3] Je retiens les observations formulées par l’avocat de l’intimée; les questions 1 à 5 portent sur la conduite des fonctionnaires de l’Agence du revenu du Canada (l’« ARC »), et qu’en tant que telles, elles ne sont pas pertinentes quant à la question faisant l’objet du présent appel, à savoir l’exactitude de la cotisation qui a été établie à l’égard de l’appelant. La juge Lamarre a déjà tranché cette question par voie d’ordonnance le 21 avril 2005.
+[4] En ce qui a trait aux autres questions, l’audition du 30 mars 2009 a été ajournée en fonction du fait que l’appelant ne souhaitait pas la reprise de l’interrogatoire préalable en général, et que toute question additionnelle porterait sur le document produit par l’intimée, dont il a été question à l’audience sous l’appellation [traduction] « document de travail », lequel document est joint au dossier de la requête de l’appelant sous l’onglet « B ». Malgré cette réserve, les éléments abordés dans les questions 6 à 22 concernent tous les fondements adoptés par le ministre pour établir la cotisation elle-même. Je conviens avec l’intimée que ces questions dépassent la requête de l’appelant. Ayant choisi de mettre fin à l’interrogatoire préalable du représentant de l’intimée, l’appelant ne peut maintenant contraindre la partie adverse à répondre à des questions qui dépassent le cadre de sa requête.
+[5] La requête de l’appelant est rejetée; les dépens suivront l’issue de la cause.
+Signé à Ottawa, Canada, ce 4e jour de mai 2009.
+« G. A. Sheridan »
+Juge Sheridan
+Traduction certifiée conforme
+ce 19e jour d’août 2009.
+François Brunet, réviseur
+RÉFÉRENCE : 2009 CCI 240
+NO DU DOSSIER DE LA COUR : 2004-367(IT)G
+INTITULÉ : Dieter Hardtke et Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Ottawa, Canada
+DATE DE L’AUDIENCE : Le 30 mars 2009
+MOTIFS DE L’ORDONNANCE : L’honorable juge G. A. Sheridan
+DATE DE L’ORDONNANCE : Le 4 mai 2009
+COMPARUTIONS :
+Avocat de l’appelant :
+Me Jason Dutrizac
+Avocat de l’intimée :
+Me Daniel Bourgeois
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom : Jason Dutrizac
+Cabinet : Gibsons LLP Ottawa, Canada
+Pour l’intimée : John H. Sims, c.r.
+Sous‑procureur général du Canada
+Ottawa, Canada

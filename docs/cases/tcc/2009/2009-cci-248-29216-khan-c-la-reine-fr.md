@@ -1,0 +1,150 @@
+---
+title: "Khan c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29216/index.do"
+last_modified: "2009-04-15"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 CCI 248"
+citation2: ""
+neutral_citation: "2009 CCI 248"
+decision_date: "2009-04-15"
+language: "fr"
+item_id: "29216"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7017
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T11:58:55.714000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "573eb41008535dadb11116b039b15be438e5a8577b1093ffb648d708ef527d1c"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Khan c. La Reine
+
+- Citation: 2009 CCI 248
+- Decision date: 2009-04-15
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7017, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Khan c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2009-04-15
+Référence neutre
+2009 CCI 248
+Numéro de dossier
+2008-2680(IT)I
+Juges et Officiers taxateurs
+Patrick J. Boyle
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2008-2680(IT)I
+ENTRE :
+AHMAD A. KHAN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle]
+____________________________________________________________________
+Requête entendue le 15 avril 2009, à Toronto (Ontario).
+Devant : L’honorable juge Patrick Boyle
+Comparutions :
+Pour l’appelant :
+L’appelant lui‑même
+Avocate de l’intimée :
+Me Samantha Hurst
+____________________________________________________________________
+ORDONNANCE
+Vu la requête présentée par l’avocate de l’intimée pour obtenir une ordonnance d’annulation de l’appel;
+Et vu les observations orales présentées par les parties;
+La requête de l’intimée est rejetée.
+La Cour ordonne que :
+L’appelant dépose un avis d’appel modifié dans les 45 jours suivant la date de la présente ordonnance, sans quoi l’appel sera rejeté.
+La Couronne dépose une réponse à l’avis d’appel modifié dans les 60 jours du dépôt de celui‑ci.
+Signé à Halifax (Nouvelle‑Écosse), ce 5e jour de mai 2009.
+« Patrick Boyle »
+Juge Boyle
+Traduction certifiée conforme
+ce 14e jour de septembre 2009.
+Jean-François Leclerc-Sirois, LL.B, M.A.Trad.Jur.
+Référence : 2009 CCI 248
+Date : 20090505
+Dossier : 2008-2680(IT)I
+ENTRE :
+AHMAD A. KHAN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle]
+MOTIFS DE L’ORDONNANCE
+(Rendus oralement à l’audience le 15 avril 2009, à Toronto (Ontario),
+puis modifiés par souci de clarté et d’exactitude.)
+Le juge Boyle
+[1] La Couronne a présenté une requête d’annulation de l’appel du contribuable, appel qui est instruit sous le régime de la procédure informelle et qui a été interjeté au moyen d’un avis d’appel déposé à la Cour après l’expiration du délai maximal d’un an et 90 jours, calculé à compter de la date où les nouvelles cotisations établies après l’étape de l’opposition ont été postées à l’appelant.
+[2] Vu les faits en cause, la seule question en litige est de savoir si le ministre du Revenu national (le « ministre ») a effectivement posté les nouvelles cotisations au contribuable au moment où il les a postées à une adresse dont le nom de la rue était peut‑être erroné.
+[3] La confusion quant au nom de la rue pourrait découler du fait que le contribuable ou son spécialiste en déclarations fiscales aurait inscrit le nom d’une rue de Brampton sur sa déclaration T1, plutôt que le nom d’une rue de Mississauga portant un nom semblable. À mon avis, l’incertitude ne peut pas être résolue aujourd’hui, car l’Agence du revenu du Canada (l’« ARC ») n’a pas trouvé le dossier de l’appel pour l’étape de l’opposition. Je ne sais pas quelle adresse le contribuable a indiquée sur son avis d’appel, et je ne sais pas à quelle adresse les nouvelles cotisations en cause ont été postées, car on ne m’a présenté aucune copie de ces documents.
+[4] Le paragraphe 169(1) de la Loi de l’impôt sur le revenu (la « Loi ») empêche le contribuable d’interjeter appel devant la Cour après l’expiration des 90 jours qui suivent la date où un avis de nouvelle cotisation lui est posté. D’autres dispositions de la Loi permettent de prolonger ce délai d’une année dans certaines circonstances. Si les nouvelles cotisations établies pour 2006 après l’étape de l’opposition ont été postées à l’appelant, le délai que ce dernier avait pour interjeter appel avait expiré bien avant que l’appelant ait déposé son avis d’appel auprès de la Cour. La question est donc de savoir si les nouvelles cotisations pour 2006 ont bel et bien été postées à l’appelant.
+[5] Compte tenu des dispositions de la Loi et de la preuve qui m’a été présentée à l’égard de la requête, je suis convaincu que les nouvelles cotisations en cause ont été postées le 16 mars 2006. Cependant, on ne m’a pas convaincu que les nouvelles cotisations ont été postées à l’appelant. Si les nouvelles cotisations n’ont pas été postées à l’appelant le 16 mars 2006, le délai qu’avait ce dernier pour déposer un avis d’appel auprès de la Cour n’était pas encore expiré lorsqu’il a déposé son avis d’appel.
+[6] En règle générale, la Cour préfère que les litiges des contribuables soient entendus et tranchés sur le fond. Évidemment, cela est impossible si la Cour n’a pas compétence parce qu’aucun appel n’a été dûment interjeté. Cependant, lorsqu’il est question d’une requête d’annulation d’un appel, c’est le ministre qui a le fardeau d’établir que le délai de présentation d’un appel devant la Cour avait expiré avant que le contribuable ait interjeté son appel.
+[7] Pour établir que le délai de présentation d’un avis d’appel était expiré, la Couronne doit d’abord démontrer que ce délai avait commencé à courir. C’est essentiellement la conclusion à laquelle la Cour d’appel fédérale s’est rendue en 1995 dans Aztec Industries Inc. v. The Queen, 95 DTC 5235. En l’espèce, c’est cela que l’intimée n’a pas réussi à prouver. L’absence du dossier de l’appel, des nouvelles cotisations pour 2006 et des documents relatifs à l’opposition fait que la preuve n’est pas suffisante pour me convaincre que les nouvelles cotisations pour 2006 ont été postées à l’appelant.
+[8] Ma décision de ne pas annuler l’appel est aussi fondée sur le fait que le dossier ouvert par le greffe de la Cour pour l’appel en cause a trait à l’impôt sur le revenu. L’avis d’appel du contribuable indique clairement que l’appel porte à la fois sur des cotisations d’impôt sur le revenu et sur des cotisations de taxe sur les produits et services (la « TPS »). Je ne sais pas si un dossier distinct a été ouvert pour l’appel relatif à la TPS.
+[9] Compte tenu des circonstances, je n’accueillerai pas la requête de la Couronne. Par contre, j’ordonnerai à M. Khan de modifier son avis d’appel, dans les 45 jours, à deux égards.
+[10] Premièrement, dans son avis d’appel modifié, le contribuable devra présenter des faits et des renseignements suffisants pour permettre à la Cour de comprendre la nature de son différend avec l’ARC.
+[11] Deuxièmement, dans son avis d’appel modifié, le contribuable devra clarifier les passages où il fait référence à la TPS et sa position à cet égard pour permettre à la Cour de décider s’il est nécessaire d’ouvrir un dossier d’appel relatif à la TPS.
+[12] Si M. Khan ne modifie pas son avis d’appel dans les 45 jours, son appel sera rejeté. La Couronne aura 60 jours à compter du dépôt de l’avis d’appel modifié pour déposer une réponse à l’avis d’appel modifié.
+Signé à Halifax (Nouvelle‑Écosse), ce 5e jour de mai 2009.
+« Patrick Boyle »
+Juge Boyle
+Traduction certifiée conforme
+ce 14e jour de septembre 2009.
+Jean-François Leclerc-Sirois, LL.B, M.A.Trad.Jur.
+RÉFÉRENCE :
+2009 CCI 248
+No DU DOSSIER DE LA COUR :
+2008-2680(IT)I
+INTITULÉ :
+Ahmad A. Khan et Sa Majesté la Reine
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+Le 15 avril 2009
+MOTIFS DE L’ORDONNANCE :
+L’honorable juge Patrick Boyle
+DATE DE L’ORDONNANCE :
+Le 5 mai 2009
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimée :
+Me Samantha Hurst
+AVOCAT INSCRIT AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

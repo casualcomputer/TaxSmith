@@ -1,0 +1,190 @@
+---
+title: "Beaudoin v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30085/index.do"
+last_modified: "2010-11-25"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 TCC 600"
+citation2: ""
+neutral_citation: "2010 TCC 600"
+decision_date: "2010-11-25"
+language: "en"
+item_id: "30085"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7601
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T01:49:34.578000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "adc2fb360ab736771b9bf7ad3152881fdabe4aa025dc9bc491ea5f759fb89099"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Beaudoin v. The Queen
+
+- Citation: 2010 TCC 600
+- Decision date: 2010-11-25
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7601, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Beaudoin v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-11-25
+Neutral citation
+2010 TCC 600
+File numbers
+2009-2911(IT)I
+Judges and Taxing Officers
+Réal Favreau
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2009-2911(IT)I
+BETWEEN:
+DANIEL BEAUDOIN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+__________________________________________________________________
+Appeal heard on July 5, 2010, at Montréal, Quebec.
+Before: The Honourable Justice Réal Favreau
+Appearances:
+For the appellant:
+The appellant himself
+Counsel for the respondent:
+Marie-France Dompierre
+__________________________________________________________________
+JUDGMENT
+The appellant's appeal from the reassessment dated April 23, 2009, made under the Income Tax Act for the 2007 taxation year is dismissed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 25th day of November 2010.
+"Réal Favreau"
+Favreau J.
+Translation certified true
+on this 10th day of January 2011
+Johanna Kratz, Translator
+Citation: 2010 TCC 600
+Date: 20101125
+Docket: 2009-2911(IT)G
+BETWEEN:
+DANIEL BEAUDOIN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Favreau J.
+[1] This is an appeal under the informal procedure from a reassessment made under the Income Tax Act, R.S.C. 1985, c. 1 (5th Supp.), as amended (the Act), the notice of which is dated April 23, 2009, and pertains to the appellant's 2007 taxation year.
+[2] The only issue is whether the Minister of National Revenue (the Minister) was justified in disallowing the wholly dependent person credit under paragraph 118(1)(b) of the Act and the child amount under paragraph 118(1)(b.1) for the 2007 taxation year. Subsection 118(5) of the Act provides the wholly dependent person credit or the amount for a child under the age of 18 may not be deducted under paragraphs 118(1)(b) and 118(1)(b.1) of the Act by a taxpayer required to pay a support amount (within the meaning assigned by subsection 56.1(4) of the Act).
+[3] In making his reassessment dated April 23, 2009, for the 2007 taxation year and in confirming it, the Minister relied on the following facts set out at paragraph 7 of the Reply to the Notice of Appeal:
+(a) The appellant and his former spouse, Ms. S. Y. K., stopped living together in November 2004; [admitted]
+(b) The appellant and Ms. S. Y. K. were granted a divorce on December 21, 2007; [denied as worded, since the divorce date was July 11, 2007]
+(c) The appellant and Ms. S. Y. K. adopted their son in 2000, the year of his birth; [admitted]
+(d) On July 11, 2007, a divorce judgement was rendered in respect of the appellant and his former spouse, in which they were granted shared custody of their child with alternating weeks of custody; [admitted]
+e) The divorce judgment states that the appellant must pay Ms. S.Y.K. child support in the amount of $320 a month starting June 1, 2006, an amount that was revised to $297.50 starting January 1, 2007. [admitted]
+[4] The appellant challenges the respondent's position and refers to an amendment of the divorce judgement made on July 2, 2008, by Justice Israël Mass, which allocated all child tax credits for taxation years 2007 and following to the appellant.
+[5] The appellant also claims that he is entitled to the tax credits by operation of subsection 118(5.1) of the Act, which makes subsection 118(5) inapplicable in his case.
+[6] The relevant provision of the Act in this dispute are subsection 56.1(4), paragraphs 118(1)(b) and (b.1), and subsections 118(5) and (5.1), which read as follows:
+56.1(4) Definitions
+The definitions in this subsection apply in this section and section 56.
+“child support amount” means any support amount that is not identified in the agreement or order under which it is receivable as being solely for the support of a recipient who is a spouse or common-law partner or former spouse or common-law partner of the payer or who is a parent of a child of whom the payer is a legal parent.
+“commencement day” at any time of an agreement or order means
+(a) where the agreement or order is made after April 1997, the day it is made; and
+(b) where the agreement or order is made before May 1997, the day, if any, that is after April 1997 and is the earliest of
+(i) the day specified as the commencement day of the agreement or order by the payer and recipient under the agreement or order in a joint election filed with the Minister in prescribed form and manner,
+(ii) where the agreement or order is varied after April 1997 to change the child support amounts payable to the recipient, the day on which the first payment of the varied amount is required to be made,
+(iii) where a subsequent agreement or order is made after April 1997, the effect of which is to change the total child support amounts payable to the recipient by the payer, the commencement day of the first such subsequent agreement or order, and
+(iv) the day specified in the agreement or order, or any variation thereof, as the commencement day of the agreement or order for the purposes of this Act.
+“support amount” means an amount payable or receivable as an allowance on a periodic basis for the maintenance of the recipient, children of the recipient or both the recipient and children of the recipient, if the recipient has discretion as to the use of the amount, and
+(a) the recipient is the spouse or common-law partner or former spouse or common-law partner of the payer, the recipient and payer are living separate and apart because of the breakdown of their marriage or common-law partnership and the amount is receivable under an order of a competent tribunal or under a written agreement; or
+(b) the payer is a legal parent of a child of the recipient and the amount is receivable under an order made by a competent tribunal in accordance with the laws of a province.
+118. Personal credits
+(1) For the purpose of computing the tax payable under this Part by an individual for a taxation year, there may be deducted an amount determined by the formula
+A × B
+where
+A is the appropriate percentage for the year, and
+B is the total of,
+. . .
+Wholly dependent person
+(b) in the case of an individual who does not claim a deduction for the year because of paragraph 118(1)(a) and who, at any time in the year,
+(i) is
+(A) a person who is unmarried and who does not live in a common-law partnership, or
+(B) a person who is married or in a common-law partnership, who neither supported nor lived with their spouse or common law-partner and who is not supported by that spouse or common-law partner, and
+(ii) whether alone or jointly with one or more other persons, maintains a self-contained domestic establishment (in which the individual lives) and actually supports in that establishment a person who, at that time, is
+(A) except in the case of a child of the individual, resident in Canada,
+(B) wholly dependent for support on the individual, or the individual and the other person or persons, as the case may be,
+(C) related to the individual, and
+(D) except in the case of a parent or grandparent of the individual, either under 18 years of age or so dependent by reason of mental or physical infirmity,
+an amount equal to the total of
+(iii) $10,320, and
+(iv) the amount determined by the formula
+$10,320 – D
+where
+D is the dependent person’s income for the year,
+Child amount
+(b.1) where
+(i) a child of the individual ordinarily resides throughout the taxation year with the individual together with another parent of the child, $2,000 for each such child who is under the age of 18 years at the end of the taxation year, or
+(ii) except where subparagraph (i) applies, the individual may deduct an amount under paragraph (b) in respect of the individual’s child who is under the age of 18 years at the end of the taxation year, or could deduct such an amount in respect of that child if paragraph 118(4)(a) did not apply to the individual for the taxation year and if the child had no income for the year, $2,000 for each such child,
+. . .
+118(5) Support
+No amount may be deducted under subsection (1) in computing an individual’s tax payable under this Part for a taxation year in respect of a person where the individual is required to pay a support amount (within the meaning assigned by subsection 56.1(4)) to the individual’s spouse or common-law partner or former spouse or common-law partner in respect of the person and the individual
+(a) lives separate and apart from the spouse or common-law partner or former spouse or common-law partner throughout the year because of the breakdown of their marriage or common-law partnership; or
+(b) claims a deduction for the year because of section 60 in respect of a support amount paid to the spouse or common-law partner or former spouse or common-law partner.
+118(5.1) Where subsection (5) does not apply
+Where, if this Act were read without reference to this subsection, solely because of the application of subsection (5), no individual is entitled to a deduction under paragraph (b) or (b.1) of the description of B in subsection (1) for a taxation year in respect of a child, subsection (5) shall not apply in respect of that child for that taxation year.
+Analysis
+[7] It should first be noted that the judgement rendered by Justice Mass of the Superior Court of Québec on July 2, 2008, in which he allocated all child amounts to the appellant, cannot derogate from the requirements of the Act and particularly those of subsection 118(5). The judge clearly exceeded the jurisdiction of his court by allocating to one party the benefits of the tax credits provided by the Act.
+[8] Subsection 118(5) of the Act stipulates that an individual may not claim the wholly dependent person credit and the child amount when he or she lives separate and apart from his or her former spouse or partner and must make support payments to the former spouse or partner on behalf of a child.
+[9] In my opinion, subsection 118(5) of the Act is clear and unambiguous. Since the conditions of application have all been met, the appellant cannot succeed on the basis of this provision.
+[10] Subsection 118(5.1) of the Act is new law. It was added to the Act by S.C. 2007, c. 35, subsection 36(2), applicable to taxation years 2007 and following. The situation described by this provision seems to be the one where, solely because of the application of subsection 118(5), none of the former spouses is entitled to a deduction under paragraphs 118(1)(b) or (b.1) of the Act for a taxation year in respect of a child.
+[11] Unfortunately for the appellant, I do not agree that this provision can be applied in his case. Under the Act, the appellant's former spouse is entitled to claim the tax credits described at paragraphs 118(1)(b) and (b.1) of the Act in respect of their child, and she is not disqualified from doing so solely by operation of subsection 118(5). According to the information in the Notice of Appeal, the appellant's former spouse did not receive a tax benefit for having custody of the child, given her annual income.
+[12] The appellant's former spouse is not disqualified from claiming the amounts in question solely by operation of subsection 118(5), but she could contravene Justice Mass's judgement. The solution here appears to be obtaining a further amendment of Justice Mass's judgment.
+[13] In light of the foregoing, the appellant cannot avoid the application of subsection 118(5) by relying on subsection 118(5.1).
+[14] The appeal is therefore dismissed.
+Signed at Ottawa, Canada, this 25th day of November 2010.
+"Réal Favreau"
+Favreau J.
+Translation certified true
+on this 10th day of January 2011
+Johanna Kratz, Translator
+CITATION: 2010 TCC 600
+COURT FILE NO.: 2009-2911(IT)I
+STYLE OF CAUSE: Daniel Beaudoin and Her Majesty the Queen
+PLACE OF HEARING: Montréal, Quebec
+DATE OF HEARING: July 5, 2010
+REASONS FOR JUDGMENT BY: The Honourable Justice Réal Favreau
+DATE OF JUDGMENT: November 25, 2010
+APPEARANCES:
+For the appellant:
+The appellant himself
+Counsel for the respondent:
+Marie-France Dompierre
+COUNSEL OF RECORD:
+For the appellant:
+Name:
+Firm:
+For the respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Ontario

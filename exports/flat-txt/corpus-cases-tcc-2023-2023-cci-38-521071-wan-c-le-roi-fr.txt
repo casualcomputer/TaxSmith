@@ -1,0 +1,157 @@
+Title: Wan c. Le Roi
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/521071/index.do
+Corpus path: corpus/cases/tcc/2023/2023-cci-38-521071-wan-c-le-roi-fr.md
+Document type: case_law
+Last modified: 2023-04-03
+
+# Wan c. Le Roi
+
+- Citation: 2023 CCI 38
+- Decision date: 2023-04-03
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5860, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Wan c. Le Roi
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2023-04-03
+Référence neutre
+2023 CCI 38
+Numéro de dossier
+2021-1331(IT)I
+Juges et Officiers taxateurs
+Dominique Lafleur
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2021-1331(IT)I
+ENTRE :
+ANNA WAI MAN WAN,
+appelante,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 21 février 2023, à Vancouver (Colombie-Britannique)
+Devant : L’honorable juge Dominique Lafleur
+Comparutions :
+Pour l’appelante :
+L’appelante elle-même
+Avocat de l’intimé :
+Me Jia Ling
+JUGEMENT
+VU les observations des parties;
+ET conformément aux motifs du jugement ci-joints, l’appel interjeté à l’encontre des nouvelles cotisations établies en application de la Loi de l’impôt sur le revenu pour les années d’imposition 2016 et 2017 de l’appelante est rejeté, sans dépens.
+Signé à Montréal (Québec), ce 3e jour d’avril 2023.
+« Dominique Lafleur »
+La juge Lafleur
+Référence : 2023 CCI 38
+Date : 20230403
+Dossier : 2021-1331(IT)I
+ENTRE :
+ANNA WAI MAN WAN,
+appelante,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Lafleur
+I. APERÇU
+[1] Mme Wan interjette appel auprès de notre Cour des nouvelles cotisations qui ont été établies par le ministre du Revenu national (le « ministre ») en application de la Loi de l’impôt sur le revenu, L.R.C. 1985, ch. 1 (5e suppl.) (la « Loi »), qui a refusé la déduction d’une partie des dépenses de publicité et de promotion (les « dépenses de publicité ») de Mme Wan – la partie refusée étant de 59 800 $ en 2016 et de 58 000 $ en 2017 – dans le calcul de son revenu d’emploi. J’utiliserai l’expression « années d’imposition » pour désigner les années d’imposition 2016 et 2017.
+[2] Le ministre est d’avis que les dépenses de publicité n’ont pas été engagées ou effectuées par Mme Wan ou, subsidiairement, si elles l’ont été, qu’elles n’ont pas été engagées ou effectuées dans le but de gagner un revenu d’emploi; elles ne sont donc pas déductibles dans le calcul de son revenu d’emploi. Le ministre a autorisé la déduction d’autres dépenses de publicité et de promotion totalisant 32 493 $ en 2016 et 17 602 $ en 2017.
+[3] Durant les années d’imposition, Mme Wan travaillait comme conseillère en services à la famille pour la société Service Corporation International (Canada). Ses fonctions consistaient notamment à conclure des accords pour des biens ou des services de cimetière pour des familles-clients, à vendre des accords de prévoyance pour des cimetières et des salons funéraires, à établir et à consolider des relations en vue de recruter de nouveaux clients potentiels, ainsi qu’à établir et à maintenir de solides relations d’affaires avec les familles-clients. Mme Wan a obtenu de très bons résultats durant les années d’imposition; son revenu d’emploi, avec les commissions, a totalisé 400 333 $ (dont 355 905 $ provenaient de commissions) en 2016 et 446 845 $ (dont 412 887 $ provenaient de commissions) en 2017.
+[4] Les dépenses de publicité concernent des services qui auraient été offerts à Mme Wan par des sociétés détenues à cent pour cent par son époux et sa fille. En 2016, Mme Wan a demandé la déduction de dépenses de publicité et de promotion totalisant 29 900 $ pour des services rendus par une société qui appartenait à son époux et 29 900 $ pour des services rendus par une société appartenant à sa fille. En 2017, Mme Wan a demandé la déduction de dépenses de publicité et de promotion totalisant 29 000 $ pour des services rendus par une autre société appartenant à son époux et 29 000 $ pour des services rendus par une autre société appartenant à sa fille.
+[5] Mme Wan est la seule personne qui a témoigné à l’audience.
+II. LA QUESTION EN LITIGE ET LES DISPOSITIONS PERTINENTES DE LA LOI
+[6] La question en litige est de savoir si les dépenses de publicité sont déductibles aux termes de l’alinéa 8(1)f) de la Loi dans le calcul du revenu d’emploi de Mme Wan.
+[7] Les dispositions pertinentes de la Loi sont rédigées comme suit :
+8 (1) Sont déductibles dans le calcul du revenu d’un contribuable tiré, pour une année d’imposition, d’une charge ou d’un emploi ceux des éléments suivants qui se rapportent entièrement à cette source de revenus, ou la partie des éléments suivants qu’il est raisonnable de considérer comme s’y rapportant :
+[…]
+f) lorsque le contribuable a été, au cours de l’année, employé pour remplir des fonctions liées à la vente de biens ou à la négociation de contrats pour son employeur, et lorsque, à la fois :
+(i) il était tenu, en vertu de son contrat, d’acquitter ses propres dépenses,
+(ii) il était habituellement tenu d’exercer les fonctions de son emploi ailleurs qu’au lieu d’affaires de son employeur,
+(iii) sa rémunération consistait en tout ou en partie en commissions ou autres rétributions semblables fixées par rapport au volume des ventes effectuées ou aux contrats négociés,
+(iv) il ne recevait pas, relativement à l’année d’imposition, une allocation pour frais de déplacement qui, en vertu du sous-alinéa 6(1)b)(v), n’était pas incluse dans le calcul de son revenu,
+les sommes qu’il a dépensées au cours de l’année pour gagner le revenu provenant de son emploi (jusqu’à concurrence des commissions ou autres rétributions semblables fixées de la manière prévue au sous-alinéa (iii) et reçues par lui au cours de l’année) dans la mesure où ces sommes n’étaient pas :
+(v) des dépenses, des pertes ou des remplacements de capital ou des paiements au titre du capital, exception faite du cas prévu à l’alinéa j),
+(vi) des dépenses qui ne seraient pas, en vertu de l’alinéa 18(1)l), déductibles dans le calcul du revenu du contribuable pour l’année, si son emploi relevait d’une entreprise exploitée par lui;
+(vii) des montants dont le paiement a entraîné la réduction du montant qui serait inclus par ailleurs dans le calcul du revenu du contribuable pour l’année en application de l’alinéa 6(1)e);
+[…]
+(2) Seuls les montants prévus au présent article sont déductibles dans le calcul du revenu d’un contribuable tiré, pour une année d’imposition, d’une charge ou d’un emploi.
+[…]
+(10) Un contribuable ne peut déduire un montant pour une année d’imposition en application des alinéas (1)c), f), h) ou h.1) ou des sous-alinéas (1)i)(ii) ou (iii) que s’il joint à sa déclaration de revenus pour l’année un formulaire prescrit, signé par son employeur, qui atteste que les conditions énoncées à la disposition applicable ont été remplies quant au contribuable au cours de l’année.
+[Non souligné dans l’original.]
+[8] Lors de l’audience, l’intimé a confirmé que les exigences énoncées aux sous-alinéas 8(1)f)(i), (ii), (iii) et (iv) de la Loi avaient été satisfaites et qu’elles n’étaient pas en litige dans les présents appels. L’intimé a également confirmé que Mme Wan avait déposé les formulaires T2200 prescrits au paragraphe 8(10) de la Loi pour les années d’imposition, et que cette question n’était pas non plus en litige dans les présents appels.
+III. CONCLUSION
+[9] Pour les motifs exposés ci-après, l’appel interjeté à l’encontre des nouvelles cotisations établies par le ministre en application de la Loi pour les années d’imposition est rejeté, sans dépens.
+IV. LES THÈSES DES PARTIES
+(i) Mme Wan
+[10] Selon Mme Wan, les dépenses de publicité ont été engagées dans le but de gagner un revenu d’emploi et elles devraient être déductibles dans le calcul de son revenu d’emploi. Mme Wan affirme plus précisément que les meilleurs résultats qu’elle a obtenus durant les années d’imposition sont attribuables à des services qui ont été rendus par des sociétés appartenant à son époux et à sa fille et que, par conséquent, les dépenses étaient raisonnables.
+(ii) L’intimé
+[11] L’intimé est d’avis que Mme Wan n’a pas engagé ni effectué les dépenses de publicité en litige. Mme Wan n’a pu démontrer, selon la prépondérance des probabilités, qu’elle a engagé les dépenses de publicité.
+[12] La preuve orale qui a été présentée à l’audience n’est pas suffisante pour réfuter les hypothèses du ministre. Mme Wan a livré un témoignage vague et peu fiable et elle n’a pu établir la preuve prima facie démontrant que les dépenses de publicité ont été engagées.
+[13] Mme Wan devait tenir des registres et des livres de comptes en application du paragraphe 230(1) de la Loi. Les reçus qu’elle a présentés en preuve ne donnent pas une description des services rendus ni du mode de paiement, comme c’est le cas habituellement des reçus fournis lors d’opérations commerciales. Aucune autre pièce justificative, par exemple des feuilles de temps, des relevés bancaires, des chèques, des documents comptables, des relevés des appels qui ont été faits ou des détails sur les services rendus, n’a été présentée à l’audience pour corroborer la déduction des dépenses de publicité demandée.
+[14] Subsidiairement, même si la Cour devait conclure que les dépenses de publicité ont été engagées, elles ne l’ont pas été dans le but de gagner un revenu d’emploi.
+[15] L’intimé demande en outre à la Cour de tirer une conclusion défavorable du fait que Mme Wan a omis de convoquer son époux et sa fille à témoigner à l’audience. Il lui demande plus précisément de conclure que les témoignages de l’époux et de la fille auraient démontré que les dépenses de publicité n’ont pas été engagées par Mme Wan ou qu’elles n’ont pas été engagées dans le but de tirer un revenu d’emploi (Chaplin c. La Reine, 2017 CCI 194, par. 51).
+V. DISCUSSION
+[16] Comme l’a expliqué le juge L’Heureux-Dubé dans l’arrêt Hickman Motors Ltd. c. Canada, [1997] 2 R.C.S. 336, aux paragraphes 92 à 95, le fardeau de la preuve, dans les appels en matière fiscale, incombe généralement à l’appelant. Le fardeau de réfuter les hypothèses de fait formulées par le ministre et de prouver, selon la prépondérance des probabilités, les faits justifiant sa position, incombe à l’appelant.
+[17] Selon l’alinéa 8(1)f) de la Loi, sous réserve de conditions qui ne sont pas en litige dans les présents appels, « […] les sommes [que le contribuable] a dépensées au cours de l’année pour gagner le revenu provenant de son emploi […] » sont déductibles dans le calcul du revenu d’emploi du contribuable. Par conséquent, Mme Wan devait démontrer, selon la prépondérance des probabilités, que les dépenses de publicité ont été engagées par elle et qu’elles l’ont été dans le but de tirer un revenu d’emploi.
+[18] Pour les motifs énoncés ci-après, je conclus, selon la prépondérance des probabilités, que Mme Wan n’a pu démontrer qu’elle a engagé les dépenses de publicité. Son témoignage n’était ni convaincant ni crédible. Mme Wan aurait dû présenter un témoignage détaillé et convaincant avec, dans la mesure du possible, des éléments de preuve à l’appui, pour démontrer que les dépenses de publicité ont été engagées par elle. Je conclus, selon la prépondérance des probabilités, qu’elle ne l’a pas fait.
+[19] Qui plus est, l’absence de la fille et de l’époux de Mme Wan à l’audience m’amène à tirer une conclusion défavorable, à savoir que leur témoignage respectif aurait démontré que Mme Wan n’a pas payé leurs sociétés pour les services de marketing et de promotion allégués.
+[20] Durant son témoignage, Mme Wan a déclaré qu’elle s’était jointe à la société Service Corporation International (Canada) en 2007. Son travail consistait essentiellement à élargir ses relations avec la clientèle et à entrer en contact avec de nombreuses personnes. Elle a donc utilisé différentes méthodes pour commercialiser ses services et en faire la promotion. Mme Wan a non seulement fait paraître des annonces publicitaires dans les journaux, fait de publicité à la radio et tenu des galas de charité, mais elle a aussi déclaré durant son témoignage qu’elle avait eu recours aux services de son époux et de sa fille. La mort est une question délicate et peu de personnes sont disposées à en discuter. Durant son témoignage, Mme Wan a déclaré qu’elle a commencé, en 2015, à entreprendre des démarches auprès d’un plus grand nombre d’organismes et de groupes ainsi qu’à assister à davantage de réceptions pour attirer des clients. Elle a aussi décidé de communiquer avec d’anciens clients pour savoir s’ils aimeraient rediscuter de problèmes. Elle a constaté que l’augmentation de ses dépenses de marketing et de publicité a entraîné une augmentation de ses ventes.
+[21] Des relevés de compte des sociétés de son époux et de sa fille, pour les périodes prenant fin le 31 décembre 2016 et le 31 décembre 2017 (pièces A-1 à A-4), ainsi que des reçus émis par ces sociétés à Mme Wan (pièces R-11, R-12, R-13 et R-15), ont été produits en preuve. Mme Wan a expliqué que sa fille lui avait fourni des services de marketing, lesquels services consistaient en l’organisation d’événements durant divers festivals et en l’organisation de diverses campagnes dont Mme Wan était l’hôte. Quant à son époux, Mme Wan a déclaré durant son témoignage que celui-ci avait fait plusieurs appels de sollicitation à froid auprès de clients potentiels dans le but d’accroître ses ventes.
+[22] Cependant, Mme Wan n’a produit aucun chèque ni relevé bancaire, ni aucun autre document à l’appui, indiquant que les dépenses de publicité ont été payées par elle. Qui plus est, Mme Wan n’a produit aucune preuve de factures établies par ces sociétés, ni autres documents à l’appui tels qu’une transcription des appels de sollicitation à froid, une liste des appels qui ont été faits, des feuilles de temps ou une description des services rendus. Lors de son témoignage, Mme Wan a déclaré qu’elle était certaine que sa fille et son époux avaient rendu les services qu’elle avait payés et qu’elle n’avait donc pas à exiger la production d’autres documents à l’appui. De même, elle n’a conclu aucune entente de services officielle avec les sociétés.
+[23] Elle a déclaré avoir payé les dépenses de publicité aux sociétés de sa fille et de son époux. Cependant, comme je l’ai indiqué précédemment, aucun document à l’appui, à l’exception des reçus et des relevés de compte, n’a été présenté à la Cour. Je n’ai accordé aucun poids à ce volet du témoignage de Mme Wan, car il s’agit d’une preuve intéressée.
+[24] Comme l’a déclaré notre Cour dans la décision DiCosmo c. La Reine, 2015 CCI 325 (confirmée en 2017 par la Cour d’appel fédérale dans l’arrêt 2017 CAF 60) :
+[29] [...] La déduction de dépenses d’emploi par les contribuables doit généralement être appuyée par des documents contemporains qui convaincront la Cour que les déductions sont fondées. En l’espèce, M. DiCosmo devait fournir des éléments de preuve suffisants pour appuyer les déductions demandées [...]. Je conclus que le témoignage de M. DiCosmo est totalement insatisfaisant à cet égard.
+[25] De plus, selon le paragraphe 230(1) de la Loi, Mme Wan doit tenir et conserver des renseignements et des documents détaillés pour étayer ses prétentions selon lesquelles elle a elle-même engagé les dépenses de publicité et elle l’a fait dans le but de tirer un revenu d’emploi :
+230 (1) Quiconque exploite une entreprise et quiconque est obligé, par ou selon la présente loi, de payer ou de percevoir des impôts ou autres montants doit tenir des registres et des livres de comptes (y compris un inventaire annuel, selon les modalités réglementaires) à son lieu d’affaires ou de résidence au Canada ou à tout autre lieu que le ministre peut désigner, dans la forme et renfermant les renseignements qui permettent d’établir le montant des impôts payables en vertu de la présente loi, ou des impôts ou autres sommes qui auraient dû être déduites, retenues ou perçues.
+[26] Comme l’a déclaré la Cour d’appel fédérale dans l’arrêt Njenga v. The Queen, 96 DTC 6593, p. 6594 :
+[traduction] Le système fiscal est fondé sur l’autocontrôle. Il est d’intérêt public que la charge de prouver le fondement des déductions et des réclamations repose sur le contribuable. Le juge de la Cour de l’impôt a tranché que les personnes comme la requérante doivent être en mesure de produire toutes les informations et justifications permettant d’appuyer les réclamations qu’elles font. Nous sommes d’accord avec cette conclusion. Mme Njenga, à titre de contribuable, a la responsabilité de justifier ses affaires personnelles d’une manière raisonnable. Des reçus écrits par elle-même et des allégations sans preuve ne sont pas suffisants.
+[27] Je tiens toutefois à souligner qu’il n’est pas nécessaire de fournir des pièces justificatives ou des reçus pour toutes les dépenses déclarées à titre de déductions, à condition que ces dépenses soient établies au moyen d’autres éléments de preuve crédibles (voir McMillan c. La Reine, 2011 CCI 393; Chrabalowski c. La Reine, 2004 CCI 644).
+[28] Il n’est pas nécessaire que le contribuable présente chaque reçu, mais le contribuable devrait avoir à prouver tout d’abord, par d’autres moyens crédibles, que les dépenses ont été engagées et qu’elles l’ont été dans le but de tirer un revenu d’emploi. Mme Wan a échoué à cet égard.
+[29] Mme Wan réussit bien dans son travail de vendeuse : elle fait régulièrement de la publicité dans les journaux locaux, à la radio ainsi que lors d’événements de bienfaisance. Elle tient habituellement des documents détaillés pour corroborer la déduction de ses dépenses de publicité. À l’exception des reçus et des relevés de compte, elle n’a tenu aucun document indiquant que les sommes ont été engagées pour les dépenses de publicité en litige. Je juge que ces éléments de preuve sont insuffisants pour étayer la déduction des dépenses de publicité demandée.
+[30] Lorsque j’examine la crédibilité d’un témoin, je peux tenir compte des incohérences, de l’attitude et du comportement du témoin, des motifs qu’aurait le témoin pour rendre un faux témoignage et de la « teneur générale de la preuve ». Comme l’a déclaré la juge Valerie Miller dans la décision Nichols c. La Reine, 2009 CCI 334, 2009 DTC 1203 au paragraphe 23 :
+[23] En matière de crédibilité, je peux tenir compte des incohérences ou des faiblesses que comporte le témoignage des témoins, y compris les incohérences internes (si le témoignage change pendant que le témoin est à la barre ou s’il diverge du témoignage rendu à l’interrogatoire préalable), les déclarations antérieures contradictoires et les incohérences externes (soit lorsque le témoignage est incompatible avec des éléments de preuve indépendants que j’ai acceptés). Il m’est ensuite loisible d’apprécier l’attitude et le comportement du témoin. Troisièmement, je peux rechercher si le témoin a des raisons de rendre un faux témoignage ou d’induire la Cour en erreur. Enfin, je peux prendre en compte la teneur générale de la preuve. C’est‑à‑dire que j’ai toute latitude pour rechercher si l’examen du témoignage à la lumière du sens commun donne à penser que les faits exposés sont impossibles ou hautement improbables.
+[31] En l’espèce, la crédibilité et la suffisance de la preuve présentée lors de l’audience sont déterminantes (Landry c. La Reine, 2009 CCI 399, 2009 DTC 1359, par. 47; Roy c. La Reine, 2006 DTC 226, 2008 CCI 3224). J’ai également examiné le caractère raisonnable global des nouvelles cotisations pour décider si je devais accueillir ou non les présents appels.
+[32] J’ai tenu compte de ces principes pour apprécier la preuve présentée lors de l’audition des présents appels et, pour les motifs précités, je conclus qu’aucun élément de preuve crédible n’a été présenté à l’audience pour étayer la thèse de Mme Wan. Qui plus est, les éléments de preuve montrent que, durant les années d’imposition, la fille de Mme Wan était étudiante à temps plein à l’Université de la Colombie-Britannique, où elle était inscrite à un baccalauréat ès arts. Il ne m’apparaît pas crédible que la fille de Mme Wan puisse avoir rendu les services allégués à Mme Wan alors qu’elle était inscrite à un baccalauréat ès arts.
+[33] Enfin, une conclusion défavorable peut être tirée du fait qu’une partie n’a pas appelé un témoin à comparaître, notamment si le témoignage aurait été essentiel pour établir un fait important (Imperial Pacific Greenhouses Ltd. c. Canada, 2011 CAF 79, par. 14).
+[34] À l’affaire en instance, les témoignages de l’époux et de la fille de Mme Wan auraient été d’une importance capitale pour établir que leurs sociétés ont bel et bien reçu les sommes en litige. Je n’ai toutefois reçu aucune explication crédible justifiant leur absence à l’audience. Je dois donc tirer une conclusion défavorable de leur défaut de comparaître et du fait que leurs témoignages auraient montré que les dépenses de publicité n’ont pas été engagées par Mme Wan.
+Signé à Montréal (Québec), ce 3e jour d’avril 2023.
+« Dominique Lafleur »
+La juge Lafleur
+RÉFÉRENCE :
+2023 CCI 38
+NO DU DOSSIER DE LA COUR :
+2021-1331(IT)I
+INTITULÉ :
+ANNA WAI MAN WAN c. SA MAJESTÉ LE ROI
+LIEU DE L’AUDIENCE :
+Vancouver (Colombie-Britannique)
+DATE DE L’AUDIENCE :
+Le 21 février 2023
+MOTIFS DU JUGEMENT :
+L’honorable juge Dominique Lafleur
+DATE DU JUGEMENT :
+Le 3 avril 2023
+COMPARUTIONS :
+Pour l’appelante :
+L’appelante elle-même
+Avocat de l’intimé :
+Me Jia Ling
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+s. o.
+Cabinet :
+s. o.
+Pour l’intimé :
+Shalene Curtis-Micallef
+Sous-procureure générale du Canada Ottawa, Canada

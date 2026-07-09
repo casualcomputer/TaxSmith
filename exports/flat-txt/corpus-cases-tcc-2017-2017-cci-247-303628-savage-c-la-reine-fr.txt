@@ -1,0 +1,197 @@
+Title: Savage c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/303628/index.do
+Corpus path: corpus/cases/tcc/2017/2017-cci-247-303628-savage-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2017-12-07
+
+# Savage c. La Reine
+
+- Citation: 2017 CCI 247
+- Decision date: 2017-12-07
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7883, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Savage c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2017-12-07
+Référence neutre
+2017 CCI 247
+Numéro de dossier
+2016-3463(IT)I, 2016-3536(IT)I
+Juges et Officiers taxateurs
+Campbell J. Miller
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+2016-3463(IT)IDossiers : 2016-3463(IT)I
+2016-3536(IT)I
+ENTRE :
+CAROLYN D. SAVAGE et JOHN A. SAVAGE,
+appelants,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appels entendus le 1er décembre 2017, à Toronto (Ontario)
+Devant : L’honorable juge Campbell J. Miller
+Comparutions :
+Pour les appelants :
+Les appelants eux-mêmes
+Avocate de l’intimée :
+Me Hye-Won (Caroline) Ahn
+JUGEMENT
+Les appels de Carolyn D. Savage interjetés à l’encontre des nouvelles cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 2010 et 2011 sont rejetés.
+Les appels de John A. Savage interjetés à l’encontre des nouvelles cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 2010, 2011 et 2012 sont rejetés.
+Signé à Ottawa, Canada, ce 7e jour de décembre 2017.
+« Campbell J. Miller »
+Juge C. Miller
+Référence : 2017 CCI 247
+Date : 20171207
+Dossiers : 2016-3463(IT)I
+2016-3536(IT)I
+ENTRE :
+CAROLYN D. SAVAGE et JOHN A. SAVAGE,
+appelants,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge C. Miller
+[1] John Savage interjette appel de la cotisation du ministre du Revenu national (le « ministre ») pour ses années d’imposition 2010, 2011 et 2012 et Carolyn Savage interjette appel de la cotisation du ministre pour ses années d’imposition 2010 et 2011 qui ont dans les deux cas refusé les pertes qu’ils ont déclarées et qui découleraient de l’exploitation d’un chenil. Le ministre a conclu qu’ils n’exploitaient pas une entreprise et que le chenil n’était rien d’autre qu’un passe-temps. Le ministre a poursuivi en indiquant que, si je concluais qu’il existait une entreprise, les dépenses indiquées n’étaient alors pas toutes des dépenses d’entreprise. Les Savage n’étaient pas préparés pour aborder cette deuxième question, croyant à tort que la seule question était celle de savoir si les pertes avaient été subies par une entreprise. Il a été convenu que j’entendrais leurs témoignages et arguments sur la première question et que si je concluais que les pertes constituaient des pertes d’entreprise, je reprendrais le procès afin d’entendre les témoignages et les arguments portant précisément sur les dépenses. Comme j’ai conclu que les Savage n’exploitaient pas une entreprise, mais qu’ils avaient plutôt un passe-temps, cette deuxième étape du procès est inutile.
+[2] M. et Mme Savage travaillent à plein temps dans des domaines non liés au chenil et ils le font depuis de nombreuses années. En 1999, ils ont pris la décision qu’ils devaient planifier d’augmenter leur revenu de retraite et qu’ils pourraient le faire au moyen de l’exploitation d’un chenil, puisqu’ils aiment les chiens depuis de nombreuses années et qu’ils ont manifestement une passion pour eux. Cette passion était particulièrement évidente lorsque M. Savage a tenté de décrire avec émotion les avantages possibles d’avoir un chien de concours, qu’il croyait avoir en leur chien, Maverick, qui malheureusement a succombé à une maladie.
+[3] Les 11 premières années (de 1999 à 2010) des efforts des Savage pour établir le chenil ont été faits à Pickering, en Ontario. Leur entreprise portait le nom de Jenberly Kennels; ils ont fourni une copie de l’enregistrement de 2003 de Jenberly Kennels auprès du Club canin canadien. M. Savage a reconnu qu’il n’avait aucune information officielle quant au dressage de chiens, alors que Mme Savage avait suivi plusieurs cours à cet égard. M. Savage avait également suivi un cours de tenue des livres.
+[4] M. Savage a indiqué que leur énoncé de mission était d’établir un chenil prospère pour compléter leur revenu de retraite. L’entreprise offrait des services d’élevage, de dressage, de pension et de gardiennage de chien. La formation est offerte par Mme Savage. M. Savage a reconnu que Mme Savage dressait les chiens pour la chasse à son intention.
+[5] Deux périodes ont été abordées par les Savage lorsqu’ils ont décrit leur exploitation. La période de 1999 à 2010, alors qu’ils vivaient à Pickering, et celle depuis 2010, après leur déménagement à Huntsville, en Ontario. Deux événements sont survenus en 2010. D’abord, pour des raisons d’emploi, les Savage ont déménagé de Pickering à Huntsville, puis ils ont perdu Maverick. M. Savage a décrit Maverick comme le type de chien qui, comme un cheval pur-sang de concours, pouvait rapporter au propriétaire beaucoup d’argent. Comme il l’a dit, ils devaient trouver un autre Maverick. Ils n’ont pas pu le faire.
+[6] M. Savage a expliqué qu’ils se rendaient à quelques expositions par année, pas toujours pour y participer, souvent pour simplement établir des contacts dans le domaine. Ce n’était pas nécessaire à Pickering, puisqu’ils avaient des clients et des contacts réguliers. M. Savage n’a pas produit de listes de consommateurs, de fournisseurs, etc. Il n’a fourni aucun détail sur l’aménagement du chenil, reconnaissant simplement qu’ils possédaient deux chiens.
+[7] Malheureusement, les deux chiens qu’ils ont acquis peu de temps après le décès de Maverick n’étaient pas enregistrés : les chiens ne pouvaient participer à une exposition à moins de l’être. Ils n’ont pas réussi à faire le suivi de l’enregistrement.
+[8] M. Savage a reconnu qu’ils n’avaient pas de plan d’entreprise officiel, mais qu’ils étaient simplement doués dans l’élevage de chiens et qu’ils prévoyaient établir leur entreprise sur une période de 15 ans pour obtenir un revenu de retraite. Il a expliqué qu’ils prévoyaient au départ que ce serait fait maintenant, mais qu’en raison du déménagement à Huntsville, ils avaient dû modifier leur plan pour l’âge de 75 ans, soit encore huit ans.
+[9] Les recettes de leur exploitation découlaient du dressage, de la pension et, jusqu’en 2010, de l’élevage. Mme Savage a expliqué une partie des frais : 140 $ pour un cours de dressage de cinq semaines et 45 $ par jour ou 125 $ par semaine pour la pension, mais qu’en raison de la présence de leurs deux chiens, ils n’avaient de la place que pour deux autres chiens. Depuis 2010, ils ont tenté d’offrir un service de chien reproducteur. M. Savage a tenté de répartir les recettes entre ces différents domaines, de façon plutôt vague. Il n’a produit aucun registre financier qui illustrait la provenance des recettes, aucun état financier, aucun grand livre, aucune liste de consommateurs ni document publicitaire. Il a indiqué dans son témoignage que la publicité se faisait au moyen de l’utilisation de cartes professionnelles, de contacts établis aux expositions de chiens et de dépliants publicitaires, même s’il n’a pas fourni d’exemples de ce dernier cas.
+[10] Voici une liste des pertes subies au cours des années :
+[BLANK]
+Revenu d’entreprise brut
+Perte d’entreprise nette pour les Savage
+1999
+1 200 $
+12 460 $
+2000
+1 200 $
+12 546 $
+2001
+1 200 $
+10 604 $
+2002
+3 600 $
+17 240 $
+2003
+3 600 $
+7 656 $
+2004
+3 600 $
+6 558 $
+2005
+3 600 $
+13 442 $
+2006
+4 800 $
+8 178 $
+2007
+4 800 $
+8 032 $
+2008
+1 050 $
+29 384 $
+2009
+0 $
+28 974 $
+2010
+1 750 $
+13 394 $
+2011
+2 500 $
+21 438 $
+2012
+1 600 $
+15 890 $
+2013
+[EN BLANC]
+4 000 $*
+2014
+[EN BLANC]
+2 500 $*
+2015
+[EN BLANC]
+1 900 $*
+2016
+[EN BLANC]
+1 600 $*
+* Il n’est pas clair s’il s’agissait des pertes pour M. et Mme Savage ou du total des pertes.
+[11] Il ressortait clairement du témoignage de M. Savage qu’il envisageait de déménager en 2010 et que la perte de Maverick les avait pratiquement obligés à recommencer l’exploitation qui, selon lui, comme l’industrie des chevaux, pouvait prendre des années. La situation a été rendue encore plus difficile par la nature diversifiée de la clientèle de la région de Muskoka comparativement à celle de Pickering. À Huntsville, les Savage doivent se déplacer davantage pour créer un nouveau réseau. Il était difficile de faire du réseautage, soit de créer des relations avec les fournisseurs, les vétérinaires et les clients, puisqu’ils travaillaient tous les deux à plein temps.
+[12] L’exploitation des Savage était-elle une entreprise ou un passe-temps? L’arrêt de principe pour ce type d’appel est la décision rendue par la Cour suprême du Canada dans Stewart c Canada[1]. Dans cette affaire, la Cour suprême du Canada a modifié le critère de l’expectative raisonnable de profit qui avait été utilisé pendant de nombreuses années pour régler la question de l’entreprise par rapport au passe-temps, pour conclure ce qui suit :
+52. Ce premier volet du critère vise simplement à établir une distinction entre les activités commerciales et les activités personnelles et, comme nous l’avons vu, il se peut fort bien que telle ait été à l’origine l’intention du juge Dickson lorsqu’il a mentionné l’« expectative raisonnable de profit » dans l’arrêt Moldowan. Vus sous cet angle, les critères énoncés par le juge Dickson représentent une tentative de dresser une liste objective de facteurs permettant de déterminer si l’activité en cause est de nature commerciale ou personnelle. Ces facteurs sont ce que le juge Bowman a qualifié d’« indices de commercialité » ou de « caractéristiques commerciales »: Nichol, précité, par. 13. Ainsi, lorsque la nature de l’entreprise du contribuable comporte des aspects indiquant qu’elle pourrait être considérée comme un passe-temps ou une autre activité personnelle, mais que l’entreprise est exploitée d’une manière suffisamment commerciale, cette entreprise sera considérée comme une source de revenu aux fins d’application de la Loi.
+53. Nous soulignons que ce critère de l’existence d’une source « en vue de réaliser un profit » ne doit faire l’objet d’une analyse que dans les situations où l’activité en cause comporte un aspect personnel ou récréatif. [...]
+54. Il y a également lieu de souligner que la détermination de l’existence d’une source de revenu n’est pas un processus purement subjectif. Outre le fait que, pour qu’une activité soit qualifiée de commerciale par nature, le contribuable doit avoir l’intention subjective de réaliser un profit, il faut aussi, tel que mentionné dans l’arrêt Moldowan, que cette détermination se fasse en fonction de divers facteurs objectifs. Ainsi, sous une forme plus élaborée, le premier volet du critère susmentionné peut être reformulé ainsi : « Le contribuable a-t-il l’intention d’exercer une activité en vue de réaliser un profit et existe-t-il des éléments de preuve étayant cette intention? » Cela oblige le contribuable à établir que son intention prédominante était de tirer profit de l’activité et que cette activité a été exercée conformément à des normes objectives de comportement d’homme d’affaires sérieux.
+55. Les facteurs objectifs énumérés par le juge Dickson dans Moldowan, précité, p. 486, étaient (1) l’état des profits et pertes pour les années antérieures, (2) la formation du contribuable, (3) la voie sur laquelle il entend s’engager, et (4) la capacité de l’entreprise de réaliser un profit. Comme nous le concluons plus loin, il n’est pas nécessaire pour les besoins du présent pourvoi d’ajouter d’autres facteurs à cette liste; nous nous abstenons donc de le faire. Nous tenons cependant à réitérer la mise en garde du juge Dickson selon laquelle cette liste ne se veut pas exhaustive et les facteurs diffèrent selon la nature et l’importance de l’entreprise. Nous tenons également à souligner que, même si l’expectative raisonnable de profit constitue un facteur à prendre en considération à ce stade, elle n’est ni le seul facteur, ni un facteur déterminant. Il faut déterminer globalement si le contribuable exerce l’activité d’une manière commerciale. Cette détermination ne devrait toutefois pas servir à évaluer après coup le sens des affaires du contribuable. C’est la nature commerciale de son activité qui doit être évaluée, et non son sens des affaires.
+[13] Ainsi, si je conclus qu’il existe un aspect personnel, je dois me pencher sur les caractéristiques commerciales ou les indices de commercialité afin de déterminer si le chenil a été exploité d’une manière suffisamment commerciale pour constituer une entreprise. C’est à cette étape qu’il est possible d’examiner le critère de l’expectative raisonnable de profit comme un facteur d’une telle évaluation. La Cour a mis en évidence les facteurs suivants, indiquant que cette liste n’est pas exhaustive :
+1) les profits et les pertes pour les années antérieures;
+2) la formation;
+3) la voie sur laquelle la personne entend s’engager;
+4) la capacité de réaliser un profit.
+[14] J’ajouterais un élément à cet examen de tous les pièges qui tendent à aller de pair avec une entreprise commerciale, soit la nature commerciale de l’activité.
+[15] Il est évident que l’entreprise des Savage comporte un aspect personnel. Leur amour des chiens les a entraînés dans cette voie. Leurs deux chiens ont été dressés par Mme Savage pour accompagner M. Savage à la chasse. Leur lien émotif avec leurs chiens était manifeste tout au long de leur témoignage. Étant donné cet aspect personnel, il est nécessaire d’examiner le critère « en vue de réaliser un profit » pour établir si l’entreprise était exploitée d’une manière suffisamment commerciale pour être considérée comme une source de revenu.
+[16] Avant d’évaluer leur exploitation au moyen des facteurs susmentionnés, je vais examiner deux affaires qui portaient précisément sur des exploitations semblables. Dans Huber c Canada[2], les faits étaient très semblables à ceux de l’affaire dont je suis saisi; toutefois, dans une année, M. Huber a réalisé un faible profit. Le juge McArthur a conclu ce qui suit :
+13. En l’espèce, les tentatives de l’appelant pour faire apparaître un bénéfice en 1992 en réduisant radicalement les dépenses sont suspectes, et, en outre, il ne lui restait en décembre 1993 qu’un chien de concours, et ce, après quatre ou cinq ans d’activité, ayant démarré en 1988 avec ce qu’il croyait être deux chiens de qualité rentable.
+14. Le volume de la jurisprudence fournie mène à la conclusion que chaque cas dépend des circonstances particulières qui l’entourent. Je conclus que l’appelant aime sincèrement les bergers allemands, mais n’est pas spécialiste de l’élevage des chiens. Il désirait gagner de l’argent grâce à son entreprise, mais ne comptait absolument pas là-dessus pour vivre. Il était employé à plein temps par une compagnie exploitant un gisement de potasse et il consacrait davantage de son temps libre à son entreprise d’ébénisterie qu’à l’exploitation de son chenil. Les efforts qu’il a déployés et la voie sur laquelle il s’était engagé ne suffisent pas pour conclure qu’il s’adonnait à autre chose qu’à un simple passe-temps. Vu l’ensemble de la preuve, l’appelant n’a pas réussi à établir qu’il avait une attente raisonnable de profit au cours des années dont il est question en l’espèce.
+[17] Dans White c Canada[3], encore une fois les faits étaient très semblables, puisque l’appelant travaillait à plein temps ailleurs et n’avait toujours pas réalisé de profit. Le juge Teskey a conclu ce qui suit :
+19. L’entreprise, telle qu’elle était structurée au cours des années en question, n’aurait pas pu réaliser un profit. Le nombre de femelles en mesure de produire des chiots n’était tout simplement pas assez élevé pour permettre à l’entreprise d’être rentable. Il ne semble pas y avoir de raison valable pour laquelle les appelants n’auraient pas pu, s’ils l’avaient souhaité, avoir suffisamment de chiots, du moins en 1991 et 1992. Ainsi, je suis enclin à conclure que, jusqu’à la fin de 1992 à tout le moins, l’entreprise d’élevage de chiens n’était qu’un passe-temps et que, compte tenu de la façon dont elle était structurée, elle n’aurait pas pu réaliser un profit au cours de ces années.
+[18] Bien que ces décisions aient été entendues avant l’arrêt Stewart, il est évident que l’expectative de profit est une considération importante, même s’il ne s’agit pas du seul facteur pour déterminer la commercialité.
+[19] En ce qui concerne le profil et les pertes du passé, ils ne dressent pas un portrait favorable pour les Savage. Ils n’ont toujours pas réalisé de profit et, bien que M. Savage fasse remarquer qu’ils ont presque atteint un seuil de rentabilité au cours des deux ou trois dernières années, il pense de façon réaliste qu’un profit ne sera possible que dans quelques années, lorsque la retraite sera imminente et qu’ils pourront consacrer plus de temps au chenil. Ce facteur joue fortement en défaveur d’une conclusion objective de commercialité, même en tenant compte de l’incidence du déménagement à Huntsville.
+[20] Un facteur qui est en leur faveur est que Mme Savage a indiqué dans son témoignage qu’elle avait suivi une formation pour s’occuper des chiens, même si elle n’a fourni aucun détail à cet égard. Toutefois, elle a déclaré que le dressage de chiens ne constituait pas une partie importante des activités de l’entreprise. Toutefois, la répartition des recettes entre l’élevage, le dressage, la pension et le gardiennage n’a jamais été clairement indiquée.
+[21] En ce qui concerne la voie sur laquelle ils entendaient s’engager, aucun plan réel n’a été fourni, certainement aucun plan d’entreprise écrit, même si M. Savage a reconnu qu’ils devaient faire plusieurs choses : créer diverses stratégies de commercialisation, s’inspirer de la réglementation sur l’assurance pour se protéger contre les actions en responsabilité [traduction] « une fois que nous travaillerons à temps plein », acquérir un système de tenue de livres, créer un formulaire de contrat avec les consommateurs et [traduction] « une fois que nous serons à la retraite, nous souhaiterons probablement accueillir des animaux, des animaux rescapés ou âgés pour assurer la bonne marche de l’entreprise ».
+[22] M. Savage a conclu qu’en [traduction] « raison de la restructuration de l’entreprise depuis le déménagement en 2010 et de notre prévision d’une semi‑retraite dans quelques années, le temps que nous pouvons consacrer au chenil devrait accroître la rentabilité à un niveau fructueux ».
+[23] Bien que toutes ces suggestions semblent être des méthodes appropriées pour aller de l’avant, aucune ne semble avoir été mise en œuvre, alors que les années en litige sont passées depuis longtemps. Le sentiment général que m’inspirent les Savage est que l’entreprise deviendra fructueuse lorsqu’ils prendront leur retraite dans sept ou huit ans. Ainsi, bien que j’accepte le fait qu’ils ont réfléchi à la voie sur laquelle ils entendaient s’engager, cette dernière ne semble pas fondée sur la réalisation de profit avant encore une certaine période. À mon avis, ce facteur n’appuie pas la commercialité de l’entreprise pendant les années en litige.
+[24] En ce qui concerne la capacité de réaliser un profit, les Savage n’ont produit aucune prévision financière indiquant les projections des recettes des différentes parties du chenil. Ils n’ont fourni aucun plan concret sur la façon dont les dépenses pourraient être réduites ou les recettes augmentées. Je ne peux donc évaluer la façon dont l’exploitation, dans sa forme actuelle, pourrait réaliser un profit.
+[25] Il y a effectivement des caractéristiques commerciales, une carte professionnelle par exemple, mais je n’ai obtenu aucune copie de documents publicitaires ou d’information sur les fréquences de leur distribution, ni de registres financiers, de listes de consommateurs, de listes d’exposition auxquelles ils ont assisté ou de contacts faits. Je conclus que les Savage avaient l’intention de poursuivre ces démarches plus activement plus tard, mais pour ce qui est des années en litige et jusqu’à maintenant, je pourrais au mieux dire qu’ils s’y sont aventurés et qu’elles ressemblent davantage à passe-temps qu’à une entreprise.
+[26] Je conclus qu’il n’y avait pas d’entreprise et je rejette donc leurs appels. Il n’est pas nécessaire de poursuivre le procès pour examiner les dépenses plus en détail.
+Signé à Ottawa, Canada, ce 7e jour de décembre 2017.
+« Campbell J. Miller »
+Juge C. Miller
+RÉFÉRENCE :
+2017 CCI 247
+Nos DU DOSSIER DE LA COUR :
+2016-3463(IT)I et 2016-3536(IT)I
+INTITULÉ :
+CAROLYN D. SAVAGE et JOHN A. SAVAGE ET SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+Le 1er décembre 2017
+MOTIFS DU JUGEMENT :
+L’honorable juge Campbell J. Miller
+DATE DU JUGEMENT :
+Le 7 décembre 2017
+COMPARUTIONS :
+Pour les appelants :
+Les appelants eux-mêmes
+Avocate de l’intimée :
+Me Hye-Won (Caroline) Ahn
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+[BLANK / EN BLANC]
+Cabinet :
+[BLANK / EN BLANC]
+Pour l’intimée :
+Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa, Canada
+[1] 2002 CSC 46.
+[2] [1994] 1 CTC 2127.
+[3] [1996] 1 CTC 2634.

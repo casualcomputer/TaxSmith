@@ -1,0 +1,146 @@
+---
+title: "Bower v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/31199/index.do"
+last_modified: "2013-06-11"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2013 TCC 183"
+citation2: ""
+neutral_citation: "2013 TCC 183"
+decision_date: "2013-06-11"
+language: "en"
+item_id: "31199"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5038
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T09:04:21.448000+00:00"
+cases_cited_count: 2
+cases_citing_count: 3
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "492ac777faf66a2ed0d8bb40961804f796e59244904b0c45f9d33d09a658aec5"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Bower v. The Queen
+
+- Citation: 2013 TCC 183
+- Decision date: 2013-06-11
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5038, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Bower v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2013-06-11
+Neutral citation
+2013 TCC 183
+File numbers
+2012-3107(IT)I
+Judges and Taxing Officers
+Randall S. Bocock
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2012-3107(IT)I
+BETWEEN:
+ARCHIBALD C. BOWER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on May 31, 2013, at Toronto, Ontario
+Before: The Honourable Mr. Justice Randall Bocock
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Kathleen Beahen
+____________________________________________________________________
+JUDGMENT
+The appeal from the redeterminations made under the Income Tax Act for the Canada Child Tax Benefit, National Child Benefit Supplement between May 2009 and November 2010 for the 2007, 2008 and 2009 base taxation years and the Goods and Services Tax Credit between July 2009 and April 2011 for the 2008 and 2009 base taxation years is hereby dismissed on the basis that the Appellant was a non-resident.
+Signed at Ottawa, Canada, this 11th day of June 2013.
+“R.S. Bocock”
+Bocock J.
+Citation: 2013 TCC 183
+Date: 20130611
+Docket: 2012-3107(IT)I
+BETWEEN:
+ARCHIBALD C. BOWER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Bocock J.
+[1] For a Canadian taxpayer to qualify for the Canadian Child Tax Benefits (“CCTBs”) and the Goods and Services Tax Credits (“GSTCs”), among other things, a taxpayer must be a resident of Canada. This is expressed, like many other provisions, in the Income Tax Act (the “Act”) as a double negative definition. The definition of “eligible individual” in subsection 122.5(1) provides that:
+[…] a person is not an eligible individual, […] if the person […]
+(c) is at the beginning of the specified month a non-resident person, […]
+[2] The Minister disallow the Appellant’s CCTBs from May 2009 to November 2010 and GSTCs for the period of July 2009 to April 2011 (collectively the “relevant periods”), on the basis that Mr. Bower ceased to be eligible because he became a non-resident of Canada.
+I. Factual Background
+[3] In June 2007, the taxpayer went to Indonesia where he presently lives with his common law spouse and her child. Mr. Bower supports both of them and acts in loco parentis in relation to his spouse’s daughter in what might be termed as a non-legal adoptive parent relationship. He has purchased a house for them in Indonesia although his spouse alone holds legal title. By all accounts he provides for and assists the spouse and her daughter as a dutiful husband and father.
+[4] On average the Appellant has visited Canada not more than four times since 2007. He has done so each time for a period of between six to eight weeks.
+[5] Mr. Bower is seized of a life estate, shared with his sister in a family home located in Nova Scotia, where Mr. Bower’s brother is the holder in fee simple of the remainder interest. Mr. Bower generally stays at the house for several weeks during his travels to Canada.
+[6] As to investments, Mr. Bower maintains a trading account at TD Waterhouse, a bank account at Royal Bank, a bank account at the Estonian Credit Union and an accidental death and extended health coverage policy. All of these investments are domiciled in Canada. The bank accounts do not have large cash balances and have been maintained at least partially to assist with Mr. Bower’s daily living in Indonesia to the extent that monthly pension benefits, credit card payments and any loan payments are processed through these accounts.
+[7] The Appellant has three children and several grandchildren in Canada. He has visited them during his travels to Canada during the relevant period. His children and grandchildren are not dependents. Certain larger possessions of Mr. Bower, owned prior to 2007, remain in Canada either in Nova Scotia or with his grown children.
+[8] Mr. Bower admitted that all the accoutrements for daily life exist for him in Indonesia. He testified that he maintains an intention to return to Canada, but that would likely be precipitated by his sickness or the breakdown of his spousal relationship both of which events he admitted he wishes to avoid.
+II. Submissions
+[9] Respondent’s counsel submitted that the Appellant was ordinarily resident in Indonesia through the examination of the substantial factual components of where and how one’s life is lived. In short, nothing undertaken by the Appellant; whether banking, visits to Canada, use or deployment of Canadian property, length of travel, the regular and necessary use of assets in Indonesia and the titular nature of any association memberships in Canada can lead to any conclusion other than the fact that Mr. Bower is ordinarily resident in Indonesia with no present intention to return Canada. Any plan to return is merely as an insurance policy.
+[10] The Appellant argued that his stay in Indonesia has not extinguished his Canadian residency. The Appellant directed the Court to the case of Perlman v. The Queen, 2010 TCC 658, 2011 DTC 1045, and referenced his present intention to return as sufficient to defeat any presumption of non-residency.
+III. Analysis
+[11] The law regarding residency has been stated clearly and consistently as having a substantial factual component. Moreover, “residents”, “residency”, “ordinarily resident” or, for that matter, “non-resident person” are not defined in the Act. Although the inclusion of such a definition may have assisted at some point, Courts have had little difficulty developing a test to be utilized by a Court in the determination of residency. Beginning with the case of Thomson v. Canada, [1946] S.C.R. 209, [1946] C.T.C. 51, 2 D.T.C. 812, Estey, J. stated at paragraph 71 as follows;
+71 […] “ordinarily resident” in the place where in the settled routine of his life he regularly, normally or customarily lives. One “sojourns” at a place where he unusually, casually or intermittently visits or stays. In the former the element of permanence; in the latter that of the temporary predominates. […], but each case must be determined after all of the relevant factors are taken into consideration, but the foregoing indicates in a general way the essential difference. It is not the length of the visit or stay that determines the question. Even in this statute under section 9(b) the time of 183 days does not determine whether the party sojourns or not but merely determines whether the tax shall be payable or not by one who sojourns.
+[12] Similarly, a list of useful factual criteria to be utilized in order to arrive at such a determination was developed in the case of The Queen v. Reeder, [1975] C.T.C. 256, 75 DTC 5160, where Mahoney J. states:
+13 While the Defendant here is far removed from the jet set, including any possible imputation of a preconceived effort to avoid taxation, the factors which have been found in those cases to be material in determining the pure question of fact of fiscal residence are as valid in his case as in theirs. While the list does not purport to be exhaustive, material factors include:
+a. past and present habits of life;
+b. regularity and length of visits in the jurisdiction asserting residence;
+c. ties within that jurisdiction;
+d. ties elsewhere;
+e. permanence or otherwise of purposes of stay abroad.
+The matter of ties within the jurisdiction asserting residence and elsewhere runs the gamut of an individual’s connections and commitments: property and investment, employment, family, business, cultural and social are examples, again not purporting to be exhaustive. Not all factors will necessarily be material to every case. They must be considered in the light of the basic premises that everyone must have a fiscal residence somewhere and that it is quite possible for an individual to be simultaneously resident in more than one place for tax purposes.
+[13] As to past and present life, the Appellant’s present life is in Indonesia where he lives, cohabits and exists within a profound and substantive relationship with his spouse and her child. He possesses there the artifacts and tools of everyday living. By contrast, his heirlooms, inheritances and grown children are located in Canada, largely due to the relevant respective size, immobility and choice of each.
+[14] While his visits to Canada are almost annual, they bear the hallmarks of a vacation or holiday as to their length, season and purpose. His sustained and active membership in Rotary International in Indonesia when compared with his membership card status within certain groups in Canada also bears witness to a clear difference in the intensity of attachment as between the two countries.
+[15] Mr. Bower’s ties to Indonesia are by this own choice, whereas his familial ties to Canada are not. His choice of maintaining bank accounts and credit cards domiciled in Canada are, by his own admission, for the purposes of assisting him with daily living in Indonesia where, again by his testimony, the banking system leaves something to be desired at least to the extent of middle aged foreigners attempting to use that banking system.
+[16] Mr. Bower’s ties and nexus to Indonesia are not to be underestimated in light of his present family, economic and social interaction and obligations there. Furthermore, the evidence of Mr. Bower’s spouse’s discontinuance of previous applications for entry into Canada, the undesirable circumstance (either ill health or spousal separation) which may give rise to a renewed intention to return to Canada and Mr. Bower’s lack of comparatively important economic, commercial or social ties to Canada leave the Court with no other conclusion other than Mr. Bower’s “fiscal residence” is more factually and substantially situate in Indonesia rather than in Canada.
+[17] This finding is consistent with Perlman since the ratio in that much more equivocal case was related to the clearly uninterrupted intention of the taxpayer to return to Canada, not as a worst case scenario, but rather as a long-term consistently expressed career goal and life plan. By contrast, although Mr. Bower says he will return to Canada at some future date, the Court finds that this would require him to alter his present intention, to sever or transplant his most meaningful relationships and to transfer the trappings of daily living from Indonesia such that his ordinary and primary residence reverts to Canada. Until that time, Mr. Bower remains a non-resident of Canada.
+[18] On the basis of the foregoing, the appeal is dismissed.
+Signed at Ottawa, Canada, this 11th day of June 2013.
+“R.S. Bocock”
+Bocock J.
+CITATION: 2013 TCC 183
+COURT FILE NO.: 2012-3107(IT)I
+STYLE OF CAUSE: ARCHIBALD C. BOWER AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: May 31, 2013
+REASONS FOR JUDGMENT BY: The Honourable Mr. Justice Randall Bocock
+DATE OF JUDGMENT: June 11, 2013
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Kathleen Beahen
+COUNSEL OF RECORD:
+For the Appellant:
+Name: N/A
+Firm:
+For the Respondent: William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

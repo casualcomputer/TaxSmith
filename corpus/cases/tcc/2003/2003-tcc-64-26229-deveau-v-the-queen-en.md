@@ -1,0 +1,152 @@
+---
+title: "Deveau v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26229/index.do"
+last_modified: "2003-02-25"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 TCC 64"
+citation2: ""
+neutral_citation: "2003 TCC 64"
+decision_date: "2003-02-25"
+language: "en"
+item_id: "26229"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4026
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T18:30:28.348000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "1cffd438adff2850a0af73906ca2bdc3ec712fdd55eccb34a034c623dc42769c"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Deveau v. The Queen
+
+- Citation: 2003 TCC 64
+- Decision date: 2003-02-25
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4026, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Deveau v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-02-25
+Neutral citation
+2003 TCC 64
+File numbers
+2002-3461(IT)I
+Judges and Taxing Officers
+François M. Angers
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2002-3461(IT)I
+BETWEEN:
+BRIAN DEVEAU,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+_______________________________________________________________
+Appeal heard on January 21, 2003 at Moncton, New Brunswick
+Before: The Honourable Judge François Angers
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Christa MacKinnon
+_______________________________________________________________
+JUDGMENT
+The appeals from the assessments made under the Income Tax Act for the 1998 and 1999 taxation years are allowed and the assessments are referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the automobile, travel and accommodation expenses be allowed for both taxation years.
+Signed at Edmundston, New Brunswick, this 25th day of February 2003.
+"François Angers"
+J.T.C.C.
+Citation: 2003TCC64
+Date: 20030225
+Docket: 2002-3461(IT)I
+BETWEEN:
+BRIAN DEVEAU,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Angers, J.T.C.C.
+[1] Brian Deveau is appealing an assessment for both his 1998 and 1999 taxation years. In reassessing the appellant for 1998, the Minister of National Revenue (the "Minister") reallocated the Appellant's employment income to business income and allowed $3,644.32 of the $12,688.59 expenses claimed. In the 1999 reassessment, the Appellant's employment income was reallocated to business income and $2,675.32 of the $23,475.32 business expenses claimed was allowed. The amounts of the disallowed expenses are not in issue. The issue is whether the Appellant is entitled to claim these expenses as legitimate business expenses rather than as personal expenses.
+[2] In the 1998 taxation year, the Appellant claimed $7,327.27 for automobile expenses, $217.00 for travel expenses and $1,500 for accommodations. In the 1999 taxation year, the Appellant claimed $10,988.27 for automobile expenses and $9,811.73 for travel expenses. Is the Appellant entitled to claim these expenses? The Minister relied on the following assumptions of fact, which were admitted or denied by the Appellant as indicated:
+(b) at all relevant times the Appellant had a contract (the "Contract") with Gosine Sulley & Associates to provide computer services to NBTel in Saint John, New Brunswick; (denied)
+(c) at all relevant times the Appellant was carrying on a business of providing computer services; (admitted)
+(d) at all relevant times the Appellant's home was in Moncton, New Brunswick; (admitted)
+(e) the Contract specified that an office was to be made available to the Appellant at NBTel's premises in Saint John; (admitted)
+(f) the Contract specified that all supplies and services, including secretarial services, required to perform the services under the Contract would be supplied to the Appellant by NBTel; (admitted)
+(g) the Contract did not require the Appellant to maintain an office in his home in Moncton; (denied)
+(h) the Appellant maintained an office in his home in Moncton; (admitted)
+(i) the Appellant was required under the terms of the Contract to provide the services at NBTel's premises on all business days for 7 1/2 hours per day; (denied)
+(j) the Contract required the Appellant to be responsible for all living and travel expenses associated with the performance of the Contract in the city of Saint John, but any reasonable travel expenses incurred in connection with the performance of the Appellant's services outside the Saint John area would be reimbursed by NBTel; (admitted)
+(k) the expenses disallowed were all in relation to the expenses the Appellant incurred in travelling back and forth from his home in Moncton to NBTel's office in Saint John, as well as his living accommodations while in Saint John; (denied)
+(l) the expenses noted in subparagraph 11(k) above were personal expenses of the Appellant; (denied)
+[3] The Appellant began working as an employee in the computer industry in 1996. In 1998, he was approached by a group of consulting firms to do contract work, and he eventually accepted their proposal and left his employment. Before doing so, he inquired of an accountant and C.C.R.A. officials what were the tax consequences of going into business on his own. He was given a small business guide and told that the expenses of running a motor vehicle to earn business income were deductible (Exhibit A-1).
+[4] At his home in Moncton, New Brunswick, he converted a bedroom into an office and operated from there. His first contract in 1998 was for NBTel. The contract was with Gosine Sulley & Associates, which acted as an intermediary. The contract (Tab 4 Exhibit R-1) stipulated that the Appellant's services were to be provided at the client's premises on all business days for 7 1/2 hours per day. The client's premises are located in Saint John, New Brunswick. Although the contract was not amended, the Appellant testified that he was not required to be there on a daily basis and that he sometimes spent a "full week" working for the client out of his home. That assertion was corroborated by a letter dated September 9, 2001, from Shelley Bartlett of Xwave Solutions Inc., (Exhibit A-2) an affiliate of NBTel. The Appellant further added that his services were required on an "as needed basis" so the 7 1/2 hours stipulated in the contract was only a control mechanism for NBTel in order not to go over budget. However, time had to be approved by NBTel. That letter (A-2) confirms that the Appellant was responsible for any transportation and accommodation expenses he may have incurred since NBTel or Xwave Solutions Inc. would only cover expenses if he needed to go on location outside Saint John, New Brunswick.
+[5] The Agreement between the Appellant and NBTel and/or Xwave Solutions Inc. could be terminated by either party upon 30 days notice. An amendment dated May 28, 2001, was later agreed to (Exhibit A-3) by the parties regarding termination, which was immediate upon non-performance and which required 15 working days prior notice for any other reason.
+[6] The Appellant further testified that the contract did not reflect the way his business was conducted. He had to operate from his office at home since he could not perform his other tasks on site at the NBTel offices in Saint John. The home office was needed to keep up to date. He sometimes had access to NBTel's infrastructure by using a secured I.D., an example of which was produced in evidence (Exhibit A-5).
+[7] On cross-examination, the Appellant acknowledged that he had modified some terms of the original contract but felt there was no need to change the 7 1/2 hours per day clause since he did not consider that to be a problem for the reasons cited above. He also acknowledged that NBTel was his only client for both taxation years but that he had other offers, which he turned down for cost reasons. He preferred having one good client given the industry's decline (downturn). On the issue of travelling, the Appellant kept a log book. At first, he would make a return trip from Moncton to Saint John on a daily basis; then he would sometimes stay over at a friend's house for $50 a night to avoid travelling every day. In short, some weeks he was in Saint John, others he was not, and when he was, sometimes, he made round trips. He conceded to not being in his Moncton office very often.
+[8] Lucie Lajoie, business auditor for the Respondent, took the position that according to the contract, the principal place of business was in Saint John. No new facts were revealed. She reiterated that the reasons for disallowing the expenses were that they were personal and not incurred for producing income. In fact, the Respondent's position is that the Appellant was not working from his home. He was making round trips on most days and the contract stipulated that he had to work on site. Both the letter (Exhibit A-2) and the amendment to the contract (Exhibit A-3) were not retroactive such that the situation for both taxation years was the same (Tab 4 Exhibit R-1).
+[9] The Appellant's position is that the services were rendered at his client's place of business and that the expenses were incurred in the pursuit of business income. His principal place of business was Moncton and although his contract stipulated that the work was to be performed in Saint John, in fact, he was not always there.
+[10] The Appellant's income was originally assessed to be employment income. His audit along with the audit of Gosine Sulley & Associates caused him to lose his contract with NBTel. The Appellant has now returned to his former job.
+[11] The amount for these expenses is not in issue.
+[12] Although the Appellant's business was conducted out of his home, there is no doubt that the terms of the contract required that the work be performed at NBTel's premises on a daily basis for the duration of the contract. I believe that those terms were the basis for which the Minister originally assessed the Appellant's income to be employment rather than business income. After reconsideration, the Minister reassessed on the basis of business income but disallowed the travelling and accommodation expenses since they were considered to be personal.
+[13] The facts presented at the trial have revealed that the Appellant's work was not always performed at NBTel's premises. Although no specific numbers were revealed, he actually worked out of his home some days and, at times, some weeks, he actually worked out of his home in Moncton. The Appellant was able to access NBTel's infrastructure through a secure I.D. and he travelled to Saint John at NBTel's premises according to the different stages of the project. Although that part of the evidence was not corroborated by other witnesses, I have no reason to disbelieve the Appellant.
+[14] The Appellant was operating a computer consulting business out of his home in Moncton, New Brunswick, and in order to gain income from his business, at times, as needed, his presence was required at his client's premises. His expenses would probably have been greater had he chosen not to make round trips on a daily basis, but either way they were incurred for business purposes since that is where his business required him to be.
+[15] Even though the contract could be terminated on short notice, it cannot be argued in this case that the expenses were unreasonable in that the Appellant could have arranged for long-term accommodations at a cheaper rate. In any event, when not travelling on round trips, the Appellant was staying at a friend's house for $50 a night.
+[16] I therefore find that these expenses are reasonably applicable to his source of income: the Appellant was working from his home in Moncton and travelled to his client's premises on an "as needed" basis. The travelling back and forth and the accommodations were reasonably applicable to the business he operated out of his home.
+[17] The appeals are therefore allowed and the matter is referred back to the Minister for recommendation and reassessment on the basis that the automobile, travel and accommodation expenses be allowed for both taxation years.
+Signed at Edmundston, New Brunswick, this 25th day of February 2003.
+"François Angers"
+J.T.C.C.
+CITATION:
+2003TCC64
+COURT FILE NO.:
+2002-3461(IT)I
+STYLE OF CAUSE:
+BRIAN DEVEAU
+v. Her Majesty the Queen
+PLACE OF HEARING
+Moncton, New Brunswick
+DATE OF HEARING
+January 21, 2003
+REASONS FOR JUDGMENT BY:
+The Honourable Judge François Angers
+DATE OF JUDGMENT
+February 25, 2003
+APPEARANCES:
+Counsel for the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Christa MacKinnon
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,161 @@
+---
+title: "Shahbazi v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/144646/index.do"
+last_modified: "2016-05-25"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2016 TCC 129"
+citation2: ""
+neutral_citation: "2016 TCC 129"
+decision_date: "2016-05-25"
+language: "en"
+item_id: "144646"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3084
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T10:50:28.229000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "251e6a71d9ca754b2dbf264fe001058aa3122a4826a9c59fa771cbaf86458588"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Shahbazi v. The Queen
+
+- Citation: 2016 TCC 129
+- Decision date: 2016-05-25
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3084, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Shahbazi v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2016-05-25
+Neutral citation
+2016 TCC 129
+File numbers
+2015-5085(IT)I
+Judges and Taxing Officers
+Judith Woods
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2015-5085(IT)I
+BETWEEN:
+HOSSEIN SHAHBAZI,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on May 18, 2016 at Windsor, Ontario
+Before: The Honourable Justice Judith Woods
+Appearances:
+Counsel for the Appellant:
+Gordon M. Gervais
+Counsel for the Respondent:
+Alexander Nguyen
+Jack Warren
+JUDGMENT
+In accordance with the attached Reasons for Judgment, the appeal with respect to assessments made under the Income Tax Act for the Appellant’s 2006 and 2007 taxation years is dismissed.
+Signed at Toronto, Ontario this 25th day of May 2016.
+“J. Woods”
+Woods J.
+Citation: 2016 TCC 129
+Date: 20160525
+Docket: 2015-5085(IT)I
+BETWEEN:
+HOSSEIN SHAHBAZI,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Woods J.
+[1] Hossein Shahbazi brings this appeal under the Income Tax Act to dispute the disallowance of tax credits in respect of donations for the 2006 and 2007 taxation years in the amounts of $20,000 and $15,000, respectively.
+Appellant’s evidence [2] It is sufficient to provide a brief summary of Mr. Shahbazi’s evidence.
+[3] For a period of time in 1983, Mr. Shahbazi found himself in dire financial straits. He was a student in Windsor at the time, and had been financially assisted by his parents, who lived in Iran. The parents’ financial support ended in 1983 as the transfer of funds to Canada from Iran became impossible.
+[4] In Mr. Shahbazi’s time of need, a Presbyterian church in Windsor housed him for a few months. In gratitude, Mr. Shahbazi determined at that time to help others when he was able.
+[5] In 2006, Mr. Shahbazi became aware of the possibility of making in-kind charitable donations. Mr. Shahbazi’s accountant, Sam Owuzu, told him that a charitable organization was taking in-kind donations which also provided a tax benefit. The accountant was aware that Mr. Shahbazi had amassed large amounts of household goods as a result of forfeitures from rental units that he owned. Mr. Shahbazi also testified that he acquired other goods from yard sales.
+[6] The charity, International Farm and Relief Mission, then contacted Mr. Shahbazi and arranged to pick up the goods from two storage locations. Mr. Shahbazi stated that the goods filled a cube type U-haul truck. This occurred in November 2006.
+[7] Mr. Shahbazi testified that the charity told him that it had the goods appraised at $20,000 and the charity issued a tax receipt for this amount. Mr. Shahbazi testified that this was a reasonable valuation. The tax receipt that was entered into evidence indicates that the donation was made on December 20, 2006. The receipt does not mention that the donation was in property and not cash.
+[8] In 2007, a similar arrangement was made with another registered charity. Mr. Shahbazi testified that his accountant informed him about donations being accepted by Triumphant Church of Christ Int’l.
+[9] The 2007 donation worked the same way. The charity picked up the goods and appraised them at $15,000, which Mr. Shahbazi said was a reasonable valuation. The tax receipt for the donation stated that it was issued on February 5, 2008. The receipt also indicated that the donation was received during January to December. This would have put the date of the donation sometime in 2007.
+[10] Mr. Shahbazi stated that he became aware in 2009 that the Canada Revenue Agency (CRA) was not accepting these tax receipts. He testified that this came as a surprise to him because prior to this the CRA had informed him that the claims had been allowed. A letter from the CRA that was entered into evidence confirmed that the donation for the 2007 taxation year had been allowed after review.
+[11] Mr. Shahbazi entered into evidence a list of the types of goods that he gave to the two charities. The list, which contains 31 types of property, had recently been prepared at the suggestion of Mr. Shahbazi’s counsel.
+Discussion (1) Introduction
+[12] There are three issues in this appeal.
+(a) Did Mr. Shahbazi donate property to the two charities with a value of $20,000 in 2006 and $15,000 in 2007?
+(b) Should the tax credits be disallowed on the basis that the tax receipts were deficient?
+(c) Should the appeal be allowed for the 2006 taxation year on the basis that the Reply does not mention the relevant charity, International Farm and Relief Mission?
+[13] Before discussing these issues, I would comment concerning the reliability of Mr. Shahbazi’s evidence. It is not necessary for me to make a credibility finding in this appeal because the appeal should be dismissed even if Mr. Shahbazi’s evidence is accepted. I choose to make no finding on credibility, but I would mention that the Crown took the position that Mr. Shahbazi’s evidence was credible.
+(2) Are tax receipts deficient?
+[14] In order for the tax credits claimed by Mr. Shahbazi to be allowed, tax receipts must be provided to the Minister that contain prescribed information. The necessity for the prescribed information is provided for in s. 118.1(2) of the Income Tax Act.
+[15] The prescribed information that is relevant in this appeal is set out in subsection 3501(1) of the Income Tax Regulations. The Crown takes the position that the tax receipts fail to comply with this provision in three ways.
+(a) First, the receipts do not contain both the date that the donation was made and the date that the receipts were issued.
+(b) Second, the receipts do not contain a brief description of the property, as required for non-cash donations.
+(c) Third, the receipts do not contain the name and address of the appraiser, which is required when the property is appraised.
+[16] It is clear from the tax receipts that were entered into evidence that these requirements are not satisfied.
+[17] It is sufficient to focus only on the second requirement above that the tax receipts contain a brief description of the property donated. The tax receipts in this case do not contain any description of the property donated, and do not even mention that the donations are in property and not cash. This is a clear failure to comply with one of the necessary requirements to claim the tax credits.
+[18] Mr. Shahbazi’s counsel submits that it should not be necessary to have absolute compliance with these Regulations. No judicial authority was provided.
+[19] Even if some flexibility in interpreting the necessary requirements is appropriate, it is not possible in my view to completely overlook the requirement that a tax receipt for a donation of non-cash property must contain a brief description of the property donated. I would note that the language in s. 118.2(1) of the Income Tax Act is mandatory. This conclusion is also supported by the recent decision in The Queen v. Castro, 2015 FCA 225.
+(3) Other issues
+[20] In light of the conclusion above, it is not necessary that I decide whether Mr. Shahbazi donated property with the values that are reflected on the tax receipts. I will not consider this issue.
+[21] I would comment, however, on a procedural issue that was raised by counsel for Mr. Shahbazi at the commencement of the hearing. Counsel suggested that the appeal for the 2006 taxation year should be allowed because the Reply does not mention the 2006 charity, International Farm and Relief Mission.
+[22] This issue comes down to a matter of fairness. Upon a detailed review of the Reply after the hearing, I have concluded that the Reply adequately provides notice to Mr. Shahbazi of the case that he has to meet. There is no unfairness.
+[23] Although the Reply does not mention the International Farm charity by name, the Reply does raises the issue as to whether donations were made to any registered charity in the 2006 and 2007 taxation years and whether proper tax receipts were issued by any registered charity. This is clear in the Reply from the statement of facts and grounds relied on.
+[24] Accordingly, I conclude that the failure of the Reply to mention the name, International Farm and Relief Mission, is not grounds to allow the appeal for the 2006 taxation year.
+(4) Conclusion
+[25] In light of the conclusions above, the appeal will be dismissed.
+Signed at Toronto, Ontario this 25th day of May 2016.
+“J. Woods”
+Woods J.
+CITATION:
+2016 TCC 129
+COURT FILE NO.:
+2015-5085(IT)I
+STYLE OF CAUSE:
+HOSSEIN SHAHBAZI and HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Windsor, Ontario
+DATE OF HEARING:
+May 18, 2016
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Judith Woods
+DATE OF JUDGMENT:
+May 25, 2016
+APPEARANCES:
+Counsel for the Appellant:
+Gordon M. Gervais
+Counsel for the Respondent:
+Alexander Nguyen
+Jack Warren
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Gordon M. Gervais
+Firm:
+Gordon M. Gervais
+Windsor, Ontario
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,269 @@
+---
+title: "Roopchand c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/212963/index.do"
+last_modified: "2016-12-08"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2016 CCI 279"
+citation2: ""
+neutral_citation: "2016 CCI 279"
+decision_date: "2016-12-08"
+language: "fr"
+item_id: "212963"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2949
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T16:46:23.032000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "767149805aa43cdcd2b23ca8d949ef258afd885b5586f4eae3c0e8ccae50dce2"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Roopchand c. La Reine
+
+- Citation: 2016 CCI 279
+- Decision date: 2016-12-08
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2949, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Roopchand c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2016-12-08
+Référence neutre
+2016 CCI 279
+Numéro de dossier
+2016-1860(IT)APP
+Juges et Officiers taxateurs
+Réal Favreau
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2016-1860(IT)APP
+ENTRE :
+MOHAN ROOPCHAND,
+demandeur,
+et
+SA MAJESTÉ LA REINE,
+défenderesse.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Demande entendue sur preuve commune avec les demandes de Maria Roopchand (2016-1865(IT)APP) et de
+Eva Roopchand (2016-1864(IT)APP)
+le 16 août et le 28 septembre 2016, à Toronto, Ontario.
+Devant : L’honorable juge Réal Favreau
+Comparution :
+Pour le demandeur :
+Le demandeur lui-même
+Avocat de la défenderesse :
+Me Derek Edwards
+JUGEMENT
+APRÈS lecture de la demande de prorogation du délai pendant lequel un avis d’opposition peut être déposé auprès de la ministre du Revenu national à l’égard de la nouvelle cotisation datée du 14 août 2014 établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2010 du demandeur;
+ET APRÈS avoir entendu les deux parties;
+La demande est rejetée sans dépens conformément aux motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 8e jour de décembre 2016.
+« Réal Favreau »
+Juge Favreau
+Dossier : 2016-1864(IT)APP
+ENTRE :
+EVA ROOPCHAND,
+demanderesse,
+et
+SA MAJESTÉ LA REINE,
+défenderesse.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Demande entendue sur preuve commune avec les demandes de Mohan Roopchand (2016-1860(IT)APP) et de
+Maria Roopchand (2016-1865(IT)APP)
+le 16 août et le 28 septembre 2016, à Toronto, Ontario.
+Devant : L’honorable juge Réal Favreau
+Comparution :
+Pour la demanderesse :
+La demanderesse elle-même
+Avocat de la défenderesse :
+Me Derek Edwards
+JUGEMENT
+APRÈS lecture de la demande de prorogation du délai pendant lequel un avis d’appel peut être déposé auprès de la Cour canadienne de l’impôt à l’égard de la nouvelle cotisation datée du 5 avril 2012 établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2010 de la demanderesse;
+ET APRÈS avoir entendu les deux parties;
+La demande est rejetée sans dépens conformément aux motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 8e jour de décembre 2016.
+« Réal Favreau »
+Juge Favreau
+Dossier : 2016-1865(IT)APP
+ENTRE :
+MARIA ROOPCHAND,
+demanderesse,
+et
+SA MAJESTÉ LA REINE,
+défenderesse.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Demande entendue sur preuve commune avec les demandes de Mohan Roopchand (2016-1860(IT)APP) et de Eva Roopchand (2016‑1864(IT)APP)
+le 16 août et le 28 septembre 2016, à Toronto, Ontario.
+Devant : L’honorable juge Réal Favreau
+Comparution :
+Pour la demanderesse :
+La demanderesse elle-même
+Avocat de la défenderesse :
+Me Derek Edwards
+JUGEMENT
+APRÈS lecture de la demande de prorogation du délai pendant lequel un avis d’opposition peut être déposé auprès de la ministre du Revenu national à l’égard de la nouvelle cotisation datée du 14 août 2014 établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2010 de la demanderesse;
+ET APRÈS avoir entendu les deux parties;
+La demande est rejetée sans dépens conformément aux motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 8e jour de décembre 2016.
+« Réal Favreau »
+Juge Favreau
+Référence : 2016 CCI 279
+Date : 20161208
+Dossier : 2016-1860(IT)APP
+ENTRE :
+MOHAN ROOPCHAND,
+demandeur,
+et
+SA MAJESTÉ LA REINE,
+défenderesse.
+Dossier : 2016-1864(IT)APP
+ET ENTRE :
+EVA ROOPCHAND,
+demanderesse,
+et
+SA MAJESTÉ LA REINE,
+défenderesse.
+Dossier : 2016-1865(IT)APP
+ET ENTRE :
+MARIA ROOPCHAND,
+demanderesse,
+et
+SA MAJESTÉ LA REINE,
+défenderesse.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Favreau
+[1] La ministre du Revenu national (la « ministre ») a initialement établi une cotisation à l’égard de chacun des demandeurs pour l’année d’imposition 2010 fondée sur les déclarations de revenus produites. Les avis de cotisation d’Eva Roopchand (« Eva ») et de Mohan Roopchand (« Mohan ») étaient datés du 29 août 2011. L’avis de cotisation de Maria Roopchand (« Maria ») était daté du 23 janvier 2012.
+[2] La ministre a établi une nouvelle cotisation à l’égard de chacun des demandeurs pour l’année d’imposition 2010 au moyen d’avis de nouvelle cotisation datés du 5 avril 2012.
+[3] Le 9 juillet 2012, Maria et Mohan ont signifié à la ministre des avis d’opposition concernant les nouvelles cotisations pour l’année d’imposition 2010. Le 27 novembre 2012, Eva a déposé une demande de prorogation du délai afin de signifier un avis d’opposition à la ministre. Au moyen d’une lettre datée du 2 janvier 2013, la ministre a informé Eva que sa demande était accueillie et que son avis d’opposition était réputé avoir été déposé à la date de cette lettre, qui a été envoyée à Eva à l’adresse suivante : 153, promenade Saint Lucie, North York (Ontario) M9M 1T4.
+[4] La ministre a établi une nouvelle cotisation à l’égard de Maria et de Mohan pour l’année d’imposition 2010 au moyen d’avis de nouvelle cotisation datés du 14 août 2014.
+[5] Au moyen d’une lettre datée du 25 juillet 2014 envoyée par Xpresspost à Eva Roopchand au 37, promenade Little, Scarborough (Ontario) M1B 1Y6, la ministre a confirmé la nouvelle cotisation de l’année d’imposition 2010 et la pénalité pour faute lourde imposée en vertu du paragraphe163(2) de la Loi. Étant donné que le cinquième paragraphe de cette lettre est pertinent afin de statuer sur la demande d’Eva, il est approprié, dans les circonstances de la reproduire intégralement :
+[traduction]
+Bien que vous ayez mentionné votre intention de résider dans le condominium mentionné ci-dessus, vous n’avez pas été en mesure d’étayer votre demande. Comme il est mentionné dans notre lettre datée du 17 avril 2014, pour tenir compte de l’unité comme une résidence principale, l’unité doit être normalement habitée par vous. Par conséquent, nous avons demandé de produire des documents supplémentaires afin d’étayer votre prétention selon laquelle vous avez habité la propriété normalement. Nous nous attendions à recevoir les renseignements avant le 20 mai 2014. Cependant, nous n’avons reçu aucun document. Le 17 juin 2014, nous avons parlé à votre représentant, M. Jerry Woznica, afin de présenter une autre demande de renseignements pour laquelle il a demandé une autre prorogation du délai de deux semaines.
+[6] Dans la lettre en question, on a en outre informé Eva que, si elle était en désaccord avec la décision, elle pouvait interjeter appel devant la Cour canadienne de l’impôt dans les 90 jours à compter de la date à laquelle l’avis de ratification lui a été envoyé. De plus, le formulaire de renseignements (RC-4443-2) sur la façon d’interjeter appel devant la Cour était joint à la lettre qui a été envoyée par courrier ordinaire à M. Jerry Woznica, un comptable agréé du cabinet Harris & Partners qui était le représentant d’Eva.
+[7] Eva n’a pas déposé un avis d’appel pour l’année d’imposition 2010 auprès de la Cour canadienne de l’impôt dans le délai prévu par le paragraphe 169(1) de la Loi, la date limite étant le 23 octobre 2014.
+[8] De plus, Eva n’a pas déposé une demande de prorogation du délai pour déposer un avis d’appel auprès de la Cour canadienne de l’impôt en vertu du paragraphe 167(1) de la Loi, la date limite étant le 23 octobre 2015.
+[9] Eva a déposé une demande en vue d’obtenir une ordonnance de prorogation du délai pendant lequel un deuxième avis d’opposition peut être déposé pour l’année d’imposition 2010. La demande a été déposée auprès de la Cour canadienne de l’impôt le 12 mai 2016 et non auprès de la ministre.
+[10] Maria et Mohan n’ont pas signifié à la ministre leurs avis d’opposition dans le délai imparti en vertu du paragraphe 165(1) de la Loi. La date limite était le 12 novembre 2014. Le 12 novembre 2015 était le délai d’un an après le dernier jour pour signifier les avis d’opposition.
+[11] Le 15 avril 2016, Paul Gupta & Associates, un cabinet juridique et comptable, a déposé, au nom de Maria, une demande en vertu du paragraphe 166.1(1) de la Loi en vue d’obtenir une ordonnance prorogeant le délai pour signifier un avis d’opposition auprès de la ministre pour l’année d’imposition 2010.
+[12] La ministre a rejeté la demande de Maria, puisque l’avis d’opposition pour l’année d’imposition 2010 a été reçu après l’expiration du délai de prescription et elle a avisé Maria de sa décision au moyen d’une lettre datée du 2 mai 2016.
+[13] Maria a déposé ensuite une demande en vue d’obtenir une ordonnance de prorogation du délai pendant lequel un avis d’opposition peut être signifié pour l’année d’imposition 2010. La demande a été déposée auprès de la Cour canadienne de l’impôt le 12 mai 2016.
+[14] Mohan s’est prétendument opposé à la nouvelle cotisation pour l’année d’imposition 2010 au moyen d’un avis d’opposition daté du 15 avril 2016.
+[15] Mohan n’a pas déposé une demande de prorogation du délai auprès de la ministre pour s’opposer à la nouvelle cotisation au plus tard le 12 novembre 2015.
+[16] Mohan a déposé une demande de prorogation du délai pendant lequel un avis d’opposition peut être déposé pour l’année d’imposition 2010. La demande a été signifiée auprès de la Cour canadienne de l’impôt le 14 avril 2016.
+[17] La ministre a rejeté la demande de Mohan, puisque l’avis d’opposition pour l’année d’imposition 2010 a été reçu après l’expiration du délai de prescription et elle a avisé Mohan en conséquence au moyen d’une lettre datée du 2 mai 2016.
+[18] Eva, Maria et Mohan Roopchand ont témoigné à l’audience.
+[19] Eva a allégué qu’elle n’a pas reçu la lettre de confirmation relative à la nouvelle cotisation datée du 26 juillet 2014 et que son représentant, M. Jerry Woznica, ne l’a pas reçue également. Elle a également allégué que la lettre du 26 juillet 2014 a été envoyée à la mauvaise adresse. Elle a indiqué qu’à cette date, elle demeurait au 37, rue Little Leaf.
+[20] Maria et Mohan ont allégué qu’ils n’ont pas reçu les avis de nouvelle cotisation datés du 14 août 2014, puisqu’ils ont été envoyés seulement à leur représentant, M. Woznica, qui a allégué ne pas les avoir reçues.
+[21] M. Roopchand a expliqué que M. Woznica avait été le comptable de la famille au cours des 25 dernières années. Comme M. Woznica ne faisait rien pour régler les questions fiscales auprès de l’Agence du revenu du Canada (« l’ARC »), M. Roopchand a décidé de recourir aux services d’un avocat fiscaliste qui l’a renvoyé à un comptable fiscaliste, M. Paul Gupta. M. Roopchand ne se souvient pas de la date à laquelle il a communiqué avec M. Paul Gupta, mais il croit que c’était en 2013.
+[22] M. Roopchand a indiqué qu’il a reçu un courriel du cabinet de M. Gupta, l’informant que les avis d’opposition avaient été déposés le 10 avril 2015. Peu après, il a communiqué avec l’ARC afin de vérifier si les documents avaient été reçus. L’ARC lui a dit qu’elle n’avait reçu aucun document qui ressemblait à des avis d’opposition. Le 10 avril 2016, M. Roopchand a demandé à son nouveau comptable fiscaliste d’appeler l’ARC et d’envoyer de nouveau les avis d’opposition en question.
+[23] M. Jerry Woznica a également témoigné à l’audience. Il a déclaré qu’il a participé au dépôt des avis d’opposition des nouvelles cotisations initiales. Il a expliqué que lui et ses clients ont tardé à recueillir leurs documents afin de déposer les avis d’opposition à temps en raison de la maladie de M. Roopchand et du décès de son père. Il a mentionné qu’ils avaient demandé une prorogation du délai et que la demande avait été accueillie.
+[24] M. Woznica a confirmé qu’il avait suggéré à M. Roopchand de retenir les services d’un avocat fiscaliste et qu’il n’avait pas déposé les avis d’opposition des dernières nouvelles cotisations.
+[25] M. Woznica a également déclaré que, pour tout document reçu concernant la famille Roopchand, il leur ferait parvenir les documents par télécopieur ou un membre de la famille viendrait les chercher à son bureau.
+[26] Enfin, M. Woznica a indiqué qu’il ne connaissait pas le nom de l’avocat fiscaliste dont M. Roopchand a retenu les services jusqu’en août 2016, lorsque M. Roopchand est venu à son bureau et a indiqué qu’il ne croyait pas que l’avocat fiscaliste avait fait quoi que ce soit et il a demandé à M. Woznica de continuer à traiter son dossier et de voir ce qu’il peut faire.
+[27] M. Harkirat Wadhawan du cabinet Paul Gupta & Associates a également témoigné à l’audience. On lui a demandé, en septembre 2015, d’examiner le dossier de M. Roopchand. M. Wadhawan a dit qu’il croyait que le dossier de M. Roopchand était toujours actif auprès de l’ARC. Il n’y a eu aucune confirmation des nouvelles cotisations ni des avis de nouvelle cotisation dans les dossiers de l’ARC. Il a indiqué qu’il n’a pas participé au dépôt des avis d’opposition le 10 avril 2015 et qu’il ne travaillait pas au cabinet Paul Gupta & Associates à l’époque.
+[28] En ce qui a trait à la preuve documentaire, les demandeurs ont déposé, à titre de pièce A-1, les avis d’opposition déposés le 15 avril 2015 qui ont été envoyés à l’ARC par télécopieur par suite des avis de nouvelle cotisation datés du 19 janvier 2013 pour l’année d’imposition 2010. Dans ces mêmes avis de nouvelle cotisation, l’ARC avait indiqué aux demandeurs de remettre les remboursements de la taxe de vente harmonisée qu’ils ont obtenus, puisqu’ils n’ont jamais vécu dans les biens et qu’ils ne les ont donc jamais utilisés à titre de résidence principale. Les demandeurs ont déposé également, à titre de pièce A-2, un document préparé par le cabinet Paul Gupta & Associates résumant les renseignements pertinents concernant les cotisations du revenu d’entreprise 2010 et les remboursements de la taxe sur les produits et services ou la taxe de vente harmonisée demandés à l’égard des biens appartenant aux trois demandeurs en 2010.
+Questions en litige
+[29] Les questions en litige dans les présentes demandes sont de savoir s’il convient d’accorder une prorogation du délai à Eva afin de déposer un avis d’appel devant la Cour conformément à l’article 167 de la Loi et de savoir s’il convient d’accorder une prorogation du délai à Maria et à Mohan afin de déposer un avis d’opposition auprès de la ministre conformément au paragraphe 166.1(1) de la Loi.
+Droit et discussion
+A. La situation d’Eva Roopchand
+[30] Eva a déposé un avis d’opposition auprès de la ministre le 2 janvier 2013. Par la suite, la ministre a envoyé son avis de ratification le 25 juillet 2014. Eva disposait de 90 jours à partir de la date à laquelle l’avis de ratification a été envoyé pour déposer son avis d’appel devant la Cour. Le paragraphe 169(1) de la Loi prévoit ce qui suit :
+Lorsqu’un contribuable a signifié un avis d’opposition à une cotisation, prévu à l’article 165, il peut interjeter appel auprès de la Cour canadienne de l’impôt pour faire annuler ou modifier la cotisation :
+a) après que le ministre a ratifié la cotisation ou qu’il a procédé à une nouvelle cotisation;
+b) après l’expiration des 90 jours qui suivent la signification de l’avis d’opposition sans que le ministre ait notifié au contribuable le fait qu’il a annulé ou ratifié la cotisation ou procédé à une nouvelle cotisation;
+toutefois, nul appel prévu au présent article ne peut être interjeté après l’expiration des 90 jours qui suivent la date où avis a été expédié par la poste au contribuable, en vertu de l’article 165, portant que le ministre a ratifié la cotisation ou procédé à une nouvelle cotisation.
+[31] Il n’est pas contesté qu’Eva n’a pas déposé un avis d’appel devant la Cour dans le délai de 90 jours et qu’elle n’a pas demandé à la Cour en vertu de l’article 167 de la Loi de proroger le délai pour déposer un avis d’appel. Les paragraphes 167(1) et (5) de la Loi prévoit ce qui suit :
+(1) Prorogation du délai d’appel. Le contribuable qui n’a pas interjeté appel en application de l’article 169 dans le délai imparti peut présenter à la Cour canadienne de l’impôt une demande de prorogation du délai pour interjeter appel. La Cour peut se faire droit à la demande et imposer les conditions qu’elle estime justes.
+[…]
+(5) Acceptation de la demande. Il n’est fait droit à la demande que si les conditions suivantes sont réunies :
+a) la demande a été présentée dans l’année suivant « l’expiration » du délai imparti en vertu de l’article 169 pour interjeter appel;
+b) le contribuable démontre ce qui suit :
+(i) la demande a été présentée dans l’année suivant l’expiration du délai imparti en vertu de l’article 169 pour interjeter appel;
+(A) dans le délai par ailleurs imparti pour interjeter appel, il n’a pu agir ni charger quelqu’un d’agir en son nom,
+(B) ou il avait véritablement l’intention d’interjeter appel,
+(ii) compte tenu des raisons indiquées dans la demande et des circonstances de l’espèce, il est juste et équitable de faire droit à la demande,
+(iii) la demande a été présentée dès que les circonstances le permettaient,
+(iv) l’appel est raisonnablement fondé.
+[32] Au lieu de déposer une demande de prorogation du délai pendant lequel un avis d’appel peut être déposé devant la Cour, Eva a déposé devant la Cour une demande de prorogation du délai pendant lequel un avis d’opposition peut être déposée, en ce qui a trait à ses nouvelles cotisations pour l’année d’imposition 2010.
+[33] Ce processus est entièrement dépassé et inapproprié dans les circonstances.
+[34] Je n’accepte pas l’allégation d’Eva selon laquelle elle n’a pas reçu la lettre de confirmation datée du 25 juillet 2014 parce que la lettre a été envoyée à une mauvaise adresse pour les motifs suivants : premièrement, M. Jerry Woznica, qui était le représentant d’Eva à l’époque, a reçu une copie conforme de la lettre et l’adresse postale dans les dossiers de l’ARC à l’époque pour le cabinet Harris & Partners était le 300-8920, avenue Woodbine, qui est la bonne adresse. M. Woznica n’a pas dit dans son témoignage qu’il n’avait pas reçu la lettre, mais il a dit que, s’il l’avait reçue, il l’aurait transmise à sa cliente. Deuxièmement, la lettre mentionnait expressément une conversation qui a eu lieu le 17 juin 2014 entre l’agent de l’ARC et M. Jerry Woznica, qui a demandé une prorogation de deux semaines afin de fournir la preuve qu’Eva habitait en temps normal le logement en copropriété en tant que sa résidence principale. Étant donné que seule Eva peut fournir ces renseignements, je dois présumer que M. Woznica en avait parlé à Eva. Du même coup, M. Woznica aurait dû l’informer de la prorogation de deux semaines et elle devrait savoir qu’une lettre de confirmation est prévue peu de temps après, si aucun renseignement n’est fourni à l’ARC pendant ce délai. Dans ces circonstances, elle aurait dû s’informer auprès de M. Woznica et même auprès de l’agent de l’ARC au sujet de l’état de son dossier au cours des semaines suivantes.
+B. La situation de Maria et de Mohan Roopchand
+[35] Mohan et Maria sont dans la même situation. Ils ont tous les deux fait l’objet d’une nouvelle cotisation le 14 août 2014 pour l’année d’imposition 2010. Aucun avis d’opposition n’a été déposé avant l’expiration du délai de 90 jours, conformément au paragraphe 165(1) et aucune demande de prorogation du délai afin de signifier un avis d’opposition n’a été déposée avant l’expiration du délai d’un an, conformément au paragraphe 166.1(1) et à l’alinéa 166.1(7)a) ou conformément au paragraphe 166.2(1) et à l’alinéa 166.2(5)a) de la Loi.
+[36] Le paragraphe 165(1) de la Loi prévoit ce qui suit :
+Oppositions à une cotisation. Le contribuable qui s’oppose à une cotisation prévue par la présente partie peut signifier au ministre, par écrit, un avis d’opposition exposant les motifs de son opposition et tous les faits pertinents, dans les délais suivants :
+a) s’il s’agit d’une cotisation, pour une année d’imposition, relative à un contribuable qui est un particulier (sauf une fiducie) ou une succession assujettie à l’imposition à taux progressifs pour l’année, au plus tard au dernier en date des jours suivants :
+(i) le jour qui tombe un an après la date d’échéance de production qui est applicable au contribuable pour l’année,
+(ii) le quatre-vingt-dixième jour suivant la date d’envoi de l’avis de cotisation;
+b) dans les autres cas, au plus tard le quatre-vingt-dixième jour suivant la date d’envoi de l’avis de cotisation.
+[37] Le paragraphe 166.1(1) et l’alinéa 166.1(7)a) de la Loi prévoient ce qui suit :
+(1) Prorogation du délai par le ministre. Le contribuable qui n’a pas signifié d’avis d’opposition à une cotisation en application de l’article 165 ni présenté de requête en application du paragraphe 245(6) dans le délai imparti peut demander au ministre de proroger le délai pour signifier l’avis ou présenter la requête.
+[…]
+(7) Conditions d’acceptation de la demande. Il n’est fait droit à la demande que si les conditions suivantes sont réunies :
+a) la demande est présentée dans l’année suivant l’expiration du délai par ailleurs imparti pour signifier un avis d’opposition ou présenter une requête;
+[38] Le paragraphe 166.2(1) et l’alinéa 166.2(5)a) de la Loi prévoient ce qui suit :
+(1) Prorogation du délai par la Cour canadienne de l’impôt. Le contribuable qui a présenté une demande en application de l’article 166.1 peut demander à la Cour canadienne de l’impôt d’y faire droit après :
+a) le rejet de la demande par le ministre;
+b) l’expiration d’un délai de 90 jours suivant la présentation de la demande, si le ministre n’a pas avisé le contribuable de sa décision.
+Toutefois, une telle demande ne peut être présentée après l’expiration d’un délai de 90 jours suivant la date de la mise à la poste de l’avis de la décision au contribuable.
+[…]
+(5) Acceptation de la demande. Il n’est fait droit à la demande que si les conditions suivantes sont réunies :
+a) la demande a été présentée en application du paragraphe 166.1(1) dans l’année suivant l’expiration du délai par ailleurs imparti pour signifier un avis d’opposition ou présenter une requête;
+[39] À l’audience, Mohan a allégué que M. Gupta lui avait dit que les avis d’opposition avaient été déposés en son nom et au nom de Maria le 10 avril 2015 en ce qui concerne les nouvelles cotisations de l’année d’imposition 2010. Les avis d’opposition en question n’ont pas été déposés en preuve devant la Cour et M. Gupta ne s’est pas présenté non plus pour corroborer ces renseignements. L’ARC ne possède aucun dossier des avis d’opposition et elle confirme par affidavit que son personnel n’a pas été en mesure de trouver une demande de prorogation du délai pour s’opposer qui a été déposée auprès de la ministre au plus tard le 12 novembre 2015, cette date étant le dernier jour pour déposer une demande en vertu de l’alinéa 166.1(7)a) de la Loi.
+[40] Je tiens à souligner également que, le 10 avril 2015, Mohan et Maria auraient dû déposer une demande de prorogation du délai auprès de la ministre dans laquelle un avis d’opposition pouvait être déposé, puisqu’ils étaient dans le délai d’un an. Ils ont eu l’occasion de remédier au dépôt tardif de leurs avis d’opposition, mais ils n’ont pas respecté le bon processus (en présumant qu’ils ont déposé leurs avis d’opposition à cette date, comme ils le prétendent).
+[41] Aucune explication plausible n’a été présentée quant à la raison pour laquelle la correspondance de l’ARC envoyée à M. Woznica le 25 juillet 2014 (la date de l’avis de ratification de la nouvelle cotisation d’Eva) et le 14 août 2014 (la date des avis de nouvelle cotisation de Mohan et Maria) n’aurait pas été reçue par M. Woznica à la lumière du fait que l’ARC avait dans ses dossiers la bonne adresse de M. Woznica chez Harris & Partners.
+[42] Pour les motifs susmentionnés, les demandes sont rejetées sans dépens.
+Signé à Ottawa, Canada, ce 8e jour de décembre 2016.
+« Réal Favreau »
+Juge Favreau
+RÉFÉRENCE :
+2016 CCI 279
+Nos DES DOSSIERS DE LA COUR :
+2016-1860(IT)APP, 2016-1864(IT)APP, 2016-1865(IT)APP
+INTITULÉ :
+Mohan Roopchand et Sa Majesté la Reine
+Eva Roopchand et Sa Majesté la Reine
+Maria Roopchand et Sa Majesté la Reine
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+Le 16 août et le 28 septembre 2016
+MOTIFS DU JUGEMENT :
+L’honorable juge Réal Favreau
+DATE DU JUGEMENT :
+Le 8 décembre 2016
+COMPARUTION :
+Pour les demandeurs :
+Les demandeurs eux-mêmes
+AVOCATS INSCRITS AU DOSSIER :
+Pour le demandeur :
+Nom :
+[EN BLANC]
+Cabinet :
+[EN BLANC]
+Pour la défenderesse :
+Me William F. Pentney
+Sous-procureur général du Canada
+Ottawa (Canada)

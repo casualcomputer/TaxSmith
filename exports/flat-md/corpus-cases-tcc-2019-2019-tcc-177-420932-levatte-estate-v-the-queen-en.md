@@ -1,0 +1,221 @@
+---
+title: "Levatte Estate v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/420932/index.do"
+last_modified: "2019-08-27"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2019 TCC 177"
+citation2: ""
+neutral_citation: "2019 TCC 177"
+decision_date: "2019-08-27"
+language: "en"
+item_id: "420932"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4228
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T12:05:28.132000+00:00"
+cases_cited_count: 2
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "a8dec87f04f5f307cd1e0cad5d19f57f37434ca4e856eaccd0dd84641810e022"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Levatte Estate v. The Queen
+
+- Citation: 2019 TCC 177
+- Decision date: 2019-08-27
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4228, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Levatte Estate v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2019-08-27
+Neutral citation
+2019 TCC 177
+File numbers
+2017-3368(IT)G
+Judges and Taxing Officers
+Bruce Russell
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2017-3368(IT)G
+BETWEEN:
+ESTATE OF HARRY W. LEVATTE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on March 18, 2019, at Sydney, Nova Scotia
+Before: The Honourable Justice B. Russell
+Appearances:
+Counsel for the
+Appellant:
+Tyler MacLennan
+Kelly O'Brien
+Counsel for the
+Respondent:
+Tokunbo C. Omisade
+Grace Jothiraj
+AMENDED JUDGMENT
+The appeal of the reassessment raised April 13, 2016 under the federal Income Tax Act for the Appellant’s 2007 taxation year, which reassessment was validly raised albeit beyond the applicable normal reassessment period, is allowed, without costs. The reassessment is referred back to the Minister for reconsideration and reassessment solely on the two following bases:
+(a) that no penalty is to be assessed per subsection 162(1) of the Act; and
+(b) that the $113,000 capital gain on the deemed disposition of the Lynnbrook property is reduced to $87,889, resulting in an adjustment of the total taxable capital gain on the two properties of $250,000 as currently reassessed to the lesser amount of $237,444.50.
+This Amended Judgment is issued in substitution for the Judgment dated August 27th 2019.
+Signed at Ottawa, Canada, this 29th day of October 2019.
+“B.Russell”
+Russell J.
+Citation: 2019TCC177
+Date: 20191029
+Docket: 2017-3368(IT)G
+BETWEEN:
+ESTATE OF HARRY W. LEVATTE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+AMENDED REASONS FOR JUDGMENT
+Russell J.
+Introduction:
+[1] The Appellant, Estate of Harry W. Levatte (Appellant/Estate) appeals a reassessment raised April 13, 2016 by the Minister of National Revenue (Minister) of its 2007 taxation year liabilities under the federal Income Tax Act (Act). Specifically the Appellant/Estate appeals inclusion in the reassessment of a $250,000 taxable capital gain for the unreported deemed dispositions of two properties and imposition of a late filing penalty pursuant to subsection 162(1) of the Act. Most particularly the Appellant/Estate appeals the reassessment on the basis that it is “statute-barred” for having been raised after - in fact well after - expiry of the applicable normal reassessment period.
+Background:
+[2] At the hearing two witnesses testified - Ms. Donna Warner, the sole remaining executrix and trustee for the Appellant/Estate and daughter of the late Mr. Harry Levatte, and Ms. C. Chiasson, the Canada Revenue Agency (CRA) auditor. Mr. Levatte passed away April 4, 1995. His will provided inter alia for creation of a spousal trust for the benefit of his surviving wife, Ms. Eileen Levatte, to hold certain specified property, principally including two parcels of land located in the community of Sydney River identified by their civic addresses - 14 Lynnbrook Drive (Lynnbrook property) being a residential property and 1189 Kings Road (Kings Road property) being a property commercially leased.
+[3] But for their inclusion in the spousal trust, these two parcels of land each would have been deemed upon Mr. Levatte's death to have then been disposed of, for fair market value, and immediately reacquired; thus potentially subject to capital gains tax. However, per paragraph 104(4)(a) of the Act, the inclusion of these two properties in the spousal trust had the effect of deferring such deemed dispositions upon Mr. Levatte's death. That statutory provision provides that a spousal trust is deemed to have disposed of such properties on the death of the surviving spouse for whom the trust was created, with proceeds of disposition equal to the then respective fair market value of each such property.
+[4] As well, pursuant to paragraph 104(6)(b) of the Act, the capital gain incurred upon the death of the spouse-beneficiary cannot be flowed through to a beneficiary of the trust. Thus it would be the Appellant/Estate rather than the estate of Eileen Levatte that is deemed to have then disposed of the two subject properties.
+[5] Mr. Levatte's will had named his wife, Ms. Levatte, and their two adult children, Ms. Warner and Robert Levatte, as executors and trustees of the Appellant/Estate. Approximately eleven years later on June 18, 2006 Ms. Levatte died. And then in 2007 Robert Levatte declared bankruptcy and accordingly was removed as executor and trustee of the Appellant/Estate. Thereafter, Ms. Warner became and remained the sole executor and trustee of the Appellant/Estate.
+[6] The Appellant/Estate's spousal trust ended with the June 18, 2006 death of surviving spouse Ms. Levatte. The Appellant/Estate on July 4, 2007 filed its T3 trust return for its 2007 taxation year ending April 4, 2007. The July 4, 2007 date of filing was one day beyond the 90 day filing period counting from April 4, 2007. As well, that return did not report the deemed dispositions of the Lynnbrook Drive and Kings Road properties. The Appellant/Estate continued to hold title to both of these properties.
+[7] The Minister assessed the Appellant/Estate for its 2007 taxation year on October 24, 2007, imposing a 5% late-filing penalty pursuant to subsection 162(1) of the Act for the one day late July 4, 2007 filing of the Appellant/Estate's 2007 trust return. The Minister reassessed on December 24, 2008 for matters not at issue herein. Then, more than seven years later, on April 13, 2016 the Minister again reassessed, being the reassessment under appeal, to add the aforementioned $250,000 taxable capital gain and accordingly to adjust the previously assessed and reassessed late-filing penalty.
+Is the reassessment statute-barred?
+[8] The Appellant/Estate's 2007 taxation year ending April 4, 2007 was initially assessed October 24, 2007. As stated the appealed reassessment was raised April 13, 2016. The applicable normal reassessment period of three years pursuant to paragraph 152(3.1)(b) of the Act expired October 24, 2010, i.e. well prior to the raising of the appealed reassessment. Thus that reassessment was statute-barred, subject, per this appeal, to potential applicability of the exception provided by subparagraph 152(4)(a)(i) of the Act. That provision states as follows:
+Assessment and reassessment
+(4) The Minister may at any time make an assessment, reassessment or additional assessment of tax for a taxation year, interest or penalties, if any, payable under this Part by a taxpayer or notify in writing any person by whom a return of income for a taxation year has been filed that no tax is payable for the year, except that an assessment, reassessment or additional assessment may be made after the taxpayer’s normal reassessment period in respect of the year only if
+(a) the taxpayer or person filing the return
+(i) has made any misrepresentation that is attributable to neglect, carelessness or wilful default or has committed any fraud in filing the return or in supplying any information under this Act, or
+[9] This exception is that a reassessment raised subsequent to expiry of the applicable normal reassessment period is nevertheless validly raised if, “the taxpayer or person filing the return has made any misrepresentations that is attributable to neglect, carelessness or wilful default or has committed any fraud in filing the return or in supplying any information under the Act.” The Respondent bears the onus of establishing applicability of this exception.
+[10] There clearly is a misrepresentation here. It is the omission in the Appellant/Estate’s omitted report in its 2007 T3 return of the deemed disposition of each of the two Sydney River properties, which two deemed dispositions occurred upon the June 18, 2006 passing of surviving spouse Ms. Levatte. The Appellant/Estate should have reported the deemed dispositions of these two properties in that return. The Appellant/Estate is understood not to contest the occurrence of this misrepresentation through omission in its 2007 taxation year T3 return.
+[11] The then further question is whether the misrepresentation was attributable to “neglect, carelessness or wilful default.” The 2007 return was prepared by an accountant, Mr. J. Nash, retained by the Appellant/Estate to do so. As noted in Vine Estate v. HMQ, 2015 FCA 125, there is a divergence of judicial views as to whether actions (or omissions to act) of a person other than the taxpayer him/her/itself, such as an accountant retained by the taxpayer to prepare the return that contains the misrepresentation, could constitute “neglect [or] carelessness” for purposes of subparagraph 152(4)(a)(i). Or can it be only the taxpayer’s own action or lack thereof that can qualify for “neglect [or] carelessness?”
+[12] Neither party called the accountant Mr. Nash as a witness. As stated the Respondent is the party having the onus of establishing the subparagraph 152(4)(a)(i) applies.
+[13] The evidence of Ms. Warner, sole executor and trustee of the Appellant/Estate, was that she had a BA degree, some bookkeeping training and also bookkeeping experience of two years with the family held construction company. She also was a homemaker with three children. As well, she served as president of the construction company subsequent to her brother’s 2007 bankruptcy.
+[14] Ms. Warner’s husband, after a lengthy illness, passed away July 16, 2007, slightly less than two weeks after the July 4, 2007 filing date of the Appellant/Estate’s 2007 return. On that same day, judging by the July 4, 2007 date of Ms. Warner’s signature on that return, Ms. Warner had met with the accountant Mr. Nash who had reviewed with her the 2007 return for the Appellant/Estate that he had prepared for her signature (Ex. R-1, tab 6). The Appellant/Estate argued that Ms. Warner was not negligent or careless or had engaged in wilful default, asking what more could she have done? She relied on the accountant. She acknowledges she did not ask him specifically about the tax situation of the two subject properties, one of which (the Kings Road property) was, through commercial leasing, a significant and continuing income source for the Appellant/Estate, of which she and her brother were the only two beneficiaries.
+[15] The Appellant/Estate emphasizes the stressful situation its sole executor and trustee Ms. Warner was then in, noting the 2006 death of her mother, the 2007 bankruptcy of her brother and the then dire health situation of her husband. The Appellant/Estate argued that in retaining the accountant and meeting with him to review the return before it was filed she had acted wisely and prudently and had taken due and reasonable care in these circumstances. Also, the Appellant/Estate argued, the deemed disposition applicable to the ending of a spousal trust through death of the surviving spouse is not something that persons not having any background in income tax would be aware of.
+[16] CRA auditor Ms. Chiasson testified for the Respondent. She on behalf of the Minister had caused the appealed reassessment to be raised, despite expiration of the applicable normal reassessment period. She referred to several factors that she considered were indicative of “neglect [or] carelessness,” as set out in her audit report on this aspect (Exhibit R-1, tab 17). The identified factors included that Ms. Warner was one of the three executors and trustees of her father's will and of the spousal trust created by that will, and she was an immediate family member as were the other two executors and trustees. The CRA considered each of these immediate family executors and trustees to have been equally involved in the administration of the Appellant/Estate and spousal trust. Another factor was that in Mr. Levatte's 1995 terminal return several capital assets had been reported as deemed to have been disposed of at his death, thus indicating Ms. Warner, as one of the three executors and trustees had knowledge of capital gains and deemed disposition rules at death. These three executors and trustees would have been responsible for the reporting of these deemed dispositions in Mr. Levatte's terminal return in 1995.
+[17] Another factor was that upon Ms. Levatte's death in 2006 time was taken by Ms. Warner and her brother to amend the commercial lease of the Kings Road property (one of the two spousal trust properties) to divert to them directly the rental income up to then being paid into the Appellant/Estate.
+[18] Also, the spousal trust had existed for 20 years, it held only two properties being the two parcels of real estate in Sydney River with the Kings Road property producing over 90% of the trust's income through commercial leasing of that property. As well, the accountant Mr. Nash who had prepared the 2007 trust return for the Estate also had prepared Ms. Levatte's terminal return in 2006 (a niece was executrix of Ms. Levatte's estate) and in that return terminal capital gains were reported on the deemed disposition of personally held capital assets.
+[19] Too, there was no further return filed for the Appellant/Estate after the 2007 trust return signed by executor and trustee Ms. Warner, despite that that return had stated it was not the final return. After several years during which CRA notifications were sent to executor and trustee Ms. Warner to file returns for the Estate and to notify Ms. Warner that the Estate owed taxes, without any response from Ms. Warner (although Ms. Warner testified she took these notices to Mr. Nash who, she says, told her the Estate owed nothing), in 2013 the Minister raised a series of arbitrary assessments for trust periods annually ending April 4, 2008 through April 4, 2012. These arbitrary assessments prompted the Estate to prepare and file a series of nil returns, said by Ms. Warner to have been on the advice of and prepared by the accountant Mr. Nash.
+[20] Also pertinent to the CRA decision to proceed with the appealed reassessment was the materiality of the total taxable capital gain.
+[21] Ms. Chiasson's report indicates she contacted the accountant Mr. Nash twice in 2015, as had a previous CRA auditor in 2014, and as well in early 2015 with both Mr. Nash and Ms. Warner. However, no corrective filings seeking to rectify the unreported deemed dispositions were forthcoming. Thus the herein appealed reassessment was raised.
+[22] The above referenced Vine Estate cites College Park Motors Ltd. v. The Queen, 2009 TCC 409 and Francis & Associates v. The Queen, [2014] TCJ No. 117 - both for the proposition that careless or negligent conduct of a taxpayer's bookkeeper or accountant in preparing the taxpayer's return is relevant in determining whether there was “neglect [and/or] carelessness” for purposes of subparagraph 152(4)(a)(i).
+[23] Paragraphs 40, 41 and 42 of Vine Estate read as follow:
+[40] In College Park Motors Ltd. v. The Queen, 2009 TCC 409, [2009] T.C.J. No. 316, Bowie J. made the following comments on whether the Minister could reassess after the expiration of the normal reassessment period if the accountant was negligent:
+13 In examining this question it is important to remember that the purpose of subparagraph 152(4)(a)(i) is simply to preserve the Minister's right to reassess a taxpayer in circumstances where the taxpayer has not divulged all that he should have, as accurately as he should have, and thereby has denied the Minister the opportunity to assess correctly all of the appellant's liability under the Act in the first instance. It is not at all concerned with establishing culpability on the part of the taxpayer. Other provisions of the Act are in place to do that. * Mr. Wintermute relies on the following statement that I made in an oral judgment: *
+There may well be circumstances in which misrepresentations are made in reliance upon the advice of an accountant or other professional where it was reasonable to do so and where the negligence of that professional advisor does not have the effect of establishing misrepresentation for the purposes of subsection 152(4). I am satisfied however, that this is not such a case, ...
+Clearly this statement was obiter dictum. More important, it does not accord with the decisions of Heald J. in Nesbitt v. Canada,* and of Bowman J. (as he then was) in Snowball v. The Queen.* Bowman J. explained in Snowball the significant difference in the effect of negligence of a taxpayer's accountant or other tax preparer between cases where the assessment is made after the normal reassessment period and those cases where the Minister has imposed a penalty under subsection 163(2):
+In any event, even if Mr. Cockburn was negligent it is no answer to an otherwise statute-barred assessment under subparagraph 152(4)(a)(i). It is quite true that the negligence of an accountant may be a defence to a penalty under subsection 163(2): Udell v. M.N.R., 70 DTC 6019 (Ex. Ct.). Subparagraph 152(4)(a)(i) is not a penal provision. It serves an altogether different purpose from subsection 163(2). Negligence in the preparation of an income tax return retains its consequences under subparagraph 152(4)(a)(i) whether it is the negligence of the taxpayer personally or that of the accountant or other tax return preparer who is his or her agent. In Nesbitt v. The Queen, 96 DTC 6045, Heald J. held that a taxpayer could not shield himself from the effect of subparagraph 152(4)(a)(i) by blaming his accountant. The same considerations apply here.*
+Heald J.'s judgment in Nesbitt was affirmed by the Federal Court of Appeal,* but without comment on this point.
+(emphasis added)
+(* footnotes have not been included)
+[41] While Hogan J. in Aridi refers to College Park, he does not refer to this particular passage.
+[42] In the recent case of Francis & Associates v. The Queen, [2014] T.C.J. No. 117, [2014] TCC 137, Bocock J. stated that:
+24 In the present case, the Appellants attributed the errors in the Original Returns to their bookkeeper, Mr. Von Bloedau. As Justice Bowman (as he then was) of this Court held in Snowball v. R., [1996] 2 C.T.C. 25, reliance on a negligent accountant, or in this case, a bookkeeper, is no defence to the claim of neglect or carelessness. The taxpayer is vicariously negligent, careless or in wilful default through the actions of his agent in the preparation and submission of tax returns.
+[24] I agree with Justice Bowie (and Chief Justice Bowman, cited by Justice Bowie) that (in my words) including consideration of the actions or omissions of an accountant or bookkeeper retained to prepare the return is consistent with the purpose of subparagraph 152(4)(a)(i). That purpose is to allow the fisc an opportunity to reassess anytime the taxpayer's return reflects a misrepresentation, irrespective of the instigator of that misrepresentation - whether the taxpayer directly or indirectly through an agent such as an accountant retained to prepare the deficient return. As Justice Bocock stated in Francis, and I concur,
+[t]he taxpayer is vicariously negligent, careless and in wilful default through the actions of his agent in the preparation and submission of tax returns.
+[25] However, I note that Ms. Warner as executrix of the Appellant/Estate would have known that no deemed disposition on the properties had been claimed upon the death of her father, because of the spousal trust created by her father's will which deferred the deemed disposition until the eventual passing of her mother, Ms. Levatte as surviving spouse under the trust. I think it likely that most persons including Ms. Warner with her background of education and experience would have known that capital properties normally are taxable upon deemed disposition at death of the owner and that while that deemed disposition may be deferred through creation of a spousal trust, they ultimately became taxable with the death of the surviving spouse. In my mind it could not be prudently or wisely assumed by anyone such as Ms. Warner having a university degree, bookkeeping training and experience and at least a rudimentary exposure to the handling of estates, that deemed disposition on death and resultant taxable capital gains could be outright avoided, as opposed to only being deferred, by the simple device of a spousal trust.
+[26] That is, I believe that a person of Ms. Warner's background would generally be aware that most likely the subject real estate properties could not, on death of the owner, completely avoid tax implications. She should have, at least, raised this for discussion with Mr. Nash on if not before July 4, 2007 when they met to discuss the T3 trust return Mr. Nash had prepared. It was filed later the same day, with Ms. Warner's signature certifying as to the accuracy to the best of her knowledge of the contents, that nevertheless omitted any reference to the two properties' deemed dispositions.
+[27] Also, I find cumulatively persuasive the several above - noted reasons referenced by CRA auditor Ms. Chiasson as to why the Minister concluded per subparagraph 152(4)(a)(i) of the Act that there had been “neglect [and/or] carelessness” attributable to the identified misrepresentation.
+[28] Thus, I do not find in respect of Ms. Warner, an absence of “neglect, carelessness and wilful default” urged by the Appellant/Estate's counsel. I find that there was at least some carelessness or neglect on the part of Ms. Warner to which the misrepresentation in that return filed July 4, 2007 is attributable, notwithstanding the above noted stresses in her life at that point.
+[29] As for the accountant Mr. Nash, whose actions or omissions to act in my view would also be relevant on this question as discussed above, I do not know really know what he was told or not told by Ms. Warner when retained as I do not have his own testimony. However, it seems he was at least careless or neglectful in apparently not having reviewed Mr. Levatte's will sufficiently if to note that it specified that the two subject capital properties were moved into a spousal trust. An accountant undertaking to prepare a T3 trust return for an estate would or should readily know the implications of utilization of a spousal trust, being the deferral of a reportable deemed dispositions (and resultant taxable capital gains) pending death of the surviving spouse.
+[30] Thus I find that subparagraph 152(4)(a)(i) does here apply - there having been a misrepresentation attributable to neglect or carelessness on the parts of both Ms. Warner and Mr. Nash - rendering the appealed reassessment as having been validly raised.
+[31] The remaining two issues concern validity of substantive content of the appealed reassessment.
+Did the Minister correctly assess the taxable gain for the Lynnbrook property?
+[32] The Appellant/Estate's only argument regarding quantum of taxable capital gains was that the taxable capital gain calculation for the Lynnbrook property should have reflected consideration of that property as the “principal residence” of Mr. Levatte for the period 1971 (when capital gains tax originated) until his death in 1995.
+[33] After some consideration I accept that the “principal residence” matter was sufficiently (although minimally) pleaded in the notice of appeal. At para. 6 thereof the Appellant/Estate pleaded that the Lynnbrook property was the principal residence of Mr. Levatte at his death. Para. 33 put as an issue whether the Minister had assessed the correct amount of tax for each of the Lynnbrook and Kings Road properties. Finally at para. 38 the Appellant/Estate pleaded that the Respondent,
+ha[d] not considered the applicability of the [p]rincipal [r]esidence [e]xemption for the Lynnbrook property or the various costs associated with the conveyance of the property.
+[34] In the Respondent's reply, at subparagraphs 20(o) and (p), it is pleaded that the appealed reassessment was based on ministerial assumptions including that the Lynnbrook property,
+was not designated as a ‘principal residence’ for the purposes of para. 40(2)(b) of the Act
+and
+[n]o election pursuant to subsection 70(6.2) of the Act was made in respect of the [Lynnbrook property] in Harry’s terminal return for the 1995 taxation year.
+[35] The evidence was that Mr. Levatte had lived at 14 Lynnbrook Drive since acquiring it in 1959, and until his death in 1995. As well, he and his wife Ms. Levatte in 1978 had purchased a second property, in Baddeck, where they lived on a seasonal basis. There was no evidence that the Lynnbrook property had ever been designated a principal residence. There was no documentation provided to the Court establishing that the Baddeck property had been so designated either.
+[36] However, CRA auditor Ms. Chiasson in her audit report dated February 15, 2016 (Ex. R-1, tab 16, pg. 180) states that the Lynnbrook property,
+...is not the principal residence for tax purposes as there can only be one principal residence per family and in this case, a residential property in Baddeck was chosen to be the principal residence.
+As well, in Ms. Chiasson’s working paper 200-1 dated January 27, 2016, regarding “proceeds of disposition – 14 Lynnbrook Drive,” she wrote,
+On the death of Harry Levatte, the [14 Lynnbrook Drive] property was transferred to a spousal trust. The representatives of the estate noted this was not the principal residence for tax purposes.
+[37] Neither party questioned Ms. Chiasson as to either of these two statements. Nor was Ms. Warner asked by either party if she as a representative of her father's estate had advised or was aware that her mother (another representative of her husband's estate) had advised Ms. Chiasson that 14 Lynnbrook Drive was not Mr. Levatte's principal residence for tax purposes. In cross-examination Ms. Chiasson was asked if she knew why the Lynnbrook Drive was not listed as a deemed disposition in Mr. Levatte's terminal return (Ex. R-1, tab 5, pg. 83) where two other properties being the Baddeck property and the Kings Road property had been so listed. Her response was, “…probably it was the principal residence at the time.”
+[38] Also, notably, the Appellant/Estate did not deny that Ms. Levatte had designated the Baddeck property as a principal residence for tax purposes, although asserting Ms. Warner had no direct knowledge of this and that there was no evidence on this point. Of course Ms. Levatte is deceased so could not testify and apparently the individual who assisted her in preparing Mr. Levatte's 2005 terminal return is also deceased. There was no designation of the Lynnbrook property as a principal residence in Mr. Levatte's 2005 terminal return.
+[39] The Appellant/Estate cites subsection 40(4) of the Act in justifying its claim now for principal residence status for the 14 Lynnbrook Drive property. That provision reads as follows:
+Disposal of principal residence to spouse or trust for spouse
+(4) Where a taxpayer has, after 1971, disposed of property to an individual in circumstances to which subsection 70(6) or 73(1) applied, for the purposes of computing the individual’s gain from the disposition of the property under paragraph 40(2)(b) or 40(2)(c), as the case may be,
+(a) the individual shall be deemed to have owned the property throughout the period during which the taxpayer owned it;
+(b) the property shall be deemed to have been the individual’s principal residence
+(i) in any case where subsection 70(6) is applicable, for any taxation year for which it would, if the taxpayer had designated it in prescribed manner to have been the taxpayer’s principal residence for that year, have been the taxpayer’s principal residence, and
+(ii) in any case where subsection 73(1) is applicable, for any taxation year for which it was the taxpayer’s principal residence; and
+(c) where the individual is a trust, the trust shall be deemed to have been resident in Canada during each taxation year during which the taxpayer was resident in Canada.
+[40] The Respondent argues that subsection 40(4) is not available to the Appellant/Estate as it, being the taxpayer disposing of this property to an individual (here, the spousal trust) had never, in the language of subparagraph (b)(i) of subsection 40(4), “designated [the property] in prescribed manner to have been the taxpayer’s principal residence for that year…”
+[41] It is true that there had not been a designation of this property by the Appellant/Estate. However, I believe a correct interpretation of subsection 40(4) does not require an actual designation to have been made but rather that all the requirements for the property being a principal residence had been met other than that the actual designation has been made. That to my mind is why the language of subparagraph 40(4)(b)(i) (set out above), is couched in the conditional tense –
+the property shall be deemed to have been the individual’s principal residence...for any taxation year for which it would, if the taxpayer had designated it in prescribed manner to have been the taxpayer’s principal residence for that year, have been the taxpayer’s principal residence...
+To interpret this language as does the Respondent, there would be no need for the clause,
+if the taxpayer had designated it in prescribed manner to have been the taxpayer’s principal residence for that year.
+[42] The confusion due to lack of sufficiently clarifying evidence regarding the Baddeck property and the likelihood it was designated as the principal residence from 1978 to Mr. Levatte's 1995 year of death, causes me to limit application of the principal residence exception to the period 1971 to 1978 representing eight of the 36 years the Lynnbrook property was held up to 2007 when it was sold. Thus for eight thirty-sixths (i.e. two ninths) of the total period of 1971 to 2007 the Lynnbrook property could be said to have been a principal residence. I accordingly would reduce the currently reassessed capital gain in the amount of $113,000 on the Lynnbrook property by that fraction to identify the correct capital gain - thus $87,889 is the correct amount of capital gain for the 14 Lynnbrook Drive property.
+[43] The third and final issue is whether the penalty assessed per subsection 162(1) of the Act for the one day tardiness in filing the 2007 T3 return of the Appellant/Estate on July 4, 2007 rather than by July 3, 2007, is correct. The Appellant/Estate submits that it exercised due diligence in filing that return which if so is a valid defence to the assessment of this penalty. On this point I heard nothing specific as to circumstances for why the return could not have been completed and filed on or before July 3, 2007. The Appellant/Estate cites the fact that Ms. Warner was under great personal stress at that time, principally because her husband was dying of cancer and in fact passed away only days later, on July 16, 2007 leaving her as sole parent of three children.
+[44] I accept the Appellant's submission. I do not require specific details to appreciate what a difficult time this would have been for Ms. Warner. The fact that the return was late by only one day does indicate reasonable efforts most probably were made to file the return on a timely basis, although unsuccessful. This I will vacate this element of the appealed reassessment.
+[45] Accordingly this appeal of the reassessment raised April 13, 2016 of the Appellant/Estate's 2007 taxation year, which reassessment was validly raised albeit beyond the applicable normal reassessment period, will be allowed. The reassessment will be referred back to the Minister for reconsideration and reassessment solely on the two bases that no penalty is to be assessed per subsection 162(1) of the Act and that the $113,000 capital gain on the deemed disposition of the Lynnbrook property is reduced to $87,889, resulting in an adjustment of the total taxable capital gain on the two properties of $250,000 as currently reassessed to the lesser amount of $237,444.50.
+[46] Success having been divided between the two parties, there will be no order as to costs.
+This Amended Reasons for Judgment is issued in substitution of the Reasons for Judgment dated August 27, 2019.
+Signed at Ottawa, Canada, this 29th day of October 2019.
+“B.Russell”
+Russell J.
+CITATION:
+2019TCC177
+COURT FILE NO.:
+2017-3368(IT)G
+STYLE OF CAUSE:
+ESTATE OF HARRY W. LEVATTE AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Sydney, Nova Scotia
+DATE OF HEARING:
+March 18, 2019
+REASONS FOR JUDGMENT BY:
+The Honourable Justice B. Russell
+DATE OF JUDGMENT:
+August 27, 2019
+DATE OF AMENDED October 29th, 2019
+REASONS FOR JUDGMENT
+APPEARANCES:
+Counsel for the
+Appellant:
+Tyler MacLennan
+Kelly O'Brien
+Counsel for the
+Respondent:
+Tokunbo C. Omisade
+Grace Jothiraj
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Tyler MacLennan
+Kelly O'Brien
+Firm:
+Sampson McPhee
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada

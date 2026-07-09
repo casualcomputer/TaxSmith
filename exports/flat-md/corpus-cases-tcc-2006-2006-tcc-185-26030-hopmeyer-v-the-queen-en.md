@@ -1,0 +1,266 @@
+---
+title: "Hopmeyer v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26030/index.do"
+last_modified: "2006-03-30"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 TCC 185"
+citation2: ""
+neutral_citation: "2006 TCC 185"
+decision_date: "2006-03-30"
+language: "en"
+item_id: "26030"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4090
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T22:12:39.625000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "fc421d85db2cd391ea2e7439f2707f743ed43088f0a6ee3d2743ba0e5544432a"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Hopmeyer v. The Queen
+
+- Citation: 2006 TCC 185
+- Decision date: 2006-03-30
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4090, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Hopmeyer v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-03-30
+Neutral citation
+2006 TCC 185
+File numbers
+2002-2842(IT)G
+Judges and Taxing Officers
+Louise Lamarre Proulx
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2002-2842(IT)G
+BETWEEN:
+ESTELLE HOPMEYER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on November 2 and 3, 2005, at Montreal, Quebec.
+Before: The Honourable Justice Louise Lamarre Proulx
+Appearances:
+Counsel for the Appellant:
+Aaron Rodgers
+Counsel for the Respondent:
+Bernard Fontaine
+____________________________________________________________________
+JUDGMENT
+The appeals from the assessments made under the Income Tax Act for the 1999 and 2000 taxation years are dismissed, with costs to the Respondent, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 30th day of March 2006.
+« Louise Lamarre Proulx »
+Lamarre Proulx J.
+Citation: 2006TCC185
+Date: 20060330
+Docket: 2002-2842(IT)G
+BETWEEN:
+ESTELLE HOPMEYER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Lamarre Proulx J.
+[1] These appeals are for the 1999 and 2000 taxation years. They concern the possible application of clause 50(1)(b)(iii)(B) of the Income Tax Act (the "Act") at the end of the 1999 taxation year.
+[2] Paragraph 50(1)(b) reads as follows:
+50(1) Debts established to be bad debts and shares of bankrupt corporation
+For the purposes of this subdivision, where
+. . .
+(b) a share (other than a share received by a taxpayer as consideration in respect of the disposition of personal-use property) of the capital stock of a corporation is owned by the taxpayer at the end of a taxation year and
+(i) the corporation has during the year become a bankrupt (within the meaning of subsection 128(3)),
+(ii) the corporation is a corporation referred to in section 6 of the Winding-up Act that is insolvent (within the meaning of that Act) and in respect of which a winding-up order under that Act has been made in the year, or
+(iii) at the end of the year,
+(A) the corporation is insolvent,
+(B) neither the corporation nor a corporation controlled by it carries on business,
+(C) the fair market value of the share is nil, and
+(D) it is reasonable to expect that the corporation will be dissolved or wound up and will not commence to carry on business
+and the taxpayer elects in the taxpayer's return of income for the year to have this subsection apply in respect of the debt or the share, as the case may be, the taxpayer shall be deemed to have disposed of the debt or the share, as the case may be, at the end of the year for proceeds equal to nil and to have reacquired it immediately after the end of the year at a cost equal to nil.
+[3] The principal issue is whether at the end of the year 1999, Aqua Vision Systems Inc. ("AVSI") was not carrying on business. In the affirmative, a subsidiary question is whether the Appellant had elected in her return for the year 1999 to have this subsection apply in respect of the shares she owned in AVSI.
+[4] It must be stated at the outset that the claim of an allowable business investment loss ("ABIL") on the foregoing basis was formulated for the first time in an Amended Notice of Appeal filed on January 18, 2005. In the Notice of Appeal, filed on July 19, 2002, the basis of the claim for an ABIL for 1999 was loans in the amount of $74,074 purportedly made by the Appellant, and a liability of $144,931 under a loan guarantee purportedly given by the Appellant. Of these amounts, 79% was not recoverable at the end of the 1999 taxation year, and, for the year 2000, the claim for the ABIL was with respect to the balance of the loans and the guarantee and for the loss incurred on the disposition of the shares to the Appellant's daughter.
+[5] The Amended Notice of Appeal added one paragraph and it was the only issue at the hearing. This paragraph reads as follows:
+13. The appellant also elected to have subsection 50(1)(b) of the Income Tax Act apply in respect of her shares because the company was insolvent, it was being liquidated, the value of her shares was nil and the company expected to be dissolved.
+[6] Thus, respecting the requirement of clause 50(1)(b)(iii)(B) of the Act that the corporation not have been carrying on business at the end of the 1999 taxation year, the Amended Notice of Appeal stated as a fact that the corporation was being liquidated.
+[7] According to the Respondent, AVSI was still carrying on business at the end of 1999 and well into 2000. The evidence will show that the corporation kept staff, went to trade shows, took purchase orders, assembled products and sold them.
+[8] The Appellant explained that AVSI was a company involved in the developing and manufacturing of equipment for underwater photography. It did not manufacture the cameras but the housings or casings for the cameras. The equipment was sold under the trade name of Aquatica.
+[9] The Appellant stated that she was not actively involved in AVSI. The company was her husband's business, and her only real involvement was through investing money. Her husband is an accountant by training, and is the one who prepares the Appellant's income tax returns. She had money from her employment, and also from an inheritance. She owned the family homes, one in the country and one in the city, which had been mortgaged to obtain money for AVSI and which had to be sold around 1997. She believes that about $1 million was lost in the AVSI venture and a substantial amount of that money was hers.
+[10] Her husband began the AVSI business in 1991. In 1996, to the delight of the family, AVSI entered into a contract with Nikon. Much was expected from that contract. In 1997, AVSI entered into a program known as the SPEQ program. (SPEQ is an acronym for « sociétés de placements dans l'entreprise québécoise » ). Unfortunately, in 1998, the Nikon agreement did not turn out as expected. In 1999, a proposal had to be made to the creditors.
+[11] The Appellant stated that she owned half the shares in AVSI. On December 27, 2000, she transferred her 1,900,000 shares to her daughter (Exhibit A-10).
+[12] Exhibits A-1, A-2 and R-1 are a letter dated October 26, 2000, from the Appellant to the Canada Customs and Revenue Agency ("Agency") accompanied by a questionnaire sent by the Agency and completed on her behalf by Mr. Hopmeyer. The Appellant explained that, although she signed, the documents had been prepared by her husband.
+[13] One of the questions in the questionnaire was: "Number of full time employees". The answer given was five. There was a question as to whether the corporation had gone bankrupt or ceased its operations. The answer was provided in a schedule attached to the questionnaire. It reads as follows:
+1. On January 27, 1999 Aqua-Vision Systems Inc. (AVS) filed for Protection under The Bankruptcy and Insolvency Act of Canada for the purpose of filing a proposal with its creditors. A proposal of $0.21 was made to the unsecured creditors, payable in 3 annual installments beginning one year from the date of ratification by the Court. The Proposal was accepted by the unsecured creditors and ratified by the Court on July 1, 1999.
+[14] The Appellant concluded her testimony by stating that the corporation at the end of the 1999 taxation year was not carrying on business. It was only surviving artificially, barely surviving.
+[15] Mr. Gilles Bruneau became a director of AVSI in 1997. He was active in getting AVSI included in the SPEQ program in October 1997. A company called SPEQ Aqua Vision Inc. was set up and this was the vehicle for obtaining investment in AVSI from the end of 1997 through 1998.
+[16] The financial statements of AVSI, dated October 31, 1997, were filed as Exhibit A-17. They show that sales in 1996 were $2,558,653, and in 1997, $1,502,829. Mr. Bruneau explained that in the first year of the agreement with Nikon, beginning January 1996, there had been a massive volume of sales. The year after, Nikon reneged on its agreement with respect to purchase orders. Nikon was late in issuing its catalogue and in organizing its Web sites. To make matters worse, in late 1998 or early 1999 Nikon dumped on the market inventory purchased from AVSI in 1996, selling the products to AVSI's principal distributors.
+[17] Mr. Bruneau stated that the goals of the SPEQ agreement were never reached. The objective was $3 million but only half of that was attained. In the fall of 1998, the directors refused a payment of $250,000 coming from the brokers through the SPEQ program because of AVSI's fragile financial situation. Since the Nikon contract had failed, and because of pressure from the bank, it was decided that the company should file a proposal with the creditors.
+[18] Mr. Bruneau expressed the view that maybe there should have been a petition in bankruptcy, but there was a person (Mr. Hopmeyer) who had put all his energy into the business, there were recent investors, there was still inventory on hand, a good product, although there was some distribution problem and a shortage of cash.
+[19] The witness produced as Exhibit A-20 a resolution of the board of directors of AVSI dated January 20, 1999, the purpose thereof being to approve the transfer of 1,900,000 Class B shares of the share capital of the corporation from Stanley Hopmeyer to Estelle Hopmeyer.
+[20] Mr. Marc Rodrigue was the next witness.
+[21] On January 26, 1999, AVSI filed a notice of intention to make a proposal to its creditors. The proposal was filed on April 8, 1999 (Exhibits A-21 and A-22).
+[22] Contained in a document dated April 13, 1999, the conclusion and the recommendation of the trustee to the creditors, regarding the proposal (Exhibit A-21) were the following:
+VII. CONCLUSION AND RECOMMENDATION
+The initial filing for protection by virtue of a Notice of Intention has allowed Aqua Vision time to meet with its various Secured Lenders in an effort to re-negotiate the outstanding amounts due to them. The present Proposal contemplates the completion of arrangements with the Secured Lenders as well as forgiveness of debt from its Ordinary Unsecured Creditors. As Aqua Vision does not forecast the ability to generate significant cash-flow within the near future, it intends to pay its Creditors over a three (3) year period.
+Should the Creditors accept the present Proposal, Aqua Vision hopes to be able to attract additional investment capital in order to grow the business and make it more viable. In the event that the Creditors reject the Proposal, an automatic bankruptcy will ensue, resulting in the liquidation of the Company's assets. In such case, we do not envisage there to be any dividend available to the Unsecured Creditors. Furthermore, we do expect the Secured Creditors would also take a significant loss in a bankruptcy.
+The Trustee therefore recommends that the Creditors accept the present Proposal and afford Aqua Vision the opportunity to re-establish itself.
+[23] Mr. Rodrigue acted as a monitor for the National Bank of Canada, which was a secured creditor. All cheques were submitted to him for approval. He had approved participation in a trade show in order to maintain the viability of the business. He stated that operations continued, but on a smaller scale.
+[24] He was still acting in the above-mentioned capacity at the time of the sale in February 2001. Mr. Hopmeyer had been discussing the matter with him for some time and had come to think that the business could be sold to the employees.
+[25] Mr. Rodrigue filed, as Exhibit A-23, a Notice of Application for Discharge of Trustee in the matter of the proposal. The document is dated March 15, 2005. The accompanying Trustee's Statement of Receipts and Disbursements notes that upon the approval of the inspectors, a notice of default was sent to the creditors on August 25, 2001, but no bankruptcy was declared at that time. Subsequently, the company filed an assignment in bankruptcy on December 17, 2002.
+[26] In his examination-in-chief, Mr. Hopmeyer related the same facts. He also stated that the corporation, at the end of the 1999 taxation year, was not in fact carrying on business but was liquidating its assets as best it could. That explains why he went to a trade show in early 2000, why he kept the premises open and why he kept on some staff.
+[27] On the subject of whether or not the company was carrying on business in the 2000 tax year, Mr. Hopmeyer testified as follows (transcript, November 2, 2005, pages 241 and 242):
+Q. At the end of the year, do you think it would be reasonable to expect that the corporation would be dissolved or be wound up and it would not again begin to carry on business?
+A. Yes, I mean, that was really the, as far as I was concerned, I just kept it going just to see, you know, just to pay down the Bank debt and just further, you know, just separate in time from having received money from the SPEQ but there was, it was dead, it was a dead business. There was no hope of revival, you'd need $2 million or $3 million or $4 million to, which there were no prospects of getting. I had used up, mean I, you know, I had used up every possible source of financing, small business loans, STI loans, Federal Business Development Bank loans, SPEQ financing, Bank financing, there were no other sources. I used, I used up every, every, we used up all our money, used up a $1 million too, so.
+Q. Was your wife willing to continue to borrow to support AVS?
+A. No way! She was, she's very upset with the amount of money that we had already invested. . . .
+Q. Now, when the, you described to the Court earlier what was going on in 1999 as you were trying to give effect, I suppose, to the proposal, what your day-to-day business was, this continued, I suppose, in 2000 to some degree? The same sort of . . .
+A. Yes, it was the same, same story, we're losing more money. We were reducing the Bank loan as long as that was happening the Bank tolerated the situation.
+[28] In cross-examination he was shown the claim made by AVSI for the year 2000 for SR & ED expenses with respect to the A100 camera housing project incurred in the period of November 1, 1998, to October 31, 1999 (Exhibit R-2). The claim was made on June 25, 2002. The claim file was produced as Exhibit R-3. The file shows salaries which were paid to the employees throughout the year 2000. The T4s are included as well as AVSI's payroll summary for the year 2000. It can be seen that in that year five persons were employed on a regular basis for the months of January through December 2000. Altogether, there were nine employees throughout the year 2000.
+[29] The payroll summary for 2000 shows the employees' salaries as follows: $44,556.83, $44,480.85, $26,460.08, $16,762.20 and $21,466.83 for the permanent employees, for an employee who worked the first three months, $5,825.80, for an employee who worked from March to September, $8,864.32, for an employee who worked two months and a half, $2,934.20, and for an employee who worked from January to September, $29,335.20. The total salary for the year 2000 was $200,686.31.
+[30] Mr. Hopmeyer explained what happened with the A100 model housing and how the business was going in the year 2000 at pages 268, 269, 271, 276, 277 and 278 of the transcript (November 2, 2005):
+Q. Now, what happened after the thirty-first (31st) of October 1999 with respect to this A100 housing?
+A. Well, we continued October and November to develop it to the point where we had some castings produced in late December. We had, I believe, a couple of models available for the International Show in January, at DEMA, [The Diving Equipment & Marketing Association].
+Q. Talk to me about that International Show? What happened there?
+A. Well, we came to the show with a lot of products that we wanted to sell, usually, we went to the show with six or seven people.
+Q. Hum, hum. And?
+A. Went to the show with two people.
+Q. Who went there?
+A. Norma and myself.
+Q. Okay. And were there any sales effected at the show in January 2000?
+A. We probably booked some orders, we sold some, we took some inventory, we sold some inventory, not as much as I had hoped.
+. . .
+Q. So, just to get back to my question, you were not going there saying: "This is a liquidation, saying this is a going out of business sale", you were there to show off your last innovation and say: "We are investing into the mid-market"?
+A. We're trying to get people to buy some of our inventory and the only way you can buy it is putting on a show. If we're going to go and say: "We're going out of business", do you think anybody is going to buy the product? Would you buy a product that you can't get service on? No. You wouldn't, you wouldn't spend $6,000 to buy something you would never get service on again.
+. . .
+Q. Now, Norma that went with you at the show in January 2000 . . .
+A. Yes.
+Q. . . . at that time, had the talks already started about, you know, finding a buyer for the business or for the equipment or for the trade name or for the stock?
+A. I didn't, I didn't really lead on to the people what my thoughts were, it was really, you know, we'd be going out of business soon. It was just a question . . .
+Q. So, even Norma, you didn't . . .
+A. She would have gone and she would have gotten a job somewhere else. So, what would I do? I couldn't put housings together.
+Q. So, in other words, you're telling us that she was actually helping liquidating the company but if asked, she would have said no?
+A. That's correct.
+Q. She would have said, no, the business is alive and running . . .
+A. Well, as far as she was concerned . . .
+Q. . . . and we're going to DEMA to sell its products?
+A. She didn't know the financial status of the company.
+. . .
+Q. Okay. And for how long did Norma sell cameras for Aqua Vision after the show that she went with you in January 2000?
+A. Right up to the time that I told her we couldn't continue.
+Q. Okay. And when did you tell her that?
+A. That was, I guess, in, actually, I told her I was thinking of finding a buyer for some of the assets and then she said that she would like to buy it.
+Q. Okay. And when . . .
+A. And if I didn't buy it, her, she would create a big noise.
+Q. Meaning that she wanted to continue the business herself?
+A. That's correct.
+Q. When did you tell her that? That you're thinking of selling the assets?
+A. October, I guess, October, November, something like that.
+Q. 2000?
+A. Yes, I forget, just a little time before we got the offer from her which is . . .
+Q. Okay. When did you get the offer from her?
+A. I don't remember the date, I think it was . . .
+Q. Approximately?
+A. November, I'm not sure of the date.
+[31] The assets of the corporation were sold in January 2001, as mentioned in a letter to the trustees handling the proposal, which letter was signed by Mr. Hopmeyer and dated April 24, 2001 (Exhibit A-15). In this letter, there is also an affirmation that the company had ceased its operations as of December 20, 2000. This letter reads as follows:
+Cecile Berube
+Richter and Associates
+2 Place Alexis Nihon
+Suite 2200
+Montreal, Quebec
+H3Z3C2
+Dear Ms. Berube,
+We wish to advise you that As of December 20th, 2000 the Company was no longer operating and we were looking to sell off the assets.
+On January 20th, 2001 we accepted an offer from Norma Alonzo for the operating assets of the Company, subject to the approval of the National Bank of Canada, the secured creditor of the first ranking. Subsequent to this [the] Bank approved the sale and made arrangements to sell off the balance of the fixed assets of the Company.
+As a result of this the Company is unable to meet is commitments under the terms of the proposal with its creditors, which was approved by the court July 1, 1999.
+Would you please confirm to me, in writing, that as a result of the Company being unable to meet its commitments under the proposal that the Company is deemed to be bankrupt at the time that it filed for protection under the Bankruptcy and Insolvency Act of Canada, namely, January 27, 1999.
+[32] In a letter from the Appellant's counsel to the Agency (Exhibit A-4), it is stated that an extension for the proposal was obtained in August 2000, that the corporation ceased its operations in December 2000, and that in February 2001, with the consent of the trustee, the secured creditor disposed of all the corporation's remaining assets.
+[33] The financial statements of AVSI (Exhibit R-4) show that the volume of sales in 1998 was $704,713, and in 1999, $450,055. The financial statements produced with AVSI's tax return for the taxation year ending October 31, 2000, showed the volume of sales for the year 2000 to be $541,746.
+[34] Counsel for the Respondent drew Mr. Hopmeyer's attention to an exchange by fax with a Mr. Serge Alary in 2002 (Exhibit R-6). Mr. Alary's message read as follows:
+. . .
+Subject: Letter to confirm cessation of operations
+Hi Stan, as mentioned on the phone, the company had to operate in 2001 to quality for Speq shareholders as ABIL (allowable business investment loss). That [is] why we need a confirmation from you before to release the letter to the shareholders about that deduction. Please call me if there is any problem for you.
+[35] Mr. Hopmeyer, as president of AVSI, answered as follows:
+OBJET : Aqua-Vision Systems inc. / cessation des opérations
+À qui de droit,
+La présente est pour confirmer que la société Aqua-Vision Systems inc. a cessé définitivement ses opérations en février 2001.
+Pleadings
+[36] Counsel for the Appellant reviewed the facts. He pointed out that sometime in 1998 it became clear to Mr. Hopmeyer and the company's other directors that the company's prospects were not what they had been a year earlier when the Nikon agreement was entered into. To protect the company from its creditors, in January 1999, a notice of intention to make a proposal to the creditors was filed. It was followed by the proposal, which was approved in April 1999. The bank agreed, on the condition that a monitoring agent, Mr. Rodrigue, be appointed. The bank allowed some expenses to be incurred, but counsel submitted that this was more for the purpose of allowing the bank's loans to be repaid than for enabling the affairs of the company to be carried on.
+[37] The notion of "carrying on business", according to counsel, means "carrying on business with a view to a profit".
+[38] He referred to the Supreme Court of Canada decision in Stewart v. Canada, [2002] 2 S.C.R. 645, and more specifically to paragraph 38 thereof:
+Indeed, equating the term "business" with the phrase, "reasonable expectation of profit" does not accord with the traditional common law definition of business, which is that "anything which occupies the time and attention and labour of a man for the purpose of profit is business" (Smith v. Anderson (1880), 15 Ch. D. 247 (C.A.), at p. 258; Terminal Dock and Warehouse Co. v. M.N.R., [1968] 2 Ex. C.R. 78, aff'd 68 D.T.C. 5316 (S.C.C.)). . . .
+[39] Counsel stated that he was not arguing that there were no operations after 1999. However, the purpose of the operations was no longer the earning of profits but the payment of the bank loans. The bank was in financial control, not Mr. Hopmeyer. It was no longer a business in accordance with the traditional common law definition of business as referred to by the Supreme Court of Canada in Stewart. The time and effort devoted by the company to its operations had as their purpose not profit but the repayment of the bank's loans. For the purposes of section 50 of the Act, the level of activity in the company did not rise to that of carrying on a business, which is the level contemplated by that provision.
+[40] Where the Act uses the expression "carrying on business", it means carrying on business with a view to generating a profit or income or some benefit. It does not mean simply the cleaning up operations following a failed enterprise.
+Comment: perhaps preface this by saying: "In the Appellant's view..."
+[41] In this regard, counsel referred to the decision in Jacques St-Onge Inc. v. R., [2004] 1 C.T.C. 2094, paragraphs 25 to 27, and to the following passages of Tantus Estates Ltd. v. M.N.R., 73 DTC 24, pages 24-25:
+The appellant then sought to apply the provisions of Section 85E(4) which the Minister disallowed for the following reasons:
+1. The appellant had not gone out of business because it continued to collect payments on the purchase price until April, 1968, on a portion of its inventory; and
+2. The appellant continued to pave and curb the remaining lots after its sale in the early Summer of 1967, thus continuing in business.
+. . .
+In the instant case the appellant disposed of all its inventory in 1967. Completion of street paving and curbing was a term of the sale. Failure on its part to carry out the terms of the Agreement for Sale would undoubtedly have resulted in legal proceedings being commenced at the instance of the purchaser. This, in my opinion, is not carrying on the business of land developing, but merely complying with the terms of the sale of a business.
+[42] Counsel for the Appellant submitted that, similarly, all AVSI was trying to do in 2000 was to comply with the terms of its agreements with its secured lenders.
+[43] For his part, counsel for the Respondent stated that it was open to the Court in applying subparagraph 50(1)(b)(iii) to conclude that, at the end of 1999, the corporation was insolvent in the sense that its debts were greater than its assets and that, at the end of that year, the fair market value of the shares owned by Mrs. Hopmeyer was nil. Counsel for the Respondent stated that what was at issue here was the following specific requirement of clause 50(1)(b)(iii)(B) of the Act: neither the corporation nor a corporation controlled by it carries on business. Counsel referred to the facts proven in this case: the going to the trade show at the beginning of the year 2000, the number of permanent and temporary employees throughout the year 2000, the fact that AVSI was carrying on business as usual regarding its customers and employees, the keeping of the same premises, and submitted that all these facts show that the company was carrying on business. Its relations with the bank were strained, difficult, but that does not mean that a business was not being carried on, although the company had to deal with the close supervision of the bank.
+[44] Counsel for the Respondent concluded by raising questions as to the credibility of AVSI's president, Mr. Hopmeyer. It was for the purpose of this appeal that Mr. Hopmeyer stated for the first time that the corporation was not carrying on a business. Counsel referred to Exhibit R-6, which shows that Mr. Hopmeyer had written in response to a request by Mr. Alary that the corporation was still operating up to February 2001.
+Analysis and conclusion
+[45] I agree with counsel for the Appellant that a person carries on a business if that person has profit as purpose. See Stewart v. Canada, [2002] 2 S.C.R. 645, paragraphs 48 et seq.
+[46] Recently, in a matter of a person motivated by generating a loss, Bowie J. stated in Geddes Contracting Co. v. Canada, [2005] T.C.J. No. 6 (QL) (confirmed by [2006] F.C.J. No. 162 (QL)), at paragraph 14: "... It is quite clear from the Supreme Court's judgment in Stewart that pursuit of profit is an essential element of a business ..."
+[47] Counsel for the Appellant submitted that the object of the actions of the corporation from the end of 1999 was essentially the payment of its bank loans. Counsel infers that because of this the corporation was no longer carrying on its business for the purpose of profit.
+[48] I am not aware of any court decision stating that having as a goal the payment of debts may change a person's profit making purpose.
+[49] A corporation may have as an important goal the repayment of its debts, but this cannot mean that it is no longer pursuing profit as a purpose. It seems to me that it would be contrary to normal commercial practice to come to such a conclusion.
+[50] I do not believe, either, on the evidence, that Mr. Hopmeyer had lost his control of AVSI and that control was exercised by the bank, although decisions involving expenditures needed to be approved by the bank. The bank did not instruct Mr. Hopmeyer as to what should be done. The decisions were still being made by him and this went on right up to, and included, the decision regarding the sale of the corporation's business assets (paragraph 31 of these reasons).
+[51] In any event, it is my view that the element of control of a corporation is not determinative as to whether that corporation is carrying on business with a purpose of profit. What is determinative is the conduct of the corporation. How is it operating? Is it liquidating its assets as suggested in the Amended Notice of Appeal? Has it as its only purpose a loss creation? Is it persevering in a difficult financial situation?
+[52] Here, we are dealing with a corporation that had been carrying on business for a number of years. Has its conduct changed? To determine this, we have to examine the factual circumstances for the year 2000.
+[53] All the relevant factual elements have already been cited by counsel for the Respondent. I repeat them: travel to and presence at the trade show, customers being served as usual, employees working as usual, orders being taken and filled, accounts receivable being collected, employees being paid, source deductions being made and remitted. As of October 26, 2000, there were five permanent employees (paragraphs 12 and 13 of these reasons). The corporation continued to develop, manufacture and sell specialized equipment. There was a claim for SR & ED expenditures in 2000.
+[54] I would add to these facts that the explicit purpose of the proposal was to afford AVSI the opportunity to re-establish itself (paragraph 22 of these reasons) and that the financial statements for the year 2000 show a volume of sales even higher than for 1999 (paragraph 33 of these reasons).
+[55] It is evident that on these facts the corporation was not in the process of being liquidated in the year 2000 as suggested in the Amended Notice of Appeal. It had not ceased doing business, although its business may have been carried on in a contrived fashion because of the bank's requirements.
+[56] To conclude, the evidence reveals that AVSI was carrying on a business in the year 2000.
+[57] Therefore, the appeal must be dismissed, with costs to the Respondent.
+Signed at Ottawa, Canada, this 30th day of March 2006.
+« Louise Lamarre Proulx »
+Lamarre Proulx J.
+CITATION: 2006TCC185
+COURT FILE NO.: 2002-2842(IT)G
+STYLE OF CAUSE: ESTELLE HOPMEYER v. THE QUEEN
+PLACE OF HEARING: Montreal, Québec
+DATES OF HEARING: November 2 and 3, 2005
+REASONS FOR JUDGMENT BY: The Hon. Justice Louise Lamarre Proulx
+DATE OF JUDGMENT: March 30, 2006
+APPEARANCES:
+Counsel for the Appellant:
+Aaron Rodgers
+Counsel for the Respondent:
+Bernard Fontaine
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Aaron Rodgers
+Firm: Spiegel Sohmer
+Montreal, Québec
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

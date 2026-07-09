@@ -1,0 +1,114 @@
+Title: VanNieuwkerk v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/25154/index.do
+Corpus path: corpus/cases/tcc/2003/2003-tcc-670-25154-vannieuwkerk-v-the-queen-en.md
+Document type: case_law
+Last modified: 2003-09-15
+
+# VanNieuwkerk v. The Queen
+
+- Citation: 2003 TCC 670
+- Decision date: 2003-09-15
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2600, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+VanNieuwkerk v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-09-15
+Neutral citation
+2003 TCC 670
+File numbers
+2002-4042(IT)I
+Judges and Taxing Officers
+Donald G.H. Bowman
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2002-4042(IT)I
+BETWEEN:
+BRUCE VanNIEUWKERK,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on September 11, 2003 at Vancouver, British Columbia
+By: The Honourable D.G.H. Bowman, Associate Chief Justice
+Appearances:
+Counsel for the Appellant:
+Michael J. Goeres
+Counsel for the Respondent:
+Victor Caux
+____________________________________________________________________
+JUDGMENT
+The appeals from the reassessments made under the Income Tax Act for the 1998 and 1999 taxation years are allowed, and the reassessments are referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the Reasons for Judgment.
+Signed at Toronto, Ontario this 15th day of September, 2003.
+"D.G.H. Bowman"
+A.C.J.
+Citation: 2003TCC670
+Date: 20030915
+Docket: 2002-4042(IT)I
+BETWEEN:
+BRUCE VanNIEUWKERK,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Bowman, A.C.J.
+[1] These appeals are from assessments for the Appellant for the 1998 and 1999 taxation years.
+[2] In assessing the Appellant the Minister of National Revenue added $27,974 and $15,851 to his income for 1998 and 1999 respectively under subsection 15(2) of the Income Tax Act and $5,753 and $3,656 as a benefit in respect of interest under subsection 80.4(1).
+[3] The issue is a purely factual one and it stems from a shareholder loan account. Van New Construction (1985) Ltd. carried on a construction related business in British Columbia. Its issued and outstanding shares are owned equally by the Appellant and his wife, Patrice.
+[4] At the end of 1997 the shareholder loan account showed shareholder loans outstanding in the amount of $95,013.23. The company's accountants realized that subsection 15(2) taxes shareholders on indebtedness to their corporation arising in the year but that if it was paid off within one year from the end of the year when the indebtedness arose subsection 15(2.6) excluded the operation of subsection 15(2). Therefore, they developed a plan to reduce the indebtedness existing at the end of 1997 by transferring certain assets owned by the Appellant and his wife to the company at cost. The assets to be transferred were a piece of land ($17,500), a motor home ($46,000) and a boat ($20,000). An agreement was prepared by the accountants showing Mr. and Mrs. VanNieuwkerk as vendors and the company as purchasers whereby the vendors sold the "Property" described in Schedule A to the agreement to the company for $83,500. The agreement was put in evidence but not Schedule A, but I think it is reasonably clear that the property intended to be covered by the agreement was the assets referred to above. The agreement was said to be "dated for reference" the first day of January, 1998. Other documents were a Resolution of Directors of the company confirming the agreement and dated "as of the first day of January, 1998", promissory notes for $41,750 signed by the company in favour of each of the Appellant and his wife dated as of January 11, 1998 and a Trust Declaration "made as of the first day of January, 1998" declaring that the Appellant and his wife were holding title to the motor home, the boat and land in trust for the company. A few observations should be made here.
+(a) The transfers of the various assets were not registered anywhere - the land registry, the automobile registry or the boat registry. The documents were not put in the minute book which was kept by the company's lawyer. They were kept by the accountants.
+(b) There is no evidence that the fair market value of the assets was the same as their cost. It seems unlikely that the boat or the motor home would have kept their value. This thought crossed the assessor's mind but she did not pursue it because she concluded that no transfer took place at all.
+(c) The function of the promissory notes is a little puzzling. Why would the company give promissory notes in payment of the property if the intent was to pay off an indebtedness? I put this question to the Appellant's representative and his answer was "to offset the indebtedness". This was not a very satisfactory answer. The point was not raised in the Reply and was not pursued by the Respondent because it was not the basis of the assessment. This legal effect of giving a promissory note seems not to have been fully comprehended by the accountant or the Appellant.
+(d) There is no evidence when the various documents were signed. Neither the accountant nor the Appellant knew when they were signed. The expression "as of" or "dated for reference" make it reasonably clear that they were not signed on January 1, 1998 (New Year's day). It was admitted by the witness Mr. Goeres and the Appellant that they might have been signed in 1999.
+(e) The Appellant and his wife went on using the motor home and the boat just as before, as personal use property. The company had no need for these assets, but that is not really germane to this case.
+(f) The assets were shown on the balance sheet of the company for 1998.
+[5] The purpose of the transfer was to prevent the Appellant being taxed in 1997 on the $95,013.23. The auditor, Ms. Flora Lee, proceeded on the assumption the property never was transferred to the company, yet she did not tax the Appellant in 1997. She calculated the amount of indebtedness that arose in 1998 and 1999 on the assumption that no transfer took place at any time. This is set out very clearly in Exhibit R-7.
+[6] Part of the confusion stems from the accounting records which show either no transfer, or a transfer on December 31, 1998 or January 1, 1998 depending on which version you look at. It has been said on many occasions in this Court that accounting entries do not create reality. They simply reflect reality. There must be an underlying reality that exists independently of the accounting entries. I accept Mr. Goeres' explanation that adjusting entries, such as entries reflecting the transaction involved here or capital cost allowance, are all shown in the general ledger on December 31. That may well be so, but it does underline how unreliable accounting records are in determining when a transaction has taken place.
+[7] Here we have documents that have been signed at some point and are intended to have some legal effect. Sham is not pleaded and the only way I can ignore them is to find that they are shams or not legally effective.
+[8] The best conclusion I can reach on the somewhat unsatisfactory evidence is that the documents were signed some time in 1999 and the transfer took place in that year and the fair market value of the transferred property is to be treated as reducing the earliest indebtedness existing at that time.
+[9] Accordingly the calculation in Exhibit R-7 should be reworked and give effect to this conclusion.
+[10] The other point is whether the Appellant should have been taxed on the full amount of the assumed benefit under subsection 15(2) or only one-half. I think the better view is one half. The Appellant and his wife shared everything - including the joint bank account - on a 50/50 basis. Any draws or advances that he got from the company were on his own behalf and on behalf of his wife. I think she bore the indebtedness equally with him.
+[11] The appeal is allowed and the assessment referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with these reasons.
+Signed at Toronto, Ontario this 15th day of September, 2003.
+"D.G.H. Bowman"
+A.C.J.
+CITATION:
+2003TCC670
+COURT FILE NO.:
+2002-4042(IT)I
+STYLE OF CAUSE:
+Bruce VanNieuwkerk v. The Queen
+PLACE OF HEARING:
+Vancouver, British Columbia
+DATE OF HEARING:
+September 11, 2003
+REASONS FOR JUDGMENT BY:
+The Honourable D.G.H. Bowman, Associate Chief Justice
+DATE OF JUDGMENT:
+September 15, 2003
+APPEARANCES:
+Counsel for the Appellant:
+Michael J. Goeres
+Counsel for the Respondent:
+Victor Caux
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Michael J. Goeres
+Firm:
+Buttar & Buttar
+Vancouver, British Columbia
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

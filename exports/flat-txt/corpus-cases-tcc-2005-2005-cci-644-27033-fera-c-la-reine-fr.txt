@@ -1,0 +1,114 @@
+Title: Fera c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27033/index.do
+Corpus path: corpus/cases/tcc/2005/2005-cci-644-27033-fera-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2005-09-30
+
+# Fera c. La Reine
+
+- Citation: 2005 CCI 644
+- Decision date: 2005-09-30
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 643, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Fera c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-09-30
+Référence neutre
+2005 CCI 644
+Numéro de dossier
+2004-4661(IT)I
+Juges et Officiers taxateurs
+Alexander A. Sarchuk
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2004-4661(IT)I
+ENTRE :
+GIUSEPPE FERA,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+________________________________________________________________
+Appel entendu le 16 septembre 2005, à Toronto (Ontario).
+Devant : L'honorable juge A. A. Sarchuk
+Comparutions :
+Pour l'appelant :
+L'appelant lui‑même
+Avocat de l'intimée :
+Me Paolo Torchetti
+________________________________________________________________
+JUGEMENT
+L'appel interjeté à l'égard de la cotisation fiscale établie en vertu de la Loi de l'impôt sur le revenu pour l'année d'imposition 2000 est accueilli et la cotisation est déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation compte tenu du fait que le revenu reçu par l'appelant de 1190069 Ontario Limited s'élève à 27 300 $.
+Signé à Ottawa, Canada, ce 30e jour de septembre 2005.
+« A. A. Sarchuk »
+Le juge Sarchuk
+Traduction certifiée conforme
+ce 24e jour de février 2009.
+Yves Bellefeuille, réviseur
+Référence : 2005CCI644
+Date : 20050930
+Dossier : 2004-4661(IT)I
+ENTRE :
+GIUSEPPE FERA,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Sarchuk
+[1] L'appelant a omis de produire une déclaration de revenus pour l'année d'imposition 2000, contrevenant ainsi au paragraphe 150(1) de la Loi de l'impôt sur le revenu (la « Loi »). Le 19 janvier 2004, le ministre du Revenu national a, en application du paragraphe 152(7) de la Loi, établi une cotisation relative à l'impôt à payer par l'appelant pour l'année en cause. Il a alors supposé que, pendant l'année d'imposition pertinente, l'appelant avait reçu un revenu s'élevant à 32 500 $ au titre de son emploi chez 1190069 Ontario Limited. Le ministre a en outre supposé que l'appelant avait reçu un feuillet T4A de son employeur.
+[2] L'appelant nie avoir reçu un tel revenu au titre de son emploi auprès de la société 1190069 pendant l'année d'imposition en cause, et il soutient qu'il n'a jamais reçu un feuillet T4A de l'employeur ou des experts‑comptables de l'employeur. En l'absence des renseignements nécessaires, il a déclaré à l'Agence du revenu du Canada une somme de 11 587,50 $ comme montant estimatif de son revenu pour l'année d'imposition 2000.
+[3] La société 1190069 était propriétaire de Mud Hen's Tap & Grill, établissement situé à Pickering. Pendant un certain nombre d'années, l'appelant a travaillé chez Mud Hen's comme barman et gérant des quarts de travail. Il travaillait habituellement les jeudis, les vendredis et les samedis, de 17 heures jusqu'à la fermeture du bar, vers 2 heures. De plus, pendant la saison de la ligue nationale de football, il travaillait les dimanches, ce qui, en règle générale, correspondait à une période de travail de cinq ou six heures. Au début de chaque période de travail, il devait se charger de prendre livraison des commandes de boissons alcoolisées pour le bar. Par la suite, ses fonctions consistaient principalement à s'occuper du bar et à superviser les deux serveurs. Ses « supérieurs » immédiats étaient trois des propriétaires, à savoir Mme Sherrie Alexiuk, son mari, Wesley Bagnell, et Joe Palaca. Il a affirmé que Mme Alexiuk et M. Bagnell étaient les principaux responsables de la gestion du bar et que, même s'il se donne le titre de gérant, il n'avait absolument aucune responsabilité en ce qui concerne la tenue des livres comptables de la société, fonction qui relevait exclusivement de Sherrie Alexiuk. Dans son témoignage, il a également avancé que, pendant la période pertinente, les cinq propriétaires étaient perpétuellement en conflit et que [TRADUCTION] « ils se volaient les uns les autres. Ils ont donc embauché un séquestre pour qu'il vienne au bar et compte tout l'argent à la fin de la soirée. » Il a ajouté que les [TRADUCTION] « livres étaient tout embrouillés et que personne ne savait exactement ce qui se passait. C'est pourquoi ils avaient quatre ou cinq années de retard pour leur impôt des sociétés, la TVP et la TPS, et ainsi de suite. » Il a qualifié la situation de chaotique et il a signalé qu'à la fin de chaque jour ouvrable, un séquestre se présentait pour [TRADUCTION] « compter les recettes » en sa présence et en celle du gérant de service. Il a également fait état de désaccords entre les propriétaires au sujet des comptes qui devaient être payés et du degré de méfiance entre eux, ce qui a donné lieu à des accusations de vol, à [TRADUCTION] « l'installation de caméras » et, finalement, à une enquête policière.
+[4] L'appelant soutient que, pour l'année d'imposition en cause, il n'a jamais reçu de feuillet T4 de son employeur ou des experts‑comptables de celui‑ci. En fin de compte, c'est l'intimée qui lui a remis un double du T4 et il affirme que la somme qui y est énoncée est totalement erronée. Par exemple, il avance qu'en 1999, il a travaillé quelques mois et a gagné 3 951 $ et qu'en 2001, on lui a versé 11 250 $ pour une année complète de travail. Il allègue que la somme de 32 500 $ est inexacte et ne reflète pas ce qui lui a été payé pour l'année d'imposition en cause. Il s'est efforcé d'obtenir les chèques, mais sans succès, et il a laissé entendre que, s'il y avait eu autant de chèques que le prétend l'intimée, il doutait qu'il les ait endossés. Dans ce contexte, il a en outre signalé qu'il arrivait, lorsque des chèques étaient émis, que le compte bancaire de la société soit vide et que [TRADUCTION] « les chèques étaient constamment sans provision. Se faire remettre de l'argent était un cauchemar, se faire payer était un cauchemar parce que le séquestre était — le séquestre ne s'occupait que du locateur et de tous les fournisseurs. Le personnel attendait. » Dans son témoignage, il a aussi mentionné qu'à certaines occasions, même si un chèque était émis pour payer son salaire, un des propriétaires insistait pour le payer en espèces plutôt que de lui remettre le chèque.
+[5] Madame Stephanie Cannata (Mme Cannata), aide‑comptable et cadre supérieur chez BGS Chartered Accountants (BGS), a témoigné pour le compte de l'intimée. Elle a produit un document qui, selon la lettre d'accompagnement de BGS, consiste en un [TRADUCTION] « résumé des chèques émis à Joe Ferra [sic] pendant l'année civile se terminant le 31 décembre 2000 »[1]. La lettre précise en outre — et ce fait est confirmé par le témoin — que les sommes ont été inscrites sur la base des chèques compensés, mais qu'aucun double des relevés bancaires ou des chèques compensés n'est actuellement disponible, puisqu'ils ont été retournés au client. Quant au document lui‑même, Mme Cannata a mentionné au cours de son témoignage que les pages deux et trois constituaient un [TRADUCTION] « extrait du grand livre général » et, plus précisément, qu'elles présentaient les frais de gestion, et incluaient [TRADUCTION] « les numéros des chèques, leur date, leur bénéficiaire et leur montant ». Selon elle, cette information a été obtenue de la société 1190069, laquelle a fourni [TRADUCTION] « douze ensembles de relevés bancaires accompagnés des originaux des chèques et ces chèques avaient été encaissés et c'est pourquoi nous les avons consignés ». Madame Cannata a également affirmé que, même s'ils ont aussi reçu les chèques compensés, les experts‑comptables ne pouvaient établir qui les avait encaissés puisque les versos des chèques ne leur avaient pas été remis. Des paiements s'élevant à 27 300 $ faits à l'appelant au moyen de chèques figurent dans la colonne intitulée [TRADUCTION] « Décaissements », laquelle, d'après les assertions de Mme Cannata, montre des [TRADUCTION] « décaissements tirés d'un relevé bancaire ». Madame Cannata a également fait mention d'un débit de 5 200 $ inscrit à la page deux de ce document et accompagné des précisions suivantes : [TRADUCTION] « pour consigner le solde des frais de gestion payés à Joe Ferra [sic] afin de permettre le rapprochement avec son montant annuel de 32 500 $ ». Elle a affirmé que les dirigeants de la société 1190069 avaient déclaré aux experts‑comptables de BGS que le salaire total de l'appelant pour cette année‑là [TRADUCTION] « aurait dû être de 32 500 $. Et ils nous ont assurés qu'il avait reçu cette valeur totale. » Elle a admis qu'il n'y avait aucun chèque ni aucune pièce justificative établissant ce fait, que l'entrée à cet égard (c.‑à‑d. la somme supplémentaire de 5 200 $) [TRADUCTION] « se fondait uniquement sur des conversations et des entrevues avec le client » et que, pour cette raison, cette somme n'était pas consignée comme un décaissement tiré des relevés bancaires, mais qu'il s'agissait plutôt d'une écriture de correction faite par les dirigeants de la société 1190069.
+Conclusion
+[6] Il incombait à l'appelant de prouver que la cotisation établie par le ministre était inexacte et, pour y arriver, il devait montrer l'existence de faits raisonnablement susceptibles d'étayer la conclusion voulant que la cotisation soit erronée. Les faits de cette nature peuvent être établis au moyen d'une preuve directe ou d'une déduction raisonnable. Dans le présent appel, il ne fait aucun doute que les difficultés financières de la société 1190069 ont été exacerbées par les querelles intestines opposant les associés et que ces difficultés peuvent bien avoir été à l'origine de certains des « arrangements » relatifs aux versements de rémunération décrits par l'appelant. Il est regrettable qu'il n'ait pas été en mesure de présenter des relevés bancaires, des talons de chèques de paye ou de quelconques autres documents afin d'étayer sa thèse. Cependant, en l'absence d'éléments de preuve indépendants, il est difficile d'accepter que l'estimation de 11 587,50 $ faite par l'appelant reflète fidèlement la rémunération qu'il a reçue pendant l'année en cause. Les mêmes observations peuvent être formulées au sujet des allégations de l'appelant concernant ses heures de travail. Selon son témoignage, il travaillait environ 40 heures chaque semaine, mais il a ajouté qu'il lui arrivait de remplacer des employés pendant d'autres journées, lorsque cela était nécessaire. Comme l'estimation faite par l'appelant quant à sa rémunération se fonde sur un témoignage vague et non étayé, il n'est pas impossible d'accepter que ce chiffre puisse être raisonnable dans les circonstances.
+[7] Je me penche maintenant sur la somme de 5 200 $ qui a été consignée au moyen d'une écriture de correction. Cette somme n'est étayée par aucun élément de preuve acceptable permettant d'établir qu'elle reflétait une rémunération payée par la société 1190069 à l'appelant. Je suis quelque peu étonné que les experts‑comptables de BGS aient accepté les « assurances » données par les dirigeants de l'entreprise sans procéder à de plus amples vérifications. De fait, dans son témoignage, Mme Cannata a affirmé que cette somme consistait en une écriture de correction au sujet de laquelle elle a précisé que [TRADUCTION] « la source était donc une écriture de journal. Cette somme ne provient pas d'un relevé bancaire. Ce n'est qu'une écriture que nous avons faite. » À mon avis, il n'existe absolument aucun élément de preuve permettant de lier cette somme à la rémunération que la société 1190069 a payée à l'appelant. Les assertions qui auraient été formulées par un représentant non identifié de la société 1190069 ne sont rien de plus que du ouï‑dire. Elles ne sont étayées par aucun autre renseignement et on ne peut donc leur accorder que peu de poids, voire aucun. Par conséquent, j'arrive à la conclusion que la somme de 5 200 $ ne doit pas être incluse dans le calcul du revenu de l'appelant pour l'année d'imposition en cause.
+[8] L'appel est accueilli sur le fondement que le revenu de l'appelant pour l'année d'imposition 2000 est de 27 300 $.
+Signé à Ottawa, Canada, ce 30e jour de septembre 2005.
+« A. A. Sarchuk »
+Le juge Sarchuk
+Traduction certifiée conforme
+ce 24e jour de février 2009.
+Yves Bellefeuille, réviseur
+RÉFÉRENCE :
+2005CCI644
+NO DU DOSSIER DE LA COUR :
+2004-4661(IT)I
+INTITULÉ :
+Giuseppe Fera c. Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+Toronto (Ontario)
+DATE DE L'AUDIENCE :
+Le 16 septembre 2005
+MOTIFS DU JUGEMENT :
+L'honorable juge A. A. Sarchuk
+DATE DU JUGEMENT :
+Le 30 septembre 2005
+COMPARUTIONS :
+Pour l'appelant :
+L'appelant lui‑même
+Avocat de l'intimée :
+Me Paolo Torchetti
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelant :
+Nom :
+S/O
+Cabinet :
+S/O
+Pour l'intimée :
+Me John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Pièce A-1. Ce document a été préparé par Ensa Spermoni, de BGS, le 28 mars 2003.

@@ -1,0 +1,361 @@
+---
+title: "Patoine c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27607/index.do"
+last_modified: "2007-05-18"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 CCI 86"
+citation2: ""
+neutral_citation: "2007 CCI 86"
+decision_date: "2007-05-18"
+language: "fr"
+item_id: "27607"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 428
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T09:39:54.456000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "5e0b1afd10878f91f46069af3253b609a2c31cdbd94527249f4b09b8a90ad235"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Patoine c. La Reine
+
+- Citation: 2007 CCI 86
+- Decision date: 2007-05-18
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 428, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Patoine c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-05-18
+Référence neutre
+2007 CCI 86
+Numéro de dossier
+2006-697(GST)G
+Juges et Officiers taxateurs
+Alain Tardif
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2006-697(GST)G
+ENTRE :
+RENÉ PATOINE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu les 30 et 31 janvier 2007 à Trois-Rivières (Québec)
+Devant : L'honorable juge Alain Tardif
+Comparutions :
+Avocat de l'appelant :
+Me Alain Bolduc
+Avocat de l'intimée :
+Me Louis Cliche
+____________________________________________________________________
+JUGEMENT
+L'appel de la nouvelle cotisation établie relativement à la taxe sur les produits et services en vertu de la partie IX de la Loi sur la taxe d'accise, dont l'avis est daté du 1er décembre 2005 et porte le numéro 02307594, est accueilli, et l'affaire est renvoyée au ministre du Revenu national pour nouvel examen et nouvelle cotisation en prenant pour acquis les admissions décrites au paragraphe 13 des motifs du présent jugement, faisant état des modifications mineures devant être apportées à la cotisation à l'origine du présent appel. Les pénalités sont justifiées et j'en confirme le bien‑fondé. Le tout avec dépens en faveur de l'intimée, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 18e jour de mai 2007.
+« Alain Tardif »
+Juge Tardif
+Référence : 2007CCI86
+Date : 20070518
+Dossier : 2006-697(GST)G
+ENTRE :
+RENÉ PATOINE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Tardif
+[1] Il s'agit d'un appel relatif à la nouvelle cotisation de taxe sur les produits et services (« TPS ») portant le numéro 02307594 et en date du 1er décembre 2005, dont le montant est de 16 139,89 $, établie en vertu de la Loi sur la taxe d'accise (la « Loi »), relativement à la période allant du 1er janvier 1998 au 31 décembre 2003. La nouvelle cotisation vise une taxe de 10 086,21 $, des pénalités de 4 909,05 $ et des intérêts de 1 144,63 $.
+[2] La question en litige consiste essentiellement à déterminer si la nouvelle cotisation datée du 1er décembre 2005 était justifiée en vertu des articles 165, 168, 225, 228 et 285 et des paragraphes 221(1), 280(1), 298(4) et 299(4) de la Loi.
+[3] L'appelant demande l'annulation de la taxe, des pénalités et des intérêts. De plus, il soutient que la nouvelle cotisation datée du 1er décembre 2005 porte sur les années 1998 et 1999, et sur une partie de l'année 2000, ce qui doit être annulé pour cause de prescription.
+[4] Pour établir la cotisation dont il est fait appel, le ministre du Revenu national (le « ministre ») a tenu pour acquis les hypothèses de fait suivantes :
+a) les faits ci-dessus admis;
+b) l'appelant est un inscrit aux fins de l'application de la TPS;
+c) en sa qualité d'inscrit, l'appelant est également mandataire du ministre avec obligation de percevoir et de remettre la TPS applicable à l'égard des fournitures taxables qu'il effectue;
+d) l'appelant est un particulier en affaires;
+e) en 1992, l'appelant s'est enregistré aux fins de la TPS à l'égard de ses activités agricoles;
+f) depuis 1965, l'appelant exerce également la profession de comptable;
+g) au cours de la période du 1er janvier 1998 au 31 décembre 2003, (la période en litige), les activités professionnelles de l'appelant consistaient en la tenue de livres, la préparation d'états financiers, la préparation de déclarations d'impôt et autres services reliés à la comptabilité;
+h) l'appelant était également chargé de cours, notamment au niveau CEGEP, en comptabilité et en tenue de livres;
+i) il agissait également comme représentant de la société Sigma informatique inc. pour laquelle il effectuait de la formation sur le logiciel Sigma Finance;
+j) au cours de la période en litige, l'appelant exploitait une entreprise de transport laquelle opérait sous le nom de Transport mon rêve à moi : cette entreprise a cessé ses activités en mars 2003;
+k) l'appelant s'adonnait également à la vente d'attelages de chiens, de chevaux et de traîneaux sur lesquels il ne percevait pas de TPS;
+l) l'appelant effectue lui-même sa tenue de livres et la production de ses rapports de taxes;
+m) il ne fait appel à aucun vérificateur externe et il n'a pas instauré de système de contrôle interne;
+n) la tenue de livres de l'appelant démontre de nombreuses lacunes malgré l'expérience de celui‑ci dans le domaine de la comptabilité;
+o) à titre d'exemple, ses dépenses personnelles ainsi que celles qui ne sont pas appuyées de pièces justificatives se retrouvent parmi ses dépenses d'entreprises;
+p) le 3 avril 1998 et le 18 septembre 1998, l'appelant a produit une demande d'annulation d'inscription relativement à deux entreprises qu'il exploitait alors qu'au cours des quatre trimestres civils précédent le trimestre donné, ses déclarations de taxes faisaient état de fournitures taxables pour un montant de 34 269 $;
+q) de plus, au cours la période subséquente au 18 avril 1998, l'appelant a toujours eu des revenus annuels supérieurs à 30 000 $;
+r) l'appelant ne facture pas tous les clients pour lesquels il prépare les déclarations de revenus;
+s) ainsi l'examen des livrets de factures de l'appelant a permis d'établir qu'au cours des années 1999 à 2002, celui‑ci n'aurait facturé que 341 de ses 2 170 clients, soit 14,7 % de sa clientèle, pour lesquels il préparait les déclarations de revenus sur support électronique;
+t) l'appelant a reçu des revenus de commissions et des revenus de formation pour lesquels la société Sigma lui a versé la TPS applicable mais dont l'appelant n'a pas fait remise au ministre;
+u) d'une part l'appelant se faisait rembourser ses frais de déplacement par la société Sigma inc. et, d'autre part, il les réclamait à titre de dépenses d'entreprise au niveau de l'impôt ainsi que les intrants y afférant au niveau des taxes;
+v) pour justifier les dépenses pour lesquelles il réclamait des intrants, l'appelant a produit des factures non pertinentes, des factures qui avaient même été modifiées entre deux présentations aux préposés du ministre, des factures pour des dépenses personnelles et effectuées en dehors du cadre de ses activités commerciales, des dépenses pour lesquelles il n'y avait aucune facture et dont les raisons pour leur absence variait d'une fois à l'autre ainsi que des dépenses réclamées en double;
+w) parmi les dépenses personnelles qui lui ont été refusées, nous retrouvons :
+· réparation et entretien de téléviseur, d'appareils électroménagers et d'outillage électrique;
+· achat de batterie de cuisine;
+· achat de savon à vaisselle, de savon à lessive et d'assouplisseur à linge;
+· réparation de tondeuse, de scie à chaîne et achats d'huile à chaîne;
+· achat de tapis d'évier et de brosse de ramonage pour cheminée;
+· achat d'accessoires et de matériel d'entretien pour pelouse et plates bandes;
+· frais d'entretien de piscine;
+· frais de déneigement pour son chalet;
+· factures d'épicerie chez Costco;
+· achat de nourriture d'oiseaux, de moulées pour chien, de nourriture pour chat et de moulées pour petits animaux domestiques;
+· achat de vêtements pour lui et les membres de sa famille;
+· frais d'immatriculation pour le véhicule de son épouse;
+· sa cotisation chez Costco ainsi qu'à l'Association québécoise de gérontologie;
+· des dépenses ne donnant pas droit à la réclamation de CTI, notamment un sous‑contrat accordé à son épouse ainsi que des primes d'assurance-vie;
+x) l'appelant ne tient aucun carnet de route à l'égard des véhicules qu'il utilise dans le cadre de ses activités commerciales;
+y) par ailleurs, il réclame des intrants relativement à l'entretien et aux réparations des véhicules de sa conjointe et de ses enfants;
+z) il a même réclamé des intrants pour des achats d'essence sans plomb alors que le véhicule utilisé dans le cadre de son entreprise s'alimente au mazout (diesel);
+aa) l'appelant a réclamé également des intrants pour des dépenses effectuées dans le cadre de l'entreprise appartenant à son épouse qui ne peut les réclamer en raison de son statut de petit fournisseur;
+bb) l'appelant n'en est pas à sa première vérification dans le cadre de la Loi;
+cc) il a réclamé de nouveau des intrants pour des dépenses qui lui ont été refusées dans le passé en raison de leur nature personnelle;
+dd) les faits ci-haut relatés qui témoignent de la désinvolture de l'appelant à l'égard d'obligations en tant qu'inscrit, la formation de celui-ci dans le domaine de la comptabilité, les activités professionnelles de l'appelant dans le domaine de la comptabilité, le fait qu'il ne s'agit pas de sa première vérification en semblable matière et l'importance des montants en jeu nous amène à conclure que l'appelant a fait un faux énoncé ou une omission dans une déclaration lorsqu'il a produit sa demande d'annulation d'inscription;
+ee) l'appelant a également fait un faux énoncé ou une omission dans ses formulaires de production en ne déclarant pas toutes les fournitures taxables qu'il a effectuées;
+[5] Plusieurs faits mentionnés tant dans l'Avis d'appel que dans la Réponse à l'avis d'appel ont fait l'objet d'admissions.
+Faits mentionnés dans l'Avis d'appel admis par l'intimée
+1. L'appelant loge un appel à l'égard de l'avis de nouvelle cotisation numéro 02307594 émis le 1er décembre 2005 pour la période du 1er janvier 1998 au 31 décembre 2003.
+2. En date du 12 novembre 2004, Revenu Québec a transmis à l'appelant un avis de nouvelle cotisation concernant la période du 1er janvier 1998 au 31 décembre 2003.
+3. Suivant cet avis de nouvelle cotisation, Revenu Québec a réclamé à l'appelant des droits impayés en vertu de la Loi sur la taxe d'accise ainsi que les pénalités et intérêts prévus à cette loi pour un montant total de vingt et un mille neuf cent quarante-six dollars et quinze cents (21 946,15 $).
+4. Le ou vers le 27 janvier 2005, l'appelant a déposé un avis d'opposition afin de contester cet avis de nouvelle cotisation du 12 novembre 2004.
+5. Suite aux représentations effectuées par l'appelant dans le cadre de son opposition, Revenu Québec a émis un avis de nouvelle cotisation daté du 1er décembre 2005 réclamant à ce dernier des droits impayés en vertu de la Loi sur la taxe d'accise ainsi que les pénalités et intérêts prévus à cette loi pour un montant total de seize mille cent trente-neuf dollars et quatre‑vingt‑neuf cents (16 139,89 $).
+Les faits
+[...]
+9. Ces entreprises étaient respectivement inscrites aux fins de la TPS sous les numéros 11936 6847 RT0001 et 130898521RT.
+[...]
+14. Suite à une vérification effectuée par un représentant de Revenu Québec, l'avis de nouvelle cotisation daté du 12 novembre 2004 a été émis.
+[...]
+Faits mentionnés dans la Réponse à l'avis d'appel admis par l'appelant
+9.- Suite à une vérification effectuée auprès de l'appelant, le ministre cotisa ce dernier au titre de la TPS, pour la période du 1er janvier 1998 au 31 décembre 2003, pour un montant de droits de 13 301,24 $ ainsi que des pénalités de 6 871,95 $ et des intérêts de 1 862,96 $, montants calculés au 12 novembre 2004 : l'avis de cotisation en date du 12 novembre 2004 porte le numéro 2307202;
+10.- Par avis d'opposition en date du 31 janvier 2005, l'appelant s'est opposé à la cotisation du ministre;
+11.- À la suite des représentations de l'appelant au stade de l'avis d'opposition, par décision sur opposition au moyen d'un avis de nouvelle cotisation, le ministre établit une nouvelle cotisation, pour un montant de 10 086,21 $ de droits, de 4 909,05 $ de pénalités et de 1 144,63 $ d'intérêts : l'avis de nouvelle cotisation, daté du 1er décembre 2005, porte le numéro 2307594;
+12.- En cotisant l'appelant, le ministre s'est fondé sur les hypothèses de faits et les conclusions suivantes :
+[...]
+b) l'appelant est un inscrit aux fins de l'application de la TPS;
+c) en sa qualité d'inscrit, l'appelant est également mandataire du ministre avec obligation de percevoir et de remettre la TPS applicable à l'égard des fournitures taxables qu'il effectue;
+d) l'appelant est un particulier en affaires;
+e) en 1992, l'appelant s'est enregistré aux fins de la TPS à l'égard de ses activités agricoles;
+f) depuis 1965, l'appelant exerce également la profession de comptable;
+g) au cours de la période du 1er janvier 1998 au 31 décembre 2003, (la période en litige), les activités professionnelles de l'appelant consistaient en la tenue de livres, la préparation d'états financiers, la préparation de déclarations d'impôt et autres services reliés à la comptabilité;
+h) l'appelant était également chargé de cours, notamment au niveau CEGEP, en comptabilité et en tenue de livres;
+i) il agissait également comme représentant de la société Sigma informatique inc. pour laquelle il effectuait de la formation sur le logiciel Sigma Finance;
+j) au cours de la période en litige, l'appelant exploitait une entreprise de transport laquelle opérait sous le nom de Transport mon rêve à moi : cette entreprise a cessé ses activités en mars 2003;
+[...]
+l) l'appelant effectue lui-même sa tenue de livres et la production de ses rapports de taxes;
+m) il ne fait appel à aucun vérificateur externe et il n'a pas instauré de système de contrôle interne;
+n) la tenue de livres de l'appelant démontre de nombreuses lacunes malgré l'expérience de celui‑ci dans le domaine de la comptabilité;
+o) à titre d'exemple, ses dépenses personnelles ainsi que celles qui ne sont pas appuyées de pièces justificatives se retrouvent parmi ses dépenses d'entreprises;
+p) le 3 avril 1998 et le 18 septembre 1998, l'appelant a produit une demande d'annulation d'inscription relativement à deux entreprises qu'il exploitait alors qu'au cours des quatre trimestres civils précédent le trimestre donné, ses déclarations de taxes faisaient état de fournitures taxables pour un montant de 34 269 $;
+q) de plus, au cours la période subséquente au 18 avril 1998, l'appelant a toujours eu des revenus annuels supérieurs à 30 000 $;
+r) l'appelant ne facture pas tous les clients pour lesquels il prépare les déclarations de revenus;
+[...]
+t) l'appelant a reçu des revenus de commissions et des revenus de formation pour lesquels la société Sigma lui a versé la TPS applicable mais dont l'appelant n'a pas fait remise au ministre;
+[...]
+x) l'appelant ne tient aucun carnet de route à l'égard des véhicules qu'il utilise dans le cadre de ses activités commerciales;
+[6] À l'appui de ses prétentions, l'appelant a fait témoigner deux personnes qui exploitaient une station‑service avec un dépanneur dans la petite communauté où il résidait. Ces deux personnes ont essentiellement affirmé que l'appelant n'y achetait que de l'essence et du carburant diesel et jamais d’autre produit offert en vente à leur dépanneur, tel que de la nourriture ou de la bière.
+[7] Madame France Morasse, qui travaillait à l'époque à la caisse populaire où l'appelant faisait affaires, est venue expliquer, quant à elle, la façon de faire de l'appelant lors des dépôts de chèques; il s'agissait d'une façon fort particulière, au point qu'elle a demandé à l'appelant pourquoi il procédait ainsi. La réponse obtenue a d'ailleurs été celle soumise par l'appelant.
+[8] Au lieu de tout simplement déposer certains chèques, il les encaissait et le comptant obtenu était immédiatement déposé.
+[9] Selon l'appelant, il s'agissait généralement de petits montants qu'il encaissait de cette façon parce qu'il croyait que les chances que les chèques soient refusés pour cause de « provisions insuffisantes » étaient moins grandes.
+[10] Sur un autre sujet, le fils de l'appelant a témoigné que deux montants, soit l'un de 300 $ et un autre de 400 $, provenaient de lui et de ses frères et soeurs en remboursement d'un montant payé par l'appelant pour l'achat de billets pour un spectacle, augmenté de 40 $ pour couvrir les frais d'essence de l'appelant pour un trajet de plus de trois heures. Malgré les explications douteuses qui ne m'ont pas convaincu, le représentant du ministre a accepté la pertinence de l'explication; il n'y a donc pas lieu de s'étendre sur cet élément.
+[11] Monsieur Martin Bérard a témoigné à titre d'expert. Sa qualité d'expert a été admise par l'intimée. Monsieur Bérard a préparé de volumineux documents comportant deux volets.
+[12] D'abord, il a expliqué le travail exécuté au sujet des revenus. Il a annexé des copies des diverses pièces justificatives qui l'avaient amené à apporter certains correctifs. L'expert a cependant admis sans équivoque qu'une partie de la nouvelle cotisation était bien fondée, tant pour les revenus que pour les dépenses.
+[13] À la suite de la présentation de l'expert et de discussions avec la vérificatrice responsable du dossier, les parties ont convenu d'apporter certains correctifs à l’avantage de l’appelant ayant pour conséquence de réduire l'écart entre les deux positions quant aux revenus. Les admissions de l'intimée ont porté sur les montants suivants :
+Le tableau se trouve à la page suivante.
+DÉTAILS DES MODIFICATIONS DES REVENUS ACCORDÉS
+Revenus établis selon RQ avant avis d'appel
+Réduction des fournitures taxables 2006-10-26
+Pièce fournie (dépôt provenant d'un salaire)
+Pièce fournie (revenus provenant d'un transfert de compte)
+2003
+2002
+2001
+2000
+1999
+1998
+49 392,99
+42 597,73
+41 721,76
+32 680,55
+41 504,64
+37 968,87
+284,83
+250,00
+500,00
+Réduction des fournitures taxables 2007-01-31
+Pièce fournie (remise de dette provenant de Daniel Brisson)
+Pièce fournie (revenus de sa conjointe déposés dans son compte)
+Pièce fournie (revenus provenant d'un transfert de compte)
+Pièce fournie (revenus provenant d'un transfert de compte)
+Confirmation de Patrick Patoine
+de 2 dépôts ayant servis à
+rembourser des billets spectacles
+Pièce fournie (dépôts d'assurance)
+Pièce fournie (dépôts d'assurance)
+Pièce fournie (remboursement des frais de scolarité payés par M. Patoine et remboursés par Jean Patoine)
+Revenus finaux établis selon RQ
+700,00
+700,00
+1 077,76
+800,00
+300,00
+1 900,00
+1 353,28
+700,00
+__
+3 162,59
+2 000,00
+_______
+5 253,28
+250,00
+0,00
+500,00
+48 692,99
+39 435,14
+36 468,48
+32 430,55
+41 504,64
+37 468,87
+[14] Quant au deuxième volet, soit les dépenses, l'expert a expliqué avoir refait l'analyse en se servant des documents disponibles. De cette analyse, il a tiré ses propres conclusions quant à la recevabilité et la non‑recevabilité de certaines dépenses.
+[15] Il a admis avoir tiré certaines conclusions à partir d'explications verbales obtenues de l'appelant; il a aussi admis avoir accepté comme adéquates certaines mentions manuscrites sur certaines factures. En termes clairs, il n'a pas examiné très à fond le contenu de certaines pièces.
+[16] Lorsqu'il concluait que des dépenses devaient être refusées, monsieur Bérard en indiquait la raison dans une rubrique intitulée « commentaires ».
+[17] À cette rubrique, on peut lire de nombreux commentaires ou observations qui, dans certains cas, se répètent :
+· dépenses remboursées par Sigma;
+· montants parfois en double;
+· plusieurs factures au nom de la conjointe;
+· deux factures au nom de la conjointe;
+· une facture sans taxe non admissible, car le véhicule est au nom de la conjointe;
+· facture pour réparation de tondeuse;
+· montant refusé car les dépenses d'essence sont incluses dans la déclaration de revenus de Cécile Patoine;
+· il n'y a parfois qu'un relevé de transaction; on ne peut pas identifier s'il s'agit d'essence ou de carburant diesel;
+· factures au nom du Garage P.E. Grimard;
+· pièce écrite à la main;
+· montants entièrement remboursés par Sigma;
+· les frais d'assurance ne sont pas admissibles;
+· dépenses admissibles à 50 % seulement;
+· refusé car aucun paiement effectué à la conjointe;
+· aucune facture fournie;
+· déjà inclus dans l'entretien de la résidence;
+· inclus dans les fournitures de bureau;
+· trois factures sans taxe;
+· non admissible parce que le véhicule est au nom de la conjointe;
+· facture déjà comptabilisée;
+· non admissible car facture au nom de Les Éditions Lemay CIL enr.
+[18] Ce sont là des commentaires et observations très révélateurs quant à la piètre qualité de certains documents et pièces comptables du dossier fiscal de l'appelant, mais aussi quant à la négligence et à l'incurie de l'appelant relativement à ses obligations.
+[19] Finalement, l'appelant a témoigné. Il a soumis des explications surprenantes, voire renversantes pour quelqu'un possédant plusieurs diplômes d'études supérieures, mais surtout pour une personne qui donne des cours de comptabilité, et ce, non pas à des illettrés, mais à des étudiants au secondaire V et au cégep. Je crois important de rappeler certains aveux :
+d) l'appelant est un particulier en affaires; (admis)
+[...]
+f) depuis 1965, l'appelant exerce également la profession de comptable; (admis)
+[...]
+h) l'appelant était également chargé de cours, notamment au niveau CEGEP, en comptabilité et en tenue de livres; (admis)
+i) il agissait également comme représentant de la société Sigma informatique inc. pour laquelle il effectuait de la formation sur le logiciel Sigma Finance; (admis)
+[...]
+o) à titre d'exemple, ses dépenses personnelles ainsi que celles qui ne sont pas appuyées de pièces justificatives se retrouvent parmi ses dépenses d'entreprises; (admis)
+[...]
+q) de plus, au cours la période subséquente au 18 avril 1998, l'appelant a toujours eu des revenus annuels supérieurs à 30 000 $; (admis)
+r) l'appelant ne facture pas tous les clients pour lesquels il prépare les déclarations de revenus; (admis)
+[20] Il n'a jamais complété de registre relatif à l'usage des trois véhicules lui permettant de distinguer l'utilisation des véhicules pour ses activités commerciales de l'usage personnel; il a arbitrairement fixé le pourcentage de l'utilisation à des fins personnelles et à des fins commerciales et l'utilisation de sa conjointe. Selon lui, les autorités devraient se contenter de ses explications, sans plus.
+[21] Il a affirmé avoir fait plusieurs centaines de déclarations de revenus, tant provinciales que fédérales, moyennant des honoraires de 5 $, de 10 $ ou de 15 $, sous prétexte que certains groupes communautaires tels les C.L.S.C. en faisaient autant.
+[22] Non seulement il réclamait des honoraires insignifiants pour son travail, mais son témoignage est qu'il avait dû prendre une habitude particulière, étant donné que les petits chèques étaient ceux qui, le plus souvent, étaient refusés à l'encaissement pour le motif « sans provisions ».
+[23] Il aurait été beaucoup plus pertinent de faire témoigner des personnes en mesure d'établir la très grande générosité de l'appelant, puisque je ne crois pas que l'appelant complétait des déclarations de revenus pour 5 $ ou 10 $, et ce, d'une façon généralisée, d'autant plus que, selon son témoignage, ce sont ces petits chèques qui lui créaient des embêtements.
+[24] Il a affirmé avoir mis sur pied trois systèmes de comptabilité informatisés distincts, tout en admettant avoir utilisé certaines dépenses plus d'une fois. En d'autres termes, la même dépense était imputée à des activités commerciales distinctes. Il a aussi admis avoir réclamé des crédits de taxe sur les intrants (« CTI ») pour des dépenses liées à une entreprise exploitée par son épouse, qui ne pouvait pas les réclamer, puisqu'elle n'était pas inscrite.
+[25] L'appelant a également admis avoir réclamé des CTI pour des dépenses de nature personnelle.
+[26] Les dépenses de nature personnelle en question ont été énumérées à l'alinéa 12w) de la Réponse à l'avis d'appel et se décrivent comme suit :
+w) parmi les dépenses personnelles qui lui ont été refusées, nous retrouvons :
+· réparation et entretien de téléviseur, d'appareils électroménagers et d'outillage électrique;
+· achat de batterie de cuisine;
+· achat de savon à vaisselle, de savon à lessive et d'assouplisseur à linge;
+· réparation de tondeuse, de scie à chaîne et achats d'huile à chaîne;
+· achat de tapis d'évier et de brosse de ramonage pour cheminée;
+· achat d'accessoires et de matériel d'entretien pour pelouse et plates bandes;
+· frais d'entretien de piscine;
+· frais de déneigement pour son chalet;
+· factures d'épicerie chez Costco;
+· achat de nourriture d'oiseaux, de moulées pour chien, de nourriture pour chat et de moulées pour petits animaux domestiques;
+· achat de vêtements pour lui et les membres de sa famille;
+· frais d'immatriculation pour le véhicule de son épouse;
+· sa cotisation chez Costco ainsi qu'à l'Association québécoise de gérontologie;
+· des dépenses ne donnant pas droit à la réclamation de CTI, notamment un sous‑contrat accordé à son épouse ainsi que des primes d'assurance-vie;
+[27] Pour expliquer avoir fait des réclamations relatives à des dépenses essentiellement personnelles, l'appelant a affirmé que lors d'une vérification antérieure, le ministre avait accepté un pourcentage de 20 % de dépenses liées aux fleurs, à la piscine, et ainsi de suite, ce qui m'apparaît très surprenant, voire même audacieux comme interprétation. En effet, si l'appelant a dû faire face à certaines vérifications antérieures, il est tout simplement surprenant qu’il ne se soit pas amendé quant à la qualité des registres et pièces justificatives essentielles pour prendre en charge ses responsabilités fiscales prévues pourtant très clairement par la Loi.
+[28] Il a aussi réclamé des frais de nourriture pour petits animaux au motif qu'il possédait un chien de garde et que cela était tout aussi valable que d’avoir un système d'alarme, lequel aurait été en partie admissible. La preuve n'a cependant pas révélé si les chats étaient aussi responsables de la sécurité des lieux, peut-être pour la chasse aux souris.
+[29] En bref, il a tenté de fournir toutes sortes d'explications plus ou moins pertinentes d'une part et, d'autre part, tout à fait incomplètes, notamment pour les factures d'épicerie chez Costco, pour lesquelles il a indiqué qu'il s'agissait de biens liés à son bureau et aux automobiles.
+[30] Les explications soumises sont surprenantes de la part d'une personne ayant une telle formation et expérience, qui, de surcroît, a fait l'objet de vérifications antérieures.
+[31] L'appelant n'est-il pas celui qui a réclamé l'annulation de ses inscriptions de TPS alors que ses revenus étaient supérieurs à la limite de 30 000 $ établie par la Loi? Encore là, malgré les déclarations fausses et mensongères évidentes, il a soutenu que l'irrégularité découlait de mauvais renseignements.
+[32] Un mauvais renseignement peut avoir deux causes : la première est l'incompétence de la personne qui fournit le renseignement, et la deuxième est l'incompétence, la mauvaise formulation de la question ou tout simplement la mauvaise foi de celui qui sollicite l'information.
+[33] Encore une fois, ce sont là des éléments largement suffisants pour conclure que l'appelant se moquait complètement de son obligation de respecter les dispositions de la Loi, qui l'obligeait à avoir une comptabilité cohérente et conforme aux règles de l'art.
+[34] Sa conjointe exploitait une entreprise qui consistait à vendre des harnais, des selles et d'autres objets de cette nature. Ces articles divers acquis lors de ventes aux enchères étaient réparés et revendus. L'appelant a soutenu qu'il s'agissait là d'un simple passe-temps ne générant que quelques milliers de dollars par année; la petitesse de l'entreprise justifiait, selon lui, qu'il n'avait pas de comptabilité permettant de savoir les prix d'achat et les prix de vente. Sa conjointe déclarait les revenus de sa petite entreprise.
+[35] À titre de spécialiste en comptabilité, comment l’appelant pouvait-il justifier pareilles aberrations d'une part et, d'autre part, comment pouvait-il profiter des CTI si son épouse n'était pas inscrite? La compilation justifiée et documentée du coût d’achat des biens qui font l'objet d'une activité commerciale n'est pas un caprice laissé à la bonne volonté des personnes exploitant l'entreprise, mais une obligation permettant éventuellement de faire une reddition des comptes fiables et surtout crédible.
+[36] Bien qu'il n'y avait pas de comptabilité, il a admis avoir réclamé les CTI pour cette activité commerciale exploitée par sa conjointe. Il s'agit d'une logique assez surprenante pour quelqu'un qui enseigne la comptabilité au cégep.
+[37] Je n'accorde aucune crédibilité à la preuve de l'appelant. Il a retenu les services d'un comptable agréé, monsieur Martin Bérard, qui, d'entrée de jeu, a reconnu le bien‑fondé d'un très grand nombre des composantes à l'origine de la cotisation.
+[38] Les explications, observations ou commentaires offerts pour conclure que certaines dépenses auraient dû être acceptées ne sont pas suffisants. Il ne suffit pas de trouver quelqu'un ayant une formation professionnelle en comptabilité qui soit prêt à cautionner certains faits et gestes pour conclure que l'appréciation des vérificateurs est mal fondée, inappropriée ou inacceptable.
+[39] Certes, la qualité d'expert de monsieur Bérard a été admise et reconnue. Par contre, son témoignage a démontré qu'il avait accepté comme recevable ce qui ne l'était pas. Je fais notamment référence à certaines factures non conformes aux règles de l'art, à son acceptation très rapide des explications verbales fournies par son client, l'appelant, notamment au sujet de l'usage des véhicules; il ne connaissait même pas la vocation de celui qui fonctionnait au carburant diesel, soit une autocaravane.
+[40] Je n'accorde aucune valeur ou crédibilité à la preuve soumise par l'appelant.
+[41] Je crois, d'autant plus qu'il avait déjà fait l'objet d'une vérification dans les années antérieures, que l'appelant a délibérément choisi la confusion et le désordre à la clarté et à la cohérence, malgré ses nombreuses activités commerciales, croyant que cela le servirait bien sur le plan fiscal.
+[42] Si tel est le cas, il s'agissait là d'une très mauvaise décision et d'une explication inacceptable étant donné la formation de l'appelant et son expérience. Il est tout à fait incompréhensible et totalement inacceptable qu'une personne ayant les compétences de l'appelant se contente d'un système ou d'une méthode aussi incomplète et surtout aussi défaillante, n'ayant ni crédibilité ni fiabilité.
+[43] Certes, l'appelant et son épouse participaient à plusieurs activités commerciales; il s'agissait cependant d'activités relativement simples à gérer et à structurer de façon accessible et cohérente. Il était tout aussi facile d'obtenir des pièces justificatives adéquates et ne prêtant pas à confusion ou à équivoque.
+[44] Je suis convaincu que l'appelant se croyait capable de tromper le système en encourageant la mise sur pied d'un système équivoque. La multitude d'erreurs constatées, dont plusieurs étaient fort aberrantes, exclut toute possibilité de quelque bonne foi que ce soit.
+[45] L'appelant avait l'intelligence, le talent et les connaissances pour être en mesure de produire un dossier qui aurait pu être un véritable modèle de conformité. Il a choisi de procéder d'une façon obscure, d'obtenir des pièces justificatives incomplètes et d'exagérer d'une manière grossière certaines réclamations. L'absence évidente de bonne foi, certains faits et gestes démontrant d'une façon tout aussi évidente la mauvaise foi, les nombreux abus quant à l'utilisation de certaines pièces justificatives ainsi que l'audace téméraire relativement au traitement de plusieurs données justifient largement l'imposition des pénalités prévues par la Loi.
+[46] Quant aux prétentions relatives à la prescription, elles sont sans fondement aucun, puisque le dossier a permis de constater la faute lourde et l'incurie totale de l'appelant, au point que je n'ai aucune hésitation à conclure que l'appelant a volontairement et délibérément choisi une façon de faire dont le but évident était de tromper les autorités fiscales pour se soustraire à ses obligations.
+[47] Étant donné que l'intimée a admis le bien‑fondé de certaines prétentions de l'appelant, je dois faire droit à l'appel quant à ces admissions. En conséquence, le dossier est renvoyé au ministre pour nouvel examen et nouvelle cotisation en tenant compte des admissions décrites au paragraphe 13 des présents motifs du jugement, indiquant les modifications très mineures devant être apportées à la cotisation à l'origine du présent appel.
+[48] Les pénalités sont très justifiées et j'en confirme le bien‑fondé. Le tout avec dépens en faveur de l'intimée.
+Signé à Ottawa, Canada, ce 18e jour de mai 2007.
+« Alain Tardif »
+Juge Tardif
+RÉFÉRENCE :
+2007CCI86
+No DU DOSSIER DE LA COUR :
+2006-697(GST)G
+INTITULÉ DE LA CAUSE :
+René Patoine et Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+Trois-Rivières (Québec)
+DATE DE L'AUDIENCE :
+Les 30 et 31 janvier 2007
+MOTIFS DE JUGEMENT PAR :
+L'honorable juge Alain Tardif
+DATE DU JUGEMENT :
+le 18 mai 2007
+COMPARUTIONS :
+Avocat de l'appelant :
+Me Alain Bolduc
+Avocat de l'intimée :
+Me Louis Cliche
+AVOCAT INSCRIT AU DOSSIER:
+Pour l'appelant :
+Nom :
+Me Alain Bolduc
+Étude :
+Ville :
+Joli-Coeur, Lacasse et associés
+Trois-Rivières (Québec)
+Pour l'intimée :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

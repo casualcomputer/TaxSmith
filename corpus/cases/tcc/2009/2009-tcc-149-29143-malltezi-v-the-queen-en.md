@@ -1,0 +1,190 @@
+---
+title: "Malltezi v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29143/index.do"
+last_modified: "2009-03-12"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 TCC 149"
+citation2: ""
+neutral_citation: "2009 TCC 149"
+decision_date: "2009-03-12"
+language: "en"
+item_id: "29143"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6643
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T01:27:44.394000+00:00"
+cases_cited_count: 0
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "9ab2348abffebe847b55d648e5f8ff903cb31333368216b342560d21f6f663e9"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Malltezi v. The Queen
+
+- Citation: 2009 TCC 149
+- Decision date: 2009-03-12
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6643, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Malltezi v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2009-03-12
+Neutral citation
+2009 TCC 149
+File numbers
+2008-1485(IT)I
+Judges and Taxing Officers
+Judith Woods
+Subjects
+Income Tax Act
+Decision Content
+Dockets: 2008-1485(IT)I
+2008-1486(IT)I
+BETWEEN:
+ETLEVA MALLTEZI,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent;
+AND BETWEEN:
+EDUART MALLTEZI,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on March 5, 2009 at Toronto, Ontario
+By: The Honourable Justice Judith Woods
+Appearances:
+For the Appellants:
+Eduart Malltezi
+Counsel for the Respondent:
+Thang Trieu
+____________________________________________________________________
+JUDGMENT
+In respect of assessments made under the Income Tax Act and the Excise Tax Act for the 2002, 2003 and 2004 taxation years, it is ordered:
+1. the appeal by Etleva Malltezi with respect to a GST rebate claim for 2003 is dismissed; and
+2. the appeals by Etleva and Eduart Malltezi with respect to assessments made under the Income Tax Act for the 2002, 2003 and 2004 taxation years are allowed, and the assessments are referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the deductions claimed should be allowed except for: (1) all professional losses, (2) all deductions for cost of goods sold, (3) all bad debt expenses, and (4) all motor vehicle expenses.
+There will be no order as to costs.
+The Registry is directed to refund the Court’s filing fee to each of the appellants.
+Signed at Toronto, Ontario this 12th day of March 2009.
+“J. Woods”
+Woods J.
+Citation: 2009 TCC 149
+Date: 20090312
+Dockets: 2008-1485(IT)I
+2008-1486(IT)I
+BETWEEN:
+ETLEVA MALLTEZI,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent;
+AND BETWEEN:
+EDUART MALLTEZI,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Woods J.
+[1] Eduart Malltezi and his wife, Etleva Malltezi, appeal assessments relating to losses incurred through Mr. Malltezi’s efforts to manufacture and sell a glass cleaning machine. The assessments relate to 2002, 2003 and 2004.
+[2] The amount of the business losses that are being claimed are as follows. Mr. Malltezi claims losses of $21,698 for 2002, $20,193 for 2003, and $9,016 for 2004. Mrs. Malltezi claims losses of $19,541 for 2002, $20,194 for 2003, and $7,472 for 2004.
+The issues
+[3] At the beginning of the trial, there was some uncertainty as to the relief that was being sought by the appellants.
+[4] The uncertainty was not with the business losses that were claimed. It was about other items that were claimed and were disallowed by the Minister. For Mr. Malltezi, the assessments also disallowed professional losses. For Mrs. Malltezi, the assessments also disallowed professional losses and a claim for a GST rebate.
+[5] Mr. Malltezi represented both appellants at the hearing. He was unfamiliar with tax matters but he confirmed that the professional losses were a duplication of the business losses and should not have been claimed. He did not know whether a GST rebate was available and left that in the Court’s hands.
+[6] The issues, then, are as set out below.
+(a) Are the appellants entitled to business losses?
+(b) If so, what are the proper amounts that are deductible?
+(c) Is Mrs. Malltezi entitled to a GST rebate?
+Are the appellants entitled to business losses?
+[7] In the reply, the Minister submits that the expenses incurred by the appellants were not incurred for the purpose of earning income because the appellants did not carry on a business or commercial activity.
+[8] Mr. Malltezi, the only witness at the hearing, provided a significant amount of evidence to show that he and his wife were carrying on a bona fide commercial activity in partnership during the taxation years at issue.
+[9] I find that Mr. Malltezi was a credible witness and I accept his testimony. I would also note that the testimony was extremely well-supported by corroborating documentation.
+[10] The background to the losses is set out in a prepared statement that Mr. Malltezi read during his testimony. The relevant parts are reproduced below.
+1. On April 2001, I opened a Business named GLASS EQUIPMENT BUILT, with Business license as a sole proprietorship, effective March 2001.
+2. Since expenses for this Business were family contribution from the beginning, we decided to write down a Partnership Agreement between each other; my [w]ife and myself. Therefore the business changed from sole proprietorship to partnership on January 2002.
+3. We rented a unit in industrial area: Unit # 35, 2299 Drew Rd. Mississauga, Ontario. A lease Agreement for the pr[e]mises above term from May 15, 2001 to May, 2004 signed: on April 2001.
+4. A Business plan was prepared for horizontal glass washing machine.
+5. A design and draft for manufacture was prepared.
+6. The machine was built and here are the pictures of the machine taken in our shop and in the exhibition show.
+7. After the machine was built, was sent to exhibition WIN-DOOR on November 14, 15, 16 2001 which we can prove by showing the bills paid to Canadian window & door Manufactures Association , [Mendelssohn] (transportation company) who took the machine to the Exhibition show and Freeman decorating Ltd. bills for expenses in the booth.
+8. Market research was done using internet, discussions with individuals who visited the show, yellow pages, flyers and business cards, handed over in exhibition.
+9. On April 2003 we hired a company named sybervision media to build a web page with pictures and all contact information’s for this machine, and the business itself.
+10. In order to be up to the market’s need I upgraded and redesigned the machine, and here are some drawings for universal Glass Washer.
+11. Here are some pictures of this machine manufactured taken in our shop and in exhibition show on November, 2005.
+12. Here is a bill paid to Mc kenzie, darg Ltd. Photography for photos taken in exhibition.
+13. The universal Glass Washer machine is sent to exhibition win-door on November 2005 and to prove that we have the bills paid to Canadian window & door manufactures Association and [Mendelssohn] (Transportation Company) who took the machine in the show.
+14. After each exhibition we had calls from some companies, asking for price and technical information. On the last exhibition in 2005 there was a great interest for universal washer. An order was placed for the same machine but different dimension from Berdick Windows and Doors (Manitoba).
+15. Machine was build and delivered to the c[u]stumer, Instruction manual was prepared, and Machine was return back in a month due to the damages made by the transportation.
+16. Besides building the machine, since we were not getting any result in business we asked for more: To rebuild old glass washer and service in those machines, but the hours of operation we were offering 5-9 afternoon every day and all weekends wasn’t enough for a success business. We added this kind of offer in our flyers and delivered door to door or faxed to them.
+[11] It is difficult to know why in making the assessments the Minister concluded that this was not a commercial activity. It is a moot point, however, because counsel for the Minister properly conceded during argument that there was a bona fide commercial activity.
+[12] Instead, counsel for the Minister argued that the business had not commenced during the taxation years at issue because the machine was just at the development stage.
+[13] At the outset, I would make a preliminary comment that this argument should have been mentioned at the opening of the hearing before the evidence was led. Fortunately, I do not think that there was any prejudice in this particular case because Mr. Malltezi’s evidence was so detailed. But as a point of procedure, any new arguments that a party anticipates making should be raised at the opening of the hearing.
+[14] Turning to the merits of the argument, the Minister submits that the business did not commence until after 2004. I disagree with this submission.
+[15] In my view this business commenced when Mr. Malltezi took significant steps towards developing this product. It certainly commenced prior to January 1, 2002 which is the beginning of the period at issue. Before that time, business premises had been leased and the first version of the machine had been built.
+[16] A bona fide business was conducted throughout the taxation years at issue and the deduction of losses should not be disallowed on this basis.
+What are the proper amount of losses that may be deducted?
+[17] The calculation of the business losses by the appellants was a bit of a mess. Mr. Malltezi admits this.
+[18] The appellants used the tax preparation services of H&R Block in 2002. Some expenses were improperly deducted in that year. Even more improper deductions were claimed in 2003 and 2004 when the appellants decided to save money and prepare their own returns.
+[19] In any event, I conclude that the following adjustments should be made to the business losses that were claimed in the income tax returns.
+(a) There should be no deduction for cost of goods sold in any of the taxation years at issue. The machine was not sold until 2005.
+(b) There should be no deduction for bad debts in any of the taxation years at issue.
+(c) There should be no deduction for motor vehicle expenses in any of the taxation years. These expenses relate to travel between home and work which is a personal expense.
+[20] During the hearing, Mr. Malltezi admitted that the professional losses should not have been claimed and I do not need to consider this.
+Is a GST rebate available to Mrs. Malltezi?
+[21] As mentioned above, Mr. Malltezi did not make any submissions regarding the GST rebate. He put this matter in the hands of the Court.
+[22] Counsel for the Minister informed me that this rebate is available for expenses incurred directly by a partner in a partnership. If that is the case, there is not sufficient evidence on which I could conclude that this rebate is available here. I conclude that the GST rebate should be disallowed.
+Conclusion
+[23] As a result of these findings, the conclusions that I have reached are summarized below.
+(a) Mrs. Malltezi’s appeal with respect to the GST rebate claim for 2003 will be dismissed.
+(b) The appeals with respect to assessments made under the Income Tax Act for the 2002, 2003 and 2004 taxation years will be allowed, and the assessments will be referred back to the Minister for reconsideration and reassessment to allow deductions for the expenses claimed except for: (1) all professional losses, (2) all deductions for cost of goods sold, (3) all bad debt expenses, and (4) all motor vehicle expenses.
+[24] There will be no order as to costs.
+Signed at Toronto, Ontario this 12th day of March 2009.
+“J. Woods”
+Woods J.
+CITATION: 2009 TCC 149
+COURT FILE NOs: 2008-1485(IT)I
+2008-1486(IT)I
+STYLES OF CAUSE: ETLEVA MALLTEZI v.
+HER MAJESTY THE QUEEN and
+EDUART MALLTEZI v.
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: March 5, 2009
+REASONS FOR JUDGMENT BY: The Honourable Justice J. Woods
+DATE OF JUDGMENT: March 12, 2009
+APPEARANCES:
+For the Appellants:
+Eduart Malltezi
+Counsel for the Respondent:
+Thang Trieu
+COUNSEL OF RECORD:
+For the Appellants:
+Name: n/a
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

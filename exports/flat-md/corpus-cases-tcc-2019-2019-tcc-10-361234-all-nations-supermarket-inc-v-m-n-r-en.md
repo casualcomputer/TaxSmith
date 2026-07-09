@@ -1,0 +1,168 @@
+---
+title: "All Nations Supermarket Inc. v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/361234/index.do"
+last_modified: "2019-01-15"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2019 TCC 10"
+citation2: ""
+neutral_citation: "2019 TCC 10"
+decision_date: "2019-01-15"
+language: "en"
+item_id: "361234"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4666
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T12:22:32.977000+00:00"
+cases_cited_count: 2
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "88a8aac0e3b5c976c42232ed0791bc4f49b10a83498d96807b7b4c295cad4c48"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# All Nations Supermarket Inc. v. M.N.R.
+
+- Citation: 2019 TCC 10
+- Decision date: 2019-01-15
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4666, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+All Nations Supermarket Inc. v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2019-01-15
+Neutral citation
+2019 TCC 10
+File numbers
+2017-1594(EI)
+Judges and Taxing Officers
+Susan Wong
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2017-1594(EI)
+BETWEEN:
+ALL NATIONS SUPERMARKET INC.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+OLAMILEKAN ASAJU,
+Intervenor.
+Appeal heard on November 19, 2018, at Fort McMurray, Alberta
+Before: The Honourable Justice Susan Wong
+Appearances:
+Agent for the Appellant:
+Olufunmilola Charity Baiyewun
+Counsel for the Respondent:
+Peter Basta
+For the Intervenor:
+No Appearance
+JUDGMENT
+The appeal pursuant to subsection 103(1) of the Employment Insurance Act is allowed and the decision of the Minister of National Revenue dated February 23, 2017 is varied in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 15th day of January 2019.
+“Susan Wong”
+Wong J.
+Citation: 2019 TCC 10
+Date: 20190115
+Docket: 2017-1594(EI)
+BETWEEN:
+ALL NATIONS SUPERMARKET INC.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+OLAMILEKAN ASAJU,
+Intervenor.
+REASONS FOR JUDGMENT
+Wong J.
+Introduction
+[1] The Appellant operates a supermarket selling ethnic foods, groceries, meats, and seafood products in Fort McMurray, Alberta. It opened for business in early February 2016 and the Intervenor is one of the workers hired by the Appellant.
+[2] On February 23, 2017, the Minister of National Revenue (the “Minister”) determined that during the periods from November 16, 2015 to January 31, 2016 (the “First Period”) and from May 8, 2016 to June 21, 2016 (the “Second Period”), the Intervenor Olamilekan Asaju was engaged in insurable employment within the meaning of paragraph 5(1)(a) of the Employment Insurance Act (the “Act”). The Minister also determined that Mr. Asaju was not engaged in insurable employment during the period from June 22, 2016 to August 10, 2016 (the “Third Period”).
+[3] In the present appeal, the Appellant agrees with the Minister’s decision in respect of the Third Period. During the hearing, the Appellant conceded that the Intervenor was an employee during the Second Period. However, the Appellant continues to disagree with the Minister with respect to the First Period and says that Mr. Asaju was not employed by the Appellant at all during those periods. In intervening, Mr. Asaju maintains that he was engaged in insurable employment for all three periods in question.
+[4] Mrs. Olufunmilola (Funmi) Baiyewun, who is the Appellant’s sole director, and her husband Mr. Olufemi Baiyewun testified on behalf of the Appellant. No one appeared on behalf of the Intervenor.
+Test to be Applied
+[5] In 671122 Ontario Ltd. v. Sagaz Industries Canada Inc., 2001 SCC 59, [2001] 2 SCR 983, at paras. 46 and 47, the Supreme Court of Canada stated that there is no universal test to determine whether a person is an employee versus an independent contractor and that the “central question is whether the person who has been engaged to perform the services is performing them in business on his own account.” The Court then referred to the non-exhaustive list of factors to be considered:
+[47] … In making this determination, the level of control the employer has over the worker’s activities will always be a factor. However, other factors to consider include whether the worker provides his or her own equipment, whether the worker hires his or her own helpers, the degree of financial risk taken by the worker, the degree of responsibility for investment and management held by the worker, and the worker’s opportunity for profit in the performance of his or her tasks.
+[6] In 1392644 Ontario Inc. o/a Connor Homes v. The Minister of National Revenue, 2013 FCA 85, [2013] FCJ No. 327, at paras. 38 to 42, the Federal Court of Appeal considered the weight to be given to the parties’ intention in determining whether a worker is an employee (contract of service) or an independent contractor (contract for services). The Court concluded that the inquiry was a two-step process, i.e. first, ascertain the subjective intent of the parties and second, determine whether an objective reality sustains their subjective intent. The Court also stated that the central question remains as set out above in Sagaz.
+A. Intention
+[7] Mrs. Baiyewun is the Appellant’s store manager and sole director. She testified that the Appellant was incorporated in Alberta on September 3, 2015 and opened for business in early February 2016. Prior to that, she operated an African food business which she sold in February 2015. She stated that she then spent the fall of 2015 and January 2016 finding a suitable lease premises, renovating it, hiring workers, obtaining the necessary permits, purchasing inventory, and taking the other necessary steps to open the supermarket.
+[8] On October 28, 2015, the Appellant entered into a commercial lease commencing on January 1, 2016. Mrs. Baiyewun testified that she had originally planned to open the Appellant for business on December 1, 2015 but the opening was delayed to February 2016.
+[9] She stated that she was introduced to the Intervenor Mr. Asaju through her sister-in-law, who attended the same church as Mr. Asaju’s parents in Africa. Mrs. Baiyewun testified that Mr. Asaju’s parents asked her to help their son, who was living in Toronto and concerned that his work permit would expire. She stated that she agreed to let him live in her family home and travelled to Toronto to meet him for the first time in November 2015. She testified that he moved into a room in her house later that month.
+[10] She testified that during the First Period, Mr. Asaju accompanied her on business errands and that he did so of his own volition. She stated that they did not discuss remuneration for him with respect to this period, but she gave him a gift of $300.00 by way of a personal cheque dated December 29, 2015. She said that the Appellant issued its first paycheque to Mr. Asaju in February 2016 and that at the time, he expressed no concerns about the lack of remuneration for the First Period.
+[11] The period from February 1, 2016 to May 7, 2016, is not in issue and during this period, the Appellant paid Mr. Asaju every two weeks at a rate of $15.00 per hour based on a 40-hour work week. During this period, the Appellant also deducted Employment Insurance Act premiums and Canada Pension Plan contributions from his gross pay. Mrs. Baiyewun stated that Mr. Asaju was responsible for operating the cash register, doing inventory, training new employees, and selling merchandise to customers. The Appellant’s business operated continuously until the afternoon of May 3, 2016, when the people of Fort McMurray were ordered to evacuate due to a major wildfire threatening the area.
+[12] Mrs. Baiyewun testified that on the day of the evacuation order, she, Mr. Asaju, and the Appellant’s other employees left the store premises at about 2:30 p.m. She stated that Mr. Asaju evacuated with her and her family to Lac La Biche, Alberta because they lived together like family. She said that on May 27, 2016, she and other business owners were permitted to return to Fort McMurray to inspect their businesses for damage.
+[13] She stated that upon returning to Fort McMurray, Mr. Asaju accompanied her to business appointments of his own volition before the supermarket reopened in July 2016. On cross-examination, she acknowledged that in May and June, she included him in business emails on matters including the post-wildfire insurance claim, purchase invoices, inventory, and cleanup of the premises. She stated that she did so because she had hired someone to replace Mr. Asaju, but that this individual would not commence work until July.
+[14] With respect to the Third Period, Mrs. Baiyewun testified that when the Appellant reopened for business in July 2016, Mr. Asaju did not resume working there because his work permit expired on June 22, 2016. She stated that by May 2016, she hired the individual who would perform the duties previously performed by Mr. Asaju, beginning on July 1st.
+[15] On cross-examination, Mrs. Baiyewun stated that the Appellant and Mr. Asaju entered into three written employment contracts dated November 2015, March 2016, and May 2016. She acknowledged that the contracts were all for 12-month periods and explained that they were prepared for the purpose of a Labour Market Impact Assessment (“LMIA”) application. She stated that when she realized that the Appellant would not be able to open at the beginning of December 2015, she withdrew her LMIA application. She said that the other two employment contracts were entered into for the purpose of assisting Mr. Asaju to renew his work permit. Counsel for the Respondent tendered into evidence a copy of Mr. Asaju’s work permit which confirmed the June 22, 2016 expiry date.
+[16] On cross-examination, Mrs. Baiyewun also admitted that she and Mr. Asaju executed a written month-to-month residential lease agreement dated August 2, 2015, which provided that Mr. Asaju would pay a monthly rent of $300. She explained that she met Mr. Asaju for the first time in November 2015 but that she backdated the lease to assist him in applying for an Alberta driver’s licence. She stated that Mr. Asaju did not, in fact, pay her any rent for his room and board.
+Analysis of intention
+[17] As indicated at the outset, the Intervenor did not attend the hearing. I have reviewed the statements made by Mr. Asaju in the Notice of Intervention; however, they are not evidence.
+[18] With respect to the First Period, I find that there was no shared intention that Mr. Asaju be an employee or that he work for the Appellant at all. He arrived in Fort McMurray in mid-November 2015 and resided with the Baiyewuns, the timing of which aligned with Mrs. Baiyewun’s testimony that the original plan was to open for business on December 1, 2015. The employment contract signed in November 2015 was executed in anticipation of a December 1st store-opening.
+[19] When the December opening did not materialize, Mr. Asaju continued to reside with the Baiyewuns and did not find other employment. While the parties may have had a shared intention when the business was set to open in December, it is clear that their intention was no longer shared when that did not happen. I accept Mrs. Baiyewun’s testimony that she treated Mr. Asaju like family, he did not pay rent for his room and board, and when he accompanied her to appointments before the business opened, he did so of his own volition.
+[20] I find that during the First Period, Mr. Asaju did not work for the Appellant at all, i.e. neither as an employee nor an independent contractor.
+[21] With respect to the Second Period, the Appellant conceded during the hearing that Mr. Asaju was an employee. I would have found a shared intention in any event, based on the employment contract signed in March 2016, the fact that he commenced work in the store as an employee in February, and the extent to which Mrs. Baiyewun included him in her post-wildfire dealings regarding insurance, suppliers, purchase invoices, and cleanup.
+[22] With respect to the Third Period, I find that there was no shared intention that Mr. Asaju be an employee or that he work for the Appellant at all. His work permit expired on June 22, 2016 and Mrs. Baiyewun hired a new employee to replace him. Even if Mr. Asaju provided services to the Appellant during this period, he was not permitted to work in Canada after June 22nd.
+B. Objective reality of the parties’ conduct
+[23] When the next question is whether the parties’ relationship is that of employer-employee or independent contractor, one would proceed to the second step of the two-part inquiry to examine the relevant factors referred to in Sagaz.
+[24] However, as a result of my finding that the Intervenor did not work for the Appellant at all during the First Period, it is not necessary to proceed to the second step of the two-part inquiry for this period.
+[25] As a result of the Appellant’s admission during the hearing that the Intervenor was an employee during the Second Period, it is also not necessary to proceed to the second step of the two-part inquiry for this period.
+[26] With respect to the Third Period, even if the Intervenor performed services for the Appellant, he was doing so without a valid permit to work in Canada. Therefore, he could not have been engaged in insurable employment within the meaning of paragraph 5(1)(a) of the Act and it is not necessary to proceed to the second step of the two-part inquiry for this period.
+Conclusion
+[27] The Minister of National Revenue’s February 23, 2017 decision is varied on the basis that:
+(i) during the period from November 16, 2015 to January 31, 2016, the Intervenor was not engaged in insurable employment;
+(ii) during the period from May 8, 2016 to June 21, 2016, the Intervenor was engaged in insurable employment; and
+(iii) during the period from June 22, 2016 to August 10, 2016, the Intervenor was not engaged in insurable employment.
+Signed at Ottawa, Canada, this 15th day of January 2019.
+“Susan Wong”
+Wong J.
+CITATION:
+2019 TCC 10
+COURT FILE NO.:
+2017-1594(EI)
+STYLE OF CAUSE:
+ALL NATIONS SUPERMARKET INC. AND M.N.R. AND OLAMILEKAN ASAJU
+PLACE OF HEARING:
+Fort McMurray, Alberta
+DATE OF HEARING:
+November 19, 2018
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Susan Wong
+DATE OF JUDGMENT:
+January 15, 2019
+APPEARANCES:
+Agent for the Appellant:
+Olufunmilola Charity Baiyewun
+Counsel for the Respondent:
+Peter Basta
+For the Intervenor:
+No Appearance
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada

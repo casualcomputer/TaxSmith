@@ -1,0 +1,166 @@
+Title: Zins v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26876/index.do
+Corpus path: corpus/cases/tcc/2005/2005-tcc-786-26876-zins-v-the-queen-en.md
+Document type: case_law
+Last modified: 2005-12-08
+
+# Zins v. The Queen
+
+- Citation: 2005 TCC 786
+- Decision date: 2005-12-08
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 715, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Zins v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-12-08
+Neutral citation
+2005 TCC 786
+File numbers
+2003-990(IT)G
+Judges and Taxing Officers
+Campbell J. Miller
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2003-990(IT)G
+BETWEEN:
+ARTHUR ZINS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on September 14, 15, 16 and November 15 and 16, 2005, at Toronto, Ontario, before
+The Honourable Justice Campbell J. Miller
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+John Grant
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment of tax made under the Income Tax Act for the 1998 taxation year is allowed, and the matter is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the amount of $43,614 is to be included in the Appellant's income and the Appellant is liable for subsection 163(2) penalties arising from omitting to report the $43,614.
+Costs to the Appellant to the extent of 50% of the Court's tariff.
+Signed at Ottawa, Canada, this 8th day of December, 2005.
+"Campbell J. Miller"
+Miller J.
+Citation: 2005TCC786
+Date: 20051208
+Docket: 2003-990(IT)G
+BETWEEN:
+ARTHUR ZINS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Miller J.
+[1] In the last four months of 1998 Mr. Arthur Zins was involved in a telemarketing arrangement. He conducted his activities under the guise of the Jewish Men's Group. He was ultimately convicted of fraud in connection with these activities, and funds seized by the police were released to charities pursuant to a restitution order. This case deals with the determination of Mr. Zins' net income for income tax purposes arising from his illegal telemarketing activities. Specifically, the issues are:
+(i) Can Mr. Zins avail himself of paragraph 149(1)(l) of the Income Tax Act on the basis his arrangement was operated by a non-profit organization? I find he cannot.
+(ii) What was Mr. Zins' gross revenue from the telemarketing activity in 1998? I find his gross revenue was $58,960.
+(iii) What were Mr. Zins' deductible expenses in 1998? I find his expenses totalled $15,346, bringing his net income down to $43,614.
+(iv) Is the amount of restitution of $38,272 paid in 2002 and 2003 a deduction to Mr. Zins in 1998? No, he is not entitled to a deduction in 1998 for such subsequent payments.
+(v) Is Mr. Zins liable for subsection 163(2) penalties? Yes, Mr. Zins is liable for penalties pursuant to subsection 163(2) of the Act.
+Facts
+[2] In June 1998, Mr. Zins obtained part-time work with Xentel (a fundraising organization) making telephone solicitations from the public for police/firefighter associations' charitable activities. Mr. Zins was surprised at how readily people gave. Based on this experience, he devised an arrangement to engage in similar solicitations ostensibly on behalf of an organization with which he was associated, the Jewish Men's Group.
+[3] Mr. Zins presented evidence of the good works undertaken by the Oakville Chapter of the Jewish Men's Group prior to Mr. Zins' move to Torontoin 1997. Mr. Zins did not present any evidence of the structure, membership or activities of the Torontochapter of the Jewish Men's Group during 1997 or 1998. He did have a bank account under that name, but Mr. Zins was the sole signing authority.
+[4] Between September and December 1998, Mr. Zins struck out on his own in the telephone solicitation business. He had no arrangement with any police or firefighter association, though he distributed materials on the basis that he was fundraising for their charitable activities. His advertising materials even included a phoney charitable registration number. Mr. Zins' plan was that he would donate only such funds to charity as there were donors who requested receipts. He would make such donations on behalf of the Jewish Men's Group. The balance would be retained to expand the fundraising activity and to provide himself with some income. He acknowledged that there was a non-altruistic aspect to his scheme, though justified this on the basis that any fundraising organization takes something for their efforts.
+[5] Mr. Zins made calls under various false names. He went to considerable effort in implementing his fundraising activity. He worked from home and also out of an Internet café, where he hired two school-aged brothers to stuff and stamp envelopes, hired an individual with some computer knowledge to assist in computer-generated donor listings, and made two other part-time hirings for miscellaneous mundane work. The two brothers testified, corroborating Mr. Zins' evidence, indicating they worked two or three times a week for anywhere from three to eight hours a time. One brother seemed to recall averaging about $10 an hour.
+[6] Mr. Zins described in detail the process of the initial call, call-backs and mail-outs. He concocted several events - magic show, football game, and hockey game and opened different mailbox accounts for each such event. He testified that the mailbox operator was approached by someone questioning the legality of Mr. Zins' arrangements. Mr. Zins believed Xentel was behind this. He proceeded to open other mailboxes. He also opened separate information telephone lines for each event, in each city in which the event was purportedly to take place. He tried to expand from Toronto to Vancouver, Winnipeg and Ottawa. He prepared and distributed flyers asking for $29, $49 or $69 donations depending on the number of children who would be sponsored, although not all flyers gave the suggested amounts of donations.
+[7] Once Mr. Zins started receiving funds he opened several bank accounts, identifying each account with the event. Thus he opened: (i) TD Bank account 319 - Benefit football game; (ii) TD Bank account 320 - Benefit Magic Show; (iii) TD Bank account 322 - Benefit Hockey Game. Shortly thereafter he opened: (iv) Canada Trust account - Benefit Football game; and (v) Canada Trust account - Benefit Magic Show. He also relied on a Royal Bank account which was opened under the name of the Jewish Men's Group. Mr. Zins also used a CIBC account in his mother's name, over which he believed he had a power of attorney, though he provided no evidence of such. He claimed to have used the Canada Trust account and his mother's account to avoid having Xentel catch up to him. He was concerned his former employer was aware of his activities and was investigating the situation. He therefore moved monies from one account to another, including in and out of his mother's account - the CIBC account.
+[8] "Donations" were primarily, though not exclusively, by cheques in relatively small amounts. Mr. Zins did use some of the funds during the fall of 1998 to acquire event tickets ($300) and to also make $1,510 of donations on behalf of the Jewish Men's Group.
+[9] On December 14, 1998, Mr. Zins deposited $39,400 into his six bank accounts, $5,000 in cash and the balance in cheques ranging from $3,600 to $10,000. Mr. Zins produced cancelled cheques indicating $20,800 withdrawn on his mother's CIBC account. He also testified that all the cheques deposited that day were withdrawn on that account.
+[10] On December 17, 1998, the Peel Regional Police seized Mr. Zins' accounts and cash to the tune of $38,272. Mr. Zins was charged with fraud. The police requested a Forensic Accountants' Report which was delivered by Mr. Thomas Stacy of Hawley & Company LLP C.A.on October 23, 2000. Mr. Stacy limited his review to the activities in the three TD Bank accounts, two Canada Trust accounts and the one Royal Bank account. Mr. Stacy, who testified at trial, concluded that Mr. Zins, during the period September 1998 to December 1998: (i) took cash withdrawals of $30,941 from gross deposits; and (ii) made total deposits of $119,789 into the six accounts, of which $52,370 were inter-account transfers, leaving $67,419 as net deposits. Mr. Stacy added the $30,941 cash withdrawn and the $67,419 net deposits to identify $98,360 as the "net money" received by Mr. Zins. The "net money" included the $39,400 deposited into the accounts on December 14, 1998 by Mr. Zins. Mr. Stacy did not review the activity in Mr. Zins' mother's CIBC account.
+[11] Mr. Zins was convicted of fraud on January 14, 2002 in connection with his telemarketing scheme. His appeal was dismissed on March 25, 2002. He was ordered to make restitution in the amount of $38,272, being the amount seized by the police. This full amount was released to charities in 2002 and 2003.
+[12] The Canada Revenue Agency (CRA) auditor testified that she carried out no independent review of monies received by Mr. Zins during the period September to December 1998, but relied solely on Mr. Stacy's report. Mr. Zins was reassessed on July 5, 2002. The Minister included the amount of $98,360 in Mr. Zins' income and imposed a penalty of $5,421.65. The reassessment was confirmed on December 3, 2002.
+Analysis
+(a) Can Mr. Zins avail himself of paragraph 149(1)(l) of the Act on the basis his scheme was operated by a non-profit organization?
+[13] No. Although I am satisfied Mr. Zins had some involvement with a group known as the Jewish Men's Group, I am not satisfied that that organization ran this particular money-making scheme. And, even if it did, I am not convinced that the Torontochapter of the Jewish Men's Group was a non-profit organization.
+[14] It was Mr. Zins and Mr. Zins only who conceived and implemented this telemarketing activity. The Jewish Men's Group to which Mr. Zins referred, and which he claimed was a non-profit organization was, at best, a front for his own personal scheme. To Mr. Zins it somehow provided some legitimacy. In reality, it served no such purpose. Although he did use one bank account opened under the name Jewish Men's Group, it was only one of many bank accounts, and, indeed, what it had in common with those other accounts was that Mr. Zins was the sole signing authority. Mr. Zins did forward some minimal donations onto charities (approximately $1,800) under the name, the Jewish Men's Group, but given Mr. Zins' admitted objective of profiting from this scheme, I find he simply used the name to further this objective. The organization, the Jewish Men's Group, did not operate the telemarketing scheme.
+[15] Even had Mr. Zins convinced me that something called the Jewish Men's Group was running the telemarketing scheme, he has not satisfied me that the Jewish Men's Group was a non-profit organization. Although he provided some evidence of the good works of the Jewish Men's Group, that evidence pertained to the Mississaugachapter, and it pertained to a time prior to the period in question. Mr. Zins provided no evidence of membership (other than membership in the Mississaugachapter), charter or structure of an organization known as the Torontochapter of the Jewish Men's Group. The only evidence he gave leads me to conclude that Mr. Zins was the only member of the Jewish Men's Group - Torontochapter. As such, his profit objective was the Jewish Men's Group objective, and that objective alone precludes it from being considered a non-profit organization. Mr. Zins provided no evidence that the Torontochapter of the Jewish Men's Group existed as a distinct organization, let alone a non-profit organization.
+(b) What was Mr. Zins' gross revenue from his telemarketing activities in 1998?
+[16] Firstly, I should point out that once past paragraph 149(1)(l), there was no issue that Mr. Zins is taxable on the proceeds of his fraudulent business. Mr. Zins was well aware of the law in this regard. The Respondent referred me to The Queen v. Fred E. Poyton[1] and Buckman v. Canada[2] in support of the principle that proceeds of crime are subject to tax. The dispute is simply about the quantum. The Respondent relied on the Forensic Accountants' Report and brought $98,360 into Mr. Zins' income. Mr. Zins argues that this is an incorrect starting point, as the forensic accountant, Mr. Stacy, included in that figure over $40,000 of deposits which came from his mother's CIBC account. Mr. Zins suggests that, just as Mr. Stacy backed out inter-account transfers amongst the six accounts he reviewed, so too should he have backed out the inter-account transfers between his mother's account and the other six accounts. Mr. Zins' position is that these monies from his mother's account were monies put in there initially from the six accounts, either by cash withdrawals at the time of deposit, or separate withdrawals. In effect, by adding the monies from the mother's account, Mr. Stacy has counted twice. Regrettably, Mr. Stacy did not review the mother's account. Likewise Mr. Zins, notwithstanding some attempts to obtain the records, did not provide any records from that CIBC account showing the deposits into it, so that funds could be traced both in and out of the account.
+[17] The Respondent contends that Mr. Zins' story that he moved funds in and out of the account to avoid detection by Xentel is not credible; Mr. Zins has provided no corroborative evidence. Yet, not meaning to be unfair to Mr. Zins, he is an unusual thinker. In his mind, he may well have had valid reasons for shifting funds around. I am less concerned with the motivation than I am with proof of the source of the funds in the mother's account.
+[18] It is clear from the Forensic Accountants' Report that Mr. Zins took out at least $30,000 cash at the time of deposits into the six accounts; he also withdrew at least another $35,000 which was not earmarked as transferring from one account to another. As will soon be shown, his expenses were less than $20,000, so there are more than enough funds to have flowed into the mother's account to support the December 14 transfers out. The Respondent suggests that "donations" could have gone straight into his mother's account, never passing through the six accounts. There is no evidence of this. Mr. Zins' modus operandi was to have separate accounts for separate events, and to deposit the "donations" into their corresponding account. While the Royal Bank account under the name of the Jewish Men's Group had approximately $44,000 of deposits, almost all of that came from the other accounts (including $10,000 from the mother's account). If the monies into Mr. Zins' mother's account did not come from these six accounts, where did it come from? Also, if the money withdrawn from the six accounts did not go into the mother's account, apart from expenses, where did it go? There is no evidence that Mr. Zins engaged in any lavish lifestyle, far from it. Unless he has monies hidden, Mr. Zins' explanation makes some sense number wise: I have no reason to believe he secreted away any funds.
+[19] How does his explanation of moving monies in and out of his mother's account accord with the total amount of donations? Mr. Zins estimated the average donation to be approximately $29. This figure was not effectively challenged by Constable Stephen Ter Steege of the Peel Regional Police, nor the Respondent. Donations were made by cheques and were in relatively low amounts. So, how many donations were made? I heard estimates of between 1,500 and 3,000; none of the estimates were cited with any degree of confidence. The confusion arises perhaps due to the context, which was primarily in attempting to establish the number of mail-outs sent by Mr. Zins (in an effort to prove his envelope and postage expenses). Mr. Zins' estimates of mail-outs varied: 3,000-5,000. I took from the evidence however that not every solicitation or every mail-out resulted in a donation: reference to 3,000 solicitations did not necessarily mean 3,000 successful donations. I believe Mr. Zins was closer to the truth with his first estimate of 1,530, yet he cast sufficient doubt on this estimate in later testimony that I find it is low. At an average of $29 a donation, 1,530 donations would have yielded $44,370 - not even Mr. Zins suggests he raised that low an amount. Yet, the Crown's assumption of $98,360, yield approximately 3,400 donations, higher than any testimony suggested. The truth lies somewhere between.
+[20] I tip the balance in Mr. Zins' favour on this issue. This question of gross proceeds is somewhat akin to a net worth assessment, yet CRA conducted no detailed investigation into Mr. Zins' assets. They simply accepted the Forensic Accountants' Report, commissioned for purposes of a criminal investigation for a fraud charge over $5,000, not for a tax investigation. The Forensic accountant only reviewed the six accounts: there has never been a review of the mother's account by him or by CRA. I find $34,400 was deposited from the mother's account to the other six accounts on December 14, 1998. The Respondent's position is that that amount must have consisted of "donations" deposited by Mr. Zins directly into his mother's account. This is inconsistent with Mr. Zins' modus operandi; it is inconsistent with Mr. Zins' testimony; and it is inconsistent with the most likely number of donations.
+[21] I conclude that the $39,400 deposited into the six accounts on December 14, 1998 represented funds that had already been run through the other six accounts. It has been counted twice, and should be deducted from the deposits, just as Mr. Stacy deducted other inter-account transfers in arriving at his total.
+[22] I cannot reach the same conclusion regarding a $2,000 cash deposit in October into a Canada Trust account, as it is equally consistent, in the midst of the operation, with a finding that a relatively small amount of donations were cash donations, especially as it was deposited coincidentally with "donations" cheques.
+[23] I conclude that gross revenues should be reduced by $39,400 from $98,360 to $58,960.
+Expenses
+[24] What was Mr. Zins' deductible expense in 1998 from his telemarketing scheme? I will go through the categories of expenses as identified by the parties:
+(a) Labour costs for the two brothers. From the credible evidence of the brothers I conclude they worked approximately 17.5 hours a week for 12 weeks at $10 an hour each. They were therefore paid $4,200.
+(b) Labour cost for Sean Shaw. The parties agreed $1,060.
+(c) Computer services for Cyberoffice. The parties agreed $925.
+(d) Casual labour. The parties agreed $180.
+(e) Cost of 10 mailboxes. The parties agreed $540.
+(f) Cost of mail forwarding. The parties agreed $576.
+(g) Office supplies. I fix them at $200.
+(h) Home phone lines. Mr. Zins presented phone records indicating $1,100 of charges; approximately $670 for long distance calls, which I accept were related to the scheme. Half the balance of $430 I find relates to ordinary personal use. The telephone cost therefore is $895.
+(i) Nine telephone information lines. Mr. Zins testified the lines cost $15 a month. The Respondent conceded there was a cost. I find Mr. Zins incurred $270 for the information lines.
+(j) Mail-outs. The Crown agreed the cost incurred was $1.33 per mail-out. There was considerable testimony on this issue. I find Mr. Zins has proven that at least 2,000 donations were made and each would have received a mail-out. While there may have been more, the evidence has simply been too confusing on this point to set with any certainty the exact figure. I therefore limit this expense to what is certain, being 2,000 mail-outs at $1.33 for a total of $2,660.
+(k) Casual labour. Mr. Jack Dieleman testified he was paid approximately $250.
+(l) Apartment rent for the home office. The Respondent agreed that some expense was in order. Mr. Zins sought 30% of his monthly $700 rent for four months. He conducted a good deal of his work from the Internet café, though did use the home telephone a great deal. I find 20% to be a more appropriate usage for a three-month period only, yielding a cost of $420.
+(m) Mr. Zins claimed vehicle costs, yet provided no supporting records. Further, the vehicle usage would have been primarily to and from the café and occasionally giving the brothers a ride home. No expense is justified.
+(n) Food costs and computer time. The three workers who testified acknowledged that Mr. Zins bought snacks for them and also had to buy computer time at the Internet café. The Respondent agreed some expense is warranted. I find a reasonable cost incurred by Mr. Zins was $300.
+(o) Casual labour for computer assistance at the Internet café. This individual did not testify, but the evidence of the other workers corroborated Mr. Zins' position that he employed this person. The Crown agrees some expense is justified. Mr. Zins estimated he paid $150 per week for 14 weeks, yet he proffers no proof of such amount. My impression from Mr. Zins' testimony was that this individual only worked a few hours a week. I also find the time span involved was 12 not 14 weeks. I estimate this individual was paid by Mr. Zins for approximately 60 hours at $15 per hour for a total of $900.
+(p) Other casual labour. I find there was no other casual labour.
+(q) Payments made by Mr. Zins for charity in furtherance of his scheme. I find these were a cost in connection with his fraudulent business, totalling $1,810.
+(r) Bank service charges. I gleaned from the Forensic Accountants' Report approximately $160 of such charges.
+The total expenses are $15,346, thus reducing Mr. Zins' income from $58,960 to $43,614.
+Restitution
+[25] Is the restitution amount of $38,272 paid in 2002 and 2003 a deductible expense to Mr. Zins in 1998?
+[26] The Respondent argues that until the restitution Order, Mr. Zins had not given up a potential right to the monies seized by the police in December 1998: the restitution Order could not work retroactively to render the seizure of the funds in 1998 a deductible expense to Mr. Zins. The Respondent relied on the following passage of Justice Bowman in Svidal v. Canada:[3]
+(e) One of the most ingenious and intriguing arguments was that relating to the effect on the appellant's 1984 and 1985 taxation years of the compensation order made by the Alberta Court in 1991, whereby the appellant and his co-accused were ordered to pay to Coopers and Lybrand Limited the sum of $10,075,735.55. The contention is that this amount should, in the computation of the appellant's income from the business, characterized by the Crown as the business of fraud, be allowed as a deduction. The argument, if I understand it correctly, is that the obligation to repay the amounts was crystallized by the compensation order of 1991 but that since it relates to the business carried on in 1984 and 1985 it should be allowed as a deduction in those years.
+The argument raises more problems than I am prepared to discuss here. Implicit in it is the theory that income from crime is to be computed on an accrual basis - a proposition in respect of which I have heard neither legal authority nor expert accounting testimony. Also it implies that as soon as a crime is committed there arises an inchoate liability which is only fixed if after conviction the accused is ordered to make a compensation payment or restitution. Also, it raises the question whether such payments should be allowed as deductions as a matter of public policy. As noted above the appellant has made no payments under the compensation order and there is no evidence that he ever will. The argument seems not dissimilar to that unsuccessfully advanced in The Queen v. Poynton, 72 D.T.C. 6329 (Ontario C.A.)
+Interesting as it might be to pursue these theoretical questions it is sufficient to dispose of the point to say that the compensation order was made in 1991 and can have no effect on the appellant's 1984 and 1985 income. Our fiscal system does not, except in specific circumstances set out in the Income Tax Act, permit the reopening of prior years to take into account events occurring in later years: M.N.R. v. Benaby Realties Limited, 67 D.T.C. 5275.
+[27] Also, in the case of McNeil v. Canada,[4] the Federal Court of Appeal dealt with the deductibility of a court ordered award of damages, finding that the right to deduct damages as an expense arises in the year the damage award is made, not in the year to which the events giving rise to the damages could place. One must look to when the liability was ascertained and "became an absolute and unconditional obligation".
+[28] Based on these decisions, I find Mr. Zins is not entitled to deduct the amounts seized by the police in 1998. There was no absolute or unconditional obligation in 1998 for Mr. Zins to pay those amounts. Granted, he lost control of the funds, but the Criminal Code[5] is clear that the funds seized can be returned to the person from whom they were seized in the appropriate circumstances. Mr. Zins cannot, in 1998, deduct the amount paid by way of restitution in the later years.
+[29] Mr. Zins argued that the funds were simply held in trust by him, and he therefore never actually owned the funds. There is no foundation for such an argument. Mr. Zins deliberately and methodically solicited funds from the public for his own benefit. There was simply no trust arrangement.
+Penalties
+[30] Penalties were assessed by the Minister pursuant to subsection 163(2) of the Act, the opening words of which read:
+Every person who, knowingly, or under circumstances amounting to gross negligence, has made or has participated in, assented to or acquiesced in the making of, a false statement or omission in a return, ...
+It is for the Respondent to prove that Mr. Zins had the requisite knowledge or that the circumstances were such to find gross negligence. The Federal Court of Appeal in Venne v. The Queen stated:[6]
+With respect to the possibility of gross negligence, I have with some difficulty come to the conclusion that this has not been established either. "Gross negligence" must be taken to involve greater neglect than simply a failure to use reasonable care. It must involve a high degree of negligence tantamount to intentional acting, an indifference as to whether the law is complied with or not. I do not find that high degree of negligence in connection with the misstatements of business income. To he sure, the plaintiff did not exercise the care of a reasonable man and, as I have noted earlier, should have at least reviewed his tax returns before signing them. A reasonable man in doing so, having regard to other information available to him, would have been led to believe that something was amiss and would have pursued the matter further with his bookkeeper.
+[31] Mr. Zins did not report one dollar from his telemarketing scheme. He knew he was profiting from the scheme. By mid-December he knew he was under a criminal investigation. It is an interesting dilemma for the taxpayer involved in profiting from crime - does he report such income and run the risk of exposing the scheme to law enforcement authorities, or does he omit to report such proceeds on his return and run the risk of penalties under tax legislation? Mr. Zins was not faced with quite that predicament, as he knew by the end of 1998 that his scheme had been discovered by the police. He argued that because his records had been seized, he was unable to report income accurately and therefore should not be liable to subsection 163(2) penalties. This excuse is not persuasive. I do not find it necessary to have to rely on a finding of gross negligence, as I find Mr. Zins knowingly made an omission of $43,614 in his 1998 return and is therefore subject to subsection 163(2) penalties.
+[32] In conclusion I allow the appeal and refer the matter back to the Minister for reconsideration and reassessment on the basis that:
+(i) the amount of $43,614 is properly included in Mr. Zins' income for the 1998 taxation year; and
+(ii) Mr. Zins is liable for subsection 163(2) penalties arising from omitting to report the $43,314.
+[33] With respect to costs, I have no doubt, having heard Mr. Zins for a week, that he was primarily responsible for the time taken up by this matter. I am also of the view however that the Respondent might have nipped this matter in the bud with some greater diligence in their investigation, rather than a simple reliance on the Forensic Accountants' Report. There is no doubt Mr. Zins may not have been the easiest taxpayer to work with, certainly one who would not readily settle. Counsel for the Respondent, Mr. Grant, is to be commended for his handling of this trial with this particular unrepresented Appellant. Through this appeal Mr. Zins has had the assessment reduced by at least half. In these circumstances, I am prepared to award Mr. Zins costs to the extent of 50% of the Court's tariff.
+Signed at Ottawa, Canada, this 8th day of December, 2005.
+"Campbell J. Miller"
+Miller J.
+CITATION: 2005TCC786
+COURT FILE NO.: 2003-990(IT)G
+STYLE OF CAUSE: Arthur Zins and Her Majesty The Qeen
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: September 14, 15, 16 and
+November 15 and 16, 2005 ,
+REASONS FOR JUDGMENT BY: The Honourable Justice Campbell J. Miller
+DATE OF JUDGMENT: December 8, 2005
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+John Grant
+COUNSEL OF RECORD:
+For the Appellant:
+Name: N/A
+Firm: N/A
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Ontario
+[1] 72 DTC 1972 (Ont. C.A.).
+[2] [1991] T.C.J. No. 805 (T.C.C.).
+[3] [1994] T.C.J. No. 1190 (T.C.C.).
+[4] [2000] 4 F.C. 132 (F.C.A.).
+[5] See section 490 of the Criminal Code.
+[6] 84 DTC 6247 (F.C.T.D).

@@ -1,0 +1,172 @@
+---
+title: "Donovan v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26671/index.do"
+last_modified: "2005-10-17"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 TCC 667"
+citation2: ""
+neutral_citation: "2005 TCC 667"
+decision_date: "2005-10-17"
+language: "en"
+item_id: "26671"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3613
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T20:13:52.030000+00:00"
+cases_cited_count: 0
+cases_citing_count: 3
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "fbc6ffdf95e05324ce50783b0e69a37fa5b249d39430bdcc4cf5d3f1d646f601"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Donovan v. The Queen
+
+- Citation: 2005 TCC 667
+- Decision date: 2005-10-17
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3613, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Donovan v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-10-17
+Neutral citation
+2005 TCC 667
+File numbers
+2002-4779(IT)G
+Judges and Taxing Officers
+Joe E. Hershfield
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2002-4779(IT)G
+BETWEEN:
+RICHARD DONOVAN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on October 6, 2005 and judgment rendered
+orally on October 12, 2005 at Winnipeg, Manitoba
+Before: The Honourable Justice J.E. Hershfield
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Naomi Goldstein
+____________________________________________________________________
+JUDGMENT
+The appeals from the assessments made under the Income Tax Act for the 1998, 1999 and 2000 taxation years are dismissed, without costs, for the reasons set out in the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 17th day of October 2005.
+"J.E. Hershfield
+Hershfield J.
+Citation: 2005TCC667
+Date: 20051017
+Docket:2002-4779(IT)G
+BETWEEN:
+RICHARD DONOVAN,
+Appellant,
+And
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+(Delivered orally from the Bench on October 12, 2005.)
+Hershfield J.
+[1] The facts in this case are not in issue. An Agreed Statement of Facts was submitted as was an Agreed Book of Documents which included two child support orders of the Manitoba Court of Queen's Bench, Family Division. As well, certain additional facts were agreed to at the hearing. The agreed facts are a matter of record. It is not necessary that I set them out in full for the purposes of this oral judgment. The following summary of facts should suffice:
+(i) The Appellant was married, had a child of the marriage, was separated and then divorced.
+(ii) Since being separated in 1990, the Appellant and his former spouse shared joint custody of the child of the marriage by agreement. Joint custody continued after the divorce which was pronounced in 1995. Such joint custody was acknowledged in a judgment of the Manitoba Court delivered in October 1999 which stated that the Appellant and his former spouse have joint custody with equal time-sharing arrangements.
+(iii) From September 1996 through October 1999 the Appellant was required to pay child support in the amount of $200.00 per month. This requirement was imposed by a judgment of the Court of Queen's Bench of Manitoba signed in November 1996. The maintenance was varied upward to $249.00 per month commencing November, 1999 by order of that court dated October 1999.
+(iv) The child support payments under appeal are payments made in 1998, 1999 and 2000. All such payments were made during the currency of these orders.
+(v) In 1998, the Appellant claimed support payments made in the amount of $2,400.00 and claimed as well the equivalent-to-spouse tax credit of $5,380.00 x the applicable percentage. He was denied the latter claim pursuant to subsection 118(5). In 1999, the Appellant claimed support payments made in the amount of $1,840.39 and again claimed the equivalent-to-spouse tax credit which then was $5,718.00 x the applicable percentage. He was denied the latter claim pursuant to subsection 118(5). In 2000, the Appellant amended his initial claim for both support payments made ($3,396.61) and for the equivalent-to-spouse tax credit of $6,140.00 x the applicable percentage and claimed only the equivalent-to-spouse tax credit. He was denied the equivalent-to-spouse tax credit pursuant to subsection 118(5).
+(vi) In addition to the child support payments made, the Appellant also paid an estimated $11,000.00 in extraordinary child expenses for his son for the years 1998, 1999 and 2000.
+(vii) I acknowledge, as well, evidence not disputed at the hearing, that the Appellant was in a parenting relationship with his son throughout the years in question, that his parenting ability was not in question in respect of the denial of his claims for the equivalent-to-spouse tax credit and that he was acknowledged as a parent for the purposes of the child tax credit and GST tax credit calculations. As well, I acknowledge the Appellant's evidence, not disputed, that the ordinary cost of raising a child 11 years of age, 12 years of age and 13 years of age (the age of his son during the years in question) was $8,954.00, $6,185.00 and $6,429.00 respectively as per Manitoba Government statistics.
+[2] The Appellant relies on the dissenting views expressed in the Supreme Court of Canada decision in Thibaudeau v. Canada, [1995] 2 S.C.R. 627. That case decided that the requirement in the Act that a separated or divorced parent must include in income, amounts received from the supporting parent for the maintenance of children, did not infringe on the recipient's right to equality guaranteed under section 15 of the Canadian Charter of Rights and Freedoms.
+[3] While such reliance is misplaced given the majority decision in that case, I will deal with the Appellant's submissions. Firstly, he notes that the status of separated or divorced custodial parents constitutes an analogous ground to the enumerated grounds in subsection 15(1) as found by Madam Justice McLaughlin (as she then was) in her dissent in Thibaudeau. In coming to this conclusion, Madam Justice McLaughlin expressed the view that the imposition of prejudicial treatment solely on the basis of this status might violate the dignity of an individual and his/her personal worth, but, in so concluding, it is clear that she relied on the linkage between the status of separated or divorced custodial parents and historically disadvantaged treatment of women given that the great majority of members of that group are women. Some might suggest that Justice McLaughlin did not mean to imply that persons judged to be supporters, because of their economic advantaged position, were part of a group of historically disadvantaged persons just because they had custodial responsibilities themselves. The requirement to support derives from a finding by a court of competent jurisdiction of an economic advantage common to all supporters.
+[4] In any event, it is the majority decision in Thibaudeau that must be applied, not the reasoning of dissenting judges. The majority in Thibaudeau viewed the separated family as a unit, one member of which the legislation may favour without infringing on the Charter's guarantee of equality. Support amounts are determined under a family law system. That it may, in any given case, operate in a defective manner, by not recognizing the income tax implications of support orders, is an error that can be addressed by going back to the family law system.
+[5] What the Appellant is concerned about as much as anything in this challenge is fiscal equity which, as noted by Justice Gonthier in Thibaudeau, is concerned with the best distribution of the tax burden in light of the need for revenue. Room for social policy and consideration of ability to pay are legitimate perspectives that might result in differential treatment. But that is not a licence to impose a disadvantage on account of an irrelevant personal characteristic. The asserted personal characteristics in this case are: divorced or separated, supporting, custodial parenthood. The impugned provision in the case at bar (subsection 118(5)) makes no reference to a separated supporting person's status as a custodial parent. Arguably, that is to ignore a relevant aspect, from a policy perspective. The provision includes a smaller group within a larger group. That I might agree that the distinction that defines the smaller group of supporters (custodial supporters) is relevant, from a policy perspective, is a question of fiscal equity - not one of discrimination based on an immutable personal characteristic.
+[6] The subject provision does not recognize that the supporter has a double obligation, namely, to support the child both while the child is in the supporter's custody and while the child is in the custody of the other parent. Indeed, under the new (post April 1997) tax regime governing child support payments, neither obligation is recognized. Once the child support payments ceased to be deductible, one might have thought that some personal tax credits might be allowed to recognize that the supporting parent has the responsibility of incurring the expenses of raising the child while in the supporter's custody. Yet, no personal tax credit is allowed, not even a portion of the equivalent-to-spouse personal tax credit or even the single person's tax credit. I can see the Appellant's point of view that this creates a disproportionate economic disadvantage on supporting custodial parents. It seems fiscally inequitable. Counsel for the Respondent offered no explanation, justification or defence although one might speculate as a possible rationalization.
+[7] As suggested in Thibaudeau, the subject provisions tend to treat the separated family as a unit. Parliament seems to be saying that one personal exemption per family unit in respect of children is sufficient. The double burden on the supporting partner is offset by the double benefit afforded the partner receiving tax free child support (the supported partner gets tax free child support as well as the equivalent-to-spouse personal tax credit). One might well question the Tax Policy Branch of the Department of Finance, which authors such provisions on behalf of Parliament, as to the reasonableness of this position. As it stands, I would agree with the Appellant that the impugned provision imposes a penalty on supporting custodial parents.
+[8] However, it strikes me that such a fiscal inequity is at best a misguided social policy that can and perhaps should be addressed in the family law system if Parliament chooses not to address it legislatively in the Income Tax Act. That is, following the majority decision in Thibaudeau, the fiscal inequity that might result from the impugned provision is a matter which, in the family law context, invokes that system, not the Charter.
+[9] I would also note that even though the inequity in this case falls mainly on men, that does not make it discriminatory on the basis of sex as asserted by the Appellant. Although it was highlighted in Thibaudeau that women were the main recipients of support, the taxation of support payments was nonetheless found not to be gender discrimination. Similarly, that supporters may most frequently be men, does not make legislation targeting supporters gender discrimination.
+[10] Aside from the foregoing, which is a response to the Appellant's reliance on Thibaudeau, it is necessary to examine the impugned provision according to the required analysis as set out in Law v. Canada, 1 (1999) S.C.R. 497.
+[11] To start this analysis it is necessary to set out the impugned provision.
+118. (5) No amount may be deducted under subsection (1) in computing an individual's tax payable under this Part for a taxation year in respect of a person where the individual is required to pay a support amount (as defined in subsection 56.1(4)) to the individual's spouse or former spouse in respect of the person and the individual
+(a) lives separate and apart from the spouse or common-law partner or former spouse or common-law partner throughout the year because of the breakdown of their marriage or common-law partnership; or
+(b) claims a deduction for the year because of section 60 in respect of a support amount paid to the spouse or common-law partner or former spouse or common-law partner.
+[12] Accordingly, the impugned provision provides that where a person is required to pay a support amount to a former spouse, under order of a competent tribunal, then no personal tax credit amounts may be deducted under subsection 118(1) including equivalent-to-spouse credits provided for in paragraph (b) of subsection 118(1). This denial is maintained if either the taxpayer required to pay support claims the deduction under section 60 or, (even if no claim is made or allowed under the post-April 1997 child support regime), if the taxpayer required to pay support lives separate and apart from the former spouse (to whom he is required to pay support) by virtue of marriage breakdown.
+[13] In all years under consideration in the case at bar, the Appellant was required to pay support and was living separate and apart from his former spouse to whom he was required to pay the support by virtue of marriage breakdown. Accordingly, he cannot claim the equivalent-to-spouse tax credit under the express language of the subject provision.
+[14] As noted, the Appellant asserts that this provision which denies him the equivalent-to-spouse tax credit violates his Charter rights under section 15 of the Charter of Rights and Freedoms.
+[15] In Law, three broad inquiries are to be considered in section 15 Charter cases:
+1. Has a distinction been drawn between the Appellant and others on the basis of a personal characteristic resulting in substantial differential treatment on the basis of a personal characteristic?
+2. If there is a different treatment, is the ground for that distinction enumerated or analogous to a ground enumerated under subsection 15(1)?
+and
+3. If so, does the treatment discriminate by imposing a burden or withhold a benefit from the Appellant in a manner reflective of stereotypical applications of presumed personal characteristics or in a manner which has the effect of perpetrating or promoting the view that the Appellant is less capable or less worthy of recognition or value or not equally deserving of concern, respect or consideration in his role as a parent having joint custody of a child and paying child support as required under an order of a competent tribunal, namely, in this case, under the order of the Court of Queen's Bench of Manitoba Family Division?
+[16] As to the first inquiry, a distinction resulting in substantial differential treatment has been drawn by the impugned provision. The issue is whether the distinction is based on a personal characteristic. I note here that the differential treatment is based on two characteristics; the support is "child support" not a support amount for the maintenance of the former spouse. Subsection 118(5) draws no distinction between the two. Secondly, the supporting parent has joint custody of the supported child. Subsection 118(5) draws no distinction between that case and the case of a parent paying child support and not having any custodial responsibilities.
+[17] If one applies the dissenting Reasons in Thibaudeau, it is possible to argue that custodial parenthood and paying child support are personal characteristics that define a distinct group by virtue of these shared family status characteristics. Further, if one adopts the approach taken by Gonthier in Thibaudeau, who also set out three enquiries, it can be said that the first enquiry has been met simply because the Appellant falls into an identifiable group by virtue of his said personal circumstances. On this basis, I might accept then that the requirements of the first enquiry have been met.
+[18] As to the second enquiry, the differential treatment must be grounded in an enumerated or analogous ground. The Appellant's differential treatment is grounded in his circumstances prescribed entirely by a Court order and by an agreement. It is the Order that required that the Appellant pay child support (as opposed to spousal support) and it is an order that recognizes the agreement of joint custody. The prescribed circumstances are not, in my view, analogous to grounds enumerated under subsection 15(1) of the Charter. It is well established that to be an analogous ground, the personal characteristic upon which differential treatment is based, must, like an enumerated ground, be immutable or unchangeable. Orders and agreements are changeable. An order is based on personal circumstances at any given time. As either partner's income goes up or down, the support may be adjusted. Support is a question of economic status which is not an immutable personal characteristic. It is not gender based. Similarly, custody is not an immutable circumstance. It may vary with health, availability, disposition or inclination, or even, at a certain age of the child, the preferences of the child. In the case at bar, it is simply an agreed circumstance - hardly an immutable characteristic.
+[19] As to the third inquiry, to find that an impugned provision violates section 15 rights under the Charter, the burden imposed on the Appellant or the benefit denied, must be reflective of a stereotypical application of a presumed personal characteristic or have the effect of perpetrating the view that the Appellant, as a custodial supporting parent, is less worthy of recognition as a parent or less deserving of equal respect.
+[20] Being denied personal tax credits is not demeaning, in my view. A reasonable person would not, in my view, suggest that one's personal dignity or self-worth as a supporting custodial parent has been attacked by the denial of a personal tax credit. Fiscal inequalities in these circumstances are not based on some pejorative stereotype of joint custodial parents who are required by their economic circumstances to contribute to the support of a child while in the custody of the other parent. That the tax policy behind the impugned provision may be difficult to defend, does not reflect or perpetrate a negative stereotype in these circumstances. The Charter cannot be employed simply because an identifiable group is treated fiscally unfairly. The purpose of the Charter is not to protect against bad tax policy which at best this appeal is all about. This is not about human dignity. This is not about a provision that reflects a misunderstanding of the Appellant's merit as a parent. This is not a provision that stigmatises supporting custodial parents. The Appellant's place within Canadian society has not been marginalized by the denial of a tax credit.
+[21] Accordingly, even allowing, and I do not, that the second enquiry has met (i.e. that the impugned provision results in differential treatment based on an analogous ground), these findings in respect of the third enquiry fall short of engaging the Charter in this case.
+[22] Accordingly, this appeal must suffer the same fate as the appellant's appeal in Thibaudeau. The impugned provision is a "post separation/divorce family unit tax policy" provision that does not engage the Charter. That justification was found in Thibaudeau for the inclusion/deduction system under attack in that case, seems entirely beside the point. The absence of a justification is not a factor in this case. There is no historical hardship arising from stereotypical thinking that has to be relieved in this case.
+[23] I note that although I have engaged in the foregoing analysis in deference to the Appellant's sincere belief that his Charter rights have been violated and to satisfy myself as to the reasons for dismissing his appeal, I really have little room to allow the appeal given the case authorities relied on by Respondent's counsel.
+[24] As she has pointed out, this is not the first time this very challenge has been made. There have been a number of similar challenges, all made without success. Respondent's counsel has provided the Court with several cases where this Court, and in one case where the Federal Court of Appeal, have dismissed similar Charter challenges of subsection 118(5).
+[25] In Werring v. Canada, [1997] T.C.J. No. 361, this Court examined subsection 118(5) as it read and applied prior to the change in the system whereby child support became non-deductible. This Court in that case found that the denial of a claim for the equivalent-to-spouse personal tax credit was not contrary to the Charter. In that case the appellant was, as in the case at bar, a joint custodian of his son who paid child support and who was also required to pay for his son's necessary expenses while the son was in his custody. The Court reviewed a number of Charter cases including cases commenting expressly on section 118 and found that the differential treatment suffered by the appellant did not constitute "discrimination" as required to engage the Charter. The group to which the appellant belonged did not constitute an insular minority which traditionally suffered prejudice in Canadian society. They cannot claim discrimination as they were not disadvantaged in the context of their place in the entire social, legal fabric of Canadian society.
+[26] I note that that case observed that subsection 118(5) denied benefits available to other couples even when child support was deductible. That however was not a determinative factor in that decision. Indeed, the Court referred to a passage in Schachtschmeider, 93 DTC 5298 (F.C.A.) where Justice Linden commented that section 118 gave rise to a number of anomalous results (some unmarried couples getting quadruple benefits under that section) that could not be said to be discriminatory. That pragmatic rules designed for efficiency, not equity in every case, would produce benefits or disadvantages amongst particular groups, was not discrimination. It was imperfection that Canadians must tolerate until Parliament sees fit to remedy it.
+[27] In Nelson v. Canada, [2000] F.C.J. No. 1613 (F.C.A.), Justice Sharlow, writing for the Court, came to the same conclusion on similar facts to Werring. Again, that case was on facts that pre-dated the change in the deductibility of child support payments. Regardless, the finding of the Court was that the different treatment between a custodial parent not required to pay child support and a custodial parent required to pay child support was not based on an enumerated or analogous ground under subsection 15(1). The distinction was not based on a personal characteristic or on the stereotypical application of presumed group characteristics and did not bring into play the purpose of the Charter to remedy ills such as prejudice, stereotypical thinking and historical disadvantages. Nor did the operation of subsection 118(5) offend the dignity, in terms of worthiness or self-respect, of a custodial parent paying child support to the other custodial parent. The differential treatment imposed by section 118 in respect of such circumstance was not discriminatory.
+[28] Nothing in the case at bar distinguishes itself from the Court of Appeal decision in Nelson which is, accordingly, a binding authority which requires a finding in the case at bar that the Charter is not invoked by subsection 118(5).
+[29] Respondent's counsel cites yet further cases. In Nixon v. Canada, [1999] T.C.J. No. 885, on facts similar to Werring and Nelson, the Charter was found not to be engaged by subsection 118(5). As well, in Keller v. Canada, [2002] T.C.J. No. 330, which was also decided on similar facts, it was held that an obligation to pay child support was not an immutable or constructively immutable characteristic and that custodial parents required to pay child support were not an historically disadvantaged group. Differential treatment was not based on stereotypical applications of personal characteristics and for all these reasons the Charter was not invoked.
+[30] Lastly, there are the cases of Fregeau v. The Queen, 2004 T.C.C. 293 and Giorno v. Canada, [2005] T.C.J. No. 117. In these cases, unlike the other cases mentioned, the custodial parent was paying child support after the change in the tax regime governing child support payments. That is, the child support payments in these latter two cases were non-deductible by the paying parent and not includable in the income of the recipient parent. Both cases found that subsection 118(5) did not engage the Charter. In Fregeau, Justice Bédard relied on Thibaudeau in dismissing the appeal. In Giorno Justice Rip analyzed the Charter argument applying the analyses in Law. He concluded, as I have, that the second inquiry in Law failed to engage the Charter. He did not find it necessary to go to the third enquiry but I note that those Judges who have gone to the third enquiry, have found, as I have, that in these circumstances, the Charter is not engaged.
+[3l] Based on all of the foregoing it seems absolutely clear that the Appellant's case to invoke subsection 15(1) of the Charter is without merit. As well I note that the Appellant derives no better result under either Article 16 of the United Nations Universal Declaration of Human Rights or under the Canadian Human Rights Act both of which were briefly argued by the Appellant. Subsection 118(5) does support a discriminatory practice or deny equal rights as to marriage at its dissolution. The Appellant's equality rights in this case are determined by the engagement or non-engagement of the Charter.
+[32] Accordingly, the appeal is dismissed without costs.
+Signed at Ottawa, Canada, this 17th day of October 2005.
+"J.E. Hershfield"
+Hershfield J.
+CITATION:
+2005TCC667
+COURT FILE NO.:
+2002-4779(IT)G
+STYLE OF CAUSE:
+Richard Donovan
+Her Majesty the Queen
+PLACE OF HEARING:
+Winnipeg, Manitoba
+DATE OF HEARING:
+October 6, 2005
+REASONS FOR JUDGMENT BY:
+The Honourable Justice J.E. Hershfield
+DATE OF JUDGMENT:
+October 17, 2005
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Naomi Goldstein
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

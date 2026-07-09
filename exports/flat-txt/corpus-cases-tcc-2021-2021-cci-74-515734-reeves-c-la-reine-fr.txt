@@ -1,0 +1,144 @@
+Title: Reeves c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/515734/index.do
+Corpus path: corpus/cases/tcc/2021/2021-cci-74-515734-reeves-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2021-11-03
+
+# Reeves c. La Reine
+
+- Citation: 2021 CCI 74
+- Decision date: 2021-11-03
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4477, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Reeves c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2021-11-03
+Référence neutre
+2021 CCI 74
+Numéro de dossier
+2019-1337(GST)I
+Juges et Officiers taxateurs
+Bruce Russell
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2019-1337(GST)I
+ENTRE :
+GAY-ANN REEVES,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 13 septembre 2021 à Toronto (Ontario)
+Devant : L’honorable juge B. Russell
+Comparutions :
+Représentant de l’appelante :
+Asad Yakob
+Avocats de l’intimée :
+Me John MacLaughlan
+Me Alexandra Humphrey
+JUGEMENT
+Conformément aux motifs du jugement ci-joints :
+L’appel interjeté à l’encontre de la cotisation établie le 13 octobre 2018 aux termes de la Loi sur la taxe d’accise, relativement à la demande de remboursement de TPS/TVH pour habitations neuves présentée par l’appelante, est rejeté, sans dépens.
+Signé à Ottawa, Canada, ce 3e jour de novembre 2021.
+« B. Russell »
+Le juge Russell
+Référence : 2021 CCI 74
+Date : 20211102
+Dossier : 2019-1337(GST)I
+ENTRE :
+GAY-ANN REEVES,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Russell
+I. INTRODUCTION
+[1] L’appelante, Gay-Ann Reeves, interjette appel du rejet, par le ministre du Revenu national (le « ministre »), de sa demande de remboursement de TPS/TVH pour habitations neuves (le « RHN »), en application de la Loi sur la taxe d’accise (la « Loi »).
+II. LES FAITS
+[2] Deux personnes ont témoigné – Mme Reeves et sa tante, J. Reid. En résumé, selon les éléments de preuve essentiellement non contestés qu’elles ont présentés, en 2015, Mme Reeves et M. Grant, qui est aujourd’hui son époux, (Mme Reeves/M. Grant) voulaient acheter un lot à Brampton (Ontario), afin d’y faire construire, par l’entrepreneur Mattamy (Mount Pleasant North) Limited (Mattamy), une maison qui leur servirait de lieu de résidence habituelle. Comme le lieu de travail de Mme Reeves était éloigné, il lui était impossible de se rendre sur place en temps opportun pour signer une convention d’achat et de vente lorsque les lots de Mattamy ont été mis en vente. Elle a donc demandé à Mme Reid, sa tante qui résidait à proximité des bureaux de Mattamy, d’y aller à sa place et de signer les documents en son nom. Le 18 août 2015, Mme Reid s’est rendue aux bureaux de Mattamy et a signé une convention d’achat et de vente pour le lot que souhaitaient acquérir Mme Reeves et M. Grant.
+[3] Le 31 août 2015, Mme Reeves et M. Grant ont fait modifier cette convention de manière à ce que leurs noms y soient ajoutés à titre d’acheteurs et que celui de Mme Reid à titre d’acheteur soit supprimé.
+[4] Cependant, le 29 avril 2017, après qu’on leur eut conseillé d’ajouter de nouveau le nom de Mme Reid à titre d’acheteur, afin Mme Reeves et M. Grant puissent plus facilement obtenir le financement hypothécaire désiré, ces derniers ont de nouveau fait modifier la convention d’achat et de vente en conséquence.
+[5] La clôture de la transaction immobilière a eu lieu le 24 mai 2017, à la fin de la construction de la maison sur le lot sélectionné, Mme Reeves et M. Grant ainsi que Mme Reid y figurant tous à titre d’acheteurs. Mme Reeves et M. Grant ont acquis le titre de propriété de 99 % des parts du bien en qualité de tenants conjoints, tandis que Mme Reid en a acquis 1 % des parts en tant que tenant commun. Peu après, il a été établi qu’il n’était en fait pas nécessaire que le nom de Mme Reid figure sur le titre de propriété pour obtenir le financement hypothécaire. Son nom a donc été retiré.
+[6] Mme Reid n’a jamais eu l’intention d’utiliser le bien en cause comme résidence, principale ou autre, et elle ne l’a jamais occupé. De plus, aucun élément de preuve n’indique que d’autres personnes, outre la nièce de Mme Reid (Mme Reeves) et son époux, avaient l’intention d’utiliser le bien en question comme lieu de résidence habituelle.
+[7] Mme Reeves a présenté sa demande de remboursement pour habitations neuves au ministre le 8 août 2017, demandant un remboursement de 24 000 $.
+[8] La demande de remboursement a d’abord été acceptée; le RHN de 24 000 $ a été versé à Mattamy et la somme correspondante a été portée au crédit de Mme Reeves et M. Grant. Cependant, aux termes d’une cotisation établie le 13 octobre 2018, le ministre a rejeté la demande de RHN et a établi une cotisation à l’égard de Mme Reeves pour la somme de 24 000 $, plus des intérêts de 1 941 $. Le 18 février 2019, le ministre a confirmé la cotisation établie le 13 octobre 2018, laquelle fait l’objet du présent appel.
+III. QUESTION EN LITIGE
+[9] La question en litige est de savoir si Mme Reeves a droit au remboursement pour habitations neuves qu’elle a demandé.
+IV. LA THÈSE DE L’APPELANTE
+[10] Mme Reeves soutient qu’elle a droit au remboursement pour habitations neuves en litige. Elle prétend que l’inclusion du nom de sa tante, Mme Reid, sur le titre de propriété à la clôture de la transaction n’a été fait que dans le seul but de faciliter l’obtention d’un financement hypothécaire et que cela ne devrait pas avoir d’incidence sur son droit au RHN.
+V. LA THÈSE DE L’INTIMÉE
+[11] L’intimée (la Couronne) fait valoir que la loi exige que tous les acheteurs d’un bien faisant l’objet d’une demande de remboursement pour habitations neuves, donc également Mme Reid en l’espèce, soient admissibles à ce remboursement, nonobstant le fait qu’un seul de ces acheteurs pourrait obtenir le remboursement. La Couronne fait en outre valoir que Mme Reid n’y était pas admissible, puisque ni elle ni aucun de ses proches n’avait l’intention d’acquérir le bien en question en vue de l’utiliser comme résidence principale. Enfin, l’intimée fait valoir que Mme Reeves n’est pas, en sa qualité de nièce, un proche de Mme Reid dans le présent contexte juridique.
+VI. CADRE LÉGISLATIF
+[12] Les critères d’admissibilité au remboursement pour habitations neuves sont énoncés au paragraphe 254(2) de la Loi. Les alinéas 254(2)a) et b) prévoient ce qui suit :
+254(2) Le ministre verse un remboursement à un particulier dans le cas où, à la fois :
+a) le constructeur d’un immeuble d’habitation à logement unique ou d’un logement en copropriété en effectue, par vente, la fourniture taxable au profit du particulier;
+b) au moment où le particulier devient responsable ou assume une responsabilité aux termes du contrat de vente de l’immeuble ou du logement conclu entre le constructeur et le particulier, celui-ci acquiert l’immeuble ou le logement pour qu’il lui serve de lieu de résidence habituelle ou serve ainsi à son proche; [...]
+Le remboursement est égal au montant suivant : […]
+(Non souligné dans l’original.)
+[13] L’alinéa 254(2)b) exige que « le particulier » ait l’intention d’utiliser le bien comme lieu de résidence habituelle pour lui ou l’un de ses proches. La loi définit le terme « proche » ainsi qu’il est indiqué ci-après.
+VII. DISCUSSION
+[14] La décision rendue par la Cour d’appel fédérale (CAF) dans Canada c. Cheema, 2018 CAF 45, autorisation d’interjeter appel auprès de la Cour suprême du Canada refusée 2019 CarswellNat 358, s’applique à la première question en litige dans la présente affaire – l’acheteur qui ne figure sur le titre de propriété que dans le seul but d’aider l’autre ou les autres acheteurs à obtenir un financement doit-il lui aussi satisfaire pleinement aux critères prévus par la loi pour être admissible au remboursement pour habitations neuves? Dans l’arrêt Cheema, le contribuable avait sollicité l’aide d’un ami sans lien de parenté, M. Akbari, pour obtenir un financement en vue de l’achat d’un bien. M. Akbari n’avait aucune l’intention de résider dans la maison en question et il a signé le contrat de vente, en qualité d’acheteur, tout comme le contribuable, dans le seul but d’aider M. Cheema à obtenir un financement.
+[15] Le ministre a rejeté la demande de remboursement de TPS/TVH pour habitations neuves de ce contribuable. Le contribuable a interjeté appel auprès de notre Cour et a obtenu gain de cause. La Couronne a ensuite interjeté appel auprès de la CAF, et cet appel a été accueilli par une décision rendue à la majorité par le juge Stratas de la Cour d’appel fédérale.
+[16] Au paragraphe 91 de l’arrêt Cheema, le juge Stratas a déclaré ce qui suit :
+L’article 40 du Règlement sur le nouveau régime de la taxe à valeur ajoutée harmonisée, No. 2, DORS/2010-151, lequel s’applique en l’espèce (voir l’article 256.21 de la Loi sur la taxe d’accise), prévoit que, si la fourniture de l’immeuble est effectuée au profit d’au moins deux personnes, la mention de « particulier » doit s’interpréter pour englober l’ensemble de ces particuliers en tant que groupe. Aux termes du contrat de vente, la fourniture de l’immeuble a été effectuée au profit tant de M. Akbari que de M. Cheema. Ainsi, la seconde condition préalable, qui exige que l’immeuble serve de résidence habituelle, doit être remplie tant par M. Cheema que par M. Akbari.
+(Non souligné dans l’original.)
+[17] Cette décision rendue à la majorité se justifie du fait que, selon l’article 40 du Règlement no 2 sur le nouveau régime de la taxe à valeur ajoutée harmonisée, DORS/2010-151 (ainsi que le paragraphe 262(3) de la Loi), tous les acheteurs du bien en cause doivent satisfaire aux critères d’admissibilité au remboursement pour habitations neuves, et pas seulement l’acheteur qui présente réellement la demande de remboursement. Cela comprend tout acheteur dont le nom figurait sur le titre de propriété à la clôture de la transaction dans le seul but d’aider au financement. Par conséquent, la tante de Mme Reeves, Mme Reid, devait elle aussi satisfaire aux exigences du RHN, notamment à l’exigence relative à la soi-disant intention d’occuper.
+[18] Dans Omapas Duyo c. La Reine, 2018 CCI 70, le juge Hogan de notre Cour devait statuer sur une demande de remboursement pour habitations neuves. Invoquant l’arrêt Cheema, il a rejeté la demande, en déclarant ce qui suit au paragraphe 21 :
+La CAF a conclu [dans Cheema] que tous les signataires d’un contrat de vente d’une maison nouvellement construite doivent respecter l’exigence de l’intention de l’occuper pour avoir droit au RHN.
+[19] Comme je l’ai mentionné précédemment, l’alinéa 254(2)b) précise que, pour être admissible à un RHN, le particulier doit acquérir le bien afin que celui-ci lui serve de lieu de résidence habituelle ou qu’il serve ainsi à un de ses proches.
+[20] Les éléments de preuve montrent clairement que Mme Reid n’avait pas l’intention d’utiliser elle-même le bien comme lieu de résidence habituelle. Son intention était toutefois que ce bien soit utilisé à cette fin par sa nièce, Mme Reeves.
+[21] La question est donc de savoir si une nièce est un « proche » au sens de l’alinéa 254(2)b). Au paragraphe 254(1) de la Loi, le « proche » d’un particulier est défini comme « [...] un autre particulier lié à ce particulier ». Le paragraphe 126(2) de la Loi dispose en outre que « [l]es paragraphes 251(2) à (6) de la Loi de l’impôt sur le revenu s’appliquent aux fins de déterminer si des personnes sont liées pour l’application de la présente partie [la partie IX, qui comprend l’article 254] ».
+[22] De ce fait, l’alinéa 251(2)a) de la Loi de l’impôt sur le revenu dispose que « sont [...] des personnes liées entre elles [...] des particuliers unis par les liens du sang, du mariage, de l’union de fait ou de l’adoption ».
+[23] Parmi ces différents types de liens, le seul qui pourrait être pertinent dans le cas de Mme Reeves et de sa tante, Mme Reid, est celui des « liens du sang ». L’alinéa 251(6)a) de la Loi de l’impôt sur le revenu dispose que, « [p]our l’application de la présente loi : [...] des personnes sont unies par les liens du sang si l’une est l’enfant ou un autre descendant de l’autre ou si l’une est le frère ou la sœur de l’autre ».
+[24] Dans l’arrêt Canada c. Ngai, 2019 CAF 181, au paragraphe 31, le juge Webb de la Cour d’appel fédérale a écrit ce qui suit :
+Selon le paragraphe 254(1) de la LTA [Loi sur la taxe d’accise], un particulier est un proche d’un autre particulier s’ils sont liés entre eux. Selon le paragraphe 126(2) de la LTA, particuliers sont liés entre eux aux fins de la LTA s’ils sont liés entre eux aux fins de la Loi de l’impôt sur le revenu, conformément aux paragraphes 251(2) à (6) de celle-ci. Le paragraphe 251(2) de la Loi de l’impôt sur le revenu dispose que « sont des personnes liées ou des personnes liées entre elles : a) des particuliers unis par les liens du sang, du mariage, de l’union de fait ou de l’adoption [...] ». Aux termes du paragraphe 251(6) de la Loi de l’impôt sur le revenu, « pour l’application de la présente loi : a) des personnes sont unies par les liens du sang si l’une est l’enfant ou un autre descendant de l’autre ou si l’une est le frère ou la sœur de l’autre » [...]. En raison de ces dispositions, un neveu n’est pas apparenté à sa tante ou à son oncle [...].
+(Non souligné dans l’original.)
+[25] En conséquence, suivant Ngai, je dois conclure qu’une nièce n’est pas un proche de sa tante aux fins de l’alinéa 254(2)b) de la Loi. Mme Reeves ne peut donc pas être considérée comme un proche de sa tante, Mme Reid. À ce titre, il ne peut pas être dit que Mme Reid, en sa qualité d’acheteur du bien en cause, avait l’intention d’en faire l’acquisition afin que celui-ci serve de lieu de résidence habituelle à un proche.
+[26] Par conséquent, on ne peut pas dire que tous les acheteurs du bien en cause satisfaisaient aux critères d’admissibilité au remboursement pour habitations neuves, de sorte qu’aucun des acheteurs (y compris Mme Reeves) n’y a droit, même si certains répondent individuellement à ces critères.
+VIII. CONCLUSION
+[27] En conformité avec les décisions rendues par la Cour d’appel fédérale dans Cheema et Ngai, le présent appel sera rejeté. Conformément à l’article 9 des Règles de procédure de la Cour canadienne de l’impôt à l’égard de la Loi sur la taxe d’accise (procédure informelle), le rejet est sans dépens.
+Signé à Ottawa, Canada, ce 3e jour de novembre 2021.
+« B. Russell »
+Le juge Russell
+RÉFÉRENCE :
+2021 CCI 74
+NO DU DOSSIER DE LA COUR :
+2019-1337(GST)I
+INTITULÉ :
+GAY-ANN REEVES c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+Le 13 septembre 2021
+MOTIFS DU JUGEMENT :
+L’honorable juge B. Russell
+DATE DU JUGEMENT :
+Le 3 novembre 2021
+COMPARUTIONS :
+Représentant de l’appelante :
+Asad Yakob
+Avocats de l’intimée :
+Me John MacLaughlan
+Me Alexandra Humphrey
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+s. o.
+Cabinet :
+s. o.
+Pour l’intimée :
+François Daigle
+Sous-procureur général du Canada
+Ottawa, Canada

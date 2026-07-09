@@ -1,0 +1,164 @@
+---
+title: "Hargrave v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26202/index.do"
+last_modified: "2005-02-10"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 CCI 114"
+citation2: ""
+neutral_citation: "2005 CCI 114"
+decision_date: "2005-02-10"
+language: "fr"
+item_id: "26202"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3933
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T23:16:05.833000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "985410011e35525323d9af438b75e08f965a1080d1e307554b4c183d8028f5d3"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Hargrave v. The Queen
+
+- Citation: 2005 CCI 114
+- Decision date: 2005-02-10
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3933, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Hargrave v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-02-10
+Référence neutre
+2005 CCI 114
+Numéro de dossier
+2004-2842(IT)I
+Juges et Officiers taxateurs
+David W. Beaubier
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2004-2842(IT)I
+ENTRE :
+BARRY HARGRAVE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 28 janvier 2005, à Kamloops (Colombie-Britannique)
+Devant : L’honorable juge D.W. Beaubier
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Me Bruce Senkpiel
+____________________________________________________________________
+JUGEMENT
+Les appels des nouvelles cotisations établies en application de la Loi de l’impôt sur le revenu pour les années d’imposition 1999 et 2000 sont rejetés; l’appel de la nouvelle cotisation établie pour l’année d’imposition 2001 est accueilli et cette nouvelle cotisation est renvoyée au ministre du Revenu national pour que celui‑ci procède à un nouvel examen et établisse une nouvelle cotisation conformément aux motifs du jugement ci-joints selon lesquels l’appelant a démarré son entreprise le 1er octobre 2001.
+Signé à Calgary (Alberta), ce 10e jour de février 2005.
+« D.W. Beaubier »
+Juge Beaubier
+Traduction certifiée conforme
+ce 29e jour de juillet 2005.
+Hélène Tremblay, traductrice
+Référence : 2005CCI114
+Date : 20050210
+Dossier : 2004-2842(IT)I
+ENTRE :
+BARRY HARGRAVE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Beaubier
+[1] Cet appel, interjeté sous le régime de la procédure informelle, a été entendu à Kamloops, en Colombie-Britannique, le 28 janvier 2005. L’appelant a témoigné. L’intimée a appelé Thomas Jacobson, C.G.A., le vérificateur chargé du dossier, à témoigner.
+[2] Les paragraphes 3 à 11 inclusivement de la réponse à l’avis d’appel présentent les grandes lignes des questions en litige :
+[TRADUCTION]
+3. Dans le calcul de ses revenus, l’appelant a déduit des pertes d’entreprise de 17 797 $ pour l’année 1999, de 2 961 $ pour l’année 2000 et de 31 481 $ pour l’année 2001, comme l’indique l’annexe « A » ci-jointe.
+4. Au départ, le ministre du Revenu national (le « ministre ») a établi les cotisations de l’appelant pour les années d’imposition 1999, 2000 et 2001 par des avis datés du 31 juillet 2000, du 10 mai 2001 et du 17 juin 2002 respectivement, en fonction des déclarations de l’appelant.
+5. Par des avis datés du 25 juillet 2003, le ministre a établi de nouvelles cotisations à l’égard de l’appelant pour les années d’imposition 1999, 2000 et 2001 afin de refuser la déduction du coût des biens vendus et des dépenses d’entreprise d’un total de 17 797 $, de 2 961 $ et de 35 216 $ respectivement, comme l’indique l’année « A » ci-jointe.
+6. L’appelant s’est opposé aux nouvelles cotisations en signifiant au ministre un avis d’opposition daté du 14 octobre 2003.
+7. Par un avis daté du 31 mars 2004, le ministre a confirmé les nouvelles cotisations de l’appelant pour les années d’imposition 1999, 2000 et 2001.
+8. Lorsqu’il a établi les nouvelles cotisations pour les années d’imposition 1999, 2000 et 2001 et lorsqu’il a confirmé ces nouvelles cotisations, le ministre s’est appuyé sur les mêmes hypothèses de fait, que voici :
+a) l’appelant a déclaré des activités de travailleur autonome concernant une entreprise de plomberie, de chauffage et de climatisation portant la raison sociale de « One Stop Contractors »;
+b) l’appelant n’a pas effectué de services de plomberie ou réfrigération;
+c) l’appelant prévoyait démarrer une entreprise de réparation d’automobiles et de remplacement de vitres;
+d) l’appelant n’a pas effectué de travaux de réparation de carrosserie ou de restauration;
+e) l’appelant n’avait pas commencé à exploiter une entreprise;
+f) l’appelant ne menait pas d’activités commerciales;
+g) l’appelant a déduit des coûts de biens vendus d’un montant de 1 660 $ pour l’année d’imposition 2001;
+h) l’appelant a déduit des dépenses d’entreprise de 17 797 $ en 1999, de 2 961 $ en 2000 et de 33 556 $ en 2001;
+i) l’appelant n’a pas enregistré le coût des biens vendus et les dépenses d’entreprise déduits en 1999, 2000 et 2001 dans le but de tirer un revenu d’une entreprise;
+j) l’appelant a gagné d’autres revenus au montant de 3 735 $ pendant l’année d’imposition 2001.
+B. LES QUESTIONS EN LITIGE
+9. La question est de savoir si l’appelant a droit aux déductions qu’il a faites des coûts des biens vendus et des dépenses d’entreprise pour les années d’imposition 1999, 2000 et 2001.
+C. LES DISPOSITIONS LÉGISLATIVES INVOQUÉES
+10. Il s’est appuyé sur les articles 3 et 9, sur le paragraphe 248(1), et sur les alinéas 18(1)a), 18(1)b) et 18(1)h) de la Loi de l’impôt sur le revenu, L.R.C. (1985), ch. 1 (5e suppl.), et modifications (la « Loi »).
+D. LES MOYENS INVOQUÉS ET LES RÉPARATIONS SOLLICITÉES
+11. Il soutient que parce qu’il n’y avait pas de source de revenu d’entreprise, l’appelant n’est pas admissible à la déduction des coûts des biens vendus et des dépenses d’entreprise refusées par le ministre. Les montants n’ont pas été payés ou encourus dans le but de tirer un revenu d’une entreprise. Il s’agissait plutôt de dépenses personnelles ou de subsistance faites par l’appelant, ou bien des paiements à titre de capital. Les montants ont donc été refusés à juste titre en application des alinéas 18(1)a), 18(1)b) et 18(1)h) de la Loi.
+[3] En ce qui a trait aux hypothèses formulées au paragraphe 8, la Cour a conclu ce qui suit :
+a) à c) : N’ont pas été réfutées.
+d) à f) et i) : Lors du contre-interrogatoire, l’appelant a admis qu’il n’avait pas démarré son entreprise avant l’année 2000. Il a présenté en preuve quelques factures numérotées de façon discontinue. Une des factures, d’un montant de moins de 100 $, n’indiquait pas de main d’œuvre ou de travaux, et était datée de juin 2001. Les autres factures pour l’année 2001 étaient datées d’octobre à décembre 2001. L’appelant n’a pas présenté son livre de factures contenant les talons de facture restants, ce qui aurait représenté plus de 100 talons de facture.
+[4] L’appelant a présenté des pièces contenant des photos de sa maison, de sa station de pompage et de son atelier, situés à l’extérieur de 100 Mile House, en Colombie-Britannique. Il est, semble-t-il, un divorcé maintenant âgé de 62 ans et son atelier est soigneusement établi. Lors du contre-interrogatoire, il a admis que la majeure partie des biens d’équipement de l’atelier de photographies avait été achetée après 2000. Les dépenses qu’il avait déduites comprenaient des montants importants relatifs à un chien de garde, ainsi que certains éléments qui semblent être du capital.
+[5] L’avocat de l’intimée et le vérificateur ont très bien exprimé leurs soupçons quant aux factures (pièce A-4). La facture no 329257 est datée du 11/06/01. Le prochain numéro, 329263, représente une facture datée du 12/10/01. Ensuite, la facture no 329265 est datée du 15/10/01. Par comparaison, la facture no 329272 est datée du 7/10/01. L’appelant a affirmé avoir détruit et inversé des factures et des devis pour l’ICBC et pour d’autres raisons. Cependant, sans le livre des factures et les copies, son explication n’est pas acceptée. La facture de juin 2001, qui ne mentionne aucun élément concernant la main d’œuvre, n’est donc pas considérée comme une preuve que l’appelant menait des activités commerciales.
+[6] La Cour ne dispose d’aucun élément de preuve établissant que l’appelant exploitait une entreprise autre que son entreprise automobile. Jusqu’en octobre 2001, il était un amateur, ou bien il envisageait de démarrer une entreprise ou il s’apprêtait à le faire. Il a démarré l’entreprise automobile en octobre 2001.
+[7] Les appels concernant les années 1999 et 2000 sont donc rejetés.
+[8] L’appel concernant l’année 2001 est accueilli et la question est renvoyée au ministre du Revenu national pour que celui-ci procède à un nouvel examen et établisse une nouvelle cotisation en fonction du fait que l’appelant a démarré son entreprise le 1er octobre 2001.
+Signé à Calgary (Alberta), ce 10e jour de février 2005.
+« D.W. Beaubier »
+Juge Beaubier
+Traduction certifiée conforme
+ce 29e jour de juillet 2005.
+Hélène Tremblay, traductrice
+RÉFÉRENCE :
+2005CCI114
+No DU DOSSIER DE LA COUR :
+2004-2842(IT)I
+INTITULÉ DE LA CAUSE :
+Barry Hargrave c. La Reine
+LIEU DE L’AUDIENCE :
+Kamloops (Colombie-Britannique)
+DATE DE L’AUDIENCE :
+Le 28 janvier 2005
+MOTIFS DU JUGEMENT PAR :
+L’honorable juge D.W. Beaubier
+DATE DU JUGEMENT :
+Le 10 février 2005
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Me Bruce Senkpiel
+AVOCAT(S) INSCRIT(S) AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

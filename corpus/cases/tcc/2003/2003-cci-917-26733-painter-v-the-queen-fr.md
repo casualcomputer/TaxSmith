@@ -1,0 +1,160 @@
+---
+title: "Painter v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26733/index.do"
+last_modified: "2003-12-29"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 CCI 917"
+citation2: ""
+neutral_citation: "2003 CCI 917"
+decision_date: "2003-12-29"
+language: "fr"
+item_id: "26733"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3414
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T18:22:15.044000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "8bb4ad9cd7bef48c711fe3b3ce6c3c68fe361a535daed7006d45bf3c04bdce53"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Painter v. The Queen
+
+- Citation: 2003 CCI 917
+- Decision date: 2003-12-29
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3414, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Painter v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-12-29
+Référence neutre
+2003 CCI 917
+Numéro de dossier
+2003-384(IT)I
+Juges et Officiers taxateurs
+Terrence O'Connor
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2003-384(IT)I
+ENTRE :
+EDWARD J. PAINTER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 24 septembre 2003 à Vancouver (Colombie-Britannique)
+Devant : L'honorable juge Terrence O'Connor
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocat de l'intimée :
+Me Michael Taylor
+____________________________________________________________________
+JUGEMENT
+L'appel interjeté à l'encontre de la cotisation établie en vertu de la Loi de l'impôt sur le revenu pour l'année d'imposition 2001 est rejeté conformément aux motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 29e jour de décembre 2003.
+« T. O'Connor »
+Juge O'Connor
+Traduction certifiée conforme
+ce 22e jour d'avril 2004.
+Nancy Bouchard, traductrice
+Référence : 2003CCI917
+Date : 20031229
+Dossier : 2003-384(IT)I
+ENTRE :
+EDWARD J. PAINTER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge O'Connor
+[1] Le présent appel a été entendu à Vancouver, en Colombie-Britannique, le 24 septembre 2003.
+[2] Les faits et les questions sont exposés aux paragraphes suivants de la Réponse à l'avis d'appel :
+[traduction]
+Le ministre du Revenu national (le « ministre » ) a initialement établi une cotisation à l'égard de l'appelant pour l'année d'imposition 2001 par voie d'Avis daté du 15 avril 2002.
+Dans le calcul de son revenu pour l'année d'imposition 2001, l'appelant a déclaré des pertes autres que des pertes en capital d'un montant de 15 006 $, reportées prospectivement des années antérieures.
+Le 15 avril 2001, le ministre a établi une cotisation à l'égard de l'appelant pour l'année d'imposition 2001 et a admis 1 799 $ à titre de pertes autres que des pertes en capital reportées prospectivement des années antérieures.
+5. En établissant la cotisation à l'égard de l'appelant de cette manière, le ministre s'est fondé sur les hypothèses de fait suivantes :
+a) l'appelant a fait faillite le 7 mars 1994;
+b) l'ordonnance de libération absolue d'un failli a été rendue à l'égard de l'appelant le 15 novembre 1996;
+c) l'appelant a subi pendant l'année d'imposition 1998 une perte nette de 1 799 $ qu'il a reportée prospectivement comme perte autre que perte en capital;
+d) après sa libération d'un failli, l'appelant n'a pas subi d'autre perte que celle de 1 799 $ mentionnée au paragraphe 5c des présentes qu'il aurait pu reporter prospectivement comme perte autre que perte en capital.
+QUESTIONS EN LITIGE À TRANCHER
+La question est celle de savoir si l'appelant a le droit de reporter prospectivement toute perte autre que perte en capital subie en plus de celle de 1 799 $ admise dans le calcul de son revenu pour l'année d'imposition 2001.
+DISPOSITIONS LÉGISLATIVES INVOQUÉES
+Il invoque l'alinéa 128(2)g) et les paragraphes 111(1) et 248(1) de la Loi de l'impôt sur le revenu, L.R.C. 1985, ch. 1 (5e suppl.), dans sa version modifiée (la « Loi » ).
+MOTIFS INVOQUÉS ET REDRESSEMENT DEMANDÉ
+Il soutient respectueusement que le montant de l'impôt de l'année d'imposition 2001 de l'appelant a été correctement établi en permettant de reporter prospectivement une perte autre que perte en capital de 1 799 $ conformément aux alinéas 111(1)b) et 128(2)g) de la Loi.
+[3] À l'audition du présent appel, l'appelant a mentionné une ordonnance de libération sous condition d'un failli et une ordonnance de libération absolue subséquente. Il a eu jusqu'au 31 octobre 2003 pour présenter ces ordonnances (ce qu'il a fait), et les deux parties ont eu jusqu'au 28 novembre 2003 pour soumettre tout commentaire sur ces ordonnances.
+[4] L'appelant n'a pas fait de commentaire. Les observations de l'avocat de l'intimée sont exposées dans une lettre adressée à la Cour de l'impôt datée du 10 novembre 2003, laquelle était en partie rédigée dans les termes suivants :
+[traduction]
+L'appelant a fait faillite le 7 mars 1994. Le 28 août 1995, la Cour du Banc de la Reine du Manitoba lui a accordé une ordonnance de libération sous condition du failli (l' « ordonnance conditionnelle » ). L'ordonnance conditionnelle prévoyait qu'une ordonnance de libération absolue serait rendue, lorsque le greffier serait persuadé que l'appelant avait payé 5 000 $ en 18 mois au syndic en matière de faillites et cédé ses futurs remboursements d'impôt et crédits pour TPS. L'appelant a déclaré qu'il avait payé 5 000 $ au syndic en matière de faillites en juillet 1996. Le 15 novembre 1996, la Cour du Banc de la Reine du Manitoba a rendu une nouvelle ordonnance de libération absolue d'un failli (l' « ordonnance absolue » ).
+Dans le présent appel, la question consiste à savoir si, pour l'année d'imposition 2001, l'appelant peut déduire des pertes autres que des pertes en capital reportées prospectivement de 1995 en vertu de l'alinéa 111(1)a) de la Loi de l'impôt sur le revenu. La position de l'intimée consiste en ce que l'appelant ne le peut pas en raison de l'alinéa 128(2)g) de la Loi. En termes simples, cet alinéa (tel qu'il s'appliquait aux faillites survenues avant 1995) stipulait qu'un contribuable faisant faillite ne peut pas reporter prospectivement, pour les déduire au cours d'une année ultérieure conformément à l'article 111, les pertes subies avant l'année où l'ordonnance de libération d'un failli a été rendue.
+En l'espèce, l'intimée fait valoir que l'appelant n'a pas le droit de reporter prospectivement les pertes de l'année d'imposition 1995 parce que cette année est antérieure à celle où l'ordonnance a été rendue. En 1995, l'appelant avait le statut de failli en vertu de la Loi sur la faillite et l'insolvabilité, L.R.C. (1985), ch. B-3, dans sa version modifiée. Il a conservé ce statut juridique jusqu'à ce que l'ordonnance absolue lui soit accordée, le 15 novembre 1996.
+L'intimée soutient que l'ordonnance de libération de l'appelant ne peut pas être considérée comme ayant été accordée avant 1996 pour deux raisons. Premièrement, l'appelant n'a pas été libéré en 1995 par l'ordonnance conditionnelle parce qu'il demeurait failli en vertu de la Loi sur la faillite, au moins jusqu'à ce qu'il satisfasse aux conditions de cette ordonnance, ce qu'il n'a fait qu'en juillet 1996. On trouve à l'appui les affaires Gray et Harrison, qui soutiennent toutes deux que les biens subséquemment acquis que l'on acquiert pendant qu'une ordonnance conditionnelle est en vigueur, mais avant que les conditions soient remplies, font partie des biens du failli parce que la libération entre en vigueur seulement lorsque les conditions sont remplies.
+La seconde raison pour laquelle l'ordonnance de libération d'un failli de l'appelant ne peut pas être considérée comme ayant été accordée avant 1996 est que l'ordonnance conditionnelle n'a pas été appliquée de façon rétroactive pour libérer l'appelant dès le 28 août 1995 une fois les conditions remplies. Dans les affaires Gray et Harrison, des ordonnances de libération ont été accordées aux faillis sous réserve de certaines conditions, de telle sorte que les libérations sont entrées en vigueur lorsque les conditions ont été remplies. En l'espèce, cependant, l'ordonnance conditionnelle n'a pas libéré l'appelant après qu'il a payé les 5 000 $ au syndic. Au lieu de cela, l'ordonnance conditionnelle prévoyait seulement qu'une nouvelle ordonnance de libération distincte serait rendue. Par conséquent, l'ordonnance conditionnelle ne peut même pas être interprétée comme libérant l'appelant de façon rétroactive au 28 août 1995, une fois la condition remplie. La nouvelle ordonnance absolue, rendue le 15 novembre 1996, entre en vigueur à cette date. À première vue, elle n'est pas rétroactive non plus.
+La preuve montre clairement que l'ordonnance libérant l'appelant de la faillite a été accordée en 1996, de sorte qu'aucune perte subie avant 1996 ne peut être reportée prospectivement en raison de l'alinéa 128(2)g) de la Loi. L'appelant a fait valoir qu'il aurait pu réaliser les pertes en question en 1996 plutôt qu'en 1995 s'il avait connu les conséquences fiscales de sa libération. Toutefois, l'intimée soutient que nous ne nous intéressons pas à ce que l'appelant aurait pu faire, mais bien à ce qu'il a fait, et à ce qui est prévu par les ordonnances conditionnelle et absolue. Par conséquent, l'appel devrait être rejeté.
+[5] Selon l'appelant, il devrait avoir le droit de déclarer en 2001 le montant intégral de 15 006 $ de la perte autre que perte en capital reportée prospectivement. Il fait valoir que la différence entre ces 15 006 $ et le montant de 1 799 $ admis par le ministre, à savoir 13 207 $, correspond à un prêt consenti par l'appelant à des actionnaires d'une société, prêt qui a eu lieu après la date de l'ordonnance conditionnelle. Il affirme donc que la perte découlant de ce prêt n'était pas une perte subie avant l'ordonnance conditionnelle et que l'alinéa 128(2)g) de la Loi de l'impôt sur le revenu ne devrait pas donc s'appliquer pour l'empêcher de la reporter prospectivement.
+Analyse
+[6] L'ordonnance conditionnelle datée du 28 août 1995 est rédigée dans les termes suivants :
+[traduction]
+DANS L'AFFAIRE DE LA FAILLITE DE
+EDWARD JAMES PAINTER
+ORDONNANCE DE LIBÉRATION SOUS CONDITION D'UN FAILLI
+Sur la demande de Edward James Painter, qui a effectué une cession le 7e jour de mars 1994, et à la lecture du rapport du syndic concernant la conduite et les affaires du failli, à l'audition des observations du représentant du syndic, le failli étant absent mais excusé, et aucun créancier n'étant présent ni ne faisant opposition;
+ET ATTENDU QUE le fait suivant a été prouvé en vertu de l'article 173 de la Loi sur la faillite et l'insolvabilité, à savoir que les biens du failli ne sont pas d'une valeur égale à cinquante cents du dollar sur le montant de ses obligations non garanties;
+LA COUR ORDONNE QUE, lorsque le greffier sera persuadé que le failli a payé au syndic 5 000 $ en 18 mois, et
+lorsque le failli aura cédé ses futurs remboursements d'impôt et crédits pour TPS dans le but de régler tout solde impayé,
+une ordonnance de libération absolue sera rendue.
+SIGNÉ dans la Ville de Winnipeg, dans la province du Manitoba, ce 28e jour d'août 1995.
+[7] L'ordonnance de libération absolue datée du 15 novembre 1996 est rédigée de cette façon :
+[traduction]
+DANS L'AFFAIRE DE LA FAILLITE DE
+EDWARD JAMES PAINTER
+ORDONNANCE DE LIBÉRATION ABSOLUE D'UN FAILLI
+SUR la demande de Edward James Painter, qui a effectué une cession le 7e jour de mars 1994;
+ET ATTENDU QUE le failli s'est conformé à l'ordonnance de la Cour datée du 16e jour d'août 1995 qui fixait les conditions de sa libération;
+LA COUR ORDONNE qu'il soit par la présente libéré.
+SIGNÉ dans la Ville de Winnipeg, dans la province Manitoba, ce 15e jour de novembre 1996.
+[8] Le paragraphe 111(1) et l'alinéa 128(2)g) de la Loi de l'impôt sur le revenu, tels qu'ils sont applicables, sont ainsi formulés :
+111(1) Pertes déductibles - Pour le calcul du revenu imposable d'un contribuable pour une année d'imposition, peuvent être déduites les sommes appropriées suivantes :
+a) Pertes autres que des pertes en capital - ses pertes autres que des pertes en capital subies au cours des 7 années d'imposition précédentes et des 3 années d'imposition qui suivent l'année;
+[...]
+128(2) Lorsqu'une société est en faillite, les règles suivantes s'appliquent :
+g) lorsqu'une ordonnance de libération absolue est rendue à l'égard du particulier, pour l'application de l'article 111, aucune perte subie par le particulier au cours d'une année d'imposition antérieure à l'année durant laquelle l'ordonnance de libération a été rendue n'est déductible par le particulier dans le calcul de son revenu imposable pour l'année d'imposition où l'ordonnance a été rendue ou pour toute année postérieure;
+[9] Je conclus que les observations écrites de l'avocat de l'intimée sont correctes et établissent clairement que jusqu'au moment où la libération absolue est accordée, la faillite se poursuit. Une libération conditionnelle ne constitue pas une libération absolue, ce qui est l'objet de l'alinéa 128(2)g).
+[10] Par conséquent, conformément aux motifs exposés dans les observations écrites de l'avocat de l'intimée, l'appel est rejeté.
+Signé à Ottawa, Canada, ce 29e jour de décembre 2003.
+« T. O'Connor »
+Juge O'Connor
+Traduction certifiée conforme
+ce 22e jour d'avril 2004.
+Nancy Bouchard, traductrice

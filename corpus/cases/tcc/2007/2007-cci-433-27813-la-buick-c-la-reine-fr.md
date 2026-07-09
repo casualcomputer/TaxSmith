@@ -1,0 +1,99 @@
+---
+title: "La Buick c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27813/index.do"
+last_modified: "2007-05-18"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 CCI 433"
+citation2: ""
+neutral_citation: "2007 CCI 433"
+decision_date: "2007-05-18"
+language: "fr"
+item_id: "27813"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 321
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T09:39:47.417000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "758bd251b3d4a407ec38f4f1404225d3bba896b70fdcf3fc143ec86221e7248e"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# La Buick c. La Reine
+
+- Citation: 2007 CCI 433
+- Decision date: 2007-05-18
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 321, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+La Buick c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-05-18
+Référence neutre
+2007 CCI 433
+Numéro de dossier
+2005-1988(IT)G
+Juges et Officiers taxateurs
+Theodore E. Margeson
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Référence : 2007CCI433
+Dossier : 2005-1988(IT)G
+ENTRE :
+EDWARD P. LA BUICK,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+(Rendus oralement à l’audience à Toronto (Ontario), le 18 mai 2007)
+Le juge Margeson
+[1] Le présent appel concerne une cotisation établie à l’égard de la société en application de la Loi de l’impôt sur le revenu (la « Loi ») ainsi que la créance encourue par l’appelant en sa qualité d’administrateur de la société en question pendant la période en cause suivant l’article 227.1 de la Loi.
+[2] De façon générale, il s’agit d’une créance encourue par un administrateur d’une société pour défaut de remettre un montant d’argent dû au ministre du Revenu national (le « ministre »). La Cour n’a été saisie d’aucune preuve lui permettant de conclure que la créance due au ministre en l’espèce, soit 794 897,84 $, n’a pas été contractée. Rien ne vient prouver que le montant est inexact. La Cour n’a été saisie d’aucune preuve venant remettre en question l’exactitude du calcul.
+[3] En fait, J. Barry Schafer, le vérificateur, ou du moins celui ayant établi la cotisation, était présent. À titre d’agent principal des programmes, c’est lui qui a établi la cotisation à l’égard de la société. Il est bien au fait de la demande dont la Cour a été saisie et a affirmé que le montant censément dû en l’espèce est le montant dû par la société.
+[4] La preuve indique clairement que le ministre a agi conformément à la loi. Il a établi une cotisation à l’égard de la société qui, à ce moment‑là, avait la dénomination sociale 1375400 Ontario Limited.
+[5] S’il y avait lieu de s’opposer à la cotisation, c’est à ce moment‑là qu’il aurait fallu le faire. Une fois que le jugement est rendu, le ministre dépose ce jugement à la Cour fédérale et prend les mesures qui s’imposent pour obtenir un bref d’exécution visant à saisir tout montant d’argent, bien ou actif que possède la société pour le déduire du solde dû, après quoi, l’affaire est close (à l’exception du processus d’appel). Après, le ministre peut prendre des mesures contre un administrateur de la société conformément au paragraphe 227.1(4) de la Loi.
+[6] Je suis convaincu que le ministre a bien agi dans les circonstances et a pris les mesures prévues par la Loi. Je suis également convaincu que le solde censément dû pour la période en cause était bel et bien dû. La créance a été contractée pendant la période où l’appelant était administrateur de la société.
+[7] Dans son témoignage, l’appelant a essentiellement dit que personne ne savait ce qu’était le montant et qu’il aurait dû être déduit. Autrement dit, il soutient que des crédits auraient dû être portés à son compte, ce qui aurait été suffisant pour couvrir la créance. Toutefois, il ressort de la preuve qu’à ce moment‑là, les 80 000 $ reçus à l’issue d’une autre instance devant la Cour avaient été déduits d’une créance de TPS, et que, même après cette déduction, il existait toujours une créance de TPS.
+[8] Aucune des preuves dont j’ai été saisi ne vient confirmer la position de l’appelant selon laquelle un certain montant d’argent aurait dû être conservé et mis à la disposition de la société pour qu’elle puisse s’acquitter de sa créance. Cependant, la question en litige ici n’est pas de savoir s’il existait en effet un tel montant. La question en litige ne porte pas sur la TPS, mais plutôt sur une créance d’impôt sur le revenu et sur le défaut de la société de faire les déductions qui s’imposent en application de la Loi et du Régime de pensions du Canada.
+[9] L’appelant n’a pas soulevé la question du caractère raisonnable. La défense dont peut se prévaloir un administrateur dans une telle situation est qu’il a agi avec le soin, la diligence et la compétence dont ferait preuve, en pareilles circonstances, une personne prudente afin d’empêcher le défaut de la société de remettre au receveur général du Canada l’impôt sur le revenu, les intérêts et les pénalités établis dans la réponse.
+[10] Aucun des éléments de preuve dont j’ai été saisi ne permet le recours à une telle défense, à savoir que l’administrateur a fait preuve de prudence et a agi comme le ferait un administrateur raisonnable. Étant donné les circonstances, en fait, il ne prétend même pas l’avoir fait. En somme, il affirme que personne ne savait ce qu’était le montant à recouvrer. Il disait que la société avait assez d’argent pour s’acquitter de toutes ses créances.
+[11] De plus, il soutient que, s’il avait eu accès aux registres de la société et s’il avait pu prendre les mesures appropriées, il aurait pu obtenir assez d’argent pour régler toutes ces dettes et nous ne serions pas ici en ce moment. C’est la position qu’il adopte.
+[12] Il remet aussi en question le fait que le ministre ait attendu environ un an avant de prendre les mesures qu’il a prises. Mais, en l’espèce, je n’ai pas à trancher la question des mesures prises par le ministre. Il est à espérer que le ministre a agi le plus rapidement qu’il ait raisonnablement pu dans la présente affaire. Je ne le sais pas. L’appelant ne pense pas que ce soit le cas, mais le ministre a bel et bien entamé une procédure contre la société peu après, en moins d’un an.
+[13] Il semble que l’appelant avait engagé une instance devant la Cour supérieure afin de pouvoir conserver le contrôle de la société. Le juge qui avait été saisi de la question avait cru bon de permettre à de nouveaux administrateurs de prendre le contrôle. Par conséquent, et malheureusement pour l’appelant, les nouveaux administrateurs n’ont pas réussi à remettre la société à flot sur le plan financier ou à payer les dettes existantes.
+[14] Cela n’aide pas l’appelant dans la présente affaire. Il a lui-même clairement indiqué que la créance dont il est question en l’espèce a été contractée pendant qu’il était administrateur de la société.
+[15] En fonction de la preuve qui m’a été présentée, je suis convaincu que le montant de la créance est exact. Je suis également convaincu que l’appelant était un administrateur de la société.
+[16] Comme je l’ai déjà souligné, il est trop tard pour que l’appelant puisse remettre en question le bien‑fondé du jugement rendu contre la société. Cela aurait dû être fait plus tôt. Quoi qu’il en soit, il n’y a aucun élément de preuve permettant de conclure que le montant était erroné. Je suis donc convaincu que le montant était exact.
+[17] L’appelant ne s’est pas acquitté du fardeau de prouver qu’il avait agi avec le soin, la diligence et la compétence dont ferait preuve un administrateur prudent dans de pareilles circonstances pour empêcher le défaut de la société de remettre l’impôt dû.
+[18] Je comprends qu’il s’agit‑là d’un lourd fardeau à porter, mais quand on devient administrateur d’une société, il faut savoir que la Loi impose aux administrateurs une charge très importante qui doit être prise très au sérieux. Je sais qu’en l’espèce l’appelant comprenait bien ce qu’était la gouvernance d’une société, contrairement à bien des gens qui se présentent devant la Cour. En fait, il était représenté par un avocat, il était au courant de la créance de la société et, à ce qu’il paraît, il traitait avec le ministre à ce sujet.
+[19] En fin de compte, l’appelant n’a pas réussi à prouver qu’il avait agi de façon raisonnable. Malheureusement, la Cour doit rejeter l’appel et ratifier la cotisation établie par le ministre.
+[20] Dans les circonstances en l’espèce, les dépens sont adjugés à l’intimée. La taxe sera appliquée par le ministre.
+Signé à New Glasgow (Nouvelle‑Écosse), ce 2e jour d’août 2007.
+« T. E. Margeson »
+Juge Margeson
+Traduction certifiée conforme
+ce 14e jour de septembre 2007.
+Hélène Tremblay, traductrice

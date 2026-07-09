@@ -1,0 +1,137 @@
+Title: Evans v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28669/index.do
+Corpus path: corpus/cases/tcc/2008/2008-tcc-310-28669-evans-v-the-queen-en.md
+Document type: case_law
+Last modified: 2008-05-16
+
+# Evans v. The Queen
+
+- Citation: 2008 TCC 310
+- Decision date: 2008-05-16
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1132, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Evans v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-05-16
+Neutral citation
+2008 TCC 310
+File numbers
+2007-914(IT)I
+Judges and Taxing Officers
+Georgette Anne Sheridan
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2007-914(IT)I
+BETWEEN:
+BRENDA EVANS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on common evidence with the appeals of
+Dennis Evans (2007-915(IT)I)
+on April 24, 2008 at North Bay, Ontario
+Before: The Honourable Justice G. A. Sheridan
+Appearances:
+Agent for the Appellant:
+Jeannie Morin
+Counsel for the Respondent:
+Frédéric Morand
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act for the 2003 taxation year is dismissed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 16th day of May, 2008.
+"G. A. Sheridan"
+Sheridan, J.
+Docket: 2007-915(IT)I
+BETWEEN:
+DENNIS EVANS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on common evidence with the appeals of
+Brenda Evans (2007-914(IT)I)
+on April 24, 2008 at North Bay, Ontario
+Before: The Honourable Justice G. A. Sheridan
+Appearances:
+Agent for the Appellant:
+Jeannie Morin
+Counsel for the Respondent:
+Frédéric Morand
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act for the 2003 taxation year is dismissed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 16th day of May, 2008.
+"G. A. Sheridan"
+Sheridan, J.
+Citation: 2008TCC310
+Date: 20080516
+Docket: 2007-914(IT)I
+BETWEEN:
+BRENDA EVANS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+AND BETWEEN:
+2007-915(IT)I
+DENNIS EVANS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Sheridan, J.
+[1] The Appellants, Brenda and Dennis Evans, are appealing the reassessments of the Minister of National Revenue of their 2003 taxation years in which recaptured capital cost allowance amounts were added to their income.
+[2] Brenda Evans testified on their behalf. I found her entirely credible. Some 35 years ago, the Appellants founded a business known as Evans Electric which they ran as a partnership; Mr. Evans did the electrical work and Mrs. Evans handled the administrative and bookkeeping duties. Their two sons grew up helping in the family business and with their parents’ help, ultimately became qualified electricians and then, employees of Evans Electric. It was always their parents’ intention that when they were ready to retire, their sons would take over the business. And so it was that in 2003, the Appellants turned over the operation of Evans Electric to their sons. They ended their partnership and became employees of the business now run by their sons. As often happens in small family-run businesses, all of this was accomplished harmoniously around the kitchen table without the benefit of legal, accounting or tax advice.
+[3] These appeals have at their centre a garage the Appellants built on their property during 1996-1998. It served as a workshop and equipment storage facility for Evans Electric. They did not claim capital cost allowance deductions for the garage until 2001 when their accountant advised them to do so. When they ceased operating as Evans Electric in 2003, they retained ownership of the garage but permitted its use in the business now operated by their sons. The sons reimbursed the Appellants for their cost of utilities and property tax for the garage by each paying $25 per week to the Appellants, with an adjustment at year end to cover any shortfall in the actual cost. From a practical point of view, both the Appellants and their sons used the garage in the same way in their respective businesses.
+[4] It was against this background that the Minister concluded that the handing over of Evans Electric to their sons in 2003 resulted in a “change of use” of the garage thereby triggering its deemed disposition under paragraph 13(7)(a) of the Income Tax Act:
+Rules applicable. Subject to subsection 70(13), for the purposes of paragraphs 8(l)(j) and (p), this section, section 20 and any regulations made for the purpose of paragraph 20(1)(a),
+(a) where a taxpayer, having acquired property for the purpose of gaining or producing income, has begun at a later time to use it for some other purpose, the taxpayer shall be deemed to have disposed of it at that later time for proceeds of disposition equal to its fair market value at that time and to have reacquired it immediately thereafter at a cost equal to that fair market value;
+[5] Applying this provision, the Minister determined that having ceased to carry on their partnership in 2003, the Appellants were no longer using the garage for the purpose of gaining or producing income; accordingly, they had begun to use it for some “other” purpose within the meaning of paragraph 13(7)(a). They were therefore deemed to have disposed of the garage at a price equal to its fair market value in 2003. As the fair market value of the garage exceeded its undepreciated capital cost at the time of the deemed disposition, the resulting recaptured capital cost allowance for the garage was added to their income[1].
+[6] The Appellants’ position is that there was no change in use since their sons continued to use the garage in exactly the same way they had before turning Evans Electric over to them. The flaw in the Appellants’ reasoning is that it fails to distinguish between “Evans Electric”, the business they had operated as a partnership until 2003 and “Evans Electric”, the business subsequently taken over by their sons and of which they then became employees. I can certainly understand how, after 35 years of operating Evans Electric as a family enterprise, the Appellants might have trouble distinguishing one legal entity from another, especially since its name remained the same and they and their sons continued to work in the business after the changes made in 2003.
+[7] The problem is that for tax purposes, such legal distinctions matter. For example, as Mrs. Evans herself testified, whether she and her husband earned income as partners of the business known as Evans Electric or as its employees made a difference to how they reported their income. They, not their sons, were the legal owners of the garage. When their employee sons became the proprietors of the business known as Evans Electric in 2003, the source of their income changed from employment to business. Because they used the Appellants’ garage in their business and incurred an expense for that use by reimbursing the Appellants for their costs for the garage, the sons were entitled to deduct that operating expense from their business income; the Appellants no longer could. Had the sons paid the Appellants rent, it too would have been a deductible expense. By the same token, the Appellants would have had to include the rent paid by their sons in their income as income from property but could have deducted their costs in respect of that property.
+[8] Unfortunately, the Appellants did not turn their minds to such details and things became hopelessly muddled. They wanted to help their sons get started in the business and accordingly, limited what they charged for the use of the garage to their actual expenses. They did not bother to report rent or claim expenses for the garage in their 2003 income tax return because these amounts would have cancelled each other out.
+[9] Had they charged their sons a fair market value rent for the garage when they took over in 2003, the Appellants could have prevented the triggering of the deemed disposition under paragraph 13(7)(a). Although the Appellants would no longer have been using the garage to earn income from business, they would still have been using it to gain income from property. In this scenario, there would have been no “change of use” as contemplated by that provision.
+[10] The fact is, however, no rent was charged in 2003, the only time relevant to these appeals. At that time, the Appellants decided to recover only the utility costs from their sons. Although at the objection stage there seems to have been some discussion between the Appellants and Canada Revenue Agency officials about revising the arrangements for the sons’ use of the garage, nothing ultimately came of it. At the hearing, there was no evidence presented as to what the fair market value of rent for the garage might have been in 2003. In any event, it seems reasonable to assume that the Appellants would have charged rent of more than their bare actual costs had they rented it to an arm’s-length third party. In all of these circumstances, I am unable to find that the reimbursement of the Appellants’ utility costs constituted rent for the garage.
+[11] As for the Appellants’ argument that there was, practically speaking, no change in the actual use of the garage, the focus of paragraph 13(7)(a) is not the asset itself but rather, how it is used by the taxpayer who acquired it and claimed a capital cost allowance for it. His entitlement to do so hinges on his use of that asset in each taxation year to earn income from his business[2]. Pursuant to paragraph 13(7)(a), if ever that particular taxpayer begins to use that asset for a purpose “other” than generating income from business (in other words, if he stops using it to earn his own business income), he is deemed by paragraph 13(7)(a) to have disposed of it at its fair market value at that time. The fact that another taxpayer continues to use his asset in the same way as he had been doing does not prevent the operation of paragraph 13(7)(a).
+[12] In the present case, when in 2003 the Appellants ceased to operate Evans Electric as a partnership, they were no longer earning business income from Evans Electric. From this it follows that they were not using the garage for the purpose of “gaining or producing income from business”. While there was still in existence a business known as “Evans Electric” that used their garage in the same way as the Appellants had, it was no longer their business and accordingly, they had begun to use the garage other than for earning income from business. That their sons continued to use the Appellants’ garage in the same way did not in any way block the application of paragraph 13(7)(a) to the Appellants’ circumstances. The moment the Appellants ceased their business activities as Evans Electric, their situation met all the criteria under paragraph 13(7)(a) and they were deemed to have disposed of the garage at its fair market value. The number used for the fair market value of the garage was provided by the Appellants themselves[3]; there was insufficient evidence before me to conclude that some other figure ought to have been used. Also, when the garage was added to inventory in 2001, the wrong amount seems to have been used for its capital cost; it is too late to attempt to rectify that error.
+[13] Finally, as I understood their argument, the Appellants took the position that because their employment with Evans Electric would not have been possible had they not permitted their sons, as the new proprietors of Evans Electric, to use their garage, the source of their [the Appellants’] income was “the business” and therefore, there had been no change in use as contemplated by paragraph 13(7)(a). While there is a certain practical basis for that argument, it does not square with the need, for the purposes of the Income Tax Act, to trace income earned back to its source. Regardless of the Appellants’ role in enabling the business to continue, the fact remains that in 2003, they were employees, not proprietors, of Evans Electric. From this it follows that the source of their income was employment, not business. For that reason, there was a change in use as contemplated by paragraph 13(7)(a).
+[14] Good intentions notwithstanding, the changes made in the operation of Evans Electric in 2003 had significant repercussions for all concerned. Unfortunately, the Appellants did not realize the consequences of their actions until well after the fact when remedial action was no longer a possibility. Based on the evidence of the situation as it existed in 2003 when the change in business operations of Evans Electric occurred, I am unable to conclude that the Minister was wrong in reassessing as he did. Accordingly, the appeals must be dismissed.
+Signed at Ottawa, Canada, this 16th day of May, 2008.
+"G. A. Sheridan"
+Sheridan, J.
+CITATION: 2008TCC310
+COURT FILE NOS.: 2007-914(IT)I; 2007-915(IT)I
+STYLE OF CAUSE: BRENDA EVANS AND DENNIS EVANS AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: North Bay, Ontario
+DATE OF HEARING: April 24, 2008
+REASONS FOR JUDGMENT BY: The Honourable Justice G. A. Sheridan
+DATE OF JUDGMENT: May 16, 2008
+APPEARANCES:
+Agent for the Appellants:
+Jeannie Morin
+Counsel for the Respondent:
+Frédéric Morand
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Subsections 13(1) and 13(21) of the Act.
+[2] Or property but as at this stage of my decision only income from business is under consideration, I refer hereafter only to “business”.
+[3] Exhibit R-7.

@@ -1,0 +1,682 @@
+Title: Lake City Casinos Limited c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26932/index.do
+Corpus path: corpus/cases/tcc/2006/2006-cci-225-26932-lake-city-casinos-limited-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2006-04-20
+
+# Lake City Casinos Limited c. M.R.N.
+
+- Citation: 2006 CCI 225
+- Decision date: 2006-04-20
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 738, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Lake City Casinos Limited c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-04-20
+Référence neutre
+2006 CCI 225
+Numéro de dossier
+2003-4504(EI)
+Juges et Officiers taxateurs
+Joe E. Hershfield
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2003-4504(EI)
+ENTRE :
+LAKE CITY CASINOS LIMITED,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec les appels de Lake City Casinos Limited (2003-4505(CPP)), (2003-4506(EI)), (2003-4507(EI)), (2003-4508(EI)), (2003‑4509(CPP)), (2003-4510(CPP)) et (2003-4511(EI)) le 15 décembre 2005, à Vancouver (Colombie-Britannique).
+Devant : L’honorable juge J.E. Hershfield
+Comparutions :
+Avocat de l’appelante :
+Me Douglas H. Mathew
+Avocats de l’intimé :
+Me Ron D.F. Wilhelm, Me Raj Grewal
+____________________________________________________________________
+JUGEMENT
+L’appel est accueilli et la décision rendue par le ministre est annulée selon les motifs de jugement ci‑joints.
+Signé à Ottawa, Canada, ce 20e jour d’avril 2006.
+« J.E. Hershfield »
+Juge Hershfield
+Traduction certifiée conforme
+ce 19e jour de février 2008.
+Maurice Audet, réviseur
+Dossier : 2003-4505(CPP)
+ENTRE :
+LAKE CITY CASINOS LIMITED,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec les appels de Lake City Casinos Limited (2003-4504(EI)), (2003-4506(EI)), (2003-4507(EI)), (2003-4508(EI)), (2003‑4509(CPP)), (2003-4510(CPP)) et (2003-4511(EI)) le 15 décembre 2005, à Vancouver (Colombie-Britannique).
+Devant : L’honorable juge J.E. Hershfield
+Comparutions :
+Avocat de l’appelante :
+Me Douglas H. Mathew
+Avocats de l’intimé :
+Me Ron D.F. Wilhelm, Me Raj Grewal
+____________________________________________________________________
+JUGEMENT
+L’appel est accueilli et la décision rendue par le ministre est annulée selon les motifs de jugement ci‑joints.
+Signé à Ottawa, Canada, ce 20e jour d’avril 2006.
+« J.E. Hershfield »
+Juge Hershfield
+Traduction certifiée conforme
+ce 19e jour de février 2008.
+Maurice Audet, réviseur
+Dossier : 2003-4506(EI)
+ENTRE :
+LAKE CITY CASINOS LIMITED,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec les appels de Lake City Casinos Limited (2003-4504(EI)), (2003-4505(CPP)), (2003-4507(EI)), (2003-4508(EI)), (2003‑4509(CPP)), (2003-4510(CPP)) et (2003-4511(EI)) le 15 décembre 2005, à Vancouver (Colombie-Britannique).
+Devant : L’honorable juge J.E. Hershfield
+Comparutions :
+Avocat de l’appelante :
+Me Douglas H. Mathew
+Avocats de l’intimé :
+Me Ron D.F. Wilhelm, Me Raj Grewal
+____________________________________________________________________
+JUGEMENT
+L’appel est accueilli et la décision rendue par le ministre est annulée selon les motifs de jugement ci‑joints.
+Signé à Ottawa, Canada, ce 20e jour d’avril 2006.
+« J.E. Hershfield »
+Juge Hershfield
+Traduction certifiée conforme
+ce 19e jour de février 2008.
+Maurice Audet, réviseur
+Dossier : 2003-4507(EI)
+ENTRE :
+LAKE CITY CASINOS LIMITED,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec les appels de Lake City Casinos Limited (2003-4504(EI)), (2003-4505(CPP)), (2003-4506(EI)), (2003-4508(EI)), (2003‑4509(CPP)), (2003-4510(CPP)) et 2003-4511(EI)) le 15 décembre 2005, à Vancouver (Colombie-Britannique).
+Devant : L’honorable juge J.E. Hershfield
+Comparutions :
+Avocat de l’appelante :
+Me Douglas H. Mathew
+Avocats de l’intimé :
+Me Ron D.F. Wilhelm, Me Raj Grewal
+____________________________________________________________________
+JUGEMENT
+L’appel est accueilli et la décision rendue par le ministre est annulée selon les motifs de jugement ci‑joints.
+Signé à Ottawa, Canada, ce 20e jour d’avril 2006.
+« J.E. Hershfield »
+Juge Hershfield
+Traduction certifiée conforme
+ce 19e jour de février 2008.
+Maurice Audet, réviseur
+Dossier : 2003-4508(EI)
+ENTRE :
+LAKE CITY CASINOS LIMITED,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec les appels de Lake City Casinos Limited (2003-4504(EI)), (2003-4505(CPP)), (2003-4506(EI)), (2003-4507(EI)), (2003‑4509(CPP)), (2003-4510(CPP)) et (2003-4511(EI)) le 15 décembre 2005, à Vancouver (Colombie-Britannique).
+Devant : L’honorable juge J.E. Hershfield
+Comparutions :
+Avocat de l’appelante :
+Me Douglas H. Mathew
+Avocats de l’intimé :
+Me Ron D.F. Wilhelm, Me Raj Grewal
+____________________________________________________________________
+JUGEMENT
+L’appel est accueilli et la décision rendue par le ministre est annulée selon les motifs de jugement ci‑joints.
+Signé à Ottawa, Canada, ce 20e jour d’avril 2006.
+« J.E. Hershfield »
+Juge Hershfield
+Traduction certifiée conforme
+ce 19e jour de février 2008.
+Maurice Audet, réviseur
+Dossier : 2003-4509(CPP)
+ENTRE :
+LAKE CITY CASINOS LIMITED,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec les appels de Lake City Casinos Limited (2003-4504(EI)), (2003-4505(CPP)), (2003-4506(EI)), (2003-4507(EI)), (2003‑4508(EI)), (2003-4510(CPP)) et (2003-4511(EI)) le 15 décembre 2005, à Vancouver (Colombie-Britannique).
+Devant : L’honorable juge J.E. Hershfield
+Comparutions :
+Avocat de l’appelante :
+Me Douglas H. Mathew
+Avocats de l’intimé :
+Me Ron D.F. Wilhelm, Me Raj Grewal
+____________________________________________________________________
+JUGEMENT
+L’appel est accueilli et la décision rendue par le ministre est annulée selon les motifs de jugement ci‑joints.
+Signé à Ottawa, Canada, ce 20e jour d’avril 2006.
+« J.E. Hershfield »
+Juge Hershfield
+Traduction certifiée conforme
+ce 19e jour de février 2008.
+Maurice Audet, réviseur
+Dossier : 2003-4510(CPP)
+ENTRE :
+LAKE CITY CASINOS LIMITED,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec les appels de Lake City Casinos Limited (2003-4504(EI)), (2003-4505(CPP)), (2003-4506(EI)), (2003-4507(EI)), (2003‑4508(EI)), (2003-4509(CPP)) et (2003-4511(EI)) le 15 décembre 2005, à Vancouver (Colombie-Britannique).
+Devant : L’honorable juge J.E. Hershfield
+Comparutions :
+Avocat de l’appelante :
+Me Douglas H. Mathew
+Avocats de l’intimé :
+Me Ron D.F. Wilhelm, Me Raj Grewal
+____________________________________________________________________
+JUGEMENT
+L’appel est accueilli et l’évaluation est renvoyée au ministre du Revenu national pour nouvel examen et nouvelle cotisation selon les motifs de jugement ci‑joints.
+Signé à Ottawa, Canada, ce 20e jour d’avril 2006.
+« J.E. Hershfield »
+Juge Hershfield
+Traduction certifiée conforme
+ce 19e jour de février 2008.
+Maurice Audet, réviseur
+Dossier : 2003-4511(EI)
+ENTRE :
+LAKE CITY CASINOS LIMITED,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec les appels de Lake City Casinos Limited (2003-4504(EI)), (2003-4505(CPP)), (2003-4506(EI)), (2003-4507(EI)), (2003‑4508(EI)), (2003-4509(CPP)) et (2003-4510(CPP)) le 15 décembre 2005, à Vancouver (Colombie-Britannique).
+Devant : L’honorable juge J.E. Hershfield
+Comparutions :
+Avocat de l’appelante :
+Me Douglas H. Mathew
+Avocats de l’intimé :
+Me Ron D.F. Wilhelm, Me Raj Grewal
+____________________________________________________________________
+JUGEMENT
+L’appel est accueilli et l’évaluation est renvoyée au ministre du Revenu national pour nouvel examen et nouvelle cotisation selon les motifs de jugement ci‑joints.
+Signé à Ottawa, Canada, ce 20e jour d’avril 2006.
+« J.E. Hershfield »
+Juge Hershfield
+Traduction certifiée conforme
+ce 19e jour de février 2008.
+Maurice Audet, réviseur
+Référence : 2006CCI225
+Date : 20060420
+Dossiers : 2003-4504(EI), 2003-4505(CPP),
+2003-4506(EI), 2003-4507(EI),
+2003-4508(EI), 2003-4509(CPP),
+2003-4510(CPP), 2003-4511(EI)
+ENTRE :
+LAKE CITY CASINOS LIMITED,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Hershfield
+[1] Lake City Casinos Limited (le « casino ») a interjeté appel d’évaluations de cotisations au Régime de pensions du Canada et de cotisations d’assurance‑emploi non remises, établies pour l’année civile 2000 à l’égard de pourboires reçus par certains employés dans le cadre de l’emploi qu’ils exerçaient au casino. Dans des appels distincts, le casino a interjeté appel des décisions rendues par le ministre à l’égard d’employés particuliers, selon lesquelles les pourboires que ceux‑ci avaient reçus au cours de certaines périodes dans le cadre de l’emploi qu’ils exerçaient au casino constituaient une rémunération assurable et, dans deux appels, des gains ouvrant droit à pension, de façon que le casino était tenu de déduire les cotisations au Régime de pensions du Canada et les cotisations d’assurance‑emploi pour ces périodes. Les appels ont été entendus sur preuve commune. Bien que chaque appel se rapporte à une période différente, entre le 1er janvier 2000 et le 1er juin 2002, et concerne des employés différents, et bien que les appels ne se rapportent pas tous à des cotisations au Régime de pensions du Canada, il a été soutenu qu’il convenait de prononcer des motifs de jugement communs.
+[2] Un exposé conjoint des faits est joint à l’appendice A des présents motifs[1]. Voici un aperçu général qui aidera à définir la question en litige dans ces appels :
+- Le casino exploite quatre casinos en Colombie‑Britannique, aux termes d’un accord d’exploitation conclu avec la British Columbia Lotteries Corporation (la « BCLC »), mandataire du gouvernement de la Colombie‑Britannique. Toutes les conditions d’exploitation imposées au casino par la BCLC sont énoncées dans l’accord d’exploitation et dans le manuel normalisé d’exploitation de la BCLC (le « manuel »);
+- Les pourboires en question sont laissés aux travailleurs par les clients du casino. Ils sont mis en commun et distribués selon des procédures concernant la politique relative aux pourboires qui sont énoncées dans le manuel, lesquelles sont suivies à la lettre. La politique relative aux pourboires de la BCLC, qui a été publiée en mai 1998 et s’appliquait jusqu’à la fin de mai 2001, est reproduite intégralement à l’appendice B des présents motifs (la « politique de 1998 relative aux pourboires »). La politique relative aux pourboires de la BCLC, qui a été mise en œuvre par la suite, est reproduite intégralement à l’appendice C des présents motifs (la « politique de 2001 relative aux pourboires »). De telles procédures sont imposées aux termes de l’accord d’exploitation en vue d’assurer l’intégrité en matière de jeux;
+- Ces procédures mettent en cause trois groupes d’intéressés, à savoir le casino, la BCLC et les comités responsables des « pourboires », composés de travailleurs bénévoles du casino ayant le droit de recevoir des pourboires (chacun étant désigné comme étant un « comité »);
+- L’admissibilité aux pourboires est assujettie aux règlements de la BCLC en matière de jeux, tout comme les procédures de collecte des « pourboires ». Les travailleurs admissibles font partie de trois groupes : les croupiers et les préposés aux tables admissibles, les préposés aux machines à sous et les serveurs. Chaque groupe a son propre comité;
+- La BCLC ne régit pas ni ne dicte la façon elle‑même de répartir les pourboires entre les travailleurs admissibles, si ce n’est pour prescrire que les pourboires doivent être distribués d’une façon équitable. La répartition entre les travailleurs admissibles d’un groupe donné est déterminée par le comité représentant ce groupe. En général, les pourboires sont répartis en fonction du nombre d’heures travaillées. Le casino a discuté des formules de répartition avec les membres des comités en vue d’assurer le respect des exigences imposées par la BCLC quant à la distribution équitable.
+[3] Il n’est pas contesté que les pourboires constituent un revenu gagné à l’égard et dans le cadre d’un emploi pour l’application de la Loi de l’impôt sur le revenu. Il s’agit de savoir s’il s’agit d’une rémunération assurable en vertu de la Loi sur l’assurance-emploi et d’un traitement et salaire cotisables aux termes du Régime de pensions du Canada. Le casino soutient que ce n’est pas lui qui paie les pourboires et qu’une interprétation stricte des dispositions législatives pertinentes fait que ces pourboires ne peuvent être une rémunération assurable en vertu de la Loi sur l’assurance-emploi ou un traitement et salaire cotisables aux termes du Régime de pensions du Canada, c’est‑à‑dire que selon les dispositions législatives pertinentes, il faut verser le montant des retenues et des cotisations au titre de l’assurance-emploi (« AE ») et du Régime de pensions du Canada (« RPC ») uniquement à l’égard des montants « payés » par l’employeur. En interprétant le libellé de la loi, l’intimé se fonde entre autres choses sur des considérations liées à la politique sociale et préconise une interprétation plus étendue des dispositions pertinentes. Il affirme qu’en l’espèce, le degré de participation de l’employeur aux procédures de paiement de pourboires est suffisant pour qu’il soit possible de conclure que l’employeur est celui qui paie les pourboires en application des dispositions en question.
+[4] La procédure relative au traitement des pourboires est énoncée en détail dans l’exposé conjoint des faits joint aux présents motifs. Il s’agit d’une procédure minutieuse qui est assujettie à la surveillance du casino et des membres du comité. À compter du moment où un pourboire est remis, un superviseur, un membre du personnel chargé de la surveillance ou un agent de sécurité employé par le casino est informé de la chose. Sous une surveillance étroite, notamment au moyen de caméras de surveillance, les pourboires sont placés dans des boîtes. Chaque mesure prise par la suite, qu’il s’agisse de compter les jetons ou de les convertir en argent, de placer les différentes coupures dans des enveloppes, de mettre l’argent en lieu sûr ou de remettre l’argent aux travailleurs, est minutieusement surveillée et documentée. Ainsi, les pourboires remis sous forme de jetons sont remis à un caissier, qui prépare un bordereau de transfert d’argent indiquant les montants et les coupures. Le caissier, le représentant du comité et le superviseur signent les bordereaux de transfert d’argent pour les approuver – et une copie en est jointe au sommaire journalier des recettes du casino. De plus, on consigne les transferts de pourboires en argent ainsi que tous les transferts d’argent du casino sur la feuille d’enregistrement des recettes du casino; les dirigeants du casino et les administrateurs de l’emplacement du casino signent ces feuilles pour les approuver. L’argent des pourboires est enveloppé dans des formulaires dont le contenu est noté. Chaque liasse enveloppée est signée par le membre du comité et par un superviseur; elle est placée dans des enveloppes marquées, puis mise en lieu sûr dans la chambre forte du casino. Cela est fait par un membre du comité, accompagné d’un superviseur des jeux et du chef de quart. Chaque groupe de travailleurs admissibles a sa propre boîte dans la chambre forte; cette boîte et les biens du casino sont conservés séparément. Lorsque l’argent est retiré pour être distribué aux travailleurs, un superviseur de cage, un chef de quart du casino et un agent de sécurité doivent être présents pour ouvrir la chambre forte et en retirer les boîtes de pourboires. Les parts de pourboires sont comptées et divisées et sont placées dans des enveloppes distinctes pour chaque travailleur y ayant droit. Cette tâche est exécutée dans une salle de comptage sûre, sous la surveillance de caméras. Là encore, cette tâche est exécutée par un membre du comité. Les enveloppes renfermant les parts de pourboires sont ensuite apportées au bureau du caissier pour être ramassées par les travailleurs, qui signent un rapport d’enregistrement des pourboires. Ce rapport est également signé par un administrateur de l’emplacement du casino, indiquant son approbation.
+Le conflit mettant en cause les superviseurs de parterre
+[5] La position prise par l’intimé est fortement basée sur certains faits énoncés aux paragraphes 90 à 127 de l’exposé conjoint des faits. Ces paragraphes renferment des détails au sujet d’un conflit qui, selon l’intimé, dénote le contrôle exercé par le casino sur le processus applicable aux pourboires.
+[6] La politique de 1998 relative aux pourboires conférait aux comités le pouvoir discrétionnaire d’exclure les superviseurs de parterre de la masse commune des pourboires, sous réserve de l’approbation de la BCLC. Or, en 2000, les superviseurs de parterre ont été admis à participer à la masse commune des pourboires sans que la BCLC ait donné son approbation[2]. Au mois de juin 2000, le casino a tenté de mettre fin à un mouvement des croupiers en vue d’exclure les superviseurs de parterre. On a dit aux administrateurs de l’emplacement du casino que la chose serait considérée comme contraire à la politique de 1998 relative aux pourboires. Une lettre a été envoyée aux travailleurs pour les informer que les superviseurs de parterre devaient être admis à participer à la masse commune des pourboires et l’on a affiché un avis disant que tout travailleur empêchant la remise des pourboires aux superviseurs de parterre se verrait imposer des mesures disciplinaires. Tous les membres d’un comité de croupiers ont été suspendus pour avoir menacé d’exclure les superviseurs de parterre. Les suspensions étaient fondées sur l’inobservation de la politique de la société.
+[7] Les croupiers ont en fin de compte exercé leur pouvoir discrétionnaire et jugé qu’il était inéquitable d’inclure les superviseurs de parterre; ils ont donc voté en faveur de leur exclusion. Néanmoins, rien n’a changé et le travailleur qui avait demandé le vote a été réprimandé pour insubordination.
+[8] Un syndicat a été organisé en juin 2001 et la question de l’inclusion des superviseurs de parterre a encore une fois fait l’objet d’un vote dont le résultat a de nouveau été de les exclure. Cependant, la politique de 2001 relative aux pourboires était alors en place; elle accordait censément aux comités une plus grande latitude dans la distribution des pourboires[3], mais elle n’excluait pas expressément les superviseurs de parterre de la masse commune des pourboires et ne prévoyait pas de procédure permettant de déterminer l’admissibilité aux pourboires[4]. Le casino a néanmoins pris des mesures disciplinaires à l’encontre des travailleurs qui cherchaient à exclure les superviseurs de parterre de la masse commune des pourboires. Deux travailleurs ont été suspendus pour une brève période et l’un d’eux a par la suite été congédié. Un arbitre a confirmé les suspensions, mais il a jugé le congédiement excessif. La Labour Relations Board de la Colombie‑Britannique a confirmé la décision de l’arbitre[5].
+[9] Je note ici que, lors des négociations relatives au conflit collectif, les caissiers qui avaient été inclus dans la masse commune des pourboires en 2000 devaient se voir accorder une augmentation s’ils en étaient expressément exclus. La politique de 1998 relative aux pourboires les excluait expressément, mais la politique de 2001 relative aux pourboires ne les excluait pas. Il n’est pas contesté que le casino avait un intérêt pécuniaire acquis quant au partage des pourboires avec les superviseurs de parterre et les caissiers, étant donné qu’autrement ses propres coûts salariaux augmenteraient énormément.
+Dispositions législatives et règlements connexes
+[10] Les dispositions législatives pertinentes de la Loi sur l’assurance‑emploi sont les suivantes :
+2. (1) […]
+« rémunération assurable » Le total de la rémunération d’un assuré, déterminé conformément à la partie IV, provenant de tout emploi assurable.
+67. Sous réserve de l’article 70, toute personne exerçant un emploi assurable verse, par voie de retenue effectuée au titre du paragraphe 82(1), une cotisation correspondant au produit obtenu par multiplication de sa rémunération assurable par le taux fixé par la Commission.
+68. Sous réserve des articles 69 et 70, la cotisation patronale qu’un employeur est tenu de verser correspond à 1,4 fois la cotisation ouvrière de ses employés qu’il est tenu de retenir au titre du paragraphe 82(1).
+82. (1) L’employeur qui paie une rétribution à une personne exerçant à son service un emploi assurable est tenu de retenir sur cette rétribution, au titre de la cotisation ouvrière payable par cet assuré en vertu de l’article 67 pour toute période à l’égard de laquelle cette rétribution est payée, un montant déterminé conformément à une mesure d’ordre réglementaire et de le verser au receveur général avec la cotisation patronale correspondante payable en vertu de l’article 68, au moment et de la manière prévus par règlement.
+[11] Les dispositions pertinentes du Règlement sur la rémunération assurable et la perception des cotisations (le « RRA ») sont les suivantes :
+2. (1) Pour l’application de la définition de « rémunération assurable » au paragraphe 2(1) de la Loi et pour l’application du présent règlement, le total de la rémunération d’un assuré provenant de tout emploi assurable correspond à l’ensemble des montants suivants :
+a) le montant total, entièrement ou partiellement en espèces, que l’assuré reçoit ou dont il bénéficie et qui lui est versé par l’employeur à l’égard de cet emploi;
+b) le montant de tout pourboire que l’assuré doit déclarer à l’employeur aux termes de la législation provinciale.
+4. (1) Sous réserve des paragraphes (2), (3), (3.1) et (5), l’employeur doit verser au receveur général les cotisations ouvrières et les cotisations patronales payables aux termes de la Loi et du présent règlement au plus tard le 15e jour du mois qui suit celui au cours duquel il a versé à l’assuré une rémunération assurable à l’égard de laquelle des cotisations devaient être retenues ou payées aux termes de la Loi et du présent règlement.
+[12] Les dispositions législatives pertinentes du Régime de pensions du Canada sont les suivantes :
+8. (1) Tout employé occupant chez un employeur un emploi ouvrant droit à pension verse, par retenue prévue par la présente loi sur la rémunération que lui paie cet employeur au titre de cet emploi, pour l’année au cours de laquelle cette rémunération lui est payée, une cotisation d’employé égale au produit obtenu par la multiplication du taux de cotisation des employés pour l’année par le plus petit des montants suivants : […]
+9. Tout employeur doit, à l’égard de chaque personne employée par lui dans un emploi ouvrant droit à pension, payer pour l’année au cours de laquelle est payée à l’employé la rémunération au titre d’un emploi ouvrant droit à pension, une cotisation d’employeur d’un montant égal au produit obtenu par la multiplication du taux de cotisation des employeurs pour l’année par le plus petit des montants suivants :
+a) les traitement et salaire cotisables de l’employé pour l’année, versés par l’employeur, moins tel montant, au titre de l’exemption de base de l’employé pour l’année ou à valoir sur cette exemption, qui est prescrit;
+b) le maximum des gains cotisables de l’employé pour l’année, moins le montant, s’il en est, qui est déterminé de la manière prescrite comme étant les traitement et salaire de l’employé, sur lesquels une cotisation a été versée par l’employeur pour l’année à l’égard de l’employé en vertu d’un régime provincial de pensions.
+12. (1) Le montant des traitement et salaire cotisables d’une personne pour une année est le revenu qu’elle retire pour l’année d’un emploi ouvrant droit à pension, calculé en conformité avec la Loi de l’impôt sur le revenu (compte non tenu du paragraphe 7(8) de cette loi), plus les déductions pour l’année, faites en calculant ce revenu autrement que selon les dispositions de l’alinéa 8(1)c) de cette loi, mais ne comprend aucun revenu […] (2001, ch. 17, par. 254(1).)
+21. (1) Tout employeur payant une rémunération à un employé à son service, à une date quelconque, dans un emploi ouvrant droit à pension est tenu d’en déduire, à titre de cotisation de l’employé ou au titre de la cotisation pour l’année au cours de laquelle la rémunération au titre de l’emploi ouvrant droit à pension est payée à cet employé, le montant déterminé conformément à des règles prescrites; l’employeur remet au receveur général, à la date prescrite, ce montant ainsi que le montant qui est prescrit à l’égard de la cotisation qu’il est tenu de verser selon la présente loi. De plus, lorsque l’employeur est une personne prescrite à la date prescrite, le montant est versé au compte du receveur général dans une institution financière (au sens du paragraphe 190(1) de la Loi de l’impôt sur le revenu, compte non tenu des alinéas d) et e) de la définition de cette expression). (L.R.C. 1985, ch. 6 (1er suppl.), par. 1(1); 1993, ch. 24, par. 143(1).)
+[13] L’intimé invoque également l’article 12 de la Loi d’interprétation, qui prévoit ce qui suit :
+12. Tout texte est censé apporter une solution de droit et s’interprète de la manière la plus équitable et la plus large qui soit compatible avec la réalisation de son objet.
+[14] Il n’est pas contesté que l’obligation de retenue et l’obligation de verser une cotisation patronale imposées à l’employeur se rapportent uniquement aux montants que l’employeur paie à l’employé. Dans le cas des cotisations au RPC, les articles 8 et 9 montrent clairement que le taux de cotisation applicable aux cotisations d’employé et aux cotisations d’employeur est fonction des montants payés par l’employeur. Dans le cas des retenues effectuées au titre de l’AE (et des cotisations, qui sont fonction du montant retenu), le paragraphe 2(1) du RRA le montre clairement, la « rémunération assurable » étant définie comme se rapportant aux montants versés à l’employé par l’employeur.
+Arguments de l’intimé
+[15] Dans ses observations écrites, l’intimé a reconnu que les pourboires constituent une rémunération assurable et un traitement et salaire cotisables aux fins des cotisations à l’AE et au RPC uniquement s’ils sont « payés » par le casino à ses employés. Toutefois, compte tenu du but de la législation et de ses objectifs d’aide sociale, l’intimé préconise une interprétation qui permettrait la réalisation de ce but, dans la mesure du possible. Contrairement à d’autres cas, le casino participe en l’espèce à la distribution des pourboires à un point tel que rien n’empêche l’inclusion de toute la rémunération que l’employé tire de son emploi dans la rémunération assurable et dans les traitement et salaire cotisables. L’argument de l’intimé met l’accent sur le fait que le casino sait combien d’argent est versé à chaque employé et à quel moment cet argent est payé; qu’il rédige des documents et participe activement à la distribution des pourboires; et qu’il a exercé son pouvoir afin de décider des employés qui participent à un fonds particulier de pourboires ou qui font partie d’un groupe particulier, de façon à avoir une influence sur les montants reçus par les employés au titre des pourboires.
+[16] L’intimé se fonde sur les éléments suivants en vue d’avancer ses arguments, à savoir que le casino devrait être considéré comme celui qui paie les montants reçus par les travailleurs au titre des pourboires :
+- Le casino fournit aux travailleurs toutes les installations (comme la salle de comptage et la chambre forte) et le personnel dont les comités ont besoin pour s’occuper des pourboires (comme les caissiers et le personnel de sécurité). Il fournit tous les formulaires nécessaires, les services administratifs connexes et les ordinateurs et, lorsqu’un comité en a besoin, le logiciel permettant de calculer la répartition des pourboires. Il fournit les relevés des heures de travail des employés pour qu’il soit possible de calculer la répartition des pourboires;
+- Le casino tient des documents officiels à l’égard des pourboires, de façon à pouvoir se conformer aux exigences pertinentes imposées dans le cadre des régimes législatifs applicables à l’égard des retenues et des versements;
+- Le casino décide de ceux qui participent à la masse commune des pourboires, comme le montre l’inclusion des superviseurs de parterre et des caissiers, de façon à exercer effectivement un contrôle sur la répartition et sur la distribution des pourboires payés à ses employés;
+- Des pourboires sont promis aux travailleurs dans le cadre de la rémunération et des avantages auxquels ils ont droit; ces pourboires représentent un pourcentage élevé de l’ensemble de la rémunération. Le contrôle de la répartition et de la distribution des pourboires payés aux employés a pour effet de réduire les obligations du casino au titre des salaires. La chose a pour effet d’influer sur la rentabilité du casino et cela démontre que les interventions et mesures du casino font partie de son entreprise, que les employés facilitent en leur qualité de mandataires du casino;
+- Les diverses approbations données par la direction sur les divers formulaires nécessaires aux fins du traitement de l’argent dans le cadre de la procédure de distribution des pourboires montrent que le casino est le mandant responsable du système de distribution des pourboires;
+- Le contrôle de l’argent des pourboires, au cours du conflit avec les superviseurs de parterre, démontre que le casino n’a pas simplement les fonds en sa possession pour les garder.
+[17] L’intimé soutient que la législation visant à réaliser des objectifs liés au bien‑être social et à atteindre des fins de bienveillance doit être interprétée libéralement et conformément à son objet. Lorsqu’une interprétation large et équitable d’une disposition législative permet d’en atteindre l’objectif, une telle interprétation doit être donnée. Puisque la législation en question vise clairement à inclure l’ensemble de la rémunération d’un employé à l’égard de son emploi, je dois interpréter l’exigence voulant que la rémunération soit « payée par l’employeur » autrement que dans un sens littéral. La capacité, ne serait‑ce que restreinte, d’ordonner ou d’influencer le paiement de pourboires, ajoutée au fait que les intéressés comptent mutuellement que les pourboires soient inclus dans la rémunération versée pour le travail effectué, l’employeur étant informé de ces paiements par ses propres pièces documentaires, établies dans le cours régulier de son entreprise, étaye l’argument selon lequel l’employeur doit être considéré comme celui qui paie les pourboires.
+[18] Étant donné que les pourboires constituent de 40 à 60 p. 100 du revenu de certains employés, leur exclusion de l’emploi assurable ouvrant droit à pension entraînerait une forte diminution des avantages auxquels ceux‑ci ont droit. La Cour devrait principalement veiller à ce que cela n’arrive pas. Si cela se produit, les avantages envisagés ne seront pas reçus.
+[19] De plus, l’intimé soutient qu’il m’est loisible de conclure que le casino est en fait celui qui paie réellement les pourboires aux employés. Le casino avait le pouvoir et la responsabilité de contrôler les procédures applicables aux pourboires et il a exercé et appliqué ce pouvoir. Aux termes de l’accord d’exploitation imposé par la BCLC, le casino était légalement tenu de recueillir, de mettre en commun, de surveiller et de distribuer les pourboires aux employés selon les politiques qu’il était chargé de mettre en œuvre. Dans la mesure où les employés procédaient à leur propre distribution des sommes qui leur étaient directement versées par les clients, ils le faisaient en leur qualité de préposés du casino, agissant pour le compte de celui-ci afin de recueillir et de distribuer les pourboires. Lorsqu’ils mettaient en commun et distribuaient les pourboires, les comités agissaient conformément aux conditions de leur emploi. Ils ne payaient pas plus les pourboires que les préposés à la paie ne payaient les salaires en distribuant les chèques de paie. Les employés se conformaient aux politiques de la BCLC parce que leur employeur l’exigeait. C’était le casino qui subissait les conséquences d’un manquement à ces politiques.
+[20] En outre, le casino était chargé de déterminer si les formules applicables aux pourboires et les catégories de bénéficiaires étaient équitables et il aidait à acheminer les pourboires, indépendamment de la mesure où il choisissait de s’en remettre à ses employés à l’égard du processus de distribution dans son ensemble.
+[21] Enfin, je note que, dans son argumentation orale, l’intimé a soulevé la question de savoir s’il existe en l’espèce un employeur présumé. Le paragraphe 10(1) du RRA et le paragraphe 8.1(1) du RRPC prévoient que, lorsqu’un tiers paie l’employé, il est présumé être l’employeur de cet employé, en plus du véritable employeur. Le point central de cette question n’était pas clair à mes yeux lors de l’audience et il ne l’est toujours pas[6], mais je n’ai pas à l’examiner étant donné que je ne trouve rien qui, eu égard aux faits de l’affaire, met en jeu les dispositions concernant l’employeur présumé.
+[22] Si j’examine maintenant les autres arguments, l’avocat de l’intimé se fonde sur les arrêts suivants :
+Canadien Pacifique Ltée c. Canada, [1986] 1 R.C.S. 678
+Dans cette affaire, l’employeur avait convenu, aux termes d’une convention collective, de recevoir les pourboires payés par ses clients à l’occasion des banquets tenus à son établissement et de les distribuer par la suite aux employés. Dans une décision rendue à quatre contre trois, la Cour suprême a conclu que les pourboires devaient être pris en considération dans le calcul des cotisations payables par l’employeur.
+Dans la décision majoritaire rendue par le juge La Forest, il a été conclu que les termes « rémunération », « rémunération assurable » et « rétribution » comprenaient les pourboires. Au paragraphe 20, le juge a fait observer ce qui suit :
+[...] Quant au mot «payer» qui peut aussi bien signifier une simple distribution par l'employeur que le paiement d'une créance de l'employeur, je souligne simplement que si on donne au mot «rétribution» une portée large, il faut aussi donner une signification large au mot «payer».
+De plus, aux paragraphes 25, 26 et 27, le juge a ajouté ce qui suit :
+25. L'interprétation que je donne à l'expression «rémunération assurable» est conforme à l'objectif de la Loi qui est de verser des prestations aux personnes qui ont perdu leur emploi en fonction d'un pourcentage de leur rémunération assurable. Autrement l'employé qui reçoit une bonne partie de sa rémunération sous forme de pourboires n'aurait pas droit aux avantages que lui confère la Loi au même degré que ses confrères qui reçoivent la totalité de leur rémunération directement de la poche de leur employeur. Le règlement cité, en ajoutant à la définition de rémunération toute une gamme de bénéfices qu'un employé reçoit en raison de son emploi, indique bien que l'expression doit recevoir une portée large. En plus, comme je l'ai noté, une loi ayant pour objet la sécurité sociale doit être interprétée de façon à atteindre ce but. Il ne s'agit pas d'une loi fiscale. Les arrêts Penn v. Spiers & Pond Ltd. et Great Western Railway Co. v. Helps, précités, ne sont que des illustrations du principe que je viens de formuler.
+26. J'ajoute que si l'appelante est obligée de payer des cotisations en fonction seulement de la partie de la rémunération de l'employé qui vient de sa poche, elle se trouve dans une situation avantageuse par rapport aux employeurs qui paient ces cotisations en fonction de toute la rémunération que l'employé reçoit en vertu de son emploi. Il est évident que l'employeur bénéficie du fait que certains de ses employés sont dans une situation qui leur donne la possibilité de toucher des pourboires. Il peut retenir leurs services à meilleur marché. Or il me paraît injuste qu'il puisse aussi se débarrasser d'une partie de l'obligation dont tout autre employeur est obligé de s'acquitter, ou restreindre le montant des bénéfices que retirent les employés dont la rémunération vient en bonne partie de pourboires.
+27. Il est vrai que ces arguments s'appliquent jusqu'à un certain point aux situations où les employés eux‑mêmes reçoivent des pourboires, bien que le par. 3(1) du règlement n'en tienne pas compte. Mais ceux qui ont rédigé le règlement ont sans doute conclu que cette façon de procéder s'impose pour des raisons administratives. Voir sur ce sujet l'arrêt Association des employés civils c. Ministre du Revenu national, précité. Il est presque impossible de percevoir des cotisations sur des pourboires obtenus de cette façon et c'est pour cette raison que le règlement n'en tient pas compte. Il va de soi que la rémunération assurable comprend bien d'autres pourboires que ceux prélevés de la façon prévue en l'espèce, par exemple, ceux qui sont ajoutés en payant par carte de crédit.
+S & F Phillip Holdings Ltd. (s/n Sooke Harbour) c. M.R.N., 2003 A.C.I. no 344
+Dans cette affaire, l’appelante exploitait un hôtel de villégiature; le personnel de la salle à manger avait mis en place un système suivant lequel tous les pourboires étaient mis en commun afin d’être distribués, sur une base proportionnelle déterminée, à tous les employés qui faisaient partie de l’équipe des services alimentaires, et ce, peu importe qu’un pourboire ait été remis à un travailleur particulier ou non. La masse commune des pourboires était composée d’argent remis à l’employeur (et enregistré comme faisant partie de la masse commune des pourboires) et des pourboires inscrits sur les reçus de cartes de crédit. Les travailleurs avaient convenu que l’employeur conservait 10 p. 100 de la masse commune des pourboires afin de couvrir les frais associés aux cartes de crédit. Tous les pourboires, y compris l’argent, étaient consignés sur une feuille indiquant les pourboires quotidiens, de sorte que l’employeur pouvait émettre des chèques en faveur des travailleurs en fonction de ce à quoi ceux‑ci avaient droit, le montant étant déterminé par les travailleurs eux‑mêmes. Selon certains éléments de preuve versés au dossier, l’employeur n’était pas responsable envers les employés qui n’étaient pas visés par le système convenu, même si cela était en théorie possible. En se fondant sur l’arrêt Canadien Pacifique, le juge suppléant Rowe a conclu que, comme l’employeur versait aux employés les sommes qui se trouvaient dans la masse commune des pourboires, l’employeur était donc tenu de verser des cotisations au titre de l’assurance‑emploi sur les pourboires reçus par les travailleurs. Quant aux cotisations au RPC, le juge suppléant Rowe a conclu que l’article 12 du Régime de pensions du Canada entrait en ligne de compte, lorsqu’il s’agissait de conclure que les pourboires faisaient partie des traitement et salaire cotisables étant donné que l’employeur délivrait des feuillets T4 dans lesquels les pourboires étaient inclus, pour l’application de la Loi de l’impôt sur le revenu.
+Insurance Corp. of British Columbia c. M.R.N., [2002] C.A.F. 104
+Le jugement de la cour dans cette affaire (l’« ICBC ») a été rendu par le juge Strayer. Il portait sur l’article 10 du Règlement sur l’assurance‑emploi, selon lequel la personne qui paie un employé est réputée être l’employeur et est donc tenue de verser des cotisations au titre de l’assurance‑emploi. L’ICBC avait payé une travailleuse, qui était employée par un assuré qui s’était blessé, en vue de lui fournir l’aide nécessaire. La Cour de l’impôt avait conclu que l’ICBC n’avait aucune obligation juridique précise envers la travailleuse bénéficiaire et qu’on ne pouvait donc pas dire qu’elle avait payé la travailleuse au sens strict du terme. L’ICBC avait une obligation envers l’assuré et, sur le plan juridique, le paiement était effectué à l’assuré plutôt qu’à la travailleuse. En examinant le sens du mot « payé » dans ce contexte, le juge Strayer a conclu que la Cour de l’impôt avait attribué un sens trop strict à ce mot. Au paragraphe 8, le juge a fait observer que la thèse est suffisamment simple et que son but est clair :
+[…] les cotisations doivent être retenues à la source lorsque le traitement ou le salaire est calculé et administré et lorsque les paies ou les chèques sont émis. Le terme « payé » doit être interprété dans son contexte et il n’est pas nécessaire d’examiner les sources techniques dans le but de lui attribuer un sens qui irait à l’encontre du but clairement recherché par l’article.
+En adoptant ce point de vue, le juge a conclu que l’ICBC avait « payé » la travailleuse.
+Mangat c. Canada, [2000] A.C.F. no 1464 (QL) (C.A.F.)
+C’est le juge McDonald qui a rendu le jugement au nom de la cour dans cette affaire. Des chauffeurs de taxi, à qui le répartiteur louait leurs véhicules, étaient payés par les clients. Les chauffeurs remettaient les sommes en cause au locateur-répartiteur et en conservaient une partie représentant leur rémunération. Il a été conclu que, même si le locateur‑répartiteur n’effectuait pas de paiements au sens littéral du terme, il fallait omettre de tenir compte de la direction du paiement, et ce, à cause de la disposition expresse figurant dans le Règlement sur l’assurance-emploi, selon laquelle les chauffeurs de taxi exerçaient un emploi assurable. À défaut de ce faire, on irait à l’encontre de l’objet du Règlement.
+Union of Saskatchewan Gaming Employees, Local 4005 c. M.R.N., [2004] A.C.I. no 608 (QL) (C.C.I.)
+Dans cette affaire, les pourboires des employés qui travaillaient pour un casino étaient distribués par le syndicat. L’employeur recueillait les pourboires et payait le syndicat. La juge Lamarre, de la présente cour, a conclu que le syndicat était un employeur présumé, conformément au paragraphe 10(1) du Règlement sur l’assurance‑emploi, de façon à satisfaire à l’exigence voulant que les pourboires soient inclus dans la rémunération assurable – c’est‑à‑dire qu’il s’agissait de montants payés à l’employé par l’employeur dans le cadre d’un emploi.
+Bell ExpressVu Limited Partnership c. Rex et al., [2002] 2 R.C.S. 559
+Dans cette affaire, le jugement de la cour a été rendu par le juge Iacobucci. L’analyse effectuée par le juge comporte un examen des principes d’interprétation législative; à la page 580, le juge note que la méthode moderne proposée par Driedger a été à maintes reprises citée par la Cour suprême du Canada, dans un grand nombre de contextes, comme étant l’approche privilégiée. Cette méthode reconnaît l’importance du contexte, le sens des termes devant s’harmoniser avec l’esprit et l’objet de la loi ainsi qu’avec l’intention du législateur. En ce qui concerne la législation en cause, l’intimé se fonde sur son objectif, à savoir l’octroi d’avantages à l’égard de l’ensemble de la rémunération qu’un employé tire de son emploi. Pour donner effet à cet objectif, il faut attribuer au mot « payé » le sens le plus large possible lorsque l’employeur a eu, à l’égard du paiement, un rôle qui lui permettrait de se conformer facilement aux prescriptions imposées par une telle législation.
+Les arguments invoqués par le casino
+[23] En se fondant sur certains jugements et sur le sens clair des dispositions pertinentes de la législation et des règlements, le casino soutient qu’on ne peut conclure qu’il a payé à ses employés les montants se rattachant aux pourboires. Pour que ces montants aient été « payés », le casino devait avoir en sa possession l’argent des pourboires, qu’il n’avait jamais eu pour son propre compte; de toute façon, le casino n’avait sur ces montants aucun pouvoir lui permettant de les transférer aux employés. La possession des montants en question, accompagnée du pouvoir de procéder au transfert lui‑même, doit être une condition aux fins de la retenue puisqu’une personne ne peut pas effectuer de retenue sur une chose qu’elle n’a pas en main.
+[24] À l’appui de son argument, le casino invoque les faits convenus énoncés aux paragraphes 84 à 89, qui sont rédigés comme suit :
+[traduction]
+84. L’argent des pourboires appartenait en tout temps aux employés, et non à l’appelante.
+85. L’argent des pourboires n’était jamais confondu avec les recettes mêmes de l’appelante.
+86. L’argent des pourboires n’était jamais inscrit dans les livres ou documents comptables de l’appelante.
+87. La distribution des pourboires n’était pas intégrée à la masse salariale régulière de l’appelante.
+88. Les comités distribuaient eux-mêmes les pourboires aux travailleurs y ayant droit.
+89. C’était le comité, et non la direction de l’appelante, qui comptait les pourboires, qui les convertissait en argent, qui mettait l’argent dans la chambre forte et qui le distribuait à ses membres.
+[25] De plus, le casino fait expressément mention d’un certain nombre d’autres faits convenus qui tendent à étayer sa position générale, à savoir que les pourboires étaient recueillis, comptés, répartis et distribués (payés) au moyen d’un système de mise en commun et de distribution entièrement géré par les employés, indépendamment de leur emploi, et il affirme en outre que sa participation au processus ne peut pas constituer un « paiement ». Voir, par exemple, les paragraphes 52 à 56 de l’exposé conjoint des faits, qui indiquent que les comités, composés de membres bénévoles, payaient leurs propres dépenses. Les modalités de répartition et de distribution des pourboires étaient établies par les travailleurs et à leur profit, et non pour le compte du casino. L’avantage économique que présentait le système des pourboires pour le casino et les efforts que celui‑ci a faits pour en tirer parti ne changent rien au fait que les pourboires appartiennent aux travailleurs, du début à la fin, et que le casino n’effectue aucun paiement à leur égard.
+[26] L’avocat du casino affirme que le personnel et les installations fournis par le casino n’ont rien à voir avec la question de savoir qui versait aux travailleurs les montants associés aux pourboires. Même si le régime de réglementation, visant à assurer l’intégrité dans ce milieu de jeu exposé à de l’argent, exige, ou nécessite en fait, la participation du casino au processus, il reste qu’en réalité les employés se partageaient les pourboires et que le casino n’effectuait aucun paiement. Les paragraphes 17 et 35 de l’exposé conjoint des faits confirment que les clients versent les pourboires à leur guise et que les employés reçoivent ces pourboires parce que les clients sont satisfaits. La façon de traiter l’argent des pourboires, une fois qu’il est reçu, est régie par les politiques de la BCLC. Il en va de même pour l’admissibilité aux pourboires, une certaine latitude étant laissée aux comités dans le choix des employés qui peuvent participer à la masse commune. Les comités discutaient des formules de distribution avec le casino, mais différents comités pouvaient employer des formules différentes, ce qu’ils faisaient effectivement.
+[27] L’avocat du casino soutient que les documents de travail fournis par le casino aux fins du calcul de la répartition des pourboires n’est pas un facteur pertinent lorsqu’il s’agit de déterminer qui payait aux travailleurs les montants associés aux pourboires, et que ces documents ne sont pas à eux seuls suffisants aux fins du calcul de la répartition. Quant à l’utilisation de l’équipement, l’avocat du casino signale que l’on calculait souvent la répartition sur un ordinateur fourni par le casino, à l’aide du logiciel Lotus ou Excel, mais que certains comités préféraient utiliser leurs propres ordinateurs ou effectuer les calculs manuellement. Voir l’exposé conjoint des faits, paragraphes 64 à 67. Tout cela montre qu’en réalité c’étaient les employés qui se partageaient les pourboires et qu’il ne s’agissait pas d’un paiement effectué par le casino, qui n’avait jamais l’argent en sa possession, si ce n’est pour en assurer la garde pendant que l’argent était dans sa chambre forte ou qu’il se trouvait momentanément entre les mains du caissier.
+[28] L’avocat du casino affirme que les formulaires que le casino signait en vue d’approuver la distribution visaient à attester que le comité avait lui‑même approuvé la répartition et la distribution. Il devait en être ainsi puisque le casino n’examinait pas minutieusement les calculs effectués par les comités.
+[29] L’avocat du casino affirme en outre que le fait que le casino possède des documents officiels sur lesquels sont inscrites les sommes se rattachant aux pourboires n’a rien à voir avec la question de savoir qui versait ces sommes aux travailleurs. Le fait qu’il est donc possible que le casino se conforme aux dispositions en question de la même façon que s’il était le payeur n’a rien à voir avec la question de savoir qui versait les sommes en question aux travailleurs.
+[30] Le casino a notamment invoqué les décisions suivantes :
+La Reine c. Coopers and Lybrand Limited, [1981] 2 C.F. 169 (C.A.F.)
+Dans cet arrêt, il a été conclu qu’un séquestre‑gérant, même s’il agissait pour le compte d’autres personnes et si sa responsabilité personnelle n’était pas engagée, était celui qui payait les salaires aux employés, de sorte qu’il était assujetti aux dispositions de l’article 153 de la Loi de l’impôt sur le revenu. Au paragraphe 39, le juge suppléant Kelly a fait observer que, même si le séquestre était un mandataire agissant avec l’autorisation du mandant, c’était lui qui veillait à ce que les paiements soient effectués. Cette observation, au paragraphe 40, permettait de conclure que le séquestre était celui qui payait les salaires aux employés.
+Guimond c. M.R.N., [2000] A.C.I. no 143
+Dans cette affaire, le propriétaire d’un café avait établi un système de répartition des pourboires; tout l’argent des pourboires était conservé dans la caisse de l’employeur jusqu’à la fin du quart de travail. Une serveuse désignée par l’employeur devait additionner les pourboires de la journée pendant la soirée, après les heures de travail. Les pourboires étaient répartis suivant un pourcentage donné, en fonction du nombre d’heures travaillées, et le total était inscrit à l’ordinateur. Ils étaient distribués après les heures de travail et il n’y avait aucun document officiel faisant état des montants distribués au titre des pourboires. Toutefois, la preuve n’a pas permis à la Cour de déterminer si l’employeur enregistrait ou vérifiait les montants versés au titre des pourboires. Le ministre a pris la position selon laquelle les pourboires n’étaient pas payés par l’employeur et ne satisfaisaient pas aux exigences de la Loi sur l’assurance‑emploi. Sa position a été retenue.
+[31] Le casino invoque également plusieurs décisions rendues en matière d’interprétation de la loi. En particulier, il se fonde sur l’arrêt Hypothèques Trustco Canada c. Canada, [2005] A.C.S. no 56, dans lequel la juge en chef McLachlin et le juge Major, qui rendaient jugement au nom de la cour, ont noté au paragraphe 41 que les tribunaux ne peuvent chercher une politique prépondérante d’une loi qui n’est pas fondée sur une interprétation contextuelle et téléologique unifiée des dispositions particulières en cause. Cette affaire se rapportait à la Loi de l’impôt sur le revenu; au paragraphe 41, la cour a dit que, si l’on demandait aux tribunaux de chercher une politique globale quelconque pour ensuite se servir de cette politique pour passer outre au libellé des dispositions de la Loi, cela reviendrait à confier indûment à l’appareil judiciaire l’établissement des politiques fiscales. Dans l’arrêt Shell Canada Ltée c. Canada, [1999] 3 R.C.S. 622, la juge McLachlin, qui rendait jugement au nom de la cour, a noté au paragraphe 20 qu’il est bien établi, en ce qui concerne la compétence conférée à la présente cour en matière fiscale, que la recherche et l’examen de la réalité économique d’une opération donnée ou de l’objet général et de l’esprit des dispositions en cause ne peuvent jamais soustraire à l’obligation de la cour d’appliquer une disposition non équivoque de la Loi à une opération du contribuable. Lorsque la disposition en cause est claire et non équivoque, elle doit simplement être appliquée.
+[32] L’avocat du casino cite également le paragraphe 97 de la décision majoritaire rendue dans l’affaire McClurg c. Canada, [1990] 3 R.C.S. 1020, où la cour fait remarquer que le mot « paiement » n’a acquis aucun sens technique dans la Loi de l’impôt sur le revenu et qu’il faut l’interpréter dans son sens courant.
+[33] L’avocat du casino a également traité des arrêts faisant autorité que l’intimé a invoqués. Il a été concédé que, dans l’arrêt Canadien Pacifique, la Cour suprême du Canada avait conclu que les pourboires versés par les clients pouvaient être inclus dans la rémunération assurable. Toutefois, le fait de limiter cette décision aux faits qui lui sont propres n’aiderait pas l’intimé en l’espèce. Dans l’affaire Canadien Pacifique, les pourboires étaient recueillis par l’employeur ou versés à celui-ci, qui les remettait aux employés. L’employeur « payait » les employés au sens littéral du terme. Il émettait les chèques, puisant dans les fonds détenus à cette fin, mais les fonds étaient confondus avec les biens de l’employeur et en faisaient partie. Une interprétation littérale stricte des dispositions en question était appliquée en vue de faire en sorte que les travailleurs soient inclus dans ce mécanisme d’aide sociale. De même, dans la décision Sooke Harbour, la présente cour a conclu que l’employeur qui recueille les pourboires des travailleurs, qui les dépose dans son compte, qui les intègre dans son système de paie et qui émet le chèque doit être considéré comme ayant effectué le paiement. Dans cette décision, une distinction était établie lorsque l’employeur ne participait pas au processus applicable aux pourboires, de sorte qu’il ne pouvait pas être conclu qu’un montant avait été « payé » aux travailleurs par l’employeur. On a encore une fois adopté une approche littérale en appliquant les dispositions en question en vue de faire en sorte que les travailleurs soient inclus dans le mécanisme d’aide sociale.
+[34] Quant à la décision rendue dans l’affaire Union of Saskatchewan Gaming Commission, l’avocat du casino a signalé que le ministre avait adopté un point de vue contraire à celui qui était exprimé en l’espèce. En effet, dans cette affaire, le casino recueillait les pourboires, il les déposait dans son compte et il envoyait ensuite les rentrées brutes d’argent au syndicat qui les distribuait aux employés conformément aux règles du syndicat. Le ministre a soutenu que la façon dont le casino facilitait la distribution des pourboires ne donnait pas lieu à un contrôle véritable tel qu’il s’agissait d’un paiement. Le syndicat était celui qui distribuait l’argent aux employés. La Cour, qui a retenu la position prise par le ministre, a conclu que le syndicat était un employeur présumé, responsable des versements.
+Analyse
+[35] D’une façon générale, le casino assume au moins trois rôles en sa qualité de personne ayant un intérêt dans les procédures applicables aux pourboires et dans la répartition des pourboires. Premièrement, c’est lui qui applique en premier lieu les règlements en matière de jeux. Son permis d’exploitation l’oblige à respecter tous les règlements à cet égard. Il est donc tenu de veiller à ce que les pourboires en question soient traités d’une façon conforme aux règlements. Deuxièmement, c’est le casino qui possède l’établissement ainsi que les installations et commodités connexes qui font inévitablement partie des procédures applicables aux « pourboires ». Troisièmement, le casino est l’employeur des travailleurs admissibles et il a inévitablement un intérêt dans les questions de relations de travail et de rémunération qui se posent dans le cadre de la participation des travailleurs à la masse commune des « pourboires ».
+[36] À mon avis, le fait que le casino est celui qui applique les règlements en matière de jeux obscurcit la question en litige. Cela ne veut pas dire pour autant qu’il ne faut pas reconnaître le rôle du casino, en sa qualité de responsable de l’application des politiques de la BCLC. Habituellement, la raison pour laquelle l’employeur impose certaines procédures à ses travailleurs importe peu. Le contrat de travail intéresse les parties qui l’ont conclu. Or, la BCLC n’est pas partie au contrat de travail. Le fait d’incorporer les conditions en vue d’assurer que l’employeur n’enfreindra pas les conditions qui lui sont imposées par un tiers, tel que la BCLC, ne change rien aux règles relatives à la connexité contractuelle qui régissent le contrat conclu entre l’employeur et l’employé. Le conflit auquel étaient mêlés les superviseurs de parterre montre que le casino imposait son point de vue sur les exigences de la BCLC comme s’il s’agissait de la politique de l’entreprise elle‑même. En outre, même si la politique de la BCLC de 1998 relative aux pourboires amenait la création d’un lien direct entre les comités et la BCLC, celle-ci ne s’est jamais mêlée du conflit. Néanmoins, même si les politiques relatives aux pourboires de la BCLC étaient considérées comme étant celles du casino, cela n’a aucune incidence sur l’analyse, à mon avis. L’employeur qui exige que les employés distribuent les pourboires d’une façon équitable et qui énonce des exigences sur le plan de la sécurité aux fins du traitement de l’argent reçu par les employés au titre de pourboires, en vue de protéger ceux‑ci ou de se protéger lui‑même (pour quelque raison que ce soit, et notamment afin de respecter les conditions imposées par un tiers), ne peut pas être ainsi considéré comme ayant « payé » les pourboires aux employés.
+[37] Quant au rôle joué par le casino en facilitant les choses, ce n’est pas non plus, selon moi, un facteur pertinent dans l’analyse. Le fait que l’employeur laisse ses employés utiliser sa caisse pour conserver l’argent des pourboires ou qu’il fournit des relevés indiquant le nombre d’heures travaillées n’est pas pertinent lorsqu’il s’agit de savoir qui payait les pourboires. Le client qui paie à titre gratuit le pourboire directement au travailleur en récompense d’un service n’est pas un employeur et l’on n’a pas sérieusement soutenu qu’il devrait être considéré comme un présumé employeur. Il est convenu qu’à compter de ce moment‑là l’argent des pourboires appartenait aux employés en tout temps et qu’il n’a jamais été confondu avec les biens du casino. Les comités distribuaient eux‑mêmes les pourboires et l’on n’a pas sérieusement soutenu qu’ils devraient être considérés comme de présumés employeurs. Dans ces conditions, il est impossible de soutenir que le fait de faciliter les choses auprès des comités, pour le casino, a quelque chose à voir avec la question de savoir qui payait l’argent des pourboires aux travailleurs. La prise de moyens pour permettre aux travailleurs de traiter l’argent de leurs pourboires n’a pas plus à voir avec cette question que de donner à entendre que le fait qu’un employeur fournit une salle à manger ou un vestiaire destinés à l’usage des employés pourrait entrer en ligne de compte lorsqu’il s’agit de déterminer si les repas et les manteaux sont fournis aux employés par l’employeur.
+[38] L’enregistrement méticuleux des sommes en cause, dont celui de l’argent des pourboires, et l’approbation signée par l’employeur à l’égard de la distribution des pourboires ne donnent pas à entendre, non plus, que l’employeur intervenait ou qu’il exerçait un pouvoir sur l’argent des pourboires. Le casino lui‑même doit tenir compte de tout l’argent manipulé dans l’installation et l’enregistrement exigeant des sommes d’argent ne lui appartenant pas fait nécessairement partie de cette tâche. Indépendamment du fait qu’il doit assurer le respect des politiques de la BCLC, le casino doit veiller à ce que l’argent des pourboires soit manipulé indépendamment de son propre argent et il doit enregistrer la chose séparément. En faisant en sorte qu’il ne soit pas possible de confondre les sommes en cause, on protège tous les intéressés. Il ne s’agit pas d’un facteur à prendre en considération en déterminant qui a versé l’argent, à qui il l’a été et combien d’argent a été versé; cela fait partie d’un processus visant à empêcher la confusion au sujet d’une question dont la réponse est déjà claire. Même le fait de signer les approbations à l’égard de la remise finale des enveloppes aux travailleurs semble être tout au plus l’étape finale de ce processus, qui vise à assurer la division appropriée et nécessaire des fonds.
+[39] Le fait que ce processus fournit au casino les renseignements nécessaires pour lui permettre de calculer le montant des retenues et des cotisations en vertu des dispositions applicables n’est pas pertinent, non plus. Dans les décisions qui ont été mentionnées, il a été signalé que les dispositions en question ne pouvaient facilement s’appliquer aux personnes qui ne possèdent pas les renseignements nécessaires pour s’y conformer et qu’il s’agissait là d’un motif permettant de ne pas imposer une responsabilité en vertu de ces dispositions dans ces cas‑là, mais cela ne donne pas nécessairement à entendre que les personnes possédant les renseignements nécessaires devraient être assujetties à ces dispositions. Le fait que des décisions préconisant une interprétation littérale des dispositions en question étaient peut‑être fondées sur ce motif, dans une certaine mesure, ne veut pas nécessairement dire que ce motif doit s’appliquer aux cas où l’employeur n’a jamais, en fait, payé les montants auxquels les travailleurs avaient droit au titre des pourboires. L’imputation d’une responsabilité du fait de la connaissance constituerait un prolongement extraordinaire des principes reconnus dans des décisions telles que Canadien Pacifique et Sooke Harbour.
+[40] Ainsi, dans l’affaire Sooke Harbour, la responsabilité de l’employeur résultait du fait qu’il facilitait la collecte, ce qui non seulement lui procurait des renseignements pertinents, mais amenait aussi la pleine intégration de l’argent des pourboires à son mécanisme régulier de paie, notamment à la préparation et à l’émission de chèques. De toute évidence, ces facteurs constituent le fondement de la décision rendue dans cette affaire‑là[7]. Un argument fondé sur l’existence d’un mandat aurait pu être avancé, mais il reste que, si les dispositions en question étaient appliquées selon leur sens clair et ordinaire, l’émission du chèque était suffisante pour constituer un paiement. L’attribution d’un tel sens clair avançait les objectifs de la législation et n’était pas exposée à des questions liées à l’absence de documents officiels. Cette décision n’étaye pas la thèse selon laquelle les relevés officiels de l’employeur indiquant les montants payés constituent un paiement. De même, dans l’arrêt Canadien Pacifique, le fait qu’il a été noté que les dispositions en question devaient être rédigées compte tenu de la personne qui effectuait le paiement, à défaut de quoi il serait impossible de les appliquer, ne peut pas être considéré comme donnant à entendre que les relevés officiels de l’employeur indiquant les montants payés constituent un paiement.
+[41] Par conséquent, je ne puis souscrire à l’argument de l’intimé selon lequel ces décisions étayent sa cause. En fournissant ses installations aux employés et en assurant la sécurité des sommes revenant aux employés, séparément de ses propres fonds, le casino a connaissance des pourboires qui sont distribués. Cette connaissance, découlant du fait que le casino facilitait les choses, est aussi peu pertinente que la fourniture des installations elles‑mêmes lorsqu’il s’agit de déterminer qui a distribué l’argent.
+[42] Cela m’amène à examiner le troisième rôle joué par le casino, à savoir celui d’un employeur qui a inévitablement un intérêt dans les questions de relations de travail et de rémunération qui se posent dans le cadre de la participation des travailleurs à la mise en commun des pourboires.
+[43] En fin de compte, c’est l’étendue de la direction, du contrôle ou de l’influence exercés par le casino, dans ce rôle, qui suscite pour celui‑ci le plus de problèmes. La position prise par l’intimé se résume finalement à la question de savoir si certains actes du casino, en sa qualité d’employeur, franchissent la ligne de démarcation, de façon que les pourboires font partie des salaires « payés par » l’employeur aux travailleurs. Le casino a franchi la ligne de démarcation en exerçant un contrôle sur la répartition des pourboires du fait qu’il a imposé aux comités les travailleurs qui sont admissibles aux pourboires. Cela tend à démontrer l’exercice d’un contrôle ou d’un pouvoir sur l’argent des pourboires, à un point peut‑être suffisant pour que le casino soit considéré comme celui qui a payé ces sommes, en particulier si un sens étendu libéral doit être attribué au mot « payé ».
+[44] Je ne retiens pas l’argument de l’intimé selon lequel le casino exerçait sur l’argent des pourboires un tel pouvoir que cela constituait un paiement. Indépendamment de l’argument voulant qu’une telle interprétation s’impose étant donné que les dispositions en question sont des dispositions d’aide sociale qu’il faut interpréter et appliquer d’une façon libérale et large en vue de satisfaire à leurs objectifs sociaux, cet argument se fonde sur des faits qui ne sont pas admis et, à mon avis, les faits convenus ou les documents présentés conjointement ne donnent pas non plus à entendre qu’il en est ainsi. Le casino a peut‑être exercé d’une façon inappropriée le droit qu’il avait d’imposer des mesures disciplinaires aux travailleurs pour insubordination, bien que telle ne fût pas la conclusion tirée par l’arbitre ou par la Commission des relations de travail, qui ont reconnu que l’on voulait que les superviseurs de parterre soient inclus et qui ont de toute façon conclu qu’il s’agissait simplement d’une insubordination, sans plus (même si l’employeur se trompait). Néanmoins, en sa qualité d’employeur, le casino devait résoudre le problème. Les superviseurs de parterre ont accusé de vol le comité des croupiers et voulaient que des accusations soient portées[8]. Il ne s’agissait pas de savoir s’il appartenait à l’employeur de remettre l’argent des pourboires. C’était aux travailleurs qu’il appartenait de le faire. Il serait probablement inacceptable que l’employeur les laisse se battre entre eux ou laisse un syndicat représentant un groupe, mais non l’autre, imposer une position qui favorise un groupe. En intervenant de manière à favoriser ses intérêts économiques, le casino agissait clairement à titre d’employeur, mais selon moi il n’exerçait pas pour autant sur les fonds un pouvoir tel qu’il faisait de lui le payeur des sommes en cause.
+[45] À mon avis, la question se résume donc à savoir si les mesures agressives que l’employeur a prises pour régler un conflit collectif entrent ici en ligne de compte. Je reconnais que le casino a imposé sa volonté aux comités qui exerçaient un pouvoir sur l’argent des pourboires, en exigeant qu’ils versent cet argent d’une façon déterminée. Il s’agit donc de savoir si cela suffit pour que le casino soit le payeur. Incidemment, le casino possédait un document officiel renfermant tous les renseignements pertinents, il tenait compte des pourboires dans le cadre de son bien‑être économique et les pourboires représentaient une large part de la rémunération reçue par les travailleurs pour les services fournis dans l’exercice de leur emploi. Si tous ces éléments sont considérés ensemble, cela fait‑il que le casino peut être assimilé à une personne qui paie implicitement l’argent des pourboires?
+[46] À mon avis, il est plutôt étrange de considérer une personne comme un payeur implicite lorsque cela implique qu’une personne est un payeur si elle donne à une autre personne des biens qui appartiennent à celle-ci. Un tel sens étendu du mot « payé » oblige en l’espèce à conclure que le casino possédait les biens en vue de les remettre aux employés. Or, même les faits convenus empêchent de tirer une telle conclusion. Il est encore plus étrange d’attribuer un régime de paiement implicite à l’employeur lorsque les mesures qu’il prend sont rendues nécessaires par des problèmes de relations de travail qui ont un effet perturbateur et qui découlent de l’interprétation d’une politique de distribution équitable que l’employeur s’est en fait engagé à respecter dans un contrat conclu avec les travailleurs. Les employés semblent préférer les pourboires aux salaires correspondants et l’employeur a pris des mesures visant à assurer le traitement équitable des pourboires. Le fait que l’employeur avait un intérêt correspondant dans la manière dont ces questions étaient réglées ne devrait pas constituer un facteur dominant dans la présente analyse.
+[47] Néanmoins, l’intimé soutient que le fait que le casino impose sa volonté aux comités qui exerçaient un pouvoir sur l’argent des pourboires, en les obligeant à verser cet argent d’une façon déterminée, auquel viennent s’ajouter tous les autres facteurs sur lesquels le casino se fonde, devrait être suffisant pour nous amener à conclure que le casino payait l’argent des pourboires à ses travailleurs. Le fait que cela exige une interprétation étendue des dispositions en question ne devrait pas faire obstacle à cette conclusion. De fait, les arrêts faisant autorité en matière d’interprétation de la loi sur lesquels l’intimé se fonde donneraient censément clairement lieu à une telle conclusion.
+[48] J’examinerai sous deux volets les arrêts faisant autorité invoqués par l’intimé, même s’ils sont liés l’un à l’autre. Je me pencherai en premier lieu sur les décisions qui portent expressément sur les pourboires et, en second lieu, sur celles qui portent d’une façon plus générale sur l’interprétation de la loi.
+[49] Toutes les décisions portant sur les pourboires que l’intimé a invoquées peuvent facilement être distinguées de la présente espèce. Elles portent toutes sur des cas où l’employeur ou le présumé employeur effectuait en fait le paiement. L’employeur ou le présumé employeur tirait les chèques sur son propre compte qui était la source des paiements. Les décisions Canadien Pacifique, Sooke Harbour, ICBC et Union of Saskatchewan Gaming Employees peuvent toutes être distinguées sur cette base.
+[50] Les faits de l’affaire Canadien Pacifique définissent la question que la Cour suprême du Canada a tranchée dans ce cas‑là. La question, telle qu’elle est énoncée au paragraphe 2 des motifs du jugement du juge La Forest, était la suivante :
+[2] […] « faut-il, dans le calcul de ces cotisations, prendre en considération les sommes qu’un employeur a versées à ses employés après les avoir reçues de ses clients qui les lui avaient payées volontairement pour qu’il en fasse la distribution aux employés à titre de pourboires? » [Je souligne.]
+Il a été conclu qu’il importait peu que l’argent des pourboires ait été payé à l’employeur par les clients pour les employés. Les dispositions qui s’appliquaient alors, lesquelles incluaient expressément les pourboires, lorsqu’ils étaient « payés » par l’employeur[9], ont été examinées et il a été conclu que le fait de considérer que la personne qui verse en fait l’argent des pourboires aux employés est celle qui effectue le paiement était conforme aux objectifs législatifs et au fondement de cette exigence. Telle était également la conclusion tirée dans la décision Union of Saskatchewan Gaming Employees, où la juge Lamarre a conclu que le syndicat qui distribuait en fait l’argent aux employés était la personne qui « payait » les sommes versées au titre des pourboires. Le jugement rendu dans l’affaire Sooke Harbour repose sur le même principe que celui rendu dans l’affaire ICBC, où le juge Strayer a conclu que le paiement lui‑même, par opposition au paiement effectué conformément à une obligation juridique, était suffisant pour constituer un paiement en vertu des dispositions pertinentes. Ces décisions étayent toutes l’application d’un sens littéral ordinaire selon l’usage commun du mot « payé ». Dans ces affaires, l’attribution aux mots de leur sens ordinaire s’harmonisait avec l’intention claire du législateur; tous les principes d’interprétation de la loi convergeaient de façon à commander une seule conclusion. On ne saurait dire la même chose en l’espèce.
+[51] Cela m’amène à examiner les arguments plus généraux invoqués par les parties au sujet de l’interprétation de la loi. L’intimé soutient que la règle moderne d’interprétation de la loi exige une interprétation étendue libérale des dispositions en question, de façon que leur application soit conforme aux objectifs sociaux qu’elles visent à atteindre.
+[52] Quant aux arrêts faisant autorité, cités par l’avocat du casino, je note qu’ils portent sur des questions d’impôt sur le revenu. L’avocat de l’intimé a signalé que ces arrêts sont donc assujettis à des principes d’interprétation plus stricts qui diffèrent des principes d’interprétation applicables à la législation en matière d’aide sociale. Si l’on omet de tenir compte du fait que les cotisations versées et les retenues effectuées au titre de l’AE et du RPC constituent en quelque sorte un impôt à l’égard duquel les employeurs pourraient demander un libellé législatif clair dont l’application serait conforme au sens ordinaire de ce libellé, je suis d’accord avec l’avocat de l’intimé sur ce point. Toutefois, je ne suis pas d’accord pour dire que la règle libérale ou la règle moderne d’interprétation de la loi, même dans le cas de la législation en matière d’aide sociale, exige en l’espèce une interprétation étendue du mot « payé ». Bien sûr, je reconnais que la législation en matière de bien‑être social doit être interprétée d’une façon libérale, de manière à en promouvoir l’objet bienveillant. Cependant, même Driedger, qui préconise une telle règle, admet que l’interprétation d’une disposition législative visant à promouvoir un but bienveillant découle d’un doute ou d’une incertitude raisonnable quant à l’interprétation de la législation sous‑jacente[10].
+[53] Selon la règle moderne citée par le juge Iacobucci à la page 87 de l’arrêt Bell ExpressVu, les mots doivent être interprétés selon leur sens grammatical ordinaire. Le mot « payé » signifie « payé », selon cette approche, mais cela ne met pas pour autant fin à l’affaire. Il faut tenir compte de l’ensemble du contexte de la législation, de façon que les mots soient interprétés d’une façon qui s’harmonise avec l’esprit et l’objet de la législation ainsi qu’avec l’intention du législateur.
+[54] En l’espèce, il me semble que le contexte, l’objet et l’esprit de la loi n’exigent peut‑être pas nécessairement une interprétation qui étende la portée des objectifs généraux d’aide sociale des dispositions en question. Il n’appartient pas aux tribunaux d’aller trop loin afin d’atteindre un objectif général en pareil cas. Même sans examiner les arrêts faisant autorité qui donnent à entendre que, pour que les tribunaux donnent aux mots un sens plus étendu que leur sens clair, il faut que le libellé de la loi soit ambigu, il serait possible de trouver, dans le contexte de la législation en question elle‑même, quelque élément qui indique l’existence de certaines limitations à la portée envisagée pour ce qui est d’une application trop large de cette législation.
+[55] Il faut tenir compte de deux aspects contextuels en ce qui concerne les dispositions ici en cause. En premier lieu, les dispositions relatives à l’AE font expressément mention des pourboires. En second lieu, les dispositions du RPC font mention d’une méthode permettant d’inclure les pourboires dans les gains ouvrant droit à pension d’un employé.
+[56] L’alinéa 2(1)b) du RRA exige l’inclusion des pourboires dans la « rémunération assurable » lorsque l’employé doit les déclarer à son employeur dans le cadre des conditions de son emploi. Conformément à l’article premier du DORS/98‑10, qui est entré en vigueur le 1er janvier 1998, le paragraphe 2(1) du RRA a été modifié comme suit :
+2. (1) Pour l’application de la définition de « rémunération assurable » au paragraphe 2(1) de la Loi et pour l’application du présent règlement, le total de la rémunération d’un assuré provenant de tout emploi assurable correspond à l’ensemble des montants suivants :
+a) le montant total, entièrement ou partiellement en espèces, que l’assuré reçoit ou dont il bénéficie et qui lui est versé par l’employeur à l’égard de cet emploi;
+b) le montant de tout pourboire que l’assuré doit déclarer à l’employeur aux termes de la législation provinciale.
+[57] Selon moi, le législateur a délégué la compétence sur le mécanisme d’aide sociale aux fins de l’AE à l’égard des travailleurs qui reçoivent des pourboires qui ne sont pas versés par l’employeur. Ce n’est pas là une idée en l’air. Un résumé de l’étude d’impact de la réglementation, qui ne faisait pas partie du DORS/98‑10 par lequel le RRA était modifié en vue d’inclure l’alinéa 2(1)b) mais qui était joint au Règlement, prévoyait ce qui suit :
+Le Règlement sur la rémunération assurable et la perception des cotisations mentionne, entre autres, la définition de la rémunération assurable utilisée par les employeurs pour les fins de déterminer les cotisations d’assurance‑emploi des employés et des employeurs. Selon la modification au paragraphe 2(1) du règlement, les pourboires qu’un employé est requis de déclarer à son employeur en vertu d’une législation provinciale seront prévus à la définition de « rémunération assurable ». Des cotisations d’assurance‑emploi seront donc exigées à l’égard du montant des pourboires déclarés en vertu d’une législation provinciale. À la suite de cette modification, le montant utilisé afin de déterminer les prestations de chômage sera majoré du montant des pourboires déclarés, donnant ainsi à l’employé la possibilité d’obtenir, dans l’éventualité d’une perte d’emploi, des prestations de chômage plus élevées[11].
+[58] Le RRA a ensuite été modifié en vue de tenir compte du nouveau système établi au Québec, lequel exigeait que les pourboires directement reçus soient déclarés aux employeurs[12].
+[59] L’alinéa 2(1)b) du RRA ne s’applique pas aux présents appels étant donné qu’en Colombie‑Britannique, le législateur provincial n’exige pas que les pourboires soient déclarés à l’employeur. Selon moi, il n’appartient pas à la présente cour d’imposer un mécanisme d’aide sociale plus étendu aux fins de l’AE lorsque la province a en fait refusé l’invitation du législateur fédéral à le faire.
+[60] Quant au RPC, les employés peuvent choisir de verser une cotisation au titre du RPC sur le montant des pourboires gagnés dans le cadre d’un emploi ouvrant droit à pension à l’égard desquels il est jugé qu’ils ne sont pas assujettis à une retenue à la source.
+[61] C’est le paragraphe 13(3) du RPC qui permet ce choix[13]. Encore une fois, cela indique que le législateur fédéral a prévu qu’il se pouvait que les pourboires gagnés dans le cadre d’un emploi échappent à la protection qu’offre la loi; le législateur a donc prévu, en pareil cas, un mécanisme permettant d’assurer aux travailleurs des prestations appropriées. Même s’il s’agit d’un accès plus coûteux aux prestations, en ce sens que le travailleur paie la cotisation de l’employeur, cela constitue néanmoins, dans un sens contextuel, une raison de reconnaître que le législateur fédéral a tenu compte de la question et que le libellé des dispositions en question le satisfait. Il est loisible au législateur fédéral d’étendre ce type de disposition à l’AE sans l’intervention de la présente cour.
+[62] Par conséquent, je rejette l’argument de l’intimé voulant qu’un sens étendu soit attribué au mot « payé », de façon à inclure le montant des pourboires qui sont ici en cause dans la rémunération assurable ou dans les gains ouvrant droit à pension.
+[63] Avant de conclure, je note que l’argument de l’intimé selon lequel les employés étaient des mandataires du casino aux fins du traitement des pourboires n’est pas valable. À mon avis, il s’agit d’une déformation des faits. Si les pourboires sont payés aux travailleurs et au profit des travailleurs, s’ils sont acceptés sur cette base et s’ils n’appartiennent jamais à l’employeur (ou même s’ils ne sont jamais confondus avec les biens de l’employeur), il ne peut pas y avoir de mandat. Le fait que l’employeur bénéficie du rôle qu’il assume en veillant à ce que l’argent des pourboires soit traité d’une façon scrupuleuse et soit distribué équitablement en vue de protéger les intérêts du travailleur ne change rien à la situation. On revient toujours à la question de savoir si les mesures prises par l’employeur peuvent être considérées comme constituant des paiements conformément aux dispositions en question. Cette question a déjà été tranchée. À mon avis, le casino n’a rien fait qui soit suffisant pour constituer un paiement, de sa part, de l’argent des pourboires aux travailleurs.
+[64] Pour ces motifs, les appels sont accueillis.
+Signé à Ottawa, Canada, ce 20e jour d’avril 2006.
+« J.E. Hershfield »
+Juge Hershfield
+Traduction certifiée conforme
+ce 19e jour de février 2008.
+Maurice Audet, réviseur
+RÉFÉRENCE : 2006CCI225
+Nos DES DOSSIERS DE LA COUR : 2003-4504(EI), 2003-4505(CPP),
+2003-4506(EI), 2003-4507(EI),
+2003-4508(EI), 2003-4509(CPP),
+2003-4510(CPP), 2003-4511(EI)
+INTITULÉ : Lake City Casinos Limited
+c.
+Le ministre du Revenu national
+LIEU DE L’AUDIENCE : Vancouver (Colombie-Britannique)
+DATE DE L’AUDIENCE : Le 15 décembre 2005
+MOTIFS DU JUGEMENT : L’honorable juge J.E. Hershfield
+DATE DU JUGEMENT : Le 20 avril 2006
+COMPARUTIONS :
+Avocat de l’appelante :
+Me Douglas H. Mathew
+Avocats de l’intimé :
+Me Ron D.F. Wilhelm
+Me Raj Grewal
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom : Douglas H. Mathew
+Cabinet : Thorsteinssons
+Pour l’intimé : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+APPENDICE A
+[traduction]
+EXPOSÉ CONJOINT DES FAITS
+Les parties admettent les faits ci‑après énoncés uniquement aux fins du présent appel et de tout autre appel y afférent. Elles s’entendent également sur l’authenticité des documents ci‑joints, énumérés dans le tableau A, et consentent à ce qu’ils soient reçus en preuve uniquement aux fins du présent appel et de tout autre appel y afférent. L’une ou l’autre partie pourra produire d’autres éléments de preuve pertinents dans le présent appel, ceux-ci ne devant toutefois pas être incompatibles avec les faits mentionnés dans le présent exposé et dans les documents qui y sont joints.
+Entreprise de l’appelante
+1. L’appelante est une société exploitant des casinos en Colombie-Britannique.
+2. En 2000, l’appelante exploitait quatre casinos distincts, à Kelowna, à Kamloops, à Vernon et à Penticton, en Colombie‑Britannique.
+3. En 2000, environ 40 p. 100 des recettes de l’appelante provenaient du casino de Kelowna, 30 p. 100 du casino de Kamloops et 15 p. 100 de chacun des deux autres casinos.
+4. En 2000, environ 15 p. 100 des recettes tirées du jeu de l’appelante étaient attribuables aux tables de jeu, alors que le reste était attribuable aux machines à sous.
+5. La British Columbia Lottery Corporation (la « BCLC ») est un mandataire du gouvernement de la Colombie‑Britannique.
+6. L’appelante exploitait les casinos aux termes de l’entente de services d’exploitation de casinos (l’« entente ») qu’elle avait conclue avec la BCLC.
+7. Toutes les conditions d’exploitation imposées à l’appelante par la BCLC étaient énoncées dans l’entente et dans le manuel normalisé d’exploitation de la BCLC (le « manuel »).
+8. Le manuel énonçait les politiques de la BCLC applicables à l’exploitation de casinos, notamment quant à l’administration et à la distribution des pourboires.
+9. En concluant l’entente et en établissant les politiques dans le manuel, la BCLC cherchait principalement à assurer l’intégrité en matière de jeux en vue de protéger les clients, les employés et les actifs des casinos.
+10. L’entente et le manuel visent à assurer l’intégrité en matière de jeux dans les casinos.
+11. Si l’appelante ne se conformait pas à l’entente ou au manuel, elle enfreignait l’entente, ce qui emportait des conséquences pouvant aller jusqu’à la résiliation de l’entente par la BCLC.
+Employés du casino
+12. En 2000, l’appelante a employé les groupes suivants de travailleurs :
+a) croupiers;
+b) superviseurs de parterre;
+c) superviseurs de jeux;
+d) préposés aux machines à sous;
+e) superviseurs des machines à sous;
+f) caissiers;
+g) superviseurs de cage;
+h) agents de sécurité;
+i) directeurs de la sécurité;
+j) agents affectés à la surveillance;
+k) directeurs de la surveillance;
+l) serveurs;
+m) superviseurs des services de consommation;
+n) directeurs des services de consommation;
+o) membres de l’équipe de collecte des boîtes de dépôt;
+p) superviseurs de l’équipe de collecte des boîtes de dépôt;
+q) directeurs du service à la clientèle;
+r) chefs de quart du casino;
+s) administrateur de l’emplacement, qui était le dirigeant du casino.
+13. Un quart moyen au casino de Kelowna était composé des travailleurs suivants :
+a) de 8 à 10 croupiers;
+b) 2 ou 3 superviseurs de parterre;
+c) 2 ou 3 préposés aux machines à sous;
+d) 1 superviseur des machines à sous;
+e) 2 serveurs, y compris 1 superviseur;
+f) 2 ou 3 caissiers, y compris 1 superviseur;
+g) 2 ou 3 préposés à la sécurité;
+h) 2 préposés à la surveillance;
+i) 1 superviseur chargé de la sécurité;
+j) 1 directeur de la sécurité;
+k) 1 chef de quart.
+14. Chaque employé d’un casino de l’appelante concluait avec celle-ci un contrat de travail, intitulé « Conditions de travail » [cahier conjoint de documents (les « documents »), onglet 1], aux termes duquel l’employé s’engageait entre autres à se conformer à toutes les politiques de la BCLC.
+15. Lors de l’embauche, l’appelante informait les employés appelés à occuper des postes donnant droit aux pourboires qu’ils recevraient des pourboires.
+16. Les employés en cause dans les présents appels étaient employés par l’appelante et non par la BCLC.
+17. Le présent appel s’applique uniquement aux employés de l’appelante qui recevaient des pourboires dans le cadre de l’emploi qu’ils exerçaient auprès de cette dernière. Les employés recevaient des pourboires des clients parce que ceux-ci étaient satisfaits. Ils les recevaient en raison de l’emploi qu’ils exerçaient auprès de l’appelante.
+18. L’appelante estime qu’en 2000, environ 40 p. 100 du revenu normal d’un croupier était tiré des pourboires.
+19. L’appelante estime que, normalement, le revenu d’un préposé aux machines à sous était composé dans une proportion de 33 p. 100 du salaire et de 66 p. 100 des pourboires.
+20. Dans le cas où l’un des employés de l’appelante enfreignait une condition de l’entente ou une politique de la BCLC, celle-ci s’en remettait à l’appelante pour régler la question au lieu de traiter directement avec cet employé.
+Politiques relatives aux pourboires de la BCLC
+21. Les employés du casino touchaient un salaire horaire. De plus, certains employés avaient droit à des pourboires conformément aux politiques de la BCLC.
+22. La politique relative aux pourboires de la BCLC, datée du 26 mai 1998 (la « politique de 1998 relative aux pourboires ») (documents, onglet 2), a pris effet à cette date et s’est appliquée jusqu’au 1er juin 2001, et elle n’a pas été modifiée au cours de cette période.
+23. La politique de 1998 relative aux pourboires prévoyait ce qui suit :
+a) seuls les croupiers ou les superviseurs des croupiers manipulent les pourboires;
+b) les pourboires sont mis en commun et distribués d’une façon équitable;
+c) les croupiers et les superviseurs des croupiers ont droit aux pourboires;
+d) certains employés précis n’ont pas droit aux pourboires;
+e) les hôtes, les hôtesses et les superviseurs de parterre peuvent avoir droit aux pourboires à la discrétion du comité du personnel du fournisseur de services, sous réserve de l’approbation de la BCLC.
+24. La politique de 1998 relative aux pourboires ne prévoyait rien au sujet des préposés aux machines à sous ou des serveurs.
+25. Le 1er juin 2001, une nouvelle politique relative aux pourboires de la BCLC (la « politique de 2001 relative aux pourboires ») (documents, onglet 9), est entrée en vigueur; elle prévoyait que seuls les croupiers, les serveurs, les représentants du service à la clientèle et les préposés aux machines à sous pouvaient accepter ou recevoir un pourboire d’un client.
+26. La BCLC a élaboré les politiques et procédures elles-mêmes, y compris les politiques relatives aux pourboires, mais elle l’a fait sur consultation de l’industrie des casinos.
+27. L’appelante surveillait le processus applicable aux pourboires en vue d’assurer l’observation des politiques de la BCLC.
+Sécurité du casino
+28. L’appelante plaçait des caméras de surveillance partout dans ses casinos et dans ses parcs de stationnement, sauf dans les toilettes.
+29. Les employés de l’appelante affectés à la surveillance surveillaient constamment les caméras de surveillance.
+30. Toutes les activités du casino, et notamment le processus de collecte et de distribution des pourboires, étaient surveillées et enregistrées par le système de surveillance de l’appelante.
+31. Les transferts d’argent et de jetons étaient effectués à la cage du caissier et aux tables des croupiers.
+32. La BCLC exigeait que l’appelante établisse des documents pour les jetons transférés aux tables de jeu depuis l’aire d’entreposage des jetons, et pour l’argent recueilli aux tables, et ce, afin d’assurer l’intégrité en matière de jeux.
+33. Dans le cadre de l’obligation que la BCLC lui imposait de suivre de près les transferts de jetons et l’argent recueilli, l’appelante devait surveiller, enregistrer et superviser les mouvements d’argent dans les casinos.
+Processus de collecte des pourboires
+34. L’appelante affichait des avis portant sur le processus de collecte et de distribution des pourboires dans les salles du personnel du casino.
+35. Lorsqu’un client, à une table de jeu, remettait son pourboire à un croupier, il pouvait le faire de l’une des deux façons suivantes, à sa discrétion :
+a) il pouvait simplement remettre directement un pourboire au croupier;
+b) il pouvait faire une mise pour le compte du croupier. En pareil cas, le pourboire était fonction de l’issue de la main suivante. Si le joueur perdait la main suivante, l’argent misé pour son propre compte ou pour le compte du croupier revenait au casino. Si le joueur gagnait la main suivante, le casino payait les gains sur la mise effectuée par le joueur pour son propre compte et sur la mise effectuée pour le compte du croupier. Le pourboire du croupier était constitué de l’argent initialement misé pour son compte et des gains connexes.
+36. Indépendamment de la question de savoir si le pourboire remis au croupier d’une table de jeu était versé directement à celui‑ci ou était composé des gains d’un joueur :
+a) le croupier informait d’abord le superviseur de parterre pour que celui‑ci surveille le processus relatif au pourboire à la table;
+b) lorsque le pourboire était versé sous la forme d’un billet, ce qui se produisait rarement, le pourboire était transformé en jeton;
+c) les jetons ou pièces représentant les pourboires étaient mis de côté, tant qu’un montant d’une valeur de 25 $ n’était pas accumulé;
+d) une fois qu’un montant d’une valeur de 25 $ était accumulé au titre des pourboires, les jetons étaient échangés contre un jeton d’une valeur de 25 $, qui était placé dans une boîte à pourboires transparente en plastique fixée sur le côté de la table de jeu;
+e) à l’heure de la fermeture, un croupier désigné du comité responsable des pourboires (le « comité ») et un employé affecté à la sécurité recueillaient les boîtes à pourboires des tables;
+f) les boîtes à pourboires étaient vidées à chaque table, et les jetons étaient placés sur une table vide;
+g) à ce moment‑là, le représentant du comité comptait les pourboires en présence de l’agent de sécurité de l’appelante;
+h) une fois les pourboires comptés, le représentant du comité apportait les jetons au bureau du caissier, où ceux-ci étaient convertis en argent.
+37. Lorsque l’utilisateur d’une machine à sous versait son pourboire à un préposé au cours de la période en question :
+a) le préposé informait d’abord le service de surveillance de l’appelante qu’il avait reçu un pourboire;
+b) il apportait ensuite le pourboire à la cage du caissier, où l’argent était placé dans une boîte;
+c) les pourboires en argent étaient ensuite comptés et gardés en lieu sûr pour les fonds de pourboires.
+38. Lorsqu’un client du service de restauration versait son pourboire à un serveur au cours de la période en question :
+a) le serveur informait d’abord le service de surveillance de l’appelante qu’il avait reçu un pourboire;
+b) il plaçait ensuite le pourboire dans une boîte à pourboires qui se trouvait au comptoir de service;
+c) à la fin de la soirée, cette boîte était apportée au bureau du caissier où les pourboires étaient convertis en billets et conservés en lieu sûr.
+39. L’argent des pourboires provenait surtout des machines à sous plutôt que des tables de jeu.
+40. Les utilisateurs des machines à sous versaient en général leurs pourboires en argent, alors que les pourboires versés aux tables étaient généralement remis sous forme de jetons.
+41. Lorsque les représentants des comités apportaient au caissier les jetons et pièces représentant les pourboires qu’ils avaient comptés, le caissier préparait un bordereau de transfert d’argent (documents, onglet 4) indiquant les montants en cause et le total ainsi que les coupures dans lesquelles les pourboires étaient convertis.
+42. Le caissier, le représentant du comité et un superviseur signaient le bordereau de transfert d’argent pour l’approuver.
+43. Trois copies de chaque bordereau de transfert d’argent étaient établies; une copie était conservée par le caissier, une copie était jointe au sommaire journalier des recettes de l’appelante et une copie était placée avec les pourboires eux‑mêmes.
+44. Les caissiers de l’appelante établissaient un relevé des recettes (documents, onglet 5) où ils consignaient les transferts d’argent ou de jetons, et notamment ceux qui se rapportaient aux pourboires, et ils y joignaient tous les bordereaux de transfert d’argent.
+45. Les dirigeants du casino de l’appelante, les administrateurs de l’emplacement du casino, signaient le relevé des recettes pour l’approuver.
+46. L’appelante conservait les bordereaux de transfert d’argent et les relevés de recettes pendant sept ans.
+47. Une fois que les caissiers avaient échangé les pourboires contre de l’argent, l’argent était enveloppé dans un formulaire photocopié indiquant le montant et les coupures.
+48. Le formulaire photocopié était signé par un membre du comité et par un superviseur.
+49. À la fin de la journée, les comités plaçaient tous les pourboires et le formulaire indiquant le montant des pourboires dans des enveloppes qui étaient ensuite apportées du bureau du caissier à la chambre forte par les membres des comités, accompagnés d’un superviseur de jeux et d’un chef de quart du casino. Les enveloppes étaient ensuite placées dans une boîte, dans la chambre forte de l’appelante, pour y être gardées.
+50. Les enveloppes renfermant les pourboires et les biens de l’appelante étaient conservés séparément, dans la chambre forte.
+51. Les préposés aux machines à sous, les croupiers et les serveurs avaient chacun leur propre boîte contenant les enveloppes de pourboires qui étaient dans la chambre forte de l’appelante.
+Comités responsables des pourboires
+52. Chaque casino avait ses propres comités et, dans chaque casino, les préposés aux machines à sous, les croupiers et les serveurs avaient chacun leur propre comité chargé de la mise en commun et de la distribution des pourboires.
+53. Les membres des comités étaient uniquement choisis par les employés de ce groupe (à savoir les croupiers, les préposés aux machines à sous et les serveurs) parmi les employés de ce groupe qui se portaient volontaires.
+54. L’appelante ne rémunérait pas les membres des comités pour faire partie du comité, et le travail du comité était exécuté par les membres en dehors des heures de travail.
+55. Les comités agissaient sur une base ponctuelle informelle.
+56. Chaque comité payait ses propres frais d’exploitation, comme le coût des enveloppes de distribution, à l’aide du fonds de pourboire.
+Distribution des pourboires
+57. Les pourboires étaient distribués aux deux semaines, le jeudi.
+58. Les comités partageaient les pourboires entre les travailleurs participant à la masse commune des pourboires au moyen d’une formule de distribution déterminée.
+59. Avec les membres du comité, l’appelante discutait des formules de distribution des pourboires et de toute modification apportée à ces formules en vue d’assurer le respect de la norme de distribution équitable, prévue dans la politique de la BCLC.
+60. Les différents casinos de l’appelante utilisaient différentes formules, et ces formules étaient établies par les travailleurs participant à la masse commune des pourboires du casino en cause. Ainsi, dans certains casinos, la formule prévoyait une part moindre pour les nouveaux travailleurs, alors que dans certains autres casinos, les nouveaux travailleurs recevaient immédiatement une part entière. Toutes les formules étaient généralement basées sur les heures travaillées au cours de la période de distribution de deux semaines.
+61. L’appelante fournissait aux comités des feuilles de pointage, indiquant les heures travaillées par chaque travailleur ayant droit à l’argent des pourboires afin de leur permettre de calculer les parts de pourboires.
+62. Pour calculer les parts de pourboires, il fallait connaître les heures travaillées par l’employé et le montant brut des pourboires. Les comités déterminaient le montant brut des pourboires sans l’aide de la direction de l’appelante.
+63. Les membres des comités remplissaient les formulaires, qui étaient parfois des feuilles intitulées « Pourboires – à être rempli par les représentants responsables des pourboires seulement » (documents, onglet 6), indiquant chaque membre des unités participant aux fonds de pourboire sur lesquelles la répartition des pourboires était basée, le montant global hebdomadaire des pourboires reçu par l’ensemble du groupe et le calcul du montant des pourboires associé à chaque unité.
+64. Certains comités utilisaient le tableur électronique Lotus ou Excel (le « programme ») qui avait peut‑être été conçu par l’appelante, pour calculer les parts de pourboires à distribuer.
+65. En 2000, et peut‑être par la suite, le programme était souvent exécuté à l’aide d’un ordinateur fourni par l’appelante, à son casino. Toutefois, dans certains cas, le comité utilisait son propre ordinateur pour exécuter le programme.
+66. Le programme permettait de réaliser un tableau imprimé indiquant les travailleurs ayant droit aux pourboires, ainsi que le montant que chacun devait recevoir.
+67. Dans d’autres cas, le comité préférait ne pas utiliser le tableur et effectuait les calculs manuellement.
+68. Une fois que le programme avait été exécuté et que le comité était prêt à partager les pourboires, le superviseur de jeux et le chef de quart du casino amenaient les membres du comité dans une salle de comptage sûre.
+69. Lorsque les enveloppes de pourboires étaient retirées de la chambre forte, un superviseur de cage, un chef de quart du casino et un agent de sécurité devaient être présents pour ouvrir la chambre forte et retirer les boîtes de pourboires.
+70. Les enveloppes de pourboires étaient apportées aux membres du comité dans la salle de comptage sûre et les membres du comité comptaient et calculaient le montant des pourboires sous la surveillance des caméras.
+71. Un fonds de rajustement composé de petites coupures était mis de côté. Il servait à remédier à toute erreur par la suite découverte ainsi qu’à couvrir les frais du comité pour la distribution des pourboires.
+72. Une fois que les parts de pourboires étaient comptées et calculées, la part de chaque travailleur était placée dans une enveloppe portant le nom de celui‑ci et le montant reçu.
+73. Les enveloppes étaient ensuite apportées au bureau des caissiers où elles étaient conservées pour être distribuées.
+74. Les employés signaient un relevé des pourboires (documents, onglet 7), accusant ainsi réception de l’argent reçu, lorsqu’ils allaient le chercher au bureau du caissier.
+75. Le rapport d’enregistrement des pourboires portait le nom de chaque travailleur ayant droit à des pourboires, ainsi que le montant reçu par chacun.
+76. Les administrateurs de l’emplacement du casino signaient les rapports d’enregistrement des pourboires en vue d’indiquer qu’ils les approuvaient.
+77. La politique de 1998 relative aux pourboires exigeait que les employés responsables de la collecte et de la distribution des pourboires préparent la feuille d’enregistrement des pourboires et aussi que celle-ci soit conservée au casino. Conformément à cette politique, les rapports d’enregistrement des pourboires étaient conservés au casino de l’appelante.
+78. L’appelante n’avait pas d’endroit distinct où ses employés pouvaient conserver les documents.
+79. Les rapports d’enregistrement des pourboires étaient conservés aux mêmes endroits que tous les autres documents du casino.
+80. L’appelante avait accès aux rapports d’enregistrement des pourboires et aux feuilles de calcul électronique.
+81. Les rapports d’enregistrement des pourboires et les feuilles de calcul électronique étaient conservés dans des boîtes, dans les locaux de l’appelante.
+82. Ces boîtes étaient conservées au casino ou dans l’installation d’entreposage de l’appelante.
+83. La politique de 2001 relative aux pourboires ne prévoyait rien au sujet de la préparation et de la garde des feuilles d’enregistrement des pourboires. Toutefois, les comités ont continué à les utiliser, et dans certains cas à les conserver, ou à utiliser ou conserver des formulaires similaires, pour inscrire les noms des travailleurs ayant droit aux pourboires et le montant que chacun recevait.
+84. L’argent des pourboires appartenait en tout temps aux employés, et non à l’appelante.
+85. L’argent des pourboires n’était jamais confondu avec les recettes mêmes de l’appelante.
+86. L’argent des pourboires n’était jamais inscrit dans les livres ou documents comptables de l’appelante.
+87. La distribution des pourboires n’était pas intégrée à la masse salariale régulière de l’appelante.
+88. Les comités distribuaient eux-mêmes les pourboires aux travailleurs y ayant droit.
+89. C’était le comité, et non la direction de l’appelante, qui comptait les pourboires, qui les convertissait en argent, qui mettait l’argent dans la chambre forte et qui le distribuait à ses membres.
+Conflit mettant en cause les superviseurs de parterre
+90. La politique de 1998 relative aux pourboires prévoyait que les superviseurs de parterre pouvaient à discrétion être inclus à titre de travailleurs ayant droit aux pourboires.
+91. Les superviseurs de parterre ont été inclus dans les fonds de pourboires en 2000.
+92. L’appelante et les comités n’ont jamais demandé l’approbation de la BCLC pour inclure les superviseurs de parterre à titre de travailleurs ayant droit aux pourboires en vertu de la politique de 1998 relative aux pourboires.
+93. L’appelante n’a jamais discuté avec la BCLC de ce qui constituait une distribution équitable des pourboires selon la politique de 1998 relative aux pourboires, même à l’égard des superviseurs de parterre.
+94. En 2000 et en 2001, les casinos de la Colombie‑Britannique gérés par des exploitants autres que l’appelante incluaient les superviseurs de parterre dans le groupe de travailleurs ayant droit aux pourboires.
+95. L’appelante estimait que les pourboires constituaient une partie importante de la rémunération des superviseurs de parterre.
+96. Si les superviseurs de parterre de l’appelante avaient été exclus des fonds de pourboires en 2000 et en 2001, l’appelante aurait cherché à leur accorder une augmentation de salaire afin de les garder à son service parce que la rémunération et les avantages reçus auraient été inférieurs à ceux qui étaient accordés par les autres casinos.
+Conflit mettant en cause les superviseurs de parterre en 2000
+97. Au mois de juin 2000, l’appelante a appris que ses croupiers voulaient empêcher les superviseurs de parterre de recevoir des pourboires. En réponse, l’appelante a avisé les administrateurs de l’emplacement du casino qu’elle considérerait une telle exclusion comme allant à l’encontre de la politique de 1998 relative aux pourboires.
+98. L’appelante a envoyé une lettre à ses employés pour leur faire savoir que les superviseurs de parterre devaient être inclus dans le groupe de travailleurs ayant droit aux pourboires.
+99. À l’intention de ses employés, l’appelante a affiché un avis disant que les superviseurs de parterre devaient être inclus à titre de travailleurs ayant droit aux pourboires et qu’elle imposerait des mesures disciplinaires aux employés qui les empêchaient de recevoir des pourboires.
+100. Le 22 juin 2000, l’appelante a suspendu les membres du comité des croupiers, au casino de Vernon, parce qu’ils avaient menacé d’exclure les superviseurs de parterre du fonds de pourboire.
+101. L’appelante a suspendu ces employés parce qu’elle avait conclu que l’exclusion des superviseurs de parterre enfreignait la politique de l’entreprise.
+102. L’appelante a offert d’annuler la suspension d’une employée, Chantal Caron, si elle signait une entente dans laquelle elle reconnaissait avoir enfreint la politique de l’entreprise.
+103. Gayle Furgala et Leonard Bach, en leur qualité de membres du comité des croupiers, ont informé l’appelante que les croupiers ne voulaient pas que les superviseurs de parterre soient inclus à titre de travailleurs ayant droit aux pourboires.
+104. L’appelante a informé Gayle Furgala que les superviseurs de parterre devaient être inclus à titre de travailleurs ayant droit aux pourboires.
+105. Après que l’appelante eut informé Mme Furgala que les superviseurs de parterre devaient être inclus à titre de travailleurs ayant droit aux pourboires, celle-ci a recommandé aux croupiers de voter sur la question.
+106. Les croupiers ont voté en faveur de l’exclusion des superviseurs de parterre à titre de travailleurs ayant droit aux pourboires.
+107. La majorité des membres du comité des croupiers ne voulaient pas que les superviseurs de parterre soient inclus à titre de travailleurs ayant droit aux pourboires.
+108. Le comité des croupiers estimait qu’il n’était pas équitable d’inclure les superviseurs de parterre à titre de travailleurs ayant droit aux pourboires et il a exercé son pouvoir discrétionnaire en vue de les exclure.
+109. L’appelante a réprimandé Gayle Furgala pour insubordination lorsqu’elle a recommandé un vote en ce sens.
+110. Après que les croupiers eurent voté en faveur de l’exclusion des superviseurs de parterre, rien n’a changé et les superviseurs de parterre ont continué à recevoir leur part des pourboires.
+Conflit mettant en cause les superviseurs de parterre en 2001
+111. Les employés de l’appelante ont entrepris une campagne de syndicalisation au mois de juin 2001.
+112. Dans le cours de la campagne de syndicalisation du mois de juin 2001, les employés de l’appelante ont soulevé la question de l’inclusion des superviseurs de parterre à titre de travailleurs ayant droit aux pourboires.
+113. Cette question s’est posée parce que les superviseurs de parterre ne faisaient pas partie de l’unité de négociation du syndicat et que, s’ils étaient exclus des fonds de pourboires, les croupiers recevraient plus d’argent au titre des pourboires.
+114. Au mois de juin 2001, les croupiers ont décidé au moyen d’un vote qu’ils ne voulaient pas que les superviseurs de parterre soient inclus à titre de travailleurs ayant droit aux pourboires.
+115. Les superviseurs de parterre, qui avaient jusqu’alors obtenu une part complète des pourboires, n’ont pas été invités à participer au vote visant à les exclure du fonds des pourboires.
+116. La politique de 2001 relative aux pourboires était alors en place.
+117. Les négociations générales avec le syndicat ont échoué, de sorte qu’il y a eu un lock‑out de dix semaines auquel a mis fin une convention collective négociée en septembre 2001.
+118. Au cours de la négociation collective qui a abouti par la conclusion de la convention de septembre 2001, le syndicat a proposé d’exclure les superviseurs de parterre du fonds des pourboires. L’appelante n’était pas d’accord.
+119. La convention collective finalement négociée au mois de septembre 2001 ne prévoyait rien au sujet de l’inclusion ou de l’exclusion des superviseurs de parterre.
+120. Selon le vice‑président de la BCLC, Jeux dans les casinos, la politique de 2001 relative aux pourboires visait à laisser aux exploitants de casino une certaine latitude dans la distribution des pourboires.
+121. Le 25 octobre 2001, les employés qui avaient participé au vote en juin 2001 ont affiché dans chacun des casinos un avis disant que tous les superviseurs à plein temps seraient exclus des fonds de pourboires et que les pourboires seraient désormais partagés uniquement entre les membres de l’unité de négociation du syndicat.
+122. L’appelante a réagi en affichant un avis disant qu’aucune modification ne serait apportée à ses politiques d’exploitation sans qu’elle y consente au préalable par écrit, et qu’elle imposerait des mesures disciplinaires à quiconque enfreindrait ses politiques.
+123. Au mois de novembre 2001, l’appelante a suspendu Leonard Bach et Yolanda Yoshy, qui étaient membres du comité.
+124. À peu près à ce moment‑là, Leonard Bach a emporté à l’extérieur du casino un montant de 1 890 $ appartenant aux superviseurs de parterre au titre des pourboires et il a placé cet argent dans un coffre bancaire en attendant que la question soit réglée.
+125. L’appelante a congédié Leonard Bach parce qu’il avait emporté cet argent à l’extérieur du casino.
+126. M. Bach et Mme Yoshy ont déposé un grief, qui a été entendu par un arbitre.
+127. L’arbitre a confirmé les suspensions de M. Bach et de Mme Yoshy, mais il a conclu que le congédiement de M. Bach était excessif et il l’a remplacé par une suspension de près de cinq mois. La décision de l’arbitre a été confirmée lors d’un examen effectué par un membre de la Labour Relations Board de la Colombie‑Britannique, siégeant seul (Lake City Casinos Ltd. v. B.C. Government and Services Employees Union, [2002] BCLRBD no 238). L’autorisation d’appel devant un comité complet a été refusée ([2002] BCLRBD no 286).
+Pendant le lock‑out de 2001
+128. Comme il en a été fait mention ci‑dessus, l’appelante a fermé le casino à ses employés pendant une période de dix semaines entre la fin du mois de juillet et le mois de septembre 2001 à cause d’un conflit collectif.
+129. Pendant le lock‑out, les employés de la direction de l’appelante exploitaient les casinos de cette dernière.
+130. Pendant le lock‑out, les employés de la direction occupant des postes donnant droit à des pourboires ont reçu des parts de pourboires sur la base des formules utilisées par les comités avant le lock‑out.
+131. La politique de 1998 relative aux pourboires empêchait expressément les caissiers de recevoir des pourboires, mais en 2000, les caissiers de l’appelante en ont néanmoins reçu.
+132. Dans le cadre du règlement de ce conflit collectif, l’appelante a convenu d’une lettre d’accord, selon laquelle elle devait augmenter les taux de rémunération des caissiers en vue de les indemniser des pourboires perdus si la politique relative aux pourboires de la BCLC les excluait expressément des fonds de pourboires.
+133. L’appelante a convenu de cette lettre d’accord afin de faire en sorte que la rémunération globale des caissiers soit compétitive sur le marché des casinos.
+Fait à Vancouver (Colombie‑Britannique), ce 12e jour de décembre 2005.
+« Douglas H. Mathew » « Ron D.F. Wilhelm »
+Avocat de l’appelante Avocat de l’intimé
+APPENDICE B
+[traduction]
+BRITISH COLUMBIA LOTTERY CORPORATION
+PROCÉDURE NORMALISÉE APPLICABLE AUX ACTIVITÉS DES TABLES DE JEU
+[…]
+1.2.5 POURBOIRES
+a) Seuls les croupiers et les superviseurs manipulent les pourboires.
+b) La conversion des pourboires en coupures plus grosses est effectuée et vérifiée par le superviseur des croupiers et par le croupier. Les pourboires peuvent être versés en jetons ou en argent. Les pourboires en argent sont placés dans la boîte à pourboires.
+c) Les pourboires reçus sous forme de jetons sont placés du coté droit du plateau à jetons à tous les jeux de cartes (sauf le poker) et à la roulette. Pour le Sic Bo, les pourboires sont placés du côté droit de la trémie à jetons située au centre. À la roulette, les pourboires sont placés dans la cuvette, du côté du croupier.
+d) À la fermeture du casino, le croupier désigné et un préposé à la sécurité retirent les pourboires des boîtes à pourboires. Les croupiers comptent et vérifient le montant total des pourboires. Ceux-ci ne sont convertis qu’à la cage du caissier. Le caissier prépare un bordereau de transfert d’argent (annexe A, appendice 5), inscrit le mot « pourboires » sur la boîte appropriée, en indiquant la valeur totale en argent de tous les jetons convertis. Le caissier et le croupier désigné signent le bordereau de transfert d’argent. Le bordereau original de transfert d’argent est joint à la copie du relevé destinée au fournisseur de services (annexe A, appendice 6).
+e) Les pourboires sont comptés dans la salle de comptage, à condition qu’aucune autre opération de comptage n’ait lieu à ce moment‑là.
+f) Les employés responsables de la collecte et de la distribution des pourboires inscrivent, sur le formulaire d’enregistrement des pourboires (appendice 14), les noms des travailleurs qui reçoivent des pourboires ainsi que le montant de leurs pourboires. Ces documents sont conservés au casino et sont mis à la disposition de la BCLC.
+g) Les pourboires sont mis en commun et distribués d’une façon équitable de la manière suivante :
+(i) Tous les croupiers et les superviseurs des croupiers participent au fonds des pourboires;
+(ii) Les dirigeants du fournisseur de services, les préposés à la sécurité, les préposés à la surveillance, les caissiers, les administrateurs de l’emplacement, les superviseurs de quart et les employés agissant en ces qualités ne peuvent pas participer au fonds des pourboires;
+(iii) Les hôtes, les hôtesses et les superviseurs de parterre peuvent participer au fonds des pourboires à la discrétion du comité composé du personnel du fournisseur de services, sous réserve de l’approbation de la BCLC.
+h) Aux fins de la sécurité, les procédures de mise en commun des pourboires sont telles que la distribution de la masse commune n’a pas lieu plus de deux fois par semaine. De plus, on procédera à la rotation des superviseurs des croupiers au cours d’une période donnée, de façon qu’ils ne supervisent pas constamment les mêmes croupiers.
+APPENDICE C
+[traduction]
+Article 2-12 Généralités – Pourboires
+1. GÉNÉRALITÉS
+1.1 Tous les pourboires sont mis en commun et distribués d’une façon équitable entre les employés admissibles au plus deux fois par semaine.
+2. PARTICIPATION
+2.1 Seuls les croupiers, les serveurs, les représentants du service à la clientèle et les préposés aux machines à sous peuvent accepter ou recevoir des pourboires d’un client.
+2.2 Les dirigeants du fournisseur de services, les préposés à la sécurité, les préposés à la surveillance, les directeurs de casino, les directeurs adjoints de casino, les superviseurs de quart, le personnel de la salle de comptage, le personnel administratif et les employés agissant en ces qualités ne peuvent ni participer aux fonds de pourboire ni recevoir de pourboires.
+3. POURBOIRES – TABLES DE JEU
+3.1 Le croupier peut accepter un pourboire d’un joueur à la table de jeu :
+3.1.1 si le joueur fait une mise pour le compte du croupier;
+3.1.2 si le joueur remet au croupier de l’argent ou des jetons.
+3.2 Seuls les croupiers manipulent les pourboires pendant le jeu.
+3.2.1 Les superviseurs des croupiers et le directeur des tables de jeu ou chef de parterre ne touchent pas aux pourboires pendant le jeu.
+3.2.1.a Les superviseurs des croupiers peuvent toucher aux pourboires uniquement au moment de la conversion de ceux-ci.
+3.3 Le croupier qui accepte un pourboire frappe le plateau à l’aide du jeton afin d’avertir son superviseur.
+3.4 Un pourboire accepté par le croupier ou gagné à la suite d’une mise effectuée pour son compte :
+3.4.1 est converti en jetons s’il est remis en argent;
+3.4.2 est déposé dans une boîte à pourboires transparente verrouillée (qui est fixée à la table de jeu et sert expressément à recevoir les pourboires); ou
+3.4.3 les pourboires s’accumulent dans un lieu visible sûr, loin de la trémie;
+3.4.4 les pourboires peuvent être accumulés jusqu’à ce qu’ils atteignent une somme d’environ vingt‑cinq dollars (25 $) avant d’être déposés dans la boîte à pourboires.
+4. POURBOIRES – MACHINES À SOUS
+4.1 Les préposés aux machines à sous avisent le service de surveillance ou le superviseur des machines à sous de la réception de tout pourboire.
+4.2 Les pourboires sont laissés en un endroit visible et transférés immédiatement à la cage du caissier.
+4.3 Le préposé aux machines à sous remet le pourboire au superviseur de cage ou à la personne désignée par celui‑ci.
+4.4 Le superviseur de cage ou la personne désignée par celui‑ci dépose le pourboire dans la boîte à pourboires transparente verrouillée, en présence du préposé aux machines à sous.
+4.5 La boîte à pourboires est située dans la cage du caissier en pleine vue d’une caméra de surveillance fixe.
+5. COMPTAGE DES POURBOIRES
+5.1 Les pourboires sont comptés sur une table de jeu désignée ou dans un lieu sûr après la fermeture du casino.
+5.2 Le service de surveillance surveille et enregistre la durée du comptage des pourboires.
+5.3 Le fournisseur de services assure un niveau de sécurité approprié pour la collecte et le comptage des pourboires.
+5.4 Au moins deux employés doivent être présents pendant le comptage.
+[1] Aucun témoin n’a été cité, mais deux volumes de documents ont été conjointement produits en preuve à l’audience.
+[2] L’exposé conjoint des faits n’indique pas si les croupiers ont demandé cette inclusion ou s’ils l’ont acceptée.
+[3] C’est ce que contient une lettre de la BCLC du mois de décembre 2001 (pièce 16, volume II du cahier conjoint de documents). Cette lettre indique également certains problèmes que suscite l’emploi d’appellations telles que [traduction] « superviseurs de parterre », même si cette appellation était expressément employée dans la clause discrétionnaire figurant dans la politique de 1998 relative aux pourboires. En fin de compte, selon la lettre, les personnes que le casino employait à titre de « superviseurs de parterre » devaient probablement être considérées d’une façon plus appropriée comme des [traduction] « superviseurs de tables de jeu », ceux‑ci étant normalement inclus dans le fonds de pourboires des croupiers. Toutefois, une telle désignation ne fait que compliquer davantage les choses étant donné que la désignation « superviseurs de tables de jeu » ne se retrouve pas dans les politiques relatives aux pourboires de 1998 et de 2001. On donne néanmoins à entendre que les « superviseurs de tables de jeu » sont assimilables aux [traduction] « superviseurs de croupiers », qui participent au fonds de pourboires des croupiers dans la politique de 1998 relative aux pourboires. Il semble que la politique de 1998 relative aux pourboires devait en fait exclure les [traduction] « chefs de parterre » (sauf sur approbation de la BCLC), qui surveillaient et géraient jusqu’à 20 tables. Les « superviseurs de tables de jeu » supervisaient un moins grand nombre de tables, à limite peu élevée, et relevaient d’un chef de parterre. Tout cela donne à entendre que l’inclusion des personnes appelées « superviseurs de parterre », en l’espèce, était peut‑être conforme à la politique de la BCLC. Il n’existe certes aucun élément de preuve indiquant que la BCLC ne le pensait pas.
+[4] Selon la politique de 2001 relative aux pourboires, seules certaines personnes peuvent accepter des pourboires des clients. Cette brève liste comprend les courtiers, mais non les superviseurs. Il n’y est pas question de l’admissibilité au partage. Seules certaines exclusions précises sont prévues à l’égard de l’admissibilité au partage des pourboires. Les superviseurs de parterre ne sont pas exclus, ni même les chefs de parterre. Il n’existe aucune méthode prescrite permettant de décider qui fait partie de chaque fonds. Cela permet d’inférer, comme le montre la lettre de la BCLC de décembre 2001, que les courtiers pourraient, à leur discrétion, décider des participants. Cependant, rien ne montre que le casino respectait ce pouvoir discrétionnaire.
+[5] Le syndicat a soutenu que l’argent que l’employé congédié avait pris et qu’on avait omis de remettre aux superviseurs de parterre n’appartenait pas au casino. L’arbitre a reconnu que ce n’était pas l’argent du casino, mais l’employeur en était responsable et devait notamment veiller à en assurer la sécurité. En outre, fait important, une personne ayant autorité avait donné un ordre clair, que l’employé avait compris mais enfreint. Cela était suffisant pour constituer une insubordination de nature à entraîner des mesures disciplinaires. Indépendamment de la question de savoir à qui appartenait l’argent et de celle de savoir si l’employeur portait de quelque façon atteinte au droit de propriété du travailleur, il semble donc que ce dernier n’aurait pas dû omettre de tenir compte de l’ordre, eu égard aux circonstances de l’affaire. À mon avis, celles-ci démontrent en partie que la Commission a semblé reconnaître que le casino croyait à tout le moins que la lettre de la BCLC de décembre 2001 confirmait la position qu’il avait prise, à savoir que les superviseurs de parterre avaient le droit de partager les pourboires, de sorte qu’il lui incombait d’assurer la sécurité des fonds.
+[6] Il n’a pas été fait mention des dispositions relatives à l’employeur présumé dans l’argumentation écrite de l’intimé ou dans la réponse à l’avis d’appel.
+[7] Au paragraphe 23, le juge suppléant Rowe donne un exemple de pourboire versé directement et il fait observer que, même si un pourboire est reçu à l’égard d’un emploi, l’autre élément, aux fins de l’imputation de la responsabilité – [traduction] « à savoir le paiement du montant du pourboire au travailleur par l’employeur » – serait absent. De plus, au paragraphe 38, le juge fait observer que l’exigence primordiale, à l’article 9 du RPC, est que la rémunération doit être « payée » à l’employé par l’employeur. Dans l’affaire Sooke Harbour, cette exigence était respectée parce que l’employeur facilitait la réception des pourboires et qu’il s’occupait en fait de les distribuer.
+[8] Onglet 10, cahier conjoint de documents, volume II.
+[9] Lorsque la Cour suprême a rendu sa décision dans l’affaire Canada (Procureur général) c. Canadien Pacifique Limitée, l’alinéa 3(1)a) du Règlement sur l’assurance‑chômage (perception des cotisations), C.R.C. 1978, ch. 1575, était rédigé comme suit :
+3. (1) Le montant qui sert à déterminer la rémunération assurable d’un assuré est le montant de la rétribution, qu’elle soit entièrement ou partiellement versée en espèces, qui lui est payée par son employeur pour une période de paie, et comprend
+a) toute somme que lui paie son employeur au titre, au lieu ou en règlement
+(i) d’un boni, d’une gratification, d’une augmentation de la rémunération avec effet rétroactif, d’une participation aux bénéfices, du paiement d’heures supplémentaires accumulées ou d’une sentence arbitrale [...] [Je souligne.]
+[10] Sullivan et Driedger dans Construction of Statutes, 4e édition, page 404.
+[11] Il est ensuite déclaré, dans le résumé, que la modification avait été effectuée par suite de l’initiative qui avait été prise dans le budget de 1997 du Québec, qui exigeait que certains employés déclarent leurs pourboires à leur employeur. Le gouvernement fédéral et le gouvernement du Québec s’étaient ensuite entendus pour que les pourboires déclarés dans le cadre du nouveau régime fiscal du Québec soient admissibles à l’assurance‑emploi.
+[12] Sous le titre « Régulariser la situation des travailleurs à pourboires et améliorer leur protection sociale », le budget 1997‑1998 du Québec prévoyait ce qui suit : La sous-déclaration des revenus de pourboires dans l’hôtellerie et la restauration est aussi un problème généralisé, que les gouvernements ont négligé. Seulement 5 % des pourboires sont déclarés, ce qui occasionne des pertes fiscales de 115 millions de dollars. Cette situation porte préjudice non seulement aux revenus du gouvernement, mais aussi aux employés eux-mêmes. En effet, ceux-ci ne bénéficient de l’assurance-emploi que sur la partie de leurs pourboires qui est contrôlée par leur employeur. Certains nous proposent de rendre obligatoire le pourboire, pour mettre fin de façon radicale à cette situation doublement antisociale. Nous avons retenu une approche plus modérée, préconisée d’ailleurs par de nombreux acteurs du milieu de la restauration. Cette nouvelle approche devrait servir à la fois les employés, les employeurs, les finances publiques et le civisme fiscal. Tout d’abord, nous ferons en sorte que les travailleurs de la restauration et de l’hôtellerie puissent bénéficier des mêmes avantages sociaux que les autres travailleurs. À cette fin, notre gouvernement exigera qu’une entente écrite, négociée entre employeur et employés dans chaque établissement, fasse partie intégrante du contrat de travail de ces employés. Cette entente précisera :
+- les modalités de remise des pourboires du salarié à l’employeur;
+- le taux de prélèvement pour les retenues à la source sur ces pourboires; et
+- les modalités de redistribution des pourboires aux employés.
+Le gouvernement fédéral nous a assurés que cette entente garantira enfin aux employés l’assurance-emploi sur leurs pourboires [...]
+[13] En l’espèce, les travailleurs peuvent déposer le formulaire réglementaire CPT20, intitulé « Choix de verser une cotisation au Régime de pensions du Canada », de façon à avoir droit aux prestations du RPC à l’égard de la totalité du montant de leur revenu d’emploi. La pratique administrative concernant ce choix est énoncée dans le bulletin d’interprétation CPP‑1, intitulé [traduction] « Pourboires et gratifications », qui signale que les employés peuvent faire ce choix.

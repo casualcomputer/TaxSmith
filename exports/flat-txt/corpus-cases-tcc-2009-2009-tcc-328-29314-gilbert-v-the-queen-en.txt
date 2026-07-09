@@ -1,0 +1,254 @@
+Title: Gilbert v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29314/index.do
+Corpus path: corpus/cases/tcc/2009/2009-tcc-328-29314-gilbert-v-the-queen-en.md
+Document type: case_law
+Last modified: 2009-07-16
+
+# Gilbert v. The Queen
+
+- Citation: 2009 TCC 328
+- Decision date: 2009-07-16
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7053, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Gilbert v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2009-07-16
+Neutral citation
+2009 TCC 328
+File numbers
+2008-277(IT)G
+Judges and Taxing Officers
+Paul Bédard
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2008-277(IT)G
+BETWEEN:
+PIERRE GILBERT,
+Appellant
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard on March 17 and 19, 2009, at Montréal, Quebec
+Before: The Honourable Justice Paul Bédard
+Appearances:
+For the appellant:
+The appellant himself
+Counsel for the respondent:
+Mounes Ayadi
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act for the 2000 taxation year is dismissed with costs, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 16th day of July 2009.
+"Paul Bédard"
+Bédard J.
+Translation certified true
+on this 23rd day of September 2009.
+François Brunet, Revisor
+Citation: 2009 TCC 328
+Date: 20090716
+Docket: 2008-277(IT)G
+BETWEEN:
+PIERRE GILBERT,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Bédard J.
+[1] This is an appeal filed pursuant to the general procedures from a reassessment made November 13, 2007, against the appellant for the 2000 taxation year. In the reassessment, the Minister of National Revenue (the Minister) included $85,981 in the appellant's income calculation under subsection 15(2) of the Income Tax Act (the Act).
+Background
+[2] The appellant and his spouse have engineering degrees. On May 22, 1996, under Part 1A of the Quebec Companies Act, the appellant and his spouse created the company Secovac Inc. ("Secovac"). Secovac operated a wood kiln design and sales business. It also provided wood-drying consultation services to saw mills in Quebec. The appellant and his spouse were the only administrators, shareholders, managers and employees of Secovac. Its fiscal year ended October 31.
+[3] At the beginning of 2000, the US imposed an export tax on softwood, a tax that led to decreased investments in sawmills and as a result, to the beginning of Secovac's financial difficulties. On March 30, 2001, Secovac filed a notice of intention to make a proposal under subsection 50.4(1) of the Bankruptcy and Insolvency Act (the BIA). On May 3, 2001, Secovac filed a holding proposal. The only creditors with the right to vote were the Minister and Quebec's Minister of Revenue. On May 17, 2001, the Canada Customs and Revenue Agency (the Agency) filed a proof of an unsecured claim for $138,418 representing Secovac's overdue taxes for the 1999 and 2000 taxation years. Although the holding proposal received a positive recommendation from the trustee on May 15, 2001, creditors voted against it during an assembly that began on May 17, 2001 and ended May 31, 2001; Secovac was therefore deemed bankrupt on May 31, 2001, following this negative vote.
+[4] When the assembly of creditors began, the creditors had asked Secovac to send them the financial statements for the fiscal year ending October 31, 2000, before May 31, 2001. No later than May 31, 2001, the appellant sent Secovac's creditors the company's financial statements to October 31, 2000 (Exhibit A-1, Tab 7). These financial statements indicate that the advances granted to the administrators (of which more than 96% were granted by the appellant) represented $729,003 and $814,984, paid during the fiscal years ending October 31, 1999, and October 31, 2000, respectively. In fact, from the time Secovac was incorporated until October 31, 2000, the appellant's personal indebtedness and that of his spouse towards Secovac continually increased:
+October 31
+1996
+1997
+1998
+1999
+2000
+Debt – start
+$0
+$0
+$299,000
+$739,841
+$729,003
+Loan on residence
+$350,000
+($70,000)
+($280,000)
+Advances granted
+$0
+$299,000
+$90,841
+$59,162
+$365,981
+Debt – end
+$0
+$299, 000
+$739,841
+$729,003
+$814,984
+The table shows that the amounts the appellant owed Secovac increased by $85,981 in Secovac's 2000 taxation year.
+[5] On May 19, 2004, the appellant was advised that an audit of his personal tax‑related information for the 1999, 2000, and 2001 taxation years was being undertaken. This audit focused on the appellant potentially receiving taxable advantages resulting from loans (non-reimbursed) granted by Secovac to the appellant from the start of its activities to its bankruptcy.
+[6] During the audit, Henri Guerrier (the Agency auditor in charge of the appellant's audit case) and his supervisor met with the appellant and his spouse at the offices of their counsel (Fasken, Martineau). Mr. Guerrier wanted explanations about Secovac's "Advances to Administrators." The appellant testified that he did not provide any explanation about that because the subject was discussed at length on May 17, 2001, at a first meeting of the creditors (before the holding proposal was rejected) and he had provided all the explanations about it to the trustee and to Marie‑Claude Hébert, the Agency representative at the Secovac creditors' meetings. The appellant also testified that he could not give Mr. Guerrier the documents related to the advances because they had been given to the trustee following Secovac's bankruptcy. The evidence also showed that the appellant had refused to sign a waiver in respect of the normal reassessment period.
+[7] On June 21, 2004, the Minister made a reassessment (Exhibit A-1, Tab 8) to include $814,894 in the calculation of the appellant's income for the 2000 taxation year. This notice of reassessment states:
+[translation]
+Total income previously assessed
+$79,443.00
+Add
+Advances to shareholders included with income
+$814,984.00
+Total revised income
+$894,427.00
+Revised net income
+$894,427.00
+Revised taxable income
+$894,427.00
+Non-refundable tax credit
+No change
+I must point out that the reassessment does not specify the provision of the Act under which the reassessment was established. Moreover, the evidence showed that the reassessment was made under subsection 15(1.2) of the Act, the Minister having considered the advances as commercial loans within the meaning of subsection 15(1.21) of the Act.
+[8] Further to this reassessment, Paul Ryan submitted a written notice of objection to the reassessment made June 21, 2004, to the Minister, on behalf of the appellant (within the time limit prescribed by the Act).
+[9] On November 13, 2007, the Minister made a reassessment for the appellant for the 2000 taxation year (Exhibit A-1, Tab 1) to reduce the $814,894 (included in the calculation of the appellant's income for the 2000 taxation year under the reassessment of June 21, 2004) to $85,981 (which corresponds to the loan increase granted by Secovac to the appellant during its financial year ending October 31, 2000). The notice of reassessment states:
+[translation]
+Former total income
+$894,427.00
+Deduct
+Previously disallowed shareholder debt
+$814,984.00
+Revised shareholder debt
+$85,981.00
+$729,003.00
+Revised total income
+$165,424.00
+Revised net income
+$165,424.00
+Revised taxable income
+$165,424.00
+The above-noted information explains the Minister's Reply to your September 17, 2004, objection, and the reassessment is issued under subsection 165(3) of the Act.
+[10] I must note that the notice of reassessment does not specify the provision of the Act on which the Minister relied to make the reassessment.
+Appellant's testimony
+[11] The appellant testified that he owned a software program (and was still the owner of that program) that Secovac used from the start of its activities to its bankruptcy. The appellant explained that he entered into an agreement (a verbal agreement) with Secovac for compensation of $800,000 for the use of his software and payment after October 30, 2000. The appellant added that he had told the trustee about this agreement and his $814,954 debt to Secovac was reduced by the amount of the set-off, as of October 30, 2000.
+Secovac's trustee, Robert Malo's testimony
+[12] I noted the following from Mr. Malo's testimony:
+(i) he had refused to undertake proceedings to recover the loans from the appellant and his spouse (as of October 31, 2000, representing $814,984) granted by Secovac in 2000 and previous years; this was simply because the assets of the bankrupt company, Secovac, were not sufficient to cover the costs of such proceedings;
+(ii) the Agency did not ask the relevant tribunal for an order authorizing it to undertake recovery proceedings for the amounts owing in its own name and at its own expense and risk, as provided for under section 38 of the Bankruptcy and Insolvency Act (BIA);
+(iii) at no time did the appellant state that Secovac owed him $800,000 for the use of his software program (from the beginning of Secovac's activities until October 31, 2000) and that the amount owing, $814,984 should be reduced by that amount.
+Appellant's position
+[13] The appellant first states that his November 13, 2007, reassessment for the 2000 taxation year was time-barred because the Minister had made it after the normal reassessment period. On this, the appellant raised the following arguments in his written submission:
+[translation]
+23. The MNR made a first reassessment, adding $814,894 to the income the appellant declared in 2000 under subsection 15(1) of the ITA within the applicable deadlines, on June 21, 2004, the last day of the regular reassessment period;
+24. This assessment was clearly without merit because following the objection by the appellant, the MNR vacated it with no explanation and made a second reassessment on November 13, 2007, more than three years later, reducing the additional amount of declared income in 2000. The amount added to his declared income in 2000 went from $814,894 to $85,981;
+25. This second reassessment was made after the normal reassessment period of three years from the date of the original assessment. The MNR issued this second reassessment under subsection 165(3) of the ITA without any explanation, or legislative provision to justify it (A-1, Tab 1);
+26. The appellant produced his notice of appeal for the second reassessment as if it were a reduction of the amount assessed in the first reassessment. The appellant states that the second reassessment is statute-barred but decides to address the whole issue rather than raise just the issue of limitations because if the assessment is vacated on the sole ground that it is statute-barred, the MNR could appeal, and since the appellant only raised the issue of limitations in his notice of appeal, he would not be able to raise any new arguments in his defence;
+27. The MNR, in its reply to the notice of appeal, informed the appellant for the first time, that he had been assessed under subsection 15(2) of the ITA, as noted in paragraph 38 of the reply, in the present issue;
+28. If the appellant can no longer submit new arguments in his notice of appeal, was he required to reinitiate proceedings in order to change his notice of appeal because the basis of the assessment had changed with the new legal provision?
+29. The appellant questions the MNR's method and states that it was not Parliament's intention to allow a second reassessment to be issued after the regular reassessment period on another basis while relying on subsection 165(5) of the ITA following an objection to a first reassessment that was clearly invalid and vacated;
+30. Should this method be allowed, the MNR would be able to bypass subsection 152(4) of the ITA. Indeed, the MNR would simply be able to issue an arbitrary assessment during the normal reassessment period and then take the time needed while the assessment is under objection and then, maliciously issue a second reassessment under another legislative provision. This would effectively allow the Minister to circumvent subsection 152(4) of the ITA.
+31. The Honourable Chief Justice Bowman questioned the use of a second reassessment as a reply to an objection in 943372 Ontario Inc. v. The Queen, 2007 TCC 294. He explains at paragraph 7:
+…If the otherwise statute-barred 2001 reassessments cannot be justified under subsections 152(4) and (4.01), the reassessments in response to the notices of objection must also fall. The reason is self-evident: assume a statute-barred assessment is issued and the taxpayer objects on the basis that the assessment is out of time. Could the Minister of National Revenue cure the defect by issuing a reassessment in response to the objection under subsection 165(3)? The question answers itself.
+32. In Walsh v. The Queen, 2008 TCC 282, at paragraph 15, the Honourable Miller T.C.C.J. ruled that when a second reassessment has a new basis, it is simply not the same assessment. At paragraph 20 he states that subsection 152(9) of the ITA can only be relied on if the new argument supports the first reassessment in question and distinguishes between the new basis and a new argument, contrary to Justice Rothstein's comment in Her Majesty the Queen v. Anchor Pointe Energy Ltd., 2003 FCA 294. He ruled, at paragraph 34, that the respondent ought not to be allowed to rely on subsection 152(9) to effectively raise a new assessment;
+33. In paragraph 23 of his notice of appeal, the appellant states that he never waived his rights under the statute of limitations and was never accused of filing erroneous facts; this statement was confirmed by counsel for the respondent in paragraph 23 of the reply;
+34. For all these reasons, the appellant states that the second reassessment is statute-barred and must be vacated.
+[14] The appellant also states that the reassessment established November 13, 2007, is unfounded in law because the Minister used the provisions of the Act rather than the BIA to recover assets from Secovac, the bankrupt company, by assessing its administrator. These arguments the appellant raised in his written arguments are worth citing:
+[translation]
+35. As a second argument of defence, the appellant submits that the assessment is unfounded in law:
+36. During the March 17 and 19, 2009, hearings, the following evidence, was established beyond a doubt; each element being essential for the appellant's defence:
+- on March 30, 2001 Secovac Inc, filed a motion of intention to make a proposal under subsection 50.4(1) of the BIA with the trustee Samson Bélair Deloitte & Touche, agreeing to act as trustee;
+- on May 3, 2001, the company filed a proposal. The only creditors were Quebec's ministère du Revenu and the CRA;
+- this proposal received a favourable recommendation from the trustee on May 15, 2001;
+- the tax creditors voted against the Corporation's proposal during an assembly that began May 17, 2001, and ended May 31, 2001; the Corporation was deemed to have made an assignment in bankruptcy on May 31, 2001, caused by the negative vote;
+- the creditors knew of the "Advances to Administrators" item that appeared as an asset in the Company's financial statements of October 30, 2000 (the Company's fiscal year ends October 31) and "this item" had been discussed at the meetings prior to the vote against the Company's proposal;
+- on May 11, 2005, further to the application, the trustee Samson Bélair Deloitte & Touche was discharged without objection;
+37. At paragraph 31 of his reply, counsel for the Crown stated that the shareholders should have reimbursed the amounts of the "Advances to Administrators" to the trustee; it states:
+[translation]
+The audit also leads the MNR to note that Secovac Inc, went bankrupt in the spring of 2001 and the amounts owing to Secovac Inc by its shareholders were never paid back despite the trustee's requests.
+The appellant claims that counsel for the Crown is aware that the Company's assignment in bankruptcy was caused by the creditors' vote against its proposal and that these statements skew the facts and are in bad faith;
+38. The creditors and the trustee discussed the "Advances to Administrators" account and the Company's property before the vote on the proposal. In fact, the vote was delayed specifically to allow for consultations of the 2000 financial statements and the "Advances to Administrators" account. It is therefore clear that it is a pre-bankruptcy obligation;
+39. The tax creditors' vote against the proposal led to the Company's assignment in bankruptcy as defined under paragraph 57(a) of the BIA:
+57. Where the creditors refuse a proposal in respect of an insolvent person,
+(a) the insolvent person is deemed to have thereupon made an assignment;
+40. As of the assignment, the divestiture of all the "bankrupt's property" that is vested in the trustee pursuant to section 71 of the BIA. The "bankrupt's property" includes the "Advances to Administrators" account;
+41. The Crown is a unsecured creditor and as such, is bound by the BIA as stated in section 4.1 of the BIA:
+4.1 [Binding on Her Majesty] This Act is binding on Her Majesty in right of Canada or a province.
+42. The Minister cannot use the BIA to impose fiscal obligations on The Company's shareholders for debts to the Company contracted before it became bankrupt because its vote is the juridical act by which it undertook to abide by the BIA. The Minister must observe the BIA and cannot use the BIA except for the exceptions provided for in the BIA;
+43. The Minister cannot deliberately ignore its juridical act and use the BIA to bypass all the other legislation without consideration for federal or provincial legislation governing the relationship between creditors and debtors;
+III. (C) Civil Code of Québec
+44. The Federal Law - Civil Law Harmonization Act, No. 1, SC 2001, c. 4 came into force on June 1, 2001. It is clear that Quebec's civil law provides general rules in bankruptcy matters. This means that, for situations not provided for by the BIA, resort must be had to the rules of unjust enrichment and the statute of limitations in relation to debts;
+45. The CRA vote against the proposal, despite the trustee's favourable recommendation is a juridical act carried out voluntarily, in its own personal and exclusive interest and is considered its choice. The negative vote of all the creditors led to the assignment of the Company's property as defined at paragraph 57(a) of the BIA;
+46. The Company's assignment in bankruptcy is a juridical fact, the effects of which are predetermined by the BIA. This juridical fact in itself represents the consideration. The Minister cannot rely on another juridical act or "another law" to impose tax liabilities on the Company's former administrators;
+47. The juridical act carried out by the Minister is a valid justification for its impoverishment. The Company's administrators justify their legitimate enrichment on the basis of the juridical fact, the Company's assignment in bankruptcy, further to the creditors' rejection of the proposal;
+48. Before the coming into force of the new Civil Code of Québec January 1, 1994, unjust enrichment was not codified in a specific provision in the Code although it was a recognized civil law concept. Articles 1493 and 1949 of the Civil Code of Québec provide as follows:
+1493. A person who is enriched at the expense of another shall, to the extent of his enrichment, indemnify the other for his correlative impoverishment, if there is no justification for the enrichment or the impoverishment.
+1494. Enrichment or impoverishment is justified where it results from the performance of an obligation, from the failure of the person impoverished to exercise a right of which he may avail himself or could have availed himself against the person enriched, or from an act performed by the person impoverished for his personal and exclusive interest or at his own risk and peril, or with a constant liberal intention.
+49. When the Minister assessed the appellant on June 21, 2004, imposing tax obligations as shareholder, he had to consider the facts that had arisen between the time of the obligation and the day of the application. The Minister cannot ignore the Company's May 31, 2001, assignment in bankruptcy, the juridical fact the effects of which are predetermined by the BIA;
+50. Indeed, the "applicant's" impoverishment, as the enrichment, must be reducible to a monetary amount and is evaluated as of the day of the application, not the day it occurred, as provided for in article 1495 of the Civil Code of Québec:
+1495. An indemnity is due only if the enrichment continues to exist on the day of the demand.
+Both the value of the enrichment and that of the impoverishment are assessed on the day of the demand; however, where the circumstances indicate the bad faith of the person enriched, the enrichment may be assessed at the time the person was enriched.
+51. In other words, the enriched cannot rely on a juridical fact authorizing it to keep the enrichment. The Company's assignment or bankruptcy was the juridical fact that justifies the enrichment of the Company's administrators and is the representation of the compensation. Enrichment cannot be unfair if it is the result of carrying out of a legally authorized act;
+52. Allowing the Minister's intervention to impose tax liabilities on the appellant with the BIA on amounts belonging to the trustee, when the trustee could go after these same amounts would mean the appellant could be pursued for the same debt twice, once by the trustee in bankruptcy and another by the Minister; this is absurd, an abuse of a right and contrary to the legislator's intent;
+53. In his testimony, the trustee's representative, Mr. Malo, confirmed that the creditors first voted and then told him that they would rely on section 38 of the BIA to recover the assets in question and this is why he did nothing;
+54. These assets belonged to the trustee in bankruptcy and it was to recover them within three years, as prescribed under article 2925 of the Civil Code of Québec. It did not.
+[15] During the hearing, the appellant also claimed that its $814,984 debt to Secovac as of October 30, 2000, had been reimbursed after that date by the $800,000 compensation and that the $85,981 included in the calculation of its income for the 2000 taxation year under subsection 15(2) of the Act should have been reduced in reflection of the reimbursement of the debt after October 30, 2000.
+[16] The appellant also claimed that part of the $85,981 advance granted to him by Secovac during its financial year ending October 30, 2000, had been granted in November and December 1999 and should not have been added to his taxable income for the 2000 taxation year pursuant to subsection 15(2) of the Act.
+[17] Lastly, the appellant claimed that part of the $85,981 advance (in this case, $17,500) had already been included in the calculation of its income for the 2000 taxation year. The appellant offered in evidence its income tax return (A‑1, tab 10) for the 2000 taxation year, showing at line 130 of the T‑1 2000 that $17,500 had been included in its income as "Other income."
+Analysis and conclusion
+Statue of limitations
+[18] We will first review the issue of whether the reassessment established against the appellant on November 13, 2007, for the 2000 taxation year is time-barred.
+[19] On this, I note that the first reassessment, made June 21, 2004, during the normal reassessment period and the second reassessment, made November 13, 2007, is the Minister’s reply to the appellant’s notice of objection to the first reassessment.
+[20] Subsection 165(3) of the Act allows the Minister to take one of the following four measures after considering a notice of objection: he can vacate the assessment, ratify the assessment, modify the assessment or establish a reassessment. Moreover, subsection 165(5) of the Act clearly provides that the exceptions provided for in subsection 152(4) of the Act do not apply to the Minister’s measures taken under subsection 165(3) of the Act. In other words, subsection 165(5) of the Act allows the Minister, after reviewing the notice of objection, to take one of the four measures set out at subsection 165(3) of the Act without concern for the restrictions set out in subsection 152(4) of the Act.
+[21] In this case, in response to the appellant’s notice of objection from the first reassessment, the Minister made a new reassessment. When a reassessment is made, that automatically vacates the former assessment. As a result, I see no use in speculating about the basis of the reassessment. Indeed, subsection 165(3) of the Act specifically allows the Minister to modify the assessment, in which case the amendment may retain the initial basis of the assessment. However, as soon as there is a reassessment, it necessarily has a new basis because it vacates and replaces the prior assessment. On this, Canada v. Anchor Pointe Energy Ltd., 2003 F.C.J. No. 1045 (QL), a Federal Court of Appeal decision, clearly stands for the proposition that it is possible for the Minister to rely on a new basis to ratify a reassessment or make a reassessment after reviewing a notice of objection (see paragraphs 33 to 36). This is true even if the second reassessment is made after the normal reassessment period, as long as the Minister does not increase the taxpayer’s taxes as required under the first reassessment, in accordance with the provisions of subsection 156(5) of the Act. It will be recalled that the reassessment made for the appellant in fact reduced the taxes owing under the first reassessment. For all these reasons, I am of the view that the reassessment for the appellant, made November 13, 2007, for the 2000 taxation year was not time-barred, even if it was made after the normal reassessment period. Lastly, with regard to the case law cited by the appellant at paragraphs 31 and 32 of his written arguments, I note that they do not enlighten the Court in this case because there are important factual and procedural distinctions.
+[22] In regard to the appellant’s submissions at paragraphs 24 and 25, that the November 13, 2007, reassessment does not specify any legislative provision or provide any explanation, I would note that the Act does not require the Minister to specify in a notice of assessment or reassessment which section or sections of the Act he is relying on to assess a taxpayer. Explanations are generally provided to the taxpayers or their agents before the making of the reassessment. The appellant's submissions to the affect that he did not receive any explanation regarding the making of the reassessment cannot be accepted considering that the notice of objection was submitted by counsel for the appellant and the reassessment was made following negotiations between counsel for the appellant and the Minister.
+[23] As to the appellant’s submissions at paragraphs 26 to 28 of his written arguments, in which he asks the Court to order entirely new proceedings so as to be able [translation] "to change his notice of appeal because the basis of the assessment had changed with the new legislative provision," I would note that the reply to the notice of appeal was sufficiently detailed to allow the appellant to understand the basis of the reassessment. The appellant had the opportunity to raise his arguments against the reassessment by filing a response to the reply to the notice of appeal or by filing an amended notice of appeal. Moreover, during the hearing of his appeal, the appellant had an opportunity to offer any valid arguments against the reassessment. The Court gave the appellant an opportunity to file written submissions so he could properly formulate and structure his arguments against the reassessment. In my opinion, the appellant suffered no prejudice in the process. Indeed, the appellant had ample opportunity to offer valid arguments against the reassessment and therefore his application to "restart the proceedings" must be dismissed.
+The BIA c. the Act
+[24] We will now address the issue as to whether the Minister has improperly circumvented the BIA in making the reassessment against the appellant.
+[25] I am of the view that the Minister has not done so. The Minister simply made a reassessment so as to include the $85,981 in the calculation of the appellant’s taxable income for the 2000 taxation year as an advantage granted to a shareholder and not in order to claim an asset of Secovac, the bankrupt company. In other words, in assessing the appellant, the Minister was not indirectly asking him to repay the $85,981 loan Secovac had granted him. In assessing the appellant, the Minister was not seeking to indirectly recover an asset of the bankrupt company. The Minister was asking the appellant to pay taxes on an $85,981 advantage he had received from Secovac. The fact Secovac is a bankrupt company is simply not relevant to this case. This case is about calculating the appellant’s taxable income for the 2000 taxation year, not claiming an asset from a bankrupt company. In other words, in the present case, I do not see the point in analyzing the interaction of the Act and the BIA.
+Use of software
+[26] The appellant claims that his $814,984 debt towards Secovac as of October 30, 2000, was reimbursed in the amount of $800,000 after that date, the effect of set-off, and the amount of $85,981 included in his calculation of income for the 2000 taxation year pursuant to subsection 15(2) of the Act should be reduced so that the debt repayment made after October 30, 2000 can be taken into account. I note that the appellant testified that he and Secovac agreed on a payment (under a verbal agreement), as compensation for the use of his software, for $800,000 after October 30, 2000, leading to the alleged set-off. I would also note that the appellant testified that he informed the trustee of this agreement and that his $814,954 debt to Secovac as of October 30, 2000, was reduced by $800,000 because of the set-off.
+[27] I immediately note that the appellant’s evidence on this subject is supported only by his testimony, which, in my opinion, lacks credibility. First, the appellant's testimony that he had informed the trustee of his agreement with Secovac was contradicted by the trustee's testimony; Mr. Malo's credibility was not questioned. Moreover, I have difficulty imagining why the appellant did not mention this important fact during the verification of the objection or even in his notice of appeal.
+[28] I would add that even if the appellant had convinced me that this was true, I would not have relied on the appellant's argument regarding set-off, for procedural fairness reasons. I must note that the appellant did not raise this argument in his notice of appeal. In fact, the appellant raised this argument for the first time at the hearing. The respondent was therefore taken by surprise. Therefore, procedural fairness requires me to dismiss this argument.
+[29] Lastly, I note that the appellant did not raise this argument in his written submission, probably because I had mentioned at the hearing that the Minister might attempt to use his admission to assess $800,000 (as income from Secovac) assuming he did not declare any such income.
+Advance of $17,500 already included in appellant's income for the 2000 taxation year
+[30] The appellant claimed that part of the $85,981 advance, specifically $17,500, was already included in the calculation of his income for the 2000 taxation year.
+[31] In my view, the appellant's argument must be dismissed first for procedural fairness reasons. The respondent was again taken by surprise when the appellant raised this argument for the first time at the hearing. The notice of appeal did not mention this argument at all. At any rate, the documentary evidence offered by the appellant (Exhibit A-1, tab 10) in support of his testimony does not seem very reliable to me since it was a "client copy," unsigned by the appellant, and since the appellant's income tax report for the 2000 taxation year (Exhibit I-1), signed by the appellant and offered in to evidence by the respondent (contrary to the tax report submitted to evidence by the appellant) does not include, under "Other Income" in the T1-2000 form, a declaration of $17,500 added to the appellant's income pursuant to subsection 15(2) of the Act. In short, I have trouble figuring out the reason the appellant did not raise this rather important fact during the verification or at the objection stage.
+[32] The appellant also claimed that part of the $85,981 advance Secovac granted him during its fiscal year ending October 30, 2000, had been received in November and December 1999 and those advances in 1999 should not have been added to his taxable income in the 2000 taxation year under subsection 15(2) of the Act.
+[33] In my view, this argument may be sound in theory, but must be dismissed for the following reasons:
+(i) the appellant did not offer evidence of the amount of the alleged advances from Secovac in November and December 1999;
+(ii) once again, the respondent was taken by surprise by the appellant, because he raised this argument at the last minute, at the hearing.
+[34] For these reasons, the appeal must be dismissed with costs.
+Signed at Ottawa, Canada, this 16th day of July 2009.
+"Paul Bédard"
+Bédard J.
+Translation certified true
+on this 23rd day of September 2009.
+François Brunet, Revisor
+CITATION: 2009 TCC 328
+COURT FILE NO.: 2008-277(IT)G
+STYLE OF CAUSE: Pierre Gilbert v. Her Majesty the Queen
+PLACE OF HEARING: Montreal, Quebec
+DATES OF HEARING: March 17 and 19, 2009
+REASONS FOR JUDGMENT BY: The Honourable Justice Paul Bédard
+DATE OF JUDGMENT: July 16, 2009
+APPEARANCES:
+For the appellant:
+The appellant himself
+Counsel for the respondent:
+Mounes Ayadi
+COUNSEL OF RECORD:
+For the appellant:
+Name:
+Firm:
+For the respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

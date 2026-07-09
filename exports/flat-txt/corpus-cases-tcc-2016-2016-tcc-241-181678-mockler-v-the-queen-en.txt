@@ -1,0 +1,104 @@
+Title: Mockler v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/181678/index.do
+Corpus path: corpus/cases/tcc/2016/2016-tcc-241-181678-mockler-v-the-queen-en.md
+Document type: case_law
+Last modified: 2016-10-18
+
+# Mockler v. The Queen
+
+- Citation: 2016 TCC 241
+- Decision date: 2016-10-18
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2988, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Mockler v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2016-10-18
+Neutral citation
+2016 TCC 241
+File numbers
+2016-3588(IT)APP
+Judges and Taxing Officers
+Valerie A. Miller
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2016-3588(IT)APP
+BETWEEN:
+BONITA C. MOCKLER,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Application heard on October 18, 2016, at Fredericton, New Brunswick
+Before: The Honourable Justice Valerie Miller
+Appearances:
+Agent for the Applicant:
+Allison J. Mockler
+Counsel for the Respondent:
+Stan McDonald
+JUDGMENT
+WHEREAS the Applicant had filed an application for an extension of time to file a Notice of Objection for her 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007 and 2008 taxation years;
+AND WHEREAS on April 16, 2008, the Minister advised the Applicant by letter that she was eligible for the Disability Tax Credit for 2007 and future taxation years which makes an appeal for these years unnecessary;
+AND WHEREAS for 1997, 1998, 1999, 2000, 2001, 2002, 2003 2004, 2005 and 2006 the Applicant received a notice that no taxes were payable;
+AND WHEREAS the Applicant cannot object to a notice that no taxes are payable;
+THEREFORE the application for an extension of time to file a Notice of Objection for the Applicant’s 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005 and 2006 taxation years is dismissed.
+Signed at Ottawa, Canada, this 26th day of October 2016.
+“V.A. Miller”
+V.A. Miller J.
+Citation: 2016TCC241
+Date: 20161026
+Docket: 2016-3588(IT)APP
+BETWEEN:
+BONITA C. MOCKLER,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+V.A. Miller J.
+[1] Mrs. Mockler applies for an order granting her an extension of time to file notices of objection for the 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007 and 2008 taxation years. Her application was filed on September 2, 2016.
+[2] Mrs. Mockler was represented by her spouse, Mr. Allison Mocker who also had an application for extension of time to file notices of objection for his 1997 to 2008 taxation years.
+[3] The Minister of National Revenue (the “Minister”) has opposed this application on the basis that it was filed with this Court beyond the time period allowed by the Income Tax Act (“ITA”) to grant an extension of time to object to an assessment or reassessment, as the case may be. In support of her position, the Minister filed the affidavit of Bruno Kambwa, a Litigation Officer with the Canada Revenue Agency in the Montreal Tax Services Office.
+[4] The substance of the disagreement between Mrs. Mockler and the Minister involves the Disability Tax Credit (DTC). It appears from Mr. Kambwa’s affidavit and the materials submitted on behalf of Mrs. Mockler that Mrs. Mockler has been granted the DTC for her 2007 and future taxation years. Therefore, this application should be for the 1997 to 2006 years only.
+[5] According to the print-outs attached to Mr. Kambwa’s affidavit, Mrs. Mockler received a nil assessment for each of the 1997 to 2006 years. She wishes to file an objection so that her eligibility for the DTC can properly be determined for these years. Although Mrs. Mockler cannot use the credit in the 1997 to 2006 years, it can be used by her spouse.
+[6] The expression nil assessment refers to a situation where a person owes no taxes. It is not an assessment but is a notice that no taxes are payable. A nil assessment can neither be objected to nor be appealed: Interior Savings Credit Union v R, 2007 FCA 151 and Terek v R, 2008 TCC 865. As a result, I must dismiss this application for extension of time to file a notice of objection for the 1997 to 2006 years.
+[7] Furthermore, even if the assessments for the 1997 to 2006 years were not nil assessments, I would have to dismiss this application because it was not filed within one year of time limit for serving a notice of objection.
+[8] The application for extension of time to file notices of objection for the 1997 to 2006 taxation years is dismissed.
+Signed at Ottawa, Canada, this 26th day of October 2016.
+“V.A. Miller”
+V.A. Miller J.
+CITATION:
+2016TCC241
+COURT FILE NO.:
+2016-3588(IT)APP
+STYLE OF CAUSE:
+BONITA C. MOCKLER AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Fredericton, New Brunswick
+DATE OF HEARING:
+October 18, 2016
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Valerie Miller
+DATE OF JUDGMENT:
+October 26, 2016
+APPEARANCES:
+Agent for the Applicant:
+Allison J. Mockler
+Counsel for the Respondent:
+Stan McDonald
+COUNSEL OF RECORD:
+For the Applicant:
+Name:
+Firm:
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

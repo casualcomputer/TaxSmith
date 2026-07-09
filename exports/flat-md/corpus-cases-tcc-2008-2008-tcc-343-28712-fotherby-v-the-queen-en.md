@@ -1,0 +1,248 @@
+---
+title: "Fotherby v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28712/index.do"
+last_modified: "2008-06-11"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 TCC 343"
+citation2: ""
+neutral_citation: "2008 TCC 343"
+decision_date: "2008-06-11"
+language: "en"
+item_id: "28712"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1437
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T00:07:17.063000+00:00"
+cases_cited_count: 8
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "ca85e019458677230036dffcacee14f0186e3ba2c8734891668b3767c8c87017"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Fotherby v. The Queen
+
+- Citation: 2008 TCC 343
+- Decision date: 2008-06-11
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1437, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Fotherby v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-06-11
+Neutral citation
+2008 TCC 343
+File numbers
+2007-4721(IT)I
+Judges and Taxing Officers
+Wyman W. Webb
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2007-4721(IT)I
+BETWEEN:
+LYNNE FOTHERBY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeal of
+Lynne Fotherby (2007-4718(GST)I)
+on May 13, 2008, at Halifax, Nova Scotia
+Before: The Honourable Justice Wyman W. Webb
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Kendrick Douglas
+____________________________________________________________________
+JUDGMENT
+The appeal under the Income Tax Act is allowed, in part, without costs and the matter is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the Appellant is entitled to claim capital cost allowance of $134.69 in 2004 in relation to the water conditioner. In all other respects, the appeal under the Income Tax Act is dismissed.
+Signed at Halifax, Nova Scotia, this 11th day of June 2008.
+“Wyman W. Webb”
+Webb J.
+Docket: 2007-4718(GST)I
+BETWEEN:
+LYNNE FOTHERBY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeal of
+Lynne Fotherby (2007-4721(IT)I)
+on May 13, 2008, at Halifax, Nova Scotia
+Before: The Honourable Justice Wyman W. Webb
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Kendrick Douglas
+____________________________________________________________________
+JUDGMENT
+The appeal under the Excise Tax Act is allowed, in part, without costs and the matter is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the Appellant is entitled to claim an input tax credit of $307.50 for the period ending December 31, 2003 in relation to the amount spent on clearing the land in Lower Sackville, Nova Scotia. In all other respects the appeal under the Excise Tax Act is dismissed.
+Signed at Halifax, Nova Scotia, this 11th day of June 2008.
+“Wyman W. Webb”
+Webb J.
+Citation: 2008TCC343
+Date: 20080611
+Dockets: 2007-4721(IT)I,
+2007-4718(GST)I
+BETWEEN:
+LYNNE FOTHERBY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Webb J.
+[1] This appeal arises as a result of the denial by the Respondent of certain expenses claimed by the Appellant in computing her income for the purposes of the Income Tax Act in 2003 and 2004 and as a result of the denial of certain input tax credits claimed by the Appellant under the Excise Tax Act for the periods ending December 31, 2003 and December 31, 2004.
+[2] The Appellant operated a sole proprietorship in 2003 and 2004 and was registered under the Excise Tax Act. The Appellant's goal was to establish a zero emissions environmentally friendly bed and breakfast resort. The Appellant had a three acre property in Lower Sackville, Nova Scotia that she was going to use for her business. However, she received an offer from Reginald Kinsman for a larger property located in Seaforth, Nova Scotia that would be more suitable for the operation of the business. The Appellant decided to sell the property in Lower Sackville and acquire the property in Seaforth. In order to prepare the property in Lower Sackville for sale the Appellant subdivided this property into three separate lots of one acre each, and cleared the lots of old boxes, old vehicles and other items that had been left on the property.
+[3] The property in Seaforth first suffered fire damage when the garage that was attached to the building burned and then suffered further damage in September of 2003 as a result of hurricane Juan. Although parts of the building were still habitable following the fire damage, the Appellant was unable to live in any part of the house following the damage sustained by the hurricane. The Appellant then moved into a trailer located on the property. During the period under appeal, the property could not be used as a bed and breakfast and the services offered by the Appellant in carrying on her business were described in the Reply (and which were not disputed by the Appellant) as "kayaking, nature tours, swimming, geocaching and camping". There was no revenue from the business in 2003 and the revenue of the business in 2004 was $10,980.44. The Appellant claimed a net business loss of $15,838.07 in 2003 and a net business loss of $17,706.47 in 2004.
+[4] The Appellant expressed a great deal of frustration with respect to the original audit and how she was treated by the auditor. However the issue in this Court is the validity of the assessment itself and not the conduct of the Canada Revenue Agency. In Main Rehabilitation Co. Ltd. v. The Queen, 2004 FCA 403, 2004 DTC 6763, [2005] 1 C.T.C. 212, 247 D.L.R. (4th) 597, 329 N.R. 248 the Federal Court of Appeal stated that:
+6 In any event, it is also plain and obvious that the Tax Court does not have the jurisdiction to set aside an assessment on the basis of an abuse of process at common law or in breach of section 7 of the Charter.
+7 As the Tax Court Judge properly notes in her reasons, although the Tax Court has authority to stay proceedings that are an abuse of its own process (see for instance Yacyshyn v. R. (1999), 99 D.T.C. 5133 (Fed. C.A.) ), Courts have consistently held that the actions of the CCRA cannot be taken into account in an appeal against assessments.
+8 This is because what is in issue in an appeal pursuant to section 169 is the validity of the assessment and not the process by which it is established (see for instance the Consumers' Gas Co. v. R. (1986), 87 D.T.C. 5008 (Fed. C.A.) at p. 5012). Put another way, the question is not whether the CCRA officials exercised their powers properly, but whether the amounts assessed can be shown to be properly owing under the Act (Ludco Enterprises Ltd./Entreprises Ludco Ltée v. R. (1994), [1996] 3 C.T.C. 74 (Fed. C.A.) at p. 84).
+[5] The Appellant also questioned why she had to introduce any evidence at the hearing or explain any of the expenses that she had claimed. It must be remembered that the hearing before this Court is a separate, independent hearing before a Judge who does not have any knowledge of the case prior to the hearing other than what can be gleaned from the documents filed by the parties – the Notice of Appeal, the Reply and in some cases, an Answer.
+[6] It has been established in several cases that the initial onus of proof rests with the Appellant in relation to the facts assumed by the Respondent in assessing (or reassessing) the Appellant. In Transocean Offshore Limited v. The Queen, 2005 FCA 104, 2005 DTC 5201 (Eng.), [2005] 2 C.T.C. 183, 332 N.R. 21, Justice Sharlow of the Federal Court of Appeal stated that:
+35 This statement recognizes the general principle that, in a tax appeal, the Crown's factual assumptions are taken as true unless they are rebutted (see Pollock, cited above). It also recognizes that this general principle, like all general principles, may have exceptions. The justification for the general principle is that the taxpayer knows or has the means of knowing all of the facts relevant to an income tax assessment. A trier of fact is entitled to draw an inference adverse to a party who has or may reasonably be presumed to have some evidence that is relevant to disputed facts, but fails to adduce that evidence. However, there may be situations where fairness would require that no onus be placed on a taxpayer to rebut a specific factual assumption made by the Crown. One example might be a fact that is solely within the knowledge of the Crown. However, I do not see this as such a case.
+[7] The expenses that were denied were summarized as part of the assumptions as set out in the Reply in the following categories: maintenance and repairs (which included a claim for the cost of clearing the land in Lower Sackville), supplies, capital cost allowance - water conditioner, and motor vehicle expenses. The input tax credits that were denied under the Excise Tax Act were amounts claimed in relation to the amount spent on clearing the land in Lower Sackville and on motor vehicle expenses. There is nothing about the facts that were assumed that would suggest that the general rule as set out above by Justice Sharlow would not apply in this case.
+Maintenance and Repairs
+[8] The following table summarizes the amounts that the Appellant claimed as expenses for maintenance and repairs and that were denied by the Respondent:
+Expense Claimed
+2003
+2004
+Personal Expense – Lot clearing - land in Lower Sackville
+$2,050
+Duplicate Expense
+$760
+Capital Expenditure – amounts in relation to building restoration
+$409
+$2,089
+$2,459
+$2,849
+[9] The Appellant had acquired the land in Lower Sackville as the location for the Appellant’s business but she changed the location to Seaforth when the Seaforth property was offered to her. She then decided to sell the property in Lower Sackville and cleared this land in preparation for the sale. The Appellant stated that she did not realize a gain on the sale of this land but if she would have realized a gain on the sale of this property she would have claimed the gain as a capital gain. There was no evidence with respect to the amount received on the sale of the three lots, the cost of the land in Lower Sackville or the expenses incurred in selling this property. Therefore it is not possible to determine the amount of any loss that the Appellant may have realized on the sale of the land in Lower Sackville.
+[10] The cost of clearing the land was a cost that was incurred for the purpose of making the disposition of the property and, as provided in subsection 40(1) of the Income Tax Act, should have been included in determining the gain or loss realized on the sale of the property and not deducted as a business expense. Assuming that the Appellant did not realize a gain on the sale of the property, the cost of clearing the land would simply increase the amount of her capital loss. One-half of the capital loss would be an allowable capital loss that could be deducted against taxable capital gains. However, since there was no indication that she had any taxable capital gains in 2003 or 2004, the allowable capital loss would not be deductible in either of the years under appeal and therefore would not affect her income for the purposes of the Income Tax Act in 2003 or 2004. As a result, no adjustment will be made in relation to the expense of clearing the land that was denied by the Respondent.
+[11] However, with respect to the claim for an input tax credit under the Excise Tax Act in relation to the HST payable on the amount spent on clearing the land, since the property was subdivided into three separate parcels, the sale of each one of the lots would not have been an exempt supply for the purposes of the Excise Tax Act. Exempt supplies are those described in Schedule V to the Excise Tax Act. Subparagraph 9(2) of Part I of Schedule V provides that certain supplies of vacant land by individuals are exempt supplies but also includes a list of exceptions in clauses (a) to (f), any one of which, if applicable, will result in the supply not being an exempt supply. Subparagraph 9(2) of Part I of Schedule V provides, in part, that:
+(2) A supply of real property made by way of sale by an individual or a personal trust, other than
+(a) a supply of real property that is, immediately before the time ownership or possession of the property is transferred to the recipient of the supply under the agreement for the supply, capital property used primarily
+(i) in a business carried on by the individual or trust with a reasonable expectation of profit, or
+(ii) if the individual or trust is a registrant,
+(A) in making taxable supplies of the real property by way of lease, licence or similar arrangement, or
+(B) in any combination of the uses described in subparagraph (i) and clause (A);
+…
+(c) a supply of a part of a parcel of land, which parcel the individual, trust or settlor of the trust subdivided or severed into parts, except where
+(i) the parcel was subdivided or severed into two parts and the individual, trust or settlor did not subdivide or sever that parcel from another parcel of land, or
+(ii) the recipient of the supply is an individual who is related to, or is a former spouse or common-law partner of, the individual or settlor and is acquiring the part for the personal use and enjoyment of the recipient
+but, for the purposes of this paragraph, a part of a parcel of land that the individual, trust or settlor supplies to a person who has the right to acquire it by expropriation, and the remainder of that parcel, are deemed not to have been subdivided or severed from each other by the individual, trust or settlor, as the case may be;
+(emphasis added)
+[12] Since the property in Lower Sackville was subdivided into three parcels, the exception in subparagraph (c) above is applicable (as the condition in clause (i) of subparagraph (c) is not satisfied) and the supply of each one of the three one acre parcels of land would not be an exempt supply for the purposes of the Excise Tax Act. Since this exception applies, there is no need to consider whether the exception in subparagraph (a) above might also be applicable.
+[13] Subsection 169(1) of the Excise Tax Act is the subsection that provides the entitlement to input tax credits and it provides as follows:
+169. (1) Subject to this Part, where a person acquires or imports property or a service or brings it into a participating province and, during a reporting period of the person during which the person is a registrant, tax in respect of the supply, importation or bringing in becomes payable by the person or is paid by the person without having become payable, the amount determined by the following formula is an input tax credit of the person in respect of the property or service for the period:
+A × B
+where
+A is the tax in respect of the supply, importation or bringing in, as the case may be, that becomes payable by the person during the reporting period or that is paid by the person during the period without having become payable; and
+B is
+(a) where the tax is deemed under subsection 202(4) to have been paid in respect of the property on the last day of a taxation year of the person, the extent (expressed as a percentage of the total use of the property in the course of commercial activities and businesses of the person during that taxation year) to which the person used the property in the course of commercial activities of the person during that taxation year,
+(b) where the property or service is acquired, imported or brought into the province, as the case may be, by the person for use in improving capital property of the person, the extent (expressed as a percentage) to which the person was using the capital property in the course of commercial activities of the person immediately after the capital property or a portion thereof was last acquired or imported by the person, and
+(c) in any other case, the extent (expressed as a percentage) to which the person acquired or imported the property or service or brought it into the participating province, as the case may be, for consumption, use or supply in the course of commercial activities of the person.
+(emphasis added)
+[14] “Commercial activity” is defined in section 123 of the Act as follows:
+“commercial activity” of a person means
+(a) a business carried on by the person (other than a business carried on without a reasonable expectation of profit by an individual, a personal trust or a partnership, all of the members of which are individuals), except to the extent to which the business involves the making of exempt supplies by the person,
+(b) an adventure or concern of the person in the nature of trade (other than an adventure or concern engaged in without a reasonable expectation of profit by an individual, a personal trust or a partnership, all of the members of which are individuals), except to the extent to which the adventure or concern involves the making of exempt supplies by the person, and
+(c) the making of a supply (other than an exempt supply) by the person of real property of the person, including anything done by the person in the course of or in connection with the making of the supply;
+(emphasis added)
+[15] Since none of the sales of the three one acre parcels of land (following the subdivision of the Lower Sackville property) would have been exempt supplies, the sales of these parcels would have been part of the commercial activity of the Appellant. As a result, the Appellant is entitled to claim the input tax credit in relation to the expenditures for clearing these parcels of land in preparation for the sale of these properties.
+[16] The Appellant admits that she claimed $760 twice (which was identified as a duplicate expense), and therefore this adjustment made by the Respondent for the duplicate expense is correct.
+[17] The amount identified as capital expenditures -- amounts in relation to building restoration is comprised of a number of smaller amounts for various materials that were used either in the reconstruction of the building following the damage sustained by the fire and the hurricane or in the construction of another building that was used for renting or selling kayaks.
+[18] In Bowland v. The Queen [1999] 4 C.T.C. 2530, 99 DTC 998, Justice Hamlyn set out the various tests used in determining whether an expenditure is a capital expenditure or a current expenditure. This case was affirmed by the Federal Court of Appeal 2001 FCA 160, [2001] 3 C.T.C. 109, 2001 DTC 5395. In that case, Justice Hamlyn stated as follows:
+11 The criteria to determine whether or not certain expenditures are expenses for repair and maintenance on current account or capital outlays are set forth in Johns-Manville Canada Inc. v. The Queen, 85 D.T.C. 5373. The Appellant corporation had bought a piece of land to maintain the pit walls of its mine at a specific slope. The corporation claimed the price of the land as a current expense. The Minister, in his reassessment, claimed that is was a capital outlay. The Supreme Court of Canada found that the land was an expense as it gave a temporary advantage only, the expenditure was repetitive as it had been incurred each year for the past forty years and, finally, the expenditure did not add to the infrastructure of the mine.
+12 In the analysis, the Court reviewed the jurisprudence and a list of principles to be utilized. These summarized principles include the purpose of the expenditure, whether the expenditure was incurred as part of the day-to-day operation of the business, whether the expenditure relates to something that is being consumed in the operation of the business, whether there is an enduring benefit as a result of the expenditure, whether the expense is recurring in nature and the cost of the expenditure relative to the cost of the business.
+13 Justice Urie of the Federal Court of Appeal in Shabro Investments Limited v. The Queen, 79 D.T.C. 5104, stated that determining whether or not an expenditure is considered to be repair and maintenance or capital in nature is a question of fact. He said at page 5109:
+Thus it is a question of fact in each case and often a question of degree. It is the latter question which causes difficulty in characterization, i.e., frequently from one point of view the expenditure is simply one made to repair an existing asset not to renew, replace or improve it.
+14 In Shabro (supra), the Appellant had claimed expenditures as repair or maintenance after the bottom floor of his two-storey building had subsided because if had been built on a garbage landfill. The Federal Court of Appeal found that such expenditures were capital in nature because the new floor was different than the previous one. Special measures had been taken to reinforce the floor, hence it was a permanent improvement to the building instead of a mere repair.
+15 Other cases have dealt with the issue of the categorization of expenses when a rental property was destroyed by fire. Generally, the Courts have found that the expenditures incurred to repair them [sic] where capital in nature. In Leclerc v. R., [1998] 2 C.T.C. 2578, the taxpayer had purchased a duplex. He lived in one unit and rented out the other one. He discovered, while doing minor renovations, that he would have to do substantial repairs because "contrary to municipal by-laws" the previous owner had done the repairs that were required as a result of a fire, himself. The repairs that had been made were in fact dangerous and the taxpayer had to obtain a demolition and a construction permit from the municipality. The taxpayer claimed the expenditures as expenses incurred for repairs. Judge Lamarre Proulx of this Court found the expenditures to be capital in nature stating at page 2581 that:
+The expenses at issue in the instant appeal are obviously not related to production. They are in fact related to the process of generating income. The expenses claimed were for reconstruction of the house, not its maintenance. They were thus not in the nature of operating expenses but of expenses on capital account, and could not be deducted in calculating income because s. 18(1)(b) of the Act does not allow them to be deducted ...
+[T]he repairs were not usual repairs on a property in rental condition but repairs to make the property rentable, the purpose of which was to confer a lasting benefit on the property.
+16 Associate Chief Judge Christie of this Court in Speek (P.) v. Canada, [1994] 2 C.T.C. 2422, stated at page 2424:
+Apart from the cement foundation, the dwelling was entirely destroyed by fire on the evening of December 31, 1989. It was replaced on the old foundation by a new two-storey dwelling during the period January-June 1990 at a cost in the order of $115,292. The new structure was rented commencing July 1, 1990. I have no hesitation in stating that the amounts expended on the new dwelling were on capital account. These expenses cannot be regarded as outlays for the maintenance and repair of a capital asset. The pre-December 31, 1989 capital asset was destroyed and replaced by a new capital asset.
+Considerably less extensive substitution of assets has been held to come within these words in paragraph 18(1)(b) of the Income Tax Act.
+(emphasis added by Justice Hamlyn)
+[19] In this case, the amounts that were incurred for the items in this category were incurred for one of two purposes - either to rebuild the property that will be used for the bed-and-breakfast part of the business or in the construction of another property that was used for the rental or sale of kayaks. As a result it appears clear that the expenditures were capital expenditures. Since the bed-and-breakfast property could not be inhabited following the fire damage and the hurricane damage, the expenditures incurred in relation this property could not be considered to be simply repairs or maintenance but were expenditures incurred to reconstruct the building and create an asset of enduring value. These expenditures were not repetitive and did add to the assets of the Appellant.
+[20] As noted by Justice Hamlyn, “[o]ther cases have dealt with the issue of the categorization of expenses when a rental property was destroyed by fire. Generally, the Courts have found that the expenditures incurred to repair them [sic] where capital in nature”.
+[21] The Appellant had argued that on an individual item basis the amounts were small. However, if this argument were successful, a significant part of a building could be expensed by claiming the individual components of a building separately. The cost of each piece of lumber, each sheet of drywall, nails, screws or other small components that are used in the construction of a building, on an individual item basis, may be minor. It does not seem reasonable that a person should be permitted to expense a large part of the cost of a building simply because the costs of the individual components are small. This would also raise the question of what amount would be considered to be a small amount. This would lead to different amounts being allowed as expenses based on a determination of what is a minor amount and uncertainty with respect to which amounts should be capitalized and which amounts could be expensed. In my opinion, since the components are incorporated into a structure of enduring value the amounts expended on these items are to be capitalized regardless of the cost of the individual items.
+[22] As a result, I find that the amounts listed as capital expenditures – amounts in relation to the building restoration should be capitalized and therefore no adjustment should be made to the reassessment based on the categorization of these amounts.
+Supplies
+[23] The following amounts were claimed as expenses for supplies by the Appellant and were denied as expenses by the Respondent on the basis that these amounts were capital expenditures:
+Expense Claimed
+2004
+Capital Equipment – fish finder and boat radar
+$1,889
+Capital expenditure – for small tools, supplies and equipment in relation to building renovation
+$556
+$2,445
+[24] Both the fish finder and the boat radar were purchased by the Appellant to be used in her business and are assets of enduring value. The cost of these items should be capitalized and not claimed as current expenses.
+[25] The amounts included in the $556 identified as capital expenditures in the above table included amounts spent to acquire two toilets, a toilet seat and pipe that would either have been incorporated into the bed and breakfast building or the building that was constructed to sell or rent kayaks. Therefore the amounts spent on these items should have been capitalized.
+[26] The Appellant did not introduce any evidence in relation to the small tools that had been claimed as an expense. As a result no adjustment will be made to the treatment of these amounts as capital expenditures.
+Capital Cost Allowance - Water Conditioner.
+[27] The Appellant purchased a water conditioner to be used in relation to the business. Since this water conditioner was included in the capital cost allowance schedule of the Appellant for 2003, it must have been acquired in 2003. No capital cost allowance was claimed in relation to this asset in 2003 but, as set out in the schedule attached to the letter from the Appeals Officer for the Canada Revenue Agency, $134.69 of capital cost allowance was claimed in 2004. The Appellant stated, and I accept her testimony, that the water conditioner was used in 2004 but not to treat water that the Appellant consumed personally. As a result, the claim for capital cost allowance in relation to the water conditioner for 2004 will be allowed.
+Motor Vehicle Expenses
+[28] The Appellant stated that she would review the expenses that she had incurred in relation to the motor vehicles and would allocate the expenses based on her determination of whether the amounts incurred were for personal use or business use. The Appellant did not keep a mileage log.
+[29] In her 2003 income tax return, the Appellant stated that the total number of kilometres that the vehicles were driven in that year was 56,667. The Appellant also stated that the number of kilometres that the vehicles were driven to earn business income was 51,000. The Appellant was unable to explain how she determined the amount of 51,000 kilometres for business use in 2003.
+[30] The Appellant also had a full-time job in 2003 and 2004. She indicated that she would travel to work with a friend.
+[31] When asked by the Canada Revenue Agency to determine the number of kilometres that she would drive for business purposes, the amount that she determined was 35,600.
+[32] The methodology employed by the Appellant to determine the appropriate amount to claim for motor vehicle expenses incurred for business use does not seem to be one that would produce an accurate result. When looking at a receipt for gas, how does one determine how much of that gas was used for business trips, and how much for personal trips? Without knowing the number of kilometres that the vehicles were driven for business use versus personal use, it is very difficult to allocate the amount spent on the operating expenses of the vehicles between these two types of expenditures.
+[33] The Appellant also stated that based on her calculations the motor vehicle expenses would only amount to $15 per day. However this was based on 350 days per year. It does not seem reasonable that a kayaking or nature tour business would operate 350 days in the year in Nova Scotia or that construction could be undertaken (other than construction undertaken indoors) during 350 days of the year in Nova Scotia.
+[34] The amounts that were allowed for motor expenses for 2003 and 2004 were based on the estimates provided by the Appellant to the Appeals Officer of the Canada Revenue Agency of the number of kilometres driven for business use and the total number of kilometres driven. Since these estimates showed that 63% of the kilometres driven were for business purposes, 63% of the motor vehicle expenses that had been claimed were allowed. I find that the Appellant has not demolished this assumption, and therefore no adjustment will be made to the amount that has been allowed as a deduction for motor vehicle expenses for 2003 and 2004. As well no adjustment will be made to the input tax credits that were allowed in relation to the motor vehicle expenses.
+Business Use of the Home
+[35] An additional item that was raised during the appeal related to the amounts calculated as the business use of the home expenses for 2003. There was no indication that any amount had been calculated for 2004. However, the amount calculated for 2003 was not claimed as a deduction in computing the Appellant's income for 2003 or 2004 as the Appellant had a loss during each of these years. The Respondent reduced the amount of the expenses related to the business use of the home. However, since no amount had been claimed as a deduction in computing the income of the Appellant in relation to these expenses, this adjustment did not affect the amount of taxes owing by the Appellant.
+[36] In The Queen v. Interior Savings Credit Union, 2007 FCA 151, 2007 DTC 5342, the Federal Court of Appeal held that the credit union did not have any right of appeal in relation to the amounts calculated as the preferred rate amount (“PRA”) of Interior Savings Credit Union as this amount did not affect the amount of taxes owing for the year that it filed the appeal. Justice Little had dismissed a motion made by the Crown to strike out a notice of appeal that had been filed by Interior Savings Credit Union in relation to the calculation of its PRA. In overturning the decision of Justice Little, the Federal Court of Appeal made the following comments:
+34 It can be seen that in reaching his decision Little, J. wanted to provide Interior with certainty as to where its PRA stood in a timely fashion. No doubt this is a valid concern. At the same time, it must be understood that the issue surrounding the PRA will only crystallize in a year in which the computation of the PRA impacts on the taxes payable. Until that time, no one is bound by these amounts. Little, J. was obviously of the view that the Tax Court should be able to provide certainty in the interim. However, this is a matter that can only be addressed by the Parliament.
+[37] In this case the amounts calculated as the business use of the home expenses do not affect the taxes owing for 2003 or 2004, just as the PRA of the credit union did not affect its taxes owing for the year under appeal. As a result, there is no appeal in relation to the calculation of these amounts for 2003. The amount that can be claimed as the business use of the home in 2003 will be relevant any year in which it does affect the amount of taxes that would be payable by the Appellant.
+Disposition
+[38] The appeal under the Income Tax Act is allowed, in part, without costs and the matter is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the Appellant is entitled to claim capital cost allowance of $134.69 in 2004 in relation to the water conditioner. In all other respects, the appeal under the Income Tax Act is dismissed.
+[39] The appeal under the Excise Tax Act is allowed, in part, without costs, and the matter is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the Appellant is entitled to claim an input tax credit of $307.50 for the period ending December 31, 2003 in relation to the amount spent on clearing the land in Lower Sackville. In all other respects the appeal under the Excise Tax Act is dismissed.
+Signed at Halifax, Nova Scotia, this 11th day of June 2008.
+“Wyman W. Webb”
+Webb J.
+CITATION: 2008TCC343
+COURT FILE NO.: 2007-4721(IT)I
+STYLE OF CAUSE: LYNNE FOTHERBY AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Halifax, Nova Scotia
+DATE OF HEARING: May 13, 2008
+REASONS FOR JUDGMENT BY: The Honourable Justice Wyman W. Webb
+DATE OF JUDGMENT: June 11, 2008
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Kendrick Douglas
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

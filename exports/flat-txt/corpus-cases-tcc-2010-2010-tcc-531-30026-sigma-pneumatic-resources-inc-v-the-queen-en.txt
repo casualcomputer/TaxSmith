@@ -1,0 +1,110 @@
+Title: Sigma Pneumatic Resources Inc. v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30026/index.do
+Corpus path: corpus/cases/tcc/2010/2010-tcc-531-30026-sigma-pneumatic-resources-inc-v-the-queen-en.md
+Document type: case_law
+Last modified: 2010-10-20
+
+# Sigma Pneumatic Resources Inc. v. The Queen
+
+- Citation: 2010 TCC 531
+- Decision date: 2010-10-20
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7660, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Sigma Pneumatic Resources Inc. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-10-20
+Neutral citation
+2010 TCC 531
+File numbers
+2010-814(IT)I
+Judges and Taxing Officers
+Robert James Hogan
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2010-814(IT)I
+BETWEEN:
+SIGMA PNEUMATIC RESOURCES INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on June 1, 2010, at Toronto, Ontario.
+Before: The Honourable Justice Robert J. Hogan
+Appearances:
+Agent for the Appellant:
+Rafad Alam
+Counsel for the Respondent:
+Roxanne Wong
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessments made under the Income Tax Act with respect to the Appellant’s 2003 and 2004 taxation years is allowed, without costs, and the matter is referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the Reasons for Judgment attached hereto.
+Signed at Ottawa, Canada, this 20th day of October 2010.
+"Robert J. Hogan"
+Hogan J.
+Citation: 2010 TCC 531
+Date: 20101020
+Docket: 2010-814(IT)I
+BETWEEN:
+SIGMA PNEUMATIC RESOURCES INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Hogan J.
+Introduction
+[1] The Minister of National Revenue (the “Minister”), by notice of reassessment dated March 11, 2008 with respect to the Appellant’s 2003 taxation year (the “2003 reassessment”) and by notice of reassessment dated February 3, 2010 with respect to the Appellant’s 2004 taxation year (the “2004 reassessment”), increased the income tax liability of the Appellant through the addition of undeclared gross revenue and the disallowance of expenses. The Minister used, for the most part, the deposit method to achieve this result.
+[2] The issue to be determined in this appeal is whether or not the Minister overstated the Appellant’s income. The Appellant argues that the Minister overstated its revenue by $26,000 and $21,808.50 for the 2003 and the 2004 taxation years, respectively.
+[3] With respect to the 2003 taxation year, it appears that, after much confusion at trial, the Appellant’s position is that the Minister treated $16,000 in shareholders’ advances deposited in the Appellant’s account as undeclared gross revenue. Secondly, the Appellant argues that it should be allowed a deduction for salary of $10,000 paid to its principal shareholder. The Appellant claims that this amount was not claimed by it as an expense in the tax return filed for its 2003 taxation year.
+[4] With respect to the 2004 taxation year, the Appellant argues that the Minister was wrong to treat the amount of $16,000 shown on an invoice for an order that was not filled by the Appellant as undeclared gross revenue. Not surprisingly, counsel for the Respondent argues that the Minister’s reassessments are accurate and were made in conformity with the provisions of the Income Tax Act (Canada).
+[5] The evidence shows that the Appellant operated a procurement business. It was hired by foreign manufacturers and shipbuilding businesses located around the world to procure goods used in their operations. The Appellant worked with a corporation situated in Dubai, Qais Equipment & Systems Trading (L.L.C.), (“Qais”), owned by one of its other shareholders. Qais would seek out procurement contracts for the Appellant in the Middle East and Asia, which would be filled by the Appellant from manufacturing sources located in Canada, the United States and Europe.
+[6] In the years under review, the Appellant had one employee, Imamuddin Mohammed, the principal shareholder of the Appellant. Mr. Mohammed was an engineer who had undergone his training in India. According to this witness, the business was started in 2003 and the Appellant began filling procurement orders only in June of that year.
+[7] Mr. Mohammed identified documentary evidence entered as Exhibits A‑1 to A‑5. The witness claims that the document numbered page 33 of Exhibit A‑3 is evidence of a shareholder’s advance in the amount of US$9,975 received personally by him from one of the Appellant’s other shareholders located in Dubai, with instructions to deposit the amount in the Appellant’s bank account. Mr. Mohammed testified that initially he deposited the funds received from his co‑shareholder in his personal US dollar account with the TD Bank. He then transferred the funds to the Appellant’s account. The parties agreed that the applicable exchange rate in 2003 was 1.4 meaning that this deposit represents a shareholder’s advance of $13,966, if I accept the Appellant’s evidence on this matter. The witness claims that the balance of the shareholders’ advances at issue ($2,034) was made up of a number of small cash deposits.
+[8] With respect to the second point at issue for the 2003 taxation year, Mr. Mohammed claims he received a salary of $10,000 paid to him by the Appellant for services rendered in the Appellant’s 2003 taxation year. According to Mr. Mohammed, he reported this salary as employment income in his tax return for that year.
+[9] On cross‑examination, the witness admitted that he worked on a part‑time basis at a gas station on weekends. After much hesitation, he claimed that he earned approximately $150 to $200 a week from that activity, for a total of approximately $5,000 annually.
+[10] The last matter covered by Mr. Mohammed’s testimony was three invoices concerning the same purchase order that were treated, by the auditor assigned to complete the audit of the Appellant, as unreported gross revenue of US$16,750 earned by the Appellant in its 2004 taxation year. The parties agree that the Canadian dollar equivalent of this amount is $21,808.50. According to the witness, these three invoices (the “Shipbuilding Invoices”) related to a procurement order received from a shipbuilding company located in Sri Lanka called Columbo Dockyard.
+[11] According to Mr. Mohammed, Columbo Dockyard required electrical cables for use in ships that it was under contract to complete. Mr. Mohammed explained that all of the Appellant’s company’s invoices are prepared in advance in the name of Qais because that company is responsible for sourcing business for the Appellant in the Middle East and Asia. If the business did not originate with Qais, then, Mr. Mohammed claims, he would change the name on the invoice to the name of the client. According to the witness, the Appellant did not have the funds available to finance the goods required by the client, which pays for the order only 30 days after the shipping of the goods occurs. In the meantime, the Appellant is required to finance the purchase order out of its working capital. The manufacturer would not ship the goods unless they were fully paid for. Mr. Mohammed testified that Columbo Dockyard was an important client of the Appellant and that he was anxious to be helpful. Because the Appellant was unable to finance the purchase, Mr. Mohammed was obliged to find another, unrelated company, to fill the order. According to the witness, the Appellant received no revenue for its efforts in this regard. The Appellant relinquished the order to another procurement company to protect its goodwill with Columbo Dockyard.
+[12] Mr. Mohammed claims that in his discussion with the appeals officer assigned to the file he was led to believe that he should prepare a credit note to cancel out the gross revenue included by the auditor in the Appellant’s income with respect to the aborted Columbo Dockyard transaction. After he did so, he claims, the appeals officer changed her mind, suggesting instead that the amount should have been claimed as a bad debt.
+[13] Indra Kukabalan conducted the audit of the Appellant for the Canada Revenue Agency. It was unclear from her testimony why she adopted the deposit method to reconstruct the Appellant’s income for the years under review. She did not claim that the Appellant’s records were unreliable or, for that matter, that it received large unreported cash receipts.
+[14] The witness did explain that the Appellant forgot to convert US dollar revenue, which comprised the bulk of the revenue received in the years under review, into Canadian dollars when reporting its income in its tax return. The Appellant recognizes this important omission and does not contest Ms. Kukabalan’s calculation of additional revenue with respect to this particular amount.
+[15] Under the deposit method used by Ms. Kukabalan, all deposits in the Appellant’s bank account were treated as gross revenue unless she received a reasonable explanation justifying their not being treated as such. The Court noted from Ms. Kukabalan’s testimony that she did not use the deposit method to calculate the Appellant’s undeclared gross revenue for the 2004 taxation year. In fact, Ms. Kukabalan admitted during her testimony that she did not examine whether the Appellant actually received funds in connection with the Columbo Dockyard matter. She included the amount relating thereto in gross revenue because the Shipbuilding Invoices had not been formally cancelled in the Appellant’s records, and she did not believe Mr. Mohammed’s explanation that the order had not been filled.
+Analysis
+[16] It is a well‑established principle of Canadian tax law that the Minister may use alternative methods to determine if a taxpayer has failed to report all of its income. In the instant case, the Appellant has produced evidence which, although not perfect, establishes on a balance of probabilities that the Minister overestimated its gross revenue by $16,000 with respect to the 2003 taxation year by treating shareholders’ advances as undeclared revenue. The documentary evidence offered by Mr. Mohammed corroborates his testimony that $13,966, being the Canadian dollar equivalent of US$9,975, was deposited in the Appellant’s account from funds withdrawn from Mr. Mohammed’s account. The Appellant’s evidence, considered as a whole, including Mr. Mohammed’s testimony with respect to the small cash deposits, was more compelling than Ms. Kukabalan’s testimony on this matter.
+[17] The Court does not reach a similar conclusion with respect to Mr. Mohammed’s claim that he received $10,000 in employment income from the Appellant. He offered no explanation why the Appellant would have failed to claim the expense in its tax return as originally filed. In light of the evidence, it is obvious that the Appellant believed it was in a significant loss position in the 2003 taxation year. From the vantage point of Mr. Mohammed, it would have been preferable if he had received the payment in consideration of a reduction of his shareholder’s advance. Finally, Mr. Mohammed did admit on cross‑examination that he worked for another employer during the year. The Court has no way of knowing whether the $10,000 of employment income reported by him on his 2003 tax return pertains to amounts received from his other employment. The Court also takes note of the fact that he did not raise this issue at an earlier stage. Finally, the fact that Mr. Mohammed admitted only on cross‑examination that he had another source of employment income causes the Court to question the accuracy of his testimony on this matter.
+[18] Mr. Mohammed testified that the procurement order covered by the Shipbuilding Invoices was not filled because the Appellant did not have financing available to complete the purchase. Here again, while the evidence is not perfect on this point, the Court finds Mr. Mohammed’s testimony to be more compelling on this issue than that of Ms. Kukabalan. She admitted that she used the deposit method for the most part to determine the amount of the Appellant’s undeclared revenue. However, with respect to the Shipbuilding Invoices, she changed methodologies. She did not attempt to determine, under the other method, whether any funds were received by the Appellant. She did not examine the Appellant’s bank records for that period. Therefore, the Court is left with credible evidence on the one hand that the order was not filled and no probative evidence on the other hand that it was.
+[19] Counsel for the Respondent pointed out that a credit note was apparently prepared much later by Mr. Mohammed to cancel this order hand hinted that this may be tantamount to backdating. The Court accepts Mr. Mohammed’s evidence that the appeals officer led him astray by suggesting that this issue could be made to go away if he proceeded in that fashion. The appeals officer did not testify on this particular point and there is no direct rebuttal evidence that contradicts Mr. Mohammed’s testimony in that regard. Therefore, the Court concludes that the Appellant’s income was overstated in the 2004 reassessment by the amount shown on the relevant Shipbuilding Invoice.
+[20] The evidence does not allow me to conclude that any changes other than those which are consequential to the above should be made to the 2003 and 2004 reassessments.
+Conclusion
+[21] For all of these reasons, the 2003 and 2004 reassessments should be referred back to the Minister to be varied in accordance with the findings set out above. There will be no award of costs.
+Signed at Ottawa, Canada, this 20th day of October 2010.
+"Robert J. Hogan"
+Hogan J.
+CITATION: 2010 TCC 531
+COURT FILE NO.: 2010-814(IT)I
+STYLE OF CAUSE: SIGMA PNEUMATIC RESOURCES INC. v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: June 1, 2010
+REASONS FOR JUDGMENT BY: The Honourable Justice Robert J. Hogan
+DATE OF JUDGMENT: October 20, 2010
+APPEARANCES:
+Agent for the Appellant:
+Rafad Alam
+Counsel for the Respondent:
+Roxanne Wong
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada

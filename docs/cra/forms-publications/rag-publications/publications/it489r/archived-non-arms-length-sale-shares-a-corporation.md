@@ -1,0 +1,552 @@
+---
+title: "ARCHIVED - Non-Arm's Length Sale of Shares to a Corporation"
+source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it489r/archived-non-arms-length-sale-shares-a-corporation.html
+last_modified: 2017-11-07
+---
+# ARCHIVED - Non-Arm's Length Sale of Shares to a Corporation
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+[What the "Archived Content" notice means for interpretation bulletins](https://www.canada.ca/en/revenue-agency/services/forms-publications/what-archived-content-notice-means-interpretation-bulletins.html)
+
+NO: **IT-489R**
+
+DATE: February 28, 1994
+
+SUBJECT: INCOME TAX ACT**Non-Arm's Length Sale of Shares to a Corporation**
+
+REFERENCE: Sections 84.1 and 212.1 (also subsections 84(3), 85(1), 186(2) and (4), 245(2), 248(5) and 252(4) and paragraphs 70(10)(a) and 89(1)(c))
+
+APPLICATION
+
+This bulletin cancels and replaces Interpretation Bulletin IT-489 dated June 23, 1982 and its Special Release dated June 7, 1985. The discussion of section 84.1 is restricted to dispositions of shares made after May 22, 1985. Where it is necessary to determine the application of that section for dispositions of shares made before May 23, 1985, please refer to the law itself.
+
+SUMMARY
+
+The provisions of the Act discussed in this bulletin apply where there has been a disposition in a non-arm's length transaction, of shares of a corporation resident in Canada to another corporation. The provisions are intended to prevent the removal of taxable surpluses as a tax-free return of capital. Where the provisions apply either one or both of the following may result:
+
+- there may be a reduction of the paid-up capital of the transferee corporation or
+
+- the transferee corporation may be deemed to have paid a dividend to the transferor taxpayer.
+
+While the deemed dividend is taxable immediately to the transferor taxpayer, the reduction in the paid-up capital of the shares of the transferee corporation has the effect of preserving the potential for deemed dividends on the redemption of those shares that was inherent in the shares transferred.
+
+The effect of the provisions of section 84.1 will not apply to a resident of Canada where the sum of the non-share consideration and the paid-up capital of the share consideration does not exceed the greater of
+
+- the paid-up capital of the transferred shares, and
+
+- the transferor's "arm's length adjusted cost base" of the transferred shares.
+
+The effect of the provisions of section 212.1 will not apply to a non-resident where the sum of the non-share consideration and the paid-up capital of the share consideration does not exceed the paid-up capital of the transferred shares.
+
+The provisions may apply whether or not a roll-over provision e.g., subsection 85(1), applies to the transaction.
+
+DISCUSSION AND INTERPRETATION
+
+DEFINITIONS:
+
+For the purposes of this bulletin: Stated capital is the paid-up capital determined pursuant to the corporations act under which the corporation was incorporated; thus it is determined without reference to any provisions of the Act, including paragraphs 84.1(1)(a) and 212.1(1)(b). See the current version of IT-463, Paid-up Capital, for a discussion of that topic.
+
+Non-share consideration means all the consideration received by the vendor other than newly issued shares of the purchaser corporation.
+
+Paragraphs 1 - 12 and 20 discuss the provisions of the Income Tax Act that apply where the vendor is an unincorporated taxpayer resident in Canada.
+
+SECTION 84.1
+
+1. Section 84.1 contains rules concerning a non-arm's length disposition of shares to a corporation for consideration which generally includes shares of the corporation. For the section to be applicable, the following conditions must be satisfied:
+
+(a) a taxpayer resident in Canada (other than a corporation) disposes of shares (the "subject shares");
+
+(b) the subject shares are of any class of the capital stock of a corporation resident in Canada (the "subject corporation");
+
+(c) the subject shares are capital property of the taxpayer;
+
+(d) the disposition is to a corporation (the "purchaser corporation") with which the taxpayer does not deal at arm's length (within the meaning of section 251 as expanded upon by paragraphs 84.1(2)(b) and (d) - see 2 below); and
+
+(e) immediately after the disposition, the subject corporation is connected (within the meaning of subsection 186(4) on the assumption that the references to "payer corporation" and "particular corporation" in that subsection were read as "subject corporation" and "purchaser corporation" respectively - see 3 below) with the purchaser corporation.
+
+2. Paragraph 84.1(2)(b) deems a taxpayer not to deal at arm's length with the purchaser corporation if
+
+(a) the taxpayer was, immediately before the disposition, one of a group of less than 6 persons who controlled the subject corporation, and
+
+(b) the taxpayer was, immediately after the disposition, one of a group of less than 6 persons who controlled the purchaser corporation, and all members of the group that controlled the subject corporation immediately before the disposition are members of the group that controlled the purchaser corporation after the acquisition.
+
+In applying this provision for dispositions occurring after July 13, 1990 the shares of the capital stock of the corporation owned by
+
+(c) the taxpayer's child (within the meaning assigned by paragraph 70(10)(a)), who is under 18 years of age,
+
+(d) the taxpayer's spouse,
+
+(e) a trust of which the taxpayer, a person described in (c) or (d) above or a corporation described in (f) below is a beneficiary, or
+
+(f) a corporation controlled by the taxpayer, a person described in (c) or (d) above, a trust described in (e) above or any combination of such taxpayer, persons and trusts
+
+are deemed by paragraph 84.1(2)(c) to be owned by the taxpayer and not owned by the person who actually owned the shares at that time.
+
+(Paragraph 70(10)(a) defines "child" to include a grandchild and great- grandchild as well as a person who is under 19 years of age and who is wholly dependent on the taxpayer for support and is in the custody and control of the taxpayer. Subsection 252(1) further extends the meaning of child for the purposes of the Act. See the current version of IT-513, Personal Tax Credits, for a discussion of that subsection.)
+
+(Subsection 252(4), which applies after 1992, expands the meaning of spouse to include a person of the opposite sex who at a particular time lives with the taxpayer in a conjugal relationship and either has so lived with the taxpayer throughout a 12-month period ending before that time, or the two individuals are the parents of the same child.)
+
+Note: On August 30, 1993 the Minister of Finance issued Amendments to the Income Tax Act and Related Statutes. Explanatory notes were issued which elaborate on the proposed changes. The Explanatory notes describe that subsection 252(4) will be amended to ensure that where the two individuals are considered to be spouses because they are the parents of the same child, they will be so considered only if they are the natural or adoptive parents of that child. If enacted as proposed the amendment will apply after 1992.
+
+In applying paragraph 84.1(2)(b) for dispositions occurring after December 20, 1991, paragraph 84.1(2)(e) provides that
+
+(g) in determining whether a corporation is controlled by a group of persons, a group for that corporation means any two or more persons each of whom owns shares of the corporation,
+
+(h) a corporation can be considered to be controlled by a person or particular group of persons notwithstanding that the corporation is also controlled by another person or group of persons, and
+
+(i) a group controls a corporation notwithstanding that one member of that group has control of the corporation.
+
+As a consequence of (h) a corporation can be considered to be controlled at the same time by several persons or groups of persons.
+
+In applying paragraph 84.1(2)(b) for dispositions occurring before July 14, 1990 the shares of the capital stock of the corporation owned by
+
+(j) the taxpayer's spouse,
+
+(k) an inter vivos trust of which one or more of the taxpayer, the taxpayer's spouse or a corporation described in (l) below is a beneficiary, or
+
+(l) a corporation controlled by one or more of the taxpayer, the taxpayer's spouse or a trust described in (k) above are deemed by paragraph 84.1(2)(c) to be owned by the taxpayer and not owned by the person who actually owned the shares at that time.
+
+Paragraph 84.1(2)(d) provides that for dispositions occurring after July 13, 1990 a trust and a beneficiary of the trust or a person related to a beneficiary of the trust are deemed not to deal with each other at arm's length. Thus where a trust disposes of capital property being the shares of a subject corporation to a purchaser corporation that is controlled by beneficiaries of the trust, the trust and the purchaser corporation will not deal at arm's length.
+
+3. Pursuant to subsection 186(4), as modified by subsection 84.1(1), a subject corporation is "connected" with the purchaser corporation if
+
+(a) as described in 4 below, the purchaser corporation controls (otherwise than by virtue of a right described in paragraph 251(5)(b)) the subject corporation or
+
+(b) the purchaser corporation owns more than 10 per cent of the issued share capital (having full voting rights under all circumstances) of the subject corporation which shares, together with any other of the subject corporation's shares owned by the purchaser corporation, have a fair market value greater than 10 per cent of the fair market value of all the issued shares of the subject corporation.
+
+4. Pursuant to subsection 186(2), a subject corporation is considered to be controlled by a purchaser corporation if more than 50 per cent of the issued share capital having full voting rights belongs to
+
+(a) the purchaser corporation,
+
+(b) persons not dealing at arm's length with the purchaser corporation, or
+
+(c) the purchaser corporation and persons not dealing at arm's length with the purchaser corporation.
+
+The provisions referred to in 2 above regarding "not dealing at arm's length" do not apply for the purposes of subsection 186(2).
+
+5. The effect of the provisions of section 84.1 will not apply as long as the sum of the non-share consideration and the paid-up capital of the share consideration does not exceed the greater of
+
+(a) the paid-up capital of the subject shares and
+
+(b) the transferor's "arm's length adjusted cost base" (see 8 below) of the subject shares.
+
+PAID-UP CAPITAL REDUCTION
+
+6. Paragraph 84.1(1)(a) provides for a paid-up capital reduction for each class of shares of the purchaser corporation from which shares were issued as consideration for the acquisition of subject shares. The paid-up capital reduction is the resulting increase in the stated capital of all the shares of the purchaser corporation issued as consideration less the excess, if any, of
+
+(a) the greater of
+
+(i) the paid-up capital of the subject shares and
+
+(ii) the transferor's arm's length adjusted cost base (see 8 below) of the subject shares in either case determined immediately before the disposition over
+
+(b) the fair market value, immediately after the disposition, of any non-share consideration paid by the purchaser corporation for the subject shares.
+
+Where more than one class of shares is issued in a transaction to which section 84.1 applies, the paid-up capital reduction is prorated over the classes of shares that were issued on the transfer on the basis of the increase in the stated capital of each class of shares issued. See 9 below for examples of the operation of paragraph 84.1(1)(a).
+
+DEEMED DIVIDEND
+
+7. Paragraph 84.1(1)(b) deems the purchaser corporation to have paid a dividend to the transferor and the transferor to have received that dividend where the aggregate of the amount of the total increase in the stated capital of all the purchaser's shares arising as a result of the issue of those shares on the transfer and the fair market value, determined immediately after the disposition, of the non-share consideration given by the purchaser for the subject shares exceeds the total of
+
+(a) the greater of
+
+(i) the transferor's "arm's length adjusted cost base" (see 8 below) of the subject shares and
+
+(ii) the paid-up capital of the subject shares in either case determined immediately before the disposition, and
+
+(b) the total paid-up capital reductions required to be made by the purchaser corporation (as described in 6 above).
+
+See 9 below for examples of the operation of paragraph 84.1(1)(b).
+
+ARM'S LENGTH ADJUSTED COST BASE
+
+8. The "arm's length adjusted cost base" referred to above is determined pursuant to the rules set out in paragraphs 84.1(2)(a) and (a.1). Paragraph 84.1(2)(a) applies to subject shares acquired by the transferor before 1972 and deems the adjusted cost base to be the aggregate of
+
+(a) the amounts that would be the adjusted cost base if the Income Tax Application Rules, 1971 (the ITAR) were read without reference to subsections 26(3) and (7) of the ITAR (that is, the "median" rule and the fair market value election) and
+
+(b) dividends received on the shares by the transferor after 1971 on which an election was made under subsection 83(1) by the corporation which paid the dividend.
+
+Accordingly, where the subject shares were acquired by the transferor before 1972, any accrued gain to Valuation Day is ignored and dividends paid out of tax-paid undistributed surplus or 1971 capital surplus are added back in determining the transferor's adjusted cost base of the subject shares for the purposes of determining any paid-up capital reduction or immediate deemed dividend under subsection 84.1(1).
+
+Paragraph 84.1(2)(a.1) applies to a subject share acquired by the transferor after 1971 from a person with whom the transferor was not dealing at arm's length, or to a share substituted for such a share, or to a share substituted for a share owned by the transferor at the end of 1971. The adjusted cost base of any such subject share is the amount, if any, by which the adjusted cost base, otherwise determined, exceeds the aggregate of
+
+(c) where the share or a share for which the share was substituted (the substituted share) was owned at the end of 1971 by the transferor or a person with whom the transferor did not deal at arm's length, the excess of the fair market value of the share or the substituted share, as the case may be, on Valuation Day over the aggregate of
+
+(i) the actual cost on January 1, 1972 of the share or the substituted share to the transferor or the person with whom the transferor did not deal at arm's length and
+
+(ii) dividends received on the share or the substituted share by the transferor or the non-arm's length person after 1971 on which an election was made under subsection 83(1) by the corporation which paid the dividend
+
+and
+
+(d) the aggregate of all amounts determined after 1984 under subparagraph 40(1)(a)(i) to be capital gains (or such lesser amount as is established by the transferor to be the amount in respect of which a deduction was claimed under section 110.6) for previous dispositions of the share or the substituted share by the transferor or an individual with whom the transferor did not deal at arm's length.
+
+Paragraph 84.1(2)(a.2) deems that, for purposes of paragraph 84.1(2)(a.1), a transferor and a corporation do not deal at arm's length when a corporation issues to the transferor previously unissued shares of the corporation. Also, in Estate of Karna May v MNR (88 DTC 1189, (1988) 1 CTC 2303) the Tax Court of Canada found that the transfer of shares from a deceased to the estate of the deceased was not an arm's length transaction. For further comments on arm's length, see the current version of IT-419, Meaning of Arm's Length.
+
+By virtue of subsection 248(5) the phrase "... a share substituted for a share owned by the taxpayer ..." found in paragraph 84.1(2)(a.1) is not limited to one substitution but will apply to any substitution and to shares received as stock dividends on another share.
+
+The above described adjustments ensure that a transferor will be able to obtain from a corporation, without tax consequences, assets equal to the transferor's arm's length cost of the share plus or minus any adjustments to the adjusted cost base of the share that are provided for in the Act.
+
+Example
+
+The only outstanding shares of Opco, a small business corporation, are common shares. The shares are owned as follows: Mr. A Jr 40 Mrs. A Jr 20 Mr. X 40
+
+Mr. and Mrs. A Jr are husband and wife. In 1967, Mr. A Jr purchased 40 of the common shares at arm's length for $60,000. In 1988, Mrs. A Jr purchased 20 common shares at their fair market value (FMV) of $500,000 from Mr. A Sr, her father-in-law. (Mr. A Sr deducted $66,667 under subsection 110.6(3) in respect of $100,000 of gain on this sale.) Mr. A Sr had acquired the 20 common shares in 1967 at arm's length for $30,000. At December 31, 1971 (V-Day) the fair market value of Mr. A Jr's 40 shares in Opco was $150,000 while his father's 20 shares had a fair market value of $75,000. In 1975, Opco paid dividends of $50,000 and elected on them under subsection 83(1).
+
+For the purposes of section 84.1, the adjusted cost base (ACB) of the shares of Mr. and Mrs. A Jr are as follows:
+
+| Mr. A Jr: |  |  |  |
+
+| --- | --- | --- | --- |
+
+| ACB without reference to ITAR 26(3) and (7) |  |  | *$40,000 |
+
+| Plus: Subsection 83(1) dividends |  |  | 20,000 |
+
+|  |  |  | -------- |
+
+| ACB pursuant to paragraph 84.1(2)(a) |  |  | $60,000 |
+
+|  |  |  | ======= |
+
+| Mrs. A Jr: |  |  |  |
+
+| ACB otherwise determined |  |  | $500,000 |
+
+| Exceeds the aggregate of |  |  |  |
+
+| (i) The FMV on V-Day |  | $75,000 |  |
+
+| Exceeds the aggregate of |  |  |  |
+
+| Actual Cost on Jan. 1, 1972 | $30,000 |  |  |
+
+| Subsection 83(1) dividends | 10,000 | 40,000 |  |
+
+|  | -------- | ------- |  |
+
+|  |  | 35,000 |  |
+
+| and |  |  |  |
+
+|  |  |  |  |
+
+|  |  |  |  |
+
+|  |  |  |  |
+
+| (ii) The deduction in respect of section 110.6 |  |  |  |
+
+|  |  | 100,000 | 135,000 |
+
+|  |  | -------- | -------- |
+
+| ACB pursuant to paragraph 84.1(2)(a.1) |  |  |  |
+
+|  |  |  | $365,000 |
+
+|  |  |  | ========= |
+
+* Pursuant to subparagraph 53(2)(a)(i), the ACB of $40,000 results from the reduction of the cost ($60,000) by the amount of the subsection 83(1) dividends ($20,000).
+
+Subsection 84.1(2.1), applicable to dispositions after July 13, 1990, provides a special rule for the purposes of subparagraph 84.1(2)(a.1) (ii) (as described in (d) above). Subsection 84.1(2.1) applies where the transferor or an individual who does not deal at arm's length with the transferor disposes of a share in a taxation year and claims a capital gains reserve under subparagraph 40(1)(a)(iii) on that disposition. The subsection treats the transferor as having claimed, for the year in which the disposition took place, a capital gains deduction on the disposition. The effect of this rule is to allow the adjusted cost base of a share to be increased on a non-arm's length transfer only to the extent that any capital gain arising on that transfer was taxed.
+
+9. Examples of the operation of 6 and 7 above:
+
+Mr. X, an individual resident in Canada, sold all of the shares of Xco to Holdco X (a corporation in which he owned all of the shares). Xco is a corporation resident in Canada. The shares of Xco have a paid-up capital of $10,000 and Mr. X's adjusted cost base of the shares is $9,000. In exchange for the shares of Xco, Mr. X received:
+
+Example I: Shares of a new class of Holdco X with a paid-up capital of $10,000. (This example illustrates that the provisions of paragraphs 84.1(1)(a) and (b) do not apply where the vendor receives only share consideration having a paid-up capital equal to the paid-up capital of the shares transferred.)
+
+Example II: Shares of a new class of Holdco X with a paid-up capital of $15,000. (This example illustrates the application of paragraph 84.1(1)(a) - the paid-up capital of the share consideration issued to the vendor is reduced to the paid-up capital of the shares that were transferred.)
+
+Example III: Shares of a new class of Holdco X with a paid-up capital of $1 and non-share consideration of $9,999. (This example illustrates that there are no tax consequences under section 84.1 where the taxpayer receives non-share consideration and shares and the sum of the non-share consideration and the increase in paid-up capital of the purchaser corporation as a result of the issue of the share consideration does not exceed the paid-up capital of the shares transferred.)
+
+Example IV: Shares of a new class of Holdco X with a paid-up capital of $1 and non-share consideration of $14,999. (This example illustrates the application of paragraphs 84.1(1)(a) and (b) where the consideration received consists of shares having a nominal paid-up capital and non-share consideration in excess of both the paid-up capital and adjusted cost base of the subject shares.)
+
+|  |  | I | II | III | IV |
+
+| --- | --- | --- | --- | --- | --- |
+
+| A | Paid-up capital of Holdco X shares issued for Xco shares | $10,000 | $15,000 | $ 1 | $ 1 |
+
+| B | Paid-up capital of Xco shares | 10,000 | 10,000 | 10,000 | 10,000 |
+
+| C | Adjusted Cost Base of Xco shares | 9,000 | 9,000 | 9,000 | 9,000 |
+
+| D | Non-share consideration issued for Xco shares | nil | nil | 9,999 | 14,999 |
+
+|  |  |  |  |  |  |
+
+| Paid-up Capital Reduction |  |  |  |  |  |
+
+|  | Amount A | 10,000 | 15,000 | 1 | 1 |
+
+|  | Exceeds: Amount by which greater of B and C exceeds D | 10,000 | 10,000 | 1 | nil |
+
+|  |  | --------- | -------- | -------- | ------- |
+
+| E | Paid-up capital reduction | nil | 5,000 | nil | 1 |
+
+|  |  | ======== | ======== | ======== | ========= |
+
+|  |  |  |  |  |  |
+
+|  |  |  |  |  |  |
+
+|  |  |  |  |  |  |
+
+|  |  |  |  |  |  |
+
+| Paid-up Capital after Reduction |  |  |  |  |  |
+
+|  | Amount A minus Amount E | 10,000 | 10,000 | 1 | nil |
+
+|  |  | ======== | ========= | ======== | ========= |
+
+|  |  |  |  |  |  |
+
+| Immediate Deemed Dividend |  |  |  |  |  |
+
+|  | Aggregate of A and D | 10,000 | 15,000 | 10,000 | 15,000 |
+
+|  | Exceeds: Aggregate of E and the greater of B and C | 10,000 | 15,000 | 10,000 | 10,001 |
+
+|  |  |  |  |  |  |
+
+|  |  |  |  |  |  |
+
+|  |  |  |  |  |  |
+
+|  |  | -------- | -------- | -------- | ------- |
+
+|  | Immediate Deemed Dividend | nil | nil | nil | 4,999 |
+
+|  |  | ======= | ======== | ======== | ======== |
+
+Mr. Y, an individual resident in Canada, sold all of the shares of Yco to Holdco Y, (a corporation in which he owned all of the shares). Yco is a corporation resident in Canada. The shares of Yco have a paid-up capital of $10,000 and Mr. Y's adjusted cost base of the shares is $15,000. In exchange for the shares of Yco, Mr. Y received:
+
+Example I - shares of a new class of Holdco Y with a paid-up capital of $15,000. (This example illustrates that the provisions of paragraphs 84.1(1)(a) and (b) do not apply where the vendor receives share consideration having a paid-up capital equal to the vendor's adjusted cost base of the shares transferred even though that amount is in excess of the paid-up capital of the transferred shares.)
+
+Example II - shares of a new class of Holdco Y with a paid-up capital of $10,000 and non-share consideration of $5,000. (This example illustrates the receipt of some non-share consideration without causing a reduction in the paid-up capital under paragraph 84.1(1)(a).)
+
+Example III - shares of a new class of Holdco Y with a paid-up capital of $10,000 and non-share consideration of $9,999. (This example illustrates the receipt of a greater amount of non-share consideration than in Example II above resulting in the application of paragraph 84.1(1)(a).)
+
+Example IV - shares of a new class of Holdco Y with a paid-up capital of $15,000 and non-share consideration of $19,999. (This example illustrates the application of both paragraphs 84.1(1)(a) and (b) as a consequence of the receipt of shares with a high paid-up capital and non-share consideration.)
+
+|  |  | I | II | III | IV |
+
+| --- | --- | --- | --- | --- | --- |
+
+|  |  |  |  |  |  |
+
+|  |  |  |  |  |  |
+
+|  |  |  |  |  |  |
+
+| A | Paid-up capital of Holdco Y shares issued for Yco shares | $15,000 | $10,000 | $10,000 | $15,000 |
+
+| B | Paid-up capital of Yco shares | 10,000 | 10,000 | 10,000 | 10,000 |
+
+| C | Adjusted Cost Base of Yco shares | 15,000 | 15,000 | 15,000 | 15,000 |
+
+| D | Non-share consideration issued for Yco shares | nil | 5,000 | 9,999 | 19,999 |
+
+|  |  |  |  |  |  |
+
+| Paid-up Capital Reduction |  |  |  |  |  |
+
+|  | Amount A | 15,000 | 10,000 | 10,000 | 15,000 |
+
+|  | Exceeds: Amount by which greater of B and C exceeds D | 15,000 | 10,000 | 5,001 | nil |
+
+|  |  | -------- | ------- | ------ | ------- |
+
+| E | Paid-up capital reduction | nil | nil | 4,999 | 15,000 |
+
+|  |  |  |  |  |  |
+
+|  |  |  |  |  |  |
+
+|  |  |  |  |  |  |
+
+|  |  | ======= | ======= | ======= | ======= |
+
+|  |  |  |  |  |  |
+
+|  |  |  |  |  |  |
+
+|  |  |  |  |  |  |
+
+|  |  |  |  |  |  |
+
+|  |  |  |  |  |  |
+
+|  |  |  |  |  |  |
+
+|  |  |  |  |  |  |
+
+| Paid-up Capital after Reduction |  |  |  |  |  |
+
+|  | Amount A minus Amount E | 15,000 | 10,000 | 5,001 | nil |
+
+|  |  | ======= | ======= | ======= | ======= |
+
+|  |  |  |  |  |  |
+
+| Immediate Deemed Dividend |  |  |  |  |  |
+
+|  | Aggregate of A and D | 15,000 | 15,000 | 19,999 | 34,999 |
+
+|  | Exceeds: Aggregate of E and the greater of B and C | 15,000 | 15,000 | 19,999 | 30,000 |
+
+|  |  | ------- | ------- | ------- | ------- |
+
+|  | Immediate Deemed Dividend | nil | nil | nil | 4,999 |
+
+|  |  | ======= | ======= | ======= | ======= |
+
+The above examples illustrate the application of subsection 84.1(1) in isolation from other provisions in the Act. If the total consideration paid is not equal to the fair market value of the shares disposed of, paragraphs 69(1)(a) and (b) must be considered. Where the purchaser corporation is a taxable Canadian corporation, paragraph 69(1)(b) will not apply if an election under subsection 85(1) is filed for the disposition. In Examples III and IV above, Mr. X cannot elect under subsection 85(1) at the adjusted cost base of his shares in Xco because the election cannot be made at an amount less than the non-share consideration paid to him. For the same reason, Mr. Y in Example IV cannot elect under subsection 85(1) at an amount equal to the adjusted cost base of his Yco shares. Where an election under subsection 85(1) has been made and other shareholders of Holdco are related to the taxpayer who transfers property to Holdco, paragraph 85(1)(e.2) must also be considered. For a further discussion of subsection 85(1), see the current version of IT-291, Transfer of Property to a Corporation under Subsection 85(1). Where proceeds of disposition exceed the adjusted cost base of the property disposed of, a capital gain arises - however, see 12 below.
+
+ADDITIONAL COMMENTS ON SECTION 84.1
+
+10. The amount of any deduction from the paid-up capital of a class of shares as a result of the application of paragraph 84.1(1)(a) is relevant, pursuant to clause 89(1)(c)(ii)(C), in determining paid-up capital immediately after the disposition of the subject shares and represents a permanent deduction from paid-up capital. It is not possible to eliminate such a deduction by reducing the stated capital of the shares of the purchaser corporation subsequent to the disposition. Further, the deduction from paid-up capital becomes an attribute, for tax purposes, of that class of shares which continues to exist even after a disposition of the shares by the transferor of the subject shares. Thus a purchaser of such shares will find that the paid-up capital for tax purposes is lower than the stated capital. However, subsection 84.1(3) provides for an increase in the paid-up capital where paragraph 84.1(1)(a) previously applied to reduce the paid-up capital of a class of shares and shares of that class are subsequently redeemed, acquired or cancelled (as described in subsection 84(3)) or their paid-up capital is reduced (as described in subsection 84(4) or (4.1)). Subsection 84.1(3) increases the paid-up capital of that class by the lesser of
+
+(a) the excess of the aggregate of all amounts deemed to be dividends pursuant to subsection 84(3), (4) or (4.1) paid after May 22, 1985 on shares of the class over the amount that would have been deemed to be a dividend under those subsections were it not for the previous operation of paragraph 84.1(1)(a) and
+
+(b) the amount that was previously deducted under paragraph 84.1(1)(a) in computing the paid-up capital of the class after May 22, 1985.
+
+Example
+
+In 1986, Mr. Z transferred all of the shares of Zco (having a paid-up capital and adjusted cost base to him of $6,000) to Z Holdco (a corporation wholly owned by his wife) in exchange for all (being 100) of its Class A common shares with a stated capital of $10,000. Pursuant to paragraph 84.1(1)(a), the paid-up capital of the Class A common shares of Z Holdco was reduced to $6,000 (or $60 per share) as a result of the share exchange. In 1988, Z Holdco repurchased 25 of the Class A common shares at their fair market value of $4,000 (or $160 per share). The increase in paid-up capital under subsection 84.1(3) would be equal to the lesser of:
+
+| (a) Excess of |  |
+
+| --- | --- |
+
+| (i) Deemed dividend under subsection 84(3): |  |
+
+| 25($160 - $60) = | $2,500 |
+
+| over |  |
+
+| (ii) Deemed dividend had subsection |  |
+
+| 84.1(1)(a) not applied: 25($160 - 100) = | 1,500 |
+
+|  | ------- |
+
+|  | 1,000 |
+
+|  | ======= |
+
+| (b) Previously deducted under paragraph |  |
+
+| 84.1(1)(a) | 4,000 |
+
+|  | ======= |
+
+As a result of the repurchase of the Class A common shares, the stated capital of those shares will be reduced under the relevant corporation act. The reduction is generally the repurchased shares' proportion of the stated capital of all the shares of the class. Thus the stated capital would be $7,500 being the original stated capital of $10,000 less the reduction of $2,500 (25/100 of $10,000). The paid-up capital immediately after the repurchase would be $3,500 calculated as $7,500 (the stated capital) less $4,000 (the permanent paid-up capital reduction under paragraph 84.1(1)(a)). The application of subsection 84.1(3) would increase the paid-up capital of those shares by $1,000 thereby restoring the paid-up capital for tax purposes of the remaining 75 shares to $4,500 or $60 per share. Thus subsection 84.1(3) ensures that the reduction in paid-up capital under section 84.1 is subject to dividend treatment only once.
+
+11. Events subsequent to the disposition which have the effect of increasing the paid-up capital of the particular shares will not result in further reductions in the paid-up capital under paragraph 84.1(1)(a).
+
+Therefore, where paragraph 84.1(1)(a) had no effect at the time of the disposition, as a result of careful attention being paid to the paid-up capital of the consideration received, a subsequent increase in the paid-up capital of the particular shares (perhaps due to the averaging effect of issuing additional shares of the same class at a higher issued or stated capital per share) will not result in a reduction under paragraph 84.1(1)(a).
+
+12. For capital gains purposes, an amount deemed to be a dividend under subsection 84.1(1) is excluded from the proceeds of disposition by virtue of subparagraph 54(h)(xi). This could result in the transferor incurring a capital loss on the disposition of the subject shares but the loss may be disallowed under subsection 85(4).
+
+The following paragraphs discuss the provisions of the Income Tax Act where the vendor is a non-resident person.
+
+SECTION 212.1
+
+13. Section 212.1 contains rules concerning a non-arm's length disposition of shares of a Canadian corporation to another Canadian corporation. This section can result in an immediate dividend to a non-resident person or a deduction from the paid-up capital of each class of shares received by the non-resident person as consideration, or both an immediate deemed dividend and a deduction from paid-up capital. For the section to be applicable, the following conditions must be satisfied:
+
+(a) a non-resident person (including a non-resident corporation and, after February 9, 1988, a non-resident-owned investment corporation) disposes of shares (the "subject shares");
+
+(b) the subject shares are of any class of the capital stock of a Canadian corporation (the "subject corporation");
+
+(c) the disposition is to another Canadian corporation (the "purchaser corporation") with which the non-resident person does not deal at arm's length within the meaning of section 251 as clarified by subsection 212.1(3) (see 14 below) but otherwise than by virtue of a right referred to in paragraph 251(5)(b); and
+
+(d) immediately after the disposition, the subject corporation is connected (within the meaning of subsection 186(4) on the assumption that the references to "payer corporation" and "particular corporation" in that subsection were read as "subject corporation" and "purchaser corporation" respectively - see 14 below) with the purchaser corporation.
+
+14. The provisions of subsection 212.1(3) are quite similar to those of paragraphs 84.1(2)(b), (c), (d) and (e); accordingly the comments in 2above should be read with the appropriate changes in references to theIncome Tax Act to gain an understanding of subsection 212.1(3). Thecomments in 3 and 4 above as well as those concerning subsection 85(1)and paragraphs 69(1)(a) and (b) following the examples in 9 above applyequally to a discussion of the provisions affecting section 212.1.Similarly, the comments in 11 and 12 above should be read with theappropriate changes in references to the Income Tax Act regardingsubsection 212.1(1). In 12 above the capital loss may be disallowed by virtue of paragraph 40(2)(e) as well as subsection 85(4).
+
+15. By virtue of subsection 212.1(4), section 212.1 does not apply to a disposition by a non-resident corporation of shares of a subject corporation to a purchaser corporation that immediately before the disposition controlled the non-resident corporation.
+
+16. Where section 212.1 applies, paragraph 212.1(1)(a) deems the purchaser corporation to have paid a dividend and the non-resident person to have received a dividend in an amount equal to the amount by which the fair market value of the non-share consideration paid to the non-resident for the subject shares exceeds the paid-up capital of those shares immediately before the disposition. Paragraph 212.1(1)(b) provides for a paid-up capital reduction for each class of shares of the purchaser corporation from which shares were issued as consideration on the acquisition of subject shares. The paid-up capital reduction is an amount equal to the increase in the stated capital of the shares of the purchaser corporation arising as a result of the acquisition of the subject shares minus the excess of the paid-up capital of the subject shares immediately before the disposition over the fair market value of any non-share consideration paid by the purchaser corporation for the subject shares.
+
+17. An immediate deemed dividend under paragraph 212.1(1)(a) will not result where the fair market value of the non-share consideration received from the purchaser corporation is not greater than the paid-up capital of the subject shares. Neither an immediate deemed dividend under paragraph 212.1(1)(a) nor a deduction from paid-up capital under paragraph 212.1(1)(b) will result as long as either
+
+(a) the total of the fair market value of the non-share consideration and the increase, by virtue of the disposition, in the stated capital of all the shares of the purchaser corporation does not exceed the paid-up capital of the subject shares or
+
+(b) the only consideration for the subject shares is shares of the capital stock of the purchaser corporation having a stated capital equal to the paid-up capital of the subject shares.
+
+Where an election under subsection 85(1) is made for the transaction, it would still be necessary to carefully select the consideration if subsection 212.1(1) is not to apply in whole or in part.
+
+18. For the purpose of illustrating the points in 17 above, it will be assumed that a disposition of a subject share, having a paid-up capital of $1, an adjusted cost base to the non-resident of $5, and a fair market value of $15, is subject to section 212.1 and the parties elect under subsection 85(1) at an agreed amount of $5.
+
+(a) If the consideration is the issuance of shares of the capital stock of the purchaser corporation having an aggregate paid-up capital of $1, there would be no immediate deemed dividend and no deduction from paid-up capital under subsection 212.1(1).
+
+(b) If the consideration is the issuance of shares of the capital stock of the purchaser corporation having an aggregate paid-up capital of $15, the paid-up capital of this class of shares would be reduced by $14 under paragraph 212.1(1)(b).
+
+(c) If the consideration is $5 cash and the issuance of shares of the capital stock of the purchaser corporation having an aggregate paid-up capital of $10, there would be an immediate dividend, subject to Part XIII tax, of $4 under paragraph 212.1(1)(a) and a deduction of $10 from the paid-up capital of this class of shares under paragraph 212.1(1)(b).
+
+19. The introductory comments in 10 above are generally applicable to section 212.1; however, it is subsection 212.1(2) that provides for amounts to be added back to the paid-up capital of the class when and to the extent that a deemed dividend (received by a non-resident-owned investment corporation or a person other than a corporation resident in Canada) under subsection 84(3), (4), or (4.1) results from the prior deduction in paid-up capital under paragraph 212.1(1)(b).
+
+ANTI-AVOIDANCE PROVISIONS
+
+20. Where a transaction or series of transactions is considered to result in the avoidance of the application of subsection 84.1(1) or 212.1(1), consideration was given to the application of subsection 55(1) and 247(1), prior to their repeal. Since the amendment to subsection 245(2) (effective generally on September 13, 1988), the application of that subsection will be considered if the transaction is an avoidance transaction as defined in subsection 245(3) and the transaction or, if the transaction is part of a series of transactions, the series of transactions is carried out to circumvent the purpose of section 84.1 or 212.1 or the provisions of the Act as a whole (see the current version of Information Circular 88-2, General Anti-Avoidance Rule and related supplements).
+
+If you have any comments regarding the matters discussed in this bulletin, please send them to:
+
+Director, Technical Publications Division Legislative and Intergovernmental Affairs Branch Revenue Canada - Customs, Excise and Taxation 875 Heron Road Ottawa, Ontario K1A 0L8
+
+## Explanation of Changes for Interpretation Bulletin IT-489R Non-Arm's Length Sale of Shares to a Corporation
+
+INTRODUCTION
+
+The purpose of the Explanation of Changes is to give the reasons for the revisions to an interpretation bulletin. It outlines revisions that we have made as a result of changes to the law, as well as changes reflecting new or revised departmental interpretations.
+
+OVERVIEW
+
+The bulletin describes sections 84.1 and 212.1 which apply where shares of a corporation resident in Canada are transferred in a non-arm's length transaction to another corporation. The provisions are designed to prevent the removal of taxable surpluses as a tax-free return of capital.
+
+The bulletin reflects amendments to the Income Tax Act resulting from Bill C-84 (1986), Bill C-139 (1988), Bill C-18 (1991), and Bill C-92 (1993) and makes incidental changes. Bill C-9, given first reading in the House of Commons on February 4, 1994 does not affect this bulletin. A proposal contained in the Amendments to the Income Tax Act and Related Statutes issued by the Minister of Finance on August 30, 1993 is noted in # 2.
+
+LEGISLATIVE AND OTHER CHANGES
+
+Paragraphs in IT-489 describing section 84.1 as it applied to dispositions of shares before May 23, 1985 were not carried forward because of the significance of the amendments in Bill C-84.
+
+# 1 and 5 to 10 inclusive discuss the amendments to section 84.1 arising from Bill C-84. # 9 contains a series of examples describing the operation of subsection 84.1(1).
+
+# 2 is based on former # 3 but has been expanded to describe paragraphs 84.1(2)(c), (d) and (e), and to add a discussion of the meaning of "child" and "spouse" pursuant to Bills C-18 and C-92.
+
+# 3 and 4 describe subsections 186(4) and (2) respectively. These paragraphs elaborate on provisions in the Act referred to in former # 3.
+
+# 5 discusses the circumstances in which the tax consequences under section 84.1 will not apply.
+
+# 6 describes the paid-up capital reduction under paragraph 84.1(1)(a) as amended by Bill C-84.
+
+# 7 describes the determination of the deemed dividend under paragraph 84.1(1)(b) as amended by Bills C-84 and C-18.
+
+# 8 discusses the "arm's length adjusted cost base" which, with paid-up capital, are the two amounts against which the consideration received by the transferee is compared. The paragraph introduces changes from Bill C-139 that are retroactive to the coming into force of Bill C-84 and identifies changes introduced by Bills C-84 and C-18.
+
+# 9 consists of a number of examples demonstrating the application of section 84.1 and describes the interaction of section 84.1 and subsection 85(1).
+
+# 10 describes subsection 84.1(3) which was added by Bill C-84 and provides for an addition to the paid-up capital of a class of shares of a corporation in certain circumstances.
+
+# 11 comments on the consequences of subsequent events e.g., issuing further shares of the same class as those issued in exchange for the acquired shares.
+
+# 12 notes that an amount deemed to be a dividend under section 84.1 is excluded from the definition of proceeds of disposition.
+
+# 13 (which is comparable to former # 17) identifies a minor amendment to subsection 212.1 introduced by Bill C-139.
+
+# 14 is a much expanded version of former # 18 and refers readers to earlier paragraphs where comments concerning section 84.1 are applicable to section 212.1.
+
+# 20 mentions anti-avoidance provisions including the amendment to subsection 245(2) in Bill C-139. This topic is discussed in more detail in Information Circular 88-2, General Anti-Avoidance Rule.
+
+Throughout the bulletin we have changed some of the wording in order to improve clarity.

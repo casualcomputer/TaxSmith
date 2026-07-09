@@ -1,0 +1,155 @@
+---
+title: "Hargrave v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26202/index.do"
+last_modified: "2005-02-10"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 TCC 114"
+citation2: ""
+neutral_citation: "2005 TCC 114"
+decision_date: "2005-02-10"
+language: "en"
+item_id: "26202"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3933
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T21:03:04.795000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "c8e5ea980b65c1dee5b9aaf1ca83326d8a6e1cb0f85a64b0659f4bed120535d0"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Hargrave v. The Queen
+
+- Citation: 2005 TCC 114
+- Decision date: 2005-02-10
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3933, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Hargrave v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-02-10
+Neutral citation
+2005 TCC 114
+File numbers
+2004-2842(IT)I
+Judges and Taxing Officers
+David W. Beaubier
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2004-2842(IT)I
+BETWEEN:
+BARRY HARGRAVE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on January 28, 2005, at Kamloops, British Columbia
+By: The Honourable Justice D.W. Beaubier
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Bruce Senkpiel
+____________________________________________________________________
+JUDGMENT
+The appeals from the reassessments made under the Income Tax Act for the 1999 and 2000 taxation years are dismissed, and the appeal for the 2001 taxation year is allowed, and that reassessment is referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached Reasons for Judgment on the basis that the Appellant commenced business on October 1, 2001.
+Signed at Calgary, Alberta, this 10th day of February 2005.
+"D.W. Beaubier"
+Beaubier, J.
+Citation: 2005TCC114
+Date: 20050210
+Docket: 2004-2842(IT)I
+BETWEEN:
+BARRY HARGRAVE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Beaubier, J.
+[1] This appeal pursuant to the Informal Procedure was heard at Kamloops, British Columbia, on January 28, 2005. The Appellant testified. The Respondent called Thomas Jacobson, C.G.A., the auditor on the file.
+[2] Paragraphs 3 to 11 inclusive of the Reply to the Notice of Appeal outline the matters in issue. They read:
+3. In computing income for the 1999, 2000 and 2001 taxation years, the Appellant deducted business losses of $17,797, $2,961 and $31,481, respectively, as detailed in the attached Schedule "A".
+4. The Minister of National Revenue (the "Minister") initially assessed the Appellant as filed for the 1999, 2000 and 2001 taxation years by Notices dated July 31, 2000, May 10, 2001 and June 17, 2002, respectively.
+5. By Notices dated July 25, 2003, the Minister reassessed the Appellant's 1999, 2000 and 2001 taxation years to disallow claimed cost of goods sold and business expenses totalling $17,797, $2,961 and $35,216 respectively, as detailed in the attached Schedule "A".
+6. The Appellant objected to the reassessments by serving on the Minster a Notice of Objection dated October 14, 2003.
+7. By Notice dated March 31, 2004, the Minister confirmed the reassessments for the Appellant's 1999, 2000 and 2001 taxation years.
+8. In reassessing taxes for the 1999, 2000 and 2001 taxation years and in confirming those reassessments, the Minister assumed the same facts, as follows:
+a) the Appellant reported self-employed activities of a plumbing, heating and air-conditioning business under the trade name of "One Stop Contractors";
+b) the Appellant did not perform any plumbing or refrigeration services;
+c) the Appellant planned to start an automotive repair and glass replacement business;
+d) the Appellant did not perform any auto body or restoration work;
+e) the Appellant had not commenced any business operations;
+f) the Appellant was not engaged in any commercial activities;
+g) the Appellant claimed cost of goods sold of $1,660 for the 2001 taxation year;
+h) the Appellant claimed business expenses of $17,797, $2,961 and $33,556 for the 1999, 2000 and 2001 taxation years, respectively;
+i) the Appellant did not incur the cost of goods sold and the business expenses claimed in 1999, 2000 and 2001 taxation years to gain or produce income from a business; and
+j) the Appellant earned other income of $3,735 for the 2001 taxation year.
+B. ISSUES TO BE DECIDED
+9. The issue is whether the Appellant is entitled to deduct any amounts claimed as cost of goods sold and business expenses in the 1999, 2000 and 2001 taxation years.
+C. STATUTORY PROVISIONS RELIED ON
+10. He relies on sections 3 and 9, subsection 248(1), and paragraphs 18(1)(a), 18(1)(b) and 18(1)(h) of the Income Tax Act, R.S.C. 1985, c. 1 (5th Supp.), as amended (the "Act").
+D. GROUNDS RELIED ON ANDRELIEF SOUGHT
+11. He respectfully submits that because there was no source of business income, the Appellant is not entitled to deduct any cost of goods sold and business expenses disallowed by the Minister. The amounts were not paid or incurred for the purpose of gaining or producing income from a business. Rather, they were personal or living expenses of the Appellant or were payments on account of capital, and therefore were properly disallowed under paragraphs 18(1)(a), 18(1)(b) and 18(1)(h) of the Act.
+[3] With respect to the assumptions in paragraph 8, the findings of the Court are:
+a) - c): Were not refuted.
+d) - f) and (i) The Appellant admitted in cross-examination that he did not start the business until the year 2000. He submitted a few, intermittently numbered invoices in evidence. One for less than $100 had no labour or work done and was dated in June 2001 and remainder for 2001 were dated October to December 2001. He did not submit his invoice book with the remaining invoice stubs which would have exceeded 100 invoice stubs.
+[4] The Appellant filed exhibits containing pictures of his house, pump house and shop outside of 100 Mile House, British Columbia. He is apparently a divorcee who is now 62 and he has set up an elaborate shop. In cross-examination he admitted that much of the shop capital equipment pictured was acquired after 2000. The expenses he claimed included substantial amounts for a guard dog, and for some items that appear to be capital.
+[5] Counsel for the Respondent and the auditor expressed their suspicion of the invoices (Exhibit A-4) quite properly. Invoice 329257 is dated 06.11.01. The next in number 329263 is dated 10.12.01. The next, 329265, is dated 10.15.01. By comparison invoice 329272 is dated 10.07.01. The Appellant testified that he destroyed and reversed invoices and quotes based on ICBC and other determinations. However, without the invoice book with copies, his explanation is not accepted. For this reason the June, 2001 invoice, which does not itemize a labour component, is not evidence of the Appellant being in business.
+[6] There is no evidence before the Court that the Appellant had any business other than the automotive business. Until October, 2001 he was either a hobbyist, or he was thinking about, or getting ready to go into business. He commenced the automotive business in October, 2001.
+[7] Therefore, the appeals for 1999 and 2000 are dismissed.
+[8] The appeal for 2001 is allowed and this matter is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the Appellant commenced business on October 1, 2001.
+Signed at Calgary, Alberta, this 10th day of February 2004.
+"D.W. Beaubier"
+Beaubier, J.
+CITATION:
+2005TCC114
+COURT FILE NO.:
+2004-2842(IT)I
+STYLE OF CAUSE:
+Barry Hargrave v. The Queen
+PLACE OF HEARING:
+Kamloops, British Columbia
+DATE OF HEARING:
+January 28, 2005
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Beaubier
+DATE OF JUDGMENT:
+February 10, 2005
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Bruce Senkpiel
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

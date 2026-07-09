@@ -1,0 +1,177 @@
+---
+title: "Vohra c. Le Roi"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/521028/index.do"
+last_modified: "2022-12-15"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2022 CCI 165"
+citation2: ""
+neutral_citation: "2022 CCI 165"
+decision_date: "2022-12-15"
+language: "fr"
+item_id: "521028"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5795
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2023-12-01T12:01:55.012000+00:00"
+cases_cited_count: 4
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "ff15953e5236e8bc5a5d0376befcbe9299d88540b2b5aa0cd3f20c2eeb7828de"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Vohra c. Le Roi
+
+- Citation: 2022 CCI 165
+- Decision date: 2022-12-15
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5795, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Vohra c. Le Roi
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2022-12-15
+Référence neutre
+2022 CCI 165
+Numéro de dossier
+2021-30(IT)I
+Juges et Officiers taxateurs
+Ronald MacPhee
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2021-301(IT)I
+ENTRE :
+RAJAT VOHRA,
+appelant,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 12 octobre 2022, à Toronto (Ontario)
+Devant : L’honorable juge Ronald MacPhee
+Comparutions :
+Avocats de l’appelant :
+Me Jason C. Rosen
+Me Avery Kalpin
+Avocats de l’intimé :
+Me Jacky Cheung
+Me Carol Calabrese
+JUGEMENT
+Conformément aux motifs du jugement ci-joints, l’appel relatif à l’avis d’appel pour l’année d’imposition 2018 est accueilli. Chaque partie assumera ses propres dépens.
+Signé à Ottawa, Canada, ce 15e jour de décembre 2022.
+« R. MacPhee »
+Le juge MacPhee
+Référence : 2022 CCI 165
+Date : 20221200
+Dossier : 2021-301(IT)I
+ENTRE :
+RAJAT VOHRA,
+appelant,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge MacPhee
+[1] L’appelant interjette appel de la décision du ministre du Revenu national, qui refuse la déduction qu’il avait demandée pour les paiements de pension alimentaire pour conjoint de 42 000 $ [1] pour l’année d’imposition 2018. Le ministre a refusé la déduction déclarée au motif que ces paiements ne correspondaient pas à la définition de « pension alimentaire » au sens du paragraphe 56.1(4) de la Loi de l’impôt sur le revenu, L.R.C. (1985), ch. 1 (5e suppl.) (la « Loi »). Plus précisément, le ministre est d’avis que les paiements de pension alimentaire n’ont pas été effectués par l’appelant aux termes d’un accord écrit, de sorte que les montants d’argent ne sont pas déductibles en application de la Loi.
+Faits :
+[2] Les faits dans la présente affaire sont simples et ne sont pas contestés.
+[3] L’appelant s’est marié en 2006 (sa partenaire d’alors est désignée comme son « ex-conjointe »). Le couple s’est séparé légalement le 8 décembre 2010.
+[4] Le 6 mars 2011, le couple a conclu un accord de séparation, signé par les deux parties.
+[5] Le couple a choisi de préparer lui-même l’accord de séparation. Voici quelques conditions de l’accord de séparation :
+[traduction]
+Dans la clause traitant de la pension alimentaire, on peut y lire ceci :
+La partie 1 doit verser à la partie 2 une pension alimentaire de 3 500 $ par mois à compter du 8 décembre 2010 jusqu’au 8 décembre 2014.
+[6] Conformément à l’article de l’accord décrit comme étant le contexte :
+[traduction]
+En outre, les parties entendent que les conditions du présent accord soient les suivantes :
+[...] (3) Règlement définitif de la garde, du droit de visite, de la tutelle et de la pension alimentaire [...]
+[...] Une fois signé et attesté, le présent accord peut être modifié par une ordonnance judiciaire, ou par un accord écrit entre la partie 1 et la partie 2 [...]
+[7] L’accord de séparation de 2011 était vicié dès le départ. Les signatures des époux n’ont pas été confirmées par témoin. De plus, il y a une clause manuscrite au bas du contrat qui stipule ce qui suit :
+[traduction]
+Le présent document est assujetti à l’approbation d’un conseiller juridique.
+[8] Aucune indication d’approbation par le conseiller juridique n’a jamais été fournie, ni dans le contrat ni dans les éléments de preuve produits au procès.
+[9] Les parties ont respecté les conditions de l’accord écrit. L’appelant a versé une pension alimentaire de 3 500 $ par mois pendant toute la durée de l’accord et pendant plusieurs années par la suite.
+[10] En 2019, l’appelant et l’ex-conjointe ont obtenu de la Cour supérieure de justice de l’Ontario, sur consentement, une ordonnance, qui comprenait la clause suivante :
+[traduction]
+(24) À compter du 1er juillet 2019 et le premier jour de chaque mois par la suite jusqu’à ce que la Cour rende une nouvelle ordonnance, le défendeur (ci-après désigné le « payeur ») versera à la demanderesse (ci-après désignée la « bénéficiaire ») une pension alimentaire temporaire de 8 000 $ par mois. Ce qui précède est convenu sous réserve de tous droits et de la vérification du revenu du payeur et redéfini comme étant une pension alimentaire pour enfant ou pour époux une fois le revenu du payeur vérifié rétroactivement au 1er juillet 2019.
+[11] Au cours de l’année d’imposition 2018, l’ex-conjointe de l’appelant a déclaré les pensions alimentaires de 42 000 $ qu’elle a reçues comme revenu dans ses déclarations de revenus. L’appelant a demandé une déduction de 42 000 $ pour ces paiements.
+[12] Le ministre a refusé à l’appelant la déduction de 42 000 $ versés à son ex-conjointe au cours de l’année 2018 au motif que les paiements ont été effectués sans qu’un accord de séparation écrit soit en place.
+La thèse de l’appelant :
+[13] L’appelant affirme que, malgré l’expiration de l’obligation de payer la pension alimentaire le 8 décembre 2014, un contrat implicite a continué d’exister entre l’appelant et son ex-conjointe. Il s’appuie, en partie, sur le principe suivant :
+[traduction]
+Il peut également y avoir un contrat implicite lorsque les parties concluent un contrat exprès pour une durée déterminée et continuent d’agir comme si le contrat les liait toujours une fois le contrat expiré. Dans ce cas, le juge peut en déduire que les parties ont convenu de renouveler le contrat exprès pour une autre durée. Les contrats exprès et implicites sont tous deux des contrats au sens propre du terme, car ils résultent tous deux de l’accord des parties, bien que dans un cas, l’accord soit manifesté par des mots et dans l’autre cas, par un comportement. [2]
+[14] À titre d’argument subsidiaire, je crois que l’appelant adopte également la thèse selon laquelle l’accord de séparation du 6 mars 2011 était un accord écrit et, bien qu’il n’ait pas été correctement mis à jour après 2014, il constituait un accord écrit aux termes duquel l’appelant a versé une pension alimentaire en 2018.
+La thèse de l’intimé :
+[15] L’intimé fait valoir que les paiements de pension alimentaire en question n’ont pas été effectués conformément à un accord écrit. L’accord de séparation précédent ayant expiré en 2014, aucun accord obligeant l’appelant à verser une pension alimentaire pour époux n’existait en 2018.
+Discussion :
+[16] La question de savoir si les paiements de pension alimentaire ont été effectués conformément à un accord écrit a fait l’objet de nombreux litiges.
+[17] En ce qui concerne la raison pour laquelle un accord écrit est nécessaire, la Cour d’appel fédérale a conclu ce qui suit :
+[traduction]
+On perçoit facilement la raison de ne pas inclure le cas des conjoints séparés où des paiements ont été faits et reçus sur la base d’un accord verbal. Un tel régime relâché et incertain peut très bien donner lieu à des ententes trompeuses et frauduleuses et à des plans d’évasion fiscale. [3]
+[18] Ce qui s’est passé en l’espèce ne constitue manifestement pas une manœuvre frauduleuse. En 2011, les parties ont convenu par écrit d’un montant d’argent qui devait être versé à titre de pension alimentaire pour époux. Ils ont négligé à tort la nécessité de mettre à jour le contrat en 2014 afin de refléter correctement les obligations alimentaires continues de l’appelant.
+[19] Je ne souscris pas à la thèse principale défendue par l’appelant. Un contrat implicite, de même qu’un contrat verbal, ne répond pas aux exigences de la Loi permettant de déduire une pension alimentaire. Malgré cela, j’ai conclu que l’appelant devrait avoir gain de cause dans le présent appel. Je constate effectivement que les paiements effectués par l’appelant en 2018 l’ont été en application d’un accord écrit.
+[20] Les exigences formelles d’un contrat correctement rédigé ne devraient pas accabler mon analyse. Il ne fait aucun doute que le contrat sur lequel les parties se sont appuyées était vicié. Pourtant, il s’agissait d’un accord écrit qui fixait le montant de la pension alimentaire [4] .
+[21] Les parties ont continué jusqu’à l’année d’imposition 2018 à se considérer comme liées par leur accord de séparation conclu en 2011. Le comportement des parties permet de conclure qu’il y avait toujours convergence de vues sur les obligations alimentaires entre époux. Ce qui était prévu dans l’accord de séparation de 2011 a été considéré par les parties comme continuant d’être en vigueur jusqu’en 2018 inclusivement.
+[22] Dans mon examen, je suis guidé par le sens ordinaire des mots de la Loi lorsque je me demande si les paiements de pension alimentaire en litige ont été effectués conformément à un accord écrit. Je conclus que les paiements ont été effectués conformément aux conditions d’un accord écrit.
+[23] Ces faits uniques satisfont à la définition de « pension alimentaire » prescrite au paragraphe 56.1(4); plus précisément, le montant d’argent en litige dans le présent procès était un montant d’argent payable [...] à titre d’allocation pour subvenir aux besoins du bénéficiaire [...] aux termes d’un accord écrit.
+[24] L’appel est accueilli. L’appelant a le droit de déduire 42 000 $ à titre de pension alimentaire pour l’année d’imposition 2018. Aucuns dépens ne seront adjugés.
+Signé à Ottawa, Canada, ce 15e jour de décembre 2022.
+« R. MacPhee »
+Le juge MacPhee
+RÉFÉRENCE :
+2022 CCI 165
+NO DU DOSSIER DE LA COUR :
+2021-301(IT)I
+INTITULÉ :
+RAJAT VOHRA c.SA MAJESTÉ LE ROI
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+Le 12 octobre 2022
+MOTIFS DU JUGEMENT :
+L’honorable juge Ronald MacPhee
+DATE DU JUGEMENT :
+Le 15 décembre 2022
+COMPARUTIONS :
+Avocats de l’appelant :
+Me Jason C. Rosen
+Me Avery Kalpin
+Avocats de l’intimé :
+Me Jacky Cheung
+Me Carol Calabrese
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Me Jason C. Rosen
+Me Avery Kalpin
+Cabinet :
+Rosen Kirshen
+Pour l’intimé :
+Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa, Canada
+[1] Il y a une certaine confusion sur la somme en litige. L’appelant a déclaré 42 000 $ dans ses déclarations de revenus. En outre, dans ses actes de procédure, l’appelant a plaidé que le point en litige est celui de savoir si [traduction] l’appelant a le droit de déduire les paiements de pension alimentaire [...] de 42 000 $. Pourtant, dans son argumentation au procès, l’appelant a revendiqué, à titre d’argument subsidiaire, le droit de déduire 66 000 $ pour l’année d’imposition 2018.
+[2] Chitty on Contracts, vol. I, 27e éd. (Londres : Sweet & Maxwell, 1999), p. 19.
+[3] Hodson v. Minister of National Revenue, (1987), 88 D.T.C. 6001 (C. A. F.), p. 6003.
+[4] Voir la décision Connor c. La Reine, 2009 CCI 319 (C.C.I. [procédure informelle]), par. 16, qui renvoie elle-même aux décisions Fortune c. La Reine, 2007 CCI 20 (C.C.I. [procédure informelle]); et Ryan c. La Reine, 2018 CarswellNat 8175, 2018 TCC 257, 2018 CCI 257, 2019 D.T.C. 1006 (Cour canadienne de l’impôt [procédure informelle])

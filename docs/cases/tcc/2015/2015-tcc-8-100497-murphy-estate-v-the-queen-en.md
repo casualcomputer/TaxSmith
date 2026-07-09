@@ -1,0 +1,212 @@
+---
+title: "Murphy Estate v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/100497/index.do"
+last_modified: "2015-01-13"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2015 TCC 8"
+citation2: ""
+neutral_citation: "2015 TCC 8"
+decision_date: "2015-01-13"
+language: "en"
+item_id: "100497"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2790
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T10:33:21.175000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "90fcd731d6340129d2d62d983394b02f20c9eb1f838d8118e06bae6c6220e838"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Murphy Estate v. The Queen
+
+- Citation: 2015 TCC 8
+- Decision date: 2015-01-13
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2790, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Murphy Estate v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2015-01-13
+Neutral citation
+2015 TCC 8
+File numbers
+2012-5087(IT)G
+Judges and Taxing Officers
+Valerie A. Miller
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2012-5087(IT)G
+BETWEEN:
+ESTATE OF THE LATE JOHN ARTHUR MURPHY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on September 22, 2014, at Halifax, Nova Scotia
+Before: The Honourable Justice Valerie Miller
+Appearances:
+Counsel for the Appellant:
+M. Gerard Tompkins, Q.C.
+Counsel for the Respondent:
+David I. Besler
+JUDGMENT
+The appeal from the reassessments made under the Income Tax Act for the Appellant’s 2009 taxation year is dismissed with costs.
+Signed at Ottawa, Canada, this 13th day of January 2015.
+“V.A. Miller”
+V.A. Miller J.
+Citation: 2015TCC8
+Date: 20150113
+Docket: 2012-5087(IT)G
+BETWEEN:
+ESTATE OF THE LATE JOHN ARTHUR MURPHY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+V.A. Miller J.
+[1] The issue in this appeal is whether the Appellant must include the proceeds of a Registered Retirement Savings Plan (“RRSP”) in the amount of $237,026 in John Arthur Murphy’s income in the 2009 taxation year.
+[2] The parties are in general agreement with respect to the facts in this appeal. At the beginning of the hearing, counsel for the Respondent submitted a written Statement of Facts which was accepted by the Appellant subject to the date in paragraphs 26 and 27 being changed from May 13, 2011 to April 26, 2011. The document was admitted into evidence as an Agreed Statement of Facts with the date at paragraphs 26 and 27 changed to April 26, 2011. Those facts and the evidence presented at the hearing are below.
+[3] The witnesses at the hearing were Barbara DeMarsh and Harry Munro.
+Facts [4] John Arthur Murphy died intestate on February 15, 2009. He was survived by his spouse, Barbara DeMarsh (“Ms. DeMarsh”) and three grown children from his first marriage (“the Murphy Children”). These individuals are the only heirs to the Appellant.
+[5] According to Ms. DeMarsh, Mr. Murphy’s death was unexpected. She and the Murphy Children struggled emotionally to cope with the sudden death of her spouse and their father. However, the relationship between these heirs to the Appellant quickly deteriorated as soon as they started to discuss the division of the Appellant’s assets. The relationship between Ms. DeMarsh and the Murphy Children became adversarial and they each retained their own counsel to advise and represent them. Ms. DeMarsh retained the services of Harry Munro who practiced in the area of Wills and Estates.
+[6] At the time of his death, Mr. Murphy held many assets including the matrimonial home, farm property, forest properties, rental properties, cottages, livestock and three Registered Retirement Savings Plans (“RRSPs”). One of his RRSPs had a fair market value of $237,026 and the Murphy Children were designated as the beneficiaries under this plan. On February 15, 2009, this RRSP had not matured. This RRSP had account number 552-69883 with CIBC Wood Gundy and it is the subject of this appeal. I will refer to it as the subject RRSP.
+[7] Pursuant to the Intestate Succession Act of Nova Scotia, Ms. DeMarsh was entitled to the matrimonial home or $50,000 and 40% of the balance of the Appellant’s assets. However, the various properties had to be appraised and when it came to actually dividing the assets, as Harry Munro stated “the devil is in the details”.
+[8] On September 22, 2009, the Court of Probate for Nova Scotia granted administration of the Appellant to Ms. DeMarsh and two of the Murphy Children (Lindsay Murphy and Michael Murphy). They were appointed the Personal Representatives of the Appellant and the real and personal property which formed a part of the Appellant became vested in them.
+[9] On April 30, 2010 an agreement was reached between Ms. DeMarsh, the Personal Representatives and the Murphy Children whereby Ms. DeMarsh released any claims against a cottage property in return for one of the RRSPs in the amount of $160,000 being transferred to her. This was the only agreement between the heirs prior to filing Mr. Murphy’s terminal return.
+[10] Mr. Murphy’s terminal return was filed on April 30, 2010 and was assessed by notice dated May 20, 2010. In this return, Mr. Murphy reported RRSP income in the amount of $256,829 which amount included the subject RRSP.
+[11] On September 20, 2010, Ms. DeMarsh filed an application in the Supreme Court of Nova Scotia pursuant to section 12 of the Matrimonial Property Act, R.S.N.S. 1989 c. 275. In this application, she named the Estate of John Arthur Murphy as the Respondent and she requested an Order for the division of matrimonial assets.
+[12] After negotiations, the Appellant, Ms. DeMarsh and the Murphy Children entered into a Settlement Agreement effective December 31, 2010 whereby they agreed to divide and settle the matrimonial assets in the Appellant. According to the Settlement Agreement, the proceeds of two RRSPs would be transferred to a RRSP in which Ms. DeMarsh was the annuitant. If the Canada Revenue Agency (“CRA”) accepted this transfer to be a spousal rollover and refunded the taxes which had been paid by the Appellant, Ms. DeMarsh would receive the refund of taxes. The Settlement Agreement included the following:
+1. The Children are the designated beneficiaries of two (2) Registered Retirement Savings Plans held at the time of this Agreement with CIBC Wood Gundy and bearing Account No. 552-69883, and having at that date of death a value of $237,026.00 and No. 552-72469, having at the date of death a value of $155,210.00. The Children covenant and agree in their personal capacity and with respect to Michael Bernard Murphy and Lindsay Alexa Murphy, also in their capacities as two of the Personal Representatives of the Estate, to take all actions and to sign all documents, including but not restricted to a Consent Order in the Matrimonial Property Act Application, necessary to effect a transfer of the balance of both of the aforesaid RRSPs to a Registered Retirement Savings Plan (“RRSP”) under which Barbara is the annuitant, in order to effect such transfer in a tax deferred manner. The documents will include, without limitation, the documents annexed hereto as Schedule “A”.
+…
+3. The Parties jointly hereby convenant and agree to take all actions necessary to cause the Supreme Court of Nova Scotia to issue a Consent Order in Application 2010 ANT. NO. 336426, an Application brought by Barbara DeMarsh against the Estate of John Arther (sic) Murphy which order is in, or will be substantially in, the form annexed hereto as Schedule “B” (the “Order”).
+4. The Estate covenants and agrees to pay to Barbara the full amount of the refund of taxes which directly arises from the transfer of RRSP Nos. 552-69883 and 31874-5 to Barbara pursuant to subsection 146.3(1) of the Income Tax Act and paragraph 60(1) of the Income Tax Act, when it is received by the Estate as a result of filing an amended terminal income tax return for John Arther (sic) Murphy. The Parties acknowledge that the amount of the refund is estimated by the Estate accountant, Kelly Polley, to be in the amount of $123,920.46. Barbara covenants and agrees that the Estate shall deduct from this refund all amounts advanced to Barbara out of the Estate up to the date of payment. The Children covenant and agree to provide any necessary consents or authorizations requested of them to give effect to the foregoing payment by the Estate. Barbara covenants and agrees that if there is a tax refund arising to the Estate for any reason unrelated to the RRSPs noted above, such refund remains an asset of the Estate.
+5. All of the Parties covenant and agree that if the aforementioned Consent Order is not sufficient to cause the Minister of National Revenue to extend the sixty (60) day period allowed for a tax deferred transfer of RRSPs such that such tax deferred transfer is disallowed as a deduction under the amended terminal income tax return, this Agreement shall be null and void and the Parties shall revert to their former positions pursuant to the Intestate Succession Act, Matrimonial Property Act and all other applicable legislation, but subject to the Agreement respecting RRSP No. 552-72469 and the Lorneville lands as hereinafter acknowledged. In such event, the Parties agree to take all necessary actions to obtain a further court order reflecting the foregoing.
+6. Barbara agrees that upon the amended terminal income tax return being filed, reassessed as filed, and upon receipt of a clearance certificate to date of death issued by the Canada Revenue Agency and upon the payment to her of the full amount of that part of the refund paid as a result of such refilling having included the tax deferred transfer of the RRSPs that:
+a) The documents Quit Claiming to the Children Barbara’s right, title and interest in the Estate of the late John Arther (sic) Murphy pursuant to the Intestate Succession Act, Testators Family Maintenance Act, the Matrimonial Property Act and any other applicable legislation and signed by Barbara at the same time as this Agreement shall be released from escrow by the Proctor of the Estate, Alan MacLean (the “Proctor”), to the Children; and
+b) All documentation as provided by the Proctor and signed by Barbara at the same time as this Agreement shall be released from escrow by the Proctor to the Children to effect Barbara’s removal as a personal representative of the Estate.
+7. The Parties agree that upon receipt of a Clearance Certificate to date of death by Canada Revenue Agency as anticipated in paragraph 6 above, that they shall take all actions necessary to cause the Supreme Court of Nova Scotia to issue a Consent Order dismissing Application 2010 ANT. NO. 336426 without cost to any party.
+8. In the event that the Minister of National Revenue rules that the period of time that it took for the balance of the RRSPs to be transferred to Barbara’s RRSP is unacceptable pursuant to subsection 146.3(1) and paragraph 60(1) of the Income Tax Act and the RRSPs are included as income in the terminal income tax return of John Arther (sic) Murphy then Barbara DeMarsh covenants and agrees that she shall return the full balance of RRSP No. 552-69883 together with all accrued income earned thereon to the Children and she shall further return the RRSP transferred from League Savings and Mortgage Account No. 31874-5 to the Estate of John Arther (sic) Murphy.
+9. Notwithstanding the foregoing, the Parties covenant and agree that Barbara shall be entitled to receive the entire balance of RRSP No. 552-72469 into an RRSP account registered in her name without any deduction for tax. In consideration of the RRSP, Barbara covenants and agrees that she shall convey to the Children all of her right, title and interest in the property located at Beatons Bluff, Lorneville, County of Cumberland more particularly identified by PID No. 25256207 and PID No. 25109943.
+10. In all other respects should the Minister fail to accept the transfer of RRSP Nos. 552-69883 and 31874-5 as a refund of premiums to Barbara’s RRSP, the Parties’ rights at law and in equity shall revert to what they were, immediately prior to the signing of this Agreement in all respects other than the matters referenced in paragraph 9 herein which are effective as and from April 30, 2010.
+11. Barbara covenants and agrees that she shall open an RRSP account at CIBC Wood Gundy (the “New RRSP”) for the sole purpose of receipt of the RRSP funds from accounts 552-69883 and 31874-5 to be transferred to her in accordance with this Agreement. Barbara further covenants and agrees that all funds and assets transferred to the New RRSP shall be held in its current form and no withdrawals shall be made from the account unless such changes or withdrawals are authorized in writing by the Children and until such time as the provisions of paragraph 6 herein have been satisfied in full. Barbara further covenants and agrees to provide a copy of this Agreement to CIBC Wood Gundy so that it will have a record of the restrictions relating to the New RRSP on file.
+12. This Agreement may be executed in counterparts, each of which shall be deemed to be an original and all of which together shall constitute one and the same instrument. To evidence its execution of an original counterpart of this Agreement, a Party may send a copy of its original signature on the execution page hereof to the other Parties by facsimile transmission or a PDF copy by email and such transmission shall constitute delivery of an executed copy of this Agreement to the receiving Parties.
+[13] In accordance with the Settlement Agreement, the parties signed a Consent Order in which the Murphy Children agreed to sign all documents necessary to release, convey and transfer all of their interests in the RRSPs of John Arthur Murphy. One of those RRSPs was the subject RRSP. The Consent Order was issued by the Supreme Court of Nova Scotia on May 13, 2011. It read:
+It is hereby ordered and declared that the parties above have agreed to settle the matters herein on the following basis:
+1. The Applicant hereby releases any and all claim or entitlement which she may have to the Estate of John Arthur Murphy (the “Estate”), howsoever arising, except as specifically set out herein. To give effect to the foregoing, the Applicant agrees to:
+a. forthwith upon the issuance of this Order, execute a deed releasing and transferring any and all interest that she has in the real property located at Beatons Bluff, Lorneville, County of Cumberland and more particularly identified by PID No. 25256207 and PID No. 25109943 which deed shall be in favour of Flora Catherine Murphy, Michael Bernard Murphy and Lindsay Alexa Murphy and shall be released to Flora Catherine Murphy, Michael Bernard Murphy and Lindsay Alexa Murphy forthwith following the execution of this order;
+b. forthwith upon the issuance of this Order, sign an application and any other required documents approved by the proctor of the Estate, Alan MacLean (the “Proctor”), on behalf of the Respondent required in connection with a future application to the Court of Probate for permission to remove the Applicant as an administrator of the Estate, which documents shall be held in escrow by the Proctor until such time as amended terminal income tax return for the Estate has been filed, and a Notice of Assessment for the amended return showing a nil balance has been issued by Canada Revenue Agency and a subsequent Clearance Certificate to the date of Death of John Arthur Murphy (the “Clearance Certificate”)has been issued by Canada Revenue Agency, following which the Proctor shall release the aforesaid documents from escrow and submit them to the Court of Probate; and
+c. forthwith upon the issuance of this Order, execute such transfers, deeds, releases and other documents as may be required to release and transfer to Flora Catherine Murphy, Michael Bernard Murphy and Lindsay Alexa Murphy (collectively, the “Murphys”) any other personal and real property of the Estate, including without limitation all Estate bank and investment accounts and the properties identified by the PIDS listed below, which transfers, deeds, releases and other documents shall be held in escrow by the Proctor until such time as the Clearance Certificate is received, following which the Proctor shall release the said documents from escrow and provide them to the Murphys or as they may direct:
+(i) 01225721;
+(ii) 01239797;
+(iii) 01240076;
+(iv) 01240175;
+(v) 01240506; and
+(vi) 10060705.
+2. Forthwith upon the issuance of this Order, the Murphys agree to sign all required documents to release, convey and transfer to and in favour of the Applicant any and all interests that they may have in registered retirement savings plans of their father, John Arthur Murphy, represented by the following accounts:
+i. CIBC Wood Gundy 552-69883;
+ii. CIBC Wood Gundy 552-72469; and
+iii. League Savings and Mortgage 31874-5.
+3. All parties to this Order agree and consent to the payment by the Estate of John Arthur Murphy of the sum referenced in an agreement between the parties hereto made effective as of the 31st day of December, 2010 (the “Settlement Agreement”), to the Applicant the time provided for in the Settlement Agreement;
+4. The parties reserve the right to seek such further orders from this Court as may be required in connection with the Settlement Agreement.
+[14] The Murphy Children signed the documents to release, convey and transfer their interests in the RRSP and the proceeds from the subject RRSP were transferred out of that account on April 26, 2011 and into a RRSP account in which Ms. DeMarsh was the annuitant.
+[15] On August 10, 2011, a T1 adjustment was requested for Mr. Murphy’s 2009 taxation year reducing the amount of RRSP income by $237,026. The explanation given for the adjustment was that the court order of May 13, 2011 acknowledged that all RRSPs owned by Mr. Murphy were rolled over to his surviving spouse Ms. DeMarsh.
+[16] The Minister of National Revenue (the “Minister”) did not agree to reduce the RRSP income which had previously been reported by Mr. Murphy but his 2009 taxation year was reassessed for other reasons which have not been appealed.
+Appellant’s Position [17] It was the Appellant’s position that Ms. DeMarsh’s rights under the Matrimonial Property Act vested at the time of Mr. Murphy’s death on February 15, 2009. This counsel argued was the effect of section 12 of the Matrimonial Property Act which reads:
+12 (1) Where
+(a) a petition for divorce is filed;
+(b) an application is filed for a declaration of nullity;
+(c) the spouses have been living separate and apart and there is no reasonable prospect of the resumption of cohabitation; or
+(d) one of the spouses has died,
+either spouse is entitled to apply to the court to have the matrimonial assets divided in equal shares, notwithstanding the ownership of these assets, and the court may order such a division.
+[18] Counsel argued that the Consent Order signed by the Murphy Children, the Personal Representatives of the Appellant and Ms. DeMarsh, and issued by the Nova Scotia Supreme Court had an aspect of retroactivity. It confirmed that the RRSPs had been vested in Ms. DeMarsh from the date of Mr. Murphy’s death. The delay in transferring the proceeds of the subject RRSP was caused by the difficulties in settling the Appellant. Counsel also relied on the decision in Hillis v R, [1983] CTC 348 (FCA) to support his position that provincial legislation can be relied on to ascertain the rights of individuals to property and to ascertain when property vests in an individual.
+[19] It was counsel’s view that the present appeal is similar to a rectification case. He relied on the Federal Court of Appeal’s decision in Dale v Canada, [1997] 3 FC 235. This decision was succinctly summarized by Bowie J., as he then was, in Bayliss v R, 2007 TCC 387 as follows:
+8 The principle applicable here is that expressed by the Federal Court of Appeal in Dale v. R. It was held in that case that an order made by a Superior Court is not subject to collateral attack in subsequent proceedings, and when that order purports to operate retroactively that must be taken as effectively changing history. When Woods J. issued his order, one effect of it was to create a liability on the part of the appellant to pay accumulated arrears of spousal support from 2001 and 2002 in the total amount of $16,800. When that liability was satisfied by a payment from Mr. Bayliss's share of the proceeds from the sale of the home, that payment was a payment of accumulated arrears of periodic payments. As a single payment of arrears of unpaid periodic payments, that payment falls within the principle expressed by the Federal Court of Appeal in R. v. Sills, which is that those payments, although made late and all at once, maintain the character of periodic payments.
+[20] Counsel submitted that as in Dale and Bayliss, the Consent Order issued by the Nova Scotia Supreme Court in the present appeal is not subject to collateral attack in this hearing and must be followed by this Court. The Consent Order was corrective action which affirmed that ownership of the RRSPs vested in Ms. DeMarsh at the time of Mr. Murphy’s death.
+[21] The proceeds of the subject RRSP were a refund of premiums which Ms. DeMarsh rolled over on a tax deferral basis to a RRSP account in which she was an annuitant. This counsel argued was in accordance with subsection 146(1) and paragraph 60(l) of the Income Tax Act (the “Act”). The relevant portions of those provisions provide:
+146 “refund of premiums” means any amount paid out of or under a registered retirement savings plan (other than a tax-paid amount in respect of the plan) as consequence of the death of the annuitant under the plan,
+(a) to an individual who was, immediately before the death, a spouse or common-law partner of the annuitant, where the annuitant died before the maturity of the plan, or
+(b) to a child or grandchild of the annuitant who was, immediately before the death, financially dependent on the annuitant for support;
+60. Other deductions -- There may be deducted in computing a taxpayer's income for a taxation year such of the following amounts as are applicable:
+…
+(l) transfer of refund of premium under RRSP [on death] -- the total of all amounts each of which is an amount paid by or on behalf of the taxpayer in the year or within 60 days after the end of the year (or within such longer period after the end of the year as is acceptable to the Minister)
+(i) as a premium under a registered retirement savings plan under which the taxpayer is the annuitant.
+[22] Counsel stated that although Ms. DeMarsh became the owner of the proceeds of the subject RRSP on February 15, 2009, she was not able to transfer the refund of premiums to her RRSP within the time frame specified in paragraph 60(l) because of the difficulties in settling the Appellant. However, the Consent Order has the same effect as a rectification order and all transactions were effective as at the date of Mr. Murphy’s death.
+Respondent’s Position [23] It was the Respondent’s position that when Mr. Murphy died, he was deemed to have received the proceeds of the subject RRSP immediately before his death as a benefit in accordance with subsection 146(8.8) of the Act. The benefit had to be included in his income in 2009 pursuant to subsection 146(8) and paragraph 56(1)(h) of the Act. The benefit was taxable to Mr. Mruphy.
+[24] The sections of the Act relied on by the Respondent are as follows:
+146(8) There shall be included in computing a taxpayer’s income for a taxation year the total of all amounts received by the taxpayer in the year as benefits out of or under registered retirement savings plans, other than excluded withdrawals (as defined in subsection 146.01(1) or 146.02(1)) of the taxpayer and amounts that are included under paragraph (12)(b) in computing the taxpayer’s income.
+Effect of death where person other than spouse becomes entitled
+146(8.8) Where the annuitant under a registered retirement savings plan (other than a plan that had matured before June 30, 1978) dies after June 29, 1978, the annuitant shall be deemed to have received, immediately before the annuitant’s death, an amount as a benefit out of or under a registered retirement savings plan equal to the amount, if any, by which
+(a) the fair market value of all the property of the plan at the time of death
+56. (1) Without restricting the generality of section 3, there shall be included in computing the income of a taxpayer for a taxation year,
+(h) amounts required by section 146 in respect of a registered retirement savings plan or a registered retirement income fund to be included in computing the taxpayer’s income for the year;
+Analysis [25] When an annuitant dies, the general rule is that he is deemed to have received the proceeds of his RRSP immediately before death and these proceeds are included in his income (See subsections 146(8), 146(8.8) and paragraph 56(1)(h) of the Act). However, if the proceeds of his RRSP are paid out to “certain beneficiaries” as a consequence of his death, those proceeds are defined as a “refund of premiums” and the amount which is taxable to the deceased can be eliminated. Those “certain beneficiaries” can be a spouse or common-law partner of the annuitant or a dependent child or grandchild (See subsection 146(1) of the Act).
+[26] For the purposes of this appeal, the question is whether Ms. DeMarsh is a “certain beneficiary”. If she is a “certain beneficiary”, she can transfer the proceeds of the subject RRSP into an RRSP in her name on a tax deferral basis.
+[27] In this appeal, the designated beneficiaries of the subject RRSP were the children of the deceased. However, they were not dependent on the deceased at his time of death.
+[28] Counsel for the Appellant has argued that the Consent Order had the effect of indefeasibly vesting the subject RRSP in Ms. DeMarsh at the time of her spouse’s death. He argued that the proceeds were then paid out to her as a “refund of premiums” which she rolled over to a RRSP in her name. As such, the deceased is not liable for the taxes on these proceeds and the taxes are deferred until such time as Ms. DeMarsh withdraws the money from her RRSP. I disagree with his argument.
+[29] The Consent Order did not purport to change the beneficiaries to the RRSP in question. The Consent Order was not a rectification order nor was it intended to be a rectification order. It was an order in which the parties agreed to settle the Estate of John Arthur Murphy. The wording of the order makes it clear that Ms. DeMarsh released all claims which she had to real and personal property held by the Appellant. In exchange, the Murphy Children released, conveyed and transferred their interests in the subject RRSP to Ms. DeMarsh.
+[30] The Federal Court of Appeal’s decision in Hillis does not help the Appellant. In Hillis, the deceased died intestate leaving his widow and two sons as heirs. The two sons disclaimed their interests and the widow applied under the Dependants’ Relief Act of Saskatchewan to obtain the entire estate. The entire estate was granted to her. Income tax returns were filed in which a rollover was claimed under subsection 70(6) of the Act. The Minister denied that there was a rollover on the grounds that the conditions of subsection 70(6) had not been met. However, the Federal Court of Appeal found that the property had vested indefeasibly in the widow by virtue of the provincial court order but the vesting had occurred as of the date of the provincial court order.
+[31] Unlike the factual situation in Hillis, the designated beneficiaries in the present case did not disclaim their rights to the RRSP in question. Paragraph 2 of the Consent Order states that “the Murphys agree to sign all required documents to release, convey and transfer to and in favor of the Applicant any and all interests that they may have in registered retirement savings plans of their father…” [my emphasis added]. This wording suggests to me that the Murphy Children assigned their interests in the RRSP. I interpret this wording to mean that they accepted the gift of the proceeds of the RRSP and then after negotiation and settlement, they consented to transfer all of their interests to Ms. DeMarsh. This is not a disclaimer but an assignment.
+[32] The decision in Re Metcalfe, [1972] 3 OR 598 (OHCJ) provides a succinct summary of the law on disclaimer as it relates to beneficiaries:
+11 A concise statement of the law on this point, which I accept, is found in Williams on Executors and Administrators, 14th ed. (1960), vol. 2, p. 761, para. 1170:
+“The law certainly is not so absurd as to force a man to take an estate against his will.” There is no authority to the effect that the disclaimer must take place in a court of record; it may be made by deed, or even by conduct. Prima facie, the disclaimer operates from the time of the testator’s death and makes the gift void for certain purposes ab initio.
+[33] A disclaimer is a refusal to accept an interest which has been bequeathed to a disclaiming party. The effect is to void the gift as if the disclaiming party never received it. The gift becomes part of the estate of the deceased and the disclaiming party has no right to direct who is to receive the gift. See Plaxton v Minister of National Revenue, 1959 CarswellNat 253 (TAB). In this respect, the Consent Order cannot be a disclaimer as the Murphy Children directed that the RRSP in question was to be transferred to Ms. DeMarsh.
+[34] It is my view that at the time of Mr. Murphy’s death, the subject RRSP devolved directly to the Murphy Children who were the designated beneficiaries. They did not disclaim their interest in the RRSP but assigned their interest to Ms. DeMarsh by way of the Consent Order. The Consent Order was not a rectification order.
+[35] I have concluded that the reassessment in this matter is correct. According to subsection 146(8.8) of the Act, Mr. Murphy was deemed to have received the proceeds of the RRSP immediately before his death and those proceeds were correctly included in his income in accordance with paragraph 56(1)(h). The facts in this case do not support the conclusion that there was a “refund of premiums” which could be rolled over to a RRSP by Ms. DeMarsh.
+[36] The appeal is dismissed with costs.
+Signed at Ottawa, Canada, this 13th day of January 2015.
+“V.A. Miller”
+V.A. Miller J.
+CITATION:
+2015TCC8
+COURT FILE NO.:
+2012-5087(IT)G
+STYLE OF CAUSE:
+ESTATE OF THE LATE JOHN ARTHUR MURPHY AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Halifax, Nova Scotia
+DATE OF HEARING:
+September 22, 2014
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Valerie Miller
+DATE OF JUDGMENT:
+January 13, 2015
+APPEARANCES:
+Counsel for the Appellant:
+M. Gerard Tompkins, Q.C.
+Counsel for the Respondent:
+David I. Besler
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+M. Gerard Tompkins, Q.C.
+Firm:
+M. Gerard Tompkins, Q.C.
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

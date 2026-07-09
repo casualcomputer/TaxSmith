@@ -1,0 +1,338 @@
+---
+title: "Robotx Solutions Inc. c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/230724/index.do"
+last_modified: "2017-05-03"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2017 CCI 73"
+citation2: ""
+neutral_citation: "2017 CCI 73"
+decision_date: "2017-05-03"
+language: "fr"
+item_id: "230724"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2219
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T17:31:36.601000+00:00"
+cases_cited_count: 3
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "1996a4c7e3a75d9ba887a6a14e04e168753b1a0ea78234343db8a68d2824b747"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Robotx Solutions Inc. c. La Reine
+
+- Citation: 2017 CCI 73
+- Decision date: 2017-05-03
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2219, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Robotx Solutions Inc. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2017-05-03
+Référence neutre
+2017 CCI 73
+Numéro de dossier
+2016-736(IT)I
+Juges et Officiers taxateurs
+Gaston Jorré
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2016-736(IT)I
+ENTRE :
+ROBOTX SOLUTIONS INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Appel entendu les 31 octobre et 14 décembre 2016,
+à Montréal (Québec).
+Devant : L’honorable juge Gaston Jorré
+Comparutions :
+Représentant de l’appelante :
+Yves Hamelin
+Avocat de l’intimée :
+Me Alain Gareau
+JUGEMENT
+Selon les motifs du jugement ci-joints, l’appel de la cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition se terminant le 30 novembre 2012 est rejeté sans frais.
+Signé à Ottawa (Ontario), ce 3e jour de mai 2017.
+« Gaston Jorré »
+Juge Jorré
+Référence : 2017 CCI 73
+Date : 20170503
+Dossier : 2016-736(IT)I
+ENTRE :
+ROBOTX SOLUTIONS INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Jorré
+Introduction [1] La question en litige est de savoir si l’appelante a fait de la recherche scientifique ou du développement expérimental au cours de l’exécution de quatre contrats avec des clients.
+[2] Robotx Solutions Inc. (« Robotx ») est une société privée fondée en 2002. Selon le président de Robotx, Mathieu Billette, l’appelante est une société qui améliore des équipements à la demande des clients, notamment en augmentant leur durée de vie, en améliorant leurs mécanismes de sécurité dans le but de les rendre conformes aux normes en vigueur ou en les standardisant afin de produire des économies d’échelle.
+[3] Lors de l’année d’imposition se terminant le 30 novembre 2012, l’appelante a réclamé, lors de la production de sa déclaration de revenus T2, des dépenses de recherche scientifique et de développement expérimental (« RS&DE ») relativement à certains travaux faits dans le cadre de quatre contrats[1] :
+1. un contrat pour la société Diageo Canada (projet « DICA ») visant à améliorer la sécurité des employés utilisant des palettiseurs et des dépalettiseurs de caisses de bouteilles d’alcool;
+2. un contrat pour la MDA Corporation (projet « MDCO ») qui avait comme objectif d’optimiser le rendement et la sécurité d’une fraiseuse à commande numérique;
+3. un contrat pour la municipalité de Saint-Zotique (projet « VSZO ») visant à améliorer et à intégrer le système de contrôle d’une usine de filtration d’eau potable et de 13 stations de pompage;
+4. un contrat pour la société Metra Aluminium (projet « MEAL ») visant à minimiser les coûts de production par l’ajout d’un système particulier à la chaîne de production.
+[4] En juillet 2014, le ministre du Revenu national a établi une cotisation pour l’année d’imposition 2012 à l’égard de l’appelante et a refusé un montant de 182 483 $ pour des dépenses de RS&DE réclamées relativement aux quatre contrats (« les dépenses de RS&DE refusées »).
+[5] En conséquence, le ministre a refusé des crédits d’impôt à l’investissement de 48 043 $. Aucune question de quantum n’a été soulevée[2].
+[6] L’appelante a fait le choix d’utiliser la procédure informelle et a renoncé à l’excédent des crédits refusés au-delà de 25 000 $.
+[7] Essentiellement, en ce qui a trait aux travaux donnant lieu aux dépenses de RS&DE réclamées par l’appelante, le ministre soutient que ces travaux ne comportaient aucune incertitude technologique et qu’ils n’ont pas été réalisés à l’aide d’une investigation ou d’une recherche systématique.
+[8] Il soutient au contraire qu’au cours de ces travaux il n’y avait que des problèmes d’ordre technique pouvant être résolus par des pratiques courantes qui font partie des connaissances scientifiques ou technologiques existantes. Il soutient aussi que l’appelante n’a pas été en mesure de démontrer l’établissement d’un quelconque avancement technologique.
+[9] Pour ces raisons, le ministre prétend qu’il avait raison de refuser la réclamation de l’appelante.
+[10] De son côté, l’appelante conteste la décision du ministre et soutient que ses activités étaient admissibles au crédit réclamé.
+[11] À la lumière de ce qui précède, cette cour doit déterminer, relativement à chaque contrat, si le ministre avait raison quand il a conclu que les travaux qui ont généré les dépenses refusées ne constituaient pas des activités de RS&DE au sens de la Loi de l’impôt sur le revenu (« Loi »).
+[12] Au cours de l’audience, dans l’avis d’appel et dans la réponse à l’avis d’appel, tout le monde a fait référence au :
+1. projet pour la société Diageo Canada (DICA),
+2. projet pour la MDA Corporation (MDCO),
+3. projet pour la municipalité de Saint-Zotique (VSZO),
+4. projet pour la société Metra Aluminium (MEAL)[3].
+[13] Je vais faire de même, mais il est important de garder à l’esprit que lorsque nous parlons de ces projets il s’agit des activités pour lesquelles l’appelante réclame des dépenses de RS&DE et non de la totalité des dépenses relatives à chacun des quatre contrats.
+[14] Il y a eu deux témoins dont Mathieu Billette, le président de l’appelante. Par l’entremise de ce témoignage, l’appelante a déposé certaines preuves documentaires ainsi que des photos afin de permettre à la Cour de mieux comprendre l’étendue des travaux effectués. Jonathan Assouline, conseiller en recherche et technologie auprès de l’Agence du revenu du Canada (« ARC »), a également témoigné. M. Assouline est le responsable ayant statué sur l’admissibilité des projets de l’appelante au stade de la cotisation. Aucun témoin expert ne fut appelé par l’une ou l’autre des parties.
+Droit applicable [15] La définition de la recherche scientifique et du développement expérimental aux fins de l’impôt sur le revenu se lit de la façon suivante au paragraphe 248(1) de la Loi[4] :
+activités de recherche scientifique et de développement expérimental Investigation ou recherche systématique d’ordre scientifique ou technologique, effectuée par voie d’expérimentation ou d’analyse, c’est-à-dire :
+a) la recherche pure, à savoir les travaux entrepris pour l’avancement de la science sans aucune application pratique en vue;
+b) la recherche appliquée, à savoir les travaux entrepris pour l’avancement de la science avec application pratique en vue;
+c) le développement expérimental, à savoir les travaux entrepris dans l’intérêt du progrès technologique en vue de la création de nouveaux matériaux, dispositifs, produits ou procédés ou de l’amélioration, même légère, de ceux qui existent.
+Pour l’application de la présente définition à un contribuable, sont compris parmi les activités de recherche scientifique et de développement expérimental :
+d) les travaux entrepris par le contribuable ou pour son compte relativement aux travaux techniques, à la conception, à la recherche opérationnelle, à l’analyse mathématique, à la programmation informatique, à la collecte de données, aux essais et à la recherche psychologique, lorsque ces travaux sont proportionnels aux besoins des travaux visés aux alinéas a), b) ou c) qui sont entrepris au Canada par le contribuable ou pour son compte et servent à les appuyer directement.
+Ne constituent pas des activités de recherche scientifique et de développement expérimental les travaux relatifs aux activités suivantes :
+e) l’étude du marché et la promotion des ventes;
+f) le contrôle de la qualité ou la mise à l’essai normale des matériaux, dispositifs, produits ou procédés;
+g) la recherche dans les sciences sociales ou humaines;
+h) la prospection, l’exploration et le forage fait en vue de la découverte de minéraux, de pétrole ou de gaz naturel et leur production;
+i) la production commerciale d’un matériau, d’un dispositif ou d’un produit nouveau ou amélioré, et l’utilisation commerciale d’un procédé nouveau ou amélioré;
+j) les modifications de style;
+k) la collecte normale de données.
+[16] Il n’est pas question ici de recherche pure ni de recherche appliquée. La question est la suivante : Y a-t-il du développement expérimental au sens de la Loi? Dans cet appel les passages pertinents de la définition d’« activités de recherche scientifique et de développement expérimental » sont :
+Investigation ou recherche systématique d’ordre […] technologique, effectuée par voie d’expérimentation ou d’analyse, c’est-à-dire :
+[…]
+c) le développement expérimental, à savoir les travaux entrepris dans l’intérêt du progrès technologique en vue de la création de nouveaux matériaux, dispositifs, produits ou procédés ou de l’amélioration, même légère, de ceux qui existent.
+[…] sont compris parmi les activités […] de développement expérimental :
+d) les travaux entrepris par le contribuable […] relativement aux travaux techniques, à la conception, à la recherche opérationnelle, à l’analyse mathématique, à la programmation informatique, à la collecte de données, aux essais et […], lorsque ces travaux sont proportionnels aux besoins des travaux visés […] [à l’alinéa] c) qui sont entrepris au Canada par […] et servent à les appuyer directement.
+Ne constituent pas des activités […] de développement expérimental les travaux relatifs aux activités suivantes :
+[…]
+f) le contrôle de la qualité ou la mise à l’essai normale des matériaux, dispositifs, produits ou procédés;
+[…]
+i) la production commerciale d’un matériau, d’un dispositif ou d’un produit nouveau ou amélioré, et l’utilisation commerciale d’un procédé nouveau ou amélioré;
+[…]
+[17] Afin de déterminer si les travaux entrepris par l’appelante répondent à la définition de la Loi, les tribunaux ont adopté certains critères élaborés en 1998 par le juge Bowman (tel était alors son titre) dans l’affaire Northwest Hydraulic Consultants Ltd. c. Canada[5]. Cette approche a été confirmée plusieurs fois, notamment dans les décisions RIS – Christie Ltd. c. Canada[6] et CW Agencies Inc. c. Canada[7] de la Cour d’appel fédérale. Voir également la très récente décision de la juge D’Auray dans Formadrain Inc. c. La Reine[8]. Ces critères, tels qu’ils sont exprimés par la Cour d’appel fédérale dans CW Agencies au paragraphe 17, sont les suivants[9] :
+1. Existait-il un risque ou une incertitude technologique qui ne pouvait être éliminé par les procédures habituelles ou les études techniques courantes?
+2. La personne qui prétend faire de la RS & DE a-t-elle formulé des hypothèses visant expressément à réduire ou à éliminer cette incertitude technologique?
+3. La procédure adoptée était-elle complètement conforme à la discipline de la méthode scientifique, notamment dans la formulation, la vérification et la modification des hypothèses?
+4. Le processus a-t-il abouti à un progrès technologique?
+5. Un compte rendu détaillé des hypothèses vérifiées et des résultats a-t-il été fait au fur et à mesure de l’avancement des travaux?
+[Je souligne.]
+[18] Ces critères ont pour but de nous aider à déterminer si un contribuable a fait du « développement expérimental » au sens de la Loi, tel que je l’ai expliqué dans Les Abeilles service de conditionnement Inc. c. La Reine[10] :
+142 Il faut garder à l’esprit qu’il s’agit de considérations pour aider à déterminer s’il y a eu ou non un avancement technologique. La première considération, l’incertitude technologique, est une façon d’aborder le critère du progrès technologique; il peut difficilement être question d’un avancement technologique si on sait déjà comment obtenir le résultat; les deuxième et troisième considérations sont, entre autres, une façon de s’assurer que les travaux ont été entrepris dans l’intérêt du progrès technologique et qu’il ne s’agit pas, par exemple, d’un avancement obtenu par accident plutôt que des travaux entrepris dans l’intérêt du progrès technologique.
+143 Les cinq critères n’ont pas un caractère absolu. Par exemple, il n’est pas obligatoire que le travail ait mené à un progrès technologique; si le travail échoue, mais que par ailleurs il s’agit de travail entrepris dans l’intérêt du progrès technologique, le travail peut néanmoins être qualifié.
+[19] À la lumière de ces considérations, je dois maintenant déterminer si les projets en question constituaient des activités de développement expérimental.
+[20] Avant d’examiner spécifiquement les projets, je noterai que souvent il n’a pas toujours été facile de suivre la preuve de l’appelante et que souvent cette preuve a été relativement générale et vague.
+Faits et analyse [21] Je vais examiner chaque projet séparément.
+Projet DICA [22] Vu qu’il n’est pas question de recherche pure ni de recherche appliquée, l’unique question est de savoir s’il s’agit de développement expérimental, c’est‑à‑dire des « travaux entrepris dans l’intérêt du progrès technologique en vue de la création de nouveaux matériaux, dispositifs, produits ou procédés ou de l’amélioration, même légère, de ceux qui existent ».
+[23] Il est également clair que, dans le cadre de ce projet, il ne s’agit pas de d’un effort visant à créer ou à améliorer des matériaux ou des produits.
+[24] Il faut donc analyser ce qui suit :
+1. Les travaux ici ont-ils été entrepris dans l’intérêt du progrès technologique?
+2. Ont-ils été entrepris en vue de la création de nouveaux dispositifs ou procédés ou de l’amélioration, même légère, de ceux qui existent?
+[25] Le projet DICA fut entrepris pour Diageo Canada, une société qui se spécialise dans les produits alcoolisés. L’usine où l’appelante a effectué ses travaux se situe dans la municipalité de Valleyfield.
+[26] En termes financiers les dépenses de RS&DE réclamées pour ce projet, soit environ 81 500 $, sont de loin le montant le plus important des quatre projets. C’est approximativement deux tiers des dépenses de RS&DE réclamées[11].
+[27] Selon l’appelante, le projet consistait à créer de nouveaux procédés de sécurisation des plateaux dans le but d’améliorer des palettiseurs et des dépalettiseurs de caisses de bouteilles d’alcool[12]. Pour bien comprendre le projet, il est utile de mentionner que l’usine où étaient situés ces équipements était composée de cinq lignes d’embouteillage. Sur chacune de ces lignes se trouvait un dépalettiseur qui devait dépalettiser les caisses de bouteilles vides afin de les placer sur la ligne de production, et puis au bout de la ligne de production se trouvait un palettiseur qui devait repalettiser les mêmes caisses désormais remplies.
+[28] Chaque palettiseur ou dépalettiseur a un plateau élévateur qui sert à monter ou à descendre les caisses, car la ligne de production est au‑dessus du niveau du plancher.
+[29] Les équipements sur lesquels les travaux de sécurisation ont eu lieu étaient rattachés à l’aide d’un automate réseau qui contrôlait l’entièreté de la ligne de production. Robotx devait donc rendre les équipements sécuritaires afin de permettre aux opérateurs d’accéder aux plateaux des palettiseurs et des dépalettiseurs durant la production, tout en diminuant les temps d’arrêt sur la ligne de production.
+[30] Spécifiquement, le contrat était pour la « [s]écurisation des plateaux élévateurs pour dépalettiseurs et palettiseurs »[13].
+[31] Concrètement, le but du contrat était le suivant[14] :
+1– ENJEU DU PROJET
+• Éliminer le risque de chute du plateau de l’élévateur des palettiseurs et dépalettiseurs lors d’une intervention qui nécessite la présence d’un opérateur/mécanicien sous le plateau de la machine.
+• Rendre les machines sécuritaires selon les normes [actuelles][15].
+[32] Selon M. Billette, les équipements utilisés pour les travaux étaient désuets et ne répondaient plus aux normes de sécurité actuelles. De plus, les manufacturiers d’origine ne donnaient plus de soutien technique pour ces équipements, ce qui aurait rendu la cueillette de données plus compliquée qu’initialement prévu.
+[33] Parce que les palettiseurs et les dépalettiseurs n’étaient pas tous uniques, l’idée de départ mise de l’avant par Robotx fut de concevoir une approche universelle qui allait pouvoir être réutilisée pour chacun des équipements. C’est, entre autres, cette idée qui fut soumise à Diageo et qui permit à Robotx d’obtenir le contrat de service présentement en litige. L’appelante a fait d’autres travaux chez Diageo, mais seul ce projet fut soumis à une demande de crédit à l’investissement en RS&DE.
+[34] Selon M. Billette, le projet DICA a débuté par une analyse préliminaire, c’est-à-dire l’élaboration d’un concept qui permit à Robotx de valider les prix qu’elle a proposés en appel d’offres. Puisque l’appelante proposait des prix forfaitaires, ce qui représente un risque financier important pour elle, il était primordial pour l’appelante d’avoir une certaine certitude qu’elle serait en mesure de réaliser le projet.
+[35] En ce qui concerne les aspects technologiques de ce projet, le témoin de l’appelante soutient qu’il y en avait plusieurs : tout d’abord, en vertu de l’entente entre les parties, il était essentiel de s’assurer que les équipements désuets répondaient aux normes de sécurité actuellement en vigueur, et donc que le plateau chargé de caisses ne puisse pas tomber sur les opérateurs qui devaient nettoyer les équipements. Ces changements devaient s’effectuer tout en respectant le débit de production.
+[36] De plus, la désuétude des équipements et la perte de certains opérateurs ayant des connaissances de terrain quant à l’utilisation de ces équipements auraient soulevé des incertitudes technologiques importantes ayant été découvertes qu’après le commencement des travaux.
+[37] Finalement, au niveau de la conception, il devait y avoir un modèle universel pouvant être utilisé sur la totalité des équipements, le tout dans des espaces restreints imposés par la fabrication d’origine des équipements ainsi que leur position par rapport à la chaîne de production.
+[38] Afin de combler ces incertitudes, Robotx a tenté d’utiliser dans ses conceptions le maximum de pièces standards de l’industrie, le tout dans l’optique de faciliter la maintenance des équipements suite aux ajustements.
+[39] Quant à la procédure adoptée afin de réaliser ce projet, M. Billette soutient qu’en premier lieu une hypothèse a été adoptée par une équipe multidisciplinaire puis mise à l’épreuve par validation. Suite à un essai, que ce soit par simulation 3D ou directement sur la ligne de production, une nouvelle hypothèse était adoptée puis remise à l’épreuve, jusqu’à ce que les incertitudes soient totalement dissipées. Selon lui, cette méthode est d’ailleurs suffisamment étayée par deux fichiers Excel soumis par l’appelante démontrant les essais entrepris lors des validations[16]. Il soutient que dans le cadre de ce projet, une centaine d’essais furent tentés incluant les essais par simulation 3D et en usine.
+[40] En ce qui a trait directement au fonctionnement du système de sécurité, celui-ci fut intégré aux systèmes déjà existants de l’équipement par le positionnement de deux tubes avec deux supports pour des arbres de chrome. Ce faisant, l’espace disponible est devenu nul, ce qui a fait en sorte d’obliger l’appelante à concevoir un système allant aux limites au niveau des épaisseurs de matériaux utilisés.
+[41] Suite à ces changements, plusieurs problèmes apparurent en cascade, ce qui a forcé l’appelante à effectuer plusieurs essais et quelques modifications des composantes utilisées. En cours de route, l’option d’un système universel s’est avérée impossible à réaliser, ce qui a nécessité la mise en place de nouvelles hypothèses de travail. Toutefois, l’appelante a été en mesure de concevoir et d’utiliser un panneau de contrôle dans la presque totalité des équipements, ce qui assurait la communication des capteurs du système de freinage avec le reste du système de sécurité, le tout par l’entremise d’un automate.
+[42] En fin de projet, cinq machines sur un total de 10 équipements ont finalement été améliorées par l’appelante. Selon M. Billette, les recherches et les résultats obtenus lors de ce projet pourraient probablement être réutilisés « jusqu’à un certain point » dans le cadre de mandats similaires avec des équipements semblables.
+[43] Au niveau financier, Robotx n’a pas été en mesure d’atteindre les objectifs qu’elle s’était donnés. En effet, en cours de route, des dépassements de coût importants ont été constatés, ce qui a mené Diageo à abandonner l’amélioration de deux lignes de production, celle-ci ayant choisi de complètement les moderniser par l’achat de nouveaux équipements.
+[44] De son côté, M. Assouline, le témoin de l’intimée, soutient que l’appelante n’a pas été en mesure de démontrer qu’un quelconque progrès technologique avait été visé, et donc qu’il existait une incertitude technologique relativement à ce projet. L’intimée reconnaît que l’appelante devait travailler avec des équipements assez vieux afin de les rendre conformes aux normes actuelles, mais selon elle, cela n’équivaut pas à des travaux de RS&DE[17].
+[45] Selon lui, rien dans les propos de l’appelante ou dans sa documentation ne permet d’identifier les difficultés ou la nature d’un problème qui n’aurait pas pu être surmonté par les connaissances technologiques disponibles actuellement.
+[46] De plus, il prétend que la documentation soumise par l’appelante constatant les différents essais et hypothèses présente des travaux de nature purement technique, c’est-à-dire l’identification du problème, puis la résolution de celui‑ci par l’application pratique des connaissances technologiques généralement disponibles. Aucun des documents soumis n’indique qu’il y avait des limites technologiques que l’on cherchait à dépasser, ni en début de projet ni en cours de route.
+[47] Finalement, à la lecture de cette documentation, il est d’avis qu’il est impossible de confirmer le moment où ces travaux ont été effectués, ce qui représente un problème considérant que les travaux ont débuté en 2011 et non en 2012[18].
+[48] Également, M. Assouline fait valoir que les informations manquantes que l’appelante définit comme étant des incertitudes technologiques sont en fait des informations qui auraient pu être raisonnablement obtenues avant d’entreprendre le projet puisque, selon toute vraisemblance, ces informations étaient détenues par la société Diageo.
+[49] L’intimée soutient donc que le projet DICA peut se définir comme étant du développement normal, ce qui ne constitue pas des travaux de RS&DE.
+Analyse DICA [50] Comme nous l’avons déjà vu, le but du projet était de rendre les palettiseurs ou les dépalettiseurs conformes aux normes de sécurité actuelles en éliminant le risque de chute du plateau élévateur lorsqu’un opérateur ou un mécanicien se trouvait en dessous.
+[51] Dans le cas des palettiseurs ou des dépalettiseurs qui ont été modifiés, ceci a été fait en mettant un nouveau dispositif de freinage pour bloquer le plateau élévateur en place et un système d’interverrouillage qui assurait l’arrêt de tout dès l’ouverture d’une porte donnant accès à l’espace en dessous du plateau élévateur[19]. L’intention était de faire de même pour les autres palettiseurs et dépalettiseurs, mais cela fut abandonné pour des raisons financières avec l’accord du client[20].
+[52] S’agit-il de développement expérimental au sens de la Loi? Y a‑t‑il eu i) des travaux entrepris dans l’intérêt du progrès technologique ii) en vue de la création de nouveaux dispositifs ou procédés ou de l’amélioration de ceux qui existent?
+[53] Il est utile de souligner que lorsque la Loi dit « en vue de la création de nouveaux matériaux, dispositifs, produits ou procédés ou de l’amélioration, même légère, de ceux qui existent », on ne peut lire ces mots sans tenir compte de toute la disposition et, notamment, de l’exigence que le but doit être le progrès technologique.
+[54] Le progrès technologique, la nouveauté ou l’amélioration doivent être relatifs aux connaissances scientifiques et technologiques qui existent déjà ou aux matériaux, dispositifs ou procédés qui existent. Or, si la nouveauté ou l’amélioration peuvent être accomplies par les procédures habituelles, les études techniques courantes ou les connaissances actuelles (qui font partie des connaissances scientifiques et technologiques qui existent), il ne peut s’agir de progrès technologique[21].
+[55] Ce n’est donc pas suffisant d’améliorer un dispositif ou un procédé particulier existant; il faut qu’il y ait amélioration par rapport à la technologie existante et il faut être incapable de faire le progrès en utilisant les procédures habituelles actuelles, les études techniques courantes ou les connaissances existantes.
+[56] En conséquence, l’amélioration d’une vieille machine qui fait un travail particulier pour augmenter le niveau de sécurité ne peut représenter un progrès technologique si d’autres machines faisant le même travail avec le niveau de sécurité voulu existent déjà, ou si l’amélioration peut être faite sans progrès technologique quant à la façon de faire l’amélioration[22].
+[57] Examinons cette question de progrès technologique en premier lieu en termes de création ou d’amélioration d’un « dispositif ».
+[58] Ici, il n’y a rien dans la preuve qui suggère qu’il n’existait pas déjà des palettiseurs et des dépalettiseurs répondant aux normes de sécurité voulues ou qu’il y a une amélioration par rapport à ce qui existait déjà. Par rapport aux normes de sécurité, on a parlé en termes de mise à niveau.
+[59] En conséquence, l’appelante ne m’a pas convaincu qu’il y a des travaux entrepris en vue de la création d’un nouveau dispositif ou de l’amélioration de dispositifs qui existent déjà.
+[60] Deuxièmement, examinons cette question en termes de création ou d’amélioration de « procédés ».
+[61] Il n’y a aucun doute qu’il y avait certaines incertitudes au départ et que divers problèmes ont surgi au cours de l’exécution du travail; je n’ai aucun doute qu’il n’était pas toujours évident, au moment où un problème a été découvert, comment, précisément, résoudre le problème[23].
+[62] Toutefois, ce n’est pas le simple fait qu’il existe des incertitudes, que des problèmes surgissent et que cela puisse prendre un certain effort pour déterminer comment résoudre ces problèmes qui fait que l’effort pour résoudre ces problèmes constitue nécessairement du développement expérimental. Il faut qu’il s’agisse d’incertitudes technologiques. Énormément de personnes ayant entrepris des rénovations de vieilles maisons en ont fait l’expérience : des situations inconnues quant à ce qui est caché derrière le mur, des surprises quand on ouvre le mur, etc. En soi, des difficultés ne sont pas suffisantes pour que la résolution de ces problèmes devienne du développement expérimental[24].
+[63] Si l’on cherche à faire des progrès technologiques relativement à un procédé[25], je m’attendrais à ce qu’on puisse décrire clairement et précisément la nouveauté ou l’amélioration recherchée par rapport aux procédés actuels. Ce n’est pas le cas ici[26].
+[64] L’appelante n’a pas démontré que, pour accomplir le contrat, elle a créé ou tenté de créer de nouveaux procédés ou de nouvelles techniques par rapport à ceux qui existent déjà. Elle n’a pas non plus démontré qu’elle a amélioré ou tenté d’améliorer un ou plusieurs procédés ou techniques par rapport à ceux qui existent déjà en vertu de la technologie actuelle[27].
+[65] En conséquence, l’appelante ne m’a pas convaincu que des travaux entrepris dans le cadre du contrat Diageo ont été entrepris en vue de la création de nouveaux procédés ou de l’amélioration de ceux qui existent.
+[66] En ce qui concerne le contrat Diageo, il n’y a donc pas lieu de modifier la cotisation.
+[67] Il est utile de souligner ceci. Si j’avais été d’avis qu’il y avait eu des travaux entrepris en vue de l’amélioration de dispositifs ou de procédés actuels, il aurait fallu que j’examine les autres critères élaborés dans CW Agencies.
+[68] D’une part, j’aurais eu à examiner la question ci-dessous :
+La procédure adoptée était-elle complètement conforme à la discipline de la méthode scientifique, notamment dans la formulation, la vérification et la modification des hypothèses?[28]
+[69] D’autre part, j’aurais eu à examiner la question suivante : Les incertitudes pouvaient‑elles être résolues par les procédures habituelles ou les études techniques courantes?
+[70] Dans les circonstances il n’est pas nécessaire que je décide ces questions, mais je noterais que, s’il était nécessaire de les examiner, généralement la preuve présentée ne me semble pas être suffisamment claire, précise et détaillée pour permettre de conclure qu’il s’agit bien de progrès technologique.
+[71] Bien que les dispositions de la Loi n’exigent pas de documentation contemporaine avec un contenu spécifique pour démontrer les travaux de développement expérimental, il est très important d’être capable de faire une preuve claire, détaillée et précise; cela peut se révéler extrêmement difficile sinon impossible en l’absence d’une bonne documentation au cours des travaux[29]. Comme le dit le juge Archambault dans 116736 Canada Inc. c. Canada[30] :
+40 À mon avis, des rapports contemporains fournissant des détails précis de chaque expérience tentée par un chercheur devraient constituer une preuve d’une investigation systématique. Tout contribuable qui tenterait de convaincre le Ministre qu’il a droit de déduire des dépenses de R-D sans fournir une telle preuve se placerait dans une position très précaire. Un contribuable serait dans une position semblable s’il se présentait devant la présente cour pour contester le refus du Ministre de permettre la déduction de ses dépenses de R-D.
+Projet MEAL [72] Ce projet est le deuxième en termes de dépenses réclamées, soit un peu plus de 22 000 $.
+[73] Metra Aluminium est un manufacturier d’extrusion d’aluminium. Dans le cadre de l’entente signée avec Metra Aluminium, Robotx devait concevoir, fabriquer et installer un dispositif que Metra et Robotx ont appelé un « rouleau correcteur » ou « redresseur plaque »[31] qui devait être intégré à une chaîne de production existante.
+[74] Ce dispositif devait redresser des barres rectangulaires d’aluminium qui sortaient d’une machine à extruder. Metra voulait intégrer l’étape du redressement d’une plaque d’aluminium directement sur la chaîne de production, afin d’éviter les déplacements, le tout, sans motorisation et de façon sécuritaire. Ceci permettrait à Metra de modifier ses procédés afin de minimiser les coûts associés au fonctionnement de sa chaîne de production, notamment en réduisant le nombre de fois qu’il fallait manipuler les plaques d’aluminium.
+[75] En début de projet, l’intention de l’appelante était de créer un système fixe, sans pivot, le tout afin d’assurer la planéité de la plaque d’aluminium directement sur la chaîne de production. Toutefois, après quelques essais, Robotx a réalisé que cette option n’était pas optimale considérant les caractéristiques inhérentes de la machine, notamment les structures établies qui ne pouvaient pas être modifiées.
+[76] Un système en deux sections a donc dû être mis en place. M. Billette a aussi fait valoir que le client a fourni des informations essentielles en cours de projet, ce qui a provoqué certains changements qui auraient pu être évités à l’étape de la conception. Des essais par simulation 3D ont également été entrepris par l’appelante, ce qui a permis à cette dernière de concevoir plusieurs prototypes afin d’enclencher la mise en place en usine.
+[77] Un autre défi provenant de ce projet consistait à combiner des procédés existants reposant sur des équipements usagés avec de nouveaux procédés et des équipements de nouvelle génération. Aucune information n’était disponible quant à la possibilité de simuler le comportement du matériel sur la chaîne de production puisque non seulement la température de ce matériel était très élevée, mais aussi l’alliage était une information confidentielle.
+[78] Selon l’appelante, le principal point d’incertitude de ce projet résidait dans la recherche de solution aux problèmes complexes identifiés durant les essais tout en créant un système sécuritaire qui satisfait aux exigences et aux objectifs établis par le client[32].
+[79] M. Assouline fait valoir que les travaux présentés par l’appelante ne décrivent pas des enjeux de RS&DE, mais plutôt des problématiques présentant des obstacles physiques, dimensionnels et opérationnels.
+[80] Il soutient également que les travaux indiqués par l’appelante dans sa demande ne sont que des énumérations de problématiques anticipées. Il prétend que ces travaux ne sont que des détails quant à la solution à livrer au client afin de répondre à la demande et non des travaux entrepris de façon systématique dans le but d’éliminer une incertitude technologique.
+[81] Selon les renseignements que l’appelante a donnés dans sa demande, M. Assouline prétend que l’appelante n’a fourni aucune information additionnelle permettant au ministre d’identifier une incertitude technologique ou encore un avancement technologique.
+[82] La position du ministre est donc que les travaux réclamés par l’appelante constituent plutôt du développement normal d’un équipement ou d’un système à être incorporé à un autre pour corriger un problème technique de déformation de l’aluminium. Selon l’intimée, « [l]es travaux de conception, de design, d’essais et d’ajustements découlent entièrement de la pratique courante dans un contexte de développement de produit et d’équipement »[33].
+[83] Je regrette mais, à partir de la preuve faite, je ne peux conclure à l’existence de développement expérimental au sens de la Loi.
+[84] Je n’ai pas entendu de preuve qu’on avait comme but du progrès technologique en vue de créer un nouveau dispositif ou un nouveau procédé.
+[85] Toutefois, supposons que j’avais conclu qu’il s’agit d’un nouveau dispositif ou d’un nouveau procédé.
+[86] Il n’y a pas de preuve claire et détaillée de chaque étape des travaux qui permettrait de conclure que des travaux individuels spécifiques, certains groupes de travaux ou la totalité de travaux étaient pour résoudre des incertitudes technologiques qui ne pouvaient être résolues avec les méthodes et les connaissances actuelles.
+[87] Au contraire, il y a des éléments qui suggèrent que les incertitudes ne sont pas technologiques. D’une part, en cours de route le client a, en apprenant certaines choses lui-même, imposé de nouvelles contraintes. De tels changements ne sont pas en soi, pour l’appelante, une incertitude technologique.
+[88] D’autre part, certaines choses dans la preuve ne sont pas forcément des techniques autres que des techniques habituelles. Par exemple, l’appelante dit avoir fait de la simulation 3D; en soi, à ce niveau de généralité, cela ne nous aide pas à savoir s’il s’agit ou non de développement expérimental, car certaines simulations sont des techniques tout à fait habituelles. Dans notre cas, il se pourrait qu’il s’agisse tout simplement d’avoir utilisé un logiciel « AUTOCAD » (Automated Computer Aided Design) pour voir s’il pouvait bien créer le dispositif avec les différentes contraintes telles que la disposition des autres dispositifs de la ligne de production, l’espace disponible, etc.[34]; une telle utilisation de logiciel ne démontrerait pas, en soi, qu’il s’agit d’une technique inhabituelle. Par contre, s’il s’agit d’une autre forme de simulation inhabituelle, il n’y a aucune preuve de cela.
+[89] C’est à l’appelante de démontrer l’incertitude technologique au sens de la Loi.
+[90] En conséquence, je conclus qu’il ne s’agit pas de développement expérimental et il n’y a pas lieu de modifier la cotisation quant au projet MEAL. Elle doit être maintenue.
+Projet VSZO [91] L’appelante a réclamé environ 15 000 $ en dépenses de RS&DE relativement à ce projet.
+[92] Le formulaire d’appel d’offres fourni par la municipalité de Saint‑Zotique à l’appelante indiquait comme titre de projet « Mise à niveau systèmes de contrôle usine traitement d’eau et stations de pompage »[35]. La résolution de la municipalité accordant le contrat à l’appelante le 21 août 2012 contient la description suivante dans son titre : « Implantation de la télémétrie Ethernet dans les stations de pompage d’égout et nouveau programme pour l’usine de filtration »[36].
+[93] L’appel d’offres de l’appelante était d’un montant forfaitaire de 436 249 $. Vu que la municipalité n’a approuvé le contrat que le 21 août 2012 et que la fin de l’exercice financier de l’appelante était le 30 novembre 2012, l’appelante n’a pu que commencer ses travaux au cours de l’année d’imposition en litige. L’appelante reconnaît qu’une partie des travaux en vertu du contrat n’est pas de la recherche scientifique ou du développement expérimental.
+[94] J’ai les mêmes difficultés pour ce projet que pour les deux projets précédents. Ces difficultés font que l’appelante ne m’a pas convaincu qu’elle a fait du développement expérimental au sens de la Loi.
+[95] La preuve de l’appelante a démontré différentes difficultés qui ont eu lieu au cours de l’exécution du projet et non seulement au cours de l’année d’imposition 2012. L’appelante n’a pas démontré que ces difficultés ne pouvaient être surmontées qu’en utilisant des méthodes autres que les méthodes habituelles; il n’y a pas de preuve spécifique et claire qui démontre que certains travaux ou certains groupes de travaux représentaient un effort qui nécessitait l’utilisation de méthodes inhabituelles.
+[96] Toutefois, ici il y a un problème additionnel. Même si j’étais d’avis qu’il y avait du développement expérimental au cours de la durée du projet, la preuve faite est au sujet de l’ensemble du projet. Il n’y a rien dans la preuve qui permettrait de conclure que des travaux spécifiques au cours de l’année en litige constituaient des travaux de développement expérimental.
+[97] Il n’y a donc pas lieu de modifier la cotisation relativement au projet VSZO.
+Projet MDCO [98] Le dernier projet à analyser est celui conclu avec la MDA Corporation, le projet MDCO. En termes financiers, il s’agit du projet ayant le plus petit montant de dépenses réclamées, soit un peu moins de 4 000 $.
+[99] Dans le cadre du contrat, selon le sommaire du projet contenu dans le formulaire T‑661 de l’appelante, Robotx était appelée à concevoir, à développer et à mettre au point de nouveaux mécanismes et de nouvelles composantes afin d’optimiser le rendement et la sécurité d’une fraiseuse à commande numérique[37].
+[100] L’essentiel du projet était de créer un mécanisme avec une pièce protectrice à ajouter à des fraiseuses qu’avait MDA pour améliorer la sécurité des employés[38]. Plus généralement, Robotx voulait créer un tel mécanisme pouvant s’intégrer à divers équipements avec une partie rotative, que ce soit une fraiseuse, une perceuse ou autre.
+[101] M. Billette a témoigné qu’il n’existait pas de tel mécanisme sur le marché. Ce qui existait sur le marché concernant ce type de dispositif manquait de rigidité et n’était pas adapté à tous les types de machines.
+[102] Selon M. Billette, les obstacles technologiques à surmonter lors de l’achèvement de ce projet étaient majoritairement liés au fait que Robotx n’a pas été en mesure d’obtenir le soutien technique du fabricant et des intervenants qui avaient déjà utilisé la machine.
+[103] De son côté, M. Assouline soutient que le développement de ce système, tel qu’il a été présenté et décrit, ne répond pas à la définition de RS&DE selon la Loi. Selon lui, il s’agirait simplement de développement normal ou d’amélioration normale de ce type d’équipement selon les connaissances technologiques présentement connues.
+[104] De plus, malgré les demandes de l’ARC relatives à la documentation appuyant la prétention de l’appelante, Robotx n’a jamais fourni les documents qu’elle disait avoir à l’appui de ce projet. Pourtant, il appert que selon le dossier d’examen l’ARC a donné un délai de plus de cinq mois à l’appelante pour effectuer l’envoi des documents, alors que le délai habituel est de 30 jours.
+[105] Idéalement, quant à la nouveauté de dispositifs envisagés, il y aurait eu une preuve plus étoffée relativement au fait qu’il n’existait pas de dispositifs répondant aux besoins. Toutefois, j’accepte que ce qui était envisagé était nouveau.
+[106] Cependant, comme pour les projets précédents, la preuve ne permet pas de conclure que les incertitudes sont des incertitudes technologiques[39].
+[107] Il n’y a donc pas lieu de changer la cotisation en ce qui concerne le projet MDCO.
+Conclusion [108] Pour ces motifs l’appel est rejeté sans frais.
+Signé à Ottawa (Ontario), ce 3e jour de mai 2017.
+« Gaston Jorré »
+Juge Jorré
+RÉFÉRENCE :
+2017 CCI 73
+Nº DU DOSSIER DE LA COUR :
+2016-736(IT)I
+INTITULÉ DE LA CAUSE :
+ROBOTX SOLUTIONS INC. c. LA REINE
+LIEU DE L’AUDIENCE :
+Montréal (Québec)
+DATES DE L’AUDIENCE :
+Les 31 octobre et 14 décembre 2016
+DATES DE RÉCEPTION DES TRANSCRIPTIONS :
+Le 14 novembre 2016 et le 3 janvier 2017 respectivement
+MOTIFS DU JUGEMENT PAR :
+L’honorable juge Gaston Jorré
+DATE DU JUGEMENT :
+Le 3 mai 2017
+COMPARUTIONS :
+Représentant de l’appelante :
+Yves Hamelin
+Avocat de l’intimée :
+Me Alain Gareau
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Cabinet :
+Pour l’intimée :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa (Ontario)
+[1] Nous savons les montants réclamés, mais la preuve ne permet pas de déterminer quelle proportion de la totalité des dépenses engagées dans les contrats a été réclamée comme dépenses de RS&DE.
+Par exemple, à la page 98 de la transcription du 31 octobre 2016, M. Billette explique que les montants réclamés ne représentent qu’une partie des dépenses relatives au contrat avec la municipalité de Saint-Zotique.
+Autre exemple — dans le cas où le plus grand montant de dépenses a été réclamé, le contrat pour Diageo Canada, on sait qu’un montant de 81 522 $ a été réclamé (voir la page 5 de l’onglet 10 de la pièce A‑1), mais il semble que des montants plus importants ont été engagés au cours du contrat; quand on lit la discussion au sujet des dépassements de coût aux pages 77 et 78 de la transcription du 31 octobre 2016, il semble que le total des montants dépensés est plus important bien qu’il est difficile d’en être sûr, car le contrat a eu lieu au cours de plus d’une année. D’ailleurs à la page 37 de la même transcription, M. Billette fait référence à deux « projets » que l’appelante avait en même temps pour Diageo Canada, un avec de la recherche scientifique et du développement expérimental et un sans recherche scientifique et développement expérimental; un des deux « projets » est un des quatre contrats en question ici; l’autre « projet » représente probablement un autre contrat.
+[2] Selon la réponse à l’avis d’appel les montants réclamés par l’appelante à titre de RS&DE et refusés par le ministre pour l’année d’imposition 2012 sont les suivants :
+Employés
+91 923 $
+Contrat sans lien de dépendance
+31 800 $
+Montant de remplacement visé par règlement
+59 360 $
+Total des dépenses de RS&DE réclamées
+182 483 $
+Aide gouvernementale provinciale
+–45 216 $
+Total des dépenses de RS&DE admissibles
+137 267 $
+Crédit d’impôt à l’investissement refusé
+48 043 $
+Je note que dans les documents déposés par l’appelante, les chiffres sont un peu différents. Par contre, vu qu’aucune question de quantum n’a été soulevée et vu ma conclusion, il n’est pas nécessaire que je concilie ces différences.
+[3] Cette formulation des projets découle de la façon dont les contribuables doivent faire leurs demandes de crédit d’impôt.
+[4] Version applicable au 30 novembre 2012.
+[5] [1998] A.C.I. no 340 (QL).
+[6] [1998] A.C.F. no 1890 (QL).
+[7] 2001 CAF 393.
+[8] 2017 CCI 42.
+[9] Ces critères ont également été adoptés par l’ARC dans la circulaire d’information 86-4R3 remplacée par la Politique sur l’admissibilité des travaux aux crédits d’impôt à l’investissement en RS&DE datée du 19 décembre 2012 et, ensuite, du 24 avril 2015.
+[10] 2014 CCI 313.
+[11] Voir les pages 5, 10, 15 et 20 à l’onglet 10 de la pièce A‑1. Les montants réclamés pour les projets MDCO, MEAL et VSZO sont de 3 987 $, de 22 606 $ et de 15 007 $ respectivement.
+[12] Cinq palettiseurs de type 1, et quatre dépalettiseurs de type 2, 3, 4 et 5.
+[13] Voir le bon de commande à la dernière page de l’onglet 4 de la pièce A‑1 et les factures à l’onglet 5 de la pièce A‑1, par exemple, la facture du 11 juillet 2011 où il est écrit, sous « Sécurisation Plateaux Élévateurs » : « Demande de soumission — Sécurisation des plateaux élévateurs pour dépalettiseurs et palettiseurs » .
+[14] Voir dans le coin supérieur gauche de la deuxième page à l’onglet 15 de la pièce A‑1.
+[15] J’ai ajouté le mot « actuelles ». De temps à autre des caisses tombent des plateaux élévateurs et du verre brisé se répand, entre autres, en dessous des plateaux élévateurs. Quand cela arrive, un employé doit enlever le verre en dessous du plateau élévateur. Le texte de ce document est nettement plus clair que la description de ce projet à l’onglet 10 de la pièce A‑1, formulaire « T‑661 », aux pages numérotées 5 et 6.
+La description à la page numérotée 5 de l’onglet 10 dit au deuxième paragraphe que « [l]e projet vise à améliorer la productivité de l’entreprise ainsi qu’à éliminer les risques d’accidents de travail ».
+Deux commentaires — premièrement le projet concerne uniquement les plateaux élévateurs; il n’a pas été question d’autres risques d’accidents liés à l’exploitation des lignes d’embouteillage.
+Deuxièmement, bien qu’on parle de productivité au cours de la preuve, je n’ai rien vu ou entendu de concret dans la preuve indiquant que le projet visait à augmenter la productivité des lignes d’embouteillage comme telle. Sans doute, il ne fallait pas avoir comme conséquence des modifications de réduire la production et il se peut que, de façon incidente, la meilleure sécurisation des plateaux élévateurs ait comme effet de réduire le temps d’arrêt nécessaire du palettiseur ou du dépalettiseur quand il fallait nettoyer en dessous d’un plateau élévateur, mais la preuve n’indique pas que cela était un objectif.
+[16] Pièce A‑1, onglets 16 et 17; voir aussi l’onglet 15.
+[17] M. Assouline ne témoignait pas en tant que témoin expert. Par contre, comme conseiller en recherche et technologie de l’ARC, il est dans la même situation qu’un vérificateur et il peut témoigner sur la base de la cotisation.
+[18] Je ne comprends pas entièrement pourquoi le témoin dit que le moment où les travaux ont été faits ne peut être établi. Pour certaines choses, il y a de la documentation; voir l’onglet 17 à la pièce A‑1.
+[19] Voir, entre autres, les pages 35, 36, 51, 52, 63 et 64 de la transcription du 31 octobre 2016.
+[20] D’ailleurs, pour deux des chaînes de production que l’appelante n’a pas utilisées, le problème s’est réglé parce que le client a investi et a acheté deux nouvelles chaînes de production.
+[21] C’est pour cela que la question soulevée par le premier critère élaboré dans CW Agencies, ci-dessus, est la suivante : « Existait-il un risque ou une incertitude technologique qui ne pouvait être éliminé par les procédures habituelles ou les études techniques courantes? »
+[22] Par exemple, si l’on réduit la consommation d’électricité d’une machine simplement en remplaçant son moteur par un moteur plus économique en électricité qui existe déjà et que l’intégration du moteur peut se faire très simplement avec des techniques bien connues, il ne peut être question de progrès technologique. Par contre, si l’on réussit à, ou si l’on essaie de, mettre à niveau une vieille machine par un nouveau procédé qui est beaucoup plus économe en termes de ressources utilisées, il se peut qu’il s’agisse de développement expérimental si l’on ne peut faire les travaux avec les études ou procédures habituelles.
+[23] Parmi les sources de difficulté, il y avait : un manque d’information relatif au fonctionnement des palettiseurs et des dépalettiseurs, entre autres, parce que le manufacturier d’origine ne donnait plus de soutien technique pour ces machines; certaines informations que l’appelante a dû découvrir au cours des travaux mais qui étaient connues, par exemple, un ou plusieurs plateaux élévateurs fonctionnaient différemment en mode automatique et en mode manuel, une information qui devait nécessairement être connue par les opérateurs de Diageo mais qui n’a pas été communiquée à l’appelante; les contraintes liées à l’espace dans lequel il fallait travailler.
+[24] Ce n’est pas non plus parce qu’on fait un effort systématique pour résoudre les incertitudes et les problèmes que cela constitue automatiquement un effort de surmonter des incertitudes technologiques et, donc, du développement expérimental. L’entrepreneur en rénovation va formuler un plan avant de commencer les travaux; quand les problèmes surgissent, il va devoir réviser le plan — « faire des « hypothèses » dans un certain sens — et essayer la nouvelle solution et, s’il y a lieu, réviser le plan à nouveau.
+[25] Ou relativement à un dispositif.
+[26] Le contribuable dit avoir augmenté ses connaissances mais cela ne démontre pas qu’il y a un effort à faire un progrès technologique.
+[27] La mesure de nouveauté ou d’amélioration n’est pas par rapport à ce que connaît le contribuable; la mesure est par rapport à ce qui est connu généralement.
+[28] CW Agencies, 2001 CAF 393.
+[29] Voir le paragraphe 94 et la note 41 dans Les Abeilles, 2014 CCI 313. Je soulignerais le fait que dans Les Abeilles, malgré les prétentions du ministre au cours de ce procès-là, il y avait une bonne documentation de base faite au cours des travaux en question, une documentation électronique; de plus, dans Les Abeilles, l’appelante avait préparé et déposé en preuve une documentation additionnelle explicative détaillée et précise créée pendant et après la vérification.
+[30] [1998] A.C.I. no 478 (QL).
+[31] Voir les onglets 8 et 9 à la pièce A-1. Quand on examine la facture du 16 janvier 2012 il n’est pas clair s’il s’agit en fait d’un contrat pour un, ou deux, « rouleau correcteur ».
+[32] Voir la page 16 à l’onglet 10 de la pièce A‑1.
+[33] Pièce I-1, rapport d’examen de la recherche scientifique et du développement expérimental, page 6.
+[34] À l’avant‑dernière page de l’onglet 9 de la pièce A-1, on constate que lorsque l’appelante et le client se sont mis d’accord pour mettre fin au contrat avant que l’appelante ait essayé d’assembler le dispositif qu’elle créait, l’appelante s’est engagée à non seulement remettre au client les pièces du dispositif qu’il avait fabriqué mais également les plans en format électronique AUTOCAD.
+[35] Pièce A‑1, onglet 1, de la cinquième à la huitième page.
+[36] Pièce A‑1, onglet 2, résolution 2012-08-330.
+[37] Pièce A‑1, onglet 10, formulaire T-661, sommaire du projet MDCO, page numérotée 10.
+[38] Voir, entre autres, les bons de commande et la facturation aux onglets 6 et 7 de la pièce A-1 où l’on parle, par exemple, de « protecteur fraiseuse ».
+[39] Il n’a pas été démontré qu’il fallait utiliser des procédures ou des techniques inhabituelles.

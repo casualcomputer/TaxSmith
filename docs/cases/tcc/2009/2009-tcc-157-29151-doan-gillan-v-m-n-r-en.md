@@ -1,0 +1,178 @@
+---
+title: "Doan-Gillan v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29151/index.do"
+last_modified: "2009-03-17"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 TCC 157"
+citation2: ""
+neutral_citation: "2009 TCC 157"
+decision_date: "2009-03-17"
+language: "en"
+item_id: "29151"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6681
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T01:26:56.111000+00:00"
+cases_cited_count: 1
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "bada4a09ae1418d724ccaafa71907da32ea2f6d33d61a2910fe6098d9a1aa0eb"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Doan-Gillan v. M.N.R.
+
+- Citation: 2009 TCC 157
+- Decision date: 2009-03-17
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6681, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Doan-Gillan v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2009-03-17
+Neutral citation
+2009 TCC 157
+File numbers
+2008-2538(EI)
+Judges and Taxing Officers
+Valerie A. Miller
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2008-2538(EI)
+2008-2539(CPP)
+BETWEEN:
+KELLY DOAN-GILLAN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on March 13, 2009, at London, Ontario
+Before: The Honourable Justice Valerie Miller
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Pascale Tétrault
+____________________________________________________________________
+JUDGMENT
+The appeals from the decisions made under the Employment Insurance Act and the Canada Pension Plan for the period from January 1, 2006 to September 26, 2007 are allowed and the decisions are vacated.
+Signed at Ottawa, Canada, this 17th day of March 2009.
+“V.A. Miller”
+V.A. Miller, J.
+Citation: 2009TCC157
+Date: 20090317
+Docket: 2008-2538(EI)
+2008-2539(CPP)
+BETWEEN:
+KELLY DOAN-GILLAN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+V.A. Miller, J.
+[1] The Appellant appeals from a decision made by the Minister of National Revenue (the “Minister”) that she was employed in insurable and pensionable employment by Syrier Poultry Limited (the “Payer”) during the period January 1, 2006 to September 26, 2007.
+[2] These appeals were heard on common evidence. The sole issue is whether the Appellant was employed under a contract of service or under a contract for services.
+[3] The assumptions of fact on which the Minister made his decision are as follows:
+(a) the Payer’s nature of business operations is growing broiler chickens from 1 day old to market age;
+(b) Peter Syrier for the Payer makes all the business decisions;
+(c) the Appellant controls the day to day operations of the business;
+(d) the Appellant was hired under a verbal agreement;
+(e) the Appellant is responsible for the following:
+- to spread shavings, set up, prepare for, and receive new chicks,
+- while the birds grow, he must make feeder and water adjustments, medicate, weigh, and then ships the birds
+- he fills out OFSAP forms as well as shipment documents
+- after the birds are shipped, he must clean out, wash down, repair and disinfect barns
+- a cycle lasts 9 weeks and is repeated
+(f) the Appellant performed his duties at the Payer’s farm;
+(g) the Appellant was required to report to the Payer in person and by telephone if a problem arise;
+(h) the Payer visited the farm several times through the growing period;
+(i) the Payer supervised the Appellant by assessing the condition of the birds and facilities during growing period and by analyzing charts and assessing the final results;
+(j) the Appellant was provided with ongoing verbal instructions and written instructions on the care of the birds and completion of documentations;
+(k) the Appellant had to obtain approval from the Payer for any changes in various programs and for any major repairs;
+(l) the Appellant was paid a flat rate of $2,500 after the 9 week cycle and had use of the farm house except for utilities;
+(m) the Appellant was paid by cheque, to his personal name;
+(n) the Appellant was not provided with any benefit plan, nor did receive vacation pay or paid vacation;
+(o) the Appellant was responsible for the crop 24 hours a day, as long as birds were present;
+(p) the Appellant does not have fixed hours of work, he was required to work whatever and whenever was needed;
+(q) the Payer provided training to the Appellant (instructions on how to use the large equipment);
+(r) the Payer provided the required equipment such as tractors, blowers and washing equipment to the Appellant, at no cost to the Appellant;
+(s) the Payer was responsible for the maintenance and repairs of the equipment;
+(t) the Appellant provided his own small tools;
+(u) the Payer decided if work had to be redone;
+(v) the Appellant covered the costs of the goods or materials lost or damaged by him;
+(w) the Appellant did not provide services to another farm and did not have other customers;
+(x) the Appellant did not behave as business person on his own (did not have business bank account, no registered business, did not advertise his services and did not make any investment into a business);
+(y) the Appellant had to perform his services personally;
+(z) other workers performed similar duties under similar conditions.
+The Appellant disagreed with the assumptions at paragraphs (g), (h), (i), (j), (k), (q) and (y) and I have accepted her evidence.
+[4] At the hearing, evidence was given by the Appellant and Peter Syrier, President and sole shareholder of the Payer.
+[5] It was clear from the testimony of both witnesses that they intended the Appellant to be employed under a contract for services. As noted in assumption (d), the agreement between the Appellant and the Payer was verbal.
+[6] Mr. Syrier stated that he owns three farms and also a concrete company. During the relevant time he used two of his farms to grow broiler chickens. The chicks were received from Maple Lodge when they were one day old and they were grown until they were market age. Mr. Syrier did all of the work on one of his farms and he hired the Appellant to work his farm at Woodstock.
+[7] The Appellant was responsible for the day to day operations and decisions on the farm at Woodstock. Her duties were to clean and sanitize the barn prior to the delivery of the chicks, spread shavings in the barn and generally to prepare for delivery of the chicks. Once they were delivered, she had to decide what the settings should be for the feed, water, temperature, and medication lines so that the chicks flourished. It was necessary that the Appellant monitor and adjust the feed, water and temperature lines on a regular basis. Apparently there is usually a 2 to 3% mortality rate among the chicks. When the chicks were market age, the Appellant weighed them and got them ready for shipment to Maple Lodge. Mr. Syrier called this a complete cycle which, he stated, usually took nine weeks. There were five cycles per year at the Woodstock farm.
+[8] The Appellant did not keep regular hours. She was required to respond to any situation that might arise with the chicks on a twenty-four hour a day basis.
+[9] It was the Appellant’s responsibility to make sure that the farm ran properly. She was responsible for general maintenance and repairs around the farm; whereas the Payer was responsible for the cost of repairing any structural problems with the buildings. Mr. Syrier described a situation where part of the floor in the barn needed to be replaced. He stated that he purchased the plywood but the Appellant was responsible for repairing the floor.
+[10] The Appellant could not make a profit from her duties as her compensation was the use of the farm house and $2,500 per 9 week cycle.
+[11] Both witnesses stated that the Appellant was able to work at other jobs while she was employed by the Payer. I find that the Appellant did not have to perform her duties personally as assumed by the Minister. She could and did hire workers to assist her and when she did, she was responsible for paying them. It was the Appellant’s evidence that she hired two workers to clean the barn at the end of each cycle and she paid them each $100. On the day of the hearing she had to hire a worker to get the chickens ready for shipment.
+[12] With respect to training. I accept that initially Mr. Syrier explained the duties to the Appellant and that he visited the farm two or three times to see if she had any questions. I also accept the Appellant’s evidence that she did not have to be trained to use the large equipment on the farm. She already knew how to operate the large equipment as her father owned a farm.
+[13] With respect to the assumptions at paragraphs (g), (h), (j) and (k), the Appellant stated that she was not supervised in her duties and Mr. Syrier’s testimony was in agreement with this. He stated that if he had to supervise her or give her ongoing instructions, he would not have hired her. It was the evidence of both witnesses that the Appellant only called Mr. Syrier if there was a large issue – like a wall was falling down. Mr. Syrier visited the farm when he needed a piece of machinery and he usually called the Appellant to relay any further instructions that he received from Maple Lodge, such as a change in medication for the chicks. It appears that the Payer defined the task to be done and it was the Appellant’s obligation to perform the duties in a way that she saw fit.
+[14] With respect to the assumption at paragraph (i), it was the Appellant’s evidence that she received the final results of each cycle only when there was a problem with the chickens. She gave an example where the chickens were supposed to be a specific weight and at the end of the cycle they were under weight. She stated that in such circumstances, the Payer would inform her of the weight difference.
+[15] The Payer supplied all large equipment whereas the Appellant supplied the small tools such as, hoses, shovels, scrapers, wrenches, weed whackers and torches. The Appellant had to use her truck when it was necessary to pick up materials.
+[16] The leading case on the differences between a contract of service and a contract for services is 671122 Ontario Ltd. v. Sagaz Industries Canada Inc[1]. Major J. delivered the judgment of the Court and he reviewed the four-factor test from Wiebe Door Services Ltd. v. M.N.R[2]. At paragraphs 47 and 48 of his decision, he held that the key is set out in Market Investigations Ltd. v. Minister of Social Security[3] . He stated:
+47 Although there is no universal test to determine whether a person is an employee or an independent contractor, I agree with MacGuigan J.A. that a persuasive approach to the issue is that taken by Cooke J. in Market Investigations, supra . The central question is whether the person who has been engaged to perform the services is performing them as a person in business on his own account. In making this determination, the level of control the employer has over the worker’s activities will always be a factor. However, other factors to consider include whether the worker provides his or her own equipment, whether the worker hires his or her own helpers, the degree of financial risk taken by the worker, the degree of responsibility for investment and management held by the worker, and the worker’s opportunity for profit in the performance of his or her tasks. (emphasis added)
+48 It bears repeating that the above factors constitute a non-exhaustive list, and there is no set formula as to their application. The relative weight of each will depend on the particular facts and circumstances of the case.
+[17] Applying the test it is my opinion that the Appellant did not supply her services to the Payer as an employee. As I stated earlier, the Payer did not supervise the manner in which the Appellant performed her duties and it appears from Mr. Syrier’s evidence that it gave up the right to control her. She could hire workers to assist her and she was responsible for their remuneration. The Appellant was on call twenty-four hours a day.
+[18] However, there are indicia of a contract of service present in these appeals. They are: that the Appellant was paid a flat rate and she could not make a profit; and that the Payer supplied the larger tools needed for performance of the Appellant’s duties.
+[19] In the circumstances of this case where there are factors that are consistent with a contract of service and a contract for services, I am mindful of the decision in Wolf v. Canada[4] where Noël J.A. stated at paragraph 122:
+I too would allow the appeal. In my view, this is a case where the characterization which the parties have placed on their relationship ought to be given great weight. I acknowledge that the manner in which parties choose to describe their relationship is not usually determinative particularly where the applicable legal tests point in the other direction. But in a close case such as the present one, where the relevant factors point in both directions with equal force, the parties’ contractual intent, and in particular their mutual understanding of the relationship cannot be disregarded.
+[20] I have concluded that the Appellant was engaged under a contract for services. In so doing, I have given the greatest weight to the absence of supervision and control by the Payer.
+[21] For all of these reasons, I allow the appeals.
+Signed at Ottawa, Canada, this 17th day of March 2009.
+“V.A. Miller”
+V.A. Miller, J.
+CITATION: 2009TCC157
+COURT FILE NO.: 2008-2538(EI)
+2008-2539(CPP)
+STYLE OF CAUSE: KELLY DOAN-GILLAN AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: London, Ontario
+DATE OF HEARING: March 13, 2009
+REASONS FOR JUDGMENT BY: The Honourable Justice Valerie Miller
+DATE OF JUDGMENT: March 17, 2009
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Pascale Tétrault
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] 2001 SCC 59
+[2] [1986] 3 F.C. 553
+[3] [1968] 3 All E.R. 732
+[4] [2002] 4 F.C. 396 (FCA)

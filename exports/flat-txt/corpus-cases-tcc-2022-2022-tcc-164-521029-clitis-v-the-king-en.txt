@@ -1,0 +1,163 @@
+Title: Clitis v. The King
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/521029/index.do
+Corpus path: corpus/cases/tcc/2022/2022-tcc-164-521029-clitis-v-the-king-en.md
+Document type: case_law
+Last modified: 2022-12-15
+
+# Clitis v. The King
+
+- Citation: 2022 TCC 164
+- Decision date: 2022-12-15
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5794, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Clitis v. The King
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2022-12-15
+Neutral citation
+2022 TCC 164
+File numbers
+2021-652(GST)APP
+Judges and Taxing Officers
+Jean Marc Gagnon
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2021-652(GST)APP
+BETWEEN:
+BRUCE LEE CLITIS,
+Applicant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Application for extension of time heard on
+September 21, 2022, at Montréal, Quebec
+Before: The Honourable Justice Jean Marc Gagnon
+Appearances:
+For the applicant:
+The applicant himself
+Counsel for the respondent:
+Ryan Allen
+JUDGMENT
+UPON reading the application for extension of time to appeal the assessments made under Part IX of the Excise Tax Act, notice of which is dated February 27, 2018, for the applicant's reporting periods from October 1, 2009, to December 31, 2009, and from October 1, 2012, to December 31, 2012, and notice of which is dated June 6, 2019, for the applicant's reporting periods from October 1, 2010, to December 31, 2010, and from October 1, 2011, to December 31, 2011;
+AND UPON hearing both parties and reading the exhibits filed at the hearing;
+The application is dismissed without costs in accordance with the attached reasons for judgment.
+Signed at Ottawa, Canada, this 15th day of December 2022.
+"J.M. Gagnon"
+Gagnon J.
+Citation: 2022 TCC 164
+Date: 20221215
+Docket: 2021-652(GST)APP
+BETWEEN:
+BRUCE LEE CLITIS,
+Applicant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Gagnon J.
+I. Background
+[1] Mr. Clitis, the applicant, is representing himself. He is asking the Court to issue an order to extend the time to appeal assessments made under the Excise Tax Act, R.S.C. 1985, c. E‑15, as amended (ETA) by the Agence du revenu du Québec in its capacity as agent of the Minister of National Revenue (Minister), notices of which addressed to the applicant without any number are dated (i) February 27, 2018, for the applicant's reporting periods from October 1, 2009, to December 31, 2009, and from October 1, 2012, to December 31, 2012, and (ii) June 6, 2019, for the applicant's reporting periods from October 1, 2010, to December 31, 2010, and from October 1, 2011, to December 31, 2011 (collectively, the Assessments).
+[2] The issue is whether the conditions of subsection 305(5) of the ETA are met in order to enable the Court to grant Mr. Clitis' application to extend the time to appeal the Assessments.
+II. Introduction
+[3] Mr. Clitis is a registrant for the purposes of the Goods and Services Tax under the provisions of the ETA. The applicant filed a notice of objection against the notice of assessment dated February 27, 2018, issued by the Agence du revenu du Québec as agent of the Minister for that purpose (Agent). The assessment concerns four of the applicant's reporting periods, namely from October 1 to December 31 of the years 2009, 2010, 2011 and 2012. A decision addressed to the applicant on the objection dated May 14, 2019, confirmed the Agent's decision for two of the reporting periods and the issuance of a notice of reassessment for the other two reporting periods. The reassessments were issued on June 6, 2019, and concern only the reporting periods from October 1 to December 31 of the years 2010 and 2011. No reassessment was issued for the reporting periods from October 1 to December 31 of the years 2009 and 2012, and the notice of assessment dated February 27, 2018, still applies to those periods. The reassessments include adjustments to the calculation of input tax credits the applicant had claimed.
+[4] Mr. Clitis did not file any notice of objection or notice of appeal in the 90 days following the objection decision dated May 14, 2019, or the notice of reassessment dated June 6, 2019. On December 11, 2020, the applicant filed an application for extension of time to appeal with the Court registry. Although the application does not clearly specify the reporting periods to which it applies, the exhibits in support of the application indicate that the application for extension applies to the four reporting periods under the Assessments.
+[5] Therefore, from the expiration of the time to appeal of 90 days to the submission of the application for extension, a period of 487 days elapsed with respect to the objection decision dated May 14, 2019, and a period of 464 days elapsed with respect to the assessments dated June 6, 2019. A period of 464 days is equivalent to approximately 15 months, or one year and three months. This period may exceed one year pursuant to the measures adopted under An Act respecting further COVID‑19 measures and Part 3 enacting the Time Limits and Other Periods Act (COVID‑19), S.C. 2020, c. 11, section 11.
+[6] The reason Mr. Clitis cites in support of his application for extension is succinct, and he requests an extension to appeal the Agent's decision [translation] ". . .because the accountant responsible for my file did not handle it as agreed within the requested time frames . . ." The application for extension contains no other reasons.
+[7] Mr. Clitis testified alone at the hearing. Based on the applicant's testimony, the Court notes deficiencies in his credibility and in the reliability of the facts he reports. In other words, he gives the impression of sincerity, but his responses are evasive, and important factual details concerning central issues are missing and raise doubts about the accuracy of his testimony. All of these factors lead the Court to give his testimony little probative value. Moreover, the probative value of his account and accuracy in presenting the facts are unfortunately lacking. It is difficult to establish a clear position or understanding with regard to the circumstances and explanations he gave in his testimony. This situation is all the more detrimental to the applicant given the long duration of 577 days during which he is required to provide explanations to support his position.
+[8] The Court's understanding is that Mr. Clitis wants to be granted more time by the Agent so he can gather as much of the missing information as possible to support the returns filed for the reporting periods and that he will try again to take steps with the third parties that hold that information. He would also like the Agent to accept the report that an accountant allegedly prepared but unfortunately transmitted after the objection decision had been made.
+[9] The respondent does not dispute the condition under paragraph 305(5)(a) of the ETA. That condition is established and is not subject to this appeal.
+[10] However, the respondent submits that the applicant has not met the four conditions of paragraph 305(5)(b) of the ETA. According to the respondent, the applicant did not allege or prove that he met those conditions. Among other things, the applicant does not explain the delay of 577 days between receiving the objection decision and filing his application for extension on December 11, 2020. Therefore, the applicant did not discharge his burden of proof. The respondent argues that the application must be dismissed.
+III. Analysis
+[11] For the application for extension in this case to be granted, the four conditions of paragraph 305(5)(b) of the ETA must be met. Paragraph 305(5)(b) of the ETA stipulates that no order shall be made unless the following conditions are met:
+305(5) No order shall be made under this section unless
+(a) . . .
+(b) the person demonstrates that
+(i) within the time otherwise limited by this Part for appealing,
+(A) the person was unable to act or to give a mandate to act in the person's name, or
+(B) the person had a bona fide intention to appeal,
+(ii) given the reasons set out in the application and the circumstances of the case, it would be just and equitable to grant the application,
+(iii) the application was made as soon as circumstances permitted it to be made, and
+(iv) there are reasonable grounds for appealing from the assessment.
+(emphasis added)
+[12] The burden is on the applicant to establish, on a balance of probabilities, that each of these four conditions is met; otherwise, the application for extension must be dismissed (Dewey v. Canada, 2004 FCA 82). These conditions and the associated responsibilities were discussed with the applicant at the hearing.
+[13] To determine whether the applicant discharged this burden, the Court has his application for extension and his testimony at the hearing.
+[14] The Court listened attentively to Mr. Clitis' testimony. Unfortunately, the Court must conclude that a number of the explanations he gave in his testimony are vague, incomplete, unclear or unconvincing. Several of the explanations he gave and the statements he made during his testimony seemed disorganized and disjointed.
+[15] Mr. Clitis' testimony is based more on a patchwork of statements and explanations concerning the nature of the discussions with the Agent regarding the returns filed for the reporting periods sought by the Agent, the audit that followed and the objection process.
+[16] Despite whatever assistance the Court provided to Mr. Clitis, the situation as he describes it is difficult to understand, which significantly undermines his ability to convince the Court of the circumstances that could have been favourable to him at the time of submitting his evidence.
+A. Subparagraph 305(5)(b)(i) of the ETA
+[17] The condition in subparagraph 305(5)(b)(i) is met if the applicant demonstrates on a balance of probabilities that he was unable to act or to give a mandate to act in his name within the time limit of 90 days following the objection decision dated May 14, 2019, and the notice of assessment dated June 6, 2019, as applicable, or that he had a bona fide intention to appeal within that 90‑day period.
+[18] The applicant's evidence in this case is based solely on his testimony. He alone had the opportunity to explain the facts, the difficulties he encountered and his intentions and the initiatives he took to achieve them.
+[19] After Mr. Clitis summarized his situation, the Court asked him whether he could describe his state of mind after he received the objection decision dated May 14, 2019, and the notice of reassessment dated June 6, 2019. In the first part of his response, Mr. Clitis described a period of intense reflection, including that he could not accept the decision but did not know what to do or how to proceed and did not have the means to pay a lawyer or other professional to handle the file. In that same response, he stated that he had been informed during a telephone conversation with the Agent that the Court acknowledges that, concurrently with the objection decision that had been made and the notice of reassessment being issued, he had the right to file an application with the Court if he disagreed with the decision. This testimony confirms that Mr. Clitis was informed and aware of the steps he could take to express his disagreement if he wanted to at that stage.
+[20] Continuing with his testimony, Mr. Clitis acknowledged that 18 months had elapsed between June 2019 (after the objection decision had been made and the notice of reassessment issued) and December 2020 and that, during that period, he had believed that it was settled, that the problem had been resolved and the Agent had received the documents. However, the Agent ultimately informed him that it had not received all of the documents from an accountant he had hired to assist him during the period preceding the objection decision. Mr. Clitis referred to one or more letters he received from the Agent to attempt to provide a timeline well after the 90‑day time limit for appealing had elapsed. However, none of those letters or any other correspondence was entered into evidence.
+[21] With regard to the accountant, Mr. Clitis stated that he had hired him to assist him in the process of preparing and filing his returns with the Agent for his reporting periods for Goods and Services Tax. The accountant allegedly did not correctly perform his mandate with the Agent and failed to transmit the report prior to the objection decision dated May 14, 2019. It was when the Agent informed the applicant that the accountant had not filed the report that he was motivated to file his application for extension on December 11, 2020.
+[22] Mr. Clitis' testimony does not reveal a bona fide intention to file an appeal within the prescribed time limit of 90 days. He completed a process of filing returns for successive reporting periods, an audit of those returns and an objection that alternately required him to take steps and make decisions with the assistance of an advisor. Having now decided to act alone post‑objection, and although he apparently stated that he did not agree with their decision, and the Agent confirmed that he could appeal the decision if he disagreed with it, the evidence does not show any intention, concrete action, steps, audit, initiative or follow‑up with respect to his supposed disagreement. The Court finds that there is little evidence of a bona fide intention to appeal when he was informed of his rights, encountered no obstacles to acting and still failed to act. Even a liberal interpretation of the condition in subparagraph 305(5)(b)(i), however permissive, must account for the qualification requiring a bona fide intention.
+[23] Furthermore, he stated later in his testimony that he had believed that everything was resolved and that it was not until he learned well after the time limit for appealing had elapsed that an accountant had apparently not filed a report that he decided to file an application for extension.
+[24] The applicant's testimony does not make it possible to establish that he took any action during the 90‑day period, even though he had been informed of his right to appeal during that time. His initial disagreement, which was apparently the result of personal reflection, resulted in no follow‑up or action taken. In the Court's opinion, that disagreement is less than certain. His inaction, later confirmed by his contradictory testimony that he believed everything had been resolved, is not indicative of a person who is supposedly committed to appealing a decision. Similarly to the case in Di Modica v. The Queen, [2001] T.C.J. No. 620, 2002 DTC 1290 (paragraph 15), it is impossible to note in the evidence established by Mr. Clitis any clear sign of a bona fide intention to appeal during the prescribed time limit of 90 days, and this situation as a whole is insufficient to persuade the Court that he has discharged his burden.
+[25] If there was any moment where the applicant seemed to have a justified or bona fide intention to appeal, it began when he filed the application for extension. At that time, it was too late.
+[26] Furthermore, Mr. Clitis did not demonstrate or present any reliable circumstance or explanation that could indicate that he was unable to act or to give a mandate to act in his name during that 90‑day period. The Court therefore concludes in this regard that Mr. Clitis was in control of the situation throughout those 90 days and could have made a decision.
+[27] In Sapi v. The Queen, 2016 TCC 239, Justice Visser cites the following passage of the decision in Kolmar v. The Queen, 2003 TCC 829, which bears definite similarities to the present case given that the conditions for granting an application for extension are the same for the purposes of income tax as for excise tax:
+Once the Minister sends a notice to the taxpayer that the assessment has been confirmed or the Minister has reassessed as a result of an objection, the taxpayer has 90 days from the mailing of the notice to appeal to the Court: subsection 169(1). [The taxpayer may also appeal an assessment if 90 days have elapsed after filing a notice of objection and the Minister has not notified the taxpayer that the Minister has vacated or confirmed the assessment or reassessment.] Within this 90 day period the taxpayer is to gather all his or her forces, assemble documentation, obtain legal advice, etc. to prepare a notice of appeal and actually file a notice of appeal. Section 167 is an exception to section 169. All conditions in subsection 167(5) must be fulfilled before an order can be made extending the time to appeal. The taxpayer must demonstrate, among other things, that he or she was unable to act or instruct another to act in the taxpayer's name or had a bona fide intention to appeal within the 90 day period but because of serious illness, accident or misfortune or due to one of those inevitable mishaps that occur in life, he or she could not act or instruct another or exercise his or her intention to file an appeal on time. If a taxpayer is late in filing a notice of appeal, the taxpayer must act with diligence to apply for an extension of time to appeal and file a notice of appeal. There is no comfort of one year to get ready to make an application. In enacting section 167, Parliament did not intend to extend by a year a taxpayer's right to appeal an assessment. Such an interpretation would render the delays in section 169 absolutely meaningless.
+(emphasis added)
+[28] Unfortunately, the Court is of the view that the evidence the applicant presented in this case is insufficient to demonstrate on a balance of probabilities that the condition in subparagraph 305(5)(b)(i) of the ETA is met.
+B. Subparagraph 305(5)(b)(ii) of the ETA
+[29] The condition in subparagraph 305(5)(b)(ii) is met if, given the reasons set out in the application for extension and the circumstances of the case, the applicant demonstrates on a balance of probabilities that it is just and equitable to grant the application.
+[30] Mr. Clitis' application for extension contains little information with regard to the reasons he did not file an appeal within the prescribed time limit. The application refers only to an accountant who was responsible for his file who apparently did not handle the file as agreed within the requested time frames.
+[31] Thus, the evidence Mr. Clitis submitted could suggest that the only reason he provided in his application for extension is related to a supposed report that the accountant he had hired prior to the objection decision allegedly failed to transmit to the Agent.
+[32] The accountant Mr. Clitis hired prior to the objection decision did not testify at the hearing, and the applicant did not file any mandate, correspondence, note, email, message, procedure, discussion, document or report into evidence to support that accountant's role or the circumstances of the failure to file the report.
+[33] On cross‑examination, Mr. Clitis confirmed that the accountant was not mandated to act in the appeal proceedings before this Court and had no involvement in this process. The steps the applicant has taken before this Court are personal, with no involvement of external counsel.
+[34] In a decision by Justice Lamarre Proulx (Di Modica v. The Queen, mentioned above) and subsequently cited in multiple decisions, the justice examines an application for extension of time to file a notice of objection to an assessment because of the alleged negligence of the applicant's lawyer. Given that the condition in subparagraph 305(5)(b)(ii) is similar to the condition in subparagraph 166.2(5)(b)(ii) of the Income Tax Act, R.S.C. 1985, c. 1 (5th Supp.), it is acceptable to refer to the justice's statements. She states the following with respect to the circumstances establishing negligence by the applicant's lawyers:
+Second, there is an admission in counsel's submissions that the lawyers were negligent, and none of the lawyers involved came to testify and explain his conduct and the chain of events in this case. As well, the result of that failure to testify is that there is no confirmation of the applicant's assertion that she had wanted to appeal the assessment within 90 days following that assessment.
+(emphasis added)
+She goes on to state:
+It is my view that an error by counsel can be a just and equitable reason for granting an extension of time if counsel otherwise exercised the reasonable diligence required of a lawyer. I do not think that the state of the law is such that counsel's negligence or carelessness can constitute a just and equitable reason for granting the requested extension within the meaning of subparagraph 166.2(5)(b)(ii) of the Act.
+(emphasis added)
+[35] In Sapi, cited above, Justice Visser examines multiple applications for extension of time to file an appeal on common evidence. In that case, he notes the following with regard to subparagraph 167(5)(b)(ii) of the Income Tax Act referenced above (equivalent to subparagraph 305(5)(b)(ii) of the ETA):
+With respect to subparagraph 167(5)(b)(ii), the Respondent argues that the alleged negligence of Mr. De Bartolo, who did not testify, is not a just and equitable reason to grant the Applications in this case. The respondent further argues that the applicants did not adequately follow up once they had provided their Notice of Confirmation to PAC, and notes that Justice Tardif concluded in 2749807* (a case referenced by the applicants) that relying on an allegedly qualified and competent person is not in itself an acceptable excuse to justify and explain a failure to act within the prescribed time. In this case, the respondent argues that there is no evidence of follow‑up after the applicants forwarded their Notice of Confirmation to PAC. [*: 2749807 Canada Inc. v. The Queen, 2004 TCC 457]
+I agree with the respondent. It is my view that the applicants have not established that it would be just and equitable to grant their applications given the reasons set out in their applications and the circumstances of their cases. It is my view that the alleged failure of PAC and Mr. De Bartolo to file the applicants' appeals on a timely basis within the appeal period is not a just and equitable reason to grant the applications in the circumstances of this case. While there is insufficient evidence in this case to establish that Mr. De Bartolo was negligent or careless, or that he even had been engaged to act on behalf of the applicants, it is my view that the applicants have not established that PAC or Mr. De Bartolo acted with reasonable diligence as required in the Di Modica case.
+(emphasis added)
+[36] In the present case, although a liberal interpretation of the applicant's explanations could support the argument that the circumstances that led him to file a notice of appeal are the fact that the Agent allegedly informed him at a given time (while this given time is after the 90‑day time limit for appealing had elapsed, the evidence is unclear and does not specify the exact moment) that the aforementioned accountant had failed to transmit a report to the Agent and that the applicant learned from another discussion initiated by the Agent that his only recourse was then to file an application for extension, the evidence presented at the hearing is insufficient for the Court to determine whether an accountant might have or did demonstrate diligence or carelessness or whether or not the accountant was negligent in following the instructions he had been given. The absence of the supposed report in evidence and of any correspondence, note, email, message, discussion, document regarding the report or testimony from the accountant or other parties and the limited context relating to what work the accountant performed, if any, make it impossible to draw any favourable conclusion with respect to the evidence the applicant presented. The Court is unfortunately faced with a case of insufficient evidence to decide in favour of the applicant.
+[37] The lack of evidence including the potential reasons for the delay of more than 400 days puts the Court in a position where it is impossible to conclude on a balance of probabilities that it would be just and equitable to grant the applicant's application for extension. The only probative finding that the Court is able to make from the circumstances is that the applicant's lack of diligence is responsible for the long delays in acting. Even after the 90‑day time limit for appealing had elapsed, the applicant's evidence does not indicate any action, steps or initiative with regard to his file with the accountant or otherwise until the Agent itself informed him of a supposed breach by the accountant.
+[38] This situation is similar to the circumstances addressed in the cases cited above with respect to subparagraph 167(5)(b)(ii).
+[39] The evidence presented does not make it possible to identify any reason other than the applicant's lack of diligence that could have motivated him to ultimately file an application for extension. The evidence is just as incomplete as it is silent on any actions, steps or initiatives the applicant might have taken to establish his position in his appeal—steps or initiatives that he could take to fulfil the responsibilities and obligations required of him by his file—or one or more reasons that prevented him from taking any action during the 15‑month period between the time limit for appealing had elapsed and December 11, 2020, the date on which he finally filed the application for extension for which the time limit was December 31, 2020. This is a very long delay with very few explanations presented in evidence. Improper behaviour cannot support the argument that it is just and equitable to grant an application for extension.
+[40] The applicant's limited knowledge of the ins and outs of the rules applicable to tax remedies cannot justify this lack of diligence. The Court acknowledges that the applicable tax rules are not always easy for taxpayers to understand. Nevertheless, the legislation contains conditions that must be met in order to allow a notice of appeal to be filed out of time. They constitute an exception. Taxpayers who wish to take advantage of that exception must establish that they meet each of the applicable conditions. In this case, the evidence does not make it possible to establish that on a balance of probabilities.
+[41] For all of these reasons, the Court is of the view that Mr. Clitis did not demonstrate on a balance of probabilities that it is just and equitable to grant his application for extension.
+[42] Under the circumstances, the Court does not consider it relevant to address subparagraphs 305(5)(b)(iii) and (iv) of the ETA.
+IV. Conclusion
+[43] In light of the foregoing, the application for extension of time to appeal the assessments made under Part IX of the ETA, notice of which is dated (i) February 27, 2018, for the applicant's reporting periods from October 1, 2009, to December 31, 2009, and from October 1, 2012, to December 31, 2012, and (ii) June 6, 2019, for the applicant's reporting periods from October 1, 2010, to December 31, 2010, and from October 1, 2011, to December 31, 2011, is dismissed without costs.
+Signed at Ottawa, Canada, this 15th day of December 2022.
+"J.M. Gagnon"
+Gagnon J.
+CITATION:
+2022 TCC 164
+COURT FILE NO.:
+2021-652(GST)APP
+STYLE OF CAUSE:
+BRUCE LEE CLITIS AND HIS MAJESTY THE KING
+PLACE OF HEARING:
+Montréal, Quebec
+DATE OF HEARING:
+September 21, 2022
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Jean Marc Gagnon
+DATE OF JUDGMENT:
+December 15, 2022
+APPEARANCES:
+For the applicant:
+The applicant himself
+Counsel for the respondent:
+Ryan Allen
+COUNSEL OF RECORD:
+For the respondent:
+François Daigle
+Deputy Attorney General of Canada
+Ottawa, Canada

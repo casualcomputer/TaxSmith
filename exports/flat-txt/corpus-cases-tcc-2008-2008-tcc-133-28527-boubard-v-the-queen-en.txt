@@ -1,0 +1,317 @@
+Title: Boubard v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28527/index.do
+Corpus path: corpus/cases/tcc/2008/2008-tcc-133-28527-boubard-v-the-queen-en.md
+Document type: case_law
+Last modified: 2008-03-06
+
+# Boubard v. The Queen
+
+- Citation: 2008 TCC 133
+- Decision date: 2008-03-06
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1256, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Boubard v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-03-06
+Neutral citation
+2008 TCC 133
+File numbers
+2004-2047(IT)G
+Judges and Taxing Officers
+Campbell J. Miller
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2004-2047(IT)G and 2004-3540(IT)G
+BETWEEN:
+HENRY BOUBARD,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on common evidence with the appeals of Richard Bouchie, 2004-2048(IT)G and 2004-3542(IT)G and
+Clifford Houston, 2004-2087(IT)G, on September 24, 25, 26 and 27,
+and December 13, 2007, at Winnipeg, Manitoba
+By: The Honourable Justice Campbell J. Miller
+Appearances:
+Counsel for the Appellant:
+Joe Aiello
+Counsel for the Respondent:
+Gerald Chartier
+____________________________________________________________________
+JUDGMENT
+The appeals from reassessments made under the Income Tax Act for the 2000, 2001 and 2002 taxation years are allowed, with costs, and the reassessments are referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the Appellant’s income from employment at the Tembec Pulp Mill in Pine Falls, Manitoba is exempt from taxation, pursuant to section 87 of the Indian Act.
+Signed at Ottawa, Canada, this 6th day of March, 2008.
+“Campbell J. Miller”
+C. Miller J.
+Docket: 2004-2048(IT)G and 2004-3542(IT)G
+BETWEEN:
+RICHARD BOUCHIE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on common evidence with the appeals of Henry Boubard, 2004-2047(IT)G and 2004-3540(IT)G and
+Clifford Houston, 2004-2087(IT)G, on September 24, 25, 26 and 27,
+and December 13, 2007, at Winnipeg, Manitoba
+By: The Honourable Justice Campbell J. Miller
+Appearances:
+Counsel for the Appellant:
+Joe Aiello
+Counsel for the Respondent:
+Gerald Chartier
+____________________________________________________________________
+JUDGMENT
+The appeals from reassessments made under the Income Tax Act for the 2000, 2001 and 2002 taxation years are allowed, with costs, and the reassessments are referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the Appellant’s income from employment at the Tembec Pulp Mill in Pine Falls, Manitoba is exempt from taxation, pursuant to section 87 of the Indian Act.
+Signed at Ottawa, Canada, this 6th day of March, 2008.
+“Campbell J. Miller”
+C. Miller J.
+Docket: 2004-2087(IT)G
+BETWEEN:
+CLIFFORD HOUSTON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on common evidence with the appeals of Henry Boubard, 2004-2047(IT)G and 2004-3540(IT)G, and
+Richard Bouchie, 2004-2048(IT)G and 2004-3542(IT)G
+on September 24, 25, 26 and 27, and December 13, 2007,
+at Winnipeg, Manitoba
+By: The Honourable Justice Campbell J. Miller
+Appearances:
+Counsel for the Appellant:
+Joe Aiello
+Counsel for the Respondent:
+Gerald Chartier
+____________________________________________________________________
+JUDGMENT
+The appeals from reassessments made under the Income Tax Act for the 2000, 2001 and 2002 taxation years are allowed, with costs, and the reassessments are referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the Appellant’s income from employment at the Tembec Pulp Mill in Pine Falls, Manitoba is exempt from taxation, pursuant to section 87 of the Indian Act.
+Signed at Ottawa, Canada, this 6th day of March, 2008.
+“Campbell J. Miller”
+C. Miller J.
+Citation: 2008TCC133
+Date: 20080306
+Docket: 2004-2047(IT)G, 2004-3540(IT)G
+2004-2048(IT)G, 2004-3542(IT)G
+and 2004-2087(IT)G
+BETWEEN:
+HENRY BOUBARD, RICHARD BOUCHIE
+and CLIFFORD HOUSTON,
+Appellants,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Miller J.
+Facts
+[1] These appeals from reassessments by the Minister of National Revenue concern the application of section 81 of the Income Tax Act (the “Act”) and section 87 of the Indian Act. The Appellants, all treaty status Indians of the Sagkeeng First Nation (“Sagkeeng”), seek exemption of their income from employment at the Tembec Pulp Mill (the “Mill”) in Pine Falls, Manitoba in the 2000, 2001 and 2002 taxation years. The Sagkeeng surrendered part of their Reserve lands for lease in 1923, and then for sale in 1926, for the purpose of the construction and operation of the Mill on the surrendered lands. Considerable evidence was directed to the understanding of the Sagkeeng people at the time of the surrender of the Reserve lands for lease and then for sale. The Appellants’ position is that their employment income is related to the realization by them of their entitlements to the Reserve land, in accordance with the purpose of section 87 of the Indian Act and, therefore, exempt from taxation. The Respondent’s position is simply that the employment income derives from property that is not situated on Reserve land, as it was surrendered absolutely, and, therefore, does not fall within section 87 of the Indian Act.
+Facts
+[2] The Chief of the Sagkeeng, Chief Fontaine, provided background about the Reserve, initially known as the Fort Alexander Reserve, a Reserve that straddles the Winnipeg River where it meets Lake Winnipeg. The Sagkeeng people are a part of the Ojibway Nation. Their membership is approximately 6,300 with 60% of the members living on the Reserve.
+[3] According to Chief Fontaine, there is no industry as such on the Reserve: businesses are purely service related – gas station, convenience store, grocery store and some private businesses such as independent loggers, pharmacist, dentist and health centre, although no hospital. Members attend nearby Pine Falls for banking and hospital services. The town of Pine Falls developed around the Mill: both the town and the Mill are situated on the Reserve lands which were surrendered by the Sagkeeng in the 1920s.
+[4] A lot of the members fish, trap and hunt. A traditional way of life is carried on by frequent sweat lodges and ceremonial gatherings. Chief Fontaine explained the importance of the Sun Dance area, a sacred place where an annual four-day gathering attracts First Nations far beyond the Sagkeeng. Traditional language is spoken by the elders but not by the younger members.
+[5] Chief Fontaine felt Sagkeeng is well-off compared to some other First Nations, as the Reserve has paved roads, schools, a recreation complex and adequate housing. He noted that 60% of the homes have running water, and he was striving to ensure that number reaches 100%. The Reserve is, however, overcrowded and employment runs at 65%. The Appellant, Mr. Houston, confirmed he had applied for land on the Reservation, but none was available. As Chief Fontaine put it, the economy is non-productive: “we don’t produce anything”.
+[6] Job opportunities are a big issue for the Sagkeeng. Chief Fontaine meets with the Mill representatives regularly to discuss such opportunities, as well as to push for training and set targets for Indian employment. He is hoping to get an agreement with the Mill. The Mill employs 24 Sagkeeng members in positions from labourers to higher-end jobs, both in the plant, in the yard and in logging. The Chief explained that logging is carried out on lands which traditionally were Sagkeeng territory, that extend far beyond the current borders of the Reserve.
+[7] The Mill cooperated in 2002 and 2003 in having the Reserve’s water intake moved to the upstream side of the Mill. The Mill, the Sagkeeng and the Government all contributed financially. The Mill also helps with the occasional donation. The Chief stated that the Mill effectively ran the town of Pine Falls.
+Tembec Industries
+[8] The parties provided an Agreed Statement of Facts regarding Tembec, and the following was taken from such statement:
+1. Tembec Industries (“Tembec”) is a publicly-traded, pulp and paper company with operations principally in Ontario and Québec but also in New Brunswick, Manitoba, British Columbia and France. Its headquarters are located in Témiscamingue, Québec.
+2. Today, Tembec employs approximately 9000 employees worldwide and approximately 375 at the Pine Falls mill (the “mill”). In 2000, the mill employed between 475 and 525 people but in 2001 Tembec laid off approximately 20% of the mill’s employees. Today, the mill employs 33 Indians of which 24 are members of the Fort Alexander Band, also known as the Sagkeeng First Nation.
+3. The Manitoba Pulp and Paper Company opened the mill at Pine Falls in 1927. It was purchased by Abitibi Paper Company Ltd. in 1932.
+4. In 1994, the mill was purchased by the mill’s employees. A holding company was created to allow Fort Alexander Band members to purchase 5% of the shares of the company, whether these members were employees at the mill or not. The remaining 95% of the shares were available for purchase by the mill’s employees, including Fort Alexander Band employees.
+5. In 1998, Tembec purchased the mill. The management, employees, equipment, and business activities remained substantially the same when the mill was sold from Abitibi to Pine Falls Paper Company and later to Tembec Industries.
+6. Tembec’s principle business is producing and selling newsprint, of which approximately 70% is sold to purchasers in the mid-western United States. Tembec does not sell its products to the Fort Alexander Band (the “Band”) or other Indian Bands.
+7. The mill buys pulp wood from Fort Alexander Band members who bring useable wood cut on the Reserve. Tembec purchases an annual average of 2000 m3 of timber pursuant to contracts with individual members of Fort Alexander Band who cut wood on Fort Alexander Reserve (“Reserve”) with Band Chief and Council’s authorization. This represents approximately 0.005% of the annual average of 435,000 m3 of timber Tembec processes. During the taxation years at issue, Tembec purchased timber cut on the Reserve in the following amounts;
+1999-2000 season: 790.4m3
+2000-2001 season: 1563.64m3
+2002-2003 season: 1458.19m3
+8. Tembec has a Forestry Management License which allows it to cut 170 000 m3 of timber annually. It purchases the remainder from independent contractors, 5 of which are members of the Fort Alexander Band.
+9. The mill lost a substantial portion of its historical documents as a result of a flood and also through the removal of records by successive mill owners.
+10. Tembec produced a memorandum from their surviving archived material dated 1940 which indicates a brief agreement was signed on January 23, 1926 between J.D. McArthur and the Fort Alexander Band, which Tembec is unable to find in their surviving archived material.
+Use of Reserve land
+11. The mill contributes to Sagkeeng Treaty days, community clean-up programs, and recently committed $150,000.00 to a fund for economic development on the Reserve.
+12. Two of the 4 tree-planting and reforestation programs of the mill are contracted out to Fort Alexander Band members.
+13. Fort Alexander Band members are paid $1.00 per log for timber dredged from the river bottom in former booming areas, the logs are scaled by Tembec and paid for by the former owner Abitibi Price.
+14. Tembec:
+a. Historically provided firefighting services to the Reserve. In 2005 the Band requested that Tembec cease doing so on account of the Band having it’s own fire department;
+b. Provides the municipal landfill at St. George with cinders and ash remnants from its boilers;
+c. Has provided the Band, at the Band’s request, with excess cinder and ash for its landfill since it opened approximately 8 to 10 years ago for the mutual benefit of both the Band and Tembec;
+d. Pursuant to an agreement with the Band for the use of the shoreline and banks of the river the Mill has had access to the Reserve for monitoring and repairing damage caused by boom anchors, and for storage of timber on the land adjacent to the river. The Agreements with the Band for this purpose were terminated in or around 1987.
+15. The mill’s site is fenced in. None of Tembec’s mill operations are on the Reserve. Tembec does not log on the Reserve.
+16. In 1932, Canadian National Railway (CNR) purchased 49.7 acres of land for a railway line and drainage ditch that runs through the south east corner of the Reserve.
+17. A Manitoba Hydro power line and four hydro towers, used to power the mill, run across a corner of the Reserve pursuant to an agreement dated January 12, 1939, labelled an easement, which provides for $25.00 rent per year from 1933 onwards to be paid to Fort Alexander Band providing a license for the lines to be there and allowing access to the licensee to maintain and repair the lines.
+Tembec’s hiring practices
+18. The mill presently employs 33 Indians, of which 24 are from the Fort Alexander Band.
+19. Many First Nations workers (employee and contract) at the mill in Pine Falls have historically been in wood cutting and bush operations and these jobs have been largely lost due to mechanization.
+20. In 2001, 100 employees were laid off, of which 35 senior employees, including 6 Indians, elected to take an early retirement package. There were no new hires until 2006, when 12 people, including 4 Indians, who met the Tembec’s minimum hiring requirements, were hired.
+21. Tembec has a hiring goal of staffing 50% of new positions with Indians. This unwritten policy is based on Tembec’s desire to have its workforce reflect the local demographics which in its view is good business practice. This 50% hiring goal has been in place for over 20 years.
+22. Tembec regularly consults with the surrounding Indian Bands with respect to resource based issues, identify any site specific sensitive sites, review operational planning, major road locations, trapper and wildlife issues. Tembec employees meet Fort Alexander Band members on a monthly basis to address inter alia environmental issues, the retention and hiring of Indians and the mill’s annual operating plan.
+23. Tembec considers its only restrictions on hiring to stem from collective bargaining agreements which provide for a hiring preference for laid off employees but which do not distinguish Indians from non-Indians. Their standards include a requirement of a grade 12 education and passing tests for abstract, verbal, numerical, spatial, and mechanical reasoning.
+Workers
+[9] Mr. Boubard, Mr. Houston and Mr. Lavoie testified about their work at the Mill. Mr. Bouchie, one of the Appellants, did not testify. The Appellants are all status Indians, members of the Sagkeeng Band and all of them worked at the Mill during the taxation years in issue.
+[10] Mr. Boubard has lived on the Reserve for his entire life. He was educated on the Reserve. His parents were also members of the Band on the Reserve. Both his father and grandfather worked at the Mill. He works right in the Mill itself. He goes into Pine Falls daily for mail, banking, groceries, etcetera.
+[11] Mr. Houston resides on the northside of the river in the Chevrefils district, within a mile or so of the Reserve. He has never lived on the Reserve though has applied in the past to the Chief and Council for Reserve land, but none has been available. He was born in the Pine Falls hospital. He indicated he is on the Reserve a great deal for family functions, buying fuel, attending the rink, etcetera. He relies on Pine Falls for groceries, banking and hospital needs. He too works in the Mill itself.
+[12] Mr. Bouchie has worked in the Mill for 28 years. He resides three to four miles from the Reserve.
+[13] Mr. Lavoie lives approximately one mile from the Reserve on the north side of the river. The Mill and the town of Pine Falls are on the south side of the river. Mr. Lavoie also was born in Pine Falls. He used to be on the Reserve for many years, but left in 2004. Since 1990, Mr. Lavoie has worked as a logger while prior to that worked in the mill yard. He acquired the right to log by purchasing a Pulpwood Agreement from a Mr. Swampy, who had a portion of the Sagkeeng allotment. He harvested primarily north of the Reserve and sells to Tembec only. He frequents the Reserve on a regular basis and goes to Pine Falls daily.
+History of Surrender of Reserve Lands
+[14] It is helpful to have a geographic perspective of the lands that were surrendered by the Sagkeeng, in context with the Reserve lands generally. I have therefore attached Schedule “A” which shows the several hundred acres on which the Mill was built, and where the town of Pine Falls developed.
+[15] I heard the evidence of three experts, all historians: Dr. Lloyd Penner and Mr. James Morrison for the Appellants and Mr. Eric Angel for the Respondent. I found their testimony most useful not only in describing the events surrounding the surrender of the Reserve lands, but also in providing background on the relationship between the Sagkeeng and the Government of Canada, and life of the Sagkeeng generally almost a hundred years ago. They brought to life the passages from the 200 plus historical documents presented as exhibits, a result which would have been difficult for me to accomplish without their capable assistance.
+[16] The following is a summary of the documentary evidence and the experts’ testimony as it pertains to the surrender of the Reserve lands back in the 1920s.
+[17] The Sagkeeng signed Treaty One in 1871 pursuant to which the Fort Alexander Indian Reserve was established at the mouth of the Winnipeg River where it flows into Lake Winnipeg. To the Sagkeeng, the Reserve of land was leftover land that was exclusively theirs forever. It did not encompass their traditional land which was much further reaching. The traditional land could be considered to be used for the traditional purposes of hunting, fishing and trapping, but it was not exclusively for the Band’s use. Reserve land, however, was specifically designated as First Nation’s property. The Treaty made no provision for the surrender of land. By 1923, however, the Indian Act had established that surrenders could only be accomplished by delivery to the Crown, thus explaining the intimate involvement of Crown representatives in the ultimate transfer of Reserve lands for purposes of the development of the Mill.
+[18] Mr. J.D. McArthur, a businessman who in 1920 was operating a saw mill in Lac Bonnet, recognized the potential for a pulp and paper mill in the far eastern boundary of the Sagkeeng Reserve. He had obtained logging rights in the area. It is the story of the acquisition by Mr. McArthur of the Reserve land that the experts have painstakingly unfolded for me.
+[19] It is important to note that the Sagkeeng had few direct dealings with Mr. McArthur; negotiations were primarily between their Inspector Agent, Mr. Bunn and Mr. McArthur.
+[20] Mr. Bunn met with the Sagkeeng in the summer of 1921 to commence discussions which would ultimately lead to a surrender for lease of a few hundred acres of Reserve land in January 1923. He reported that the Sagkeeng were “dead set against the sale” and “scared to death about the word sale or surrender”. Mr. Bunn had raised with them the benefits of work for the young men. Mr. McArthur’s estimate of job opportunities was between 200 and 250 in the Mill with a further 600 in the bush.
+[21] A record of a Band meeting of August 20, 1921 kept by Inspector Agent Bunn indicates the Chief asked that the Indians “should be afforded every chance to get work when the operation started, according to the ability of the Indian at regular wages for services performed”. Attached to this record were two memoranda: Memorandum “A” in which the Indians agree to a lease of 485 acres to the Manitoba Pulp and Paper Company at $5 per acre per annum, and also asked the Department of Indian Affairs to draw up a proposed lease and “to make all necessary protective measures on their behalf”. Memorandum “A” also stipulated that Indian owners losing their property would be recompensed.
+[22] Memorandum “B”, entitled “Proposal”, stated in part, “the enterprise will afford steady employment to between 200 and 250 men”. Later the memo stated “we the Chief and Counsellors accept the above proposition as part of the conditions of the lease”.
+[23] A surrender for lease was ultimately formalized on February 1, 1923 for 520 acres of the Reserve. Subsequently, a lease was executed between the Department of Indian Affairs and Manitoba Pulp and Paper on March 29, 1923 at a reduced fee.
+[24] The Sagkeeng received the first year’s lease payment but the Manitoba Pulp and Paper Company then made no further payments until June 1925 when, after being threatened with the cancellation of the lease, Mr. McArthur came up with two year’s arrears of $2,080. In June 1924, the Chief had written to the Department of Indian Affairs stating:
+“It’s quite long time before we agree to lend our land, as we trust our inspector Mr. J.R. Bunn to stand this for us but we ask him about getting our pay for our rent he seems does know nothing. The reason why we lend our land we thought the Band in the Reserve would make good living in working at the pulp mill”.
+[25] The June 1925 payment was followed immediately by Mr. McArthur taking the position that the lease was no longer adequate as his financial backers required that Manitoba Pulp and Paper own the property outright.
+[26] Mr. Bunn, in early January 1926, reported to the Department of Indian Affairs that the Band was opposed to the sale of the land. He had encouraged the Band to “take this chance to improve their chances for the future”. Mr. McArthur himself met with Band Counsellors on January 13th and thereafter wrote to the Department of Indian Affairs:
+The railway is completed now to the mill site and construction is going on night and day. We are going to have a wonderful industry in town site there, and it would be a shame if our financing arrangements should be interfered with our ability to secure fee simple title to the land occupied by the buildings.
+[27] The railway traverses portions of the actual Reserve land and continues on to lands which were surrendered for the purposes of the lease to Manitoba Pulp and Paper Company. There was a spur of the railroad which branched off continuing onto land which was originally subject to the surrender for lease and later the surrender for sale. The railway was built for the purpose of serving Manitoba Pulp and Paper Company, and eventually provided service as well to the town of Pine Falls.
+[28] On January 23, 1926, a meeting to discuss the surrender with the Sagkeeng people was reconvened from an earlier time when the Band had not been prepared to approve a surrender for sale. After distribution of the lease monies and substantial discussion (approximately 10 hours worth) an agreement was reached. The Chief of the Sagkeeng, however, delayed signing off for several minutes. Although Inspector Agent Bunn described the meeting as positive, with an agreeable signing, a newspaper article described the meeting as unruly and with a gloom hanging in the air. I conclude that the surrender of the Reserve lands for the Mill was reached with some considerable reluctance.
+[29] The surrender document itself reads:
+It is also understood that the release of these lands from Lease No. 186 and bearing date the 28th March A.D. 1923 in favour of the Manitoba Pulp and Paper Company Limited, will not vary the conditions of the set lease as the treatment of Indian owners within the bounds of the released area of 304 acres, nor any other conditions bearing on this as set out in the said lease.
+[30] After the initial experts’ reports had been exchanged, there came to light a copy of a memo of April 4, 1940 from a Mr. Mackenzie, the then woods manager for Manitoba Pulp and Paper Company Limited regarding relations with the Fort Alexander Indian Band. In this memo Mr. MacKenzie states the following:
+On January 23, 1926 J.D. McArthur signed a brief agreement with the Band as follows:
+(a) The Indians would be given a fair chance to obtain work at the mill.
+(b) The Indians would be permitted to sell the “camp” such vegetables and other articles as they have for sale and the camp might require.
+[31] Mr. Angel, the Respondent’s expert, commented on this agreement as follows:
+While I would agree that the oral recollection of agreements was of great importance to Fort Alexander Band members in the 1920s, I think the existence of the written agreement described by MacKenzie demonstrates that Band members believed it was also important to have a written record of what had been agreed to.
+Finally, the description of what was agreed to between Mr. McArthur and the Band on January 23, 1926 is consistent with the other evidence that is available, in particular the memorandum “C” from August 20, 1921 and the two letters from the Chief of the Fort Alexander Band dated June 4 and September 10, 1924. In my view the evidence shows that, insofar as there was an agreement with respect to employment, it was that Band members would be given a fair opportunity or chance of work at the Mill, but that it was not a guarantee of employment.
+[32] Both the Appellants’ experts put this understanding in stronger terms. Mr. Morrison opined:
+Nevertheless, First Nation members believe that they had an agreement with the company and the Department, embodied in memorandum B of 20th August, 1921 and oral discussions that same day, and continually promised over the course of the negotiations, that guaranteed them there is kinds of employment benefits from the pulp mill development on their Reserve.
+Based on the statements made by the company and Indian Affairs representatives at the January 23, 1926 surrender meeting, the members would have had no reason to believe that their employment agreement was not still in effect, even after the absolute surrender for sale of portions of their reserve.
+Issue
+[33] Is the employment income of the Appellants’ property exempt from taxation in accordance with section 87 of the Indian Act? It is interesting to note that the parties framed the issue somewhat differently. The Appellants ask if the income is related to the realization by the Appellants of their entitlements to the Reserve land. The Respondent asks whether the employment income is situated on a Reserve pursuant to section 87 of the Indian Act. Clearly, the Appellants are looking for a broader approach to the application of section 87, while the Respondent is limiting the approach to the application of paragraph 87(1)(b). Section 87 of the Indian Act reads, in part, as follows:
+87(1) Notwithstanding any other Act of Parliament or any Act of the legislature of a province, but subject to section 83 and section 5 of the First Nations Fiscal and Statistical Management Act, the following property is exempt from taxation:
+(a) the interest of an Indian or a band in reserve lands or surrendered lands; and
+(b) the personal property of an Indian or a band situated on a reserve.
+87(2) No Indian or band is subject to taxation in respect of the ownership, occupation, possession or use of any property mentioned in paragraph (1)(a) or (b) or is otherwise subject to taxation in respect of any such property.
+Appellants’ Position
+[34] The Appellants emphasize the Sagkeeng peoples’ Treaty entitlement to be protected from taxation by the operation of section 87. As the Reserve lands were surrendered to provide a source of income, the income is intimately connected to the Reserve and taxation of such income would erode the Sagkeeng people’s Treaty entitlement to the full benefit of the Reserve lands. It is necessary to consider in this context a notional situs of the employment income as being on Reserve. The Appellants rely on the Federal Court of Appeal’s reasons in Amos v. R.[1] in support of this position, suggesting marked similarities between the cases.
+[35] The Appellants also take the position that the surrender, though absolute, was also conditional and the Sagkeeng did not extinguish all interest in the surrendered land: that the Sagkeeng retained an interest in the surrendered land, part of which was an agreement regarding employment. To allow taxation in these circumstances would be the antithesis of maintaining the purpose of section 87 of the Indian Act.
+Respondent’s Position
+[36] The Respondent’s position is simple. The employment income is earned on lands surrendered absolutely, and subsequently sold to the pulp and paper company: there is no remaining interest. The income is not situated on a Reserve and is not exempted from tax by the application of paragraph 87(1)(b) of the Indian Act. Any representations regarding employment were neither promises nor guarantees but simply statements that Band members would have a fair chance to get work at the Mill. The Respondent argues that the remaining connecting factors (employer is off Reserve, no logging on Reserve, Tembec products sold in the commercial mainstream, two Appellant’s reside off Reserve, majority of Mill employees are not Band members and not Indians) are not sufficient to establish the employment income as property on Reserve. Finally, the Respondent distinguishes the Amos case from the case before me.
+Analysis
+[37] To determine whether personal property of an Indian qualifies for the exemption provided in section 87 of the Indian Act, I rely on the methodology outlined by the Supreme Court of Canada in Williams v. Canada,[2] referred to as the “connecting factors” approach. There have been many cases since Williams that have adopted this approach (Justice Lemieux of the Federal Court in Wyse v. Canada[3] has most recently provided an excellent summary of the case law in this regard), and I feel no compulsion to repeat such a summary. The following excerpt from the Williams case succinctly defines the analytical route to follow:
+The first step is to identify the various connecting factors which are potentially relevant. These factors should then be analyzed to determine what weight they should be given in identifying the location of the property, in light of three considerations: (1) the purpose of the exemption under the Indian Act; (2) the type of property in question; and (3) the nature of the taxation of that property. The question with regard to each connecting factor is therefore what weight should be given that factor in answering the question whether to tax that form of property in that manner would amount to the erosion of the entitlement of the Indian qua Indian on a reserve.
+[38] Clearly, the most difficult role of the Judge in this analysis is determining from one case to the next the degree of weight to attach to the different factors: residence of Appellant, residence of employer, extent of employer’s activities on and off Reserve, location of work carried out by Appellants, nature of work, historical circumstances giving rise to employment income. Not surprisingly, the parties spent most of their time in presenting and arguing their case on the last factor. I agree with them that, in the circumstances of this case, that is the factor upon which the most weight should be placed. This is consistent with the reasoning in Amos. I intend therefore to address the other factors briefly, but will concentrate on where I believe this matter is to be determined - the derivation of the employment income.
+[39] Before doing so, I emphasize that I am dealing with a tax on personal property, not on real property. Determining the situs of an intangible must necessarily be something of a notional exercise, as was stated by the Federal Court of Appeal in Clarke (Folster) v. Minister of National Revenue.[4] The Federal Court of Appeal concluded that “the solution, as will be seen, lies in an approach to the interpretation and application of the phrase ‘situated on the Reserve’ which is found in the purpose of the exemption in the provision of the Indian Act”. The purpose, as explained in Williams, citing Mitchell v. Peguis Indian Band,[5] is “to preserve the entitlement of Indians to their Reserve lands and to ensure that the use of the property on the Reserve lands was not eroded by the ability of the Government to tax”. In this context then, lets examine the connecting factors.
+Residence of Employer
+[40] The Mill, operated by Tembec, is on the few hundred acres of land surrendered by the Sagkeeng in 1926. It is striking, looking at the map of the Reserve, how this property is a bite out of the southeast corner of the Reserve: it is surrounded on three sides by the Reserve. The Respondent is correct in pointing out that none of Tembec’s mill operations are on the Reserve, but on the surrendered land, now off Reserve. In Clarke (Folster), a case in which the employer was located off Reserve, the Federal Court of Appeal commented:
+In my view, too much weight was accorded by the Trial Judge to the exact geographical location of the employment and the residence of the employer; in this case, the Federal Government. Conversely, insufficient weight was accorded to the actual circumstances surrounding the appellant's employment, her residence on the Reserve and the history of the Hospital in which she worked.
+Though the Mill is on the surrendered Reserve land, I find it is important to consider the activities of the employer on the Reserve itself, which leads to the next factor.
+Extent of Employer Activities on Reserve
+[41] The Appellants identified the following connections between the operation of the Mill and the Reserve:
+(i) Up until 1933, the Mill continued to lease Reserve land which was, among other things, used for railway purposes.
+(ii) Two of the four tree planting and reforestation programs of the Mill are contracted out to Fort Alexander Band members.
+(iii) Fort Alexander Band members are paid a dollar per log for timber dredged from the river bottom in former booming areas, the logs are scaled by Tembec and paid for by the former owner, Abitibi Price.
+The Respondent suggests that these first few items are simply incidental and certainly not integral to the operation of the Mill. That may be, but it is the cumulative effect of the various ties between the Mill and the Reserve which have made an impression.
+(iv) Tembec historically provided fire fighting to the Reserve. In 2005, the Band requested that Tembec cease doing so on account of the Band having its own fire department;
+(v) Tembec has provided the Band, at the Band’s request, with excess cinder and ash for its landfill since it opened approximately eight to ten years ago for the mutual benefit of both the Band and Tembec;
+(vi) Pursuant to an agreement with the Band for the use of the shoreline and banks of the river, the Mill has had access to the Reserve for monitoring and repairing damage caused by boom anchors, and for storage of timber on the land adjacent to the river. The agreements with the Band for this purpose were terminated in or around 1987.
+(vii) In 1932, Canadian National Railway purchased 49.7 acres of land from Sagkeeng for a railway line and drainage ditch that runs through the southeast corner of the Reserve. The railway was built to serve the Mill.
+(viii) A Manitoba hydro power line and four hydro towers, used to power the Mill, run across a corner of the Reserve pursuant to an agreement dated January 12, 1939, labelled an easement, which provides for $25 rent per year from 1933 onwards to be paid to Fort Alexander Band providing a licence for the lines to be there and allowing access to the licencee to maintain and repair the lines;
+(ix) A significant portion of the timber used by the Mill is harvested on traditional lands. The Respondent argues that the concept of traditional lands has no bearing. Granted the traditional lands extend far beyond the Reserve, but it is simply an additional link between the Mill and the Sagkeeng people.
+(x) Tembec purchases an annual average of 2,000 square metres of timber pursuant to contracts with individual members of Fort Alexander Band who cut wood on Fort Alexander Reserve with Band Chief and Council’s authorization. The Respondent is correct in pointing out that this represents a very small portion (less than 1%) of Tembec’s total timber and supply.
+(xi) The Mill contributes to the community including for such things as Treaty days and community clean-up programs, and it recently committed $150,000 to a fund for economic development on the Reserve.
+[42] The Respondent concludes that these factors are insufficient to justify reaching the same conclusion as that reached by the Federal Court of Appeal in Amos, that the activities of the Mill on Reserve were “integral to the operation of the pulp mill”. But in Amos, what were the activities on the 28 acres of leased Reserve property that the Federal Court of Appeal found so integral. They were:
+(i) A part of the property was used for the purposes of containing a fuel pile and woodchip pile (compare the amount of Reserve property of 28 acres to the 439 acres of private property on which the mill in Amos was located).
+(ii) As a temporary construction camp (1989-1994) for workers while employed to build a separate sawmill.
+(iii) With respect to prior years:
+(a) to house a Petro-Can bulk station which serviced the Mill up until 1988;
+(b) to store ash in the settlement pond until the early 1990s;
+(c) trees on the leased Reserve land provided a screen from the highway.
+In Amos, the actual mill was on lands that had never been part of the Reserve.
+[43] No one activity of Tembec stands out as integral to the Mill’s operation, but collectively they illustrate a bond between the Mill and the Reserve. The railway and hydro positioning would certainly constitute critical factors to the viability of the ongoing Mill operations. When compared to the mill activities in Amos, I am not persuaded that there is that large a gulf between what constituted integral to the Federal Court of Appeal and the circumstances before me. I will however have more to say on the comparison of these two factual situations later.
+Where Work Carried out by Appellants
+[44] The Appellants’ work was carried out at the Mill site, on the Reserve land absolutely surrendered for sale in the 1920s.
+Nature of Work
+[45] The Appellants’ work was not traditional to the Sagkeeng peoples’ way of life. It was work in a Mill whose business was producing and selling newsprint. Yet, certainly with respect to Mr. Boubard, this type of work had been carried on for three generations. It is the very work from which the Sagkeeng intended to benefit at the time of the surrender of the Reserve land in 1926. As pointed out in Clarke (Folster):
+The type of personal property at issue, employment income, is such that its character cannot be appreciated without reference to the circumstances in which it was earned. Just as the situs of unemployment insurance benefits must be determined with reference to its qualifying employment, an inquiry into the location of employment income is equally dependent upon an examination of all the circumstances giving rise to that employment.
+[46] This leads to what I consider to be the paramount connecting factor to consider: the circumstances giving rise to the employment of the Sagkeeng people at the Mill. The factors addressed thus far are of varying degrees of connectedness and do not provide sufficient support one way or the other to draw a conclusive determination on the notional situs of the Appellants’ employment income for purposes of section 87. The case hinges on the weight to attach to this last factor.
+Historical Circumstances Giving Rise to Employment Income
+[47] There are two elements of the surrender of the Reserve land that might impact on the application of section 87. First, what was the Sagkeeng’s understanding of the surrender vis-à-vis their ability to obtain work at the Mill? Second, what was the affect of the absolute surrender for sale in 1926? These two elements are certainly intertwined, but as considerable energy was expended by both sides dealing with them separately, I will attempt to do the same.
+[48] With respect to the Band’s understanding of their deal, I am satisfied that in surrendering the Reserve land the Sagkeeng believed they were giving up something of considerable value in return for jobs from their Reserve land. I reach this conclusion based on the cumulative impact the exhibits and expert testimony made on me. There was a wealth of information and a remarkable story to be told – highlights of which I have included in the outline of the facts. I will go through some specifics, but I want to be clear that I was left with an overall impression that the Sagkeeng people were reluctant to give up what was to be theirs forever, their Reserve land, without as strong a commitment as possible for something of equal value to replace that entitlement. That something was not the money: it could only be the work opportunity.
+[49] More specific particulars, through documents, that lead me to this conclusion are:
+(i) Indian Commissioner Graham’s letter of June 15, 1921 wherein he writes:
+The advantage to the Indians arising out of the establishment of the plant on the Reserve will be great. It would offer them opportunities of employment….
+This led up to the surrender for lease, but makes clear the significance of employment, not just to the Indians, but also as perceived by the Indian Commissioner.
+(ii) June 15, 1921 letter from Chief Mann to Indian Affairs in Ottawa in which he wrote:
+There is a man name J.D. McArthur from Winnipeg was here he come out from the city to ask us about our Reserve. He want to buy one mile square on the south end but we can’t sell it, no, when the dealing was made between white men and our fathers of old they told us to hold our Reserve as long as sun shines or as long as river flows we can’t sell our Reserve. As this J.D. McArthur want us our names to sign them without agreement signed, but can’t do nothing, as our Reserve been surveyed and we’re going hold it as long as the world lasts.
+Notwithstanding what many experts might say as to their interpretation of Indian sentiments at that time, nothing so eloquently yet simply expresses the depth of the Indians’ attachment to the Reserve than this letter from Chief Mann.
+(iii) Letter from Inspector Bunn of July 29 1921 in which he indicated the Indians are scared to death about the word “sale” or “surrender”. He also states the young Indian men who can work are strongly in favour of a lease. This stresses the great importance the Band attached to retaining their land, as well as again emphasizing from the Government of Canada’s perspective how important employment was to the Band.
+(iv) Inspector Bunn’s report of August 20, 1921 of his August 20th meeting with the Band in which he confirmed the Chief and Councillor signed the memorandum “which contained the conditions that they wish to be fully indicated in the proposed lease”, and further “the Chief asked that the Indians should be afforded every chance to get work”.
+(v) One of the memos referred to was Memorandum B which indicated the enterprise will afford steady employment to between 200 and 250 men. The Chief and Councillor signed “We the Chief and Councillor accept the above proposition as part of the conditions of the lease”. Again, this reflects more than an understanding that they might get work. I am convinced the Band was doing everything possible to ensure they were not surrendering Reserve land, even for lease, without the jobs that had to follow.
+(vi) Mr. McArthur’s letter of September 26, 1921 to the Department of Indian Affairs indicating the Mill will be of incalculable benefit to the Indians themselves, furnishing work practically all seasons of the year. This illustrates that it was not only the Indians and the Government of Canada who saw the importance of employment, but so did the Mill owner.
+(vii) A most significant correspondence is from Chief Mann in June 1924: “the reason why we lend our land we thought the Band in the Reserve would make good living in working at the pulp mill”. This cements my view of why the Band considered a surrender of any sort.
+(viii) April 4, 1940 letter from Mr. McKenzie confirming Mr. McArthur signed a brief agreement with the Band agreeing that the Indians would be given a fair chance to obtain work at the Mill. This takes the oral understanding one step further and commits to writing the Mill’s agreement regarding employment. This, I find, confirms the significance of jobs in the transaction. They were critical. I conclude that without a commitment to jobs, there would not have been a surrender.
+[50] Notwithstanding the Parties’ debate around the issue of the nature of the promise of work, I am less concerned with specifying the true legal nature of that understanding, whether it was a condition, a guarantee, a contractual term, an understanding, as I am with how significant a connecting factor the employment aspect of the surrender is to the present day employment. For that purpose, it is not the legality of the arrangement, but the perceived import of the arrangement to the Band for their collective future, and how that relates to preserving their Treaty entitlements. I am satisfied that the Band did not surrender part of its Reserve lightly – this was an extremely serious matter to the Sagkeeng and their expectation went well beyond a simple cash transfer. A steady supply of employment income was an integral part of what the Band believed it was getting in taking this most serious step of surrendering part of their Reserve. It drove the deal. How more closely connected can employment income from the Mill be than this: for the Sagkeeng people it effectively stood in place of their Reserve.
+[51] Turning then to the second element of the historical context – the effect of the surrender. The Respondent’s position is that the 1926 surrender was absolute. It was surrendered for sale, leaving the Band with no remaining interest in the Reserve land. The Respondent relies on the cases of St. Mary’s Indian Band v. Cranbrook (City),[6] Canadian Pacific Ltd. V. Matsqui Indian Band,[7] and Osoyoos Indian Band v. Oliver (Town),[8] for the proposition that lands provided for sale are surrendered absolutely, and an absolute surrender extinguishes the Indian interest in the surrendered land, removing the land from the Reserve. Any benefits of employment according to the Respondent, were not terms of a contractual relationship but just its anticipated result. It could not be said therefore that the surrender was in any way conditional. The Respondent also points to the surrender document itself as containing no reference to employment.
+[52] I find this a legalistic and limited approach to the effect of the surrender. Firstly, I accept that as a surrender for sale it was an absolute surrender, but I also find it is conditional. The Order-in-Council confirms the land was surrendered for construction of the pulp and paper mill. Clearly then, the surrender was conditional on the sale to Manitoba Pulp and Paper for the purpose of the construction and operation of the Mill. The surrender document itself goes on to state the understanding that the Manitoba Pulp and Paper Company is to provide a road, and that the release of the lands from the lease will not vary the conditions of the lease as to the treatment of Indian owners nor “any other conditions bearing on this as set out in the said lease”. If not conditions, what are these statements? And, frankly, does it matter what they are called? I have concluded job opportunities were very much part of the surrender for lease. Given the circumstances described earlier with respect to employment, I readily conclude that reference in the surrender for sale to conditions in the lease would lead the Sagkeeng to believe employment was part of the surrender for sale transaction.
+[53] The Appellants argue that the Band’s understanding and their intention with respect to employment is very much part of the surrender for sale, and that the absolute surrender as such does not extinguish all of their interest in the surrendered land. Again, I do not find it necessary to attempt to put in legal terms what the surrender did or did not do: I am concerned with how the circumstances of the surrender for sale impacts on the Sagkeengs’ entitlement to their Treaty rights, bearing in mind the purpose of section 87. As Justice Evans stated in Monias v. R.:[9]
+… the protection of reserve lands from erosion by tax lies closer to the core of section 87 than does the protection of items of individually owned personal property while they are situated on a reserve.
+The Sagkeengs’ use of their Reserve land was for their economic benefit: everything about the surrender was to conserve that economic benefit. It was not to be surrendered to one government department to then be taxed by another. This flies in the very face of the purpose of section 87. I do not need to reach a conclusion that the Sagkeeng retained, in any legal manner, a remaining interest. I prefer to view the situation as the Sagkeeng substituting something more than just money for their Reserve land. The bargain was that they got work: and it is that work that lies at the heart of this dispute. So, notwithstanding Native land rights are sui generis interests in the land, and as stated in the Osoyoos Indian Band case, “native land rights are in a category of their own”, it is not essential that I try to pigeon-hole what, if any, interest the Sagkeeng retained. It is enough that the circumstances surrounding the Sagkeengs’ absolute surrender of Reserve are a significant connecting factor in my concluding that employment income from the Mill on the surrendered land is property that falls within the exempting provisions of section 87 of the Indian Act. To subject employment income of the Sagkeeng people from the Mill to taxation in these circumstances is to erode their entitlement that flows directly from the Reserve land.
+Amos Decision
+[54] Finally, I wish to turn my attention to the Federal Court of Appeal’s decision in Amos, as the Appellants relied very much on this decision, drawing close parallels to the case before me. The Respondent, on the other hand, identified differences in the two situations which the Respondent maintained precluded relying on that decision for support of the Appellants’ position. The Federal Court of Appeal’s decision was concise. It is worth reproducing four of the eight paragraphs:
+4 In seeking to apply the recognized factors for determining the situs of such income, we have concluded that the learned trial judge did not, as a matter of law, give sufficient weight in the circumstances to the purpose of the tax exemption under section 87 of the Indian Act, namely,
+to preserve the entitlements of Indians to their reserve lands and to ensure that the use of their property on their reserve lands was not eroded by the ability of governments to tax….
+5 Viewing the present matter broadly, it appears that the following inferences may be drawn. The Company sought to lease this land because it thought it important to the operation of a pulp mill yet to be built. The Band agreed to surrender the reserve for leasing purposes on the understanding that, inter alia, the lease would promote the employment of Band members. The lease so provided. These particular Band members were subsequently employed by the Company and though we have no direct evidence that their employment was due to the term in the lease, it is a fair inference that they benefitted by the availability of employment flowing from the Company obtaining access to their reserve.
+6 A difficult issue arises from the fact that neither of these appellants, in their employment with the Company, actually worked on the leased reserve land. However the parties have agreed that the uses made by the Company of the leased reserve land were “related to the production of pulp”, the activity in connection with which the appellants were employed. It would appear to us to be too arbitrary to deny the benefits of section 87 to those whom the Company assigned to one area of the pulp mill’s operation as opposed to those assigned to another contiguous area. It must be inferred that the use of reserve land was integral to the operation of the pulp mill or the Company would not have leased it prior to establishing its operation. From the point of view of Band members, this surrender of the reserve was in part for the procurement of access to employment that would flow from having the pulp mill operation established on, and contiguous to, their land.
+7 Thus we conclude that this employment was directly related to the realization by the Band and its members of their entitlements to the reserve land and, in accordance with the purpose of the tax exemption in section 87, the government should not be able through income taxation to erode income from such use, direct or indirect, of their land as is found in this case.
+[55] What then are the comparisons between Amos and the case before me?
+(i) In Amos, the Band agreed to surrender for lease on the understanding the lease would promote Band members’ employment. This is key. The facts before me suggest the understanding of employment was far more than just an understanding. It was why the Band surrendered Reserve lands for lease, and ultimately, for sale. Certainly, they understood employment would follow, but they wanted that understanding entrenched in their deal.
+(ii) The lease in Amos provided for promotion of employment for the Indians. In this case, Memorandum “B” referred to employment opportunities. At the time of the surrender for sale in 1926 there was a separate written agreement from the Mill with respect to employment. Equally strong positions.
+(iii) In Amos, the mill property was on private land that had never been part of the Reserve land. The Sagkeeng surrendered a small corner of their Reserve land for the very purpose of the construction and operation of the Mill.
+(iv) In Amos, the Federal Court of Appeal held the peripheral activities on Reserve lands (described earlier) made the use of the Reserve integral to the operation of the Mill. As previously discussed, I fall just shy of such conclusion, though the railway and power lines that run across the Reserve land are important to the operation, they are not specifically Mill-related activities as such. The other links though between the Mill and the Sagkeeng Reserve create a tie that closely connects the two – a connection I would suggest that flows from the history of the transfer of the Reserve lands to the Mill. Obviously the Reserve land surrendered for sale was integral to the operation of the Mill.
+(v) The Federal Court of Appeal concluded the surrender was in part for procurement of access to employment. I find the case of the Sagkeeng is stronger: employment had to be part of the overall transaction, and it was.
+(vi) In both cases, the Mill operator approached the Bands through agents to negotiate the purchase or lease. It was clear the Sagkeeng were reluctant to part with their land.
+(vii) In Amos, the workers did not work on the Reserve land; neither did the Sagkeeng, but they worked on land, though absolutely surrendered, which was formerly Reserve land.
+[56] I conclude the Appellants are in a stronger position than the Appellants in the Amos case, so far as their right to preserve their entitlement pursuant to section 87 to the Reserve land. The employment income flows directly from the Reserve land. I find the Federal Court of Appeal’s conclusion in Amos that employment was directly related to the realization by the Band and its members of their entitlements to the Reserve land is on all fours with the situation before me.
+[57] I allow the appeals and refer the matter back to the Minister for reconsideration and reassessment on the basis that the Appellants’ employment is exempt from taxation pursuant to section 87 of the Indian Act.
+[58] The Appellants are entitled to one set of costs.
+Signed at Ottawa, Canada, this 6th day of March, 2008.
+“Campbell J. Miller”
+C. Miller J.
+CITATION: 2008TCC133
+COURT FILE NOS.: 2004-2047(IT)G, 2004-3540(IT)G, 2004‑2048(IT)G, 2004-3542(IT)G and
+2004-2087(IT)G
+STYLE OF CAUSE: HENRY BOUBARD, RICHARD BOUCHIE and CLIFFORD HOUSTON and HER MAJESTY THE QUEEN
+PLACE OF HEARING: Winnipeg, Manitoba
+DATE OF HEARING: September 24, 25, 26 and 27, 2007
+and December 13, 2007
+REASONS FOR JUDGMENT BY: The Honourable Justice Campbell J. Miller
+DATE OF JUDGMENT: March 6, 2008
+APPEARANCES:
+Counsel for the Appellant:
+Joe Aiello
+Counsel for the Respondent:
+Gerald Chartier
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Joe Aiello
+Firm: Phillips Aiello
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] 1999 CarswellNat 925 (Fed. C.A.).
+[2] [1992] 1 S.C.R. 877.
+[3] 2007 FC 535.
+[4] 1997 CarswellNat 623 (Fed. C.A.).
+[5] [1990] 2 S.C.R. 85.
+[6] [1995] B.C.J. No. 1575 (B.C.C.A.) and [1997] 2 S.C.R. 657.
+[7] 169 D.L.R. (4th) 649 )F.C.A.).
+[8] [2001] 3 S.C.R. 657.
+[9] 2001 CarswellNat 1506 (Fed. C.A.).

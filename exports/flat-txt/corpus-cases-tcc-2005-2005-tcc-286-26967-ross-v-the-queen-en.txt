@@ -1,0 +1,194 @@
+Title: Ross v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26967/index.do
+Corpus path: corpus/cases/tcc/2005/2005-tcc-286-26967-ross-v-the-queen-en.md
+Document type: case_law
+Last modified: 2005-04-22
+
+# Ross v. The Queen
+
+- Citation: 2005 TCC 286
+- Decision date: 2005-04-22
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 577, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Ross v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-04-22
+Neutral citation
+2005 TCC 286
+File numbers
+2002-3914(IT)G
+Judges and Taxing Officers
+Alexander A. Sarchuk
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2002-3914(IT)G
+BETWEEN:
+DONALD M. ROSS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on October 5, 2004, at Toronto, Ontario, by
+The Honourable Justice A.A. Sarchuk
+Appearances:
+Counsel for the Appellant:
+Wilfrid Lefebvre, Q.C.
+Counsel for the Respondent:
+Donna Dorosh
+____________________________________________________________________
+JUDGMENT
+The appeals from assessments of tax made under the Income Tax Act for the 1996, 1997 and 1998 taxation years are allowed, with costs to the Appellant, and the assessments are referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached reasons for judgment.
+Signed at Ottawa, Canada, this 22nd day of April, 2005.
+"A.A. Sarchuk"
+Sarchuk J.
+Citation: 2005TCC286
+Date: 20050422
+Docket: 2002-3914(IT)G
+BETWEEN:
+DONALD M. ROSS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Sarchuk J.
+[1] In computing income for the 1996, 1997 and 1998 taxation years, the Appellant claimed the amounts of $51,103.99, $37,504.45 and $40,332.60, respectively, as expenses fully deductible against his business income. The Minister of National Revenue treated these expenses as representing farm losses and reassessed to restrict their deduction to the amount of $8,750 in each of the respective years.
+[2] At all relevant times, the Appellant was a salesman, market maker, president and a substantial owner of Jones, Gable & Company Limited based in Toronto. With respect to his role as a security salesman he said it was necessary to attract people who are in the market. This is done through contacts, knowledge and positions in various securities which enable one to deal as a principal. In time, he earned a reputation as a "supporter of companies which initially go public, smaller companies" and of being a good trader of securities with the ability to put prices on trades and/or take a position one way or the other to facilitate the completion of the trade. As well he had his own trading terminal and was able to execute orders directly. His client base during the years in issue included seven or eight "institutional-type" clients, i.e. individuals who trade regularly and who often traded under a variety of names or companies. He also had a large number of retail clients who permitted him to speculate on their behalf on a limited basis with respect to junior companies and in this context, made specific reference to companies that required 200 shareholders to become public and his ability to provide a list of "real names to effect the listing requirements".
+[3] The Appellant maintains that there is a direct link between his activities with respect to thoroughbred racehorses and the development and maintenance of his client base. He grew up in rural Ontario and was not "in Toronto financial circles" when he first began his career in the brokerage business. In addition to developing the skills necessary to be a good broker, he believed it was important to meet and actually deal with people "who controlled companies or were financially likely clients". At some point of time, he acquired "a passing interest" in thoroughbreds and decided to use it "as one way to develop clients". With this purpose in mind in the early 1960s, he began to entertain people at the races and, on the odd occasion, agreed to be involved in a syndicate to "follow a promising animal ... and that was just another way of getting to be known ... as well as attracting people to deal with me". The Appellant made reference to the substantial number of people that he met in this way who were interested in speculative stocks and observed that:
+Well, everything from numbers of people who are interested in speculative stocks, and there are naturally a myriad of those on the backstretch and in the functions end of the racing business. Dealing in penny stocks is almost, to some of them, as exciting as - - as standing about the windows. You know, there's action and it's -- it's sometimes exaggerated. So I was able to get numbers of clients that way. Apart from that, as I said before, amongst the people who owned thoroughbreds and everything, I was exposed to people who ran companies or who were monied people generally, which let to - - well, dealing in various ways.
+[4] The Appellant testified that a very substantial portion of his income as a salesman comes from commissions and that there was a definite link between the thoroughbred activities and the development and continuation of his client base. He made reference to a list of current clients all of whom were related to his thoroughbred activities in various ways.[1] He stated:
+Well, starting at the bottom, the three names, Cavendish, GooseLake, and Harvest Fund, are Richard Bonnycastle in Calgary with whom I, you know, developed an original friendship through a partnership dating back to 1970 in horses. Lincluden is Ian Jamieson who - - well, wives have been partners and I've been partners with him; I suppose brought him into the racing game and kept a friendship that way. Bob Krembil of Trimark, I tried for probably twenty years to get him interested and I'd continually go to the track with him and he was the very successful manager of Trimark Investments who - - he and Labatt cashed out, what, three, four years ago, but - - but they were - - Krembil was very helpful to me in keeping aware of what was going on in markets possibly other than what I dealt in but invaluable as a background. He was their main money manager in their very successful days.
+He also specifically noted that:
+... There are probably fifteen who are, you know, very directly related. George Bodnar and Penelope Explorations in Montreal were almost entirely - - the association was kept up through the interest. Ken Burgess was Dick Bonnycastle's brother-in-law. Cardella was one of the fellows in the barn, you know, just one of the names we used. Charalambous is a trainer and his mother's account are those two. David Clark's a jockey that rides for us fairly often, has a bit of money and is willing to play. Rob Cudney is - - oh, we're major partners in - - in all sorts of things besides the odd horse and is a good part of my commission income now, the companies that he's involved with.
+Bernard Girault's a trainer, and he brought me other names from the - -you know, from the track to fill out the hand where we needed names. Dr. Allen Green Bonaventure is entirely a contact that came from the track, and he's - - he's a very keen stock trader as well as a person who deals with a great number of firms and whose information flow is very valuable as a client. Nick Harris is a partner that came entirely from there. Bob Heather's a lawyer who I got to know entirely through the track. Larry Heisey that was head of Harlequin is - - has been a partner with horses. That's where that connection was solidified. The Howards, one of them's a trainer. Jake Howard was Chair of the Jockey Club and that sort of thing. His family, those four names, came from there. Or five, actually, with the children's trust. Jamieson I've explained via Lincluden beneath. Penelope Bodnar, I'd mention. Brett Peters is one of Cudney's people and you know, very keen that way and the connection keeps up that way. He's - - he's Cudney's money man. Trevor Swan's a trainer who's left money with me. So is Jim Begg who's very successful - - what do you call it? - - Shopping centre developer and he's put money. Zweig is one of the people that work in the back stretch, that type of thing. And various others are all people who, at one time or another, have - - have, you know, been with us to the track or had a connection that way.
+The Appellant further testified that of the $1,200,000 in commission income earned in 1996, it was reasonable to say that approximately 50% was related to the thoroughbred activities. His expenses with respect thereto for that year had been $93,900 and revenues amounted to $42,800 for a net loss of $51,103.99.
+Appellant's submissions
+[5] The issue before the Court requires a finding of fact that the thoroughbred activities were an integral part of the Appellant's business as a broker. Absent that finding, the Appellant would concede that section 31 of the Income Tax Act applies. The thoroughbred activities give rise to deductible expenses by virtue of paragraph 8(1)(f) of the Act. There are four conditions precedent to the application of this paragraph:
+(i) The taxpayer must be ordinarily required to carry on the duties of employment away from the employer's place of business. In the present case, the evidence is that in practical terms, albeit not necessarily by virtue of contract, the Appellant was required to carry on employment duties away from the place of business. In order to generate business and in particular, to generate the client base, the Appellant had to be away from the office and in fact often was;
+(ii) Under the contract of employment, the taxpayer must be required to pay the taxpayer's own expenses;
+(iii) The taxpayer must be remunerated all or in part by commissions or other amounts fixed by reference to the volume of sales; and
+(iv) The taxpayer must not have been in receipt of an allowance for travel expenses.
+There is no dispute as to these conditions being met in the present case.
+[6] Counsel further argued that case law clearly indicates that if an activity is part of the earning process of a business, then expenses related to that activity are incurred for the purpose of earning income and are allowable pursuant to paragraph 8(1)(f). This paragraph essentially imports into the employment category a profit or business approach because commissions are in the nature of business income much more than employment income. Reference was also made to Frappier v. The Queen,[2] a decision which dealt with a financial advisor employed by a brokerage firm who had a business approach of reimbursing her clients for losses suffered as a consequence of following her investment strategy. The issue was whether these reimbursements were valid business expenses. Bowman J. (as he then was) held that they were, as Frappier's business was largely built on referrals and for this reason, it was necessary that her reputation be maintained.
+[7] In Olympia Floor & Wall Tile (Quebec) Ltd. v. M.N.R.,[3] Jackett J. held that even though outlays in that case took the form of contributions to charitable organizations, they were not gifts within the meaning of that word in paragraph 27(1)(a) of the Act, but rather were made for the purpose of earning income. Jackett J. also stated:
+It is quite possible that a portion of these contributions or all of it, for that matter, may have been made for reasons other than pure business reasons but these reasons would have been subordinate, in my estimation, to the purpose alleged by the appellant and which was confirmed by the evidence.
+In the present case, while the Appellant certainly enjoyed his thoroughbred activities, this was subordinate to the fact that they were carried on for the purpose of developing business and earning commission therefrom. Counsel submits that the modern approach taken by the Supreme Court of Canada with respect to the deduction of expenses pursuant to paragraph 18(1)(a) of the Act in Symes v. Canada[4] is applicable, and says that the question to be asked in the present appeals is, what was the purpose of the expenditure? Here, the purpose of the thoroughbred activities was to generate commission income and for that reason, the Minister's assessments were wrong.
+Respondent's submissions
+[8] The Respondent contends that for a number of years, the Appellant was buying and breeding horses for racing and thus, participated in farming as defined pursuant to subsection 248(1) of the Act. However, his chief source of income throughout this period was not farming or a combination of farming and some other income, but rather was the result of his brokerage activities as a salesman and market maker. Accordingly, the Appellant's losses were properly restricted in accordance with section 31 of the Act. The expenditures in question are clearly related to farming - veterinarian fees, blacksmith fees, stable fees, trainer fees, the cost of purchasing horses and section 31 of the Act was specifically enacted to deal with situations such as this. Counsel referred to the comments of Robertson J.A. in The Queen v. Donnelly:[5]
+As is well known, section 31 of the Act is aimed at preventing "gentlemen" farmers who enjoy substantial income from claiming full farming losses: ...
+and referring to The Queen v. Morrissey,[6] Robertson J.A. also noted that:
+... The practical and legal reality is that these farmers are hobby farmers but the Minister allows them the limited deduction under section 31 of the Act. Such cases almost always involve horse-farmers who are engaged in purchasing or breeding horses for racing. In truth, there is rarely even a reasonable expectation of profit in such endeavours much less the makings of a chief source of income.
+[9] The Respondent's position is that section 8 of the Act does not apply in this case. The expenses envisioned by that section deal generally with expenses relating to meals, requirements to be away from the office, promotion and entertainment. The expenses sought to be deducted in the present appeals do not fall within that category. Deductions for veterinarian and stable fees as well as the cost of transportation of horses cannot be considered employment deductions under section 8 of the Act.
+[10] Counsel made reference to H.J. O'Connell Limited v. M.N.R.[7] In that case, the taxpayer carried on a contracting business and owned a farm on which it raised prize cattle, show and racehorses. The taxpayer argued that farming was a means of advertising and accordingly was deductible pursuant to the provisions of paragraph 12(1)(a) of the Act.[8] The Tax Appeal Board rejected the taxpayer's submission that farming was a means of advertising, stating:
+... But can a form of income as farming, a business in itself, be construed solely as a form of advertising? ... It is an activity in itself, liable to produce an income and cannot be considered in any way whatsoever as a means of promotion or advertising. Such farming activity was autonomous by its very nature and if it helped to increase the good-will of the appellant in its construction business, it was only incidental and too remotely connected, while it rather increased the goodwill of its farming business. ...
+In the case under review, it is far-fetched to use a farming operation, an expensive asset, as a means of advertising. ... The Minister ... must draw a line between advertising costs directly with actual promotion and profit-making of business and other expenditures incurred in too remote a way for that purpose. ...
+[11] In Romain Audet v. M.N.R.,[9] the taxpayer was an accountant who also had a farming activity and was allowed restricted farming losses. He tried to claim the remainder under paragraph 18(1)(a) on the basis that he obtained clients as a result of these farming activities. The appeal was dismissed on the basis that the farm was a separate activity to be computed on a source basis. The Court stated:
+It is quite clear that if the appellant incurred expenses (such as invitations, meals, gifts and so forth) in the course of his farming activities with the purpose of attracting clients to his professional firm, such expenses, if proven, may be included in computing his professional income. However, it is clear that expenses such as veterinary fees, blacksmith fees or the purchase price of horses may not be applied against his professional income.
+Specific reference was also made by counsel to the fact that the Appellant conceded that there was a profit motive in respect of his thoroughbred activities and that in the past he had been permitted restricted farm losses. In so doing, the Minister accepted that there was a business for purposes of allowing that provision. Furthermore, section 31 is a self-contained code and a taxpayer who is permitted to deduct restricted farming losses cannot deduct any amount over the restricted amount pursuant to another provision of the Income Tax Act.
+Statutory Provisions
+[12] Paragraph 8(1)(f), section 67 and subsections 31(1) and 248(1) read as follows:
+8(1) In computing a taxpayer's income for a taxation year from an office or employment, there may be deducted such of the following amounts as are wholly applicable to that source or such part of the following amounts as may reasonably be regarded applicable thereto:
+(a) ...
+(f) where the taxpayer was employed in the year in connection with the selling of property or negotiating of contracts for the taxpayer's employer, and
+(i) under the contract of employment was required to pay the taxpayer's own expenses,
+(ii) was ordinarily required to carry on the duties of the employment away from the employer's place of business,
+(iii) was remunerated in whole or part by commissions or other similar amounts fixed by reference to the volume of the sales made or the contracts negotiated, and
+(iv) was not in receipt of an allowance for travel expenses in respect of the taxation year that was, by virtue of subparagraph 6(1)(b)(v), not included in computing the taxpayer's income,
+amounts expended by the taxpayer in the year for the purpose of earning the income from the employment (not exceeding the commissions or other similar amounts referred to in subparagraph (iii) and received by the taxpayer in the year) to the extent that those amounts were not
+(v) outlays, losses or replacements of capital or payments on account of capital, except as described in paragraph (j),
+(vi) outlays or expenses that would, by virtue of paragraph 18(1)(l), not be deductible in computing the taxpayer's income for the year if the employment were a business carried on by the taxpayer, or
+(vii) amounts the payment of which reduced the amount that would otherwise be included in computing the taxpayer's income for the year because of paragraph 6(1)(e);
+31(1) Where a taxpayer's chief source of income for a taxation year is neither farming nor a combination of farming and some other source of income, for the purposes of sections 3 and 111 the taxpayer's loss, if any, for the year from all farming businesses carried on by the taxpayer shall be deemed to be the total of
+(a) the lesser of
+(i) the amount by which the total of the taxpayer's losses for the year, determined without reference to this section and before making any deduction under section 37 or 37.1, from all farming businesses carried on by the taxpayer exceeds the total of the taxpayer's incomes for the year, so determined from all such businesses, and
+(ii) $2,500 plus the lesser of
+(A) 1/2 of the amount by which the amount determined under subparagraph (i) exceeds $2,500, and
+(B) $6,250, and
+(b) the amount, if any, by which
+(i) the amount that would be determined under subparagraph (a)(i) if it were read as though the words "and before making any deduction under section 37 or 37.1" were deleted,
+exceeds
+(ii) the amount determined under subparagraph (a)(i).
+67 In computing income, no deduction shall be made in respect of an outlay or expense in respect of which any amount is otherwise deductible under this Act, except to the extent that the outlay or expense was reasonable in the circumstances.
+248(1) In this Act,
+"farming" includes tillage of the soil, livestock raising or exhibiting, maintaining of horses for racing, raising of poultry, fur farming, dairy farming, fruit growing and the keeping of bees, but does not include an office or employment under a person engaged in the business of farming;
+Conclusion
+[13] The Respondent's assessments are based on two propositions. First, the range of deductibility of expenses permitted by paragraph 8(1)(f) is specifically circumscribed and does not permit deductions for the type of expenses claimed by the Appellant as exemplified by items such as veterinary fees, transportation of horses, stable fees, etc. More specifically, the expenses envisioned by paragraph 8(1)(f) were not intended to include anything more than items such as "meals, dealing with requirements to be away from the office, dealing with promotion and entertainment" and the expenses in this particular case do not fall into those categories.
+[14] The deductions from employment income that are permitted by the Act are set out in subsection 8(1). Section 67 requires that the deductions must be reasonable in the circumstances while subsection 8(2) makes it clear that no other deductions are allowed. More specifically, subsection 8(1) contains provisions regarding deductions from employment income in a number of varied and disparate situations, e.g. expenses relating to a clergyman's residence, volunteers' deductions, teacher's exchange fund contributions, railway employee expenses, travel and motor vehicle expenses and even Canada Pension Plan contributions. It is reasonable to conclude that each category is intended to meet the requirements of a particular type of employment and that the permissible deductions with respect to each is limited by the very nature of that particular paragraph. A quick review suggests that items such as the cost of equipment, supplies, conferences, entertainment and promotion are, as a general rule, not deductible from employment income. One exception to the foregoing relates to an employee who comes within the scope of paragraph 8(1)(f) and "was employed in the year in connection with the selling of property or negotiating of contracts for the taxpayer's employer ..." and was required to pay his own expenses, was ordinarily required to carry on the duties of employment away from the employer's place of business and was remunerated by commissions fixed by reference to the volume of sales made or the contracts negotiated. Such an employee is entitled to deduct amounts expended by him for "the purpose of earning the income from the employment not exceeding the commissions ... received by the taxpayer in the year". Two points must be made. First, no other paragraph in subsection 8(1) provides for as wide a range of deductions and, second, there is a marked similarity between paragraph 8(1)(f) which permits the deduction of expenditures reasonably related to the production of employment income and subsection 18(1) of the Act which makes the same provision with respect to the production of income from a business.
+[15] In support of the Appellant's position, counsel made reference to what he described as the "modern approach to the deduction principle" with respect to paragraph 18(1)(a) of the Act which was considered by the Supreme Court of Canada in Symes. In that case, Iacobucci J. stated:
+... In considering the extent to which a purpose test is appropriate, I wish to make note of the decision of Wilson J. in Mattabi Mines Ltd. v. Ontario(Minister of Revenue). Therein, Wilson J. considered a taxation provision substantially similar to section 18(1)(a), she examined the jurisprudence on section 18(1)(a), and she came to the following conclusion:
+The only thing that matters is that the expenditures were a legitimate expense made in the ordinary course of business with the intention that the company could generate the taxable income sometime in the future. [Emphasis added]
+and later added:
+Upon reflection, therefore, no test has been proposed which improves upon or which substantially modifies a test derived directly from the language of s. 18(1)(a). The analytical trail leads back to its source, and I simply ask the following: did the appellant incur child care expenses for the purpose of gaining or producing income from a business?
+[Emphasis added]
+There is no logical reason why this approach cannot be considered with respect to paragraph 8(1)(f). Although viewed in isolation, an expenditure for veterinary fees or for the transportation of a racehorse might not appear to be a permissible deduction under section 8 of the Act, the fact is that paragraph 8(1)(f) was specifically enacted for the purposes of commission employees, the clear intent of which was to provide a realistically broader scope for deductibility similar to that which exists for business expenses in section 18 of the Act. The question that was considered in Symes may appropriately be asked with respect to the provisions of paragraph 8(1)(f), i.e. did the Appellant incur the expenses in issue for the purpose of gaining or producing commission income in the ordinary course of his employment?
+[16] Counsel for the Respondent referred to the Appellant's concession that a personal interest existed in his thoroughbred activities and suggested that he would have been involved to the same extent even if it had a marginal impact in developing and increasing his client base. Counsel also submitted that no direct link had been established between the activity and the commissions earned in the years in issue. With respect to the first point, the Appellant agreed but also noted that he would not have gone "to the extent to which I have", and that, particularly with respect to the owning of horses and the entering into various syndicates he would not have done that. The existence of a personal interest in similar circumstances was considered by Rip J. in Matt Harris & Son Ltd. v. Canada.[10] In that case, the Appellant operated a wood contracting and construction business and for that purpose, incurred a substantial portion of its advertising expenses in relation to stock car and snowmobile racing. It owned both a stock car and a snowmobile, both driven by Harris, the Appellant's sole shareholder and president. Racing expenses less prize money were claimed in the taxation years in issue and were denied by the Minister on the basis that they were personal and too remote from the business. In Harris, reference was also made to the decisions in Ace Salvage Alberta Ltd. v. M.N.R.[11] and H.J. O'Connell, supra, in respect of which Rip J. stated:
+51 A business may opt to advertise an activity in which its owner (or principal shareholder of the corporation owning the business) has a keen interest or a degree of personal satisfaction. There is no reason why the expense of a particular form of advertising should be disallowed by the fisc solely because of the owner's interest, satisfaction or, as in the appeal at bar, participation in the advertising or remoteness from its business. The fact that an owner of a business (or a director of a corporation) may experience a vicarious satisfaction from the form of advertisement does not necessarily lead to the conclusion that the cost of the advertisement should be disallowed. If the expense of the advertisement, whatever it is, is incurred by the taxpayer for the purpose of gaining or producing income from its business and the expense is reasonable in the circumstances, the expense ought to be deductible in computing income. This is what the Act dictates.
+[Emphasis added]
+Rip J. also observed that these cases:
+... were based in no small degree on a finding that the expense was too remote from the business. The concept of remoteness is nowhere found in the Act. Any outlay or expense, to qualify as a deduction in computing income, must be made or incurred for the purpose of gaining or producing income from the business. The outlay or expense, of course, must be reasonable in the circumstances.
+[Emphasis added]
+I appreciate that Rip J. was dealing with the provisions of paragraph 18(1)(a) of the Act, but I see no reason to apply a different standard with respect to the provisions of paragraph 8(1)(f).
+[17] There is another reason why the Respondent's reliance on the O'Connell decision is somewhat misplaced. The expenses in that case were found to have been incurred for the "purpose" of producing income from a farming operation which included ownership of the farm land on which that Appellant raised prize cattle, show and racehorses and "for no other purpose". The Board member specifically noted that there was virtually no evidence as to the extent "advertising, and its many and diversified forms, will bring results" and that it was "farfetched to use a farming operation, an expensive asset, as a means of advertising". This contrasts sharply with the Appellant's testimony that a substantial number of his clients had been attracted through the racing activities, many of whom were established to be more than casual players in the market. Of his total 1996 customer base of 400-500, approximately 100 had become and remained clients as a result of contacts made through his involvement in racing.[12] When asked how much of his 1996 commission income of some $1,082,000 was reasonably related to his thoroughbred activities, he estimated that it would "be plus or minus 50%, that sort of thing? I would guess so, and it may be a fair bit more. It would depend on, you know, how many small company issues I did and the mix of the commission business at that time". On the whole, the Appellant's testimony establishes that there was a direct relationship between the commission income earned in that taxation year and his thoroughbred involvement. Furthermore, the Appellant has not denied that he has a personal interest in horseracing, but the evidence also supports his assertion that the primary purpose behind his continuation of these activities was for the purpose of earning income from his employment.
+[18] The Respondent also contends that the losses in issue were properly restricted in accordance with section 31 because the expenditures were related to farming which is defined as "... maintaining of horses for racing". Thus if the activity is one described in the definition, it means that an individual may not treat it as anything other than "farming" even though the evidence clearly establishes that it was primarily intended to be and, in this case, was a direct means of access to potential investors for the purpose of earning commission income.
+[19] Counsel for the Respondent referred to the fact that the Appellant previously claimed farm losses which were denied and thus, he was precluded from claiming such losses under any other head.[13]In that earlier case, Bowman J. observed that the Appellant did not have counsel and that the evidence tendered in respect of many of the six or seven issues was insufficient to enable the Court to rule in his favour. In dismissing the appeal related to farming losses, he stated:
+For the 1980, 1981 and 1983 taxation years, the Appellant suffered farming losses of $24,161.00, $39,451.38 and $22,923.51. These losses evidently arose from the Appellant's purchase of racing horses or interest therein and his interest in a vineyard in California. He did not own a farm. The Minister restricted his deductible losses in those years to $5,000 under section 31 of the Income Tax Act on the basis that his chief source of income was neither farming nor a combination of farming and some other source. The Appellant did not seriously suggest - nor could he - that his chief source of income was farming or a combination of farming and some other source, but argued that the farming losses were in essence a form of expense of his business as security salesman in that it was a way of meeting customers. It was not established that his investment in horses or a vineyard had any significant connection with his securities business and, in any event, Section 31 of the Income Tax Act on the facts clearly applies. Neither farming nor farming and another source of income was his chief source of income. The application of Section 31 of the Act is not suspended merely because his main objective may, through the contacts which he hoped to make by his investment in horses, have been to attract customers.
+Given the absence of a transcript of the evidence or of a summary thereof, it is not possible to determine the nature and/or the amount of expenses in issue and, although it appears that the Appellant had raised the issue in a general way, whether the issue of deductibility pursuant to paragraph 8(1)(f) was specifically canvassed. Furthermore, as contrasted to the present appeals, the Appellant had not established any significant connection between his thoroughbred involvement and his securities business. It should also be noted that in the course of his testimony, the Appellant was asked why he listed the expenses in issue in his return in the line captioned "alimony or maintenance paid" to which he added "thoroughbred expense". He responded "I was told by Judge Bowman at a previous tax hearing that - - when I explained the nature of the thoroughbred activity that I should not file it under "farming", and "that it should not be included under farming, as my contention was that it was a business expense". So "I chose that as the blank spot which could be used for the purpose". I do not share the Respondent's concern regarding the manner in which the Appellant chose to show that the expenses in issue were not related to a farming operation. I should also note that it was brought to my attention that this Judgment was appealed to the Federal Court, Trial Division and prior to trial, a settlement was reached. Counsel for the Appellant submitted that neither the decision nor the settlement should be considered in these appeals. While I am not prepared to do so entirely, the brief decision and the absence of a summary of the facts in respect of which it was given provides little assistance to either party in the present appeals.
+[20] I have concluded that the appeals should be allowed on the basis that expenses were incurred by the Appellant for the purpose of earning the income from his employment. I am not, however, prepared to accept the amounts claimed in the three years in issue. I make specific reference to the Appellant's Exhibit A-3, a handwritten list of the expenses and income related to the horseracing activities in respect of which I understood him to say that at least several of the items in the income column related to the disposition of a racehorse. With respect to the expense column, these, he testified, reflected "training fees, association memberships, boarding bills, entry fees, etc". I note, however, that there are several fairly substantial amounts which may reflect the cost of his portion of a syndicate purchase or a purchase by him directly of a racehorse. If this is so, I must note my concern with respect to the inclusion of such amounts since subparagraph 8(1)(f)(v) does not permit the deduction of outlays, losses or replacements of capital or payments on account of capital, except as described in paragraph (j). Paragraph (j) has no relevance to the present appeals. Although counsel for the Appellant, in the course of his submission, indicated that the amount of the expenses was not in issue, Respondent's counsel noted that while there had been some substantiation of the 1996 expenses, the amounts in issue have not been audited by the Minister nor had the amount of farming losses been audited with respect to 1997 and 1998. Counsel for the Appellant conceded that was the case and proposed that if the appeals are allowed on the principle that the certain expenses related to the thoroughbred activities are deductible under paragraph 8(1)(f), the matter be referred back to the Minister for reconsideration and reassessment on that basis. Both counsel agreed to this procedure subject to the understanding that if the parties cannot agree on the mechanism, the matter will be brought back before the Court.
+[21] One further matter needs to be dealt with. The Respondent also disallowed certain amounts in the computation of the Appellant's business income. The parties advised the Court that a settlement has been reached and that with respect to the 1997 and 1998 taxation years, the amounts allowable as expenses are agreed to be $4,135 and $6,247, respectively.
+[22] The appeals are allowed and referred back to the Minister for reconsideration and reassessment, with costs to the Appellant.
+Signed at Ottawa, Canada, this 22nd day of April, 2005.
+"A.A. Sarchuk"
+Sarchuk J.
+CITATION:
+2005TCC286
+COURT FILE NO.:
+2002-3914(IT)G
+STYLE OF CAUSE:
+Donald M. Ross and
+Her Majesty the Queen
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+October 5, 2004
+REASONS FOR JUDGMENT BY:
+The Honourable Justice A.A. Sarchuk
+DATE OF JUDGMENT:
+April 22, 2005
+APPEARANCES:
+Counsel for the Appellant:
+Wilfrid Lefebvre, Q.C.
+Counsel for the Respondent:
+Donna Dorosh
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Wilfrid Lefebvre, Q.C.
+Firm:
+Ogilvy Renault
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Exhibit A-2.
+[2] 98 DTC 1521.
+[3] 70 DTC 6085 (Ex. Ct.).
+[4] 94 DTC 6001.
+[5] 97 DTC 5499 (F.C.A.).
+[6] 89 DTC 5080 (F.C.A.).
+[7] 66 DTC 714 (T.A.B.).
+[8] Now subsection 18(1) of the Act.
+[9] 85 DTC 557.
+[10] [2000] T.C.J. No. 849.
+[11] 85 DTC 568.
+[12] Exhibit A-3.
+[13] Donald M. Ross v. M.N.R., [1992] T.C.J. No. 712.

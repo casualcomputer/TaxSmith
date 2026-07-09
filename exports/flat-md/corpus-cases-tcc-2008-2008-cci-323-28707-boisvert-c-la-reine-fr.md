@@ -1,0 +1,178 @@
+---
+title: "Boisvert c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28707/index.do"
+last_modified: "2008-06-11"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 CCI 323"
+citation2: ""
+neutral_citation: "2008 CCI 323"
+decision_date: "2008-06-11"
+language: "fr"
+item_id: "28707"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1467
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T10:40:37.959000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "c56dd47b2fc4297f245622f3d53a95afea039272af4f473af42a6a3f7d8f1620"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Boisvert c. La Reine
+
+- Citation: 2008 CCI 323
+- Decision date: 2008-06-11
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1467, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Boisvert c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-06-11
+Référence neutre
+2008 CCI 323
+Numéro de dossier
+2007-3782(IT)I
+Juges et Officiers taxateurs
+Réal Favreau
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2007-3782(IT)I
+ENTRE :
+LOUISE BOISVERT,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+et
+MAURICE DÉSILETS,
+tierce partie.
+____________________________________________________________________
+Appel entendu le 7 avril 2008, à Québec (Québec).
+Devant : L'honorable juge Réal Favreau
+Comparutions :
+Avocat de l'appelante :
+Me André Lareau
+Avocat de l'intimée :
+Me Vlad Zolia
+Pour la tierce partie :
+La tierce partie elle-même
+____________________________________________________________________
+JUGEMENT
+L’appel des cotisations de madame Louise Boisvert établies en vertu de la Loi de l'impôt sur le revenu, pour les années d’imposition 2002 et 2003, est accueilli et les cotisations sont déférées au ministre du Revenu national pour nouvel examen et nouvelle cotisation, le tout selon les motifs du jugement ci‑joints.
+L’appel des cotisations de madame Louise Boisvert établies en vertu de la Loi de l'impôt sur le revenu, pour les années d’imposition 2004 et 2005, est rejeté, le tout selon les motifs du jugement ci‑joints.
+Les cotisations de monsieur Maurice Désilets établies en vertu de la Loi de l'impôt sur le revenu, pour les années d’imposition 2002 à 2005, sont déférées au ministre du Revenu national pour nouvel examen et nouvelle cotisation, le tout selon les motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 11e jour de juin 2008.
+« Réal Favreau »
+Juge Favreau
+Référence : 2008 CCI 323
+Date : 20080611
+Dossier : 2007-3782(IT)I
+ENTRE :
+LOUISE BOISVERT,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+et
+MAURICE DESILETS,
+tierce‑partie.
+MOTIFS DU JUGEMENT
+Le juge Favreau
+[1] Madame Louise Boisvert a interjeté appel à l’encontre des avis de nouvelle cotisation datés du 4 juin 2007 en vertu desquels le ministre du Revenu national (le « ministre ») a ajouté, dans le calcul du revenu de l’appelante, à l’égard des années d’imposition 2002, 2003, 2004 et 2005 les sommes respectives de 10 192 $, 11 819 $, 11 612 $ et 3 668 $ à titre de revenu de pension alimentaire ou autre allocation payable périodiquement par son ex-conjoint, monsieur Maurice Désilets, qui n’avaient pas été déclarées.
+[2] Les avis de cotisation initiale à l’égard des années d’imposition 2002 et 2003 de l’appelante sont respectivement datés du 3 avril 2003 et du 22 avril 2004. Le ministre a déterminé que l’appelante, lors de la production de ses déclarations de revenus pour les années d’imposition 2002 et 2003, avait fait une présentation erronée des faits, par négligence, inattention ou omission volontaire, compte tenu de l’importance de l’ajout du revenu additionnel.
+[3] Le 8 juin 2007, l’appelante a signifié au ministre un avis d’opposition pour les années d’imposition 2002, 2003, 2004 et 2005 à l’égard des avis de nouvelle cotisation datés du 4 juin 2007.
+[4] Le 10 juillet 2007, le ministre a ratifié les avis de nouvelle cotisation datés du 4 juin 2007.
+[5] L’avocat de l’intimée a signifié aux parties un renvoi en vertu de l’article 174 de la Loi de l’impôt sur le revenu, ch. 1 (5e suppl.), L.R.C. 1985, telle que modifiée (la « Loi »), daté du 20 mars 2008 afin de joindre monsieur Maurice Désilets à l’appel de madame Louise Boisvert. Les parties ayant consenti au renvoi, la Cour a ordonné au début de l’audience que monsieur Maurice Désilets soit joint à l’appel de madame Louise Boisvert afin de trancher les questions suivantes :
+(a) Madame Louise Boisvert doit-elle inclure, dans le calcul de son revenu pour les années d’imposition 2002 à 2005, les montants de pension alimentaire reçus de monsieur Maurice Désilets au cours de ces années?
+(b) corrélativement, monsieur Maurice Désilets peut-il déduire, dans le calcul de son revenu pour les années 2002 à 2005, les montants de pension alimentaire versés à madame Louise Boisvert?
+[6] Madame Louise Boisvert et monsieur Maurice Désilets se sont mariés le 24 août 1974 et sont les parents de deux filles, Patricia, née le 22 mars 1978 et Constance, née le 27 avril 1982.
+[7] Madame Boisvert et monsieur Désilets ont cessé leur vie commune le 13 septembre 1993 et un jugement de divorce de la Cour supérieure du Québec daté du 24 juillet 1995 a été rendu par l’honorable juge Édouard Martin (le « jugement de divorce »).
+[8] Le jugement de divorce confirme et donne force exécutoire à une « Convention sur les mesures accessoires au divorce et sur le partage du patrimoine familial » datée du 4 décembre 1994 (la « convention sur les mesures accessoires »).
+[9] Le paragraphe 4 de la convention sur les mesures accessoires énonce ce qui suit :
+Le demandeur paiera une pension alimentaire mensuelle de 750,00 $ pour les enfants, ladite pension sera versée dans un compte en fidéicommis à leurs noms, mais administré par la demanderesse jusqu’à leur majorité respective, le demandeur paiera en plus leurs vêtements et leurs frais de scolarité.
+[10] Le paragraphe 6 de la convention sur les mesures accessoires énonce ce qui suit :
+Les enfants Patricia et Constance devront inclure ces sommes dans leurs déclarations de revenu et le demandeur déduira de ses impôts les sommes versées à titre alimentaire.
+[11] Le paragraphe 7 de la convention sur les mesures accessoires énonce ce qui suit :
+Les parties se déclarent l’une et l’autre autonome financièrement et renoncent mutuellement à tous recours relativement à une pension alimentaire.
+[12] Au cours des années en litige, madame Boisvert a reçu de monsieur Désilets des montants à titre de pension alimentaire en application de la Loi facilitant le paiement des pensions alimentaires et la convention sur les mesures accessoires n’a pas été intégralement respectée par les ex-conjoints.
+[13] Madame Boisvert a témoigné et elle a souligné que la convention sur les mesures accessoires a été préparée par Me Raynald D’auteuil. Elle a aussi précisé qu’elle a présenté le 3 novembre 1997 une demande au greffier chargé de l’application de la Loi facilitant le paiement des pensions alimentaires parce que son ex-conjoint ne payait pas les montants de pension alimentaire. Au moment de la demande au greffier, le solde du capital des arrérages s’élevait à 8 395 $.
+[14] Madame Boisvert a aussi expliqué qu’elle n’avait jamais ouvert de compte de banque en fidéicommis pour ses filles. Les chèques de pension étaient faits à son nom et elle les déposait dans son compte de banque personnel. Elle a dit que chacune de ses filles détenait une carte de crédit depuis le mois de mars 1998. Un seul relevé mensuel était obtenu pour les trois cartes de crédit en circulation dont celle détenue par madame Boisvert. L’attribution à chaque détentrice des dépenses apparaissant au relevé mensuel était faite à chaque mois.
+[15] Madame Boisvert a également confirmé qu’elle n’avait jamais inclus dans le calcul de son revenu les montants de pension alimentaire versés par son ex-conjoint.
+[16] Monsieur Désilets a témoigné et il a expliqué qu’il avait continué de verser la pension alimentaire même après que ses filles aient atteint leur majorité respective, soit le 22 mars 1996 pour Patricia et le 27 avril 2000 pour Constance, parce qu’il croyait qu’il était obligé de le faire. De plus, il voulait être un bon père de famille vu que ses filles étaient encore aux études.
+[17] Monsieur Désilets a également confirmé qu’il n’avait jamais déduit, dans le calcul de son revenu, les paiements de pension alimentaire à son ex-conjointe. Il a décidé de réclamer ladite déduction pour les années d’imposition 2002 à 2005 suite à une cotisation qu’il a reçue en 2005 ou 2006 en vertu de laquelle il avait des impôts à payer. Monsieur Désilets croit qu’il a le droit de réclamer rétroactivement la déduction pour pension alimentaire jusqu’à 10 ans en arrière.
+Analyse
+[18] La première question à laquelle il faut répondre concerne le statut fiscal des paiements de pension alimentaire effectués par monsieur Désilets en faveur de madame Boisvert. L’obligation de verser les paiements de pension alimentaire découle de la convention sur les mesures accessoires et du jugement de divorce respectivement datés du 4 décembre 1994 et du 24 juillet 1995, soit avant l’ajout de la définition de « pension alimentaire pour enfants» à la Loi par l’énoncé budgétaire de 1996.
+[19] Les modalités de paiement de la pension alimentaire, selon ce qui était prévu à la convention sur les mesures accessoires et au jugement de divorce, n’ont pas été respectées à la lettre (par exemple, aucun compte en fidéicommis n’a été ouvert), mais aucune modification n’y a été apportée et le montant de la pension alimentaire versé pour subvenir aux besoins des enfants n’a pas été modifié.
+[20] Comme il n’existe pas une « date d’exécution » au sens du paragraphe 56.1(4) de la Loi qui soit postérieure à avril 1997, les paiements de pension alimentaire effectués par monsieur Désilets demeurent soumis à l’ancien régime d’imposition, c’est-à-dire déductibles pour le payeur et imposables dans les mains de la personne qui les reçoit. La définition de l’expression « date d’exécution » que l’on trouve au paragraphe 56.1(4) de la Loi se lit comme suit :
+Définitions. Les définitions qui suivent s’appliquent au présent article et à l’article 56.
+« date d’exécution » Quant à un accord ou une ordonnance :
+(a) si l'accord ou l'ordonnance est établi après avril 1997, la date de son établissement;
+(b) si l'accord ou l'ordonnance est établi avant mai 1997, le premier en date des jours suivants, postérieur à avril 1997 :
+(i) le jour précisé par le payeur et le bénéficiaire aux termes de l'accord ou de l'ordonnance dans un choix conjoint présenté au ministre sur le formulaire et selon les modalités prescrits,
+(ii) si l'accord ou l'ordonnance fait l'objet d'une modification après avril 1997 touchant le montant de la pension alimentaire pour enfants qui est payable au bénéficiaire, le jour où le montant modifié est à verser pour la première fois,
+(iii) si un accord ou une ordonnance subséquent est établi après avril 1997 et a pour effet de changer le total des montants de pension alimentaire pour enfants qui sont payables au bénéficiaire par le payeur, la date d'exécution du premier semblable accord ou de la première semblable ordonnance,
+(iv) le jour précisé dans l'accord ou l'ordonnance, ou dans toute modification s'y rapportant, pour l'application de la présente loi.
+[21] Pour être déductibles dans le calcul du revenu, les paiements effectués par monsieur Désilets doivent rencontrer les exigences de la définition de « pension alimentaire » que l’on trouve au paragraphe 56.1(4) de la Loi et qui se lit comme suit :
+« pension alimentaire » Montant payable ou à recevoir à titre d'allocation périodique pour subvenir aux besoins du bénéficiaire, d'enfants de celui-ci ou à la fois du bénéficiaire et de ces enfants, si le bénéficiaire peut utiliser le montant à sa discrétion et, selon le cas :
+(a) le bénéficiaire est l'époux ou le conjoint de fait ou l'ex-époux ou l'ancien conjoint de fait du payeur et vit séparé de celui-ci pour cause d'échec de leur mariage ou union de fait et le montant est à recevoir aux termes de l'ordonnance d'un tribunal compétent ou d'un accord écrit;
+(b) le payeur est légalement le père ou la mère d'un enfant du bénéficiaire et le montant est à recevoir aux termes de l'ordonnance d'un tribunal compétent rendue en conformité avec les lois d'une province.
+[22] Les paiements de pension alimentaire effectués par monsieur Désilets rencontrent les exigences de la définition de « pension alimentaire » du paragraphe 56.1(4) de la Loi parce qu’ils étaient payables au bénéficiaire (les chèques étant faits au nom de madame Boisvert), à titre d’allocation périodique pour subvenir aux besoins des enfants de madame Boisvert et parce que madame Boisvert pouvait utiliser lesdits paiements à sa discrétion (les chèques de pension alimentaire étaient faits à son nom et étaient déposés dans son compte de banque personnel plutôt que dans un compte de banque en fidéicommis au nom des enfants). Les conditions énoncées aux alinéas (a) et (b) de la définition de « pension alimentaire » sont également rencontrées dans ce cas, vu que madame Boisvert est l’ex-conjointe de monsieur Désilets et que ces derniers vivent séparés l’un de l’autre à cause de la rupture de leur mariage, vu que le montant de la pension alimentaire est payable aux termes de l’ordonnance d’un tribunal compétent ou d’un accord écrit et vu que, madame Boisvert est la mère des enfants dont monsieur Désilets est le père naturel, le montant de la pension alimentaire est payable aux termes d’une ordonnance d’un tribunal compétent rendue en conformité avec les lois d’une province ou d’un territoire.
+[23] Madame Boisvert avait, au cours des années d’imposition 2002 à 2005, l’administration des montants de pension alimentaire reçus de monsieur Désilets. Lorsque les enfants eurent atteint leur majorité respective, madame Boisvert a perdu l’administration du compte de banque en fidéicommis. Dans les faits, madame Boisvert n’a jamais perdu l’administration des paiements de pension alimentaire parce que le compte de banque en fidéicommis n’a jamais été ouvert. Aux fins de la Loi, aucune fiducie n’a été créée. Madame Boisvert a, lors de son témoignage, reconnu ne pas être familière avec le concept de la fiducie et qu’elle n’avait pas jugé bon de déposer les paiements de pension alimentaire dans un compte de banque séparé et distinct du sien parce que cela ne lui apparaissait pas être nécessaire et être inutilement complexe.
+[24] Le jugement de divorce et la convention sur les mesures accessoires ne contiennent pas de dispositions particulières à partir du moment où les enfants ont atteint leur majorité respective si ce n’est que de la perte d’administration du compte de banque en fidéicommis par madame Boisvert. Par contre, aucune diminution, ni aucune date de cessation des paiements de pension alimentaire, n’y est prévue. L’obligation de verser la pension alimentaire a donc subsisté après l’atteinte de la majorité des enfants.
+[25] Au cours des années d’imposition 2002 à 2005, les enfants de madame Boisvert avaient déjà atteint leur majorité respective, soit le 22 mars 1996 pour Patricia et le 27 avril 2000 pour Constance. Au cours de cette période, madame Boisvert n’avait plus la garde légale de ses deux filles. La garde légale d’une enfant cesse lorsqu’il devient majeur mais l’obligation alimentaire envers un enfant ne cesse pas nécessairement lorsqu’il atteint la majorité (réf. l’article 599 du Code civil du Québec). Une des raisons les plus souvent invoquées pour justifier la poursuite du versement de la pension alimentaire au profit d’un enfant qui a atteint la majorité découle de la poursuite des études par l’enfant, même pour des études universitaires de premier cycle et parfois même, pour des études universitaires plus avancées. Un autre exemple est la poursuite d’activités sportives de compétition, comme c’était le cas pour Constance, avec ses compétitions de planche-à-neige.
+[26] Les paragraphes 56.1(1), 60.1(1) et 60.1(2) de la Loi font référence au concept d’« enfants confiés à la garde du bénéficiaire » dans le contexte de paiements faits à des tiers pour s’assurer que les paiements faits à des tiers soient imposables dans les mains d’un bénéficiaire et déductibles de la part du payeur. Ces dispositions ne sont pas applicables au présent cas puisque tous les paiements de pension alimentaire ont été directement remis à madame Boisvert (la bénéficiaire).
+[27] Pour les raisons ci-dessus mentionnées, je suis d’avis que :
+(a) monsieur Maurice Désilets a, en vertu de l’alinéa 60b) de la Loi, le droit de déduire, dans le calcul de son revenu pour les années d’imposition 2002 à 2005, les montants de pension alimentaire versés à madame Louise Boisvert;
+(b) madame Louise Boisvert a, en vertu du paragraphe 56(1)b) de la Loi, l’obligation d’inclure, dans le calcul de son revenu pour les années d’imposition 2004 et 2005, les montants reçus de monsieur Désilets à titre de pension alimentaire ou autre allocation payable périodiquement suite au jugement de divorce et à la convention sur les mesures accessoires;
+(c) madame Louise Boisvert n’a pas, en vertu du paragraphe 56(1)b) de la Loi, l’obligation d’inclure, dans le calcul de son revenu pour les années d’imposition 2002 et 2003, les montants reçus de monsieur Maurice Désilets à titre de pension alimentaire ou autre allocation payable périodiquement suite au jugement de divorce et à la convention sur les mesures accessoires parce que le ministre n’a pas établi la validité des avis de nouvelle cotisation datés du 4 juin 2007 pour les années d’imposition 2002 et 2003.
+[28] Contrairement aux prétentions du procureur de l’intimée, madame Louise Boisvert n’a pas fait une présentation erronée des faits, par négligence, inattention ou omission volontaire, en produisant ses déclarations de revenu pour les années d’imposition 2002 et 2003 en vertu du paragraphe 152(4) de la Loi étant donné que le statut fiscal des paiements de pension alimentaire versés à madame Louise Boisvert par monsieur Maurice Désilets n’était pas déterminé avec certitude d’où la nécessité du présent appel et étant donné que monsieur Maurice Désilets n’avait pas à l’origine réclamé de déduction relativement aux paiements de pension alimentaire versés en 2002 et 2003 de même que pour les années antérieures.
+[29] Le fait que monsieur Maurice Désilets ait été joint à l’appel de madame Louise Boisvert suite à un renvoi en vertu de l’article 174 de la Loi ne peut avoir pour effet de faire perdre à madame Louise Boisvert le bénéfice de la prescription des années 2002 et 2003 et, inversement, ne peut faire perdre à monsieur Maurice Désilets, le bénéfice des déductions pour les paiements de pension alimentaire qu’il a versés à madame Louise Boisvert en 2002 et 2003.
+[30] L’appel de madame Louise Boisvert est accueilli à l’égard des années d’imposition 2002 et 2003 et est rejeté à l’égard des années d’imposition 2004 et 2005.
+[31] Les cotisations de monsieur Maurice Désilets établies en vertu de la Loi pour les années d’imposition 2002 à 2005 devront faire l’objet d’avis de nouvelle cotisation pour permettre la déduction des paiements de pension alimentaire versés à madame Louise Boisvert.
+Signé à Ottawa, Canada, ce 11e jour de juin 2008.
+« Réal Favreau »
+Juge Favreau
+RÉFÉRENCE : 2008 CCI 323
+Nº DU DOSSIER DE LA COUR : 2007-3782(IT)I
+INTITULÉ DE LA CAUSE : Louise Boisvert et Sa Majesté la Reine et Maurice Désilets
+LIEU DE L’AUDIENCE : Québec (Québec)
+DATE DE L’AUDIENCE : le 7 avril 2008
+MOTIFS DU JUGEMENT PAR : L'honorable juge Réal Favreau
+DATE DU JUGEMENT : le 11 juin 2008
+COMPARUTIONS :
+Avocat de l'appelant :
+Me André Lareau
+Avocat de l'intimée :
+Me Vlad Zolia
+Pour la tierce partie:
+La tierce partie elle-même
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelante :
+Nom : Me André Lareau
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

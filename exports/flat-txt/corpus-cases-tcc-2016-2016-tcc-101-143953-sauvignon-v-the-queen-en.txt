@@ -1,0 +1,190 @@
+Title: Sauvignon v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/143953/index.do
+Corpus path: corpus/cases/tcc/2016/2016-tcc-101-143953-sauvignon-v-the-queen-en.md
+Document type: case_law
+Last modified: 2016-05-02
+
+# Sauvignon v. The Queen
+
+- Citation: 2016 TCC 101
+- Decision date: 2016-05-02
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3098, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Sauvignon v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2016-05-02
+Neutral citation
+2016 TCC 101
+File numbers
+2010-3810(IT)G
+Judges and Taxing Officers
+Brent Paris
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2010-3810(IT)G
+BETWEEN:
+ANNIE SAUVIGNON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard on September 2, 2015, at Montréal, Quebec.
+Before: The Honourable Justice B. Paris
+Appearances:
+Counsel for the Appellant:
+Henri Simon
+Counsel for the Respondent:
+Anne‑Marie Boutin
+JUDGMENT
+The appeal from the assessment dated December 20, 2007, under the Income Tax Act is dismissed, with costs to the respondent, in accordance with the attached Reasons for Judgment.
+Signed at Toronto, Canada, this 2nd day of May 2016.
+“B. Paris”
+Paris J.
+Translation certified true
+On this 23rd day of June 2017
+François Brunet, Reviser
+Citation: 2016 TCC 101
+Date: 20160502
+Docket: 2010-3810(IT)G
+BETWEEN:
+ANNIE SAUVIGNON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Paris J.
+[1] Annie Sauvignon (the “appellant”) is appealing from an assessment dated December 20, 2007, in the amount of $154,349.84 issued under subsection 160(1) of the Income Tax Act, R.S.C. 195 [sic], c. 1 (5th Supp.) “ITA.” Through this assessment, the Minister is trying to collect tax debts from the appellant owed by her late common-law partner, Ralph Abergel. The amount of Mr. Abergel's tax debts, which totalled $2,373,487.83 at the time of the assessment, is not in dispute.
+[2] The Minister assessed the appellant on the grounds that Mr. Abergel transferred the following sums to her without consideration:
+Bank transfer dated November 14, 2001
+$100,000.00
+Cheque dated March 10, 2003
+$4,000.00
+Cheque dated April 17, 2003
+$28,000.00
+Cheque dated September 1, 2003
+$1,500.00
+Cheque dated September 3, 2003
+(The actual amount of the cheque is $3,550.00)
+$3,500.00
+Cheque dated September 29, 2003
+$500.00
+Cheque dated November 10, 2003
+$6,000.00
+Cheque dated January 9, 2004
+$3,492.00
+Cheque dated January 22, 2004
+$1,000.00
+Cheque dated August 24, 2006
+$1,357.84
+Bank transfer dated December 13, 2006
+$5,000.00
+Total
+$154,349.84
+[3] The appellant admits that these sums were deposited into her bank account by Mr. Abergel, but she is questioning the assessment on the grounds that the $100,000 amount that she received from Mr. Abergel on November 14, 2001, was a loan, not a transfer, within the meaning of subsection 160(1). As regards the other amounts, she says that she provided consideration equivalent to the value of the transfers when she received them.
+Applicable Legislation [4] Hereunder are the relevant sections of subsection 160(1) of the ITA:
+160. (1) Where a person has, on or after May 1, 1951, transferred property, either directly or indirectly, by means of a trust or by any other means whatever, to
+(a) the person’s spouse or common-law partner or a person who has since become the person’s spouse or common- law partner,
+. . .
+the following rules apply:
+. . .
+(e) the transferee and transferor are jointly and severally, or solidarily, liable to pay under this Act an amount equal to the lesser of
+(i) the amount, if any, by which the fair market value of the property at the time it was transferred exceeds the fair market value at that time of the consideration given for the property, and
+(ii) the total of all amounts each of which is an amount that the transferor is liable to pay under this Act . . . in or in respect of the taxation year in which the property was transferred or any preceding taxation year;
+Facts [5] The appellant says that she met Mr. Abergel in March 2001. At that time, she was employed as a secretary by Manoir Laval Ouest, a seniors' residence, and Mr. Abergel had recently become a partner and shareholder in the company. In July 2001, they began an intimate relationship. They lived together from October 2002 to October 2003, after which time Mr. Abergel resumed living with his former partner, Esther Ouahidi, for three months. Afterwards, Mr. Abergel and the appellant lived together from January 2003 until Mr. Abergel passed away in 2015.
+[6] The appellant testified that in fall 2001, Mr. Abergel lent her $98,000 to purchase a condominium in Brossard, which cost $280,000. The appellant borrowed the remainder of the purchase price from a savings bank. The appellant says that she did not have the means to repay Mr. Abergel's loan immediately and that she and Mr. Abergel agreed that she would pay him back [translation] “as soon as possible.”
+[7] The appellant filed as evidence (Exhibit A‑3) a loan agreement signed by Mr. Abergel and the appellant, dated October 29, 2001, which reads as follows:
+[Translation]
+I, the undersigned, Ralph Abergel, this 29th day of October 2001, am hereby lending $98,000 to Ms. Annie Sauvignon.
+It will be gradually repaid within her means, over a period of 10 years or less.
+[8] That document was not shared with the respondent until four days before the hearing before our Court, even though the appellant said that she found it among Mr. Abergel's documents in March 2015, shortly after his death.
+[9] The appellant also said that at one point, apparently about mid-2004, Ms. Ouahidi arranged to have all of Mr. Abergel's bank accounts seized. In order to help Mr. Abergel under these circumstances, the appellant says that she took on all of his debts. She also says that she paid for a lot of his personal expenses. Thus, she says that she repaid the loan and the deposits he made to her bank account.
+[10] The appellant provided the Court with a list of payments that she said she made for Mr. Abergel up until 2015, as well as bank statements and other supporting documents. The payments identified on that list amounted to $132,775.64 (Exhibit A‑2 - before tab 1).
+[11] The appellant specified that apart from a few minor contributions from Mr. Abergel, she also assumed all of the condominium-related fees herself. According to her calculations, detailed at tab 100 of Exhibit A‑2, she paid over $359,107 with respect to these fees during the period when she and Mr. Abergel were living together, and half of that amount represents Mr. Abergel's share of the expenses.
+[12] In short, she affirms that she repaid the amounts received from Mr. Abergel through all of the payments she made in his name and on his behalf.
+Appellant's position [13] The appellant argues that it is not clear from the evidence that Mr. Abergel had intended to give her the amounts in question as a gift and that it is clear from the appellant's testimony and from the actions of the parties subsequent to the deposits in question that no gift was made.
+[14] The appellant also argues that the $100,000 deposit in November 2001 was a loan and therefore not a transfer within the meaning of section 160 of the ITA. Moreover, she says that the respondent did not show the existence of a counter letter to the loan agreement between her and Mr. Abergel. Alternatively, she argues that even if a counter letter had existed, the respondent is not a third person in good faith within the meaning of section 1452 of the Civil Code of Québec, SRQ c. C‑1991 (“C.C.Q.”) and cannot avail itself of choosing between the alleged counter letter or the loan agreement.
+[15] The appellant also argues that she paid a sufficient consideration for the loan and for the deposits in the form of payments made to Mr. Abergel's creditors and payments for personal expenses. She says that the amounts that she paid considerably exceed the amounts that Mr. Abergel had deposited into her bank account. Moreover, she says that it is not necessary for the consideration to have been paid at the time when the property was transferred.
+[16] Lastly, the appellant argues that a mandator‑mandatary relationship existed between her and Mr. Abergel as regards the amounts deposited into her account other than the $100,000. She says that she had a legal duty toward him to pay his debts according to his instructions based on the amounts deposited into her bank account and that, for that reason, these sums were not transferred within the meaning of subsection 160(1) of the ITA.
+Analysis Loan agreement [17] First, I will discuss the appellant's argument that it is clear from the evidence that a loan agreement existed between her and Mr. Abergel in the amount of $100,000, deposited into the appellant's bank account on November 14, 2001.
+[18] It is clear that when a tax debtor loans money to a person with whom there is no arm's length relationship, section 160 of the ITA cannot apply since no transfer of property has occurred. That doctrine was recalled by Archambault J. of this Court in Tétrault v. The Queen, 2004 TCC 332, where he notes at paragraph 39:
+The Fasken and Dunkelman decisions indicate, in my opinion, that in order for there to be a transfer of property for the purposes of the attribution rules, it is essential that the transferor be divested of his ownership and that the property has vested in the transferee. The mere possession of a property that has been loaned with the obligation to return it does not satisfy this condition. That, I think, is the meaning that must be given to the expression “pass the property from himself to her”. That is also the appropriate interpretation of subsection 160(1) of the Act. As Madam Justice Desjardins said in Medland , supra, at paragraph 14: “ . . . the tax policy embodied in, or the object and spirit of subsection 160(1), is to prevent a taxpayer from transferring his property to his spouse in order to thwart the Minister's efforts to collect the money which is owned [sic] to him.” The loan of money would not constitute a method of thwarting the collection of the tax owed by the lender. Pursuant to subsection 224(4) of the Act, the Minister could garnish the sum loaned. This notion of “transfer” is therefore reconcilable with the purpose intended by subsection 160(1) of the Act.
+[19] C. Miller J., following Tétrault, also concluded in Merchant v. The Queen, 2005 DTC 377, that a loan did not constitute a transfer of property within the meaning of section 160 of the ITA.
+[20] However, in my opinion, the appellant has failed to show, on a balance of probabilities, that Mr. Abergel loaned her the $100,000 when she purchased her condominium in 2001, and I am not convinced that the loan document was signed by the appellant and Mr. Abergel at the alleged time. The very late filing to the record of the loan document, the fact that the appellant apparently never brought it to the attention of the Canada Revenue Agency (the “CRA”) following her assessment, and the actions of the appellant and Mr. Abergel after the so-called loan was finalized all constitute factors that lead me to believe that no loan agreement existed between them at the relevant time.
+[21] First, I find it very difficult to believe that the appellant had simply forgotten about the existence of the alleged loan until the moment in 2015 when she had found the loan document among Mr. Abergel's affairs, as she says, or that she had allegedly not retained a copy of the document itself. Moreover, according to her testimony, she allegedly updated a log of repayments on the purported loan daily, a log that includes many transactions for all years between 2004 and 2015: that contradicts her forgetting about the loan. Another element renders the appellant's testimony about maintaining that log daily unconvincing: the list is not in chronological order. It is also important to inquire as to why she did not notice when the debt was repaid in full, if she did monitor the repayments as she submits. On the contrary, she says that the total amount that she paid on behalf of Mr. Abergel exceeded the loan amount.
+[22] Furthermore, the appellant's financial situation at the time of the alleged loan leads me to believe that the transfer was more likely a gift. In November 2001, according to her own testimony, she was earning $500 a week as a secretary, had no money to contribute towards the acquisition of the condominium and no financial institution was willing to lend her the funds. In spite of her low income, she says that she borrowed the entire purchase price and then paid all of the charges and taxes herself. At tab 100 of Exhibit A‑2, she states the monthly costs (mortgage, taxes and condo fees) as $2,761.85, which far exceeds her income; and this clearly shows that there was no prospect of her being able to repay the amount received from Mr. Abergel.
+[23] Another element that supports the respondent's argument that the amount in question constitutes a gift rather than a loan is the fact that in 2007, after receiving the assessment at issue, the appellant took out a $408,000 mortgage on her condominium and, after repaying the existing mortgage of approximately $180,000 owing to the Caisse Populaire in early 2001, she transferred the balance to the United States to buy a house in Florida. It seems unlikely to me for Mr. Abergel not to have asked that the so-called loan be repaid at that point, if it were truly a loan.
+[24] Conversely, had I concluded that the loan document was signed in October 2001, I would have accepted the respondent's argument to the effect that a simulation had existed between the appellant and Mr. Abergel concerning the $100,000 transfer that occurred on November 14, 2001.
+[25] The rules governing simulation are found in sections 1451 and 1452 of the C.C.Q.:
+1451. Simulation exists where the parties agree to express their true intent, not in an apparent contract, but in a secret contract, also called a counter letter.
+Between the parties, a counter letter prevails over an apparent contract.
+1452. Third persons in good faith may, according to their interest, avail themselves of the apparent contract or the counter letter; however, where conflicts of interest arise between them, preference is given to the person who avails himself of the apparent contract.
+[26] The issue of simulation under subsection 160(1) of the ITA was discussed by the Federal Court of Appeal in Canada v. 9101‑2310 Québec Inc., 2013 FCA 241. At trial, the assessment of the corporate appellant under subsection 160(1) had been annulled on the grounds that no transfer had taken place, given that an agreement existed between the parties to allow the tax debtor to remain the owner of the sums deposited into the corporate appellant's bank account. Indeed, the trial judge concluded that the debtor had no intention of transferring ownership of the disputed funds from the corporate appellant. The judge noted at paragraph 23:
+Indeed, Mr. Garneau had no intention of transferring to 2310 ownership of the funds. Although the arrangement was designed to conceal from the FBDB the fact that these funds were part of the tax debtor’s patrimony in order to prevent them from being seized, the agreement as reflected in the letter dated March 23, 2002, was to the effect that the tax debtor remained the owner of this money, which was to be paid out in accordance with his instructions under a mandate governed by the C.C.Q. Therefore, there had been no transfer within the meaning of subsection 160(1).
+[27] However, the appeal against that decision was allowed by the Federal Court of Appeal, on the grounds that the tax debtor and the corporate appellant engaged in a simulation. The Court found that, in giving an endorsed cheque to the principal of the corporate appellant so that he could deposit it in the corporate appellant's account, the tax debtor gave the impression that the money belonged to the corporate appellant despite the fact that, according to the agreement with the corporate appellant, the money still remained the property of the tax debtor. The Court of Appeal indicated that, in order for section 1452 of the C.C.Q. to apply, it was enough that the debtor had intended to create a misleading appearance with respect to retaining the amount. Thus, the Minister of National Revenue was able to avail himself of the apparent contract in order to assess the taxpayer under subsection 160(1).
+[28] In this case, using the same reasons that I disclosed in the preceding paragraphs, I find that neither the appellant nor Mr. Abergel had intended the transfer of money to be a loan.
+[29] In the light of this evidence, I find that the appellant and Mr. Abergel had actually agreed that the $100,000 transferred by Mr. Abergel to the appellant on November 14, 2001, was a gift; if they signed the loan document at that time, it was to obscure the true nature of the transfer.
+[30] As a third party in good faith, under section 1452 of the C.C.Q., the Minister can avail himself of the actual agreement to assess the appellant. Section 160 of the ITA is a collection measure, and when the Minister acts as a “collector,” he should be considered a third party under section 1452 of the C.C.Q.: Bolduc v. The Queen, 2003 DTC 221.
+Sufficient consideration [31] The appellant's argument that she had provided sufficient consideration for the other amounts that Mr. Abergel gave her between March 10, 2003, and December 13, 2006, cannot be accepted either.
+[32] It is true that payment of debts to third parties can constitute adequate consideration for the transfer of property within the meaning of subsection 160(1) of the ITA. The Federal Court of Appeal noted the following in Raphael v. Canada, 2002 FCA 23, at paragraph 10:
+If indeed the wife had made a legally enforceable promise to pay out monies only on the husband's direction to his creditors in amounts equal to the monies transferred, this might well have constituted sufficient consideration in order to avoid the application of section 160(1). . . .
+[33] However, there must be a finding of a legal duty to pay the transferor's debts, and not simply a moral obligation. This requirement was highlighted by the Quebec Court of Appeal in Agence du revenu du Québec c. St-Laurent, 2014 QCCA 553, where the Court considered the interpretation of section 14.4 of the Tax Administration Act, RSQ, c A‑6.002, the language of which is the same as that of subsection 160(1) of the ITA. With respect to whether a duty to pay the debts of a transferor of property constitutes sufficient consideration for the transfer, the Court noted the following at paragraph 26 of that decision:
+[translation]
+It can be seen that a simple moral duty to pay the transferor's debts, based on the amount and frequency of the transfers, does not constitute valuable consideration within the meaning of subsection 160(1) of the ITA. However, this case does not involve a moral duty, but rather a legal duty. . . .
+[34] The burden was on the appellant to present sufficiently clear evidence establishing that she had made a legally enforceable promise to pay the money deposited into her account to Mr. Abergel's creditors. In my opinion, she failed to discharge herself of that burden.
+[35] The appellant testified that she and Mr. Abergel agreed that she would pay his creditors when Mr. Abergel's bank accounts were seized. Since the appellant did not commence paying Mr. Abergel's creditors until August 2004 (according to tab 1 of Exhibit A‑2), any obligation on her part, had there been one, was apparently not contracted before or when Mr. Abergel made the deposits into her bank account in 2003 (apart from a $5,000 transfer made on December 13, 2006). Moreover, it is clear that Mr. Abergel's accounts were not seized when he made the transfers to the appellant in 2003, because most of the transfers were made by cheques from Mr. Abergel.
+[36] The appellant argues that the time at which the consideration is given is not relevant for the purposes of section 160 of the ITA and that the consideration did not have to be paid when the appellant received the money. That argument is correct, although of no use to her. The emergence of the obligation must coincide with the transfer of money to constitute the consideration under the transfer, even if the performance of the duty can occur at a later date.
+[37] In any event, I did not find the appellant's testimony to be credible given the multiple contradictions and inconsistencies, a few of which I have already noted. The most significant ones are as follows: she had forgotten about the existence of the loan until she found the loan document in 2015; the document at tab 1 of Exhibit A‑2 was a repayment log of the alleged loan that she updated daily, which was clearly not the case. A few other examples: she received the transfers from Mr. Abergel in 2003 because his accounts were seized, although the transfers were done by cheque from Mr. Abergel; in a letter to the CRA, she had stated that certain considerable transfers to her bank account were made by Mr. Abergel [translation] “through Karen Abergel,” his daughter, whereas under cross-examination, she admitted that it was Karen Abergel herself who had made the payments. I also noted that, in another letter to CRA (Exhibit I‑3), the appellant states that she had been Mr. Abergel's spouse since 2001 and not 2003 as she had stated before the Court. Still under cross-examination, she admitted that several payments that she had identified as payments made on behalf of Mr. Abergel were in fact her own personal expenses. Lastly, the appellant said that Mr. Abergel took out a lot of advances on the appellant's credit card to play online poker, but she offered no explanation as to why he allegedly used her credit card to do so, given that he had several active credit cards of his own at the relevant times.
+Mandate [38] The appellant's argument that a mandator-mandatary relationship existed between her and Mr. Abergel with respect to the amounts that Mr. Abergel paid the appellant between March 10, 2003, and December 13, 2006, was raised for the first time in the appellant's reply to the Respondent's Written Submissions. It did not seem necessary to me to invite the respondent to provide further submissions on that issue.
+[39] Section 2130 of the C.C.Q. defines a mandate as follows:
+2130. Mandate is a contract by which a person, the mandator, confers upon another person, the mandatary, the power to represent him in the performance of a juridical act with a third person, and the mandatary, by his acceptance, binds himself to exercise the power.
+That power and, where applicable, the writing evidencing it are called power of attorney.
+[40] Given my conclusion that the appellant failed to demonstrate that she was acting under a legal duty to pay Mr. Abergel's debts, I cannot conclude that a mandate existed between her and Mr. Abergel with regard to the deposits he made into the appellant's bank account.
+Conclusion [41] For all these reasons, the appeal is dismissed with costs to the respondent.
+Signed at Toronto, Canada, this 2nd day of May 2016.
+“B. Paris”
+Paris J.
+Translation certified true
+On this 23rd day of June 2017
+François Brunet, Reviser
+CITATION:
+2016 TCC 101
+COURT FILE NO.:
+2010-3810(IT)G
+STYLE OF CAUSE:
+ANNIE SAUVIGNON AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Montréal, Quebec
+DATE OF HEARING:
+September 2, 2015
+REASONS FOR JUDGMENT BY:
+The Honourable Mr. Justice B. Paris
+DATE OF JUDGMENT:
+May 2, 2016
+APPEARANCES:
+Counsel for the Appellant:
+Henri Simon
+Counsel for the Respondent:
+Anne‑Marie Boutin
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Henri Simon
+Firm:
+Simon & Associés
+Montréal, Quebec
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

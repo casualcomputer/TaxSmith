@@ -1,0 +1,390 @@
+Title: 4145356 Canada Limited v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30319/index.do
+Corpus path: corpus/cases/tcc/2011/2011-tcc-220-30319-4145356-canada-limited-v-the-queen-en.md
+Document type: case_law
+Last modified: 2011-04-21
+
+# 4145356 Canada Limited v. The Queen
+
+- Citation: 2011 TCC 220
+- Decision date: 2011-04-21
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 8037, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+4145356 Canada Limited v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2011-04-21
+Neutral citation
+2011 TCC 220
+File numbers
+2008-2315(IT)G
+Judges and Taxing Officers
+Wyman W. Webb
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2008-2315(IT)G
+BETWEEN:
+4145356 CANADA LIMITED,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on October 25, 26, 27, 28, 29, November 1, 2010,
+January 26, 27 and 28, 2011
+at Toronto, Ontario
+With written submissions received on February 4, 2011,
+February 11, 2011 and February 18, 2011
+Before: The Honourable Justice Wyman W. Webb
+Appearances:
+Counsel for the Appellant:
+Al Meghji; Martha MacDonald
+Kimberly Brown; Andrew McGuffin
+Counsel for the Respondent:
+Daniel Bourgeois; Andrew Miller
+Pascal Tétrault
+____________________________________________________________________
+JUDGMENT
+The appeal is allowed, with costs, and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the Appellant is entitled, in determining its tax payable for 2003 under the Income Tax Act, to a foreign tax credit in the amount of $3,199,601 pursuant to subsection 126(2) of this Act.
+Signed at Ottawa, Canada, this 21st day of April, 2011.
+“Wyman W. Webb”
+Webb J.
+Citation: 2011TCC220
+Date: 20110421
+Docket: 2008-2315(IT)G
+BETWEEN:
+4145356 CANADA LIMITED,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Webb J.
+[1] The issue in this Appeal is whether the Appellant is entitled, in determining its tax payable for 2003 under the Income Tax Act (the “Act”), to a foreign tax credit in the amount of $3,199,601 either pursuant to subsection 126(2) of the Act or paragraph 2 of Article XXIV of the Canada - United States Tax Convention.
+[2] At the conclusion of the Respondent’s case, the Respondent sought to read into evidence, pursuant to subparagraph 100(1) of the Tax Court of Canada Rules (General Procedure) (the “Rules”), excerpts from the examination for discovery of Donovan Flynn, the nominee of the Appellant. The Appellant objected to the Respondent reading in several portions of the excerpts.
+[3] Subparagraph 100(1) of the Rules provides as follows:
+100. (1) At the hearing, a party may read into evidence as part of that party's own case, after that party has adduced all of that party’s other evidence in chief, any part of the evidence given on the examination for discovery of
+(a) the adverse party, or
+(b) a person examined for discovery on behalf of or in place of, or in addition to the adverse party, unless the judge directs otherwise,
+if the evidence is otherwise admissible, whether the party or person has already given evidence or not.
+As I had stated previously in relation to the Motion made by the Respondent to exclude portions of the excerpts from the examination for discovery of Simmin Hirji, the nominee of the Respondent, that the Appellant wanted to read-in, it seems to me that the qualification “if the evidence is otherwise admissible” is an important qualification to the introduction of the discovery evidence.
+[4] The Ontario Court of Appeal in R. v. Dupuis, 23 O.R. (3d) 608, [1995] O.J. No. 1481 stated that:
+[22] It has been repeatedly held that the hallmark of admissibility is relevance. In R. v. Fields (1986), 56 O.R. (2d) 213 at p. 228, 28 C.C.C. (3d) 353, this court put it this way:
+It is trite law that any evidence to be adduced at trial must meet the legal criteria for its admissibility, of which the sine qua non is its relevance. As stated by the Supreme Court of Canada in Cloutier v. The Queen (1979), 48 C.C.C. (2d) 1 at p. 28, 99 D.L.R. (3d) 577, [1979] 2 S.C.R. 709, "[t]he general rule as to the admissibility of evidence is that it must be relevant."
+[5] Both parties submitted written arguments in relation to the main issue in this Appeal (whether the Appellant is entitled to a foreign tax credit) and in relation to the proposed discovery read-ins. The Appellant’s objections to the discovery read-ins are based on relevance and the parole evidence rule. Since the hearing is now concluded I do not propose to deal separately with the admissibility of the discovery read-ins but rather to address the issue if and when a particular matter addressed in the excerpt would be relevant to an issue that is to be decided. Matters that are addressed in the discovery read-ins that are not relevant to any issue to be decided are not admissible.
+[6] The Appellant is indirectly a subsidiary of the Royal Bank of Canada. The Appellant acquired, on September 5, 2003, 400 million limited partnership units in Crown Point Investments LP (“Crown Point”), a limited partnership formed under the laws of Delaware, for $400 million. The general partner (Gaskell Management LLC) and the other limited partner (Altier LLC) of Crown Point were indirectly subsidiaries of Bank of America. Under the laws of Delaware, Crown Point was a separate legal entity[1].
+[7] Under the Purchase and Sale Agreement between the Appellant and Altier, the Appellant had the right to require Altier to repurchase the limited partnership units, inter alia, on any Period End Date after September 15, 2004 and under the limited partnership agreement Gaskell had the right to acquire the limited partnership units held by the Appellant, inter alia, on any Period End Date after September 15, 2004.
+[8] Following the acquisition of the limited partnership units by the Appellant, the partners of Crown Point (with the number of limited partnership units held by each and the contributed capital of each partner) were as follows:
+Partners
+Number of Limited Partnership Units
+Contributed Capital
+Percentage of Contributed Capital
+Appellant
+400,000,000
+$400,000,000
+24.7678%
+Altier
+1,200,000,000
+$1,200,000,000
+74.3034%
+Gaskell (General Partner)
+0
+$15,000,000
+0.92829%
+Total:
+$1,615,000,000
+100.00%
+[9] Crown Point made a loan of approximately $1.6 billion to Mecklenburg Park, Inc., which was also a subsidiary of Bank of America. Mainly as a result of the income earned in relation to this loan the taxable income of Crown Point was US $28,730,507.
+[10] Crown Point filed an “Entity Classification Election” (Form 8832) under U.S. Treasury Regulation §301.7701-3 to be “classified as an association taxable as a corporation”. As a result, for U.S. federal tax purposes, Crown Point was taxable as a corporation and paid taxes in the U.S. in the amount of US $10,055,677 (Cdn $13,233,379[2]). Crown Point was not included as part of the Bank of America group in its consolidated U.S. income tax return.
+[11] In filing its tax return under the Act, the Appellant reported income of $9,377,496 (which was only from the one source – Crown Point) and claimed a foreign tax credit in the amount of $3,199,601 (which was the least of the three amounts that the Appellant determined pursuant to subsection 126(2) of the Act). Based on a 24.7678% interest in Crown Point, if the income of Crown Point were determined for the purposes of the Act, this would mean that the income of Crown Point (before taxes) would be $37,861,642[3]).
+[12] The Appellant also entered into swap transactions to hedge against currency and interest rate risks.
+[13] For U.S. tax purposes, the investment by the Appellant of $400,000,000 was treated as a loan to Altier and the payments made by Crown Point to the Appellant were treated as deductible interest payments by Altier. It appears that the amount distributed to the Appellant by Crown Point was $9,377,496 - $3,277,617 = $6,099,879[4]. Therefore it would appear that Altier, for the purposes of determining its U.S. federal taxes payable, was entitled to claim a deduction of $6,099,879 (or some amount close to this amount). As a result, assuming that the income of Altier was taxed in the U.S. at the same rate as the income of Crown Point and that Altier claimed the deduction, Altier received a reduction in its taxes payable equal to the taxes paid by Crown Point on $6,099,879 (or some amount close to this amount) of its income.
+[14] The issue in this appeal is whether the Appellant is entitled to claim a foreign tax credit pursuant to subsection 126(2) of the Act in determining the amount of tax payable under the Act for its 2003 taxation year. Subsection 126(2) of the Act provides in part that:
+(2) Where a taxpayer who was resident in Canada at any time in a taxation year carried on business in the year in a country other than Canada, the taxpayer may deduct from the tax for the year otherwise payable under this Part by the taxpayer an amount not exceeding the least of
+(a) such part of the total of the business-income tax paid by the taxpayer for the year in respect of businesses carried on by the taxpayer in that country and the taxpayer's unused foreign tax credits in respect of that country for the 10 taxation years immediately preceding and the 3 taxation years immediately following the year as the taxpayer may claim,
+(emphasis added)
+[15] The only issue in this case in relation to section 126 of the Act is whether the Appellant paid $3,277,617 as business income tax to the U.S. government. The Respondent acknowledged that the amount paid by Crown Point ($13,233,379) to the U.S. government was a tax. However, it is the position of the Respondent that the Appellant did not pay what the Appellant claims was its share of this amount ($3,277,617).
+[16] It is the position of the Respondent that in order for the Appellant to have paid the tax the Appellant must be the person who was liable to pay the tax. The Respondent referred to a number of cases. The issue in Re Eurig Estate, [1998] 2 S.C.R. 565, was whether a particular levy imposed by the province of Ontario for grants of letters probate was a fee or a tax. Justice Major, writing on behalf of the majority of the Justices of the Supreme Court of Canada stated that:
+15 Whether a levy is a tax or a fee was considered in Lawson, supra. Duff J. for the majority concluded that the levy in question was a tax because it was: (1) enforceable by law; (2) imposed under the authority of the legislature; (3) levied by a public body; and (4) intended for a public purpose.
+[17] While this case clearly confirms that the amount paid by Crown Point to the U.S. government was a tax, it does not assist in determining whether, for the purposes of subsection 126(2) of the Act, a person must be liable for the tax in order to find that the person paid the tax.
+[18] The respondent also referred to the case of The Queen v. The Bank of Nova Scotia, [1982] 1 F.C. 311. Justice Heald, on behalf of the Federal Court of Appeal, described the issue as follows:
+2 The issue in the appeal is whether, for purposes of paragraph 126(2)(a) of the Income Tax Act, R.S.C. 1952, c. 148, as amended, and Article 21(2) of the Canada-United Kingdom Income Tax Agreement *, the U.K. income tax which was imposed on the respondent in respect of the income from its branches in the U.K. for the 1972 taxation year should be translated into Canadian funds:
+(a) at the weighted average rate of exchange prevailing in the 1972 taxation year as contended by the respondent and accepted by the learned Trial Judge, or
+(b) at the rate of exchange prevailing on January 1, 1974 when the U.K. income tax was paid, as contended by the appellant.
+* denotes a footnote reference that was in the original text but which has not been included.
+[19] Justice Heald also made the following comments:
+3 … It is my opinion that the respondent's liability for U.K. income taxes for the 1972 taxation year arose in 1972 since that is the year when the income creating the liability was earned, even though by U.K. law, the tax was not required to be paid until some 14 months later. I consider that the liability for the U.K. tax attached to the respondent at fiscal year end, namely, October 31, 1972.
+… In my view, Parliament clearly intended, in enacting paragraph 126(2)(a) to relieve against double taxation by providing for a tax credit based on the amount of tax payable for a taxation year, by a Canadian resident, on income earned in a foreign country in that taxation year, regardless of when, by the law of that foreign country, the foreign tax was required to be paid.
+[20] This case dealt with a timing issue with respect to the calculation of the amount of the foreign tax credit. The taxpayer’s foreign tax credit in that case was determined based on the weighted average rate of exchange for 1972 and the taxpayer was entitled to the credit payable for 1972 even though the taxpayer did not pay the U.K. tax until 1974. This case does not stand for the proposition that in order to claim the foreign tax credit the Appellant must be the person who was liable to pay the foreign tax.
+[21] The Respondent also referred to the decision of the Court of Appeal for Ontario in Sentinel Hill No. 29 Limited Partnership et al. v. Attorney General of Canada, 2008 ONCA 132. While this case does deal with a limited partnership, it does not deal with section 126 of the Act and does not assist in determining whether for the purposes of section 126 of the Act the Appellant could be considered to only have paid the tax if the Appellant was also liable for the tax.
+[22] In White v. The Queen, 2003 TCC 668, 2003 DTC 1170, [2004] 1 C.T.C. 2581, Mr. White was claiming that he should be permitted to claim a foreign tax credit in relation to certain imputation tax credits that attached to dividends that he had received from an Australian company. Australian residents could apply the imputation tax credits against taxes payable to the Australian government. Justice Bowie stated as follows:
+7 There is a more fundamental obstacle to Mr. White's claim, however. Subsection 126(1) only entitles the Canadian taxpayer to a foreign tax credit in respect of tax paid by that Canadian resident taxpayer to a foreign government for the year in question. The tax for which Mr. White claims the credit was not paid by him, but by the Australian corporations that paid dividends to him. He admitted quite candidly when cross-examined that he had paid no tax to the government of Australia for the years in issue.
+[23] In this case there is no such admission by the Appellant. The issue in this case is whether the Appellant paid the tax to the U.S. government. In White there were two separate persons who could, depending on where they were resident or the source of income, have a potential liability for taxes under the Act – the Australian company and Mr. White. In this case, since Crown Point was a limited partnership for the purposes of the Act, there is only one person who could have any potential liability for taxes under the Act in relation to the income earned by Crown Point and that person was the Appellant[5]. The decision in White does not assist in determining whether, in dealing with a limited partner of a partnership, the limited partner should be considered to have paid taxes to the U.S. government imposed on that limited partnership that has, for the purposes of the Internal Revenue Code, elected to be classified as a corporation and taxed as such.
+[24] The Appellant referred to the decision of the Supreme Court of Canada in United Parcel Service Canada Ltd. v. The Queen, [2009] 1 S.C.R. 657, as support for its argument that the Appellant could be considered to have paid a tax for the purposes of section 126 of the Act, even though that person was not liable to pay such tax. The issue in that case was whether United Parcel Service Canada Ltd. was entitled to $2,900,858 in GST that had been paid in error. Subsection 261(1) of the Excise Tax Act provides as follows:
+261. (1) Where a person has paid an amount
+(a) as or on account of, or
+(b) that was taken into account as,
+tax, net tax, penalty, interest or other obligation under this Part in circumstances where the amount was not payable or remittable by the person, whether the amount was paid by mistake or otherwise, the Minister shall, subject to subsections (2) and (3), pay a rebate of that amount to the person.
+[25] Justice Rothstein, writing on behalf of the Supreme Court of Canada, stated as follows:
+16 However, the Minister says that s. 261(1) cannot be interpreted in a contextual vacuum. The Minister's first argument is that UPS was not the person who paid the amount on account of GST. He says UPS as customs broker acted as an agent for the consignees and that it was the consignees who were liable to pay the GST and not UPS. The Minister says that, for the purposes of s. 261(1), the person who "has paid an amount" is the person who has the legal liability to pay, not the person who simply transmitted the money to the Minister.
+17 I cannot agree. This argument would impose an inquiry into liability for payment instead of actual payment where no such inquiry is mandated by the statute. It may well be that it was the consignees of UPS who had the liability to pay the GST on the imported goods. But that does not detract from the fact that in actuality it was UPS -- and UPS alone -- who paid and was out of pocket for the GST. At first blush, the words "or other obligation" in s. 261(1) might be thought to import the notion of liability to pay. However, the words "other obligation" must be read in the context of the provision as a whole. Section 261(1) applies where a person pays an amount as or on account of "tax, net tax, penalty, [or] interest". These terms refer to categories of amounts that are to be paid as or on account of obligations established by the Excise Tax Act. In this context, "other obligation" simply refers to an obligation under Part IX of the Excise Tax Act that is not specifically enumerated in s. 261(1). Actual liability is not relevant in this context since there is no liability to pay tax that was paid in error. If the Minister's argument were correct, a stranger who mistakenly paid GST on goods imported by someone else (perhaps because the names of two importers were similar) could not obtain a rebate. It cannot have been the intention of Parliament that persons who were not liable for GST but paid GST in error could not obtain a rebate.
+(emphasis added)
+[26] Since that case dealt with GST that was paid in error (and hence there would be no liability to pay the amount that was paid in error), this case is also not directly relevant in determining whether, for the purposes of section 126 of the Act, a person who has paid the tax must be the same person who was liable for the tax.
+[27] The Respondent argued that section 126 should be read in isolation and in particular should be read independently of section 96 of the Act. The Supreme Court of Canada in The Queen v. Canada Trustco Mortgage Company, 2005 SCC 54, 2005 DTC 5523 (Eng.), [2005] 5 C.T.C. 215, 340 N.R. 1, 259 D.L.R. (4th) 193, [2005] 2 S.C.R. 601, stated that:
+10 It has been long established as a matter of statutory interpretation that “the words of an Act are to be read in their entire context and in their grammatical and ordinary sense harmoniously with the scheme of the Act, the object of the Act, and the intention of Parliament”: see 65302 British Columbia Ltd. v. R., [1999] 3 S.C.R. 804 (S.C.C.), at para. 50. The interpretation of a statutory provision must be made according to a textual, contextual and purposive analysis to find a meaning that is harmonious with the Act as a whole. When the words of a provision are precise and unequivocal, the ordinary meaning of the words play a dominant role in the interpretive process. On the other hand, where the words can support more than one reasonable meaning, the ordinary meaning of the words plays a lesser role. The relative effects of ordinary meaning, context and purpose on the interpretive process may vary, but in all cases the court must seek to read the provisions of an Act as a harmonious whole.
+[28] It seems to me that interpreting the words “paid by the taxpayer” in subsection 126(2) of the Act without regard to the other provisions of the Act and in particular without regard to the provisions of section 96 of the Act would be contrary to the approach to be taken in interpreting statutory language as set out by the Supreme Court of Canada. The word used in subsection 126(2) of the Act is “paid”. There is no reference in this subsection to the liability for the payment and no requirement in this subsection that the person who has paid the tax be the same person who has the liability for the tax. It seems to that to read a requirement for liability into this section (or to not do so) I would be required to determine whether the liability for the payment would be required based on a reading of the Act “as a harmonious whole”. A person could have paid an amount without necessarily having the liability to pay such amount. Therefore the word “paid” can support more than one meaning – paid even if there is no liability (as submitted by the Appellant) or paid only if the payor has the corresponding liability to make the payment (as submitted by the Respondent).
+[29] Subsection 126(2) of the Act itself provides some assistance in determining how the word “paid” should be interpreted for the purposes of this subsection of the Act. It creates a direct link between the foreign tax credit that may be claimed and the amount of foreign sourced business income. This subsection provides as follows:
+(2) Where a taxpayer who was resident in Canada at any time in a taxation year carried on business in the year in a country other than Canada, the taxpayer may deduct from the tax for the year otherwise payable under this Part by the taxpayer an amount not exceeding the least of
+(a) such part of the total of the business-income tax paid by the taxpayer for the year in respect of businesses carried on by the taxpayer in that country and the taxpayer's unused foreign tax credits in respect of that country for the 10 taxation years immediately preceding and the 3 taxation years immediately following the year as the taxpayer may claim,
+(b) the amount determined under subsection (2.1) for the year in respect of businesses carried on by the taxpayer in that country, and
+(c) the amount by which
+(i) the tax for the year otherwise payable under this Part by the taxpayer
+exceeds
+(ii) the amount or the total of amounts, as the case may be, deducted under subsection (1) by the taxpayer from the tax for the year otherwise payable under this Part.
+[30] Subsection 126(2.1) of the Act provides that:
+(2.1) For the purposes of paragraph (2)(b), the amount determined under this subsection for a year in respect of businesses carried on by a taxpayer in a country other than Canada is the total of
+(a) that proportion of the tax for the year otherwise payable under this Part by the taxpayer that
+(i) the amount, if any, by which the total of the taxpayer's qualifying incomes exceeds the total of the taxpayer's qualifying losses
+(A) for the year, if the taxpayer is resident in Canada throughout the year, and
+(B) for the part of the year throughout which the taxpayer is resident in Canada, if the taxpayer is non-resident at any time in the year,
+from businesses carried on by the taxpayer in that country
+is of
+(ii) the total of
+(A) the amount, if any, by which
+(I) if the taxpayer is resident in Canada throughout the year, the taxpayer's income for the year computed without reference to paragraph 20(1)(ww), and
+(II) if the taxpayer is non-resident at any time in the year, the amount determined under paragraph 114(a) in respect of the taxpayer for the year
+exceeds
+(III) the total of all amounts each of which is an amount deducted under section 110.6 or paragraph 111(1)(b), or deductible under any of paragraphs 110(1)(d) to (d.3), (f), (g) and (j) and sections 112 and 113, in computing the taxpayer's taxable income for the year, and
+(B) the amount, if any, added under section 110.5 in computing the taxpayer's taxable income for the year, and
+(b) that proportion of the amount, if any, added under subsection 120(1) to the tax for the year otherwise payable under this Part by the taxpayer that
+(i) the amount determined under subparagraph (a)(i) in respect of the country
+is of
+(ii) the amount, if any, by which,
+(A) where section 114 does not apply to the taxpayer in respect of the year, the taxpayer's income for the year, and
+(B) where section 114 applies to the taxpayer in respect of the year, the total of the taxpayer's income for the period or periods referred to in paragraph 114(a) and the amount that would be determined under paragraph 114(b) in respect of the taxpayer for the year if subsection 115(1) were read without reference to paragraphs 115(1)(d) to (f)
+exceeds
+(C) the taxpayer's income earned in the year in a province (within the meaning assigned by subsection 120(4)).
+[31] The amount that any taxpayer may claim as a foreign tax credit under subsection 126(2) of the Act is limited to the least of three amounts. One of these amounts is the amount of foreign tax paid in respect of the business carried on by the taxpayer in the foreign country. The second amount is determined in accordance with the provisions of subsection 126(2.1) of the Act which amount requires a determination of the taxpayer’s qualifying incomes. “Qualifying incomes” is defined in subsection 126(7) of the Act which provides that:
+“qualifying incomes” of a taxpayer from sources in a country means incomes from sources in the country, determined in accordance with subsection (9);
+[32] Subsection 126(9) of the Act provides that:
+(9) The qualifying incomes and qualifying losses for a taxation year of a taxpayer from sources in a country shall be determined
+(a) without reference to
+(i) any portion of income that was deductible under subparagraph 110(1)(f)(i) in computing the taxpayer's taxable income,
+(ii) for the purpose of subparagraph 126(1)(b)(i), any portion of income in respect of which an amount was deducted under section 110.6 in computing the taxpayer's income, or
+(iii) any income or loss from a source in the country if any income of the taxpayer from the source would be tax-exempt income; and
+(b) as if the total of all amounts each of which is that portion of an amount deducted under subsection 66(4), 66.21(4), 66.7(2) or 66.7(2.3) in computing those qualifying incomes and qualifying losses for the year that applies to those sources were the greater of
+(i) the total of all amounts each of which is that portion of an amount deducted under subsection 66(4), 66.21(4), 66.7(2) or 66.7(2.3) in computing the taxpayer's income for the year that applies to those sources, and
+(ii) the total of
+(A) the portion of the maximum amount that would be deductible under subsection 66(4) in computing the taxpayer's income for the year that applies to those sources if the amount determined under subparagraph 66(4)(b)(ii) for the taxpayer in respect of the year were equal to the amount, if any, by which the total of
+(I) the taxpayer's foreign resource income (within the meaning assigned by subsection 66.21(1)) for the year in respect of the country, determined as if the taxpayer had claimed the maximum amounts deductible for the year under subsections 66.7(2) and (2.3), and
+(II) all amounts each of which would have been an amount included in computing the taxpayer's income for the year under subsection 59(1) in respect of a disposition of a foreign resource property in respect of the country, determined as if each amount determined under subparagraph 59(1)(b)(ii) were nil,
+exceeds
+(III) the total of all amounts each of which is a portion of an amount (other than a portion that results in a reduction of the amount otherwise determined under subclause (I)) that applies to those sources and that would be deducted under subsection 66.7(2) in computing the taxpayer's income for the year if the maximum amounts deductible for the year under that subsection were deducted,
+(B) the maximum amount that would be deductible under subsection 66.21(4) in respect of those sources in computing the taxpayer's income for the year if
+(I) the amount deducted under subsection 66(4) in respect of those sources in computing the taxpayer's income for the year were the amount determined under clause (A),
+(II) the amounts deducted under subsections 66.7(2) and (2.3) in respect of those sources in computing the taxpayer's income for the year were the maximum amounts deductible under those subsections,
+(III) for the purposes of the definition “cumulative foreign resource expense” in subsection 66.21(1), the total of the amounts designated under subparagraph 59(1)(b)(ii) for the year in respect of dispositions by the taxpayer of foreign resource properties in respect of the country in the year were the maximum total that could be so designated without any reduction in the maximum amount that would be determined under clause (A) in respect of the taxpayer for the year in respect of the country if no assumption had been made under subclause (A)(II) in respect of designations made under subparagraph 59(1)(b)(ii), and
+(IV) the amount determined under paragraph 66.21(4)(b) were nil, and
+(C) the total of all amounts each of which is the maximum amount, applicable to one of those sources, that is deductible under subsection 66.7(2) or (2.3) in computing the taxpayer's income for the year.
+[33] In this case none of the adjustments as provided in subsection 126(9) of the Act are applicable and therefore the qualifying incomes of the Appellant will be its income from the sources in the United States which is its income as a limited partner in Crown Point. In this particular case since the Appellant’s only source of income was its share of the income of Crown Point and since none of the adjustments contemplated by paragraph 126(2.1)(a) of the Act are applicable, the amount determined under paragraph 126(2)(b) of the Act will be the same whether the Appellant’s income was $9,377,496 or approximately $6 million as the same amount would be used for both the numerator (subparagraph 126(2.1)(a)(i) of the Act) and the denominator (subparagraph 126(2.1)(a)(ii) of the Act). However, since one of the limiting amounts in subsection 126(2) of the Act is based on the income of the Appellant (or any other taxpayer) there is a direct link between the foreign tax credit that may be claimed and the amount of foreign sourced business income.
+[34] Section 96 of the Act provides that a partnership (which would include a limited partnership) determines its income as if it were a separate person and allocates to each partner, that partner’s share of such income. Income tax is not imposed at the partnership level but rather at the partner level. Subsection 96(1) of the Act provides, in part, as follows:
+96. (1) Where a taxpayer is a member of a partnership, the taxpayer's income, non-capital loss, net capital loss, restricted farm loss and farm loss, if any, for a taxation year, or the taxpayer's taxable income earned in Canada for a taxation year, as the case may be, shall be computed as if
+(a) the partnership were a separate person resident in Canada;
+(b) the taxation year of the partnership were its fiscal period;
+(c) each partnership activity (including the ownership of property) were carried on by the partnership as a separate person, and a computation were made of the amount of
+(i) each taxable capital gain and allowable capital loss of the partnership from the disposition of property, and
+(ii) each income and loss of the partnership from each other source or from sources in a particular place,
+for each taxation year of the partnership;
+…
+(f) the amount of the income of the partnership for a taxation year from any source or from sources in a particular place were the income of the taxpayer from that source or from sources in that particular place, as the case may be, for the taxation year of the taxpayer in which the partnership's taxation year ends, to the extent of the taxpayer's share thereof; and
+…
+[35] There was no suggestion in this case that Crown Point was not a partnership for the purposes of the Act. The Appellant, in determining its income for the year from the partnership, was required to compute the income of Crown Point as if Crown Point were a separate person resident in Canada. Therefore its income was to be determined in accordance with the Act, not in accordance with any rules that may be applicable in determining income for the purposes of the Internal Revenue Code. In this case, under the governing legislation of Delaware, Crown Point was a separate legal entity. Therefore Crown Point was already a separate person. However it seems to me that the Appellant’s share of the income of Crown Point is still to be determined in accordance with the provisions of section 96 of the Act even though Crown Point is a separate legal entity under Delaware law. There is no distinction in section 96 of the Act between general partnerships and limited partnerships nor is there any distinction between limited partnerships which, under the laws under which the limited partnership were formed, are separate legal entities and those that are not separate legal entities.
+[36] In The Queen v. Robinson, [1998] 2 F.C. 569, Justice Stone, writing on behalf of the Federal Court of Appeal, stated that:
+13 That the income of a partnership receives particular treatment under various provisions of the Income Tax Act is a point well made by L. R. Hepburn, Limited Partnerships (Scarborough, Carswell, 1992), at page 5-3:
+The basic principles for the taxation of income, transactions between the partners and the partnership, and transactions involving partnership interests apply equally to both general and limited partnerships and their partners. The fact that the liability of certain partners may be limited does not alter the manner in which partnership income is taxed . . . .
+Although a partnership itself is not a taxpaying entity, the income (or loss) from the partnership activities is determined at the partnership level as if it were a separate person. Such income (or loss), whether or not actually distributed, is taxed on an annual basis in the hands of the members of the partnership according to their share. Income from the partnership generally retains its characteristics as to source and nature in the hands of the partners.
+[37] Therefore the Appellant’s share of the income of Crown Point does not depend on whether the partnership is a general partnership or a limited partnership. It also seems to me that it should not depend on whether or not the limited partnership is a person under the domestic laws under which the partnership is formed. The Appellant is required to include in its income for the purposes of the Act (which would include for the purposes of subsection 126(2) of the Act) its share of the income of Crown Point even though Crown Point is a separate legal entity under the laws of Delaware. The status of Crown Point as a separate legal entity under the laws of Delaware does not affect the treatment of Crown Point as a limited partnership for the purposes of the Act and therefore does not affect the determination of the amount or the source of income to be reported by the Appellant. Since the income of the Appellant is its share of the income of Crown Point (from the same sources of income), in determining whether the Appellant paid foreign taxes in relation to this income, the amount of foreign taxes paid by the Appellant should be its share of the foreign taxes paid by Crown Point in relation to that same income, even though Crown Point is a separate legal entity under the laws of Delaware. The Appellant would bear the economic burden of such taxes as such taxes would have to be deducted from the amount that could be distributed to the Appellant.
+[38] It seems to me that, in this case, if the Appellant’s share of the income of Crown Point for the purposes of the Act was $9,377,496 (as alleged by the Appellant) then the Appellant would have paid $3,277,617 in taxes to the U.S. government for the purpose of the Act. If the Appellant’s share of the income of Crown Point was approximately $6 million (which was the amount that the Appellant received), as alleged by the Respondent, then it seems to me that the Appellant would not have paid $3,277,617 in taxes to the U.S. government for the purpose of the Act.
+[39] The Respondent’s position, as stated in the written argument submitted by counsel for the Respondent is that:
+… the Appellant was not entitled to a 25% share of the profits realized by Crown Point L.P. It was entitled to a fixed return of no more than 4.7303% per annum on the amount it advanced to Altier.
+[40] The tax consequences to the Appellant are to be determined in accordance with the provisions of the Act, not in accordance with the provisions of the Internal Revenue Code and U.S. tax law. While for U.S. tax law purposes the transactions were recharacterized as a loan from the Appellant to Altier, for the purposes of the Act, the tax consequences to the Appellant are to be determined on the basis that the Appellant was a limited partner of Crown Point. During the opening statement at the commencement of the hearing Mr. Bourgeois (counsel for the Respondent) stated that:
+… The Minister assessed on the basis that that was of the correct view, that the appellant's entitlement to profits was 25 percent of the pre‑tax profits of Crown Point LP. We've pled an alternative fact. We've stated that that is not a proper interpretation of the partnership agreement because the only way the Appellant can share in the profits of Crown Point LP is through the distributions that are spelled out very clearly in the partnership agreement that say regardless of how many profits, regardless of whether or not the U.S. tax rate falls down to 10 percent, the only money that you can make, the only return that you can make as a limited partner is 4.7303 percent of the amount that you invested, which is $400 million. We're not re‑characterizing the transaction as a loan. It is partnership agreement we're interpreting.
+(emphasis added)
+[41] The reference in the Respondent’s written argument to a fixed return “on the amount it advanced to Altier” suggests that the Respondent is attempting to recharacterize the transaction as a loan. The word “advanced” and referring to “Altier” certainly suggest this. Interpreting the partnership agreement would require language such as a fixed return on its investment in Crown Point not on the amount it advanced to Altier (a different person). It is not appropriate for counsel for the Respondent to clearly state at the commencement of a hearing that the Respondent is not recharacterizing the transaction as a loan but use language in its written arguments submitted at the conclusion of the hearing that suggest that it is attempting to recharacterize the transaction. The fact that this language may have been the language used in the Reply does not justify repeating it in the closing argument following a very clear statement at the commencement of the hearing that the Respondent was not recharacterizing the transaction.
+[42] In any event, Justice McLachlin (as she then was) in Shell Canada Ltd. v. The Queen, [1999] 3 S.C.R. 622, writing on behalf of the Supreme Court of Canada, stated that:
+39 This Court has repeatedly held that courts must be sensitive to the economic realities of a particular transaction, rather than being bound to what first appears to be its legal form: Bronfman Trust, supra, at pp. 52-53, per Dickson C.J.; Tennant, supra, at para. 26, per Iacobucci J. But there are at least two caveats to this rule. First, this Court has never held that the economic realities of a situation can be used to recharacterize a taxpayer's bona fide legal relationships. To the contrary, we have held that, absent a specific provision of the Act to the contrary or a finding that they are a sham, the taxpayer's legal relationships must be respected in tax cases. Recharacterization is only permissible if the label attached by the taxpayer to the particular transaction does not properly reflect its actual legal effect: Continental Bank Leasing Corp. v. Canada, [1998] 2 S.C.R. 298, at para. 21, per Bastarache J.
+40 Second, it is well established in this Court's tax jurisprudence that a searching inquiry for either the "economic realities" of a particular transaction or the general object and spirit of the provision at issue can never supplant a court's duty to apply an unambiguous provision of the Act to a taxpayer's transaction. Where the provision at issue is clear and unambiguous, its terms must simply be applied: Continental Bank, supra, at para. 51, per Bastarache J.; Tennant, supra, at para. 16, per Iacobucci J.; Canada v. Antosko, [1994] 2 S.C.R. 312, at pp. 326‑-27 and 330, per Iacobucci J.; Friesen v. Canada, [1995] 3 S.C.R. 103, at para. 11, per Major J.; Alberta (Treasury Branches) v. M.N.R., [1996] 1 S.C.R. 963, at para. 15, per Cory J.
+…
+45 However, this Court has made it clear in more recent decisions that, absent a specific provision to the contrary, it is not the courts' role to prevent taxpayers from relying on the sophisticated structure of their transactions, arranged in such a way that the particular provisions of the Act are met, on the basis that it would be inequitable to those taxpayers who have not chosen to structure their transactions that way. This issue was specifically addressed by this Court in Duha Printers (Western) Ltd. v. Canada, [1998] 1 S.C.R. 795, at para. 88, per Iacobucci J. See also Neuman v. M.N.R., [1998] 1 S.C.R. 770, at para. 63, per Iacobucci J. The courts' role is to interpret and apply the Act as it was adopted by Parliament. Obiter statements in earlier cases that might be said to support a broader and less certain interpretive principle have therefore been overtaken by our developing tax jurisprudence. Unless the Act provides otherwise, a taxpayer is entitled to be taxed based on what it actually did, not based on what it could have done, and certainly not based on what a less sophisticated taxpayer might have done.
+46 Inquiring into the “economic realities” of a particular situation, instead of simply applying clear and unambiguous provisions of the Act to the taxpayer's legal transactions, has an unfortunate practical effect. This approach wrongly invites a rule that where there are two ways to structure a transaction with the same economic effect, the court must have regard only to the one without tax advantages. With respect, this approach fails to give appropriate weight to the jurisprudence of this Court providing that, in the absence of a specific statutory bar to the contrary, taxpayers are entitled to structure their affairs in a manner that reduces the tax payable: Stubart, supra, at p. 540, per Wilson J., and at p. 557, per Estey J.; Hickman Motors Ltd. v. Canada, [1997] 2 S.C.R. 336, at para. 8, per McLachlin J.; Duha, supra, at para. 88, per Iacobucci J.; Neuman, supra, at para. 63, per Iacobucci J. An unrestricted application of an "economic effects" approach does indirectly what this Court has consistently held Parliament did not intend the Act to do directly.
+[43] There was no suggestion that the limited partnership was a sham or that it did not reflect the legal relationship of the Appellant to other partners of the limited partnership and therefore the limited partnership is to be respected for the purposes of the Act. Rephrasing the position of the Respondent to reflect the limited partnership relationship would result in the position of the Respondent being restated to read as follows:
+the Appellant was entitled to a fixed return of no more than 4.7303% per annum of its investment in the limited partnership or 4.7303% of $400 million.
+Since it acquired its limited partnership units on September 5, 2003, for the year ending December 31, 2003, this would yield 4.7303% of $400 million x 118 days / 365 days = $6,116,991[6]. There seems little doubt that the Appellant’s entitlement to receive cash from Crown Point was fixed, however, section 96 of the Act requires a determination of the Appellant’s share of the profit of Crown Point, not a determination of the Appellant’s share of the cash that it is entitled to receive.
+[44] The Appellant, for the purposes of the Act, would include in its income, its share of the income of Crown Point, not the amount distributed to the Appellant. Section 5.1 of the Crown Point Investments LP Amended and Restated Agreement of Limited Partnership provides as follows:
+Section 5.1 Units
+(a) Ownership rights in USLP are reflected in units (each, a “Unit”), as recorded in the Register. Each Unit, subject to Section 6.4 and to the obligation of Gaskell under Section 5.3(b) and Section 9.6 to pay or reimburse certain Partnership expenses, has equal rights with every other Unit with respect to sharing of Net Profit and Net Loss and with respect to distributions (including pro rata sharing, based on Contributed Capital, of Net Profit and Net Loss) except as provided in Section 6 with respect to distributions and except that, until and unless a Special Permitted Investment is made:
+(i) each Limited Partner’s share of Net Profit for a particular Fiscal Year is an amount equal to the lesser of: (x) such Partner’s pro rata share (according to its Contributed Capital) of Net Profit (computed without reference to the Additional Net Profit) and (y) the result obtained when:
+1. the total of the cash distributed to such Limited Partner during such Fiscal Year (or received within fifteen (15) days after the end of such Fiscal Year but being on account of such Fiscal Year) pursuant to Section 6.1 or Section 6.2(d),
+is divided by:
+2. an amount arrived at by subtracting the Applicable Tax Rate (stated as a decimal amount) from one (1),
+(it being acknowledged that, subject to any variation arising from the difference between Adjusted Fiscal Periods and Fiscal Periods, such Fiscal Year cash distributions represent such Limited Partner’s share of the Net Profit of USLP calculated above, net of the U.S. federal income tax attributable thereto up to a maximum rate of 35%); and
+(ii) Gaskell’s share of the Net Profit for a particular Fiscal Year is the excess of Net Profit for such Fiscal Year over the aggregate of the Limited Partners’ shares of the Net Profit determined pursuant to clause (i) above.
+Before any Special Permitted Investment is made, this Agreement shall be amended, with the consent of all the Partners, to reflect the formula to be used to calculate each Partner’s share of the Net Profit with respect to such Special Permitted Investment.
+(b) Any profit, income, expense or loss arising from marking the Coupon Swap to market shall for financial accounting purposes be allocated to Gaskell.
+(c) The Units of USLP will be represented by certificates in the form set forth in Exhibit E (including the legend on the certificates set out thereon).
+[45] The following was added to paragraph 5.1(a) by Amendment No. 1 dated as of September 5, 2003:
+Whenever a Limited Partner (such as InvestCo) is subject to Canadian federal income tax (a “Canadian Partner”), in addition to the allocation of Net Profit set forth in this Section 5.1(a) and notwithstanding anything else contained in this Agreement, each Partner’s share of the income or loss (determined for the purposes of the Income Tax Act (Canada)) of USLP will equal the amount determined in accordance with this Section 5.1(a), computed as if the references in this section to Net Profit and Net Loss were read as references to income or loss, respectively, of USLP for purposes of the Income Tax Act (Canada) (except that any income, expense or loss arising from marking the Coupon Swap and Volatility Swap to market shall be allocated to Gaskell for Canadian tax purposes). Notwithstanding the foregoing, Gaskell shall not be required, on behalf of USLP or any Canadian Partner to compute the taxable income or taxable capital of USLP for Canadian federal or provincial income or capital tax purposes.
+[46] This amendment confirms that the Appellant’s share of the income of Crown Point (determined for the purposes of the Act) is its share (computed under paragraph 5.1(a) of the agreement) of the income of Crown Point as determined for the purposes of the Act.
+[47] Using the amounts determined or estimated above and using 35% as the Applicable Tax Rate[7], the following would be amounts determined for x and y for the Appellant:
+x = 24.7678% x $37,861,642 = $9,377,496
+y = $6,099,879 / (1 – 0.35) = $9,384,429
+[48] Since the exact amount that was distributed to the Appellant is not clear, the amount for y could vary slightly if the Appellant actually received more or less than $6,099,879. However it seems to me that the provisions of section 5.1 (as amended) are clear and unambiguous and that the application of this provision results in the Appellant’s share of net profit for the purposes of the Act being $9,377,496 which was the amount that it reported on its tax return.
+[49] The Respondent placed significant emphasis on the fact that the amount that the Appellant was entitled to receive from Crown Point was only $6 million. However for the purposes of section 96 of the Act the issue is what was the Appellant’s share of the income of the partnership (which as a result of the provisions of section 9 of the Act would mean its share of the profit of Crown Point) not what amount was distributed to the Appellant. The fact that the amount distributed to the Appellant (and the amount to which the Appellant had a right to receive) was less than its share of the profit is a reflection of the fact that Crown Point had a liability to pay taxes to the U.S. government on its income as a result of filing the election to be classified as a corporation. The cash required to pay this liability would simply not be available for distribution.
+[50] John P. Steines, Jr., an expert called by the Respondent, stated in his report as follows:
+6.5 Crown Point’s election to be treated as a corporation for U.S. tax purposes applied for all U.S. tax purposes[8]. U.S. tax law employs a classical corporate tax system, which treats corporations and shareholders as separate taxpayers and taxes each independently on corporate income, the corporation when the income is earned and shareholders when the income is distributed as a dividend[9]. Section 11(a) of the Internal Revenue Code imposed tax on Crown Point by providing that “A tax is hereby imposed for each taxable year on the taxable income of every corporation.”
+(emphasis added)
+[51] Therefore it is clear that Crown Point had a liability to pay taxes to the U.S. government as a result of filing the election to be classified as a corporation. The fact that Crown Point would not have had this liability if it would not have filed this election is irrelevant. The tax consequences under the Act (which are the tax consequences that are the subject of this Appeal) are to be determined based on what the parties actually did, not on what they might or could have done.
+[52] In The Queen v. Bronfman Trust, [1987] 1 S.C.R. 32, 36 D.L.R. (4th) 197 then Chief Justice Dickson writing on behalf of the Supreme Court of Canada, stated as follows:
+41 Before concluding, I wish to address one final argument raised by counsel for the Trust. It was submitted -- and the Crown generously conceded -- that the Trust would have obtained an interest deduction if it had sold assets to make the capital allocation and borrowed to replace them. Accordingly, it is argued, the Trust ought not to be precluded from an interest deduction merely because it achieved the same effect without the formalities of a sale, and repurchase of assets. It would be a sufficient answer to this submission to point to the principle that the courts must deal with what the taxpayer actually did, and not what he might have done: Matheson v. The Queen, 74 D.T.C. 6176 (F.C.T.D.), per Mahoney J. at p. 6179.
+(emphasis added)
+[53] In Shell Canada Ltd., above, Justice McLachlin (as she then was) writing on behalf of the Supreme Court of Canada, stated that:
+45 … Unless the Act provides otherwise, a taxpayer is entitled to be taxed based on what it actually did, not based on what it could have done, and certainly not based on what a less sophisticated taxpayer might have done.
+[54] Therefore the Appellant is to be taxed under the Act based on what actually occurred, not on what would have occurred if the election to classify Crown Point as a corporation had not been filed. Equally whether the Bank of America group (of which the Appellant was not a part) would have been in the same position with respect to the liability of this group for taxes to the U.S. government whether Crown Point would have filed the election to be classified as a corporation for U.S. tax purposes or not is irrelevant in determining the tax consequences to the Appellant under the Act.
+[55] As well, whether the Appellant (assuming that Altier would agree) would have received the same amount of cash if it had lent $400,000,000 to Altier at an interest rate of 4.7303% is irrelevant. This is not the transaction that the Appellant entered into. The Appellant did not lend money to Altier. The Appellant acquired units in the limited partnership, Crown Point. The tax consequences to the Appellant are to be determined based on this transaction, not on what they would have been if the Appellant would have lent money to Altier.
+[56] In this case Crown Point did file the election to be classified as a corporation foe U.S. tax purposes and therefore did incur a liability for U.S. taxes in the amount of $13,233,379 (US $10,055,677). It seems to me that the amount distributed to the Appellant simply reflects a reduction in the amount that would be available for distribution as a result of the U.S. taxes paid by Crown Point. The amount available for distribution would be as follows:
+Income of Crown Point before taxes:
+$37,861,642
+Taxes Paid to the U.S. government by Crown Point:
+$13,233,379
+Amount available for distribution to partners:
+$24,628,263
+[57] It seems to me that since Crown Point had the liability to pay the U.S. taxes in the amount of $13,233,379 that Crown Point would only have had $24,628,263 available to distribute to its partners. It would not have had $37,861,642 available to distribute to its partners. The fact that Altier may have been able to reduce its tax liability to the U.S. government by claiming an interest deduction in relation to the payments made to the Appellant does not provide Crown Point with any additional cash as Crown Point is a different person. Altier is not the Appellant and neither Crown Point nor the Appellant have any interest in Altier. Altier is the other limited partner of Crown Point.
+[58] Therefore the fact that the Appellant was only entitled to receive 24.7678% of $24,628,263 (or $6,099,879) is simply a reflection of the fact that Crown Point only had $24,628,263 to distribute to its partners.
+[59] During closing argument counsel for the Respondent simply stated that the taxes paid by Crown Point to the U.S. government would be deductible by Crown Point in determining its income for the purposes of the Act without citing any authority for this statement. Counsel for the Respondent did not raise the deductibility of the taxes paid to the U.S. government in determining the profit of Crown Point until I had asked Counsel what the Respondent’s position was in relation to the amount of profit of Crown Point (which would be the profit to be shared as prescribed by section 96 of the Act). In relation to the discussion of the amount of profit, counsel stated that he did not agree that the profit was the amount determined before the taxes paid to the U.S. government were taken into account but rather that the profit was to be determined by deducting the amount paid to the U.S. government by Crown Point for income taxes.
+[60] Subsection 18(1)(a) of the Act provides that:
+18. (1) In computing the income of a taxpayer from a business or property no deduction shall be made in respect of
+(a) an outlay or expense except to the extent that it was made or incurred by the taxpayer for the purpose of gaining or producing income from the business or property;
+[61] It seems to me that income taxes paid to the U.S. government as a result of earning income would not be made or incurred for the purpose of gaining or producing income but would be incurred as a result of gaining or producing income.
+[62] In Inland Revenue Commissioners v. Dowdall, O’Mahoney & Co. Ld., [1952] A.C. 401 (H.L.), Lord Oaksey stated that:
+On the first question I am of opinion that taxes such as those now in question, namely, income tax, corporation profits tax and excess profits tax, are not according to the authorities wholly and exclusively laid out for the purposes of the company’s trade in the United Kingdom. Taxes such as these are not paid for the purpose of earning the profits of the trade: they are the application of those profits when made and not the less so that they are exacted by a dominion or a foreign government. No clear distinction in point of principle was suggested to your Lordships between such taxes imposed by the United Kingdom government and those imposed by dominion or foreign governments.
+[63] Robert Couzin in his paper “The Foreign Tax Credit” presented at the 1976 Canadian Tax Foundation’s annual conference, stated as follows:
+There is an important exception to this rule. Once profit or income has been ascertained, the destination of that profit or the charge which has been made on it by previous agreement or otherwise is immaterial. An application or appropriation of profits is not deductible in computing profit. On this basis, the courts have repeatedly held that taxes which are an application of income are not expenses properly deductible in computing income, be those taxes provincial or foreign.* The foreign tax credit was conceived to allow as a deduction from Canadian tax precisely those foreign taxes the deductibility of which from income is denied by the cases.
+* denotes a footnote reference that was in the original text but which has not been included. The footnote includes references to various cases.
+[64] Therefore, if the foreign income taxes paid to the government of the United States were to be deductible in determining the profit of Crown Point for the purposes of the Act a specific provision to permit the deduction of such taxes would have to be found in the Act.
+[65] The Respondent referred to the definitions of “business income tax” and “non-business income tax” in its written argument. These expressions are defined in subsection 126(7) of the Act which provides that:
+(7) In this section,
+“business-income tax” paid by a taxpayer for a taxation year in respect of businesses carried on by the taxpayer in a country other than Canada (in this definition referred to as the “business country”) means, subject to subsections (4.1) and (4.2), the portion of any income or profits tax paid by the taxpayer for the year to the government of a country other than Canada that can reasonably be regarded as tax in respect of the income of the taxpayer from a business carried on by the taxpayer in the business country, but does not include a tax, or the portion of a tax, that can reasonably be regarded as relating to an amount that
+(a) any other person or partnership has received or is entitled to receive from that government, or
+(b) was deductible under subparagraph 110(1)(f)(i) in computing the taxpayer's taxable income for the year;
+…
+“non-business-income tax” paid by a taxpayer for a taxation year to the government of a country other than Canada means, subject to subsections (4.1) and (4.2), the portion of any income or profits tax paid by the taxpayer for the year to the government of that country that
+(a) was not included in computing the taxpayer's business-income tax for the year in respect of any business carried on by the taxpayer in any country other than Canada,
+(b) was not deductible by virtue of subsection 20(11) in computing the taxpayer's income for the year, and
+(c) was not deducted by virtue of subsection 20(12) in computing the taxpayer's income for the year,
+but does not include a tax, or the portion of a tax,
+(c.1) that is in respect of an amount deducted because of subsection 104(22.3) in computing the taxpayer's business-income tax,
+(d) that would not have been payable had the taxpayer not been a citizen of that country and that cannot reasonably be regarded as attributable to income from a source outside Canada,
+(e) that may reasonably be regarded as relating to an amount that any other person or partnership has received or is entitled to receive from that government,
+(f) that, where the taxpayer deducted an amount under subsection 122.3(1) from the taxpayer's tax otherwise payable under this Part for the year, may reasonably be regarded as attributable to the taxpayer's income from employment to the extent of the lesser of the amounts determined in respect thereof under paragraphs 122.3(1)(c) and (d) for the year,
+(g) that can reasonably be attributed to a taxable capital gain or a portion thereof in respect of which the taxpayer or a spouse or common-law partner of the taxpayer has claimed a deduction under section 110.6,
+(h) that may reasonably be regarded as attributable to any amount received or receivable by the taxpayer in respect of a loan for the period in the year during which it was an eligible loan (within the meaning assigned by subsection 33.1(1)), or
+(i) that can reasonably be regarded as relating to an amount that was deductible under subparagraph 110(1)(f)(i) in computing the taxpayer's taxable income for the year;
+[66] It seems clear that the taxes that were paid to the U.S. government were paid in respect of the income of the business carried on by Crown Point. It is the position of the Respondent that these taxes were paid by Crown Point[10]. The taxes paid would clearly be “business-income taxes” and, as a result of the provisions of paragraph (a) of the definition of “non-business-income tax” would not be “non‑business-income tax”. There is no discretion for a taxpayer to decide to include the amount in one definition or the other as would be the case if the definition of “business-income tax” were to provide that it was such portion of the tax otherwise described therein that the taxpayer elected to include in determining “business-income tax”.
+[67] That the tax paid would be “business-income tax” is relevant because the deduction available pursuant to subsection 20(12) of the Act is only for “non-business income tax”. If a tax is a “business-income tax” the taxpayer is entitled to a tax credit (under section 126) not a deduction in computing income. Since Crown Point is a partnership for the purposes of the Act, it is not taxable under the Act in relation to its business income and therefore cannot claim the tax credit. If the Appellant cannot claim the credit, then no one will be able to claim the tax credit under the Act.
+[68] As a result it seems clear to me that the taxes paid by Crown Point to the U.S. government would not be deductible in determining the profit of Crown Point. Therefore if the Appellant’s share of the profit, for the purposes of the Act, was approximately $6 million (as stated by the Respondent), then the remaining profit ($38 million - $6 million = $32 million) would have to be allocated to the other partners. The Respondent did not provide any submissions on how the remaining profit would be allocated. Assuming that Altier (which held three times as many units as the Appellant), would be allocated three times the amount of profit as the Appellant, this would mean that the profit of $38 million would be allocated among the partners as follows:
+Partners
+Contributed Capital
+Percentage of Contributed Capital
+Income
+(Millions)
+Percentage of Income
+Appellant
+$400,000,000
+24.7678%
+$6
+15.789%
+Altier
+$1,200,000,000
+74.3034%
+$18
+47.368%
+Gaskell (General Partner)
+$15,000,000
+0.92829%
+$14
+36.842%
+Total:
+$1,615,000,000
+100.00%
+$38
+100.00%
+[69] The percentage of income would be significantly different from the percentage of contributed capital. Crown Point earned its income as a result of the deployment of its capital. This is not a partnership that earned its income as a result of services provided or goods sold. Its only source of income was income earned in relation to its capital that was loaned or invested. A reasonable allocation of income would therefore reflect the amounts of contributed capital attributable to its partners. Clearly this allocation of income for this partnership is not a reasonable allocation of income. The position of the Respondent that the Appellant’s share of the profit of Crown Point was approximately $6 million is untenable.
+[70] Since it seems clear to me that the Appellant’s share of the profit of Crown Point was $9,377,496, this is the amount that the Appellant would be required to include in its income for the purposes of the Act. It also seems to me that the Appellant should be considered to have paid the taxes to the U.S. government that were paid in relation to this amount. No other person would be reporting this income for the purposes of the Act. Crown Point, as a partnership, is not taxable in Canada on this income – its Canadian resident partners are taxable under the Act. If the Appellant is not treated as having paid these taxes to the U.S. government, then the Appellant would be taxable in Canada on income of $9,377,496, which is the same income that would already have been taxed in the U.S. As a member of the partnership, the source of income of the Appellant is the same source of income as that of the partnership, Crown Point. The income of Crown Point (which was essentially the income related to the Mecklenburg loan) is, as a result of the provisions of paragraph 96(1)(f) of the Act, income of the Appellant from the same source to the extent of the Appellant’s share thereof. This would result in double taxation of the same income if the Appellant is not entitled to claim a foreign tax credit for taxes paid by Crown Point in relation to this income. It seems to me that the purpose of section 126 is to avoid double taxation of the same income and therefore to fulfill this purpose, the Appellant should be treated as having paid the taxes to the U.S. government that were paid in relation to its income.
+[71] That a partner of a partnership should be entitled to claim its share of the foreign taxes paid by such partnership is consistent with the position on this matter as stated by Revenue Canada (now the Canada Revenue Agency) in its Interpretation Bulletin IT-183 dated October 28, 1974 (which was replaced after the taxation year in issue by Interpretation Bulletin IT-270R3 dated November 25, 2004). Interpretation Bulletin IT-183 – Foreign Tax Credit – Member of a Partnership stated as follows:
+For the purposes of section 126 of the Act each member (individual, corporation or trust) of a partnership includes in his or her incomes from businesses carried on by him or her in a foreign country and from other sources in that country his or her share of the partnership's income from those sources in that country. Also, each member's business-income tax and non-business-income tax in respect of a foreign country is considered to include his or her share thereof paid by the partnership.
+[72] This is also reflected in the Interpretation Bulletin IT-270R3 – Foreign Tax Credit, which replaced IT-183. In paragraph 2 of IT-270R3, in describing the limitation based on the foreign taxes paid, it is stated that:
+…
+The first amount, FTP(BIT), means (in this bulletin) the foreign tax paid-but restricted to business-income tax. More specifically, FTP(BIT) is such part as the taxpayer may claim of the total “business-income tax” (as defined in subsection 126(7)) paid by the taxpayer for the year in respect of businesses carried on by the taxpayer in the foreign business country (including the taxpayer's share, if any, of any such tax paid by a partnership), …
+(emphasis added)
+[73] As a result the Appellant is entitled to a foreign tax credit pursuant to subsection 126(2) of the Act in the amount of $3,199,601. Since I have determined that the Appellant is entitled to claim this credit pursuant to subsection 126(2) of the Act, and since the arguments related to the Canada – United States Tax Convention were raised as alternative arguments if the Appellant was not entitled to the foreign tax credit pursuant to subsection 126(2) of the Act it is not necessary to consider the arguments related to the Convention and these will not be addressed.
+[74] Since, in my opinion, it is not necessary to review the discovery evidence that the Respondent was seeking to introduce in order to determine whether the Appellant should be considered to have paid $3,277,617 in foreign taxes, the Appellant’s motion to exclude the portions of the discovery read-ins identified by the Appellant is granted as such portions are not relevant.
+[75] There is a proposed amendment to section 126 that could affect whether the Appellant may be entitled to a foreign tax credit in this situation for taxation years ending after March 4, 2010. In the Technical Notes of September 2010, it is stated that:
+New subsections 126(4.11) to (4.13) and the amendments to the definitions “business-income tax” and “non-business-income tax” in subsection 126(7) apply to income or profits tax paid for taxation years of a taxpayer that end after March 4, 2010. However, there are transitional rules for taxation years that end on or before August 27, 2010.
+[76] These proposed amendments do not apply to this appeal.
+[77] During the hearing the parties called the following expert witnesses:
+For the Appellant:
+Walter C. Tuthill (a lawyer practicing in Delaware)
+Daniel S. Kleinberger (a law professor teaching at William Mitchell College of Law in St. Paul Minnesota)
+H. David Rosenbloom (a lawyer and a professor teaching at New York University School of Law)
+For the Respondent
+John H. Small (a lawyer practicing in Delaware)
+John P. Steines, Jr. (a lawyer and a professor teaching at New York University School of Law)
+[78] Various questions pertaining to the laws of Delaware and the interpretation of the limited partnership agreement under the laws of Delaware were posed to the expert witnesses. However in this appeal, the issue was the interpretation of the word “paid” for the purposes of subsection 126(2) of the Act with respect to a limited partnership and its Canadian limited partner. This is not a question of Delaware law but is a question of Canadian law. The testimony of the expert witnesses was of little assistance in determining the issue that was to be decided in this appeal.
+[79] As a result, the appeal is allowed, with costs, and the assessment is referred back to the Minister for reconsideration and reassessment on the basis that the Appellant is entitled, in determining its tax payable for 2003 under the Act, to a foreign tax credit in the amount of $3,199,601 pursuant to subsection 126(2) of the Act.
+Signed at Ottawa, Canada, this 21st day of April, 2011.
+“Wyman W. Webb”
+Webb J.
+CITATION: 2011TCC220
+COURT FILE NO.: 2008-2315(IT)G
+STYLE OF CAUSE: 4145356 CANADA LIMITED AND H.M.Q.
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: October 25, 26, 27, 28, 29,
+November 1, 2010, and
+January 26, 27 and 28, 2011
+With written submissions received on February 4, 2011, February 11, 2011 and February 18, 2011
+REASONS FOR JUDGMENT BY: The Honourable Justice Wyman W. Webb
+DATE OF JUDGMENT: April 21, 2011
+APPEARANCES:
+Counsel for the Appellant:
+Al Meghji; Martha MacDonald
+Kimberly Brown; Andrew McGuffin
+Counsel for the Respondent:
+Daniel Bourgeois; Andrew Miller
+Pascal Tétrault
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Al Meghji; Martha MacDonald
+Kimberly Brown; Andrew McGuffin
+Firm: Osler, Hoskin & Harcourt, LLP
+Toronto, Ontario
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] §17-201(b) of the 2003 Delaware Revised Uniform Limited Partnership Act.
+[2] The Respondent did not question the exchange rate used by the Appellant in filing its tax return. To match the exchange rate that was used by the Appellant, this amount ($13,233,379) was determined by dividing $3,277,617 (the amount stated by the Appellant in Schedule 21 to its tax return to be the amount of foreign business income tax paid for the year) by 24.7678% (the percentage of contributed capital held by the Appellant).
+[3] This amount was determined by dividing $9,377,496 (the amount stated by the Appellant to be its income from Crown Point for the purposes of the Act) by 24.7678% (the percentage of contributed capital held by the Appellant).
+[4] The amount as shown on the financial statements for the Appellant as its share of the income of Crown Point was $9,331,022 and the amount shown as income taxes (which presumably would be the income taxes payable to the government of the U.S. since the tax return indicates that no income taxes were payable under the Act) was $3,265,858 (which is not the amount stated in Schedule 21 to be the amount of tax paid to the U.S. government). Using these amounts the amount distributed to the Appellant would be $6,065,164. Neither party referred to the exact amount distributed to the Appellant and the exact amount is not an issue in this Appeal. For the purposes of this appeal, the amount that will be used as the amount distributed to the Appellant will be approximately $6 million.
+[5] A partnership may be deemed to be a person for certain purposes of the Act and therefore liable for certain amounts under the Act. For example, subsection 212(13.1) of the Act deems a partnership to be a person in certain situations. However this provision or any other provision that might deem a partnership to be or to be treated as a person for the purposes of the Act (other than section 96 of the Act) are not in issue in this appeal.
+[6] The Respondent did not calculate this amount. As noted above, using the amounts as reported in the Appellant’s income tax return, it appears that the amount distributed to the Appellant was $6,099,879 and using the amounts from the Appellant’s financial statements it appears that the amount distributed to the Appellant was $6,065,164. The amount of $6,116,991 was calculated assuming that September 5, 2003 would be included. If September 5, 2003 is not included the amount would be $6,065,152 which is only $12 less than the amount using the financial statement amounts and an immaterial difference.
+[7] Professor H. David Rosenbloom in his expert’s report stated that the tax rate for large corporations was 35%. There was no suggestion that this was not the Applicable Tax Rate.
+[8] There is a footnote reference in his report to Treas. Reg. § 301.7701-2(b)(2), -3(a).
+[9] His report included a footnote reference to I.R.C. §§ 1, 11, 301.
+[10] If the taxes were not paid by Crown Point, then the taxes could be neither “business-income taxes” nor “non-business-income taxes” as both definitions require that the taxpayer have paid the tax.

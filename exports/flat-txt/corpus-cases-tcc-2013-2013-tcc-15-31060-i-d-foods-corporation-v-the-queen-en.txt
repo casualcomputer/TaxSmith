@@ -1,0 +1,330 @@
+Title: I-D Foods Corporation v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/31060/index.do
+Corpus path: corpus/cases/tcc/2013/2013-tcc-15-31060-i-d-foods-corporation-v-the-queen-en.md
+Document type: case_law
+Last modified: 2013-01-17
+
+# I-D Foods Corporation v. The Queen
+
+- Citation: 2013 TCC 15
+- Decision date: 2013-01-17
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4700, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+I-D Foods Corporation v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2013-01-17
+Neutral citation
+2013 TCC 15
+File numbers
+2010-1002(GST)G
+Judges and Taxing Officers
+Pierre Archambault
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2010-1002(GST)G
+BETWEEN:
+I-D Foods corporation,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on November 13, 2012, at Montreal, Quebec.
+Before: The Honourable Justice Pierre Archambault
+Appearances:
+Counsel for the Appellant:
+Aaron Rodgers
+Counsel for the Respondent:
+Brigitte Landry
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Excise Tax Act, R.S.C. 1985, c. E-15, in respect of the reporting periods from January 1, 2005 to December 31, 2007 is dismissed and costs are awarded to the respondent.
+Signed this 17th day of January 2013.
+“Pierre Archambault”
+Archambault J.
+Citation: 2013 TCC 15
+Date: 20130117
+Docket: 2010-1002(GST)G
+BETWEEN:
+I-D Foods corporation,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Archambault J.
+[1] I-D Foods Corporation (IDF) is appealing an assessment issued by the Deputy Minister of Revenue of Quebec on behalf of the Commissioner of Revenue of Canada (Minister) pursuant to the Excise Tax Act, R.S.C. 1985, c. E‑15 (ETA). The relevant period is January 1, 2005 to December 31, 2007. By that assessment, the Minister disallowed input tax credits (ITCs) for the relevant period aggregating $126,338.98 in respect of car allowances paid by IDF to its employees for the use of their cars in the course of the performance of their employment duties. The relevant section is section 174 of the ETA, which refers to subparagraphs 6(1)(b)(v), (vi), (vii) and (vii.1) of the Income Tax Act, R.S.C. 1985 (5th supp.), c. 1 (ITA). In the end, the main issue raised by this appeal is more legal than factual and concerns the scope of the application of section 174 of the ETA. More specifically, the issue is whether subparagraph 6(1)(b)(x) of the ITA, as interpreted by the Federal Court of Appeal in Ville de Beauport v. Minister of National Revenue, 2001 FCA 198, [2002] 2 C.T.C. 161, must be taken into account in applying paragraph 174(c) of the ETA. There are a number of provisions that it would be useful to reproduce here in order to understand the scope of that paragraph:
+Excise Tax Act
+Allowances and Reimbursements
+174. Travel and other allowances. — For the purposes of this Part, where
+(a) a person pays an allowance
+(i) to an employee of the person,
+(ii) where the person is a partnership, to a member of the partnership, or
+(iii) where the person is a charity or a public institution, to a volunteer who gives services to the charity or institution
+for
+(iv) supplies all or substantially all of which are taxable supplies (other than zero-rated supplies) of property or services acquired in Canada by the employee, member or volunteer in relation to activities engaged in by the person, or
+(v) the use in Canada, in relation to activities engaged in by the person, of a motor vehicle,
+(b) an amount in respect of the allowance is deductible in computing the income of the person for a taxation year of the person for the purposes of the Income Tax Act, or would have been so deductible if the person were a taxpayer under that Act and the activity were a business, and
+(c) in the case of an allowance to which subparagraph 6(1)(b)(v), (vi), (vii) or (vii.1) of that Act would apply
+(i) if the allowance were a reasonable allowance for the purposes of that subparagraph, and
+(ii) where the person is a partnership and the allowance is paid to a member of the partnership, if the member were an employee of the partnership, or, where the person is a charity or a public institution and the allowance is paid to a volunteer, if the volunteer were an employee of the charity or institution,
+the person considered, at the time the allowance was paid, that the allowance would be a reasonable allowance for those purposes and it is reasonable for the person to have considered, at that time, that the allowance would be a reasonable allowance for those purposes,
+the following rules apply:
+(d) the person is deemed to have received a supply of the property or service,
+(e) any consumption or use of the property or service by the employee, member or volunteer is deemed to be consumption or use by the person and not by the employee, member or volunteer, and
+(f) the person is deemed to have paid, at the time the allowance is paid, tax in respect of the supply equal to the amount determined by the formula
+A × (B/C)
+where
+A is the amount of the allowance,
+B Is
+(i) in prescribed circumstances relating to a participating province, the percentage determined in prescribed manner, and
+(ii) in any other case, the rate set out in subsection 165(1), and
+C is the total of 100% and the percentage determined for B.
+Loi sur la taxe d’accise
+Indemnités et remboursements
+174. Indemnités pour déplacement et autres — Pour l’application de la présente partie, une personne est réputée avoir reçu la fourniture d’un bien ou d’un service dans le cas où, à la fois :
+a) la personne verse une indemnité à l’un de ses salariés, à l’un de ses associés si elle est une société de personnes ou à l’un de ses bénévoles si elle est un organisme de bienfaisance ou une institution publique :
+(i) soit pour des fournitures dont la totalité, ou presque, sont des fournitures taxables, sauf des fournitures détaxées, de biens ou de services que le salarié, l’associé ou le bénévole a acquis au Canada relativement à des activités qu’elle exerce,
+(ii) soit pour utilisation au Canada d’un véhicule à moteur relativement à des activités qu’elle exerce;
+b) un montant au titre de l’indemnité est déductible dans le calcul du revenu de la personne pour une année d’imposition en application de la Loi de l’impôt sur le revenu, ou le serait si elle était un contribuable aux termes de cette loi et l’activité, une entreprise;
+c) lorsque l’indemnité constitue une allocation à laquelle les sous-alinéas 6(1)b)(v), (vi), (vii) ou (vii.1) de la Loi de l’impôt sur le revenu s’appliqueraient si l’indemnité était une allocation raisonnable aux fins de ces sous-alinéas, les conditions suivantes sont remplies :
+(i) dans le cas où la personne est une société de personnes et où l’indemnité est versée à l’un de ses associés, ces sous-alinéas s’appliqueraient si l’associé était un
+salarié de la société,
+(ii) si la personne est un organisme de bienfaisance ou une institution publique et que l’indemnité est versée à l’un de ses bénévoles, ces sous-alinéas s’appliqueraient si le bénévole était un salarié de la personne,
+(iii) la personne considère, au moment du versement de l’indemnité, que celle-ci est une allocation raisonnable aux fins de ces sous-alinéas,
+(iv) il est raisonnable que la personne l’ait considérée ainsi à ce moment.
+De plus :
+d) toute consommation ou utilisation du bien ou du service par le salarié, l’associé ou le bénévole est réputée effectuée par la personne et non par l’un de ceux-ci;
+e) la personne est réputée avoir payé, au moment du versement de l’indemnité et relativement à la fourniture, une taxe égale au résultat du calcul suivant :
+A × (B/C)
+Où :
+A représente le montant de l’indemnité,
+B :
+(i) dans les circonstances prévues par règlement relativement à une province participante, le pourcentage déterminé selon les modalités réglementaires,
+(ii) dans les autres cas, le taux fixé au paragraphe 165(1),
+C la somme de 100% et du pourcentage déterminé selon l’élément B.
+Excise Tax Act
+[GST] Rebates
+253. (1) Employees and partners — Where
+(a) a musical instrument, motor vehicle, aircraft or any other property or a service is or would, but for subsection 272.1(1), be regarded as having been acquired, imported or brought into a participating province by an individual who is
+. . .
+(ii) an employee of a registrant (other than a listed financial institution),
+. . .
+(b) the individual has paid the tax (in this subsection referred to as the “tax paid by the individual”) payable in respect of the acquisition or importation of the property or service, or the bringing into a participating province of the property, as the case may be, and
+. . .
+the Minister shall, subject to subsections (2) and (3), pay a rebate in respect of the property or service to the individual for each calendar year equal to the amount determined by the formula
+A X (B - C)
+where
+A is
+(a) where the tax paid by the individual includes only tax imposed under subsection 165(1) or section 212 or 218, the amount determined by the formula
+. . .
+B is an amount equal to
+. . .
+(c) the amount in respect of
+(i) . . .
+(ii) the supply of the service, or
+(iii) the supply in Canada of the other property,
+as the case may be, that was deducted under the Income Tax Act in computing the individual's income for the year from an office or employment or from the partnership, as the case may be, and in respect of which the individual did not receive an allowance from a person, other than an allowance in respect of which the person certifies, in prescribed form containing prescribed information, that, at the time the allowance was paid, the person did not consider
+(d) the allowance to be a reasonable allowance for the purposes of subparagraph 6(1)(b)(v), (vi), (vii) or (vii.1) of that Act, or
+. . .
+C is the total of all amounts that the individual received or is entitled to receive from the individual's employer or the partnership, as the case may be, as a reimbursement in respect of the amount that was so deducted.
+Loi sur la taxe d’accise
+Remboursements [TPS]
+253. (1) Salariés et associés — Sous réserve des paragraphes (2) et (3), le ministre rembourse un particulier — associé d’une société de personnes, laquelle est un inscrit, ou salarié d’un inscrit autre qu’une institution financière désignée — pour chaque année civile relativement à un bien ou à un service, si les conditions suivantes sont réunies :
+a) un instrument de musique, un véhicule à moteur, un aéronef ou un autre bien ou service est considéré comme ayant été acquis, importé ou transféré dans une province participante par le particulier, ou serait ainsi considéré si ce n’était le paragraphe 272.1(1);
+[…]
+b) le particulier a payé la taxe (appelée « taxe payée par le particulier » au présent paragraphe) relative à l’acquisition ou à l’importation du bien ou du service ou relative au transfert du bien dans une province participante, selon le cas;
+[…]
+Le montant remboursable correspond au résultat du calcul suivant :
+A × (B - C)
+où :
+A représente :
+a) dans le cas où la taxe payée par le particulier ne comprend que la taxe imposée par le paragraphe 165(1) ou les articles 212 ou 218, le montant obtenu par la formule suivante :
+[…]
+B l’un des montants suivants, déduit en application de la Loi de l’impôt sur le revenu dans le calcul du revenu du particulier pour l’année tiré d’une charge ou d’un emploi ou provenant de la société et pour lequel le particulier n’a pas reçu d’allocation d’une personne, exception faite d’une allocation que celle-ci ne considère pas, selon l’attestation qu’elle a faite en la forme déterminée par le ministre et contenant les renseignements requis, comme étant, au moment de son versement, soit une allocation raisonnable pour l’application des sous-alinéas 6(1)b)(v), (vi), (vii) ou (vii.1) de cette loi, […]
+[…]
+c) le montant relatif […] à la fourniture du service ou à la fourniture au Canada de l’autre bien, selon le cas;
+C le total des montants que le particulier a reçus ou a le droit de recevoir de son employeur ou de la société de personnes, selon le cas, à titre de remboursement du montant déduit visé à l’élément B.
+Income tax act
+Inclusions
+6.(1) Amounts to be included as income from office or employment — There shall be included in computing the income of a taxpayer for a taxation year as income from an office or employment such of the following amounts as are applicable
+. . .
+(b) Personal or living expenses — all amounts received by the taxpayer in
+the year as an allowance for personal or living expenses or as an allowance for any other purpose, except
+. . .
+(v) reasonable allowances for travel expenses received by an employee from the employee’s employer in respect of a period when the employee was employed in connection with the selling of property or negotiating of contracts for the employee’s employer,
+. . .
+(vi) reasonable allowances received by a minister or clergyman in charge of or ministering to a diocese, parish or congregation for expenses for transportation incident to the discharge of the duties of that office or employment,
+(vii) reasonable allowances for travel expenses (other than allowances for the use of a motor vehicle) received by an employee (other than an employee employed in connection with the selling of property or the negotiating of contracts for the employer) from the employer for travelling away from
+(A) the municipality where the employer’s establishment at which the employee ordinarily worked or to which the employee ordinarily reported was located, and
+(B) the metropolitan area, if there is one, where that establishment was located,
+in the performance of the duties of the employee’s office or employment,
+(vii.1) reasonable allowances for the use of a motor vehicle received by an employee (other than an employee employed in connection with the selling of property or the negotiating of contracts for the employer) from the employer for travelling in the performance of the duties of the office or employment,
+. . .
+and for the purposes of subparagraphs 6(1)(b)(v), 6(1)(b)(vi) and 6(1)(b)(vii.1), an allowance received in a taxation year by a taxpayer for the use of a motor vehicle in connection with or in the course of the taxpayer’s office or employment shall be deemed not to be a reasonable allowance
+(x) where the measurement of the use of the vehicle for the purpose of the allowance is not based solely on the number of kilometres for which the vehicle is used in connection with or in the course of the office or employment, or
+(xi) where the taxpayer both receives an allowance in respect of that use and is reimbursed in whole or in part for expenses in respect of that use (except where the reimbursement is in respect of supplementary business insurance or toll or ferry charges and the amount of the allowance was determined without reference to those reimbursed expenses);
+Loi de l’impôt sur le revenu
+Éléments à inclure
+6.(1) Éléments à inclure à titre de revenu tiré d’une charge ou d’un emploi — Sont à inclure dans le calcul du revenu d’un contribuable tiré, pour une année d’imposition, d’une charge ou d’un emploi, ceux des éléments suivants qui sont applicables :
+[…]
+b) Frais personnels ou de subsistance — les sommes qu’il a reçues au cours de l’année à titre d’allocations pour frais personnels ou de subsistance ou à titre d’allocations à toute autre fin, sauf :
+[…]
+(v) les allocations raisonnables pour frais de déplacement reçues de son employeur par un employé et afférentes à une période pendant laquelle son emploi était lié à la vente de biens ou à la négociation de contrats pour son employeur,
+[…]
+(vi) les allocations raisonnables reçues par un ministre du culte ou un membre du clergé desservant un diocèse, une paroisse ou une congrégation, ou en ayant la charge, pour les frais de transport qu’a entraînés l’accomplissement des fonctions de sa charge ou de son emploi,
+(vii) les allocations raisonnables pour frais de déplacement, à l’exception des allocations pour l’usage d’un véhicule à moteur, qu’un employé — dont l’emploi n’est pas lié à la vente de biens ou à la négociation de contrats pour son employeur — a reçues de son employeur pour voyager, dans l’accomplissement des fonctions de sa charge ou de son emploi, à l’extérieur :
+(A) de la municipalité où était situé l’établissement de l’employeur dans lequel l’employé travaillait habituellement ou auquel il adressait ordinairement ses rapports,
+(B) en outre, le cas échéant, de la région métropolitaine où était situé cet établissement,
+(vii.1) les allocations raisonnables pour l’usage d’un véhicule à moteur qu’un employé — dont l’emploi n’est pas lié à la vente de biens ou à la négociation de contrats pour son employeur — a reçues de son employeur pour voyager dans l’accomplissement des fonctions de sa charge ou de son emploi,
+[…]
+pour l’application des sous-alinéas (v), (vi) et (vii.1), une allocation reçue au cours de l’année par le contribuable pour l’usage d’un véhicule à moteur dans l’accomplissement des fonctions de sa charge ou de son emploi est réputée ne pas être raisonnable dans les cas suivants :
+(x) l’usage du véhicule n’est pas, pour la fixation de l’allocation, uniquement évalué en fonction du nombre de kilomètres parcourus par celui-ci dans l’accomplissement des fonctions de la charge ou de l’emploi,
+(xi) le contribuable, à la fois, reçoit une allocation pour cet usage et est remboursé de tout ou partie de ses dépenses pour le même usage (sauf s’il s’agit d’un remboursement pour frais d’assurance‑automobile commerciale supplémentaire, frais de péage routier ou frais de traversier et si l’allocation a été déterminée compte non tenu des dépenses ainsi remboursées);
+Income Tax Act
+Deductions
+18.(1) — General limitations. In computing the income of a taxpayer from a business or property no deduction shall be made in respect of
+. . .
+(r) Certain automobile expenses — an amount paid or payable by the taxpayer as an allowance for the use by an individual of an automobile to the extent that the amount exceeds an amount determined in accordance with prescribed rules, except where the amount so paid or payable is required to be included in computing the individual’s income;
+Loi de l’impôt sur le revenu
+Déductions
+18.(1) Exceptions d’ordre général — Dans le calcul du revenu du contribuable tiré d’une entreprise ou d’un bien, les éléments suivants ne sont pas déductibles :
+[…]
+r) Allocation pour usage d’une automobile — tout montant payé ou payable par le contribuable à titre d’allocation pour usage d’une automobile par un particulier, dans la mesure où ce montant excède le montant prescrit, sauf si le montant ainsi payé ou payable doit être inclus dans le calcul du revenu du particulier;
+[My emphasis.]
+Facts
+[2] IDF has been carrying on a business of importing and distributing food products in Canada since 1948. Its annual sales approximated $85 million to $90 million per year during the relevant period. IDF had during that period approximately 80 employees (described as sales representatives) involved in distributing its products, and it paid their salaries every two weeks. According to the testimony of Mr. Domenic Nardolillo, his remuneration was in part fixed and in part based on the sales that he made. Besides the sales director, Mr. Nardolillo was the only sales representative to testify at the hearing. Each IDF sales representative was given an exclusive territory to service. The work was performed mostly on the road and involved visiting stores and collecting orders five days a week.
+[3] The sales representatives had to use their own cars to carry out their duties, and IDF paid them a car allowance. According to Ms. Linda Ross, who was in charge of IDF’s payroll, this car allowance had three components: the cost of gas, the cost of insurance — up to a $1000 limit — as evidenced by an invoice, and the other costs for the car. IDF determined the amount of the allowance using its in‑depth knowledge of the number of kilometres to be travelled to cover a particular territory. According to Diane Dault, the person in charge of sales, who has been with the company for 29 years, the allowance is based on the kilometres having to be driven by a sales representative and on the sales target assigned to that sales representative. For instance, IDF took into account past experience with regard to that particular territory, for example, the number of kilometres driven in that territory in the preceding year. She also got daily and weekly sales reports in respect of each of her sales representatives, so she knew which clients had been visited in the territory.
+[4] Once the estimate of the annual travelling costs for a particular territory was made, the total was divided by 26 and a flat-rate allowance was paid every two weeks along with the remuneration of the sales representatives. Certain sales representatives were allowed to use a company credit card to pay for their gas. However, the amount of such transactions was deducted from the car allowance (see Exhibit I-1, page 4.21). Furthermore, the flat-rate allowance paid biweekly could be adjusted every three months to take into account the actual cost of gas (see Exhibit I-1, page 4.20).
+[5] If a territory was modified and the number of kilometres to be travelled increased or decreased, adjustments would be made to the allowance. However, Ms. Ross indicated that when she received the written statements of the annual business kilometres travelled by the sales representatives, she did not make any adjustment to the total allowance paid for the year. She just filed the statements. Moreover, Ms. Dault indicated that she herself did not check those written statements; the only ones she looked at were her own.
+[6] To illustrate this, Exhibit I-1 was filed. It relates to some of IDF’s sales representatives. For instance, Ms. Diana Hénault submitted on February 6, 2007, a written statement indicating that she had driven 15,367 kilometres in 2006. According to IDF’s biweekly payroll register, she was paid a flat-rate car allowance of $261.54 for the pay periods ending on October 6 and October 20, 2006. Mr. Marc Rousseau indicated in his written statement that he had driven 28,103 kilometres in 2006. The amount of his flat-rate car allowance shown on the payroll register was $469.08 for the pay periods ending on the same dates as Ms. Hénault’s. Mr. Rousseau covered more kilometres and received a higher flat-rate allowance than Ms. Hénault. Another example is the case of Ms. Josée Lafrenière, who indicated in her statement that she had driven 6,884 kilometres in 2006; she received a car allowance of $392.32 for the same pay periods as Ms. Hénault and Mr. Rousseau (Exhibit I-1, pages 4.7 to 4.9). However, she travelled only 44.8% of Ms. Hénault’s distance, but she received an allowance equal to 150% of Ms. Hénault’s.
+[7] Mr. Siino, an employee of the Minister who prepared the tables filed as Exhibits I-5 and I-6 and who wrote the portion entitled “Autres constatations” in the appeals officer’s report (Exhibit I-4), noted that some sales representatives had moreover received exactly the same car allowance, although they had not travelled the same number of kilometres. He also testified that the rate per kilometre computed by reference to the total annual kilometres travelled by the sales representatives and the total annual allowance paid by IDF varied between $0.11 and $1.35. He also wrote that some of the rates per kilometre had decreased over time. He gave as an example the case of Mr. Yves Beaucage, whose rate went from $0.79 in 2006 to $0.48 in 2007.
+[8] Like Mr. Siino’s observations, the summary prepared by an accountant hired by IDF in the context of the appeal shows variances in the rates per kilometre. One sales representative, whose kilometres driven were low, received $0.65 per kilometre while another, who drove 38,748 kilometres, received only $0.20 per kilometre in 2005. We see similar variances in 2006 and 2007. Another example is the case of one sales representative who in 2007 received $1.35 per kilometre for 3,479 kilometres (see Exhibits A-4 and I-2.)
+[9] One of the tables prepared by Mr. Siino (Exhibit I-6) also reveals that the allowance paid by IDF was a biweekly flat-rate allowance as opposed to being a per-kilometre allowance to be multiplied by the actual business kilometres travelled by a particular sales representative. For example, in the case of Mr. Knowles, whose name appears on Exhibit A-4, the summary shows that in 2007 he was paid $0.45 per kilometre for 36,375 kilometres, for which he received an allowance of $16,305.01. However, as demonstrated by Mr. Siino’s calculations, the actual rate per kilometre was $0.4482 and not the round number of $0.45. Had IDF paid $0.45, Mr. Knowles would have received $63.74 more.
+[10] The method employed by IDF provided in most cases satisfactory results in indemnifying the sales representatives for the travelling costs they incurred (Exhibit A‑4). Notwithstanding the variances mentioned above, an analysis of the summary prepared by the accountant reveals that the flat-rate allowances paid were in most cases reasonable. Indeed, when the annual allowance is divided by the annual number of business kilometres driven by each of the sales representatives, the results show a rate per kilometre that was generally around $0.37 in 2005 and $0.45 in 2006 and 2007. In the course of her review of the aforementioned summary, the appeals officer, Ms. Caroline Daviau, listed the rates specified in the Quebec Regulation respecting the Taxation Act for determining to what extent an amount would be deductible in computing business income. The rate per kilometre for 2005 was $0.45 for the first 5,000 kilometres and thereafter $0.39 per kilometre; for 2006 and 2007, it was $0.50 for the first 5,000 kilometres and $0.44 for any additional kilometres.
+[11] At the hearing and in IDF’s Notice of Appeal, IDF’s counsel as good as conceded that the car allowances were estimated. For instance, in IDF’s Notice of Appeal it is stated:
+10. Adjustments were rare as the specific routes made it possible to accurately estimate the employment kilometers driven;
+18. The Appellant chose to adjust the Mileage Allowance only where there was a material difference between the estimated kilometers and the actual kilometers as from a business perspective, minor adjustments would have been more costly to the employer than the actual adjustments;[1]
+19. The Mileage Allowances were as such in fact calculated on a per-kilometer basis. As for the decision to not adjust insignificant discrepancies between the actual mileage driven and the estimated mileage, this Appellant is entitled to conduct its business in the manner it chooses;
+[My emphasis.]
+[12] In his letter dated September 16, 2009 to Ms. Daviau, the accountant stated on page 2: “[E]ach allowance was negotiated based on the estimated amount of employment kilometers to be traveled and if necessary, the allowance would be adjusted to reflect the actual[2] employment kilometers. Please note that adjustments [at the end of the year] were rare as most employees were assigned a specific route making it likely to accurately estimate the employment kilometers driven.” (Exhibit I-2). (My emphasis.)
+[13] From this description, I conclude that IDF was paying an allowance which was based on an estimated number of kilometres to be travelled by a sales representative and not on the actual kilometres driven. The amount estimated represented in most cases a very good effort to fix a reasonable car allowance for the employees. However, the issue is whether that method meets the requirements of section 174 of the ETA. To paraphrase the argument made by IDF’s counsel, what must be determined is whether the estimate made by IDF of the kilometres to be travelled meets the requirements of section 174. More specifically, to use the wording of paragraph 174(c), the issue is whether the amount determined to be reasonable by the person (employer) can be considered reasonable for the purposes of subparagraph 6(1)(b)(v)[3] of the ITA.
+Position of the appellant
+[14] IDF’s counsel took the view during the hearing that section 174 of the ETA must be applied by reference not only to subparagraph 6(1)(b)(v) but also to subparagraph 6(1)(b)(x) of the ITA.[4] However, in his view, the requirements for the purpose of applying section 174 of the ETA should be more liberally interpreted given that this section provides that it is the person (the employer) who must determine whether the allowance was reasonable at the time of its payment, and, in counsel’s view, that determination by IDF was a reasonable one for the purposes of subparagraph 6(1)(b)(v) of the ITA. In estimating the number of kilometres to be travelled, IDF was accurate enough not to have to adjust the amount of the allowance at the end of the year to reflect actual use of the car.
+[15] In addition, IDF’s counsel submitted that the amount determined by IDF constituted a much better computation of the actual kilometres travelled by each sales representative. In his view, it would be doubtful that the sales representative’s computation of the kilometres driven (as appearing in Exhibit I-1) would be more accurate than IDF’s. For example, an employee could include in his mileage figure those kilometres driven between his personal residence and IDF’s place of business.
+[16] In addition, counsel for IDF submitted that a liberal interpretation of section 174 of the ETA is in order given the context in which that provision is to be applied. An unduly restrictive interpretation, such as that adopted by the Minister, would result in IDF losing its ITC entitlements with respect to the GST paid indirectly through the payment of the allowances to its employees. In effect, the disallowance of the ITCs would amount to a windfall for the Minister.
+[17] However, that view does not appear to be shared by IDF’s accountant, who maintained that the ITCs could be recovered by the sales representatives. This is what he wrote to Ms. Daviau on October 27, 2009 (Exhibit I-3) :
+Furthermore, please note that deeming the automobile allowances unreasonable and therefore making them taxable would not benefit either the Minister or our client.
+As clearly shown on the logs already submitted, the employees substantially use their automobiles for employment purposes and therefore would be entitled under section 63.1 of the Quebec Taxation Act to claim automobile expenses for the years in question.
+This would result in having the Minister amend the 2005, 2006 and 2007 personal tax returns of all employees in order to allow employment expenses and GST/QST rebates.
+Since there are approximately 110 employees that would be directly affected, the Minister would have to amend approximately 330 personal tax returns.
+[My emphasis.]
+Position of the respondent
+[18] The respondent’s counsel submits that the assessment should be confirmed because the allowances paid by IDF do not meet all the requirements of section 174 of the ETA. In order for an allowance to be reasonable for the purposes of paragraph 174(c), it is necessary that the measurement of the use of the vehicle be solely based on the number of kilometres for which the vehicle was used in connection with the employment, as required by subparagraph 6(1)(b)(x) of the ITA. In support of this position, counsel for the respondent relied on the decision Tri-Bec Inc. v. R., 2003 G.S.T.C. 75, 2003 G.T.C. 762, 2002 G.S.T.C. 27 (Fr.) at paragraph 19, where Judge Lamarre Proulx stated:
+19 Subparagraph 6(1)(b)(x) of the Income Tax Act is clear in my view. Since section 174 of the Act refers to this statutory provision, a reasonable allowance for the use of a motor vehicle is one that is fixed on the basis of the number of kilometres travelled by the taxpayer in the performance of the office or employment.[5]
+[My emphasis.]
+[19] In Beauport, where the application of subparagraph 6(1)(b)(x) of the ITA was considered, Justice Noël of the Federal Court of Appeal wrote, at paragraph 17:
+17 In this instance, the scheme introduced by the applicant does not take into account the number of kilometres actually travelled by the employees during the period for which the allowances are paid but is based on an estimate determined by reference to the previous period. That is precisely the type of calculation that was excluded when subparagraph 6(1)(b)(x) was adopted and the Tax Court Judge's reading of that provision was in conformity with the statutory language and not incompatible in any way with the concept of an allowance.
+[My emphasis.]
+[20] The relevant facts of that case are summarized at paragraph 5 of the reasons:
+5 The evidence established that the applicant had introduced a "motor vehicle allowance policy" based on figures contained in a specialized publication prepared by the Quebec Automobile Club (CAA-Quebec). To calculate an amount per kilometre, the applicant together with the union tried to determine average operating costs that took into account fixed and variable costs for the use of a vehicle. It then applied that amount to a value representing the approximate annual kilometres driven that was extrapolated from the total kilometres actually driven by its employees during a three-month reference period.
+[My emphasis.]
+Analysis
+[21] Here, as was done in Beauport , IDF determined the allowance on the basis of past experience. The measurement of the use of the vehicle was an estimated number of kilometres to be travelled in a particular territory. The allowance could be adjusted on a three-month basis to take into account the actual cost of gas. However, this adjustment could not, in my view, differentiate between use of the car for the performance of employment duties and use for personal purposes. Furthermore, at the end of the year, when the sales representatives reported the actual number of business kilometres for which they used their cars during the year, IDF did not adjust the allowance paid in the year. Here, the rate per kilometre which was determined by IDF’s accountant was useful to establish how reasonable the allowances paid were; however, the actual number of business kilometres travelled by a particular representative was not used in determining the actual allowance paid to the representative. Therefore, as I have concluded above, the allowances paid were based on an estimate of the kilometres to be travelled and not on the actual number of kilometres for which the vehicles were in fact used by the representatives in performing their duties during the relevant year.
+[22] If the ITA were the only Act to be applied, the merit of IDF’s appeal would be easily determined, in light of the pronouncements of the Federal Court of appeal in Beauport, which confirmed the decision of Judge Dussault of this Court. However the issue to be determined is whether the car allowances paid to the representatives meet the requirements of paragraph 174 of the ETA. More particularly, it must be decided whether the determination made by IDF that it had paid a reasonable allowance is reasonable for the purposes of subparagraph 6(1)(b)(v) of the ITA. At the outset of the hearing, I informed the parties that I had questions with respect to the statement made in Tri-Bec at paragraph 19, which is reproduced above. I indicated that I did not believe that section 174 of the ETA referred explicitly to subparagraph 6(1)(b)(x) of the ITA and that I was uncertain whether that subparagraph applied.
+[23] After considering the positions of the parties, including their written submissions, and reflecting on the issue, I believe that the fact that section 174 does not refer explicitly to subparagraph 6(1)(b)(x) of the ITA does not necessarily mean that it does not refer to it implicitly. In argument, both counsel in this appeal stated that they believed that the rule in subparagraph 6(1)(b)(x) of the ITA had to be considered in applying subparagraph 6(1)(b)(v) for the purposes of paragraph 174(c) of the ETA. In addition, both the Goods and Services Tax Reporter (CCH) and the Canada GST Service (Carswell) share the same view.[6] In the latter, David Sherman writes with respect to section 174, in section G, under the heading “Whether a Travel Allowance is ‘Reasonable’ — Paragraph 174(c)”:
+For such allowances, paragraph 174(c) requires that the employer, partnership, charity or public institution reasonably consider the allowance to be “reasonable” under the ITA. Subparagraphs 6(1)(b)(x) and (xi) deem certain allowances not to be reasonable : . . .
+Subparagraph 6(1)(b)(x) clearly overrides subparagraphs (v)–(vii.1), so even if an allowance is otherwise “reasonable” it is unreasonable if it is not based solely on the number of kilometres driven: Beauport (Ville) v. R., [2002] 2 C.T.C. 161 (F.C.A.).
+In other words, a flat-rate allowance paid every month, or an allowance paid in addition to reimbursement, is deemed unreasonable. No input tax credit or GST rebate is available for the GST component of such an allowance. (See the Tri-bec and Melville Motors cases discussed in section M below.)
+[My emphasis.]
+[24] In the Goods and Services Tax Reporter, in section 65-800 under the heading “Employee Allowances”, it is stated.
+Subparagraph 6(1)(b)(v), (vi), (vii) or (vii.1) of the ITA applies. These subparagraphs apply to travelling allowances, including automobile allowances paid to salespersons . . . Therefore an allowance which is not reasonable under the per kilometre test in subparagraph 6(1)(b)(x) of the ITA and the duplicating reimbursement test in subparagraph 6(1)(b)(xi) would not be a reasonable allowance for purposes of section 174 of the Excise Tax Act (ETA). However, the individual may be able to pursue a rebate under section 253.
+[My emphasis.]
+[25] I also believe that this interpretation of section 174 is the most reasonable one given that the question to be answered under section 174 is whether the allowance would be a “reasonable allowance for those purposes,” i.e., for the purposes of subparagraph 6(1)(b)(v) of the ITA. The implicit reference to subparagraph 6(1)(b)(x) of the ITA is required because of the close relationship between sections 174 and 253 of the ETA and subparagraph 6(1)(b)(v) of the ITA. It is obvious that Parliament intended that the three provisions be closely connected. This is evident not only from the wording of paragraph 174(c) and subsection 253(1)[7] of the ETA, but also from the explanatory notes[8] which where issued by the Department of Finance when paragraph 174(c) was amended in 1993. To understand the context of these notes and the amendments, it is useful to reproduce here sections 174 and 253 as they read before the 1993 amendments:
+174. Travel and other allowances — For the purposes of this Part, where
+(a) a person pays a reasonable allowance to an employee or, where the person is a partnership, to a member of the partnership
+(i) for supplies all or substantially all of which are taxable supplies (other than zero-rated supplies) acquired in Canada by the employee or member in relation to an activity engaged in by the person, or
+(ii) for the use in Canada, in relation to an activity engaged in by the person, of a motor vehicle, and
+(b) an amount in respect of the allowance is deductible in computing the income of the person for a taxation year of the person for the purposes of the Income Tax Act, or would have been so deductible if the person were a taxpayer under that Act and the activity were a business,
+the person shall be deemed to have received a taxable supply and to have paid, at the time the allowance is paid, tax in respect of the supply equal to the tax fraction of the amount of the allowance.
+253.(1) Employees and partners — Where tax is payable in respect of
+(a) the acquisition or importation of an automobile, an aircraft or a musical instrument, or
+(b) the supply of any other property or a service,
+by an individual who is a member of a partnership that is a registrant or who is an employee of a registrant (other than a listed financial institution), and the individual is not entitled to claim an input tax credit in respect of the tax, subject to subsections (2) and (3), the Minister shall pay a rebate for each calendar year to the individual equal to the amount determined by the formula
+A x (B - C)
+where
+A is the tax fraction on the last day of the year,
+B is the total of all amounts each of which is
+(a) the capital cost allowance in respect of the automobile, aircraft or musical instrument, or
+(b) the consideration or part thereof for the supply of the other property or service,
+that was deducted under the Income Tax Act in computing the individual's income for the year from employment or from the partnership, as the case may be, and
+C is the total of all amounts each of which is an amount
+(a) included in the total determined for B, and
+(b) in respect of which the individual received an allowance or reimbursement from any other person.
+[My emphasis.]
+[26] The following are the explanatory notes for the new version of section 174 and section 253:
+Bill C-112 (February 11, 1993)
+. . .
+Section 174: Employee and Shareholder Benefits
+Section 174 deals with employee and partner allowances for expenses incurred by an employee or partner and deems the person paying the allowance to have received a supply and to have paid tax. This is in order for the person to be entitled to an input tax credit under section 169 in respect of the allowance, to the extent that it was paid in the course of commercial activities of the person. The existing section applies only to allowances that are considered “reasonable” for income tax purposes. Since, in the case of employees, the determination of the “reasonableness” of the allowance is ultimately not made until the employee determines his or her income at the end of the taxation year, the employer paying the allowance could be in a position of having an input tax credit, which was previously claimed in respect of what was thought to be a reasonable allowance, denied as a consequence of the employee subsequently treating it as unreasonable for income tax purposes. This would most often occur where the employee regarded the allowance as not being sufficient to cover the actual expenses for which the allowance was paid — i.e., an unreasonably low allowance.
+The amendment to section 174 addresses this problem by providing that a person's entitlement to an input tax credit or rebate in respect of an allowance is based on whether, at the time the allowance is paid, it is reasonable for the person to consider the allowance to be reasonable for income tax purposes (or, in the case of an allowance paid to a partner, to be reasonable for income tax purposes if the partner were, instead, an employee).
+This amendment implements changes announced in the press releases of March 27, 1991, September 14, 1992 and December 9, 1992 and is effective January 1, 1991.
+Section 253(1) and (2): Employee and Partner Rebates
+The most important modification to subsection 253(1) is the introduction of a requirement for a certification in respect of allowances paid to employees or members of partnerships. Specifically, amended subsection 253(1) provides that an employee is not entitled to a rebate under this subsection in respect of expenses for which the employee has received an allowance unless the employee has obtained a certification from the person paying the allowance that the person did not consider, at the time the allowance was paid, the allowance to be a reasonable allowance for the purposes of subparagraph 6(1)(b)(v)(vi), (vii) or (vii.1) of the Income Tax Act.
+. . .
+This amendment is consequential to amendments to section 174, whereby persons are deemed to have paid tax, and hence are entitled to an input tax credit or rebate in respect of an allowance based on whether, at the time the allowance was paid, the person considered the amount to be reasonable for income tax purposes. The amendment to subsection 253(1) will therefore ensure that a rebate will not be paid to an employee or partner, if the employer or partnership is entitled to an input tax credit or rebate in respect of the same expense.
+This amendment was announced in the press releases of September 14, 1992 and December 9, 1992. Certifications in respect of allowances will be required for rebates claimed in respect of the 1992 and subsequent taxation years. The certification will appear on the rebate application form.
+Subsection 253(1) is also amended to replace the existing reference therein to an “automobile” with a reference to a “motor vehicle”. This change ensures consistency with paragraph 8(1)(j) of the Income Tax Act, which was recently amended to refer to a “motor vehicle” rather than an “automobile”. This change was announced in the press release of March 27, 1991.
+[My emphasis.]
+[27] Although one could argue that subparagraph 6(1)(b)(x) of the ITA does not apply for the purposes of 174(c) of the ETA on the basis that paragraph 174(c) does not explicitly refer to it, I believe that the better view is that it does apply. Therefore, subparagraph 6(1)(b)(x) has to be taken into account to determine what constitutes a reasonable allowance for the purposes of subparagraph 6(1)(b)(v) of the ITA. I do not see any reason to exclude its application. On the contrary, I see many reasons in favour of its being applicable. For IDF to be able to claim ITCs for car allowances under section 174 of the ETA, the allowances must be reasonable under subparagraph 6(1)(b)(v) of the ITA. Subparagraph 6(1)(b)(x) of the ITA deems an otherwise reasonable allowance under subparagraph 6(1)(b)(v) to be unreasonable if the measurement of the use of the vehicle is not based solely on the number of kilometres for which it was used.
+[28] In my view, it makes sense to take into account subparagraph 6(1)(b)(x) in applying subparagraph 6(1)(b)(v) of the ITA for the purposes of section 174 of the ETA. It results in a more harmonious application of those two Acts, which can be illustrated as follows in this particular case. Given that under the ITA, IDF sales representatives would have to include the car allowance in their income because it was not a reasonable one as a result of the application of subparagraph 6(1)(b)(x) of the ITA, IDF could deduct the allowance under paragraph 18(1)(r) of the ITA because it was included in the IDF representatives’ income from employment. Those representatives would normally deduct their car expenses under paragraph 8(1)(f) of the ITA[9] and claim the GST rebate under section 253 of the ETA. In that situation, the GST “credit” (i.e., ITC or rebate) is claimed by the person who deducts the car expenses. This is a logical result. Indeed, if one were to adopt the view taken by IDF, the odd result would be that IDF could claim the ITCs and the representatives could not, although they are the ones who would be deducting the car expenses. This would be so because IDF could not give the certification that is required by section 253 of the ETA in order for the representatives to be entitled to claim the GST rebate. The certification mechanism described in section 253 of the ETA prevents the employer and the employee from each getting ITCs and the rebate for the same expenses.[10]
+[29] Having concluded that the proper interpretation of paragraph 174(c) of the ETA requires that a determination of what constitutes a reasonable allowance under subparagraph 6(1)(b)(v) of the ITA must take into account the provisions of subparagraph 6(1)(b)(x) of the ITA as interpreted by the Federal Court of appeal in Beauport, and that the allowances paid by IDF were not determined by taking into account solely the number of kilometres for which the representatives used their cars, the inescapable consequence is, unfortunately for IDF, that the requirements of section 174 have not been met. As stated by Mr. Justice Noël in Beauport, at paragraph 17, an allowance based on an estimate of the kilometres “is precisely the type of calculation that was excluded when subparagraph 6(1)(b)(x) was adopted[11]”. In order for the determination made by IDF (that the allowance was a reasonable allowance at the time it was paid) to be reasonable, it had to be made in conformity with subparagraph 6(1)(b)(v), taking into account the deeming rule of subparagraph 6(1)(b)(x) of the ITA. The purpose of enabling an employer, under paragraph 174(c) of the ETA, to determine what is reasonable at the time of the payment is not to give the employer the power to define the legal concept of “reasonable allowance” but to give it the flexibility to conclude at that time (here, every two weeks), after taking into account all the adjustments made in the course of the year, including those at the end of the year, that the allowance will meet the legal definition of “reasonable allowance”.[12]
+[30] For all of these reasons, the appeal by IDF is dismissed and costs are awarded to the respondent.
+Signed this 17th day of January 2013.
+“Pierre Archambault”
+Archambault J.
+CITATION: 2013 TCC 15
+COURT FILE NO.: 2010-1002(GST)G
+STYLE OF CAUSE: I-D Foods corporation v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Montreal, Quebec
+DATE OF HEARING: November 13, 2012
+REASONS FOR JUDGMENT BY: The Honourable Justice Pierre Archambault
+DATE OF JUDGMENT: January 17th, 2013
+APPEARANCES:
+Counsel for the Appellant:
+Aaron Rodgers
+Counsel for the Respondent:
+Brigitte Landry
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Aaron Rodgers
+Firm: Garfinkle Nelson-Wiseman
+Montreal, Quebec
+For the Respondent: William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] The factual basis for this argument was not established during the hearing.
+[2] See note 1.
+[3] In the Reply to the Notice of Appeal, the respondent refers to subparagraph 6(1)(b)(vii.1) of the ITA, which applies to employees other than those employed in connection with the selling of property, the latter being covered by subparagraph 6(1)(b)(v). In my view, it is the latter subparagraph which is applicable here, given that the sales representatives were involved in selling IDF’s food products.
+[4] This counsel took a slightly different point of view in his written submissions dated January 7, 2013.
+[5] This paragraph has been cited with approval in other decisions of this Court, including Cat Bros. Oilfield Construction Ltd. v. M.N.R., 2010 TCC 287, at paragraph 57, and Melville Motors Ltd. v. The Queen, 2003 TCC 444, [2003] G.S.T.C. 128, at paragraph 9. However, it should be noted that Cat Bros. was a decision under the Employment Insurance Act, as was the decision of the Federal Court of Appeal in Beauport supra.
+[6] See also Michael Matthews, '' What's that factor? Employees expenses'', in 2002 Commodity Tax Symposium, Ottawa, September and October 2002, p. 15 and 16.
+[7] In particular, see paragraphs (d) and (e) of element B of the formula in subsection 253(1) of the ETA.
+[8] The following is the purpose of the explanatory notes (to Bill C-112, February 11, 1993) as disclosed by the Department of Finance:
+These explanatory notes are provided to assist in an understanding of the proposed amendments to the Excise Tax Act, the Access to Information Act, the Canada Pension Plan, the Customs Act, the Federal Court Act, the Income Tax Act, the Tax Court of Canada Act, the Tax Rebate Discounting Act, the Unemployment Insurance Act and a related Act. These notes are intended for information purposes only and should not be construed as an official interpretation of the provisions they describe.
+[9] Paragraph 8(1)(f) of the ITA reads as follows:
+Deductions
+8. (1) Deductions allowed — In computing a taxpayer’s income for a taxation year from an office or employment, there may be deducted such of the following amounts as are wholly applicable to that source or such part of the following amounts as may reasonably be regarded as applicable thereto:
+(f) Sales expenses — where the taxpayer was employed in the year in connection with the selling of property or negotiating of contracts for the taxpayer’s employer . . .
+[10] For an example of a similar approach in another factual and legal context see Le Groupe Commerce Compagnie d'Assurances v. The Queen, 99 DTC 5491 (FCA), 96 DTC 1958 (TCC).
+[11] It was added by S.C. 1988, c. 55, s. 1(3), applicable to the 1988 and subsequent taxation years.
+[12] That is the administrative policy followed by the Minister. See, for instance, IT-522 R, paragraph 44. It is also the interpretation adopted by the courts. See also Tri-Bec, supra, paragraphs 20 and 21.

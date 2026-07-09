@@ -1,0 +1,145 @@
+---
+title: "Gramaglia c. MRHDSC"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28227/index.do"
+last_modified: "2006-12-13"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 CCI 218"
+citation2: ""
+neutral_citation: "2007 CCI 218"
+decision_date: "2006-12-13"
+language: "fr"
+item_id: "28227"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2074
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T23:28:45.866000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "04ef5948d132719f5d96c49c3d61911a8c2b60199adf8f71d58f623f03347134"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Gramaglia c. MRHDSC
+
+- Citation: 2007 CCI 218
+- Decision date: 2006-12-13
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2074, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Gramaglia c. MRHDSC
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-12-13
+Référence neutre
+2007 CCI 218
+Numéro de dossier
+2006-1183(OAS)
+Juges et Officiers taxateurs
+David W. Beaubier
+Sujets
+Loi sur la sécurité de la vieillesse
+Régime de pensions du Canada
+Contenu de la décision
+Référence : 2007CCI218
+Date : 20070420
+Dossier : 2006-1183(OAS)
+ENTRE :
+SALVATORE GRAMAGLIA,
+requérant,
+et
+CANADA (MINISTRE des Ressources humaines et du Développement social),
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+(Rendus oralement à l’audience, le 6 mars 2007, à Calgary (Alberta).)
+Le juge Beaubier
+[1] Le présent renvoi, effectué en vertu de l’article 18 de la Loi sur la sécurité de la vieillesse par le Commissaire des tribunaux de révision, porte sur la détermination du revenu de l’appelant, conformément au paragraphe 28(2) de la Loi sur la sécurité de la vieillesse. L’appelant était le seul témoin.
+[2] Trois questions que devait trancher la Cour ont été soulevées lors de l’audience :
+1. La Charte – Toutefois, l’appelant n’avait pas signifié les avis voulus aux tiers pour pouvoir soulever l’argument fondé sur la Charte, si bien que la Cour a refusé une argumentation sur ce point.
+2. Le fait que la réponse a été déposée devant la Cour le 27 février 2007 et signifiée à l’appelant dans la période allant du 27 février au 2 mars – Les Règles ne fixent pas de limite de temps pour déposer ou signifier la réponse dans ce cas. En réponse à l’objection de l’appelant, la Cour lui a proposé un ajournement de 24 heures, vu que, quand il a soulevé l’objection, l’appelant avait étudié à fond les questions et les implications légales liées à cette question. L’appelant a choisi d’aller de l’avant.
+3. Le fait qu’il s’agit d’un renvoi par le tribunal et que l’appelant n’a pas eu d’audience devant le tribunal avant la présente audience – Cette objection a été rejetée, vu que le renvoi a été effectué conformément aux dispositions et aux instructions législatives applicables.
+[3] Les paragraphes 15 et 16 de la réponse sont rédigés ainsi :
+[TRADUCTION]
+Hypothèses retenues
+15. Dans le calcul des prestations du SRG de l’appelant, le ministre s’est fondé sur les hypothèses de fait suivantes :
+a) L’appelant réside au Canada;
+b) L’appelant est célibataire;
+c) Quand il a fait la demande de Supplément de revenu garanti, l’appelant :
+i) A déclaré que son revenu pour 2004 était de 1 716 $, montant touché grâce à sa pension d’invalidité d’Allemagne,
+ii) N’a pas déclaré le montant de 800 $ lié à son revenu de REER (Régime d’accession à la propriété);
+d) Le revenu de l’appelant pour 2004, selon la Loi de l’impôt sur le revenu, était de 2 516 $, soit le total des montants suivants :
+i) 1 716 $ de sa pension d’invalidité d’Allemagne, conformément au sous-alinéa 56(1)a)(i) de la Loi de l’impôt sur le revenu;
+ii) 800 $ de revenu de REER (Régime d’accession à la propriété), conformément au paragraphe 146.01(4) et à l’alinéa 56(1)h.1) de la Loi de l’impôt sur le revenu;
+e) En ce qui concerne le revenu de REER (Régime d’accession à la propriété) de l’appelant :
+i) Le 10 mai 1993, l’appelant a emprunté 12 000 $ à son REER, au titre du Régime d’accession à la propriété, afin d’acheter une maison;
+ii) Selon les modalités du Régime d’accession à la propriété, l’appelant était tenu de remettre 800 $ par an dans son REER pendant 15 ans;
+iii) En 2004, l’appelant a failli à cette obligation de payer 800 $ et n’a versé aucune somme dans son REER;
+f) Le revenu de l’appelant pour 2004 était en fait de 2 516 $, ce qui lui donnait droit à 489,97 $ de SRG par mois, comme l’indiquent les annexes A et B jointes à la présente réponse;
+g) Ce montant auquel l’appelant a droit au titre du SRG repose sur les montants alloués à une personne célibataire.
+B. Questions à trancher
+16. Il faut décider :
+a) Si, à la demande du tribunal de révision, la Cour canadienne de l’impôt a accepté que lui soit renvoyé l’appel par l’appelant de la décision du ministre en date du 9 juin 2006, en vertu du paragraphe 28(2) de la Loi sur la SV;
+b) Si le ministre a bien déterminé le revenu de l’appelant en vue du calcul de ses droits au SRG durant la période de paiement et, notamment, s’il a eu raison d’inclure comme revenu dans ce calcul :
+i) La pension d’invalidité d’Allemagne de l’appelant, d’un montant de 1 716 $;
+ii) Selon la réponse apportée à la question a) ci‑dessus, le revenu de REER au titre du Régime d’accession à la propriété, d’un montant de 800 $.
+[4] Les alinéas 15a), c), d), e) et f) ont été établis en preuve. L’appelant ne conteste pas les alinéas 15b) et g).
+[5] La Cour a reçu le renvoi du présent appel de la décision du ministre du 9 juin 2006 et en a avisé les parties. L’appelant a déposé des documents ayant trait à l’appel en vue de la présente audience, comme l’avait fait l’intimé.
+[6] L’appelant fait appel de l’inclusion dans son « revenu » de sa pension d’invalidité d’Allemagne, pour le calcul de son Supplément de revenu garanti et de sa Sécurité de la vieillesse au titre de la Loi sur la Sécurité de la vieillesse. Or,
+1. L’inclusion de ce montant dans le « revenu » de l’appelant est stipulée par l’article 2 de la Loi sur la sécurité de la vieillesse et par l’alinéa 56(1)a) de la Loi de l’impôt sur le revenu et confirmée par les arrêts suivants de la Cour d’appel fédérale et de la Cour suprême du Canada, directement applicables à la présente affaire : Swantje v. Canada, [1994] 2 C.T.C. 382 et [1996] 1 C.T.C. 355.
+2. L’appel est donc rejeté sur ce point.
+[7] La somme de 800 $ que l’appelant devait verser dans son REER en 2004, ce qu’il n’a pas fait, doit également être incluse dans son revenu, en vertu des instructions de calcul fournies au paragraphe 146.01(4) de la Loi de l’impôt sur le revenu. Pour simplifier, résumons ainsi le principe dudit paragraphe : quand l’appelant a contribué à son REER, il a pu réduire son revenu imposable; quand il a retiré des montants de son REER pour acheter une maison, il n’a pas été imposé; mais ces montants restent imposables à un moment ou à un autre. Ce moment se présente pour l’appelant en 2004 : il doit des impôts sur le montant qu’il était censé remettre dans son REER, ce qu’il n’a pas fait.
+[8] Conséquemment, l’appel est rejeté dans son intégralité.
+Signé à Vancouver (Colombie-Britannique), ce 20e jour d’avril 2007.
+« D. W. Beaubier »
+Juge Beaubier
+Traduction certifiée conforme
+ce 17e jour de janvier 2008
+Aleksandra Koziorowska, LL.B.
+RÉFÉRENCE :
+2007CCI218
+NO DU DOSSIER :
+2006-1183(OAS)
+INTITULÉ :
+Salvatore Gramaglia c. Canada
+(ministre des Ressources humaines et du Développement social)
+LIEU DE L’AUDIENCE :
+Calgary (Alberta)
+DATE DE L’AUDIENCE :
+Le 5 mars 2007
+MOTIFS DU JUGEMENT RENDUS ORALEMENT PAR :
+L’honorable juge Beaubier
+Date des motifs de jugement rendus oralement :
+Le 20 avril 2007
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimé :
+Me Belinda Schmidt
+AVOCAT INSCRIT AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimé :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

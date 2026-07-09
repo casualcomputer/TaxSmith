@@ -1,0 +1,185 @@
+Title: Alta Mura Construction Inc. v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/25098/index.do
+Corpus path: corpus/cases/tcc/2003/2003-tcc-465-25098-alta-mura-construction-inc-v-the-queen-en.md
+Document type: case_law
+Last modified: 2003-07-03
+
+# Alta Mura Construction Inc. v. The Queen
+
+- Citation: 2003 TCC 465
+- Decision date: 2003-07-03
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2507, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Alta Mura Construction Inc. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-07-03
+Neutral citation
+2003 TCC 465
+File numbers
+2000-2551(IT)I
+Judges and Taxing Officers
+Louise Lamarre Proulx
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2000‑2551(IT)I
+BETWEEN:
+ALTA MURA CONSTRUCTION INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard on common evidence with the appeals of
+Marcel Picard (2000‑3079(IT)I) on June 13 and
+September 10, 2002, and February 7, 2003, at Québec, Quebec,
+and final written submissions received at Ottawa, Ontario, on April 9, 2003
+Before: The Honourable Judge Louise Lamarre Proulx
+Appearances:
+Counsel for the Appellant:
+France Bonsaint
+Counsel for the Respondent:
+Stéphanie Côté
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 1993 taxation year is dismissed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 3rd day of July 2003.
+"Louise Lamarre Proulx"
+Judge Lamarre Proulx
+Docket: 2000‑3079(IT)I
+BETWEEN:
+MARCEL PICARD,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeals heard on common evidence with the appeal of
+Alta Mura Construction Inc. (2000‑2551(IT)I) on June 13 and
+September 10, 2002, and February 7, 2003, at Québec, Quebec,
+and final written submissions received at Ottawa, Ontario, on April 9, 2003
+Before: The Honourable Judge Louise Lamarre Proulx
+Appearances:
+Counsel for the Appellant:
+France Bonsaint
+Counsel for the Respondent:
+Stéphanie Côté
+JUDGMENT
+The appeals from the assessments made under the Income Tax Act for the 1992 and 1993 taxation years are dismissed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 3rd day of July 2003.
+"Louise Lamarre Proulx"
+Judge Lamarre Proulx
+Citation: 2003TCC465
+Date: 20030703
+Docket: 2000‑2551(IT)I
+BETWEEN:
+ALTA MURA CONSTRUCTION INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+and
+Docket: 2000‑3079(IT)I
+BETWEEN:
+MARCEL PICARD,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Lamarre Proulx, J.
+[1] These appeals were heard on common evidence. The case concerns amounts totalling $30,000 received from an individual for the construction of a garage. The taxation years in issue are 1992 and 1993. Those amounts were added to the income of the appellant Alta Mura as business income. An amount of $24,947 was added to the income of the appellant Marcel Picard as a taxable benefit. The Minister of National Revenue (the "Minister") assessed the two appellants the penalty provided for in subsection 163(2) of the Income Tax Act (the "Act").
+[2] It is admitted that those amounts involve the construction of a garage. However, the appellants claimed that the sums were recorded as shareholders' advances of another corporation because the cash used to pay certain subcontractors came from that corporation and the subcontractors had been paid on behalf of the owner of the garage, not on behalf of Alta Mura.
+[3] The point for determination is thus whether those amounts should have been included in Alta Mura's calculation, whether the same amounts should have been considered as appropriated by the appellant Mr. Picard and whether, in both cases, the penalty was correctly assessed.
+[4] The facts stated in the Notice of Appeal of the appellant Alta Mura are stated in paragraphs 2 to 8:
+[TRANSLATION]
+2. In 1992 and 1993, Alta Mura Construction Inc. undertook to manage the construction of a garage at Jacques Doyon's private residence.
+3. At the time, Jacques Doyon and Alta Mura Construction Inc. had agreed that this company alone would manage the project. Moreover, Jacques Doyon undertook to pay directly the subcontractors and suppliers called upon to work on the garage construction project.
+4. At the time the construction work was performed, 173672 Canada Inc., of which Marcel Picard, a shareholder of Alta Mura Construction Inc., is also a shareholder, advanced various amounts of money to Jacques Doyon on numerous occasions for the payment of the fees and expenses of the subcontractors and suppliers.
+5. More particularly, that company advanced amounts totalling approximately $30,000 to Jacques Doyon.
+6. Jacques Doyon subsequently repaid 173672 Canada Inc., by various means, the amounts advanced to him when the garage at his residence was being built.
+7. The amounts thus repaid by Jacques Doyon were paid to 173672 Canada Inc. by means of cheques payable to cash. Those cheques were moreover deposited to the account of 173672 Canada Inc., all of which will be more amply shown at the hearing of this appeal.
+8. In summary:
+— advances were made to Jacques Doyon by 173672 Canada Inc.;
+— Jacques Doyon repaid those advances to 173672 Canada Inc.
+[5] The facts on which the Minister relied in the case concerning the appellant Alta Mura Construction Inc. are described in paragraph 13 of the Reply to the Notice of Appeal (the "Reply"):
+[TRANSLATION]
+(a) Alta Mura Construction Inc. was incorporated on July 14, 1987;
+(b) The appellant operates a construction business;
+(c) The appellant's fiscal year for the year in issue commenced on July 1, 1992, and ended on June 30, 1993;
+(d) According to the information entered in the appellant's federal income tax return for the 1993 taxation year, its shareholders were: Marcel Picard, who held 93 percent of voting shares, and Raymond Picard, who held the remaining 7 percent;
+(e) Marcel Picard is also the principal shareholder of 173672 Canada Inc. (hereinafter the "corporation");
+(f) The appellant and the corporation are related corporations operating in St‑Georges de Beauce;
+(g) The appellant bid on a contract to build a garage at the personal residence of Jacques Doyon located on Promenade Sartigan in St‑Georges de Beauce;
+(h) The appellant won the contract and performed the said work for $58,143, including GST and QST;
+(i) That amount was paid by means of a cheque for $28,143 made out to "Alta Mura Construction", the appellant, and three cheques of $10,000 each;
+(j) The three cheques were cashed as follows:
+Deposit date
+Cheque amt.
+Deposit amt.
+Folio #
+12/23/92
+$10,000
+$10,000
+8180
+01/07/93
+$10,000
+$10,000
+8180
+02/19/93
+$10,000
+$ 5,000
+8180
+(k) Folio 8180 belongs to 173672 Canada Inc.;
+(l) The cheques dated 12/23/92 and 01/07/93 were endorsed by Jacques Doyon and countersigned to the account number of 173672 Canada Inc.;
+(m) Marcel Picard countersigned the cheque dated 02/19/93 and withdrew $5,000 in cash to deposit only $5,000 in the corporation's account;
+(n) The payer was "Les Entreprises Huard et Doyon Inc." and the amounts paid were posted to advances to shareholders in that corporation's books;
+(o) For the recipient, the three cheques for $10,000 each were posted partially ($25,000) to the "Shareholders' Advances" account of 173672 Canada Inc., and the difference of $5,000 was withdrawn in cash and is not recorded in the corporation's books;
+(p) The amount of $30,000 was not included in the corporation's income;
+(q) The amount of $30,000 was not reported by the appellant as business income despite the fact that it had won the contract and performed the work at Jacques Doyon's residence;
+[6] With respect to Alta Mura, counsel for the appellants made certain admissions and denials. She admitted subparagraphs 13(a) to (e); denied subparagraph 13(f); admitted subparagraph 13(g); denied subparagraph 13(h) because the total value of the work was greater than $58,143; denied subparagraph 13(i) for the same reason; admitted subparagraphs 13(j) and (k); denied subparagraph 13(l) because the cheques were purportedly not countersigned to the bank account of 173672 Canada Inc.; admitted subparagraph 13(m); denied subparagraph 13(n); admitted subparagraph 13(o) partially, except the final part, which states: [TRANSLATION] "is not recorded in the corporation's books", which she denied; admitted subparagraph 13(p) to the extent that the corporation referred to is the appellant, not 173672 Canada Inc.; and denied subparagraph 13(q) because the $30,000 was not income of Alta Mura.
+[7] The Notice of Appeal and Reply for the appellant Marcel Picard describe identical facts, except that they concern the appropriation of the amount not reported by the appellant Alta Mura and posted to the "Shareholders' Advances" account of 173672 Canada Inc.
+[8] The appellant Marcel Picard testified. He is the president of the appellant. The appellant is a construction business. During the years in issue, it had a bank account at the St‑Côme en Beauce Caisse populaire, the number of which was 8515.
+[9] In the years in issue, Mr. Picard was a shareholder of another corporation, 173672 Canada Inc., a clothing store. That corporation's bank was also the St‑Côme Caisse populaire. Its account number was 8180.
+[10] A document book containing 19 tabs was filed as Exhibit A‑1. Tab 1 contains a bid dated September 18, 1992, made to Jacques Doyon by the appellant to build a garage at his residence in accordance with the plans and specifications. The price is $108,383. Mr. Doyon purportedly considered the cost too high. He requested another bid on the basis of new plans involving a structure made of steel rather than concrete. The second bid is dated October 26, 1992, and the proposed price was $89,600.
+[11] Mr. Picard then explained a complicated plan whereby Mr. Doyon apparently asked him to perform certain work. For certain other work, he said he had retained the right to choose subcontractors or workers. However, Mr. Picard managed the project in all respects.
+[12] The work began in early November. Tab 11 of Exhibit A‑1 contains a list of cheques of folio 8515, showing notations such as "UL" and "JD". Those are Mr. Picard's notations. "JD" means Jacques Doyon and "UL" means Université Laval. The invoices marked JD total $50,102. They were included in computing the income of the appellant Alta Mura. It should be noted here that no specific statement of the costs of the garage's construction was submitted to the Court.
+[13] Tab 12 contains the breakdown of the amounts paid in cash to the subcontractors purportedly hired by Jacques Doyon, according to Mr. Picard's statement. These are not invoices but rather notes made by Mr. Picard following the audit by tax authorities.
+[14] Tab 15 of Exhibit A‑1 contains the statement of bank account 8180 of 173672 Canada Inc. It shows cash withdrawals in the amount of $7,000 on November 9 and a further withdrawal of $20,000 on December 18. According to Mr. Picard, that cash was used to pay the subcontractors. There is no indication of the tax treatment of those amounts in the corporation's books.
+[15] According to Mr. Picard, those subcontractors should have been paid by Mr. Doyon himself but he was the one who paid them with amounts taken from the account of 173672 Canada Inc. Mr. Doyon was slow in paying and the subcontractors started pressing him. He felt responsible for paying the subcontractors because, as he explained, he ultimately represented the owner.
+[16] At the end of November, Mr. Doyon told him that he wanted some work to be done at the Dunkin Donuts restaurant on Boulevard Lacroix in St‑Georges. He asked him to come to the premises to show him the work to be done and asked him for an estimate of the cost of the work. Mr. Picard purportedly estimated the work at $28,000, plus taxes. He gave the price orally around December 5, 1992, and Mr. Doyon told him that he would start the work around December 14.
+[17] Mr. Doyon called him on or around December 8 or 9, 1992, telling him that the work would be done the following year but that he would appreciate it if Mr. Picard would prepare him an invoice now. Tab 3 contains that invoice. It is dated December 9, 1992, is in Alta Mura's name and concerns the "Dunkin Donuts Expansion" project. The invoice states that the work was performed for the agreed upon price of $28,459, plus taxes, for a total of $31,669.20.
+[18] Mr. Picard explained that he had prepared that invoice even though the work had not begun because Mr. Doyon had asked him to do so. He understood that the fiscal year-end at Dunkin Donuts was December 31, 1992, and that that invoice would make it possible to take a capital cost allowance.
+[19] Mr. Picard said that he had prepared that invoice at the same time as those of the garage. Tabs 16 and 17 contain two invoices from Alta Mura for Jacques Doyon's garage. They are dated December 10, 1992. One invoice is for $41,633.19 and the other is for $1,669.20. The second invoice was for rock excavation, as agreed upon.
+[20] Tab 5 contains a cheque dated December 12, 1992, for $31,669.20 from Gestion Huard et Doyon Inc. paid to Alta Mura Construction Inc. The amount corresponded to the amount of the purportedly fictitious invoice shown at tab 3. Mr. Picard purportedly told Mr. Doyon: [TRANSLATION] "The work isn't done; I've come to pick up a payment of $44,000." The cheque for $31,669 was nevertheless deposited to the account of the appellant Alta Mura on December 12, 1992.
+[21] Tab 7 contains a cheque dated December 22, 1992, made out by Les Entreprises Doyon et Huard to Jacques Doyon for $10,000. The endorsement on the cheque shows account 8180 as the beneficiary and the amount was deposited to that account. Tabs 8 and 9 contain the same type of cheque and endorsement. Only the dates are different; they are January 6 and February 19, 1993.
+[22] Mr. Picard explained that those amounts were deposited to account 8180 because he had made advances to that corporation and had advanced approximately $27,000 to Mr. Doyon to pay the subcontractors.
+[23] Tab 6 includes a cheque dated February 19, 1993, written to the order of the appellant Alta Mura for $28,145.54 by Les Entreprises Doyon et Huard.
+[24] It should be noted that, if all the cheques prepared by Les Entreprises Doyon et Huard are added together, they come to a total of nearly $89,600, the price agreed upon in the second bid.
+[25] Mr. Picard said he had never done the work at the Dunkin Donuts restaurant.
+[26] In cross-examination, Mr. Picard said he had paid subcontractors $28,000 and had not kept copies of the invoices because he had handed them over to Mr. Doyon for him to pay. He said he had completed the list of subcontractors appearing in tab 12 in 1996.
+[27] The witness of the respondent was Alain Gingras, a financial management officer with Revenu Québec. Exhibit I‑1 is his audit report. That audit began after another audit that he had conducted of the Dunkin Donuts business. He realized that three cheques had been made out to Mr. Doyon but signed over to another person or another bank account not belonging to him. Mr. Doyon said that person was Mr. Picard. The audit at Mr. Doyon's was conducted in the summer of 1994 and that at Mr. Picard's was conducted in the summer of 1995.
+[28] According to the auditor, all the payments concerned the construction of the garage. The $30,000 amount was added to Alta Mura's income for the period ending on June 30, 1993. Since that amount had been posted to the "Advances" account of 173672 Canada Inc., the auditor included the amount as a shareholder benefit in computing Mr. Picard's income. The auditor said it was an appropriation of funds.
+[29] The auditor sent the draft assessments. On the submissions of Mr. Picard and his accountant, he asked that documentation or proof of expenses against the $30,000 be sent to him. Mr. Picard did not provide that evidence. He said he had not kept the money for himself, but he was unable to prove to whom he had given it. The amounts paid in cash appearing in tab 12 were not traced by the auditor.
+Conclusion
+[30] It is impossible to understand why Mr. Picard would have paid subcontractors or workers hired by Mr. Doyon, especially without any means of proving that he did so. Nor is it possible to understand why the money needed to pay those subcontractors or workers came from 173672 Canada Inc., when that corporation was not in construction and was not the corporation that had the garage construction contract. The only plausible explanation is that Mr. Picard wanted to hide the income.
+[31] It must be noted that, if the investigation had not been conducted at Mr. Doyon's premises, Mr. Picard would never have reported or declared the $30,000 deposited to the bank account of 173672 Canada Inc.
+[32] The entries concerning the shareholders' advances account of 173672 Canada Inc. were not introduced. The evidence is also silent as to the tax treatment of those alleged withdrawals to pay Mr. Doyon's subcontractors or workers. It should be noted here that no financial statement either of the appellant Alta Mura or that corporation were filed in evidence. One accountant in fact testified at the request of counsel for the appellants, but her testimony consisted of general remarks on advances to shareholders' accounts, not on the specific account at issue in these appeals.
+[33] Counsel for the appellants referred to cash. There is no evidence that the appellant Alta Mura was short of cash. It had just received a number of cheques from Mr. Doyon. She also stated that the three $10,000 cheques were deposited to Mr. Picard's "Advances" account to offset the amounts of cash paid to the subcontractors. However, as noted above, the tax treatment of those withdrawals purportedly made in order to pay the subcontractors was not explained. It is not known under what item those withdrawals were posted or how the "Shareholders' Advances" account was calculated.
+[34] I have no evidence that the amounts referred to in tab 12 of Exhibit A‑1 as payments made to subcontractors were in fact paid. There was no written agreement on the subject between Mr. Doyon and Mr. Picard. Mr. Doyon, who came and testified at the request of counsel for the respondent, did not at all corroborate that alleged agreement. Those to whom these amounts of money were purportedly remitted did not appear in Court either. Counsel for the appellants stated that it was unreasonable not to allow the deduction of the amounts referred to in tab 12 of Exhibit A‑1 because the appellant Alta Mura could not have made a profit of that size. This is impossible to determine in the absence of accounting records showing the costs specific to Alta Mura's various projects.
+[35] The appellants admitted that the $30,000 had been received in respect of the construction of the garage. Therefore, that amount had to be taken into account by the appellant Alta Mura, which is in the construction business.
+[36] The Minister included the sum of $24,947, not $30,000, in Mr. Picard's income when it accepted the assessment of the facts made by the Court of Quebec in an appeal involving the same facts put before this Court.
+[37] I find that there is no valid evidence enabling me to vary the Minister's assessment with respect to benefits to a shareholder. The appellant Mr. Picard adduced no evidence contrary to the Minister's position that he had appropriated the amounts in question.
+[38] As to the penalties assessed under subsection 163(2) of the Act, I believe there is sufficient evidence of concealment in this case for them to be warranted.
+[39] The appeals are accordingly dismissed.
+Signed at Ottawa, Canada, this 3rd day of July 2003.
+"Louise Lamarre Proulx"
+Judge Lamarre Proulx

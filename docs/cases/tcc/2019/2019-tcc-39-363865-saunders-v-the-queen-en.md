@@ -1,0 +1,242 @@
+---
+title: "Saunders v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/363865/index.do"
+last_modified: "2019-02-20"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2019 TCC 39"
+citation2: ""
+neutral_citation: "2019 TCC 39"
+decision_date: "2019-02-20"
+language: "en"
+item_id: "363865"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4358
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T12:19:42.945000+00:00"
+cases_cited_count: 4
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "09b670fb214e90d9b714c2e94a5026aaa8af9967946c41ba97a62176daf1a065"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Saunders v. The Queen
+
+- Citation: 2019 TCC 39
+- Decision date: 2019-02-20
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4358, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Saunders v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2019-02-20
+Neutral citation
+2019 TCC 39
+File numbers
+2016-3364(IT)I
+Judges and Taxing Officers
+Steven K. D'Arcy
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2016-3364(IT)I
+BETWEEN:
+ERIK SAUNDERS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on May 11, 2017 at Kamloops, British Columbia and on December 7, 2018 at Vancouver, British Columbia
+Before: The Honourable Justice Steven K. D’Arcy
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Mary Softley
+Natasha Wallace
+P. Mahil Pandher
+JUDGMENT
+In accordance with the attached Reasons for Judgment:
+The appeal with respect to a reassessment made under the Income Tax Act for the Appellant’s 2011 taxation year is dismissed, without costs.
+Signed at Ottawa, Canada, this 20th day of February 2019.
+“S. D’Arcy”
+D’Arcy J.
+Citation: 2019 TCC 39
+Date: 20190220
+Docket: 2016-3364(IT)I
+BETWEEN:
+ERIK SAUNDERS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+D’Arcy J.
+[1] The Appellant has appealed the Minister’s assessment of a subsection 163(2) gross negligence penalty, which the Minister levied because the Appellant claimed, in his income tax return for the 2011 taxation year, a fictitious business loss and a fictitious net capital loss.
+[2] An entity called DeMara Consulting Inc. (“DeMara”) prepared the Appellant’s 2011 income tax return. The principals of DeMara were criminally convicted for their actions in preparing income tax returns for a number of taxpayers. Over 200 of these taxpayers have appealed assessments to the Court.
+[3] It is my understanding that this is the first of such appeals to be heard by the Court. I heard the appeal under the Court’s informal appeal process.
+I. Summary of Facts
+[4] During the relevant years, the Appellant’s primary source of income was from employment as an underground miner. He also operated a farm that he inherited from his father.
+[5] He earned substantial employment income as an underground shift boss. He explained that an underground shift boss’s job is to ensure the safety of the workers, the mine and the mine equipment. He was required to write and pass an exam before receiving his underground shift boss ticket.
+[6] Prior to 2010, a chartered accountant, Mr. Murray Rossworn, prepared the Appellant’s income tax returns. The Appellant testified that each year he drove to Mr. Rossworn’s office and dropped off his receipts and other documents. Once Mr. Rossworn finished preparing the Appellant’s income tax return, the Appellant would return to Mr. Rossworn’s office to review the return. The Appellant described this visit as follows: “we would go in, he’d sit down and show us what we paid – or what I made, what I paid. Showed me a couple of deductions and then we signed on the paper and that was it.” [1]
+[7] The income tax returns prepared by Mr. Rossworn for the Appellant’s 2008 and 2009 taxation years reported the following income:
+- For the 2008 taxation year, total income of $109,413.81 comprised of the following:
+o Employment income of $118,163.81.
+o A farming loss of $8,750.
+o Employment income of $8,736.00.
+o Employment insurance and other benefits of $19,575.
+o RRSP income of $8,955.
+o A farming loss of $12,116.21.
+- For the 2009 taxation year, total income of $25,149.79 comprised of the following:
+[8] At some point in time in 2010, the Appellant heard about DeMara through acquaintances. He heard that DeMara was a tax preparer that was getting tax refunds for people. He met with a representative of DeMara in the fall of 2010. The representative told him that his accountant was not utilizing all “the things” he could utilize in his income tax returns.
+[9] In November 2010, on the advice of DeMara, he applied for a GST business registration number. DeMara informed him that the GST registration number would help them when preparing his income tax returns. The Canada Revenue Agency (the “CRA”) issued the number to him on November 25, 2010. In December 2010, the Appellant signed an authorization form, authorizing DeMara to represent him before the CRA.
+[10] On January 20, 2011, the Appellant and his spouse signed a form authorizing DeMara to prepare their income tax returns. The form contains a consent and waiver, which states, in part, “I also know that [I] am responsible for reviewing my return prior to signing.”
+[11] On April 27, 2011, the Appellant’s 2010 income tax return was filed with the CRA. Demara prepared the income tax return, which reports total income of $0, comprised of the following:
+- Employment income of $74,263.82
+- Other employment income of $121.36
+- RRSP income of $788.64
+- Business loss of $205,978.15
+[12] The Appellant also claimed, in his income tax return, a capital loss of $205,978.
+[13] Attached to the income tax return is a T5 summary entitled Return of Investment Income, which shows the Appellant as the filer of the form. The form is for T5 slips totaling $205,978.15 (the amount claimed as a business loss), all representing interest paid by the Appellant to third parties. The attached T5 slips show that the Appellant purportedly paid the interest to various parties such as CIBC, Telus, Insight Tire and Auto, and American Express.
+[14] Also attached to the income tax return is a T5008 summary, entitled Return of Securities Transactions, which also shows the Appellant as the filer of the form. The attached T5008 slips indicated that the Appellant was the recipient of amounts in respect of security transactions involving the same companies noted in the T5 slips filed with the income tax return.
+[15] On June 13, 2011, the CRA sent a letter to the Appellant, at his home address, asking for information to substantiate the claim in his 2010 income tax return of a business loss of $205,978 and a capital loss of $205,978. The Appellant testified that he went through the letter and then sent it to DeMara. DeMara told him they would “look after it”.
+[16] On June 28, 2011 and June 19, 2011, DeMara, on behalf of the Appellant, filed amended income tax returns for his 2008 and 2009 taxation year respectively. These returns show the same total income as the income reported in the returns prepared by Mr. Rossworn except they add business losses of $85,250.17 and $137,373.22 for the 2008 and 2009 taxation years respectively. The amended income tax returns also report capital losses of $85,250 and $137,373 for the 2008 and 2009 taxation years respectively.
+[17] The 2009 amended income tax return contains a T5 summary, T5 information slips, a T5008 summary and T5008 information slips similar to the ones filed with the 2010 income tax return. The total amount of purported interest equals the business loss claimed of $137,373.22.
+[18] On July 27, 2012, the Appellant received a letter by registered mail informing him that the CRA was denying the business loss of $205,978 and the capital loss of $205,978 claimed in his 2010 income tax return. The letter states that the CRA is now reviewing the business losses and capital losses claimed in the Appellant’s 2008 and 2009 amended income tax returns. The letter concludes by referring to the subsection 163(2) gross negligence penalty and indicates that the CRA is considering levying such a penalty.
+[19] The Appellant testified that he “skimmed through” the letter dated July 27, 2012 before sending it to DeMara.
+[20] On February 22, 2013, the CRA sent a letter to the Appellant, at his home address, stating that the CRA was denying the business losses and capital losses claimed in his 2008 and 2009 amended returns and his 2010 return. The Appellant testified that he probably read the letter before he forwarded it to DeMara. He understood that there was an issue with the income tax returns.
+[21] The Minister subsequently reassessed the Appellant to deny the business losses and capital losses claimed in the income tax returns filed for 2008, 2009 and 2010 and to impose gross negligence penalties. The Appellant subsequently filed an application for an order extending the time within which he may institute an appeal from these assessments. The Court issued an order on October 1, 2015 dismissing the application.
+[22] The evidence before me is that the T5 slips and the T5008 slips filed with the Appellant’s 2008, 2009 and 2010 income tax returns do not represent actual interest paid in the course of a business or the disposition of securities. The amounts noted in the slips are based on personal expenses the Appellant allegedly incurred during the relevant year.
+[23] On June 24, 2013, DeMara filed, on behalf of the Appellant, the Appellant’s 2011 income tax return showing total income of $56,149.03 comprised of the following:
+- employment income of $144,853.82
+- other income of $182.37
+- a loss from farming of $26,181.45
+- a business loss of $62,705.71
+- a capital loss of $62,206
+[24] The statement of business or professional activities filed with his 2011 income tax return states that he carried on a consulting business that realized no revenue and incurred interest expenses of $62,205.71 and legal, accounting and other professional fees of $500.
+[25] The Appellant testified that he never carried on a consulting business and did not incur the loss of $62,205.71.
+[26] Attached to his 2011 income tax return is Schedule 3, which shows that he disposed of bonds, debentures, promissory notes and other similar properties with an adjusted cost base of $62,206.00 for a nil consideration. The name of the issuer of the properties is shown as “T5008 slips”.
+[27] The Appellant testified that he did not dispose of any bonds, debentures, etc. in 2011 and did not incur a capital loss.
+[28] Included with the income tax return is a one-page document entitled “DeMara Consulting, DeMara Safeguard Shield Association”. It is addressed to the Canada Revenue Agency, Re: Erik Saunders and states the following:
+. . .
+This is a Courtesy Notice to inform the recipient of a contract that exists between DeMara Safeguard Shield Association and its members; and Canada Revenue Agency (CRA-ARC). The Contact can be view[ed] online at doc.DeMara.org/Vgqax0.
+The contract outlines CRA-ARC obligations to process the attached as filed as indicated in the contract. Failure to comply will result in breach of contract, and penalties as per fee schedule.
+. . .
+[29] On the same day DeMara filed the Appellant’s 2011 income tax return, it filed with the CRA a T5 summary, T5 slips, a T5008 summary and T5008 slips.
+[30] Similar to the previous taxation years, the Appellant is shown as the filer of the T5 summary. The T5 summary states that the attached T5 slips show interest from Canadian sources of $62,205.71, which equals the interest expense reported on the statement of business activities filed with the Appellant’s return.
+[31] Three T5 slips were attached to the T5 summary. Two of the T5 slips show CIBC as the recipient of the interest payments. The third shows American Express as the recipient.
+[32] Each of the T5 slips showing CIBC as the recipient contains account numbers in the box titled “Recipient account”. The Appellant testified that these account numbers were the account numbers for his CIBC line of credit and his CIBC credit card. The T5 slip showing American Express as the recipient also contains an account number. The Appellant was not sure if this was his American Express account number.
+[33] The Minister subsequently reassessed the Appellant to deny the $62,705 business loss and the $62,206 capital loss claimed in his income tax return. The Minister also imposed a gross negligence penalty. This is the assessment that is currently before the Court. The Appellant noted at the commencement of the hearing that he is only disputing the imposition of the gross negligence penalty. He argued that the Minister should not have imposed the penalty and that the calculation of the assessed penalty is incorrect.
+II. The Law
+[34] The only issue before the Court is whether the Appellant is liable for gross negligence penalties.
+[35] The introductory words of subsection 163(2) of the Income Tax Act state:
+Every person who, knowingly, or under circumstances amounting to gross negligence, has made or has participated in, assented to or acquiesced in the making of, a false statement or omission in a return, form, certificate, statement or answer (in this section referred to as a “return”) filed or made in respect of a taxation year for the purposes of this Act, is liable to a penalty of the greater of $100 and 50% of the total of . . .
+[36] The introductory words identify the following two conditions that must be satisfied if the assessment by the Minister of a penalty under subsection 163(2) of the Income Tax Act is to be maintained:
+The Appellant must have made, participated in, assented to or acquiesced in the making of a false statement or omission in a return, form, certificate, statement or answer, referred to collectively as a “return”.
+The false statement or omission must have been made by the Appellant knowingly or under circumstances amounting to gross negligence, or the Appellant must have participated in, assented to or acquiesced in the making of the false statement or omission knowingly or under circumstances amounting to gross negligence.
+[37] Under subsection 163(3) of the Income Tax Act, the Minister has the burden of proving on a balance of probabilities the facts that justify the assessment of a penalty under subsection 163(2) of the Income Tax Act.
+III. Appellant’s Position
+[38] It is the Appellant’s position that he was not grossly negligent. He testified that he did not review or sign the 2011 income tax return before it was filed and did not know that DeMara was claiming substantial business losses and capital losses in his income tax return. His education consists of grade 9 English, grade 9 math and science and grade 10 social studies and he is overwhelmed by “legal jargon and stuff”.
+[39] He thought DeMara was a legitimate tax preparer, that would comply with the law.
+IV. Disposition of Appeal
+[40] The first condition of the subsection 163(2) gross negligence penalty is satisfied since the Appellant made, participated in, assented to or acquiesced in the making of a false statement in his 2011 income tax return.
+[41] The Appellant admits that two false statements were made in the income tax return, the reporting of a $62,705.71 business loss and a $62,206 capital loss. I find that as a question of fact, the false statements were made by DeMara, his authorized tax preparer, at a time that the Appellant knew DeMara was claiming business losses and capital losses in respect of a business he was not carrying on and in respect of securities he had not owned or disposed of.
+[42] The Appellant received a letter from the CRA in June 13, 2011 alerting him to the fact that substantial business losses and capital losses were claimed in his 2010 income tax return. On July 27, 2012 he received a second CRA letter informing him that the business losses and capital losses claimed in his 2010 income tax return were denied, that similar losses were claimed in his amended 2008 and 2009 income tax returns and that the CRA was considering imposing gross negligence penalties.
+[43] The Appellant received a third CRA letter on February 22, 2013 informing him that the Minister was denying all losses claimed in the three income tax returns.
+[44] At the beginning of each letter the author clearly states that business losses and capital losses were claimed and the amount of such losses. For example, the first paragraph of the June 13, 2011 reads as follows:
+This letter is in regards to your 2010 Income Tax Return. Your returns include the following claims that have been selected for review.
+Net business income (loss) of ($205,978)
+Gross capital gain (loss) of ($205,978)
+[45] Similar disclosure of the claimed losses is made at the beginning of the other two CRA letters. Having read the letters, the Appellant knew DeMara was claiming fictitious business losses and capital losses in his income tax returns, yet he still allowed them to file his 2011 income tax return on June 24, 2013. By allowing DeMara to file his 2011 income tax return in such circumstances, the Appellant either made, participated in, assented to or acquiesced in the making of a false statement in his 2011 income tax return.
+[46] The second condition of subsection 163(2) will only be satisfied if the Appellant made the false statement or omission knowingly or under circumstances amounting to gross negligence.
+[47] With respect to whether the false statement or omission was made knowingly, the Court must determine whether the Appellant had the subjective knowledge that he was making a false statement in his income tax returns when he filed the income tax returns.
+[48] As my colleague Justice Owen noted in Peck v. The Queen, [2] relying on the decision of the Federal Court of Appeal in Wynter v. The Queen, [3] the subjective knowledge of a taxpayer that he was making a false statement may be proven by evidence establishing, on a balance of probabilities, that the taxpayer was wilfully blind as to whether the statements in his income tax return were false.
+[49] Justice Owen provided the following overview of what is required to establish wilful blindness:
+[46] To establish wilful blindness, the evidence must prove on a balance of probabilities that the Appellant subjectively knew that the false statements in the Return and the Request were probably false but deliberately chose not to make further inquiries because he subjectively knew or strongly suspected that the inquiries would provide him with the knowledge that the statements were indeed false (see Sansregret v. The Queen, [1985] 1 S.C.R. 570 at 584, R. v. Jorgensen, [1995] 4 S.C.R. 55 at paragraphs 102 and 103 and Briscoe v. The Queen, 2010 SCC 13, [2010] 1 S.C.R. 411 at paragraphs 21 to 23). The wilful blindness test is summarized in Wynter as follows:
+[13] A taxpayer is wilfully blind in circumstances where the taxpayer becomes aware of the need for inquiry but declines to make the inquiry because the taxpayer does not want to know, or studiously avoids, the truth. The concept is one of deliberate ignorance: R. v. Briscoe, 2010 SCC 13 at paras. 23-24, [2010] 1 S.C.R. 411 (Briscoe); Sansregret at para. 24. In these circumstances, the doctrine of wilful blindness imputes knowledge to a taxpayer: Briscoe at para. 21. . . .
+[47] The subjective knowledge required for a finding of actual knowledge or wilful blindness refers to the actual or subjective knowledge of the person committing the prohibited act and not the objective or constructive knowledge of a reasonable person in the same circumstances (see, generally, Shand v. The Queen, 2011 ONCA 5 at paragraph 188 and Roks v. The Queen, 2011 ON CA 526 at paragraph 132). [4]
+[50] I believe that the Appellant either knew of or was wilfully blind to the making of the false statement. As I just discussed, he knew false statements were made in prior years and yet made no inquiries with DeMara to determine why DeMara was claiming business losses of hundreds of thousands of dollars when he was not carrying on a business.
+[51] The Appellant testified that he understood DeMara would be filing his income tax returns for the 2008 through 2011 taxation years using a process called “the Remedy”. He and his wife participated in some of the weekly conference calls during which people from DeMara explained the Remedy/T5 process. He stated that he read through the material provided by DeMara with respect to the Remedy process but did not understand most of it and did not understand that DeMara would be claiming business losses and capital losses. However, he remembered that it used T5 and T5008 slips.
+[52] I do not accept the Appellant’s testimony on this point. I find that he knew that DeMara was claiming his personal expenses as business expenses and reporting the personal expenses on T5 slips. In other words, the Appellant knew that DeMara was making false statements on his income tax returns.
+[53] Prior to Demara filing any income tax returns for the Appellant, the Appellant, at the direction of DeMara, applied for a GST registration number for the fictitious business. This evidences that he was aware that DeMara was taking the position that he was carrying on a business.
+[54] The Appellant provided DeMara with the information DeMara used to calculate the amount of the business losses, which were also the amounts shown on the T5 slips. The Appellant (or his spouse) provided DeMara with his bank and credit card statements and other documentation that quantified the Appellant’s personal expenses. This can be seen from the T5 slips, which contain the Appellant’s account numbers.
+[55] Further evidence that the Appellant knew DeMara was deducting personal expenses is provided by Exhibit R-23, which contains an email from the Appellant’s spouse to DeMara that states the following: “Also we have received a bill for medical services, I guess we should pay for it and T5 it later.”
+[56] I also find that the Appellant made the false statements in his 2011 income tax returns in circumstances amounting to gross negligence.
+[57] The phrase “gross negligence” as used in subsection 163(2) of the Income Tax Act was considered in the widely adopted decision of Venne v. The Queen, 84 DTC 6247 (FCTD) (“Venne”). At page 6256 of that decision, Strayer J. stated:
+. . . “Gross negligence” must be taken to involve greater neglect than simply a failure to use reasonable care. It must involve a high degree of negligence tantamount to intentional acting, an indifference as to whether the law is complied with or not. . . .
+[58] As stated in Venne, a finding of “gross negligence” requires a high degree of negligence. The existence (or non-existence) of a high degree of negligence is determined by reference to the objective standard of a reasonable person in the same circumstances as the person against whom the penalty is assessed and not by reference to the subjective beliefs or characteristics of this person.
+[59] The objective standard is only relaxed if it is established that the person is incapable of understanding the duty not to make a false statement or an omission in an income tax return.
+[60] It is clear from the evidence before me that the Appellant is capable of understanding his duty not to make a false statement or an omission in an income tax return. He is an intelligent person and clearly knows his duty to file income tax returns and report his actual income.
+[61] As a result, the Respondent must establish, on a balance of probabilities, facts that lead to the conclusion that the making by the Appellant of the false statement in his 2011 income tax return was such a marked and substantial departure from the conduct of a reasonable person in the same circumstances that it constituted gross negligence.
+[62] The Respondent has established these facts.
+[63] The Appellant testified that he participated in a conference call and received material from DeMara describing the “Remedy” process. He stated that he did not understand the process. He also testified that he believed it would generate large refunds. A reasonable person would have sought professional advice from either an accountant or a lawyer before allowing DeMara to file income tax returns using the Remedy process, especially when the person was aware of the fact that the process involved claiming personal expenses as business expenses that would result in large refunds.
+[64] A reasonable person would certainly have sought advice after receiving the letters from the CRA denying the business and capital losses claimed in other years.
+[65] As a result of receiving the CRA letters, the Appellant was aware, before DeMara filed his 2011 income tax return, that DeMara had claimed fictitious business losses and capital losses in his previous income tax returns. In such a situation, a reasonable person would have reviewed the 2011 income tax returns before they were filed to ensure that DeMara was not claiming any additional fictitious losses.
+[66] The Appellant was certainly aware that a person should review his or her income tax returns before they are filed with the CRA. He reviewed the 2008 and 2009 income tax returns prepared by Mr. Rossworn, a chartered accountant, before they were filed with the CRA. Also, the Appellant acknowledged in the agreement he signed with DeMara that he was responsible for reviewing his income tax returns.
+[67] However, he chose not to review the income tax returns prepared by DeMara. This is particularly troublesome since he testified that he knew very little about the principals behind DeMara and, in particular, did not know if they were accountants.
+[68] In my view, on the evidence before me, the Appellant’s conduct with respect to DeMara represents such a marked and substantial departure from the conduct of a reasonable person in the same circumstances that it constitutes gross negligence as described in Venne.
+[69] As a result, the Appellant made the false statements in his 2011 income tax in circumstances amounting to gross negligence.
+V. Calculation of the Gross Negligence Penalty
+[70] The Appellant also challenged the Minister’s calculation of the gross negligence penalty. Ms. Marion Pomery, a CRA appeals officer, testified for the Respondent. Using Exhibit R-114, she explained to the Court how the Minister calculated the gross negligence penalty.
+[71] The calculation is consistent with the provisions of the Income Tax Act.
+[72] For the foregoing reasons, the appeal is dismissed without costs.
+Signed at Ottawa, Canada, this 20th day of February 2019.
+“S. D’Arcy”
+D’Arcy J.
+CITATION:
+2019 TCC 39
+COURT FILE NO.:
+2016-3364(IT)I
+STYLE OF CAUSE:
+ERIK SAUNDERS v. HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Kamloops, British Columbia
+Vancouver, British Columbia
+DATE OF HEARING:
+May 11, 2017
+December 7, 2018
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Steven K. D’Arcy
+DATE OF JUDGMENT:
+February 20, 2019
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Mary Softley
+Natasha Wallace
+P. Mahil Pandher
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+n/a
+Firm:
+n/a
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Transcript, page 29.
+[2] Peck v. The Queen, 2018 TCC 52.
+[3] Wynter v. The Queen, 2017 FCA 195.
+[4] Peck, supra.

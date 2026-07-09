@@ -1,0 +1,520 @@
+Title: Hardtke c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/109995/index.do
+Corpus path: corpus/cases/tcc/2015/2015-cci-135-109995-hardtke-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2015-06-03
+
+# Hardtke c. La Reine
+
+- Citation: 2015 CCI 135
+- Decision date: 2015-06-03
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2831, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Hardtke c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2015-06-03
+Référence neutre
+2015 CCI 135
+Numéro de dossier
+2012-3414(IT)G
+Juges et Officiers taxateurs
+Valerie A. Miller
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2012-3414(IT)G
+ENTRE :
+ELIZABETH HARDTKE,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 4 novembre 2014, à Ottawa (Ontario)
+Devant : L’honorable juge Valerie Miller
+Comparutions :
+Avocats de l’appelante :
+Me D. Kenneth Gibson
+Me Ryan Flewelling
+Avocat de l’intimée :
+Me Ryan R. Hall
+JUGEMENT
+L’appel interjeté à l’encontre de l’avis de cotisation numéro 1492994 établi en application de l’article 160 de la Loi de l’impôt sur le revenu est rejeté.
+Les dépens sont adjugés à l’intimée.
+Signé à Halifax (Nouvelle-Écosse), ce 3e jour de juin 2015.
+« V. A. Miller »
+La juge Miller
+Traduction certifiée conforme
+ce 6e jour d’octobre 2015.
+Mario Lagacé, jurilinguiste
+Référence : 2015CCI135
+Date : 20150603
+Dossier : 2012-3414(IT)G
+ENTRE :
+ELIZABETH HARDTKE,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Miller
+[1] Une cotisation a été établie à l’égard de l’appelante en application de l’article 160 de la Loi de l’impôt sur le revenu (la « LIR »), au montant de 249 999 $ à la suite du transfert de la résidence matrimoniale (le « bien ») effectué le 29 septembre 2000 en sa faveur par son époux, alors qu’il était débiteur fiscal.
+[2] La seule question en litige en l’espèce est celle de savoir si la juste valeur marchande du bien dépassait la juste valeur marchande de la contrepartie donnée par l’appelante pour le transfert du bien.
+[3] L’appelante fait valoir qu’elle a donné une contrepartie dépassant la juste valeur marchande du bien au moment où celui-ci lui a été transféré. La contrepartie incluait la prise en charge de l’hypothèque grevant le bien; son intérêt en equity non enregistré sur une fiducie résultoire ou par interprétation à l’égard du bien, auquel l’appelante avait renoncé au moment du transfert; et les contributions en espèces qu’elle a effectuées à son époux et ses sociétés avant et après le transfert.
+[4] Les témoins à l’audience étaient l’appelante, Lori Kimball, agente sur le terrain de l’Agence du revenu du Canada, et Keely Moure, planificateur financier certifié.
+[5] Les parties ont déposé un exposé conjoint des faits (partiel), que j’ai joint à titre d’annexe A au présent jugement. Le résumé des faits présentés à l’audience et l’exposé conjoint des faits sont comme suit.
+Faits [6] L’appelante et Dieter Hardtke (l’« époux ») sont mariés depuis le 27 août 1977.
+[7] L’époux a ouvert sa pratique de chiropraticien aux environs de 1975 et il exerçait toujours cette profession au moment des faits. Selon les éléments de preuve, au début, il exerçait seul dans son cabinet. Il a ensuite fondé une ou plusieurs sociétés dont il était le seul actionnaire et dirigeant.
+[8] De 1980 à 2000, l’appelante a occupé les fonctions d’aide‑chiropraticienne à plein temps dans l’un des cabinets de son époux.
+[9] Les parties ont donné des précisions relativement aux biens acquis par l’époux de l’appelante. Deux biens sont concernés par le présent appel :
+a) Le ou vers le 20 octobre 1978, l’époux a acquis la propriété exclusive de la résidence située dans le village de Winchester (le « bien de Winchester »). Le bien de Winchester a été acheté au prix de 80 000 $, dont 24 000 $ ont été payés en espèces et 56 000 $ par voie d’emprunt hypothécaire.
+b) L’époux exerçait ses activités de chiropraticien au rez-de-chaussée du bien de Winchester et l’appelante et son époux vivaient à l’étage, et ce, jusqu’à ce que le bien soit vendu, le 1er septembre 1983, pour la somme de 100 000 $. Ce montant leur a été payé par un versement de 45 133,42 $ en espèces et par la prise en charge de l’hypothèque de 54 866,58 $.
+c) Le 2 septembre 1983, l’époux a investi l’argent provenant de la vente du bien de Winchester dans l’acquisition exclusive du bien résidentiel de Manotick, qui est devenu le domicile conjugal et qui fait l’objet du présent appel (le « bien »). Le bien a été acheté pour la somme de 180 000 $, dont 55 000 $ ont été payés en espèces, et 125 000 $ par voie d’emprunt hypothécaire.
+d) Depuis la date de l’achat jusqu’en septembre 2000, le bien a fait l’objet de quatre hypothèques. Ces hypothèques n’étaient pas au nom de l’appelante, mais, à titre d’épouse du débiteur, elle a donné son consentement en signant les actes d’hypothèque immobilière. Les quatre hypothèques étaient les suivantes :
+(i) Le 11 août 1983, l’époux a obtenu un prêt hypothécaire de 125 000 $ auprès de la Banque Royale du Canada, qui a servi à acquérir le bien (la « première hypothèque »);
+(ii) le 6 janvier 1987, l’époux a obtenu un prêt hypothécaire de 160 000 $ auprès de la Banque Royale du Canada, qui a servi à rembourser le solde dû sur la première hypothèque (la « deuxième hypothèque »);
+(iii) le 20 juin 1989, l’époux a obtenu un prêt hypothécaire de 250 000 $ auprès de la Banque Royale du Canada, qui a servi en partie à rembourser le solde dû sur la deuxième hypothèque (la « troisième hypothèque »);
+(iv) le 20 février 1996, l’époux a obtenu un prêt hypothécaire de 65 000 $ auprès de la Banque de Montréal (la « quatrième hypothèque »).
+[10] L’appelante s’est souvenue que le deuxième prêt hypothécaire avait en partie servi à acheter la clinique de Manotick (la « clinique de Manotick »). Cette clinique a été achetée au nom d’une société à numéro appartenant entièrement à l’époux. Une partie du produit de la troisième hypothèque grevant le bien a servi à rénover la clinique de Manotick et la quatrième hypothèque a servi à établir une ligne de crédit pour la clinique.
+[11] En 1995, l’époux a acheté une seconde clinique au nom d’une société à numéro lui appartenant entièrement. Cette clinique était située à Winchester (la « clinique de Winchester »). La contrepartie donnée pour cette clinique était de 155 000 $, payée en espèces.
+[12] L’époux de l’appelante a transféré le bien à cette dernière le 29 septembre 2000. Au moment du transfert, la juste valeur marchande du bien était de 315 000 $ et toutes les hypothèques, à l’exception de la quatrième de 65 000 $, avaient été acquittées. En contrepartie des actifs transférés, l’appelante a pris en charge l’hypothèque et a versé la somme de 1 $ en espèces à son époux.
+[13] Selon l’appelante, le bien lui a été transféré pour le mettre à l’abri en cas de poursuite par des patients de son époux. À l’époque, l’époux venait de se défendre dans le cadre d’une action en justice intentée par un ancien patient qui l’avait accusé de conduite répréhensible. La poursuite avait duré trois ans et avait été réglée avant le transfert du bien à l’appelante.
+[14] Au moment du transfert, l’appelante et son époux ne vivaient pas séparément.
+[15] En 2002, l’appelante a appris que les registres des exercices 1994 à 2000 de son époux faisaient l’objet d’une vérification par le ministre et il a fait l’objet de nouvelles cotisations pour ces années, dont l’avis est daté du 19 mars 2003.
+[16] L’appelante et son époux ont conclu une entente de séparation le 7 septembre 2006, et l’époux a transféré ses entreprises et ses biens immeubles à l’appelante ou à des sociétés dont elle était propriétaire. Conformément à l’entente de séparation, les transferts suivants ont été effectués :
+a) en mars 2007, la clinique de Manotick a été transférée de la société de l’époux à une société appartenant entièrement à l’appelante;
+b) en avril 2007, la clinique de Winchester a été transférée de la société de l’époux à une société appartenant entièrement à l’appelante;
+c) en avril 2007, l’époux a transféré à l’appelante sa participation de 50 % dans leur maison de campagne située aux Mille-Îles.
+[17] Selon l’appelante, la clinique de Manotick et la clinique de Winchester ont été évaluées et ont été hypothéquées en même temps que le bien, et ce, pour que l’appelante puisse payer le transfert des cliniques aux sociétés lui appartenant entièrement.
+[18] Toutefois, le juge qui a entendu la demande de l’époux en vue d’être libéré d’une faillite a estimé que l’évaluation de la participation de l’époux dans les cliniques était incorrecte. Le juge a conclu que la juste valeur marchande avait été évaluée à la baisse.
+[19] Dans l’entente de séparation, l’appelante et son époux avaient convenu de continuer à vivre dans le bien, mais dans des appartements séparés. L’appelante était au courant des dettes fiscales de son époux au moment de signer l’entente de séparation.
+[20] L’appelante et son époux vivent toujours dans le bien, mais ne sont plus séparés. Il n’y a eu aucun témoignage relativement à la date à laquelle ils ont repris leur vie commune, mais les éléments de preuve me laissent penser que leur séparation a été de courte durée.
+[21] Le 18 décembre 2009, l’époux a déclaré faillite.
+[22] Le 29 septembre 2011, l’appelante a fait l’objet d’une cotisation de 249 999 $ au titre du transfert du bien.
+[23] Selon la réponse, la dette fiscale de l’époux s’élevait à 833 060 $ au moment où le bien a été transféré en 2000. Dans l’exposé conjoint des faits, les parties ont écrit que l’époux n’avait déployé aucun effort pour payer sa dette fiscale. Les parties se sont également entendues sur le fait que, lorsque l’appelante a fait l’objet de la cotisation le 29 septembre 2011, la dette fiscale de l’époux s’élevait à 778 511,56 $. Par conséquent, je ne sais pas quel était le montant exact de la dette de l’époux à la date du transfert. Quoi qu’il en soit, les deux parties ont convenu qu’au moment du transfert du bien, la dette fiscale de l’époux dépassait la somme de 249 999 $, qui était le montant de la cotisation établie à l’égard de l’appelante.
+Loi [24] Le paragraphe 160(1) de la LIR dispose que :
+160. (1) Lorsqu’une personne a, depuis le 1er mai 1951, transféré des biens, directement ou indirectement, au moyen d’une fiducie ou de toute autre façon à l’une des personnes suivantes :
+a) son époux ou conjoint de fait ou une personne devenue depuis son époux ou conjoint de fait,
+b) une personne qui était âgée de moins de 18 ans;
+c) une personne avec laquelle elle avait un lien de dépendance,
+les règles suivantes s’appliquent :
+d) le bénéficiaire et l’auteur du transfert sont solidairement responsables du paiement d’une partie de l’impôt de l’auteur du transfert en vertu de la présente partie pour chaque année d’imposition égale à l’excédent de l’impôt pour l’année sur ce que cet impôt aurait été sans l’application des articles 74.1 à 75.1 de la présente loi et de l’article 74 de la Loi de l’impôt sur le revenu, chapitre 148 des Status revisés du Canada de 1952, à l’égard de tout revenu tiré des biens ainsi transférés ou des biens y substitués ou à l’égard de tout gain tiré de la disposition de tels biens;
+e) le bénéficiaire et l’auteur du transfert sont solidairement responsables du paiement en vertu de la présente loi d’un montant égal au moins élevé des montants suivants :
+(i) l’excédent éventuel de la juste valeur marchande des biens au moment du transfert sur la juste valeur marchande à ce moment de la contrepartie donnée pour le bien,
+(ii) le total des montants représentant chacun un montant que l’auteur du transfert doit payer en vertu de la présente loi (notamment un montant ayant ou non fait l’objet d’une cotisation en application du paragraphe (2) qu’il doit payer en vertu du présent article) au cours de l’année d’imposition où les biens ont été transférés ou d’une année d’imposition antérieure ou pour une de ces années.
+Toutefois, le présent paragraphe n’a pas pour effet de limiter la responsabilité de l’auteur du transfert en vertu de quelque autre disposition de la présente loi ni celle du bénéficiaire du transfert quant aux intérêts dont il est redevable en vertu de la présente loi sur une cotisation établie à l’égard du montant qu’il doit payer par l’effet du présent paragraphe.
+[25] Suivant le paragraphe 160(1), la personne bénéficiant du transfert d’un bien a une responsabilité solidaire au regard des impôts non payés si les quatre conditions ci-dessous sont réunies :
+a) il doit y avoir transfert d’un bien;
+b) l’auteur du transfert a une dette fiscale au titre de l’impôt sur le revenu au moment du transfert;
+c) l’auteur du transfert et le bénéficiaire doivent avoir un lien de dépendance;
+d) la juste valeur marchande du bien transféré doit dépasser la juste valeur marchande de la contrepartie donnée par le bénéficiaire du transfert : Sa Majesté la Reine c. Livingston, 2008 CAF 89, paragraphe 17.
+[26] En l’espèce, seule la quatrième condition fait l’objet d’un litige.
+Thèse de l’appelante [27] Comme je l’ai déjà dit, l’appelante était d’avis que la contrepartie qu’elle avait donnée en échange du transfert du bien dépassait la juste valeur marchande du bien au moment du transfert. Elle a fait valoir que la contrepartie qu’elle avait donnée comprenait sa participation à la mise de fonds sur le bien de Winchester et sur le bien; les sommes qu’elle avait versées pour rembourser les divers prêts hypothécaires grevant le bien avant qu’il ne lui soit transféré; les montants qu’elle avait payés au nom de son époux et de ses sociétés avant et après le transfert; sa prise en charge de l’hypothèque de 65 000 $; et les droits auxquels elle avait renoncé pour solliciter un jugement déclarant qu’elle détenait une fiducie résultoire ou par interprétation à l’égard du bien.
+Thèse de l’intimée [28] L’intimée était d’avis que l’appelante a seulement versé 65 001 $ en contrepartie du transfert du bien. Toutefois, si je conclus qu’elle a donné une contrepartie supérieure à 65 001 $, le montant de cette contrepartie est impossible à évaluer ou est sans valeur.
+[29] L’avocat de l’intimée a fait valoir que la Cour n’a pas compétence pour accorder la réparation de la fiducie résultoire ou par interprétation reconnue en equity. Toutefois, même si je conclus que la Cour canadienne de l’impôt a compétence, l’appelante ne répondrait donc pas aux conditions d’une fiducie résultoire ou par interprétation.
+Analyse A. Interprétation du sous‑alinéa 160(1)e)(i) [30] L’avocat de l’appelante a fait valoir que la contrepartie donnée pour le transfert du bien peut être composée de montants donnés par l’appelante à son époux avant et après le transfert du bien. Il a affirmé que le sous‑alinéa 160(1)e)(i) de la LIR et le sens donné à « valeur de la contrepartie » dans la Loi sur les droits de cession immobilière, L.R.O. 1990, c. L.6, corroboraient sa thèse.
+[31] Par souci de commodité, j’ai recopié le sous‑alinéa 160(1)e)(i), qui dispose que :
+(i) l’excédent éventuel de la juste valeur marchande des biens au moment du transfert sur la juste valeur marchande à ce moment de la contrepartie donnée pour le bien… (Non souligné dans l’original)
+[32] L’avocat de l’appelante a fait valoir que l’énoncé « à ce moment » du sous‑alinéa 160(1)e)(i) modifie l’énoncé « juste valeur marchande », mais non le mot « contrepartie ». Par conséquent, toute contrepartie donnée à un moment ou à un autre pour le bien doit être examinée aux fins du sous‑alinéa 160(1)e)(i). Plus précisément, l’appelante a présenté des chèques dont les dates coïncidaient avec la période précédant le transfert et la période suivant le transfert du bien. Ces chèques correspondaient à des paiements faits au nom de l’époux et faisaient partie de la contrepartie pour le bien.
+[33] Je ne peux souscrire à l’interprétation de l’appelante. L’énoncé « à ce moment » ne peut pas seulement se rapporter à l’expression « juste valeur marchande ». Ce doit forcément être la « juste valeur marchande » de quelque chose « à ce moment », et ce quelque chose est « la contrepartie donnée pour le bien ». La phrase doit être lue dans son intégralité. Selon moi, le sous‑alinéa 160(1)e)(i) signifie que l’appelante et son époux sont solidairement responsables du paiement jusqu’à concurrence d’un montant égal au moins élevé des montants suivants : l’excédent de la juste valeur marchande du bien au moment du transfert par rapport à la juste valeur marchande de la contrepartie donnée au moment du transfert du bien. L’expression « à ce moment » renvoie au moment où le bien a été transféré et vient modifier la « juste valeur marchande de la contrepartie ». Cette interprétation est conforme à l’arrêt Madsen c. Canada, 2006 CAF 46, où la Cour d’appel fédérale a affirmé :
+7 Dans ces circonstances, il était impossible à la Cour, dans l’évaluation de la contrepartie fournie en 1989 à l’égard de la propriété de la Colombie‑Britannique, de tenir compte du transfert du droit sur la propriété de l’Arizona qui s’est produit cinq ans plus tard. C’est la juste valeur marchande de la contrepartie au moment du transfert qu’il faut considérer.
+[34] Par conséquent, les montants que l’appelante peut avoir donnés à son époux après le transfert du bien et qui n’étaient pas inscrits au contrat au moment du transfert ne représentaient pas une contrepartie pour le transfert.
+B. Définition de « contrepartie » [35] L’appelante s’appuyait aussi sur la définition de « valeur de la contrepartie » dans la Loi sur les droits de cession immobilière de l’Ontario pour déclarer que la contrepartie pour le transfert peut comprendre des montants payés avant le transfert. À mon avis, cette définition n’étaye pas la thèse de l’appelante. L’avocat s’est fondé sur la partie de cette définition qui est rédigée comme suit :
+« valeur de la contrepartie » S’entend notamment :
+a) du prix de vente brut ou du montant en numéraire de la contrepartie versée ou devant être versée pour la cession par le cessionnaire ou pour son compte, plus la valeur en numéraire de toute obligation assumée ou endossée par le cessionnaire ou pour son compte, dans le cadre de l’arrangement relatif à la cession, plus la valeur en numéraire de tout avantage accordé directement ou indirectement par le cessionnaire à une personne dans le cadre de cet arrangement; [36] Selon la Loi sur les droits de cession immobilière, la contrepartie pour le transfert d’un bien comprend le prix de vente brut ou le montant versé ou devant être versé ou toute obligation assumée ou tout avantage accordé par le cessionnaire [ou bénéficiaire]. Toutefois, selon mon interprétation de cette définition, toutes ces formes de contrepartie doivent prendre une « valeur en numéraire » pour l’application de cette loi et être déclarées dans un affidavit du cessionnaire. Les paragraphes 5(1) et (2) de la même loi prévoient que le cessionnaire doit souscrire un affidavit dans lequel il déclare la valeur réelle de la contrepartie versée pour la cession. Les parties de cette disposition qui s’appliquent disposent que :
+Déclaration ou affidavit concernant la cession
+5.(1) Les renseignements suivants relatifs à une cession sont fournis au ministre, sous la forme et de la manière exigées par le paragraphe (1.1) ou (1.2):
+1. La valeur réelle de la contrepartie versée pour la cession.
+2. Le montant réel versé en espèces ainsi que la valeur du bien ou de la sûreté qui est inclus dans la valeur de la contrepartie.
+3. Le montant ou la valeur du privilège ou du grèvement auquel est subordonnée la cession.
+Déclarant ou souscripteur de l’affidavit
+(2) Les personnes suivantes font la déclaration ou souscrivent l’affidavit qu’exige le présent article :
+[…]
+c) chaque cessionnaire désigné dans la cession qui fait l’objet de l’affidavit; [37] En l’espèce, le 19 septembre 2000, l’époux a transféré le bien à l’appelante. Dans l’acte de transfert, ils ont déclaré une contrepartie de 65 001 $. À la même date, à titre de bénéficiaire, l’appelante a souscrit un affidavit relatif à la résidence et à la valeur de la contrepartie aux fins de Loi sur les droits de cession immobilière, dans lequel elle a déclaré que le total de la contrepartie pour le transfert du bien s’élevait à 1 $ en espèces et à la prise en charge d’une hypothèque de 65 000 $. Elle a déclaré que la contrepartie était symbolique parce que l’auteur du transfert et la bénéficiaire étaient mari et femme et le transfert du bien-fonds était une marque d’amour et d’affection.
+[38] L’avocat de l’appelante a également invoqué que le transfert d’un bien entre époux est traité différemment pour l’application de la Loi sur les droits de cession immobilière. Il s’est appuyé sur un bulletin intitulé « Cessions immobilières entre conjoints ». Ce bulletin n’étaye pas la thèse de l’appelante.
+[39] Le bulletin explique les grandes lignes de l’application de la Loi sur les droits de cession immobilière concernant les cessions enregistrées et les aliénations non enregistrées de biens-fonds entre conjoints et ex-conjoints. On y présente la définition de « valeur de la contrepartie » et on y précise que « le montant en numéraire de la contrepartie versée ou devant être versée, ainsi que tout avantage accordé à une personne dans le cadre de l’arrangement relatif à la cession, doivent être également compris » dans la contrepartie. Le bulletin précise également que, sauf exemption particulière, les cessions entre conjoints sont assujetties aux droits de cession immobilière. Compte tenu des circonstances du présent appel, le transfert du bien à l’appelante a été exempté de droits de cession immobilière parce que « la seule contrepartie accordée » était la prise en charge de l’hypothèque.
+[40] Ni la Loi sur les droits de cession immobilière ni le bulletin sur lequel s’est fondée l’appelante ne soutiennent sa thèse, à savoir que la contrepartie pour le transfert était composée de montants non déclarés dans l’affidavit joint à l’acte de transfert.
+[41] Comme l’a déclaré le juge Bonner dans la décision Ruffolo et autres c. La Reine, 99 DTC 184 (CCI), le terme « contrepartie » au sens du sous‑alinéa 160(1)e)(i) doit être pris dans son sens courant, en l’occurrence « quelque chose que l’on donne en paiement ».
+[42] Dans la décision Logiudice c. Canada, 97 DTC 1462 (CCI), au paragraphe 16, le juge Bowie a formulé le commentaire suivant :
+16 Le mot « contrepartie », tel qu’il est utilisé dans le contexte de l’article 160 de la Loi, dans son sens ordinaire, signifie la contrepartie qu’une partie à un contrat donne à l’autre partie en échange du bien transféré. L’article 160 vise de toute évidence à empêcher les contribuables de se soustraire à leur obligation fiscale ainsi qu’aux intérêts et aux pénalités prévus par les dispositions de la Loi en plaçant les biens exigibles entre les mains de parents ou d’autres personnes avec lesquels ils ont un lien de dépendance, et donc hors de la portée immédiate du percepteur d’impôt. La disposition restrictive du sous-alinéa 160(1)e)(i) de la Loi vise à protéger les véritables opérations commerciales de l’application de la disposition, jusqu’à concurrence de la juste valeur marchande de la contrepartie donnée pour le bien qui a été transféré. Par conséquent, il est évident que pour que le bénéficiaire du transfert puisse se prévaloir de cette disposition protectrice, il doit être en mesure de prouver que le bien lui a été transféré conformément aux conditions d'une véritable entente contractuelle. (Non souligné dans l’original)
+C. Montants payés avant le transfert du bien (1) Chèques libellés en 1999 et 2000 [43] L’appelante a présenté des copies de chèques de son compte de chèques libellés au nom des sociétés de son époux, de sa carte de crédit BMO Mastercard et de sa carte Visa de la Banque de Montréal et de la Banque Scotia, en 1999 et en 2000. Ces chèques étaient les suivants :
+Date
+Libellé à
+Date
+Libellé à
+5 mars 1999
+Manotick
+Chiropractic
+4 000 $
+10 janv. 2000
+Manotick
+Chiropractic
+3 000 $
+12 avril 1999
+BMO Mastercard
+298 $
+18 janv. 2000
+Manotick
+Chiropractic
+6 000 $
+5 août 1999
+Winchester
+Chiro
+4 300 $
+4 avril 2000
+Banque de
+Montréal
+2 500 $
+12 nov. 1999
+Manotick
+Chiropractic
+5 000 $
+11 avril 2000
+Banque de
+Montréal
+6 700 $
+13 déc. 1999
+Manotick
+Chiropractic
+13 000 $
+11 avril 2000
+Visa
+Banque Scotia
+7 216 $
+Total
+26 598 $
+Total
+25 416 $
+[44] Selon moi, le montant de ces chèques ne fait pas partie de la contrepartie pour le transfert du bien. L’acte de transfert et l’affidavit de l’appelante montrent clairement que la contrepartie donnée pour le transfert s’élevait à 65 001 $. Aucun document ne corrobore la thèse de l’appelante selon laquelle le montant indiqué sur ces chèques faisait partie du prix payé en échange du transfert. En contre‑interrogatoire, l’appelante a admis qu’au moment où le bien lui a été transféré, elle n’a pas promis à son époux de verser des paiements à ses sociétés ou au nom de ses sociétés. Selon le témoignage de l’appelante, elle transférait de l’argent aux sociétés de son mari ou pour rembourser les prêts lorsque le comptable le lui demandait. Il lui téléphonait parfois pour lui dire qu’il fallait injecter de l’argent dans les sociétés.
+[45] Le montant total des chèques qui, selon l’appelante, entraient dans le calcul de la contrepartie pour le transfert du bien s’élevait à 26 596 $ en 1999 et à 25 416 $ en 2000. Toutefois, selon l’exposé conjoint des faits, le revenu imposable de l’appelante et de son époux était le suivant :
+Appelante
+Époux
+2000
+23 448 $
+84 081 $
+1999
+23 345
+83 066
+1998
+21 875
+159 538
+1997
+32 268
+106 375
+1996
+23 154
+135 322
+1995
+25 461
+261 279
+1994
+29 146
+144 547
+1993
+20 784
+147 136
+1992
+17 979
+143 315
+1991
+16 586
+89 122
+1990
+17 022
+61 094
+1989
+15 840
+57 119
+1988
+15 505
+44 610
+1987
+6 624
+46 621
+1986
+7 639
+75 131
+1985
+19 480
+68 891
+1984
+7 869
+54 078
+1983
+9 607
+39 746
+1982
+9 790
+33 798
+1981
+9 475
+8 105
+1980
+6 183
+56 863
+1979
+-
+72 138
+1978
+-
+33 619
+[46] De toute évidence, en 1999 et en 2000, le revenu imposable de l’appelante était inférieur au montant total des chèques émis pendant cette période. Seulement cinq chèques pour chaque année ont été présentés en preuve et aucune preuve n’a été donnée relativement au nombre total de chèques tirés sur son compte de chèques pendant ces années. Le total du montant annuel de ces cinq chèques était supérieur au revenu annuel imposable de l’appelante en 1999 et en 2000 et, selon l’appelante, elle a également contribué aux dépenses du ménage et au remboursement de l’hypothèque grevant le bien. Elle n’a pas présenté les relevés bancaires de ces années, qui auraient permis de retracer la source des dépôts faits dans son compte ou les sommes d’argent déposées dans son compte ou retirées de celui-ci en 1999 et en 2000. L’appelante a déclaré qu’une partie des fonds déposés dans son compte de chèques provenait de son REER. Toutefois, elle n’a présenté aucun document à l’appui de son témoignage.
+[47] En interrogatoire principal, l’appelante a déclaré qu’aucune des sommes déposées dans son compte de chèques n’avait été donnée par son mari. Toutefois, en contre‑interrogatoire, elle a admis que son époux déposait de l’argent dans le compte de l’appelante, car il n’avait pas de compte de chèques. Outre les comptes de chèques des entreprises de son époux, c’était elle qui, dans le couple, avait un compte de chèques. D’après la preuve présentée à l’audience, il n’est pas plausible que l’appelante avait suffisamment de fonds pour verser 26 596,60 $ et 25 416 $ à son époux en 1999 et en 2000.
+(2) Mise de fonds sur le bien de Winchester et remboursements hypothécaires [48] Selon son témoignage, l’appelante travaillait avant son mariage en 1977 et avait des économies, tandis que son époux n’en avait pas. Le bien de Winchester a été acheté en 1978, pour la somme de 80 000 $. Il a été payé grâce à une mise de fonds de 24 000 $ et à un prêt hypothécaire de 56 000 $. L’appelante a déclaré qu’elle avait puisé dans ses propres fonds pour acheter cette première maison, mais elle ne se souvenait pas exactement du montant de sa contribution. Elle n’a présenté aucun document pour appuyer ses dires ni n’a convoqué de témoins pour corroborer son témoignage selon lequel elle avait versé une mise de fonds en espèces. L’appelante n’a pas donné de chiffres sur les économies qu’elle aurait eues et elle n’a pu dire quel avait été le montant de sa contribution à l’achat du bien de Winchester ou au remboursement de l’hypothèque.
+[49] En contre‑interrogatoire, l’appelante a convenu que tous les remboursements hypothécaires faits avant le transfert du bien avaient été faits par chèque. Elle a également reconnu que, la moitié du temps, il s’agissait de chèques tirés sur le compte d’une société de son mari, et que l’autre moitié du temps, les chèques étaient tirés de son propre compte de chèques. Les autres dépenses du ménage étaient également réglées par chèques tirés du compte de l’appelante. L’appelante a également admis que les fonds déposés dans son compte de chèques provenaient de son revenu et du revenu de son époux.
+[50] L’avocat de l’appelante a fait valoir que la contribution de l’appelante à la mise de fonds sur le bien de Winchester, de même que ses contributions au remboursement hypothécaire à l’égard du bien de Winchester et du bien faisaient partie de la contrepartie qu’elle a offerte en échange du transfert du bien. Il a déclaré qu’il fallait mettre à l’actif de l’appelante le fait qu’elle avait contribué en espèces aux biens matrimoniaux et commerciaux dont l’époux avait la propriété exclusive. De mon point de vue, cet argument pose problème dans la mesure où les paiements que l’appelante aurait versés pour contribuer à la mise de fonds et au remboursement hypothécaire à l’égard du bien de Winchester et du bien n’ont pas été quantifiés. Je n’ai aucun moyen d’évaluer le montant de ces contributions alors que l’appelante elle‑même ne se souvient pas du montant des sommes qu’elle aurait versées. Le témoignage de l’appelante sur ces questions était vague et intéressé. Il comportait des incohérences au sujet des dépôts faits dans son compte de chèques et je n’ai pas retenu son témoignage selon lequel tous les montants retirés de son compte étaient les siens.
+(3) Montants payés après le transfert [51] L’appelante a affirmé que les paiements par chèque indiqués ci-dessous, tirés de son compte de chèques en 2001 et en 2002, avaient été faits au nom de son époux. Selon elle, ces montants faisaient partie de la contrepartie qu’elle avait versée pour le transfert du bien, en 2000.
+Date
+Libellé à
+Date
+Libellé à
+16 fév. 2001
+Manotick Chiropractic
+2 200 $
+8 janv. 2002
+Manotick Chiropractic
+8 000 $
+1 mai 2001
+Manotick Chiropractic
+6 000 $
+31 janv. 2002
+Manotick Chiropractic
+9 000 $
+11 mai 2001
+BNS Visa
+2 000 $
+27 fév. 2002
+BMO Nesbitt Burns
+218 $
+28 mai 2001
+Manotick Chiropractic
+7 000 $
+21 mars 2002
+Banque de Montréal
+7 648 $
+27 juin 2001
+BNS Visa
+6 072,09 $
+21 mai 2002
+Winchester Chiropractic
+5 000 $
+8 août 2001
+Manotick Chiropractic
+3 000 $
+12 juin 2002
+Manotick Chiropractic
+5 000 $
+17 août 2001
+Citifinancial
+4 905 $
+4 juillet 2002
+Winchester Chiropractic
+5 000 $
+27 sept. 2001
+Ryan Barber
+5 440 $
+9 juillet 2002
+Winchester Chiropractic
+5 000 $
+11 oct. 2001
+Manotick Chiropractic
+11 0000 $
+9 août 2002
+Manotick Chirpractic
+4 500 $
+23 oct. 2001
+State Farm Insurance
+147,34 $
+3 sept. 2002
+Manotick Chirporactic
+4 000 $
+1 déc. 2001
+BMO Nesbitt Burns
+133,75 $
+10 sept. 2002
+Winchester Chiropractic
+5 000 $
+8 nov. 2002
+Manotick Chiropractic
+4 000 $
+11 déc. 2002
+Manotick Chiropractic
+10 000 $
+Total
+47 898,18 $
+72 366 $
+[52] Au moment où le bien a été transféré à l’appelante, rien ne prouve que l’appelante et son époux avaient conclu une entente verbale ou écrite selon laquelle elle paierait une contrepartie à une date ultérieure. Le revenu de l’appelante en 2001 et 2002 n’a pas été étayé par la preuve. Il appert clairement du témoignage de l’appelante que son époux déposait lui aussi des fonds dans le compte de chèques de l’appelante. Compte tenu de tout ce qui précède, je n’ai pas pris en considération les chèques faits en 2001 et en 2002 que l’appelante a produits.
+D. Fiducie par interprétation ou résultoire [53] L’avocat de l’appelante s’est appuyé sur la décision Darte c. R, 2008 CCI 66, pour faire valoir que l’appelante a renoncé à son droit de solliciter devant une cour supérieure un jugement déclarant qu’elle détient une fiducie résultoire ou par interprétation à l’égard du bien. Il a fait valoir que le droit auquel elle avait renoncé équivalait à la moitié de la juste valeur marchande du bien au moment du transfert. Dans le cas présent, ce droit a été évalué à 124 999,50 $.
+[54] Pour plusieurs raisons, je ne souscris pas à la thèse de l’appelante.
+[55] Rien ne démontre que l’appelante a payé une contrepartie en s’abstenant de solliciter la réparation de la fiducie par interprétation. Comme dans l’affaire Pliskow c. La Reine, 2013 CCI 283, rien ne démontrait l’existence d’un contrat, d’une renonciation ou d’une autre forme d’entente en vertu desquels l’appelante aurait accepté de renoncer à son droit d’obtenir la réparation de la fiducie par interprétation : Canada c. Livingston, 2008 CAF 89, au paragraphe 29, Pliskow, au paragraphe 27.
+[56] Dans son témoignage, l’appelante a déclaré qu’avant le transfert, elle n’avait consulté personne au sujet des droits qu’elle pouvait revendiquer sur le bien. Son époux et elle‑même n’ont jamais parlé des droits qu’elle pouvait revendiquer sur le bien. Avant le transfert, elle n’a pas menacé de demander une fiducie résultoire ou par interprétation. Il n’y a donc pas eu abstention en l’espèce.
+[57] L’avocat de l’appelante a demandé que je déclare qu’avant le transfert, l’appelante détenait la moitié du bien en vertu d’une fiducie par interprétation. J’estime que la Cour n’a pas compétence pour accorder la réparation de la fiducie par interprétation reconnue en equity. Bien que la Cour canadienne de l’impôt soit une cour supérieure, elle a été créée par une loi et, contrairement aux cours supérieures provinciales, elle n’a pas compétence inhérente en equity. J’abonde dans le sens du juge Webb, tel était alors son titre, selon qui la Cour canadienne de l’impôt n’est pas un tribunal en equity et ne peut donc accorder la réparation de la fiducie par interprétation reconnue en equity ou en déclarer l’existence : Darte (précité), au paragraphe 21.
+[58] Même si j’avais compétence pour déclarer l’existence d’une fiducie par interprétation, il faudrait d’abord que j’analyse la relation de l’appelante avec son époux; les contributions de chacun aux actifs et aux passifs; la question de savoir s’il y a eu des ententes, des contrats de mariage, des ententes de séparation ou, de façon générale, s’il y a des facteurs que les parties auraient pu faire valoir en ce qui concerne le partage de leurs droits de propriété : Kardaras c. Canada, 2014 CCI 135. Il aurait été impossible de procéder à cette analyse en l’espèce, car l’époux n’a pas témoigné à l’audience et les éléments de preuve sont insuffisants.
+[59] L’appelante n’a jamais expliqué pourquoi son époux et elle‑même n’étaient pas copropriétaires du bien de Winchester ou du bien. Toutefois, après examen de la preuve produite dans le cadre de l’appel, il me semble que, jusqu’au transfert du bien à l’appelante, elle et son époux ont organisé leurs affaires de manière à ce qu’il possède à lui seul tous les titres de propriété, tandis qu’elle avait le contrôle des finances. L’appelante et Keely Moure ont témoigné que l’appelante était chargée de la gestion des finances du couple. Le comptable communiquait avec l’appelante lorsqu’il fallait déposer des fonds dans le compte des sociétés. L’appelante signait ensuite un chèque tiré de son propre compte pour le déposer dans le compte de la clinique. Elle était la seule dans le couple à avoir un compte de chèques. Rien ne démontre qu’elle ou son époux possédait un compte d’épargne. Son époux avait des REER et l’appelante déposait des fonds provenant de son compte de chèques dans le REER de son époux. Rien ne démontre que le REER était un REER conjoint.
+[60] En conclusion, l’appelante n’a pas présenté suffisamment d’éléments de preuve pour démontrer qu’elle avait versé une contrepartie dépassant 65 001 $ pour le transfert du bien. La preuve documentaire était insuffisante et les témoignages n’étaient pas clairs. L’appelante a dit qu’elle a payé une portion de la mise de fonds sur le premier bien du couple et qu’elle a participé au remboursement de l’hypothèque de chacune des maisons. Pourtant, elle n’a même pas pu donner une valeur approximative à cette contribution. Le témoignage de l’appelante était vague concernant des questions importantes. L’appelante ne s’est pas acquittée du fardeau qui lui incombait, et l’appel est rejeté avec dépens en faveur de l’intimée.
+Signé à Halifax (Nouvelle-Écosse), ce 3e jour de juin 2015.
+« V. A. Miller »
+La juge Miller
+Traduction certifiée conforme
+ce 6e jour d’octobre 2015.
+Mario Lagacé, jurilinguiste
+Annexe A
+EXPOSÉ CONJOINT DES FAITS
+(PARTIEL)
+Aux fins de la présente instance et en plus de tout élément de preuve qui pourrait être présenté à l’audience, l’appelante et l’intimée s’entendent sur les faits suivants :
+1. L’appelante et Dieter Hardtke (l’« époux ») sont mariés depuis le 27 août 1977.
+2. Durant toute la période en cause, l’époux exerçait des activités de chiropraticien, directement ou par l’entremise d’une ou de plusieurs sociétés.
+3. Le ou vers le 20 octobre 1978, l’époux a acheté un bien résidentiel en fief simple qui, selon le plan Purvis no 34, est situé sur le lot 42, au nord de la rue Main, dans le village de Winchester (le « bien de Winchester »).
+4. Le bien de Winchester a été acheté pour la somme de 80 000 $, dont 24 000 $ ont été payés en espèces et 56 000 $ par emprunt hypothécaire.
+5. Le ou vers le 1er septembre 1983, le bien de Winchester a été vendu 100 000 $ par acte de transfert daté du 29 août 1983.
+6. La contrepartie de la vente du bien de Winchester a été acquittée par un versement de 45 133,42 $ en espèces et par la prise en charge de l’hypothèque de 54 866,58 $.
+7. Le ou vers le 2 septembre 1983, l’époux a acheté un bien résidentiel en fief simple situé sur le lot 14, plan 804, dans le canton de Rideau, municipalité d’Ottawa-Carleton (le « bien de Manotick » ou le « bien »).
+8. Le bien de Manotick a été acheté pour la somme de 180 000 $, réglée de la manière suivante :
+a. un emprunt hypothécaire de 125 000 $ contracté par l’époux;
+b. 55 000 $ en espèces.
+9. D’août 1983 à septembre 2000, quatre hypothèques ont été consenties sur le bien de Manotick :
+a. le ou vers le 11 août 1983, l’époux a contracté un prêt hypothécaire de 125 000 $ auprès de la Banque Royale du Canada afin d’acheter le bien (la « première hypothèque »);
+b. le ou vers le 6 janvier 1987, l’époux a contracté un prêt hypothécaire de 160 000 $ auprès de la Banque Royale du Canada. Ce prêt a en partie servi à rembourser le solde dû sur la première hypothèque (la « deuxième hypothèque »);
+c. le ou vers le 20 juin 1989, l’époux a contracté un prêt hypothécaire de 250 000 $ auprès de la Banque Royale du Canada. Ce prêt a en partie servi à rembourser le solde dû sur la deuxième hypothèque (la « troisième hypothèque »);
+d. le ou vers le 20 février 1996, l’époux a contracté une hypothèque de 65 000 $ auprès de la Banque de Montréal (la « quatrième hypothèque »);
+(collectivement, les « hypothèques précédant le transfert »).
+10. L’appelante n’était pas débitrice hypothécaire/constituante des hypothèques précédant le transfert, mais à titre d’épouse du débiteur hypothécaire/constituant, elle a donné son accord pour contracter ces prêts hypothécaires et elle a signé chaque acte d’hypothèque immobilière.
+11. Le capital et les intérêts des hypothèques précédant le transfert avaient été remboursés après que le titre foncier du bien de Manotick a été transféré à l’époux en 1983.
+12. Le ou vers le 29 septembre 2000, l’époux a transféré le bien de Manotick à l’appelante (le « transfert »).
+13. Le transfert n’a pas été fait conformément à l’entente de séparation entre l’appelante et son époux, datée du 15 août 2006 et signée le 7 septembre 2006.
+14. Au moment du transfert, la juste valeur marchande du bien de Manotick s’élevait à 315 000 $.
+15. Au moment du transfert, toutes les hypothèques précédant le transfert avaient été acquittées, à l’exception de la quatrième, dont le solde était 65 000 $.
+16. Au moment du transfert et en échange du bien, l’appelante a donné à son époux une contrepartie de 65 001 $, soit 1 $ en espèces et la prise en charge de l’hypothèque de 65 000 $ de la quatrième des hypothèques précédant le transfert. (En affirmant cela, l’appelante n’admet pas qu’elle n’a pas versé une contrepartie plus importante pour le bien).
+17. Aucun droit n’a été payé lors du transfert en application de la Loi sur les droits de cession immobilière.
+18. Le revenu imposable de l’appelante et de son époux était comme suit pour les années suivantes :
+Appelante
+Époux
+2000
+23 448 $
+84 081 $
+1999
+23 345 $
+83 066 $
+1998
+21 875 $
+159 538 $
+1997
+32 268 $
+106 375 $
+1996
+23 154 $
+135 322 $
+1995
+25 461 $
+261 279 $
+1994
+29 146 $
+144 547 $
+1993
+20 784 $
+147 136 $
+1992
+17 979 $
+143 315 $
+1991
+16 586 $
+89 122 $
+1990
+17 022 $
+61 094 $
+1989
+15 840 $
+57 119 $
+1988
+15 505 $
+44 610 $
+1987
+6 624 $
+46 621 $
+1986
+7 639 $
+75 131 $
+1985
+19 480 $
+68 891 $
+1984
+7 869 $
+54 078 $
+1983
+9 607 $
+39 746 $
+1982
+9 790 $
+33 798 $
+1981
+9 475 $
+8 105 $
+1980
+6 183 $
+56 863 $
+1979
+-
+72 138 $
+1978
+-
+33 619 $
+19. De 1980 à 2000, l’appelante était employée à plein temps à titre d’aide‑chiropraticienne.
+20. Au sujet du bien de Manotick :
+a. le ou vers le 9 octobre 2007, l’appelante a contracté un prêt hypothécaire de 400 000 $ auprès de la Banque Royale du Canada (la « première hypothèque prise après le transfert »);
+b. le ou vers le 24 octobre 2007, la Banque de Montréal a accordé mainlevée de la quatrième hypothèque de 65 000 $;
+c. le ou vers le 5 janvier 2009, la Banque Royale du Canada a accordé mainlevée de la première hypothèque prise après le transfert de 400 000 $;
+d. le ou vers le 8 mars 2010, l’appelante a contracté un prêt hypothécaire de 750 000 $ auprès de la Banque Royale du Canada (la « deuxième hypothèque prise après le transfert »);
+e. le ou vers le 9 mars 2010, la Banque Royale du Canada a accordé mainlevée d’une hypothèque inscrite le 4 décembre 2008 et portant le numéro OC934667.
+21. Au sujet du bien situé au 569, rue Main, à Winchester (Ontario) (l’« autre bien de Winchester ») :
+a. le ou vers le 11 septembre 2006, un titre de propriété en fief simple a été transféré de l’entreprise 1091973 Ontario Inc. à 2086751 Ontario Inc., pour une contrepartie s’élevant à 190 000 $, y compris une hypothèque assumée de 39 388,18 $ et un prêt hypothécaire de 83 212,84 $ consenti par le vendeur;
+b. le ou vers le 11 septembre 2006, 2086751 Ontario Inc. a contracté un prêt hypothécaire de 83 212,84 $ auprès de 1091973 Ontario Inc.
+22. Au sujet du bien situé au 5482, rue Main, à Manotick (Ontario) (l’« autre bien de Manotick »), le ou vers le 4 décembre 2008, Hard Key Health Care Inc. a obtenu un prêt hypothécaire de 210 000 $ auprès de la Banque Royale du Canada, dont le numéro d’inscription était OC934668.
+23. Dans les années 1990, l’Agence du revenu du Canada a ouvert une enquête sur 115 cliniques chiropratiques en Ontario et a procédé à leur vérification.
+24. Le facteur qui revenait dans toutes les vérifications était un comptable nommé Léo Sabourin.
+25. M. Sabourin a par la suite été accusé et reconnu coupable, entre autres, de fraude fiscale commise pendant les années d’imposition 1994 à 1999 lors de la préparation de déclarations de revenus de 115 de ses clients, tous des chiropraticiens ontariens.
+26. Pendant toutes ces années, M. Sabourin était le comptable de l’époux.
+27. Le ou vers le 18 décembre 2009, l’époux a déclaré faillite.
+28. L’époux n’a déployé aucun effort pour régler ses dettes fiscales.
+29. Le 29 septembre 2011, en application de l’article 160, l’appelante a fait l’objet d’une cotisation établie à 249 999 $ concernant le transfert.
+30. À la date à laquelle la cotisation a été établie, pour les années d’imposition 1994 à 2000, les obligations fiscales de l’époux au titre de la Loi totalisaient 791 467,96 $ (ce qui exclut les obligations liées à la taxe provinciale) (le montant de 791 467,96 $ représente la « dette fiscale »).
+31. La dette fiscale provenait des nouvelles cotisations en date du 19 mars 2003 établies pour les années d’imposition 1994 à 2000.
+RÉFÉRENCE :
+2015CCI135
+No DU DOSSIER DE LA COUR :
+2012-3414(IT)G
+INTITULÉ :
+ELIZABETH HARDTKE ET SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Ottawa (Ontario)
+DATE DE L’AUDIENCE :
+Le 4 novembre 2014
+MOTIFS DU JUGEMENT :
+L’honorable juge Valerie Miller
+DATE DU JUGEMENT :
+Le 3 juin 2015
+COMPARUTIONS :
+Avocats de l’appelante :
+Me D. Kenneth Gibson
+Me Ryan Flewelling
+Avocat de l’intimée :
+Me Ryan R. Hall
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+D. Kenneth Gibson
+Ryan Flewelling
+Cabinet :
+Gibsons LLP
+Pour l’intimée :
+William F. Pentney
+Sous‑procureur général du Canada
+Ottawa, Canada

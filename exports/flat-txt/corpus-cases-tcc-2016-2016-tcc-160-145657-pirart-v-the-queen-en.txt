@@ -1,0 +1,228 @@
+Title: Pirart v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/145657/index.do
+Corpus path: corpus/cases/tcc/2016/2016-tcc-160-145657-pirart-v-the-queen-en.md
+Document type: case_law
+Last modified: 2016-06-21
+
+# Pirart v. The Queen
+
+- Citation: 2016 TCC 160
+- Decision date: 2016-06-21
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2912, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Pirart v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2016-06-21
+Neutral citation
+2016 TCC 160
+File numbers
+2011-2609(IT)G
+Judges and Taxing Officers
+Kathleen T. Lyons
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2011-2609(IT)G
+BETWEEN:
+GLEN PIRART,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeals heard on June 29, 30 and July 2, 2015,
+at Nanaimo, British Columbia
+Before: The Honourable Justice K. Lyons
+Appearances:
+Counsel for the Appellant:
+Gavin Laird and Margaret MacDonald
+Counsel for the Respondent:
+Christa Akey
+JUDGMENT
+The appeals from the reassessments made under the Income Tax Act for:
+a) the 2005 and 2006 taxation years are allowed and the reassessments are vacated;
+b) the 2007 and 2008 taxation years are dismissed to the extent that Glen Pirart generated income in the amount of $32,400 in each of those years from the marihuana business which he failed to report in his returns and gross negligence penalties are to be applied to that amount in each of those years; and
+c) the 2007 and 2008 taxation years are allowed, in part, and referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the remainder of the alleged unreported income, and gross negligence penalties levied on the amount, for each of those years allocable to the cocaine operation and sales are to be deleted from his income.
+There is no order as to costs.
+Signed at Edmonton, Alberta, this 21st day of June 2016.
+“K. Lyons”
+Lyons J.
+Citation: 2016 TCC 160
+Date: 20160621
+Docket: 2011-2609(IT)G
+BETWEEN:
+GLEN PIRART,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Lyons J.
+[1] Glen Pirart, the appellant, appeals the reassessments made by the Minister of National Revenue issued against him on the bases that he had unreported income in the amounts of $1,050,000 for 2005, $1,200,000 for 2006, $1,350,000 for 2007, and $1,500,000 for 2008 (collectively “unreported income” and “relevant years”) mostly and allegedly from a cocaine business and assessed gross negligence penalties on those amounts in accordance with subsection 163(2) of the Income Tax Act (the “Act”).
+I. ISSUES [2] The issues are:
+a) Whether the 2005 and 2006 taxation years are statute-barred?
+b) Whether the alleged unreported income was properly included in the appellant’s income in the relevant years?
+c) Whether gross negligence penalties under subsection 163(2) of the Act were properly levied against the appellant relating to unreported income for the relevant years?
+[3] Mr. Pirart testified on his own behalf and Albert King, Kelsey Anderson, Chevy Pirart, Dennis Readings and Christine Pirart testified on behalf of Mr. Pirart. Nils Erzinger, a Canada Revenue Agency special enforcement auditor, and Corporal Christopher Boucher, an RCMP officer, testified on behalf of the respondent. An expert evaluation report, prepared by Sergeant Janos J. Korbely of the RCMP, was tendered on behalf of the respondent.
+II. FACTS [4] In September 2005, Mr. Pirart purchased land and buildings on Schoolhouse Road, south of Nanaimo, British Columbia, where he operated his auto-salvage business, Eco Tire and Auto Parts Ltd. (“Eco”), selling scrap vehicles and parts. He had been in the auto-salvage business since the mid‑1990s. Equity of $110,000, from his Hemer Road house in Cedar, was used as a down payment (“Cedar house”).[1] During the relevant years, he reported net income of $4,325 in 2005, $2,073 in 2006, $35,487 in 2007 and $37,442 for 2008 from the operation of Eco. He admitted that the net income from Eco in 2005 and 2006 seemed low and that there was unreported income.
+[5] On April 8, 2009, the RCMP searched 12 building/outbuildings on a large rural property on McLean Road, in Nanaimo, British Columbia (“Property”). These included Mr. Pirart’s residence (“residence”) and structures controlled and used by him and other areas on the Property. Cash seized from the search totalled approximately $765,700 (“Cash seized”) contained in several duffle bags and packaged in bundles of denominations of $20, $50 and $100 bills. Of the Cash seized, $139,000 was found in the residence, $500,020 was located in a workshop next to his residence (“shop”) and amounts of $100,000 U.S. and $25,000 were found in an abandoned trailer at the far end of the Property. There was no evidence that Mr. Pirart had any association with the cash in the trailer.
+[6] Mr. Pirart testified that of the Cash seized, only $9,800 found in the residence belonged to him, the $500,020 in the duffle bag belonged to Mark and Glenn Bolt (the “Bolt brothers”) and the remaining cash belonged to Wendy Anderson including the $55,000 and $5,000 U.S. in the gun safe and $75,000 in containers in the attic.[2]
+[7] Six firearms, 1½ ounces of cocaine in his business bag on the kitchen chair and 408 grams of cocaine located in an ammunition box in his ensuite bathroom vanity were seized from his residence. Mr. Pirart stated that the cocaine, the ammunition box and money counter belonged to Wendy Anderson who sold cocaine, not him. She had wanted him to drop off the 1½ ounces of cocaine at her store and he agreed to that because she did not want to carry it around because her home had been raided the previous year and she was charged with possession for purposes of trafficking (“PPT”) in cocaine and was released on bail. He allowed her to store it, without payment, in his residence out of love. When asked why he let her sell drugs without protection, he responded by saying that he was unable to stop her. Wendy Anderson died on July 26, 2009 from heart failure.
+[8] No female was arrested with respect to Mr. Pirart’s residence and Corporal Boucher said that although he was aware of Wendy Anderson, there was no evidence to suggest that she needed to be investigated relating to the seized items at Mr. Pirart’s residence nor was evidence found to charge anyone else with respect to the cocaine operation on the Property. Corporal Boucher, a credible witness, stated that the RCMP had not observed a cocaine transaction “or something like that”. Consequently, charges for trafficking were not recommended such that Mr. Pirart was charged only with PPT in cocaine. He also said that a “large number” of firearms, ammunitions, and explosives were seized from the shop.
+[9] Despite the large quantity of guns found at his residence, Mr. Pirart denies having a “gun business,” had sold some guns and admitted that the ammunition was his. He claims that some guns belonged to Dennis Paugh who owned and also lived on another part of the Property with his family and was an arborist and hunting and fishing guide. Mr. Pirart lived rent free at the residence because when Mr. Paugh was not around, he was comforted that Mr. Pirart lived on the Property. Mr. Pirart said that whilst he worked in the shop, it remained unlocked and the Bolts, his son and two others had access to the shop.
+[10] Albert King testified he had represented Wendy Anderson in 2008. Her home had been searched and she was charged with PPT in marihuana, under three kilograms, and PPT in cocaine. She pled guilty, was released on bail in September 2008 but the charges were abated because of her death in 2009. He refreshed his memory of the events including a search of the Court Registry for the nature of the charges on the indictment sheet tendered as Exhibit A-2. Mr. King also represented Mr. Pirart when he was charged in 2009 and produced at the tax appeal photographs taken by the RCMP during the search of the Property which were given to him as part of the Crown disclosure and were tendered at the Tax Court hearing.
+[11] Kelsey Anderson, Wendy Anderson’s daughter, testified that she was 18 and living at her mother’s home when it was searched, Kelsey Anderson was charged but said she had never sold cocaine and the charges were withdrawn against her. After the search at her mother’s home, her mother spent five to six days per week at Mr. Pirart’s residence and corroborated that Mr. Pirart was a good friend of her mother’s for 40 years and one year before she passed away, they started dating.
+[12] Chevy Pirart, Mr. Pirart’s son, indicated that he knew Wendy Anderson for 24 years; she had been a long-term friend of his father’s before becoming his partner.
+[13] Between 2005 and up to August 2008, Mr. Pirart lived with his former spouse, a housekeeper in the hotel industry, and their two youngest children until separation in 2008. They did not live a lavish lifestyle as corroborated by his bank statements and credit card statements. In cross-examination, he disagreed that his outlay of funds greatly exceeded his reported net income for the relevant years. He claims that other than Eco and the marihuana business, he had no other businesses and denied he sold cocaine.
+[14] Dennis Readings, a retired Certified General Accountant, prepared Mr. Pirart’s personal and corporate tax returns for 15 years. He indicated that Mr. Pirart purchased the shares of Eco for $200,000 and the land and buildings at Schoolhouse Road for $260,000 with a vendor take-back mortgage of $350,000.
+[15] Mr. Erzinger conducted a desk review. As a preliminary step, he prepared a Source and Application of Funds test (“test”) with a timeline for the relevant years which is standard in the special enforcement program with information updated during the audit as it becomes available.[3] He explained that information is compiled looking at known taxable and non-taxable sources of funds for Mr. Pirart and his household compared with the application of funds that reveals the discrepancies. The application of funds comprise known expenditures and outlays for Mr. Pirart and the household plus estimated personal expenses, imputing a family of two adults, based on information from Statistics Canada.[4]
+[16] Mr. Erzinger confirmed that the $375,000 “Seized cash disbursement”, shown under the 2008 and “Application of Funds” columns, relates to the Minister’s assumption 8 p) of the Reply to the Amended Notice of Appeal (“Reply”) and represents the Cash seized on April 13, 2009, with the accumulation of profits from five kilograms of cocaine sales per month.[5]
+[17] After that test, the auditor conducted an analysis under the projection method because the cocaine business is largely cash-based. He confirmed that the projection method is the basis for the reassessments and is premised on the Cash seized, his communications with law enforcement officials and his knowledge and training as a special enforcement auditor.[6]
+[18] In his report, Mr. Erzinger concluded that a conservative estimate of monthly sales was approximately five kilograms per month and confirmed that the $500,020 amount formed the core of the Cash seized which the Minister assumed was based on the five kilograms. All the assumptions pertaining to the cocaine operation were subsumed into assumption 8 p) of the Reply except assumption 8 q), which was calculated based on assumption 8 p) as follows:
+p) the Appellant sold an average at least 5 kilograms of cocaine per month during 2005 through 2008; and
+q) the Appellant’s net income from the Cocaine Business was at least $1,050,000, $1,200,000, $1,350,000 and $1,500,00 for the 2005, 2006, 2007 and 2008 taxation years, respectively.
+III. ANALYSIS [19] Mr. Pirart asserts that other than the $9,800 found in his business bag, the cash and cocaine seized from his residence belonged to Wendy Anderson. The $500,020 seized from the shop, integral to the Cash seized, belonged to the Bolt Brothers. This is not evidence that he ran a cocaine operation nor can it be imputed to him because he had no interest in the $500,020 as found under the Consent Order issued by the Supreme Court of British Columbia (“SCBC”). He accepts his conviction of PPT in cocaine and had planned to “transport” 1½ ounces for and to Wendy Anderson, but denies that he sold or intended to sell cocaine. His stance is buttressed by the findings of the trial judge in the various criminal court rulings which do not indicate that he was involved in the sale of cocaine which is not a necessary ingredient to constitute trafficking.[7]
+Abuse of Process
+[20] The respondent argues that the doctrine of abuse of process applies to prevent Mr. Pirart from challenging his conviction of PPT in cocaine and he is precluded from testifying, advancing findings and taking a stance contrary to the rulings in the criminal proceedings. He cannot argue that the cocaine operation belonged to Wendy Anderson and that he had nothing to do with it, given that he never did so during the criminal proceedings.
+Is the conviction being re-litigated?
+[21] Albert King, his lawyer in the criminal proceedings, advised him that it was not worth arguing that the cocaine belonged to Wendy Anderson because it was found in his residence and is sufficient for a conviction of PPT. Mr. Pirart contends that the doctrine does not apply, he is not challenging the conviction nor re-litigating the issue as he accepts that he planned to transport the smaller quantity of cocaine for and to Wendy Anderson.
+[22] Abuse of process is a flexible doctrine with the integrity of the adjudicative process at its core with principles such as judicial economy, consistency and finality as to the administration of justice. In Toronto (City) v Canadian Union of Public Employees (C.U.P.E.), Local 79, 2003 SCC 63, [2003] 3 SCR 77 [CUPE], the Supreme Court of Canada indicated that judges have an inherent and residual discretion to prevent an abuse of the court’s process and described the common law doctrine as proceedings “unfair to the point that they are contrary to the interest of justice” and bring the administration of justice into disrepute.[8] The follows observations were made at paragraph 51:
+51 … First, there can be no assumption that relitigation will yield a more accurate result than the original proceeding. Second, if the same result is reached in the subsequent proceeding, the relitigation will prove to have been a waste of judicial resources as well as an unnecessary expense for the parties and possibly an additional hardship for some witnesses. Finally, if the result in the subsequent proceeding is different from the conclusion reached in the first on the very same issue, the inconsistency, in and of itself, will undermine the credibility of the entire judicial process, thereby diminishing its authority, its credibility and its aim of finality.
+[23] On December 5, 2011, Mr. Pirart was found guilty of PPT of cocaine and possession of a loaded, prohibited firearm. The judgment dealt very briefly with the charge of PPT of cocaine. Ms. McCormick was the search warrant expert to whom Mr. King had parcelled out part of the case. Mr. King stated in his testimony that she “sort of guided” their handling of the case. The facts were sparse and he conceded only that the Crown had proven the charge of possession for the purpose of trafficking beyond a reasonable doubt. This is illustrated in the following exchange:
+At the conclusion of the trial, Ms. McCormick, on behalf of Mr. Pirart, acknowledged that the totality of the evidence supported a conclusion that the Crown had proven Count 1 beyond a reasonable doubt. I agree with that submission. It was appropriate for the defence to concede the Crown had proven that count beyond a reasonable doubt. As such, there is obviously a verdict of guilty on Count 1.
+[24] For the reasons that follow, I find that Mr. Pirart was not re-litigating his conviction at the tax appeal in testifying and calling other witnesses relating to Wendy Anderson, his intent to transport the 1½ ounces of cocaine, the cocaine operation and that he was not involved in selling cocaine, all of which is admissible evidence.
+PPT under the Controlled Drugs and Substances Act and Criminal Code
+[25] Section 5 of the Controlled Drugs and Substances Act (“CDS Act”) states:
+5. (1) No person shall traffic in a substance included in Schedule I, II, III or IV or in any substance represented or held out by that person to be such a substance.
+(2) No person shall, for the purpose of trafficking, possess a substance included in Schedule I, II, III or IV.
+[26] “Traffic” is defined in subsection 2(1) of the CDS Act as follows:
+“traffic” means, in respect of a substance included in any of Schedules I to IV,
+(a) to sell, administer, give, transfer, transport, send or deliver the substance,
+(b) to sell an authorization to obtain the substance, or
+(c) to offer to do anything mentioned in paragraph (a) or (b),
+otherwise than under the authority of the regulations.
+[27] “Possession” is defined by the CDS Act with reference to subsection 4(3) of the Criminal Code, RSC, 1985, c. C-46:
+4(3) For the purposes of this Act,
+(a) a person has anything in possession when he has it in his personal possession or knowingly
+(i) has it in the actual possession or custody of another person, or
+(ii) has it in any place, whether or not that place belongs to or is occupied by him, for the use or benefit of himself or of another person; and
+(b) where one of two or more persons, with the knowledge and consent of the rest, has anything in his custody or possession, it shall be deemed to be in the custody and possession of each and all of them.
+[28] Under the legislation, PPT is broadly defined and could include the transport of a substance belonging to another person as submitted by Mr. Pirart. The jurisprudence confirms that the legislation as written, means sale is not a necessary element of drug trafficking.[9]
+[29] The respondent resiled from her initial position that Kelsey Anderson should not be allowed to testify because she had not testified at the criminal trial. Under the criminal law sphere, an accused is under no obligation to testify nor is required to answer the prosecution’s case by calling any witnesses albeit there may be some pressure to call witnesses. Although Mr. Pirart was not permitted to testify at sentencing because he chose not to testify at the criminal trial, that does not preclude him or the witnesses he may call from testifying at the tax appeal. The respondent can also impeach any witnesses that Mr. Pirart brought forward on the basis of different evidence tendered at the criminal trial.
+[30] The respondent relies on a decision of this Court in which the conviction was admissible as prima facie evidence of the facts underlying the conviction after a full trial.[10] Unlike the case relied on by the respondent, Mr. Pirart is not seeking to challenge the facts relating to his criminal conviction nor suggest that he was wrongfully convicted. Based on his lawyer’s advice at the criminal trial, he accepts that he intended to transport cocaine for Wendy Anderson.[11] The evidence adduced by Mr. Pirart and his witnesses that he did not sell cocaine nor was involved in a cocaine operation, his intent to transport to Wendy Anderson and her history plus the advice from his lawyer is supplemental and different from the sparse facts that surfaced at the criminal proceedings and surrounding the conviction. As to whether Mr. Pirart is to be believed depends on credibility as discussed below. I am of the view that Mr. Pirart was not re‑litigating his conviction and find that there is no abuse of process based on his position at the tax appeal.
+Did Mr. Pirart have the unreported income in the relevant years as assessed by the Minister?
+[31] With respect to 2005 and 2006 involving reassessments beyond the normal reassessment periods, subsection 152(5) of the Act places the onus on the Minister to establish a prima facie case. The onus was not met based on the reasons below.
+[32] With respect to 2007 and 2008, the general rule for tax appeals places the initial onus of proof on the taxpayer to demolish the Minister’s assumptions in the reassessments.[12]
+[33] The expert report describes a cocaine operation as breaking down cocaine into consistent weights, the presence of a cutting agent, measuring cup, cash counter and vacuum sealer all point to this conclusion, as does the volume of cocaine seized and bundles of cash. The report provides a valuation of the cocaine. That is inextricably linked to the ownership of the operation and the Cash seized. The report assumes that the Cash seized was linked to the cocaine operation.
+Source and Application of Funds Test
+[34] Whilst the auditor’s “Source and Application of Funds” document noted significant discrepancies in Mr. Pirart’s income and spending, the auditor made some errors in his document. For example, he assumed that Mr. Pirart paid for the De Courcy Drive property. However, Christine Pirart, Mr. Pirart’s mother and a credible witness, explained that in 1989 she had purchased it and paid $30,000 from her own savings. When she encountered marital difficulties, she transferred this property to Mr. Pirart in February 2006 and in July of that year separated from her partner. I accept her explanation. During cross-examination, Mr. Erzinger, a credible witness, acknowledged that there was no information to challenge her evidence that she had transferred it into her son’s name for no consideration.
+[35] The auditor also assumed that Mr. Pirart paid cash into Eco but that was contrary to the testimony of Mr. Pirart’s accountant, also a credible witness and whose explanation I accept, that the $310,393 journal entry that he made did not involve any cash contribution by Mr. Pirart to Eco. Rather, it consisted of $264,000 for the property purchased previously in Mr. Pirart’s name, $30,000 for a management fee and a credit from a previous iteration of Eco. In cross‑examination, Mr. Erzinger agreed that he had no reason to refute Mr. Readings’ testimony relating to the journal entry.
+[36] The auditor admitted that the $110,000 proceeds from the sale of Cedar house was not included in his document, nor was the rental agreement, which he was unaware of, that was made with the tenants of the 2730 McLean’s Road property (“2730”). Visa expenditures of Mr. Pirart’s former spouse were imputed in 2008 as household expenses but her income was not factored in. Such errors were attributable to Mr. Pirart, not the auditor, because Mr. Pirart failed to submit documents to the auditor as requested.[13]
+Projection Method
+[37] Under the projection method, the Cash seized was one of the sources for his assumption regarding monthly sales of five kilograms of cocaine per month. At examinations for discovery, he stated that his view was that the entire amount of Cash seized was Mr. Pirart’s property. However, at the Tax Court hearing, he acknowledged that he was unaware that the SCBC had issued a Consent Order (“Order”) relating to the $500,020 and the Bolt brothers. This is one of the flaws in the projection method used for the relevant years.
+[38] On April 15, 2015, the SCBC issued an Order arising from civil forfeiture proceedings (“action”) between the Director of Civil Forfeiture v The Owners and all Others Interested in the Money, in Particular, Mark Bolt, Glenn Bolt and Glen Pirart, the defendants. The Order was entered in evidence in the tax appeal. Representatives of the parties signed the Order which indicates that the action is dismissed against $180,020 and $320,000 was forfeited under section 5 of the British Columbia Civil Forfeiture Act from proceeds of unlawful activity.
+[39] That provision forfeits to the government the interest in property that a court finds to be the proceeds of unlawful activity. It states:
+5 (1) Subject to section 6, if proceedings are commenced under section 3(1), the court must make an order forfeiting to the government the whole or the portion of an interest in property that the court finds is proceeds of unlawful activity.
+(2) Subject to section 6 and section 13(1), if proceedings are commenced under section 3(2), the court must make an order forfeiting to the government property that the court finds is an instrument of unlawful activity.
+[40] Mr. Pirart argues as a result of the Order, the $500,020 cannot be imputed to him for the purposes of valuation or as evidence that he ran a cocaine operation because the dismissal of the action is to have the same effect as if it had been pronounced after a hearing on the merits.
+[41] In my view, the Order is somewhat ambivalent. That said, his argument relating to evidence is problematic in that it fails to recognize the more restrictive wording in the Order. It states that “The action is dismissed against $180,020 of the $500,020 which has been paid into court, said dismissal to have the same effect as if it had been pronounced after a hearing of the merits” such that the remaining $320,000 was then forfeited under section 5 as proceeds from unlawful activities. Based on that wording, the $320,000 could be attributable to Mr. Pirart, the Bolt brothers or “others” all named as parties in the forfeiture proceedings and noting that the $180,020 was paid to the Bolt brothers’ lawyer, in trust.
+[42] Another difficulty in imputing the entire amount, or a portion, to Mr. Pirart is that after the preamble but before the actual Order, the Court declares “1. The Defendant Glen Pirart has no interest in the property that is the subject of this proceeding.” Compounding that difficulty is the fact that “property” is not defined nor used elsewhere in the Order. Given that the subject of the proceeding is the $500,020 (described as “Money” at the top of the Order), it appears that the word property encompasses the entire $500,020.
+[43] Viewed in that light and recognizing that the ultimate effect of the Order is a dismissal of the entire action and notwithstanding the forfeiture, it could also be construed as Mr. Pirart contends as a pronouncement after a hearing on the merits vis-à-vis the entire amount. That said, I construe it to mean that the $320,000, or a portion, could be imputed to Mr. Pirart assuming other evidence is available to show his involvement in the cocaine operation.
+[44] The respondent asserts that the Order is effectively a non-binding settlement agreement because the facts are untested. I find that assertion to be untenable because a consent order is binding on the original parties as long as it was intended to be dispositive of an issue. In Campbell v Campbell, [1955] 1 DLR 304 (BCSC) [Campbell], the Court stated that a consent order is “valid and binding until set aside on appropriate grounds in an action brought for that purpose.” That was enunciated after citing and upholding the following principle:
+The truth is, a judgment by consent is intended to put a stop to litigation between the parties just as much as is a judgment which results from the decision of the Court after the matter has been fought out to the end. And I think it would be very mischievous if one were not to give a fair and reasonable interpretation to such judgments, and were to allow questions that were really involved in the action to be fought over again in a subsequent action. [14]
+[45] Even if a certain provision of a consent order is unenforceable, this does not annul the rest.[15]
+[46] In the present case, the Order clearly intended to be dispositive of the issues. It was to have the same effect as if it had been pronounced after a hearing on the merits with respect to the $180,000, the Order was not set aside and notably it was also signed by the Minister of National Revenue.
+[47] Other sources of information used by the auditor was described as informal information from law enforcement officials regarding Mr. Pirart’s alleged cocaine sales, upon which he based his calculations, and his “inherent knowledge” and SEP training.[16] Because information from law enforcement officials was exclusively within the knowledge of the Minister, no onus would be placed on Mr. Pirart to rebut a specific assumption made by the Minister relating to the specific information provided which is consistent with the principle in Transocean Offshore Ltd v Canada, 2005 FCA 104, 2005 DTC 5201 (FCA). The Federal Court of Appeal in that case stated that there may be exceptions to the general rule that, in a tax appeal, the Crown’s factual assumptions are to be accepted as true unless rebutted. This would involve situations where shifting the burden may be warranted. Some aspects of the specific information were not fully developed by the respondent.
+[48] The auditor assumed that the equipment belonged to Mr. Pirart and was unaware of Kelsey Anderson’s testimony that she was confident that the ammunition box belonged to her mother and that her mother ran a cocaine operation for many years.
+Credibility
+[49] As to whether or not the unreported income resulting from the cocaine operation was properly included into his income during the relevant years depends on my findings of credibility. The consistency of a witness’s testimony with other known facts or probabilities can be considered. In assessing the credibility of witnesses, including Mr. Pirart, I can accept all, some or none of their evidence and can consider inconsistencies or weaknesses in the evidence and the overall sense of the evidence. When common sense is applied to the testimony, does it suggest that the evidence is possible, impossible, probable or highly improbable.[17] All of which will impact the credibility of a witness.
+[50] I have reservations about aspects of Mr. Pirart’s testimony and his credibility. For example, he testified that he and Dennis Paugh had purchased 2730, which is adjacent to the Property, in 2005 as a foreclosure property with a vendor take-back mortgage. They bought it because the original tenants were going to be removed and the kids knew each other and because they “had cows and stuff over there.” They allowed the tenants to remain on the property for five years in exchange for rent.
+[51] It was purchased for $177,000 and mortgaged for $120,000. He stated that despite the $57,000 difference, they were only going to have to pay $10,000 each. When asked how he came up with the $10,000, he said that it was “not a huge stretch to come up with,” and that he “probably sold a car or something” or that it could have come from either the house or the car or both. At examinations for discovery, he stated that the $10,000 might have come from the sale of his Cedar house. His response was unconvincing, evasive and cavalier regarding the $10,000 for someone that reported such low income. Other concerns revolve around the existence of four hydro meters and his explanation of those, his failure to report sales from his marihuana business and his financial motivation relating to family court proceedings.[18] Despite those reservations and the discrepancies with regard to his income and expenditures, in and of itself, it is not indicative of a cocaine operation.
+[52] The respondent asserted that little weight should be given to Kelsey Anderson’s testimony because the ammunition box did not have distinguishing characteristics, and because she could not definitively say that specific items belonged to her mother. I disagree.
+[53] In her testimony, Kelsey Anderson confirmed from the photographs, and consistent with Mr. Pirart’s testimony, that several personal items and objects belonged to her mother (clothing, toiletries and other items). She was confident it was her mother’s ammunition box who owned it her whole life and stored her “stuff” in it (cocaine and accessories) and did so in a certain manner (scale at the bottom and plastic container on top) and in a certain place (in the vanity) when Kelsey Anderson resided with her mother at their home.
+[54] Kelsey Anderson was candid in saying that she was unsure if the money counter in the photograph was her mother’s and although not illustrated in the photographs, she was able to describe the scale similar to the one described by Corporal Boucher that is used in such operations. In her testimony and in cross‑examination, Kelsey Anderson was unequivocal in stating that she had witnessed her mother selling marihuana and cocaine “daily” all her life to hundreds of people and used the proceeds to support Kelsey.
+[55] Albert King stated that when representing clients he told them to “keep their mouths shut,” told them what to do, did not allow his clients to give him instructions with regard to the criminal proceedings and did not ask anything of them unless he asks his client a specific question. He said that this fell short of duress. At the sentencing hearing, Mr. King stated that while Mr. Pirart had knowledge and control of all the cocaine, he was only going to traffic 1½ ounces found in his business bag but Mr. Pirart was not allowed to testify for the purposes of sentencing because he had not testified at the criminal trial.
+[56] The testimony from Kelsey Anderson and Mr. King, both credible witnesses, provided strong corroborative evidence of various aspects of Mr. Pirart’s evidence. This includes but is not limited to Kelsey Anderson’s testimony relating to the ammunition box and the manner it and the cocaine and accessories were maintained; her mother’s belongings at his residence; the raid at her mother’s home the previous year pursuant to which she was charged with the PPT of cocaine and her observation of daily drug sales by her mother her entire life. Mr. King’s testimony, against his own interest, was also meaningful.
+[57] On balance, that evidence coupled with the nature of Mr. Pirart’s relationship with Wendy Anderson and the fact that in 2008 she was charged with drugs offences, and I note a loaded, prohibited firearm, is compelling and tends to corroborate Mr. Pirart’s testimony making it possible that the cocaine operation was not his, he did not sell cocaine thus did not profit from it. Apart from that, the Court rulings from the criminal proceedings do not indicate he was selling cocaine, that was not observed by the police, fingerprints on three of the bundles of cash were not his, others had access to the unlocked shop and the findings in the SCBC Order. In my opinion, these factors tend to support his evidence and position that the cocaine operation was not his and he was merely “transporting” the smaller quantity to and for Wendy Anderson and allowing her to store the rest.
+[58] Consequently, I find that Mr. Pirart demolished the Minister’s assumptions relating to the cocaine operation and sales for the relevant years. Because the calculations under the projection method affected the 2005 and 2006 statute‑barred years, I also find that the Minister did not discharge her onus relating to the 2005 and 2006 taxation years. I conclude that Mr. Pirart did not have income from cocaine sales during the relevant years.
+Marihuana business [59] In his testimony, Mr. Pirart said that he was involved in growing, packaging and the sale of marihuana and claims he started a grow operation in 2007 at his residence. When asked about the four hydro meter accounts in his name since 2005, inexplicably his response was that there were a couple of different meters; one for his residence and one for the shop but he failed to explain the others. It appears that the marihuana operation business commenced earlier than he admits.
+[60] The marihuana found in his residence was his. He indicated that he grew marihuana plants in 2007 and 2008, cut off clones and sold them to other growers in 2007, 2008 and 2009. He also harvested dried marihuana from an offsite location, packaged it at his residence and sold it. He estimates that he had received, but did not report, $20,000 to $30,000 in income from these activities.[19] This is based on the score sheet that has numbers recorded and/or crossed out. He claims that these activities were started due to financial pressures from marital difficulties and legal bills for divorce and custody proceedings.
+[61] The expert report valued the potential profit that Mr. Pirart could have made from this business based on Mr. Pirart’s own testimony over the course of 14 months as $42,700.
+[62] Based on the evidence, I find that he had a marihuana business in 2008 yielding $32,400 in unreported income. He admitted to growing marihuana in 2007 and had four hydro accounts as early as 2005, I infer from his activities relating to marihuana that in 2007 he also generated income and would have netted $32,400 in unreported income.
+Were gross negligence penalties properly applied in 2007 and 2008?
+[63] Given my findings relating to the cocaine operation and marihuana business, the last issue before me is whether gross negligence penalties were properly applied only to the 2007 and 2008 taxation years and only relating to the the unreported income from the marihuana sales. Subsection 163(2) of the Act states:
+(2) Every person who, knowingly, or under circumstances amounting to gross negligence, has made or has participated in, assented to or acquiesced in the making of, a false statement or omission in a return, form, certificate, statement or answer (in this section referred to as a “return”) filed or made in respect of a taxation year for the purposes of this Act, is liable to a penalty […]
+[64] In Venne v Canada (Minister of National Revenue – MNR), [1984] FCJ No. 314 (QL), 84 DTC 6247 (FCTD), the Federal Court stated: “Gross negligence involves a high degree of negligence, tantamount to intentional acting, and indifference as to whether the law is complied with or not.”
+[65] The same Court in Panini v Canada, 2006 FCA 224, 2006 DTC 6450 (FCA) confirmed that willful blindness could also lead to gross negligence and “arises where a person who has become aware of the need for some inquiry declines to make the inquiry because he does not wish to know the truth. He would prefer to remain ignorant.”
+[66] In Molenaar v Canada, 2004 FCA 349, 2004 DTC 6688 (FCA), the Court stated:
+4 Once the Ministère establishes on the basis of reliable information that there is a discrepancy, and a substantial one in the case at bar, between a taxpayer's assets and his expenses, and that discrepancy continues to be unexplained and inexplicable, the Ministère has discharged its burden of proof. It is then for the taxpayer to identify the source of his income and show that it is not taxable.
+[67] In Lacroix v Canada, 2008 FCA 241, 2009 DTC 5029 (FCA), the Federal Court of Appeal commented on the Crown’s burden of proof with respect to gross negligence penalties:
+32 … Insofar as the Tax Court of Canada is satisfied that the taxpayer earned unreported income and did not provide a credible explanation for the discrepancy between his or her reported income and his or her net worth, the Minister has discharged the burden of proof on him within the meaning of subparagraph 152(4)(a)(i) and subsection 162(3).[20]
+[68] In cross-examination, Mr. Readings said that he had prepared the corporate returns based on financial statements but was unaware of income from Mr. Pirart’s marihuana business.
+[69] Mr. Pirart conceded that he had received income from sales of marihuana in 2007 and 2008 but did not report the same because he did not think he had to report it.[21] The amounts generated from the marihuana business were substantial compared to the income he reported. I reject his explanation as not credible. He could have sought advice from his accountant. I find that he was willfully blind and indifferent as to whether he complied with the law or not. In my view, gross negligence penalties pursuant to subsection 163(2) of the Income Tax Act are well-founded based on unreported income in the amount of $32,400 in each of the 2007 and 2008 taxation years relating to his marihuana business.
+[70] For the foregoing reasons, the appeals from the reassessments relating to:
+a) the 2005 and 2006 taxation years are allowed and the reassessments are vacated;
+b) the 2007 and 2008 taxation years are dismissed to the extent that Mr. Pirart generated income in the amount of $32,400 in each of those years from the marihuana business which he failed to report in his returns and gross negligence penalties are to be applied to that amount in each of those years; and
+c) the 2007 and 2008 taxation years are allowed, in part, and referred back to the Minister for reconsideration and reassessment on the basis that the remainder of the unreported income for each of those years allocable to the cocaine operation and sales are to be deleted from his income.
+[71] Given the mixed success, there will be no order as to costs.
+Signed at Edmonton, Alberta, this 21st day of June 2016.
+“K. Lyons”
+Lyons J.
+CITATION:
+2016 TCC 160
+COURT FILE NO.:
+2011-2609(IT)G
+STYLE OF CAUSE:
+GLEN PIRART and HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Nanaimo, British Columbia
+DATE OF HEARING:
+June 29, 30 and July 2, 2015
+REASONS FOR JUDGMENT BY:
+The Honourable Justice K. Lyons
+DATE OF JUDGMENT:
+June 21, 2016
+APPEARANCES:
+Counsel for the Appellant:
+Gavin Laird and Margaret MacDonald
+Counsel for the Respondent:
+Christa Akey
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Glen Laird and Margaret MacDonald
+Firm:
+Laird & Company
+Pitt Meadows, British Columbia
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] He lived in the Cedar house, south of Nanaimo, with his son up to 2000 and afterwards rented it sporadically up to 2005.
+[2] The $9,800 included $6,580 in his business bag, which also contained a cheque deposit book, and some cash under his mattress and in the dresser.
+[3] He explained that the source and application of funds is akin to but not the same as a net worth.
+[4] Tendered as Exhibit R-1, Tab 37 and Exhibit R-3.
+[5] The $765,700, assumed as the aggregate amount for cocaine sales, is based on five kilograms per month pursuant to the projection method from October 2008 to April 2009 at $50,000 per kilogram with a $25,000 profit.
+[6] Findings per the projection method is reflected in Exhibit R-1, Tab 35.
+[7] Admissibility of evidence, constitutionality, warrants, sentencing et cetera.
+[8] CUPE also dealt with other common law doctrines such as collateral attack (which prevents a conviction from being overturned in the wrong forum, i.e., in proceedings whose specific object is not to reverse, vary, or nullify the order or judgment) and res judicata, including issue estoppel, none of which apply in the present case.
+[9] See R v Wood, 2007 ABCA 65, [2007] AJ No. 763 (QL) (ABCA).
+[10] In Raposo v Canada, 2013 TCC 265, 2013 DTC 1216, the individual sought to challenge the circumstances of the conviction.
+[11] In any event, he says adducing evidence at the criminal trial that the cocaine was part of her operation would not have prevented him from being charged under the legislation.
+[12] Hickman Motors Ltd. v Canada, [1997] 2 SCR 336 at paragraph 92.
+[13] CRA letter sent on June 25, 2009.
+[14] In Reid v Reid, (1969), 68 WWR 93 (BCSC) [Reid], the Court distinguished the situation from Campbell on the basis that in Reid the consent order stemmed from a situation where there was no intention that the order would dispose of the issues such that it was nothing more than a withdrawal of the respondent’s claims. In Moradkhan v Mofidi, 2015 BCSC 934, [2015] BCJ No. 1149 (QL) (BCSC), the Court noted the basis in Reid, there was no intention that the order would dispose of the issues.
+[15] These principles are referenced in subsequent cases, such as Shackleton v Shackleton, 1999 BCCA 704, [1999] BCJ No. 2653 (QL) (BCCA) [Shackleton] and Dediluke v Dediluke (Public Trustee of), 2000 BCSC 487, [1999] BCJ No. 2653 (QL) (BCSC) [Dediluke]. In Shackleton, it was noted that “A consent order is a formal expression of an agreement between the parties. Where parties intend to finally dispose of the issues between them, a consent order will operate as a final judgment […] For the same reason that courts enforce settlement agreements, to provide certainty to parties settling disputes, consent orders are not easily altered. Subject to statutory provisions otherwise a consent order may be set aside or altered in substance only in circumstances which justify the same treatment to the underlying contract.” In Dediluke, the consent order was not intended to be dispositive as the parties contemplated the potential of re‑opening of the issues.
+[16] Approximately 8 to 10 kilograms per month and the cost of goods acquired was approximately 50% of sales revenue.
+[17] Nichols v Canada, 2009 TCC 334, 2009 DTC 1203, at paragraphs 22 and 23.
+[18] Exhibit R-2, Tab 82, paragraph 17.
+[19] Exhibit R-2, Tab 61, pages 1 and 2 and Exhibit R-4, page 6.
+[20] See also Sbrollini v Canada, 2015 TCC 178, 2015 DTC 1167.
+[21] He also said that the income he reported from Eco in 2005 and 2006 seemed to be low. There are substantial differences between his income and expenses. As to the properties bought and sold, in some instances his evidence was corroborated (De Courcy) and in other instances no adequate explanation was provided (2730 property).

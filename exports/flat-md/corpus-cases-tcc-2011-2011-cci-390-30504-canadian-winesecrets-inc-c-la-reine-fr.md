@@ -1,0 +1,139 @@
+---
+title: "Canadian Winesecrets Inc. c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30504/index.do"
+last_modified: "2011-09-16"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2011 CCI 390"
+citation2: ""
+neutral_citation: "2011 CCI 390"
+decision_date: "2011-09-16"
+language: "fr"
+item_id: "30504"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7257
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T13:37:48.963000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "d49f7ef412716bb2fc0c0993d135b35b5cd588e6cabdaaa27f0c0987143a7305"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Canadian Winesecrets Inc. c. La Reine
+
+- Citation: 2011 CCI 390
+- Decision date: 2011-09-16
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7257, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Canadian Winesecrets Inc. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2011-09-16
+Référence neutre
+2011 CCI 390
+Numéro de dossier
+2011-154(IT)I
+Juges et Officiers taxateurs
+François M. Angers
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2011-154(IT)I
+ENTRE :
+CANADIAN WINESECRETS INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 16 mai 2011 à Calgary (Alberta).
+Devant : L’honorable juge François Angers
+Comparutions :
+Représentants de l’appelante :
+M. Douglas Cageorge
+M. Douglas Porter
+Avocat de l’intimée :
+Me Robert Neilson
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’encontre de la nouvelle cotisation établie en application de la Loi de l’impôt sur le revenu pour l’année d’imposition 2005 est rejeté conformément aux motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 16e jour de septembre 2011.
+« François Angers »
+Juge Angers
+Traduction certifiée conforme
+ce 31e jour d’octobre 2011
+Hélène Tremblay, traductrice-conseil
+Référence : 2011 CCI 390
+Date : 20110916
+Dossier : 2011-154(IT)I
+ENTRE :
+CANADIAN WINESECRETS INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Angers
+[1] Il s’agit d’un appel relatif à la nouvelle cotisation établie à l’encontre de l’appelante pour son année d’imposition 2005. Lorsqu’il a établi la nouvelle cotisation en question, le ministre du Revenu national (le « ministre ») a exigé une retenue d’impôt de 15 p. 100 suivant le paragraphe 215(1) de la Loi de l’impôt sur le revenu (la « Loi »), par suite d’un transfert libre d’impôt (« transfert ») effectué en application des dispositions de l’article 85 de la Loi. Le ministre soutient que l’appelante n’a acquis aucun achalandage lorsqu’un dénommé Eric T. Dahlberg, non‑résident, a effectué un transfert libre d’impôt de ses actifs à l’appelante. De l’avis du ministre, le montant de l’achalandage en question constitue un dividende réputé suivant l’article 212.2 de la Loi, et l’appelante est assujettie à une retenue d’impôt conformément au paragraphe 215(1) de la Loi.
+[2] L’appelante a été constituée en société le 8 novembre 2004. Auparavant, Eric T. Dahlberg, qui était un non-résident, exploitait l’entreprise en qualité de propriétaire unique depuis 2002. Le 1er janvier 2005, l’appelante a fait l’acquisition des actifs de l’entreprise de M. Dahlberg, lesquels se composaient à l’époque d’espèces, de placements à court terme et de comptes clients totalisant 118 342 $. L’entreprise avait aussi des comptes créditeurs de 181 357 $. L’appelante soutient que, lors du transfert libre d’impôt, la différence de 63 015 $ constituait de l’achalandage.
+[3] Il a été admis à l’instruction qu’avant le transfert libre d’impôt, l’appelante n’avait aucun processus exclusif ou de contrats à long terme en vigueur. Le ministre a formulé l’hypothèse de fait voulant qu’il n’y ait pas eu de tentative visant à évaluer l’achalandage de l’entreprise avant le transfert. Bien que l’appelante ait nié cette hypothèse à l’instruction, elle n’a présenté aucun élément de preuve visant à la contredire, de sorte que celle-ci doit être tenue pour avérée.
+[4] Il a également été admis qu’avant le transfert, l’entreprise individuelle avait déclaré des pertes continuelles.
+[5] Bien que ces faits aient été admis, il convient de souligner que l’appelante n’a présenté à l’instruction aucun témoin qui aurait pu étayer les renseignements que son témoin expert a invoqués pour prouver l’existence de l’achalandage lors du transfert. Le seul témoin de l’intimée était son témoin expert. L’intimée s’est fondée sur le témoignage de ce dernier pour montrer que le montant de 63 015 $ que l’appelante avait imputé à l’achalandage n’était pas raisonnable ou qu’il n’y avait aucun achalandage avant le transfert.
+[6] Il ressort du témoignage des deux experts en évaluation d’entreprises ainsi que des rapports que ces derniers ont présentés et des documents qui y étaient joints que l’appelante est une entreprise offrant des technologies mobiles de filtration du vin sous différentes formes à des établissements vinicoles ou producteurs de vin afin de leur permettre d’améliorer la qualité de leurs vins. L’appelante fournit à ses clients l’équipement nécessaire pour assurer cette amélioration de la qualité.
+[7] La question se résume principalement à celle de savoir si l’appelante a acquis de l’achalandage lorsque les actifs de l’entreprise à propriétaire unique lui ont été transférés par voie d’un transfert libre d’impôt suivant l’article 85. Dans l’affirmative, il faut également déterminer la valeur de l’achalandage en question. En d’autres termes, la preuve du témoin expert de l’appelante réfute-t-elle l’hypothèse du ministre et le témoignage de l’expert de l’intimée selon lesquels l’achalandage en question, s’il existait, n’avait aucune valeur?
+[8] Tel qu’il est mentionné plus haut, les seuls témoignages entendus sont ceux des témoins experts respectifs des parties. Afin d’établir leurs rapports, les deux experts ont reçu des documents concernant l’entreprise qui existait avant et après le transfert. Certains de ces documents étaient joints au rapport du témoin expert de l’intimée, mais le témoin expert de l’appelante n’en a produit aucun, bien que je doive dire que quelques-uns des documents que l’expert de l’appelante a utilisés étaient semblables à ceux que l’expert de l’intimée a employés.
+[9] Le mot « achalandage » (« goodwill ») n’est pas défini dans la Loi. Dans le Black’s Law Dictionary, le mot « goodwill » (achalandage) est défini comme suit :
+[traduction]
+La réputation et la clientèle d’une entreprise ainsi que les autres éléments d’actif incorporels qui sont pris en compte lors de son évaluation, notamment à des fins d’achat; la capacité de gagner un revenu supérieur à celui qui serait attendu de l’entreprise si elle était considérée comme un simple ensemble d’actifs.
+[10] Dans Gifford c. Canada, [2004] 1 R.C.S. 411, la Cour suprême du Canada a décrit l’achalandage comme un actif pouvant être considéré comme un bien de nature capitale s’il procure un avantage durable. Dans son ouvrage intitulé The Fundamentals of Income Tax Law, à la page 347, Vern Krishna souligne que l’achalandage peut découler [traduction] « de la location, de la réputation, de la fidélité à la marque, d’une gestion compétente, de bonnes relations de travail et des marques de commerce ». Enfin, dans Cruttwell v. Lye, 34 E.R. 129, à la page 134, Lord Eldon a affirmé que l’achalandage s’entendait de [traduction] « la probabilité que les anciens clients reviennent au même endroit ».
+[11] Dans le Black’s Law Dictionary, l’expression « personal goodwill » (achalandage personnel) est également définie comme l’achalandage attribuable aux compétences, aux connaissances, aux efforts, à la formation ou à la réputation d’une personne qui contribuent au succès d’une entreprise. Les expressions « professional goodwill » (achalandage professionnel), « separate goodwill » (achalandage distinct) et « individual goodwill » (achalandage individuel) sont également utilisées pour décrire ce type d’achalandage, qui n’est pas nécessairement transférable.
+[12] De plus, le mot achalandage a un sens différent en comptabilité, c’est-à-dire qu’il n’est pas nécessaire que l’actif procure un avantage durable ou qu’il existe une promesse de relations continues avec les clients. Barry J. Epstein, Ralph Nach et Steven M. Bragg (Wiley GAAP 2007 – Interpretation and Application of Generally Accepted Accounting Principles, à la page 444) définissent l’achalandage comme [traduction] « l’excédent du coût de la participation acquise dans une société bénéficiaire d’investissements par rapport au total des montants attribués aux actifs identifiables acquis, moins les éléments de passif pris en charge », ce qui se traduit par la différence entre la valeur d’une entreprise et le montant effectivement versé pour son acquisition.
+[13] Le fardeau de la preuve incombe à l’appelante, qui doit démontrer, selon la prépondérance des probabilités, la valeur attribuée à l’achalandage lors du transfert libre d’impôt de l’entreprise d’Eric Dahlberg à l’appelante.
+[14] Dans Marcon c. La Reine, 2008 CCI 116, le juge Favreau a conclu qu’il incombait à la partie appelante de montrer l’existence d’un achalandage significatif au sein de son entreprise, et ce, à l’aide de méthodes fiables et précises. Le juge Favreau a ajouté que, si la partie intimée produit un rapport d’expertise appuyant son évaluation de l’achalandage, la partie appelante doit présenter des éléments de preuve qui, à tout le moins, contredisent les conclusions du rapport.
+[15] L’expert de l’appelante en est arrivé à la conclusion que, lors du transfert, l’entreprise non constituée en société de M. Dahlberg comportait un achalandage qui pouvait être vendu sur le marché, de sorte que le montant de 63 015 $ au titre de l’achalandage était raisonnable et se situait à l’intérieur de la fourchette comprise entre zéro et la juste valeur marchande. Pour en arriver à cette conclusion, l’expert de l’appelante a utilisé l’une des trois méthodes servant généralement à déterminer la valeur d’un investissement dans une société fermée, soit la méthode du revenu ou des flux de trésorerie, qui consiste à actualiser les bénéfices ou les flux de trésorerie normalisés ultérieurs attendus de l’appelante à l’aide d’un taux de capitalisation approprié. En se fondant sur les documents qu’il avait reçus pour préparer son rapport, notamment le plan d’entreprise de l’appelante et la prévision de la direction, qui anticipait des bénéfices après impôt d’environ 75 000 $ pour 2005, et en appliquant les taux d’actualisation de 30 p. 100 et de 40 p. 100 qui convenaient pour un investissement à un stade précoce dans une entreprise similaire, l’expert en est arrivé à une évaluation d’entre 187 500 $ et 250 000 $ et a donc conclu que le montant de 63 015 $ attribué dans ce cas-ci à un achalandage pouvant être vendu sur le marché était raisonnable et se situait à l’intérieur de la fourchette acceptable, soit entre zéro et la juste valeur marchande estimative de l’entreprise de l’appelante (qui s’établissait à un montant allant de 187 500 $ à 250 000 $). Aucun des documents que l’expert de l’appelante a utilisés n’a été présenté en preuve.
+[16] Pour sa part, l’expert de l’intimée établit clairement une distinction entre l’achalandage commercial et l’achalandage personnel. L’expert définit ces deux expressions comme suit :
+[traduction]
+L’achalandage commercial concerne les attitudes favorables des clients envers une entreprise. Sa valeur correspond dans bien des cas aux avantages qu’il offre à certains acheteurs éventuels en leur permettant d’entrer rapidement et à peu de frais sur le marché, grâce à l’acquisition de la réputation, de la base de clientèle, de l’organisation et de la structure, du personnel formé et d’expérience, de l’emplacement, des installations de bureau et des autres avantages que comporte une pratique établie. Il est généralement reconnu que l’achalandage commercial suit l’entreprise et peut être transféré à différents propriétaires, de sorte qu’il peut avoir une valeur significative.
+L’achalandage personnel renvoie à la compétence, aux aptitudes, à l’expérience, aux contacts et à la réputation des personnes. Ce sont des éléments qui sont propres à l’individu, qui ne peuvent être transférés en soi et dont la valeur commerciale est minime, voire inexistante.
+[17] L’expert conclut que l’achalandage de l’entreprise provenait de M. Dahlberg lui-même et ne pouvait donc être transféré à l’appelante. Il se fonde à cet égard sur les conclusions tirées de documents (dont certains étaient joints au rapport) ou de renseignements fournis par l’appelante. Selon le rapport, il n’y avait aucun employé de bureau formé et d’expérience, aucune base de clientèle établie, aucune installation de bureau et aucun contrat exclusif entre l’entreprise de M. Dahlberg et les fournisseurs de celle-ci qu’il aurait été possible de transférer à l’appelante. Il a également été conclu que les services fournis n’étaient ni nouveaux ni exclusifs et pouvaient facilement être obtenus auprès d’autres fournisseurs, de plus, avant le transfert, l’entreprise individuelle de M. Dahlberg n’avait pas de personnel expérimenté ou d’immobilisation importante et avait une perte cumulative de plus de 61 000 $, sans tenir compte du salaire raisonnable qui aurait été versé pour les trois années précédentes, de sorte qu’elle ne se trouvait pas dans une situation financière reluisante. Enfin, l’expert s’est fondé sur la déclaration suivante du comptable de l’appelante :
+[traduction]
+Lors de la constitution en société, le propriétaire a fourni une valeur en plus des actifs transférés afin de permettre à l’entreprise de poursuivre ses activités à l’aide de la nouvelle structure. Cette mesure découlait de deux grandes préoccupations, soit (i) l’accès raisonnable à l’équipement nécessaire et (ii) la capacité technique et de gestion voulue pour lancer et exploiter cette entreprise de services et la maintenir en activité.
+L’équipement utilisé à l’époque était obtenu principalement à la pièce, grâce aux contacts que Dahlberg avait établis avec des propriétaires d’équipement disponible à des fins de relocation.
+L’expert a tiré la conclusion suivante :
+[traduction]
+Il ne semble pas y avoir le moindre élément de preuve établissant l’existence d’un achalandage observable ou quantifiable avant le transfert, et la simple poursuite de l’activité commerciale de la contribuable sans interruption perceptible lors du transfert de l’entreprise n’a créé en soi aucune forme d’achalandage.
+À mon avis, l’entreprise Winesecrets, qui appartenait exclusivement à M. Eric T. Dahlberg, n’avait aucun achalandage commercial à la date du transfert. Même si la contribuable a envoyé des documents montrant que trois clients avaient fait à nouveau affaires avec l’entreprise en 2004 et 2005, ces documents ne suffisent pas en soi à établir l’existence d’un achalandage vendable. En conséquence, le montant de 63 015 $ que la contribuable a attribué à l’achalandage n’est pas raisonnable.
+[18] Tel qu’il est mentionné plus haut, le fardeau de la preuve incombe à l’appelante, qui doit établir, selon la prépondérance des probabilités, que M. Dahlberg lui a transféré de l’achalandage commercial. Dans la présente affaire, l’expert de l’appelante a calculé le montant de l’achalandage simplement en déterminant la valeur de l’actif et du passif de l’entreprise individuelle de M. Dahlberg à l’aide de l’estimation des bénéfices que l’appelante avait fournie pour l’année 2005 et en appliquant des taux d’actualisation de 30 p. 100 et de 40 p. 100 afin d’obtenir une valeur qui lui permettait de conclure que le montant de 63 015 $ attribué à l’achalandage était raisonnable, parce qu’il se situait à l’intérieur de la fourchette comprise entre zéro et la juste valeur marchande. À mon avis, cette évaluation aurait été plus fiable si l’expert avait utilisé les données qui s’appliquaient à l’entreprise avant le transfert afin de déterminer de façon estimative la fourchette de valeurs à l’intérieur de laquelle l’achalandage aurait pu se situer plutôt que de se fonder sur l’estimation relative aux bénéfices de l’appelante.
+[19] L’expert de l’appelante a également affirmé dans son rapport qu’il ne présentait pas une opinion formelle sur la valeur ou une estimation formelle de celle‑ci. Il a admis que cette estimation aurait nécessité une enquête plus approfondie, notamment un examen des installations et une étude du marché correspondant aux services de l’entreprise en cause. L’expert de l’appelante ne s’est pas demandé si M. Dahlberg avait transféré à celle-ci des actifs qui constituaient de l’achalandage commercial du fait qu’ils permettaient d’obtenir un avantage durable et assureraient la poursuite des activités de l’entreprise. Il n’y a aucun renseignement au sujet d’une liste de clients ou encore de la réputation, de l’emplacement ou de la fidélité à la marque. Il a été fait mention d’un accord d’exclusivité, mais la preuve relative à l’existence d’un accord de cette nature est ténue, sinon inexistante.
+[20] Le rapport de l’expert de l’appelante ne permet nullement de savoir, aux fins du présent appel, s’il y a eu vente d’achalandage commercial à l’appelante. Il ne permet pas non plus de réfuter l’hypothèse de l’intimée selon laquelle il n’y a pas eu de transfert d’achalandage de M. Dahlberg à l’appelante.
+[21] Comme il ressort de la décision rendue dans Les placements A & N Robitaille Inc. v. M.N.R., 96 DTC 1062, la question à poser pour savoir si l’achalandage est personnel est la suivante : y aura-t-il encore de l’achalandage si la personne se retire de l’entreprise? Selon le rapport de l’expert de l’intimée, la question pourrait être formulée comme suit dans la présente affaire : si M. Dahlberg était décédé, s’il s’était retiré, s’il avait cessé de s’intéresser à l’entreprise ou s’il l’avait quittée pour une autre raison, y aurait-il encore une entreprise? L’expert a répondu par la négative à cette question. L’achalandage qui existait, comme le savoir-faire de M. Dahlberg et l’accès qu’il avait à l’équipement, aurait disparu avec lui. À mon avis, s’il existait une forme d’achalandage, il s’agissait d’un achalandage de nature personnelle qui ne pouvait être transféré.
+[22] L’appelante n’a pas réussi à réfuter l’hypothèse du ministre ou l’opinion de l’expert selon lesquelles aucune forme d’achalandage n’a été transférée de M. Dahlberg à l’appelante. L’appel est rejeté.
+Signé à Ottawa, Canada, ce 16e jour de septembre 2011.
+« François Angers »
+Juge Angers
+Traduction certifiée conforme
+ce 31e jour d’octobre 2011
+Hélène Tremblay, traductrice-conseil

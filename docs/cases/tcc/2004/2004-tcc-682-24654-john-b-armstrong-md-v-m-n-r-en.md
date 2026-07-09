@@ -1,0 +1,190 @@
+---
+title: "John B. Armstrong, MD v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/24654/index.do"
+last_modified: "2004-10-18"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 TCC 682"
+citation2: ""
+neutral_citation: "2004 TCC 682"
+decision_date: "2004-10-18"
+language: "en"
+item_id: "24654"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2181
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T18:55:01.624000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "1687f1c128f27ddc474e59ceb164e08000e5cfe7db32e203070bddce3f6bc8fe"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# John B. Armstrong, MD v. M.N.R.
+
+- Citation: 2004 TCC 682
+- Decision date: 2004-10-18
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2181, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+John B. Armstrong, MD v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-10-18
+Neutral citation
+2004 TCC 682
+File numbers
+2003-3801(CPP)
+Judges and Taxing Officers
+Terrence O'Connor
+Subjects
+Canada Pension Plan
+Decision Content
+Docket: 2003-3801(CPP)
+BETWEEN:
+JOHN B. ARMSTRONG, M.D.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeal of John B. Armstrong, M.D.,
+(2003-3802(EI)) at Vancouver, British Columbia, on July 20, 2004
+Before: The Honourable Justice T. O'Connor
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Stacey Repas
+____________________________________________________________________
+JUDGMENT
+The appeal is allowed and the decision of the Minister is vacated in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 18th of October, 2004.
+"T. O'Connor"
+O'Connor, J.
+Docket: 2003-3802(EI)
+BETWEEN:
+JOHN B. ARMSTRONG, M.D.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeal of John B. Armstrong, M.D.
+(2003-3801(CPP)) at Vancouver, British Columbia, on July 20, 2004
+Before: The Honourable Justice T. O'Connor
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Stacey Repas
+____________________________________________________________________
+JUDGMENT
+The appeal is allowed and the decision of the Minister is vacated in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 18th day of October, 2004.
+"T. O'Connor"
+O'Connor, J.
+Citation: 2004TCC682
+Date: 20041018
+Dockets: 2003-3801(CPP)
+2003-3802(EI)
+BETWEEN:
+JOHN B. ARMSTRONG, M.D.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+REASONS FOR JUDGMENT
+O'Connor, J.
+[1] The issue in these appeals is whether in the years 2001 and 2002, Ms. Joanne Shovar ("Joanne") and Ms. Tracy Martyn ("Tracy"), (together the "Workers"), were engaged in insurable employment pursuant to paragraph 5(1)(a) of the Employment Insurance Act and in pensionable employment pursuant to subsection 6(1) of the Canada Pension Plan, in their relationships with the Appellant.
+[2] The Minister of National Revenue (the "Minister") determined that the Workers were engaged in insurable employment and pensionable employment on the basis that they were hired under contracts of service as opposed to contracts for services (independent contractors) and assessed the Appellant in the amounts of $800.01 and $1,455.64 for employment insurance premiums not deducted in 2001 and 2002 respectively and $1,017.48 and $2,043.22 for Canada pension plan contributions not deducted in 2001 and 2002 respectively, for a grand total of $5,316.35.
+[3] This type of issue comes before this Court frequently and, as is well known, the issue has generally been resolved on the basis of a four-fold test. The tests are:
+(1) control,
+(2) ownership of tools,
+(3) chance of profit and risk of loss,
+(4) the integration test.
+[4] Before analysing these tests, the following general comments are relevant.
+[5] In deciding the issue I am not simply to substitute my opinion for that of the Minister but I am to give some deference to the decision of the Minister. These principles have been developed by the Federal Court of Appeal in the following cases. In Légaré v. Canada(Minister of National Revenue - M.N.R.), [1999] F.C.J. No. 878 the Court had occasion to review the issue. Paragraph 4 of that decision by Marceau, Desjardins and Noël, J.J. stated as follows:
+The Act requires the Minister to make a determination based on his own conviction drawn from a review of the file. The wording used introduces a form of subjective element, and while this has been called a discretionary power of the Minister, this characterization should not obscure the fact that the exercise of this power must clearly be completely and exclusively based on an objective appreciation of known or inferred facts. And the Minister's determination is subject to review. In fact, the Act confers the power of review on the Tax Court of Canada on the basis of what is discovered in an inquiry carried out in the presence of all interested parties. The Court is not mandated to make the same kind of determination as the Minister and thus cannot purely and simply substitute its assessment for that of the Minister: that falls under the Minister's so-called discretionary power. However, the court must verify whether the facts inferred or relied on by the Minister are real and were correctly assessed having regard to the context in which they occurred, and after doing so, it must decide whether the conclusion with which the Minister was "satisfied" still seems reasonable.
+[6] Also in the case of Pérusse v. Canada(Minister of National Revenue - M.N.R.) [2000] F.C.J. No. 310, Marceau, J. at paragraph 14 said:
+In fact, the judge was acting in the manner apparently prescribed by several previous decisions. However, in a recent judgment this court undertook to reject that approach, and I take the liberty of citing what I then wrote in this connection in the reasons submitted for the court.
+[7] Then at paragraph 15 he said:
+The function of an appellate judge is thus not simply to consider whether the Minister was right in concluding as he did based on the factual information which Commission inspectors were able to obtain and the interpretation he or his officers may have given to it. The judge's function is to investigate all the facts with the parties and witnesses called to testify under oath for the first time and to consider whether the Minister's conclusion, in this new light, still seems "reasonable" (the word used by Parliament). The Act requires the judge to show some deference towards the Minister's initial assessment and, as I was saying, directs him not simply to substitute his own opinion for that of the Minister when there are no new facts and there is nothing to indicate that the known facts were misunderstood. However, simply referring to the Minister's discretion is misleading.
+[8] In my opinion the following are the most important facts in the determination of the issue in question:
+1. The Appellant ran a medical practice operating from a clinic. His practice dealt mainly with the management of patients with chronic non-cancer pain and addiction and in some cases certain patients had both maladies. The Workers and the Appellant were all involved in certain administrative duties and bookkeeping. The Appellant was the medical practitioner with a degree from McGill University in Montreal. However, other duties of Joanne involved patient care duties and Tracy, in addition to the administrative duties was involved in her own counselling sessions as she saw fit.
+...
+Generally, the services provided by the Workers included general office management, patient care, collection of patient specimens, running group therapy sessions, dealing with the Ministry of Human Resources (BC) in obtaining benefits for patients, individual counselling, and responding to patients in crisis including after hours.
+The Workers were not required to perform their duties at the clinic at all times and to the extent they provided their services they did so at their sole discretion and in some cases provided services outside of the clinic and in some cases from home.
+2. The rates of pay were not set by the Appellant but rather were agreed to by the Workers and the Appellant. For Joanne the rate was $11.50 per hour and for Tracy the rate was slightly higher and moreover Tracy was paid extra for hours devoted to counselling. The Workers were paid twice a month. They kept track of their own hours and were paid on that basis. At a point in time the rate of pay for Tracy was increased.
+3. When the Appellant engaged the services of the Workers it was agreed with both of them that their services were to be offered on an independent contractor basis.
+[9] As to the element of control. The evidence is extensive and not entirely conclusive but in my view considering all factors I conclude that the test of control when applied to the situation at hand points to a contract for services. My principal reasons for this conclusion are as follows:
+The Workers were not supervised;
+They chose their own hours and were not obliged to report to the clinic on a regular basis;
+They received no medical coverage, no vacation, sick leave nor overtime pay and were not paid for hours worked at home;
+They could accept work from others;
+The Appellant was extremely busy with his own medical practice and did not have the necessary time to supervise and control.
+They were retained for their personal skills with respect to patient care and therefore their inability to retain helpers or substitutes is not an important factor.
+[10] As to the ownership of tools, this test is probably not that important in the present case. The main tool might be considered as the Appellant's clinic where most of the services by the Workers were performed. Tracy did have her own pager or cell phone but this cannot be considered as an important consideration. On balance the test of ownership of tools would favour a contract of service relationship. However, as mentioned the ownership of tools in the present case is not that important.
+[11] With respect to chance of profit, the evidence is that Joanne organized after-hour meetings outside of the clinic with patients to talk with them and interest them in products she was selling. Tracy had discretion to schedule additional counselling hours at a higher fee and on her own initiative expanded her opportunities for profit by taking some chronic pain patients into her counselling program, thus providing additional remuneration. In conclusion, although the chance of profit test is not absolutely clear, on balance, in my opinion, it leans more to a conclusion as to a contract for services as opposed to a contract of service.
+[12] As to risk of loss, although the Appellant has argued vigorously that there was some risk of loss, it appears at best that this risk was remote and certainly no losses were proven. The conclusion is that this test points more to the contract of service as opposed to a contract for services.
+[13] With respect to the integration test, reference is made to Precision Gutters Ltd. v. Canada,[2002] F.C.J. No. 771 (F.C.A.), where Sexton J.A., said the question to be answered with respect to this test is "is the person who has engaged himself to perform the services performing them as a person in business on his own account". This treatment of the question allows for circumstances where there is more than one business. It is acknowledged that the question should be approached from the perspective of the alleged employee/contractor. The Appellant submits that the work of the Workers was accessory to his and further while it was helpful and desirable it was not essential or integral in that the Appellant had previously operated the practice both administratively and with respect to patient care with only casual help. He points out that in the absence of the contributions of the Workers he still had a medical practice. In my view the position of the Appellant is correct in that what the Workers were doing was accessory to the Appellant's practice as opposed to being an integral part of that practice. The result of this test, although once again not conclusive, points to a contract for services as opposed to a contract of service.
+ANALYSIS AND CONCLUSION
+[14] I find firstly that the Minister did not consider all the factors or did not give sufficient importance to certain factors. With respect to all the tests, see my above comments.
+[15] I find secondly that the testimony of both the Appellant and Tracy was entirely credible, an important consideration in cases of this nature.
+[16] What must be examined is the total relationship between the parties and doing that in the context of the tests analyzed above, I conclude on a balance of probabilities that what existed were contracts for services.
+[17] Moreover although the basic arrangement between the parties does not necessarily establish a presumption nor definitely determine the issue, it is a prime consideration. Specifically, see Wolfe v. Canada, [2002] 4 F.C. 396, (FCA) where Noël, J. stated as follows:
+...This was a case where the characterization placed by the parties on their relationship ought to be given great weight. In a close case such as the present one, where the relevant factors point in both directions with equal force, the parties' contractual intent, and in particular their mutual understanding of the relationship could not be disregarded. As the parties considered that they were engaged in an independent contractor relationship and as they acted in a manner consistent with this relationship, it was not open to the Tax Court Judge to disregard their understanding.
+Also in Bradford v. M.N.R., 88 DTC 1661 Taylor, T.C.J. stated at page 11 of the decision:
+The general principle that commends itself to me arising out of this appeal and the recent jurisprudence noted is that under a given set of circumstances within which there are certain aspects of 'employee', some others of 'independent contractor', and even others that are somewhat ambiguous, that the intentions and objectives of the parties, if clearly and unequivocally stated and agreed upon, should be a prime factor in the determination of the Court ...
+[18] In conclusion, as mentioned, some of the tests point one way and some of the tests point another, but in my opinion on a balance of probabilities I find that Joanne and Tracy were engaged under contracts for services, namely, independent contracts.
+[19] Consequently, the appeals are allowed and the decisions of the Minister are vacated.
+Signed at Ottawa, Canada, this 18th day of October, 2004.
+"T. O'Connor"
+O'Connor, J.
+CITATION:
+2004TCC682
+COURT FILE NOS.:
+2003-3801(CPP) and 2003-3802(EI)
+STYLE OF CAUSE:
+John B. Armstrong, M.D. v. MNR
+PLACE OF HEARING:
+Vancouver, British Columbia
+DATE OF HEARING:
+July 20, 2004
+REASONS FOR JUDGMENT BY:
+The Honourable Justice T. O'Connor
+DATE OF JUDGMENT:
+October 18, 2004
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Stacey Repas
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

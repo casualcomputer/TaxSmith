@@ -1,0 +1,104 @@
+Title: Claeys c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30070/index.do
+Corpus path: corpus/cases/tcc/2010/2010-cci-586-30070-claeys-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2010-11-12
+
+# Claeys c. La Reine
+
+- Citation: 2010 CCI 586
+- Decision date: 2010-11-12
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7617, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Claeys c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2010-11-12
+Référence neutre
+2010 CCI 586
+Numéro de dossier
+2009-545(IT)I
+Juges et Officiers taxateurs
+Robert James Hogan
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2009-545(IT)I
+ENTRE :
+DARWIN A. CLAEYS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+__________________________________________________________________
+Appel entendu à Brandon (Manitoba), le 18 octobre 2010.
+Devant : L’honorable juge Robert J. Hogan
+Comparutions :
+Pour l’appelant :
+L’appelant lui‑même
+Avocate de l’intimée :
+Me Nalini Persaud
+__________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’encontre des nouvelles cotisations établies en vertu de la Loi de l’impôt sur le revenu à l’égard des années d’imposition 2004 et 2005 est rejeté sans dépens.
+Signé à Ottawa, Canada, ce 12e jour de novembre 2010.
+« Robert J. Hogan »
+Juge Hogan
+Traduction certifiée conforme
+ce 2e jour de décembre 2010.
+Nathalie Gadbois, LL. L., LL. B.
+Référence : 2010 CCI 586
+Date : 20101112
+Dossier : 2009-545(IT)I
+ENTRE :
+DARWIN A. CLAEYS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Hogan
+[1] Il s’agit d’un appel entendu à Brandon (Manitoba), le 18 octobre 2010, sous le régime de la procédure informelle.
+[2] Le ministre du Revenu national (le « ministre ») a établi une nouvelle cotisation à l’égard de Darwin Claeys (l’« appelant ») pour les années d’imposition 2004 et 2005, refusant ainsi les pertes d’entreprise nettes de 15 020 $ et de 1 319 $ demandées par l’appelant pour les années d’imposition 2004 et 2005 respectivement.
+[3] L’appelant est la seule personne qui a témoigné à l’instruction. Il a expliqué que son épouse, Theresa Claeys, était intéressée à démarrer une nouvelle entreprise et avait préparé un plan d’affaires à cet effet en 2003. Selon le témoin, Theresa Claeys a découvert en 2004 une organisation appelée StoresOnline International, Inc. (« StoresOnline ») qui faisait la promotion d’ateliers de marketing Internet. Elle a assisté à un séminaire à Winnipeg. À la suite du séminaire, elle a conclu une entente avec StoresOnline pour l’achat de six sites Web qui seraient hébergés par StoresOnline. Les sites Web seraient utilisés par Theresa Claeys pour faire la publicité de produits en vente au moyen d’une stratégie de marketing basée sur Internet. Le témoin a expliqué que Theresa Claeys s’était aussi inscrite à une formation en ligne offerte par StoresOnline afin d’apprendre comment faire de la publicité dans les sites Web et tenir ceux‑ci à jour. StoresOnline a apparemment éprouvé des difficultés financières et a mis fin à ses activités avant que Theresa Claeys n’ait choisi des produits à vendre sur les sites Web. À la suite de la fermeture de StoresOnline, Theresa Claeys n’a pas poursuivi ses activités de vente sur Internet.
+[4] L’appelant a expliqué qu’il avait avancé des fonds à son épouse pour lui permettre de financer ses activités. Il prévoyait que l’avance serait remboursée au moyen du flux de trésorerie de l’entreprise. Son épouse allait exploiter l’entreprise et avoir droit à tous les profits. Aux dires de l’appelant, il a déduit les frais parce que c’est lui qui avait payé ces frais.
+[5] Au vu de la preuve, je conclus que le rôle de l’appelant dans cette affaire consistait à prêter à son épouse des fonds pour lui permettre de financer ses activités. L’appelant n’était pas associé à son épouse dans le cadre de ces activités et il ressort clairement de la preuve que son épouse bénéficierait, s’il y a lieu, des profits tirés de l’entreprise. Une société de personnes peut seulement exister si les deux associés ont le droit de se partager les bénéfices d’une entreprise. L’épouse de l’appelante a conclu la totalité des contrats avec StoresOnline. Il n’y avait aucun lien juridique entre StoresOnline et l’appelant. Un prêteur n’a pas le droit de déduire les frais payés par un emprunteur.
+[6] L’épouse de l’appelant à interjeté appel à l’égard de ses années d’imposition 2004 et 2005. Compte tenu de mes conclusions, l’épouse de l’appelant pourrait modifier son appel afin que les frais qui ont été erronément déduits par son époux soient considérées en appel comme des frais qu’elle a elle‑même payés.
+[7] L’appelant a déduit une perte finale de 1 319,37 $ relativement à un appareil de composition automatique de numéros, qu’il aurait acquis en 1997. L’appareil de composition automatique a été laissé en possession du vendeur (le « vendeur »), qui avait été embauché par l’appelant à titre de télévendeur. L’appelant a déclaré que le vendeur avait déménagé à un moment donné en 1999 et n’avait pas renvoyé l’appareil de composition automatique. Apparemment, le vendeur aurait volé l’appareil. Selon la Loi de l’impôt sur le revenu (la « Loi ») canadienne, une perte finale peut être déduite uniquement durant l’année pendant laquelle on dispose de l’ensemble des biens amortissables d’une catégorie prescrite, comme le prévoit le paragraphe 20(16) de la Loi. Selon le témoignage de l’appelant, il s’agissait de l’année 1999 et non 2005.
+[8] Pour tous ces motifs, l’appel est rejeté.
+Signé à Ottawa, Canada, ce 12e jour de novembre 2010.
+« Robert J. Hogan »
+Juge Hogan
+Traduction certifiée conforme
+ce 2e jour de décembre 2010.
+Nathalie Gadbois, LL. L., LL. B.
+RÉFÉRENCE : 2010 CCI 586
+NO DU DOSSIER DE LA COUR : 2009-545(IT)I
+INTITULÉ : DARWIN A. CLAEYS
+c.
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Brandon (Manitoba)
+DATE DE L’AUDIENCE : Le 18 octobre 2010
+MOTIFS DU JUGEMENT : L’honorable juge Robert J. Hogan
+DATE DU JUGEMENT : Le 12 novembre 2010
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui‑même
+Avocate de l’intimée :
+Me Nalini Persaud
+AVOCATS INSCRITS AU
+DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée : Myles J. Kirvan
+Sous‑procureur général du Canada
+Ottawa, Canada

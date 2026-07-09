@@ -1,0 +1,204 @@
+Title: Mandic (Succession) c. Le Roi
+Source: https://norma.lexum.com/tcc-cci/decisions/fr/item/521298/index.do
+Corpus path: corpus/cases/tcc/2024/2024-cci-91-521298-mandic-succession-c-le-roi-fr.md
+Document type: case_law
+Last modified: 2024-06-26
+
+# Mandic (Succession) c. Le Roi
+
+- Citation: 2024 CCI 91
+- Decision date: 2024-06-26
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5500, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Mandic (Succession) c. Le Roi
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2024-06-26
+Référence neutre
+2024 CCI 91
+Numéro de dossier
+2019-1631(IT)G
+Juges et Officiers taxateurs
+Ronald MacPhee
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2019-1631(IT)G
+ENTRE :
+LA SUCCESSION DE VLADIMIR MANDIC,
+appelante,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Conférences de gestion de l’instance tenues le 12 avril 2022, le 27 septembre 2022, le 5 octobre 2022 et le 30 novembre 2023, à Toronto (Ontario)
+Devant : l’honorable juge Ronald MacPhee
+Comparutions :
+Avocat de l’appelante :
+Me Max Shin, en tant qu’amicus curiae
+Avocat de l’intimé :
+Me Laurent Bartleman
+JUGEMENT
+APRÈS avoir pris connaissance de la preuve et des observations de l’amicus curiae pour l’appelante et de l’avocat de l’intimé;
+Conformément aux motifs du jugement ci-joints, l’appel est accueilli selon les modalités du consentement à jugement du 29 avril 2021 ci-joint avec la modification demandée par la Cour, c'est-à-dire que l’affaire n’est pas annulée, mais déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation.
+L’intitulé de la présente affaire est modifié comme suit : La succession de Vladimir Mandic c. Sa Majesté le Roi.
+Chaque partie est responsable de ses propres dépens.
+Signé à Ottawa, Canada, ce 26e jour de juin 2024.
+« R. MacPhee »
+Le juge MacPhee
+Traduction certifiée conforme
+ce 5e jour de mai 2026.
+Guillaume Chénard, jurilinguiste principal
+Référence : 2024 CCI 91
+Date : 20240626
+Dossier : 2019-1631(IT)G
+ENTRE :
+LA SUCCESSION DE VLADIMIR MANDIC,
+appelante,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge MacPhee
+I. FAITS [1] Il s’agit d’une affaire très inhabituelle qui découle d’une audience sur la gestion de l’instance.
+[2] M. Mandic a fait l’objet d’une nouvelle cotisation pour un revenu non déclaré de 266 554 $ pour l’année d’imposition 2015. Il a déposé un avis d’appel en réponse à la nouvelle cotisation établie par le ministre le 3 mai 2019. La réponse à l’avis d’appel a été déposée le 15 juillet 2019. Les parties ont échangé des documents et procédé à des interrogatoires préalables. Une entente de règlement a été conclue dans cette affaire et les deux parties ont signé un consentement à jugement déclarant que la nouvelle cotisation pour l’année d’imposition en question serait annulée. Ce consentement à jugement a été signé le 29 avril 2021.
+[3] Le juge de la Cour canadienne de l’impôt qui a reçu le consentement à jugement remettait en question un passage particulier du règlement. Plus précisément, dans le procès-verbal de règlement, les parties demandaient à la Cour canadienne de l’impôt d’annuler la nouvelle cotisation pour l’année d’imposition 2015 de l’appelant. Le juge de service qui a été saisi de cette demande l’a renvoyée aux parties pour qu’elles la modifient. Conformément aux instructions de la Cour, la nouvelle cotisation ne devait pas être annulée, mais déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation.
+[4] M. Mandic est décédé en novembre 2021, avant que les deux parties ne signent le consentement à jugement modifié avec la formulation corrigée. Personne n’a été nommé exécuteur testamentaire de l’appelant et il semble que l’avocat de l’appelant n’ait reçu aucune instruction.
+[5] La Cour doit maintenant déterminer comment régler l’affaire, soit en rendant une ordonnance accueillant l’appel conformément au procès-verbal de règlement initial, soit en réglant l’affaire pour défaut de poursuivre.
+II. QUESTIONS À TRANCHER [6] Les questions soulevées sont les suivantes :
+- La Couronne est-elle liée par une entente de règlement qui a été acceptée, mais qui n’a pas été signée en raison du décès de l’appelant?
+- Faut-il modifier l’intitulé de la cause?
+- Dans l’affirmative, quel jugement la Cour devrait-elle rendre?
+III. ANALYSE A. Accueillir l’appel conformément au paragraphe 171(1) [7] Dans l’affaire CBS Holdings, la Cour d’appel fédérale a énoncé la règle générale selon laquelle les parties sont liées par les ententes qu’elles concluent. Alors, si la Couronne conclut une entente de règlement, elle est tenue de la respecter[1].
+[8] Outre cette règle générale, la jurisprudence établit que la Cour canadienne de l’impôt est compétente pour faire appliquer les ententes de règlement conformément au paragraphe 171(1) de la Loi de l’impôt sur le revenu (la « Loi »)[2].
+[9] Dans la présente affaire, les deux parties ont accepté et signé le consentement à jugement initial, ce qui prouve que la Couronne avait l’intention de régler l’affaire et était d’avis que le règlement était dans son intérêt. Le décès de l’appelant et l’absence d’exécuteur testamentaire pour la succession de M. Mandic ont conduit la Couronne à adopter la position selon laquelle cette dernière n’a plus la volonté de régler cette affaire. Bien que je sois sensible à sa position, qui a été exposée en détail au cours des multiples audiences sur la gestion de l’instance, les Règles de la Cour canadienne de l’impôt (procédure générale) (les « Règles ») me donnent le pouvoir discrétionnaire voulu pour parvenir à une solution équitable dans cette affaire.
+[10] La Cour a le pouvoir d’ordonner l’exécution de l’entente de règlement[3]. En l’espèce, il ne fait aucun doute que les parties avaient l’intention de régler la présente affaire et qu’elles l’auraient probablement fait, n’eût été le décès de l’appelant. Ainsi, au titre du sous-alinéa 171(1)b)(iii) de la Loi, la Cour devrait faire droit à l’appel en déférant la cotisation au ministre pour nouvel examen et nouvelle cotisation conformément à l’entente de règlement avec la modification demandée par la Cour.
+[11] D’autres dispositions des Règles de la Cour canadienne de l’impôt (procédure générale) accordent également un large pouvoir discrétionnaire au juge. Le paragraphe 4(1) des Règles dispose que celles-ci doivent recevoir une interprétation large afin d’assurer la résolution équitable sur le fond de chaque instance de la façon la plus expéditive et la moins onéreuse.
+[12] L’article 9 permet à la Cour de dispenser de l’observation de toute règle si l’intérêt de la justice l’exige.
+[13] Enfin, conformément à l’alinéa 126(4)e), le juge chargé de la gestion d’une instance peut rendre toute ordonnance qu’il estime juste dans les circonstances.
+B. Article 29 des Règles de la Cour canadienne de l’impôt (procédure générale) [14] Une question qui devrait être abordée est celle de savoir si l’appelant est touché par l’article 29 des Règles. Après le décès de l’appelant, personne n’a assumé le rôle d’exécuteur testamentaire et l’intérêt de l’appelant dans la présente affaire n’a pas été transféré à une partie ayant la capacité.
+[15] L’article 29 porte sur le transfert d’un intérêt dans une instance devant la Cour. Il vise précisément le décès d’un contribuable appelant comme une circonstance qui nécessiterait un transfert de l’intérêt.
+[16] Les paragraphes 29(1) à 29(3) prévoient les étapes nécessaires pour modifier un intitulé afin que ce dernier tienne compte du transfert de l’intérêt en raison du décès d’un contribuable. Tout d’abord, la partie qui demande le transfert de l’intérêt doit en aviser le greffier et fournir des détails sur la raison pour laquelle le transfert ou la modification de l’intitulé est nécessaire. Ensuite, dès réception de l’avis et des modalités, le greffier consulte les parties concernant les circonstances dans lesquelles l’instance doit être continuée et fait rapport de ces consultations au juge en chef. Enfin, une fois ces deux étapes franchies, le juge en chef ou un juge désigné par lui pour traiter l’affaire peut donner une directive sur la manière de procéder.
+C. Disposition concernant l’article 29 [17] L’appelant n’a pas accompli les démarches nécessaires conformément à l’article 29 des Règles.
+[18] Le paragraphe 29(3) me donne le pouvoir discrétionnaire de donner toute autre directive qui me semble appropriée. Dans l’exercice de ce pouvoir, j’ordonne que l’intitulé de la présente affaire soit modifié comme suit : La succession de Vladimir Mandic c. Sa Majesté le Roi.
+D. Conclusion [19] L’intitulé de la présente affaire est modifié comme suit : La succession de Vladimir Mandic c. Sa Majesté le Roi.
+[20] L’appel est accueilli conformément aux termes de l’entente de règlement du 29 avril 2021 avec la modification demandée par la Cour, c’est-à-dire que l’affaire n’est pas annulée, mais déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation.
+[21] Chaque partie est responsable de ses propres frais.
+Signé à Ottawa, Canada, ce 26e jour de juin 2024.
+« R. MacPhee »
+Le juge MacPhee
+Traduction certifiée conforme
+ce 5e jour de mai 2026.
+Guillaume Chénard, jurilinguiste principal
+[TRADUCTION]
+2019-1631(IT)G
+COUR CANADIENNE DE L’IMPÔT
+ENTRE:
+VLADIMIR MANDIC
+appelant
+et
+SA MAJESTÉ LA REINE
+intimée
+CONSENTEMENT À JUGEMENT
+L’appelant et l’intimé consentent au jugement visant à accueillir l’appel de l’appelant pour l’année d’imposition 2015 et à déférer l’affaire au ministre du Revenu national pour nouvel examen et établissement d’une nouvelle cotisation, étant entendu que :
+a)la nouvelle cotisation de l’appelant pour l’année d’imposition 2015, dont l’avis est daté du 15 juin 2017, sera annulée;
+b)les parties assumeront leurs propres dépens;
+c)l’appelant n’a droit à aucune autre mesure de réparation.
+SIGNÉ à Toronto (Ontario), le __29 mars 2021
+avril
+Duane R. Milot/Igor Kastelyanets
+Milot Law
+181, avenue University, bureau 2200
+Toronto (Ontario)
+M5H 3M7
+Téléphone : 416-907-8429
+Télécopieur: 866-367-9130
+Avocat de l’appelant
+SIGNÉ à Toronto (Ontario), le __29 mars 2021
+avril
+Procureur général du Canada
+Avocat de l’intimée
+Par :
+Isida Ranxi
+Ministère de la Justice du Canada
+Bureau régional de l’Ontario
+120, rue Adelaide West
+Bureau 400
+Toronto (Ontario)
+M5H 1T1
+À :
+Cour canadienne de l’impôt
+200, rue Kent
+Ottawa (Ontario)
+K1A 0M1
+Télép. :
+Téléc. :
+647-256-7437
+416-973-0810
+Avocate de l’intimée
+2019-I631(IT)G
+COUR CANADIENNE DE L’IMPÔT
+ENTRE:
+VLADIMIR MANDIC
+appelant
+et
+SA MAJESTÉ LA REINE
+intimée
+CONSENTEMENT À JUGEMENT
+Procureur général du Canada
+Avocat de l’intimée
+Par :
+Isida Ranxi
+Ministère de la Justice du Canada
+Bureau régional de l’Ontario
+120, rue Adelaide West
+Bureau 400
+Toronto (Ontario)
+M5H 1T1
+Télép. :
+Téléc. :
+Dossier :
+647-256-7437
+416-973-0810
+10668199
+Avocate de l’intimée
+RÉFÉRENCE :
+2024 CCI 91
+NO DU DOSSIER DE LA COUR :
+2019-1631(IT)G
+INTITULÉ :
+LA SUCCESSION DE VLADIMIR MANDIC c. SA MAJESTÉ LE ROI
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+Le 30 novembre 2023
+MOTIFS DU JUGEMENT :
+L’honorable juge Ronald MacPhee
+DATE DU JUGEMENT :
+Le 26 juin 2024
+COMPARUTIONS :
+Avocat de l’appelante :
+Non représenté, Me Max Shin a comparu en tant qu’amicus curiae
+Avocat de l’intimé :
+Me Laurent Bartleman
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Me Max Shin
+Cabinet :
+Milot Law
+Pour l’intimé :
+Me Shalene Curtis-Micallef
+Sous-procureure générale du Canada
+Ottawa, Canada
+[1] Canada c. CBS Canada Holdings Co., 2020 CAF 4, par. 35-36.
+[2] Huppe c. La Reine, 2010 CCI 644, par. 18; Québec Fonte Inc. c. La Reine, 2020 CCI 126, par. 33; Doussot c. Le Roi, 2023 CCI 26, par. 9.
+[3] Décisions précitées, notes 1 et 2.

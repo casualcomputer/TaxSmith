@@ -1,0 +1,151 @@
+Title: Janota v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29918/index.do
+Corpus path: corpus/cases/tcc/2010/2010-tcc-395-29918-janota-v-the-queen-en.md
+Document type: case_law
+Last modified: 2010-07-26
+
+# Janota v. The Queen
+
+- Citation: 2010 TCC 395
+- Decision date: 2010-07-26
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6437, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Janota v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-07-26
+Neutral citation
+2010 TCC 395
+File numbers
+2009-3279(IT)I
+Judges and Taxing Officers
+Cameron Hugh McArthur
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2009-3279(IT)I
+BETWEEN:
+JOSEPH MICHAEL JANOTA,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Before: The Honourable Justice C.H. McArthur
+Appearances:
+Counsel for the Appellant:
+Robert Sheppard
+Counsel for the Respondent:
+Jennifer Neill
+____________________________________________________________________
+EDITED VERSION OF
+ORAL REASONS FOR JUDGMENT
+Let the attached edited version of the Reasons for Judgment, delivered orally from the Bench at Ottawa, Ontario on May 21, 2010, be filed. I have edited the oral Reasons for Judgment for style, clarity, and accuracy. I did not make any substantive changes.
+“C.H. McArthur”
+McArthur J.
+Signed at Ottawa, Canada, this 27th day of July 2010.
+Citation: 2010 TCC 395
+Date: 20100726
+Docket: 2009-3279(IT)I
+BETWEEN:
+JOSEPH MICHAEL JANOTA,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+[1] This appeal is from a decision of the Minister of National Revenue (Minister) disallowing the cost of repairs and maintenance in the approximate amount of $37,500 for the Appellant’s 2006 taxation year.
+[2] For the most part, the Appellant expended the amount to repair and renovate an old duplex.
+[3] The Appellant’s position is that the expenditure was an income account and the Minister submits that it was on account of capital.
+[4] It is largely a question of fact.
+[5] Much of the facts are not in dispute. The Appellant and his son Kyle purchased equally a century old duplex on the corner of Patterson and Strathcona streets on July 5th, 2006 for $419,000. It was then vacant. For our purposes, the Appellant retained the lower half for rental purposes and Kyle took over the upper area for his principal residence.
+[6] The following taken from the Notice of Appeal is accurate.
+5. Prior to purchasing the property, a building inspection was obtained which identified certain items requiring repair. This was a visual inspection only. After purchasing the property it was clearly identified on the inspection report that there were items which could not be seen on a visual inspection.
+6. The inspection report does reflect that the property was in suitable condition for use and in move in condition. The appellant and Kyle Janota wished to do repairs to the portion to be utilized by Kyle Janota. It was determined that it would be more convenient and cost effective to do the repairs to the rental portion of the duplex at the same time.
+7. The repair projects to the rental portion of the property are a relatively minor expenditure when one considers the total value of the property. Many of the projects were to simply maintain the building and should not be considered a betterment. As the prior owner did not attend to many of the repairs, other repairs have manifested themselves due to this neglect which only became apparent when the repair work was undertaken. Much of the repair work was done to restore the premises to its original condition and not as a betterment.
+8. In addition to the repair costs, travel expenses were incurred by the Appellant to travel to and from Pembroke, ON to Ottawa, ON. The appellant’s attendance was required to allow the appellant to perform some of the repair work himself and to allow him to meet with contractors who performed the remainder of the work. Additionally there were a number of bank charges relating to a line of credit obtained to be used for the repairs to the rental property.
+9. After commencement of some of the works that were identified by the home inspector it was obvious that other needed repairs were necessary. These included but were not limited to:
+(a) leaky pipes
+(b) repair doors
+(c) repair damaged counter tops
+(d) repair ceiling
+(e) repair stairs
+(f) repair cupboards
+(g) significant drainage issues
+(h) plumbing issues
+(i) painting
+(j) repair floors
+(k) repair lathe and plaster and other damage caused by leaks and plumbing etc.
+(l) patched foundation as it was found to be cracked.
+That is the end of the Notice of the Appeal quotation.
+[7] The Appellant was credible. He stated that the approximate $6,200 estimate for repairs made by the home inspector prior to closing was made before work was commenced when surprises were discovered. It was also based on the owners doing the work. Some of this included: removing two floor coverings, hardwood floors were found, sanded urethane. A leaking drainage pipe was repaired or replaced. Water-soaked insulation was replaced. A sagging plaster ceiling was fixed together with wavy walls patched. The existing eaves troughs was kept but solidified. Existing cupboards were repaired and painted. The original door knobs were reinstalled and doors were straightened. Toilets were removed fixed or replaced. The chimney was repaired and a wet basement was also repaired and so on.
+[8] A city building inspector attended the duplex and found no building permit was required.
+[9] Exhibit A-1, tab 2 contains 34 clear coloured photos some being before and after which corroborated much of the Appellant’s evidence. The repairs resulted in virtually the same old building as before the repairs were undertaken.
+[10] The Minister’s assumptions in the Reply included with my comments 12(g) “The Appellant did not maintain proper books and records…. This was not apparent after hearing the evidence.
+[11] Under the paragraph heading “Interest” at 12 (j) and (k). The interest paid is a “soft cost” and not deductible. This will be expanded upon later.
+[12] Under the heading “Maintenances and Repairs” paragraph 12(l) through to (o) inclusive the amount in question is approximately $30,000 and is the focus of this appeal.
+[13] The Minister relied inter alia on the following:
+15. He submits that the Minister properly disallowed repairs and maintenance expenses in the amount of $24,395.74 in computing the appellant’s income for the 2006 taxation year. The expenditures for maintenance and repairs were incurred to improve and provide an enduring benefit to the Property and thus constitute capital expenses and are not deductible in accordance with paragraph 18(1)(b) of the Act.
+16. He further submits that the Minister properly disallowed repairs and maintenance expenses, in accordance with subsection 18(3.1) of the Act, in the amount of $24,395.74 in computing the appellant’s income for the 2006 taxation year as these amounts relate to costs incurred during the period of construction, renovation or alteration of the Property.
+[14] In closing submissions, the Minister’s counsel apparently relied primarily on paragraph 18(3.1)(a) and (b). It states in part the following:
+(a) no deduction shall be made in respect of any outlay or expense made or incurred by the taxpayer. . . that can reasonably be regarded as a cost attributable to the period of the construction, renovation or alteration of a building by or on behalf of the taxpayer, . . .
+(b) the amount of such an outlay or expense shall, to the extent that it would otherwise be deductible in computing the taxpayer’s income for the year, be included in computing the cost or capital cost, as the case may be, of the building
+. . .
+[15] As did the Respondent’s counsel, I will first deal with paragraph 18(3.1)(a). The Appellant’s position is that it applies to soft costs. Hard costs are expenses for mortar, wood, bricks, land improvements and labour. Soft costs are the other development costs such as interest, taxes and professional fees.
+[16] Subsection 18(3.1) does not mention “soft costs”. The provision restricts the deduction of outlays or expenses reasonably regarded as costs attributable to the period of the construction, renovation or alteration of a building.
+[17] The way the legislative scheme works, in the calculation of deductions as it relates to this appeal, is as follows:
+1. The taxpayer’s income from a business or property is the taxpayer’s profit pursuant to subsection 9(1) and profit takes into account deductions.
+2. Some deductions that are restricted or not allowed at all are enumerated in section 18. Some of these are allowed under section 20. All deductions are to be reasonable (section 67).
+[18] Allowing a general deduction of all expenses under section 9 and then restricting specific deductions under subsection 18(3.1) limits the scope of the legislation. Since it does not mention “soft costs” it is helpful to consider in the legislative intent of subsection 18(3.1) in some of the Department of Finance’s Technical Notes.
+1982 Technical Note states in effect that 18(3.1) was amended to include soft costs only incurred in construction and renovation – such as interest, fees and taxes.
+1994 Technical Note: Subsection 18(3.1) denies the immediate deduction of certain costs, generally referred to as construction period soft costs, relating to the construction, renovation or alteration of a building.
+[19] The section 18 exceptions are specific and following this direction subsection 18(3.1) should encompass soft costs only.
+[20] McCarthy Tétrault Analysis titled 18(3.1)-(3.7) – Capitalization of “Soft Costs”, updated on January 31, 2010 stated in part: Outlays or expenses included within the purview of subsection 18(3.1) include those costs conventionally described as “soft costs” and it continues by giving examples of soft costs fees, interest and taxes.
+[21] In Trynchy v. R., [2001] 4 C.T.C. 130, at paragraph 1, Campbell J. discusses the purpose of subsection 18(3.1) stating:
+By the budget of November 1981, the federal government changed the tax law to limit the ability of investors to write off “soft costs” of construction projects against current account income.
+[22] In J.H. Kuhlmann v. Canada, 95 D.T.C. 417, at paragraph 11, Bowman J. defined “soft costs” in the following unnumbered paragraph:
+It is sought here to deduct what are somewhat ambiguously called “soft costs” – a term of some elasticity comprising, I gather, costs not directly attributable to the bricks and mortar and labour involved in creating the building, such as financing costs, legal fees, commissions, carrying costs, municipal taxes, landscaping and similar expenses.
+[23] With this background, I have no doubt that subsection 18(3.1) refers to soft costs only which I find for our present purpose as bank interest, property taxes, utilities, professional fees and insurance and not the repairs and maintenance.
+[24] The evidence presented by the Appellant and his counsel was impressive and credible. The one-half duplex was probably rentable in July 2006 but it was more practical to leave it vacant while necessary work was being done, commanding higher rent after completion. Again the work included repairs to cupboards, plumbing, doors, counter tops, ceiling, stairs, drainage, painting, floors, damaged plaster and to patching the foundation.
+[25] With reference to the Reply’s schedule “A” the Appellant claimed losses of $35,171. The Minister allowed $1,885 disallowing $33,285 which included the disallowance of $29,823 maintenance and repairs being all of the claimed amount.
+[26] The Minister’s position is that the duplex was habitable in July and all expenditures are on capital account. The case of McLaughlin v. Minister of National Revenue, 92 DTC 1030 is of assistance presently.
+[27] In McLaughlin, Bowman J. stated in his analysis of similar facts:
+A substantial portion of the work that was done was, on the evidence, repairs to put the house back to its original state – not to effect a lasting permanent structural improvement. Painting and wallpapering, repairs of floors, replacement of drywall replacing of fixtures is essentially repair. While I do not regard Interpretation Bulletins as having any particular probative value beyond showing how the Department of National Revenue interprets and administers the Income Tax Act, it is significant that paragraph 4(b) of Interpretation Bulletin IT-128R contains this statement.
+Maintenance or Betterment – Where an expenditure made in respect of a property serves only to restore it to its original condition, that fact is one indication that the expenditure is of a current nature. This is often the case where a floor or a roof is replaced. Where, however, the result of the expenditure is to materially improve the property beyond its original condition, such as where a new floor a new roof clearly is of better quality and greater durability than the replaced one, then the expenditure is regarded as capital in nature. Whether or not the market value of the property is increased as a result of the expenditure is not a major factor in reaching a decision. In the event that the expenditure includes both current and capital elements and these can be identified, an appropriate allocation of the expenditure is necessary. Where only a minor part of the expenditure is of a capital nature, the Department is prepared to treat the whole as being of a current nature.
+[28] The above-paragraph applies equally to the present appeal.
+[29] In Chambers v. The Queen, 1998 1 C.T.C. 3273 where Brule J. stated:
+14 It would seem that if the repairs resulted in virtually the same old building as before the repairs were undertaken then such should be properly expensed, but if on finishing the repairs a virtually new building or at least quite a different building results then the repairs should be on capital account.
+15 One criteria to make such a determination apart form the appearance inside and out of the structure and whether or not the place had to be vacated before repairs were undertaken is the dollar amount of the repairs in relation to the value of the asset. Here these were not extraordinarily large in relation to the building.
+[30] Presently, travel costs are allowed but reduced to $500 which I believe is reasonable pursuant to section 67 than the amount requested by the Appellant.
+[31] In summation, subsection 18(3.1) applies only to disallow these expenses referred to in paragraphs 18, 19 and 20 of the Reply but for the travel expenses. The following amounts referred to in paragraphs 16, $24,396, paragraph 17, $5,427, together $500 for travel expenses referred to in paragraph 20 totalling $30,323 are deductible as current expenditures. With respect to the $5,427 referred to in paragraph 17 of the Reply I accepted the Appellant’s evidence that this amount was incurred to repair and maintain the building and it is, of course, as mentioned above allowable on account of income.
+[32] In conclusion, the appeal is allowed. The assessment for the Appellant’s 2006 taxation year is referred back to the Minister for reconsideration and reassessment on the basis that of the total amount of $30,322 expended on the repair and renovation of 49 Patterson and 50 Strathcona is to be deducted as an expenditure on account of revenue.
+[33] Costs are granted to the Appellant fixed at $1,500. This is greater than indicated under the tariff in informal appeals. I have taken into account that the Minister’s mistaken interpretation of 18(3.1) may well have been the stumbling block to settlement.
+Signed at Ottawa, Canada, this 27th day of July, 2010.
+“C.H. McArthur”
+McArthur J.
+CITATION: 2010 TCC 395
+COURT FILE NO.: 2009-3279(IT)I
+STYLE OF CAUSE: JOSEPH MICHAEL JANOTA AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Ottawa, Ontario,
+DATE OF HEARING: May 21, 2010,
+REASONS FOR JUDGMENT BY: The Honourable Justice C.H. McArthur
+DATE OF JUDGMENT: July 27, 2010,
+APPEARANCES:
+Counsel for the Appellant:
+Robert Sheppard
+Counsel for the Respondent:
+Jennifer Neill
+COUNSEL OF RECORD:
+For the Appellant: Robert Sheppard
+Name:
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada

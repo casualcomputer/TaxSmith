@@ -1,0 +1,174 @@
+---
+title: "Moreau v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27964/index.do"
+last_modified: "2003-06-06"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 TCC 339"
+citation2: ""
+neutral_citation: "2003 TCC 339"
+decision_date: "2003-06-06"
+language: "en"
+item_id: "27964"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1812
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T18:04:42.963000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "e978eaa2c401be5bc11f92a8bb869f8fa3a25ae57115ab67dbdb0398be23def2"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Moreau v. M.N.R.
+
+- Citation: 2003 TCC 339
+- Decision date: 2003-06-06
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1812, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Moreau v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-06-06
+Neutral citation
+2003 TCC 339
+File numbers
+2001-3747(EI)
+Judges and Taxing Officers
+Alain Tardif
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2001‑3747(EI)
+BETWEEN:
+LISE MOREAU,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard on May 7, 2003, at Percé, Quebec
+Before: The Honourable Judge Alain Tardif
+Appearances:
+Counsel for the Appellant:
+Marie‑Josée Leblanc
+Counsel for the Respondent:
+Marie‑Claude Landry
+JUDGMENT
+The appeal under subsection 103(1) of the Employment Insurance Act is allowed, and the decision rendered by the Minister on the appeal to him under section 91 of that Act is varied in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 6th day of June 2003.
+"Alain Tardif"
+J.T.C.C.
+Translation certified true
+on this 3rd day of February 2004.
+John March, Translator
+Citation: 2003TCC339
+Date: 20030606
+Docket: 2001‑3747(EI)
+BETWEEN:
+LISE MOREAU,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Tardif, J.T.C.C.
+[1] This is an appeal from a determination of the decision rendered by the Minister of National Revenue (the "Minister") dated April 11, 2001. Under that determination, the work performed by the appellant for 9061‑1542 Québec Inc. from May 21 to September 23, 2000, was to be excluded from insurable employment.
+[2] In making and justifying his decision, the respondent made the following assumptions of fact:
+[TRANSLATION]
+(a) The payer, which was incorporated on April 17, 1998, operated the "Motel du Rivage", consisting of 20 rooms, a bar and a dwelling adjacent to the bar.
+(b) Nobert Deschênes, the appellant's de facto spouse, was the sole shareholder of the payer.
+(c) Mr. Deschênes and the appellant lived in the dwelling adjacent to the motel bar.
+(d) During the period in issue, the appellant made the purchases, rented the motel rooms, answered the telephone, took the bar's inventory, made the deposits and did the housekeeping.
+(e) During the period in issue, the appellant claims that she worked 60 hours a week, mainly from Monday to Friday, but also on Saturday and Sunday.
+(f) During the period in issue, the appellant received fixed gross remuneration of $480 a week at a rate of $8 an hour.
+(g) The appellant rendered services to the payer without remuneration before and after the period in issue.
+(h) From January to September 2000, the payer's income was:
+January
+February
+March
+April
+May
+June
+July
+August
+September
+$41,466
+$42,206
+$46,813
+$41,784
+$38,382
+$39,735
+$48,831
+$42,587
+$48,535
+(i) The appellant's period of employment did not coincide with the period of activity of the payer's business or with the period actually worked by the appellant.
+[3] Paragraphs (a), (b), (c), (e), (f) and (h) were admitted, whereas the others were denied.
+[4] The respondent contends that the work performed by the appellant during the period in issue was not insurable, relying mainly on paragraph 5(2)(i) of the Employment Insurance Act (the "Act"). That paragraph of the Act provides that work performed by a person not dealing at arm's length with the person who, as the payer, hires him, shall be excluded from insurable employment unless, in exercising the discretion conferred upon him by the legislator, the person responsible for the case concludes that the work performed was similar to the work that would have been done if performed by a person dealing at arm's length with his employer.
+[5] The instant case is precisely one in which the respondent concluded, in exercising his discretion, that the work performed by the appellant outside the period in issue was to be excluded from insurable employment on the ground that the requirements and terms and conditions were not substantially similar to those to which persons dealing at arm's length would have agreed.
+[6] The officer responsible for the case stated that he had communicated with the appellant, her spouse, the payer and the accountant for the purpose of verifying whether the facts and circumstances of the work performed had been changed since those at the origin of the decision of this Court in which the work was found to be uninsurable.
+[7] Mr. Létourneau, the respondent's witness, stated that he had observed only one minor change, that the appellant had since completed a time sheet. He obtained a record from the accountant stating the turnover for the period from January to September 2000.
+[8] It appears on the face of it that the turnover of the business did not in any way justify hiring the appellant since the income showed no significant increase during the period in issue.
+[9] After the appellant was laid off, once again, the income of the business showed no decline that could justify or explain the termination of her employment.
+[10] The appeals officer concluded from these two findings that the work performed by the appellant was to be excluded from insurable employment since it did not meet the requirements, terms and conditions of a contract of employment performed by a third party in similar circumstances.
+[11] The appellant described her workload, which proved to be consistent with what was assumed and reproduced in the Notice of Appeal. She emphasized that her work was related exclusively to the motel's operations and that she was not involved in or associated with the operations of the bar.
+[12] Her spouse, the payer, confirmed the appellant's testimony, and he explained that, over the years, he had invested a great deal in the development of the bar, the capacity of which was expanded from a few seats to approximately 100.
+[13] He stated that the stable nature of the business's turnover can simply be explained by its dual purpose. During the summer, when the appellant worked, the emphasis was on renting the motel's rooms. The bar's operations took over during the rest of the year.
+[14] He moreover mentioned that the activities were incompatible since bar traffic undermined the proper operation of the room rentals because of the noise and constant comings and goings very late at night, since the bar closed at 3:00 a.m.
+[15] The bar work was assigned to waitresses because, according to the payer, the appellant did not have the qualifications or, in particular, the age for that type of work.
+[16] When the Court stated that the conduct of the investigation had been very superficial and possibly incomplete, the respondent answered that the burden of proof was on the appellant and the payer from the stage of the investigation that was to lead to the determination here under appeal.
+[17] Every employer and employee must of course answer questions, provide information and comply with every request for information when their case is under review.
+[18] However, I do not believe that they must, on their own initiative, do the work of the person responsible for the case. The analyst must assume leadership in handling a case and, in exercising his responsibility must attempt to obtain all available and relevant information; the legislator has given him an obligation to conduct a full analysis of all the facts to justify a determination based on his discretion. This is not a mere intuitive exercise.
+[19] Determining whether an employment is insurable is a difficult matter requiring that many factors be taken into consideration. As a result I think it essential that the person responsible for a case do what is necessary to gather all the relevant facts so that a reasonable and legal decision can be made.
+[20] The idea is not to seek out a few facts in order to confirm an essentially intuitive decision. The person responsible has a duty to conduct a serious and full analysis of the facts from all persons who may have relevant information.
+[21] In general, persons concerned by a decision on employment insurability are not in a position to know all the relevant conditions and requirements. However, they may refuse to cooperate, demonstrate bad faith, wilfully conceal certain facts and/or distort the truth, in which case they must accept the consequences.
+[22] In this case, the appellant's testimony was credible and beyond reproach. She explained her job description and admitted that she had occasionally rendered services without remuneration, in particular by answering the telephone when she was on the premises. She said these were minor and very occasional acts.
+[23] The payer, for his part, confirmed the appellant's testimony and explained in a very reasonable manner why the appellant had had no significant effect on the business's turnover, which ultimately remained comparable whether or not the appellant was on the job.
+[24] The appellant's services were required as part of the operations of the motel, the turnover of which dropped off considerably after the summer; the appellant's work was no longer required once the summer season was over, and the bar operations took over in generating turnover. The appellant did not work in the bar.
+[25] The only weakness in the evidence brought by the appellant was her admission that she had occasionally performed certain minor jobs without remuneration, such as answering the telephone when she was in the room where the telephone was located.
+[26] Occasional collaboration without pay in her spouse's business does not automatically disqualify employment from insurability. For that to be the case, the evidence must show that the person performed, on a repeated and ongoing basis, substantially the same work, in terms of quantity and quality, as that for which that person was paid during a certain period.
+[27] The evidence in this case showed no such thing; it instead emphasized that the appellant acted reasonably having regard to the circumstances of time and place.
+[28] The question of volunteer or unpaid work performed during periods when remuneration is paid to a worker was considered by the Federal Court of Appeal in Théberge v. Canada (Minister of National Revenue (M.N.R.)), [2002] F.C.A. No. 464 (Q.L.)., from which I cite the following passage:
+7. The judge therefore proceeded to examine the evidence given before him and concluded that the employment had to be excepted. With respect, I am of the opinion that this Court must intervene. The judge erred by failing to consider both the Minister's allegations and the criteria referred to in paragraph 3(2)(c): the remuneration paid, the terms and conditions, the duration and the nature and importance of the work performed. He also erred by considering almost exclusively the duration and the nature and importance of the work performed outside of the periods of employment at issue.
+…
+18. Furthermore, and contrary to the opinion of the judge, who placed conclusive weight on the wood cutting and sugar bush work, that work was minimal, and obviously, confined to very short periods of time.
+19. What a claimant does outside the period during which he or she is employed in what the Minister considers to be insurable employment can be relevant, for example, to verify that the claimant is unemployed, to determine the amount of his or her benefits, or to establish his or her period of unemployment. However, for the purposes of the exception provided in paragraph 3(2)(c) of the Act, what a claimant does outside of his or her period of employment will be of little relevance when, as in this case, it is not alleged that the salary paid during the period of employment took into account the work performed outside of that period, that the applicant had included, in the hours spent on his or her insurable employment, hours worked outside of the period, or that work performed outside of his or her period of employment had been included in the work performed during his or her period of employment. It seems to me to be self-evident, and this is confirmed by the evidence, that in the case of family businesses engaged in seasonal work, the minimal amount of work that remains to be done outside the active season is usually performed by family members, without pay. Excepting seasonal employment, in a family farm business, on the ground that cows are milked year-round amounts, for all practical purposes, to depriving family members who qualify by working during the active season of unemployment insurance and to overlooking the two main characteristics of such a business: that it is a family business and a seasonal business.
+20. A claimant is not required to remain completely inactive while he or she is receiving benefits. Under section 10 of the Act, benefits are payable for each "week of unemployment" included in the benefit period and a "week of unemployment" is a week during which the claimant does not work a full working week. …
+21. Getting back to this particular case, the fact that the applicant worked without pay for ten to fifteen hours each week outside the active season and while he was receiving benefits may indicate that he would not have performed that unpaid work if he had not been his employer's son. However, that is not the work we are concerned with, and the judge erred by taking it into account in the absence of any indication that the insurable employment at issue was subject to special terms and conditions that were attributable services being rendered outside the period of employment.
+[29] The Court cannot disregard this decision, even though it was not unanimous.
+[30] It may not interfere and substitute itself for the respondent in reanalyzing the case unless it is established by a preponderance of proof that the respondent exercised his discretion in a non-judicial, capricious and/or unreasonable manner.
+[31] In the instant case, there was a preponderance of proof that the person responsible for the appellant's case conducted an analysis that was so succinct and summary that it ruled out highly material factors.
+[32] Assuming that it was previously held in a decision of this Court that the appellant's employment with the same payer was not insurable, he limited his investigation and quickly concluded that there had been no major change except that the appellant was now completing a time sheet.
+[33] He made no attempt to understand or take the necessary steps to obtain an explanation why the turnover had remained stable. And yet a mere question would have made it possible to learn that extensive work had been done to expand the bar so as to generate increasingly large income. He did nothing to determine that, preferring to rely on the facts gathered in the previous investigation for an entirely different period.
+[34] The legislator provided for discretion on the assumption that discretion would be exercised judicially and that each case would be subject to a thorough and serious analysis in an attempt to obtain all the information necessary to be in a position to draw well-founded conclusions.
+[35] In the instant case, disproportionate importance was attached to a judgment of this Court concerning an entirely different period and, which is more serious, in which the facts were entirely different. Considering that judgment was not reprehensible in itself, but it called for a more elaborate investigation of all the facts pertaining to the period in issue in this appeal. It definitely was not enough to ask a few questions, as the auditor did.
+[36] Consistent with the case law of the Federal Court of Appeal, I conclude, first, that the respondent's agents did not exercise their discretion reasonably. The evidence established that that discretion was exercised in an incomplete, capricious and biased manner.
+[37] That being the case, I find that the appellant discharged the burden of proof that was on her by showing that she had performed adequately remunerated work meeting the requirements of a genuine contract of service. The appellant in fact performed work in accordance with terms and conditions comparable or similar to those that would have prevailed if the same work had been assigned to a third party.
+[38] For these reasons, the appeal is allowed on the basis that the work performed by the appellant from May 21 to September 23, 2000, constituted a genuine contract of service and, accordingly, insurable employment.
+Signed at Ottawa, Canada, this 6th day of June 2003.
+"Alain Tardif"
+J.T.C.C.
+Translation certified true
+on this 3rd day of February 2004.
+John March, Translator

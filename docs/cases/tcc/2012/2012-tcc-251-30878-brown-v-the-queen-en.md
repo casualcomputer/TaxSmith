@@ -1,0 +1,260 @@
+---
+title: "Brown v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30878/index.do"
+last_modified: "2012-07-12"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2012 TCC 251"
+citation2: ""
+neutral_citation: "2012 TCC 251"
+decision_date: "2012-07-12"
+language: "en"
+item_id: "30878"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7377
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T08:17:05.009000+00:00"
+cases_cited_count: 7
+cases_citing_count: 5
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "07bda32832d9a4fed3a2fe58b26469ef2c59b9dadd00d012c2a5b9ae221a7ec4"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Brown v. The Queen
+
+- Citation: 2012 TCC 251
+- Decision date: 2012-07-12
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7377, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Brown v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2012-07-12
+Neutral citation
+2012 TCC 251
+File numbers
+2009-3250(IT)G
+Judges and Taxing Officers
+Robert James Hogan
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2009-3250(IT)G
+BETWEEN:
+EVERTON BROWN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on February 28 and 29 and March 1, 2012,
+at Toronto, Ontario.
+Before: The Honourable Justice Robert J. Hogan
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Suzanie Chua
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessments made under the Income Tax Act for the appellant’s 2004, 2005, 2006 and 2007 taxation years is dismissed with costs to the respondent, in accordance with the attached reasons for judgment.
+Signed at Ottawa, Canada, this 12th day of July 2012.
+“Robert J. Hogan”
+Hogan J.
+Citation: 2012TCC251
+Date: 20120713
+Docket: 2009-3250(IT)G
+BETWEEN:
+EVERTON BROWN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Hogan J.
+I. Introduction
+[1] By Notices of Reassessment dated June 6, 2008 (collectively “the Reassessments”) the Minister of National Revenue (the “Minister”) reassessed the appellant’s tax liability for the 2004 to 2007 taxation years through the addition of undeclared income. The Minister used a modified deposit method to add $20,715, $116,992, $26,405 and $31,296 of alleged undeclared income for the appellant’s 2004, 2005, 2006 and 2007 taxation years respectively. The Minister also assessed under subsection 163(2) of the Income Tax Act (Canada) (“the ITA”) gross negligence penalties of $1,620, $15,544, $4,036 and $2,959 for the same taxation years.
+[2] The respondent submits that the documentary evidence provided at trial shows systematic cash deposits and cash purchases in excess of the income reported by the appellant for the 2004 to 2007 taxation years.
+[3] The appellant claims that the cash deposits and purchases were from savings accumulated over prior years and gifts from family and friends that were kept by the appellant in private homes and not deposited in the Canadian banking system.
+II. Factual Background
+Criminal Investigation
+[4] On October 17, 2007 officers from the London Police Service (the “LPS”) executed a warrant at the appellant’s residence located in the city of London, Ontario (the “Residence”). The warrant was issued pursuant to the Controlled Drugs and Substances Act (“CDSA”) and was based on allegations that the appellant was engaged in the traffic of cocaine. The appellant was not home at the time the warrant was executed.
+[5] The warrant authorized the seizure of, among other things, the alleged proceeds of crime, illegal drugs, financial documents and other relevant information.
+[6] Constable Bhabba testified that the appellant was well known to the police. As early as 2000, he received information from confidential sources about the appellant’s activities as a drug dealer. On the basis of this information, a search warrant was executed at an apartment unit located in the city of London. No one was home at the time. A quantity of 13.6 grams of crack cocaine was seized from the apartment unit along with a cellular phone, tax records and other documents belonging to the appellant.
+[7] The appellant was seen entering the apartment unit during the execution of the warrant. He was witnessed disposing of 1.7 grams of cocaine and he resisted the attempt by the police to arrest him. A further quantity of 2.6 grams of cocaine was found on the appellant’s person a short while later. When the phone rang and was answered by the police on two occasions, in both instances the callers were unknown females who were ordering 40 pieces, which is a common street reference to a defined amount of crack cocaine. Charges were laid against the appellant but they were subsequently dropped.
+[8] Constable Rafiq Bhabba testified that he shared the documents seized with officials of the Canada Revenue Agency (the “CRA”). The officer testified that the CRA was not made aware of the warrant, search or seizure.
+[9] The officer explained that it was common practice for the LPS to turn over to the CRA information obtained on persons charged with trafficking or other illegal business activities as often these individuals do not report the income therefrom for fear of prosecution for their crimes. He himself had provided over 75 referrals to the CRA over a four-year period with respect to individuals who had accumulated large unexplained wealth.
+[10] Chris Christodoulou, an auditor in the CRA’s special enforcement program, received copies of the documents seized by the LPS. Constable Bhabba also surrendered cash and other goods belonging to the appellant to the CRA pursuant to a jeopardy order obtained by the CRA.
+Deposit Analysis
+[11] The information passed on from the police to the CRA formed part of the record used by the CRA to prepare the deposit analysis of the appellant’s income. In carrying out the deposit analysis, the CRA auditor testified, he also examined all of the appellant’s known bank accounts. The bank statements were obtained by way of requirements for information under the ITA.
+[12] In assessing the appellant, the Minister excluded deposits that could be traced by the auditor to non-taxable sources and made the “adjustments” shown in the schedule to the Reply, attached to these reasons for judgment as Schedule A. These adjustments reflected the net business and interest income reported by the appellant in his tax returns for the years under review, GST/HST credits and income tax refunds. The Minister also excluded all inter-bank transfers between the appellant’s accounts and all deposits in Bank of Montreal account number 212, which was a joint bank account opened in the name of the appellant and his former girlfriend, Diana Rigopoulos. The CRA auditor was satisfied that all of the transactions in account number 212 were traceable to banking activities of and for Diana Rigopoulos.
+[13] In assessing the appellant for the 2005 taxation year, the Minister included an amount totalling $25,867 and representing home furnishings, decorations and design services acquired for cash.
+Appellant’s Lifestyle
+[14] The evidence shows that the appellant reported total income of about $52,000 for the 1989 to 2003 taxation years. He reported $8,000, $22,320, $25,500, and $24,364 as income on his income tax returns for the 2004, 2005, 2006 and 2007 taxation years respectively.
+[15] Notwithstanding the modest amount of income disclosed by the appellant, the evidence shows that he maintained a fairly lavish lifestyle. The appellant, acting alone, purchased the Residence in London, Ontario for approximately $272,000 in 2005. He made a deposit of $52,387 towards the purchase of the house and obtained a 5-year mortgage of approximately $220,000, on which the payments were to be made monthly.
+[16] The appellant had two luxury motor vehicles, one owned and one leased. He also had a Honda Accord registered in his name.
+[17] The appellant testified that he has fathered 17 children, three of whom lived with him in the taxation years under review.
+Appellant’s Evidence
+[18] The appellant called seven witnesses to attempt to show that he had sufficient cash savings from taxation years pre-dating the period under review, funded in part through gifts received from family members and girlfriends, to account for the deposits and cash purchases treated as undeclared income by the CRA auditor.
+[19] Mark Colpaert testified that the appellant worked as a seasonal farm worker from May to September from mid-1989 to the mid-1990s. The appellant then took a break for a year or two and resumed working for Mr. Colpaert until 2000. According to Mr. Colpaert the appellant earned approximately $5,000 to $6,000 per year plus free lodging but not food.
+[20] Gail Brown testified that she dated the appellant from 1993 to 1996 and was married to him from 1996 to 1999. They had one child together. According to the witness, she and the appellant accumulated $30,000 in savings during their period together, which they divided equally upon their separation. Ms. Brown claims the couple was able to save this amount because they received wedding gifts from the appellant’s sister and financial assistance from her family. The witness claims that the couple had low expenses because they had roommates who shared the rent, utility and grocery expenses.
+[21] Kelly Gordon testified that she dated the appellant off and on from 1995 to 2005. The witness claims that the appellant kept money under the mattress in her bedroom during that period as he had frequent access to her home, to which he had his own key. She stated that she did not count the money under the mattress although she claims that she stole $4,000 from the appellant’s cash savings. Once the appellant discovered Ms. Gordon’s theft, he moved the money elsewhere for safekeeping.
+[22] Roxanne Alexandrea Carroll testified that she lived with the appellant in her father’s home until the appellant moved out in 2004. She had a child with the appellant. The witness claims that she travelled to Jamaica on multiple occasions and brought money back for the appellant from his sister. According to Ms. Carroll, she brought back $10,000 in July 2005, $7,000 in December 2005 and $5,000 in April 2006.
+[23] Diana Rigopoulos dated the appellant on and off from 2003 to 2005. She had three children with the appellant. She testified that she and the appellant owned and operated a roofing business together over the 2004 and 2005 calendar years. Although she jointly owned the business with the appellant, she reported 100% of the net business income on her tax returns. Ms. Rigopoulos claims that she purchased for cash the $25,867 worth of household furnishings delivered to and found in the appellant’s home and that the purchases were wrongly attributed to the appellant by the CRA auditor. She claims that the invoices issued in the appellant’s name with respect to these purchases were either duplicates of these issued in her name or mistakes made by the store.
+III. Analysis
+Violation of the Appellant’s Charter Rights
+[24] As a preliminary matter, the appellant asserts that his Charter rights were violated when the LPS forwarded to the CRA copies of the documents seized pursuant to the CDSA warrant. The appellant was self-represented. He was unable to clarify which of his rights were allegedly violated. Nonetheless, I suspect that the appellant’s concerns revolve around section 8 of the Charter, which protects against unreasonable search and seizure.
+[25] The appellant’s argument can be broken down into two parts. First, he complains that the warrant was issued in relation to an alleged offence under the CDSA for which he was not convicted. The warrant does not mention the CRA or otherwise indicate that the purpose of its issuance was to further a subsequent civil audit of the appellant under the ITA. Second, the appellant claims that some of the documentation named other persons and that their rights were violated as a consequence of their seizure. The appellant also alleges that his rights under the Privacy Act, R.S.C. 1985, p. 21 have been violated.
+[26] Section 8 of the Charter protects the privacy rights of Canadians. It reads as follows:
+Everyone has the right to be secure against unreasonable search or seizure.[1]
+[27] Subsection 24(2) of the Charter provides courts with the authority to exclude evidence where it was obtained in violation of the Charter and where its admission would bring the administration of justice into disrepute.
+[28] Section 231.1 of the ITA gives auditors undertaking compliance activities very broad powers of inspection. The relevant portions of that provision read as follows:
+(1) An authorized person may, at all reasonable times, for any purpose related to the administration or enforcement of this Act,
+(a) inspect, audit or examine the books and records of a taxpayer and any document of the taxpayer or of any other person that relates or may relate to the information that is or should be in the books or records of the taxpayer or to any amount payable by the taxpayer under this Act, and
+(b) examine property in an inventory of a taxpayer and any property or process of, or matter relating to, the taxpayer or any other person, an examination of which may assist the authorized person in determining the accuracy of the inventory of the taxpayer or in ascertaining the information that is or should be in the books or records of the taxpayer or any amount payable by the taxpayer under this Act. . . .
+[Emphasis added.]
+[29] The inspection powers in paragraph 231.1(1)(a) are not limited to documents in the taxpayer’s possession only. CRA officials can also issue third-party information requirements for the purpose of administering and enforcing the ITA.[2] The requirement power was not used with regard to the documents shared by the police because Constable Bhabba shared those documents of his own accord.
+[30] The facts in Markovic v. Canada[3] very closely resemble the facts of this appeal. In that case, the Toronto Police Service executed search warrants against the taxpayer and his wife in the context of a narcotics investigation. The police charged both the taxpayer and his wife. The charges against the taxpayer were stayed and those against the taxpayer’s wife were withdrawn.
+[31] An officer of the Toronto Police Service provided to a CRA official copies of documents seized on the execution of the search warrants. In the Tax Court, the appellants argued that this constituted a violation of their section 8 Charter rights.
+[32] Beaubier J. held that it was not improper for the CRA to use information gathered pursuant to a valid warrant issued and acted upon in the course of a criminal investigation. He wrote:
+. . . It was simply a case of the police informing CRA after the searches and after subsequent criminal proceedings. Ultimately the charges against Natasa Markovic were withdrawn and the charges against Milos were stayed. As a result, this Court finds that there is no basis for the Appellant's claim that his Charter rights under sections 8 and 24 were violated.[4]
+[33] The Supreme Court has ruled on the scope of the section 8 right to protection against unreasonable search and seizure in several cases. R. v. McKinlay Transport Ltd[5] and R. v. Jarvis[6] are the cases most relevant to this appeal.
+[34] In McKinlay Transport, the issue was whether demands for information issued by Revenue Canada officials under former subsection 231(3) violated the taxpayers’ section 8 rights. Wilson J., whose reasons were adopted by the majority, held that demands for information issued under the ITA for the purpose of enforcing that Act are not “unreasonable” seizures. Critical to her decision was her finding that a taxpayer’s privacy interest vis-à-vis the Minister of National Revenue in documents relevant to filing a tax return is relatively low.[7] That being so, an auditor’s seizure of such documents through the demand-for-production powers under the ITA was reasonable and did not violate section 8 of the Charter.[8]
+[35] In Jarvis, the Supreme Court considered whether there is a difference between the audit and investigative functions of the Canada Customs and Revenue Agency (CCRA, now the CRA) and if so, whether different constitutional considerations applied to the two situations. The case largely concerns the issue of when the section 7 Charter right against self-incrimination will limit the CRA’s powers to inspect, and demand the production of, documents. The case also considered the circumstances in which section 8 would apply to prevent the CRA from using its inspection and demand powers under the ITA.
+[36] The Court found that there is a difference between the CRA’s audit and investigative functions. The dividing line between the two is drawn according to the predominant purpose of the CRA’s actions, which is to be determined contextually. When the CRA is undertaking a prosecutorial investigation, the taxpayer and the CRA are in a “traditional adversarial relationship” due to the taxpayer’s liberty interest being at stake. There could be a violation of the Charter if the CRA collected information using its extremely broad civil audit powers with the purpose of conducting a criminal investigation.
+[37] Importantly for the present appeal, the Supreme Court in Jarvis considered whether information properly gathered in furtherance of the CRA’s audit function could be shared with officials conducting a subsequent criminal investigation. The Court held that such information sharing would not contravene section 8, writing:
+With respect to the consequences related to s. 8 of the Charter, McKinlay Transport, supra, makes it clear that taxpayers have very little privacy interest in the materials and records that they are obliged to keep under the ITA, and that they are obliged to produce during an audit. Moreover, once an auditor has inspected or required a given document under ss. 231.1(1) and 231.2(1), the taxpayer cannot truly be said to have a reasonable expectation that the auditor will guard its confidentiality. It is well known, as Laskin C.J. stated in Smerchanski, supra, at p. 32, that “[t]he threat of prosecution underlies every tax return if a false statement is knowingly made in it”. It follows that there is nothing preventing auditors from passing to investigators their files containing validly obtained audit materials. That is, there is no principle of use immunity that prevents the investigators, in the exercise of their investigative function, from making use of evidence obtained through the proper exercise of the CCRA’s audit function. Nor, in respect of validly obtained audit information, is there any principle of derivative use immunity that would require the trial judge to apply the “but for” test from S. (R.J.), supra. If a particular piece of evidence comes to light as a result of the information validly contained in the auditor’s file, then investigators may make use of it.[9]
+[38] The situation envisaged in the above passage is that of a CRA officer passing on material or documents properly discovered in the course of an audit to officials later carrying on a criminal investigation. That is more or less the opposite of the facts in the present case, where police shared with CRA auditors documents obtained in the course of a criminal investigation.
+[39] If the former does not violate section 8, then the latter should be acceptable. The subsequent use of information which the Supreme Court found acceptable in Jarvis involved the furtherance of a criminal prosecution, which engaged the liberty interest of Mr. Jarvis. By contrast, in the present case, the subsequent use is to further the Minister’s regulatory enforcement of the ITA via audit. The consequences of an audit, while no doubt serious, do not threaten Mr. Brown’s liberty interest.
+[40] Two issues require further comment. First, does it matter that the warrant upon which the LPS acted made no mention of any intent to share information with the CRA? Second, is it relevant that the criminal charges laid against Mr. Brown were dropped?
+[41] On the first point, I note that the validity of the underlying warrant was not challenged. Moreover, Constable Bhabba testified that the CRA was not aware of or involved in the LPS’s criminal investigation. More importantly, per McKinlay Transport, Mr. Brown’s privacy interest vis-à-vis the CRA in the documents at issue was relatively low.
+[42] A similar analysis applies to the second issue. The fact that the charges were dropped has no relevance to the question of whether Mr. Brown’s privacy interest in the documents was sufficiently high to render CRA inspection of the documents a violation of his Charter rights. Jarvis is authority for the proposition that use of the CRA’s inspection and production powers is inappropriate when the predominant purpose is criminal investigation rather than ensuring regulatory compliance with the ITA. Here, there is no suggestion that the CRA auditor, in accepting the documents from the LPS, intended to carry out a criminal investigation. Therefore, the auditor’s acceptance of the documents is constitutionally appropriate even though the CDSA charges against Mr. Brown never proceeded to trial.
+[43] Mr. Brown’s second constitutional argument was that the information sharing violated Diane Rigopoulos’s rights because some of the documents seized and shared were addressed to her. In R v. Edwards, the Supreme Court held that it is the privacy rights of the person bringing the challenge that must have been allegedly infringed.[10]
+[44] Finally, Mr. Brown’s written submissions also suggest that the LPS sharing documents with the CRA violated the Privacy Act. The LPS is a provincial body and not covered under the Privacy Act. The CRA, on the other hand, is a “government institution” subject to the Privacy Act.[11] It is sufficient to note, however, without considering whether the acceptance of the information from the police might have violated the Privacy Act, that nothing in that legislation suggests that the result of a breach would be the exclusion of evidence in a trial.
+Appellant’s Evidence
+[45] The appellant’s explanation as to the sources of the cash used to make the unexplained deposits and cash purchases in the relevant taxation years lacks credibility.
+[46] According to the appellant he received gifts from family members. In addition, he had very low personal expenses in the taxation years preceding the years reassessed because he lived off the earnings of his girlfriends and former wives. This allowed him to save his own modest income. Finally, the cash purchases attributed to him as undeclared income totalling $25,857 were made by his girlfriend, Diana Rigopoulos, and not him.
+[47] The appellant denies that he earned income from the sale of illegal drugs. Yet the appellant offers no explanation as to why he would have kept $106,000 hidden under a mattress in Ms. Gordon’s bedroom. If, as suggested by the appellant, the cash originated from gifts and earnings from legitimate sources reported as income in prior taxation years, why was the money not deposited in a bank account? The appellant offered no explanation as to why he was comfortable with making large cash deposits in the taxation years under review but not in earlier taxation years.
+[48] The appellant brought forward five witnesses who testified that they knew he was in the habit of keeping his savings in cash. I did not find their evidence to be reliable.
+[49] Gail Brown claims that she and the appellant managed to save $30,000, which they divided between them in the late 1990s upon their separation. The evidence shows that Ms. Brown did not file tax returns from 1989 to 1993. From 1993 to 1999, Ms. Brown received social assistance. Her total declared income from 1997 to 1999 was $52,000. She claimed that the couple had low personal expenditures. On examination-in-chief, she claimed that the couple did not own property or rent an apartment. She claimed that the appellant and she lived in other people’s homes or had roommates. However, on cross-examination, it was shown that she incurred rental expenses totalling $27,000 over the 1993 to 1999 taxation years. Finally, Ms. Brown was charged with, and convicted of, theft over $5,000. She was also charged with possession of narcotics for the purpose of trafficking.[12] Ms. Brown claims that she knew the appellant kept money at Kelly Gordon’s house, but says she did not know how much. Apparently, the couple agreed to split their joint savings but, surprisingly, not the appellant’s significant cash savings of which Ms. Brown was aware.
+[50] Ms. Gordon admits that she stole $4,000 from the cash hidden by the appellant under the mattress she slept on, yet claims she never counted the money. The evidence shows that Ms. Gordon also has a history of criminal activities.[13] The case law is clear that, in assessing a person’s testimony, a judge may consider the witness’s moral behaviour.[14]
+[51] Joseph Carroll, Ms. Carroll’s father, testified that the appellant kept cash in his root cellar when the appellant was living in Mr. Carroll’s home with Roxanne, but stated that he did not know how much.
+[52] Roxanne Carroll testified that she knew the appellant kept savings in cash in her father’s home, yet she too did not know how much.
+[53] Ms. Carroll also claimed that she brought cash to the appellant from his sister in 2005 and 2006. On cross-examination she stated that she was unaware that Jamaican law prohibited a tourist from leaving the country with large sums of money that the tourist had not taken into the country. When informed of this, she suggested that perhaps she had taken with her up to $50,000 in cash to support herself and her daughter on their vacation.
+[54] Diana Rigopoulos claims that she was the one who made the cash purchases of household furnishings that were attributed to the appellant as undeclared income. She also claims that she made a number of cash deposits, totalling approximately $28,500, in the couple’s joint bank account over the period from 2004 to 2007.
+[55] The household furniture she claims she purchased was seized from the appellant’s home in 2007. The witness states that she never lived there. Ms. Rigopoulos’s tax returns produced as Exhibit R-9 show that she reported an average annual income of $5,000 per year, including employment insurance, social assistance and child care benefits. The evidence also shows that Ms. Rigopoulos attempted to pay the appellant’s Visa bills with counterfeit bills. Ms. Rigopoulos’s testimony that she purchased the furniture and household furnishings and had them delivered to a home that she did not live in is not plausible. Her modest declared income would not have allowed her to accumulate such savings.
+[56] The only witness who knew the amount of the appellant’s cash savings from prior years was the appellant himself, who was not a credible witness. The appellant’s evidence cannot be accepted without reliable corroborating evidence, of which there is none in the trial record.
+[57] The Crown led evidence to show that fraudulent documents were given to the appellant’s mortgage lender to support the appellant’s loan application in 2005. These documents included false notices of assessment showing that the appellant reported the $56,684 that his fake employment letter stated he had earned from City Wide Surplus. The appellant claims he had nothing to do with these documents, yet they were seized under the search warrant executed at his home. Undoubtedly, the mortgage lender would have been unwilling to provide the appellant with a mortgage loan without proof of a source of steady income. No one but the appellant had an interest in obtaining the loan.
+[58] The evidence considered as a whole supports the Crown’s theory that the appellant was engaged in the traffic of illegal drugs. The appellant stresses that he was not convicted in either of the instances in which he was investigated for offences under the CDSA. However, the Crown’s lack of evidence to support the criminal allegation is inconclusive for the purposes of this trial. It is well established in tax appeals that the onus is on the taxpayer to disprove an assessment issued within the normal assessment period.
+[59] The appellant bears that onus for all of the taxation years under review save 2004. The Crown bears the onus for the 2004 reassessment, which was issued after the normal assessment period, and for the penalties imposed under subsection 163(2) of the ITA. It is important to recall that the standard of proof in this Court is always that of the balance of probabilities and not of proof beyond a reasonable doubt, as is the case for a criminal prosecution. Considering the evidence as a whole, the respondent has satisfied its burden in each of those regards.
+[60] It is well established that a taxpayer is subject to tax on his income regardless of its source. A taxpayer must keep reliable books and records of all his income, including income from illegal sources.[15] If he does not, the Minister may issue a so‑called arbitrary assessment using any method that is appropriate in the circumstances.[16]
+[61] In the absence of reliable books and records and plausible or reliable evidence from the appellant or third parties, a deposit analysis based on the appellant’s bank deposits is sufficient to uphold the reassessments.
+[62] For all of these reasons, the appellant’s appeal is dismissed, with costs to the respondent.
+Signed at Ottawa, Canada, this 12th day of July 2012.
+“Robert J. Hogan”
+Hogan J.
+SCHEDULE “A”
+Taxation Year
+Bank Account
+Amount
+2004
+Bank of Montreal account no. . . .
+$10,031
+TD Canada Trust account no. . . .
+$19,000
+$29,031
+Less: adjustments
+($8,316)
+$20,715
+--------------
+2005
+Bank of Montreal account no. . . .
+$22,814
+Bank of Montreal account no. . . .
+$15,500
+TD Canada Trust account no. . . .
+$75,482
+$113,769
+Add: cash purchases
+$25,867
+Less: adjustments
+($22,673)
+$116,992
+--------------
+2006
+Bank of Montreal account no. . . .
+$8,000
+TD Canada Trust account no. . . .
+$44,255
+$52,255
+Less: adjustments
+($25,850)
+$26,405
+--------------
+2007
+Bank of Montreal account no. . . .
+$8,000
+Bank of Montreal account no. . . .
+$7,980
+TD Canada Trust account no. . . .
+$46,111
+$62,091
+Less adjustments
+($30,795)
+$31,296
+--------------
+CITATION: 2012TCC251
+COURT FILE NO.: 2009-3250(IT)G
+STYLE OF CAUSE: EVERTON BROWN v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: February 28 and 29 and March 1, 2012
+REASONS FOR JUDGMENT BY: The Honourable Justice Robert J. Hogan
+DATE OF JUDGMENT: July 12, 2012
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Suzanie Chua
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Constitution Act, 1982, being Schedule B to the Canada Act 1982 (UK), 1982, c. 11.
+[2] ITA, s. 231.2.
+[3] Markovic v. The Queen, 2007 TCC 18, 2007 DTC 404.
+[4] Ibid, para. 9.
+[5] R. v. McKinlay Transport Ltd., [1990] 1 S.C.R. 627, [1990] S.C.J. No. 25 (QL).
+[6] R. v. Jarvis, 2002 SCC 73, [2002] 3 S.C.R. 757.
+[7] McKinlay Transport, supra, at pp. 649-50 S.C.R., at para. 35 QL.
+[8] Ibid, at p. 650 S.C.R. para. 36 QL.
+[9] Jarvis, supra, at para. 95. Emphasis added.
+[10] R. v. Edwards, [1996] 1 S.C.R. 128, [1996] S.C.J. No. 11 (QL), at para. 34.
+[11] Privacy Act, s. 3, s.v. “government institution” and Schedule.
+[12] Transcript, pp. 45-46: Ms. Brown served a custody sentence for an unspecified conviction in 1993. She was also sentenced for the theft conviction.
+[13] Ms. Gordon was convicted and sentenced for theft in 2004. She was convicted and given a probationary sentence for fraud in 2007. She also failed to appear in court in 2007.
+[14] Laroche et al. v. The Queen, 2003 DTC 1154 (T.C.C.), at paras. 122 and 123.
+[15] Cantore v. R., 2010 TCC 367, [2010] 6 C.T.C. 2215, at para. 11.
+[16] Korki v. R., 2010 TCC 384, [2010] 6 C.T.C. 2041, at para. 18, affirmed 2011 FCA 287.

@@ -1,0 +1,155 @@
+---
+title: "Judge v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29889/index.do"
+last_modified: "2010-06-17"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 TCC 329"
+citation2: ""
+neutral_citation: "2010 TCC 329"
+decision_date: "2010-06-17"
+language: "en"
+item_id: "29889"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6382
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T02:15:14.024000+00:00"
+cases_cited_count: 1
+cases_citing_count: 3
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "07910fd301c8dafbb0d7e4c31523ee4861ac66228b064c9f2812635900c087bc"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Judge v. M.N.R.
+
+- Citation: 2010 TCC 329
+- Decision date: 2010-06-17
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6382, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Judge v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-06-17
+Neutral citation
+2010 TCC 329
+File numbers
+2008-3687(EI)
+Judges and Taxing Officers
+Judith Woods
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2008-3687(EI)
+BETWEEN:
+JOHN O’NEILL JUDGE,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard on June 7, 2010 at Kingston, Ontario
+By: The Honourable Justice Judith Woods
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Jack Warren
+____________________________________________________________________
+JUDGMENT
+The appeal with respect to a decision of the Minister of National Revenue under the Employment Insurance Act is allowed, and the decision is varied on the basis that the appellant had 735 insurable hours during the period from February 2, 2007 to August 24, 2007. Each party shall bear their own costs.
+Signed at Ottawa, Canada this 17th day of June 2010.
+“J. M. Woods”
+Woods J.
+Citation: 2010 TCC 329
+Date: 20100617
+Docket: 2008-3687(EI)
+BETWEEN:
+JOHN O’NEILL JUDGE,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGMENT
+Woods J.
+[1] John O’Neill Judge has been a secondary school teacher for approximately 10 years. This appeal under the Employment Insurance Act concerns a contract that he had to teach construction technology for one semester at Gananoque Secondary School near Kingston, Ontario.
+[2] The question to be determined is the appellant’s insurable hours during the period of employment, which lasted from February 2 to August 24, 2007.
+[3] The appellant was employed to teach 2/3 of a regular teaching schedule. Whereas full-time teachers were assigned 3 classes per day plus other duties, the appellant was assigned 2 classes per day plus a proportionate amount of other duties. His remuneration for the semester was approximately $23,000.
+[4] The Minister of National Revenue originally determined that the appellant’s insurable hours were 470, based on a record of employment submitted by the employer. These hours were determined based on 2/3 of full-time hours of 7.23 per day.
+[5] After the appellant appealed this determination, the Minister increased the insurable hours from 470 to 516. No one from the Canada Revenue Agency testified as to how this figure was determined but the reply indicates that an assumption was made that full-time teachers were assigned 7.5 hours per day.
+[6] The appellant has appealed this determination to the Court. He submits that he was paid to prepare and deliver 2 classes per day plus other duties and that in the performance of these duties he worked close to full-time hours each day. He suggests that 735 hours is a conservative estimate of the time that was spent, exclusive of voluntary extra-curricular activities.
+Legislative scheme
+[7] The relevant legislative scheme is set out in sections 6(3) and 55 of the Employment Insurance Act and section 10 of the Employment Insurance Regulations. They are reproduced below.
+Employment Insurance Act
+6(3) For the purposes of this Part, the number of hours of insurable employment that a claimant has in any period shall be established as provided under section 55, subject to any regulations made under paragraph 54(z.1) allocating the hours to the claimant’s qualifying period.
+55(1) The Commission may, with the approval of the Governor in Council, make regulations for establishing how many hours of insurable employment a person has, including regulations providing that persons whose earnings are not paid on an hourly basis are deemed to have hours of insurable employment as established in accordance with the regulations.
+(2) If the Commission considers that it is not possible to apply the provisions of the regulations, it may authorize an alternative method of establishing how many hours of insurable employment a person has.
+(3) The Commission may at any time alter the authorized method or rescind the authorization, subject to any conditions that it considers appropriate.
+(4) The Commission may enter into agreements with employers or employees to provide for alternative methods of establishing how many hours of insurable employment persons have and the Commission may at any time rescind the agreements.
+Employment Insurance Regulations
+10(1) Where a person's earnings are not paid on an hourly basis but the employer provides evidence of the number of hours that the person actually worked in the period of employment and for which the person was remunerated, the person is deemed to have worked that number of hours in insurable employment.
+(2) Except where subsection (1) and section 9.1 apply, if the employer cannot establish with certainty the actual number of hours of work performed by a worker or by a group of workers and for which they were remunerated, the employer and the worker or group of workers may, subject to subsection (3) and as is reasonable in the circumstances, agree on the number of hours of work that would normally be required to gain the earnings referred to in subsection (1), and, where they do so, each worker is deemed to have worked that number of hours in insurable employment.
+(3) Where the number of hours agreed to by the employer and the worker or group of workers under subsection (2) is not reasonable or no agreement can be reached, each worker is deemed to have worked the number of hours in insurable employment established by the Minister of National Revenue, based on an examination of the terms and conditions of the employment and a comparison with the number of hours normally worked by workers performing similar tasks or functions in similar occupations and industries.
+(4) Except where subsection (1) and section 9.1 apply, where a person's actual hours of insurable employment in the period of employment are not known or ascertainable by the employer, the person, subject to subsection (5), is deemed to have worked, during the period of employment, the number of hours in insurable employment obtained by dividing the total earnings for the period of employment by the minimum wage applicable, on January 1 of the year in which the earnings were payable, in the province where the work was performed.
+(5) In the absence of evidence indicating that overtime or excess hours were worked, the maximum number of hours of insurable employment which a person is deemed to have worked where the number of hours is calculated in accordance with subsection (4) is seven hours per day up to an overall maximum of 35 hours per week.
+(6) Subsections (1) to (5) are subject to section 10.1.
+Analysis
+[8] The respondent submits that the deeming rule in s. 10(1) of the Regulations applies, or alternatively s. 10(3).
+[9] In my view, neither of these provisions apply on the facts of this case.
+[10] Subsection 10(1) of the Regulations deems insurable hours to be as determined by the employer if the employer provides evidence as to the number of hours that the person actually worked and for which the person was remunerated.
+[11] The problem with applying this provision is that there is no indication that the employer provided the evidence required by the provision. Such evidence was certainly not provided at the hearing and I am not satisfied that it was provided at any time in connection with this determination.
+[12] Testimony was provided at the hearing by Ms. Michelle Meunier, who was the payroll coordinator at the school board which employed the appellant. Ms. Meunier testified that the relevant collective agreement does not provide for a set number of hours for which teachers are remunerated. She testified that the payroll staff have historically used a figure of 7.23 hours per day in filling out the records of employment but she was not aware of the reason that this figure was used.
+[13] Based on the evidence that was presented, I am not prepared to conclude that the employer has provided evidence of the hours of employment for which the appellant was remunerated as required by subsection 10(1). The provision does not apply.
+[14] Similarly, subsection 10(3) does not apply. This provision provides that the Minister may determine insurable hours based on an examination of the terms and conditions of employment and a comparison of hours normally worked by workers in similar circumstances.
+[15] There is not sufficient evidence that either of these inquiries were made by the Minister.
+[16] Counsel for the respondent pointed to the assumptions stated in the reply but they do not reveal that the Minister had regard either to the terms and conditions of the appellant’s employment or the hours worked by others in similar circumstances.
+[17] I would also mention that some of the assumptions made by the Minister appear to be inaccurate. For example, the Minister assumed that full-time teachers were assigned six 75 minute periods per day (or 7.5 hours per day). However, Ms. Meunier testified that there were four periods a day, each lasting 60 minutes.
+[18] Since the methods proposed by the respondent are both rejected, I turn back to the Regulations, specifically subsections 10(4) and (5). These provisions require that the determination be made on the basis of the minimum wage. Neither party suggested that these provisions should apply here and no evidence was provided of the minimum wage. I do not propose to decide the appeal based on these provisions.
+[19] In the circumstances, I turn to the evidence regarding actual hours worked by the appellant. The appellant testified that he had to work significantly more than what is normally required to prepare for two classes per day given the particular circumstances of his classes. His evidence in this regard was detailed and convincing and it was not challenged on cross-examination. I accept the appellant’s evidence that he worked almost full-time even though he had only a 2/3 load.
+[20] Counsel for the respondent suggests that the appellant was only remunerated for 516 hours, even if he actually worked significantly more hours than this.
+[21] I disagree with this. In the circumstances where the collective agreement is silent as to the number of hours that are to be worked, it is not reasonable to conclude that the appellant was only remunerated for 516 hours. He was remunerated for the time spent preparing and delivering two classes per day, plus other assigned duties.
+[22] In reaching this conclusion, I recognize that the appellant’s testimony is self-interested, and that the 735 hours estimated by him could easily be inflated. However, I am satisfied from the evidence that the appellant’s estimate is much more accurate than the Minister’s. In the circumstances, the appellant’s estimate of 735 hours will be accepted.
+[23] Finally, I would mention that the appellant provided me with several judicial authorities which are supportive of the approach that I have taken: Franke v. MNR, 1999 CanLII 532 (TCC); Chahal v. MNR, 2008 TCC 347; and McKenna v. MNR, 1999 CanLII 194 (TCC).
+[24] The appeal will be allowed, and the decision of the Minister will be varied to increase the number of insurable hours to 735.
+Signed at Ottawa, Canada this 17th day of June 2010.
+“J. M. Woods”
+Woods J.
+CITATION: 2010 TCC 329
+COURT FILE NO.: 2008-3687(EI)
+STYLE OF CAUSE: JOHN O’NEILL JUDGE and THE
+MINISTER OF NATIONAL REVENUE
+PLACE OF HEARING: Kingston, Ontario
+DATE OF HEARING: June 7, 2010
+REASONS FOR JUDGMENT BY: The Honourable Justice J. M. Woods
+DATE OF JUDGMENT: June 17, 2010
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Jack Warren
+COUNSEL OF RECORD:
+For the Appellant:
+Name: N/A
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada

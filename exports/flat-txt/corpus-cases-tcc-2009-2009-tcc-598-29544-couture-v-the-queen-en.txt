@@ -1,0 +1,241 @@
+Title: Couture v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29544/index.do
+Corpus path: corpus/cases/tcc/2009/2009-tcc-598-29544-couture-v-the-queen-en.md
+Document type: case_law
+Last modified: 2009-11-21
+
+# Couture v. The Queen
+
+- Citation: 2009 TCC 598
+- Decision date: 2009-11-21
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6362, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Couture v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2009-11-21
+Neutral citation
+2009 TCC 598
+File numbers
+2007-3914(IT)I
+Judges and Taxing Officers
+Gaston Jorré
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2007-3914(IT)I
+BETWEEN:
+DANIELLE COUTURE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard on common evidence with the appeal of Mario Grondin (2007-3916(IT)I) on June 16 and 18, 2008, at Montréal, Quebec.
+Before: The Honourable Justice Gaston Jorré
+Appearances:
+Agent for the appellant:
+Mario Grondin
+Counsel for the respondent:
+Benoit Mandeville
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessments made under the Income Tax Act for the 2002 and 2003 taxation years is allowed, without costs, and the matter is referred back to the Minister of National Revenue for reconsideration and reassessment, in accordance with the attached Reasons for Judgment.
+It is ordered that the filing fee of $100 be reimbursed to the appellant.
+Signed at Ottawa, Canada, this 21st day of November 2009.
+"Gaston Jorré"
+Jorré J.
+Translation certified true
+on this 7th day of January 2010
+Margarita Gorbounova, Translator
+Docket: 2007-3916(IT)I
+BETWEEN:
+MARIO GRONDIN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard on common evidence with the appeal of Danielle Couture (2007-3914(IT)I) on June 16 and 18, 2008, at Montréal, Quebec.
+Before: The Honourable Justice Gaston Jorré
+Appearances:
+For the appellant:
+The appellant himself
+Counsel for the respondent:
+Benoit Mandeville
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessments made under the Income Tax Act for the 2002 and 2003 taxation years is allowed, without costs, and the matter is referred back to the Minister of National Revenue for reconsideration and reassessment, in accordance with the attached Reasons for Judgment.
+It is ordered that the filing fee of $100 be reimbursed to the appellant.
+Signed at Ottawa, Canada, this 21st day of November 2009.
+"Gaston Jorré"
+Jorré J.
+Translation certified true
+on this 7th day of January 2010
+Margarita Gorbounova, Translator
+Citation: 2009 TCC 598
+Date: 20091121
+Dockets: 2007-3914(IT)I
+2007-3916(IT)I
+BETWEEN:
+DANIELLE COUTURE,
+MARIO GRONDIN,
+Appellants,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Jorré J.
+[1] These two appeals were heard on common evidence. The appellants owned three apartments at 572 Valois Street in Vaudreuil‑Dorion and three apartments at 574 Valois Street in Vaudreuil-Dorion. The appellants occupied two of the apartments at 574 Valois Street and rented out the other four apartments.
+[2] In their income tax returns for the 2002 and 2003 taxation years, the appellants reported the following gross and net incomes:
+2002
+2003
+Gross rental income
+$23,588
+$19,378
+Net rental income
+$816
+-$2,564 (loss)
+That income was divided equally between the appellants.[1] No capital cost allowance was claimed in computing the net income, and the interest claimed was $5,483.28 in 2002, and $4,719.05 in 2003.[2]
+[3] In making the appellants' reassessments, the Minister disallowed some expenses, but did not make any changes to the gross income. Disallowing some of the expenses resulted in an increase of each appellant's net rental income by over $6,214 in 2002 and $8,379 in 2003.[3]
+[4] The Minister made those net changes not only by disallowing some expenses, but also by allowing some additional expenses. In some cases, the expenses were recategorized.
+[5] During the two years in question, the appellant Mario Grondin worked in the construction industry and owned an agricultural business, namely, a cedar plantation, which had a net loss of $2,945.72 in 2002 and $3,780.73 in 2003. The appellant Danielle Couture worked at the Centre d’action bénévole L’Actuel [L'Actuel volunteer action centre].
+[6] Mr. Grondin testified, as did the auditor from the Canada Revenue Agency (CRA), Alain Cloutier. Ms. Couture did not testify.
+[7] The details of the assessments are found in a letter dated March 22, 2006,[4] sent to Ms. Couture by the CRA and the documents enclosed with it.[5]
+[8] Mr. Grondin built the apartments at 572 and 574 Valois Street himself in 1987. The evidence shows that, from 2000 to 2003, he intended to add new apartments on the lots at 572 and 574 Valois Street. Some pieces of evidence seem to suggest that there were going to be four new apartments, and others seem to indicate that there were going to be six. It is possible that the appellants changed their plans during that period. In any case, that is not significant in resolving this matter.[6]
+[9] Mr. Grondin did some very significant work in two of the apartments at 572 Valois Street during the last six months of 2003, while those two apartments were unoccupied.
+[10] In 2004, the appellants sold two condominiums at 572 Valois Street and one condominium at 574 Valois Street. In 2006, the other three condominiums on Valois Street were sold.
+Maintenance and repairs
+[11] The biggest changes made during the audit concerned maintenance and repair expenses. In 2002, the most important issue concerns the amounts claimed for tools, and in 2003, the main issue is whether the two apartments that were unoccupied during the second half of 2003 were (i) for sale or (ii) for sale or rent.
+2002
+[12] For 2002, Mr. Grondin claimed a total of $10,213.39 ($7,660.04 + $2,553.35) for maintenance and repairs, and the Minister disallowed $8,390.20 ($6,851.41 + $1,538.79) of those expenses. The largest part of that amount, namely, $7,874.63 was for tools. A small amount was disallowed by the Minister because there were no supporting invoices.
+[13] The tool expenses were disallowed because the Minister was of the opinion that they were not incurred in relation to the apartments. That conclusion was based on the fact that Mr. Grondin was a construction worker and that some of the tools were used for installing and working with drywall.
+[14] Mr. Grondin testified that he did not need tools for his construction work and in support of his claim produced Exhibit A‑9, an excerpt from the collective agreement between the Association de la construction du Québec and the Conseil conjoint de la Fédération des travailleurs du Québec et du Conseil provincial du Québec des métiers de la construction. Found in the section entitled [Translation] "Appendix E-3" on the first page of that exhibit is a very short list of tools that Mr. Grondin had to supply.
+[15] The appellant also testified that there were trees on the two lots and that he needed a chainsaw to cut them down.
+[16] I accept Mr. Grondin's testimony with respect to the tools, in particular, that they were bought for the construction of the new apartments (which never happened) and also for the work done in the two apartments at 572 Valois Street in 2003.[7] However, I do not accept that there was no personal use.
+[17] Accordingly, the Minister was incorrect in disallowing the tool expenses in full. However, the tools are not current expenses, but rather depreciable property expenses. Thus, the appellants should be reassessed, and they will be able to claim depreciation on the tools if they wish to do so. The tools that cost less than $200 belong to category 12, which allows for depreciation at 100%, and the tools that cost over $200 belong to category 8, which allows for depreciation at 20%.
+[18] To account for personal use, the Minister will have to assume that 5% of the use of the tools was personal.
+[19] Mr. Grondin did not demonstrate that deducting the rest of the amounts reported as maintenance and repairs was justified.[8]
+2003
+[20] In 2003, the appellants claimed maintenance and repair expenses of around $13,259.01.
+[21] The biggest change stems from the fact that the Minister capitalized the expenses of about $6,399.51 pertaining to apartments number 1 and 3 at 572 Valois Street.[9]
+[22] Those apartments were unoccupied starting in June and July respectively. The Minister's position is that, for the second half of 2003, those two apartments were for sale, not for rent, and that, accordingly, the expenses should have been capitalized.
+[23] Mr. Grondin testified that the two apartments were for sale or for rent and that he had posted two signs visible from the street: one stating [Translation] "apartment for rent" and the other [Translation] "condo for sale".[10]
+[24] However, to determine the intention, we must consider not only the testimony but also all of the circumstances.
+[25] The two apartments were sold in 2004.
+[26] Some significant work has been done at the two apartments, including an improvement, namely, the installation of floating floors.
+[27] The appellants placed advertisements about selling condominiums in La Presse and the local newspaper. They did not place rental advertisements.[11]
+[28] The text of the advertisement in La Presse was not filed in evidence, but the invoice for the local newspaper contains the following text:
+[Translation]
+Dorion, pretty 4 1/2, ground floor, bay window. Unique 5 1/2, half basement, garden door, available $99,900 . . .
+[Emphasis added.]
+[29] Given these facts, I find that the two apartments were for sale, not for rent.
+[30] The Minister was therefore correct in capitalizing the amounts in question since they were expenses incurred for two properties, namely, the apartments, that were intended for sale,[12] which resulted in increasing their cost.[13]
+[31] A $7.82 item, namely, a [Translation] "jumbo sign condo for sale" was disallowed as a personal expense. I cannot understand how that expense can be classified as personal. That amount was part of the costs paid in order to sell the two apartments the following year.
+[32] As for other disallowed expenses in the "maintenance and repairs" category, some were disallowed by the Minister because the appellants did not provide receipts and others because the Minister classified the expenses as personal.
+[33] Among those other disallowed expenses are a fisherman's glove and a beach ball. With one exception, nothing in the evidence leads me to find that additional expenses should be allowed.
+[34] The exception is the $28 paid for the propane used to heat the garage while Mr. Grondin painted the moulding.
+[35] The moulding was part of the work done at the two unoccupied apartments, and accordingly, the $28 should be added to the capitalized amount of $6,399.51.
+[36] No other changes should be made with respect to maintenance and repairs in 2003.
+Interest in 2002
+[37] The dispute is over the fact that, out of the $5,483.28 claimed as interest, $2,947.04 is not related to interest. It constitutes the expenses incurred in order to prepare the construction project for a new two- or three-apartment building on each lot at 572 Valois Street and 574 Valois Street, for example, expenses incurred for land surveyors or building permits.
+[38] The Minister was correct in considering those expenses as capital expenditures, not current expenses, because they were incurred to create a new property. Since this new property was never created, the expenses in question cannot be added to the cost of the property.
+[39] However, these capital expenditures are eligible under subsection 14(5) of the Income Tax Act (ITA), with the result that 75% of $2,947.04 will be added to the cumulative eligible capital. The appellants could choose to deduct 7% from the cumulative eligible amount in accordance with paragraph 20(1)(b) of the ITA.[14]
+Interest in 2003
+[40] The appellants had claimed $4,719.05 in interest, and the Minister allowed $1,537.46 of that amount. Some of that amount was disallowed by the Minister because the appellants had not provided receipts,[15] and another $385.29 was disallowed because the Minister considered the expenses as ineligible. An amount of $244.93 was allowed as a current expense, but as legal fees, not interest.
+[41] All other interest claimed was capitalized as being related to the two apartments that were for sale. Given that I found above that the apartments were for sale, no changes need to be made, except for the $274.37 paid to the Régie du bâtiment[16] with respect to the apartment construction project that was abandoned. That amount is not a current expense, but rather an eligible capital expenditure.[17]
+Management fees and utilities
+[42] The management fees claimed were related to telephone and automobile use. An amount of $886.86 was claimed in 2002 and $1,031.95 in 2003. The telephone expenses were disallowed since they were personal-use plans. The Minister allowed $171.15 in 2002 and of $227.11 in 2003 for automobile use.
+[43] In regard to telephone expenses, the appellants did not demonstrate which of the calls were business-related, but I cannot agree that no amount should be attributed for telephone use, even though the circumstances are such that it would not be necessary to make many telephone calls concerning renting out apartments. I would allow $80 for business-related telephone use for each year at issue.
+[44] With respect to automobile expenses, according to Mr. Grondin's testimony, he had never kept a mileage log and he could no longer remember how he had calculated that the automobiles were used for business 15% of the time. Exhibit A‑15, which he filed in support of his claim, is a calculation that he had prepared after the fact in July 2007. He did not establish a total mileage for the automobiles. Even if I accept the business mileage in Exhibit A‑15, in the absence of total mileage, it is impossible to determine a use percentage different from that used by the Minister. Thus, there is no reason to change the automobile expenses.[18]
+[45] At the hearing, Mr. Grondin wanted to obtain deductions for depreciation of a Jetta. In theory, I agree that the appellants can claim depreciation. However, there is a factual difficulty. Mr. Grondin claimed that he had paid over $7,000 for the automobile.
+[46] Mr. Grondin had no receipt for the purchase of the car. However, in Exhibit A‑10, there is a receipt for the Jetta from the Société de l’assurance automobile du Québec (SAAQ), which reads [Translation] "sale: $2,000", [Translation] "value: $6,600" and [Translation] "odometer: 213,000 km".
+[47] I do not accept Mr. Grondin's testimony on this issue,[19] and I find that the purchase price was $2,000. The appellants will be able to claim 5% of the depreciation provided for by the Act using the price of $2,000 for the car, if they wish to do so.
+Gross income
+[48] Mr. Grondin testified that there was an error in the computation of the gross income and that the appellants had reported $584 too much, which corresponded to a month when they did not receive rent for one apartment.[20]
+[49] I accept Mr. Grondin’s testimony on that point. The assessments for 2002 will have to be modified to reduce the gross income by $584.
+Other issues
+[50] Apart from some adjustments to the division of some expenses, there is nothing in the evidence that would warrant other modifications to the assessments.
+[51] The Minister divided the allowed expenses between the apartments at 572 Valois Street and 574 Valois Street. Then, to take into account the personal use of two of the three apartments at 574 Valois Street, he reduced some expenses by 66.66%. Some of the amounts thus reduced should not have been reduced, either because of their nature or because the calculation of the eligible amount was a calculation of the portion that applies to rental activity, like the automobile expenses, for example.
+[52] Corrections should therefore be made in order to eliminate some of the 66.66% reductions to the amount attributed to 574 Valois Street.
+[53] I agree with the respondent, who admitted that the legal, advertising, utility and automobile costs allowed by the Minister should not be reduced by 66.66%. I would add that this is also true for the depreciation of the Jetta.
+Conclusion
+[54] Accordingly, the appeal is allowed, and the matter is referred back to the Minister for reconsideration and reassessment, on the basis of the following:
+(a) The following expenses are eligible capital expenditures in accordance with subsection 14(5) of the ITA, and the appellants will be able to claim the following deductions under paragraph 20(1)(b­), if they wish to do so:
+(i) the amount of $2,947.04 discussed at paragraphs 37 and 39; and
+(ii) the amount of $274.37 discussed at paragraph 41.
+(b) The expenses of $7,874.63 for tools:
+(i) are expenses for depreciable property, and depending on their cost, belong to either category 12 or category 8 (the appellants will be able to claim depreciation under paragraph 20(1)(a) of the ITA if they wish to do so;[21] and
+(ii) include 5% personal use.
+(c) The amount of $7.82 for the sign [Translation] “condo for sale” is not a personal expense, but is part of the cost of selling the condominiums, which were sold in 2004.
+(d) The amount of $28 for the propane must be added to the $6,399.51 capitalized by the Minister.
+(e) The expenses will have to be increased by $80 for 2002 and by $80 in 2003 to account for telephone costs. There is no personal aspect to these two $80 amounts.
+(f) The Jetta cost $2,000, an amount that is depreciable; 5% of the use of the automobile was for business, while 95% of its use was personal.
+(g) For 2002, the rental income must be reduced by $584.
+(h) For 2002, the rental expenses must be increased by 66.66% of $34.68, the amount allowed for utilities.[22]
+(i) For 2003, the rental expenses must be increased by 66.66% of the following amounts: $25.10 (advertising), $122.47 (legal fees), $40.20 (utilities), $131.34 (automobile).
+Except for the changes that result from those that I have just listed, such as the adjustment of interest, there will be no other changes.
+Signed at Ottawa, Canada, this 21st day of November 2009.
+"Gaston Jorré"
+Jorré J.
+Translation certified true
+on this 7th day of January 2010
+Margarita Gorbounova, Translator
+CITATION: 2009 TCC 598
+COURT FILE NOS: 2007-3914(IT)I, 2007-3916(IT)I
+STYLES OF CAUSE: DANIELLE COUTURE v. HER MAJESTY THE QUEEN, MARIO GRONDIN v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Montréal, Quebec
+DATES OF HEARING: June 16 and 18, 2008.
+REASONS FOR JUDGMENT BY: The Honourable Justice Gaston Jorré
+DATE OF JUDGMENT: November 21, 2009
+APPEARANCES:
+Agent for the appellants:
+Mario Grondin
+Counsel for the respondent:
+Benoit Mandeville
+SOLICITORS OF RECORD:
+For the appellants:
+Name:
+Firm:
+For the respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] There is a very small difference between the amounts reported by the appellants in 2003. That difference has no impact on the final result.
+[2] In fact, the interest amount was much smaller. The interest amounts allowed by the Minister were $2,536 in 2002 and $1,537 in 2003; the appellants did not demonstrate that that conclusion was incorrect.
+[3] For Mr. Grondin, see Exhibit I‑7: the change is at line 126 of the returns for the 2002 and 2003 taxation years. For the Ms. Couture, see Exhibit I‑8, for 2002 and 2003.
+[4] Exhibit I-5.
+[5] There was some discussion concerning the burden of proof, in particular, in the additional written submissions made by the respondent in a letter dated June 17, 2008, and by the appellants in a letter dated July 7, 2008.
+Two comments are necessary. First, with respect to the most important disputed facts – the use of tools bought in 2002 and the appellants' intention regarding the two apartments that were unoccupied during the second half of 2003, among others – the evidence enabled me to make findings of fact without having to decide who had the burden of proof.
+Second, in Hillsdale Shopping Centre v. Canada, [1981] F.C.J. No. 544 (QL), the Federal Court of Appeal stated at paragraphs 22 and 23:
+22. If a taxpayer, after considering a reassessment made by the Minister, the Minister's reply to the taxpayer's objections, and the Minister's pleadings in the appeal, has not been made aware of the basis upon which he is sought to be taxed, the onus of proving the taxpayer's liability in a proceeding similar to this one would lie upon the Minister. This defect may be due to a number of reasons such as a lack of clarity on the part of the Minister in expounding the alleged basis of the taxability which could include an attempt by the Minister to attach liability on one of two or more alternative bases thus failing to make clear to the taxpayer the assumption upon which he relies.
+23 In all other cases the onus is on the taxpayer to disprove the Minister's allegation of liability on the assumptions propounded. In the instant case, throughout the whole proceedings the Appellant was made well aware that the Minister assessed part of the proceeds of the expropriation as profit from a business contrary to the allegation of the taxpayer so that this ground of attack is without merit.
+[Emphasis added.]
+The principle established in Hillsdale is that one must take into account the entire process of assessment and objection and the reply filed by the Minister to determine whether the taxpayer was informed of the basis of the assessment. In these cases, the Minister explained in detail the basis for the assessments in a letter dated March 22, 2006, and the enclosed documents.
+That said, more complete replies would have been preferable. While the replies provided the details of the changes, the reasons for the changes were described in very general terms, and it was impossible to link the reasons to the relevant changes. To name just one example, in paragraph 6(g)(iii) of the Replies, it is written that [Translation] "disbursements totaling $4,168 were considered as capital expenditures". Nothing in the Replies indicates which disallowed expenses were considered to be capital in nature. Were it not for the letter and documents sent to Ms Couture, found in Exhibit I-5, the burden of proof may have been reversed with respect to certain facts.
+More detailed Notices of Appeal would also have been helpful in clarifying the issues.
+[6] Given the drawing in Exhibit A-2, it is possible that the appellants had decided to double the size of some apartments, resulting in there being no more than four apartments in the two buildings originally intended to have six.
+[7] Because of the two building permits issued on November 25, 2002, and on December 3, 2002 (Exhibit A-8), it is noted that the plans to build new apartments still existed at that time.
+[8] The appellants claimed $10,213.39 in maintenance and repair expenses; the Minister allowed $2,029.12 (before splitting). If $2,029.12 and $7,874.63 are subtracted from $10,213.39, about $300 is left.
+[9] Exhibit I-5, 16th page (numbered 10) lower right-hand corner.
+[10] Exhibit A-1 is a photo of the two signs, but that photo does not prove much. The two signs seem to be attached to one base. Note that the words written at the bottom of the exhibit have not been admitted into evidence.
+[11] Mr. Grondin brought to my attention Exhibit A-19, namely, the advertisements that he placed for renting out the condominiums. However, those advertisements were placed in 2006, and they cannot be for the two apartments in question.
+[12] See Solnicka v. Canada, [1994] T.C.J. No. 750 (QL), paragraph 4.
+[13] Among the renovations in question is the installation of floating floors. The cost of materials exceeds $3,000, and the floating floors constitute an improvement. If I found differently, a question of whether that in itself is not a capital expense, which would be depreciable, rather than a current expense would arise.
+[14] Although this has no effect on the years at issue, I note that, in 2004, the appellants received a $1,000 reimbursement, which was part of the $2,974.04. See Exhibit A-21.
+[15] Namely, $1,712.57, found on the14th page of Exhibit I-5, minus an additional $700 and $274.37 on the next page.
+[16] Exhibit I-5, 15th page.
+[17] Like the $2,947.04 discussed at paragraphs 37 and 39.
+[18] The appellant claimed automobile expenses in 2002 and 2003 for his agricultural business. In 2003, the amount was $3,093.79. The Minister did not modify the net agricultural income reported by Mr. Grondin. (See Exhibit I‑7, pages concerning 2002 and 2003)
+[19] In addition to some of the evidence mentioned, there are a number of more general things that cause me to not always accept the appellants' evidence. I can accept that some mistakes are made such as claiming a deduction for a beach ball. A small number of errors can be made inadvertently; however, in these cases, not only are there errors, but also minimal efforts seem to have been made to ensure that the income tax returns were accurate, clear and precise. For example, it is difficult to understand how expenses for building permits, land surveyors and legal fees could be categorized under "interest" at line 212 of form TP-128 "Income and Expenses Respecting the Rental of Immovable Property" for 2002 in respect of 572 Valois Street (Exhibit I-3).
+In cross-examination, questions were asked concerning the price of the Jetta and the reason why the SAAQ receipt states [Translation] "sale: $2,000" if the cost of the vehicle was over $7,000. Among Mr. Grondin's answers was [Translation] "At the SAAQ, everyone tries to save on taxes". See transcript from June 18, 2008, page 16.
+[20] Mr. Grondin made a summary of rent for all the apartments in 2002 and filed it as Exhibit A-12.
+[21] Subject to the limitations in subsection 1100(11) of the Income Tax Regulations.
+[22] In doing the calculations, it is noted that the amounts of $50.98 for advertising, $1,014.56 for maintenance and repairs, $161.95 for office costs and $85.58 for the automobiles were not reduced by 66.66%, because otherwise the personal portion of the $2,202.41 for the apartment at 574 Valois Street would be increased by 66.66% of the $4,617.02 that was allowed. See Exhibit I-5, 4th page.

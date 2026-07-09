@@ -1,0 +1,168 @@
+---
+title: "Empire Paving Limited v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28710/index.do"
+last_modified: "2008-06-12"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 TCC 355"
+citation2: ""
+neutral_citation: "2008 TCC 355"
+decision_date: "2008-06-12"
+language: "en"
+item_id: "28710"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1449
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T00:06:54.750000+00:00"
+cases_cited_count: 3
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "d2c348bbad759b46f347f71e8fd60685598b5d8336daa0f1748f127ef8d2c82e"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Empire Paving Limited v. The Queen
+
+- Citation: 2008 TCC 355
+- Decision date: 2008-06-12
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1449, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Empire Paving Limited v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-06-12
+Neutral citation
+2008 TCC 355
+File numbers
+2006-1296(IT)G
+Judges and Taxing Officers
+Judith Woods
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2006-1296(IT)G
+BETWEEN:
+EMPIRE PAVING LIMITED,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on February 25, 2008 at Toronto, Ontario
+By: The Honourable Justice Judith Woods
+Appearances:
+Counsel for the Appellant:
+Douglas D. Langley
+Counsel for the Respondent:
+Margaret J. Nott
+____________________________________________________________________
+JUDGMENT
+The appeal with respect to an assessment made under the Income Tax Act for the 2003 taxation year is allowed, with costs, and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the deduction claimed in the income tax return for losses on securities’ transactions should be permitted.
+Signed at Ottawa, Canada this 12th day of June 2008.
+“J. Woods”
+Woods J.
+Citation: 2008TCC355
+Date: 20080612
+Docket: 2006-1296(IT)G
+BETWEEN:
+EMPIRE PAVING LIMITED,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Woods J.
+[1] At issue in this case is whether the appellant, Empire Paving Limited, was correct in reporting a net loss from trades of publicly-traded shares as a business loss.
+[2] A business loss in the amount of $714,093 was deducted by the appellant in computing its income for the taxation year ended January 31, 2003. The Minister of National Revenue determined the loss to be a capital loss and reassessed to disallow the deduction claimed.
+[3] The general background is succinctly set out in the following paragraphs from the notice of appeal. Many of these facts are not in dispute.
+3. The Appellant is a corporation, incorporated in 1981 under the laws of the Province of Ontario, with a head office located at 50 Highmeadow Place, Weston Ontario M9L 2Z5.
+4. At all material times the Appellant carried on a paving, excavating, landscaping and construction business.
+5. The sole shareholder of the Appellant is Anthony Petrozza (“Petrozza”). He was born in 1952 in Italy, and immigrated to Canada at the age of 17 years old.
+6. Petrozza both supervises projects of the Appellant and runs the administration of the office.
+7. From 1995 to 2003 Petrozza used excess cash in the Appellant to buy and sell stock on its behalf.
+8. Petrozza made decisions on which securities to buy and sell by gaining expertise from observing others. He followed the market by watching business programs on TV. He would spend several hours every night watching these programs while he worked on activities in the paving business. He also watched them during the day from a TV that he had in his office. He studied the methodology and track record of analysts on these programs for several months before commencing to buy and sell himself. He read the Financial Post every day. He read articles written by knowledgeable people and analysts. He did not seek the advice of brokers.
+9. As well as observing analysts and their track record, Petrozza observed trends in the stock market. For example, a stock would gain $8 or $10 in a day and then lose $5 the next. But in a short time it would go up again by another $10. This ratcheting process was particularly true in the technology sector at that time. Petrozza realized that he could buy a stock, sell after a short time for a profit, wait for the price to decline, buy again and then sell at a new high. He began to invest using this strategy.
+10. Petrozza financed Empire’s stock market purchases and sales with a combination of accumulated cash in Empire and leverage. He bought mutual funds and other long term investments with cash accumulated in Empire. These investments were used to secure a margin account. The borrowed funds were used to buy the stocks. The funds were borrowed from the custodian, CIBC Wood Gundy. The interest rate was in the range of 1 ½% to 2% above prime. The custodian would lend a significant portion of the fair market value of the entire portfolio.
+11. Petrozza, as the guiding mind of Empire, caused Empire to adopt a pattern of borrowing, on average, 70% of the combined value of the long term investments and the stocks. The margin account was valued every day. The borrowed funds could remain outstanding so long as the value of the portfolio was stable. If the value of the portfolio went below a certain value as determined by stringent rules of the custodian, a margin call would be made. This margin call would have to be covered with a cheque or a sale of the portfolio.
+12. Petrozza understood that the stocks in which Empire invested were subject to constant fluctuation. So long as the market ratcheted up, he could continue to buy and sell without margin calls and could borrow more. Unfortunately the bubble in the stock market burst. Empire began getting margin calls. At first Petrozza arranged for them to be covered with cheques because he believed the stocks would rebound. However they did not. He then caused Empire to sell the long term investments, believing the stocks would rebound. They did not. As a result, the holding period for each stock increased while Petrozza waited for the expected rebound. Eventually when he could wait no longer for a rebound, Petrozza was obligated to have Empire sell the stocks in its taxation year ended January 31, 2003 for losses in order to eliminate the margin account.
+13. Empire filed its tax return for the taxation year ended January 31, 2003 and deducted the losses on the mutual funds and other long term investment stocks as capital losses and carried back some of the losses to prior years. The losses on the other stocks were treated as non-capital losses from a business and fully deducted.
+Analysis
+[4] Recently, in 1338664 Ontario Limited v. The Queen, 2008 TCC 350, I had occasion to consider a similar fact situation but one in which the taxpayer had trading gains and sought to have them categorized as on capital account. In that decision, the applicable legal principle was described as follows.
+[4] It is the position of the respondent that the appellant’s net gains derived from securities’ transactions are income from a business, and are required to be included in computing income under section 3 of the Income Tax Act.
+[5] In general terms, the test for determining whether securities’ transactions constitute a business is whether the taxpayer is engaged in a scheme for profit‑making or whether there is merely an enhancement of value: Irrigation Industries Ltd. v. M.N.R., 62 DTC 1131 (SCC); Hawa v. The Queen, 2006 TCC 612, 2007 DTC 28.
+[6] To the same effect, in Salt v. Chamberlain, 53 TC 143 the English Chancery Division suggested that for share transactions to constitute a trade, “something” must be provided by the trade to earn the income. At page 152:
+[…] The matter is usefully summarised in the speeches of Lord Wilberforce and Lord Simon of Glaisdale in Ransom v. Higgs 50 TC 1, at pages 88 and 95. Lord Wilberforce says this, at page 88:
+“ ‘Trade’ cannot be precisely defined, but certain characteristics can be identified which trade normally has. Equally some indicia can be found which prevent a profit from being regarded as the profit of a trade. Sometimes the question whether an activity is to be found to be a trade becomes a matter of degree, of frequency, of organisation, even of intention, and in such cases it is for the fact-finding body to decide on the evidence whether a line is passed.”
+He goes on to say:
+“Trade involves, normally, the exchange of goods or of services for reward – not of all services, since some qualify as a profession or employment or vocation, but there must be something which the trade offers to provide by way of business. […]
+[Emphasis added; footnotes omitted]
+[7] It is a matter of degree as to whether share trading activity has crossed the line from passive investing to being a business. The difficulty often lies in determining where the line should be drawn.
+[8] Counsel for the appellant, citing Canadian, United Kingdom and United States’ jurisprudence, suggests that securities’ transactions are generally presumed to be on capital account. This may be the law in the United Kingdom and the United States, but the matter has not yet been settled in Canada (Robertson v. The Queen, 98 DTC 6227 (FCA), at note 18). I would also note that the application of such a presumption in Canada could have very harsh consequences for a taxpayer, depending on the circumstances, because the tax relief for capital losses under the Income Tax Act is quite limited.
+[9] The application of some sort of presumption, though, can be helpful in promoting certainty where the legislation does not provide much guidance. In circumstances such as these, I think it is useful to bear in mind the principle which is often described as “the tie goes to the taxpayer.” This catchy phrase implies that the principle only applies where the facts are extremely close to the line, but Estey J.’s famous pronouncement from Johns‑Manville Canada Inc. v. The Queen, 85 DTC 5373 (SCC) suggests a wider application. His comment reads as follows, at page 5384:
+[…] Such a determination is, furthermore, consistent with another basic concept in tax law that where the taxing statute is not explicit, reasonable uncertainty or factual ambiguity resulting from lack of explicitness in the statute should be resolved in favour of the taxpayer.
+[5] In the present case, the respondent submits that the trading activity was similar to that of a passive investor and that it was not a business. According to the reply, the Minister assumed that the appellant had only 75 trades between 1996 and 2003, the average hold period was 275 days, and the investments were generally in blue-chip stocks.
+[6] Although these assumptions are accurate, they are quite misleading. The appellant’s stock market activity was considerably more active than these assumptions suggest.
+[7] I would describe Mr. Petrozza, the sole shareholder of Empire Paving Limited, as having been an avid amateur stock market enthusiast, with a considerable appetite for risk. I have used the past tense because Mr. Petrozza (and the appellant) abandoned the stock market after terrible losses were incurred. It appears that the appellant put at risk approximately $1,000,000 of its own funds, and most of the money, if not all, was lost.
+[8] The Minister assumed that the appellant had only 75 trades from 1996 to 2003. However, this totally ignores the fact that the trading activity was not actively pursued throughout the eight year period. It was only active for about four or five years, because there was a two year hiatus during which Mr. Petrozza liquidated the portfolio to use the funds for other purposes, and there was another period of inactivity prior to the final liquidation of the portfolio. Accordingly, the total number of trades over an eight year period that was assumed by the Minister does not adequately reflect the frequency of the trading.
+[9] Another problem with the assumptions is that the average hold period assumed, 275 days, misrepresents the appellant’s trading strategy. When the trading activity was being actively pursued, the hold periods were significantly shorter. For example, the average hold period for securities purchased in the 2000 taxation year was 72 days. It was only when the value of the securities plummeted did Mr. Petrozza choose to hold the securities for a much longer period. In effect he was simply hanging on for the ride, hoping for an upswing in the market which did not occur.
+[10] A further problem with the Minister’s assumptions is the description of the shares as blue-chip. In general the securities, which had a significant weighting in the technology sector, appear to be much more volatile than what the term “blue‑chip” usually signifies.
+[11] In my view, Mr. Petrozza was not a passive investor. His strategy was to be an active trader, with an aggressive approach using a significant amount of leverage and purchasing volatile shares for relatively short periods. The fact that the strategy failed miserably with the downturn in the technology sector does not change its essential character. It is the appellant’s intention at the time of acquisition of the securities that is the most relevant.
+[12] The question that remains is whether the activity has crossed over the line to a business. Has the appellant contributed something of a business-like nature to the trade?
+[13] From the perspective of persons who are experts in the stock market, the methodology employed by Mr. Petrozza was likely far from being sophisticated. This should not be the test, however. The question is whether Mr. Petrozza intended to employ a business-like approach, not whether the approach was sound.
+[14] In my view, the appellant did employ a business-like approach to the trading activity. The strategy was to be aggressive, with considerable amounts at risk, and it required constant attention.
+[15] Unless there are other factors that tip the scale in favour of capital treatment, I would have thought that this was a case where the appellant’s trading activity could properly be considered a business, within the approach suggested in Johns‑Manville.
+[16] As for other relevant factors, I would note that the appellant had mutual funds which were reported on capital account for all years, including the taxation year at issue.
+[17] This fact is not helpful to the appellant’s position, but it is not necessarily fatal. It is possible for a taxpayer to carry on two distinct activities, one investment and one trading, and I think the facts here are consistent with this.
+[18] According to Mr. Petrozza’s testimony, he generally selected securities on his own without his broker’s advice, but the broker recommended that some mutual funds be purchased. Mr. Petrozza testified that he thought the broker wanted him to hold some conservative investments as a protection for the margin account.
+[19] The trading summary that was entered into evidence supports this testimony, or at least it suggests that the mutual funds were not part of Mr. Petrozza’s general trading strategy. The mutual funds were purchased in a lump sum using the appellant’s own funds, and the margin account increased significantly after that.
+[20] If a taxpayer has two well-defined trading strategies, there is no reason why one part of the portfolio cannot be held on capital account and the other on income account. I am prepared to accept that this is appropriate here.
+[21] I have also taken into account the fact that the appellant did not obtain a tax benefit from the way it reported the mutual funds, as they had suffered losses as well.
+[22] I should also briefly mention that the appellant also reported shares of Trimark corporation as on capital account. I do not know why these shares were treated the same way as the mutual funds and I do not recall any reference to this at the hearing. The Trimark shares were an extremely small holding and I conclude that they do not affect the analysis one way or the other.
+[23] Finally, I wish to comment about an inconsistency in how these transactions were reported in the appellant’s income tax returns. The 2003 taxation year was the first year in which the appellant reported any share transactions on income account. Prior to that, they were all reported on capital account.
+[24] Courts have naturally been unsympathetic if taxpayers report securities’ gains and losses on an inconsistent basis when it is their advantage to do so. The circumstances here are not in that category, however, because the appellant suffered losses in most years.
+[25] In circumstances where a taxpayer has not benefited from reporting prior transactions on capital account, I see no reason why a fresh approach cannot be taken in a later year.
+[26] For all these reasons, I conclude that the reporting of the securities’ transactions by the appellant for the 2003 taxation year is appropriate.
+[27] The appeal will be allowed, with costs.
+Signed at Ottawa, Canada this 12th day of June 2008.
+“J. Woods”
+Woods J.
+CITATION: 2008TCC355
+COURT FILE NO.: 2006-1296(IT)G
+STYLE OF CAUSE: EMPIRE PAVING LIMITED AND
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: February 25, 2008
+REASONS FOR JUDGMENT BY: The Honourable Justice J. Woods
+DATE OF JUDGMENT: June 12, 2008
+APPEARANCES:
+Counsel for the Appellant:
+Douglas D. Langley
+Counsel for the Respondent:
+Margaret J. Nott
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Douglas D. Langley
+Firm: Wilson Vukelich LLP
+Markham, Ontario
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

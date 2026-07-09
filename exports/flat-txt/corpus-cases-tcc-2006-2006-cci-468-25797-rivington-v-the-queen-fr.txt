@@ -1,0 +1,156 @@
+Title: Rivington v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25797/index.do
+Corpus path: corpus/cases/tcc/2006/2006-cci-468-25797-rivington-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2006-09-25
+
+# Rivington v. The Queen
+
+- Citation: 2006 CCI 468
+- Decision date: 2006-09-25
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3807, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Rivington v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-09-25
+Référence neutre
+2006 CCI 468
+Numéro de dossier
+2005-2793(IT)I
+Juges et Officiers taxateurs
+Leslie M. Little
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2005-2793(IT)I
+ENTRE :
+ROBERT J. RIVINGTON,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 16 juin 2006, à Vancouver (Colombie-Britannique).
+Devant : L'honorable juge L.M. Little
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocate de l'intimée :
+Me Fiona Mendoza
+____________________________________________________________________
+JUGEMENT
+L'appel à l'encontre de la cotisation établie en vertu de la Loi de l'impôt sur le revenu pour l'année d'imposition 2003 est rejeté sans dépens, conformément aux motifs du jugement ci-joints.
+Signé à Vancouver (Colombie-Britannique) ce 25e jour de septembre 2006.
+« L.M. Little »
+Juge Little
+Traduction certifiée conforme
+ce 15e jour de mars 2007.
+Nathalie Boudreau, traductrice
+Référence : 2006CCI468
+Date : 20060925
+Dossier : 2005-2793(IT)I
+ENTRE :
+ROBERT J. RIVINGTON,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Little
+A. FAITS
+[1] L'appelant est pilote de l'aviation commerciale.
+[2] Pour parfaire ses connaissances en aviation commerciale, l'appelant a suivi un cours de formation donné par le Aeroservice Aviation Centre (ci-après appelé le « AAC » ) à l'automne 2003.
+[3] AAC est une institution de formation au pilotage située à Miami (Floride).
+[4] L'appelant a payé des frais de scolarité de 8 692,75 $ pour suivre le cours de formation donné au AAC.
+[5] L'appelant a fréquenté le AAC pendant environ huit semaines.
+[6] Lorsque l'appelant a produit sa déclaration de revenus pour l'année d'imposition 2003, il a déduit dans le calcul de son revenu les montants suivants :
+Frais de scolarité payés au AAC
+8 692,75 $
+Montant relatif aux études - 120 x 2 mois
+240 $
+8 932,75 $
+B. POINT EN LITIGE
+[7] Il s'agit de savoir si l'appelant peut demander la déduction de ses frais de scolarité et d'un montant relatif aux études à titre de crédit d'impôt non-remboursable pour les besoins du calcul de son revenu pour l'année d'imposition 2003.
+C. ANALYSE
+[8] Le paragraphe 118.5(1) de la Loi de l'impôt sur le revenu (la « Loi » ) est ainsi libellé :
+118.5(1) Les montants suivants sont déductibles dans le calcul de l'impôt payable par un particulier en vertu de la présente partie pour une année d'imposition :
+a) [établissement d'enseignement situé au Canada] - si le particulier est inscrit au cours de l'année à l'un des établissements d'enseignement suivants situés au Canada :
+(i) établissement d'enseignement - université, collège ou autre - offrant des cours de niveau postsecondaire,
+(ii) établissement d'enseignement reconnu par le ministre des Ressources humaines et du Développement des compétences comme offrant des cours - sauf les cours permettant d'obtenir des crédits universitaires - qui visent à donner ou à augmenter la compétence nécessaire à l'exercice d'une activité professionnelle,
+le produit de la multiplication du taux de base pour l'année par les frais de scolarité payés à l'établissement pour l'année si le total de ces frais dépasse 100 $, à l'exception des frais :
+(ii.1) soit qui sont payés à un établissement visé au sous-alinéa (i) pour des cours qui ne sont pas de niveau postsecondaire,
+(ii.2) soit qui sont payés à un établissement visé au sous-alinéa (ii) si, selon le cas :
+(A) le particulier n'avait pas atteint l'âge de 16 ans avant la fin de l'année,
+(B) il n'est pas raisonnable de considérer que le motif de l'inscription du particulier à l'établissement consistait à lui permettre d'acquérir ou d'améliorer la compétence nécessaire à l'exercice d'une activité professionnelle,
+(iii) soit qui ont été payés pour son compte par son employeur et ne sont pas inclus dans le calcul de son revenu,
+(iii.1) soit qui sont des frais au titre desquels le particulier a ou avait le droit de recevoir un remboursement ou une autre forme d'aide aux termes d'un programme de Sa Majesté du chef du Canada ou d'une province, destiné à faciliter l'entrée ou le retour de travailleurs sur le marché du travail, si le montant du remboursement ou de l'aide n'est pas inclus dans le calcul du revenu du particulier,
+(iv) soit qui font partie d'une allocation que son père ou sa mère a reçue pour son compte d'un employeur et ne sont pas inclus dans le calcul du revenu de son père ou de sa mère par application du sous-alinéa 6(1)b)(ix);
+(v) soit qui sont payés pour le compte du particulier, ou sont des frais pour lesquels il a ou avait droit à un remboursement, dans le cadre d'un programme de Sa Majesté du chef du Canada d'aide aux athlètes, à condition que le paiement ou le montant du remboursement ne soit pas inclus dans le calcul du revenu du particulier;
+b) [université située à l'étranger] - si, au cours de l'année, le particulier fréquente comme étudiant à plein temps une université située à l'étranger, où il suit des cours conduisant à un diplôme, le produit de la multiplication du taux de base pour l'année par le total des frais de scolarité payés à l'université pour l'année, à l'exception des frais qui ont été :
+(i) soit payés pour des cours d'une durée inférieure à 13 semaines consécutives,
+(ii) soit payés pour son compte par son employeur, dans la mesure où ils ne sont pas inclus dans le calcul de son revenu,
+(iii) soit payés pour son compte par l'employeur de son père ou de sa mère, dans la mesure où ces frais ne sont pas inclus dans le calcul du revenu de son père ou de sa mère par application du sous-alinéa 6(1)b)(ix); [...]
+[9] Nous devons également tenir compte de la définition de l'expression « établissement d'enseignement agréé » contenue au paragraphe 118.6(1), qui est libellée en ces termes :
+118.6 (1) Les définitions qui suivent s'appliquent aux articles 63 et 64 et à la présente sous-section.
+« établissement d'enseignement agréé » [...]
+(i) université, collège ou autre établissement d'enseignement agréé soit par le lieutenant-gouverneur en conseil d'une province au titre de la Loi fédérale sur les prêts aux étudiants, soit par une autorité compétente en application de la Loi fédérale sur l'aide financière aux étudiants, ou désigné par le ministre de l'Enseignement supérieur et de la Science de la province de Québec pour l'application de la Loi sur l'aide financière aux étudiants de cette province, [...]
+[10] Si nous axons notre analyse sur les termes contenus à l'alinéa 118.5(1)b), nous pouvons conclure qu'il doit être répondu aux critères suivants pour que l'appelant puisse avoir droit au crédit d'impôt :
+1. L'appelant doit avoir fréquenté une université située à l'étranger.
+Dans la décision Gillich v. The Queen, [2006] DTC 2251, ma collègue, la juge Lamarre, devait déterminer si l'appelante avait droit au crédit d'impôt pour frais de scolarité prévu à l'alinéa 118.5(1)b) de la Loi. La juge Lamarre a dit ce qui suit à la page 2252 :
+[traduction]
+[11] Finalement, le bulletin d'interprétation n º IT-516R2 énonce, au numéro 5, qu'un établissement situé dans un autre pays que le Canada est réputé être admissible en vertu de l'alinéa 118.5(1)b) s'il est reconnu par un organisme d'accréditation comme un établissement offrant des cours menant au moins à l'obtention d'un baccalauréat ou d'un diplôme de niveau équivalent.
+[12] En l'espèce, le grade d'associé conféré à la fille de l'appelant n'est pas un baccalauréat. Sur la foi de ce grade, on lui a accordé des crédits qui étaient équivalents à une année de son programme de baccalauréat à l'Université Carleton. Le grade d'associé qu'elle a reçu du Cottey College est un premier pas vers l'obtention d'un baccalauréat dans un autre établissement d'enseignement. Le Cottey College ne fait pas partie d'établissements d'enseignement de ce type.
+[13] Je conclus donc que le Cottey College n'est pas un établissement ayant le pouvoir de décerner des diplômes au sens donné à cette expression dans la jurisprudence. Il ne s'agit pas non plus d'une université selon la définition littérale du terme qu'on retrouve dans les dictionnaires. Le Cottey College n'est donc pas une université au sens de l'alinéa 118.5(1)b) de la Loi.
+[14] Pour ces motifs, l'appel est rejeté.
+Je souscris aux commentaires formulés par la juge Lamarre dans la décision ci-dessus et, à mon avis, le AAC n'est pas une université.
+2. Le cours suivi par l'appelant doit conduire à un diplôme.
+L'appelant a reçu un certificat du AAC, mais n'a pas reçu de diplôme (voir la pièce A-2).
+En l'espèce, le fait que l'appelant n'ait pas obtenu de diplôme signifie qu'il ne répond pas à ce critère.
+3. Les frais payés par l'appelant doivent se rapporter à un cours d'une durée d'au moins 13 semaines consécutives.
+En l'espèce, le cours qu'a suivi l'appelant au AAC n'a duré que huit semaines. L'appelant ne répond donc pas à ce critère.
+[11] Pour les motifs susmentionnés, je conclus que le AAC ne satisfait pas aux exigences contenues à l'alinéa 118.5(1)b) de la Loi. Il s'ensuit donc que l'appelant ne peut pas obtenir de crédit d'impôt pour l'année d'imposition 2003.
+[12] L'appel est rejeté sans dépens.
+Signé à Vancouver (Colombie-Britannique) ce 25e jour de septembre 2006.
+« L.M. Little »
+Juge Little
+Traduction certifiée conforme
+ce 15e jour de mars 2007.
+Nathalie Boudreau, traductrice
+RÉFÉRENCE :
+2006CCI468
+NO DU DOSSIER :
+2005-2793(IT)I
+INTITULÉ :
+Robert J. Rivington et
+Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+Vancouver (Colombie-Britannique)
+DATE DE L'AUDIENCE :
+Le 16 juin 2006
+MOTIFS DU JUGEMENT PAR :
+L'honorable juge L.M. Little
+DATE DU JUGEMENT :
+Le 25 septembre 2006
+COMPARUTIONS :
+Pour l'appelant :
+L'appelant lui-même
+Avocate de l'intimée :
+Me Fiona Mendoza
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelant :
+Nom :
+Cabinet :
+Pour l'intimée :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

@@ -1,0 +1,445 @@
+---
+title: "Fortin c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27229/index.do"
+last_modified: "2006-07-21"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 CCI 270"
+citation2: ""
+neutral_citation: "2006 CCI 270"
+decision_date: "2006-07-21"
+language: "fr"
+item_id: "27229"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 835
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T23:53:13.530000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "5b3079b1fa8bb1bbd32e365db264e15aa3dce4b44256781381d1838690fe5fb2"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Fortin c. La Reine
+
+- Citation: 2006 CCI 270
+- Decision date: 2006-07-21
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 835, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Fortin c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-07-21
+Référence neutre
+2006 CCI 270
+Numéro de dossier
+2003-3361(IT)G
+Juges et Officiers taxateurs
+Alain Tardif
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2003-3361(IT)G
+ENTRE :
+PATRICK FORTIN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+_____________________________________________________________
+Appel entendu sur preuve commune avec l'appel de 2960-0731 Québec inc. (2003-3362(IT)G), le 13 octobre 2005,
+à Nicolet (Québec)
+Devant : L'honorable juge Alain Tardif
+Comparutions :
+Avocat de l'appelant :
+Me François Daigle
+Avocate de l'intimée :
+Me Janie Payette
+_____________________________________________________________
+JUGEMENT
+L'appel des cotisations établies en vertu de la Loi de l'impôt sur le revenu pour les années d'imposition 1998, 1999 et 2000 est rejeté avec dépens en faveur de l'intimée, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 21e jour de juillet 2006.
+« Alain Tardif »
+Juge Tardif
+Dossier : 2003-3362(IT)G
+ENTRE :
+2960-0731 QUÉBEC INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+__________________________________________________________________
+Appel entendu sur preuve commune avec l'appel de Patrick Fortin (2003-3361(IT)G), le 13 octobre 2005,
+à Nicolet (Québec)
+Devant : L'honorable juge Alain Tardif
+Comparutions :
+Avocat de l'appelante :
+Me François Daigle
+Avocate de l'intimée :
+Me Janie Payette
+__________________________________________________________________
+JUGEMENT
+L'appel des cotisations établies en vertu de la Loi de l'impôt sur le revenu pour les années d'imposition 1997, 1998, 1999, 2000 et 2001 est rejeté avec dépens en faveur de l'intimée, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 21e jour de juillet 2006.
+« Alain Fortin »
+Juge Tardif
+Référence : 2006CCI270
+Date : 20060721
+Dossiers : 2003-3361(IT)G
+2003-3362(IT)G
+ENTRE :
+PATRICK FORTIN,
+2960-0731 QUÉBEC INC.,
+appelants,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Tardif
+[1] Dans le dossier 2960-0731 Québec inc., 2003-3362(IT)G, l'appel porte sur les années d'imposition 1997, 1998, 1999, 2000 et 2001. Quant au dossier de Patrick Fortin, 2003-3361(IT)G, l'appel porte sur les années d'imposition 1998, 1999 et 2000.
+[2] Tous les faits étant communs aux deux dossiers, les parties ont consenti à ce qu'il y ait une preuve commune pour les deux dossiers.
+[3] La société 2960-0731 Québec inc. (la « société » ) conteste les cotisations établies le 25 octobre 2002 par lesquelles le ministre du Revenu national (le « ministre » ) ajoutait à ses revenus déclarés des revenus non déclarés pour les années d'imposition 1999, 2000 et 2001, auxquels s'est ajoutée la pénalité prévue par le paragraphe 163(2) de la Loi de l'impôt sur le revenu (la « Loi » ).
+[4] De son côté, Patrick Fortin conteste les cotisations établies le 25 novembre 2002 par lesquelles le ministre a inclus des revenus additionnels à titre d'avantages conférés par la société, selon le paragraphe 15(1) de la Loi, ainsi que des montants à titre d'avantages relatifs à l'utilisation d'une automobile dans le calcul de son revenu pour les années d'imposition 1998, 1999 et 2000; les pénalités prévues au paragraphe 163(2) de la Loi furent en outre appliquées aux cotisations.
+[5] Pour établir les nouvelles cotisations, le ministre a tenu pour acquis les faits énumérés dans la Réponse à l'avis d'appel. Dans le dossier 2003-3362(IT)G, il s'agit des faits suivants :
+a) L'appelante oeuvre dans le domaine de la vente de véhicules usagés;
+b) au cours des années d'imposition en litige, Monsieur Patrick Fortin est le seul actionnaire de l'appelante;
+c) au cours des années d'imposition en litige, la seule source identifiable de revenus pour Patrick Fortin, provient de l'entreprise de l'appelante;
+d) en effectuant la vérification des affaires de l'appelante, la vérificatrice a constaté que le système comptable de l'appelante était peu fiable et plusieurs avances effectuées à l'appelante par Patrick Fortin ainsi que par des tiers n'ont pu être justifiées. De même, plusieurs écritures comptables n'ont pu être justifiés ni par M. Fortin, ni par le comptable de l'appelante;
+e) la vérificatrice a procédé à l'analyse des dépôts et des différentes transactions effectués aux comptes bancaires de l'appelante, de M. Patrick Fortin ainsi que de sa conjointe, Mme Manon Dufour pour les années en litige;
+f) Cette vérification, faite selon la méthode dite des opérations, a révélé que l'appelante a commis une erreur d'écriture durant l'année d'imposition 2001 et a omis de déclarer les revenus suivants durant les années d'imposition 1999, 2000 et 2001 :
+1999
+2000
+2001
+Revenu net déclaré :
+(18 975 $)
+6 219 $
+13 432 $
+Revenus non déclarés :
+15 147 $
+39 996 $
+89 250 $
+Achats refusés, erreur d'écriture :
+20 330 $
+Écart :
+15 147 $
+39 996 $
+109 580 $
+Revenu net révisé :
+(3 828 $)
+46 215 $
+123 012 $
+g) L'ajout d'un revenu non déclaré de 15 147 $ affecte la perte d'entreprise déclarée par l'appelante pour l'année d'imposition 1999 ainsi que le report de cette perte aux années d'imposition 1997 et 1998. Le Ministre a par conséquent révisé à la baisse le report pouvant être réclamé dans les années d'imposition 1997 et 1998 de la façon suivante :
+1997
+1998
+total
+Révision à la baisse du report de perte autre qu'une perte en capital
+10 301 $
+4 846 $
+15 147 $
+Année d'imposition se terminant le 28 février 1999 :
+h) Le montant de 15 147 $ que l'appelante a omis de déclarer dans son revenu pour l'année d'imposition se terminant le 28 février 1999 est composé d'un montant de 12 147 $ et d'un montant de 3 000 $:
+Montant de 12 147 $ :
+i) ce montant de 12 147 $ a été crédité au compte « avance de Manon Dufour » le ou vers le 31 décembre 1998;
+j) ni Manon Dufour, ni Patrick Fortin n'ont pu justifier la provenance de ce montant;
+k) ce montant ne provient pas des comptes bancaires de Manon Dufour;
+l) la seule source identifiable de revenus de Patrick Fortin provient de l'appelante;
+m) le ministre a par conséquent considéré ce montant de 12 147 $ comme étant un revenu non déclaré de l'appelante que Patrick Fortin s'est approprié et a crédité au compte « avance de Manon Dufour » .
+Montant de 3 000 $ :
+n) ce montant de 3 000 $ a été crédité au compte « avance d'un actionnaire » le 30 juin 1998;
+o) Patrick Fortin n'a pas justifié la provenance de ce montant;
+p) le ministre a par conséquent considéré ce montant de 3 000 $ comme un revenu non déclaré de l'appelante que Patrick Fortin s'est approprié et a crédité au compte « avance d'un actionnaire » .
+Année d'imposition se terminant le 29 février 2000 :
+q) Le montant de 39 996 $ que l'appelante a omis de déclarer dans son revenu pour l'année d'imposition se terminant le 29 février 2000 est composé d'un montant de 31 996 $ et d'un montant de 8 000 $;
+Montant de 31 996 $ :
+r) ce montant de 31 996 $ a été crédité au compte « avance de particuliers » (compte 1020) par l'écriture de régularisation # 14;
+s) la provenance de ce montant n'a pas été justifiée par Patrick Fortin ni par le comptable de l'appelante;
+t) le comptable de l'appelante a effectué cette écriture de régularisation puisque les dépôts ne balançaient pas à la fin de l'exercice et suite à l'explication de Patrick Fortin qu'il s'agissait d'avances de particuliers;
+u) l'analyse du compte « avances de particuliers » démontre que les particuliers ayant prêté des sommes d'argent à l'appelante y sont bien identifiés ainsi que les montants prêtés. Les écritures de ce compte sont généralement justifiées par des bordereaux de dépôts et des chèques de remboursements, contrairement à l'écriture de régularisation # 14;
+v) le ministre a par conséquent considéré ce montant de 31 996 $ comme un revenu non déclaré de l'appelante que Patrick Fortin s'est approprié et a crédité au compte « avance de particuliers » ;
+Montant de 8 000 $ :
+w) ce montant de 8 000 $ a été a crédité au compte « avance de Manon Dufour » le 6 mai 1999;
+x) ni Manon Dufour, ni Patrick Fortin n'ont pu justifier la provenance de ce montant;
+y) ce montant ne provient pas des comptes bancaires de Manon Dufour;
+z) la seule source identifiable de revenus de Patrick Fortin provient de l'entreprise de l'appelante;
+aa) le ministre a par conséquent considéré ce montant de 8 000 $ comme étant un revenu non déclaré de l'appelante que Patrick Fortin s'est approprié et a crédité au compte « avance de Manon Dufour » .
+Année d'imposition se terminant le 28 février 2001 :
+bb) Le montant de 89 250 $ que l'appelante a omis de déclarer dans son revenu pour l'année d'imposition se terminant le 28 février 2001 est composé d'un montant de 23 044 $ et d'un montant de 66 206 $;
+Montant de 23 044 $ :
+cc) ce montant de 23 044 $ a été crédité au compte « avance de particuliers » par l'écriture de régularisation # 2;
+dd) la provenance de ce montant n'a pas été justifiée par Patrick Fortin ni par le comptable de l'appelante;
+ee) le comptable de l'appelante a effectué cette écriture afin de balancer les livres;
+ff) le ministre a par conséquent considéré ce montant de 23 044 $ comme un revenu non déclaré de l'appelante que Patrick Fortin s'est approprié et a crédité au compte « avance de particuliers » ;
+Montant de 66 206 $ :
+gg) ce montant de 66 206 $ a été crédité au compte « avance de l'actionnaire » par l'écriture de régularisation # 1;
+hh) l'analyse des comptes bancaires de Patrick Fortin n'a pas permis de retracer la provenance de ce montant;
+ii) ni Patrick Fortin, ni le comptable n'ont pu justifier la provenance de ce montant;
+jj) Patrick Fortin a demandé au comptable d'effectuer cette écriture afin de balancer les livres sans lui fournir de documents à l'appui;
+kk) le ministre a par conséquent considéré ce montant comme un revenu non déclaré de l'appelante que Patrick Fortin s'est approprié et a crédité au compte « avance de l'actionnaire » .
+Erreur d'écriture au montant de 20 330 $ :
+ll) le ministre a diminué les achats d'un montant de 20 330 $ afin de tenir compte d'une erreur d'écriture au registre comptable de l'appelante;
+mm) Patrick Fortin a admis qu'il s'était glissé une erreur dans l'entrée des données et que le compte achat aurait dû être crédité de ce montant;
+nn) Patrick Fortin a ainsi accepté les changements effectués au compte achat.
+[6] En ce qui concerne l'affaire no 2003-3361(IT)G, les faits tenus pour acquis ont été les suivants :
+a) au cours des années d'imposition en litige, l'appelant est le seul actionnaire de la société 2960-0731 Québec Inc. ( « la société » );
+b) cette société oeuvre dans le domaine de la vente de véhicules usagés;
+c) au cours des années d'imposition en litige, la seule source identifiable de revenus pour l'appelant, provient de l'entreprise de la société;
+d) en effectuant la vérification des affaires de la société, la vérificatrice a constaté que le système comptable de la société était peu fiable et plusieurs avances effectuées à la société par l'appelant ainsi que par des tiers n'ont pu être justifiées. De même, plusieurs écritures comptables n'ont pu être justifiés ni par l'appelant, ni par le comptable de la société;
+e) la vérificatrice a procédé à l'analyse des dépôts et des différentes transactions effectués aux comptes bancaires de la société, de l'appelant ainsi que de sa conjointe, Mme Manon Dufour pour les années en litige;
+f) Cette vérification, faite selon la méthode dite des opérations, a révélé que l'appelant s'est approprié les fonds de la société et a omis de déclarer les avantages suivants durant ses années d'imposition 1998, 1999 et 2000 :
+1998
+1999
+2000
+Revenu total déclaré :
+0 $
+7 500 $
+12 000 $
+Plus : Appropriation de fonds :
+20 547 $
+27 163 $
+95 947 $
+Avantage auto :
+5 141 $
+5 141 $
+2 815 $
+écart
+25 688 $
+32 304 $
+98 762 $
+Revenu net révisé :
+25 688 $
+39 804 $
+110 762 $
+Année d'imposition 1998 : 25 688 $
+g) Le montant de 25 688 $ que l'appelant a omis de déclarer dans son revenu pour l'année d'imposition 1998 est composé des montants suivants :
+2 900 $
+2 500 $
+12 147 $
+3 000 $
+5 141 $
+Montants de 2 900 $ et de 2 500 $ :
+h) L'appelant prétend que ces montants de 2 900 $ et de 2 500 $ ont été remboursés à Messieurs Jean Daneau et Réjean Desjardins relativement à des sommes qu'ils avaient avancé à la société;
+i) Ces montants ont été débités au compte « avance de particuliers » de la société;
+j) Ces montants ont été versés par la société à l'appelant sous forme de chèques à son nom;
+k) ces deux chèques ont été encaissés par l'appelant;
+l) l'appelant n'a pas démontré que ces montants sont des remboursements d'avances effectuées par Messieurs Jean Daneau et Réjean Desjardins;
+m) le ministre a par conséquent considéré ces deux montants comme des appropriations de fonds par l'appelant et les a ajouté dans le calcul de son revenu;
+Montant de 12 147 $ :
+n) ce montant de 12 147 $ a été crédité au compte de la société « avance de Manon Dufour » le ou vers le 31 décembre 1998;
+o) ni Manon Dufour, ni l'appelant n'ont pu justifier la provenance de ce montant;
+p) ce montant ne provient pas des comptes bancaires de Manon Dufour;
+q) la seule source identifiable de revenus de l'appelant provient de la société;
+r) le ministre a par conséquent considéré ce montant de 12 147 $ comme étant un revenu non déclaré de la société que l'appelant s'est approprié et a crédité au compte « avance de Manon Dufour » . Ce montant a été inclus dans le calcul du revenu de l'appelant;
+Montant de 3 000 $ :
+s) ce montant de 3 000 $ a été crédité au compte de la société « avance d'un actionnaire » le 30 juin 1998;
+t) l'appelant n'a pas justifié la provenance de ce montant;
+u) le ministre a par conséquent considéré ce montant de 3 000 $ comme un revenu non déclaré de la société que l'appelant s'est approprié et a crédité au compte « avance d'un actionnaire » . Ce montant a été inclus dans le calcul du revenu de l'appelant;
+Avantage relatif à l'utilisation d'une automobile : 5 141 $
+v) durant l'année d'imposition 1998, la société a mis à la disposition de l'appelant une automobile de marque Chevrolet Blazer Tahoe 1997;
+w) la valeur de l'avantage à inclure dans le calcul du revenu de l'appelant relativement à cette automobile a été établie à 5 141 $;
+Année d'imposition 1999 : 32 304 $
+x) Le montant de 32 304 $ que l'appelant a omis de déclarer dans son revenu pour l'année d'imposition 1999 est composé des montants suivants :
+26 663 $
+8 000 $
+5 141 $
+Total :
+39 804 $
+y) le ministre a soustrait de ce total de 39 804 $, le montant de 7 500 $ déclaré par l'appelant comme revenu de commission dans sa déclaration de revenus pour l'année d'imposition 1999;
+Montant de 26 663 $ :
+z) un montant de 31 996 $ a été crédité au compte « avance de particuliers » (compte 1020) de la société par l'écriture de régularisation # 14;
+aa) la provenance de ce montant n'a pas été justifiée par l'appelant ni par le comptable de la société;
+bb) le comptable de la société a effectué cette écriture de régularisation puisque les dépôts ne balançaient pas à la fin de l'exercice et suite à l'explication de l'appelant qu'il s'agissait d'avances de particuliers;
+cc) l'analyse du compte « avance de particuliers » de la société démontre que les particuliers ayant prêté des sommes d'argent à la société y sont bien identifiés ainsi que les montants prêtés. Les écritures de ce compte sont généralement justifiées par des bordereaux de dépôts et des chèques de remboursements, contrairement à l'écriture de régularisation # 14;
+dd) le ministre a par conséquent considéré ce montant de 31 996 $ comme un revenu non déclaré de la société que l'appelant s'est approprié et a crédité au compte « avance de particuliers » ;
+ee) le montant de 31 996 $ est réparti entre les années d'imposition 1999 et 2000 de l'appelant au prorata du nombre de mois, soit 10 mois en 1999 et 2 mois en 2000 étant donné que l'exercice financier de la société se termine le 28 février de chaque année;
+ff) pour l'année 1999, le montant que le ministre a inclus dans le calcul du revenu de l'appelant comme appropriation de fonds est donc de 26 663 $ (10/12 x 31 996 $);
+Montant de 8 000 $ :
+gg) ce montant de 8 000 $ a été a crédité au compte « avance de Manon Dufour » de la société, le 6 mai 1999;
+hh) ni Manon Dufour, ni l'appelant n'ont pu justifier la provenance de ce montant;
+ii) ce montant ne provient pas des comptes bancaires de Manon Dufour;
+jj) la seule source identifiable de revenus de l'appelant provient de l'entreprise de la société;
+kk) le ministre a par conséquent considéré ce montant de 8 000 $ comme étant un revenu non déclaré de la société que l'appelant s'est approprié et a crédité au compte de la société « avance de Manon Dufour » . Ce montant a été inclus dans le calcul du revenu de l'appelant.
+Avantage relatif à l'utilisation d'une automobile : 5 141 $
+ll) durant l'année d'imposition 1999, la société a mis à la disposition de l'appelant une automobile de marque Chevrolet Blazer Tahoe 1997;
+mm) la valeur de l'avantage à inclure dans le calcul du revenu de l'appelant relativement à cette automobile a été établie à 5 141 $;
+Année d'imposition 2000 : 98 762 $
+nn) Le montant de 98 762 $ que l'appelant a omis de déclarer dans son revenu pour l'année d'imposition 2000 est composé des montants suivants :
+22 725 $
+5 514 $
+55 172 $
+19 203 $
+5 333 $
+2 815 $
+total
+110 762 $
+oo) le ministre a soustrait de ce total de 110 762 $, le montant de 12 000 $ déclaré par l'appelant comme revenu de commission dans sa déclaration de revenus pour l'année d'imposition 2000;
+montant de 22 725 $ :
+pp) Le compte « avances à l'actionnaire » de la société indique que ce montant de 22 725 $ a été attribué à l'appelant entre le 1er janvier et le 31 décembre 2000.
+qq) Durant cette même période, le compte « avance à l'actionnaire » a été crédité d'un montant de 20 330 $ alors que ce montant aurait du être crédité au compte « achats » de la société.
+rr) l'appelant a admis qu'il s'était glissé une erreur dans l'entrée des données et que le compte « achat » de la société aurait dû être crédité de ce montant;
+ss) En conséquence de ce changement, le compte « avance à l'actionnaire » de la société devient débiteur d'un montant de 22 725 $ et il s'agit d'un avantage que la société a conféré à l'appelant.
+Montant de 5 514 $ :
+tt) ce montant de 5 514 $ a été ajouté dans le calcul du revenu de l'appelant étant donné que l'écriture de régularisation # 15 de la société en date du 28 février 2001 indique qu'il s'agit d'un remboursement de taxe de la société, encaissé par l'appelant;
+Montant de 55 172 $ :
+uu) Un montant de 66 206 $ a été crédité au compte « avance de l'actionnaire » de la société par l'écriture de régularisation # 1;
+vv) l'analyse des comptes bancaires de l'appelant n'a pas permis de retracer la provenance de ce montant;
+ww) ni l'appelant, ni le comptable n'ont pu justifier la provenance de ce montant;
+xx) l'appelant a demandé au comptable d'effectuer cette écriture afin de balancer les livres de la société sans lui fournir de documents à l'appui;
+yy) le ministre a par conséquent considéré ce montant de 66 206 $ comme un revenu non déclaré de la société que l'appelant s'est approprié et a crédité au compte « avance de l'actionnaire » dans la société.
+zz) le montant de 66 206 $ est réparti entre les années d'imposition 2000 et 2001 de l'appelant au prorata du nombre de mois, soit 10 mois en 2000 étant donné que l'exercice financier de la société se termine le 28 février de chaque année;
+aaa) pour l'année 2000, le montant que le ministre a inclus dans le calcul du revenu de l'appelant comme appropriation de fonds est donc de 55 172 $ (10/12 X 66 206 $);
+Montant de 19 203 $ :
+bbb) Un montant de 23 044 $ a été crédité au compte « avance de particuliers » de la société par l'écriture de régularisation # 2;
+ccc) la provenance de ce montant n'a pas été justifiée par l'appelant ni par le comptable de la société;
+ddd) le comptable de la société a effectué cette écriture afin de balancer les livres;
+eee) le ministre a par conséquent considéré le montant de 23 044 $ comme un revenu non déclaré de la société que l'appelant s'est approprié et a crédité au compte « avance de particuliers » de la société;
+fff) le montant de 23 044 $ est réparti entre les années d'imposition 2000 et 2001 de l'appelant au prorata du nombre de mois, soit 10 mois en 2000 étant donné que l'exercice financier de la société se termine le 28 février de chaque année;
+ggg) pour l'année 2000, le montant que le ministre a inclus dans le calcul du revenu de l'appelant comme appropriation de fonds est donc de 19 203 $ (10/12 X 23 044 $);
+Montant de 5 333 $ :
+hhh) Ce montant de 5 333 $ est inclus dans le calcul du revenu de l'appelant durant l'année d'imposition 2000 étant donné qu'il s'agit du montant de 31 996 $ réparti entre les années d'imposition 1999 et 2000 de l'appelant au prorata du nombre de mois, soit 10 mois en 1999 et 2 mois en 2000 et dont il a été question aux paragraphes 13 z) à ff) de la présente réponse à l'avis d'appel;
+iii) pour l'année 2000, le montant que le ministre a rajouté aux revenus de l'appelant comme appropriation de fonds est de 5 333 $ (2/12 X 31 996 $);
+Avantage relatif à l'utilisation d'une automobile : 2 815 $
+jjj) durant l'année d'imposition 2000, la société a mis à la disposition de l'appelant une automobile de marque Chevrolet Blazer Tahoe 1999;
+kkk) la valeur de l'avantage à inclure dans le calcul du revenu de l'appelant relativement à cette automobile a été établie à 2 815 $.
+[7] Après avoir constaté que le système comptable de la société était totalement déficient, la vérificatrice a procédé par la méthode indirecte; elle a ainsi effectué l'analyse des dépôts et des différentes opérations effectuées au compte bancaire de la société, de Patrick Fortin et de sa conjointe. Les fondements des cotisations proviennent donc de cette analyse et des inscriptions apparaissant aux divers registres bancaires.
+[8] Le ministre a fait état de nombreux dépôts importants non expliqués au compte bancaire de la société. De ce constat, il a conclu que cette dernière avait omis de déclarer des revenus substantiels et que monsieur Fortin s'était approprié les fonds de la société.
+[9] En d'autres termes, l'intimée prétend que d'importants revenus d'entreprise n'ont pas été déclarés par la société et que Patrick Fortin s'est approprié des revenus non déclarés.
+[10] Eu égard aux divers constats et à l'absence de données adéquates pour permettre une analyse, la vérificatrice a conclu qu'il y avait eu, dans les deux dossiers, une négligence grave et une insouciance téméraire justifiant l'application des pénalités prévues par l'alinéa 163(2) de la Loi.
+[11] De son côté, les deux appelants et leurs témoins, messieurs Daneau et Desjardins, ainsi que Manon Dufour, l'ex-conjointe de monsieur Fortin, ont fourni différentes explications pour justifier les divers dépôts et retraits. De façon très générale, les explications étaient assez vagues et imprécises; il s'agissait essentiellement d'explications circonstancielles.
+[12] La preuve a révélé que l'appelant et la société dont il était le seul actionnaire et administrateur faisaient l'achat et la vente de véhicules d'occasion.
+[13] Au cours des années d'imposition en litige, la seule source de revenus de monsieur Fortin était la société; en d'autres termes, il avait comme seule source de revenus les activités de la société dont la vocation était l'achat et la vente d'automobiles d'occasion.
+[14] Jean Daneau, travailleur autonome sans emploi, et Réjean Desjardins, vendeur, ont tous deux affirmé avoir fait diverses opérations avec l'appelant, la société ou les deux. Les deux témoins ont affirmé avoir fait des opérations commerciales comme prêteur, emprunteur ou investisseur dans la société, par le biais de prêts ou, à titre de partenaire ou d'associé, ou lors d'achat ou de vente d'automobiles, et ce, à plusieurs occasions.
+[15] Ni l'un ni l'autre n'a fait état d'opérations précises et détaillées. Ils se sont exprimés en termes généraux et n'ont fait référence à aucun document ou écrit susceptible de confirmer leurs témoignages très vagues. Ils se connaissaient depuis de nombreuses années, ils faisaient affaires dans le même domaine et s'échangeaient toutes sortes de services financiers.
+[16] L'ex-conjointe de l'appelant, Manon Dufour, a également témoigné. Elle a affirmé avoir été très impliquée dans les affaires de l'appelant, puisqu'elle lui avançait de l'argent et collaborait sans réserve; à une occasion, elle a notamment accepté d'agir comme prête-nom lors de l'achat d'un bateau. Elle a expliqué avoir reçu une somme importante d'une société d'assurances à la suite de la perte de son véhicule.
+[17] Elle a également affirmé qu'elle s'était occupée des déplacements de l'appelant pendant une certaine période, puisque le permis de conduire de celui-ci avait été suspendu.
+[18] Quant au témoignage de l'appelant, principale composante de la preuve, il a expliqué les circonstances qui l'avaient amené à faire l'acquisition du commerce d'achat et vente de voitures d'occasion et a expliqué plusieurs des difficultés auxquelles il avait été confronté dans le cours des affaires, soutenant qu'elles avaient toujours, de façon générale, été difficiles. Il a expliqué qu'il avait eu recours à la collaboration de messieurs Daneau et Desjardins et sa conjointe à l'époque.
+[19] D'abord, son stock de voitures a été confisqué; ensuite, son établissement a été le site de la commission d'un acte criminel.
+[20] N'ayant strictement rien à voir avec l'un ou l'autre de ces incidents, il a toutefois affirmé que ces faits peu banals avaient nui à ses affaires. D'ailleurs, je me suis demandé pourquoi il était à cet endroit au lieu de déménager, d'autant plus que ces incidents avaient, selon lui, beaucoup nui à ses affaires.
+[21] Se décrivant comme un néophyte en comptabilité, ajoutant que ces choses ne l'intéressaient d'ailleurs aucunement, il a dit qu'il s'en remettait à son comptable, qui avait agi pour lui durant toutes les périodes en litige.
+[22] À cet égard, la preuve a révélé que le comptable avait un mandat très limité, qui consistait essentiellement à faire les exercices de clôture; les activités quotidiennes et routinières étaient confiées à une dame n'ayant manifestement peu ou pas de compétences.
+[23] L'appelant a également expliqué avoir exagéré le nombre de voitures en stock de manière à ce que le portrait global de l'entreprise paraisse mieux. Il a aussi soumis des documents faux et mensongers à l'institution financière avec laquelle il faisait affaires, et ce, pour éviter le rappel de la marge de crédit. De façon générale, son témoignage a été ambigu et ne faisait référence à aucun fait précis documenté susceptible d'étayer certaines explications.
+[24] De son côté, la vérificatrice, Jannette Mercier, a fait un travail tout à fait impeccable. Elle a obtenu tous les documents disponibles, ce qui lui a permis de procéder à un travail sérieux et responsable. Elle a tenu compte des explications que lui ont soumises les intéressés et a vérifié les renseignements fournis pour en vérifier la cohérence et surtout la vraisemblance.
+[25] Ne pouvant obtenir tous les renseignements et informations fiables du comptable, étant donné que son travail de vérification se limitait à essayer de rendre cohérentes des données incomplètes, inadéquates et n'ayant aucune fiabilité, la vérificatrice a analysé tous les documents disponibles, notamment les plus fiables, à savoir les microfiches obtenues de la Caisse populaire.
+[26] À partir des fiches et des divers relevés bancaires de la conjointe de l'appelant, la vérificatrice a tenté de suivre le cours des activités et d'établir les divers liens de façon raisonnable. Les résultats obtenus ne coïncidaient pas avec les prétentions des appelants et ne permettaient donc pas de souscrire à la vraisemblance des explications fournies.
+[27] Il m'apparaît difficile, sinon impossible, de tirer quelque conclusion que ce soit des explications soumises par l'appelant et ses témoins.
+[28] Les cotisations visaient des opérations très précises qui auraient normalement pu ou dû être expliquées ou justifiées assez facilement, si l'appelant avait eu un système comptable élémentaire ou un minimum d'ordre dans la gestion de ses affaires.
+[29] Appelé à la rescousse, le comptable n'a pas été en mesure de clarifier ou d'expliquer quoi que ce soit. À plusieurs reprises, il a fait état de nombreuses défaillances et déficiences de la comptabilité, ajoutant qu'il ne pouvait à peu près jamais obtenir les renseignements, ce qui l'obligeait à faire constamment et régulièrement des écritures de régularisation dont les fondements étaient souvent arbitraires, en ce qu'il ne pouvait vérifier leur exactitude ou leur véracité auprès des personnes en cause.
+[30] Dès la première année pendant laquelle il a travaillé pour l'appelant, le comptable lui aurait fortement conseillé de remplacer la personne qui s'occupait de ses livres comptables, ce que l'appelant n'a jamais fait.
+[31] En réponse aux questions du tribunal, Claude Caron, le comptable, a affirmé qu'aujourd'hui il n'accepterait plus un tel mandat, et cela, pour aucune considération que ce soit, étant donné l'impossibilité de produire un travail d'une certaine qualité et acceptable en vertu des règles de l'art.
+[32] Ni le comptable, ni les deux témoins, ni l'appelant n'ont été en mesure de fournir des explications probables ou fiables. Ils ont mentionné certaines opérations, dont la vente d'un bateau et une indemnité d'assurance de 40 000 $, et ont mentionné de vagues explications soumises par des amis pour prétendre et soutenir que tout était transparent ou cohérent et correct.
+[33] En d'autres termes, l'appelant et ses témoins ont voulu, à partir de faits isolés et peu nombreux, utiliser certaines données incomplètes, mais définies quant à certains aspects, notamment la vente du bateau et l'indemnité d'assurance, pour prétendre que cela expliquait toutes les incohérences et tous les écarts de chiffres.
+[34] De son côté, Jannette Mercier, la vérificatrice, a analysé spécifiquement chacune des prétentions pour se rendre compte rapidement des nombreuses incohérences, de l'improbabilité évidente et des nombreuses invraisemblances.
+[35] D'ailleurs, la vérificatrice a noté avec raison l'impossibilité mathématique que l'appelant ait pu faire des avances régulièrement alors que ses revenus déclarés étaient tout à fait marginaux, voire même ridicules.
+[36] L'appelant a beaucoup insisté sur le fait que les affaires avaient toujours été très difficiles, puisqu'il avait été victime d'une publicité dévastatrice, notamment, à la suite d'une énorme perquisition de véhicules prétendument volés en 1995 à la suite de l'acquisition du commerce de vente d'automobiles en 1994, le vendeur étant une personne qui avait eu certains démêlés avec la justice.
+[37] N'ayant strictement rien à voir avec les reproches à l'origine des perquisitions, l'appelant a cependant gardé le même établissement et a continué de faire affaires avec son vendeur, c'est-à-dire l'ancien propriétaire.
+[38] Bien plus, il aurait fait affaires ensemble de façon fréquente, par exemple lors d'avances, de remises, d'emprunts, de remboursements, de co-propriété de véhicules, et ainsi de suite.
+[39] Si la situation avait été aussi néfaste pour ses affaires, il est difficile de comprendre pourquoi l'appelant a continué de faire affaires à cet endroit, d'autant plus qu'en matière commerciale, la perception constitue souvent un aspect fort important à la bonne marche d'une entreprise.
+[40] En 1999, au même endroit, il y a également eu une fusillade, ce qui, encore là, aurait entraîné une réputation discutable et très préjudiciable à la bonne marche du commerce.
+[41] Selon l'appelant, les affaires n'allaient pas très bien. Pour éviter de faire face au rappel de sa marge de crédit, il a affirmé qu'il falsifiait son stock pour être en mesure de soumettre des chiffres acceptables.
+[42] Se croyant plus ou moins solvable, il utilisait son amie comme prête-nom pour faire certaines opérations, notamment pour l'achat d'un bateau et d'une motoneige.
+[43] Afin d'obtenir du financement de la caisse populaire, il a soumis un faux bilan où il a exagéré considérablement la valeur de certains éléments d'actifs.
+[44] Il a affirmé avoir payé 18 000 $ pour l'acquisition d'un bateau alors que le véritable montant déboursé était 12 000 $. Lors d'un emprunt, il a établi la valeur à 16 000 $. Il ne se souvenait pas du nom du vendeur. Par contre, il se souvenait que la mention mensongère « avance » ne visait qu'à le soustraire de l'obligation de payer les taxes dues lors de la transaction.
+[45] Lorsque les questions devenaient pointues, l'appelant ne se rappelait plus, il disait ne rien comprendre aux chiffres, ajoutant que c'était du véritable chinois pour lui.
+[46] Il a également affirmé parler très peu avec le comptable, si ce n'est qu'il lui disait d'arranger les choses pour que cela paraisse bien.
+[47] Il a affirmé que ses états financiers faisaient état de stock tout à fait fictifs et généralement gonflés. Dans le cadre de ses activités, l'argent comptant occupait une place considérable, les entrées et sorties étaient souvent importantes et nombreuses, mais absolument nécessaires selon l'appelant.
+[48] Le régime fiscal repose sur le principe de l'autocotisation. La majorité des contribuables canadiens ont très peu de latitude quant à l'exactitude des revenus qu'ils doivent déclarer, puisqu'ils sont imposés à la source, si bien que les revenus dont ils bénéficient ont généralement déjà été soumis à l'impôt.
+[49] Par contre, d'autres contribuables, parmi lesquels figure l'appelant lors des années en litige, doivent avoir une comptabilité qui permet d'établir les revenus et les dépenses.
+[50] Une telle comptabilité doit être complète, claire et cohérente, afin de pouvoir expliquer les dépenses et les revenus. Une telle comptabilité est d'autant plus importante que les vérifications ou demandes d'information ont souvent lieu quelques années après les opérations en question.
+[51] Bien qu'il ne soit pas essentiel qu'une telle comptabilité soit absolument parfaite au point de constituer un véritable modèle de conformité aux règles de l'art, il est cependant nécessaire qu'elle permette de faire des constats vraisemblables et raisonnables, à défaut de quoi la preuve risque d'être extrêmement difficile à faire.
+[52] Toute cotisation est présumée exacte et ceux qui désirent en attaquer le bien-fondé assument le fardeau de la preuve, sauf dans quelques situations, notamment en matière de pénalité, où le fardeau de la preuve incombe à l'Agence des douanes et du revenu du Canada.
+[53] Une preuve indirecte ou circonstancielle n'a évidemment pas la fiabilité et la certitude d'une preuve directe; il est donc nécessaire, voire essentiel, que ses fondements incomplets ou partiels soient d'une très grande qualité et non pas des affirmations simplistes, vagues et générales faites par une personne qui n'hésite pas à soumettre des explications et des documents faux et mensongers pour s'éviter certains désagréments ou inconvénients.
+[54] Un tel fardeau de la preuve est exigeant; il requiert une preuve dont les fondements sont crédibles et raisonnables. Une telle preuve peut à la rigueur provenir d'explications essentiellement verbales, auquel cas il n'y a pas beaucoup d'espace pour la confusion ou les incohérences; de plus, la personne qui soumet une telle preuve doit avoir une très grande crédibilité, faute de quoi son témoignage risque d'avoir une portée limitée ou incomplète.
+[55] En outre, les explications doivent être claires, cohérentes et complètes; elles ne doivent pas être loufoques, confuses ou même invraisemblables ou déraisonnables.
+[56] Ces exigences n'ont rien d'exceptionnel et constituent essentiellement une mesure d'équité et de justice à l'endroit de l'ensemble des contribuables du pays.
+[57] Toute personne qui se moque des règles qu'une comptabilité élémentaire exige ou qui bafoue la discipline administrative s'expose par son comportement téméraire, négligeant et insouciant à ne pas être en mesure de relever le fardeau de la preuve qui repose sur lui et en conséquence de voir ses prétentions écartées.
+[58] Pour ce qui est de l'avantage conféré à l'actionnaire, il est important de prendre en considération les faits propres au dossier. Il est évident qu'il peut y avoir des explications ou des justifications qui commandent de ne pas traiter certaines inscriptions comme étant un avantage au sens du paragraphe 15(1) de la Loi.
+[59] Cela suppose cependant un contexte, des circonstances et des faits pertinents et précis validés idéalement par une preuve documentaire.
+[60] Lorsqu'une telle preuve n'existe pas et que les faits démontrent une incurie manifeste par les acteurs impliqués dans le traitement des données, accepter les représentations majoritairement verbales aurait pour effet de récompenser la négligence, l'insouciance et la témérité.
+[61] En l'espèce, l'appelant et la société dont il possédait la totalité des actions fonctionnaient à la bonne franquette, sans aucune rigueur administrative.
+[62] D'autre part, même si l'appelant avait réussi à démontrer que ses prétentions étaient raisonnables, il aurait fallu qu'il démontre par son comportement qu'il était crédible.
+[63] Or, le fait qu'il a reconnu avoir falsifié le stock dans le but de présenter un portrait plus avantageux, le fait qu'il a modifié les états financiers remis à l'établissement financier qui le finançait, le fait qu'il n'a pas tenu compte des directives du comptable quant à sa façon de faire sa comptabilité et le fait qu'il utilisait les services d'un comptable essentiellement dans le but de bien faire paraître les choses sont autant d'éléments qui incitent en cas de doute à conclure que l'appelant n'était pas crédible.
+[64] Avec un minimum de bonne volonté et une réelle intention de faire face à ses obligations fiscales, il aurait été simple et facile de présenter une comptabilité adéquate et cohérente permettant de répondre aux questions que soulève toute vérification fiscale.
+[65] Non seulement une telle comptabilité n'existait pas, l'appelant a poussé l'audace jusqu'à soutenir que son comptable était à l'origine de certains imbroglios ou erreurs et se replier derrière son travail pour prétendre que ses affaires étaient cohérentes et que tout avait été correctement justifié avec une force probante, eu égard à la compétence du comptable qu'il n'a pas fait témoigner.
+[66] Le comptable a effectivement témoigné à la demande de l'intimée. D'ailleurs, le tribunal ne fait pas la même lecture du témoignage du comptable et surtout ne partage absolument pas l'interprétation qu'en font les appelants. Quelques extraits du témoignage du comptable sont très révélateurs et démontrent clairement l'interprétation tout simplement inappropriée, voire abusive qui en est faite.
+Notes sténographies, aux pages 157 et 158 :
+[...] c'est-à-dire qu'il pourrait être reflété des sorties et des entrées d'argents qui viendraient . . . toute chose étant égale par ailleurs baisser tout ça?
+R. Oui.
+Q. O.K. Donc, si par exemple le 20 722 $ provenait de . . . Autrement dit, le 66 000 $ moins le 20 000 $, ça ce sont les opérations nettes dans ce compte-là?
+R. Hum, hum.
+Q. Donc, 40 000 $ de plus à la fin de l'année, c'est ça?
+R. Oui.
+Q. O.K., Parfait. Pouvez-vous me dire pour quelle raison vous aviez conseillé à monsieur Fortin de changer de comptable, de teneuse de livres comme on l'appelle?
+R. Ben, écoutez là, ce n'était pas compliqué, c'était tout croche. La première année que Patrick est venu à mon bureau, je lui avais suggéré de se trouver quelqu'un d'autre. Mais ça a duré quatre ans, cinq ans, je ne sais pas, je ne me souviens plus. Puis à un moment donné, c'est parce qu'il faut comprendre que plus le client fait ses choses comme il faut, moins ça lui coûte cher dans notre bureau.
+Alors à un moment donné quand on veut faire un avis au lecteur qui est supposé être un état financier qui coûte peut-être 1 000 $ puis que ça finit à 2 500 $ ou 3 000 $ parce qu'on essaie de retrouver tout ça puis de retracer tout ça, le client n'est pas content. Et puis c'est sûr qu'à un moment donné, qu'on ne peut pas sortir... Ça prend une finalité à quelque part. Alors on met du temps, on met du temps pour essayer de balancer tout ça. Puis la banque sui ne balance pas... La banque, c'est comme l'élément numéro 1 dans un dossier. Si le compte de banque ne balance pas, on a des sérieux problèmes après. Alors c'était pour ça. Puis je n'étais pas sûr que sa comptable comprenait ce qu'elle faisait.
+Q. O.K. Et la portion inventaire, est-ce que ça peut faire bouger? Si monsieur par exemple avait gonflé son inventaire, ça aurait pu faire bouger le compte « avance » ?
+R. Non, du tout.
+Q. Non?
+R. Non, parce que l'inventaire à ce moment-là, la contrepartie de l'inventaire s'en va dans les achats. On achète des autos puis je n'ai pas une sortie de fonds là. Quand même que je fais bouger les inventaires à peu près en changeant mon chiffre comme ça me tente, je n'ai pas de sorties ou d'entrées de fonds...
+Notes sténographies, à la page 86 :
+Q. Bon. Maintenant vous avez dit tantôt que le comptable pour les années d'imposition, là 99, 2000, 2001, entre autres, vous disait que ça ne balançait pas, vous avez dit ça tantôt?
+R. Ben, ça ne balançait jamais qu'il me disait. Il me reprochait souvent ça.
+Q. Qu'est-ce que ça veut dire ça ne balance pas?
+R. Ben, probablement à cause de mon inventaire qui était soufflé là.
+Q. Votre inventaire qui était soufflé?
+R. Oui. Il me demandait toujours une liste de mon inventaire. Puis je lui fournissais une liste puis je lui en mettais plus.
+Q. Vous en mettiez plus?
+R. Oui, pour avoir des bénéfices au bout de l'année.
+Q. Est-ce que votre comptable vous a déjà dit qu'il y avait énormément de dépôts dans la compagnie qui étaient non comptabilités?
+R. Non. Le seul reproche qu'il faisait c'était... celle qui faisait ma tenue de livres, [...]
+[67] L'appelant a soutenu que le comptable ne lui avait jamais parlé des reports importants, ni justifié ou expliqué quoi que ce soit, alors que le comptable a expressément affirmé que sa comptabilité était déficiente, qu'il avait dû souvent poser des questions et surtout fortement recommander qu'il change de personne responsable de sa comptabilité.
+· Les états financiers font état d'avances de tiers, sans aucun détail; ces tiers n'ont pas témoigné.
+· L'appelant fait état de la perte de son permis de conduire, mais ne fournit aucune preuve à cet égard malgré un engagement formel lors de l'interrogatoire préalable.
+· Il dit ne rien connaître de la comptabilité, mais affirme avoir lui-même gonflé les stocks pour que la comptabilité paraisse mieux.
+· Malgré la forte recommandation du comptable, très sévère sur la qualité du travail à partir duquel il doit faire les états financiers, l'appelant ne change strictement rien à ses habitudes.
+· Il a une facilité déconcertante à transmettre des informations fausses et mensongères.
+· Il a peu de scrupules à préparer et à soumettre des documents mensongers.
+· Il y a l'absence totale d'explication simple, claire et cohérente.
+[68] L'ensemble de ces éléments militent pour une seule conclusion, à savoir que la preuve circonstancielle soumise par les appelants n'est pas vraisemblable et doit être tout simplement écartée.
+[69] Quant aux pénalités, la preuve a révélé que l'appelant n'avait aucuns scrupules à falsifier certains documents; bien plus, il était prêt à tout pour arriver à ses fins. Beaucoup plus clairvoyant et avisé en matière de comptabilité qu'il a soutenu, l'appelant gérait ses affaires d'une manière qu'il était manifestement le seul à comprendre. Il utilisait des ressources externes tel un commis comptable et un véritable comptable dans le seul but de soumettre des documents comptables en apparence corrects et acceptables. Il s'agissait là d'un comportement tout à fait inacceptable équivalant à une faute lourde en ce qu'il se moquait complètement de ses obligations.
+[70] Pour ces raisons, les appels sont rejetés en ce que les cotisations et les pénalités sont confirmées comme étant tout à fait conformes aux dispositions de la Loi, le tout avec dépens en faveur de l'intimée.
+Signé à Ottawa, Canada, ce 21e jour de juillet 2006.
+« Alain Tardif »
+Juge Tardif
+RÉFÉRENCE : 2006CCI270
+N º s DES DOSSIERS DE LA COUR : 2003-3361(IT)G et 2003-3362((IT)G
+INTITULÉS DES CAUSES : PATRICK FORTIN ET LA REINE
+2960-0731 QUÉBEC INC. ET LA REINE
+LIEU DE L'AUDIENCE : Nicolet (Québec)
+DATES
+de l'audience le 13 octobre 2005
+des plaidoiries des appelants le 30 novembre 2005
+des argumentation écrite de l'intimée le 30 janvier 2006
+MOTIFS DES JUGEMENTS PAR : L'honorable juge Alain Tardif
+DATE DES JUGEMENTS : le 21 juillet 2006
+COMPARUTIONS :
+Avocat des appelants :
+Me François Daigle
+Avocate de l'intimée :
+Me Janie Payette
+AVOCAT INSCRIT AU DOSSIER :
+Pour les appelants:
+Nom : Me François Daigle M. Disc.
+Étude : Heenan Blaikie
+Ville : Trois-Rivières (Québec)
+Pour l'intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Ontario

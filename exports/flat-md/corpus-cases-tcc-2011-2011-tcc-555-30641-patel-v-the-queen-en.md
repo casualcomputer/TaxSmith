@@ -1,0 +1,146 @@
+---
+title: "Patel v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30641/index.do"
+last_modified: "2011-12-08"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2011 TCC 555"
+citation2: ""
+neutral_citation: "2011 TCC 555"
+decision_date: "2011-12-08"
+language: "en"
+item_id: "30641"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7166
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T02:47:36.466000+00:00"
+cases_cited_count: 2
+cases_citing_count: 6
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "b000bf59fd0ff6b1f99f5ff2fba5811d57c1af7501483fb0f332ade2708cdf2c"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Patel v. The Queen
+
+- Citation: 2011 TCC 555
+- Decision date: 2011-12-08
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7166, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Patel v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2011-12-08
+Neutral citation
+2011 TCC 555
+File numbers
+2008-3993(IT)I
+Judges and Taxing Officers
+Georgette Anne Sheridan
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2008-3993(IT)I
+BETWEEN:
+DARSHANABEN PATEL,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on October 26, 2011, at Toronto, Ontario
+Before: The Honourable Justice G. A. Sheridan
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Ernesto Caceres
+____________________________________________________________________
+JUDGMENT
+In accordance with the attached Reasons for Judgment, the appeals from the reassessments under the Income Tax Act of the Appellant’s 2003, 2004, 2005 and 2006 taxation years are dismissed.
+Signed at Ottawa, Canada, this 8th day of December 2011.
+“G. A. Sheridan”
+Sheridan J.
+Citation: 2011TCC555
+Date: 20111208
+Docket: 2008-3993(IT)I
+BETWEEN:
+DARSHANABEN PATEL,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Sheridan J.
+[1] The Appellant, Darshanaben Patel, is appealing the reassessment of the Minister of National Revenue denying her claims for non-refundable tax credits for charitable donations of $2,960, $7,560, $5,350 and $7,081 in 2003, 2004, 2005 and 2006, respectively. Although these amounts were initially accepted as filed in each of the taxation years, they were subsequently disallowed following a Canada Revenue Agency investigation of the Appellant’s tax preparer, one Ambrose Danso-Dapaah operating under the name ADD Accounting. As it turned out, Danso-Dapaah was ultimately convicted[1] of, among other things, having sold charitable donation receipts to his clientele for 10% of the face value of the amount shown in the receipts.
+[2] The basis for the Minister’s reassessments was that the Appellant had not made a “gift” to the charities named in the receipts and did not have “official receipts” for the amounts claimed in the prescribed form as required by the Income Tax Act and Income Tax Regulations. The Minister assumed that rather than making a gift to the charities, the Appellant had merely purchased charitable donation receipts for 10% of the value shown therein.
+[3] The Appellant had the onus of proving wrong the Minister’s assumptions. In respect of the 2003 taxation year which was reassessed after the normal reassessment period, it was for the Minister to justify his reassessment under subsection 152(4) of the Act.
+[4] Called for the Minister was Barbara Lovie, an Investigator with the Canada Revenue Agency. Ms. Lovie was involved in the investigation of Danso-Dapaah and his related businesses. She presented her evidence in a thorough and careful manner and I accept without hesitation her analysis of the documents referred to during her testimony. Ms. Lovie explained that during the course of the investigation of Danso-Dapaah, his computer and paper records were seized including his clients’ income tax returns, “official” charitable donation receipts and clients’ invoices showing the face value of the donation receipts and the amount they had been billed for them. The Appellant’s files were among those seized.
+[5] The Appellant represented herself and was the only witness to testify on her behalf. She said she first met Danso-Dapaah in 2002 and began using his services the following year. Under his guidance, she made numerous cash payments to Danso-Dapaah throughout each taxation year to donate to charities he suggested, the CanAfrica International Foundation and/or the Harvest Family Church. While she had no receipts from Danso-Dapaah for these amounts, the Appellant put in evidence bank statements[2] showing cash withdrawals in each taxation year. She also produced a hand-written summary[3] (“Summary”) identifying which of these had been used for charitable donations.
+[6] Though initially the Appellant claimed to have also made in-kind donations of toys and clothes, she later said that at Danso-Dapaah’s suggestion, she had given him cash as he said he could purchase these items more cheaply in Africa. She admitted she had no receipts for these items. Given the inconsistency of the Appellant’s testimony, I find it highly unlikely she made any in-kind donations.
+[7] On cross-examination, counsel for the Respondent carefully reviewed with the Appellant the figures in the income tax returns found among Danso-Dapaah’s records. The Appellant confirmed that they accurately reflected the information she had provided to him; she noted, for example, certain Employment Insurance and federal child benefit payments she had received. She confirmed, as well, the accuracy of the information regarding the charitable donation amounts claimed in 2003[4], 2004[5] and 2005[6].
+[8] When confronted with invoices[7] seized from Danso-Dapaah which purported to show that the Appellant had been billed for an amount equal to 10% of the face value of the charitable donations reported in 2004 and 2005, her only response was a flat denial that she had done so. She declined to comment on the likelihood of all the information contained in her records being accurate except for the invoices.
+[9] Counsel for the Respondent also reviewed the income reported in the Appellant’s returns and asked her to estimate her average annual household expenses. This the Appellant did with efficiency and ease; in spite of having to work from memory, she had no difficulty reciting the amounts she usually paid for mortgage, utilities and so on. On the rare occasion when she had to refer to her bank statements, the Appellant was quickly able to identify, for example, her monthly condo fees and a $5,000 RRSP contribution made in 2003.
+[10] It was clear from her review of her income and expenses that, in each of the taxation years, the Appellant would have had little money left with which to make the sizeable donations claimed in her returns. She countered, however, with the assertion that she had received cash payments from her family and after 2005, her husband, to help out with her expenses. She added that in 2004 she had also received cash from a “friend” in repayment of a loan she had made at some unspecified earlier time. No witnesses were called to substantiate these claims. In respect of the loan, the Appellant had no documentary proof of either the loan or its repayment. Nor did she explain how she would have had the funds available to make the loan in the first place if, as she said, she was dependent on her family for financial assistance.
+[11] I regret to say that overall, I did not find the Appellant to be a credible witness. Her review of the returns, bank statements and records seized from Danso‑Dapaah showed her to have a keen mind and clear understanding of her financial dealings. Yet, when it came to explaining vital components of her donation history, she had nothing to say, other than to remind the Court that there was nothing illegal in dealing in cash. As for the charities involved, the Appellant made no pretence of having any particular enthusiasm for either the CanAfrica International Foundation or the Harvest Family Church yet insisted that, even in her limited circumstances, she had made relatively large donations over a four-year period to them. Although she had at least three bank accounts during the relevant period, rather than simply writing cheques to the charities to ensure she had proof of her donations, the Appellant claimed to have made unreceipted cash payments to Danso-Dapaah. The Appellant did not strike me as either gullible or trusting enough to have behaved so rashly. All in all, the Appellant failed to persuade me that she had made a “gift” to any charities in the taxation years under appeal.
+[12] The word “gift” is not defined in the legislation. The leading case on the meaning of “gift” is The Queen v. Friedberg, 92 DTC 6031, where Linden J.A., at page 6032, defined “gift” as:
+… [A] gift is a voluntary transfer of property owned by a donor to a donee, in return for which no benefit or consideration flows to the donor …
+[13] In Coombs et al v. The Queen, 2008 DTC 4004, Woods J. listed the requisite elements of this definition as follows:
+[15] … First, it is necessary that the gifted property be owned by the donor, second that the transfer to the charity be voluntary, third that no consideration flow to the donor in return for the gift, and fourth that the subject of the gift be property, which distinguishes it from providing services to the charity. These elements reflect the general notion that a taxpayer must have a donative intent in regards to the transfer of property to the charity. [Emphasis added.]
+[14] In Webb v. The Queen, 2004 TCC 619, [2004] T.C.J. No. 453 at paragraph 16, Bowie J. enlarged on the notion of “donative intent”:
+[16] Much has been written on the subject of charitable donations over the years. The law, however, is in my view quite clear. I am bound by the decision of the Federal Court of Appeal in The Queen v. Friedberg, among others. These cases make it clear that in order for an amount to be a gift to charity, the amount must be paid without benefit or consideration flowing back to the donor, either directly or indirectly, or anticipation of that. The intent of the donor must, in other words, be entirely donative.
+[15] Given her general lack of credibility, the Appellant’s bald assertion that she donated the amounts listed in the Summary is not sufficient to rebut the Minister’s assumption to the contrary. The Summary is nothing more than a list of some of the numerous cash withdrawals in the Appellant’s bank statements. A review of the bank statements reveals there is nothing to link the Summary withdrawals with the amounts she claimed to have donated through Danso-Dapaah’s office or indeed, to distinguish them from the other cash amounts withdrawn. For example, in the Summary, the Appellant lists a cash withdrawal for charitable donation purposes of $2,000 on March 10, 2004. However, in that same month, she made other cash withdrawals of $200 (March 2), $1,100 (March 3) and $40 (March 12). Similarly, the Summary shows a charitable donation withdrawal of $400 on April 29, 2005; other large withdrawals were made on April 18 ($300) and April 28 ($500). This pattern is repeated throughout the Summary and the bank statements. The Appellant offered no explanation as to how, without receipts or other records, she could identify from among the many cash withdrawals made those that were allegedly dedicated to charitable donations.
+[16] The Appellant pointed out to me that there was nothing illegal about making a donation in cash. This is quite true: paragraph 3501(1)(e) of the Regulations specifically contemplates that possibility. However, when a taxpayer chooses to deal only in cash, whether for charitable donations or any other matters likely to come under the scrutiny of the Minister of National Revenue, she imposes on herself the burden of having some means of verifying the otherwise untraceable transactions. The present case provides a perfect illustration of why the Act strictly regulates the conditions of eligibility for charitable donation deductions. As Tardif J. explained in Plante v. The Queen, [1999] T.C.J. No. 51:
+[46] The requirements in question are not frivolous or unimportant; on the contrary, the information required is fundamental, and absolutely necessary for checking both that the indicated value is accurate and that the gift was actually made.
+[47] The purpose of such requirements is to prevent abuses of any kind. They are the minimum requirements for defining the kind of gift that can qualify the taxpayer making it for a tax deduction.
+[17] In my view, the Appellant did not make any donations to the charities named in the receipts. She claimed to have made them in cash to justify her lack of any verifiable records. Knowing that she had done nothing more than to pay Danso‑Dapaah 10% of the face value of the false charitable donation receipts she had purchased from him and without any documents to substantiate her claims, she decided to bluff her way through the objection and judicial stage of her appeals on the off-chance someone might buy her story. While it is never good for a taxpayer to cheat on her taxes, it strikes me as even more reprehensible when she does so under the guise of being a charitable giver. Even worse, at the same time the Appellant was reaping the benefits of her false charitable donation claims, she was also happily pocketing Employment Insurance and other federal benefits financed by honest taxpayers. The Appellant not having rebutted the assumption that formed the basis of the Minister’s reassessment, there is no justification for interfering with it.
+[18] This leaves, then, only the question of whether the Minister was justified in reassessing the 2003 taxation year after the normal reassessment period. Subparagraph 152(4)(a)(i) of the Act requires that the Minister establish that a misrepresentation occurred in each year that was attributable to the taxpayer’s neglect, carelessness, wilful default or fraud. In view of the above findings and the Appellant’s admission that her returns were prepared by Danso-Dapaah in accordance with the information she provided to him, it is clear the Appellant knew that her 2003 return falsely reported a charitable donation amount. Accordingly, the Minister was justified in reassessing after the normal reassessment period.
+[19] The appeals of the 2003, 2004, 2005 and 2006 taxation years are dismissed.
+Signed at Ottawa, Canada, this 8th day of December 2011.
+“G. A. Sheridan”
+Sheridan J.
+CITATION: 2011TCC555
+COURT FILE NO.: 2008-3993(IT)I
+STYLE OF CAUSE: DARSHANABEN PATEL AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: October 26, 2011
+REASONS FOR JUDGMENT BY: The Honourable Justice G. A. Sheridan
+DATE OF JUDGMENT: December 8, 2011
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Ernesto Caceres
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Exhibit R-6.
+[2] Exhibit A-1.
+[3] Exhibit A-2.
+[4] Exhibits R-7 and R-8.
+[5] Exhibits R-9 and R-10.
+[6] Exhibits R-12 and R-13.
+[7] Exhibits R-11 and R-14

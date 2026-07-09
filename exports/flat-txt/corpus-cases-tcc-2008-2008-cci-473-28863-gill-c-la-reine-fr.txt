@@ -1,0 +1,200 @@
+Title: Gill c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28863/index.do
+Corpus path: corpus/cases/tcc/2008/2008-cci-473-28863-gill-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2008-09-01
+
+# Gill c. La Reine
+
+- Citation: 2008 CCI 473
+- Decision date: 2008-09-01
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1306, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Gill c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-09-01
+Référence neutre
+2008 CCI 473
+Numéro de dossier
+2007-1580(IT)G
+Juges et Officiers taxateurs
+Diane Campbell
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2007-1580(IT)G
+ENTRE :
+GREGORY S. GILL,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 9 juin 2008, à Whitehorse (Yukon).
+Devant : L’honorable juge Diane Campbell
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Me Bruce Senkpiel
+____________________________________________________________________
+JUGEMENT
+L’appel formé contre la cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2005 est rejeté, avec dépens, conformément aux motifs du jugement ci-joints.
+Signé à Charlottetown (Île-du-Prince-Édouard), ce 1er jour de septembre 2008.
+Juge Campbell
+Traduction certifiée conforme
+ce 20e jour d’octobre 2008.
+D. Laberge, LL.L.
+Référence : 2008 CCI 473
+Date : 20080901
+Dossier : 2007-1580(IT)G
+ENTRE :
+GREGORY S. GILL,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Campbell
+[1] En calculant son revenu pour l’année d’imposition 2005, l’appelant a déduit la somme de 100 000 $US à titre de pension alimentaire pour enfants, conformément à l’alinéa 60b) de la Loi de l’impôt sur le revenu (la « Loi »). Le ministre du Revenu national (le « ministre ») a refusé cette déduction. Il s’agit de savoir si l’appelant peut déduire de son revenu cette somme forfaitaire de 100 000 $US.
+[2] Les faits sont simples. L’appelant a admis toutes les hypothèses sur lesquelles s’est fondé le ministre dans sa réponse à l’avis d’appel. Ces hypothèses, énoncées au paragraphe 7 de la réponse, sont les suivantes :
+[traduction]
+a) les faits exposés et admis ci-dessus;
+b) l’appelant et Louann Gill (« Louann ») se sont mariés le 4 octobre 1975, à Johns Town, en Pennsylvanie;
+c) l’appelant et Louann ont quatre enfants :
+i) Joshua, né le 30 août 1976;
+ii) Rebecca, née le 7 avril 1979;
+iii) Louanna, née le 12 mai 1981;
+iv) Benjamin, né le 14 septembre 1983;
+d) l’appelant et Louann ont divorcé, conformément à l’ordonnance datée du 30 avril 1993;
+e) conformément à l’ordonnance, l’appelant était requis, notamment :
+i) de payer une pension alimentaire pour enfants de 826 $US par semaine, à raison de 25 p. 100 par enfant, jusqu’à ce que chacun des enfants ait atteint l’âge de 21 ans;
+ii) de payer, pour les enfants, 50 p. 100 de leurs soins médicaux non couverts par l’assurance, et cela jusqu’à ce que chacun des enfants ait atteint l’âge de 21 ans;
+iii) de payer les primes du maintien d’un régime d’assurance maladie, pour Louann et les enfants;
+f) à compter du 5 août 2005, conformément à ses obligations selon l’ordonnance du 30 avril 1993, l’appelant accusait un arriéré d’environ 370 000 $ au titre de la pension alimentaire pour enfants;
+g) dans l’accord conclu entre l’appelant et Louann, signé le 11 septembre 2005, les parties étaient convenues de ce qui suit :
+i) la pension alimentaire pour enfants, exigible pour chacun des enfants, dépassait 44 000 $ pour Joshua, 72 000 $ pour Rebecca, 94 000 $ pour Louanna et 119 000 $ pour Benjamin;
+ii) l’appelant devait aussi à Louann des arriérés de primes d’assurance maladie et des frais médicaux non remboursés;
+iii) l’appelant paierait à Louann la somme de 100 000 $US en règlement des arriérés de pension alimentaire pour enfants, des arriérés de primes d’assurance maladie et des frais médicaux non remboursés;
+iv) si l’appelant ne payait pas la somme de 100 000 $US et ne signait pas l’accord dans un délai de 30 jours, Louann aurait le droit d’obtenir un jugement pour le total des arriérés et des sommes en souffrance;
+v) l’accord ramenait à la somme de 100 000 $US les arriérés d’obligation alimentaire pour enfants;
+vi) sur paiement par l’appelant de la somme de 100 000 $US, l’appelant et Louann, l’un à l’égard de l’autre, cèdent, abandonnent, accordent, remettent, annulent et libèrent, pour toujours et à toutes fins, tous les droits, titres et intérêts dans toutes créances découlant des pensions alimentaires pour enfants, des primes d’assurance maladie et des dépenses médicales courantes, passées, actuelles ou futures, se rapportant aux quatre enfants;
+vii) l’accord modifiait à tous égards l’ordonnance pour ce qui concernait les arriérés;
+h) l’accord du 11 septembre 2005 modifiait l’ordonnance du 30 avril 1993;
+i) l’appelant a versé la somme forfaitaire conformément à l’accord du 11 septembre 2005, et non conformément à l’ordonnance du 30 avril 1993;
+j) l’appelant a versé la somme forfaitaire afin de se libérer de son obligation, prévue par l’ordonnance, au regard des arriérés de pension alimentaire, des arriérés de primes d’assurance maladie et des frais médicaux non remboursés;
+k) la somme forfaitaire a donc été payée en règlement de la somme due, réduisant ainsi sensiblement la somme que devait l’appelant par ailleurs;
+l) l’accord modifiait la pension alimentaire pour enfants qui était payable à Louann en vertu de l’ordonnance;
+m) selon l’accord, l’appelant n’était pas tenu de payer une pension périodique, mais de verser une somme forfaitaire unique.
+[3] Les deux documents juridiques pertinents sont les suivants :
+(1) un jugement de divorce de la Cour suprême de l’État de New York, daté du 30 avril 1993, portant dissolution du mariage de l’appelant et de Louann Gill (l’« ordonnance »);
+(2) un acte portant modification et règlement des arriérés de pension alimentaire pour enfants, signé le 11 septembre 2005 par l’appelant et Louann Gill (l’« accord »).
+[4] Les parties pertinentes de l’ordonnance de 1993 sont les suivantes :
+[traduction]
+IL EST ORDONNÉ au défendeur de payer à la demanderesse, la somme de HUIT CENT VINGT-SIX (826 $) DOLLARS par semaine, à raison de vingt-cinq pour cent (25 %) par enfant, jusqu’à ce qu’il atteigne la majorité; cette somme sera payée à la MÈRE à son adresse actuelle ou à l’adresse future qu’elle pourrait avoir, et elle sera réduite de vingt-cinq pour cent (25 %) à mesure que les enfants atteindront successivement l’âge de la majorité;
+IL EST ORDONNÉ que a) la pension alimentaire pour l’ensemble des quatre enfants sera de HUIT CENT VINGT-SIX (826 $) DOLLARS par semaine, chacun des parents assumant la moitié des soins médicaux non couverts par l’assurance; […]
+[5] Les parties pertinentes de l’accord de 2005 sont les suivantes :
+[traduction]
+EU ÉGARD aux promesses, clauses et engagements ci-après, les parties sont convenues de ce qui suit :
+1. Ci-annexé comme PIÈCE A est la copie d’une lettre datée du 1er avril 2004, adressée à Shayne Fairman par Deb Hardie, agente d’exécution des pensions alimentaires, ministère de la Justice du Yukon. Cette lettre renferme une copie de l’historique des paiements communiqué par la Section de la perception des pensions alimentaires du comté de Rockland. Le document indique, sur le rapport établi le 5 août 2004, une obligation alimentaire pour enfants encore impayée d’environ 374 291,84 $.
+2. Ci-annexé comme PIÈCE B est un état de compte du Programme de l’exécution des pensions alimentaires du Yukon, portant la date du 5 août 2004, intitulé Gill, Louann c. Gill, Gregory, dossier n° 1336, qui montrait que le défendeur devait une somme d’environ 369 618,52 $.
+3. D’après les estimations de la partie, une pension alimentaire dépassant 44 000 $ serait exigible pour Joshua Gill, une pension alimentaire dépassant 72 000 $ serait exigible pour Rebecca Gill, une pension alimentaire dépassant 94 000 $ serait exigible pour Louanna Gill et une pension alimentaire dépassant 119 000 $ serait exigible pour Benjamin Gill.
+4. Les parties ont admis que l’intérêt sur un jugement rendu dans l’État de New York court au taux de neuf (9 %) pour cent l’an.
+5. Les sommes dues par GREGORY GILL à LOUANN GILL comportent aussi des arriérés de primes d’assurance maladie et des frais médicaux non remboursés.
+6. Les sommes précédemment mentionnées qui sont exigibles au titre des pensions alimentaires, des primes d’assurance maladie et des frais médicaux non remboursés seront réputées intégralement payées quand les deux conditions suivantes seront remplies : a) la signature, par toutes les parties, de quatre (4) ententes en double original pleinement valides, et b) le paiement à Louann Gill, par chèque bancaire, de la somme de 100 000 $US, sous réserve de recouvrement; ces ententes seront confiées à un tiers et ne seront livrées que lorsque la somme aura été recouvrée.
+[…]
+9. Les parties reconnaissent que, compte tenu de tous les faits et de toutes les circonstances, notamment les facteurs énumérés dans la section 236, partie B, et la section 240 de la Domestic Relations Law de l’État de New York, et compte tenu des autres modalités et dispositions du présent accord, il est juste et équitable de modifier les obligations alimentaires précédemment mentionnées pour enfants et de les ramener à la somme actuelle de 100 000 $US.
+…
+12. Les parties reconnaissent que, sur prompt paiement et recouvrement, conformément au présent accord, de la somme susmentionnée de 100 000 $US payable à Louann Gill, alors, dix (10) jours ouvrables plus tard, chacune des parties abandonnera, annulera, accordera, remettra, libèrera et délaissera en faveur de l’autre, à jamais et à toutes fins, l’ensemble des droits, titres et intérêts sur toutes créances quelles qu’elles soient, découlant d’une loi actuelle ou future, ou d’une décision actuelle ou future d’un tribunal de l’État de New York, au titre des pensions alimentaires pour enfants, des primes d’assurance maladie et des dépenses médicales courantes, passées, actuelles ou futures, se rapportant aux quatre (4) enfants précédemment mentionnés, à savoir Joshua Gill, Rebecca Gill, Louanna Gill et Benjamin Gill.
+13. Les parties reconnaissent que le présent accord modifiera à tous égards tout jugement de divorce portant sur les arriérés et continuera de lier les parties.
+[…]
+[6] Conformément aux modalités de l’accord de 2005, l’appelant a remis, le 29 août 2005, une traite bancaire de 100 000 $US à son avocat à Whitehorse, pour dépôt dans le compte en fiducie d’un avocat de New York, jusqu’à signature de l’accord par Louann Gill. Le 11 septembre 2005, Mme Gill a signé l’accord.
+[7] Selon l’appelant, la somme de 100 000 $US a été payée en règlement des arriérés de pension alimentaire qui étaient dus en vertu de l’ordonnance de 1993, et cette somme a donc été payée conformément à cette ordonnance. L’appelant prétend que la somme de 100 000 $US est un paiement de pension alimentaire qui serait déductible de son revenu pour l’année d’imposition 2005.
+[8] L’intimée a invoqué deux moyens. Le premier était que le paiement de 100 000 $US était un « paiement forfaitaire », destiné à régler des arriérés, fait conformément à l’accord de 2005 et non conformément à l’ordonnance de 1993. Puisque la somme n’était pas payable « à titre d’allocation périodique », il ne s’agissait pas d’une pension alimentaire au sens du paragraphe 56.1(4), aux fins de la déduction autorisée en vertu de l’alinéa 60b) de la Loi. Subsidiairement, l’intimée a fait valoir que, si la somme de 100 000 $US est une pension alimentaire, alors, puisque l’accord de 2005 modifiait les termes de l’ordonnance de 1993, l’accord établissait une « date d’exécution » selon le paragraphe 56.1(4) de la Loi. L’appelant n’a donc pas le droit de déduire le paiement selon l’alinéa 60b) de la Loi.
+Analyse
+[9] À la suite de l’arrêt de la Cour suprême du Canada, Thibaudeau c. Canada, [1995] A.C.S. n° 42, des modifications ont été apportées à la loi en 1997. Avant ces modifications, les sommes payées par un parent à l’autre, en vertu d’une ordonnance judiciaire ou d’une entente écrite, après leur séparation ou leur divorce, pour subvenir aux besoins des enfants, étaient, en vertu de l’alinéa 60b) et de l’alinéa 56(1)b) de la Loi, déductibles par le payeur et imposables entre les mains du bénéficiaire. C’est ce que l’on appelle le régime antérieur, celui qui avait cours avant mai 1997. Le traitement fiscal de ces sommes s’est poursuivi après les modifications législatives, dans la mesure où l’ordonnance ou l’entente antérieure à mai 1997 demeurait inchangée.
+[10] Après les modifications de 1997, si une entente ou ordonnance existante a été modifiée après avril 1997 par changement de la pension alimentaire payable au bénéficiaire, alors une nouvelle date d’exécution sera établie comme date à laquelle le premier versement de la « pension alimentaire pour enfants » modifiée est fait au bénéficiaire. Les versements faits avant la nouvelle date d’exécution seront déductibles pour le payeur et imposables pour le bénéficiaire respectivement, alors que les versements faits après la nouvelle date d’exécution ne le seront pas.
+[11] Les expressions « pension alimentaire pour enfant », « date d’exécution » et « pension alimentaire » sont définies au paragraphe 56.1(4) :
+Les définitions qui suivent s’appliquent au présent article et à l’article 56.
+« date d’exécution » Quant à un accord ou une ordonnance :
+a) si l’accord ou l’ordonnance est établi après avril 1997, la date de son établissement;
+b) si l’accord ou l’ordonnance est établi avant mai 1997, le premier en date des jours suivants, postérieur à avril 1997 :
+(i) le jour précisé par le payeur et le bénéficiaire aux termes de l’accord ou de l’ordonnance dans un choix conjoint présenté au ministre sur le formulaire et selon les modalités prescrits,
+(ii) si l’accord ou l’ordonnance fait l’objet d’une modification après avril 1997 touchant le montant de la pension alimentaire pour enfants qui est payable au bénéficiaire, le jour où le montant modifié est à verser pour la première fois,
+(iii) si un accord ou une ordonnance subséquent est établi après avril 1997 et a pour effet de changer le total des montants de pension alimentaire pour enfants qui sont payables au bénéficiaire par le payeur, la date d’exécution du premier semblable accord ou de la première semblable ordonnance,
+(iv) le jour précisé dans l’accord ou l’ordonnance, ou dans toute modification s’y rapportant, pour l’application de la présente loi.
+« pension alimentaire » Montant payable ou à recevoir à titre d’allocation périodique pour subvenir aux besoins du bénéficiaire, d’enfants de celui-ci ou à la fois du bénéficiaire et de ces enfants, si le bénéficiaire peut utiliser le montant à sa discrétion et, selon le cas :
+a) le bénéficiaire est l’époux ou le conjoint de fait ou l’ex-époux ou l’ancien conjoint de fait du payeur et vit séparé de celui-ci pour cause d’échec de leur mariage ou union de fait et le montant est à recevoir aux termes de l’ordonnance d’un tribunal compétent ou d’un accord écrit;
+b) le payeur est légalement le père ou la mère d’un enfant du bénéficiaire et le montant est à recevoir aux termes de l’ordonnance d’un tribunal compétent rendue en conformité avec les lois d’une province.
+« pension alimentaire pour enfants » Pension alimentaire qui, d’après l’accord ou l’ordonnance aux termes duquel elle est à recevoir, n’est pas destinée uniquement à subvenir aux besoins d’un bénéficiaire qui est soit l’époux ou le conjoint de fait ou l’ex-époux ou l’ancien conjoint de fait du payeur, soit le parent, père ou mère, d’un enfant dont le payeur est légalement l’autre parent.
+[12] L’alinéa 60b) prévoit ce qui suit :
+60b) le total des montants représentant chacun le résultat du calcul suivant :
+A - (B + C)
+où :
+A représente le total des montants représentant chacun une pension alimentaire que le contribuable a payée après 1996 et avant la fin de l’année à une personne donnée dont il vivait séparé au moment du paiement,
+B le total des montants représentant chacun une pension alimentaire pour enfants qui est devenue payable par le contribuable à la personne donnée aux termes d’un accord ou d’une ordonnance à la date d’exécution ou postérieurement et avant la fin de l’année relativement à une période ayant commencé à cette date ou postérieurement,
+C le total des montants représentant chacun une pension alimentaire que le contribuable a payée à la personne donnée après 1996 et qui est déductible dans le calcul de son revenu pour une année d’imposition antérieure;
+[13] À l’appui de son premier argument, celui selon lequel la somme de 100 000 $US n’était pas une pension alimentaire payable à titre d’allocation périodique, l’intimée s’est fondée sur plusieurs précédents, à commencer par un arrêt de la Cour suprême du Canada, M.R.N. v. Armstrong, 56 DTC 1044. À la page 1045, le juge Kellock, concluant qu’une somme payée en règlement complet de pensions alimentaires futures n’était pas visée par l’alinéa 60b), écrivait que cette somme [traduction] « […] n’était pas une somme payée “conformément au” ou “pursuant to” (dans la version anglaise) jugement définitif, mais plutôt une somme payée pour être libéré de l’obligation imposée par ce jugement définitif ». À la page 1045 de cet arrêt, le critère suivant était énoncé :
+[traduction] Le critère consiste à savoir si elle a été versée conformément à un décret, une ordonnance ou un jugement, et non pas si elle a été versée en raison d’une obligation juridique imposée ou assumée. Il n’existe, en vertu du jugement, aucune obligation pour l’intimé de verser une somme globale au lieu des mensualités prévues au jugement.
+[14] L’intimée s’est également fondée sur un arrêt de la Cour d’appel fédérale, La Reine v. Sills, 85 DTC 5096, rendu avant les modifications législatives de 1997. Je crois que l’arrêt Sills est conforme au droit, mais qu’il est inapplicable ici. La Cour d’appel fédérale y écrivait que si un contribuable fait une série de paiements forfaitaires, bien que par sommes irrégulières, lui permettant ainsi de réduire ses arriérés, alors la somme payée sera déductible parce que sa nature et son caractère sont restés les mêmes. Cependant, je crois que si le contribuable paie une somme qui est inférieure au montant des arriérés, mais qui réglera sa dette au regard de tels arriérés, alors la somme payée n’est pas déductible car la nature du paiement s’est modifiée. Dans le présent appel, l’appelant a payé la somme de 100 000 $US au lieu des 370 000 $ qu’il devait. Il s’agissait là d’une modification des arriérés initiaux et, selon l’accord de 2005 et la preuve produite, cette somme était payée en règlement des arriérés totaux et dégageait l’appelant de toute responsabilité additionnelle au regard de tels arriérés. Je souscris à la manière dont le juge Mogan analysait l’arrêt Sills dans la décision Widmer c. Canada, [1995] A.C.I. n° 1115. Le juge Mogan faisait une distinction entre l’espèce Sills et les faits qui lui étaient soumis. Il écrivait ce qui suit, au paragraphe 17 de la décision Widmer :
+D’après ce que je crois comprendre du jugement Sills, aucun des paiements d’un millier de dollars n’était un paiement forfaitaire; chacun avait plutôt la nature d’un paiement de rattrapage. De plus, comme l’avocat de l’intimée l’a déclaré dans son argumentation, il n’y avait pas de seconde ordonnance de tribunal dans l’affaire Sills, contrairement à ce qu’il en était en l’espèce.
+Il y a similitude entre l’espèce Widmer et les faits dont il s’agit ici. Au paragraphe 15 de la décision Widmer, le juge Mogan écrit ce qui suit :
+Lorsque le montant effectivement reçu (15 000 $) diffère à ce point du montant dû (50 590 $) ou lui est à ce point inférieur, je ne peux le considérer comme ayant le même caractère que le montant dû. En d’autres termes, je ne peux considérer les 15 000 $ reçus par l’appelante comme ayant été reçus pour l’entretien des trois enfants. À mon avis, David a versé ce petit montant en une somme forfaitaire premièrement pour être libéré de son obligation très réelle de payer les 35 590 $ restants et, deuxièmement, pour que le montant total de ses paiements mensuels d’entretien soit ramené de 795 $ à 600 $ par mois. En bref, le montant de 15 000 $ a été versé pour l’obtention d’une libération d’obligations existantes et l’obtention d’une réduction d’obligations futures et non pour l’entretien des trois enfants.
+[15] Dans la décision Soldera v. M.R.N., 91 DTC 987, rendue elle aussi avant les modifications de 1997, le juge Garon avait estimé que le paiement forfaitaire fait conformément à une ordonnance de 1986 réduisait les sommes dues en vertu d’une ordonnance de 1983. L’ordonnance de 1986 réduisait l’obligation de l’appelant au 31 mai 1986 pour ce qui concernait les arriérés de pension alimentaire, mais ne modifiait pas son obligation au titre des pensions alimentaires existantes ou futures. Le juge Garon s’exprime ainsi, à la page 990 :
+Tout d’abord, l’ordonnance de 1986 ne renferme aucune disposition libérant expressément l’appelant de ses obligations existantes ou futures de subvenir aux besoins de ses enfants.
+La décision Soldera s’appuie sur les principes exprimés dans les arrêts Armstrong et Sills (page 989 de la décision Soldera). L’avocat de l’intimée a fait une distinction entre la décision Soldera et le présent appel parce que, dans l’espèce Soldera, les documents ne renfermaient aucune disposition libérant le contribuable d’une obligation existante ou future de payer des pensions alimentaires pour les enfants. Dans le présent appel, l’appelant a été libéré de toute obligation portant sur les arriérés de 370 000 $, une fois payée la somme de 100 000 $US.
+[16] Dans la décision Glazier c. Canada, [2003] A.C.I. n° 133, le juge Sarchuk a lui aussi écarté toute similitude avec l’espèce Soldera, pour la même raison, et ses motifs militent en faveur de la cotisation contestée dans le présent appel, même si l’espèce Glazier concernait une pension alimentaire pour conjoint et non une pension alimentaire pour enfant. Au paragraphe 9, le juge Sarchuk faisait les observations suivantes :
+L’appelant n’est pas fondé à s’appuyer sur l’affaire Soldera, puisque dans cette dernière affaire, le paiement forfaitaire représentait un versement prescrit par une ordonnance antérieure et, plus important, les obligations présentes et futures n’étaient pas éteintes. À mon avis, dans l’espèce, il n’est pas possible de considérer le paiement forfaitaire comme autre chose qu’un montant versé dans le but de se libérer d’une obligation découlant d’une ordonnance ou d’un accord, soit dans le cadre d’arriérés de paiements de pension alimentaire, soit dans le cadre de futurs paiements, ou bien dans les deux cas.
+[17] Nombre des jugements rendus par la Cour sur cette question pourraient devoir être écartés au motif qu’il s’agissait à la fois d’arriérés et de paiements futurs de pension alimentaire (voir aussi Bégin v. Canada, 2005 DTC 949, et MacBurnie v. Canada, 95 DTC 686). Le point commun de tous ces jugements, c’est qu’ils ont été rendus d’après la procédure informelle, et je ne suis pas tenue de suivre l’un quelconque d’entre eux. Je n’ai pas à me demander s’il y a une différence entre l’obligation relative à des arriérés et l’obligation relative à des paiements futurs de pension alimentaire, car le présent appel ne concerne que des arriérés. Je crois cependant que les mêmes principes devraient s’appliquer, sans égard à la question de savoir si le paiement forfaitaire effectué se rapporte à la somme due maintenant ou à une somme qui sera due dans l’avenir.
+[18] S’agissant du premier argument avancé par l’intimée, je me reporte encore une fois aux propos tenus par le juge Kellock dans l’arrêt Armstrong, où il écrivait que, si une somme est payable par une personne pour qu’elle soit libérée de l’obligation par ailleurs imposée en vertu d’un jugement, alors la somme n’est pas payable en vertu de ce jugement. C’est simplement une somme forfaitaire qui est payée par l’intéressé pour se libérer de l’obligation autrement imposée par ce jugement. Si toutefois la somme de 100 000 $US avait été égale aux arriérés totaux dus à l’époque de l’accord de 2005, j’aurais fait droit à la déduction parce que je ne crois pas que la nature et le caractère du paiement auraient été modifiés. Si la somme de 100 000 $US avait été payée comme partie du total des arriérés, en sus d’arrangements précis et satisfaisants prévoyant le paiement du solde desdits arriérés, j’aurais également incliné à faire droit à la déduction de la somme payée. Cela est en accord avec l’arrêt Sills, où l’on peut lire que « [l]es paiements ne changent pas de nature pour la seule raison qu’ils ne sont pas effectués à temps » (page 5098). Cependant, dans le présent appel, l’appelant a payé la somme de 100 000 $US pour obtenir d’être pleinement libéré de l’obligation de payer les arriérés de 370 000 $. La somme de 100 000 $US ne saurait donc être considérée comme une somme qui est payable périodiquement. Le caractère et la nature du paiement sont modifiés, et par conséquent le paiement n’est pas déductible.
+[19] Même si j’avais conclu que le paiement de la somme de 100 000 $US était une « pension alimentaire », en accord avec la définition donnée dans le paragraphe 56.1(4), le résultat étant que la somme aurait également été une « pension alimentaire pour enfant », l’accord de 2005 modifiait manifestement l’ordonnance de 1993, déclenchant une « date d’exécution », la somme de 100 000 $US étant alors payable à cette date ou après. Par conséquent, même si les faits dont il s’agit ici pouvaient autoriser la conclusion selon laquelle la somme était une « pension alimentaire pour enfant », selon les définitions, elle ne serait pas déductible du revenu de l’appelant d’après l’alinéa 60b).
+[20] Selon les paragraphes 9, 11 et 13 de l’accord de 2005, les arriérés de pension alimentaire pour enfants sont « modifiés » par l’accord. Il est clair que, d’après les termes de l’accord de 2005, l’appelant était libéré de son obligation, selon l’ordonnance de 1993, de payer les arriérés de 370 000 $. Cette modification, comme il faut l’appeler, libérait l’appelant de son obligation de payer la somme de 370 000 $, qu’il devait en vertu de l’ordonnance de 1993. La somme de 100 000 $US devenait payable dès la signature de l’accord de 2005.
+[21] Durant son contre-interrogatoire, l’appelant a reconnu que cette somme de 100 000 $US était en réalité payée conformément à l’accord de 2005, en règlement des arriérés de pension alimentaire (transcription, page 25). Ce point était également reflété dans le fait qu’il a reconnu, en contre-interrogatoire, l’hypothèse (i) de la réponse du ministre, puisqu’il admettait que le paiement de la somme forfaitaire n’était pas fondé sur l’ordonnance de 1993. Les arriérés de 370 000 $ comprenaient les arriérés de primes d’assurance maladie et les frais médicaux non remboursés. Ces arriérés représentaient aussi l’obligation existante totale, parce que l’obligation future de l’appelant de payer des pensions alimentaires avait pris fin avant 2005, année au cours de laquelle, d’après les termes de l’ordonnance de 1993, l’enfant le plus jeune a atteint l’âge de 21 ans. L’obligation de payer la somme de 100 000 $US est imposée par l’accord de 2005. Puisque l’accord de 2005 modifiait l’ordonnance de 1993, une date d’exécution était établie, à savoir le 11 septembre 2005, c’est-à-dire la date de l’accord de 2005, en application du paragraphe 56.1(4) de la Loi. La somme de 100 000 $US est devenue payable à compter de la signature de l’accord de 2005, ou à compter de la date d’exécution établie dans cet accord. La somme n’est donc plus déductible en tant que pension alimentaire selon l’alinéa 60b) de la Loi. Cela signifie que le payeur ne peut pas déduire cette somme selon l’alinéa 60b), et que le bénéficiaire n’a pas à inclure cette somme dans son revenu selon l’alinéa 56(1)b).
+[22] La définition de l’expression « date d’exécution » s’applique manifestement aux circonstances du présent appel. L’ordonnance de 1993 a été modifiée par l’accord ultérieur de 2005, la nouvelle somme devenant payable par l’appelant conformément à la date d’exécution, c’est-à-dire la date de l’accord de 2005. Les modifications législatives d’avril 1997, ainsi que la jurisprudence qui s’est développée depuis, sont simples dans la mesure où elles intéressent les faits dont je suis saisie. Malheureusement, même si cette somme de 100 000 $US pouvait être considérée comme une « pension alimentaire pour enfant », elle ne serait pas déductible par l’appelant parce qu’elle a été payée après que cette date d’exécution fut fixée par l’accord de 2005. Les propos tenus par le juge Bowman dans la décision Kovarik c. Canada, [2001] 2 C.T.C. 2503, au paragraphe 15, sont à propos :
+[…] La définition de « date d’exécution » du paragraphe 56.1(4) n’est pas difficile à comprendre. […] Je ne vois pas comment les termes clairs de la définition peuvent être mis de côté, aussi sophistiquées que puissent être les règles d’interprétation législative que l’on peut choisir.
+[23] L’appelant s’est fondé sur une décision récente du juge Hershfield, Stephenson v. Canada, 2007 DTC 1608. Dans cette affaire, le contribuable avait accumulé des arriérés de pension alimentaire pour conjoint, selon la somme de 25 000 $, pension qui découlait d’une ordonnance rendue en 1998. Par jugement convenu, l’obligation du contribuable de payer la pension alimentaire pour conjoint fut ramenée à 7 500 $, somme devant être payée en 2003 en deux tranches déductibles d’impôt. Le juge Hershfield a estimé que la somme de 7 500 $ était une pension alimentaire déductible. Que la décision Stephenson soit fondée ou non, plusieurs facteurs importants autorisent une distinction entre ce précédent et le présent appel. Dans l’affaire Stephenson, il s’agissait d’une pension alimentaire pour conjoint et non d’une pension alimentaire pour enfant. Aucune date d’exécution n’était cruciale dans l’affaire Stephenson. En tout état de cause, cette affaire ayant été jugée d’après la procédure informelle, je ne suis pas tenue de la suivre.
+[24] Bien que je compatisse aux difficultés de l’appelant, il est l’artisan de son propre malheur. S’il s’était conformé à l’ordonnance de 1993 et avait payé à temps les pensions alimentaires de ses enfants comme le prévoyait cette ordonnance, il ne lui aurait pas été nécessaire d’interjeter le présent appel, parce qu’il pouvait déduire les pensions alimentaires hebdomadaires payables en vertu de l’ordonnance de 1993.
+[25] L’appel est rejeté, avec dépens.
+Signé à Charlottetown (Île‑du‑Prince‑Édouard), ce 1er jour de septembre 2008.
+Juge Campbell
+Traduction certifiée conforme
+ce 20e jour d’octobre 2008.
+D. Laberge, LL.L.
+RÉFÉRENCE :
+2008 CCI 473
+N° DU DOSSIER DE LA COUR :
+2007-1580(IT)G
+INTITULÉ :
+Gregory S. Gill et
+Sa Majesté la Reine
+LIEU DE L’AUDIENCE :
+Whitehorse (Yukon)
+DATE DE L’AUDIENCE :
+Le 9 juin 2008
+MOTIFS DU JUGEMENT :
+L’honorable juge Diane Campbell
+DATE DU JUGEMENT :
+Le 1er septembre 2008
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Me Bruce Senkpiel
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

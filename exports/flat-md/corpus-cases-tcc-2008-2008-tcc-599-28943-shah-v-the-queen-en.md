@@ -1,0 +1,188 @@
+---
+title: "Shah v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28943/index.do"
+last_modified: "2008-11-04"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 TCC 599"
+citation2: ""
+neutral_citation: "2008 TCC 599"
+decision_date: "2008-11-04"
+language: "en"
+item_id: "28943"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1383
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T23:41:30.215000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "7d8047de8ca8f9f905659f649e6d8bf28741547b8ddd05308ffa6a75b27f81fc"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Shah v. The Queen
+
+- Citation: 2008 TCC 599
+- Decision date: 2008-11-04
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1383, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Shah v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-11-04
+Neutral citation
+2008 TCC 599
+File numbers
+2008-884(GST)I
+Judges and Taxing Officers
+Louise Lamarre Proulx
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2008-884(GST)I
+BETWEEN:
+BHAGWAT SHAH,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on October 3, 2008, at Montréal, Québec.
+Before: The Honourable Justice Louise Lamarre Proulx
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Judith Kucharsky
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment made pursuant to subsection 323(1) of the Excise Tax Act, notice of which bears number PM-13395 and is dated June 13, 2007, for the period from January 1st, 2002 to April 30th, 2004, is dismissed in accordance with the attached reasons for judgment.
+Signed at Ottawa, Canada, this 4th day of November 2008.
+“Louise Lamarre Proulx”
+Lamarre Proulx J.
+Citation: 2008 TCC 599
+Date: 20081104
+Docket: 2008-884(GST)I
+BETWEEN:
+BHAGWAT SHAH,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Lamarre Proulx J.
+[1] This is an appeal from a reassessment for the reporting period from January 1st, 2002 to April 30, 2004. It concerns the director’s liability under subsection 323(1) of the Excise Tax Act (the “Act”).
+[2] The principal ground relied to by the Appellant against this reassessment is that for most of the period at issue, he was not the director of the company 124688 Canada Inc. on the basis that he would have sold all his shares in the company to a Mr. Bernard Ratelle in December 2002.
+[3] The notice of appeal reads as follows:
+(1) I was not the director for the assessment period shown in the assessment.
+(2) 100% shares of company 124688 Canada Inc. were bought by Mr. Bernard Ratelle in 2002 and Mr. Ratelle assumed full responsibilities of present and future activities of the company as confirmed by our Buy and Sale agreement. Even Mr. Ratelle office keep writing this fact to the Government but we are getting nowhere, hence we are appealing to the objection’s decision.
+(3) The assessment was sent on December 03, 2004 after I sold the company and was not in a position to deal with the government as I was not the director of the company.
+[4] With respect to the principal ground relied on by the Appellant, it was denied by the Respondent in paragraph 2 of her Reply to the Notice of appeal as follows:
+a) He denies that 100% of the shares of the company “124688 Canada Inc.” (hereinafter “the Corporation”) were purchased by Bernard Ratelle in 2002;
+b) He denies that Bernard Ratelle “assumed full responsibilities of present and future activities of the companies” as of 2002;
+c) He denies any “buy and sell agreement” which would be to the effect that Bernard Ratelle assumed full responsibility of the Corporation as of 2002;
+d) He has no knowledge of any written communications between Bernard Ratelle and the “Government” and in any event, denies the pertinence of same;
+e) He takes note that the Appellant is appealing the assessment issued to him regarding the period in issue, but Respondent adds that the said Notice of Appeal is unfounded in fact and in law;
+[5] The facts upon which the Appellant was assessed are described in paragraph 11 of the Reply as follows:
+a) The facts admitted above;
+b) The main purpose of business of the Corporation was to manufacture garments;
+c) At all material times, the Corporation was registered for the purposes of Part IX of the ETA;
+d) As such, the Corporation was required to remit the GST, and entitled to claim ITCs in accordance with the provisions of the ETA;
+e) Following an audit conducted by the Minister on behalf of the Respondent for the period of January 1st 2002 to April 30, 2004, a notice of assessment bearing number 0311010425 and dated March 11, 2004, was issued to the Corporation, claiming adjustments in the amount of $19,119.96 as well as interest and penalties, the whole in accordance with the ETA, for a total amount owing of $22,360.75 for the said period;
+f) The adjustments in the amount of $19,119.96 made to the calculation of the Corporation’s net tax, can be itemized as follows, namely:
+ITEM
+AMOUNT
+Goods and Services Tax (“GST”) collected and not remitted
+$10,797.35
+Total (GST)
+$10,797.35
+Input tax credits (“ITCs”) refused
+8,322.61
+Total (ITCs)
+8322.35
+Total Adjustments
+19,119.96
+g) The Corporation did not file a notice of objection following the issuance of the assessment whose notice bears number 0311010425, and is dated March 11, 2004 and failed to remit to the Receiver General of Canada the amounts due, as assessed;
+h) At all material times, the Appellant was a director and shareholder of the Corporation and was never replaced or discharged from his duties;
+i) According to a notice filed in accordance with section 106 and subsection 113(1) of the Canada Business Corporations Act, R.S.C., 1985, Ch. C-44, the Appellant was a director of the Corporation until August 22, 2005;
+j) The Corporation was dissolved on or about March 6, 2006;
+k) Pursuant to section 323 of the ETA, by notice of assessment dated June 13, 2007 and bearing number PM-13395, the Respondent, through the Minister, assessed the Appellant with respect to the Corporation, an amount of $23,630.32 in duties, interest and penalties for the period, taking into account that the Appellant’s mandate as director ended on August 22, 2005, namely:
+NET TAX
+INTEREST
+PENALTIES
+TOTAL
+$18,732.29
+$1,601.58
+$3,006.94
+$23,340.81
+l) On or about June 22, 2007, the Appellant filed a notice of objection regarding the assessment whose notice bears number PM-13395;
+m) On December 20, 2007, the Defendant confirmed, by notice of decision, that the assessment in issue, whose notice bears number PM-13395, was established against the Appellant in accordance with the provisions of section 323(1) of the ETA, with reference to “124688 Canada Inc.”;
+n) Prior to and throughout the period in issue, the Appellant corresponded with and communicated with the Minister’s representatives on behalf of the Corporation, most notably in respect of the Corporation’s GST treatment and remittances;
+o) The GST returns of the Corporation regarding the period in issue were signed by Appellant;
+p) Cheques issued to the Minister regarding the net tax payable by the Corporation for the period in question were signed by Appellant;
+q) The Appellant knew or should have known that the Corporation had failed, inter alia, to remit amounts of GST as required by the ETA regarding the period in issue;
+r) The Appellant did not put into place measures to ensure the timely remittance of amounts due by the Corporation pursuant to the ETA;
+s) The Appellant knew or should have known that the Corporation had claimed ITCs to which it was not entitled and/or without the required documentation;
+t) As a director of the Corporation, the Appellant did not take steps, inter alia, to ensure the GST remittances were made as required by the ETA;
+u) The Appellant did not exercise the degree of care, diligence and skill to prevent the failure to remit the amount owed by the Corporation that a reasonably prudent person would have exercised in comparable circumstances;
+v) The Appellant therefore became jointly and severally liable with the Corporation for the net tax owing to the Respondent as well as interest and penalties as evidenced by the notice of assessment;
+[6] At the hearing, the Appellant produced the contract of sale of 100% of the shares of 124688 Canada Inc. between himself and a numbered company represented by Mr. Ratelle, dated December 18, 2002. The price was $1. The brief agreement also stipulates that the buyer “will respect all the obligations regarding these shares” and that the vendor is “released of all responsibilities regarding the present and future activities of the company”.
+[7] The Appellant also produced Mr. Ratelle’s business card. Mr. Ratelle does business under the name of “Centre d’affaires 8552 St-Denis”. On the card, there is a specific advertisement for “redressement financier”. The name of the above mentioned numbered company does not appear on this card. In fact, the name of the alleged purchasing company does not appear anymore in this file.
+[8] The Appellant produced his Notice of objection. The reason stated for the objection was that the Appellant was not the shareholder of the company for the period in question. It did not state who was the shareholder. The notice was prepared by the above mentioned “Centre d’affaires St-Denis”.
+[9] The Respondent produced various administrative documents as Exhibit R-1: 1) a “bordereau de paiement” of 124688 Canada Inc sent to “Revenu Québec” for the period of 2003-06-01 to 2003-06-30, signed by the Appellant; 2) another similar document: a “formulaire de déclaration” of the same company signed by the Appellant on September 27, 2003; 3) another “formulaire de déclaration” signed by the Appellant December 19, 2003; 4) a GST/HST – QST Return signed by the Appellant on April 23, 2004; 5) a similar document signed on May 25, 2004; 6) a “formulaire de declaration” signed by the Appellant on October 24, 2004; 7) a similar document signed November 2, 2004; 8) a GST/HST – QST Return signed December 23, 2004; and 9) two other documents of the same nature signed by the Appellant, the last day of the period being 2005-01-31.
+[10] The Respondent produced as Exhibits R-2 and R-3, two copies of cheques made to “Revenu Québec” one bearing the date of September 20, 2002 and the other February 5, 2003. Both are signed by the Appellant.
+[11] The Respondent produced as Exhibit R-4, copies of the company “déclarations annuelles” for the years 2000 to 2002. The last two declarations were received by “l’Inspecteur general des institutions financiers” December 15, 2002. They were both signed by the Appellant.
+[12] The Respondent produced as Exhibit R-5 copies of letters sent to agents of Revenu Québec by the Appellant. They are dated March 26, 2003 and March 25, 2003. These letters discuss matters of having sent payments on time and requesting the cancellation of penalties.
+[13] These documents and several other documents were shown to the Appellant as proof that he was still acting as the company’s director during the period in dispute.
+[14] The Appellant submitted that he was then acting as a manager for the purchaser of his shares.
+[15] Exhibit R-15 is a “Déclaration modificative de correction” sent to the “Registraire des enterprises”. It is dated November 11, 2004 and is signed by Mr. Ratelle. It has for purpose to change the name of the shareholders of the corporation 124688 Canada Inc. to 9051-9037 Québec Inc. and the administrator is indicated as being Mr. Ratelle. This document was received by the Registrar January 12, 2005, outside the period at issue.
+[16] Ms. Thuc Tue Vuong, auditor for “Revenu Québec” testified. She contacted the Appellant on June 9, 2004. The Appellant told her that he would call his accountant. He never mentioned to her that he was not the owner of the business. She never heard the name of Mr. Ratelle during the audit.
+[17] Ms. Ariane Chabot the appeals agent testified. She stated that the Notice of Objection raised as the only ground of objection that Mr. Shah was not the shareholder of 124688 Canada Inc. On August 30, 2007, she requested from “Industrie Canada” all the corporate documents pertinent to 124688 Canada Inc. (Exhibit R-16). The documents received did not show any change of shareholder. In addition to this and in view of all the correspondence and other documents in the Minister’s possession, she did not consider the Appellant’s affirmation to be valid. She revised the auditor’s report and confirmed the assessment.
+Analysis and conclusion
+[18] It is my view that the evidence has shown very clearly that, during the period at issue, January 1st, 2002 to April 30, 2004, the Appellant was the sole shareholder of 124688 Canada Inc.
+[19] The document relied on by the Appellant that is the sale of his shares to 9051-9307 Québec Inc., on December 18, 2002, has not been corroborated by any other document and testimony. The only document showing a change of shareholder was received by the Registrar in January 2005, after the period at issue. It also has to be noted that Mr. Ratelle, the representative of the alleged purchaser of the shares, did not come to testify.
+[20] At the hearing, all documents produced emanating from the corporate body, 124688 Canada Inc., during the period at issue bear the Appellant’s name. They do not bear Mr. Ratelle’s name. There is not either a shred of evidence that the Appellant was acting as a manager for Mr. Ratelle.
+[21] The auditor had never heard of Mr. Ratelle’s name during her audit of the corporation 124688 Canada Inc. and the corporate assessment is dated March 11, 2004.
+[22] The sale of the shares to a numbered company represented by a Mr. Ratelle being the only ground raised by the Appellant, and this not having been at all proven, the Appellant’s appeal must be dismissed.
+Signed at Ottawa, Canada, this 4th day of November 2008.
+“Louise Lamarre Proulx”
+Lamarre Proulx J.
+CITATION: 2008 TCC 599
+COURT FILE NO.: 2008-884(GST)I
+STYLE OF CAUSE: BHAGWAT SHAH AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Montréal, Québec
+DATE OF HEARING: October 3, 2008
+REASONS FOR JUDGMENT BY: The Honourable Justice Louise Lamarre Proulx
+DATE OF JUDGMENT: November 4, 2008
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Judith Kucharsky
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

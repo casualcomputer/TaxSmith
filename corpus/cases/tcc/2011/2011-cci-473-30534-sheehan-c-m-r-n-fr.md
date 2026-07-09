@@ -1,0 +1,257 @@
+---
+title: "Sheehan c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30534/index.do"
+last_modified: "2011-10-06"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2011 CCI 473"
+citation2: ""
+neutral_citation: "2011 CCI 473"
+decision_date: "2011-10-06"
+language: "fr"
+item_id: "30534"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7336
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T13:34:10.965000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "b5eacb99e7d936438b36d076f9e2600a006e8f00d49c5b8c7e2475f8ef62cfa7"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Sheehan c. M.R.N.
+
+- Citation: 2011 CCI 473
+- Decision date: 2011-10-06
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7336, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Sheehan c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2011-10-06
+Référence neutre
+2011 CCI 473
+Numéro de dossier
+2010-2622(EI), 2010-2623(EI)
+Juges et Officiers taxateurs
+Alain Tardif
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossiers : 2010-2622(EI)
+2010-2623(EI)
+ENTRE :
+GILBERTE SHEEHAN,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+____________________________________________________________________
+Appels entendus sur preuve commune
+le 1er septembre 2011, à Percé (Québec)
+Devant : L’honorable juge Alain Tardif
+Comparutions :
+Pour l’appelante :
+L’appelante elle-même
+Avocate de l’intimé :
+Me Marie-France Dompierre
+____________________________________________________________________
+JUGEMENT
+Les appels interjetés en vertu de la Loi sur l’assurance-emploi sont rejetés au motif que le travail de l’appelante, madame Gilberte Sheehan, pour la société Les Distributions Richard Langlais inc., au cours des périodes allant du 7 juillet 2008 au 1er novembre 2008 et du 14 septembre 2009 au 31 décembre 2009, n’était pas un emploi assurable aux termes de la Loi.
+La décision du ministre du Revenu national du 20 juillet 2010 est donc confirmée, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 6e jour d’octobre 2011.
+« Alain Tardif »
+Juge Tardif
+Référence : 2011 CCI 473
+Date : 20111006
+Dossiers : 2010-2622(EI)
+2010-2623(EI)
+ENTRE :
+GILBERTE SHEEHAN,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+MOTIFS DU JUGEMENT
+Juge Tardif
+[1] Il s’agit d’appels relatifs à l’assurabilité du travail exécuté lors des deux périodes suivantes :
+a. 7 juillet 2008 au 1er novembre 2008;
+b. 14 septembre 2009 au 31 décembre 2009.
+[2] Lors de ces périodes, l’appelante effectuait du travail pour le compte et bénéfice de la société Les Distributions Richard Langlais inc. dont la totalité des actions avec droit de vote était détenue par son conjoint Richard Langlais. Les parties se sont entendues pour que les deux dossiers fassent l’objet d’une preuve commune.
+[3] Lors du procès, seule l’appelante a témoigné. Elle a admis la presque totalité des faits pris pour acquis pour expliquer et justifier les deux déterminations dont il est fait appel. Les faits pris pour acquis sont les paragraphes et sous-paragraphes 5 a) à c), 6 a) à f), 1), 2) et 3) et g), h), j) à p), et t).
+5) L’appelante et le payeur sont des personnes liées au sens de la Loi de l’impôt sur le revenu car :
+a) l’actionnaire unique du payeur était Richard Langlais;
+b) Gilberte Sheehan, l’appelante est l’épouse de Richard Langlais;
+c) l’appelante est liée par les liens du mariage à une personne qui contrôle le payeur;
+6) Le ministre a déterminé que l’appelante et le payeur avaient un lien de dépendance entre eux dans le cadre de l’emploi. En effet, le ministre a été convaincu qu’il n’était pas raisonnable de conclure que l’appelante et le payeur auraient conclu entre eux un contrat de travail à peu près semblable s’ils n’avaient pas eu de lien de dépendance, compte tenu des circonstances suivantes :
+a) le payeur a été constitué en société le 7 avril 1998;
+b) le payeur exploitait une entreprise spécialisée dans le domaine de la distribution de pain et petits gâteaux pour la compagnie Multimarques;
+c) le payeur est le seul à faire la livraison sur un territoire qui s’étend de Barachois à Rivière aux Renards;
+d) le payeur affirme avoir une période moins achalandée de janvier au 24 juin de chaque année par rapport à la période estivale qui est plus achalandée à cause du tourisme qui est très élevée[sic] à Gaspé et par rapport au mois de décembre à cause de la période des fêtes;
+e) les revenus mensuels du payeur de juillet 2008 à décembre 2009 sont les suivants :
+Juillet 2008 *
+11 548,49 $
+Avril 2009
+11 016,27 $
+Août 2008
+17 639,47 $
+Mai 2009
+12 463,68 $
+Septembre 2008
+11 858,76 $
+Juin 2009
+9 884,34 $
+Octobre 2008
+12 021,36 $
+Juillet 2009
+12 405,22 $
+Novembre 2008
+14 008,56 $
+Août 2009
+13 566,45 $
+Décembre 2008
+10 734,20 $
+Septembre 2009
+8 840,65 $
+Janvier 2009
+14 436,80 $
+Octobre 2009
+10 853,51 $
+Février 2009
+10 171,35 $
+Novembre 2009
+8 305,32 $
+Mars 2009
+11 920,61 $
+Décembre 2009
+8 162,55 $
+* les mois en caractères gras indiquent les périodes d’emploi de l’appelante pour le payeur;
+f) la livraison des petits gâteaux et des pains se fait en 3 étapes :
+1. chaque matin la livraison se fait dans les marchés d’alimentation notamment les marchés I.G.A. et Provigo de Gaspé où une partie du pain est placée sur les étalages et le reste est conservé dans une section à l’arrière des magasins;
+2. les mardis, mercredis et samedis une personne doit retourner dans les marchés pour faire la rotation du pain et placer le reste du pain mis en réserve sur les étalages;
+3. les jeudis et vendredis, un 3ième service est nécessaire parce que la quantité de pain est plus importante;
+g) l’actionnaire est le seul autorisé à signer les chèques du payeur;
+h) le payeur embauchait, en plus de l’actionnaire, le fils de ce dernier et l’appelante;
+j) l’appelante était étalagiste pour le payeur et s’occupait de faire les 2ième et 3ième services auprès de certains clients du payeur, elle s’occupait aussi de classer les factures et de préparer les papiers pour le comptable chaque mois, de préparer les paiements pour les fournisseurs (5 à 10 états de compte par mois) et de faire les dépôts bancaires hebdomadaires;
+k) l’appelante travaillait aussi chez Canadian Tire où elle avait un horaire régulier de 30 heures semaine durant la période en litige; elle a été mise à pied en décembre 2008 et a recommencé le 1er juin 2009 sans horaire régulier, pour terminer en décembre 2009 et recommencer le 17 mai 2010;
+l) le payeur affirme que l’appelante donnera toujours priorité à cet emploi chez Canadian Tire et qu’il s’arrangerait pour faire lui-même le travail de l’appelante advenant une non disponibilité de sa part;
+m) l’appelante travaillait 25 heures par semaine répartie comme suit : 2 heures par jour les lundis, mardis, mercredis, samedis et 3 heures par jour les jeudis et vendredis chez I.G.A. et ¾ d’heures par jour, sauf le samedi chez Provigo, clients du payeur et environ 7 heures par semaine pour la facturation et la préparation des papiers pour le comptable;
+n) les heures travaillées par l’appelante n’étaient pas enregistrées par le payeur;
+o) la rémunération de l’appelante a été déterminée par le payeur au taux horaire de 12 $, incluant le 4 % de vacances, pour la période en litige;
+p) l’appelante était payé par chèque chaque semaine et ce, 25 heures de travail;
+t) le payeur affirme que le mois de décembre est un mois rentable à cause de la période des fêtes, mais il congédie l’appelante le 1er novembre parce qu’il ne peut plus la payer;
+[4] L’appelante a cependant nié les faits aux sous-paragraphes 6 i), q), r), s), et u) comme suit:
+i) le payeur affirme que Ricky Langlais faisait les livraisons avec l’actionnaire du payeur jusqu’à sa mise à pied en avril 2009, lorsque le payeur a perdu une partie de son territoire occasionnant une perte de revenu mensuel d’environ 20%, alors que l’appelante affirme qu’elle était la seule employée du payeur tant en 2008 et 2009, puisqu’elle a été engagée pour remplacer leur fils;
+q) le payeur affirme qu’à chaque mise à pied, l’appelante continuait de s’occuper de la facturation sans être payée, car il ne connaît rien aux ordinateurs et elle continuait de travailler avec lui l’après-midi pour placer les pains et en faire la rotation, alors que l’appelante affirme qu’elle ne rendait pas de services régulièrement au payeur après ses mises à pied, que c’était son mari qui s’occupait des pains et de leur rotation, et qu’il s’occupait de démêler les factures;
+r) le début de la période en litige correspond au moment où l’appelante a commencé à être payée, alors qu’elle faisait le même travail avant cet engagement et ce, sans être payée;
+s) un employé non lié n’aurait pas accepté de travailler sans rémunération;
+u) la période d’emploi de l’appelante chez le payeur ne correspond pas aux besoins du payeur, d’autant que les revenus mensuels ne fluctuent pas sur une grande échelle justifiant un licenciement;
+[5] Le fondement de l’exclusion retenue par l’intimé dans sa décision est prévu par l’alinéa 5(2)i) de la Loi, qui se lit comme suit :
+5(2) Restriction − N’est pas un emploi assurable :
+[…]
+i) l’emploi dans le cadre duquel l’employeur et l’employé ont entre eux un lien de dépendance.
+[6] Le législateur a cependant prévu dans le même article que l’exclusion pouvait être écartée si des parties sans lien de dépendance avaient conclu un contrat de travail semblable.
+[7] En d’autres termes, le législateur a accordé à l’intimé un pouvoir discrétionnaire lui permettant d’évaluer tous les faits pertinents au travail qui fait l’objet du litige, notamment la rémunération, la durée et les modalités, et de déterminer si l’emploi est assurable ou non. Les dispositions en question se lisent comme suit :
+5(3) Personnes liées − Pour l’application de l’alinéa (2)i) :
+a) la question de savoir si des personnes ont entre elles un lien de dépendance est déterminée conformément à la Loi de l’impôt sur le revenu;
+b) l’employeur et l’employé, lorsqu’ils sont des personnes liées au sens de cette loi, sont réputés ne pas avoir de lien de dépendance si le ministre du Revenu national est convaincu qu’il est raisonnable de conclure, compte tenu de toutes les circonstances, notamment la rétribution versée, les modalités d’emploi ainsi que la durée, la nature et l’importance du travail accompli, qu’ils auraient conclu entre eux un contrat de travail à peu près semblable s’ils n’avaient pas eu de lien de dépendance.
+[8] Plusieurs décisions de la Cour d’appel fédérale ont rappelé qu’une décision résultant de l’exercice du pouvoir discrétionnaire ne peut être annulée par la Cour que si la prépondérance de la preuve établit que l’exercice du pouvoir discrétionnaire a été entaché d’erreur ou de manquement, ou a tout simplement été exercé d’une manière déraisonnable, soit en omettant de tenir compte d’éléments pertinents, soit en tenant compte d’éléments non pertinents.
+[9] En résumé, si le ministre a apprécié correctement et de façon raisonnable tous les faits pertinents, cette Cour ne peut annuler sa décision, même si elle aurait pu en arriver à une conclusion différente.
+[10] L’analyse doit porter sur le travail effectué ayant conduit à la détermination qui fait l’objet de l’appel mais aussi sur tous les faits mis en lumière lors du procès; contrairement à l’enquête qui a précédé la détermination, l’audition devant le tribunal fournit un ensemble de faits généralement plus complets et nuancés; de plus les témoins sont mieux préparés pour présenter la totalité des faits qu’ils jugent importants et pertinents tout en permettant une meilleure appréciation de la crédibilité, les intéressés étant présents.
+[11] À cet égard, les deux arrêts les plus souvent cités, soient les affaires Légaré c. Canada (ministre du Revenu national - M.R.N.), [1999] A.C.F. no 878, 246 N.R. 176, et Pérusse c. Canada (ministre du Revenu national - M.R.N.), [2000] A.C.F. no 310, 261 N.R. 150, enseignent ce qui suit. Dans l’affaire Légaré, l’honorable juge Marceau s’exprimait comme suit :
+4 La Loi confie au ministre le soin de faire une détermination à partir de la conviction à laquelle son examen du dossier peut le conduire. L'expression utilisée introduit une sorte d'élément de subjectivité et on a pu parler de pouvoir discrétionnaire du ministre, mais la qualification ne devrait pas faire oublier qu'il s'agit sans doute d'un pouvoir dont l'exercice doit se fonder pleinement et exclusivement sur une appréciation objective des faits connus ou supposés. Et la détermination du ministre n'est pas sans appel. La Loi accorde, en effet, à la Cour canadienne de l'impôt le pouvoir de la réviser sur la base de ce que pourra révéler une enquête conduite, là, en présence de tous les intéressés. La Cour n'est pas chargée de faire la détermination au même titre que le ministre et, en ce sens, elle ne saurait substituer purement et simplement son appréciation à celle du ministre : c'est ce qui relève du pouvoir dit discrétionnaire du ministre. Mais la Cour doit vérifier si les faits supposés ou retenus par le ministre sont réels et ont été appréciés correctement en tenant compte du contexte où ils sont survenus, et après cette vérification, elle doit décider si la conclusion dont le ministre était "convaincu" paraît toujours raisonnable.
+[…]
+12 Je viens de dire qu'à notre avis ces seuls faits nous paraissent en eux‑mêmes peu aptes à expliquer et à défendre la réaction du ministre ou de son délégué. L'exclusion des emplois entre personnes liées au niveau de la Loi sur l'assurance-chômage repose évidemment sur l'idée qu'on peut difficilement se fier aux affirmations des intéressés et que la possibilité d'emplois fictifs, aux conditions farfelues, est trop présente entre personnes pouvant si facilement agir de connivence. Et l'exception de 1990 a simplement voulu diminuer la portée de la présomption de fait en acceptant d'exclure de la sanction (ce qui n'était que justice) les cas où la crainte d'abus n'avait plus raison d'être. C'est dans cet esprit qu'à notre avis, après avoir reconnu ici la réalité de l'emploi, l'importance des tâches, la normalité de la rémunération, il est difficile d'attacher l'importance que le ministre a attachée aux faits invoqués par lui pour exclure l'application de l'exception. Ce sont sur les éléments essentiels du contrat de louage de services qu'il faut s'attarder pour se convaincre que l'existence du lien de dépendance entre les contractants n'a pas eu sur la détermination des conditions de l'emploi une influence abusive. Dans cette optique, la pertinence des faits invoqués, même non expliqués, paraît fort douteuse. Mais inutile d'insister. Si les faits invoqués pouvaient légitimement laisser planer un doute suffisant quant au caractère objectif des conditions du contrat de travail des demanderesses, la mise en contexte de ces faits suite à la preuve devant la Cour canadienne de l'impôt - preuve acceptée presqu’intégralement par le juge de la Cour - ne peut que mettre à plein jour le caractère non raisonnable de la conclusion initiale du ministre. Il a, en effet, été clairement expliqué et prouvé que le salaire des demanderesses était supérieur au salaire minimum des autres employés à cause des tâches de responsabilité qu'elles assumaient et que c'était le salaire courant dans l'industrie pour des emplois similaires; et a été clairement expliqué et prouvé que les actionnaires avaient convenu de diminuer leur propre rémunération courante dans une réaction de participation aux besoins pécuniaires et au développement de l'entreprise; il a été clairement expliqué et prouvé qu'une tornade en 1994 avait détruit une grande partie des bâtiments de l'entreprise, d'où était résulté [sic] une période de confusion, puis de reconstruction et de difficultés financières; enfin, il a été expliqué et prouvé que la présence des enfants de l'une des demanderesses sur les terrains des serres n'était susceptible d'affecter en rien l'accomplissement des tâches assumées et la prestation des services convenus.
+[12] Dans l’affaire Pérusse, l’honorable juge Marceau s’exprimait comme suit :
+14 En fait, le juge agissait dans le sens que plusieurs décisions antérieures pouvaient paraître prescrire. Mais cette Cour, dans une décision récente, s'est employée à rejeter cette approche, et je me permets de citer ce que j'écrivais alors à cet égard dans les motifs soumis au nom de la Cour:
+La Loi confie au ministre le soin de faire une détermination à partir de la conviction à laquelle son examen du dossier peut le conduire. L'expression utilisée introduit une sorte d'élément de subjectivité et on a pu parler de pouvoir discrétionnaire du ministre, mais la qualification ne devrait pas faire oublier qu'il s'agit sans doute d'un pouvoir dont l'exercice doit se fonder pleinement et exclusivement sur une appréciation objective des faits connus ou supposés. Et la détermination du ministre n'est pas sans appel. La Loi accorde, en effet, à la Cour canadienne de l'impôt le pouvoir de la réviser sur la base de ce que pourra révéler une enquête conduite, là, en présence de tous les intéressés. La Cour n'est pas chargée de faire la détermination au même titre que le ministre et, en ce sens, elle ne saurait substituer purement et simplement son appréciation à celle du ministre : c'est ce qui relève du pouvoir dit discrétionnaire du ministre. Mais la Cour doit vérifier si les faits supposés ou retenus par le ministre sont réels et ont été appréciés correctement en tenant compte du contexte où ils sont survenus, et après cette vérification, elle doit décider si la conclusion dont le ministre était "convaincu" paraît toujours raisonnable.
+15 Le rôle du juge d'appel n'est donc pas simplement de se demander si le ministre était fondé de conclure comme il l'a fait face aux données factuelles que les inspecteurs de la commission avaient pu recueillir et à l'interprétation que lui ou ses officiers pouvaient leur donner. Le rôle du juge est de s'enquérir de tous les faits auprès des parties et des témoins appelés pour la première fois à s'expliquer sous serment et de se demander si la conclusion du ministre, sous l'éclairage nouveau, paraît toujours "raisonnable" (le mot du législateur). La Loi prescrit au juge une certaine déférence à l'égard de l'appréciation initiale du ministre et lui prescrit, comme je disais, de ne pas purement et simplement substituer sa propre opinion à celle du ministre lorsqu'il n'y a pas de faits nouveaux et que rien ne permet de penser que les faits connus ont été mal perçus. Mais parler de discrétion du ministre sans plus porte à faux.
+[13] Seule l’appelante a témoigné au soutien de son appel. L’intimé a fait témoigner la personne responsable du dossier au niveau de l’opposition de la décision intervenue au premier niveau.
+[14] L’appelante a témoigné d’une manière spontanée et franche. Elle a expliqué et décrit son travail, apport et support à l’entreprise, propriété de son conjoint.
+[15] Elle a révélé et expliqué notamment qu’elle n’avait pas remplacé son fils qui a cessé de travailler pour obtenir un emploi plus propice et avantageux dans le cours de la poursuite de ses études. Ce dernier conduisait le véhicule alors qu’elle était essentiellement étalagiste.
+[16] Au cours des ans, elle a expliqué avoir travaillé chez Zellers et par la suite pour Canadian Tire, entreprise pour laquelle elle travaille toujours, au début à titre de commis et aujourd’hui comme caissière.
+[17] Elle a indiqué que sa priorité est son travail pour Canadian Tire d’où en cas de conflit d’horaire, elle va chez cet employeur, l’entreprise de son conjoint passant en deuxième.
+[18] Elle a décrit son travail pour l’entreprise de son conjoint; il s’agissait principalement d’un travail d’étalagiste chez les clients de l’entreprise exploitée par son conjoint. Il s’agissait d’un travail important ayant plusieurs incidences dans le volume de vente, mais aussi sur la commission que ce dernier recevait. Le but du travail visait à toujours pouvoir avoir sur les tablettes des produits non périmés et frais, le tout ayant pour effets de stimuler les ventes.
+[19] Elle s’occupait également de la gestion, du classement, de tout le travail relié à l’utilisation d’un ordinateur, son conjoint n’ayant pas alors la capacité d’utiliser un tel outil de gestion.
+[20] Appelée à expliquer son travail non rémunéré ou bénévole, elle a admis que cela était exact et véridique ajoutant toutefois qu’en Gaspésie, il est usuel de travailler pour son employeur sans rémunération.
+[21] Elle a aussi affirmé qu’il était normal d’aider et appuyer son conjoint dans l’exploitation de son entreprise. Elle a aussi indiqué que tout le monde se connaissait, s’aidait et s’entraidait.
+[22] Finalement, quant au travail exécuté bénévolement, elle a affirmé qu’il s’agissait d’une période où elle apprenait le travail et cela pour une période s’étant étalée sur plusieurs années. Elle a aussi mentionné que ce n’était pas du travail, mais plutôt une aide.
+[23] Elle a mentionné que son conjoint avait tenté sans succès de trouver un employé qualifié et compétent étant donné les exigences, et ce, dans une région où le taux de chômage est généralement plus élevé qu’ailleurs d’une part, et d’autre part, qu’il s’agissait d’un travail devant être appris, mais ne nécessitant pas une formation spécialisée ou pointue.
+[24] Johanne Potvin, agente des appels dont ceux de l’appelante a aussi témoigné; elle s’en est remise au compte-rendu de son enquête et de l’analyse consigné dans son rapport déposé sous la cote I-1. Elle a notamment retenu les éléments dont je crois utiles de reproduire :
+Durée, nature et importance du travail
+L’activité du payeur est d’effectuer la livraison de petits gâteaux et de pain, notamment dans les marchés d’alimentation I.G.A. et Provigo de Gaspé. La livraison est assumée par l’actionnaire du payeur qui place les produits sur les étalages de ces marchés. Une partie du pain est placée immédiatement sur ces étalages, tandis que l’autre partie est placée dans une section située à l’arrière des marchés d’alimentation. Cette opération est appelée le 1er service. Un 2e service est requis le mardi, le mercredi et le samedi, car quelqu’un doit retourner dans les marchés pour placer le reste du pain sur les étalages et pour faire la rotation du pain. Un 3e service est nécessaire le jeudi et le vendredi, dû à la quantité de pain qui est plus importante durant ces deux journées.
+L’appelante a été embauchée le 7 juillet 2008 en tant qu’étalagiste pour s’occuper de faire les 2e et 3e services dans les marchés d’alimentation. Elle s’occupait également de la facturation d’une trentaine de clients et de la préparation des papiers pour le comptable chaque mois. Elle s’occupait aussi de préparer de 5 à 10 états de compte par mois pour payer les fournisseurs et elle effectuait les dépôts bancaires une fois par semaine. Les faits ont démontré que l’appelante travaillait un peu plus d’une quinzaine d’heures par semaine pour s’occuper du pain, et qu’elle consacrait 7,5 heures par semaine à la paperasserie.
+L’appelante est la seule employée du payeur et le motif de son embauche est demeuré nébuleux, ce qui remet en cause l’importance du travail accompli par l’appelante. Dans un premier temps, l’actionnaire du payeur a affirmé que l’appelante avait toujours effectué le travail avant son embauche, mais sans être payée. Comment justifier l’embauche de cette dernière alors?
+[…]
+Les faits ont démontré que l’appelante offrait également ses services au magasin Canadian Tire de Gaspé à raison de 30 heures par semaine durant la période en litige. L’actionnaire a déclaré que l’appelante travaille toujours pour cet employeur, mais qu’elle n’a pas d’horaire régulier actuellement. L’actionnaire a aussi affirmé que l’appelante donnera toujours la priorité au magasin Canadian Tire et qu’il s’arrangerait pour faire le travail lui-même si cette dernière n’était pas disponible. Le travail accompli par l’appelante est-il vraiment essentiel au payeur à ce moment-là?
+Un autre élément important a été soulevé au cours de cette étude qui remet en cause l’importance du travail. Il s’agit du fait que l’actionnaire du payeur a déclaré que malgré le fait que le payeur opère à longueur d’année, il connaît une période moins achalandée de janvier à juin par rapport au mois de décembre qui est un mois rentable à cause de la période des fêtes. Pourtant, le payeur a mis fin aux services de l’appelante le 1er novembre 2008 sous prétexte qu’il n’était plus capable de la payer.
+[…]
+Modalités et conditions d’emploi
+L’appelante avait la latitude d’ajuster son horaire en fonction de son autre employeur. Elle ne consignait pas ses heures et elle a reçu une rémunération fixe pour 25 heures par semaine pendant toute la période en litige. L’actionnaire du payeur a déclaré à l’agent de décisions que l’appelante travaillait entre 20 et 25 heures par semaine, mais qu’il la payait toujours pour 25 heures parce que c’était plus facile à calculer pour le comptable du payeur qui était son beau-frère.
+L’actionnaire du payeur a aussi déclaré qu’il arrivait que leur fille aide l’appelante dans son travail durant ses congés scolaires. L’appelante devait alors faire moins d’heures à ce moment-là, et pourtant, elle était toujours payée pour 25 heures.
+Nous sommes d’avis que le payeur aurait exercé un contrôle des heures effectuées par une personne étrangère, et que cette personne aurait été payée pour les heures réellement travaillées.
+Rétribution versée
+Le salaire de l’appelante a été établi au taux de 12 $ de l’heure, incluant le 4 % de vacances, et elle était rémunérée toujours pour 25 heures par semaine. Les faits ont démonté que l’appelante avait reçu des chèques de paye chaque semaine au montant de 202,32 $ durant la période en litige.
+Le payeur a commencé à payer l’appelante pour ses services en juillet 2008, alors que celle-ci avait toujours fait le travail auparavant sans être payée, soit pendant une dizaine d’années puisque le payeur opère depuis 1998. De plus, l’appelante continue de s’occuper des factures sans être payée depuis la fin de son emploi puisque l’actionnaire ne connaît rien aux ordinateurs. Aussi, l’actionnaire a déclaré que l’appelante continuait de travailler avec lui l’après-midi.
+Nous sommes d’avis qu’une personne étrangère n’aurait pas accepté de travailler aussi longtemps sans être payée pas plus qu’elle accepterait de continuer à faire des tâches sans être payée.
+[…]
+Conclusion
+L’analyse du lien de dépendance nous a démontré compte tenu des circonstances, notamment en ce qui concerne la rétribution versée, les modalités et la durée de l’emploi ainsi que la nature et l’importance du travail, qu’il n’est pas raisonnable de croire que les parties auraient conclu entre elles un contrat de travail à peu près semblable sans lien de dépendance entre eux. Le ministre est donc convaincu qu’il
+est raisonnable de conclure que l’emploi de Giberte[sic] Sheehan pour Les Distributions Richard Langlais inc. était exclu des emplois assurables en vertu de l’alinéa 5(2)i) de la Loi sur l’assurance-emploi [sic] pour la période du 7 juillet 2008 au 1er novembre 2008.
+[25] Le travail d’analyse de l’agente des appels est sans reproche, si ce n’est un élément où elle a incorrectement interprété à savoir qu’elle a remplacé son fils alors que la preuve a établi qu’il s’agissait là d’une mauvaise interprétation puisque l’appelante et son fils ne faisaient pas le même travail. Ce détail n’est cependant pas important dans le cadre de l’analyse d’autant plus qu’il n’a manifestement pas eu d’effet sur la conclusion retenue.
+[26] Quant aux autres aspects, éléments et faits retenus par l’agente des appels, la preuve a confirmé leur exactitude et ce, même ceux niés à l’exception de la question qu’elle a remplacée son fils. La preuve n’a donc rien ajouté de nouveau.
+[27] La preuve soumise par l’appelante a validé toutes les hypothèses de fait retenues. La preuve a aussi permis de constater que l’enquête et analyse avait pris en considération tous les faits pertinents et que leur évaluation avait été faite correctement et d’une manière judicieuse.
+[28] La prépondérance de la preuve valide ou confirme la raisonnabilité des deux déterminations à l’origine de l’appel.
+[29] Certains faits déterminants à cet égard sont notamment le travail sans rémunération, l’étonnante flexibilité, l’approche particulière de son travail par rapport à celui pour l’entreprise Canadian Tire, mais aussi et surtout le fait que son travail couvrait les périodes où le chiffre d’affaires était moins élevé ou plus bas que d’autres où elle ne travaillait pas.
+[30] La région gaspésienne est une région très particulière qui regroupe plusieurs dizaines de petites communautés. Les gens qui habitent cette région sont chaleureux et accueillants. L’entraide, la générosité, la collaboration sont des qualités qui caractérisent et définissent bien ces communautés.
+[31] Les qualités exceptionnelles compliquent cependant quelque peu l’analyse d’un dossier où il y a un lien de dépendance entre le salarié et l’employeur. En effet, ce qui est souvent invraisemblable, voire déraisonnable, dans les grandes régions urbaines où personne ne se connaît et où la règle dans les relations est souvent l’individualisme est tout à fait raisonnable et usuelle dans les régions telles la Gaspésie.
+[32] Ces qualités et particularités façonnent souvent les relations de travail et il peut devenir très difficile de tracer la ligne entre le raisonnable et le non raisonnable.
+[33] Chose certaine, cette réalité ne peut pas expliquer et justifier l’entièreté des modalités au niveau d’un contrat de louage de services.
+[34] Qu’une personne accepte de travailler sans rémunération pour une courte période, qu’une personne amène du travail chez elle sans rémunération, qu’une personne soit plus flexible quant à sa charge de travail, qu’une personne accepte plus facilement certains embarras ou certains irritants, ce sont là des facettes qui peuvent être acceptables et qu’on peut qualifier comme faisant partie des us et coutumes.
+[35] Toutefois, ces particularités ne doivent pas ou ne peuvent pas dominer dans les modalités au niveau d’un contrat de louage de services.
+[36] En l’espèce, l’appelante a témoigné d’une manière très spontanée et honnête. Elle a admis la presque totalité des faits pris pour acquis; la preuve a aussi permis de constater la véracité des faits niés à l’exception de celui relatif au remplacement de son fils. Cet élément ne constitue pas un détail déterminant dans l’analyse et la conclusion qui a suivi.
+[37] Le travail d’enquête et d’analyse ayant été validé par la preuve, il appert que la conclusion qui en a résulté est raisonnable. La conclusion retenue et contestée est raisonnable et tout à fait cohérente avec l’ensemble des faits pertinents et disponibles, tant lors de l’exercice de la discrétion, que lors de l’enquête devant le tribunal.
+[38] Pour toutes ces raisons, les appels sont rejetés.
+Signé à Ottawa, Canada, ce 6e jour d’octobre 2011.
+« Alain Tardif »
+Juge Tardif
+RÉFÉRENCE : 2011 CCI 473
+Nº DES DOSSIERS DE LA COUR : 2010-2622(EI) et 2010-2623(EI)
+INTITULÉ DE LA CAUSE : GILBERTE SHEEHAN et M.R.N.
+LIEU DE L’AUDIENCE : Percé (Québec)
+DATE DE L’AUDIENCE : le 1er septembre 2011
+MOTIFS DU JUGEMENT PAR : l’honorable juge Alain Tardif
+DATE DU JUGEMENT : le 6 octobre 2011
+COMPARUTIONS :
+Pour l’appelante :
+L’appelante elle-même
+Avocate pour l’intimé :
+Me Marie-France Dompierre
+AVOCAT INSCRIT AU DOSSIER :
+Pour :
+Nom :
+Cabinet :
+Pour l’intimé : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada

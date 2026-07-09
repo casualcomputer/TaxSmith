@@ -1,0 +1,154 @@
+---
+title: "Charlebois v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26270/index.do"
+last_modified: "2004-11-30"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 CCI 785"
+citation2: ""
+neutral_citation: "2004 CCI 785"
+decision_date: "2004-11-30"
+language: "fr"
+item_id: "26270"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4001
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T19:48:04.083000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "bb2f196163e815df94402aa82419e0f2912346d2d2206912f24c5ce57fc27f39"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Charlebois v. The Queen
+
+- Citation: 2004 CCI 785
+- Decision date: 2004-11-30
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4001, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Charlebois v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-11-30
+Référence neutre
+2004 CCI 785
+Numéro de dossier
+2004-1711(IT)I
+Juges et Officiers taxateurs
+Alexander A. Sarchuk
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2004-1711(IT)I
+ENTRE :
+PERRY D. CHARLEBOIS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 6 octobre 2004, à Toronto (Ontario).
+Devant : L'honorable A.A. Sarchuk
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Représentant de l'intimée :
+M. Paolo Torchetti (étudiant en droit)
+____________________________________________________________________
+JUGEMENT
+L'appel visant la cotisation d'impôt sur le revenu établie en vertu de la Loi de l'impôt sur le revenu pour l'année d'imposition 2001 est rejeté.
+Signé à Ottawa, Canada, ce 30e jour de novembre 2004.
+« A.A. Sarchuk »
+Juge Sarchuk
+Traduction certifiée conforme
+ce 19e jour de janvier 2005.
+Aleksandra Koziorowska, traductrice
+Référence : 2004CCI785
+Date : 20041130
+Dossier : 2004-1711(IT)I
+ENTRE :
+PERRY D. CHARLEBOIS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Sarchuk
+[1] Dans le calcul de l'impôt payable pour l'année d'imposition 2001, l'appelant a déduit un crédit d'impôt non remboursable relativement à un « montant pour une personne à charge admissible » s'élevant à 6 293 $ à l'égard de sa fille Nadine. L'appelant a d'abord fait l'objet d'une cotisation correspondant au montant qu'il avait déclaré. Par la suite, le ministre du Revenu national a établi une nouvelle cotisation à l'égard de l'appelant, et il a refusé le « montant pour une personne à charge admissible » pour le motif que l'appelant n'avait pas fourni de renseignements suffisants pour démontrer qu'il avait droit à une telle déduction.
+[2] Les faits suivants ne sont pas contestés. L'appelant et Tracey Brandt sont les parents de deux enfants : Courtney, née le 1er mai 1989, et Nadine, née le 31 mai 1996. L'appelant et Tracey vivaient séparément en raison de la rupture de leur mariage au cours de l'année d'imposition 2001. L'appelant a témoigné que le mariage était [traduction] « en pleine débâcle » depuis un certain temps et que par conséquent, même s'ils ont continué à habiter la même résidence en 2001, ils faisaient chambre à part et menaient des vies séparées. Les deux travaillaient. La plupart du temps, ils travaillaient des quarts de travail différents, ce qui permettait à l'un d'eux de s'occuper des enfants et faisait en sorte qu'ils avaient rarement besoin de services de garderie. L'appelant a également témoigné que Tracey et lui partageaient tous les frais de ménage, mais qu'il en payait la majeure partie. Il a dit qu'il avait reçu de Revenu Canada des renseignements selon lesquels si Tracey et lui étaient incapables de s'entendre sur l'identité de la personne [traduction] « qui allait demander la déduction pour les enfants, la déduction nous serait refusée à tous les deux » et que par conséquent [traduction] « nous avons décidé qu'au tout début je demanderai la déduction à l'égard des deux enfants et nous avons ensuite continué à procéder ainsi pendant plusieurs années jusqu'à l'année 2001, où les choses ont commencé à se gâter sérieusement, ce qui a fait que nous avons décidé de demander chacun la déduction à l'égard d'un enfant » . Ainsi, dans leurs déclarations de revenus pour cette année, l'appelant a demandé une déduction à l'égard de Nadine, et Tracey a demandé une déduction à l'égard de leur autre fille, Courtney[1].
+[3] La position de l'intimée repose en partie sur les dispositions de l'alinéa 118(1)b) de la Loi de l'impôt sur le revenu, dont le passage pertinent est rédigé comme suit :
+118(1) [...] est déductible dans le calcul de l'impôt payable par un particulier en vertu de la présente partie pour une année d'imposition;
+b) [...] si le particulier ne demande pas de déduction pour l'année par l'effet de l'alinéa a) et si, à un moment de l'année :
+(i) d'une part, il n'est pas marié ou ne vit pas en union de fait ou, dans le cas contraire, ne vit pas avec son époux ou conjoint de fait ni ne subvient aux besoins de celui-ci, pas plus que son époux ou conjoint de fait ne subvient à ses besoins,
+(ii) d'autre part, il tient, seul ou avec une ou plusieurs autres personnes, et habite un établissement domestique autonome où il subvient réellement aux besoins d'une personne qui, à ce moment, remplit les conditions suivantes :
+(A) [...]
+(B) elle est entièrement à la charge soit du particulier et d'une ou plusieurs de ces autres personnes,
+(C) elle est liée au particulier,
+(D) [...]
+Le représentant de l'intimée a soutenu que malgré sa séparation avec son épouse, l'appelant affirme avoir subvenu entièrement aux besoins de celle-ci et avoir été le principal soutien économique du ménage. De l'avis du représentant de l'intimée, cela empêche l'appelant de se prévaloir de cet article étant donné que la loi prévoit clairement que la personne ne doit pas avoir subvenu aux besoins de l'autre époux.
+[4] L'alinéa 118(1)a) prévoit ce qu'on appelle le crédit de personne mariée, qui peut être demandé seulement par une personne mariée qui subvient aux besoins de son époux. L'alinéa 118(1)b) traite d'un crédit assez semblable pour les contribuables qui subviennent aux besoins d'une personne entièrement à charge. La Loi prévoit clairement que l'équivalent du crédit de personne mariée ne peut pas être demandé par un particulier qui est marié et qui habite avec son époux, mais peut l'être uniquement par un particulier qui est célibataire, veuf, divorcé ou séparé. Pour pouvoir demander ce crédit, le contribuable doit avoir subvenu aux besoins d'une personne qui était entièrement à sa charge et qui a habité sa maison. Dans le présent appel, il est clair que l'enfant concerné n'était pas entièrement à la charge du contribuable. Même si l'appelant et son épouse vivaient séparément, et le ministre ne conteste pas ce fait, on ne dispose pas de renseignements suffisants sur l'identité du parent qui s'occupait de chacun des enfants. Cette information est pertinente, et le moins que l'on puisse dire à la lumière de la preuve qui a été soumise à la Cour est que l'appelant et son épouse séparée contribuaient tous les deux au soutien financier des enfants. Le représentant de l'intimée a en outre soutenu que l'appelant ne pouvait pas avoir gain de cause parce que l'alinéa 118(4)b) de la Loi prévoit ce qui suit :
+118(4) Les règles suivantes s'appliquent aux déductions prévues au paragraphe (1) :
+a) [...]
+b) un seul particulier a droit pour une année d'imposition à une déduction prévue au paragraphe (1), par application de l'alinéa (1)b), pour la même personne ou pour le même établissement domestique autonome; au cas où plusieurs particuliers qui auraient droit autrement à cette déduction ne s'entendent pas sur celui d'entre eux qui la fait, elle n'est accordée à aucun d'eux pour l'année;
+(c) [...]
+Ces dispositions prévoient qu'un seul particulier a droit pour une année d'imposition à la déduction en cause pour la même personne ou pour le même établissement domestique. Si deux particuliers ou plus qui auraient droit autrement à la déduction ne parviennent pas à s'entendre sur l'identité de la personne qui va bénéficier de celle-ci, elle n'est accordée à aucun d'eux.
+[5] L'appelant a reconnu que son épouse et lui ont chacun demandé la déduction à l'égard d'un enfant. J'accepte l'argument de l'intimée selon lequel cela a eu pour effet de soustraire l'appelant de l'application des dispositions de la Loi, et qu'il s'ensuit que la cotisation du ministre était bien fondée étant donné qu'aucune des personnes à charge n'était entièrement à la charge de l'appelant et/ou que celui-ci ne subvenait pas aux besoins d'une personne à charge dans un établissement domestique autonome tenu par lui.
+[6] Par conséquent, l'appel est rejeté.
+Signé à Ottawa, Canada, ce 30e jour de novembre 2004.
+« A.A. Sarchuk »
+Juge Sarchuk
+Traduction certifiée conforme
+ce 19e jour de janvier 2005.
+Aleksandra Koziorowska, traductrice
+RÉFÉRENCE :
+2004CCI785
+NUMÉRO DU DOSSIER DE LA COUR :
+2004-1711(IT)I
+INTITULÉ :
+Perry D. Charlebois et Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+Toronto (Ontario)
+DATE DE L'AUDIENCE :
+Le 6 octobre 2004
+MOTIFS DU JUGEMENT :
+L'honorable A.A. Sarchuk
+DATE DU JUGEMENT:
+Le 30 novembre 2004
+COMPARUTIONS :
+Pour l'appelant :
+L'appelant lui-même
+Représentant de l'intimée :
+M. Paolo Torchetti (étudiant en droit)
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelant :
+Nom :
+s.o.
+Cabinet :
+s.o.
+Représentant de l'intimée :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Voir les pièces A-3 et A-4.

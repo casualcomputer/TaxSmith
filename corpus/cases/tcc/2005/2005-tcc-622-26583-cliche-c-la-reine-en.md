@@ -1,0 +1,247 @@
+---
+title: "Cliche c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26583/index.do"
+last_modified: "2005-06-06"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 TCC 622"
+citation2: ""
+neutral_citation: "2005 TCC 622"
+decision_date: "2005-06-06"
+language: "en"
+item_id: "26583"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3526
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T20:40:22.938000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "ae5dbee674bfeb0e371640295ca3fc63f2beff6baf29c933e5b40ad122913a24"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Cliche c. La Reine
+
+- Citation: 2005 TCC 622
+- Decision date: 2005-06-06
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3526, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Cliche c. La Reine
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-06-06
+Neutral citation
+2005 TCC 622
+File numbers
+2004-571(GST)G
+Judges and Taxing Officers
+Alain Tardif
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2004-571(GST)G
+BETWEEN:
+LOUISELLE CLICHE,
+Appellant,
+and
+HER MAJESTY THE QUEEN
+Respondent.
+____________________________________________________________________
+[OFFICIAL ENGLISH TRANSLATION]
+Case management conference held and appeal heard on April 13, 2005, at Quebec, Quebec
+Before: The Honourable Judge Alain Tardif
+Appearances:
+Counsel for the Appellant:
+Rock Roy
+Counsel for the Respondent:
+Philippe Morin
+____________________________________________________________________
+JUDGMENT
+The appeal against an assessment made under Part IX of the Excise Tax Act, the notice of which is dated November 17, 2003 and bears number PQ‑2003‑7319, in respect of the Goods and Services Tax, is dismissed, with costs in favour of Respondent, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 8th day of November 2005.
+“Alain Tardif”
+Tardif, J.
+Citation: 2005CCI622
+Date: 20051108
+Docket: 2004-571(GST)G
+BETWEEN:
+LOUISELLE CLICHE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Tardif, J.
+[1] The case involves an appeal against an assessment bearing number PQ‑2003‑7319 issued on November 17, 2003 under the Excise Tax Act (the “Act”).
+[2] The Appellant’s notice of appeal reads as follows:
+[TRANSLATION]
+[...]
+1. The APPELLANT received from the Ministère du Revenu du Québec, on November 27, 2002, a notice of assessment bearing number PQ‑2002‑6832 issued under section 325 of the Excise Tax Act, the whole as appears from the Notice of Assessment which will be produced and filed at the hearing of this appeal;
+2. On October 11, 1991, a marriage contract was entered into between the APPELLANT and her spouse, André Parent (hereinafter “Mr. Parent”) before Mtre. Andrée Rancourt, Notary, pursuant to which Mr. Parent made a gift inter vivos to the APPELLANT of the sum of forty thousand dollars ($40,000.00), which sum was liquid and exigible upon the celebration of the marriage, the whole as appears from the marriage contract which will be produced and filed at the hearing of this appeal;
+3. On June 9, 1999, Mr. Parent made a gift to the APPELLANT of an immovable serving as a primary residence whose value was estimated by the parties at fifty-nine thousand and ten dollars ($59,010.00), the whole as appears from a copy of the deed of sale which will be produced and filed at the hearing of this appeal;
+4. Under the terms of said gift, the APPELLANT assumed the balance of the mortgage loan in principal and interest, and a part of the sum owing pursuant to the gift by marriage contract was applied to said gift, the whole as appears from the marriage contract which will be produced and filed at the hearing of this appeal;
+5. On February 17, 2000, Mr. Parent made a gift to the APPELLANT of a lot adjacent to the residence whose value was estimated by the parties at seven thousand eight hundred and seventy-five dollars ($7,875.00), the whole as appears from the copy of the gift contract which will be produced and filed at the hearing of this appeal;
+6. Under the terms of said gift, the balance owing to the APPELLANT pursuant to the gift by marriage contract was also applied to said gift, the whole as appears from the gift contract which will be produced and filed at the hearing of this appeal;
+7. On December 8, 2000, Mr. Parent made an assignment of his property and Roy, Métivier, Roberge, syndics, was appointed trustee of the assets of Mr. Parent’s bankruptcy, the whole as appears from the extract from the Office of the Superintendent of Bankruptcy which will be produced and filed at the hearing of this appeal;
+8. Following the assignment of Mr. Parent’s property, discussions were held between the trustee and the APPELLANT to the effect that the gifts of June 9, 1999 and of February 17, 2000 may not be set up against him, the whole as appears from the exchanged letters which will be produced and filed at the hearing of this appeal;
+9. Following said discussions, the APPELLANT agreed to pay the sum of one thousand five hundred dollars ($1,500.00) for the residence and two thousand dollars ($2,000.00) for the land, the whole as appears from the transactions entered into which will be produced and filed at the hearing of this appeal;
+10. The Canada Customs and Revenue Agency was informed of each of the transactions entered into, the whole as appears from the letters sent which will be produced and filed at the hearing of this appeal;
+11. Following said transactions, the Canada Customs and Revenue Agency chose not to assess the APPELLANT, the whole as appears from a letter dated September 30, 2002 produced in support of this appeal;
+12. Nevertheless, the Ministère du Revenu du Québec assessed the APPELLANT on the grounds that she received a benefit in consideration of the transfer of two (2) immovables by her spouse in her favour and that she is jointly and severally liable for the sums owning to the RESPONDENT by her husband up to the amount of the benefit received;
+13. The APPELLANT is assessed on said basis for the sum of two thousand nine hundred and twenty four dollars and thirty-three cents ($2,924.33) as appears from Notice of Assessment PQ-2002-6832 which will be produced and filed at the hearing of this appeal.
+14. On January 16, 2003, the APPELLANT filed against the aforementioned Notice of Assessment an objection in due form accompanied by a schedule, the whole as appears from the objection and the schedule thereto which will be produced and filed at the hearing of this appeal;
+15. On November 17, 2003, Mtre. Nathalie Lachance, attorney at the Direction des oppositions, rendered her decision on said notice of objection by ordering the issuing of a new Notice of Assessment PQ-2003-7319 dated November 17, 2003 for a total amount of two thousand eight hundred and eighty-six dollars and eleven cents ($2,886.11) in order to take into account a dividend paid by the trustee, while declaring said assessment valid under the provisions of the Excise Tax Act, the whole as appears from the objection decision and the new Notice of Assessment which will be produced and filed at the hearing of this appeal;
+16. The APPELLANT intends to show that Mtre. Nathalie Lachance manifestly erred in fact and in law by not feeling bound in any way by the decision of the Canada Customs and Revenue Agency not to assess the Appellant in respect of the transfers of immovables in her favour by Mr. Parent, the whole as will be more fully demonstrated at the hearing of this appeal;
+[3] In his reply to the Notice of Appeal, the Deputy Attorney General of Canada stated that he made the following assumptions of fact:
+[TRANSLATION]
+a) On July 8, 1999, André Parent, who was indebted to Her Majesty in right of Canada for the sum of $5,977.92 under the Excise Tax Act, transferred gratuitously the building and land located at 66 du Pont Avenue West in Saint-Martin, Beauce county, province of Quebec, to the Appellant, otherwise than at arm’s length.
+b) On February 17, 2000, André Parent transferred gratuitously to the Appellant vacant land described as follows:
+“a parcel of land located in the municipality of Saint-Martin, Beauce South, known and designated as being a PART of lot NINE B (P.9B) range one (rg.1) in the plan and book of reference for the cadastre of Shenley North Township, Beauce county and registration division.”
+c) According to the Respondent’s appraiser, at the time of the gratuitous assignment of July 8, 1999, the building located at 66 du Pont Avenue West in Saint-Martin, Beauce county, had a fair market value of $49,000.00 and the land, $11,000.00, for a total amount of $60,000.00.
+d) In addition, according to the Respondent’s appraiser, at the time of the gratuitous assignment of February 17, 2000, the assigned lot described as follows:
+“a parcel of land located in the municipality of Saint-Martin, Beauce South, known and designated as being a PART of lot NINE B (P.9B) range one (rg.1) in the plan and book of reference for the cadastre of Shenley North Township, Beauce county and registration division.”
+had a fair market value of $11,000.00.
+e) The Respondent therefore determined that the Appellant, at the time of the transfer, had been unduly benefited for the sum of $71,000.00
+f) On November 27, 2002, the Respondent assessed the Appellant for a sum of $2,924.33 under section 325 of the Excise Tax Act so that she would become jointly and severally liable for André Parent’s debt to the extent of the benefit received.
+g) Said amount was established by considering the benefit received by the Appellant in proportion to the debts owed by André Parent at the time of the transfer under the tax laws of Quebec and under the Excise Tax Act.
+[4] The Deputy Attorney General finally maintained that:
+[TRANSLATION]
+a) The Appellant is the spouse of Mr. André Parent as admitted and is a person dealing otherwise than at arm’s length with the tax debtor.
+b) The land as well as the building transferred to the Appellant had a fair market value of $71,000.00 at the time of the transfers.
+c) The Appellant acquired a building and land from André Parent for a consideration less than their fair market value, thereby deriving a benefit to the detriment of the Respondent’s rights.
+d) The transactions of February 9, 2001 and July 19, 2001 entered into between the trustee and the Appellant to settle the trustee’s claims as part of the bankruptcy of Appellant’s spouse do not nullify the Appellant’s liability under section 325 of the Excise Tax Act.
+e) In addition, the Respondent never intervened in the negotiations of the transactions of February 9, 2001 and July 19, 2001 with the trustee and the Appellant.
+[5] The Respondent formulated the issue as follows:
+a) What was the fair market value of the building and land transferred by the tax debtor, André Parent, to the Appellant at the time of the assignments of July 8, 1999 and July 17, 2000?
+b) Was there a consideration given by Appellant at the time of the assignments?
+c) Is the Respondent bound by the transactions of February 9, 2001 and July 19, 2001 made by the trustee in the bankruptcy of André Parent and the Appellant?
+[6] First, I will answer the question as to whether the gift provided in the marriage contract entered into on October 11, 1991 by the Appellant and her spouse, André Parent, constitutes an estoppel as to the assessment. In other words, is the Appellant justified in asserting to the Respondent that the immovables of which she became the owner at the time of the transfers of February 9, 2001 and July 19, 2001 were assigned to her in accordance with the gift provided in the marriage contract and therefore maintaining that an equal if not greater consideration was given?
+[7] The Respondent maintains that such a gift may not be set up against her and that, consequently, it cannot be taken into account as valuable consideration at the time of the transfers of February 9, 2001 and July 19, 2001.
+[8] It is therefore important to analyze the clause provided in the marriage contract concerning the gift so as to determine its effects on the transfers that are the basis for the assessment under appeal.
+[9] The Appellant maintains that the gift provided in the marriage contract is such that she did not enjoy any enrichment as a result of the transfers of February 9, 2001 and July 19, 2001 because it was essentially a transaction made in accordance with the gift provided in the marriage contract.
+[10] According to the Appellant, the gift was essentially the performance of the obligation that her spouse had contracted as part of the marriage many years earlier, i.e. on October 11, 1991; she claims that the gift may be set up against the Respondent in that it establishes good and valuable consideration for the property obtained at the time of the two transfers. Consequently, according to the Appellant, the assessment is erroneous in fact and in law.
+[11] The issue of whether a gift provided in a marriage contract may be set up and of the consequences of such gift was considered in Furfaro-Siconolfi v. Her Majesty The Queen, 89 DTC 5519. In this decision, the Honourable Judge Pinard of the Federal Court of Canada made a highly pertinent analysis of the issue.
+[12] As a result of his analysis, the Honourable Judge Pinard held that such a gift, if it was a genuine gift, had to be taken into consideration. Following that decision, the courts have since taken into consideration transfers of property made pursuant to a gift when they had to examine an assessment based on section 160 of the Income Tax Act.
+[13] The Honourable Judge Pinard thus concluded that a gift inter vivos in the amount of $30,000 provided in the marriage contract entered into between the Appellant and her spouse made said sum exempt from the application of section 160 of the Income Tax Act. In other words, it was a consideration that had to be taken into account.
+[14] In Furfaro-Siconolfi, the marriage contract was signed on September 2, 1977 and the transfer of the sum in dispute took place on October 10, 1980, while the appellant’s spouse owed the respondent a sum of $18,349.47. The clause of the marriage contract in question read as follows:
+“The First Party shall … and furthermore donates unto his said future wife hereto present and accepting:
+a) the sum of THIRTY THOUSAND DOLLARS ($30,000) to be paid at any time during the said marriage as he sees fit, the First Party hereby constituting himself debtor of the Second Party to the extent of the said sum. The donor, however, reserves the right at any time, to pay the whole or any part of the said sum either in cash or by the transfer or property, moveable or immoveable. Should the said sum not have been paid during the existence of the marriage, and he predeceases her, she shall have the right to demand payment of this sum or the part thereof unpaid or unsatisfied from his succession.”
+[My emphasis.]
+[15] The issue, then, was to determine the time of the transfer of the property that was the subject of the gift provided in the marriage contract, in order to establish when the transfer of ownership took place.
+[16] In paragraph 14 of his decision, Pinard J. wrote:
+“In light of the foregoing definitions, I consider that the transfer of ownership contemplated by s. 160 of the Act is a simple transfer of ownership, without it being necessary for the recipient to have possession of the thing or object the ownership of which is thus transferred. In a precise definition, the Income Tax Act recognizes that “property” includes a right of any kind whatever, and consequently the right of ownership of a thing. In legal terms, it is established that transferring the right of ownership of a thing, as for example in a sale or gift, does not necessarily imply immediate surrender of that thing.”
+[17] On the basis of article 777 of the Civil Code of Lower Canada, which governed gifts inter vivos, Pinard J. held that “there is no doubt that Eligio Siconolfi irrevocably undertook to be a debtor. There was divestiture within the meaning of art. 777 of the Civil Code of Lower Canada.”
+[18] According to Pinard J., there was a gift of present property and not a gift of future property. He concluded by affirming that “there was a genuine transfer of ownership, and so a transfer of property within the meaning of s. 160 of the Income Tax Act on the date the marriage contract was signed, namely September 2, 1977.” He therefore held that “[s]ection 160 of the Act […] cannot have any effect against the plaintiff with respect to any tax debt of the late Eligio Siconolfi on September 2, 1977.”
+[19] Does the principle developed by Pinard J. in Furfaro-Siconolfi apply to this case? To answer this question, we must analyze the nature of the gift provided in the Appellant’s marriage contract. Was it a genuine gift? Did the gift have all the necessary characteristics to constitute a genuine gift?
+[20] The marriage contract between the Appellant and her spouse contains the following clause:
+[translation]
+“In consideration of the collaboration of the future wife in the convenience and petroleum products store operated by the future husband in Saint-Martin in the years previous to the marriage, when the future wife did not have a salary proportional to her work, the future husband makes a gift inter vivos and in full ownership, as of the wedding, to the future wife, who accepts, of a sum of FORTY THOUSAND DOLLARS ($40,000.00), and said sum shall become exigible immediately if a judgment of separation from bed and board or of divorce is pronounced between the spouses by a court of competent jurisdiction.
+The future husband reserves the right, however, to pay said sum, in whole or in part, at any time during the marriage, either in money or by surender to the future spouse of movable or immovable property.
+In the event that the future wife predeceases the future husband, the aforementioned gift shall be revoked. Consequently, the representatives of the future wife will not be able to demand the performance thereof.”
+[My emphasis.]
+[21] Given the reserve at the end of the clause that provides for the gift, there is a fundamental difference between the gift in the case at hand and the gift in Furfaro‑Siconolfi. Indeed, the reserve creates a suspensive condition; the divestiture required by article 777 C.C.L.C. did not take place.
+[22] The Court therefore cannot take Furfaro‑Siconolfi into consideration in the present case because the gifts involved are not similar.
+[23] What about the distinction between the two gifts? The Civil Code of Lower Canada provided as follows:
+777. It is essential to gifts intented [sic] to take effect inter vivos that the donor should actually divest himself of his ownership in the thing given. […]
+[24] It is useful to cite here an excerpt from a book written by Jean Pineau, Danielle Burman and Serge Gaudet. They wrote the following concerning suspensive conditions:
+[translation]
+“A suspensive condition suspends not only the performance of the obligation, but also its formation. The now classic example we find in Mazeau is the following: “I will buy your horse if he wins the race.” […][1]
+[25] Upon reading the clause, one notes that there is no genuine obligation or irrevocable divestiture on the part of the donor; indeed, the gift provided in the marriage contract on October 11, 1991 cannot be regarded as a gift inter vivos because there was a suspensive condition.
+[26] Since irrevocable divestiture is an imperative condition of the gift inter vivos provided in article 777 C.C.L.C., the clause of the marriage contract of which the Appellant was the beneficiary is void against the assessment under appeal, given the absence of such essential condition.
+[27] Furfaro-Siconolfi therefore does not apply to the present case. I conclude that the Appellant’s right provided in the marriage contract does not constitute a consideration as part of the transfer of property at the time of the transactions of February 9, 2001 and July 19, 2001.
+[28] For these reasons, the Appellant cannot claim that the transfers of property of which she was the beneficiary were part of the performance of the obligation provided in her marriage contract and thus claim that the transfers were performed in consideration of property whose value was equal to, if not greater than, the value of the property transferred on July 8, 1999 and February 17, 2000.
+[29] As for the second issue, it consists in determining the FMV at the time of the transfers. Each party submitted the testimony of an expert witness, who came to very different conclusions.
+[30] The Appellant’s expert maintained that the fair market value (“FMV”) of the two immovables that were transferred on July 8, 1999 and February 17, 2000 was as follows:
+FMV of the land: $10,000
+FMV of the building (residence) $36,000
+Total: $46,000
+[31] The Respondent’s expert made the following appraisal of the same properties:
+FMV of the land (Lot 9B-2, 9B-part): $22,000
+FMV of the building (residence) $49,000
+Total: $71,000
+[32] The Appellant’s expert said that he spent 6 to 8 hours, including a visit to the sites, on the preparation of his report. Despite the fact that few hours were spent on the appraisal, it appeared from the testimony of the Appellant’s expert that he had used an impressive amount of data, particularly as regards relevant comparable sales.
+[33] The Appellant’s expert also said that as part of his appraisal, he consulted a contractor who had to do some work on the residence that the expert had to appraise.
+[34] The Appellant’s expert also consulted a real estate agent who had knowledge of the value of the residences located in the area.
+[35] Said consultations with the building contractor did not reveal the exact nature and details of the work to be done. Was the work major and essential? Was the work done and at what cost? All these questions remained unanswered.
+[36] Three problems affecting the FMV of the residence were mentioned: a crack in the foundation, an access door to the residence and the roof of the car shelter. Although these were relatively major deficiencies, the evidence in this regard was rather summary and incomplete, to the point where I find it impossible to draw reasonable conclusions as to how much said deficiencies decreased the overall value of the property.
+[37] After discussing at length the three problems requiring major repairs, whose cost was not established, the expert depreciated the building significantly because of obsolescence, thus giving the impression that he had made a double depreciation.
+[38] As for the land, the Appellant’s expert took a peculiar approach. There was in fact a comparable sale in the immediate vicinity of the residence transferred but, despite the obvious relevance of that sale, Mr. Robert Plante did not take it into account.
+[39] The Appellant’s expert used a comparable sale of average quality and then lowered the value on the grounds that the lot being appraised is located on a street with heavy traffic.
+[40] However, one of the lots, adjoining the lot on said street, was located on an ordinary street. The Appellant’s expert lowered the value of this second lot as well, considering both lots as a whole.
+[41] To arrive at an amount per square foot, the Appellant’s expert again used a series of considerations without justification which, for the most part, were essentially arbitrary.
+[42] His work appearing to be more elaborate because of a multitude of figures and details, the Appellant’s expert, Mr. Robert Plante, indicated to the Court that he had spent 6 to 8 hours visiting the sites, consulting with persons who had definite knowledge (contractor and real estate agent) and preparing the report.
+[43] Mr. Plante clearly could not present to the Court that which the time spent certainly did not allow him to do. He did his job according to professional standards, but there were certain shortcomings as regards their application. I found it very surprising, for example, that the Appellant’s expert did not use certain comparable sales, including a sale of land whose relevance was obvious.
+[44] The main problem with Mr. Plante’s appraisal is all the adjustments and all the weightings whose relevance was not demonstrated.
+[45] The usefulness and quality of a comparable sale lies in its comparability. If numerous adjustments and weightings are applied to a comparable sale, it is no longer a true comparable sale but rather artificial data that are of no use. Such comparable sales give the impression that the expert made a series of convoluted calculations to make relevant that which, at the outset, was not.
+[46] Comparables requiring so many adjustments or weightings to qualify as relevant comparable sales become useless benchmarks because they are not true comparable sales. Consequently, the comparable sales that the Appellant’s expert includes in his report must be disregarded.
+[47] I cannot accept the conclusions of Appellant’s expert, who made a whole series of adjustments whose relevance was not clear and which were not adequately justified; what’s more, some of the percentages used were essentially arbitrary.
+[48] The percentages and the different amounts used as part of the weighting seem to have served only to reduce as much as possible the FMV of the property that Mr. Plante was given the mandate to appraise.
+[49] I conclude that the expert expended most of his energies identifying all the factors that would enable him to come up with the lowest possible FMV. The efforts made to achieve this goal were such that the conclusion arrived at is simply unreasonable. For these reasons, I cannot accept the value ascertained by the Appellant’s expert.
+[50] As far as the Respondent’s expert, Gilles Vézina, is concerned, he did a good job appraising the property using highly relevant comparable sales: three transactions involving land located nearby, two of which were transferred relatively recently.
+[51] The quality of the comparable sales, particularly as regards the appraisal of vacant land, is a crucial factor. When the land in question is in proximity to the land being appraised and when two or three comparable sales are available, the results obtained are very meaningful and practically unassailable, especially if the transactions involving said land took place at a date quite close to the date of the property appraisal.
+[52] I therefore accept the appraisal of the lots made by the Respondent’s expert and I conclude that the land had a FMV of $22,000 at the time of the transfer.
+Residence
+[53] As far as the residence is concerned, both experts came to almost identical conclusions as to the replacement cost, namely $95,500 for the Appellant’s expert and $92,400 for the Respondent’s expert. The big difference in the final result is essentially due to the approach used to calculate depreciation.
+[54] After calculating the depreciation, the Appellant’s expert, Robert Plante, established the value of the building at $36,559 and the Respondent’s expert, Gilles Vézina, determined it to be $49,000.
+[55] Generally speaking, the Respondent’s expert used the same approaches as Appellant’s expert, the comparable sales approach and the replacement cost approach, weighted by certain factors, including the condition of the building at the time of the transaction, specifically its obsolescence due to the fact that it was built in 1974.
+[56] Although the methods were the same, the results were substantially different. The Respondent’s expert used a very simple and clear approach while producing a result that can be called reasonable.
+[57] He simply did the following equation: replacement cost, $92,400 (amount very close to the one used by the Appellant’s expert), which he reduced by 50%, representing the percentage of obsolescence established according to the age of the building.
+[58] The residence was built in 1974. The life of such a building was established, according to standard practices, at 75 years. Using these data, the Respondent’s expert arrived at an obsolescence percentage of 50%, which he applied to the replacement cost.
+[59] Although Mr. Vézina’s work had the merit of being simple, it was incomplete because he did not visit the inside of the residence that is the subject of the dispute, although he knew that the Appellant or her representatives maintained that a major crack affected the foundation of the residence.
+[60] Mr. Vézina was refused the right to visit the inside of the building and was limited to examining the outside.
+[61] At the hearing, the Appellant mentioned the fact that Mr. Vézina’s work was incomplete. This is definitely a valid grievance. However, in its assessment of the facts, the Court must take into account the behaviour of the Appellant and her husband, who refused to allow Mr. Vézina to visit the premises. The refusal to allow Mr. Vézina access to the premises may be due to the fact that the crack in question was not as significant as alleged or did not affect the solidity of the building as much as was claimed.
+[62] On the other hand, given the situation, the Respondent could have very well obtained a court order enjoining the Appellant to allow the premises to be visited and examined.
+[63] In light of the evidence, I am allowing for additional depreciation of $5,000 over and above the depreciation calculated by Mr. Vézina, which brings the value of the building to $44,000, i.e. $49,000 minus $5,000, to which is added the value of the land, i.e. $22,000. Consequently, I hold that the FMV of the transferred property was $66,000.
+[64] Appraising is not an exact science. It is an exercise governed by certain rules, and appraisers generally know very well that different appraisals of the same property are primarily due to appraisers’ use of comparables, to which they apply various weighting and adjustments that enable them to influence the result considerably.
+[65] In this regard, I fully agree that a comparable sale is no longer a comparable sale if many adjustments must be made to use it as a comparable sale.
+[66] It is difficult to begin with to assess the quality of an appraisal done by an expert, since the various approaches that can be taken allow for the use of different data, hence the importance of avoiding arbitrariness as much as possible.
+[67] This is also true for the comparable sales that an expert does or does not take into account. Because of possible shortcomings in this regard, the quality of an appraisal must be based not only on the use of generally accepted appraisal practices, but also on reasonability and common sense.
+[68] Consequently, I hold that the appraisal done by the Appellant’s expert, Mr. Plante, was tainted by the manifest desire to obtain the lowest possible FMV. The fact that his appraisal was conducted with this goal in mind discredits the work he did.
+[69] I therefore accept the FMV established by the Respondent’s expert, Mr. Vézina, from which I am arbitrarily deducting an amount $5,000 because he did not visit the inside of the building to ascertain the condition of the premises and to verify the seriousness of the much-discussed crack in the foundation.
+[70] It would have been desirable for the parties concerned to authorize the Respondent’s expert to visit the premises if the inside of the building needed many costly repairs.
+[71] The burden of proof was on the Appellant and the evidence submitted as to the seriousness of the interior defects did not allow me to draw solid conclusions. I therefore establish the applicable amount at $5,000, bringing the value of the property transferred on July 8, 1999 and February 17, 2000 to $66,000.
+[72] For all of these reasons, I hold that the assessment was well-founded in fact and in law and I dismiss the appeal, with costs in favour of the Respondent.
+Signed at Ottawa, Canada, this 8th day of November 2005.
+“Alain Tardif”
+Tardif, J.
+CITATION: 2005CCI622
+COURT FILE NO.: 2004-571(GST)G
+STYLE OF CAUSE: Louiselle Cliche and Her Majesty The Queen
+PLACE OF HEARING: Quebec City, Quebec
+DATE OF HEARING: April 13, 2005
+REASONS FOR JUDGMENT BY: The Honourable Judge Alain Tardif
+DATE OF JUDGMENT: November 8, 2005
+APPEARANCES:
+Counsel for the Appellant:
+Rock Roy
+Counsel for the Respondent:
+Philippe Morin
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Mr. Rock Roy
+Firm: O'Brien
+City: Quebec, Quebec
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] PINEAU, J., BURMAN, D. and GAUDET, S., Théorie des obligations (3rd ed.), Montreal, Thémis, 1996, page 543.

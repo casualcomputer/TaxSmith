@@ -1,0 +1,246 @@
+---
+title: "The Humber College Institute of Technology & Advanced Learning v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/31170/index.do"
+last_modified: "2013-05-07"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2013 TCC 146"
+citation2: ""
+neutral_citation: "2013 TCC 146"
+decision_date: "2013-05-07"
+language: "en"
+item_id: "31170"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5064
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T09:07:59.320000+00:00"
+cases_cited_count: 2
+cases_citing_count: 5
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "7979a95a42068361b115384f8ce70c743d9a3a7932298229896b8522955fea6e"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# The Humber College Institute of Technology & Advanced Learning v. The Queen
+
+- Citation: 2013 TCC 146
+- Decision date: 2013-05-07
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5064, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+The Humber College Institute of Technology & Advanced Learning v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2013-05-07
+Neutral citation
+2013 TCC 146
+File numbers
+2012-1721(GST)I
+Judges and Taxing Officers
+Campbell J. Miller
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2012-1721(GST)I
+BETWEEN:
+THE HUMBER COLLEGE INSTITUTE
+OF TECHNOLOGY & ADVANCED LEARNING,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on April 16, 2013, at Toronto, Ontario
+By: The Honourable Justice Campbell J. Miller
+Appearances:
+Counsel for the Appellant:
+David M. Sherman
+Counsel for the Respondent:
+Tony Cheung
+____________________________________________________________________
+JUDGMENT
+The Appeal from the assessment made under the Excise Tax Act (the "Act") for the periods ended April 1, 2007 and July 31, 2008, is allowed and referred back to the Minister of National Revenue for reassessment on the basis the interest to be paid pursuant to section 280 of the Act is on the amount of the Goods and Services Tax payable as at the Payment Due Date, as defined in the attached Reasons, less the allowable rebate under subsection 259(3) of the Act, that is, interest is to be paid only on the net amount.
+Signed at Vancouver, British Columbia, this 7th day of May 2013.
+"Campbell J. Miller"
+C. Miller J.
+Citation: 2013 TCC 146
+Date: 20130507
+Docket: 2012-1721(GST)I
+BETWEEN:
+THE HUMBER COLLEGE INSTITUTE
+OF TECHNOLOGY & ADVANCED LEARNING,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+C. Miller J.
+[1] This is an intriguing example of legislation intended to assist a taxpayer, causing a well-intentioned taxpayer greater harm than a less well-intentioned taxpayer. Some, certainly Mr. Sherman, the Appellant’s counsel, calls the result an absurdity. Mr. Cheung, the Respondent’s counsel, denies there is any absurdity but maintains the legislation does just what it is intended to do. Let me briefly explain.
+[2] Due to a late filing and rebate application, The Humber College Institute of Technology & Advanced Learning ("Humber") was assessed interest on the full amount of Goods and Services Tax ("GST") arising on the purchase of certain real property, without taking into account the 67% rebate available to Humber. Had Humber not voluntarily come forward and filed and applied for the rebate, which led to an assessment, but had been assessed by the Minister of National Revenue (the "Minister") without having done so, subsection 296(2.1) of the Excise Tax Act (the "Act") would have come to the taxpayer’s rescue to the effect the 67% rebate would offset the GST retroactively to the period for which the tax was assessed, thus not incurring interest pursuant to subsection 280(1) of the Act on the full amount of the GST.
+Facts
+[3] The Parties provided an Agreed Statement of Facts, which I reproduce with minor editorial changes to be consistent with definitions in these Reasons.
+Background
+1. The Appellant is The Humber College Institute of Technology and Advanced Learning ("Humber").
+2. Humber has at all material times been registered for GST/HST, with registration number 10749 7273 RT0001, and is thus a "registrant" as defined in the Act subsection 123(1). Its reporting period is the calendar month.
+3. Humber is a "public college" as defined in the Act subsection 123(1), and is a "selected public service body" as defined in the Act subsection 259(1).
+The Purchases and GST Reporting
+4. Humber purchased the following properties (the "Properties") for the amounts shown, with the purchases closing on the dates shown:
+3120 Lakeshore Blvd West, Toronto, Ontario
+("Property 1")
+$5,450,000.00
+April 24, 2007
+3170 Lakeshore Blvd West, Toronto, Ontario
+("Property 2")
+$4,800,000.00
+July 9, 2008
+110 Carrier Drive, Toronto, Ontario ("Property 3")
+$6,850,000.00
+July 16, 2008
+5. Due to subsection 228(4) of the Act, Humber as registrant was required to self-assess and pay GST on each of the above purchases. As Humber is a monthly filer, the deadline for reporting and paying the tax, under paragraph 228(4)(a), was one month after the end of the month of purchase (the "Payment Due Dates"), i.e.
+Property 1: May 31, 2007
+Property 2: August 31, 2008
+Property 3: August 31, 2008
+6. The amounts of GST payable (the "GST Payable") were:
+Property 1: $5,450,000 * .06 = $327,000.00
+Property 2: $4,800,000 * .05 = 240,000.00
+Property 3: $6,850,000 * .05 = 342.500.00
+Total $909,500.00
+7. Because Humber is a "selected public service body" under subsection 259(1) of the Act and a "public college" under subsection 123(1), Humber is generally entitled under subsection 259(3) of the Act to a rebate of 67% of GST that it pays on purchases (to the extent it is not entitled to input tax credits), including the purchase of the Properties.
+8. Humber was therefore entitled to rebates in the following amounts, being 67% of the GST Payable (the "Three Property Rebates"):
+Property 1: $327,000 * .67 = $219,090.00
+Property 2: $240,000 * .67 = 160,800.00
+Property 3: $342,500 * .67 = 229.475.00
+Total $609,365.00
+9. Under subsection 228(6) of the Act, Humber would have been entitled to offset the Three Property Rebates against the GST Payable on the Payment Due Dates if it had made payment on those dates. Net of the Three Property Rebates, the amounts due (the "Net Amounts Due") were:
+Property 1: $327,000 - $219,090 = $107,910.00
+Property 2: $240,000 - $160,800 = 79,200.00
+Property 3: $342,500 - $229,475 = 113,025.00
+Total $300,135.00
+10. Humber failed to report the purchases and to make payment of the Net Amounts Due ($300,135) on the Payment Due Dates.
+11. Humber identified its failure to self-assess the GST Payable (and to claim the offsetting Three Property Rebates). Humber reported all of Properties 1, 2 and 3 on its monthly GST/HST return for August 1 to August 31, 2008 (the "August 2008 Return"). This return and accompanying payment were received by the Minister on September 25, 2008 (the "Actual Payment Date").
+12. On the August 2008 Return, Humber reported $1,035,655 of GST and deducted rebates of $846,918.95. (The return also claimed input tax credits that are not in dispute.) Humber enclosed payment of $202,502.40 with the return.
+13. Humber also filed a Public Service Body Rebate application under section 259 of the Act for $846,918.95, which was the basis for deducting the rebates of $846,918.95 on the August 2008 Return. This rebate application was received by the Minister on September 26, 2008.
+14. The GST reported on the August 2008 Return included the $909,500 (GST Payable) in #6 above (plus other amounts not relevant to this appeal). The rebates reported on the August 2008 Return (and claimed in the Public Service Body Rebate application) included the Three Property Rebates of $609,365 in #8 above (plus other amounts not relevant to this appeal).
+The Assessments and Objection
+15. The Minister issued a Notice of Assessment dated October 21, 2008, assessing the tax payable on the purchase of the Properties as of the Payment Due Dates, plus interest under subsection 280(1) of the Act.
+16. The Minister issued a Notice of Assessment dated November 14, 2008 in respect of the Rebate Application, allowing rebates of $846,918.95 (which included the Three Property Rebates totaling $609,365) in the reporting period ending August 31, 2008.
+17. The effect of the above two Notices of Assessment was that the Minister assessed interest on the purchase of the Properties as of the Payment Due Dates, but allowed credit for the Rebates only as of when the Rebates were claimed. Put another way, the Minister effectively assessed interest on the GST Payable ($909,500) rather than on the Net Amounts Due ($300,135), for the period from the Payment Due Date until the Actual Payment Date.
+18. Humber objected to the assessment of interest on December 22, 2008, seeking reduction of the interest on the basis that the Rebates should have been applied as of the Payment Due Dates rather than as of the Actual Payment Date, so that interest on the late payment would be calculated on the Net Amounts Due ($300,135) rather than on the GST Payable ($909,500).
+19. The Minister confirmed the assessment by notice dated March 2, 2012, and Humber appealed the assessment to this Court.
+Date: April 10, 2013.
+Issue
+[4] Is Humber liable for interest pursuant to subsection 280(1) of the Act on the full amount of the GST that it was late in paying, or simply on the amount owing taking into account the allowable rebate pursuant to subsection 259(3) of the Act? If it is liable on the full amount, then the Appellant seeks a recommendation from this Court to the Minister that interest should be waived.
+Legislation
+[5] The relevant legislation is as follows:
+Obligation to pay tax:
+subsections 228(4) and (6) of the Act:
+228(4) Where tax under Division II is payable by a person in respect of a supply of real property and the supplier is not required to collect the tax and is not deemed to have collected the tax,
+(a) where the person is a registrant and acquired the property for use or supply primarily in the course of commercial activities of the person, the person shall, on or before the day on or before which the person’s return for the reporting period in which the tax became payable is required to be filed, pay the tax to the Receiver General and report the tax in that return; and
+(b) in any other case, the person shall, on or before the last day of the month following the calendar month in which the tax became payable, pay the tax to the Receiver General and file with the Minister in prescribed manner a return in respect of the tax in prescribed form containing prescribed information.
+…
+228(6) Where at any time a person files a particular return under this Part in which the person reports an amount (in this subsection referred to as the “remittance amount”) that is required to be remitted under subsection (2) or (2.3) or paid under subsection (2.1) or (4) or Division IV or IV.1 by the person and the person claims a refund or rebate payable to the person at that time under this Part (other than Division III) in the particular return or in another return, or in an application, filed under this Part with the particular return, the person is deemed to have remitted at that time on account of the person’s remittance amount, and the Minister is deemed to have paid at that time on account of the refund or rebate, an amount equal to the lesser of the remittance amount and the amount of the refund or rebate.
+Obligation to pay interest:
+section 280 of the Act:
+(1) Subject to this section and section 281, if a person fails to remit or pay an amount to the Receiver General when required under this Part, the person shall pay interest at the prescribed rate on the amount, computed for the period beginning on the first day following the day on or before which the amount was required to be remitted or paid and ending on the day the amount is remitted or paid.
+Rebate:
+subsections 259(3) and (5) of the Act:
+(3) If a person (other than a listed financial institution, a registrant prescribed for the purposes of subsection 188(5) and a person designated to be a municipality for the purposes of this section) is, on the last day of a claim period of the person or of the person’s fiscal year that includes that claim period, a selected public service body, charity or qualifying non-profit organization, the Minister shall, subject to subsections (4.1) to (4.21) and (5), pay a rebate to the person equal to the total of
+(a) the amount equal to the specified percentage of the non-creditable tax charged in respect of property or a service (other than a prescribed property or service) for the claim period, and
+(b) in the case of a person of a prescribed class resident in a participating province, the amount determined in prescribed manner for the purpose of the new harmonized value-added tax system or, in any other case, the amount equal to the specified provincial percentage of the non-creditable tax charged in respect of property or a service (other than a prescribed property or service) for the claim period.
+…
+(5) A rebate under this section in respect of a claim period in a fiscal year of a person shall not be paid to the person unless the person files an application for the rebate after the first day in that year that the person is a selected public service body, charity or qualifying non-profit organization and within four years after the day that is
+(a) where the person is a registrant, the day on or before which the person is required to file the return under Division V for the period; and
+(b) where the person is not a registrant, the last day of the period.
+Allowance for unclaimed rebate:
+subsection 296(2.1) of the Act:
+(2.1) Where, in assessing the net tax of a person for a reporting period of the person or an amount (in this subsection referred to as the “overdue amount”) that became payable by a person under this Part, the Minister determines that
+(a) an amount (in this subsection referred to as the “allowable rebate”) would have been payable to the person as a rebate if it had been claimed in an application under this Part filed on the particular day that is
+(i) if the assessment is in respect of net tax for the reporting period, the day on or before which the return under Division V for the period was required to be filed, or
+(ii) if the assessment is in respect of an overdue amount, the day on which the overdue amount became payable by the person,
+and, where the rebate is in respect of an amount that is being assessed, if the person had paid or remitted that amount,
+(b) the allowable rebate was not claimed by the person in an application filed before the day notice of the assessment is sent to the person, and
+(c) the allowable rebate would be payable to the person if it were claimed in an application under this Part filed on the day notice of the assessment is sent to the person or would be disallowed if it were claimed in that application only because the period for claiming the allowable rebate expired before that day,
+the Minister shall apply all or part of the allowable rebate against that net tax or overdue amount as if the person had, on the particular day, paid or remitted the amount so applied on account of that net tax or overdue amount
+Analysis
+[6] The Appellant raises two arguments. First, that based on a textual, contextual and purposive interpretation of section 280 of the Act, interest only runs against the after-rebate amount of 33% of unpaid GST, as that was the money that Humber was required to send in to the Canada Revenue Agency ("CRA"). Second, subsection 296(2.1) of the Act should be interpreted to apply in favour of Humber, to avoid the absurdity of a non-complying taxpayer having a greater advantage than a taxpayer like Humber, which voluntarily discloses the real estate transactions and files accordingly.
+[7] The Respondent’s position is simply that the obligation to pay GST and the application for the rebate, while both linked to the same real property transactions, arise at different times. The obligation arose for Property 1, for example, on May 31, 2007, while the application for the rebate was not made until September 26, 2008: interest is therefore owed on the full amount until that later time.
+[8] The charging provision for interest on the GST is section 280 of the Act, calling for interest on the "amount required to be remitted or paid". I will first deal with the Appellant’s argument that this provision, interpreted in a textual, contextual and purposive manner only requires that interest be charged against the GST after applying the rebate, that is on the net amounts due (approximately $300,000). This argument requires an interpretation of section 280 of the Act, which I will undertake in a textual, contextual and purposive manner. I will also address the absurdity argument in the context of the interpretation of section 280 of the Act, notwithstanding this was addressed by counsel in the context of the interpretation of subsection 296(2.1) of the Act.
+[9] Pursuant to the Act, "amount" basically means money or value in terms of money. Subsection 228(4) of the Act is the tax charging provision which requires the taxpayer to "pay the tax". Note that interest is charged on an amount, not on the tax. Subsection 259(3) of the Act, however, requires the Minister to "pay a rebate" in certain circumstances, which do apply here. Subsection 259(5) of the Act details when that rebate is to be paid, in effect on the demand of the taxpayer, who has four years within which to make that demand. So, with respect to Property 1, for example, Humber was in the position on May 31, 2007 to report the tax and claim the rebate, with the result it would have been required to remit and pay a net tax of approximately $107,000 instead of $327,000.
+[10] The Appellant argues that this result is exactly what was intended by the Government in introducing the rebate; that is, the purpose of the rebate as set out in TPO889 released by the Department of Finance on August 8, 1989, was "to ensure that the reform of the Federal Sales Tax imposes no greater burden than before reform". The technical paper goes on to state that:
+… Under this system, there will be no additional complexity for Vendors since these selected public sector organizations will pay the full amount of tax at the point of purchase and subsequently file for rebates. …
+[11] While this does reinforce the Respondent’s view that this is a timing issue, it is clear the rebate is intended to reduce unnecessary complexity in ensuring the objective of no greater burden. In effect, public organizations such as Humber were not going to have to pay any more than under the previous system. The rebate mechanism was a way to make that work efficiently, without suppliers having to figure out what rate of GST they should be applying. Considering this purpose, and the mechanism to make it work, is interest then meant to be collected on a GST amount greater than the tax intended to be collected from a public organization such as Humber? Humber would indeed be suffering a greater burden, if that was the case.
+[12] Looking contextually then at the legislation imposing interest on a public organization, it is necessary to consider all the provisions cited above. Textually, granted, they can be read literally to impose tax on the gross GST, though there is some ambiguity as to the amount in this case required to be remitted. But not only does a literal reading not appear to be in line with a purposive interpretation, neither does it accord with the contextual view.
+[13] I turn first to subsection 296(2.1) of the Act to provide context to the interpretation of subsection 280(1). It effectively recognizes that a public organization such as Humber, which may have missed applying for the rebate, will automatically have a credit against its tax applied retroactively, resulting in no interest arising on the full amount of GST prior to the rebate. Three conditions must be met to obtain this credit treatment. First, paragraph 296(2.1)(a) of the Act requires that the taxpayer would have been entitled to the rebate had the taxpayer applied for it at the time required to file the GST return; in effect, an eligibility requirement. Paragraph 296(2.1)(c) of the Act requires that, had the taxpayer applied on the date of the assessment, the rebate would be payable to the taxpayer. This obviously contemplates the situation that the Minister has not, at the time of the assessment, already paid or credited the rebate. Paragraph 296(2.1)(b) of the Act requires that the taxpayer, at the time of the assessment, had not already claimed the rebate. This appears to cover the situation where the Minister has not paid or credited the rebate but has received an application to do so. The interplay between Paragraphs 296(2.1)(b) and (c) of the Act is not exactly crystal clear to me, other than to appreciate the collective effect is to ensure there is no doubling of the credit or rebate. The overall purport of subsection 296(2.1) of the Act is clear though that the rebate available to a public organization such as Humber is intended to be effective coincidentally with the imposition of the tax.
+[14] So, with this context, I question why would a college that has not applied for the rebate, get the retroactive treatment, while a college that has applied for the rebate, such as Humber, not get such retroactive treatment? I am led to the inescapable conclusion that subsection 296(2.1) of the Act simply presumes the college applying for the rebate would naturally have the retroactive treatment. To be clear, this is not addressing Mr. Sherman’s second argument that subsection 296(2.1) of the Act applies to Humber, notwithstanding Humber does not meet the requirement of paragraph 296(2.1)(b) of the Act: I am simply addressing whether the interest charging provision, subsection 280(1) of the Act, can be interpreted in a textual, contextual and purposive manner to preclude the imposition of interest on a pre‑rebate amount in the circumstances before me.
+[15] This conclusion is also supported, contextually, by the wording of subsections 259(3) and (5) of the Act. Pursuant to subsection 259(3) of the Act, the Minister shall, subject to subsection (5) of the Act, pay a rebate to a qualifying college. Subsection (5) of the Act sets time limits on the Minister for paying the rebate, in effect on the demand by the college at any time within four years after the time for filing the return for the claim period. This is akin to a demand loan. If you are a college, you are entitled to the rebate – you only have to ask for it, and even if you do not ask for it, subsection 296(2.1) of the Act will provide it as if you had asked for it right back to day one. This only makes sense, as the right to demand the rebate arises on day one, so too should the right to have it offset the GST owing arise on day one for purposes of determining any interest owed by the college.
+[16] Further, subsection 259(5) of the Act refers to a "rebate under this section in respect of a claim period". Again, the rebate is specifically tied to the claim period in which entitlement to the rebate arose. This is in keeping with the concept that the tax and rebate are inextricably linked to the one transaction. The rebate is not with respect to any later claim period but only with respect to the earlier period: it is hand-in-hand with the imposition of the tax. The amount under subsection 280(1) of the Act that Humber failed to pay and which is subject to interest cannot be the full GST, but only the amount the legislation makes clear it was ever meant to pay – the amount after the credit of the rebate.
+[17] Mr. Cheung, the Respondent’s counsel, argues that former Chief Justice Garon’s decision in Claude Paquin v. Her Majesty the Queen[1] is dispositive of this Appeal. I disagree. Former Chief Justice Garon was dealing with late filed remittances claiming Input Tax Credits ("ITC’s"), which were only allowed as of the time of the late filing. Interest was charged accordingly on the full tax owed, without retroactively crediting the ITC’s against the tax. Interestingly, subsection 296(2) of the Act was never mentioned. Clearly, credit for ITC’s was not applied at the point when the taxpayer would have been entitled to claim them, only when the taxpayer did claim them. However, entitlement to ITC’s is not the same as entitlement to rebates, given the contextual and purposive interpretation of the legislation surrounding rebates. ITC’s are not inextricably linked to the transaction giving rise to the GST. They are not specific to clearly identified special public organizations, granted special treatment.
+[18] To this point, I have been following a positive, textual, contextual and purposive approach to the interpretation of section 280 of the Act and have concluded that the amount required to be remitted is the after-rebate GST amount. This positive reasoning is confirmed by what I would describe as a negative interpretative approach, that is, that the Respondent’s interpretation would lead to an absurdity.
+[19] Let me first outline what could be considered the absurdity in this case. If Humber claims a rebate, it only applies currently, at the time of such claim. If Humber does not claim the rebate, it applies retroactively. In effect, you claim, you pay interest: you do not claim, you do not pay interest.
+[20] Humber had three choices when it discovered its reporting error. One, it could have done nothing and waited for the CRA to discover the error and assess, in which case subsection 296(2.1) of the Act would apply and interest would only have arisen on the net amount of GST (of 33%). Two, it could file a late GST return reporting the property purchases, not apply for the rebate and wait for an assessment. Again, subsection 296(2.1) of the Act would apply and interest would only arise on the 33%. Three, it could do what it did, and file the return and apply for the rebate, resulting in the Minister seeking interest on 100% of the GST.
+[21] It seems absurd that on September 25, 2008, the day the Minister received Humber’s late-filed return, it is implicit by the operation of subsection 296(2.1) of the Act interest would only be exigible on a net amount, but the next day, September 26, the Government having received the rebate application, Humber is now responsible for interest on the full GST, the gross amount. As Mr. Spock might say, this is simply illogical.
+[22] Clearly, subsection 296(2.1) of the Act is there to help a college that has not made the rebate claim, not to harm the college that applies for a rebate it has not yet obtained.
+[23] Is this an absurdity? In Rizzo & Rizzo Shoes Ltd. (Re)[2], Justice Iacobucci had this to say:
+According to Côté, supra, [Pierre-André Côté, The Interpretation of Legislation in Canada, 2nd ed. Cowansville, Que.: Yvon Blais, 1991] an interpretation can be considered absurd if it leads to ridiculous or frivolous consequences, if it is extremely unreasonable or inequitable, if it is illogical or incoherent, or if it is incompatible with other provisions or with the object of the legislative enactment (at pp. 378-80). Sullivan echoes these comment noting that a label of absurdity can be attached to interpretations which defeat the purpose of a statute or render some aspect of it pointless or futile (Sullivan, Construction of Statutes, supra, [Ruth Sullivan, ed., Driedger on the Construction of Statutes, 3d ed. (Toronto: Butterworths, 1994)] at p. 88).
+[24] In Carswell’s Dictionary of Words and Phrases it defines absurdity as "inconsistent with the plain dictates of common sense; logically contradictory; nonsensical; ridiculous", and, as pertaining to statutory interpretation, "disharmony between the parts of a statute or between a part and the whole, or inconsistency between the statute taken as a whole and a particular result of its application. The test of absurdity is thus an objective one based on comparing two things. The test is not whether a Court or Judge thinks that the consequence of according to clear an unambiguous words their plain meaning is absurd." This is taken from the Ontario case of Carfrae Estates Ltd. v. Gamble (1979).[3]
+[25] Justice Webb explored this concept in some detail in Pawlak v The Queen,[4] where he was dealing with subsection 296(2) of the Act, the sister provision of subsection 296(2.1) of the Act, claiming a literal interpretation of paragraph 296(2)(b) of the Act will lead to illogical results:
+A literal interpretation would lead to the illogical result that claiming the ITCs in a late filed return would result in the Appellants not being able to receive the benefit of having such ITCs taken into account in determining their net tax but failing to include such ITCs in such a late filed return would mean that the Appellants could receive the benefit of having such ITCs being taken into account in determining their net tax.
+[26] I will not go into any more of the detail of this case at this stage, other than as an example of reliance on the principle that legislation should be interpreted not to produce absurd consequences.
+[27] The comparison, I would suggest, is between the relevant provisions of the Act taken as a whole, as outlined above, versus a particular result of its application. As I have concluded, taking a constructive approach, the Act intends to offset the rebate against the tax at the time the tax arises. The result of applying subsection 280(1) of the Act literally would not just lead to disharmony but to a completely opposite result from the intent of the legislation.
+[28] So, Humber is obligated under subsection 280(1) of the Act to pay interest on an amount it failed to pay when required. I conclude the only logical interpretation on a textual, contextual and purposive approach is that the amount it failed to pay was not the full amount of GST but the amount less the amount of its virtual demand note. Further, I conclude it would be absurd to decide otherwise.
+[29] The second argument raised by the Appellant relying on the Pawlak case already mentioned is that subsection 296(2.1) of the Act should be interpreted as applying to Humber’s situation. I have raised subsection 296(2.1) of the Act as providing context for the interpretation of subsection 280(1) of the Act. I now address whether subsection 296(2.1) of the Act can be interpreted to effectively write out the requirement in paragraph 296(2.1)(b) of the Act, which the Appellant suggests I do based on the absurdity argument.
+[30] This is a more difficult argument for the Appellant to make, as the wording in paragraph 296(2.1)(b) of the Act leaves little room for ambiguity, as does the more general wording of subsection 280(1) of the Act. The Appellant argues that the purpose of paragraph 296(2.1)(b) of the Act is to avoid a doubling-up of the rebate, and consequently, I should ignore the plain meaning of the requirement that no claim has been applied for, provided the claim had not at the time of the reassessment resulted in the rebate. The Appellant argues that this is a similar approach to that followed by Justice Webb in the Pawlak case, though with respect to subsection 296(2) of the Act dealing with Input Tax Credits. Not quite.
+[31] While I am prepared to rely on the general comments by Justice Webb in support of my finding on the first argument, in particular the finding of an absurd result, the application of his more specific reasoning with respect to subsection 296(2) of the Act cannot holus bolus be applied to subsection 296(2.1) of the Act. There are a couple of significant differences.
+[32] First, paragraph 296(2)(b) of the Act has the additional wording "was so claimed but was disallowed by the Minister". This led Justice Webb in Pawlak to comment:
+17. If a literal interpretation of paragraph 296(2)(b) of the ETA is applied and an order were to be issued by this Court, as provided in subparagraph 309(1)(b)(ii) of the Act, requiring the Minister to reassess the net tax of the Appellants as provided in subsection 296(2) of the ETA, then, when the Appellants are reassessed in compliance with such an Order, the conditions of subparagraph 296(2)(b) of the ETA would be satisfied as on the date of such reassessment the ITCs claimed would have been previously disallowed. It does not seem to me that it would have been intended that persons affected by an assessment of net tax would be denied the benefit of subsection 296(2) of the ETA only to have the benefit of this provision reinstated as a result of an Order of this Court requiring the Minister to again reassess that person.
+[33] Also, Justice Webb concluded that paragraph 296(2)(b) of the Act could apply as:
+19. It seems to me that the purpose of the condition in paragraph 296(2)(b) of the ETA is to ensure that a person has not already been allowed the benefit of such ITCs in determining that person’s net tax for any reporting period. Therefore, the condition in paragraph 296(2)(b) of the ETA will be satisfied as long as the ITCs had not been previously allowed as ITCs in computing the net tax of the person for any reporting period. In this case, the Appellants satisfy this condition.
+[34] Finally, as Justice Webb pointed out, the Respondent did not argue that the Appellants did not satisfy the requirements of paragraph 296(2)(b) of the Act.
+[35] I do not have the same section of the Act, nor the same circumstances before me. I do not know how I can interpret a requirement that "the allowable rebate was not claimed by the person in an application filed before the day notice of the assessment is sent to the person", in any manner other than how the text reads. While the purpose of this provision assists me in resolving some ambiguity with respect to the imposition of interest pursuant to section 280 of the Act, it is insufficient to overcome the clear meaning of the requirement itself. Did Humber file an application before the assessment? Yes, it did: subsection 296(2.1) of the Act is simply not available to it. If this is not the result intended, and I have concluded it likely is not, then it is not for the Court to simply ignore the requirement. If the clear reading of the provision does not serve the purpose intended, it is for the legislators to amend the wording.
+[36] It is not the application of subsection 296(2.1) of the Act that leads to an absurd result, but its non-application to Humber circumstances that leads to an absurd interpretation of section 280 of the Act. I do not accept the Appellant’s second argument that the clear words of subsection 296(2.1) of the Act can be stretched to the point that they can effectively be ignored.
+[37] I do, however, allow the Appeal based on the Appellant’s first argument that section 280 of the Act only imposes interest on the after-rebate amount owing by Humber, and therefore refer the matter back to the Minister for reassessment on
+that basis. If I am incorrect in this interpretation, then I would recommend that in these circumstances an application for a waiver of interest would be in order.
+Signed at Vancouver, British Columbia, this 7th day of May 2013.
+"Campbell J. Miller"
+C. Miller J.
+CITATION: 2013 TCC 146
+COURT FILE NO.: 2012-1721(GST)I
+STYLE OF CAUSE: THE HUMBER COLLEGE INSTITUTE OF TECHNOLOGY & ADVANCED LEARNING AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: April 16, 2013
+REASONS FOR JUDGMENT BY: The Honourable Justice Campbell J. Miller
+DATE OF JUDGMENT: May 7, 2013
+APPEARANCES:
+Counsel for the Appellant:
+David M. Sherman
+Counsel for the Respondent:
+Tony Cheung
+COUNSEL OF RECORD:
+For the Appellant:
+Name: David M. Sherman
+Firm:
+For the Respondent: William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] 2004 TCC 597.
+[2] [1998] 1 S.C.R. 27.
+[3] 97 D.L.R. (3d) 162 at 164.
+[4] 2012 TCC 355.

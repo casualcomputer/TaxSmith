@@ -1,0 +1,414 @@
+---
+title: "Martin c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29045/index.do"
+last_modified: "2009-01-05"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 CCI 3"
+citation2: ""
+neutral_citation: "2009 CCI 3"
+decision_date: "2009-01-05"
+language: "fr"
+item_id: "29045"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6854
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T12:19:59.906000+00:00"
+cases_cited_count: 4
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "2023cf3e993d604a12da8e0906ccd66b8e72639d7c13b2bfe665b1516d323ea7"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Martin c. La Reine
+
+- Citation: 2009 CCI 3
+- Decision date: 2009-01-05
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6854, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Martin c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2009-01-05
+Référence neutre
+2009 CCI 3
+Numéro de dossier
+2007-2808(IT)I
+Juges et Officiers taxateurs
+Theodore E. Margeson
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2007-2808(IT)I
+ENTRE :
+WAYNE MARTIN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appels entendus sur preuve commune avec les appels de
+John R. Balkwill (2007-2809(IT)I), Michael Martin (2007-2810(IT)I),
+et Douglas J. Balkwill (2007-2811(IT)I),
+le 20 octobre 2008 à Windsor (Ontario)
+Devant : L’honorable juge T. E. Margeson
+Comparutions :
+Avocat de l’appelant :
+Me John Mill
+Avocat de l’intimée :
+Me Andrew Miller
+JUGEMENT
+Les appels interjetés à l’encontre des cotisations établies en application de la Loi de l’impôt sur le revenu à l’égard des années d’imposition 2003 et 2004 de l’appelant sont rejetés.
+Signé à New Glasgow (Nouvelle‑Écosse) ce 5e jour de janvier 2009.
+« T. E. Margeson »
+Juge Margeson
+Traduction certifiée conforme
+ce 25e jour de mars 2009.
+Hélène Tremblay, traductrice
+Dossier : 2007-2809(IT)I
+ENTRE :
+JOHN R. BALKWILL,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appels entendus sur preuve commune avec les appels de
+Wayne Martin (2007-2808(IT)I), Michael Martin (2007-2810(IT)I),
+et Douglas J. Balkwill (2007-2811(IT)I),
+le 20 octobre 2008 à Windsor (Ontario)
+Devant : L’honorable juge T. E. Margeson
+Comparutions :
+Avocat de l’appelant :
+Me John Mill
+Avocat de l’intimée :
+Me Andrew Miller
+JUGEMENT
+Les appels interjetés à l’encontre des cotisations établies en application de la Loi de l’impôt sur le revenu à l’égard des années d’imposition 2003 et 2004 de l’appelant sont rejetés.
+Signé à New Glasgow (Nouvelle‑Écosse) ce 5e jour de janvier 2009.
+« T. E. Margeson »
+Juge Margeson
+Traduction certifiée conforme
+ce 25e jour de mars 2009.
+Hélène Tremblay, traductrice
+Dossier 2007-2810(IT)I
+ENTRE :
+MICHAEL MARTIN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appels entendus sur preuve commune avec les appels de
+John R. Balkwill (2007-2809(IT)I), Wayne Martin (2007-2808(IT)I),
+et Douglas J. Balkwill (2007-2811(IT)I),
+le 20 octobre 2008 à Windsor (Ontario)
+Devant : L’honorable juge T. E. Margeson
+Comparutions :
+Avocat de l’appelant :
+Me John Mill
+Avocat de l’intimée :
+Me Andrew Miller
+JUGEMENT
+Les appels interjetés à l’encontre des cotisations établies en application de la Loi de l’impôt sur le revenu à l’égard des années d’imposition 2003 et 2004 de l’appelant sont rejetés.
+Signé à New Glasgow (Nouvelle‑Écosse) ce 5e jour de janvier 2009.
+« T. E. Margeson »
+Juge Margeson
+Traduction certifiée conforme
+ce 25e jour de mars 2009.
+Hélène Tremblay, traductrice
+Dossier : 2007-2811(IT)I
+ENTRE :
+DOUGLAS J. BALKWILL,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appels entendus sur preuve commune avec les appels de
+John R. Balkwill (2007-2809(IT)I), Michael Martin (2007-2810(IT)I),
+et Wayne Martin (2007-2808(IT)I),
+le 20 octobre 2008 à Windsor (Ontario)
+Devant : L’honorable juge T. E. Margeson
+Comparutions :
+Avocat de l’appelant :
+Me John Mill
+Avocat de l’intimée :
+Me Andrew Miller
+JUGEMENT
+Les appels interjetés à l’encontre des cotisations établies en application de la Loi de l’impôt sur le revenu à l’égard des années d’imposition 2003 et 2004 de l’appelant sont rejetés.
+Signé à New Glasgow (Nouvelle‑Écosse) ce 5e jour de janvier 2009.
+« T. E. Margeson »
+Juge Margeson
+Traduction certifiée conforme
+ce 25e jour de mars 2009.
+Hélène Tremblay, traductrice
+Référence : 2009CCI3
+Date : 20090105
+Dossier : 2007-2808(IT)I
+ENTRE :
+WAYNE MARTIN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2007-2809(IT)I
+ET ENTRE :
+JOHN R. BALKWILL,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2007-2810(IT)I
+ET ENTRE :
+MICHAEL MARTIN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2007-2811(IT)I
+ET ENTRE :
+DOUGLAS J. BALKWILL,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Margeson
+[1] Il a été convenu d’emblée que les présents appels seraient entendus ensemble sur preuve commune.
+[2] En ce qui concerne l’appelant John R. Balkwill, le ministre a inclus des frais pour droit d’usage d’une automobile s’élevant à 5 201 $ et à 5 908 $ dans le calcul des revenus de ce dernier pour les années d’imposition 2003 et 2004, respectivement. De plus, le ministre a inclus un avantage relatif au fonctionnement d’une automobile s’élevant à 3 400 $ dans le calcul des revenus de l’appelant pour les années d’imposition 2003 et 2004. Le ministre a aussi inclus des avantages à un actionnaire s’élevant à 8 548 $ et à 8 599 $ dans le calcul des revenus de l’appelant pour les années d’imposition 2003 et 2004, respectivement.
+[3] En ce qui concerne l’appelant Wayne Martin, le ministre a inclus des frais pour droit d’usage d’une automobile s’élevant à 5 495 $ et un avantage relatif au fonctionnement d’une automobile s’élevant à 3 400 $ dans le calcul des revenus de ce dernier pour les années d’imposition 2003 et 2004. De plus, le ministre a inclus des avantages à un actionnaire s’élevant à 13 796 $ et à 8 212 $ dans le calcul des revenus de l’appelant pour les années d’imposition 2003 et 2004, respectivement.
+[4] En ce qui concerne l’appelant Douglas J. Balkwill, le ministre a inclus des frais pour droit d’usage d’une automobile s’élevant à 7 519,07 $ et un avantage relatif au fonctionnement d’une automobile s’élevant à 3 200,64 $ dans le calcul des revenus de ce dernier pour les années d’imposition 2003 et 2004.
+[5] En ce qui concerne l’appelant Michael Martin, le ministre a inclus des frais pour droit d’usage d’une automobile s’élevant à 8 227,11 $ et à 6 669,98 $ dans le calcul des revenus de ce dernier pour les années d’imposition 2003 et 2004, respectivement. De plus, le ministre a inclus des frais d’automobile s’élevant à 3 200,64 $ et à 2 400,48 $ dans le calcul des revenus de l’appelant pour les années d’imposition 2003 et 2004, respectivement.
+[6] Les présents appels sont interjetés à l’encontre des cotisations dont il est question ici.
+Témoignages
+[7] David H. Cornies est un comptable agréé de Leamington (Ontario) qui s’occupait de la comptabilité de la société Balkwill/Martin Electric Ltd. (la « société ») et des particuliers pendant les années en cause.
+[8] Il a reconnu la pièce A-1 concernant la Windstar 2003 de Ford (la « Windstar »), selon laquelle Bonnie Martin est désignée comme ayant été la conductrice principale du véhicule pendant les années d’imposition 2003 et 2004 et selon laquelle il est précisé que des frais raisonnables pour droit d’usage d’une automobile ont été calculés pour ces années et inclus dans les états de rémunération payée, soit les feuillets T4, de cette dernière pour ces mêmes années.
+[9] Dans la deuxième lettre, il est question de Phyllis Balkwill et de son utilisation, à titre de conductrice principale, de la 300M 2002 de Chrysler (la « 300M »). Dans cette lettre, il est précisé que des frais raisonnables pour droit d’usage d’une automobile ont été calculés pour ces années et inclus dans l’état de rémunération payée, soit le feuillet T4, de cette dernière pour l’année 2003, alors qu’elle était une employée de la société. Aucun frais n’a été inclus dans son feuillet T4 pour l’année 2004 étant donné qu’elle n’avait aucun autre gain provenant de la société. Toutefois, dans l’établissement de sa déclaration de revenus pour l’année d’imposition 2004, le montant de 4 160 $ a été inclus dans ses revenus à titre de frais raisonnables pour droit d’usage d’une automobile et inclus dans ses revenus inscrits à la ligne 1404 de sa déclaration.
+[10] M. Cornies n’avait jamais vu les baux inclus à la pièce A‑1.
+[11] Il s’agit de documents concernant la location de la F-150 4X4 SC 2005 de Ford (la « F-150 »). Selon M. Cornies, ces documents ont été inclus dans la pièce par erreur.
+[12] Lors du contre‑interrogatoire, il a affirmé ne pas avoir eu personnellement connaissance du fait que Bonnie Martin conduisait le véhicule, mais qu’on lui avait dit qu’elle le conduisait. Le feuillet T4 a donc été établi en fonction des renseignements reçus.
+[13] Il a reconnu les documents concernant la location de la Windstar compris dans la pièce R‑1 et a convenu qu’il s’agissait bien du nom de Michael W. Martin figurant sur les documents.
+[14] En ce qui concerne la 300M, on a dit à M. Cornies que c’est la société qui l’avait louée. John R. Balkwill en était le locataire officiel, mais M. Cornies savait que c’était plutôt Phyllis Balkwill qui l’utilisait à des fins commerciales.
+[15] En réinterrogatoire, M. Cornies a dit qu’il arrivait parfois à certaines de ses petites entreprises clientes de prendre des locations au nom de particuliers plutôt qu’au nom de l’entreprise, étant donné la difficulté des petites entreprises à obtenir du financement.
+[16] Dans son témoignage, John Robert Balkwill (ci‑après « John Balkwill ») a affirmé qu’il était actionnaire à 50 % de la société et que Wayne Martin détenait l’autre 50 % des actions. La société se spécialise dans l’installation, l’entretien et la surveillance de systèmes de régulation du climat de complexes de serres. John Balkwill répond à plusieurs appels d’urgence par jour. La société fournit des services d’entretien tous les jours, 24 heures sur 24. John Balkwill répond à des appels après les heures normales de service environ trois à quatre fois par semaine. Il doit se rendre sur les lieux en moins de 15 minutes. La société est responsable d’environ 1 000 à 1 500 acres de serres. Elle offre aussi des services de travaux électriques. Elle a une structure entièrement informatisée et compte normalement entre 12 et 38 employés.
+[17] John Balkwill a affirmé que son épouse, Phyllis Balkwill, était commis comptable et gestionnaire à la société en 2003 et en 2004. Pendant cette période, elle conduisait la 300M à des fins commerciales. Elle se rendait à la banque, allait chercher des fournitures et se rendait au bureau de l’avocat de la société. Elle utilisait l’automobile à des fins personnelles également. John Balkwill n’utilisait ce véhicule ni à des fins personnelles, ni à des fins commerciales.
+[18] En 2004, Phyllis Balkwill n’était pas une employée de la société, mais elle conduisait tout de même l’automobile.
+[19] En ce qui concerne la Windstar, les employés la conduisaient, mais pas John Balkwill.
+[20] En ce qui concerne l’Expedition 2003 (l’« Expedition »), John Balkwill l’a conduite pendant neuf mois, mais seulement à des fins commerciales. Il a expliqué que la société avait acheté ce véhicule entre autres pour pouvoir y mettre de l’équipement et des fournitures. Il semble que la température était plus stable dans l’Expedition que dans la camionnette.
+[21] Le véhicule était stationné dans l’entrée de cour de John Balkwill, qui se trouvait à 35 kilomètres des locaux de l’entreprise.
+[22] John Balkwill était en disponibilité en tout temps. Il y a eu des introductions par effraction et des vols à son bureau étant donné qu’il n’y avait aucun système de sécurité ni aucune clôture. Il ne se rendait que rarement à son bureau. Il avait un bureau à sa résidence et il pouvait faire le suivi des serres de là. La société comptait environ 150 clients réguliers.
+[23] John Balkwill a décrit l’Expedition comme comportant une banquette arrière complète et des portes. Il l’utilisait parfois pour transporter d’autres travailleurs. La 300M était stationnée chez lui, et son épouse l’utilisait à des fins personnelles. Il lui arrivait d’accompagner son épouse dans cette automobile. Aucun registre n’a été tenu pour les années 2003 et 2004.
+[24] Il a présenté le registre qu’il a lui‑même établi pour l’année 2006 à l’aide des feuilles de temps. Il a déposé le registre en preuve sous la cote A‑2. Il ne se souvenait pas avoir pris connaissance de la pièce R‑1, onglet 17, qui est un résumé du kilométrage effectué par Doug Balkwill entre le 19 juin et le 1er novembre 2006.
+[25] Il a expliqué que l’onglet 9 de la pièce R‑1 est une photocopie d’une photo de la banquette arrière de la camionnette de Doug Balkwill sur laquelle on retrouve des outils, des batteries, des perceuses et des chargeurs de batterie. Il y avait une banquette, mais il n’y avait pas beaucoup d’espace derrière la porte.
+[26] Une demande avait été faite à savoir s’il était possible d’avoir le véhicule sans banquette, mais il semble que ceci aurait coûté plus cher. Le véhicule servait normalement au transport de biens et à transporter les ouvriers pour se rendre au chantier et en revenir. Il pouvait contenir une personne, mais pas une personne très corpulente. Michael Martin conduisait un véhicule identique.
+[27] La page 2 de l’onglet 9 de la pièce R‑1 est une photocopie d’une photo de la banquette arrière du véhicule de Micheal Martin. Selon Micheal Martin, le registre établi en 2006 était représentatif de l’utilisation des véhicules faite en 2003 et en 2004.
+[28] La pièce A‑3 a été déposée en preuve, sous réserve du poids devant lui être accordé. Elle contenait un prétendu registre des travaux effectués par Douglas Balkwill pendant l’année 2005. Ce registre a été établi à la suite d’une demande expresse et l’information a été reconstituée à partir des relevés quotidiens.
+[29] John Balkwill parcourait moins de 20 000 kilomètres par année, ce qui correspondait également à la distance parcourue par Douglas Balkwill. John Balkwill habite à 3 kilomètres de son bureau.
+[30] La pièce A‑4 était une carte de Live Search indiquant la distance entre la résidence de Douglas Balkwill et son bureau. La pièce A‑3 représentait une journée typique pour John Balkwill et Douglas Balkwill en 2005. Elle correspondait aussi à l’utilisation faite par John Balkwill du véhicule en 2003 et en 2004. Ce dernier n’utilisait pas son véhicule à des fins personnelles, mais il devait l’apporter chez lui afin d’y entreposer des outils et des fournitures. Une camionnette ne convenait pas, parce qu’elle n’était pas adaptée aux matériaux. La société devait donc avoir des camionnettes ainsi que d’autres types de véhicules.
+[31] La société avait déjà fait l’objet d’une vérification et n’avait eu aucun problème à cet égard. John Balkwill a cité une lettre de l’Agence du revenu du Canada (l’« ARC ») datée du 23 septembre 2005, déposée sous la cote R‑1, onglet 16. La lettre portait sur la vérification comme telle et sur les documents que la société devait produire. Il n’existait aucun registre pour les années visées.
+[32] L’onglet 18 de la pièce R‑1 était une liste de tous les employés qui conduisaient des véhicules de la société à des fins commerciales.
+[33] La société a plusieurs véhicules servant à des fins commerciales mais enregistrées au nom des Balkwill pour des raisons de financement. La différence entre le véhicule de John Balkwill et ceux des épouses était que son véhicule à lui servait à transporter des matériaux.
+[34] Lors du contre‑interrogatoire, John Balkwill a affirmé qu’il était un actionnaire et un employé de la société pendant les années en cause. Wayne Martin était l’autre actionnaire. John et Douglas Balkwill, Wayne Martin, ainsi que Abe Friesen répondaient à tous les appels d’urgence. John Balkwill avait accès à l’Expedition et il en était l’utilisateur régulier. C’est lui qui a signé le bail. Il nie être celui qui a coché la case indiquant que l’utilisation du véhicule était à des fins personnelles. Il n’a fait que jeter un coup d’œil rapide au bail. Le véhicule était au nom de la société.
+[35] John Balkwill avait accès à la Windstar. Elle avait été louée pour la société.
+[36] L’onglet 17 de la pièce R-1 était un résumé du kilométrage parcouru par Doug Balkwill, tel qu’établi par les comptables. Le résumé comptait un certain nombre de kilomètres parcourus à des fins personnelles, mais Doug Balkwill a nié avoir utilisé le véhicule à des fins personnelles. Le comptable a fourni ces chiffres à l’ARC.
+[37] Lorsqu’on lui a montré les photos des F-150 de Ford, à l’onglet 9 de la pièce R‑1, John Balkwill a dit qu’il pensait qu’elles n’avaient qu’une seule porte à l’arrière et non deux.
+[38] Il ne pouvait pas expliquer pourquoi il était indiqué sur le bail que le véhicule serait utilisé à des fins personnelles alors qu’il servait à des fins commerciales.
+[39] Tous les autres employés apportaient les véhicules avec eux à la maison les fins de semaine et y avaient accès. On ne les empêchait pas de les utiliser à des fins personnelles.
+[40] Douglas Balkwill a peut‑être utilisé la F-150 en 1999, mais il n’était pas contremaître d’atelier à cette époque.
+[41] John Balkwill était au courant des montants inclus dans sa cotisation et a dit qu’ils n’avaient pas été inclus dans sa déclaration de revenus. Tous les véhicules étaient loués par la société, même celui qui était à son nom à lui. La société payait la location et les primes d’assurances.
+[42] Il a convenu que le montant concernant la 300M inclus dans la cotisation représentait l’utilisation que son épouse avait faite du véhicule.
+[43] L’intimée a appelé Diana Masters, qui a été vérificatrice auprès de l’ARC pendant sept ans, à témoigner. Elle connaissait bien les dossiers qui avaient été utilisés pour la vérification du niveau d’observation de la société. Elle a fait la vérification de plus d’une centaine de comptes semblables. Les frais pour droit d’usage d’une automobile et l’avantage relatif au fonctionnement d’une automobile s’appliquent suivant l’article 248 de la Loi de l’impôt sur le revenu (la « Loi »). Il y a aussi des véhicules qui étaient au nom de chacun des actionnaires et qui ont été inclus dans la cotisation en application d’un autre article de la Loi.
+[44] Les véhicules ont fait l’objet d’une inspection dans le parc de stationnement de la société. Mme Masters savait qu’il y avait des banquettes à l’arrière des F-150 où on pouvait asseoir une ou deux personnes. Sa tâche était de voir si tous les avantages imposables avaient été déclarés correctement.
+[45] Elle a reconnu le document à l’onglet 10 de la pièce R‑1 et a dit qu’il avait été établi par Debbie Ouellette, la commis comptable de la société, et que c’est elle qui le lui avait remis. Elle a reconnu les baux des divers véhicules.
+[46] On tient compte des deux‑tiers des paiements de location dans le calcul des avantages. Mme Masters a reconnu le document concernant les assurances à l’onglet 11 de la pièce R‑1. L’ensemble des documents d’assurances énumérait les biens personnels des actionnaires.
+[47] Elle a mentionné les véhicules en cause figurant à l’onglet 11 de la pièce R‑1 ainsi que les paiements de prêts à des actionnaires figurant à l’onglet 13 de cette même pièce. Elle a aussi examiné le registre de la liste de paie, qui se trouve à l’onglet 14 de la pièce R‑1, et a dit qu’aucun des contribuables n’avait reçu d’avantage.
+[48] Elle a reconnu la lettre datée du 23 septembre 2005 à l’onglet 16 de la pièce R‑1 concernant une rencontre prévue entre la société et l’ARC. C’est elle qui avait envoyé cette lettre dans laquelle elle demandait qu’on fournisse divers documents en vue de la rencontre, y compris les registres pour les véhicules. Cependant, aucun registre ne pouvait être fourni. Elle a aussi reconnu l’onglet 18 de la pièce R‑1, soit la liste des employés, qui avait été établie par Debbie Ouellette.
+[49] Lors du contre‑interrogatoire, Mme Masters a confirmé que la banquette arrière des F-150 pouvait accueillir deux personnes, selon la taille de celles‑ci. Il n’y avait rien à l’onglet 12 de la pièce R‑1 concernant de quelconques véhicules personnels. En ce qui concerne la 300M, Mme Masters l’a évaluée correctement en fonction du fait qu’il s’agissait d’un véhicule appartenant à un particulier.
+[50] Lors du réinterrogatoire, elle a affirmé avoir photocopié les pages pertinentes du plus important document d’assurances et a désigné la 300M comme un véhicule utilisé à des fins personnelles.
+[51] Abe Friesen était un électricien, un technicien des contrôles et un technicien en entretien et en réparation travaillant pour la société. Il a travaillé pour la société en 2003 et en 2004. Il faisait des travaux d’entretien et de réparation ainsi que du dépannage informatique. Il travaille toujours auprès de la société.
+[52] La société reçoit un appel de demande de réparation chaque trois ou cinq semaines, mais normalement, les clients demandent à parler aux patrons. Si ces derniers sont à l’extérieur de la ville, c’est M. Friesen ou un autre technicien qui répond. Pour ce qui est des appels de jour, M. Friesen s’occupe de 80 % des urgences. Il a affirmé : [traduction] « Je m’occupe de la plupart des demandes de réparations ».
+[53] Lors du contre‑interrogatoire, M. Friesen a affirmé que John Balkwill et Wayne Martin s’occupaient de la majorité des appels reçus en soirée. Selon M. Friesen : [traduction] « John s’occupe des questions informatiques ». Il a aussi affirmé qu’il répondait maintenant à plus d’appels d’urgence qu’il ne le faisait en 2003 et en 2004 parce qu’il est mieux formé maintenant et il est électricien agréé.
+[54] En réponse à une autre question posée par l’avocat des appelants, il a affirmé qu’il répondait aussi à des appels de nuit pendant les années en cause.
+[55] Michael Wayne Martin était un électricien travaillant auprès de la société depuis 1994. Le « W » dans la raison sociale de la société renvoie à son nom. Il a décrit l’entreprise comme fournissant des services d’électriciens et d’installation de systèmes de régulation du climat de complexes de serres. Ceci représentait 90 % des activités de la société. L’entretien constituait le tiers de ces activités.
+[56] Il était le gestionnaire de tous les jours lorsque John Balkwill se rendait chez les clients.
+[57] Il se rend à l’atelier tôt chaque matin. Le soir, il rentre du bureau. Il se rend aussi au bureau de poste et il se rend chez les clients pour faire des évaluations et recouvrer des paiements dus. Il conduit une camionnette F‑150 avec une cabine de conduite de taille normale, une banquette à l’avant et une autre petite banquette à l’arrière. Il y a une portière qui s’ouvre contre le vent de chaque côté, à l’arrière. Pour ouvrir ces portes, il faut d’abord ouvrir les portières avant. Il n’y a pas de poignée à l’extérieur.
+[58] Il utilise ce véhicule pour entreposer des matériaux et des outils et pour les garder au sec. Il l’a déjà utilisé pour aller chercher un autre travailleur, mais la personne doit s’asseoir presque de côté sur la banquette arrière. Il l’utilisait à des fins personnelles à peu près six fois par année.
+[59] Il utilise aussi le véhicule pour se rendre au magasin chaque deux semaines, environ. Autrement, son épouse et lui utilisent la fourgonnette de son épouse.
+[60] Il l’utilise aussi deux fois par année pour se rendre au lac et en revenir, soit pour parcourir une distance totale de 4 200 kilomètres. Il a reconnu les photos de véhicules du même type que le sien, comme ce qui était compris dans la pièce A‑5. La pièce A‑6 énonçait la distance entre son domicile et son lieu de travail, soit 11,7 kilomètres.
+[61] Lorsqu’il est à la maison, le soir ou la fin de semaine, il peut toujours recevoir un appel pour se rendre au travail. M. Friesen s’occupe des demandes de réparation et de dépannage informatique pendant le jour et parfois le soir et la fin de semaine.
+[62] Il entreposait ses outils dans la cabine étroite déportée afin de les garder au sec et pour ne pas se les faire voler. Sa camionnette est plus sécuritaire qu’une fourgonnette.
+[63] Le dernier jour de travail de Phyllis Balkwill auprès de la société était le 2 janvier 2004. Il conduisait une F‑150 et son épouse a commencé à conduire l’Explorer, puis la Windstar. L’Explorer restait alors sur place, à la société. Son épouse s’occupait de faire le ménage dans les bureaux et elle allait chercher des fournitures.
+[64] Il a admis que la F-150 était à son nom, mais il a affirmé que c’est la société qui en était propriétaire. La Windstar était aussi utilisée à l’occasion pour conduire des travailleurs à des séances de formation.
+[65] Un avantage concernant la Windstar a été inclus dans le feuillet T4 de son épouse.
+[66] Il a reconnu la pièce A‑7, soit un registre de kilométrage qu’il avait lui‑même établi à l’égard de la F‑150 en fonction de ses déplacements réels en 2008. Selon lui, les chiffres dans ce registre sont assez semblables à ceux pour les années 2003 et 2004. Il parcourait entre 20 000 et 30 000 kilomètres par année, selon le kilométrage du véhicule au moment où il l’a rapporté.
+[67] La pièce A‑8 était un registre des kilomètres réellement parcourus en 2006 par le véhicule que conduisait son fils. Ce dernier était apprenti et ne possédait aucun autre véhicule. Le véhicule qu’il conduisait était aussi une F-150. Le témoin n’était pas en mesure de dire quelle utilisation son fils faisait du véhicule pendant les fins de semaines. Il estimait qu’il s’agissait peut-être d’environ 10 % du kilométrage réel. Lors du contre‑interrogatoire, il a convenu que les kilomètres parcourus pour les voyages au chalet n’étaient pas inclus dans la pièce A‑7.
+[68] Il était un actionnaire et un employé de la société. Si tout le monde était occupé, il faisait des travaux d’entretien. Il lui arrivait parfois de travailler sur demande.
+[69] La banquette arrière de son véhicule était séparée. Il y a eu des vols sur les lieux des bureaux de la société. Des rapports de police ont été déposés.
+[70] Phyllis Balkwill n’a reçu aucun chèque de paie en 2004. Elle n’a pas travaillé pour la société. Il a admis que la fin de semaine, ils utilisaient la Windstar comme véhicule familial.
+[71] En 2003 et en 2004, son fils était souvent parti répondre à des demandes d’entretien.
+[72] Il a reconnu le bail de la F‑150, cabine double, qu’il utilisait et affirmé que J.W. Electric and Controls payait toutes les dépenses connexes au véhicule. Il s’est lui‑même occupé de la plupart des dispositions de location. Il ne savait pas pourquoi on avait indiqué [traduction] « personnel » sur le bail. Il utilisait bel et bien ce véhicule à des fins personnelles, tout comme le faisaient Michael Martin et Douglas Balkwill avec leurs véhicules.
+[73] Il a confirmé avoir signé le bail contenu aux onglets 4, 6 et 8. En 2003, l’Explorer se trouvait à l’atelier. En 2003 et en 2004, son épouse l’utilisait à des fins personnelles, dans une certaine mesure. Il ne savait pas pourquoi la Windstar était à son nom. La société a produit des feuillets T4 au nom des propriétaires, y incluant les avantages relatifs aux véhicules, mais pas au nom de leurs fils, parce que l’utilisation qu’ils faisaient du véhicule était principalement à des fins commerciales.
+[74] Lors du réinterrogatoire, il a affirmé que si on le lui avait demandé, il aurait cédé le véhicule à la société sans contrepartie.
+Argumentation au nom des appelants
+[75] L’avocat des appelants a renvoyé au paragraphe 248(1) de la Loi et a fait valoir que si les véhicules ne correspondaient pas à la définition d’« automobile » énoncée dans cette disposition, dans ce cas-là, le ministre ne pouvait pas inclure d’avantage dans le revenu des appelants. Les F‑150 ne servaient pas aux fins prévues dans la Loi.
+[76] À l’exception de ceux utilisés par les épouses, les véhicules ne correspondaient pas à la définition d’« automobile » énoncée à la disposition de la Loi qui s’applique. Les véhicules en question sont la 300M, la Windstar et l’Explorer.
+[77] En ce qui concerne l’Explorer, le fait que ce véhicule était au nom de Wayne Martin n’a aucune importance. Il avait été mis à son nom seulement pour des raisons de commodité. Ceci ne reflétait pas la situation réelle.
+[78] Wayne Martin avait le titre juridique du véhicule, mais c’était en « fiducie nue », comme il a affirmé qu’il l’aurait cédé à la société sans contrepartie. L’intention derrière tout ça était que la société ait le droit à titre de bénéficiaire.
+[79] Bonnie Martin était une employée et des avantages relatifs à la Windstar lui ont déjà été attribués. L’avantage relatif à l’assurance ne lui a pas été attribué, mais c’est elle, et non Wayne Martin, qui en profitait.
+[80] La même analyse s’applique à Phyllis Balkwill pour l’année 2003. Elle était une employée en 2003 et pendant une journée en 2004. Il n’est peut-être pas approprié de lui attribuer un avantage dans le calcul de ses revenus pour 2004.
+[81] En ce qui concerne l’Explorer, selon la preuve, une personne autre que Wayne Martin utilisait le véhicule. Ce dernier n’utilisait aucun des véhicules en cause à des fins personnelles.
+[82] En ce qui concerne les F-150, l’avocat a renvoyé à la décision Muller c. R., 2004 CarswellNat 2732, 2004 CCI 562 et a fait valoir que le type de personne dont il est question en l’espèce ne correspond pas à ce qui est prévu dans la Loi.
+[83] Selon la preuve, le prix des véhicules aurait été plus élevé s’ils n’avaient pas eu de banquette arrière. La présence des outils sur les photos montre que les appelants utilisaient la banquette.
+[84] Il n’y avait aucun registre pour les camionnettes, mais personne n’était tenu par la Loi d’en tenir un.
+[85] On doit donc se poser les questions suivantes : « Que ce passe-t-il réellement? Ces personnes sont-elles visées par la Loi? ». Lorsque l’utilisation à des fins personnelle n’est que minime, la Loi est observée.
+[86] « L’utilisation à des fins personnelles dépasse-t-elle la limite? » En l’espèce, ce n’est pas le cas. Les véhicules étaient utilisés presque exclusivement à des fins commerciales.
+[87] Les F-150 n’étaient pas conçues pour accueillir des passagers.
+[88] L’avocat des appelants a renvoyé à la décision Kowalchuk c. R., 2005 CarswellNat 3825 pour appuyer la position selon laquelle les véhicules ne correspondaient pas à la définition d’« automobile » parce que les seuls éléments de preuve concernant l’utilisation des banquettes démontrent qu’elles servaient à conduire des travailleurs vers les lieux de travail.
+[89] L’avocat des appelants a aussi renvoyé à la décision Séguin v. The Queen, 2003 57 DTC 3952 pour appuyer la position selon laquelle qu’il n’était pas nécessaire de tenir un registre.
+[90] En ce qui a trait aux frais pour droit d’usage d’une automobile, lorsque l’utilisation est principalement à des fins commerciales, il devrait y avoir des frais pour [traduction] « utilisation restreinte à des fins personnelles » et la Cour devrait les inclure dans son calcul.
+[91] Pour conclure, l’avocat des appelants a répété que l’argument le plus important était que les F-150 n’étaient pas des automobiles au sens de la Loi. Le cas de l’Explorer est semblable.
+[92] Phyllis Balkwill a été une employée pendant seulement une journée en 2004.
+[93] Si le véhicule n’appartenait pas à un actionnaire, il ne constituait pas un avantage à un actionnaire.
+[94] Les appels devraient donc être accueillis.
+Argumentation au nom de l’intimée
+[95] En ce qui concerne la « fiducie nue » à l’égard des véhicules utilisés par les épouses des actionnaires, l’avocat de l’intimée a fait valoir que ceci n’a pas été abordé dans l’avis d’appel ou dans l’avis d’appel modifié et qu’aucun témoignage n’a été dirigé dans ce sens.
+[96] L’avocat s’est fondé sur la décision McGoldrick c. R., 2004 CAF 189 [C.A.] pour avancer que les appelants sont liés par les actes de procédure. De plus, il faut établir quels sont les éléments constituant une « fiducie nue ».
+[97] Pour ce qui est du fait que les épouses des actionnaires ont inclus dans leurs revenus des avantages relatifs à leur utilisation des véhicules, l’avocat de l’intimée était d’avis que ceci n’a aucune incidence sur la conclusion en l’espèce à l’égard des cotisations établies par le ministre pour les actionnaires. Le ministre devra rajuster les cotisations des épouses si celles des actionnaires sont ratifiées.
+[98] Il y a deux questions à trancher, en l’espèce :
+1. Le ministre a‑t‑il eu raison d’inclure des avantages relatifs à l’utilisation des véhicules en cause dans le calcul des revenus des épouses pour la période où elles étaient des employées?
+2. Le ministre a‑t‑il eu raison d’inclure des avantages à des actionnaires dans son calcul?
+[99] La définition d’« automobile » n’entre en ligne de compte que dans l’application des dispositions aux alinéas 6(1)e) et 6(1)(k). La définition d’« avantages aux actionnaires » énoncée au paragraphe 15(1) n’a aucun lien avec la définition d’« automobile ».
+[100] Si l’intimée n’a de choix de tenir compte de la définition d’« automobile » dans le cas de six des huit véhicules en cause, la question des frais pour droit d’usage d’une automobile n’a même pas à être examinée. Il n’importe aucunement de savoir si les véhicules utilisés par les épouses des actionnaires étaient des « automobiles » au sens de la Loi.
+[101] L’avocat de l’intimée n’était pas d’avis que, selon l’article 248, les véhicules n’étaient pas conçus principalement pour transporter des passagers. Si l’argumentation des appelants est exacte, dans ce cas‑là, le sous‑alinéa 248(1)d)(ii) a‑t‑il une raison d’être?
+[102] Pour que les véhicules soient exclus de la définition d’« automobile », ils doivent :
+1. être une camionnette – ils ne le sont pas;
+2. compter au maximum trois places assises, y compris celle du conducteur;
+3. avoir servi principalement pour le transport de marchandises ou d’équipement pendant les années d’imposition en cause.
+[103] Il incombe aux appelants de prouver que la totalité, ou presque, de l’utilisation des véhicules était pour le transport de biens, etc. (la règle du ministre à cet égard est 90 %).
+[104] Les six véhicules (soit tous les véhicules à l’exception de ceux utilisés par les épouses) correspondaient à la définition énoncée dans la Loi.
+[105] L’avocat de l’intimée a appuyé sa position sur la décision Gariépy v. R., 2008 DTC 3327.
+[106] Les frais pour droit d’usage d’une automobile s’appliquent parce que les véhicules étaient à leur disposition, pas parce qu’ils les utilisaient pour se rendre au travail et en revenir. Les appelants qui utilisaient les F‑150 n’avaient pas de véhicule personnel à leur disposition.
+[107] L’expression « la totalité, ou presque » de l’utilisation en vue de gagner un revenu a été examinée par le juge en chef adjoint Bowman dans la décision Pronovost v. R., 2003 DTC 720. Dans Pronovost, précitée, un véhicule personnel était à la disposition de l’appelant, alors qu’en l’espèce, ce n’était pas le cas. Aucun autre véhicule n’était mis à la disposition des fils.
+[108] De plus, dans Pronovost, précitée, la Cour a conclu que « le camion était utilisé en quasi‑totalité pour le travail de l’appelant ». L’utilisation personnelle était minimale, ce qui n’est pas le cas en l’espèce.
+[109] Pour ce qui est de Muller v. R., précitée, l’avocat a fait valoir que cette décision était erronée parce qu’elle était [traduction] « fondée sur une question de confort » et très subjective. La Loi renvoie à un maximum de personnes que peut accueillir une « automobile ».
+[110] Aucun registre n’a été tenu pour les années en cause, et on ne peut pas se fonder sur les registres existants pour les années qui ne sont pas en cause.
+[111] Selon les baux, les véhicules étaient utilisés à des fins personnelles. Aucun représentant du concessionnaire ne s’est présenté pour expliquer pourquoi cette information était erronée. Les appelants ont signé les baux. Il semble que tout le reste de l’information contenue dans ces documents est exacte.
+[112] De plus, le document présenté à l’étape de l’opposition et déposé en preuve indique que le véhicule était utilisé à des fins personnelles et que moins de 90 % de l’utilisation qu’en faisait Doug Balkwill était à des fins commerciales.
+[113] Il s’agit ici d’un bon exemple de cas où il aurait été nécessaire de tenir des registres, même si ce n’était pas exigé par la Loi.
+[114] Contrairement à la situation examinée par la Cour dans Séguin, précitée, les véhicules étaient utilisés à des fins personnelles et les appelants n’avaient pas de véhicules personnels.
+[115] En l’espèce, les véhicules en question ne correspondaient pas aux exceptions prévues dans la définition d’« automobile » aux sous‑alinéas 248(1)d)(i) et (ii). Ces véhicules étaient donc des « automobiles » au sens de la Loi.
+[116] En ce qui concerne les frais pour droit d’usage d’une automobile qui devraient être calculés selon un taux réduit, le calcul doit être fait en fonction de la formule prévue dans la Loi. Aux fins du calcul pour l’année 2003, il faut compter 1 000 kilomètres par mois, et pour l’année 2004, le montant exact à inclure dans le calcul est 1 667 kilomètres par mois. Il n’y avait aucune preuve indiquant que les calculs étaient erronés.
+[117] Dans la décision Gariépy, précitée, la Cour a conclu que, pour se prévaloir du taux réduit, l’employé devait « nécessairement fournir une preuve claire et expresse de l’utilisation réelle de l’automobile en termes de kilomètres ».
+[118] Dans la décision Adams v. R., 98 DTC 6266, la Cour a bien précisé qu’il n’est pas nécessaire qu’un employé ait utilisé l’automobile pour que des frais pour droit d’usage d’une automobile lui soient attribués. Tout ce qui importe est de savoir si les employés avaient un véhicule à leur disposition et s’ils avaient le droit de l’utiliser.
+[119] En l’espèce, l’employeur mettait un véhicule à la disposition des employés. Le fait qu’ils l’utilisaient ou non n’importe pas. Les frais pour droit d’usage d’une automobile doivent être appliqués.
+[120] Les frais d’usage tombent sous le coup des alinéas 6(l)e) et 6(l)k) de la Loi. Le calcul ne fait pas vraiment l’objet d’un différend. En l’espèce, les véhicules avaient été acquis ou loués par la société. Les frais d’usage doivent donc s’appliquer.
+[121] Les avantages aux actionnaires concernent les frais de location et d’assurances. Les véhicules étaient aux noms de John Balkwill et de Wayne Martin. Les cases indiquant l’usage à des fins personnelles avaient été cochées.
+[122] Selon l’avocat de l’intimée, l’argument des appelants selon lequel ils n’étaient pas propriétaires des véhicules va à l’encontre de la preuve. S’ils n’avaient pas été les propriétaires, comment auraient‑ils pu alors céder les véhicules, sans contrepartie, comme ils ont indiqué vouloir faire? Il est donc manifeste que la société n’était pas propriétaire des véhicules. On n’aurait pas pu intenter d’action contre la société. Il ne s’agissait pas de biens appartenant à la société. Le fait que les épouses conduisaient les véhicules importe peu à la question en cause.
+[123] Si les véhicules étaient des biens appartenant à la société, pourquoi n’étaient‑ils pas au nom de la société, comme l’étaient les F‑150? Les actionnaires étaient les propriétaires. Ils étaient des actionnaires et on reçu les avantages.
+[124] L’avocat de l’intimée pose la question à savoir si ce n’est que par coïncidence que le comptable de la société a inclus des avantages afférents aux véhicules des actionnaires dans le calcul des revenus des épouses.
+[125] Le fait que la société ait payé les véhicules ne signifie pas qu’elle en était la propriétaire.
+[126] Pour quelle raison la société a‑t‑elle attribué un avantage à Phyllis Balkwill en 2004 si cette dernière n’a été employée que pendant une seule journée? Ceci doit donc signifier que le véhicule était considéré comme appartenant à l’actionnaire.
+[127] Le fait qu’un autre employé conduisait le véhicule importe peu. Le véhicule appartenait à l’actionnaire, M. Martin.
+[128] La Cour devrait tirer une conclusion défavorable aux appelants parce que, tout comme les épouses des actionnaires, un des appelants n’a pas témoigné.
+[129] Si l’alinéa 15(1)a) ne s’applique pas, il faut alors appliquer l’alinéa 6(1)a) aux frais d’assurances et de location.
+[130] Les appels doivent être rejetés.
+Contre‑preuve
+[131] En contre‑preuve, l’avocat des appelants a affirmé qu’il était question ici d’une « fiducie nue » ou bien les actionnaires auraient pu céder la location à la société. Le fait que les actionnaires permettaient à leurs épouses d’utiliser les véhicules ne constitue pas un avantage au sens de l’alinéa 15(1)a). Il peut cependant faire l’objet d’un transfert en fonction de l’article 56.
+[132] Michael Martin a affirmé qu’il pourrait céder le véhicule à la société sans contrepartie. Il n’est pas nécessaire de soulever la question de l’accord de « fiducie nue ».
+[133] L’avocat des appelants a une fois de plus cité la décision Pronovost, précitée, aux paragraphes 16 et 21, et a précisé que la conclusion tirée par le juge en chef adjoint Bowman selon laquelle le véhicule était utilisé « en totalité, ou presque […] pour le transport de marchandises, de matériel ou de passagers en vue de gagner un revenu » s’appliquait en l’espèce.
+[134] Contrairement à ce qu’a laissé entendre l’avocat de l’intimée, les appelants n’habitaient pas une région rurale.
+[135] En ce qui concerne la décision Muller, précitée, l’avocat était d’avis qu’il était opportun de tenir compte du « confort » afin de trancher la question.
+[136] Il a aussi rappelé que les fins prévues à l’article 248 étaient d’ordre personnel, alors qu’en l’espèce, il n’y avait aucun élément personnel.
+Analyse et décision
+[137] La Cour est convaincue que les avocats des parties ont correctement énoncé les questions en litige.
+[138] La Cour traitera d’abord de la question de la prétendue « fiducie nue ».
+[139] Cette question n’est soulevée nulle par dans les actes de procédure. L’avocat des appelants l’a soulevée pour la première fois dans ses observations.
+[140] De plus, aucune preuve directe n’a été présentée et aucune question n’a été posée à ce sujet pendant l’audience, outre la preuve présentée et les questions posées sur le fait que plusieurs véhicules n’étaient pas au nom de la société, mais plutôt au nom de deux des actionnaires.
+[141] Essentiellement, les éléments de preuve en question démontrent que les véhicules étaient au nom des actionnaires parce s’ils avaient été au nom de la société, le financement pour leur achat aurait été difficile à obtenir.
+[142] La Cour est d’avis que cette explication n’était qu’une réflexion après‑coup formulée au nom des appelants et envisagée une fois les actes de procédure, même les actes de procédure modifiés, achevés. S’il y avait quelque fondement que ce soit à cet argument, il aurait été avancé dès le départ.
+[143] De surcroît, dans leurs témoignages, les appelants n’ont fait que laisser entendre que c’était là la raison pour laquelle les véhicules étaient à leurs noms. Essentiellement, ils n’ont fait que donner une explication possible, mais ceci n’a cependant pas suffit pour établir ou même donner à entendre qu’un tel accord de fiducie existait vraiment et pour en établir les modalités.
+[144] Pour conclure à une « fiducie » ou à une « fiducie nue », il faut établir qu’il y avait des parties, que des modalités avaient été arrêtées sous forme de droits et d’obligations, et que, en ce qui a trait aux véhicules en question, il y avait une certaine explication du type de propriété qu’ont décidé d’assumer les appelants lorsqu’ils ont enregistré les véhicules à leurs noms et qu’il y avait vraisemblablement un exposé des raisons pour lesquelles une fiducie avait été mise sur pied. Aucun de ces attributs d’une fiducie n’existe ici.
+[145] La Cour est convaincue qu’il n’existait aucune « fiducie » en l’espèce.
+[146] De plus, si cette conclusion s’avère erronée, la Cour est tout de même convaincue que les appelants ne peuvent pas soulever cette question à l’étape de l’audience (McGoldrick c. R., (C.A.) 2004 CAF 189) et qu’ils sont liés par les actes de procédure. Le fait que la société a reçu les conseils de comptables qui étaient au courant de la façon dont les véhicules avaient été enregistrés, de la façon dont les véhicules avaient été loués et de la façon dont la location était payée et qui n’ont pas jugé bon de modifier l’enregistrement et de le mettre au nom de la société pèse beaucoup dans la balance.
+[147] Les actionnaires appelants étaient les propriétaires en droit des véhicules, ils en détenaient donc tous les droits et en assumaient toutes les responsabilités. Si les appelants voulaient réussir à convaincre la Cour que la propriété effective était différente de la propriété en droit, il leur fallait présenter une preuve forte à cet effet. Ils ne l’ont pas fait.
+[148] L’argument des appelants au sujet de la « fiducie nue » est donc rejeté.
+[149] La Cour est convaincue que même si des avantages relatifs à l’utilisation des véhicules ont été inclus dans le calcul des revenus des épouses, il ressort clairement de la preuve que les actionnaires appelants étaient propriétaires des véhicules, et le ministre doit réexaminer les avantages qui avaient été inclus dans le calcul des revenus de ces derniers s’ils ne devaient pas obtenir gain de cause.
+[150] La prochaine question examinée par la Cour est celle de savoir si le ministre a eu raison d’inclure des avantages aux actionnaires, soit les frais de location et d’assurances à l’égard des véhicules conduits par les épouses, dans le calcul des revenus des actionnaires Wayne Martin et John R. Balkwill en application du paragraphe 15(1).
+[151] L’avocat des appelants a fait valoir que si un avantage devait être inclus dans le calcul de revenus, c’est dans les revenus de Bonnie Martin et de Phyllis Balkwill qu’il fallait l’inclure et non dans ceux de Wayne Martin et de John R. Balkwill.
+[152] La Cour est convaincue que ces deux actionnaires ont tiré un avantage en raison du fait que la société louait les véhicules et en payait les assurances. Si la société ne l’avait pas fait, il aurait alors été aux actionnaires de le faire, parce que la Cour a déjà établi que ce sont les actionnaires qui étaient propriétaires des véhicules.
+[153] Il s’agit ici certainement d’un véritable avantage conféré aux deux actionnaires comme le prévoit le paragraphe 15(1) de la Loi étant donné qu’aucune des exceptions énumérées dans cette disposition ne s’applique au cas en l’espèce. Si cette disposition ne s’applique pas, c’est alors l’alinéa 6(1)a) qui s’applique, et le résultat est le même.
+[154] Aucune question n’a été soulevée en ce qui a trait au calcul des avantages aux actionnaires tant pour les frais d’assurances que pour les frais de location des automobiles.
+[155] Pour ce qui est de chacun des appelants, ces frais représentaient pour eux des dépenses personnelles ou des frais de subsistance. Ces dépenses étaient des avantages que recevait chaque actionnaire à titre d’actionnaire ou d’employé de la société.
+[156] La dernière question à trancher est de savoir si le ministre a eu raison d’inclure un avantage en raison de l’utilisation que faisaient les appelants d’un véhicule de la société alors qu’ils étaient des employés de celle‑ci.
+[157] Pour trancher cette question, il faut établir si les six des huit véhicules en cause étaient des automobiles au sens de l’article 248 de la Loi.
+[158] L’avocat des appelants a fait valoir que ces véhicules ne tombent pas sous le coup de la définition d’« automobile » (à l’exception des véhicules des épouses).
+[159] Il a fait valoir que les personnes dont il est question en l’espèce ne correspondent pas au type de personne dont il est question dans Loi et qui devrait tomber sous le coup de celle­‑ci. Cependant, la Loi ne renvoie pas à des types de personnes, mais plutôt à des types de véhicules. Peu importe qui sont ces personnes, la Loi doit s’appliquer si les véhicules dont il est question sont des « automobiles » selon les faits présentés.
+[160] L’avocat des appelants s’est beaucoup fié à la décision Muller c. R., 2004 CarswellNat 2732, dans laquelle le juge Bell a conclu que la camionnette en question n’était pas une « automobile » en raison du nombre de places assises qu’elle comptait, de l’accès difficile à l’arrière de la cabine de conduite, de l’absence de ceintures diagonales, de l’espace limité pour les jambes et du manque de protection pour la tête. Le juge Bell avait également conclu que le véhicule avait été acheté par le propriétaire inscrit afin d’être utilisé dans les activités d’une entreprise agricole. Aucune preuve n’a été présentée concernant une autre utilisation possible.
+[161] L’avocat des appelants a aussi fait valoir que selon un témoignage, il aurait été plus coûteux d’acheter le véhicule sans banquette arrière. De plus, la présence d’outils sur les photos montre l’utilisation qu’on faisait des camionnettes.
+[162] L’avocat de l’intimée était d’avis qu’on ne devrait pas suivre une décision [traduction] « fondée sur une question de confort » et [traduction] « très subjective ».
+[163] Chaque affaire doit avoir son propre fondement. La Cour n’accorde pas particulièrement d’importance à l’argument selon lequel il aurait été plus coûteux d’acheter la camionnette sans la banquette arrière. En l’espèce, les photos et les autres éléments de preuve suffisent à établir le nombre de places assises qu’il y avait dans le véhicule et l’utilisation qu’on en faisait.
+[164] La preuve ne suffit pas à convaincre la Cour de la raison claire pour laquelle les véhicules (les F-150) ont été achetés. L’utilisation qu’on en faisait était clairement très différente de l’utilisation dont il était question dans la décision du juge Bell.
+[165] Il est vrai que la Loi n’exige pas la tenue de registres, mais lorsqu’on doit établir quelle était l’utilisation qu’on faisait d’un véhicule pendant une année, un registre s’avère un élément de preuve très important.
+[166] La Cour n’accorde que très peu d’importance aux registres qui ont été établis après le fait pour des années qui ne sont pas visés par les présents appels. Ces registres ne permettent pas de tirer une conclusion sur l’utilisation qui était faite des véhicules.
+[167] La Cour n’est pas influencée du tout par le mot [traduction] « personnel » sur certains des baux. Il s’avère que la raison pour laquelle ce mot s’y trouve est, au mieux, inconnue.
+[168] Il est intéressant de souligner qu’aucun représentant de concessionnaire n’a été appelé à témoigner au sujet des baux. Ces personnes auraient pu aider à élucider l’intention derrière l’utilisation du mot [traduction] « personnel », étant donné qu’aucune autre question n’a été soulevée concernant le reste du contenu des baux.
+[169] Il est important de souligner le fait que le document présenté au moment de l’opposition et ensuite déposé en preuve à l’audience avait été établi par la société et indiquait que Doug Balkwill utilisait le véhicule à 90 % à des fins commerciales et que John Balkwill l’utilisait à 20 % à des fins personnelles.
+[170] Le véhicule de Michael Martin était utilisé à 19,9 % à des fins personnelles et à 80,1 % à des fins commerciales.
+[171] Ce document montre clairement que les véhicules étaient utilisés dans une grande mesure à des fins personnelles.
+[172] Compte tenu de la preuve dont elle a été saisie, la Cour conclut que les appelants n’ont pas réussi à la convaincre, selon la prépondérance des probabilités, que les véhicules en question tombent sous le coup des exceptions énoncées aux sous‑alinéas 248(1)d)(i) et (ii) de la Loi et qu’ils ne sont pas des « automobiles » au sens de la Loi.
+[173] La Cour est convaincue que les prétendus frais pour droit d’usage d’une automobile conviennent dans chacun des cas en l’espèce tels qu’ils ont été calculés par le ministre.
+[174] L’avocat des appelants a demandé l’application d’un taux réduit, mais selon la formule prévue dans la Loi, un tel taux ne peut pas s’appliquer dans le cas des appelants. Comme il a été précisé dans la décision Gariépy c R., 2007 CarswellNat 3945 (et comme on a fait valoir que rien ne venait indiquer que le calcul du ministre était erroné), afin de se prévaloir d’un taux réduit, le contribuable doit « nécessairement fournir une preuve claire et expresse de l’utilisation réelle de l’automobile en termes de kilomètres ». En l’espèce, ceci n’a pas été fait.
+[175] Comme l’indique la décision Adams v. R., 98 DTC 6266, un employé est redevable des frais pour droit d’usage d’une automobile même si aucune véritable utilisation de l’automobile n’est établie.
+[176] Il faut simplement que l’employé ait une automobile à sa disposition.
+[177] Dans chacun des présents appels, il y avait amplement d’éléments de preuve établissant qu’on avait satisfait à cette exigence.
+[178] La Cour est convaincue que les appelants n’ont pas réussi à établir, selon la prépondérance des probabilités, que les véhicules étaient utilisés « en totalité, ou presque, […] pour le transport de marchandises, de matériel ou de passagers en vue de gagner un revenu », comme l’a cité le juge en chef adjoint Bowman dans la décision Pronovost, précitée.
+[179] Plusieurs des appelants n’ont pas témoigné. Les épouses des appelants n’ont pas témoigné. La Cour conclut que leurs témoignages auraient pu avoir une grande importance.
+[180] Les appels sont rejetés et les cotisations établies par le ministre sont confirmées.
+Signé à New Glasgow (Nouvelle‑Écosse) ce 5e jour de janvier 2009.
+« T. E. Margeson »
+Juge Margeson
+Traduction certifiée conforme
+ce 25e jour de mars 2009.
+Hélène Tremblay, traductrice
+RÉFÉRENCE : 2009CCI3
+N° DE DOSSER : 2007-2808(IT)I
+INTITULÉ : WAYNE MARTIN ET
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Windsor (Ontario)
+DATE DE L’AUDIENCE : Le 20 octobre 2008
+MOTIFS DU JUGEMENT : L’honorable juge T. E. Margeson
+DATE DU JUGEMENT : Le 5 janvier 2009
+COMPARUTIONS :
+Avocat des appelants :
+Me John Mill
+Avocat de l’intimée :
+Me Andrew Miller
+AVOCATS INSCRITS AU DOSSIER :
+Pour les appelants :
+Nom : Me John Mill
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous‑procureur général du Canada
+Ottawa, Canada

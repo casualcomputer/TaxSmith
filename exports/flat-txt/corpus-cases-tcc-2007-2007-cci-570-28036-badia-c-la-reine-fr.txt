@@ -1,0 +1,110 @@
+Title: Badia c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28036/index.do
+Corpus path: corpus/cases/tcc/2007/2007-cci-570-28036-badia-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2007-06-26
+
+# Badia c. La Reine
+
+- Citation: 2007 CCI 570
+- Decision date: 2007-06-26
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1622, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Badia c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-06-26
+Référence neutre
+2007 CCI 570
+Numéro de dossier
+2007-235(IT)I
+Juges et Officiers taxateurs
+Paul Bédard
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2007-235(IT)I
+ENTRE :
+RACHED BADIA,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 26 juin 2007, à Montréal (Québec)
+Devant : L'honorable juge Paul Bédard
+Comparutions :
+Avocat de l'appelante :
+Me Jean-Pierre Gagné
+Représentante de l'intimée :
+Nadia Golmier, stagiaire en droit
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’égard des nouvelles cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 2003 et 2004 est rejeté, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 11e jour d’octobre 2007.
+« Paul Bédard »
+Juge Bédard
+Référence : 2007CCI570
+Date : 20071011
+Dossier : 2007-235(IT)I
+ENTRE :
+RACHED BADIA,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Bédard
+[1] Il s’agit d’un appel de nouvelles déterminations de prestations fiscales pour enfants pour les années de base 2003 et 2004.
+[2] L'appelante est la mère d’Aliaa, née le 5 janvier 1993, et d’Ismail, né le 19 septembre 1996. L'appelante s'est séparée de son conjoint en avril 2003 et a quitté la résidence familiale le 25 mai 2005. À la suite de la séparation, les enfants du couple sont demeurés sous la garde du père, monsieur Salah El Khattas. L'appelante recevait des prestations fiscales pour enfants depuis octobre 2000 et a continué de les recevoir même après avoir quitté la résidence familiale.
+[3] La question qui se pose dans ce litige est de savoir si le ministre du Revenu national (le « ministre ») a correctement révisé le montant de prestations fiscales pour enfants en déterminant que les montants reçus en trop s'élevaient à 3 052,07 $ pour la période de juillet 2004 à juin 2005 pour l'année de base 2003 et à 946,67 $ pour la période juillet et août 2005 pour l'année de base 2004.
+[4] L'avis d'appel de l'appelante se lit comme suit :
+Rached Badia
+6826, Rue Jean-Tavernier
+Montréal (QC) H1M 2E6
+Tel : (514) 255 8273
+Montréal : 17 novembre, 2006
+Objet : Opposition à l'avis de confirmation de l'agence du revenu du Canada sur les prestations fiscales pour enfants.
+(Années de base 2003, 2004)
+Madame, Monsieur,
+Suite à l'avis de confirmation daté du 3 novembre 2006 que j'ai reçu de la part du centre fiscal de shawinigan-sud QC G9N 7S6, je voudrai interjeter le présent appel auprès de la cour canadienne de l'impôt en choisissant la procédure informelle pour maintenir mon opposition à l'avis daté du 19 mai 2006 dans lequel l'agence des douanes et du revenu du Canada me réclame un montant qui a été utilisé par mon ex-conjoint car l'ensemble des montants était déposé dans un compte conjoint et c'était mon ex-conjoint qui s'en servait tout le temps et quand j'ai quitté la résidence familiale, rien n'a été changé étant donné que les enfants sont toujours à sa charge, d'ailleurs c'est pourquoi il n'a jamais avisé l'agence des douanes de mon départ et que c'est lui qui s'occupe des enfants puisqu'il faisait toujours des transferts de ses montants du compte conjoint à son compte personnel par le biais d'internet par contre c'était moi qui a avisé l'agence des douanes du changement de la situation.
+À cet effet, j'ai un document de la banque qui prouve que le dernier dépôt de 3 328,12 $ le 13 décembre 2005 a été déposé dans le compte duquel j'ai retiré ma signature et mon nom en octobre 2005 et qui est devenu un compte personnel pour lui.
+Concernant le droit de dépôt, je suis présentement prestataire de la solidarité sociale, ce qui va me causer des difficultés financières, par la suite j'espère que ce droit me sera remboursé.
+Dans l'attente de votre réponse, je vous pris d'agréer Madame, Monsieur, mes salutations les meilleures.
+Signature
+[5] Dans la présente cause, l'appelante ne conteste pas le fait qu'elle n’était pas le particulier admissible au sens de l'article 122.6 de la Loi de l'impôt sur le revenu (la « Loi ), ni le fait qu'elle n'a pas fait parvenir au ministre un avis de cessation d'admissibilité comme l’exigeait le paragraphe 122.62(4) de la Loi. L'appelante soutient plutôt que les paiements de prestations, à l'exception d'un paiement de 3 328,12$, avaient toujours été déposés dans un compte bancaire qu'elle détenait conjointement (le « compte conjoint ») avec monsieur Khattas et qu'une somme équivalente à ces paiements avait été transférée par ce dernier du compte conjoint à son compte personnel. À l'égard de la somme de 3 328,12 $ qui serait, selon l'appelante, un paiement de prestations fiscales pour enfants, cette dernière soutient qu'elle a été déposée le 13 décembre 2005 dans le compte conjoint qui est devenu le compte personnel de monsieur Khattas le 4 octobre 2005. À cet égard, l'appelante a déposé une preuve documentaire (pièce A-1) démontrant que le compte conjoint est devenu, le 4 octobre 2005, le compte personnel de monsieur Khattas et qu'une somme de 3 300 $ fut transférée dans ce compte bancaire. En bref, l'appelante soutient que les paiements de prestations fiscales pour enfants n'ont pas été faits à elle, mais plutôt à monsieur Khattas, en ce que tous ces paiements ont ultérieurement été transférés dans son compte bancaire personnel et qu'ainsi il a été le seul à avoir bénéficié de ces paiements.
+[6] Dans le présent litige, la preuve ne permet pas d'établir si les paiements des prestations fiscales pour enfants ont été faits au moyen de chèques tirés à l'ordre de l'appelante ou encore au moyen de dépôts.
+[7] Si les paiements de prestations fiscales pour enfants ont été faits au moyen de chèques tirés à l'ordre de l'appelante et qu'ils ont été déposés par la suite dans le compte conjoint ou dans le compte conjoint qui est devenu, le 4 octobre 2005, le compte personnel de monsieur Khattas, il me semble évident qu'il n'est pas possible de caractériser ces paiements comme des paiements faits à monsieur Khattas. À mon avis, le fait que monsieur Khattas se soit supposément emparé des fonds versés à titre de prestations fiscales pour enfants n'a pas pour conséquence de faire de lui le bénéficiaire des prestations fiscales pour enfants.
+[8] Ma conclusion serait la même si les prestations fiscales pour enfants avaient été déposées directement par le ministre dans le compte conjoint ou dans le compte conjoint qui est devenu, le 4 octobre 2005, le compte personnel de monsieur Khattas. En effet, il n’aurait pu en être ainsi que si une demande de dépôt direct à cet effet avait été adressée au ministre par l’appelante. L’appelante doit comprendre qu’une demande de dépôt direct constitue en quelque sorte une directive de paiement et qu’ainsi les prestations qui auraient été versées directement par le ministre dans le compte conjoint ou dans le compte conjoint qui est devenu le compte personnel de monsieur Khattas le 4 octobre 2005, constituaient tout de même des paiements faits à l’appelante.
+[9] Pour ces motifs, je suis d'avis que les paiements de prestations fiscales pour enfants ont été faits à l'appelante et que d'aucune manière ils ne peuvent être caractérisés comme des paiements faits à monsieur Khattas, peu importe l'hypothèse retenue.
+[10] Pour ces motifs, l'appel est rejeté.
+Signé à Ottawa, Canada, ce 11e jour d’octobre 2007.
+« Paul Bédard »
+Juge Bédard
+RÉFÉRENCE : 2007CCI570
+Nº DU DOSSIER DE LA COUR 2007-235(IT)I
+INTITULÉ DE LA CAUSE : Rached Badia et Sa Majesté La Reine
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATE DE L’AUDIENCE : le 26 juin 2007
+MOTIFS DU JUGEMENT PAR : L'honorable juge Paul Bédard
+DATE DU JUGEMENT : le 11 octobre 2007
+COMPARUTIONS :
+Avocat de l'appelante :
+Me Jean-Pierre Gagné
+Représentant de l'intimée :
+Nadia Golmier, stagiaire en droit
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelante:
+Nom : Me Jean-Pierre Gagné, avocat
+Cabinet :
+Ville : Montréal (Québec)
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

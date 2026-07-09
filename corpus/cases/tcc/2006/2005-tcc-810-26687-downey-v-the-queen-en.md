@@ -1,0 +1,215 @@
+---
+title: "Downey v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26687/index.do"
+last_modified: "2006-01-03"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 TCC 810"
+citation2: ""
+neutral_citation: "2005 TCC 810"
+decision_date: "2006-01-03"
+language: "en"
+item_id: "26687"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3433
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T22:27:38.842000+00:00"
+cases_cited_count: 1
+cases_citing_count: 4
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "02067baec1fd4d2c5bb7f72f72ac016b23236dcbdadbba51437da5d4679b78a3"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Downey v. The Queen
+
+- Citation: 2005 TCC 810
+- Decision date: 2006-01-03
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3433, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Downey v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-01-03
+Neutral citation
+2005 TCC 810
+File numbers
+2004-537(IT)G
+Judges and Taxing Officers
+Leslie M. Little
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2004-537(IT)G
+BETWEEN:
+JEROME DOWNEY,
+Appellant,
+And
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on December 2, 2005 at Kamloops, British Columbia
+Before: The Honourable Justice L.M. Little
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Victor Caux
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 2001 taxation year is allowed, without costs, and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached Reasons for Judgment.
+Signed at Vancouver, British Columbia, this 3rd day of January 2006.
+"L.M. Little"
+Little J.
+Citation: 2005TCC810
+Date: 20060103
+Docket: 2004-537(IT)G
+BETWEEN:
+JEROME DOWNEY,
+Appellant,
+And
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Little J.
+A. FACTS:
+[1] Savona Equipment Ltd. (the "Company") is a company incorporated under the laws of the Province of British Columbia. The Company carries on the business of selling new and used mining equipment from its office and yard located in Savona, British Columbia.
+[2] The shares of the Company are owned as follows:
+The Appellant 1/3
+Kane Desmond 1/3
+Blair Drozda 1/3
+[3] The Appellant said that he and Mr. Desmond are fully involved in working for the Company and Mr. Drozda is a passive investor.
+[4] The Appellant is not related to Mr. Desmond or to Mr. Drozda.
+[5] On January 31, 2001, the Appellant transferred property to the Company consisting of 80 acres of land and several buildings. The Property is located in Deadman River Valley near Savona. The Deadman River Valley property is hereinafter referred to as the "Property".
+[6] The price used on the transfer of the Property to the Company was $420,000.00.
+[7] When the Property was transferred to the Company the Appellant received a credit of $420,000.00 to his shareholder's loan account with the Company.
+[8] Prior to the transfer of the Property to the Company, the Appellant's shareholders' loan account with the Company was in a debit balance.
+[9] Officials of the Canada Revenue Agency (the "CRA") reviewed the transfer of the Property to the Company and concluded that the Fair Market Value of the Property on the date of transfer was $139,000.00.
+[10] On May 15, 2003 the Minister of National Revenue (the "Minister") issued a Notice of Reassessment for the Appellant's 2001 taxation year and a benefit in the amount of $270,000.00 was included in the Appellant's income under subsection 15(1) of the Income Tax Act (the "Act"). In the said Reassessment the Minister concluded that the benefit received by the Appellant from the Company should be determined as follows:
+The price used when the Property was
+transferred by the Appellant to the Company $420,000.00
+Deduct - Fair Market Value of the Property
+as determined by the CRA $150,000.00
+Benefit conferred on the Appellant
+by the Company $270,000.00
+[11] The Minister also imposed a penalty pursuant to subsection 163(2) of the Act.
+B. ISSUES:
+[12] The issues are:
+1. What is the Fair Market Value of the Property at the time that the Property was transferred by the Appellant to the Company on January 31, 2001?
+2. If the Fair Market Value of the Property is different from the price used when the Property was transferred to the Company, is the Appellant required to include the difference in value in computing his income?
+3 Was the Minister correct in imposing a penalty under subsection 163(2) of the Act?
+C. Analysis and Decision:
+[13] A number of Court decisions have said that a Trial Judge is entitled to arrive at his own opinion as to value. (Connor v. The Queen, 79 DTC 5256 (F.C.A.) and R. v. Whent et al., 2000 DTC 6001 (F.C.A.)).
+[14] I must therefore carefully review the evidence and determine the value of the Property on the date of transfer.
+[15] Counsel for the Respondent called Mr. Frank Rafford, an Appraiser with the Real Estate Section of the CRA to testify as to the Fair Market Value of the Property on January 31, 2001.
+A. Land
+[16] In reaching his conclusion as to the value of the real estate portion of the Property Mr. Rafford reviewed what he considered to be six comparable properties and concluded, after making various adjustments, that the average selling price of comparable properties in the area at the relevant time was $888.00 per acre. Mr. Rafford therefore concluded that the Estimated Land Value by Direct Comparison Approval (rounded) was $71,000.00.
+[17] In reviewing comparable properties Mr. Rafford selected three properties where, according to his calculations, the selling price in November 2001 varied from $264.00 per acre (Sale No. 4) to $842.00 per acre (Sale No. 5) to $1,388.00 per acre (Sale No. 6). Mr. Rafford admitted that these three sales were part of a parcel of 600 acres that had been sold to the Skeetchestu Indian Reserve.
+[18] The Appellant stated in testimony that a 600-acre parcel of land located near the Property had been sold to the Skeetchestu Indian Band for $850,000.00. If we divide 600 acres into the sum of $850,000.00 we arrive at a price per acre of $1,416.66. The Appellant asked Mr. Rafford on cross-examination why he did not include information on the sales of the four remaining parcels of land which had been sold to the Indian Band when he had referred to three sales that were made to the Indian Band (i.e. Sales Nos. 4, 5 and 6). Mr. Rafford did not have an acceptable answer to this question raised by the Appellant. In my view Mr. Rafford should have considered the sale of the four parcels of land to the Indian Band in determining comparable sales i.e. by ignoring the other sales to the Indian Band he was reducing the price paid for comparable land.
+[19] In referring to Comparables 2, 3, 4, 5 and 6 Mr. Rafford said in his Report that each of these properties was "topographically superior" to the subject property. On cross-examination, by the Appellant, Mr. Rafford admitted that when he concluded that the properties referred to in Nos. 2, 3, 4, 5 and 6 were "topographically superior" he was referring to the fact that a large part of those properties was flat whereas part of the subject property has, in Mr. Rafford's words "steep, sloping, rugged terrain". The Appellant noted, in cross-examination of Mr. Rafford, that a purchaser who wishes to purchase a property for other than agricultural use may prefer to have steep, sloping or rugged property. I believe that the Appellant made a valid point and I do not think that Mr. Rafford's conclusion regarding the fact that sales Nos. 2, 3, 4, 5 and 6 were "topographically superior" was necessarily correct unless the purchaser was purchasing the Property for agriculture purposes only.
+[20] In his Report Mr. Rafford said that sales Nos. 3, 4, 5 and 6 were used by him in arriving at the value of the Property. In examining the prices that were received in Sales Nos. 3, 4, 5 and 6, I note the following:
+SaleNo.
+Price Per Acre
+3
+$ 825.00
+4
+$ 264.00
+5
+$ 842.00
+6
+$1,388.00
+I do not think that it is fair in an analysis of this nature to use a sale such as sale No. 4 where the price paid per acre is extremely low compared to the other "comparables" without a proper explanation of why such a low price was paid for that Property.
+[21] For the reasons outlined above I have concluded that Mr. Rafford was too low in his estimate of the land value of the subject Property. In my opinion the value of the land sold by the Appellant to the Company should be valued at $1,400.00 per acre or a total of $112,000.00 ($1,400.00 x 80). I note that the price of $1,400.00 per acre is slightly less than the price paid for those properties that were purchased by the Skeetchestu Indian Band (see paragraph [18] above).
+B. Dwelling
+[22] Mr. Rafford indicated in his Report that the dwelling was built in 1976 (see page 17 of his Report). However, the Appellant testified that the original home (consisting of one bedroom) was built by the previous owner in 1976. The Appellant testified that he purchased the Property in 1980 when the dwelling consisted of approximately 700 square feet. The Appellant said that he added an additional 530 square feet to the dwelling.
+[23] Mr. Rafford said that the dwelling had a Fair Market Value, in his opinion, of $58,786.00.
+[24] In my opinion Mr. Rafford was too low on his estimate of the main dwelling since he was apparently not aware of the date that the dwelling was improved by the Appellant. In my view the main dwelling should have a value of $80,000.00.
+C. Steel Bridge
+[25] Mr. Rafford said in his Report that in his opinion the steel bridge had a value on January 31, 2001 of $2,550.00. The Appellant noted that without the bridge he would only have access to 40 acres of the 80-acre parcel since the river divided the Property.
+[26] The Appellant said that in his opinion the steel bridge had a value of $50,000.00.
+[27] Mr. Rafford said on cross-examination that he is not familiar with the cost of steel nor is he familiar with the cost of erecting a steel bridge.
+[28] I believe that Mr. Rafford is too low on his estimate of the value of the steel bridge. I have concluded that because of the replacement cost of a steel bridge and because of the importance of the bridge to the subject Property the steel bridge had a value of $35,000.00.
+D. Timber
+[29] Mr. Rafford did not ascribe any value to the timber located on the Property. Mr. Rafford said at page 14 of his Report:
+As a result of the contents of the Border timber appraisal and the information drawn from the discussion with the local timber broker, it was decided that the presence of marketable timber on the subject property would not be a significant factor in determining the Highest and Best Use of the Property.
+[30] Mr. Rafford admitted on cross-examination by the Appellant that he checked with a timber broker and he was told that removing timber from the Property by helicopter was not cost effective. However, Mr Rafford said that he was not familiar with the cost per metre of logging by helicopter.
+[31] The Appellant indicated that he has talked to a number of people involved in the logging industry and they have advised him that the timber located on the Property has significant value.
+[32] In view of the Appellant's testimony, I do not believe it is reasonable to place no value on the timber located on the Property. In my opinion the timber on the Property had a value on January 31, 2001 of $25,000.00.
+[33] I have concluded that in determining the Fair Market Value of the Property on January 31, 2001 the following adjustments should be made:
+Value as Determine
+by Mr. Rafford__ Revised Value
+Land $71,000.00 $112,000.00
+Dwelling $58,786.00 $80,000.00
+Guest Cabin/Storage $1,725.00 $1,725.00 (no change)
+Small Guest Cabin $977.00 $977.00 (no change)
+Barn $2,209.00 $2,209.00 (no change)
+Steel Bridge $2,550.00 $35,000.00
+Pump House $500.00 $500.00 (no change)
+Arch Rib Structure $550.00 $500.00 (no change)
+Miscellaneous $1,000.00 $1,000.00 (no change)
+Timber $0.00 $25,000.00
+Total $139,247.00 $258,911.00
+$139,000.00 $259,000.00
+(rounded) (rounded)
+[34] The Reassessment regarding the benefit received by the Appellant on the transfer of the Property to the Company was issued under subsection 15(1) of the Act. Subsection 15(1) of the Act provides that the amount or value of the benefit conferred on a shareholder by a Corporation is to be included in the income of the shareholder.
+[35] In order to determine whether the Reassessment is correct I must determine whether a benefit was conferred by the Company and, if so, the amount or value of the benefit.
+[36] In my opinion the Company conferred a benefit on the Appellant when it purchased the Property from the Appellant on January 31, 2001 for $420,000.00. However, I have concluded that the amount or value of this benefit should be determined as follows:
+- Fair Market Value of Property as
+determined by the Appellant $420,000.00
+- Determination by the Court of the Fair
+Market Value of the Property on
+January 31, 2001 $259,000.00
+Value of Benefit $161,000.00
+[37] The Appellant is to be reassessed for the 2001 taxation year. The amount of $240,000.00 is to be deleted from his income and the amount of $161,000.00 is to be included in his income.
+[38] I have also concluded that in these circumstances the Minister was correct in imposing a penalty under subsection 163(2) of the Act.
+[39] The appeal is allowed, without costs.
+Signed at Vancouver, British Columbia, this 3rd day of January 2006.
+"L.M. Little"
+Little J.
+CITATION:
+2005TCC810
+COURT FILE NO.:
+2004-537(IT)G
+STYLE OF CAUSE:
+Jerome Downey and
+Her Majesty the Queen
+PLACE OF HEARING:
+Kamloops, British Columbia
+DATE OF HEARING:
+December 2, 2005
+REASONS FOR JUDGMENT BY:
+The Honourable Justice L.M. Little
+DATE OF JUDGMENT:
+January 3, 2006
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Victor Caux
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

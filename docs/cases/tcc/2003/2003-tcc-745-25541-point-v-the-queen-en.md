@@ -1,0 +1,194 @@
+---
+title: "Point v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/25541/index.do"
+last_modified: "2003-12-02"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 TCC 745"
+citation2: ""
+neutral_citation: "2003 TCC 745"
+decision_date: "2003-12-02"
+language: "en"
+item_id: "25541"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2477
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T17:25:41.253000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "9d02c79505336df978bf782aa1c03bebf4e9b505dc43bb75190cbc41077102d7"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Point v. The Queen
+
+- Citation: 2003 TCC 745
+- Decision date: 2003-12-02
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2477, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Point v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-12-02
+Neutral citation
+2003 TCC 745
+File numbers
+2003-1897(IT)I
+Judges and Taxing Officers
+Paul Bédard
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2003-1897(IT)I
+BETWEEN:
+MARIO POINT,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeals heard on October 6, 2003, at Québec, Quebec
+Before: The Honourable Justice Paul Bédard
+Appearances:
+Agent for the Appellant:
+Claude Delisle
+Counsel for the Respondent:
+Anne Poirier
+____________________________________________________________________
+JUDGMENT
+The appeals from the assessments made pursuant to the Income Tax Act for the 1999, 2000 and 2001 taxation years are dismissed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 2nd day of December 2003.
+“Paul Bédard”
+Bédard J.
+Translation certified true
+on this 30th day of March 2009.
+Bella Lewkowicz, Translator
+Citation: 2003TCC745
+Date: 20031202
+Docket: 2003-1897(IT)I
+BETWEEN:
+MARIO POINT,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Bédard J.
+[1] These are appeals under the Informal Procedure with respect to the Canada Child Tax Benefit (CCTB) for the 1999, 2000 and 2001 base years.
+[2] On January 20, 2003, the Minister of National Revenue (the Minister) issued to the Appellant Notices of Redetermination in respect of the CCTB for the 1999, 2000 and 2001 base years.
+[3] The Notices claimed from the Appellant overpayments of the CCTB in the amounts of $173.42, $2,372 and $1,222.04 for the 1999, 2000 and 2001 base years, respectively.
+[4] In making and confirming the Notices of Redetermination with respect to the CCTB for the base years at issue, the Minister relied on the following facts set out in paragraph 4 of the Reply to the Notice of Appeal:
+[TRANSLATION]
+a) The Appellant and Johanne Auger (former spouse) have been separated since 1996;
+b) Their union produced two children: Marie-Ève on April 12, 1986, and Alexandra on May 5, 1992;
+c) During the years at issue, the former spouse continued to claim the CCTB for her two children, Marie-Ève and Alexandra;
+d) On April 15, 2002, the Appellant filed the form RC-66, “Canada Child Benefits Application”, for his daughter Marie-Ève, indicating on the form that on May 13, 2001, he became the eligible individual to receive the CCTB;
+e) On May 31, 2002, a request for clarification was sent to the Appellant to verify his eligibility to receive the CCTB;
+f) In responding to the request, the Appellant said that his daughter, Marie-Ève, had been living with him permanently since May 13, 2001;
+g) The Appellant’s former spouse claimed their daughter, Marie-Ève, still lived with her on a regular basis and provided the relevant document attesting to the fact that during the years at issue, she was the eligible individual who primarily fulfilled the responsibility for the care and upbringing of her daughter;
+h) The Appellant did not submit a single document showing that during the years at issue, he was the eligible individual who primarily fulfilled the responsibility for the care and upbringing of his daughter, Marie-Ève;
+i) For the 1999 base year, from July 2000 to June 2001, the Minister made an overpayment of the CCTB to the Appellant with respect to June 2001, in the amount of $173.42, when he was not the eligible individual;
+j) For the 2000 base year, from July 2001 until June 2002, the Minister made an overpayment of the CCTB to the Appellant in the amount of $2,372 when throughout that period, he was not the eligible individual;
+k) For the 2001 base year, from July 2002 to June 2003, the Minister made an overpayment of the CCTB to the Appellant in the amount of $1,222.04, with respect to July to December 2002, when he was not the eligible individual.
+[5] The only issue is determining if the Minister was mistaken in deciding the Appellant was not the eligible individual for the years at issue.
+[6] The definition of “eligible individual” in section 122.6 of the Income Tax Act (the Act) reads as follows:
+"eligible individual"
+in respect of a qualified dependant at any time means a person who at that time
+(a) resides with the qualified dependant,
+(b) is the parent of the qualified dependant who primarily fulfils the responsibility for the care and upbringing of the qualified dependant,
+(c) is resident in Canada or, where the person is the cohabiting spouse or common-law partner of a person who is deemed under subsection 250(1) to be resident in Canada throughout the taxation year that includes that time, was resident in Canada in any preceding taxation year,
+(d) is not described in paragraph 149(1)(a) or 149(1)(b), and
+(e) is, or whose cohabiting spouse or common-law partner is, a Canadian citizen or a person who
+(i) is a permanent resident within the meaning of subsection 2(1) of the Immigration and Refugee Protection Act ,
+(ii) is a temporary resident within the meaning of the Immigration and Refugee Protection Act , who was resident in Canada throughout the 18 month period preceding that time, or
+(iii) is a protected person within the meaning of the Immigration and Refugee Protection Act ,
+(iv) was determined before that time to be a member of a class defined in the Humanitarian Designated Classes Regulations made under the Immigration Act,
+and for the purposes of this definition,
+(f) where the qualified dependant resides with the dependant’s female parent, the parent who primarily fulfils the responsibility for the care and upbringing of the qualified dependant is presumed to be the female parent,
+(g) the presumption referred to in paragraph 122.6 eligible individual (f) does not apply in prescribed circumstances, and
+(h) prescribed factors shall be considered in determining what constitutes care and upbringing;
+[7] For the purposes of paragraphs (g) and (h) of the definition of “eligible individual” in section 122.6 of the Act, sections 6301 and 6302 of Part LXIII of the Income Tax Regulations (the Regulations) provide the following:
+NON-APPLICATION OF PRESUMPTION
+6301. (1) For the purposes of paragraph (g) of the definition "eligible individual" in section 122.6 of the Act, the presumption referred to in paragraph (f) of that definition does not apply in the circumstances where
+(a) the female parent of the qualified dependant declares in writing to the Minister that the male parent, with whom she resides, is the parent of the qualified dependant who primarily fulfils the responsibility for the care and upbringing of each of the qualified dependants who reside with both parents;
+(b) the female parent is a qualified dependant of an eligible individual and each of them files a notice with the Minister under subsection 122.62(1) of the Act in respect of the same qualified dependant;
+(c) there is more than one female parent of the qualified dependant who resides with the qualified dependant and each female parent files a notice with the Minister under subsection 122.62(1) of the Act in respect of the qualified dependant; or
+(d) more than one notice is filed with the Minister under subsection 122.62(1) of the Act in respect of the same qualified dependant who resides with each of the persons filing the notices if such persons live at different locations.
+(2) For greater certainty, a person who files a notice referred to in paragraph (1)(b), (c) or (d) includes a person who is not required under subsection 122.62(3) of the Act to file such a notice.
+FACTORS
+6302. For the purposes of paragraph (h) of the definition "eligible individual" in section 122.6 of the Act, the following factors are to be considered in determining what constitutes care and upbringing of a qualified dependant:
+(a) the supervision of the daily activities and needs of the qualified dependant;
+(b) the maintenance of a secure environment in which the qualified dependant resides;
+(c) the arrangement of, and transportation to, medical care at regular intervals and as required for the qualified dependant;
+(d) the arrangement of, participation in, and transportation to, educational, recreational, athletic or similar activities in respect of the qualified dependant;
+(e) the attendance to the needs of the qualified dependant when the qualified dependant is ill or otherwise in need of the attendance of another person;
+(f) the attendance to the hygienic needs of the qualified dependant on a regular basis;
+(g) the provision, generally, of guidance and companionship to the qualified dependant; and
+(h) the existence of a court order in respect of the qualified dependant that is valid in the jurisdiction in which the qualified dependant resides.
+[8] We are concerned only with the conditions established in paragraph (b) of the definition of “eligible individual” in section 122.6 of the Act, namely, that the parent of the qualified dependant must be the person who “primarily fulfils the responsibility for the care and upbringing of the qualified dependant”.
+[9] The Appellant, Johanne Auger and their daughter, Marie-Ève, all testified.
+[10] It was admitted that the Appellant and Ms. Auger were not divorced; they were separated and there was no order, judgment or written agreement with respect to Marie-Ève’s custody.
+[11] Even though the Appellant’s testimony and Ms. Auger’s testimony were sometimes contradictory with respect to Marie-Ève’s principal residence, the daughter lived mainly with her father. Marie-Ève indicated in her testimony that during the school year, she lived mainly with her father and spent every other weekend with her mother. In the summer months, she testified that she divided her time equally between her parents.
+[12] Therefore, we can conclude that Marie-Ève did not live exclusively with her mother, which means that the presumption in paragraph (f) of the definition of “eligible individual” in section 122.6 of the Act does not apply.
+[13] When this is the case, the issue of determining which parent primarily fulfilled the responsibility for the care and upbringing of the “qualified dependant” during the years at issue must be determined pursuant to the factors listed in section 6302 of the Regulations.
+[14] Ms. Auger testified that she paid for all her daughter’s clothing, medical expenses, medication and dental fees. She also said she took her daughter to the doctor and to the hospital when she required urgent care. In support of her testimony, she submitted in a bundle, as Exhibit I-4, a series of receipts and letters or confirmation.
+[15] She also submitted, as Exhibit I-3, Marie-Ève’s report cards for the 2000-2001 and 2002-2003 school years, which indicate that Ms. Auger is the recipient of the report cards. She also submitted, as Exhibit I-2, a letter from Marie-Ève’s school identifying Ms. Auger as the Marie-Ève’s sole guardian for the 2001-2002 school year.
+[16] However, the Appellant did not submit any documentary evidence showing that during the years at issue, he was the “eligible individual” who primarily fulfilled the responsibility for the care and upbringing of his daughter, Marie-Ève. Moreover, he testified that he fed his daughter when she lived with him and gave her pocket money. With respect to Marie-Ève’s report cards, he testified also being the recipient as of September 2001 without actually providing any documentary evidence in this regard.
+[17] In reviewing the factors listed in section 6302 of the Regulations, I only received vague or noncommittal answers from the Appellant most of the time.
+[18] In light of the factors that must be examined, which are based on care, attention and participation, as well as the evidence submitted, which is insufficient in many respects, I must conclude that the Appellant did not sufficiently prove, on a balance of probabilities, that he met the conditions established in paragraph (b) of the definition of “eligible individual” in section 122.6 of the Act, namely that he was, for the years at issue, the parent who primarily fulfilled the responsibility for the care and upbringing of his daughter, Marie-Ève.
+[19] As a result, the appeals are dismissed.
+Signed at Ottawa, Canada, this 2nd day of December 2003.
+“Paul Bédard”
+Bédard J.
+Translation certified true
+on this 30th day of March 2009.
+Bella Lewkowicz, Translator
+CITATION:
+2003TCC745
+COURT FILE NO.:
+2003-1897(IT)I
+STYLE OF CAUSE:
+Mario Point and Her Majesty the Queen
+PLACE OF HEARING:
+Québec, Quebec
+DATE OF HEARING:
+October 28, 2003
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Paul Bédard
+DATE OF JUDGMENT:
+December 2, 2003
+APPEARANCES:
+Agent for the Appellant:
+Claude Delisle
+Counsel for the Respondent:
+Anne Poirier
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

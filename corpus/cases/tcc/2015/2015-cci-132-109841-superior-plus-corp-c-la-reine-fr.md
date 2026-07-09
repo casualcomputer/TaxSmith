@@ -1,0 +1,430 @@
+---
+title: "Superior Plus Corp. c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/109841/index.do"
+last_modified: "2015-05-22"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2015 CCI 132"
+citation2: ""
+neutral_citation: "2015 CCI 132"
+decision_date: "2015-05-22"
+language: "fr"
+item_id: "109841"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2825
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T16:32:52.311000+00:00"
+cases_cited_count: 10
+cases_citing_count: 12
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "08cdf5a976b142942e71cfa9474a5e79fb3786ed961f04a3ce190d08df97d5ec"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Superior Plus Corp. c. La Reine
+
+- Citation: 2015 CCI 132
+- Decision date: 2015-05-22
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2825, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Superior Plus Corp. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2015-05-22
+Référence neutre
+2015 CCI 132
+Numéro de dossier
+2013-2939(IT)G
+Juges et Officiers taxateurs
+Robert James Hogan
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2013-2939(IT)G
+ENTRE :
+SUPERIOR PLUS CORP.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Requête en vue d'obtenir une ordonnance de répondre à des questions entendue le 19 février 2015, à Calgary (Alberta)
+Devant : L'honorable juge Robert J. Hogan
+Comparutions :
+Avocats de l'appelante :
+Me Al Meghji
+Me Edward Rowe
+Me Joanne Vandale
+Avocats de l'intimée :
+Me Raj Grewal
+Me Perry Derksen
+Me Shankar Kamath
+ORDONNANCE
+Vu la requête présentée par les avocats de l'appelante en vue d'obtenir, en vertu des articles 95 et 110 et des paragraphes 105(2) et 107(3) des Règles de la Cour canadienne de l'impôt (procédure générale), une ordonnance contraignant l'intimée à :
+a) répondre aux questions numérotées de 1 à 13 dans les motifs des ordonnances ci‑joints;
+b) produire des copies non caviardées des documents numérotés de 1 à 25 dans les motifs des ordonnances ci‑joints;
+c) se présenter de nouveau et répondre à toutes les questions légitimes qui découlent de ses réponses;
+d) payer les frais de la présente requête;
+Après avoir lu les affidavits déposés et entendu les observations présentées oralement par et pour les parties, et après avoir lu les observations écrites présentées par les avocats des parties;
+Pour les raisons indiquées dans les motifs des ordonnances ci‑joints, la requête est accueillie, sous réserve de conditions, et la Cour ordonne ce qui suit :
+a) l'intimée doit répondre aux questions désignées, dans les motifs des ordonnances ci‑joints, comme étant les questions refusées nos 1, 2, 3, 4, 5, 7, 9, 10, 11 et 12;
+b) l'intimée doit produire les documents désignés, dans les motifs des ordonnances ci‑joints, comme étant les documents refusés nos 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11a), 14, 15, 19, 20, 21, 22, 23, 24 et 25, y compris les notes de bas de page, en n'omettant que les passages indiqués dans les motifs des ordonnances ci‑joints;
+c) la représentante de l'intimée doit se présenter de nouveau et répondre à toutes les questions légitimes qui découlent de ses réponses;
+d) les frais sont adjugés à l'appelante quelle que soit l'issue de la cause;
+e) la Cour a reçu, à des fins d'examen, un cartable blanc contenant les copies non caviardées des documents refusés. Étant donné que la présente requête est maintenant tranchée, ces documents doivent être scellés dans le dossier de la Cour.
+Signé à Ottawa, Canada, ce 22e jour de mai 2015.
+« Robert J. Hogan »
+Le juge Hogan
+Dossier : 2013-2939(IT)G
+ENTRE :
+SUPERIOR PLUS CORP.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Requête en vue d'obtenir une ordonnance de déposer des documents entendue le 19 février 2015, à Calgary (Alberta)
+Devant : L'honorable juge Robert J. Hogan
+Comparutions :
+Avocats de l'appelante :
+Me Al Meghji
+Me Edward Rowe
+Me Joanne Vandale
+Avocats de l'intimée :
+Me Raj Grewal
+Me Perry Derksen
+Me Shankar Kamath
+ORDONNANCE
+Vu la requête présentée par les avocats de l'intimée en vertu de l'article 95 des Règles de la Cour canadienne de l'impôt (procédure générale) en vue d'obtenir la production des documents suivants :
+a) 18 novembre 2008 — Note de Macleod Dixon concernant les conséquences fiscales du projet Shorty;
+b) 5 février 2009 — Avis de Macleod Dixon concernant le plan d'arrangement;
+c) 17 septembre 2009 — Avis de Borden Ladner Gervais S.E.N.C.R.L., s.r.l. concernant l'arrangement mis en œuvre le 31 décembre 2008;
+Après avoir lu les affidavits déposés et les observations écrites déposées par les avocats des parties;
+Pour les raisons indiquées dans les motifs des ordonnances ci‑joints, la requête est rejetée, et les frais sont adjugés à l'appelante quelle que soit l'issue de la cause. La Cour a reçu copie des avis susmentionnés aux fins de trancher la présente requête. Étant donné que la présente requête est maintenant tranchée, ces avis doivent être scellés dans le dossier de la Cour.
+Signé à Ottawa, Canada, ce 22e jour de mai 2015.
+« Robert J. Hogan »
+Le juge Hogan
+Référence : 2015 CCI 132
+Date : 20150522
+Dossier : 2013-2939(IT)G
+ENTRE :
+SUPERIOR PLUS CORP.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DES ORDONNANCES
+Le juge Hogan
+I. Aperçu [1] L'appelante est successeur d'une entreprise de distribution de gaz qui était auparavant exploitée indirectement par Superior Plus Income Fund (le « fonds »).
+[2] À la fin de 2006, le ministre des Finances a annoncé la création d'un nouvel impôt sur les distributions des entités intermédiaires de placement déterminées (les « EIPD ») destiné à réduire les avantages que celles‑ci tiraient de leur statut d'entités relais pour des raisons fiscales. Cette modification légale a eu pour effet d'encourager les EIPD à restructurer leurs activités (ce que l'on appelle communément une « conversion ») au plus tard le 31 décembre 2010 en mettant en place une structure d'entreprise autre qu'une structure d'entité intermédiaire, à défaut de quoi elles seraient assujetties au nouvel impôt (l'« impôt des EIPD »).
+[3] Pour faciliter les conversions, le ministère des Finances a déposé, en juillet 2008, un projet de loi autorisant des méthodes de conversion à impôt différé (que l'on appelle communément la « méthode d'échange » et la « méthode de distribution »).
+[4] De façon générale, sous le régime de la méthode d'échange, les détenteurs de parts sont invités à échanger leurs parts détenues dans une EIPD contre des actions d'une seule catégorie d'une société canadienne imposable. Cet échange peut être effectué en report d'impôt. Une fois que la société acquiert toutes les parts de l'EIPD, celle‑ci peut être dissoute en franchise d'impôt.
+[5] Par contre, selon la méthode de distribution, l'EIPD procède d'abord à la restructuration de ses activités en tant que société ou au sein d'une société. Elle est ensuite dissoute en franchise d'impôt. Les détenteurs de parts bénéficient d'un transfert en franchise d'impôt s'ils cèdent leurs parts en contrepartie d'une seule catégorie d'actions de la société.
+[6] Ces mesures ont provoqué un grand nombre de conversions, dont la plupart devaient être achevées immédiatement avant l'entrée en vigueur de l'impôt des EIPD. Le fonds a plutôt choisi de procéder à la conversion plus tôt, en affirmant qu'il voulait s'établir en tant que société versant des dividendes avant de nombreuses autres EIPD.
+[7] Le fonds a procédé à la conversion selon la méthode de distribution. Le dossier de requête indique qu'il n'a pas eu recours à une nouvelle société pour effectuer sa conversion. Il a plutôt choisi de mettre en place un plan d'arrangement complexe avec Ballard Power Systems Inc. (l'« ancienne société Ballard », maintenant l'appelante), aux termes duquel :
+a) les actifs nets de l'ancienne société Ballard ont été transférés à une nouvelle société (la « nouvelle société Ballard »), qui a ensuite exploité l'entreprise de l'ancienne société Ballard;
+b) l'ancienne société Ballard a conservé ses attributs fiscaux, notamment ses pertes autres que des pertes en capital, ses pertes en capital, ses frais de recherche et développement et ses crédits d'impôt à l'investissement (les « attributs fiscaux »);
+c) les actionnaires existants de l'ancienne société Ballard sont devenus des actionnaires de la nouvelle société Ballard;
+d) le fonds a restructuré son entreprise de distribution de gaz sous la raison sociale de l'ancienne société Ballard;
+e) les détenteurs de parts dans le fonds sont devenus des actionnaires de l'ancienne société Ballard;
+f) l'ancienne société Ballard a changé sa raison sociale pour celle de Superior Plus Corp., l'appelante.
+[8] L'appelante s'est servie des attributs fiscaux pour protéger les bénéfices tirés de son entreprise de distribution de gaz pour ses années d'imposition 2009 et 2010. Le ministre du Revenu national (le « ministre ») a refusé le recours aux attributs fiscaux pour l'un ou l'autre des deux motifs suivants :
+a) les détenteurs de parts constituaient un groupe de personnes ayant acquis le contrôle de l'appelante selon le plan d'arrangement, ce qui a déclenché l'application de ce que l'on appelle les restrictions de classement en vertu des paragraphes 111(4), 111(5), 37(6.1) et 127(9.1) de la Loi de l'impôt sur le revenu (la « Loi »);
+b) la règle générale anti‑évitement (la « RGAÉ ») s'appliquait parce que la conversion était structurée de manière à contourner les restrictions de classement de façon abusive.
+[9] L'appelante a présenté une requête (la « requête de l'appelante ») en vue d'obtenir (i) des réponses aux questions auxquelles l'on a refusé de répondre lors de l'interrogatoire préalable (les « questions refusées »), (ii) la production de copies non caviardées de documents produits dans une forme caviardée, (iii) la production de documents qu'on avait catégoriquement refusé de produire (les documents sont appelés collectivement les « documents refusés »).
+[10] L'intimée a présenté une requête (la « requête de l'intimée ») en vue de contraindre l'appelante à produire des documents contenant des conseils fiscaux (les « autres avis juridiques ») au motif que le secret professionnel de l'avocat avait fait l'objet d'une renonciation.
+II. Analyse A. La requête de l'appelante [11] Le dossier de requête indique que l'appelante a obtenu les documents refusés en vertu de la Loi sur l'accès à l'information (la « LAI »). Avant le début de la communication préalable, l'appelante avait demandé des copies non caviardées des documents refusés en vertu de la LAI.
+[12] Initialement, le refus de l'intimée reposait sur (i) la confidentialité des documents du Cabinet, (ii) le secret professionnel de l'avocat, (iii) le privilège découlant d'un règlement, (iv) l'absence de pertinence. L'appelante accepte les refus fondés sur le secret professionnel de l'avocat et sur le privilège découlant d'un règlement, à condition que la Cour confirme après examen que le caviardage en question (ou le refus catégorique de produire un document) est justifié sur l'un ou l'autre fondement. L'appelante a retiré sa demande en ce qui concerne les documents protégés par le secret du Cabinet. Les objections qu'il me reste à trancher reposent exclusivement sur la pertinence.
+[13] Dans ses observations orales et écrites, l'intimée me demande de suivre les principes énoncés par la Cour d'appel fédérale (la « C.A.F. ») dans l'arrêt Owen Holdings Ltd. c. Canada[1]. L'appelante se fonde sur l'arrêt plus récent R. c. Lehigh Cement Limited, rendu par la C.A.F.[2].
+[14] Dans l'arrêt Owen Holdings, la C.A.F. a formulé les observations suivantes :
+6 [...] Les principes bien établis qui prévoient un degré de pertinence relativement peu élevé à l'étape de l'interrogatoire préalable, par opposition au degré plus élevé en matière d'admission de preuve lors du procès, sont bien connus. [...] Son analyse [celle du juge de la Cour de l'impôt] portant que ces documents, qui ne tendaient pas à établir des [TRADUCTION] « faits législatifs » mais plutôt les [TRADUCTION] « opinions d'auteurs », avaient un lien si ténu avec les questions litigieuses qu'ils ne pouvaient donner lieu à un champ d'enquête pouvant profiter à l'appelante nous semble parfaitement bien fondée. [...]
+[15] Dans l'arrêt Owen Holdings, la C.A.F. a conclu que les types de documents suivants n'étaient pas pertinents :
+a) tous les rapports, notes de service, notes, messages par courrier électronique, etc., ayant mené à la rédaction de la RGAÉ, y compris toutes les ébauches des Notes explicatives de la RGAÉ de même que tout rapport ayant trait à ces Notes explicatives;
+b) tous les rapports ayant mené à la rédaction de certaines dispositions de la Loi;
+c) tous les rapports ayant trait aux témoignages de divers fonctionnaires du ministère des Finances devant les comités de la Chambre des communes et du Sénat relativement à la RGAÉ.
+[16] Il y a lieu de formuler deux observations en l'espèce. Premièrement, contrairement à l'espèce, les faits de l'affaire Owen Holdings indiquent que les documents susmentionnés n'ont pas été préparés aux fins de la vérification menée à l'égard de la contribuable. Deuxièmement, ainsi que l'appelante le souligne à juste titre, l'arrêt Owen Holdings a été rendu avant l'arrêt Hypothèques Trustco Canada c. Canada[3]. Dans l'arrêt Hypothèques Trutsco, la Cour suprême du Canada a confirmé que la Couronne doit déterminer l'objet ou l'esprit des dispositions (ci‑après appelés la « politique ») qui, selon ses affirmations, ont été contrecarrés par l'opération d'évitement, et convaincre la cour qu'il y a eu abus de la politique. Le bénéfice du doute est laissé au contribuable.
+[17] Dans l'arrêt Lehigh, qui a été rendu après l'arrêt Hypothèques Trustco, la C.A.F. a souscrit à un critère plus large pour lancer une enquête lors de la communication préalable dans le cas d'une cotisation fondée sur la RGAÉ :
+34 Il appert de la jurisprudence qu'une question est pertinente lorsqu'il est raisonnablement possible qu'elle mène à l'obtention de renseignements pouvant directement ou indirectement permettre à la partie qui sollicite la réponse de faire valoir ses arguments ou de réfuter ceux de son adversaire ou de la lancer dans une enquête qui pourra produire l'un ou l'autre de ces effets. [...]
+[18] Dans cet arrêt, la C.A.F. a souscrit à l'ordonnance du juge de première instance qui avait autorisé la communication de documents se rapportant à une politique sur la portée de la Loi :
+38 En ce qui concerne l'application de ces principes, dans la présente affaire, la Couronne avait communiqué la note de Gulliver à Lehigh. La note avait été produite en réponse à une demande adressée à la Couronne afin qu'elle fournisse [TRADUCTION] « toute la correspondance et toutes les notes qui ont été échangées au siège social, au bureau de district et entre le siège social et le bureau de district et qui comportent des directives ou des conseils sur la question de la RGAÉ ».
+[…]
+40 À mon avis, une lecture de la note de Gulliver et des nouvelles cotisations subséquemment établies à l'encontre de Lehigh sur le fondement du paragraphe 95(6) permet de déduire que l'ARC pourrait fort bien avoir préparé des notes ultérieures au sujet de la possibilité d'invoquer le paragraphe 95(6) de la Loi à titre de disposition générale anti-évitement. Si des documents de cette nature existent, ils seraient raisonnablement susceptibles de permettre à Lehigh, directement ou indirectement, de prouver ses arguments ou de réfuter ceux de la Couronne. À mon sens, la juge de la Cour de l'impôt n'a pas commis d'erreur lorsqu'elle en a ordonné la production. C'est le juge de première instance qui déterminera leur pertinence en dernier ressort.
+41 Pour en arriver à cette conclusion, j'ai examiné les arguments de la Couronne selon lesquels les avis exprimés par des agents de l'ARC en dehors du contexte propre à un contribuable donné ne sont pas pertinents et selon lesquels les publications officielles de l'ARC ont une pertinence restreinte. Ces arguments pourraient être valablement invoqués dans une autre affaire. Cependant, dans le contexte factuel et procédural de la présente affaire, la Couronne a déjà communiqué la note de Gulliver à titre de document pertinent. Afin de pouvoir procéder de façon rapide à une audience juste où elle saura exactement ce qu'elle doit prouver, Lehigh devrait recevoir toutes notes subséquentes concernant l'élaboration d'une politique générale au sujet de l'alinéa 95(6)b) de la Loi.
+[Non souligné dans l'original.]
+[19] Dans l'arrêt Lehigh, la Couronne a fait valoir que : « Les avis exprimés par des agents de l'ARC en dehors du contexte propre à un contribuable donné ne sont pas pertinents[4]. » Cette affirmation a été rejetée, et la C.A.F. a ordonné la production de documents reconnus comme n'ayant pas été préparés lors de la vérification menée à l'égard de Lehigh. En l'espèce, le dossier de requête indique que les documents refusés ont été soit préparés directement lors de la vérification effectuée à l'égard de l'appelante, soit examinés par des fonctionnaires de l'ARC qui étaient chargés de procéder à la vérification concernant l'appelante ou qui ont été consultés sur l'application de la RGAÉ.
+[20] Dans la décision Birchcliff Energy Ltd. c. La Reine[5], mon collègue le juge C. Miller a énoncé certaines exigences particulières qui s'appliquent à l'égard des actes de procédure du ministre dans une affaire se rapportant à la RGAÉ :
+[TRADUCTION]
+15 La RGAÉ est une mesure légale particulière en ce sens qu'elle permet au fisc de contourner des dispositions de la Loi sur le fondement d'un abus de politique, une politique dont la preuve doit être apportée par la Couronne, et d'imposer ensuite toute conséquence qu'il juge raisonnable. Je ne puis retenir l'argument de la Couronne selon lequel l'obligation de communiquer dans les actes de procédure la politique ayant fait l'objet d'un abus aurait pour effet de permettre que la Couronne soit tenue d'expliquer l'interprétation qu'elle fait de toute disposition de la Loi. La Cour suprême du Canada a clairement affirmé que la Couronne doit prouver l'existence d'une politique dans les instances mettant en cause la RGAÉ : il s'agit du point de départ de la contestation fondée sur la RGAÉ. Cela ne s'apparente à aucune autre disposition de la Loi. Il n'y a pas de pente glissante.
+[21] Dans la décision Birchcliff, la Cour canadienne de l'impôt a conclu que la réponse de la Couronne devait obligatoirement énoncer [TRADUCTION] « le fait que le ministre se soit fondé sur telle ou telle politique qui sous‑tend les dispositions légales en cause »[6]. La Cour a souligné que cela ne lie pas la Couronne, mais elle a déclaré que [TRADUCTION] l'« objectif ultime » consistait à veiller à ce qu'il n'y ait aucune surprise à l'audience[7]. La décision Birchcliff énonce les exigences relatives aux actes de procédure à l'égard de la politique dans une instance mettant en cause la RGAÉ[8]. Il est bien établi que la pertinence lors de la communication préalable est déterminée en fonction des actes de procédure. Il s'ensuit qu'un contribuable devrait avoir le droit de procéder à une enquête concernant la politique que le ministre affirme avoir prise en compte ou sur laquelle il dit s'être appuyé pour établir une cotisation fondée sur la RGAÉ.
+[22] Dans la décision Gwartz c. La Reine[9], j'ai analysé le rôle d'une modification légale subséquente dans le cas d'une affaire se rapportant à la RGAÉ :
+57 Ces décisions démontrent qu'une modification apportée ultérieurement, qui aurait fait échec à une stratégie d'évitement fiscal contestée au titre de la RGAÉ, n'indique pas en soi si la stratégie était abusive ou non. Il faut plutôt examiner la modification apportée ultérieurement en même temps que tous les autres documents pertinents pour déterminer l'objet et l'esprit de la disposition. Dans certaines circonstances, une modification ultérieure pourrait sembler indiquer que la stratégie d'évitement fiscal avait contrecarré l'objet et l'esprit de la disposition. Dans d'autres circonstances, elle pourrait sembler indiquer que le législateur s'est tout simplement ravisé et qu'il a désormais l'intention d'empêcher quelque chose qui n'était pas au départ censé être visé par la disposition.
+[23] L'intimée a invoqué la décision Gwartz à l'appui de la thèse selon laquelle les avis individuels des fonctionnaires de l'ARC ou du ministère des Finances sur l'applicabilité de la RGAÉ ne sont pas pertinents[10]. Toutefois, j'ai tiré ces conclusions en ma qualité de juge du procès. De même, en l'espèce, ce sera au juge du procès de se prononcer en définitive sur l'admissibilité des faits ou des renseignements recueillis lors de la communication préalable ou sur le poids qu'il convient de leur accorder.
+[24] La décision Banque HSBC Canada c. La Reine[11] donne un résumé complet des principes généraux relatifs à la communication préalable. Les deux parties ont cité cette décision et bon nombre des décisions mentionnées dans le passage suivant :
+[TRADUCTION]
+13 Les deux parties ont fourni des résumés utiles de la manière dont la Cour a réglé par le passé la question de la portée des interrogatoires préalables. La juge Valerie Miller a ainsi résumé récemment certains des principes dans la décision Kossow c. La Reine :
+1. Les principes concernant la pertinence des questions ont été énoncés par le juge en chef Bowman et ils sont reproduits au paragraphe 50 :
+a) la question de la pertinence, dans le cadre de l'interrogatoire préalable, doit être interprétée d'une façon large et libérale et il faut accorder une grande latitude;
+b) le juge des requêtes ne doit pas remettre en question le pouvoir discrétionnaire en examinant minutieusement chaque question ou en demandant à l'avocat de la partie interrogée de justifier chaque question ou d'expliquer sa pertinence;
+c) le juge des requêtes ne devrait pas chercher à imposer son opinion au sujet de la pertinence au juge qui entend l'affaire en excluant des questions qu'il estime non pertinentes, mais que ce dernier, dans le contexte de la preuve dans son ensemble, pourrait considérer comme pertinentes;
+d) les questions manifestement non pertinentes ou abusives ou les questions destinées à embarrasser ou à harceler le témoin ou à retarder le procès ne doivent pas être autorisées.
+2. Bien que le critère de la pertinence à l'étape de la communication de la preuve soit très généreux, il ne permet pas une pure « recherche à l'aveuglette » : Lubrizol Corp. c. Compagnie Pétrolière Impériale Ltée.
+3. Il est légitime de poser des questions sur les faits sous‑tendant une allégation strictement en vue de prendre en note les faits, mais il n'est pas légitime de chercher à savoir quelle preuve un témoin a à l'appui d'une allégation : Sandia Mountain Holdings Inc. c. La Reine.
+4. Il n'est pas légitime de poser une question qui obligerait l'avocat à faire une classification des documents qu'il a produits et de préciser ensuite quels documents se rapportent à une question particulière. Agir ainsi revient en réalité à chercher à obtenir le produit du travail de l'avocat de la partie adverse : SmithKline Beecham Animal Health Inc. c. La Reine.
+5. Une partie n'a pas droit à l'expression de l'opinion de l'avocat de la partie adverse quant à l'utilisation pouvant légitimement être faite des documents produits par la partie adverse : SmithKline Beecham Animal Health Inc. c. La Reine.
+6. Une partie a droit à la communication intégrale de tous les documents sur lesquels le ministre s'est fondé pour établir sa cotisation : Amp of Canada Ltd. c. Canada.
+7. Le privilège relatif aux indicateurs de police empêche la divulgation de renseignements qui pourraient révéler l'identité d'un informateur qui a fourni une aide en vue d'assurer l'application de la loi en fournissant des renseignements sur des cotisations à titre confidentiel. Ce principe s'applique tant en matières civiles que pénales : Webster c. La Reine.
+8. Les Règles n'obligent pas une partie à fournir à la partie adverse une liste de témoins. En conséquence, une partie n'est pas tenue de fournir un résumé du témoignage de ses témoins ou de ses témoins éventuels : Loewen c. La Reine.
+9. Il est légitime de poser des questions pour déterminer la position juridique de la partie adverse : Six Nations of the Grand River Band c. Canada.
+10. Il n'est pas légitime de poser des questions qui portent sur le raisonnement suivi par le ministre ou par ses fonctionnaires pour établir une cotisation : Webster c. La Reine.
+14 Les principes supplémentaires suivants peuvent être tirés d'autres décisions récentes de la Cour canadienne de l'impôt :
+1. La partie menant l'interrogatoire a droit « à tout renseignement et à tout document qui peut raisonnablement mener à une série de questions susceptibles, directement ou indirectement, d'étayer sa thèse ou d'infirmer celle de la partie adverse » : Teelucksingh c. La Reine.
+2. La Cour ne devrait interdire que les questions qui « (1) constituent manifestement un abus; (2) sont manifestement dilatoires; (3) sont manifestement sans pertinence » : John Fluevog Boots & Shoes Ltd. c. La Reine.
+15 Enfin, dans la décision récente 4145356 Canada Limited c. La Reine, je suis arrivé aux conclusions suivantes :
+a) les documents ayant mené à la cotisation sont pertinents;
+b) les documents dans le dossier de l'ARC au sujet d'un contribuable sont en principe pertinents, et une demande visant la production de ces documents n'est pas en soi trop générale ou vague;
+c) les documents qu'un témoin a consultés afin de se préparer à l'interrogatoire préalable sont en principe pertinents;
+d) le fait qu'une partie n'ait pas consenti à la communication intégrale en vertu de l'article 82 des Règles n'empêche pas que l'on demande des documents de telle sorte qu'il semble y avoir une communication intégrale unilatérale.
+[Non souligné dans l'original.]
+[25] Comme cela a été souligné dans l'arrêt Lehigh, le contexte factuel et procédural propre à un appel portant sur une cotisation fondée sur la RGAÉ influe sur la manière dont ces principes devraient être appliqués.
+[26] À titre de renseignement contextuel supplémentaire, l'appelante allègue que sa conversion et les conversions des EIPD en général ont attiré l'attention de l'Agence du revenu du Canada (l'« ARC »). Elle soutient que la Division des décisions de l'ARC a porté les conversions à l'attention du ministère des Finances à la fin de 2008 et que la Division de la planification fiscale abusive (« Division de la PFA ») de l'ARC a demandé au bureau de Calgary d'entreprendre une vérification à l'égard de l'appelante vers le mois de janvier 2010 dans le contexte d'un examen des conversions des EIPD. La Division de la PFA avait à son tour reçu instruction de la part du comité de la RGAÉ de recueillir des faits concernant les conversions. L'appelante a exposé d'une manière très détaillée les diverses discussions ou les divers renvois entre les vérificateurs de l'ARC, la Division de la PFA et le comité de la RGAÉ, et entre le ministre et le ministère des Finances[12].
+[27] En se fondant sur des documents qui mettent ces discussions en évidence, l'appelante croit qu'il y a eu un différend entre le ministère des Finances et l'ARC en ce qui concerne l'application de la RGAÉ. Selon l'appelante, l'ARC a exercé une pression sur le ministère des Finances pour qu'il y ait une modification de la Loi afin d'empêcher les EIPD d'avoir accès aux attributs fiscaux des contribuables sans lien de dépendance lors de leur conversion. Le ministère des Finances a fini par partager les préoccupations de l'ARC et a édicté l'alinéa 256(7)c.1) afin de fermer la porte à ce type d'opérations portant sur l'échange de pertes. Toutefois, le ministère des Finances n'a pas fait en sorte que la disposition soit rétroactive. L'appelante allègue que le ministère des Finances a plutôt choisi de faire pression sur le ministre pour qu'il invoque la RGAÉ pour établir une cotisation à l'égard de l'appelante.
+[28] En raison du différend allégué, l'appelante se demande si le ministre s'est en réalité fondé sur les hypothèses relatives aux politiques énoncées au paragraphe 19 de la réponse, qui est ainsi libellé :
+[TRADUCTION]
+a) la politique générale de la Loi consiste à interdire le transfert de pertes entre des parties sans lien de dépendance, sous réserve de certaines exceptions expresses et facultatives, et le paragraphe 111(5) (ainsi que les dispositions connexes concernant les attributs fiscaux aux paragraphes 111(4), 37(6.1) et 127(9.1) de la Loi) est une disposition anti‑évitement conçue pour empêcher l'échange de pertes entre entreprises distinctes sans lien de dépendance;
+b) l'objectif des dispositions légales relatives aux EIPD qui proposent un impôt sur les distributions consistait à rétablir l'équilibre et l'équité du régime fiscal fédéral en assurant la neutralité de l'impôt sur le revenu à l'égard des bénéfices d'entreprise réalisés par des sociétés et des fiducies de revenu;
+c) le ministre a supposé que les règles de conversion concernant les EIPD, notamment les paragraphes 107(3) et (3.1) de la Loi, ont été conçues non pas pour faciliter l'échange de pertes entre parties non liées, mais pour veiller à ce que les fiducies de revenu puissent se réorganiser sous forme de sociétés sans devoir assumer un fardeau fiscal additionnel au moment de la conversion.
+[29] Dans sa réplique modifiée, l'appelante remet en question la politique désignée par le ministre et sur laquelle il se serait fondé. En outre, l'appelante allègue que l'adoption de l'alinéa 256(7)c.1) constituait une modification apportée à la politique sous le régime de la Loi.
+[30] À l'exception de caviardages en raison d'une objection fondée sur le secret professionnel, l'intimée explique que l'essentiel de ses refus tient au fait que l'appelante n'a pas le droit d'examiner le processus mental suivi par le ministre ou ses fonctionnaires pour établir la cotisation. Je tiens à souligner que l'intimée adopte un point de vue incohérent à cet égard. Par exemple, elle a communiqué la version finale du procès‑verbal de la réunion à l'issue de laquelle les fonctionnaires membres du comité de la RGAÉ ont approuvé l'application de la RGAÉ. L'intimée justifie cette communication par le fait que seuls les avis exprimés collectivement par des agents de l'ARC sont pertinents dans le cas d'une cotisation fondée sur la RGAÉ. Cela soulève la question de savoir pourquoi les avis collectifs sur la politique devraient revêtir plus d'importance que les avis individuels.
+[31] Dans le cas du présent appel, la position de l'intimée me semble inéquitable. La requête entendue indique que Mme Jina, une vérificatrice travaillant à la Division de la PFA à Calgary, a été chargée d'effectuer la vérification de l'appelante. Mme Jina était la représentante de l'intimée à l'interrogatoire préalable. Elle a signé l'affidavit déposé en réponse à la requête de l'appelante.
+[32] Le dossier de requête indique en outre que Mme Jina a participé à la rédaction d'une lettre de proposition et d'un exposé de position qui, selon ce qu'elle affirme dans son affidavit, énoncent les faits et le fondement de la cotisation établie par le ministre en cause en l'espèce. Il ressort également du dossier de requête qu'un certain nombre de fonctionnaires de l'ARC et du ministère des Finances ont fourni des renseignements ou formulé des observations ou des conseils qui ont pu directement ou indirectement se retrouver dans ces documents. Le dossier de requête semble en outre montrer que Mme Jina a consulté la version non caviardée des documents refusés pour se préparer à l'interrogatoire préalable. Ces documents pourraient avoir influé sur ce que l'on allègue être les conclusions du ministre énoncées dans la lettre de proposition ou dans la réponse. Il est donc juste que l'appelante obtienne à l'égard des documents refusés un accès semblable à celui dont a bénéficié Mme Jina. Cela pourrait permettre à l'appelante d'obtenir des renseignements qui peuvent être utilisés pour contredire le témoignage de Mme Jina si cette dernière est appelée à témoigner à l'audience. De même, en examinant ces renseignements, l'appelante pourrait établir que le ministre ne s'est pas fondé exclusivement sur la politique invoquée dans la réponse ou qu'il n'a pas conclu que les opérations d'évitement mentionnées dans la réponse ont clairement contrecarré cette politique ou ont été utilisées de manière abusive à cet égard.
+[33] Ainsi que les avocats de l'appelante l'ont souligné à juste titre, la communication préalable répond à un objectif beaucoup plus vaste que celui consistant à obtenir une preuve admissible au procès. Par exemple, la communication préalable permet aux parties d'apprécier les faiblesses de la thèse de la partie adverse, ce qui les encourage à présenter ou à examiner des offres de règlement, une démarche qui devrait être privilégiée dans tous les cas.
+[34] Je ne peux m'empêcher de me demander quelle serait l'attitude de l'intimée si les rôles étaient inversés. Supposons par exemple que l'intimée cherchait à obtenir, lors de la communication préalable, un accès complet aux documents de travail du vérificateur externe d'un contribuable dans lesquels le vérificateur formule des commentaires sur la question de savoir s'il est nécessaire ou non de prévoir une réserve fiscale dans les états financiers du contribuable afin de couvrir le risque financier d'une opération d'évitement. En l'absence d'une protection découlant du secret professionnel, je suppose que l'intimée n'accepterait pas un refus fondé sur l'argument selon lequel les avis exprimés à l'égard d'une politique ne sont pas pertinents lors de la communication préalable.
+[35] L'intimée a désigné dans sa réponse les conclusions du ministre qui se rapportent à la politique. Je souscris à l'observation de l'appelante selon laquelle elle a le droit d'examiner les faits et les circonstances entourant le recours à cette politique. Une grande partie de ce qui sera révélé peut finalement être considéré comme étant tout simplement sans pertinence ou non admissible. Toutefois, il s'agit d'une conclusion qu'il revient au juge du procès de tirer en sa qualité d'arbitre en ce qui a trait à la preuve admise lors du procès.
+B. Les questions refusées [36] L'intimée a refusé de répondre aux questions suivantes :
+Question no 1 : Préciser si le procureur général entend faire valoir à l'audience que la politique qui permet le recours à une société existante lors d'une conversion (et de ne pas insister pour qu'il y ait une nouvelle société) est différente lorsque la conversion est réalisée au moyen de la méthode d'échange.
+Décision : L'intimée a maintenant consenti à répondre à cette question.
+Question no 2 : Préciser si le procureur général entend faire valoir à l'audience que la méthode de distribution ne permettait pas le recours à une société existante lors de la conversion (c.‑à‑d. que l'on devait utiliser une nouvelle société).
+Décision : L'intimée a maintenant consenti à répondre à cette question.
+Question no 3 : Si le procureur général ne fait pas valoir que la méthode de distribution permettait le recours à une société existante aux fins de la conversion, fournir les faits, les renseignements, les connaissances et les documents ayant amené le procureur général à dire que la conclusion du ministre était erronée.
+Objection : La question met en cause la thèse de la Couronne concernant l'objet et l'esprit de la loi, ce qui constitue une question de droit. La question n'est donc pas légitime.
+Décision : L'appelante cherche à obtenir des faits, des renseignements et des connaissances et non pas une conclusion de droit. Comme la politique est manifestement en cause, étant donné que la RGAÉ a été invoquée, l'appelante a le droit d'obtenir une réponse à cette question.
+Question no 4 : En ce qui concerne la date à laquelle le ministère des Finances a proposé la modification de 2010, avez‑vous des faits, des renseignements ou des connaissances quant à la question de savoir si le ministère des Finances a envisagé de donner un effet rétroactif à cette modification?
+Objection : La modification n'est pas rétroactive, bien qu'elle ait comporté une disposition de mise en vigueur. La modification est ce qu'elle est. Le juge du procès devra examiner la question de savoir si la modification indique quoi que ce soit en ce qui concerne l'objet et l'esprit des dispositions antérieures à la modification : voir la décision Gwartz, au paragraphe 57. La question de savoir si les fonctionnaires du ministère des Finances ont envisagé à l'interne la possibilité d'adopter une modification rétroactive est sans pertinence. De même, les diverses autres démarches législatives possibles ne sont pas pertinentes.
+Décision : Comme cela a été énoncé dans la décision Gwartz, une modification subséquente peut être examinée pour déterminer l'objet et l'esprit des dispositions en cause. L'admissibilité ou l'importance de la réponse à cette question sera déterminée par le juge du procès, mais l'appelante a le droit d'obtenir une réponse à la question, étant donné que la politique est en cause et que l'appelante a expressément abordé la modification dans sa réplique modifiée, au paragraphe 15.
+Question no 5 : Lorsqu'elle a établi les cotisations en litige, l'ARC a‑t‑elle demandé au ministère des Finances pourquoi le terme « étendre » dans le budget de 2010 a été remplacé par le terme « préciser » dans les notes techniques du mois de septembre 2010?
+Objection : Les notes explicatives concernant le budget de 2010 et les notes techniques de septembre 2010 se passent de commentaires. La question de savoir si l'ARC a demandé des renseignements en particulier ou si les fonctionnaires du ministère des Finances ont exprimé des points de vue ou des avis est sans pertinence.
+Décision : Il faut répondre à cette question pour les mêmes raisons que celles qui sont invoquées relativement à la question no 4.
+Question no 6 : En ce qui concerne l'affirmation selon laquelle [TRADUCTION] « au mois de septembre 2011, la vérification menée à l'égard de Superior a été interrompue », qui figure à la page 1438, à l'onglet A23 du recueil supplémentaire de documents de l'appelante, expliquer pourquoi la vérification a été interrompue.
+Objection : Le raisonnement suivi par le ministre pour établir la cotisation est sans pertinence.
+Décision : Je ne vois pas comment le fait de répondre à cette question permettra de révéler quelque élément pertinent que ce soit. Il n'est donc pas nécessaire d'y répondre.
+Question no 7 : Préciser si la position du procureur général en ce qui concerne la raison pour laquelle les détenteurs de parts constituaient un groupe est différente du fondement de la cotisation établie par l'ARC.
+Décision : L'intimée a consenti à répondre à la question.
+Question no 8 : Préciser les documents sur lesquels la Couronne se fonde pour dire que les détenteurs de parts constituent un groupe.
+Objection : Une partie n'est pas tenue de classer les documents en fonction des questions dans l'intérêt de la partie adverse. La demande n'est pas légitime selon la décision Teelucksingh, au paragraphe 15(vii), et la décision Kossow, au paragraphe 60.
+Décision : Comme l'intimée l'a souligné à juste titre, une partie n'est pas tenue de classer les documents dans l'intérêt de l'autre partie. Contrairement à ce que l'appelante a fait valoir, la décision 4145356 Canada Ltd. c. La Reine, 2009 CCI 480, n'infirme pas ce principe. Il n'est donc pas nécessaire de répondre à cette question.
+Question no 9 : Indiquer ce sur quoi le procureur général se fonde pour faire la déclaration figurant à l'alinéa 19a) de la réponse, selon laquelle le paragraphe 111(5) est [TRADUCTION] « une disposition anti‑évitement conçue pour empêcher l'échange de pertes entre entreprises distinctes sans lien de dépendance ».
+Objection : Au moyen de cette question, on vise à obtenir l'argument de la Couronne sur un point de droit. Elle n'est donc pas légitime.
+Décision : Il est possible de répondre à la question dans la mesure où elle se rapporte à des faits ou à des renseignements et non à un argument juridique. En outre, elle vise à éviter des surprises à une étape ultérieure en permettant à l'appelante de savoir si l'intimée mentionnera une politique différente. Si, par exemple, le procureur général ne dispose d'aucun fait ou renseignement relativement à la question et qu'il ne présentera que des arguments juridiques pour l'appuyer, il s'agit là d'une réponse suffisante.
+Question no 10 : Préciser si le procureur général admet que, selon la politique générale de la Loi, il est possible de déduire d'autres pertes et attributs fiscaux du revenu provenant de n'importe quelle entreprise, à condition qu'il n'y ait pas eu acquisition du contrôle en droit.
+Objection : La question n'est pas légitime, étant donné qu'elle vise à obtenir une admission sur un point de droit.
+Décision : L'appelante est autorisée à poser une série de questions sur la politique que le ministre a invoquée dans la réponse. Il faudrait répondre à la question.
+Question no 11 : Indiquer si le procureur général admet que l'objet des règles de conversion concernant des EIPD mentionnées au paragraphe 19c) de la réponse était simplement de faciliter la conversion de fiducies en sociétés.
+Objection : La question n'est pas légitime, étant donné qu'elle vise à obtenir une admission sur un point de droit.
+Décision : Il faut répondre à cette question pour les raisons susmentionnées relativement à la question no 10.
+Question no 12 : Préciser si le procureur général admet que, lorsque les règles de conversion concernant les EIPD ont été adoptées, le choix de politique visait à permettre des conversions en recourant à des sociétés existantes et non pas à se limiter à de nouvelles sociétés; indiquer si le procureur général adoptera un point de vue différent de celui énoncé dans les conclusions et les hypothèses formulées par le ministre relativement à l'objet et à l'esprit de ces dispositions.
+Objection : La question n'est pas légitime, étant donné qu'elle vise à obtenir une admission sur un point de droit.
+Décision : Il faut répondre à la question pour les mêmes raisons que celles qui ont été exposées pour la question no 10. De plus, je tiens à souligner que cette question est semblable aux questions nos 1 et 7, auxquelles la Couronne a consenti à répondre.
+Question no 13 : La question a été retirée par l'appelante (transcription, à la page 109).
+Décision : s.o.
+C. Documents refusés [37] Les documents dont l'intimée a refusé la production intégrale sont les suivants :
+Document no 1 : Le point 1 de la réunion du comité de la RGAÉ 1104‑1 du 19 avril 2011.
+Objection : Les avis individuels des membres du comité de la RGAÉ ne sont pas pertinents. La Couronne a produit les passages pertinents concernant le résumé des recommandations formulées par le comité de la RGAÉ.
+Décision : La partie caviardée du point 1 ([TRADUCTION] « Superior Plus — Acquisition de pertes lors de la conversion de la fiducie en société ») est manifestement pertinente, car elle se rapporte à l'appelante. Bien qu'il soit possible qu'un juge du procès accorde peu de poids, sinon aucun, aux points de vue de chaque membre du comité de la RGAÉ ou de l'ARC, ou ne les admette pas en preuve, les renseignements satisfont certainement au critère peu exigeant pour la communication préalable[13].
+Document no 2 : Procès‑verbal de la réunion du comité de la RGAÉ tenue le 1er novembre 2011.
+Objection : Les points de vue et les avis des fonctionnaires de l'ARC et du ministère des Finances ne sont pas pertinents. La Couronne a produit la partie du procès‑verbal qui concerne la conclusion et les recommandations formulées par le comité de la RGAÉ.
+Décision : Ce document doit être produit pour les raisons exposées à l'égard du document no 1[14].
+Document no 3 : Note au dossier de Salimah Jina (vérificatrice de l'ARC).
+Objection : La partie caviardée n'est pas pertinente et concerne des discussions internes ainsi que le raisonnement suivi par l'ARC. En outre, la page 001826 comporte des renseignements protégés par le secret professionnel de l'avocat.
+Décision : Ce document doit être produit à une exception près : le paragraphe du milieu, à la page 001826, doit demeurer caviardé, car il est protégé par le secret professionnel de l'avocat.
+Document no 4 : Courriel du 18 décembre 2008 que Wayne Adams a envoyé à Brian Ernewein.
+Objection : Les parties caviardées ne sont pas pertinentes. Plus particulièrement, les points de vue et les avis des fonctionnaires de l'ARC ne sont pas pertinents. Le fond du document ne constitue pas une preuve extrinsèque admissible, ni une preuve de faits législatifs. En outre, la page 000134 renferme des renseignements non pertinents sur un autre contribuable qui sont protégés par l'article 241.
+Décision : Ce document doit être produit et un seul passage doit être caviardé : le premier paragraphe à la page 000134 comporte des renseignements non pertinents sur un autre contribuable qui sont protégés par l'article 241 et il doit être caviardé.
+Document no 5 : Courriel dans lequel Salimah Jina demande à Dan Rivet s'il s'est penché sur la question de savoir si la modification du paragraphe 256(7) effectuée en 2010 (c'est‑à‑dire l'alinéa 256(7)c.1)) est une clarification ou un changement de politique.
+Objection : Même objection que celle concernant le document no 1.
+Décision : Ce document doit être produit pour les raisons données relativement au document no 1.
+Document no 6 : Courriel de Dan Rivet à Salimah Jina en réponse à la question de savoir si la modification du paragraphe 256(7) proposée en 2010 (c'est‑à‑dire l'alinéa 256(7)c.1)) est une clarification ou un changement de politique.
+Objection : Les points de vue et les avis de Dan Rivet, notamment sur des questions de droit et sur les chances de succès, ne sont pas pertinents. De plus, la page 1 renferme des renseignements protégés par le secret professionnel de l'avocat.
+Décision : Ce document doit être produit pour les raisons invoquées relativement au document no 1 ci‑dessus. L'avant‑dernière phrase du paragraphe 2 qui renvoie au ministère de la Justice devrait être caviardée.
+Document no 7 : Courriel du 24 février 2012 de Dan Rivet à Theresa Murphy et à Mark Symes et courriel annexé concernant [TRADUCTION] « le transfert de pertes ».
+Objection : Les points de vue et les avis de Dan Rivet, notamment sur des questions de droit, ne sont pas pertinents.
+Décision : Ce document doit être produit pour les raisons qui ont été invoquées relativement au document no 1. Il y a une brève mention de ce qui semble être un autre contribuable au dernier paragraphe à la page 000021, et ce passage doit être caviardé.
+Document no 8 : Note de service de la Division de la PFA au comité de la RGAÉ du 8 février 2011.
+Objection : Les points de vue et les avis des fonctionnaires de l'ARC formulés pendant le processus de délibération menant à la décision d'établir une nouvelle cotisation, notamment sur des questions de droit, ne sont pas pertinents. La Couronne a produit les documents qui révèlent l'avis collectif de l'ARC et les recommandations du comité de la RGAÉ.
+Décision : Ce document doit être produit pour les raisons exposées relativement au document no 1 ci‑dessus.
+Document no 9 : Note de service de la Division de la PFA au comité de la RGAÉ du 2 septembre 2011.
+Objection : Les points de vue et les avis des fonctionnaires de l'ARC formulés pendant le processus de délibération menant à la décision d'établir une nouvelle cotisation, notamment sur des questions de droit, ne sont pas pertinents. La Couronne a produit les documents qui révèlent l'avis collectif de l'ARC et les recommandations du comité de la RGAÉ.
+Décision : Ce document doit être produit pour les raisons exposées relativement au document no 1 ci‑dessus.
+Document no 10 : Courriel du 22 février 2012 de Mark Symes à Phil Jolie et autres et courriel annexé concernant [TRADUCTION] « la réunion du comité de la RGAÉ ».
+Objection : Les points de vue et les avis des fonctionnaires du ministère des Finances pendant le processus de délibération menant à la décision d'établir une nouvelle cotisation, notamment sur des questions de droit, ne sont pas pertinents. La Couronne a produit les documents qui révèlent l'avis collectif de l'ARC et les recommandations du comité de la RGAÉ. Le document ne constitue pas une preuve extrinsèque admissible.
+Décision : Ce document doit être produit pour les raisons exposées relativement au document no 1 ci‑dessus[15].
+Document no 11a) : Courriel de Brent Percival à Dan Rivet et à Jim Randall et chaîne de courriels annexés concernant [TRADUCTION] « le transfert de pertes des EIPD — acquisition du contrôle par un groupe de personnes » et les documents qui y sont mentionnés.
+Document no 11b) : Courriel à Deen Olsen et à Dan Rivet du 10 avril 2012 inclus dans la chaîne de courriels susmentionnés.
+Objection : Les points de vue et les avis des fonctionnaires de l'ARC formulés pendant le processus de délibération menant à la décision d'établir une nouvelle cotisation, notamment sur des questions de droit, ne sont pas pertinents. La Couronne a produit les documents qui révèlent l'avis collectif de l'ARC et les recommandations du comité de la RGAÉ. Le document concerne aussi le raisonnement suivi par l'ARC, et la page 000003 renferme des renseignements qui sont protégés par le secret professionnel de l'avocat (une demande de conseils juridiques) et le privilège découlant d'un règlement.
+Décision : a) Ce document doit être produit pour les raisons exposées relativement au document no 1 ci‑dessus. Toutefois, la phrase du milieu dans le deuxième paragraphe du courriel envoyé à Deen Olsen à la page 000003 et le dernier paragraphe de ce courriel sont protégés par le secret professionnel et doivent demeurer caviardés.
+b) : Le courriel du 10 avril 2012 envoyé à Deen Olsen et à Dan Rivet est protégé par le secret professionnel de l'avocat et il ne doit pas être produit.
+Document no 12 : Note de service de l'administration centrale au comité de la RGAÉ du 30 juillet 2012, concernant [TRADUCTION] « l'offre de règlement de Superior Plus Inc. — conversion des EIPD ».
+Objection : La partie caviardée du document concerne des questions qui sont protégées par le privilège découlant d'un règlement, et la page 000214 contient des renseignements se rapportant à une demande de conseils juridiques.
+Décision : Les caviardages sont protégés par le privilège découlant d'un règlement et ils ne devraient pas être produits.
+Document no 13 : Courriel de Lucie Bergevin à Dan Rivet du 29 août 2012 et chaîne de courriels joints concernant [TRADUCTION] « la réunion du comité de la RGAÉ sur Superior Plus ».
+Objection : Les points de vue et les avis des fonctionnaires de l'ARC formulés pendant le processus de délibération menant à la décision d'établir une nouvelle cotisation, notamment sur des questions de droit et sur les chances de succès, ne sont pas pertinents. En outre, une partie des caviardages est assujettie au privilège découlant d'un règlement. La page 000229 renferme des renseignements qui sont protégés par le secret professionnel de l'avocat. Il y a aussi des renvois de nature générale à d'autres contribuables.
+Décision : Les caviardages sont protégés par le privilège découlant d'un règlement ou le secret professionnel de l'avocat et ils ne doivent pas être produits.
+Document no 14 : Note de service de la Division de la PFA au comité de la RGAÉ du 8 février 2010 (en réalité, 2011), concernant Superior Plus Inc.
+Objection : Le document est une ébauche antérieure non signée du document no 8 susmentionné. En outre, les points de vue et les avis des fonctionnaires de l'ARC formulés pendant le processus de délibération menant à la décision d'établir une nouvelle cotisation, notamment sur des questions de droit, ne sont pas pertinents.
+Décision : La production de la version définitive (document no 8 susmentionné) a été ordonnée. La version antérieure devrait être produite, car l'appelante pourrait poser une série de questions se rapportant aux changements apportés.
+Document no 15 : Note de service de l'administration centrale (non signée) au comité de la RGAÉ du 18 août 2010, concernant [TRADUCTION] « Superior Plus Inc. — conversion des EIPD ».
+Objection : Une version définitive de ce document, non caviardée et signée, à savoir le renvoi du 8 février 2011 au comité de la RGAÉ, a été produite à l'appelante à la page 1841 du dossier de requête. Une version antérieure n'est pas pertinente.
+Décision : Ce document doit être produit pour les raisons exposées précédemment relativement au document no 14.
+Document no 16 : Courriel de Gilles Pelletier à Jean‑Marc Miszaniec du 28 juillet 2010 et chaîne de courriels annexés concernant [TRADUCTION] « le transfert de pertes fiscales ».
+Objection : La chaîne de courriels concerne des communications intraministérielles qui ne se rapportent pas à l'appelante et elle est sans pertinence. Les caviardages concernent aussi des renseignements non pertinents sur un autre contribuable qui sont assujettis à l'article 241. En outre, les caviardages ne concernent pas une preuve extrinsèque admissible.
+Décision : Les renseignements caviardés ne sont pas pertinents en ce qui concerne l'appelante et ils contiennent d'autres renseignements se rapportant à d'autres contribuables qui sont protégés par l'article 241. En conséquence, les renseignements caviardés ne devraient pas être produits.
+Document no 17 : Lettre de Richard Montroy à Gérard Lalonde du 18 février 2008, concernant [TRADUCTION] « le paragraphe 111(5) de la Loi de l'impôt sur le revenu ».
+Objection : Le document concerne une communication interministérielle entre l'ARC et le ministère des Finances exprimant des points de vue et des préoccupations sur la loi. Le document renferme également des renseignements sur un autre contribuable qui ne sont pas pertinents et qui sont assujettis à l'article 241. Le document ne constitue pas une preuve extrinsèque admissible, son lien est trop ténu, et il ne peut mener à une série de questions.
+Décision : Les renseignements caviardés ne doivent pas être produits pour les raisons qui ont été exposées relativement au document no 16.
+Document no 18 : Lettre de Jackson MacGillivray à Wayne Adams du 9 mars 2004, concernant [TRADUCTION] « le paragraphe 111(5) de la Loi de l'impôt sur le revenu (Canada) », et les pièces annexées (y compris le document no E 2004‑006210F11 et le document no E 2001‑0068105).
+Objection : Le document concerne une communication interministérielle entre l'ARC et le ministère des Finances exprimant des points de vue, des avis et des préoccupations sur des questions de droit et sur la loi. Le document renferme également des renseignements sur un autre contribuable qui ne sont pas pertinents et qui sont assujettis à l'article 241. Il ne contient aucune preuve extrinsèque admissible, son lien est trop ténu, et il ne peut mener à une série de questions.
+Décision : Les renseignements caviardés ne doivent pas être produits pour les raisons exposées relativement au document no 16.
+Document no 19 : Courriel envoyé par Alexander Johnstone à Venetia Putureanu le 28 juillet 2011 et chaîne de courriels annexés, concernant [TRADUCTION] « des questions se rapportant aux alinéas 256(7)c.1), f) et g) ».
+Objection : Les portions caviardées des pages 000239 et 000240 ne sont pas pertinentes.
+Décision : Les renseignements caviardés sont pertinents à l'égard des questions en litige dans l'appel, puisque l'appelante a mis en cause l'adoption de l'alinéa 256(7)c.1) dans sa réplique modifiée. Tous les renseignements doivent être divulgués, à l'exception de la phrase caviardée dans le dernier courriel, à la page 000240, puisqu'elle n'est pas pertinente.
+Document no 20 : Courriel envoyé par Ted Cook à Gérard Lalonde le 5 mars 2010, et chaîne de courriels annexés concernant [TRADUCTION] « les conversions de fiducies ».
+Objection : La partie caviardée de la chaîne de courriels concerne des points de vue et des avis formulés par des fonctionnaires de l'ARC sur des questions de droit. Les renseignements ne sont pas pertinents.
+Décision : Les renseignements caviardés doivent être produits pour les raisons exposées relativement au document no 19.
+Document no 21 : Courriel envoyé par Shawn Porter à Annemarie Humenuk le 21 décembre 2011 et chaîne de courriels annexés concernant [TRADUCTION] « un projet de courriel pour l'ARC sur la question de la RGAÉ se rapportant au transfert de pertes dans le cas des conversions de EIPD ».
+Objection : La partie caviardée de la page 000001 concerne un point de vue ou un avis d'un fonctionnaire du ministère des Finances et n'est pas pertinente.
+Les renseignements caviardés aux pages 000002 à 000004 concernent des points de vue et des avis exprimés par des fonctionnaires de l'ARC et du ministère des Finances et ils ne sont pas pertinents. Les renseignements ne constituent pas une preuve extrinsèque admissible de faits législatifs. En outre, les renseignements caviardés sont protégés par le secret professionnel de l'avocat.
+Décision : Les renseignements caviardés doivent être produits pour les raisons exposées relativement au document no 1. Toutefois, deux paragraphes qui renvoient au ministère de la Justice, aux pages 000003 et 000004/000005, sont protégés par le secret professionnel de l'avocat et ils ne doivent pas être divulgués.
+Document no 22 : Courriel envoyé par Annemarie Humenuk à Grant Nash le 4 mars 2012 et chaîne de courriels annexés concernant [TRADUCTION] « l'application de la RGAÉ relativement au transfert de pertes dans le cas des conversions d'EIPD ».
+Objection : Les renseignements caviardés concernent des points de vue et des avis exprimés par les fonctionnaires de l'ARC et du ministère des Finances, et ils ne sont pas pertinents. Les renseignements ne constituent pas une preuve extrinsèque admissible de faits législatifs. En outre, la partie caviardée à la page 000017 est protégée par le secret professionnel de l'avocat.
+Décision : Ce document doit être produit pour les raisons exposées relativement au document no 1. Le premier paragraphe complet à la page 000017 renvoie au ministère de la Justice et il est protégé par le secret professionnel de l'avocat; il ne doit pas être produit.
+Document no 23 : Courriel envoyé par Shawn Porter à Davine Roach, à Robert Duong, à Kerry Harnish et à Grant Nash, sans date, et chaîne de courriels annexés concernant [TRADUCTION] « l'application de la RGAÉ relativement au transfert de pertes dans le cas des conversions des EIPD ».
+Objection : Les renseignements caviardés à la page 000033 sont en partie assujettis au privilège découlant d'un règlement. Le reste des renseignements caviardés concernent des points de vue et des avis exprimés par des fonctionnaires de l'ARC et du ministère des Finances, et ils ne sont pas pertinents. Les renseignements ne constituent pas une preuve extrinsèque admissible de faits législatifs. En outre, la partie caviardée de la page 000034 est protégée par le secret professionnel de l'avocat.
+Décision : Seuls les passages suivants doivent être produits non caviardés :
+a) le deuxième bloc en gris au bas de la page 000033;
+b) le dernier paragraphe à la page 000034 qui commence par [TRADUCTION] « En ce qui concerne »;
+c) la page 000035 entière parce qu'elle n'est protégée par aucun privilège.
+Document no 24 : Renvoi au comité de la RGAÉ du 1er novembre 2011, concernant [TRADUCTION] « Superior/Ballard — Transfert de pertes ».
+Objection : Ce document interne du ministère des Finances concerne des points de vue et des avis de fonctionnaires du ministère des Finances. Il ne s'agit pas d'une déclaration officielle publiée. Les renseignements ne constituent pas une preuve extrinsèque admissible de faits législatifs. Bref, les renseignements caviardés ne sont pas pertinents.
+Décision : Ce document doit être produit pour les raisons exposées relativement au document no 1.
+Document no 25 : Point 3 du procès‑verbal du comité de la RGAÉ du 6 mars 2012.
+Objection : Les points de vue et les avis des membres du Comité de la RGAÉ ou des personnes présentes à la réunion ne sont pas pertinents. La Couronne a produit les documents qui révèlent l'avis collectif de l'ARC et les recommandations du comité de la RGAÉ.
+Décision : Ce procès‑verbal doit être produit pour les raisons exposées relativement au document no 1[16].
+III. Requête en production de l'intimée [38] En se fondant sur une renonciation implicite, l'intimée demande la production de trois documents à l'égard desquels l'appelante invoque le secret professionnel de l'avocat. L'intimée soutient que la production d'une note de service de Macleod Dixon (la « note de Macleod Dixon ») du 24 octobre 2008[17] lui donne droit à la communication de trois notes de service renfermant des conseils fiscaux qui se rapportent aux opérations en cause en l'espèce.
+[39] L'appelante allègue qu'au départ, le fonds devait être converti suivant la méthode d'échange. Elle ajoute que le fonds a été informé du fait qu'il pouvait subir un changement de contrôle si la méthode d'échange était retenue, ainsi que le prévoyaient ses conventions d'emprunt, et que cela l'obligerait à racheter sa dette à prime par rapport à sa valeur nominale. La conversion du fonds suivant la méthode de distribution pouvait permettre d'éviter un tel résultat. C'est ce qui a été fait, et le dossier de requête indique que le fonds a reçu dans la note de Macleod Dixon des conseils confirmant que l'appelante pouvait prendre en charge les titres de créance négociés sur le marché sans que son rachat anticipé ne soit déclenché.
+[40] L'appelante se fonde sur la décision rendue dans l'affaire Bone c. Person[18], dans laquelle la Cour d'appel du Manitoba a déclaré ceci :
+[TRADUCTION]
+10 La première question se rapporte à la nature et à la portée de la renonciation au secret professionnel de l'avocat. Était‑elle limitée et, dans l'affirmative, dans quelle mesure? Le droit prévoit clairement qu'une partie à une instance judiciaire peut volontairement renoncer au secret professionnel sur une base restreinte, c'est‑à‑dire à l'égard d'une question particulière précise. Voir, par exemple, Power Consolidated (China) Pulp Inc. v. British Columbia Resources Investment Corp., [1989] 2 W.W.R. 679 (C.A. C.‑B.), à la page 682. Toutefois, il faut rechercher un équilibre raisonnable, de façon que le tribunal et les autres parties ne soient pas induits en erreur. La partie qui effectue la communication ne peut pas choisir à son gré entre ce qui lui est favorable et ce qui lui est défavorable. Dans la décision Transamerica Life Insurance Co. of Canada v. Canada Life Assurance Co. (1995), 46 C.P.C. (3d) 110 (C. j. Ont., Div. gén.), le juge Sharpe, tel était alors son titre, a énoncé la question de la manière suivante, aux paragraphes 41 et 42 :
+De toute évidence, le droit ne prévoit pas que la production d'un document tiré d'un dossier entraîne une renonciation à l'immunité se rattachant aux autres documents qui figurent au même dossier. Il faut démontrer qu'en l'absence des documents additionnels, le document produit est quelque peu trompeur. [...]
+Il faut appliquer la règle relative à la renonciation s'il existe une indication qu'une partie tente d'obtenir un avantage injuste ou de donner une idée trompeuse au moyen d'une communication sélective.
+[41] Dans l'arrêt Slansky c. Procureur général du Canada[19], la Cour d'appel fédérale a souscrit à l'arrêt Bone et ajouté les observations suivantes :
+261 Une partie ne peut divulguer partiellement le contenu d'un document confidentiel et préserver indûment la confidentialité du reste du document : David M. Paciocco et Lee Stuesser, The Law of Evidence, 6e éd. (Toronto, Irwin Law, 2011), à la page 220. Le privilège n'est pas une porte tournante qui serait ouverte lorsqu'il y a des renseignements à communiquer, mais solidement fermée lorsqu'on en demande. [...] Une partie ne peut choisir les communications qui demeureront confidentielles, en divulguant ce qui lui est utile et en préservant la confidentialité du reste [...]
+[42] La juge Woods a cité et approuvé l'affaire Bone dans l'affaire MIL (Investments) S.A. c. La Reine[20], où elle a fait remarquer que la règle de la renonciation devrait s'appliquer restrictivement. L'appelante a également cité la décision Gerbro Inc. c. La Reine[21], rendue par la juge Woods, qui résume les principes de la renonciation implicite :
+[TRADUCTION]
+50 La décision Mahjoub (Re), 2011 CF 887, au paragraphe 10, donne un résumé général des principes applicables lorsqu'il s'agit d'examiner la question de savoir s'il y a eu renonciation implicite au secret professionnel :
+10 La jurisprudence étaye les thèses suivantes à propos de la renonciation implicite au secret professionnel :
+a) la renonciation au secret relatif à une partie d'une communication sera jugée équivalente à la renonciation à l'égard de l'ensemble de cette communication : S. & K. Processors Ltd. c. Campbell Ave. Herring Producers Ltd. (1983), 35 C.P.C. 146, 45 B.C.L.R. 218 (C.S.) (S. & K.);
+b) quand une partie se fonde sur un avis juridique en tant qu'élément de sa demande ou de sa défense, le secret qui se rattacherait par ailleurs à cet avis est perdu (S. & K.);
+c) dans les cas où il a été conclu que l'équité exige une renonciation implicite, il y a toujours une certaine manifestation de la volonté de renoncer au secret professionnel, du moins jusqu'à un certain point. Les règles de droit applicables font alors en sorte que l'équité et la cohérence exigent une renonciation intégrale (S. & K.);
+d) il sera réputé y avoir eu renonciation au secret dans les cas où les principes de l'équité et de la cohérence l'exigent ou dans les cas où une communication entre un avocat et un client est légitimement mise en cause dans une action : Bank Leu Ag c. Gaming Lottery Corp., [1999] O.J. no 3949 (QL), 43 C.P.C. (4th) 73 (C.S. Ont.), au paragraphe 5;
+e) le fardeau d'établir la renonciation au secret incombe à la partie qui l'invoque (S. & K., au paragraphe 10).
+[Non souligné dans l'original.]
+[43] Dans la décision Gerbro, la Cour a également souligné que, lorsqu'il s'agit d'ordonner la communication de documents protégés par le secret professionnel, le critère applicable est rigoureux :
+[TRADUCTION]
+57 Les parties m'ont renvoyée à une jurisprudence abondante concernant la renonciation implicite au secret. Chaque affaire semble dépendre des faits qui lui sont propres, et la démarche générale que les tribunaux ont adoptée reconnaît l'importance de maintenir le secret professionnel de l'avocat.
+58 À mon avis, ces décisions judiciaires suivent généralement la démarche décrite par la Cour d'appel de la Colombie‑Britannique dans l'arrêt Procon Mining & Tunnelling Ltd. c. McNeil, 2009 BCCA 281, au paragraphe 19, selon laquelle, pour [TRADUCTION] « établir l'existence d'une renonciation, la communication demandée doit être “vitale” ou nécessaire pour permettre à la partie adverse de répondre à une allégation ».
+59 Le critère applicable pour qu'un tribunal exige la communication dans les cas où les conseils juridiques n'ont pas été mis en cause par une partie est rigoureux. Dans la présente requête, la Couronne n'a pas établi que les communications de nature juridique sont d'une telle importance pour sa cause qu'elles devraient être révélées.
+[44] Les passages précédents confirment qu'une partie peut renoncer au secret pour une fin limitée. Si la renonciation entraîne une injustice ou une incohérence, la Cour peut ordonner la production de renseignements connexes protégés par un secret. Toutefois, le critère applicable pour écarter le secret est rigoureux et la communication ne devrait être ordonnée que si elle est « vitale ou nécessaire ».
+[45] La renonciation semble être invoquée habituellement lorsque certaines parties d'un document produit sont caviardées en raison du secret. Tel était le cas dans l'affaire K.F. Evans Ltd. c. Ministre des Affaires étrangères[22], citée par l'intimée, où environ 10 p. 100 à 20 p. 100 du mémoire était caviardé[23]. Pour faire en sorte que la partie opposée ne soit pas induite en erreur, et par souci de cohérence, la Cour a ordonné la communication[24].
+IV. Conclusion [46] Compte tenu de ce qui précède, je souscris à l'observation de l'appelante selon laquelle la note de service de Macleod Dixon est un document autonome qui fournit des conseils en matière commerciale sur une question distincte qui concerne le rachat anticipé des débentures du fonds. Les autres avis juridiques renferment des conseils fiscaux sur la conversion. À mon avis, la communication par l'appelante de la seule note de service de Macleod Dixon ne donne lieu à aucune iniquité ni à aucune incohérence. Comme cela a été déjà mentionné, dans les affaires Gerbro et Bone, le critère applicable pour écarter un privilège est rigoureux et la communication ne devrait être ordonnée que si elle est « vitale ou nécessaire ». Je suis convaincu que la communication de la note de service de Macleod Dixon ne met pas en question les conseils fiscaux reçus par l'appelante. Pour les motifs exposés ci‑dessus, la requête de l'intimée est rejetée.
+Signé à Ottawa, Canada, ce 22e jour de mai 2015.
+« Robert J. Hogan »
+Le juge Hogan
+RÉFÉRENCE :
+2015 CCI 132
+No DU DOSSIER DE LA COUR :
+2013-2939(IT)G
+INTITULÉ :
+SUPERIOR PLUS CORP. c. SA MAJESTÉ LA REINE
+LIEU DE L'AUDIENCE :
+Calgary (Alberta)
+DATE DE L'AUDIENCE :
+Le 19 février 2015
+MOTIFS DES ORDONNANCES :
+L'honorable juge Robert J. Hogan
+DATE DES ORDONNANCES :
+Le 22 mai 2015
+COMPARUTIONS :
+Avocats de l'appelante :
+Me Al Meghji
+Me Edward Rowe
+Me Joanne Vandale
+Avocats de l'intimée :
+Me Raj Grewal
+Me Perry Derksen
+Me Shankar Kamath
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelante :
+Nom :
+Al Meghji
+Edward Rowe
+Joanne Vandale
+Cabinet :
+Osler, Hoskin & Harcourt S.E.N.C.R.L., s.r.l.
+Calgary (Alberta)
+Pour l'intimée :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] [1997] A.C.F. no 995 (QL) (C.A.F.), au paragraphe 6.
+[2] 2011 CAF 120.
+[3] 2005 CSC 54, [2005] 2 R.C.S. 601.
+[4] Lehigh, au paragraphe 23; voir aussi les paragraphes 27 à 29 de l'arrêt Lehigh.
+[5] [2013] 3 C.T.C. 2169, no 2012‑1087(IT)G, 20 décembre 2012 (C.C.I.).
+[6] Paragraphe 18.
+[7] Paragraphe 24.
+[8] J'ai adopté le terme « politique » au sens de la définition énoncée dans l'affaire Birchcliff.
+[9] 2013 CCI 86.
+[10] Gwartz, paragraphes 35 à 37.
+[11] 2010 TCC 228.
+[12] Observations écrites de l'appelante, aux paragraphes 19 à 30.
+[13] L'appelante a présenté une requête en vue d'obtenir la production du seul passage figurant au point 1 dans sa forme non caviardée. En conséquence, les passages des points 2 et 3 demeurent caviardés.
+[14] L'appelante a présenté une requête en vue d'obtenir la production du passage figurant au point 2 dans sa forme non caviardée. En conséquence, les passages des points 1, 3 et 4 demeurent caviardés.
+[15] L'appelante a accepté lors de la conférence téléphonique que les paragraphes numérotés (1), (2) et (3), à la page 000140, demeurent caviardés parce qu'ils se rapportent à des questions non liées que le Comité de la RGAÉ a examinées.
+[16] L'appelante a demandé par requête la production du point 3. En conséquence, les points 1, 2 et 4 devraient demeurés caviardés.
+[17] Figurant dans l'affidavit de Christina Cho fait sous serment le 10 février 2015, à l'onglet S.
+[18] 2000 CanLII 26955.
+[19] 2013 CAF 199.
+[20] 2006 CCI 208, au paragraphe 26.
+[21] 2014 TCC 179.
+[22] [1996] A.C.F. no 30 (QL) (C.F. 1re inst.).
+[23] K.F. Evans, paragraphe 9.
+[24] K.F. Evans, paragraphes 23 à 25.

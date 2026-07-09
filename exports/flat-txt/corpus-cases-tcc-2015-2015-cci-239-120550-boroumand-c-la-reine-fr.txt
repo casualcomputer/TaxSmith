@@ -1,0 +1,347 @@
+Title: Boroumand c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/120550/index.do
+Corpus path: corpus/cases/tcc/2015/2015-cci-239-120550-boroumand-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2015-11-05
+
+# Boroumand c. La Reine
+
+- Citation: 2015 CCI 239
+- Decision date: 2015-11-05
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2724, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Boroumand c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2015-11-05
+Référence neutre
+2015 CCI 239
+Numéro de dossier
+2011-3288(GST)G, 2011-3293(GST)G, 2011-3294(GST)G, 2011-3295(GST)G, 2011-3296(GST)G, 2011‑3310(IT)G, 2011‑3311(IT)G, 2011‑3312(IT)G, 2011‑3313(IT)G, 2011‑3314(IT)G
+Juges et Officiers taxateurs
+Lucie Lamarre
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossiers : 2011-3294(GST)G,
+2011-3296(GST)G, 2011-3293(GST)G,
+2011-3288(GST)G, 2011-3295(GST)G
+Entre :
+MASIH BOROUMAND,
+appelant,
+et
+Sa Majesté la reine,
+intimée.
+[Traduction française officielle]
+Appels entendus sur preuve commune avec les appels portant les numéros 2011‑3310(IT)G, 2011‑3311(IT)G, 2011‑3312(IT)G, 2011‑3313(IT)G et 2011‑3314(IT)G, les 9 et 10 avril 2015, à Toronto (Ontario).
+Devant : L’honorable juge en chef adjointe Lucie Lamarre
+Comparutions :
+Avocat de l’appelant :
+Me Osborne G. Barnwell
+Avocats de l’intimée :
+Me John Grant
+Me Rishma Bhimji
+JUGEMENT MODIFIÉ
+L’avocate de l’intimée ayant informé la Cour dans une lettre datée du 27 octobre 2015 qu’une légère erreur dans la typographie de son nom avait été commise;
+La Cour rend un jugement modifié dans lequel l’erreur est corrigée.
+Les appels interjetés à l’encontre des nouvelles cotisations établies au titre de la Loi sur la taxe d’accise, dont les avis sont datés du 7 janvier 2010, pour les périodes du 1er janvier 2003 au 31 décembre 2003, du 1er janvier 2004 au 31 décembre 2004, du 1er janvier 2005 au 31 décembre 2005, du 1er janvier 2006 au 31 décembre 2006 et du 1er janvier 2007 au 31 décembre 2007 sont rejetés en ce qui concerne les années 2004, 2006 et 2007, et sont accueillis pour les années 2003 et 2005 uniquement aux fins de réajuster, de la manière qui suit, le revenu sous‑déclaré, pour refléter les concessions faites par l’intimée :
+Année d’imposition
+Revenu sous‑déclaré
+2003
+207 722,16 $
+2005
+755 230,96 $
+L’intimée a droit aux dépens selon le Tarif B prévu aux Règles de la Cour canadienne de l’impôt (procédure générale).
+Ce jugement modifié est rendu en substitution du jugement daté du 15 octobre 2015.
+Signé à Ottawa, Canada, ce 5e jour de novembre 2015.
+« Lucie Lamarre »
+Juge en chef adjointe Lamarre
+Traduction certifiée conforme
+ce 12e jour de février 2016.
+Mario Lagacé, jurilinguiste
+Dossiers : 2011-3310(IT)G,
+2011-3311(IT)G, 2011-3312(IT)G,
+2011-3313(IT)G, 2011-3314(IT)G
+Entre :
+MASIH BOROUMAND,
+appelant,
+et
+Sa Majesté la reine,
+intimée.
+[Traduction française officielle]
+Appels entendus sur preuve commune avec les appels portant les numéros 2011‑3288(GST)G, 2011‑3293(GST)G, 2011‑3294(GST)G, 2011‑3295(GST)G et 2011‑3296(GST)G,
+les 9 et 10 avril 2015, à Toronto (Ontario).
+Devant : L’honorable juge en chef adjointe Lucie Lamarre
+Comparutions :
+Avocat de l’appelant :
+Me Osborne G. Barnwell
+Avocats de l’intimée :
+Me John Grant
+Me Rishma Bhimji
+JUGEMENT MODIFIÉ
+L’avocate de l’intimée ayant informé la Cour dans une lettre datée du 27 octobre 2015 qu’une légère erreur dans la typographie de son nom avait été commise;
+La Cour rend un jugement modifié dans lequel l’erreur est corrigée.
+Les appels interjetés à l’encontre des nouvelles cotisations établies au titre de la Loi de l’impôt sur le revenu pour les années d’imposition 2004, 2006 et 2007 sont rejetés, et ceux visant les années d’imposition 2003 et 2005 sont accueillis uniquement aux fins de réajuster de la manière qui suit le revenu sous-déclaré, pour refléter les concessions faites par l’intimée :
+Année d’imposition
+Revenu sous‑déclaré
+2003
+207 722,16 $
+2005
+755 230,96 $
+L’intimée a droit aux dépens selon le Tarif B prévu aux Règles de la Cour canadienne de l’impôt (procédure générale).
+Ce jugement modifié est rendu en substitution du jugement daté du 15 octobre 2015.
+Signé à Ottawa, Canada, ce 5e jour de novembre 2015.
+« Lucie Lamarre »
+Juge en chef adjointe Lamarre
+Traduction certifiée conforme
+ce 12e jour de février 2016.
+Mario Lagacé, jurilinguiste
+Référence : 2015 CCI 239
+Date : 20151015
+Dossiers : 2011‑3310(IT)G, 2011‑3311(IT)G,
+2011‑3312(IT)G, 2011‑3313(IT)G,
+2011‑3314(IT)G, 2011-3288(GST)G,
+2011-3293(GST)G, 2011-3294(GST)G,
+2011-3295(GST)G, 2011-3296(GST)G
+Entre :
+MASIH BOROUMAND,
+appelant,
+et
+Sa Majesté la reine,
+intimée.
+[Traduction française officielle]
+Motifs du jugement
+La juge en chef adjointe Lamarre
+Introduction
+[1] Les présents appels visent des cotisations fondées sur la valeur nette, établies à l’encontre de Masih Boroumand au titre de la Loi de l’impôt sur le revenu (la « LIR ») et de la Loi sur la taxe d’accise (la « LTA ») pour les années d’imposition 2003, 2004, 2005, 2006 et 2007 (la « période »). Le ministre du Revenu national (le « ministre ») a également imposé des intérêts et des pénalités (y compris des pénalités pour faute lourde au titre du paragraphe 163(2) de la LIR) à l’égard de toutes ces années.
+[2] Au cours de la période, l’appelant a acquis d’importants éléments d’actif et dépensé d’importantes sommes d’argent. Son seul élément de passif était une hypothèque qui a été contractée et remboursée pendant la période. Selon la cotisation du ministre fondée sur la valeur nette, la presque totalité des revenus de l’appelant pendant la période n’a pas été déclarée. Je crois comprendre que l’appelant conteste les dépenses personnelles que le ministre a incluses dans la cotisation fondée sur la valeur nette, de même que les sources de son revenu non déclaré qui, selon lui, n’étaient pas imposables. Les montants en cause sont les suivants :
+Année d’imposition
+Revenu déclaré
+Revenu non déclaré
+2003
+777 $
+207 722 $
+2004
+1 975 $
+1 151 643 $
+2005
+5 752 $
+755 231 $
+2006
+10 700 $
+795 217 $
+2007
+21 152 $
+759 645 $
+TOTAL
+40 356 $
+3 669 458 $
+[3] De plus, pour les années 2003, 2004 et 2005, le ministre a établi de nouvelles cotisations à l’encontre de l’appelant en dehors de la période normale de nouvelle cotisation au titre de la LIR. Le sous‑alinéa 152(4)a)(i) de la LIR permet l’établissement d’une nouvelle cotisation en dehors de la période normale lorsque le ministre détermine que le contribuable a fait une présentation erronée de son revenu, par négligence, inattention ou omission volontaire.
+[4] Si le ministre satisfait à ce premier critère pour les années 2003 à 2005, il incombe alors à l’appelant d’établir, à la lumière de la preuve, que le ministre a mal calculé les écarts de valeur nette et que la source des fonds a produit un revenu non imposable au cours de la totalité de la période. Le ministre devra alors montrer que les pénalités pour faute lourde sont appropriées dans les circonstances.
+[5] Enfin, je devrai me prononcer sur l’admissibilité de certains éléments de preuve présentés par l’appelant au procès.
+Les thèses des parties
+[6] Selon la thèse principale de l’appelant, les fonds provenaient de sources non imposables, à savoir : principalement un héritage de sa famille en Iran; des prêts et le remboursement de prêts de la part de son frère et d’amis; le remboursement de fonds investis dans Apex Fine Cars (« Apex »), une société qu’il avait démarrée. L’appelant déclare qu’il n’a pas travaillé pendant la période.
+[7] L’intimée soutient que la cotisation fondée sur la valeur nette est un instrument rudimentaire, mais elle donne une estimation assez exacte du revenu réel de l’appelant en l’espèce, comme le révèle l’analyse des relevés bancaires et des investissements, ainsi que des biens détenus en son nom, qu’a effectuée la vérificatrice. De plus, l’intimée souligne qu’aux termes du paragraphe 152(8) de la LIR, les cotisations sont réputées correctes, à moins que l’appelant ne s’acquitte de son fardeau de réfuter les hypothèses du ministre.
+La méthode de la valeur nette
+[8] Il y avait deux témoins au procès : l’appelant et la vérificatrice. L’appelant a reconnu à la fois l’existence et la valeur ou le montant des éléments d’actif (comptes bancaires, comptes d’investissement) et des éléments de passif (une ligne de crédit, plusieurs cartes de crédit et une hypothèque) inscrits sur les feuilles de travail de la valeur nette. Néanmoins, l’appelant a déclaré que la vérificatrice avait utilisé une approche imprécise et incorrecte en déterminant les écarts de valeur nette dans l’état de la valeur nette. L’appelant n’a pas vraiment contesté le montant des [traduction] « dépenses personnelles », bien que son avocat ait fait valoir que ces dépenses faisaient l’objet d’une double comptabilisation, comme on le verra plus loin, et bien qu’il ait également fait valoir que certaines dépenses étaient payées pour le compte d’Apex.
+[9] La vérificatrice a tout d’abord été affectée au dossier en 2009 après un rapport reçu de la division des produits de la criminalité du service de police de Toronto (voir le Penalty Recommendation Report [rapport des recommandations quant aux pénalités], pièce R‑7). Dans son témoignage, elle a déclaré que les déclarations de revenus de l’appelant indiquaient des revenus d’intérêts, mais aucune autre source de revenus pour appuyer les investissements sous-jacents. Elle a transmis par la poste une demande visant à obtenir les livres et les registres personnels de l’appelant, mais n’a reçu aucune réponse. Elle a ensuite obtenu les documents auprès des banques au moyen de demandes péremptoires (transcription, volume 2, page 158). Après l’analyse des relevés bancaires, une nouvelle cotisation a été établie à l’encontre de l’appelant.
+[10] La vérificatrice a expliqué la façon dont elle avait calculé le revenu de l’appelant au cours de la période. Elle a cristallisé la position de départ en 2002 (l’année de base) en examinant les soldes de fin d’année de ses comptes bancaires et de ses investissements, de même que les biens enregistrés à son nom. Elle a établi les modifications quant à ses éléments d’actif et de passif en analysant les relevés bancaires.
+[11] De même, les dépenses personnelles ont été calculées en analysant les relevés bancaires de l’appelant. La vérificatrice a tenté de classer les dépenses selon les catégories nourriture, logement, vêtements et ainsi de suite lorsqu’elle pouvait extraire ces renseignements des relevés bancaires. Toutefois, la grande majorité des dépenses appartenait à la catégorie appelée [traduction] « Autres dépenses », car la vérificatrice n’était pas en mesure de préciser la fin pour laquelle elles avaient été engagées (transcription, volume 2, page 164, et pièce R‑2, onglet 5).
+[12] La vérificatrice a déclaré dans son témoignage qu’elle avait évité la double comptabilisation en éliminant les transferts de fonds entre les comptes appartenant à l’appelant (transcription, volume 2, page 165).
+[13] Finalement, elle a fait des rajustements pour prendre en compte le revenu déclaré et les remboursements d’impôt.
+[14] Avant le procès, les annexes relatives à la valeur nette (produites comme pièce R‑2, onglet 1) ont été quelque peu révisées en faveur de l’appelant et ont été produites comme pièce R‑1. Selon l’explication de la vérificatrice, lorsqu’elle a retranscrit certains soldes de carte de crédit, elle a au départ omis d’inverser les montants pour qu’ils apparaissent comme éléments d’actif (dans les cas où le solde était négatif) ou comme éléments de passif (dans les cas où le montant était dû à l’égard d’une carte de crédit). Elle a constaté l’erreur en se préparant pour le procès et l’a corrigée (transcription, volume 2, pages 155 et 156).
+[15] Les avocats de l’intimée ont invité la Cour à conclure que les chiffres révisés de revenus non déclarés étaient les chiffres les moins élevés compte tenu des deux ensembles d’états de la valeur nette produits comme pièces R‑1 et R‑2, onglet 1 (transcription, volume 2, page 189). En conséquence, le [traduction] « revenu d’entreprise sous‑déclaré selon la valeur nette » en cause est le suivant :
+2003
+207 722,16 $
+(pièce R‑1, annexe 5)
+2004
+1 151 643,62 $
+(pièce R‑2, onglet 1, annexe 5)
+2005
+755 230,96 $
+(pièce R‑1, annexe 5)
+2006
+795 217,77 $
+(pièce R‑2, onglet 1, annexe 5)
+2007
+759 645,25 $
+(pièce R‑2, onglet 1, annexe 5)
+La preuve
+[16] Comme je l’ai évoqué plus tôt, la principale question en litige au procès était la source des fonds utilisés pendant la période. J’examinerai les éléments de preuve à l’égard de cette question année par année.
+2003
+[17] Le revenu déclaré de l’appelant pour 2003 était constitué exclusivement de revenus d’intérêts. Selon la cotisation fondée sur la valeur nette, l’indicateur le plus important de revenu non déclaré était les dépenses personnelles de l’appelant pour l’année, qui s’élevaient à 255 118 $.
+[18] En 2003, l’appelant possédait une entreprise de voitures d’occasion, Apex, une société limitée dont il était le seul administrateur, actionnaire et directeur. Dans son témoignage, l’appelant a déclaré qu’il avait lancé Apex en 1998 grâce à une somme de 200 000 $ qu’il avait en CPG, à des options de la Banque Royale dont le montant s’élevait à environ 175 000 $ ou 200 000 $, à un montant de 110 000 $ provenant de sa marge de crédit personnelle, à ses éléments d’actif personnel et à sa carte de crédit Visa. Selon son témoignage, il n’a fait aucun autre apport à Apex après son investissement initial en 1998 (transcription, volume 1, pages 20, 21 et 25).
+[19] L’appelant a déclaré dans son témoignage qu’il avait été forcé de fermer Apex en avril 2003 parce que l’un de ses vendeurs ne possédait pas le permis exigé pour vendre des voitures d’occasion. Toujours dans son témoignage, il a déclaré qu’à l’occasion de la liquidation, il avait pris un montant – 230 000 $, 189 000 $ ou 183 000 $ – d’Apex en guise de rendement sur son investissement initial (transcription, volume 1, pages 25, 97, 101 et 102). Il n’est pas clair si le montant qu’il a pris d’Apex était le remboursement d’un prêt, un avantage à l’actionnaire, un salaire ou autre chose, pas plus que le montant exact qui a été pris.
+[20] Il a de plus déclaré dans son témoignage qu’il prenait environ 2 000 $ ou 2 500 $ par mois d’Apex pour couvrir ses dépenses personnelles, mais, autrement, il tentait de laisser le plus d’argent possible dans l’entreprise. Il a déclaré dans son témoignage qu’il avait pris de l’argent de 1999 jusqu’en 2003, lorsque l’entreprise a été fermée (transcription, volume 1, pages 99 à 102).
+[21] L’appelant ne disposait d’aucun élément de preuve documentaire pour appuyer sa version des faits. En fait, les états financiers d’Apex, qui ont été dressés par les comptables de l’appelant, présentent un tableau différent. Selon les états financiers, le montant du prêt consenti à un actionnaire concernant l’appelant s’élevait à 72 406 $ au 31 octobre 2003. Selon les états financiers de 2004, le montant du compte du prêt consenti à un actionnaire s’élevait à 68 595 $ (pièce A ‑1, onglet 20, quatrième page, et onglet 21, quatrième page), ce qui indique un solde courant. L’appelant a déclaré dans son témoignage qu’il avait examiné ces documents en qualité d’administrateur unique, mais il ne pouvait offrir aucune explication quant à l’écart (transcription, volume 1, pages 103 à 105). En réponse à une question, il a tout d’abord déclaré que les 72 406 $ représentaient des voitures qu’il n’avait pas été en mesure de vendre et qu’il devait vendre aux enchères ou au prix de gros (transcription, volume 1, page 26). Plus tard, il a déclaré qu’il n’était pas certain de ce que représentait le chiffre (transcription, volume 1, page 105). Les comptables n’ont pas été appelés comme témoins pour aider à expliquer la situation.
+[22] Une lettre provenant du comptable de l’appelant en 2011 ajoute une couche supplémentaire de confusion. Dans cette lettre, l’appelant a déclaré que, lorsque l’entreprise Apex a été liquidée, il lui restait de l’argent comptant et des stocks, qu’il a utilisés pour survivre (pièce R ‑3, onglet 17, page 79). Au cours de son contre‑interrogatoire, l’appelant a déclaré que ce qu’il voulait dire par [traduction] « argent comptant », c’était qu’il s’agissait de l’argent qu’il avait versé à ses amis en guise de prêts, l’argent dans ses comptes bancaires et les CPG. Il a dit qu’il avait un total de 220 000 $ à 230 000 $. Il a cependant été imprécis quant à la source de ces montants, sauf pour déclarer qu’il avait un CPG de 60 000 $ US dans un compte, à l’égard duquel il n’était pas certain, et qu’il avait environ 20 000 $ à 25 000 $ en argent comptant provenant d’Apex qu’il conservait à la maison dans une armoire de cuisine. En réponse à la question de savoir pourquoi il consentait des prêts lorsqu’il avait plus tôt déclaré qu’il utilisait l’argent pour survivre, il a expliqué qu’aider sa famille et ses amis faisait partie de sa culture (transcription, volume 1, pages 109 à 114).
+[23] Après la fin des activités d’Apex en avril 2003, l’appelant a aidé son frère, Mansour Boroumand, à construire une maison (transcription, volume 1, pages 32 et 33). À l’examen des relevés de sa marge de crédit personnelle de la CIBC, l’appelant a déclaré dans son témoignage qu’il avait utilisé le compte pour la construction de la maison de son frère.
+[24] La maison était au nom de son frère et elle n’avait pas été vendue à la fin de 2007. La pertinence de la maison n’était pas claire dans le cadre de la contestation de la cotisation fondée sur la valeur nette, outre pour renforcer l’allégation du ministre selon laquelle l’appelant avait d’importantes dépenses personnelles.
+[25] En réponse à la question sur la provenance de l’argent pour financer la construction de la maison de son frère, l’appelant a de nouveau mentionné le CPG de 60 000 $ US et a affirmé qu’il avait reçu le remboursement d’un prêt qu’il avait consenti à un ami, qui s’appelait Havani. Il a également déclaré dans son témoignage qu’en 2003, il avait consenti des prêts à Fantastic Auto, une concession de voitures d’occasion et à d’autres personnes non désignées (transcription, volume 1, pages 43 à 46). Les modalités et l’existence des prêts ne sont pas claires et personne n’a été appelé pour confirmer ces affirmations, pas plus que des documents n’ont été produits à cette fin.
+2004
+[26] Pour 2004, l’appelant a uniquement déclaré des revenus d’intérêts. Toutefois, l’état de la valeur nette pertinent indique que l’appelant avait acquis plusieurs éléments d’actif importants, notamment un CPG de 240 000 $, un autre de 187 000 $, de même qu’une maison située au 86 Thornridge Drive, dont le prix d’achat était de 750 000 $ et à l’égard de laquelle une hypothèque de 560 204 $ avait été contractée. Selon l’état de la valeur nette, les dépenses personnelles pour l’année s’élevaient à 612 127 $.
+[27] L’appelant a reconnu qu’il avait acquis les éléments d’actif susmentionnés au cours de l’année. Il a déclaré dans son témoignage qu’il avait reçu de l’argent de son oncle en Iran, de même que des prêts de son frère et d’un ami de son frère, Ali Mojarad (transcription, volume 1, pages 49, 66 et 67).
+[28] Selon son témoignage, l’argent que l’appelant a reçu d’Iran lui a été viré par l’entremise de plusieurs entreprises de virement d’argent à compter de 2004 jusqu’en 2007. Il a déclaré que l’argent représentait sa part d’un héritage de sa grand-mère. La mère de l’appelant a décidé de lui envoyer sa part de l’héritage au Canada. L’appelant a déclaré dans son témoignage que ses grands‑parents avaient une ferme et une maison en Iran (transcription, volume 1, pages 49 et 50). Il semble avoir reçu son héritage petit à petit, suivant des montants allant d’environ 5 000 $ à 200 000 $. L’appelant n’a pas indiqué le montant total de son héritage, mais il a présenté des relevés qui sont censés montrer qu’il avait reçu des douzaines de virements d’argent en provenance d’Iran entre 2004 et 2007 par l’entremise de trois entreprises de transfert de fonds différentes et que ces transferts totalisaient 1 938 538 $ (pièce A ‑1, onglet 11), dont environ 400 000 $ qui auraient été reçus en 2004.
+[29] L’intimée s’est opposée à l’admission de ces relevés en preuve, comme nous le verrons plus loin. Outre ces relevés, l’appelant n’a rien présenté pour appuyer sa position selon laquelle l’argent reçu était un héritage. Son oncle n’a pas témoigné et aucun testament n’a été présenté.
+[30] En ce qui a trait au prêt consenti par son frère, l’appelant n’avait pas non plus de document. Il a déclaré avoir été payé par chèque, mais aucun chèque n’a été présenté au procès. Il a indiqué qu’il avait reçu ce prêt pour acheter la maison située au 86 Thornridge Drive (transcription, volume 1, pages 62 et 63). Selon la transcription de l’interrogatoire préalable, il a expliqué à ce moment-là qu’il détenait l’argent en fiducie pour son frère, qui s’en allait en vacances (transcription, volume 2, pages 135 à 137 et pièce R‑6, page 32). Son frère n’était pas libre pour corroborer ce témoignage.
+[31] L’appelant a également déclaré dans son témoignage qu’en 2002, il avait consenti un prêt de 25 300 $ à une personne appelée Richard Avanes, qui lui avait été remboursé en 2004 (transcription, volume 2, pages 127 et 128). Aucun document n’appuyait ce témoignage et l’appelant a expliqué que M. Avanes ne viendrait pas témoigner en cour parce qu’il ne se sentait pas bien ce jour‑là (transcription, volume 2, page 142).
+[32] L’appelant a témoigné à propos d’un troisième prêt de 26 000 $ US, qui lui avait été consenti par un ami de son frère, Ali Mojarad. L’appelant a affirmé qu’il ne connaissait pas bien M. Mojarad (transcription, volume 2, page 139). Encore ici, aucun élément de preuve documentaire n’appuyait ce prêt, et M. Mojarad n’a pas témoigné.
+2005
+[33] En 2005, l’appelant a déclaré des revenus d’intérêts et des revenus de travaux de peinture. Il a déclaré dans son témoignage qu’il avait passé une semaine à peinturer la maison d’un ami dont il ne se rappelait plus le nom (transcription, volume 1, pages 89 à 91). Selon la partie pertinente de l’état de la valeur nette, ses dépenses personnelles pour l’année s’élevaient à 901 218 $.
+[34] L’appelant a laissé entendre que sa principale source de soutien financier pour l’année était de l’argent provenant d’Iran. Il a déclaré dans son témoignage qu’il avait encaissé le CPG d’environ 187 000 $ qu’il avait acquis en 2004. Selon l’appelant, il n’avait pas d’autres sources de revenus en 2005 (transcription, volume 1, page 70).
+2006
+[35] En 2006, l’appelant a déclaré des revenus de location et d’entreprise. Il a remboursé l’hypothèque grevant la maison située au 86 Thornridge Drive cette année‑là, et ses dépenses personnelles s’élevaient à 439 901 $.
+[36] Dans son témoignage, l’appelant a déclaré que ses principales sources de revenus pour cette année‑là étaient l’argent provenant d’Iran, bien qu’il ne pût se rappeler le montant reçu de cette source, ni le montant des prêts qui lui avaient été remboursés (transcription, volume 1, page 72). Il n’a pas dit qui l’avait remboursé, ni à quel moment, ni le montant qui lui avait été remis. Il avait également reçu de l’argent de la location du 86 Thornridge Drive, qui avait été déclaré sur sa déclaration T1 pour cette année‑là (transcription, volume 1, page 92).
+[37] En ce qui concerne le revenu d’entreprise de 6 000 $ qu’il avait déclaré dans sa déclaration T1, il a affirmé au procès qu’en réalité, il s’agissait d’un CPG. Dans sa déclaration signée, il a déclaré que l’argent provenait de rénovations (transcription, volume 1, page 93, et pièce R‑3, onglet 2, page 31).
+[38] L’appelant a également déclaré qu’il avait enregistré une entreprise d’esthétique automobile, mais qu’il n’en avait tiré aucun revenu parce qu’il n’avait jamais fait de travaux d’esthétique sur des voitures et que l’entreprise n’avait aucun employé ni n’avait acheté de fournitures (transcription, volume 2, pages 125 à 127 et 141).
+2007
+[39] En 2007, l’appelant a déclaré un revenu de 21 152 $ (pièce R‑3, onglet 16, page 76), qui était peut-être un revenu d’intérêts (transcription, volume 1, page 96). Il avait acquis d’importants éléments d’actif au cours de cette année, y compris une somme de 26 828 $ déposée dans un compte bancaire et des CPG d’une valeur de 203 378 $, de 158 087 $ et de 18 035 $. Pour 2007, ses dépenses personnelles s’élevaient à 435 576 $.
+[40] Selon le témoignage de l’appelant, son unique source de revenus pour cette année‑là était de l’argent provenant d’Iran (transcription, volume 1, pages 74 à 76).
+Analyse
+L’objection relative à des documents constituant du ouï-dire
+[41] Comme je l’ai déjà mentionné, l’intimée s’est opposée à l’admission de dossiers allégués provenant de trois entreprises de transfert de fonds, que l’appelant a tenté de produire au titre de l’exception à la règle du ouï-dire relative aux pièces commerciales. Les pièces sont des relevés d’opérations qui sont censés montrer que l’appelant a reçu près de deux millions de dollars provenant d’Iran (ces relevés ont été présentés dans le recueil de documents de l’appelant, pièce A ‑1, aux onglets 14, 15 et 16).
+[42] L’intimée s’oppose à l’admission des documents parce qu’ils constituent du ouï-dire. Des documents sont habituellement inadmissibles pour la véracité de leur contenu, à moins que la personne qui a créé le document ne comparaisse comme témoin [1] . L’article 30 de la Loi sur la preuve au Canada prévoit une exception à cette règle dans le cas de pièces commerciales. L’article est reproduit à la fin des présents motifs.
+[43] L’intimée soutient que l’appelant n’a pas établi la fiabilité des documents, que ce soit par témoignage ou par affidavit attestant les circonstances entourant la création des documents dans le cours ordinaire des affaires. De plus, l’intimée déclare qu’elle n’a pas reçu de l’appelant un avis de son intention de faire admettre les documents en preuve, comme l’exige le paragraphe 30(7).
+[44] Le paragraphe 30(6) de la Loi sur la preuve au Canada permet à un juge du procès d’examiner les circonstances dans lesquelles les pièces commerciales ont été faites et de tirer toute conclusion raisonnable quant à leur fiabilité.
+[45] Aux termes du paragraphe 30(7), la partie qui cherche à produire des documents en vertu de l’exception relative aux pièces commerciales est tenue de donner un avis de son intention de le faire au moins sept jours avant de tenter de les produire au procès. L’appelant n’a pas donné un tel avis.
+[46] L’avocat de l’appelant déclare que les documents ont été fournis à l’intimée à la suite d’engagements dans le cadre de l’interrogatoire préalable. Il soutient qu’il ne lui était pas nécessaire de donner un avis officiel de son intention de s’appuyer sur les documents et qu’il n’existe aucun doute quant à la fiabilité des documents. Il souligne également que l’article 30 confère à la Cour le pouvoir discrétionnaire d’admettre les documents.
+[47] Selon l’approche de la common law fondée sur des principes, la preuve documentaire peut être admise pour déterminer la véracité de son contenu s’il est démontré qu’elle est nécessaire et fiable (décision MacMullin, précitée, au paragraphe 69). Des dossiers constituant du ouï-dire peuvent être admis uniquement s’ils ont été créés dans des circonstances qui les rendent intrinsèquement dignes de foi (R. v. Monkhouse (1987), 83 A.R. 62, 56 Alta. L.R. (2d) 97 (CA Alb.)).
+[48] Le juge du procès agit comme gardien lorsqu’il apprécie le seuil de fiabilité de la déclaration relatée. Son rôle est de prévenir l’admission d’une preuve par ouï‑dire dont la fiabilité ne ressort pas clairement de la véracité de son contenu ou ne peut, en dernière analyse, être vérifiée utilement par le juge des faits. Si la partie qui veut présenter la preuve ne peut satisfaire au double critère de la nécessité et de la fiabilité, la règle d’exclusion générale l’emporte (voir l’arrêt R. c. Khelawon, précité, aux paragraphes 2 et 3).
+[49] En l’espèce, le procès a été instruit suivant la procédure générale, avec toutes les formalités que cela entraîne. L’intimée avait droit à un avis conformément au paragraphe 30(7) de la Loi sur la preuve au Canada et ne l’a pas reçu. De plus, en l’espèce, l’appelant n’a offert aucune explication quant aux circonstances dans lesquelles les dossiers avaient été mis au point et l’intimée a soulevé des doutes sérieux concernant la fiabilité de ces dossiers. Certains dossiers indiquent que l’appelant est à la fois l’expéditeur et le destinataire de fonds (transcription, volume 2, page 131). En outre, selon le témoignage de l’appelant lui-même, il avait à l’occasion consenti des prêts – plus particulièrement un prêt de 59 000 $ – à l’une des entreprises de transfert de fonds en cause (transcription, volume 3, pages 133 et 134), ce qui soulève des questions concernant la relation entre l’appelant et l’entreprise de transfert de fonds.
+[50] Dans ce contexte, j’estime qu’il ne s’agit pas d’une affaire qui justifie l’assouplissement des règles de preuve. L’admission de ces documents non prouvés pour la véracité de leur contenu priverait l’intimée de la possibilité de contester la preuve et la Cour de la capacité d’en apprécier adéquatement la valeur. Je refuse donc d’admettre ces dossiers en preuve.
+Les cotisations fondées sur la valeur nette
+[51] J’examinerai maintenant la teneur des cotisations, c’est-à-dire la vérification même de la valeur nette. Le paragraphe 152(7) de la LIR confère au ministre le pouvoir d’établir des cotisations arbitraires en employant toute méthode appropriée eu égard aux circonstances. La méthode de la valeur nette est la méthode qui est la plus utilisée et c’est celle qui a été employée en l’espèce.
+[52] Dans l’arrêt Hsu c. Canada, 2001 CAF 240, [2001] A.C.F. no 1174 (QL), 2001 DTC 5459, la Cour d’appel fédérale a analysé de la façon suivante le fardeau de preuve qui se rapporte à de telles cotisations arbitraires :
+22 Le paragraphe 152(7) de la Loi permet au ministre d’établir des cotisations « arbitraires » en employant toute méthode appropriée eu égard aux circonstances. Cette disposition se lit comme suit :
+152(7) Cotisation indépendante de la déclaration ou des renseignements fournis. Le ministre n’est pas lié par les déclarations ou renseignements fournis par un contribuable ou de sa part et, lors de l’établissement d’une cotisation, il peut, indépendamment de la déclaration ou des renseignements ainsi fournis ou de l’absence de déclaration, fixer l’impôt à payer en vertu de la présente partie.
+152(7) Assessment not dependent on return or information. The Minister is not bound by a return or information supplied by or on behalf of a taxpayer and, in making an assessment, may, notwithstanding a return or information so supplied or if no return has been filed, assess the tax payable under this Part.
+Le paragraphe 152(8) énonce une présomption de bien-fondé de ces cotisations et impose initialement au contribuable la charge de réfuter les faits présumés par le ministre (Dezura v. M.N.R. (1947), 3 D.T.C. 1101, à la page 1102 (C. de l’É.)). Même si pareille cotisation est « arbitraire », le ministre est tenu de divulguer le fondement précis sur lequel cette cotisation repose (Johnston v. M.N.R. (1948), 3 D.T.C. 1182, à la page 1183 (C.S.C.)). Autrement, le contribuable ne serait pas en mesure de s’acquitter de l’obligation initiale qui lui incombe de démolir les « présomptions exactes qu’a utilisées le ministre, mais rien de plus » (Hickman Motors Ltd. c. La Reine (1997), 97 D.T.C. 5363, à la page 5376 (C.S.C.)).
+23 Le paragraphe 152(7) de la Loi n’établit pas une méthode précise de détermination de l’impôt payable par le contribuable. Dans la plupart des cas, le ministre suit la « méthode de la valeur nette ». Le Manuel des opérations de l’impôt préparé par Revenu Canada décrit comme suit la méthode de la valeur nette :
+Le recours à la méthode de la valeur nette pour calculer le revenu repose sur la prémisse selon laquelle le revenu d’un client pour une période est égal à l’augmentation de la valeur nette du client (position financière) entre le début et la fin de cette période. La valeur nette d’un client est l’excédent de son actif total (d’entreprise et personnel) sur son passif total (d’entreprise et personnel) à une date donnée.
+24 Bref, le montant par lequel la valeur nette du contribuable augmente au cours d’une période particulière est imputé au contribuable à titre de revenu.
+[. . .]
+29 Les évaluations de la valeur nette sont une solution de dernier recours communément employée dans les cas où le contribuable refuse de produire une déclaration de revenus, qu’il a produit une déclaration fort inexacte ou qu’il refuse de fournir des documents qui permettraient à Revenu Canada de vérifier le rendement (V. Krishna, The Fundamentals of Canadian Income Tax Law, 5e éd. (Toronto : Carswell, (1995) à la page 1089). La méthode de la valeur nette est fondée sur l’hypothèse selon laquelle une augmentation de la richesse d’un contribuable au cours d’une certaine période peut être imputée au revenu pour cette période à moins que le contribuable ne démontre le contraire (Bigayan, précité, à la page 1619). Cette méthode vise à libérer le ministre de l’obligation ordinaire qui lui incombe de prouver l’existence d’une source imposable de revenu. Le ministre est uniquement tenu de démontrer que la valeur nette du contribuable a augmenté entre deux dates. En d’autres termes, une évaluation de la valeur nette ne se rapporte pas à la détermination de la source ou de la nature de l’augmentation de la richesse du contribuable. Une fois qu’il est démontré qu’il y a eu augmentation, il incombe entièrement au contribuable de séparer son revenu imposable des gains provenant de sources non imposables (Gentile c. La Reine, [1988] 1 C.T.C. 253, à la page 256 (C.F. 1re inst.)).
+30 Par sa nature, une évaluation de la valeur nette est une estimation arbitraire et imprécise du revenu du contribuable. Toute iniquité perçue se rapportant à ce genre d’évaluation est réglée en reconnaissant que le contribuable est celui qui est le mieux placé pour connaître son revenu imposable. Lorsque le fondement factuel de l’estimation du ministre est inexact, il devrait être simple pour le contribuable de corriger à la satisfaction de la Cour l’erreur que le ministre a commise.
+[. . .]
+33 Je tiens à ajouter qu’il était loisible au juge de la Cour de l’impôt de conclure que la méthode que le ministre avait employée pour déterminer le revenu de l’appelant était raisonnable et logique eu égard aux circonstances de l’espèce. Les nouvelles cotisations établies par le ministre étaient clairement arbitraires, mais il ne faut pas oublier que cette approche était directement attribuable au refus de l’appelant de divulguer des renseignements ou documents financiers. Dans la décision Dezura, précitée, aux pages 1103 et 1104, le président de la Cour de l’Échiquier du Canada a donné les explications suivantes :
+[traduction]
+La cotisation vise à permettre de déterminer le montant du revenu imposable du contribuable et à fixer le montant de sa dette conformément aux dispositions de la Loi. Si le contribuable ne produit pas de déclaration ou donne des renseignements inexacts dans sa déclaration ou de quelque autre façon, il ne peut à bon droit se plaindre de la façon dont le ministre a déterminé le montant de l’impôt qu’il devrait payer, à condition qu’il ait un droit d’appel à cet égard et qu’il ait la possibilité de démontrer que le montant que le ministre a déterminé est en fait inexact. Le contribuable qui a produit une déclaration exacte n’a pas non plus à craindre le pouvoir du ministre s’il a un droit d’appel. Les intérêts du Revenu sont donc protégés et les droits des contribuables sont pleinement maintenus. Habituellement, le contribuable connaît mieux que toute autre personne le montant de son revenu imposable et devrait être en mesure de l’établir à la satisfaction de la Cour. S’il le fait et si ce montant est inférieur à celui qui est déterminé par le ministre, pareil montant doit être réduit conformément à la conclusion tirée par la Cour. Si, d’autre part, il omet de démontrer que le montant déterminé par le ministre est erroné, il ne peut pas à juste titre se plaindre si le montant est maintenu. Si son omission de convaincre la Cour est attribuable à sa propre faute ou à une négligence telle que l’omission de conserver des comptes ou des documents appropriés lui permettant d’étayer ses propres déclarations, il ne peut imputer la chose qu’à sa propre faute.
+[53] Dans la décision Bigayan c. Canada, [1999] A.C.I. no 778 (QL), 2000 DTC 1619, au paragraphe 3, le juge Bowman (tel était alors son titre) a déclaré que le meilleur moyen de contester une cotisation fondée sur la valeur nette était de produire la preuve de ce qu’était véritablement le revenu du contribuable. En l’absence de documents, un autre moyen offert au contribuable consisterait à prouver que, même après une application en règle de la formule de la valeur nette, les cotisations sont erronées.
+[54] Enfin, dans l’arrêt Lacroix c. Canada, 2008 CAF 241, [2008] A.C.F. no 1092 (QL), 2009 DTC 5029, au paragraphe 18, la Cour d’appel fédérale a confirmé qu’il n’existait pas de principe selon lequel le ministre ne pouvait ajouter au revenu d’un contribuable un revenu non déclaré qu’il constatait à la suite de l’application de la méthode de l’avoir net que s’il était en mesure d’établir la source de ce revenu. Dans la mesure où le ministre présume que le revenu constaté par l’application de la méthode de l’avoir net est un revenu imposable, il revient au contribuable de démolir cette présomption. Si celui-ci présente une preuve crédible que le montant en question n’a pas le caractère de revenu, le ministre doit alors aller au-delà de ses présomptions de fait et déposer la preuve de l’existence de ce revenu. (arrêt Lacroix, paragraphe 20).
+[55] En l’espèce, le ministre a émis les hypothèses selon lesquelles l’appelant ne tenait pas les livres et registres appropriés et que le revenu déclaré pour les années en cause était insuffisant pour appuyer les augmentations de sa valeur nette et le niveau de ses dépenses personnelles pendant ces années. Le ministre a émis plusieurs autres hypothèses sur lesquelles s’appuyait la conclusion portant que le revenu non déclaré de l’appelant établi au moyen des évaluations de la valeur nette était significativement supérieur à son revenu déclaré, que ce revenu excédentaire ne provenait pas d’un héritage, d’une donation ou de gains de loterie ou de jeu, et qu’il ne se rapportait à aucun prêt consenti par lui ou qu’il avait contracté.
+[56] Selon la thèse principale de l’appelant, l’augmentation importante de sa valeur nette provenait de l’argent que lui devait Apex, d’autres prêts qui lui avaient été remboursés par des amis, d’un prêt consenti par son frère et d’un héritage de sa grand-mère en Iran.
+[57] L’appelant a également contesté les écarts de valeur nette établis par le ministre dans l’état de la valeur nette découlant de l’examen minutieux de ses relevés de cartes de crédit et de lignes de crédit. Il a également soulevé certaines réserves en ce qui concerne la possibilité de double comptabilisation de la part de la vérificatrice lors de l’établissement de la valeur nette.
+[58] À mon avis, la preuve appuie bel et bien la conclusion selon laquelle l’appelant a fait une présentation erronée de son revenu de telle sorte que l’intimée avait le droit d’établir de nouvelles cotisations à l’égard des années frappées de prescription en vertu du sous‑alinéa 152(4)a)(i) de la LIR, comme j’en discuterai plus loin. Cela dit, je conclus que l’appelant ne s’est pas acquitté de son fardeau d’établir que le ministre avait mal calculé les écarts établis en application de la méthode de la valeur nette et que la source des fonds était telle que ces fonds n’étaient pas un revenu imposable. Le témoignage de l’appelant n’aborde pas du tout plus de la moitié du montant évalué comme étant un revenu non déclaré et l’explique encore moins. Son témoignage, qui était vague et parfois évasif, comportait des contradictions importantes. Aucun tableau clair n’est ressorti quant à l’état réel de ses affaires. Aucune explication plausible n’a été fournie à l’égard de l’augmentation de sa valeur nette. Sa version des événements n’était pas appuyée par des documents adéquats et fiables et, de fait, elle était en conflit avec les documents dressés par ses propres comptables et avec les déclarations figurant sur ses déclarations de revenus et dans des lettres à ses comptables.
+[59] L’appelant a expliqué que la plus grande partie de l’augmentation de sa valeur nette provenait de l’héritage qu’il dit avoir reçu de sa grand-mère en Iran. Les circonstances entourant cet héritage sont peu crédibles. Cet héritage serait une part de plusieurs millions de dollars d’une succession, une part virée à l’appelant par son oncle en Iran, celui-ci agissant pour le compte de la mère de l’appelant, en plusieurs petites opérations s’étalant sur plusieurs années. Comme je l’ai indiqué plus tôt dans mes motifs, les pièces provenant des entreprises de transfert de fonds présentées par l’appelant n’étaient pas admissibles en preuve. Il n’y avait pas de testament. Compte tenu de l’importance du montant d’argent en cause, l’intimée me demande de tirer une inférence défavorable du fait que l’oncle de l’appelant n’a pas été appelé à témoigner, peut-être au moyen de la vidéoconférence comme le prévoient les Règles de la Cour canadienne de l’impôt (procédure générale). Je conviens qu’une telle inférence est appropriée. Les circonstances entourant l’héritage sont invraisemblables et exigent qu’elles soient corroborées. Je tire une inférence défavorable du fait qu’aucun parent n’a été appelé à témoigner concernant l’existence de l’héritage.
+[60] Les avocats de l’intimée me demandent de tirer des inférences défavorables du fait que l’appelant n’a pas fait témoigner Richard Avanes et Ali Mojarad concernant le remboursement de prêts, ou concernant des prêts qui leur auraient été consentis, ou du fait que l’appelant n’a pas demandé aux comptables de témoigner concernant l’écart entre les états financiers d’Apex et sa propre version. L’appelant n’a pas fait valoir que ces personnes n’étaient pas disponibles pour témoigner. Il a déclaré que M. Avanes ne se sentait pas bien le jour de l’audience, mais n’a rien présenté pour appuyer ses dires et M. Avanes n’a pas non plus été assigné à comparaître. En conséquence, je tire une inférence défavorable de l’omission de produire ces témoins.
+[61] L’avocat de l’appelant a soutenu qu’au moins 20 000 $ avaient été comptés deux fois dans l’état de la valeur nette parce qu’un montant de 10 000 $ qui avait été viré d’un des comptes de l’appelant était dans les faits un virement intercomptes. Comme je l’ai déjà mentionné, la vérificatrice a expliqué qu’elle avait cherché à éliminer tous les virements entre les comptes appartenant à l’appelant. Elle a indiqué que le montant en cause avait été viré dans un compte inconnu. Celui-ci pouvait appartenir à l’appelant, mais elle ne possédait pas ce renseignement. J’accepte l’explication de la vérificatrice et je souligne qu’il incombait à l’appelant d’établir que le compte inconnu lui appartenait, mais qu’il n’a fourni aucune preuve ni aucun document pour montrer que le compte était bel et bien le sien.
+[62] En ce qui concerne la démarche de la vérificatrice, dans le cadre de la détermination de la valeur nette, l’appelant soutient que sa démarche était [traduction] « tout à fait nouvelle et franchement erronée » (observations écrites de l’appelant, page 6, note 4). Il a fait valoir que les avances de fonds provenant des cartes de crédit, quoiqu’utilisées pour payer des dépenses, devraient diminuer l’écart, puisque ces avances de fonds étaient une dette. Je conclus que l’appelant n’a pas fourni de preuve de ce qu’il faisait valoir. Selon la détermination de la valeur nette, la plupart des avances de fonds ont été remboursées, et l’appelant n’a pas précisé la source des fonds avec lesquels elles ont été remboursées. Voici ce que la Cour d’appel fédérale a déclaré dans l’arrêt Molenaar c. Canada, 2004 CAF 349, [2004] A.C.F. no 1731 (QL), 2005 DTC 5307, au paragraphe 4 :
+4 À partir du moment où le ministère établi selon des données fiables un écart, substantiel dans le cas présent, entre les actifs d’un contribuable et ses dépenses et où cet écart demeure inexpliqué et inexplicable, le ministère a assumé son fardeau de preuve. Il appartient alors au contribuable d’identifier la source et d’établir la nature non imposable de ses revenus.
+[63] Je conclus que l’appelant n’a pas précisé la source des fonds susmentionnés, pas plus qu’il n’a montré qu’ils ne constituaient pas un revenu imposable.
+Les années frappées de prescription et les pénalités pour faute lourde
+[64] J’examinerai maintenant la question de savoir si le ministre était justifié d’établir une nouvelle cotisation à l’égard des années d’imposition 2003, 2004 et 2005 en dehors de la période prévue aux termes du sous‑alinéa 152(4)a)(i) et d’imposer des pénalités au titre du paragraphe 163(2). Le sous‑alinéa 152(4)a)(i) permet au ministre d’établir de nouvelles cotisations en dehors de la période normale dans les cas où le contribuable a fait une présentation erronée de son revenu, par négligence, inattention ou omission volontaire. Le paragraphe 163(2) autorise le ministre à imposer des pénalités dans les cas où un contribuable fait un faux énoncé ou une omission dans sa déclaration de revenus dans des circonstances équivalant à faute lourde.
+[65] Il est bien établi que le ministre a le fardeau de justifier à la fois la nouvelle cotisation en dehors de la période prévue par la Loi et l’imposition de pénalités pour faute lourde, même dans le cas d’une cotisation fondée sur la valeur nette. Cela est vrai même dans les cas où le ministre n’est pas en mesure d’identifier la véritable source du revenu d’un contribuable. Dans l’arrêt Lacroix, précité, la Cour d’appel fédérale a déclaré ce qui suit sur la façon dont le ministre peut s’acquitter de ce fardeau dans les cas visant une cotisation fondée sur la valeur nette :
+[30] Les faits en preuve, dans un tel cas, sont que la déclaration de revenu du contribuable fait une présentation erronée des faits et que la seule explication offerte par le contribuable est jugée non crédible. Évidemment, il doit y avoir une autre explication pour ce revenu. Il faut donc conclure que le contribuable a une source de revenu qu’il n’a pas déclarée, qu’il est au courant de cette source et qu’il refuse de la divulguer puisque les explications qu’il a offertes n’ont pas été jugées crédibles. En de telles circonstances, la conclusion que la fausse déclaration de revenu a été produite sciemment ou dans des circonstances équivalant à faute lourde me semble inéluctable. Cela justifie non seulement l’imposition d’une pénalité mais aussi l’établissement de la nouvelle cotisation hors de la période statutaire.
+[. . .]
+[32] Qu’en est-il alors du fardeau du ministre? Comment s’en acquitte-t-il? Il se peut que dans certaines circonstances, le ministre soit en mesure de faire une preuve directe de l’état d’esprit du contribuable lorsque ce dernier a produit sa déclaration de revenu. Mais dans la grande majorité des cas, le ministre ne pourra que miner la crédibilité du contribuable, soit par des éléments de preuve qu’il apporte, soit en contre-interrogatoire du contribuable. Dans la mesure où la Cour canadienne de l’impôt est persuadée que le contribuable touche un revenu qu’il n’a pas déclaré et que l’explication offerte par le contribuable pour l’écart constaté entre son revenu déclaré et l’accroissement de son actif est non crédible, le ministre s’est acquitté du fardeau de preuve qui lui incombe aux termes du sous-alinéa 152(4)(a)(i) et du paragraphe 162(3). [sic]
+[66] Dans la décision Venne c. Canada, [1984] A.C.F. no 314 (QL), 84 DTC 6247 (C.F.P.I.), le juge Strayer a ainsi défini la faute lourde :
+[...] La « faute lourde » doit être interprétée comme un cas de négligence plus grave qu’un simple défaut de prudence raisonnable. Il doit y avoir un degré important de négligence qui corresponde à une action délibérée, une indifférence au respect de la Loi. […]
+[67] Comme je l’ai expliqué précédemment dans mes motifs, je suis convaincue que l’appelant a gagné un revenu non déclaré et qu’il n’a pas fourni d’explication crédible et plausible concernant l’écart entre son revenu déclaré et sa valeur nette.
+[68] L’avocat de l’appelant a soutenu qu’il en fallait plus que cela pour établir une nouvelle cotisation après trois ans. Il a indiqué qu’une déclaration doit comporter une lacune à sa face même afin d’ordonner une vérification en dehors de la période prévue par la Loi. Autrement, personne ne serait en mesure d’invoquer la protection de la période de prescription. Il a fait valoir que le ministre n’est pas tenu de prouver une source de revenus précise, mais il doit néanmoins être en mesure de montrer l’existence d’une source imposable de revenu.
+[69] Avec respect, j’estime que le droit est très clair : le ministre n’est pas tenu d’identifier une source de revenus sous-jacente à une évaluation fondée sur la valeur nette. Notre système de taxation est un régime d’autocotisation. Le contribuable est le mieux placé pour connaître les sources de son revenu. Si cette source n’est pas imposable, il est le mieux placé pour établir ce fait en montrant d’où provient le revenu au moyen d’éléments de preuve crédibles et plausibles fournis en conformité avec les règles de droit.
+[70] En l’espèce, l’ampleur des omissions en lien avec le revenu déclaré est importante, et ces omissions ont eu lieu sur plusieurs années. Le témoignage de l’appelant n’a pas traité de plus de la moitié du montant inclus à titre de revenu non déclaré. Son témoignage comportait d’importantes lacunes et sa version des faits était en conflit avec les documents dressés par ses propres comptables et avec certaines déclarations antérieures. Je suis convaincue que l’intimée s’est acquittée du fardeau de la preuve à la fois en montrant que l’appelant avait fait une présentation erronée de son revenu, par négligence, inattention ou omission volontaire, mais également avec un degré important de négligence qui correspondait à une action délibérée ou à une indifférence au respect de la Loi.
+[71] Par conséquent, je conclus que l’intimée avait le droit d’établir une nouvelle cotisation pour les années frappées de prescription en vertu du sous‑alinéa 152(4)a)(i) de la LIR et d’imposer les pénalités en vertu du paragraphe 163(2) de la LIR.
+Conclusion
+[72] Pour ces motifs, les appels de l’appelant sont rejetés pour les années d’imposition 2004, 2006 et 2007 et sont accueillis pour les années d’imposition 2003 et 2005 uniquement aux fins de réajuster de la manière qui suit le revenu sous‑déclaré, pour refléter les concessions faites par l’intimée :
+Année d’imposition
+Revenu sous-déclaré
+2003
+207 722,16 $
+2005
+755 230,96 $
+[73] L’intimée a droit aux dépens selon le Tarif B des Règles de la Cour canadienne de l’impôt (procédure générale).
+Signé à Ottawa, Canada, ce 15e jour d’octobre 2015.
+« Lucie Lamarre »
+Juge en chef adjointe Lamarre
+Traduction certifiée conforme
+ce 12e jour de février 2016.
+Mario Lagacé, jurilinguiste
+loi sur la preuve au Canada
+Les pièces commerciales peuvent être admises en preuve
+30. (1) Lorsqu’une preuve orale concernant une chose serait admissible dans une procédure judiciaire, une pièce établie dans le cours ordinaire des affaires et qui contient des renseignements sur cette chose est, en vertu du présent article, admissible en preuve dans la procédure judiciaire sur production de la pièce.
+(2) Lorsqu’une pièce établie dans le cours ordinaire des affaires ne contient pas de renseignements sur une chose dont on peut raisonnablement s’attendre à trouver la survenance ou l’existence consignées dans cette pièce, le tribunal peut, sur production de la pièce, admettre celle-ci aux fins d’établir ce défaut de renseignements et peut en conclure qu’une telle chose ne s’est pas produite ou n’a pas existé.
+(3) Lorsqu’il n’est pas possible ou raisonnablement commode de produire une pièce décrite au paragraphe (1) ou (2), une copie de la pièce accompagnée d’un premier document indiquant les raisons pour lesquelles il n’est pas possible ou raisonnablement commode de produire la pièce et d’un deuxième document préparé par la personne qui a établi la copie indiquant d’où elle provient et attestant son authenticité, est admissible en preuve, en vertu du présent article, de la même manière que s’il s’agissait de l’original de cette pièce pourvu que les documents satisfassent aux conditions suivantes : que leur auteur les ait préparés soit sous forme d’affidavit reçu par une personne autorisée, soit sous forme de certificat ou de déclaration comportant une attestation selon laquelle ce certificat ou cette déclaration a été établi en conformité avec les lois d’un État étranger, que le certificat ou l’attestation prenne ou non la forme d’un affidavit reçu par un fonctionnaire de l’État étranger.
+(4) Lorsque la production d’une pièce ou d’une copie d’une pièce décrite au paragraphe (1) ou (2) ne révélerait pas au tribunal les renseignements contenus dans la pièce, du fait qu’ils ont été consignés sous une forme qui nécessite des explications, une transcription des explications de la pièce ou copie, préparée par une personne qualifiée pour donner les explications, accompagnée d’un document de cette personne indiquant ses qualités pour les donner et attestant l’exactitude des explications est admissible en preuve, en vertu du présent article, de la même manière que s’il s’agissait de l’original de cette pièce. Le document prend la forme soit d’un affidavit reçu par une personne autorisée, soit d’un certificat ou d’une déclaration comportant une attestation selon laquelle ce certificat ou cette déclaration a été établi en conformité avec les lois d’un État étranger, que le certificat ou l’attestation prenne ou non la forme d’un affidavit reçu par un fonctionnaire de l’État étranger.
+(5) Lorsque seul un fragment d’une pièce est produit en vertu du présent article par une partie, le tribunal peut examiner tout autre fragment de la pièce et ordonner que, avec le fragment de la pièce ainsi produit précédemment, l’ensemble ou tout fragment de cet autre fragment de la pièce soit produit par cette partie en tant que pièce produite par elle.
+(6) Aux fins de déterminer si l’une des dispositions du présent article s’applique, ou aux fins de déterminer la valeur probante, le cas échéant, qui doit être accordée aux renseignements contenus dans une pièce admise en preuve en vertu du présent article, le tribunal peut, sur production d’une pièce, examiner celle-ci, admettre toute preuve à son sujet fournie de vive voix ou par affidavit, y compris la preuve des circonstances dans lesquelles les renseignements contenus dans la pièce ont été écrits, consignés, conservés ou reproduits et tirer toute conclusion raisonnable de la forme ou du contenu de la pièce.
+(7) Sauf si le tribunal en décide autrement, aucune pièce ou aucun affidavit n’est admissible en preuve en vertu du présent article, à moins que la partie qui produit la pièce ou l’affidavit n’ait, au moins sept jours avant sa production, donné à chacune des autres parties à la procédure judiciaire un avis de son intention de le produire et ne l’ait, dans les cinq jours qui suivent la réception d’un avis à cet effet donné par l’une de ces parties, produit aux fins d’examen par cette partie.
+(8) Si la preuve est produite sous forme d’affidavit, en vertu du présent article, il n’est pas nécessaire de prouver la signature ou la qualité officielle de la personne souscrivant l’affidavit si la qualité officielle de la personne est énoncée dans le corps de l’affidavit.
+(9) Sous réserve de l’article 4, lorsqu’une personne a connaissance de l’établissement ou du contenu d’une pièce produite ou admise en preuve en vertu du présent article, ou lorsqu’on peut raisonnablement s’attendre à ce qu’elle en ait connaissance, cette personne peut, avec la permission du tribunal, être interrogée ou contre-interrogée à ce sujet par toute partie à la procédure judiciaire.
+(10) Le présent article n’a pas pour effet de rendre admissibles en preuve dans une procédure judiciaire :
+a) un fragment de pièce, lorsqu’il a été prouvé que le fragment est, selon le cas :
+(i) une pièce établie au cours d’une investigation ou d’une enquête,
+(ii) une pièce établie au cours d’une consultation en vue d’obtenir ou de donner des conseils juridiques ou établie en prévision d’une procédure judiciaire,
+(iii) une pièce relativement à la production de laquelle il existe un privilège qui est invoqué,
+(iv) une pièce reproduisant une déclaration ou faisant allusion à une déclaration faite par une personne qui n’est pas ou ne serait pas, si elle était vivante et saine d’esprit, habile et contraignable à divulguer dans la procédure judiciaire une chose divulguée dans la pièce;
+b) une pièce dont la production serait contraire à l’ordre public;
+c) une transcription ou un enregistrement de témoignages recueillis au cours d’une autre procédure judiciaire.
+(11) Les dispositions du présent article sont réputées s’ajouter et non pas déroger :
+a) à toute autre disposition de la présente loi ou de toute autre loi fédérale concernant l’admissibilité en preuve d’une pièce ou concernant la preuve d’une chose;
+b) à tout principe de droit existant en vertu duquel une pièce est admissible en preuve ou une chose peut être prouvée.
+(12) Les définitions qui suivent s’appliquent au présent article.
+« affaires »
+« business »
+« affaires » Tout commerce ou métier ou toute affaire, profession, industrie ou entreprise de quelque nature que ce soit exploités ou exercés au Canada ou à l’étranger, soit en vue d’un profit, soit à d’autres fins, y compris toute activité exercée ou opération effectuée, au Canada ou à l’étranger, par un gouvernement, par un ministère, une direction, un conseil, une commission ou un organisme d’un gouvernement, par un tribunal ou par un autre organisme ou une autre autorité exerçant une fonction gouvernementale.
+« copie » et « pellicule photographique »
+“copy” and “photographic film”
+« copie » Relativement à une pièce, est assimilée à une copie une épreuve, agrandie ou non, tirée d’une pellicule photographique représentant cette pièce, et « pellicule photographique » s’entend notamment d’une plaque photographique, d’une pellicule microphotographique et d’un cliché au photostat.
+« pièce »
+« record »
+« pièce » Sont assimilés à une pièce l’ensemble ou tout fragment d’un livre, d’un document, d’un écrit, d’une fiche, d’une carte, d’un ruban ou d’une autre chose sur ou dans lesquels des renseignements sont écrits, enregistrés, conservés ou reproduits, et, sauf pour l’application des paragraphes (3) et (4), toute copie ou transcription admise en preuve en vertu du présent article en conformité avec le paragraphe (3) ou (4).
+« procédure judiciaire »
+« legal proceeding »
+« procédure judiciaire » Toute procédure ou enquête, en matière civile ou pénale, dans laquelle une preuve est ou peut être faite, y compris l’arbitrage.
+« tribunal »
+« court »
+« tribunal » Le tribunal, le juge, l’arbitre ou la personne devant qui une procédure judiciaire est exercée ou intentée.
+[Non souligné dans l’original.]
+Référence :
+2015 CCI 239
+Nos des dossiers de la cour :
+2011-3294(GST)G, 2011-3296(GST)G, 2011-3293(GST)G, 2011-3288(GST)G, 2011-3295(GST)G, 2011‑3310(IT)G, 2011‑3311(IT)G, 2011‑3312(IT)G, 2011‑3313(IT)G et 2011‑3314(IT)G
+Intitulé :
+MASIH BOROUMAND c. SA MAJESTÉ LA REINE
+Lieu de l’audience :
+Toronto (Ontario)
+DATES DE L’AUDIENCE :
+Les 9 et 10 avril 2015
+Motifs du jugement :
+L’honorable juge en chef adjointe
+Lucie Lamarre
+DATE DU JUGEMENT :
+Le 5 novembre 2015
+Comparutions :
+Avocat de l’appelant :
+Me Osborne G. Barnwell
+Avocats de l’intimée :
+Me John Grant
+Me Rishma Bhimji
+Avocats inscrits auX dossierS :
+Pour l’appelant :
+Nom :
+Osborne G. Barnwell
+Cabinet :
+Osborne G. Barnwell, avocat
+North York (Ontario)
+Pour l’intimée :
+William F. Pentney
+Sous‑procureur général du Canada
+Ottawa, Canada
+[1] R. v. MacMullin, [2013] A.J. No. 1454 (QL), 2013 ABQB 741, au paragraphe 50, qui renvoie à l’arrêt R. c. Khelawon, 2006 CSC 57, [2006] 2 R.C.S. 787, aux paragraphes 56 à 59.

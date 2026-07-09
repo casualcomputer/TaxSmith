@@ -1,0 +1,165 @@
+---
+title: "Asselin c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28892/index.do"
+last_modified: "2008-09-25"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 CCI 535"
+citation2: ""
+neutral_citation: "2008 CCI 535"
+decision_date: "2008-09-25"
+language: "fr"
+item_id: "28892"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1367
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T10:21:43.609000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "251326bd81c3d7f08e7283beb90bbd4286c5f82a228161290bdfd656d516d4f2"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Asselin c. La Reine
+
+- Citation: 2008 CCI 535
+- Decision date: 2008-09-25
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1367, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Asselin c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-09-25
+Référence neutre
+2008 CCI 535
+Numéro de dossier
+2008-93(IT)G
+Juges et Officiers taxateurs
+Réal Favreau
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2008-93(IT)G
+ENTRE :
+DENIS ASSELIN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Requête entendue sur preuve commune avec
+la requête de Plomberie de la Capitale Inc. (2008-95(IT)G)
+le 17 septembre 2008 à Québec (Québec).
+Devant : L'honorable juge Réal Favreau
+Comparutions :
+Avocat de l’appelant :
+Me Bernard Roy
+Avocate de l'intimée :
+Me Susan Shaughnessy
+____________________________________________________________________
+ORDONNANCE
+VU la requête de l’appelant visant à obtenir une ordonnance nommant madame Diane Moore, vérificatrice, ainsi que madame Nathalie Locas, évaluatrice, comme personnes devant faire l’objet d’un interrogatoire préalable oral au nom de l’intimée;
+VU la déclaration sous serment déposée par l’avocat de l’appelant à l’appui de la requête;
+VU la déclaration sous serment de madame Christine Verreault, agent des appels, confirmant les montants d’impôt et de la pénalité en litige de l’appelant;
+ET après avoir entendu les avocats des deux parties;
+IL EST ORDONNÉ que la requête de l’appelant soit rejetée avec dépens en faveur de l’intimée, peu importe l’issue de la cause, selon les motifs ci-joints.
+Signée à Ottawa, Canada, ce 25e jour de septembre 2008.
+« Réal Favreau »
+Juge Favreau
+Dossier : 2008-95(IT)G
+ENTRE :
+PLOMBERIE DE LA CAPITALE INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Requête entendue sur preuve commune avec
+la requête de Denis Asselin (2008-93(IT)G)
+le 17 septembre 2008 à Québec (Québec).
+Devant : L'honorable juge Réal Favreau
+Comparutions :
+Avocat de l’appelante :
+Me Bernard Roy
+Avocate de l'intimée :
+Me Susan Shaughnessy
+____________________________________________________________________
+ORDONNANCE
+VU la requête de l’appelante visant à obtenir une ordonnance nommant madame Diane Moore, vérificatrice, ainsi que madame Nathalie Locas, évaluatrice, comme personnes devant faire l’objet d’un interrogatoire préalable oral au nom de l’intimée;
+VU la déclaration sous serment déposée par l’avocat de l’appelante à l’appui de la requête;
+VU la déclaration sous serment de madame Christine Verreault, agent des appels, confirmant les montants d’impôt et de la pénalité en litige de l’appelante;
+ET après avoir entendu les avocats des deux parties;
+IL EST ORDONNÉ que la requête de l’appelante soit rejetée avec dépens en faveur de l’intimée, peu importe l’issue de la cause, selon les motifs ci-joints.
+Signée à Ottawa, Canada, ce 25e jour de septembre 2008.
+« Réal Favreau »
+Juge Favreau
+Référence : 2008 CCI 535
+Date : 20080925
+Dossiers : 2008-93(IT)G
+2008-95(IT)G
+ENTRE :
+DENIS ASSELIN,
+PLOMBERIE DE LA CAPITALE INC.,
+appelants,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DE L’ORDONNANCE
+Le juge Favreau
+[1] Les appelants présentent cette requête en vertu de l’article 17.3 de la Loi sur la Cour canadienne de l’impôt, L.R. (1985), ch. 51 (4e suppl.), art 5; 1993, ch. 27, art. 216 (ci-après la « Loi ») dont voici le libellé :
+Interrogatoire préalable
+17.3 (1) Il ne peut y avoir d'interrogatoire préalable oral si le total de tous les montants en cause dans un appel interjeté sous le régime de la Loi de l'impôt sur le revenu ou celui de la perte en cause déterminé aux termes du paragraphe 152(1.1) de cette loi sont respectivement égaux ou inférieurs à 25 000 $ et 50 000 $, sauf avec le consentement des parties ou sauf si, après avoir étudié la demande d'une partie, la Cour est d'avis que l'appel ne pourrait procéder sans un interrogatoire préalable oral.
+Facteurs
+(2) La Cour saisie d'une demande aux termes du paragraphe (1) détermine dans quelle mesure l'appel aura vraisemblable­ment un effet sur un autre appel interjeté par la même personne ou porte sur une question commune à un groupe ou une catégorie de personnes.
+Interrogatoire obligatoire
+(3) Dans un appel visé au paragraphe (1), la Cour ordonne un interrogatoire préalable oral à la demande d'une partie si celle-ci accepte d'être interrogée au préalable par l'autre partie et de payer, en conformité avec le tarif fixé par les règles de la Cour, les frais que l'interrogatoire souhaité peut occasionner à l'autre partie.
+[2] L’avocate de l’intimée s’oppose aux interrogatoires préalables des deux fonctionnaires de la Couronne d’abord parce que les montants en litige pour chacune des années d’imposition 2002 et 2003 pour chacun des appelants est inférieur à 25 000 $ (dans le cas de monsieur Denis Asselin, 23 697 $ pour 2002 et 1 161 $ pour 2003, et dans le cas de Plomberie de la Capitale Inc., 13 570 $ pour 2002 et 1 398 $ pour 2003) et, ensuite, parce que la crédibilité des personnes que les appelants désirent interroger ne sont pas en cause puisqu’aucune allégation en ce sens n’apparaît dans les procédures, ni dans la correspondance ou les divers documents soumis par les appelants.
+[3] L’avocat des appelants soutient que les interrogatoires écrits ne sont pas un substitut acceptable dans la conduite de cet appel.
+[4] À l’audience, l’avocat des appelants a soutenu que l’interrogatoire préalable favorisait l’équité et l’efficacité de l’instruction de la cause en diminuant la durée de l’audience. Au soutien de sa position, il a invoqué les décisions Mil (Investments) S.A. c. La Reine, 2006 D.T.C. 2784 et Boast c. La Reine, 2005 D.T.C. 818. Enfin, il a de plus souligné, qu’en droit civil, l’interrogatoire préalable était de pratique courante.
+[5] À l’audience, l’avocate de l’intimée a informé la Cour que l’intimée avait produit sa liste de documents, alors que les appelants n’avaient produit qu’une liste de documents ne faisant référence qu’aux avis de cotisation, et que l’intimée avait remis aux appelants le rapport de vérification de même que le rapport d’évaluation de la résidence construite par monsieur Denis Asselin. Selon elle, les appelants ont en leur possession toutes les informations nécessaires et utiles pour comprendre les fondements des avis de cotisation et les critères utilisés par l’évaluatrice pour évaluer la résidence.
+[6] Comme le prévoit le paragraphe 17.3(1) de la Loi, la Cour a la discrétion d’accueillir une requête demandant la tenue d’un interrogatoire préalable si la Cour est d’avis que l’appel ne pourrait procéder sans un interrogatoire préalable oral et ce, même si les montants en litige sont inférieurs à 25 000 $ comme dans le présent cas.
+[7] À la lecture des actes de procédure, il m’apparaît que les faits ne sont pas complexes et que la position de l’intimée est clairement exprimée dans la réponse à l’avis d’appel.
+[8] Compte tenu du fait que les appelants ont en leur possession la liste de documents de l’intimée, le rapport de vérification et le rapport d’évaluation de la résidence, les appelants ne m’ont pas convaincu que leurs appels ne pourraient procéder sans l’interrogatoire préalable oral de mesdames Diane Moore et Nathalie Locas.
+[9] La requête est rejetée avec dépens en faveur de l’intimée, peu importe l’issue de la cause.
+Signée à Ottawa, Canada, ce 25e jour de septembre 2008.
+« Réal Favreau »
+Juge Favreau
+RÉFÉRENCE : 2008 CCI 535
+Nºs DES DOSSIERS DE LA COUR : 2008-93(IT)G et 2008-95(IT)G
+INTITULÉS DES CAUSES : Denis Asselin et S.M.L.R.
+Plomberie de la Capitale Inc. et S.M.L.R.
+LIEU DE L’AUDIENCE : Québec (Québec)
+DATE DE L’AUDIENCE : le 17 septembre 2008
+MOTIFS DE L’ORDONNANCE PAR : L'honorable juge Réal Favreau
+DATE DE L’ORDONNANCE : le 25 septembre 2008
+COMPARUTIONS :
+Avocat des appelants :
+Me Bernard Roy
+Avocate de l'intimé :
+Me Susan Shaughnessy
+AVOCATS INSCRITS AUX DOSSIERS :
+Pour les appelants :
+Nom : Me Bernard Roy
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

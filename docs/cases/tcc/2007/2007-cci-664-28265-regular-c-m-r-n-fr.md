@@ -1,0 +1,169 @@
+---
+title: "Regular c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28265/index.do"
+last_modified: "2007-10-30"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 CCI 664"
+citation2: ""
+neutral_citation: "2007 CCI 664"
+decision_date: "2007-10-30"
+language: "fr"
+item_id: "28265"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2046
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T09:08:12.165000+00:00"
+cases_cited_count: 2
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "21d091568fe80601455225fc43a4ac85fa29ff1ac0564145cf0b9b41bcfe8773"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Regular c. M.R.N.
+
+- Citation: 2007 CCI 664
+- Decision date: 2007-10-30
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2046, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Regular c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-10-30
+Référence neutre
+2007 CCI 664
+Numéro de dossier
+2007-2479(EI)
+Juges et Officiers taxateurs
+Wyman W. Webb
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2007-2479(EI)
+ENTRE :
+BRENDA REGULAR,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+REGULAR ENTERPRISES LIMITED,
+intervenante.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 30 octobre 2007,
+à St. John's (Terre-Neuve-et-Labrador)
+Devant : L’honorable juge Wyman W. Webb
+Comparutions :
+Avocate de l’appelante :
+Me Keri-Lynn Power
+Avocate de l’intimé :
+Me Devon Peavoy
+Avocate de l’intervenante :
+Me Keri-Lynn Power
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté en vertu de la Loi sur l’assurance‑emploi (la « Loi ») à l’encontre de la décision de l’intimé selon laquelle l’appelante n’occupait pas un emploi assurable au sens de l’article 5 de la Loi pendant la période du 19 juin 2006 au 22 septembre 2006 est accueilli, et l’affaire est déférée au ministre du Revenu national pour qu’il procède à un nouvel examen et établisse une nouvelle détermination en tenant pour acquis que l’appelante occupait un emploi assurable pendant la période au sens de l’article 5 de la Loi.
+Signé à Ottawa (Ontario), ce 8e jour de novembre 2007.
+« Wyman W. Webb »
+Juge Webb
+Traduction certifiée conforme
+ce 5e jour de décembre 2007.
+Marie-Christine Gervais, traductrice
+Référence : 2007CCI664
+Date : 20071108
+Dossier : 2007-2479(EI)
+ENTRE :
+BRENDA REGULAR,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+REGULAR ENTERPRISES LIMITED,
+intervenante.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Webb
+[1] La question en litige dans le présent appel est de savoir si la décision de l’intimé selon laquelle Brenda Regular n’occupait pas un emploi assurable auprès de Regular Enterprises Limited (la « société ») aux fins de la de la Loi sur l’assurance‑emploi (la « Loi ») pendant la période du 19 juin 2006 au 22 septembre 2006 était une décision raisonnable.
+[2] Le paragraphe 5(2) de la Loi prévoit en partie ce qui suit :
+N’est pas un emploi assurable :
+[...]
+i) l’emploi dans le cadre duquel l’employeur et l’employé ont entre eux un lien de dépendance.
+[3] Le paragraphe 5(3) de la Loi prévoit ce qui suit :
+(3) Pour l’application de l’alinéa (2)i) :
+a) la question de savoir si des personnes ont entre elles un lien de dépendance est déterminée conformément à la Loi de l’impôt sur le revenu;
+b) l’employeur et l’employé, lorsqu’ils sont des personnes liées au sens de cette loi, sont réputés ne pas avoir de lien de dépendance si le ministre du Revenu national est convaincu qu’il est raisonnable de conclure, compte tenu de toutes les circonstances, notamment la rétribution versée, les modalités d’emploi ainsi que la durée, la nature et l’importance du travail accompli, qu’ils auraient conclu entre eux un contrat de travail à peu près semblable s’ils n’avaient pas eu de lien de dépendance.
+[4] En l’espèce, les actions de la société étaient détenues par Robert Regular (qui avait une participation majoritaire dans la société) et deux de ses frères, Terry Regular et Allister Regular. L’appelante est mariée avec Terry Regular. L’appelante et la société sont donc des personnes liées aux fins de la Loi de l’impôt sur le revenu (la « LIR ») en raison des dispositions de l’alinéa 251(2)b) de la LIR et sont réputées avoir entre elles un lien de dépendance selon l’alinéa 251(1)a) de la LIR. Par conséquent, la question en litige en l’espèce est de savoir si la décision du ministre du Revenu national (le « ministre ») selon laquelle Brenda Regular et la société n’auraient pas conclu entre elles un contrat de travail à peu près semblable pendant les périodes en cause si elles n’avaient pas eu de lien de dépendance, est raisonnable.
+[5] Dans la décision Porter c. M.N.R., 2005 CCI 364, la juge Campbell de la Cour canadienne de l’impôt a examiné les décisions rendues par la présente Cour et par la Cour d’appel fédérale relativement au rôle de la Cour de l’impôt dans des appels de cette nature. Au paragraphe 13 de cette décision, la juge Campbell a formulé les commentaires suivants :
+En résumé, le rôle de la Cour consiste à vérifier l’existence et l’exactitude des faits sur lesquels le ministre se fonde, à examiner tous les faits mis en preuve devant elle, notamment tout nouveau fait, et à décider ensuite si la décision du ministre paraît toujours « raisonnable » à la lumière des conclusions de fait tirées par la Cour. Elle doit accorder une certaine déférence au ministre dans le cadre de cet exercice.
+[6] La société exploitait une entreprise d’exploitation forestière et de camionnage dans une région rurale de Terre‑Neuve‑et‑Labrador située à Hampden ou dans les environs. Les opérations forestières de la société commençaient généralement vers le premier jour de juin et se poursuivaient jusqu’au premier jour d’octobre ou à la mi‑octobre. Les dates de début et de fin des opérations dépendaient de la météo. La société n’avait qu’un client pour ses billes de bois et il s’agissait de l’usine de pâte à Corner Brook.
+[7] La société possédait également deux camions. Généralement, l’entreprise de camionnage commençait ses opérations vers le dernier jour de mars et les poursuivait jusqu’en décembre chaque année. Il y avait deux chauffeurs de camion. Pour la société, la période occupée de l’année était le moment où les deux entreprises étaient exploitées en même temps, et c’est à l’entreprise d’exploitation forestière que l'appelante consacrait la majeure partie de son temps.
+[8] L’appelante était la chef de bureau responsable de l’administration du bureau. Elle répondait au téléphone et répondait aux courriels et à tout le reste de la correspondance que la société recevait. Elle devait également s’occuper des comptes créditeurs, des comptes débiteurs, de la liste de paye, des déclarations de TVH et d’autres activités liées à la tenue des comptes. Elle utilisait le logiciel « Simple Comptable » pour établir les états financiers de temps en temps. Les états financiers de fin d’exercice et les déclarations de revenu étaient établies par un comptable externe.
+[9] L’unique client de l’entreprise d’exploitation forestière envoyait automatiquement ses paiements à la société en fonction des billes qui étaient livrées à l’usine à Corner Brook. La société avait 12 ouvriers forestiers qui travaillaient en forêt.
+[10] L’appelante travaillait 40 heures par semaine pendant la haute saison et elle était payée 466 $ par semaine. Aucune question n’a été soulevée concernant le salaire que l’appelante recevait pendant qu’elle figurait sur la liste de paye.
+[11] L’appelante disposait d’une certaine latitude en ce qui concerne le moment où elle travaillait. Il lui arrivait de travailler les soirs ou les fins de semaine, mais elle travaillait généralement 40 heures par semaine.
+[12] Le bureau de la société était situé dans la maison de l’appelante. Aucune indemnité directe n’était versée par l’appelante pour l’utilisation du bureau à domicile. L’appelante a bel et bien témoigné qu’elle avait l’impression qu’elle recevait une indemnité indirecte pour l’utilisation de son domicile, étant donné que la société payait l’assurance de son véhicule.
+[13] L’intimé s’est fondé sur trois principaux facteurs pour décider que l’appelante et la société n’auraient pas conclu entre elles un contrat de travail à peu près semblable si elles n’avaient pas eu de lien de dépendance. Les facteurs sur lesquels il s’est fondé sont les suivants :
+1. le travail que l’appelante a exécuté pour la société pendant la période de temps où elle ne figurait pas sur la liste de paye et où elle n’était donc pas payée par la société;
+2. l’absence d’indemnité pour l’utilisation du bureau à domicile;
+3. les circonstances liées à la mise à pied de l’appelante (y compris le fait qu’elle avait été mise à pied après avoir travaillé pendant le nombre minimum de semaines requises pour avoir droit au prestations maximales d’assurance‑emploi en fonction de son salaire).
+[14] La preuve concernait le travail que Brenda Regular effectuait après avoir été mise à pied (ce qu’elle faisait chaque année après sa mise à pied). Il s’agissait d’activités minimes liées à la tenue des comptes qui étaient effectuées principalement pour veiller à ce que la société respecte ses obligations imposées par la loi relativement à la liste de paye et aux versements de TVH. L’appelante a indiqué qu’il ne fallait environ qu’une heure par semaine pour accomplir ces activités. Comme elle était payée 466 $ par semaine lorsqu’elle figurait sur la liste de paye, cela signifierait que son taux horaire était de 11,65 $. Par conséquent, pour l’unique heure de travail qu’elle effectuait pour la société après sa mise à pied, elle n’aurait droit qu’à 11,65 $. Si on tient pour acquis qu’elle travaillait une heure par semaine pour chacune des 38 autres semaines de l’année suivant son emploi d’une durée de 14 semaines, elle n’aurait eu le droit de recevoir que 442,70 $ si elle avait été payée séparément pour cela. Comme elle recevait 6 524 $ pour les 14 semaines où elle figurait sur la liste de paye, ce montant supplémentaire représenterait moins de 7 % de ce total.
+[15] En ce qui concerne l’interprétation de l’expression « la totalité ou presque » aux fins de la LIR, l’Agence du revenu du Canada (l’« ARC ») a toujours soutenu que cette expression signifiait 90 % ou plus. Cela se reflète dans plusieurs interprétations techniques de l’ARC, aux paragraphes 18 et 24 du bulletin d’interprétation IT-151R5 et au paragraphe 1 du bulletin d’interprétation IT-507R. Lorsque le ministre évalue si les modalités d’un contrat de travail sont « à peu près semblables » à celles du contrat qui aurait été conclu si les parties n’avaient pas eu de lien de dépendance, il me semble que le ministre ne devrait pas adopter un sens plus restrictif de l’expression « à peu près » que celui que l’ARC a adopté pour interpréter l’expression « la totalité ou presque ».
+[16] Les autres circonstances importantes dans la présente affaire sont, à mon avis, la nature de l’entreprise de la société et l’endroit où l’entreprise était exploitée. Il s’agit d’une petite entreprise familiale exploitée dans une région rurale de Terre‑neuve‑et‑Labrador. Il n’y aurait pas beaucoup de perspectives d’emploi pour l’appelante à Hampden ou dans les environs, et la société n’aurait probablement pas beaucoup d’occasions de trouver quelqu’un d’autre pour faire ces activités à sa place. Dans une région où les perspectives d’emploi sont très limitées, il n’aurait pas été déraisonnable pour une personne n’ayant pas de lien de dépendance avec l’employeur d’accepter d’accomplir des tâches prenant juste une heure par semaine.
+[17] Dans Samson c. Ministre du Revenu national, 2005 CCI 383, le juge Little a eu affaire à une situation où une personne avait fourni des services alors qu’elle ne figurait pas sur la liste de paye et a statué que cela constituait un facteur important pour ce qui est de décider si la personne occupait un emploi assurable. Le juge Little a notamment formulé les commentaires suivants au paragraphe 22 :
+22 Lorsque j’applique l’approche énoncée ci‑dessus aux faits dont je suis saisi, je suis convaincu que le principal élément de preuve justifiant la position adoptée par le ministre tient aux travaux étendus que l’appelante effectuait pour le compte du payeur, alors qu’elle ne figurait pas sur la feuille de paye de celui‑ci. Comme il est mentionné plus haut, au cours de ces périodes où l’appelante n’était pas sur la feuille de paye du payeur, elle a effectué un total de 135 dépôts bancaires distincts en 1996, 1997 et 1998. De plus, l’appelante a émis et signé un total de 623 chèques pour le compte du payeur en 1996, 1997 et 1998, bien qu’elle n’ait pas figuré sur la feuille de paye du payeur. Enfin, l’appelante a signé un certain nombre de factures pour le compte du payeur, même si elle n’était pas sur la feuille de paye de ce dernier. Les nombreuses activités accomplies par l’appelante pour le compte du payeur, alors que son nom ne figurait pas sur la feuille de paye, sont une preuve manifeste du fait qu’une personne non liée avec le payeur n’aurait pas rempli des fonctions de cette importance et de cette nature. J’ai donc conclu que le ministre était justifié de rendre sa décision.
+[18] Les activités dans l’affaire Samson étaient beaucoup plus importantes que dans la présente affaire. Comme il est mentionné, les activités que l’appelante accomplissait en l’espèce alors qu’elle ne figurait pas sur la liste de paye ne prenaient environ qu’une heure par semaine. Si on suppose que ces activités se sont poursuivies pendant toute la période où l’appelante n’était pas sur la liste de paye et qu’il s’est passé 38 semaines avant que son nom n’y figure à nouveau, les activités ne représenteraient que 38 heures de travail réparties sur une période de 38 semaines et accomplies dans une région rurale où les perspectives d’emploi son limitées et où la société n’aurait pas beaucoup d’occasions de trouver quelqu’un d’autre pour faire la petite quantité de travail à accomplir. Si l’appelante avait été payée le même taux horaire pour les quelques tâches supplémentaires qu’elle exécutait pendant qu’elle n’était pas sur la liste de paye, elle n’aurait reçu qu’un salaire supplémentaire représentant moins de 7 % du salaire total qu’elle avait gagné alors qu’elle figurait sur la liste de paye. Si je me fonde sur l’interprétation donnée par l’ARC à l’expression « la totalité ou presque », le montant additionnel auquel l’appelante avait droit pour le travail supplémentaire effectué alors qu’elle ne figurait pas sur la liste de paye n’aurait pas d’incidence sur la question de savoir si elle avait reçu la totalité ou presque du montant auquel elle avait droit pour l’année. Par conséquent, cet élément ne constitue pas un facteur important pour établir si les modalités de son emploi, en ce qui concerne le montant qu’elle recevait pour le travail qu’elle exécutait tout au long de l’année étaient à peu près semblables aux modalités d’emploi qui auraient été convenues si l’appelante n’avait pas eu de lien de dépendance avec la société.
+[19] En ce qui concerne la question de l’indemnité pour l’utilisation du bureau à domicile, il me semble que, maintenant, il peut y avoir de nombreuses situations où, grâce aux moyens de communication modernes, un employé n’ayant pas de lien de dépendance avec son employeur peut choisir de travailler à partir de sa propre maison sans recevoir d’indemnité de son employeur pour l’utilisation de sa maison. Comme la société n’avait qu’un seul client pour son entreprise d’exploitation forestière, rien n’indiquait que le bureau à domicile était utilisé pour rencontrer des clients ou pour effectuer des activités autres que celles liées à la tenue des comptes. Le fait que l’appelante pouvait travailler à partir de sa maison sans recevoir d’indemnité directe ne semble pas déraisonnable, que l’appelante ait ou non un lien de dépendance avec son employeur.
+[20] La mise à pied de l’appelante après 14 semaines de travail était aussi un facteur important sur lequel l’intimé s’est fondé pour conclure que les modalités d’emploi n’auraient pas été les mêmes s’il n’y avait pas eu de lien de dépendance. L’intimé a notamment supposé que l’appelante avait été mise à pied avant la fin de la haute saison alors que l’autre personne qui avait été engagée comme commis comptable (l’épouse d’un des autres actionnaires) était restée sur la liste de paye en tant qu’employée. Toutefois, l’appelante et Robert Regular ont tous les deux témoigné que la société connaissait une période difficile en 2006. La société avait beaucoup de problèmes avec son équipement, et Robert Regular a mentionné dans son témoignage qu’il avait dû investir davantage dans la société. Il semble donc que la mise à pied de l’appelante était fondée sur les besoins financiers de la société.
+[21] L’agente des appels a témoigné qu’elle s’était fiée à l’examen des déclarations de TVH qui avaient été produites pour la société. Toutefois, les déclarations de TVH permettent seulement de déterminer les ventes de la société. Elles ne fournissent pas de renseignements exacts sur les dépenses de celle‑ci. Par conséquent, il n’est pas possible de dire, à l’aide d’une déclaration de TVH, si la société fait des profits ou si elle perd de l’argent. Il convient notamment de noter que les salaires ne sont pas assujettis à la TVH et que, par conséquent, aucun crédit de taxe sur les intrants ne peut se rapporter aux salaires payés. L’analyse des crédits de taxe sur les intrants ne reflèterait donc pas toutes les dépenses que la société engageait. De plus, les déclarations de TVH étaient produites à chaque trimestre et le revenu total ne couvrait donc qu’une période de trois mois. Encore une fois, on ne peut pas établir à partir des déclarations de TVH si le revenu a été gagné au cours du premier, du deuxième ou du troisième mois, s’il a été gagné également au cours des trois mois, ou bien d’une autre façon.
+[22] De plus, l’appelante a témoigné que, au cours d’autres années, elle avait travaillé pendant des périodes de temps plus longues lorsque les affaires allaient mieux pour la société.
+[23] L’avocate de l’intimé a également souligné que la société avait engagé deux personnes portant le titre de commis comptables. Toutefois, la preuve révélait que leurs fonctions ne se chevauchaient pas vraiment et que le terme commis comptable n’était peut‑être pas correctement employé dans ce cas‑ci. Plus particulièrement, Mae Regular, l’autre « commis comptable » aidait la société en livrant des pièces et en faisant des courses pour celle‑ci.
+[24] Par conséquent, compte tenu de la preuve qui a été présentée, je ne peux pas conclure que la décision du ministre me paraît toujours raisonnable. L’appel interjeté en vertu de la Loi est donc accueilli, et l’affaire est déférée au ministre du Revenu national pour qu’il procède à un nouvel examen et établisse une nouvelle détermination en tenant pour acquis que l’appelante occupait un emploi assurable pendant cette période au sens de l’article 5 de la Loi.
+Signé à Ottawa (Ontario), ce 8e jour de novembre 2007.
+« Wyman W. Webb »
+Juge Webb
+Traduction certifiée conforme
+ce 5e jour de décembre 2007.
+Marie-Christine Gervais, traductrice
+RÉFÉRENCE : 2007CCI664
+NO DU DOSSIER : 2007-2479(EI)
+INTITULÉ : BRENDA REGULAR c. M.R.N. et REGULAR ENTERPRISES LIMITED
+LIEU DE L’AUDIENCE : St. John's (Terre-Neuve-et-labrador)
+DATE DE L’AUDIENCE : Le 30 octobre 2007
+MOTIFS DU JUGEMENT PAR : L’honorable juge Wyman W. Webb
+DATE DU JUGEMENT : Le 8 novembre 2007
+COMPARUTIONS :
+Avocate de l’appelante :
+Me Keri-Lynn Power
+Avocate de l’intimé :
+Me Devon Peavoy
+Avocate de l’intervenante :
+Me Keri-Lynn Power
+AVOCAT(S) INSCRIT(S) AU DOSSIER :
+Pour l’appelante :
+Nom : Me Keri-Lynn Power
+Cabinet : Robert R. Regular Law Office
+Pour l’intimé : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

@@ -1,0 +1,149 @@
+Title: Emmons v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25236/index.do
+Corpus path: corpus/cases/tcc/2006/2006-cci-269-25236-emmons-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2006-05-08
+
+# Emmons v. The Queen
+
+- Citation: 2006 CCI 269
+- Decision date: 2006-05-08
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2478, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Emmons v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-05-08
+Référence neutre
+2006 CCI 269
+Numéro de dossier
+2005-3386(IT)I
+Juges et Officiers taxateurs
+David W. Beaubier
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2005‑3386(IT)I
+ENTRE :
+RONALD EMMONS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels entendus le 27 avril 2006 à Saskatoon (Saskatchewan)
+Devant : L’honorable juge D.W. Beaubier
+Comparutions :
+Pour l’appelant :
+L’appelant lui‑même
+Avocats de l’intimée :
+Mes Lyle Bouvier et Crystal Warde
+____________________________________________________________________
+JUGEMENT
+Les appels interjetés à l’encontre des nouvelles cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 2002 et 2003 sont accueillis, et les nouvelles cotisations sont déférées au ministre du Revenu national pour qu’il procède à un nouvel examen et à une nouvelle cotisation conformément aux motifs de jugement ci‑joints.
+Des dépens de 100 $ sont adjugés à l’appelant au titre des débours qu’il a engagés dans le cadre du présent appel.
+Signé à Saskatoon (Saskatchewan) ce 8e jour de mai 2006.
+« D.W. Beaubier »
+Juge Beaubier
+Traduction certifiée conforme
+ce 28e jour de juillet 2006.
+Jean David Robert, traducteur
+Référence : 2006CCI269
+Date : 20060508
+Dossier : 2005-3386(IT)I
+ENTRE :
+RONALD EMMONS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Beaubier
+[1] Le présent appel interjeté sous le régime de la procédure informelle a été entendu à Saskatoon (Saskatchewan), le 27 avril 2006. L’appelant a été le seul témoin.
+[2] Les paragraphes 10 à 16 de la réponse à l’avis d’appel contiennent les précisions concernant l’appel. Ils sont ainsi rédigés :
+10. En réponse à l’avis d’opposition de l’appelant, le ministre a établi, le 14 juillet 2005, une nouvelle cotisation à l’égard de l’appelant dans laquelle il a admis des dépenses additionnelles de 46 $ pour 2002 et de 12 $ pour 2003. Un sommaire des déductions demandées, des déductions admises et des déductions refusées est présenté à l’annexe A ci‑jointe. Les montants suivants, entre autres, n’ont pas été admis :
+a) des frais de stationnement de 1 605 $ pour 2002 et de 1 605 $ pour 2003 n’ont pas été admis parce que le stationnement se trouvait au lieu de travail de l’appelant et que l’appelant n’avait pas engagé les frais en question pour se déplacer dans l'exercice des fonctions de son emploi;
+b) les dépenses engagées pour l’achat d’un ordinateur, d’imprimantes et d’un routeur n’ont pas été admises en tant que frais de fournitures parce que ces articles correspondaient à des dépenses en capital;
+c) une dépense engagée au cours de l’année 2001 n’a pas été admise;
+d) les dépenses qui n’avaient pas été engagées en vue de tirer un revenu d’un emploi n’ont pas été admises;
+e) les dépenses pour lesquelles il n’a pas été démontré qu’elles avaient été engagées n’ont pas été admises.
+11. En établissant une nouvelle cotisation d’impôt sur le revenu à l’égard de l’appelant le 14 juillet 2005, le ministre s’est fondé sur les hypothèses de fait suivantes :
+a) pendant les années 2002 et 2003, l’appelant a été employé par BMO Nesbitt Burns à titre de vendeur à commission;
+b) Pour les années 2002 et 2003, l’appelant a déduit des dépenses afférentes à un emploi de 10 112,48 $ et de 13 479,50 $, lesquelles sont indiquées dans la colonne « déductions demandées » de l’annexe A ci‑jointe;
+c) l’appelant a engagé des frais de 1 605 $ pour 2002 et de 1 605 $ pour 2003 pour stationner sa voiture au lieu d’affaires de l’employeur;
+d) l’appelant n’a pas engagé des frais de stationnement de 1 605 $ pour 2002 et de 1 605 $ pour 2003 pour se déplacer dans l'exercice des fonctions de son emploi;
+e) quant aux frais de fournitures déduits pour l’année 2002 :
+(i) 41,30 $ ont été engagés au cours de l’année 2001;
+(ii) 207,83 $ n’ont pas été engagés en vue de tirer un revenu d’un emploi;
+(iii) 55,00 $ n’ont pas été engagés, et, s’ils l’ont été, ce n’était pas en vue de tirer un revenu d’un emploi;
+(iv) 276,83 $ ont été engagés pour l’achat d’une imprimante;
+f) quant aux frais de fournitures déduits pour l’année 2003 :
+(i) 196,94 $ n’ont pas été engagés en vue de tirer un revenu d’un emploi;
+(iii) 8,44 $ n’ont pas été engagés, et, s’ils l’ont été, ce n’était pas en vue de tirer un revenu d’un emploi;
+(iv) 186,43 $ ont été engagés pour l’achat d’une imprimante;
+(v) 336,74 $ ont été engagés pour l’achat d’un routeur;
+(vi) 2 337,97 $ ont été engagés pour l’achat d’un ordinateur;
+g) les imprimantes, le routeur et l’ordinateur achetés correspondaient à des dépenses en capital.
+B. POINTS EN LITIGE
+12. La question est de savoir si l’appelant a droit à des déductions pour dépenses afférentes à un emploi supérieures aux montants admis par le ministre.
+C. DISPOSITIONS LÉGISLATIVES, MOYENS INVOQUÉS ET CONCLUSIONS RECHERCHÉES
+13. L’intimée s’est fondée sur les articles 3, 8 et 67.1 ainsi que le paragraphe 248(1) de la Loi modifiée pour les années d’imposition 2002 et 2003.
+14. L’intimée soutient que le ministre a eu raison de refuser les frais de stationnement de 1 605 $ pour chacune des années 2002 et 2003, car l’appelant n’a pas engagé ces frais pour se déplacer dans l’exercice des fonctions de son emploi. Les frais de stationnement ont été refusés à juste titre conformément à l’alinéa 8(1)h.1) et au paragraphe 8(2) de la Loi.
+15. L’intimée soutient également que le ministre a refusé à juste titre les frais de fournitures dépassant les montants de 880,31 $ pour 2002 et de 754,65 $ pour 2003 pour les raisons suivantes :
+a) les dépenses de 55 $ pour 2002 et de 8,44 $ pour 2003 n’ont pas été engagées;
+b) les dépenses de 207,83 $ pour 2002 et de 196,94 $ pour 2003 n’ont pas été engagées en vue de tirer un revenu d’un emploi;
+c) la dépense de 41,30 $ n’a pas été engagée par l’appelant au cours des années d’imposition 2002 ou 2003;
+d) les dépenses de 276,83 $ en 2002 et de 2 861,14 $ en 2003 étaient des dépenses en capital et elles ont été refusées à juste titre en vertu de l’alinéa 8(1)f) et du paragraphe 8(2) de la Loi.
+16. L’intimée soutient que le ministre a eu raison de refuser les dépenses engagées pour l’achat d’un ordinateur, d’imprimantes et d’un routeur étant donné que ces montants correspondaient à des dépenses en capital. L’intimée soutient également que l’alinéa 8(1)j) de la Loi limite la DPA dont les employés peuvent se prévaloir à la DPA pour véhicule à moteur et pour aéronef. Aucune disposition de l’article 8 de la Loi ne permet à un employé de demander la DPA pour des ordinateurs et du matériel informatique.
+[3] Les hypothèses 11a), b), c), e)(i), (ii) et (iii), et f)(i) et (ii) n’ont pas été réfutées par la preuve. Le témoignage de M. Emmons portait principalement sur le stationnement et sur l’imprimante, le routeur et l’ordinateur à l’égard desquels il a contesté la cotisation.
+[4] En ce qui concerne les frais de stationnement de 1 605 $ pour 2002 et 2003, M. Emmons a affirmé dans son témoignage qu’à partir du stationnement du bureau de son employeur situé à Saskatoon, il se rendait quotidiennement en voiture chez ses clients et à son bureau satellite qui se trouvait à 150 kilomètres de là, à Prince Albert en Saskatchewan. Ces déplacements, qui ne sont pas prévus, se font au besoin ou à la demande des clients. La Cour croit l’appelant. Les frais de stationnement payés sont donc nécessaires dans l’exercice des fonctions de l’appelant pour que celui‑ci puisse tirer un revenu de son emploi. Les frais en question sont déductibles, et, sur ce point, l’appel est accueilli.
+[5] La cotisation à l’égard de l’imprimante, du routeur et de l’ordinateur (hypothèses 11f)(iv), (v) et (vi)) est fondée sur la prémisse que ces éléments correspondent à des dépenses en capital. Lorsque la Cour a demandé à M. Emmons quelle était la vie utile de ces articles, celui‑ci a affirmé que leur vie utile était d’environ trois ans, après quoi ils n’ont plus aucune valeur et ne peuvent même pas être donnés lorsqu’ils sont remplacés par du matériel à jour. La technologie évolue, les fabricants raccourcissent délibérément la durée de vie utile du matériel informatique, ou encore le matériel cesse de fonctionner et sa vie utile prend fin. Dans ces circonstances, s’agit‑il de dépenses en capital?
+[6] Le sous‑alinéa 8(1)f)(v) de la Loi de l’impôt sur le revenu, dont le texte suit, énonce clairement que les dépenses en capital engagées par des employés ne sont pas déductibles :
+8(1) Éléments déductibles
+Sont déductibles dans le calcul du revenu d'un contribuable tiré, pour une année d'imposition, d'une charge ou d'un emploi ceux des éléments suivants qui se rapportent entièrement à cette source de revenus, ou la partie des éléments suivants qu'il est raisonnable de considérer comme s'y rapportant :
+[...]
+f) Dépenses de vendeurs
+lorsque le contribuable a été, au cours de l'année, employé pour remplir des fonctions liées à la vente de biens ou à la négociation de contrats pour son employeur, et lorsque, à la fois :
+[…] dans la mesure où ces sommes n'étaient pas :
+(v) des dépenses, des pertes ou des remplacements de capital ou des paiements au titre du capital, exception faite du cas prévu à l'alinéa j),
+[7] Avant le 22 mars 2004, le matériel informatique était inclus dans la catégorie 10, et la déduction maximale annuelle pour amortissement qui y était applicable correspondait à 30 % du coût, ce qui implique une période d’amortissement de 3,3 ans. Depuis le 22 mars 2004, le matériel informatique est inclus dans une nouvelle catégorie, soit la catégorie 45, et la déduction maximale annuelle pour amortissement qui y est applicable correspond à 45 % du coût, ce qui réduit la période d’amortissement à 2,2 ans. Le fait que le législateur applique au matériel informatique une telle déduction pour amortissement semble confirmer le court cycle de vie du matériel dont M. Emmons a fait état dans son témoignage. Il est clair que le législateur voulait que l’achat d’ordinateurs soit considéré comme une dépense en capital, et il a reconnu aux entreprises (mais non aux employés) le droit à une déduction pour amortissement raisonnable.
+[8] La Cour suprême du Canada a traité de la possibilité pour les employés à commission d’invoquer l’alinéa 8(1)f) pour obtenir une déduction pour amortissement dans l’arrêt Gifford v. MNR, 2004 DTC 6120. Après avoir traité de l’exclusion explicite du coût en capital dans le calcul du revenu des employés à commission, le juge Major a indiqué ce qui suit aux paragraphes 17 et 18 :
+[17] Le fait que, sous le régime de la Loi, les employés soient traités différemment des contribuables tirant un revenu d'une entreprise ou d'un bien n'a rien de nouveau ni d'équitable à première vue. […]
+[18] Si [le ou les paiements] [...] constituent des paiements « au titre du capital », l'appelant, en tant qu'employé, ne pourra déduire de son revenu aucune de ces dépenses. Par contre, s'il tirait un revenu de son entreprise et non de son emploi, il lui serait vraisemblablement permis de déduire ces deux paiements dans le calcul de son bénéfice pour l'année. Ce résultat à première vue inéquitable à l'égard de l'appelant s'explique par la structure de la Loi mais ne saurait modifier la qualification de ces paiements.
+L’extrait reproduit ci‑dessus donne à penser qu’il serait inexact de qualifier l’achat de matériel informatique de M. Emmons de dépense courante, si on le définit par ailleurs comme une dépense en capital engagée en vue de gagner un revenu. Pour ces motifs, cette partie de l’appel est rejetée.
+[9] L’affaire est déférée au ministre du Revenu national pour qu’il procède à un nouvel examen et à une nouvelle cotisation conformément à la décision de la Cour d’accueillir le présent appel sur le point dont il est question au paragraphe [4] des présents motifs de jugement.
+[10] Des dépens de 100 $ sont adjugés à l’appelant au titre des débours qu’il a engagés dans le cadre du présent appel.
+Signé à Saskatoon (Saskatchewan) ce 8e jour de mai 2006.
+« D.W. Beaubier »
+Juge Beaubier
+Traduction certifiée conforme
+ce 28e jour de juillet 2006.
+Jean David Robert, traducteur
+RÉFÉRENCE : CCI2006269
+Nº DU DOSSIER DE LA COUR : 2005‑3386(IT)I
+INTITULÉ : Ronald Emmons c. La Reine
+LIEU DE L’AUDIENCE : Saskatoon (Saskatchewan)
+DATE DE L’AUDIENCE : Le 27 avril 2006
+MOTIFS DU JUGEMENT : L’honorable juge D.W. Beaubier
+DATE DU JUGEMENT : Le 8 mai 2006
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocats de l’intimée :
+Mes Lyle Bouvier et Crystal Warde
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’imtimé : John H. Sims, c.r.
+Sous‑procureur général du Canada
+Ottawa, Canada

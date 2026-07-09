@@ -1,0 +1,142 @@
+---
+title: "Neault c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30706/index.do"
+last_modified: "2009-10-28"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 CCI 586"
+citation2: ""
+neutral_citation: "2009 CCI 586"
+decision_date: "2009-10-28"
+language: "fr"
+item_id: "30706"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7509
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T11:25:03.941000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "d9d4a74c16144a5df2747753f8ceda441c126d5c5d681c48d64a882becd8c6b0"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Neault c. La Reine
+
+- Citation: 2009 CCI 586
+- Decision date: 2009-10-28
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7509, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Neault c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2009-10-28
+Référence neutre
+2009 CCI 586
+Numéro de dossier
+2008-3856(IT)I
+Juges et Officiers taxateurs
+Patrick J. Boyle
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2008-3856(IT)I
+ENTRE :
+ROBERT P. NEAULT,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle]
+____________________________________________________________________
+Appel entendu le 28 octobre 2009, à North Bay (Ontario)
+Devant : L’honorable juge Patrick Boyle
+Comparutions :
+Pour l’appelant :
+L’appelant lui‑même
+Avocat de l’intimée :
+Me Pascal Tétrault
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’égard de la nouvelle cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2004 de l’appelant est rejeté.
+Signé à Ottawa, Canada, ce 13e jour de novembre 2009.
+« Patrick Boyle »
+Juge Boyle
+Traduction certifiée conforme
+ce 28e jour de décembre 2009.
+Jean-François Leclerc-Sirois, LL.B, M.A.Trad.Jur.
+Référence : 2009 CCI 586
+Date : 20091113
+Dossier : 2008-3856(IT)I
+ENTRE :
+ROBERT P. NEAULT,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle]
+MOTIFS DU JUGEMENT
+(Rendus oralement à l’audience le 28 octobre 2009, à North Bay (Ontario),
+puis modifiés par souci de clarté et d’exactitude.)
+Le juge Boyle
+[1] En 2004, M. Neault occupait un emploi comme conducteur de grand routier. En vertu des alinéas 8(1)g) et h) de la Loi de l’impôt sur le revenu (la « Loi »), dans certaines circonstances visées par la Loi, les conducteurs de grand routier peuvent déduire certaines sommes de leur revenu d’emploi à titre de frais de déplacement, notamment pour des repas.
+[2] Ces deux dispositions constituent certaines des exceptions faites à la restriction générale établie au paragraphe 8(2) de la Loi, selon lequel seuls les montants prévus par la Loi sont déductibles dans le calcul du revenu du contribuable. Il s’agit aussi d’exceptions à la règle générale voulant que les dépenses personnelles ne sont pas déductibles.
+[3] L’article 67.1 de la Loi prévoit que, pour l’application de la Loi, le montant payé pour des aliments et des boissons pris par des personnes est réputé correspondre à 50 % de la moins élevée de la somme réellement payée ou de la somme qu’il aurait été raisonnable de dépenser dans les circonstances. En raison de son libellé, cette limite de 50 % s’applique à tous les frais de repas, qu’ils soient déductibles à titre de dépenses d’entreprise ou de dépenses d’emploi.
+[4] Par mesure administrative, l’Agence du revenu du Canada (l’« ARC ») permet aux conducteurs de grand routier de calculer leurs frais de repas au moyen d’une méthode simplifiée, les libérant ainsi de l’obligation de tenir les carnets de route et de conserver les reçus de repas exigés pour la méthode détaillée. Pour 2004, M. Neault a choisi d’utiliser la méthode simplifiée. Il n’a pas conservé ses reçus de repas, et il n’a donc pas pu les produire auprès de l’ARC ou de la Cour.
+[5] Néanmoins, M. Neault était d’avis que la limite quotidienne de 45 $ pour les frais de repas fixée par l’ARC pour la méthode simplifiée était déraisonnablement basse. Ainsi, il a calculé sa déduction quotidienne en fonction d’une limite quotidienne plus élevée, laquelle, selon lui, correspondait à l’indemnité de repas quotidienne accordée aux fonctionnaires fédéraux. M. Neault n’a pas affirmé avoir dépensé au moins 45 $ par jour pour ses repas, et il n’avait pas les reçus qui lui auraient permis de le prouver.
+[6] Je ne peux pas accorder à M. Neault une déduction quotidienne supérieure à celle de 45 $ qui est fixée pour la méthode simplifiée, et sur laquelle l’ARC s’est fondée pour établir la nouvelle cotisation à son égard pour l’année d’imposition 2004. Si M. Neault voulait déduire plus de 45 $ par jour, il lui fallait utiliser la méthode détaillée qui est par ailleurs prévue par la législation fiscale, et qui exige de tenir des carnets de route et de conserver des reçus. Bien que les indemnités pour repas accordées par le Conseil du Trésor puissent donner à penser qu’un contribuable pourrait raisonnablement déduire plus de 45 $ par jour, je ne peux pas accueillir la demande de M. Neault s’il est incapable d’établir qu’il a bel et bien dépensé au-delà de 45 $ chaque jour, et que chacun de ces jours était admissible. M. Neault n’a pas su en faire la preuve.
+[7] M. Neault a aussi soutenu que la disposition de la Loi qui prévoit que seulement 50 % des frais de repas peuvent être déduits ne lui est pas applicable parce que ses frais de repas ne constituaient pas des dépenses d’entreprise. Comme je l’ai déjà dit, la législation fiscale adoptée par le législateur, que j’ai le devoir d’appliquer telle qu’elle est rédigée, ne s’applique pas seulement aux dépenses d’entreprise, mais aussi aux déductions demandées au titre de dépenses d’emploi.
+[8] M. Neault a aussi soutenu que le traitement différent des employés qui choisissent la méthode simplifiée et des fonctionnaires fédéraux viole le droit à l’égalité que lui garantit la Charte canadienne des droits et libertés (la « Charte »). Je suis convaincu que l’argument fondé sur la Charte n’a aucun bien-fondé. M. Neault n’a pas su identifier un groupe qui était à la fois victime de discrimination et défavorisé socialement, et il a été incapable d’identifier une pratique discriminatoire ou un désavantage qui déconsidère la dignité et l’intégrité des membres de ce groupe en tant qu’êtres humains. Le grief de M. Neault se résume simplement au fait que divers types d’employés sont traités différemment par la Loi selon leurs circonstances particulières et les choix qu’ils font. Cela est loin de constituer un motif de discrimination prohibé par la Charte.
+[9] M. Neault, compte tenu des circonstances, il me faut rejeter votre appel.
+Signé à Ottawa, Canada, ce 13e jour de novembre 2009.
+« Patrick Boyle »
+Juge Boyle
+Traduction certifiée conforme
+ce 28e jour de décembre 2009.
+Jean-François Leclerc-Sirois, LL.B, M.A.Trad.Jur.
+RÉFÉRENCE :
+2009 CCI 586
+No DU DOSSIER DE LA COUR :
+2008-3856(IT)I
+INTITULÉ :
+Robert P. Neault et Sa Majesté la Reine
+LIEU DE L’AUDIENCE :
+North Bay (Ontario)
+DATE DE L’AUDIENCE :
+Le 28 octobre 2009
+MOTIFS DU JUGEMENT :
+L’honorable juge Patrick Boyle
+DATE DU JUGEMENT :
+Le 13 novembre 2009
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Me Pascal Tétrault
+AVOCAT INSCRIT AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

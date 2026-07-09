@@ -1,0 +1,147 @@
+---
+title: "Podlesny v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26692/index.do"
+last_modified: "2005-02-03"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 CCI 97"
+citation2: ""
+neutral_citation: "2005 CCI 97"
+decision_date: "2005-02-03"
+language: "fr"
+item_id: "26692"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3438
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T23:17:21.112000+00:00"
+cases_cited_count: 1
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "19847a486fbc9970fd98eeceddbb4a2c662afcdddd5ff45ca0681f064a29432d"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Podlesny v. The Queen
+
+- Citation: 2005 CCI 97
+- Decision date: 2005-02-03
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3438, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Podlesny v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-02-03
+Référence neutre
+2005 CCI 97
+Numéro de dossier
+2004-2312(IT)I
+Juges et Officiers taxateurs
+Donald G.H. Bowman
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2004-2312(IT)I
+ENTRE :
+SLAWOMIR PODLESNY,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels entendus à London (Ontario), le 25 janvier 2005.
+Devant : L'honorable D.G.H. Bowman, juge en chef adjoint
+Comparutions :
+Représentant de l'appelant :
+M. Edward Sheehan
+Avocate de l'intimée :
+Me Geneviève Léveillé
+____________________________________________________________________
+JUGEMENT
+Il est ordonné que les appels des cotisations établies en vertu de la Loi de l'impôt sur le revenu pour les années d'imposition 2000 et 2001 soient admis et que les cotisations soient déférées au ministre du Revenu national pour nouvel examen et nouvelle cotisation selon les motifs de jugement ci-joints.
+Signé à Ottawa, Canada, ce 3e jour de février 2005.
+« D.G.H. Bowman »
+Juge Bowman
+Traduction certifiée conforme
+ce 1er jour de novembre 2005.
+Sara Tasset
+Référence : 2005CCI97
+Date : 20050203
+Dossier : 2004-2312(IT)I
+ENTRE :
+SLAWOMIR PODLESNY,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge en chef adjoint Bowman
+[1] Il s'agit d'appels de cotisations concernant les années d'imposition 2000 et 2001 de l'appelant, Ces années-là, l'appelant travaillait à l'hôpital général St. Thomas-Elgin comme physiothérapeute. Il faisait chaque jour la navette entre London et l'hôpital, où il travaillait pendant la journée. Les frais de déplacement engagés pour se rendre à ce lieu de travail ne sont pas en cause. Ces frais ne sont pas déductibles.
+[2] Le litige se rapporte à la mesure dans laquelle l'appelant a le droit de déduire le coût de deux voitures qu'il utilisait dans l'exercice de son emploi auprès de deux autres employeurs, Comcare (Canada) Limited et Para-Med Health Services. Ces deux compagnies fournissaient des soins à domicile. L'appelant se spécialisait, en sa qualité de physiothérapeute, dans le soin de personnes qui étaient atteintes de bronchopneumopathie chronique obstructive.
+[3] Au cours de chacune des deux années ici en cause, l'appelant a visité de 1100 à 1200 patients. Il avait normalement l'habitude de visiter ses patients le matin avant d'aller travailler à l'hôpital ou le soir, après le travail. Un peu moins de la moitié du revenu passablement élevé de l'appelant provenait de l'emploi lié aux soins qu'il fournissait à domicile.
+[4] Au cours de chacune des deux années, l'appelant possédait trois voitures. En l'an 2000, il possédait une Volkswagen Passat, une Honda Accord et une GMC Sierra. Selon la preuve, qui n'a pas été contredite, l'appelant a utilisé la GMC et la Honda pendant toute l'année 2000 afin de visiter ses patients, alors qu'il utilisait la Volkswagen à des fins personnelles. La GMC avait été achetée au mois de novembre 1999 et l'appelant a commencé à l'utiliser pour aller visiter ses patients le 2 janvier 2000. Il en a été de même en 2001. L'appelant a acheté une Subaru Forester au mois de novembre 2000 et a commencé à l'utiliser le 2 janvier 2001 pour aller visiter des patients. Pendant toute l'année 2001, l'appelant a utilisé la GMC et la Subaru afin de visiter des patients et il a utilisé la Honda à des fins personnelles.
+[5] L'appelant consignait méticuleusement par écrit ses déplacements lorsqu'il visitait des patients, en indiquant le nom des patients, leur adresse et le nombre de kilomètres parcourus ainsi que la voiture qu'il utilisait.
+[6] Au début de l'instruction, l'avocate a présenté une requête en vue de faire modifier la réponse à l'avis d'appel, de façon qu'il y soit fait mention de l'article 67 et de l'alinéa 13(7)b) de la Loi de l'impôt sur le revenu. J'ai autorisé la modification pour ce qui est de l'alinéa 13(7)b) parce qu'il était reconnu que cette disposition constituait le fondement de la partie des cotisations par laquelle le ministre a supposé que la GMC et la Subaru étaient réputées avoir été acquises en 2000 et en 2001 respectivement. Toutefois, je n'ai pas autorisé la modification relative à l'article 67 parce que je ne savais pas que le rejet de certains montants au titre de la déduction pour amortissement (la « DPA » ) était expressément fondé sur l'opinion selon laquelle il était déraisonnable pour l'appelant d'utiliser deux voitures exclusivement afin de visiter des patients et que j'estimais qu'il était plutôt tard pour mettre un plaideur qui n'était pas représenté par un avocat en présence d'un nouvel argument, un argument important. Toutefois, il est devenu évident, compte tenu de la preuve présentée par le répartiteur, M. Okonski, et du contre-interrogatoire de celui-ci, que l'appelant n'avait pas été autorisé à déduire, dans une proportion de 97 p. 100, la DPA applicable aux deux voitures à cause de la question du caractère raisonnable. De fait, dans une lettre que l'Agence des douanes et du revenu du Canada a envoyée à l'appelant le 8 septembre 2003, il est expressément fait mention de la notion de caractère raisonnable comme motif pour lequel une DPA de 50 p. 100 avait été admise pour chaque véhicule. Le représentant de M. Podlesny et l'avocate de l'intimée ont donc pleinement débattu le point.
+[7] Les documents tenus par M. Podlesny établissaient qu'au cours de chacune des deux années, la distance totale parcourue par chacune des deux voitures (la GMC et la Honda en 2000 et la GMC et la Subaru en 2001) se rapportait, dans une proportion de 97 p. 100, aux visites effectuées chez des patients, De fait, l'ADRC semble avoir été convaincue de la chose; en effet, certaines hypothèses plaidées dans la réponse étaient les suivantes :
+[traduction]
+11. En établissant une nouvelle cotisation pour les années d'imposition 2000 et 2001, le ministre a supposé les faits ci-après énoncés :
+[...]
+d) pendant la période pertinente, l'appelant possédait trois véhicules et il utilisait deux de ces véhicules pour affaires;
+e) au cours de l'année d'imposition 2000, l'appelant possédait une VW Passat, une GMC Sierra et une Honda Accord 1998, et il utilisait la GMC Sierra et la Honda Accord pour affaires;
+f) au cours de l'année d'imposition 2001, l'appelant possédait une Honda Accord, une GMC Sierra et une Subaru Forester, et il utilisait la GMC Sierra et la Subaru Forester pour affaires;
+g) au cours des années d'imposition 2000 et 2001, les véhicules de l'appelant étaient utilisés dans une proportion de 97 p. 100 pour affaires;
+[8] Compte tenu de ces aveux, il m'est difficile de voir comment je peux tirer une conclusion défavorable à l'appelant sur certains des points en litige. Il faut examiner les questions suivantes :
+a) Y a-t-il eu un changement d'utilisation, en 2000, à l'égard de la GMC, et en 2001, à l'égard de la Subaru, lequel aurait donné lieu à l'acquisition réputée de ces véhicules en 2000 et en 2001 respectivement?
+b) L'appelant a-t-il le droit d'utiliser deux voitures pour visiter ses patients, de façon que ses dépenses et la DPA pour les deux voitures puissent être déduites dans une proportion de 97 p. 100?
+[9] En établissant la cotisation, le ministre a admis le plein montant qui avait été déduit pour l'essence à l'égard des deux véhicules utilisés ces années-là au titre de dépenses liées à l'emploi. En 2000, le ministre a admis un montant de 3 291 $ pour la GMC et la Honda et un montant de 3 220 $ pour la GMC et la Subaru. De même, il a admis le plein montant qui avait été déduit pour l'entretien des voitures au titre des dépenses liées à un emploi. Ce montant s'élevait à 883 $ en 2000 pour la GMC et la Honda et à 4 468 $ pour la GMC et la Subaru. De plus, le ministre a admis le plein montant qui avait été déduit pour le lavage des voitures - 99 $ en 2000 pour la GMC et la Honda et 220 $ en 2001 pour la GMC et la Subaru.
+[10] Toutefois, c'est ici qu'il y a divergences de vues entre le contribuable et l'ADRC. En effet, l'ADRC a admis un montant de 1 134 $ à l'égard de la Honda en 2000 pour l'assurance, un montant de 75 $ à l'égard de la Honda pour l'immatriculation et un montant de 1 531 $ pour les intérêts sur la Honda. L'ADRC n'a admis aucune partie des montants qui avaient été déduits en l'an 2000 à l'égard de la GMC pour l'assurance, l'immatriculation et les intérêts (771 $, 75 $ et 505 $ respectivement). De même, pour l'année 2001, l'ADRC a admis un montant de 1 488 $, de 75 $ et de 1 156 $ à l'égard de la Subaru pour l'assurance, pour l'immatriculation et pour les intérêts, mais elle n'a admis aucun des montants qui avaient été déduits à l'égard de la GMC pour ces éléments (1 245 $, 75 $ et 364 $).
+[11] Le ministre a complètement refusé les montants déduits à l'égard de la GMC, mais il a admis moins de 50 p. 100 de la DPA totale qui avait été déduite à l'égard des deux voitures. Les montants déduits en 2000 s'élevaient à 9 315 $ et à 5 321 $ à l'égard de la GMC et de la Honda respectivement, soit un montant de 14 636 $ en tout, et en 2001, les montants en cause étaient de 6 520 $ et de 10 350 $ à l'égard de la GMC et de la Subaru respectivement, soit un montant de 16 870 $ en tout. Les montants que le ministre a admis au titre de la DPA pour l'année 2000 étaient de 4 658 $ et de 5 321 $ à l'égard de la GMC et de la Honda respectivement, soit un montant de 4 990 $ en tout, et pour l'année 2001, les montants en cause s'élevaient à 7 918 $ et à 5 175 $ à l'égard de la GMC et de la Subaru respectivement, soit un montant de 6 547 $ en tout.
+[12] La différence entre le montant déduit au titre de la DPA et le montant admis ne constitue pas simplement une réduction de 50 p. 100 du montant déduit. La question est un peu plus complexe. Premièrement, le ministre a supposé une acquisition réputée de la GMC en 2000 et de la Subaru en 2001, soit l'année suivant celle au cours de laquelle chacune de ces voitures avait été acquise. Selon cette thèse, les véhicules avaient été acquis, en vertu de l'alinéa 13(7)b), à des fins personnelles en 1999 et en 2000 respectivement et ils avaient commencé à être utilisés en 2000 et en 2001 en vue de gagner un revenu. Deuxièmement, sur la base de l'acquisition réputée en 2000 et en 2001 respectivement, le ministre a appliqué la règle de la demi-année énoncée au paragraphe 1100(2) du Règlement de l'impôt sur le revenu (le « Règlement » ), qui autorise le contribuable à déduire, dans l'année de l'acquisition, 50 p. 100 seulement de la DPA qu'il aurait par ailleurs le droit de déduire. Troisièmement, le ministre a appliqué la restriction relative au montant qui peut être utilisé pour des voitures coûtant plus de 20 000 $. Le plafond, en vertu de l'article 7307 du Règlement, était de 26 000 $ en 1999, de 27 000 $ en 2000 et de 30 000 $ en 2001.
+[13] En résumé, le ministre reconnaît que les deux voitures étaient utilisées dans une proportion de 97 p. 100 pour « affaires » (ou strictement parlant, pour l'emploi). Il a admis tous les frais engagés pour l'essence, pour l'entretien et pour le lavage qui avaient été déduits pour les deux voitures, mais il a uniquement admis les frais liés à l'assurance, à l'immatriculation et aux intérêts à l'égard d'un des deux véhicules et une partie de la DPA qui avait été déduite à l'égard des deux voitures. Selon la preuve, qui n'a pas été contredite, l'appelant utilisait de fait les deux voitures presque exclusivement (dans une proportion de 97 p. 100) afin d'aller visiter ses patients à domicile et il ne les utilisait pas à des fins personnelles (comme pour aller travailler à l'hôpital général St. Thomas-Elgin). De fait, l'appelant a témoigné qu'il rapportait sa voiture de d' « affaires » à la maison après s'être rendu chez les patients et qu'il la laissait là et prenait alors sa voiture personnelle pour aller travailler. Cela me semble plutôt surprenant, mais rien ne me permet de rejeter cette preuve.
+[14] Le représentant de l'appelant a soutenu que les mesures que le ministre avait prises en établissant les cotisations étaient incohérentes en ce sens que le ministre avait admis certains frais à l'égard des deux véhicules et certains frais seulement à l'égard d'un seul véhicule. À première vue, il peut sembler en être ainsi. Néanmoins, les incohérences, dans l'établissement d'une cotisation, justifient rarement la modification de la cotisation. Il s'agit de savoir si la cotisation est exacte ou erronée, et non de savoir si certains de ses éléments constitutifs sont incohérents.
+[15] Il y a également la question du caractère raisonnable qui n'a pas été plaidée, mais qui semble avoir constitué une considération importante lorsqu'il s'est agi d'établir les cotisations. Il est selon moi évident que M. Podlesny a été plutôt audacieux en déduisant le coût de deux voitures dans le calcul de son revenu d'emploi. Il est également évident qu'il aimait les voitures. Toutefois, ce choix ne relève que de lui. Il ne m'appartient pas et il n'appartient pas au ministre de réexaminer son jugement sur le plan des affaires et de dire qu'il ne peut pas utiliser deux voitures pour les besoins d'une entreprise même s'il pouvait se contenter d'une seule voiture, et d'une voiture moins coûteuse. Le travail de l'appelant est important et parfois urgent. La décision qu'il a prise d'avoir deux voitures en bon état n'est pas manifestement absurde au point de me permettre de l'écarter pour le motif qu'il s'agit d'une décision irrationnelle ou arbitraire. (Voir, par exemple, Gabco Ltd. v. M.N.R., [1968] DTC 5210). Si j'agissais ainsi, cela m'obligerait à substituer mon jugement, sur le plan des affaires, à celui du contribuable; or, il ne s'agit pas de quelque chose que je puis à bon droit faire ou que je suis prêt à faire. En outre, j'usurperais dans une certaine mesure le rôle du législateur. Si le législateur veut qu'il soit uniquement permis d'utiliser une seule voiture pour les besoins d'une entreprise, il sait comment le faire, de la même façon qu'il a imposé un plafond quant au montant de la DPA qui peut être déduit à l'égard d'une voiture de luxe. Je ne crois pas que la Cour puisse, en invoquant le « caractère raisonnable » , substituer son jugement à celui du contribuable. C'est dans une certaine mesure ce que le juge Tremblay a fait dans la décision Beauchemin v. M.N.R., 77 DTC 26, où un médecin avait déduit les frais liés à l'utilisation de deux voitures pour les besoins de l'entreprise. À la page 4, voici ce que le juge Tremblay a dit :
+4.1 Deux automobiles en 1972
+Un des principaux arguments de l'intimé est que les dépenses, pour être admises, doivent être raisonnables, le tout conformément aux articles 12(2) de la Loi de l'impôt sur le revenu, S.R.C. 1952, chap. 148, telle que modifiée, et 67 de la Loi de l'impôt sur le revenu, S.C. 1970-71-72, chap. 63, telle que modifiée.
+Or, réclamer la dépréciation et les dépenses pour deux automobiles dans la même année est déraisonnable selon l'intimé, spécialement si l'un des véhicules est une Porsche et l'autre une jeep Blazer.
+L'avocat de l'intimé a cité une longue jurisprudence : G. H. Chambers (Northiam Farms) Ltd. c. Watmough (H.M. Inspector of Taxes), 36 T.C. 711; Niessen c. le ministre du Revenu national, 60 DTC 489, (1960) Tax A.B.C. 62; No 485 c. le ministre du Revenu national, 58 DTC 69, (1958) Tax A.B.C. 358; Zakoor c. le ministre du Revenu national, 64 DTC 392, (1964) Tax A.B.C. 338; W. J. Kent and Co. Ltd. c. le ministre du Revenu national, 72 DTC 1018, (1971) Tax A.B.C. 1158.
+Cette jurisprudence est à l'effet que les dépenses réclamées pour des automobiles considérées comme luxueuses (Bentley, Cadillac, Rolls-Royce) étaient des dépenses non raisonnables. Les contribuables, en effet, n'avaient pas fait la preuve de la nécessité d'une voiture considérée comme de luxe pour les besoins de leur entreprise.
+Dans le présent cas, suite à la preuve faite, la Commission est d'avis d'abord que l'utilisation d'une voiture spéciale et appropriée pour l'hiver, soit la jeep Blazer, est justifiée. Les besoins urgents des services médicaux, en effet, et ce très souvent et presque particulièrement dans les cas où la tempête fait rage, justifient cette dépense.
+Pour la période autre que celle de l'hiver, il en découle qu'une autre voiture est également requise. La Commission ne croit pas, cependant, à la nécessité d'une voiture de la valeur d'une Porsche. L'argument de l'appelant à l'effet que l'achat d'une voiture dotée d'un certain prestige ne peut que favoriser l'augmentation de la clientèle ne convainc pas la Commission comme il n'a pas convaincu antérieurement les Cours. La Commission accorde donc à cette autre voiture la moitié du coût de la Porsche, soit 5 627 $. L'achat d'une voiture de ce coût en 1972 eut été raisonnable pour les besoins professionnels en cause.
+De même, le président Flanigan, de la Commission de révision de l'impôt, a dit ce qui suit dans la décision Raz v. M.N.R., 74 DTC 1136, aux paragraphes 9 et 10 :
+Il semble donc clair et évident que Zoltan Raz a acquis son Oldsmobile en 1968 afin de remplacer la Princess. Depuis l'achat de cette voiture, il n'y a pas de preuve que la Princess ait jamais été utilisée lorsque l'Oldsmobile était en panne et qu'il ne pouvait en faire usage. Dès lors, se servir de l'une ou l'autre de ces voitures a été une question de choix pour Zoltan.
+À mon avis, cette situation ne donne pas le droit à un contribuable qui exploite une entreprise d'utiliser plus d'une voiture pour obtenir des revenus. Je crois que l'appelant a le droit de réclamer une déduction pour amortissement selon le mode établi par le Ministre, soit en ajoutant l'Oldsmobile à la catégorie pour l'année 1968 et en retirant la Princess de cette catégorie depuis ce moment, étant donné qu'elle n'était plus utilisée pour affaires.
+[16] Le règlement de la question du caractère raisonnable ne permet pas pour autant de rendre une décision arbitraire. Dans la décision 2831422 Canada Inc. et al v. The Queen, 2002 DTC 3930, les observations suivantes ont été faites :
+[8] [...]Ce qui est raisonnable est toujours une question de fait, de jugement et de logique. Dans l'ouvrage Wordsand Phrases Legally Defined, huit pages de deux colonnes traitent des mots raisonnable ou raisonnablement. Toutefois, à ma connaissance, aucun tribunal n'a jamais eu l'audace de tenter de formuler une définition complète et détaillée de ce mot, chose que je ne tenterai pas de faire en l'espèce. Toute tentative de définition se solde habituellement par l'utilisation du mot lui-même. On dit qu'il sous-entend l'application d'un critère objectif, mais il s'agit d'un mot d'une telle fluidité et d'une telle élasticité qu'un juge doit se garder de laisser un élément de subjectivité se glisser dans ses conclusions. Ce qui peut sembler raisonnable pour un juge peut ne pas l'être pour un autre. Lorsqu'on tente de définir l'expression « personne raisonnable » , l'on se reporte habituellement à l'hypothétique « homme moyen » . On peut se poser la question suivante : « Qu'est-ce qu'un observateur impartial possédant une intelligence un peu supérieure à la moyenne, qui aurait connaissance de tous les faits pertinents et qui n'aurait pas d'idées reçues, de parti pris ni d'intentions cachées considérerait comme étant raisonnable? » Bref, nous tirons une ligne entre ce qui est raisonnable et ce qui est déraisonnable là où le bon sens le dicte.
+[17] Même si la question du caractère raisonnable avait été plaidée, je ne serais pas prêt à maintenir la mesure que le ministre a prise en admettant certains frais à l'égard d'une voiture seulement ou en admettant la DPA à l'égard des deux voitures, mais en la limitant à ce qui est essentiellement le montant total qui pouvait être déduit à l'égard d'une voiture. Ce genre d'approche rudimentaire peut avoir à première vue un certain attrait, mais elle n'est tout simplement pas conforme à une application pondérée de la règle du caractère raisonnable. Il s'agit d'une approche arbitraire. Une fois qu'il est reconnu que les deux voitures sont utilisées pour « affaires » dans une proportion de 97 p. 100, le ministre ne peut tout simplement pas ramener le montant admis à un montant qu'il juge plus acceptable.
+[18] Je me propose de régler ces appels comme suit :
+(1) Je conclus qu'en 2001, il y a eu changement d'utilisation de la Subaru, qui a cessé d'être utilisée à des fins personnelles pour être utilisée aux fins de l'exploitation d'une entreprise, l'acquisition étant réputée avoir eu lieu cette année-là. Par conséquent, la règle de la demi-année s'applique également comme plafond prescrit à l'égard du coût applicable à une acquisition en 2001. Je tire cette conclusion compte tenu du fait que M. Podlesny a admis, dans une lettre en date du 27 janvier 2003, (pièce R-7), que la Subaru était devenue sa voiture personnelle pour le reste de l'année 2000;
+(2) La preuve ne permet pas de tirer la même conclusion pour la GMC. Je conclus que la GMC a été acquise en 1999 en vue de gagner un revenu et qu'il n'y a pas eu de changement d'utilisation en 2000. Par conséquent, cette voiture a été acquise à son coût réel en 1999 et la règle de la demi-année s'applique à l'année 1999 même si aucune DPA n'a été déduite cette année-là, et cette règle ne s'applique pas à l'année 2000. Cette conclusion voudrait normalement dire que le coût en capital réputé prescrit en vertu de l'alinéa 13(7)b) serait le chiffre qui s'applique à l'année 1999. Toutefois, puisque le ministre a utilisé un montant de 27 000 $ pour l'année 2000, je ne puis déférer l'affaire pour que l'on arrive à un résultat moins favorable que celui que le ministre a accordé au contribuable;
+(3) L'appelant a le droit de déduire la DPA à l'égard de la GMC et de la Honda en 2000 et à l'égard de la GMC et de la Subaru en 2001 dans la mesure autorisée par la Loi de l'impôt sur le revenu et son règlement d'application sans qu'aucune réduction ne soit faite pour le motif que l'appelant a droit à une DPA uniquement sur l'équivalent d'une voiture;
+(4) L'appelant a le droit de déduire les frais liés à l'assurance, à l'immatriculation et aux intérêts à l'égard de la GMC en 2000 et en 2001.
+[19] L'appelant a droit à ses dépens, le cas échéant, conformément au tarif.
+Signé à Ottawa, Canada, ce 3e jour de février 2005.
+« D.G.H. Bowman »
+Juge Bowman
+Traduction certifiée conforme
+ce 1er jour de novembre 2005.
+Sara Tasset

@@ -1,0 +1,231 @@
+Title: Black v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28095/index.do
+Corpus path: corpus/cases/tcc/2007/2007-tcc-676-28095-black-v-the-queen-en.md
+Document type: case_law
+Last modified: 2007-09-17
+
+# Black v. The Queen
+
+- Citation: 2007 TCC 676
+- Decision date: 2007-09-17
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1680, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Black v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-09-17
+Neutral citation
+2007 TCC 676
+File numbers
+2001-4345(IT)G
+Judges and Taxing Officers
+Eugene P. Rossiter
+Subjects
+Income Tax Act
+Decision Content
+Citation: 2007TCC676
+Date: 20071107
+Docket: 2001-4345(IT)G
+BETWEEN:
+DAVID BLACK,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on September 17 and 18, 2007 and Reasons for Judgment
+delivered orally from the bench on September 19, 2007,
+in Fredericton, New Brunswick
+and edited from the transcript on November 7, 2007
+REASONS FOR JUDGMENT
+Rossiter, J.
+Introduction/Background
+[1] This matter is the result of an arbitrary net worth assessment by the Respondent against the Appellant for the 1995 to 1998 income tax years since the Appellant failed to file income tax returns for 1995 and 1996 and failed to respond appropriately, if at all, to requests and inquiries from the Respondent for documentation and information to establish his income for the years in question.
+[2] The Respondent via net worth assessments has attributed to the Appellant's income as follows:
+1995 - $61,514.78 With no income reported by the Appellant
+1996 - $168,634.58 With no income reported by the Appellant
+1997 - $224,174.10 With $10,041 income reported by the Appellant
+1998 - $53,095.33 With $16,632 income reported by the Appellant
+[3] I just had the response to my inquiry of the Respondent with respect to the income reported by the Appellant for 1997 and 1998, and I believe they now want to change the income allegedly reported by the Appellant for 1997 from $10,041 (as schedule "C" to the Reply), and quite correctly so, to a sum of $14,400, and with respect to 1998, from the sum of $16,632 to the sum of $19,333.82 (as shown in Exhibits R-2 and R-1 for 1997 and 1998 respectively).
+[4] The Appellant appealed the various assessments or reassessments by the Notice of Appeal dated December 4, 2001 with the Respondent replying by Notice of Reply on February 1st, 2002.
+[5] The Appellant has had three legal counsel represent him in this matter. Initially counsel from Miramichi, followed by counsel from Thorsteinssons in Vancouver, and finally by counsel in Fredericton, New Brunswick, who represented the Appellant as recently as April of 1996.
+[6] This matter has gone on for years with three (3) status hearings, seven (7) court orders in relation to procedures, and two (2) show cause hearings.
+[7] The Appellant had nine (9) months notice of the date of this hearing, yet sought to adjournment to retain counsel when the hearing commenced, which motion was denied for the reasons already given on the record.
+Issues
+[8] As agreed to by the parties at the beginning of the hearing, there are basically three (3) issues:
+1. What was the Appellant's total income, if any, for the 1995 and 1996 income tax years;
+2. Did the Respondent's assessment of income of the Appellant for 1997 and 1998 properly state the Appellant's income for those years?
+3. Did the Minister appropriately assess a Gross Negligence Penalty to the Appellant for 1997 and 1998?
+Facts
+[9] The Appellant's Notice of Appeal lays out certain assertions of fact and the Respondent's reply in paragraph 10 lays out the assumptions of fact relied upon by the Respondent.
+[10] I will not review these in detail here, other than to provide a thumbnail sketch of the factual background:
+1. The Appellant did not file a 1995 or 1996 income tax return;
+2. The Appellant did file a 1997 and 1998 income tax return for income of $14,400 and $19,333 respectively. The $14,400 for 1997 is all employment income, and the $19,333 for 1998 was made up of $3,226 employment income and $16,107 in employment insurance benefits;
+3. The Appellant is alleged to have acquired a number of assets over the relevant years, either directly or through others, including real estate, motor vehicle, motorcycles and snowmobiles as well as cash, which were well in excess of his visible or alleged actual earnings;
+4. The Appellant is alleged to have carried out these acquisitions by himself or through others, including family members, when in fact he was the beneficial owner of the assets;
+The assets included the following:
+Real estate located at Highway number 11, Lower Newcastle, New Brunswick;
+A 1997 Ford F-150 Truck;
+A 1996 snowmobile Yamaha;
+A 1996 Z-28 Camaro motor vehicle;
+A 1997 Harley Davidson motorcycle;
+Real estate located at Russellville Road in a numbered company;
+Money in a joint bank account with his mother;
+Money in a bank account in 502625 N.B. Ltd.
+There may have been another bank account.
+Law
+[11] Now, what is the law? The law in this matter has been fairly clear for quite some time. Net worth assessments are performed by Revenue Canada where there is a concern that a taxpayer's reported income does not reflect the reality of his or her situation.
+[12] The basic principle according to Vern Krishna, the Fundamentals of Canadian Income Tax Law, Carswell's edition, Toronto, 2002, at page 152 states as follows:
+"Income is equal to the difference between a taxpayer's wealth at the beginning and at the end of the year, plus any amount consumed by the taxpayer during the year."
+[13] This method of calculation is very basic and does not take into account any monies borrowed by the taxpayer, which would have a diminishing effect on net worth established by CRA.
+[14] Now subsection 152(7) of the Income Tax Act states as follows:
+"Assessed not dependent on return or information: The Minister is not bound by a return or information supplied by or on behalf of a taxpayer and, in making an assessment, may, notwithstanding a return or information so supplied, or if no return has been filed, assess the tax payable under this Part."
+[15] Section 152(8) of the Income Tax Act states as follows:
+"Assessment deemed valid and binding: An assessment shall, subject to being varied or vacated on an objection or appealed under this Part and subject to a reassessment, be deemed to be valid and binding notwithstanding any error, defect or omission in the assessment or in any proceeding under this Act relating thereto."
+[16] The burden of proof regarding a net worth assessment based upon the assumptions made by the Minister is with the taxpayer, to establish that the factual findings upon which the Minister based the assessment were wrong. This is a fundamental principle with respect to net worth assessments as noted by Peter Hogg in Principles of Canadian Income Tax Law, Carswell, 2002, page 546.
+[17] The adage that the taxpayer knows best the facts relating to a situation is especially true in situations of net worth assessment.
+[18] The degree of proof required for the rebuttal of the ministerial presumptions need only be of prima facie. He must show that the impeached assessment is an assessment which ought not to have been made, that is to say, he must establish facts upon which it can be affirmatively asserted that the assessment was not authorized by the taxing statute or which brings the matter into such a state of doubt that, on the principles alluded to, tax principles, the liability of the Appellant must be negated.
+[19] The true facts may be established of course by direct evidence or probable inference. The Appellant may adduce facts constituting a prima facie case which remains unanswered, but in considering whether this has been done, it is important not to forget, if it be so, that the facts are, in a special degree if not exclusively, within the Appellant's own cognizance.
+[20] Where the taxpayer has no knowledge of facts upon which the CRA relied in assessing on a net worth basis, the Crown must prove them. As well, the Minister may be called upon to prove that the audit was also performed correctly. The Respondent's counsel referred to a case on that particular point.
+[21] Even if the Minister is free to choose the method of arbitrary assessments such as net worth assessments, he is nonetheless obliged to disclose the basis of the formulation used. Given that the net worth assessment is based on "the best evidence available", and absent evidence from the taxpayer that the assessment is incorrect, the latter will be "valid and binding".
+[22] The Respondent referred to a couple of authorities. One is HSU v. R., a decision of the Federal Court of Appeal from July 24, 2001. That case is particularly instructive, and I am bound by precedence to follow this particular case. At paragraph 23, the Federal Court of Appeal stated as follows:
+"Subsection 152(8) grants a presumption of validity to these assessments and places the initial onus upon a taxpayer to disprove the state of affairs assumed by the Minister. Notwithstanding the fact that such an assessment is arbitrary, the Minister is obliged to disclose the precise basis upon which it has been formulated, otherwise the taxpayer will be unable to discharge his or her initial onus of demolishing the "exact assumptions made by the Minister" but no more.
+[23] Subsection 152(7) of the Act does not establish a specific method for determining the tax payable by a taxpayer. In most cases, the Minister follows the "net worth method". The Taxpayers Operations Manual prepared by National Revenue describes the net worth method as follows:
+[The use of a net worth approach to major income is based on the premise that a client's income for a period is the increase in the client's net worth (financial position) between the beginning and the end of a particular period. A client's net worth is the excess of his total assets, business and personal, over his total liabilities, business and personal, at a specific date.]
+[24] Simply put, the amount by which the taxpayer's net worth increases over a particular period is imputed to the taxpayer as income."
+[23] At paragraph 31, the Federal Court of Appeal stated in part as follows:
+"By its very nature, a net worth assessment is an arbitrary and imprecise approximation of a taxpayer's income. Any perceived unfairness relating to this type of assessment is resolved by recognizing that the taxpayer is in the best position to know his or her own taxable income. Where the factual basis of the Minister's estimation is inaccurate, it should be a simple matter for the taxpayer to correct the Minister's error to the satisfaction of the Court."
+[24] Paragraphs 34, 35 and 36 read as follows:
+I would add that it was open to the Tax Court judge to conclude the Minister's method for determining the Appellant's income was reasonable and logical in the circumstances of this case. Although the Minister's reassessments were clearly arbitrary, it cannot be forgotten that this approach was the direct result of the Appellant's refusal to disclose any financial information or documentation.
+As the Tax Court judge observed, the Appellant has done nothing to ensure a full, complete and correct audit. The Appellant has consistently failed to provide any evidence which would prove his actual income during the period in question. Accordingly, he cannot complain that the Minister has proceeded on the basis of speculative assumptions. Given that the burden of disproving the reassessments lay squarely with the Appellant, it is necessary to consider whether the Appellant successfully discharged that onus."
+[25] Now I went on at length in quoting that particular case and the reason I went on at length in quoting that particular case is because it is particularly applicable in this particular case, in particular at paragraph 35:
+As the Tax Court judge observed, the Appellant has done nothing to ensure a full, complete and correct audit. The Appellant has consistently failed to provide any evidence which would prove his actual income during the period in question. Accordingly, he cannot complain that the Minister has proceeded on the basis of speculative assumptions.
+[26] It appears to me from the evidence that notwithstanding the efforts of the Respondent, the Appellant has done nothing to ensure a full and complete and correct audit. He appears to have pretty well consistently failed to provide sufficient evidence, and in some circumstances no evidence, which could independently prove his actual income during the periods in question. He cannot really complain that the Minister has proceeded on the basis of speculative assumptions.
+[27] Why the Appellant would ignore the requests for information and documentation from CRA to support his position is beyond comprehension. He is only hurting himself and putting a greater burden upon himself as the case goes on.
+[28] Now it is at the Tax Court of Canada, the burden of disproving the assessments and reassessments lay squarely with the Appellant. It is necessary to consider whether the Appellant successfully discharged that onus.
+[29] The Appellant can satisfy that burden in three (3) ways:
+1. In the HSU case at paragraph 36, the Federal Court of Appeal pointed out he can challenge the Minister's allegations that he did assume those facts. That did not occur here.
+2. He can assume the onus of showing that one or more of the assumptions were incorrect. That is the position taken by the Appellant.
+3. Or he can contend that even if the assumptions were justified, they do not of themselves support the assessment. That is not the position taken by the Appellant.
+Here, the Appellant has tried to discharge the burden using method number two (2), assuming that the onus of showing that one or more of the assumptions were wrong.
+[30] Now in a case of this nature, credibility is always an issue. The Federal Court of Appeal has confirmed as recently in the 2006 case of Berube v.Her Majesty the Queen, [2006] DTC 6354, that the Tax Court judge is correct in assessing the taxpayer's credibility when the latter introduces his or her own facts in attempt to prove the Minister erred in the assessment.
+[31] In assessing the credibility of the Appellant, I look to a variety of factors.
+Number one (1), I look to his demeanour and presentation on the witness stand.
+Number two (2), I look to the sureness with which he presents his evidence.
+Number three (3), his organization and preparation of his case and evidence, recognizing that he was without legal counsel.
+Number four (4), whether there is corroboration either in viva voce evidence or documentary evidence to substantiate his case and his position.
+Number five (5), whether there is any conflict of this evidence, either by his own direct evidence or other information before the Court.
+Number six (6), how he stands up to and responds to cross-examination.
+Number seven (7), whether his story has a ring of truth or is a manifest of his imagination.
+Number eight (8), whether the best evidence available has been produced.
+Number nine (9), the reasonableness and the practicality of the explanation offered as to the course of conduct, and finally how important facts come out, whether through his own volition or through cross-examination.
+[32] Now these are only a few factors that I can consider in determining the credibility of a particular witness. There may very well be others that I may have overlooked, but that will certainly come into play.
+[33] In dealing with the credibility of the Appellant, I can state quite candidly I did not find the Appellant as a particularly credible witness.
+[34] His demeanour and presentation was not up to stock. I found him somewhat avoiding in some ways and unsure in others. His presentation of his evidence, his organization and preparation of the case was absolutely abysmal.
+[35] He had nine (9) months to prepare his case. He had three (3) competent legal counsel for a number of years, complained about the amounts of money he paid to them and his preparation was nothing short of absolutely terrible.
+[36] We had to give an adjournment to even photocopy the cases and for him to organize his papers and review them with the Crown.
+[37] As to corroboration, there was very little corroboration. There was some corroboration with respect to a couple of allegations, and I will deal with those specifically, but as to others, there was substantially no corroboration that was really admissible or documentation for which I could attribute very much weight. There were some conflicts in the evidence, I will review those later, some contradictions.
+[38] I felt that he stood fairly well in cross-examination, although it was unfortunate he only revealed certain facts which were important in cross‑examination and not of his own volition, i.e., he was the one that ordered the Z-28 Camaro, and he ordered it when he was out of province, i.e. the hydro bill for the Newcastle property was in his name. These were important facts.Also the fact that he got $150,000 from his father in cash and not one cent as shown went into any of the acquisition of these assets. He purportedly paid his lawyers in cash.
+[39] His reasonableness and practicality and explanations offered regarding his course of conduct were unbelievable, absolutely unbelievable.
+[40] Whether his story has a ring of truth, I think there is a ring of truth to some of it, but it is mixed in I think with a lot of untruths, and the facts show this.
+[41] Whether the best evidence that is available has been produced? The Appellant had a variety of witnesses who he could have called who could have given first-hand evidence, it would not have been hearsay evidence, but first-hand personal knowledge, including his mother, including his brothers, sisters, relatives, people in the area.
+[42] Not one, not one person was called to substantiate his story, and he had nine (9) months to do so.
+[43] In dealing with the arbitrary assessment by the Respondent, let me start by saying that although it is recognized as a crude and inaccurate and basic manner of doing an income assessment to use the net worth method described by Mr. Currie and Mr. Fillmore, it was the only real available instrument to them.
+[44] In the circumstances, it should be modified somewhat when the assessments are over a term of years and the assets are particularly prone to reduction in true value as time goes on such as motor vehicles. I will speak to this particular fact later in my comments.
+[45] In dealing with the income for the Appellant in 1995 and 1996 for which there was no T-1 filed, no explanation was offered, no explanation was given, no explanation was presented by the Appellant, notwithstanding he gave evidence.
+[46] As to why he did not see fit to file a T-1 return for 1995 and 1996, no explanation was given as to what if any income he may have had in each of those years, no explanation was given as to what if anything he was doing in those years.
+[47] Was he working? Was he doing volunteer work? Was he sick? Was he on holidays? How did he make ends meet in two (2) years? Two (2) years is a long period of time to go without income, it's over 700 days. No explanation was offered or provided when the burden was on him.
+[48] The same may be said in relation to 1997 and 1998.
+[49] No information was offered or presented as to what he was working at, doing or really anything. Bits of information were provided that he was not living here or was not living there, but that was really in passing and only to prove I think that he was not here, therefore he could not have purchased the assets when in fact the record shows that he ordered an asset, on behalf of his mother according to him, when he was in British Columbia.
+[50] In dealing with the assets used by the Respondent in determining the net worth of the Appellant, and therefore the income for 1995 of the Appellant to 1998, I would note the following:
+The 1995 Yamaha snowmobile and the 1997 Yamaha snowmobile.
+[51] The assessment of this value is fair and reasonable and is not really in dispute. I believe that the 1995 snowmobile Yamaha should be reduced for net worth purposes by 30% in year one, 15% in year two (2) and 10% in year three (3) to reflect their true value per the questions I had with Mr. Fillmore.
+[52] Therefore, the 1995 Yamaha for 1994 and 1995 will remain at $6,000 each. In 1996, the 1997 Yamaha will be $10,309. In 1997, it will be reduced by 30% to approximately $7,219.
+[53] In 1998, it will be reduced by a further 15% to approximately $6,138 and in 1999, it will be reduced further to the sum of $5,525, which is approximately 10%, though my math may not be very good, so that should be subject to calculation.
+So the net worth assessment will be reduced accordingly of those amounts.
+The 1997 Ford F-150 truck.
+[54] I believe that the Appellant has discharged the burden upon him with this particular asset. He has produced Exhibit A-1, which is a loan payment statement for the Appellant with the CIBC. This loan statement is roughly consistent with the Appellant's evidence and shows the liability incurred at acquiring the truck in question. It is just too bad he did not make the effort to produce the document when initially asked for it in 1999 by the Respondent.
+[55] Therefore, the 1997 Ford F-150 truck should be removed from the Schedule "A" of the net worth assessment of the Appellant.
+The 1996 Chev Camaro Z-28 DTD-413
+[56] This vehicle was purchased by the Appellant's mother, Josephine, in 1996, when she already had a registered vehicle in her name, which I believe was a 1990 Chevy Caprice, her having purchased the Camaro shortly after her husband passed away in 1996.
+[57] It was basically a sports car. The mother at the time was 67 years of age. She was a homemaker all her life. Two (2) years later, the vehicle was transferred to the Appellant for $1, no good or valuable consideration being provided.
+[58] The Appellant reluctantly admitted that he had placed the order for the vehicle. He had driven a Camaro for a period of 10 years prior to the purchase of the Z-28 Camaro by his mother.
+[59] I do not accept the evidence of the Appellant on this particular item. It does not ring true. There was no independent documentation presented to substantiate his story, nor was the best evidence adduced to corroborate the Appellant's evidence.
+[60] What is consistent is this: The Appellant owned and operated a Camaro from 1985 to 1995. The Appellant ordered a new Z-28 Camaro when he was 36 years of age, very shortly after he was without his other Camaro that he had had for 10 years. The Appellant received the registration ownership of the vehicle two (2) years later without any consideration from his mother.
+[61] A lady of 67 years of age, shortly after the death of her husband, buying a Z‑28 sports car, being a homemaker all her life when she already had another motor vehicle registered to her name does not ring true.
+[62] This lady, in my mind, purchased this vehicle on the instructions of and for and on behalf of the Appellant.
+[63] The Appellant's demeanour on this particular point and the facts tell me that he was less than forthright and less than frank with the Court. He says he was not even in New Brunswick when the vehicle was purchased, yet he ordered it when he was in Vancouver at the time.
+[64] However, even though I would include this vehicle in the net worth calculation, the value should be reflected as follows:
+[65] In 1996, $25,000. In 1997, $17,500, a 30% reduction in the first year. In 1998, $15,985, a 15% reduction. In 1999, $14,387, a 10% reduction. Those figures are subject to calculation and I do not know if my arithmetic is correct.
+1997 Harley Davidson motorcycle
+[66] The Appellant asserts that this motorcycle was purchased by his brother Paul, who happened to buy a total of three (3) motorcycles in I believe a period of two (2) years, three (3) brand new motorcycles in the period of two (2) years for $25,000 each.
+[67] No documentation was introduced that could be given any real weight to, except the original invoice, because this was confirmed by Mr. Fillmore in his evidence of his conversations with the owner of the dealership, that is that they were bought by Paul Black.
+[68] Mr. Fillmore did point out however in detail that Paul Black himself was under garnishee by CRA from January 1996 to June of 1998, going through in detail the actual payments made on a monthly basis. This is the very period, in the middle of the very period within which Paul Black purportedly bought these three (3) new Harley Davidson motorcycles.
+[69] Registrations for these motorcycles were not produced in Paul Black's name for the years in question. No corroborative evidence was adduced to the Appellant's evidence.
+[70] The Appellant used the motorcycle in question. It was located at the place which is readily available to him, I believe in a garage at his mother's property or cottage property.
+[71] What is particularly astounding is that if Paul Black could not pay his tax bill to the point where he had to be garnished by CRA through his own employer, how could he afford to purchase three (3) brand new Harley Davidson motorcycles in the short period of two (2) years at $25,000 approximately each. It simply does not ring true.
+[72] I do not accept the evidence of the Appellant on this particular point. His evidence does not withstand scrutiny. Paul Black did not have the financial wherewithal to purchase motorcycles of this character, of this quality and at these prices.
+[73] The Appellant used the motorcycle on occasion and there was no documentation produced during the relevant period of time regarding the registration and ownership of the motorcycle.
+[74] The best evidence was not produced. He could have called his own brother, Paul Black, to testify to its true ownership.
+[75] It was at a location that he frequented, parked in his mother's garage at the cottage and notwithstanding that he did not have a bike licence, he testified earlier that he actually drove the bike, even without a licence.
+[76] The asset should be included in the net worth calculation, but reduced in value over a number of years as follows: In 1997, $25,000. In 1998, $22,500, a reduction of 10%. In 1999, $20,250, a reduction of 10%.
+Bank account at the Bank of Nova Scotia in Miramichi City # 12912 for the numbered company 502625 N.B. Ltd; and the bank account at the Bank of Nova Scotia in BC account # 702500002431
+[77] All of these monies were the property of the Appellant in the BC account, his own personal account. The account for the numbered company is effectively his money also. He asserts that he never put in the $160,000 in the company, but I can tell you that somebody did. Somebody put money into that company for it to acquire the assets it acquired and there was no explanation given, no documentation produced which in any way could be attached to it, and no witnesses to produce or substantiate the story.
+[78] The Appellant was the sole registered Director of the company. He asserts that there were other shareholders, but he would not or could not identify them or produce any corporate records to establish any of his shareholders, other than himself.
+[79] He asserts investments by others, but there was no documentation adduced to which any weight could be attached, nor were any witnesses called to corroborate his story.
+[80] These witnesses were available to the Appellant: His own sister, his own mother, his own brother-in-law, and other people in Miramichi, none of whom gave evidence.
+[81] I am not specifically drawing an adverse inference in the Appellant, but the best evidence was not presented in my mind and the Appellant clearly and unequivocally had the burden, and he failed to discharge it. These items were properly included in the net worth, as the amounts due to shareholders for the numbered company, for the same reasons I have just given.
+Bank of Nova Scotia joint bank account
+[82] I do not believe the Appellant has in any way disputed the ownership or entitlement of the monies in this account. He did talk about deposits. It appears to have been accepted and there was no evidence adduced to my satisfaction or otherwise to discharge the burden upon the Appellant, and these monies also should be included in the net worth.
+Newcastle property
+[83] Turning now to the Newcastle property. The Appellant asserts the property was sold to his mother by a sister and brother-in-law at the same time she purchased the Camaro. I have already made comments on the Camaro.
+[84] There was a garage and swimming pool added, but Josephine never lived on the property. The Appellant asserts he was not in New Brunswick when the property was purchased, but he also was not in New Brunswick when the Z-28 Camaro was purchased when in fact he had arranged for that purchase.
+[85] Presence or absence in the jurisdiction for the purchase of an asset is not a significant factor, if a factor at all.
+[86] The jurisdiction where I come from, Prince Edward Island, over half of Prince Edward Island is owned by non-residents, and most of them would not have even driven across the bridge yet and it has been there for over 10 years.
+[87] The hydro bill is particularly important. The hydro bill in this particular case, for this particular property, was in the name of the Appellant. That is important. That indicates some proprietary interest. That indicates more than a passing interest. That indicates something more than simply helping out his mother as to which bill relates to which property.
+[88] Why would this bill be in the name of the Appellant if it had nothing to do with ownership? He said he did not even occupy it.
+[89] All and all, I do not find that the Appellant was particularly credible. He did not produce the documentation to support his position generally. He did not produce the best evidence that could corroborate his story. He blamed others for his failure to produce records, i.e. the police authorities, when the police authorities returned the records to him or copies.
+[90] He had specific ties to almost every item alleged, for example a hydro bill for the real estate in question;, he ordered the Z-28 Camaro and received it later from his mother for $1; he was the only shareholder and Director of the company. He asserts there were others, but there was no identification provided, no corporate records produced.
+[91] His demeanour as a witness was not particularly satisfying. He was unsure, terribly disorganized and not prepared and blaming others for his problems.
+[92] The Appellant had the opportunity to bring out facts which were important to the case which may or may not help his case, but these were only brought out through cross-examination.
+[93] Most incredible of all was the story about his father giving him $150,000 in $100 bills and $1,000 bills in 1995 shortly before his death, which he stored at his house.
+[94] When pressed, he had trouble explaining what he did with the money. His siblings, he was not sure if they knew, but he did not think they knew and if they knew, he did not know how they knew. He had 10 or 11 brothers and sisters.
+[95] When pressed as to what he did with the money, he was not exactly sure as to whether or not he deposited any in the bank.
+[96] Then he decided he did deposit some in the bank, $30,000 or $40,000, and then he was not even sure which accounts it was deposited in, but then he was sure he deposited in some of the accounts and as to what he did with the rest of the money, he used it to pay his lawyers, purportedly in cash.
+[97] On top of this $150,000 he received in cash from his father, which his siblings were not even aware of, he receives another $32,500 gift from his mother in the form of the Z-28 Camaro, and in addition receives another $29,000, which was a loan from his father to his sister, and the sister was going to repay it to the father, but the father reportedly told him to put it in his bank account. This to me is a total of $210,000.
+[98] What did he do with it? He deposited some in the bank, but he was not very accurate with respect to his evidence. He used the rest to pay his lawyers in cash, $100,000 by my account. Interestingly enough, none of the money went into the business. None of the money went into acquiring the assets, none of the money went into the numbered company.
+[99] That is simply not believable. I did not find the Appellant to be a particularly credible witness and as such, I felt I gave appropriate weight to his evidence.
+[100] Based on the evidence as presented, my evaluation of the credibility of the Appellant and for the reasons already stated, I find that the Appellant has discharged the burden with respect to the F-150 Ford truck, but that he has failed to discharge the burden on each of the remaining items used by the Respondent in the net worth assessment of the Appellant.
+[101] I would allow the net worth assessment to stand, subject to the adjustments for the Ford F-150 truck, and the reductions I mentioned in relation to the snowmobile, motorcycles and motor vehicle, as well as the reduction or alteration with respect to the income for 1997 and 1998 shown in Exhibits R-2 and R-1 respectively.
+[102] As to the gross negligence penalty, I find that there was gross negligence in this particular case. The discrepancies were significant.
+[103] The taxpayer put $160,000 in the corporation somehow when he only earned $18,000. The assets grew way out of proportion to his disclosed income. There was no response or cooperation by the taxpayer, and there is no question in my mind that the penalty under subsection 163(2) of the Income Tax Act is appropriate and is allowed.
+[104] [Post giving these oral reasons, upon reflection and before signing the Judgment/Order, I advised the Appellant and Respondent that the Judgment would be amended, such that there would be no depreciation in the value of the assets owned or beneficially owned, by David Black during the relative time periods.]
+[105] I refer this matter back to the Minister for recalculation.
+Signed at Ottawa, Canada, this 7th day of November 2007.
+"E. P. Rossiter"
+Rossiter, J.
+CITATION: 2007TCC676
+COURT FILE NO.: 2001-4345(IT)G
+STYLE OF CAUSE: DAVID BLACK AND THE QUEEN
+PLACE OF HEARING: Fredericton, New Brunswick
+DATE OF HEARING: September 19, 2007
+REASONS FOR JUDGEMENT BY: The Honourable Justice E.P. Rossiter
+DATE OF ORAL REASONS: September 19, 2007
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Marcel Prevost
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

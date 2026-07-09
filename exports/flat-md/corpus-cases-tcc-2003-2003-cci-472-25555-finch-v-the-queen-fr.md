@@ -1,0 +1,129 @@
+---
+title: "Finch v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25555/index.do"
+last_modified: "2003-07-04"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 CCI 472"
+citation2: ""
+neutral_citation: "2003 CCI 472"
+decision_date: "2003-07-04"
+language: "fr"
+item_id: "25555"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2457
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T19:00:59.589000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "5aeeeca3a28c8da5bc1dbac1c9ac38b2dece01f2603765709d9acc30e166ce0d"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Finch v. The Queen
+
+- Citation: 2003 CCI 472
+- Decision date: 2003-07-04
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2457, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Finch v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-07-04
+Référence neutre
+2003 CCI 472
+Numéro de dossier
+2002-1240(GST)I
+Juges et Officiers taxateurs
+Terrence O'Connor
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2002-1240(GST)I
+ENTRE :
+PERCY FINCH,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+_______________________________________________________________
+Appel entendu le 30 mai 2003 à Toronto (Ontario)
+Devant : L'honorable juge Terrence O'Connor
+Comparutions :
+Représentant de l'appelant :
+Sean McKillop
+Avocate de l'intimée :
+Me Lorraine Edinbord
+_______________________________________________________________
+JUGEMENT
+L'appel interjeté à l'encontre de la cotisation établie en vertu de la Loi sur la taxe d'accise, dont l'avis est daté du 23 août 2001 et porte le no 58870, est accueilli et ladite cotisation est annulée.
+Signé à Ottawa, Canada, ce 4e jour de juillet 2003.
+« Juge O'Connor »
+Traduction certifiée conforme
+ce 22e jour d'avril 2004.
+Ingrid B. Miranda, traductrice
+Référence : 2003CCI472
+Date : 20030704
+Dossier : 2002-1240(GST)I
+ENTRE :
+PERCY FINCH,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge O'Connor
+[1] Le présent appel a été entendu le 30 mai 2003 à Toronto, en Ontario.
+[2] La question en litige est celle de savoir si Percy Finch, l'appelant, est redevable, en vertu de l'article 325 de la Loi sur la taxe d'accise ( « Loi » ), de la somme de 14 000 $. Le ministre du Revenu national ( « ministre » ) soutient que ces 14 000 $ ont été transférés à l'appelant par un certain David Maybee ( « David » ), à un moment où David avait une dette de 45 745 $ relativement à la taxe sur les produits et services ( « TPS » ). Il est reconnu que David avait un lien de dépendance avec l'appelant, étant donné que l'appelant est le conjoint de fait de Lorraine McConnell ( « Lorraine » ) qui est la mère de Kenneth Maybee ( « Kenneth » ) qui, à son tour, est le père de David.
+[3] L'appelant prétend que les 14 000 $ transférés à son nom constituent une somme appartenant, en fait, à Kenneth et non pas à David et que, par conséquent, il n'y a pas eu de transfert de la part d'une personne redevable en matière de TPS; par conséquent, l'appelant n'est pas redevable. L'appelant et Kenneth soutiennent de plus que l'appelant et sa conjointe de fait, Lorraine, avaient acheté un camion à Kenneth en 1998 au prix de 39 000 $, que ledit camion a été subséquemment confisqué par la police parce qu'il s'agissait d'un véhicule volé et que les 14 000 $ représentaient le solde que Kenneth devait à l'appelant, après avoir tenu compte du montant de 15 000 $ qui avait été versé à l'appelant par le Motor Dealers Compensation Fund (fonds de compensation des fournisseurs de véhicules à moteur) ( « fonds » ). Ce dernier était le montant maximal payable par le fonds aux termes de son plan d'assurance. De plus, il a été reconnu qu'au moment de la confiscation, la valeur du camion était de 29 000 $. Ainsi, les 15 000 $ plus les 14 000 $ constituaient une indemnisation pour les pertes de l'appelant.
+[4] Les paragraphes 325(1) et 325(2) de la Loi sont ainsi rédigés :
+La personne qui transfère un bien, directement ou indirectement, par le biais d'une fiducie ou par tout autre moyen, à son époux ou conjoint de fait, ou à un particulier qui l'est devenu depuis, à un particulier de moins de 18 ans ou à une personne avec laquelle elle a un lien de dépendance, est solidairement tenue, avec le cessionnaire, de payer en application de la présente partie le moins élevé des montants suivants :
+(Et voici la formule qui confère l'autorité d'imposer à l'appelant une obligation fiscale indirecte de 14 000 $, si elle est applicable aux faits du présent appel.)
+(2) Cotisation - Le ministre peut établir une cotisation à l'égard d'un cessionnaire pour un montant payable en application du présent article. Dès lors, les articles 296 à 311 s'appliquent, compte tenu des adaptations de circonstance.
+[5] Kenneth a témoigné avoir reçu un montant de 21 284,13 $ en tant que prime après impôt de la part de son employeur, Boyer Pontiac and Buick. Il a aussi témoigné que ledit montant a été déposé dans le compte de J.K. Auto Sales, une entreprise à propriétaire unique appartenant à Danielle, l'épouse de David. Le dépôt a été effectué le 13 janvier 2000. Puis le 14 janvier 2000, un chèque de 1 000 $ a été émis au nom de Kenneth, de manière à ce que le dépôt net au compte de Kenneth s'élève à 20 284,13 $. L'appelant et Kenneth soutiennent qu'il s'agit d'un prêt temporaire à Danielle, pour l'aider à démarrer son entreprise J.K. Auto Sales, notamment, pour l'aider à acheter des voitures. Le prêt lui fournirait les capitaux nécessaires jusqu'à ce que Danielle soit en mesure d'obtenir un prêt bancaire. Il était entendu que ledit montant serait remboursé avec une semaine de préavis, pour que Kenneth puisse payer certaines de ses dettes, y compris le montant de 14 000 $ qu'il devait à l'appelant. L'appelant était en Floride de janvier jusqu'au mois de mars 2000 et, selon son témoignage, il n'aurait besoin des 14 000 $ que lorsqu'il rentrerait de Floride. Quand l'appelant est retourné chez lui en mars 2000, David a signé et fait parvenir le chèque de 14 000 $ à Kenneth, qui l'a transmis à l'appelant. Kenneth a ajouté dans son témoignage que David a aussi signé un chèque de 5 000 $, tiré du même compte, payable à Brad Maybee, ( « Brad » ), un autre fils de Kenneth, pour l'aider à financer ses études au St. Lawrence College. Ce chèque de 5 000 $ a aussi été transmis à Kenneth qui, à son tour, l'a fait parvenir à Brad. Alors, du dépôt net initial de 20 284,13 $, après paiement de 19 000 $ (14 000 $ et 5 000 $), il ne reste qu'un solde de 1 284,13 $ que Kenneth a laissé dans le même compte que Danielle utilise pour son entreprise.
+[6] L'intimée soutient que J.K. Auto Sales est, en fait, une entreprise appartenant à David et exploitée par celui-ci, mais que l'entreprise à propriétaire unique a été mis au nom de son épouse pour protéger l'entreprise des créanciers de David et pour qu'ils ne puissent pas en saisir les actifs, l'entreprise étant au nom de sa femme.
+[7] David est un signataire autorisé relativement au compte bancaire de J.K. Auto Sales, et il a effectivement signé le chèque de 14 000 $ payable à l'appelant et celui de 5 000 $ payable à Brad.
+[8] La question est de savoir pourquoi Kenneth n'a pas payé la somme de 14 000 $ directement à l'appelant. Kenneth a témoigné qu'il voulait aider sa belle-soeur, Danielle, à démarrer son entreprise, de la façon présentée plus haut.
+[9] L'intimée soutient, tel que cela a été mentionné, que J.K. Auto Sales est, en fait, une entreprise appartenant à David, que ce dernier est un signataire autorisé du compte bancaire de ladite entreprise et que, par conséquent, les 14 000 $ tirés de ce compte appartiennent véritablement à David et non pas à Kenneth.
+[10] Lorsqu'on lui demande pourquoi le chèque de 14 000 $ a été signé par David, Kenneth a répondu ainsi :
+MONSIEUR LE JUGE : Bien, pourriez-vous expliquer pourquoi le chèque a été signé par David?
+LE TÉMOIN : Parce que Dave était celui qui conduisait toujours la dépanneuse à Boyer Pontiac pour chercher les voitures que je vendais à Danielle. Alors, quand elle a ouvert le compte, elle lui a conféré l'autorisation de signer pour qu'il puisse me faire des chèques à Boyer Pontiac, au CNC Auto Exchange ou à l'endroit où nous achetions des voitures. Il n'était pas propriétaire de l'entreprise, il ne l'exploitait pas. Il avait simplement l'autorisation de signer quand il venait chercher des voitures à ma place.
+MONSIEUR LE JUGE : Pourquoi aurait-il signé un chèque de 14 000 $?
+LE TÉMOIN : Parce qu'il était en train de rembourser un prêt que j'avais fait à sa femme et que nous nous étions entendus comme ça. Aussitôt que j'aurais besoin de l'argent, il me rembourserait. Aussitôt que mes parents sont retournés de Floride, je lui ai dit de leur payer 14 000 $ des 20 000 $ que je leur avais prêtés et il l'a fait. Puis, je lui ai dit que j'avais besoin de 5 000 $ pour les frais de scolarité de mon fils, alors il lui a fait un chèque aussi.
+Je ne suis pas signataire autorisé du compte, sinon je l'aurais fait moi-même, ce qui aurait été beaucoup plus simple. C'est comme si l'argent avait été mon revenu à Boyer Pontiac. Ce n'était pas celui de Dave.
+ANALYSE
+[11] En fin de compte, la question en litige est celle de savoir à qui l'argent appartenait. Les 14 000 $ appartenaient-ils à Kenneth, plutôt qu'à David?
+[12] À mon avis, il semble très clair que les 14 000 $ faisaient partie de la prime de 21 284,13 $ que Kenneth avait reçue (à l'égard de laquelle il avait payé des impôts) de la part de son employeur, Boyer Pontiac and Buick. Il est clair alors que Kenneth était le propriétaire des 21 284,13 $, somme de laquelle provient le chèque des 14 000 $ prêtés à l'appelant.
+[13] Il est clair aussi que Kenneth devait 14 000 $ à l'appelant, et il a été établi que l'origine de cette dette est le fait que Kenneth avait vendu à l'appelant une voiture qui a, par la suite, été confisquée en tant que véhicule volé, comme je l'ai expliqué plus haut.
+[14] Le simple fait que David avait le pouvoir de signer et peut avoir exercé du pouvoir et du contrôle sur J.K. Auto Sales n'est pas suffisant pour établir qu'il s'agissait de son argent.
+[15] Le fait que le chèque de 5 000 $ pour Brad a été signé et transmis de la même manière que le chèque de 14 000 $ corrobore les autres faits qui démontraient que les 14 000 $ et les 5 000 $ constituaient une partie de la somme de 21 284,13 $ qui appartenait à Kenneth, même si elle avait été déposée dans le compte de J.K. Auto Sales pour les raisons mentionnées plus haut.
+[16] Il importe de remarquer que les 14 000 $ que l'appelant a reçus ont été investis par la suite dans un tiers d'une propriété située au 52 Hibbard Drive, à Ajax, en Ontario, qui a été louée. Les deux autres tiers appartenaient à Brad et à Lorraine en parties égales.
+[17] À mon avis, il est très clair que les 14 000 $ constituaient une somme appartenant à Kenneth et non pas à David. Par conséquent, il n'y a pas eu le transfert prévu au paragraphe 325(1) de la Loi. Par conséquent, l'appel est accueilli et la cotisation datée du 23 août 2001, portant le numéro 58870, est annulée.
+[18] Aucuns dépens ne seront adjugés.
+Signé à Ottawa, Canada, ce 4e jour de juillet 2003.
+« Juge O'Connor »
+Traduction certifiée conforme
+ce 22e jour d'avril 2004.
+Ingrid B. Miranda, traductrice

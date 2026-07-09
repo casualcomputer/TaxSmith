@@ -1,0 +1,132 @@
+Title: Atwill-Morin c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/144650/index.do
+Corpus path: corpus/cases/tcc/2016/2016-cci-127-144650-atwill-morin-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2016-05-20
+
+# Atwill-Morin c. La Reine
+
+- Citation: 2016 CCI 127
+- Decision date: 2016-05-20
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3087, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Atwill-Morin c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2016-05-20
+Référence neutre
+2016 CCI 127
+Numéro de dossier
+2015-5150(IT)G
+Juges et Officiers taxateurs
+Lucie Lamarre
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2015-5150(IT)G
+ENTRE :
+DAVID ATWILL-MORIN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Requête tranchée sur observations écrites à Ottawa (Ontario).
+Devant : L'honorable Lucie Lamarre, juge en chef adjointe
+Comparutions :
+Avocat de l'appelant :
+Me Philippe‑Alexandre Otis
+Avocat de l'intimée :
+Me Simon Vincent
+ORDONNANCE
+Vu la requête présentée par l'intimée en vertu de l'article 52 des Règles de la Cour canadienne de l’impôt (procédure générale) afin d'obtenir des précisions relativement à l'avis d'appel déposé par l'appelant;
+Et après avoir pris connaissance des observations écrites des parties;
+La requête en précisions est rejetée.
+Il est ordonné à l'intimée de produire sa réponse à l'avis d'appel dans un délai de 60 jours suivant la date de la présente ordonnance.
+Signé à Ottawa, Canada, ce 20e jour de mai 2016.
+« Lucie Lamarre »
+Juge en chef adjointe Lamarre
+Référence : 2016 CCI 127
+Date : 20160520
+Dossier : 2015-5150(IT)G
+ENTRE :
+DAVID ATWILL-MORIN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DE L’ORDONNANCE
+La juge en chef adjointe Lamarre
+INTRODUCTION
+[1] L’appelant porte en appel devant cette Cour une cotisation établie en vertu de l’article 160 de la Loi de l’impôt sur le revenu (LIR) par la ministre du Revenu national (ministre). L’appelant fonde son appel, entre autres, sur l’argument voulant que les dettes fiscales de l’auteur présumé du transfert (compagnie) soient « inexistantes ou substantiellement moindres » que ce que prétend la ministre. À cet égard, l’appelant prétend que le fardeau de prouver l’existence de la dette fiscale de la compagnie incombe à la ministre (avis d'appel, paragraphes 11d), 13, 14 et 15).
+[2] Par sa requête, l’intimée (requérante) demande des précisions relativement à l’avis d’appel déposé par l’appelant. Plus précisément, la requérante a demandé à l’appelant de préciser sa position à l’égard des éléments suivants : la dette fiscale de la compagnie, les années d'imposition pour lesquelles l’appelant est en désaccord avec les cotisations établies à l'égard de la compagnie, les faits pertinents, les points en litige et les dispositions législatives et moyens sur lesquels l’appelant s'appuie.
+[3] La requérante prétend qu’elle n’est pas en mesure de produire une réponse à l’avis d’appel quant au bien‑fondé de la dette fiscale de la compagnie puisqu’aucun fait pertinent, aucune disposition législative, ni aucun moyen n’a été invoqué par l’appelant relativement à cette question [1] .
+[4] L’appelant s’oppose à cette requête. L’appelant prétend que le fardeau de la preuve quant à l'existence et au bien‑fondé de la dette fiscale de la compagnie incombe à la requérante. L'appelant allègue par ailleurs que c'est la ministre qui connaît les détails et les fondements de cette dette fiscale, qu'il les ignore et qu'il n'est donc pas en mesure de fournir les précisions demandées par la requérante quant aux périodes pour lesquelles la compagnie était débitrice fiscale et quant aux montants réclamés. L'appelant affirme également que, la compagnie ayant fait faillite, il n'a plus accès aux documents ou aux informations qui pourraient se rapporter aux montants réclamés à la compagnie par l'Agence du revenu du Canada (ARC). L’appelant soutient qu'il a tenté d’obtenir de la ministre les renseignements nécessaires, mais soutient ne pas les avoir reçus et prétend qu'il n’est donc pas en mesure présentement de fournir des motifs précis de contestation de la cotisation établie à l'égard de la compagnie.
+[5] Dans sa réplique, la requérante présente des observations écrites supplémentaires ainsi qu’une déclaration sous serment qui détaillent le fondement factuel de la cotisation sous-jacente. La déclaration sous serment fait aussi référence à l’implication de l’appelant dans les affaires de la compagnie en tant qu’actionnaire majoritaire. La requérante soutient également que l'appelant a reçu une copie complète des pièces en la possession de l'intimée qui se rapportent aux nouvelles cotisations établies à l'égard de la compagnie.
+[6] Finalement, la requérante est d’avis que, même si la question du fardeau de la preuve n’est pas à trancher à ce stade-ci, l’appelant doit fournir les faits pertinents et les moyens lui permettant de soutenir que la dette fiscale de la compagnie n’existe pas ou est moindre que le montant établi par la ministre à l’égard de l’appelant. D'ailleurs, la requérante estime que, dans les circonstances, le fardeau de la preuve repose plutôt sur l’appelant et, même si cela devait être contesté, l'intimée est en droit d'exiger de connaître les éléments qui fondent l'appel avant de déposer sa réponse à l'avis d'appel.
+ANALYSE
+Demande de précisions
+[7] Il est permis d’utiliser l’article 52 des Règles de la Cour canadienne de l’impôt (procédure générale) (Règles) afin de demander des précisions avant de déposer la réponse à l'avis d'appel. La Cour pourrait ordonner que des précisions soient données si les détails recherchés ne relèvent pas de la connaissance du requérant et si ceux-ci sont nécessaires pour permettre au requérant de plaider en réponse [2] . Par ailleurs, la portée des demandes de précisions autorisées est plus étroite au stade du dépôt des actes de procédure qu'à celui du procès ou de l'enquête préalable [3] .
+[8] Dans l’affaire Imperial Manufacturing Group, le juge Stratas de la Cour d’appel fédérale a bien résumé les principes de base devant guider la cour saisie d’une demande de précisions dans le contexte d’un litige civil :
+[32] Les tribunaux font droit aux requêtes en précisions portant sur les allégations contenues dans une déclaration lorsque le défendeur en a besoin pour pouvoir plaider. En résumé, l’objet d’une demande de précisions est d’aider une partie à plaider. Autrement dit, à défaut de précisions sur un point important, la partie adverse ne peut plaider en réponse.
+[33] Il y a lieu d’établir une distinction entre cette situation et celle de l’interrogatoire préalable et, en particulier, les facteurs dont les tribunaux doivent tenir compte avant d’ordonner à un témoin de répondre à une question dans le cadre d’un interrogatoire préalable. Dans ce dernier cas, la Cour doit se demander si les renseignements demandés sont pertinents et importants quant aux questions de droit et de fait en cause dans l’instance et s’ils s’accordent avec les objectifs énoncés à l’article 3 des Règles des Cours fédérales, D.O.R.S./98‑106. [4]
+[34] Il semble que les appelantes aient un objectif de communication préalable en tête. Leur demande de précisions semble reposer sur le fait que les renseignements qu’elles sollicitent sont pertinents et importants quant aux questions de fait et de droit en litige. Au paragraphe 32 de leur mémoire des faits et du droit, elles font valoir que la communication des précisions demandées leur permettra [TRADUCTION] « de comprendre les faits sur lesquels repose l'affaire et de mieux comprendre la thèse de [Decor Grates] ». Mais ces questions sont pertinentes quant au bien‑fondé d’une demande de renseignements dans le cadre d’une communication préalable et non quant à la question de savoir s’il y a lieu d’ordonner la communication de précisions se rapportant à la déclaration parce qu’une partie en a besoin pour pouvoir plaider.
+[35] […] Les précisions ne sont pas communiquées parce qu’elles rendront un acte de procédure meilleur ou plus convaincant. Elles sont communiquées parce que, sans elles, une partie ne peut plaider en réponse à une question importante. [5]
+[9] Le juge Bowman soulignait que « lorsqu'on cherche à obtenir des précisions avant l'établissement d'un acte de procédure, il faut que ce soit en vue de pouvoir formuler une réponse intelligente. Il y a une différence fondamentale entre les précisions requises aux fins d'un acte de procédure et les précisions nécessaires aux fins du procès » [6] .
+[10] La requérante prétend qu’elle n’est pas en mesure de produire une réponse à l'avis d'appel relativement à la question mentionnée plus haut sans les renseignements demandés [7] . Elle soutient qu’il serait « contraire aux Règles et à l’équité d’autoriser l’appelant à soulever ses arguments à l’encontre des cotisations sous-jacentes pour la première fois au procès. » Elle est aussi d’avis que l'ordonnance sollicitée « éviterait vraisemblablement la modification des actes de procédure suite aux interrogatoires, ainsi qu’un débat sur l’admissibilité, au procès, des arguments de l’appelant » [8] .
+[11] La question est donc de savoir s’il est possible pour l’appelant de simplement nier le bien-fondé de la dette fiscale de la compagnie en faisant valoir que cette dette était inexistante ou substantiellement moindre que le montant allégué dans la cotisation établie à l'égard de l'appelant. En d'autres termes, est‑ce nécessaire, à l'étape des actes de procédure, d'exiger les précisions supplémentaires demandées par la requérante?
+Cotisation en vertu de l’article 160 LIR
+[12] Un contribuable visé par une cotisation dérivée établie en vertu de l'article 160 de la LIR est libre d’attaquer le bien-fondé de la cotisation primaire établie à l'égard de l'auteur du transfert. Ce contribuable ne peut être lié par la cotisation visant le premier contribuable (l'auteur du transfert), et ce, même si cette cotisation primaire revêt un caractère définitif pour ce dernier [9] .
+[13] Quant au fardeau de la preuve, en règle générale, il revient au contribuable de réfuter les hypothèses de fait retenues par le ministre lorsqu'il a établi l'obligation fiscale du contribuable. Toutefois, lorsque les hypothèses de fait invoquées relèvent de la connaissance exclusive ou particulière du ministre, le fait de mettre le fardeau de la preuve sur le contribuable pourrait entraîner des conséquences inéquitables, qui, dans certains cas, justifieraient le renversement du fardeau de la preuve [10] .
+[14] Il s'agit essentiellement d'une question factuelle [11] . Cette question doit cependant être traitée par le juge qui entendra le litige sur le fond, lequel devra également trancher toute question d'équité procédurale quant à la possibilité pour l'appelant de faire valoir un point qui n'a pas été soulevé dans les actes de procédure.
+[15] Aux fins de la requête en précisions, la seule considération à cette étape-ci est de savoir si la requérante a besoin des renseignements demandés afin d'être en mesure de préparer sa réponse. Pour reprendre l’énoncé du juge Stratas, ces précisions « ne sont pas communiquées parce qu’elles rendront un acte de procédure meilleur ou plus convaincant. Elles sont communiquées parce que, sans elles, une partie ne peut plaider en réponse à une question importante » [12] .
+[16] Dans sa réplique, la requérante a relaté suffisamment de faits pour me permettre de conclure qu'elle connaît les arguments de l'appelant qu'elle doit réfuter dans sa réponse. Il ressort également de l'avis d'appel que, selon l'appelant, il revient à la ministre de faire la preuve de l'existence et du bien‑fondé de la cotisation primaire établie à l'égard de la compagnie, et qu'il n'est pas suffisant pour la ministre de seulement déposer en preuve la cotisation primaire (voir paragraphe 15 de l'avis d'appel). J'estime donc, dans les circonstances, que la requérante n'a pas besoin des précisions qu'elle demande à cette étape‑ci de l'instance. Si l'intimée aura besoin, aux fins du procès, de plus de renseignements sur le fondement de la question soulevée par l'appelant, il lui sera loisible de questionner l'appelant à ce sujet lors de l'interrogatoire préalable.
+[17] La requête en précisions est rejetée.
+« Lucie Lamarre »
+Juge en chef adjointe Lamarre
+RÉFÉRENCE :
+2016 CCI 127
+Nº DU DOSSIER DE LA COUR :
+2015-5150(IT)G
+INTITULÉ DE LA CAUSE :
+DAVID ATWILL-MORIN
+c. SA MAJESTÉ LA REINE
+MOTIFS DE L'ORDONNANCE PAR :
+L'hon. juge en chef adjointe Lucie Lamarre
+DATE DE L'ORDONNANCE :
+Le 20 mai 2016
+COMPARUTIONS :
+Avocat de l'appelant :
+Me Philippe-Alexandre Otis
+Avocat de l'intimée :
+Me Simon Vincent
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelant:
+Nom :
+Me Philippe-Alexandre Otis
+Cabinet :
+Starnino Mostovac
+Montréal, Québec
+Pour l’intimée :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Déclaration sous serment de Me Simon Vincent en date du 9 mars 2016, paragraphe 3.
+[2] Physicians Services v. Cass, [1971] 2 O.R. 626 (Cour d’appel de l’Ontario).
+[3] Imperial Manufacturing Group Inc. c. Decor Grates Inc., 2015 CAF 100, paragraphe 7.
+[4] Cet article correspond au paragraphe 4(1) des Règles.
+[5] Imperial Manufacturing, précitée.
+[6] Satin Finish Hardwood Flooring (Ontario) Ltd c. Canada, [1995] A.C.I. no 240 (QL), au paragraphe 20, [1995] 2 C.T.C. 2440, 96 DTC 1402.
+[7] Déclaration sous serment de Me Vincent, paragraphe 3.
+[8] Voir Réplique de l’intimée aux observations de l’appelant, aux paragraphes 38 et 39.
+[9] Voir Gaucher c. Canada, [2000] A.C.F. no 1869 (QL), [2001] 1 C.T.C. 125, paragraphes 6 à 9 (CAF – le juge Rothstein); FMC Technologies Co c. MRN, 2008 CF 871, [2009] 3 R.C.F. 48, paragraphe 62 – confirmé en appel, 2009 CAF 217.
+Toutefois, une entente ou un jugement liant la compagnie pourrait lier l’appelant si les conditions de la doctrine de la chose jugée sont applicables; Tuccaro c. Canada, 2014 CAF 184.
+[10] Canada c. Anchor Pointe Energy Ltd., 2007 CAF 188, [2008] 1 R.C.F. 839, paragraphe 36; Gestion Yvan Drouin Inc. c. La Reine, 2001 DTC 72, [2001] 2 C.T.C. 2315, paragraphe 114 (CCI).
+[11] Mignardi c. La Reine, 2013 CCI 67, paragraphe 41;Andrew c. La Reine, 2015 CCI 1, paragraphes 63 et 64.
+[12] Imperial Manufacturing Group, précitée, paragraphe 35.

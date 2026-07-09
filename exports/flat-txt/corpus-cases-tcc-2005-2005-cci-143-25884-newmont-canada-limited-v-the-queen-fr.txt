@@ -1,0 +1,263 @@
+Title: Newmont Canada Limited v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25884/index.do
+Corpus path: corpus/cases/tcc/2005/2005-cci-143-25884-newmont-canada-limited-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2005-03-31
+
+# Newmont Canada Limited v. The Queen
+
+- Citation: 2005 CCI 143
+- Decision date: 2005-03-31
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3878, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Newmont Canada Limited v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-03-31
+Référence neutre
+2005 CCI 143
+Numéro de dossier
+2003-4491(IT)G
+Juges et Officiers taxateurs
+Georgette Anne Sheridan
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Dossier : 2003-4491(IT)G
+ENTRE :
+NEWMONT CANADA LIMITED,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Requête entendue le 30 novembre 2004, à Toronto (Ontario)
+Devant : L'honorable juge G. Sheridan
+Comparutions :
+Avocats de l'appelante :
+Me Robert B. Hayhoe Me Steven McLeod
+Avocates de l'intimée :
+Me Wendy Burnham Me Deborah Horowitz
+ORDONNANCE
+Vu la requête du ministre du Revenu national en vertu de l'article 53 des Règles de la Cour canadienne de l'impôt (procédure générale) afinde faire radier certains paragraphes de l'avis d'appel déposé par Newmont Canada Limited à l'égard des années d'imposition 1988, 1989, 1990, 1991, 1992, 1993, 1994, 1995 et 1996;
+Et vu les allégations et les documents déposés par les parties;
+LA COUR ORDONNE CE QUI SUIT :
+a) les paragraphes 40 à 52, l'alinéa 53c) et le paragraphe 62 sont radiés de l'avis d'appel de Newmont;
+b) la Couronne dispose de 30 jours suivant la date de la présente requête pour déposer sa réponse à l'avis d'appel.
+La requête est accueillie avec dépens relatifs à deux avocats, conformément aux motifs de l'ordonnance ci-joints.
+Signé à Ottawa, Canada, ce 31e jour de mars 2005.
+« G. Sheridan »
+Juge Sheridan
+Traduction certifiée conforme
+ce 25e jour de janvier 2006.
+Yves Bellefeuille, réviseur
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Référence : 2005CCI143
+Date : 20050331
+Dossier : 2003-4491(IT)G
+ENTRE :
+NEWMONT CANADA LIMITED,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DE L'ORDONNANCE
+Le juge Sheridan
+[1] Il s'agit en l'espèce d'une requête présentée par la Couronne afin d'obtenir une ordonnance radiant certains paragraphes de l'avis d'appel déposé par l'appelante, Newmont Canada Limited ( « Newmont » ), à l'égard des années d'imposition 1988, 1989, 1990, 1991, 1992, 1993, 1994, 1995 et 1996. Newmont a remplacé les sociétés qui l'ont précédée en 1995. En 1996, le ministre a commencé à établir de nouvelles cotisations concernant les années d'imposition 1988 à 1996 de Newmont. Les parties s'entendent sur ce qui suit :
+a) Newmont est une « grande société[1] » au sens de la Loi de l'impôt sur le revenu;
+b) les paragraphes contestés de son avis d'appel portent sur une question (désignée, pour les besoins de la présente requête, « question relative au prêt d'or » ) qui n'a été décrite dans aucun de ses avis d'opposition aux nouvelles cotisations du ministre;
+c) la question relative au prêt d'or ne touche que les années d'imposition 1990, 1991 et 1992;
+d) malgré les discussions en vue de régler la présente affaire qui ont eu lieu entre Newmont et les fonctionnaires de l'Agence du revenu du Canada, il n'y a eu aucune entente et Newmont ne cherche pas non plus à faire exécuter une telle entente.
+[2] Le ministre fait valoir que Newmont ne peut interjeter appel au sujet de la question relative au prêt d'or parce que cette question n'a pas été décrite dans ses avis d'opposition, comme l'exige le paragraphe 165(1.11) de la Loi. Selon la Couronne, le droit d'appel de Newmont, comme celui de tout autre contribuable, découle du paragraphe 169(1). Dans le cas d'une grande société, cependant, le droit général d'appel est assujetti au paragraphe 169(2.1), qui limite les appels d'une grande société aux questions décrites dans son avis d'opposition initial conformément au paragraphe 165(1.11).
+[3] Newmont conteste la position de la Couronne pour trois motifs :
+a) relativement aux années d'imposition 1990 à 1992, la Couronne a renoncé à l'application des conditions légales énoncées au paragraphe 169(2.1);
+b) relativement aux années d'imposition 1990 à 1992, la Couronne ne peut, par l'effet de la préclusion, invoquer les conditions légales énoncées au paragraphe 169(2.1);
+c) relativement à l'année d'imposition 1992 seulement, le paragraphe 169(2.1) ne peut s'appliquer parce que Newmont a interjeté appel directement auprès de la Cour canadienne de l'impôt à l'encontre de la nouvelle cotisation établie par le ministre en vertu du paragraphe 165(3).
+[4] Les cotisations antérieures reçues par Newmont concernant ses années d'imposition 1988 à 1996 figurent sous forme de tableau au paragraphe 9 de son résumé des plaidoiries :
+Année d'imposition
+Cotisation faisant l'objet d'une opposition
+Avis d'opposition
+Réponse de la Division des appels de l'ARC
+Ratification
+Nouvelle cotisation
+1988
+27 sept. 1996
+19 déc. 1996
+18 sept. 2003
+-
+1989
+27 sept. 1996
+19 déc. 1996
+18 sept. 2003
+-
+1990
+27 sept. 1996
+19 déc. 1996
+18 sept. 2003
+-
+1991
+27 sept. 1996
+19 déc. 1996
+18 sept. 2003
+-
+1992
+6 août 1997
+29 oct. 1997
+-
+18 sept. 2003
+1993
+6 août 1997
+29 oct. 1997
+-
+18 sept. 2003
+1994
+25 oct. 1999
+23 déc. 1999
+-
+18 sept. 2003
+1995
+1er août 2000
+30 oct. 2000
+18 sept. 2003
+-
+1996
+4 mai 2001
+30 juin 2001
+18 sept. 2003
+-
+[5] Comme on peut le constater, en réponse aux oppositions de Newmont aux nouvelles cotisations visant les trois années d'imposition en litige, le ministre a ratifié au moyen d'un avis les cotisations qui avaient fait l'objet d'une opposition à l'égard des années d'imposition 1990 et 1991 et établi une nouvelle cotisation à l'égard de l'année d'imposition 1992. C'est en raison de cette différence de traitement, c'est-à-dire la ratification par opposition à l'établissement d'une nouvelle cotisation, que l'argument de Newmont relatif aux paragraphes 165(7) et 169(2.1) ne touche que l'appel relatif à 1992. Cet argument ne peut être opposé à la ratification, par le ministre, de ses cotisations visant les années d'imposition 1990 et 1991, parce que le paragraphe 165(7) s'applique seulement au cas où le ministre établit une « nouvelle cotisation » en réponse à l'opposition du contribuable.
+[6] Relativement aux motifs a) et b), Newmont admet que, si la Cour rejette son interprétation des dispositions légales pertinentes énoncée au motif c), alors ses arguments fondés sur la renonciation et la préclusion doivent aussi échouer. Pour cette raison, je commencerai par examiner l'argument de Newmont basé sur l'interprétation légale qu'on retrouve au motif c).
+Motif c) :
+« Le paragraphe 169(2.1) ne s'applique pas à l'appel de Newmont visant l'année 1992 »
+Partie 1 - « parce que l'appel est déposé en vertu du paragraphe 165(7) et non pas du paragraphe 169(1) »
+[7] L'argument présenté par Newmont pour appuyer l'existence d'un droit d'appel créé par l'alinéa 165(7)a) figure aux paragraphes 94 à 98 de son résumé des plaidoiries :
+[TRADUCTION]
+94. L'appel de Newmont concernant les années 1992 à 1994 est fondé sur le paragraphe 165(7) puisqu'il est interjeté en réponse à une nouvelle cotisation faisant suite à un avis d'opposition.
+95. L'alinéa 165(7)a) est rédigé comme suit :
+« Lorsqu'un contribuable a signifié un avis d'opposition à une cotisation conformément au présent article et que, par la suite, le ministre procède à une nouvelle cotisation ou établit une cotisation supplémentaire concernant l'impôt, les intérêts, les pénalités ou autres montants que l'avis d'opposition visait et envoie au contribuable un avis de nouvelle cotisation ou de cotisation supplémentaire, le contribuable peut, sans signifier d'avis d'opposition à la nouvelle cotisation ou la cotisation supplémentaire :
+a) interjeter appel auprès de la Cour canadienne de l'impôt conformément à l'article 169;
+[...] »
+(ONGLET 17)
+96. La Cour d'appel fédérale a déclaré dans l'arrêt TransCanada Pipelines que le paragraphe 165(7) autorisait :
+« l'introduction d'un appel sans signification préalable d'un avis d'opposition lorsque, après la signification d'un avis d'opposition initial, le ministre établit une nouvelle cotisation ou une cotisation supplémentaire. En pareil cas, le contribuable qui n'est toujours pas satisfait peut interjeter appel sans signifier un autre avis d'opposition. »
+TransCanada Pipelines Limited, paragraphe 19(ONGLET 29)
+97. Le paragraphe 169(2.1) commence par les termes « Malgré les paragraphes (1) et (2) » . Par conséquent, quoique le paragraphe 169(2.1), lorsqu'il est applicable, peut restreindre les questions qu'une grande société a le droit d'invoquer dans un appel déposé en vertu des paragraphes 169(1) ou 169(2), il ne limite pas les questions qu'une grande société peut soulever dans le cadre d'un appel interjeté en vertu de l'alinéa 165(7)a). Si le législateur avait l'intention de faire en sorte que le paragraphe 169(2.1) limite les questions qu'une grande société peut soulever dans le cadre d'un appel interjeté en vertu de l'alinéa 165(7)a), ce paragraphe aurait plutôt précisé : « Malgré les paragraphes 169(1) et (2) et le paragraphe 165(7) [...] » .
+98. Puisque l'appel interjeté par Newmont à l'égard de l'année 1992 se fonde sur le paragraphe 165(7), il ne peut être assujetti à la restriction visant les appels interjetés par les grandes sociétés énoncée au paragraphe 169(2.1).
+[8] Lorsque le ministre a informé Newmont au moyen d'un avis de nouvelle cotisation daté du 18 septembre 2003 de sa décision d'établir une nouvelle cotisation pour l'année 1992 en vertu du paragraphe 165(3), Newmont s'est appuyée sur l'alinéa 165(7)a) pour omettre de signifier un autre avis d'opposition au ministre à cet égard et a interjeté appel directement auprès de la Cour canadienne de l'impôt. Après avoir déposé un avis d'appel en réponse à la nouvelle cotisation du 18 septembre 2003, Newmont soutient qu'en fait, elle « interjetait appel » conformément au paragraphe 165(7), c'est-à-dire qu'elle avait un droit fondamental d'interjeter appel en vertu de cette disposition. Étant donné que le paragraphe 165(7) ne restreint aucunement les appels interjetés par les grandes sociétés ni ne rattache de tels « appels » au paragraphe 169(2.1), Newmont conclut qu'elle est en droit d'ajouter la question relative au prêt d'or à son avis d'appel visant l'année d'imposition 1992.
+[9] Ces arguments ne réussissent pas à me convaincre. Tout d'abord, en ce qui concerne ce que Newmont considère comme son « appel » en vertu de l'alinéa 165(7)a), la jurisprudence est claire[2] : le droit du contribuable d'interjeter appel à l'encontre d'une cotisation établie en vertu de la Loi de l'impôt sur le revenu découle de l'article 169. Dans l'affaire Ministre du Revenu national c. Parsons[3], la Cour d'appel fédérale a fait la déclaration suivante au paragraphe 2 :
+[2] Nous sommes tous d'avis que l'appel doit réussir sur le fondement d'un seul motif restreint : les cotisations établies contre les intimés ne pouvaient être contestées que de la manière prévue aux articles 169 et suivants de la Loi de l'impôt sur le revenu.
+Le paragraphe 169(1) de la Loi est rédigé comme suit :
+Lorsqu'un contribuable a signifié un avis d'opposition à une cotisation, prévu à l'article 165, il peut interjeter appel auprès de la Cour canadienne de l'impôt pour faire annuler ou modifier la cotisation :
+a) après que le ministre a ratifié la cotisation ou procédé à une nouvelle cotisation;
+b) après l'expiration des 90 jours qui suivent la signification de l'avis d'opposition sans que le ministre ait notifié au contribuable le fait qu'il a annulé ou ratifié la cotisation ou procédé à une nouvelle cotisation;
+toutefois, nul appel prévu au présent article ne peut être interjeté après l'expiration des 90 jours qui suivent la date où avis a été expédié par la poste au contribuable, en vertu de l'article 165, portant que le ministre a ratifié la cotisation ou procédé à une nouvelle cotisation.
+[10] L'alinéa 165(7)a), qui est invoqué par Newmont pour se prévaloir d'un droit d'appel, est rédigé comme suit :
+Lorsqu'un contribuable a signifié un avis d'opposition à une cotisation conformément au présent article et que, par la suite, le ministre procède à une nouvelle cotisation ou établit une cotisation supplémentaire concernant l'impôt, les intérêts, les pénalités ou autres montants que l'avis d'opposition visait et envoie au contribuable un avis de nouvelle cotisation ou de cotisation supplémentaire, le contribuable peut, sans signifier d'avis d'opposition à la nouvelle cotisation ou la cotisation supplémentaire :
+a) interjeter appel auprès de la Cour canadienne de l'impôt conformément à l'article 169; [Je souligne.]
+[...]
+[11] Pour affirmer qu'elle a interjeté appel en vertu de l'alinéa 165(7)a),Newmont doit faire fi de la condition énoncée dans le dernier membre de phrase de cette disposition. Même si l'alinéa 165(7)a) dispense le contribuable de l'obligation de signifier un autre avis d'opposition et l'autorise à interjeter appel auprès de la Cour canadienne de l'impôt, cet alinéa énonce clairement que l'appel doit être interjeté « conformément à l'article 169 » . Pour se prévaloir de la dispense procédurale que renferme le paragraphe 165(7), le contribuable doit avoir tout d'abord signifié au moins un avis d'opposition à une cotisation « conformément au présent article [l'article 165] » et le ministre doit avoir répondu par une nouvelle cotisation. De même, pour exercer son droit d'appel visé au paragraphe 169(1), le contribuable doit avoir d'abord signifié « un avis d'opposition à une cotisation, prévu à l'article 165 » . Lorsque cet avis d'opposition initial est signifié, les deux dispositions sont satisfaites : il est seulement logique que l'alinéa 165(7)a) permette au contribuable de ne pas signifier d'avis d'opposition au ministre et de demander plutôt une décision finale sur les points en litige au moyen d'un appel adressé à la Cour canadienne de l'impôt conformément à l'article 169. C'est le sens qu'a donné la Cour d'appel fédérale au paragraphe 165(7) dans l'arrêt TransCanada Pipelines Limited c. La Reine[4] :
+[19] [...] Le paragraphe 165(7) autorise l'introduction d'un appel sans signification préalable d'un avis d'opposition lorsque, après la signification d'un avis d'opposition initial, le ministre établit une nouvelle cotisation ou une cotisation supplémentaire. En pareil cas, le contribuable qui n'est toujours pas satisfait peut interjeter appel sans signifier un autre avis d'opposition.
+[12] Pour des raisons qui m'échappent, Newmont a invoqué cet extrait pour appuyer son argument, soit que l'alinéa 165(7)a) crée un droit fondamental d'interjeter appel[5]. Bien que je rejette les conclusions tirées par Newmont, s'il existe une ambiguïté quelconque dans cet extrait, celle-ci est résolue dans le paragraphe qui suit immédiatement, où la Cour établit une distinction claire entre la dispense procédurale énoncée au paragraphe 165(7) et le droit fondamental d'interjeter appel prévu au paragraphe 169(1) :
+[20] Toutefois, le paragraphe 165(7) ne s'applique pas de façon à permettre d'en appeler subséquemment d'une nouvelle cotisation établie en vertu du paragraphe 169(3)[6]qui a pour effet de régler un appel antérieur. L'alinéa 165(7)a), dans son contexte, se rapporte à la réception d'une deuxième nouvelle cotisation avant le dépôt d'un avis d'appel. L'alinéa 165(7)b) se rapporte à la période qui suit le dépôt d'un avis d'appel, mais qui précède le règlement de l'appel. Le contribuable qui reçoit un avis de nouvelle cotisation au cours de cette période peut modifier l'appel de façon qu'il s'applique à des questions visées par la nouvelle cotisation. Le paragraphe 165(7) vise à économiser le temps et de l'argent qu'il faudrait consacrer au dépôt d'un autre avis d'opposition lorsque le ministre établit une nouvelle cotisation après qu'un avis d'opposition initial a été signifié et que le contribuable n'est toujours pas satisfait et qu'il n'a pas encore interjeté appel ou qu'il a interjeté appel, mais que cet appel n'a pas encore été réglé. Il ne s'applique [pas] après le règlement de l'appel et, en particulier, après le règlement prévu au paragraphe 169(3). En d'autres termes, le paragraphe 165(7) s'applique uniquement avant ou pendant la période où l'appel est encore en cours, mais il ne peut plus s'appliquer une fois que la procédure d'appel a été menée à terme. Eu égard aux circonstances de l'affaire, le paragraphe 165(7) n'aide pas TCPL.
+En outre, selon moi, le paragraphe 165(7) n'aide aucunement Newmont à éviter l'application du paragraphe 169(2.1). La Cour d'appel fédérale explique que le paragraphe 165(7) vise à économiser du temps et de l'argent en offrant un moyen de briser le cycle des oppositions et des nouvelles cotisations par un contribuable toujours insatisfait et un ministre réticent à délivrer des ratifications. Je ne suis pas en mesure de trouver dans la Loi ni dans la jurisprudence quoi que ce soit qui confirme l'argument de Newmont, soit que l'alinéa 165(7)a) crée un droit fondamental d'interjeter appel; cette disposition dispense simplement le contribuable encore insatisfait de l'obligation de continuer de s'opposer jusqu'à ce que le ministre ratifie finalement sa nouvelle cotisation la plus récente.
+[13] Enfin, au paragraphe 97 de son résumé des plaidoiries, Newmont conclut que [TRADUCTION] « si le législateur avait l'intention de faire en sorte que le paragraphe 169(2.1) limite les questions qu'une grande société peut soulever dans le cadre d'un appel interjeté en vertu de l'alinéa 165(7)a), ce paragraphe aurait plutôt précisé : « Malgré les paragraphes 169(1) et (2) et le paragraphe 165(7) [...] » . En toute déférence, je crois que cet argument n'est pas logique. Le fait qu'aucune réserve de ce genre n'ait été exprimée dans le préambule du paragraphe 169(2.1) porte à croire que le législateur n'avait pas l'intention de créer un droit fondamental d'interjeter appel au paragraphe 165(7) parallèlement à celui qui est énoncé au paragraphe 169(1).
+Motif c) :
+« Le paragraphe 169(2.1) ne s'applique pas à l'appel de Newmont visant l'année 1992 »
+Partie 2 - « parce que le paragraphe 169(2.1) exige un avis d'opposition »
+[14] Dans la deuxième partie de son argument au motif c), Newmont soutient que le dépôt d'un appel au lieu de la signification d'un avis d'opposition à l'encontre de la nouvelle cotisation du 18 septembre 2003 l'empêche d'être assujettie au paragraphe 169(2.1) :
+[TRADUCTION]
+99. Même si le fondement de l'appel interjeté par Newmont en 1992 se trouve au paragraphe 169(1) plutôt qu'au paragraphe 165(7), de par son libellé même, le paragraphe 169(2.1) s'applique seulement lorsque la cotisation qui est visée par l'appel auprès de la Cour canadienne de l'impôt a fait l'objet d'un avis d'opposition.
+100. Le paragraphe 169(2.1) est rédigé comme suit :
+« Malgré les paragraphes (1) et (2), la société qui était une grande société au cours d'une année d'imposition, au sens du paragraphe 225.1(8) et qui signifie un avis d'opposition à une cotisation établie en vertu de la présente partie pour l'année ne peut interjeter appel devant la Cour canadienne de l'impôt pour faire annuler ou modifier la cotisation qu'à l'égard des questions suivantes :
+a) une question relativement à laquelle elle s'est conformée au paragraphe 165(1.11) dans l'avis, mais seulement à l'égard du redressement, tel qu'il est exposé dans l'avis, qu'elle demande relativement à cette question;
+b) une question visée au paragraphe 165(1.14), dans le cas où elle n'a pas, à cause du paragraphe 165(7), signifi[é] d'avis d'opposition à la cotisation qui a donné lieu à la question. » [Je souligne.]
+(ONGLET 17)
+101. Le préambule du paragraphe 169(2.1) pose deux conditions qui doivent être satisfaites avant que les limites énoncées dans cette disposition puissent s'appliquer. Il s'agit des conditions suivantes :
+a) le contribuable doit être une grande société au sens du paragraphe 225.1(8),
+b) le contribuable doit avoir signifié un avis d'opposition à la cotisation qui fait l'objet de l'appel.
+102. Lorsque ces deux conditions sont satisfaites, les questions qu'une grande société peut soulever dans le cadre d'un appel sont limitées de la manière prévue aux alinéas a) et b)du paragraphe 169(2.1). Lorsque ces deux conditions ne sont pas satisfaites, le paragraphe 169(2.1) ne s'applique pas.
+103. La structure du paragraphe 169(2.1) est utilisée couramment dans la Loi de l'impôt sur le revenu. Il y a un préambule énonçant les conditions qui doivent être respectées avant que diverses conséquences ou règles (décrites après le préambule) n'interviennent. Cette structure grammaticale courante a été reconnue par la Cour suprême du Canada dans l'affaire Antosko c. La Reine, au sujet du paragraphe 20(14). La Cour suprême a confirmé ce qui suit :
+« La structure grammaticale du paragraphe 20(14) est semblable à de nombreuses autres dispositions de la Loi où le législateur énumère les conséquences fiscales qui découlent du fait que certaines conditions préalables sont remplies. En général, les conditions préalables sont énoncées dans un seul ou plusieurs paragraphes introductifs et les conséquences, dans des alinéas distincts. Nous ne connaissons aucun principe d'interprétation législative qui assujettisse une conséquence fiscale énumérée dans le texte d'une disposition au respect par le contribuable de toutes les autres conséquences fiscales énumérées avant celle-ci. »
+Canada c. Antosko, [1994] 2 R.C.S. 312, à la page 332 (ONGLET 22)
+104. Les conditions préalables à l'application du paragraphe 169(2.1) ne sont pas satisfaites en ce qui concerne l'appel de Newmont à l'égard de son année d'imposition 1992. Newmont était une grande société en 1992, mais elle n'a pas signifié d'avis d'opposition à la nouvelle cotisation du 18 septembre 2003. Par conséquent, le paragraphe 169(2.1) ne peut s'appliquer à l'appel de Newmont relatif à 1992.
+105. Newmont a signifié un avis d'opposition à l'avis de nouvelle cotisation du ministre daté du 6 août 1997 et visant l'année 1992. Par contre, l'appel de Newmont concernant cette année n'est pas et ne peut être un appel interjeté à l'encontre de la nouvelle cotisation du 6 août 1997 puisque cette nouvelle cotisation a été annulée et remplacée par la nouvelle cotisation du 18 septembre 2003.
+106. Il est bien établi qu'une nouvelle cotisation à l'égard d'une année d'imposition annule toute cotisation antérieure portant sur cette même année.
+[TRADUCTION] Si la seconde nouvelle cotisation est valide, elle remplace à mon avis la première et entraîne donc sa nullité. Le contribuable ne peut être assujetti à l'impôt en fonction de la cotisation initiale ainsi que la nouvelle cotisation. Ce serait différent si une cotisation pour une année donnée était suivie d'une cotisation « supplémentaire » pour cette même année. Cependant lorsque la « nouvelle cotisation » a pour objet de fixer l'impôt global annuel du contribuable et pas seulement un montant d'impôt s'ajoutant à la première imposition, la cotisation précédente doit automatiquement être annulée.
+Abraham (No. 1) v. M.N.R., 66 D.T.C. 5451, à la page 5452 (C. de l'É.) (ONGLET 23)
+107. La Couronne, aux paragraphes 58 à 61 de sa réponse, cite une décision de la Commission d'appel de l'impôt, une décision de la Cour d'appel fédérale et une décision de la Cour canadienne de l'impôt à l'appui de sa thèse suivant laquelle une cotisation qui est remplacée par une nouvelle cotisation ne devient pas nulle mais est simplement modifiée. En toute déférence, il s'agit d'une interprétation erronée de la décision applicable de la Commission d'appel de l'impôt et de la Cour d'appel fédérale. En outre, le jugement de la Cour canadienne de l'impôt a été remplacé par une décision subséquente de la Cour d'appel fédérale.
+108. Dans son jugement rendu en 1968 dans l'affaire Andrulionis, la Commission d'appel de l'impôt examinait un cas où la Couronne tentait, pour des motifs procéduraux, de refuser au contribuable le droit d'interjeter appel d'une cotisation fiscale. La Couronne avait fait valoir que le contribuable ne pouvait pas interjeter appel directement à la suite d'une nouvelle cotisation établie après une opposition parce que la nouvelle cotisation avait annulé la première cotisation, de sorte qu'il n'y avait plus de cotisation qui soit l'objet d'une opposition. Bien que la Commission ait rejeté la requête présentée par la Couronne en vue d'annuler l'appel, elle l'a fait en reconnaissant qu'une nouvelle cotisation annulait la cotisation antérieure.
+Andrulionis v. M.N.R., 68 D.T.C. 76 (C.A.I.) (ONGLET 24)
+Walkem v. M.N.R.,71 D.T.C. 5288, à la page 5291 (C.F. 1re inst.) (ONGLET 25)
+109. La Cour canadienne de l'impôt a confirmé que, dans le cas où l'ARC établit une nouvelle cotisation à la suite du dépôt d'un appel auprès de la Cour canadienne de l'impôt, la cotisation qui a fait l'objet du premier appel devient nulle et l'appel doit être modifié ou annulé.
+Roland Parent c. La Reine, no 2002-624(IT)G, 7 août 2003, au paragraphe 18, 2003 D.T.C. 1002, à la page 1006 (C.C.I.) (ONGLET 26)
+110. La Couronne cite également Lambert c. La Reine, décision rendue par la Cour d'appel fédérale, pour contester le principe bien établi qu'une nouvelle cotisation annule la cotisation antérieure. Toutefois, l'arrêt Lambert portait sur la question de savoir si l'obligation de payer de l'impôt demeurait malgré l'établissement de la nouvelle cotisation. La Cour d'appel fédérale a conclu qu'une obligation de payer de l'impôt et une cotisation étaient deux choses différentes et que la nouvelle cotisation n'annulait pas l'obligation, même si elle annulait la cotisation antérieure.
+Lambert c. La Reine, no A-138-74, 7 septembre 1976, 76 D.T.C. 6373, à la page 6375 (C.A.F.) (ONGLET 27)
+111. La décision rendue en 1986 par la Cour canadienne de l'impôt dans l'affaire Super Jewellers c. M.R.N. s'inscrivait dans le contexte des liens entre les dispositions pénales sur l'évasion fiscale et les règles du droit en matière fiscale. Dans la mesure où cet arrêt porte à croire qu'une nouvelle cotisation n'est qu'une modification de la cotisation antérieure et qu'elle n'annule pas celle-ci, il n'est pas compatible avec la jurisprudence actuelle.
+Super Jewellers c. M.R.N., 86 D.T.C. 1404 (C.C.I.) (ONGLET 28)
+112. La Cour d'appel fédérale vient de confirmer qu'une nouvelle cotisation portant sur l'obligation fiscale totale d'un contribuable annule effectivement une cotisation antérieure :
+« La délivrance des avis de nouvelle cotisation pour les années en question, le 8 novembre 1999, avait pour effet de remplacer les avis de nouvelle cotisation du 11 juillet 1995. Les avis de nouvelle cotisation du 11 juillet 1995 sont devenus nuls et la Cour de l'impôt ne pouvait accorder aucune réparation si un appel était interjeté à leur égard. Ces avis ont cessé d'exister lorsque les nouvelles cotisations du 8 novembre 1999 ont été établies et il n'y avait rien que la Cour de l'impôt puisse modifier ou renvoyer au ministre. Voir Abrahams (No. 1) c. Minister of National Revenue (1966), 66 D.T.C. 5451, page 5453 (C. de l'É.). »
+TransCanada Pipelines Limited c. La Reine, no A-535-00, 19 octobre 2001, au paragraphe 12, 2001 D.T.C. 5625, à la page 5628 (C.A.F.) (ONGLET 29)
+113. La nouvelle cotisation du 18 septembre 2003 visant l'année d'imposition 1992 de Newmont fixe l'obligation fiscale totale de Newmont. Ce fait peut être constaté sur l'avis de nouvelle cotisation et a été confirmé par M. Fogel en contre-interrogatoire. Par conséquent, la nouvelle cotisation du 18 septembre 2003 à l'égard de 1992 a annulé et remplacé la cotisation du 6 août 1997 à l'égard de 1992 qui avait fait l'objet antérieurement d'une opposition par Newmont.
+Alinéa 169(2.1)b)
+114. L'alinéa 169(2.1)b) ne s'applique pas à l'appel de Newmont à l'encontre de l'avis de nouvelle cotisation du 18 septembre 2003 concernant l'année 1992. Cet alinéa ne peut entrer en jeu que si les conditions énoncées dans le préambule de l'alinéa 169(2.1)b)sont satisfaites, c'est-à-dire qu' « une grande société [...] signifie un avis d'opposition à une cotisation » . Newmont n'a pas signifié d'avis d'opposition à l'avis de nouvelle cotisation du 18 septembre 2003 visant l'année 1992.
+115. L'alinéa 169(2.1)b)limite les questions que peut soulever la grande société à « une question visée au paragraphe 165(1.14) » , c'est-à-dire à une nouvelle question soulevée par le ministre dans la nouvelle cotisation établie conformément au paragraphe 165(3) en réponse à l'avis d'opposition du contribuable, et cette situation ne s'applique pas à Newmont.
+[15] J'accepte la thèse de Newmont que la nouvelle cotisation d'août 1997 était la « cotisation » qui avait initialement fait l'objet d'une opposition et que cette « cotisation » a été annulée par la nouvelle cotisation du 18 septembre 2003. Je n'accepte pas la conclusion de Newmont, toutefois, à savoir que cette annulation du calcul précédent de sa dette fiscale avait pour effet également d'annuler le dépôt d'un avis d'opposition par Newmont à l'encontre de la cotisation d'août 1997, de sorte qu'il était devenu impossible pour Newmont d'interjeter appel en vertu du paragraphe 169(1) et qu'il lui était donc possible d'éviter les restrictions énoncées au paragraphe 169(2.1).
+[16] À l'audience, Newmont s'est reportée au paragraphe 7 de l'arrêt Lambert c. La Reine[7]pour appuyer son argument qu'une « nouvelle cotisation » ne constitue pas une « cotisation » . Il s'agit là, d'après moi, d'une interprétation erronée de cette décision, mais, de toute manière, dans cette affaire, le contribuable tentait d'éviter de payer des montants payables au titre de l'impôt impayé en vertu d'un certificat prévu à l'article 223 en soutenant que les nouvelles cotisations en vigueur lorsque le certificat a été délivré avaient été annulées par de nouvelles cotisations subséquentes, annulant par le fait même la dette attestée par le certificat. Je suis d'accord avec la Couronne, lorsqu'elle souligne que les pages 6 et 7 renferment une explication plus complète du rejet, par le juge en chef Jackett, de l'argument avancé par Newmont :
+L'examen de ces cotisations nous porte à croire que, contrairement à ce qu'a semblé décider le premier juge, ces cotisations ne sont pas des cotisations supplémentaires. Il n'est pas nécessaire, cependant, de trancher cette question parce que ces cotisations, quelqu'en ait été la nature, n'ont pas eu pour effet, à notre avis, d'affecter la validité du certificat établi en vertu de l'article 223 ou de conférer à l'appelant le droit de demander l'annulation du certificat.
+Comme il apparaît de la revue que nous avons faite des dispositions de la loi, il y a une différence entre
+a) l'obligation de payer l'impôt en vertu de la loi, et
+b) la « cotisation » (qu'il s'agisse d'une cotisation originaire, d'une nouvelle cotisation ou d'une cotisation supplémentaire), qui n'est que la détermination ou le calcul du montant de l'obligation fiscale.
+Il s'ensuit que l'établissement d'une nouvelle cotisation ne fait pas disparaître l'obligation de payer le montant d'impôt fixé par une cotisation antérieure dès lors que ce montant est inclus dans celui que fixe la nouvelle cotisation. [...]
+Plus récemment, la Cour d'appel fédérale est parvenue à la même conclusion dans l'affaire R. c. Loewen[8], où le juge Sharlow expliquait ce qui suit au paragraphe 6 :
+[6] La cotisation est la méthode employée par le ministre pour calculer le montant de l'impôt payable par le contribuable (Pure Spring Co. Ltd. v. Minister of National Revenue, [1946] R.C.É. 471). La cotisation initiale du contribuable pour une année d'imposition est habituellement établie en fonction des revenus déclarés par le contribuable dans sa déclaration fiscale. Il est possible de faire appel d'une cotisation initiale, mais la plupart des appels portent sur de nouvelles cotisations, dans lesquelles le ministre réclame un complément d'impôt pour tenir compte de certains changements survenus dans le revenu imposable du contribuable. On emploie le mot « cotisation » pour désigner tant la cotisation initiale que la nouvelle cotisation.[Je souligne.]
+[17] Par conséquent, si le ministre établit une nouvelle cotisation (qu'il s'agisse d'une cotisation initiale ou d'une nouvelle cotisation subséquente) et que le contribuable n'est toujours pas satisfait du résultat, il a deux choix : il peut signifier un autre avis d'opposition au ministre en vertu du paragraphe 165(1) ou il peut invoquer le paragraphe 165(7) pour éviter cette étape et interjeter appel directement auprès de la Cour canadienne de l'impôt conformément au paragraphe 169(1). Newmont prétend qu'une nouvelle cotisation relative à l'impôt visé par la cotisation initiale annule cette cotisation initiale[9], et cet argument n'est pas contesté[10].Il ne s'ensuit pas, toutefois, que le contribuable ne fait plus l'objet d'une cotisation qui puisse être portée en appel lorsque le ministre établit une nouvelle cotisation après l'avis d'opposition initial. Cela signifie simplement, comme il est expliqué dans l'arrêt Lambert, que le plus récent calcul fait par le ministre de l'impôt payable par le contribuable pour cette année d'imposition remplace celui qui avait été fait auparavant. En conséquence, même si le montant de l'impôt à payer peut changer, la dette fiscale sous-jacente du contribuable et son droit de contester chaque décision du ministre ne changent pas.
+[18] Aux paragraphes 116 à 120 de la dernière partie de l'argument concernant le motif c), Newmont renvoie la Cour à divers jugements et ouvrages de doctrine pour orienter son interprétation du paragraphe 169(1). En particulier, Newmont cite la Cour suprême du Canada dans l'arrêt Shell Canada Ltée c. La Reine[11],où la Cour déclare ce qui suit : « Lorsque la disposition en cause est claire et non équivoque, elle doit simplement être appliquée. » Bien qu'ils soient rédigés dans le style peu élégant typique de la Loi, les articles 165 et 169 sont néanmoins clairs et non équivoques : lorsqu'ils sont simplement appliqués, ils signifient que, peu importe qu'on se trouve à l'étape de l'opposition ou de l'appel, lorsqu'elle conteste la cotisation établie par le ministre au sujet de sa dette fiscale, une grande société sera restreinte aux questions pour lesquelles elle s'est conformée au paragraphe 165(1.11). Le droit de s'opposer à une cotisation se fonde sur le paragraphe 165(1), où il est énoncé qu'un contribuable « peut » , dans les délais prescrits, signifier au ministre, « par écrit, un avis d'opposition exposant les motifs de son opposition et tous les faits pertinents » . Si le contribuable est une grande société, cependant, les conditions se resserrent : selon le paragraphe 165(1.11), la grande société qui s'oppose à une cotisation doit :
+a) donner une description suffisante de chaque question à trancher;
+b) préciser, pour chaque question, le redressement demandé [d'une certaine manière];
+c) fournir, pour chaque question, les motifs et les faits sur lesquels se fonde la société.
+[19] Lorsqu'une grande société ne respecte pas les alinéas b) ou c), le paragraphe 165(1.12) permet qu'elle soit réputée s'être conformée à ces alinéas si, dans les 60 jours suivant la réception de l'avis écrit du ministre faisant état des lacunes, elle communique par écrit les renseignements manquants. Aucune dérogation n'est toutefois permise à l'égard des questions en litige elles-mêmes. Les paragraphes 165(1.13) et 165(1.14) limitent le droit d'une grande société de s'opposer aux nouvelles cotisations supplémentaires établies relativement à l'opposition initiale aux seules questions qui ont été dûment décrites conformément au paragraphe 165(1.11), sauf lorsque de nouvelles questions sont soulevées par le ministre dans les nouvelles cotisations subséquentes. De même, lorsqu'une grande société choisit de ne pas formuler de nouvelles oppositions selon le paragraphe 165(7) et d'interjeter appel auprès de la Cour canadienne de l'impôt conformément au paragraphe 169(1), le paragraphe 169(2.1) vient limiter les questions qui peuvent être soulevées dans l'appel aux questions qui avaient été décrites initialement conformément au paragraphe 165(1.11). Dans la situation de Newmont, par leur effet conjugué, les articles 165 et 169 empêchent l'appelante d'inclure la question relative au prêt d'or dans son avis d'appel.
+[20] La Cour d'appel fédérale s'est exprimée sur l'effet des règles relatives aux grandes sociétés dans l'arrêt R. c. Potash Corporation of Saskatchewan Inc.[12] :
+Je reconnais que ce résultat est dur pour PCS et qu'il s'agit d'une règle dure pour les grandes sociétés. En effet, une grande société qui découvre une erreur dans une déclaration de revenu après avoir déposé un avis d'opposition ou un avis d'appel pourrait constater qu'elle ne peut pas engager des procédures en vue d'obliger le ministre à corriger l'erreur. Toutefois, tel est le résultat visé par le législateur.
+[21] Le juge Malone expliquait comme suit l'objectif des règles relatives aux grandes sociétés au paragraphe 4 de cette décision :
+Les Règles relatives aux grandes sociétés ont été prises en 1995 en vue de décourager les grandes sociétés de réorganiser complètement leurs déclarations de revenu pour une année particulière, après que la procédure d'opposition ou d'appel a été engagée, en se fondant sur de nouvelles interprétations et sur le résultat de décisions judiciaires rendues dans des litiges intéressant d'autres contribuables. R.M. Beith a bien établi la raison d'être de ces dispositions dans le document intitulé « Draft Legislation on Income Tax Objections and Appeals » figurant dans le Report of Proceedings of the Forty-Sixth Tax Conference, 1994 Conference Report (Toronto : Association canadienne d'études fiscales, 1995), 34:2 :
+[TRADUCTION] La législation en question vise notamment à définir beaucoup plus tôt les questions contestées, de façon que l'obligation fiscale finale se rapportant à une année d'imposition puisse être déterminée en temps opportun.
+Étant donné la complexité de la législation et le nombre de questions soulevées, les années d'imposition d'un nombre important de grandes sociétés sont longtemps demeurées en suspens pendant que des oppositions ou des appels étaient en instance, de sorte que ces sociétés ont pu soulever de nouvelles questions en se fondant sur de nouvelles interprétations et sur le résultat de décisions judiciaires contestées par d'autres contribuables.
+Récemment, le vérificateur général et le Comité des comptes publics ont décelé un problème particulier. Une affaire portant sur le calcul de la « déduction relative aux ressources » qui avait abouti à une décision défavorable au ministère a donné lieu à des demandes qui étaient non seulement fondées sur les faits particuliers sur lesquels la cour s'était prononcée, mais aussi sur une nouvelle question se rapportant au calcul de la « déduction relative aux ressources » . Ces demandes, découlant directement et indirectement de la décision rendue par le tribunal, mettaient en cause des montants élevés, au titre de l'impôt et des intérêts.
+En résumé, il est essentiel que les revenus soient davantage prévisibles et que les obligations potentielles soient donc déterminées et réglées dans un délai plus raisonnable.
+Bref, le Parlement veut que le ministre du Revenu national (le ministre) puisse établir le plus tôt possible la nature et le montant de l'obligation fiscale en souffrance et ses effets fiscaux possibles.
+[22] Compte tenu de mes conclusions, les arguments avancés par Newmont au motif a), « Renonciation » , et au motif b), « Préclusion » , doivent aussi être rejetés. Le législateur a précisé les conditions qui doivent être satisfaites avant que certaines questions puissent être soulevées dans un appel fait par une grande société; la Cour canadienne de l'impôt n'a donc pas compétence pour décider des appels relatifs à des questions qui ne respectent pas ces conditions. Les règles de droit empêchent clairement les parties d'élargir la compétence de la Cour par consentement[13]. De même, le principe de la préclusion n'est d'aucune aide pour Newmont; au paragraphe 33 de ses observations écrites, la Couronne a repris les termes suivants de la Cour d'appel fédérale tirés de l'arrêt Hawkes c. La Reine[14] :
+Il est bien établi en droit que l'irrecevabilité ne peut avoir pour effet d'empêcher le ministre de s'acquitter des obligations qui lui incombent en vertu de la Loi de l'impôt sur le revenu, savoir l'établissement de cotisations adéquates à l'égard des déclarations de revenu, et ce, d'une manière conforme à la loi.
+et la déclaration, à la page 17, du juge Bowman (alors juge en chef adjoint) dans l'arrêt Consoltex c. La Reine[15] :
+La doctrine [de préclusion] n'a aucune application lorsqu'une interprétation particulière d'une loi a été communiquée à un sujet par un fonctionnaire de l'État, que le sujet s'est fondé sur cette interprétation à son détriment et que le gouvernement a ensuite retiré ou modifié l'interprétation. Dans un tel cas, un contribuable cherche parfois à invoquer la doctrine de la préclusion. Ce n'est pas approprié, non pas parce que ces déclarations donnent lieu à une préclusion qui ne lie pas la Couronne, mais plutôt parce qu'aucune préclusion ne peut se poser lorsque de telles déclarations ne sont pas conformes au droit. Bien que la préclusion soit maintenant un principe de droit positif, elle prend son origine dans le droit de la preuve et, en tant que telle, se rapporte aux déclarations de faits. Elle n'a aucun rôle à jouer lorsque des questions d'interprétation du droit sont en cause, car la préclusion ne peut déroger au droit.
+[23] Comme Newmont l'a admis à l'audience, si elle ne peut invoquer la renonciation ni la préclusion, le paragraphe 169(2.1) doit s'appliquer à ses appels relatifs aux années d'imposition 1990 et 1991.
+[24] Par conséquent, la requête de la Couronne est accueillie, avec dépens relatifs à deux avocats, et il est ordonné ce qui suit :
+a) les paragraphes 40 à 52, l'alinéa 53c) et le paragraphe 62 sont radiés de l'avis d'appel de Newmont;
+b) la Couronne dispose de 30 jours suivant la date de la présente requête pour déposer sa réponse à l'avis d'appel.
+Signé à Ottawa, Canada, ce 31e jour de mars 2005.
+« G. Sheridan »
+Juge Sheridan
+Traduction certifiée conforme
+ce 25e jour de janvier 2006.
+Yves Bellefeuille, réviseur
+[1]Paragraphe 225.1(8).
+[2]Water's Edge Village Estates (Phase II) Ltd. c. La Reine, no T-1193-93, 12 janvier 1994, 94 D.T.C. 6284 (C.F., 1ère inst.).
+[3]no A-1206-83, 12 juin 1984, 84 D.T.C. 6345.
+[4]no A-535-00, 19 octobre 2001, au paragraphe 19, 2001 D.T.C. 5625, à la page 5629.
+[5]Paragraphe 96, résumé des plaidoiries de Newmont.
+[6]En quelques mots, il s'agit d'une nouvelle cotisation établie par le ministre pour mettre en vigueur les modalités d'un règlement intervenu entre le ministre et le contribuable.
+[7]no A-138-74, 7 septembre 1976, 76 D.T.C. 6373 (C.A.F.)
+[8][2004] 4 R.C.F. 3, 2004 D.T.C. 6321 (C.A.F.)
+[9]Abraham (No. 1) v. M.N.R., 66 D.T.C. 5451 (C. de l'É.); TransCanada Pipelines Limited c. La Reine, no A-535-00, 19 octobre 2001, 2001 D.T.C. 5625 (C.A.F.); Walkem c. M.R.N., 71 D.T.C. 5288 (C.F. 1re inst.).
+[10]Paragraphe 51, observations écrites de la Couronne.
+[11][1999] 3 R.C.S. 622, au paragraphe 40, 99 D.T.C. 5669, à la page 5676 (C.S.C.).
+[12]no A-61-03, 8 décembre 2003, 2004 D.T.C. 6002 (C.A.F.), autorisation du pourvoi à la C.S.C. refusé le 10 juin 2004.
+[13]R. c. Krahenbil, no A-189-99, 23 mai 2000,[2000] 3 C.T.C. 178 (C.A.F.); Lapointe-Fisher Nursing Home, Ltd. c. M.R.N., no 84-2205(IT), 6 mai 1986, 86 D.T.C. 1357 (C.C.I.); Talbot c. M.R.N., no 90-1672(IT), 21 mai 1992, 92 D.T.C. 1991 (C.C.I.).
+[14]no A-46-96, 23 décembre 1996, 97 D.T.C. 5060 (C.A.F.).
+[15]no 94-990(IT)G, 4 mars 1997, 97 D.T.C. 724 (C.C.I.).

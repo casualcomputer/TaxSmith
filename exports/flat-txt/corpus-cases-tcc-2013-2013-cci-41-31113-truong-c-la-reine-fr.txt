@@ -1,0 +1,159 @@
+Title: Truong c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/31113/index.do
+Corpus path: corpus/cases/tcc/2013/2013-cci-41-31113-truong-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2013-02-28
+
+# Truong c. La Reine
+
+- Citation: 2013 CCI 41
+- Decision date: 2013-02-28
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4762, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Truong c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2013-02-28
+Référence neutre
+2013 CCI 41
+Numéro de dossier
+2010-2655(GST)I
+Juges et Officiers taxateurs
+Robert James Hogan
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2010-2655(GST)I
+ENTRE :
+NGHIEP MINH TRUONG et
+HON NGUYEN
+appelants,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu sur preuve commune avec l’appel
+de Nghiep Minh Truong (2010-2689(IT)G)
+les 5, 6 et 7 novembre 2012, à Regina (Saskatchewan).
+Devant : L’honorable juge Robert J. Hogan
+Comparutions :
+Pour l’appelant Nghiep Minh Truong :
+L’appelant lui‑même
+Pour l’appelante Hon Nguyen :
+M. Nghiep Minh Truong
+Avocat de l’intimée :
+Me John Krowina
+JUGEMENT
+L’appel interjeté à l’égard des cotisations établies en vertu de la Loi sur la taxe d’accise pour les périodes de déclaration comprises entre le 1er avril 2005 et le 31 décembre 2006 est accueilli, et l’affaire est déférée au ministre du Revenu national pour nouvel examen et nouvelles cotisations, conformément aux motifs du jugement ci‑joints.
+Chaque partie assumera ses propres dépens.
+Signé à Calgary (Alberta), ce 28e jour de février 2013.
+« Robert J. Hogan »
+Juge Hogan
+Traduction certifiée conforme
+ce 9e jour d’avril 2013.
+Alya Kaddour‑Lord, traductrice
+Dossier : 2010-2689(IT)G
+ENTRE :
+NGHIEP MINH TRUONG,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu sur preuve commune avec l’appel
+de Nghiep Minh Truong et de Hon Nguyen (2010-2655(GST)I)
+les 5, 6 et 7 novembre 2012, à Regina (Saskatchewan).
+Devant : L’honorable juge Robert J. Hogan
+Comparutions :
+Pour l’appelant :
+L’appelant lui‑même
+Avocat de l’intimée :
+Me John Krowina
+JUGEMENT
+L’appel interjeté à l’égard des nouvelles cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 2004, 2005 et 2006 est accueilli, la nouvelle cotisation établie pour l’année d’imposition 2004 est annulée, et les nouvelles cotisations établies pour les années d’imposition 2005 et 2006 sont déférées au ministre du Revenu national pour nouvel examen et nouvelles cotisations, conformément aux motifs du jugement ci‑joints.
+Chaque partie assumera ses propres dépens.
+Signé à Calgary (Alberta), ce 28e jour de février 2013.
+« Robert J. Hogan »
+Juge Hogan
+Traduction certifiée conforme
+ce 9e jour d’avril 2013.
+Alya Kaddour‑Lord, traductrice
+Référence : 2013 CCI 41
+Date : 20130228
+Dossiers : 2010-2655(GST)I
+2010-2689(IT)G
+ENTRE :
+NGHIEP MINH TRUONG et
+HON NGUYEN
+appelants,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Hogan
+[1] Par avis de nouvelles cotisations daté du 15 avril 2009, le ministre du Revenu national (le « ministre ») a établi de nouvelles cotisations à l’égard de Nghiep Minh Truong relativement à l’impôt que celui‑ci devait payer pour les années d’imposition 2004, 2005 et 2006, en ajoutant à son revenu des revenus non déclarés.
+[2] Le ministre a employé la méthode de la valeur nette pour ajouter 8 185 $, 124 709 $ et 133 289 $ de revenus d’entreprise prétendument non déclarés au revenu de M. Truong pour les années d’imposition 2004, 2005 et 2006 respectivement. Le ministre a également imposé des pénalités pour faute lourde en application du paragraphe 163(2) de la Loi de l’impôt sur le revenu pour ces mêmes années d’imposition.
+[3] En outre, le ministre a établi une cotisation à l’égard de M. Truong et de sa conjointe de fait, Hon Nguyen, pour un montant de taxe sur les produits et services (« TPS ») impayée, et il a imposé des pénalités et des intérêts totalisant 41 405,47 $ pour les périodes de déclaration comprises entre le 1er avril 2005 et le 31 décembre 2006 (la « période pertinente »), au motif que les deux conjoints de fait travaillaient ensemble en tant qu’associés (la « société de personnes ») et que cette société de personnes avait omis de percevoir et de verser la TPS sur son revenu net de 16 371,68 $ pour 2004, de 249 419,05 $ pour 2005 et de 266 579,21 $ pour 2006.
+[4] Les présents appels ont été entendus sur preuve commune.
+Le contexte
+[5] Au début de l’audience, l’intimée a produit un document révisé relatif à la valeur nette qui contenait des changements fondés sur des observations présentées par M. Truong ou pour le compte de celui‑ci et acceptées par l’intimée. En se fondant sur ce document, l’intimée a admis que la nouvelle cotisation établie à l’égard de M. Truong pour l’année d’imposition 2004 devrait être annulée et que le montant du revenu prétendument non déclaré de M. Truong devrait être révisé et porté à 106 679,55 $ et à 133 740,02 $ pour les années d’imposition 2005 et 2006. Les parties conviennent que les cotisations de TPS mentionnées au paragraphe 3 ci‑dessus devraient être rajustées en conséquence.
+[6] La preuve montre que l’Agence du revenu du Canada (l’« ARC ») a entrepris une vérification à l’égard de M. Truong et de Mme Nguyen après que le cas lui a été renvoyé par l’Unité mixte des produits de la criminalité (l’« UMPC ») de la Gendarmerie royale du Canada.
+[7] L’UMPC a informé l’ARC que M. Truong et Mme Nguyen avaient été accusés de trafic de marijuana et de blanchiment d’argent ainsi que d’autres infractions connexes. Les accusations ont été portées par suite de perquisitions menées dans diverses maisons ayant servi à la culture de marijuana ainsi que dans des résidences privées et sur les lieux de travail des parties. Mme Nguyen et M. Truong ont finalement été reconnus coupables des accusations qui avaient été portées contre eux et se sont vu imposer des peines de prison.
+[8] L’ARC a employé la méthode de la valeur nette pour établir la cotisation étant donné que, dans le contexte de leurs activités illicites, Mme Nguyen et M. Truong avaient reçu des paiements en espèces.
+[9] L’écart qui a été défini au moyen de l’analyse de la valeur nette a été attribué à M. Truong et à Mme Nguyen en parts égales parce que les deux parties ont participé ensemble à la production et au trafic de marijuana, tout comme ils ont mené ensemble leurs activités de blanchiment d’argent. M. Truong et Mme Nguyen avaient à leurs noms des biens achetés avec les fonds tirés de leurs activités criminelles.
+[10] L’ARC a décidé de ne pas établir de nouvelle cotisation en matière d’impôt sur le revenu à l’égard de Mme Nguyen relativement à sa part de revenu non déclaré calculée au moyen de l’analyse de la valeur nette parce que l’appelante a déclaré faillite avant le début de la vérification. De nouvelles cotisations de TPS ont toutefois été établies à son égard et à l’égard de M. Truong, et des pénalités leur ont été imposées pour la période pertinente relativement au revenu non déclaré attribuable à cette période.
+Analyse
+[11] Il est bien établi que le revenu d’un contribuable est imposable, peu importe la source de ce revenu. Un contribuable doit tenir des documents comptables fiables pour l’ensemble de son revenu, y compris le revenu provenant de sources illégales. S’il ne le fait pas, le ministre peut établir une cotisation dite arbitraire au moyen de toute méthode qui serait appropriée dans les circonstances.
+[12] M. Truong prétend que, dans l’analyse de la valeur nette, il n’a pas été tenu compte d’un don en argent comptant de 200 000 $ reçu de ses parents le 5 octobre 2005, ou avant cette date. D’après M. Truong, cette somme lui a servi à effectuer un versement initial de 100 000 $ sur une maison située au 12 Kennedy Road, à White City, en Saskatchewan.
+[13] Je n’accepte pas le témoignage de M. Truong sur ce point. La preuve montre que M. Truong et Mme Nguyen ont eu recours à des lettres de dons et d’emploi falsifiées pour favoriser leur obtention de prêts bancaires en vue d’acquérir des biens immobiliers. Ils ont utilisé le produit de leurs activités illégales pour effectuer des versements initiaux sur les biens, versements équivalant aux montants dont il était fait état dans les fausses lettres de dons. Cela faisait partie d’un stratagème complexe visant à blanchir ou à dissimuler le produit tiré de la vente de marijuana.
+[14] La Couronne soutient que je devrais être lié par les conclusions de fait tirées par le juge de première instance dans la décision R. v. Truong, 2010 SKQB 127, instance criminelle antérieure dans laquelle il a été conclu qu’une somme de 71 440 $ appartenait aux appelants en l’espèce et à Nhut Minh Truong, frère de Nghiep Ming Truong.
+[15] Dans cette affaire, trois des quatre accusés, à savoir Nghiep Minh Truong, Hon Thi Nguyen et Nhut Minh Truong, ont été accusés de trois infractions, mais seule l’infraction prévue par le paragraphe 354(1) du Code criminel est pertinente en l’espèce. Cette disposition prévoit que commet une infraction quiconque a en sa possession un bien ou son produit qui provient directement ou indirectement du trafic d’une substance désignée. Lors de l’audience en matière pénale, le juge de première instance a conclu que la somme de 71 440 $ avait été récupérée dans huit emplacements différents liés aux infractions, mais qu’il n’y avait pas de preuve claire relativement au montant des sommes découvertes à chaque endroit. Le juge de première instance a conclu que le fait que des sommes exactes ne soient pas associées à chaque emplacement ne portait pas à conséquence. Finalement, le juge de première instance a conclu que les trois accusés avaient connaissance de l’argent trouvé, et exerçaient un certain contrôle sur celui‑ci (au paragraphe 102).
+[16] L’élément principal de l’infraction prévue au paragraphe 354(1) est la possession du produit. Le paragraphe 4(3) du Code criminel a été interprété comme instituant trois types de possessions : la possession personnelle (à l’alinéa 4(3)a)), la possession présumée (aux sous‑alinéas 4(3)a)(i) et (ii); et la possession conjointe (à l’alinéa 4(3)b)) (R. v. Pham, [2005] O.J. No. 5127 (QL), au paragraphe 14 (C.A. de l’Ont.). Plus précisément, l’alinéa 4(3)b) stipule que lorsqu’une de deux ou plusieurs personnes, au su et avec le consentement de l’autre ou des autres, a une chose en sa garde ou possession, cette chose est censée [être] en la garde et possession de toutes ces personnes et de chacune d’elles. La connaissance et le consentement font partie intégrante de la possession conjointe, mais ils « ne peuvent exister sans qu’il y ait un certain contrôle du bien en cause » (R. c. Terrence, [1983] 1 R.C.S. 357, à la page 363, 1983 CarswellOnt 67, au paragraphe 15, citant la décision R. v. Colvin and Gladue, [1943] 1 D.L.R. 20, à la page 25).
+[17] Dans le Code criminel, le terme « possession » a un sens différent de celui que la notion de propriété revêt en droit civil et en droit fiscal. Le Black’s Law Dictionary, 9e éd., définit la « propriété » comme [traduction] « un ensemble de droits permettant d’user d’un bien, de le gérer et d’en jouir, y compris le droit de le transférer à des tiers […] indépendamment de tout contrôle réel ou présumé ». Le professeur Ziff décrit la propriété comme étant constituée de quatre éléments clés : (i) la possession, la gestion et le contrôle; (ii) le revenu et le capital; (iii) le transfert entre vifs et au décès; et (iv) la protection en vertu de la loi (Bruce Ziff, Principles of Property Law, 5e éd. (Toronto, Carswell, 2010), à la page 3). Selon les principes fondamentaux du droit des biens, la propriété exige davantage que la simple possession et « un certain contrôle » du bien.
+[18] À l’audience, M. Truong a déclaré que, sur les 71 440 $ susmentionnés, 50 000 $ appartenaient à son beau‑frère, M. Van Hung Nguyen. M. Nguyen l’a confirmé, déclarant que ces fonds n’appartenaient qu’à lui. D’après M. Nguyen, il avait laissé ces fonds chez l’appelant dans le but de les mettre en lieu sûr. Même si elle était en la possession des appelants, la somme de 50 000 $ en liquide appartenait à M. Nguyen. Il avait le droit d’en user, de la gérer et d’en jouir, indépendamment du fait que les appelants l’avaient en leur possession. Je prends note du fait que l’admission de M. Nguyen lui est nuisible, étant donné qu’elle pourrait amener l’ARC à établir une nouvelle cotisation à son égard au motif qu’il a gagné un revenu non déclaré.
+[19] La preuve montre qu’une somme en espèces d’approximativement 71 440 $ a été trouvée au domicile de M. Truong. Sur ce montant, à peu près 50 000 $ ont été trouvés dans un fourre‑tout qui contenait le passeport de M. Van Hung Nguyen, qui est, comme il a été précisé plus tôt, le beau‑frère de M. Truong.
+[20] Même si la preuve relative à ce point n’est pas parfaite, je conclus que les appelants ont établi, selon la prépondérance des probabilités, que la somme de 50 000 $ qui a été trouvée dans le fourre‑tout ne leur appartenait pas, et, par conséquent, qu’il ne s’agissait pas d’un revenu non déclaré. Par conséquent, ce montant sera exclu du calcul de la valeur nette effectué à leur égard pour la période qui s’est terminée le 31 décembre 2006.
+[21] La preuve montre que M. Truong a retiré une somme en espèces de 50 000 $ sur une marge de crédit le 31 août 2006. Le vérificateur de l’ARC qui a effectué l’analyse de la valeur nette a traité ce montant comme un actif supplémentaire des appelants pour la période qui s’est terminée le 31 décembre 2006. M. Truong soutient que ce montant devrait être exclu du calcul de la valeur nette parce que Mme Nguyen s’est servie des fonds pour acheter le bien « 5 Quappelle RM 157 ». L’analyse de la valeur nette traduit le fait qu’environ 33 576 $ ont été utilisés pour acheter ce bien. Vu qu’on a déjà tenu compte des dépenses et des biens personnels du couple dans l’analyse de leur valeur nette, y compris de l’argent en espèces, l’inclusion de ce retrait d’espèces dans le calcul effectué par l’ARC a donné lieu à une double comptabilisation, inappropriée, de ce montant.
+[22] Compte tenu de ce qui précède, les appels en matière d’impôt sont accueillis de la manière suivante :
+a) La nouvelle cotisation établie pour l’année d’imposition 2004 est annulée.
+b) La nouvelle cotisation établie pour l’année d’imposition 2005 est déférée au ministre pour nouvel examen et nouvelle cotisation, compte tenu du fait que le revenu non déclaré de M. Truong pour cette année s’élève à 106 679,59 $. Les pénalités pour faute lourde devront être rajustées en conséquence.
+c) La nouvelle cotisation établie pour l’année d’imposition 2006 est déférée au ministre pour nouvel examen et nouvelle cotisation, compte tenu du fait que le revenu non déclaré de M. Truong pour cette année s’élève à 83 740 $. Cela donne effet au rajustement total de 100 000 $, dont il a été question plus tôt, et dont la moitié est attribuable à M. Truong. Les pénalités pour faute lourde devront être rajustées en conséquence.
+[23] L’appel interjeté à l’égard de la cotisation de TPS est accueilli, et l’affaire est déférée au ministre pour nouvel examen et nouvelle cotisation, conformément aux présents motifs du jugement.
+[24] Vu que le résultat est partagé, chaque partie assumera ses propres dépens.
+Signé à Calgary (Alberta), ce 28e jour de février 2013.
+« Robert J. Hogan »
+Juge Hogan
+Traduction certifiée conforme
+ce 9e jour d’avril 2013.
+Alya Kaddour‑Lord, traductrice
+RÉFÉRENCE : 2013 CCI 41
+NOS DES DOSSIERS DE LA COUR : 2010-2655(GST)I
+2010-2689(IT)G
+INTITULÉS : Nghiep Minh Adam Truong et Hon Nguyen c. Sa Majesté la Reine,
+Nghiep Minh Truong c. Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Regina (Saskatchewan)
+DATE DE L’AUDIENCE : Les 5, 6 et 7 novembre 2012
+DATE DU JUGEMENT : Le 28 février 2013
+COMPARUTIONS :
+Pour l’appelant Nghiep Minh
+Adam Truong :
+L’appelant lui‑même
+Pour l’appelante Hon Nguyen :
+M. Nghiep Minh Adam Truong
+Avocat de l’intimée :
+Me John Krowina
+AVOCATS INSCRITS AU DOSSIER :
+Pour les appelants :
+Nom :
+Cabinet :
+Pour l’intimée : William F. Pentney
+Sous‑procureur général du Canada
+Ottawa, Canada

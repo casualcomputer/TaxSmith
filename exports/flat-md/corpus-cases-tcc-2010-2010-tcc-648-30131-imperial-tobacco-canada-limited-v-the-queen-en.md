@@ -1,0 +1,191 @@
+---
+title: "Imperial Tobacco Canada Limited v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30131/index.do"
+last_modified: "2010-12-21"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 TCC 648"
+citation2: ""
+neutral_citation: "2010 TCC 648"
+decision_date: "2010-12-21"
+language: "en"
+item_id: "30131"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7798
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T01:44:51.032000+00:00"
+cases_cited_count: 4
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "f8d89b3c24f9adb21bab8d5b96ca6195ee505547fc94ce03f358f8e355bc51ae"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Imperial Tobacco Canada Limited v. The Queen
+
+- Citation: 2010 TCC 648
+- Decision date: 2010-12-21
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7798, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Imperial Tobacco Canada Limited v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-12-21
+Neutral citation
+2010 TCC 648
+File numbers
+2008-402(IT)G
+Judges and Taxing Officers
+Eric A. Bowie
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2008-402(IT)G
+BETWEEN:
+IMPERIAL TOBACCO CANADA LIMITED,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on October 20, 2009, at Toronto, Ontario
+By: The Honourable Justice E.A. Bowie
+Appearances:
+Counsel for the Appellant:
+Al Meghji and Patrick Marley
+Counsel for the Respondent:
+Marie-Thérèse Boris and Bobby Sood
+____________________________________________________________________
+JUDGMENT
+The appeals from assessments made under the Income Tax Act for the taxation years ending December 31, 1999 and February 1, 2000 are dismissed, with cost.
+Signed at Ottawa, Canada, this 21st day of December 2010.
+“E.A. Bowie”
+Bowie J.
+Citation: 2010 TCC 648
+Date: 20101221
+Docket: 2008-402(IT)G
+BETWEEN:
+IMPERIAL TOBACCO CANADA LIMITED,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Bowie J.
+[1] These appeals are brought from assessments for income tax for the appellant’s two taxation years ended December 31, 1999 and February 1, 2000. The appeal for the taxation year 2000 is concerned with the appellant’s claim that it is entitled, in computing its business income for that year, to deduct amounts aggregating $118,575,528 as employee compensation paid to satisfy its obligations under an employee stock option plan. The Minister of National Revenue, in assessing the appellant, has taken the position that the amounts are not deductible. He says that they are not amounts paid as employee compensation at all, but rather amounts laid out by the appellant in the course of the corporate reorganization to rid itself of an employee stock option plan, the deduction of which is precluded by paragraph 18(1)(b) of the Income Tax Act.[1] That provision reads as follows:
+18(1) In computing the income of a taxpayer from a business or property no deduction shall be made in respect of
+(a) …
+(b) an outlay, loss or replacement of capital, a payment on account of capital or an allowance in respect of depreciation, obsolescence or depletion except as expressly permitted by this Part;
+[2] The appeal for the 1999 taxation year arises out of the appellant’s claim to carry back a loss from 2000. Its success or failure will be determined by the result in the appeal for the taxation year 2000.
+[3] The circumstances surrounding the payments in question are described in a comprehensive Statement of Agreed Facts, and the accompanying documents that are referred to in it, that were filed at the opening of the trial. These were augmented by read-ins from the examinations for discovery of both parties. Counsel for the Respondent objected on the basis of relevance to the admissibility of two documents at Tabs 10 and 11 of the extract from the discovery of the Respondent’s representative herein. These summarized payments made by the appellant to employees under various employee incentive plans. I reserved my ruling on this objection. I have concluded that the documents should be admitted, but only as proof of the fact that the payments were made and not as to the treatment of those payments by the Minister, which is irrelevant to the issue before me. Indeed, they add nothing useful to the facts agreed upon.
+[4] I shall reproduce the Agreed Statement of Facts in its entirety.
+STATEMENT OF AGREED FACTS
+The parties to this proceeding admit, for the purposes of this proceeding only, the truth of the following facts:
+1. The Appellant, Imperial Tobacco Canada Limited ("ITCL"), is the successor by amalgamation to Imasco Limited ("Imasco"). Imasco was a public corporation and a taxable Canadian corporation for purposes of the Income Tax Act (Canada) (the "Act") in its taxation years ended December 31, 1999 and February 1, 2000.
+2. During the relevant period, Imasco and its subsidiaries were active in the financial services, tobacco, drugstore, and land development industry segments.
+3. At December 14, 1999, British American Tobacco p.l.c. ("BAT") was a public corporation which was not resident in Canada. BAT indirectly owned 42.5% of the outstanding common shares of Imasco.
+4. British American Tobacco (Canada) Limited ("BAT CAN") was incorporated on July 27, 1999 for the purpose of acquiring all of the common shares of Imasco that BAT and its subsidiaries did not beneficially own.
+5. In or about December 1998, BAT and the Toronto Dominion Bank ("the TD") entered into discussions with respect to the acquisition by the TD of shares of CT Financial Services Inc. ("CTFS") then held by Imasco; the discussions proposed that the sale of the Imasco CTFS shares to TD would be cross-conditional with and closed immediately following BAT's acquisition of all of the shares of Imasco held by public shareholders. These discussions between BAT and the TD were made known to Imasco.
+63 In March of 1999, British American Tobacco plc ("BAT") approached Imasco to discuss a proposal that BAT would acquire all of the common shares of Imasco held by the public shareholders of Imasco.
+7. On June 7, 1999 BAT issued a news release (attached hereto at Tab 1) stating that it was in discussions with Imasco regarding the possibility of increasing BAT's interest in Imasco's tobacco business through a cash offer for Imasco's publicly held common shares, but that the feasibility of such a transaction was uncertain (including whether it could be accomplished on acceptable terms).
+8. The Imasco SOP was instituted on May 11, 1983. It was a plan under which options to purchase Imasco shares were granted to officers and key employees of Imasco and its subsidiaries, ("the Employees"). Article 2 of the Imasco SOP describes the objective of the Plan as follows:
+The Plan has been established to enable certain Employees
+to acquire Shares directly from the Corporation.
+9. Pursuant to the terms of the Imasco SOP, as amended on October 27, 1995 (the amended Imasco SOP is attached hereto at Tab 2), holders of vested options could elect at any time to exercise their options to receive newly issued common shares of Imasco upon payment of the exercise price. The options were not assignable by the employees. Further, the exercise of the option was dependent upon the employee being in the employ of Imasco at the time of exercising the rights.
+10. On June 9, 1999, the Board of Directors of Imasco passed a resolution to amend Section 10 of the Imasco SOP (the amended SOP is attached hereto at Tab 3) to permit the optionee the discretion to elect to surrender an option, in lieu of exercising same, and to receive upon such surrender a cash payment equal to the amount of the excess of the then market value of one Imasco common share over the purchase price per share specified in the option multiplied by the number of shares purchasable upon the exercise of the option surrendered.
+11. On August 2, 1999, a Transaction Proposal Agreement was entered into by BAT, BAT CAN and Imasco proposing a revision to the proposal described in paragraph 5 hereof (the Transaction Proposal Agreement as amended and restated is attached hereto at Tab 4).
+12. On November 18, 1999, Imasco, BAT, and BAT CAN entered into a Amending Agreement to the Transaction Proposal Agreement (attached hereto at Tab 5) that set the purchase price per Imasco common share at $41.60, and included a favourable recommendation from Imasco's board of directors.
+13. As described in section 5.8 of the Transaction Proposal Agreement, Imasco agreed that its board of directors would resolve to encourage all persons holding options pursuant to the Imasco SOP to exercise or surrender their options immediately prior to the completion of the proposed transaction with BAT. Imasco further agreed that its board of directors would resolve, authorize and direct Imasco to accelerate the vesting of options under the Imasco SOP such that all outstanding stock options would become exercisable prior to the completion of the transaction.
+14. On December 8, 1999, the Toronto Stock Exchange was notified of the accelerated vesting described in paragraph 13 above and that if certain reorganization closing steps were not completed, the accelerated vesting would be deemed never to have occurred (the letter dated December 8, 1999 to the Toronto Stock Exchange is attached hereto at Tab 6).
+15. On December 14, 1999, Imasco advised its shareholders of a special meeting to vote on the proposed acquisition by BAT CAN of all of the shares of Imasco not then owned by the BAT group (the Notice of the Special Meeting together with the Management Proxy Circular are attached hereto at Tab 7).
+16. On December 14, 1999, Imasco caused the vesting of those options granted under the Imasco SOP that had not yet vested to accelerate (as described above in paragraphs 13 and 14) such that all employee options became exercisable prior to the completion of the proposed transaction with BAT. Such acceleration was dependent upon the completion of all reorganization closing steps, and holders of options were encouraged, in accordance with the Transaction Proposal Agreement, to surrender or exercise their options on or before January 28, 2000. If the proposed transaction was not completed, then the stock options which were vested on an accelerated basis would revert to their former status (letters dated August 3, 1999, December 22, 1999, January 10, 2000 and January 18, 2000 from Denis Faucher to the Employees are attached hereto at Tab 8).
+17. The exercise or surrender by the Employees of their options as at January 28, 2000 was conditional upon the completion of the transaction.
+18. On January 28. 2000, holders of Imasco common shares voted to approve the proposed transaction at a special meeting of shareholders held on that date.
+19. In January of 2000, optionees under the Imasco SOP holding 70,000[2] options exercised their options and received Imasco common shares.
+20. On January 28, 2000, Imasco employees holding 4,848,600 options in aggregate elected to surrender their options in exchange for cash payments equal to the difference between the closing price of Imasco shares on the TSE ($41.40) and the exercise price of the options (the "Cash Surrender Payments"). Those employees signed a form (attached hereto at Tab 9) that contained the following condition:
+Notwithstanding the foregoing, my Options shall be deemed never to have been surrendered if Imasco fails to complete certain internal reorganization transactions in contemplation of the capital reorganization as provided for in the Transaction Proposal Agreement between Imasco and British American Tobacco p.l.c.
+21. All of the then outstanding stock options issued under the Imasco SOP were exercised or surrendered in January of 2000. All surrendered stock options were cancelled.
+22. Payments that reflected the difference between the purchase price per Imasco share offered by BAT ($41.60) and the TSE closing price of Imasco shares on the date of surrender ($41.40), grossed-up to reflect what Imasco understood to be the lack of a paragraph I10(1)(d) deduction in respect of such payments (the "Make-Up Payments"), were made to option holders that had elected to surrender their options in exchange for cash payments. The total of these amounts paid to the Employees was $118 ,575,527.95.
+23. Subsequent to the closing, no more stock options were issued pursuant to Imasco's stock option plan. There have not been any transactions or activities respecting the SOP since the closing on February 1, 2000. The parties hereto agree that this Statement of Agreed Facts does not preclude either party from calling evidence to supplement the facts agreed to herein, it being accepted that such evidence may not contradict the facts agreed.
+The parties hereto agree that this Statement of Agreed Facts does not preclude either party from calling evidence to supplement the facts agreed to herein, it being accepted that such evidence may not contradict the facts agreed.
+[5] The appellant argues that the payments in question here were simply payments made by Imasco in the normal course of its business, and more specifically, in the normal course of administering its employee stock option plan (SOP). As such, the amounts paid were simply Imasco “settling-up” with its employees, or “discharging liabilities that had arisen as part of its compensation arrangements”.[3] To take this view of the matter one would have to consider the decision to accelerate the vesting of unvested options, the decision to amend the SOP to permit the holders of options the discretion to surrender them for cash, and the cessation of the granting of options all in isolation from the going private transaction whereby BAT Canada sought to acquire all the outstanding shares of Imasco. To do that, however, would be to ignore the much-quoted dictum of Lord Pearce in B.P. Australia Ltd. v. Commissioner of Taxation[4] that the solution to cases such as this is to be found through “a commonsense appreciation of all the guiding features” of the case. This passage was quoted with approval (and with emphasis added) by Estey, J., writing for a unanimous Court, in Johns-Manville v. The Queen.[5]
+[6] In the same paragraph Lord Pearce went on to adopt the earlier statement of Dixon J. in Hallstroms Pty. Ltd. v. Federal Commissioner of Taxation[6] that the answer to the question whether an outlay is to be considered capital or current in nature
+depends on what the expenditure is calculated to effect from a practical and business point of view rather than upon the juristic classification of the legal rights, if any, secured, employed or exhausted in the process.
+This passage, too, was cited with approval in Johns-Manville. I am therefore bound in deciding this case to have regard to all the “guiding features”, or circumstances, of the case, and to determine from a practical and business point of view what the payments in question were intended to accomplish. As I understand it, that is what the Federal Court of Appeal did in deciding Kaiser Petroleum Ltd. v. Canada,[7] the case principally relied on by the respondent in this appeal.
+[7] In Kaiser, the Federal Court of Appeal held that a payment made by the taxpayer to extinguish an employee share option plan was a payment on capital account. Ashland Oil Canada (AOC) was controlled by Ashland Oil Inc. (AOI), a United States company which held about 85% of its shares. AOI agreed to sell its interest in AOC to Kaiser Resources for $33.50 per share. AOC had a share option plan under which employees of the company held options to purchase a total of 126,370 shares. 108,650 of these options were vested and the rest were not. The contract for the sale by AOI of its shares to Kaiser required that AOC offer the holders of the options the opportunity to surrender their options for a payment of $33.50 less the option price for each option, and that the same offer be made available to the holders of unvested as well as vested options. The offer was made, and it resulted in the surrender and cancellation of 120,970 options for payments totaling $2,772,317. Some time later the share option plan was cancelled. AOC (now renamed Kaiser Petroleum) sought to deduct the $2,772,317 as employee compensation in computing its income for the year.
+[8] The trial judge held that the amount was correctly characterized as employee compensation, and so deductible. The Federal Court of Appeal disagreed. Desjardins, J.A., writing for a unanimous Court, referred to the question asked by Lord Pearce in B.P. Australia:[8]
+Finally, were these sums expended on the structure within which the profits were to be earned or were they part of the money-earning process?
+The Court went on to conclude that although compensation was the reason for implementing the stock option plan initially, and compensation was one element pursued when the plan was terminated:
+[n]evertheless, the compensation was made by means of a reshaping of the capital structure of the respondent’s organization. This feature, in my view, dominates the whole set of circumstances revealed by the evidence and constitutes the guiding element under the test set out in the B.P. Australia Ltd. case cited above.[9]
+[9] The appellant placed a great deal of reliance on the decision of Bowman, C.J. in Imperial Tobacco Canada Limited (successor by amalgamation to Shoppers Drug Mart Limited) v. The Queen[10] (hereafter Shoppers Drug Mart). That case arose out of the same going private transaction as the present case. Shoppers Drug Mart (SDM) was a subsidiary of Imasco, and prior to the transaction in 1999 certain of its employees had participated in the Imasco SOP. The SDM employees holding options were encouraged to exercise or surrender their options, just as were the Imasco employees. In January 2000, employees of SDM exercised 70,000 options. On January 28, 2000 SDM employees holding a total of 2,190,380 options chose to surrender their options for payments that, in the aggregate, amounted to $54,984,104. This amount was made up of the difference between the option price and the Toronto Stock Exchange closing price for each option, plus $0.20 to make the surrender price the same as the price at which the going private transaction closed, grossed up by an amount to compensate the option holders for the fact that the favourable tax treatment under paragraph 110(1)(d) of the Act was not available to them. These amounts were paid to the SDM employees by Imasco. SDM made a payment of $54,984,104 to Imasco to reimburse it. Bowman, C.J. distinguished the Kaiser Petroleum case on the basis that the payment was not made to reshape the capital structure of SDM, as was the dominant consideration in Kaiser Petroleum.
+In the case before me, however, it was the capital structure of the taxpayer, Imasco, that was restructured.
+[10] Counsel for the appellant sought to distinguish Kaiser Petroleum on a number of bases.
+· The payments in the Kaiser case were made for the purpose of the capital transaction. Ashland was required by the purchase agreement to amend its stock option plan, to make an offer to acquire the outstanding options, and then to cancel the plan. Imasco only agreed to encourage the surrender or exercise of the options. The payments were made by Imasco to satisfy obligations to its employees, not to make the capital transaction possible.
+· In Kaiser the payments were made to extinguish the stock option plan. Imasco was not required by the agreement to extinguish the plan, and it has not been formally terminated.
+· In Kaiser the payments were made to ensure the retention of key employees. In the present case the payments were not related to employee retention.
+· In Kaiser the obligation of Ashland to make the payments arose under the purchase agreement. Imasco incurred and satisfied the obligation to make the payments under the terms of the SOP.
+· In Kaiser the employees’ right to surrender their options for cash was contingent on the closing of the capital transaction. Following the amendment of the Imasco SOP employees had the right to surrender vested options for cash whether the going private transaction was completed or not.
+· The option holders in Kaiser were required to surrender their options for cash or have them terminated. The Imasco option holders had the right to choose whether they would exercise or surrender their options, or retain them.
+· Ashland was required by the purchase agreement to amend its SOP to allow early vesting. Imasco’s SOP permitted early vesting and cash surrender since 1995.
+[11] These are all distinctions without a difference. It is far from clear from the facts put before me that the reason for making the payments to the holders of options in this case was, as the appellant would have it, settling-up with its employees, or discharging an obligation to them. The holders of vested options could have exercised them, and then sold the shares on the market or tendered them to BAT on completion of the transaction, if they had wished to do so. The directors of Imasco might have felt that in light of the impending going private transaction, fairness to the employees required that Imasco accelerate the vesting of unvested options, but fairness did not require it to make the redemption payments. It is clear from the Transaction Proposal Agreement at section 5.8 that the mutual intention of BAT and Imasco was that, so far as it was feasible to do so, all outstanding options to purchase shares would be eliminated before the completion of the transaction. If compensation was an element of the decision to make the payments then nevertheless, as in the Kaiser Petroleum case, the reshaping of the appellant’s capital structure “dominate[d] the whole set of circumstances … and constitute[d] the guiding element …”.
+[12] The real question in each case is “what was the expenditure calculated to effect from a practical and business point of view?” Given the timing of the amendment to the SOP on June 7, 1999, coincident with the press release the same day by which BAT announced that discussions were taking place, and followed on August 2, 1999 by the signing of the Transaction Proposal Agreement in which section 5.8 set out the parameters for the elimination, so far as possible, of outstanding options, there can be no serious doubt as to what the expenditure was calculated to effect. It was calculated to give BAT some assurance that on completion of the going private transaction there would be few or no outstanding options remaining in the hands of Imasco employees. If all that Imasco intended was to settle up with its employees, as counsel contends, then it need only have accelerated the vesting of unvested options. Employees could then have exercised them at will.
+[13] It is true that the Imasco SOP had, since the 1995 amendment, permitted the Corporation to accelerate the vesting of options. The important fact is that, coincident with the going private transaction, it took the steps necessary to do so, including obtaining approval of the Toronto Stock Exchange. It is notable that the early vesting was conditional on the completion of the transaction,[11] as was the exercise or surrender by the employees of their options.[12] While the Imasco SOP has not been formally terminated, it has been inactive since the closing of the going private transaction[13], which amounts to the same thing.
+[14] Bowman, C.J. distinguished the Shoppers Drug Mart case from Kaiser Petroleum solely on the basis that it was the capital structure of Imasco, not that of SDM, that was reshaped. That distinction does not apply here, nor is there any other. Consequently, I am bound to apply the decision in Kaiser Petroleum.
+[15] Counsel for the appellant argued that three recent decisions of this Court[14] dealing with expenditures arising in connection with corporate reorganizations all militate in favour of concluding that the payments in this case were on revenue account. All of those cases deal with situations that are significantly different from the facts of this case and Kaiser Petroleum. As I am bound by the Federal Court of Appeal’s decision in Kaiser, it is not necessary for me to consider the degree to which these cases might otherwise have influenced my decision.
+[16] The appeals are dismissed, with costs to the respondent.
+Signed at Ottawa, Canada, this 21st day of December 2010.
+“E.A. Bowie”
+Bowie J.
+CITATION: 2010 TCC 648
+COURT FILE NO.: 2008-402(IT)G
+STYLE OF CAUSE: IMPERIAL TOBACCO CANADA LIMITED and
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: October 20, 2009
+REASONS FOR JUDGMENT BY: The Honourable Justice E.A. Bowie
+DATE OF JUDGMENT: December 21, 2010
+APPEARANCES:
+Counsel for the Appellant:
+Al Meghji and Patrick Marley
+Counsel for the Respondent:
+Marie-Thérèse Boris and Bobby Sood
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Al Meghji
+Firm: Osler, Hoskin & Harcourt
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] R.S. 1985 c.1 (5th supp.), as amended.
+[2] This number was amended from 62,800 to 70,000 by agreement of counsel at the opening of trial.
+[3] Appellant’s Memorandum of Fact and Law, para. 4.
+[4] [1966] A.C.224 @ 264 (J.C.P.C.).
+[5] [1985] 2 S.C.R. 46 @ 57.
+[6] (1946) 72 C.L.R. 634 @ 648 (A.H.C.).
+[7] 90 D.T.C. 6603 (FCA); reversing 90 D.T.C. 6034 (FCTD).
+[8] Supra, note 4., @ p 271.
+[9] 90 DTC @ p. 6606.
+[10] 2007 TCC 636; 2008 DTC 2043.
+[11] Statement of Agreed Facts, para 16 and the letters at Exhibit A-1, Tab 8.
+[12] Statement of Agreed Facts, para 17. and the letters at Exhibit A-1, Tab 8.
+[13] Statement of Agreed Facts, para 23.
+[14] Boulangerie St. Augustin c. R, 95 DTC 164, aff’d 97 DTC 5012 ; International Colin Energy Corp. V. The Queen, 2002 DTC 2185 ; BJ Services Company Canada v. The Queen, 2004 DTC 2032.

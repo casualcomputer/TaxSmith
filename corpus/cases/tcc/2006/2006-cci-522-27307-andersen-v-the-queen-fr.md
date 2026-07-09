@@ -1,0 +1,112 @@
+---
+title: "Andersen v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27307/index.do"
+last_modified: "2006-09-29"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 CCI 522"
+citation2: ""
+neutral_citation: "2006 CCI 522"
+decision_date: "2006-09-29"
+language: "fr"
+item_id: "27307"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 847
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T23:42:40.398000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "9fcb3eaea9849bda79364550331766b0ab576a925aec10b6cb246901eb7e17c9"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Andersen v. The Queen
+
+- Citation: 2006 CCI 522
+- Decision date: 2006-09-29
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 847, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Andersen v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-09-29
+Référence neutre
+2006 CCI 522
+Numéro de dossier
+2006-599(IT)I
+Juges et Officiers taxateurs
+Judith Woods
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Référence : 2006CCI522
+Date : 20060929
+Dossier : 2006-599(IT)I
+ENTRE :
+ERIK ANDERSEN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+(Rendus oralement à l’audience à Nanaimo (Colombie-Britannique),
+le 18 août 2006.)
+La juge Woods
+[1] Les présents motifs sont prononcés dans le cadre de l’appel intéressant Erik Andersen et Sa Majesté la Reine. La question en litige porte sur les conséquences fiscales liées aux actions que M. Andersen a reçues de Kenrich Elkay Mining Corporation en 2003.
+[2] La principale question en litige est celle de savoir si le revenu reçu par suite de l’opération relative aux actions constitue un revenu d’emploi ou un revenu d’entreprise et, dans l’un ou l’autre cas, quel est le montant du revenu attribuable à cette opération.
+[3] L’ARC a traité le revenu comme un revenu d’emploi et a fait droit à la déduction fondée sur l’alinéa 110(1)d) pour la moitié de la valeur de l’avantage. Quant au montant du revenu, l’ARC a établi la cotisation en s’appuyant sur la somme déclarée par Kenrich dans un feuillet T4 délivré relativement à l’opération visant les actions. L’ARC a en outre refusé les dépenses d’entreprise déduites par M. Andersen parce qu’elle estimait que ce dernier était un employé.
+[4] Je conclus qu’il s’agissait d’une relation à titre d’entrepreneur indépendant et non d’une relation à titre d’employé. C’est ce qu’avaient convenu le directeur de Kenrich et Moon Bay Consulting, et les faits sont compatibles avec une entente de cette nature. Je souligne en particulier que M. Andersen était tenu d’assumer les dépenses dans le cadre du contrat si Kenrich n’était pas en mesure de les payer. Et j’ajoute qu’il semble que Kenrich n’avait pas les moyens de les payer.
+[5] Les conséquences fiscales de l’opération relative à ces actions sont donc que M. Andersen est tenu d’inclure dans son revenu la valeur des actions au moment de leur réception en 2003. L’élément de preuve le plus probant dont je suis saisie à cet égard est le feuillet T4 délivré par Kenrich. L’avantage déclaré se chiffre à 35 000 $.
+[6] Il ressort de la preuve que Kenrich est une société inscrite au Canadian Ventures Exchange. La preuve est muette quant au prix du marché des actions à l’époque et M. Andersen, dans son témoignage, a mentionné qu’il ne pourrait vendre un aussi grand nombre d’actions au prix du marché. Les actions ont été vendues en 2004, de janvier à novembre, et le produit de cette vente, déduction faite des commissions, s’élevait à environ 25 000 $.
+[7] Même si j’accepte le témoignage de M. Andersen selon lequel il fallait échelonner la vente les actions sur une certaine période si on voulait obtenir le produit de disposition le plus élevé possible, la preuve ne me permet pas de conclure que la valeur des actions était inférieure à la somme de 35 000 $ déclarée dans le feuillet T4.
+[8] Dans son témoignage, M. Andersen a mentionné que Kenrich avait déclaré la somme de 35 000 $ sur le feuillet T4 parce qu’il s’agissait du prix d’option. Il a ajouté que Kenrich avait reçu des conseils juridiques et comptables selon lesquels cette opération devait être déclarée comme un revenu d’emploi dans un feuillet T4. M. Andersen supposait que cette exigence découlait de raisons liées à la réglementation.
+[9] En l’absence d’éléments de preuve de la part de Kenrich, je ne puis accepter cette explication du calcul de l’avantage déclaré dans le feuillet T4. Plus vraisemblablement, il s’agissait de la valeur estimée par Kenrich quant à l’avantage reçu par M. Andersen.
+[10] M. Andersen n’a pas présenté suffisamment d’éléments de preuve pour que je sois fondé à accepter une valeur différente. Le prix auquel les actions ont été vendues en 2004 établit dans une certaine mesure la valeur au moment où les actions ont été reçues, mais cela ne suffit pas en l’espèce. Je souligne en particulier que M. Andersen n’a produit aucun document pour étayer la date à laquelle il a reçu les actions et qu’il n’a pas non plus fourni de aucune précision quant aux prix du marché des actions à l’époque de l’acquisition.
+[11] En résumé, la preuve n’est pas suffisante pour je sois justifié d’accepter une valeur moindre que celle déclarée dans le feuillet T4. Il s’ensuit que le revenu tiré de l’opération relative aux actions devrait être de 35 000 $.
+[12] Je me penche maintenant sur les dépenses d’entreprise. L’une des dépenses déduites consistait en une perte d’entreprise découlant de la disposition des actions. La déduction de cette perte pour 2003 n’a aucun fondement puisque les actions n’ont été vendues qu’en 2004.
+[13] Où en sommes‑nous? M. Andersen a un revenu de 35 000 $ par suite de la réception des actions de Kenrich. Il a déduit diverses dépenses d’entreprise en plus de la perte subie au moment de la vente des actions. Si on suppose que ces dépenses d’entreprise sont déductibles, M. Andersen devrait déclarer un revenu net de 18 273,64 $, ce qui est plus élevé que le revenu figurant dans la cotisation établie par l’ARC, soit 17 500 $. Il n’est donc pas nécessaire de se demander si les autres dépenses d’entreprise sont déductibles.
+[14] M. Andersen fait valoir qu’il n’a pas à payer d’impôt sur la valeur des actions parce qu’il ne s’agit pas de sommes en espèces. Les contribuables sont assujettis à l’impôt non seulement sur les sommes en espèces, mais également sur la valeur des biens reçus. Le fait que les actions ne pouvaient pas être vendues immédiatement avait certainement une incidence sur leur valeur, et cette incidence pouvait être appréciable. Malheureusement toutefois, la preuve présentée n’était pas suffisante pour me permettre de procéder à une évaluation appropriée. Il en est ainsi notamment parce que Kenrich a elle‑même évalué l’avantage à 35 000 $ et qu’aucune personne à l’emploi de cette société n’a témoigné pour expliquer comment on en était arrivé à ce chiffre.
+[15] Compte tenu de ce qui précède, je ne vois aucune raison de réduire l’impôt visé par la cotisation et l’appel doit être rejeté.
+Signé à Toronto (Ontario), ce 29e jour de septembre 2006.
+« J. Woods »
+Juge Woods
+Traduction certifiée conforme
+Claude Leclerc, LL.B., trad. a.
+RÉFÉRENCE : 2006CCI522
+NO DU DOSSIER DE LA COUR : 2006-599(IT)I
+INTITULÉ DE LA CAUSE : Erik Andersen c. Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Nanaimo (Colombie-Britannique)
+DATE DE L’AUDIENCE : Le 18 août 2006
+MOTIFS DU JUGEMENT PAR : L’honorable juge Judith Woods
+DATE DU JUGEMENT : Le 29 août 2006
+COMPARUTIONS :
+Pour l’appelant : L’appelant lui-même
+Avocat de l’intimée : Me Pavanjit Mahil
+AVOCAT(E) INSCRIT(E) AU DOSSIER :
+Pour l’appelant :
+Nom : s.o.
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

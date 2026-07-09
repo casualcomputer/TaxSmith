@@ -1,0 +1,475 @@
+---
+title: "Morriseau v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/459838/index.do"
+last_modified: "2020-01-15"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2020 TCC 5"
+citation2: ""
+neutral_citation: "2020 TCC 5"
+decision_date: "2020-01-15"
+language: "en"
+item_id: "459838"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4244
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2023-07-24T06:13:07.784000+00:00"
+cases_cited_count: 17
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "a9ac9d181971d1456be40f130561fdedb1eb3708ea6d15947d684ff85322f043"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Morriseau v. The Queen
+
+- Citation: 2020 TCC 5
+- Decision date: 2020-01-15
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4244, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Morriseau v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2020-01-15
+Neutral citation
+2020 TCC 5
+File numbers
+2017-3076(IT)I, 2017-3077(IT)I
+Judges and Taxing Officers
+Don R. Sommerfeldt
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2017-3076(IT)I
+BETWEEN:
+CHRISTOPHER MORRISEAU,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+Docket: 2017-3077(IT)I
+BETWEEN:
+MIRANDA SMOKE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeals called for hearing on July 12, 2018, and continued on
+June 24, 2019, at Winnipeg, Manitoba
+By: The Honourable Justice Don R. Sommerfeldt
+Appearances:
+Counsel for the Appellants:
+Kenneth Young
+Counsel for the Respondent:
+Sandra Hoeppner
+JUDGMENT
+The Appeals from the reassessments made under the Income Tax Act with respect to the 2012 and 2013 taxation years are dismissed, without costs.
+Signed at Edmonton, Alberta, this 15th day of January 2020.
+“Don R. Sommerfeldt”
+Sommerfeldt J.
+Citation: 2020 TCC 5
+Date: 20200115
+Docket: 2017-3076(IT)I
+BETWEEN:
+CHRISTOPHER MORRISEAU,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+Docket: 2017-3077(IT)I
+BETWEEN:
+MIRANDA SMOKE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Sommerfeldt J.
+I. INTRODUCTION
+[1] These Reasons pertain to the Appeals of Christopher Morriseau and Miranda Smoke from reassessments made by the Canada Revenue Agency (the “CRA”), on behalf of the Minister of National Revenue (the “Minister”), for the 2012 and 2013 taxation years. For each of those years, Mr. Morriseau and Ms. Smoke, who are registered as Indians [1] for the purposes of the Indian Act, [2] had claimed that their employment income was exempt from income tax by reason of section 87 of the Indian Act and paragraph 81(1)(a) of the Income Tax Act (the “ITA”). [3]
+[2] In 2012 and 2013, Mr. Morriseau and Ms. Smoke were employed by Tribal Councils Investment Group of Manitoba Ltd. (“TCIG”) or by one of its subsidiaries, Arctic Beverages Ltd. (“ABL”). [4] The employer of Mr. Morriseau and Ms. Smoke initially provided to them T4 slips for those two years, indicating that their employment income qualified for the tax exemption under section 87 of the Indian Act. On March 31, 2015, apparently after the CRA had had discussions with representatives of TCIG, and two or three years after the taxation years in question, the employer of Mr. Morriseau and Ms. Smoke issued to them amended T4 slips for 2012 and 2013, [5] indicating that the employment income earned in those years did not qualify for the exemption under section 87 of the Indian Act.
+II. ISSUE
+[3] The fundamental issue in these Appeals is whether the income of Mr. Morriseau and Ms. Smoke, earned by them in 2012 and 2013, was “situated on a reserve.” [6] The resolution of this issue requires an application of the “connecting factors” test enunciated in Williams [7] and reiterated in Bastien. [8] The test requires the Court to undertake a two-step analysis: first, identify the potentially relevant factors that might connect the income of Mr. Morriseau and Ms. Smoke to a location, and second, analyze those factors purposively to determine the weight to be given to them. The analysis is to be conducted within the framework set out in Kelly, [9] which summarized the basic propositions arising from Bastien.
+III. FACTS
+A. Appellants
+[4] Mr. Morriseau is a member of Peguis First Nation. His grandparents left their reserve years ago “to better their family.” [10] Mr. Morriseau was born and raised in Winnipeg. He has not, at any time in his life, lived on a reserve, although he expressed a sincere desire to live on his First Nation reserve. [11] Regrettably, there are no employment opportunities there.
+[5] Ms. Smoke is a member of Dakota Tipi First Nation. Until she was three years old, she lived in Portage la Prairie, closer to her First Nation community. [12] In 1983, she moved with her mother to Winnipeg, where she has lived ever since.
+B. TCIG
+[6] None of the constating documents of TCIG was put into evidence, nor was there any testimony concerning the legal details of TCIG’s creation. According to the 2012 and 2013 Annual Returns of Information filed by TCIG under the Manitoba Corporations Act, [13] TCIG was created by an incorporation or an amalgamation on November 27, 1989 under Canadian federal jurisdiction. [14]
+[7] Jonathan Flett, one of the founding directors (and now a former director) of TCIG, explained the purpose, objectives and corporate structure of TCIG. [15] He stated that TCIG has seven shareholders, which are, or represent, all of the Tribal Councils in Manitoba, and which were shown in the 2012 Annual Return of Information as follows:
+- Dakota Ojibway Investments Ltd.
+- Interlake Reserves Tribal Council Inc.
+- Island Lake Tribal Council
+- Keewatin Tribal Council Inc.
+- Southeast Resource Development Council Corp.
+- Swampy Creek Tribal Council Inc. [16]
+- West Region Investments Limited [17]
+[8] Each of the seven shareholders owns 10,000 Class A Common Shares of TCIG. Mr. Flett stated that each Tribal Council represents a number of First Nations. Collectively, the seven Tribal Councils which (or whose nominees) are shareholders of TCIG, represent 55 of the 63 First Nations in Manitoba. [18]
+[9] Mr. Flett explained that the seven Tribal Councils decided to organize an entity in order to provide economic opportunities to Indigenous people. The resultant entity was TCIG. Each shareholder contributed $25,000 to form the initial capital of TCIG. The first investment made by TCIG was the purchase of ABL. Since that time, TCIG has acquired numerous other subsidiaries. TCIG and its subsidiaries endeavour to provide employment opportunities to members of First Nations and endeavour to provide products and services to Indigenous people, particularly those in remote areas. Many of the subsidiaries of TCIG have been economically successful. In 2012 and 2013, ABL was one of TCIG’s top-performing subsidiaries and was considered to be the flagship subsidiary. The TCIG group of corporations has become a source of pride for members of First Nations.
+[10] Mr. Flett testified that, although growth was slow in the early 1990s, by 2012 and 2013, the subsidiaries of TCIG were generally quite profitable, such that they paid significant annual dividends to TCIG, which distributed those dividends to the seven Tribal Councils (or their nominees). In turn, according to Mr. Flett, the Tribal Councils used the distributions to benefit the First Nations people of Manitoba. [19]
+[11] Robert Magnusson, the former chief financial officer of TCIG, stated that TCIG was created for the purpose of facilitating the economic development of the First Nations people in Manitoba. [20] Mr. Magnusson explained that, although TCIG was a non-profit (or perhaps a not-for-profit) entity, its various operating subsidiaries were for-profit corporations. [21] Mr. Magnusson stated that TCIG also has a foundation, which was registered with the CRA as a charity. [22] In addition, TCIG donated money to First Nations to sponsor powwows, hockey tournaments, baseball tournaments and golf tournaments. [23]
+C. ABL
+[12] The first investment by TCIG was the acquisition of ABL, which was then a bottling company operating in Flin Flon. [24] Apparently, ABL subsequently relocated to Winnipeg. There was little evidence concerning the head office or registered office of ABL, nor the place where its directors held their meetings. Mr. Morriseau stated that, when he was employed by ABL, he worked at a warehouse located on Sherwin Road in Winnipeg, and that subsequently ABL moved to another location next door, which was also on Sherwin Road. Mr. Morriseau stated that on many occasions he went to ABL’s head office, which, according to him, was located at 2190 – 360 Main Street, Winnipeg (near the intersection of Portage and Main). [25] However, based on the totality of the evidence, it was not clear to me whether ABL, as well as TCIG, had an office at 2190 – 360 Main Street, Winnipeg.
+[13] In 2012 and 2013, ABL bottled and sold Pepsico soft drinks and juice. It also sold Frito Lay chips, bread, breakfast products, ice cream, cookies, beef jerky and other snacks. [26] ABL sold its products only to First Nations or to First Nations entities. [27] Ms. Smoke indicated that ABL also had a breakfast program, pursuant to which it sent juice and breakfast products to First Nations schools on various reserves in northern Manitoba and parts of Ontario. [28] However, Mr. Magnusson said that the breakfast program was undertaken by TCIG’s charitable foundation. [29]
+[14] Mr. Magnusson also stated that ABL made gifts directly to First Nations communities, particularly as instructed or requested by TCIG. [30] There was no evidence as to the amounts, dates, frequency, nature or specific recipients of those gifts.
+D. Employer
+[15] As indicated above, in 2012 and 2013 the employer of Mr. Morriseau and Ms. Smoke was either TCIG or ABL. The oral testimony and documentary evidence were inconsistent and inconclusive.
+[16] In their testimony, Mr. Morriseau and Ms. Smoke stated that they worked for ABL. For instance, Mr. Morriseau said, “I was employed by Arctic Beverages who was solely owned by TCIG.” [31] Mr. Morriseau was uncertain as to the entity that actually paid his salary to him, first by cheque and later by direct deposit to his bank account. He initially stated that the employer name on his paycheque stubs was “Southeast Tribal Council,” and not TCIG. [32] He later stated that his paycheques were issued by “one of the Tribal Councils,” [33] and later still stated that, when he received his salary by direct deposit to his bank account (rather than by cheque), the deposits “were from a First Nation entity.” [34] Mr. Morriseau was adamant that the direct deposits were not paid by ABL, but were paid by “an Aboriginal entity,” which might have been TCIG. [35]
+[17] Initially, Ms. Smoke stated that she was employed at ABL as the area administrator. [36] Later, Ms. Smoke indicated that she initially worked for ABL and then, just before Christmas of 2011, she began working at TCIG. [37] However, during cross-examination, Ms. Smoke stated that all of her employment duties took place at ABL’s premises on Sherwin Road in Winnipeg and that she had no reason for her employment purposes to go to the offices of TCIG at Portage and Main. [38] This might suggest that, after Ms. Smoke left ABL to work for TCIG, rather than requiring her to relocate to TCIG’s corporate offices at Portage and Main, TCIG made arrangements for her to work at ABL’s premises on Sherwin Road.
+[18] It seems as though Mr. Morriseau and Ms. Smoke may have considered TCIG and ABL, in a non-technical sense, to be a blended entity.
+[19] When Mr. Magnusson testified, he stated that it was his understanding that the employer of Mr. Morriseau and Ms. Smoke was ABL. [39]
+[20] The Notices of Appeal filed by Mr. Morriseau and Ms. Smoke respectively and the Replies filed by the Crown all indicate that Mr. Morriseau and Ms. Smoke were employed by TCIG. The amended T4 slips that were issued to Mr. Morriseau and Ms. Smoke showed their employer as being TCIG.
+[21] I raised with counsel the question of whether I need to make a formal finding as to which entity employed Mr. Morriseau and Ms. Smoke. Neither counsel seemed to be concerned with this question. Accordingly, I will decide these Appeals on the basis that the employer of Mr. Morriseau and Ms. Smoke was either TCIG or ABL.
+E. Employment Particulars
+[22] Mr. Morriseau stated that in 2012 and 2013 he worked at ABL as a shipper. In that capacity, he had responsibility for overseeing ABL’s warehouse in Winnipeg. As well, he was responsible for the numerous deliveries that left the warehouse on a daily basis for ABL’s customers. Mr. Flett said that ABL distributed its products in Manitoba, northern Saskatchewan, parts of Ontario and the Territories. [40]
+[23] Ms. Smoke testified that when she worked for ABL, she was an area administrator. As such, her duties entailed preparing sales and volume reports and sending those reports to TCIG. She was also involved in auditing ABL’s system. [41] She performed all of her employment duties at the ABL premises located on Sherwin Road. It was not necessary for her, in the performance of her employment duties, to go to the TCIG office at 2190 – 360 Main Street. [42] Ms. Smoke did not, as part of her employment duties, visit any of the northern communities to which ABL shipped its products, but she did communicate with them by email and telephone. [43]
+[24] Both Mr. Morriseau and Ms. Smoke were paid by their employer in Winnipeg. [44]
+IV. ANALYSIS
+A. Statutory Provisions
+[25] The relevant portion of paragraph 81(1)(a) of the ITA reads as follows:
+81(1) There shall not be included in computing the income of a taxpayer for a taxation year,
+(a) an amount that is declared to be exempt from income tax by any other enactment of Parliament….
+The enactment of Parliament that is relevant here is section 87 of the Indian Act, the applicable portion of which, at the relevant time, read as follows:
+87(1) Notwithstanding any other Act of Parliament or any Act of the legislature of a province, but subject to section 83 and section 5 of the First Nations Fiscal Management Act [which are not relevant here], the following property is exempt from taxation:
+(a) [n/a]; and
+(b) the personal property of an Indian or a band situated on a reserve.
+(2) No Indian or band is subject to taxation in respect of the ownership, occupation, possession or use of any property mentioned in paragraph (1)(a) or (b) or is otherwise subject to taxation in respect of any such property.
+B. Analytical Approach
+[26] It is now well established that income constitutes personal property for the purposes of section 87 of the Indian Act and that, even though income is intangible, it is to be ascribed a notional location for the purpose of determining whether the tax exemption in section 87 applies to that income. [45] To determine the location of intangible property, a court must apply the two-step connecting factors approach set out in Williams, described as follows:
+The first step is to identify the various connecting factors which are potentially relevant. These factors should then be analyzed to determine what weight they should be given in identifying the location of the property, in light of three considerations: (1) the purpose of the exemption under the Indian Act; (2) the type of property in question; and (3) the nature of the taxation of that property. The question with regard to each connecting factor is therefore what weight should be given to that factor in answering the question whether to tax that form of property in that manner would amount to the erosion of the entitlement of the Indian qua Indian on a reserve. [46]
+As restated by the Supreme Court of Canada in Bastien, the two-step test is the following:
+At the first step, the court identifies potentially relevant factors connecting the intangible personal property to a location…. [P]otentially relevant connecting factors have different relevance depending on the categories of property and the types of taxation in issue…. To take this into account, as well as to ensure that the analysis serves to identify the location of the property for the purposes of the Indian Act, at the second step, the court analyses these factors purposively in order to assess what weight should be given to them. This analysis considers the purpose of the exemption under the Indian Act; the type of property in question; and the nature of the taxation of that property…. [47]
+(1) First Step – Identification of Factors
+[27] According to Williams and Bastien, the first step in the two-step approach is to identify the factors that are potentially relevant for the purpose of connecting the income of Mr. Morriseau and Ms. Smoke to a location. In the context of employment income, the following connecting factors were identified, in the Desnomie case, as being potentially relevant in determining whether that income is situated on a reserve:
+(a) the residence of the employer;
+(b) the residence of the employee;
+(c) the location where the work is performed;
+(d) the location where the employee is paid; and
+(e) the nature of the services performed or the special circumstances in which they are performed. [48]
+Other cases have identified the same connecting factors in respect of employment income. [49]
+[28] In addition to the five potential connecting factors listed above, there may be a further factor that warrants consideration in respect of these Appeals. In Bastien, Justice Cromwell explained that “the comments in both Mitchell and Williams in relation to the protection of property which Indians hold qua Indians should be read in relation to the need to establish a connection between the property and the reserve such that it may be said that the property is situated there for the purposes of the Indian Act.” [50] Justice Cromwell then observed that “the relationship between the property and life on the reserve may in some cases be a factor tending to strengthen or weaken the connection between the property and the reserve….” [51]
+[29] The same point was made by the Federal Court of Appeal in Kelly. [52] During the hearing at first instance of Mr. Kelly’s appeal from his reassessment, his counsel submitted that Mr. Kelly’s “services were entrenched in the traditional, social and cultural integrity of life on reserves and promote[d] the preservation and furtherance of the traditional way of life on reserves and [were] a benefit to the Native communities as a whole, such that section 87 of the [Indian Act] applies.” [53] The trial judge, acknowledging that this was a factor connecting Mr. Kelly’s business to reserves, stated, “the type of counselling Mr. Kelly makes available through his business to reserves and others aligned to the reserves is invaluable and meets the test of preserving the traditional way of life in Indian communities; this connection cannot be overemphasized.” [54] In Robertson, the Federal Court of Appeal noted that “the long history of commercial fishing in lakes near the Reserve by the First Nation and their ancestors, and its continuing importance to the economic, social, and cultural fabrics of the Reserve, [was] relevant to determining whether a sufficiently close connection exist[ed] between the Reserve and the source of the Appellants’ income.” [55] Accordingly, those “considerations serve[d] to strengthen the connection between the Reserve and the Appellants’ fishing business income, and thus tend[ed] towards situating the income on the Reserve.” [56]
+[30] Accordingly, in addition to the usual connecting factors relating to employment income, the submissions made by counsel for Mr. Morriseau and Ms. Smoke suggest that an additional factor to be considered in these Appeals is the relationship, if any, between the income of Mr. Morriseau and Ms. Smoke and the preservation of the traditional Indigenous way of life, including the economic, social and cultural fabrics of the reserves. However, as explained by the Federal Court of Appeal in Kelly, the focus must be “on whether there is a ‘connection between the property and the reserve such that it may be said the property is situated there for the purposes of the Indian Act[,]’ and not on whether ‘the property is integral to the life of the reserve or to the preservation of the traditional Indian way of life.’” [57] In other words, the relationship between the particular income and life on a reserve is a strengthening or weakening factor, but not an actual connecting factor, nor is it the focus of the analysis. [58]
+[31] I will now consider, based on the facts of these Appeals, the factors that are potentially connective and relevant.
+(a) Residence of the Employer
+[32] The first connecting factor identified in paragraph 27 above is the residence of the employer. As it is not certain whether Mr. Morriseau and Ms. Smoke were employed by TCIG or ABL, I will consider the residence of both corporations. For the purposes of this analysis, I will apply the same principles (apart from jurisdiction of incorporation) that are used to determine whether a corporation is a resident of Canada or some other country. [59]
+(i) TCIG
+[33] I will begin by examining the place where the central management and control of TCIG was located, which is typically considered to be the location where the directors of TCIG held their meetings. During his examination-in-chief, Mr. Flett testified that TCIG’s board of directors met quite a few times at Brokenhead First Nation and Buffalo Point First Nation. Otherwise, depending on the territory of the hosting Tribal Council, the directors met at Swampy Cree or at Opaskwayak Cree Nation (colloquially referred to as “OCN”), which was a First Nation community. [60] Mr. Flett was not cross-examined in respect of the location of the directors’ meetings. There was no other evidence concerning the location where the directors of TCIG held their meetings. Therefore, for the purposes of these Appeals, I have concluded that the directors of TCIG held their meetings on various reserves in Manitoba.
+[34] In determining the residence of TCIG, the location of its head office might be relevant, although not determinative. [61] The evidence concerning the location of TCIG’s head office is not conclusive. Mr. Magnusson testified that, during the time that he was employed by TCIG, the head office of TCIG was located first at OCN, and then, at a time which he does not remember, it was moved to Brokenhead First Nation. [62] Mr. Flett testified that the head office of TCIG was at OCN and that to the best of his knowledge and recollection, it was always there and was not moved elsewhere. [63] Ms. Smoke stated that, as far as she knew, when she started working in 2011, TCIG’s head office “was on Brokenhead First Nation I believe it was, or Opaskwayak First Nation.” [64]
+[35] The only documentary evidence about the location of TCIG’s head office was an extract from TCIG’s annual report issued in September 2004. [65] That document stated that the head office of TCIG was at OCN.
+[36] Based on the available evidence, it is my finding that in 2012 and 2013 the head office of TCIG was throughout those two years at OCN, or was initially at OCN and then subsequently at Brokenhead First Nation. It is my understanding that the head office of TCIG was located on lands that constituted reserves for the purposes of the Indian Act. [66]
+[37] As well as having a head office at OCN and likely at Brokenhead First Nation subsequently, as noted above, TCIG also had an office in downtown Winnipeg. That office was referred to during the hearing as the main office, the corporate office or the main corporate office. It was located at 2190 – 360 Main Street. Approximately ten employees, including senior management, worked at that office. However, the senior executives who were “dealmakers” would often be out of the office, “on the First Nations” or elsewhere, negotiating contracts. [67] In addition to its head office and its main corporate office, TCIG had a number of other offices, [68] which were not described in detail.
+[38] Although not determinative, a corporation’s registered office might be a relevant factor to consider in determining the residence of the corporation. [69] The registered office of TCIG was located at 2190 – 360 Main Street, Winnipeg, being the same location as TCIG’s main corporate office.
+[39] Although not determinative, the address of TCIG shown on the amended T4 slips issued to Mr. Morriseau and Ms. Smoke was 2190 – 360 Main Street, Winnipeg (i.e., the address of TCIG’s main corporate office and registered office). [70]
+[40] In summary, based on the evidence, it is more likely than not that in 2012 and 2013 TCIG’s central management and control was located on a reserve. It also appears that TCIG’s head office was located on a reserve, while its main corporate office and registered office were located in downtown Winnipeg. Considering and weighing all the evidence as a whole, it is my view that in 2012 and 2013 TCIG was resident on a reserve. However, it is my impression that TCIG was as connected to Winnipeg as it was to the reserves where its directors held their meetings.
+(ii) ABL
+[41] There was no evidence concerning the identity of the directors of ABL or the place where they held their meetings or otherwise made their decisions in respect of ABL. Similarly, there was very little evidence concerning the location of any of the offices of ABL, other than an indication that ABL had a warehouse and an administrative office on Sherwin Road in Winnipeg and an office at OCN, [71] and might possibly have had an office at 2190 – 360 Main Street, Winnipeg. Given the paucity of evidence, I am unable to make a finding that in 2012 and 2013 ABL had its central management and control on a reserve or was resident on a reserve. However, as ABL might have been structured in a manner similar to TCIG, there is a possibility that ABL may have been resident on a reserve.
+[42] To summarize, if Mr. Morriseau and Ms. Smoke were employed by TCIG, their employer was resident on a reserve. If they were employed by ABL, their employer may have been resident on a reserve, but there is no conclusive evidence confirming such residence.
+(b) Residence of the Employee
+[43] Having been born and raised in Winnipeg, and never having lived on a reserve, for the purpose of applying the connecting factors test, Mr. Morriseau resided in Winnipeg, and not on a reserve.
+[44] Similarly, having lived in Portage La Prairie until she was three years old and thereafter, having lived continuously in Winnipeg, for the purposes of the connecting factors test, Ms. Smoke resided in Winnipeg, and not on a reserve. [72]
+(c) Place of Work
+[45] The evidence is clear that both Mr. Morriseau and Ms. Smoke performed all of the duties of their employment in Winnipeg. They did not travel to any reserve, even for a brief period of time, in the course of their employment activities. There was no evidence as to the distances between Winnipeg and the reserves where TCIG’s directors met, or between Winnipeg and the places to which ABL’s products were shipped. [73]
+(d) Place of Payment
+[46] Mr. Morriseau stated that his salary was paid to him by “a First Nation entity” [74] or “an Aboriginal entity,” [75] and that the payor may have been Southeast Tribal Council, [76] “one of the Tribal Councils” [77] or perhaps TCIG. [78] For the period when Mr. Morriseau was paid by cheque, there was no evidence as to whether those cheques were drawn on a bank located on a reserve, in Winnipeg or elsewhere. When Mr. Morriseau began to be paid by direct deposit to his bank or credit union account, that account was located at a financial institution in Winnipeg. There was no evidence concerning the place at which Ms. Smoke was paid her salary for 2012 and 2013. However, as noted above, counsel for Mr. Morriseau and Ms. Smoke has acknowledged that they were both paid in Winnipeg. [79]
+(e) Nature of the Services or Special Circumstances
+[47] In discussing the nature of a taxpayer’s employment and the circumstances surrounding it, for the purpose of determining whether employment income was situated on a reserve, Justice Linden stated:
+In my view, when the personal property at issue is employment income, it makes sense to consider the main purpose, duties and functions of the underlying employment; specifically, with a view to determining whether that employment was aimed at providing benefits to Indians on reserves. [80]
+In Harry Bell, after quoting the above statement by Justice Linden, Justice Létourneau stated:
+I want to emphasize at the outset that the benefit concept relied upon by the appellants is not an independent, free-standing connecting factor, but rather is a standard by which to evaluate the “nature of the employment” factor. [81]
+[48] Turning to the nature of Mr. Morriseau’s employment, he oversaw ABL’s warehouse in Winnipeg and was responsible for the delivery of ABL’s products to its customers. Those products were primarily soft drinks, juice, chips, bread, breakfast products, ice cream, cookies, beef jerky and other snacks. Ms. Smoke’s services related to reporting in respect of the sale and distribution of those products. [82] In these Appeals, apart from the breakfast program (which may have been undertaken by TCIG’s charitable foundation), there were not any special circumstances, such as in the Folster case, which involved hospital-based healthcare. [83] Nor did the services provided by Mr. Morriseau and Ms. Smoke bear any similarity to the counselling services provided by Mr. Kelly. [84] However, there may be some parallel between these Appeals and the situation in Robertson, [85] in that Mr. Robertson worked as a commercial fisher, thus being involved in a food-product supply chain. Mr. Morriseau and Ms. Smoke were also involved in a food-product supply chain.
+(f) Traditional, Economic, Social and Cultural Considerations
+[49] The Notices of Appeal filed by Mr. Morriseau and Ms. Smoke were substantially the same. Each Notice of Appeal referred to TCIG as the employer, but indicated that Mr. Morriseau and Ms. Smoke “worked for [a] company that was owned and controlled by the employer.” The Notices of Appeal listed various factors which, according to Mr. Morriseau and Ms. Smoke, connected their income to a reserve. While it is not precisely clear, it appears that the reserve in question was the reserve referred to as Opaskwayak Cree Nation or OCN. Among the factors listed in each Notice of Appeal were the following:
+1. The employer was owned by 7 Tribal Councils which in turn were owned and controlled by First Nations and represented 92,000 First Nations people who for the most part called their First Nation home or were connected to it through family connections….
+5. The employer was dedicated to the socio-economic development of its member Tribal Councils and their member First Nations and their membership….
+9. The employee was employed to meet the objectives of the employer set out in [paragraph] 5.
+[50] In the Closing Submission made by counsel for Mr. Morriseau and Ms. Smoke, the following was stated in respect of the “residence-of-the-employer” connecting factor:
+In these appeals, the residence of the employer should be analyzed as a connecting factor from the point of view of establishing the scope of the employers’ [sic] activities on the reserves, in particular whether benefits flowed to the reserves from the employer’s presence there…. TCIG was created to start socio-economic development for First Nations in Manitoba … by seven Tribal Councils to provide socio-economic benefits for member First Nations of the seven Tribal Councils…. It provided financial benefits to the member First Nations…. The employer created employment for First Nations people…. Therefore, there is significant evidence to support the presence of the employer on the reserves and that it provided significant socio-economic benefits….
+The evidence of Jonathan Flett … regarding TCIG’s corporate presence as well as those of its’ [sic] subsidiaries underscored the relevance of the employer’s presence on the reserves it represented and who owned it:
+“When we stand together, our success becomes your success. Every dollar spent at these companies recycles your dollar through First Nation companies that help strengthen our overall First Nations economy … because in the end, that dollar comes back to you.” [86]
+[51] Later in his Closing Submission, while discussing the nature of the services performed and the special circumstances in which they were performed, counsel for Mr. Morriseau and Ms. Smoke stated:
+The Appellants worked at a wholly-owned subsidiary of TCIG. The employer, TCIG[,] … consisted of a team which included the Appellants, all of the directing minds of TCIG, all employees of their wholly-owned subsidiaries, including Arctic Beverages Ltd., served to better the socio-economic situation of the First Nations and First Nations people. TCIG was created, owned, and managed by First Nations people. The head office of TCIG was on a reserve. It employed mainly First Nations people, including the Appellants, its Board of Directors were First Nations people who met from time to time on reserves. The employment income of the TCIG employees, including that of the Appellants, was connected to a reserve and thus situated there…. [87] [Bold-faced emphasis in the original, which highlighted most of the above quotation, has not been shown here.]
+[52] After counsel for the Crown submitted her Written Submissions, counsel for Mr. Morriseau and Ms. Smoke, in his Rebuttal, made the following statement, emphasizing the importance, in his view, of the economic and social considerations:
+In this case, TCIG’s head office was on a reserve, it employed mostly First Nations people, the Chief Executive Officer, the Chief Financial Officer were First nations [sic] people and all of the Board of Directors were First Nations people except one. All of the corporate and economic activity of TCIG confirms its presence on the reserves it was created to serve. The Appellants submit, this connecting factor to the reserves should be given determinative weight with respect to the location of their income. It is reasonable to conclude, given the above facts, all First Nation TCIG employees, regardless of residence or work location, should not be subject to income tax assessment. [88]
+[53] The above statement seems to suggest that it is the position of Mr. Morriseau and Ms. Smoke that their income was situated, not on a particular reserve, but rather on all of the reserves that had a connection to TCIG. They also seem to suggest that their position applies not only to themselves but to all Indigenous employees of TCIG.
+[54] In each of the Replies filed by the Crown in respect of the two Appeals, the following was stated as one of the assumptions of fact made by the Minister, in the context of this particular factor:
+In determining the Appellant’s tax liabilities for the Taxation Years, the Minister made the following assumptions of fact: …
+(h) the duties the Appellant performed were not in connection with any non-commercial activities of the Employer that were carried on exclusively for the benefit of Indians who for the most part live on reserves…. [89]
+[55] In her Written Submissions, counsel for the Crown made the following statements, in the context of the “nature-of-the-services-performed-or-special-circumstances” connecting factor, although they are also relevant here:
+As emphasized in Bastien and other decisions, there must be a connection to a physical location, to a reserve, not simply to First Nations people, as that does not meet the purpose and statutory intent of section 87 of Indian Act….
+As repeatedly confirmed in Bastien, Williams and Mitchell v Peguis Indian Band, the purpose of the section 87 exemption is not to confer a general economic benefit, or better the socio-economic situation of Indigenous people generally. The purpose is to protect personal property located on the reserve. [90] [Footnote number and emphasis omitted.]
+[56] As noted above, the relationship between a taxpayer’s income and life on a reserve (i.e., various traditional, economic, social and cultural considerations) may in some cases be a factor tending to strengthen or weaken the connection between the income and the reserve. [91] Such relationship and such considerations are not a separate stand-alone connecting factor between employment income and a reserve. Rather, they strengthen or weaken one or more of the recognized connecting factors. [92]
+(2) Second Step – Analysis of Factors
+[57] Having identified the potentially relevant connecting factors, the next step is to analyze those factors to determine the weight to be given to them in identifying the location of Mr. Morriseau’s and Ms. Smoke’s respective salaries. [93]
+(a) Triplet
+[58] In analyzing the connecting factors, the Court is to take note of three considerations, referred to in Kelly as a triplet, [94] i.e., the purpose of the exemption under the Indian Act, the type of property and the nature of the taxation of that property. [95] The reason for this approach is that “potentially relevant connecting factors have different relevance depending on the categories of property and the types of taxation in issue.” [96] In determining the weight to be given to each connecting factor, in light of the above three considerations, in Williams Justice Gonthier stated:
+The question with regard to each connecting factor is therefore what weight should be given that factor in answering the question whether to tax that form of property in that manner would amount to the erosion of the entitlement of the Indian qua Indian on a reserve. [97]
+(i) Purpose of Exemption
+[59] My consideration of the purpose of the section 87 exemption is guided by the summary by the Federal Court of Appeal in Kelly of the principles enunciated by the Supreme Court of Canada in Bastien. Rather than reiterating all of the points made in Williams, Bastien and Kelly concerning the purpose of the section 87 exemption, I refer the reader to paragraph 42 of Kelly. As well, I note the concise summary of the purpose of the exemption given by Justice V. Miller in Baldwin:
+The purpose of the exemption is to preserve the entitlements of Indians to their reserve lands and to ensure that the use of their property on their reserve lands is not eroded by the ability of governments to tax…. [98]
+[60] The following excerpt from Kelly is also helpful, as it assists in understanding the purpose underlying section 87, as restated and, to some extent, reformulated by the Supreme Court in Bastien:
+Section 87 “guard[s] against the possibility that one branch of government, through the imposition of taxes, could erode the full measure of the benefits given by that branch of government entrusted with the supervision of Indian affairs.” The Crown must “shield Indians from any efforts by non-natives to dispossess Indians of the property which they hold qua Indians.” Does “the Indian [hold] the property in question as part of the entitlement of an Indian qua Indian on the reserve”? The aim is to “insulate the property interests of Indians in their reserve lands from the intrusions and interference of the larger society so as to ensure that Indians are not dispossessed of their entitlements.” [99]
+[61] In considering the meaning of the phrase “the property which they hold qua Indians,” the following comment by the Federal Court of Appeal in Shilling provides additional guidance:
+From [1763], the Crown has always acknowledged that it is honour-bound to shield Indians from any efforts by non-natives to dispossess Indians of the property which they hold qua Indians, i.e., their land base and the chattels on that land base. [100] [Square brackets in original.]
+[62] I also note that the Federal Court of Appeal indicated in Kelly that section 87 focuses on determining whether the personal property (in this case, employment income) of an Indigenous person is situated on a reserve. [101] The focus is on whether there is a connection between the employment income and the reserve, such that it may be said that the income is situated there, and not on whether the employment income is integral to the life of the reserve or to the preservation of the traditional Indigenous way of life. [102]
+[63] I am particularly guided by the underlying principle enunciated in paragraph 47 of Kelly, from which an analogy may be drawn for the purpose of these Appeals:
+In Bastien, too much focus on the “commercial” nature of the term deposits led the lower courts into error. They started to concentrate on the income-earning activities of the Caisse that issued the term deposit, rather than on the income-earning activities of Mr. Bastien…. The proper approach in Bastien was to focus on the investment activity of Mr. Bastien and not the debtor financial institution and its activities as a participant in wider commercial markets. [103]
+[64] Here it is important to remember that we are endeavouring to determine the location of the employment income of Mr. Morriseau and Ms. Smoke, and not the location of the income of TCIG or ABL. If the income of TCIG or ABL were the focus of these Appeals, greater weight might possibly be put on the activities of TCIG or ABL that benefitted First Nations or reserves, such as the shipment of beverages and certain food products to those communities or perhaps the breakfast program in northern First Nations schools (although that program may have been undertaken by TCIG’s charitable foundation).
+(ii) Type of Property
+[65] For the purposes of section 87 of the Indian Act, the property that is the subject of these Appeals is income, and in particular, income from employment.
+(iii) Nature of Taxation
+[66] The nature of the taxation is income taxation under the ITA. In this regard, sections 5 and 6 of the ITA are particularly germane.
+(b) Relevance and Weight of Factors
+[67] Mindful of the above triplet of considerations, I turn now to a determination of the relevance of, and the weight to be given to, the connecting factors that are typically germane in the context of employment income.
+(i) Residence of the Employer
+[68] There was sufficient evidence to establish that TCIG was resident on a reserve, or possibly two or more reserves, but there was no evidence as to the residence of ABL. Therefore, if ABL was the employer of Mr. Morriseau and Ms. Smoke, the “residence-of-the-employer” connecting factor does not assist them.
+[69] Notwithstanding that the “location-of-the-debtor” test (initially developed in a conflict-of-laws context) is no longer to be used when performing a section 87 analysis, the residence of the employer may, depending on the circumstances, be an important factor. [104] However, little weight should be given to the residence of the employer “unless there is evidence to show the scope of the employer’s activities on the reserve, or some benefit flowing to a reserve from the employer’s presence.” [105]
+[70] The significance of an employer providing a benefit to a reserve was discussed in Monias, in which the employer was Awasis Agency of Northern Manitoba, which had been established pursuant to an agreement among the governments of Canada and Manitoba and an organization representing the Indigenous chiefs of Manitoba, which was funded by the federal government and which was established to provide social services to children and families on the reserves in northern Manitoba. In analyzing the weight to be given to the location and nature of the employer (as one of the connecting factors), Justice Evans stated:
+For the purposes of the present inquiry, Awasis should be regarded as closely linked to reserves through the residency and identity of its members and directors, as well as through the reason for its creation, funding, statutory status, objects and the nature of the services that it provides. However, the fact that Awasis does not conduct its business on a reserve and hence, apparently, provides no employment opportunities on reserves, points to an off-reserve residency and hence weakens the connection between the employer and the reserves for the purpose of determining the situs of the [taxpayer’s] employment income under paragraph 87(1)(b). [106]
+[71] In the present Appeals, although the directors of TCIG met on several reserves and TCIG had its head office on one (or possibly two) reserves, there was no evidence of TCIG undertaking any business activities on reserves or creating any employment opportunities on reserves. While one of the reasons for creating TCIG was to provide economic opportunities to Indigenous people, based on the evidence, it seems that most of the employment opportunities created by TCIG, in the context of ABL, were in Winnipeg, and not on a reserve.
+[72] There was no evidence to show that ABL had a presence on a reserve, other than a brief reference to an office at OCN, which may have been used for recruiting purposes, [107] or that any benefit flowed to a reserve from the presence of TCIG or ABL. As noted above, ABL and the other subsidiaries of TCIG paid annual dividends to TCIG, which distributed those dividends to the seven Tribal Councils (or their nominees) that were the shareholders of TCIG. The Tribal Councils then used those dividends to benefit the First Nations people of Manitoba. However, this economic benefit arose by reason of the economic success of TCIG and its subsidiaries in their business activities, and not from the presence of TCIG or those subsidiaries on reserves. Furthermore, there was no evidence to indicate that any of the business activities of TCIG or ABL were carried out on a reserve.
+[73] As noted above, ABL made gifts to First Nations communities, but no other evidence was provided in respect of those gifts. [108]
+[74] ABL distributed its products in Manitoba, northern Saskatchewan, parts of Ontario and the Territories. Mr. Morriseau assumed that the products were distributed to general stores in northern communities; [109] while that may have been a safe assumption to make, there was no specific evidence to connect the distributed products with reserves.
+[75] Given the lack of evidence showing the scope of TCIG’s and ABL’s activities on reserves or showing a benefit flowing to a reserve from the presence of TCIG or ABL, I am not inclined to give significant weight to this connecting factor. Although the residence of TCIG on a reserve and the possible residence of ABL on a reserve are factors that tend to connect the employment income of Mr. Morriseau and Ms. Smoke with such reserve, for the reasons expressed above, this is not a particularly strong connection.
+(ii) Residence of the Employee
+[76] Concerning the “residence-of-the-employee” connecting factor, Justice Evans stated the following in Monias:
+58. Since the policy underlying section 87 is to protect the reserves as an economic unit for the members of the Bands living there, the residency of employees can be a significant factor in determining the situs of employment income….
+59. However, because the residency of the owner of the personal property is not part of the statutory definition of the scope of section 87, it cannot be a universal requirement. Indeed, it may be clear from the facts that a person’s tangible property is situated on a reserve, even though the person does not reside there…. However, I would note that in Mitchell, … La Forest J., when apparently speaking of both tangible and intangible property, related the availability of the protections provided by sections 87 and 89 to whether or not there was “a discernible nexus between the property concerned and the occupancy of reserve lands by the owner of that property.” [Emphasis in the original.]
+60. Residency can thus be an important factor in connecting employment income to a reserve, and the fact that an employee does not live on a reserve can indicate that her or his employment income was not acquired or used on a reserve…. Of course, residency is only one factor and there may be situations where it is outweighed by others, or assumes less significance…. [110]
+[77] Although Mr. Morriseau and Ms. Smoke resided in Winnipeg in 2012 and 2013 and have never lived on a reserve, it is important to remember that the issue to be resolved is whether their employment income in those years was situated on a reserve, and not whether they themselves were situated on a reserve. [111] While the residence of an Indigenous employee somewhere other than on a reserve might potentially be relevant, it should generally be given little weight. [112] Thus, the fact that Mr. Morriseau and Ms. Smoke did not reside on a reserve is not a significant or determinative factor. [113] Accordingly, I ascribe little weight to this factor.
+(iii) Place of Work
+[78] The location of the work performed by a particular employee is one of the more important factors for the purposes of a section 87 analysis. Given that employment income is earned as a result of the work performed, the location of that work (as well as its nature, which will be discussed below) may assist in ascertaining the location of the income. [114] Generally, significant weight should be given to the place where an employee’s work is performed. [115]
+[79] The location of an employee’s work is not determinative; [116] nevertheless, the fact that an employee works off reserve is a factor that tends to connect his or her employment income to a location other than a reserve. [117]
+[80] Mr. Morriseau and Ms. Smoke performed all of their employment duties in Winnipeg. They both acknowledged that they did not perform any work on, or even visit, a reserve in the course of their employment duties. The location of the work performed by Mr. Morriseau and Ms. Smoke was a critical factor tending to situate their employment income in Winnipeg, rather than on a reserve.
+(iv) Place of Payment
+[81] Recognizing that, in these Appeals, the type of property is income from employment and the nature of taxation is income taxation, the place where the income is paid is a relevant factor, particularly as a taxpayer’s employment income for a taxation year is the salary, wages and other remuneration received by the taxpayer in the year. [118] However, the place of payment is not a particularly weighty consideration, [119] as the place of payment has little, if any, logical connection with the policy underlying section 87 of the Indian Act. [120]
+[82] In commenting on the place where an employee is paid, Justice Bowie stated the following in Walkus:
+The place at which the person is paid can only be of use in the analysis to the extent that it is a factor which genuinely gives some indication of the answer to the underlying question, “would taxation of this income adversely affect the property interest of the Appellant qua Indian, or would it simply serve to confer an economic benefit not available to others?” [121]
+[83] I ascribe only moderate weight to the fact that Mr. Morriseau and Ms. Smoke were paid in Winnipeg, and not on a reserve.
+(v) Nature of the Services or Special Circumstances
+[84] In Folster, Justice Linden made the following observations in the context of employment income and section 87 of the Indian Act:
+20. … It must be recalled that the connecting factors test is simply a way for courts to apply the situs principle in a principled way, by bringing some structure to the inquiry. It is an inquiry which has, as its basic question: having regard for the legislative purpose for which the section 87 tax exemption was enacted, where does it make the most sense to locate the situs of the personal property at issue? The test is no more magic than that….
+27. … The type of personal property at issue, employment income, is such that its character cannot be appreciated without reference to the circumstances in which it was earned…. The personal property at issue is income earned by an Indian who is resident on a Reserve, and who works for a Hospital which attends to the needs of the Reserve community; a Hospital that was once located on, and is now adjacent to, the Reserve it services.
+28. … In my view, when the personal property at issue is employment income, it makes sense to consider the main purpose, duties and functions of the underlying employment; specifically, with a view to determining whether that employment was aimed at providing benefits to Indians on reserves….
+30. … [Ms. Folster] was not employed in the “commercial mainstream”, but rather, in her capacity as an employee of the Hospital, she assisted in the provision of health care services to members of the Norway House Indian Band. As such, her employment was an integral part of community life on the Reserve. [122]
+[85] In addition to the location of employment, the nature of the employment is also an important connecting factor. [123] A court must consider the circumstances surrounding an employee’s work and must assess the situation as whole. [124] In evaluating the nature of employment, there might possibly be a difference between providing social services and working for a for-profit enterprise. [125]
+[86] As stated above, Mr. Morriseau oversaw ABL’s warehouse in Winnipeg and Ms. Smoke worked as an area administrator, initially for ABL and subsequently for TCIG. TCIG had been incorporated to provide economic opportunities to Indigenous people; however, there was no evidence to show that those economic opportunities were created on reserves. While TCIG had a number of subsidiaries, the only subsidiary described at length at the hearing was ABL, which conducted its operations in Winnipeg. Thus, insofar as the actual employment activities performed by Mr. Morriseau and Ms. Smoke are concerned, there was nothing in evidence (except for the distribution of ABL’s products, which is discussed below) to suggest a connection between those activities and a reserve.
+[87] There was no firm evidence as to the location of the retailers and other customers who purchased products from ABL. [126] Mr. Morriseau said that ABL delivered its products only to First Nations entities. [127] There was no evidence to confirm that those entities were located on reserves; however, one may likely presume that such was the case. Mr. Flett stated that ABL distributed its products in Manitoba, northern Saskatchewan, parts of Ontario and certain parts of the Territories. [128] But again, there was no evidence to show that the distributees of those products were located on reserves.
+[88] Based on the description of the destinations to which ABL shipped its products, it appears that many of those destinations were a considerable distance from Winnipeg. Nevertheless, to the extent that ABL distributed its products to First Nations entities located on reserves, there would have been an indirect connection between those reserves and the services of Mr. Morriseau and Ms. Smoke. As well, the operation by ABL (or perhaps by TCIG’s charitable foundation) of a breakfast program to provide juice and breakfast products to First Nations schools on various reserves in northern Manitoba and Ontario [129] and the making of donations by ABL to First Nations communities [130] were circumstances tending to connect ABL’s business and the employment of Mr. Morriseau and Ms. Smoke with one or more reserves.
+[89] The Monias case provides helpful guidance in determining the weight to be attributed to the “nature-of-the-services” connecting factor:
+44. The nature of the services rendered by the respondent [i.e., the taxpayer] in the course of his employment connects his employment income to reserves. The principal focus of the services provided by Awasis through its employees is to support and strengthen Native families on the reserves, and, in particular, to attend to the social needs of children on the reserves….
+45. Clearly, individuals on the reserves served by Awasis, as well as the reserves themselves viewed as social units, are … the immediate beneficiaries of the employees’ work….
+46. However, while the employees’ work may help to maintain and enhance the quality of life on the reserves for members of the Bands living there, it does not necessarily connect the acquisition or use of their employment income to the reserves as physical locations. [131] [Emphasis in the original.]
+[90] Similarly, in the context of these Appeals, while the employment of Mr. Morriseau and Ms. Smoke was part of the operations by which ABL distributed its products to First Nations entities and perhaps operated a breakfast program in northern Manitoba and Ontario, in my view, there is no greater, and perhaps less, of a connection of the acquisition or use of the employment income of Mr. Morriseau and Ms. Smoke to reserves than there was in respect of the employees who were the appellants in Monias.
+[91] In summary, although there were general indications in the evidence that ABL sold its products to First Nations, First Nations entities and customers in northern communities, there was no specific evidence to link the recipients of those products to reserves to such an extent that it could be said that the income of Mr. Morriseau and Ms. Smoke was situated on a reserve. The only link to reserves established by the evidence was in the context of ABL’s breakfast program, but that was not the major focus of ABL’s business. As well, there is a possibility that the breakfast program was actually undertaken by TCIG’s charitable foundation. [132] Accordingly, I am putting only moderate weight on the “nature-of-the-services” connecting factor.
+(vi) Traditional, Economic, Social and Cultural Considerations
+[92] Although there was no evidence of any traditional, social or cultural considerations that may have been relevant in determining the situs of the employment income of Mr. Morriseau and Ms. Smoke, in their submissions they raised an economic consideration. As noted above, it is the position of Mr. Morriseau and Ms. Smoke that the corporate and economic activity of TCIG and the benefits provided by TCIG to First Nations and their reserves were a factor that connected the employment income of Mr. Morriseau and Ms. Smoke to those reserves.
+[93] As explained above, although traditional, economic, social and cultural considerations may be a factor tending to strengthen or weaken the connection between a taxpayer’s income and a reserve, [133] those considerations are not a connecting factor in their own right. Moreover, an evidentiary base or “proper factual foundation” is required to show a “historic, social or cultural connection” with a reserve. [134]
+[94] Given the scantiness of the evidence, [135] the corporate and economic activity of TCIG and ABL and the benefits provided by TCIG and ABL to Tribal Councils strengthen only slightly the “nature-of-the-services” connecting factor.
+(vii) Balancing of the Connecting Factors
+[95] This is a difficult case, with some connecting factors suggesting that the employment income of Mr. Morriseau and Ms. Smoke was situated on a reserve, and other connecting factors suggesting that the income was situated in Winnipeg. A summary of the weight that I have given to the five connecting factors is set out below:
+a) Residence of the employer: Given that there is uncertainty as to which corporate entity was the employer, given that there was no evidence to establish that ABL (as distinct from TCIG) was resident on a reserve, and given that there was little evidence to show the scope of the activities of TCIG and ABL on reserves or to show a benefit flowing to a reserve from the presence of TCIG and ABL thereon, I have not given much weight to this connecting factor. However, because ABL distributed its products to northern Indigenous communities, which may have been located on reserves, and because ABL made gifts to First Nations and may have undertaken a program to provide breakfast to students in First Nations schools (assuming that the program was not undertaken by TCIG’s charitable foundation), I have given more weight to this factor than I otherwise would have.
+b) Residence of the employee: I have given little weight to the fact that Mr. Morriseau and Ms. Smoke resided in Winnipeg, and not on a reserve.
+c) Place of work: I have given substantial weight to the fact that Mr. Morriseau and Ms. Smoke performed all of their employment duties in Winnipeg, and did not make even occasional visits to a reserve in the course of their employment.
+d) Place of payment: While this is a relevant connecting factor in the context of employment income, it is not a factor to which significant weight should be given. Accordingly, I have ascribed only moderate weight to this factor.
+e) Nature of the services or special circumstances: Given that ABL distributed products to First Nations entities in Manitoba, northern Saskatchewan, part of Ontario and the Territories, there is some connection between the employment of Mr. Morriseau and Ms. Smoke and various reserves. However, as there was little, if any, evidence (except with respect to the breakfast program) to show that those entities were located on reserves, I have ascribed only moderate weight to this factor. This connecting factor is strengthened slightly by the economic benefit provided by TCIG and ABL to the Tribal Councils.
+[96] If the Court were to find that the employment income of Mr. Morriseau and Ms. Smoke is not subject to income tax, it would be because of an inclination “to remedy the economically disadvantaged position of Indians,” [136] or “to confer a general economic benefit upon the Indians,” [137] but that is not the purpose of the section 87 exemption. Rather, the purpose is “to preserve the entitlements of Indians to their reserve lands and to ensure that the use of their property on their reserve lands [is] not eroded by the ability of governments to tax….” [138]
+[97] As there are parallels between these Appeals and the appeals that were the subject of the Monias case, the approach to weighing the various connecting factors taken by Justice Evans in that case may provide some guidance here. In that case, Justice Evans stated:
+65. However, I must weigh the fact that the respondent [i.e., the taxpayer] resides and performs his employment duties off reserve, often at great distances from the reserves served by Awasis, against the undoubted benefits to the residents of the reserves from the respondent’s services, the identity of the employer and the importance of the services to strengthening the essential social fabric of the reserves….
+66. That the work from which employment income is earned benefits Indians on reserves, and indeed may be integral to maintaining the reserves as viable social units, is not in itself sufficient to situate the employment income there. It is not the policy of paragraph 87(1)(b) to provide a tax subsidy for services provided to and for the benefit of reserves. Rather, it is to protect from erosion by taxation the property of individual Indians that they acquire, hold and use on a reserve, although in the case of an intangible, such as employment income, it is the situs of its acquisition that is particularly important. [Emphasis in original.]
+67. By enacting paragraph 87(1)(b) Parliament made an important exception to the principle that those similarly situated should be treated in the same way for tax purposes. However, the paragraph cannot be read as exempting from income tax Indians’ employment income that was not clearly earned in circumstances that link its acquisition to a reserve as an economic base. [139]
+[98] In these Appeals, I must weigh the facts that in 2012 and 2013 Mr. Morriseau and Ms. Smoke resided, performed their employment duties and were paid their respective salaries in Winnipeg against the fact that TCIG and perhaps ABL were resident on a reserve (although there was little evidence of any economic benefit flowing to the reserve from the presence of TCIG and ABL), the fact that benefits likely accrued to reserves by reason of ABL’s distribution of its products to First Nations entities and northern communities (although there was little evidence specifically linking such distribution to reserves) and the fact that ABL operated a breakfast program (although the evidence suggests that the program may have been undertaken by TCIG’s charitable foundation). In my view, the connecting factors indicating that the employment income of Mr. Morriseau and Ms. Smoke was earned in Winnipeg (i.e., not on a reserve) outweigh the connecting factors linking that employment income to a reserve. While this is a relatively close case, having regard to all the evidence, the place where Mr. Morriseau and Ms. Smoke performed their employment duties, i.e., Winnipeg, is the predominant connecting factor, tipping the scale toward a finding that the situs of their employment income was Winnipeg, and not on a reserve.
+V. CONCLUSION
+[99] For the reasons set out above, these Appeals are dismissed. As these Appeals were heard under the Informal Procedure, no costs are awarded.
+[100] As explained above, [140] these Appeals were commenced in response to the confirmation of reassessments issued by the CRA in respect of amended T4 slips issued by TCIG several years after the taxation years in question. It seems that TCIG, apparently at the behest of the CRA, retroactively changed its position in respect of the taxability of the salaries paid by TCIG and ABL to their Indigenous employees in 2012 and 2013. Consequently, as I understand it, no income tax was withheld at source in respect of those salaries. In my view, if Mr. Morriseau and Ms. Smoke have not already paid the reassessed tax, it would create a significant hardship if they were to be required to pay arrears interest on that tax. I think that it would be appropriate in this case for the Minister to exercise her discretion, under subsection 220(3.1) of the ITA, in favour of Mr. Morriseau and Ms. Smoke, and cancel any interest that may have been assessed in respect of the tax that is the subject of these Appeals.
+Signed at Edmonton, Alberta, this 15th day of January 2020.
+“Don R. Sommerfeldt”
+Sommerfeldt J.
+CITATION:
+2020 TCC 5
+COURT FILE NOS.:
+2017-3076(IT)I and 2017-3077(IT)I
+STYLE OF CAUSE:
+CHRISTOPHER MORRISEAU AND HER MAJESTY THE QUEEN and MIRANDA SMOKE AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Winnipeg, Manitoba
+DATES OF HEARING:
+July 12, 2018 and June 24, 2019
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Don R. Sommerfeldt
+DATE OF JUDGMENT:
+January 15, 2020
+APPEARANCES:
+Counsel for the Appellants:
+Kenneth Young
+Counsel for the Respondent:
+Sandra Hoeppner
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Kenneth Young
+Firm:
+[BLANK]
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] The term used by Mr. Morriseau and Ms. Smoke in their testimony was “Status Indian;” see Transcript, p. 28, lines 15-21; and p. 45, lines 2-7. It is my understanding that this term refers to a person who is registered as an Indian under the Indian Act, as cited in the next footnote.
+[2] Indian Act, RSC 1985, c. I-5, as amended.
+[3] Income Tax Act, RSC 1985, c.1 (5th Supplement), as amended.
+[4] I was not provided with any corporate documents showing the legal name of ABL; therefore, I am not certain whether its name is “Arctic Beverages Limited” or “Arctic Beverages Ltd.”
+[5] Exhibits A-1 and A-2.
+[6] See paragraph 87(1)(b) of the Indian Act.
+[7] Williams v The Queen, [1992] 1 SCR 877, [1992] 1 CTC 225, 92 DTC 6380, ¶33-38.
+[8] Estate of Rolland Bastien v The Queen, [2011] 2 SCR 710, 2011 SCC 38, [2011] 5 CTC 111, 2011 DTC 5118, ¶2 & 18.
+[9] Kelly v The Queen, 2013 FCA 171; rev’g 2009 TCC 189.
+[10] Transcript, p. 13, lines 13-14.
+[11] Transcript, p. 13, lines 19-20.
+[12] Transcript, p. 45, lines 12-13.
+[13] The Corporations Act, RSM 1987, c. C225.
+[14] As TCIG appears to have been incorporated federally, it seems that it may have registered extra-provincially in Manitoba, such that it was required to file annual returns of information. The heading in Box 3 of the 2012 and 2013 Annual Returns of Information is “Date of Incorporation or Amalgamation.” As there was no mention of an amalgamation in any of the testimony, it seems that TCIG was likely incorporated on November 27, 1989.
+[15] Exhibit R-1, which is the 2012 Annual Return of Information filed on May 1, 2013 in Manitoba, indicates that Mr. Flett was a director in 2012. Mr. Flett is not shown as a director on Exhibit R-2, being the 2013 Annual Return of Information filed on August 19, 2014 at the Manitoba Companies Office. During cross-examination, Mr. Flett stated that he ceased to be a director of TCIG in 2015, notwithstanding that a Notice of Change of Directors, which was shown to him but not entered as an exhibit (nor shown to me), may have suggested that he ceased to be a director of TCIG in 2013. I found Mr. Flett to be an informed and credible witness, who had extensive knowledge of TCIG and its affairs. I do not think that the reliability of his testimony is affected by whether he ceased to be a director in 2013 or 2015.
+[16] The 2013 Annual Return of Information showed the name of this shareholder as “Swampy Cree Tribal Council.” In other words, “Cree” rather than “Creek” was used, and there was no “Inc.” in the name shown on the 2013 Return. Although there was no evidence on this point, it is my understanding that the correct name of the particular Indigenous people is “Swampy Cree.” Nothing in these Appeals turns on the name of this shareholder.
+[17] The 2013 Annual Return of Information describes this shareholder as “West Region Economic Development Corp.” There may have been a change of name, a transfer of shares, or an error on the Return. Nothing in these Appeals turns on the name of this shareholder.
+[18] Transcript, p. 64, lines 19-24.
+[19] While Mr. Flett was a director of TCIG, it made annual payments of $110,000 to each of the seven Tribal Councils, “as well as upwards of $50,000 per Tribal Council for donations to the individual First Nations. So there was upwards of a million dollars a year going back to the Tribal Councils and First Nations.” See Transcript, p. 111, line 24 to p. 112, line 4.
+[20] Transcript, p. 114, lines 8-9.
+[21] Transcript, p. 121, line 27 to p. 122, line 14.
+[22] Transcript, p. 122, lines 13-20; and p. 124, lines 3-8. It was not clear from the evidence whether the foundation was in existence in 2012 and 2013.
+[23] Transcript, p. 115, lines 4-6.
+[24] Transcript, p. 63, line 27 to p. 64, line 1.
+[25] Transcript, p. 30, lines 2-14.
+[26] Transcript, p. 29, lines 12-17.
+[27] Transcript, p. 13, lines 1-4.
+[28] Transcript, p. 55, line 26 to p. 56, line 18.
+[29] Transcript, p. 115, lines 7-14.
+[30] Transcript, p. 125, lines 2-8; and p. 127, lines 7-12 & 25-28.
+[31] Transcript, p. 12, lines 3-4. See also Transcript, p. 28, lines 22-25.
+[32] Transcript, p. 33, lines 14-15. It was not clear whether this was intended to be a reference to Southeast Tribal Council or a reference to Southeast Resource Development Council Corp. (i.e., one of the shareholders of TCIG), which was presumably an entity owned by Southeast Tribal Council.
+[33] Transcript, p. 36, lines 14-17.
+[34] Transcript, p. 38, lines 25-26.
+[35] Transcript, p. 39, lines 2-6.
+[36] Transcript, p. 44, lines 22-25. See also Transcript, p. 52, lines 18-22.
+[37] Transcript, p. 49, line 15 to p. 50, line 5. The evidence was somewhat unclear, as Ms. Smoke initially stated, “I’ve only been working with that TCIG up until the end of 2011” (p. 49, lines 15-16). She then stated, “2012 was when I initially started working at TCIG, so before that I wasn’t employed with TCIG” (p. 49, lines 17-18). To seek clarification, I asked, “You said that in 2011, you worked elsewhere. You did not work for TCIG in 2011?” (p. 50, lines 1-2). Ms. Smoke replied, “Yeah, I was employed with Arctic Beverages. I believe it was just before Christmas in 2011, so that year was pretty well almost over” (p. 50, lines 3-5). Assuming that, by the end of that exchange, Ms. Smoke had clarified and confirmed her recollection, it appears that she worked for ABL until sometime in December 2011, at which time she began to work for TCIG.
+[38] Transcript, p. 52, line 23 to p. 53, line 25.
+[39] Transcript, p. 126, lines 16-21.
+[40] Transcript, p. 70, lines 3-5. Mr. Flett did not indicate whether he was referring to the Northwest Territories, Nunavut, Yukon, or all of them.
+[41] Transcript, p. 55, lines 13-17.
+[42] There was no discussion of any change in her duties or her place of work when she ceased to work for ABL and began to work for TCIG.
+[43] Transcript, p. 56, lines 19-26.
+[44] Counsel for Mr. Morriseau and Ms. Smoke stated that they were paid in Winnipeg, but submitted that such factor should not be given any significant weight, nor should Mr. Morriseau and Ms. Smoke “be considered as having forfeited the right to their section 87 exemption”; see Closing Submission filed November 30, 2018, p. 6. Counsel for the Crown submitted that Mr. Morriseau and Ms. Smoke were paid in Winnipeg through direct deposit into accounts at a credit union in Winnipeg; see Written Submissions filed April 30, 2019, p. 9, ¶36. See also Transcript, p. 38, lines 10-22.
+[45] Bastien, supra note 8, ¶ 16-17.
+[46] Williams, supra note 7, p. 892-893, ¶37.
+[47] Bastien, supra note 8, ¶18.
+[48] See Desnomie v The Queen, [2000] 3 CTC 6, 2000 DTC 6250, ¶7 (FCA); aff’g [1998] 4 CTC 2207, 98 DTC 1744, ¶9 (TCC). The Supreme Court of Canada denied leave to appeal from the decision of the Federal Court of Appeal (265 NR 398). In paragraph 9 of his Reasons, the trial judge, Justice Archambault, did not list, as a connecting factor, the place where the employee is paid; however, in footnote 2 to his Reasons, he said that, although there was no specific assumption or evidence concerning the place of payment, given that Mr. Desnomie lived and worked in Winnipeg and the head office and main place of business of his employer was in Winnipeg, “it is difficult to imagine that payment would have occurred anywhere but in Winnipeg.”
+[49] Baldwin v The Queen, 2014 TCC 284, ¶54; aff’d sub nom. Zoccole v The Queen, 2015 FCA 258; leave to appeal denied by SCC, 2016 CarswellNat 1183; and The Queen v Shilling, 2001 FCA 178, ¶31-32. In Helen Bell v The Queen, 2018 FCA 91, ¶17, Justice Webb listed only the four connecting factors set out by Justice Archambault in paragraph 9 of Desnomie (TCC), ibid.
+[50] Bastien, supra note 8, ¶28.
+[51] Ibid.
+[52] Kelly (FCA), supra note 9, ¶42 (second bullet on p. 15).
+[53] Kelly (TCC), supra note 9, ¶47(f). See also Kelly (FCA), supra note 9, ¶15.
+[54] Kelly (TCC), supra note 9, ¶51; see also Kelly (FCA), supra note 9, ¶15.
+[55] The Queen v Robertson, 2012 FCA 94, ¶61. See also Kelly (FCA), supra note 9, ¶42 (second bullet on p. 15).
+[56] Robertson, ibid, ¶61.
+[57] Kelly (FCA), supra note 9, ¶42 (first bullet on p. 15).
+[58] Bastien, supra note 8, ¶28.
+[59] In De Beers Consolidated Mines Ltd. v Howe, [1906] AC 455 at 458 (HL), Lord Loreburn stated that “a company resides … where its real business is carried on…. and the real business is carried on where the central management and control actually abides.” Generally, the residence of a corporation is located where the directors meet and make their decisions, provided that another party does not dictate those decisions. In Harry Bell v The Queen, [2000] 3 CTC 181, 2000 DTC 6365 (FCA), ¶50; aff’g sub nom. Walkus, [1998] 4 CTC 2526, 98 DTC 1857 (TCC), Justice Létourneau, in determining the residence of a corporation in the context of the section 87 exemption, referred to similar principles, as set out in Unit Construction Co. Ltd. v Bullock, [1960] AC 351 at 366, 372 (HL). See also Wood v Holden, [2006] EWCA Civ 26, [2006] STC 443 (Eng CA); British Columbia Electric Railway Co. v The King, [1946] CTC 224, 2 DTC 839 (PC); and Capitol Life Insurance Co. v The Queen, [1984] CTC 141, 84 DTC 6087 (FCTD).
+[60] Transcript, p. 67, line 16 to p. 68, line 2.
+[61] In Shilling, supra note 49, ¶2, 8 & 34-42, the on-reserve location of the head office of the taxpayer’s employer was noted by the Court in discussing the weight to be given to the location of the employer. In Pilford Estate v The Queen, 2014 FCA 97, ¶4, aff’g 2013 TCC 181, ¶65, Justice Sharlow and Justice C. Miller respectively noted the on-reserve location of the corporate employer’s head office.
+[62] Transcript, p. 116, line 19 to p. 117, lines 6.
+[63] Transcript, p. 68, lines 3-17; and p. 70, lines 16-21.
+[64] Transcript, p. 44, lines 4-9.
+[65] Exhibit A-3.
+[66] Transcript, p. 132, lines 6-9.
+[67] Transcript, p. 97, line 1 to p. 98, line 6; and p. 122, line 21 to p. 123, line 24.
+[68] Transcript, p. 122, lines 25-26.
+[69] BC Electric Railway, supra note 59, p. 228; and The Queen v Monias, 2001 FCA 239, ¶11 & 51.
+[70] Exhibits A-1 and A-2.
+[71] Transcript, p. 116, lines 13-16.
+[72] In his Closing Submission, supra note 44, p. 2, counsel for Mr. Morriseau and Ms. Smoke acknowledged that they had “never resided on their respective reserves.”
+[73] Some of the product-shipment destinations were so far from Winnipeg or so remote that the products were shipped by air or by winter roads. See Transcript, p. 37, lines 14-18.
+[74] Transcript, p. 38, lines 25-26.
+[75] Transcript, p. 39, line 3.
+[76] Transcript, p. 33, lines 14-15.
+[77] Transcript, p. 36, lines 16-17.
+[78] Transcript, p. 39, lines 4-5.
+[79] Closing Submission, supra note 44, p. 6; see also ¶24 above.
+[80] Folster v The Queen, [1997] 3 CTC 157, 97 DTC 5315 (FCA), ¶28.
+[81] Harry Bell (FCA), supra note 59, ¶40.
+[82] Transcript, p. 29, lines 12-24.
+[83] Folster, supra note 80,
+[84] Kelly, supra note 9. I recognize that Mr. Kelly’s appeal related to business income and these Appeals relate to employment income.
+[85] Robertson, supra note 55.
+[86] Closing Submission, supra note 44, p. 4-5. Notwithstanding the statement in the last sentence of the first paragraph quoted above, in my view there was not “significant evidence to support the presence of the employer on the reserves.” Apart from a brief indication that ABL had an office at OCN, which may have been used for recruiting (Transcript, p. 116, lines 13-17), there was no other evidence presented at the hearing in respect of the presence of ABL on any reserve. With respect to TCIG, the only evidence of it having a presence on a reserve indicated that its directors met on reserves, but there was no evidence as to how often those meetings were held, how long they lasted (for instance, were directors required to stay in hotels or eat in restaurants on the reserves?), nor was there any other indication of any economic spinoff to the reserves by reason of those meetings being held there. There was evidence that TCIG had its head office on a reserve, but there was no evidence as to the nature of that office, such as whether it was in leased premises, with rent being paid to a landlord situated on the reserve, whether TCIG owned the head office and paid something akin to municipal property taxes or a similar levy to a First Nation or Band, and whether any employees worked in the head office. (See Shilling, supra note 49, ¶35-36.) Thus, in my view, there was little, if any, evidence to show that a benefit flowed to a reserve from TCIG’s presence. Admittedly, TCIG provided significant, even substantial, economic benefits to First Nations, but those benefits came by reason of dividends or other distributions paid by TCIG to its shareholders, the seven Tribal Councils or their nominees, which, in turn, made distributions to First Nations.
+[87] Closing Submission, supra note 44, p. 7.
+[88] Rebuttal, filed May 31, 2019, p. 6, ¶23.
+[89] Reply in Appeal No. 2017-3076(IT)I, ¶11(h); and Reply in Appeal No. 2017-3077(IT)I, ¶10(h).
+[90] Written Submissions of the Crown, filed April 30, 2019, p. 9-10, ¶39-40.
+[91] See paragraph 28 above.
+[92] See paragraph 30 above. See also Harry Bell (FCA), supra note 59, ¶40, where the Court indicated that the benefit concept (which, although related to the “nature-of-the-services” connecting factor, may also have some relationship to the analysis of traditional, economic, social and cultural considerations) “is not an independent, free-standing connecting factor….”
+[93] In addition to the Williams and Bastien cases, see also Helen Bell, supra note 49, ¶15.
+[94] Kelly (FCA), supra note 9, ¶32.
+[95] Williams, supra note 7, ¶37; and Bastien, supra note 8, ¶18.
+[96] Bastien, supra note 8, ¶18. See also Williams, supra note 7, ¶37; and Kelly (FCA), supra note 9, ¶33-36.
+[97] Williams, supra note 7, ¶37.
+[98] Baldwin, supra note 49, ¶57.
+[99] Kelly (FCA), supra note 9, ¶42, first bulleted item.
+[100] Shilling, supra note 49, ¶27.
+[101] Kelly (FCA), supra note 9, ¶42, fourth bulleted item.
+[102] Ibid.
+[103] Ibid, ¶47.
+[104] Williams, supra note 7, ¶32; and Baldwin, supra note 49, ¶47 & 59.
+[105] Baldwin, supra note 49, ¶59; and Monias, supra note 69, ¶50.
+[106] Monias, supra note 69, ¶55.
+[107] Transcript, p. 116, lines 13-17.
+[108] See paragraph 14 above.
+[109] Transcript, p. 36, line 26 to p. 37, line 6.
+[110] Monias, supra note 69, ¶58-60.
+[111] Kelly (FCA), supra note 9, ¶52; and Baldwin, supra note 49, ¶57(5).
+[112] Dubé v The Queen, 2011 SCC 39, ¶14; and Baldwin, supra note 49, ¶69.
+[113] Shilling, supra note 49, ¶58; and Horn v The Queen, 2007 FC 1052, ¶101, aff’d 2008 FCA 352.
+[114] Baldwin, supra note 49, ¶72; Shilling, supra note 49, ¶47-48 & 58; and Desnomie (TCC), supra note 48, ¶18.
+[115] Horn (FC), supra note 113, ¶86.
+[116] Monias, supra note 69, ¶37.
+[117] Monias, supra note 69, ¶37 & 43.
+[118] Subsection 5(1) of the ITA. See also Baldwin, supra note 49, ¶56, which confirms that employment income is taxable when it is received.
+[119] Shilling, supra note 49, ¶32; and Horn (FC), supra note 113, ¶91;
+[120] Monias, supra note 69, ¶57.
+[121] Walkus, supra note 59, also reported at [1999] 1 CTC 2086, ¶46.
+[122] Folster, supra note 80, ¶20, 27-28 & 30. Although Justice Linden, writing in 1997, referred to the “commercial mainstream” in the above-quoted paragraph 30, in Bastien, supra note 8, ¶52, decided in 2011, Justice Cromwell indicated that the “commercial mainstream” consideration must be applied with care; see also Kelly (FCA), supra note 9, ¶46-47. In light of those cautionary directions, in these Reasons, I have not ascribed any weight to the participation of TCIG, ABL and their employees in the commercial mainstream.
+[123] Monias, supra note 69, ¶33-34; Horn (FC), supra note 113, ¶92; and Baldwin, supra note 49, ¶72.
+[124] Monias, supra note 69, ¶47.
+[125] Shilling, supra note 49, ¶52.
+[126] As noted in Harry Bell (FCA), supra note 59, ¶43, “neither speculation nor well-intended guesses are valid substitutes for real and probative evidence.”
+[127] Transcript, p. 13, lines 1-4.
+[128] Transcript, p. 70, lines 3-5.
+[129] Transcript, p. 55, line 26 to p. 56, line 18; p. 115, lines 7-14; and p. 124, lines 2-27.
+[130] Transcript, p. 125, lines 2-8; and p. 127, lines 7-12.
+[131] Monias, supra note 69, ¶44-46.
+[132] Transcript, p. 115, lines 7-14; and p. 124, lines 2-27.
+[133] Bastien, supra note 8, ¶28; Kelly (TCC), supra note 9, ¶47(f); and Robertson, supra note 55, ¶61.
+[134] Harry Bell (FCA), supra note 59, ¶43.
+[135] See paragraphs 71-72 & 86-87 above.
+[136] Mitchell v Peguis Indian Band, [1990] 2 SCR 85, at 131; Bastien, supra note 8, ¶21; and Kelly (FCA), supra note 9, ¶42.
+[137] Williams, supra note 7, p. 885; Bastien, supra note 8, ¶23; and Kelly, supra note 9, p. 14-15.
+[138] Williams, supra note 7, p. 885; Bastien, supra note 8, ¶23; and Baldwin, supra note 49, ¶57. The purpose of the exemption is discussed in greater detail in paragraphs 59-63 above.
+[139] Monias, supra note 69, ¶65-67.
+[140] See paragraph 2 above.

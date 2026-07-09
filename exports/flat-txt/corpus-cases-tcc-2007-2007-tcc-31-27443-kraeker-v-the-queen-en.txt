@@ -1,0 +1,187 @@
+Title: Kraeker v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27443/index.do
+Corpus path: corpus/cases/tcc/2007/2007-tcc-31-27443-kraeker-v-the-queen-en.md
+Document type: case_law
+Last modified: 2007-01-19
+
+# Kraeker v. The Queen
+
+- Citation: 2007 TCC 31
+- Decision date: 2007-01-19
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 199, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Kraeker v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-01-19
+Neutral citation
+2007 TCC 31
+File numbers
+2006-2362(GST)I, 2006-2723(GST)I
+Judges and Taxing Officers
+Campbell J. Miller
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Dockets: 2006-2362(GST)I, 2006-2723(GST)I
+BETWEEN:
+LESLIE E. KRAEKER and
+JAN W. JOHNSON,
+Appellants,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on January 11, 2007, at Lethbridge, Alberta, by
+The Honourable Justice Campbell J. Miller
+Appearances:
+For the Appellants:
+The Appellants themselves
+Counsel for the Respondent:
+Tyler Lord
+____________________________________________________________________
+JUDGMENT
+The appeals from reassessments made under the Excise Tax Act, notices of which are dated January 27, 2005, and bear numbers 06204 and 06205, respectively, are allowed, without costs, and the reassessments are referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the Appellants are not liable for failed remittances, interest and penalties for the reporting periods ending October 31, 2002 and January 31, 2003.
+Signed at Ottawa, Canada, this 19th day of January, 2007.
+"CampbellJ. Miller"
+Miller J.
+Citation: 2007TCC31
+Date: 20070119
+Dockets: 2006-2362(GST)I, 2006-2723(GST)I
+BETWEEN:
+LESLIE E. KRAEKER and
+JAN W. JOHNSON,
+Appellants,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Miller J.
+[1] In 2001, Mr. Leslie Kraeker and Mr. Jan Johnson seized what they considered to be a golden opportunity in Coutts, Alberta - the operation of a restaurant and bar. It appears that Alberta Treasury Branch (ATB) also believed Messrs. Kraeker and Johnson had a solid business plan, as they agreed to lend $75,000, though this was considerably short of what ATB initially offered. Regrettably, the opportunity turned sour and the business was short lived. The Dog Pound Restaurant & Sports Lounge Inc. (the Company) went out of business in April 2003, owing Canada Revenue Agency (CRA) unremitted payroll source deductions and unremitted net goods and services tax (GST). The Government of Canada seeks these shortfalls plus interest and penalties from Messrs. Kraeker and Johnson as directors of the Company. It was raised by the Respondent's counsel just before trial that the amounts owing pursuant to the Income Tax Act exceed the informal procedure limit of $12,000. After some discussion and agreement of the parties, it was determined to proceed on the director's liability issue under the Excise Tax Act and to hold the income tax matters in abeyance, pending the outcome of this GST matter. All parties agreed that the issue was identical in the income tax and excise tax assessments, and that the results from the GST director's liability issue would be determinative of the income tax director's liability issue. The sole issue is whether Messrs. Kraeker and Johnson exercised the due diligence necessary to relieve them of liability pursuant to section 323 of the Excise Tax Act.
+Facts
+[2] Mr. Kraeker and Mr. Johnson were friends. Mr. Kraeker was something of a cook to the extent that, when in 2001 the local Coutts restaurant was for sale, the young men, and a friend of Mr. Kraeker's, Mr. Noel Gomes, decided it was a perfect opportunity. The Port of Coutts, a border crossing, was expanding so the timing seemed right. There were to be approximately 200 construction workers in the town over the next year or so.
+[3] The young men approached an organization called Chinook Community Futures, which liked their plan, and indicated that if they were refused financing by three lending institutions, then Chinook would back them. Mr. Kraeker approached ATB, specifically a Ms. Sharon Seeley, who also liked the plan and, contrary to their expectations, agreed to finance them to the tune of $125,000. Security was required. Mr. Johnson pledged GICs and Mr. Kraeker pledged the equity in his home. In August 2001, ATB, through Ms. Seeley, put $25,000 into the account of the newly incorporated Company. Ms. Seeley then went on holiday. While she was away the Company required additional funds for the construction stage, so Mr. Kraeker raised another $10,000 through a personal line of credit. On her return, Ms. Seeley advised Mr. Kraeker that only $75,000 could be approved; as $30,000 had already been spent by the Company this came as a blow to Messrs. Kraeker and Johnson. They sought additional financing from Chinook, but had no further collateral to offer. Even their wives had provided personal guarantees on the ATB loan. ATB advised that the additional funding of $50,000 might be available after a review of the year's financial statement. The Company's solution was to lease rather than buy restaurant equipment, although this proved more costly on a monthly cash flow basis. The Company was able to open its business in time for the November 2001 Grey Cup.
+[4] Messrs. Johnson, Kraeker and Gomes were all directors of the Company, though their roles differed. Mr. Gomes acted as a general manager of the restaurant and lounge, as he was the only one with some prior restaurant business experience. He oversaw hiring staff, ordered supplies, did some cooking, handled schedules and made the occasional bank deposits. He was aware the Company had responsibility to make government remittances.
+[5] Mr. Kraeker was responsible for preparing payroll. He also controlled the sales ledger, and inputted sales data into their "Simply Accounting" computer program. He occasionally helped in the kitchen, depending on his availability, given full-time employment with the Canada Border Services. He was also aware GST was to be remitted quarterly and source deductions monthly, and acknowledged he never took specific steps to ensure such remittances were made.
+[6] Mr. Johnson was also employed at Canada Border Services, though commencing in February 2002. He was more involved with the lounge than the restaurant, ordering stock, scheduling, tending bar, returning empties and closing down at night. He would occasionally help with the catering side when short staffed. He too was aware remittances needed to be made but knew nothing of the process for doing so. He did not see it as his responsibility, and presumed either Mr. Gomes or Mr. Kraeker would be taking care of it.
+[7] The three directors never held formal directors' meetings, but would get together informally when they all happened to be at the restaurant at the same time. All cheques required two of three directors' signatures, though Messrs. Kraeker and Johnson would provide Mr. Gomes with pre-signed blank cheques, because as manager he had a greater involvement in paying ongoing expenses.
+[8] Messrs. Kraeker and Johnson realized at the outset of the business in November 2001 that, without the full $125,000 from ATB, they would be operating on a tighter budget. They put some stock, however, in ATB's assurance of funding a year down the road. The business ran as expected for several months, coming very close to meeting monthly cash projections. However, in the summer of 2002, business fell off. The large number of workers in Coutts did not materialize. During the summer Mr. Gomes advised Mr. Kraeker that two payroll cheques had not cleared. Mr. Kraeker approached ATB and made arrangements for a 30-day overdraft with the bank. As Mr. Kraeker put it, they were now struggling to keep going to get the additional $50,000 from ATB.
+[9] During this period, CRA contacted the Company regarding missed remittances. Mr. Kraeker believed there was a clerical error. Mr. Gomes advised that remittances had been made. Messrs. Johnson and Kraeker aimed all their efforts at ensuring the Company would obtain the additional ATB financing. The Company's accountant was not, however, prepared to provide year end financial statements without payment. Mr. Kraeker and Mr. Johnson provided the accountant with personal guarantees. Financial statements were produced in January 2003. Ms. Seeley at ATB declined, however, to provide further financing.
+[10] Mr. Kraeker complained to the Alberta Ombudsman about ATB's treatment, and was advised that ATB was prepared to advance the additional $50,000. This never happened and in fact ATB formally demanded the outstanding amount of the loan.
+[11] Mr. Kraeker set up a new account with CIBC. He tried to get financing from Bank of Nova Scotia and Bank of Montreal but with all securities still tied up at ATB, he was unsuccessful. CRA was in touch with him at this time looking for collection of missed remittances. Efforts were made to sell the business to no avail. By April 2003, the operations ceased. The Company was able to sell some assets, the proceeds of which were forwarded to CRA.
+[12] The Company had filed GST remittances in February 2002 for its first two quarters, resulting in a refund of $2,288 which was credited to subsequent remittances owing. The Company did not file GST returns for the quarters ended April 2002, July 2002, October 2002 and January 2003 until April or May 2003. The net tax arising from each of those quarters was as follows:
+Period End Date
+Net Tax Reported
+Penalty
+Interest
+Total Owed
+Credit Applied
+Balance Owing
+2002-04-30
+3,461.30
+359.00
+147.95
+3,968.25
+(2,288.41)
+1,679.84
+2002-07-31
+3,586.73
+573.95
+241.10
+4,401.78
+0.00
+4,401.78
+2002-10-31
+1,231.68
+175.03
+73.96
+1,480.67
+0.00
+1,480.67
+2002-01-30
+3,435.21
+429.18
+182.28
+4,046.67
+0.00
+4,046.67
+11,714.92
+1,537.16
+645.29
+13,897.37
+(2,288.41)
+11,608.96
+[13] CRA obtained a Federal Court Certificate and Writ of Seizure and Saledated November 4, 2004 certifying $11,381.45 owing by the Company had not been paid. Seizure was attempted on December 10, 2004, but no assets were available to be seized.
+Analysis
+[14] Section 323 of the Excise Tax Act reads as follows:
+323 Where a corporation fails to remit an amount of net tax as required under subsection 228(2) or (2.3), the directors of the corporation at the time the corporation was required to remit the amount are jointly and severally liable, together with the corporation, to pay that amount and any interest thereon or penalties relating thereto.
+(2) A director of a corporation is not liable under subsection (1) unless
+(a) a certificate for the amount of the corporation's liability referred to in that subsection has been registered in the Federal Court under section 316 and execution for that amount has been returned unsatisfied in whole or in part;
+(b) the corporation has commenced liquidation or dissolution proceedings or has been dissolved and a claim for the amount of the corporation's liability referred to in subsection (1) has been proved within six months after the earlier of the date of commencement of the proceedings and the date of dissolution; or
+(c) the corporation has made an assignment or a bankruptcy order has been made against it under the Bankruptcy and Insolvency Act and a claim for the amount of the corporation's liability referred to in subsection (1) has been proved within six months after the date of the assignment or bankruptcy order.
+(3) A director of a corporation is not liable for a failure under subsection (1) where the director exercised the degree of care, diligence and skill to prevent the failure that a reasonably prudent person would have exercised in comparable circumstances.
+[15] There has been considerable jurisprudence on this issue of what constitutes a valid due diligence defence to director's liability. The Appellants are hanging their hats very much on statements of Chief Justice Bowman of this Court in McKinnon v. R.[1] He specifically stated:
+... The net amount paid to the employees is all there is to go around. The employees, suppliers and other creditors are paid because if they are not the business will be closed down. Where, as here, unforeseen supervening events make it impossible for the payroll deductions to be paid to the government, I do not think there is anything the appellant could reasonably have done to ensure the payment.
+The former part of this quote suggests that doing all one can to keep the business going may be sufficient to meet the due diligence defence. Yet, the Chief Justice goes on to clarify that position to indicate this will be the case where unforeseen supervening events make it impossible for the Appellants to do anything more to prevent the failure to remit.
+[16] It is also clear from the decision of the Federal Court of Appeal in Worrell v. R.[2] that:
+(i) Where a director ought to have known the Company's falling behind with remittances, some positive steps to prevent default should be taken. The Federal Court of Appeal gives the examples of increasing a line of credit or making an arrangement with the bank to enable making remittances.
+(ii) The duty is to prevent failure to make remittances not to cure default after the fact.
+The Federal Court of Appeal summarized the approach to these difficult issues as follows:
+[68] In my opinion, it is essential to keep in mind the relevant question in this appeal: did the directors exercise due diligence to prevent the company's failure to remit? This is not necessarily the same as asking whether it was reasonable from a business point of view for the directors to continue to operate the business. In order to avail themselves of the defence provided by subsection 227.1(3) directors must normally have taken positive steps which, if successful, could have prevented the company's failure to remit from occurring. The question then is whether what the directors did to prevent the failure meets the standard of the care, diligence and skill that would have been exercised by a reasonably prudent person in comparable circumstances.
+[17] Finally, I conclude this brief review of pertinent jurisprudence with recent comments of the Supreme Court of Canada in People's Department Stores Ltd. (1992) Inc.[3] rejecting the objective-subjective standard established in Soper v. R.[4] for an objective standard. The Supreme Court of Canada stated:
+67 Directors and officers will not be held to be in breach of the duty of care under s. 122(1)(b) of the CBCA if they act prudently and on a reasonably informed basis. The decisions they make must be reasonable business decisions in light of all the circumstances about which the directors or officers knew or ought to have known. In determining whether directors have acted in a manner that breached the duty of care, it is worth repeating that perfection is not demanded. Courts are ill-suited and should be reluctant to second-guess the application of business expertise to the considerations that are involved in corporate decision making, but they are capable, on the facts of any case, of determining whether an appropriate degree of prudence and diligence was brought to bear in reaching what is claimed to be a reasonable business decision at the time it was made.
+[18] Turning then to the facts before me, what did Messrs. Kraeker and Johnson do to prevent the failure that a reasonable prudent person in comparable circumstances would have done? Did they make reasonable business decisions? Or, more pointedly, as put by Chief Justice Bowman in McKinnon - due to unforeseen events, was there anything more they could have done?
+[19] Firstly, I find Messrs. Kraeker and Johnson were directors actively involved in the affairs of the Company, in effect, inside directors. I also find they knew of the Company's remittance obligations. Before addressing what they did to prevent the failure, I will address what they did not do.
+(i) they did not set up a separate account for receipt and disbursement of GST;
+(ii) after February 2002, they did not file GST returns until after business operations ceased;
+(iii) they did not establish at the outset of the business who was responsible for completing the GST forms and remitting taxes owing;
+(iv) while they did use an accountant, there was no evidence they sought her professional advice or assistance in filing returns and making remittances after February 2002.
+What steps did they take to prevent the failure to remit:
+(i) they brought in Mr. Gomes, someone with some experience in the restaurant business;
+(ii) Mr. Kraeker established a personal line of credit to fill in gaps left by ATB not advancing the full $125,000;
+(iii) they arranged for an overdraft when made aware the payroll was not being met;
+(iv) they regularly communicated with CRA commencing in the summer of 2002;
+(v) they made personal guarantees to get financial statements, believing this would open the door to the additional $50,000 funding from ATB.
+(vi) they complained to the Alberta Ombudsman in an attempt to get the ATB funding.
+[20] The concern I have with some of these efforts is the timing. The Company failed to make remittances at the end of April, July and October, 2002 and January 2003. Granted, Mr. Gomes was brought on in the early stages, but there was no evidence suggesting it was agreed he would take care of the remittances. Hiring a manager, in and of itself, is not a step taken to prevent remittance failures constituting due diligence. This would set an extremely low threshold for enabling directors to sidestep their responsibility. Yet, there may be circumstances that could constitute due diligence on the part of directors surrounding the hiring of a manager; for example, hiring a manager and specifying his or her specific responsibilities with respect to remittances, including a regular accounting to the directors. Those are not the circumstances before me. Mr. Gomes did not assume the responsibility for ensuring remittances was made. The evidence was that in the summer of 2002, he advised Mr. Kraeker of a problem with a couple of payroll cheques, but it appears it was CRA, not Mr. Gomes, that brought the failed remittances to Mr. Kraeker's attention.
+[21] With respect to injecting additional funds at the construction stage, there is no evidence to suggest this was to address a potential remittance problem: this funding was to enable finishing the premises to open in time for Grey Cup 2001.
+[22] Obtaining overdraft privileges was certainly a step taken by Mr. Kraeker to keep the business afloat, to allow the business to meet its expenses. This was specifically triggered by a payroll problem, but went to the overall ongoing viability of the business.
+[23] With respect to the desperate steps taken to get the financial statements out, this too was to keep the operation alive, as the directors believed the financial statements would lead to additional funding from ATB. So too was Mr. Kraeker's approach to the Ombudsman and to other banks. These steps however occurred in late 2002, well past the failures to remit of April and July 2002.
+[24] My impression is that from the outset, Messrs. Kraeker and Johnson realized they were in a tight financial spot, but took no early steps to address the issue of remittances. Business was as expected for several months and only in the summer of 2002 when the expected influx of workers to Coutts did not materialize did the directors try to take action. I find that until the summer of 2002 they did not meet the standard expected of a reasonable prudent person starting a new venture.
+[25] However, as in McKinnon, where unforeseen supervening events make it impossible to make the remittances, was there anything more the Appellants could have done? The unforeseen event in this case was the lack of workers (potential customers) coming to work in Coutts in the summer of 2002 as expected. My sense of Messrs. Johnson's and Kraeker's action from this point on was that of desperation - they tried everything to get funds into the Company to keep the business afloat and meet their expenses, including remittances. They were in communication with CRA at this time. What more could they have done at that stage? Not much, other than shut the business down several months earlier than they did. That is no more reasonable and prudent than deciding to put every effort into getting funding to carry on.
+[26] I conclude that while they did not establish the business with appropriate protective mechanisms (e.g. defining responsibilities of personnel, establishing separate accounts, seeking professional tax advice, etc.), by late summer of 2002 they were doing all they could to address the Company's financial woes and to prevent future failures. For these reasons, I find that Messrs. Johnson and Kraeker can not avail themselves of the due diligence defence for the period up to August 1, 2002, but thereafter such defence is available.
+[27] I therefore allow the appeal and refer the matter back to the Minister on the basis that Messrs. Kraeker and Johnson are liable for failed remittances, interest and penalties in connection with the reporting periods ended April 30, 2002 and July 31, 2002, being $1,679.84 and $4,401.78, respectively, but are not liable for failed remittances, interest and penalties in connection with the reporting periods ended October 31, 2002 and January 31, 2003. I recognize this is an unusual result, but I am satisfied in an informal procedure such as this it is a fair result taking into account principles laid out in the McKinnon case. Although the income tax matter is not before me, I would recommend the parties consider a similar split of liability based on the cut-off date of August 1, 2002.
+Signed at Ottawa, Canada, this 19th day of January 2007.
+"CampbellJ. Miller"
+Miller J.
+CITATION: 2007TCC31
+COURT FILE NO.: 2006-2362(GST)I and 2006-2723(GST)I
+STYLE OF CAUSE: Leslie E. Kraeker and Jan W. Johnson
+and Her Majesty The Queen
+PLACE OF HEARING: Lethbridge, Alberta
+DATE OF HEARING: January 11, 2007
+REASONS FOR JUDGMENT BY: The Honourable Justice Campbell J. Miller
+DATE OF JUDGMENT: January 19, 2007
+APPEARANCES:
+For the Appellants:
+The Appellants themselves
+Counsel for the Respondent:
+Tyler Lord
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] 2004 DTC 2049.
+[2] 2000 DTC 6593.
+[3] 2004 SCC 68.
+[4] 97 DTC 5407.

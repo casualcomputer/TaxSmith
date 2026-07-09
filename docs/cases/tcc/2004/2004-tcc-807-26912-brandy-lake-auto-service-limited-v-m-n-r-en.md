@@ -1,0 +1,173 @@
+---
+title: "Brandy Lake Auto Service Limited v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26912/index.do"
+last_modified: "2004-12-10"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 TCC 807"
+citation2: ""
+neutral_citation: "2004 TCC 807"
+decision_date: "2004-12-10"
+language: "en"
+item_id: "26912"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 718
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T18:45:00.057000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "390c1ec8f7ecfe7ce20601856b8761d7b70a90aa77198c713a8880959ef8c8f3"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Brandy Lake Auto Service Limited v. M.N.R.
+
+- Citation: 2004 TCC 807
+- Decision date: 2004-12-10
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 718, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Brandy Lake Auto Service Limited v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-12-10
+Neutral citation
+2004 TCC 807
+File numbers
+2004-2706(EI)
+Judges and Taxing Officers
+Judith Woods
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2004-2706(EI)
+BETWEEN:
+BRANDY LAKE AUTO SERVICE LIMITED,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard on November 16 and 17, 2004 at London, Ontario
+By: The Honourable Justice Judith Woods
+Appearances:
+Agent for the Appellant:
+Bruce Smith
+Counsel for the Respondent:
+George Boyd Aitken
+____________________________________________________________________
+JUDGMENT
+The appeal in respect of a decision by the Minister of National Revenue under the Employment Insurance Act, that Kelly Merritt was employed in insurable employment during the period January 1, 2002 until October 31, 2003, is dismissed and the decision of the Minister is confirmed.
+Signed at Ottawa, Canada this 10th day of December, 2004.
+"J. Woods"
+Woods J.
+Docket: 2004-2707(CPP)
+BETWEEN:
+BRANDY LAKE AUTO SERVICE LIMITED,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard on November 16 and 17, 2004 at London, Ontario
+By: The Honourable Justice Judith Woods
+Appearances:
+Agent for the Appellant:
+Bruce Smith
+Counsel for the Respondent:
+George Boyd Aitken
+____________________________________________________________________
+JUDGMENT
+The appeal in respect of a decision by the Minister of National Revenue under the Canada Pension Plan, that Kelly Merritt was employed in pensionable employment during the period January 1, 2002 until October 31, 2003, is dismissed and the decision of the Minister is confirmed.
+Signed at Ottawa, Canada this 10th day of December, 2004.
+"J. Woods"
+Woods J.
+Citation: 2004TCC807
+Date: 20041210
+Docket: 2004-2706(EI)
+2004-2707(CPP)
+BETWEEN:
+BRANDY LAKE AUTO SERVICE LIMITED,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGMENT
+Woods J.
+[1] These are appeals by Brandy Lake Auto Service Ltd. from decisions of the Minister of National Revenue that Kelly Merritt was engaged by the corporation as a Class A mechanic in insurable and pensionable employment during the period January 1, 2002 until October 31, 2003. The only question to be decided in these appeals is whether Mr. Merritt was an employee of Brandy Lake within the common law meaning of employment.
+[2] There are no bright line tests for determining whether a person is employed or self-employed and each case is determined on its own particular facts. The general principles to be applied are described by Major J. in the leading case, Sagaz Industries Canada Inc. v. 671122 Ontario Limited, [2001] 2 S.C.R. 983:
+[47] ... The central question is whether the person who has been engaged to perform the services is performing them as a person in business on his own account. In making this determination, the level of control the employer has over the worker's activities will always be a factor. However, other factors to consider include whether the worker provides his or her own equipment, whether the worker hires his or her own helpers, the degree of financial risk taken by the worker, the degree of responsibility for investment and management held by the worker, and the worker's opportunity for profit in the performance of his or her tasks.
+[48] It bears repeating that the above factors constitute a non-exhaustive list, and there is no set formula as to their application. The relative weight of each will depend on the particular facts and circumstances of the case.
+[3] Subsequent to Sagaz Industries, Justices Décary and Noël in Wolf v. The Queen, 2002 D.T.C. 6853 (F.C.A.) suggested that a clearly expressed common intention should govern unless it does not reflect the actual relationship. Décary J.A. stated:
+[119] When a contract is genuinely entered into as a contract for services and is performed as such, the common intention of the parties is clear and that should be the end of the search.
+[4] For most (if not all) of the relevant period, Brandy Lake Auto Service Ltd. was owned and operated by David Smith. The corporation was engaged in various auto-related businesses in Port Carling, Ontario, that included auto repair, auto sales, trucking and scrap. In October 2003 (the last month of the relevant period), the business, including the shares of Brandy Lake, were sold to a third party.
+[5] David Smith's brother, Bruce Smith, represented the corporation at the hearing in London, Ontario and he provided the only oral evidence. He indicated that it was too costly for his brother to attend the hearing. The Crown did not call any witnesses.
+[6] Bruce Smith is a business consultant living in London, Ontario, some distance away from Port Carling where Brandy Lake carried on business. Although he has some knowledge of the business affairs of Brandy Lake, his direct knowledge is very limited. He provided assistance to the corporation on administrative matters but he was not employed by the corporation and he was not
+a shareholder. He had some additional knowledge from the fact that a corporation owned by his wife did the bookkeeping for Brandy Lake and provided financing. Overall, my impression was that he had very little first-hand knowledge of Kelly Merritt's relationship with Brandy Lake.
+[7] The following is a brief summary of Bruce Smith's testimony regarding the relationship between Kelly Merritt and Brandy Lake in regards to intention, control, potential for profit, and risk of loss.
+[8] As to the intention of the parties, Mr. Smith stated that Kelly Merritt and his brother intended a self-employment relationship. He stated that Mr. Merritt suggested this when David Smith told him that he had had found it uneconomical to hire employees. Bruce Smith testified that a lawyer had drafted an agreement that reflected self-employment and he tendered into evidence an unsigned version of that document. He also noted that the decision of the Minister that led to these appeals was not initiated by Mr. Merritt and that Mr. Merritt had not disputed the nature of the relationship until the Minister had commenced an audit. He also stated that Mr. Merritt was not treated as an employee for insurance purposes and that Mr. Merritt did not have to work at the garage exclusively or perform the work personally.
+[9] As for control, Mr. Smith testified that there was minimal supervision over Mr. Merritt's work because Mr. Merritt was a Class A mechanic and David Smith was not. Also, Mr. Merritt was often the only person in the shop because the garage could only hold one car at a time. As such, Mr. Merritt had to handle all aspects of the auto repair side of the business, from booking work, invoicing, collecting money and closing the shop. He introduced into evidence receipts showing a circled "K" to corroborate that Mr. Merritt collected money from customers.
+[10] As for the potential for profit, Mr. Smith suggested that Mr. Merritt was free to determine his own hours, but within the 8:30 a.m. to 5:00 p.m. business hours of the garage. The compensation to Mr. Merritt was stated to be one-third of his billings, which Bruce Smith presumed was a negotiated rate. This amount hypothetically equals $15 per hour since the rate charged for repairs was $45 per hour, but Mr. Smith noted that there was opportunity for profit because the billings were based on a standard scale that fixed the price according to the type of repair work that was undertaken. Accordingly, Mr. Merritt could earn more than $15 per hour by completing the work in less time than the standard scale.
+[11] Mr. Smith also suggested that Mr. Merritt would largely be responsible for obtaining business because customers tend to select a garage based on their satisfaction with the mechanic doing the work.
+[12] As for tools, Mr. Smith suggested that Mr. Merritt had his own hand tools that Mr. Merritt claimed were worth about $25,000. He suggested that Mr. Merritt's tools were in fact worth more than the equipment that Brandy Lake owned.
+[13] As for risk of loss, Mr. Smith suggested that Mr. Merritt was presumably at risk of having to undertake work without pay, for example, if there was a problem with a repair job that had to be redone. He also suggested that Mr. Merritt would have taken out insurance on the hand tools and perhaps would have borne the cost of a home office.
+[14] Mr. Smith introduced into evidence a questionnaire obtained from the website of the Canada Revenue Agency(RC4110E) that is designed to assist persons in determining if a worker is an employee or self-employed. He had completed the questionnaire and, of the 46 questions, he stated that 25 pointed to self-employment, 14 to employment and 7 were not applicable in the circumstances. Accordingly, the overwhelming majority of the answers pointed to self-employment, he stated.
+[15] Mr. Smith also introduced a number of other documents, many of which were obtained from the Agency through an access to information request. Included in the Agency's package was the report of the appeals officer and questionnaires filled out by David Smith and Kelly Merritt.
+[16] The concern that I have with the position of the appellant is that the only person who had an in-depth knowledge of the relevant facts from the perspective of Brandy Lake was David Smith and he did not testify.
+[17] In a case of this nature, the judge must base the determination on the totality of the circumstances of the relationship. It is critical in these circumstances that a person with in-depth knowledge testify and be cross-examined. That person in this case was David Smith. He is the one who established the relationship with Mr. Merritt and he was the one who would have signed any contract. He was also the one who dealt with Mr. Merritt on a regular basis.
+[18] Bruce Smith, David's brother, had very little first-hand knowledge and most of his testimony was based on supposition, documents containing information not within his personal knowledge and, I presume, information given to him by his brother. Accordingly, I have not been able to conclude that Bruce Smith's testimony represented either an accurate or complete statement of the relevant facts. On cross-examination, he admitted that he had no knowledge of the basis on which Mr. Merritt was paid and what hours he worked. Bruce Smith had access to the financial records through his wife's corporation that did the bookkeeping for Brandy Lake. At most, the financial records would show what was paid to Mr. Merritt but they would not establish the basis on which the payments were calculated.
+[19] As for the documentation that Bruce Smith introduced, I find that it alone was insufficient to establish that Kelly Merritt was self-employed. The questionnaire from the website that Bruce Smith filled out suffered the same problem as his oral testimony in that he did not have the requisite first-hand knowledge of the circumstances in order to accurately complete the questionnaire.
+[20] As for the purported written contract, the document that was introduced was an unsigned version of an agreement. Bruce Smith testified that many of Brandy Lake's documents were destroyed when the business was sold. Based on the evidence before me, it is not possible for me to conclude that this document was ever executed. I note that Kelly Merritt's questionnaire states that there was no written contract.
+[21] As for the questionnaires completed by David Smith and Kelly Merritt, it is not possible for me to give either of these documents any weight because neither gentleman testified and accordingly neither was available for cross-examination.
+[22] One document that was of some assistance was a photocopy of an excerpt from Brandy Lake's general ledger that listed payments to subtrades. Although Kelly Merritt's name was only mentioned three times on this sheet of paper, the document tends to suggest that Kelly Merritt did not earn a flat weekly wage. However, the general ledger does not reveal how the compensation was determined.
+[23] In this case, a decision was made not to incur the expense of having David Smith testify. That is unfortunate. Based on Bruce Smith's lack of first-hand knowledge about Mr. Merritt's relationship with Brandy Lake, I would conclude that the appellant has not satisfied the onus of establishing that Mr. Merritt was self-employed.
+[24] The appeals are dismissed.
+Signed at Ottawa, Canada this 10th day of December, 2004.
+"J. Woods"
+Woods J.
+CITATION:
+2004TCC807
+COURT FILE NO.:
+2004-2706(EI) and 2004-2707(CPP)
+STYLE OF CAUSE:
+Brandy Lake Auto Service Limited v. M.N.R.
+PLACE OF HEARING:
+London, Ontario
+DATE OF HEARING:
+November 16 and 17, 2004
+REASONS FOR JUDGMENT BY:
+The Honourable Justice J. Woods
+DATE OF JUDGMENT:
+December 10, 2004
+APPEARANCES:
+Agent for the Appellant:
+Bruce Smith
+Counsel for the Respondent:
+George Boyd Aitken
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

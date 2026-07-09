@@ -1,0 +1,185 @@
+Title: Industries Perron Inc. c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30539/index.do
+Corpus path: corpus/cases/tcc/2011/2011-cci-433-30539-industries-perron-inc-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2011-10-11
+
+# Industries Perron Inc. c. La Reine
+
+- Citation: 2011 CCI 433
+- Decision date: 2011-10-11
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7340, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Industries Perron Inc. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2011-10-11
+Référence neutre
+2011 CCI 433
+Numéro de dossier
+2009-3346(IT)G
+Juges et Officiers taxateurs
+François M. Angers
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2009-3346(IT)G
+ENTRE :
+INDUSTRIES PERRON INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 21 avril 2011, à Montréal (Québec).
+Devant : L'honorable juge François Angers
+Comparutions :
+Avocat de l'appelante :
+Me Ryan Rabinovitch
+Avocate de l'intimée :
+Me Natalie Goulard
+____________________________________________________________________
+JUGEMENT
+L’appel de la nouvelle cotisation établie en vertu de la Loi de l'impôt sur le revenu pour l’année d'imposition 2001 est rejeté, avec dépens, selon les motifs du jugement ci‑joints.
+Signé, ce 11e jour d'octobre 2011.
+« François Angers »
+Juge Angers
+Référence : 2011 CCI 433
+Date : 20111011
+Dossier : 2009-3346(IT)G
+ENTRE :
+INDUSTRIES PERRON INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Angers
+[1] Il s’agit d’un appel d’une nouvelle cotisation établie à l’égard de l’appelante le 3 février 2005 dans laquelle le ministre du Revenu national (le « ministre ») a rejeté sa demande de déduction de 3 576 088 $ dans le calcul de son revenu pour l’année d’imposition 2001. Après avoir reçu l'avis d'opposition, le ministre ratifiait le 2 mai 2005 la nouvelle cotisation en litige.
+[2] Au début de l’audience, les parties ont déposé une entente partielle sur les faits de même que les documents ou pièces jugés pertinents à la résolution de ce litige. Les faits pertinents sont donc les suivants avec référence aux pièces annexées à l’entente.
+1. L’appelante est une société privée sous contrôle canadien.
+2. L’appelante a une fin d’exercice financier au 31 décembre de chaque année.
+3. Dans le cadre de son entreprise, l’appelante exporte du bois d’œuvre canadien aux États-Unis.
+4. Le 31 mars 2001, l’Accord canado-américain sur le bois d’œuvre résineux arrive à échéance. Deux jours plus tard, l’industrie américaine du bois d’œuvre dépose une pétition devant le Department of Commerce des États-Unis (« DOC»), exigeant l’instauration de droits compensateurs et de droits antidumping.[1] L’industrie canadienne est accusée de bénéficier d’une subvention sur sa production de bois d’œuvre et de vendre celui-ci aux États-Unis à un prix inférieur à son coût de production.
+5. Au cours de son exercice financier se terminant le 31 décembre 2001, l’appelante accumule une provision (intitulée « provision pour droit compensatoire et droit antidumping» sur ses états financiers) de 3 578 088 $ en relation avec la pétition de l’industrie américaine du bois d’œuvre.[2] L’appelante déduit, dans le calcul de son revenu comptable et fiscal pour l’année d’imposition 2001, le montant de 3 576 088 $.
+Processus d’enquête américain en matière de droits compensateurs et antidumping
+6. Aux États-Unis, deux autorités se partagent la responsabilité des enquêtes en matière de droits compensateurs et de droits antidumping, le DOC et l’International Trade Commission (« ITC»).
+7. La législation américaine pertinente se trouve au Tarriff Act of 1930, 19 U.S.C. § 1671[3] et § 1673[4].
+8. Le DOC doit déterminer si la fabrication, la production ou l’exportation de marchandise importée ou vendue pour importation aux États-Unis est subventionnée pas le gouvernement d’un pays et si de la marchandise étrangère est vendue, ou va probablement être vendue, aux États-Unis à un prix inférieur à sa juste valeur (dumping).
+9. L’ITC est chargée de déterminer l’existence d’un dommage important ou d »une menace de dommage important causé à une industrie des États-Unis en raison des importations de marchandises faisant l’objet d’une subvention ou d’un dumping.
+10. Le processus d’enquête s’effectue en deux étapes : la détermination préliminaire et la détermination finale. Lors de la détermination préliminaire, l’ITC et le DOC constatent s’il existe une « indication raisonnable » de / « une base raisonnable de croire » à (« reasonable indication » / « reasonable basis to believe ») l’existence des faits nécessaires à l’imposition des droits compensateurs et des droits antidumping (19 U.S.C. § 1671b(a) et (b); § 1671b(a) and (b)). Lors de la détermination finale, l’ITC et le DOC constatent l’existence de ces faits (19 U.S.C. § 1671d(a) et (b); § 1673d(a) and (b)).
+Déterminations préliminaires
+11. Le 23 mai 2001, l’ITC rend une détermination préliminaire à l’effet qu’il y a une indication raisonnable que les exportations canadiennes de bois d’œuvre résineux aux États-Unis constituent une menace de dommage important à une industrie américaine.[5] Cette détermination s’applique tant en matière de droits compensateurs qu’en matière de dumping.
+12. Le 17 août 2001, le DOC rend une détermination préliminaire à l’effet qu’il existe une base raisonnable de croire que des subventions sont octroyées aux producteurs et exportateurs de bois d’œuvre du Canada.[6] En raison de cette détermination préliminaire, le DOC fixe un taux de subvention estimatif (« estimated subsidy rate ») de 19.31% et demande au Service des douanes d’exiger, conformément à 19 U.S.C. § 1671b(d)(1)(B)[7], un dépôt en espèces ou une garantie (« a cash deposit or bond ») basé sur ce taux.
+13. Le 6 novembre 2001, le DOC rend une détermination préliminaire à l’effet qu’il existe une base raisonnable de croire que certains produits de bois d’œuvre du Canada sont vendus, ou vont probablement être vendus, aux États-Unis à un prix inférieur à leur juste valeur.[8] Compte tenu de cette détermination préliminaire, le DOC fixe une marge estimative de dumping (« estimated wieghted [sic] average dumping margin ») de 12.58% et demande au Service des douanes d’exiger, conformément à 19 U.S.C. § 1673b(d)(1)(B)[9], un dépôt en espèces ou une garantie (« a cash deposit or the posting of a bond ») basé sur cette marge.
+14. Au cours des mois qui suivent ces déterminations préliminaires, l’appelante achète et met en garantie auprès de la Banque Royale du Canada des dépôts à terme.[10] Ces dépôts à terme servent à garantir des lettres de crédit émises par la Banque Royale du Canada en faveur de la Washington International Insurance Company (« WIIC »), qui accepte de cautionner le paiement d’une partie des droits compensateurs et des droits antidumping recherchés par l’industrie américaine du bois d’œuvre.
+15. Le taux de rendement des dépôts à terme variait entre 1.35% et 2.05%.
+16. Le montant total des dépôts à terme s’élevait à 2 371 500 $.
+17. Le montant total des lettres de crédit émises par la Banque Royale du Canada était également 2 371 500 $.
+18. Le montant total cautionné par WIIC au cours de l’exercice financier de l’Appelante se terminant le 31 décembre 2001 était 1 530 000 $ US (l’équivalent en US de 2 371 500 $ CDN.)
+Déterminations finales
+19. Le 2 avril 2002, le DOC rend une détermination finale selon laquelle des subventions sont octroyées par le gouvernement canadien relativement à certains produits de bois d’œuvre du Canada exportés aux États-Unis.[11] Le DOC rend aussi une détermination finale selon laquelle les marchandises visées sont vendues ou susceptibles d’être vendues aux États-Unis à un prix inférieur à leur juste valeur.[12]
+20. Le 22 mai 2002, l’ITC rend sa détermination finale selon laquelle une industrie américaine est menacée de subir un dommage important en raison des importations du bois d’œuvre du Canada qui est subventionné et vendu à un prix inférieur à sa juste valeur marchande.[13]
+Les ordonnances
+21. Le 22 mai 2002, le DOC publie les avis de ses ordonnances relatives aux droits compensateurs[14] et aux droits antidumping[15].
+22. Par ailleurs, le DOC détermine que l’imposition de droits compensateurs et antidumping pour la période couverte par ses déterminations préliminaires n’est pas justifiée en l’instance. De ce fait, les droits compensateurs et les droits antidumping sont imposés seulement à compter du 22 mai 2002, soit le jour de la publication des ordonnances du DOC, et le DOC ordonne au Service des douanes de rembourser les dépôts en espèce et de libérer les garanties exigées à titre de mesures provisoires suite à ses déterminations préliminaires du 17 août et 6 novembre 2001.
+23. Toutes les cautions fournies par WIIC au nom de l’appelante en 2001 ainsi que les dépôts à terme mis en garantie par l’Appelante auprès de la Banque Royale du Canada sont libérées au cours de l’année 2002.
+24. L’Appelante et l’un de ses successeurs incluent, tant pour les fins comptables que fiscales, le montant de 3 578 088 $ dans leurs revenus pour l’année 2002.
+25. Le 3 février 2005, l’Agence du Revenu du Canada a émis des nouvelles cotisations pour refuser la déduction de 3 576 088 $ réclamée par l’appelante en 2001 et déduire le même montant des revenus de 2002 du contribuable et de son successeur.
+26. Ultimement, les ordonnances du DOC sont révoquées en vertu de l’Accord sur le bois d’œuvre résineux entre le gouvernement du Canada et le gouvernement des États-Unis d’Amérique, signé le 12 septembre 2006.
+[3] Il s'agit donc de déterminer si le ministre était justifié de refuser la déduction de la somme de 3 576 088 $ dans le calcul du revenu de l'appelante pour l'année d'imposition 2001. S'agit-il donc d'une dépense engagée ou effectuée par l'appelante en vue de tirer un revenu de son entreprise conformément à l'alinéa 18(1)a) de la Loi de l'impôt sur le revenu (la « Loi »)? Est-ce que cette dépense encourue par l'appelante constitue une provision, une éventualité ou un fonds d'amortissement aux termes de l'alinéa 18(1)e) de la Loi ou est-ce que cette dépense constitue un montant payé par l'appelante au titre d'un droit compensateur ou antidumping en vigueur ou proposé sur des biens aux termes de l'alinéa 20(1)vv) de la Loi?
+[4] Les dispositions législatives en question se lisent comme suit :
+Article 18 : Exceptions d'ordre général
+(1) Dans le calcul du revenu du contribuable tiré d'une entreprise ou d'un bien, les éléments suivants ne sont pas déductibles :
+a) Restriction générale — les dépenses, sauf dans la mesure où elles ont été engagées ou effectuées par le contribuable en vue de tirer un revenu de l'entreprise ou du bien;
+[. . . ]
+e) Provision, etc. — un montant au titre d'une provision, d'une éventualité ou d'un fonds d'amortissement, sauf ce qui est expressément permis par la présente partie;
+[. . . ]
+vv) Droit compensateur ou antidumping — un montant payé par le contribuable au cours de l'année au titre d'un droit compensateur ou antidumping en vigueur ou proposé sur des biens (sauf des biens amortissables).
+[5] Les parties sont d'accord que les alinéas 18(1)a) et 18(1)e) de la Loi doivent être interprétés ensemble puisque les questions sur lesquelles je dois me pencher sont de savoir si l'appelante avait une obligation de payer une somme d'argent et si cette obligation était au titre d'une éventualité. Cela va de soi. L'alinéa 18(1)a) exige que la dépense soit engagée avant qu'elle puisse être déductible, ce qui implique généralement que le contribuable doit avoir une obligation légale de payer cette dépense à un tiers. La jurisprudence et l'alinéa 18(1)e) de la Loi nous apprennent que cette obligation ne peut être au titre d'une éventualité.
+[6] Cela étant dit, le litige porte donc sur la question de savoir si, dans les faits de l'espèce, l'appelante avait une obligation légale de payer le montant en question et, le cas échéant, si cette obligation était une obligation éventuelle.
+18(1)a) et 18(1)e)
+[7] L’appelante soutient qu’elle avait le droit de déduire le montant total du taux de subvention estimatif de 19.31% et la marge estimative de dumping de 12.58% étant donné qu’une fois que les déterminations préliminaires ont été rendues, elle devait s’y conformer. À cette fin, l’appelante a dû se conformer aux exigences de la Washington International Insurance Company, une société américaine qui émet des cautionnements et qui exigeait à son tour une lettre de crédit de la Banque Royale du Canada appuyée par les dépôts à terme que l’appelante a achetés pour un total de 2,4 millions $ en fonds canadiens. (Voir les paragraphes 14, 16, 17, 18 des faits.)
+[8] L’appelante soutient que cette obligation d’acheter les dépôts à terme fait en sorte que l’appelante était tenue de payer cet argent à la Banque Royale du Canada, de les hypothéquer en faveur de la Banque en retour de l’émission de lettres de crédit par cette dernière. L’appelante souligne également que cet argent était pratiquement gelé dans le sens que l’appelante ne pouvait pas en faire ce qu’elle voulait tant que les dépôts à terme étaient hypothéqués. L’appelante soutient que cette obligation ne faisait aucunement l’objet d’une éventualité, car elle devait verser les 2,4 millions $ pour acheter les dépôts à terme.
+[9] La thèse de l’intimée repose sur le fait que la seule obligation existante pour l’appelante durant l’année d’imposition 2001 en était une qui dépendait uniquement d’une détermination fiscale par les autorités américaines au sujet de l'existence d'une subvention ou d'une menace pour une industrie américaine de subir un dommage important, c’est-à-dire l’imposition de droits compensateurs et antidumping. Tant que cette détermination finale n’était pas faite, l’obligation de payer les droits compensateurs et antidumping n’existait pas et elle ne pouvait naître que si certains événements allaient se produire, événements qui, dans ce cas-ci, ne se sont jamais produits.
+[10] L’intimée soutient que c’est effectivement ce que les alinéas 18(1)a) et 18(1)e) de la Loi empêchent. Elles empêchent la déduction d’une dépense qui n’est pas certaine puisqu’il ne s’agit que d’une détermination préliminaire faisant l’objet d’une éventualité, soit la détermination finale et l’émission d’une ordonnance relative aux droits compensateurs et antidumping. Selon l’intimée, une dépense est généralement engagée par un contribuable au moment où l’obligation de verser une somme d’argent naît.
+[11] Les parties ont respectivement cité les mêmes extraits de la jurisprudence portant sur ce qui constitue une obligation juridique certaine. Je m'en tiendrai à l’arrêt de la Cour suprême McLarty c. R. 2008 D.T.C. 6366 où le juge Rothstein a résumé le tout au paragraphe 18 :
+18 La juge Sharlow a donné des précisions sur ce qui constitue une dette éventuelle au par. 15 de l'arrêt Wawang. Trois incertitudes ne permettront pas en elles-mêmes de dire si une dette est éventuelle. Je paraphrase ses motifs comme suit :
+· (a)
+l'incertitude quant à la question de savoir si le paiement sera effectué. Par exemple, une dette peut être contractée à un moment où le contribuable éprouve des difficultés financières et où le risque de défaut de paiement est important. Cela ne veut pas dire que la dette n'a jamais été contractée;
+· (b)
+l'incertitude quant à la somme à payer. Il existe toujours une incertitude à l'égard de la somme susceptible d'être payable. Il n'est jamais certain que l'emprunteur sera en mesure de payer la somme due lorsque le billet deviendra exigible. Ce type d'incertitude ne fait pas d'une dette une dette éventuelle;
+· (c)
+l'incertitude quant au moment où sera effectué le paiement. Une dette n'est pas éventuelle parce que le paiement peut être différé si certains événements se produisent.
+Le critère consiste simplement à savoir si une obligation juridique naît à un certain moment, ou si elle naîtra seulement lorsque se produira un événement qui peut ne jamais se produire.
+[Je souligne]
+[12] À mon avis, il faut d’abord et avant tout, dans le dossier qui nous intéresse, identifier l’obligation de l’appelante de payer une somme d’argent durant l’année d’imposition 2001. Selon l’appelante, cette obligation consistait à faire l’achat de certificats de dépôt pour répondre aux exigences de la Banque alors que l’intimée soutient que la seule obligation qu’avait l’appelante en 2001 était de fournir un dépôt en espèce ou de garantir par un cautionnement basé sur les marges établies par la détermination préliminaire. Le droit d’imposer des droits compensateurs et antidumping ferait l’objet d’une détermination finale plus tard de sorte que les droits compensateurs allaient être établis, le cas échéant, après l’exercice de la détermination.
+[13] L’achat des dépôts à terme ne peut, à mon avis, être traité comme une dépense déductible en l’espèce, telle que contemplée à l’alinéa 18(1)a) de la Loi, et ce, même si ces dépôts à terme ont tous été hypothéqués en faveur de la Banque et que l’appelante a perdu la jouissance temporairement. Les états financiers de l’appelante indiquent, sous la rubrique des actifs, les dépôts à terme en question et la note explicative précise qu'ils doivent servir à garantir des lettres de crédit. L’appelante reconnaît qu’il s’agit d’une éventualité à la note explicative numéro 18 de ses états financiers.
+[14] En vertu de l’article 1671b de la loi américaine sur les droits compensateurs (onglet 10), la détermination préliminaire n’est fondée que sur des informations disponibles au moment de cette détermination et qui révèlent une indication raisonnable qu’une compagnie américaine puisse être affectée ou menacée et l’effet de cette détermination fait en sorte que les autorités américaines ont le devoir d’établir une estimation du taux des droits compensateurs et d’ordonner le dépôt d’argent, un cautionnement ou d'autres garanties pour chaque entrée de marchandise. Il en va de même pour les droits antidumping. Tant et aussi longtemps que la détermination finale n’est pas faite, l'appelante n'a aucune obligation de payer des droits compensateurs. Il ne s’agit que d’une estimation du taux compensatoire et de l’exigence de payer ou de produire un cautionnement pour en garantir le paiement, ce que l’appelante a fait dans les circonstances.
+[15] Les états financiers de l’appelante reconnaissent cet état de choses tel que je l'ai déjà mentionné et une provision de 3,6 $ millions a été comptabilisée en conséquence. Je suis donc d’accord avec l’intimée qu’il n’existait pas, en 2001, une obligation de payer des droits compensateurs et antidumping. Je suis également d’avis qu’en l’espèce, le fait que l’appelante ait choisi de garantir ses obligations potentielles en achetant les dépôts à terme ne peut être pertinent dans la détermination de ses obligations légales envers les autorités américaines.
+[16] Il n’y avait donc en 2001 aucune obligation juridique existante visant des droits compensateurs et antidumping imposés à l’appelante. Cette obligation juridique n’aurait existé qu’à la détermination finale par les autorités américaines. Il n’y avait donc pas de dépenses engagées au sens des alinéas 18(1)a) et 18(1)e) de la Loi. Même si l’appelante soutient qu’elle a payé le montant des dépôts à terme à la Banque Royale, le fait est qu’elle ne les a qu’hypothéqués. Même si l’appelante s’est engagée à ne pas les utiliser sans le consentement de la Banque, ce qui est assez nébuleux selon les documents déposés en preuve, cela n’équivaut pas à un transfert de droits de propriété. Les sommes d’argent en question sont sujetes à une éventualité, soit celle où l’appelante ferait défaut de rembourser les avances faites par la Banque Royale.
+20(1)vv)
+[17] L’appelante fait valoir que l’alinéa 20(1) vv) permet à l’appelante, du moins, de déduire les 2,4 millions $ qu’elle a payés à la Banque Royale pour les dépôts à terme, tout comme si, par exemple, un contribuable aurait payé en argent le taux estimé par les autorités américaines. Dans les deux cas, il s’agit d’une sortie de fonds, quelle qu'elle soit. L’appelante soutient qu’il s’agit d’un montant payé par le contribuable au cours de l’année au titre d’un droit compensateur ou antidumping en vigueur ou proposé sur des biens. Il s’agit d’un concept différent de celui que l’on trouve à l’alinéa 18(1)a) de la Loi qui parle de dépenses engagées ou effectuées. Selon l’appelante, il est possible de conclure que les paiements d’argent faits à la Banque Royale pour l’achat de dépôts à terme ont effectivement été payés au titre des droits compensateurs et antidumping proposés. L’appelante met l’emphase sur la version anglaise de la disposition où il est question d'un montant payé au titre d’un droit « or an account of an existing or proposed countervailing or anti-dumping duty. » La version française ne prévoit pas une telle avance au compte des droits compensateurs ou antidumping. Il serait difficile selon l’appelante de ne pas conclure, en l’espèce, que le paiement fait à la Banque Royale constituait un paiement fait au compte des droits compensateurs et antidumping proposés.
+[18] L’appelante a aussi soulevé la question de l’interprétation du mot « payé » que l’on trouve à l’alinéa 20(1)vv) de la Loi. Elle fait valoir que le Code civil du Québec s'applique en l’espèce, vu les dispositions des articles 8.1 et 8.2 de la Loi sur l’interprétation du Canada et le fait que la notion du mot « payé » est assez large. L’article 1553 du Code civil définit le terme « paiement » comme suit :
+Par paiement, on entend non seulement le versement d’une somme d’argent pour acquitter une obligation, mais aussi l’exécution même de ce qui est l’objet de l’obligation.
+[19] De son côté, l’intimée reconnaît que, contrairement aux alinéas 18(1)a) et 18(1)e), l’alinéa 20(1)vv) de la Loi vise clairement les droits compensateurs ou antidumping en vigueur ou proposés de sorte que, si les autres conditions sont remplies et que l’obligation serait incertaine comme dans le cas d’une détermination préliminaire, la déduction pourrait être permise. Elle insiste cependant pour dire que l’alinéa 20(1)vv) de la Loi requiert que ce soit un montant payé en argent au titre de ces droits, donc un montant vraiment payé pour remplir l’obligation de payer les droits en question. L’intimée soutient que le sens courant et ordinaire du verbe « payer » veut dire donner une somme d’argent et que l’alinéa 12(1)z.6) de la Loi, qui exige que la somme reçue par un contribuable au cours de l’année à titre de remboursement d’un montant qui a été déduit en application de l’alinéa 20(1)vv) doit être inclus dans son revenu, appuie son interprétation qui veut qu’un montant d’argent ait été payé pour qu’on puisse se le faire rembourser. Il est clair qu’on ne parle pas de garantie ou de cautionnement qui serait éventuellement annulé, comme ce qui s’est produit en l’espèce.
+[20] Il est vrai que l’article 1553 du Code civil définit le paiement pour y inclure non seulement le versement d’une somme d’argent pour acquitter une obligation, mais aussi l’exécution même de ce qui est l’objet de l’obligation. Plusieurs décisions des tribunaux du Québec ont confirmé ce principe, voir Dufresne c. Paul Léger Ltée (1980) EYB 137591 et Pisapia Construction Inc. c. St-Fabien Industriel Inc. [1977] CA 528.
+[21] Les auteurs Didier Lluelles et Benoit Moore, dans Droit des obligations, ont écrit ceci sur la signification du mot paiement :
+Par le paiement, le débiteur réalise l’accomplissement même de l’obligation et se libère de cette dernière. Cette ambivalence du paiement en fait un mode d’extinction qui se distingue des autres modes, comme la remise de dette ou la prescription. Le paiement vise indistinctement toutes les prestations, et pas uniquement celle qui consiste à acquitter une dette monétaire (art. 1553). Certes, le locataire qui acquitte le loyer mensuel paie son obligation. Mais le peintre en bâtiments qui applique la peinture sur le mur du chalet de son client ou la diva qui chante à l’Opéra de Québec « paient » également leur obligation. De même, la notion de paiement englobe les obligations de ne pas faire : en s’abstenant d’exploiter un commerce similaire, conformément à une clause de non-concurrence, le cédant d’un fonds de commerce « paie » son obligation. Le Code civil emploie donc le mot « paiement » dans un sens plus large que celui du langage courant.
+[22] L’article 1554 du Code civil établit aussi qu’il peut exister un paiement sans l’existence d’une obligation préalable. L’article se lit comme suit :
+1554. Tout paiement suppose une obligation : ce qui a été payé sans qu’il existe une obligation est sujet à répétition.
+La répétition n’est cependant pas admise à l’égard des obligations naturelles qui ont été volontairement acquittées.
+[23] Les mêmes auteurs cités plus haut commentent la portée de l’article 1554 comme suit :
+Tout paiement suppose une obligation », déclare solennellement l’article 1554, à son premier alinéa. Le paiement peut donc, en quelque sorte, faire l’objet d’une « annulation », à la demande du payeur ou de ses héritiers, faute d’obligation préalable. Un paiement fait par erreur est, en effet, sujet à restitution. Le paiement fait avant l’arrivée d’une condition suspensive est également sujet à restitution, puisque la dette n’était pas encore née. Par contre, nous l’avons vu, le paiement volontaire d’une obligation naturelle est inattaquable. Quant au paiement fait avant l’arrivée d’un terme, il est, en principe, valide, puisque la dette était alors née, quoique non encore exigible. Rappelons que le créancier peut, en certains cas, s’opposer au paiement avant terme.
+[24] Il est donc nécessaire qu’une obligation existe avant que le paiement puisse être validement fait. Les auteurs Beaudoin et Jobin, dans la 6e édition de Les obligations (Yvon Blais, 2005), donnent une explication de ce qui constitue une obligation.
+Dans la terminologie civiliste, le mot « obligation » a un sens beaucoup plus précis. Elle est le lien de droit, existant entre deux ou plusieurs personnes, par lequel une personne, appelée débiteur, est tenue envers une autre, appelée créancier, d’exécuter une prestation consistant à faire ou à ne pas faire quelque chose, sous peine d’une contrainte juridique.
+[25] Est-ce que cette interprétation large du mot « paiement » fait en sorte qu’il soit possible de conclure que l’appelante a payé un montant au titre d’un droit compensateur ou antidumping en vigueur ou proposé ou même sur acompte comme l'interprétation de la version anglaise le laisse entendre?
+[26] Dans les faits de l’espèce, l’appelante n'a payé aux autorités américaines aucun montant au titre d’un droit compensateur ou antidumping proposé ou en vigueur. L’appelante a choisi de fournir un cautionnement et, pour ce faire, elle a dû payer à la Banque Royale du Canada des montants d’argent dans le but de faire l’acquisition de dépôts à terme que l’appelante a par la suite hypothéqués en faveur de la Banque pour que cette dernière puisse émettre des lettres de crédit en faveur de la Washington International Insurance Company afin de permettre à cette dernière de cautionner le paiement d’une partie des droits en question.
+[27] Bien que les fonds ayant servi à l’acquisition des dépôts à terme ont été hypothéqués et que l’usage de ces fonds ait été restreint par la Banque Royale, il n’en demeure pas moins qu’ils sont demeurés la propriété de l’appelante. Même si l’appelante soutient qu’elle a payé le montant des dépôts à terme à la Banque Royale, en réalité elle les a seulement hypothéqués et, même si elle s’est engagée à ne pas les aliéner sans le consentement de la Banque, cela n’équivaut pas à un transfert de propriété.
+[28] La seule obligation que l’appelante avait était celle de répondre aux exigences de la Banque Royale dans sa relation de débiteur et créancier qui s’est créée avec l’achat des dépôts à terme. De plus, il n’y avait, à aucun moment pertinent durant l’année d’imposition 2001, de droit compensateur ou antidumping proposé ou en vigueur puisque ces droits n’auraient finalement été établis que lors de la détermination finale.
+[29] L’intimée était donc justifiée de refuser la déduction dans le calcul du revenu de l’appelante pour l’année d’imposition 2001. L’appel est rejeté avec dépens.
+Signé, ce 11e jour d'octobre 2011.
+« François Angers »
+Juge Angers
+RÉFÉRENCE : 2011 CCI 433
+Nº DU DOSSIER DE LA COUR : 2009-3346(IT)G
+INTITULÉ DE LA CAUSE : Industries Perron Inc. c. Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATE DE L’AUDIENCE : le 21 avril 2011
+MOTIFS DU JUGEMENT PAR : L'honorable juge François Angers
+DATE DU JUGEMENT : le 11 octobre 2011
+COMPARUTIONS :
+Avocat de l'appelant :
+Me Ryan Rabinovitch
+Avocate de l'intimée :
+Me Natalie Goulard
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelant:
+Nom : Me Ryan Rabinovitch
+Cabinet : Osler, Hoskin, Harcourt
+Montréal (Québec)
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] US DOC, ITA, Softwood Lumber From Canada; 66 Fed. Reg. 18508 (2001) et US DOC, ITA, Notice of Initiation of Countervailing Duty Investigation: Certain Softwood Lumber Products From Canada; 66 Fed. Reg. 21332 (2001), Pièce A-1.
+[2] États financiers de l'appelante pour l'exercice terminé le 31 décembre 2001, Pièce A-2.
+[3] Pièce A-10.
+[4] Pièce A-11.
+[5] US ITC, Softwood Lumber from Canada, Pub. no. 3426, May 2001, Pièce A-9.
+[6] US DOC. ITA. Notice of Preliminary Affirmative Countervailing Duty Determination, Preliminary Affirmative Critical Circumstances Determination, and Alignment of Final Coutervailing Duty Determination With Final Antidumping Duty Determination : Certain Softwood Lumber Products From Canada; 66 Fed. Reg 43186 (2001), Pièce A-12.
+[7] Pièce A-10.
+[8] US DOC, ITA, Notice of Preliminary Determination of Sales at Less Than Fair Value and Postponement of Final Determination: Certain Softwood Lumber Poducts [sic] From Canada, 66 Fed. Reg. 56062 (2001), Pièce A-13.
+[9] Pièce A-11.
+[10] Acte d'hypothèque mobilière garantissant l'engagement de l'appelante envers la banque Royale du Canada en vertu de l'émission par la Banque d'une lettre de crédit datée du 20 septembre 2001 au montant de $510M US ($790,500 CAN), Pièce A-3; Lettre de crédit datée du 20 septembre 2001, Pièce A-4; Acte d'hypothèque mobilière garantissant l'engagement de l'appelante envers la banque Royale du Canada en vertu de l'émission par la Banque d'une lettre de crédit datée du 17 octobre 2001 au montant de $510M US ($790,500 CAN), Pièce A-5; Lettre de crédit datée du 17 octobre 2001, Pièce A-6; Acte d'hypothèque mobilière garantissant l'engagement de l'appelante envers la banque Royale du Canada en vertu de l'émission par la Banque d'une lettre de crédit datée du 12 décembre 2001 au montant de $510M US ($790,500 CAN), Pièce A-7; Lettre de crédit datée du 12 décembre 2001, Pièce A-8.
+[11] US DOC, ITA, Notice of Final Affirmative Countervailing Duty Determination and Final Negative Critical Circumstances Determination: Certain Softwood Lumber Products From Canada; 67 Fed. Reg. 15545 (2002), Pièce A-14, modifiée par Notice of Amended Final Affirmative Countervailing Duty Determination and Notice of Countervailing Duty Order: Certain Softwood Lumber Products From Canada; 67 Fed. Reg. 36070 (2002), Pièce A‑15.
+[12] US DOC, ITA, Notice of Final Determination of Sales at Less Than Fair Value: Certain Softwood Lumber Products from Canada, 67 Fed. Reg. 15539 (2002), Pièce A-16; modifié par Notice of Amended Final Determination of Sales at Less Than Fair Value and Antidumping Duty Order: Certain Softwood Lumber Products from Canada, 67 Fed. Reg. 36068 (2002), Pièce A-17.
+[13] US ITC, Softwood Lumber from Canada, Pub. No. 3509, May 2002, Pièce A-18.
+[14] Pièce A-15, supra, note 11.
+[15] Pièce A-17, supra, note 13.

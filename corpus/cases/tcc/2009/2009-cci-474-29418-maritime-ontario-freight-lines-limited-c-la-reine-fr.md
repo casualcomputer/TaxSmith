@@ -1,0 +1,221 @@
+---
+title: "Maritime-Ontario Freight Lines Limited c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29418/index.do"
+last_modified: "2009-09-18"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 CCI 474"
+citation2: ""
+neutral_citation: "2009 CCI 474"
+decision_date: "2009-09-18"
+language: "fr"
+item_id: "29418"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6970
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T11:33:12.525000+00:00"
+cases_cited_count: 2
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "19567d77b49d2585756d60bfe4407ec442a06153888b4ee6d6ac91db3eb4cfe2"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Maritime-Ontario Freight Lines Limited c. La Reine
+
+- Citation: 2009 CCI 474
+- Decision date: 2009-09-18
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6970, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Maritime-Ontario Freight Lines Limited c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2009-09-18
+Référence neutre
+2009 CCI 474
+Numéro de dossier
+2007-2762(GST)G
+Juges et Officiers taxateurs
+Judith Woods
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2007‑2762(GST)G
+ENTRE :
+MARITIME-ONTARIO FREIGHT LINES LIMITED,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu les 15 et 16 décembre 2008 et le 5 février 2009, à Toronto (Ontario).
+Devant : L'honorable juge Judith Woods
+Comparutions :
+Avocats de l'appelante :
+Me David Douglas Robertson
+Me Paul Casuccio
+Avocats de l'intimée :
+Me Margaret Nott
+Me Harry Erlichman
+JUGEMENT
+L'appel interjeté à l'égard de la cotisation établie en vertu de la Loi sur la taxe d'accise, dont l'avis porte le numéro 05DP0326327 et est daté du 15 février 2007, est accueilli, et la cotisation est renvoyée au ministre du Revenu national pour nouvel examen et nouvelle cotisation en tenant compte du fait, premièrement, que le montant de la taxe nette devrait être réduit de 1 792 157,50 $ et, deuxièmement, que la pénalité s'élevant à 71 739 $ devrait être annulée.
+L'appelante a droit aux dépens.
+Signé à Toronto (Ontario), ce 18e jour de septembre 2009.
+« J. M. Woods »
+Le juge Woods
+Traduction certifiée conforme
+ce 1er jour de décembre 2009.
+Yves Bellefeuille, réviseur
+Référence : 2009 CCI 474
+Date : 20090918
+Dossier : 2007-2762(GST)G
+ENTRE :
+MARITIME-ONTARIO FREIGHT LINES LIMITED,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Woods
+[1] Le présent appel intéresse une cotisation établie à l'égard de Maritime‑Ontario Freight Lines Limited (« Maritime‑Ontario ») en vertu de la Loi sur la taxe d'accise pour la période du 29 juin 2003 au 24 juin 2006.
+[2] La cotisation a été établie par suite de l'omission de Maritime‑Ontario de percevoir la taxe sur les produits et services (la « TPS ») d'entrepreneurs indépendants qui lui ont fourni des services liés au transport de marchandises. Deux sommes sont en litige : la somme de 1 792 157 $, au titre de la taxe nette, et celle de 71 739 $, au titre d'une pénalité équivalant à quatre pour cent de la taxe nette.
+Contexte
+[3] Maritime‑Ontario est un transporteur agréé dont les activités consistent en le transport de marchandises générales et de courrier. La société a son siège à Brampton, en Ontario.
+[4] Maritime‑Ontario conclut avec des tiers clients des contrats par lesquels elle s'engage à transporter des marchandises pour une contrepartie donnée, plus la TPS.
+[5] Maritime‑Ontario a souvent recours aux services d'entrepreneurs indépendants (les « entrepreneurs ») pour acheminer des marchandises. Les honoraires payés aux entrepreneurs ne sont pas assujettis à la TPS.
+[6] Le présent appel porte sur la possibilité qu'avaient les entrepreneurs d'utiliser une carte de crédit fournie par Maritime‑Ontario pour acheter de l'essence en vertu d'une entente prise avec un fournisseur d'essence.
+[7] Si un entrepreneur utilise la carte de crédit pour acheter de l'essence, Maritime‑Ontario paye la facture établie par le fournisseur d'essence et cette dépense est, dans les faits, remboursée par l'entrepreneur.
+[8] Le fournisseur d'essence perçoit la TPS relative à ces achats d'essence de Maritime‑Ontario, et cette dernière demande un crédit de taxe sur les intrants au titre de la dépense.
+[9] Maritime‑Ontario fait valoir qu'elle n'est pas tenue de percevoir la TPS des entrepreneurs au titre de l'entente relative à la carte de crédit puisqu'elle achète l'essence pour son propre usage.
+[10] Bien que ce point ne soit pas directement pertinent au regard de l'appel, je signale que, si Maritime‑Ontario avait perçu la TPS des entrepreneurs, ceux‑ci auraient le droit de demander des crédits de taxe sur les intrants de façon à entièrement recouvrer la dépense de TPS.
+[11] Le ministre du Revenu national (le « ministre ») avance que la TPS aurait dû être perçue auprès des entrepreneurs parce que Maritime‑Ontario a acheté l'essence de fournisseurs d'essence pour ensuite la fournir à son tour aux entrepreneurs.
+[12] Dans la cotisation en litige, le ministre a inclus la somme de cette TPS dans le calcul de la « taxe nette » de Maritime‑Ontario.
+[13] Même si elle affirme qu'elle n'effectuait pas une nouvelle fourniture d'essence aux entrepreneurs, Maritime‑Ontario soutient à titre subsidiaire que, selon certaines dispositions de la Loi sur la taxe d'accise (la « Loi »), la fourniture est réputée ne pas constituer une fourniture taxable aux entrepreneurs dans cette situation particulière. Les dispositions invoquées sont l'article 133 (une seule fourniture), l'article 136.1 (services continus) et la partie VII de l'annexe VI de la Loi (règles relatives aux services continus de transport).
+[14] Également à titre subsidiaire, Maritime‑Ontario soutient que la pénalité devrait être annulée parce qu'elle a fait preuve de diligence raisonnable.
+Analyse
+[15] La cotisation en litige majore la « taxe nette » de Maritime‑Ontario du montant de la TPS qui, selon le ministre, aurait dû être perçu des entrepreneurs au titre de l'essence achetée avec les cartes de crédit.
+[16] Il n'est pas contesté que la cotisation est exacte si Maritime‑Ontario avait l'obligation de percevoir la TPS des entrepreneurs.
+[17] Il est utile de renvoyer à la définition du terme « taxe nette » donnée au paragraphe 225(1) de la Loi. Il ressort sans équivoque du passage souligné ci‑dessous que ce terme englobe la taxe qui est percevable même si celle‑ci n'a pas été perçue. Le paragraphe 225(1) est ainsi rédigé :
+225. (1) Taxe nette — Sous réserve des autres dispositions de la présente sous‑section, la taxe nette pour une période de déclaration donnée d'une personne correspond au montant, positif ou négatif, obtenu par la formule suivante :
+A – B
+où :
+A représente le total des montants suivants :
+a) les montants devenus percevables et les autres montants perçus par la personne au cours de la période donnée au titre de la taxe prévue à la section II;
+b) les montants à ajouter aux termes de la présente partie dans le calcul de la taxe nette de la personne pour la période donnée;
+B le total des montants suivants :
+a) l'ensemble des montants dont chacun représente un crédit de taxe sur les intrants pour la période donnée ou une période de déclaration antérieure de la personne, que celle‑ci a demandé dans la déclaration produite en application de la présente section pour la période donnée;
+b) l'ensemble des montants dont chacun représente un montant que la personne peut déduire en application de la présente partie dans le calcul de sa taxe nette pour la période donnée et qu'elle a indiqué dans la déclaration produite en application de la présente section pour cette période.
+[Non souligné dans l'original.]
+[18] Il s'agit donc de savoir si la TPS était percevable des entrepreneurs.
+[19] En général, la TPS doit être perçue sur la valeur de la contrepartie remise pour une fourniture taxable (paragraphes 221(1) et 165(1)).
+[20] Le terme « fourniture » est défini au paragraphe 123(1) de la Loi :
+« fourniture » Sous réserve des articles 133 et 134, livraison de biens ou prestation de services, notamment par vente, transfert, troc, échange, louage, licence, donation ou aliénation.
+[21] Cette définition est large, et la Cour d'appel fédérale a conclu, dans l'arrêt Vanex Truck Service Ltd. c. La Reine, 2001 CAF 159, au paragraphe 12, que le transfert de titre n'est pas nécessaire.
+[22] La question en litige est celle de savoir si Maritime‑Ontario effectuait une nouvelle fourniture d'essence aux entrepreneurs lorsque ceux‑ci utilisaient les cartes de crédit. Pour trancher cette question, il est nécessaire d'examiner la nature de la relation existant entre Maritime‑Ontario et les entrepreneurs.
+[23] Il convient de mentionner dès le départ qu'aucune des parties n'a avancé que Maritime‑Ontario achetait l'essence à titre de mandataire des entrepreneurs. Je vais donc présumer qu'il n'y a pas de mandat.
+[24] J'ajoute que ce n'est pas la première fois qu'une question de cette nature est soumise aux tribunaux. Les avocats m'ont renvoyée aux arrêts suivants, lesquels visent des sociétés de transport et des entrepreneurs indépendants : Vanex, précité, R. c. Libra Transport (B.C.) Ltd., 2002 CAF 347, et Fedderly Transportation Ltd. c. La Reine, no A‑457‑98, 14 septembre 2000 (C.A.F.).
+[25] L'issue de chacune de ces affaires dépendait de ses faits, notamment la nature de la relation existant entre la société de transport et l'entrepreneur.
+[26] Les faits dans l'arrêt Vanex sont probablement ceux qui se rapprochent le plus de ceux du présent appel. Maritime‑Ontario laisse toutefois entendre qu'il existe d'importantes différences. Non seulement les clauses contractuelles visées sont‑elles différentes mais, de plus, dans l'affaire Vanex, les entrepreneurs avaient, dans les faits, payé la TPS à Vanex, alors que cette dernière avait omis de la verser (no 96‑4842(GST)G, 12 novembre 1999 (C.C.I.), au paragraphe 209).
+[27] Je me penche maintenant sur les faits dont je suis saisie. Je vais commencer par présenter le contexte dans lequel Maritime‑Ontario et les entrepreneurs en sont venus à conclure leur entente.
+[28] Lorsque la TPS est initialement entrée en vigueur au début des années 1990, Maritime‑Ontario a demandé conseil à Ernst & Young sur la façon dont elle devait remplir les obligations qui lui incombaient sous le régime de la Loi.
+[29] À la lumière de ces conseils, Maritime‑Ontario a décidé de modifier les conventions qu'elle avait conclues avec les entrepreneurs afin qu'elle‑même, et non ces derniers, paye la TPS sur les achats d'essence effectués au moyen de ces cartes de crédit.
+[30] Malheureusement, le modèle type de convention dont elle s'est servie pour obtenir ce résultat paraît avoir été plutôt mal rédigé. Le document comporte un certain nombre d'incohérences internes et la nature de la relation entre Maritime‑Ontario et les entrepreneurs n'est pas clairement définie.
+[31] Néanmoins, il semble qu'on ait voulu que l'essence achetée avec les cartes de crédit soit achetée par Maritime‑Ontario pour son propre compte et non pour le compte des entrepreneurs. L'objet était de faire en sorte que les entrepreneurs n'aient pas à payer la TPS puisque ce n'était pas eux qui achetaient l'essence.
+[32] Selon Doug Munro, président de Maritime‑Ontario, cette entente a été adoptée afin de réduire le plus possible les difficultés liées au flux de trésorerie visant la TPS pour Maritime‑Ontario et ses entrepreneurs exploitant une petite entreprise. Il s'agissait d'une question de différence de temps au regard d'une dépense importante. L'entente n'avait aucune incidence sur le montant de la taxe qui serait en définitive perçue, une fois les crédits de taxe sur les intrants pris en compte.
+[33] La question fondamentale soulevée dans le présent appel est celle de savoir si le plan conçu par Maritime‑Ontario était valide en droit.
+[34] Pour répondre à cette question, il faut se demander si le plan a été mis en oeuvre de façon appropriée par le modèle type de convention qui régissait la relation.
+[35] Il est utile de reproduire certaines des clauses pertinentes figurant dans l'une des conventions déposées en preuve[1] (pièce A‑1, onglet 1) :
+[TRADUCTION]
+ATTENDU que l'entrepreneur indépendant est le propriétaire du véhicule décrit à l'annexe « A », laquelle est jointe aux présentes et en fait partie intégrante, et que l'entrepreneur indépendant veut conclure avec M‑O un contrat visant l'utilisation de ce véhicule aux conditions énoncées ci‑dessous;
+[...]
+ET ATTENDU que M‑O désire utiliser et exploiter le véhicule automobile avec l'entrepreneur indépendant, [...]
+[...]
+1. Utilisation et description
+L'entrepreneur indépendant conclut par les présentes un contrat d'entreprise visant le véhicule et son utilisation au sein du parc de véhicules routiers de M‑O. Les caractéristiques du véhicule susmentionné sont énoncées à l'annexe « A » ci‑jointe, laquelle fait partie intégrante des présentes telles qu'elles peuvent être modifiées de temps à autre par suppressions ou adjonctions.
+[...]
+3. Paiement
+3.1 À titre de paiement pour les services devant être rendus en vertu des présentes, M‑O s'engage à payer à l'entrepreneur indépendant les sommes convenues et énoncées à l'annexe « B » ci‑jointe, laquelle fait partie intégrante des présentes et peut être modifiée de temps à autre par les parties au moyen d'adjonctions.
+[…]
+5. Matériel de l'entrepreneur indépendant
+L'entrepreneur indépendant fournit à M‑O le matériel décrit à l'annexe « A » ainsi que la main‑d'oeuvre nécessaire pour exécuter le présent contrat d'entreprise, y compris le chargement et le déchargement. [...]
+[…]
+16. Autres dépenses
+16.1 L'entrepreneur indépendant s'engage à assumer l'ensemble des dépenses qui ne sont pas par ailleurs visées dans le présent contrat, notamment le coût de l'entretien, de l'essence, des pneus, des réparations, des salaires versés à des tiers, des taxes sur l'essence, des voyages à vide, des permis de toutes sortes, des droits de péage, des plaques d'immatriculation et des licences, et de toute portion inutilisée de ces éléments. L'entrepreneur indépendant s'engage en outre à payer les retenues énoncées à l'annexe « B ».
+[36] Manifestement, cette entente a été rédigée avec l'intention de mettre en oeuvre le plan relatif à la TPS proposé par Ernst & Young.
+[37] Selon les attendus formulés dans la convention, Maritime‑Ontario souhaitait exploiter, de concert avec l'entrepreneur, le véhicule de ce dernier. L'article 5 est compatible avec cet énoncé puisqu'il prévoit que l'entrepreneur doit fournir le matériel, à savoir le véhicule, à Maritime‑Ontario.
+[38] La nature prévue de la relation est loin d'être énoncée d'une façon aussi précise qu'elle ne l'aurait dû. Il semble néanmoins que, soit Maritime‑Ontario avait l'intention d'assumer la responsabilité liée à l'utilisation du véhicule — les services de chauffeur devant être fournis par l'entrepreneur —, soit les parties au contrat avaient l'intention de constituer une coentreprise. Cette dernière proposition paraît mieux refléter la réalité.
+[39] Quant aux dépenses, on paraît envisager dans l'entente la possibilité qu'elles puissent être engagées par l'une ou l'autre des parties, et qu'elles seront engagées pour le compte de cette partie, sauf si la convention comporte une stipulation contraire visant une dépense donnée.
+[40] De plus, la convention prévoit que de nombreuses dépenses faites par Maritime‑Ontario doivent en réalité être remboursées par l'entrepreneur. Cela comprend le coût de l'essence achetée avec les cartes de crédit.
+[41] D'une manière générale, on effectuait ce « remboursement » au moyen de la réduction des honoraires payables à l'entrepreneur en contrepartie de ses services. Ces honoraires sont prévus au paragraphe 3.1 et le rajustement au titre des dépenses est précisé dans une formule énoncée à l'annexe B de la convention.
+[42] Selon les avocats du ministre, le paragraphe 16.1 est incompatible avec la thèse avancée par l'appelante. Cette clause stipule que les entrepreneurs « assument » les dépenses liées à l'essence et qu'ils doivent « payer » les retenues mentionnées à l'annexe B.
+[43] Le libellé du paragraphe 16.1 sème la confusion, mais je ne pense pas que cette clause soit incompatible avec le régime d'honoraires prévu au paragraphe 3.1. Le terme « assumer » est suffisamment large pour englober un remboursement qui est en réalité effectué au moyen d'une réduction appliquée à des honoraires. L'emploi de l'expression [TRADUCTION] « payer les retenues » semble peu judicieux, mais l'intention est claire. Le mécanisme utilisé en ce qui concerne l'essence payée par Maritime‑Ontario est la réduction des honoraires.
+[44] Je conclurais que la convention dans son ensemble est compatible avec l'intention selon laquelle l'essence payée par Maritime‑Ontario était achetée pour le compte de cette dernière.
+[45] Malgré les lacunes rédactionnelles évidentes que présente la convention, j'estime que ses clauses sont suffisamment explicites pour donner effet à l'intention de Maritime‑Ontario.
+[46] Je soupçonne qu'un expert en droit commercial pourrait trouver des arguments propres à étayer l'opinion voulant que l'essence en l'espèce ait été achetée par les entrepreneurs. À mon avis, toutefois, une approche excessivement formaliste ne serait pas appropriée dans la présente situation.
+[47] L'objectif visé par la convention était modeste : on souhaitait éviter qu'il y ait un décalage entre les paiements et les crédits sous le régime de la Loi. On croyait que la convention profiterait à la fois à Maritime‑Ontario et aux entrepreneurs.
+[48] Avant de conclure, il convient de signaler qu'à l'audience, on a soulevé une préoccupation touchant les pertes fiscales. Apparemment, l'un des entrepreneurs a fait l'objet d'une vérification de la part du ministre et on a conclu qu'il avait demandé des crédits de taxe sur les intrants au titre de la TPS payée par Maritime‑Ontario.
+[49] Je puis comprendre l'inquiétude du ministre à cet égard, en particulier à la lumière du fait que la convention n'est pas bien rédigée. J'ajouterai que Maritime‑Ontario avait, en un sens, favorisé cette demande de l'entrepreneur en lui donnant des renseignements sur le montant de TPS qu'elle avait payé.
+[50] Néanmoins, je ne pense pas que cela constitue un fondement suffisant pour conclure que la TPS était percevable des entrepreneurs. Malgré la conclusion du ministre selon laquelle au moins un des entrepreneurs avait demandé des crédits de taxe sur les intrants, aucun fondement légitime ne justifiait que les entrepreneurs agissent ainsi. L'objet visé par la convention est relativement clair, et les relevés des versements que Maritime‑Ontario fournissait aux entrepreneurs montrent sans équivoque que ces derniers ne payaient pas de TPS.
+Conclusion
+[51] Compte tenu de cette conclusion, il est inutile que j'examine les autres arguments soulevés par les avocats de l'appelante.
+[52] L'appel sera accueilli, et la cotisation sera renvoyée au ministre du Revenu national pour nouvel examen et nouvelle cotisation en tenant compte du fait que le montant de la taxe nette devrait être réduit de 1 792 157,50 $ et que la pénalité s'élevant à 71 739 $ devrait être annulée.
+[53] Maritime‑Ontario a droit aux dépens.
+Signé à Toronto (Ontario), ce 18e jour de septembre 2009.
+« J. M. Woods »
+Le juge Woods
+Traduction certifiée conforme
+ce 1er jour de décembre 2009.
+Yves Bellefeuille, réviseur
+RÉFÉRENCE :
+2009 CCI 474
+NO DU DOSSIER DE LA COUR :
+2007-2762(GST)G
+INTITULÉ :
+Maritime-Ontario Freight Lines Limited et Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+Toronto (Ontario)
+DATES DE L'AUDIENCE :
+Les 15 et 16 décembre 2008 et le 5 février 2009
+MOTIFS DU JUGEMENT :
+L'honorable juge J. M. Woods
+DATE DU JUGEMENT :
+Le 18 septembre 2009
+COMPARUTIONS :
+Avocats de l'appelante :
+Me David Douglas Robertson
+Me Paul Casuccio
+Avocats de l'intimée :
+Me Margaret Nott
+Me Harry Erlichman
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelante :
+Nom :
+David Douglas Robertson
+Cabinet :
+Fasken Martineau DuMoulin S.E.N.C.R.L., s.r.l.
+Toronto (Ontario)
+Pour l'intimée :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Je signale que cette convention est fort différente de celle déposée en preuve par le ministre (pièce R‑1, onglet 17). La convention produite par le ministre a été conclue antérieurement à l'entrée en vigueur de la TPS.

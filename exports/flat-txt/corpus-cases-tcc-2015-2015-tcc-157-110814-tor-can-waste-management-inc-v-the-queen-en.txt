@@ -1,0 +1,237 @@
+Title: Tor Can Waste Management Inc. v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/110814/index.do
+Corpus path: corpus/cases/tcc/2015/2015-tcc-157-110814-tor-can-waste-management-inc-v-the-queen-en.md
+Document type: case_law
+Last modified: 2015-06-22
+
+# Tor Can Waste Management Inc. v. The Queen
+
+- Citation: 2015 TCC 157
+- Decision date: 2015-06-22
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2641, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Tor Can Waste Management Inc. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2015-06-22
+Neutral citation
+2015 TCC 157
+File numbers
+2012-2156(IT)G
+Judges and Taxing Officers
+Kathleen T. Lyons
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2012-2156(IT)G
+BETWEEN:
+TOR CAN WASTE MANAGEMENT INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Motion heard on March 6, 2015 at Toronto, Ontario
+Before: The Honourable Justice K. Lyons
+Appearances:
+Counsel for the Appellant:
+John Kutkevicius
+Counsel for the Respondent:
+Laurent Bartleman
+ORDER
+UPON motion by the appellant for an Order compelling the respondent to answer follow-up questions asked and produce documents, set out in Schedule “A” to these reasons, on the examination for discovery of the respondent’s nominee;
+AND UPON reading the materials filed and hearing submissions from counsel for the parties;
+IT IS ORDERED THAT:
+1. the respondent’s nominee will not produce the documents requested in Schedule “A”;
+2. the respondent’s nominee is not directed to answer the questions in Schedule “A”;
+3. the respondent’s nominee will not re-attend to continue the examination for discovery;
+4. the Amended Order, dated January 13, 2015, made by Owen J. is to continue so that the parties are to report to the Hearings Coordinator on the progress of the appeal, in writing, within ten (10) days of receiving the decision and Order of the Tax Court of Canada on this motion; and,
+5. the costs of this motion will be in the cause.
+Signed at Ottawa, Canada, this 22nd day of June 2015.
+“K. Lyons”
+Lyons J.
+Citation: 2015 TCC 157
+Date: 20150622
+Docket: 2012-2156(IT)G
+BETWEEN:
+TOR CAN WASTE MANAGEMENT INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Lyons J.
+[1] The appellant brought a motion pursuant to Rule 110 of the Tax Court of Canada Rules (General Procedure) for an Order directing the respondent to:
+1. answer certain follow-up questions and produce documents refused set out in Schedule “A” referred to in the Notice of Motion and attached to these Reasons;
+2. re-attend at its own expense a continuation of the examination for discovery of the respondent to answer all proper questions that the respondent previously refused or failed to answer and also to answer any proper questions arising from those answers;
+3. pay forthwith the costs of this motion and the costs of the continuation of the examination for discovery.
+[2] The background of this dispute involves appeals by the appellant of reassessments made by the Minister of National Revenue (the “Minister”) under the Income Tax Act, R.S.C. 1985, c. 1 (5th Supp.) (the “Act”). The Minister disallowed deductions in the amounts of $205,578 in 2007 and $358,500 in 2008 claimed by the appellant as deductible business expenses for used waste containers or bins that it allegedly purchased.[1]
+[3] Some factual and procedural context would be useful before turning to the motion. It is undisputed that the appellant operates a waste management business in Brampton, Ontario.[2] It collects waste from its customers through the provision of bins to its customers. It then passes the waste to transfer stations for recycling and disposing.
+[4] According to the appellant, it allegedly purchased a portion of waste containers or bins by cheques that it issued directly to Lans Financial Services (“Lans”). These transactions were recorded by the appellant as asset purchases.[3]
+[5] The appellant also allegedly purchased the remaining portion of the waste containers or bins (the “Bins”) indirectly from a competitor through Lans, as a financial intermediary, by cheques it issued to Tor Can (Contracting) Services (“Services”) for the Bins.[4] The cheques issued to Services – totalling the amounts of $205,518 in 2007 and $358,500 in 2008 taxation years – were endorsed on behalf of Services (“the Amounts” in issue). These cheques were then provided to, cashed and received by Lans allegedly as payment for the purchase price of the Bins. According to the appellant, the transactions were not recorded as asset purchases and were deducted by the appellant, allegedly in error, as payments to subcontractors for accounting and tax purposes.
+[6] The appellant was owned by Mrs. Antonella Gurreri. Services was owned by Mr. Liborio Gurreri, spouse of Mrs. Gurreri.
+[7] The appellant asserts the Amounts are deductible business expenses pursuant to paragraph 20(1)(a) of the Act, in its taxation years ending July 31, 2007 and July 31 2008, constituting the capital cost of depreciable property (the Bins) qualifying as class 10, paragraph (h), assets in Schedule II of the Income Tax Regulations, C.R.C., c. 945.
+[8] According to the Minister, although the Amounts were made by the appellant to Services, she alleges that the Amounts were not for the purchase of the Bins; were not incurred to gain or produce income from the business; were not used to acquire capital property; and were personal expenses of the appellant’s sole shareholder and spouse pursuant to sections 3 and 9, and paragraphs 18(1)(a), (h) and 20(1)(a) of the Act.
+[9] May 14, 2013 was the date of the examination for discovery of the respondent’s nominee, Raja Sivaguru. At discovery, he acknowledged that subsequent to the completion of his audit of the appellant, Latif Merali stated to him that the appellant’s cheques issued to Services, in the Amounts (payments), were cashed by Mr. Merali. Mr. Merali retained an amount from each cheque and then wrote a cheque on Lans’ account for the remaining discounted amount. After cashing the Lans cheque, he gave the cash to Mr. Gurreri (the “discount theory”). This statement formed the basis for Mr. Sivaguru concluding that the $577,226, which includes the Amounts, constitutes personal expenses received by Mr. and Mrs. Gurreri as shareholder withdrawals.[5] Mr. Merali provided copies of cheques and deposit slips to the Canada Revenue Agency (“CRA”) relating to the transactions.[6]
+[10] On July 22, 2013, the respondent sent a letter to the appellant providing answers to fulfill undertakings, answers to certain questions taken under advisement and refusals to the remaining questions taken under advisement given during the discovery of Mr. Sivaguru.
+[11] On September 17, 2013, the appellant sent a letter to the respondent with follow-up questions to the respondent’s answers to undertakings and reiterating questions to refusals relating to advisements.
+[12] The respondent responded to the appellant by letter dated November 15, 2013, with an attached table containing the follow-up questions, complete answers, partial answers and refusals.[7] Other documentation was also attached to the letter. Schedule “A” sets out the eight follow-up questions asked and documentation requested (“information”) which were refused and are the subject of this motion.[8]
+[13] The appellant is seeking an Order requiring the respondent to provide all the information the Minister received from the third parties asserting that these were used to support the Minister’s position that the $577,226 were personal expenses. It is the position of the appellant that the respondent improperly refused to provide the information requested even though the eight questions are directly relevant to the issues in dispute within the broad purposes of discovery to assist the appellant in knowing the case it has to meet which will lead the appellant to the train of inquiry in ascertaining if the appellant purchased the Bins.[9]
+[14] The parties agree as to the legal test and the governing principles of this motion except that the appellant seeks production of everything the Minister received from Lans and Mr. Merali (“third parties”) and appeared to suggest that it is not for the respondent to determine relevance.
+[15] The respondent asserts that the operative principle is that the appellant is to be permitted access to all documents, or parts thereof, that are relevant or were relied on by the Minister in reassessing.
+I. Analysis [16] The applicable legal test for relevancy and the latitude of a motion judge when hearing a motion to compel a response to a discovery question was extensively canvassed by Bowman A.C.J., as he then was, in the case of Baxter v Canada, 2004 TCC 636, 2004 DTC 3497 [Baxter] and as applied in recent jurisprudence.
+[17] The compendium of principles that have emerged identify that the key to any question on discovery is limited by relevance which must be broadly and liberally construed with wide latitude to be given. Relevance is driven by the issues in the pleadings. Thus, questioning allowed at discovery is broad and relevance has a low threshold.[10]
+[18] Rule 95(1) of the Tax Court of Canada Rules (General Procedure), SOR/90‑688a is the starting point which governs the scope of oral discovery. It states that:
+95(1) A person examined for discovery shall answer … any proper question relevant to any matter in issue in the proceeding …
+[19] The Federal Court of Appeal in Canada v Lehigh Cement Ltd., 2011 FCA 120, [2011] 4 CTC 112 (FCA) [Lehigh Cement], recently confirmed that a question is relevant which might fairly lead to a train of inquiry that may either advance the questioning party’s case or damage the case of its adversary.[11]
+[20] However, fishing expeditions of vague and far-reaching scope are discouraged. Thus, the Court retains discretion to disallow such questions or relevant questions if abusive, disproportionate, designed to embarrass or harass the witness, delays the case, causes undue hardship on the answering party or if there is another way to obtain the information. [12]
+[21] A motion judge ruling on an application should not unduly restrict an examination by excluding questions broadly related to the issues, nor seek to impose his or her views of relevancy on the trial judge by excluding questions that he or she may consider irrelevant but which, in the context of the evidence as a whole, the trial judge may consider relevant. Nor should a motion judge second guess the discretion of counsel by examining minutely each question or justification of each question.[13]
+[22] The appellant also referred to the purpose of discovery established in the jurisprudence and referenced the decision in HSBC Bank of Canada v Canada, 2010 TCC 228, 2010 DTC 1159.[14] The appellant noted that C. Miller J., at paragraph 16, referred to the aim of discovery as providing a level of disclosure so as to allow each party to “proceed efficiently, effectively and expeditiously towards a fair hearing, knowing exactly the case each has to meet.”
+[23] Subsections 241(1) and (2) of the Act embody the basic principles that restrict the release of confidential taxpayer information.[15] Paragraph 241(3)(b) of the Act contains an exception to the prohibition in respect of legal proceedings relating to the administration or enforcement of the Act and provides:
+241(3) Subsections 241(1) and 241(2) do not apply in respect of
+…
+(b) any legal proceedings relating to the administration or enforcement of this Act, the Canada Pension Plan, the Unemployment Insurance Act or the Employment Insurance Act or the Employment Insurance Act or any other Act of Parliament or law of a province that provides for the imposition or collection of a tax or duty.
+[24] The prohibition against disclosure by the Minister of protected third-party taxpayer information and documentation applies if it is not relevant to nor was relied on by the Minister in reassessing a tax return. [16]
+[25] Courts will not order the disclosure of third-party information where the Minister did not use the information nor if there was virtually no reason to use the information to make an assessment. [17]
+[26] Courts have ordered disclosure of third-party information (income tax returns and information exchanged with the Minister) if the information was relied on by the Minister in making the assessment.[18]
+[27] In the decision of Oro Del Norte, S.A. v Canada, [1990] 2 CTC 67 (FCTD), the Court held that third-party information relevant to the issues between the parties or relied on by the Minister in assessing is disclosable. Recently, in Heinig v Canada, 2009 TCC 47, 2009 DTC 1072 [Heinig], Webb J. confirmed those principles (relevance and reliance).
+[28] This Court is to ascertain whether, prima facie, the follow-up questions put in respect of the issues in the pleadings offend the above principles. I now turn to the appellant’s motion in which it seeks answers to the eight follow-up questions. At the motion, the appellant informed the Court that questions 1 to 8 on Schedule “A” can be categorized into four groups.
+Questions 1, 5 and 2 1. Did CRA audit third party and/or Mr. Merali? If so, what were the results of this audit?
+5. Did CRA audit Lans Financial or any other entity with which the third party or Mr. Merali was associated as an employee, shareholder, officer, director or consultant?
+2. Did CRA perform a “net worth” analysis on this third party or Mr. Merali. If so, what were the results of the net worth analysis?
+[29] The appellant submits that the crux of the case relates to the payments totalling the amount of $577,226, which includes the Amounts. Specifically, whether the Amounts were for the purchase of the Bins to earn business income or for personal expenses of the shareholders, as alleged by the Minister, based on Mr. Merali’s statement relating to the remaining discounted amounts. Questions 1, 5 and 2 were asked in relation to the Minister’s allegation because the appellant believes that there was “something” other than Mr. Merali’s statement.
+[30] The appellant contends that the audits and net worth analyses would assist in “figuring out” where those funds went and possibly reveal or not whether the third parties reported the Amounts in income and lead to certain suppositions such as possibly finding that Mr. Merali had unreported income because he cashed the cheques.[19] Relying on the decision in Amp of Canada, Ltd. v Canada, 87 DTC 5157 (FCTD) [Amp], the appellant asserts it should obtain all the third party information, as in the Amp decision, and construed the decision as also suggesting it is not for the respondent to determine relevance.
+[31] At the hearing, the respondent confirmed that all relevant third party information has been produced to the appellant. The information sought relates to the third parties’ tax liabilities, is unrelated to the correctness of the appellant’s reassessments and was not relied on by the Minister in reassessing. In contradistinction to the appellant, the respondent submitted that she has a duty to review documents to determine what it views as relevant.
+[32] The appellant’s position - everything is disclosable - disregards the principle that access to third-party information is permissible provided that the Minister relied on the information in reassessing or it is relevant. There is nothing to suggest that the information sought (results of the audits or net worth analyses of the third parties) was relied on nor, as confirmed by respondent counsel, did the Minister make any such admission. As well, the respondent acknowledged her ongoing obligation under the Rules of Court to produce any additional relevant information that she obtains.
+[33] Contrary to the appellant’s interpretation of the decision in Amp, in my view, it is premised on the fact that it was impossible for Amp to know what segments of the competitor’s financial statements and tax returns that the CRA relied on and for that reason it obtained full disclosure. However, it is clear that the overarching principle is that of reliance.[20] In Huron, it was clearly established that the third-party competitor’s tax returns had been relied on by the Minister. Unlike the present case, in Amp and Huron, it was admitted at discovery that the Minister had actually relied on the information in formulating the Minister’s assumptions. No such question was asked by the appellant in the present case at the discovery to establish what documents the Minister relied on.
+[34] At the discovery, Mr. Sivaguru was asked “And what facts do you have to demonstrate that Mr. Gurreri received the funds?” He answered “Based on Mr. [Merali’s] statement”[21] Appellant counsel then asked “That’s the only thing” and Mr. Sivaguru said “Yes”.[22]
+[35] In framing the questions as to whether audits or net worth analyses “if any” had occurred, the appellant is seeking to ascertain the results relating to audits (verification of income) and net worth analyses (indirect verification of income) of third parties. Aside from the appellant’s suppositions and the hypothetical nature of those questions, how the third parties chose or not to report income is not relevant to the issues as to whether the Amounts were incurred by the appellant to purchase the Bins. I also agree that the appellant is seeking information relating to the third parties’ tax liabilities which is unrelated to the correctness of the appellant’s reassessments.
+[36] I find that there is no basis in the materials showing the CRA drew on or relied on audits or net worth audits of the third parties in support of the appellant’s reassessments.
+[37] I disagree with the appellant that it is not for the respondent to determine relevance. Necessarily, the respondent has a duty to review documents in the CRA file to ascertain if a document, or part thereof, is relevant based on her own assessment of relevance. If challenged, relevance is ultimately decided by the Court.
+[38] The appellant asserts because the third parties were on the opposite side of the transactions with the appellant, the information is relevant and goes to the crux of the case. To determine if the appellant has satisfied the relevance test, regard must be had to the essence of its appeal. The dispute in the pleadings in ascertaining if questions are relevant, centres on whether the Amounts were expended by the appellant to purchase the Bins, via Services, from Lans for the purpose of earning business income.
+[39] Again, whether third parties chose, or not, to report income has no bearing on whether the Amounts were deductible by the appellant as business expenses for the purchase of the Bins or in establishing that these were personal expenses. I find that the nature of the requests sought by the appellant constitute irrelevant third party protected taxpayer information unrelated to the appellant’s tax liability thus there is no semblance of relevancy
+[40] With respect to question 5, the appellant failed to explain as to how it is relevant to the issues that the CRA audited an entity that Mr. Merali was otherwise associated.
+[41] I conclude that the third party information sought was not relied on in reassessing nor relevant to the issues. The questions amount to fishing. The Minister correctly applied the prohibition from disclosure in section 241 of the Act. The respondent need not answer these questions.
+Questions 4 and 7 4. Please provide a list and a copy of all letters, reports, memoranda or other correspondence written by Mr. Sivaguru or any other CRA employee or consultant to or in respect of the third party, Mr. Merali or Lans Financial.
+7. Please provide a list and a copy of all letters, reports, memoranda or other correspondence written by Mr. Sivaguru or any other CRA employee or consultant to or in respect of Lans Financial or any other such entity.
+[42] The appellant pleads that the only information it received “in respect of” the third parties comprise the CRA’s March 27, 2012 letter (“CRA letter”) sent to the third parties and the T2020 detailing communications and meetings between the CRA and Mr. Merali between February 29, 2012 to May 11, 2012.
+[43] The respondent confirmed that the CRA letter and the T2020, produced as part of the response to question 3, are the only two relevant documents written. She objected to separately listing documents on the basis that the requests were overly broad and of unclear relevance.
+[44] Absent a suggestion by the appellant that documents have been improperly withheld, and there has been no such suggestion, and since the respondent has confirmed that she has provided the relevant documents written by the CRA in respect of the third parties, I find that the respondent has adequately answered that part of the question.
+[45] I also find that the request to separately list documentation is too broad and it is unnecessary to answer this part of the question.
+[46] I conclude that the respondent has answered the questions and need not respond further to these questions.
+Questions 3 and 6 3. Please provide a list and a copy of each document reviewed or received by CRA from the third party and/or Mr. Merali.
+6. Please provide a list and a copy of each document reviewed or received by CRA in respect of Lans Financial or any other such entity.
+[47] The appellant pleads that it is entitled to everything obtained by the CRA from the third parties which relates directly to Mr. Merali’s statement relating to the discount theory. It referred to examples such as the documents listed in the CRA letter and the contents of eight folders detailed in the T2020.
+[48] The respondent confirmed that everything that had been obtained from the third parties that was asked for and relevant to the issues or was relied on was produced to the appellant. It was noted that not all of the documents listed in the CRA letter were obtained from Mr. Merali. The documents produced by the respondent included some deposit slips that had been redacted to remove the identities of third party entities unrelated to this appeal and involving years beyond those under appeal.
+[49] The respondent’s response to the questions are as follows:
+Question 3
+Refused in part. This question is overly broad and its relevance is unclear. The respondent refuses [to] separately list the documents obtained. However we state that the documents produced by Mr. Merali in respect of the appellant’s 2007 and 2008 taxation years were:
+a. the deposit slips and cheques set out in Exhibit R-3, with the available backs of the cheques that were produced in Iris Kingston’s letter dated July 22, 2013. We have located four additional deposit slips (being 6-F, 6-L, 6-N and 6-P) that Mr. Merali provided that were not included in R-3.
+b. a loan agreement, with related cheques, which we attach.
+The documents have been redacted to remove third party information not relevant to this matter. Please note that deposit slips 6-E, 6-K, 6-M, and 6-0 are included, but redacted in full, as they do not relate to the appellant’s 2007 or 2008 taxation years. They are included in the production as they were copied on the same page as slips 6-E-, 6-K, 6-M, and 6-O, respectively.
+Question 6
+Refused. This question is overly broad and its relevance is unclear. In any event, the documents received from Mr. Merali in respect of the appellant’s 2007 and 2008 taxation years have already been produced or are attached.
+[50] In Heinig, Webb J. allowed the motion for disclosure, in part, after applying the principle that a taxpayer must be permitted access to all relevant documents and construed “all documents” as any document or segment of a document provided that the relevant segment can be severed without rendering the document incomprehensible, otherwise the entire document would need to be disclosed.[23] At paragraph 10, he states that:
+10. It seems to me that the reference to all documents does not necessarily mean that an entire document should be disclosed to an appellant if only part of that document is relevant to the appeal and another part contains confidential third party information that is not relevant to the appeal. In my opinion it would not be appropriate for the entire document to be disclosed if these parts could be severed. …
+[51] In seeking to obtain all documents obtained from the third parties, including the redacted documents, the appellant has failed to apply the relevance test and the approach in Heinig and cannot succeed with respect to these requests. In providing the cheques, deposit slips, redacted deposit slips with irrelevant information, loan agreement and related cheques, I find that the respondent has adequately answered that part of the question.
+[52] I also find that the request to separately list documentation is too broad and unnecessary.
+[53] I conclude that the respondent has answered the question, was correct in redacting irrelevant, protected third-party information and the provision of a list is unnecessary. The respondent need not respond further to these questions.
+Question 8 8. Were all or any portion of the payments made to Lans Financial by the Appellant directly or indirectly through Tor Can Contracting reported by Lans Financial in computing its income for income tax purposes.
+[54] The appellant plead at the hearing that it is relevant to know whether the discount payments, or portions, were included in Lans income as it would relate to the Minister’s discount theory.[24]
+[55] The respondent had refused to answer these questions on the basis the information sought is unrelated to the correctness of the appellant’s assessment, related to the tax liabilities of third parties thus irrelevant to any issue in the appeal and is protected from disclosure pursuant to section 241 of the Act.
+[56] Respondent counsel submitted at the hearing that whilst Lans is obliged to produce certain documents to the CRA under the regulations, the CRA is not responsible for approaching Lans to obtain the subcomponents of the net income that Lans had arrived at and reported as its net income. Further, assuming it is even possible for Lans to obtain that level of detail, does that create an issue out of an issue as to whether Lans properly reported, or not, its income or would the appellant accept the reporting or debate that as an issue?
+[57] The issue in this dispute is not whether or how Lans chose to report its income. I agree that the CRA is not obliged to approach Lans to obtain information which may or may not be further debated by the appellant. Having regard to the principles and noting that to be efficient, effective and expeditious the request for such a breakdown is more appropriately ascertained by the appellant at a third-party discovery should it choose to pursue that option. For those reasons and the reasons set out under questions 1, 5 and 2, I find the question is not relevant. The respondent need not answer the question.
+[58] For the foregoing reasons, the appellant’s application for an Order from the Court directing the respondent to answer the follow up questions and produce documents is denied.
+[59] The parties are directed to communicate with the Hearings Coordinator, in writing, within ten (10) days of receiving the decision and the Order of the Tax Court of Canada on this motion.
+[60] The costs of this motion will be in the cause.
+[61] Signed at Ottawa, Canada, this 22nd day of June 2015.
+“K. Lyons”
+Lyons J.
+SCHEDULE“A” – Refusals
+No.
+Question/Request
+Reference
+1.
+Did CRA audit third party and/or Mr. Merali? If so, what were the results of this audit?
+Letter to L. Bartleman dated September 17, 2013 from J. Kutkevicius (“JK” Letter”) – paragraph 3(v)
+2.
+Did CRA perform a “net worth” analysis on this third party or Mr. Merali. If so, what were the results of the net worth analysis?
+JK Letter – paragraph 3(vi)
+3.
+Please provide a list and a copy of each document reviewed or received by CRA from the third party and/or Mr. Merali;
+JK Letter – paragraph 3(vii)
+4.
+Please provide a list and a copy of all letters, reports, memoranda or other correspondence written by Mr. Sivaguru or any other CRA employee or consultant to or in respect of the third party, Mr. Merali or Lans Financial;
+JK Letter – paragraph 3(viii)
+5.
+Did CRA audit Lans Financial or any other entity with which the third party or Mr. Merali was associated as an employee, shareholder, officer, director or consultant?
+JK Letter– paragraph 3(ix)
+6.
+Please provide a list and a copy of each document reviewed or received by CRA in respect of Lans Financial or any other such entity;
+JK Letter – paragraph 3(x)
+7.
+Please provide a list and a copy of all letters, reports, memoranda or other correspondence written by Mr. Sivaguru or any other CRA employee or consultant to or in respect of Lans Financial or any other such entity;
+JK Letter – paragraph 3(xi)
+8.
+Were all or any portion of the payments made to Lans Financial by the Appellant directly or indirectly through Tor Can Contracting reported by Lans Financial in computing its income for income tax purposes;
+JK Letter – paragraph 3(xiii)
+CITATION:
+2015 TCC 157
+COURT FILE NO.:
+2012-2156(IT)G
+STYLE OF CAUSE:
+TOR CAN WASTE MANAGEMENT INC. and HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+March 6, 2015
+REASONS FOR ORDER BY:
+The Honourable Justice K. Lyons
+DATE OF ORDER:
+June 22, 2015
+APPEARANCES:
+Counsel for the Appellant:
+John Kutkevicius
+Counsel for the Respondent:
+Laurent Bartleman
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+John Kutkevicius
+Firm:
+Wildeboer Dellelce LLP
+Toronto, Ontario
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] The appellant had claimed business expenses in amounts exceeding the amounts in dispute in this appeal. It claimed expenses totalling $218,726 in 2007 and $381,426 in 2008. The amount for 2007 comprise the $205,578 allocable to payments to Services and $13,207.55 in payments the appellant made to itself. The amount for 2008 comprise the $358,500 allocable to payments to Services, $20,000 to Alfonso Gurreri and $2,926 attributable to advertising expenses, all of which were disallowed by the Minister. At the motion, the appellant referenced the amount of $577,226 ($218,726 plus 358,500) in relation to excerpts from discovery transcripts of questions and answers he read in which ties into the eight questions in Schedule “A”. Paragraphs 5, 7 and 11(a) of the Notice of Appeal, paragraphs 13 d) and e) of the Amended Reply to Notice of Appeal and Tab D of the Appellant’s Motion Record, Audit Report – page 3.
+[2] It also removes snow during the winter.
+[3] Notice of Appeal, paragraph 4. Transcript of Mr. Raja Sivaguru, questions 242 to 252 and 288 to 290, at pages 57 and 64. At discovery, Mr. Sivaguru said that the first time that he saw the Moreover Purchase Agreement, between the appellant and Lans, was during the audit of the appellant. He verified at discovery that the cheques issued directly to Lans, in the amounts of $180,000 or $190,000 in 2007, led him to conclude that these transactions were recorded in the asset account for accounting and tax purposes. He seemed to qualify that by saying to “some extent” but it was unclear what this related to. The respondent indicated that she does not accept that these cheques were for the purchase of bins.
+[4] Tor Can Contracting operates as Tor Can (Contracting) Services.
+[5] Paragraph 19 of the Amended Reply to Notice of Appeal.
+[6] Appellant’s Motion Record, Tab 4(c) – deposit slips redacted.
+[7] The various documentation included the March 26, 2012 CRA Third Party verification letter sent to Lans and Mr. Merali requesting information and documents discussed at the meeting on that date. It also included a T2020 for the period February 29, 2012 to May 11, 2012 evidencing communications between Mr. Sivaguru and Mr. Merali.
+[8] Affidavit of Liborio Gurreri, Appellant’s Motion Record, Tab 3.
+[9] The respondent’s position is that all relevant third party information that the Minister has relied on in reassessing has been provided and the appellant has failed to justify any semblance of relevance as it relates to the issues between the parties. Some questions are overly broad, others are irrelevant protected third-party information (relating to Latif Merali and Lans pertaining to their tax liability and unrelated to the correctness of the appellant’s reassessments) that is prohibited from disclosure under section 241 of the Act and was not relied on by the Minister in reassessing the appellant.
+[10] Montana Band v Canada (T.D.) (1999), 2000 1 FC 267 (FCTD) and Owen Holdings Ltd. v Canada, 97 DTC 5401 (FCA) [Owen Holdings].
+[11] In Lehigh Cement, supra, (FCA), at paragraph 34, the Court notes, at paragraphs 29, 31 and 37, that the 2008 amendment to Rule 95(1), Tax Court of Canada Rules (General Procedure) adding the word “relevant”, did not have a material impact upon the permissible scope of oral discovery. Also, “relevant” and “relating to”(the wording pre-2008) encompass similar meanings and the train of inquiry test survived the amendment. See also Owen Holdings, supra. In Lehigh Cement Ltd. v Canada, 2010 TCC 366, 2010 DTC 1239 (TCC) [Lehigh], the conclusions by Woods J. relating to the disputed question and the disputed documents (the internal Canada Revenue Agency memorandum) were upheld by the Federal Court of Appeal on the bases that the questions were asked by Lehigh counsel at discovery and not based on findings of fact by the trial judge as contended by the Crown on appeal. The Court noted that the trial judge had said that the documents are “potentially relevant because it appears that they directly led” to the respondent’s position and supported the assessments and the CRA memorandum referenced other relevant memorandum. It also said that a question is relevant when it is reasonably likely that the question might elicit information which may directly or indirectly enable the party seeking the answer to advance its case or to damage the case of the adversary.
+[12] Lehigh Cement, supra, (FCA), Baxter, supra, Kossow v Canada, 2008 TCC 422, 2008 DTC 4408 [Kossow] and Sandia Mountain Holdings Inc. v Canada, 2005 TCC 65, 2005 DTC 206.
+[13] Kossow, supra.
+[14] He also referenced Lehigh, supra, (TCC), in which Woods J. summarized the purposes of discovery as set out in Motaharian (Litigation guardian of) v Reid, [1989] OJ. No. 1947 (Ont. HC), as enabling the examining party to know the case he/she has to meet, procure admissions to dispense with formal proof or damage the opponent’s case, facilitate settlement, refine issues and avoid surprise at trial.
+[15] In Slattery (Trustee of) v Slattery, [1993] 3 SCR 430, the Supreme Court of Canada discussed the scope of section 241 and identified the balance of competing interests as between a taxpayer’s privacy interest, especially relating to his or her finances, versus the interest of the state in being allowed to disclose information for the effective administration and enforcement of the Act and other federal statutes referenced in subsections 241(3) and (4).
+[16] Oro Del Norte, S.A. v Canada, [1990] 2 CTC 67 (FCTD). In 9005-6342 Quebec Inc. v Canada, 2010 TCC 463, [2010] TCJ No. 386 (QL) [9005-6341 Quebec Inc.], Hogan J. canvassed the principles relating to section 241 of the Income Tax Act.
+[17] 9005-6342 Quebec Inc. refers to General Motors of Canada Ltd. v Canada, 2006 TCC 184, [2006] TCJ No. 116 (QL), in which an agreement between competitors of the taxpayer, a related departmental memorandum and reviews by the Canada Revenue Agency.
+[18] 9005-6342 Quebec Inc. v Canada, supra, Hogan J. referenced the decisions of Canada (Minister of National Revenue – MNR) v Huron Steel Fabricators (London) Ltd., 73 DTC 5347 (FCA); Bassermann v Canada (Minister of National Revenue – MNR), [1994] FCJ No. 498 (QL) (FCA) and Page v Canada, 96 DTC 1872. Memos, records of communications between the Minister and the directors of a company who were not the subject of an assessment involving other directors of the same company occurred. Also at paragraph 26, as highlighted in the appellant’s Book of Authorities, the Huron decision in which tax returns of a third-party relied on by the Minister in assessing Huron were ordered to be disclosed.
+[19] By way of example, he said that if the CRA did a net worth and if significant income is unreported by Mr. Merali, it would reasonably lead to the supposition he did not give back the funds because he would need to explain where the unreported income came from.
+[20] In Amp Canada, Ltd. v Canada, 87 DTC 5157, the documents were used by the Minister for comparative analysis and subsequently used in the calculation of customs duty. At discovery, the Crown’s nominee stated that he had used Panduit’s and other third-party information as the comparisons. The Court ordered disclosure of all the documents because Amp could not have known which parts the Crown had relied on. Also, it is to be noted that the third party competitor, not the Crown, brought the motion objecting to the production of its financial statements filed with its tax returns sought by Amp.
+[21] Transcript of examination for discovery of Mr. Sivaguru, page 73, lines 334 and 335.
+[22] Transcript, pages 72 and 73 at lines 329 and 336.
+[23] The social insurance number of Ms. Mailow, the operator of the massage parlour, was not relevant thus not disclosable. Her income was relevant and disclosable to determine that Ms. Heinig had received payments from Ms. Mailow. The Court relied on the decision of Huron, supra.
+[24] Reference was made to Notice of Appeal, paragraph 4, and the transcript at page 57, page 24, Tab 7 and page 64, questions 288 to 290.

@@ -1,0 +1,245 @@
+Title: CAE Inc. v. The King
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/521389/index.do
+Corpus path: corpus/cases/tcc/2025/2025-tcc-9-521389-cae-inc-v-the-king-en.md
+Document type: case_law
+Last modified: 2025-03-04
+
+# CAE Inc. v. The King
+
+- Citation: 2025 TCC 9
+- Decision date: 2025-03-04
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6016, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+CAE Inc. v. The King
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2025-01-16
+Neutral citation
+2025 TCC 9
+File numbers
+2023-1364(IT)G, 2023-1851(IT)G
+Judges and Taxing Officers
+Guy R. Smith
+Subjects
+Income Tax Act
+Decision Content
+Dockets: 2023-1364(IT)G 2023-1851(IT)G
+BETWEEN:
+CAE INC.,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Motion for a confidentiality order pursuant to sections 4, 16.1 and 65 of the Tax Court of Canada Rules (General Procedure), heard on November 20, 2024, at Montréal, Quebec.
+Before: The Honourable Justice Guy R. Smith
+Appearances:
+Counsel for the Appellant:
+Dominic C. Belley
+Jonathan Lafrance
+Counsel for the Respondent:
+Sara Jahanbakhsh
+Julien Dubé-Senécal
+ORDER
+WHEREAS the Appellant filed a motion for, inter alia, an interim confidentiality order pending a permanent order in respect of certain documents it considers to be confidential;
+WHEREAS the Appellant asked that the timetable order dated July 8, 2024, be amended;
+AND UPON reviewing the motion record dated September 26, 2024;
+AND UPON reviewing the Appellant’s submissions filed on November 18, 2024, and the Respondent’s submissions filed on November 20, 2024;
+AND IN ACCORDANCE with the attached Reasons for Order;
+THE COURT ORDERS as follows:
+The documents identified in Schedule A to this order will be treated as confidential and, if they are filed in the court record, will be sealed;
+The Appellant will be able to ask the Court to have other confidential documents sealed and added to Schedule A;
+Only the Appellant, the Appellant’s designated representatives, the Respondent, the Respondent’s designated representatives and the judges and registry officers of the Tax Court of Canada will have access to the documents in Schedule A;
+The parties will have to address the Court before filing a motion containing a transcript of the examination for discovery or documents found in Schedule A or on the Appellant’s list of documents;
+Consultants and witnesses, including expert witnesses, who are required to review or consult the documents in Schedule A will need to be informed of the documents’ confidential nature before the documents are disclosed;
+This sealing order (and any potential amendments) will not be binding on the trial judge;
+The order will be in force until the day before the hearing on the merits of the appeals;
+The motion for an interim confidentiality order pending a permanent confidentiality order is adjourned sine die until this motion is before the trial judge;
+Timetable order
+Each party must file and serve on the other party a list of documents (partial disclosure—Form 81) before January 31, 2025;
+The parties must submit a joint letter proposing amendments to the timetable order dated July 8, 2024, before January 31, 2025.
+No costs are awarded.
+Signed at Ottawa, Ontario, this 16th day of January 2025.
+“Guy R. Smith”
+Smith J.
+Translation certified true
+on this 20th day of February 2025.
+Margarita Gorbounova, Senior Jurilinguist
+SCHEDULE A
+Exhibit AS-1: Contractual and financial documents related to capital property investment project 2TCV;
+Exhibit AS-2: Contractual and financial documents related to capital property investment project 106563;
+Exhibit AS-3: Contractual and financial documents related to capital property investment project 110499;
+Exhibit AS-4: Contractual and financial documents related to capital property investment project 114039;
+Exhibit AS-5: Contractual and financial documents related to capital property investment project 115833;
+Exhibit AS-6: Contractual and financial documents related to capital property investment project 112778;
+Exhibit AS-7: Contractual and financial documents related to capital property investment project 112679;
+Exhibit AS-8: Contractual and financial documents related to capital property investment project 121272; and
+Exhibit AS-9: Sample financial statements for subsidiaries and joint ventures, namely, financial statements for the joint venture Asian Aviation Centre of Excellence SDN. BHD. and the subsidiary CAE Kuala Lumpur SND. BHD., which are party to some simulator transfer transactions.
+Citation: 2025 TCC 9
+Date: 20250116
+Dockets: 2023-1364(IT)G 2023-1851(IT)G
+BETWEEN:
+CAE INC.,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR ORDER
+Smith J.
+I. Overview
+[1] This matter involves a motion filed by the Appellant to obtain an interim confidentiality order pending a permanent confidentiality order in respect of certain documents that will be disclosed to the Respondent during the discovery process and ultimately filed in the court record when the appeals are heard.
+[2] The Appellant also seeks a sealing order in respect of certain confidential documents that may be filed in the court record as part of a motion before the hearing on the merits, so that these documents are not available to the public.
+[3] The Appellant requests that the timetable established by an order of the Court dated July 8, 2024, be amended.
+[4] In brief, the Respondent opposes the confidentiality motion and asks that it be dismissed on the grounds that it is premature because the documents have not yet been filed in the court record and because the open court principle is not engaged at this stage of the proceedings.
+[5] The Respondent alleges, among other things, that the implied undertaking rule provides adequate and sufficient protection for exchanging confidential documents or information at this stage of the proceedings.
+[6] The issue is whether an interim confidentiality order or a more limited order should be made.
+II. Motion
+A. Appellant’s activities and assessments
+[7] The Appellant is a public corporation whose shares trade on the Toronto Stock Exchange (TSX). It operates in the aviation sector and builds flight simulators to train pilots for civil, commercial and military aviation. When a simulator is transferred to a foreign subsidiary or foreign joint venture, this gives rise to profits or gains.
+[8] In 2022, the Minister of National Revenue (the “Minister”) issued three reassessments for the 2014, 2015 to 2018 and 2021 taxation years. The substantive issue is whether the flight simulators are capital property whose transfer results in a capital gain or business income.
+B. Motion and order sought
+[9] As mentioned, the Appellant seeks an interim confidentiality order pending a permanent confidentiality order in respect of certain documents it considers confidential as well as in respect of any other documents of the same nature that may be produced in the future.
+[10] More specifically, the motion covers nine [translation] “sealed” documents identified as exhibits AS-1 to AS-9 (the “confidential documents”). The documents themselves were not attached to the motion or to the affidavit filed in support of the motion, but were available to the Court at the time of the hearing.
+[11] The Appellant seeks an order that has several components, namely:
+(i)That interim and permanent confidentiality orders be made in respect of confidential documents and any document of the same nature that may need to be filed in the court record in the future;
+(ii)That these documents [translation] “be considered and treated as confidential within the meaning of section 16.1 of the Tax Court of Canada Rules (General Procedure)”;
+(iii)That access to the documents be restricted to a limited number of Department of Justice and Canada Revenue Agency employees;
+(iv)Should a party intend to produce documents as part of a motion (including transcripts of an examination for discovery or a cross‑examination on an affidavit) or of any other proceeding, that the documents be sealed or redacted so that they are not available to the public;
+(v)That these documents be sealed when they are filed in the court record during the hearing on the merits; and
+(vi)That the Appellant be allowed to address the Court directly when other documents of the same nature need to be covered by the permanent confidentiality order to be rendered.
+[12] In support of its motion, the Appellant filed in evidence the affidavit of Alexandre Stabilé (“Mr. Stabilé”), Head of Financial Reporting for the Appellant.
+[13] He states that the confidentiality order is required at this stage of the proceedings because the Appellant operates in a [translation] “highly competitive field” where [translation] “concerns over integrity and security … are central to its business and governance model”. He adds that the sealed documents attached to the motion are highly confidential, that they have always been treated as confidential and that a confidentiality order is needed at this stage [translation] “before” they are disclosed to the Canada Revenue Agency.
+C. Appellant’s allegations
+[14] The Appellant states that it will have to include the confidential documents in its list of documents and that they will probably be raised at the examination for discovery and eventually filed in the court record, whether as part of a motion or at the hearing on the merits.
+[15] It adds that these documents contain confidential information about third parties or its subsidiaries and that they have always been treated as confidential in nature. The Appellant states that there is a serious risk to an important public interest, namely, [translation] “preserving financial and strategic information … that is at the heart of its business model”. The Appellant argues that it should have the right to fully and transparently set out the confidential documents [translation] “without its right to a fair trial being violated”.
+D. Applicable law according to the Appellant
+[16] Without reiterating all of the Appellant’s arguments, I note that it relies on the analytical framework established by the Supreme Court of Canada in its seminal judgment in Sierra Club of Canada v. Canada (Minister of Finance), 2002 SCC 41 (“Sierra Club”) and the more recent judgment in Sherman Estate v. Donovan, 2021 SCC 25 (“Sherman Estate”). These judgments underscore the importance of transparency and the strong presumption in favour of court openness.
+[17] The Appellant argues that the Court should render the confidentiality order because it has met the three essential conditions set out in paragraph 38 of Sherman Estate, namely:
+(i)court openness poses a serious risk to an important public interest;
+(ii)the order sought is necessary to prevent this serious risk to the identified interest because reasonably alternative measures will not prevent this risk; and
+(iii)as a matter of proportionality, the benefits of the order outweigh its negative effects.
+[18] It adds that the evidence is such that the documents it seeks to protect from disclosure fall under “commercial interests” recognized by case law, as indicated in Shell Canada Limited v. The Queen, 2022 TCC 39 (at para. 32) (“Shell Canada”), where Justice Sommerfeldt identified five “important public interests” including “the general commercial interest of preserving confidential information”, “the public interest of promoting commercial certainty and protecting proprietary information” and “the public interest of protecting fair competition”.
+[19] Finally, the Appellant submits that the order sought is necessary to prevent a serious risk; that other measures, including a publication ban or redaction, are not reasonably alternative measures; and that, as a matter of proportionality, the benefits of the order outweigh its negative effects.
+[20] It concludes that the Court should, at the very least, render an interim confidentiality order concerning the confidential documents or any other order that the Court considers relevant in the circumstances.
+III. Respondent’s allegations
+A. Importance of filing the list of documents
+[21] The Respondent opposes the motion and argues that, at the very least, the Appellant had to file its list of documents before making a motion for a confidentiality order.
+B. Summary of the Respondent’s arguments
+[22] With respect to this motion, the Respondent raises several arguments, namely that (i) the motion is premature; (ii) section 16.1 of the Tax Court of Canada Rules (General Procedure) (the “Rules”) does not apply at this stage of the proceedings because the documents have not been filed in the court record; (iii) the open court principle is not engaged at the documentary or discovery stage; (iv) at this stage in the proceedings and before the start of the hearing on the merits, the Appellant benefits from the implied undertaking rule; (v) disputes before the Tax Court of Canada are between taxpayers and the Canada Revenue Agency, which has a non-disclosure obligation under subsection 241(1) of the Income Tax Act; (vi) the power to impose limits on the open court principle must be used with circumspection and moderation; (vii) this type of order is unprecedented before the Tax Court of Canada; and (viii) even if a protective order is sought, the evidence is not satisfactory.
+C. Implied undertaking rule
+[23] The Respondent argues that the open court principle, as reviewed in Sierra Club and Sherman Estate, is not engaged at the examination for discovery stage because it does not take place at a public hearing.
+[24] He adds that “[t]he only point at which the ‘open court’ principle is engaged is when, if at all, the case goes to trial and the discovered party’s documents or answers from the discovery transcripts are introduced as part of the case at trial”: Juman v. Doucette, 2008 SCC 8 (at para. 21) (“Juman”).
+[25] Accordingly, the Respondent maintains that the analytical framework applicable to confidentiality orders does not apply at this stage of the proceedings and that the motion is therefore premature.
+D. A protective order?
+[26] The Respondent claims that the order sought is more akin to protective orders rendered by the Federal Court in intellectual property disputes between direct competitors involving patents: Canadian National Railway Company v. BNSF Railway Company, 2020 FCA 45 (at para. 5) (“Canadian National Railway”). In that case, the Federal Court of Appeal recognized the three conditions relevant to protective orders, namely:
+(i)that the information in question has been treated at all relevant times as confidential;
+(ii)that the information is of a confidential nature; and
+(iii)that a party’s proprietary, commercial and scientific interests could reasonably be harmed by the disclosure of the information.
+[27] The Respondent submits that this type of order is unprecedented before this Court because disputes are between taxpayers and the Canada Revenue Agency.
+[28] He adds that the three conditions are not met and that there is no basis to conclude that disclosing the documents to the Respondent could harm [translation] “the Appellant’s proprietary, commercial and scientific interests”.
+IV. Analysis
+A. Evidence before the Court
+[29] The Respondent did not provide any rebuttal evidence to challenge the affidavit sworn by Mr. Stabilé. He also did not seek to cross-examine him. The Court therefore has no reason to doubt the veracity of his statements.
+B. Relevant statutory provisions
+[30] First, it is appropriate to review the applicable provisions for interim and permanent confidentiality orders.
+[31] Section 16.1 of the Rules provides that the Court may make a confidentiality order in respect of a document “at the time of filing of the document”:
+16.1(1) On motion, the Court may order that a document or part of a document shall be treated as confidential at the time of filing of the document or part of the document and determines the conditions in relation to its reproduction, destruction and non-disclosure.
+[Emphasis added.]
+[32] This rule may apply when documents are filed in the court record, but it does not specifically provide that it can make an interim order. However, section 4 of the Rules provides as follows:
+4(1) These rules shall be liberally construed to secure the just, most expeditious and least expensive determination of every proceeding on its merits.
+4(2) Where matters are not provided for in these rules, the practice shall be determined by the Court, either on a motion for directions or after the event if no such motion has been made.
+[Emphasis added.]
+[33] In my view, subsections 4(1) and 4(2) of the Rules allow the Court to make an interim order at the start of a hearing to facilitate its progress, before the documents are even filed.
+[34] I will also add that the Court has “an implied jurisdiction by necessary implication to carry out the functions of a court” even though it does not have any inherent jurisdiction. It does, however, have “the powers … necessary for the accomplishment of the object intended to be secured by [its] statutory regime”: Canada v. Dow Chemical Canada ULC, 2022 FCA 70 (at paras. 79–80) (affirmed by the Supreme Court of Canada: 2024 SCC 23) (“Dow Chemical”). See also R. v. Cunningham, 2010 SCC 10 (at paras. 18–19).
+[35] As the Appellant points out, there are several instances where the Court has granted an interim order prior to issuing a permanent order, before the documents were even filed in the court record: CAE Inc. v. The Queen, 2011 TCC 354, CAE Inc. v. The Queen, 2021 TCC 57 and, more recently, Future Electronics Inc. v. The King, 2024 TCC 77.
+[36] However, it should be noted that, in each of these instances, the interim confidentiality order was made at the commencement of the hearing on the merits, and not at the discovery stage.
+[37] The Shell Canada decision, supra, is the exception. In that instance, the appellant filed a motion seeking a confidentiality order in respect of some documents included in its list of documents. Applying the principles established in Sierra Club and Sherman Estate, Justice Sommerfeldt granted an interim order, ordering that the documents be treated as confidential, that they be sealed and that they not be filed in the court record unless they are identified as confidential. Finally, the order provides that it is not binding on the trial judge, who is free to use his or her discretion to decide otherwise.
+C. Implied undertaking rule
+[38] Since the open court principle is not engaged at the time of discovery, the issue is whether the implied undertaking rule is sufficient, as claimed by the Respondent.
+[39] It is well settled that this rule applies to disputes before the Tax Court of Canada: Canada v. Fio Corporation, 2015 FCA 236 (at para. 12).
+[40] The implied undertaking rule provides that the documents obtained and information provided at the discovery stage will not be used for a purpose collateral or ulterior to the proceeding in which they were produced, unless the scope of the undertaking is varied by a court order: Juman at para. 4.
+[41] At paragraph 25, the Court states the following:
+… The general idea, metaphorically speaking, is that whatever is disclosed in the discovery room stays in the discovery room unless eventually revealed in the courtroom or disclosed by judicial order.
+[42] The root of the implied undertaking rule “is the statutory compulsion to participate fully in pre-trial oral and documentary discovery.” The objective of the rule is to encourage a party “to provide a more complete and candid discovery” with the assurance that it “will not be used for a purpose collateral or ulterior to the proceedings”: Juman at paras. 20, 26.
+[43] The rule is very broad and even covers innocuous information that is not confidential: Juman at para. 5.
+[44] It “applies to confidential documents and public documents, relevant documents and irrelevant documents, documents which would be admissible at trial, and documents that would never be admissible at trial”: Fibrogen, Inc. v. Akebia Therapeutics, Inc., 2022 FCA 135 (at para. 53).
+[45] The implied undertaking rule, also called the “implied rule of confidentiality” or the “rule of an implied undertaking of confidentiality”, also applies in Quebec law: Lac d’Amiante du Québec Ltée v. 2858-0702 Québec Inc., 2001 SCC 51 (“Lac d’Amiante”).
+[46] In Lac d’Amiante, the issue was “whether there is an implied rule of confidentiality concerning evidence or information obtained at examinations on discovery under the Quebec Code of Civil Procedure” (at para. 1). The Supreme Court of Canada found as follows:
+79. An implied rule of confidentiality at an examination on discovery may therefore be found in Quebec procedural law, based on the changes that have taken place in the institutions of the civil procedure and on privacy principles. The rule of confidentiality, the effects of which are analogous to the principles developed by the common law, may be recognized in Quebec in accordance with the techniques of civil law analysis, based on the fundamental principles around which the civil law and judicial procedure are organized. …
+[Emphasis added.]
+[47] However, the implied undertaking rule has its limits because it stems from the common law (Juman at para. 28) and is not set out in the rules of the Court. There might therefore be some uncertainty as to its scope.
+[48] Specifically, the rule does not address all the consequences that could arise, particularly in respect of witnesses or experts who are not parties to the dispute. See Janssen Pharmaceutica N.V. v. Apotex Inc., 2022 FC 1262 (at paras. 4–5) (“Janssen”).
+[49] In addition, the rule does not prevent a third party, for example, a competitor, from requesting a copy of a document or a transcript that has been filed in the court record as part of a motion.
+[50] In Long v. The Queen, 2010 TCC 197, Justice Campbell states that the implied undertaking rule prohibits the use of information and documents for collateral purposes. She acknowledges, however, that the rule is not an absolute protection or guarantee (at paras. 27–28).
+[51] In Juman (at para. 23), the Court acknowledges that there could be “cases of exceptional prejudice”, for example, “in disputes about trade secrets or intellectual property”, where the Court may grant an express confidentiality order.
+[52] Notwithstanding the shortcomings identified above, I am of the view that the Court must first presume that the implied undertaking rule is sufficient and adequate to protect the information exchanged during the discovery process (Janssen at para. 13), and the party who claims otherwise and seeks an express confidentiality order has the burden of proof.
+D. A sealing order
+[53] The Respondent claims that the implied undertaking rule adequately responds to the Appellant’s concerns. I am not persuaded of that.
+[54] Given the uncontradicted evidence, I am of the view that the Court must consider alternative measures and that a sealing order is not only appropriate but also fair and equitable.
+[55] In my view, the Court has the jurisdiction required to make a sealing order under section 4 of the Rules and under its implied jurisdiction, as recognized in Dow Chemical, supra.
+[56] In Shell Canada, supra, without mentioning the implied undertaking rule, the Court addresses the issue of the “preservation of confidentiality during [the] discovery process” and grants a sealing order for a specific list of documents, being satisfied that they contain “sensitive and confidential information” (at para. 25). Even though the analytical framework is that of Sierra Club and Sherman Estate, supra, I am of the view that this is essentially a sealing order granted at the discovery stage.
+[57] In another matter, Justice Hogan ordered that “all transcripts and motion material, except for the Notice of Appeal, Reply to the Notice of Appeal and Answer” be subject to a sealing order: Silver Wheaton Corp. v. The Queen, 2019 TCC 170 (at para. 12). It must therefore be noted that sealing orders are not uncommon before this Court.
+[58] I agree with the Respondent that a confidentiality order must cover specific documents and cannot generally include documents that could be filed at a later date, unless the Court issues another order.
+[59] From a procedural point of view, I also agree with the Respondent that it would have been preferable for the Appellant to file its list of documents so that all the documents it was planning to file in evidence could be identified.
+[60] In addition, I am of the view that access to the confidential documents should not be restricted to certain employees of the Respondent or of the Canada Revenue Agency. The order is needed because there is a risk of serious harm, given the highly competitive nature of the Appellant’s activities, should the documents be filed in the court record and then disclosed to third parties.
+[61] Ultimately, I find that the Appellant has discharged its burden of proof and satisfied the Court, on a balance of probabilities, that the implied undertaking rule is not sufficient or adequate in this case.
+V. Conclusion
+[62] I am of the view that the disclosure of the confidential documents could cause serious harm to the Appellant. In other words, I am of the view that:
+(i)The confidential documents contain information that has always been treated as confidential;
+(ii)There is a serious risk to an important public interest to be protected;
+(iii)There are no adequate alternative solutions such as redacting the documents; and
+(iv)The implied undertaking rule is not sufficient or adequate to protect the documents from third parties who could access the documents or a transcript if they were filed in the court record.
+[63] Given these findings, the Court orders as follows:
+1. The confidential documents identified in Schedule A, namely, exhibits AS-1 to AS-9, will be treated as confidential and, if they are filed in the court record, will be sealed with a copy of this order;
+2. The Appellant will be able to ask the Court to have other confidential documents sealed and added to Schedule A;
+3. Only the Appellant, the Appellant’s designated representatives, the Respondent, the Respondent’s designated representatives, and the judges and registry officers of the Tax Court of Canada will have access to the documents in Schedule A;
+4. The parties will have to address the Court before filing a motion containing a transcript of the examination for discovery or documents found in Schedule A or on the Appellant’s list of documents;
+5. This sealing order is not binding on the trial judge and will end at the start of the hearing on the merits; and
+6. The request for an interim confidentiality order pending a permanent confidentiality order under section 16.1 of the Rules is adjourned sine die, until this motion is made returnable before the trial judge.
+[64] Given the parties’ divided success, no costs are awarded.
+Signed at Ottawa, Ontario, this 16th day of January 2025.
+“Guy R. Smith”
+Smith J.
+Translation certified true
+on this 20th day of February 2025.
+Margarita Gorbounova, Senior Jurilinguist
+CITATION:
+2025 TCC 9
+COURT FILE NOS.:
+2023-1364(IT)G and 2023-1851(IT)G
+STYLE OF CAUSE:
+CAE INC. v. HIS MAJESTY THE KING
+PLACE OF HEARING:
+Montréal, Quebec
+DATE OF HEARING:
+November 20, 2024
+REASONS FOR ORDER BY:
+The Honourable Justice Guy R. Smith
+DATE OF ORDER:
+January 16, 2025
+APPEARANCES:
+Counsel for the Appellant:
+Dominic C. Belley
+Jonathan Lafrance
+Counsel for the Respondent:
+Sara Jahanbakhsh
+Julien Dubé-Senécal
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Dominic C. Belley
+Jonathan Lafrance
+Firm:
+Norton Rose Fulbright Canada L.L.P.
+For the Respondent:
+Shalene Curtis-Micallef
+Deputy Attorney General of Canada
+Ottawa, Canada

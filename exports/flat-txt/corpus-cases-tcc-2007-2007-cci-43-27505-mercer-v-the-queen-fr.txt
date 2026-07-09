@@ -1,0 +1,122 @@
+Title: Mercer v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27505/index.do
+Corpus path: corpus/cases/tcc/2007/2007-cci-43-27505-mercer-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2007-01-19
+
+# Mercer v. The Queen
+
+- Citation: 2007 CCI 43
+- Decision date: 2007-01-19
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 8, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Mercer v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-01-19
+Référence neutre
+2007 CCI 43
+Numéro de dossier
+2003-4477(IT)I
+Juges et Officiers taxateurs
+Campbell J. Miller
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2003-4477(IT)I
+ENTRE :
+FRANK W. MERCER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle]
+____________________________________________________________________
+Appel tranché sur le fondement des observations écrites des parties par
+l’honorable juge Campbell J. Miller
+Participants :
+Pour l’appelant : L’appelant lui-même
+Avocate de l’intimée : Me Justine Malone
+____________________________________________________________________
+JUGEMENT
+L’appel à l’égard de la cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2000 est rejeté.
+Signé à Ottawa (Canada) ce 19e jour de janvier 2007.
+« Campbell J. Miller »
+Juge Miller
+Traduction certifiée conforme
+ce 1er jour de février 2008.
+Jean-François Leclerc-Sirois, LL.L, LL.B.
+Référence : 2007CCI43
+Date : 20070119
+Dossier : 2003-4477(IT)I
+ENTRE :
+FRANK W. MERCER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle]
+MOTIFS DU JUGEMENT
+Le juge Miller
+[1] Il s'agit d'un appel portant sur l’année d’imposition 2000, interjeté sous le régime de la procédure informelle par M. Frank Mercer. Il cherche à déduire les paiements de pension alimentaire qu’il a versés en 2000 à Estephanie Mercer, épouse dont il est séparé. La seule question en litige est la suivante : les paiements versés à Mme Mercer au cours de l’année 2000 sont-ils déductibles en tant que paiements de pension alimentaire? Ils ne sont déductibles en vertu de l’article 60 de la Loi de l’impôt sur le revenu (la « Loi ») que s’ils ne constituent pas une « pension alimentaire pour enfants » aux termes du paragraphe 56.1(4) de la Loi.
+[2] L’alinéa 60b) est ainsi rédigé :
+60 Peuvent être déduites dans le calcul du revenu d’un contribuable pour une année d’imposition les sommes suivantes qui sont appropriées :
+[…]
+b) le total des montants représentant chacun le résultat du calcul suivant :
+A - (B + C)
+où :
+A représente le total des montants représentant chacun une pension alimentaire que le contribuable a payée après 1996 et avant la fin de l’année à une personne donnée dont il vivait séparé au moment du paiement,
+B le total des montants représentant chacun une pension alimentaire pour enfants qui est devenue payable par le contribuable à la personne donnée aux termes d’un accord ou d’une ordonnance à la date d’exécution ou postérieurement et avant la fin de l’année relativement à une période ayant commencé à cette date ou postérieurement,
+C le total des montants représentant chacun une pension alimentaire que le contribuable a payée à la personne donnée après 1996 et qui est déductible dans le calcul de son revenu pour une année d’imposition antérieure;
+Le paragraphe 56.1(4) est rédigé en ces termes :
+56.1(4) Les définitions qui suivent s’appliquent au présent article et à l’article 56.
+« pension alimentaire pour enfants » Pension alimentaire qui, d’après l’accord ou l’ordonnance aux termes duquel elle est à recevoir, n’est pas destinée uniquement à subvenir aux besoins d’un bénéficiaire qui est soit l’époux ou le conjoint de fait ou l’ex-époux ou l’ancien conjoint de fait du payeur, soit le père ou la mère d’un enfant dont le payeur est le père naturel ou la mère naturelle.
+« pension alimentaire » Montant payable ou à recevoir à titre d’allocation périodique pour subvenir aux besoins du bénéficiaire, d’enfants de celui-ci ou à la fois du bénéficiaire et de ces enfants, si le bénéficiaire peut utiliser le montant à sa discrétion et, selon le cas :
+a) le bénéficiaire est l’époux ou le conjoint de fait ou l’ex-époux ou l’ancien conjoint de fait du payeur et vit séparé de celui-ci pour cause d’échec de leur mariage ou union de fait et le montant est à recevoir aux termes de l’ordonnance d’un tribunal compétent ou d’un accord écrit;
+b) le payeur est le père naturel ou la mère naturelle d’un enfant du bénéficiaire et le montant est à recevoir aux termes de l’ordonnance d’un tribunal compétent rendue en conformité avec les lois d’une province.
+[3] La loi est claire : à moins que l’accord de séparation ne précise que la pension est uniquement destinée à l’époux, elle sera considérée comme constituant une pension alimentaire pour enfants et ne sera donc pas déductible. Ce sont là les règles, et quoique M. Mercer puisse les trouver injustes, la Cour ne peut pas faire abstraction de la loi. La question est simple : l’accord de séparation en vertu duquel M. Mercer a versé les paiements les destine-t-il uniquement au soutien de Mme Mercer?
+[4] M. et Mme Mercer ont conclu un accord de séparation le 22 mai 1998. Voici le libellé de son quatrième article :
+[traduction]
+4.01 L'époux et l’épouse ont convenu de répartir le revenu des chèques de pension de l’époux dans les proportions suivantes : les deux tiers iront à l’épouse et le tiers ira à l’époux. Plus précisément, l’épouse recevra la totalité de la pension des Forces canadiennes […] de l’époux et la totalité de la pension du ministère des Finances […] de l’époux, le tout s’élevant à environ 1 500 $.
+4.02 Les dispositions des présentes portant sur l’entretien sont fondées sur la capacité actuelle de l’époux de subvenir aux besoins de l’épouse et de l’enfant, mais comme les dépenses de l’épouse, sans que l’on tienne compte des nécessités de la vie, sont approximativement égales au montant qu’elle recevra en vertu des présentes, l’époux devra porter à la connaissance de l’épouse toute amélioration de sa situation financière qui lui permettrait de payer davantage que ce qui est prévu par les présentes. De plus, si l’épouse venait à croire que l’époux pourrait augmenter le soutien qu’il lui fournit conformément aux présentes, elle pourra demander à l’époux d’augmenter le soutien qu’il lui verse, et en l’absence d’entente, elle pourra demander au tribunal de rendre une ordonnance.
+[5] La clause 4.02 stipule clairement que la pension est destinée à l’épouse et à l’enfant issu du mariage. Elle n’est pas uniquement destinée à l’épouse. De plus, M. et Mme Mercer ont tous les deux confirmé à la Cour, dans leurs observations écrites, que la pension était aussi destinée à l’enfant. La pension ne peut donc pas être déduite en vertu de l’article 60, et l’appel doit être rejeté.
+[6] La présente affaire a un passé long et malheureux. M. Mercer est âgé de 80 ans et habite l’Indonésie, ayant dû quitter le Canada il y a plusieurs années pour des raisons de santé. Il a communiqué avec l’Agence du revenu du Canada (l’« ARC »), le ministère de la Justice et la Cour canadienne de l’impôt de façon continue. Il est un homme en colère. Les moyens dont il dispose pour vivre sont limités et il attribue cette situation au fait que le gouvernement du Canada aurait illégalement confisqué son argent en pratiquant des saisies-arrêts régulières de sa pension et en bloquant ses comptes bancaires. Il soutient que ces gestes ont été posés pendant que son appel était en instance. Cependant, je ne sais pas si les montants dont l’a privé le gouvernement se rapportent à la présente affaire. M. Mercer a servi son pays en tant que membre de la Marine canadienne. Il a servi les intérêts de sa communauté en exerçant le métier d’enseignant. Il est visiblement secoué par ce qu’il perçoit comme une indifférence absolue face aux contributions qu’il a faites au Canada. Il a exposé cette perception de façon constante et catégorique dans ses communications avec la Cour.
+[7] Compte tenu de la teneur de ses communications et de l’ampleur de ses sentiments, je ferais erreur en pensant pouvoir atténuer le ressentiment qu’il éprouve maintenant à l’endroit de son pays. Je tiens seulement à ce que M. Mercer comprenne bien que sur la question précise de la déduction de la pension pour l’année d’imposition 2000, la loi est claire et ce montant n’est pas déductible. Cette conclusion n’a pas pour effet de remettre en cause ou de diminuer les contributions remarquables que M. Mercer a apportées au Canada; des contributions qui ont servi à défendre le droit qu’a une démocratie d’adopter des lois visant à protéger les intérêts de ses citoyens. Il serait paradoxal que je passe outre à ces mêmes lois pour faire preuve de compassion. Je crois que M. Mercer saura comprendre que je ne peux pas faire cela.
+[8] L’appel est rejeté.
+Signé à Ottawa (Canada) ce 19e jour de janvier 2007.
+« Campbell J. Miller »
+Juge Miller
+Traduction certifiée conforme
+ce 1er jour de février 2008.
+Jean-François Leclerc-Sirois, LL.L, LL.B.
+RÉFÉRENCE :
+2007CCI43
+Nº DU DOSSIER DE LA COUR :
+2003-4477(IT)I
+INTITULÉ :
+Frank W. Mercer et
+Sa Majesté la Reine
+MOTIFS DU JUGEMENT :
+L’honorable juge Campbell J. Miller
+DATE DU JUGEMENT :
+Le 19 janvier 2007
+PARTICIPANTS :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimée :
+Me Justine Malone
+AVOCAT(E) INSCRIT(E) AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa (Canada)

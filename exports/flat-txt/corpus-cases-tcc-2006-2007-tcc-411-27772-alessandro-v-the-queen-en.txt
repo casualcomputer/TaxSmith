@@ -1,0 +1,262 @@
+Title: Alessandro v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27772/index.do
+Corpus path: corpus/cases/tcc/2006/2007-tcc-411-27772-alessandro-v-the-queen-en.md
+Document type: case_law
+Last modified: 2006-11-27
+
+# Alessandro v. The Queen
+
+- Citation: 2007 TCC 411
+- Decision date: 2006-11-27
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 260, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Alessandro v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-11-27
+Neutral citation
+2007 TCC 411
+File numbers
+2003-2250(IT)G
+Judges and Taxing Officers
+Gerald J. Rip
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2003-2250(IT)G
+2004-4366(IT)G
+BETWEEN:
+GREGORINA ALESSANDRO,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on November 27, 28 and 29, 2006, at Toronto, Ontario.
+Before: The Honourable Gerald J. Rip, Associate Chief Justice
+Appearances:
+Counsel for the Appellant:
+Howard J. Alpert
+Counsel for the Respondent:
+Steven D. Leckie
+____________________________________________________________________
+JUDGMENT
+The appeals from the assessments made under the Income Tax Act for the 1994 and 1997 taxation years are allowed, without costs, and the assessments are referred back to the Minister of National Revenue for reconsideration and reassessments on the basis that:
+a) for the 1994 taxation year the shareholder benefit be reduced by $38,382 so that the appellant's shareholder benefit is $214,692; and
+b) for the 1997 taxation year the appellant incurred an allowable business investment loss of $186,484.50, all or a portion of which may be carried back to 1994.
+Signed at Ottawa, Canada, this 13th day of July 2007.
+"Gerald J. Rip"
+Rip A.C.J.
+Citation: 2007TCC411
+Date: 20070713
+Dockets: 2003-2250(IT)G and 2004-4366(IT)G
+BETWEEN:
+GREGORINA ALESSANDRO,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Rip, A.C.J.
+[1] Gregorina Alessandro appeals from income tax assessments for 1994 and 1997. The principal issue arising out of the assessment for 1994 is whether the appellant received a shareholder benefit in the year of $253,074. The issue for 1997 is whether the appellant incurred a business investment loss of $497,292 in the year and is therefore entitled to deduct an allowable business investment loss of $372,969.
+[2] The appeals were heard on common evidence.
+Facts Common to Both Appeals
+[3] Mrs. Alessandro was a shareholder of Arrow Management Inc. ("Arrow") in 1994 when Arrow sold to her for $850,000 a property bearing civic number 15625 Steeles Avenue in Halton Hills, Ontario ("Property"). The consideration for the Property was satisfied by Arrow reducing Mrs. Alessandro's shareholder account balance by $850,000 and eliminating any outstanding balance owing to her.
+[4] However, Revenue Canada, at the time, had a different view of the fair market value of the Property at time of sale and of the appellant's account balance.
+[5] The tax authority says that the fair market value of the Property at time of sale was $900,000 and the appellant's account balance, according to Arrow's financial statements for the fiscal period ending August 31, 1994, was $521,926. The benefit of $253,074, according to the Minister of National Revenue ("Minister"), is the difference between the fair market value of $900,000 less the amount in the appellant's shareholder account of $521,926 and a dividend of $125,000 that was declared and not paid by Arrow but was included in the appellant's income for 1994.[1]
+[6] The appellant says that the fair market value of the Property on August 31, 1994 was $850,000 and that her account balance at the time was "at least" $646,926. The $646,926 comprised the appellant's account balance of $521,926, as of August 31, 1994 in the financial statements of Arrow, plus the dividend of $125,000.
+[7] The appellant claims that in 1994, she made mortgage payments in respect of the Property totalling $76,764 on behalf of Arrow and that this amount should be added to the shareholder account balance of "at least" $646,926, so that the total amount of money owed to her by the corporation at time of disposition was at least $723,690. Such an increase would add $176,310 to her income, assuming the fair market value of the Property at time of disposition was $900,000.
+[8] In her amended notice of appeal for 1994, the appellant also submitted that a business investment loss she claimed for 1997 be carried back to 1994. (The business investment loss claimed for 1997 is the subject of the appeal from the 1997 assessment.)
+[9] In reassessing Mrs. Alessandro for 1997, the Minister denied her an allowable business investment loss of $372,969 on the basis that she was not a shareholder of Oakmount Park Holdings Ltd. ("OPHL") when funds were advanced to that corporation.
+[10] Mrs. Alessandro's position at trial was that she was a shareholder of OPHL, or of the corporation that controlled OPHL, when the funds were advanced and that she personally advanced $497,292 to OPHL.
+[11] The appellant, Mrs. Alessandro, testified through an interpreter. Her evidence was that she has lived in Canada for 46 years, has a grade five Italian education, speaks very little English and reads no English. She is literate in Italian.
+[12] Mrs. Alessandro is married to Giuseppe (Joe) Alessandro who, she said, is a contractor. Mr. & Mrs. Alessandro have three daughters, Giovanna, Rosetta and Alba. She stated that she relies on her husband for all financial matters. In fact, according to the evidence, Mr. Alessandro is the driving force in determining the family's investments and in the family owned corporations. He decided what properties should be purchased, who the shareholders of family corporations should be and how funds should be invested. Mrs. Alessandro relied wholly on her husband.
+[13] Mrs. Alessandro, on more than several occasions, could not answer most questions put to her by the respondent's counsel, declaring that events took place "many years ago" and that she could not remember.
+[14] Some information was gleaned from Mrs. Alessandro. In her testimony she referred to OPHL as "my company". She also stated that she owned shares of other family companies, including OPHL, Arrow and Alessandro Holdings Limited ("AHL"). She said she loaned money to OPHL and lost money. When asked who made funds available to these companies and Alessandro Building Corporation ("ABC"), another family owned corporation, she simply stated that she trusted her husband; he was in charge. Mrs. Alessandro said she made investments in shares of corporations and in loans.
+[15] Mrs. Alessandro's mantra throughout her examination and, in particular, her cross-examination, was that she did not know anything because her husband controlled everything and that she could not remember anything because of the passage of time between the event and the trial.
+[16] Mr. Giuseppe Alessandro, the appellant's husband, described himself as a subdivider and builder. He manages OPHL and other family corporations "one hundred percent".
+[17] Mr. Alessandro testified that his wife "came into the marriage" in 1960 with $10,000 given to her by her father. In 1961 she purchased a property (550 College Street) for $18,000, which she subsequently sold, tripling her money. Then she purchased another property (Montrose Avenue) for $14,000, made renovations, and sold for $22,000. She was also in a limited partnership that purchased land which it sold. Mrs. Alessandro, her husband said, "always made money on sales" of land. Mr. Alessandro said he would tell her what to buy and sell. With good investments, Mrs. Alessandro became a wealthy woman.
+[18] In about 1993 the real estate market collapsed, said Mr. Alessandro, and the companies owned by the Alessandro family were in financial difficulty. The companies' assets were heavily secured. In 1993 Mr. Alessandro, according to his accountant Gino Giancola, transferred personal assets to his wife and she started to make loans to family corporations.
+1994 Appeal
+[19] I shall consider first the 1994 assessment. There were mortgage statements from the Laurentian Bank of Canada, the mortgagee, that Arrow was making monthly payments of $6,396.98 during the period from July 1, 1993 to August 1, 1994, that is, for 14 months. The amount of $76,764, Mrs. Alessandro claims she paid on behalf of Arrow, was for the 12-month period from September 1, 1993 to August 31, 1994.
+[20] Unfortunately, Mr. Alessandro recalled, there was a fire at a property owned by one of the family corporations, at 41 Rivalda Street, either on Christmas or New Year's Eve 1995. Many financial and corporate records, including cancelled cheques, stored in the building were destroyed as a result of the fire. The lost documents included records of Mrs. Alessandro's bank accounts reflecting payments to the Laurentian Bank as well as OPHL documents relating to the appeal for 1997. Mr. Alessandro stated that he did not request any records from the bank soon after the fire, he only made the requests before his discovery in these appeals. In fact, in March 1999, the predecessor to the Canada Revenue Agency asked for specific documents. All Mr. Alessandro could recall was that the money came out of his wife's accounts at the Toronto Dominion Bank and the Royal Bank of Canada. Mrs. Alessandro made requests to TD Canada Trust in 2005 for personal cancelled cheques made in 1994 and 1995 as well as bank receipts. The bank replied in October 2005 that the personal accounts and the accounts of Arrow, ABC and OPHL were closed and the bank does not maintain records for 1994.
+[21] I do not question Mrs. Alessandro's net worth. It is not unusual for a businessman, in order to protect assets in case of possible business reversals, to cause family wealth to be held by his spouse. In the appeals at bar there is uncontradicted evidence that Mr. Alessandro used his talents for the financial benefit of the appellant. There is also evidence that the appellant's father made a gift of money to the appellant or her spouse when they were married and that the money was successfully invested. The appellant was in a position to subsidize family investments as her husband may have directed.
+[22] The Laurentian Bank was being paid. Obviously, if the funds did not come from Arrow, they came from persons not dealing at arm's length with Arrow; only they had an interest to ensure Arrow would not default. Mr. Giancola verified the accounts of other family corporations and confirmed the payments were not made by corporations or "I would have seen it". The respondent does not question that advances were made to Arrow. I believe it is reasonable to conclude that the appellant made advances on behalf of Arrow. Since there is no paper trail indicating who made the payments, the respondent questions whether it was the appellant who in fact made all the payments.
+[23] Mr. Alessandro and the appellant were jointly and severely liable to the Royal Bank of Canada on a line of credit they obtained in 1992 in the amount of $2,000,000. They borrowed from this line of credit to advance money to family corporations, including Arrow and OPHL. There is evidence in the form of monthly statements from the Royal Bank of Canada that at least one account with that bank was owned jointly by Mr. and Mrs. Alessandro. There is also evidence that Mr. and Mrs. Alessandro jointly held Canada Savings Bonds which were given as security for the line of credit. Mr. Giancola could not deny the money advanced to Arrow or other companies may have come from Mr. Alessandro. While it is possible, there is no clear-cut evidence that Mrs. Alessandro kept her money separate from her husband and that she used her own funds to lend to Arrow or other companies. I therefore conclude that the money applied to the Arrow mortgage was money advanced by both the appellant and her husband. Thus her loan account ought to be adjusted by 50 percent of the $76,764 paid to the Laurentian Bank on behalf of Arrow. Also, there was no serious evidence challenging the Crown's value of the Property at $900,000. Accordingly, the benefit assessed the appellant for 1994 should be decreased by $38,382; the amount of the benefit in 1994 is $214,692. The appeal for 1994 is therefore allowed.
+1997 Appeal
+[24] In the appeal from her tax assessment for 1997, the appellant is claiming an allowable business investment loss. She states that she made loans totalling $497,492 to OPHL for several years prior to 1997. At the time of the loans, she says, she owned all of the shares of AHL, the majority shareholder of OPHL. Sometime in 1997 the loans became bad and therefore, according to the appellant, she was deemed to have disposed of the investment in OPHL for proceeds equal to nil, thus incurring a business investment loss of $497,492.
+[25] The appellant's notice of appeal says that she "was deemed to dispose of an investment made by [her] in OPHL". The notice of appeal contains no material facts. There is no statement when the loans were made and how they were made, even who made the loans or the terms of the loans. Indeed, there are no statements describing the making of the loans, the purpose of the loans or the nexus between OPHL and the appellant. For example, there is no allegation that the appellant was a shareholder, directly or indirectly, of OPHL when the loans were made from 1993 on. The appellant's notice of appeal states that the appellant was deemed in 1997 to have disposed of an investment in OPHL for proceeds equal to nil and, as a result, realized a business investment loss of $497,492. The appellant also alleges that OPHL "was a small business corporation and/or a Canadian-controlled private corporation". The appellant pleads no other contentious facts. The appellant's notice of appeal for 1997 does not fully relate the material facts relied on by the appellant. It is the facts as pleaded and the issues defined in the pleadings which determine the relevancy of evidence. The appellant did not sufficiently outline her case.[2] The appeal may have taken less time if the facts describing the appellant's ownership of shares in ABC and AHL, for example, had been set out in the pleadings.
+[26] According to the respondent's amended reply to the notice of appeal, the Minister, in assessing, assumed, among other things, the following and agreed that:
+a) $497,292 was advanced to OPHL but he questioned whether the appellant loaned the funds to OPHL;
+b) OPHL was a "small business corporation";
+c) The $497,292 advanced to OPHL did not bear interest and had no fixed terms of repayment;
+d) OPHL was insolvent at the end of its 1997 fiscal period, August 31; and
+e) the appellant was not a shareholder of OPHL when the $497,292 was advanced to OPHL.
+[27] The appellant's case, as I can make out, is based on a series of cases that hold that interest free loans made by a shareholder to the corporation may be considered to have been made for the purpose of earning income, to place the corporation in a position where it could be successful and pay dividends on the shares held by the shareholder.[3]
+[28] The respondent questioned the title to the shares of OPHL. There is a representation in the appellant's notice of objection to her assessment for 1997 that she is a shareholder of OPHL. Mr. Alessandro also ratified a By-Law of OPHL on January 14, 1994 describing himself as the sole shareholder of OPHL. However, the parties do acknowledge that Mrs. Alessandro was not a shareholder of OPHL, although she referred to it at trial as "my company". The parties agreed that she was a shareholder of AHL. A question is whether AHL was the majority shareholder of OPHL.
+OPHL
+[29] OPHL was incorporated on April 24, 1978 under the name Oakmount Park Management Ltd. Mr. Alessandro was an original beneficial shareholder with two other gentlemen, each owning one share, but by December he owned the three issued shares. In March 1979 Mr. Alessandro transferred one share to Mrs. Alessandro. On July 10, 1981, the appellant transferred her shares to John Cocomile who subscribed for one share so that he owned two shares and Mr. Alessandro owned two shares. According to the OPHL's Minute Book, the following transfers of, and subscription for, shares in OPHL were made on the next day, July 11:
+Joe Alessandro
+transferred to AHL
+2 shares
+John Cocomile
+transferred to Anco Investments Ltd.
+2 shares
+AHL
+subscribed for
+173 shares
+Anco Investments Ltd.
+subscribed for
+118 shares
+Vito Alessandro
+subscribed for
+35 shares
+Aldo Leone
+subscribed for
+35 shares
+Cosimo Gallace
+subscribed for
+35 shares
+so that at the end of July 11, 1981, AHL owned 175 shares, Anco Investments Ltd. owned 120 shares and three individuals together held 105 shares of OPHL. There were issued and outstanding 400 shares in OPHL.
+[30] On July 11, 1981, the number of directors of OPHL was increased from two to four.
+[31] The OPHL Minute Book records additional transfers of shares on February 1, 1983:
+Anco Investments Ltd. transferred to
+Kammy Philchard Holdings Ltd. ("Kammy")
+60 shares
+Vito Alessandro transferred to
+AHL
+10 shares
+Aldo Leone transferred to
+Kammy
+10 shares
+Cosimo Gallace transferred to
+Kammy
+10 shares
+so that AHL then owned 185 shares of OPHL, Anco Investments Ltd. owned 60 shares, Kammy owned 80 shares and Vito Alessandro, Aldo Leone and Cosimo Gallace each owned 25 shares. From this point on the transfers of shares of OPHL and their registered ownership become murky. I note that the shareholders' register lacks entries for the period after July 11, 1981; two pages stapled to the OPHL Minute Book indicate AHL held 400 shares of OPHL as at January 1, 1989, a third page headed "List of Shareholders" contains entries to the effect that AHL received 60 OPHL shares on December 31, 1988 and 340 shares on January 1, 1989.
+[32] On June 1, 1985, AHL transferred its 185 shares in OPHL to ABC in trust. No trust declaration was made at or about the time of the transfer concerning the ownership of the beneficial interest of these shares. It appears — there is no independent evidence — that the words "in trust" are not in the same typeface as the other words on the consent to transfer of shares. There is no evidence whether the words "in trust" were added before or after or at the time two of the directors signed the consent to the transfer; the two other directors did not execute the consent.
+[33] The appellant denies any beneficial transfer of shares in OPHL took place in 1985. The appellant's position is that ABC held the shares in trust for AHL. Mr. Alessandro did not explain the reason for such a transfer. Mr. Frank Peri, C.A. was retained by Mr. Alessandro in 1984 to prepare unaudited financial statements for AHL, ABC and other corporations owned by the Alessandro family.[4] Notes to AHL's financial statements for 1984 and 1985 list AHL's investment in OPHL at 185 shares. ABC's financial statements for 1984 and 1985 do not reflect an investment in OPHL. As of August 31, 1985, OPHL had 400 shares outstanding. Mr. Peri "probably" also prepared tax returns for these corporations and did not report any transfer of OPHL shares in 1985. He depended on Mr. Alessandro for information in preparing financial statements. He relied on the previous accountant's records for share ownership in the various companies. Mr. Peri gave up his practice in about 1988.
+[34] On February 17, 1987, Kammy transferred its 80 shares of OPHL to ABC in trust so that the latter corporation became the registered owner of 265 shares of OPHL, according to the appellant. Here, also, signatures of two of the directors' are missing from the consent to the transfer of the shares. According to OPHL's Articles of Incorporation no shares of OPHL could be transferred without the consent (by resolution or writing) of more than 50% of the shareholders of OPHL or a majority of the directors of OPHL.[5]
+[35] On December 31, 1988, according to the appellant, each of the three individual shareholders of OPHL, Vito Alessandro, Aldo Leone and Cosimo Gallace, transferred his 25 shares to AHL in trust. Again, there is no declaration of trust in the Minute Book with respect to these transactions. The document headed List of Shareholders attached to the OPHL Minute Book records only 60 shares, not 75 shares, registered in the name of AHL as of December 31, 1988. The number of directors of OPHL was reduced to one.
+[36] The appellant states that on December 31, 1988, Anco also transferred its 60 shares to ABC in trust. The sole director of OPHL, Mr. Alessandro, approved the transfer. However, the transfer document dated "effective the 31st day of December, 1988" is not signed by the purported transferor. The share certificate representing these shares was not produced. It may be that the entry in the List of Shareholders has confused the Anco and individual shareholders transactions.
+[37] In the appellant's view as at December 31, 1988, ABC in trust was the registered owner of 340 shares of OPHL and AHL in trust was the registered owner of 75 shares of OPHL. There are no declarations of trust or references at the end of calendar 1988 indicating the beneficial owner or owners of the shares. However, the Minute Book of OPHL contains a document signed by ABC addressed to the secretary of OPHL, dated "effective the 1st day of January, 1989" that it holds 340 issued shares of OPHL in trust for AHL, it is transferring 340 shares to AHL and appoints the secretary of OPHL to transfer the shares in the books of the company. In another document, AHL also directs the secretary of OPHL to transfer the 60 shares registered in AHL in trust to itself as beneficial owner. These transfers are consented to by Mr. Alessandro in his capacity as director.
+[38] However, if I accept the appellant's evidence that AHL transferred 185 shares of OPHL to ABC in trust on June 1, 1985, that Kammy transferred 80 shares of OPHL to ABC in trust on February 17, 1987 and Anco transferred 60 shares of OPHL to ABC in trust on December 31, 1988, then ABC in trust would have been the registered owner of 325 shares of OPHL on December 31, 1988, not 340 shares as assumed by the appellant.
+[39] Respondent's counsel suggested that the unsigned document purporting to the transfer of the 60 shares on December 31, 1988 and the directions of January 1, 1989, were prepared sometime after their purported dates. There is no evidence supporting or questioning his suggestion except for the documents themselves.
+[40] To add to the confusion, By-Law No. 8 of OPHL, dated January 14, 1994, was consented to on the same day by Giuseppe Alessandro, "the sole shareholder" of OPHL.
+[41] No annual meeting of OPHL was held nor were resolutions executed for the fiscal years 1989 to 2002. There are no records in the Minute Book of OPHL after March 14, 1997. However, according to Mr. Alessandro, sometime in February 2003, his daughter Alba Alessandro, a lawyer practicing in New York City, attempted to bring the corporate records of OPHL, AHL and ABC up‑to‑date. In 2003, she prepared resolutions of the director of each corporation approving financial statements for the "outstanding period" and documents ratifying actions of the corporation during the period. She also prepared shareholder's resolutions to the same effect as well as electing directors and appointing accountants, among other things.
+[42] As in the appeal for 1994, it appears that the bank accounts from which the monies were advanced to OPHL originated from a line of credit from the Royal Bank in favour of Mr. and Mrs. Alessandro. There are statements from the Royal Bank of Canada with respect to one joint account. Out of this account were cheques aggregating $96,500 that were paid to OPHL in 1994. Cheques from another Royal Bank account aggregating $328,000 were made to OPHL in 1993 and 1994; no statement with respect to this account is in evidence, only the account number. I infer that this money also came from the line of credit. Mr. Giancola suspects the balance of the funds came from the Toronto Dominion Bank account. I note that the Statement of Investment Income (T5) slip for 1997 from the Toronto Dominion Bank is in the name of Mrs. Alessandro; the amount of interest income in 1997 from this bank was $101.30. This suggests a modest amount of capital in the account in 1997. There is no evidence of amounts in the account during the period 1993 to 1997 inclusive. As in the appeal for 1994, it would appear that if any funds were advanced by Mrs. Alessandro to OPHL, it is reasonable to conclude that her share of the loans was approximately half of the monies advanced from the line of credit.
+[43] There are no records from the second Royal Bank of Canada account and the Toronto Dominion Bank (except for the 1997-T5 slip from the latter bank). Mr. Alessandro stated that the fire in 1995 destroyed many of the banking records of the Alessandro group of companies.
+AHL
+[44] AHL was incorporated by articles of amalgamation on September 1, 1983 and issued 562 shares to Giuseppe Alessandro on incorporation. Mr. Alessandro transferred the 562 shares to the appellant on September 3, 1983 and since then there have been no changes in ownership of shares of AHL.
+ABC
+[45] The Minute Book of ABC was also produced at trial. Some of the minutes and notices are confusing. ABC was incorporated in 1982. The first shareholders of ABC transferred their four shares to Giovanna Alessandro, a daughter of the appellant, who also became ABC's only director and its President and Secretary in August 1982. In a Trust Declaration dated January 18, 1984, Giovanna Alessandro declared that she owned the four shares of ABC in trust for herself and her sisters Rosetta and Alba Alessandro.
+[46] A photostatic copy of a second Trust Declaration, dated February 18, 1984, signed by the three sisters and their mother, the appellant, was found in the Minute Book of ABC, but not attached to the book. The three daughters acknowledge that they hold the shares of ABC in trust for their mother.
+[47] In a third document entitled Declaration of Trust "effective the undated day of April, 1990", signed by Giovanna Alessandro, there are recitals that Giovanna is the registered owner of the shares of ABC; that she holds the shares in trust for herself and her two sisters "pursuant to a Trust Declaration dated January 18, 1984"; that the beneficial ownership of the shares have been transferred from the three daughters to their mother; and that Giovanna has agreed to continue as trustee. There is no reference to the Trust Declaration of February 18, 1984. Gregorina Alessandro agreed to the terms of this trust on April 11, 1990. Pages stapled to the Minute Book of ABC, described as share transfer register and shareholder's ledger, reflect the transfer of the four shares from Giovanna Alessandro to Gregorina Alessandro on April 11, 1990. One queries why the register and ledger required a record of the transfer if the erstwhile registered owner, Giovanna Alessandro, was to remain the registered owner as trustee.
+[48] Mr. Alessandro testified that his secretary prepared the minutes for the family's companies, usually on the instructions of his long-time lawyer, Mr. Dingwall. Mr. Alessandro stated that he kept the Minute Books in his possession, either in the basement at home or on the second floor of his garage. It was pointed out to him that some documents in the Minute Books are dated as of an "effective" date, some pages are loose leaf and most are permanent, and some documents conflict with others. He replied that if there are errors in the Minute Book, they are the secretary's errors; he could not recall the secretary's name. He said that he signed documents on the actual date specified on the document.
+[49] Rosetta Alessandro testified that her sister Giovanna held shares in ABC in trust for herself and her two sisters. Later her mother invested in ABC and her father wanted to "update" the shareholding in ABC. The direction transferring the four shares of ABC to her mother, dated "effective the 11th day of April, 1990" was signed, she said, at the family kitchen table on April 11, 1990. In any event, the appellant appears to have been the beneficial owner of the shares of ABC as of April 11, 1990.
+[50] The shareholdings of ABC, in particular the various trust documents, as far as this 1997 appeal is concerned, serve as an example of the shoddy manner in which the Alessandro family, or Mr. Alessandro, treated the ownership of shares in a typical Alessandro family corporation.
+[51] Gino Giancola, C.A. took over the Alessandro family companies account for Mr. Peri in 1989 and, like Mr. Peri, he prepared financial statements with information provided by Mr. Alessandro. In 1989 Mr. Alessandro employed a Mr. Miller as an accountant and Mr. Giancola obtained the necessary records from Mr. Miller to start work on the financial statements. The material he received from Mr. Miller included the previous year's records, the general ledgers and a list of shareholders, officers and directors of each corporation.
+[52] In examination-in-chief Mr. Giancola had no idea what "ABC in trust" signified with respect to the 185 shares of OPHL. He did not discuss this with Mr. Alessandro. He assumed it was a transfer from AHL to ABC. Mr. Giancola recalled that when Mr. Alessandro "had some financial difficulties" in 1993, he "transferred Alessandro Holdings and then any other assets, I guess, to his wife".
+[53] Mr. Giancola prepared tax returns of OPHL and ABC for 1989 to 1997 taxation years on the basis ABC was a shareholder of OPHL and that they were associated companies. However, Mr. Giancola said he never reviewed any Minute Books until 2003, once these appeals were filed.
+[54] When Mr. Alessandro would meet with Mr. Giancola to sign corporate tax returns, he made only a "cursory review", according to Mr. Giancola; "he didn't really understand corporate tax".
+[55] Appellant's counsel raised the issue of the tax returns for ABC and OHPL with Mr. Giancola:
+Q. Now you've mentioned that these tax returns, the corporate tax returns, for Alessandro Building Corporation and OPHL were prepared by you on the basis that Alessandro Building Corporation was the shareholder of OPHL. Have you had any opportunity to reflect on that as a result of this tax appeal?
+A. Well, in preparing for this case and with your examination of the minute books going back to the period prior to me becoming the accountant, it seems that perhaps Alessandro Holdings was always the owner of these shares and there was no real change of ownership that took place at any point in time.
+JUSTICE RIP: That's your conclusion?
+THE WITNESS: Yes.
+JUSTICE RIP: On what basis do you make that conclusion?
+THE WITNESS: On discussions that I've had with Mr. Alpert.
+BY MR. ALPERT:
+Q. Does that have to do with the meaning of the term, "in trust"?
+A. Yes.
+[56] Later on in examination-in-chief, Mr. Giancola stated that if he had "dug deeper to get a better understanding of the share structure of" OPHL he would have shown in the corporate tax return for 1989 and subsequent years that ABC was not a shareholder of OPHL, that AHL was the majority shareholder.
+[57] In cross-examination Mr. Giancola was asked:
+Q. In your examination in-chief you were candid and you acknowledged that you probably should have dug deeper to get a better understanding of the share structure of this company. I'm not sure if you were referring to OPHL or to A.H.L., but I wonder if you would just elaborate a little bit on that?
+A. I think with OPHL where you have different shareholdings, you have stuff being crossed off. Alessandro Holdings was very straight forward. On September 1, 1993, the amalgamation was done, a new Alessandro Holdings came to be and was amalgamated. At that point, the shares were all transferred to Gregorina Alessandro from that point onwards that's fairly clear. Anything prior to that I have no – (inaudible).
+Q. I think you indicated that it appears that AHL was always the shareholder of OPHL?
+A. Yes.
+Q. That was based on your discussions with Mr. Alpert?
+A. Subsequent to the appeals when we went to see Mr. Alpert to deal with this issue and he went into these minute books in detail as a lawyer going back to these trust agreements, back to '85, and he pointed out to me that perhaps no transfer took place, any beneficial ownership of transfer took place.
+Q. So, he explained to you these trust agreements, did he, and based on that explanation you took the view that perhaps AHL was always a shareholder?
+A. Yes.
+Q. That's not a conclusion that you drew on your own?
+A. No I think it's a legal issue. I mean today if I look at this, I wouldn't be able to determine exactly who the – - I don't know what's going on here.
+Q. Thank you for that.
+JUSTICE RIP: What company are you referring to specifically?
+THE WITNESS: I would imagine Oakmount Park Holdings.
+MR. LECKIE: I think that's perhaps a good time for me sit down, thank you.
+[58] Mr. Giancola prepared Mrs. Alessandro's 1997 tax return on the basis she loaned $497,292 to OPHL, a company in which AHL was the majority shareholder. During this period she owned all of the shares of AHL during the period 1993 to 1997. At the end of its 1997 fiscal year OPHL was insolvent. Thus, a business investment loss of $497,292 was claimed. Mr. Giancola determined the amount of the loan from the general ledger account and from consulting the bank accounts from which the loans were advanced. He considered the appellant was "indirectly" a shareholder of OPHL since she owned OPHL through a holding company.
+[59] Neither party's pleadings raised the issue of the existence or not of a trust. Only in argument did the appellant through her solicitor raise the possibility of a resulting trust in ABC. Because this issue was not raised in pleadings and no attempt was made to amend the notice of appeal to include this issue I did not allow counsel to make any submission whether there was a resulting trust. The respondent would not have had the opportunity to examine the appellant on the facts that she may have alleged to support her submission.
+[60] The words "in trust" follow those of ABC and AHL in the share transfer register of OPHL, in notices of transfers of shares to the directors of OPHL and in consents to the transfers signed by several, if not all, directors of OPHL. Do these words have any impact in determining the beneficial owners of the OPHL shares registered in the name of, or transferred to, a purported trustee?[6]
+[61] It is not my wish to discuss in any detail the law of trusts. However, I believe I must make some comments. The word "in trust" following a corporate or individual's name without any contemporaneous indication of the trust's beneficiary is troubling. In such a situation the beneficiary may be anybody or nobody, depending on circumstances.
+[62] Under the law of trusts, ownership of a property may be divided into legal and beneficial interests. Underhill, Law of Trusts and Trustees, 11th ed., has offered the following well-known definition which has been endorsed by the courts in Re Marshall's Will Trusts, [1945] Ch. 217 at 219 and Green v. Russell, [1959] 2 Q.B. 226 at 241:
+A trust is an equitable obligation, binding a person (who is called a trustee) to deal with property over which he has control (which is called the trust property), for the benefit of persons (who are called the beneficiairies or cestuis que trust), of whom he may himself be one, and any one of whom may enforce the obligation. [See also the explanation of a trust in Lewin on Trusts, 16th ed. London: Sweet and Maxwell, 1964.]
+[63] Generally, in order to create a valid express private trust a number of conditions must be present. All parties to the trust must have the requisite legal capacity to create a trust. Without the three certainties of intention, subject-matter and objects, the trust will fail.[7] The trust must be constituted and the requisite formalities must be satisfied. Given the facts at hand, the most relevant considerations are the certainty of intention, that is, the intention to create a trust, the certainty of object, that is someone in whose favour the Court can enforce the trust,[8] and constitution of the trust, that is, the transfer of the property to the trustee.
+[64] Where an express trust fails, the equitable proprietary remedy of resulting trust may apply. In such cases, the Court will find that the beneficial interest in the property was never properly relinquished to the trust and therefore the property results back to the settler.[9]
+[65] There is also a question whether the deficiencies in any of the following transfers would invalidate a transfer:
+a) the absence of consent by a majority of directors of OPHL to the transfer of 185 shares of OPHL from AHL to ABC in trust on June 1, 1985;
+b) the absence of the consent by a majority of the directors of OPHL to the transfer of 80 shares from Kammy to ABC in trust on February 17, 1987;[10]
+c) a missing signature of an officer of Anco in the purported transfer on December 31, 1988 of 60 shares of OPHL by Anco to ABC in trust; and
+d) a possible error by ABC in trust, when it transferred 340 shares of OPHL to AHL on January 1, 1989 when it was the registered owner of only 325 shares of OPHL.
+[66] I cannot determine from the evidence before me whether trusts were intended at the time of the pertinent transfers or whether the beneficiary of each purported trust was declared subsequently. I have therefore considered the following possibilities, assuming that no beneficiary was designated at time the relevant property is said to be transferred to the particular trustee:
+a) If one argues that the transfer of 185 shares from AHL to ABC in trust should be set aside because a majority of the directors of OPHL did not consent to the transfer, then AHL has remained the beneficial owners of the 185 shares; the June 1, 1985 transaction did not take place. If a transaction did take place on June 1, 1985 but there was no intention to create a trust, that is, there is no beneficiary, then, here too, the 185 shares stay with the transferor AHL;
+b) if the transfer of the 185 shares were valid and there was an intention to create a trust but no beneficiary was designated, the trust would be void for uncertainty of object and the beneficial ownership would revert back to AHL;
+the conclusion in b) would also apply to the other transfers in trust, i.e., Kammy to ABC in trust and Anco to ABC in trust. However, Anco and Kammy appear to have considered their interests in OPHL to have terminated with the purported transfers by them to ABC in trust; no interested party has otherwise questioned the transfers and the divestitures of OPHL shares by Anco and Kammy were not seriously questioned by the Crown; and
+c) in the event the transfer to a transferee in trust was valid but the transferee did not declare for whom it holds the shares, there would be no ascertainable beneficiary and therefore no trust. The transferee would be the legal and beneficial owner of the shares. Thus ABC would be legal and beneficial owner of 325 shares (81.25 per cent) of OPHL.[11]
+[67] I have concluded that the appellant was the beneficial owner of all of the shares of ABC from April 11, 1990. Therefore, whether the beneficial owner of the majority of the shares of OPHL is either AHL or ABC, it is the appellant who had ultimate control of OPHL, despite the many inconsistencies I have heard. She controlled both AHL and ABC.
+[68] Generally speaking, paragraph 39(1)(c) creates a business investment loss (three quarters of which was fully deductible in 1997 against any income source) which may be triggered by an election under subsection 50(1) for a bad debt. However, subparagraph 40(2)(g)(ii) will deny the loss on a debt where there is no income purpose for the loan. Subparagraph 40(2)(g)(ii) requires a linkage from the lender taxpayer to the income.
+[69] In Rich v. The Queen[12] the Federal Court of Appeal concluded that as long as earning income was one of the purposes of the loan (although not necessarily the primary purpose), the income-earning requirement of subparagraph 40(2)(g)(ii) of the Act had been met.
+[70] In order to satisfy the income purpose test, income need not flow directly from a loan to the taxpayer. In Byram, supra, the Federal Court of Appeal adopted an approach that was consistent with commercial reality and held that the taxpayer was entitled to deduct the loss because he was able to demonstrate a sufficient nexus between himself and the dividend income he could receive as a shareholder.[13] In the Court's view:
+[17] Such an approach is also consistent with commercial reality. Frequently, shareholders make such loans on an interest-free basis anticipating dividends to flow from the activities financed by the loan. To adopt the position of the Minister would require that this Court ignore this reality. It would also be contrary to the comments of the Supreme Court of Canada in Stubart Industries Ltd. v. The Queen. Commercial reality is to be considered by the Courts in interpreting tax provisions like subparagraph 40(2)(g)(ii) so long as it is consistent with the text and purpose of the provision.
+[18] The ultimate purpose of a parent company or a significant shareholder providing a loan to a corporation is, without question, to facilitate the performance of that corporation thereby increasing the potential dividends issued by the company. This purpose is clearly within the scope of both the text and the purpose of subparagraph 40(2)(g)(ii), a section which is directed towards preventing taxpayers from deducting losses that are not incurred for the purpose of earning income from a business or property.
+[19] There is a growing body of jurisprudence that considers current corporate reality as being sufficient to demonstrate that the expectation of dividend income justifies a capital loss deduction under subparagraph 40(2)(g)(ii). . . .
+[71] The Court also cautioned that the anticipation of dividend income could not be too remote, as follows:
+[21] It is equally clear that the anticipation of dividend income cannot be too remote. It is trite law that sections 3 and 4 of the Act, in conjunction with the rules set out in subdivisions (a) through (d) of division B, establish that the income of a taxpayer is to be determined on a source by source basis. Furthermore, the availability of certain deductions under the Act, including subparagraph 40(2)(g)(ii), require that some regard be given to the source of income that is relevant to the deduction. Accordingly, a deduction cannot be so far removed from its corresponding income stream as to render its connection to the anticipated income tenuous at best. This does not preclude a deduction for a capital loss incurred by a taxpayer on an interest-free loan given to a related corporation where it had a legitimate expectation of receiving income through increased dividends resulting from the infusion of capital.
+[22] The shareholders of a company are directly linked to that corporation's future earnings and its payment of dividends. Where a shareholder provides a guarantee or an interest free loan to that company in order to provide capital to that company, a clear nexus exists between the taxpayer and the potential future income. Where a loan is made for the purpose of earning income through the payment of dividends, this connection is sufficient to satisfy the purpose requirement of subparagraph 40(2)(g)(ii).
+[23] In situations where the taxpayer does not hold shares in the debtor, but rather is a shareholder of a parent company or other shareholder of the debtor the taxpayer is not entitled to dividend income directly from the debtor. Generally speaking, the burden of demonstrating a sufficient nexus between the taxpayer and the dividend income, in such cases, will be much higher. The determination of whether there is sufficient connection between the taxpayer and the income earning potential of the debtor will be decided on a case by case basis depending on the particular circumstances involved.
+[Footnote omitted.]
+[72] In the appeal from the assessment for 1997 we are dealing with a series of family corporations. By 1994 one mind was directing ABC, AHL and OPHL, that of Mr. Alessandro. However, from 1993 on, when the loans began to be made, Mrs. Alessandro was the shareholder who controlled, directly and indirectly, all three corporations. Even if her husband directed her how to act, it was Mrs. Alessandro who had the right to elect the directors of all three corporations. At the end of the day, she could cause OPHL to declare and pay dividends to AHL, if AHL controlled OPHL, or ABC, if ABC controlled OPHL. In turn, she could cause AHL or ABC to pay dividends to herself. While there is a degree of remoteness between Mrs. Alessandro and OPHL there is a clear nexus between her and dividend income.
+[73] However, as I have already stated, it is likely that Mrs. Alessandro's share of the loans to OPHL was only one-half of what she claimed. The source of funds advanced to OPHL appear to be from a line of credit to both the appellant and her husband. Therefore, her business investment loss was $248,646 and her allowable business investment loss for 1997 was $186,484.50 which, to the extent it has not been carried back or forward to other years, may be carried back to 1994. The appeal for 1997 is allowed on this basis.
+Costs
+[74] I do not award costs in either of these appeals. The degree of success for each appeal has been shared equally by the parties. Also, the appellant's notice of appeal for 1997 did not sufficiently outline her case and caused the appeals to take more time than was necessary.
+Signed at Ottawa, Canada, this 13th day of July 2007.
+"Gerald J. Rip"
+Rip A.C.J.
+CITATION: 2007TCC411
+COURT FILE NO.: 2004-4366(IT)G and
+STYLE OF CAUSE: GREGORINA ALESSANDRO v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATES OF HEARING: November 27, 28 and 29, 2006
+REASONS FOR JUDGMENT BY: The Honourable Gerald J. Rip, Associate Chief Justice
+DATE OF JUDGMENT: July 13, 2007
+APPEARANCES:
+Counsel for the Appellant:
+Howard J. Alpert
+Counsel for the Respondent:
+Steven D. Leckie
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Howard J. Alpert
+Firm: Alpert Law Firm
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] $900,000 – ($521,926 + $125,000) = $253,074.
+[2] See, for example, Lubrizol Corp. v. Imperial Oil Ltd. (C.A.), [1996] 3 F.C. 40 (CA) and Kolmar et al. v. The Queen, 2003 DTC 1521 (TCC).
+[3] For example, Business Art Inc. v. M.N.R., 86 DTC 1842 (TCC) and The Queen v. Byram, 99 DTC 5117 (FCA).
+[4] The fiscal year end of each corporation is August 31st.
+[5] Subsection 17(3) of the Ontario Business Corporation Act provides that "no act of a corporation including a transfer of property to or by the corporation is invalid only by reason that the act is contrary to its article, by‑laws, a unanimous shareholder agreement or this Act". This provision is for the protection of good faith purchasers or vendors in particular situations.
+[6] I am adopting the reasons of Bowman J. (as he then was) in Collins v. The Queen, 96 DTC 1034 at 1038, (aff'd by the Federal Court of Appeal 98 DTC 6281) that this Court is not barred from considering whether ingredients exist to permit the court to apply an equitable remedy. This Court must have all the tools necessary to determine tax liability under the Income Tax Act.
+[7] Knight v. Knight (1840), 3 Beav. 148 at 172, 49 E.R. 58(Ch.).
+[8] See Att.-Gen. v. Brown (1818), 1 Swans. 265, at 290, per Lord Eldon, cited Re Astor's Settlement Trusts, [1952] Ch. 534, at 541 and Bowman v. Secular Society, Ltd., [1917] A.C. 406, at 441 per Lord Parker.
+[9] Re Ames' Settlement, [1946] Ch. 217. Pettkus v. Becker, [1980] 2 S.C.R. 834 (SCC).
+[10] Mr. K. Phulchand resigned as a director of OPHL on February 17, 1987. If he resigned before the transfer of shares on that day, then a majority of the directors did consent to the transfer. There is no evidence when he resigned.
+[11] 185 shares from Anco on June 1, 1985; 80 shares from Kammy on February 17, 1987; 60 shares from Anco on December 31, 1988.
+[12] 2003 DTC 5115.
+[13] Subsection 248(1) of the Income Tax Act defines "shareholder" to include a member or other person entitled to receive payment of a dividend.

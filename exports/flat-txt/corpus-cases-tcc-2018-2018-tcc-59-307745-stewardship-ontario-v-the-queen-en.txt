@@ -1,0 +1,378 @@
+Title: Stewardship Ontario v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/307745/index.do
+Corpus path: corpus/cases/tcc/2018/2018-tcc-59-307745-stewardship-ontario-v-the-queen-en.md
+Document type: case_law
+Last modified: 2018-03-21
+
+# Stewardship Ontario v. The Queen
+
+- Citation: 2018 TCC 59
+- Decision date: 2018-03-21
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7578, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Stewardship Ontario v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2018-03-21
+Neutral citation
+2018 TCC 59
+File numbers
+2014-2460(GST)G
+Judges and Taxing Officers
+Steven K. D'Arcy
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2014-2460(GST)G
+BETWEEN:
+STEWARDSHIP ONTARIO,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on November 14, 15 and 16, 2017 at Toronto, Ontario
+Before: The Honourable Justice Steven K. D'Arcy
+Appearances:
+Counsel for the Appellant:
+W. Jack Millar
+Bryan Horrigan
+Counsel for the Respondent:
+Marilyn Vardy
+Darren Prevost
+JUDGMENT
+In accordance with the attached Reasons for Judgment:
+1. The appeal is allowed, with costs, and the assessment made under the Excise Tax Act for the Appellant’s reporting period between August 1, 2013 and August 31, 2013 is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the Appellant is entitled to the input tax credits of $17,962,034.55 that it claimed in its GST return for the reporting period; and
+2. The parties will have 30 days from the date of this judgment to arrive at an agreement on costs, failing which they are directed to file their written submissions on costs within 60 days of the date of this judgment. Such submissions shall not exceed 15 pages.
+Signed at Ottawa, Canada, this 21st day of March 2018.
+“S. D’Arcy”
+D'Arcy J.
+Citation: 2018 TCC 59
+Date: 20180321
+Docket: 2014-2460(GST)G
+BETWEEN:
+STEWARDSHIP ONTARIO,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+D'Arcy J.
+[1] The Appellant collected and remitted GST on fees that it received in respect of a waste recycling program that it operates in Ontario and claimed input tax credits for the GST it paid in respect of the costs it incurred to operate the program. Both the fees received and the costs incurred exceeded $50 million. The Minister accepted that the Appellant did not make any exempt supplies, but assessed on the basis that the Appellant should not have collected GST on the fees it received and should not have claimed input tax credits in respect of the costs it incurred to operate the program.
+[2] The only issue before the Court is whether the costs the Appellant incurred to operate the program were incurred for consumption, use or supply in the course of a GST commercial activity. At the commencement of the hearing, the Respondent abandoned any other issues raised in her Reply.
+[3] The Appellant called three witnesses, while the Respondent did not call any witnesses. In fact, no one from the Canada Revenue Agency was present during the evidentiary portion of the hearing.
+[4] The Appellant’s witnesses were Ms. Kathleen Kennedy, the chief financial officer of the Appellant, Mr. Mark Reed, the director of national accounts for the lubricant portion of the downstream business of Shell Canada, and Mr. John Coyne, the vice-president of legal and external affairs of Unilever Canada. Mr. Reed and Mr. Coyne are directors of the Appellant.
+[5] I found all three witnesses to be very credible.
+I. Summary of Facts
+[6] The Appellant is a non-share not-for-profit corporation that operates two recycling programs in Ontario: the blue box and orange drop programs. This appeal is only concerned with the Appellant’s operation of the orange drop program.
+[7] The Appellant’s orange drop program is one of the recycling programs that resulted from the introduction of the Waste Diversion Act, 2002, [1] (the “WD Act”).
+[8] The WD Act established Waste Diversion Ontario (“WDO”) as a non-share corporation to “develop, implement and operate waste diversion programs for designated wastes in accordance with this Act [the WD Act] and monitor the effectiveness and efficiency of those programs”. [2]
+[9] Section 2 of the WD Act defines designated waste as “blue box waste or material prescribed as a designated waste by the regulations”.
+[10] The establishment and operation of a waste diversion program, such as the orange drop program, under the WD Act occurs as follows:
+- First, the Minister [3] directs WDO to develop a waste diversion program for a designated waste. WDO develops the program in co-operation with an existing or a new industry funding organization. An industry funding organization is a non-share corporation incorporated by WDO under Part III of the Corporations Act. [4] The Appellant is an industry funding organization.
+- The waste diversion program may include all or some of the following:
+o Activities to reduce, reuse and recycle the designated waste.
+o Research and development activities relating to the management of the designated waste.
+o Activities to develop and promote products that result from the waste diversion program.
+o Educational and public awareness activities to support the waste diversion program. [5]
+o The total amount of fees paid by stewards should not exceed the sum of the following amounts:
+§ The costs of developing, implementing and operating the waste diversion program.
+§ A reasonable share of costs that are incurred by WDO in carrying out its responsibilities under the WD Act.
+§ A reasonable share of costs incurred by the Ministry of Environment and Energy in administering the WD Act.
+o The fee paid by a steward should fairly reflect the proportion of such costs that is attributable to the steward. [9]
+- The waste diversion program must include an agreement between WDO and the co-operating industry funding organization governing the role of the industry funding organization in the implementation and operation of the program and governing the exercise of the industry funding organization’s powers under the WD Act. [6] This is referred to as a program agreement.
+- The waste diversion program must be submitted to the Minister for his or her approval prior to its implementation. [7]
+- Once the waste diversion program is approved by the Minister, it is implemented by WDO and the industry funding organization. [8]
+- The industry funding organization is entitled to make rules designating stewards in respect of the designated waste. Stewards are persons who have a commercial connection with the designated waste or with a product from which the designated waste is derived.
+- The stewards are required to pay fees to the industry funding organization. The fees are determined by the industry funding organization subject to the following rules:
+- In addition to the waste diversion programs developed by WDO and an industry funding organization, the WD Act provides for waste diversion programs that may be developed by a steward, a group of stewards or someone other than a steward. Such a waste diversion program, once approved by WDO, becomes an industry stewardship plan (an “ISP”). WDO may approve such a plan if it will achieve objectives that are similar to or better than the objectives of the waste diversion program developed by WDO and the industry funding organization.
+- Stewards may avoid paying fees to the industry funding organization for a specific designated waste by participating in an ISP for the same designated waste. If the ISP is operated by a third party then the steward pays fees to the operator of the ISP.
+[11] At some point in time the Minister issued regulations under the WD Act prescribing the following nine products as designated waste:
+- paints, stains and coatings;
+- solvents, including paint thinners, strippers, degreasers;
+- single-use batteries;
+- pressurized cylinders that held propane, oxygen, helium or other gases;
+- fertilizers;
+- pesticides;
+- vehicle engine antifreeze/coolant;
+- empty lubricating oil containers, and
+- oil filters. [10]
+[12] Collectively these products are referred to as Municipal Hazardous or Special Waste (the “MHS Waste”).
+[13] The Minister then directed WDO to develop a waste diversion program for the MHS Waste. WDO chose to develop the program with the Appellant. As a result, the Appellant became the industry funding organization with respect to the MHS Waste.
+[14] The Appellant then developed and implemented, through a program plan (the “MHS Waste Program Plan”), a waste diversion program for the MHS Waste (the “MHS Waste Program”). The MHS Waste Program is also referred to as the orange drop program.
+[15] As required by the WD Act, WDO entered into a program agreement with the Appellant (the “MHS Waste Program Agreement”). The MHS Waste Program Agreement governs the role of the Appellant in the implementation and operation of the MHS Waste Program.
+[16] The parties provided the Court with copies of the MHS Waste Program Plan and MHS Waste Program Agreement that were in effect during the relevant period. [11] These two documents detail the operation of the program. Ms. Kennedy, during her testimony, provided a summary of the MHS Waste Program.
+[17] She noted that the Appellant implemented a system to collect, transport, manage and process the waste. The process begins with the stewards, who bring the relevant product into the province. Consumers, households and businesses then purchase the product and create the waste once they no longer require the product.
+[18] The MHS Waste Program begins with the collection of the MHS Waste. The Appellant uses a number of initiatives to collect the waste, such as municipal collection sites, return-to-retail sites (i.e., return of waste, such as paint or batteries, to the retailer who originally sold the related product), mobile collection depots, incentive programs and special collection events, such as municipal hazardous waste collection days.
+[19] In 2011, these initiatives included the following:
+- 87 municipal household hazardous waste depots for all nine types of MHS Waste.
+- Nearly 200 return-to-retail locations (paints, stains and coatings, and batteries).
+- Nearly 600 automotive DIY drop-off sites (engine coolant, oil containers and oil filters).
+- Over 12,000 automotive service centre locations (engine coolant, oil containers and oil filters) for commercial users.
+- Nearly 350 annual collection events.
+- 102 provincial and private parks where non-refillable propane cylinders are collected from campers.
+- Over 3,500 battery drop-off locations. [12]
+[20] The next step in the MHS Waste Program is the transportation of the MHS Waste from the collection sites to the processing sites. The Appellant retains third parties to provide this transportation service.
+[21] It is then determined whether the MHS Waste can be recycled. The waste materials may be recycled by being processed to “recover and make use of their physical, chemical or biological properties”. This will result in the reuse of all or a portion of the waste. Examples are steel, which is recovered from paint cans, pressurized containers and oil filters, and paint, which is sorted by type and colour to make recycled paint. [13]
+[22] MHS Waste that cannot be recycled is sent to a safe disposal site such as a secure landfill or incineration facility.
+[23] The Appellant incurs the costs of operating the MHS Waste Program. It pays fees to the collectors of the waste, the transportation companies that transport the waste, the processors who process the waste, the operators of the safe disposal sites, and any other third parties who provide property and services in respect of the program (the “Third Party Service Providers”). All of the Third Party Service Providers added GST to the fees they charged the Appellant.
+[24] In each of 2011 and 2012, the fees charged by the Third Party Service Providers exceeded $50 million.
+[25] In addition, as permitted under the WD Act, WDO charges the Appellant an annual fee plus GST for carrying out its duties under the WD Act.
+[26] Consistent with the provisions of the WD Act, the MHS Waste Program provides rules that determine who is a steward with respect to the MHS Waste (the “MHSW Stewards”) and the amount of fees each steward is required to pay to the Appellant (the “MHSW Steward Fee”).
+[27] MHSW Stewards are defined in the MHS Waste Program Plan to include brand owners and first importers of products designated as Municipal Hazardous or Special Materials (“MHSM”) for sale and use in Ontario that result in MHS Waste. The MHS Waste Program Plan notes that MHSM refers to goods and products that are sold or delivered in Ontario to consumers or consumed/used by designated businesses and which result in the generation of MHS Waste. [14]
+[28] The terms brand owner and first importer are defined as a person in Ontario who is the owner or licensee of a trademark under which MHSM are sold or otherwise distributed in Ontario, whether registered or not, or a person who brings into Ontario MHSM for sale or other distribution. [15]
+[29] Ms. Kennedy noted that the MHSW Stewards are “the manufacturer, background owner, importer of the goods, the supplier of the goods into the market. They're commercially connected with the product that ultimately becomes the waste that we manage.” [16]
+[30] The MHS Waste Program Plan notes that an MHS Steward has two options by which it can discharge its legal obligations under the WD Act. Either it can register, report data and pay fees to the Appellant or it can make an application to WDO for approval of an ISP. [17]
+[31] MHSW Stewards who are not members of an ISP must file a quarterly report with the Appellant. The report must contain specified information describing the aggregate amount of products generating the MHS Waste that the MHS Steward or its franchisee “sold, leased, donated, disposed of, used, transferred the possession or title of, or otherwise made available or distributed for use in the Province of Ontario”. [18]
+[32] An MHSW Steward’s quarterly report is used to determine the amount of the MHSW Steward Fee the steward must pay to the Appellant. The fee is calculated as the aggregate amount of each product reported in the quarterly report times the applicable rate set out in Appendix G of the MHS Waste Program Agreement. For example, in 2010 the rate for packaged antifreeze was $0.09 per litre. The rate for oil filters of a size less than or equal to 8 inches was $0.60 per unit. [19] The Appellant determined the rate for each product and WDO subsequently approved the rate.
+[33] The MHS Waste Program Plan contains the following guiding principles that the Appellant followed when setting the MHSW Steward Fee:
+- The cost to manage MHS Waste within each MHS Waste category under the MHS Waste Program will be determined by a transparent cost allocation methodology.
+- Common and shared costs will be assessed across all MHSW Stewards in a fair and transparent manner.
+- Costs associated with the management of products that are no longer supplied in Ontario will be attributed to stewards in a fair and reasonable manner.
+- The fees applied to stewards will be based on the amount of product generating the waste that MHSW Stewards supply into the Ontario market, but will cover the Appellant’s costs.
+- The Appellant will allocate costs within material categories, where appropriate, to reflect different costs to manage and to incentivize greater diversion of waste from disposal. [20]
+[34] Ms. Kennedy testified that these principles are consistent with the rule set out in paragraph 30(3)2 of the WD Act, which provides that the fee paid by an individual steward must fairly reflect the proportion of the total steward fees that is attributable to that steward.
+[35] She agreed that the MHSW Steward Fees are intended to pay 100% of the costs of the MHS Waste Program. The Appellant does not receive any government grants or subsidies for the MHS Waste Program.
+[36] In 2010, the Appellant charged the MHSW Stewards total fees of approximately $40 million. Fees in other relevant years were higher, exceeding $50 million. The Appellant charged, collected and remitted GST in respect of the fees it charged the MHSW Stewards.
+[37] Ms. Kennedy explained how an MHSW Steward could avoid paying the MHSW Steward Fee to the Appellant by setting up an ISP with a group of MHSW Stewards or setting up its own ISP.
+[38] During the relevant period there were no ISP’s established under the relevant provisions of the WD Act. However, during this period WDO issued a detailed document explaining the procedures for establishing an ISP under the WD Act. [21]
+[39] Ms. Kennedy testified that the following three ISP’s operate in Ontario today:
+- An ISP dealing with paint began operating in mid-2015. It is managed by a company called Product Care Association, which operates in seven other provinces. Product Care Association operates the ISP on behalf of certain MHSW Stewards.
+- An ISP dealing with pesticides, solvents and fertilizer began operation in the second quarter of 2016. Product Care Association also manages this ISP.
+- An ISP called the Automotive Material Stewardship ISP began operating in April 2017. This ISP covers three automobile products: oil filters, oil containers and antifreeze.
+[40] The Court did not receive information with respect to how many MHSW Stewards have elected to participate in the ISP dealing with pesticides, solvents and fertilizer or the ISP dealing with automobile products. However, Ms. Kennedy noted that approximately 60% of the MHSW Stewards who bring paint into Ontario participate in the paint ISP. The remaining 40% of the relevant MHSW Stewards continue to participate in the MHS Waste Program. She noted that the MHSW Stewards who participate in any of the three noted ISP’s do not pay MHSW Steward Fees to the Appellant.
+[41] The evidence before me is that each ISP collects GST on the fees it charges the MHSW Stewards and claims input tax credits for the GST it pays in respect of costs related to the collection and recycling of the designated waste by the ISP. The CRA accepts that the ISP’s are entitled to claim the input tax credits. [22]
+[42] Ms. Kennedy noted that a company called Sodastream operates its own ISP that deals only with the products it sells into Ontario. It also does not pay the MHSW Steward Fee to the Appellant.
+[43] Both Ms. Kennedy and Mr. Reed discussed the extensive involvement of the MHSW Stewards in the development and operation of the MHS Waste Program. For example, working groups comprised of employees of the MHSW Stewards developed a significant portion of the MHS Waste Program Plan. Also, employees of the MHSW Stewards comprise 12 of the 14 directors of the Appellant and employees of the MHSW Stewards are involved in setting the rates for the products that generate the MHS Waste.
+[44] When filing its GST returns for the relevant periods, the Appellant added to its net tax the GST it charged, and collected from, the MHSW Stewards. In other words, it remitted the GST it charged the MHSW Stewards.
+[45] The Appellant did not, initially claim input tax credits in respect of the GST it paid to the Third Party Service Providers and the WDO. Ms. Kennedy explained that during that period the Appellant was discussing with the Canada Revenue Agency its entitlement to input tax credits. However, in August 2013 the Appellant faced the expiry of its four-year statutory limitation for the claiming of input tax credits. Therefore, it claimed in its GST return for the August monthly reporting period input tax credits of $17,962,034 relating to GST it paid between January 1, 2010 and August 31, 2013.
+[46] The Minister subsequently assessed the Appellant to deny the input tax credits claimed in its August 2013 GST return.
+II. Issue Before the Court
+[47] The issue before the Court is whether the Appellant is entitled to claim input tax credits in respect of the GST it paid to the Third Party Service Providers and WDO.
+III. Relevant Provisions of the GST Act
+[48] Subsection 169(1) of the GST Act contains the general rules for the claiming of input tax credits. The applicable portions of subsection 169(1) read as follows:
+Subject to this Part, where a person acquires or imports property or a service or brings it into a participating province and, during a reporting period of the person during which the person is a registrant, tax in respect of the supply, importation or bringing in becomes payable by the person or is paid by the person without having become payable, the amount determined by the following formula is an input tax credit of the person in respect of the property or service for the period
+A x B
+where
+A is the tax in respect of the supply, importation or bringing in, as the case may be, that becomes payable by the person during the reporting period or that is paid by the person during the period without having become payable; and
+B is
+. . .
+(c) . . . the extent (expressed as a percentage) to which the person acquired or imported the property or service or brought it into the participating province, as the case may be, for consumption, use or supply in the course of commercial activities of the person.
+[49] Because of the wording in subsection 169(1), the Appellant’s ability to claim an input tax credit is dependent on the extent to which it acquired or imported property or a service for consumption, use or supply in the course of its commercial activities.
+[50] Commercial activity is defined in subsection 123(1). The relevant portions of the definition for the purposes of this appeal are as follows:
+. . .
+a) a business carried on by the person . . . except to the extent to which the business involves the making of exempt supplies by the person,
+b) an adventure or concern of the person in the nature of trade . . . except to the extent to which the adventure or concern involves the making of exempt supplies by the person, and
+. . .
+[51] Business is defined in subsection 123(1) as follows:
+“business” includes a profession, calling, trade, manufacture or undertaking of any kind whatever, whether the activity or undertaking is engaged in for profit, and any activity engaged in on a regular or continuous basis that involves the supply of property by way of lease, licence or similar arrangement, but does not include an office or employment.
+[52] Under the GST Act, a person’s business is broader than the person’s commercial activity. A business includes all of the activities of a person regardless of whether the activities involve the making of taxable supplies or of exempt supplies.
+[53] However, a commercial activity only includes the activities of the business that do not involve the making of exempt supplies. All of the business of a person who does not make exempt supplies constitutes a commercial activity.
+[54] As I will discuss shortly, the Respondent relies on subsections 141.01(2) and (3). I explained the operation of subsections 141.01(2) and (3) at paragraphs 94 to 109 of my reasons for judgment in University of Calgary v. the Queen [23] (the “University of Calgary Appeal”) as follows:
+[94] The application of subsection 169(1) to tax paid on property or services acquired by a registrant in the course of its business for consumption or use directly in the making of a specific supply is relatively straightforward. For example, if the registrant acquires the property or service only for consumption or use directly in the making of a taxable supply, then the property is consumed or used in the course of the registrant’s commercial activity and the registrant is entitled to claim a full input tax credit for the tax paid on the acquisition of the property or service. Alternatively, no input tax credit is available if the registrant acquires the property or service solely for consumption or use directly in the making of exempt supplies.
+[95] The application of subsection 169(1) to “indirect costs”, that is, property and services that are not used directly in the making of a taxable or an exempt supply, is not as straightforward. When making a determination in this regard, one must consider the section 141.01 input tax credit apportionment rules.
+[96] Indirect costs include such things as administrative costs, overhead costs, and costs incurred in respect of common areas in or around a building. For example, in most instances, the payroll department of a corporation that makes both taxable and exempt supplies will not be involved directly in the making of any supplies by the corporation.
+[97] The expenses of the payroll department are incurred in the course of the registrant’s business. All of the registrant’s business constitutes its commercial activity, except to the extent to which the business involves the making of exempt supplies. It can be argued that, since the payroll department is not involved directly in the making of exempt supplies, it is not involved in the portion of the registrant’s business that makes the exempt supplies. If this argument were accepted, then all of the payroll department’s activities would be considered to have occurred in the course of the registrant’s commercial activity. Such an interpretation would allow a registrant who makes both taxable and exempt supplies to claim full input tax credits for indirect costs such as costs incurred by its payroll department.
+[98] Parliament addressed this issue when it added section 141.01 in 1994, retroactive to the introduction of the GST. Subsections 141.01(2) and 141.01(3) clarify that, when determining input tax credits for a registrant involved in both taxable and exempt activities, one must attribute all costs of the registrant to the making of supplies.
+[99] Subsection 141.01(2) sets out a deeming rule that applies on the acquisition of property or a service.59 The subsection reads as follows:
+Where a person acquires or imports property or a service or brings it into a participating province for consumption or use in the course of an endeavour of the person, the person shall, for the purposes of this Part, be deemed to have acquired or imported the property or service or brought it into the province, as the case may be,
+(a) for consumption or use in the course of commercial activities of the person, to the extent that the property or service is acquired, imported or brought into the province by the person for the purpose of making taxable supplies for consideration in the course of that endeavour; and
+(b) for consumption or use otherwise than in the course of commercial activities of the person, to the extent that the property or service is acquired, imported or brought into the province by the person
+(i) for the purpose of making supplies in the course of that endeavour that are not taxable supplies made for consideration, or
+(ii) for a purpose other than the making of supplies in the course of that endeavour.
+[100] Endeavour of a person is defined in subsection 141.01(1) as meaning a business of the person, an adventure or concern in the nature of trade of the person, or the making of a supply of real property of the person.
+[101] For example, the endeavour of a person carrying on a single business is all of the activities of the business, including the making of taxable supplies and the making of exempt supplies.
+[102] Subsection 141.01(2) applies to property or a service acquired60 by the person for consumption or use in the course of the business. Pursuant to paragraph 141.01(2)(a), the person is deemed, for the purposes of the Act, to have acquired the property or service for consumption or use in the course of commercial activities of the person to the extent that the property or service is acquired by the person for the purpose of making taxable supplies for consideration in the course of the business.
+[103] Alternatively, under subparagraph 141.01(2)(b)(i), the person is deemed to have acquired the property or service for consumption or use otherwise than in the course of commercial activities of the person to the extent that the property or service is acquired by the person for the purpose of making supplies in the course of the business that are not taxable supplies made for consideration. Normally, this would be exempt supplies and taxable supplies made for no consideration or nominal consideration.61
+[104] In addition, under subparagraph 141.01(2)(b)(ii), the person is deemed to have acquired the property or service for consumption or use otherwise than in the course of commercial activities of the person to the extent that the property or service is acquired by the person for a purpose other than the making of supplies in the course of the business. This provision applies where a person incurs expenses that do not relate to the person’s business. Normally, such expenses are personal expenses of the owner of the business or a person related to the owner.
+[105] Subsection 141.01(2) looks at the person’s purpose when acquiring the property or service, in other words, the person’s intended consumption or use of the property or service. In particular, it looks to see if the intention was to use the property or service in the making of taxable supplies for consideration, the making of exempt supplies or the making of a combination of such supplies.62 The person is only entitled to claim an input tax credit for tax paid on the property or service to the extent that the person’s intention was to use the property or service in the making of taxable supplies for consideration.
+[106] In my view, if a corporation incurs an expense in the course of its business (endeavour), then the expense will always be incurred for the purpose of making one or more supplies. The purpose of the business is to earn revenue, i.e., to make supplies. Therefore, the result of subsection 141.01(2) is that all costs incurred by a person in the course of the person’s business must be traced to a specific supply or multiple supplies in respect of which the costs were incurred.
+[107] This is a relatively easy exercise for property or services that can be traced directly to the making of a taxable or an exempt supply. The challenge is to trace indirect costs to the various related supplies.
+[108] My view is consistent with the Department of Finance’s February 1994 technical notes, which explain the purpose of section 141.01 with respect to indirect costs as follows:
+Many types of properties and services used in the operation of a business are not directly used in the making of supplies. These may be referred to as “indirect inputs”. Examples include items of overhead and inputs used in the operation of “support” functions of a business such as a personnel department or an internal audit department. The personnel, management, administrative and other support functions of a business are part of what is involved in the making of supplies since these functions are undertaken in order for the business to achieve the ultimate end or purpose of making supplies. . . .
+New section 141.01 is added only to reinforce this concept that the ultimate purpose of making supplies of some kind involves all aspects of the business. The section, in effect, requires an attribution of all costs to the making of supplies. . . .
+[Emphasis added.]
+[109] Subsection 141.01(3) contains identical rules, except that it applies to the actual consumption or use of the property or service rather than the intended consumption or use of the property or service on its acquisition. This subsection is relevant when applying provisions of the GST Act that look at the actual use or consumption of property or a service in a specific period, such as the section 206 change-in-use rules.
+___________________________
+59 It also applies on the importation of property or a service.
+60 The subsection also applies to property or services imported into Canada and property or services brought into a participating province.
+61 Under subsection 141.01(4) property or services acquired for the purpose of making a taxable supply for no consideration or nominal consideration may be deemed to have been acquired for the purpose of making a taxable supply for consideration.
+62In addition to taxable supplies for consideration and exempt supplies, the person may make taxable supplies for no consideration or nominal consideration. Generally speaking, under subsection 141.01(4), such supplies are recharacterized as either taxable supplies for consideration or exempt supplies.
+IV. Respondent’s Position
+[55] In her written argument, the Respondent argued, in the first instance, that the Appellant did not acquire the services of the Third Party Service Providers for consumption, use or supply in the course of commercial activities of the Appellant. In making this argument, she relied upon subsections 169(1) and 141.01(2) and (3).
+[56] She argued that it is possible for an undertaking constituting a “business” or an “endeavour” not to involve the making of supplies.
+[57] Further, even if the Appellant is considered to carry on a “business” under the GST Act, it is not necessarily acquiring property or services in the course of its activities for the purpose (or ultimate purpose) of making supplies.
+[58] The Respondent stated that, when carrying out the MHS Waste Program, the Appellant was discharging its own statutory responsibilities and acting on its own behalf. The Appellant was not providing a service to the MHSW Stewards for GST purposes.
+[59] Since the Appellant did not make a supply of a service to the MHSW Stewards in operating the MHS Waste Program, the Appellant did not, as a result of the application of subsections 141.01(2) and (3), acquire the services of the Third Party Service Providers for consumption, use or supply in the course of commercial activities of the Appellant within the meaning of subsection 169(1) of the ETA, and the Appellant is not entitled to the input tax credits it claimed in its GST return. [24]
+[60] In the alternative, the Respondent argued that the Appellant was not carrying on a “business” or an “endeavour” for the purposes of the GST Act because it did not make supplies to the MHSW Stewards and did not acquire the third party services for the purpose or ultimate purpose of making either a taxable or an exempt supply.
+[61] The Respondent also argued that the fees that the MHSW Stewards were legally required to pay to the Appellant under the rules of the MHS Waste Program (as contemplated by the WD Act) did not constitute consideration for a supply.
+[62] In her oral argument, counsel for the Respondent argued that that the correct interpretation of the relevant provisions of the GST Act is that the Appellant is carrying on a business in the sense that there is an undertaking of some kind, or an activity, but that as a result of the operation of the deeming provisions in subsections 141.01(2) and (3) the Appellant is deemed not to have acquired third party services in the course of a commercial activity.
+[63] The Respondent’s position is not based on an assumption that the Appellant made exempt supplies. Indeed, counsel for the Respondent stated in her oral argument that the Appellant was not making exempt supplies.
+[64] Further, since the Respondent believes that the MHSW Steward Fees do not constitute consideration for a taxable supply, it is the Respondent’s position that such fees are not subject to GST.
+V. Appellant’s Position
+[65] The Appellant’s argument is straightforward: the Appellant’s operation of the MHS Waste Program constitutes a commercial activity and the property and services in question were acquired for consumption, use or supply in the course of this commercial activity. Therefore the Appellant was entitled to claim input tax credits in respect of the GST it paid to the Third Party Service Providers and to WDO. Further, counsel for the Appellant argued that the fees paid by the MHSW Stewards constitute consideration for the taxable supply by the Appellant of services it rendered when operating the MHS Waste Program. As a result, the Appellant was required to collect and remit GST in respect of the MHSW Steward Fees.
+VI. Application of Law to Facts
+[66] This appeal is unique in that the Respondent, while accepting that the Appellant did not make exempt supplies, is arguing that the Appellant should not have collected GST on fees it received from the MHSW Stewards and WDO. At first blush, one may think that this would lead to a loss in tax revenue. However, as I will explain, the Minister’s position actually results in a windfall for the Crown.
+[67] I will begin by determining whether the Appellant was entitled to claim input tax credits under subsection 169(1).
+[68] The Appellant paid the GST at issue in respect of property and services it acquired from the Third Party Service Providers and WDO. The Appellant is entitled to claim input tax credits in respect of such GST if it acquired the property and services for consumption, use or supply in the course of its commercial activities.
+[69] As I noted previously, commercial activity of a person is defined, in part, as being a business carried on by the person except to the extent to which the business involves the making of an exempt supply. Business is broadly defined to include an undertaking of any kind whatever, whether the activity or undertaking is engaged in for profit or not.
+[70] During her oral argument, counsel for the Respondent was reluctant to tell the Court whether she believed the Appellant was carrying on a business. [25] However, after repeatedly being asked by the Court to clarify the Respondent’s position, she eventually admitted that the activities carried on by the Appellant during the relevant period constituted a business.
+[71] The Appellant developed and implemented a very detailed and sophisticated plan to collect, transport, manage, process and recycle the MHS Waste. These activities clearly involved an “undertaking of any kind whatever”. The fact that the Appellant carried on this undertaking on a cost-recovery basis is irrelevant. The undertaking does not have to be carried on for profit to constitute a business under the GST Act.
+[72] In summary, the operation of the MHS Waste Program by the Appellant constituted a business for the purposes of the GST Act. The Respondent admitted that the Appellant did not make exempt supplies during the relevant period. Therefore, all of the activities of the business carried on by the Appellant constituted a commercial activity.
+[73] The evidence before me is that all of the services and property the Appellant acquired from the Third Party Service Providers and WDO were acquired for consumption, use or supply in the operation of the MHS Waste Program. The Third Party Service Providers collectively provided the very services required to carry on the program, namely the collection, transportation, management, processing and recycling of the MHS Waste. In other words, the property and services were acquired by the Appellant solely for consumption, use or supply in the course of its commercial activities.
+[74] The services acquired from WDO appear to be in the nature of administrative services relating to the MHS Waste Program and were acquired solely for consumption or use in the course of the Appellant’s commercial activities.
+[75] As a result, pursuant to subsection 169(1), the Appellant is entitled to claim full input tax credits for the GST paid in respect of the property and services acquired from the Third Party Services Providers and WDO. However, pursuant to subsection 169(1), it is subject to the other provisions of the GST Act, including section 141.01.
+[76] As discussed in my reasons in the University of Calgary Appeal, referred to above, the purpose of section 141.01 is to clarify the application of subsection 169(1) to GST paid on property or services that are not used directly in the making of a specific supply in a situation where the person is making both taxable and exempt supplies. This includes its application to indirect costs and property and services acquired for the purpose of making a taxable supply for no consideration or nominal consideration. The section contains special rules that apply if a supply is made for no consideration or nominal consideration. Generally speaking, property or services that are used in the making of supplies for no consideration or nominal consideration are deemed to be used to make either taxable supplies for consideration or exempt supplies. [26] The section also clarifies that a person is not entitled to claim an input tax credit in respect of expenses that do not relate to the person’s business. [27]
+[77] I would not expect section 141.01 to deny the input tax credits otherwise determined under subsection 169(1) in the situation where a person is only engaged in commercial activities.
+[78] Counsel for the Respondent argued that the Appellant was not supplying anything to a third party; it was merely carrying out its statutory duty to recycle the MHS Waste. Using this assumption, the Respondent argued that the Appellant acquired the property and services from Third Party Service Providers and WDO for a purpose other than the making of supplies in the course of its business. It appears that the Respondent is arguing that, in such a situation, subparagraphs 141.01(2)(b)(ii) and 141.01(3)(b)(ii) deem the Appellant to have acquired the relevant property or service for consumption, use or supply otherwise than in the course of its commercial activities.
+[79] The Respondent is asking me to find that a person who is only engaged in commercial activities is not entitled to claim input tax credits in respect of property and services that it acquired for consumption, use or supply in the course of such commercial activities. Further, the Respondent is asking me to find that the Appellant is not entitled to claim input tax credits, even though another entity (an ISP), which carries on the same commercial activity involving the same designated waste, is entitled to claim input tax credits.
+[80] I do not accept the Respondent’s argument.
+[81] The portions of section 141.01 that apply are paragraphs 141.01(2)(a) and 141.01(3)(a). As I explained in my reasons in the University of Calgary Appeal, paragraph 141.01(2)(a) deems property and services to have been acquired for consumption or use in the course of a commercial activity of the person, if the property and services were acquired by the person for the purpose of making taxable supplies for consideration. Paragraph 141.01(3)(a) contains identical rules, except that it applies to the actual consumption or use of the property or service.
+[82] In my view, these sections apply to the fact situation before me, since all of the property and services acquired by the Appellant from the Third Party Service Providers either were acquired for the purpose of making taxable supplies for consideration or were consumed or used in the making of taxable supplies for consideration.
+VII. Taxable Supply Made by the Appellant
+[83] A taxable supply is defined in subsection 123(1) of the GST Act as a supply made in the course of a commercial activity.
+[84] A supply is defined in subsection 123(1) as the provision of property or a service in any manner, including sale, transfer, barter, exchange, licence, rental, lease, gift or disposition. The words property and service are also defined in the GST legislation. [28]
+[85] Property is defined to mean any property, whether real or personal, movable or immovable, tangible or intangible, corporeal or incorporeal, including a right or interest of any kind whatever but not including money.
+[86] A service is defined even more broadly to mean anything other than property, money and certain services supplied to an employer by an employee, an officer and certain other persons. The definition of service is extremely broad. If something is not property, money or what one could call an “employee service”, then it will be deemed to be a service.
+[87] As a result of the broad definitions of supply, property and service, the provision of anything in any manner will constitute a supply.
+[88] When the Appellant collects the MHS Waste through its vast collection network and then manages the waste to ensure that it is either recycled or safely disposed of by the Third Party Service Providers, it is providing something. That something is the service of collecting, recycling and/or safely disposing of the MHS Waste (the “Recycling Services”). In fact, the Appellant operates the MHS Waste Program for the purpose of providing the Recycling Services.
+[89] The Appellant provides the Recycling Services to the persons who physically possessed the MHS Waste prior to its collection by the Appellant and to the MHSW Stewards, who, as I will discuss, had a statutory obligation to incur the cost of collecting and recycling the MHS Waste. Since the Appellant provided a service, it made a supply.
+[90] I will now turn to the Respondent’s argument that the Appellant was not supplying anything to a third party because it was carrying out its statutory duty to recycle the MHS Waste.
+[91] This argument fails for two reasons. First, the only question that is relevant when determining whether a person made a supply is whether the person provided something. The reason why a person provided the something is irrelevant when one is attempting to determine whether a person has, as a question of fact, made a supply.
+[92] The question in the current appeal is not whether the Appellant had a statutory duty to collect, recycle and/or dispose of the MHS Waste but rather whether, when collecting, recycling and/or disposing of the MHS Waste, the Appellant provided something. As I have just discussed, the Appellant did, as a question of fact, provide something: the Recycling Services.
+[93] The second reason the Respondent’s argument fails is the fact that the Appellant, when providing the Recycling Services, was not doing so pursuant to a statutory duty, rather it was supplying the services in the course of implementing and operating the MHS Waste Program pursuant to the MHS Waste Program Agreement. [29]
+[94] Pursuant to subsection 23(1) of the WD Act, it is WDO, not the Appellant, that has the statutory duty to develop a waste diversion program with respect to designated waste. Further, pursuant to subsection 25(3) of the WD Act the industry funding organization that is chosen to develop the program in co‑operation with WDO, does not implement and operate the program pursuant to a statutory mandate, but rather implements and operates the program pursuant to the terms of the program agreement.
+[95] The industry funding organization is in the same position as an ISP, which may, pursuant to section 34 of the WD Act, develop, implement and operate a waste diversion program for the same designated waste. The only difference between the industry funding organization and an ISP is that the ISP develops the waste diversion program on its own, while the industry funding organization assists WDO in developing the program.
+[96] In summary, during the relevant period, when implementing and operating the MHS Waste Program the Appellant made supplies of the Recycling Services. The Appellant made such supplies in the course of its business and commercial activity and thus the supplies constituted taxable supplies.
+[97] The Respondent, in her written submissions, refers to certain portions of the decision of the Supreme Court of Canada in Calgary (City) v. Canada, [30] (“Calgary v. Canada”) to support her position that the Appellant did not make any supplies. In particular, she refers to the parts of the decision that discuss certain statutory provisions relating to the City of Calgary’s operation of its transit system and certain agreements between the City and the Province of Alberta.
+[98] I do not find these parts of the Supreme Court of Canada decision helpful in deciding the issue of whether or not the Appellant in this appeal made a supply. The Supreme Court of Canada in Calgary v. Canada was not deciding whether the City of Calgary made at least one supply; rather its decision addressed the issue of whether the City made a single exempt supply or both an exempt supply and a taxable supply.
+[99] The City of Calgary argued that it made two supplies. The first supply, which it called “public transit services”, it provided in operating its transit facilities. This was an exempt supply. The second supply, which it called “transit facilities services”, it provided in acquiring and constructing the transit facilities and making them available to the citizens of Calgary. The City argued that this second supply was a taxable supply. [31]
+[100] The Supreme Court of Canada first applied the test developed by this Court in O.A. Brown Ltd. v. Canada [32] to determine whether the City of Calgary made a single supply or multiple supplies. After applying this test, the Court reached the following conclusion:
+In my opinion, the true nature of the City’s “transit facilities services”, a determination to be made with common sense, was work of a preparatory nature to the supply of a municipal transit service to the public. Transit facilities were constructed, acquired, and made available in order to supply a municipal transit service to the Calgary public. This would point to the allegedly separate “transit facilities services” being in fact a component of the overall supply of “public transit services” to the Calgary public. [33]
+[101] As a result, the Supreme Court of Canada concluded that the application of the test for a single supply versus multiple supplies indicated that there was a single supply. However, before reaching a final conclusion, it considered other relevant factors. Specifically, it considered the nature of the respective obligations of the City of Calgary and the Province of Alberta under certain agreements, “having regard to the statutory context”. [34]
+[102] After considering certain statutory provisions that applied to the City of Calgary’s operation of its transit system and after considering certain agreements between the City of Calgary and the Province of Alberta, the Supreme Court of Canada confirmed its earlier conclusion that the City of Calgary only made a single supply. It stated the following:
+Following the jurisprudence on single or multiple supplies, the construction and acquisition of the transit facilities were inputs into the supply of the municipal transit service to the public. In addition, nothing in the applicable statutes, and nothing in the Agreements, indicates that there was a separate supply of “transit facilities services” by the City to the Province. For these reasons, there was only one supply by the City in this case, the supply of a municipal transit service. [35]
+[103] The Supreme Court of Canada’s analysis of the agreements between the City of Calgary and the Province of Alberta and its discussion of the relevant statutory provisions must be read in their context. The Court conducted this analysis to determine whether the City of Calgary made multiple supplies; it did not conduct this analysis to determine whether the City of Calgary made at least one supply. In fact, the Supreme Court of Canada’s analysis is based on the assumption that the City of Calgary did, as a question of fact, make at least one supply, the exempt supply of a municipal transit service to the public.
+VIII. Consideration for the Taxable Supply Made by the Appellant
+[104] Relying primarily on the definition of consideration contained in subsection 123(1) of the GST Act, the Appellant argues that the MHSW Steward Fees constitute consideration for the taxable supply by the Appellant of the Recycling Services.
+[105] The Respondent argues that the MHSW Steward Fees are not consideration but rather are a regulatory charge that is not a user fee. At paragraph 87 of her written argument, the Respondent states the following:
+These types of regulatory charges are to be distinguished from user fees. A user fee is a fee charged by the government for the use of government services or facilities. By contrast, regulatory charges are not imposed for the provision of specific services or facilities. They are normally imposed in relation to rights or privileges awarded or granted by the government. The funds collected under the regulatory scheme are used to finance the scheme or alter individual behaviour. . . .
+[106] I agree with the Appellant; the MHSW Steward Fees were consideration for the taxable supply by the Appellant of the Recycling Services.
+[107] Consideration is defined in subsection 123(1) of the GST Act to include any amount that is payable for a supply by operation of law.
+[108] The MHSW Steward Fees are payable by the MHSW Stewards to the Appellant by operation of law. Specifically, section 30 and subsections 31(1) and 34(6) of the WD Act provide that if a person has a commercial connection with designated waste or a product from which the designated waste is derived that person (i.e., a steward) must pay a portion of the Appellant’s cost of developing, implementing and operating a waste diversion program in respect of the designated waste, unless the person joins an ISP or has its own approved waste diversion program.
+[109] Further, such fees are payable for a supply made by the Appellant. Once a person is found to have, under the MHS Waste Program Agreement, the required commercial connection with the MHS Waste, the person is deemed to be an MHSW Steward. In my view, the result of the application of sections 30 to 34 of the WD Act is that once the person becomes an MHSW Steward that person is required to pay the costs of collecting and recycling the designated waste.
+[110] This flows from sections 30 to 34 of the WD Act, which provide that, in the first instance, an MHSW Steward can avoid paying fees to any third party in respect of designated waste if it operates an approved waste diversion program. In other words, if it itself incurs the costs of collecting and recycling and/or safely disposing of the MHS Waste.
+[111] If the MHSW Steward does not wish to operate its own program then it has two options. One option is to retain and pay an ISP to provide the service of collecting, recycling and/or safely disposing of the MHS Waste pursuant to a waste diversion program approved by WDO. If the MHSW Steward does not join a program operated by an ISP then it must join the MHS Waste Program and, in effect, retain the Appellant to collect, recycle and/or safely dispose of the MHS Waste. In either case, a third party (either an ISP or the Appellant) provides (i.e. supplies) the service of collecting, recycling and/or safely disposing of the MHS Waste. [36]
+[112] If the MHSW Steward joins the MHS Waste Program, then the Appellant provides the waste diversion services and the MHSW Steward is required, by subsection 31(1) of the WD Act, to pay the MHSW Steward Fees for the supply of such services. As a result, the fees are paid by operation of law for the supply and are deemed, for GST purposes, to be consideration for the supply.
+[113] The method used to calculate the MHSW Steward Fee evidences that the MHS Stewards are required to pay the fees for the supply of the Recycling Services. The WD Act provides that the fees paid by a steward to an industry funding organization, such as the Appellant, should fairly reflect the proportion of the costs of developing, implementing and operating the waste diversion program that is attributable to the particular steward. [37]
+[114] The Appellant followed the provisions of the WD Act by basing the fee paid by an individual MHSW Steward on the quantity of product generating the waste that the steward sold or otherwise distributed into the Ontario market and on an estimate of the amount of MHS Waste generated from the product that was collected by the Appellant. As Ms. Kennedy testified when explaining the method the Appellant used to set the MHSW Steward Fees:
+Basically it's [the method the Appellant used] about connecting the costs associated with the program for the collection, transportation, processing, and administration of the program and dividing that by the total material that is sold into the marketplace, and then multiply it by the individual stewards’ [sic] material that they sell into the marketplace.
+. . .
+It’s [an MHSW Steward Fee] is proportionate to their [the MHSW Stewards] material sold into the marketplace. So there’s a connection between the volumes they produce, generate and sell, and what they pay. [38]
+[115] In short, the fee is an estimate of the costs the Appellant incurred in collecting and recycling the MHS Waste with which the steward has a commercial connection under the WD Act.
+IX. Conclusion
+[116] For the foregoing reasons, I find that the Appellant made a taxable supply of the Recycling Services and that the MHS Stewards paid consideration (i.e., the MHSW Steward Fee) for the supply. Further, the Appellant acquired the relevant property and services from the Third Party Service Providers and WDO for the purpose of making taxable supplies, for consideration, of the Recycling Services. Therefore, pursuant to subsection 169(1), the Appellant was entitled to claim input tax credits in respect of the GST paid on the consideration for the property and services it acquired from the Third Party Service Providers and WDO.
+[117] While this disposes of the issues before me, I will address two other arguments/issues raised by the parties.
+[118] The parties discussed who was the recipient of the supply of the Appellant’s services. The identity of the recipient of the supply is not determinative of the issue of whether the Appellant made a supply for consideration. However, I will briefly address the issue.
+[119] Under paragraph (b) of the definition of recipient in subsection 123(1) of the GST Act, the MHS Stewards are deemed to be recipients of the supply since they were the persons who were liable to pay the consideration for the supply.
+[120] The second issue I wish to address is the reference at the commencement of the Respondent’s written argument to the often-quoted passage, from the Supreme Court of Canada’s decision in Canada Trustco Mortgage Co. v. Canada, [39] stating that the words of an Act are to be read in their entire context and in their grammatical and ordinary sense harmoniously with the scheme of the Act, the object of the Act, and the intention of Parliament.
+[121] The difficulty that I have is that the Respondent is asking me to interpret the relevant provisions of the GST Act in a way that would defeat two of the primary objectives of the GST Act, which are to “prevent the cascading of GST, and to allow the obligation to pay GST to flow through to the ultimate consumer.” [40]
+[122] For example, in 2011, the Appellant incurred direct costs to operate the MHS Waste Program of approximately $50 million. [41] I assume it paid 13% HST (GST at the 13% HST rate) on the $50 million, or $6.5 million.
+[123] Under the decision of the Court, the GST will apply all along the production and distribution chain as follows:
+- The Appellant is entitled to claim an input tax credit for the $6.5 million paid on the consideration for the direct costs. Therefore, the Appellant’s net cost to operate the program is $50 million.
+- The Appellant recovers the direct costs by charging MHSW Steward Fees of $50 million plus $6.5 million of HST. The MHSW Stewards are entitled to claim input tax credits for the $6.5 million of HST paid to the Appellant, since they acquired the services rendered by the Appellant in the course of their commercial activity of selling the related products, for example, the motor oil sold by oil and gas companies such as Mr. Reed’s employer, Shell Canada. Therefore the MHSW Stewards’ net cost of the MHSW Steward Fees is $50 million.
+- The MHSW Stewards recover the costs of the MHSW Steward Fees by increasing the selling price of their products. If it is assumed that they increase the selling price of their products by the amount of the MHSW Steward Fees, then the MHSW Stewards will charge and collect $6.5 million of HST on the $50 million increase in the cost of their product.
+- If one further assumes that persons purchase the products of the MHSW Stewards for their own personal consumption and not for use in a GST commercial activity (i.e. are the final consumers of the product), then those persons will not be entitled to claim input tax credits for the $6.5 million of HST paid to the MHSW Stewards.
+[124] As a result, as intended by Parliament, the HST of $6.5 million on the $50 million of costs incurred by the Appellant flows through to the ultimate consumer. In addition, there is no tax on tax, i.e., tax cascading.
+[125] The following occurs under the position taken by the Minister when assessing the Appellant:
+- The Appellant is not entitled to claim input tax credits for the HST it paid in respect of its $50 million of direct costs and does not charge GST on the MHSW Steward Fee. Therefore, the Appellant’s net cost to operate the MHS Waste Program is $56.5 million ($50 million plus $6.5 million of non-refundable HST paid to its suppliers).
+- The Appellant recovers the direct costs by charging MHSW Steward Fees of $56.5 million. The MHSW Stewards are not entitled to claim any input tax credits in respect of the fees, since the Appellant did not charge GST, and all of the $56.5 million is therefore consideration.
+- The MHSW Stewards recover the cost of the MHSW Steward Fees by increasing the selling price of their products by $56.5 million. The MHSW Stewards will collect and remit HST of $7.345 million (13% of $56.5 million) on the increase in the cost of their products.
+- If one assumes, again, that the MHSW Stewards’ products are purchased by persons for their own personal consumption and not for use in a GST commercial activity, then those persons (the final consumer of the product) will not be entitled to claim input tax credits in respect of the $7.345 million of HST paid to the MHSW Stewards.
+[126] The Minister’s position results in total tax of $13.845 million. The tax is paid by both the final consumer of the product and by the Appellant. Further the Minister’s position results in tax cascading (tax on tax), since the MHSW Stewards must charge GST on $56.5 million, $6.5 million of which represents the tax paid by the Appellant.
+[127] Clearly the Minister’s assessing position defeats two of the primary objectives of the GST Act. It also results in a windfall to the government of $7.345 million.
+[128] For the foregoing reasons the appeal is allowed, with costs, and the assessment made under the GST Act for the Appellant’s reporting period of August 1, 2013 to August 31, 2013 is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the Appellant is entitled to the input tax credits of $17,962,034.55 that it claimed in its GST return for the reporting period.
+[129] The parties will have 30 days from the date of this judgment to arrive at an agreement on costs, failing which they are directed to file their written submissions on costs within 60 days of the date of this judgment. Such submissions shall not exceed 15 pages.
+Signed at Ottawa, Canada, this 21st day of March 2018.
+“S. D’Arcy”
+D'Arcy J.
+CITATION:
+2018 TCC 59
+COURT FILE NO.:
+2014-2460(GST)G
+STYLE OF CAUSE:
+STEWARDSHIP ONTARIO v. HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+November 14, 15 and 16, 2017
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Steven K. D'Arcy
+DATE OF JUDGMENT:
+March 21, 2018
+APPEARANCES:
+Counsel for the Appellant:
+W. Jack Millar
+Bryan Horrigan
+Counsel for the Respondent:
+Marilyn Vardy
+Darren Prevost
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+W. Jack Millar
+Ka Yuk (Jenny) Siu
+Firm:
+Millar Kreklewetz LLP
+Toronto, Ontario
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] S.O. 2002, c. 6.
+[2] WD Act, sections 3 and 5.
+[3] Defined in subsection 2(1) as the Minister of Environment and Energy or such other member of the Executive Council as may be assigned the administration of the WD Act under the Executive Council Act.
+[4] WD Act, sections 23 and 24 and subsection 2(1).
+[5] WD Act, subsection 25(1).
+[6] WD Act, subsection 25(3).
+[7] WD Act, subsection 26(1).
+[8] WD Act, subsection 29(1).
+[9] WD Act, sections 30 and 31.
+[10] Exhibit AR-2, page 1.
+[11] Exhibits AR-3 and AR-4.
+[12] Exhibit AR-2, pages 1 and 2.
+[13] Ibid., page 2.
+[14] Exhibit AR-3, pages 9 and 11.
+[15] Exhibit AR-3, page 8.
+[16] Transcript, page 32.
+[17] Exhibit AR-3, page 74.
+[18] Exhibit AR-4, pages 17, 18 and 19, including definitions of MHSM Steward’s Report and Supplied.
+[19] Exhibit AR-4, page 34.
+[20] Exhibit AR-3, page 106.
+[21] Exhibit AR-10.
+[22] Appellant’s Read-ins from Examination for Discovery, page 72.
+[23] 2015 TCC 321 (CanLII).
+[24] See Respondent’s written argument, paragraphs 3, 5, and 52 to 62.
+[25] Transcript, pages 306-311.
+[26] See subsection 141.01(4).
+[27] This is the effect of paragraph 141.01(2)(b)(ii) discussed in the University of Calgary Appeal.
+[28] Subsection 123(1).
+[29] See Exhibit AR-4, pages 1 and 6.
+[30] [2012] 1 S.C.R. 689, 2012 SCC 20.
+[31] Calgary v. Canada, at paragraph 26.
+[32] [1995] G.S.T.C. 40 (TCC).
+[33] Calgary v. Canada, at paragraph 43.
+[34] Ibid, at paragraph 46.
+[35] Ibid, at paragraph 60.
+[36] I recognize that during the relevant period there were no ISPs in operation. However, the legislative structure existed for such ISPs and stewards could have elected, as they did in later years, to jointly form an ISP.
+[37] WD Act, sections 30 and 31 costs include costs incurred by WDO in carrying out its responsibilities under the WD Act.
+[38] Transcript, pages 43 and 45.
+[39] [2005] 2 S.C.R. 601, 2005 SCC 54, at paragraph 10.
+[40] Calgary (City) v. Canada, [2012] 1 S.C.R. 689, 2012 SCC 20, at paragraph 16.
+[41] Exhibit AR-18, page 46.

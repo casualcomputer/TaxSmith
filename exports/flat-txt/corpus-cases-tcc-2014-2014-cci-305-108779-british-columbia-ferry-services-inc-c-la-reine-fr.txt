@@ -1,0 +1,1470 @@
+Title: British Columbia Ferry Services inc. c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/108779/index.do
+Corpus path: corpus/cases/tcc/2014/2014-cci-305-108779-british-columbia-ferry-services-inc-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2014-10-14
+
+# British Columbia Ferry Services inc. c. La Reine
+
+- Citation: 2014 CCI 305
+- Decision date: 2014-10-14
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2846, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+British Columbia Ferry Services inc. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2014-10-14
+Référence neutre
+2014 CCI 305
+Numéro de dossier
+2008-1600(GST)G, 2013-4206(GST)G
+Juges et Officiers taxateurs
+Diane Campbell
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossiers : 2008-1600(GST)G
+2013-4206(GST)G
+ENTRE :
+BRITISH COLUMBIA FERRY SERVICES INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appels entendus les 3, 4, 5 et 6 juin 2014, à Nanaimo (Colombie‑Britannique)
+Devant : L'honorable juge Diane Campbell
+Comparutions :
+Avocats de l'appelante :
+Me Kimberley L. Cook
+Me Asif Abdulla
+Avocats de l'intimée :
+Me Ron D.F. Wilhelm
+Me Michael Taylor
+JUGEMENT
+Les appels interjetés à l'encontre des cotisations établies au titre de la partie IX de la Loi sur la taxe d'accise, pour la période allant du 2 avril 2003 au 30 juin 2005 et pour la période de mars 2007, sont accueillis en partie, et les cotisations sont renvoyées au ministre du Revenu national pour nouvel examen et nouvelles cotisations, compte tenu de ce qui suit :
+1. British Columbia Ferry Services Inc. (« BCF ») a le droit de demander des crédits de taxe sur les intrants (« CTI ») conformément à la méthode « pont par pont » qu'elle a choisie pour la répartition des intrants, c'est‑à‑dire que les ponts d'infrastructure servant à la direction et à la propulsion des navires exploités à des fins commerciales ont été classés à juste titre comme biens utilisés pour la réalisation de fournitures tant taxables qu'exonérées.
+2. La fourniture de locations de cabines constitue une fourniture taxable pour laquelle des CTI peuvent être demandés. De plus, étant donné que les périodes normales de nouvelle cotisation ont expiré, le ministre ne peut retenir les CTI que BCF a demandés à l'égard des locations de cabines en compensation de la TPS que BCF n'a pas perçue.
+3. BCF n'a pas le droit de demander des CTI à l'égard du carburant et des lubrifiants.
+4. BCF n'a droit à aucun des CTI qu'elle a demandés à l'égard de l'acquisition et de l'importation du navire « Northern Adventure ».
+Étant donné que les deux parties ont partiellement gain de cause, aucuns dépens ne sont adjugés.
+Signé à Ottawa, Canada, ce 14e jour d'octobre 2014.
+« Diane Campbell »
+La juge Campbell
+Traduction certifiée conforme
+ce 7e jour de mai 2015.
+Yves Bellefeuille, réviseur
+Référence : 2014 CCI 305
+Date : 20141014
+Dossiers : 2008-1600(GST)G
+2013-4206(GST)G
+ENTRE :
+BRITISH COLUMBIA FERRY SERVICES INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Campbell
+Introduction [1] La société British Columbia Ferry Services Inc. (« BCF ») exploite et administre l'une des flottes de traversiers les plus importantes et les plus complexes au monde, eu égard au nombre de passagers transportés chaque année et à l'infrastructure de transport connexe (pièce A‑1, onglet 2). Sur quelques‑uns de ses circuits, le long de la côte de la Colombie‑Britannique, BCF fournit seulement le service de transport par traversier, qui constitue une fourniture exonérée. Sur d'autres circuits, en plus de ce service de base, BCF fournit également certains services commerciaux ou accessoires, qui constituent des fournitures taxables.
+[2] Les services accessoires comprennent les éléments suivants :
+[TRADUCTION]
+10. [...]
+a) restauration (restaurants libres‑services, casse‑croûtes, cafétérias);
+b) bars‑salons spéciaux (p. ex., le salon Seawest et le salon Raven??? [sic] sur les circuits du Nord);
+c) boutique de vente au détail;
+d) fauteuils de massage;
+e) locations de cabines (navires du Nord et navires de type « Spirit »);
+f) locations de salles de conférences;
+g) distributrices (pour tous les traversiers);
+h) salles de jeux électroniques;
+i) guichets automatiques;
+j) publicité de tiers.
+(Mémoire de l'appelante, partie 1, paragraphe 10)
+[3] BCF a le droit de demander des crédits de taxe sur les intrants (« CTI »), mais seulement dans la mesure où les intrants sont utilisés afin de réaliser les fournitures taxables en question, soit les activités commerciales accessoires. Cependant, le ministre du Revenu national (le « ministre ») s'est opposé à la façon dont BCF avait réparti certains intrants entre ses fournitures taxables et ses fournitures exonérées. Les périodes de déclaration mensuelles de la taxe sur les produits et services (« TPS ») qui sont en cause sont les périodes allant du 2 avril 2003 au 30 juin 2005 (la « première période ») et la période de mars 2007 (la « deuxième période ») (collectivement, les « périodes »).
+[4] Plusieurs questions ont été soulevées dans les présents appels. La première concernait la classification des ponts d'infrastructure et des cabines situées sur quelques-uns des traversiers. Alors que le ministre a considéré ces fournitures comme des fournitures exonérées, BCF a estimé que les ponts où se trouvait l'équipement de propulsion et de direction, ainsi que les ponts où les cabines de nuit étaient situées, concernaient des activités visant à fournir un service mixte qui est à la fois taxable et exonéré. De plus, BCF a considéré le pont du traversier Northern Adventure où se trouvaient les cabines comme une fourniture taxable. Les CTI que BCF a demandés à l'égard du carburant et des lubrifiants étaient également contestés. BCF a soutenu que le carburant était un intrant destiné à un usage mixte, qui avait été acquis et consommé dans la réalisation de fournitures tant taxables qu'exonérées. Le ministre a fait valoir que le carburant et les lubrifiants avaient été acquis et consommés presque en totalité pour la prestation du service de transport par traversier, soit une fourniture exonérée. Enfin, BCF a demandé des CTI équivalant à 100 p. 100 de la TPS versée pour l'acquisition et l'importation du navire Northern Adventure, estimant que plus de 50 p. 100 de la superficie du navire servait à la réalisation d'une fourniture taxable. Le ministre a répondu que le navire en question avait été acquis principalement pour la prestation d'un service de transport par traversier, lequel était exonéré, de sorte que BCF n'avait droit à aucun des CTI qu'elle avait demandés.
+Les faits [5] Les parties ont déposé un exposé conjoint des faits, que j'ai joint aux présents motifs en tant qu'annexe A.
+A. BCF [6] BCF fournissait des services de traversier de base pour véhicules et passagers sur 35 circuits le long de la côte de la Colombie-Britannique, à l'aide de 37 navires et de 47 terminaux.
+[7] De 1977 jusqu'en avril 2003, BCF était une société d'État provinciale qui n'était pas assujettie à la TPS. Le 2 avril 2003, BCF a été constituée en société par suite d'une conversion, conformément à la loi intitulée Coastal Ferry Act (Loi sur les traversiers côtiers), S.B.C. 2003, ch. 14 (la « CFA »). Cette loi a eu pour effet de redéfinir le cadre légal de l'exploitation du réseau de traversiers de la province. Lorsque BCF a été convertie en société conformément à la loi intitulée Business Corporations Act (Loi sur les sociétés par actions) de la Colombie‑Britannique, elle est devenue assujettie aux taxes et impôts fédéraux, y compris la TPS.
+B. La British Columbia Ferry Authority [8] Sous le régime de la CFA, la société British Columbia Ferry Authority (« BCFA »), personne morale sans capital‑actions et à but non lucratif, a été constituée. Les administrateurs de BCFA ont également agi en qualité d'administrateurs de BCF. Par conséquent, BCFA possède et contrôle BCF. Advenant la dissolution de BCFA, tous les biens de celle‑ci, le cas échéant, seraient dévolus à la province. Les rapports annuels et les assemblées générales de BCFA devaient être publics.
+[9] Aux termes des lois provinciales, les activités de BCF sont séparées en ce qui concerne la prestation de services de traversier de base et la prestation de services commerciaux accessoires à bord de certains navires. La CFA définit les services de transport par traversier comme [TRADUCTION] « le transport de véhicules et de passagers par traversier sur des circuits désignés », mais exclut explicitement les services accessoires (CFA, partie 1, « Interpretation » (Interprétation)). Le régime de réglementation prévu dans la CFA s'applique aux services de traversier de base que BCF assure, mais non aux services accessoires qu'elle fournit. Cela s'explique par le fait que, lorsque BCF est passée d'une société d'État à une société privée, elle devait exploiter le réseau de traversiers d'une manière viable sur le plan commercial.
+C. Le Coastal Ferry Services Contract [10] BCF poursuit ses activités dans un environnement fortement réglementé. Lorsqu'elle a été constituée en société en 2003, elle a conclu avec la province le Coastal Ferry Services Contract (contrat de services de traversier côtiers) (le « contrat »). Ce contrat régissait l'exploitation et les activités du réseau de traversiers de la province et prévoyait le paiement par celle‑ci de frais de service à BCF en échange, notamment, de la prestation de services de traversier de base. Selon la CFA, BCF devait exploiter ses services de traversier d'une manière viable sur le plan commercial. Par conséquent, bien qu'elle dût être indépendante du gouvernement, elle devait poursuivre ses activités sur une base commerciale (page 1 du contrat). Ce même contrat énonçait également un certain nombre d'interdictions. Ainsi, BCF ne pouvait, sans le consentement de la province, céder le contrat ou modifier l'horaire des traversiers ou les niveaux de services de base. Si le contrat était résilié pour une raison ou pour une autre, les droits accordés à BCF aux termes du contrat ou de la CFA seraient dévolus à la province.
+D. Le commissaire aux traversiers de la Colombie‑Britannique [11] En vertu de la CFA, le conseil des ministres de la Colombie‑Britannique a nommé un commissaire chargé de réglementer la prestation par BCF de services de traversier de base et d'établir un plafond à l'égard des tarifs qui pouvaient être exigés pour ces services. Cependant, le commissaire n'avait aucun pouvoir de réglementation à l'égard des services accessoires fournis par BCF, même s'il possédait par ailleurs des pouvoirs étendus pour réglementer les services de traversier assurés par BCF. En résumé, la prestation de ces services de base est assujettie non seulement à la loi provinciale, soit la CFA, mais également aux exigences de la société mère, BCFA, aux modalités du contrat conclu avec la province et aux règlements de son surveillant, le commissaire. Bien que BCF fournisse des services commerciaux accessoires à bord de quelques‑uns de ses traversiers afin de subventionner les services de transport de base, il est explicitement interdit au commissaire de réglementer ces services accessoires. De façon générale, BCF a le droit de demander des CTI relativement à la TPS versée sur ses intrants, dans la mesure où ceux‑ci ont été acquis pour consommation, utilisation ou fourniture lors des activités accessoires ou commerciales.
+E. La méthode de répartition de BCF [12] Si un intrant avait été utilisé directement et exclusivement pour ses activités commerciales, BCF avait le droit de demander le plein montant du CTI s'y rapportant. Dans la même veine, si un intrant avait été utilisé directement et exclusivement pour ses activités exonérées, BCF n'avait pas le droit de demander de CTI. Lorsque BCF était incapable d'imputer directement ses intrants à des fournitures taxables, elle avait le droit de choisir une méthode « juste et raisonnable » pour répartir les CTI mixtes entre ses fournitures taxables et exonérées. À l'origine, du 2 avril 2003 au 31 mai 2005, BCF a employé la méthode des extrants pour calculer le pourcentage de ses activités se rapportant à des fournitures taxables afin de déterminer les CTI auxquels elle avait droit. Selon cette méthode, [TRADUCTION] « le montant des revenus taxables découlant des services accessoires était imputé de façon proportionnelle aux revenus exonérés du service de traversier de base pour chaque circuit. Ces montants étaient ensuite répartis au prorata de manière à déterminer un pourcentage global qui a ensuite été imputé aux intrants associés aux frais d'exploitation généraux (p. ex., dépenses du siège social, etc.) » (mémoire de l'appelante, paragraphe 61).
+[13] En 2005, suivant les conseils d'un consultant en matière fiscale, BCF est passée à la méthode des intrants pour déterminer la répartition de ses CTI. Dans la mesure du possible, BCF imputait directement à des fournitures exonérées ou taxables les éléments qu'elle considérait comme des intrants à vocation unique. BCF a attribué le coût des marchandises vendues au détail — nourriture ou autres — et les dépenses liées aux services alimentaires et aux services de vente au détail ainsi qu'aux terrains de stationnement payants des terminaux à ses activités taxables, et a demandé et obtenu à leur égard 100 p. 100 des CTI pour lesquels la TPS avait été payée. BCF a ensuite calculé un pourcentage des fournitures taxables pour chaque navire et pour chaque terminal afin de répartir les intrants à vocations multiples, ou intrants mixtes, entre les activités taxables et les activités exonérées. Les différents ponts des navires pertinents et les superficies de chacun des terminaux qu'a utilisés BCF ont été classés dans l'une des trois catégories suivantes : espaces exonérés servant uniquement à la réalisation de fournitures exonérées, espaces taxables servant uniquement à la réalisation de fournitures taxables, et espaces mixtes servant à la réalisation de fournitures tant taxables qu'exonérées.
+[14] Dans le cas des terminaux, BCF a calculé la superficie des espaces qui étaient consacrés à chacune de ces trois catégories de fournitures. Les espaces pour les stationnements payants, les boutiques de vente au détail et les restaurants ont été classés dans la catégorie des fournitures taxables, tandis que les aires de circulation et les aires d'attente pour les automobiles et les passagers ont été considérées comme des espaces servant à la réalisation de fournitures exonérées. Les espaces des terminaux liés aux immeubles administratifs et les immeubles abritant le matériel électrique, ainsi que les aires de stationnement des employés, ont été considérés comme des espaces mixtes. L'intimée n'a pas contesté le droit de BCF à des CTI selon cette méthode de répartition en ce qui concerne les terminaux de l'entreprise.
+[15] Le pourcentage des espaces des traversiers correspondant à une utilisation taxable a été calculé à l'aide d'une méthode « pont par pont ». Chaque pont des navires a été classé dans l'une des trois catégories susmentionnées, soit comme une fourniture taxable, exonérée ou mixte, après quoi toute la superficie du pont en question a été attribuée à cette catégorie.
+[16] Le ministre n'a pas nié que la méthode « pont par pont » était juste et raisonnable. La contestation porte plutôt sur la façon dont BCF a classé quelques‑uns des ponts de certains navires.
+[17] La classification par BCF des ponts des voitures dans la catégorie des fournitures exonérées ou des ponts des passagers dans la catégorie des fournitures taxables, lorsque des services accessoires étaient fournis, n'est pas contestée. Cependant, la classification des ponts d'infrastructure et des ponts des cabines a été contestée.
+F. La classification des ponts d'infrastructure et des ponts des cabines [18] BCF a classé les ponts où se trouvait l'équipement d'infrastructure, c'est‑à‑dire l'équipement de propulsion et de direction, dans la catégorie des fournitures mixtes, parce qu'ils constituaient à la fois un intrant direct et indirect servant à la prestation de services accessoires. La fourniture de cabines a été considérée comme une fourniture taxable. Le ministre a soutenu que la classification faite par BCF n'était ni juste ni raisonnable et que tous les ponts en question servaient à l'exécution de services exonérés liés aux services de traversier de base, pour lesquels aucun CTI ne pouvait être demandé.
+[19] BCF a calculé le pourcentage de l'espace de chaque navire et de chaque terminal servant à la réalisation de fournitures taxables à l'aide de la formule suivante :
+superficie taxable totale en mètres carrés
+× 100
+superficie totale – aire commune totale
+(exposé conjoint des faits, paragraphe 71)
+[20] À l'aide de cette formule, BCF a déterminé que le pourcentage d'utilisation taxable de 13 navires et de 11 terminaux était inférieur à 10 p. 100. Par conséquent, elle n'avait pas le droit de demander de CTI excédant ceux qui découlaient des attributions directes qu'elle avait faites. Dans le cas des autres traversiers et terminaux, BCF a demandé des CTI en se fondant sur les pourcentages d'utilisation taxable qu'elle avait déterminés pour chacun à l'aide de la formule.
+G. Le carburant et les lubrifiants [21] BCF a soutenu que la consommation de carburant a un double objet. En plus de servir à la propulsion des navires, le carburant contribue à la prestation de services accessoires, parce que ces activités commerciales nécessitent du poids et de l'espace supplémentaires à bord des navires. Par conséquent, le carburant ne sert pas en entier à des fins de propulsion. Étant donné que le carburant et les lubrifiants peuvent être considérés comme des intrants mixtes dans la réalisation de fournitures tant taxables qu'exonérées, BCF a demandé des CTI correspondant au pourcentage des activités commerciales poursuivies à bord de chaque navire.
+[22] Pour sa part, le ministre a fait valoir que ces éléments constituaient des intrants à vocation unique, consommés presque en totalité pour la propulsion des navires et que, par conséquent, ils concernaient la fourniture de services de traversier qui étaient exonérés.
+H. L'importation du traversier Northern Adventure [23] Lorsque le navire Queen of the North a coulé en mars 2006, BCF a entrepris des recherches pour trouver un autre navire pour ses circuits du Nord. En l'absence d'un navire de rechange, BCF ne pourrait remplir ses obligations contractuelles envers la province, soit fournir des services de traversier de base. En juillet 2006, BCF a demandé et obtenu du commissaire une déclaration concernant la dépense d'une somme de 233 millions de dollars pour l'acquisition d'un navire de rechange. En octobre 2006, le navire Northern Adventure a été acheté à une société étrangère.
+[24] Les parties ont convenu que le navire Northern Adventure était une immobilisation qui devait être affectée aux circuits du Nord. Lorsqu'un inscrit importe une immobilisation, il peut demander 100 p. 100 du CTI s'y rapportant, pourvu que le bien ait été acquis « principalement » en vue d'être utilisé pour ses activités commerciales. Cependant, si le bien a été acquis et importé « principalement » pour utilisation dans des activités exonérées, aucun CTI ne pourra être demandé.
+[25] Le navire Northern Adventure a été acheté au coût de 51 millions de dollars et importé au Canada en mars 2007. BCF a versé environ 13,1 millions de dollars en droits de douane et 3,9 millions de dollars au titre de la TPS. BCF a demandé et obtenu du gouvernement fédéral la remise des droits de douane. De plus, elle a demandé des CTI de 3,9 millions de dollars, faisant valoir que le navire Northern Adventure avait été importé principalement pour être utilisé lors d'activités commerciales puisque, conformément au calcul découlant de la méthode de répartition, elle avait utilisé plus de 50 p. 100 de l'espace du navire dans la réalisation de ses fournitures taxables. Le ministre a répondu que le navire avait été importé principalement pour utilisation dans la fourniture de services de traversier, lesquels étaient exonérés, de sorte qu'aucun CTI ne pouvait être demandé.
+La preuve [26] BCF s'est fondée sur le témoignage de James Murray, son contrôleur, et sur celui de Mark Collins, son vice‑président responsable de l'ingénierie, qui occupent tous deux leur poste depuis 2004. Quant à l'intimée, elle a fait témoigner Richard Young et Annette Coles, les vérificateurs respectivement responsables des vérifications de la première période et de la deuxième période.
+[27] Monsieur Murray a expliqué que la conversion de BCF, qui était auparavant une société d'État, visait à améliorer la façon dont elle engageait des dépenses en capital dans le réseau de traversiers. En tant que société d'État, il n'était pas facile pour elle d'accroître ce type de dépenses, parce qu'elle devait faire face, lors de ses demandes de financement, à d'autres priorités provinciales, comme les soins de santé, qui étaient considérées comme des questions plus urgentes. Tout au long des périodes visées par l'appel, les revenus avaient augmenté, grâce en bonne partie aux services accessoires. Ainsi, au cours de l'exercice terminé le 31 mars 2006, les revenus découlant des ventes au détail sont passés de 63,2 millions de dollars, en 2004, à 68,8 millions de dollars (pièce A‑1, onglet 4). Le nombre d'employés affectés à la prestation des services accessoires montre bien la place importante de ceux-ci dans les activités de BCF. [TRADUCTION] « Au fil des années, environ la moitié des membres de l'équipage à bord des navires utilisés pour les circuits commerciaux importants est affectée directement et exclusivement à la prestation de services commerciaux » (pièce A‑4, onglet 8).
+[28] Monsieur Murray a expliqué ainsi le lien entre la propulsion des navires et les activités commerciales poursuivies à bord :
+[TRADUCTION]
+Si les navires ne se déplacent pas, les clients ne viendront pas. Nous ne vendrons pas quoi que ce soit à bord de nos navires ou dans nos terminaux.
+(Transcription, volume 1, page 95)
+Essentiellement, le déplacement des navires le long des circuits permet à BCF de bénéficier d'un renouvellement élevé de la clientèle et de créer un marché captif à bord des navires pendant le parcours. Ces facteurs favorisent grandement la vente de services accessoires qui sont offerts à bord de certains navires. En raison de ce lien, la méthode de répartition de BCF a entraîné la classification de tous les ponts d'infrastructure comme des fournitures mixtes, bien que M. Murray ait reconnu qu'aucune activité commerciale n'était effectivement poursuivie sur ces ponts (transcription, volume 2, page 193).
+[29] Selon M. Murray, ce lien entre la propulsion du navire et l'activité commerciale était également la raison pour laquelle BCF a demandé des CTI à l'égard du carburant et des lubrifiants, soit le coût le plus important qu'elle engage pour exploiter ses navires, hormis les salaires :
+[TRADUCTION]
+Bien, nous — nous avons demandé des crédits de taxe sur les intrants pour le carburant et les lubrifiants en raison de l'importance du — du fait que le navire se déplace du point A au point B. Sans ce déplacement, il n'y a pas de clients. Sans ce déplacement, nous ne vendons rien.
+(Transcription, volume 1, page 92)
+[30] Cependant, en contre‑interrogatoire, M. Murray a admis que le carburant servait principalement à la propulsion des traversiers (transcription, volume 2, page 201).
+[31] En ce qui concerne les locations des cabines, M. Murray a affirmé qu'elles ne faisaient pas partie des services de traversier et n'étaient pas facturées aux passagers comme élément du coût du service de base :
+[TRADUCTION]
+[...] Ce sont des frais supplémentaires. Ces frais ne sont pas assujettis à la réglementation du commissaire aux traversiers, de sorte que ce service ne fait pas partie des services de base. Il s'agit d'un service accessoire.
+[...] L'achat d'une cabine est entièrement facultatif.
+(Transcription, volume 1, page 96)
+[32] Le témoignage de Mark Collins était surtout technique. Ce témoin a expliqué que la conception et l'exploitation des navires de BCF en cause étaient inextricablement liées au niveau de services accessoires offerts à bord de chaque navire. L'ajout de services accessoires augmente de manière exponentielle la complexité de la conception et de l'exploitation du navire. Dans tous les cas, les navires sont plus gros et plus lourds et sont dotés de systèmes plus complexes afin qu'il soit possible de fournir des services commerciaux accessoires à bord. Ainsi, les systèmes d'alimentation en eau et en électricité des navires offrant des services accessoires importants seront beaucoup plus lourds et complexes que les systèmes correspondants des navires à bord desquels aucune activité commerciale n'est poursuivie. Par conséquent, une plus grande quantité de carburant sera consommée sur les navires offrant des services accessoires, parce que ces activités entraînent une plus grande consommation d'énergie.
+[33] Cependant, M. Collins a reconnu qu'il serait difficile de déterminer la consommation en carburant d'un élément ou système donné de la salle des machines. Il n'existe aucune méthode de ventilation permettant de calculer la quantité de carburant que nécessitent les services accessoires.
+[34] En contre-interrogatoire, M. Collins a admis que les ponts d'infrastructure servaient principalement à assurer le transport. Néanmoins, il ressort de son témoignage que, jusqu'à un certain point, ces ponts soutiennent l'exécution de services accessoires à bord de chaque navire.
+[35] Richard Young, le vérificateur nommé pour la première période, a affirmé que les ponts d'infrastructure sont classés à juste titre dans la catégorie des fournitures exonérées, parce que l'infrastructure complète existerait indépendamment des activités commerciales poursuivies à bord du navire. Annette Coles était la vérificatrice de la deuxième période, notamment en ce qui concerne l'importation du Northern Adventure. À son avis, l'acquisition de ce navire visait à assurer le respect des conditions du contrat, soit la prestation de services de traversier, même si des activités taxables ont été poursuivies à bord du navire.
+Les points en litige [36] La première question à trancher est de savoir si BCF a utilisé une méthode juste et raisonnable pour répartir les CTI entre ses fournitures taxables et ses fournitures exonérées en ce qui concerne les ponts d'infrastructure de ses navires pour la première période. Pour répondre à cette question, il faut établir si les ponts d'infrastructure devraient être considérés comme des éléments mixtes en ce qu'ils servent à la réalisation de fournitures tant taxables qu'exonérées. De plus, il faut savoir si la location des cabines peut être considérée comme une fourniture taxable. Dans l'affirmative, il faudra examiner l'argument de l'intimée selon lequel les CTI que BCF a demandés devraient être retenus en compensation de la TPS qu'elle n'a pas perçue.
+[37] Par la suite, il faut savoir si BCF a droit à des CTI pour le carburant et les lubrifiants consommés dans l'exploitation des navires pour la première période. À cet égard, il est impératif d'établir si BCF a acquis et consommé le carburant et les lubrifiants « presque en totalité » pour effectuer uniquement une fourniture exonérée ou pour effectuer tant des fournitures taxables que des fournitures exonérées.
+[38] La dernière question à trancher est de savoir si BCF a droit à des CTI relativement à l'acquisition et à l'importation du navire Northern Adventure. Pour trancher cette question, il faut savoir si le navire a été importé pour être utilisé « principalement » pour des activités commerciales, selon la méthode quantitative de répartition « pont par pont » utilisée par BCF, ou s'il a été importé en vue d'être utilisé principalement pour l'exécution de services de traversier, lesquels constituent des fournitures exonérées.
+Analyse A. Le cadre légal et la jurisprudence [39] Les points en litige dans les présents appels sont régis principalement par les dispositions suivantes de la Loi sur la taxe d'accise (la « Loi »), soit le paragraphe 169(1), l'article 141, l'article 141.01 et l'alinéa 199(2)a). De plus, les définitions des expressions « activité commerciale », « fourniture exonérée » et « logement provisoire », qui figurent à l'article 123, sont également pertinentes. L'appelante s'est également fondée sur le paragraphe 1 de la partie VIII de l'annexe V de la Loi pour étayer sa position au sujet de l'acquisition du navire Northern Adventure.
+[40] Par ailleurs, certaines dispositions de la CFA s'appliquent aux points en litige.
+[41] La TPS est considérée comme une taxe à la consommation destinée à être payée par le consommateur final des produits ou des services. Le paragraphe 165(1) constitue la disposition clé en matière d'assujettissement à cet égard. Dans CIBC World Markets Inc. c. La Reine, 2011 CAF 270, [2013] 3 R.C.F. 3, [2011] A.C.F. no 1378 (QL), aux paragraphes 7 à 15, la Cour d'appel fédérale a résumé le régime général et l'objet de la disposition de la Loi relative à la TPS :
+(2) La disposition clé en matière d'assujettissement : le paragraphe 165(1) de la Loi
+[7] Le paragraphe 165(1) de la Loi énonce une règle générale : ceux qui reçoivent des services ou des biens, comme des produits, dans le cadre d'une activité commerciale (appelés dans la Loi une « fourniture taxable ») sont tenus de payer la TPS.
+(3) Qui est assujetti à la TPS
+[8] La règle générale exposée au paragraphe 165(1) de la Loi s'applique à tous, même à ceux qui ne sont pas les consommateurs finaux.
+[9] Plus précisément, chaque acquéreur de biens et services taxables est potentiellement tenu de payer la TPS, même si, en tant qu'intermédiaire, il livre au bout du compte ces biens et services à d'autres. À titre d'exemple, un grossiste peut fournir des biens à un détaillant qui les fournit à son tour à un consommateur. Le détaillant est tenu de payer la TPS en vertu de la règle générale prévue au paragraphe 165(1).
+[10] Si le mécanisme s'arrêtait là, la TPS perdrait sa nature de taxe à la consommation imposée aux consommateurs finaux de biens et de services. Elle s'attacherait, pleinement, à chaque partie dans une série de transactions culminant avec la réception finale par les consommateurs.
+(4) Crédit de taxe sur les intrants : le concept général
+[11] La Loi empêche cette conséquence en donnant aux parties des crédits pour les « intrants » qu'elles reçoivent.
+[12] À titre d'exemple, en vue de vendre des produits à des consommateurs, un détaillant peut recevoir des « intrants », tels que des stocks. Le détaillant a besoin de ces « intrants » pour effectuer une fourniture de biens au consommateur. Selon l'activité commerciale particulière, il peut y avoir toutes sortes d'« intrants » nécessaires.
+[13] Évidemment, si dans l'exemple ci-dessus le détaillant ne recevait pas un crédit pour la TPS payée sur les intrants nécessaires pour effectuer une fourniture taxable de produits à un consommateur, la TPS serait imposée en entier au détaillant et, du reste, à tous les intermédiaires dans la chaîne de distribution. Si cela se produisait, la TPS perdrait sa nature de taxe à la consommation imposée au consommateur final de biens et de services.
+[14] Pour réaliser l'objet de taxer les consommateurs finaux de biens et de services, la Loi autorise des crédits de taxe pour les intrants que les parties reçoivent en vue d'effectuer une fourniture taxable. Ces crédits sont appelés crédits de taxe sur les intrants.
+[15] Comme nous l'avons vu, ces crédits de taxe sur les intrants permettent de préserver le caractère fondamental de la TPS à titre de taxe à la consommation imposée aux consommateurs finaux. Selon les mots du ministre (Agence du revenu du Canada, Série des mémorandums sur la TPS/TVH, 8.1 : Règles générales d'admissibilité, mai 2005, au paragraphe 1) :
+Selon un principe fondamental sous-tendant la TPS/TVH, aucune taxe ne devrait être incorporée dans le prix de biens et de services qu'un inscrit acquiert, importe ou transfère dans une province participante en vue d'effectuer des fournitures taxables [...] dans le cadre de ses activités commerciales. Afin de voir à ce qu'un bien ou un service consommé, utilisé ou fourni dans le cadre d'activités commerciales ne soit pas assujetti à la TPS/TVH, les inscrits ont le droit de demander un CTI pour la TPS/TVH payée ou exigible sur un tel bien ou service. Les CTI permettent donc à chaque inscrit de récupérer la taxe engagée à son étape du processus de production et de distribution.
+[42] La règle générale énoncée au paragraphe 165(1) s'applique à tous les inscrits, même aux intermédiaires qui ne sont pas des consommateurs finaux. Par exemple, un grossiste peut fournir des biens à un détaillant, qui devra payer la TPS sur ces marchandises, mais qui les vendra à son tour à un consommateur. Afin de préserver le caractère fondamental de la TPS à titre de taxe à la consommation imposée aux consommateurs finaux des produits ou services, la Loi autorise des crédits de taxe pour les « intrants » que les parties reçoivent en vue d'effectuer une fourniture taxable. La règle générale qui s'applique au calcul des CTI est énoncée au paragraphe 169(1) de la Loi. Essentiellement, si l'inscrit fournit uniquement des services taxables, il aura droit à 100 p. 100 des CTI utilisés ou consommés dans la réalisation de ces fournitures. Si seules des fournitures exonérées sont effectuées, aucun CTI ne pourra être demandé.
+[43] Il est également possible que les inscrits effectuent tant des fournitures taxables que des fournitures exonérées. Étant donné que des CTI pourront encore être demandés à l'égard des produits et services requis et utilisés pour la réalisation de la partie taxable des fournitures, la Loi permet aux inscrits d'adopter une méthode d'allocation ou de répartition. Cela signifie que tout élément de l'entreprise qui consiste dans la réalisation de fournitures exonérées doit être « considéré à part » pour les besoins de la TPS. Le paragraphe 141.01(5) de la Loi permet aux inscrits d'adopter les méthodes de leur choix, pourvu qu'elles soient « justes et raisonnables » et qu'elles soient « suivies tout au long d'un exercice ». Bien que la Loi ne comporte aucune ligne directrice au sujet du choix de la méthode d'allocation, il est bien certain que, selon les circonstances, y compris l'objet pour lequel l'intrant a été acquis, les méthodes ne sont pas toutes acceptables. De toute évidence, il s'agit là d'une question de fait.
+[44] De plus, il existe deux dispositions déterminatives qui sont pertinentes en ce qui concerne les demandes de CTI. D'abord, selon l'article 141, la consommation ou l'utilisation d'un bien ou d'un service est réputée se faire en totalité dans le cadre d'une activité donnée, taxable ou exonérée, si elle se fait presque en totalité dans ce cadre. Selon l'Agence du revenu du Canada (l'« ARC »), l'expression « presque en totalité » signifie au moins 90 p. 100. En général, si 90 p. 100 d'un bien ou d'un service est utilisé ou destiné à être utilisé dans le cadre d'activités taxables ou exonérées, il sera réputé être utilisé en totalité dans le cadre de cette activité. En deuxième lieu, le paragraphe 199(2) l'emporte sur le paragraphe 169(1) en ce qui concerne les CTI demandés au titre de l'acquisition ou de l'importation d'immobilisations. Si ces biens ont été acquis ou importés « principalement » en vue d'être utilisés dans le cadre d'une activité commerciale, l'inscrit aura le droit de demander la totalité des CTI. Dans le cas contraire, l'inscrit n'aura droit à aucun CTI. Le mot « principalement » a été interprété comme signifiant « plus de 50 p. 100 » ou « premier en importance ».
+[45] Dans Ville de Magog c. La Reine, 2001 CAF 210, [2001] A.C.F. no 1259 (QL), le juge Noël a décidé que, bien que la Loi ne précise pas la méthode de répartition à utiliser pour l'application du paragraphe 141.01(5), l'inscrit sera autorisé à choisir une méthode qui lui permet de répartir les CTI, pourvu qu'elle soit juste et raisonnable. Au paragraphe 17, le juge Noël a formulé les commentaires suivants :
+[17] À cet égard, il est important de souligner que la Loi n'oblige pas l'appelante à mettre en place les systèmes comptables qui lui permettraient de départager chaque bien et chaque service qui est consommé ou utilisé dans le cadre de ses activités mixtes. Le législateur était conscient du fait qu'une telle imposition pourrait engendrer des frais d'assujettissement qui dépassent la taxe prélevée. Il a donc laissé au contribuable le soin de choisir une méthode convenable tout en exigeant que la méthode choisie soit « juste et raisonnable ».
+[46] La seule condition préalable est la suivante : la méthode choisie doit être juste et raisonnable, eu égard à l'ensemble des circonstances. Cependant, il n'est pas obligatoire que l'inscrit choisisse la « meilleure » méthode de répartition possible. Ces principes ont été commentés en détail dans Bay Ferries Limited c. La Reine, 2004 CCI 663, [2004] A.C.I. no 507 (QL), où l'appelante exploitait un service de traversiers semblable, mais non identique, à celui des présents appels. Dans Bay Ferries, la Cour a formulé les commentaires suivants, aux paragraphes 39 à 41 :
+[39] Le ministre ne peut substituer sa propre formule de répartition simplement parce qu'elle semble plus représentative de la situation ou meilleure. Ce raisonnement établit le degré de respect qu'il faut accorder au contribuable dans le choix d'une méthode juste et raisonnable.
+[40] Bien entendu, je crois qu'un contribuable doit toujours être en mesure d'expliquer de manière satisfaisante que la méthode choisie est effectivement juste, raisonnable et appliquée tout au long de l'exercice. Toutefois, s'il est capable de le faire, le paragraphe 141.01(5) accorde à l'inscrit une vaste latitude dans le choix de la méthode, pourvu qu'il puisse établir qu'elle était juste et raisonnable. Cela implique que la méthode choisie reflétera l'utilisation réelle du bien et des services ainsi que la manière dont l'entreprise exerce ses activités en général.
+[41] La Loi ne prescrit aucune méthode en guise de ligne directrice. Encore une fois, il faut examiner les faits dans chaque cas. Il est généralement reconnu que la méthode privilégiée est la répartition directe, lorsque le bien ou le service peut être directement rattaché aux activités. La méthode de répartition directe produira les résultats les plus exacts. Dans certaines circonstances, elle ne peut être appliquée. Il n'était pas faisable pour l'appelante en l'espèce de se servir de la répartition directe en raison des frais généraux partagés.
+[47] Pour conclure, dans Bay Ferries, que la méthode que l'appelante avait choisie pour répartir ses activités entre les fournitures taxables et les fournitures exonérées était juste et raisonnable, la Cour a établi quatre lignes directrices. D'abord, ce sont les faits qui déterminent si une formule de répartition choisie par un inscrit est juste et raisonnable (paragraphe 6). En deuxième lieu, compte tenu de l'arrêt Magog, il n'est pas nécessaire de décider si la méthode choisie par le ministre ou le contribuable est la meilleure ou la plus appropriée, mais simplement si la méthode choisie par le contribuable est juste et raisonnable (paragraphe 37). En troisième lieu, il faut accorder un certain degré de respect au contribuable dans le choix d'une méthode juste et raisonnable qui est appliquée tout au long de l'exercice (paragraphe 39). En quatrième lieu, malgré ce respect, un contribuable doit toujours être en mesure d'expliquer de manière satisfaisante que la méthode choisie est effectivement juste, raisonnable et appliquée tout au long de l'exercice. La méthode choisie doit refléter l'utilisation réelle du bien et des services ainsi que la manière dont l'entreprise exerce ses activités en général (paragraphe 40).
+[48] Dans Municipalité régionale de comté des Îles‑de‑la‑Madeleine c. La Reine, 2006 CCI 235, [2006] A.C.I. no 166 (QL), la Cour s'est fondée sur le raisonnement suivi dans Magog et Bay Ferries pour conclure qu'il n'est pas nécessaire que la méthode choisie soit parfaite et que la méthode en question ne peut être rejetée au seul motif qu'il ne s'agissait pas de la méthode idéale. La Cour a ajouté que le caractère raisonnable et la justesse d'une méthode revêtent une « dimension subjective » (paragraphe 78).
+B. Les ponts d'infrastructure [49] En ce qui concerne les appels dont je suis saisie, la question est de savoir si la classification des ponts d'infrastructure par BCF est juste et raisonnable. Une méthode de répartition juste et raisonnable devrait traduire de façon réaliste l'utilisation réelle des biens et des services ainsi que la façon dont BCF exerce ses activités de manière générale. Tant l'appelante que l'intimée ont convenu que la méthode « pont par pont » choisie par BCF était juste et raisonnable. Cependant, les parties ne s'entendent pas sur la classification de quelques‑uns des ponts, soit sur la question de savoir s'il est juste et raisonnable de considérer les ponts d'infrastructure servant à la propulsion et à la direction des navires à bord desquels des activités commerciales sont exercées comme des intrants utilisés dans la réalisation tant de fournitures taxables que de fournitures exonérées.
+[50] BCF a considéré les ponts d'infrastructure comme des biens servant à la réalisation de fournitures mixtes et a soutenu qu'un lien direct existait entre l'activité de propulsion et les activités commerciales poursuivies à bord de chaque navire. BCF estime que ses activités sont entièrement intégrées, mais que, par suite de la méthode qu'elle a utilisée pour répartir les fournitures et demander des CTI, les activités servant à la réalisation des éléments exonérés ont été considérées à part, ce qui a donné lieu à une répartition juste et raisonnable. Par conséquent, la propulsion des navires en cause n'a pas lieu de façon isolée par rapport aux activités commerciales exercées à bord de ceux‑ci.
+[51] BCF a admis qu'elle n'aura pas droit à des CTI pour les navires dont la propulsion a lieu de façon isolée par rapport aux activités commerciales. Cependant, dans le cas des navires en cause, un lien direct existe entre les services de transport par traversier et les fournitures taxables connexes.
+[52] L'intimée a fait valoir que la méthode de répartition de BCF ne reflétait pas de façon raisonnable l'utilisation réelle des ponts d'infrastructure en question. Par conséquent, les CTI demandés à l'égard des ponts en question ne reflétaient pas de façon raisonnable l'utilisation réelle de ceux-ci ou la manière dont BCF avait exercé ses activités commerciales. En contre‑interrogatoire, M. Murray a admis qu'aucune activité commerciale n'était effectivement exercée sur ces ponts d'infrastructure. Par conséquent, l'intimée a soutenu que ces ponts n'avaient rien à voir avec les activités commerciales en question et que leur inclusion déformait la réalité financière de celles‑ci.
+[53] Pour sa part, BCF a invoqué le témoignage de M. Murray, qui a affirmé que la propulsion et la direction soutiennent les activités commerciales poursuivies à bord d'un navire en créant un renouvellement élevé de la clientèle et un marché captif. C'est pourquoi BCF a classé tous les ponts d'infrastructure de ces navires comme des biens mixtes utilisés dans la réalisation d'activités tant taxables qu'exonérées, parce qu'ils sont essentiels à la prestation des services à bord.
+[54] Le paragraphe 141.01(5) porte sur la répartition entre les fournitures taxables et les fournitures exonérées lorsque l'inscrit poursuit les deux types d'activités. Cette disposition est liée au paragraphe 169(1), qui permet de demander des CTI uniquement dans la mesure où les biens ou services en question ont été acquis en vue d'être consommés ou utilisés dans le cadre d'une activité commerciale. La méthode choisie doit permettre de restreindre de façon juste et raisonnable, tout au long de l'exercice, les CTI demandés à ceux qui correspondent aux produits et aux services acquis ou utilisés dans la réalisation de fournitures taxables. Cette méthode doit refléter l'utilisation réelle des biens et des services et la façon dont l'entreprise exerce ses activités. De plus, elle ne doit pas déformer la réalité financière de l'activité commerciale (Bay Ferries, au paragraphe 40).
+[55] Par conséquent, l'intrant doit contribuer à la production finale de la fourniture taxable. L'arrêt rendu dans Midland Hutterian Brethren c. La Reine, 2000 CanLII 16725, [2000] A.C.F. no 2098 (QL) (C.A.F.), portait sur le niveau de contribution minimal. La question à trancher était de savoir si une colonie religieuse pouvait demander un CTI correspondant à 50 p. 100 de la TPS engagée à l'égard du tissu utilisé pour faire tant les vêtements d'église des membres que les vêtements de travail employés pour le travail agricole de la colonie. Autorisant la colonie à demander un CTI pour le tissu servant à faire les vêtements de travail, la Cour d'appel fédérale a formulé ainsi la question en litige, au paragraphe 2 :
+[...] Il n'est pas contesté que l'appelante exerce une activité commerciale, savoir l'exploitation d'une entreprise agricole, et qu'elle produit des fournitures non exonérées. Le litige porte sur la question de savoir si le tissu est utilisé dans le cadre de ses activités commerciales. La question à déterminer est celle du caractère indirect. Quelle doit être la proximité entre la dépense et la production d'une fourniture pour qu'on puisse réclamer un CTI? [Non souligné dans l'original.]
+[56] Une fois qu'il est déterminé qu'un élément est acquis et utilisé pour une activité commerciale d'un inscrit à la TPS et que cet élément contribue directement ou indirectement à la production d'articles ou à la prestation de services qui constituent des fournitures taxables, un CTI pourra être demandé à l'aide d'une formule qui respecte les exigences du paragraphe 141.01(5) de la Loi.
+[57] Même si je conviens avec l'intimée que les ponts d'infrastructure servent principalement à la propulsion des navires et qu'ils soutiennent, de ce fait, des services exonérés, il ressort de la preuve non contredite qu'une partie de ces ponts est indirectement liée aux activités commerciales que BCF exerce à bord des navires et qu'elle est même nécessaire pour ces activités. La preuve permet de conclure à l'existence d'un lien entre les ponts où se trouve l'équipement de propulsion, de direction et d'infrastructure et les activités commerciales de BCF. Les services accessoires fournis à bord des navires ne pourraient être offerts en l'absence de l'équipement et des systèmes situés sur les ponts d'infrastructure. Selon la preuve non contredite de M. Murray et de M. Collins, les ponts en cause soutiennent l'ensemble de l'exploitation du navire et non seulement sa propulsion. La plupart des ponts en question sont situés sous les ponts des passagers de chaque navire. Bien que ces ponts soient dotés, dans tous les cas, de systèmes de chauffage, d'égout et d'alimentation en eau, la preuve montre que, dans le cas des navires à bord desquels des activités commerciales sont exercées, ces systèmes sont spécialement conçus et adaptés, eu égard à leurs dimensions et à leur poids, pour accommoder les exigences supplémentaires inhérentes à ces activités. Ces navires sont construits sur mesure ou comportent déjà ces structures particulières lorsqu'ils sont achetés, de sorte que les activités commerciales puissent y être exercées. Plus l'éventail des activités commerciales exercées sur un navire est large, plus les besoins seront élevés en ce qui concerne des éléments comme l'électricité, le chauffage, la climatisation, l'eau, les égouts, la superficie des ponts et la stabilité générale du navire. Ainsi, de plus grands réservoirs d'eau seront nécessaires si le navire est doté de restaurants et ces réservoirs devront être entretenus séparément des réservoirs d'eau utilisés ailleurs sur le navire, parce que les usages prévus sont différents. En revanche, lorsqu'aucune activité commerciale n'est exercée à bord du navire, des réservoirs d'eau qui sont plus petits et moins nombreux et dont la capacité de pompage est plus réduite suffiront, car ces réservoirs serviront probablement à fournir de l'eau pour quelques salles de toilette seulement. M. Collins a également expliqué que les espaces vides ou les espaces ouverts de la coque du navire doivent avoir un volume supérieur afin de soutenir les activités commerciales, parce qu'ils ajoutent du poids au navire. Ces espaces ouverts sont essentiels pour la flottabilité et sont donc liés au poids du navire.
+[58] Dans les décisions rendues à ce sujet, un certain respect est accordé à la méthode choisie par l'inscrit. Il n'est pas nécessaire que la méthode choisie soit la meilleure méthode disponible ou que son application soit infaillible. Le ministre ne peut non plus substituer une méthode de son choix uniquement parce qu'elle semble plus représentative de l'utilisation réelle d'un intrant. Le critère applicable est la question de savoir si la méthode de répartition est juste et raisonnable, et non s'il s'agit de la meilleure de toutes les méthodes possibles.
+[59] Selon la preuve, un élément central du plan d'entreprise de BCF réside dans les activités accessoires. Des investissements de capitaux importants ont été faits pour la prestation de ces services. Sur de nombreux circuits, près de la moitié des membres de l'équipage sont affectés à la prestation de ces services. Au cours des dernières années, une certaine augmentation des dépenses moyennes par passager a été observée. Sauf dans le cas des navires exploités sur les circuits du Nord, l'utilisation taxable calculée selon la méthode choisie par BCF oscille entre 18 p. 100 et 30 p. 100. Compte tenu de la preuve non contredite dont j'ai été saisie au sujet de l'importance cruciale que revêtent les activités accessoires exercées à bord des navires en question, et eu égard à l'ensemble des faits, ces pourcentages reflètent une méthode de répartition juste et raisonnable employée dans l'exploitation d'une entreprise importante et complexe qui effectue tant des fournitures taxables que des fournitures exonérées intégrées dans les systèmes de chacun des navires. Il n'est certainement pas déraisonnable de conclure que ces ponts soutiennent non seulement les systèmes de transport, mais également les activités accessoires, et l'application de la méthode ne donne pas lieu non plus à des demandes de CTI injustes ou déraisonnables.
+[60] Il se pourrait qu'une méthode de répartition plus fiable existe dans les circonstances, mais ma tâche ne consiste pas à déterminer la meilleure méthode ou à substituer mon opinion ou celle du ministre à celle de l'inscrit. Tant que la méthode est juste et raisonnable dans les circonstances, qu'elle ne déforme pas la réalité commerciale des activités de BCF et qu'elle reflète raisonnablement l'utilisation des navires, la classification des ponts d'infrastructure dans les intrants mixtes, rattachés directement et indirectement aux activités commerciales exercées à bord, sera autorisée.
+C. Les cabines [61] L'intimée a soutenu que la location de cabines constituait une fourniture exonérée, parce qu'elle faisait partie de la fourniture unique de services de traversier. BCF a répondu qu'il s'agissait d'une fourniture séparée et taxable, car, en tant que fourniture facultative, la location de cabines ne faisait pas partie intégrante des services de base assurés.
+[62] Dans O.A. Brown Ltd. c. Canada, [1995] A.C.I. no 678 (QL), le juge en chef adjoint Rip (tel était alors son titre) s'est attardé au critère à appliquer pour savoir si un fournisseur a effectué une fourniture unique ou des fournitures multiples, et la Cour suprême du Canada a également confirmé récemment ce critère dans Calgary (Ville) c. Canada, 2012 CSC 20, [2012] 1 R.C.S. 689. Le critère adopté dans O.A. Brown était de savoir si, au fond et en réalité, la fourniture séparée alléguée faisait partie intégrante de la fourniture globale. Citant la décision rendue dans O.A. Brown, la Cour suprême du Canada a formulé les commentaires suivants, aux paragraphes 36 à 38 de l'arrêt Calgary (Ville) :
+[36] Pour arriver à sa conclusion, le juge Rip a fait observer ce qui suit :
+... il faudrait se demander dans quelle mesure les services qui constitueraient [...] une fourniture unique sont liés les uns aux autres, quelle est l'étendue de leur interdépendance et de leur enchevêtrement, et si chaque service fait partie intégrante d'un ensemble [composite]... [par. 22]
+(Citant Mercantile Contracts Ltd. c. Customs & Excise Commissioners, dossier no LON/88/786, R.‑U. (non publié).)
+[37] Le juge Rip a également relevé l'importance de s'en remettre au bon sens pour trancher. Dans Gin Max Enterprises Inc. c. La Reine, 2007 CCI 223 (CanLII), le juge McArthur, également de la Cour de l'impôt, a opiné dans le même sens :
+L'examen de la jurisprudence révèle que la question de savoir si deux éléments forment une fourniture unique ou deux ou de multiples fournitures exige une analyse de la nature véritable des opérations, et il s'agit d'une question de fait tranchée avec une généreuse dose de bon sens. [par. 18]
+[38] Au regard du critère, le juge Rip a conclu que les frais et la commission n'avaient pas été exigés pour des services qui constituaient des « fournitures distinctes, indépendantes de l'activité dans son ensemble » (par. 29). Les activités d'achat, de marquage, d'inoculation et autres ne formaient un service utile que si elles étaient considérées ensemble. Il a conclu :
+Au fond et en réalité, la [prétendue] fourniture séparée, soit un service d'achat, fait partie intégrante de la fourniture globale, à savoir la fourniture de bétail. Il n'est pas possible, en réalité, d'enlever de la fourniture globale les [prétendues] fournitures séparées car celles-ci constituent en fait l'essence de cette fourniture. Les [prétendues] fournitures séparées sont liées à la fourniture de bétail à un point tel qu'elles font partie intégrante de l'ensemble au complet. [...] L'appelante effectue une fourniture unique de bétail et la commission et les [frais] exigés font partie intégrante de la contrepartie y afférente. Ils n'équivalent pas à des fournitures séparées. [par. 29]
+[63] À l'inverse, une des caractéristiques des fournitures multiples est le fait que chaque fourniture séparée alléguée peut être achetée isolément tout en conservant son utilité. Ainsi que l'a expliqué le juge en chef adjoint Rip dans O.A. Brown, aux paragraphes 22 et 23 :
+[22] Un facteur à prendre en considération est de savoir s'il est possible, en réalité, d'enlever de la fourniture globale la présumée fourniture séparée. Ce facteur n'est pas concluant [...].
+[23] [...] Dans chaque cas, il est utile de se demander s'il serait possible d'acheter chacun des divers éléments séparément et d'obtenir néanmoins un article ou service utile. Car si cela n'est pas possible, alors il faut nécessairement conclure qu'une fourniture mixte qui ne peut pas être divisée aux fins de la taxe est en cause.
+[64] Appliquant aux faits dont je suis saisie le critère qui a été énoncé dans O.A. Brown et que la Cour suprême du Canada a adopté dans Calgary (Ville), je dois me demander si, au fond et en réalité, la fourniture séparée alléguée de la location de cabines fait partie intégrante ou est un élément constitutif de la fourniture globale des services de traversier.
+[65] Je suis d'avis que la fourniture de locations de cabines constitue une fourniture séparée. Le bon sens veut que la prestation de services de traversier demeure une fourniture utile et valable, malgré l'absence de la location de cabines. Les cabines ne constituent pas une composante essentielle de la fourniture globale de services de transport. En fait, il n'y a pas suffisamment de cabines pour tous les passagers, si tous les passagers d'un circuit donné souhaitaient louer une cabine. Il est possible d'enlever la location de cabines de la fourniture de services de traversier, ce qui se produit fréquemment. Il n'est que logique de conclure que la fourniture de cabines doit être une fourniture séparée. Il serait possible d'acheter séparément cette fourniture et d'obtenir néanmoins un service utile pour un passager donné. La location de cabines est un produit autonome et indépendant du service de transport par traversier. Le degré d'interdépendance est tellement minime qu'il est très facile de considérer ces fournitures de cabines comme des éléments distincts de la fourniture de services de transport que le passager obtient du point A au point B. La location de cabines est visée par la définition de l'expression « logement provisoire » énoncée dans la Loi et, en tout état de cause, il est possible de séparer facilement ce service de la fourniture globale et d'offrir néanmoins un produit ou service utile et intact.
+[66] Vu la conclusion selon laquelle les locations de cabines constituent une fourniture séparée des services de traversier, s'agit‑il d'une fourniture taxable ou exonérée? Selon le témoignage de M. Collins, il existe ailleurs de nombreux services de traversier dont les circuits sont semblables à ceux qu'offre BCF quant à la durée, mais qui ne comportent pas la location de cabines. De plus, les dispositions de la CFA appuient la conclusion selon laquelle les locations de cabines constituent une fourniture taxable. La CFA considère en effet les locations de cabines comme un service accessoire qui n'est pas directement rattaché au transport de passagers et de véhicules. Contrairement aux frais du service de traversier de base, le coût de la location de cabines n'est pas réglementé par le commissaire. L'appelante a accordé beaucoup d'importance à cette loi provinciale. Dans Angels of Flight Canada Inc. c. La Reine, 2009 CCI 279, [2009] A.C.I. no 192 (QL), le juge Jorré a conclu qu'il faut accorder de l'importance aux lois provinciales lors de l'interprétation des dispositions de la Loi. Dans les présents appels, l'expression « ancillary services » (« services accessoires ») est définie dans la CFA comme [TRADUCTION] « des services qui ne sont pas directement rattachés au transport de véhicules et de passagers [...] (CFA, partie 1, « Interpretation » (Interprétation)). L'accès à une cabine constitue un ajout qui est acheté séparément du service de transport de base, soit le transport par traversier de passagers entre deux destinations. Les cabines permettent à BCF d'offrir des installations améliorées aux passagers qui choisissent de se prévaloir de cet ajout en plus du service de base pendant le transport à bord du traversier.
+[67] Le libellé des dispositions légales provinciales et le fait que les locations de cabines sont payées séparément et qu'elles constituent un service facultatif appuient ma conclusion selon laquelle ces locations demeurent un élément distinct de la fourniture des services de traversier et sont donc des fournitures taxables pour lesquelles des CTI peuvent être demandés.
+[68] L'intimée a fait valoir que, si les locations de cabines étaient considérées comme des fournitures taxables, les CTI auxquels BCF avait droit devraient être retenus en compensation de la TPS que BCF aurait dû percevoir sur ces locations au cours de la période en cause et qu'elle n'a pas perçue. BCF a répondu qu'en invoquant un argument de cette nature, l'intimée cherchait à établir une cotisation pour défaut de percevoir la TPS après la période normale de nouvelle cotisation. Je suis d'accord avec l'appelante sur ce point. Le paragraphe 298(4) de la Loi permet au ministre d'établir une cotisation « à tout moment », pourvu qu'il puisse prouver que la personne visée a fait une présentation erronée des faits par négligence, inattention ou omission volontaire ou qu'elle a commis une fraude. Dans les présents appels, le ministre n'a invoqué aucun argument de cette nature dans ses actes de plaidoirie ni n'a formulé, dans ses observations ou ailleurs, un argument portant sur les deux éléments qui lui permettraient d'établir une cotisation à l'encontre de BCF relativement à la TPS non perçue pour cette période. Je conviens avec l'appelante que l'incapacité pour le ministre de recouvrer la TPS que BCF aurait dû facturer à l'égard des locations de cabines, de façon à pouvoir invoquer la compensation avec le montant de CTI à rembourser, [TRADUCTION] « représente simplement le risque associé à l'adoption d'une position qui était erronée en droit » (mémoire de l'appelante, paragraphe 250).
+D. Le carburant et les lubrifiants [69] BCF a soutenu qu'elle avait le droit de demander des CTI pour le carburant et les lubrifiants qui contribuent directement et indirectement à la réalisation de fournitures taxables, soit les services accessoires, en fournissant l'électricité, le chauffage, l'eau chaude, l'éclairage et d'autres éléments d'infrastructure. M. Collins a expliqué que, étant donné qu'un navire offrant ces services commerciaux consomme davantage d'énergie qu'un navire qui n'offre pas ces services, un lien d'interdépendance existe entre la consommation de carburant et les activités accessoires. Selon M. Collins, le système d'alimentation en carburant est utilisé pour toutes les activités consommant de l'énergie. Pour sa part, M. Murray a expliqué que le carburant contribue à la propulsion du navire, laquelle est essentielle pour créer un marché captif et un renouvellement élevé de la clientèle qui utilisera les services accessoires. Si le navire ne se déplaçait pas, il n'y aurait pas de clients ni de ventes.
+[70] Ces faits semblent permettre de conclure que BCF devrait avoir droit à une partie des CTI à l'égard du carburant et des lubrifiants. Cependant, dans la réponse à l'avis d'appel modifié, l'intimée s'est fondée sur les hypothèses clés suivantes au sujet des CTI se rapportant au carburant et aux lubrifiants :
+[TRADUCTION]
+11. [...]
+ss) moins de 10 p. 100 de la consommation et de l'utilisation de carburant par l'appelante était imputable à la prestation de services taxables;
+tt) la consommation et l'utilisation de carburant et de lubrifiants par l'appelante étaient imputables presque en totalité à la prestation de services exonérés;
+[...]
+[71] Le ministre a supposé que moins de 10 p. 100 du carburant et des lubrifiants avait été consommé pour des activités commerciales et que, par conséquent, la consommation était attribuable « presque en totalité » à la fourniture de services exonérés. Voici le libellé du paragraphe 141(3) de la Loi :
+141(3) Utilisation dans le cadre d'autres activités — Pour l'application de la présente partie, la consommation ou l'utilisation d'un bien ou d'un service par une personne, sauf une institution financière, est réputée se faire en totalité dans le cadre de ses activités non commerciales si elle se fait presque en totalité dans ce cadre.
+Par conséquent, le paragraphe 141(3) s'appliquerait de façon que l'utilisation du carburant et des lubrifiants soit réputée avoir été faite en totalité dans le cadre de l'activité exonérée. Selon l'intimée, BCF est incapable de prouver, selon la prépondérance des probabilités, que plus de 10 p. 100 du carburant et des lubrifiants a été utilisé directement au soutien des activités accessoires. Par conséquent, ces éléments doivent constituer un intrant direct et exonéré, étant donné que le carburant a été consommé presque en totalité pour la propulsion des navires.
+[72] Je souscris à l'argument de l'intimée. BCF n'a tout simplement pas réussi à présenter des éléments de preuve qui permettraient de réfuter les hypothèses du ministre à cet égard. Au paragraphe 80 de l'exposé conjoint des faits, BCF a admis que le carburant qui avait été consommé l'avait été presque en totalité pour la propulsion des navires. BCF a également admis qu'elle était incapable de prouver, selon la prépondérance des probabilités, que plus de 10 p. 100 du carburant avait été consommé directement pour les activités commerciales des navires. Elle a ensuite admis qu'elle ne contesterait pas cette hypothèse, ce qui est surprenant.
+[73] Au cours de l'audience, M. Murray a fait essentiellement la même admission :
+[TRADUCTION]
+Q. Et BC Ferries convient que le carburant a été utilisé presque en totalité pour la propulsion?
+R. C'est quelque chose qui – nous n'avons pu prouver de manière absolue qu'au moins 10 p. 100 avait été utilisé sur l'un ou l'autre des navires, à ce moment‑ci.
+(Transcription, volume 2, page 175)
+[74] Monsieur Collins a expliqué les raisons pratiques pour lesquelles BCF avait fait les admissions en question et pour lesquelles elle ne pouvait contester les hypothèses du ministre :
+[TRADUCTION]
+Q. Alors, le carburant des moteurs provient du même endroit que celui des génératrices?
+R. C'est exact.
+Q. Avez-vous en place un système permettant de mesurer la quantité de carburant qui est utilisée pour les génératrices par opposition à celle qui est utilisée pour les moteurs?
+R. Pas vraiment. Il est très difficile de déterminer la consommation individuelle de carburant d'un élément donné de la salle des machines. Nous pouvons vous dire la quantité globale que le navire consomme, mais il est très difficile de répartir la consommation entre les différents éléments. Les navires ne sont tout simplement pas dotés du type d'appareil de mesure qui permet d'obtenir ce genre de ventilation.
+(Transcription, volume 2, page 272)
+Par conséquent, BCF ne pourra demander de CTI à l'égard du carburant et des lubrifiants. Bien que j'aie critiqué, dans de récentes décisions, les actes de procédure problématiques de la Couronne, les hypothèses présentées en l'espèce constituent un exemple d'hypothèses formulées correctement dans les actes de procédure, grâce, sans doute, à l'attention que l'avocat concerné a portée aux détails. L'appelante est donc incapable de réfuter les hypothèses susmentionnées au sujet de cette question.
+E. L'importation du navire Northern Adventure [75] La question du droit de BCF à des CTI en ce qui a trait à l'acquisition et à l'importation de ce navire découle des règles spéciales énoncées à l'alinéa 199(2)a) de la Loi à l'égard des immobilisations. Voici le texte de cette disposition :
+199(2) Acquisition d'immobilisations – Les règles suivantes s'appliquent à l'inscrit qui acquiert, importe ou transfère dans une province participante un bien meuble à utiliser comme immobilisation :
+a) la taxe payable par lui relativement à l'acquisition, à l'importation ou au transfert du bien n'est incluse dans le calcul de son crédit de taxe sur les intrants pour une période de déclaration que si le bien est acquis, importé ou transféré, selon le cas, en vue d'être utilisé principalement dans le cadre de ses activités commerciales;
+[...]
+Si BCF a importé ce navire pour l'utiliser « principalement » dans le cadre de ses activités commerciales, elle sera réputée l'avoir importé exclusivement pour ses activités commerciales, auquel cas elle aura droit à 100 p. 100 des CTI demandés. En revanche, si le navire a été importé en vue d'être utilisé « principalement » pour les activités exonérées de BCF, celle‑ci sera réputée l'avoir importé pour l'utiliser exclusivement pour ses activités exonérées et elle n'aura pas le droit de demander de CTI à l'égard de ce navire.
+[76] L'intimée a fait valoir que, lorsque BCF a acquis et importé le navire Northern Adventure, elle avait l'intention de l'utiliser principalement pour ses services de transport exonérés. En fait, BCF a fait l'acquisition de ce navire afin de remplacer le Queen of the North et de pouvoir reprendre les services de transport qu'elle offrait sur les circuits du Nord. BCF a soutenu que l'utilisation principale de l'immobilisation est inextricablement rattachée à la méthode qu'elle a choisie pour répartir ses CTI conformément à l'article 141.02 de la Loi. BCF a invoqué la décision Îles‑de‑la‑Madeleine afin de soutenir que son droit à des CTI devrait être fondé sur un pourcentage d'utilisation attribué à ses activités commerciales. Selon cette méthode, lorsque plus de 50 p. 100 de l'immobilisation est utilisé pour des activités commerciales, l'immobilisation doit être considérée comme un bien utilisé « principalement » pour ces activités pour les besoins de l'alinéa 199(2)a). La méthode de BCF a pour effet d'attribuer 56,6 p. 100 du navire à une utilisation commerciale. BCF soutient donc qu'elle devrait avoir droit à la totalité des CTI qu'elle a demandés.
+[77] Pour trancher cette question, il faut d'abord déterminer le sens du mot « principalement » et l'appliquer aux faits exposés dans le présent appel. Dans Mid‑West Feed Limited c. Ministre du Revenu national, [1987] A.C.I. no 565 (QL), 87 D.T.C. 394, le mot « principalement » a été défini de manière qualitative comme signifiant « de première importance, primordial, premier ». Cependant, dans Ville de Calgary c. La Reine, 2009 CCI 272, [2009] A.C.I. no 195 (QL), la Cour a souligné que le mot « principalement » pourrait également vouloir dire, de façon quantitative, plus de 50 p. 100 de l'utilisation.
+[78] Dans Foote c. La Reine, 2007 CCI 46, [2007] A.C.I. no 17 (QL), aux paragraphes 11 et 12, le juge Angers a présenté un exposé détaillé de la jurisprudence concernant l'interprétation du mot « principalement » :
+[11] Les tribunaux se sont déjà penchés, dans des décisions antérieures, sur la question du sens à attribuer au mot « principalement ». Dans la décision Mid‑West Feed Ltd. v. M.N.R., 87 D.T.C. 394, le juge en chef Couture (tel était alors son titre), de la Cour canadienne de l'impôt, a conclu que le mot « principalement » signifie plus de 50 p. 100 de l'utilisation totale de l'actif. Dans l'arrêt Mother's Pizza Parlour (London) Ltd. v. The Queen, 88 D.T.C. 6397, le juge Pratte, de la Cour d'appel fédérale, a dit que, lorsque différentes parties du même bâtiment sont utilisées en permanence pour ce que l'on considère comme deux fins différentes, le facteur le plus important, lorsqu'il s'agit de déterminer la fin pour laquelle le bâtiment est principalement utilisé, est la superficie, dans le bâtiment, qui est utilisée pour chacune de ces deux fins.
+[12] En l'espèce, l'appelante utilise deux habitations de l'immeuble à trois étages pour gagner un revenu locatif. Je puis fort bien comprendre que, pour l'appelante, l'objet du projet était la construction d'une résidence personnelle, mais je ne puis omettre de tenir compte de l'autre utilisation de l'immeuble. Il convient peut‑être néanmoins de procéder à une appréciation qualitative. Dans l'arrêt Burger King Restaurants of Canada Inc. v. The Queen, 2000 D.T.C. 6061, la Cour d'appel fédérale a dit que la preuve qualitative doit être suffisamment convaincante et doit pouvoir être analysée de façon à amener la cour à modifier le résultat du critère quantitatif. L'appelante a peut‑être investi plus d'argent dans sa propre habitation, mais la preuve ne suffit pas à permettre à la présente cour d'analyser une telle possibilité et de conclure que la preuve qualitative modifie le résultat du critère quantitatif. [...]
+[79] Compte tenu du raisonnement suivi dans Foote, il est préférable d'appliquer un critère quantitatif, à moins que la preuve qualitative ne soit suffisamment convaincante pour réfuter le résultat de l'appréciation quantitative. Si l'appréciation quantitative est appliquée à l'interprétation du mot « principalement », BCF aura le droit de demander 100 p. 100 des CTI, parce que la méthode qu'elle a choisie a pour effet d'attribuer plus de 50 p. 100 de l'utilisation du navire Northern Adventure à ses activités commerciales.
+[80] L'intimée a fait valoir que, selon le paragraphe 199(2), il faut tenir compte de l'intention qu'avait BCF lorsqu'elle a fait l'acquisition du navire. À cet égard, la position de l'intimée est appuyée par la décision que le juge en chef Bowman, tel était alors son titre, a rendue dans Coburn Realty Ltd. c. La Reine, 2006 CCI 245, [2006] A.C.I. no 184 (QL). Aux paragraphes 9 à 12 de cette décision, il a formulé les commentaires suivants :
+[9] L'extrait du paragraphe 199(2) où il est indiqué « [...] en vue d'être utilisé principalement dans le cadre de ses activités commerciales » renferme des notions de but ou d'intention. La version anglaise de la disposition est compatible avec cette interprétation :
+« [...] for use primarily in commercial activities [...]. »
+[10] Les énoncés que fait le contribuable de ses buts et de ses intentions ne sont pas nécessairement et toujours le fondement le plus fiable sur lequel une question de ce genre peut être tranchée. L'utilisation réelle du bien constitue souvent la meilleure preuve du but de l'acquisition. Dans la décision 510628 Ontario Limited v. The Queen, 2000 G.T.C. 877, il est indiqué ce qui suit :
+[11] Il y a lieu de noter que l'expression « en vue d'être utilisé [...] » nécessite la détermination de l'objet de l'acquisition, non de l'utilisation réelle. Néanmoins, je crois qu'en pratique, si un bien est utilisé en fait principalement à des fins commerciales, il est raisonnable d'inférer qu'il a été acquis à ces fins.
+[11] Je me penche donc sur l'utilisation réelle du bateau. M. Coburn a témoigné que le bateau était utilisé pour recevoir des clients et récompenser ses vendeurs. Il a fait savoir que l'appelante cherchait à étendre ses activités à l'exploitation du marché immobilier de la région du chalet. J'accepte le fait qu'il voulait étendre les activités commerciales de l'appelante, mais je ne suis pas convaincu que le bateau était utilisé ou qu'il avait été acquis en vue d'être utilisé principalement dans le cadre des activités commerciales de l'appelante. Bien que j'estime que le bateau avait probablement été utilisé à des fins commerciales de temps à autre, les éléments de preuve relatifs à l'utilisation réelle du bateau n'appuient pas la conclusion selon laquelle il a été acquis en vue d'être utilisé principalement dans le cadre des activités commerciales de l'appelante.
+[12] En règle générale, il est considéré que le terme « principalement » équivaut à une proportion de plus de 50 %. Toutefois, le problème qui se pose est celui de savoir à quoi il faut appliquer le 51 %. Faut-il l'appliquer à la durée de l'utilisation du bateau, au nombre de sorties en bateau, à la distance parcourue, au nombre de passagers, à la durée du voyage, à la valeur des affaires conclues ou au nombre de visites de terrains qui pourraient être vendus? Tous ces facteurs peuvent être pertinents et ils permettent de constater qu'il est difficile d'appliquer un critère mécanique à la situation. Il s'agit, en fin de compte, d'une question de jugement et de bon sens.
+[Non souligné dans l'original.]
+[81] Eu égard aux commentaires formulés dans Coburn Realty, auxquels je souscris, je conclus que le navire Northern Adventure a été importé principalement en vue d'être utilisé pour des services de traversier, lesquels sont exonérés. L'activité de base de BCF consiste à fournir des services de transport de passagers et de véhicules par traversier. Les services accessoires sont justement accessoires de par leur nature, c'est‑à‑dire qu'ils sont secondaires par rapport aux activités commerciales de base de l'entreprise. Lorsque le navire Queen of the North a coulé, BCF a dû trouver un autre navire afin de fournir des services de traversier sur ses circuits du Nord. Si elle ne l'avait pas fait, elle n'aurait pas respecté le contrat qu'elle avait conclu avec la province et qui l'obligeait à fournir des services de traversier sur tous les circuits désignés et elle se serait exposée aux conséquences pouvant découler de la violation d'un contrat.
+[82] Ma conclusion, selon laquelle la principale raison pour laquelle BCF a fait l'acquisition du Northern Adventure était de pouvoir l'utiliser pour fournir ses services de transport sur les circuits du Nord pour lesquels elle utilisait auparavant le Queen of the North, est également appuyée par une lettre que David L. Hahn, le président et chef de la direction de BCF, a fait parvenir à l'honorable Jim Flaherty, alors ministre des Finances, au soutien de sa demande de remise du 12 décembre 2006 (pièce R‑1, onglet 65). Plus précisément, M. Hahn s'exprime ainsi dans sa lettre :
+[TRADUCTION]
+Je vous écris au nom de la British Columbia Ferry Services Inc. (BC Ferries) afin de vous informer que nous présentons la demande ci‑jointe au ministère des Finances du Canada en vue d'obtenir le remboursement des droits de douane relatifs à l'achat du navire d'occasion MV Sonia, qui est nécessaire pour la fourniture de services de transport maritime essentiels, sûrs et fiables le long de la côte Nord de la Colombie‑Britannique. [Non souligné dans l'original.]
+Dans le résumé joint à la lettre de M. Hahn, les précisions suivantes sont données :
+[TRADUCTION]
+Afin de continuer à fournir un service de traversier sûr, efficace et fiable et de rétablir le service à un niveau raisonnable de façon à répondre aux besoins économiques et sociaux des collectivités de la côte Nord de la Colombie‑Britannique, BC Ferries devait à tout prix trouver un navire de rechange le plus tôt possible. [...]
+[83] De plus, je dispose de l'aveu de M. Murray selon lequel le navire Northern Adventure avait été importé principalement en vue d'être utilisé pour le transport de passagers et de véhicules par traversier. Au cours de son interrogatoire préalable, M. Murray a fait la déclaration suivante :
+[TRADUCTION]
+Question 1061 : Le Northern Adventure a donc été acquis et importé principalement en vue d'être utilisé pour le transport de passagers?
+Réponse : Oui, de passagers et de véhicules.
+(Transcription, volume 2, page 240)
+Pendant l'audience, M. Murray a souligné que cette réponse était conforme à la vérité. Ces faits constituent une preuve suffisamment convaincante non seulement pour réfuter l'intention exprimée par BCF, selon laquelle le navire avait été importé principalement en vue d'être utilisé dans ses activités commerciales, mais également pour remplacer l'utilisation de l'appréciation quantitative, que BCF prône pour déterminer la principale fonction d'un espace donné, par la méthode qualitative.
+[84] Par conséquent, BCF n'aura pas le droit de demander des CTI à l'égard de l'importation du navire Northern Adventure.
+Conclusion [85] Les appels seront accueillis en partie. Je ne rends aucune ordonnance au sujet des dépens, parce que chaque partie a obtenu partiellement gain de cause. La méthode de répartition que BCF a choisie pour considérer les ponts d'infrastructure comme des biens mixtes servant à la réalisation tant de fournitures taxables que de fournitures exonérées est à la fois juste et raisonnable dans les circonstances et est conforme aux faits mis en preuve devant moi. La preuve présentée par M. Murray et M. Collins n'a pas été contredite, et elle a appuyé ma conclusion selon laquelle ces ponts sont, directement et indirectement, rattachés aux activités commerciales poursuivies à bord de certains navires. Le ministre ne nie pas que la méthode « pont par pont » que BCF a utilisée pour la répartition des intrants soit juste et raisonnable. Cependant, il a contesté la façon dont BCF avait classé ces ponts afin de calculer les superficies qui avaient été utilisées pour la réalisation de fournitures taxables par opposition à des fournitures exonérées. Eu égard aux faits, la classification par BCF des ponts d'infrastructure dans la catégorie des biens mixtes ne peut être considérée comme injuste ou déraisonnable. BCF aura donc le droit de demander des CTI conformément à la méthode qu'elle a choisie.
+[86] J'accepte également la classification des cabines par BCF dans la catégorie des fournitures taxables distinctes. Les faits permettent de dire que les cabines ne constituaient pas une partie intégrante de la fourniture globale des services de traversier assurés par BCF. Ma conclusion selon laquelle la fourniture de locations de cabines est une fourniture taxable repose non seulement sur le bon sens, mais également sur le témoignage de M. Murray et de M. Collins et sur les dispositions de la CFA. Le ministre ne peut établir de cotisation à l'encontre de BCF à l'égard de la taxe nette qu'elle aurait dû exiger pour les locations de cabines, afin de retenir les CTI que BCF demande, en compensation de la taxe, parce que les périodes normales de nouvelle cotisation ont expiré et que, en tout état de cause, le ministre n'a pas mentionné cette question dans ses actes de procédure.
+[87] BCF n'aura pas le droit de demander des CTI à l'égard du carburant et des lubrifiants. Les hypothèses que le ministre a formulées à ce sujet n'ont pas été réfutées, et BCF ne s'est donc pas acquittée du fardeau qui lui incombait dans les présents appels. BCF n'a pas réussi à prouver, selon la prépondérance des probabilités, que plus de 10 p. 100 du carburant avait été consommé directement pour les activités commerciales qu'elle avait poursuivies. Par conséquent, comme l'intimée l'a soutenu, le carburant et les lubrifiants consommés à bord des navires l'avaient été presque en totalité pour la propulsion.
+[88] Enfin, BCF a acquis et importé le navire Northern Adventure pour l'utiliser principalement dans ses services de transport exonérés et non, comme elle l'a soutenu, principalement dans ses activités commerciales, eu égard à la méthode de répartition qu'elle avait choisie. Par conséquent, BCF n'aura droit à aucun des CTI qu'elle a demandés relativement à l'importation du navire Northern Adventure.
+[89] En conclusion, j'aimerais féliciter les avocats des deux parties, qui ont travaillé ensemble pour préparer un exposé conjoint des faits et qui ont présenté des mémoires concis et bien rédigés ainsi que des observations orales franches et directes.
+Signé à Ottawa, Canada, ce 14e jour d'octobre 2014.
+« Diane Campbell »
+La juge Campbell
+Traduction certifiée conforme
+ce 7e jour de mai 2015.
+Yves Bellefeuille, réviseur
+ANNEXE A
+[TRADUCTION]
+2008-1600(GST)G
+2013-4206(GST)G
+COUR CANADIENNE DE L'IMPÔT
+ENTRE :
+BRITISH COLUMBIA FERRY SERVICES INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+EXPOSÉ CONJOINT DES FAITS
+Les parties conviennent que, pour les besoins des présents appels et de tout appel connexe, les faits énoncés dans le présent exposé conjoint des faits sont vrais. L'une ou l'autre des parties peut présenter d'autres documents ou éléments de preuve, pourvu qu'ils ne soient pas incompatibles avec le présent exposé.
+1. Les périodes de déclaration mensuelles de la taxe sur les produits et services (la « TPS ») qui sont en cause dans les présents appels sont les périodes allant du 2 avril 2003 au 30 juin 2005 ainsi que la période de mars 2007 (collectivement, les « périodes en cause »).
+2. Au cours des périodes en cause, BCF a fourni des services de traversier de base sur 25 circuits, au moyen de 37 navires et de 47 terminaux.
+3. Pour les besoins de la TPS, BCF a effectué tant des fournitures exonérées que des fournitures taxables.
+4. Le service de base de transport de passagers et de véhicules par traversier était une fourniture exonérée.
+5. Les ventes faites dans des restaurants et des boutiques, notamment, constituaient des fournitures taxables.
+6. Les présents appels portent sur le montant des crédits de taxe sur les intrants (« CTI ») que la British Columbia Ferry Services Inc. (« BCF ») peut demander à l'égard des périodes en cause.
+7. La Loi sur la taxe d'accise (la « Loi ») exige que BCF utilise une méthode juste et raisonnable pour répartir les CTI entre les activités taxables et les activités exonérées.
+8. BCF a demandé des CTI en se fondant en partie sur une méthode visant à répartir les intrants mixtes se rapportant à ses traversiers entre les activités taxables et les activités exonérées. Les pourcentages attribués aux intrants mixtes à l'égard des traversiers suivants (collectivement, les « traversiers en question ») sont en litige :
+a) Le Spirit of Vancouver Island;
+b) Le Spirit of British Columbia;
+c) Le Queen of Burnaby;
+d) Le Queen of Coquitlam;
+e) Le Queen of Cowichan;
+f) Le Queen of Esquimalt;
+g) Le Queen of Oak Bay;
+h) Le Queen of Surrey;
+i) Le Queen of Vancouver;
+j) Le Queen of Nanaimo;
+k) Le Queen of New Westminster;
+l) Le Queen of Saanich;
+m) Le Queen of Tsawwassen;
+n) Le Queen of Alberni;
+o) Le Queen of Chilliwack;
+p) Le Queen of the North;
+q) Le Queen of Prince Rupert;
+r) Le Northern Adventure.
+9. BCF a utilisé une méthode qui consistait à calculer le pourcentage de répartition des intrants en fonction d'une classification de chaque pont selon qu'il servait à la fourniture de services taxables, de services exonérés ou de services mixtes. L'intimée accepte la classification que BCF a faite pour la plupart des ponts, mais quelques ponts demeurent en litige.
+10. Voici les ponts qui sont en litige dans le cas des traversiers suivants :
+a) Le Spirit of British Columbia et le Spirit of Vancouver Island :
+i) Le caillebotis, la plateforme des machines et le pont de passerelle;
+b) Le Queen of Burnaby, le Queen of Coquitlam, le Queen of Cowichan, le Queen of Esquimalt, le Queen of Oak Bay, le Queen of Surrey et le Queen of Vancouver :
+i) Le pont de cale;
+c) Le Queen of Nanaimo, le Queen of New Westminster, le Queen of Saanich et le Queen of Tsawwassen :
+i) Le pont principal inférieur
+d) Le Queen of Alberni et le Queen of Chilliwack :
+i) La coque inférieure et le pont de passerelle;
+e) Le Queen of the North et le Queen of Prince Rupert :
+i) Le pont des ballasts, l'entrepont, le pont des chaloupes et le pont supérieur;
+f) Le Northern Adventure :
+i) Le pont des ballasts, l'entrepont, le pont‑promenade (extérieur), les ponts des chaloupes, le pont des cabines et le pont supérieur.
+11. L'intimée considère tous les ponts en litige comme des ponts servant à fournir des services exonérés, tandis que BCF estime que tous les ponts, sauf un, servent à fournir des services mixtes. L'exception concerne le pont des cabines du Northern Adventure, que BCF considère comme un pont servant à fournir des services taxables.
+12. Un résumé comparatif de la classification et des répartitions faites par les parties pour chaque pont des traversiers, sauf pour les ponts du Northern Adventure, est joint au présent exposé à l'appendice A.
+13. Un résumé comparatif de la classification et des répartitions faites par les parties pour le Northern Adventure est joint au présent exposé à l'appendice B. Cependant, il convient de souligner qu'au tableau du résumé, le traitement du pont des cabines par l'ARC est décrit par erreur comme une fourniture taxable, alors que l'ARC a plutôt considéré ce pont comme une fourniture exonérée. BCF a établi à 56,8 p. 100 le pourcentage d'utilisation taxable de ce navire, tandis que le calcul correspondant de l'intimée a donné lieu à un pourcentage de 14,1 p. 100.
+La TPS possible sur les cabines
+14. Si la Cour conclut que les ponts des cabines devraient être considérés comme des ponts servant à la fourniture de services mixtes, au motif que la location de cabines par BCF constitue une activité taxable, l'intimée fait valoir qu'il faudra établir s'il y a compensation entre la TPS que BCF aurait dû percevoir et remettre à cet égard et les CTI additionnels que la Cour accorde.
+L'acquisition et l'importation du Northern Adventure
+15. Lorsqu'un inscrit à la TPS acquiert une immobilisation, le droit aux CTI est fondé sur l'utilisation principale du bien. Lorsque le bien est utilisé principalement pour des activités commerciales, l'inscrit a le droit de demander un CTI correspondant à 100 p. 100 de la TPS versée pour l'acquisition du bien. À l'inverse, lorsque la principale utilisation du bien est pour des activités exonérées, l'inscrit ne peut demander aucun CTI.
+16. BCF affirme qu'elle a acquis et importé le Northern Adventure afin de l'utiliser principalement dans ses activités commerciales, parce que plus de 50 p. 100 de la superficie du navire a servi à la réalisation de fournitures taxables. Par conséquent, BCF soutient qu'elle a droit à un CTI correspondant à 100 p. 100 de la TPS qu'elle a versée lors de l'acquisition et de l'importation du Northern Adventure.
+17. L'intimée affirme que BCF a acquis et importé le Northern Adventure pour l'utiliser principalement pour l'activité exonérée que constitue le transport par traversier et que, de ce fait, BCF n'a droit à aucun CTI s'y rapportant.
+L'admission de l'intimée
+18. Dans sa déclaration de TPS pour la période de déclaration de juin 2005, BCF a demandé des CTI additionnels à l'égard de ses périodes de déclaration antérieures, même si elle avait déjà demandé des CTI dans ses déclarations antérieures pour les périodes en question. L'intimée a fait valoir qu'en droit, BCF ne pouvait demander ces CTI additionnels dans sa déclaration relative à la période de déclaration de juin 2005.
+19. L'intimée admet aujourd'hui qu'en droit, BCF peut demander des CTI additionnels dans sa déclaration de juin 2005 pour des périodes antérieures, conformément aux paragraphes 169(1) et 225(1) de la Loi, ainsi qu'en a décidé la Cour d'appel fédérale dans CIBC World Markets Inc. c. Canada, 2011 CAF 270, [2013] 3 R.C.F. 3, [2011] A.C.F. no 1378 (QL) (C.A.F.).
+20. Tel qu'il est mentionné plus haut, il existe encore une question en litige entre les parties en ce qui a trait au montant de CTI additionnel, le cas échéant, que BCF a le droit de demander pour les périodes antérieures à juin 2005.
+British Columbia Ferry Services Inc.
+21. La société British Columbia Ferry Corporation était une société d'État qui avait été constituée le 1er janvier 1977 pour exploiter un service de transport maritime de véhicules et de passagers par traversier dans la région côtière, lequel service avait été instauré par la province de la Colombie‑Britannique en 1960.
+22. Le 27 mars 2003, la Coastal Ferry Act (la « CFA ») est entrée en vigueur afin de redéfinir le cadre légal et réglementaire du réseau de traversiers de la Colombie‑Britannique.
+23. Le 2 avril 2003, la British Columbia Ferry Corporation a été convertie en société, au sens de la Business Corporations Act (Colombie‑Britannique), conformément au paragraphe 19(1) de la CFA, et sa raison sociale est devenue British Columbia Ferry Services Inc.
+24. Lors de la conversion, BCF a cessé d'être une société d'État et est devenue assujettie à l'obligation de payer des taxes et impôts fédéraux, y compris la TPS.
+25. La totalité des actions comportant droit de vote de BCF appartenait à la British Columbia Ferry Authority (la « BCFA »).
+26. La BCFA désigne les membres du conseil d'administration de BCF.
+27. BCF a eu 9 administrateurs du 1er avril 2004 au 31 mars 2005, après quoi ce nombre est passé à 12.
+28. En 2004 et 2005, la province possédait 75 477 actions privilégiées sans droit de vote dans BCF.
+29. Le public ne pouvait être invité à faire l'acquisition d'actions de BCF.
+British Columbia Ferry Authority
+30. La BCFA est une société sans capital‑actions et une entité à but non lucratif[1].
+31. À la dissolution de la BCFA, tous ses éléments d'actif restants, le cas échéant, sont dévolus à la province[2].
+32. Jusqu'au 31 mars 2004, les membres du conseil d'administration de la BCFA étaient les mêmes que ceux du conseil d'administration de la British Columbia Ferry Corporation immédiatement avant le 1er avril 2004[3].
+33. Après cette date, la CFA disposait que la BCFA devait compter 9 administrateurs répartis ainsi[4] :
+a) 4 administrateurs provenant des 13 districts régionaux côtiers desservis par BCF, regroupés en quatre zones de nomination;
+b) un administrateur provenant du syndicat qui représente les employés de BCF;
+c) deux administrateurs nommés par la province;
+d) deux autres administrateurs admissibles.
+34. Les administrateurs de la BCFA étaient également les administrateurs de BCF.
+35. La BCFA doit :
+a) publier un rapport annuel comportant des états financiers vérifiés[5];
+b) tenir une assemblée générale annuelle publique dans l'une des quatre zones de nomination[6].
+Le contrat de services de traversier côtiers
+36. Le 1er avril 2003, la province de la Colombie‑Britannique et BCF ont conclu un contrat énonçant, notamment, un cadre contractuel relatif à l'exploitation du réseau de traversiers de la Colombie‑Britannique, y compris les niveaux de service et les normes d'exploitation.
+37. Selon le contrat, la province versait des frais de service à BCF, pourvu que celle‑ci :
+a) fournisse des services de traversier de base sur des circuits précisés;
+b) administre certaines initiatives liées à des politiques sociales pour le compte de la province et assure le transport d'étudiants, de personnes handicapées, de personnes âgées et de malades conformément à des programmes sociaux précisés de la province;
+c) administre les contrats et paie le coût des services de traversier fournis par des entrepreneurs indépendants sur des circuits non réglementés.
+38. Les niveaux de service de base visaient à assurer, à tout le moins, le maintien du service de traversier de base, tout en reconnaissant la nécessité d'une certaine marge de manœuvre opérationnelle.
+39. Les circuits précisés dans le contrat étaient ceux empruntés par les traversiers.
+40. BCF devait exploiter le réseau de traversiers de façon à respecter ou excéder les niveaux de service de base pour ces circuits.
+41. Conformément à un accord conclu en mars 2007, la province a versé un paiement unique à BCF au titre de frais de service supplémentaires afin de tenir compte du coût élevé du carburant.
+42. En plus de ce qui précède, BCF devait, selon le contrat :
+a) publier chaque année des horaires de services de traversier couvrant une période de deux ans pour chaque circuit désigné;
+b) retenir les services d'un consultant indépendant chargé de mener des enquêtes annuelles sur la satisfaction des clients en ce qui concerne les circuits désignés;
+c) préparer les rapports annuels sur les enquêtes relatives à la satisfaction des clients, les remettre à la province et au commissaire et les afficher sur Internet;
+d) respecter toutes les ordonnances et exigences du commissaire;
+e) permettre à la province d'inspecter, de reproduire ou de vérifier les livres et registres de BCF concernant les frais de service;
+f) remettre à la province un rapport trimestriel portant sur l'achalandage, la circulation, la fréquence du service de traversier et la capacité des navires;
+g) remettre à la province des états financiers vérifiés annuels;
+h) discuter avec la province afin de déterminer les mesures de rendement se rapportant à la qualité des services que BCF fournit;
+i) tenir chaque année des réunions publiques concernant la gestion et l'exploitation de son entreprise, publier des avis de ces réunions et, au cours de celles‑ci :
+i) accorder au public une possibilité raisonnable de poser des questions et d'exprimer ses opinions;
+ii) remettre des copies de ses états financiers vérifiés, de ses rapports annuels déposés auprès du commissaire et de ses plans d'entreprise annuels;
+j) accorder à la province un droit de préemption quant à l'achat des traversiers utilisés sur les circuits désignés en cas de défaut;
+k) accorder à la province le droit d'acheter tout navire dont BCF décide de se départir;
+l) fournir des services d'intervention d'urgence et des navires dans le cas où la province déclare un état d'urgence;
+m) administrer les contrats de services de traversier fournis par des entrepreneurs indépendants sur des circuits non réglementés;
+n) donner à la province un avis de six mois précédant l'échéance d'un contrat relatif à un circuit non réglementé, veiller à ce qu'un nouveau contrat soit établi à l'égard de ces services et informer la province une fois que ce contrat est établi;
+o) au cours des cinq premières années, veiller à ce que le niveau de service afférent aux circuits non réglementés ne soit pas abaissé à un niveau inférieur au niveau assuré immédiatement avant le contrat.
+43. Selon le contrat, BCF ne pouvait pas :
+a) modifier un horaire de services de traversier au cours des deux premières années du contrat, sauf si cette modification était nécessaire en raison d'un entretien normal ou de circonstances extraordinaires;
+b) interrompre les services de transport sur un circuit désigné sans avoir reçu d'ordonnance du commissaire;
+c) présenter une demande visant à interrompre les services de traversier sur un circuit désigné au cours des trois premières années;
+d) rajuster les niveaux de service de base sans l'accord de la province au cours des cinq premières années;
+e) présenter, après les cinq premières années, une demande visant à interrompre les services de transport pour un circuit désigné au cours de la période de douze mois à six mois précédant le début d'une nouvelle période de rendement de quatre ans;
+f) se départir de l'un des traversiers utilisés sur un circuit désigné, à moins que la province n'ait été avisée et n'ait eu la possibilité d'exercer son droit de préemption s'y rapportant;
+g) rajuster sans l'assentiment de la province le niveau du service de base des traversiers affectés aux circuits du Nord qui a été établi par suite de consultations auprès des collectivités et des intéressés;
+h) rajuster sans l'assentiment de la province le niveau de service assuré le samedi sur le circuit 30 et établi par suite de consultations avec l'industrie du camionnage;
+i) rajuster sans l'assentiment de la province les niveaux de service de base des circuits 17 et 18 établis par suite de consultations communautaires;
+j) céder ou transférer le contrat sans le consentement de la province.
+44. BCF commettrait un défaut visé au contrat dans l'un ou l'autre des cas suivants :
+a) si elle ne respectait pas une disposition importante du contrat, y compris l'obligation de maintenir les niveaux de service de base qui y sont prévus;
+b) si un renseignement, une déclaration ou un rapport qu'elle devait présenter à la province était inexact sous un aspect important;
+c) si elle était insolvable ou était liquidée;
+d) si elle cessait de poursuivre ses activités;
+e) si elle ne se conformait pas à une ordonnance du commissaire.
+45. En cas de défaut visé au contrat, la province pouvait :
+a) suspendre ou rajuster les frais de service;
+b) exercer le droit relatif à l'achat des traversiers;
+c) aviser le commissaire et lui demander de sommer, par ordonnance, BCF de corriger la situation;
+d) intenter une action en exécution en nature ou en injonction.
+46. En cas de résiliation du contrat, la CFA prévoyait le transfert à la province de tous les droits et intérêts accordés à BCF au titre du contrat, d'un bail et de la CFA.
+Le commissaire aux traversiers de la Colombie‑Britannique
+47. La CFA prévoit la nomination d'un commissaire chargé de réglementer les activités de chaque exploitant de traversier, y compris BCF, relativement à la prestation de services de base de traversier et de fixer un plafond quant aux tarifs pouvant être exigés à l'égard des services en question[7].
+48. Le conseil des ministres provincial nomme le commissaire[8].
+49. BCF est tenue de payer les frais du commissaire[9].
+50. La CFA prévoit une distinction entre les services de traversier de base et les services accessoires, soit les services qui ne sont pas directement liés au transport de véhicules et de passagers, y compris le stationnement, les concessions de restauration et de vente au détail, les réservations, l'entretien des navires, l'entretien des terminaux et les autres services non directement rattachés à la prestation de services de traversier de base.
+51. Les services de traversier de base visés par la CFA sont les services de transport par traversier qui consistent à transporter des véhicules et des passagers et que BCF est tenue de fournir conformément au contrat de services de traversier côtiers qu'elle a conclu avec la province.
+52. BCF ne peut réduire les services à un niveau inférieur au niveau de service de base ou interrompre un service relatif à un circuit, à moins d'avoir obtenu l'autorisation du commissaire[10].
+53. Aux fins du plafonnement des prix, le commissaire calcule un niveau maximal autorisé pour la moyenne des tarifs relativement à chaque groupe de circuits[11].
+54. Au cours des périodes en cause, la CFA a fixé comme plafonds initiaux des prix la moyenne des tarifs payés à l'égard des circuits le 1er avril 2003, à laquelle s'ajoutait une augmentation annuelle prévue par la loi[12].
+55. Selon la CFA, le commissaire est tenu de réglementer BCF en ce qui concerne les services de traversier de base conformément à six principes précis, y compris le principe selon lequel on encourage BCF à adopter une approche commerciale relativement à la prestation de ces services[13].
+56. Selon la CFA, le commissaire ne doit pas réglementer les services accessoires[14].
+57. Le commissaire peut[15] :
+a) nommer des inspecteurs chargés d'inspecter les activités de BCF et d'examiner les registres de celle‑ci;
+b) ordonner à BCF de se conformer à la CFA, de fournir des services de traversier de base lorsqu'elle ne le fait pas et de réduire ses tarifs moyens afin de respecter un plafond de prix imposé à l'égard d'un groupe de circuits;
+c) abaisser un plafond de prix à l'égard d'un groupe de circuits, si BCF ne se conforme pas à une ordonnance du commissaire.
+58. Le commissaire doit rendre publique chaque décision, détermination et ordonnance, et présenter des rapports annuels au conseil des ministres ainsi qu'à l'assemblée législative de la province[16].
+59. BCF doit fournir au commissaire :
+a) des copies de ses contrats de services de traversier côtiers[17];
+b) des rapports annuels concernant ses services et ses activités[18];
+c) des rapports trimestriels sur le niveau moyen réel des tarifs payés pour chacun des sept groupes de circuits, sur la circulation, sur la fréquence du service de traversier, sur les capacités des navires et sur tout autre renseignement concernant les services de traversier de base[19];
+d) tous les renseignements que le commissaire exige ou demande de façon raisonnable[20].
+60. BCF doit veiller à ce que les rapports trimestriels et annuels qu'elle remet au commissaire soient publics[21].
+61. Le commissaire surveille la publication par BCF des renseignements concernant ses activités et son rendement[22].
+62. Le fait de ne pas respecter les ordonnances du commissaire, de lui fournir de faux renseignements ou d'entraver les fonctions du commissaire ou d'un inspecteur constitue une infraction passible d'une amende d'au plus 500 000 $[23].
+Les demandes de CTI par BCF
+63. En général, BCF peut demander des CTI à l'égard de la TPS qu'elle a versée sur ses intrants, dans la mesure où ceux-ci ont été acquis pour consommation, utilisation ou fourniture dans ses activités commerciales.
+64. Du 2 avril 2003 au 31 mai 2005, BCF a utilisé une méthode des « extrants », fondée sur les revenus, pour calculer le pourcentage de ses activités rattachées à des fournitures taxables.
+65. En 2005, BCF a remplacé sa méthode de répartition des CTI par une méthode des « intrants ».
+66. BCF a demandé des CTI conformément à sa méthode des intrants de la façon qui suit.
+67. D'abord, elle a attribué ce qu'elle considérait comme des intrants à vocation unique à des activités exonérées ou taxables, lorsque c'était possible de le faire.
+68. BCF a attribué les éléments suivants à des activités taxables, et elle a demandé et obtenu 100 p. 100 des CTI relativement à la TPS qu'elle avait versée à leur égard :
+a) le coût des produits vendus dans ses activités alimentaires et ses activités de vente au détail;
+b) les fournitures de vaisselle, de papier et de plastique, le matériel de restaurant et les autres dépenses liées aux services alimentaires et aux ventes au détail;
+c) la mise en valeur des installations de vente au détail;
+d) les terrains de stationnement des terminaux comportant des espaces de stationnement payants.
+69. BCF a ensuite utilisé une méthode servant à déterminer un pourcentage d'utilisation taxable pour chaque navire et pour chaque terminal afin de répartir les intrants à vocations multiples, ou intrants mixtes, entre les utilisations exonérées et taxables.
+70. BCF a utilisé une méthode des intrants selon laquelle elle a classé les différents ponts de chacun des navires et les espaces de chacun des terminaux utilisés dans le réseau de traversiers de la Colombie-Britannique dans l'une des trois catégories suivantes :
+a) utilisation exonérée : le pont ou l'espace était utilisé dans la réalisation de fournitures exonérées;
+b) utilisation taxable : le pont ou l'espace était utilisé dans la réalisation de fournitures taxables;
+c) utilisation mixte : le pont ou l'espace était utilisé dans la réalisation tant de fournitures taxables que de fournitures exonérées.
+71. BCF a calculé un pourcentage pour chaque navire et pour chaque terminal utilisé dans la réalisation de fournitures taxables à l'aide de la formule suivante :
+superficie taxable totale en mètres carrés
+× 100
+superficie totale – aire commune totale
+72. À l'aide de la formule, BCF a conclu que, pour 13 navires et 11 terminaux, les pourcentages d'utilisation taxable étaient inférieurs à 10 p. 100, de sorte qu'elle n'avait pas le droit de demander de CTI autres que ceux qu'elle avait calculés dans ses demandes découlant de l'attribution directe à l'égard des navires et terminaux en question.
+73. BCF a ensuite demandé des CTI à l'égard de chacun des traversiers et des autres terminaux en se fondant sur les pourcentages d'utilisation taxable qu'elle avait calculés pour chaque traversier et pour chaque terminal en question.
+74. BCF a demandé des CTI à l'égard de bon nombre de ses frais d'exploitation, y compris le carburant, les lubrifiants et différents articles de matériel et de fournitures.
+75. BCF a également calculé une utilisation taxable à l'égard de ses activités générales, y compris son siège social, ses systèmes informatiques, le centre d'entretien de Nanaimo, le chantier Deas et le centre d'entretien de Sydney.
+76. BCF a pris en compte les pourcentages d'utilisation taxable qu'elle avait calculés pour ses navires et terminaux afin de déterminer les chiffres d'utilisation taxable se rapportant à ses activités générales.
+Le carburant des traversiers
+77. L'intimée soutient que le carburant et les lubrifiants constituent des intrants à vocation unique, parce que ces intrants sont consommés ou utilisés presque en totalité pour la propulsion des navires et concernent l'exécution de services de transport par traversier par BCF, soit une fourniture exonérée.
+78. La propulsion d'un navire signifie le déplacement de l'ensemble de celui‑ci d'un point à un autre, y compris les endroits du navire où des activités taxables sont poursuivies et ceux où des activités exonérées se déroulent.
+79. BCF devait utiliser son carburant et ses lubrifiants pour remplir ses obligations découlant du contrat.
+80. BCF admet, pour les besoins de la présente instance, que dans le cas des traversiers en question pendant les périodes en cause :
+a) le carburant qui a été consommé à bord des navires l'a été presque en totalité pour la propulsion;
+b) BCF n'est pas en mesure de prouver selon la prépondérance des probabilités que plus de 10 p. 100 du carburant qui a été consommé à bord des navires a été consommé directement dans la réalisation d'activités commerciales;
+c) BCF ne contestera pas l'hypothèse du ministre selon laquelle moins de 10 p. 100 du carburant consommé à bord de l'un ou l'autre des navires l'a été directement dans la réalisation d'activités commerciales sur celui-ci.
+La TPS qui aurait pu être exigée sur les cabines
+81. Au cours des périodes en cause, exception faite de mars 2007, les cabines des navires de BCF ont généré des revenus de 2 136 318 $.
+82. Si la TPS avait été facturée et perçue sur ces revenus, elle se serait élevée à 149 542,26 $.
+83. BCF a généré des revenus additionnels sur ses cabines au cours de la période de déclaration de mars 2007.
+Le Northern Adventure
+84. Le Queen of the North a coulé le 22 mars 2006.
+85. Il était utilisé sur les circuits du Nord, le plus souvent sur le circuit 10.
+86. En l'absence d'un autre navire pour le remplacer, BCF ne pouvait respecter les niveaux de service de base prévus au contrat.
+87. Le 10 avril 2006, BCF a demandé au commissaire d'approuver une réduction de services jusqu'au 19 avril 2006 par suite du naufrage du Queen of the North.
+88. Le 24 avril 2006, le commissaire a approuvé par écrit la réduction demandée.
+89. Le 10 mai 2006, BCF a demandé au commissaire d'approuver une autre réduction de services pour la période allant du 18 mai au 30 septembre 2006 relativement au naufrage du Queen of the North.
+90. Le 17 mai 2006, le commissaire a autorisé une réduction temporaire pendant que BCF cherchait un navire pour remplacer celui qui avait coulé.
+91. BCF a entamé des discussions avec le ministère des Transports provincial au sujet d'un navire de rechange.
+92. Tant le commissaire que le ministère ont entrepris des démarches pour engager des architectes navals afin d'examiner différentes options quant au remplacement du navire.
+93. Le 14 juillet 2006, BCF a demandé au commissaire de faire une déclaration concernant une dépense maximale de 233 millions de dollars à l'égard d'un navire de rechange et des changements correspondant aux terminaux concernés.
+94. Le 14 août 2006, le commissaire a fait cette déclaration.
+95. En octobre 2006, BCF a acquis le Northern Adventure à une société étrangère.
+96. Le Northern Adventure était une immobilisation acquise en vue d'être utilisée sur les circuits du Nord.
+97. Lorsque l'inscrit acquiert ou importe une immobilisation, il peut déduire 100 p. 100 de la TPS s'y rapportant à titre de CTI si le bien a été acquis ou importé en vue d'être utilisé principalement dans le cadre d'activités commerciales, mais ne peut le faire si le bien a été acquis ou importé en vue d'être utilisé principalement dans le cadre d'activités exonérées.
+98. Le prix d'achat du Northern Adventure s'élevait à environ 51 millions de dollars.
+99. En mars 2007, BCF a importé le Northern Adventure au Canada et a versé un montant d'environ 13,1 millions de dollars en droits de douane et un autre de 3,9 millions de dollars à l'égard de la TPS lors de l'importation.
+100. BCF a demandé la remise des droits de douane au gouvernement fédéral et, en juin 2007, le gouvernement fédéral lui a accordé le remboursement.
+101. BCF a demandé des CTI d'environ 3,9 millions de dollars relativement à l'importation qu'elle avait faite.
+102. BCF a demandé ces CTI au motif qu'elle avait acquis le Northern Adventure en vue de l'utiliser principalement dans le cadre d'activités commerciales, ayant déterminé que plus de 50 p. 100 de la superficie du navire était utilisée pour la réalisation de fournitures taxables.
+103. BCF a utilisé sa méthode de répartition des intrants pont par pont pour calculer la partie de la superficie du Northern Adventure qui était utilisée dans la réalisation de fournitures taxables.
+104. BCF a renégocié les frais de service avec la province dans le contexte de l'acquisition du Northern Adventure.
+105. La province a finalement augmenté les frais de service de 11 millions de dollars par année à compter du 1er avril 2007.
+106. Ce montant a été calculé en fonction du coût en capital du Northern Adventure, déduction faite de la remise des droits de douane et de la TPS connexe, et en tenant compte d'un montant d'amortissement annuel et des frais de financement.
+Les recueils de documents des parties
+107. Chacune des parties déposera un recueil de documents comprenant les documents échangés au cours de la communication préalable et convient que les documents en question sont des copies conformes des documents originaux, qu'ils ont été signés par les personnes censées les avoir signés et qu'ils ont été signés aux dates auxquelles ils sont censés l'avoir été.
+Fait dans la ville de Vancouver, province de la Colombie‑Britannique, le 22 mai 2014.
+Ron D.F. Wilhelm
+Avocat de l'intimée
+Fait dans la ville de Nanaimo, province de la Colombie‑Britannique, le 22 mai 2014.
+Kimberley L.D. Cook
+Avocate de l'appelante
+APPENDICE A
+[TRADUCTION]
+Client : BRITISH COLUMBIA FERRY SERVICES INC.
+Vérificateur : Richard Young
+N° de compte : 894623206
+Exercice terminé le : 31 mars 2005
+Date : 9 novembre 2005
+Objet : Calculs concernant la répartition pour les navires
+BCF a considéré les ponts où se trouvent les passerelles et les machines comme des superficies à usage mixte. L'ARC estime que ce traitement n'est ni juste, ni raisonnable, car ces espaces servent principalement à la propulsion et à la direction du navire aux fins du transport par traversier, ce qui constitue une activité exonérée (voir la lettre de proposition WP 120.3). Par conséquent, nous avons calculé l'utilisation taxable sur cette base.
+1001
+Pont
+Queen of Alberni
+Description des ponts
+Utilisation taxable (consultant)
+Utilisation taxable
+(ARC)
+Superficie m2
+1
+Coque inférieure : salle des machines, génératrices, réservoirs de carburant et de mazout, réservoirs des eaux usées
+Mixte
+Exonérée
+2 941
+2
+Pont principal : voies pour automobiles et camions, cage d'escalier, escaliers mécaniques
+Exonérée
+Exonérée
+3 944
+3
+Pont-garage supérieur : voies pour automobiles, cage d'escalier, escaliers mécaniques
+Exonérée
+Exonérée
+2 919
+4
+Pont des passagers : cafétéria, kiosque à journaux, téléphones publics, salle de jeux, casse-croûte, coquerie
+Taxable
+Taxable
+1 875
+5
+Pont bain de soleil : chaloupes de sauvetage, salle de ventilateur, machines frigorifiques, salles des employés
+Mixte
+Mixte
+1 797
+6
+Pont de passerelle : passerelle de navigation, timonerie, climatisation
+Mixte
+Exonérée
+608
+Calcul du consultant
+% d'utilisation taxable = (superficie taxable totale) / (superficie totale – superficie commune)
+% d'utilisation taxable = 21,46 %
+Le consultant a utilisé 20 %
+Calcul de l'ARC
+% d'utilisation taxable = (superficie taxable totale) / (superficie totale – superficie commune)
+% d'utilisation taxable = 15,26 %
+1002
+Pont
+Queen of Coquitlam
+Description des ponts
+Utilisation taxable (consultant)
+Utilisation taxable
+(ARC)
+Superficie m2
+1
+Pont de cale : salle des machines, réservoirs de carburant, d'eau et de mazout, salle de contrôle, génératrices
+Mixte
+Exonérée
+2 126
+2
+Pont-garage principal : voies pour automobiles et camions, cage d'escalier, escaliers mécaniques
+Exonérée
+Exonérée
+2 058
+3
+Pont-coquerie : voies pour automobiles
+Exonérée
+Exonérée
+1 537
+4
+Pont-garage supérieur : voies pour automobiles, cage d'escalier, escaliers mécaniques
+Exonérée
+Exonérée
+2 986
+5
+Pont des passagers : cafétéria, kiosque à journaux, téléphones publics, casse-croûte, coquerie
+Taxable
+Taxable
+2 371
+6
+Pont bain de soleil : places assises extérieures, machines frigorifiques, salles des employés, timonerie
+Mixte
+Mixte
+2 316
+13 394
+Calcul du consultant
+% d'utilisation taxable = (superficie taxable totale) / (superficie totale – superficie commune)
+% d'utilisation taxable = 26,49 %
+Le consultant a utilisé 25 %
+Calcul de l'ARC
+% d'utilisation taxable = (superficie taxable totale) / (superficie totale – superficie commune)
+% d'utilisation taxable = 21,40 %
+1003
+Pont
+Queen of Cowichan
+Description des ponts
+Utilisation taxable (consultant)
+Utilisation taxable
+(ARC)
+Superficie m2
+1
+Pont de cale : salle des machines, réservoirs de carburant, d'eau et de mazout, salle de contrôle, génératrices
+Mixte
+Exonérée
+2 126
+2
+Pont-garage principal : voies pour automobiles et camions, cage d'escalier, escaliers mécaniques
+Exonérée
+Exonérée
+2 058
+3
+Pont‑coquerie : voies pour automobiles
+Exonérée
+Exonérée
+1 537
+4
+Pont-garage supérieur : voies pour automobiles, cage d'escalier, escaliers mécaniques
+Exonérée
+Exonérée
+2 986
+5
+Pont des passagers : cafétéria, kiosque à journaux, téléphones publics, casse-croûte, coquerie
+Taxable
+Taxable
+2 371
+6
+Pont bain de soleil : places assises extérieures, machines frigorifiques, salles des employés, timonerie
+Mixte
+Mixte
+2 316
+13 394
+Calcul du consultant
+% d'utilisation taxable = (superficie taxable totale) / (superficie totale – superficie commune)
+% d'utilisation taxable = 26,49 %
+Le consultant a utilisé 25 %
+Calcul de l'ARC
+% d'utilisation taxable = (superficie taxable totale) / (superficie totale – superficie commune)
+% d'utilisation taxable = 21,40 %
+Les renseignements sur les ponts sont tirés de WP 9000
+1004
+Pont
+Queen of Surrey
+Description des ponts
+Utilisation taxable (consultant)
+Utilisation taxable
+(ARC)
+Superficie m2
+1
+Pont de cale : salle des machines, réservoirs de carburant, d'eau et de mazout, salle de contrôle, génératrices
+Mixte
+Exonérée
+1 810
+2
+Pont-garage principal : voies pour automobiles et camions, cage d'escalier, escaliers mécaniques
+Exonérée
+Exonérée
+3 187
+3
+Pont‑coquerie : voies pour automobiles
+Exonérée
+Exonérée
+1 690
+4
+Pont-garage supérieur : voies pour automobiles, cage d'escalier, escaliers mécaniques
+Exonérée
+Exonérée
+3 002
+5
+Pont des passagers : cafétéria, boutique de cadeaux, téléphones publics, casse‑croûte, coquerie
+Taxable
+Taxable
+2 689
+6
+Pont bain de soleil : places assises extérieures, salle des ventilateurs, salles des employés, solariums
+Mixte
+Mixte
+3 232
+7
+Pont de passerelle : timonerie
+Exonérée
+Exonérée
+140
+15 610
+Calcul du consultant
+% d'utilisation taxable = (superficie taxable totale) / (superficie totale – superficie commune)
+% d'utilisation taxable = 25,11%
+Le consultant a utilisé 25 %
+Calcul de l'ARC
+% d'utilisation taxable = (superficie taxable totale) / (superficie totale – superficie commune)
+% d'utilisation taxable = 21,48%
+1005
+Pont
+Queen of Oak Bay
+Description des ponts
+Utilisation taxable (consultant)
+Utilisation taxable
+(ARC)
+Superficie m2
+1
+Pont de cale : salle des machines, réservoirs de carburant, d'eau et de mazout, salle de contrôle, génératrices
+Mixte
+Exonérée
+1 810
+2
+Pont-garage principal : voies pour automobiles et camions, cage d'escalier, escaliers mécaniques
+Exonérée
+Exonérée
+3 187
+3
+Pont‑coquerie : voies pour automobiles
+Exonérée
+Exonérée
+1 690
+4
+Pont-garage supérieur : voies pour automobiles, cage d'escalier, escaliers mécaniques
+Exonérée
+Exonérée
+3 002
+5
+Pont des passagers : cafétéria, boutique de cadeaux, téléphones publics, casse-croûte, coquerie
+Taxable
+Taxable
+2 689
+6
+Pont bain de soleil : places assises extérieures, salle des ventilateurs, salles des employés, solariums
+Mixte
+Mixte
+3 232
+7
+Pont de passerelle : timonerie
+Exonérée
+Exonérée
+140
+15 610
+Calcul du consultant
+% d'utilisation taxable = (superficie taxable totale) / (superficie totale – superficie commune)
+% d'utilisation taxable = 25,11 %
+Le consultant a utilisé 25 %
+Calcul de l'ARC
+% d'utilisation taxable = (superficie taxable totale) / (superficie totale – superficie commune)
+% d'utilisation taxable = 21,48 %
+1011
+Pont
+Spirit of British Columbia
+Description des ponts
+Utilisation taxable (consultant)
+Utilisation taxable
+(ARC)
+Superficie m2
+1
+Caillebotis : ballast, compartiments machines, salle de l'épurateur d'eau, réservoirs d'eau
+Mixte
+Exonérée
+2 438
+2
+Plateforme des machines : ballast, compartiments machines, salle des pompes, réservoirs d'eau
+Mixte
+Exonérée
+3 057
+3
+Pont principal : voies pour automobiles et camions, cage d'escalier, escaliers mécaniques
+Exonérée
+Exonérée
+3 800
+4
+Pont d'entrepont : voies pour automobiles
+Exonérée
+Exonérée
+1 162
+5
+Pont-garage supérieur : voies pour automobiles, cage d'escalier, escaliers mécaniques
+Exonérée
+Exonérée
+3 683
+6
+Pont‑promenade : restaurant libre‑service Pacific, cafétéria, boutique de cadeaux, salle de jeux, coquerie
+Taxable
+Taxable
+3 178
+7
+Terrasse intérieure : salon-bar, café, salles de conférence et cabines, salles des employés
+Mixte
+Mixte
+3 154
+8
+Pont de passerelle : compartiments de traitement de l'air, compartiments machines, timonerie
+Mixte
+Exonérée
+1 374
+21 848
+Calcul du consultant
+% d'utilisation taxable = (superficie taxable totale) / (superficie totale – superficie commune)
+% d'utilisation taxable = 26,88 %
+Le consultant a utilisé 27 %
+Calcul de l'ARC
+% d'utilisation taxable = (superficie taxable totale) / (superficie totale – superficie commune)
+% d'utilisation taxable = 17 %
+1012
+Pont
+Spirit of Vancouver Island
+Description des ponts
+Utilisation taxable (consultant)
+Utilisation taxable
+(ARC)
+Superficie m2
+1
+Caillebotis : ballast, compartiments machines, salle de l'épurateur d'eau, réservoirs d'eau
+Mixte
+Exonérée
+2 444
+2
+Plateforme des machines : ballast, compartiments machines, salle des pompes, réservoirs d'eau
+Mixte
+Exonérée
+3 054
+3
+Pont principal : voies pour automobiles et camions, cage d'escalier, escaliers mécaniques
+Exonérée
+Exonérée
+3 806
+4
+Pont d'entrepont : voies pour automobiles
+Exonérée
+Exonérée
+1 163
+5
+Pont-garage supérieur : voies pour automobiles, cage d'escalier, escaliers mécaniques
+Exonérée
+Exonérée
+3 716
+6
+Pont‑promenade : restaurant libre‑service Pacific, cafétéria, boutique de cadeaux, salle de jeux, coquerie
+Taxable
+Taxable
+3 369
+7
+Terrasse intérieure : salon‑bar, café, salles de conférence et cabines, salles des employés
+Mixte
+Mixte
+3 311
+8
+Pont de passerelle : compartiments de traitement de l'air, compartiments machines, timonerie
+Mixte
+Exonérée
+1 382
+22 245
+Calcul du consultant
+% d'utilisation taxable = (superficie taxable totale) / (superficie totale – superficie commune)
+% d'utilisation taxable = 27,95 %
+Le consultant a utilisé 27 %
+Calcul de l'ARC
+% d'utilisation taxable = (superficie taxable totale) / (superficie totale – superficie commune)
+% d'utilisation taxable = 17,79 %
+1021
+Pont
+Queen of Burnaby
+Description des ponts
+Utilisation taxable (consultant)
+Utilisation taxable
+(ARC)
+Superficie m2
+1
+Pont de cale : salle des machines, réservoirs de carburant, d'eau et de mazout, génératrices
+Mixte
+Exonérée
+1 977
+2
+Pont-garage principal : voies pour automobiles et camions, cage d'escalier, escaliers mécaniques
+Exonérée
+Exonérée
+2 574
+3
+Pont d'entrepont : voies pour automobiles
+Exonérée
+Exonérée
+774
+4
+Pont‑promenade : cafétéria, café, coquerie, salle de jeux, boutique de cadeaux, kiosque à journaux
+Taxable
+Taxable
+1 537
+5
+Pont bain de soleil : salon-bar, timonerie, espaces de stockage
+Mixte
+Mixte
+2 082
+8 944
+Calcul du consultant
+% d'utilisation taxable = (superficie taxable totale) / (superficie totale – superficie commune)
+% d'utilisation taxable = 31,46 %
+Le consultant a utilisé 30 %
+Calcul de l'ARC
+% d'utilisation taxable = (superficie taxable totale) / (superficie totale – superficie commune)
+% d'utilisation taxable = 22,40 %
+1022
+Pont
+Queen of Esquimalt
+Description des ponts
+Utilisation taxable (consultant)
+Utilisation taxable
+(ARC)
+Superficie m2
+1
+Pont de cale : salle des machines, réservoirs de carburant et de mazout, salle de contrôle
+Mixte
+Exonérée
+1 948
+2
+Pont-garage principal : voies pour automobiles et camions, cage d'escalier, escaliers mécaniques
+Exonérée
+Exonérée
+2 494
+3
+Pont d'entrepont : voies pour automobiles
+Exonérée
+Exonérée
+1 858
+4
+Pont-garage supérieur : voies pour automobiles, cage d'escalier, escaliers mécaniques
+Exonérée
+Exonérée
+2 402
+5
+Pont‑promenade : cafétéria, casse-croûte, coquerie, salle de jeux, boutique de cadeaux
+Taxable
+Taxable
+1 515
+6
+Pont bain de soleil : salle à manger, coquerie, bar-salon, salles des employés, timonerie
+Mixte
+Mixte
+2 017
+12 234
+Calcul du consultant
+% d'utilisation taxable = (superficie taxable totale) / (superficie totale – superficie commune)
+% d'utilisation taxable = 18,32 %
+Le consultant a utilisé 18 %
+Calcul de l'ARC
+% d'utilisation taxable = (superficie taxable totale) / (superficie totale – superficie commune)
+% d'utilisation taxable = 14,83 %
+1023
+Pont
+Queen of Nanaimo
+Description des ponts
+Utilisation taxable (consultant)
+Utilisation taxable
+(ARC)
+Superficie m2
+1
+Pont principal inférieur : salle des machines, réservoirs de carburant et de mazout, salle de contrôle
+Mixte
+Exonérée
+1 738
+2
+Pont-garage principal : voies pour automobiles et camions, cage d'escalier, escaliers mécaniques
+Exonérée
+Exonérée
+2 562
+3
+Pont d'entrepont : voies pour automobiles
+Exonérée
+Exonérée
+876
+4
+Pont‑promenade : cafétéria, casse-croûte, coquerie, salle de jeux, boutique de cadeaux
+Taxable
+Taxable
+1 502
+5
+Pont bain de soleil : bar-salon, chaloupes de sauvetage, timonerie, salles des employés
+Mixte
+Mixte
+1 148
+7 826
+Calcul du consultant
+% d'utilisation taxable = (superficie taxable totale) / (superficie totale – superficie commune)
+% d'utilisation taxable = 22,49 %
+Le consultant a utilisé 30 %
+Calcul de l'ARC
+% d'utilisation taxable = (superficie taxable totale) / (superficie totale – superficie commune)
+% d'utilisation taxable = 22,49 %
+1024
+Pont
+Queen of New Westminster
+Description des ponts
+Utilisation taxable (consultant)
+Utilisation taxable
+(ARC)
+Superficie m2
+1
+Pont principal inférieur : salle des machines, réservoirs de carburant et de mazout, salle de contrôle
+Mixte
+Exonérée
+1 748
+2
+Pont-garage principal : voies pour automobiles et camions, cage d'escalier, escaliers mécaniques
+Exonérée
+Exonérée
+2 434
+3
+Pont-garage supérieur : voies pour automobiles, cage d'escalier, escaliers mécaniques
+Exonérée
+Exonérée
+2 434
+4
+Pont‑promenade : cafétéria, casse-croûte, coquerie, salle de jeux, boutique de cadeaux, kiosque à journaux
+Taxable
+Taxable
+1 572
+5
+Pont bain de soleil : chaloupes de sauvetage, salles des employés, timonerie, bars-salons
+Mixte
+Mixte
+2 224
+10 412
+Calcul du consultant
+% d'utilisation taxable = (superficie taxable totale) / (superficie totale – superficie commune)
+% d'utilisation taxable = 24,41 %
+Le consultant a utilisé 24 %
+Calcul de l'ARC
+% d'utilisation taxable = (superficie taxable totale) / (superficie totale – superficie commune)
+% d'utilisation taxable = 19,20 %
+1025
+Pont
+Queen of Saanich
+Description des ponts
+Utilisation taxable (consultant)
+Utilisation taxable
+(ARC)
+Superficie m2
+1
+Pont principal inférieur : salle des machines, réservoirs de carburant et de mazout, salle de contrôle
+Mixte
+Exonérée
+1 842
+2
+Pont-garage principal : voies pour automobiles et camions, cage d'escalier, escaliers mécaniques
+Exonérée
+Exonérée
+2 533
+3
+Pont d'entrepont : voies pour automobiles
+Exonérée
+Exonérée
+921
+4
+Pont-garage supérieur : voies pour automobiles, cage d'escalier, escaliers mécaniques
+Exonérée
+Exonérée
+2 367
+5
+Pont‑promenade : cafétéria, casse-croûte, coquerie, salle de jeux, boutique de cadeaux
+Taxable
+Taxable
+1 510
+6
+Pont bain de soleil : salle à manger, salle de jeux, coquerie, salles des employés, timonerie
+Mixte
+Mixte
+2 011
+11 184
+Calcul du consultant
+% d'utilisation taxable = (superficie taxable totale) / (superficie totale – superficie commune)
+% d'utilisation taxable = 20,60 %
+Le consultant a utilisé 20 %
+Calcul de l'ARC
+% d'utilisation taxable = (superficie taxable totale) / (superficie totale – superficie commune)
+% d'utilisation taxable = 16,46 %
+1026
+Pont
+Queen of Vancouver
+Description des ponts
+Utilisation taxable (consultant)
+Utilisation taxable
+(ARC)
+Superficie m2
+1
+Pont de cale : salle des machines, réservoirs de carburant et de mazout, salle de contrôle
+Mixte
+Exonérée
+1 948
+2
+Pont-garage principal : voies pour automobiles et camions, cage d'escalier, escaliers mécaniques
+Exonérée
+Exonérée
+2 586
+3
+Pont d'entrepont : voies pour automobiles
+Exonérée
+Exonérée
+926
+4
+Pont-garage supérieur : voies pour automobiles, cage d'escalier, escaliers mécaniques
+Exonérée
+Exonérée
+2 399
+5
+Pont‑promenade : cafétéria, casse-croûte, coquerie, salle de jeux, boutique de cadeaux
+Taxable
+Taxable
+1 553
+6
+Pont bain de soleil : salle à manger, coquerie, salles des employés, chaloupes de sauvetage
+Mixte
+Mixte
+2 022
+11 434
+Calcul du consultant
+% d'utilisation taxable = (superficie taxable totale) / (superficie totale – superficie commune)
+% d'utilisation taxable = 20,81 %
+Le consultant a utilisé 20 %
+Calcul de l'ARC
+% d'utilisation taxable = (superficie taxable totale) / (superficie totale – superficie commune)
+% d'utilisation taxable = 16,50 %
+1041
+Pont
+Queen of Prince Rupert
+Description des ponts
+Utilisation taxable (consultant)
+Utilisation taxable
+(ARC)
+Superficie m2
+1
+Pont des ballasts : réservoirs de carburant et de mazout, compartiments moteurs et génératrices
+Mixte
+Exonérée
+831
+2
+Entrepont : cabines des employés, toilettes, salle des machines, magasins
+Mixte
+Exonérée
+1 061
+3
+Pont-garage principal : voies pour automobiles et camions, cage d'escalier, escaliers mécaniques
+Exonérée
+Exonérée
+1 376
+4
+Pont d'entrepont : voies pour automobiles
+Exonérée
+Exonérée
+584
+5
+Pont bar-salon intérieur : cabines des passagers, bar, salle de jeux, salon avec permis d'alcool
+Taxable
+Taxable
+1 212
+6
+Pont salon intérieur : deux cafétérias, bar, coquerie
+Taxable
+Taxable
+820
+7
+Pont des chaloupes intérieur : cabines des passagers, cabines des employés
+Mixte
+Exonérée
+399
+8
+Pont supérieur : timonerie, climatisation, cabines des employés, terrasse, génératrices
+Mixte
+Exonérée
+346
+6 429
+Calcul du consultant
+% d'utilisation taxable = (superficie taxable totale) / (superficie totale – superficie commune)
+% d'utilisation taxable = 50,90 %
+Le consultant a utilisé 51 %
+Calcul de l'ARC
+% d'utilisation taxable = (superficie taxable totale) / (superficie totale – superficie commune)
+% d'utilisation taxable = 31,61 %
+1044
+Pont
+Queen of the North
+Description des ponts
+Utilisation taxable (consultant)
+Utilisation taxable
+(ARC)
+Superficie m2
+1
+Pont des ballasts : réservoirs de carburant et de mazout
+Mixte
+Exonérée
+807
+2
+Entrepont : cabines des employés, cabines des passagers, toilettes, salle des machines
+Mixte
+Exonérée
+1 096
+3
+Pont-garage principal : voies pour automobiles et camions, cage d'escalier, escaliers mécaniques
+Exonérée
+Exonérée
+1 779
+4
+Pont d'entrepont : voies pour automobiles
+Exonérée
+Exonérée
+832
+5
+Pont salon : restaurant libre‑service Evergreen, bar Dogwood, café Lighthouse, coquerie, boutique de cadeaux
+Taxable
+Taxable
+1 509
+6
+Pont‑promenade : cabines des passagers, casse-croûte, salle de jeux, bar-salon avec places réservées
+Taxable
+Taxable
+1 300
+7
+Pont des chaloupes : cabines des passagers, cabines des employés, mess des officiers, timonerie
+Mixte
+Exonérée
+699
+8
+Pont supérieur : ventilation, chaloupes de sauvetage, places assises extérieures
+Mixte
+Exonérée
+346
+8 368
+Calcul du consultant
+% d'utilisation taxable = (superficie taxable totale) / (superficie totale – superficie commune)
+% d'utilisation taxable = 51,83 %
+Le consultant a utilisé 51 %
+Calcul de l'ARC
+% d'utilisation taxable = (superficie taxable totale) / (superficie totale – superficie commune)
+% d'utilisation taxable = 33,57 %
+1045
+Pont
+Queen of Tsawwassen
+Description des ponts
+Utilisation taxable (consultant)
+Utilisation taxable
+(ARC)
+Superficie m2
+1
+Pont principal inférieur : salle des machines, réservoirs de carburant et de mazout, salle de contrôle, génératrices
+Mixte
+Exonérée
+1 534
+2
+Pont-garage principal : voies pour automobiles et camions, cage d'escalier
+Exonérée
+Exonérée
+1 845
+3
+Pont-garage supérieur : voies pour automobiles, cage d'escalier
+Exonérée
+Exonérée
+455
+4
+Pont‑promenade intérieur : cafétéria, coquerie, salle de jeux, distributrices
+Taxable
+Taxable
+909
+5
+Pont bain de soleil : chaloupes de sauvetage, salles des employés, timonerie, bars-salons, coquerie, magasins de la coquerie
+Mixte
+Mixte
+1 021
+5 764
+Calcul du consultant
+% d'utilisation taxable = (superficie taxable totale) / (superficie totale – superficie commune)
+% d'utilisation taxable = 28,33 %
+Le consultant a utilisé 29 %
+Calcul de l'ARC
+% d'utilisation taxable = (superficie taxable totale) / (superficie totale – superficie commune)
+% d'utilisation taxable = 19,17 %
+1046
+Pont
+Queen of Chilliwack
+Description des ponts
+Utilisation taxable (consultant)
+Utilisation taxable
+(ARC)
+Superficie m2
+1
+Coque inférieure : réservoirs de carburant et de mazout, réservoir d'eau, génératrices
+Mixte
+Exonérée
+716
+2
+Pont-garage principal : voies pour automobiles et camions, cage d'escalier, escaliers mécaniques
+Exonérée
+Exonérée
+1 343
+3
+Pont d'entrepont : voies pour automobiles
+Exonérée
+Exonérée
+375
+4
+Pont‑promenade intérieur : bar-salon, cafétéria, coquerie, salle de jeux, boutique de cadeaux
+Taxable
+Taxable
+862
+5
+Terrasse intérieure : cabines des employés, ventilation
+Mixte
+Mixte
+699
+6
+Pont de passerelle : places assises, timonerie
+Mixte
+Exonérée
+346
+4 341
+Calcul du consultant
+% d'utilisation taxable = (superficie taxable totale) / (superficie totale – superficie commune)
+% d'utilisation taxable = 33,41 %
+Le consultant a utilisé 30 %
+Calcul de l'ARC
+% d'utilisation taxable = (superficie taxable totale) / (superficie totale – superficie commune)
+% d'utilisation taxable = 23,67 %
+Conclusion : utiliser les pourcentages d'utilisation taxable de l'ARC dans le calcul des répartitions des CTI pour juin 2005.
+APPENDICE B
+[TRADUCTION]
+1043 Northern Adventure
+CALCUL DE L'UTILISATION TAXABLE
+Circuit : Passage intérieur
+Selon l'ARC
+Selon l'ARC
+Selon
+BCF
+Pont
+Description des ponts
+Taxable
+Exonérée
+Utilisation taxable
+BCF Utilisation taxable
+Superficie m2
+Principales utilisations des intrants
+1
+Pont des ballasts : réservoirs de carburant et de mazout
+238
+Exonérée
+Mixte
+238
+Fournitures taxables et exonérées
+2
+Entrepont : cale de chargement, salle des machines, compartiments machines
+1 176
+Exonérée
+Mixte
+1 176
+Fournitures taxables et exonérées
+3
+Pont-garage principal : voies pour automobiles et camions, cage d'escalier, escaliers mécaniques
+1 886
+Exonérée
+Exonérée
+1 886
+Fourniture exonérée
+4
+Pont d'entrepont : voies pour automobiles
+387
+Exonérée
+Exonérée
+387
+Fourniture exonérée
+5
+Pont des cabines : cabines des passagers, aire d'accueil
+1 668
+Taxable – Ex.
+Taxable
+1 668
+Fourniture taxable
+6
+Pont‑promenade : cafétéria, magasin, salle de jeux, bar-salon avec fauteuils
+XXX
+Taxable
+Taxable
+1 320
+Fourniture taxable
+6
+Pont‑promenade : places assises extérieures
+XXX
+Exonérée
+Mixte
+395
+7
+Pont des chaloupes : cabines des passagers, cabines des employés, mess des officiers, mess de l'équipage
+900
+Exonérée
+Mixte
+900
+Fournitures taxables et exonérées
+7
+Pont des chaloupes : pont extérieur, places assises extérieures
+233
+Exonérée
+Mixte
+233
+8
+Pont supérieur : salle de ventilation, chaloupes de sauvetage, places assises extérieures, timonerie
+1 160
+Exonérée
+Mixte
+1 160
+Fournitures taxables et exonérées
+1 320
+7 648
+9 363
+% d'utilisation taxable = (superficie taxable totale) / (superficie totale – superficie mixte)
+% d'utilisation taxable selon BCF = XXX
+% d'utilisation taxable selon l'ARC (selon BCF) = XXX
+% d'utilisation taxable selon l'ARC (selon l'ARC) = XXX
+RÉFÉRENCE :
+2014 CCI 305
+NOS DES DOSSIERS DE LA COUR :
+2008-1600(GST)G
+2013-4206(GST)G
+INTITULÉ :
+BRITISH COLUMBIA FERRY SERVICES INC. et SA MAJESTÉ LA REINE
+LIEU DE L'AUDIENCE :
+Nanaimo (Colombie-Britannique)
+DATES DE L'AUDIENCE :
+Les 3, 4, 5 et 6 juin 2014
+MOTIFS DU JUGEMENT PAR :
+L'honorable juge Diane Campbell
+DATE DU JUGEMENT :
+Le 14 octobre 2014
+COMPARUTIONS :
+Avocats de l'appelante :
+Me Kimberley L. Cook
+Me Asif Abdulla
+Avocats de l'intimée :
+Me Ron D.F. Wilhelm
+Me Michael Taylor
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelante :
+Nom :
+Kimberley L. Cook
+Asif Abdulla
+Cabinet :
+Thorsteinssons LLP
+Pour l'intimée :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] CFA, par. 2(4) et 3(2).
+[2] CFA, par. 3(4).
+[3] CFA, par. 4(1).
+[4] CFA, par. 5(3).
+[5] CFA, par. 18(4), (5) et (7).
+[6] CFA, par. 18(1), (2), (3) et (6).
+[7] CFA, art. 35 et par. 38(1) et (2).
+[8] CFA, par. 35(1) et art. 64.
+[9] CFA, art. 57.
+[10] CFA, art. 43 et 44.
+[11] CFA, art. 41.
+[12] CFA, art. 39 et 1, « first performance term » (première période de rendement).
+[13] CFA, art. 38.
+[14] CFA, art. 38.
+[15] CFA, art. 46 et 48.
+[16] CFA, art. 52 et 53.
+[17] CFA, art. 28.
+[18] CFA, par. 38(2) et art. 66.
+[19] CFA, par. 38(2) et art. 65.
+[20] CFA, art. 67.
+[21] CFA, par. 68(3).
+[22] CFA, par. 38(2).
+[23] CFA, par. 70(1) et (3).

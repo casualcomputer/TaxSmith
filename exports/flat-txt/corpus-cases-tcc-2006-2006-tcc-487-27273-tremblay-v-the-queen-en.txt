@@ -1,0 +1,156 @@
+Title: Tremblay v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27273/index.do
+Corpus path: corpus/cases/tcc/2006/2006-tcc-487-27273-tremblay-v-the-queen-en.md
+Document type: case_law
+Last modified: 2006-09-14
+
+# Tremblay v. The Queen
+
+- Citation: 2006 TCC 487
+- Decision date: 2006-09-14
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 880, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Tremblay v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-09-14
+Neutral citation
+2006 TCC 487
+File numbers
+2006-1321(IT)I
+Judges and Taxing Officers
+Alain Tardif
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2006-1321(IT)I
+BETWEEN:
+FRANCIS TREMBLAY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on August 23, 2006, at Chicoutimi, Quebec.
+Before: The Honourable Justice Alain Tardif
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Christina Ham
+____________________________________________________________________
+JUDGMENT
+The appeal from assessments under the Income Tax Act for the 2000 and 2001 taxation years is dismissed without costs in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 14th day of September 2006.
+“Alain Tardif”
+Tardif J.
+Translation certified true
+on this 27th day of April 2007.
+Gibson Boyd, Translator
+Citation: 2006TCC487
+Date: 20060914
+Docket: 2006-1321(IT)I
+BETWEEN:
+FRANCIS TREMBLAY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Tardif J.
+[1] This is an appeal from assessments made by the Minister of National Revenue (the “Minister”) under the Income Tax Act (the “Act”) for the 2000 and 2001 taxation years. The Minister determined that the Appellant had benefited from the use of a vehicle that was owned by the company of which he held all of the shares.
+[2] The issue is whether the Minister was justified in adding the amount $10,566 for the 2000 taxation year and $11,077 for the 2001 taxation year as benefit from the use of a company vehicle.
+[3] The Minister relied on the following assumptions of fact to make his assessment:
+(a) During the taxation years at issue, the Appellant was the sole shareholder, administrator and employee of the company 9028-6493 Québec (the “Company”) Inc.; (admitted) with correction
+(b) The Appellant kept no record of the use of the vehicle; (admitted)
+(c) During the taxation years at issue, the Company made available to the Appellant disposal a Ford F‑350 purchased on April 19, 1999, for $46,585; (admitted)
+(d) The Appellant’s residence is 5 km from the Company’s place of business; (admitted)
+(e) The auditor considered that the Appellant made the journey between his residence and the Company’s place of business twice per day, five days per week 48 weeks per year for a total of 2,400 km per year; (denied)
+(f) The auditor estimated the Appellant’s personal use of the vehicle at 23%; (neither denied nor admitted)
+(g) The reasonable standby charge for the Appellant came to $10,566 for the 2000 taxation year and $11,077 for the 2001 taxation year.
+[4] The Appellant, who had the burden of proof, admitted subparagraphs (a) through (d).
+[5] He testified that the vehicle concerned in the assessment was a heavy vehicle requiring special registration. He also stated that he had received a ticket because the vehicle did not have the proper registration, which forced him to keep the truck off the roads for a long period of time. He also explained that he had brought proceedings against Ford because he had been misled regarding the truck’s features.
+[6] He also admitted that the vehicle was in his possession and that it was available for personal use, as it was parked at his private residence at all times. This was to avoid problems of vandalism, which were more likely to occur if the truck were parked at the Company’s place of business. Despite this admission, the Appellant stated that he had not used the truck for personal reasons.
+[7] The Appellant strenuously objected to the Minister’s calculation of the personal use of the vehicle; personal use was determined to be 23% based on two journeys per day between his residence and the workshop, totalling 2,400 km/year out of a total use of 10,812 km.
+[8] In support of his objection, he stated that he hadn’t used the vehicle in question during the winter season. However, he admitted that the truck stayed registered and that his insurance remained in effect. He also stated that the vehicle was not moved for a long time due to the wrong registration.
+[9] A log book was kept in the truck pursuant to road regulations, as is the case for very heavy trucks and trucks that haul long trailers. Despite this obligation, the Appellant did not see fit to also keep a record to note personal trips or use.
+[10] The Court was therefore unable to calculate the amount of personal use from the explanations submitted by the Appellant. One thing is certain, the trips between his residence and the workshop were undeniably personal in nature.
+[11] The Respondent called Richard Perron. Mr. Perron, an employee of Revenu Québec, explained that he had been the one to assess the mileage done for personal reasons. He explained that he had first checked, using a reliable method, the vehicle’s yearly mileage.
+[12] After that, he essentially multiplied the mileage travelled daily between the Appellant’s private residence and the workshop. Then, he subtracted the mileage determined to be personal (trips between the residence and the workshop) from the total mileage on the vehicle and arrived at the proportion of 23% personal use.
+[13] In Adams v. Canada, [1998] F.C.D. No. 477, (QL), Strayer, Décary and Robertson JJ.A. say the following in paragraphs 1, 8 and 17:
+. . . Pursuant to paragraph 6(1)(e), and subsections 6(2) and 6(2.1) of the Income Tax Act, the Minister reassessed the taxpayers on the basis of a "reasonable standby charge" for the use of automobiles "made available" to them by their employer during the taxation years in question. Those provisions read as follows:
+Section 6(1) There shall be included in computing the income of a taxpayer for a taxation year as income from an office or employment such of the following amounts as are applicable:
+6(1)(e) where the taxpayer's employer or a person
+related to the employer made an automobile available to the taxpayer, or to a person related to the taxpayer, in the year, the amount, if any, by which
+(i) an amount that is a reasonable standby charge for the automobile for the total number of days in the year during which it was made so available exceeds
+(ii) the total of all amounts, each of which is an amount (other than an expense related to the operation of the automobile) paid in the year to the employer or the person related to the employer by the taxpayer or the person related to the taxpayer for the use of the automobile.
+. . .
+6(2) For the purposes of paragraph 1(e), a reasonable standby charge for an automobile for the total number of days (in this subsection referred to as the "total available days") in a taxation year during which the automobile is made available to a taxpayer or to a person related to the taxpayer by the employer of the taxpayer or by a person related to the employer (both of whom are in this subsection referred to as the "employer") shall be deemed to be the amount determined by the formula
+A/B x [2% x (C x D) + 2/3 x (E - F)]
+where
+A is the lesser of
+(a) the total number of kilometres that the automobile is driven (otherwise than in connection with or in the course of the taxpayer's office or employment) during the total available days, and
+(b) the value determined for B for the year under this subsection in respect of the standby charge for the automobile during the total available days,
+except that the amount determined under paragraph (a) shall be deeded to be equal to the amount determined under paragraph (b) unless
+(c) the taxpayer is required by the employer to use the automobile in connection with or in the course of the office or employment, and
+(d) all or substantially all of the distance travelled by the automobile in the total available days is in connection with or in the course of the office or employment;
+B is the product obtained when 1,000 is multiplied by the quotient obtained by dividing the total available days by 30 and, if the quotient so obtained is not a whole number and exceeds one, by rounding it to the nearest whole number or, where that quotient is equidistant from two consecutive whole numbers, by rounding it to the lower of those two numbers;
+C is the cost of the automobile to the employer where the employer owns the vehicle at any time in the year;
+D is the number obtained by dividing such of the total available days as are days when the employer owns the automobile by 30 and, if the quotient so obtained is not a whole number and exceeds one, by rounding it to the nearest whole number or, where that quotient is equidistant from two consecutive whole numbers, by rounding it to the lower of those two numbers;
+E is the total of all amounts that may reasonably be regarded as having been payable by the employer to a lessor for the purpose of leasing the automobile during such of the total available days as are days when the automobile is leased to the employer; and
+F is the part of the amount determined for E that may reasonably be regarded as having been payable to the lessor in respect of all or part of the cost to the lessor of insuring against
+(a) loss of, or damage to, the automobile, or
+(b) liability resulting from the use or operation of the automobile.
+. . .
+6(2.1) Where in a taxation year
+(a) a taxpayer was employed principally in selling or leasing automobiles,
+(b) an automobile owned by the taxpayer's employer was made available by the employer to the taxpayer or to a person related to the taxpayer, and
+(c) the employer has acquired one or more automobiles, the amount that would otherwise be determined under subsection (2) as a reasonable standby charge shall, at the option of the employer, be computed as if
+(d) the reference in the formula in subsection (2) to "2%" were read as a reference to "1 1/2%", and
+(e) the cost to the employer of the automobile were the greater of
+(i) the quotient obtained by dividing (A) the cost to the employer of all new automobiles acquired by the employer in the year for sale or lease in the course of the employer's business by
+(B) the number of automobiles described in clause (A), and
+(ii) (ii) the quotient obtained by dividing (A) the cost to the employer of all automobiles acquired by the employer in the year for sale or lease in the course of the employer's business by
+(B) the number of automobiles described in clause (A).
+[Emphasis mine]
+8 . . . In short, an automobile is made available to an employee if it is at his or her disposal and there is a concomitant right of usage. Indeed, actual usage by an employee, for either personal or business purposes, is not expressly required. A mere right of usage is sufficient, of which more will be said below. Within this context, it is clear to me that the broad and unqualified language found in both linguistic versions of paragraph 6(1)(e) reinforces the Minister's argument that unrestricted use of an automobile is not a condition precedent to the application of that provision. . . .
+17 In summary, the broad wording used in both linguistic versions of paragraph 6(1)(e), coupled with its legislative history, support the Minister's position. In my respectful view, unrestricted or exclusive use of an employer's automobile is not a condition precedent to the imposition of a standby charge. Nor is actual usage required, whether it be for personal or business purposes. What is required is that an employer have made an automobile available to, or at the disposition of, an employee and, correlatively, that he or she have had a right to use it. This is only logical since subsection 6(2) deems an employee to have made personal use of an employer's automobile, irrespective of whether this is so. In my view, the standby provisions were carefully crafted with the object of promoting certainty at the expense of flexibility. That being said the harsh consequences which flow from a deeming provision are tempered by the "minimal personal use" exception grafted on to subsection 6(2) in response to this Court's decision in Harman . This is the point in time where actual usage and the purposes for which the automobile was made available become relevant considerations.
+[14] The method used to determine the personal use of the vehicle was quite reasonable, especially since the absence of a log book made it the only way to proceed.
+[15] The vehicle was indeed unused for a certain period; however, it was obviously used for personal reasons, specifically for trips between the workshop and the residence. This is one area where there is no doubt that there was personal use, since the trips between the Appellant’s residence and the workshop where he worked constituted travel of an essentially personal nature.
+[16] Moreover, the Appellant formally admitted that the company of which he was the sole shareholder had put at his disposal a Ford F‑350 purchased on April 19, 1999, for $46,585.
+[17] Since the Appellant could not demonstrate convincingly that the mileage done for personal reasons was less than the mileage on which the assessment was based and since the method the Minister used to determine the mileage was reasonable, the Court has no choice but to confirm the validity of the assessment.
+[18] For these reasons, the appeal is dismissed.
+Signed at Ottawa, Canada, this 14th day of September 2006.
+“Alain Tardif”
+Tardif J.
+Translation certified true
+on this 27th day April 2007.
+Gibson Boyd, Translator
+CITATION: 2006TCC487
+COURT FILE NO.: 2006-1321(IT)I
+STYLE OF CAUSE: Francis Tremblay and Her Majesty the Queen
+PLACE OF HEARING: Chicoutimi, Quebec
+DATE OF HEARING: August 23, 2006
+REASONS FOR JUDGMENT BY: The Honourable Justice Alain Tardif
+DATE OF JUDGMENT: September 14, 2006
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Christina Ham
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

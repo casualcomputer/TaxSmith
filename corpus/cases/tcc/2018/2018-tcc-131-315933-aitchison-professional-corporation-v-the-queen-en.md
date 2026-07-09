@@ -1,0 +1,186 @@
+---
+title: "Aitchison Professional Corporation v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/315933/index.do"
+last_modified: "2018-07-06"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2018 TCC 131"
+citation2: ""
+neutral_citation: "2018 TCC 131"
+decision_date: "2018-07-06"
+language: "en"
+item_id: "315933"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4954
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T11:43:43.828000+00:00"
+cases_cited_count: 1
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "4cdc7775756fe526fe6380a666a064fab6ab132b16df9a040fe0f57137d2804c"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Aitchison Professional Corporation v. The Queen
+
+- Citation: 2018 TCC 131
+- Decision date: 2018-07-06
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4954, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Aitchison Professional Corporation v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2018-07-06
+Neutral citation
+2018 TCC 131
+File numbers
+2014-844(IT)G
+Judges and Taxing Officers
+David E. Graham
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2014-844(IT)G
+BETWEEN:
+AITCHISON PROFESSIONAL CORPORATION,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on May 14, 15 and 17, 2018, at Toronto, Ontario
+Before: The Honourable Justice David E. Graham
+Appearances:
+Counsel for the Appellant:
+Adrienne K. Woodyard
+Counsel for the Respondent:
+Samantha Hurst
+JUDGMENT
+The appeal of the assessment under section 160 of the Income Tax Act is allowed. The assessment is vacated.
+Costs are awarded to the Appellant. The parties shall have 30 days from the date hereof to reach an agreement on costs, failing which the Appellant shall have a further 30 days to file written submissions on costs and the Respondent shall have yet a further 30 days to file a written response. Any such submissions shall not exceed 10 pages in length. If the parties do not advise the Court that they have reached an agreement and no submissions are received within the foregoing time limits, costs shall be awarded to the Appellant as set out in the Tariff.
+Signed at Ottawa, Canada, this 6th day of July 2018.
+“David E. Graham”
+Graham J.
+Citation: 2018 TCC 131
+Date: 20180706
+Docket: 2014-844(IT)G
+BETWEEN:
+AITCHISON PROFESSIONAL CORPORATION,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Graham J.
+[1] Aitchison Professional Corporation (“APC”) is a law corporation which carries on business under the name Aitchison Law Office. APC was incorporated in December 2003 by three lawyers: James Aitchison and his daughters, Kelly Aitchison and Laurie Aitchison. For simplicity, I will refer to these three individuals as James, Kelly and Laurie and will refer to them collectively as the Aitchisons.
+[2] In 2012, the Minister of National Revenue assessed APC for almost $2.1 million pursuant to section 160 of the Income Tax Act. The assessment was premised on the assumption that James had transferred property worth more than $3 million to APC for little or no consideration between January 1, 2007 and September 30, 2010. The Respondent alleges that the property transferred was what the Respondent describes as James’ “right to invoice for legal services”.
+[3] There is no dispute that, at the time of the alleged transfers, James owed almost $2.1 million to the Canada Revenue Agency. [1] James has not paid any federal income tax since 1992. His tax debt remains outstanding today and has since accrued a further six years’ worth of interest.
+[4] The first issue in this appeal is whether James transferred property to APC in the form of his “right to invoice for legal services”. If I find that James transferred such property, the second issue is what the fair market value of that property was.
+[5] In 2016, APC brought an application pursuant to section 58 of the Tax Court of Canada Rules (General Procedure) to have the first issue answered. Justice Campbell Miller denied the application and ordered that the appeal proceed to trial. However, Justice Miller ordered that the trial be bifurcated, that the first part of the trial address the first issue and, if necessary, that the trial later continue and address the second issue. In accordance with that order, I have now heard evidence and argument on the first issue. Since I have found in APC’s favour on the first issue, it will not be necessary to continue with the second issue.
+Right to Invoice for Legal Services
+[6] The Respondent has used the phrase “right to invoice for legal services” to describe the property that she says James transferred to APC. APC submits that a “right to invoice for legal services” is not “property” as defined in subsection 248(1) of the Act.
+[7] The word “property” is defined very broadly in subsection 248(1) of the Act. The definition includes “a right of any kind whatever”. While “property” has a very broad meaning, not everything of value is “property”. [2]
+[8] As explained by the Federal Court of Appeal in Manrell v. The Queen: [3]
+[25] It is implicit in this notion of “property” that “property” must have or entail some exclusive right to make a claim against someone else. A general right to do something that anyone can do, or a right that belongs to everyone, is not the “property” of anyone . . . .
+. . .
+[50] The phrase . . . “a right of any kind whatever”, like the word “property”, has a very broad meaning. But it is not a word of infinite meaning. It cannot include every conceivable right. It cannot be given a meaning that would extend the reach of the Income Tax Act beyond what Parliament has conceived
+[9] Whether the “right to invoice for legal services” is property or not will depend on how the Respondent says that right arose and was transferred.
+[10] The Respondent had difficulty articulating exactly how James’ “right to invoice for legal services” is property. With respect, this is because the Respondent is trying to fit a square peg into a round hole. [4] The Respondent is trying to take something that is clearly the provision of a service and make it a transfer of property.
+[11] In essence, I understand the Respondent’s position to be that all lawyers have a licence to practise law and that the licence itself is not property but that the right to invoice for legal services that the licence allows is property. The Respondent submits that Kelly and Laurie gave their right to invoice for legal services up when they became employees of APC but that James was never an employee or an independent contractor and thus he never gave that right up. Therefore, the Respondent argues that each time James worked on a file, he transferred his right to invoice for his legal services to APC for no consideration. I disagree with the Respondent’s position for the following reasons.
+[12] The Respondent’s argument is premised on the idea that James performed work for APC but was not an employee of APC and did not provide his services to APC as an independent contractor. Yet, the Respondent has not presented me with a viable alternative characterization of what James was doing. The Respondent would have me accept that James somehow worked on APC’s behalf for APC’s clients for years on end without somehow having any legal relationship with APC. [5]
+[13] The Respondent points out that James did not have a written employment agreement with APC. While it would be prudent for a professional corporation to have an employment agreement with its professionals in order to clearly delineate the difference between the professional and the corporation, it is not mandatory that they have one and a lack of one does not mean that no employment relationship existed.
+[14] Despite the fact that Kelly and Laurie did not have written employment agreements, the Minister has accepted that they were employees of APC. Presumably, this is because they were paid by APC. My understanding is that the Respondent is arguing that, because APC did not pay James, there was never any consideration provided for whatever his arrangement was with APC and thus that no contractual employment arrangement existed. However, it still remains that James provided services to APC’s clients on behalf of APC. The fact that he chose to do so far no consideration does not change the nature of his relationship with APC. At worst it makes him a volunteer.
+[15] Based on all of the foregoing, I find that James was either employed by APC for no salary or worked for APC as a volunteer. For the purposes of this appeal, it is not necessary for me to determine which of those two roles James held or whether there is any legal difference between them. Having concluded that James was either an unpaid employee or a volunteer, I must now consider whether he would have transferred “property” to APC in either of those roles.
+[16] In an employment context, only some rights are property. A law firm is retained by its clients. The firm performs services for those clients in exchange for fees. To perform those services, the firm hires employees and pays salaries to those employees. An employee negotiates the terms of his or her employment with the firm. Nothing that the employee provides to the firm could be described as “property”. An employee provides services, not property. The same is true for a volunteer. A lawyer who volunteers at a pro bono clinic provides services, not property.
+[17] By virtue of accepting employment, an employee may give up the right to provide legal services to clients on his or her own account. In other words, he or she may agree not to compete with his or her employer. The right to compete is a right that all lawyers have and that is not enforceable against anyone. It is not “property”. [6]
+[18] Having acted in accordance with the terms of his or her contract, an employee has a right to payment pursuant to the terms of that contract. That right, more accurately described as a salary receivable, is “property”. Had James and APC agreed that James would be paid $200,000 per year and had James later waived his right to receive that payment, James could have been said to have transferred property (i.e. his salary receivable) to APC. However, the Respondent is not alleging that such a transfer occurred nor is there any evidence that it did. All of the evidence indicates that APC never agreed to pay James any salary and that James never sought any salary from APC.
+[19] By definition, volunteers are not compensated for their work. While employees should, of course, be fairly compensated for their work, their right to compensation flows from the employment contracts that they negotiate. The right to negotiate is a right that everyone possesses and that is enforceable against no one. It is not “property”. If an employee negotiates a poor contract, the potential salary that he or she leaves on the table is not “property” that he or she has transferred to his or her employer. It is simply a lost opportunity. An employee does not have an enforceable right to the salary that he or she never negotiated. This is true even if an employee agrees to work for free. The size of the lost opportunity does not change its character.
+Saulnier v. Royal Bank of Canada
+[20] The Respondent relies on the Supreme Court of Canada decision in Saulnier v. Royal Bank of Canada [7] for the idea that, while a licence itself may not be property, the ability to earn money from the licence is property. In Saulnier, the Supreme Court dealt with a fishing licence. The Court held that the licence was a “licence to participate in the fishery coupled with a proprietary interest in the fish caught according to its terms and subject to the [Minister of Fisheries]’ regulation” and was “property”. [8] The Respondent says that James’ ability to earn money from his licence to practise law is similarly “property”.
+[21] However, the issue in Saulnier was whether commercial fishing licences constituted “property” under the Bankruptcy and Insolvency Act (the “BIA”) [9] or the Personal Property Security Act (Nova Scotia) (the “PPSA”), [10] not the Income Tax Act. The Supreme Court framed the issue as follows: [11]
+The questions before the Court essentially raise a dispute about statutory interpretation. We are not concerned with the concept of “property” in the abstract. The notion of “property” is, in any event, a term of some elasticity that takes its meaning from the context. The task is to interpret the definitions in the BIA and PPSA in a purposeful way having regard to “their entire context, in their grammatical and ordinary sense harmoniously with the scheme of the Act, the object of the Act, and the intention of Parliament” (R. Sullivan, Sullivan and Driedger on the Construction of Statutes (4th ed. 2002), at p. 1). Because a fishing licence may not qualify as “property” for the general purposes of the common law does not mean that it is also excluded from the reach of the [BIA and PPSA]. For particular purposes Parliament can and does create its own lexicon.
+[22] The Supreme Court noted that the “elements” of a commercial fishing licence “do not wholly correspond to the full range of rights necessary to characterize something as ‘property’ at common law”. [12] However, the Court then considered the BIA’s statutory definition and purpose. The Court found that the statutory definition of “property” in the BIA “unambiguously signalled an intention to sweep up a variety of assets of the bankrupt not normally considered ‘property’ at common law.” [13] The Court found that the BIA’s purpose was to “fulfill certain objectives in the event of a bankruptcy which require, in general, that non-exempt assets be made available to creditors.” [14] Consequently, the Court concluded that the BIA’s definition of “property” included a commercial fishing licence.
+[23] With respect, the Federal Court of Appeal’s decision in Manrell dealing with the definition of “property” under the Income Tax Act is a far more persuasive authority than a Supreme Court of Canada decision dealing with the definition of “property” in an entirely different legislative context. While the definition of “property” is broadly worded in both the BIA and the PPSA, the definitions are not identical to the definition in the Income Tax Act. More importantly, the modern approach to statutory interpretation requires an examination of the context and purpose of the definitions. As a result, an interpretation based on the context and purpose of the BIA, the PPSA and the Fisheries Act [15] cannot be easily compared to an interpretation based on the context and purpose of the Income Tax Act. The Respondent argues that the purpose of the BIA is very similar to the purpose of section 160. While I acknowledge that the fraudulent conveyance provisions of the BIA have a purpose similar to that of section 160, the definition of “property” applies for all purposes of the Income Tax Act and it cannot be said that the BIA and the Income Tax Act have similar purposes. Based on all of the foregoing, I do not find Saulnier to be persuasive authority. I rely on Manrell to conclude that James’ unenforceable right to earn money in the practice of law was not “property” for the purposes of the Income Tax Act.
+James as Sole Practitioner
+[24] It is important to highlight that the Respondent did not argue that James was carrying on business as a sole practitioner. Therefore, I have not considered whether James transferred a “right to invoice for legal services” in that role. If James were a sole practitioner, there are two things that could be captured by the description “right to invoice for legal services”. First, the right of a lawyer who has performed legal services to issue a bill to his or her clients for those services is “property”. Such a right is more commonly referred to as work in progress. The “work in progress of a business that is a profession” is specifically included in the definition of “property”. [16] Second, the right of a lawyer to receive payment for legal services that he or she has provided to his or her client and for which he or she has invoiced is also “property”. Such property is more commonly referred to as an account receivable.
+[25] I heard evidence over the course of the trial about APC’s retainer agreements, invoices, accounting and advertising. I also heard evidence about the transactions by which the Aitchisons rolled their respective law practices to APC in 2003 and the manner (or lack thereof) in which salary and dividends were determined. I have not repeated that evidence in these Reasons for Judgment because, in my view, most of it relates to the question of whether James was carrying on business as a sole practitioner and thus has little bearing on the actual issue pled by the Respondent. There was certainly significant evidence that could have supported the position that James was carrying on his practice as a sole practitioner, that the clients were his clients, that his use of APC was a sham and that he transferred his work in progress to APC every time he was ready to invoice a client. However, I acknowledge that, because the Respondent did not plead that James was carrying on his practice as a sole practitioner and did not plead that James’ use of APC was a sham, APC did not introduce evidence that it would have needed to counter that argument. Had I had the benefit of complete evidence on this point, the evidence may have painted a different picture.
+Conclusion
+[26] Based on all of the foregoing, I find that James did not transfer property to APC by working for no consideration. The appeal is therefore allowed and the assessment vacated.
+Costs
+[27] Costs are awarded to APC. The parties shall have 30 days from the date hereof to reach an agreement on costs, failing which APC shall have a further 30 days to file written submissions on costs and the Respondent shall have yet a further 30 days to file a written response. Any such submissions shall not exceed 10 pages in length. If the parties do not advise the Court that they have reached an agreement and no submissions are received within the foregoing time limits, costs shall be awarded to APC as set out in the Tariff.
+Distasteful Outcomes Should Not Breed Poor Legislation
+[28] The outcome of this appeal is distasteful. James has not paid a dime of income tax since emerging from bankruptcy in 1992. From 1992 to 2002, James claimed deductions and losses to which he was not entitled. He deferred collection of the taxes that he owed by litigating his assessments and reassessments in the Tax Court. Then, when he could delay no more, he abandoned one appeal and settled the other on very unfavourable terms mid-trial (still not paying the settled amount).
+[29] Beginning in 2003, with the incorporation of APC, James structured his affairs in a manner that was clearly designed to redirect monies that he would have earned from his law practice to his daughters. In 2002, James earned enough money to give rise to $105,000 in unpaid taxes but, starting in 2003, his income suddenly dropped to almost nothing.
+[30] The financial statements for the files that James was responsible for at APC indicate that his files generated over $3.2 million in revenue from 2007 to 2010. Even after allowing virtually all of APC’s overhead to be allocated to his files, there was still over $1.4 million in profits remaining from those files. Yet, none of these profits were used to reduce James’ tax debts. That is because, despite being the highest grossing lawyer in the firm by far, from 2003 to 2009 James never took any salary or dividends from APC. During the same period, due to an improbable share structure and a complete disregard for dividend rights, James ensured that his daughters received over $1,000,000 in dividends in addition to what appear to have been market rate salaries.
+[31] James provided many explanations for structuring his affairs in this manner. None of his explanations were remotely credible. It was clear to me that, starting in 2003, James had one overriding goal: defeating the CRA by diverting all of what would otherwise have been his income to his daughters.
+[32] This case demonstrates that there is clearly a gap in section 160. It cries out for that gap to be fixed. However, I would caution Parliament against inadvertently extending the reach of section 160 too broadly. Simply amending section 160 to cause it to cover the non-arm’s length provision of services may have undesired consequences.
+[33] I think most taxpayers would understand that buying their child a car at a time that they owe tax is something that Parliament wants to discourage and would accept that, under the current version of section 160, their child could be assessed for the lesser of the value of the car and the tax debt. I imagine most taxpayers would recognize that, while harsh, this outcome is a reasonably just deterrent against transferring assets to family members and an effective collection mechanism should a taxpayer do so.
+[34] On the other hand, I am not sure that most taxpayers would view driving their child to soccer practice at a time that they owe tax as something that should subject their child to liability under section 160. Yet, if Parliament drafts section 160 in too broad a manner, that is exactly what would happen. Driving someone someplace is a service. Providing that service to a non-arm’s length person for no consideration at a time that the provider owed tax would, if section 160 were simply amended to add services, subject the recipient to liability for the lesser of the value of the ride and the provider’s outstanding taxes.
+[35] While the foregoing is an extreme example, it begs the question of where the Minister would draw the line. Is painting a sibling’s deck a big enough service? How about helping your uncle move? If a tax debtor spent all of his or her free time caring for his or her aging parents, would the Minister assess the parents for the fair market value of that care? If a tax debtor were a stay-at-home parent, would the Minister assess his or her spouse for the fair market value of the unpaid childcare and domestic services provided to the family?
+[36] In the circumstances, I urge Parliament to proceed with any amendments to section 160 with care.
+Signed at Ottawa, Canada, this 6th day of July 2018.
+“David E. Graham”
+Graham J.
+CITATION:
+2018 TCC 131
+COURT FILE NO.:
+2014-844(IT)G
+STYLE OF CAUSE:
+AITCHISON PROFESSIONAL CORPORATION v. HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+May 14, 15 and 17, 2018
+REASONS FOR JUDGMENT BY:
+The Honourable Justice David E. Graham
+DATE OF JUDGMENT:
+July 6, 2018
+APPEARANCES:
+Counsel for the Appellant:
+Adrienne K. Woodyard
+Counsel for the Respondent:
+Samantha Hurst
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Adrienne K. Woodyard
+Firm:
+DLA Piper (Canada) LLP
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] As of January 2012, the debt consisted of approximately $850,000 in unpaid taxes from James’ 1992 to 2003 tax years, late filing and gross negligence penalties of more than $100,000 and interest of almost $1.15 million.
+[2] Manrell v. the Queen, 2003 FCA 128, at para. 49, referring to Kieboom v. Minister of National Revenue, [1992] 3. F.C. 488 (FCA), 1992 CarswellNat 308.
+[3] 2003 FCA 128, at para. 25.
+[4] My comments should not be interpreted as a reflection on the skills of the Respondent’s counsel. In my view, counsel made the best of the hand the Minister dealt her.
+[5] This follows from the Respondent accepting that APC was carrying on the practice of law and the Minister’s assumption of fact (Reply, para. 9(h)) that from 2007 to 2010 James performed legal services for APC. This assumption was not challenged by APC. In addition, as set out in more detail below, the Respondent is not arguing that James was carrying on the practice of law outside of APC as a sole proprietor.
+[6] Manrell.
+[7] [2008] 3 SCR 166.
+[8] At para. 46.
+[9] R.S.C. 1985, c. B-3.
+[10] S.N.S. 1995-96, c. 13.
+[11] Saulnier at para. 16.
+[12] Saulnier at para. 43.
+[13] Saulnier at para. 44.
+[14] Saulnier at para. 46.
+[15] RSC 1985, c. F-14.
+[16] Subsection 248(1) “property”, paragraph (d).

@@ -1,0 +1,202 @@
+Title: Nichols c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29283/index.do
+Corpus path: corpus/cases/tcc/2009/2009-cci-334-29283-nichols-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2009-06-19
+
+# Nichols c. La Reine
+
+- Citation: 2009 CCI 334
+- Decision date: 2009-06-19
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7084, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Nichols c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2009-06-19
+Référence neutre
+2009 CCI 334
+Numéro de dossier
+2007-3070(IT)G
+Juges et Officiers taxateurs
+Valerie A. Miller
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2007-3070(IT)G
+2008-135(GST)G
+ENTRE
+WALTER NICHOLS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu les 3 et 4 juin 2009, à Vancouver (Colombie-Britannique).
+Devant : L’honorable juge Valerie Miller
+Comparutions :
+Avocat de l’appelant :
+Me Craig C. Sturrock, c.r.
+Avocats de l’intimée :
+Me Michael Taylor
+Me Selena Sit
+____________________________________________________________________
+JUGEMENT
+Les appels sont rejetés conformément aux motifs du jugement ci‑joints.
+L’intimée a droit aux dépens.
+Signé à Ottawa, Canada, ce 19e jour de juin 2009.
+« V.A. Miller »
+Juge V.A. Miller
+Traduction certifiée conforme
+ce 22e jour de juillet 2009.
+François Brunet, réviseur
+Référence : 2009 CCI 334
+Date : 20090619
+Dossier : 2007-3070(IT)G
+ENTRE :
+WALTER NICHOLS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Miller
+[1] La dette fiscale de l’appelant pour les années d’imposition 2001, 2002 et 2003 a fait l’objet de nouvelles cotisations fondées sur la valeur nette; ont été ajoutées aux revenus de l’appelant les sommes de 208 300 $, de 181 720 $ et de 147 229 $, respectivement. En application de la Loi sur la taxe d’accise (la « LTA »), une cotisation a été établie à l’égard de l’appelant parce qu’il a omis de verser un montant de TPS s’élevant à 37 607,04 $ pour la période du 1er janvier 2001 au 31 décembre 2003. Il a également fait l’objet d’une cotisation au titre de pénalités pour faute lourde en application du paragraphe 163(2) de la Loi de l’impôt sur le revenu (la « LIR ») et de l’article 285 de la LTA et d’une pénalité pour production tardive en application du paragraphe 162(1) de la LIR relativement à son année d’imposition 2003.
+[2] Les années d’imposition 2001 et 2002 de l’appelant ont fait l’objet de nouvelles cotisations après l’expiration de la période normale de nouvelle cotisation, en vertu du sous‑alinéa 152(4)a)(i) de la LIR.
+[3] Les avocats des deux parties ont convenu que les débats devaient porter sur les appels en matière d’impôt et qu’il y avait lieu de rendre la même décision tant dans le cadre de l’appel en matière d’impôt que de l’appel relatif à la TPS.
+[4] À l’audience, l’appelant a reconnu l’exactitude des calculs de la valeur nette. Il a soutenu que les écarts dans son revenu étaient attribuables à des sources non imposables. Il a affirmé que les fonds provenaient d’un ami, David Grant (« M. Grant »), de son ancienne petite amie, Mme Villeneuve, et de gains réalisés à des casinos à Las Vegas.
+[5] Le seul revenu déclaré par l’appelant dans ses déclarations de revenus relatives aux trois années d’imposition en cause consiste en l’intérêt sur remboursement s’élevant à 18,39 $ en 2001.
+[6] L’appelant a déclaré qu’il a sept ans de scolarité. Ses nom et prénom officiels sont Walter Dumonceaux, mais il utilise plutôt le nom Nichols parce que c’est celui de son beau‑père. Il est opérateur de machine et, à ce titre, il a acquis de l’expérience dans le déplacement de l’amiante et de BPC. Au fil des ans, il a également occupé divers emplois dans des bars. Il a été disc‑jockey, barman et gérant de plusieurs établissements de ce genre.
+[7] Selon son témoignage, l’appelant a rencontré David Grant en 1995 par l’entremise d’amis communs. En 2001, M. Grant et lui ont conclu une entente commerciale selon laquelle ils achèteraient des véhicules au Canada afin de les exporter aux États‑Unis (« É.‑U. »). L’appelant a précisé que le taux de change du dollar américain était d’environ 1,5 pour 100 de sorte que, même s’il vendait un véhicule aux É.‑U. pour une somme moindre que le prix d’achat payé au Canada, il était possible de réaliser un bénéfice lorsque les fonds étaient convertis en dollars canadiens. Le bénéfice tiré de cette entreprise commerciale serait en outre accru grâce aux demandes de remboursement de TPS et de TVP.
+[8] Selon l’appelant, M. Grant s’était engagé à fournir les fonds nécessaires pour acheter les véhicules et couvrir l’ensemble des dépenses et l’appelant devait effectuer le travail sur le terrain. Dans son témoignage, l’appelant a déclaré qu’au cours de la période 2001, 2002 et 2003, M. Grant lui a remis à cinq ou six occasions une somme de 75 000 $. Les sommes étaient toujours versées en espèces. L’appelant a précisé que, en 2002, il a signé un document dans lequel il reconnaissait que M. Grant lui avait remis de l’argent. Il a déclaré qu’il ne savait pas exactement combien d’argent M. Grant lui avait remis à ce moment, mais il croyait qu’à la fin de 2003, il avait reçu la somme totale de 350 000 $ de M. Grant. Ni l’appelant ni M. Grant n’avait une copie du document qui, selon leurs dires, a été signé en 2002.
+[9] L’appelant a allégué dans son témoignage qu’il avait utilisé les fonds reçus de M. Grant pour ses dépenses personnelles. Avant d’utiliser l’argent, il en conservait une certaine partie dans un coffre‑fort à sa résidence ou dans le compte bancaire de sa société.
+[10] Pendant la période 2001, 2002 et 2003, l’appelant possédait deux véhicules, soit une Corvette 1998 et un Jeep Grand Cherokee 2001. Il a déclaré la Corvette comme élément d’actif de la société; aucun des véhicules n’a été exporté aux É.‑U. L’appelant n’a jamais exporté un quelconque véhicule vers ce pays.
+[11] D’après l’appelant, sa seconde source d’argent était sa petite amie, Mme Villeneuve. Celle‑ci était danseuse exotique et travaillait dans la région du Grand Vancouver. Toujours selon l’appelant, Mme Villeneuve ne détenait pas de compte bancaire. Il a ajouté que, lorsqu’elle recevait sa paie, elle lui remettait l’argent (espèces ou chèque) et il le déposait dans son propre compte bancaire. Il a précisé qu’il donnait de l’argent à Mme Villeneuve [TRADUCTION] « chaque fois qu’elle lui en demandait ». Selon ses estimations, Mme Villeneuve gagnait au moins 50 000 $ par année.
+[12] L’appelant a déclaré qu’il avait gagné environ 40 000 $ au Desert Inn, à Las Vegas, en 2000. Pendant le contre‑interrogatoire, il a reconnu qu’il avait dépensé la plus grande partie, sinon la totalité, de cet argent avant les années en cause. Il a également affirmé qu’en 2001, en 2002 ou en 2003, il avait gagné 15 000 $ ou 20 000 $ au Mirage, à Las Vegas. Il ne connaissait pas le montant exact de ses gains ni le moment où il les avait gagnés. Cependant, lorsque son avocat lui a présenté diverses pièces, l’appelant a déclaré qu’il avait gagné 10 000 $, en 2001, au Mirage.
+[13] L’appelant était l’unique actionnaire et administrateur de Dalsea Holdings Ltd. (« Dalsea »). Dans son témoignage, il a soutenu que Dalsea était une société qu’il a [TRADUCTION] « achetée toute faite » et qu'elle ne s'est jamais livrée à des activités commerciales. Lorsqu’on lui a demandé comment il avait déterminé le montant d’argent qu’il avait déposé dans le compte bancaire de Dalsea, il a répondu :
+[TRADUCTION]
+Eh bien, je ne possède aucune expérience dans l’exploitation d’une entreprise, mais, vous savez, seulement pour la tenue des comptes et pour certaines choses qui étaient des coûts, je déposais l’argent dans – des espèces dans ce compte – puis je faisais des chèques au titre des coûts comme l’aide‑comptable et tout ce que je devais – toutes les autres dépenses que j’avais.
+[14] L’appelant a déclaré qu’il tirait des chèques sur le compte bancaire de la société, mais qu’aucun de ces effets ne visait à acquitter des frais personnels. Il a émis plusieurs chèques dont il était le bénéficiaire et qui portaient la mention [TRADUCTION] « jour de paye » sur la ligne réservée à une note. Lorsqu’on lui a demandé pourquoi il avait inscrit cette mention si Dalsea n’exploitait pas d’entreprise et s’il ne recevait pas de salaire de cette société, l’appelant a répondu qu’il voulait seulement retirer de l’argent du compte.
+[15] À tous les moments pertinents, l’appelant détenait un compte bancaire personnel.
+[16] Le 10 novembre 2003, l’appelant a été accusé à Los Angeles (Californie) de possession de marihuana en vue d’en faire le trafic, de possession d’une somme supérieure à 100 000 $ obtenue par suite du trafic de marihuana, ainsi que de trois autres chefs d’accusation. Le 15 mars 2004, l’appelant a déclaré qu’il ne contestait [plead "no contest"] aucun de ces deux premiers chefs d’accusation. La Cour supérieure de l’État de la Californie a conclu que le plaidoyer de non‑contestation de l’appelant était étayé par les faits et elle l’a donc accepté.
+[17] À l’audition des présents appels, l’appelant a affirmé dans son témoignage qu’il s’était rendu à Los Angeles en vacances avec sa petite amie, Mme Villeneuve. Il n’était en possession de la marihuana et de l’argent que parce qu’il rendait service à un ami. Selon l’appelant, son ami lui avait demandé de louer une automobile et d’échanger la clé de celle‑ci contre une boîte qu’il recevrait d’une personne qu’il rencontrerait dans le hall d’un hôtel. L’appelant devait recevoir 60 000 $ pour rendre ce service. Il a ajouté qu’il ne s’était pas rendu compte, lorsqu'il a accepté de rendre ce service, qu’il s'agissait de marihuana.
+[18] L’appelant a précisé qu’il avait inscrit un plaidoyer de culpabilité à l’égard des chefs d’accusation en question uniquement parce qu’il ne voulait pas se retrouver dans la prison de comté de Los Angeles dans l’attente de son procès.
+[19] David Grant a témoigné pour le compte de l’appelant. Il a confirmé le témoignage de ce dernier en ce qui concerne l’entente intervenue entre eux. Il a mentionné qu’il cherchait à participer à une entreprise honnête et qu’il avait remis 374 000 $ en espèces à l’appelant au cours d’une période de trois ans. Il n’a pas tenu de document relatif aux sommes qu’il a remises à l’appelant ni signé de contrat de société avec celui‑ci.
+[20] Dans son témoignage, M. Grant a allégué qu’en 2000, il s’était servi de fonds reçus en héritage pour étendre les activités d’une entreprise de guichets automatiques bancaires qu’il avait lancée en 1997. En 2002, il a constitué cette entreprise en société et l’a dénommée ATM Network Inc. (« ATM »). Son entreprise est passée d’un seul guichet en 1997 à 32 machines par la suite. Il a déclaré que les revenus tirés d’une machine s’élevaient à 3 000 $ par mois et que, lorsqu’il a eu 32 machines, ses revenus se chiffraient entre 16 000 $ et 40 000 $ par mois. La preuve n'a pas révélé en quelle année M. Grant avait 32 guichets.
+[21] En 2001, M. Grant et plusieurs associés se sont lancés dans la culture de marihuana. Selon lui, il s'agissait [TRADUCTION] « essentiellement d'activités agricoles ». Il a affirmé qu’il avait tiré des revenus de plusieurs millions de dollars de cette entreprise. Le 7 septembre 2007, M. Grant a été accusé d’avoir perpétré certains actes criminels, à savoir la production et le trafic illégaux de cannabis (marihuana). M. Grant a ajouté qu’il subira en septembre prochain son procès relativement à ces accusations.
+Analyse et conclusion
+[22] L’issue de la présente affaire repose entièrement sur les conclusions de crédibilité que je tirerai à la lumière de l’ensemble de la preuve produite à l’audience. Je dois décider si l’appelant a montré, selon la prépondérance des probabilités, que les cotisations établies par le ministre sont inexactes. Au moment d’apprécier la preuve produite, il m’est loisible d’ajouter foi à tout ou partie d’un témoignage ou à aucune portion de celui‑ci, ou encore d’accepter certaines parties du témoignage et d’en rejeter d’autres.
+[23] En matière de crédibilité, je peux tenir compte des incohérences ou des faiblesses que comporte le témoignage des témoins, y compris les incohérences internes (si le témoignage change pendant que le témoin est à la barre ou s'il diverge du témoignage rendu à l’interrogatoire préalable), les déclarations antérieures contradictoires et les incohérences externes (soit lorsque le témoignage est incompatible avec des éléments de preuve indépendants que j’ai acceptés). Il m’est ensuite loisible d’apprécier l’attitude et le comportement du témoin. Troisièmement, je peux rechercher si le témoin a des raisons de rendre un faux témoignage ou d’induire la Cour en erreur. Enfin, je peux prendre en compte la teneur générale de la preuve. C’est‑à‑dire que j’ai toute latitude pour rechercher si l’examen du témoignage à la lumière du sens commun donne à penser que les faits exposés sont impossibles ou hautement improbables.
+[24] Après avoir étudié l’ensemble des témoignages entendus, je conclus que ni l’appelant ni M. Grant ne sont crédibles. Plus particulièrement, certains des éléments de preuve qui m’ont incité à tirer cette conclusion sont exposés ci‑dessous.
+Dalsea
+[25] L’appelant a avancé que Dalsea ne se livrait pas à des activités commerciales. Or, il détenait un compte bancaire ouvert au nom de Dalsea; il a engagé un aide‑comptable et un expert‑comptable pour établir les états financiers, les comptes et les balances de vérification, pour faire les écritures de registre et pour tenir le grand livre relativement à 2001, à 2002 et à 2003. L’appelant a en outre produit des déclarations de revenus (« T2 ») pour le compte de Dalsea en 2000 et en 2001 dans lesquelles il déclarait que cette société exploitait une entreprise de course automobile et de conseil. L’appelant a signé les T2 et a déclaré que Dalsea avait des revenus de 75 052 $ et de 43 169 $ pour les exercices se terminant le 30 septembre 2000 et le 30 septembre 2001, respectivement.
+[26] Si Dalsea ne se livrait pas à des activités commerciales, la seule autre conclusion que je puis tirer de la preuve est la suivante : les pièces comptables ont été produites pour donner l’impression que tel était le cas. Cela me porte à croire que Dalsea servait de paravent pour une activité quelconque. Toutefois, il ne m’appartient pas de conjecturer sur celle‑ci.
+Madame Villeneuve
+[27] Madame Villeneuve n’a pas témoigné lors de l’audition des présents appels. L’appelant a affirmé dans son témoignage qu’il n’avait pas revu Mme Villeneuve depuis qu’il avait été libéré de prison à Los Angeles. Cependant, lorsqu’on a demandé à M. Grant, pendant le contre‑interrogatoire, si l’appelant avait poursuivi sa relation avec Mme Villeneuve après sa sortie de prison, il a répondu par l’affirmative. Il s’est exprimé en ces termes :
+[TRADUCTION]
+Q Vous souvenez-vous quand la relation entre elle et M. Nichols s’est finalement terminée?
+R Ouais, c’était, je pense, c’était il y a deux ans, il y a au moins un an et demi. Peut‑être trois. Je n’ai pas vraiment prêté attention à ce qui s’est alors passé, mais ça fait un bout de temps.
+Q Vous souvenez‑vous s’il a poursuivi la relation après sa sortie de prison?
+R Après qu’il soit sorti de prison, il a certainement essayé de retourner auprès d’elle, oui.
+Q Vous souvenez‑vous s’ils se sont réellement réconciliés pendant un certain temps, après sa peine d’emprisonnement?
+R Vous savez quoi? Lorsque vous dites « réconciliés », je devrais dire qu’ils étaient ensemble, mais qu’elle n’habitait pas là.
+Q Entendu.
+R Je ne connais pas les détails de la réconciliation, comme vous dites.
+Q Donc, ensemble pendant un certain temps.
+R Ouais. C’est possible. Je ne l’ai jamais vue emménager là, alors je ne sais pas. Mais ils étaient, vous savez, ensemble.
+Condamnation aux É.-U.
+[28] L’appelant a affirmé qu’il avait inscrit un plaidoyer de « non‑contestation » aux É.‑U. parce qu’il ne voulait pas se retrouver dans la prison de comté de Los Angeles dans l’attente de son procès. Il a qualifié cette prison d’endroit atroce. J’accepte son témoignage en ce qui touche la description de la prison. Cependant, le tribunal aux É.‑U. a conclu que le plaidoyer de l’appelant était étayé par les faits et l’a accepté. De même, dans le document intitulé [TRADUCTION] « Dérogation à la mise en liberté sous caution » [Declaration for Bail Deviation], la raison donnée pour justifier la dérogation à la mise en liberté sous caution fixée dans le document intitulé [TRADUCTION] « Mise en liberté sous caution – acte délictueux grave » [Felony Bail Sheet] confirme que les autorités aux É.‑U. considéraient l’appelant comme un des meneurs du complot. On peut en effet y lire ce qui suit :
+[TRADUCTION]
+Le défendeur est citoyen canadien. Aucun lien local, à l’exception des coauteurs du complot visant les stupéfiants. Le défendeur jouait un rôle de meneur dans le cadre d’un complot portant sur des stupéfiants ayant une dimension internationale. Le défendeur se trouvait en possession de plus de 100 000 $ en produits de la criminalité liés à des stupéfiants et le complot visait bien plus de 100 livres de marihuana de grande qualité. Le défendeur a participé à deux opérations à deux occasions distinctes.
+[29] À l’audience aux É.‑U., l’appelant a déclaré qu’il comprenait qu’un plaidoyer de « non‑contestation » avait [TRADUCTION] « le même effet qu’un plaidoyer de culpabilité ».
+Véhicules en cause
+[30] À l’audition des présents appels, l’appelant a d’abord affirmé qu’il n’avait acheté qu’un seul camion pour en faire l’exportation. À la suite d’autres questions posées par l’avocat de l’intimée, il s’est souvenu qu’il avait racheté le contrat de location visant sa Corvette 1998 dans l’intention d’exporter celle‑ci aux É.‑U. À l’occasion de l’interrogatoire préalable tenu dans la présente affaire, l’appelant a soutenu qu’il avait acheté ou loué trois véhicules avec l’intention de les exporter.
+[31] Il ressort de la preuve que l’appelant avait initialement loué la Corvette 1998 en août 1999 au nom de Dalsea. Il a racheté le contrat de location en juin 2002 au moyen du produit d’un prêt de 30 000 $ que lui avait consenti La Banque Toronto Dominion (« TD »).
+[32] Pendant le contre‑interrogatoire, il a affirmé qu’il s’était servi de l’argent obtenu de M. Grant pour effectuer les paiements de location de la Corvette. Puis, il a déclaré que les paiements de location étaient faits par le concessionnaire d’automobiles, Totem Mercury Sales Limited, duquel il louait le véhicule.
+[33] À l’audience, lorsqu’on a demandé à l’appelant s’il avait utilisé l’argent obtenu de M. Grant pour payer le Jeep Grand Cherokee 2001, il a répondu par l’affirmative. Lors de l’interrogatoire préalable, il a été demandé à l’appelant comment il avait payé ce véhicule et sa réponse a été la suivante :
+[TRADUCTION]
+352 Q Comment l’avez-vous payé?
+R Je pense que pour celui‑là, il y avait quelqu’un – quelqu’un d’autre qui faisait le commerce de voitures et il a réellement acheté le véhicule, et je devais lui remettre l’argent pour le payer et ce qui s’est passé – je ne peux pas vraiment m’en souvenir. L’achat lui‑même, je sais que le véhicule a été acheté chez Maple Ridge Chrysler, mais lorsque le véhicule a été acheté de Maple Ridge Chrysler, je n’étais pas – je ne l’ai pas fait moi‑même. Quelqu’un d’autre l’a fait. Mais si je peux, je ne suis pas certain.
+[34] Bref, le témoignage de l’appelant était vague, déroutant, absurde et contradictoire.
+Prêts de TD Canada Trust
+[35] Le 27 septembre 2000, l’appelant a présenté une demande de prêt hypothécaire de 330 000 $ à TD Canada Trust. Selon ce document, l’employeur antérieur de l’appelant était Pink Panther Showroom Pub (« Pub »), où il avait gagné 80 000 $, et son employeur à ce moment était Unique Loading Services Inc. (« Unique »), où il avait gagné 145 200 $. Il a précisé avoir été employé par Pub pendant quatre ans et par Unique pendant dix mois. Les biens lui appartenant qu’il a énumérés dans la demande étaient les suivants : [TRADUCTION] « Automobiles – 110 000 $; Autres – 100 000 $ ».
+[36] Au cours du contre-interrogatoire, l’appelant a allégué qu’il pensait avoir été gérant au Pub et qu’il ne tirait jamais de chèque. Il a d’abord mentionné qu’il était logé et nourri gratuitement en échange de ses fonctions de gérant du Pub. Plus tard au cours de l’interrogatoire, l’appelant a admis qu’il avait reçu des sommes en espèces, mais qu’il n’avait pas reçu la somme de 80 000 $.
+[37] L’appelant a également reconnu qu’il n’avait pas reçu la somme de 145 200 $ d’Unique. Il a ajouté qu’il travaillait pour Unique en 2000 et qu’il avait reçu environ 8 000 $.
+[38] L’intimée a en outre produit des documents de TD Canada Trust concernant le prêt demandé par l’appelant pour racheter le contrat de location visant la Corvette. L’un des documents portait la mention suivante : [TRADUCTION] « Client souhaitant racheter le contrat de location d’un ami. Montant total du rachat s’élevant à 42 365 $, y compris 5 365 $ de TPS/TVP. Client devant débourser 12 365 $, lesquels seront prélevés sur son compte TD ».
+[39] Dans sa demande de prêt du 18 juin 2002, l’appelant déclarait qu’il avait exercé l'activité de consultant auprès d’Unique Loading pendant deux ans et six mois et que son salaire brut mensuel était de 9 167 $.
+[40] A l'appui de sa demande de prêt, l’appelant a remis à TD Canada Trust une lettre d’Unique Loading Services Inc. datée du 18 juin 2002 qui était ainsi rédigée :
+[TRADUCTION]
+Il est confirmé par les présentes que Walter Nichols de Dalsea Holdings Ltd. est au service d’Unique Loading Services Inc. à titre de sous‑traitant depuis les trois dernières années.
+Walter est un excellent employé et nous prévoyons continuer de faire appel à lui dans l’avenir. Il gagne actuellement en moyenne une somme brute de 9 850 $ par mois.
+[41] Lorsqu’on lui a posé des questions au sujet des documents de prêt, l’appelant a fait état de sa confusion. Il a finalement convenu avec l’avocat de l’intimée qu’à chaque fois qu’il avait besoin d’argent, il s’adressait à Randy Murphy (propriétaire d’Unique Loading) pour obtenir une lettre attestant qu’il avait un emploi. L’appelant a reconnu que Randy Murphy et lui avaient sciemment induit la banque en erreur.
+Témoignage de Monsieur Grant
+[42] Monsieur Grant a déclaré qu’il gagnait des milliers de dollars chaque mois grâce à son entreprise ATM. Je ne doute nullement de la véracité de cette déclaration, mais il ressort de la preuve que son entreprise a omis de déclarer une partie importante de ces revenus pour les années d’imposition 2003 et 2004.
+[43] L’intimée a produit en preuve deux documents intitulés [TRADUCTION] « Déclaration et annexes Cortax » [Cortax Return and Schedules]. Chris Lew, agent des litiges à l’Agence du revenu du Canada (l’« ARC »), a précisé qu’il s’agissait d’imprimés d’ordinateur réalisés à partir du système de l’ARC. Les renseignements figurant sur les imprimés étaient tirés de la déclaration de revenus produite pour le compte d’ATM. L’avocat de l’appelant s’est opposé à ce que ces documents soient produits en preuve parce que l’intimée avait omis d’appeler à titre de témoin la personne qui avait saisi les données dans l’ordinateur.
+[44] J’ai conclu que ces documents étaient recevables (pièce R-3)[i].
+[45] Pour les années d’imposition se terminant le 31 janvier 2003 et le 31 janvier 2004, ATM a déclaré des revenus de 36 679 $ et de 62 931 $, respectivement. Pour les mêmes années, ATM a déclaré un revenu net de 0 $ et une perte nette de 49 027 $, respectivement.
+[46] Selon le témoignage de M. Grant, l’appelant était autrefois propriétaire de [TRADUCTION] « quelques bars de danseuses nues ». Il a déclaré qu’il avait confiance en l’appelant, qu’il n’avait pas exigé de garantie de ce dernier pour les 374 000 $ qu’il lui avait remis et qu’il n’avait pas tenu de registre des sommes qu’il lui avait confiées. Il a toujours remis à l’appelant des sommes en espèces qui provenaient d’ATM ou du commerce de marihuana.
+[47] Lorsqu’on lui a demandé s’il savait comment l’appelant dépensait l’argent, M. Grant a donné la réponse suivante :
+[TRADUCTION]
+R Eh bien, il m’a dit qu’il investissait dans des automobiles, qu’il les achetait et les envoyait en‑haut – aux États‑Unis. Je ne savais pas ce qu’il faisait avec l’argent. J’ai commencé à en avoir une petite idée vers la fin de 2003.
+Q Alors, savez-vous quels véhicules il avait achetés en vue de les revendre?
+R Je n’en ai aucune idée.
+Q Savez-vous s’il a vendu un quelconque véhicule?
+R Je ne le sais pas.
+Q Lui avez-vous déjà demandé de rendre compte de ce qu’il faisait avec l’argent?
+R Non, je ne l’ai pas fait.
+Q N’étiez-vous pas préoccupé par l’absence de résultat?
+R Oui, j’ai commencé à m’inquiéter en 2003.
+Q À ce moment, vous aviez investi combien?
+R 200 000 certainement, peut‑être 250, en 2003.
+Q Et vous n’avez jamais demandé que des sommes vous soient remises? Ou d’être remboursé?
+R Pas à ce moment, non. Pas avant son arrestation puis, lorsqu’il a été libéré, je lui ai simplement demandé s’il pensait qu’il pourrait un jour rembourser l’argent et il a dit : « C’est impossible » et je n’ai pas insisté après cela. Je savais que je ne reverrais jamais cet argent.
+[48] Il est impossible de croire que M. Grant a commencé à s’inquiéter en 2003 de l’argent qu’il aurait alors déjà remis à l’appelant (250 000 $) et qu’il a par la suite continué de remettre à ce dernier 124 000 $ supplémentaires pendant la même année. Je conviens avec l’avocat de l’intimée que l’absence de document corroborant les précisions offertes par l’appelant est révélatrice.
+[49] Toute cette explication ressemble à un conte de fées. Elle ne correspond en rien au simple bon sens. Il m’est impossible de croire que M. Grant aurait continué de confier de l’argent à l’appelant pendant une période de trois ans sans lui demander d’en rendre compte. Selon M. Grant, il n’a même pas demandé à l’appelant ce qu’il faisait de cet argent.
+[50] Mon analyse de la preuve me mène à conclure que les précisions données par l’appelant pour expliquer l’écart entre sa valeur nette et son revenu déclaré, lequel, ne l’oublions pas, est à toutes fins utiles nul, sont invraisemblables et sont contraires au simple bon sens.
+Conclusion
+[51] Les nouvelles cotisations relatives aux années d’imposition 2001 et 2002 ont été établies après l’expiration de la période normale de nouvelle cotisation, prévue par le sous‑alinéa 152(4)a)(i) de la Loi, et il incombe à l’intimée de montrer que le contribuable a fait une présentation erronée des faits, par négligence, inattention ou omission volontaire, ou a commis quelque fraude en produisant sa déclaration.
+[52] Dans le récent arrêt Lacroix c. La Reine[ii], la Cour d’appel fédérale a discuté de quelle manière le ministre du Revenu national (le « ministre ») peut s’acquitter de la charge de la preuve lorsque le contribuable fait l’objet d’une cotisation qui est fondée sur sa valeur nette et qui a été établie après l’expiration de la période normale de nouvelle cotisation. Au nom de la Cour, M. le juge Pelletier a fait les observations suivantes :
+[30] Les faits en preuve, dans un tel cas, sont que la déclaration de revenu du contribuable fait une présentation erronée des faits et que la seule explication offerte par le contribuable est jugée non crédible. Évidemment, il doit y avoir une autre explication pour ce revenu. Il faut donc conclure que le contribuable a une source de revenu qu’il n’a pas déclarée, qu’il est au courant de cette source et qu’il refuse de la divulguer puisque les explications qu’il a offertes n’ont pas été jugées crédibles. En de telles circonstances, la conclusion que la fausse déclaration de revenu a été produite sciemment ou dans des circonstances équivalant à faute lourde me semble inéluctable. Cela justifie non seulement l’imposition d’une pénalité mais aussi l’établissement de la nouvelle cotisation hors de la période statutaire.
+[…]
+[32] Qu’en est-il alors du fardeau du ministre? Comment s’en acquitte-t-il? Il se peut que dans certaines circonstances, le ministre soit en mesure de faire une preuve directe de l’état d’esprit du contribuable lorsque ce dernier a produit sa déclaration de revenu. Mais dans la grande majorité des cas, le ministre ne pourra que miner la crédibilité du contribuable, soit par des éléments de preuve qu’il apporte, soit en contre‑interrogatoire du contribuable. Dans la mesure où la Cour canadienne de l’impôt est persuadée que le contribuable touche un revenu qu’il n’a pas déclaré et que l’explication offerte par le contribuable pour l’écart constaté entre son revenu déclaré et l’accroissement de son actif est non crédible, le ministre s’est acquitté du fardeau de preuve qui lui incombe aux termes du sous‑alinéa 152(4)a)(i) et du paragraphe 162(3). [Non souligné dans l’original.]
+[53] Je conclus que l’appelant n’a pas fourni d’explication crédible justifiant l’écart observé entre son revenu déclaré (qui était nul) et sa valeur nette. Aucun élément de preuve crédible susceptible de réfuter les hypothèses formulées par le ministre n’a été produit. Je conclus que l’appelant a gagné un revenu non déclaré. En conséquence, le ministre s’est acquitté de l’obligation qui lui incombait aux termes du sous‑alinéa 152(4)a)(i) et du paragraphe 163(2) de la LIR ainsi que de l’article 285 de la LTA. La pénalité imposée pour production tardive visant l’année d’imposition 2003 a, à juste titre, fait l’objet d’une cotisation conforme avec le paragraphe 162(1) de la LIR.
+[54] Les appels sont rejetés avec dépens.
+Signé à Ottawa, Canada, ce 19e jour de juin 2009.
+« V.A. Miller »
+Juge V.A. Miller
+Traduction certifiée conforme
+ce 22e jour de juillet 2009.
+François Brunet, réviseur
+RÉFÉRENCE : 2009 CCI 334
+Nos DES DOSSIERS DE LA COUR : 2007-3070(IT)G
+2008-135(GST)G
+INTITULÉ : Walter Nichols et
+Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Vancouver (Colombie‑Britannique)
+DATE DE L’AUDIENCE : Le 3 juin 2009
+MOTIFS DU JUGEMENT : L’honorable juge Valerie Miller
+DATE DU JUGEMENT : Le 19 juin 2009
+COMPARUTIONS :
+Avocat de l’appelant :
+Me Craig C. Sturrock, c.r.
+Avocats de l’intimée :
+Me Michael Taylor
+Me Selena Sit
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom : Craig C. Sturrock, c.r.
+Cabinet : Thorsteinssons LLP
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[i] Je suis d'avis, tant aux termes du paragraphe 244(9) de la Loi que de l’article 30 de la Loi sur la preuve au Canada, sont recevables ces documents sans qu’il soit nécessaire d’appeler, à titre de témoin, la personne qui a saisi les données dans l’ordinateur. Voir aussi Sopinka et autres : The Law of Evidence in Canada, aux paragraphes 6.173 et 6.174.
+[ii] 2008 CAF 241.

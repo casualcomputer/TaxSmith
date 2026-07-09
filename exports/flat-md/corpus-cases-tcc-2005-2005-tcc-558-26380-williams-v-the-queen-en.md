@@ -1,0 +1,228 @@
+---
+title: "Williams v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26380/index.do"
+last_modified: "2005-08-19"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 TCC 558"
+citation2: ""
+neutral_citation: "2005 TCC 558"
+decision_date: "2005-08-19"
+language: "en"
+item_id: "26380"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3392
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T20:26:33.843000+00:00"
+cases_cited_count: 0
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "8ac30b12911bf88c10074e69a222d22bc72b5bbfd22331370bdb7559a7df362e"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Williams v. The Queen
+
+- Citation: 2005 TCC 558
+- Decision date: 2005-08-19
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3392, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Williams v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-08-19
+Neutral citation
+2005 TCC 558
+File numbers
+2001-4511(IT)G
+Judges and Taxing Officers
+Judith Woods
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2001-4511(IT)G
+BETWEEN:
+KENNETH A. WILLIAMS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on January 24, 2005 at St. Catharines, Ontario
+By: The Honourable Justice Judith Woods
+Appearances:
+Counsel for the Appellant:
+Glen W. McCann
+Counsel for the Respondent:
+Elizabeth Chasson
+____________________________________________________________________
+JUDGMENT
+The appeal with respect to an assessment made under the Income Tax Act for the 1991 taxation year is allowed, without costs, and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the transfer of shares in the capital of Golders Green Holdings Limited to The Williams Investment Trust did not result in the realization of a capital gain.
+Signed at Toronto, Ontario, this 19th day of August, 2005.
+"J. Woods"
+Woods J.
+Citation: 2005TCC558
+Date: 20050819
+Docket: 2001-4511(IT)G
+BETWEEN:
+KENNETH A. WILLIAMS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Woods J.
+[1] This appeal under the Income Tax Act, R.S.C. 1985, c.1 (5th Supp.) concerns whether a taxable capital gain was realized by Kenneth Williams when he transferred property to a trust of which he was a beneficiary. The assessment is for the 1991 taxation year.
+[2] The question is whether the transfer of property to the trust resulted in a change in legal ownership but not beneficial ownership. If there was no change in beneficial ownership, a capital gain is not realized by virtue of an exclusion in the definition of "disposition" in the Act. The taxpayer submits that he retained beneficial ownership of the trust property by virtue of his being the only beneficiary of the trust.
+[3] In the relevant taxation year, the applicable provision was clause (v) of the definition of "disposition" in paragraph 54(c) of the Act. It read:
+"disposition" of any property, except as expressly otherwise provided, includes
+[...]
+(iii) any transfer of property to a trust, or any transfer of property of a trust to any beneficiary under the trust, except as provided in subparagraph (v),
+but, for greater certainty, does not include
+[...]
+(v) any transfer of property by virtue of which there is a change in the legal ownership of the property without any change in the beneficial ownership thereof, other than a transfer by a trust resident in Canada to a trust not resident in Canada or a transfer to a trust governed by
+(A) a registered retirement savings plan,
+(B) a deferred profit sharing plan,
+(C) an employees profit sharing plan, or
+(D) a registered retirement income fund
+by a person who is, immediately after the transfer, a beneficiary under the plan or fund, or a transfer by any such trust governed by a plan or fund to a beneficiary thereunder
+(emphasis added)
+[4] The facts are not in dispute. On April 16, 1991 Mr. Williams settled a trust named The Williams Investment Trust by transferring to trustees several properties, including the shares that are at issue in this appeal, 62,500 Class A shares in the capital of Golders Green Holdings Limited.
+[5] The Golders Green shares had an aggregate fair market value of $2,500,000 at the time of transfer and an adjusted cost base of $62.50. By notice of reassessment dated August 11, 1995, the Minister of National Revenue reassessed the taxpayer on the basis that the transfer of the shares resulted in a capital gain of $2,499,937.50 and it is from this assessment that the appeal is instituted. The taxpayer had transferred several other properties to the trust but since none of the other properties had an accrued gain at the relevant time, the appeal only relates to the Golders Green shares. The taxpayer had also appealed a totally unrelated issue but this issue was withdrawn by the taxpayer at the commencement of the hearing.
+Analysis
+[6] There are two questions in this appeal, the second being relevant only if there is an affirmative answer to the first.
+1. Is Mr. Williams the only beneficiary of the trust?
+2. Does a sole beneficiary of a trust necessarily have beneficial ownership of trust property?
+Question 1: Is Mr. Williams the sole beneficiary of the trust?
+[7] The parties have a fundamental disagreement on the interpretation of the trust agreement. The taxpayer submits that under the terms of the trust he is the only beneficiary whereas the Crown suggests that the trust is an income-splitting vehicle that contemplates children and grandchildren as additional beneficiaries. If the Crown is correct, there clearly was a change in beneficial ownership and a capital gain should be realized.
+[8] The notice of appeal describes the "format" of the trust as a protective trust, meaning that the trust property is placed out of the control of the settlor, the settlor is the sole beneficiary of the trust, and the trustees are prohibited from exercising their discretion to benefit anyone else. Although the format is described as a protective trust, there was no evidence before me of what the trust was intended to achieve.
+[9] The fundamental terms in the trust agreement are consistent with the description above. Under these terms, the trustees, Ken Williams Jr., Mark Williams and Beatrice Smart, agreed to manage several properties transferred to them by the taxpayer and are given broad powers of management, including the power of sale. They have the discretion to pay out the income and capital of the trust fund to the taxpayer at any time, and the trust property has to be distributed to the taxpayer no later than the 21st anniversary of the trust.
+[10] Although these fundamental terms suggest that the trust property is held exclusively for the benefit of the taxpayer, there are a number of ancillary provisions in the trust agreement that seem to suggest otherwise. Counsel for the Crown suggests that if one looks at the trust agreement as a whole, the trust is an income-splitting vehicle under which children or grandchildren of the settlor can receive distributions. Some of the provisions that the Crown relies on are: references in the agreement to both "beneficiary" and "beneficiaries," a provision permitting preferred beneficiary elections, a "no vesting" clause, a "no reversion" clause, and a provision permitting amendments to the trust agreement.
+[11] Counsel for the taxpayer suggests that the above provisions must have been included in error by someone using another trust agreement as a precedent. Further, he suggests that the agreement as a whole does not support the Crown's position because it clearly requires that the trustees distribute the trust property to the taxpayer.
+[12] I would note at the outset that no one testified at the hearing and there was no agreed statement of facts. As a result, there was no evidence regarding the purpose of the trust and no explanation of inconsistencies in the agreement. This has led me to view the trust agreement with some suspicion. It is difficult to interpret a document without knowing its purpose, and the task is more difficult if the document contains inconsistencies.
+[13] Even with these suspicions, I have not been able to conclude that the trust agreement does anything other than require the trust property be held for the taxpayer and the taxpayer alone. I have set out below a brief analysis regarding the sections in the trust agreement that the Crown relies on.
+(1) Distribution provisions
+[14] An obvious place to begin the analysis is to consider whether the agreement permits the trustees to make distributions to persons other than the taxpayer. The only provision that counsel for the Crown could refer me to was a provision that allows distributions to preferred beneficiaries to compensate them for any increase in tax that results from making preferred beneficiary elections. Although this provision does seem to contemplate distributions to other beneficiaries, in my view it does not have that effect.
+[15] The preferred beneficiary election, common in income-splitting trusts, allows the income of a trust to be allocated to beneficiaries and taxed in their hands even though the income is not distributed to them. Where the trust contemplates preferred beneficiary elections, it is typical that the trustees be allowed to make distributions to preferred beneficiaries to reimburse them for their resulting tax liability. The Williams Investment Trust contains these provisions.
+[16] Upon reviewing the preferred beneficiary section in the agreement, I have concluded that it does not add family members as beneficiaries to the agreement.
+[17] Section 12 of the trust agreement provides that the term "preferred beneficiaries" has the same meaning that it has in the Act. The relevant provision in the Act is paragraph 108(1)(g) which at the time read:
+"preferred beneficiary" under any trust means an individual resident in Canada who is a beneficiary under the trust and is
+(i) the settlor of the trust,
+(ii) the spouse or former spouse of the settlor of the
+trust, or
+(iii) a child, grandchild or great grandchild of the settlor of the trust, or the spouse of any such person;
+(emphasis added)
+[18] The emphasized words above make it clear that no one can be a preferred beneficiary for purposes of the Act unless they are a beneficiary under the trust. Unless the preferred beneficiary section itself brings in additional beneficiaries, the only person who can receive distributions under the trust agreement is Mr. Williams. The drafting of the preferred beneficiary provisions in the trust agreement leaves a lot to be desired because the definition of preferred beneficiaries appears to be circular. I have concluded, however, that the only reasonable interpretation is that the definition of preferred beneficiaries in the agreement does not add beneficiaries. Accordingly, I find that the taxpayer is the only person entitled to distributions under the trust agreement.
+(2) No reversion clause
+[19] The Crown also refers to a clause that seems to suggest that the property settled on the trust cannot be distributed to the taxpayer. The provision is at the end of a section dealing with additional trustee powers (Section 9) and it reads:
+[...]
+PROVIDED THAT none of the foregoing provisions of this section 9 shall be interpreted so as to permit any property or property substituted therefor received by the Trustees directly or indirectly from any person to revert to such person within the meaning of the Income Tax Act (Canada) as amended from time to time.
+[20] The above proviso language is common in certain types of trusts and is intended to avoid the attribution of income and capital gains back to the settlor under subsection 75(2) of the Act. It makes no sense to include this language where the settlor and the beneficiary are one and the same. Counsel for the taxpayer suggests that in the context of this trust, the language is "silly" and that it has no effect.
+[21] It is not necessary for me to decide if the proviso has no effect. The question is whether it has the effect of prohibiting the Golders Green shares or property substituted for it from being distributed to the taxpayer. I have concluded that it does not.
+[22] The proviso is at the end of a clause that gives a wide variety of additional powers to the trustees under headings such as investments, life insurance and borrowing. By its express terms, the additional powers clause does not derogate from the other powers and authorities that the trustees have, either through other provisions in the agreement or at law. These include the right to distribute income and capital of the trust at any time and the obligation imposed on the trustees to distribute the trust property by the 21st anniversary of the trust. The proviso language is a limitation on the trustees' additional powers and does not, in my view, have the effect of removing the general power of the trustees to distribute the settled property to the taxpayer.
+(3) Amendments section
+[23] Counsel for the Crown also refers to an amendments section that permits the trustees to amend certain sections of the trust agreement with the consent of the taxpayer while he is alive and has testamentary capacity. For the most part, the sections that are permitted to be amended are the ancillary, less fundamental terms in the agreement.
+[24] The Crown suggests that a careful reading of the amendments section leads to the conclusion that it is possible for an amendment to be made to the agreement that would enable the trust property to be distributed to persons other than the taxpayer.[1] I would agree that the amendments section opens the door for this possibility[2] but note that it cannot be done without the taxpayer's consent. Until some action is taken to change the beneficiary with the taxpayer's consent, there is only the possibility of the taxpayer divesting himself of his interest in the trust property. Until that action is taken, I would conclude that this section does not cause a change in beneficial ownership.
+(4) No vesting section
+[25] The Crown also refers to a no vesting clause that states that none of the income or capital of the trust vests in the beneficiary before the division date. Typically, this clause would be included in a trust agreement only if a beneficiary's interest is subject to a contingency.
+[26] Counsel for the taxpayer suggests that the no vesting clause was put in the agreement in error. Regardless of whether or not this is true, the section does not have the effect of enabling the trust property to be distributed to anyone other than the taxpayer. Accordingly, it does not assist the Crown's position.
+(5) Ancillary documents
+[27] Counsel for the Crown also refers to conveyance documentation relating to other properties transferred to the trust. In some of these documents (not including the document that conveyed the Golders Green shares), the taxpayer agreed to transfer all his beneficial interest in the properties.
+[28] In my view, the transfer documents do not assist the Crown. First, the rights of the taxpayer with respect to the properties settled on the trust are defined by the trust agreement. The transfer documents do not expand or reduce these rights. Either the trust agreement results in a change in beneficial ownership or it does not and the taxpayer's intention as expressed in transfer documents cannot alter the legal result.
+[29] Also, the term "beneficial ownership" can have different meanings depending on the context in which it is used. (See discussion below.) Consequently, it is not necessarily inconsistent with the taxpayer's position in this appeal that he transferred his "beneficial interest" as that term is used in the conveyance documents.
+[30] For these reasons, I have concluded that the Golders Green shares are being held for the benefit of the taxpayer exclusively. The question that remains is whether the settlement of the trust nevertheless results in a change in "beneficial ownership" for purposes of clause (v) in the definition of "disposition."
+Question 2: Does a sole beneficiary have beneficial ownership of trust property?
+[31] The next question concerns the meaning of "beneficial ownership." Did Mr. Williams retain beneficial ownership when he placed management and control of the Golders Green shares in the hands of the trustees? The Crown submits that beneficial ownership was changed because Mr. Williams did not keep the usual incidents of ownership, such as possession, use and risk.
+[32] The term "beneficial ownership" is not defined in the Act and, although much has been written about its meaning, there are surprisingly few judicial decisions that are of assistance. In accordance with well-known principles, the term "beneficial ownership" should be given its ordinary meaning consistent with the scheme of the Act (Bell Express Vu Limited Partnership v. Rex, [2002] 2 S.C.R. 559).
+[33] I would first observe that what is at issue is the meaning of "beneficial ownership" and not simply "ownership." The position of the Crown does not really extend the meaning of "beneficial ownership" beyond how courts have interpreted "ownership" for tax purposes and many of the Crown's arguments concern the meaning of "ownership." These arguments are not of much assistance because a different statutory term is at issue.
+[34] It is for this reason that I do not find it helpful to look at general trust principles on the nature of a beneficiary's interest in trust property. According to the seminal authority on trusts, Donovan Waters, there has been a long-standing debate in academic circles about whether a beneficiary can be said to have an ownership interest in trust property.[3] One theory is that a beneficiary's only right is to require the trustees to perform their trust obligations. This so-called in personem right arguably does not give a beneficiary an ownership interest in trust property. In my view, whether this theory is correct or not is not relevant to the issue that I have to decide. What is at issue is "beneficial ownership," not "ownership."
+[35] For the same reason, I have found little assistance in the Crown's references to tax cases dealing with the meanings of "disposition"[4] and "acquisition."[5]
+[36] For the reasons that follow, I have concluded that the Crown's suggested interpretation of "beneficial ownership" is unreasonably narrow in the context of clause (v). Although the term "beneficial ownership" is often used in the sense of full ownership except bare legal title, it can have other meanings and I see no reason to interpret it narrowly in this statutory context.
+[37] Looking at the ordinary meaning first, it makes some sense to consider that property always has a beneficial owner or owners. As Robert Couzin recently wrote in a thoughtful article on corporate control: "The beneficiaries of a trust are, after all, the quintessential 'beneficial owners'."[6]. In The Williams Investment Trust, the trust property is maintained for the benefit of Mr. Williams alone. No one else will benefit from the property and the trustees are obligated to manage the property in his best interest. The only person that could have beneficial ownership, then, is Mr. Williams.
+[38] The ordinary meaning of "beneficial ownership" as defined in the most recent edition of Black's Law Dictionary[7] is extremely broad and supports the meaning suggested by the taxpayer. The relevant extracts are:
+Beneficial owner. 1. One recognized in equity as the owner of something because use and title belong to that person, even though legal title may belong to someone else; esp., one for whom property is held in trust. [...]
+Beneficial ownership. 1. A beneficiary's interest in trust property. [...]
+[39] The adjective "beneficial" is used in a variety of contexts and it appears not to have a precise legal meaning. The following comment was made by Jessel, M.R. over 100 years ago: "To my mind the use of the word 'beneficial' in our language is exceedingly inaccurate."[8]
+[40] For these reasons, I would conclude that the ordinary meaning can encompass the meaning suggested by the taxpayer.
+[41] Second, from a contextual point of view, counsel for the Crown did not suggest that the Crown's interpretation was required by the scheme of the Act.[9] In these circumstances I am reluctant to give the statutory language anything but a broad interpretation.
+[42] Third, there was in force during the taxation year in question a deeming provision that applied for purposes of Quebec transactions that would result in the taxpayer's position being applied in that province. At the relevant time, paragraph 248(3)(f) deemed a beneficiary to have beneficial ownership of trust property. The provision read:[10]
+For the purposes of the application of this Act in relation to the Provinceof Quebec,
+[...]
+(f) property in relation to which any person has, at any time,
+(i) the right of ownership,
+(ii) a right as a lessee in an emphyteutic lease, or
+(iii) a right as a beneficiary in a trust
+shall, notwithstanding that such property is subject to a servitude,
+be deemed to be beneficially owned by the person at that time.
+(emphasis added)
+[43] Subsection 248(3) is designed to provide harmonization of transactions across the country. Accordingly, it would be difficult to conclude that Parliament had the Crown's narrow interpretation in mind at the relevant time.
+[44] Fourth, the Crown's position provides a harsher result than that provided by the Canada Revenue Agency's administrative position.[11] The administrative position was developed in the context of protective trusts and allows taxpayers to take advantage of clause (v) as long as they satisfy certain conditions, including that the transferor is subject to the attribution rule in subsection 75(2). In light of the Agency's administrative position, I would be reluctant to find that the statute should be given a more restrictive interpretation unless the legislation required it. That is not the case here.
+[45] The Crown in its argument relies heavily on an article by Professor Catherine Brown titled "Symposium: Beneficial Ownership and the Income Tax Act."[12] Counsel for the Crown suggests that several parts of Professor Brown's article support the position that beneficial ownership means, in essence, having all the incidents of ownership except for legal title.[13]
+[46] I have reviewed Professor Brown's article, and in particular the passages referred to, and I am unable to conclude that it supports the Crown's position. I note the following passage from the conclusion in the article that seems to suggest that the issue is rather muddier than the Crown suggests.[14]
+The expression "beneficial ownership" was coined as a colloquialism to refer to the rights of a beneficiary, as recognized in equity, to beneficial enjoyment of trust property. The expression is often employed in statutes and, either through definition or usage, conveys a meaning that strays far from that originally intended meaning. This is particularly apparent in the ITA. As a result, the search for meanings for the expressions "beneficial ownership," "beneficial owner," or "beneficially owned" in the context of the ITA is a difficult one. There may be multiple meanings, or the meaning may change depending on the provision at issue. These concepts also become important where the expressions are not expressly used but the determination of who is the owner underlies the tax result.
+[47] Based on Professor Brown's article as a whole, I would conclude that it does not support the Crown's narrow interpretation of beneficial ownership.
+[48] Finally, in light of the conclusion that I have reached, it is not necessary that I consider the principal argument of the taxpayer which is based on the decision of the Supreme Court of Canada in M.N.R. v. Trans-CanadaInvestment Corp. Ltd., [1956] S.C.R. 49. The taxpayer argues that the court's finding of beneficial ownership in that case is applicable to The Williams Investment Trust.
+[49] Trans-Canada Investment Corp. has been described as a high water mark in judicial decisions regarding when a beneficiary has "ownership" of trust property because the trustees in that case had been given significant powers to manage the trust property.[15] The case concerned the character of dividends that flowed through to unitholders of a trust in the context of an income tax appeal. The taxpayer, a unitholder of the trust, was claiming a dividends-received deduction for dividends received by the trust. The Supreme Court of Canada, in a 3-2 decision, concluded that the dividends-received deduction was available because under the terms of the trust the character of the dividends flowed through to the unitholders.
+[50] The meaning of "beneficial ownership" was not at issue in the case but that does not mean that the case is not relevant. The decision would have been helpful to Mr. Williams if the terms of The Williams Investment Trust were comparable to the terms in the investment trust in Trans-Canada Investment Corp. If the trusts had been similar, Mr. Williams arguably has not only beneficial ownership but ownership itself.
+[51] The terms of the trusts are materially different however. The key difference is noted in the following passage in the lower court decision ([1953] Ex.C.R. 292) by Cameron J.:
+[13] From these facts, and particularly because he could at any time demand that the Trustee deliver to him his proper proportion of the shares in the "underlying companies", it seems to me that the holder of the Series "B" certificate was, in fact, the beneficial owner of the basic shares represented thereby. (emphasis added)
+[52] The ability of the unitholders in Trans-Canada Investment Corp. to call for the trust property at any time was critical to the decision. As a result, that case has no application unless Mr. Williams has the right to call for a distribution of the trust property at any time. Under the trust terms, Mr. Williams has no control over the distribution of the trust property until the maturity of the trust on its 21st anniversary. Accordingly, Trans-Canada Investment Corp. has no application unless Mr. Williams has the right to call for the trust property at any time by virtue of the "rule in Saunders v. Vautier." It is not necessary that I consider the applicability of Saunders v. Vautier in light of the conclusion that I have reached.
+Conclusion
+[53] For the reasons above, the appeal is allowed and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the Golders Green shares were not disposed of when they were transferred to The Williams Investment Trust.
+[54] As for costs, success was divided as a result of another issue being withdrawn by the taxpayer at the commencement of the hearing. Accordingly, there will be no order as to costs.
+Signed at Toronto, Ontario, this 19th day of August, 2005.
+"J. Woods"
+Woods J.
+CITATION: 2005TCC558
+COURT FILE NO.: 2001-4511(IT)G
+STYLE OF CAUSE: Kenneth A. Williams v. Her Majesty the Queen
+PLACE OF HEARING: St. Catharines, Ontario
+DATE OF HEARING: January 24, 2005
+REASONS FOR JUDGMENT BY: The Honourable Justice Judith Woods
+DATE OF JUDGMENT: August 19, 2005
+APPEARANCES:
+Counsel for the Appellant:
+Glen W. McCann
+Counsel for the Respondent:
+Elizabeth Chasson
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Glen W. McCann
+Firm: Sullivan Mahoney LLP
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Ontario
+[1] To effect a distribution to someone else, an amendment would have to be made to section 8 that allows for the transfer of the trust property to a new trust.
+[2] The taxpayer's counsel invited me to compare The Williams Investment Trust with an earlier trust created by Mr. Williams, The Williams Family Trust, and suggested that an inference could be drawn that some sections were inappropriately lifted from the earlier trust. I note that both trusts contain a very similar amendments section but the family trust does not allow an amendment to the section that permits transfers to a new trust. I am not inclined to make inferences in comparing the two trusts without having any evidentiary foundation to do so.
+[3] Donovan Waters, The Nature of the Trust Beneficiary's Interest, 1967 Canadian Bar Review 219.
+[4] For example, Victory Hotels Ltd. v. M.N.R., 62 D.T.C. 1378 (Ex.Ct.).
+[5] For example, M.N.R. v. Wardean Drilling Ltd., 69 D.T.C. 5194 (Ex.Ct.).
+[6] Robert Couzin, Some Reflections on Corporate Control, (2005) Vol. 53, No 2 Canadian Tax Journal 305 at 325.
+[7] The eighth edition.
+[8] Re Jackson's Will (1879) 49 LJCH 82.
+[9] Although the Crown did not provide support for its own position based on a contextual approach, counsel did suggest that the taxpayer's position is contrary to the scheme of the Act because it enables the taxpayer to avoid both a capital gain on the transfor of property to a trust and the attribution rule in subsection 75(2). It is not necessary that I consider this argument because I do not agree that the taxpayer has avoided subsection 75(2). See "No reversion clause" above.
+[10] I note that this version came into force shortly before the relevant time.
+[11] Income Tax Technical News No. 7, dated February 21, 1996.
+[12] Catherine Brown, Symposium: Beneficial Ownership and the Income Tax Act, (2003) Vol. 51, No. 1 Canadian Tax Journal 401.
+[13] The Crown referred to pages 409-412, 415-416 and 436-438.
+[14] Ibid., at 452.
+[15] Supra note 3, at 283.

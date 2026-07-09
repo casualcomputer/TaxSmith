@@ -1,0 +1,184 @@
+---
+title: "Ross v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27047/index.do"
+last_modified: "2005-10-03"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 CCI 643"
+citation2: ""
+neutral_citation: "2005 CCI 643"
+decision_date: "2005-10-03"
+language: "fr"
+item_id: "27047"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 592
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T22:28:52.145000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "ff3107fe7eb82eb4e74e9a237350204ba0b1bdd55b2fc882e8f2d6952cc7c1c7"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Ross v. The Queen
+
+- Citation: 2005 CCI 643
+- Decision date: 2005-10-03
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 592, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Ross v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-10-03
+Référence neutre
+2005 CCI 643
+Numéro de dossier
+2005-538(IT)I
+Juges et Officiers taxateurs
+Leslie M. Little
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2005-538(IT)I
+ENTRE :
+NANCY ROSS,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 29 août 2005 à Toronto (Ontario)
+Devant : L'honorable juge L.M. Little
+Comparutions :
+Représentant de l'appelante :
+Eric Nazzer
+Avocate de l'intimée :
+Me Donna Dorosh
+Anik Jodouin (stagiaire en droit)
+____________________________________________________________________
+JUGEMENT
+L'appel interjeté à l'égard de la cotisation établie en vertu de la Loi de l'impôt sur le revenu pour l'année d'imposition 2003 est rejeté, sans dépens, conformément aux motifs du jugement ci-joints.
+Signé à Vancouver (Colombie-Britannique), ce 3e jour d'octobre 2005.
+« L.M. Little »
+Juge Little
+Traduction certifiée conforme ce 4e jour de janvier 2006.
+Marie-Christine Gervais, traductrice
+Référence : 2005CCI643
+Date : 20051003
+Dossier : 2005-538(IT)I
+ENTRE :
+NANCY ROSS,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Little
+A. FAITS
+2001
+[1] Dans l'année d'imposition 2001, l'appelante a eu un revenu net de 61 492,00 $.
+[2] Dans l'année d'imposition 2001, les montants ont été retenus à la source sur un revenu NUL.
+[3] L'impôt que l'appelante devait payer pour l'année d'imposition 2001 était de 10 258,00 $.
+2002
+[4] Dans l'année d'imposition 2002, l'appelante a eu un revenu net de 117 875,00 $.
+[5] Dans l'année d'imposition 2002, les montants ont été retenus à la source sur un revenu de 65 245,00 $.
+[6] L'impôt que l'appelante devait payer pour l'année d'imposition 2002 était de 24 964,42 $.
+2003
+[7] Dans l'année d'imposition 2003, l'appelante a eu un revenu net de 191 911,00 $.
+[8] Dans l'année d'imposition 2003, les montants ont été retenus à la source sur un revenu de 163 864,00 $.
+[9] L'impôt que l'appelante devait payer pour l'année d'imposition 2003 était de 45 492,00 $.
+[10] En février 2003, le ministre du Revenu national (le « ministre » ) a envoyé à l'appelante des rappels d'acomptes provisionnels pour l'année d'imposition 2003. Les rappels d'acomptes provisionnels indiquaient que l'appelante devait verser les acomptes provisionnels suivants :
+15 mars 2003 4 388 $
+15 juin 2003 4 388 $
+[11] En août 2003, le ministre a envoyé à l'appelante des rappels d'acomptes provisionnels pour l'année d'imposition 2003 indiquant que l'appelante devait verser les acomptes provisionnels suivants :
+15 septembre 2003 4 164 $
+15 décembre 2003 4 164 $
+[12] L'appelante n'a pas versé d'acomptes provisionnels à l'égard de l'impôt exigible pour l'année d'imposition 2003.
+B. POINTS EN LITIGE
+[13] Il s'agit de savoir si l'appelante est tenue de payer des intérêts sur acomptes provisionnels pour l'année d'imposition 2003 en vertu du paragraphe 161(2) de la Loi de l'impôt sur le revenu (la « Loi » ).
+[14] Le paragraphe 156(1) de la Loi prévoit que les particuliers (à l'exception de ceux dont la principale source de revenu provient de l'agriculture ou de la pêche) doivent payer leur impôt au moyen d'acomptes provisionnels.
+[15] L'impôt établi en vertu de cette disposition doit être payé au moyen de cinq acomptes provisionnels. Les quatre premiers acomptes provisionnels doivent être payés aux dates suivantes :
+15 mars
+15 juin
+15 septembre
+15 décembre
+[16] Chaque acompte provisionnel correspond à un quart de l'un des éléments suivants :
+1. L'impôt à payer estimé pour l'année;
+2. La base des acomptes provisionnels pour l'année d'imposition précédente. Le dernier acompte provisionnel constitue le reste de l'impôt à payer estimé selon l'article 151 sur le revenu réel pour l'année et il doit être payé à la date d' « exigibilité du solde » . Pour les particuliers, la date d'exigibilité du solde est le 30 avril de l'année suivante.
+[17] Voici le libellé du paragraphe 161(4.01) de la Loi :
+Pour l'application du paragraphe (2) et de l'article 163.1, le particulier qui est tenu de payer, pour une année d'imposition, quelque fraction ou acompte provisionnel d'impôt, calculé selon une méthode visée au paragraphe 156(1), est réputé être tenu de payer, dans le délai prévu au paragraphe 156(1), une fraction ou un acompte provisionnel, calculé par rapport à l'un des montants suivants et réduit du montant éventuel déterminé à son égard pour l'année selon l'alinéa 156(2)b), selon ce qui aboutit au total le moins élevé de ces fractions ou acomptes à payer par le particulier dans ce délai :
+[18] Le représentant de l'appelante a déposé une copie du bordereau de paye de l'appelante pour l'année d'imposition 2003 (pièce A-3).
+[19] Sur la page 24 de la pièce A-3 (la page traitant de la période de paye se terminant le 14 décembre 2003), il est indiqué que l'appelante a reçu une prime de 38 000 $ (qui est appelée [traduction] « prime à court terme » ).
+[20] Le bordereau de paye indique également qu'un montant d'impôt fédéral de 11 795,63 $ a été retenu pour cette période de paye. Il est à noter que pour la plupart des autres périodes de paye en 2003, le montant de 1 489,65 $ a été retenu sur le salaire de l'appelante pour l'impôt fédéral. J'ai donc conclu que le montant de 10 305,98 $ a été retenu pour l'impôt fédéral concernant la prime de 38 000 $ versée à l'appelante.
+[21] L'appelante soutient qu'étant donné que des sommes ont été retenues à la source et remises au receveur général par l'employeur en vertu du paragraphe 153(1) de la Loi et que ces sommes excèdent les montants devant être payés au moyen d'acomptes provisionnels selon paragraphe 156(1) de la Loi, l'exigence voulant que des acomptes provisionnels soient versés ne s'applique pas dans ce cas-ci.
+[22] Le juge en chef adjoint Christie a examiné un argument semblable dans le cadre de l'affaire Strain v. The Queen, [1998] 2 C.T.C. 2136. Dans l'affaire Strain, il s'agissait de savoir si l'appelant était tenu de verser des intérêts en application du paragraphe 161(2) et s'il était passible d'une pénalité en application de l'article 163.1 de la Loi. Le juge en chef adjoint Christie a mentionné les exceptions figurant au paragraphe 156(1) et a dit ce qui suit à ce sujet :
+6. Il est à noter que l'exigence du paragraphe 156(1) de la Loi voulant que tout particulier doive payer des acomptes provisionnels vaut sous réserve des exceptions suivantes :
+a) le revenu du particulier provient principalement de l'agriculture ou de la pêche et l'impôt net à payer par le particulier pour l'année ne dépasse pas des montants spécifiés (al. 156.1(2)a));
+b) l'impôt net à payer par le particulier pour l'année ou pour chacune des deux années d'imposition précédentes ne dépasse pas le plafond des acomptes provisionnels qui lui est applicable pour l'année (al. 156.1(2)b));
+c) le particulier décède, et les circonstances énoncées s'appliquent (par. 156.1(3));
+d) des sommes ont été retenues à la source et une proportion d'au moins 75 p. 100 du revenu du particulier pour l'année consiste en un revenu duquel de l'impôt a été retenu à la source (par. 153(2));
+e) la source principale du revenu du particulier pour une année d'imposition est l'agriculture ou la pêche, auquel cas (sous réserve de l'alinéa 156.1(2)a)) des paiements spéciaux par acomptes sont prévus (par. 155(1)).
+7. L'appelant n'entre pas dans le cadre de l'une de ces exceptions. Concernant l'alinéa c), 75 p. 100 de son revenu de 787 333 $ pour 1994 représentent 590 500 $. Le revenu de l'appelant pour cette année-là duquel des sommes ont été retenues à la source a été de 562 333 $.
+8. En adoptant le paragraphe 156(1), le Parlement a décrété que tout particulier, sauf celui qui entre dans le cadre des exceptions décrites au paragraphe, doit payer de l'impôt par acomptes au receveur général. D'après le principal argument de l'appelant, comme des sommes ont été retenues à la source et remises au receveur général en 1994 par son employeur en vertu du paragraphe 153(1) [...] de la Loi et que ces sommes étaient supérieures aux montants devant être versés par acomptes en vertu du paragraphe 156(1), l'exigence voulant que des sommes soient payées par acomptes ne s'applique plus.
+9. Une telle exception n'ayant pas été incluse dans le paragraphe 156(1), l'appelant ne peut avoir gain de cause que s'il parvient à faire état d'une ou plusieurs autres dispositions de la Loi ou du règlement pris en application de la Loi qui disent cela ou desquelles une exception de ce genre doit nécessairement être déduite, et j'insiste sur le mot « nécessairement » . Cela n'a pas été fait.
+10. L'appelant a renvoyé la Cour aux jugements Gill v. M.N.R., 75 D.T.C. 278 (C.R.I.), et Lalonde v. M.N.R., 82 D.T.C. 1772 (C.R.I.). Dans ces affaires-là, l'employeur de l'appelant avait retenu des sommes à la source mais avait omis de les remettre au receveur général. Il avait été statué que, dans les circonstances, les appelants étaient, dans la mesure des retenues effectuées, soustraits à l'obligation de payer de l'impôt. Les employeurs avaient été considérés comme étant les mandataires du ministre du Revenu national à l'égard des retenues à effectuer. Je ne pense pas que ces jugements aident l'appelant.
+11. La question des retenues à la source et la question des paiements par acomptes représentent des concepts différents et ne sont liées que dans la mesure où la loi peut le prévoir.
+12. Enfin, l'appelant a agité le spectre d'une double imposition possible. Comme on l'aura vu, il n'y a pas eu de double imposition en l'espèce. À mon avis, considérés ensemble ou séparément, les paragraphes 156(1) et 163(1) ne peuvent à juste titre être interprétés comme étant destinés à permettre une double imposition. Dans l'affaire B.S.C. Footwear Ltd. v. Ridgeway (Inspector of Taxes), [1972] A.C. 544, lord Reid disait, à la page 555 : « Un principe fondamental du droit fiscal veut que la même somme ne soit pas imposée deux fois. » S'il arrive qu'un contribuable ait trop payé d'impôt à cause de retenues à la source ou de paiements par acomptes ou à cause des deux, la situation peut être corrigée par un remboursement : paragraphe 164(1) de la Loi.
+13. La cotisation établie à l'égard de l'appelant en vertu des articles 162 et 163.1 de la Loi était fondée. Il s'ensuit que l'appel doit être rejeté.
+[23] Je souscris aux commentaires formulés par le juge en chef adjoint Christie dans la décision Strain et je conclus que l'appelante n'est visée par aucune des exceptions prévues au paragraphe 156(1). L'appelante aurait dû effectuer les paiements par acomptes provisionnels comme l'a indiqué le ministre. Comme l'appelante n'a pas effectué les paiements par acomptes provisionnels requis, le ministre a eu raison d'obliger l'appelante à payer des intérêts en application du paragraphe 161(2) de la Loi.
+[24] L'appel est rejeté, sans dépens.
+Signé à Vancouver (Colombie-Britannique), ce 3e jour d'octobre 2005.
+« L.M. Little »
+Juge Little
+Traduction certifiée conforme ce 4e jour de janvier 2006.
+Marie-Christine Gervais, traductrice
+RÉFÉRENCE :
+2005CCI643
+NO DU DOSSIER DE LA COUR :
+2005-538(IT)I
+INTITULÉ DE LA CAUSE :
+Nancy Ross c.
+Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+Toronto (Ontario)
+DATE DE L'AUDIENCE :
+Le 29 août 2005
+MOTIFS DU JUGEMENT PAR :
+L'honorable juge L.M. Little
+DATE DU JUGEMENT :
+Le 3 octobre 2005
+COMPARUTIONS :
+Représentant de l'appelante :
+Eric Nazzer
+Avocate de l'intimée :
+Me Donna Dorosh
+Anik Jodouin (stagiaire en droit)
+AVOCAT(S) INSCRIT(S) AU DOSSIER :
+Pour l'appelante :
+Nom :
+Étude :
+Pour l'intimée :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

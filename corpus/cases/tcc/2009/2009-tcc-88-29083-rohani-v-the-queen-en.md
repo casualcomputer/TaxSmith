@@ -1,0 +1,127 @@
+---
+title: "Rohani v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29083/index.do"
+last_modified: "2009-02-06"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 TCC 88"
+citation2: ""
+neutral_citation: "2009 TCC 88"
+decision_date: "2009-02-06"
+language: "en"
+item_id: "29083"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6829
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T01:35:47.277000+00:00"
+cases_cited_count: 0
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "b8e4f3ae449a1e36739b546923def5f339e1fd18ad849de05555191e6a6c76dd"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Rohani v. The Queen
+
+- Citation: 2009 TCC 88
+- Decision date: 2009-02-06
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6829, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Rohani v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2009-02-06
+Neutral citation
+2009 TCC 88
+File numbers
+2008-1630(IT)I
+Judges and Taxing Officers
+Robert James Hogan
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2008-1630(IT)I
+BETWEEN:
+NASRIN ROHANI,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on January 15 and 19, 2009, at Ottawa, Canada.
+Before: The Honourable Justice Robert J. Hogan
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Charles Camirand
+Carla Figliomeni (student-at-law)
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act for the 2004 taxation year is allowed in part, without costs, and the matter is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the penalty under subsection 163(2) should be deleted, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 6th day of February 2009.
+"Robert J. Hogan"
+Hogan J.
+Citation: 2009 TCC 88
+Date: 20090206
+Docket: 2008-1630(IT)I
+BETWEEN:
+NASRIN ROHANI,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Hogan J.
+[1] This appeal was heard in Ottawa pursuant to the informal procedure of this Court.
+[2] The Appellant, Ms. Nasrin Rohani, filed an appeal with respect to the reassessment issued for her 2004 taxation year. In computing her tax credit for the 2004 taxation year, the Appellant claimed charitable donations in the amount of $9,000. The Minister of National Revenue (the “Minister”) issued a notice of reassessment to reduce the Appellant’s charitable donations to $2,127 and to add a penalty under subsection 163(2) of the Income Tax Act (the “ITA”). The Appellant, as early as March 7, 2007, admitted that she made a mistake in claiming charitable donations of $9,000. Therefore, the only issue in dispute is the imposition of the penalty by the Minister.
+[3] The Appellant testified that she suffered from a major depressive disorder that commenced prior to 2004. The Appellant claims that her depression was triggered from severe stress brought on by contentious divorce proceedings with her former spouse, Momtaz Zadegan. The Appellant is on a prolonged sick leave from her workplace as a registered nurse. The Appellant explained that she was taking at least four types of medication including antidepressants to treat her condition when she prepared her tax return in 2004. The symptoms of her condition in 2004 were quite severe and the Appellant found the task of preparing her tax return daunting. Prior to 2004, the Appellant’s tax returns were prepared by her former spouse. The Appellant believes that confusion resulting from her medical condition caused her to miscalculate her charitable donation tax credit.
+[4] The Respondent argues that the Appellant is well educated and is not a novice in income tax matters. Counsel for the Respondent suggests that if the Appellant was incapable of properly completing her return, she should have sought professional help to do so.
+[5] The penalty is imposed under subsection 163(2) of the ITA, the preamble of which reads as follows:
+163(2) False statements or omissions — Every person who, knowingly, or under circumstances amounting to gross negligence, has made or has participated in, assented to or acquiesced in the making of, a false statement or omission in a return, form, certificate, statement or answer (in this section referred to as a “return”) filed or made in respect of a taxation year for the purposes of this Act . . .
+[6] Subsection 163(3) of the ITA provides that the burden of establishing the circumstances that give rise to the application of the penalty is on the Minister.
+[7] Counsel for the Respondent notes that the Appellant admitted that she was negligent in claiming $9,000 of charitable donations when in fact she had receipts for only $2,127. Subsection 163(2) imposes a higher burden than simple negligence. The Respondent must establish that the conduct of the Appellant constitutes gross negligence. In Contonis v. The Queen, 95 DTC 511, Bowman T.C.C.J. described gross negligence as follows:
+. . . descriptive of an exceptionally high degree of negligence, amounting almost to recklessness. It goes well beyond mere inadvertence. . . .
+[8] I do not believe that the Appellant’s conduct rises to the level of gross negligence. She was suffering from a major depressive disorder when she prepared her tax return. It is common knowledge that depression is a disabling condition that affects a person’s family and work life, sleeping and eating habits and general well‑being. The Appellant’s conduct in preparing her return must be judged against this background. If the Appellant was in good mental health at the time, I would be inclined to agree with the Respondent’s position. However, the Appellant was not, and her medical condition must be taken into account. The Appellant made a similar mistake in her tax return which favoured the Respondent. She claimed less medical expenses than she was entitled to. I accept the Appellant’s evidence that her depressive disorder affected her cognitive abilities and was responsible for both mistakes made on her return.
+[9] For these reasons, I conclude that the Respondent has not established that the conduct of the Appellant constituted gross negligence. As a result, the reassessment is referred back to the Minister so that the penalty can be eliminated. All other matters pertaining to the reassessment are maintained.
+Signed at Ottawa, Canada, this 6th day of February 2009.
+"Robert J. Hogan"
+Hogan J.
+CITATION: 2009 TCC 88
+COURT FILE NO.: 2008-1630(IT)I
+STYLE OF CAUSE: NASRIN ROHANI v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Ottawa, Canada
+DATE OF HEARING: January 15 and 19, 2009
+REASONS FOR JUDGMENT BY: The Honourable Justice Robert J. Hogan
+DATE OF JUDGMENT: February 6, 2009
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Charles Camirand
+Carla Figliomeni (student-at-law)
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

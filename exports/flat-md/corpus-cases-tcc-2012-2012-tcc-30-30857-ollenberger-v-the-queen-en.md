@@ -1,0 +1,163 @@
+---
+title: "Ollenberger v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30857/index.do"
+last_modified: "2012-02-16"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2012 TCC 30"
+citation2: ""
+neutral_citation: "2012 TCC 30"
+decision_date: "2012-02-16"
+language: "en"
+item_id: "30857"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7354
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T08:35:53.872000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "e5b929439fbfa20e252ffe2a9fb7a7fd79a1f31cd5c95ffd2aad840fc8fb1c56"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Ollenberger v. The Queen
+
+- Citation: 2012 TCC 30
+- Decision date: 2012-02-16
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7354, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Ollenberger v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2012-02-16
+Neutral citation
+2012 TCC 30
+File numbers
+2009-3877(IT)G
+Judges and Taxing Officers
+Valerie A. Miller
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2009-3877(IT)G
+BETWEEN:
+RANDY J. OLLENBERGER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on October 24, 2011, at Calgary, Alberta
+Before: The Honourable Justice Valerie Miller
+Appearances:
+Counsel for the Appellant:
+Jean-Philippe Couture
+Pat Lindsay
+Counsel for the Respondent:
+Cynthia L. Isenor
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act for the 2007 year is dismissed in accordance with the attached Reasons for Judgment.
+Costs are awarded to the Respondent.
+Signed at Ottawa, Canada, this 16th day of February 2012.
+“V.A. Miller”
+V.A. Miller J.
+Citation: 2012TCC30
+Date: 20120216
+Docket: 2009-3877(IT)G
+BETWEEN:
+RANDY J. OLLENBERGER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+V.A. Miller J.
+[1] In September 2007 the Appellant loaned AEF Corporation (“AEF”) $600,000. The loan was not repaid when due and, in his 2007 income tax return, the Appellant claimed a business investment loss (“BIL”) of $613,772 in respect of this loan. The Minister of National Revenue (the “Minister”) has conceded that the Appellant is entitled to a capital loss. However, the Minister has denied his entitlement to a BIL on the basis that AEF was not a “small business corporation” because it did not carry on an “active business” in 2007 or the 12 preceding months.
+[2] The only issue in this appeal is whether AEF was an “active business” during the relevant period.
+[3] The witnesses at the hearing of this appeal were the Appellant, Doug Djan on behalf of the Appellant and Karla MacDonald, an appeals officer with the Canada Revenue Agency (“CRA”) on behalf of the Respondent.
+[4] The Appellant leads BMO Capital Markets’ North America. In this position, he manages a group of 22 professionals who analyze oil and gas companies in Canada and the United States to determine whether such companies offer good investment opportunities for professional investors.
+[5] It was Doug Djan’s evidence that he and Scott Kisk established AEF. Its business purpose was to acquire distressed, but producing oil and gas properties and to operate these properties or to sell them, whichever was most profitable.
+[6] The Appellant had no independent knowledge of AEF’s business and in his evidence he described the events which led him to make a loan to AEF and to claim the BIL on his 2007 income tax return. Those events are as follows.
+[7] The Appellant stated that he was contacted by Doug Djan on September 8, 2007 with respect to an investment opportunity. Mr. Djan represented himself to the Appellant as the president of AEF. According to the Appellant, Mr. Djan explained that AEF had made an offer of $11,875,750 to acquire the oil and gas producing assets of Vanquish Oil & Gas Corporation and King Energy Inc. (the “Vanquish Properties”) from Ernst & Young Inc. (the “Receiver”) who was then acting as interim receiver and manager for the Vanquish Properties. In order to sign this purchase and sale agreement for the Vanquish Properties, AEF was required to provide the Receiver with a 10% deposit by September 10, 2007. The Appellant was informed that a portion of the funding for the deposit had fallen through and AEF needed a further amount of $600,000 by September 10, 2007.
+[8] The Appellant satisfied himself that Mr. Djan’s statements were accurate. He loaned AEF $600,000 on September 10. As consideration for the loan, AEF and Mr. Djan agreed to pay the Appellant a commission of $100,000. The loan was to be repaid in full no later than October 4, 2007.
+[9] Sometime between September 10 and September 21, AEF discovered that there were defects in the title to the Vanquish Properties. There was a disagreement concerning the cost to cure the title defects and on October 10, 2007, the Receiver sent a letter to AEF terminating the purchase and sale agreement. The deposit was forfeited in accordance with the purchase and sale agreement. The Appellant then sought to claim a BIL for the amount of the deposit.
+[10] It was Mr. Djan’s evidence that AEF produced the document titled “Business Summary” (exhibit 1, tab 35) to raise funds for the purchase of the Vanquish Properties. The following paragraph appears on page 5 of this document:
+AEF is offering up to 75% of the common shares of company and board representation for $50 Million. The current management team will retain 25% common shares and board representation. Alternatively, AEF will consider dept. (sic)
+[11] AEF was located in office space that was shared by it and other companies owned by Scott Kisk. Mr. Djan stated that AEF had desks, computers, its own telephone number and stationery. All expenses were paid by Mr. Djan and Scott Kisk.
+[12] Mr. Djan testified that he and Scott Kisk worked full time for AEF in 2006 and 2007 pursuing AEF’s business purpose. They researched properties to purchase, sought investors and arranged for Provident Group Asset Management to provide a commitment letter for the purchase of the Vanquish Properties.
+[13] Neither Mr. Djan nor Scott Kisk was ever paid as AEF had no income.
+[14] Mr. Djan stated that AEF had a management team and their names and experience were given in the Business Summary.
+[15] The three definitions relevant to this determination are contained in section 248 of the Act. In summary, they provide:
+(a) “small business corporation” is a Canadian-controlled private corporation (“CCPC”) where “all or substantially all of the fair market value of the assets of which at that time is attributable to assets that are used principally in an active business carried on primarily in Canada”.
+(b) “active business” means “any business carried on by the taxpayer other than a specified investment business or a personal services business”. AEF was neither a specified investment business nor a personal services business.
+(c) “business” includes “a profession, calling, trade, manufacture or undertaking of any kind whatever” but does not include an office and employment.
+[16] In his written submissions, Counsel for the Appellant wrote:
+70. (b) The defined term “active business” operates only to exclude a “specified investment business” and a “personal services business”. These concepts are not in issue and as such “active business” only means “business” in this case.
+[17] I disagree with the Appellant’s position that the definition of “active business” only means “business”. The word “active” is used in this provision as an adjective and by its placement it is used to modify “business”. Because it is meant to be descriptive of the word “business”, this word should not be overlooked. See Pierre-André Côté, The Interpretation of Legislation in Canada, 4th ed. (Scarborough: Canada, 2011) at p.295.
+[18] Reading the definition as a whole, I conclude that an “active business” must be one which is “carried on”. The question therefore is whether there is sufficient evidence before me that would allow me to conclude that AEF carried on such a business.
+[19] The only evidence before me with respect to the business of AEF was the document entitled the Business Summary and the testimony of Mr. Djan. When I consider the totality of this evidence and the inconsistencies in Mr. Djan’s evidence and the inaccuracies in the Business Summary, I must conclude that the evidence as a whole is not credible.
+[20] These inconsistencies included the following.
+[21] The Business Summary listed Mr. Djan’s education as degrees in law, marketing and business from Pepperdine University and the University of Calgary. However, Mr. Djan testified that he had a political science degree from the University of Saskatchewan and a marketing degree from Pepperdine University. Although this inconsistency is innocuous, it is typical of the lack of veracity throughout most of his evidence.
+[22] Even the first line of the Business Summary was inaccurate. It stated that AEF Corporation was formed in 2005; whereas, AEF was incorporated on April 27, 2006.
+[23] AEF has never owned any real property and yet the Business Summary contained the following paragraph:
+At present, AEF has acquired 5 producing properties in the Western Canadian Sedimentary Basin. They are: Provost, Coronation, Lochend, Stanmore and Viewfield. AEF currently has 41 producing oil wells and 4 producing gas wells located on these properties. These wells are producing approximately 350 BOE/day which we plan to optimize and increase production to 525 BOE/d by years end. AEF is in the process of acquiring an additional asset from Flagship Energy. This acquisition will add an additional 5 properties. The additional properties as well as 426 BOE/day. These lands we are prime for our expanded developmental drilling program. There are approximately 20 drilling, recompletion or tie-in opportunities that are supported by over 50 kms of 2D and 3D seismic data. The wells awaiting tie-in, they have seismic lines in place and show a very high probability of success in drilling along these same seismic lines. This is confirmed by referencing the production of the wells on the existing lines as well as existing wells on the properties that are adjacent to these seismic lines.
+[24] In cross-examination, Mr. Djan admitted that AEF did not own any real property and the Provost, Coronation, Lochend, Stanmore and Viewfield properties, referenced in the Business Summary, were actually owned by Troy Bilon.
+[25] The Business Summary contained wording meant to mislead the reader into believing that AEF had a management team and the members of that team were the shareholders of AEF.
+[26] Mr. Djan also testified that there were a number of shareholders of AEF. However, the Certificate of Status from the Alberta Corporate Registration System listed only one shareholder for AEF. It was Scott Kish. He was not listed in the Business Summary as either part of the management team of AEF or the shareholder of AEF.
+[27] When Mr. Djan was questioned about the absence of Scott Kish’s name in the Business Summary, he said that in 2009 he had revised the Business Summary to remove Scott Kish’s name. I find this difficult to believe because it raises many questions which were not answered by the evidence before me. If Mr. Djan had revised the document, why did he leave the date of July 2007 on the cover page? Why did he revise the Business Summary when its purpose was to raise money to purchase the Vanquish Properties? (The opportunity to acquire these properties had passed.) Why would he leave all the names of the alleged management team in the Business Summary, when, according to his evidence, these persons had asked on October 10, 2007 to have their names removed from any involvement with AEF?
+[28] I have no evidence which would lead me to believe that any of the individuals named in the Business Summary were involved in the management of AEF. None was called to testify.
+[29] The Appellant stated that as part of his due diligence he had spoken to Rick Johnson who was identified in the Business Summary as the financial person. The Appellant did not give an account of his conversation with Rick Johnson nor did he call him as a witness.
+[30] Troy Bilon was listed in the Business Summary as the Director of Geology. However, Mr. Djan testified that Troy Bilon would only be joining AEF once it acquired the Vanquish Properties. He stated: “we had an agreement in principle with Troy Bilon and Core Exploration to join our company on the date that we closed the Vanquish asset”.
+[31] The purchase and sale agreement with the Receiver signed by Mr. Djan on September 10, 2007 with the Receiver listed a GST registration number for AEF. I assume this number was given to the Receiver by Mr. Djan. However, the evidence disclosed that AEF was not a GST registrant.
+[32] Counsel for the Respondent asked Mr. Djan if AEF had office supplies. He answered:
+“Stationery, business cards, letterhead, all under the AEF banner, obviously our prospectus, our bulletins, our website, our -- all clearly showing that we are in the business of -- I mean, I can simply say this, when you're asking someone for $50 million, Your Honour, you kind of have to have something behind you more than just, you know, air. You need some of the accoutrements, if you will, that allow you to be legitimate, I guess, in the business, so – ”
+[33] Counsel for the Respondent aptly summarized Mr. Djan’s evidence as follows:
+Mr. Djan seemed to imply that he had all of the -- what does the term he used accoutrements of business and that he had to give potential investors something besides just air. When the reality is, that's what he gave them. I can go tomorrow and create lovely, lovely business cards. I can prepare a business summary. I can do all of those things, that doesn't make me a business, and that's what we don't see here.
+[34] The onus was on the Appellant to produce credible evidence to support his position that AEF was an active business and that he was entitled to a BIL. This he failed to do.
+[35] The appeal is dismissed with costs to the Respondent.
+Signed at Ottawa, Canada, this 16th day of February 2012.
+“V.A. Miller”
+V.A. Miller J.
+CITATION: 2012TCC30
+COURT FILE NO.: 2009-3877(IT)G
+STYLE OF CAUSE: RANDY J. OLLENBERGER AND
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: Calgary, Alberta
+DATE OF HEARING: October 24, 2011
+REASONS FOR JUDGMENT BY: The Honourable Justice Valerie Miller
+DATE OF JUDGMENT: February 16, 2012
+APPEARANCES:
+Counsel for the Appellant:
+Jean-Philippe Couture
+Pat Lindsay
+Counsel for the Respondent:
+Cynthia L. Isenor
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Jean-Philippe Couture
+Pat Lindsay
+Firm: Borden Ladner Gervais
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada

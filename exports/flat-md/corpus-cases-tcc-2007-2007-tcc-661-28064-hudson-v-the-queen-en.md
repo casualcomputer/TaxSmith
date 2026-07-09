@@ -1,0 +1,155 @@
+---
+title: "Hudson v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28064/index.do"
+last_modified: "2007-08-10"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 TCC 661"
+citation2: ""
+neutral_citation: "2007 TCC 661"
+decision_date: "2007-08-10"
+language: "en"
+item_id: "28064"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1584
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T22:51:03.499000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "92608b2cb950d29a2f46e67af00e49fbb9d62ad0e0d962bbb4a87801f3ff155e"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Hudson v. The Queen
+
+- Citation: 2007 TCC 661
+- Decision date: 2007-08-10
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1584, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Hudson v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-08-10
+Neutral citation
+2007 TCC 661
+File numbers
+2006-3339(IT)I
+Judges and Taxing Officers
+Georgette Anne Sheridan
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2006-3339(IT)I
+BETWEEN:
+TOLSON A. HUDSON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on August 10, 2007
+at St. John's, Newfoundland and Labrador
+Before: The Honourable Justice G. A. Sheridan
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Selena Sit
+____________________________________________________________________
+JUDGMENT
+In accordance with the attached Reasons for Judgment, the appeal from the reassessments made under the Income Tax Act for the 2002 and 2003 taxation years is allowed and the reassessments are referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the motor vehicle expenses of $3,598.82 and $3,230.88 incurred by the Appellant in 2002 and 2003, respectively, were amounts expended by him in respect of motor vehicle expenses for travelling in the course of his employment as contemplated by paragraph 8(1)(h.1) of the Act.
+Signed at Ottawa, Canada, this 30th day of October, 2007.
+"G. A. Sheridan"
+Sheridan, J.
+Citation: 2007TCC661
+Date: 20071030
+Docket: 2006-3339(IT)I
+BETWEEN:
+TOLSON A. HUDSON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Sheridan, J.
+[1] The Appellant, Tolson Hudson, is appealing the assessment of the Minister of National Revenue disallowing employment expenses in 2002 and 2003.
+[2] In those years, Mr. Hudson was employed by the Government of Newfoundland and Labrador as an Economic Development Officer in St. John's. The position required him to travel for employment-related purposes and to pay the expenses of such travel. He duly filed a Form T2200, "Declaration of Conditions of Employment", signed on behalf of his employer with his income tax returns.[1] He received from his employer two vehicle allowances, a per kilometer allowance of $0.315 and a fixed allowance. These allowances were included as income for 2002 and 2003 pursuant to subparagraphs 6(1)(b)(vii.1) and (x) of the Income tax Act.
+[3] In 2002, Mr. Hudson incurred total motor vehicle expenses for personal and employment use of $7,486.12; in 2003, of $4,901.20. He claimed motor vehicle employment expense deductions of $3,598.82 and $3,230.88, respectively. He calculated these amounts based on the number of kilometers for which he had received his per kilometer allowance, plus the kilometers from his daily 30‑kilometer drive between his residence and his office (the "commute"). His justification for including the commute kilometers was that the only reason he took the motor vehicle to work was his employer's requirement that he do so. He had alternate and less expensive means of transport of which, but for the employment requirement, he would have availed himself.
+[4] The Minister was not persuaded by this argument and denied the commute-expense portion of his claims on the basis that travelling to and from work was personal use of the motor vehicle. The Minister calculated the allowable motor vehicle expense deduction based only on the number of kilometers for which Mr. Hudson had received a per kilometer allowance. Accordingly, the calculation for 2002 was made as follows:
+Total motor vehicle expenses:
+$7,486.12
+Amount of per kilometer allowance:
+$182.70
+Per kilometer allowance rate:
+$0.315/km
+Total employment kilometers =
+580 km ($182.70/$0.315km)
+Total personal and employment kilometers:
+13,560km
+Percentage employment use of motor vehicle:
+4.28% (580km/13,560km)
+Allowable motor vehicle expense deduction =
+$320.41 (4.28% x $7,486.12)[2]
+[5] In 2003, although entitled to, Mr. Hudson did not claim a per kilometer allowance from his employment; accordingly, the Minister assumed the number of employment-use kilometers to be zero, thereby resulting in a total denial of any motor vehicle expenses for 2003.
+[6] The only question is whether Mr. Hudson's commute was a personal or employment use of his motor vehicle. On the somewhat unusual circumstances of this case, I am persuaded that the commute kilometers ought to be included in the calculation of Mr. Hudson's allowable motor vehicle expense deduction under paragraph 8(1)(h.1):
+SECTION 8: Deductions allowed.
+(1) In computing a taxpayer's income for a taxation year from an office or employment, there may be deducted such of the following amounts as are wholly applicable to that source or such part of the following amounts as may reasonably be regarded as applicable thereto:
+...
+(h.1) Motor vehicle travel expenses – where the taxpayer, in the year,
+(i) was ordinarily required to carry on the duties of the office or employment away from the employer's place of business or in different places, and
+(ii) was required under the contract of employment to pay motor vehicle expenses incurred in the performance of the duties of the office or employment,
+amounts expended by the taxpayer in the year in respect of motor vehicle expenses incurred for travelling in the course of the office or employment, except where the taxpayer
+(iii) received an allowance for motor vehicle expenses that was, because of paragraph 6(1)(b), not included in computing the taxpayer's income fro the year, or
+(iv) claims a deduction for the year under paragraph (f);
+[7] The general rule is that no deductions may be made from income from employment[3]. However, the preamble of subsection 8(1) permits the deduction of amounts that "may reasonably be regarded as applicable" to the various categories which follow. Among these is paragraph 8(1)(h.1) which sets out in considerable detail the criteria to be satisfied for motor vehicle travel expenses. Whether particular expenses may be "reasonably" regarded as applicable to the source listed is a question of fact.
+[8] At the hearing, counsel for the Respondent advised the Court that the Respondent no longer took issue with the adequacy of Mr. Hudson's books and records[4]. There is no dispute that, in principle, Mr. Hudson is entitled to a motor vehicle expense deduction under paragraph 8(1)(h.1); the only issue is the quantum of that deduction. That determination turns on whether Mr. Hudson's use of his vehicle to and from his place of employment was employment‑related or of a personal nature.
+[9] He was required to have his motor vehicle available at the office. The only way that requirement could be satisfied was to drive it there each day; if he left it permanently parked at the office, as counsel for the Respondent rather gamely suggested in argument, he would have been completely deprived of the personal use of his own vehicle, a quite unreasonable expectation to impose on an employee. (And had the employer provided the parking space, he might also have been further taxed for his trouble.) I accept his evidence that, except for the requirement that he have his vehicle at work, he would have relied on the cheaper alternate transportation that was available to him: catching a ride with his son who lived at home, carpooling or taking the bus. Instead, he had to take his car back and forth and was responsible for the expenses incurred in doing so.
+[10] Finally, I agree with his respectful submission that a ruling by this Court in his favour might open the floodgates to similar cases is "not his problem". The Minister's duty is to assess accurately an individual taxpayer's tax liability in accordance with the legislative provisions and the facts of that taxpayer's circumstances.
+[11] On the particular facts of these appeals, I am satisfied that the motor vehicle expenses Mr. Hudson incurred in 2002 and 2003 as a result of his commute were employment-related rather than personal. In respect of the 2003 taxation year, the fact that Mr. Hudson did not claim a per kilometer allowance in 2003 does not diminish the employment-related quality of the motor vehicle expenses claimed for the commute travel in that year. Whether he claimed the per kilometer allowance or not, the fact remains that he was required by his employer to have the car available at the office each day.
+[12] The appeal is allowed and the assessments are referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the motor vehicle expenses of $3,598.82 and $3,230.88 incurred by the Appellant in 2002 and 2003, respectively, were amounts expended by him in respect of motor vehicle expenses for travelling in the course of his employment as contemplated by paragraph 8(1)(h.1) of the Act.
+Signed at Ottawa, Canada, this 30th day of October, 2007.
+"G. A. Sheridan"
+Sheridan, J.
+CITATION: 2007TCC661
+COURT FILE NO.: 2006-3339(IT)I
+STYLE OF CAUSE: TOLSON A. HUDSON AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: St. John's, Newfoundland and Labrador
+DATE OF HEARING: August 10, 2007
+REASONS FOR JUDGMENT BY: The Honourable Justice G. A. Sheridan
+DATE OF JUDGMENT: October 30, 2007
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Selena Sit
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Pursuant to subsection 8(10) of the Income Tax Act.
+[2] Figures taken from the assumptions in paragraph 16 of the Reply to the Notice of Appeal.
+[3] Subsection 8(2) of the Income Tax Act.
+[4] Reply to the Notice of Appeal, paragraph 20.

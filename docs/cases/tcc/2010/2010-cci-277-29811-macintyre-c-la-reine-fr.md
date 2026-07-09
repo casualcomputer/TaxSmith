@@ -1,0 +1,154 @@
+---
+title: "MacIntyre c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29811/index.do"
+last_modified: "2010-05-18"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 CCI 277"
+citation2: ""
+neutral_citation: "2010 CCI 277"
+decision_date: "2010-05-18"
+language: "fr"
+item_id: "29811"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6589
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T12:59:06.327000+00:00"
+cases_cited_count: 2
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "6cdcf656a543480e77862a763a932bfde910868e901691b9dcaed3f9ef10a5a0"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# MacIntyre c. La Reine
+
+- Citation: 2010 CCI 277
+- Decision date: 2010-05-18
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6589, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+MacIntyre c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2010-05-18
+Référence neutre
+2010 CCI 277
+Numéro de dossier
+2009-3612(IT)I
+Juges et Officiers taxateurs
+Patrick J. Boyle
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2009-3612(IT)I
+ENTRE :
+CHRISTINA MACINTYRE,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle]
+____________________________________________________________________
+Appels entendus les 8 et 9 avril 2010, à Toronto (Ontario)
+Devant : L’honorable juge Patrick Boyle
+Comparutions :
+Avocat de l’appelante :
+Me Dion R. McClean
+Avocate de l’intimée :
+Me Roxanne Wong
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’égard de la nouvelle cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2004 de l’appelante est accueilli partiellement, sans dépens, et la question est déférée au ministre du Revenu national pour qu’il procède à un nouvel examen et établisse une nouvelle cotisation conformément aux motifs du jugement ci‑joints.
+L’appel interjeté à l’égard de la nouvelle cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2005 de l’appelante est rejeté, conformément aux motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 18e jour de mai 2010.
+« Patrick Boyle »
+Juge Boyle
+Traduction certifiée conforme
+ce 16e jour de juillet 2010.
+Jean-François Leclerc-Sirois, LL.B, M.A.Trad.Jur.
+Référence : 2010 CCI 277
+Date : 20100518
+Dossier : 2009-3612(IT)I
+ENTRE :
+CHRISTINA MACINTYRE,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle]
+MOTIFS DU JUGEMENT
+Le juge Boyle
+[1] Dans les présents appels relatifs à l’impôt sur le revenu et instruits sous le régime de la procédure informelle, la question principale est de savoir si Mme MacIntyre peut déduire des pertes locatives relativement à son ancienne maison familiale (la « maison »), située à Brampton, qu’elle avait mise en location en 2004 et en 2005.
+[2] La maison en question est une grande maison unifamiliale de brique de deux étages qui comporte cinq chambres à coucher, trois salles de bains et un garage double. La maison est située dans le nord de Brampton, dans un lotissement datant des années 1980. Elle a une superficie de presque 4 000 pieds carrés, en excluant le sous‑sol non fini. Le lot occupé par la maison est l’un des plus chers d’un quartier de maisons appartenant à des propriétaires‑occupants. Mme MacIntyre et son époux d’alors ont acheté la maison neuve en 1984 pour 195 000 $. Ils y ont vécu ensemble avec leur fils jusqu’à leur séparation et leur divorce à la fin des années 1980. Mme MacIntyre et son fils ont continué de vivre dans la maison jusqu’en 1992. Selon l’accord de divorce, c’est Mme MacIntyre qui est restée propriétaire de la maison, mais elle n’a reçu aucune autre contrepartie financière. Mme MacIntyre a toujours été la propriétaire inscrite de la maison. Au début 2004, la maison a été mise en vente pour 535 000 $, mais elle n’a pas été vendue. À la fin 2004, la maison a encore été mise en vente, cette fois pour 565 000 $, mais elle n’a toujours pas été vendue. Aucun élément de preuve ne permet de conclure que la mise en vente de la maison avait suscité de l’intérêt.
+[3] En 1992, Mme MacIntyre a trouvé un locataire pour la maison pour une année. Mme MacIntyre et son fils ont emménagé dans un petit logement locatif à Etobicoke. Après une année, le locataire a déménagé, et Mme MacIntyre est retournée vivre dans la maison pendant une année. Elle a de nouveau loué la maison en 1994, lorsqu’elle a emménagé dans la résidence de son nouvel époux. Ce deuxième locataire est resté pendant deux années, jusqu’en 1996. Le loyer était de 2 200 $ à 2 500 $ par mois. Un troisième locataire a loué la maison pendant la période de trois années allant de 1996 à 1998, pour un loyer de 3 000 $ par mois.
+[4] Mme MacIntyre avait trouvé tous ses locataires en inscrivant sa maison pour la louer sur le Service inter‑agences (le « SIA ») par l’intermédiaire d’un agent immobilier. En 1992, pour louer la maison, Mme MacIntyre avait placé une annonce dans le journal local de Brampton pendant plusieurs mois. Depuis, la seule publicité qu’elle a faite pour louer sa maison a été de l’inscrire en permanence sur le SIA, car cette méthode s’était montrée efficace dans les premiers temps.
+[5] En 2001, Mme MacIntyre a commencé à faire appel à une agente immobilière d’une agence immobilière de Brampton pour mettre la maison en location sur le SIA. C’est à cette même agente que Mme MacIntyre a fait appel pour mettre brièvement la maison en vente deux fois en 2004, et c’est elle qui continue d’être l’agente responsable de la location de la maison. En 2001, elle a aidé Mme MacIntyre à trouver un locataire qui a habité dans la maison pendant une année, pour un loyer de 3 000 $ par mois.
+[6] Après le départ de ce locataire au début 2002, la maison n’a pas été louée avant la deuxième moitié de 2008, plusieurs années après les années en cause et après que l’Agence du revenu du Canada a mené une vérification relativement aux pertes considérables déclarées par Mme MacIntyre. En 2004 et 2005, Mme MacIntyre a déclaré des revenus bruts nuls et des pertes dépassant 25 000 $. En 2007, ces pertes avaient atteint près de 35 000 $. Le quatrième locataire de la maison, qui y a habité pendant un peu plus d’une année de 2008 à 2009, payait un loyer de 3 500 $ par mois. Pour 2008, Mme MacIntyre a déclaré des dépenses de 44 00 $, une somme supérieure au loyer annuel versé à raison de 3 500 $ par mois.
+[7] La nouvelle agente immobilière a témoigné que, depuis qu’elle avait été engagée, lorsque la maison n’était pas louée, elle la mettait en location continuellement sur le SIA. En 2001, l’agente travaillait au bureau local de Brampton, mais, peu après, elle s’est jointe à un bureau situé à l’intersection des rues Bloor et Avenue, à Toronto. Elle est spécialiste du secteur immobilier résidentiel, mais il lui arrive de s’occuper de locations, et elle est capable de mettre des résidences en location sur le SIA. L’agente a expliqué qu’elle transmettait à Mme MacIntyre le nom des personnes qui répondaient à l’annonce placée sur le SIA et que Mme MacIntyre décidait ensuite si elle voulait leur faire visiter la maison. Mme MacIntyre s’occupait elle-même des visites, et l’agente ne faisait plus rien jusqu’à la signature du bail. La maison était seulement visitée deux ou trois fois par année. Les personnes intéressées à louer la maison n’étaient pas beaucoup plus nombreuses, et les choses étaient parfois si calmes que l’agente oubliait l’annonce. L’agente n’a jamais discuté d’autres méthodes de publicité avec Mme MacIntyre, et cette dernière ne lui a jamais posé de questions à ce sujet.
+[8] Les dépenses dont Mme MacIntyre a demandé la déduction incluent des améliorations permanentes, notamment des moulures couronnées, de l’aménagement paysager et une souffleuse à neige. De toute manière, ces dépenses auraient dû être traitées comme des dépenses en capital. Pour 2005, Mme MacIntyre a aussi demandé une déduction d’environ 700 $ pour un aspirateur, et ce, même si tous les planchers de la maison étaient recouverts de bois franc ou de céramique – exception faite du sous‑sol non fini dont le plancher était en béton – et si la maison comportait déjà un aspirateur central. Lorsqu’elle était louée, la maison n’était pas meublée, et, au moment de l’achat de l’aspirateur, elle était vacante depuis environ trois années. Lorsque l’on a insisté sur ce point lors de son contre‑interrogatoire, Mme MacIntyre a renoncé à la déduction relative à l’aspirateur. Les frais de déplacement dont elle avait demandé la déduction équivalaient à trois aller‑retour par semaine entre sa résidence, à Etobicoke, et la maison, située à Brampton. Pour ce qui est des intérêts dont elle avait demandé la déduction, Mme MacIntyre n’a pas su expliquer comment elle les avait répartis entre l’utilisation d’une ligne de crédit pour la maison et son utilisation pour d’autres dépenses personnelles.
+[9] En 1994, Mme MacIntyre a subi une faible perte. De 1995 à 1998, elle a réalisé un bénéfice en louant la maison. En 1999 et en 2000, elle n’a eu aucun revenu. Pendant toutes ces années, ses dépenses annuelles atteignaient en moyenne 15 000 $.
+[10] En 2001, alors que Mme MacIntyre a loué la maison pendant 7 mois pour un loyer mensuel de 3 000 $, ses dépenses annuelles ont bondi à 35 000 $, entraînant ainsi une perte d’à peu près 14 000 $, le même montant que la perte subie l’année précédente, où elle n’avait eu ni revenu ni locataire. Ce doublement des dépenses n’a pas été expliqué. Depuis, les dépenses de Mme MacIntyre sont restées très élevées, dépassant 30 000 $ la plupart des années. En 2008, elles avaient atteint 44 000 $, et Mme MacIntyre ne s’attendait pas à ce que ses dépenses pour 2009 soient vraiment différentes. Par conséquent, depuis 2000, même lorsque la maison a été louée Mme MacIntyre a subi des pertes considérables. De plus, même si elle réussissait à louer la maison au prix demandé toute l’année, elle subirait quand même une perte.
+[11] La première question en litige est de savoir si, aux fins de l’impôt sur le revenu, les activités locatives menées par Mme MacIntyre à l’égard de la maison constituaient une démarche commerciale qui a généré des revenus ou des pertes provenant d’un bien ou d’une entreprise. Il faut répondre à cette question en se fondant sur les indices de commercialité propres à chaque affaire (voir l’arrêt de la Cour suprême du Canada dans Brian J. Stewart c. La Reine, 2002 CSC 46, 2002 DTC 6969). Manifestement, de 1995 à 1998, Mme MacIntyre a réussi à louer la maison en ayant seulement recours au SIA, et ce, pour un loyer supérieur à ses dépenses. Le bail signé en 2001, après une absence de locataire de deux années, produisait un loyer mensuel légèrement supérieur aux dépenses mensuelles, mais Mme MacIntyre a néanmoins subi des pertes pendant chacune de ces années à cause des mois où la maison n’était pas louée.
+[12] Plus précisément, la question est de savoir si, en 2004 et 2005, Mme MacIntyre menait encore ses activités locatives de façon suffisamment commerciale pour qu’elles constituent une source de revenus ou de pertes provenant d’un bien ou d’une entreprise. En 2004, elle avait subi des pertes considérables depuis 5 années consécutives et la maison était vacante depuis près de 2 années. Malgré cela, elle n’a pas modifié sa méthode publicitaire et, pour louer sa maison située dans le nord de Brampton, elle s’est contentée de faire placer une annonce sur le SIA par une agente immobilière du centre‑ville de Toronto spécialiste de vente de résidences. Elle n’a utilisé aucune autre méthode publicitaire et n’a pas cherché à en découvrir de nouvelles. Mme MacIntyre n’a rien fait pour réduire ses dépenses en deçà du seuil antérieur à l’an 2000, la période où ses activités étaient rentables. Elle a refusé de louer la maison à une société internationale d’ingénierie qui voulait y héberger des ingénieurs en affectation de courte durée, et ce, parce qu’elle voulait qu’une famille habite la maison et croyait, sans s’être renseignée, que la société d’ingénierie aurait refusé cette demande.
+[13] Il n’y a aucun doute que Mme MacIntyre est très attachée à la maison. Elle dit encore qu’il s’agit de sa maison, même si elle n’y habite plus depuis 15 années. Elle s’y rend trois fois par semaine et, chaque semaine, elle passe des heures à y faire du jardinage même si elle paye déjà pour des services de jardinage et d’entretien de pelouses. Si Mme MacIntyre conserve la maison pour la louer, c’est seulement parce qu’il s’agit de son ancienne résidence principale. L’attachement qu’elle éprouve pour la maison est surtout personnel, car, si elle a vraiment fait les dépenses dont elle a demandé la déduction, il n’y a aucune raison commerciale de continuer à perdre 30 000 $ par année à l’égard d’un bien de 500 000 $. Compte tenu de l’ensemble des pertes déclarées par Mme MacIntyre, même les gains en capital attribuables à la très forte croissance du marché immobilier dans le sud de l’Ontario et le Grand Toronto pourraient difficilement éponger ses pertes.
+[14] Il semble que Mme MacIntyre voulait seulement être locatrice de la maison, laquelle, pendant dix années, s’était révélée impossible à exploiter de façon rentable. La maison n’avait pas été construite ou achetée pour servir de bien locatif. Elle est située dans un quartier de maisons appartenant à des propriétaires‑occupants. Selon Mme MacIntyre et son agente immobilière, on peut acheter une maison semblable pour moins qu’il n’en coûte pour la louer. Mme MacIntyre n’a jamais songé à vendre la maison pour acheter un bien locatif rentable de valeur égale. Elle n’a jamais changé de méthode publicitaire ou redoublé ses efforts pour trouver des locataires. Elle n’a jamais cherché à modifier la maison pour la rendre plus facile et plus rentable à louer. En 2004, Mme MacIntyre a mis la maison en vente. Elle n’a pas dit qu’elle avait l’intention d’utiliser le produit de cette vente pour acheter un nouveau bien locatif.
+[15] Dans les circonstances, je suis d’avis qu’objectivement, on ne peut pas conclure que Mme MacIntyre menait ses activités locatives de façon commerciale à la fin de 2004. De plus, à la fin de cette année‑là, il était trop tard pour vendre l’actif dans le cours normal de la cessation des activités d’une entreprise commerciale, car la maison, même si elle était belle, grande et relativement chère, n’avait rien de vraiment unique et le marché immobilier local était dynamique. Les activités menées par Mme MacIntyre depuis 2004 ne constituent pas une démarche commerciale, mais plutôt une stratégie visant à réduire au minimum les coûts de détention de la maison jusqu’à ce qu’elle obtienne un prix satisfaisant ou décide de l’utiliser autrement. Je ne sais pas lequel de ces deux objectifs était poursuivi par Mme MacIntyre, car son témoignage a été évasif à certains égards, notamment au sujet de l’aspirateur et de la ligne de crédit.
+[16] L’espoir intarissable et l’optimisme ne sont pas des indices suffisants pour conclure qu’une personne mène une démarche de façon commerciale. Il faut évaluer objectivement la démarche et les objectifs du contribuable à l’aune de considérations commerciales raisonnables.
+[17] Mme MacIntyre est gestionnaire d’un établissement financier. Manifestement, elle est intelligente et a de l’expérience en finances. À mon avis, lorsqu’elle a mis la maison en vente en 2004, elle savait qu’il était impossible de la louer de façon rentable si le loyer et les dépenses restaient les mêmes. Sa décision de cesser d’essayer de vendre la maison, après avoir augmenté le prix demandé, n’a pas été prise pour des considérations commerciales, mais bien en raison de son attachement personnel à la maison et aux jardins, à ses souvenirs et à ses intentions futures à l’égard de la maison.
+[18] L’appel interjeté par Mme MacIntyre relativement à l’année d’imposition 2005 est rejeté. Il reste donc à trancher la question des dépenses faites en 2004. Les déductions demandées pour les frais d’assurance, l’impôt foncier, le jardinier (entretien des pelouses) et les services publics sont accordées. Seulement 500 $ sont accordés au titre des frais de déplacement. Les éléments de preuve présentés ne permettent pas de savoir dans quelle mesure les intérêts relatifs à la ligne de crédit avaient trait à la maison, mais il est clair qu’il existait un lien. Je suis donc prêt à accorder la déduction du quart du montant demandé. Les sommes relatives aux moulures couronnées et les sommes relatives au [traduction] « jardinage et autre » appuyées par des factures (1 906 $) peuvent être déduites, mais elles doivent être traitées comme des dépenses en capital.
+[19] L’appel relatif à l’année d’imposition 2004 est accueilli partiellement, conformément au paragraphe précédent. L’appel relatif à l’année d’imposition 2005 est rejeté.
+Signé à Ottawa, Canada, ce 18e jour de mai 2010.
+« Patrick Boyle »
+Juge Boyle
+Traduction certifiée conforme
+ce 16e jour de juillet 2010.
+Jean-François Leclerc-Sirois, LL.B, M.A.Trad.Jur.
+RÉFÉRENCE :
+2010 CCI 277
+No DU DOSSIER DE LA COUR :
+2009-3612(IT)I
+INTITULÉ :
+Christina MacIntyre c. Sa Majesté la Reine
+LIEU DE L’AUDIENCE :
+Ottawa, Canada
+DATE DE L’AUDIENCE :
+Les 8 et 9 avril 2010
+MOTIFS DU JUGEMENT :
+L’honorable juge Patrick Boyle
+DATE DU JUGEMENT :
+Le 18 mai 2010
+COMPARUTIONS :
+Avocat de l’appelante :
+Me Dion R. McClean
+Avocate de l’intimée :
+Me Roxanne Wong
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Dion R. McClean
+Cabinet :
+Heydary Samuel PC
+Mississauga (Ontario)
+Pour l’intimée :
+Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada

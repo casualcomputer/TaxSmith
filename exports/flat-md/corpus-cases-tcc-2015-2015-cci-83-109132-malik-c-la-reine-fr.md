@@ -1,0 +1,182 @@
+---
+title: "Malik c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/109132/index.do"
+last_modified: "2015-04-15"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2015 CCI 83"
+citation2: ""
+neutral_citation: "2015 CCI 83"
+decision_date: "2015-04-15"
+language: "fr"
+item_id: "109132"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2860
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T16:36:43.544000+00:00"
+cases_cited_count: 2
+cases_citing_count: 3
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "c5218c574dbbdf5195c26dfc2896788ff8cddbf8a1bc0a3daee6e0993e8925ea"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Malik c. La Reine
+
+- Citation: 2015 CCI 83
+- Decision date: 2015-04-15
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2860, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Malik c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2015-04-15
+Référence neutre
+2015 CCI 83
+Numéro de dossier
+2014-2020(GST)I
+Juges et Officiers taxateurs
+David E. Graham
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2014-2020(GST)I
+ENTRE :
+FAISAL MALIK,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 25 mars 2015, à Toronto (Ontario).
+Devant : L’honorable juge David E. Graham
+Comparutions :
+Représentants de l’appelant :
+M. Stephen Ji
+Mme Amy Sujae Lee
+Avocat de l’intimée :
+Me Adam Gotfried
+JUGEMENT
+L’appel interjeté à l’encontre de l’avis de cotisation daté du 4 octobre 2012, établi au titre de la partie IX de la Loi sur la taxe d’accise relativement au remboursement de TPS/TVH pour habitation neuve, est rejeté, sans dépens.
+Signé à Ottawa, Canada, ce 15e jour d’avril 2015.
+« David E. Graham »
+Juge Graham
+Traduction certifiée conforme
+ce 28e jour de mai 2015.
+Maxime Deslippes
+Référence : 2015 CCI 83
+Date : 20150415
+Dossier : 2014-2020(GST)I
+ENTRE :
+FAISAL MALIK,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Graham
+[1] Faisal Malik a signé un contrat d’achat-vente (le « contrat d’achat ») en vue d’acheter une maison située à Ajax, en Ontario. Avant la clôture de la transaction, l’oncle de son épouse, Ziauddin Sheikh, est devenu partie au contrat d’achat, parce que M. Malik avait de la difficulté à obtenir du financement. Lors de la clôture de la transaction, seul M. Sheikh a pris le titre de la maison. M. Malik et sa famille ont emménagé dans la maison. M. Sheikh n’a pas résidé dans la maison. M. Malik a demandé un remboursement de TPS/TVH pour habitation neuve relativement à l’achat de la maison. Le ministre du Revenu national a rejeté la demande de M. Malik. M. Malik a interjeté appel de ce rejet.
+Le contexte législatif [2] Les dispositions législatives relatives aux remboursements pour habitation neuve figurent au paragraphe 254(2) de la Loi sur la taxe d’accise. Ce paragraphe énonce plusieurs critères auxquels il doit être satisfait. Les critères qui sont pertinents au regard du présent appel se trouvent aux alinéas 254(2)a), b) et e). Ces alinéas prévoient que le ministre verse un remboursement dans les cas où :
+a) le constructeur d’un immeuble d’habitation à logement unique […] en effectue, par vente, la fourniture taxable au profit du particulier;
+b) au moment où le particulier devient responsable ou assume une responsabilité aux termes du contrat de vente de l’immeuble […] conclu entre le constructeur et le particulier, celui-ci acquiert l’immeuble […] pour qu’il lui serve de lieu de résidence habituelle ou serve ainsi à son proche;
+[…]
+e) la propriété de l’immeuble […] est transférée au particulier une fois la construction ou les rénovations majeures de ceux-ci achevées en grande partie;
+[3] Le paragraphe 262(3) énonce que, lorsque la fourniture de l’immeuble d’habitation est effectuée au profit de plusieurs particuliers, tous les particuliers au profit desquels la fourniture est effectuée doivent satisfaire aux critères énoncés au paragraphe 254(2).
+Les questions en litige [4] Le présent appel soulève trois questions :
+a) Au profit de qui la fourniture de la maison a-t-elle été effectuée? Si la fourniture a été effectuée uniquement au profit de M. Malik, je passe tout de suite à la troisième question. Si la fourniture a été effectuée au profit de M. Sheikh ou au profit de M. Malik et de M. Sheikh, je dois examiner la deuxième question.
+b) Est-ce que toute fourniture de la maison au profit de M. Sheikh est réputée ne pas avoir eu lieu en vertu de l’article 134? Si la réponse est « oui », je dois examiner la troisième question. Si la réponse est « non », l’appel sera rejeté. La raison en est que M. Sheikh n’a jamais eu l’intention de résider dans la maison et ne peut donc pas satisfaire au critère de l’alinéa 254(2)b).
+c) Est-ce que la « propriété » de la maison a été transférée à M. Malik? Si la fourniture de la maison a été effectuée ou est réputée avoir été effectuée uniquement au profit de M. Malik et que la « propriété » de la maison a été transférée à M. Malik, il sera fait droit à l’appel. Autrement, l’appel sera rejeté, parce que M. Malik n’aura pas satisfait au critère de l’alinéa 254(2)e).
+Au profit de qui la fourniture de la maison a-t-elle été effectuée? [5] Le 5 mars 2010, M. Malik a conclu un contrat d’achat-vente pour acheter une maison d’un promoteur (le « promoteur »). Il a fait un versement initial, mais il a été incapable d’effectuer les versements subséquents lorsque ceux-ci sont devenus exigibles. À cause de ces paiements tardifs, le promoteur a dit à M. Malik que, si celui-ci ne fournissait pas la preuve qu’il pourrait obtenir du financement pour conclure l’achat, il le considérerait en défaut. Chose remarquable, ce n’est qu’à ce stade-là que M. Malik a commencé à chercher du financement.
+[6] M. Malik et son épouse avaient fait des mauvais choix financiers en 2005, choix qui les avaient tous deux amenés à faire une faillite personnelle en 2006. Sans surprise, M. Malik a peu après appris que ces antécédents de crédit rendaient impossible pour lui l’obtention d’un financement bancaire conventionnel. Aucun prêteur conventionnel ne lui prêterait de l’argent à lui seul ni ne prêterait de l’argent moyennant une sûreté grevant l’immeuble si M. Malik allait en être l’unique propriétaire. Pour compliquer encore davantage les choses, le promoteur permettait qu’une autre personne soit ajoutée comme partie au contrat d’achat, mais ne permettait pas que M. Malik en soit retiré.
+[7] M. Malik a cherché de l’aide auprès des membres de sa famille. Il a été incapable d’obtenir de l’aide de sa propre famille. En conséquence, il s’est tourné avec réticence vers la famille de son épouse. L’oncle de son épouse, M. Sheikh, a accepté de l’aider.
+[8] M. Malik et M. Sheikh ont convenu que M. Sheikh financerait l’achat au moyen d’une hypothèque uniquement à son nom et qu’il obtiendrait cette hypothèque en prenant seul le titre de la maison lors de la clôture de la transaction. M. Malik, son épouse et leurs deux enfants vivraient dans la maison. M. Sheikh a réussi à convaincre sa banque de passer outre au fait que M. Malik était partie au contrat d’achat, pourvu que M. Malik ne prenait pas le titre de l’immeuble.
+[9] À cause des préoccupations du promoteur concernant la capacité de M. Malik de conclure la transaction, le promoteur a insisté pour que M. Sheikh soit ajouté comme partie au contrat d’achat. Le 20 janvier 2011, M. Malik, M. Sheikh et le promoteur ont conclu une cession de contrat d’achat-vente (le « contrat de cession »). Aux termes de ce contrat, M. Malik cédait tous ses droits au titre du contrat d’achat à M. Sheikh et à lui-même, et M. Malik et M. Sheikh assumaient conjointement toutes les obligations de M. Malik prévues par le contrat d’achat. Le rôle du promoteur dans le cadre du contrat de cession se limitait essentiellement à consentir à la cession et à confirmer que, si la transaction échouait, le promoteur remettrait les paiements reçus à M. Malik et M. Sheikh conjointement.
+[10] Le contrat d’achat de la maison a été conclu au début de mai 2011[1]. Comme prévu, le titre de la maison a été enregistré au nom de M. Sheikh, et M. Malik et sa famille ont emménagé dans la maison.
+[11] L’intimée soutient que, lorsque M. Sheikh a été ajouté comme partie au contrat d’achat, il est devenu un des particuliers au profit de qui le promoteur a effectué la fourniture de la maison. Elle prétend que lorsque M. Sheikh a conclu le contrat de cession, il est devenu responsable, avec M. Malik, du paiement du prix d’achat au promoteur à la clôture. En vertu du paragraphe 123(1), l’« acquéreur » d’une fourniture est la personne qui est tenue de payer pour la fourniture.
+[12] L’intimée invoque les décisions rendues sous le régime de la procédure informelle dans Davidson c. La Reine[2] et Ho c. La Reine[3]. Dans ces deux décisions, il a été conclu qu’un tiers qui avait été ajouté au contrat d’achat-vente en vue d’aider le contribuable à obtenir du financement avait néanmoins reçu du promoteur une fourniture de l’immeuble. Je ne vois rien dans les faits de ces affaires qui permettraient de les distinguer du cas de M Malik.
+[13] M. Malik invoque la décision rendue sous le régime de la procédure informelle dans Rochefort c. La Reine[4]. Cette affaire mettait en cause un tiers qui avait été ajouté au titre juridique afférent à un immeuble et à l’hypothèque le grevant, dans le but d’aider le contribuable à obtenir du financement. Le juge Campbell Miller a statué que le contribuable avait droit au remboursement pour habitation neuve. Cette décision appuie clairement la position de M. Malik sur la deuxième question en litige dans le présent appel, mais elle n’appuie pas sa thèse quant à la première question en litige. Le juge Miller a noté que l’article 133 énonce que lorsqu’un contribuable conclut une convention ayant pour objet la fourniture d’un bien, la conclusion de la convention est réputée être une fourniture. Puisque le tiers dans l’affaire Rochefort n’est jamais devenu partie au contrat d’achat-vente, le juge Miller a conclu que la fourniture avait été effectuée au profit du contribuable. Par contraste, dans le cas de M. Malik, M. Sheikh est clairement devenu partie au contrat d’achat.
+[14] Compte tenu de ce qui précède, je conclus que la fourniture de la maison a été effectuée au profit de M. Malik et de M. Sheikh. Je dois donc examiner la deuxième question en litige.
+Est-ce que toute fourniture de la maison au profit de M. Sheikh est réputée ne pas avoir eu lieu en vertu de l’article 134? [15] Le passage pertinent de l’article 134 est ainsi rédigé :
+[…] le transfert d’un bien, ou d’un droit y afférent, aux termes d’une convention concernant une dette ou une obligation et visant à garantir le paiement de la dette ou l’exécution de l’obligation est réputé ne pas constituer une fourniture. […]
+[16] Quatre conditions doivent être réunies pour que l’article 134 s’applique :
+(i) les parties doivent conclure une convention;
+(ii) cette convention doit concerner une dette ou une obligation;
+(iii) aux termes de cette convention, une personne doit transférer un bien ou un droit y afférent;
+(iv) le transfert de ce bien ou de ce droit y afférent doit viser à garantir le paiement de la dette ou l’exécution de l’obligation.
+[17] Si ces quatre conditions sont réunies, le transfert du bien est réputé ne pas avoir été une fourniture.
+[18] M. Malik soutient que le promoteur, en concluant le contrat de cession avec M. Sheikh, transférait un intérêt afférent à un bien pour garantir l’exécution des obligations de M. Malik en vertu du contrat d’achat, et, par conséquent, l’article 134 s’applique, de sorte que le transfert de la maison par le promoteur à M. Sheikh est réputé ne pas avoir eu lieu.
+[19] Je ne suis pas d’accord avec cette conclusion. J’examinerai chacun des quatre volets du critère individuellement.
+a) Convention : J’admets que le promoteur et M. Sheikh ont conclu un contrat de cession.
+b) Concernant une obligation : Le terme « concernant » a une très large portée. J’admets que le contrat de cession était une convention concernant les obligations de M. Malik en vertu du contrat d’achat puisqu’il a eu pour effet que M. Malik et M. Sheikh ont assumé ces obligations de M. Malik.
+c) Transfert d’un bien ou d’un droit y afférent aux termes de cette convention : Le troisième volet du critère constitue le cœur de l’article 134. Si un contribuable veut qu’un transfert donné soit réputé ne pas être une fourniture en vertu de l’article 134, ce transfert doit être le transfert visé par le troisième volet du critère. Dans le cas de M. Malik, celui-ci veut que le transfert de la maison par le promoteur à M. Sheikh soit réputé ne pas être une fourniture. Par conséquent, le transfert de la maison par le promoteur à M. Sheikh doit être visé par le troisième volet du critère. Le troisième volet renvoie au transfert effectué aux termes de la convention visée par le premier volet du critère. La convention qui satisfait au premier volet du critère selon M. Malik est le contrat de cession. Par conséquent, pour qu’il soit satisfait au troisième volet du critère, le transfert de la maison par le promoteur à M. Sheikh doit avoir été effectué aux termes du contrat de cession. Malheureusement pour M. Malik, le contrat de cession a transféré le droit de M. Malik d’acheter la maison, et non la maison elle-même, et il a transféré ce droit de M. Malik à lui-même et à M. Sheikh, et non du promoteur à M. Sheikh. Le transfert de la maison par le promoteur à M. Sheikh a été effectué aux termes du contrat d’achat. Par conséquent, M. Malik ne peut pas satisfaire au troisième volet du critère. M. Malik a soutenu que le transfert qui satisfaisait au troisième volet du critère était un prétendu transfert, aux termes du contrat de cession, de droits en vertu du contrat d’achat. Cet argument ne peut être retenu, et ce, pour deux raisons :
+(i) Premièrement, pour que l’article 134 soit d’un secours quelconque à M. Malik, il doit s’appliquer au transfert de la maison, et non au transfert des droits en vertu du contrat d’achat. M. Malik s’est vu refuser le remboursement pour habitation neuve parce que M. Sheikh était l’acquéreur d’une fourniture de droits au titre du contrat d’achat. Je reconnais que, conformément à l’article 133, une fourniture est réputée avoir été effectuée lorsque M. Sheikh est devenu partie au contrat d’achat. Toutefois, il ressort clairement de l’article 133 que la fourniture qui est réputée avoir été effectuée est une fourniture du bien en question, et non une fourniture de droits au titre de la convention[5].
+(ii) Deuxièmement, c’est M. Malik, et non le promoteur, qui a transféré ses droits prévus au contrat d’achat à M. Sheikh. Le promoteur a seulement consenti au transfert. M. Malik avait le droit d’exiger que le promoteur lui vende la maison pour une somme déterminée. M. Sheikh a acquis le droit d’exiger que le promoteur lui vende la maison pour une somme déterminée. Il a seulement pu acquérir ce droit de M. Malik.
+d) Pour garantir l’exécution de l’obligation : Puisque j’ai conclu qu’il n’avait pas été satisfait au troisième volet du critère, il n’est pas nécessaire que j’examine ce quatrième volet. Toutefois, étant donné le nombre de cas semblables qui ont été soumis à la Cour, je pense qu’il vaut la peine de formuler certains commentaires supplémentaires. Pour avoir gain de cause, M. Malik devait démontrer que le promoteur avait transféré la maison à M. Sheikh aux termes d’une convention visant à garantir l’exécution des obligations de M. Malik prévues par le contrat d’achat. Je ne parviens pas à voir comment le transfert de la maison par le promoteur à M. Sheikh pourrait être considéré comme ayant été effectué pour garantir l’exécution de l’obligation de M. Malik d’acheter la maison. Le promoteur a transféré la maison à M. Sheikh parce que M. Sheikh a payé la maison en vertu de son obligation de le faire aux termes du contrat d’achat. Même si je devais conclure que le promoteur a simplement transféré le titre juridique à M. Sheikh en vue de permettre à M. Sheikh de prêter de l’argent à M. Malik pour que ce dernier puisse acheter la maison en exécution de son obligation de le faire, je ne parviens toujours pas à voir comment le transfert du titre légal pourrait être considéré comme ayant été effectué pour garantir l’exécution de l’obligation de M. Malik d’acheter la maison. Ce transfert peut être considéré comme ayant été effectué pour faciliter l’exécution de cette obligation, cela oui, mais non pour la garantir. Les deux choses sont survenues en même temps. Un paiement a été fait en échange du titre. Au moment où le promoteur a transféré le titre, il avait reçu le paiement, et il n’y avait donc plus d’obligation à garantir. Le fait que M. Malik ait pu faire en sorte que le titre de la maison soit enregistré au nom de M. Sheikh en vue de garantir l’obligation de M. Malik envers M. Sheikh de rembourser le prêt hypothécaire n’a rien à voir avec le promoteur. La garantie dans ce cas était donnée par M. Malik à M. Sheikh.
+[20] En somme, M. Malik n’a pas démontré comment l’article 134 pourrait faire que la fourniture de la maison par le promoteur à M. Sheikh soit réputée ne pas être une fourniture taxable. Je conclus donc que le promoteur a fourni la maison à M. Malik et à M. Sheikh. Par conséquent, étant donné que M. Sheikh n’avait pas l’intention de résider dans la maison, M. Malik n’a pas droit à un remboursement pour habitation neuve.
+La « propriété » de la maison a-t-elle été transférée à M. Malik? [21] Le mot « propriété » à l’alinéa 254(2)e) s’entend de la propriété bénéficiaire plutôt que du titre juridique (Rochefort). L’intimée soutient que la propriété bénéficiaire de la maison n’a pas été transférée à M. Malik. M. Malik soutient qu’il était le propriétaire bénéficiaire de la maison.
+[22] Puisque j’ai déjà donné gain de cause à l’intimée, il n’est pas nécessaire que j’examine cette troisième question en litige. Cependant, puisqu’il se peut que M. Malik interjette appel de ma décision, j’estime que je devrais au moins commenter différentes questions de fait pertinentes.
+[23] M. Malik a affirmé dans son témoignage qu’il avait fait les versements sur le prix d’achat de la maison (bien que ce fût en partie au moyen de fonds empruntés à des membres de sa famille autres que M. Sheikh), qu’il avait vécu dans la maison, qu’il avait remboursé le prêt hypothécaire, qu’il avait payé les dépenses afférentes à la maison, qu’il avait décidé quand vendre la maison et qu’il avait conservé le profit tiré de la vente. J’ai conclu que M. Malik était un témoin crédible.
+[24] Les seules présomptions de fait sur lesquelles le ministre s’est appuyé à cet égard sont favorables à M. Malik. Le ministre a présumé que M. Malik avait payé le prix d’achat de la maison[6] et qu’il avait pris possession de la maison[7]. Le ministre n’a formulé aucune présomption de fait concernant le remboursement du prêt hypothécaire, le paiement des dépenses, le choix de vendre la maison ou la distribution du produit de la vente lorsque la maison a été vendue.
+[25] L’intimée me demande de tirer une inférence défavorable du défaut de M. Malik d’appeler M. Sheikh comme témoin. L’intimée soutient également que je ne devrais pas admettre le témoignage de M. Malik, parce que ce dernier a omis de produire de la documentation à l’appui démontrant les remboursements hypothécaires et la distribution du produit de la vente. Je ne suis pas disposé à faire ni l’une ni l’autre de ces choses. L’argument de l’intimée concernant l’alinéa 254(2)e) n’a pas été soulevé expressément dans la réponse et n’est pas étayé par les présomptions de fait du ministre. On ne peut pas s’attendre à ce que M. Malik présente des éléments de preuve ou appelle des témoins pour réfuter un argument non anticipé. Il aurait été utile d’entendre le témoignage de M. Sheikh, mais je ne suis pas prêt à tirer une inférence défavorable du défaut de l’appeler.
+Conclusion [26] Compte tenu de tout ce qui précède, l’appel est rejeté.
+Signé à Ottawa, Canada, ce 15e jour d’avril 2015.
+David E. Graham
+Juge Graham
+Traduction certifiée conforme
+ce 28e jour de mai 2015.
+Maxime Deslippes
+RÉFÉRENCE :
+2015 CCI 83
+NO DE DOSSIER DE LA COUR :
+2014-2020(GST)I
+INTITULÉ :
+FAISAL MALIK ET SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+Le 25 mars 2015
+MOTIFS DU JUGEMENT PAR :
+L’honorable juge David E. Graham
+DATE DU JUGEMENT :
+Le 15 avril 2015
+COMPARUTIONS :
+Représentants de l’appelant :
+M. Stephen Ji
+Mme Amy Sujae Lee
+Avocat de l’intimée :
+Me Adam Gotfried
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Je ne dispose d’aucune preuve de la date de clôture. Le ministre a formulé comme présomption de fait que l’entrée en possession avait eu lieu le 6 mai 2011. M. Malik n’a pas contesté cette présomption. J’en infère que la clôture a dû avoir lieu le 6 mai 2011 ou peu de temps auparavant.
+[2] 2002 CarswellNat 479.
+[3] 2015 CCI 10.
+[4] 2014 CCI 34.
+[5] L’article 133 énonce « […] la fourniture objet d’une convention est réputée effectuée à la date de conclusion de la convention. La livraison du bien ou la prestation du service aux termes de la convention est réputée faire partie de la fourniture et ne pas constituer une fourniture distincte. » [Non souligné dans l’original.]
+[6] Réponse, alinéa 8b).
+[7] Réponse, alinéa 8d).

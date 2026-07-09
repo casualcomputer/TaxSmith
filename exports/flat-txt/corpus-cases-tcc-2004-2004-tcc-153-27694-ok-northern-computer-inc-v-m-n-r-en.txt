@@ -1,0 +1,152 @@
+Title: OK Northern Computer Inc. v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27694/index.do
+Corpus path: corpus/cases/tcc/2004/2004-tcc-153-27694-ok-northern-computer-inc-v-m-n-r-en.md
+Document type: case_law
+Last modified: 2004-02-18
+
+# OK Northern Computer Inc. v. M.N.R.
+
+- Citation: 2004 TCC 153
+- Decision date: 2004-02-18
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 513, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+OK Northern Computer Inc. v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-02-18
+Neutral citation
+2004 TCC 153
+File numbers
+2003-3908(EI)
+Judges and Taxing Officers
+David W. Beaubier
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2003-3908(EI)
+BETWEEN:
+OK NORTHERN COMPUTER INC.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard together with the appeal of OK Northern Computer Inc.
+(2003-3909(CPP) on February 10, 2004 at Kelowna, British Columbia
+By: The Honourable Justice D.W. Beaubier
+Appearances:
+Agent for the Appellant:
+Jim Condon
+Counsel for the Respondent:
+Gavin Laird
+____________________________________________________________________
+JUDGMENT
+The appeal is allowed and the decision of the Minister of National Revenue is vacated. The Appellant is awarded the costs permitted under the Employment Insurance Act.
+Signed at Saskatoon, Saskatchewan this 18th day of February, 2004.
+"D.W. Beaubier"
+Beaubier, J.
+Docket: 2003-3909(CPP)
+BETWEEN:
+OK NORTHERN COMPUTER INC.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard together with the appeal of OK Northern Computer Inc.
+(2003-3908(EI) on February 10, 2004 at Kelowna, British Columbia
+By: The Honourable Justice D.W. Beaubier
+Appearances:
+Agent for the Appellant:
+Jim Condon
+Counsel for the Respondent:
+Gavin Laird
+____________________________________________________________________
+JUDGMENT
+The appeal is allowed and the decision of the Minister of National Revenue is vacated.
+Signed at Saskatoon, Saskatchewan this 18th day of February, 2004.
+"D.W. Beaubier"
+Beaubier, J.
+Citation: 2004TCC153
+Date: 20040218
+Docket: 2003-3908(EI)
+2003-3909(CPP)
+BETWEEN:
+OK NORTHERN COMPUTER INC.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGMENT
+Beaubier, J.
+[1] These appeals were heard together on common evidence at Kelowna, British Columbia on February 10, 2004. James L. Condon, manager of the Appellant, testified. The Respondent called the alleged employee, Kerry Slater.
+[2] Paragraphs 6 to 9 inclusive of the Reply to the Notice of Appeal in 2003-3908(EI) outlines the matters in dispute. They read:
+6. The Rulings division of the Canada Customs and Revenue Agency received a request from Human Resources Development Canada for a determination as to whether Kerry Slater (the "worker") was employed by the Appellant in insurable employment. The Rulings division issued a decision dated July 15, 2003 that the Worker was employed by the Appellant for the period from September 8, 2002 to January 25, 2003 (the "Period") under a contract of service within the meaning of paragraph 5(1)(a) of the Employment Insurance Act, S.C. 1996, c. 23 (the "EI Act").
+7. The Appellant filed an appeal on July 30, 2003 pursuant to section 91 of the EI Act on the basis that the Worker was not employed in insurable employment.
+8. The Respondent decided that the Appellant employed the Worker under a contract of service during the Period within the meaning of paragraph 5(1)(a) of the EI Act and so notified the Appellant by letter dated October 10, 2003.
+9. In making her decision the Respondent relied on the following assumptions of fact:
+a) the Appellant operated a computer sales and computer training business during the Period;
+b) the Appellant hired the Worker to teach computer training courses;
+c) the Appellant provided the computers, the course material, the training manuals and the computer lab space in which the training courses took place;
+d) the Appellant was responsible for all the business operating expenses;
+e) the Appellant set the times and dates that each training session was run;
+f) the Appellant solicited the students for its training sessions;
+g) the Appellant set the cost of each course and collected the fees from the students;
+h) the Appellant suffered the loss if a student did not pay the course fees;
+i) the Appellant was responsible for resolving any of the student concerns or complaints with respect to the training courses;
+j) the Appellant established the Worker's rate of pay at $25.00 per hour;
+k) the Appellant paid the Worker for hours worked;
+l) the Worker could only send a replacement to teach the course with the Appellant's approval;
+m) the Appellant would pay the replacement teacher;
+n) the Appellant supervised the Worker;
+o) the Worker did not have any chance for profit as she was paid a set hourly rate; and
+p) the Worker did not incur any expenses in the performance of her duties;
+B. THE STATUTORY PROVISIONS UPON WHICH THE RESPONDENT RELIES AND THE REASONS WHICH SHE INTENDS TO SUBMIT
+9. She relies on paragraph 5(1)(a) and subsection 2(1) and section 91 of the EI Act, as amended.
+[3] Assumptions 9(a), (e), (f), (g), (h), (i), (j), (l) and (m) were not refuted.
+[4] With respect to the remaining assumptions in paragraph 9, the Court finds:
+(b) The Appellant contracted with the worker to lecture one computer training course and only paid for lecture hours. All preparation and expenses for preparation, except for certain course materials, were the responsibility of Ms. Slater. The Appellant also instructed Ms. Slater to prepare a new course, which Ms. Slater did on her own time and at her own expense. However, the Appellant never instituted that course and never paid her anything for her work, preparation or expenses. All of this occurred pursuant to their contract.
+(c) Is correct so far as it applies within the Appellant's business premises. However anything outside of the premises, or outside of actual course materials which the Appellant provided, was Ms. Slater's responsibility.
+(d) Is not true. See (b) and (c).
+(k) Is not true. The evidence is that the Appellant did a great deal of work outside of the teaching hours in-house. She was not paid for time spent outside of the Appellant's in-house teaching hours.
+(n) The Appellant did not supervise Ms. Slater or other teachers. It relied on student complaints. If there were enough complaints, a teacher might be required to redo the course or the student would be given another course at a reduced cost. Any extra teaching time that the teacher had to do on the course was done without any extra pay from the Appellant.
+(o) and (p) are wrong. Ms. Slater could lose on her preparation time spent, any materials she had to purchase for the course she gave and if she had to teach for extra hours over those set by the Appellant. In fact Ms. Slater was in the service business, just like a lawyer or a doctor on a locum for a fixed fee.
+[5] In Wiebe Door Services Ltd. v. M.N.R., 87 DTC 5025 a series of subjects was outlined as a basis for the test: "Whose business is it?" In this case Ms. Slater controlled the preparation and delivery of her lectures; no one invigilated or evaluated her except the students. The Appellant controlled the premises and certain fixed hours of lecturing, but Ms. Slater might have to give extra lectures or stay over before or after lectures on her own time. The tools in the premises were the Appellant's; any used outside the Appellant's premises or any other premises used to prepare lectures were at the Ms. Slater's expense. Each had a chance of profit or risk of loss although it was minimal for each: if not enough students subscribed for a course to make it profitable, the Appellant wouldn't hold the course, but then the premises might be vacant; if it was too much work Ms. Slater needn't teach it, and if it proved to be too onerous or the students were too slow or demanding, Ms. Slater would waste unpaid time that she could have sold elsewhere. Each had a chance of profit or risk of loss; for both time is money. No one was integrated into the other's business; each could and did do without the other, and continued in business or work. Ms. Slater did the same kind of work in the same period for another Kelowna firm, Power Concepts. The Appellant had other teachers on the same basis as Ms. Slater.
+[6] These parties each had their own businesses. They were symbiotic to each other. Ms. Slater was an itinerant purveyor teaching computer courses who could even have taught or coached students on her own. The Appellant was essentially a broker with premises and put the students and teachers together in various courses if enough students subscribed for a course.
+[7] Ms. Slater was in business for herself. The appeals are allowed. The Appellant is awarded the costs permitted under the Employment Insurance Act.
+Signed at Saskatoon, Canada this 18th day of February, 2004.
+"D.W. Beaubier"
+Beaubier, J.
+CITATION:
+2004TCC153
+COURT FILE NO.:
+2003-3908(EI) and 2003-3909(CPP)
+STYLE OF CAUSE:
+OK Northern Computer Inc. v. The Minister of National Revenue
+PLACE OF HEARING:
+Kelowna, British Columbia
+DATE OF HEARING:
+February 10, 2004
+REASONS FOR JUDGMENT BY:
+The Honourable D.W. Beaubier
+DATE OF JUDGMENT:
+February 18, 2004
+APPEARANCES:
+Counsel for the Appellant:
+Counsel for the Respondent:
+Gavin Laird
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

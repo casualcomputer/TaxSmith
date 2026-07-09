@@ -1,0 +1,242 @@
+---
+title: "Sunatori v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29877/index.do"
+last_modified: "2010-06-25"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 TCC 346"
+citation2: ""
+neutral_citation: "2010 TCC 346"
+decision_date: "2010-06-25"
+language: "en"
+item_id: "29877"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6406
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T02:12:59.801000+00:00"
+cases_cited_count: 0
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "7ebbcf809de887d804b82d9e1e56cacf9d03abbbe8113015e2ef16bb4979a648"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Sunatori v. The Queen
+
+- Citation: 2010 TCC 346
+- Decision date: 2010-06-25
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6406, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Sunatori v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-06-25
+Neutral citation
+2010 TCC 346
+File numbers
+2009-1638(IT)I
+Judges and Taxing Officers
+Joe E. Hershfield
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2009-1638(IT)I
+BETWEEN:
+GO SIMON SUNATORI,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on April 7, 2010 at Ottawa, Canada
+Before: The Honourable Justice J.E. Hershfield
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Jack Warren
+____________________________________________________________________
+JUDGMENT
+The appeals from the reassessments made under the Income Tax Act for the 2004, 2005, 2006 and 2007 taxation years are dismissed, without costs, in accordance with and for the attached Reasons for Judgment.
+Signed at Ottawa, Canada this 25th day of June 2010.
+"J.E. Hershfield"
+Hershfield J.
+Citation: 2010 TCC 346
+Date: 20100625
+Docket: 2009-1638(IT)I
+BETWEEN:
+GO SIMON SUNATORI,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Hershfield J.
+Issue
+[1] The Appellant claimed Allowable Business Investment Loss (“ABIL”) deductions against his employment income[1] in each of 2004, 2005, 2006 and 2007 taxation years as follows:
+(a) For 2004, $21,831;[2]
+(b) For 2005, $23,000;
+(c) For 2006, $24,000; and
+(d) For 2007, $25,000.
+[2] The deductions claimed were in respect of debts owed to the Appellant by HyperInfo Canada Inc. (the “company”).
+[3] The Minister of National Revenue (the “Minister”) reassessed the taxpayer’s taxation years 2004 through 2007 and disallowed the ABIL deductions claimed. The Appellant appeals the reassessments on the basis that he meets the statutory requirements for taking such deductions.
+[4] The relevant provisions of the Income Tax Act (the “Act”) read as follows:
+38(c) [allowable business investment loss] -- a taxpayer's allowable business investment loss for a taxation year from the disposition of any property is 1/2 of the taxpayer's business investment loss for the year from the disposition of that property.
+39(1) Meaning of capital gain and capital loss [and business investment loss] -- For the purposes of this Act,
+[…]
+(c) a taxpayer's business investment loss for a taxation year from the disposition of any property is the amount, if any, by which the taxpayer's capital loss for the year from a disposition after 1977
+(i) to which subsection 50(1) applies, or
+[…]
+50(1) Debts established to be bad debts and shares of bankrupt corporation -For the purposes of this subdivision, where
+(a) a debt owing to a taxpayer at the end of a taxation year (other than a debt owing to the taxpayer in respect of the disposition of personal-use property) is established by the taxpayer to have become a bad debt in the year, or
+[…]
+and the taxpayer elects in the taxpayer's return of income for the year to have this subsection apply in respect of the debt ---, the taxpayer shall be deemed to have disposed of the debt ---, at the end of the year for proceeds equal to nil and to have reacquired it immediately after the end of the year at a cost equal to nil.
+[5] The only issue in these appeals is whether the requirement in paragraph 50(1)(a), that the taxpayer established that the subject debts owing at the end of a particular year had become bad in that year, has been satisfied.
+Facts
+[6] The Appellant was the sole shareholder and employee of the company at all relevant times.
+[7] The company is a research and development company actively engaged in scientific research and experimental development (“SR&ED”). Incorporated in 1989 with a view to developing software for internet information access, the company was relatively inactive until 1995 when it began ramping-up to full scale SR&ED by 2000. It was during these ramping-up years that the Appellant began working full time for the company.
+[8] The Appellant has been a professional engineer since 1984, entitled to practice as such by the Association of Professional Engineers of Ontario.
+[9] The company has had little success in commercially exploiting any intellectual property developed in pursuit of its initial business plan. One hopeful SR&ED project aimed at allowing access to portions of textual material (as opposed to having to acquire an entire publication) did reach a stage of commercial salability but revenues were nominal. Projects involving three-dimensional imaging and other projects incorporating the Appellant’s electrical engineering background were not commercially successful.
+[10] By 2000, the main focus of the company changed from the internet highway, as the Appellant referred to it, to product development and retail sales. At this point, it might be helpful to note two things:
+- Exhibit A-2 lists over 70 patents granted or pending that led to six product development projects and several internet service projects; and
+- Exhibits A-7 and A-10 show that the company’s research and development work was being closely audited by the Canada Customs and Revenue Agency (now the Canada Revenue Agency commonly referred to as the “CRA”). There is no doubt the work of the company was regarded as fully qualifying for SR&ED credits and for related investment tax credits under the Act. More particularly 85-100% of the salaries paid to the Appellant by the company were recognized as relating to qualifying research.[3]
+[11] The company paid the Appellant a salary on December 31 of each of the subject years as follows:
+i) $44,000 for 2004;
+ii) $46,000 for 2005;
+iii) $48,000 for 2006; and
+iv) $50,000 for 2007.
+[12] The method of payment of the salaries was by delivery of a cheque to the Appellant on December 31 of each of the subject years. On the same day, the Appellant gave the company a cheque for the same amount as a loan. Neither cheque was ever presented for payment but the Appellant believes the end result is that the salary was paid and the loan back was effected. The asserted remaining payable is essentially a bookkeeping entry of the indebtedness of the company for this loan the Appellant made to the company. On the same day as these cheques were delivered, a determination was also made by the Appellant, in his personal capacity as a creditor, that the loan to the company was a bad debt.
+[13] The Appellant elected in his returns for each of the subject years to have subsection 50(1) of the Act apply in respect of the debt created at the end of that year as required under that subsection.
+[14] The Appellant testified that he included the salary amounts in his income as amounts received in the year.[4] The CRA accepted the salaries as paid, or at least as incurred, for SR&ED purposes and refundable investment tax credits were paid to the company on that basis. The Appellant also testified that Employment Insurance withholdings and remittances were covered by the company as were Canada Pension Plan contributions. Respondent’s counsel did not take issue with these assertions.
+[15] Returning to the business of the company, the Appellant’s testimony was that it had scant financial resources and essentially no income to speak of, in spite of his diligent and earnest pursuits on the company’s behalf. His suggestion is that earning refundable credits on his salaries has been a primary method of financing the business. Indeed, according to the Appellant such financing was encouraged by the CRA itself. The Appellant understood that the manner in which he effected salary payments and loans back would give rise to two avenues of tax planning (refundable tax credits and ABILs). He understood that they were both legislative incentives aimed at encouraging and financially assisting SR&ED.
+[16] Turning now to the Appellant’s determination of the loans being bad, it is clear that he relied on the nominal revenues of the company to evidence that the company was insolvent and had no money to repay the loans. However, it should be noted that although revenues from the products and intellectual property developed by the company were nominal, the point of commercial exploitation potential had been reached in a few instances. One product ready for commercial sales in the latter part of 2005 for example was an auto-retracting ballpoint pen.[5] Indeed, this item was advertised in the summer of 2006 on a television infomercial at a cost to the company of some $35,000. The Appellant suggested that his hopes for this product were for profits in the millions. In anticipation of such success, he took delivery of 10,000 units manufactured in China for the company.
+[17] Other products available for retail sale are a bird feeder and a spice rack.[6] These products, like the pen, are available online at the company’s website and through EBay and Amazon.com.
+[18] However, to put matters in perspective, gross receipts from all product and software sales in the subject years were:[7]
+(a) 2004 - $370,
+(b) 2005 - $4,117,
+(c) 2006 - $1,564, and
+(d) 2007 - $900.
+[19] Clearly then, it cannot be disputed that the company had no revenues to fund repayment of the loans at the time they were advanced which is the time the Appellant made the bad debt determinations.
+Appellant’s Argument
+[20] The Appellant’s position is straightforward. He said he reasonably determined at the end of each year that the loan made in that year, arising from salaries that the company could not afford to pay other than in the manner he employed, was a bad debt of the company.
+[21] He saw no reason why he should be denied the ABIL deduction simply because he knew at the time he made the advances that they could not be paid back at that time or anytime soon thereafter. The salary payments that permitted access to the tax credits were bona fide as were the loans that gave rise to the ABIL. These were both there, in the Act, as a legislative incentive for the company to carry on its SR&ED. The tax cost to him personally of his company deriving such incentive financing would undermine the entire incentive scheme if it were not for the ABIL deduction. If and when the loan could be repaid, the entire receipt amount would be a capital gain. The net result was a tax deferral aimed at permitting the financial incentives his company was receiving.
+Respondent’s Argument
+[22] The Respondent’s position is similarly straightforward. The Respondent suggests that the Appellant’s enthusiasm and admitted expectation of earning profits throughout the years in question, both of which continue to this day, is inconsistent with his determination that the debts owed to him were bad. Logically, it is not credible to make a loan because you believe in a company’s viability and profitability, and at the very same point in time, say there is no chance of repayment.
+[23] The Respondent suggests that there is no basis to think that the ABIL deduction is there to assist the company’s generation of qualifying SR&ED expenditures. However, if that was the reason for the Appellant declaring the advances as bad, how can he be said to have personally considered at that time the relevant factors required to be considered in making an honest and reasonable determination as whether the debt was bad?
+[24] As authority for arguing that the Appellant cannot assert that a company is unable to repay loans at the end of a year when he was still lending it money, reliance is placed on Giahinejad v. Her Majesty the Queen.[8] At paragraph 8 of that case, Justice Mogan makes that very finding:
+[8] Referring to the Appellant not being able to recover the loans in 1997, on the evidence before me, I could not possibly find that these debts owing to the Appellant by the numbered company were bad debts at any time in 1997. Even on December 1, 1997, the Appellant issued a cheque to the company for $1,830 which cheque was deposited on December 4; and then again on December 28, she issued an even bigger cheque for $2,975, which was deposited on December 29, 1997. She was still investing money in this company in the last month of the year and, indeed, in the last three or four days of the year. I cannot find, therefore, that the company was insolvent or unable to pay her loans when she was still lending money at the end of the year. On that basis alone, the Appellant's appeal cannot succeed.
+[25] The Respondent also cites several authorities for the proposition that a taxpayer must seriously and carefully examine the position of the debtor’s business and its financial condition and honestly and reasonably determine that a debt is bad in a pragmatic and businesslike manner.[9] Essentially, what the Respondent is suggesting is that the determination in this case that the debts were uncollectible was tainted because they were created without concern for their collection given that their sole purpose was to generate corporate financing from another source. That, in turn, carries with it an implicit suggestion that I should not regard the loan as bona fide.
+Analysis
+[26] I see several problems in this appeal. For one, I am left somewhat dumbfounded by a bizarre scenario that has, ultimately at least, caused me to concede that the Appellant has succeeded in creating a reality out of transactions that never actually happened except in an obtuse legal sense. Before dealing with this notable feat and other issues arising in these appeals, there are three non-issues that need to be addressed.
+[27] The first non-issue is that the purpose of the ABIL deduction is not to help finance SR&ED expenditures as suggested by the Appellant.
+[28] ABIL deductions are in the Act as an incentive for investors to invest in small business companies in Canada. That does not suggest that they are there as a means of generating additional government financing for a small business company’s SR&ED expenditures. Nothing in the Act suggests that at all. More generally, the deduction is there to allow investors better recognition and utilization of near certain economic losses at a time when that determination has been reasonably made. The benefit to the company is the financing received before such determination. Further benefits to the company, generated by the use of the money, do indirectly factor into the investment benefit to the investor but that is not a sufficient link to suggest that the construction and application of the ABIL deduction provisions should be more or less strictly construed or applied depending on the use of the funds by the company.
+[29] Still, the Appellant is entitled to arrange his affairs and structure his transactions so as to enjoy tax benefits afforded by the express language of the Act whether the Act contemplated such benefits or not.[10]
+[30] The second non-issue relates to counsel for the Respondent having referred to the non-arm’s length relationship between the Appellant and the company. A taxpayer’s entitlement to an ABIL will not be lost due to the non-arm’s length relationship of the parties where the requirements of section 50 are met. Only if those requirements are not met will an ABIL be restricted to arm’s length parties who meet the other requirements of subparagraphs 39(1)(c)(iii) to (viii) of the Act which defines a business investment loss.
+[31] The last non-issue is whether the absence of interest payable on the loans disqualifies them as not having been made to gain or produce income.[11] The Respondent accepts that this requirement has been met even if there is no interest payable on the loans. The acceptance seems to be based on the idea that the monies were advanced to assist the company in its pursuit of profit. As the sole shareholder of the company, there is a sufficient link or nexus that exists between the taxpayer as lender and the dividend income potential that might flow from the company. There is ample authority for this position in cases such as Byram v. R.[12] Accepting that the loan was advanced to assist the company in its pursuit of profit follows from accepting of the view that an un-cashed cheque has income earning potential when delivered to the company. While I accept that this was what the parties must have intended and acknowledge that my analysis will recognize such intentions, it is not necessary for me to go so far as to express agreement with the Respondent regarding the failure of the loans to bear interest. There are other considerations that will result in the Appellant losing his appeals in any event.
+[32] That takes me to consider the troublesome issues raised by this case. I will deal with them under separate headings.
+Are the Loans Bona Fide?
+[33] In answering this question a distinction need be made between findings of fact and determinations of law. There are a number of different findings of fact that I have considered, each giving rise to different tax consequences.[13] Of the different possible findings of fact noted in footnote 13, Scenario 3 seems to be only one that I can accept on the evidence before me.
+Scenario 3: The instrument delivered to the Appellant as his wage for the year was acknowledged by the Appellant as “payment”. There was a reciprocal acknowledgement by the company that the instrument the Appellant gave to the company was an asset with value that was to be treated as a loan. This has the same result as would occur had the cheques been cashed except the payments are in-kind. It is the result intended by the parties.
+[34] On the salary side of this scenario, the instruments given to the Appellant in the form of a negotiable instrument (the “in-kind salary instruments”) were accepted by the Appellant as payment for his services performed that year. He did not intend to volunteer his services which he valued at the amounts reflected by the face amounts of the in-kind salary instruments he received. That value was accepted by the CRA for SR&ED purposes. Each year those in-kind salary instruments were treated as effectively realized (paid) in consideration of the company acknowledging an equivalent realization (receipt) of an advance by the Appellant to the company. That is, on the loan side of this scenario, the negotiable instruments given to the company by the Appellant were regarded as in-kind payments given with the intent that they be treated as having value and that they be regarded as enforceable loans. There is no reason to believe that the cheques delivered to the company by the Appellant had no value. In the absence of evidence to the contrary, I can only presume that they would be honoured. That finding of fact dictates a finding at law that they were bona fide loans.
+[35] The problem remains however that we have conflicting evidence of the value of the various instruments exchanged. That the value of the in-kind salary instruments were accepted by the parties, including the CRA, to be their face amounts is clear even though they were not presented for payment. There is no evidence contradicting the Appellant’s evidence that T4s were issued in such amounts, that the Appellant reported such amounts in his income, that the required statutory withholdings were accounted for on the basis that such amounts were paid and the CRA accepted such amounts as the salaries for SR&ED purposes. The conflicting evidence then relates to the value of the loans.
+[36] It is hard, faced with these facts, which I must accept as proven, to find that the in-kind loan instruments in question had no value at the time of their delivery. I have already said that they did have value which confirmed the finding that the loans were bona fide. The Appellant can only succeed in the within appeals then if I accept that his conflicting evidence that the loans had no value from the outset overrides that which I accept as proven. That I cannot do, not only because it flies in the face of accepted evidence but because I do not accept that the loan instruments here had no value at the time of their delivery. To the contrary, I accept that they had value and that the Appellant is misguided in arguing that they had none. He based his argument on the earnings of the company and on an asserted insolvency at a moment in time. He has neither proven the insolvency nor convinced me of its relevance in the context of these appeals.
+Has the Appellant Proven the Insolvency of the Company at the End of Each of the Subject Years?
+[37] I only have the Appellant’s testimony, supported by evidence of nominal revenues, that the loans could not be repaid. While I accept that oral testimony as to what is readily apparent might be sufficient in some cases, I am not satisfied in this case as to what exactly is readily apparent.
+[38] The Appellant has not explained, for example, where money came from to pay for some expenses that were obviously considerable. The company bought and paid for the delivery of 10,000 packaged auto-retractable pens and paid $35,000 for an infomercial. What would a balance sheet show? I am concerned that at least by the end of 2005, it might be reasonable to assume that the company had access to funds to repay the loans or to at least erode the impression that the determination that the loans were bad was made in accordance with requirements of section 50.[14] Even presenting the un-cashed loan cheques for payment would help considering that they had value.
+[39] The burden of proof is on the Appellant to clear up such questions. Financial statements or financing documents, or other evidence of the financial standing of the company, other than revenues, needed to be considered in making the required determination. The evidence confirms that the repayment of the loans was not considered, let alone analyzed, in this way. The Appellant relied on advice that there was no need to actually fund salaries in order to generate SR&ED and related investment tax credits, so there was no need for the Appellant to consider the payment possibilities in the normal, required, way. That is, it is apparent to me that he did not even address his mind to present or future collection possibilities. He was focused only on his tax plan.
+[40] All said then, I cannot find the Appellant’s determination of the subject debts being bad as having been made as required to be made under section 50 of the Act.
+The Relevance of Insolvency at a Moment in Time
+[41] Even if I was satisfied that the company was insolvent at the end of each year in question, that alone would not meet the requirements of subsection 50(1). The relevance of solvency at a moment in time will depend in part, at least, on the term of the loan and in this case that gives rise to a problem for the Appellant.
+[42] The Appellant has not established the term of the loans. Indeed, none was specified.
+[43] That the loan transactions did not have a specified term suggests two possible legal consequences. Firstly, the general absence of contractual terms that govern the loans, including the term of the loans, suggests that there is no enforceable contract.[15] However, this is not a case that warrants such a finding. As I have said, I accept the loans in this case as being bona fide loans made with the intention to be legally enforceable. The second consequence is that a court could impose terms as the circumstances require.
+[44] The uncertainty of the term of the loan, in this case, can only be resolved at a particular time considering what the intentions of the parties would be in the circumstances existent at that time. That is, the legal justification for determining whether a loan is due at a particular time would require a finding of what the intentions of the parties would be at that time.
+[45] This, at least, is the most likely way the problem in this case would be dealt with. The principles to imply a term have been set in Canadian Pacific Hotels Ltd. v. Bank of Montreal,[16] and M.J.B. Entreprises Ltd. v. Defence Construction (1951) Ltd.[17] Based on these two cases, the three ways to imply a term into a contract are:[18] “based on custom or usage; as a legal incident of a particular kind of contract; or based on the presumed intention of the parties where the implied term must be necessary to give business efficacy to a contract or as otherwise meeting the officious bystander test as a term which the parties would say, if questioned, that they had obviously assumed”.[19]
+[46] Cleary, the business efficiency test and officious bystander test both dictate a finding that the loans in question would not be due and payable immediately but would be payable, presumably on demand, once the intended and relied upon indulgence of the creditor could no longer be reasonably expected by the debtor. The continued pattern of indulgent loans might well suspend such a contingent payable date for some time but as vague as that may sound, it is sufficient in my view to find that payment could not have been enforced on the day it was advanced. If collection of the subject debts was not a legally enforceable option for the creditor on December 31 of each of the subject years, then unless there is an accelerating event such as a financial crisis or repudiation of the debt, the only way the debts could be found bad is if it was reasonable to conclude on such dates that future prospects of being repaid were not more than a faint hope.
+[47] This is how a debt not yet due would have to be “proved” to be bad.
+[48] This part of the analysis raises a question that requires some clarification. There are authorities that suggest that future repayment considerations are not relevant in determining a debt is bad at a particular time.
+[49] While I find any such suggestion as being limited to the facts of those cases, I will make mention of one that some would argue expressly states that the normal rule is that the due date is not a relevant factor.
+[50] In Rich v. Canada,[20] Rothstein J.A. then of the Federal Court of Appeal, speaking for the majority, enumerated factors to be considered that not only did not include future prospects but expressly de-emphasized them:
+[13] I would summarize factors that I think usually should be taken into account in determining whether a debt has become bad as:
+1. the history and age of the debt;
+2. the financial position of the debtor, its revenues and expenses, whether it is earning income or losses, its cash flow and its assets, liabilities and liquidity;
+3. changes in total sales as compared with prior years;
+4. the debtor's cash, accounts receivable and other current assets at the relevant time and as compared with prior years;
+5. the debtor's accounts payable and other current liabilities at the relevant time and as compared with prior years;
+6. the general business conditions in the country, the community of the debtor, and in the debtor's line of business; and
+7. the past experience of the taxpayer with writing off bad debts.
+This list is not exhaustive and, in different circumstances, one factor or another may be more important.
+[14] While future prospects of the debtor company may be relevant in some cases, the predominant considerations would normally be past and present. If there is some evidence of an event that will probably occur in the future that would suggest that the debt is collectible on the happening of the event, the future event should be considered. If future considerations are only speculative, they would not be material in an assessment of whether a past due debt is collectible. (Emphasis added.)
+[51] Expressly de-emphasizing the relevance of speculative future events, must, in my view, be understood in the context of normal considerations in respect of a debtor that is not just insolvent at a moment in time but is in such financial straights as to cause a creditor such degree of concern as to reasonably foresee at the end of the year, that a loan, even one not then due, will never be repaid. Those were the facts of that case. As well, general business considerations (factor 6 above) or the age of a debt (factor 1 above) are factors that can be assessed from a forward looking perspective when determining whether a debt not then due is bad at a particular time.
+[52] As well, consider Rothstein J.A.’s comment in a later paragraph:
+[24] Here, the question is whether it was honest and reasonable for the appellant to consider the debt to be bad on December 31, 1995. If there was some evidence to suggest that a work out or refinancing might have been available to enable collection of some or all of the loan, I would agree that the appellant, being intimately involved with the company, would have to show that he had at least attempted some proactive steps before declaring the loan bad.
+[53] I suggest that the refinancing possibility spoken of brings into consideration a future event and underlines the case the Court was looking at; namely, a case where but for refinancing, the debtor would never be able to meet its obligations. There is insufficient evidence of that gloomy picture, in the case at bar, particularly in light of the continuing bright light cast by the Appellant on the company’s future and given its apparent access to funds as illustrated by the financing of infomercials and an inventory of saleable products.
+[54] Similarly, in Giahinejad, it is implicit that the future potential for collection is relevant. Making advances implicitly suggests something positive in the future which contradicts a bad debt determination at the time of the advance. Following that rationale, a loan not due for some time cannot reasonably be found to be bad today, where the prospects of collection when due are promising as shown by recent advances and by the commitment and drive and ongoing work of the debtor whose actions reflect no sign of an imminent failure of the business.
+[55] All this is to say that just because the Appellant was satisfied that the loans could not be repaid at the end of the years in question, does not mean it was reasonable to consider that they were bad. If it was, then all temporary, short term, insolvency situations would lead to an explosion of bad debt claims. Nothing in the language of the subject provisions warrants such an explosion.
+[56] Yet another aspect of these appeals, related to the subject debts not being treated as being due, is that the Appellant was obviously not ready at any time during the years in question, or even now, to seek collection of the outstanding loans. While collection actions are not always essential, the absence of any action being taken to demonstrate that the debts have been proven to be bad is inconsistent with any requirement to prove a debt has become bad. It may well be that he could have caused, and could still today cause, the company to wind down and cease operations so as to give him his losses but that cannot determine the outcome of the case before me. There must be, at least, some evidence of an imminent threat to the Appellant ever getting the loans paid or, as noted earlier, some evidence of future prospects being such as to reasonably foresee that the chance of recovery is only a faint hope. No such evidence exists in the present case where there has been uninterrupted profit seeking activity by a going concern which, looking forward from each year in question, does not appear to be facing any future financial crisis that would suggest that the loans will never be repaid.
+[57] I can only add in closing that it seems to me that the Appellant may have misunderstood any CRA suggestion that salaries need not be funded in order to give rise to the targeted refundable investment tax credits. It is the incurrence of the expense, not the payment of the expense that generates an SR&ED expenditure that generates the refundable credits. That is, the company need only have incurred the salary expenses on the accrual basis to obtain refundable credits.[21] If none of the instruments referred to above had been exchanged, the credits would appear to have been payable to the company without the Appellant being required to report any income in the year the company incurred the expense since his remuneration from the company is reportable on the cash basis. Section 5 of the Act only includes in income wages “received” in the year. He would have been allowed a one year deferral under subsection 78(4) of the Act. The Appellant’s tax plan seems then to have unnecessarily accelerated a tax liability.
+[58] As I stated at the outset of this analysis the proven facts of this case have caused me to concede that the Appellant has succeeded in creating a reality out of transactions that common sense suggests never actually happened. While faced with the possibility of finding that the delivery of un-presented cheques was a non-event, I am reminded of the following words that seem appropriate here by Thurlow J. in Donald Applicators Ltd. et al., v. Minister of National Revenue: [22]
+[…] the very foundation of the taxation appealed from is the assumption of the reality of these corporations and of their having made the profits in respect of which they have been assessed. The case therefore falls to be decided, despite the stark unreality of the situation, as disclosed by the evidence, on the basis that these appellants were corporations which in fact engaged in business and thereby realized the profits in question.
+[59] As it stands then, for all these reasons, the appeals must be dismissed, without costs.
+Signed at Ottawa, Canada this 25th day of June 2010.
+"J.E. Hershfield"
+Hershfield J.
+CITATION: 2010 TCC 346
+COURT FILE NO.: 2009-1638(IT)I
+STYLE OF CAUSE: GO SIMON SUNATORI AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Ottawa, Canada
+DATE OF HEARING: April 7, 2010
+REASONS FOR JUDGMENT BY: The Honourable Justice J.E. Hershfield
+DATE OF JUDGMENT: June 25, 2010
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Jack Warren
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Paragraph 3(d) of the Income Tax Act permits such deductions provided the loss is an ABIL.
+[2] A capital loss for 2004 in the amount $169 was also claimed and denied. The Appellant did not deal with this amount at the hearing.
+[3] The exhibits show that in 2004 and 2005, 100% of the Appellant’s salary was research related. By 2008 that appears to have been reduced to 85% to allow for other tasks such as “administration or management or commercial representation or accounting”.
+[4] Exhibit A-5 showed that the company issued T4 slips for the salaries.
+[5] Exhibit A-3 describes the pen as “MagneScribe TM: 3-in-1 Auto-Retractable Ballpoint Pen”. When detached from a pendant, the pen tip automatically drops down for writing and retracts when returned to the magnetic pendant. The pendant is a digital clock and mirror. Canadian and US patents have been granted.
+[6] Exhibit A-3 describes the bird feeder as a HyperFeeder: Squirrel-Proof Bird Feeder with Concentric Perching Rings and a Transparent Globe. The spice rack is described as the Magic Spicer TM (self-sealing magnetic spice rack with spice jars). The Appellant testified that three spice racks were sold the day of the hearing before Court convened and that he had hopes this product would do well. The exhibit lists several internet programs available for purchase as well, ranging from business manuals to games including sudoku puzzle solving.
+[7] As shown in Exhibit A-9.
+[8] [2002] 1 C.T.C. 2141 (T.C.C.).
+[9] Flexi-Coil Ltd. v. R., 96 D.T.C. 6350 (F.C.A.); Roy c. R, [2004] 2 C.T.C. 2519 (T.C.C.); Netolitzky v. R., 2006 T.C.C. 172, [2006] 3 C.T.C. 2526; Cosentino v. R., [2003] 2 C.T.C. 2447 (T.C.C.).
+[10] Tax planning -- arranging one's affairs so as to attract the least amount of tax -- is a legitimate and accepted part of Canadian tax law. The principle, still applicable today, arises from the case of IRC v. Duke of Westminster, [1935] All E.R. 259, where Lord Tomlin said: “[...] Every man is entitled, if he can, to order his affairs so that the tax attaching under the appropriate Acts is less than it otherwise would be. If he succeeds in ordering them so as to secure this result, then, however unappreciative the Commissioner of Inland Revenue or his fellow taxpayers may be of his ingenuity, he cannot be compelled to pay an increased tax.” See also Lipson v. R., 2009 S.C.C. 1; Canada Trustco Mortgage Co. v. R., 2005 S.C.C. 54.
+[11] See subparagraph 40(2)(g)(ii).
+[12] [1999] 2 C.T.C. 149 (F.C.A.). I accept the sufficiency of the nexus between the loan and potential for dividend receipts in the context of the facts as I have found them. As will be noted momentarily (footnote 13), other possible scenarios may not warrant a similar finding.
+[13] I have considered several possible scenarios including: Scenario 1. The Appellant gives the company a cheque (a negotiable instrument, a bill of exchange, a chose in action) that is the loan to the company. The company uses that chose in action to pay the Appellant his wage by returning it in-kind to the Appellant. A loan to the company is outstanding and the wages are paid. That does not exactly match the two cheque scenario that is in evidence but it does “fit” with the way everything has been reported. Scenario 2. There was no payment of the wage at all. The debt is for unpaid wages. Looking through the series of transactions here, that is really all that happened. It is a scenario that the Appellant might best have embraced since the form he chose has accelerated the tax payable on his wages without any advantage being gained. Scenario 3. The instrument delivered to the Appellant as his wage for the year was acknowledged by the Appellant as “payment”. There was a reciprocal acknowledgement by the company that the instrument the Appellant gave to the company was an asset with value that was to be treated as a loan. This has the same result as would occur had the cheques been cashed except the payments are in-kind. It is the result intended by the parties.
+[14] For example, would a balance sheet reflect funding from the refundable credits or capital contributions, demonstrating that the Appellant’s testimony of insolvency, based on earnings, was misleading, if not intentionally slanted?
+[15] Surette v. Surette and Sullivan, (1980), 40 N.S.R. (2d) 482 (N.S.T.D.); Cilevitz v. R., 2009 T.C.C. 214.
+[16] [1987] 1 S.C.R. 711 (S.C.C.).
+[17] [1999] 1 S.C.R. 619 (S.C.C.).
+[18] The terms referred to in this passage are the contractual terms of the arrangement as distinct from its duration or “term”.
+[19] The officious bystander test was formulated by MacKinnon J. in Shirlaw v. Southern Foundaries (1926) Ltd., [1939] 2 K.B. 206. The quotation is from: HALL, Geoff R., Canadian Contractual Interpretation Law, First Edition, Lexis Nexis, at p. 125.
+[20] 2003 F.C.A. 38.
+[21] Having essentially no income to report, the investment tax credits available to the company in section 127 (calculated as prescribed in subsection 127(9) by reference to the company’s SR&ED qualifying expenditure pool as calculated in subsection 37(8)) will, in general terms in straight forward situations such as appears to be the case in respect of the within appeals, become fully refundable pursuant to section 127.1 at a rate of 40% of the SR&ED expenditures. That is, it appears that the company would receive a $20,000 refundable investment tax credit where a $50,000 SR&ED salary expense is incurred. It is the incurrence of the expense, not the payment of the expense, that generates an SR&ED expenditure amount as prescribed in subsection 37(8). See Highland Foundry Ltd. v. R., 94 D.T.C. 1725; Ergorecherche & Conseils Inc. v. R., 1997 CarswellNat 2615 and IT-151R5, paragraph 10. This is the case even though the Appellant is a specified employee of the company as defined in subsection 248(1), since it does not appear that the limitations in subsection 37(9) and (9.1) would apply in this case.
+[22] 69 D.T.C. 5122.

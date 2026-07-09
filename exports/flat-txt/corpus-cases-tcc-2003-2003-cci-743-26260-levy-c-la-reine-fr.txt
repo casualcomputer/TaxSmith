@@ -1,0 +1,166 @@
+Title: Levy c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26260/index.do
+Corpus path: corpus/cases/tcc/2003/2003-cci-743-26260-levy-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2003-10-15
+
+# Levy c. La Reine
+
+- Citation: 2003 CCI 743
+- Decision date: 2003-10-15
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3991, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Levy c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-10-15
+Référence neutre
+2003 CCI 743
+Numéro de dossier
+2002-1863(IT)I
+Juges et Officiers taxateurs
+Louise Lamarre Proulx
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2002-1863(IT)I
+ENTRE :
+CLAUDINE LEVY,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+et
+EDOUARD ELKAIM,
+partie jointe.
+____________________________________________________________________
+Appels entendus le 9 juillet 2003 à Montréal (Québec)
+Devant : L'honorable juge Louise Lamarre Proulx
+Comparutions :
+Avocat de l'appelante :
+Me Asher Neudorfer
+Avocat de l'intimée :
+Me Simon-Nicolas Crépin
+Avocate de la partie jointe :
+Me Emmanuelle Billion-Porte
+____________________________________________________________________
+JUGEMENT
+Les appels des cotisations établies en vertu de la Loi de l'impôt sur le revenu pour les années d'imposition 1997 à 1999 sont accordés, avec frais en faveur de l'appelante, selon les motifs du jugement ci-joints;
+Comme il y a eu consentement à jugement par l'avocat de l'intimée au début de l'audience pour l'année d'imposition 1997 à l'égard des deux parties, la cotisation de la partie jointe pour l'année 1997 ne sera pas modifiée.
+Pour les années 1998 et 1999, les cotisations seront modifiées sur la base corrélative des inclusions acceptées pour l'appelante, selon les motifs ci-joints.
+Il n'y a pas de frais à l'égard de la partie jointe.
+Signé à Ottawa, Canada, ce 15e jour d'octobre 2003.
+« Louise Lamarre Proulx »
+Juge Lamarre Proulx
+Référence : 2003CCI743
+Date : 20031015
+Dossier : 2002-1863(IT)I
+ENTRE :
+CLAUDINE LEVY,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+et
+EDOUARD ELKAIM,
+partie jointe.
+MOTIFS DU JUGEMENT
+La juge Lamarre Proulx
+[1] Il s'agit d'un appel par voie de la procédure informelle concernant les années d'imposition 1997 à 1999.
+[2] Par une ordonnance de cette Cour en date du 29 mai 2003, rendue en vertu de l'article 174 de la Loi de l'impôt sur le revenu (la « Loi » ), monsieur Édouard Elkaim a été joint à cet appel.
+[3] Au début de l'audience, l'avocat de l'intimée a informé la Cour que l'intimée consentait à jugement relativement à l'année 1997.
+[4] Le consentement sur les mesures accessoires à la séparation et au divorce en appel a été entériné par la Cour d'appel du Québec, le 10 octobre 1996. Il a été déposé comme pièce A-2 par l'appelante. Seule, cette dernière a témoigné.
+[5] En ce qui concerne les années 1998 et 1999, il y a trois points en litige.
+[6] Le premier concerne le montant de pension alimentaire reçu pour l'année 1998. L'appelante a déclaré un montant de 36 540 $. Le ministre du Revenu national (le « Ministre » ) a établi le montant à 47 139 $.
+[7] L'intimée accepte qu'un montant de 3 400 $ a été pris en compte en 1999 par l'appelante. En ce qui concerne le montant supplémentaire de 7 000 $, l'appelante fait état que ce montant faisait partie du montant de 50 000 $ que monsieur Édouard Elkaim devait lui verser en vertu du consentement (pièce A-2).
+[8] L'intimée n'a pas contesté la présentation des faits apportée par l'appelante concernant le montant de la pension alimentaire pour chacune des années 1998 et 1999. Aucune preuve contraire n'a été présentée par la partie jointe.
+[9] J'accepte donc les montants de pension alimentaire tels que déclarés par l'appelante, soit 36 540 $ et 35 172 $ pour les années 1998 et 1999.
+[10] Les deuxième et troisième points en litige concernent les taxes foncières et les frais de scolarité payés par l'ex-époux de l'appelante. Doivent-ils être ajoutés au revenu de l'appelante?
+[11] À la page 3 du Consentement (pièce A-2), sous le grand titre « Pension alimentaire » se trouvent les paragraphes 4 et 7 qui se lisent comme suit :
+4. L'époux s'engage par les présentes à payer à l'épouse, pour l'entretien des enfants seulement, une pension alimentaire de 4 000,00 $ par mois, payable d'avance le 1er de chaque mois à la résidence de l'épouse, à compter de la signature de la présente entente, sous réserve du paragraphe 14(d) ci-dessous, et portant l'indexation annuellement à la date anniversaire de la signature des présentes;
+...
+7. L'époux assumera les frais de scolarité des enfants jusqu'à l'obtention d'un premier diplôme universitaire par chacun des enfants. Ces derniers fréquentent présentement l'école privée Akiva, et les parties s'entendent pour que les enfants puissent continuer à fréquenter cette institution ou une autre équivalente et ce, tant pour leur cours primaire que secondaire. Les parties pourront s'entendre relativement à l'inscription des enfants dans une institution différente ou d'une autre confession, étant cependant entendu que la qualité de l'éducation et de l'encadrement, ainsi que les frais afférents, seront d'un niveau égal ou supérieur à ceux de l'école Akiva;
+[12] Il n'y a pas de litige concernant l'interprétation du paragraphe 4.
+[13] En ce qui concerne les paiements faits pour les frais de scolarité, l'avocate de la partie jointe fait valoir qu'on les retrouve sous le grand titre de « Pension alimentaire » .
+[14] Dans le chapitre intitulé : « Partage des biens et des intérêts financiers » se trouve l'alinéa 14e) qui se lit comme suit :
+14. L'époux s'engage par les présentes, à transférer à l'épouse l'entière propriété, libre de toute hypothèque et de toutes taxes, de l'immeuble ayant servi de résidence familiale, sis au 740, rue Upper Roslyn à Westmount, selon les modalités suivantes :
+. . .
+e) Par ailleurs, l'époux assumera à l'acquit de l'épouse, les taxes municipales afférentes à l'ancienne résidence familiale pour les cinq (5) années suivant la signature des présentes, jusqu'à concurrence de 4 000,00 $ par année seulement. Advenant la vente de ladite résidence avant l'expiration dudit délai de cinq (5) ans, les parties reconnaissent que l'époux aura droit au remboursement de toutes taxes payées par lui durant l'année de vente, et afférentes à la période de temps survenant après la vente de l'immeuble;
+[15] Ce sont les frais de scolarité qui étaient le plus contesté par l'avocate de la partie jointe. Car en ce qui concerne le paiement des taxes municipales, au moment de l'audition, cette obligation avait expiré, le consentement (pièce A-2) ayant été signé le 9 octobre 1996. Le débat était quand même pertinent pour les années en litige.
+[16] L'alinéa 56(1)b), les paragraphes 56.1(1) et 56.1(2) et la définition de « pension alimentaire » au paragraphe 56.1(4) de la Loi se lisent comme suit :
+56(1) Sommes à inclure dans le revenu de l'année - Sans préjudice de la portée générale de l'article 3, sont à inclure dans le calcul du revenu d'un contribuable pour une année d'imposition :
+. . .
+b) Pension alimentaire [époux ou enfant] - le total des montants représentant chacun le résultat du calcul suivant :
+A - (B + C)
+où :
+A représente le total des montants représentant chacun une pension alimentaire que le contribuable a reçue après 1996 et avant la fin de l'année d'une personne donnée dont il vivait séparé au moment de la réception de la pension,
+B le total des montants représentant chacun une pension alimentaire pour enfants que la personne donnée était tenue de verser au contribuable aux termes d'un accord ou d'une ordonnance à la date d'exécution ou postérieurement et avant la fin de l'année relativement à une période ayant commencé à cette date ou postérieurement,
+C le total des montants représentant chacun une pension alimentaire que le contribuable a reçue de la personne donnée après 1996 et qu'il a incluse dans son revenu pour une année d'imposition antérieure;
+56.1(1) Pension alimentaire - Pour l'application de l'alinéa 56(1)b) et du paragraphe 118(5), dans le cas où une ordonnance ou un accord, ou une modification s'y rapportant, prévoit le paiement d'un montant à un contribuable ou à son profit, au profit d'enfants confiés à sa garde ou à la fois au profit du contribuable et de ces enfants, le montant ou une partie de celui-ci est réputé :
+a) une fois payable, être payable au contribuable et à recevoir par lui;
+b) une fois payé, avoir été payé au contribuable et reçu par lui.
+56.1(2) Entente - Pour l'application de l'article 56, du présent article et du paragraphe 118(5), le résultat du calcul suivant :
+A - B
+où :
+A représente le total des montants représentant chacun un montant (sauf celui qui constitue par ailleurs une pension alimentaire) qui est devenu payable par une personne au cours d'une année d'imposition, aux termes de l'ordonnance d'un tribunal compétent ou d'un accord écrit, au titre d'une dépense (sauf la dépense relative à un établissement domestique autonome que la personne habite ou une dépense pour l'acquisition de biens corporels qui n'est pas une dépense au titre de frais médicaux ou d'études ni une dépense en vue de l'acquisition, de l'amélioration ou de l'entretien d'un établissement domestique autonome que le contribuable visé aux alinéas a) ou b) habite) engagée au cours de l'année ou de l'année d'imposition précédente pour subvenir aux besoins d'un contribuable, d'enfants confiés à sa garde ou à la fois du contribuable et de ces enfants, dans le cas où le contribuable est :
+a) l'époux ou le conjoint de fait ou l'ex-époux ou l'ancien conjoint de fait de la personne,
+b) si le montant est devenu payable en vertu de l'ordonnance d'un tribunal compétent rendue en conformité avec les lois d'une province, un particulier qui est le père ou la mère d'un enfant dont la personne est le père naturel ou la mère naturelle;
+B l'excédent éventuel du total visé à l'alinéa a) sur le total visé à l'alinéa b) :
+a) le total des montants représentant chacun un montant inclus dans le total calculé selon l'élément A relativement à l'acquisition ou à l'amélioration d'un établissement domestique autonome dans lequel le contribuable habite, y compris un paiement de principal ou d'intérêts sur un emprunt ou une dette contracté en vue de financer, de quelque manière que ce soit, l'acquisition ou l'amélioration,
+b) le total des montants correspondant chacun à 1/5 du principal initial d'un emprunt ou d'une dette visés à l'alinéa a),
+est réputé, lorsque l'ordonnance ou l'accord écrit prévoit que le présent paragraphe et le paragraphe 60.1(2) s'appliquent à un montant payé ou payable à leur titre, être un montant payable au contribuable et à recevoir par lui à titre d'allocation périodique, qu'il peut utiliser à sa discrétion.
+« pension alimentaire » Montant payable ou à recevoir à titre d'allocation périodique pour subvenir aux besoins du bénéficiaire, d'enfants de celui-ci ou à la fois du bénéficiaire et de ses enfants, si le bénéficiaire peut utiliser le montant à sa discrétion et, selon le cas :
+a) le bénéficiaire est l'époux ou le conjoint de fait ou l'ex-époux ou l'ancien conjoint de fait du payeur et vit séparé de celui-ci pour cause d'échec de leur mariage ou union de fait et le montant est à recevoir aux termes de l'ordonnance d'un tribunal compétent ou d'un accord écrit;
+b) le payeur est le père naturel ou la mère naturelle d'un enfant du bénéficiaire et le montant est à recevoir aux termes de l'ordonnance d'un tribunal compétent rendue en conformité avec les lois d'une province.
+[17] La définition de « pension alimentaire » , dans le cas d'ex-époux, exige que le montant payable le soit à titre d'allocation périodique, qu'il soit pour subvenir aux besoins du bénéficiaire, d'enfants de celui-ci ou à la fois du bénéficiaire et de ses enfants, que le bénéficiaire puisse utiliser le montant à sa discrétion, que les époux vivent séparés et que le montant soit à recevoir aux termes d'un jugement ou d'un accord écrit.
+[18] Pour qu'un montant soit un montant payable à titre d'allocation périodique, le montant et la fréquence doivent avoir été déterminés par un jugement ou par un accord écrit entre les époux. C'était la situation dans Hak c. La Reine, [1998] A.C.I. no 921 (Q.L.); Chute c. La Reine, [1999] A.C.I. no 173 (Q.L.) et Arsenault c. Canada, [1995] A.C.I. no 241 (Q.L.) et [1996] A.C.F. no 202 (Q.L.). Dans la présente affaire, ni le montant des taxes et des frais de scolarité ni la fréquence des paiements n'ont été prédéterminés.
+[19] En ce qui concerne la discrétion de l'appelante à l'égard de ces susdits montants, il est évident que l'appelante ne peut utiliser ces montants à sa discrétion. Elle ne pourrait pas par exemple exiger de droit que ces sommes lui soient versées plutôt qu'aux autorités municipales ou scolaires. Il ne s'agit donc pas d'une application de l'alinéa 56(1)b) de la Loi.
+[20] En ce qui concerne l'application possible du paragraphe 56.1(1) de la Loi, la Cour d'appel fédérale a décidé dans Armstrong c. Canada, [1996] A.C.F. no 599 (Q.L.) que les paiements décrits au paragraphe 56.1(1) de la Loi ne peuvent être considérés comme des paiements de pension alimentaire que si le bénéficiaire peut utiliser le montant à sa discrétion.
+[21] En ce qui concerne l'application possible du paragraphe 56.1(2) de la Loi, les paiements faits à des tiers seront considérés comme des montants de pensions alimentaires si l'ordonnance ou l'accord écrit prévoit que le paragraphe 56.1(2) et le paragraphe 60.1(2) s'appliquent aux paiements. Ce qui n'est pas le cas dans la présente affaire.
+[22] En conséquence, les paiements des taxes ainsi que ceux des frais de scolarité n'ont pas à être inclus dans le calcul du revenu de l'appelante et ne peuvent pas être déduits dans le calcul du revenu de la partie jointe.
+[23] L'avocat de l'appelante a demandé les frais avocat-client. Ces frais sont accordés dans des circonstances de comportement abusif de la part d'une partie. Ce qui n'est pas le cas ici. Il n'y a eu qu'application d'une disposition prévue à la Loi. Il est souvent souhaitable que les deux parties dans un cas d'inclusion-déduction de pension alimentaire soient entendues ensemble pour assurer la sécurité des relations juridiques et éviter les décisions contradictoires.
+[24] Comme il y a eu consentement à jugement pour l'année 1997, l'appelante et la partie jointe ont chacun gain de cause pour cette année. Pour les années 1998 et 1999, les appels de l'appelante sont accordés. La partie jointe sera cotisée à nouveau sur la base corrélative de ce qui est exprimé dans les présents motifs.
+[25] Il n'y a pas de frais à l'égard de la partie jointe. En ce qui concerne les appels de l'appelante, ils sont accordés avec frais en faveur de l'appelante.
+Signé à Ottawa, Canada, ce 15e jour d'octobre 2003.
+« Louise Lamarre Proulx »
+Juge Lamarre Proulx
+RÉFÉRENCE :
+2003CCI743
+No DU DOSSIER DE LA COUR :
+2002-1863(IT)I
+INTITULÉ DE LA CAUSE :
+Claudine Levy et Sa Majesté la Reine
+et Edouard Elkaim
+LIEU DE L'AUDIENCE :
+Montréal (Québec)
+DATE DE L'AUDIENCE :
+le 9 juillet 2003
+MOTIFS DE JUGEMENT PAR :
+l'hon. juge Louise Lamarre Proulx
+DATE DU JUGEMENT :
+le 15 octobre 2003
+COMPARUTIONS :
+Avocat de l'appelante :
+Me Asher Neudorfer
+Avocat de l'intimée :
+Me Simon-Nicolas Crépin
+Avocat de la partie jointe :
+Me Emmanuelle Billion-Porte
+AVOCAT INSCRIT AU DOSSIER:
+Pour l'appelante :
+Nom :
+Me Asher Neudorfer
+Étude :
+Sarna Neudorfer
+Montréal (Québec)
+Pour l'intimée :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

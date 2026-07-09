@@ -1,0 +1,139 @@
+---
+title: "Dadwal c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28489/index.do"
+last_modified: "2008-01-08"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 CCI 34"
+citation2: ""
+neutral_citation: "2008 CCI 34"
+decision_date: "2008-01-08"
+language: "fr"
+item_id: "28489"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1286
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T11:16:42.450000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "f298d811a491ee1326d13765b757f37174a0769445f5ff96bc11733f10bf425a"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Dadwal c. M.R.N.
+
+- Citation: 2008 CCI 34
+- Decision date: 2008-01-08
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1286, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Dadwal c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-01-08
+Référence neutre
+2008 CCI 34
+Numéro de dossier
+2006-3006(EI)
+Juges et Officiers taxateurs
+Cameron Hugh McArthur
+Sujets
+Loi sur l'assurance-emploi
+Régime de pensions du Canada
+Contenu de la décision
+Référence : 2008CCI34
+Date : 20080108
+Dossier : 2006-3006(EI)
+2006-3008(CPP)
+ENTRE :
+SUKHWINDER KAUR DADWAL,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Représentant de l’appelante : Pavan Jashi
+Avocate de l’intimé : Me Sara Fairbridge
+MOTIFS DU JUGEMENT MODIFIÉS
+(Rendus oralement à l’audience le 19 octobre 2007,
+à Vancouver (Colombie‑Britannique).)
+Le juge McArthur
+[1] Le présent appel est interjeté à l’encontre d’une décision du ministre du Revenu national (le « ministre ») selon laquelle l’appelante n’était pas engagée aux termes d’un contrat de louage de services au sens de l’alinéa 5(1)a) de la Loi sur l’assurance‑emploi et des dispositions législatives comparables du Régime de pensions du Canada.
+[2] L’appelante est une grand‑mère qui a quitté l’Inde pour immigrer au Canada en 2002, après avoir été parainnée par sa fille. Elle a travaillé pour un producteur de légumes et de petits fruits de juin à novembre 2002 (la « période d’emploi »). RHD Farm Labour Contractor Ltd. (le « payeur ») lui a remis un relevé d’emploi dans lequel il était indiqué qu’elle avait travaillé 1 080 heures assurables et reçu une rémunération assurable de 8 985,84 $ pendant la période d’emploi. Le ministre avait tout d’abord décidé qu’elle n’avait occupé un emploi assurable auprès du payeur que pendant 948 heures assurables et qu’elle avait gagné un revenu de 7 885,84 $ pour la période allant du 17 juin 2002 au 2 novembre 2002. Elle a appelé de la décision et, en réponse, le ministre a décidé que l’appelante n’était pas employée par le payeur.
+[3] Le ministre s’est fondé sur les hypothèses de fait suivantes :
+[traduction]
+a) le payeur était un entrepreneur en main‑d'oeuvre agricole qui fournissait des travailleurs à Bisset Farms de Ladner et à BC & Western Country Farms de Richmond;
+b) le payeur a remis à l’appelante un relevé d’emploi (le « RE ») dans lequel il était indiqué que son premier jour de travail était le 17 juin 2002 et que son dernier jour de travail était le 2 novembre 2002;
+c) l’appelante n’a pas répondu aux demandes de renseignements datées du 16 mars 2004 et du 16 juin 2005;
+d) les prétendues fonctions de l’appelante étaient la cueillette de fraises, de framboises et de bleuets;
+e) selon le RE, l’appelante aurait 1 080 heures assurables et une rémunération assurable de 8 985,84 $;
+f) le RE de l’appelante comprenait des heures de travail effectuées par son époux;
+g) l’appelante n’était pas payée à l’heure;
+h) l’appelante a remboursé de l’argent au payeur en échange de son RE;
+i) l’appelante a fourni des renseignements incompatibles et contradictoires à chacune des étapes de l’examen;
+j) le payeur a fourni des renseignements incompatibles et contradictoires à chacune des étapes de l’examen;
+k) l’appelante n’a pas travaillé le nombre d’heures indiqué dans son RE;
+l) l’appelante n’a pas gagné le montant d’argent indiqué dans son RE;
+m) le RE de l’appelante est faux.
+Le payeur n’a malheureusement pas été appelé à témoigner dans le cadre de l’appel, mais l’appelante a bien sûr témoigné au moyen d’un interprète panjabi.
+[4] Dans son avis d’appel, l’appelante a mentionné en partie ce qui suit :
+[traduction]
+J’ai travaillé pour RHD Farm Labour Contractor Limited du 17 juin 2002 au 2 novembre 2002 en tant que travailleuse agricole et j’ai effectué les divers travaux que l’employeur me demandait de faire. J’ai respecté les modalités d’emploi établies par l’employeur tout au long de la période et, en bout de ligne, j’ai reçu un relevé d’emploi dans lequel il était indiqué que j’avais 1 080 heures de travail assurables et 8 985 $ de rémunération assurable.
+Je suis une victime des pratiques courantes dans l’industrie agricole, particulièrement dans le domaine des produits agricole récoltés manuellement. J’ai été trahie, exploitée et harcelée par tous les intervenants dans le système et, finalement, je suis la seule à avoir été pénalisée, malgré le fait que j’ai travaillé fort et que j’ai mérité toutes les heures assurables que j’ai effectuées et tous les revenus que j’ai gagnés. Je ne devrais pas être pénalisée pour la mauvaise tenue de compte de l’employeur.
+Il s’agit d’un cas difficile, étant donné que je crois que l’appelante est foncièrement honnête et qu’elle a été exploitée par des employeurs sans scrupules.
+[5] Ravi Sandhu, qui était enquêteur en matière d’assurance‑emploi en 2002, a témoigné de façon impressionnante au nom de l’intimé. En résumé, il a indiqué qu’il croyait les réponses que l’appelante lui avait données lors d’une entrevue qu’il avait eue avec elle le 24 janvier 2003 et que ces réponses étaient correctes. La transcription de cette entrevue est produite sous la cote R‑1. Il a également mentionné que l’appelante a fait preuve d’une honnêteté rafraîchissante, ce qu’il a rarement eu l’occasion de voir dans le cadre de ses entrevues.
+[6] J’accepte le témoignage de M. Sandhu selon lequel le relevé d’emploi, les heures de travail et le taux de salaire horaire sont fort probablement faux. Il s’agit‑là d’un acte honteux, ce qui correspond à la situation en l’espèce. Comme il a été indiqué, dans l’ensemble, le témoignage de l’appelante est crédible.
+[7] Je conclus que l’appelante occupait un emploi assurable et qu’elle travaillait très fort pendant de longues heures. Lorsque j’ai appliqué les critères habituels figurant dans l’arrêt Wiebe Door Services Ltd. v. Minister of National Revenue[1] rendu par la Cour d’appel fédérale et approuvé par la Cour suprême du Canada dans 671122 Ontario Ltd. c. Sagaz Industries Canada Inc.[2], j’ai établi ce qui suit :
+(i) Le payeur exerçait un contrôle total sur la travailleuse, l’appelante.
+(ii) Le payeur possédait tous les instruments de travail. Il s’occupait même de conduire l’appelante, et les autres travailleurs, pour aller au travail et en revenir dans une fourgonnette lorsqu’il le voulait.
+(iii) En ce qui concerne les possibilités de profit et les risques de perte, le payeur contrôlait tout, y compris combien l’appelante recevait, et nous ne saurons jamais avec certitude quel était son taux horaire de salaire. Elle était payée en fonction du nombre de livres de produit agricole qu’elle cueillait. Par exemple, elle recevait 0,32 $ pour une livre de bleuets en 2002.
+(iv) Dans l’arrêt Sagaz, il est souligné que le juge de première instance a essayé de répondre à la question « À qui appartient l’entreprise? ». Bien entendu, la réponse est sans l’ombre d’un doute qu’il ne s’agissait pas de l’entreprise de l’appelante. C’était l’entreprise du payeur, et il n’est pas justifiable de refuser de verser à l’appelante des prestations d’assurance‑emploi et du Régime de pensions du Canada en raison de stratagèmes que ses supérieurs peuvent avoir inventés.
+[8] Afin de refléter ce qui s’est réellement produit, et après avoir examiné l’ensemble de la preuve, et plus particulièrement le témoignage de M. Sandhu, dont j’accepte le jugement éclairé, je conclus que l’appel est accueilli. L’appelante occupait un emploi assurable auprès du payeur pendant la période d’emploi et avait travaillé 948 heures assurables et gagné un revenu de 7 885,84 $. Je suis arrivé à cette conclusion en acceptant ce qui, selon moi, était la recommandation de M. Sandhu et en essayant de distinguer la réalité de la fiction pour voir quelle était la réalité économique de la situation dans laquelle se trouvait l’appelante.
+Les présents motifs du jugement remplacent les motifs du jugement du 8 janvier 2008.
+Signé à Ottawa, Canada, ce 21e jour de janvier 2008.
+« C.H. McArthur »
+Juge McArthur
+Traduction certifiée conforme
+ce 31e jour de janvier 2008.
+Marie-Christine Gervais, traductrice
+RÉFÉRENCE : 2008CCI34
+NO DU DOSSIER : 2006-3006(EI) et 2006-3008(CPP)
+INTITULÉ : SUKHWINDER KAUR DADWAL c. LE MINISTRE DU REVENU NATIONAL
+LIEU DE L’AUDIENCE : Vancouver (Colombie‑Britannique)
+DATE DE L’AUDIENCE : Le 19 octobre 2007
+MOTIFS DU JUGEMENT
+MODIFIÉS : L’honorable juge C.H. McArthur
+DATE DU JUGEMENT : Le 15 novembre 2007
+COMPARUTIONS :
+Représentant de l’appelante :
+Pavan Jashi
+Avocate de l’intimé :
+Me Sara Fairbridge
+AVOCAT(S) INSCRIT(S) AU DOSSIER :
+Pour l’appelante :
+Nom : s.o.
+Cabinet : s.o.
+Pour l’intimé : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] 87 DTC 5025.
+[2] [2001] 2 R.C.S. 983.

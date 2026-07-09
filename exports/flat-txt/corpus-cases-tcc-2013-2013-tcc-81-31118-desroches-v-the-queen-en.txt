@@ -1,0 +1,245 @@
+Title: Desroches v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/31118/index.do
+Corpus path: corpus/cases/tcc/2013/2013-tcc-81-31118-desroches-v-the-queen-en.md
+Document type: case_law
+Last modified: 2013-03-13
+
+# Desroches v. The Queen
+
+- Citation: 2013 TCC 81
+- Decision date: 2013-03-13
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4767, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Desroches v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2013-03-13
+Neutral citation
+2013 TCC 81
+File numbers
+2011-1370(IT)G
+Judges and Taxing Officers
+Réal Favreau
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2011-1370(IT)G
+BETWEEN:
+BERNARD DESROCHES,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on August 29 and 30, 2012, at New Carlisle, Quebec
+Before: The Honourable Justice Réal Favreau
+Appearances:
+For the appellant:
+The appellant himself
+Counsel for the respondent:
+Marie-France Dompierre
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessments dated June 29, 2009, made under the Income Tax Act for the 2005 and 2006 taxation years is dismissed with costs in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 13th day of March 2013.
+"Réal Favreau"
+Favreau J.
+Translation certified true
+on this 11th day of July 2013
+François Brunet, Revisor
+Citation: 2013 TCC 81
+Date: 20130313
+Docket: 2011-1370(IT)G
+BETWEEN:
+BERNARD DESROCHES,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Favreau J.
+[1] This is an appeal from reassessments dated June 29, 2009, made under the Income Tax Act, R.S.C., 1985, c. 1 (5th Supp.), as amended (the Act), in respect of the appellant's 2005 and 2006 taxation years.
+[2] In making the reassessments dated June 29, 2009, the Minister of National Revenue (the Minister) added the following amounts to the appellant's income:
+2005
+2006
+Net income according to the taxpayer
+$9,535
+$9,760
+Add: "business income"
+$175,500
+$175,500
+Add: "other income"
+$9,535
+$9,760
+Decrease: "social assistance income"
+$9,535
+$9,760
+Decrease: "deductions of CPP/QPP
+contributions for self-employment
+or other income"
+$1,861
+$1,910
+Decrease: "deductions of PPIP
+contributions for self-employment"
+$182
+Net income according to the Canada
+Revenue Agency
+$183,174
+$183,168
+[3] The Minister also applied the penalty set out in paragraph 163(2) of the Act to the unreported income, namely, $16,822.56 for 2005 and $16,713.40 $ for 2006.
+[4] In making the assessments at issue, the Minister relied on the following facts set out in paragraph 11 of the Reply to the Notice of Appeal:
+[Translation]
+(a) Investigators from the regional investigative taskforce of the Pabos Sûreté du Québec led an investigation known as operation “Palais”. (admitted)
+(b) The group targeted by the Sûreté du Québec comprised several individuals, including the appellant. (admitted)
+(c) The appellant was identified as one of the network's major dealers in illegal substances. (denied)
+(d) On May 30, 2007, the Sûreté du Québec charged the appellant with trafficking in a substance under subsection 5(1) of the Controlled Drugs and Substances Act. (denied because only one charge was kept)
+(e) The appellant pleaded guilty to these charges. (admitted only for the one (1) half gram of cocaine sold to an undercover officer, which resulted in a sentence of one day in prison)
+(f) The appellant sold cocaine in the Gaspé area for several years. (denied for 2005 and 2006)
+(g) The appellant dealt in quantities ranging from 2 to 3 ounces of cocaine per week during the 2005 and 2006 taxation years. (denied)
+(h) According to the investigation report obtained by the Revenu Québec auditor, one (1) ounce is equivalent to 28 grams. The minimum sale price set by the appellant was $2,240 per ounce and $80 per gram and the purchase price was $1,450 per ounce and $51 per gram. (denied because these values are inaccurate)
+(i) According to the investigation report obtained by the Revenu Québec auditor, the appellant could manufacture 35 grams from 28 grams of cocaine using the “cutting” method. (denied)
+(j) The respondent's auditor established the unreported net business income based on the data collected by the Revenu Québec auditor and the following calculations:
+January 1 to December 2,
+2005
+January 1 to December 2,
+2006
+Sales
+$364,000
+$364,000
+Purchases
+$188,500
+$188,500
+Net business income
+$175,500
+$175,500
+[5] In order to determine that the appellant made a misrepresentation that was intentional or attributable to neglect or wilful default in filing his tax returns and in order to assess the appellant outside the normal reassessment period and impose the penalty set out in subsection 163(2) of the Act for the 2005 and 2006 taxation years, the Minister relied on the following facts set out in paragraph 12 of the Reply to the Notice of Appeal:
+[Translation]
+(a) All of the facts alleged in paragraph 11.
+(b) The appellant's unreported income is significant compared to his reported income.
+(c) The appellant could not be unaware of these amounts.
+(d) The appellant had been advised by the Quebec Minister of Revenue of the implications for his tax returns; he was in a position to know that he had to file appropriate tax returns and could have taken the steps to make the necessary corrections to his tax returns for the 2005 and 2006 taxation years. (denied)
+(e) The appellant did not take any action to correct his tax returns for the years at issue. (no corrections to be made to his tax returns)
+[6] The appellant testified at the hearing and disputed the accuracy of the assumptions of fact stated by the Minister at subparagraphs (c), (d), (e), (f), (g), (h), (i) and (j) of paragraph 11 of the Reply to the Notice of Appeal.
+[7] The appellant denied subparagraph (c) and alleged that he had not been charged with trafficking in substances during the taxation years in the assessment at issue. According to him, the only charge to which he had pleaded guilty, contrary to what subparagraph (e) suggests, was for an incident that occurred in 2007, namely, the sale of one (1) half gram of cocaine to an undercover officer. For this, the appellant was sentenced in March 2008 to one (1) day in prison and three (3) years' probation after doing ten (10) months of pre-trial detention because he had been unable to pay his $1,000 bail.
+[8] With regard to subparagraphs (f) and (g), the appellant denied having been involved in selling cocaine in the Gaspé Peninsula in 2005 and 2006 because he lived in Drummondville at that time. According to his testimony, he had left Grande‑Rivière on August 15, 2005, and returned to the Gaspé Peninsula only in September 2006. In support of his testimony, the appellant filed Exhibits A-1 and A‑4 in a bundle, comprising numerous documents confirming his residence in the Drummondville area between October 2005 and August 2006, namely, confirmations of address for social assistance, monthly reports for Quebec income security, his federal and Quebec tax returns for 2005, a notice of assessment from Revenu Québec for the 2005 taxation year, a Quebec automobile insurance policy with a notice of automatic bank withdrawal, an insurance certificate, a registration certificate, credit card statements and cell phone bills.
+[9] Regarding subparagraphs (h) and (i), the appellant challenged the validity of the minimum sale price of $2,240 per ounce or $80 per gram of cocaine and the purchase price paid by the appellant of $1,450 per ounce and $51 per gram. The appellant also denied that he could manufacture 35 grams of cocaine from 28 grams of cocaine by “cutting” it. The appellant acknowledged that he had tried “cutting” only once or twice unsuccessfully with one (1) gram or one (1) half gram of cocaine.
+[10] To establish that he was a good father and that he resided in the Drummondville area in 2005 and 2006, the appellant called as witnesses his current spouse, Diane Dufault, and her two daughters, Stéphanie Cyr Dufault and Melody Cyr Dufault.
+[11] Diane Dufault said that she had met the appellant in Drummondville after her daughter Melody started seeing Sébastien, the appellant's son. She stated that she had lived with the appellant in Drummondville and that she had never seen him take or sell drugs in 2005 or 2006 at the Le Triangle d'Or bar in Paspébiac. She provided the same answer regarding the appellant's son. When she moved to the Gaspé Peninsula in September 2006, she had a car accident in St-Siméon. At that time, she fractured a vertebra, which prevented her from having a job until October 14, 2008.
+[12] Stéphanie Cyr Dufault stated that she had lived in Québec since she was 18 years old and that, in 2005 and 2006, she had visited her mother in Drummondville at least once a month. In addition, she stated that she had never seen the appellant intoxicated or on drugs.
+[13] Melody Cyr Dufault stated that, in 2005 and 2006, she lived with her mother in the Drummondville area while she was dating Sébastien, the appellant's son. She said that, at that time, the appellant was very involved in her life and that she saw him very often. She even said that she considered the appellant to be her father and that she had never seen him take or sell drugs. She moved to the Gaspé Peninsula in 2006 with the appellant's son. While looking for an apartment, the couple stayed for a month with Eric Maldemay, who was one of the suspects targeted by Operation Palais following complaints of forcible confinement, assault and death threats. At the beginning of 2007, the police searched her home, but apparently with no results. She separated from Sébastien in 2008.
+[14] The Minister's assumptions of fact were essentially based on the information that the appellant himself had provided to an undercover officer of the Sûreté du Québec regarding his drug trafficking activities.
+[15] On March 31, 2007, the appellant told the undercover officer that he had been buying his cocaine from the same supplier, Eric Maldemay, for at least two (2) years. He also described the quantities of cocaine that he trafficked in as well as the purchase price of the cocaine and the price for which he sold the cocaine to his clients.
+[16] The undercover officer testified at the hearing under identification code SQ A1002 and filed in a bundle as Exhibits I-1 and I-2 the notes he had taken following his communications and meetings with the appellant, his family members and Eric Maldemay between January and April 2007.
+[17] It will be useful to reproduce some excerpts of the undercover officer's notes relating to a meeting that took place on March 31, 2007, at the Le Rendez-Vous restaurant in Bonaventure:
+[Translation]
+I asked him if he would agree to get his cocaine from me. . . . He told me that he had already gotten it from Eric Maldemay for several years. I asked him how much he paid for it. He told me that Eric charged him $1,450 an ounce. I told him that I could sell it to him cheaper than that. I asked him how much he dealt a week. He told me that he dealt more than 2 a week, almost 3 ounces a week if he took a year average. He told me that it had been at least 2 years that he had always gotten his cocaine from Eric . . . He does not pay for the cocaine when he gets his ounce. He gets his ounce, cuts it a bit and prepares it for sale. Once he's sold enough cocaine for $1,450, he is going to pay Eric, and the rest of the cocaine sold is a net profit. He told me that he sold $40 a 1/2 gram or $80 a gram. 1 ounce cut gives him about 35 grams, more or less. He said that in the summer there are heaps of clients at the bar and that it's a big season for him.
+[Exhibit I-1, pages 34 and 35]
+[18] In his testimony, the undercover officer presented many facts relating to the activities of the appellant and the members of his family. Among the most important, the following are worth mentioning:
+(a) The appellant's spouse often accompanied him to the Le Triangle D'Or bar, where he sold the cocaine. She was also the one who transported the drugs in her handbag. The undercover officer described as follows in his notes the purchase of the one (1) half gram of cocaine from the appellant on April 25, 2007:
+[Translation]
+I asked him if he had his stuff with him. He told me that he had some . . . . I told the subject to follow me to the washroom. The subject immediately turned to his spouse and showed her the number 1 using his index finger. Diane then searched in her handbag. The subject Desroches waited right beside Diane. During that time, I made my way to the men's washroom. About 1 minute later, the subject Desroches entered the washroom, closed the door and faced the sink. I gave him 2 $20 bills. The subject took a bag out of the left chest pocket of his shirt . . . . He handed me the bag, which I placed in the left back pocket of my blue jeans.
+[Exhibit I-2, pages 41, 42 and 43]
+(b) When the appellant could not be at the bar to sell the drugs, his son, Sébastien, replaced him;
+(c) The appellant's common law wife and her daughter Melody took a trip to Montréal to accept delivery of two packages (two kilograms of narcotics);
+(d) The appellant collected for Éric Maldemay, and the appellant said that he enjoyed that the most out of everything he did;
+(e) The appellant told the undercover officer that it was important to have an alibi so that people could confirm that they were at this place in the afternoon (Exhibit I-2, pages 36 and 37).
+[19] According to the undercover officer, the appellant always told him the truth and everything he had told him between January and April 2007 was verifiable. According to him, in the summer of 2006, the appellant sold narcotics at the Le Triangle D'Or bar. The appellant was a big drug dealer in the area.
+Analysis
+[20] Under subsection 152(8) of the Act, assessments and reassessment made by the Minister are deemed to be valid and binding notwithstanding any error, defect or omission in the assessment or reassessment or in any proceeding relating thereto. Subsection 152(8) of the Act reads as follows:
+152(8) An assessment shall, subject to being varied or vacated on an objection or appeal under this Part and subject to a reassessment, be deemed to be valid and binding notwithstanding any error, defect or omission in the assessment or in any proceeding under this Act relating thereto.
+[21] A taxpayer who appeals to this Court from an assessment or reassessment issued within the taxpayer's normal reassessment period has the burden of making a prima facie case demonstrating that the assumptions on which the Minister relied in making his assessment or reassessment are erroneous. In Amiante Spec Inc. v. Canada, 2009 FCA 139, [2009] F.C.J. No 603 (QL), the Federal Court of Canada explained that a prima facie case is
+[23] . . . one "supported by evidence which raises such a degree of probability in its favour that it must be accepted if believed by the Court unless it is rebutted or the contrary is proved. It may be contrasted with conclusive evidence which excludes the possibility of the truth of any other conclusion than the one established by that evidence" (Stewart v. Canada, [2000] T.C.J. No. 53, paragraph 23).
+[22] When a taxpayer successfully "demolishes" the assumptions of fact on which the Minister relied in making his assessment or reassessment, the onus shifts to the Minister to rebut the prima facie case made out by the appellant and to prove the assumptions. Justice L'Heureux-Dubé of the Supreme Court of Canada explained this principle as follows in Hickman Motors Ltd. v. Canada, [1997] 2 S.C.R. 336, at page 379:
+Where the Minister's assumptions have been “demolished” by the appellant, “the onus . . . shifts to the Minister to rebut the prima facie case” made out by the appellant and to prove the assumptions . . . .
+[23] When an assessment or reassessment is made after the taxpayer's normal reassessment period in respect of the year, the onus is then on the Minister to show that the taxpayer or person filing the return has made a misrepresentation that is attributable to neglect, carelessness or wilful default or has committed any fraud in filing the return or in supplying any information under this Act.
+[24] The reassessments under appeal herein were made under subsection 152(4) of the Act, of which the following is the relevant portion for the purposes of this appeal:
+(4) The Minister may at any time make an assessment, reassessment or additional assessment of tax for a taxation year, interest or penalties, if any, payable under this Part by a taxpayer or notify in writing any person by whom a return of income for a taxation year has been filed that no tax is payable for the year, except that an assessment, reassessment or additional assessment may be made after the taxpayer's normal reassessment period in respect of the year only if
+(a) the taxpayer or person filing the return
+(i) has made any misrepresentation that is attributable to neglect, carelessness or wilful default or has committed any fraud in filing the return or in supplying any information under this Act, or
+[25] For a taxpayer who is an individual, the normal reassessment period is three years following the day of sending of a notice of an original assessment under Part I of the Act. Subsection 152(3.1) of the Act provides as follows:
+For the purposes of subsections (4), (4.01), (4.2), (4.3), (5) and (9), the normal reassessment period for a taxpayer in respect of a taxation year is
+(a) if at the end of the year the taxpayer is a mutual fund trust or a corporation other than a Canadian-controlled private corporation, the period that ends four years after the earlier of the day of sending of a notice of an original assessment under this Part in respect of the taxpayer for the year and the day of sending of an original notification that no tax is payable by the taxpayer for the year; and
+(b) in any other case, the period that ends three years after the earlier of the day of sending of a notice of an original assessment under this Part in respect of the taxpayer for the year and the day of sending of an original notification that no tax is payable by the taxpayer for the year.
+[26] In the reassessments dated June 29, 2009, the Minister applied the penalty set out in subsection 163(2) of the Act, of which the portion before paragraph (a) reads as follows:
+Every person who, knowingly, or under circumstances amounting to gross negligence, has made or has participated in, assented to or acquiesced in the making of, a false statement or omission in a return, form, certificate, statement or answer (in this section referred to as a “return”) filed or made in respect of a taxation year for the purposes of this Act, is liable to a penalty of the greater of $100 and 50% of the total of
+. . .
+[27] Subsection 163(3) of the Act imposes on the Minister the burden of proving that the circumstances justifying a penalty for any gross negligence are present. Subsection 163(3) of the Act reads as follows:
+Where, in an appeal under this Act, a penalty assessed by the Minister under this section or section 163.2 is in issue, the burden of establishing the facts justifying the assessment of the penalty is on the Minister.
+[28] In Venne v. Canada, [1984] F.C.J. No 314 (F.C.T.D.), Justice Strayer specified what is meant by "gross negligence":
+. . . “Gross negligence” must be taken to involve greater neglect than simply a failure to use reasonable care. It must involve a high degree of negligence tantamount to intentional acting, an indifference as to whether the law is complied with or not. . . .
+[29] The appellant has "demolished" the Minister's assumptions that he had been involved in the sale of cocaine in the Gaspé region during the period covered by the reassessments dated June 29, 2009, by presenting testimonial and documentary evidence that he had resided in Drummondville since August 15, 2005, thus, during part of the period covered by the reassessments. However, the Minister rebutted the appellant's evidence with the testimony of the undercover officer, who reported on admissions made by the appellant. In these circumstances, the issue now is whether the appellant's extrajudicial admission is admissible in evidence.
+Is the extrajudicial admission admissible in evidence?
+[30] In criminal matters, incriminating statements made to an undercover officer when the accused believes that the officer is a criminal are admissible in evidence (R. v. Grandinetti, 2005 SCC 5).
+[31] In civil matters, Jean-Claude Royer and Sophie Lavallée state at paragraph 793 of their treatise La preuve civile, 4th ed., Cowansville: Éditions Yvon Blais, 2008 (La preuve civile) that [Translation] "it is imprudent for a court to refuse an extrajudicial statement made by a party to the dispute and submitted in evidence for the opposing party".
+[32] The Tax Court of Canada Act and the Tax Court of Canada Rules (General Procedure) do not address the question of admissions. Consequently, we must resort to section 40 of the Canada Evidence Act, which provides as follows:
+40. In all proceedings over which Parliament has legislative authority, the laws of evidence in force in the province in which those proceedings are taken, including the laws of proof of service of any warrant, summons, subpoena or other document, subject to this Act and other Acts of Parliament, apply to those proceedings.
+[33] Since Mr. Desroches' appeal was filed in Quebec, section 40 of the Canada Evidence Act provides that the applicable rules of evidence are those set out in the Civil Code of Québec (C.C.Q.).
+[34] An admission is defined in article 2850 of the C.C.Q. as "the acknowledgment of a fact which may produce legal consequences against the person who makes it".
+[35] There is a distinction between a judicial and an extrajudicial admission. A judicial admission is made within proceedings where it is used as evidence, while an extrajudicial admission is made outside said proceedings (see paragraph 643 of Léo Ducharme's Précis de la preuve, 6th ed., Montréal: Wilson & Lafleur Ltée, 2005 (Précis de la preuve). To be admissible in evidence, the extrajudicial admission must be proven (see La preuve civile, supra, paragraph 862).
+[36] The appellant's words during his meetings with the undercover officer undeniably constitute an extrajudicial admission within the meaning of the C.C.Q. The appellant clearly indicated that he had purchased cocaine from the same supplier for at least two (2) years and described the quantities of drugs he had trafficked as well as his purchase price and sale price. Such statements can result in significant legal consequences such as criminal charges or, as in this case, tax assessments.
+[37] According to article 2867 of the C.C.Q., an extrajudicial admission "is proved by the means admissible as proof of the fact which is its object". Thus, [Translation] "a verbal extrajudicial statement must be proven by the testimony of the person who made the statement or by a person who personally had knowledge of it" (see La preuve civile, supra, paragraph 770).
+[38] At the hearing, the appellant's verbal extrajudicial statement was proven by the testimony of the undercover officer to whom the appellant had provided information about his drug trafficking activities. Consequently, the undercover officer's testimony is admissible in evidence because he had made a statement about facts of which he had personal knowledge.
+[39] In Quebec civil law, the extrajudicial admission must have been alleged in the pleadings, namely, in the motion to institute proceedings or the defence motion (see La preuve civile, supra, paragraph 862). In this case, the extrajudicial admission was not alleged in the pleadings. However, since section 40 of the Canada Evidence Act seeks to make the rules of evidence in Quebec civil law the suppletive law before this Court, not the procedural law, this Court is not bound by that requirement because it is strictly procedural in nature. In Commission scolaire de Victoriaville c. La Reine, 2002 CanLII 61082 (TCC), Judge Archambault made essentially the same ruling:
+[Translation]
+[48] . . . When an appeal to this Court is filed in Quebec, the Quebec rules of evidence must be applied with the usual rigour of the Quebec courts of law.
+[49] However, priority must be given to the rules of evidence set out in the CEA, in the Rules and, if applicable, in other rules adopted under the TCCA. In these cases, the principles of common law should be the suppletive law. If we take into account the rules of administration of evidence set out in the CEA and subsection 4(2) of the Rules, which states that, if the Rules are silent, the applicable practice must be determined by the Court on motion, the provisions of the Code of Civil Procedure will not generally apply or will rarely apply before this Court.
+[40] In Vincent v. The Queen, 2005 TCC 330, Justice Archambault once more considered the Quebec evidence law applicable to an extrajudicial admission, and nowhere in his decision did he discuss the requirement, to allege the extrajudicial admission in the pleadings. Let us note, however, that in these cases, the admission was expressly alleged by the Minister in his assumptions set out in the Reply to the Notice of Appeal.
+[41] Article 2852 of the C.C.Q. sets out the rules regarding the probative force of an admission as follows:
+Art. 2852. An admission made by a party to a dispute or by an authorized mandatary makes proof against him if it is made in the proceeding in which it is invoked. It may not be revoked, unless it is proved to have been made through an error of fact.
+The probative force of any other admission is left to the appraisal of the court.
+[42] Even though, according to article 2852 of the C.C.Q. the probative force of an extrajudicial admission is left to the appraisal of the court, according to legal doctrine, any extrajudicial statement in which a person admits to a fact that is against his interests is presumed to be true and a court should not be able to dismiss an extrajudicial admission by a party without a valid reason. Professor Léo Ducharme in his Précis de la preuve, supra, made the following comments on this subject at paragraphs 755 to 757:
+[Translation]
+. . . Indeed, article 2852 C.C.Q. draws a very clear distinction between the probative force of a judicial admission and the probative force of an extrajudicial admission. . . .
+However, a court cannot dismiss an extrajudicial admission by a party without a valid reason since any statement in which a person admits to a fact that is against his interests is presumed to be true. In these conditions, it is normal that a party be bound by an admission it has made, unless it shows why the court should not believe it.
+[43] In La preuve civile, supra, we find the following comments concerning the validity of the admission at paragraph 874:
+[Translation]
+In civil cases, the admission is presumed to be free and voluntary. The person who challenges its validity must establish a cause of nullity on the balance of probabilities. Thus, civil courts accept admissions that cannot be used in criminal cases. The admission must, however, be made freely. An admission must constitute authentic recognition of a fact, not simply a way to buy peace, to avoid unfavourable publicity or other disadvantages.
+[44] The extrajudicial admission made by the appellant is probative for the purposes of this case and must be admitted in evidence given (a) the context in which it was made; (b) the evidence put forward by the appellant, which did not demonstrate why the Court should not "believe" the undercover officer's testimony; and (c) the fact that the testimony of the appellant, his spouse and his spouse's two daughters was not credible in many respects.
+Credibility of the testimony of the appellant's witnesses
+[45] I do not doubt that the appellant stayed in Drummondville between October 2005 and August 2006. The documentary evidence provided by the appellant is sufficient to establish that fact. However, the appellant has not clearly explained the reasons for his stay in Drummondville or explained whether he had set up his permanent residence in Drummondville. In addition, he did not provide any explanations as to why he had returned to live in the Gaspé Peninsula less than a year after his move to Drummondville. The exact date of the appellant's return to the Gaspé Peninsula in 2006 was not specified. The same goes for the exact date of the return to the Gaspé Peninsula of the appellant's son, who sold drugs at the Le Triangle d'Or bar when his father could not be there (see the undercover officer's notes filed as Exhibit I-2).
+[46] The appellant's testimony is not at all credible in every other respect. His statements that he had never taken drugs or drunk alcohol were contradicted by the undercover officer, who said that he had seen marijuana on the kitchen table of the appellant's residence and to whom the appellant said that he had gotten [Translation] "plastered" the day before a meeting with him. The appellant's statement that he had never visited people in trouble with the law is also false since he had acknowledged before the undercover officer that he had [Translation] "collected" for his supplier, Éric Maldemay, and that a client owed him a drug debt of $5,000 (see the undercover officer's notes filed as Exhibit I-1).
+[47] The testimony of the appellant's common law wife is not at all credible. She stated that her spouse did not drink alcohol and that she had never seen him in possession of cocaine, while, in reality, based on the undercover officer's notes, she often accompanied her spouse to the Le Triangle d'Or bar and transported drugs in her handbag. She gave her spouse the bags of drugs so that he could make transactions with his clients in the bar's washroom. This is also how the appellant sold the undercover officer one (1) half gram of cocaine on April 25, 2007.
+[48] Stéphanie Dufault's testimony cannot be accepted because in February 2007 she herself had been sentenced to eleven (11) months in prison for trafficking in cocaine and marijuana and for possession of marijuana for offences committed in 2005.
+[49] Melody Dufault's testimony also cannot be accepted because she knew very well that her spouse, the appellant's son, trafficked in cocaine. When the couple moved to the Gaspé Peninsula, they stayed with Éric Maldemay while they were looking for an apartment. In addition, the undercover officer had seen her at the Le Triangle d'Or bar together with her spouse. The appellant even told the undercover officer that his spouse and her daughter had travelled to Montréal to fetch two (2) packages (kilograms) of narcotics. Melody Dufault's home also underwent a police search at the beginning of 2007.
+Selling cocaine is a commercial activity
+[50] It is well settled in the Quebec and Canadian case law that a taxpayer is subject to tax regardless of the source of his or her income, including his or her illegal income (see Armeni c. Agence du Revenu du Québec, 2012 QCCQ 11807; Robitaille c. Québec (Sous-ministre du Revenu), 2010 QCCQ 9283; Ouellette v. The Queen, 2010 G.S.T.C. 111 (Tax Court of Canada); Everton Brown v. The Queen, 2012 TCC 251.
+[51] It is also well settled in Canadian tax law that the Minister may use alternative methods to determine a taxpayer's income when a taxpayer fails to file tax returns or keep reliable books and records that can be reviewed during the course of an audit undertaken by the Canada Revenue Agency.
+[52] As held by the case law, determining the value of cocaine by alternative audit methods is a question of fact that depends, among other things, on the level of purity of the cocaine at the time of purchase; the level of purity of the cocaine at the time of sale; the price of purchase and resale of the cocaine; and the percentage of profit made by the taxpayer taking into account the taxpayer's place in the structure of the organization, among other things. In order to determine the value of the cocaine, the tax authorities use experts' reports, expert witnesses, partial agreements on the facts and admissions made by the taxpayer. This last method was selected by the Minister in the appellant's case.
+[53] In Robitaille, supra, the Court of Québec accepted that, in 2004, the purchase price of a kilogram of cocaine was $38,000, while the sale price was at least $1,750 per ounce.
+[54] In this case, the purchase price and the sale price, as established by the appellant, were $1,450 per ounce to buy and $2,240 per ounce to sell. These prices seem reasonable to me compared with the values used in Robitaille, supra. The "cutting" of cocaine at 25% when it is being bagged seems to be standard practice in drug trafficking.
+Assessment outside the normal reassessment period and penalties
+[55] The fact that the appellant did not report his income and expenses resulting from his sale of cocaine constitutes a high degree of negligence tantamount to intentional acting and an indifference as to whether the Act is complied with or not. Accordingly, the appellant made misrepresentations of fact attributable to neglect justifying the Minister's reassessments made outside the normal reassessment period in respect of the 2005 taxation year. The appellant committed gross negligence when he filed his tax returns for the 2005 and 2006 taxation years, thus justifying the imposition of the penalty set out in subsection 163(2) of the Act.
+[56] For these reasons, the appellant's appeal from the reassessments made in respect of the taxation years at issue is dismissed with costs.
+Signed at Ottawa, Canada, this 13th day of March 2013.
+"Réal Favreau"
+Favreau J.
+Translation certified true
+on this 11th day of July 2013
+François Brunet, Revisor
+CITATION: 2013 TCC 81
+COURT FILE NO.: 2011-1370(IT)G
+STYLE OF CAUSE: BERNARD DESROCHES AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: New Carlisle, Quebec
+DATE OF HEARING: August 29 and 30, 2012
+REASONS FOR JUDGMENT BY: The Honourable Justice Réal Favreau
+DATE OF JUDGMENT: March 13, 2013
+APPEARANCES:
+For the appellant:
+The appellant himself
+Counsel for the respondent:
+Marie-France Dompierre
+COUNSEL OF RECORD:
+For the appellant:
+Name:
+Firm:
+For the respondent: William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

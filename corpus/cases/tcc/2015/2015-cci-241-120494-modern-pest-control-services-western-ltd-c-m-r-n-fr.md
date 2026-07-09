@@ -1,0 +1,555 @@
+---
+title: "Modern Pest Control Services Western Ltd. c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/120494/index.do"
+last_modified: "2015-10-13"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2015 CCI 241"
+citation2: ""
+neutral_citation: "2015 CCI 241"
+decision_date: "2015-10-13"
+language: "fr"
+item_id: "120494"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2721
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T16:21:05.404000+00:00"
+cases_cited_count: 5
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "7a7c3460e28108d8a110ed57aed98b56e0f339d162f4598e217583778aa14fbf"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Modern Pest Control Services Western Ltd. c. M.R.N.
+
+- Citation: 2015 CCI 241
+- Decision date: 2015-10-13
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2721, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Modern Pest Control Services Western Ltd. c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2015-10-13
+Référence neutre
+2015 CCI 241
+Numéro de dossier
+2014-3973(EI)
+Juges et Officiers taxateurs
+Campbell J. Miller
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2014-3973(EI)
+ENTRE :
+MODERN PEST CONTROL SERVICES WESTERN LTD.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 18 septembre 2015, à Edmonton (Alberta).
+Devant : L’honorable juge Campbell J. Miller
+Comparutions :
+Avocat de l’appelante :
+Me Chad J. Brown
+Avocat de l’intimé :
+Me E. Ian Wiebe
+JUGEMENT
+L’appel interjeté en vertu du paragraphe 103(1) de la Loi sur l’assurance-emploi est accueilli, et la cotisation est renvoyée au ministre du Revenu national, étant entendu que le travailleur, M. Jonathan Flynn, exerçait un emploi assurable.
+Signé à Ottawa, Canada, ce 13e jour d’octobre 2015.
+« Campbell J. Miller »
+Juge C. Miller
+Traduction certifiée conforme
+ce 18e jour de novembre 2015.
+S. Tasset
+Référence : 2015 CCI 241
+Date : 20151013
+Dossier : 2014-3973(EI)
+ENTRE :
+MODERN PEST CONTROL SERVICES WESTERN LTD.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge C. Miller
+[1] Comme son nom l’indique, la société Modern Pest Control Services Western Ltd. (« Modern Pest Control ») était active dans le secteur de la lutte contre les insectes et les animaux nuisibles, et elle exploitait ses activités dans le secteur ouest de Terre-Neuve-et-Labrador. Il s’agissait d’une petite entreprise exploitée, mais non possédée, par M. Todd Flynn. Elle était la propriété de l’oncle de M. Flynn, M. Don Carter, ainsi que de l’épouse de ce dernier. Modern Pest Control a embauché le frère de Todd Flynn, M. Jonathan Flynn, qui a travaillé au cours de la période en question, soit de novembre 2012 à décembre 2013. La question en litige consiste à savoir si, durant cette période, M. Jonathan Flynn a exercé un emploi assurable ou exclu aux termes des dispositions de la Loi sur l’assurance-emploi (la « Loi »).
+[2] Il est utile au départ, avant de passer les faits en revue, de reproduire les dispositions législatives applicables :
+La Loi sur l’assurance-emploi 5.(1) Sous réserve du paragraphe (2), est un emploi assurable :
+a) l’emploi exercé au Canada pour un ou plusieurs employeurs, aux termes d’un contrat de louage de services ou d’apprentissage exprès ou tacite, écrit ou verbal, que l’employé reçoive sa rémunération de l’employeur ou d’une autre personne et que la rémunération soit calculée soit au temps ou aux pièces, soit en partie au temps et en partie aux pièces, soit de toute autre manière;
+b) l’emploi du genre visé à l’alinéa a), exercé au Canada au service de Sa Majesté du chef du Canada;
+c) l’emploi à titre de membre des Forces canadiennes ou d’une force policière;
+d) un emploi prévu par règlement pris en vertu des paragraphes (4) et (5);
+e) l’emploi d’un particulier au Canada à titre de promoteur ou coordonnateur d’un projet dans le cadre d’une prestation d’emploi.
+(2) N’est pas un emploi assurable :
+[…]
+i) l’emploi dans le cadre duquel l’employeur et l’employé ont entre eux un lien de dépendance.
+(3) Pour l’application de l’alinéa (2)i) :
+a) la question de savoir si des personnes ont entre elles un lien de dépendance est déterminée conformément à la Loi de l’impôt sur le revenu;
+b) l’employeur et l’employé, lorsqu’ils sont des personnes liées au sens de cette loi, sont réputés ne pas avoir de lien de dépendance si le ministre du Revenu national est convaincu qu’il est raisonnable de conclure, compte tenu de toutes les circonstances, notamment la rétribution versée, les modalités d’emploi ainsi que la durée, la nature et l’importance du travail accompli, qu’ils auraient conclu entre eux un contrat de travail à peu près semblable s’ils n’avaient pas eu de lien de dépendance.
+La Loi de l’impôt sur le revenu 251(1) Pour l’application de la présente loi :
+a) des personnes liées sont réputées avoir entre elles un lien de dépendance;
+b) un contribuable et une fiducie personnelle (sauf une fiducie visée à l’un des alinéas a) à e.1) de la définition de « fiducie » au paragraphe 108(1)) sont réputés avoir entre eux un lien de dépendance dans le cas où le contribuable, ou une personne avec laquelle il a un tel lien, aurait un droit de bénéficiaire dans la fiducie si le paragraphe 248(25) s’appliquait compte non tenu de ses subdivisions b)(iii)(A)(II) à (IV);
+c) dans les autres cas, la question de savoir si des personnes non liées entre elles n’ont aucun lien de dépendance à un moment donné est une question de fait.
+(2) Pour l’application de la présente loi, sont des « personnes liées » ou des personnes liées entre elles :
+a) des particuliers unis par les liens du sang, du mariage, de l’union de fait ou de l’adoption;
+b) une société et :
+(i) une personne qui contrôle la société si cette dernière est contrôlée par une personne,
+(ii) une personne qui est membre d’un groupe lié qui contrôle la société,
+(iii) toute personne liée à une personne visée au sous-alinéa (i) ou (ii);
+[…]
+(6) Pour l’application de la présente loi :
+a) des personnes sont unies par les liens du sang si l’une est l’enfant ou un autre descendant de l’autre ou si l’une est le frère ou la sœur de l’autre;
+b) des personnes sont unies par les liens du mariage si l’une est mariée à l’autre ou à une personne qui est ainsi unie à l’autre par les liens du sang;
+b.1) des personnes sont unies par les liens d’une union de fait si l’une vit en union de fait avec l’autre ou avec une personne qui est unie à l’autre par les liens du sang;
+c) des personnes sont unies par les liens de l’adoption si l’une a été adoptée, en droit ou de fait, comme enfant de l’autre ou comme enfant d’une personne ainsi unie à l’autre par les liens du sang (autrement qu’en qualité de frère ou de sœur).
+[3] Il semble que l’employeur et l’employé, s’ils sont « liés », peuvent se prévaloir de l’alinéa 5(3)b) de la Loi pour se soustraire aux exclusions que prévoit le paragraphe 5(2) de la Loi et, en conséquence, remplir les conditions relatives à un emploi assurable en satisfaisant à ce que j’appellerai le critère du contrat essentiellement semblable. Cependant, s’il est conclu que, dans les faits, l’employeur et l’employé ont entre eux un lien de dépendance, l’alinéa 5(3)b) de la Loi n’entre pas en jeu et l’employé ainsi exclu ne peut pas se prévaloir du fait qu’il peut satisfaire au critère du contrat essentiellement semblable. Ainsi que l’a déclaré le juge Hershfield dans la décision Quigley Electric Ltd. c Ministre du Revenu national[1] :
+[traduction]
+29. C’est-à-dire que dans les cas où des parties ne sont pas liées mais qu’elles ont dans les faits un lien de dépendance, leur relation d’employé à employeur n’est pas assurable. La Loi semble tenir pour acquis que si les parties ont un lien de dépendance sous le régime de la LIR au moment où l’on examine la relation d’emploi, il s’ensuit que les conditions de l’emploi ne peuvent pas être celles d’une relation sans lien de dépendance, ce qui élimine le besoin de soumettre leur cas au ministre. Cela mène à un résultat inéquitable, en ce sens que des personnes liées sont susceptibles d’être réintégrées dans le régime d’assurance-emploi, alors que des personnes non liées ne le peuvent pas. Cela est au moins le cas si c’est la relation entre les parties qui fait l’objet d’un examen plutôt que le contrat d’emploi.
+30. Cette anomalie que l’on crée en se concentrant sur la relation entre les parties dans son ensemble plutôt que sur la relation d’emploi dans son ensemble est exacerbée lorsqu’on reconnaît que le critère de la relation avec lien de dépendance qui est visé à l’alinéa 251(1)b) de la LIR est vraisemblablement plus strict que le critère d’exonération visé à l’alinéa 5(3)b) de la Loi. […]
+[4] Les parties conviennent que M. Jonathan Flynn et Modern Pest Control ne sont pas liés, car cette entreprise appartient à l’oncle de M. Jonathan Flynn, mais l’intimé soutient que, dans les faits, les deux ont un lien de dépendance. Telle est la question en litige : si je conclus que Modern Pest Control et M. Jonathan Flynn ont un lien de dépendance, M. Jonathan Flynn est alors exclu d’un emploi assurable par application du paragraphe 5(2) de la Loi.
+[5] Je vais maintenant examiner les faits et suivre l’approche qu’a adoptée l’avocat de Modern Pest Control, en passant en revue les hypothèses que le ministre du Revenu national (le « ministre ») a formulées dans sa réponse, et ce, en indiquant à quels endroits M. Todd Flynn, l’unique témoin, rejette une hypothèse ou a une explication pour celle-ci.
+[traduction]
+a) L’activité commerciale de l’appelante était la fourniture de services de lutte contre les insectes et les animaux nuisibles à des clients des secteurs résidentiel et commercial.
+b) L’appelante a été constituée en société le 12 avril 1994. En fait, Modern Pest Control a été constituée en société en 1984.
+c) L’appelante exploitait son entreprise à Terre-Neuve-et-Labrador.
+d) Don Carter (« Don ») a exploité l’entreprise de l’appelante jusqu’en 2011, et il l’a ensuite transférée à Todd Flynn (« Todd »). En fait, Don Carter et son épouse sont demeurés propriétaires à 100 % de Modern Pest Control et M. Todd Flynn s’occupait simplement des activités quotidiennes, de loin toutefois.
+e) Durant la période en question :
+i. Todd a été l’unique détenteur des actions avec droit de vote de l’appelante;
+ii. Todd a été l’unique administrateur de l’appelante.
+Todd Flynn n’était pas actionnaire de Modern Pest Control.
+f) Todd résidait en Nouvelle-Écosse.
+g) Todd et le travailleur étaient frères.
+h) Don était l’oncle de Todd et du travailleur.
+i) Les heures de travail de l’appelante variaient et dépendaient des contrats obtenus ainsi que des besoins des clients.
+j) L’appelante était exploitée à l’année.
+k) La haute saison de l’appelante s’étendait de mai à octobre.
+l) Les ventes trimestrielles de l’appelante au cours de la période en question, telles qu’inscrites dans ses déclarations de TVH, étaient les suivantes :
+Trimestre terminé en
+Ventes
+Décembre 2012
+36 041 $
+Mars 2013
+38 129 $
+Juin 2013
+67 815 $
+Septembre 2013
+72 637 $
+Décembre 2013
+46 944 $
+Mars 2014
+33 868 $
+m) L’appelante a embauché le travailleur à titre de préposé aux ventes et aux services et de gestionnaire des activités. M. Todd Flynn a déclaré que Modern Pest Control était une toute petite entreprise et que le travailleur, M. Jonathan Flynn, remplissait plusieurs fonctions. Il n’y avait que deux employés, M. Jonathan Flynn et M. Dwayne Lilly, tous deux embauchés aux termes d’un contrat verbal. M. Jonathan Flynn a formé M. Lilly sur les aspects techniques de la lutte contre les insectes et les animaux nuisibles.
+n) Le travailleur résidait à Terre-Neuve-et-Labrador.
+o) L’appelante a embauché le travailleur en 2011.
+p) Le travailleur exerçait ses fonctions sur tout le territoire de Terre-Neuve-et-Labrador.
+q) Le travailleur exerçait ses fonctions aux termes d’un contrat verbal.
+r) Le travailleur et l’appelante entendaient avoir une relation d’employeur à employé, et ont convenu que le travailleur était un employé de l’appelante.
+s) Le travailleur a touché des prestations d’assurance-emploi en 2012 et en 2013.
+t) Le travailleur avait sept années d’expérience dans le secteur de la lutte contre les insectes et les animaux nuisibles.
+u) Le travailleur détenait un certificat en lutte contre les insectes et les animaux nuisibles.
+v) Les fonctions du travailleur étaient les suivantes :
+i. il s’occupait des activités quotidiennes de l’entreprise de l’appelante;
+ii. il organisait les appels de service;
+iii. il s’occupait des bons de commande et des demandes de service;
+iv. il commandait les produits chimiques et les fournitures;
+v. il entretenait et réparait les véhicules de service de l’appelante;
+vi. il ramassait le courrier;
+vii. il effectuait les dépôts bancaires;
+viii. il servait les clients de l’appelante;
+ix. il percevait les comptes en souffrance.
+w) Don a aidé à fournir des services de lutte contre les insectes et les animaux nuisibles au cours de la période en question, quand le travailleur en avait besoin.
+x) Dwayne a été embauché le 30 avril 2012 à titre de technicien en services de lutte contre les insectes et les animaux nuisibles.
+y) Dwayne n’était pas lié à l’appelante.
+z) Dwayne n’avait aucune expérience de la lutte contre les insectes et les animaux nuisibles.
+aa) Les fonctions de Dwayne consistaient notamment à fournir des services de lutte contre les insectes et les animaux nuisibles.
+bb) Dwayne entretenait à l’occasion les véhicules de service.
+cc) L’appelante a fourni les services de formation requis au travailleur et à Dwayne. Non, le travailleur était déjà formé et c’est lui qui a formé Dwayne.
+dd) Le travailleur supervisait Dwayne.
+ee) L’appelante fournissait tous les outils et tout le matériel dont le travailleur et Dwayne avaient besoin pour exercer leurs fonctions, comme les véhicules de service et les produits chimiques.
+ff) Le numéro de téléphone commercial qu’annonçait l’appelante était le 709‑632‑9554, ce qui est le même numéro que celui du téléphone du travailleur. M. Todd Flynn a déclaré que le numéro de téléphone commercial de Modern Pest Control n’était pas celui de M. Jonathan Flynn.
+gg) Le travailleur ne pouvait pas embaucher un remplaçant ou un assistant.
+hh) Le travailleur et Dwayne effectuaient chacun au moins 40 heures de travail par semaine en haute saison.
+ii) Lors de la saison hivernale :
+i. l’appelante mettait à pied le travailleur et Dwayne;
+ii. le travailleur était sur appel;
+iii. le travailleur effectuait environ dix jours de travail par mois, pour s’occuper des contrats en cours;
+iv. Dwayne ne travaillait que si le travailleur avait besoin d’aide.
+jj) Le travailleur n’avait pas besoin de la permission de l’appelante pour prendre congé, sauf s’il s’agissait d’une période prolongée. Cela ne s’appliquait qu’à la basse saison ou l’hiver.
+kk) Le travailleur et Dwayne consignaient leurs propres heures de travail.
+ll) Le travailleur et Dwayne informaient séparément l’appelante, par message texte, de leurs propres heures de travail. M. Todd Flynn a déclaré que M. Jonathan Flynn consignait ses heures de travail et celles de M. Lilly pendant toute l’année, car M. Lilly n’était pas très habile en informatique.
+mm) Dwayne informait l’appelante de ses heures de travail en temps opportun.
+nn) Le travailleur n’informait pas l’appelante de ses heures de travail en temps opportun. Selon M. Todd Flynn, cela ne s’appliquait qu’à la basse saison, où les heures de travail étaient irrégulières et M. Jonathan Flynn les laissait s’accumuler.
+oo) Le taux de rémunération du travailleur a été de 15 $ l’heure du 1er janvier 2013 au 9 juin 2013, comme il est indiqué à l’annexe B.
+pp) Le taux de rémunération du travailleur a été en général de 21 $ l’heure du 15 juin 2013 au mois de décembre 2013, comme il est indiqué à l’annexe B.
+qq) Le taux de rémunération de Dwayne a été de 21 $ l’heure, comme il est indiqué à l’annexe C.
+rr) L’appelante a fixé les taux de rémunération du travailleur et de Dwayne.
+ss) Le travailleur a offert d’être rémunéré au taux inférieur lors de la saison hivernale. Comme l’a expliqué M. Todd Flynn, son frère touchait dans le cadre de sa rémunération des primes sur les ventes et le taux inférieur qu’il touchait l’hiver avait pour but de refléter une rémunération générale équivalant à celle que M. Jonathan Flynn avait reçue d’un employeur précédent, non lié.
+tt) L’appelante a accordé au travailleur et à Dwayne une augmentation de rémunération de 1 $ l’heure au cours de la période en question.
+uu) L’appelante a payé au travailleur et à Dwayne leurs heures de travail supplémentaires, à leur taux de rémunération ordinaire.
+vv) Selon une étude du gouvernement du Canada menée auprès des banques d’emplois :
+i. la rémunération horaire des préposés à la lutte contre les insectes et les animaux nuisibles au Canada, en 2011, variait de 12,00 $ à 29,76 $ (une moyenne de 19,75 $ l’heure);
+ii. la rémunération horaire des gestionnaires de services au Canada, en 2012, variait de 13,13 $ à 43,27 $ (une moyenne de 21,94 $ l’heure).
+ww) L’appelante payait le travailleur par virement électronique ou par chèque.
+xx) L’appelante payait en général Dwayne par chèque.
+yy) L’appelante a payé le travailleur de façon irrégulière entre les mois de janvier et de juin 2013, comme il est indiqué à l’annexe A. M. Todd Flynn a déclaré que cela était dû au fait qu’en basse saison il y avait moins d’heures de travail, ce qui faisait que M. Jonathan Flynn accumulait ses heures avant qu’il vaille la peine de demander à être rémunéré.
+zz) L’appelante a généralement payé le travailleur aux deux semaines entre les mois de juillet et de décembre 2013, comme il est indiqué à l’annexe A.
+aaa) L’appelante payait Dwayne aux deux semaines, comme il est indiqué à l’annexe A.
+bbb) Le travailleur et Dwayne ont touché une indemnité de vacances au taux de 4 %.
+ccc) L’appelante a payé au travailleur deux primes à titre de commission, de 2 600 $ chacune, le 20 juin 2013 et le 15 juillet 2013, en se fondant sur les chiffres de vente.
+ddd) L’appelante a payé à l’épouse du travailleur une prime de 2 000 $ le 16 décembre 2013, pour s’être occupée des dépôts hebdomadaires et de diverses tâches au cours de 2013. M. Todd Flynn a expliqué que, comme il ne se trouvait pas à Terre-Neuve et qu’il essayait d’exploiter ses activités de loin, et que les tâches administratives n’étaient pas le point fort de M. Jonathan Flynn, c’était l’épouse de M. Jonathan Flynn qui s’était chargée de ces questions et elle avait été rémunérée pour cela.
+eee) L’appelante a payé à Dwayne une prime de Noël de 1 000 $ le 23 décembre 2013;
+fff) L’appelante a payé au travailleur une rémunération totale de 32 479,70 $ en 2013.
+ggg) L’appelante a payé à Dwayne une rémunération totale de 35 934,05 $ en 2013.
+hhh) L’appelante n’a pas offert aux travailleurs de prestations médicales ou dentaires.
+iii) Le travailleur et Dwayne se sont servis des véhicules de service de l’appelante à des fins personnelles.
+jjj) Les véhicules de service portaient le logo d’entreprise de l’appelante.
+kkk) L’appelante a considéré que l’usage que faisaient les travailleurs des véhicules était de la publicité.
+lll) Lors de la saison hivernale, le travailleur remisait les véhicules de service à son domicile, au domicile de ses parents ou au domicile de Don. M. Todd Flynn a exprimé l’avis qu’il y avait plus de chances que les véhicules se trouvent au domicile de M. Don Carter, car c’était là que l’on tenait les produits qu’employait l’entreprise.
+mmm) Le travailleur n’a pas exigé de frais à l’appelante pour le remisage des véhicules.
+nnn) Le travailleur n’a rien investi dans l’entreprise de l’appelante.
+ooo) Le travailleur n’a pas signé d’emprunt pour le compte de l’appelante.
+ppp) Le travailleur détenait un pouvoir de signature pour le compte bancaire commercial de l’appelante. M. Todd Flynn a expliqué qu’il fallait qu’un employé présent à Terre-Neuve détienne un pouvoir de signature, car lui, Todd Flynn, se trouvait en dehors de la province et avait besoin de quelqu’un sur place pour signer les documents de l’entreprise.
+qqq) Le travailleur a signé des chèques établis par l’appelante au cours de la période en question.
+rrr) Le travailleur a payé les produits chimiques destinés à l’entreprise au moyen de sa carte de crédit personnelle, de façon à pouvoir accumuler des points de voyage. M. Todd Flynn a reconnu que M. Jonathan Flynn se servait de sa carte de crédit pour des achats de l’entreprise mais, là encore, c’était parce qu’il n’était pas présent sur place. Il s’agissait d’une chose que M. Jonathan Flynn avait demandée, car cela lui permettait d’accumuler des points de voyage. M. Todd Flynn a déclaré que M. Lilly aurait pu le faire lui aussi, mais qu’il n’en avait pas tiré avantage. Un compte de retraits a été établi au nom de M. Jonathan Flynn pour régler les achats faits par carte de crédit.
+sss) Le travailleur achetait habituellement des produits chimiques pour l’entreprise de l’appelante tous les 90 à 120 jours.
+ttt) Le coût des produits chimiques variait de 2 000 $ à 5 000 $ environ.
+uuu) Le travailleur était tenu de remettre chaque mois à l’appelante tous les reçus relatifs aux achats effectués pour l’entreprise de l’appelante.
+vvv) Au cours de la période en question, l’appelante a remboursé au travailleur, sous forme de paiements forfaitaires, des sommes variant entre 3 000 $ et 8 000 $.
+www) Le travailleur arrondissait les chèques de remboursement au millier de dollars près.
+xxx) Les paiements forfaitaires que l’appelante a faits au travailleur au cours de la période en question totalisaient 84 000 $. M. Todd Flynn a expliqué qu’une bonne partie de cette somme était liée à un projet de rénovation d’un bâtiment que son frère et lui avaient acheté en vue de le revendre à profit. Il avait été conseillé aux deux frères de ne pas réaliser ce projet par l’intermédiaire de l’entreprise, mais de le faire à titre personnel. Tous les fonds prêtés par l’entreprise ont été entièrement remboursés, sans intérêts toutefois.
+yyy) L’appelante a tenu un compte de « retraits » pour le travailleur, en vue de faire le rapprochement entre les montants inscrits sur le relevé de carte de crédit du travailleur et les chèques de remboursement de l’appelante, que le travailleur signait.
+zzz) L’appelante a inscrit, dans sa déclaration d’entreprise pour l’année 2012 :
+i. des revenus bruts d’environ 230 000 $;
+ii. des dépenses totales d’environ 192 000 $;
+iii. des dépenses de fournitures d’environ 38 000 $;
+iv. des dépenses de salaire d’environ 108 000 $.
+aaaa) L’appelante a payé à Don un montant brut de 384,61 $ par semaine au cours de la période en question.
+bbbb) Le total des paiements hebdomadaires bruts que l’appelante a faits à Don en 2012 et en 2013 était de 19 999 $.
+cccc) L’appelante a payé à l’épouse de Don, Elaine Carter (« Elaine »), un montant brut de 384,61 $ par semaine au cours de la période en question.
+dddd) Le montant total des paiements hebdomadaires bruts que l’appelante a versés à Elaine en 2012 et en 2013 s’élevait à 20 000 $.
+eeee) L’appelante a généralement payé Don et Elaine par virements électroniques.
+ffff) Don a fourni des services pour l’appelante à temps partiel au cours de l’été.
+gggg) Don a fourni des services pour l’appelante pendant une période d’environ un mois.
+hhhh) L’appelante a remis deux chèques à Don au cours de l’été, en plus des paiements réguliers de 384,61 $.
+[Non souligné dans l’original.]
+[6] L’avocat de l’intimé a passé en revue de manière plus détaillée le compte interne de Modern Pest Control que détenait M. Jonathan Flynn, et il a fait remarquer que les débits et les crédits ne concordaient pas toujours exactement. Par exemple, il y avait un paiement d’une somme élevée, 31 827 $, qui, d’après l’explication de M. Todd Flynn, était un remboursement relatif au projet personnel de rénovation d’une maison que son frère et lui avaient réalisé. Les fonds empruntés à Modern Pest Control avaient été l’objet d’une entente verbale, sans qu’il soit exigé de payer des intérêts. Les frères ont finalement vendu la maison et ont réalisé quelques milliers de dollars chacun.
+[7] Comme il a été indiqué au départ, la question en litige dans le présent appel consiste à savoir s’il y avait un lien de dépendance entre M. Jonathan Flynn et Modern Pest Control. S’il y avait entre les deux un lien de dépendance, alors M. Jonathan Flynn exerçait un emploi exclu, et non un emploi assurable. La question du lien de dépendance doit être tranchée en fonction des faits, comme le prescrit l’article 251 de la Loi de l’impôt sur le revenu (la « LIR »).
+[8] L’avocat de Modern Pest Control a laissé entendre que le critère qui permet de déterminer si, d’un point de vue factuel, Modern Pest Control et M. Jonathan Flynn avaient un lien de dépendance doit être examiné dans le contexte de la relation d’emploi, et, a-t-il ajouté, le meilleur baromètre à cet égard consiste à comparer cette relation avec ce qui constitue clairement une relation sans lien de dépendance, soit, en l’occurrence, la relation entre Modern Pest Control et M. Lilly.
+[9] En revanche, l’intimé se fonde sur des indications tirées de commentaires que le juge Webb a faits dans la décision 5119235 Manitoba Inc. c M.R.N.[2], où il invoque des arrêts de la Cour d’appel fédérale :
+4. Pour l’application de la LAE, n’est pas un emploi assurable l’emploi dans le cadre duquel l’employeur et l’employé ont entre eux un lien de dépendance. L’appelante soutient que Christine Sawler n’exerçait pas auprès de la société un emploi assurable étant donné que l’appelante et Christine Sawler avaient entre elles un lien de dépendance.
+5. Dans l’arrêt Canada c. Remai, 2009 CAF 340, 2009 DTC 5188 (angl.), [2010] 2 C.T.C. 120, le juge Evans, s’exprimant au nom de la Cour d’appel fédérale, a fait les observations suivantes :
+31 Le juge a appliqué le cadre analytique qui avait été adopté dans la décision Peter Cundill & Associates Ltd. c. La Reine, [1991] 1 C.T.C. 197 (C.F. 1re inst.), conf. par [1991] 2 C.T.C. 221 (C.A.F.) (Peter Cundill) et qui avait été appliqué dans l’arrêt McLarty, aux paragraphes 64 et suivants, pour déterminer si Sweet et Frank avaient ou non un lien de dépendance lorsque la Fondation a vendu les billets à Sweet en échange d’un billet de Sweet ayant la même valeur et portant intérêt au même taux.
+32 Suivant la décision Peter Cundill, pour déterminer si une transaction a été réalisée entre des personnes « sans lien de dépendance », le tribunal doit se demander : (i) si un seul cerveau dirigeait les négociations pour les deux parties à l’opération; (ii) si les parties à l’opération agissaient de concert, sans intérêts distincts; (iii) si l’une des deux parties exerçait un contrôle effectif sur l’autre. Comme tout autre critère légal comportant plusieurs volets, il n’est pas nécessaire de satisfaire à chacun des volets dans tous les cas. Certains revêtent une importance particulière dans certains cas, alors que d’autres ont moins d’importance. De plus, les facteurs énumérés ne sont pas nécessairement exhaustifs.
+33 Sa Majesté admet que le critère exposé dans la décision Peter Cundill est le critère juridique à appliquer, mais elle ajoute que le juge a commis une erreur de droit en ne se demandant pas si « les termes des opérations […] traduisaient […] des relations commerciales ordinaires entre [des parties] agissant dans leurs propres intérêts » (la juge Sharlow, dans l’arrêt Petro-Canada c. La Reine, 2004 CAF 158, 2004 DTC 6329 [C.A.F.], au paragraphe 55).
+34 À mon avis, il ne s’agit pas là d’une erreur de droit, parce que la question de savoir si les termes d’une opération traduisent « des relations commerciales ordinaires entre des parties agissant dans leurs propres intérêts » ne constitue pas un facteur distinct du critère juridique dont on doit tenir compte pour déterminer si une opération a été conclue sans lien de dépendance. Cette expression se veut plutôt une définition utile d’une opération sans lien de dépendance que les divers éléments du cadre d’analyse de la décision Peter Cundill visent à cerner. Elle peut également aider le juge à s’interroger sur le bien-fondé de la conclusion à laquelle aboutit l’application de chacun des facteurs énoncés dans la décision Peter Cundill.
+[10] Toutefois, le juge Webb examine la question de la relation d’emploi au paragraphe 10 de sa décision et la compare à celle d’employés sans lien de dépendance au moment de traiter du facteur consistant à savoir si l’employeur et l’employée agissaient de concert, sans intérêts distincts :
+10. Le fait que les autres employés, qui n’avaient incontestablement aucun lien de dépendance avec l’appelante, étaient rémunérés selon un taux majoré de moitié pour les heures supplémentaires alors que Christine Sawler travaillait des heures supplémentaires pour 60 à 70 pour cent du temps au taux des heures normales, semble, à mon avis, mener à la conclusion selon laquelle, en toute vraisemblance, Christine Sawler et l’appelante agissaient de concert, sans intérêts distincts. Le fait que Christine Sawler travaillait un aussi grand nombre d’heures supplémentaires et qu’elle n’ait jamais soulevé la question concernant sa rémunération pour de telles heures supplémentaires alors que d’autres employés étaient rémunérés selon un taux majoré de moitié pour les heures supplémentaires indique aussi que Christine Sawler et l’appelante agissaient de concert, sans intérêts distincts. Il me semble que, si Christine Sawler et l’appelante avaient eu des intérêts distincts, alors Christine Sawler aurait soulevé cette question, étant donné que, pour 60 à 70 pour cent du temps qu’elle travaillait, elle travaillait des heures supplémentaires.
+[11] Le juge Hershfield a abordé le même sujet dans la décision citée plus tôt, Quigley Electric, et il est arrivé à la conclusion suivante :
+[traduction]
+31. J’estime donc que le fait d’appliquer de manière stricte des principes de l’impôt sur le revenu (comme l’identification d’intérêts économiques contraires) pour déterminer dans quelles circonstances des parties ont, pour l’application de la Loi, un lien de dépendance, revient à appliquer une analyse contraire au bon sens. Pour éviter ce problème, il semble nécessaire, pour l’application de la Loi, d’incorporer dans la détermination en common law du fait de savoir si des parties ont une relation sans lien de dépendance une détermination de la question de savoir si, eu égard à toutes les circonstances de l’emploi, dont la durée, la nature et l’importance des tâches exécutées, la rémunération ainsi que d’autres conditions rattachées à un tel emploi, ce dernier est soumis à des conditions essentiellement semblables à celles qu’accepteraient des parties sans lien de dépendance. Il s’agit là de la norme des relations avec lien de dépendance qui est directement tirée de la Loi, quoique dans le contexte des personnes liées. J’estime que la même norme est conçue pour s’appliquer dans le contexte des personnes non liées. L’accent devrait être mis sur la relation d’emploi dans son ensemble, et non sur la relation des parties dans son ensemble.
+32. Bien qu’une interprétation stricte de la Loi puisse ne pas donner à penser de prime abord que l’on considère sous cet angle les déterminations factuelles de relations sans lien de dépendance, cela concorde avec une approche fondée sur le bon sens à l’égard de l’application des dispositions en question ainsi qu’avec les affaires dans lesquelles il a été conclu que des employés exerçaient un emploi assurable même si leurs contrats d’emploi étaient essentiellement semblables à des contrats sans lien de dépendance, peu importe s’il y avait un tel lien entre les parties selon une détermination factuelle des relations avec lien de dépendance en vertu des principes de l’impôt sur le revenu.
+[12] La difficulté que pose l’examen du critère des intérêts économiques communs dans le contexte de l’emploi est que l’on pourrait s’attendre à ce qu’un employé et un employeur, en général, agissent dans le même sens. De plus, pour ce qui est de la question d’une partie qui exerce un contrôle de fait sur une autre, là encore, dans le contexte de l’emploi, il existe une relation de subordination et certainement un contrat de louage de services dans lequel on s’attendrait à ce que l’employeur exerce un contrôle sur l’employé. Ce ne sont pas là des facteurs particulièrement utiles si l’on examine les relations avec lien de dépendance dans le contexte de l’emploi. Je souscris donc à la démarche du juge Hershfield, qui va à l’encontre de l’effet incongru des interactions du paragraphe 5(1) et de l’alinéa 5(3)b) de la Loi, et qui traite du critère en trois volets que le juge Webb a cité dans le contexte d’une relation d’emploi. De ce fait, selon le cas :
+i. Y avait-il un seul cerveau qui dirigeait les négociations en matière d’emploi entre Modern Pest Control et M. Jonathan Flynn?
+ii. Modern Pest Control et M. Jonathan Flynn agissaient-ils de concert, sans intérêts distincts, vis-à-vis de la relation d’emploi?
+iii. Pour ce qui est du contrôle exercé, on s’attendrait à ce que, dans le cadre d’une relation d’emploi, Modern Pest Control exerce un contrôle sur l’employé. Était-ce là ce que reflétaient les rapports qu’elle entretenait avec M. Jonathan Flynn?
+[13] Je conviens avec l’avocat de Modern Pest Control qu’il n’y a pas de meilleur baromètre pour examiner ces questions que de comparer l’arrangement de travail de M. Jonathan Flynn à celui de M. Lilly, dont la relation avec Modern Pest Control était, de l’avis de tous, sans lien de dépendance. Les similitudes entre l’arrangement de travail de M. Lilly et celui de M. Jonathan Flynn sont les suivantes :
+i. en haute saison, leurs heures de travail étaient semblables;
+ii. en haute saison, les deux étaient rémunérés aux deux semaines;
+iii. les deux touchaient une rémunération équivalant à la norme de l’industrie;
+iv. les deux ont été embauchés dans le cadre d’une entente verbale;
+v. les deux pouvaient tirer avantage d’achats par carte de crédit, même si seul M. Jonathan Flynn l’a fait. Cela n’est pas surprenant, car M. Lilly était strictement un technicien préposé à la lutte contre les insectes et les animaux nuisibles, tandis que M. Jonathan Flynn s’occupait, en plus de ce travail, des ventes et agissait en fait comme le gestionnaire sur place de M. Todd Flynn et aurait donc eu plus de chances d’acquérir des fournitures en se servant d’une carte de crédit;
+vi. les deux avaient accès aux véhicules de service de Modern Pest Control et les deux pouvaient s’en servir à titre personnel.
+[14] Les différences entre les arrangements de travail de M. Lilly et de M. Jonathan Flynn sont les suivantes :
+i. En basse saison, c’est-à-dire l’hiver, M. Jonathan Flynn travaillait plus que M. Lilly; il effectuait en moyenne dix jours de travail par mois environ, tandis que M. Lilly n’était appelé qu’au besoin, pour effectuer des travaux techniques. Pendant ce temps, M. Jonathan Flynn n’était payé qu’après avoir accumulé assez d’heures de travail pour le justifier. S’il touchait un salaire horaire moins élevé, c’était parce qu’il touchait des primes sur les ventes et que l’objectif était de veiller à ce que sa rémunération globale soit à peu près équivalente à celle qu’il recevait antérieurement d’un employeur tiers. En basse saison, les arrangements de travail des deux employés étaient différents, mais cela été facilement expliqué. Cependant, l’arrangement de travail de M. Jonathan Flynn en basse saison donne-t-il à penser qu’entre Modern Pest Control et lui, il y avait une seule âme dirigeante? Non, je considère qu’il s’agissait davantage d’une négociation entre un employeur et un employé pour s’assurer de la disponibilité de ce dernier en basse saison en lui garantissant une rémunération à peu près équivalente à celle qu’il avait reçue d’un tiers. Selon moi, aucune des deux parties n’exerçait sur l’autre un contrôle qui s’écartait de la norme applicable dans une relation employeur-employé.
+ii. Contrairement à M. Lilly, M. Jonathan Flynn détenait un pouvoir de signature. M. Jonathan Flynn était, sur place, l’employé superviseur de Modern Pest Control. M. Todd Flynn, qui exploitait censément l’entreprise pour les Carter, vivait à l’extérieur de la province. Il aurait été peu pratique de ne pas avoir quelqu’un à Terre-Neuve qui aurait le pouvoir de s’occuper des achats de fournitures. Il n’y avait que deux employés, et M. Lilly ne faisait que fournir des services techniques de lutte contre les insectes et les animaux nuisibles. Il incombait donc à M. Jonathan Flynn d’exercer ces fonctions sur place, et cet arrangement était à l’avantage de Modern Pest Control. Je ne vois là rien d’extraordinaire qui dénoterait l’existence d’une relation avec lien de dépendance, mais juste une solution pratique en l’absence d’un gestionnaire.
+iii. Contrairement à M. Lilly, M. Jonathan Flynn détenait chez Modern Pest Control un compte permettant de comptabiliser les entrées et les sorties de fonds de l’entreprise. L’intimé soutient qu’il ne s’agit pas là d’une relation d’emploi commerciale ordinaire dans le cadre de laquelle chacune des parties agit dans son propre intérêt. Les entrées et les sorties de fonds ne concordaient pas, mais il semble que les chiffres se soient égalisés à la fin de la période en litige. Là encore, l’intimé laisse entendre qu’il ne s’agissait pas d’un arrangement d’emploi commercial ordinaire. Il arrivait que M. Jonathan Flynn doive de l’argent à Modern Pest Control, ou l’inverse. J’admets qu’il était avantageux d’avoir un employé à Terre-Neuve qui s’occupait des paiements nécessaires, mais je conviens avec l’intimé que cet élément particulier de l’arrangement de travail ne ressemble pas à un arrangement d’emploi commercial ordinaire. Est-ce toutefois là un signe qu’un seul cerveau dirigeait l’arrangement, ou bien qu’il y avait un arrangement négocié dont Modern Pest Control et M. Jonathan Flynn tiraient tous deux avantage? À mon avis, la situation peut être considérée sous un angle ou sous l’autre.
+iv. Il ressortait clairement d’un examen du compte interne établi au nom de M. Jonathan Flynn qu’il y avait quelques paiements d’un montant élevé qui ne semblaient pas être liés aux activités de Modern Pest Control. Ces paiements étaient destinés à couvrir les dépenses relatives au projet de rénovation d’une maison que Jonathan et Todd Flynn avaient entrepris. En fait, Modern Pest Control accordait à M. Jonathan Flynn un financement sans intérêt. L’intimé considère cela comme un employeur qui offre à un employé un financement gratuit. L’avocat de Modern Pest Control est d’avis que cela n’a rien à voir avec la relation d’emploi et que la situation n’est donc pas pertinente à l’égard de la question du lien de dépendance. Je suis d’accord avec lui.
+[15] La relation de M. Jonathan Flynn en tant que frère de l’exploitant non-propriétaire de Modern Pest Control n’a pas été évoquée par l’une ou l’autre partie comme étant un facteur dans la question de l’emploi avec lien de dépendance, et il en va autant d’un projet familial personnel financé par Modern Pest Control, qui n’entre donc pas en ligne de compte dans la question de savoir si la relation d’emploi est une relation avec lien de dépendance. Le projet personnel n’a tout simplement rien à voir avec la relation d’emploi. Que M. Jonathan Flynn ait été un employé de Modern Pest Control ou non, je conclus que cette dernière servait simplement d’outil de financement pour le projet des deux frères. Cela n’étaye pas la conclusion que M. Jonathan Flynn et Modern Pest Control avaient un lien de dépendance dans le cadre de leur relation d’emploi.
+[16] En résumé, j’évalue la situation comme suit : M. Jonathan Flynn, technicien agréé en lutte contre les insectes et les animaux nuisibles, trouve du travail chez Modern Pest Control pour fournir des services techniques et, comme son frère est absent de Terre-Neuve, il sert aussi non seulement de vendeur pour la petite entreprise, mais aussi de superviseur sur place, s’occupant des achats de fournitures et de quelques tâches administratives. Son arrangement de travail, pour ce qui est des aspects techniques, n’est pas différent de celui de M. Lilly, le seul autre employé de cette petite entreprise. Je conclus qu’il n’y a que deux éléments de l’arrangement, à savoir l’utilisation d’un compte interne pour les paiements échangés entre M. Jonathan Flynn et Modern Pest Control et le prêt sans intérêt avancé par Modern Pest Control à M. Jonathan Flynn pour le projet de rénovation personnel, qui donnent à penser à une relation avec lien de dépendance. J’écarte le second élément, car il est lié non pas à la relation d’emploi mais à un projet personnel entrepris par les deux frères, qui se sont simplement servis de Modern Pest Control comme source de financement. Pour ce qui est de l’utilisation du compte, qui pourrait dénoter l’existence d’une relation avec lien de dépendance, je conclus, tout bien considéré, que ce facteur ne suffit pas pour l’emporter sur l’ensemble des autres éléments de la relation d’emploi, qui me convainquent de l’inexistence d’une relation avec lien de dépendance. Je fais donc droit à l’appel et je renvoie l’affaire au ministre, étant entendu que M. Jonathan Flynn n’exerçait pas un emploi exclu, mais plutôt un emploi assurable.
+Signé à Ottawa, Canada, ce 13e jour d’octobre 2015.
+« Campbell J. Miller »
+Juge C. Miller
+Traduction certifiée conforme
+ce 18e jour de novembre 2015.
+S. Tasset
+ANNEXE A
+[traduction]
+Annexe A
+Rémunération brute et heures consignées pour 2013 (Jonathan et Dwayne)
+Jonathan
+Dwayne
+Date
+Paye brute
+Heures consignées
+Date
+Paye brute
+Heures consignées
+14 janvier 2013
+15 janvier 2013
+16 janvier 2103
+421,20 $
+390,00 $
+390,00 $
+27
+25
+25
+Janvier 2013
+0
+Total des heures
+77
+Total des heures
+0
+Février 2013
+0
+Février 2013
+0
+Total des heures
+160
+Total des heures
+173
+15 mars 2013
+15 mars 2013
+15 mars 2013
+15 mars 2013
+343,20 $
+343,20 $
+280,80 $
+280,80 $
+22
+22
+18
+18
+Mars 2013
+0
+Total des heures
+80
+Total des heures
+0
+Avril 2013
+0
+26 avril 2013
+1747 20 $
+80
+Total des heures
+180
+Total des heures
+80
+Mai2013
+0
+10 mai 2013
+24 mai 2013
+1747 20 $
+1747 20 $
+80
+80
+Total des heures
+0
+Total des heures
+160
+9 juin 2013
+9 juin 2013
+9 juin 2013
+9 juin 2013
+9 juin 2013
+14 juin 2013
+15 juin 2013
+28 juin 2013
+30 juin 2013
+343,20 $
+280,80 $
+249,60 $
+546,00 $
+483,60 $
+1 664,00 $
+546,00 $
+1 664,00 $
+2 600,00 $
+22
+18
+16
+35
+31
+80
+35
+80
+0
+7 juin 2013
+21 juin 2013
+1 474,20 $
+1 747,20 $
+80
+80
+Total des heures
+317
+Total des heures
+160
+12 juillet 3013
+15 juillet 2013
+26 juillet 2013
+1 747,50 $
+2 600,00 $
+2 184,00 $
+80
+0
+100
+5 juillet 2013
+19 juillet 2103
+2 184,00 $
+2 184,90 $
+100
+100
+Total des heures
+180
+Total des heures
+200
+Annexe A – suite
+Jonathan
+Dwayne
+Date
+Paye brute
+Heures consignées
+Date
+Paye brute
+Heures consignées
+9 août 2013
+23 août 2013
+1 747,20 $
+1 742,20 $
+80
+80
+2 août 2013
+16 août 2013
+30 août 2013
+2 926,56 $ 1 965,60 $ 1 965,60 $
+134
+90
+90
+Total des heures
+160
+Total des heures
+314
+6 septembre 2013
+20 septembre 2013
+1 747,20 $
+1 664,00 $
+80
+80
+12 septembre 2013 27 septembre 2013
+1 856,40 $
+1 932,91 $
+85
+88
+Total des heures
+160
+Total des heures
+173
+4 octobre 2013
+18 octobre 2013
+1 747,20 $
+1 747,20 $
+80
+80
+11 octobre 2013
+25 octobre 2013
+1 856,40 $
+1 856,40 $
+85
+85
+Total des heures
+160
+Total des heures
+173
+1er novembre 2013
+15 novembre 2013
+29 novembre 2013
+1 747,20 $
+2 184,00 $
+280,80 $
+80
+100
+inconnu
+8 novembre 2013
+22 novembre 2013
+1 965,60 $
+1 812,72 $
+90
+inconnu
+Total des heures
+180
+Total des heures
+90
+13 décembre 2013
+514,80 $
+inconnu
+6 décembre 2013
+20 décembre 2013
+23 décembre 2013
+1 943,76 $
+1 747,20 $
+1 000,00 $
+inconnu
+inconnu
+inconnu
+Total des heures
+0
+Total des heures
+0
+Total annuel
+32 479,70 $
+1 314
+Total annuel
+35 934,05 $
+1 347
+RÉFÉRENCE :
+2015 CCI 241
+No DU DOSSIER DE LA COUR :
+2014-3973(EI)
+INTITULÉ :
+MODERN PEST CONTROL SERVICES WESTERN LTD. ET LE MINISTRE DU REVENU NATIONAL
+LIEU DE L’AUDIENCE :
+Edmonton (Alberta)
+DATE DE L’AUDIENCE :
+Le 18 septembre 2015
+MOTIFS DU JUGEMENT :
+L’honorable juge Campbell J. Miller
+DATE DU JUGEMENT :
+Le 13 octobre 2015
+COMPARUTIONS :
+Avocat de l’appelante :
+Me Chad J. Brown
+Avocat de l’intimé :
+Me E. Ian Wiebe
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Chad J. Brown
+Cabinet :
+Tax Ninja / Tax Law
+Pour l’intimé :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] 2002 CarswellNat 3804.
+[2] 2011 CCI 94.

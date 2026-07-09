@@ -1,0 +1,174 @@
+---
+title: "Cutler Estate v. The King"
+source: "https://norma.lexum.com/tcc-cci/decisions/en/item/521529/index.do"
+last_modified: "2025-10-29"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2025 TCC 156"
+citation2: ""
+neutral_citation: "2025 TCC 156"
+decision_date: "2025-10-29"
+language: "en"
+item_id: "521529"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5608
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2025-11-08T09:04:00.789000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "b3649706c4e81d178d5034746d802ea9dc18c1a0e08fde9225f84450182b4baa"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Cutler Estate v. The King
+
+- Citation: 2025 TCC 156
+- Decision date: 2025-10-29
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5608, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Cutler Estate v. The King
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2025-10-29
+Neutral citation
+2025 TCC 156
+File numbers
+2025-525(IT)I
+Judges and Taxing Officers
+David E. Spiro
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2025-525(IT)I
+BETWEEN:
+ESTATE OF THE LATE WADE CUTLER,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+Appeal heard on October 21, 2025, at St. John's, Newfoundland and Labrador
+Before: The Honourable Justice David E. Spiro
+Appearances:
+Agent for the Appellant:
+Ruth McDonald
+Counsel for the Respondent:
+Chelsea Barkhouse
+JUDGMENT
+The Appellant’s appeal of the assessment for the 2021 taxation year is dismissed without costs.
+Signed this 29th day of October 2025.
+“David E. Spiro”
+Spiro J.
+Citation: 2025 TCC 156
+Date: 20251029
+Docket: 2025-525(IT)I
+BETWEEN:
+ESTATE OF THE LATE WADE CUTLER,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+REASONS FOR JUDGMENT
+Spiro J. [1] Sadly, Mr. Wade Cutler died a young man on December 4, 2021. Earlier that year, he had received benefits of $18,600 under the Canada Recovery Benefits Act. The question presented by this appeal is whether his estate – the Appellant – is required to repay those benefits (the “CRB”) as assessed by the Minister of National Revenue (the “Minister”).
+The Canada Recovery Benefits Act [2] What does the Canada Recovery Benefits Act provide? As Justice Russell succinctly noted at paragraph 2 of de Souza v The King, 2025 TCC 4, that legislation:
+… provides for several types of benefits, particularly including the CRB, to be paid to individuals in support of Canada’s economic recovery in response to Covid‑19.
+[3] Even before that legislation was introduced, the Government of Canada described in detail the purpose of the CRB, including the requirement to repay it under certain circumstances:
+The new Canada Recovery Benefit would be effective from September 27, 2020 for one year and would provide a benefit amount of $400 per week for up to 26 weeks to workers who are not eligible for EI, mainly the self‑employed and including those working in the gig economy. These individuals may still require income support if they continue to be unable to return to work due to COVID‑19 or had their income reduced relative to pre‑COVID‑19 pandemic (attestation‑based).
+The benefit would be available to residents in Canada who:
+· are at least 15 years old and have a valid Social Insurance Number (SIN)
+· have stopped working due to the COVID‑19 pandemic and are available and looking for work; or are working and have had a reduction in their employment/self‑employment income for reasons related to COVID‑19
+· are not eligible for EI
+· had employment and/or self‑employment income of at least $5,000 in 2019 or in 2020 and
+· have not quit their job voluntarily
+Workers would apply after every 2 week period for which they are seeking income support and attest that they continue to meet the requirements. In order to continue to be eligible for the benefit the claimant wound need to look for and accept work when it is reasonable to do so. The benefit is taxable.
+To encourage claimants to return to work, they would be able to earn income from employment and/or self‑employment while receiving the benefit, as long as they continue to meet the other requirements. However, to ensure that the benefit targets those who need it most, claimants would need to repay some or all of the benefit through their income tax return if their annual net income, excluding the Canada Recovery Benefit payment, is over $38,000. In other words, claimants would need to repay $0.50 of the benefit for each dollar of their annual net income above $38,000 in the calendar year to a maximum of the amount of benefit they received.
+This means that for a worker who received 10 weeks of the Canada Recovery Benefit in 2020 for a total of $4000, they would have to repay all of the benefit if their net income exceeded the threshold by $8000 (twice the benefit payment amount). In this example, the worker would have to repay the full benefit amount if their net income was greater than $46,000 (not including the Canada Recovery Benefit) in 2020.
+The Government of Canada intends to introduce legislation to support the delivery of the new recovery benefits.[1]
+[4] Both parties agreed that Mr. Cutler received a CRB of $18,600 in 2021 and that immediately before his death:
+1)he held two Registered Retirement Savings Plans (“RRSPs”);
+2)neither RRSP had matured;
+3)neither RRSP had a designated beneficiary; and
+4)the combined fair market value of his RRSPs was $74,353.
+The Crown’s Argument [5] Crown counsel, Ms. Barkhouse, argued that the Canada Recovery Benefits Act and the Income Tax Act, read together, require that the CRB of $18,600 be repaid by the Appellant, as assessed by the Minister. In relevant part, subsections 8(2) and 8(3) of the Canada Recovery Benefits Act provide:
+8(2) If a person who has received a Canada recovery benefit … has income of more than $38,000 for 2020 or for 2021, the person must repay an amount equal to 50 cents for every dollar of income earned in that year above $38,000 of income, up to the total amount of those benefits received by them in the year …
+8(2) La personne qui reçoit la prestation canadienne de relance économique ou la prestation … et dont le revenu est supérieur à 38 000 $ au cours de l’année 2020 ou 2021 est tenue de restituer cinquante cents pour chaque dollar de revenu gagné au cours de cette année au-delà de ce seuil de 38 000 $ de revenu, et ce, jusqu’à concurrence du montant total de ces prestations reçues au cours de l’année en cause …
+8(3) In subsection (2), income, in respect of a person, means the amount that would be their income for 2020 or for 2021, determined under Part I of the Income Tax Act …
+8(3) Au paragraphe (2), revenu s’entend du montant qui serait le revenu d’une personne pour l’année 2020 ou 2021, déduction faite de toute prestation reçue au titre de la présente partie, déterminé en application de la partie I de la Loi de l’impôt sur le revenu …
+[6] What is included in “income” as determined under Part I of the Income Tax Act? To answer that question in the context of our facts, we turn to subsection 146(8.8), subsection 146(8), and paragraph 56(1)(h) of the Income Tax Act. Each of those provisions is found in Part I of that Act. In relevant part, subsection 146(8.8) of the Income Tax Act provides:
+146(8.8) Where the annuitant under a registered retirement savings plan … dies …, the annuitant shall be deemed to have received, immediately before the annuitant’s death, an amount as a benefit out of or under a registered retirement savings plan equal to …
+(a) the fair market value of all the property of the plan at the time of death …
+146(8.8) Lorsque le rentier en vertu d’un régime enregistré d’épargne-retraite … meurt … il est réputé avoir reçu, immédiatement avant son décès, une somme à tire de prestation, versée dans le cadre du régime, égale à l’excédent éventuel du montant visé à …
+(a) la juste valeur marchande de tous les biens du régime au moment de son décès …
+[7] In relevant part, subsection 146(8) of the Income Tax Act provides:
+146(8) There shall be included in computing a taxpayer’s income for a taxation year the total of all amounts received by the taxpayer in the year as benefits out of or under registered retirement savings plans …
+146(8) Est inclus dans le calcul du revenu d’un contribuable pour une année d’imposition le total des montants qu’il a reçus au cours de l’année à titre de prestations dans le cadre de régimes enregistrés d’épargne-retraite …
+[8] Finally, the relevant portion of paragraph 56(1)(h) of the Income Tax Act provides:
+56(1) Without restricting the generality of section 3, there shall be included in computing the income of a taxpayer for a taxation year,
+…
+(h) amounts required by section 146 in respect of a registered retirement savings plan … to be included in computing the taxpayer’s income for the year;
+56(1) Sans préjudice de la portée générale de l’article 3, sont à inclure dans le calcul du revenu d’un contribuable pour une année d’imposition :
+…
+(h) toutes sommes relatives à un régime enregistré d’épargne-retraite … et qui doivent, en vertu de l’article 146, être incluses dans le calcul du revenu du contribuable pour l’année;
+[9] Crown counsel submitted that all these provisions, read together, require the Appellant to repay the CRB of $18,600. Why? Because the benefit of $74,353, that was deemed to have been received by the Appellant in 2021 (the fair market value of his RRSPs immediately before his death), was income to the Appellant in 2021 as determined under Part I of the Income Tax Act.
+The Appellant’s Argument [10] The Appellant focused on one phrase in subsection 8(2) of the Canada Recovery Benefits Act. In particular, the Appellant relied on the phrase “income earned” in that year (emphasis added):
+8(2) If a person who has received a Canada recovery benefit … has income of more than $38,000 for 2020 or for 2021, the person must repay an amount equal to 50 cents for every dollar of income earned in that year above $38,000 of income, up to the total amount of those benefits received by them in the year …
+8(2) La personne qui reçoit la prestation canadienne de relance économique … et dont le revenu est supérieur à 38 000 $ au cours de l’année 2020 ou 2021 est tenue de restituer cinquante cents pour chaque dollar de revenu gagné au cours de cette année au-delà de ce seuil de 38 000 $ de revenu, et ce, jusqu’à concurrence du montant total de ces prestations reçues au cours de l’année en cause …
+[11] The Appellant contended that the $74,353 deemed by subsection 146(8.8) of the Income Tax Act to have been received as a benefit by Mr. Cutler immediately before his death out of or under his RRSPs does not qualify as “income earned” in that year under subsection 8(2) of the Canada Recovery Benefits Act because that phrase suggests that Parliament must have intended such income to be limited to income from employment or self-employment – not income out of or under an RRSP.
+Analysis [12] I prefer Crown counsel’s reading of the legislation as it is more consistent with the text, context, and purpose of the relevant provisions.
+[13] Subsections 8(2) and 8(3) of the Canada Recovery Benefits Act provide that the obligation to repay the CRB – the charging provision – is engaged if a person who has received a CRB has income as determined under Part I of the Income Tax Act of more than $38,000 for 2020 or 2021 (emphasis added):
+8(2) If a person who has received a Canada recovery benefit … has income of more than $38,000 for 2020 or for 2021, the person must repay an amount equal to 50 cents for every dollar of income earned in that year above $38,000 of income, up to the total amount of those benefits received by them in the year …
+8(2) La personne qui reçoit la prestation canadienne de relance … et dont le revenu est supérieur à 38 000 $ au cours de l’année 2020 ou 2021 est tenue de restituer cinquante cents pour chaque dollar de revenu gagné au cours de cette année au-delà de ce seuil de 38 000 $ de revenu, et ce, jusqu’à concurrence du montant total de ces prestations reçues au cours de l’année en cause …
+8(3) In subsection (2), income, in respect of a person, means the amount that would be their income for 2020 or for 2021, determined under Part I of the Income Tax Act …
+8(3) Au paragraphe (2), revenu s’entend du montant qui serait le revenu d’une personne pour l’année 2020 ou 2021, déduction faite de toute prestation reçue au titre de la présente partie, déterminé en application de la partie I de la Loi de l’impôt sur le revenu …
+[14] If an amount received in 2020 or 2021 is income as determined under Part I of the Income Tax Act, it counts – without restriction – as income for purposes of the repayment provisions of the Canada Recovery Benefits Act. This would, of course, include a benefit deemed to have been received by an annuitant immediately before death equal to the fair market value of their unmatured RRSPs under which there were no designated beneficiaries.
+[15] The phrase “income earned” in subsection 8(2) of the Canada Recovery Benefits Act necessarily refers to income as determined under Part I of the Income Tax Act. It does not have the restrictive effect suggested by the Appellant. Had Parliament wished to further limit the type of income that would trigger repayment of the CRB, beyond income as determined under Part I of the Income Tax Act, it would have said so explicitly.
+Conclusion [16] For the reasons set out above, the Appellant is required to repay the CRB of $18,600 as assessed by the Minister. The appeal will, therefore, be dismissed without costs.
+Signed this 29th day of October 2025.
+“David E. Spiro”
+Spiro J.
+CITATION:
+2025 TCC 156
+COURT FILE NO.:
+2025-525(IT)I
+STYLE OF CAUSE:
+ESTATE OF THE LATE WADE CUTLER AND HIS MAJESTY THE KING
+PLACE OF HEARING:
+St. John's, Newfoundland and Labrador
+DATE OF HEARING:
+October 21, 2025
+REASONS FOR JUDGMENT BY:
+The Honourable Justice David E. Spiro
+DATE OF JUDGMENT:
+October 29, 2025
+APPEARANCES:
+Agent for the Appellant:
+Ruth McDonald
+Counsel for the Respondent:
+Chelsea Barkhouse
+Counsel for the Appellant:
+Name:
+N/A
+Firm:
+N/A
+For the Respondent:
+Shalene Curtis-Micallef Deputy Attorney General of Canada Ottawa, Canada
+1 Employment and Social Development Canada, Supporting Canadians through the next phase of the economy re-opening: Increased access to EI and recovery benefits, Backgrounder, (Government of Canada: August 28, 2020) < https://www.canada.ca/en/employment-social-development/news/2020/08/supporting-canadians-through-the-next-phase-of-the-economy-re-opening-increased-access-to-ei-and-recovery-benefits.html>.

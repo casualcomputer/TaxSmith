@@ -1,0 +1,94 @@
+Title: Comme Corporation v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/316313/index.do
+Corpus path: corpus/cases/tcc/2018/2018-tcc-140-316313-comme-corporation-v-the-queen-en.md
+Document type: case_law
+Last modified: 2018-07-16
+
+# Comme Corporation v. The Queen
+
+- Citation: 2018 TCC 140
+- Decision date: 2018-07-16
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4956, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Comme Corporation v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2018-07-16
+Neutral citation
+2018 TCC 140
+File numbers
+2018-1186(GST)APP
+Judges and Taxing Officers
+Gaston Jorré
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Citation: 2018 TCC 140
+Date: 20180716
+Docket: 2018-1186(GST)APP
+BETWEEN:
+COMME CORPORATION,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+ORDER AND REASONS FOR ORDER
+Jorré D.J.
+[1] The Applicant, a corporation, has filed a motion seeking an order allowing Syed Naqvi to represent it “for the appeal” to be heard by this Court. The Applicant asks that the motion be dealt with in writing.
+[2] The Respondent wrote to the Court and stated that it did not oppose the motion.
+[3] At this point there is only a time extension application before the Court in respect of the HST for the period from January 5, 2010 to December 31, 2010. The proposed notice of appeal included with the application for a time extension is to be filed under the general procedure of this Court.
+[4] If this motion is in respect of the time extension application, then it must be dismissed as unnecessary for the following reasons.
+[5] The Tax Court of Canada Act provides that certain aspects of the informal procedure apply to employment insurance appeals and Canada Pension Plan appeals as well as to certain time extensions.
+[6] This is set out in section 18.29 of the Act:
+18.29(1) The provisions of sections 18.14 and 18.15, other than the reference to filing fees, subsection 18.18(1), section 18.19, subsection 18.22(3) and sections 18.23 and 18.24 apply, with any modifications that the circumstances require, in respect of appeals arising under
+. . .
+(3) The provisions referred to in subsection (1) also apply, with any modifications that the circumstances require, in respect of applications for
+(a) an extension of time under
+. . .
+(vi) section 304 or 305 of the Excise Tax Act,
+(vii) section 166.2 or 167 of the Income Tax Act, or
+. . .
+[Emphasis added.]
+[7] Section 18.14 of the Act sets out that a party may be represented by an agent:
+All parties to an appeal referred to in section 18 may appear in person or may be represented by counsel or an agent.
+[8] If, on the other hand, it is an application to allow Mr. Naqvi to represent the corporation at the hearing of an appeal, it is premature since, at this point in time, there is no appeal before the Court. There will only be an appeal if the application to extend the time to file a notice of appeal is successful.
+[9] However, I see no reason why the motion could not be dealt with at the same time as the hearing of the application for the time extension since, sequentially, it could be dealt with immediately after the time extension, if the Court grants the time extension. [1]
+[10] Accordingly, it is ordered that this motion be dealt with at the same time as the application to extend the time is heard. If it becomes unnecessary to have a hearing of the application, the parties shall communicate with the registry in order to seek direction as to the next steps in respect of this motion. [2]
+Signed at Ottawa, Ontario, this 16th day of July 2018.
+“Gaston Jorré”
+Jorré D.J.
+CITATION:
+2018 TCC 140
+COURT FILE NO.:
+2018-1186(GST)APP
+STYLE OF CAUSE:
+COMME CORPORATION v. THE QUEEN
+APPLICANT’S MOTION AND AFFIDAVIT FILED ON:
+June 18, 2018
+RESPONDENT’S SUBMISSIONS DATED:
+July 3 and 6, 2018
+REASONS FOR ORDER BY:
+The Honourable Gaston Jorré, Deputy Judge
+DATE OF ORDER:
+July 16, 2018
+REPRESENTATIVES:
+Agent for the Applicant:
+Syed Naqvi
+Counsel for the Respondent:
+Sébastien Budd
+COUNSEL OF RECORD:
+For the Applicant:
+Name:
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Ontario
+[1] As was done in Suchocki Accounting Ltd. v. The Queen, 2018 TCC 88.
+[2] The parties may wish to read the following decisions: Masa Sushi Japanese Restaurant Inc. v. The Queen, 2017 TCC 239, Suchocki Accounting Ltd. v. The Queen, 2018 TCC 88 (under appeal), Masa Sushi Japanese Restaurant Inc. v. The Queen, 2018 TCC 98, BCS Group Business Services Inc. v. The Queen, 2018 TCC 120 (under appeal).

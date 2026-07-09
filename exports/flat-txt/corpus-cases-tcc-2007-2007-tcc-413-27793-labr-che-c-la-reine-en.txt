@@ -1,0 +1,136 @@
+Title: Labrèche c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27793/index.do
+Corpus path: corpus/cases/tcc/2007/2007-tcc-413-27793-labr-che-c-la-reine-en.md
+Document type: case_law
+Last modified: 2007-07-18
+
+# Labrèche c. La Reine
+
+- Citation: 2007 TCC 413
+- Decision date: 2007-07-18
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 272, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Labrèche c. La Reine
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-07-18
+Neutral citation
+2007 TCC 413
+File numbers
+2007-196(IT)I
+Judges and Taxing Officers
+Lucie Lamarre
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2007-196(IT)I
+BETWEEN:
+MARLYNE LABRÈCHE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeals heard on common evidence with the appeals of
+Yvon Labrèche (2007‑198(IT)I) on July 5, 2007, at Montréal, Quebec.
+Before: The Honourable Justice Lucie Lamarre
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Nancy Dagenais
+____________________________________________________________________
+JUDGMENT
+The appeals from the assessments made under the Income Tax Act for the 2003 and 2004 taxation years are dismissed.
+Signed at Ottawa, Canada, this 18th day of July 2007.
+"Lucie Lamarre"
+Lamarre J.
+Translation certified true
+on this 15th day of August 2007.
+Brian McCordick, Translator
+Docket: 2007-198(IT)I
+BETWEEN:
+YVON LABRÈCHE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeals heard on common evidence with the appeals of
+Marlyne Labrèche (2007‑196(IT)I) on July 5, 2007, at Montréal, Quebec.
+Before: The Honourable Justice Lucie Lamarre
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Nancy Dagenais
+____________________________________________________________________
+JUDGMENT
+The appeals from the assessments made under the Income Tax Act for the 2003 and 2004 taxation years are dismissed.
+Signed at Ottawa, Canada, this 18th day of July 2007.
+"Lucie Lamarre"
+Lamarre J.
+Translation certified true
+on this 15th day of August 2007.
+Brian McCordick, Translator
+Citation: 2007TCC413
+Date: 20070718
+Dockets: 2007-196(IT)I
+2007-198(IT)I
+BETWEEN:
+MARLYNE LABRÈCHE,
+YVON LABRÈCHE,
+Appellants,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Lamarre J.
+[1] In December 2002, the Appellants purchased a duplex from Marlyne Labrèche's brother for $70,000. The value of the property at the time, as assessed by the municipality, was $87,900. At the time of the purchase, the Appellants had lived in the lower unit for three years and were aware of the problems that water caused to the flooring.
+[2] Following the purchase, the Appellants moved to the upper unit and spent six months renovating the lower unit. There were cracks in the foundation and there was mold in the walls. The sump pump was not operational because the slope under the floor was in the wrong direction. In place of the existing foundation of stone and cement, the Appellants poured a new foundation using a cement-only base.
+[3] The slope underneath the floor was redone in the correct direction to make the sump pump operate. All the cracks were repaired, and a new laminate floor was installed. Since the ceiling was crooked, beams were added. The bathroom and kitchen were renovated. A washer and dryer were purchased for the exclusive use of the lower unit, and a central vacuum cleaner was installed for the use of both units.
+[4] The Appellants said that they had no choice but to renovate the lower unit so that they could derive rental income from it. They said that they used basic materials, not high-quality materials.
+[5] In July 2003, they rented the lower unit to their son for $300 per month. In 2003, they claimed a total of $22,672.77, including $18,333.38 in maintenance and repair expenses related to the lower unit, and in 2004, they claimed a total of $12,186.26 for both units, half of which sum they considered the personal portion.
+[6] In 2003, the Minister of National Revenue ("the Minister") considered the amount of $18,333.38 as capital expenditures, not current expenditures. The Minister also considered an amount of $2,339.56, included in the expenses claimed in 2004, to be a capital expense incurred in 2003. This latter amount represents the cost of the washer and dryer plus 50% of the cost of the central vacuum.
+[7] In 2004, of the $12,186.26 claimed, apart from the amount of $2,723.75 related to the washer, dryer and central vacuum, which was considered in 2003, the Minister disallowed an amount of $1,151.57 because it was not supported by vouchers, and an amount of $654.42 because it consisted of personal expenses. He allowed an amount of $1,407.59 as current expenses, 50% of which were deductible from the rental income. The balance of $6,248.93 was considered to be of a capital nature.
+[8] The Appellants are only disputing the amounts that the Minister considered to be capital expenditures. In their submission, the work on the lower unit consisted of repairs to restore the unit to a good condition so that it could be rented. They feel that they did not use better materials than the ones that were in place previously.
+[9] Current expenditures are distinguished from capital expenditures by analyzing the purpose of the outlay (see Bowland v. Canada, [1999] T.C.J. No. 588 (QL), affirmed by the Federal Court of Appeal, [2001] F.C.J. No. 839 (QL)). An expense is of a capital nature if it is a permanent improvement to the building rather than a simple repair, or if the expense gives rise to an enduring benefit as opposed to being a recurring expenditure. Another factor is the cost of the expenditure relative to the cost of the asset.
+[10] In my opinion, by redoing the foundation in cement only (when it was previously stone and cement), by completely redoing the walls, bathroom and kitchen, and by adding beams to the ceiling, the Appellants considerably and permanently improved the lower unit.
+[11] This will not be recurring work. Moreover, the amount of the expenses that the Respondent considered to be of a capital nature in 2003 and 2004 is $26,921.87 ($18,333.38 + $2,339.56 + $6,248.93), that is, 38% of the $70,000 purchase price. This is a significant percentage of the purchase cost, another indication that the expenditures were of a capital, not current, nature. I would add that, in Haddon Hall Realty Inc., 62 DTC 1001, cited by Rip A.C.J. in Di Fruscia v. Canada, 2007 TCC 310, at paragraph 8, the Supreme Court of Canada held that "the acquisition of stoves and refrigerators were not repairs but replacements and thus capital outlays." Here, just as I find that the other expenditures to renovate the lower unit were not repairs but replacements, and thus capital outlays, so too were the expenditures for the purchase of the washer, dryer and central vacuum cleaner.
+[12] Moreover, as suggested by the Federal Court of Appeal in Fiore v. Canada, [1993] F.C.J. No. 249 (QL), "[w]here, as in the instant case, property is bought for a price . . . below its ordinary capital value at the time of the purchase . . . and the expenses are necessary because of the condition of the buildings and are incurred to restore them to their ordinary value, we consider that those expenses are capital in nature." In my opinion, the instant case is the same. The Appellants purchased a property valuated at $87,900 for $70,000, and invested just over $25,000 in it. As the Federal Court of Appeal stated in Fiore, this work considerably exceeded that of maintenance and repair done to preserve a capital asset, and in fact, constituted a significant improvement to that asset.
+[13] The appeals are dismissed.
+Signed at Ottawa, Canada, this 18th day of July 2007.
+"Lucie Lamarre"
+Lamarre J.
+Translation certified true
+on this 15th day of August 2007.
+Brian McCordick, Translator
+CITATION: 2007TCC413
+COURT FILE NOS.: 2007-196(IT)I and 2007-198(IT)I
+STYLES OF CAUSE: MARLYNE LABRÈCHE v. HER MAJESTY THE QUEEN and YVON LABRÈCHE v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Montréal, Quebec
+DATE OF HEARING: July 5, 2007
+REASONS FOR JUDGMENT BY: The Honourable Justice Lucie Lamarre
+DATE OF JUDGMENT: July 18, 2007
+APPEARANCES:
+For the Appellants:
+The Appellants themselves
+Counsel for the Respondents:
+Nancy Dagenais
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

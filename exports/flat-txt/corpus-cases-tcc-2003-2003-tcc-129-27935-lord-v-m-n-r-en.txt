@@ -1,0 +1,167 @@
+Title: Lord v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27935/index.do
+Corpus path: corpus/cases/tcc/2003/2003-tcc-129-27935-lord-v-m-n-r-en.md
+Document type: case_law
+Last modified: 2003-03-31
+
+# Lord v. M.N.R.
+
+- Citation: 2003 TCC 129
+- Decision date: 2003-03-31
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1718, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Lord v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-03-31
+Neutral citation
+2003 TCC 129
+File numbers
+2001-3846(EI)
+Judges and Taxing Officers
+Sylvio J. Savoie
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2001-3846(EI)
+BETWEEN:
+CAROLE LORD,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeal of Robert Sénéchal Ltée (2001‑3845(EI)), on November 1, 2002, at Matane, Quebec
+Before: the Honourable Judge S.J. Savoie
+Appearances
+Counsel for the Appellant:
+Me Éric Monfette
+Counsel for the Respondent:
+Me Marie-Claude Landry
+____________________________________________________________________
+[OFFICIAL ENGLISH TRANSLATION]
+JUDGMENT
+The appeal is dismissed and the Minister’s decision is confirmed in accordance with the attached Reasons for Judgment.
+Signed at Grand-Barachois, New Brunswick, this 31st day of March 2003.
+“S.J. Savoie”
+D.J.T.C.C.
+Translation certified true
+on this 30th day of January 2004.
+Leslie Harrar, Translator
+Docket: 2001-3845(EI)
+BETWEEN:
+ROBERT SÉNÉCHAL LTÉE,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeal of Carol Lord (2001‑3846(EI)), on November 1, 2002, at Matane, Quebec
+Before: The Honourable Judge S.J. Savoie
+Appearances
+Counsel for the Appellant:
+Éric Monfette
+Counsel for the Respondent:
+Marie-Claude Landry
+____________________________________________________________________
+[OFFICIAL ENGLISH TRANSLATION]
+JUDGMENT
+The appeal is dismissed and the Minister’s decision is confirmed in accordance with the attached Reasons for Judgment.
+Signed at Grand-Barachois, New Brunswick, this 31st day of March 2003.
+“S.J. Savoie”
+D.J.T.C.C.
+Translation certified true
+on this 22nd day of March 2004.
+Sophie Debbané, Revisor
+Citation: 2003TCC129
+Date: 20030331
+Docket: 2001-3846(EI)
+BETWEEN:
+CAROLE LORD,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+AND
+Docket: 2001-3845(EI)
+ROBERT SÉNÉCHAL LTÉE,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Deputy Judge Savoie, T.C.C.
+[1] These appeals were heard at Matane, Quebec, on November 1, 2002.
+[2] The appeals concern the insurability of the employment of the appellant, Carole Lord, when she was employed with Robert Sénéchal Ltée, the payer, during the period at issue, namely, from March 28, 1999, to February 10, 2001.
+[3] On July 17, 2001, the Minister of National Revenue (the “Minister”) informed the appellant and the payer of his decision according to which the employment was not insurable on the ground that a similar contract of employment would not have been entered into if the parties had been dealing at arm’s length.
+[4] In reaching his decision, the Minister relied on the following assumptions of fact:
+[Translation]
+(a) the payer has been incorporated since 1959;
+(b) the two shareholders of the payer are Denis Sénéchal and Robert Sénéchal;
+(c) the appellant is the spouse of Denis Sénéchal, and Denis Sénéchal is the son of Robert Sénéchal;
+(d) the payer operated a notions business with one store in Baie‑Comeau and one store in Rimouski;
+(e) the business had a turnover of approximately $2M a year and employed some twenty people;
+(f) the business was operated throughout the year;
+(g) the busiest months are October, November, December and April, May and June.
+(h) the appellant was hired as a manager;
+(i) the appellant’s duties consisted of handling the marketing and inventories;
+(j) from April 1992 to February 1999, the appellant was a manager in the Baie‑Comeau store;
+(k) the appellant received a fixed remuneration of $1,040 every two weeks;
+(l) in February 1999, the payer abolished the appellant’s position and restructured his operations;
+(m) in February 1999, the payer entrusted the duties of managing the Baie‑Comeau store to Reine Tremblay and Nicole Gagnon;
+(n) on February 16, 1999, the payer issued a record of employment to the appellant for the period from January 1, 1992, to February 13, 1999, which indicated 2,080 insurable hours and a total insurable remuneration of $15,246.40 for the final 27 weeks;
+(o) after her layoff, in February 1999, the appellant continued to provide services to the payer;
+(p) the appellant handled merchandize returns at the Rimouski store for 5 to 6 hours a week;
+(q) the appellant received a weekly income of $75;
+(r) beginning in September 1999, the appellant was a manager at the Rimouski store;
+(s) the appellant worked 40 hours and more a week while continuing to receive remuneration of $75 a week;
+(t) the appellant’s salary was unreasonable considering the hours worked;
+(u) on May 3, 2001, in her signed statutory declaration, the appellant admitted that she had worked 40-hour weeks in October, November and December 1999 and in January 2000 for the payer;
+(v) the appellant provided services to the payer with the hours actually worked being recorded in the payroll journal of the payer;
+(w) the hours allegedly worked by the appellant did not correspond to the hours actually worked;
+(x) on February 12, 2001, the payer issued a record of employment to the appellant for the period from January 31, 2000, to February 10, 2001, which indicated 2,120 insurable hours and a total insurable remuneration of 15,120.00 for the final 27 weeks;
+(y) the payer and the appellant entered into an arrangement to allow the appellant to receive employment insurance benefits while continuing to provide services to the payer.
+[5] The appellant admitted the Minister’s assumptions set out in subparagraphs (a) to (g), (j) to (l), (n), (p), (q) and (x). She denied those set out in subparagraphs (r) to (w) and (y) and wanted to add some clarifications to those set out in subparagraphs (h), (i), (m) and (o).
+[6] The evidence disclosed that the appellant was the managing director at one of the payer’s stores, in Baie‑Comeau, until February 1999 when the payer abolished her position and restructured his operations by entrusting some of her former duties to Reine Tremblay and Nicole Gagnon. They continued to receive their usual hourly salary of $8.50 and $8 respectively, while the appellant, for the same work, had previously been remunerated at $13.50 an hour. As managing director, the appellant was paid $520 a week for 40 hours’ work even though she really worked at least 60.
+[7] After her layoff in February 1999, the appellant continued to provide services to the payer, at the Rimouski store, by handling the return of merchandize to the suppliers. She worked 6 to 7 hours a week for $75. She did not report those earnings during the weeks from March 28 to April 25, 1999.
+[8] The appellant admitted in a statutory declaration that she had worked full time for the payer from September 1999 to January 2000 for $75 a week and that she had reported these earnings as she had done for the period from March to September 1999, that is, 5 to 6 hours a week. She acknowledged that she had made a false declaration in that respect as well.
+[9] The appellant added that she willingly worked for no pay because it was impossible for her to stay at home; she was [Translation] “devoted to her work” and had to work there.
+[10] Earlier in 2000, the appellant became the full-time associate manager, thereby replacing Alcide Perreault who was getting on in years and had been reassigned to less demanding duties. She received a salary of $500 a week for 40 hours’ work, but she worked well over 60 hours a week.
+[11] According to the Minister, the payer and the appellant would not have entered into a similar contract of employment if they had been dealing with each other at arm’s length. Therefore, in making his determination he exercised his discretion under paragraph 5(3)(b) of the Employment Insurance Act, when analysing the circumstances, including the remuneration paid, the terms and conditions, the duration and the nature and importance of the appellant’s work.
+[12] Because of these appeals, it falls to this Court to examine whether the Minister exercised his discretion under this paragraph in accordance with the law.
+[13] In examining all of the circumstances surrounding the appellant’s employment during the period at issue, this Court is forced to conclude, as the Minister did, that an unrelated worker would not have agreed to work for the payer, as she had done, without pay. The appellant’s statement that she would have done the same for any other employer because she “was devoted to her work” and found it impossible to stay at home is very laudable but does not alter the facts and does not convince this Court that the Minister was wrong to conclude as he did.
+[14] It was clearly demonstrated that the compensation paid to the appellant was inconsistent with the work actually performed.
+[15] The evidence established, moreover, that if the payer exercised control over the appellant, it was control or supervision at a distance because of the numerous absences of Denis Sénéchal, her husband and the sole director of the payer.
+[16] It has been shown that the appellant set her own work schedule, and she acknowledged that she had worked a number of hours without pay for the payer while a claimant under the employment insurance plan. The effect of this was to benefit the payer whose business benefited from the employment insurance plan.
+[17] The appellant worked all year long for the payer, both part time and full time. She never severed the employment relationship between her and the payer. The payer never denied that she had continued to provide certain services during her periods of unemployment.
+[18] The appellant asks this Court to vacate the Minister’s decision. The Court’s jurisdiction and role in a case like this were described by the Federal Court of Appeal in Attorney General of Canada v. Jencan Ltd. [1998] 1 F.C. 187. This oft-cited case represents the state of the law in this area. At paragraph 29 of this case, Isaac, J.A. posed the question in the following manner:
+... The critical issue in this application for judicial review is whether the Deputy Tax Court Judge erred in law in interfering with the discretionary determination made by the Minister under subparagraph 3(2)(c)(ii). This provision gives the Minister the discretionary authority to deem "related persons" to be at arm's length for the purposes of the UI Act where the Minister is of the view that the related persons would have entered into a substantially similar contract of service if they had been at arm's length.
+[19] Continuing his analysis, Isaac, C.J. stated:
+The decision of this Court in Tignish, supra, requires that the Tax Court undertake a two-stage inquiry when hearing an appeal from a determination by the Minister under subparagraph 3(2)(c)(ii). At the first stage, the Tax Court must confine the analysis to a determination of the legality of the Minister's decision. If, and only if, the Tax Court finds that one of the grounds for interference are established can it then consider the merits of the Minister's decision. As will be more fully developed below, it is by restricting the threshold inquiry that the Minister is granted judicial deference by the Tax Court when his discretionary determinations under subparagraph 3(2)(c)(ii) are reviewed on appeal. Desjardins J.A., speaking for this Court in Tignish, supra, described the Tax Court's circumscribed jurisdiction at the first stage of the inquiry as follows:
+Subsection 7(1) of the Act provides that the Tax Court has authority to decide questions of fact and law. The applicant, who is the party appealing the determination of the Minister, has the burden of proving its case and is entitled to bring new evidence to contradict the facts relied on by the Minister. The respondent submits, however, that since the present determination is a discretionary one, the jurisdiction of the Tax Court is strictly circumscribed. The Minister is the only one who can satisfy himself, having regard to all the circumstances of the employment, including the remuneration paid, the terms and conditions and importance of the work performed, that the applicant and its employee are to be deemed to deal with each other at arm's length. Under the authority of Minister of National Revenue v. Wrights' Canadian Ropes Ltd., contends the respondent, unless the Minister has not had regard to all the circumstances of the employment (as required by subparagraph 3(2)(c)(ii) of the Act), has considered irrelevant factors, or has acted in contravention of some principle of law, the court may not interfere. Moreover, the court is entitled to examine the facts which are shown by evidence to have been before the Minister when he reached his conclusion so as to determine if these facts are proven. But if there is sufficient material to support the Minister's conclusion, the court is not at liberty to overrule it merely because it would have come to a different conclusion. If, however, those facts are, in the opinion of the court, insufficient in law to support the conclusion arrived at by the Minister, his determination cannot stand and the court is justified in intervening.
+[20] Décary, J.A. for the Federal Court of Appeal expressed similar views in Ferme Émile Richard et Fils Inc. v. Minister of National Revenue et al. (178 N.R. 361).
+[21] At paragraph 33 of Jencan supra, Isaac, C.J. continued his review and stated:
+...The jurisdiction of the Tax Court to review a determination by the Minister under subparagraph 3(2)(c)(ii) is circumscribed because Parliament, by the language of this provision, clearly intended to confer upon the Minister a discretionary power to make these decisions…
+[22] Isaac, C.J., at paragraph 37 of Jencan, describes this Court’s power in similar circumstances as follows:
+On the basis of the foregoing, the Deputy Tax Court Judge was justified in interfering with the Minister's determination under subparagraph 3(2)(c)(ii) only if it was established that the Minister exercised his discretion in a manner that was contrary to law. And, as I already said, there are specific grounds for interference implied by the requirement to exercise a discretion judicially. The Tax Court is justified in interfering with the Minister's determination under subparagraph 3(2)(c)(ii)-by proceeding to review the merits of the Minister's determination-where it is established that the Minister: (i) acted in bad faith or for an improper purpose or motive; (ii) failed to take into account all of the relevant circumstances, as expressly required by paragraph 3(2)(c)(ii); or (iii) took into account an irrelevant factor.
+[23] It must be recognized that this Court is bound under the doctrine of stare decisis by the authority of the Federal Court of Appeal. Jencan makes it clear that
+... the jurisdiction of the Tax Court is strictly circumscribed. The Minister is the only one who can satisfy himself, having regard to all the circumstances of the employment, including the remuneration paid, the terms and conditions and importance of the work performed, that the applicant and its employee are to be deemed to deal with each other at arm's length. Under the authority of Minister of National Revenue v. Wrights' Canadian Ropes Ltd., contends the respondent, unless the Minister has not had regard to all the circumstances of the employment (as required by subparagraph 3(2)(c)(ii) of the Act), has considered irrelevant factors, or has acted in contravention of some principle of law, the court may not interfere...
+[24] Having regard to the above, specifically the evidence gathered, the appellant’s admissions, the unrefuted assumptions of fact of the Minister, the contradictions between the evidence at the hearing and the earlier declarations, this Court does not see that its intervention is warranted.
+[25] Furthermore, this Court is of the opinion that the Minister, in the exercise of his discretion under subsections 5(3) and 93(3) of the Employment Insurance Act met the requirements of the Act by having regard to all the circumstances of the appellant’s employment, as laid down in Jencan, supra.
+[26] The onus was on the appellant to prove her case and she was entitled to adduce new evidence to contradict the facts relied on by the Minister to justify his decision; she did not do so.
+[27] This Court must therefore conclude that, taking all the circumstances into account, it was reasonable for the Minister to decide that the appellant and the payer would not have entered into a substantially similar contract had they been dealing with each other at arm’s length within the meaning of paragraph 5(3)(b) of the Employment Insurance Act.
+[28] Consequently, the appeals are dismissed and the Minister’s decision is confirmed.
+Signed at Grand-Barachois, New Brunswick, this 31st day of March 2003.
+“S.J. Savoie”
+D.J.T.C.C.
+Translation certified true
+on this 30th day of January 2004.
+Leslie Harrar, Translator

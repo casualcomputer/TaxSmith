@@ -1,0 +1,259 @@
+Title: Ambs c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/482832/index.do
+Corpus path: corpus/cases/tcc/2020/2020-cci-62-482832-ambs-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2020-07-20
+
+# Ambs c. La Reine
+
+- Citation: 2020 CCI 62
+- Decision date: 2020-07-20
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4593, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Ambs c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2020-07-20
+Référence neutre
+2020 CCI 62
+Numéro de dossier
+2016-1015(GST)I, 2016-1016(GST)I, 2016-1022(IT)G, 2016-1023(IT)G
+Juges et Officiers taxateurs
+Don R. Sommerfeldt
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2016-1015(GST)I
+ENTRE :
+JAMES DEAN AMBS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2016-1016(GST)I
+ENTRE :
+ROBERT ALBERT AMBS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2016-1022(IT)G
+ENTRE :
+ROBERT ALBERT AMBS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2016-1023(IT)G
+ENTRE :
+JAMES DEAN AMBS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appels entendus le 11 avril 2019 à Thunder Bay (Ontario)
+Devant : L’honorable juge Don R. Sommerfeldt
+Comparutions :
+Avocat des appelants :
+Me Brian R. MacIvor
+Anthony Russo (étudiant en droit)
+Avocate de l’intimée :
+Me Élise Rivest
+JUGEMENT
+Les appels sont rejetés. L’intimée a droit à des dépens si elle le désire et si elle présente une demande écrite en ce sens dans les 30 jours suivant la date du présent jugement; les appelants disposeront ensuite d’un délai supplémentaire de 30 jours pour présenter des observations écrites relativement à la demande de la Couronne.
+Signé à Edmonton (Alberta), ce 20e jour de juillet 2020.
+« Don R. Sommerfeldt »
+Le juge Sommerfeldt
+Référence : 2020 CCI 62
+Date : 20200720
+Dossier : 2016-1015(GST)I
+ENTRE :
+JAMES DEAN AMBS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2016-1016(GST)I
+ENTRE :
+ROBERT ALBERT AMBS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2016-1022(IT)G
+ENTRE :
+ROBERT ALBERT AMBS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2016-1023(IT)G
+ENTRE :
+JAMES DEAN AMBS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Sommerfeldt
+I. INTRODUCTION
+[1] Les présents motifs concernent les appels interjetés par James Dean Ambs et Robert Albert Ambs relativement aux avis de cotisation qui leur ont été délivrés par l’Agence du revenu du Canada (l’Agence), au nom du ministre du Revenu national (le ministre). Les cotisations (les cotisations) indiquées sur les avis de cotisation ont été établies en application du paragraphe 227.1(1) et de l’alinéa 227(10)a) de la Loi de l’impôt sur le revenu (la LIR) [1] , ainsi que des paragraphes 323(1) et (4) de la Loi sur la taxe d’accise (la LTA) [2] .
+[2] Durant les années d’imposition visées, Robert Ambs et James Ambs étaient administrateurs de la société Ambs Forest Products Inc. (AFP) qui a omis de verser les retenues à la source des employés exigées aux termes de la LIR, du Régime de pensions du Canada, de la Loi sur l’assurance-emploi et de la Loi de l’impôt sur le revenu de l’Ontario. AFP a également omis de verser la taxe nette prévue au titre de la LTA.
+II. QUESTION EN LITIGE
+[3] L’avocat des appelants et l’avocate de l’intimée ont convenu que la seule question en litige dans le cadre des présents appels est de déterminer si Robert Ambs et James Ambs ont agi avec autant de soin, de diligence et de compétence que l’aurait fait une personne raisonnablement prudente dans les mêmes circonstances, pour prévenir le défaut d’effectuer les versements exigés [3] .
+III. FAITS
+[4] Robert Ambs et James Ambs sont frères. Leur père, qui était bûcheron, leur a enseigné son métier. Lorsqu’ils étaient jeunes, Robert, qui a fait des études jusqu’à la 8e année, et James, qui a terminé sa 11e année, travaillaient avec leur père durant les vacances d’été; lorsqu’ils ont quitté l’école, ils ont continué de travailler avec leur père à temps plein, sur une base continue, jusqu’à ce que celui-ci prenne sa retraite; c’est alors qu’ils ont pris les dispositions nécessaires pour qu’AFP soit constituée en société et qu’AFP achète l’entreprise de leur père. Durant les années d’imposition visées, Robert et James étaient les seuls actionnaires d’AFP, chacun détenant 50 % des actions émises. Ils étaient également les deux seuls dirigeants d’AFP. Robert était responsable de l’équipement et des opérations sur le terrain d’AFP, tandis que James s’occupait des affaires générales, financières et fiscales de la société. James travaillait également sur le terrain et dans l’usine lorsque son horaire le lui permettait.
+[5] La coupe forestière globale, de la « coupe à l’usine », qui consistait à repérer et à marquer les zones forestières à couper, puis à récolter et à transformer les grumes et à les transporter à la scierie, était la principale activité génératrice de recettes d’AFP. Les activités de coupe forestière représentaient environ 80 % des recettes d’AFP. AFP avait aussi un contrat pour la construction et l’entretien des routes forestières dans la zone de coupe. Les activités de construction et d’entretien des routes généraient environ 20 % des recettes d’AFP.
+[6] AFP n’avait qu’un seul client. Durant les premières années d’activités d’AFP, le client de l’entreprise était connu sous le nom de Boise Cascade. Le nom a par la suite été changé pour Rainy River Forest Products, puis Stone Consolidated, Abitibi Consolidated et, enfin, AbitibiBowater [4] . Même si un certain nombre d’entrepreneurs forestiers de la région de Kenora approvisionnaient AbitibiBowater, AFP était clairement l’entrepreneur le plus important. Il s’agissait également du seul entrepreneur qui construisait et entretenait les routes forestières dans cette région.
+[7] AbitibiBowater était titulaire du permis de coupe qui autorisait la récolte de bois d’œuvre sur les terres publiques de la région de Kenora. Une grande quantité des grumes récoltées étaient transportées à l’usine de papier d’AbitibiBowater à Kenora. D’autres étaient transportées vers une scierie de Kenora qui avait auparavant appartenu à AbitibiBowater et qui avait été exploitée par elle, mais qui avait depuis été vendue à Kenora Forest Products. AbitibiBowater vendait également des grumes à d’autres scieries de Kenora et des environs.
+[8] En 2007 et 2008, AFP a été une entreprise rentable. En 2007, AFP a réalisé des recettes de 3 531 453 $ et un bénéfice net de 52 781 $. En 2008, les recettes de l’entreprise ont été de 4 829 608 $ et elle a affiché un bénéfice net de 361 203 $ [5] . La situation fut très différente en 2009. Cette année-là, les recettes de l’entreprise ont en effet diminué à 756 318 $ et AFP a enregistré une perte d’exploitation de 136 703 $. Après correction en fonction des pertes associées à l’aliénation d’actifs et aux impôts (recouvrés) [6] , la perte nette d’AFP a été de 285 137 $.
+[9] Le 30 avril 2007, AFP n’avait pas de liquidités et possédait 416 $ en charges payées d’avance et 965 102 $ en immobilisations corporelles (après déduction des amortissements cumulés). Le 30 avril 2008, AFP possédait 37 979 $ en liquidités, 1 303 $ en charges payées d’avance et des immobilisations corporelles (après déduction des amortissements cumulés) d’une valeur comptable de 865 710 $. Un an plus tard, ces montants avaient diminué. Le 30 avril 2009, AFP ne possédait ni liquidités, ni charges payées d’avance, et la valeur comptable de ses immobilisations corporelles (après déduction des amortissements cumulés) n’était plus que de 311 803 $.
+[10] James Ambs a expliqué que, durant les 28 années d’exploitation d’AFP, les activités forestières de l’entreprise avaient été cycliques. Les fermetures d’usines n’étaient pas rares, surtout lorsque le prix du papier devenait trop bas; les propriétaires d’usines de papier fermaient alors certaines de leurs installations pour faire remonter les prix. Robert Ambs et James Ambs ne furent donc pas trop inquiets lorsqu’AbitibiBowater a fermé son usine de papier de Kenora, à la fin de 2007. AFP a continué de récolter et de transporter les grumes comme elle le faisait habituellement, les transportant simplement vers d’autres usines de la région. Robert et James s’attendaient à ce que l’usine de papier rouvre ses portes en temps opportun, comme elle l’avait fait par le passé à la suite d’autres fermetures.
+[11] Dans la région de Kenora, les bûcherons travaillaient habituellement sur le terrain pendant environ dix mois de l’année, de la fin de mai ou du début de juin jusqu’à la fin de mars ou au début d’avril de l’année suivante. Durant le dégel printanier (en général, en avril et mai), le sol était trop mouillé et trop mou pour permettre le passage de l’équipement forestier et des camions grumiers. De plus, des restrictions de poids s’appliquaient à bon nombre des routes de la région durant la période de dégel. AFP et la plupart des autres exploitants forestiers profitaient donc de cette période pour faire l’entretien de leur équipement et effectuer les réparations requises dans leurs ateliers; des activités qui exigeaient des liquidités. AFP dépensait en moyenne quelque 200 000 $ (parfois moins, parfois plus) en frais d’entretien et de réparation.
+[12] AFP récoltait le bois d’œuvre aux termes d’un permis de coupe que la Couronne provinciale avait délivré à AbitibiBowater. Chaque année, durant les 28 premières années d’exploitation d’AFP, il existait un accord tacite entre AbitibiBowater (ou ses prédécesseurs) et AFP, aux termes duquel AFP pouvait reprendre la récolte des grumes pour AbitibiBowater lorsque le sol devenait suffisamment ferme pour permettre le passage des grumiers et de l’équipement. AFP avait habituellement des discussions avec le gestionnaire forestier d’AbitibiBowater en mai pour planifier les diverses régions géographiques dans lesquelles seraient menées les activités de coupe forestière au cours de la saison à venir. Puis, vers la mi-mai, James recevait un appel téléphonique du gestionnaire forestier qui lui disait que les activités pouvaient commencer.
+[13] Lorsqu’AFP a mis fin à ses activités forestières en mars 2008, et a transporté ses camions et son équipement dans son atelier afin d’en faire l’entretien et d’effectuer les réparations requises durant le dégel printanier, Robert et James s’attendaient vraiment à reprendre les activités sur le terrain quelque deux mois plus tard. Cependant, l’appel téléphonique qu’ils ont reçu à la mi-mai 2008 n’était pas pour les informer qu’AFP pouvait reprendre ses activités de coupe forestière, mais plutôt pour leur faire savoir qu’AbitibiBowater avait décidé de rétrocéder son permis de coupe à la Couronne, cette décision ayant pour conséquence désastreuse de mettre fin à toute activité de coupe au titre de ce permis par AFP ou tout autre entrepreneur forestier. Cette décision a pris Robert et James totalement par surprise.
+[14] AbitibiBowater avait toujours la responsabilité de l’entretien des routes forestières dans la région. Elle a donc continué à faire appel à AFP pour effectuer ces travaux durant le reste de l’année 2008 et au début de 2009, ce qui a permis à AFP de maintenir un maigre flux de rentrées.
+[15] En 2009, le gouvernement provincial a accordé un permis de coupe à l’entreprise Wincrief Renewables qui, comme l’a expliqué James, était une entité appartenant à la Première Nation de Whitedog et à Greg Moncrief. Il a alors été décidé que seules les entités autochtones seraient autorisées à récolter le bois d’œuvre au titre de ce permis ou à construire et à entretenir les routes forestières dans la zone visée par le permis. Pour une deuxième année consécutive, AFP recevait une nouvelle dévastatrice, en apprenant qu’elle ne ferait plus la construction et l’entretien des routes. AFP a donc cessé ses activités.
+[16] À la suite de l’arrêt de ses activités de coupe au printemps 2008, AFP s’est soudainement retrouvée avec des dettes, des factures impayées et d’autres obligations à remplir, mais seulement des liquidités limitées. Comme un grand nombre de ses camions et de son équipement étaient financés, AFP a dû restituer ces camions et cet équipement au vendeur ou à la société de financement, selon le cas. AFP a aussi procédé à la vente du matériel d’exploitation forestière dont elle était propriétaire, mais elle n’a pu en tirer qu’un prix « au rabais » correspondant habituellement à 50 % de la valeur. Le produit de ces ventes a servi à rembourser une partie des dettes.
+[17] En 2009, lorsqu’AFP a perdu le contrat d’entretien des routes, elle a restitué au vendeur ou à la société de financement l’équipement de construction et d’entretien des routes qu’elle avait acquis grâce à des accords de financement et elle a vendu – là encore à rabais – l’équipement qui lui appartenait.
+[18] Le produit de la vente des camions et de l’équipement n’a toutefois pas été suffisant pour permettre à AFP de satisfaire à toutes ses obligations. Robert Ambs et James Ambs ont donc liquidé bon nombre de leurs propres actifs pour réunir des liquidités supplémentaires qu’ils ont prêtées à AFP afin que l’entreprise puisse payer ses créanciers. Ils ont vendu des véhicules, des motoneiges, des bateaux et d’autres avoirs personnels pour réunir l’argent nécessaire au remboursement des dettes d’AFP. Ils ont aussi retiré de l’argent de leurs régimes enregistrés d’épargne-retraite et affecté le produit net ainsi obtenu au remboursement des dettes. Robert a mis sa maison en vente dans l’espoir de réunir d’autres fonds (mais aucun élément de preuve n’indique si sa maison a été vendue). En 2008, 2009 et 2010, les apports financiers de James à AFP ont totalisé 196 110,47 $ et ceux de Robert, 121 259,96 $.
+[19] Durant son témoignage, James a admis volontiers que la majeure partie des sommes réunies par AFP, grâce à la vente des camions et de l’équipement et d’emprunts auprès de ses actionnaires, avait servi à payer les créanciers commerciaux d’AFP, plus précisément ceux situés à Kenora et dans les environs. Robert et James connaissaient bon nombre des créanciers d’AFP et ils étaient soucieux de les rembourser. De fait, Robert et James ont réussi à rembourser la totalité des créanciers d’AFP, à l’exception des autorités fiscales.
+[20] AFP n’a pas délibérément omis de s’acquitter de ses obligations fiscales. De fait, après la vente des derniers articles d’équipement, le tout dernier chèque que James a fait au nom d’AFP s’élevait à environ 118 000 $ à l’ordre de l’Agence du revenu du Canada (Agence), à titre de règlement partiel des retenues à la source impayées par AFP.
+[21] Cependant, la vente du reste de l’équipement a aussi créé l’obligation pour AFP de prélever et de remettre la taxe de vente harmonisée (TVH) d’une somme de 9 761,61 $ (ou à peu près) [7] , ce que n’a pas fait AFP et qui a mené à l’établissement de cotisations à l’égard de Robert et de James en leur qualité d’administrateurs d’AFP, en application de l’article 323 de la LTA.
+[22] Durant son témoignage, James Ambs a déclaré qu’en 2008 et 2009 l’Agence n’avait pas insisté avec autant de véhémence que les autres créanciers pour être payée. De plus, comme nous l’avons mentionné précédemment, Robert et James voulaient s’assurer qu’AFP rembourse ses créanciers locaux (c.-à-d. les personnes qu’ils connaissaient personnellement). Durant la deuxième moitié de 2008 et le début de 2009, Robert et James ont essayé de maintenir à flot les activités d’entretien des routes d’AFP. James a déclaré qu’il était devenu nécessaire pour lui de choisir les créanciers qui seraient payés et d’accorder la priorité à ces créanciers.
+[23] Durant l’audience, en réponse à des questions sur des écritures figurant dans le bilan de 2008 d’AFP, où le passif était décrit comme des « retenues des employés à verser » et la « taxe sur les produits et services exigible », James Ambs a déclaré ce qui suit :
+[traduction]
+Et bien, vous savez, lorsque vous exploitez une entreprise comme celle-ci, il y a des frais d’exploitation et des choses dont vous avez besoin, par exemple vous avez besoin d’essence, de pièces. Sans carburant, vous ne pouvez pas fonctionner; sans pièces, vous ne pouvez pas fonctionner. Vous devez parfois établir des priorités. Vous devez choisir qui sera payé en premier. Les autres aussi seront payés. Un jour.
+Ils doivent comprendre qu’ils seront les derniers sur la liste, car je dois d’abord payer ces factures. C’est parfois ce qui arrive, et je crois que bien des gens font la même chose. Ils utilisent les sommes qu’ils sont tenus de remettre; je sais que c’est ce que nous avons fait pendant 28 ans, mais nous sommes aujourd’hui devant une impasse. Comme je l’ai dit, je ne crois pas que ce soit notre faute, car, comme je l’ai dit, nous avons fait de notre mieux. Parfois, nous devons payer d’autres gens et il y a des choses que nous ne pouvons pas payer.
+C’est sans doute la raison pour laquelle la situation en est arrivée là, et que nous avons pris du retard dans le paiement des retenues à la source et de la TPS. Vous tentez du mieux que vous pouvez de reprendre le dessus, mais, si vous êtes toujours en activité, il y a des choses que vous devez payer en priorité; vous utilisez donc l’argent qui devrait servir à d’autres paiements afin de pouvoir continuer [8] .
+[24] En réponse à une question visant à savoir si les retenues des employés de 86 748 $, exigibles le 30 avril 2007, avaient été payées plus tard en 2007, James Ambs a répondu :
+[traduction]
+Probablement, mais peut-être qu’une partie a été reportée. Je ne sais pas. Je ne le sais pas vraiment. Cela dépend du moment où les sommes étaient dues. Si c’était au printemps, il est probable qu’il nous restait un solde à payer à l’Agence, car nous devions réparer l’équipement à cette période. Nous devions dépenser à peu près 200 000 $, car nous avions besoin de cet équipement.
+Nous devions remettre l’équipement en bon état de fonctionnement, afin de pouvoir reprendre le travail et effectuer nos paiements. Il est possible qu’à certaines périodes nous ne pouvions tout simplement pas faire les versements, car nous avions besoin de cet argent pour réparer l’équipement. Nous devions réparer l’équipement pour recommencer à travailler [9] .
+IV. DISCUSSION
+A. Ampleur du défaut d’effectuer les versements
+[25] Selon le bilan de 2008 d’AFP, les passifs d’AFP au 30 avril 2008, aux postes des « retenues des employés à payer » et de la « taxe sur les produits et services exigible » (strictement parlant, la TVH), s’élevaient à 62 124 $ et à 31 946 $, respectivement. De même, selon le bilan de 2009 d’AFP, les passifs d’AFP au 30 avril 2009, aux postes des « retenues des employés à payer » et de la « taxe sur les produits et services exigible » (strictement parlant, la TVH), s’élevaient à 158 761 $ et à 34 179 $, respectivement. Je crois comprendre que, dans le cadre des présents appels, les passifs cités précédemment relativement à la TVH à payer ne sont pas vraiment préoccupants, car ces dettes à la fin de ces deux exercices ont été réglées et que (ainsi qu’il a été mentionné précédemment au paragraphe 21) la seule TVH à percevoir, et qui a mené à l’établissement des cotisations à l’égard des administrateurs en application de l’article 323 de la LTA, venait de la TVH qui n’avait pas été remise sur la vente de l’équipement d’AFP quelque temps en 2009 (vraisemblablement après le 30 avril 2009).
+[26] En ce qui a trait aux dettes relatives aux retenues des employés à payer, le comptable d’AFP a déclaré qu’AFP avait généralement réussi à s’acquitter de ses obligations fiscales en 2007 et 2008 et, qu’à son avis, les passifs indiqués sur les bilans de 2007 et de 2008 concernaient uniquement les retenues à la source accumulées au cours du dernier mois environ de chacun de ces exercices financiers. Autrement dit, le comptable laissait entendre qu’AFP avait généralement réussi à s’acquitter de ses obligations en matière de retenues et de versement en 2007 et 2008 et que les soldes impayés au 30 avril 2007 et au 30 avril 2008 auraient été réglés par AFP avant le 15 mai 2007 et le 15 mai 2008, respectivement.
+[27] Après avoir examiné les éléments de preuve présentés par l’agent de perception de l’Agence et le bilan rétrospectif des versements faits par AFP, je ne suis pas convaincu qu’AFP se soit toujours acquittée de ses obligations en matière de versements. De fait, lorsque j’examine par exemple les fiches détaillées jointes aux avis de cotisation qui ont été délivrés à Robert Ambs et à James Ambs [10] , et les tableaux rétrospectifs préparés par l’agent de perception [11] , je crois comprendre que certaines sommes établies par cotisations à l’égard de Robert Ambs et de James Ambs, en application de l’article 227.1 de la LIR, se rapportaient à des retenues à la source qui n’avaient pas été versées par AFP pour l’année d’imposition 2007 et que d’autres sommes visées par les cotisations portaient sur l’année d’imposition 2008. De plus, selon le témoignage de James Ambs [12] , il semble qu’AFP reportait régulièrement le versement des retenues à la source ou de la TVH nette pour satisfaire à d’autres obligations.
+[28] Concernant l’année 2009, où le passif en fin d’exercice relatif aux retenues d’employés à payer s’élevait à 158 761 $, le comptable d’AFP a présumé que, puisque la somme était nettement plus élevée qu’en 2008, il y a sans doute eu plusieurs mois (et pas seulement le dernier mois de l’exercice financier) au cours desquels la société n’a pas versé les retenues à la source [13] .
+B. Jurisprudence
+[29] La défense fondée sur la diligence raisonnable prévue par la loi, qui est énoncée au paragraphe 227.1(3) de la LIR et qui est invoquée par Robert Ambs et James Ambs, prévoit ce qui suit :
+Un administrateur n’est pas responsable de l’omission visée au paragraphe (1) lorsqu’il a agi avec le degré de soin, de diligence et d’habileté pour prévenir le manquement qu’une personne raisonnablement prudente aurait exercé dans des circonstances comparables [14] .
+Dans le contexte des retenues à la source, l’omission dont il est fait mention dans la disposition qui précède s’entend du défaut de retenir les sommes prévues du salaire versé à un employé ou du défaut de remettre les retenues à la source à l’Agence au nom du receveur général du Canada (le receveur général) ou, dans le contexte de la taxe sur les produits et services (la TPS) ou de la TVH, du défaut de remettre la TPS ou la TVH nette à l’Agence, au nom du receveur général.
+[30] Les tribunaux reconnaissent depuis longtemps que la défense fondée sur la diligence raisonnable repose principalement sur les moyens pris pour prévenir l’omission de déduire ou de remettre, plutôt que le défaut d’agir pour corriger la situation après qu’il y a eu omission. Par exemple, le juge Taylor, dans la décision White, a déclaré :
+[traduction] Selon l’interprétation que je fais du paragraphe [227.1(3)], il me semble que la responsabilité directe d’un administrateur – et de tout administrateur – est de prévenir le défaut (de déduire ou de remettre), et non de tenter ultérieurement de corriger le défaut ou d’y remédier [15] . [Italique dans l’original.]
+De même, dans la décision Charkowy, le juge Mogan a déclaré :
+[traduction] […] un administrateur qui n’a pas agi avec le degré de soin, de diligence et d’habileté requis pour prévenir le manquement ne peut s’autojustifier en invoquant le paragraphe 227.1(3) et en démontrant après coup tous les efforts qu’il a faits pour tenter de corriger le manquement ou d’y remédier [16] .
+[31] Le règlement d’une affaire mettant en cause la responsabilité d’un administrateur est rarement facile, ce type d’affaires survenant souvent dans un contexte de difficultés financières. Dans la décision Gordon McKinnon (2003), le juge en chef adjoint Bowman (tel était alors son titre) a fait une observation sans doute pertinente pour la grande majorité des affaires mettant en cause la responsabilité des administrateurs :
+Ce genre d’affaire est généralement difficile. Nous partons du fait indéniable que les retenues salariales ou la taxe sur les produits et services n’ont pas été payées, de sorte que l’ADRC se tourne vers l’administrateur [17] .
+Le juge en chef adjoint Bowman a également noté que, dans bien des cas, une société qui éprouve des difficultés financières n’a tout simplement pas l’argent nécessaire pour s’acquitter de ses obligations en matière de versements :
+L’autre argument que l’on entend souvent dans ce genre d’affaire et que je considère tout aussi fallacieux est celui-ci : « Vous voliez de l’argent détenu en fiducie pour la Couronne afin de faire marcher votre entreprise et de payer vos employés. » Il s’agit là, selon moi, d’une caractérisation inexacte et injuste. On insinue par là qu’il existe un compte distinct (une jarre à biscuits, si l’on veut) dans laquelle on dépose les retenues salariales et dont on les retire pour payer les dépenses de la société. La vérité, c’est qu’il n’y a pas de jarre à biscuits, réelle ou notionnelle, et pas d’argent à y déposer même s’il en existait une. Le montant net versé aux employés est tout ce dont on dispose. Les employés, les fournisseurs et les autres créanciers sont payés parce que s’ils ne le sont pas, la société devra fermer. Lorsque, comme dans le cas présent, des événements survenants imprévus mettent une personne dans l’impossibilité de payer les retenues salariales au gouvernement, je ne crois pas que l’appelant ait pu raisonnablement faire quoi que ce soit pour assurer le paiement [18] .
+[32] L’avocat de Robert Ambs et de James Ambs me renvoie à la décision Lecuyer [19] . Dans cette affaire, M. Lecuyer possédait deux sociétés, dont l’une devait des retenues à la source et l’autre disposait de ressources financières. La société qui avait des ressources financières a utilisé ses propres fonds pour payer une partie des retenues à la source de l’autre société. De plus, l’administrateur n’a reçu aucun salaire de la société qui éprouvait des difficultés financières. Malgré ces mesures, la société a été incapable d’effectuer tous les versements exigés, de sorte qu’une cotisation a été établie à l’égard de l’administrateur relativement à la dette non réglée. Renvoyant aux décisions Gordon McKinnon et Kraeker [20] , le juge Little a conclu que M. Lecuyer n’aurait pas pu faire beaucoup plus que ce qu’il avait fait pour que la société effectue les versements exigés, et qu’il avait exercé autant de soin, de diligence et de compétence pour prévenir l’omission de la société que ne l’aurait fait une personne raisonnablement prudente dans les mêmes circonstances [21] .
+[33] Nonobstant les décisions rendues dans Gordon McKinnon, Kraeker et Lecuyer, la Cour d’appel fédérale a, au cours des deux dernières décennies, fait une interprétation rigoureuse de la norme de diligence exigée d’un administrateur de société dans le contexte du versement des retenues à la source, de la TPS ou de la TVH nette et autres versements comparables. Au cours des quelque 20 dernières années, la Cour d’appel a, dans un certain nombre d’affaires, insisté sur le fait que, bien que la responsabilité d’un administrateur ne soit pas absolue, les paragraphes 227.1(3) de la LIR et 323(3) de la LTA précisent tous les deux que la défense fondée sur la diligence raisonnable ne peut être invoquée que si l’administrateur a exercé un degré de soin, de diligence et d’habileté comparable à celui que l’on aurait observé chez une personne raisonnablement prudente dans des circonstances comparables pour prévenir le défaut de versement [22] . À titre d’exemple, dans la décision Lynda McKinnon (aussi citée sous le nom Worrell), le juge Evans a déclaré :
+70. J’estime qu’il est essentiel de ne pas perdre de vue la question qui est au cœur du présent appel, savoir si les administrateurs en l’espèce ont exercé la diligence raisonnable requise pour prévenir le défaut de versement de la compagnie. Il ne s’agit pas nécessairement de la même chose que de se demander s’il était raisonnable de leur part, du point de vue commercial, de continuer à exploiter l’entreprise. Pour être en mesure d’invoquer le moyen de défense tiré du paragraphe 227.1(3), il faut normalement qu’ils aient pris des mesures positives qui, si elles aboutissaient, auraient pu prévenir le défaut de versement. Il faut donc examiner si ce qu’ont fait ces administrateurs pour prévenir le défaut satisfait à la norme de soin, de diligence et d’habileté qu’aurait observée une personne raisonnablement prudente dans des circonstances comparables.
+71. Il ne suffira normalement pas que les administrateurs aient continué à exploiter l’entreprise, sachant qu’un défaut de versement était probable mais dans l’espoir que la compagnie reprendrait pied avec une reprise de l’économie ou une amélioration de sa position sur le marché. Dans ces conditions, les administrateurs seront généralement tenus pour avoir accepté le risque inhérent à la gageure que la compagnie serait subséquemment en mesure de verser les sommes dues. Le public n’a pas à assurer contre son gré ce risque, aussi raisonnable qu’il soit du point de vue commercial pour les administrateurs de continuer à exploiter l’entreprise sans rien faire pour prévenir les défauts de versement à l’avenir [23] . [Souligné dans l’original.]
+[34] Dans l’arrêt Smith, le juge Sharlow a déclaré :
+Dans certaines circonstances, le fait qu’une société soit en difficultés financières et donc à risque plus élevé que d’autres sociétés de ne pas verser ses remises d’impôts peut être un facteur qui milite pour une norme de prudence plus élevée. Par exemple, un administrateur qui connaît les difficultés financières de la société et qui décide sciemment de financer les opérations de la société avec les sommes prélevées à la source et non remises pourrait ne pas pouvoir invoquer la défense de diligence raisonnable [...]. Toutefois, il est important de se rappeler que dans tous les cas la norme est celle du raisonnable et non celle de la perfection [24] .
+[35] L’arrêt Buckingham [25] est l’une des principales affaires traitant de la responsabilité des administrateurs, qui a confirmé que la norme « objective subjective » de soin, de diligence et d’habileté énoncée dans Soper [26] avait été remplacée par la norme objective de soin, de diligence et d’habileté établie par la Cour suprême du Canada dans l’arrêt Magasins à rayons Peoples [27] . Dans l’arrêt Buckingham, le juge Mainville a formulé un certain nombre de commentaires sur l’exigence prévue par la loi selon laquelle l’objet de la norme de soin, de diligence et d’habileté est de prévenir le défaut de versement, plutôt que de corriger un tel défaut après qu’il a eu lieu :
+33. [...] L’obligation de diligence prévue au paragraphe 227.1(3) de la Loi de l’impôt sur le revenu vise aussi expressément à empêcher la société de faire défaut de verser des retenues d’impôts précises, notamment les retenues à la source sur les salaires. Le paragraphe 323(3) de la Loi sur la taxe d’accise a un objet similaire. Les administrateurs doivent établir qu’ils ont exercé le degré de soin, de diligence et d’habileté requis « pour prévenir le manquement ». L’objet de ces dispositions est clairement de prévenir les défauts de versement.
+40. [...] Pour invoquer ces moyens de défense, l’administrateur doit par conséquent démontrer qu’il s’est préoccupé des versements requis et qu’il s’est acquitté de son obligation de soin, de diligence et d’habileté afin de prévenir le défaut de la société de verser les montants visés [...].
+45. [...] La responsabilité des administrateurs visée au paragraphe 227.1(1) n’est pas assujettie à la condition que la société dispose de suffisamment de fonds pour effectuer les versements des retenues à la source sur les salaires, bien au contraire.
+46. L’analyse du flux de trésorerie proposée par le juge de première instance suppose aussi que le cadre temporel durant lequel la conduite de l’administrateur est évaluée commence au moment où la société manque de fonds. L’examen de la conduite de l’administrateur commence plutôt lorsqu’il devient évident pour l’administrateur, agissant raisonnablement et avec le soin, la diligence et l’habileté qui sont requises [sic], que la société entame une période de difficultés financières [...].
+49. L’approche traditionnelle est celle voulant que l’administrateur a le devoir de prévenir les défauts de versement, et non de les avaliser dans l’espoir qu’il sera ensuite possible de remédier aux problèmes [...]. Une société qui fait face à des difficultés financières pourrait s’hasarder à réaffecter les versements dus à la Couronne afin de payer d’autres créanciers et ainsi assurer la poursuite de ses activités. C’est précisément une telle conjoncture que les articles 227.1 de la Loi de l’impôt sur le revenu et 323 de la Loi sur la taxe d’accise visent à éviter. Le moyen de défense prévu au paragraphe 227.1(3) de la Loi de l’impôt sur le revenu et au paragraphe 323(3) de la Loi sur la taxe d’accise ne devrait pas servir à encourager de tels défauts de versement en permettant aux administrateurs d’invoquer une défense de diligence raisonnable lorsqu’ils financent les activités de leur société à l’aide de remises dues à la Couronne, en espérant remédier plus tard à ces défauts. [...]
+52. [...] Ce qui est requis des administrateurs, c’est qu’ils démontrent qu’ils se sont effectivement préoccupés des versements fiscaux et qu’ils se sont acquittés de leur obligation de soin, de diligence et de compétence afin de prévenir le défaut de la société de verser les montants visés.
+56. L’administrateur d’une société qui avalise la poursuite des activités de sa société en réaffectant à d’autres fins des retenues à la source sur les salaires ne peut établir une défense fondée sur le paragraphe 227.1(3) de la Loi de l’impôt sur le revenu. Tout le régime de l’article 227.1 de la Loi de l’impôt sur le revenu, lu dans son ensemble, est précisément conçu pour éviter de telles situations. En l’espèce, l’intimé avait une attente raisonnable (mais erronée) que la vente de la division de production de cours en ligne donnerait lieu à un paiement important pouvant servir à satisfaire les créanciers, mais il a consciemment fait assumer par la Couronne une partie des risques associés à cette transaction en continuant les activités tout en sachant que les retenues à la source ne seraient pas versées. Il s’agit précisément du méfait que le paragraphe 227.1 de la Loi de l’impôt sur le revenu vise à éviter [28] .
+L’arrêt Buckingham, comme quelques-unes des autres décisions citées précédemment, insiste sur le fait que les paragraphes 227.1(3) de la LIR et 323(3) de la LTA visent principalement à prévenir le défaut de versement. Cet arrêt indique que les administrateurs ne devraient pas pouvoir invoquer une défense de diligence raisonnable lorsqu’ils « financent les activités de leur société à l’aide de remises dues à la Couronne » [29] .
+C. Application
+[36] Pour se prévaloir de la défense fondée sur la diligence raisonnable, « les administrateurs doivent établir qu’ils ont pris les mesures appropriées en temps utile afin de limiter les montants à risque pour le fisc au titre des retenues fiscales ou des versements de la taxe nette liée à la TPS [30] ». Or, peu d’éléments de preuve, s’il en est, montrent qu’AFP et ses administrateurs ont pris des mesures pour s’assurer que les sommes seraient versées en temps utile. Les éléments de preuve montrent plutôt que les actions de Robert Ambs et de James Ambs ont été en grande partie curatives, plutôt que préventives.
+[37] Il convient néanmoins de saluer les efforts faits par Robert Ambs et James Ambs, qui ont liquidé une grande partie de leurs biens personnels et prêté le produit de ces ventes à AFP pour lui permettre de payer ses créanciers. Les apports financiers de Robert et James à AFP « doivent être considérés dans le cadre de la défense de soin, de diligence et de compétence [31] ». Cependant, AFP a utilisé la majeure partie, sinon la totalité, de ces apports pour rembourser des dettes autres que celles dues au fisc.
+[38] Les éléments de preuve présentés à l’audience par Robert Ambs et James Ambs ont mis en lumière les efforts qu’ils ont faits pour honorer les créanciers d’AFP, plus précisément ceux de la région, après qu’AbitibiBowater a renoncé à son permis de coupe en 2008 et qu’AFP a perdu le contrat d’entretien des routes en 2009. Ni Robert ni James n’ont présenté d’éléments de preuve montrant qu’ils s’étaient préoccupés des versements exigés, avant que surviennent les défauts de versement, ou plus précisément qu’ils avaient envisagé des moyens pour veiller à ce qu’AFP effectue ces versements. Le seul élément de preuve, pouvant étayer l’exigence voulant que les administrateurs doivent exercer un degré de soin, de diligence et de compétence pour prévenir le défaut de paiement, est venu du comptable d’AFP qui, ainsi qu’il a été indiqué précédemment, a mentionné qu’AFP se conformait habituellement aux exigences en matière de versements et que les passifs inscrits sur les bilans de 2007 et 2008 d’AFP ne portaient que sur les retenues à la source du dernier mois de l’exercice financier visé, soit avril 2007 et avril 2008, et qu’il s’attendait à ce que ces versements soient faits avant le 15 mai du mois suivant. Cependant, la preuve documentaire produite par l’agent de perception de l’Agence montre qu’AFP avait l’habitude de ne pas se conformer aux exigences en matière de versement des retenues à la source, et que les retenues des employés impayées, inscrites sur les bilans en date du 30 avril 2007 et du 30 avril 2008, n’ont pas été versées le 15 mai 2007 et le 15 mai 2008, respectivement [32] .
+[39] Pour l’exercice financier 2009, le comptable d’AFP a reconnu qu’AFP avait probablement omis pendant plusieurs mois de l’année de verser les retenues à la source exigées [33] .
+[40] Comme l’a déclaré le juge Smith dans la décision Tozer, [traduction] « la Cour doit être convaincue selon la prépondérance des probabilités et au moyen d’éléments de preuve forts et crédibles que des mesures ont été prises pour prévenir l’omission [34] ». En l’espèce, peu d’éléments de preuve de ce genre ont été présentés, et ceux qui l’ont été étaient peu convaincants. Robert Ambs et James Ambs n’ont pas démontré qu’ils avaient exercé le degré de soin, de diligence et de compétence que l’on aurait observé chez une personne raisonnablement prudente dans des circonstances comparables, pour prévenir le défaut de verser les retenues à la source et la taxe nette (TVH) [35] .
+V. CONCLUSION
+[41] Ainsi que le juge l’a mentionné dans la décision Gordon McKinnon, les affaires mettant en cause la responsabilité des administrateurs sont habituellement difficiles [36] . Les appels interjetés par Robert Ambs et James Ambs ne font pas exception. Ainsi qu’il a été indiqué précédemment, Robert a fourni un apport de 120 000 $ provenant de ses propres fonds, alors que James a fourni un apport de plus de 196 000 $ à même ses propres avoirs, dans un effort visant à honorer les créanciers d’AFP. Je crois comprendre qu’en 2008, en 2009 et durant les quelques années qui ont suivi, Robert et James ne disposaient pas de beaucoup d’autres actifs qu’ils auraient pu utiliser pour payer les arriérés au titre des versements impayés qui s’étaient accumulés [37] . Comme l’a souligné le comptable d’AFP, très peu d’administrateurs acceptent volontairement, comme l’ont fait Robert et James, d’utiliser leurs propres ressources financières pour acquitter des dettes d’entreprise.
+[42] Malheureusement, les éléments de preuve présentés à l’audience n’ont pas permis de démontrer que Robert Ambs et James Ambs ont pris des mesures pour prévenir le défaut d’AFP de verser les retenues à la source des employés et de remettre la TVH nette. De fait, selon le témoignage de James Ambs, il semble qu’AFP ait eu tendance à utiliser les retenues à la source des employés pour payer d’autres créanciers. Les éléments de preuve montrent que Robert et James ont fait de réels efforts, en puisant même dans leurs propres ressources financières, pour rembourser tous les créanciers d’AFP, sauf la Couronne. Cependant, la défense fondée sur la diligence raisonnable, prévue au paragraphe 227.1(3) de la LIR et au paragraphe 323(3) de la LTA, exige qu’un administrateur agisse avec le degré de soin, de diligence et d’habileté nécessaire pour prévenir le manquement. Autrement dit, ces dispositions confèrent aux administrateurs la responsabilité de prévenir le défaut de déduire ou de remettre, et non de tenter de corriger le manquement ou d’y remédier après qu’il s’est produit [38] .
+[43] Comme les éléments de preuve sur les mesures que Robert Ambs et James Ambs ont pu prendre pour prévenir le défaut par AFP de remettre les retenues à la source et la TVH nette sont insuffisants, il est malheureusement nécessaire de rejeter leurs appels.
+[44] La Couronne a droit aux dépens, si elle le souhaite. Compte tenu des difficultés financières auxquelles font face Robert Ambs et James Ambs, si la Couronne demande des dépens (et sous réserve de mon examen de toutes les observations que les parties pourraient présenter), j’aurais vraisemblablement tendance à limiter ces dépens à la somme fixée selon le tarif.
+VI. CIRCONSTANCES ATTÉNUANTES
+[45] Les intérêts et pénalités représentent une part importante de la dette d’AFP pour laquelle le ministre a établi une cotisation à l’égard de Robert Ambs et James Ambs. Je suis d’avis, compte tenu des ressources personnelles que Robert et James ont déjà utilisées pour payer les dettes d’AFP et des difficultés financières qui en ont résulté, qu’il serait indiqué, en l’espèce, que le ministre exerce le pouvoir discrétionnaire que lui confèrent le paragraphe 220(3.1) de la LIR et l’article 281.1 de la LTA (en présumant que le ministre ne l’a pas déjà fait) et qu’il renonce à tout ou partie des intérêts et pénalités dont Robert et James sont responsables du fait d’autrui [39] .
+Signé à Edmonton (Alberta), ce 20e jour de juillet 2020.
+« Don R. Sommerfeldt »
+Le juge Sommerfeldt
+RÉFÉRENCE :
+2020 CCI 62
+NOS DES DOSSIERS DE LA COUR :
+2016-1015(GST)I, 2016-1016(GST)I, 2016-1022(IT)G, 2016-1023(IT)G
+INTITULÉ :
+JAMES DEAN AMBS et ROBERT ALBERT AMBS c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Thunder Bay (Ontario)
+DATE DE L’AUDIENCE :
+Le 11 avril 2019
+MOTIFS DU JUGEMENT :
+L’honorable juge Don R. Sommerfeldt
+DATE DU JUGEMENT :
+Le 20 juillet 2020
+COMPARUTIONS :
+Avocat des appelants :
+Me Brian R. MacIvor
+Anthony Russo (étudiant en droit)
+Avocate de l’intimée :
+Me Élise Rivest
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Me Brian R. MacIvor
+Cabinet :
+MacIvor Scrimshaw
+Pour l’intimée :
+Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa, Canada
+[1] Loi de l’impôt sur le revenu, L.R.C. (1985), ch. 1 (5e supplément), en sa version modifiée.
+[2] Loi sur la taxe d’accise, L.R.C. (1985), ch. E-15, partie IX, édictée par S.C. 1990, ch. 45, en sa version modifiée.
+[3] Voir le paragraphe 227.1(3) de la LIR et le paragraphe 323(3) de la LTA.
+[4] Les dénominations sociales complètes n’ont pas été produites en preuve.
+[5] Pièce A-1, onglet 7, État des résultats et des bénéfices non répartis. L’état des résultats et des bénéfices non répartis de 2008 fait état d’un bénéfice net de 361 203 $. Cependant, sur l’état des pertes pour l’exercice 2009 (pièce A-1, onglet 8), le bénéfice net indiqué dans la colonne correspondant à l’année 2008 est de 279 767 $. Aucune explication n’a été fournie pour justifier la différence entre ces deux montants.
+[6] Il s’agit de la terminologie qui a été utilisée dans l’état des pertes pour décrire la nature des pertes.
+[7] Je crois comprendre que cette somme de 9 761,61 $ incluait les intérêts et les pénalités.
+[8] Transcription de l’audition, de la ligne 10 de la page 85 à la ligne 2 de la page 86.
+[9] Transcription de l’audition, lignes 18 à 27 de la page 87.
+[10] Pièce R-1, onglets 4 et 17. Les avis de cotisation étaient datés du 4 février 2014.
+[11] Pièce R-3.
+[12] Transcription de l’audition, de la ligne 10 de la page 85 à la ligne 2 de la page 86, et lignes 18 à 27 de la page 87. Voir les paragraphes 23 et 24 ci-dessus.
+[13] Transcription de l’audition, lignes 9 à 27 de la page 105.
+[14] Paragraphe 227.1(3) de la LIR. Une disposition similaire, mais non identique, est énoncée au paragraphe 323(3) de la LTA.
+[15] White v MNR, [1990] 2 CTC 2566, 91 DTC 54 (TCC), à CTC 2574 (DTC 59).
+[16] Charkowy v MNR, [1991] 1 CTC 2095, 91 DTC 284 (TCC), à CTC 2098 (DTC 286). Voir également la décision Estate of Earl Edwards v MNR, [1995] 1 CTC 2373 (TCC) à la page 2378.
+[17] Gordon McKinnon c. La Reine, 2003 CCI 884, au paragraphe 17. J’ai indiqué le prénom et le nom de famille du contribuable dans cette référence, pour établir une distinction avec l’affaire Lynda McKinnon dont je discuterai ci-après.
+[18] Ibid., au paragraphe 18.
+[19] Lecuyer c. La Reine, 2007 CCI 476.
+[20] Kraeker v. The Queen, 2007 CCI 31.
+[21] Lecuyer, note 19 précitée, aux paragraphes 36 et 37.
+[22] Voir Canada c. Corsano, sub nomine Wheeliker, [1999] 3 CF 173 (CAF), aux paragraphes 23, 28, 35 et 63; Ruffo c. Canada, [2000] 4 CTC 39, 2000 DTC 6317 (CAF), au paragraphe 6 et Comparelli c. Canada, 2010 CAF 13, au paragraphe 12.
+[23] Canada (Procureur général) c. McKinnon, sub nomine Worrell c. La Reine, [2001] 2 CF 203 (CAF), aux paragraphes 70 et 71. Dans le recueil de jurisprudence sur cette affaire, accessible en ligne à partir du site Web de la Cour d’appel fédérale, ces paragraphes portent respectivement les numéros 68 et 69.
+[24] Smith c. Canada, 2001 CAF 84, au paragraphe 14.
+[25] Canada c. Buckingham, 2011 CAF 142.
+[26] Soper c. Canada, [1998] 1 CF 124 (CAF).
+[27] Magasins à rayons Peoples inc. (Syndic de) c. Wise, 2004 CSC 68.
+[28] Buckingham, note 25 précitée, aux paragraphes 33, 40, 45, 46, 49, 52 et 56. Les principes énoncés dans Buckingham sont résumés dans l’arrêt Balthazard c. Canada, 2011 CAF 331, au paragraphe 32. Voir aussi l’arrêt Ahmar c. Canada, 2020 CAF 65, aux paragraphes 15, 18 et 24.
+[29] Buckingham, note 25 précitée, au paragraphe 49. Il convient toutefois de préciser que, le 27 mars 2020, dans le cadre du Plan d’intervention économique du Canada pour répondre à la COVID-19, le premier ministre du Canada a annoncé que les petites entreprises seraient autorisées à reporter les paiements qu’elles doivent effectuer au titre de la TPS et de la TVH jusqu’en juin 2020. Cette mesure s’appliquait généralement aux versements de TPS/TVH qui auraient autrement dû être payés au receveur général en mars, avril ou mai 2020. Le gouvernement a déclaré : « Cette mesure équivaut à accorder des prêts sans intérêt de jusqu’à 30 milliards de dollars aux entreprises canadiennes. Elle aidera les entreprises à continuer de payer leurs employés et leurs factures et contribuera à limiter les problèmes de liquidités que connaissent les entreprises à travers le pays ». Voir le communiqué, « Le premier ministre annonce un soutien aux petites entreprises qui font face aux impacts de la COVID-19 », le 27 mars 2020. Même si la mesure précitée était certainement nécessaire et qu’elle fut bien accueillie, son annonce a également mis en lumière le fait que les entreprises utilisent parfois les versements au titre de la TPS/TVH comme source de financement, malgré les déclarations précitées de la Cour d’appel fédérale selon lesquelles la défense fondée sur la diligence raisonnable ne peut être invoquée lorsqu’une société finance ses activités en réaffectant « les versements dus à la Couronne afin de payer d’autres créanciers » (Buckingham, note 25 précitée, au paragraphe 49; voir aussi Smith, note 24 précitée, au paragraphe 14). Bien que je sois sensible aux difficultés de Robert Ambs et James Ambs, et que je reconnaisse que le gouvernement fédéral, dans sa réponse à la pandémie de COVID-19, a semblé tolérer (bien que seulement pour la période de mars à mai 2020) que les petites entreprises utilisent l’argent devant servir aux versements de la TPS/TVH pour « payer leurs employés et leurs factures » (communiqué du 27 mars 2020), je suis tenu de suivre les décisions de la Cour d’appel fédérale sur ce point.
+[30] Balthazard, note 28 précitée, au paragraphe 50.
+[31] Ibid., au paragraphe 59.
+[32] Voir les paragraphes 26 et 27 ci-dessus.
+[33] Voir le paragraphe 28 ci-dessus.
+[34] Tozer v The Queen, 2018 TCC 56, au paragraphe 114.
+[35] Pour un énoncé sur le critère approprié à appliquer, voir l’arrêt Ahmar, note 28 précitée, au paragraphe 27.
+[36] Gordon McKinnon, note 17 précitée, au paragraphe 17.
+[37] Aucun élément de preuve sur la situation financière actuelle de Robert Ambs et James Ambs n’a été produit.
+[38] White, note 15 précitée, à CTC 2574 (DTC 59). Voir aussi Charkowy, note 16 précitée, à CTC 2098 (DTC 286); et Edwards Estate, note 16 précitée, p. 2378.
+[39] Je sais que le paragraphe 220(3.1) de la LIR et l’article 281.1 de la LTA prévoient des délais de prescription de dix ans. Cependant, les avis de cotisation délivrés aux termes de la LIR à Robert et James étaient datés du 4 février 2014 et les avis de cotisation qui leur ont été délivrés aux termes de la LTA étaient datés du 24 janvier 2014. De plus, je crois comprendre qu’une demande d’allègement pour les contribuables a été présentée à l’Agence le ou vers le 23 octobre 2012 (pièce R-1, onglet 16), ce qui se situe nettement à l’intérieur du délai de dix ans par rapport aux années d’imposition et aux périodes de déclaration en litige dans les présents appels.

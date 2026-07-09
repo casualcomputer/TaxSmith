@@ -1,0 +1,149 @@
+Title: Gorgis v. The King
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/521315/index.do
+Corpus path: corpus/cases/tcc/2024/2024-tcc-109-521315-gorgis-v-the-king-en.md
+Document type: case_law
+Last modified: 2024-08-15
+
+# Gorgis v. The King
+
+- Citation: 2024 TCC 109
+- Decision date: 2024-08-15
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5724, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Gorgis v. The King
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2024-08-15
+Neutral citation
+2024 TCC 109
+File numbers
+2023-1884(GST)I
+Judges and Taxing Officers
+Ted Cook
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2023-1884(GST)I
+BETWEEN:
+ROBERT GORGIS,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+Appeal heard on May 22, 2024, at Toronto, Ontario
+Before: The Honourable Justice Edward (Ted) Cook
+Appearances:
+Counsel for the Appellant:
+Leigh Somerville Taylor
+Counsel for the Respondent:
+Oluwaseun Senborne
+JUDGMENT
+The appeal of the assessment dated May 3, 2021 in respect of the Appellant’s claim for a new housing rebate under section 254 of the Excise Tax Act is allowed, without costs, and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached reasons.
+Signed at Ottawa, Canada, this 15th day of August 2024.
+“Ted Cook”
+Cook J.
+Citation: 2024 TCC 109
+Date: 20240815
+Docket: 2023-1884(GST)I
+BETWEEN:
+ROBERT GORGIS,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+REASONS FOR JUDGMENT
+Cook J.
+INTRODUCTION [1] In May 2017, Mr. Robert Gorgis and his sister (Sendus) entered into an agreement of purchase and sale to buy 13 Henry Wilson Drive in Calendon East, Ontario (the “Property”). The sale of the Property closed in January 2019. Mr. Gorgis acquired a 99% interest in the Property while his sister acquired a 1% interest in order to facilitate its financing.
+[2] Mr. Gorgis applied for a Goods and Services Tax/Harmonized Sales Tax (“GST/HST”) new housing rebate on the purchase of the Property. The Minister of National Revenue denied his rebate application by way of assessment dated May 3, 2021. That reassessment is now before this Court.
+ISSUES [3] In order to qualify for the GST/HST new housing rebate, a number of conditions must be satisfied. In this appeal, two of those conditions are at issue:
+a)When Mr. Gorgis entered into the agreement of purchase and sale, did he acquire it for use as his primary place of residence? This is required by paragraph 254(2)(b) of the Excise Tax Act (the “Act”).
+b)Was Mr. Gorgis the first individual to occupy the Property as a place of residence? This is required by subparagraph 254(2)(g)(i) of the Act.
+BACKGROUND [4] Mr. Gorgis came to Canada from Iraq in 2007 as a Syrian Christian refugee with his seven siblings after the deaths of his parents. He is part of a tight-knit family and in the years immediately preceding the purchase of the Property, he lived with several of his brothers and sisters at 42 Porterfield Road, Toronto, Ontario (“42 Porterfield”), which was owned by one of his brothers. Even after the purchase of the Property, he spent a considerable amount of time at 42 Porterfield.
+[5] At the relevant times, Mr. Gorgis was a self-employed tow-truck driver licensed to operate in Toronto. About the same time as the sale for the Property closed, Mr. Gorgis established Green Apple Auto Centre (“Green Apple”), an auto body shop located in Toronto that he owned and operated. It is evident that Mr. Gorgis is a hard worker. He worked 6 days a week and described his average workday as being at least 10 to 12 hours. On Sundays, Mr. Gorgis would spend time with his family and/or attend church in Toronto.
+[6] Mr. Gorgis found the Property because a brother and sister were purchasing in the same area. Mr. Gorgis was attracted to the Property because it was right beside the house of one of his sisters, her husband and their children, and one street over from another brother, his wife and their children. It was his first house purchase.
+[7] At the time he entered into the agreement of purchase and sale, Mr. Gorgis was in a relationship with a woman and he testified that he was planning to settle down. The woman was not involved in the decision to purchase and their relationship ended in the first half of 2019.
+[8] Mr. Gorgis took possession of the Property in January 2019, but did not immediately move in as he was in the midst of establishing Green Apple. He occupied the Property beginning in July 2019. He moved in with six pieces of luggage, laptops, a queen-size bed, dining-room table and chairs. These represented his personal belongings. Appliances were purchased for the Property.
+[9] He was the sole occupant of the Property until the end of July 2020 and his use of the Property appears to have been between two and four nights per week, mostly on weekends. Under an agreement with the builder, Mr. Gorgis was not allowed to rent out the Property for one year. In August 2020, the Property was leased to third-party tenants who still lease the Property. The basement was reserved for Mr. Gorgis’ use under the lease agreement. Mr. Gorgis testified that he moved to the basement when he rented out the rest of the house and that he continues to live there. As of the trial date, Mr. Gorgis still owned the Property.
+[10] Prior to the purchase of the Property, Mr. Gorgis’ primary residence was 42 Porterfield. Periodically, he would sleep in his tow truck while listening on his truck radios for towing jobs. Between July 2019 and July 2020, his arrangements were more complicated. He continued to be a tow-truck driver and was establishing Green Apple. On any given night, he might sleep at any of the Property, 42 Porterfield, Green Apple, or in his tow truck. It would depend largely on where his work took him that day and how tired he was. If he slept at 42 Porterfield, it was on a couch or in a brother’s bed. Green Apple had a bed and shower for his use. Mr. Gorgis rarely cooked for himself and, when eating at either 42 Porterfield or the Property, he would usually rely on a sister to cook for him.
+LAW [11] As noted above, two of the conditions set out in subsection 254(2) of the Act are at issue. Paragraph 254(2)(b) provides that:
+at the time the particular individual becomes liable or assumes liability under an agreement of purchase and sale of the complex or unit entered into between the builder and the particular individual, the particular individual is acquiring the complex or unit for use as the primary place of residence of the particular individual or a relation of the particular individual,
+[Emphasis added.]
+Subparagraph 254(2)(g)(i) provides, in part, that:
+the first individual to occupy the complex or unit as a place of residence at any time after substantial completion of the construction or renovation is
+(A) in the case of a single unit residential complex, the particular individual or a relation of the particular individual, and…
+[Emphasis added.]
+[12] This Court has considered eligibility for the GST/HST new housing rebate a number of times and those cases make it clear that eligibility for the rebate turns very much on the facts of the particular situation. Regarding whether the subject property was acquired for use as the primary place of residence of the appellant, “primary” connotes chief, principal or first in importance (see Burrows v. The Queen, [1998] GSTC 78 (TCC) at paragraph 15). The purchaser must have a settled intention to centre, or arrange, their personal and family affairs around the subject property.
+[13] As the appellants did in other cases, Mr. Gorgis has testified that his intention at the time of entering into the agreement of purchase and sale was to make the Property his primary place of residence. Prior decisions have held that expressions of subjective intent can sometimes be unreliable and that the actual use of property is frequently the best evidence of the purpose of its acquisition (see, e.g., Coburn Realty Ltd. v. The Queen, 2006 TCC 245 at paragraph 10). Some of the factors to consider in this context are set out in Sozio v. The Queen, 2018 TCC 258 at paragraph 15:
+Each case is an exercise in analyzing the taxpayer’s subjective intention using the unique facts of each appeal across a variety of indicia. The facts will provide direction and inform the application and weight to be given to the indicia. In short, is what a taxpayer says or intended supported across the waypoints of occupancy. Such indicia of occupancy as a primary residence are logical:
+a) demarcation of primary place of residence by change of address;
+b) the relocation of sufficient personal effects to the rebate property;
+c) if no occupancy of the residence, was there cogent evidence of frustration of occupancy;
+d) permanent occupant insurance versus seasonal or rental coverage;
+e) delivery of possession of previous primary residence to another;
+f) if dual occupancy continues, then the rebate property must be more frequently occupied, more convenient to third party locations such as work, more convenient amenities and more suitable to the needs of the taxpayer.
+[14] There is no fixed list of factors and there is no specific weight to be given to particular indicia. In the case of dual occupancy, the time spent at each location is very important and must be given great weight.
+[15] Whether the subject property is occupied as a place of residence also turns on the facts of the particular situation. The distinction between “the primary place of residence” and “a place of residence” in paragraphs 254(2)(b) and (g) make it clear that an individual can have more than one place of residence at any given time. In Sindhi v. The King, 2023 TCC 102 at paragraph 15, Chief Justice Rossiter pointed out that there is a difference between paragraph 254(2)(b) and paragraph 254(2)(g). The former focuses on the intention of the appellant to use the subject property as their “primary place of residence” while the latter simply refers to occupying it as “a place of residence”. In Sindhi, the Chief Justice found that the appellant had the requisite intent, but did not occupy the subject property as a place of residence:
+[24] It is my view that occupancy is something more than simply having a mattress with a set of sheets and pillowcases and a table on the premises. Although the Appellant did some measure of staying at the premises in question, two nights per week, this certainly could not classify one as occupying the premises. What he did was arrange for the heat to be turned on at the premises, but he had to have heat at the premises because of the weather conditions. He arranged for home insurance coverage, but this would be a requirement in order to obtain any financing whether it be a conventional or private lender. He arranged for internet, but then again, if he is going to spend anytime at the premises, he would need internet in this day and age. What he did not do speaks more with respect to whether or not there was an occupancy of the residence by the Appellant:
+a)he did not prepare or make any meals at the premises in question;
+b)he did not stay or occupy the premises for more than two nights per week;
+c)he continued to live with his parents in their place of residence;
+d)he did not change his address for mailing purposes;
+e)he did not relocate sufficient personal effects to the property in question;
+f)there was no evidence that it was more frequently occupied, in fact there was evidence to the contrary that it was less frequently occupied than his other residence that he was enjoying with his parents;
+g)there was no evidence with respect to convenience to a third party location such as work or more convenient amenities more suitable to the needs of the taxpayer.
+[25] There is no question in my mind that the Appellant had the intention to occupy the premises in question as his primary place of residence, but I do not believe that the evidence supports that he occupied the place of residence at a sufficient level to qualify for occupancy. Therefore, the Appellant does not satisfy the condition in paragraph 254(2)(g).
+SUBMISSIONS [16] Mr. Gorgis argued that he had signed a statutory declaration confirming his intention to acquire the Property for use as his primary place of residence and that the Respondent did not put the statutory declaration to him or challenge the evidence relating to his intention. Therefore, it must be accepted that the test regarding his intention at the time of entering into the agreement of purchase and sale has been met.
+[17] Mr. Gorgis distinguished Sindhi on the basis that although he did not move many personal belongings to the Property, those that he did have were so moved. He did change his mailing address for the Canada Revenue Agency (“CRA”) and on his driver’s licence (albeit belatedly). With respect to severing ties with 42 Porterfield, Mr. Gorgis did not have a lease, or other ongoing commitments, relating to 42 Porterfield. If he did sleep there, it was on a couch or in a brother’s bed.
+[18] Mr. Gorgis was a first-time homebuyer with no history or experience in the real estate market and only lived at one property (see Virani v. The Queen, 2010 TCC 113). Unlike cases where the rebate was denied, there was no immediate sale (i.e., there was no flip) of the subject property.
+[19] The Respondent pointed to the constellation of factors showing that, overall, Mr. Gorgis’ personal and business life heavily revolved around Toronto to argue that Mr. Gorgis did not intend to use the Property as his primary place of residence. The Respondent accepted that Mr. Gorgis occupied the Property, but argued, relying on Sindhi, that he did not do so in a fashion that rendered it a place of residence for him. The nature of his occupancy was also evidence that Mr. Gorgis did not intend to acquire the Property as his primary place of residence.
+ANALYSIS [20] As noted above, the issue of whether Mr. Gorgis intended to make the Property his primary place of residence when he entered into the agreement of purchase and sale requires an analysis of the actual use of the Property by him. This in turn relates to whether Mr. Gorgis was the first individual to occupy the Property as a place of residence. Therefore, I will consider that issue first.
+[21] I find that Mr. Gorgis was the first individual to occupy the Property as a place of residence. The Property was unoccupied until July 2019 so when he moved in he was clearly the first person to occupy it. The question is whether the Property was “a place of residence” for him starting in July 2019.
+[22] The Respondent argued that Mr. Gorgis’ personal and business life was oriented to Toronto and, undoubtedly, it largely was. He had a tow-truck licence for Toronto and could not offer towing services in Caledon East. Green Apple was in Toronto. The church he attended was in Toronto. Caledon East was about a 45 minute drive from Mr. Gorgis’ business interests and 42 Porterfield was closer. Depending on the night, Mr. Gorgis might have slept at any of the Property, 42 Porterfield, Green Apple, or in his tow truck.
+[23] The Respondent argued that Mr. Gorgis stayed at the Property almost exclusively on weekends and that when he did stay at the Property, he often ate at his sister’s house, which was beside the Property. Only after a period of delay, did he change his driver’s licence and address with the CRA to that of the Property. In this regard, the Respondent relies heavily on Sindhi, which found that the individual continued to live with his parents and did not make the subject property a place of residence. Mr. Gorgis testified that he stayed at the Property three or four nights per week.
+[24] Even if the Respondent were correct about the frequency of when Mr. Gorgis was at the Property, the quality of residence must be measured against the lifestyle of the particular individual. It is accepted that even before he moved into the Property or established Green Apple, Mr. Gorgis would sometimes sleep in his tow truck. He worked hard and his life was oriented around work and family. Given that Mr. Gorgis was a tow-truck driver, i.e., a person who drives for a living, I can easily accept that he would purchase and live at a property in Caledon East while having business interests in Toronto. Many residents of the Greater Toronto Area have similar commutes. This is in contrast to the facts in D’Ambrosio v. The Queen, 2014 TCC 63, where the relevant individual did not have a vehicle and could not commute for employment.
+[25] The fact that he would stay at the Property anywhere between two and four nights per week is consistent with it being a place of residence. At a minimum, it supports the notion of a secondary residence. Many cottages, for example, are used almost exclusively on weekends. His sister owned a house beside his and a brother owned a house a street over. I take the fact that his sister would cook for him as an indicator of his connection with family near the Property rather than as an indication that the Property was not a place of residence.
+[26] When he moved into the Property, Mr. Gorgis brought six pieces of luggage and a limited assortment of furniture; however, there is no indication that he had significant personal belongings elsewhere. This is in contrast to Kandiah v. The Queen, 2014 TCC 276 at paragraph 21, where Justice Miller found that the individual had taken a few belongings and had left behind virtually all their other belongings and furnishings in the family home. Given Mr. Gorgis’ lifestyle and the fact that he was establishing Green Apple, I am not surprised that the Property was sparsely furnished.
+[27] His use of the Property was more than transitory – he was the sole occupant of the Property for one year and he still owns it and has use of the basement. 42 Porterfield continued to be important to Mr Gorgis after buying the Property but he did not have a lease arrangement, or other indicia of dual occupancy, that would suggest that he lived at 42 Porterfield to the exclusion of the Property. Mr. Gorgis did not have any other residential property in his name (either owned or rented). 42 Porterfield was owned by another family member while Green Apple was a commercial property.
+[28] In this instance, Mr. Gorgis did have a bank account, utilities and insurance all using the Property’s address. I accord little weight to the fact that Mr. Gorgis did not immediately change his address for his driver’s licence or address with the CRA to that of the Property. He had family still living at 42 Porterfield and could easily pick up his mail there (see Yang v. The Queen, 2009 TCC 636 at paragraphs 9 and 10 and Montemarano v. The Queen, 2015 TCC 151 at paragraph 18). I do not find it particularly probative that the Property was well insured. The Property cost nearly $900,000 so one would expect it to be properly insured.
+[29] Having found that Mr. Gorgis occupied the Property as a place of residence, I turn now to whether Mr. Gorgis intended to use the Property as his primary place of residence when he entered into the agreement of purchase and sale in May 2017. I find that Mr. Gorgis had the requisite intent.
+[30] Mr. Gorgis testified that when he entered into the agreement of purchase and sale he intended to make the Property his “forever home”. I find him to be a generally credible and reliable witness. The Respondent did not challenge his testimony with respect to intention in any serious way on cross-examination. For example, there were no questions regarding for what alternative purpose Mr. Gorgis might have had in purchasing the Property. Instead, the Respondent focussed on the quality of Mr. Gorgis’ occupancy of the Property and argued that it did not constitute a place of residence for him or support the intention to acquire the Property as his primary residence.
+[31] As noted above, primary connotes chief, principal or first in importance. In this instance, the Property was the only residential property that Mr. Gorgis owned or rented at the relevant times.
+[32] I find both the circumstances under which Mr. Gorgis purchased the Property in May 2017, and its subsequent use, consistent with the intention to make the Property his primary place of residence when he entered into the agreement of purchase and sale. The Property was close to family members. Mr Gorgis was in a relationship, considering settling down and did not yet have his obligations associated with Green Apple. As well, Mr. Gorgis was a first-time homebuyer, he still owns the Property and it was not purchased as a secondary residence (see Collin v. The Queen, 2018 TCC 145, where the subject property was purchased as a pied-à-terre).
+CONCLUSION [33] For these reasons, I am of the opinion that Mr. Gorgis has met the requirements for the GST/HST new housing rebate. The appeal is allowed, without costs, and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the Appellant is entitled to the GST/HST new housing rebate.
+Signed at Ottawa, Canada, this 15th day of August 2024.
+“Ted Cook”
+Cook J.
+CITATION:
+2024 TCC 109
+COURT FILE NO.:
+2023-1884(GST)I
+STYLE OF CAUSE:
+ROBERT GORGIS v. HIS MAJESTY THE KING
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+May 22, 2024
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Edward (Ted) Cook
+DATE OF JUDGMENT:
+August 15, 2024
+APPEARANCES:
+Counsel for the Appellant:
+Leigh Somerville Taylor
+Counsel for the Respondent:
+Oluwaseun Senborne
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Leigh Somerville Taylor
+Firm:
+Leigh Somerville Taylor Professional Corporation
+For the Respondent:
+Shalene Curtis-Micallef Deputy Attorney General of Canada Ottawa, Canada

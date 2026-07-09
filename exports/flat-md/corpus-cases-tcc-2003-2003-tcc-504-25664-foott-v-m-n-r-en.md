@@ -1,0 +1,169 @@
+---
+title: "Foott v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/25664/index.do"
+last_modified: "2003-07-22"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 TCC 504"
+citation2: ""
+neutral_citation: "2003 TCC 504"
+decision_date: "2003-07-22"
+language: "en"
+item_id: "25664"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3831
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T17:55:28.731000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "4ee06a2960a25bfcf2f6ed8b2b146e057709fd9474d92dceab17548c79f7831a"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Foott v. M.N.R.
+
+- Citation: 2003 TCC 504
+- Decision date: 2003-07-22
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3831, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Foott v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-07-22
+Neutral citation
+2003 TCC 504
+File numbers
+2002-4280(EI)
+Judges and Taxing Officers
+David W. Beaubier
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2002-4280(EI)
+BETWEEN:
+LEONARD FOOTT,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard on July 10, 2003 at London, Ontario
+Before: The Honourable Justice D.W. Beaubier
+Appearances:
+Agent for the Appellant:
+Laurell Ritchie
+Counsel for the Respondent:
+Marlyse Dumel
+____________________________________________________________________
+JUDGMENT
+The appeal is dismissed and the decision of the Minister is confirmed.
+Signed at Vancouver, British Columbia, this 22nd day of July 2003.
+"D.W. Beaubier"
+Beaubier, J.
+Citation: 2003TCC504
+Date: 20030722
+Docket: 2002-4280(EI)
+BETWEEN:
+LEONARD FOOTT,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+REASONS FOR JUDGMENT
+Beaubier, J.
+[1] This appeal was heard at London, Ontario, on July 10, 2003. Gregory Caron, Canadian Auto Workers Union ("C.A.W.") Committee person at International Truck and Engine Corporation Canada, ("International"), Chatham, Ontario, testified for the Appellant. The Respondent called Katherine Sherring, Manager of Human Resources at International.
+[2] The Appellant was an employee of International at Chatham and a member of the C.A.W. there.
+[3] Paragraphs 2 to 6 inclusive of the Reply to the Notice of Appeal outline the issue. They read:
+2. International Truck and Engine Corporation Canada (the "Employer") appealed a ruling to the Respondent that there were no insurable hours associated with the Scheduled Paid Absence payment ("SPA") paid to the Appellant by the Employer, within the meaning of the Employment Insurance Act.
+3. By letter dated August 7, 2002, the Respondent informed the Employer and the Appellant that it had been determined that there were no insurable hours, within the meaning of section 9.1 of the Employment Insurance Regulations, associated with the SPA payment the Appellant received from the Employer.
+4. In making his decision, the Respondent relied on the following assumptions of facts:
+(a) the Appellant was laid off by the Employer;
+(b) the Employer issued a Record of Employment to the Appellant which indicated the Appellant had 652.5 hours of insurable employment, including 39 hours for SPA;
+(c) the Appellant received the SPA payment as a lump sum payment and the Appellant did not take any leave which could be associated with the SPA payment;
+(d) article 10 of the Collective Agreement between the Employer and the Employees deems the SPA payments as vacation pay.
+B. STATUTORY PROVISIONS, GROUNDS RELIED ON AND RELIEF SOUGHT
+5. He relies on section 9.1 of the Employment Insurance Regulations.
+6. He submits that the Appellant had no insurable hours in relation to the SPA payment he received from the Employer, within the meaning of section 9.1 of the Employment Insurance Regulations.
+[4] Section 9.1 and 10.1 of the Employment Insurance Regulations read:
+9.1 Where a person's earnings are paid on an hourly basis, the person is considered to have worked in insurable employment for the number of hours that the person actually worked and for which the person was remunerated.
+...
+10.1(1) Where an insured person is remunerated by the employer for a period of paid leave, the person is deemed to have worked in insurable employment for the number of hours that the person would normally have worked and for which the person would normally have been remunerated during that period.
+(2) Where an insured person is remunerated by the employer for a period of leave in the form of a lump sum payment calculated without regard to the length of the period of leave, the person is deemed to have worked in insurable employment for the lesser of
+(a) the number of hours that the person would normally have worked and for which the person would normally have been remunerated during the period, and
+(b) the number of hours obtained by dividing the lump sum amount by the normal hourly rate of pay.
+(3) Where an insured person is remunerated by the employer for a non-working day and
+(a) works on that day, the person is deemed to have worked in insurable employment for the greater of the number of hours that the person actually worked and the number of hours that the person would normally have worked on that day; and
+(b) does not work on that day, the person is deemed to have worked in insurable employment for the number of hours that the person would normally have worked on that day.
+[5] The principal provision of the C.A.W. - International Collective Agreement at issue is paragraph 387 of Article 10 which reads:
+387 Employees who have one or more years of seniority on the eligibility date will be entitled to Special Paid Absence (S.P.A.) provided they have worked in the twenty-five weeks prior to the eligibility date and are actively at work during the S.P.A. period. There are five periods of (S.P.A.) during this Collective Agreement:
+ELIGIBILITY DATE
+S.P.A. PERIOD
+November 6, 1999
+Jan. 3, 2000 - July 30,2000
+June 3, 2000
+July 31, 2000 - Feb. 25, 2001
+December 18, 2000
+Feb. 26, 2001 - Oct. 14, 2001
+August 27, 2001
+Oct. 15, 2001- May 19, 2002
+February 25, 2002
+May 20, 2002 - Dec. 22, 2002
+[6] Mr. Foott was laid off in November 2001. He was also entitled to one week of SPA. He was entitled to take it any time during the SPA period, subject to seniority rules. During employment he had to take the SPA as time off. If he had elected to take it before the lay off, it would have been treated as vacation time under the Employment Insurance Regulations. Once he was laid off, if he had not elected to take a lump sum payment of pay during the lay off, the lump sum was paid to him at the end of the lay off. Mr. Foott did not take the time off before the lay off. Therefore, he was paid the lump sum by International.
+[7] International and the C.A.W. treated the lump sum as vacation pay and vacation time for Employment Insurance purposes and the premiums were withheld and paid as Employment Insurance premiums. They had done this without objection for ten years before this occurrence.
+[8] On August 7, 2002, a decision in appeal from a ruling determined that:
+There are no insurable hours associated with the Vacation/Scheduled Paid Absence (SPA) payments for the following reasons. You did not take the leave and, therefore, there is no work associated to it.
+[9] The Respondent's argument is that Employment Insurance is paid for an hourly worker like Mr. Foott pursuant to Regulation 9.1(1) "for the number of hours that the person actually worked." If Mr. Foott had taken his SPA as time off, then it would have been a "period of paid leave" under Regulation 10.1(1) and he would have been "deemed to have worked in insurable employment" for forty hours. But, upon lay off, Mr. Foott did not receive his SPA payment "for a period of paid leave", nor did he receive it on an hourly basis when he "actually worked."
+[10] According to paragraph 387 of the Collective Agreement, employees are entitled to SPA where "employees ...have one or more years of seniority ... provided they have worked in the twenty-five weeks prior to the eligibility date and are actually at work during the S.P.A. period." Thus it constitutes remuneration which is calculated based on the number of hours that Mr. Foott actually worked and for which he was entitled to remuneration in the form of SPA, although he was paid SPA at a different time than when he had earned it. But this is no different in principle than the usual wage cheque which is paid to an employee after the work is done or on account of vacation. In Mr. Foott's case, he was paid SPA for forty hours of wages which he earned by working at International pursuant to the eligibility requirements set out in the Collective Agreement. In essence, his hourly earnings were in fact greater than the nominal hourly rate because of his entitlement to SPA. But he was paid these extra earnings by a second cheque at a later date. They were earned by his work done in a different hourly period which is why his actual hourly remuneration for the hours he actually worked was greater than his nominal hourly rate.
+[11] For these reasons, the Court finds that Mr. Foott's SPA remuneration is subject to Employment Insurance premiums because it is remuneration paid on an hourly basis for work in insurable employment that Mr. Foot actually worked. However he was laid off, and once laid off Mr. Foott could not take his SPA as paid leave nor was it associated with work because he had been laid off, and had no right to return to work at International.
+[12] For these reasons, the appeal is dismissed.
+Signed at Vancouver, British Columbia, this 22nd day of July 2003.
+"D.W. Beaubier"
+Beaubier, J.
+CITATION:
+2003TCC504
+COURT FILE NO.:
+2002-4280(EI)
+STYLE OF CAUSE:
+Leonard W. Foott v. The Queen
+PLACE OF HEARING:
+London, Ontario
+DATE OF HEARING:
+July 10, 2003
+REASONS FOR JUDGMENT BY:
+The Honourable Justice D.W. Beaubier
+DATE OF JUDGMENT:
+July 22, 2003
+APPEARANCES:
+Agent for the Appellant:
+Laurell Ritchie
+Counsel for the Respondent:
+Marlyse Dumel
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

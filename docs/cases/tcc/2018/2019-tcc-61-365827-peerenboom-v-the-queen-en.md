@@ -1,0 +1,321 @@
+---
+title: "Peerenboom v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/365827/index.do"
+last_modified: "2018-03-15"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2019 TCC 61"
+citation2: ""
+neutral_citation: "2019 TCC 61"
+decision_date: "2018-03-15"
+language: "en"
+item_id: "365827"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4312
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T11:52:17.535000+00:00"
+cases_cited_count: 6
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "556e8643d9f885ed2431f45fa255c7b5a05ba8deb2db10d298f6d51e81fe71a3"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Peerenboom v. The Queen
+
+- Citation: 2019 TCC 61
+- Decision date: 2018-03-15
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4312, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Peerenboom v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2018-03-15
+Neutral citation
+2019 TCC 61
+File numbers
+2016-439(IT)G
+Judges and Taxing Officers
+Randall S. Bocock
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2016-439(IT)G
+BETWEEN:
+HAROLD PEERENBOOM ,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on September 20 and 21, 2018, at Toronto, Ontario
+Before: The Honourable Mr. Justice Randall S. Bocock
+Appearances:
+Counsel for the Appellant:
+Dean Blachford
+Counsel for the Respondent:
+Jack Warren
+JUDGMENT
+IN ACCORDANCE WITH the attached Reasons for Judgment, the appeal from the reassessment made under the Income Tax Act for the 2007 is dismissed, without costs, and for the 2008 taxation years is allowed, without costs, on the basis that the reassessed income for the 2008 taxation year is reduced by the sum of $27,385.00 which represents the reimbursement of documented costs incurred by the Appellant’s spouse.
+The matter is referred back to the Minister of National Revenue for reconsideration and reassessment.
+Signed at Ottawa, Canada, this 15th day of March 2019.
+“R.S. Bocock”
+Bocock J.
+Citation: 2019TCC61
+Date:20180315
+Docket: 2016-439(IT)G
+BETWEEN:
+HAROLD PEERENBOOM,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Bocock J.
+I. INTRODUCTION
+(a) Amounts Outstanding
+[1] The Minister of National Revenue (the “Minister”) reassessed the appellant, Mr. Peerenboom, for unreported income in the 2007 and 2008 taxation years under the Income Tax Act, R.S.C. 1985, c.1, as amended (the “Act”). In the original reassessment, the sums of $176,755 and $168,302 were included in Mr. Peerenboom’s income for the two years, respectively. After objection, the Minister reduced the unreported other income for 2007 from $176,755 to $8,175.00.
+(b) Basis for Appeal in brief
+[2] Mr. Peerenboom brings this appeal on the basis that while all remaining amounts were indeed received by him from the payor, The Hive Inc. (“The Hive”); all such sums, were nonetheless received by him as agent for other parties: his wife, Mrs. Peerenboom, and/or his personal real estate holding company, Mandrake Properties Inc. (“Properties”). Mr. Peerenboom is the manager and sole shareholder of Properties which owns various commercial and industrial properties. Further, even if Mr. Peerenboom received the sums for himself, appellant’s counsel asserts that there was no source of income because there was no pursuit of profit by Mr. Peerenboom to procure such sums to that end. The Minister has not assessed Mr. Peerenboom under section 15(1) or of the Act, as having received a benefit. Moreover, the payments from The Hive were not related to Mandrake Management Consultants, an executive search firm owned by Mr. Peerenboom.
+II. FACTS AND STRUCTURE
+(a) The Appellant’s Relationship with The Hive and Invoicing
+[3] Mr. Peerenboom had a longstanding business relationship with The Hive and its principal, Mr. Krupski. The Hive is a promotional and strategic marketing firm for event management. This relationship is at the crux of the reassessment and allocation of unreported income by the Minister to Mr. Peerenboom. It was during a payroll audit of The Hive that the CRA discovered a “vendor transaction ledger” for Mr. Peerenboom. That ledger had recorded within it various amounts paid by the Hive to Mr. Peerenboom in 2007 and 2008. The payments may be summarized below:
+Item #
+Description
+Date
+Amount paid
+Mr. Peerenboom’s invoice and letter description
+1
+12507 12507-1
+11/30/2007
+$6,767.91
+To invoice balance for repair to stairs and walkaway to boathouse at Moongate
+2
+112906 11206-1
+11/30/2007
+$26,900.00
+To invoice for repairs to stairs and walkaway to boathouse at Moongate
+3 + 4
+112006 112006-1
+11/30/2007
+$37,191.80
+For repair and maintenance work performed at Moongate as requested by tenant
+5+6
+112506 112506-1
+11/30/2007
+$27,895.39
+For repair and maintenance work performed at Moongate as requested by tenant
+7
+43007 43007-1
+11/30/2007
+$75,000.00
+Rental on a “possession as requested basis” for the period January 1-Dec 31, 2007.
+8
+52108 52108-1
+5/31/2008
+$42,910.45
+Invoice: for services rendered; enclosure letter: to invoice for waterfront retaining wall to increase space for client entertaining
+9
+Serv rendrd – Feb08 Serv rendrd – Feb08-1
+6/27/2008
+$7,101.85
+Invoice: for services rendered; enclosure letter: “I’m acting as an agent for Properties for the collection of these expenses”
+10
+CNLSTG, Fee to Feb 2008 CNLSTG, Fee to Feb 2008-1
+9/8/2008
+$23,934.27
+Invoice: for services rendered; enclosure letter: “I’m acting as an agent for Properties for the collection of these expenses”
+11
+CNLSTG, Fee to Feb 08 Feb08
+9/8/2008
+$14,970.97
+Invoice: for services rendered; enclosure letter: “I’m acting as an agent for Properties for the collection of these expenses”
+12
+CNLSTG, Fee to Feb 2008 CNLSTG, Fee to Feb 2008-1
+9/8/2008
+$31,542.85
+Invoice: for services rendered; enclosure letter: for travel and repairs and maintenance, expense reimbursement
+13
+CNLSTG, Fee to May08 CNLSTG, Fee to May08-1
+9/8/2008
+$27,385.00
+Invoice: for services rendered; enclosure letter: replacement of shutters at Condo caused by tenant
+14
+CNLSTG, Fee to May08 CNLSTG, Fee to May08-1
+9/8/2008
+$24,691.55
+Invoice: for services rendered; enclosure letter: travel expenses for supervision of repair work at Condo
+[4] Items 1 through 6 inclusively, comprise the amounts conceded by CRA after the objection process. Item #7 is discussed separately below. This was explained by the CRA’s Mr. Phoenix during his testimony by reference to his notes. Within the invoices and responses produced by Mr. Peerenboom there were two considered reasons for excluding these items from Mr. Peerenboom’s income in 2007. Firstly, if they were income, they belonged in 2006, a statute barred year. Secondly, not one of Items 1 through 6 (or 7 for that matter) was described by Mr. Peerenboom, within his invoices as, “for services rendered”. All of the other reassessed items, being 8 through 14, were described in just such a way. As well, The Hive did not record items 1 through 7 as either “CNLSTF FEE” or “services rendered”. The Hive did so for items 8 through 14. For these reasons, CRA deleted items 1 through 6 completely (and item 7 partially) as unreported income for 2007 and did not otherwise reassess for 2006 under subsection 152 (4).
+[5] Each of the remaining items 8 through 14 remain in dispute before the Court. Save for items 10 and 11, Mr. Peerenboom asserts each of the other items relates to one of two properties owned by Mr. Peerenboom or his wife. A condominium in Palm Beach, Florida was owned by Mrs. Peerenboom (the “Condo”), This is not to be confused with a distinct town house located nearby in Palm Beach, Florida (the “Townhouse”) which figured in testimony. In addition, Mr. Peerenboom owns a sizeable property on Lake Simcoe, in Keswick, Ontario. Indicative of its size and appearance, the property has a name: “Moongate”. Mr. Peerenboom states that the Condo and Moongate were rented to The Hive during 2007 and 2008. As such, the payments made by The Hive comprising items 7,8,9,12,13 and 14, were not income to Mr. Peerenboom, but were paid on account of repairs, construction, related expenses and/or rent either to Mrs. Peerenboom or Properties. Properties was, in turn, Mr. Peerenboom’s sometime agent for management services related to the various properties. Items 10 and 11 were different. These items were simply the reimbursement of travel expenses for the evaluation, by Mr. Peerenboom, again as agent for Properties, of potential site venues. Presumably, the actual services were provided on a “courtesy” or speculative basis.
+(b) State of Documentation
+[6] There is no lease or tenancy agreement between the respective owner of the Condo or Moongate and The Hive, as tenant or licensee. Concerning the rental of the Condo for 2007 and 2008 there is a single invoice giving rise to the rental payment. It relates solely to 2007 (Item #7). While Mrs. Peerenboom owned the Condo, it was Mr. Peerenboom who issued the invoice to The Hive on April 30, 2007 describing the “possession as required basis for the period January 1-December 31, 2007”. No other written agreement between the owner, agent(s), or The Hive concerning the Condo was produced. With similar vagueness, Moongate was the subject of an “agreement to terminate sub-lease” between Properties and The Hive. This document was dated in March of 2007. Its terms provide as follows:
+Whereas sub tenant acknowledges that Mr. Robert Peters has left The Hive to relocate to Los Angeles and agrees to terminate the lease on the above noted property under the following terms and conditions.
+The sub tenant agrees to pay rent at the gross rate of 51,000/annum+GST, plus any increase in property taxes, for the duration of the lease agreed up to and including 2009, and any additional repairs and maintenance, for the years of 2007, 2008 and 2009. Payments to be made on an annual basis for these 3 years. It is agreed that this will be the cost to terminate the lease, and that the final 2 years of the lease (2010 & 2011) will be forgiven, provided that all the noted rent payments have been made.
+[7] A document entitled “Agreement to Sub Lease” covering Moongate for the years 2011-2016 was produced. It was done to provide the Court with a “prototype” of sorts which governed the years in question for which an actual lease did not exist. This document, was executed between the tenant, Properties and sub-tenant, The Hive. Again, the agreement to sub-lease is two paragraphs in length. It provides as follows:
+Whereas sub tenant shall lease property from tenant for a period of 5 years (commencing 2011/12) for 6 months of the year, each and every year of the lease. The months being leaser are:
+November December January February March April
+The sub tenant will pay rent at the gross rate of 8,500.00 per month ($51,000/annum) +HST. Additional payments for rent or operating expenses may be required based on circumstances as they may arise. Further The Hive agrees to pay 50% of the Moongate property taxes. It is further agreed that the lease will be on an evergreen basis and shall automatically renew for 5 years at the end of each 5 year term, unless either party terminates this renewal 60 days prior to the expiry of each 5 year term. It is further understood that should The Hive be sold or there is a major change in control (i.e. 50%). The lease shall be terminated upon 30 days notice by either party.
+(c) Agency Through Conduct
+[8] Prior to commencing an item by item analysis of disputed items 7 through 14, Mr. Peerenboom asserts that he acted as the agent for the Properties in several capacities: in managing its sub-tenancy to The Hive of Moongate; travelling to Florida and Egypt to provide “marketing assistance” to The Hive for business opportunities and in undertaking, as agent, property management of the rental of the Condo for Mrs. Peerenboom.
+[9] Similarly, if Mr. Peerenboom was not “sub-agent” for Properties concerning the Condo, then it is asserted that he was certainly agent for the owner, Mrs. Peerenboom. Only with an understanding of this assertion will Mr. Peerenboom’s central role in invoicing, collection, management and receipt of almost all moneys be appreciated during a review of the facts concerning each contested item. No written management, custodial or agency agreements existed or were produced. Instead, appellant’s counsel has asserted that third party knowledge is not required, implicit conduct may be sufficient and all elements are otherwise present to establish agency in this case, or, more precisely, in each case. Moreover, Appellant’s counsel has submitted that whatever sums Mr. Peerenboom received, quite apart from agency, such amounts were not received by Mr. Peerenboom from office, employment, business or property, and, particularly as assumed by the Minister, as section 9 income from a business or a property. Mr. Peerenboom received no such funds from an undertaking “actively earned in pursuit of profit”.
+(d) Legal Components of Agency
+[10] The Court makes the following observations concerning the issues, the characterization of Mr. Peerenboom’s relationship with The Hive and the evidence generally. Counsel for Mr. Peerenboom states this is not an expense case. Mr. Peerenboom is not required to account for every expense received by the principals of the two distinct agencies through the keeping of precise books and records; if such an agency exists, there is no onus of the agent to keep and organize receipts. Strictly speaking, this is true. It also misses the point. The Minister’s assumptions must be demolished by Mr. Peerenboom’s evidence that two (maybe three) distinct agencies exist. He bears the burden of marshalling that response. If the receipts are not income in his hands, as assumed by the Minister, he must therefore prove, on balance, that an agency of which he was agent existed to the extent of: (i) his agency for his wife’s Condo; (ii) his agency for Properties sub-lease of Moongate to The Hive; and (iii) his agency for Properties’ or his own pursuit of marketing opportunities for The Hive in both Egypt and Florida.
+[11] Generally, at law, what does it take to establish an agency? Firstly, a written agency agreement whether so in name or merely existing in substance, will usually suffice [1] . However, where no written agency agreement exists, the Court is obliged to examine the conduct of the parties in the context of the circumstances [2] . A key, if not paramount hallmark of distinguishing implicit agency is the degree of control of the principal over the agent; the greater the control, the more likely agency will apply [3] . Specifically, in multiple cases under the Excise Tax Act [4] , both the courts and the Minister have indicated that conduct of the parties in certain circumstances may supplant the need for parties’ actual knowledge of the existence of agency and detailed documentation. At the risk of repetition, circumstances including the relevant documentation and agreements, may allow this Court to construe such actions and documents as reflecting on agency relationship, despite the absence of an express appointment, descriptive nomenclature or a written agreement [5] .
+[12] From this, the Court must satisfy itself, on balance, that Mr. Peerenboom was an agent in each of the circumstances he says demolishes the Minister’s critical and relevant assumption: that the moneys received by Mr. Peerenboom were income for his own account and benefit and not for that of his alleged principals.
+[13] Armed with this framework as the basis for evaluating the facts relevant to the factual disputes central to this appeal, the analysis of each category of received sums is undertaken. The summary of factors for each item are gleaned from testimony of Mr. Peerenboom, Mr. Krupski, the CEO of The Hive, and the CRA appeal’s officer, Mr. Phoenix.
+(e) Evaluating the Oral Testimony
+[14] To elaborate, fundamentally important to such a finding by this Court are the facts marshalled by Mr. Peerenboom to dislodge the assumptions concerning income for his benefit. The factual evidence tendered by him and the other witnesses must be evaluated in light of the scant documents and other counter-vailing undisputed facts before the Court. To do so, a credibility assessment is to be undertaken firstly of Mr. Peerenboom and secondly of the other witnesses.
+[15] The evaluative framework for doing so has been established over the years before this Court within a line of authorities [6] . Generally summarized, where factual issues are in dispute, the testimony of a witness, particularly of a party proffering a version of facts, is subject to a credibility assessment based upon the certain indicia in search of comparative weaknesses, differences or gaps. These may be summarized as follows:
+(i) inconsistencies arising from different stages or sources;
+(a) during the witness’ own vive voce evidence (“internal”);
+(b) compared with the witness’ previous statements (“previous”); or,
+(c) compared with other conclusive, probable or undisputed findings of fact (“external”).
+(ii) the demeanour, attitude and/or comportment of the witness (“demeanour”);
+(iii) the existence of a motive to fabricate or massage evidence (“motive”); and,
+(iv) from a practical perspective, the overall tenor of the evidence as improbable (“rational improbability”).
+[16] Specifically, the testimony of Mr. Krupski was believable. Its believability was rooted in its credible vagueness, imprecision and distance. He admitted to having no direct knowledge of the agreements (such as they were), to having never reviewed any invoices, lease or any other document. He did candidly offer that he had a close, decades-long working relationship with Mr. Peerenboom; he trusted Mr. Peerenboom without the need for question, back up or evidence. The two would not squabble over minor, even sizeable, errors in quantum.
+[17] Examples of this trust and the limits of its extent were offered. Mr. Krupski never viewed the Condo or Moongate, at least during the time relevant to the claimed rent reimbursements and expenses. He also indicated there was no need for Mr. Peerenboom to repay a theoretically overbilled expense claim: approximately $13,500.00. However, enough was enough, when Mr. Peerenboom sought to add a 15% “fee” in respect of the Egypt Expenses (item #10), Mr. Krupski refused. The Hive derived no revenue from the “scouting trip” of Mr. Peerenboom and would therefore not pay the premium.
+[18] While not exactly oath helping, the lack of proximity to the facts and documents referencing alleged agency, gives Mr. Krupski’s testimony a kind of “character reference” quality. More precisely, what it does not give is useful first-hand knowledge of the bulk of the facts related to the timing, arrangements or documents which Mr. Peerenboom, or for that matter the Minister, relied upon in presenting their cases.
+[19] The testimony of Mr. Phoenix, the CRA auditor, centered around the documentary evidence, its sufficiency, accuracy and consistency. Its strength is weighed against Mr. Peerenboom’s below for internal, previous or external inconsistencies. As an unrelated, disinterested witness to the process, Mr. Phoenix’s evidence, barring a manifest indication otherwise, cannot be meaningfully analyzed for credibility by virtue of demeanour; secondary motive or rational improbability. Unlike Mr. Krupsky, Mr. Phoenix offered first-hand knowledge of The Hive’s, the payor’s, records.
+[20] As is seen below, Mr. Peerenboom’s testimony, in light of the inconsistent and spartan documentary record of agency – his critical basis of appeal – is to be assessed for credibility on the basis of: inconsistencies, his own internal or previous, and also external based upon the Court’s other findings; demeanour; secondary motive; and, rational improbability. Principally, these tests relate to credibility as to findings of fact where objective evidence does not exist. They are employed to resolve contested facts necessary to resolve the issues in dispute.
+[21] To reiterate, Appellant’s counsel states Mr. Peerenboom was an undocumented agent for two parties: his wife and his company, Properties. The scope of these agencies were different. For Mrs. Peerenboom, the agency related solely to the exclusive management of the Condo. For Properties, it related to its tenancy and sub-lease of Moongate and additionally Properties’ pursuit of marketing opportunities in Egypt and Florida for The Hiver.
+III. ANALYSIS OF PAYMENTS FROM THE HIVE
+[22] To assist in these distinct analyses, the Court identifies the “groups” of what Mr. Peerenboom describes are reimbursements of rent expenses and costs through him as agent for these two principals and which the Minister describes as recharacterized payments to Mr. Peerenboom in lieu of what should otherwise properly be characterized as income.
+Description of Agency
+Item #
+Nature of payments by The Hive per Mr. Peerenboom
+Disputed Amount(s)
+The Condo agency:
+Mrs. Peerenboom (principal)
+Mr. Peerenboom (agent)
+7
+Rent difference in 2007
+$8,125.00
+13
+Cost of shutter replacement
+$27,385.00
+14
+Travel to supervise condo repairs
+#12: $31,542.85 #14: $24,691.55
+The Moongate agency: Properties
+(principal)
+Mr. Peerenboom (agent)
+8
+Retaining wall construction
+$42,910.45
+The marketing strategies agency:
+Properties (principal)
+Mr. Peerenboom
+(agent)
+10
+Reimbursement for travel expenses to Egypt to scout event opportunities for The Hive
+$23,934.27
+9 and 11
+Reimbursement for travel expenses to Florida to pursue event opportunities for The Hive
+#9: $7,101.85 #11: $14,970.97
+a) 2007 TAXATION YEAR
+[23] The Court deals first with the 2007 allocation of income in the amount of $8,125.00. This amount is a residual sum. It arises through a deductive analysis concerning the amount of rent reported by Mrs. Peerenboom as the Condo owner, the exchange conversion between US and Canadian currency and certain undocumented expenses of the Condo owner for the year. The Minister has allowed $66,875.00 (US dollar equivalent) as rent, utilized by Mrs. Peerenboom in her own filings to arrive at a rental loss of some $18,000.00 related to the Condo. This additional amount was allowed by the Minister upon Mrs. Peerenboom substantiating her ownership and presenting the calculations concerning her rent and expenses for the Condo. The balance of $8,125.00, given Mr. Peerenboom’s actual prior receipt of the $75,000.00, was allocated to him as income; no documentation was produced to suggest it was remitted to Mrs. Peerenboom.
+[24] Has the Minister’s assumption been demolished by the evidence before the Court? It has not. For the reasons below, the Court dismisses this part of the Appeal relating to 2007 taxation year and the $8,125.00.
+[25] There are simply too many holes to be filled by testimony inconsistent with the documents, rational conclusions and what, more likely than not, occurred. Firstly, there is no lease to ascertain the obligation to pay expenses beyond the rent. Mr. Krupski confirmed this. Mr. Peerenboom did not state otherwise. Further, the terms of this unwritten verbal lease were apparently altered and amended whereby The Hive also agreed to pay additional expenses. However, the amounts and extent of such changes cannot be known or shown to exist. Should the Court conclude the lease existed, there is still no corroborative, reliable evidence to conclude the quantum of the rent, reimbursed expenses or, more importantly, the collection of rent by Mr. Peerenboom, as agent for Mrs. Peerenboom and the subsequent transfer of all of it through Properties (itself some kind of sub-agent) to Mrs. Peerenboom in exactly or even approximately for the sums claimed.
+[26] As to third party collaborative evidence, the tax returns of Mrs. Peerenboom, offered by Mr. Peerenboom, do not contain sufficient information to allow the Court to deductively ascertain the rent, its direct or indirect payment, how and when it was passed through the “agency” and why it was not invoiced and transferred by a properly instructed and diligent agent as rent for the Condo in 2007.
+[27] In conclusion, in the absence of some evidence reflecting the transfer of the residue of the funds from the alleged agent to principal, and the contemporaneous non-description by the payor of the sum as rent, the Minister’s assumption has not, on the preponderance of evidence, been demolished.
+b) 2008 Taxation Year
+Item #8 - $42,910.45 – Moongate Waterfront Repair Costs or Consulting Fees
+[28] The asserted agency with respect to these sums is quite nuanced. The invoices supposedly relating to the waterfront shoreline reconstruction were exclusively in the name of Mr. Peerenboom. Mr. Peerenboom was the registered legal and beneficial owner of Moongate. However, Properties was the manager of Moongate according to Mr. Peerenboom. Mr. Peerenboom explained that The Hive paid Mr. Peerenboom because he, in turn, was acting as agent for the principal, Properties, who in turn managed Moongate, at least to the extent of the lease to The Hive, for the registered owner, himself (Mr. Peerenboom), who was also the agent. In short, Mr. Peerenboom was acting as the agent for the manager of a property which he, the agent, himself owned. This elaborate structure was not reflected by any written agency agreement, management agreement or identification of capacity on executed documents.
+[29] Similarly, no written lease between The Hive and the agent or manager existed for the relevant period in 2008. When pressed, Mr. Peerenboom admitted this and suggested “let’s call it a verbal lease”. What was offered as written evidence were two documents: the agreement to terminate dated March 2007 and an agreement to sub-lease dated in 2011 described in paragraphs 5 and 6 above. Neither is particularly helpful, if even relevant. There was no evidence rent had been paid.
+[30] While the cost of the shoreline improvements is not in dispute, the alleged 50/50 cost sharing between The Hive and Mr. Peerenboom and the legal basis for doing so very much is. According to Mr. Peerenboom, The Hive felt the shoreline was unsafe for entertaining its clients at a “off-site” venue. The six months of the year when The Hive could use the property, according to Mr. Krupski, were the months of October to March. Mr. Krupski indicated they were happy with the results and would pay. Still, no agreement reflects such an obligation or characterizes the payments in this way.
+[31] For the following reasons, the Court rejects this basis of appeal:
+(i) there simply is no reliable evidence of a written lease between The Hive and Mr. Peerenboom for 2008. The termination agreement does not reflect the terms during that period. The 2011 lease is after the fact and contains its own irregularities;
+(ii) the need for safe shoreline access to Lake Simcoe during cocktail parties and retreats in the months of October through April seems improbable. These improvements were allegedly the sole basis for the payment;
+(iii) quite apart from the improvements, there was no base rent or licence fee enumerated or advanced into evidence as having been paid;
+(iv) while the before and after pictures of Moongate certainly revealed a much nicer shoreline, they also do not disclose that the works and costs were appropriately reimbursed in consideration of the vague, occasional access by way of a when available, off-season licence for “off-site” business meetings. While the Court does not second guess the structuring of business arrangements, it has been left guessing how to discern any arrangement in the absence of objective, contemporaneous and/or written documentation;
+(v) Mr. Peerenboom directly received all sums for these amounts, rendered all invoices and his payments from The Hive were recorded by it as consideration for “services rendered” to him;
+(vi) while certain invoices to Properties existed for the costs of the works, there was no reliable evidence that such payments from The Hive were ultimately for Mr. Peerenboom’s benefit, as landowner of Moongate, for whom Properties allegedly managed Moongate; and
+(vii) credibility is strained to accept that six month’s access, through a verbal lease (subject to subsisting termination), gave The Hive “on request”, and “as available” winter access with no other rent payable, but for which it would pay “additional rent” in the form of shoreline remediation costs which improvements its guests would probably not require given the season and nature of their visits.
+Item #9 – Marketing Concepts Expenses or Services Rendered
+[32] This claim for expense reimbursement is denied. The Minister denied the claim on the basis that there were no expense receipts related to the incurrence of the expenses by Properties, no reliable proof of payment by Mr. Peerenboom to Properties as its agent and no evidence Properties actually incurred the expense in the marketing concepts matter.
+[33] The evidence offered by Mr. Peerenboom that these payments were expense reimbursements to Properties rather than a payment for commercially focused services by him was inconclusive and not sufficiently destructive of the assumptions. Cancelled cheques did not exist. Corresponding invoicing was not clear. As such, there is no reliable evidence of agency, expenses relevant to Properties’ undertaking or conclusive payment to Properties by Mr. Peerenboom.
+Item # 10 and 11 – Egypt and Florida Travel Expenses
+[34] Mr. Peerenboom travelled to Egypt with his wife. He asserts the purpose of the trip was to inspect the prospects of The Hive undertaking a future event there. There was no written evidence of The Hive’s pre-agreement to this. This omission may have led to Mr. Peerenboom’s invoicing and contention that, in addition to the incurred “travel expenses”, The Hive should also pay a 15% auspice payment. How, or on what basis, this would be calculated was not clear. The Hive refused. Ultimately, Mr. Peerenboom received only the sum related to purported travel expenses. In his thank you letter of December 10, 2007, Mr. Kruspki thanked him for his services by indicating “Thank you very much for doing the site inspection in Egypt, your advice was most useful as we were not sure how unstable the area was… etc.”
+[35] On a similar basis, Mr. Peerenboom provided “advice” for doing the “site inspections” for events in Florida, where the Condo was coincidentally located. Mr. Kruspki described these trips as general advice from Mr. Peerenboom to Properties relating to the amounts. Aside from en bloc credit card statements containing all manner of personal charges, specific invoices were not received itemizing the nature of the “travel expenses”. The same vagueness and documentary absence existed concerning the existence of any agency.
+[36] With respect to these claims, the Court concludes based upon the following, that these sums, notwithstanding their characterization as travel expenses, were consulting or professional fees paid to Mr. Peerenboom by The Hive. It does so for the following reasons:
+(i) in his then current thank you letter, Mr. Krupski clearly identified Mr. Peerenboom as the service provider and did not reference his provision of services simply for Properties’ reimbursement of travel expenses;
+(ii) the asserted agency between Mr. Peerenboom and Properties for these two items is vague, opaque and less probable than is the likely receipt of consulting fees in Mr. Peerenboom’s hands; and
+(iii) the auspice fee demanded by Mr. Peerenboom is consistent with consulting fees and suggests a fee for service relationship, rather than solely expense reimbursement.
+[37] On balance, the Court finds that Mr. Peerenboom’s trip to Egypt and wintering in Florida were personal in nature. The trips would have been made in any event. The expense reimbursement is, more likely than not, camouflage for consulting fees relating to the scouting services. The lack of evidence of an agency, the relevance of the expenses to business costs incurred and the actual invoicing to The Hive “for services rendered” suggest the moneys were received by Mr. Peerenboom as consulting fees. The Hive recorded them exactly that way. Such assumptions of the Minister have not be demolished by the evidence tendered.
+Items # 12 and 14 – Travel and Maintenance for Condo or Consulting Fees
+[38] Mr. Peerenboom testified that the Condo was leased to The Hive pursuant to a verbal lease for 2007 and 2008 taxation years. He indicated that between 7 and 8% of the use was personal. Properties managed the Condo for Mrs. Peerenboom. In turn, although Properties was the manager, Mr. Peerenboom testified “It was really me”. In his management of these affairs, he was assisted by Properties. Therefore, in this case Mr. Peerenboom was the agent for Mrs. Peerenboom.
+[39] The bulk of these expenses related to living expenses and furniture for the Condo, allegedly reimbursed by The Hive to Mrs. Peerenboom via her agent, Mr. Peerenboom, and “his helper”, Properties. Because of the remodelling in 2008, Mr. Peerenboom asserts he was required to travel repeatedly from Canada to Florida. Such costs are what these payments purportedly reimbursed. However, the verbal lease for the Condo was terminated when it was discovered an employee of The Hive was using the Condo illicitly and damaging the Condo: to wit the shutter expenses in #13 below. This was confirmed by Mr. Krupski; the lease of the Condo was effectively terminated for cause in 2007, but the repairs and replacement of furniture at the Condo relating to these living expenses within items #12 and 14 were carried out thereafter. Such expenses were for The Hive’s account and Mrs. Peerenboom’s benefit, but paid to Mr. Peerenboom. It was admitted that the replacement furniture was delivered not to the Condo, but to the Town House. Mr. Peerenboom indicated he then moved the furniture to the Condo.
+[40] For the following reasons the appeal concerning these expenses is denied:
+(i) there is no consistent evidence of agency and the involvement of Properties (the actual payor of the initial expenses) clouds any such assertion;
+(ii) all of the repairs, furniture and travel costs paid by The Hive and assessed to Mr. Peerenboom took place after the verbal lease was effectively terminated in 2007;
+(iii) the delivery of the replacement furniture occurred over one day; the grocery, restaurant, fuel, airfare and clothing expenses incurred while living in Florida to conduct the repairs spanned the months of January through May, 2008;
+(iv) expenses billed comprise entire visa account balances for these four or five months without selective reduction, discernment or production to The Hive;
+(v) the expenses claimed were incurred in 2008, but the shutter replacement (item #13 below) was completed in 2007;
+(vi) the furniture was not delivered to the Condo, but the Townhouse; the Townhouse was neither owned by Mrs. Peerenboom nor leased to The Hive; and
+(vii) all invoices were rendered by Mr. Peerenboom and described “for services rendered”;
+[41] In short, the Minister’s assumption that the initial invoicing enumerating the payment as consulting fees was correct. The evidence submitted, both during representations after objection and at trial by Mr. Peerenboom, was insufficient to demolish this assumption.
+Item #13 – Condo Shutters Replacement Cost
+[42] On this item, Mr. Peerenboom shall succeed. This item is plainly distinguishable from the others for several reasons. The invoicing tracks identically to the reimbursed replacement costs. The costs were incurred in 2007 during a period when Mr. Krupski indicated The Hive occupied and rented the Condo. During that occupancy, its employee damaged the property. The repairs were then undertaken and completed, precisely according to the invoices, in the summer of 2007. It is uncertain whether Mr. Peerenboom attended the Condo during these repairs. No travel expenses were placed before the Court concerning that 2007 period. There was also a contemporaneous letter written by Mr. Krupski specifically acknowledging the cause of the damage by The Hive’s employee and a pre-approval to pay for the damages.
+[43] While one may be skeptical regarding the need to pay the full replacement cost for all the shutters, the Court notes the reasonability test of such expenses was not at issue in this appeal. The over-arching issue is whether the sums paid throughout were income in Mr. Peerenboom’s hands or costs reimbursed by the The Hive to the Condo owner pursuant to a legally subsisting arrangement, whether paid via Mr. Peerenboom as agent or not. The costs of these shutters and related repairs clearly benefitted the owner of the Condo, Mrs. Peerenboom. The costs were reflected in invoices directly related to these fixtures. The payor acknowledged responsibility in advance. Mrs. Peerenboom was the sole beneficiary of these payments, which correlated to the 2007 lease in respect of which she reported rental income received from The Hive.
+[44] Lastly, the Minister conceded at the conclusion of the evidence that Mrs. Peerenboom had a right to be compensated on the basis that the payments, more likely than not, constituted reimbursement for the Condo damages. Accordingly, the Respondent was prepared to accept the sum related to the Condo shutter replacement costs. On that basis, the analysis above concerning the shutters may seem redundant. However, the analysis of the shutter costs and reimbursement illustrates the evidentiary contrast between this item and the other items which were, on balance, recharacterized income. As such, the extra analysis has value by revealing previous and external inconsistencies which speak to the credibility of Mr. Peerenboom’s evidence.
+IV. CONCLUSION AND COSTS
+[45] Overall, the reimbursement of “expenses” totalling some $145,000, excluding the shutters (item #13), is generally inexplicable for several reasons. There was no reliable evidence before the Court the “expenses” related to concordant business, employment or property income. The shutter repairs aside, all asserted expense items were en bloc, vague and unrelatable to a credible and subsisting justification and reason for their incurrence. Certain connective tissue is missing. There is little reliable documentation or probable and consistent evidence for receiving, as agent, such sums as reimbursements. A supportable and understandable relationship with The Hive relevant to reimbursement on that basis is also missing. Therefore, the assessed sums are, more likely than not, other income relating to an undertaking in the nature of the consulting trade. This is how Mr. Peerenboom originally described them: “for services rendered”. Similarly, the payor classified them as consulting fees when paying them. The Minister’s reasons (later assumptions) when classifying the sums as such have not been demolished, but for the shutter replacement costs involving Mrs. Peerenboom’s Condo.
+[46] In light of the mixed results on the appeal, the Court shall make no order as to costs. This provisional cost determination is subject to the receipt of contrary written submissions from either of the parties within 30 days of this judgment. As a result of any such submission, the Court may determine otherwise. If it does not, this provisional award of costs shall become final without the need for any further order.
+Signed at Ottawa, Canada, this 15th day of March, 2019.
+“R.S. Bocock”
+Bocock J.
+CITATION:
+2019TCC61
+COURT FILE NO.:
+2016-439(IT)G
+STYLE OF CAUSE:
+HAROLD PEERENBOOM AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+September 20 and 21, 2018
+REASONS FOR JUDGMENT BY:
+The Honourable Mr. Justice Randall S. Bocock
+DATE OF JUDGMENT:
+March 15, 2019
+APPEARANCES:
+Counsel for the Appellant:
+Dean Blachford
+Counsel for the Respondent:
+Jack Warren
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Dean Blachford
+Firm:
+Tax Law Services Section
+Ottawa, Ontario
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Avotus v HMQ, 2006 TCC 505 at paragraphs 43 and 44.
+[2] Fourney v HMQ, 2011 TCC 520 at paragraph 44.
+[3] Advanced Glazing Systems v Frydenlund Ltd., [2000] B.C.T.C. 319 (BCSC) at paragraphs 66 and 67.
+[4] GEM Health Care Group v HMQ, 2017 TCC at paragraphs 24 and 25 referencing Merchant Law Group v HMQ, 2010 FCA 206 and Policy Statement P-182R.
+[5] Kinguk Trawl Inc v HMQ, 2003 FCA 85 at paragraphs 35 and 36.
+[6] Nichols v HMQ, 2009 TCC334 at paragraph 22 and 23; cited, inter alia, with approval and endorsement in Gosselin v HMQ, 2016 TCC 158 at paragraph 25; Ngai v HMQ, 2018 TCC 26 at paragraph 108.

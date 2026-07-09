@@ -1,0 +1,159 @@
+Title: Naidoo v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26688/index.do
+Corpus path: corpus/cases/tcc/2003/2003-tcc-394-26688-naidoo-v-m-n-r-en.md
+Document type: case_law
+Last modified: 2003-06-06
+
+# Naidoo v. M.N.R.
+
+- Citation: 2003 TCC 394
+- Decision date: 2003-06-06
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3434, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Naidoo v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-06-06
+Neutral citation
+2003 TCC 394
+File numbers
+2002-4473(OAS)
+Judges and Taxing Officers
+Campbell J. Miller
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2002-4473(OAS)
+BETWEEN:
+RAM NAIDOO,
+Appellant,
+and
+THE MINISTER OF HUMAN RESOURCES DEVELOPMENT CANADA,
+Respondent.
+_______________________________________________________________
+Appeal heard on common evidence with the appeal of
+Neela Naidoo (2002-4474(OAS)) on April 8, 2003
+at Edmonton, Alberta
+Before: The Honourable Judge Campbell J. Miller
+Appearances:
+Agent for the Appellant:
+Maglan Naidoo
+Counsel for the Respondent:
+Louis A.T. Williams
+_______________________________________________________________
+JUDGMENT
+The appeal from the decision of the Minister of Human Resources and Development dated September 3, 2002, reducing the Appellant's Guaranteed Income Supplement under the Old Age Security Act is dismissed.
+Signed at Ottawa, Canada, this 6th day of June 2003.
+"Campbell J. Miller"
+J.T.C.C.
+Docket: 2002-4474(OAS)
+BETWEEN:
+NEELA NAIDOO,
+Appellant,
+and
+THE MINISTER OF HUMAN RESOURCES DEVELOPMENT CANADA,
+Respondent.
+_______________________________________________________________
+Appeal heard on common evidence with the appeal of
+Ram Naidoo (2002-4473(OAS)) on April 8, 2003
+at Edmonton, Alberta
+Before: The Honourable Judge Campbell J. Miller
+Appearances:
+Agent for the Appellant:
+Maglan Naidoo
+Counsel for the Respondent:
+Louis A.T. Williams
+_______________________________________________________________
+JUDGMENT
+The appeal from the decision of the Minister of Human Resources and Development dated September 3, 2002, reducing the Appellant's Guaranteed Income Supplement under the Old Age Security Act is dismissed.
+Signed at Ottawa, Canada, this 6th day of June 2003.
+"Campbell J. Miller"
+J.T.C.C.
+Citation: 2003TCC394
+Date: 20030606
+Docket: 2002-4473(OAS)
+BETWEEN:
+RAM NAIDOO,
+Appellant,
+and
+THE MINISTER OF HUMAN RESOURCES DEVELOPMENT CANADA,
+Respondent.
+AND BETWEEN:
+2002-4474(OAS)
+NEELA NAIDOO,
+Appellant,
+and
+THE MINISTER OF HUMAN RESOURCES DEVELOPMENT CANADA,
+Respondent.
+REASONS FOR JUDGMENT
+Miller, J.T.C.C.
+[1] To describe the Income Tax Act (the "Act") as bewildering to the average taxpayer is an understatement of some considerable magnitude. Add the complexity of the interplay between that Act and Old Age Security legislation, and mix it with a strong dose of insurance parlance and you have what confronts me in this case - an elderly couple, Mr. and Mrs. Naidoo, confused and incredulous and seeking a restoration of their dignity. I will explain.
+[2] Mr. and Mrs. Naidoo are appealing, pursuant to subsection 28(2) of the Old Age Security Act ("OAS"), a decision of the Minister of Human Resources Development (the "Minister") dated September 3, 2002 in which Mr. and Mrs. Naidoo's Guaranteed Income Supplement ("GIS") for the period July 2002 to July 2003 was reduced. The reduction was as a result of the Minister's inclusion in income, for purposes of calculating the GIS, of an amount of $16,556. It is the inclusion of this amount in income, which the Naidoos find objectionable, and which is the issue over which this Court has jurisdiction.
+[3] Mr. and Mrs. Naidoo have a life insurance policy with the Standard Life Assurance Company (the "Standard Life"). They understood that upon reaching the age of 65 they could borrow funds from Standard Life against that insurance policy. In 2001 this is exactly what they did. Mr. Naidoo borrowed $25,000 in February 21, 2001 and another $10,000 in May 3, 2001. They were not advised by Standard Life prior to, or at the time of taking out the loan, that there would be any tax effect, let alone any impact on their Old Age Security payments. There was a significant effect.
+[4] The amounts contributed by the Naidoos' to the policy up to the time of the loans were $18,443.77. Subsequent to taking out the loans Mr. Naidoo was advised by Standard Life that he was required to bring into income for tax purposes the amount of the loans less the amount paid (or $35,000 minus $18,443.77, leaving $16,556.23). Mr. Naidoo does not dispute the numbers. He does not actually dispute that the Act requires he report the $16,556 as income. But he then received notice from Human Resources Development Canada that this increased income has the effect of reducing his and his wife's OAS income by $699. The provincial supplement was reduced by $319. Together this reduced their monthly income of $1,969 by $1,018, more than half their total income. This makes it extremely difficult, according to their son, for them to make the interest payments on the loan. The effect of that is that Standard Life, again according to the Naidoos' son, will borrow the interest payments against the policy, which will again be considered income, upon which Mr. Naidoo will be required to pay income tax, and which will continue to impact his GIS.
+[5] The Naidoos' son argues that had they been advised by the insurance company that this would be the result, they could have considered borrowing by assigning the policy to him for example, and he could have borrowed from a bank, without these devastating consequences to his parents.
+[6] Counsel for the Respondent appreciated the predicaments, but in reviewing the applicable legislation confirmed
+(a) in accordance with section 148 of the Act, the amount of the loans less their adjusted cost base ($35,000 minus $18,443) were properly included in income; and
+(b) in accordance with Part 11 of the OAS and the definition of income being a person's income computed in accordance with the Act, the amount of $16,556 included in income for tax purposes was likewise properly included in income for purposes of the calculation of the GIS payments.
+[7] The Appellants' position is that they were never advised and had no reason to believe a loan would constitute income, such that it would drastically reduce their GIS under the Old Age Security legislation. In effect, they wish to turn the clocks back and start over again in a way that would not lead to this unfortunate result. It is perhaps too much to expect that representatives of Standard Life and Canada Customs and Revenue Agency might have sat down with the Naidoos to attempt to do just that. Section 32 of the OAS invites the Minister to do that in the case of erroneous advice or administrative error. Unfortunately that is not what we are dealing with here. No, the strict wording of the legislation is quoted to confirm for the Naidoos their regrettable circumstance. So, off they come to Court looking for relief. And what do I have to tell them - sorry, the Court's only jurisdiction is to determine whether the government correctly calculated your income. It did. It is no comfort I am sure to the Naidoos that I am sympathetic to their position and their evident frustration.
+[8] I will go through the exercise of a review of the legislation.
+[9] The starting point is section 13 of the OAS, part of which reads as follows:
+... the income for a calendar year of a person or an applicant is the income of that person or applicant for that year computed in accordance with the Income Tax Act . . .
+[10] This leads to section 148 of the Act, part of which reads as follows:
+148(1) There shall be included in computing the income for a taxation year of a policyholder in respect of the disposition of an interest in a life insurance policy . . .
+the amount, if any, by which the proceeds of the disposition of the policyholder's interest in the policy that the policyholder, beneficiary or assignee, as the case may be, became entitled to receive in the year exceeds the adjusted cost basis to the policyholder of that interest immediately before the disposition.
+. . .
+148(9) Definitions. In this section and paragraph 56(1)(d.1) of the Income Tax Act, chapter 148 of the Revised Statutes of Canada, 1952,
+. . .
+"proceeds of the disposition" - "proceeds of the disposition" of an interest in a life insurance policy means the amount of the proceeds that the policyholder, beneficiary or assignee, as the case may be, is entitled to receive on a disposition of an interest in the policy and for greater certainty,
+. . .
+(b) in respect of a policy loan made after March 31, 1978 means the lesser of
+(i) the amount of the loan, other than the part thereof applied, immediately after the loan, to pay a premium under the policy, as provided for under the terms and conditions of the policy, and
+(ii) the amount, if any, by which the cash surrender value of the policy immediately before the loan was made exceeds the total of the balances outstanding at that time of any policy loans in respect of the policy.
+"Adjusted cost basis" is determined by the formula (A+B+C+D+E+F+G+G.1) - (H+I+J+K+L) where
+A is the total of all amounts each of which is the cost of an interest in the policy acquired by the policyholder before that time but not including an amount referred to in the description of B or E,
+B is the total of all amounts each of which is an amount paid before that time by or on behalf of the policyholder in respect of a premium under the policy, other than amounts referred to in clause (2)(a)(ii)(B), in subparagraph (iii) of the description of C in paragraph (a) of the definition "proceeds of the disposition" or in subparagraph (b)(i) of that definition,
+...
+E is the total of all amounts each of which is an amount in respect of the repayment before that time and after March 31, 19r78 of a policy loan not exceeding the total of the proceeds of the disposition, if any, in respect of that loan and the amount, if any, described in the description of J but not including any payment of interest thereon, any loan repayment that was deductible under paragraph 60(s) of this Act or paragraph 20(1)(hh) of the Income Tax Act, chapter 148 of the Revised Statutes of Canada, 1952 (as it applied in taxation years before 1985) or any loan repayment referred to in clause (2)(a)(ii)(B).
+[12] The definition runs to well over a page. I simply cite two or three of the subparagraphs to provide some flavour as to what the Appellants might be expected to know. In summary, income includes the lesser of the actual amount of the loans and the cash surrender value of the policy less the amount paid to that point by the Naidoos for the policy. I had not been provided at trial with the cash surrender value of the policy so requested that information from the parties, with only a slim idea that it might reduce the amount of calculated income. The cash surrender value was agreed to be over $40,000, so it in fact had no impact on the income calculation.
+[13] While the provision is complicated, in this case the determination of what is included in income is simple. The government did get it right. The amount of $16,556 was properly included in income.
+[14] What is unsettling for the Naidoos is that had they appreciated the ramifications of their decision to borrow against the insurance policy, they could have arranged their affairs differently to avoid this unfortunate result. Insurance companies would be doing their clients a huge service if they brought the tax treatment of these loans to their clients' attention prior to finalizing the loan. Even a notice to the client to seek tax advice due to the potential impact of loans would be an appropriate "heads up" that might save people in the Naidoos' situation.
+[15] I must dismiss the appeal as the Minister did correctly determine the Naidoos' income.
+Signed at Ottawa, Canada, this 6th day of June 2003.
+"Campbell J. Miller"
+J.T.C.C.
+CITATION:
+2003TCC394
+COURT FILE NO.:
+2002-4473(OAS) and 2002-4474(OAS)
+STYLE OF CAUSE:
+Ram Naidoo v. M.H.R.D. and
+Neela Naidoo v. M.H.R.D.
+PLACE OF HEARING
+Edmonton, Alberta
+DATE OF HEARING
+April 8, 2003
+REASONS FOR JUDGMENT BY:
+The Honourable Judge C.J. Miller
+DATE OF JUDGMENT
+June 6, 2003
+APPEARANCES:
+Agent for the Appellant:
+Maglan Naidoo
+Counsel for the Respondent:
+Louis A.T. Williams
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

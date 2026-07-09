@@ -1,0 +1,72 @@
+Title: Malinowski v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26201/index.do
+Corpus path: corpus/cases/tcc/2005/2005-cci-68-26201-malinowski-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2005-02-10
+
+# Malinowski v. The Queen
+
+- Citation: 2005 CCI 68
+- Decision date: 2005-02-10
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3946, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Malinowski v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-02-10
+Référence neutre
+2005 CCI 68
+Numéro de dossier
+2004-3093(IT)I
+Juges et Officiers taxateurs
+David W. Beaubier
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Référence : 2005CCI68
+Date : 20050210
+Dossier : 2004-3093(IT)I
+ENTRE :
+WIESLAW M. MALINOWSKI,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+(rendus oralement à l'audience à Vancouver (Colombie-Britannique),
+le 18 novembre 2004)
+[1] Cet appel, interjeté sous le régime de la procédure informelle, a été entendu à Vancouver (Colombie-Britannique) le 18 novembre 2004. L'appelant a témoigné. L'intimée a citéDomenica Cutaia, une employée de l'Insurance Corporation of British Columbia (l' « ICBC » ) en vue d'établir le changement d'adresse de l'appelant auprès de l'ICBC en 2002.
+[2] Les faits contestés sont énoncés aux paragraphes 4 à 9 inclusivement de la réponse à l'avis d'appel, lesquels sont rédigés comme suit :
+[traduction]
+4. En calculant les crédits d'impôt non remboursables pour l'année d'imposition 2002, l'appelant a déduit le montant maximum de 6 482 $ pour une personne entièrement à charge (le « montant » ).
+5. Par une cotisation datée du 1er décembre 2003, le ministre du Revenu national (le « ministre » ) a refusé le montant pour l'année d'imposition 2002 de l'appelant.
+6. L'appelant s'est opposé à la cotisation en signifiant au ministre un avis d'opposition le 13 janvier 2004.
+7. Le ministre a ratifié la cotisation et a délivré un avis de ratification le 22 avril 2004.
+8. En établissant l'impôt pour l'année d'imposition 2002 et en ratifiant cette cotisation, le ministre a supposé les mêmes faits, à savoir :
+a) pendant la période pertinente, l'appelant et Dorota Malinowski ( « Dorota » ) étaient mariés;
+b) l'appelant et Dorota ont un fils, Michael, né le 13 juin 1994;
+c) pendant la période pertinente, l'appelant et Dorota n'ont jamais été séparés ou divorcés;
+d) pendant la période pertinente, l'appelant n'a jamais maintenu une résidence autonome séparée, dans laquelle il subvenait aux besoins de Michael.
+B. QUESTIONS LITIGIEUSES À TRANCHER
+9. Il s'agit de savoir si l'appelant a le droit de demander le montant au titre d'un crédit d'impôt non remboursable pour l'année d'imposition 2002.
+[3] Aucune des hypothèses figurant au paragraphe 8 n'a été réfutée.
+[4] Diverses déclarations que l'appelant a faites au sujet des conditions de résidence en 2002 ont été présentées en preuve. Toutefois, voici ce qui a été établi :
+1. L'Agence du revenu du Canada (l' « ARC » ) a demandé à l'appelant de prouver qu'il vivait dans un établissement domestique autonome séparé au moyen de chèques émis pour le loyer, d'un bail, de factures d'électricité ou de téléphone. Or, l'appelant n'a fourni aucune preuve de ce genre à l'ARC ou à la Cour.
+2. L'appelant a admis avoir peut-être fait certaines demandes semblables à celle-ci au cours d'autres années.
+3. L'appelant a témoigné que sa femme lui avait demandé de déménager à la fin de l'année 2001 et il a affirmé que ses relations avec sa femme étaient parfois précaires ou qu'il y avait des altercations. Au mieux, cela indiquerait que l'appelant habitait parfois ailleurs qu'au foyer conjugal. Toutefois, sa femme n'a pas témoigné.
+[5] Par conséquent, l'appelant n'a pas satisfait à la charge qui lui incombe d'établir qu'en 2002, il maintenait un établissement domestique autonome séparé. La Cour ne croit pas les assertions de l'appelant à ce sujet. En particulier, aucun élément de preuve ne corroborait les déclarations en ce sens que l'appelant a faites, et ce, même si l'ARC avait averti l'appelant que pareille corroboration était nécessaire.
+[6] Pour ce motif, l'appel est rejeté.
+Signé à Calgary (Alberta), ce 10e jour de février 2005.
+« D.W. Beaubier »
+Juge Beaubier
+Traduction certifiée conforme
+ce 1er jour de novembre 2005.
+Sara Tasset

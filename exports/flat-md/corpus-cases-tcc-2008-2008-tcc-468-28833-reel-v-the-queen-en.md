@@ -1,0 +1,153 @@
+---
+title: "Reel v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28833/index.do"
+last_modified: "2008-08-18"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 TCC 468"
+citation2: ""
+neutral_citation: "2008 TCC 468"
+decision_date: "2008-08-18"
+language: "en"
+item_id: "28833"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1343
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T23:55:15.526000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "371460e380dae21d17c17b3844b1a883fd754134a0d62d6c290ca0bf08a5fddb"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Reel v. The Queen
+
+- Citation: 2008 TCC 468
+- Decision date: 2008-08-18
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1343, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Reel v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-08-18
+Neutral citation
+2008 TCC 468
+File numbers
+2008-351(IT)I
+Judges and Taxing Officers
+Gerald J. Rip
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2008-351(IT)I
+BETWEEN:
+WILLIAM REEL,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on August 5 and 8, 2008, at Toronto, Ontario.
+Before: The Honourable Gerald J. Rip, Chief Justice
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Justin Kutyan
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 2003 taxation year is dismissed.
+Signed at Ottawa, Canada, this 18th day of August 2008.
+"Gerald J. Rip"
+Rip C.J.
+Citation: 2008 TCC 468
+Date: 20080818
+Docket: 2008-351(IT)I
+BETWEEN:
+WILLIAM REEL,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Rip, A.C.J.
+[1] The issue in this appeal is whether the Minister of National Revenue properly assessed William Reel a penalty described in subsection 163(2) of the Income Tax Act[1] ("Act"). Mr. Reel does not dispute that he failed to include $38,464 in his income for 2003; he is of the view, however, that he did not do so knowingly or in circumstances amounting to gross negligence in the carrying out of a duty or obligation imposed by the Act.
+[2] Mr. Reel left university in 1994 after three years for a job. Most of his employment has been in sales. In 2002 he and Joseph Quinto incorporated Intellistor Solutions Corporation, which Mr. Reel described as a seller of computer tape back‑up. Each owned 50 per cent of Intellistor and were its directors. Mr. Quinto was president, Mr. Reel was vice‑president. The company's year‑end was July 31.
+[3] The role of Mr. Reel in the company was "strictly sales", he declared. Mr. Quinto was also in sales but also did the bookkeeping. Mr. Reel explained that the bookkeeping was maintained in a software program, Quick Books, which was on Mr. Quinto's computer. Invoicing, receivables, filings, he recalled, were all on Mr. Quinto's computer. Mr. Reel declared that he did not know the password to gain access to what was stored in the computer.
+[4] Mr. Reel "regularly" reviewed the company's "sales numbers" and other financial matters. All cheques, including all cheques payable to themselves, were signed by both Mr. Reel and Mr. Quinto.
+[5] Intellistor did not pay salaries to Mr. Reel and Mr. Quinto; they were paid "consulting fees" whenever the company had sufficient funds to pay them. They "tried to draw" $6,000 a month each but a decision on how much to pay in any month was dependent on leaving enough money in the company to operate. In some months, no fees were paid.
+[6] The Crown produced copies of the cheques paid to Mr. Reel as well as print outs of a "Account QuickReport" for Intellistor's 2003 and 2004 fiscal years. During the period January 2003 to July 31, 2003, during the company's 2003 fiscal year, the company paid Mr. Reel consulting fees of $50,852.57. During the period August 5, 2003 to October 23, 2003, the company's 2004 fiscal year, the company paid Mr. Reel consulting fees of $23,413.75, a total of $74,266.32 in calendar year 2003. Business expenses were claimed by Intellistor.
+[7] In the QuickReport, consulting fees were described in several categories: "Joe Quinto", "Maria Quinto", "Will Reel" and "Other". (In fiscal years 2003 and 2004, there were additions to consulting fees in respect of amounts owed by the two shareholders.)
+[8] In filing his 2003 income tax return, Mr. Reel reported income from Intellistor of $35,852. Mr. Quinto "processed" the cheques. Mr. Reel acknowledged that he knew the amount of money he was receiving on a monthly basis. He said "we knew we had to . . . declare income and pay tax on personal income . . ."
+[9] Richard Sanders was accountant for Intellistor and also prepared Mr. Reel's 2003 tax return. Mr. Reel's position in the appeal is that he was not grossly negligent in failing to include $38,414 of consulting fees in his 2003 tax return because Mr. Sanders knew what his consulting fees from Intellistor were and that it was Mr. Sanders who failed to include all the fees in his 2003 tax return. Mr. Reel declared that he relied on a professional accountant who knew his affairs and the affairs of Intellistor, the payor of the consulting fees, to prepare the returns. Any failure to report income, Mr. Reel said, was not done on purpose. He had engaged a public accountant to prepare his return.
+[10] Mr. Reel met with Mr. Sanders to discuss both his personal return and the corporate return. Mr. Reel had asked Mr. Quinto to send Mr. Sanders any material he required to prepare tax returns but he did not know exactly what Mr. Quinto may or may not have sent to Mr. Sanders. When he reviewed his personal return with Mr. Sanders, Mr. Reel checked only to see how much tax he owed. There was no discussion. He had not made any instalment payments for the year.
+[11] Mr. Sandeep Kanvinde, an auditor with the Canada Revenue Agency ("CRA"), also testified. During the course of a Goods and Services tax audit of Intellistor he found a discrepancy between the consulting fees reported by the corporation and those reported by Mr. Reel. (Apparently, Mr. Quinto did not file an income tax return for 2003.) The discrepancy was 107 percent, i.e., the amount not reported was 107 percent of the amount reported.
+[12] The fact of the large discrepancy between the amounts reported and not reported and that Mr. Reel had signed all of the cheques paid to himself influenced Mr. Kavinde to recommend a subsection 163(2) penalty. In his view, the directors were in charge of the funds disposed of and had personal knowledge of the payments.
+[13] When Mr. Kavinde interviewed Mr. Reel, Intellistor had ceased to be active. He acknowledged Mr. Reel's cooperation in the corporate and personal audits. Documents were "freely" provided to the CRA.
+[14] The Crown acknowledges that Mr. Reel did not knowingly make any false statements or omission in his 2003 tax return. There was no deliberate intention to deceive the CRA.
+[15] The issue is whether, on the facts before me, Mr. Reel's failure to report income was due to his gross negligence.
+[16] Counsel for the respondent submitted that Mr. Reel was wilfully blind in failing to recognize that his income was far greater than what he reported. Mr. Reel had worked for various businesses and had a post‑secondary education. Intellistor carried on a small business and Mr. Reel was one of its two shareholders and directors. Mr. Reel had only one source of income. He signed cheques for the corporation. He deposited the cheques he received as consulting fees in his personal bank account. He was, or should have been, aware of his income.
+[17] Mr. Reel, counsel explained, appears to have been more interested in generating income for Intellistor than paying his personal tax liability.
+[18] In his testimony, Mr. Reel emphasized his lack of access to Intellistor's books of account, in particular the information on Mr. Quinto's computer. However, counsel distinguished the corporation's books of account from Mr. Reel's personal books and records. Counsel suggested that some other person may have been at fault with respect to Intellistor's accounts but Mr. Reel knew "what was coming in" as far as he was personally concerned. He knew how much he was spending and ought to have known the amount of income he was earning to support the expenditures.
+[19] Strayer J. explained in Venne v. The Queen[2] that "'gross negligence' must be taken to involve greater neglect then simply a failure to use reasonable care. It must involve a high degree of negligence tantamount to intentional acting on indifference as to whether the law is complied with or not."
+[20] Mr. Reel was not overly concerned with the income to be reported. When he met with Mr. Sanders, he was only interested in how much tax he owed for 2003. He obviously was content with the relatively little tax he had to pay. Apparently, he did not review the tax return nor did he query Mr. Sanders about the information on the return. Mr. Reel was indifferent as to what was included in his tax return.
+[21] In DeCock v. M.N.R.[3], I stated that a businessman who knows his sources of income cannot exculpate himself from liability of a subsection 163(2) penalty by handing over his tax affairs to a professional and blindly, without question, accept what the professional has done.
+[22] Mr. Reel is placing the blame for the failure to report income on his accountant Mr. Sanders. Mr. Reel did not know what information Mr. Sanders requested and what information he may have provided to him directly or through Mr. Quinto.
+[23] Mr. Kavinde testified that the audit of Mr. Reel was triggered by the fact that Intellistor was claiming deductions of consulting fee payments in excess of what Mr. Reel reported. Is this, based on Udell v. M.N.R.[4], sufficient for me to find that Mr. Reel provided Mr. Sanders with the required information?
+[24] In Udell, the appellant habitually made faithful entries in his pre‑printed account book and entrusted a public accountant to prepare his tax returns. In transposing Mr. Udell's figures to his working papers, the accountant made a number of errors conceded to be the result of gross negligence.
+[25] There is no evidence as what triggered the failure to report the income in question. Was the failure due to Mr. Sanders' gross negligence or was the information provided to him tainted? Mr. Sanders did not testify. I informed Mr. Reel that I was prepared to adjourn the trial of his appeal if he wished to call Mr. Sanders to testify; Mr. Reel replied he wished to continue with the trial.
+[26] Bowman C.J. wrote that:
+In drawing the line between "ordinary" negligence or neglect and "gross" negligence a number of factors have to be considered. One of course is the magnitude of the omission in relation to the income declared. Another is the opportunity the taxpayer had to detect the error. Another is the taxpayer's education and apparent intelligence. No single factor predominates. Each must be assigned its proper weight in the context of the overall picture that emerges from the evidence.[5]
+[27] In the appeal at bar, we have an intelligent person who fails to disclose 107 percent of his income, income that was paid to him by cheques signed by him. As Bowman C.J. said in DaCosta, an appellant cannot "nonchalantly sign his return and turn a blind eye to the omission"[6] of amounts, that in this appeal, he was instrumental in paying to himself. This is more than simple neglect.
+[28] The appeal is dismissed.
+Signed at Ottawa, Canada, this 18th day of August 2008.
+"Gerald J. Rip"
+Rip C.J.
+CITATION: 2008 TCC 468
+COURT FILE NO.: 2008-351(IT)I
+STYLE OF CAUSE: WILLIAM REEL v.
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: August 5 and 8, 2008
+REASONS FOR JUDGMENT BY: The Honourable Gerald J. Rip, Chief Justice
+DATE OF JUDGMENT: August 18, 2008
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Justin Kutyan
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Subsection 163(2) reads, in part, as follows:
+(2) False statements or omissions — Every person who, knowingly, or under circumstances amounting to gross negligence, has made or has participated in, assented to or acquiesced in the making of, a false statement or omission in a return, form, certificate, statement or answer (in this section referred to as a "return") filed or made in respect of a taxation year for the purposes of this Act, is liable to a penalty . . .
+(2) Faux énoncés ou omissions — Toute personne qui, sciemment ou dans des circonstances équivalant à faute lourde, fait un faux énoncé ou une omission dans une déclaration, un formulaire, un certificat, un état ou une réponse (appelé « déclaration » au présent article) rempli, produit ou présenté, selon le cas, pour une année d'imposition pour l'application de la présente loi, ou y participe, y consent ou y acquiesce est passible d'une pénalité […]
+[2] 84 D.T.C. 6247, 6256 (FCTD).
+[3] 84 D.T.C. 1523, 1528.
+[4] 70 D.T.C. 6019.
+[5] DaCosta v. The Queen, 2005 TCC 545, par. 11.
+[6] Par. 12.

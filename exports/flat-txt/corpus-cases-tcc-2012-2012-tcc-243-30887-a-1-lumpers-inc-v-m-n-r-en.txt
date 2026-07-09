@@ -1,0 +1,183 @@
+Title: A-1 Lumpers Inc. v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30887/index.do
+Corpus path: corpus/cases/tcc/2012/2012-tcc-243-30887-a-1-lumpers-inc-v-m-n-r-en.md
+Document type: case_law
+Last modified: 2012-07-18
+
+# A-1 Lumpers Inc. v. M.N.R.
+
+- Citation: 2012 TCC 243
+- Decision date: 2012-07-18
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7446, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+A-1 Lumpers Inc. v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2012-07-18
+Neutral citation
+2012 TCC 243
+File numbers
+2008-4212(EI), 2009-14(CPP)
+Judges and Taxing Officers
+Valerie A. Miller
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2008-4212(EI)
+BETWEEN:
+A-1 LUMPERS INC.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeal of A-1 Lumpers Inc. (2009-14(CPP) on June 13-14, 2012, at Fredericton, New Brunswick
+Before: The Honourable Justice Valerie Miller
+Appearances:
+Counsel for the Appellant:
+J. Paul M. Harquail
+Misty Watson
+Counsel for the Respondent:
+Gregory B. King
+____________________________________________________________________
+JUDGMENT
+The appeal is dismissed and the decision of the Minister of National Revenue is confirmed that Michael R. Trueman was engaged in insurable employment while engaged by the Appellant for the period January 7, 2007 to July 21, 2007 in accordance with paragraph 5(1)(d) of the Employment Insurance Act and paragraph 6(g) of the Employment Insurance Regulations.
+Signed at Halifax, Nova Scotia, this 18th day of July 2012.
+“V.A. Miller”
+V.A. Miller J.
+Docket: 2009-14(CPP)
+BETWEEN:
+A-1 LUMPERS INC.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeal of A-1 Lumpers Inc. (2008-4212(EI) on June 13-14, 2012, at Fredericton, New Brunswick
+Before: The Honourable Justice Valerie Miller
+Appearances:
+Counsel for the Appellant:
+J. Paul M. Harquail
+Misty Watson
+Counsel for the Respondent:
+Gregory B. King
+____________________________________________________________________
+JUDGMENT
+The appeal is dismissed and the decision of the Minister of National Revenue is confirmed that Michael R. Trueman was employed in pensionable employment while engaged by the Appellant for the period January 7, 2007 to July 21, 2007 in accordance with paragraph 6(1)(a) of the Canada Pension Plan and subsections 34(1) and (2) of the Canada Pension Plan Regulations.
+Signed at Halifax, Nova Scotia, this 18th day of July 2012.
+“V.A. Miller”
+V.A. Miller J.
+Citation: 2012TCC243
+Date: 20120718
+Docket: 2008-4212(EI)
+2009-14(CPP)
+BETWEEN:
+A-1 LUMPERS INC.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGMENT
+V.A. Miller J.
+[1] A-1 Lumpers appeals the decision made by the Minister of National Revenue (the “Minister”) that Michael R. Trueman (the “Worker”) was employed by it in insurable and pensionable employment during the period January 7, 2007 to July 21, 2007.
+[2] In making his decision, the Minister decided that the Appellant was acting as a placement agency with respect to the Worker in accordance with paragraph 6(g) of the Employment Insurance Regulations (the “EI Regulations”) and subsections 34(1) and 34(2) of the Canada Pension Plan Regulations (the “Plan”).
+[3] The Appellant denied that it was a placement or employment agency. According to Mae LeBlanc, president and sole shareholder of the Appellant, the Appellant’s primary business was to offer brokerage services to lumpers. (A “lumper” is a person who is hired to load and unload goods from trucks into warehouses or from warehouses onto trucks.)
+[4] It was Mae LeBlanc’s evidence that the Appellant considered its clients to be the lumpers. The description she gave of the brokerage service offered by the Appellant to lumpers was basically the same as that given in paragraph 10 of the Notice of Appeal. That paragraph reads:
+10. The primary service provided by the Appellant is to offer lumpers a method of expedited and regulated payment. After the completion of a lumpering task or several lumpering tasks, a lumper may bring confirmation of the completed task(s) to the Appellant. The lumper then receives from the Appellant an expedited, lump sum payment for the work done. The Appellant withholds a percentage of the lumper’s pay as a commission for this expedited payment service. By withholding a percentage of the wage, the Appellant buys / the lumper assigns the lumper’s claim for payment which the Appellant later enforces against the relevant carrier, warehouse receiver, or truck driver to recover the money fronted to the lumper. In this way, the Appellant acts, inter alia, as a broker and conduit of monies for the lumpers.
+[5] To support the evidence given by Mae LeBlanc, the Appellant also led evidence through two witnesses who are lumpers. Darrel Carruthers stated that he worked at different warehouses; he knew the warehouse receivers and he obtained his own lumpering jobs. He only used the Appellant to do his administrative tasks; to invoice the carriers for whom he unloaded goods; and, to pay him his wages on an expedited basis. However, it was Shawn Carter’s evidence that all of his lumpering work was obtained through the Appellant. Although he has never discussed with the carriers whether they would pay him directly, he assumed that he could bill them directly or sell his information to another company which offered lumping services.
+[6] In the Notice of Appeal, the Appellant also described a rate negotiation service which it offered to the lumpers:
+12. In addition to its primary brokerage services, the Appellant also offers a rate negotiation service to lumpers. The Appellant determines where merchandise will be delivered and when lumpering services will be required. The Appellant then negotiates the lumpering rate, in advance, with the relevant carrier, warehouse receiver, broker, or truck driver. The Appellant only negotiates the rate; the Appellant does not contract with the carrier, warehouse receiver, or truck driver to provide lumpering personnel.
+[7] The Respondent called three witnesses: Michael Trueman, the Worker; Jeff Pearson, a terminal manager with Day & Ross Transportation (“Day & Ross”); and, Robert Brittain, a rulings officer from the Canada Revenue Agency (“CRA”).
+[8] The regulations at issue in this appeal read as follows:
+EI Regulations
+6. Employment in any of the following employments, unless it is excluded from insurable employment by any provision of these Regulations, is included in insurable employment:
+(g) employment of a person who is placed in that employment by a placement or employment agency to perform services for and under the direction and control of a client of the agency, where that person is remunerated by the agency for the performance of those services.
+Plan
+34. (1) Where any individual is placed by a placement or employment agency in employment with or for performance of services for a client of the agency and the terms or conditions on which the employment or services are performed and the remuneration thereof is paid constitute a contract of service or are analogous to a contract of service, the employment or performance of services is included in pensionable employment and the agency or the client, whichever pays the remuneration to the individual, shall, for the purposes of maintaining records and filing returns and paying, deducting and remitting contributions payable by and in respect of the individual under the Act and these Regulations, be deemed to be the employer of the individual.
+(2) For the purposes of subsection (1), “placement or employment agency” includes any person or organization that is engaged in the business of placing individuals in employment or for performance of services or of securing employment for individuals for a fee, reward or other remuneration.
+[9] The term “placement or employment agency” is not defined in the EI Regulations; but, it is my view, that the definition of that term in the Plan is applicable to the EI Regulations[1]. In its Pre-Hearing Brief, the Appellant agreed with this conclusion.
+[10] The regulations are satisfied if:
+a) The Worker was placed in his employment by the Appellant;
+b) The Worker performed services for the Appellant’s client;
+c) The Worker was remunerated by the Appellant;
+d) In respect of the Employment Regulations, the Worker was under the direction and control of the Appellant’s client; and
+e) In respect of the Plan, the Worker performed services for the Appellant’s client under terms or conditions that constitute a contract of service or that are analogous to a contract of service.
+Placement Agency
+[11] Although the Appellant may have offered the various services which it described in its pleadings, it is my view that it also acted as a placement or employment agency with respect to the Worker whose evidence was unequivocal that all of his lumpering jobs were obtained through the Appellant. Either he called the Appellant or the Appellant’s dispatcher called him to advise him when, where and on which carrier his services were needed. At the time that he was called by the Appellant’s dispatcher, he was also told the hourly or per load rate he would receive from the Appellant. The Worker did not negotiate his rate nor do I believe that he was asked what his costs would be as was indicated by Mae LeBlanc. The Worker’s evidence was not shaken on cross-examination.
+[12] The Appellant advertised with Service Canada for lumpers. It was the Worker’s evidence that he learned about the Appellant from its advertisement with Service Canada.
+[13] The Appellant advertised its lumpering services on its website where it asserted that “A1 Lumpers serves the greater Moncton area with untouchable lumper services” and “only the best and most experienced lumpers have lumper contracts with A1 Lumpers” and that it provided “an excellent and efficient crew with over a decade of proven dependability”. Clearly, the Appellant marketed its services to the carriers and the warehouses.
+[14] Although Mae LeBlanc tried to distance herself from the statements on the website by saying that she had no input into the phraseology used in the website and that it was designed by her daughter, I note that the Appellant’s new website made the exact same declarations.
+[15] The Minister assumed that the Appellant advertised the services of providing lumpers to carriers and warehouses. That assumption was not demolished by the Appellant and in fact the evidence supported the assumption. I find that one of the services offered by the Appellant was that of a placement agency and that it placed the Worker in employment during the relevant period.
+Placed with the Appellant’s Clients
+[16] Mae LeBlanc was adamant that it was the lumpers, not the carriers or the warehouses, which were the Appellant’s clients. I found her evidence to be self-serving.
+[17] It was Jeff Pearson’s evidence that Day & Ross contracted with the Appellant to supply lumpers to unload its carriers. Likewise, it was Robert Brittain’s evidence that he spoke to Don Depuis, the general manager for the Appellant, who informed him that the Appellant contracted with the carriers and the warehouses to supply lumpers to unload trucks. The Appellant maintained a list of active lumpers to provide these services.
+[18] I do not know if the Appellant had a written contract with those who used its lumpering services but the lack of formality does not negate the evidence that they were the Appellant’s clients. The carriers and warehouses complained to the Appellant when there were insufficient lumpers on site. They were invoiced by the Appellant and they paid the Appellant’s bill. In fact, Jeff Pearson stated that Day & Ross would not pay an invoice from an individual lumper when the arrangements to provide the lumping services had been made with the Appellant.
+[19] As further evidence of my finding that the warehouses and carriers were the Appellant’s clients, Mae LeBlanc testified that when Source Medical contacted the Appellant to do work, they specifically asked for the Worker to be sent to do the job.
+[20] Based on the evidence, I conclude that the Appellant’s clients were the various warehouses and carriers (the clients) which requested the lumping services.
+Under the Direction or Control of the Appellant’s Client
+[21] All witnesses, including Mae LeBlanc, testified that when the lumpers were performing all of their tasks, such as unloading or loading a carrier, or wrapping goods in plastic, they were under the direction and control of the truck drivers or the warehouse personnel.
+Remuneration
+[22] I do not believe that the Appellant negotiated a rate with the carriers and warehouses for the benefit of the lumpers. The Appellant’s motives were not altruistic. It negotiated a rate with those who used its lumpering services and then told the lumpers what they would be paid for each job. According to Mae LeBlanc, if the Appellant negotiated a rate of $60 or $65 per load with the carrier, it would pay the lumper anywhere from $30 to $45 per load.
+[23] I found that Mae LeBlanc’s evidence was not very forthcoming when she was questioned about the particulars of the rate negotiation services which the Appellant allegedly offered.
+[24] The Worker was told by the Appellant’s dispatcher what his rate of pay would be when he was called to do a job. I conclude that the Appellant determined the Worker’s rate of pay.
+[25] The Worker was paid by the Appellant by way of direct deposit in his bank account after a two week holdback. The Appellant invoiced the clients and was paid by cheque made payable to it alone. According to Mae LeBlanc, the Appellant was paid within 30 to 100 days of the invoice being sent.
+[26] In Graphic Assistants Inc./Assistance Graphique Inc. v. Minister of National Revenue[2], Weisman D.J. concluded that in the context of paragraph 6(g) of the EI Regulations, prima facie, the person who actually pays the worker, remunerates the worker. In Lebov v. Minister of National Revenue[3], Justice Campbell Miller agreed with this conclusion and he added that evidence was needed to displace this prima facie conclusion. I agree with both of these conclusions.
+[27] Based on the evidence, it is clear that the Worker was remunerated by the Appellant and that the Appellant was not a mere conduit of the funds between its clients and the Worker as it alleged[4]
+Contract of Service or Terms Analogous to a Contract of Service
+[28] Paragraph 34(1) of the Plan requires that the terms or conditions under which the Worker’s services are performed for the Appellant’s client constitute a contract of service or are analogous to a contract of service. This necessitates that I review the relationship using the criteria identified in Wiebe Door Services Ltd. v. Minister of National Revenue[5] while being cognizant of the question posed by the Supreme Court of Canada in 671122 Ontario Ltd. v. Sagaz Industries Canada Inc.[6] at paragraph 47 of its reasons:
+47 Although there is no universal test to determine whether a person is an employee or an independent contractor, I agree with MacGuigan J.A. that a persuasive approach to the issue is that taken by Cooke J. in Market Investigations, supra . The central question is whether the person who has been engaged to perform the services is performing them as a person in business on his own account. (emphasis added)
+[29] The evidence supported that both the Appellant and the Worker intended that the Worker be engaged as an independent contractor. However, that does not end the discussion. It is necessary to ascertain whether the terms of the relationship between the Worker and the client support this intention.
+[30] I have already concluded that the Worker was directed and controlled in his employment by the Appellant’s clients. This factor indicates that a contract of service existed between the Worker and the Appellant’s clients.
+Tools
+[31] In order to have access to the warehouses, the Worker required steel toed boots, a hard hat and a vest. These were supplied by the Worker. Equipment such as pallet jacks, wire snippers and box cutters were provided by the warehouses. I find that this factor is neutral.
+Risk of Loss/Chance of Profit
+[32] It was Mae LeBlanc’s evidence that the Worker was liable for any goods damaged by him in the performance of his duties and that she discussed this with all lumpers when they were first engaged. However, the Worker stated that no such conversation ever took place and he did not have to pay for goods he damaged.
+[33] In the case of Day & Ross, if there was damage on one of its loads, its customer made a claim against Day & Ross. Jeff Pearson confirmed that Day & Ross never tried to recover the cost of damaged goods from the individual lumpers.
+[34] I cannot extrapolate from Mr. Pearson’s evidence that all carrier companies operated in a like manner; but, I do conclude from the Worker’s evidence that he was not liable for any goods which he may have damaged.
+[35] The Worker held several part time jobs while he was engaged by the Appellant. Although this usually indicates that the Worker is an independent contractor, I note that in today’s market many people have to work at several jobs just to make ends meet. In the appeal before me, the Worker was paid either an hourly rate or a rate per load, both of which were set by the Appellant. He did not negotiate his rate of pay. I realize that Mae LeBlanc testified that the lumpers could negotiate their rate of pay; but, I found her evidence to be self serving.
+[36] The Worker could not hire a replacement to perform his duties for the Appellant if he was unavailable when called by the Appellant. He did not have a chance of profit.
+[37] The Appellant paid the Workplace Health and Safety Compensation Commission premiums for the Worker.
+[38] It is my view that the Worker had neither a risk of loss nor a chance of profit. These criteria indicate that the Worker was an employee during the period.
+[39] It is my view that the Worker had neither a risk of loss nor a chance of profit. These criteria indicate that the Worker was an employee during the period.
+[40] Although the common intention of both the Appellant and the Worker was that the Worker be an independent contractor, the terms or conditions of the Worker’s working relationship with the Appellant’s clients, when analyzed against the Wiebe Door factors, do not support this intention. The terms or conditions under which the Worker performed his services and was paid remuneration were analogous to a contract of service.
+[41] On a review of all the evidence, I conclude that the Appellant has failed to demolish the assumptions set out in the Minister’s replies to the notices of appeals and those assumptions are assumed to be true.
+[42] The appeals are dismissed and the Minister’s decisions are confirmed.
+Signed at Halifax, Nova Scotia, this 18th day of July 2012.
+“V.A. Miller”
+V.A. Miller J.
+CITATION: 2012TCC243
+COURT FILE NO.: 2008-4212(EI)
+2009-14(CPP)
+STYLE OF CAUSE: A-1 LUMPERS INC.
+AND M.N.R.
+PLACE OF HEARING: Fredericton, New Brunswick
+DATE OF HEARING: June 13, 2012
+REASONS FOR JUDGMENT BY: The Honourable Justice Valerie Miller
+DATE OF JUDGMENT: July 18, 2012
+APPEARANCES:
+Counsel for the Appellant:
+J. Paul M. Harquail
+Misty Watson
+Counsel for the Respondent:
+Gregory B. King
+COUNSEL OF RECORD:
+For the Appellant:
+Name: J. Paul M. Harquail
+Misty Watson
+Firm: Stewart McKelvey
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] OLTCPI Inc. v. The Minister of National Revenue, 2008 TCC 478 at paragraph 12
+[2] 2008 TCC 673 at paragraph 4
+[3] 2011 TCC 216
+[4] Sheridan v. Minister of National Revenue, [1985] F.C.J. No. 230 (FCA)
+[5] [1986] 3 F.C. 553 (FCA)
+[6] 2001 SCC 59 at paragraph 47

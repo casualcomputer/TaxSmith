@@ -1,0 +1,176 @@
+---
+title: "Lauber v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26651/index.do"
+last_modified: "2005-03-16"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 TCC 191"
+citation2: ""
+neutral_citation: "2005 TCC 191"
+decision_date: "2005-03-16"
+language: "en"
+item_id: "26651"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3593
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T20:55:29.814000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "f0ecd097cd399b2ede74a70db52e9a5e390bd152add83ce76a1940868e05edc0"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Lauber v. The Queen
+
+- Citation: 2005 TCC 191
+- Decision date: 2005-03-16
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3593, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Lauber v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-03-16
+Neutral citation
+2005 TCC 191
+File numbers
+2004-3351(IT)I
+Judges and Taxing Officers
+Louise Lamarre Proulx
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2004-3351(IT)I
+BETWEEN:
+DARWIN LAUBER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on February 15, 2005 at Montreal, Québec
+Before: The Honourable Justice Louise Lamarre Proulx
+Appearances:
+Agent for the Appellant:
+Martin A. Cundall
+Counsel for the Respondent:
+Claude Lamoureux
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 2002 taxation year is dismissed, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Ontario, this 16th day of March, 2005
+"Louise Lamarre Proulx"
+Lamarre Proulx, J.
+Citation: 2005TCC191
+Date: 20050316
+Docket: 2004-3351(IT)I
+BETWEEN:
+DARWIN LAUBER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Lamarre Proulx, J.
+[1] The appeal concerns the 2002 taxation year. It was agreed by the parties that there was no dispute as to the facts. Counsel for the Respondent agreed that the legal costs had been incurred mainly for the purpose of collecting overpayment of alimony payments made to the Appellant's ex‑wife.
+[2] The Appellant's representative stated that the Appellant will have to include the reimbursement of support payments, pursuant to subparagraph 56(1)(c.2) of the Income Tax Act (the "Act"), in his 2003 and 2004 taxation years in the respective amounts of $2,761 and $6,000.
+[3] The assumptions of fact on which the Minister of National Revenue (the "Minister") relied on to establish and confirm the assessment are described at paragraph 10 of the Reply to the Notice of Appeal (the "Reply") as follows:
+a) The Appellant and Mrs. Maral Torossian (hereinafter, the "former spouse") were married on the 1st of September 1984;
+b) The Appellant and his former spouse had two children: Jason, born on March 2, 1988, and Jeffrey, born on May 22, 1992 (hereinafter, the "children");
+c) The Appellant and the former spouse were divorced by Judgment dated January 13, 1994;
+d) On or about January 13, 1994, the Appellant provided the Minister with a copy of the "Consent to Provisional and Accessory Measures", signed on December 15, 1993;
+e) According to the document described in the preceding subparagraph:
+i) The legal care and custody of the two minor children, was conferred to the former spouse;
+ii) The Appellant had to pay an alimentary pension to the former spouse, both for herself and the two minor children, in the amount of $2,200 per month, payable in advance on the first day of each month, the said amount of $2,200 representing a payment of $1,000 towards the children's needs and a payment of $1,200 towards the former spouse's needs, to cover for personal living requirements; the said alimentary pension being indexed annually;
+iii) Agreement was made between the two parties:
+A. That the former spouse have the right to work and receive a remuneration without claiming a reduction of the alimentary pension until the former spouse's gross income attains $16,000 per annum;
+B. That the Appellant have the right to reduce the share paid out of the alimentary pension on account of the former spouse, by a sum of $100 per month, for each $2,000 increment above $16,000 former spouse's employment income;
+C. That, for the 1993 income tax year, each party submit their returns for the fiscal year, the former spouse declaring the income received as alimentary pension paid on a consensual and voluntary basis for her and the minor children; the Appellant having the right to declare on his own tax return the said alimentary pension paid;
+f) In filing his income tax return for the 2002 taxation year, the Appellant claimed an amount of $8,785 as other deductions;
+g) As of "a conduct of review program", the Minister has selected the Appellant's 2002 income tax return;
+h) On July 18, 2002, the Minister sent a letter to the Appellant, requesting him to provide details on the kind of deduction claimed, plus receipts and support documentation;
+i) On September 19, 2003, the Minister sent another letter to the Appellant, explaining to him that the documentation provided showed non‑allowable legal costs;
+j) On September 25, 2003, the Minister disallowed the amount of $8,785 claimed by the Appellant as legal fees, for his 2002 taxation year, on the basis that, there is no provision in the Income Tax Act, R.S.C. 1985, c. 1 (5th Supp.), as amended (hereinafter, the "Act"), to allow the deductibility of such fees;
+k) By letter sent to our Appeals Division on or about April 8, 2004, the Appellant's representative mentioned that the amount of $8,785.04 related to legal fees incurred, were primarily for the recovery of overpayments made by the Appellant to the former spouse as a result of misrepresentations made by her with respect to a court order;
+l) A copy of a letter from the lawyer, identifying the legal fees, was attached to the letter mentioned in the preceding subparagraph;
+m) The Appeals officer in the Objection section analyzed the preceding information and came to the same conclusion as the Audit section, that is "the documentation provided showed non‑allowable legal costs";
+n) The assumptions of fact outlined in subparagraph 10 k), 10 l) and 10 m) above, were first made by the Minister in confirming the assessment dated September 25, 2003 for the taxation year 2002.
+[4] The letter mentioned at paragraph 10 l) of the Reply, a letter dated March 29, 2004 from the Appellant's lawyer, reads as follows:
+...
+This letter is to confirm the fact that your legal expenses with our firm were primarily related to the recovery of five years worth of overpayments made as a result of false reporting by Ms. Torossian with respect to a court order.
+Firstly, all custodial and visitation related issues were resolved based on recommendations in a Psycho‑Legal expertise, which was accepted without challenge by either party, therefore required an insignificant amount of time. Secondly, Ms. Torossian's motion requesting increased support payments was dismissed in its entirety in court without challenge from either party, therefore consumed no measurable time. Thirdly, the revised child support amount has been derived from the standard child support calculation and was not challenged by either party, therefore required an insignificant amount of time. Finally, the vast majority of all fees, where attributed to processing your motion to recover overpayments made to Ms. Torossian that occurring monthly over a period of five years, were related to a pre existing court order and were overpaid due solely and directly to misrepresentations made by Ms. Torossian.
+...
+[5] The overpayment claimed for the years 1998 to June 2002 was in the amount of $22,562.62. The Appellant's lawyer filed a motion to that effect August 6, 2002.
+[6] This motion is mentioned in the Consent to Modification of Accessory Measures ratified by a judgment of the Superior Court dated July 2, 2003. I quote the relevant passage of the said consent:
+WHEREAS Plaintiff's motion is dated April 30, 2002, and seeks the re‑determination of the amount of child support payable by Defendant based on the application of the Guidelines;
+Arguments
+[7] The reasons submitted in the Appellant's Notice of Appeal represent well what was argued by the Appellant's representative at the hearing. They are as follows:
+1. The deduction for legal fees requires that the expense be for the purpose of earning income from a business or property. (paragraph 18(1)(a)), and that it not be a personal or living expense (18(1)(h)).
+2. The amount of the overpayment which resulted from the misreporting of income by Mr. Lauber's ex‑wife created a right to recover such amount at the time of each overpayment. The legal expenses therefore related to the collection of an existing right and were not to create a right.
+3. The amount recovered by Mr. Lauber is required to be included in income according to paragraph 56(1)(c.2).
+4. As explained in Income Tax Technical News No. 24, the legal costs related to collecting support payments are considered deductible because the legal fees relate to the collection of a pre‑existing right. The recovery of an overpayment is also the collection of a pre‑existing right and should therefore be deductible. The comments in Income Tax Technical News No. 24 are the result of the decision in the case of Gallien v. The Queen, 2000 DTC 2514, in which the Judge cites with approval the reasoning in Evans v. Minister of National Revenue ((1960) SCR 391) allowing the deduction of legal fees to collect an amount owing.
+5. The deduction of the fees conforms to the basic structure of the Income Tax Act in which only the net income is to be taxed, as indicated in section 3. It is clearly inequitable to require the inclusion in income of the amount, but deny the expenses incurred to generate the income. The expense was incurred for the purpose of earning income, and in all respects cannot be distinguished from the fees incurred to collect support payments.
+6. For all of the foregoing reasons, we submit that the expense should be deductible.
+[8] Counsel for the Respondent referred the Court to the decision of the Federal Court of Appeal in Nadeau v. M.N.R. (F.C.A.), [2003] F.C.J. No. 1611 (Q.L.), and more particularly to the following paragraphs:
+14 The cases have consistently held for more than 40 years that the right to support, once established by a court, is "property" within the meaning of subsection 248(1) of the Act, and that the income from such support constitutes, in the hands of the person receiving it, income from property (see in particular Boos v. Minister of National Revenue (1961), 27 Tax A.B.C. 283; R. v. Burgess, supra; Bayer v. M.N.R., [1991] 2 C.T.C. 2304 (T.C.C.); Evans v. Minister of National Revenue, [1960] S.C.R. 391 and Sembinelli v. Canada, [1994] 2 C.T.C. 378 (F.C.A.)).
+15 The definition of "property" in subsection 248(1) reads as follows:
+248(1) ...
+(a) a right of any kind whatever, a share or a chose in action,
+...
+17 This regime, as it was applied by the courts over the years, has meant that from the perspective of the recipient, an expenditure, the purpose of which is to give rise to a right to support is a capital expenditure and therefore cannot be deducted. But an expenditure incurred in recovering an amount owing under a pre-existing right is a "current" expense and may therefore be deducted.
+18 Conversely, the expenses incurred by the payer of support (either to prevent it from being established or increased, or to decrease or terminate it) cannot be considered to have been incurred for the purpose of earning income, and the courts have never recognized any right to the deduction of these expenditures (see, for example, Bayer, supra).
+...
+34 ... This jurisprudential solution, I repeat, is a function of the fact that the income from a support payment is income from property, and as such the expenses incurred in order to earn this income may be deducted.
+[9] Counsel for the Respondent also referred to a decision of this Court in Bayer v. Canada (Minister of National Revenue – M.N.R.), [1991] T.C.J. No. 511 (Q.L.) and more particularly to the following passage:
+Usually paragraph 18(1)(a) is applied in commercial undertakings. However in view of the language used in paragraph 18(1)(a) that is "business or property", and in view of the Evans case (supra), property need not be part of a commercial undertaking. However, the expense has to be made to gain or produce income from a property, and that means from what I gather from the aforementioned case law, that the property has to be an income producing property. A spouse enforcing a right to alimony payments is enforcing an income producing right. A spouse enforcing a right to obtain a court order for reducing alimony payments is not enforcing an income producing right, but is enforcing a right to sue to diminish the amount to be paid by virtue of an obligation to pay.
+The moneys expended by the Appellant for the legal fees incurred, had as an effect to increase the taxpayer's income as calculated under Division B of the Act but this increase did not come from an income producing property but from a reduction of an obligation that he had which was not an income producing property. In these circumstances, the expenses in question were not within the meaning of those contemplated by paragraph 18(1)(a) of the Act. It is not moneys expended for any property that may be deducted by virtue of paragraph 18(1)(a) of the Act, it is moneys expended for a property that, in itself, produces income.
+Analysis and conclusion
+[10] Subparagraph 56(1)(c.2) of the Act reads as follows:
+56(1) Amounts to be included in income for year — Without restricting the generality of section 3, there shall be included in computing the income of a taxpayer for a taxation year,
+...
+(c.2) an amount received by the taxpayer in the year under a decree, order or judgment of a competent tribunal as a reimbursement of an amount deducted under paragraph 60(b) or (c), or under paragraph 60(c.1) as it applies, in computing the taxpayer's income for the year or a preceding taxation year to decrees, orders and judgments made before 1993;
+[11] An amount received by a taxpayer under a decree, order or judgment as a reimbursement of an amount deducted under paragraph 60(b) or (c) or under paragraph 60(c.1) shall be included in the income pursuant to subparagraph 56(1)(c.2).
+[12] It is a fact that both the alimony payment and the reimbursement of support payments have to be included in the calculation of income under section 56 of the Act. Thus, can the same reasoning that applies to the deduction of legal costs to obtain alimony payments apply to the deduction of costs to enforce a reimbursement of overpayment of support payments?
+[13] The nature of the two payments at issue must be analyzed. On analysis, it becomes apparent that their nature is quite different. The claim for an alimony payment is a claim for a payment on account of income, whereas a claim for a reimbursement of overpayment is a claim of a property right, therefore a claim on account of capital. Paragraph 18(1)b) of the Act does not allow a deduction for an expense made on account of capital except as expressly permitted by Part 1 of the Act. I was not directed to such an exception nor I am aware that one exists.
+[14] Accordingly, the appeal must be dismissed.
+Signed at Ottawa, Ontario, this 16th day of March, 2005.
+"Louise Lamarre Proulx"
+Lamarre Proulx, J.
+CITATION: 2005TCC191
+COURT FILE NO.: 2004-3351(IT)I
+STYLE OF CAUSE: Darwin Lauber and The Queen
+PLACE OF HEARING: Montreal, Québec
+DATE OF HEARING: February 15, 2005
+REASONS FOR JUDGEMENT BY: The Hon. Justice Louise Lamarre Proulx
+DATE OF JUDGMENT: March 16, 2005
+APPEARANCES:
+Agent for the Appellant:
+Martin A. Cundall
+Counsel for the Respondent:
+Claude Lamoureux
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Ontario

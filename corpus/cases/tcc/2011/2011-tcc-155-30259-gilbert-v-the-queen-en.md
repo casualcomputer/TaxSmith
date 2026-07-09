@@ -1,0 +1,188 @@
+---
+title: "Gilbert v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30259/index.do"
+last_modified: "2011-03-10"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2011 TCC 155"
+citation2: ""
+neutral_citation: "2011 TCC 155"
+decision_date: "2011-03-10"
+language: "en"
+item_id: "30259"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7968
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T07:47:01.589000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "ca53428ba4f196f977d46eb91f3abc46e9661dea204514e6228a1c7cdf104826"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Gilbert v. The Queen
+
+- Citation: 2011 TCC 155
+- Decision date: 2011-03-10
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7968, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Gilbert v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2011-03-10
+Neutral citation
+2011 TCC 155
+File numbers
+2008-3145(IT)G
+Judges and Taxing Officers
+Réal Favreau
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2008-3145(IT)G
+BETWEEN:
+JEAN-PIERRE GILBERT,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on April 29, 2010, at Shawinigan, Quebec.
+Before: The Honourable Justice Réal Favreau
+Appearances:
+For the appellant:
+The appellant himself
+Counsel for the respondent:
+Antonia Paraherakis
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act, dated January 28, 2008, for the 2006 taxation year is dismissed, with costs, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 10th day of March 2011.
+"Réal Favreau"
+Favreau J.
+Translation certified true
+on this 9th day of May 2011
+François Brunet, Revisor
+Citation: 2011 TCC 155
+Date: 20110310
+Docket: 2008-3145(IT)G
+BETWEEN:
+JEAN-PIERRE GILBERT,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Favreau, J.
+[1] This is an appeal from a reassessment made under the Income Tax Act, R.S.C. 1985, c. 1 (5th Supp.), as amended (the Act), dated January 28, 2008, for the 2006 taxation year, in which the amount of $112,558 was added to the appellant's income as business income.
+[2] The dispute is about the tax treatment of a gain realized from the sale of an building located at 181 Beaubien Street in Trois-Rivíères (Pointe-du-Lac area) (the Beaubien building).
+[3] In making the reassessment at issue, the Minister of National Revenue (the Minister) relied on the following assumptions of fact, stated in paragraph 18 of the Reply to the Notice of Appeal:
+[Translation]
+a. The appellant has worked in the construction industry for several years;
+b. The appellant builds and sells residential buildings (the buildings);
+c. Between 1996 and 2006, the appellant built and sold seven buildings;
+d. The lots on which the buildings were built are all located in the same area;
+e. The buildings were all sold to the appellant by two companies, Gestion Del Inc. and 9056-4998 Québec Inc.;
+f. The appellant built the Beaubien building himself;
+g. The cost of the Beaubien building was set at $109,442, and it was sold by the appellant for $222,000.
+h. The appellant's initial intention was to sell the Beaubien building for profit;
+i. The appellant never intended to live in the Beaubien building in the long term;
+j. Each of the buildings built by the appellant was in his possession for a period of 6 months to 2 years;
+k. The appellant lived in each building before selling it;
+l. The purchase and sale of buildings was a source of funding for the appellant.
+The appellant's position
+[4] According to the appellant, the Beaubien building was not built and bought back with a view to a profit from its sale but for the purpose of living in it as a principal residence throughout the entire period while he owned it. His main goal was to ensure that his two children, of whom he had legal custody, had a stable home. He finally resigned himself to selling the house because of the memories that were associated with it and the strained relationship with his neighbours following criminal complaints lodged by his former spouse.
+Facts in evidence
+[5] Mr. Gilbert testified at the hearing and provided the following information about the Beaubien building and some other events that took place at the time:
+(a) The land subjacent to the Beaubien building was purchased through a notarial deed dated June 2, 2003, by the appellant's former spouse, Annie Jean, for $10,000 in cash. The seller was 9056-4998 Québec Inc., a company belonging to Denis Beaubien.
+(b) Through a deed of building hypothecary security dated May 30, 2003, Annie Jean took out a hypothec on the land with the house being built on it with the Caisses populaires and caisses d'économie Desjardins in order to secure a loan contract for an initial amount of $72,000 granted on September 23, 2002, to Annie Jean and Jean-Pierre Gilbert. The annual interest rate on the loan was 25%.
+(c) On April 7, 2003, a building permit to build a family residence was issued by the municipality to Annie Jean.
+(d) The appellant built the house himself with the help of his former spouse's father and some friends. The house was occupied by the appellant and his family starting on September 1, 2003.
+(e) When the construction of the Beaubien building was almost finished and it was inhabitable, on September 22, 2003, the appellant incorporated the company Constructions et Habitations GB Inc. in order to work in construction. The appellant was the director, president and first shareholder of the company, holding 50% of the shares, while 9056‑4998 Québec Inc., belonging to Denis Beaubien, was the second shareholder holding the other 50% of the shares.
+(f) The appellant and his spouse separated on November 24, 2003, and divorce proceedings were instituted by Ms. Jean on January 8, 2004. The divorce judgment was handed down on March 7, 2005. Under the partial agreement on corollary relief and the schedule to the partial agreement signed by the parties, the appellant obtained legal custody of the two children of the marriage between the parties, who were 4 and 5 years old at that time.
+(g) Through a judgment on taking the building in payment handed down by the Trois‑Rivières district Superior Court on August 10, 2004, the creditor Caisses populaires et caisses d’économie Desjardins became the owner of the Beaubien building. An advance notice for the exercise of a hypothecary right was served on the appellant and his spouse on March 29, 2004, for failure to pay a debt of $70,354.37.
+(h) Despite the judgment of taking in payment registered on September 21, 2004, the creditor Caisses populaires et caisses d’économie Desjardins de Trois-Rivières authorized the appellant to continue living in the Beaubien building on a temporary basis for $500 per month in rent.
+(i) Under a deed of purchase dated December 22, 2004, the appellant purchased the Beaubien building for $83,000, while the basis of imposition transfer duties was $167,300 (no signed copies of that deed of purchase were filed in evidence).
+(j) Under a deed of release dated November 10, 2005, the Garantie des Bâtiments Résidentiels Neufs de l’APCHQ Inc. struck from the registration of hypothecary rights, the notice of legal hypothec resulting from a judgment dated July 13, 2005, concerning the Beaubien building.
+(k) On January 17, 2006, the appellant sold the Beaubien building for $222,000. The new owner’s date of occupancy was set for March 1, 2006.
+[6] In cross-examination, Mr. Gilbert acknowledged having performed the following transactions involving buildings:
+(a) On October 26, 1995, the appellant and his spouse purchased from Gestion Del Inc. a vacant lot (lots 196‑76 and 197‑98) located in the paroisse de la Visitation de la Pointe‑du‑Lac for $5,000. They built a house on it, where they moved in at the end of December 1996. That house, located at 6170 6th Avenue, Place Dubois, Pointe-du-Lac, was sold on April 22, 1997, for $76,500.
+(b) On April 23, 1997, the appellant and his spouse purchased from Gestion Del Inc. a vacant lot (lot 199‑98) located in the paroisse de la Visitation de la Pointe-du-Lac at the cost of $5,900. They built a house on it, where they moved in about June 15, 1997. That house, located at 7070 7th Avenue, Place Dubois, Pointe-du-Lac, was sold on June 16, 1998, for $80,000.
+(c) On May 25, 1998, the appellant and his spouse purchased from Gestion Del Inc. a vacant lot (lot 196‑93) located in the paroisse de la Visitation de la Pointe‑du‑Lac at the cost of $8,625. Constructions J.P. Gilbert Inc. built a house at 7181 7th Avenue, Place Dubois, Pointe‑du‑Lac, which was sold to the appellant and his spouse on July 17, 1998, for $67,979. The appellant and his spouse resold that house on November 30, 2000, for $110,000.
+(d) On December 1, 2000, Gestion Del Inc. sold to Constructions J.P. Gilbert Inc. a lot (lots 197‑138 and 196‑92) located in the paroisse de la Visitation de la Pointe-du-Lac for $7,000. On December 7, 2000, Constructions J.P. Gilbert Inc. sold to the appellant and his spouse a model home located at 7171 7th Avenue, Place Dubois, Pointe‑du‑Lac, for $68,496.25 (the model home had been built before the lot was purchased). The model home was sold on May 18, 2001, for $85,000.
+(e) On May 30, 2001, 9056-4998 Québec Inc. sold to the appellant and his spouse a lot (lots 1797844 and 2401900) located at 668 Sainte‑Marguerite Drive, Pointe‑du‑Lac, for $13,531.84. The house was built before the lot had been purchased and was occupied starting in June 2001. Through a deed of real‑estate hypothecary security dated May 29, 2001, the appellant and his spouse took out a hypothec on the land with the house being built on it with the Caisses populaires et caisses d’économie Desjardins for the amount of $119,050.34 to secure the repayment of amounts owed under two loan contracts granted on July 16, 1998, and April 21, 1999, at the rate of 25%. On September 23, 2002, the appellant and his spouse obtained a $72,000 loan at a fixed rate of 15% from the Caisses populaires et caisses d’économie Desjardins and took out a hypothec on the house to guarantee repayment of that loan. The house was sold on May 30, 2003, for $190,000.
+(f) Following the sale of the Beaubien building, the appellant purchased on May 15, 2006, from 9056-4998 Québec Inc a vacant lot within the Beaubien property, located at 9663 Sainte‑Marguerite Street in Trois-Rivières (Pointe‑du‑Lac area) for $10,000. The appellant applied for a permit to build a single-family home in March 2006, and, having built it, put it up for sale in June 2007 at the price of $310,000.
+[7] The Canada Revenue Agency auditor, Stéphanie Leclerc, testified at the hearing. She stated that, first, she had searched for the appellant's intention at the time of building the Beaubien building. According to her, the appellant had, as a determining reason for buying the building, at least an ulterior intention of selling it for profit. Then, she considered other criteria, namely, the appellant's previous activities, his operating method, the frequency and financing of his transactions, the length of time he owned the buildings, his reported income and his other sources of income.
+[8] The auditor noted that, from 1998 to 2001, the appellant had operated his own construction company, namely, Constructions J.P. Gilbert Inc., and that, on September 22, 2003, he incorporated the company Constructions et Habitations GB Inc. in which he held 50% of the shares.
+[9] The auditor indicated that, from 1996 to 2006, the appellant had performed seven transactions involving buildings, all of them in the same area, namely, Pointe‑du‑Lac. All of the vacant lots had been sold to the appellant by the same entities, Gestion Del Inc. and 9056-4998 Québec Inc.
+[10] The auditor also noted that the appellant owned the houses and lived in them for a short time, that is, from 6 to 30 months, which corresponds to the time usually needed to finish building each house. The 25% interest rate required by the Caisses populaires et caisses d’économie Desjardins to finance the appellant's transactions did not correspond to the usual interest rate that someone buying a new house long term would be willing to pay to purchase it.
+[11] The auditor also noted that, from 1996 to 2006, the appellant had reported no business income following the sale of the single-family homes. For 2001 and 2002, the appellant reported only interest income of $90 and $48 respectively. For 2003, the appellant reported an interest income of $13, an employment income of $11,025, from his work as a car salesman at a Honda dealership. He was dismissed in November 2003.
+[12] Finally, the auditor explained that the cost of the Beaubien building had been determined on the basis of the amount reported for tax refunds, which was $109,442.
+Analysis and conclusion
+[13] As I indicated in Ayala v. The Queen, 2010 TTC 206, at paragraphs 9, 10 and 11, the following principles apply when an building is sold:
+[9] . . . the Act does not have a criterion that allows for a distinction to be made between capital gain and business income (including income from an adventure in the nature of trade), requiring the Court to refer to the criteria developed in the case law. However, there is no criterion to determine with certainty whether a transaction leads to a capital gain or business income. Each situation is a specific case to be analyzed in light of the facts.
+[10] Among the criteria developed by the case law, the following are of note:
+i. The nature of the property sold;
+ii. The length of time the taxpayer was in possession as owner of the property;
+iii. The frequency and number of operations carried out by the taxpayer;
+iv. The improvements made by the taxpayer to the property;
+v. The circumstances surrounding the sale of the property; and
+vi. The taxpayer's intention at the time the property was acquired, as indicated by the taxpayer's actions.
+[11] In addition to these criteria, Canadian courts have developed the "secondary intention" criterion that may apply even when the taxpayer's main intention has been established as making a long-term investment. This criterion applies if, at the time the property was acquired, the taxpayer had considered the possibility of selling the property for a profit if the long-term investment project could not be achieved for whatever reason.
+[14] In this case, the appellant is an independent builder, who has experience in that field as well as a business background. Between 1996 and 2006 inclusively, the appellant built seven single‑family homes, in which he lived before selling them. From 1998 to 2001, he had his own construction company, Construction J.P. Gilbert Inc., and, since 2004, he has held 50% of the shares in Constructions et Habitations GB Inc., which also builds single‑family homes in the Pointe‑du‑Lac area.
+[15] On the basis of the evidence, the appellant's operating method was to buy one vacant lot at a time, build a single‑family home on it, live there for several months and then sell it for profit. Sometimes, the appellant started building the house before he had even officially purchased the vacant lot. The houses built by the appellant were all located in the Pointe-du-Lac area, on the same street or on adjacent streets. The vacant lots were all bought from the same two companies, namely, Gestion Del Inc. before 2000 and 9056-4998 Québec Inc. after 2000.
+[16] The length of time the appellant owned the houses varied between 6 and 24 months. The house located at 9663 Sainte‑Marguerite Street was put up for sale 6 months before its construction was completed. The house at 181 Beaubien Street was owned for a total of about 30 months. During that time, the appellant had family problems and the hypothecary creditor had to reclaim ownership of the house following the couple's separation. The judgment for taking the house in payment was registered on September 21, 2004, but the appellant continued to live there on a temporary basis, paying $500 per month in rent. On December 22, 2004, the appellant purchased the house for $83,000, although the basis of imposition for transfer duties was $167,300. Having obtained on November 10, 2005, a release of the legal hypothec registered by the Garantie des Bâtiments Résidentiels Neufs de l’APCHQ, the appellant sold the house for $222,000 on January 17, 2006. Under these circumstances, the family and legal problems that the appellant had to overcome seem to explain the extended period between the construction of the house and its sale.
+[17] When the land subjacent to the Beaubien building was purchased and the house built, the appellant had at least a secondary intention, if not primary intention, to sell it for profit. The appellant was unable to demonstrate, in the light of the circumstances surrounding the purchase of the Beaubien building, that he had intended to live there in the long term.
+[18] When the Beaubien building was purchased, a hypothec was registered to it to secure a loan of $72,000 with a 25% interest rate. This interest rate is considered to be very high and was no doubt required by the lending institution on the basis of the risk it was assuming. That hypothecary security in itself is a factor tending to show that the appellant's intention was not to make a long‑term investment. It should be noted that the appellant used his former spouse as a nominee or prête-nom to perform certain transactions because APCHQ had taken legal action against him for problems related to ferrous rock.
+[19] A review of the applicable criteria leads to the conclusion that it is much more plausible that the appellant purchased the Beaubien building to resell it for profit rather than considering it a long-term investment. In fact, the appellant sold that house when his legal problems resulting from his divorce and APCHQ legal action had been resolved.
+[20] The appellant's argument that he wanted to ensure a stable environment for his two children is not really plausible because changing houses was part of their lifestyle. The appellant's first child was born on December 13, 1999, and had lived in four houses before moving to the one at issue. In any case, since the houses built by the appellant were all located in the same area, his children were able to see the same friends, go to the same school and use the same sports equipment.
+[21] The other argument presented by the appellant to the effect that he had resigned himself to selling the Beaubien building because of the memories associated with it and the strained relationships with his neighbours are also without merit because the appellant built himself a new house in the same area after selling the Beaubien building.
+[22] In conclusion, I would like to add that the appellant should be happy that the Minister concluded that the cost of the Beaubien building was $109,442, because, from a purely technical and legal point of view, the cost should have been $83,000, that is, the price that the appellant had paid when purchasing the building under the deed of purchase dated December 22, 2004.
+[23] For these reasons, the appeal is dismissed, with costs.
+Signed at Ottawa, Canada, this 10th day of March 2011.
+"Réal Favreau"
+Favreau J.
+Translation certified true
+on this 9th day of May 2011
+François Brunet, Revisor
+CITATION: 2011 TCC 155
+COURT FILE NO.: 2008-3145(IT)G
+STYLE OF CAUSE: Jean-Pierre Gilbert and Her Majesty the Queen
+PLACE OF HEARING: Shawinigan, Quebec
+DATE OF HEARING: April 29, 2010
+REASONS FOR JUDGMENT BY: The Honourable Justice Réal Favreau
+DATE OF JUDGMENT: March 10, 2011
+APPEARANCES:
+For the appellant:
+The appellant himself
+Counsel for the respondent:
+Antonia Paraherakis
+COUNSEL OF RECORD:
+For the appellant:
+Name:
+Firm:
+For the respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada

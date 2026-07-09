@@ -1,0 +1,191 @@
+---
+title: "Diana Williams Promotions Limited c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26580/index.do"
+last_modified: "2005-10-27"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 CCI 695"
+citation2: ""
+neutral_citation: "2005 CCI 695"
+decision_date: "2005-10-27"
+language: "fr"
+item_id: "26580"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3556
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T22:22:07.586000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "0840e89f2335caab122faeed14ec43377f4290eb1e4898abb1b8f087d6819717"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Diana Williams Promotions Limited c. M.R.N.
+
+- Citation: 2005 CCI 695
+- Decision date: 2005-10-27
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3556, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Diana Williams Promotions Limited c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-10-27
+Référence neutre
+2005 CCI 695
+Numéro de dossier
+2004-4371(EI)
+Juges et Officiers taxateurs
+William E. MacLatchy
+Sujets
+Loi sur l'assurance-emploi
+Régime de pensions du Canada
+Contenu de la décision
+Dossier : 2004‑4371(EI)
+ENTRE :
+DIANA WILLIAMS PROMOTIONS LIMITED,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec l’appel de Diana Williams Promotions Limited (2004‑4373(CPP))
+le 3 octobre 2005 à Toronto (Ontario)
+Devant : L’honorable juge suppléant W.E. MacLatchy
+Comparutions :
+Représentant de l’appelante :
+Andrew Goodman
+Avocat de l’intimé :
+Me John Grant
+____________________________________________________________________
+JUGEMENT
+L’appel est accueilli et la décision du ministre est modifiée en conformité avec les motifs du jugement ci‑joints.
+Signé à Toronto (Ontario), le 27 octobre 2005.
+« W.E. MacLatchy »
+Juge suppléant MacLatchy
+Traduction certifiée conforme
+ce 9e jour de juin 2008.
+S. Tasset
+Dossier : 2004‑4373(CPP)
+ENTRE :
+DIANA WILLIAMS PROMOTIONS LIMITED,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec l’appel de Diana Williams Promotions Limited (2004‑4371(EI)) le 3 octobre 2005 à Toronto (Ontario)
+Devant : L’honorable juge suppléant W.E. MacLatchy
+Comparutions :
+Représentant de l’appelante :
+Andrew Goodman
+Avocat de l’intimé :
+John Grant
+____________________________________________________________________
+JUGEMENT
+L’appel est accueilli et la décision du ministre est modifiée en conformité avec les motifs du jugement ci‑joints.
+Signé à Toronto (Ontario), le 27 octobre 2005.
+« W.E. MacLatchy »
+Juge suppléant MacLatchy
+Traduction certifiée conforme
+ce 9e jour de juin 2008.
+S. Tasset
+Référence : 2005CCI695
+Date : 20051027
+Dossiers : 2004‑4371(EI)
+2004‑4373(CPP)
+ENTRE :
+DIANA WILLIAMS PROMOTIONS LIMITED,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge suppléant MacLatchy
+[1] Ces appels ont été entendus sur preuve commune le 3 octobre 2005 à Toronto (Ontario).
+[2] À la suite d’une vérification des feuilles de paye, le secteur de l’Examen des fiducies du Bureau des services fiscaux de Toronto‑Centre a envoyé une demande de décision au secteur de l’Admissibilité au RPC et à l’A‑E du Bureau des services fiscaux de Scarborough.
+[3] L’agente des décisions, M. Ebanks, a statué que Nancy Bota, Dania Thurman et Melanie Groom (les « travailleuses » ou les « artistes ») avaient été employées en vertu de contrats de louage de services au cours de la période allant du 1er janvier 2003 au 19 décembre 2003.
+[4] L’appelante et les travailleuses ont été avisées de la décision par lettre datée du 19 décembre 2003.
+[5] L’appelante n’était pas d’accord avec la décision de l’agente des décisions, et elle a interjeté appel en janvier 2004.
+[6] L’appelante a interjeté appel d’une décision auprès du ministre du Revenu national (le « ministre ») pour qu’il soit déterminé si les travailleuses avaient exercé ou non un emploi assurable et ouvrant droit à pension, pendant qu’elles étaient au service de l’appelante au cours de la période en cause, au sens de la Loi sur l’assurance‑emploi (la « LAE ») et du Régime de pensions du Canada (le « Régime »).
+[7] Par lettre datée du 20 août 2004, le ministre a avisé la travailleuse Nancy Bota et l’appelante qu’il avait été décidé qu’aucune cotisation d’assurance‑emploi ni aucune cotisation au Régime de pensions du Canada n’était due puisque Mme Bota n’avait fourni aucuns services à l’appelante, au cours de la période en cause, au sens de la LAE ou du Régime.
+[8] En outre, le ministre a avisé les travailleuses Melanie Groom et Dania Thurman et l’appelante qu’il avait été décidé que des cotisations d’assurance-emploi et des cotisations au Régime des pensions du Canada étaient dues puisque ces travailleuses avaient été employées par une agence de placement, au cours de la période en cause, au sens de l’alinéa 6g) du Règlement sur l’assurance-emploi (le « RAE ») et du paragraphe 34(1) du Régime.
+[9] L’appelante n’était pas d’accord avec la décision du ministre, et elle a interjeté appel auprès de cette Cour le 16 novembre 2004.
+[10] Diana Williams, l’unique actionnaire de l’appelante, et Melanie Groom qui figure parmi les artistes dont l’appelante est censée faire la promotion, ont toutes deux livré un témoignage clair et franc au soutien de l’appelante.
+[11] Pour le compte de l’appelante, Diana Williams a affirmé que les hypothèses de fait suivantes, figurant aux alinéas 12b) à t) des réponses aux avis d’appels, étaient essentiellement exactes :
+b) l’entreprise de l’appelante consiste à fournir des hôtesses et des porte‑parole (les « artistes ») à des sociétés clientes (les « clients ») qui participent à des salons professionnels et organisent des événements afin de promouvoir leurs affaires;
+c) les artistes engagent l’agence de l’appelante pour les promouvoir auprès de sociétés clientes, et l’appelante agit comme agente de promotion pour leur trouver du travail occasionnel, à temps partiel;
+d) les clients communiquent avec l’agence de l’appelante à la recherche d’artistes particuliers pour travailler dans le cadre de promotions ou d’événements;
+e) lorsqu’une demande est reçue, l’appelante présente l’occasion à son artiste, qui est libre d’accepter ou de refuser l’affectation;
+f) les artistes ont exécuté leurs affectations en vertu d’une entente verbale;
+g) en général, les artistes sont rémunérés pour au moins quatre heures dans le cadre d’une affectation;
+h) l’appelante facture aux clients les heures travaillées par l’artiste plus les frais de l’agence;
+i) l’artiste est payé lorsque l’appelante reçoit le paiement de ses clients;
+j) le travail était attribué à l’appelante sur la base de devis écrits ou verbaux, que l’appelante communiquait à ses clients;
+k) l’artiste arrivait au lieu de l’affectation, à une date et une heure particulière, dans la tenue indiquée et avec la coiffure et le maquillage indiqués;
+l) les tâches étaient décrites verbalement à l’artiste, et chaque affectation débutait et se terminait à des heures déterminées;
+m) les artistes sont habituellement rémunérés selon un taux horaire qui varie selon l’affectation;
+n) les artistes étaient habituellement payés par chèque par l’appelante, après que l’appelante avait reçu les fonds des clients;
+o) les artistes ne touchaient pas de paye de vacances, et n’avaient pas droit non plus à des vacances payées;
+p) les jours et les heures de travail des artistes variaient, selon l’affectation;
+q) les clients déterminaient les heures de travail de l’artiste;
+r) les artistes rendaient compte de leurs heures de travail à l’appelante, après chaque affectation, et l’appelante facturait ensuite le client;
+s) si l’artiste était incapable de se présenter aux fins d’une affectation acceptée, il en avisait l’appelante, qui avisait ensuite le client;
+t) les artistes devaient fournir les services personnellement;
+[12] Les hypothèses de faits restantes étaient contestées.
+[13] La Cour est saisie de la question de savoir si les artistes exerçaient un emploi assurable et ouvrant droit à pension au cours de la période en cause, au sens de l’alinéa 6g) du RAE et du paragraphe 34(1) du Régime.
+[14] La première question en litige entre les parties était essentiellement celle de savoir si l’appelante était une agence de placement. L’appelante se présente comme une « agence de promotion » et non une agence de placement. L’appelante dispose d’un bassin d’artistes qui se sont adressés à elle pour que l’appelante leur procure du travail occasionnel à temps partiel. L’appelante produit des dépliants et des sites Web pour présenter les artistes, qui la paient pour être inclus dans ces articles promotionnels. Les clients communiquent avec l’appelante lorsqu’ils ont besoin d’artistes pour des salons professionnels ou d’autres événements. Ils ne recherchent pas un autre employé, mais plutôt une personne dotée d’habiletés particulières pour un événement spécifique, avec laquelle ils ne souhaitent pas avoir d’autres contacts par la suite. L’appelante, une fois mise au courant des besoins des clients, choisit ensuite les personnes ayant les talents requis pour exécuter la prestation demandée à l’événement particulier et offre aux artistes l’occasion d’accepter ou de refuser l’affectation. L’appelante et l’artiste conviennent d’un taux horaire pour la prestation, et le client se voit facturer un taux horaire qui comprend les frais de l’appelante. L’artiste est informé de l’objet de l’affectation, reçoit le scénario à suivre (lorsqu’il y a lieu), se voit fournir les costumes (si nécessaire) par le client, etc. L’artiste assiste à l’événement, exécute sa prestation et exerce ses habiletés comme convenu. L’artiste remet une facture à l’appelante mais n’est pas payé jusqu’à ce que l’appelante reçoive le paiement du client. Ni le client ni l’appelante ne dirigent l’artiste ni n’exercent de contrôle sur lui, puisque l’artiste est choisi en fonction de ses habiletés, de ses attributs physiques et de sa capacité innée à exécuter une prestation dans le contexte de l’événement particulier. Dans certains cas, il peut arriver que l’appelante envoie un superviseur sur place, aux seules fins d’assurer la logistique, lorsqu’un grand nombre d’artistes sont requis.
+[15] La question se pose donc de savoir s’il y a un contrat de louage de services ou un contrat d’entreprise entre l’appelante et l’artiste. Le contrat entre ces parties est verbal et il vise une affectation spécifique. La question du contrôle a peu d’importance lorsque les artistes ont des habiletés ou des attributs qu’ils contrôlent et exercent eux‑mêmes. On leur dit ce qu’on attend d’eux dans le cadre de l’événement, puis ils s’exécutent en faisant appel à leurs propres habiletés et attributs.
+[16] L’artiste fournit ses propres vêtements ou accessoires, selon ce qui convient dans le cadre de l’affectation, à moins qu’un costume spécifique comme celui du « lapin Energizer » soit requis, auquel cas le costume est fourni par le client. Ainsi, le critère relatif aux instruments de travail est de peu d’utilité.
+[17] La possibilité de profit et le risque de perte sont aussi d’une utilité douteuse parce que le travail exécuté par l’artiste l’est seulement à temps partiel et dépend du nombre de prestations que l’artiste peut exécuter ou non, selon ce qu’il peut décider.
+[18] Le critère de l’intégration est plus utile, puisque les artistes exploitent leur propre entreprise et croient qu’ils sont des entrepreneurs autonomes. Le témoignage de Melanie Groom étaye ces conclusions. Elle a affirmé qu’elle payait ses propres dépenses, peu importe leur nature, à moins que le client offre des avantages particuliers comme le stationnement ou de la nourriture, ce qui n’était pas courant. Elle était libre de choisir une affectation ou de la refuser, selon le moment et le taux horaire. Elle était libre de travailler pour d’autres et pouvait accepter d’autres affectations, pourvu qu’il n’y ait pas de conflits d’horaire. Elle n’était pas supervisée ni dirigée parce qu’elle exécutait sa performance selon les habiletés exigées. Elle pouvait être une « Barbie » ou une « préposée à l’accueil » ou une « porte‑parole » avec un scénario à mémoriser selon ce qu’exigeait l’affectation.
+[19] Il faut examiner l’intention des parties pour cerner le véritable rapport entre l’appelante et les artistes. Les témoignages ont clairement démontré que les deux parties estimaient qu’elles exploitaient leurs propres entreprises distinctes, chacune de leur côté. Les artistes avaient des habiletés, des talents ou des attributs physiques ou mentaux spécifiques qu’ils contrôlaient et avec lesquels ils gagnaient leur vie. Mme Groom ne s’est jamais considérée comme une employée mais s’est adressée à l’appelante pour que celle‑ci fasse la promotion de ses habiletés et de ses attributs et lui permette de les exploiter au maximum. L’appelante voulait disposer d’un bassin d’artistes pour répondre aux besoins des clients. Mais, pour plus de précision, les deux témoins ont clairement indiqué qu’aucun service n’était payé jusqu’à ce que l’appelante ait été payée par le client. Le paiement reçu du client correspondait au prix des heures travaillées par l’artiste, majoré de la commission de l’appelante. L’explication de l’« intermédiaire » semble cadrer avec ces circonstances. L’appelante déduisait sa commission ou ses frais et remettait le solde à l’artiste conformément à la facture de ce dernier.
+[20] Pour les motifs qui précèdent, la Cour conclut que l’appelante n’est pas une agence de placement et agit simplement comme intermédiaire pour transmettre l’argent aux artistes qui ont exécuté une performance conformément à ce qu’exigeaient les circonstances. En outre, la Cour conclut que les artistes sont des entrepreneurs indépendants et qu’ils travaillent en vertu de contrats d’entreprise verbaux et n’exercent pas un emploi assurable au sens de la LAE ni un emploi ouvrant droit à pension au sens du Régime.
+[21] La Cour accueille donc les appels.
+Signé à Toronto (Ontario), le 27 octobre 2005.
+« W.E. MacLatchy »
+Juge suppléant MacLatchy
+Traduction certifiée conforme
+ce 9e jour de juin 2008.
+S. Tasset
+RÉFÉRENCE : 2005CCI695
+Nos DES DOSSIERS DE LA COUR : 2004-4371(EI) et 2004-4373(CPP)
+INTITULÉ : Diana Williams Promotions Limited et M.R.N.
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Le 3 octobre 2005
+MOTIFS DU JUGEMENT : L’honorable juge suppléant W.E. MacLatchy
+DATE DU JUGEMENT : Le 27 octobre 2005
+COMPARUTIONS :
+Représentant de l’appelante :
+Andrew Goodman
+Avocat de l’intimé :
+Me John Grant
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Cabinet :
+Pour l’intimé : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa (Ontario)

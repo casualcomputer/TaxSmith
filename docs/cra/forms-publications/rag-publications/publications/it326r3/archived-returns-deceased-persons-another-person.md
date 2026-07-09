@@ -1,0 +1,244 @@
+---
+title: "ARCHIVED - Returns of Deceased Persons as 'Another Person'"
+source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it326r3/archived-returns-deceased-persons-another-person.html
+last_modified: 2017-11-07
+---
+# ARCHIVED - Returns of Deceased Persons as "Another Person"
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+[What the "Archived Content" notice means for interpretation bulletins](https://www.canada.ca/en/revenue-agency/services/forms-publications/what-archived-content-notice-means-interpretation-bulletins.html)
+
+NO: **IT-326R3**
+
+DATE: November 13, 1996
+
+SUBJECT: INCOME TAX ACT**Returns of Deceased Persons as "Another Person"**
+
+REFERENCE: Sections 114.2 and 118.93 (also sections 110, 118, 118.1 to 118.9, and 180.2; subsections 70(2) and 150(4); and paragraph 104(23)(d) of the *Income Tax Act*)
+
+### Notice -- Bulletins do not have the force of law
+
+***This document is also available for [download in PDF format](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it326r3.html).***
+
+## Contents
+
+- *[Application](#P68_2645)*
+
+- *[Summary](#P70_2747)*
+
+- *[Discussion and Interpretation](#P76_4701)*
+
+    - [Separate returns](#P77_4730) (¶ 1)
+
+    - [Credits and deductions allowed](#P88_7680)
+
+          - *[Deductions in computing taxable income](#P118_13742)* (¶s 2, 3)
+
+          - *[Non-refundable tax credits](#P98_9221)* (¶s 4-8)
+
+    - [Credits and deductions not allowed](#P113_13284)
+
+          - [**Deductions in computing net income**](#Deductions in computing net income) (¶ 9)
+
+          - *[Deductions in computing taxable income](#P118_13742)*(¶ 10)
+
+          - *[Tax credits](#P123_14055)*(¶s 11-13)
+
+    - [Other considerations](#P130_14846) (¶s 14-16)
+
+- *[Explanation of Changes](#P148_15837)*
+
+## Application
+
+This bulletin replaces and cancels Interpretation Bulletin IT-326R2 dated February 2, 1990.
+
+## Summary
+
+The legal representative of a deceased person must file an income tax return (referred to in this bulletin as an "ordinary return") reporting the income of the deceased from January 1 of the year of death to the date of death. In certain circumstances the legal representative has the opportunity to exclude specific types of income from the "ordinary" return and report them on separate income tax returns as if the taxpayer were "another person." A separate return may be filed to report the value of the deceased person's rights or things. Similarly, where the fiscal period of a testamentary trust or unincorporated business ends in the year and before the taxpayer's death, the deceased person's share of the income from the testamentary trust or the business for the period from the end of the fiscal period to the date of death may be reported on a separate return.
+
+The purpose of sections 114.2 and 118.93 is to limit the total of certain deductions and certain non-refundable tax credits claimed on the ordinary and separate returns to the amount that could be claimed if only the ordinary return were filed.
+
+The age tax credit, the basic personal tax credit, the spousal tax credit, the equivalent-to-spouse tax credit, and the dependant tax credit that apply in the ordinary return for the year of death may also be deducted in each of the separate returns filed. Certain other tax credits, as well as certain deductions allowable in calculating taxable income, may be deductible in the separate returns or in the ordinary return. However, the total of these other tax credits and deductions may not exceed the amount that could be deducted if only the ordinary return were filed with all of the income, deductions and credits reported therein.
+
+This bulletin identifies the income that can be reported in the separate returns and discusses the deductions from taxable income and tax credits that may be claimed when such returns are filed.
+
+## Discussion and Interpretation
+
+## Separate returns
+
+**¶ 1.** Subsection 70(2), paragraph 104(23)(d) and subsection 150(4) each allow the filing of an income tax return for certain portions of a deceased person's income for the year of death as if the return were that of another person. Such a return is available upon election:
+
+(a) under subsection 70(2), to report the value of rights or things which would normally enter into the computation of income on realization or disposition (see the current version of IT-212, *Income of Deceased Persons -- Rights or Things*);
+
+(b) under paragraph 104(23)(d), where a beneficiary of a testamentary trust dies after the end of the taxation year of the trust but before the end of the calendar year in which the taxation year ended, to report any income from the trust during the period from the end of that taxation year to the date of death; and
+
+(c) under subsection 150(4), where a partner or an individual proprietor of a business dies after the end of the fiscal period of the business but before the end of the calendar year in which the fiscal period ended, to report the income from that business pertaining to the period from the close of that fiscal period to the date of death (see the current version of IT-278, *Death of a Partner or a Retired Partner*).
+
+The election in (a) must be made within one year after the date of death, or 90 days after the mailing of any notice of assessment or reassessment for the year of death, whichever is later.
+
+In order to avoid possible late filing penalties the elections in (b) and (c) should be made by April 30 of the year following the year of death or six months after the date of death, whichever is later. However, for 1995 and later taxation years, the due date for making the elections in (b) and (c) above may be extended for a deceased person if the deceased person, or the deceased person's spouse, carried on a business in the year of death (except where the expenditures of the business are primarily the cost or capital cost of "tax shelters"). In such circumstances, the due date for making the elections is:
+
+- on or before June 15 of the year following the year of death if the individual died during the period January 1 to December 15;
+
+- within six months after the date of death if the individual died during the period December 16 to December 31 or during the period January 1 to June 14 of the following year (i.e. before the individual's filing due date for the previous year had the individual not died).
+
+Note that although the due date for making the elections in (b) and (c) above may be extended as described above, interest at the prescribed rate will be assessed on any unpaid balance from the later of April 30 of the year following the year of death or six months after the date of death.
+
+The appropriate flow-through rules for partnerships will apply in respect of the return described in (c) above (see the current version of IT-138, *Computation and Flow-through of Partnership Income*).
+
+## Credits and deductions allowed
+
+### Deductions in computing taxable income
+
+**¶ 2.** Pursuant to section 114.2, the total of all deductions under section 110 that may be claimed on the ordinary and separate returns filed on behalf of the deceased person may not exceed the amount that could be claimed if only the ordinary return were filed with all income included therein. The deductions provided under section 110 include deductions in respect of:
+
+- employee stock option benefits included in income -- paragraph 110(1)(d) or (d.1) (see the current version of IT-113, *Benefits to Employees -- Stock Options*);
+
+- an amount included in income in respect of prospector's and grubstaker's shares -- paragraph 110(1)(d.2);
+
+- income exempt under a tax treaty -- subparagraph 110(1)(f)(i);
+
+- certain compensation amounts received under an employers' or workers' compensation law for injury, disability or death -- subparagraph 110(1)(f)(ii) (see the current version of IT-202, *Employees' or Workers' Compensation*);
+
+- an amount included in income in respect of a home relocation loan -- paragraph 110(1)(j) (see the current version of IT-421, *Benefits to Individuals, Corporations and Shareholders from Loans or Debt*); and
+
+- a vow of perpetual poverty -- subsection 110(2) (see the current version of IT-86, *Vow of Perpetual Poverty*).
+
+**¶ 3.** The deductions under section 110 (such as under paragraphs 110(1)(d) and (f)) which relate to a particular source of income can be claimed on a given return only to the extent of the income from the particular source reported on that return.
+
+### Non-refundable tax credits
+
+**¶ 4.** Where a portion of the income of a deceased person is reported on a separate return as though it were the income of "another person," the personal tax credits that applied to the deceased person's ordinary return for the year may also be claimed on each of the separate returns filed pursuant to subsection 70(2), paragraph 104(23)(d) or subsection 150(4). The personal tax credits, which are provided by paragraphs 118(1)(a) to (d) and subsection 118(2), are the basic personal tax credit, the spousal tax credit, the equivalent-to-spouse tax credit, the dependant tax credit, and the age tax credit. See the current version of IT-513, *Personal Tax Credits*.
+
+**¶ 5.** Pursuant to section 118.93, the total of all tax credits that may be claimed under subsection 118(3) and sections 118.1 to 118.7 and 118.9 on the ordinary and separate returns filed on behalf of the deceased person cannot exceed the amount that would be deducted under those provisions if no separate returns were filed (referred to in this bulletin as the "overall limitation rule"). In general terms these tax credits may be described as follows:
+
+(a) the tax credit for an individual who is in receipt of certain pension income -- subsection 118(3) (see the current version of IT-517, *Pension Tax Credit*);
+
+(b) the tax credit for total gifts -- section 118.1 (see [¶ 8](#P111_12474) below and the current version of IT-110, *Deductible Gifts and Official Donation Receipts*);
+
+(c) the tax credit for medical expenses -- section 118.2 (see [¶ 7](#P110_12027) below and the current version of IT-519, *Medical Expense and Disability Tax Credits and Attendant Care Expense Deduction*);
+
+(d) the tax credit for an individual who has a severe and prolonged mental or physical impairment -- section 118.3 (see the current version of IT-519);
+
+(e) the tax credit for tuition fees of a student who is enrolled at an appropriate educational institution -- section 118.5 (see the current version of IT-516, *Tuition Tax Credit*);
+
+(f) the tax credit for a student enrolled in a qualifying education program at a designated educational institution -- section 118.6 (see the current version of IT-515, *Education Tax Credit*);
+
+(g) the tax credit for employee premiums for Unemployment Insurance and employee contributions to the Canada Pension Plan or Quebec Pension Plan -- section 118.7; and
+
+(h) the tax credit in respect of unused tax credits for tuition or education (see (e) and (f) above) that are transferred to the student's parent or grandparent -- section 118.9.
+
+**¶ 6.** The tax credits under sections 118.1, 118.2, 118.3, 118.5, 118.6 and 118.9 may be claimed on any of the returns regardless of the type of income reported on the return. However, the tax credits under section 118.7 and subsection 118(3) may only be claimed on those returns on which the related income is reported.
+
+**¶ 7.** For the purpose of the overall limitation rule in section 118.93, in determining the maximum amount that may be claimed as a medical expense tax credit under section 118.2 (see the current version of IT-519), qualifying medical expenses are reduced by the lesser of the dollar amount specified in the T1 individual income tax return for the year for this purpose ($1,614 for 1995) and 3% of the total net income reported on **all** of the returns.
+
+**¶ 8.** As noted in [¶ 6](#P06) above, the tax credit for total gifts, as determined by the formula in subsection 118.1(3), may be claimed on any of the returns filed on behalf of a deceased person. Subject to the overall limitation rule in section 118.93, the tax credit is based on the total for the year of "total Crown gifts," "total cultural gifts," "total ecological gifts" (for ecological gifts made after February 27, 1995), and the lesser of "total charitable gifts" and 20% of the net income that is reported on that return.
+
+***Note**: The Federal Budget tabled by the Minister of Finance on March 6, 1996 contains a proposal to raise the limit for charitable donations, for 1996 and subsequent taxation years, to 100% of an individual donor's income for the year in which the individual dies and for the preceding year.*
+
+## Credits and deductions not allowed
+
+### Deductions in computing net income
+
+**¶ 9.** When calculating the income of a deceased person on the separate returns filed as "another person" under subsection 70(2), paragraph 104(23)(d) or subsection 150(4), the following types of expenses cannot be deducted:
+
+- child care expenses -- section 63 (see the current version of IT-495, *Child Care Expenses*); and
+
+- attendant care expenses -- section 64 (see the current version of IT-519).
+
+### Deductions in computing taxable income
+
+**¶ 10.** The following deductions are not applicable in determining the taxable income of a deceased person in any of the separate returns filed as "another person":
+
+- capital gains deduction -- section 110.6;
+
+- northern residents deductions -- section 110.7; and
+
+- losses -- section 111.
+
+### Tax credits
+
+**¶ 11.** The transfer of unused tax credits from a spouse under section 118.8 is not applicable in determining the tax payable of a deceased person on any of the separate returns filed as "another person."
+
+**¶ 12.** The following tax credits cannot be deducted in calculating the income tax payable of a deceased person on any of the separate returns filed as "another person":
+
+- the refundable goods and services tax credit -- section 122.5;
+
+- the refundable child tax benefit -- sections 122.6 to 122.64; and
+
+- the refundable investment tax credit -- section 127.1.
+
+**¶ 13.** The election under subsection 127(8.4) to renounce investment tax credits which have been allocated to a partner pursuant to subsections 127(8) and (8.3), cannot be made on any of the separate returns filed as "another person."
+
+## Other considerations
+
+**¶ 14.** Pursuant to subsection 110.4(5), the forward averaging amount brought into income under subsection 110.4(2) cannot be reported in any of the separate returns filed as "another person."
+
+**¶ 15.** By virtue of section 127.55, minimum tax is not imposed on any of the separate returns filed as "another person." As well, subsection 120.2(4) provides that any minimum tax credits arising from another taxation year cannot be applied to reduce the tax payable in respect of the separate returns.
+
+**¶ 16.** Section 180.2 (Part I.2) provides for the repayment of Old Age Security benefits when an individual's net income, as modified by that section, exceeds a base amount for a taxation year. In the case of a deceased person, the Part I.2 tax is applied separately to each tax return filed on the deceased person's behalf. Therefore, the income reported on a separate return would not be relevant in determining the Part I.2 tax payable on the ordinary return and vice versa.
+
+## Explanation of Changes
+
+## Introduction
+
+The purpose of the *Explanation of Changes* is to give the reasons for the revisions to an interpretation bulletin. It outlines revisions that we have made as a result of changes to the law, as well as changes reflecting new or revised departmental interpretations.
+
+## Overview
+
+This bulletin deals with the effect of sections 114.2 and 118.93 when a separate income tax return is filed under subsection 70(2), paragraph 104(23)(d) or subsection 150(4) in addition to the ordinary return filed on behalf of a deceased person. Sections 114.2 and 118.93 limit the total of certain non-refundable tax credits and deductions claimed on the ordinary and separate income tax returns to the amount that could be claimed if only the ordinary return were filed.
+
+The bulletin reflects amendments by S.C. 1990, c. 39 (formerly Bill C-28); S.C. 1990, c. 45 (formerly Bill C-62); S.C. 1994, c. 7, Schedule II (1991, c. 49 -- formerly Bill C-18); S.C. 1994, c. 7, Schedule VII (1992, c. 48 -- formerly Bill C-80); S.C. 1995, c. 3 (formerly Bill C-59); and S.C. 1996, c.21 (formerly Bill C-36). The bulletin also reflects the Federal Budget tabled on March 6, 1996.
+
+The comments in the bulletin are not affected by any other draft legislation released before September 3, 1996.
+
+## Legislative and Other Changes
+
+¶ [1](#P78_4748) reflects amendments to paragraphs 150(1)(b) and (d), applicable for 1995 and later taxation years, which in most cases will extend the due date for making the elections under paragraph 104(23)(d) and subsection 150(4) where the deceased or the deceased's spouse carried on business in the year of death.
+
+New ¶ [2](#P90_7750) (former ¶ 3) has been modified to replace the list of section 110 related IT bulletins with a current list of available section 110 deductions.
+
+In new ¶ [3](#P97_8978) (last part of former ¶ 5), we have removed the reference to paragraph 110(1)(i) which was repealed applicable to the 1989 and later taxation years.
+
+Paragraph 110(1)(i) provided for a deduction for the repayment of unemployment insurance benefits in computing taxable income. This deduction has been replaced with a deduction under paragraph 60(v.1) in computing net income.
+
+New ¶ [7](#P110_12027) (second part of former ¶ 5) has been revised to replace the reference to $1,500 with $1,614 which is the applicable amount for 1995.
+
+New ¶ [8](#P111_12474) (third part of former ¶ 5) reflects the amendment to the definition of "total gifts" in subsection 118.1(1) to delete the words "computed without reference to subsection 137(2)," applicable after December 11, 1988 and to add "total ecological gifts" for such gifts made after February 27, 1995. In addition, we have removed the comments dealing with the calculation of the tax credit for total gifts since the calculation is included in the T1 individual income tax return.
+
+New ¶ [9](#P115_13354) (former ¶ 6) has been revised to add a reference to the deduction for attendant care expenses.
+
+New ¶ [12](#P125_14269) (former ¶ 9) has been revised to reflect the repeal of:
+
+- the refundable federal sales tax credit, applicable to 1991 and later years; and
+
+- the refundable child tax credit, applicable to 1993 and later years.
+
+These credits were replaced by the refundable goods and services tax credit and the refundable child tax benefit, respectively.
+
+New ¶ [15](#P133_15057) (former ¶ 12) has been revised to add that the provisions of subsection 120.2(4) do not apply to separate returns filed on behalf of a deceased person.
+
+New ¶ [16](#P134_15357) has been added to reflect the Department's position on the application of section 180.2 when more than one tax return is filed on behalf of a deceased person.
+
+Throughout the bulletin, we have changed some of the wording and the ordering of some paragraphs to improve clarity.
+
+### Notice -- Bulletins do not have the force of law
+
+Interpretation bulletins (ITs) provide Revenue Canada's technical interpretations of income tax law. Due to their technical nature, ITs are used primarily by departmental staff, tax specialists, and other individuals who have an interest in tax matters. For those readers who prefer a less technical explanation of the law, the Department offers other publications, such as tax guides and pamphlets.
+
+While the ITs do not have the force of law, they can generally be relied upon as reflecting the Department's interpretation of the law to be applied on a consistent basis by departmental staff. In cases where an IT has not yet been revised to reflect legislative changes, readers should refer to the amended legislation and its effective date. Similarly, court decisions subsequent to the date of the IT should be considered when determining the relevancy of the comments in the IT.
+
+An interpretation described in an IT applies as of the date the IT is published, unless otherwise specified. When there is a change in a previous interpretation and the change is beneficial to taxpayers, it is usually effective for all future assessments and reassessments. If the change is not favourable to taxpayers, it will normally be effective for the current and subsequent taxation years or for transactions entered into after the date of the IT.
+
+A change in a departmental interpretation may also be announced in the *Income Tax Technical News*.
+
+***If you have any comments regarding matters discussed in this IT, please send them to:***
+
+***Director, Business and Publications Division Income Tax Rulings Directorate Policy and Legislation Branch Revenue Canada Ottawa ON K1A 0L5***

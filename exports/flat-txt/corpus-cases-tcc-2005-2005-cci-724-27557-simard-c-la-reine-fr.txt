@@ -1,0 +1,115 @@
+Title: Simard c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27557/index.do
+Corpus path: corpus/cases/tcc/2005/2005-cci-724-27557-simard-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2005-11-22
+
+# Simard c. La Reine
+
+- Citation: 2005 CCI 724
+- Decision date: 2005-11-22
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 119, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Simard c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-11-22
+Référence neutre
+2005 CCI 724
+Numéro de dossier
+2005-1224(GST)I
+Juges et Officiers taxateurs
+François M. Angers
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2005-1224(GST)I
+ENTRE :
+BERNARD SIMARD,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 11 octobre 2005, à Rivière-du-Loup (Québec).
+Devant : L'honorable juge François Angers
+Comparutions :
+Avocat de l'appelant :
+Me Alain Dubé
+Avocate de l'intimée :
+Me Ghislaine Thériault
+____________________________________________________________________
+JUGEMENT
+L'appel des cotisations établies en vertu de la Loi sur la taxe d'accise, dont les avis sont en date du 28 janvier 2004 (pour la période du 1er juillet 1999 au 31 mars 2003) et du 30 janvier 2004 (pour la période du 1er avril 2003 au 30 juin 2003), est accueilli selon les motifs du jugement ci-joints.
+Signé à Ottawa (Ontario), ce 22e jour de novembre 2005.
+« François Angers »
+Juge Angers
+Référence : 2005CCI724
+Date : 20051122
+Dossier : 2005-1224(GST)I
+ENTRE :
+BERNARD SIMARD,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Angers
+[1] L'appel dont il s'agit est interjeté à l'encontre de deux cotisations établies par le ministre du Revenu national (le « ministre » ) en vertu de la partie IX de la Loi sur la taxe d'accise (la « Loi » ) pour les périodes du 1er juillet 1999 au 31 mars 2003 et du 1er avril 2003 au 30 juin 2003. Le ministre a établi à l'égard de l'appelant un montant de taxe nette de 40 457,25 $, plus des intérêts de 4 689,05 $, et un montant de taxe nette de 1 084,25 $, plus des intérêts de 15,22 $, pour chacune des périodes respectivement.
+[2] Les cotisations en litige sont le résultat d'une vérification faite en 2003 auprès de l'appelant et concernent des changements d'usage de ses immeubles intervenus en novembre 1999 et en octobre 2002 et des fournitures à soi-même d'adjonctions d'habitations à logements multiples intervenues en octobre 2002 et en juin 2003. Une renonciation au délai de prescription a été signée par l'appelant. Ce dernier ne conteste pas cet aspect de la cotisation, mais demande plutôt un remboursement des taxes sur les produits et services ( « TPS » ) qu'il dit avoir versées par erreur et que le ministre lui refuse.
+[3] En 1982, l'appelant s'est porté acquéreur d'un immeuble à Cacouna, une petite localité d'environ 1 100 habitants située à 10 km de Rivière-du-Loup. Cet immeuble, appelé le « bâtiment sud » , renferme un bar et une salle de réception et un vieux motel. En 1992, il ajoute des chambres de motel, un dépanneur ainsi qu'un restaurant et choisit de fermer la salle de réception. Les chambres de motel sont alors louées à court terme durant la période estivale et à long terme durant les neuf autres mois de l'année. L'appelant fait également construire un immeuble à logements multiples appelé le « bâtiment nord » et qui comprend quatre logements de 3½ pièces et huit logements de 1½ pièce. En 1996, il ajoute au « bâtiment nord » un troisième étage qui comprend dix logements de 1½ pièce.
+[4] À l'automne 2002, l'appelant réaménage le « bâtiment sud » en déplaçant le bar du sous-sol au premier étage et en remplaçant le restaurant, le dépanneur et un poste d'essence par deux logements de 3½ pièces. Il ajoute au « bâtiment nord » une adjonction de trois étages qui comprend trois logements de 3½ pièces et neuf logements de 1½ pièce dont les premières locations débutent en octobre 2002.
+[5] Au printemps 2003, l'appelant ajoute au « bâtiment sud » un troisième étage qui comprend une adjonction de neuf logements de 2½ pièces dont les premières locations eurent lieu le 15 juin 2003. Lors de la vérification en 2003, l'appelant était donc propriétaire de deux immeubles de 45 logements, dont un est occupé par lui, d'un bar et d'un salon de coiffure.
+[6] Selon l'appelant, à partir de 1999, ses locations ont commencé à se faire soit à long terme (30 jours ou plus), soit pour toute l'année. De 2000 à 2002, les locations de chambres de motel étaient très minimes. La réception ou l'accueil était assuré par lui ou par sa conjointe, qui exploitait le salon de coiffure. La proportion de location aux touristes, soit à court terme plutôt qu'à long terme, est de 2%. L'appelant publiait des annonces pour ses locations à long terme et il lui arrivait de faire signer des baux. La durée d'occupation moyenne à long terme était de 7 mois.
+[7] Lors de locations aux touristes, la TPS était facturée sur le prix de la location, de même que la taxe de vente du Québec ( « TVQ » ). Pour les locations à long terme, il n'était pas question de TPS ni de TVQ, tant dans sa publicité que dans les modèles de baux qui ont été déposés. Il s'agit d'une fourniture exonorée, mais l'appelant soutient qu'il était sous l'impression qu'il devait remettre la TPS et la TVQ parce qu'il exploite un motel. C'est ce qu'il a d'ailleurs fait jusqu'au 16 septembre 2003, date où le vérificateur lui a dit, à sa surprise, qu'il s'agissait, lors de la location à long terme, d'une fourniture exonérée.
+[8] L'appelant témoigne avoir remis de la TPS et de la TVQ pour les deux formes de location avant même la période en litige et qu'il en faisait ainsi lors d'une vérification en 1997. Cette vérification visait principalement les revenus des machines de vidéopoker que l'appelant avait installées dans ses établissements. Il aurait été question de changement d'usage pour le motel et d'autocotisation, mais l'appelant ne se souvient pas de ces discussions. Le vérificateur n'a pas exigé d'autocotisation concernant le changement d'usage. L'appelant a, par ailleurs, reçu du ministre du Revenu du Québec un avis à l'intention d'un inscrit pour la période du 1er septembre au 30 novembre 1996 affirmant que son entreprise s'était conformée aux dispositions de la Loi sur la TVQ. Il déclare que le vérificateur à l'époque ne lui a jamais dit de cesser de payer les deux taxes sur les locations à long terme. L'appelant affirme qu'il n'a été mis au courant de son obligation de s'autocotiser que lors de la vérification de 2003, tout comme il a appris qu'il ne devait pas verser les taxes sur les locations à long terme, soit celles de 30 jours et plus.
+[9] L'appelant explique que durant la même période, il était propriétaire d'un immeuble à logements à Rivière-du-Loup appelé « Bisson » et pour lequel il n'a jamais perçu et remis les deux taxes. D'ailleurs, dans son journal synoptique (onglet 7 de la pièce I-1), on voit que les revenus mensuels de cet immeuble n'ont pas fait l'objet des deux taxes. Par contre, sous la rubrique « motel » , on retrouve les revenus mensuels des deux bâtiments, y compris ceux pour les locations à court et à long terme, sur lequels l'appelant a calculé les deux taxes à remettre. Selon l'appelant, puisqu'il se considérait toujours dans le domaine de l'hôtellerie, il se sentait obligé de verser les deux taxes même si, lors de locations à long terme, il ne les facturait pas. C'est ainsi qu'on peut trouver les montants de TPS versés qui correspondent aux remises trimestrielles de l'appelant. Dans le même journal, on trouve également les revenus du salon de coiffure, les pourboires, les machines à vidéopoker et d'autres écritures. Il faut reconnaître que cette comptabilité est un peu déficiente.
+[10] Après avoir appris du vérificateur qu'il n'avait pas à calculer les deux taxes sur ses revenus de location à long terme, l'appelant n'a pas modifié le prix de ses loyers. Il était plutôt heureux d'apprendre que son propre revenu allait augmenter.
+[11] Gervais Grandmaison est le vérificateur du dossier de l'appelant pour les périodes en litige. Il a rencontré l'appelant en mai 2003 et c'est à ce moment que la question des taxes sur les locations de 30 jours et plus a fait surface. C'est d'ailleurs lui qui a dit à l'appelant de cesser de payer les taxes pour ces locations. Il reconnaît que l'appelant a été surpris d'apprendre cette information.
+[12] Cette vérification a porté sur plusieurs points, notamment les changements d'usage et les autocotisations qui s'appliquent. Sur la question des taxes pour les locations indiquées sous la rubrique « motel » , le vérificateur a utilisé le journal synoptique de l'appelant, qui utilise la comptabilité de caisse. Les montants inscrits dans le journal correspondent aux rapports trimestriels. Pour les intrants (CTI), le vérificateur a refait les calculs et a refusé à l'appelant les CTI réclamés depuis le 1er juillet 1999.
+[13] Selon M. Grandmaison, la proportion de locations à court terme, soit 2%, est plus acceptable pour les années 2001, 2002 et 2003, et moins acceptable pour les années 1999 et 2000, années où les locations à court terme étaient plus fréquentes. Chose certaine, il ne faut pas, selon lui, appliquer cette proportion aux revenus de l'appelant, suggérant qu'il n'existe pas de moyen, avec la tenue de livres de l'appelant, de calculer la proportion des locations à court terme en fonction des revenus et ainsi de déterminer le montant exact de la taxe payée par erreur. En contre-interrogatoire, l'appelant insiste qu'il a toujours calculé cette proportion selon les revenus et non selon les locations.
+[14] L'intimée reconnaît que la TPS sur les locations à long terme a été perçue et remise par l'appelant par erreur. Elle soutient que l'appelant n'est pas, par conséquent, la personne qui a droit au remboursement de la taxe remise par erreur. Ce sont plutôt les locataires à long terme qui y ont droit, puisque ce sont eux qui l'ont payée. La Cour suprême du Canada, dans le Renvoi relatif à la taxe de vente du Québec, [1994] 2 R.C.S. 715, faisait la remarque que les inscrits ne paient pas la taxe ni n'en assument le fardeau. Ils agissent simplement à titre de percepteurs d'impôt, faisant remise des revenus au gouvernement.
+[15] De son côté, l'appelant soutient que la TPS n'a pas été perçue de ses locataires à long terme. Le prix des loyers n'a jamais été établi afin de percevoir la TPS; il a plutôt fait remise de la TPS à même ses propres fonds car il croyait qu'il était obligé de la verser.
+[16] La question de savoir qui a droit à un remboursement de TPS lorsqu'elle est perçue et remise par erreur, notamment la question de savoir si un inscrit peut, dans certaines circonstances, demander un remboursement de TPS alors que son rôle se limite à la percevoir et la remettre, a fait l'objet de plusieurs décisions. La disposition légale permettant le remboursement d'un montant payé par erreur se retrouve au paragraphe 261(1) de la Loi :
+Remboursement d'un montant payé par erreur - Dans le cas où une personne paie un montant au titre de la taxe, de la taxe nette, des pénalités, des intérêts ou d'une autre obligation selon la présente partie alors qu'elle n'avait pas à le payer ou à le verser, ou paie un tel montant qui est pris en compte à ce titre, le ministre lui rembourse le montant, indépendamment du fait qu'il ait été payé par erreur ou autrement.
+[17] Dans une récente décision, le juge en chef Bowman, dans l'affaire Lorraine McDonell c. La Reine, 2005 CCI 301, a fait le tour de la question de savoir si un inscrit qui perçoit par erreur de la TPS d'un acquéreur et qui la remet au fisc a droit à un remboursement. Son analyse revoit plusieurs décisions de notre Cour, dont certaines ont été confirmées par la Cour d'appel fédérale, et qui n'étaient pas nécessairement compatibles. Il est arrivé à la conclusion suivante qui, à mon avis, résume bien l'interprétation que l'on peut donner à l'article 261. Il s'est permis également de décrire deux situations où une demande de remboursement faite par un inscrit pouvait être acceptée. On retrouve sa conclusion et ses commentaires aux paragraphes 35 et 36 de sa décision :
+Je ne pense pas qu'il soit nécessaire en l'espèce de déterminer s'il est impossible qu'un fournisseur puisse obtenir un remboursement de la taxe en vertu de l'article 261. Il suffit de dire que, selon moi, dans les cas où un fournisseur perçoit un montant au titre de la TPS auprès de l'acquéreur d'une fourniture lorsque la TPS n'était pas exigible et verse le montant au gouvernement (comme il doit le faire : voir la décision ITA Travel Agency Ltd. v. Canada, [2000] G.S.T.C. 5), c'est l'acquéreur, et non le fournisseur, qui est en droit de demander le remboursement en vertu de l'article 261. Mon but en prononçant ces motifs n'est pas d'affirmer qu'un fournisseur ne peut jamais demander de remboursement en vertu de l'article 261. Selon moi, il y a au moins deux situations où une demande de remboursement faite par un fournisseur pourrait être acceptée :
+a) lorsqu'un fournisseur ne perçoit pas de TPS auprès d'un acquéreur relativement à une fourniture exonérée ou détaxée, mais par la suite verse au gouvernement, par erreur, un montant au titre de la TPS qui est tiré de ses propres fonds;
+b) lorsqu'un fournisseur perçoit de la TPS d'un acquéreur et, par la suite, verse au gouvernement un montant plus élevé que le montant qu'il a perçu, indépendamment du fait que la taxe ait été perçue par erreur ou non.
+Il n'est pas nécessaire que je réponde aux questions soulevées dans le cadre de ces deux situations hypothétiques, mais je ne pense pas que le fait que le fournisseur soit en droit de demander un remboursement du montant payé dans le cadre de l'exemple a) ou du montant excédentaire perçu dans le cadre de l'exemple b) aille à l'encontre de l'esprit de la Loi ou du libellé de l'article 261.
+[18] À mon avis, la présente instance en est une qui correspond à la situation décrite au paragraphe a) de la decision du juge en chef Bowman. Si un inscrit établit, selon la prépondérance des probabilités, qu'il n'a pas perçu la TPS auprès d'un acquéreur, qu'il s'agit d'une fourniture exonérée et qu'il remet au fisc, par erreur, un montant au titre de la TPS qui est tiré de ses propres fonds, il aura droit à un remboursement de la TPS qu'il a payée par erreur.
+[19] En l'espèce, les parties reconnaissent que l'appelant a versé la TPS sur les revenus indiqués sous la rubrique « motel » et qu'une partie de ce montant comprend de la TPS sur des fournitures exonérées. L'intimée soutient que la TPS a été perçue, alors que l'appelant affirme la contraire. Il avance à l'appui de sa prétention des annonces publicitaires qui ne font aucune mention de TPS, de même que des baux qui identifient le prix de la location sur une base mensuelle sans indiquer que la TPS est incluse dans le prix ou doit être ajoutée. L'appelant savait que la location de logements constituait une fourniture exonérée si on se fie à son tableau synoptique sous la rubrique « Loyers Bisson » , son immeuble situé à Rivière-du-Loup, et où il n'a pas fait le calcul de la TPS à remettre au fisc. Il explique son erreur en affirmant s'être mépris par ce qu'il exploitait un motel sous deux formes de location; puisqu'il était hôtellier et que la vérification de 1997 n'avait pas identifié cette erreur, il a continué d'agir ainsi jusqu'en 2003 où, à sa surprise, il apprend qu'il n'a pas à le faire. Le prix des locations à long terme n'a pas changé pour autant après 2003, car ils n'avaient jamais été fixés en fonction de la TPS. Même si l'erreur s'est répétée pendant plusieurs années, il n'en demeure pas moins qu'il s'agit d'une erreur. Il est aussi plausible de conclure que des locataires versaient le montant mensuel uniquement à titre de loyer puisque les baux et les ententes de location ne faisaient aucune mention de la TPS.
+[20] À mon avis, l'appelant a droit au remboursement de la TPS qu'il a versée par erreur mais non perçue durant les périodes en litige et qui se retrouve sous la rubrique « motel » dans son cahier synoptique. La difficulté repose toutefois sur la détermination du montant du remboursement. À mon avis, la répartition des locations à long et court terme selon la proportion 98% contre 2% ne peut servir à établir la proportion de la TPS remise par l'appelant sur les mêmes locations en fonction des revenus. La tenue de livre de l'appelant ne fait pas la distinction entre les revenus provenant des deux formes de location, éliminant ainsi une façon certaine d'établir le montant du remboursement. De plus, une location à court terme pouvait sans doute générer autant de revenu durant la courte période estivale qu'une location à long terme pendant toute l'année.
+[21] Le vérificateur, dans son témoignage, n'a pas semblé être d'accord pour que la proportion 98% contre 2% pour les locations à long et à court terme s'applique aux années 1999 et 2000. La réponse à l'avis d'appel admet toutefois le paragraphe 11 de l'avis d'appel, qui énonce que de 1999 à ce jour, l'appelant effectue des locations à long terme à 98%, et que les locations à court terme constituent à peine 2% des locations effectuées. Cet énoncé confirme aussi que l'appelant fait erreur lorsqu'il témoigne qu'il s'agit d'un pourcentage des revenus et non des locations.
+[22] L'appelant a produit un tableau indiquant ses revenus de location sous la rubrique « motel » pour les années 1999 à 2003 et le montant de la TPS remis au fisc sur ces montants. Les locations totales ont rapporté 203 339 $ et la TPS remise est de 14 233,73 $. La période en litige ne couvre toutefois que quatre années, soit du 1er juillet 1999 au 30 juin 2003. L'appelant n'a pas fourni le détail mensuel des revenus de motel pour la période en litige, de sorte qu'il est impossible de calculer le montant exact des revenus durant cette période. Il faut donc soustraire une année complète de ce total et, pour y arriver, je vais soustraire de ces montants la moyenne annuelle du montant total des revenus et de la TPS calculés. Cette moyenne est de 40 667,80 $ pour les revenus et de 2 846,75 $ pour la TPS. Une fois ces montants soustraits, le total des revenus pour la période en litige serait de 162 671,20 $ et la TPS remise serait de 11 386,98 $.
+[23] Il s'agit maintenant de soustraire du montant de TPS remis une proportion qui représente la TPS perçue et remise par l'appelant sur les locations qui constituent une fourniture taxable. Cette proportion, dans les circonstances, se veut arbitraire, vu l'impossibilité de l'établir de façon précise. Vu que le pourcentage des locations taxables est très minime et que le revenu annuel qui en est tiré peut équivaloir au revenu annuel d'une location non taxable, il me paraît raisonnable d'accorder un remboursement équivalant à 42 logements sur 43, soit 97,67 % de la TPS versée, c'est-à-dire 11 121,66 $ pour la période en litige. L'appel est accueilli et les cotisations sont déférées au ministre pour nouvel examen et nouvelle cotisation selon les motifs du présent jugement.
+Signé à Ottawa (Ontario), ce 22e jour de novembre 2005.
+« François Angers »
+Juge Angers
+RÉFÉRENCE : 2005CCI724
+N º DU DOSSIER DE LA COUR : 2005-1224(GST)I
+INTITULÉ DE LA CAUSE : Bernard Simard et Sa Majesté La Reine
+LIEU DE L'AUDIENCE : Rivière-du-Loup (Québec)
+DATE DE L'AUDIENCE : le 11 octobre 2005
+MOTIFS DE JUGEMENT PAR : L'honorable juge François Angers
+DATE DU JUGEMENT : le 22 novembre 2005
+COMPARUTIONS :
+Avocat de l'appelant :
+Me Alain Dubé
+Avocate de l'intimée :
+Me Ghislaine Thériault
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelant:
+Nom : Me Alain Dubé
+Étude : Dubé Dion, Avocats
+Rivière-du-Loup (Québec)
+Pour l'intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Ontario

@@ -1,0 +1,119 @@
+---
+title: "Camilleri v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26803/index.do"
+last_modified: "2005-09-12"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 CCI 602"
+citation2: ""
+neutral_citation: "2005 CCI 602"
+decision_date: "2005-09-12"
+language: "fr"
+item_id: "26803"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3483
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T22:31:58.701000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "7f8dc5f8ad0a461205421e572a86698b2c40e2536fbcf73651200008bef529a1"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Camilleri v. M.N.R.
+
+- Citation: 2005 CCI 602
+- Decision date: 2005-09-12
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3483, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Camilleri v. M.N.R.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-09-12
+Référence neutre
+2005 CCI 602
+Numéro de dossier
+2005-922(EI)
+Juges et Officiers taxateurs
+Judith Woods
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Référence : 2005CCI602
+Date : 20050912
+Dossier : 2005-922(EI)
+ENTRE :
+STEPHANIE CAMILLERI,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+(prononcés oralement à l'audience,
+tenue le 5 août 2005 à Edmonton (Alberta))
+Le juge Woods
+[1] Stephanie Camilleri interjette appel de la décision par laquelle le ministre du Revenu national a déterminé qu'elle n'occupait pas un emploi assurable aux fins de l'application de la Loi sur l'assurance-emploi. Pour en arriver à cette décision, le ministre a conclu que les modalités d'emploi de Mme Camilleri n'avaient pas été fixées par des personnes n'ayant aucun lien de dépendance. La disposition qui est au coeur du présent litige est l'alinéa 5(3)b) de la Loi.
+[2] Aux termes des dispositions applicables de la Loi sur l'assurance-emploi, la personne qui travaille pour une personne morale appartenant à des personnes liées à elle est réputée ne pas occuper un emploi assurable, à moins que ses modalités d'emploi soient à peu près semblables à celles dont auraient convenu des personnes n'ayant pas de lien de dépendance. Pour les motifs qui suivent, je suis convaincu qu'il est raisonnable de conclure à l'existence d'un lien de dépendance compte tenu de la preuve produite à l'audience.
+[3] Mme Camilleri a travaillé pour une société qui exploite une entreprise de services pétroliers et dont ses parents sont les propriétaires. Elle a commencé à travailler en janvier 2003, au sein d'une division où travaillaient environ quatre autres personnes. Mme Camilleri s'est jointe à l'entreprise familiale parce que son père était incapable de tenir le rythme de la croissance de l'entreprise et risquait ainsi de perdre son plus important client, Talisman Energy Inc., qui exigeait la présence d'une personne au bureau de 8 h à 17 h pour répondre aux appels.
+[4] Mme Camilleri a touché 12 $ l'heure, ce qui constitue, pour les services qu'elle fournissait ― la Couronne ne le nie pas ― un taux de rémunération correspondant au taux dont il aurait été convenu en l'absence de lien de dépendance. Ces services, tels qu'ils sont décrits dans le questionnaire que Mme Camilleri a rempli, consistaient en des tâches de secrétariat et de maintien des bases de données informatiques et des graphiques.
+[5] Les raisons pour lesquelles le ministre a déterminé que les modalités d'emploi de Mme Camilleri n'avaient pas été fixées par des personnes n'ayant aucun lien de dépendance sont exposées dans le rapport de l'agent des appels. Il y a en fait deux raisons principales. D'une part, Mme Camilleri n'a pas touché sa rémunération régulièrement, ni n'a encaissé ses chèques régulièrement, ce que personne ne conteste. Les détails sont exposés à l'alinéa 7 m) de la réplique du ministre. D'autre part, Mme Camilleri ne travaillait pas 40 heures ― une semaine normale. Ses heures de travail, qui ne sont l'objet d'aucune contestation, sont exposées dans des feuilles de temps détaillées qui ont été versées en preuve et qui sont résumées à l'alinéa 7 q) de la réplique. La preuve établit qu'il arrivait souvent à Mme Camilleri de travailler beaucoup moins de 40 heures par semaine.
+[6] À mon avis, les longs retards mis dans le paiement de la rémunération permettent à eux seuls de conclure que les modalités d'emploi de Mme Camilleri n'étaient pas à peu près semblables à des modalités dont auraient convenu des personnes n'ayant aucun lien de dépendance. Dans sa réplique, le ministre résume la question des dates auxquelles les chèques ont été émis pour les périodes de paie. Il fait état d'une tendance constante à émettre les chèques en retard. Certains de ces retards étaient courts, mais nombres d'entre eux s'étalaient sur des mois. Ainsi, les chèques de paie pour la période de février à juillet 2003 n'ont été émis qu'au mois d'août, tandis que les chèques de paie pour la période d'août à décembre 2003 n'ont été émis qu'en décembre. Les retards se sont poursuivis tout au long de la période pertinente, bien qu'avec le temps, ils aient été plus courts.
+[7] Mme Camilleri a expliqué, en ce qui concerne les retards, que l'entreprise éprouvait des problèmes de trésorerie et qu'elle-même arrivait difficilement à travailler avec le système de comptabilité dont son père n'avait pas eu le temps de s'occuper en raison de son calendrier chargé. À mon avis, des employés sans lien de dépendance ne travailleraient pas, de manière générale, dans de telles circonstances. Mme Camilleri a produit des éléments de preuve visant à établir que d'autres employés avaient dû patienter avant de toucher leur paie en raison de l'insuffisance de fonds. Toutefois, ces retards n'étaient pas courants et ne s'étalaient pas sur de longues périodes. À mon avis, les retards dans le cas de Mme Camilleri excèdent ce que la plupart des employés toléreraient.
+[8] En ce qui concerne les autres facteurs que le ministre a pris en considération, les heures de travail et les chèques encaissés tardivement, il est à mon avis raisonnable de conclure qu'ils tendent aussi à établir l'existence de modalités d'emploi établies par des personnes ayant un lien de dépendance. Je suis d'avis que la preuve produite par Mme Camilleri n'était pas suffisamment précise pour expliquer pourquoi elle avait travaillé moins de 40 heures par semaine et pourquoi les chèques n'avaient pas été encaissés au moment opportun. Je ferai remarquer également qu'à certains égards, son témoignage est entré en conflit avec les réponses qu'elle avait données dans le questionnaire qu'elle a remis à l'Agence du revenu du Canada. Je renvoie tout particulièrement à la question de savoir s'il existait un contrat écrit et à la question des heures de travail.
+[9] Il ressort des feuilles de temps que l'horaire de travail était flexible, peut-être parce que Mme Camilleri ne voulait pas prendre l'argent de l'entreprise pendant des périodes où il n'y avait pas de travail pour elle, ou parce que d'autres membres de la famille faisaient leur part au bureau pendant qu'elle prenait congé. C'est le genre de chose à laquelle on pourrait s'attendre au sein d'une entreprise familiale, mais, à mon avis, pas dans le cadre d'un emploi occupé en l'absence de lien de dépendance.
+[10] Pour les motifs qui précèdent, il est à mon avis raisonnable de conclure que Mme Camilleri n'a pas occupé son emploi dans le cadre d'une relation sans dépendance. L'appel est rejeté.
+Signé à Ottawa, Canada, ce 12e jour de septembre 2005.
+« J. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 18e jour d'octobre 2005.
+Fabienne Painchaud, traductrice
+RÉFÉRENCE :
+2005CCI602
+No DU DOSSIER DE LA COUR :
+2005-922(EI)
+INTITULÉ DE LA CAUSE :
+Stephanie Camilleri et le Ministre du Revenu national
+LIEU DE L'AUDIENCE :
+Edmonton (Alberta)
+DATE DE L'AUDIENCE :
+29 juillet 2005
+MOTIFS DU JUGEMENT PRONONCÉS PAR :
+L'honorable juge Judith Woods
+DATE DU JUGEMENT :
+9 août 2005
+COMPARUTIONS
+Pour l'appelante :
+L'appelante elle-même
+Avocate de l'intimé :
+Kim Gowin
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelante :
+Nom :
+n/a
+Cabinet :
+Pour l'intimé :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

@@ -1,0 +1,194 @@
+---
+title: "Hypercube Inc. c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/108663/index.do"
+last_modified: "2015-03-17"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2015 CCI 65"
+citation2: ""
+neutral_citation: "2015 CCI 65"
+decision_date: "2015-03-17"
+language: "fr"
+item_id: "108663"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2841
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T16:39:08.565000+00:00"
+cases_cited_count: 2
+cases_citing_count: 6
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "727a73676cb3ec101cd9d25b9527fd3519b658ed3400536a40a394dca5473188"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Hypercube Inc. c. La Reine
+
+- Citation: 2015 CCI 65
+- Decision date: 2015-03-17
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2841, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Hypercube Inc. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2015-03-17
+Référence neutre
+2015 CCI 65
+Numéro de dossier
+2014-1254(IT)I
+Juges et Officiers taxateurs
+Lucie Lamarre
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2014-1254(IT)I
+ENTRE :
+Hypercube Inc.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Appel entendu le 3 décembre 2014, à Montréal (Québec).
+Devant : L'honorable juge Lucie Lamarre
+Comparutions :
+Représentant de l'appelante :
+Karl Villeneuve
+Avocate de l'intimée :
+Me Valerie Messore
+JUGEMENT
+L’appel de la cotisation établie par le ministre du Revenu national en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition se terminant le 30 avril 2012 est rejeté, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 17e jour de mars 2015.
+« Lucie Lamarre »
+Juge en chef adjointe Lamarre
+Référence : 2015 CCI 65
+Date : 20150317
+Dossier : 2014-1254(IT)I
+ENTRE :
+Hypercube Inc.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+La juge en chef adjointe Lamarre
+INTRODUCTION [1] Hypercube Inc. (l’appelante) interjette appel d’une cotisation relative à l’année d’imposition se terminant le 30 avril 2012 par laquelle la ministre du Revenu national (ministre) a refusé le montant de 28 800 $ à titre de dépenses faites pour des activités de recherche scientifique et de développement expérimental (RS&DE).
+[2] La ministre soutient que les dépenses ne sont pas visées par la définition de la RS&DE donnée au paragraphe 248(1) de la Loi de l’impôt sur le revenu (LIR), et donc que l’appelante n’a pas droit aux crédits d’impôt à l’investissement en application des paragraphes 127(5) et 127(9) et de l’article 127.1 de la LIR. Toutes les dépenses de RS&DE demandées et refusées ont été acceptées par le ministre comme des dépenses d’entreprise.
+[3] L’appel a été interjeté sous le régime de la procédure informelle.
+FAITS [4] L’appelante exploite une entreprise qui fournit des services dans le domaine de l’informatique depuis 2009. Au fil des ans, l’appelante a développé une expertise au niveau de la programmation de sites Web. Il s’agit d’une entreprise qui emploie cinq personnes.
+[5] Karl Villeneuve est le fondateur, le président et l’unique actionnaire de l’appelante. Il a été le seul témoin entendu pour l’appelante. M. Villeneuve est titulaire d’un baccalauréat en administration des affaires, en finance et en marketing de l’Université Bishops et d’une maîtrise en administration des affaires (MBA) de l’Université de Montréal. Il a suivi plusieurs cours en informatique et a reçu une attestation d'études du collège Seneca pour une formation technique en informatique.
+[6] Pour l’année 2012, l’appelante a demandé le crédit pour RS&DE relativement au développement d’un logiciel informatique.
+[7] Selon la documentation fournie, le projet consistait à développer un logiciel pour faire la lecture et l’analyse des codes sources des sites Web afin d’en déceler les faiblesses (Réponse à l’avis d’appel, paragraphe 8 g); onglet 1 de la pièce I‑1, page 3, formule T661).
+[8] À l'audience, M. Villeneuve a précisé que le logiciel devait permettre de faire l'inspection et la vérification de sites Web et qu'il ne s'agissait pas simplement d'un outil pour relever des défauts (transcription, page 22).
+[9] Deux autres personnes travaillaient avec M. Villeneuve au développement du logiciel, soit Jean‑François Noël et Jean‑Simon Lyonnais. Ces deux autres personnes ont une formation dans le domaine de l’informatique. Jean‑François Noël est un diplômé de l’Université Bishops en informatique et Jean‑Simon Lyonnais est un infographiste-programmeur ayant reçu sa formation au Centre de formation professionnelle Jacques-Rousseau. Ni l’un ni l’autre n’étaient présents en Cour pour expliquer leur point de vue scientifique sur le projet.
+[10] Les dépenses de RS&DE demandées par l'appelante sont les salaires versés aux employés qui ont participé au développement du logiciel. Toutefois, les « logs » montrant les heures de travail ne montrent que le travail de M. Villeneuve (onglet 8 de la pièce I‑1).
+[11] M. Villeneuve a indiqué avoir commencé à réfléchir à ce projet en 2010 et en avoir discuté avec les autres employés de l'appelante vers le début de l'année 2012. Le projet découlait d’une réflexion sur les différents outils disponibles pour effectuer le travail de programmation.
+[12] À l’heure actuelle, lorsqu’un programmeur analyse le code d’un site Web pour en déceler les faiblesses et améliorer sa performance, celui-ci effectue l’analyse du code manuellement, et ce, page par page. À l’aide du logiciel, l’appelante voulait automatiser cette analyse. Ainsi, M. Villeneuve a expliqué que l’objectif de l'appelante était de développer une nouvelle façon de faire pour accroître l'efficacité du travail des programmeurs. Le logiciel devait permettre d'analyser rapidement le code des sites Web et aider dans le travail de vérification des programmeurs.
+[13] L’hypothèse initiale sur laquelle reposait le projet, comme l’a mentionné M. Villeneuve lors de son témoignage, était que, si une nouvelle façon de réaliser un bilan Internet était adoptée, alors des effets significatifs au niveau d’un avancement technologique pourraient être observés (transcription, page 15).
+[14] Une fois cette hypothèse établie, les employés de l’appelante ont effectué des recherches pour savoir s’il existait une technologie permettant d’accomplir le projet envisagé, ou encore, s'il était possible d'y parvenir en améliorant les technologies existantes.
+[15] M. Villeneuve a prétendu qu’aucune solution ou technologie existante ne permettait de répondre à l’hypothèse. C’est pour cette raison, a‑t‑il dit, que l’appelante a développé le logiciel.
+[16] M. Villeneuve a expliqué que le logiciel a été développé à partir d’un « crawler ». Selon ses explications, un « crawler » est un programme informatique qui effectue la lecture du code source d’un site Web. Un « crawler » est créé par programmation informatique. L’appelante a donc programmé un « crawler » comme point de départ pour le développement de son logiciel. Il ressort du contre-interrogatoire de M. Villeneuve qu’un « crawler » est un outil souvent utilisé en informatique (transcription, page 70).
+[17] Le « crawler » de l'appelante devait, à ce que j'ai compris, s’introduire dans le code source du site Web pour pouvoir collecter les informations requises pour ensuite les analyser et en extraire les résultats nécessaires afin qu’un diagnostic du site Web soit ultimement établi. Le logiciel devait avoir la fonctionnalité de produire le diagnostic en format PDF.
+[18] M. Villeneuve a souligné qu'aucune technologie existante ne permettait de réaliser ces opérations. La technologie actuelle, a-t-il expliqué, n'est pas en mesure d’aller collecter l’information, de la valider et de la ramener de la manière souhaitée. M. Villeneuve a déclaré dans son témoignage que le logiciel améliorait la technologie sous‑jacente. Il a décrit la technologie sous-jacente comme étant les différents langages de programmation (transcription, page 67).
+[19] Le témoin a indiqué que l’avancement technologique était la création d’une nouvelle façon de réaliser un bilan du code informatique d’un site Web. La technologie que l’appelante estime avoir développée est en mesure d’aller chercher l’information dans le code du site Web et de la ramener afin d'établir un diagnostic.
+[20] M. Villeneuve a expliqué que le projet a été réalisé de façon méthodique par un processus « d'essai-erreur ». Les employés de l’appelante analysaient s’ils étaient capables d’aller récupérer une première information dans le code du site Web, validaient leur essai et procédaient ensuite à un autre essai pour aller récupérer une seconde information, et ainsi de suite. Le plan de travail consiste en une arborescence du logiciel, laquelle est jointe à l'avis d'appel et a été déposée sous la cote I‑1, à l’onglet 5, page 53.
+[21] Quant aux incertitudes technologiques auxquelles a fait face l'appelante, M. Villeneuve a affirmé qu'elles étaient reliées à la technologie sous‑jacente. Les incertitudes étaient liées à la question de savoir s’il était possible d’améliorer la technologie sous-jacente afin qu'un « crawler » puisse être programmé de la manière requise pour réaliser le projet.
+[22] M. Villeneuve a poursuivi en énonçant plus spécifiquement les problèmes qu'il estimait avoir éprouvés lors du développement du logiciel et il a expliqué les divers moyens qui ont été entrepris pour les résoudre.
+[23] Un premier problème était que le logiciel ne fonctionnait pas pour certains noms de domaine qui étaient utilisés par les sites Web qui faisaient l'objet de l'analyse. Des modifications ont été apportées dans la programmation du logiciel afin qu’il fonctionne avec tous les noms de domaines existants.
+[24] Un problème similaire est survenu avec les différents navigateurs Web qui étaient utilisés pour lancer le logiciel. Dans ce cas‑ci, le logiciel ne fonctionnait pas lorsqu'il était utilisé sur certains navigateurs Web. La programmation du logiciel a été modifiée afin qu'il soit compatible avec la majorité des navigateurs Web existants.
+[25] Un autre problème se manifestait lorsque le logiciel était utilisé plus de 150 fois par jour. M. Villeneuve a mentionné que le problème provenait d'une erreur dans le codage informatique du logiciel.
+[26] Une autre difficulté que M. Villeneuve a énumérée survenait lorsque le logiciel analysait un site Web qui était automatiquement redirigé vers une autre adresse URL. La solution a été de développer un nouveau code informatique dans la programmation du logiciel.
+[27] Comme preuve à l’appui, M. Villeneuve a fait référence à l'arborescence du « crawler » créé par l'appelante et à un document Excel faisant état des heures consacrées par les employés au développement du logiciel. Ces pièces étaient jointes à l’avis d’appel et ont été déposées sous la cote I‑1, aux onglets 5 et 8. Il a fait valoir que ces documents permettaient de voir toutes les hypothèses qui ont été testées au cours du projet. Tel qu’il est mentionné plus haut, seules les heures de M. Villeneuve apparaissent dans la documentation fournie.
+[28] M. Villeneuve a indiqué que le développement du logiciel n'avait donné lieu à aucun profit. Il a souligné que l'appelante n'avait aucun objectif commercial à court terme et qu'il s'agissait d'un projet expérimental afin d'améliorer la technologie existante.
+[29] L’intimée a cité Roger Andria comme témoin expert. M. Andria est conseiller en recherche et en technologie à l’Agence du revenu du Canada (ARC). Il est titulaire d’un baccalauréat en génie informatique de l’Université Laval.
+[30] M. Villeneuve s’est opposé à la qualification de M. Andria en tant que témoin expert. J'ai conclu qu’il n’avait peut-être pas l’expertise requise pour témoigner à titre d’expert dans le domaine spécifique du présent dossier, mais qu’il pouvait certainement témoigner en tant qu’agent de l’ARC, et donner les raisons pour lesquelles il a déterminé que le projet n'était pas admissible à titre de RS&DE selon les critères applicables.
+[31] Pour M. Andria, l'appelante a développé un nouveau produit à partir de la technologie existante. Il a soutenu que l’appelante n’a pas démontré que la technologie actuelle ne permettait pas de réaliser le projet envisagé.
+[32] M. Andria a fait valoir que le développement du logiciel reposait sur les langages informatiques existants. Pour lui, les problèmes qui ont été éprouvés lors du développement du logiciel sont des problèmes normaux de programmation. Tous les problèmes ont été résolus à l’aide de techniques de programmation qui existent déjà. La correction du codage n’est pas considérée comme un avancement technologique. Il s’agit plutôt d'une pratique courante dans le domaine de la programmation informatique.
+[33] Concernant le critère de l’incertitude technologique, il a conclu qu’il s’agissait de la résolution de problèmes au cas par cas pour des fonctionnalités précises du logiciel. Il a poursuivi en indiquant que l'appelante n'a pas défini dans ses hypothèses les incertitudes technologiques qui ont été surmontées et qui représentent un avancement technologique dans le domaine de l'informatique.
+Question en litige [34] La seule question dont la Cour est saisie est de savoir si le travail effectué par l’appelante à l’égard du développement du logiciel constitue des activités de RS&DE au sens du paragraphe 248(1) de la LIR.
+Thèse de l’appelante [35] L'appelante soutient que ses activités constituent des activités de RS&DE. Dans son avis d’appel, l’appelante allègue que son projet comporte une série d’activités reliées et collectivement nécessaires au progrès technologique. Elle soutient que le vérificateur de l’ARC a séparé le projet en sous-projets pour les évaluer comme des pratiques de génie courantes. À l'audience, M. Villeneuve a avancé que la totalité des travaux effectués pour développer le logiciel constituent de la RS&DE puisqu'ils ont permis d'améliorer la technologie existante.
+Thèse de l’intimée [36] La ministre soutient pour sa part que les dépenses de l'appelante ne sont pas visées par la définition de la RS&DE donnée au paragraphe 248(1) de la LIR. La ministre allègue que le projet ne présente aucun avancement technologique et qu’il s’agit plutôt de la résolution de problèmes ponctuels à l’intérieur des contraintes des technologies utilisées.
+ANALYSE [37] Le paragraphe 248(1) de la LIR définit l’expression « activités de recherche scientifique et de développement expérimental » de la manière suivante :
+« activités de recherche scientifique et de développement expérimental » Investigation ou recherche systématique d'ordre scientifique ou technologique, effectuée par voie d'expérimentation ou d'analyse, c'est-à-dire :
+a) la recherche pure, à savoir les travaux entrepris pour l'avancement de la science sans aucune application pratique en vue;
+b) la recherche appliquée, à savoir les travaux entrepris pour l'avancement de la science avec application pratique en vue;
+c) le développement expérimental, à savoir les travaux entrepris dans l'intérêt du progrès technologique en vue de la création de nouveaux matériaux, dispositifs, produits ou procédés ou de l'amélioration, même légère, de ceux qui existent.
+Pour l'application de la présente définition à un contribuable, sont compris parmi les activités de recherche scientifique et de développement expérimental :
+d) les travaux entrepris par le contribuable ou pour son compte relativement aux travaux de génie, à la conception, à la recherche opérationnelle, à l'analyse mathématique, à la programmation informatique, à la collecte de données, aux essais et à la recherche psychologique, lorsque ces travaux sont proportionnels aux besoins des travaux visés aux alinéas a), b) ou c) qui sont entrepris au Canada par le contribuable ou pour son compte et servent à les appuyer directement.
+Ne constituent pas des activités de recherche scientifique et de développement expérimental les travaux relatifs aux activités suivantes :
+e) l'étude du marché et la promotion des ventes;
+f) le contrôle de la qualité ou la mise à l'essai normale des matériaux, dispositifs, produits ou procédés;
+g) la recherche dans les sciences sociales ou humaines;
+h) la prospection, l'exploration et le forage fait en vue de la découverte de minéraux, de pétrole ou de gaz naturel et leur production;
+i) la production commerciale d'un matériau, d'un dispositif ou d'un produit nouveau ou amélioré, et l'utilisation commerciale d'un procédé nouveau ou amélioré;
+j) les modifications de style;
+k) la collecte normale de données.
+[38] La jurisprudence a élaboré cinq critères pour déterminer si une activité donnée est une activité de RS&DE. Ces critères ont été formulés par le juge Bowman dans l’affaire Northwest Hydraulic Consultants Ltd. c. Canada, [1998] A.C.I. no 340 (QL), [1998] 3 C.T.C. 2520 (C.C.I.) aux paragraphes 14, 15 et 16. Ces critères ont été approuvés par la Cour d’appel fédérale dans RIS‑Christie Ltd. c. Canada, [1998] A.C.F. no 1590 (QL), 99 DTC 5087, au paragraphe 10. La Cour d’appel fédérale a résumé ces critères dans l’arrêt C.W. Agencies Inc. c. La Reine, 2001 CAF 393, [2002] 1 C.T.C. 212, au paragraphe 17, de la manière suivante :
+1. Existait-il un risque ou une incertitude technologique qui ne pouvait être éliminé par les procédures habituelles ou les études techniques courantes?
+2. La personne qui prétend faire de la RS&DE a-t-elle formulé des hypothèses visant expressément à réduire ou à éliminer cette incertitude technologique?
+3. La procédure adoptée était-elle complètement conforme à la discipline de la méthode scientifique, notamment dans la formulation, la vérification et la modification des hypothèses?
+4. Le processus a-t-il abouti à un progrès technologique?
+5. Un compte rendu détaillé des hypothèses vérifiées et des résultats a-t-il été fait au fur et à mesure de l'avancement des travaux?
+[39] Dans la décision Northwest Hydraulic, précitée, le juge Bowman a fait les observations suivantes sur la question de savoir s'il existe un risque ou une incertitude technologique (au paragraphe 16) :
+Lorsqu'on parle de « risque ou [d']incertitude technologique » dans ce contexte, on laisse implicitement entendre qu'il doit exister une incertitude quelconque qui ne peut pas être éliminée par les études techniques courantes ou par les procédures habituelles. Je ne parle pas du fait que dès qu'un problème est décelé, il peut exister un certain doute au sujet de la façon dont il sera réglé. Si la résolution du problème est raisonnablement prévisible à l'aide de la procédure habituelle ou des études techniques courantes, il n'y a pas d'incertitude technologique telle que cette expression est utilisée dans ce contexte.
+Qu'entend-on par « études techniques courantes »? C'est cette question (ainsi que celle qui se rapporte au progrès technologique) qui semble avoir divisé les experts plus que toute autre. En résumé, cela se rapporte aux techniques, aux procédures et aux données qui sont généralement accessibles aux spécialistes compétents dans le domaine.
+[40] Comme il a été souligné dans la décision Zeuter Development Corporation c. La Reine, 2006 CCI 597, au paragraphe 22, « [l]e développement de logiciels peut certainement représenter une activité de RS&DE admissible s’il vise l’avancement de l’informatique ou de la technologie de l’information. »
+[41] C'est à l'appelante qu'il incombe de démontrer, selon la prépondérance des probabilités, que les dépenses qu’elle a engagées se rapportent à des activités de RS&DE au sens du paragraphe 248(1) de la LIR.
+[42] En l’espèce, je ne suis pas convaincue que les travaux de l’appelante dépassent le cadre des procédures habituelles ou des études techniques courantes, et c'est ce qui est nécessaire pour que les travaux constituent de la RS&DE.
+[43] Les avancements technologiques et les obstacles technologiques du présent projet sont énoncés dans le rapport T661 préparé par l’appelante (onglet 1, pièce I‑1). À l’audience, M. Villeneuve a donné des explications sur ce qu’il croyait être les incertitudes technologiques qui ont été surmontées pour développer le logiciel et réaliser un avancement technologique.
+[44] Or, l’appelante ne m’a pas convaincue que les incertitudes technologiques qu'elle a surmontées ne pouvaient pas être dissipées à l'aide des études techniques courantes. Au contraire, la preuve a révélé que l'appelante utilisait des techniques courantes de développement de logiciels pour faire face aux différentes difficultés qu'elle éprouvait.
+[45] À mon avis, les activités de l'appelante étaient à la portée des spécialistes compétents dans le domaine. M. Villeneuve a lui-même mentionné qu'un « crawler » est un outil souvent utilisé en informatique. Même si le « crawler » a été développé pour pouvoir accomplir de nouvelles actions, la preuve a démontré que l'appelante se servait d'outils de programmation déjà accessibles sur le marché et de langages informatiques déjà existants.
+[46] Il ressort des témoignages, selon moi, que toutes les difficultés qui ont été énumérées par l'appelante ont finalement été résolues en modifiant le codage du logiciel à l'aide de techniques de programmation reconnues. L’appelante s’en est tenue aux langages informatiques disponibles. À mon avis, le développement du logiciel s'inscrit dans les limites des normes technologiques actuelles. Les solutions auxquelles l'appelante a eu recours me semblent être des techniques courantes et ne relèvent pas d'un progrès technologique. Comme l'a mentionné M. Andria lors de son témoignage, le développement du logiciel a engendré des problèmes normaux de programmation.
+[47] Bien que le logiciel de l'appelante puisse constituer un produit tout à fait nouveau, celui-ci a été créé à partir de techniques connues. La nouveauté ou encore l'utilité du produit final ne suffit pas lorsqu'il faut décider s'il y a un progrès technologique (Zeuter Development Corporation, précitée, aux paragraphes 23 et 24).
+[48] Par ailleurs, l’appelante a produit très peu d’éléments de preuve à l'appui de son projet. Les seuls documents présentés en preuve sont l'arborescence du logiciel et un registre des heures effectuées. Cette arborescence n’a pas été expliquée spécifiquement en Cour et le registre des heures ne semblait pas refléter la réalité. Je ne crois pas que cette preuve soit suffisante pour soutenir une demande en matière de RS&DE de la manière prescrite par la LIR. À cet égard, je crois utile de mentionner les propos du juge Little dans l'affaire Zeuter Development Corporation c. La Reine, précitée, au paragraphe 28 :
+[28] Au passage, il convient de souligner en l’espèce l’absence de documents à l’appui adéquats déposés par l’appelante. Bien que ceux-ci ne soient pas absolument nécessaires, il ne fait aucun doute qu’un contribuable qui présente une demande accompagnée de pièces justificatives appropriées facilitera la tâche de décider si une activité est admissible en tant que RS&DE. Comme il a été affirmé dans l’arrêt RIS-Christie, le seul moyen fiable de prouver que la recherche scientifique a été effectuée de façon systématique consiste à produire des preuves documentaires. L’appelante n’a pas fourni suffisamment de faits pour appuyer son allégation voulant qu’elle ait effectué de l’investigation ou de la recherche systématique d’ordre scientifique ou technologique conformément à l’exigence expresse établie dans la définition de la RS&DE.
+[49] L’appelante n’a pas réussi à démontrer selon la prépondérance des probabilités que le développement de son logiciel constituait une activité de RS&DE au sens du paragraphe 248(1) de la LIR. L’appel interjeté par le contribuable est rejeté.
+Signé à Ottawa, Canada, ce 17e jour de mars 2015.
+« Lucie Lamarre »
+Juge en chef adjointe Lamarre
+RÉFÉRENCE :
+2015 CCI 65
+Nº DU DOSSIER DE LA COUR :
+2014-1254(IT)I
+INTITULÉ DE LA CAUSE :
+Hypercube Inc.
+c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Montréal (Québec)
+DATE DE L’AUDIENCE :
+Le 3 décembre 2014
+MOTIFS DE JUGEMENT PAR :
+L'honorable Lucie Lamarre,
+juge en chef adjointe
+DATE DU JUGEMENT :
+Le 17 mars 2015
+COMPARUTIONS :
+Représentant de l'appelante :
+Karl Villeneuve
+Avocate de l'intimée :
+Me Valerie Messore
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelant:
+Nom :
+Cabinet :
+Pour l’intimée :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada

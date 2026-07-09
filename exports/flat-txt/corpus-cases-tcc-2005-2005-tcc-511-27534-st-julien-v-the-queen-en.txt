@@ -1,0 +1,140 @@
+Title: St-Julien v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27534/index.do
+Corpus path: corpus/cases/tcc/2005/2005-tcc-511-27534-st-julien-v-the-queen-en.md
+Document type: case_law
+Last modified: 2005-08-24
+
+# St-Julien v. The Queen
+
+- Citation: 2005 TCC 511
+- Decision date: 2005-08-24
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 96, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+St-Julien v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-08-24
+Neutral citation
+2005 TCC 511
+File numbers
+2002-4871(IT)I
+Judges and Taxing Officers
+Alban Garon
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2002-4871(IT)I
+BETWEEN:
+IVAN ST-JULIEN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on August 3, 2005, at Rouyn-Noranda, Quebec
+Before: The Honourable Deputy Judge Alban Garon
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Anne Poirier
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 2000 taxation year is dismissed, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 24th day of August 2005.
+"Alban Garon"
+Deputy Judge Garon
+Translation certified true
+on this 20th day of February, 2006.
+Garth McLeod, Translator
+Citation: 2005TCC511
+Date: 20050824
+Docket: 2002-4871(IT)I
+BETWEEN:
+IVAN ST-JULIEN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Deputy Judge Garon:
+[1] This is an appeal from an income tax assessment dated January 3, 2002, concerning the 2000 taxation year. By this assessment, the Minister of National Revenue ("the Minister") disallowed a deduction of certain costs amounting to $7,777.13 for the year in issue. However, the only issue debated at the hearing involved the $5,905.84 claim for motor vehicle expenses.
+[2] The Appellant was the only witness at the hearing of this appeal.
+[3] The facts are straightforward.
+[4] The Appellant is a Justice of the Quebec Superior Court and resides in Val-d'Or.
+[5] During the year in issue, the Appellant's duties required him to sit in several locations in northern Quebec, including Rouyn-Noranda, Ville-Marie and Chibougamau. In addition, his duties required him to travel to Québec and certain other locations within the province.
+[6] The Appellant cannot travel by airplane because he has been suffering from what he describes as "positional vertigo" for the last 20 years. Given the unfavourable weather conditions that are particularly prevalent in the winter, the Appellant said that he must use a safe four-wheel-drive vehicle for his travel. During the year in issue, the Appellant leased a vehicle with an option to purchase. He had to dispose of the vehicle every two or three years because of the high mileage that he was required to travel. In addition, slightly more than 20% of his use of the car was personal.
+[7] During the taxation year in issue, the Appellant drove 19,358 kilometres in the performance of his duties as a judge. For this reason, the Office of the Commissioner for Federal Judicial Affairs provided him with a non-taxable allowance of $8,210.26 for his car expenses. The Appellant tendered a statement of car expenses (Exhibit A-1). The statement sets out the various types of expenses covered by his deduction claim. The relevant part of the statement is reproduced below:
+[TRANSLATION]
+Expenses Claimed
+Motor vehicle expenses
+Vehicle leasing $9,781.00
+Maintenance and repairs $3,321.00
+Fuel $4,242.00
+Insurance $638.00
+Registration $173.00
+$18,155.00
+Personal portion $4,040.00
+$14,115.00
+Employer's contribution $8,210.00
+Motor vehicle expense deduction $5,905.00
+[8] The Appellant also provided certain information that shows that if he had rented a safe car each time that he had been called upon to sit outside the town in which he resides (Val d'Or), which he could have done in accordance with the administrative practices of the Office of the Commissioner for Federal Judicial Affairs, he could have claimed a much higher amount than the sum of the $5,905.84 deduction that he is claiming and the $8,210.26 allowance that he received from the Office of the Commissioner for Federal Judicial Affairs.
+The parties' submissions
+[9] In his submissions, the Appellant began by noting that his medical condition requires him to use a car when he travels in the performance of his duties. He argued that the Treasury Board's travel allowance, which is used by the Commissioner and consists of a set amount per kilometre, is not reasonable in his particular case and causes him to incur a loss. He argued that if he rented a vehicle each time that he travelled in the performance of his duties, the rental costs would be far higher than the $14,115 which represents his total office-related motor vehicle expenses.
+[10] The Respondent, for her part, submitted that the deduction of the motor vehicle costs in question is not permitted under paragraph 8(1)(h) of the Income Tax Act ("the Act") because the judge's employment contract did not require it.
+[11] It was also argued, on behalf of the Respondent, that paragraph 8(1)(h.1) does not permit such a deduction either.
+Analysis
+[12] The issue is whether the Appellant can deduct $5,905.84, which is the part of the motor vehicle costs for which he has not been reimbursed.
+[13] At the hearing, much of the debate was about the reasons in support of the argument that paragraphs 8(1)(h) and 8(1)(h.1) of the Act do not apply.
+[14] In my opinion, paragraph 8(1)(h) cannot apply to the case at bar. First of all, this paragraph contemplates the deduction of certain travel expenses, other than motor vehicle expenses that can be deducted under paragraph 8(1)(h.1). One must therefore refer to the latter paragraph with regard to the deduction for certain motor vehicle travel expenses. In addition, the statement contained in subparagraph 4(b) of the Reply to the Notice of Appeal, to the effect that the Appellant [TRANSLATION] "was required, under his employment contract, to travel to various places", is incorrect. Judges such as the Appellant, in respect of whom the Judges Act applies, do not enter into an employment contract with the Government of Canada. They are appointed by the Governor General under section 96 of the Constitution Act, 1867. Their remuneration is established by the Judges Act and they are entitled, among other things, to be reimbursed for their travel expenses under sections 34 and 39 of that Act, which read as follows:
+34. (1) Subject to this section and sections 36 to 39, a judge of a superior court who, for the purposes of performing any function or duty in that capacity, attends at any place other than that at which or in the immediate vicinity of which the judge is by law obliged to reside is entitled to be paid, as a travel allowance, moving or transportation expenses and the reasonable travel and other expenses incurred by the judge in so attending.
+34. (1) Sous réserve des autres dispositions du présent article et des articles 36 à 39, les juges d'une juridiction supérieure qui, dans le cadre de leurs fonctions judiciaires, doivent siéger en dehors des limites où la loi les oblige à résider ont droit à une indemnité de déplacement pour leurs frais de transport et les frais de séjour et autres entraînés par la vacation.
+(2) No judge is entitled to be paid a travel allowance for attending at or in the immediate vicinity of the place where the judge resides.
+(2) Les juges n'ont droit à aucune indemnité de déplacement pour vacation dans leur lieu de résidence ou à proximité de celui-ci.
+39. Every application for payment of a travel allowance shall be accompanied by a certificate of the judge applying for it showing the number of days for which a travel allowance is claimed and the amount of the actual expenses incurred.
+39. Les demandes d'indemnité de déplacement doivent être accompagnées d'un état des dépenses exposées certifié par l'intéressé et précisant le nombre de jours de déplacement.
+[15] Paragraph 8(1)(h.1) cannot be relied upon in support of a deduction either. Indeed, the provision can only apply if the taxpayer was required under the contract of employment to pay motor vehicle expenses incurred to travel in the performance of his duties. As I have explained, there is no contract of employment between a federally appointed judge and the Government of Canada. In addition, this paragraph does not apply to a taxpayer who has received a motor vehicle expense allowance that is not included in computing his income for the year. In the instant case, it is not contested that the Appellant received a non-taxable allowance of $8,210.26 for expenses related to his car.
+[16] With respect to paragraphs 8(1)(h) and 8(1)(h.1), it might be helpful to add that the term "employer" referred to in each of these provisions applies to the relationship between a judge and the Government of Canada for the purposes of the Act. Indeed, while a judge has no true employer, the term "employer" includes, for the purposes of the Act, the person from whom the judge receives his remuneration. This conclusion stems from the cumulative effect of the definitions of the terms "office" and "employer" in subsection 248(1) of the Act. Those definitions are formulated as follows:
+"office" means the position of an individual entitling the individual to a fixed or ascertainable stipend or remuneration and includes a judicial office, the office of a minister of the Crown, the office of a member of the Senate or House of Commons of Canada, a member of a legislative assembly or a member of a legislative or executive council and any other office, the incumbent of which is elected by popular vote or is elected or appointed in a representative capacity and also includes the position of a corporation director, and "officer" means a person holding such an office. (Emphasis added.)
+"employer", in relation to an officer, means the person from whom the officer receives the officer's remuneration;
+[17] In his oral argument, the Appellant made no reference to any specific provision of the Act that might authorize the deduction of $5,905.84 for the 2000 taxation year on account of travel expenses related to his judicial duties.
+[18] To be entitled to this deduction, the Appellant had to show that one of the paragraphs of subsection 8(1) applied under the circumstances. This provision contemplates roughly twenty situations in which a taxpayer can claim a deduction in computing his income from an office or employment. None of these deductions are available here. In addition, subsection 8(2) articulates a general restriction applicable to these deductions: "Except as permitted by this section, no deductions shall be made in computing a taxpayer's income for a taxation year from an office or employment."
+[19] Thus, I find that, legally, the Appellant is indisputably not entitled to any deduction for motor vehicle expenses incurred for travel in the performance of his duties.
+[20] Although it is my opinion that the Appellant is not entitled to a deduction for the costs in question, the Appellant does seem to have incurred a certain loss, assuming that all the costs under each of the items set out and claimed in Exhibit A-1 can be established.[1] This loss exists because the Appellant was required to spend $5,905.84 more on travel than the $8,210.26 travel allowance that he was paid. Even if he were allowed a deduction, he would only truly recover slightly more than half of this amount based on his marginal rate, which was slightly more than 50% for the taxation year in issue.
+[21] While this Court has no jurisdiction to determine the type of remedy that the Appellant can seek, it seems to me that an administrative solution is available which would not require the Appellant, from a practical standpoint, to rent a safe car each time that he has to travel away from his home to perform his duties. In seeking this solution, the starting point is that the Appellant is entitled, under sections 34 and 39 of the Judges Act, to be reimbursed for actual expenses incurred for travel in the performance of his judicial functions, including, of course, his transportation expenses.
+[22] For these reasons, the appeal from the Minister's assessment for the year 2000 is dismissed.
+Signed at Ottawa, Canada, this 24th day of August 2005.
+"Alban Garon"
+Deputy Judge Garon
+Translation certified true
+on this 20th day of February, 2006.
+Garth McLeod, Translator
+CITATION: 2005TCC511
+DOCKET FILE NO.: 2002-4871(IT)I
+STYLE OF CAUSE: Ivan St-Julien and Her Majesty the Queen
+PLACE OF HEARING: Rouyn-Noranda, Quebec
+DATE OF HEARING: August 3, 2005
+REASONS FOR JUDGMENT BY: The Honourable Deputy Judge Alban Garon
+DATE OF JUDGMENT: August 24, 2005
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+For the Respondent:
+Anne Poirier
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Ontario
+[1] In my view, it could be difficult to deduct at least a portion of the amount related to maintenance and repairs.

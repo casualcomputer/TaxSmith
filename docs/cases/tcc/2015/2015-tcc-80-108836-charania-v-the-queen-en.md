@@ -1,0 +1,184 @@
+---
+title: "Charania v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/108836/index.do"
+last_modified: "2015-03-30"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2015 TCC 80"
+citation2: ""
+neutral_citation: "2015 TCC 80"
+decision_date: "2015-03-30"
+language: "en"
+item_id: "108836"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2851
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T10:26:33.406000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "1d45a46b5c694d00dc66ff33c37f065e26afa5c745e4cc8494b99cc3bfad3135"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Charania v. The Queen
+
+- Citation: 2015 TCC 80
+- Decision date: 2015-03-30
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2851, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Charania v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2015-03-30
+Neutral citation
+2015 TCC 80
+File numbers
+2014-929(IT)I
+Judges and Taxing Officers
+Valerie A. Miller
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2014-929(IT)I
+BETWEEN:
+SHIRTAZ CHARANIA,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on June 11 - 12, 2014, at Ottawa, Ontario
+Before: The Honourable Justice Valerie Miller
+Appearances:
+Agent for the Appellant:
+K.E. Koshy, C.A.
+Counsel for the Respondent:
+Tamara Watters
+JUDGMENT
+The appeal from the reassessment dated November 13, 2012 made under the Income Tax Act for the Appellant’s 2009 taxation years is allowed, without costs, and the matter is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the amount of $79,779 is to be deleted from the Appellant’s income for the 2009 taxation year.
+Signed at Halifax, Nova Scotia, this 30th day of March 2015.
+“V.A. Miller”
+V.A. Miller J.
+Citation: 2015TCC80
+Date: 20150410
+Docket: 2014-929(IT)I
+BETWEEN:
+SHIRTAZ CHARANIA,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+AMENDED REASONS FOR JUDGMENT
+V.A. Miller J.
+[1] The issue in this appeal is whether, in 2009, the Appellant received a shareholder benefit of $79,779 from B&N Transmission Inc. (“B&N”). The Minister of National Revenue (the “Minister”) reassessed the Appellant pursuant to subsection 15(1) of the Income Tax Act (“ITA”) to include this amount in his income on the basis that B&N transferred the property at 149 Inverkip Avenue in Ottawa (the “Property”) to him for less than its fair market value.
+[2] The witnesses at the hearing were:
+a) Brad Colbourne, the accountant who prepared the year end journal entries, Financial Statements and the income tax returns for 2009 for B&N and the Appellant;
+b) Nimira Charania, the Appellant’s aunt and also the accountant who prepared the General Ledger for B&N;
+c) Linda Chen, the Canada Revenue Agency (“CRA”) officer who audited B&N and the Appellant; and,
+d) the Appellant.
+[3] At the hearing, the Appellant was represented by Mr. Koshy, CPA CA. He presented various arguments and if any of them were correct it would result in the appeal being allowed. However, the most compelling argument that he presented was that his firm had made an accounting error.
+Facts [4] B&N purchased the Property on April 4, 2003 and it was on title to the Property. The purchase price was $198,023.33. B&N paid the deposit on the Property and gave a mortgage to the Bank of Montreal in exchange for proceeds of $150,000.
+[5] The Appellant lived in the Property and paid $1,200 monthly to B&N from April 4, 2003 until 2009. B&N reported this amount as rent, claimed the expenses for the utilities and municipal tax incurred with the Property and claimed capital cost allowance (“CCA”) on the Property.
+[6] On March 9, 2009, B&N transferred the Property to the Appellant. According to the Land Registry document, the consideration given for the transfer was $1.
+[7] On April 15, 2009, the Appellant signed an Agreement of Purchase and Sale with third party purchasers to sell the Property for $275,000. The sale closed on June 30, 2009.
+[8] In 2009, the Appellant was both an employee and a shareholder of B&N which is a small family run business.
+[9] There are four shareholders in B&N. Nazib Charania, the Appellant’s uncle, owned all of the common shares and the Appellant owned all of B&N’s Class A special shares. Nimira Charania, the Appellant’s aunt and Nazib’s spouse, owned 28% of the issued Class B special shares and, Gulshan Charania, the Appellant’s aunt, owned the remaining issued Class B special shares. Only the common shares had voting rights attached to them.
+Nimira Charania [10] Nimira Charania explained that the Appellant is like a son to her and her spouse. He lived with them from 1983 to 1996 and moved out only when he married and moved to his own home. The Appellant learned the transmission business from her spouse.
+[11] Nimira Charania has her Bachelor of Commerce degree with a major in finance and accounting. She is the accountant for B&N as well as the accountant for outside corporations like Swiss Chalet and Harveys. With respect to B&N, she stated that she records all of its invoices and cheques and reconciles these with the bank statements. She prepares the balance sheet and the general ledger and she does the general accounting for B&N. However, Connelly & Koshy prepares B&N’s year-end entries, Financial Statements and income tax returns.
+[12] Nimira Charania stated that in 2009 she took B&N’s records to Connelly & Koshy. These records consisted of approximately 10 files in a box. Each file contained all of her paperwork which consisted of numerous documents. She stated that the box was full.
+[13] At Connelly & Koshy, she consulted with Luc Imbeau, a senior partner. It was her evidence that she told him about assets which had been purchased or sold and how she recorded them. She showed him which account they were in and where he could find the documents with respect to the purchase or sale. If a claim had been made against B&N during the year, she stated that she would have brought this to Mr. Imbeau’s attention and she would have told him where to find it in the box of documents.
+Bradley Colbourne [14] Bradley Colbourne, a chartered accountant and certified financial planner with Connelly & Koshy, testified that he prepared the 2009 year-end journal entries for B&N. However, he received the documents to complete these tasks from Luc Imbeau, a senior partner with the firm. He did not speak to Nimira Charania at any time in 2009 nor did he know her in 2009.
+[15] It was Mr. Colbourne’s evidence that he had documentation which showed that B&N transferred the Property to the Appellant. He made the journal entries which removed the Property from B&N’s records, both as an asset and its corresponding debt. He charged the transfer of the Property to the Appellant as a loan receivable. The amount of the loan was $97,852.56, the book value for the Property. He did not report the transfer of the Property in B&N’s income tax return because the transfer did not result in a gain or a loss to B&N.
+[16] As of April 30, 2009, the shareholder loan account with B&N showed that the Appellant owed B&N $64,670.45 which consisted of the following amounts:
+Account
+Amount
+Explanation
+6002
+$(76,438.67)
+Due to Appellant
+6253
+141,109.12
+Due from Appellant
+Total
+$64,670.45
+[17] However, Mr. Colbourne prepared a “Lead Sheet” called “Loans Receivable” which showed that the Appellant had received a loan from B&N in 2009 for the amount of $97,852.56 (exhibit A-2, page 2). This loan to the Appellant was also recorded by Mr. Colbourne in B&N’s journal (exhibit A-1).
+Linda Chen [18] Linda Chen stated that she was assigned the audit of B&N for the periods May 1, 2007 to April 30, 2010. This included a review of certain accounts including the shareholder loan account.
+[19] In her review, Ms. Chen noticed that B&N listed the Property as an asset on its Balance Sheet in 2008. However, it was not shown on its Balance Sheet for 2009. In addition, the sale of the Property was not shown on B&N’s income tax return for 2009.
+[20] After an analysis of B&N’s records, Ms. Chen concluded that the Appellant’s shareholder loan account should have recorded that he owed B&N the amount of $97,852.56 + $64,670.45 = $162,523.01.
+[21] Included in B&N’s records was the Agreement of Purchase and Sale which the Appellant had signed on April 15, 2009. As stated earlier, he sold the Property for $275,000. Ms. Chen determined that the fair market value of the Property on March 9, 2009, the date it was transferred to the Appellant, was the same as its sale price on April 15, 2009, the date he sold it to third parties. That is, she determined that the fair market value of the Property on March 9, 2009 was $275,000.
+[22] Ms. Chen stated that she had a meeting with Nimira Charania and Mr. Koshy. She proposed an adjustment to B&N’s 2009 taxation year which would include the unreported taxable gain and the recaptured capital cost allowance. This proposal was accepted by B&N. However, Ms. Chen also proposed to raise the assessment which is at issue in this appeal and that proposal was not accepted.
+The Appellant [23] The Appellant attained his grade 11 certificate and later took courses in electronics and automotives from Algonquin College. He learned the transmission business from his uncle, Nazib Charania. The Appellant now manages a large transmission business which is a subsidiary of B&N in Angola.
+[24] The Appellant stated that when he moved from his uncle’s home in 1996, he bought a house on Upper Dwyer Hill Road. His marriage ended in 1998 and he settled financial matters with his former spouse. He then sold his house on Upper Dwyer Hill Road. He received approximately $138,548 from the sale of this house and he placed this money in B&N because he feared that his former spouse would ask for further amounts for support.
+[25] On November 7, 2002, the Appellant and B&N signed a Declaration of Trust in which they declared that B&N would hold the Property in trust for the Appellant.
+[26] The Appellant stated that the Declaration of Trust was explained to him and he understood that the Property was really his. It was his belief that the monthly amounts he paid to B&N were not rent but were mortgage payments. He stated that when the Property was purchased, B&N paid a deposit of $60,000. He did not think that the deposit was part of the funds he had deposited with B&N.
+[27] The Appellant stated that in 2009, he and his then girlfriend wanted to purchase a home together. He wanted the Property transferred to him so that he could sell it because he was told that he could get a lower interest rate on his mortgage if he personally sold the Property instead of having B&N sell it.
+Law [28] In April 2009, subsection 15(1) of the ITA read as follows:
+Benefit conferred on shareholder -- Where at any time in a taxation year a benefit is conferred on a shareholder, or on a person in contemplation of the person becoming a shareholder, by a corporation otherwise than by …
+the amount or value thereof shall, except to the extent that it is deemed by section 84 to be a dividend, be included in computing the income of the shareholder for the year.
+Analysis [29] The Appellant’s representative conceded that B&N did not comply with the conditions in the Declaration of Trust. Consequently, the Appellant was not the beneficial owner of the Property.
+[30] It appears from the evidence that B&N appropriated the Property for itself. B&N was on title for the Property and it held a mortgage on the Property. It recorded the Property as a capital asset and claimed CCA on it. B&N recorded the Appellant’s payments to it as rent. All of the utilities and the municipal tax bills were in B&N’s name and it paid all of these expenses.
+[31] The Appellant stated that he paid $1,200 monthly to B&N. It was his opinion that he was paying the mortgage and monthly expenses for the Property. However, I gather he never enquired about any of the costs involved in maintaining the Property because the monthly mortgage payments alone were approximately $1,200.
+[32] Both the Appellant and Nimira Charania stated that in 1998 the Appellant deposited $138,548 into B&N for safe keeping. The Appellant stated that he did not sign an agreement or any documents with B&N with respect to this amount.
+[33] Mr. Koshy argued that his firm made an error when it recorded the transfer of the Property at net book value instead of the fair market value. I have concluded that he is correct and this issue was the result of an error made by his firm.
+[34] Mr. Colbourne stated that when he prepared the year-end entries he thought that his entries were correct. However, on learning that the Property was sold to third parties in April 2009, he stated that the firm made an error and the Property should have been transferred to the Appellant at its fair market value of $275,000 and not its book value of $97,852.56.
+[35] Mr. Colbourne and Nimira Charania were credible witnesses.
+[36] It was clear from the evidence that Nimira Charania and Mr. Colbourne did not meet in 2009. It was also clear that, in 2009, Nimira Charania met with Mr. Imbeau and gave him the records for B&N. She also gave him instructions with respect to those records. I have concluded from her testimony that she told Mr. Imbeau that the Appellant was selling the Property to third parties. She testified that she told Mr. Imbeau that she would give him the lawyer’s final documents after the sale was completed (See the transcript at page 53). Nimira Charania met with Mr. Imbeau sometime prior to May 13, 2009 (see exhibit A-1). The sale of the Property closed on June 30, 2009 and I have inferred that Nimira Charania was referring to exhibit R-12 when she told Mr. Imbeau that she would give him the lawyer’s final documents.
+[37] Mr. Imbeau obviously did not pass on this information to Mr. Colbourne who prepared the 2009 year-end entries, Financial Statement and income tax return for B&N.
+[38] Unfortunately, Mr. Imbeau was not called as a witness. It was also unfortunate that no one asked Nimira Charania whether the Agreement of Purchase and Sale dated April 15, 2009 (exhibit R-11) was in the box of documents which she gave to Mr. Imbeau. However, this document was not introduced into evidence until after Nimira Charania and Mr. Colbourne testified.
+[39] Although Connelly and Koshy gave Nimira Charania a draft of the Financial Statement and year-end journal entries, it appears that she did not review them. She stated that she saw them but didn’t do anything with them.
+[40] The Appellant was not aware of the error in this case nor did he sanction the error. He believed that the Declaration of Trust was followed and that he already owned the Property.
+[41] It is clear that B&N did not intend to confer a benefit on the Appellant. It transferred the Property to him and included an amount with respect to the Property as a loan receivable from him. The problem was that the amount included was incorrect. This problem arose as a result of an error made by Connelly and Koshy not from any intent of B&N or the Appellant to commit a fraud.
+[42] Mr. Koshy also argued that the shareholders pooled the amounts in their individual shareholder accounts so that there were sufficient funds in their combined accounts to offset the cost of the Property to the Appellant. However, it was clear from the evidence that each shareholder made draws on their respective shareholder loan accounts. The evidence established that the shareholders did not have the intention to pool the amounts in their shareholder loan accounts.
+[43] The appeal is allowed and the reassessment dated November 13, 2012 is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the amount of $79,779 is to be deleted from the Appellant’s income for the 2009 taxation year. It is of course understood by my decision that Nimira Charania must cause B&N to increase the Appellant’s shareholder loan account in B&N accordingly.
+These Reasons for Judgment are issued in substitution for the Reasons for Judgment dated March 30, 2015
+Signed at Ottawa, Canada, this 10th day of April 2015.
+“V.A. Miller”
+V.A. Miller J.
+CITATION:
+2015TCC80
+COURT FILE NO.:
+2014-929(IT)I
+STYLE OF CAUSE:
+SHIRTAZ CHARANIA AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Ottawa, Ontario
+DATE OF HEARING:
+June 11, 2014
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Valerie Miller
+DATE OF JUDGMENT:
+DATE OF AMENDED REASONS:
+March 30, 2015
+April 10, 2015
+APPEARANCES:
+Agent for the Appellant:
+K.E. Koshy, C.A.
+Counsel for the Respondent:
+Tamara Watters
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,182 @@
+---
+title: "Electricite Gaston St-Pierre Inc. v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/25183/index.do"
+last_modified: "2003-09-24"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 TCC 673"
+citation2: ""
+neutral_citation: "2003 TCC 673"
+decision_date: "2003-09-24"
+language: "en"
+item_id: "25183"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2563
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T17:41:50.942000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "21799895871eae0f21c1b8c5f6e3bc31b42d594e9b7737f12560b5882a86d58c"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Electricite Gaston St-Pierre Inc. v. The Queen
+
+- Citation: 2003 TCC 673
+- Decision date: 2003-09-24
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2563, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Electricite Gaston St-Pierre Inc. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-09-24
+Neutral citation
+2003 TCC 673
+File numbers
+2001-2351(IT)I
+Judges and Taxing Officers
+Alain Tardif
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2001‑2351(IT)I
+BETWEEN:
+ÉLECTRICITÉ GASTON ST‑PIERRE INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard on August 26, 2003, at Québec, Quebec
+Before: The Honourable Justice Alain Tardif
+Appearances:
+Agent for the Appellant:
+Gaston St‑Pierre
+Counsel for the Respondent:
+Stéphanie Côté
+_______________________________________________________________
+JUDGMENT
+The appeal from the assessments made under the Income Tax Act for the 1994 and 1995 taxation years is dismissed, with costs to the respondent, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 24th day of September 2003.
+"Alain Tardif"
+Tardif, J.
+Translation certified true
+on this 28th day of July 2004.
+Sophie Debbané, Revisor
+Citation: 2003TCC673
+Date: 20030924
+Docket: 2001‑2351(IT)I
+BETWEEN:
+ÉLECTRICITÉ GASTON ST‑PIERRE INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Tardif, J.
+[1] This is an appeal concerning the 1994 and 1995 taxation years.
+[2] Most of the facts assumed by the Minister of National Revenue (the "Minister") in making the assessments in issue were admitted. The admissions concern the following facts:
+[TRANSLATION]
+(a) According to the Minister's records, the appellant was incorporated on April 1, 1982;
+(b) During the taxation years in issue, Gaston St‑Pierre was the sole shareholder of the appellant (hereinafter the "shareholder");
+(c) As stated in its income tax returns, the appellant's main business activity was that of an electrical contractor;
+(d) The appellant's fiscal year ended on March 31 of each year;
+...
+(f) As a result of her audit for the taxation years in issue, the Minister's auditor found the following:
+(i) the appellant reported its income using the deposit reporting method;
+(ii) the corporation had only one bank account at the Saint‑Pascal Caisse Populaire Desjardins;
+(iii) income had not been reported by the appellant;
+(iv) most of the income not reported by the appellant consisted of cheques issued by Scierie Pelem Inc.;
+(v) those cheques had been cashed by the shareholder of the appellant at the counter of various financial institutions rather than deposited to the appellant's bank account;
+...
+(vii) a final portion of unreported income consisted of two cheques issued by Scierie Pelem Inc. and deposited by it to the appellant's bank account;
+(viii) however, the cheques referred to in the above subparagraph were not reported by the appellant;
+...
+UNCLAIMED PURCHASES
+(h) At the time of the audit for the taxation years in issue, the appellant's shareholder submitted purchase invoices to the Minister's auditor;
+(i) Those purchase invoices had not previously been claimed by the appellant;
+(j) For the taxation years in issue, seven purchase invoices paid out of the unreported income were allowed by the Minister;
+...
+(l) Consequently, the Minister allowed the appellant only the additional amounts of $284 in 1994, and $8,054 in 1995 as business expenses (see details in the schedules);
+The appellant denied or had no knowledge of the following facts:
+[TRANSLATION]
+(e) During the taxation years in issue, the appellant's accounting records were deficient;
+(f) ...
+(vi) another portion of unreported income consisted of three cheques totalling $20,000 that had been issued by Scierie Pelem Inc. to the order of the Notre‑Dame du Mont‑Carmel Caisse populaire by reason of the fact that the appellant's shareholder had assigned the receivables from Scierie Pelem Inc. as a guarantee of a loan granted to Les Immeubles Gaston and Réjeanne inc.;
+(g) Consequently, the Minister added $25,716 and $75,804 to the appellant's income respectively for the taxation years in issue (see details in schedules);
+...
+(k) With the exception of the seven purchase invoices referred to in the previous subparagraph, no other invoices were allowed because they were not valid;
+[3] The sole shareholder of the appellant (hereinafter the "shareholder") represented himself alone. The appellant did not produce any witnesses in support of its claims.
+[4] The respondent produced the auditor, Johanne Couture, and Serge Roy, in his capacity as Vice-President of Finance and Administration of Distrilec‑Roberge Inc., at the time the appellant was a client of the business.
+[5] As a result of the audit, Gaston St‑Pierre, the sole shareholder of the appellant, admitted that substantial income had not been reported. This was income earned for the performance of electrical work for the benefit of Scierie Pelem Inc.
+[6] The evidence brought by both parties focused mainly on purchase invoices for materials and equipment used in performing the work that generated the concealed income.
+[7] The appellant's claims are that it had to purchase and pay more than $100,000 for various materials and equipment required to perform the work. The appellant's agent contended that those payments had to be made out of the unreported income, thus considerably reducing the tax burden resulting from the unreported income.
+[8] In support of its claims, the appellant submitted 32 invoices to the respondent totalling more than $125,000.
+[9] The invoices were very thoroughly analyzed. Based on the analysis, the respondent retained and allowed only seven invoices totalling $8,339.29. All the other invoices were disallowed on the ground that they were false.
+[10] The evidence mainly concerned the validity of the invoices; the appellant's agent asserted that they were the invoices obtained at the time the materials and equipment were purchased on the dates indicated. The respondent contended that the said invoices had to be excluded since they were probably false.
+[11] To prove that this serious grievance was valid, counsel for the respondent produced Serge Roy, who filed in evidence Exhibit I‑11, a letter dated March 26, 1997. In view of the importance and relevance of that letter, it should be reproduced:
+[TRANSLATION]
+Karyne Albert
+...
+Subject: Your request for information concerning purchase orders VC‑48673, VC‑48810, VC‑48820 and VC‑48826
+Dear Madam,
+In response to your request, we wish to inform you of the following facts.
+l. Électricité Gaston St‑Pierre does not have an account with us.
+2. It is impossible that we sold the products stated on the invoices to that business on those dates for the following reasons.
+(a) The invoice books corresponding to those numbers were purchased from our supplier, Formulogic Inc., on September 13, 1995.
+(b) On June 11, 1996, five books of 50 "cash sale" invoices bearing numbers VC‑48601 to VC‑48850 were sent to our Rivière‑du‑Loup branch to be used there.
+(c) Most of the products stated on the invoices of which you sent copies to us are electrical equipment that must be specially ordered from our manufacturing supplier and take six to 12 weeks to be manufactured and delivered. In no case do we place this kind of order if the business making the purchase does not have a customer account with us with a line of credit equal to the amount of the order. However, that is not the case of Électricité Gaston St‑Pierre, whose name appears on the invoice copies you sent us.
+(d) We conduct a return follow‑up on books sent to our branches to ensure that all sales invoices are accounted for and deposited. According to our control sheet for the cash-sale invoice books sent to our branches (including those sent on June 11, 1996), the books containing invoices 48651 to 48700 and 48801 to 48850 were not returned (two books of 50 invoices each). The manager of our Rivière‑du‑Loup branch is missing the entire two books.
+...
+(Emphasis added.)
+[12] Mr. Roy explained that the Rivière‑du‑Loup branch, where the purchases in issue were apparently made, used only invoices supplied by the principal place of business located in the Québec region.
+[13] The invoices had been printed in triplicate. When a sale was made, the original was submitted to the customer and two copies were retained; one was returned to head office for control and administration purposes.
+[14] None of the invoices filed by the appellant and disallowed by the respondent were ever traced by the business that sold the materials. The appellant alone had the invoices. Furthermore, the dates stated on the invoices were prior to the very existence of those invoices.
+[15] In light of Mr. Roy's testimony, it appears that the content of and dates stated on the invoices filed by the appellant were prepared from blank invoices obtained in a dubious manner. The respondent therefore concluded and contended that they were simply false invoices and, as a result, refused to consider them.
+[16] That interpretation is confirmed by a preponderance of proof. Moreover, Gaston St‑Pierre expressly and categorically stated that the invoices in support of his claims were those obtained at the time of the various purchases. He thus contradicted the respondent's evidence, consisting of the testimony of a person of unquestionable credibility and corroborated by convincing, decisive and uncontradicted documentary evidence.
+[17] It would have been easy and extremely interesting to obtain the versions of the employees of the Rivière‑du‑Loup branch of the business. Gaston St‑Pierre, the sole shareholder of the appellant, chose not to have them testify. Nor did he produce his accountant or any of the representatives of Scierie Pelem Inc., which paid the substantial unreported income.
+[18] In view of the appellant's type of work, it was possible that the material and equipment installed were purchased directly by Scierie Pelem Inc. It would therefore have been very important to hear from one or more representatives of the business in question to shed light on what remained very unclear.
+[19] The representative of Distrilec‑Roberge Inc., Mr. Roy, who the appellant claims provided and sold the equipment used in the performance of the work, explained how the sales were accounted for, billed and subsequently controlled. That highly credible explanation totally repudiated the appellant's claims.
+[20] The theft of blank invoices being a plausible explanation, Mr. St‑Pierre simply responded spontaneously: "Prove it!" and hastened to add, "Did anyone call the police?"
+[21] Indeed, it was not established that blank invoices were stolen. However, the testimony of Mr. Roy, who is entirely trustworthy and without interest in this case, is indisputable. The invoices describing the material that was purportedly purchased and used to perform the work that generated the unreported income could not have been prepared by his business for the simple reason that, on the dates stated on the invoices, the invoices simply did not exist. Furthermore, the numbers on the missing invoices proved to be the same as those on the invoices filed by the appellant.
+[22] Representing himself alone and having chosen to produce no witnesses, the appellant's agent, a highly articulate man, had very surprising knowledge and reflexes for a person who had initially described himself as uninformed, nervous and lacking experience before a Court.
+[23] Mr. St‑Pierre's testimony was simply not credible and must be excluded from the evidence.
+[24] In support of that harsh conclusion, I rely in particular on the following facts:
+· through its sole shareholder, Gaston St‑Pierre, the appellant admitted that it had failed to report very large amounts of income;
+· he admitted that he had provided his accountant with incomplete information and documents; and
+· he wilfully failed to report substantial income.
+[25] It also appears from the evidence that Scierie Pelem Inc., which had entered into a contract for the performance of various electrical jobs with the company of which he held all the shares, had to make the payments for the work performed not to the company, but to Gaston St‑Pierre personally, at Mr. St-Pierre's express request.
+[26] The cheques made out to him personally were cashed at financial institutions other than the one where the appellant generally did business.
+[27] There is a very strong presumption, not rebutted by the persons in a position to do so, that the invoices submitted by the appellant were false.
+[28] The facts and evidence discrediting the quality of the testimony of the appellant's agent are also highly relevant and largely sufficient to conclude that the appellant knowingly and deliberately planned its business so as to exclude very large amounts of money from its income.
+[29] It not only concealed substantial income but was also arrogant enough to make up expenses in order to reduce the concealed income once the respondent had discovered it.
+[30] Gaston St‑Pierre, the sole shareholder of the appellant, repeatedly, wilfully and knowingly took action to conceal significant amounts of income constituting gross negligence that warranted the penalties assessed.
+[31] The respondent was fully justified in reassessing for the taxation years, even though those years were theoretically time-barred. The evidence that the respondent had the burden of adducing established decisively that the appellant had set up an actual system for concealing significant amounts of income and making up expenses.
+[32] For these reasons, the appeal is dismissed, with costs to the respondent.
+Signed at Ottawa, Canada, this 24th day of September 2003.
+"Alain Tardif"
+Tardif, J.
+Translation certified true
+on this 28th day of July 2004.
+Sophie Debbané, Revisor

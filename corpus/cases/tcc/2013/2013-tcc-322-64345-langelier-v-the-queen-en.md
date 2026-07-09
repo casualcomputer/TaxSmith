@@ -1,0 +1,163 @@
+---
+title: "Langelier v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/64345/index.do"
+last_modified: "2013-10-22"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2013 TCC 322"
+citation2: ""
+neutral_citation: "2013 TCC 322"
+decision_date: "2013-10-22"
+language: "en"
+item_id: "64345"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5920
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T08:48:45.805000+00:00"
+cases_cited_count: 5
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "1306eaf661afa7ec1c9d3b48b658760f10c0abcd4933f0a38d71231b55b8265d"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Langelier v. The Queen
+
+- Citation: 2013 TCC 322
+- Decision date: 2013-10-22
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5920, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Langelier v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2013-10-22
+Neutral citation
+2013 TCC 322
+File numbers
+2012-4890(IT)I
+Judges and Taxing Officers
+Réal Favreau
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2012-4890(IT)I
+BETWEEN:
+BRIGATTA M. LANGELIER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on July 16, 2013, at Edmonton, Alberta
+Before: The Honourable Justice Réal Favreau
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Adam Gotfried
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment dated November 28, 2011 made under the Income Tax Act for the appellant's 2010 taxation is dismissed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 22nd day of October 2013.
+"Réal Favreau"
+Favreau J.
+Citation: 2013 TCC 322
+Date: 20131022
+Docket: 2012-4890(IT)I
+BETWEEN:
+BRIGATTA M. LANGELIER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Favreau J.
+[1] This is an appeal by way of the informal procedure against a reassessment dated November 28, 2011 made by the Minister of National Revenue (the "Minister") under the Income Tax Act, R.S.C. 1985, c. 1 (5th Supp.), as amended (the “Act”) in respect of the appellant's 2010 taxation year.
+[2] By way of the November 28, 2011 reassessment, the Minister disallowed the $8,502 claimed as moving expenses by the appellant in her 2010 income tax return because the appellant did not move in order to earn income from employment at a new work location.
+[3] In her notice of appeal, the appellant explained that she sold her house and moved 70 kilometres to the City of Edmonton, to keep her job with her employer and therefore continuing to earn employment income.
+[4] The following assumptions of fact were agreed upon by the appellant:
+(a) prior to the 2010 taxation year, the appellant resided at RR 1, Site 10, Box 20, Calahoo, Alberta, TOG 0J0;
+(b) on August 14, 2010, the appellant moved to #216 – 11230 104 Avenue N.W., Edmonton, Alberta, T5K 2X8;
+(c) the appellant was continuously employed by Incoming Attitude Ltd. from 1996 throughout the 2010 taxation year;
+(d) during her period of employment with Incoming Attitude Ltd., the appellant carried out her work duties at 12011 – 32 Street N.E., Edmonton, Alberta, T6S 1G8.
+[5] The appellant testified at the hearing. She explained that she started working for the Encore Group of Companies in 1996 as an accountant. In 2006, Incoming Attitude Ltd., which was previously operated as a division of the Encore Group of Companies, was incorporated. Incoming Attitude Ltd. was providing accounting, dispatching and invoicing services to other companies in the Encore Group of Companies.
+[6] The appellant also stated that from 1996 to 2004, she lived in Edmonton and that from 2004 to 2006, she lived in Spruce Grove, an area close to Edmonton. In 2006, she moved to Calahoo, Alberta, which is about 61 kilometres from her work location. In 2010, she moved back to Edmonton because she had new responsibilities as a result of the considerable growth of the Encore Group of Companies. The appellant's new responsibilities included the transfer of financial and accounting data from an old software to a new software and the training and supervision of a newly hired payroll clerk. The appellant also alleged that the title of her new position had changed to "Accounting Administration".
+[7] The evidence shows that there was no increase in salary nor in employment benefits for the 2010 taxation year as a result of the change in her duties and her working hours had been gradually reduced to the standard 40 hours per week in 2012 when a full-time payroll clerk was hired.
+Issue
+[8] The only issue to be decided is whether the appellant moved from her old residence to the new residence to enable herself to be employed at a location in Canada and therefore be entitled to a moving expense of $8,502 for the 2010 taxation year.
+Respondent's Position
+[9] The respondent submits that the appellant did not have a "new work location" within the meaning of subsection 248(1) of the Act during the 2010 taxation year and thus did not move from the old residence to the new residence to enable herself to be employed at a "new work location". Therefore, the appellant's move to the new residence is not an "eligible relocation" within the meaning of subsection 248(1) of the Act and no part of the amount of $8,502 claimed in respect of moving expenses is deductible pursuant to subsection 62(1) of the Act in computing the appellant's income for the 2010 taxation year.
+Appellant's Position
+[10] The appellant submits that she moved from her old residence to the new residence to enable her to be employed at a "new work location" since she was assigned new duties with the same employer at the same work location, where she worked before and after the move.
+Analysis and Conclusion
+[11] The deductibility of "moving expenses" is determined by subsection 62(1) of the Act which reads as follows:
+There may be deducted in computing a taxpayer’s income for a taxation year amounts paid by the taxpayer as or on account of moving expenses incurred in respect of an eligible relocation, to the extent that
+(a) they were not paid on the taxpayer’s behalf in respect of, in the course of or because of, the taxpayer’s office or employment;
+(b) they were not deductible because of this section in computing the taxpayer’s income for the preceding taxation year;
+(c) the total of those amounts does not exceed
+(i) in any case described in subparagraph (a)(i) of the definition “eligible relocation” in subsection 248(1), the total of all amounts, each of which is an amount included in computing the taxpayer’s income for the taxation year from the taxpayer’s employment at a new work location or from carrying on the business at the new work location, or because of subparagraph 56(1)(r)(v) in respect of the taxpayer's employment at the new work location, and
+(ii) in any case described in subparagraph (a)(ii) of the definition “eligible relocation” in subsection 248(1), the total of amounts included in computing the taxpayer’s income for the year because of paragraphs 56(1)(n) and (o); and
+(d) all reimbursements and allowances received by the taxpayer in respect of those expenses are included in computing the taxpayer’s income.
+[12] The definition of "moving expenses" is not relevant in this instance as the nature and quantum of the expenses incurred by the appellant are not contested. There is also no dispute that the appellant's new residence was more than 40 kilometres closer to her work than her former residence.
+[13] The concept of "eligible relocation" for the purpose of subsection 62(1) of the Act is defined in subsection 248(1) of the Act in the following manner:
+"eligible relocation" means a relocation of a taxpayer where
+(a) the relocation occurs to enable the taxpayer
+(i) to carry on a business or to be employed at a location in Canada (in section 62 and this definition referred to as “the new work location”), or
+. . .
+(b) both the residence at which the taxpayer ordinarily resided before the relocation (in section 62 and this subsection referred to as “the old residence”) and the residence at which the taxpayer ordinarily resided after the relocation (in section 62 and this subsection referred to as “the new residence”), are in Canada, and
+(c) the distance between the old residence and the new work location is not less than 40 kilometres greater than the distance between the new residence and the new work location
+except that, in applying subsections 6(19) to (23) and section 62 in respect of a relocation of a taxpayer who is absent from but resident in Canada, this definition shall be read without reference to the words "in Canada" in subparagraph (a)(i), and without reference to paragraph (b);
+[14] The concept of "the new work location", as defined in the definition of "eligible relocation" in subsection 248(1) of the Act has been given a different interpretation by the Tax Court of Canada.
+[15] In certain cases, the concept of "the new work location" has been interpreted as simply meaning a location in Canada where the taxpayer is employed because there is no requirement that the location be "new" in the definition found at subsection 248(1) of the Act. In Gelinas v. The Queen, 2009 TCC 111 Justice C. Miller found that the change from part-time to full-time was sufficient to allow the taxpayer to claim moving expenses, even though the appellant was employed by the same employer. In Wunderlich v. The Queen, 2011 TCC 539, in which case the taxpayer accepted a promotion and felt that he needed to be closer to his workplace as a result of his new managerial responsibilities, Justice Webb found that the relocation had occurred to enable the taxpayer to be employed in Canada, even though the employment commenced in 2004 and the move occurred in 2008.
+[16] In other cases, such as in Grill v. The Queen, 2009 TCC 5 and in Moreland v. The Queen, 2010 TCC 483, the Court considered that the words of the Act clearly contemplated or required that there be a "new work location" for a taxpayer to qualify for the moving expenses deduction. The judge in each of these cases, Justice Bédard in Moreland and Justice Little in Grill, both agree with Chief Judge Christie's (as he then was) interpretation of subsection 62(1) of the Act made in Bracken v. Minister of National Revenue, 84 DTC 1813 (T.C.C.), despite the fact that subsection 62(1) was subsequently amended by S.C., 1984, c. 45, S. 21 (applicable with respect to relocations occurring after 1983) and by S.C., 1999, c. 22, subsection 17(1) (applicable after 1997).
+[17] In Bracken, cited above, Chief Judge Christie established four conditions that a taxpayer must meet in order to qualify for a deduction for moving expenses under subsection 62(1). On page 1819, Chief Judge Christie stated the following:
+. . .
+My reading of subsection 62(1) is that it contemplates the existence of four separate elements: old work location, new work location, old residence and new residence, and the comparison of two distances, i.e. the distance from the old residence to the new work location with the distance from the new residence to the new work location the former of which must exceed the latter by 40 or more kilometers in order for the moving expenses to be deductible. . . .
+[18] In Grill, cited above, Justice Little concluded that the appellant's work location did not change and in Moreland, cited above, Justice Bédard concluded that a change of office to a different floor in the same office building to perform new duties, assigned by the same employer, did not constitute a move to a "new work location".
+[19] In the present case, there is no evidence that the appellant's physical work location had changed, and that she occupied a new position as a result of her new managerial responsibilities.
+[20] The business card filed by the appellant as evidence that her job title had changed to Accounting Administration had no date on it, so it is not possible to determine when the change in job title took place.
+[21] It is also clear from the evidence that the appellant had no increase in salary nor in employment benefits for the period from August 2010 to December 31, 2010. It also appears that the appellant reduced her working hours for the same pay.
+[22] Based on the modern approach of interpretation of taxing statutes, as enunciated by the Supreme Court of Canada in Canada Trustco Mortgage Co. v. Canada, 2005 SCC 54, I do not believe that Parliament's intent was to permit a taxpayer to deduct moving expenses in circumstances where a taxpayer performed new duties with the same employer at the same business location.
+[23] Based on the above facts, I am unable to find that the appellant's claim for the 2010 moving expenses falls within the ambit of subsection 62(1).
+[24] For these reasons, the appeal is dismissed.
+Signed at Ottawa, Canada, this 22nd day of October 2013.
+"Réal Favreau"
+Favreau J.
+CITATION: 2013 TCC 322
+COURT FILE NO.: 2012-4890(IT)I
+STYLE OF CAUSE: Brigatta M. Langelier and Her Majesty the Queen
+PLACE OF HEARING: Edmonton, Alberta
+DATE OF HEARING: July 13, 2013
+REASONS FOR JUDGMENT BY: The Honourable Justice Réal Favreau
+DATE OF JUDGMENT: October 22, 2013
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Adam Gotfried
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

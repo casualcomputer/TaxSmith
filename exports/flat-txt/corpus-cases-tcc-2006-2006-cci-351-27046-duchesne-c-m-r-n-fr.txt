@@ -1,0 +1,184 @@
+Title: Duchesne c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27046/index.do
+Corpus path: corpus/cases/tcc/2006/2006-cci-351-27046-duchesne-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2006-06-30
+
+# Duchesne c. M.R.N.
+
+- Citation: 2006 CCI 351
+- Decision date: 2006-06-30
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 591, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Duchesne c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-06-30
+Référence neutre
+2006 CCI 351
+Numéro de dossier
+2005-2844(EI)
+Juges et Officiers taxateurs
+Sylvio J. Savoie
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossiers : 2005-2844(EI)
+2005-2845(EI)
+ENTRE :
+LOUISE DUCHESNE,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+____________________________________________________________________
+Appels entendus le 27 mars 2006, à Québec (Québec)
+Devant : L'honorable S.J. Savoie, juge suppléant
+Comparutions :
+Pour l'appelante :
+L'appelante elle-même
+Avocate de l'intimé :
+Me Marie-Claude Landry
+________________________________________________________________
+JUGEMENT
+Les appels sont rejetés et les décisions rendues par le ministre sont confirmées selon les motifs du jugement ci-joints.
+Signé à Grand-Barachois (Nouveau-Brunswick), ce 30ième jour de juin 2006.
+« S.J. Savoie »
+Juge suppléant Savoie
+Référence : 2006CCI351
+Date : 20060630
+Dossier : 2005-2844(EI)
+2005-2845(EI)
+ENTRE :
+LOUISE DUCHESNE,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+MOTIFS DU JUGEMENT
+Le juge suppléant Savoie
+[1] Ces appels ont été entendus sur preuve commune à Québec (Québec) le 27 mars 2006.
+[2] L'assurabilité de l'emploi de l'appelante n'est pas en cause. Il s'agit de déterminer les heures assurables de l'appelante et sa rémunération assurable.
+[3] Dans sa lettre du 21 avril 2005, le ministre du Revenu national (le « ministre » ) a informé l'appelante de sa décision selon laquelle pour la période du 31 janvier au 17 septembre 1998, sa rémunération assurable totalisait 5 172,25 $ durant les 28 dernières semaines de la période et, pour la période du 21 septembre 1998 au 30 mai 1999, elle avait accumulé 563 heures assurables et une rémunération assurable totalisant 3 408,75 $ durant les 28 dernières semaines de la période, lorsqu'au service de les Entreprises Dysco du Québec inc. (le « payeur » ).
+[4] En outre, dans sa lettre, de la même date, le ministre a informé l'appelante de sa décision selon laquelle pour la période de 8 juin au 11 novembre 1999, elle avait accumulé 795 heures assurables et une rémunération assurable totalisant 7 945,50 $ et du 20 juin au 4 novembre 2000, elle avait accumulé 145 heures assurables et une rémunération assurable totalisant 1 442,50 $ lorsqu'au service du Restaurant Coeur de Loup inc. (le « payeur » ).
+[5] Pour rendre ses décisions, quant à la rémunération assurable et aux heures assurables de l'appelante, le ministre s'est appuyé sur les faits présumés suivants :
+(Dossier 2005-2844(EI))
+a) le payeur a été constitué le 13 août 1987;
+b) le payeur exploitait un restaurant;
+c) durant les périodes en litige, la répartition des actions comportant droit de vote du payeur se lisait comme suit :
+- Donald Duchesne, frère de l'appelante, avec 67 % des actions;
+- l'appelante avec 28 % des actions;
+- Josée Duchesne, soeur de l'appelante, avec 5 % des actions;
+d) l'appelante travaillait au restaurant surtout durant la saison estivale et occasionnellement durant l'hiver;
+e) l'appelante aidait à la cuisine, faisait le service aux tables, assurait la gérance du plancher et agissait en tant qu'hôtesse;
+f) le payeur a affirmé que l'appelante poinçonnait, par période, ses heures de travail alors que l'appelante a précisé qu'elle ne notait pas ses heures de travail et qu'elle ignorait si le payeur le faisait;
+g) le 8 septembre 1998, le payeur émettait un relevé d'emploi au nom de l'appelante, pour la période du 27 octobre 1995 au 6 septembre 1998, indiquant 560 heures assurables et une rémunération assurable totalisant 6 580 $ pour les 28 dernières semaines de la période;
+h) le 2 juin 1999, le payeur émettait un relevé d'emploi au nom de l'appelante, pour la période du 19 octobre 1998 au 30 mai 1999, indiquant 285 heures assurables et une rémunération assurable totalisant 3 646,76 $
+i) le relevé d'emploi émis par le payeur en 1998 ne reflète pas la réalité quant à la rémunération assurable gagnée par l'appelante au cours de la période en litige;
+j) le relevé d'emploi émis par le payeur en 1999 ne reflète pas la réalité quant aux heures assurables accumulées par l'appelante ni quant à la rémunération assurable gagnée par l'appelante au cours de la période en litige;
+k) suite à une perquisition effectuée dans les locaux du payeur, des documents incluant des cartes de temps au nom d'employés du payeur, dont l'appelante, ont été saisis;
+l) les cartes de temps au nom de l'appelante font foi des heures réellement travaillées par l'appelante et ont servi de base de calcul à la notification du ministre;
+m) pour la période du 31 janvier au 17 septembre 1998 et plus précisément pour la période du 8 mars au 17 septembre 1998, soit durant les 28 dernières semaines de la période en litige, le ministre a déterminé que la rémunération assurable de l'appelante totalisait 5 172,25 $
+n) pour la période du 21 septembre 1998 au 30 mai 1999, le ministre a déterminé que l'appelante avait accumulée 563 heures de travail assurable et, du 15 novembre 1998 au 30 mai 1999, soit durant les 28 dernières semaines de la période, des gains assurables totalisant 3 408,75 $ (127,75 heures à 5,00 $ et 277 heures à 10,00 $)
+(Dossier 2005-2845(EI))
+a) le payeur a été constitué en société le 9 décembre 1997;
+b) le payeur exploitait un restaurant;
+c) durant les périodes en litige, la répartition des actions comportant droit de vote du payeur se lisait comme suit :
+- Donald Duchesne, frère de l'appelante, avec 67 % des actions,
+- Josée Duchesne, soeur de l'appelante, avec 33 % des actions;
+d) l'appelante travaillait au restaurant surtout durant la saison estivale et occasionnellement durant l'hiver;
+e) l'appelante aidait à la cuisine, faisait le service aux tables, assurait la gérance du plancher et agissait en tant qu'hôtesse;
+f) le payeur a affirmé que l'appelante poinçonnait, par période, ses heures de travail alors que l'appelante a précisé qu'elle ne notait pas ses heures de travail et qu'elle ignorait si le payeur le faisait;
+g) le 16 novembre 1999, le payeur émettait un relevé d'emploi au nom de l'appelante, pour la période du 1er juin au 13 novembre 1999, indiquant 998 heures assurables et une rémunération assurable totalisant 13 243,86 $;
+h) le 20 septembre 2000, le payeur émettait un relevé d'emploi au nom de l'appelante, pour la période du 26 juin au 7 septembre 2000, indiquant 424 heures assurables et une rémunération assurable totalisant 6 857,93 $;
+i) les relevés d'emploi émis par le payeur ne reflètent pas la réalité quant aux heures assurables accumulées par l'appelante ni quant à la rémunération assurable gagnée par l'appelante au cours des périodes en litige;
+j) suite à une perquisition effectuée dans les locaux du payeur, des documents incluant des cartes de temps au nom d'employés du payeur, dont l'appelante, ont été saisis;
+k) les cartes de temps au nom de l'appelante font foi des heures réellement travaillées par l'appelante et ont servi de base de calcul à la notification du ministre;
+l) pour la période du 8 juin au 11 novembre 1999, le ministre a déterminé que l'appelante avait accumulé 795 heures assurables et une rémunération assurable totalisant 7 945,50 $ (794,50 heures à 10,00 $ de l'heure);
+m) pour la période du 20 juin 2000 au 4 septembre 2000, le ministre a déterminé que l'appelante avait accumulé 145 heures assurables et une rémunération assurable totalisant 1 442,50 $ (144,25 heures à 10,00 $ de l'heure).
+[6] L'appelante a admis tous les faits présumés du ministre, sauf ceux qui portent sur le fait que les relevés d'emploi émis par les payeurs au nom de l'appelante ne reflètent pas la réalité quant à sa rémunération et ses heures assurables.
+[7] Par ailleurs, l'appelante a nié la prétention du ministre qui affirme que les cartes de temps au nom de l'appelante, saisies lors de la perquisition effectuée au bureau des payeurs, représentent les heures réellement travaillées par celle-ci.
+[8] Les dossiers sous étude font partie d'un groupe qui ont fait l'objet d'une enquête menée par un enquêteur senior du DRHC de Québec. Au terme de l'enquête, une perquisition a été exécutée dans les locaux du Restaurant Coeur de Loup. Au cours de celle-ci, on a saisi des dossiers d'employés et des cartes de temps de ceux-ci, ainsi que différents documents susceptibles de contenir des preuves d'infractions commises pendant les années 1998 à 2002. Suite à cette perquisition, les dossiers de 8 travailleurs, au service des payeurs, ont été soumis au secteur de l'assurabilité du Bureau des services fiscaux de Québec pour une décision portant sur la détermination des périodes, des heures et de la rémunération assurable de ces travailleurs pour les années 1998 à 2003. Une fois cette détermination faite, trois travailleurs seulement, dont l'appelante, se sont prévalus de leur droit d'appel.
+[9] Les documents pertinents aux dossiers sous étude ont servi au ministre dans sa détermination quant aux heures et à la rémunération assurables de l'appelante. En effet, au terme de son examen des dossiers de l'appelante, le ministre a conclu que les relevés d'emploi préparés par les payeurs ne reflétaient pas la réalité puisqu'ils venaient contredire les informations recueillies lors de la perquisition, qui eux révélaient, selon le ministre, l'information précise dont il avait besoin pour rendre sa décision.
+[10] C'est aussi là-dessus que cette Cour doit se pencher pour rendre sa décision en raison de la preuve qui a été produite à l'audition alors que l'appelante a tenté d'expliquer la valeur probante et la pertinence de ces documents dans l'examen de ces dossiers.
+[11] Lors de la saisie effectuée au bureau des payeurs, on a saisi des documents attestant qu'il existait une pratique de banque d'heures. À l'audition, Donald Duchesne, actionnaire majoritaire des payeurs, a fermement nié qu'il se livrait à cette pratique avec ses employés, mais il n'a pas réussi à fournir une explication convaincante face à la découverte de ces documents parmi ceux qui ont été saisis lors de la perquisition.
+[12] Aux enquêteurs, l'appelante a affirmé ne pas avoir convenu avec les payeurs de participer à un système de banque d'heures et de paiement, au comptant, d'une partie de son salaire. Dans sa déclaration statutaire, elle a indiqué qu'elle était payée à la semaine et qu'elle n'avait pas besoin de poinçonner son temps. Lorsqu'elle a fait sa déclaration statutaire, des cartes de temps portant son nom lui ont été montrées et elle a affirmé n'avoir jamais vu ces documents.
+[13] De plus, aux enquêteurs, l'appelante a spécifié qu'elle ne notait pas ses heures réelles travaillées et qu'elle ignore si le payeur les notait. Elle a dit ne pas se rappeler si elle utilisait un horodateur. Lorsque les enquêteurs lui ont fait remarquer qu'il y avait de nombreuses cartes de temps dans son dossier, elle a dit qu'elle n'était pas certaine, que peut-être elle avait poinçonné pendant un certain temps pour vérifier combien d'heures elle travaillait réellement. Elle n'a pu expliquer pourquoi les enquêteurs avaient en leur possession autant de cartes de temps à son nom et elle a réitéré qu'elle ne se souvenait pas si elle poinçonnait. Elle a ajouté qu'elle était payée à la semaine, toujours le même montant, mais ne se rappelait pas du montant.
+[14] Pour sa part, cependant, Donald Duchesne a affirmé que l'appelante poinçonnait son temps, par période, et qu'il n'y avait pas de banque d'heures dans son entreprise. Contrairement à cette affirmation, les enquêteurs ont retracé, par exemple, au registre de paie pour l'année 2000 des feuilles manuscrites démontrant une banque d'heures chez les payeurs en 1999 et 2000.
+[15] À l'audition, l'appelante a affirmé et répété qu'elle était toujours payée à la semaine. Lorsqu'elle a été questionnée sur les cartes de temps, elle a admis que celles-ci étaient préparées non pas de façon sporadique, mais constante. Toutefois, elle a affirmé que ces cartes de temps n'ont aucune incidence sur ses heures de travail. Elle a aussi prétendu que ces cartes étaient préparées dans le but d'établir la pertinence d'un poste.
+[16] Parlant au nom des payeurs, Donald Duchesne a témoigné à l'effet que l'appelante devait poinçonner et que c'était la pratique pour certains employés même si ceux-ci étaient payés à la semaine. Cette pratique, a-t-il dit, lui permettait de recueillir des données pratiques, dans le but d'établir une base de données qui lui servirait à l'avenir. C'était un document à l'interne pour lui permettre de planifier, a-t-il dit. Il a précisé que ces documents avaient été préparés par quelqu'un dans son bureau, mais il ignorait quelle personne l'avait fait.
+[17] La preuve a révélé que pour l'une des périodes d'emploi, celle de l'année 2000, il manquait à l'appelante 420 heures pour se qualifier à des prestations d'assurance-emploi. Sur l'une des feuilles de temps de l'appelante, produite en liasse sous la cote I-1, on peut y lire une note manuscrite qui révèle ceci de particulier : « S'il manque des heures pour atteindre 420 heures l'appeler » . Donald Duchesne a affirmé à l'audition qu'il n'avait pas élaboré ce document, sans autre explication. Ce même témoin a dit ne pas reconnaître la pièce I-4 qui s'intitule « Heures en banque, 1999 » . Ce document divulgue le nombre d'heures travaillées, les heures payées, les heures en banque et les heures cumulées pour les employés suivants : Sylvianne Audet, Stéphane Bouchard, Nicolas Lavoie, Magali Gilbert, Enrico Simard, Germain Tremblay, Alain Jacob, Martin Veilleux, Gaëtan Tremblay, Luc Beaudry, Julie Gilbert et Claudine Tremblay. Donald Duchesne, à l'audition, a affirmé ne pas reconnaître ce document. Cependant, c'est un de ceux qui ont été saisis dans les locaux de ses entreprises.
+[18] L'appelante et Donald Duchesne ont affirmé que celle-ci travaillait toujours 40 heures par semaine et qu'elle a toujours été payée pour 40 heures de travail par semaine à 10,00 $ l'heure, mais comment expliquer alors la mention sur la pièce I-3, d'un total d'heures de 67,5 payées à 5,00 $ l'heure, pour la période du 21 septembre au 4 octobre 1998? Aucune explication satisfaisante n'a été donnée à la Cour à l'audition.
+[19] Devant cette réalité, le ministre a conclu qu'il ne pouvait retenir les versions données par l'appelante et pas davantage par Donald Duchesne. Il a donc établi que les documents aux dossiers faisaient foi du nombre exact d'heures travaillées par l'appelante. Ces données lui ont été révélées par les cartes de temps régulières de celle-ci. Il a donc déterminé le nombre d'heures et la rémunération assurables pour chacune des périodes en litige en fonction de ces documents.
+[20] À mon avis, le ministre ne pouvait pas procéder de façon différente, dans ces circonstances. L'appelante demande à cette Cour de renverser les décisions du ministre, mais ni le payeur ni l'appelante n'ont réussi à démontrer que le ministre n'avait pas bien interprété la portée des documents saisis lors de la perquisition ou qu'il s'était trompé en utilisant ceux-ci pour accomplir la tâche qu'on lui avait confiée.
+[21] Il ressort de tout ceci, que l'appelante et les payeurs demandent à cette Cour de régler ces dossiers en déterminant les heures et la rémunération assurables de l'appelante selon les relevés d'emploi émis par les payeurs, même si ceux-ci sont contredits par les documents saisis lors de la perquisition exécutée dans les locaux des payeurs.
+[22] Or les payeurs n'ont pas fourni aux enquêteurs, comme on leur avait demandé, les documents saisis lors de la perquisition, et maintenant que ces documents ont été produits à la Cour après avoir été saisis, ils demandent à la Cour de ne pas en tenir compte. L'appelante en fait autant.
+[23] Il convient de reproduire un extrait du Règlement sur l'assurance-emploi, en particulier les articles 9.1 et 10 et l'article 2 du Règlement sur la rémunération assurable et la perception des cotisations :
+Règlement sur l'assurance-emploi
+9.1 Lorsque la rémunération d'une personne est versée sur une base horaire, la personne est considérée comme ayant exercé un emploi assurable pendant le nombre d'heures qu'elle a effectivement travaillées et pour lesquelles elle a été rétribuée.
+10. (1) Lorsque la rémunération d'une personne est versée sur une base autre que l'heure et que l'employeur fournit la preuve du nombre d'heures effectivement travaillées par elle au cours de la période d'emploi et pour lesquelles elle a été rétribuée, celle-ci est réputée avoir travaillé ce nombre d'heures d'emploi assurable.
+(2) Sauf dans le cas où le paragraphe (1) et l'article 9.1 s'appliquent, si l'employeur ne peut établir avec certitude le nombre d'heures de travail effectivement accomplies par un travailleur ou un groupe de travailleurs et pour lesquelles ils ont été rémunérés, l'employeur et le travailleur ou le groupe de travailleurs peuvent, sous réserve du paragraphe (3) et si cela est raisonnable dans les circonstances, décider de concert que ce nombre est égal au nombre correspondant normalement à la rémunération visée au paragraphe (1), auquel cas chaque travailleur est réputé avoir travaillé ce nombre d'heures d'emploi assurable.
+(3) Lorsque le nombre d'heures convenu par l'employeur et le travailleur ou le groupe de travailleurs conformément au paragraphe (2) n'est pas raisonnable ou qu'ils ne parviennent pas à une entente, chaque travailleur est réputé avoir travaillé le nombre d'heures d'emploi assurable établi par le ministre du Revenu national d'après l'examen des conditions d'emploi et la comparaison avec le nombre d'heures de travail normalement accomplies par les travailleurs s'acquittant de tâches ou de fonctions analogues dans des professions ou des secteurs d'activité similaires.
+(4) Sauf dans les cas où le paragraphe (1) et l'article 9.1 s'appliquent, lorsque l'employeur ne peut établir avec certitude ni ne connaît le nombre réel d'heures d'emploi assurable accumulées par une personne pendant sa période d'emploi, la personne est réputée, sous réserve du paragraphe (5), avoir travaillé au cours de la période d'emploi le nombre d'heures d'emploi assurable obtenu par division de la rémunération totale pour cette période par le salaire minimum, en vigueur au 1er janvier de l'année dans laquelle la rémunération était payable, dans la province où le travail a été accompli.
+(5) En l'absence de preuve des heures travaillées en temps supplémentaire ou en surplus de l'horaire régulier, le nombre maximum d'heures d'emploi assurable qu'une personne est réputée avoir travaillées d'après le calcul prévu au paragraphe (4) est de 7 heures par jour sans dépasser 35 heures par semaine.
+Règlement sur la rémunération assurable et la perception des cotisations
+2. (1) Pour l'application de la définition de « rémunération assurable » au paragraphe 2(1) de la Loi et pour l'application du présent règlement, le total de la rémunération d'un assuré provenant de tout emploi assurable correspond à l'ensemble des montants suivants :
+a) le montant total, entièrement ou partiellement en espèces, que l'assuré reçoit ou dont il bénéficie et qui lui est versé par l'employeur à l'égard de cet emploi;
+b) le montant de tout pourboire que l'assuré doit déclarer à l'employeur aux termes de la législation provinciale.
+(2) Pour l'application de la présente partie, le total de la rémunération d'un assuré provenant d'un emploi assurable comprend la partie impayée de cette rémunération qui n'a pas été versée à cause de la faillite de l'employeur, de sa mise sous séquestre effective ou éminente ou d'un non paiement de rétribution à l'égard duquel l'assuré a déposé une plainte auprès de l'organisme fédéral ou provincial de main-d'oeuvre. Est exclu du total de la rémunération tout montant impayé qui se rapporte au temps supplémentaire ou qui aurait été versé en raison de la cessation de l'emploi.
+(3) Pour l'application des paragraphes (1) et (2), sont exclus de la rémunération ::
+a) les avantages autres qu'en espèces, à l'exception, dans le cas où l'employeur verse à une personne une rétribution en espèces pour une période de paie, de la valeur de la pension ou du logement, ou des deux, dont la personne a joui au cours de cette période de paie relativement à son emploi;
+a.1) toute somme qui est exclue du revenu en vertu des alinéas 6(1)a) ou b) ou des paragraphes 6(6) ou (16) de la Loi de l'impôt sur le revenu;
+b) les allocations de retraite;
+c) tout montant supplémentaire versé par l'employeur à une personne afin d'augmenter les indemnités d'accident du travail versées à celle-ci par un organisme provincial;
+d) tout montant supplémentaire versé par l'employeur à une personne afin d'augmenter les indemnités d'assurance-salaire versées à celle-ci par une tierce partie;
+e) les prestations supplémentaires de chômage versées à une personne dans le cadre d'un régime de prestations supplémentaires de chômage visé au paragraphe 37(2) du Règlement sur l'assurance-emploi;
+f) tout montant versé par l'employeur à une personne, soit à titre d'indemnité durant le délai de carence visé à l'article 13 de la Loi, soit pour augmenter les prestations de maternité, les prestations parentales ou les prestations de soignant à payer en vertu des articles 22, 23 et 23.1 de la Loi, respectivement, si les conditions énoncées à l'article 38 du Règlement sur l'assurance-emploi sont respectées.
+[24] Le ministre a déterminé le nombre d'heures assurables de l'appelante en conformité avec les Règlements reproduits ci-dessus, de la façon suivante :
+- Pour la période du 31 janvier au 17 septembre 1998 et plus précisément pour la période du 8 mars au 17 septembre 1998, soit durant les 23 dernières semaines de la période en litige, le ministre a déterminé que la rémunération assurable de l'appelante totalisait 5 172,25 $;
+- pour la période du 21 septembre 1998 au 30 mai 1999, le ministre a déterminé que l'appelante avait accumulé 563 heures de travail assurables et, du 15 novembre 1998 au 30 mai 1999, soit durant les 28 dernières semaines de la période, des gains assurables totalisant 3 408,75 $ (127,75 heures à 5,00 $ et 227 heures à 10,00 $);
+- pour la période du 8 juin au 11 novembre 1999, le ministre a déterminé que l'appelante avait accumulé 795 heures assurables et une rémunération assurable totalisant 7 945,50 $ (794,50 heures à 10,00 $ de l'heure).
+Le fardeau de la preuve reposait sur l'appelante. Elle ne s'est pas acquittée de ce fardeau.
+[25] Par ailleurs, cette Cour doit noter le manque de transparence dans les témoignages de l'appelante et Donald Duchesne, représentant des payeurs.
+[26] Cette Cour est d'avis que le ministre a exercé à bon droit le mandat que lui confie la Loi et qu'il a exercé ce mandat selon la Loi et le Règlement, précités.
+[27] En conséquence, cette Cour ne voit aucunement le bien-fondé de son intervention.
+[28] Donc, les appels sont rejetés et les décisions rendues par le ministre sont confirmées.
+Signé à Grand-Barachois (Nouveau-Brunswick), ce 30ième jour de juin 2006.
+« S.J. Savoie »
+Juge suppléant Savoie
+RÉFÉRENCE :
+2006CCI351
+No DU DOSSIER DE LA COUR :
+2005-2844(EI)
+2005-2845(EI)
+INTITULÉ DE LA CAUSE :
+Louise Duchesne et M.R.N.
+LIEU DE L'AUDIENCE :
+Québec (Québec)
+DATE DE L'AUDIENCE :
+Le 27 mars 2006
+MOTIFS DE JUGEMENT PAR :
+L'honorable S.J. Savoie,
+juge suppléant
+DATE DU JUGEMENT :
+Le 30 juin 2006
+COMPARUTIONS :
+Pour l'appelant :
+L'appelante elle-même
+Pour l'intimé :
+Me Marie-Claude Landry
+AVOCAT INSCRIT AU DOSSIER:
+Pour l'appelant :
+Nom :
+Étude :
+Pour l'intimé :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

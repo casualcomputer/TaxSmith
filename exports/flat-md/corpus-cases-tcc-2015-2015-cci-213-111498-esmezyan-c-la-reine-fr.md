@@ -1,0 +1,175 @@
+---
+title: "Esmezyan c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/111498/index.do"
+last_modified: "2015-08-26"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2015 CCI 213"
+citation2: ""
+neutral_citation: "2015 CCI 213"
+decision_date: "2015-08-26"
+language: "fr"
+item_id: "111498"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2632
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T16:23:24.446000+00:00"
+cases_cited_count: 2
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "058ea8fe9ae1268e08d3d090e744e0c6fa2c86034aacbcc0422c00ed64fe13d6"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Esmezyan c. La Reine
+
+- Citation: 2015 CCI 213
+- Decision date: 2015-08-26
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2632, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Esmezyan c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2015-08-26
+Référence neutre
+2015 CCI 213
+Numéro de dossier
+2014-3733(GST)APP
+Juges et Officiers taxateurs
+Paul Bédard
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2014-3733(GST)APP
+ENTRE :
+SAHIN ESMEZYAN,
+requérant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Demande entendue le 25 février 2015, à Montréal (Québec).
+Devant : L’honorable juge suppléant Paul Bédard
+Comparutions :
+Avocat du requérant :
+Me Mark Sumbulian
+Avocate de l’intimée :
+Me Nadja Chatelois
+JUGEMENT
+Vu la demande du requérant en vue d’obtenir une ordonnance prolongeant le délai dans lequel un avis d’opposition à la cotisation établie en vertu de la Loi sur la taxe d’accise, dont l’avis est daté du 27 septembre 2013 et porte le numéro F-047557, peut être déposé;
+Et vu les observations des parties;
+La demande est rejetée pour les motifs énoncés dans les motifs du jugement ci‑joints.
+Signé à Bromont (Québec), ce 26e jour d’août 2015.
+« Paul Bédard »
+Juge suppléant Bédard
+Référence : 2015 CCI 213
+Date : 20150826
+Dossier : 2014-3733(GST)APP
+ENTRE :
+SAHIN ESMEZYAN,
+requérant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Bédard
+[1] Le 17 octobre 2014, le requérant a déposé une demande en vertu de la Loi sur la taxe d’accise, partie IX (la « LTA »), pour proroger le délai pour présenter un avis d’opposition à l’encontre d’une cotisation établie par l’intimée par l’entremise du ministre du Revenu national (le « ministre »), dont l’avis est daté du 27 septembre 2013 et porte le numéro F-047557, visant la période du 30 avril 2011 au 25 octobre 2012 (la « demande de prorogation de délai »).
+[2] Les questions en litige sont les suivantes :
+a) La cotisation est-elle réputée avoir été reçue par le requérant le 27 septembre 2013 conformément au paragraphe 334(1) de la LTA?
+b) Les critères mentionnés à l’alinéa 303(7)b) de la LTA sont-ils respectés?
+Les faits [3] L’adresse indiquée sur l’avis de cotisation est le 154, rue Jean‑Paul‑Lemieux à Notre-Dame-de-l’Île-Perrot, soit la dernière adresse connue du requérant au moment où la cotisation a été établie (l’« adresse »).
+[4] En effet, le requérant n’a signalé aucun changement d’adresse avant le 27 septembre 2013.
+[5] La cotisation fut acheminée à l’adresse par courrier recommandé par l’intermédiaire de Postes Canada.
+[6] Le 2 octobre 2013, l’accusé de réception de la cotisation fut signé par la conjointe du requérant. Il convient de souligner que la preuve a révélé que le requérant n’habitait plus avec sa conjointe à cette époque, ces derniers étant en instance de divorce.
+[7] Le 8 novembre 2013, une lettre intitulée [TRADUCTION] « Demande de paiement » (la « lettre », pièce I‑3), adressée au requérant par la Direction générale du recouvrement de l’Agence du revenu du Québec (l’« Agence ») et indiquant que le requérant devait une somme de 183 042,47 $, fut acheminée par courrier ordinaire au requérant.
+[8] Le 29 novembre 2013, le requérant et M. Jonathan Lamond, un agent de recouvrement de l’Agence, ont eu une conversation téléphonique relativement à une lettre que le requérant avait reçue de l’Agence.
+[9] Le 3 juin 2014, le requérant a présenté au ministre une demande de prorogation du délai pour déposer un avis d’opposition à l’encontre de la cotisation. Le délai pour présenter au ministre un avis d’opposition avait expiré le 26 décembre 2013.
+[10] Le 18 septembre 2014, le ministre a envoyé au requérant un avis l’informant qu’il ne pouvait faire droit à sa demande de prorogation.
+[11] Le 17 octobre 2014, le requérant a déposé la demande de prorogation de délai devant cette Cour.
+Position du requérant [12] Le requérant soutient essentiellement que, dans le délai imparti pour déposer un avis d’opposition (délai qui a expiré le 26 décembre 2013), il n’a pu agir ni mandater quelqu’un pour agir en son nom puisqu’il n’a eu connaissance de la cotisation qu’en mai 2014, sa conjointe ne lui ayant pas remis l’avis de cotisation. Par ailleurs, il prétend qu’il a agi avec diligence pour présenter la demande de prorogation au ministre dès qu’il a eu connaissance de la cotisation.
+Témoignage du requérant [13] Le témoignage du requérant pourrait se résumer ainsi :
+a) Au moment où la cotisation lui avait été acheminée, il était en instance de divorce et seule sa conjointe résidait à l’adresse. Sa conjointe ne lui avait jamais remis l’avis de cotisation et la lettre. Je souligne que le requérant a témoigné que sa conjointe lui avait cependant remis la correspondance émanant du ministre relativement aux sociétés dont il était administrateur et des dettes fiscales impayées desquelles il est tenu responsable aux termes de la cotisation.
+b) Ce n’était qu’en mai 2014 qu’il avait pris connaissance de la cotisation. En effet, au début du mois de mai de cette même année, il avait appris avec stupéfaction que ses comptes bancaires avaient été saisis par le ministre. Ne comprenant pas la raison d’être de ces saisies, il avait alors rencontré Mariusz Wojcik, un agent de recouvrement de l’Agence, pour obtenir des explications. Ce dernier lui aurait non seulement appris l’existence de la cotisation, mais lui en aurait aussi remis une copie.
+c) En septembre 2013, il avait eu deux conversations téléphoniques avec M. Wojcik. Selon le requérant, M. Wojcik essayait essentiellement d’obtenir de l’information relativement aux opérations de Laboratoires Bio-Botanical inc., dont il était administrateur. Le témoignage du requérant à cet égard mérite d’être cité :
+[TRADUCTION]
+JUGE BÉDARD : Et la deuxième fois, c’était aussi au sujet de la compagnie; on essayait d’obtenir des renseignements concernant la compagnie. C’est ça?
+M. ESMEZYAN : Oui.
+JUGE BÉDARD : O.K.
+Me SUMBULIAN : O.K. Si je vous demandais : qu’est‑ce qu’il vous a dit -- qu’est-ce qu’il vous a dit dans ces conversations?
+M. ESMEZYAN : Il y avait un formulaire – euh -- je lui ai dit que -- j’ai expliqué autant que je le pouvais la faillite de Bio‑Botanical et l’impact que Chef Woo Noodles et Pinnacle Spices ont eu là‑dessus, et le fait que la comptabilité était mal tenue au moment où les syndics sont venus prendre ---
+Me SUMBULIAN : Euh, M. Esmezyan ---
+M. ESMEZYAN : -- tous les livres et documents.
+Me SUMBULIAN : -- ma question n’était pas : qu’est‑ce que vous lui avez dit? Je vous demande : qu’est‑ce qu’il vous a dit? A‑t‑il -- c’est‑à‑dire, qu’est‑ce qu’il ---
+M. ESMEZYAN : Bien, il m’a dit ---
+Me SUMBULIAN : -- vous a dit concernant la situation, la raison pour laquelle il ---
+M. ESMEZYAN : Oui. Il m’a dit ---
+Me SUMBULIAN : -- vous appelait?
+M. ESMEZYAN : Il m’a dit que la compagnie avait tout l’argent […] pour ce qui est de la TPS/TVQ et des retenues à la source, et je lui ai expliqué que ces chiffres étaient inexacts et il a dit : « Bien, il faut que ces dettes soient payées; si ce n’est pas la compagnie qui paie, il faudra que ce soit vous : Barry Abugov ou vous-même. » Je lui ai dit -- j’ai dit : « Bien, » j’ai dit, « nous ne -- je ne cherche pas à me soustraire à mes obligations. La vérité, quelle qu’elle soit, c’est seulement ça que je recherche. » Et c’est là‑dessus que la conversation a pris fin.
+Me SUMBULIAN : O.K. Y a‑t‑il eu des discussions concernant la cotisation établie à votre égard?
+M. ESMEZYAN : Il n’y a eu aucune discussion de mon cas; c’était toujours la compagnie, et quand il a dit : « Bien, si la compagnie n’a pas d’argent, et – et -- et vous autres vous ne produisez pas les choses comme il faut, alors, vous savez, vous serez responsables. » Et je lui ai dit, j’ai dit : « Je ne me sauve pas. Je suis là. »
+JUGE BÉDARD : Alors, il vous a dit que vous serez responsable?
+M. ESMEZYAN : Oui.
+JUGE BÉDARD : C’est ça?
+d) Le 29 novembre 2013, le requérant a parlé à M. Lamond de l’Agence concernant une lettre qu’il avait reçue du ministre. M. Lamond lui avait suggéré de parler plutôt à M. Wojcik, qui avait la responsabilité de son dossier de perception. Je souligne que le requérant a précisé que la lettre dont il avait été question lors de cette conversation n’était pas celle du 8 novembre 2013 puisqu’il n’avait pas reçu celle‑ci (voir le paragraphe 13a) ci‑dessus). Le témoignage du requérant à l’égard de la nature de l’autre lettre mérite aussi d’être cité :
+[TRADUCTION]
+M. ESMEZYAN : Juste être écouté, vous savez.
+Me SUMBULIAN : M. Esmezyan, vous avez entendu le témoignage du représentant de Revenu Québec. Il a dit qu’il a eu une conversation avec vous en novembre 2013.
+M. ESMEZYAN : Oui.
+Me SUMBULIAN : Et il a dit que vous -- vous leur avez dit que vous aviez reçu un document de Revenu Québec. Pourriez-vous expliquer, s’il vous plaît, à votre connaissance, de quoi il parle?
+M. ESMEZYAN : J’ai reçu beaucoup de documents et j’ai rempli les blancs parce qu’ils n’avaient aucune idée qui était le président, qui étaient les administrateurs, ce qu’était Bio‑Botanical. Il y a eu une faillite majeure au 11 000 Baie‑d’Urfé, une aire industrielle de 700 000 pieds carrés; trois compagnies majeures ont fait faillite. Bio‑Botanical était la plus petite et, quand le syndic est venu, il a emporté tous les livres et documents. Revenu Québec et Revenu Canada n’avaient aucune idée de ce qui se passait. J’ai rempli pour eux de nombreux formulaires de demande. Comme je ---
+Le droit [14] La LTA prévoit qu’un contribuable dispose d’un délai de 90 jours à partir de la date de la mise à la poste d’un avis de cotisation pour produire un avis d’opposition à l’égard de celui-ci.
+[15] Le paragraphe 335(10) de la LTA prévoit que la date de mise à la poste d’un avis de cotisation est réputée être la date qui apparaît sur l’avis. De plus, le paragraphe 334(1) de la LTA ajoute une seconde présomption, selon laquelle un avis de cotisation est réputé reçu par le destinataire à la date de la mise à la poste.
+[16] Le législateur fédéral a créé une présomption absolue de réception de l’avis de cotisation dès sa mise à la poste. Les autorités fiscales n’ont qu’à démontrer que les règles d’envoi postal applicables au ministère ont été suivies pour que joue cette présomption absolue et irréfragable de réception de l’avis de cotisation en litige. La non-réception de l’avis de cotisation ne peut donc servir de motif de prorogation de délai (voir Abraham c. La Reine, 2004 CCI 380; Schafer c. Canada, [1998] A.C.I. no 459 (QL); Kovacevic c. Canada, 2003 CAF 293; Nasha Properties Ltd. c. Canada, [1998] A.C.I. no 99 (QL)).
+[17] La décision de la Cour d’appel fédérale dans Schafer c. Canada, [2000] A.C.F. no 1480 (QL), replace dans son contexte ce choix du législateur, non sans en décrier la rigidité et les conséquences en ce qui concerne la perte de recours par le contribuable. Par contre, la Cour d’appel fédérale reconnaît que le Parlement a le droit d’adopter de telles présomptions et elle y a donné effet.
+[18] De plus, il appartient au contribuable de tenir les autorités fiscales au courant de son adresse postale et de leur fournir ses coordonnées exactes, selon les enseignements de la Cour d’appel fédérale dans l’arrêt Denelzen c. Canada, [1998] A.C.F. no 1450 (QL).
+Conclusion [19] Tel qu’il a été mentionné précédemment, la non-réception de l’avis de cotisation ne peut servir de motif de prorogation du délai. De toute façon, le requérant ne m’a pas convaincu qu’il n’avait pas reçu l’avis de cotisation et la lettre, compte tenu de son témoignage selon lequel sa conjointe lui avait remis par ailleurs la correspondance émanant du ministre relativement aux sociétés dont il était administrateur et des dettes fiscales desquelles il est tenu responsable aux termes de la cotisation. Seuls le témoignage de sa conjointe et le dépôt en preuve de la lettre qui était à la base de la conversation téléphonique avec M. Lamond auraient pu permettre de dissiper mes doutes quant à la crédibilité du requérant. Le requérant était en mesure de produire ces deux éléments en preuve. Il ne l’a pas fait. J’en infère que ces deux éléments de preuve lui auraient été défavorables.
+[20] Pour ces motifs, la demande est rejetée.
+Signé à Bromont (Québec), ce 26e jour d’août 2015.
+« Paul Bédard »
+Juge suppléant Bédard
+RÉFÉRENCE :
+2015 CCI 213
+Nº DU DOSSIER DE LA COUR :
+2014-3733(GST)APP
+INTITULÉ DE LA CAUSE :
+SAHIN ESMEZYAN c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Montréal (Québec)
+DATE DE L’AUDIENCE :
+Le 25 février 2015
+MOTIFS DU JUGEMENT PAR :
+L’honorable juge suppléant Paul Bédard
+DATE DU JUGEMENT :
+Le 26 août 2015
+COMPARUTIONS :
+Avocat du requérant :
+Me Mark Sumbulian
+Avocate de l’intimée :
+Me Nadja Chatelois
+AVOCATS INSCRITS AU DOSSIER :
+Pour le requérant :
+Me Mark Sumbulian
+Cabinet :
+Montréal (Québec)
+Pour l’intimée :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada

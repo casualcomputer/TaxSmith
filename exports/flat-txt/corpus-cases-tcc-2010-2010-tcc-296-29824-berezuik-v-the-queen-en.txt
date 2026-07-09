@@ -1,0 +1,281 @@
+Title: Berezuik v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29824/index.do
+Corpus path: corpus/cases/tcc/2010/2010-tcc-296-29824-berezuik-v-the-queen-en.md
+Document type: case_law
+Last modified: 2010-06-02
+
+# Berezuik v. The Queen
+
+- Citation: 2010 TCC 296
+- Decision date: 2010-06-02
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6567, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Berezuik v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-06-02
+Neutral citation
+2010 TCC 296
+File numbers
+2007-739(IT)I
+Judges and Taxing Officers
+Steven K. D'Arcy
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2007-739(IT)I
+BETWEEN:
+DENNIS BEREZUIK,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on common evidence with the appeals of
+Bonnie Berezuik, 2007-740(IT)I and Bonnie and Dennis Berezuik,
+2007-2075(GST)I on January 29, 2010, at Saskatoon, Saskatchewan,
+and continued by conference call on March 3, 2010, at Ottawa, Ontario
+Before: The Honourable Justice Steven K. D'Arcy
+____________________________________________________________________
+Appearances:
+For the Appellants:
+Dennis Berezuik
+Counsel for the Respondent:
+Brooke Sittler
+____________________________________________________________________
+JUDGMENT
+The appeals with respect to reassessments made under the Income Tax Act for the 1998, 1999, and 2000 taxation years are allowed.
+The reassessment dated February 25, 2005 in respect of the Appellant’s 1999 taxation year is vacated. All penalties will be removed.
+The reassessments dated February 25, 2005 in respect of the Appellant’s 1998 and 2000 taxation years are referred back to the Minister for reconsideration and reassessment on the basis the reassessments were statute-barred and thus are invalid. As a result, the penalties will be removed subject to the $12,000 limitation contained in section 18.1 of the Tax Court of Canada Act.
+The Appellant is awarded costs of $1,000.
+The $100 filing fee is to be refunded to the Appellant.
+Signed at Ottawa, Canada, this 2nd day of June 2010.
+“S. D’Arcy”
+D'Arcy J.
+Docket: 2007-740(IT)I
+BETWEEN:
+BONNIE BEREZUIK,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on common evidence with the appeals of
+Dennis Berezuik, 2007-739(IT)I and Bonnie and Dennis Berezuik,
+2007-2075(GST)I on January 29, 2010, at Saskatoon, Saskatchewan,
+and continued by conference call on March 3, 2010, at Ottawa, Ontario
+Before: The Honourable Justice Steven K. D'Arcy
+____________________________________________________________________
+Appearances:
+For the Appellants:
+Dennis Berezuik
+Counsel for the Respondent:
+Brooke Sittler
+____________________________________________________________________
+JUDGMENT
+The appeals with respect to reassessments made under the Income Tax Act for the 1998, 1999, and 2000 taxation years are allowed.
+The reassessments dated February 25, 2005 in respect of the Appellant’s 1999 and 2000 taxation years are vacated. All penalties will be removed.
+The reassessment dated February 25, 2005 in respect of the Appellant’s 1998 taxation year is referred back to the Minister for reconsideration and reassessment on the basis the reassessment was statute-barred and thus is invalid. As a result, the penalties will be removed subject to the $12,000 limitation contained in section 18.1 of the Tax Court of Canada Act.
+The Appellant is awarded costs of $1,000.
+The $100 filing fee is to be refunded to the Appellant.
+Signed at Ottawa, Canada, this 2nd day of June 2010.
+“S. D’Arcy”
+D'Arcy J.
+Docket: 2007-2075(GST)I
+BETWEEN:
+BONNIE AND DENNIS BEREZUIK,
+Appellants,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeals of
+Dennis Berezuik, 2007-739(IT)I and Bonnie Berezuik, 2007-740(IT)I
+on January 29, 2010, at Saskatoon, Saskatchewan,
+and continued by conference call on March 3, 2010, at Ottawa, Ontario
+Before: The Honourable Justice Steven K. D'Arcy
+____________________________________________________________________
+Appearances:
+For the Appellants:
+Dennis Berezuik
+Counsel for the Respondent:
+Brooke Sittler
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment made under the Excise Tax Act, which bears the reference number 611230466 09FS, is allowed in full.
+The reassessment is referred back to the Minister for reconsideration and reassessment on the basis that the Appellant’s net tax for each of the assessed reporting periods is the amount reported on its GST tax return as filed. All penalties will be removed.
+There will be no order with respect to costs.
+The $100 filing fee is to be refunded to the Appellants.
+Signed at Ottawa, Canada, this 2nd day of June 2010.
+“S. D’Arcy”
+D'Arcy J.
+Citation: 2010 TCC 296
+Date: 20100602
+Docket: 2007-739(IT)I
+BETWEEN:
+DENNIS BEREZUIK,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Docket: 2007-740(IT)I
+AND BETWEEN:
+BONNIE BEREZUIK,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Docket: 2007-2075(GST)I
+AND BETWEEN:
+BONNIE AND DENNIS BEREZUIK,
+Appellants,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+D'Arcy J.
+[1] The Appellants have filed three separate appeals. In the first appeal, Bonnie Berezuik has appealed income tax reassessments in respect of her 1998, 1999, and 2000 taxation years. In the second appeal, Dennis Berezuik has appealed income tax reassessments in respect of his 1998, 1999, and 2000 taxation years. In the third appeal, a partnership that carried on business as Berezuik Farms[1] (I will refer to this partnership as the “Farming Partnership”) has appealed a GST reassessment in respect of its GST reporting periods that began on January 1, 1998 and ended on December 31, 2000.
+[2] The three appeals were heard together on common evidence.
+[3] The income tax issue before the Court is whether the Minister of National Revenue (the “Minister”) has properly assessed the Appellants under the Income Tax Act for unreported income and subsection 163(2) penalties in respect of statute-barred years. The GST issue is whether the Minister has properly assessed the Appellant for over claiming input tax credits in respect of mostly statute-barred periods and the gross negligence penalty imposed by section 285 of Part IX of the Excise Tax Act (the “GST Legislation”).
+[4] I will first address the income tax appeals.
+Background
+[5] Mr. and Mrs. Berezuik are farmers. Mrs. Berezuik also works as a nurse. During the relevant years, they carried on the farm business through the Farming Partnership. There were three equal partners in the partnership: Mr. Berezuik, Mrs. Berezuik and their son, Shaun Berezuik.
+[6] Mr. Berezuik and his son also carried on a trucking business through a partnership. Mr. Berezuik held a 10% interest in this partnership (I will refer to this as the “Trucking Partnership”).
+[7] The Appellants filed income tax returns for the relevant years and reported income and losses from the following sources: the Farming Partnership (Mr. and Mrs. Berezuik), the Trucking Partnership (Mr. Berezuik), employment income (Mrs. Berezuik), Workers’ Compensation Benefits (Mr. Berezuik), and a small amount of investment income (Mr. Berezuik). In assessing the Appellants, the Minister assumed that the noted sources were the Appellants’ only sources of income.
+[8] The Canada Revenue Agency (the "CRA") performed an audit of the Appellants for each of the relevant taxation years. At some point during the audit, the CRA auditor determined that the Appellants’ standard of living and accumulation of assets were inconsistent with the income reported by the Appellants and that the Farming Partnership and the Trucking Partnership did not maintain adequate records.[2] Because of these determinations, the CRA auditor elected to conduct a net worth analysis.
+[9] After completing his net worth analysis, the CRA auditor reached the following conclusions:
+- The income of Mrs. Berezuik for the 1998, 1999 and 2000 taxation years was understated by no less than $123,889, $78,432, and $66,307 respectively.[3]
+- The income of Mr. Berezuik for the 1998, 1999 and 2000 taxation years was understated by no less than $122,257.54, $68,881.71 and $99,976.31 respectively.[4]
+[10] When assessing the Appellants, the CRA allowed the Appellants to reduce the amount of their revised income by increasing the capital cost allowance claimed by the Farming Partnership. This resulted in the Minister issuing reassessments, on February 25, 2005, to adjust the Appellants’ total income as follows:
+- The income of Mrs. Berezuik for the 1998, 1999 and 2000 taxation years was increased (decreased) by $815.71, $4,775.24, and ($16,835.62) respectively.[5]
+- The income of Mr. Berezuik for the 1998, 1999 and 2000 taxation years was increased (decreased) by ($815), ($4,775) and $16,835 respectively.[6]
+[11] However, the Minister assessed penalties under subsection 163(2) based upon the unreported income before the adjustment for the additional capital cost allowance. In particular, the Appellants were assessed penalties of $72,058.15 as follows:
+Mr. Berezuik[7]
+Mrs. Berezuik[8]
+1998
+$15,840.00
+$17,203.00
+1999
+8,341.80
+9,891.40
+2000
+12,767.15
+8,014.80
+Total
+$36,948.95
+$35,109.20
+[12] The Appellants have appealed the reassessments. Since the reassessments were issued after the expiry of the three-year assessment period provided for in subsections 152(3.1) and (4), the onus is on the Respondent for each of these years to prove, on a balance of probabilities, that the Appellants made misrepresentations that were attributable to neglect, carelessness or wilful default.
+[13] The burden of establishing the facts justifying the imposition of the gross negligence penalties is also on the Minister.[9]
+[14] Before considering whether the Respondent has satisfied the onus placed on it, I will address the issue of whether the Appellants maintained proper books and records.
+[15] The Appellants testified that they maintained detailed books and records and provided five boxes containing these records to the CRA auditor. Mrs. Berezuik testified that she spent a significant amount of time maintaining and organizing the books and records. She prepared a manila folder for each category of expenses and placed invoices for each of the expenses into the relevant manila folder. She also retained copies of all cheques relating to the business. During the hearing, I reviewed a manila folder containing the invoices for capital expenditures for one of the relevant years.
+[16] I accept the testimony of Mrs. Berezuik that the books and records were prepared and were available to the CRA auditor. As a result, it is not clear to me why the auditor conducted a net worth analysis. The net worth analysis is a method of last resort. The method should only be used where, due to a lack of reliable records, approaches that are more conventional cannot be used. However, as this Court has noted on numerous occasions, it is open to the Minister under subsection 152(7) to use the net worth method whenever he considers it appropriate.[10] It is not the role of this Court to question the use of the net worth method by the Minister to assess the Appellants; rather I must, based upon the evidence before me, determine the correctness of the assessments at issue.
+The evidence of the Respondent with respect to unreported income
+[17] The foundation of the Respondent’s case is the 26 pages of schedules attached to its Reply to the Notice of Appeal (the “Net Worth Schedules”), which purport to be the details of the net worth analysis performed by the CRA auditor. The schedules are barely comprehensible. This is due largely to the fact that a number of the schedules prepared by the auditor are missing.
+[18] The CRA auditor who prepared the net worth assessment did not testify. The main witness for the Respondent was Ms. Angela Taylor. Ms. Taylor is the CRA appeals officer who dealt with the Appellants’ Notices of Objection. Ms. Taylor attempted to explain the calculations contained in the Net Worth Schedules.
+[19] It was clear from Ms. Taylor’s testimony that she did not completely understand the calculations and, in certain instances, did not have knowledge of the assumptions made by the auditor when he performed the net worth assessment. This is not a reflection of Ms. Taylor's skills. As I noted previously, the schedules were incomplete and barely comprehensible.
+[20] It is also clear that the CRA auditor did not explain the calculations to the Appellants. This left them in the difficult (if not impossible) position of attempting to refute calculations that they did not understand. Mr. Berezuik was, however, able to explain to the Court the nature of certain items included in the schedules.
+[21] Based upon the testimony of Ms. Taylor, Mr. Berezuik, and Mrs. Berezuik, and after a detailed review of the schedules, I have determined the following:
+1. The net worth calculation had a number of components.
+2. The Court was not provided with the complete net worth calculation.
+3. The CRA made material errors when estimating the change in net worth of the Appellants.
+The Components of the Net Worth Calculation
+[22] The first page of the Net Worth Schedule contains a summary of the CRA's calculation of the purported unreported income of the Appellants. This summary page shows that the CRA auditor first combined the following three items:
+1. An estimate of the combined change in personal net worth of Mr. and Mrs. Berezuik.
+2. An estimate of the change in net worth of the Farming Partnership (two‑thirds of the change was allocated to Mr. and Mrs. Berezuik).
+3. An estimate of the combined personal consumption of Mr. and Mrs. Berezuik, adjusted for miscellaneous items such as a personal income tax payment by Mr. Berezuik, source deductions of Mrs. Berezuik, and an item referred to as “Driveway personal expenditure.”
+[23] The auditor then deducted from the amount, determined by combining the three items, the income reported by Mr. and Mrs. Berezuik on their filed income tax returns. One-half of the amount determined was allocated to Mrs. Berezuik and one-half to Mr. Berezuik. The amount allocated to Mr. Berezuik was adjusted for his share of the change in net worth of the Trucking Partnership (10% of the change was allocated to Mr. Berezuik).
+The Missing Evidence
+[24] The remaining 25 pages of the Net Worth Schedules are supposed to evidence how the auditor arrived at the numbers that appear on the summary page. The Respondent relied upon these 25 pages to satisfy the onus placed on it with respect to its ability to assess statute-barred years and levy the section 163 penalties. The problem for the Respondent is that a number of the schedules that evidence how the CRA auditor arrived at the numbers that appear on the summary page are not included in the Net Worth Schedules and were not otherwise provided to the Court.
+[25] The first set of missing schedules is the set of schedules that explain the net worth calculation for the Trucking Partnership. Further, Ms. Taylor did not provide any evidence relating to the partnership. The only evidence before the Court relating to the Trucking Partnership is a one-line reference to the partnership that appears on the summary page. I raised this lack of evidence relating to the Trucking Partnership with counsel for the Respondent. She was not able to provide the Court with the missing schedules.
+[26] The second set of missing schedules is the set of schedules containing the auditor’s calculation of the change in net worth of the Farming Partnership before any adjustments for capital cost allowance. The auditor used these calculations to determine the amount of the section 163 penalties. The set of schedules filed with the Court contains the auditor's calculation of the change in net worth of the Farming Partnership after the adjustment for additional capital cost allowance. During the hearing, Ms. Taylor tried to reconcile the set of schedules filed with the Court with the purported unreported income of the Appellants noted in the summary page of the Net Worth Schedules (i.e. the amounts used to determine the penalties). She was somewhat successful. Although she was not able to identify all of the items considered by the auditor, she was able to identify the majority of items used by the auditor when estimating the unreported income of the Appellants.
+Material Errors in Net Worth Calculation
+[27] During the hearing, it became apparent that the net worth calculations contained a number of serious errors.
+[28] The first error is contained in the calculation of the change in personal net worth of the Appellants. This calculation is detailed in Schedule 4 of the Net Worth Schedules. The Schedule shows the Appellants' investments increasing from a negligible amount between 1997 and 1999 to $83,240 in 2000. The $83,240 is identified in Schedule 9 of the Net Worth Schedules as amounts held in a registered retirement savings plan.
+[29] In short, the CRA concluded that, in a single year, the Appellants contributed over $83,000 to their RRSPs. It is not clear to me how such a conclusion could be made, in light of the annual statutory limit for RRSP contributions. Ms. Taylor was not aware of the assumptions made by the CRA auditor when he included the amount in the net worth calculation.
+[30] Mr. Berezuik testified that the $83,000 existed prior to 2000; it represented transfers from employer controlled RSPs to the RRSPs of the Appellants. By only including the amount in 2000 and subsequent years, the CRA over-stated the increase in the Appellants' personal net worth in 2000 by $83,000. Counsel for the Respondent accepted that this error overstated the calculated net worth of the Appellants.
+[31] A second error occurred when the CRA attempted to determine the change in net worth of the Farming Partnership. The auditor's schedule containing the calculations shows no inventory in 1997, grain inventory of $1,000 in 1998, grain inventory of $307,500 in 1999 and grain inventory of $400,000 in 2000. Ms. Taylor could not explain to me either the nature of the grain inventory, or why it was included in the net worth calculation.
+[32] Mr. Berezuik testified that the inventory numbers represented grain grown on his farm. The amounts were large in 1999 and 2000 because of "bumper" crops.
+[33] The important point for purposes of the net worth calculation is the fact that the amounts shown as inventory did not represent assets acquired by the partnership from third parties or proceeds from the sale of assets. The amounts represented the value of an asset grown on the farm. The increase in value of the inventory did not arise from a cash outlay. The Respondent's counsel agreed that in such a situation the inventory should not have been included in the net worth calculation. By including the inventory in the net worth calculation, the CRA overstated the increase in the net worth of the Farm Partnership allocated to the Appellants by $204,333 in 1999 (two-thirds of the error) and $61,666 in 2000 (two-thirds of the error) in 2000.
+[34] A third error relates to the methodology used by the CRA auditor: he conducted a single net worth calculation for the two Appellants. As Bowie J. stated at paragraph 17 in Francisco vs. Canada, above:
+17 … it can never be valid to combine the assets and the liabilities of two different taxpayers for the purpose of computing an estimate of their combined incomes because the effect is to assume, quite incorrectly, that any changes in the assets and any changes in the liabilities of either one of them during the period being assessed are shared between them …
+[35] Without the missing schedules, it is not possible to determine the total effect the error had on the calculations. However, based upon the evidence before me, it is clear that the error materially affected the calculations. For example, each of Mrs. Berezuik and Mr. Berezuik was given credit for 50% of the income reported by the other on his or her income tax return. This resulted in the auditor allocating over $93,000 of Mr. Berezuik's income to Mrs. Berezuik and over $18,600 of Mrs. Berezuik’s to Mr. Berezuik. Such an error clearly distorts the net worth calculations for each of the taxpayers.
+[36] Another error was brought to the Court’s attention during closing argument. Counsel for the Respondent noted that the CRA auditor had made an $87,800 error prior to 1999 by failing to include the mortgage on the Appellants' home.
+[37] In light of the magnitude and nature of these errors, the Respondent’s failure to provide any evidence with respect to the net worth calculation for the Trucking Partnership and the missing schedules relating to the Farming Partnership, it is not possible for the Court to give any weight to the Net Worth Schedules.
+[38] The CRA auditor determined that, for the 1999 taxation year, the Appellants had unreported income of $156,864.38.[11] However, as counsel for the Respondent acknowledged, the amount allocated to the Appellants for 1999 in respect of the Farm Partnership is overstated by $204,333. If one only adjusts the CRA's calculation for this overstatement, the income reported by the Appellants on their tax returns exceeds their income, as calculated by the auditor, by $47,469.
+[39] Errors of a similar magnitude are contained in the calculations for the 2000 taxation year. Page one of the Net Worth Schedules states that the Appellants had unreported income in 2000 of $132,614.15.[12] However, this includes the errors of approximately $83,000 relating to the RRSPs and $61,666 relating to the grain inventory. These errors, which total $144,666, exceed the unreported income calculated by the auditor.
+[40] If the Net Worth Schedules retain any credibility after the magnitude of the errors is considered, the remaining credibility is lost once one considers the nature of the errors. The error relating to the grain, equal to 130% of the calculated unreported income, did not involve the acquisition of an asset. It is difficult for the Court to understand the basis for including the value of grain grown on the Appellants' farm in the net worth calculation. The error relating to the RRSP involved the auditor assuming that the Appellant could, in a single year, contribute $83,000 to an RRSP. It was not reasonable for the auditor to make such an assumption. These two errors, together with the auditor’s error arising from his decision to conduct a single net worth calculation for two Appellants, led to the conclusion that the net worth calculation is based upon a number of faulty assumptions.
+[41] As stated previously, the onus is on the Respondent for each of the statute‑barred years to establish that the Appellants made misrepresentations that were attributable to neglect, carelessness or wilful default and to establish that the penalties under subsection 163(2) were properly applied.
+[42] Clearly, the Respondent has not satisfied this onus. It based its case entirely on the Net Worth Schedules, evidence that is fatally flawed and can be given no weight by the Court. Therefore, the appeals must succeed since there is no evidence before the Court that the Appellants failed to report any income on their tax returns for the 1998, 1999 and 2000 taxation years.
+[43] Normally when the Court finds that the Minister was not entitled to assess statute-barred years, the relevant assessments or reassessments are vacated. Unfortunately, my judgment, as it relates to Mr. Berezuik's 1998 and 2000 taxation years and Mrs. Berezuik's 1998 taxation year, is subject to section 18.1 of the Tax Court of Canada Act. This section provides that every judgment under the Court's informal procedure be deemed to include a statement that the aggregate of all amounts in issue not be reduced by more than $12,000 or that the amount of the loss in issue not be increased by more than $24,000, as the case may be. The Appellants were made aware of this limitation prior to, and at the commencement of, the hearing. They elected to proceed under the Court's informal procedure since they could not afford counsel and wished to bring closure to the matter.
+[44] As a result, while the reassessments in respect of Mr. Berezuik’s 1999 taxation year and Mrs. Berezuik’s 1999 and 2000 taxation years will be vacated, it is not possible to vacate the reassessments in respect of Mr. Berezuik’s 1998 and 2000 taxation years and Mrs. Berezuik’s 1998 taxation year, due to the $12,000 limitation contained in section 18.1 of the Tax Court of Canada Act.
+[45] I would strongly suggest that the CRA's Fairness Committee review this matter and consider removing any remaining penalties or taxes.
+Summary
+[46] The appeals are allowed. The reassessments dated February 25, 2005 in respect of Mr. Berezuik's 1999 taxation year and Mrs. Berezuik's 1999 and 2000 taxation years are vacated. All penalties will be removed. The reassessments in respect of Mr. Berezuik's 1998 and 2000 taxation years and Mrs. Berezuik's 1998 taxation year are referred back to the Minister for reconsideration and reassessment on the basis the reassessments were statute-barred and thus are invalid. As a result, the penalties will be removed subject to the $12,000 limitation contained in section 18.1 of the Tax Court of Canada Act.
+[47] In light of the significant time and effort spent by the Appellants fighting an assessment that, in my view, the Minister should have been able to see was based upon calculations that were fatally flawed, I award each Appellant costs of $1,000.
+GST Appeal
+[48] On January 2, 2005, the Minister assessed the Farming Partnership for its quarterly reporting periods ending between January 1, 1998 and December 31, 2000 (the "Reporting Period"). The amounts assessed were subsequently adjusted pursuant to a reassessment issued by the Minister on November 30, 2006. It is my understanding that all of the Reporting Periods assessed were statute-barred, except for the last two periods.[13]
+[49] When filing its GST tax returns for the Reporting Periods, the Farming Partnership reported net tax of $(102,420.65) comprised of tax collected/collectable of $56,565.50 less input tax credits of $158,986.24.[14] The reassessment issued by the Minister increased the Farming Partnership's net tax for the Reporting Periods to $(88,437.48)[15] comprised of tax collected/collectable of $26,310.64[16] less input tax credits allowed of $114,782.12.[17]
+[50] The CRA determined that the Farming Partnership had over-stated its tax collectable and over-claimed its input tax credits. The Farming Partnership was assessed additional net tax of $13,983.13, the amount by which the over-claimed input tax credits exceeded the over-stated tax collectable. Based upon paragraphs 3 to 6 of the Reply to the Notice of Appeal, I have determined that the Farming Partnership was also assessed interest of $3,808.09, a penalty under section 280[18] of $6,630.17, and a gross negligence penalty under section 285 of $4,361.28.
+[51] Similar to the income tax appeals, the Respondent bears the onus of establishing that the Farming Partnership made misrepresentations that allowed the Minister to assess the statute-barred periods under subsection 298(4) and that the conditions of section 285 were satisfied.
+[52] The CRA auditor, after concluding that the Farming Partnership did not maintain proper books and records, determined the net tax of the Farming Partnership using the amounts reported on the T1 income tax returns of the partners (Mr. Berezuik, Mrs. Berezuik and their son). The auditor's calculations were attached as Schedules I, II and III to the Respondent's Reply to the Notice of Appeal.
+[53] The Respondent has relied upon these schedules to satisfy the onus placed on it with respect to the statute-barred years and the gross negligence penalty.
+[54] Schedule II contains the auditor's calculations of tax collected/collectable by the Farming Partnership. The auditor began by determining the total sales of the Farming Partnership as reported on the partners' T1 returns. He then reduced the amount by revenue not subject to GST at 7%, namely zero-rated supplies (grain, oilseeds), crop insurance receipts, supplies made outside of Canada, and other miscellaneous amounts. While, theoretically, I accept the methodology used, the fact that the amount determined by the CRA to be the tax collectable for the Reporting periods was only 53% of the amount reported by the Farming Partnership on its GST tax returns, brings into question the reasonableness of the amount calculated by the auditor. A taxpayer does not normally overstate the amount of tax that it has collected and is required to remit.
+[55] Schedule III to the Respondent's Reply to the Notice of Appeal contains the auditor's calculation of the allowable input tax credits of the Farming Partnership. The calculation begins with the total Farming Partnership expenses as reported on the partners' T1 income tax returns. This amount is then reduced by the following expenses that did not generate input tax credits: depreciation, inputs that constituted exempt or zero-rated supplies, salaries and wages, insurance, interest expense, property taxes, inputs that were supplied outside of Canada and “other non‑registrant expenses”.[19]
+[56] The amount is then increased by the capital additions of the Farming Partnership. Schedule III evidences that the additions were taken from the T1 income tax returns. However, the amounts shown for capital additions ($86,150) is substantially less that the capital additions determined by the auditor in the Net Worth Schedules. Schedules 7(a), (b) and (c) of the Net Worth Schedules show total capital additions of $1,187,778, and provide a brief description of each capital addition. Based upon a review of the schedules and the evidence provided during the hearing, it is clear to me that the purchase of each capital item was subject to either Division II or Division III tax, and that the input tax credit documentary requirements were satisfied.
+[57] As a result, I find that the input tax credits shown on Schedule III to the Respondent's Reply to the Notice of Appeal understate the input tax credits of the Farming Partnership for the Reporting Periods by $77,114.[20] Adjusting the auditor’s calculations as shown in Schedules I, II and III for the input tax credit error, one is left with the Farming Partnership having over-remitted tax of $63,131, not under-remitted tax of $13,983.
+Summary
+[58] The Minister has not satisfied the onus placed on him with respect to the statute-barred periods and the section 285 penalties. With respect to any periods that are not statute-barred, there is no evidence before me to support a finding that the Appellant under-remitted tax. In fact, once the calculation prepared by the CRA is adjusted for the input tax credit error, the evidence indicates that the Farming Partnership over-remitted tax.
+[59] The appeal is allowed in full. The reassessment is referred back to the Minister for reconsideration and reassessment on the basis that the Appellant’s net tax for each of the assessed reporting periods is the amount reported on its GST tax return as filed. All penalties will be removed. There will be no order with respect to costs.
+Signed at Ottawa, Canada, this 2nd day of June 2010.
+“S. D’Arcy”
+D'Arcy J.
+CITATION: 2010 TCC 296
+COURT FILE NOS.: 2007-739(IT)I, 2007-740(IT)I,
+2007-2075(GST)I
+STYLE OF CAUSE: DENNIS BEREZUIK and THE QUEEN;
+BONNIE BEREZUIK and THE QUEEN;
+BONNE AND DENNIS BEREZUIK and THE QUEEN
+PLACE OF HEARING: Saskatoon, Saskatchewan
+Ottawa, Canada
+DATES OF HEARING: January 29, 2010
+March 3, 2010
+REASONS FOR JUDGMENT BY: The Honourable Justice Steven K. D'Arcy
+DATE OF JUDGMENT: June 2, 2010
+APPEARANCES:
+For the Appellants
+Dennis Berezuik
+Counsel for the Respondent:
+Brooke Sittler
+COUNSEL OF RECORD:
+For the Appellant:
+Name: N/A
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] The partnership also carried on business under the trade names, D&B&Son Farms and D&B&Son Custom Combine.
+[2] See paragraphs 12(e) and (f) of the Respondent’s Reply to Mrs. Berezuik Notice of Appeal and paragraphs 12(g) and (h) of the Respondent’s Reply to Mr. Berezuik Notice of Appeal.
+[3] Paragraph 12(y) of the Respondent’s Reply to Mrs. Berezuik Notice of Appeal.
+[4] Paragraph 12(dd) of the Respondent’s Reply to Mr. Berezuik Notice of Appeal.
+[5] Paragraph 9(a) of the Respondent’s Reply to Mrs. Berezuik Notice of Appeal.
+[6] Paragraph 9(a) of the Respondent’s Reply to Mr. Berezuik Notice of Appeal.
+[7] Paragraph 13(b) of the Respondent’s Reply to Mr. Berezuik Notice of Appeal.
+[8] Paragraph 13(b) of the Respondent’s Reply to Mrs. Berezuik Notice of Appeal.
+[9] See subsection 163(3) and Richard Boileau v. Minister of National Revenue, 89 DTC 247.
+[10] See, for example, Francisco v. Canada, [2003] 2 C.T.C. 2378, and Milkowski v. The Queen, 2007 DTC 1690.
+[11] Before consideration of Mr. Berezuik's 10% interest in the Trucking Partnership. See page 1 of the Net Worth Schedules.
+[12] Supra.
+[13] Although counsel for the Respondent could not confirm the actual reporting periods that were statute-barred, she confirmed that most of the reporting periods assessed were statute-barred.
+[14] Reply to the Notice of Appeal, Schedule I.
+[15] Reply to the Notice of Appeal, paragraph 5.
+[16] Reply to the Notice of Appeal, Schedule II
+[17] Reply to the Notice of Appeal, Schedule III.
+[18] All statutory references in this section are references to the provisions of the GST Legislation.
+[19] There appears to be a double counting of some of the exempt expenses (insurance and property taxes).
+[20] ($1,187,778 - $86,150) x 7%

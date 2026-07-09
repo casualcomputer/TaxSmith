@@ -1,0 +1,123 @@
+Title: Ross v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/169120/index.do
+Corpus path: corpus/cases/tcc/2016/2016-tcc-170-169120-ross-v-the-queen-en.md
+Document type: case_law
+Last modified: 2016-07-27
+
+# Ross v. The Queen
+
+- Citation: 2016 TCC 170
+- Decision date: 2016-07-27
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2931, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Ross v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2016-07-27
+Neutral citation
+2016 TCC 170
+File numbers
+2016-531(IT)I
+Judges and Taxing Officers
+Valerie A. Miller
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2016-531(IT)I
+BETWEEN:
+SHELLEY ROSS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on July 7, 2016, at Halifax, Nova Scotia
+Before: The Honourable Justice Valerie Miller
+Appearances:
+Agent for the Appellant:
+David Ross
+Counsel for the Respondent:
+Zeina El-Khoury, articled clerk
+Stan W. McDonald
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act for the Appellant’s 2013 taxation year is dismissed.
+Signed at Halifax, Nova Scotia, this 27th day of July 2016.
+“V.A. Miller”
+V.A. Miller J.
+Citation: 2016TCC170
+Date: 20160727
+Docket: 2016-531(IT)I
+BETWEEN:
+SHELLEY ROSS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+V.A. Miller J.
+[1] The issue in this appeal is whether, in 2013, the Appellant was entitled to deduct the amount of $4,989.73 pursuant to paragraph 8(1)(b) of the Income Tax Act. The amount claimed consisted of the following:
+Jurisprudence Exams
+$ 437.00
+Travel Expenses for Jurisprudence Exams
+1,407.00
+Urine Tests
+393.50
+Legal Fees
+2,752.23
+Total
+$4,989.73
+Facts [2] The Appellant has been a pharmacist since 1990. From 1990 to 2013, she worked as an employee at various pharmacies in Sydney, Nova Scotia. In 2013, three complaints of professional misconduct were made against her under the Pharmacy Act of Nova Scotia. The Nova Scotia College of Pharmacists held a discipline hearing with respect to the complaints and concluded that the proper method of disposing of the complaints was to enter into a Settlement Agreement with the Appellant.
+[3] According to the Settlement Agreement, the Appellant’s licence to practice pharmacy in Nova Scotia was suspended from August 21, 2013 to February 21, 2014. The Appellant was required to satisfy various conditions, including, enrolling, and successfully completing an Ethics Course at Mount Saint Vincent University in Halifax, Nova Scotia.
+[4] The amount of $4,989.73 claimed by the Appellant in 2013 was incurred in respect of her legal representation at the discipline hearing and the conditions in the Settlement Agreement which she had to satisfy.
+Law [5] Paragraph 8(1)(b) reads:
+8 (1) In computing a taxpayer’s income for a taxation year from an office or employment, there may be deducted such of the following amounts as are wholly applicable to that source or such part of the following amounts as may reasonably be regarded as applicable thereto
+Legal expenses of employee
+(b) amounts paid by the taxpayer in the year as or on account of legal expenses incurred by the taxpayer to collect, or to establish a right to, an amount owed to the taxpayer that, if received by the taxpayer, would be required by this subdivision to be included in computing the taxpayer’s income;
+Position of the Parties [6] It was the Appellant’s position that all of the expenses claimed by her were legal expenses because they were incurred as a result of the complaints under the Pharmacy Act.
+[7] Her representative argued that the expenses were deductible because the Appellant could not practice as a pharmacist if she had not paid these amounts. He stated that the expenses were incurred to preserve the Appellant’s ability to earn an income. There was a direct connection between the expenses claimed and the income earned by the Appellant.
+[8] It was the Respondent’s position that paragraph 8(1)(b) does not allow a taxpayer to deduct a legal expense which is incurred to preserve the ability to earn income.
+Analysis [9] All of the costs incurred by the Appellant were not legal expenses. Only the amount of $2,752.23, which the Appellant paid to defend against the complaints filed with the Nova Scotia College of Pharmacists, was a legal expense. Regardless, I have concluded that none of the amounts claimed by the Appellant are deductible pursuant to paragraph 8(1)(b) of the Act.
+[10] Paragraph 8(1)(b) has a narrow scope. It is intended to apply where an employee has incurred legal expenses in attempting to collect unpaid salary or wages, or in attempting to settle a dispute with an employer or former employer with respect to the amount of salary to which the employee is entitled: Fenwick v The Queen, 2008 FCA 370 at paragraph 7. Neither of those scenarios existed in the present appeal.
+[11] In the present appeal, the Appellant incurred legal expenses so that she could continue to practice as a pharmacist in Nova Scotia. The facts in this appeal are similar to those in Blagdon v The Queen, [2002] CTC 2332 (TCC). In Blagdon, the taxpayer’s Master’s Certificate was suspended. He had to appear at an enquiry and write an examination to protect his professional qualifications and to continue to earn income from employment as a ship’s captain. Captain Blagdon argued that paragraph 8(1)(b) should be interpreted broadly to permit a deduction for legal expenses incurred to protect one’s entitlement to pursue a particular livelihood. In dismissing Captain Blagdon’s appeal, Bowman, A.C.J.T.C., as he then was, stated at paragraph 15:
+Paragraph 8(1)(b) permits the deduction of legal expenses incurred to collect or establish a right to salary or wages.
+Captain Blagdon appealed this decision to the Federal Court of Appeal. In dismissing his appeal at Blagdon v The Queen, 2003 FCA 269, the Court stated:
+5 We are all of the view that the Tax Court Judge was correct in his interpretation of paragraph 8(1)(b). We do not accept that the words of paragraph 8(1)(b) can reasonably bear the interpretation proposed by counsel for Captain Blagdon. We can understand that a broad entitlement to a deduction for legal expenses for persons in the situation of Captain Blagdon might be justified on policy grounds but that is a matter for Parliament not the courts.
+[12] It is clear that the amount of $4,989.73 was not incurred by the Appellant to collect or establish a right to salary or wages. It was incurred to allow her to preserve a future right to work as a pharmacist.
+[13] The appeal is dismissed.
+Signed at Halifax, Nova Scotia, this 27th day of July 2016.
+“V.A. Miller”
+V.A. Miller J.
+CITATION:
+2016TCC170
+COURT FILE NO.:
+2016-531(IT)I
+STYLE OF CAUSE:
+SHELLEY ROSS AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Halifax, Nova Scotia
+DATE OF HEARING:
+July 7, 2016
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Valerie Miller
+DATE OF JUDGMENT:
+July 27, 2016
+APPEARANCES:
+Agent for the Appellant:
+David Ross
+Counsel for the Respondent:
+Zeina El-Khoury, articled clerk
+Stan W. McDonald
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

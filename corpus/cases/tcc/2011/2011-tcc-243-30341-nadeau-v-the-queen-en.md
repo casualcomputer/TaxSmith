@@ -1,0 +1,163 @@
+---
+title: "Nadeau  v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30341/index.do"
+last_modified: "2011-05-06"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2011 TCC 243"
+citation2: ""
+neutral_citation: "2011 TCC 243"
+decision_date: "2011-05-06"
+language: "en"
+item_id: "30341"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 8045
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T07:36:34.352000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "99b6706c817e0de32a71acd25ef82665dd9f83494dcef00e243c6dc7ede8e9d5"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Nadeau  v. The Queen
+
+- Citation: 2011 TCC 243
+- Decision date: 2011-05-06
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 8045, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Nadeau v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2011-05-06
+Neutral citation
+2011 TCC 243
+File numbers
+2010-523(GST)I
+Judges and Taxing Officers
+Réal Favreau
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2010-523(GST)I
+BETWEEN:
+STEVE NADEAU,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard on February 15, 2011, at Québec, Quebec.
+Before: The Honourable Justice Réal Favreau
+Appearances:
+Agent for the appellant:
+Huguette Boulay
+Counsel for the respondent:
+Daniel Cantin
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made on June 1, 2009, bearing number 814461828RT0001, regarding an application for a goods and services tax rebate for substantial renovations is dismissed.
+Signed at Ottawa, Canada, this 6th day of May 2011.
+"Réal Favreau"
+Favreau J.
+Translation certified true
+on this 1st day of June 2011.
+Elizabeth Tan, Translator
+Citation: 2011 TCC 243
+Date: 20110506
+Docket: 2010-523(GST)I
+BETWEEN:
+STEVE NADEAU,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Favreau J.
+[1] The appeal in this case is the result of a denial by the Minister of Revenue for Québec (the Minister) under his mandate to administer the goods and services tax (GST) of the application for a GST rebate for $741.65 for a new residential complex or one that has undergone substantial renovation with respect to a residential complex located at 45 chemin Lambert, in the municipality of Saint‑Apollinaire. The appellant submitted the rebate application on March 12, 2009, and the Minister's decision to deny the application was made by notice of assessment bearing the number 814461828RT0001, dated June 1, 2009.
+[2] The dispute between the parties is solely on the issue of whether the renovation work meets the definition of "substantial renovation" for the purposes of subsection 256(2) of the Excise Tax Act, R.S.C. (1985), c. E-15, as amended (the ETA). The expression "substantial renovation" is defined at subsection 123(1) of the ETA as follows:
+“substantial renovation” of a residential complex means the renovation or alteration of a building to such an extent that all or substantially all of the building that existed immediately before the renovation or alteration was begun, other than the foundation, external walls, interior supporting walls, floors, roof and staircases, has been removed or replaced where, after completion of the renovation or alteration, the building is, or forms part of, a residential complex.
+[3] According to the Minister, the residential complex for which the appellant applied for the rebate did not undergo substantial renovations within the meaning of the ITA, on the following grounds:
+(a) the renovations did not substantially alter the existing building;
+(b) the new living area of 140 square feet constitutes renovations that were integrated into the existing house, which did not cease to exist;
+(c) the new living area did not have either the size or proportion to create a new residential complex.
+[4] In his rebate application, the appellant indicated that the following work was completed during the period of April 16, 2008 (start date of the work) to January 16, 2009 (date on which most of the work was completed):
+(a) moving the house on pilings to redo the foundation and dig a basement;
+(b) adding living area of 140 square feet (entrance hall of 10 feet by 14 feet with stairway to basement);
+(c) partial roof repair;
+(d) replacing insulating foam under the basement floor;
+(e) replacing three windows and the entrance door;
+(f) repairing cracks in the walls caused by the window replacements and putting the house on pilings;
+(g) installing gutters;
+(h) replacing the bathroom vanity.
+[5] At the hearing, additional information was provided about the work in the basement. These include:
+- replacing sewage pipes;
+- installing a 200-amp power supply and a hot water tank;
+- setting up a playroom for the children (divisions and a wall finished in wood) and a workshop (divisions only);
+- installing a pellet stove for heating and a chimney;
+- finishing drywall joints and painting.
+[6] The residence in question was acquired in 1996 for $42,000. The municipal evaluation for the residence before the work began was $52,900. The cost of the renovation work totalled $45,910.01, not including the cost of cedar for the exterior finishing, which was installed after the period covered by the rebate application. Further to the work, the municipal evaluation of the residence increased to $114,200.
+[7] In his notice of appeal, the appellant referred to a July 11, 2008, evaluation report on energy efficiency, file number 3C10D08121 regarding his residence and his renovation project for an ecoENERGY Retrofit—Homes grant application in which the certified energy efficiency agent qualified the intended renovations as substantial renovations.
+[8] The appellant's application for the tax rebate was processed by Marie-Claude Marmen of the Canada Revenue Agency (CRA) who testified at the hearing. Her audit report was submitted as Exhibit I-1. Her report indicates she denied the application because the interior of the existing part of the residence before the work was not renovated. According to the information she had, the main floor was unaltered and had, both before and after the work, a kitchen, a bedroom, a living room and a bathroom, in which only the vanity was changed; no modifications were made to the first floor which had, before and after the work, two bedrooms; the renovation in the basement was not completed and it could not be considered a finished basement.
+Analysis
+[9] For renovation work to be considered "substantial renovations" for the purposes of the ITA, an existing building must be refurbished or transformed to the extent that all or substantially all (90% or more) is removed or replaced, with the exception of the foundation, exterior walls, interior supporting walls, floors, roof and stairs.
+[10] According to Information Bulletin B-092A, "Substantial Renovations and the GST/HST for New Housing Rebate" published by the CRA in January 2005, the cost of the renovations or the fair market value of the improvements made are not acceptable methods for determining whether the "all or substantially all" requirement has been met (page 3, paragraph 5).
+[11] Also according to this bulletin, the definition of "substantial renovation" refers to the building that existed immediately prior to the work that is to be considered significant renovations. This means that additions to an existing residence are not generally considered when determining whether the residential complex was subject to substantial renovations (bottom of page 3). However, if the renovations and additions to an existing residential complex are extensive enough for the resulting structure to be considered a newly constructed residential complex, the tax rebate may be granted (page 16 under "Major Additions").
+[12] This bulletin also indicates that even if the addition is as large or larger than the existing residence, it would not be viewed as creating a newly constructed residential complex if the existing residence remains largely intact. The existing residence must become a minor part of, and be incorporated into, the newly constructed residential complex (page 17, paragraph 2).
+[13] The bulletin states the guidelines that may be used to determine whether a major addition to an existing residential complex results in a newly constructed residential complex. These are found on page 17:
+1. The addition should at least double the size (in terms of floor space, for example) of the habitable areas of the existing residence to be considered a newly constructed residential complex. However, the relative size of the addition alone is not sufficient to make this determination.
+2. The existing residence must cease to exist both physically and in the manner in which it had functioned as a residential unit, and must become integrated, along with the addition, into what is essentially a new residential complex.
+[14] The application of the above-noted guidelines first requires a determination of the living area of the addition. The entrance hall of 10 feet by 14 feet is not problematic and should be considered. However, the basement cannot be taken into consideration in determining whether the minimum requirements in the definition of "major renovations" have been met because it is only partially completed.
+[15] According to information bulletin B-092A, the CRA does not consider a partially completed basement with roughed-in plumbing and partially completed walls to be habitable, even if the basement is used for certain purposes (page 5, paragraph 3). To be considered habitable, a basement should at least have finished walls, a ceiling, flooring and electrical wiring (page 5, paragraph 3).
+[16] According to the evidence, the basement was only partially completed. It had divisions for a workshop and only one finished wall in the playroom. The appellant did not submit any evidence regarding the ceiling or flooring of the basement. As a result, the basement cannot be considered a habitable area.
+[17] Even if the basement were considered a habitable area, the addition of the basement and the entrance hall did not double the surface area of the habitable areas of the residence and, more importantly, did not create a new residential complex because the residence remained mostly intact.
+[18] The work carried out by the appellant was certainly significant and constituted major renovations within the ordinary meaning of the expression and for the purposes of the ecoENERGY program. However, Parliament's definition of the expression "substantial renovations" in the ETA is very restrictive since it excludes work that, theoretically, should be considered major, such as work to the foundation, exterior walls, interior support walls, floors, roof and stairs.
+[19] Even considering all of the renovation work, including to the basement, I do not believe the work to the building was sufficient enough for the building to be considered as having been renovated or altered to such an extent that all or substantially all of the building was removed or renovated.
+[20] For these reasons, the appeal must be dismissed.
+Signed at Ottawa, Canada, this 6th day of May 2011.
+"Réal Favreau"
+Favreau J.
+Translation certified true
+on this 1st day of June 2011.
+Elizabeth Tan, Translator
+CITATION: 2011 TCC 243
+COURT FILE NO.: 2010-523(GST)I
+STYLE OF CAUSE: Steve Nadeau v. Her Majesty the Queen
+PLACE OF HEARING: Québec, Quebec
+DATE OF HEARING: February 15, 2011
+REASONS FOR JUDGMENT BY: The Honourable Justice Réal Favreau
+DATE OF JUDGMENT: May 6, 2011
+APPEARANCES:
+Agent for the appellant:
+Huguette Boulay
+Counsel for the respondent:
+Daniel Cantin
+COUNSEL OF RECORD:
+For the appellant:
+Name:
+Firm:
+For the respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada

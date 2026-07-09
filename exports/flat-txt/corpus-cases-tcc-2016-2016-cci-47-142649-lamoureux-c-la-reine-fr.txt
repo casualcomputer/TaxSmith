@@ -1,0 +1,175 @@
+Title: Lamoureux c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/142649/index.do
+Corpus path: corpus/cases/tcc/2016/2016-cci-47-142649-lamoureux-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2016-02-22
+
+# Lamoureux c. La Reine
+
+- Citation: 2016 CCI 47
+- Decision date: 2016-02-22
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3021, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Lamoureux c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2016-02-22
+Référence neutre
+2016 CCI 47
+Numéro de dossier
+2015-3412(GST)I
+Juges et Officiers taxateurs
+Valerie A. Miller
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2015-3412(GST)I
+ENTRE :
+TODD LAMOUREUX,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée
+[TRADUCTION FRANÇAISE]
+Appel entendu par le 15 février 2016, à Edmonton (Alberta)
+Devant : L’honorable juge Valerie Miller
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Me Gergely Hegedus
+JUGEMENT
+L’appel interjeté concernant l’Avis de nouvelle cotisation daté du 28 juin 2010 en vertu de la Loi sur la taxe d’accise pour la période du 31 décembre 2003 au 31 décembre 2004 est rejeté.
+Signé à Ottawa (Canada), ce 22e jour de février 2016.
+« V.A. Miller »
+Juge V.A. Miller
+Référence : 2016 CCI 47
+Date : 20160222
+Dossier : 2015-3412(GST)I
+ENTRE :
+TODD LAMOUREUX,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+La juge V.A. Miller
+[1] Les questions en litige dans le présent appel sont de savoir si (1) le ministre du Revenu national (le ministre) a correctement établi la cotisation de Todd Lamoureux conformément à la Loi sur la taxe d’accise (la Loi) au montant net d’impôt de 5 275,52 $ et de 9 123,41 $ pour les périodes de déclaration terminées respectivement le 31 décembre 2003 (la période de déclaration de 2003) et le 31 décembre 2004 (la période de déclaration de 2004); et (2) si le ministre était fondé à imposer une pénalité pour faute lourde concernant la période de déclaration de 2003.
+[2] Les témoins présents à l’audience étaient l’appelant et Brent Desjarlais, un agent des appels de l’Agence du revenu du Canada (l’ARC).
+[3] Durant la période visée, l’appelant dirigeait une entreprise individuelle de menuiserie. Il achetait également des propriétés qu’il rénovait dans le but de les louer.
+[4] L’appelant a transmis sa déclaration de la taxe sur les produits et services pour la période de déclaration de 2003 le 4 avril 2005. Dans sa déclaration, il a déclaré un montant de taxe sur les produits et services (TPS) percevable de 5 822,68 $ et qu’il était admissible à un crédit de taxe sur les intrants (CTI) de 5 822,68 $ de sorte que le montant net d’impôt était de 0,00 $. Il n’a transmis aucune déclaration de TPS pour la période de déclaration de 2004; le ministre a donc produit une déclaration portant l’inscription « NÉANT ».
+[5] Une nouvelle cotisation a été établie pour l’appelant à l’égard des deux périodes de déclaration le 2 mars 2007, le 11 juillet 2008 et le 28 juin 2010. Par suite de l’établissement d’une nouvelle cotisation le 2 mars 2007, une pénalité pour faute lourde a été imposée à l’appelant pour la période de déclaration de 2003, et cette pénalité a été maintenue lors des nouvelles cotisations subséquentes. L’appelant s’est opposé aux trois nouvelles cotisations, et la nouvelle cotisation du 28 juin 2010 a été confirmée. Le montant net d’impôt était le suivant :
+Période de déclaration
+TPS percevable
+CTI
+Montant net d’impôt
+2003
+6 697,97 $
+1 422,45 $
+5 275,52 $
+2004
+10 414,16 $
+1 290,75 $
+9 123,41 $
+Total
+14 398,93 $
+La pénalité pour faute lourde imposée à l’appelant à l’égard de la période de déclaration de 2003 a été maintenue.
+[6] Pour établir et confirmer la TPS que devait verser l’appelant, le ministre a tenu pour acquis les faits suivants :
+a) l’appelant dirigeait une entreprise individuelle de menuiserie;
+b) l’appelant habitait à Sylvan Lake, en Alberta;
+c) l’appelant a effectué des contrats de menuiserie en dehors de Sylvan Lake;
+d) l’appelant a loué une Land Rover dans le cadre de ses activités commerciales;
+e) 75 % de l’essence consommée par la Land Rover l’a été dans le cadre des activités commerciales de l’appelant;
+f) la totalité du coût de location de la Land Rover a été engagée en lien avec les activités commerciales de l’appelant;
+g) l’appelant n’a pas utilisé de Dodge Caravan dans le cadre de ses activités commerciales;
+h) l’appelant faisait de la location de biens immobiliers;
+i) l’appelant possédait au moins trois biens locatifs en Alberta;
+j) l’appelant était partenaire dans la société La Ordinaire Cappucino Bar Inc. (« La Ordinaire »);
+k) aucun des montants considérés comme provenant de la vente de fournitures taxables n’est lié à des ventes de La Ordinaire;
+Période de déclaration de 2003
+l) l’appelant a déclaré des ventes de fournitures taxables d’au moins 95 685,32 $;
+m) l’appelant était responsable d’un montant de TPS percevable d’au moins 6 697,97 $;
+n) l’appelant avait droit à des CTI d’au plus 1 422,45 $, répartis comme suit :
+i) 332,71 $ pour des achats,
+ii) 70,00 $ pour des repas et des activités de représentation,
+iii) 39,54 $ en fournitures de bureau,
+iv) 199,00 $ en fournitures diverses,
+v) 110,75 $ en frais juridiques,
+vi) 584,63 $ pour des dépenses liées à un véhicule automobile,
+vii) 84,81 $ en frais de téléphone;
+o) l’appelant était responsable du montant net d’impôt précisé à l’Annexe D de la présente réponse;
+Période de déclaration de 2004
+p) l’appelant a déclaré des ventes de fournitures taxables d’au moins 148 733,71 $;
+q) l’appelant était responsable d’un montant de TPS percevable d’au moins 10 414,16 $;
+n) l’appelant avait droit à des CTI d’au plus 1 290,75 $, répartis comme suit :
+i) 17,00 $ en frais de publicité,
+ii) 70,00 $ pour des repas et des activités de représentation,
+iii) 17,00 $ en fournitures de bureau,
+iv) 227,00 $ en fournitures diverses,
+v) 19,00 $ en frais juridiques et de comptabilité,
+vi) 6,00 $ en frais de déplacement,
+vii) 95,95 $ en frais de téléphone,
+viii) 817,80 $ pour des dépenses liées à un véhicule automobile,
+ix) 21,00 pour des dépenses autres;
+s) l’appelant était responsable du montant net d’impôt précisé à l’Annexe D de la présente réponse;
+CTI
+t) en ce qui concerne les crédits demandés, mais refusés par le ministre :
+i) les montants déclarés n’avaient pas été engagés,
+ii) les montants déclarés n’avaient pas été engagés dans le cadre des activités commerciales de ce dernier,
+iii) les montants déclarés étaient liés à des dépenses personnelles,
+iv) les montants déclarés n’étaient pas raisonnables,
+v) l’appelant n’a pas obtenu ni conservé les documents à l’appui requis.
+[7] L’appelant ayant confirmé de nombreuses hypothèses de fait prononcées par le ministre, je n’aborderai que les faits à l’égard desquels l’appelant était en désaccord.
+[8] L’appelant était en désaccord avec l’hypothèse du paragraphe e), selon laquelle 75 % des coûts d’essence avaient été engagés dans le cadre de ses activités commerciales. Il a soutenu qu’il était admissible à un CTI pour la totalité des coûts de l’essence; pour étayer son propos, il a produit un registre de kilométrage pour 2003 et 2004 (pièce A7). Il a préparé ce registre à l’aide de son agenda.
+[9] Le 6 novembre 2006, l’appelant avait aussi fourni des registres de kilométrage à l’ARC pour les deux périodes de déclaration à l’examen. Les registres, apparemment préparés d’après l’agenda de l’appelant, montraient qu’en 2003, ce dernier avait utilisé la Land Rover pour des activités commerciales (70 %) et pour des activités liées à ses biens locatifs (30 %). De plus, selon le registre remis à l’ARC pour 2004, l’appelant a utilisé sa Land Rover pour des activités commerciales (40 %) et pour des activités exonérées (60 %). Toutefois, l’appelant a obtenu des CTI correspondant à 75 % des coûts d’essence de la Land Rover engagés en 2003 et en 2004.
+[10] La pièce A7 a été préparée par l’appelant environ un mois avant l’audience. Il a ajouté des destinations au document de travail du vérificateur (examen du registre de kilométrage). Par conséquent, le kilométrage associé aux activités commerciales figurant à la pièce A7 différait grandement du kilométrage figurant aux registres remis à l’ARC en 2006. L’appelant n’a pas produit son agenda à l’appui des premiers registres remis à l’ARC ni à l’appui des entrées qu’il a ajoutées au document de travail du vérificateur.
+[11] À mon avis, les entrées inscrites à la main sur la pièce A7 sont fausses; je n’ai donc accordé aucune importance à cette pièce.
+[12] L’appelant a rejeté les hypothèses faites aux paragraphes l) à (t) de la réponse. Il a simplement affirmé que le contenu de ces paragraphes était erroné, mais n’a fourni aucune explication pour étayer son propos ni fourni les montants qu’il considérait comme étant corrects. L’appelant n’a produit aucun document concernant la TPS qu’il aurait payée ou pour démontrer son admissibilité à des CTI. Pour seule explication, il a affirmé que de nombreux reçus n’étaient plus lisibles. Affirmant qu’il avait besoin de ces reçus en vue de son appel en matière d’impôt sur le revenu, il ne les a pas produits à l’audience relative au présent appel.
+[13] Pour réfuter les hypothèses du ministre, l’appelant devait faire plus que simplement affirmer qu’elles étaient incorrectes. À mon avis, le ministre a correctement établi la cotisation de l’appelant, soit un montant net d’impôt de 5 275,52 $ pour la période de déclaration de 2003 et de 9 123,41 $ pour la période de déclaration de 2004.
+[14] L’appelant a allégué que les agents de l’ARC s’étaient conduits de manière abusive. Il a déclaré qu’il avait été [traduction] « sélectionné volontairement » par l’ARC et qu’il s’était [traduction] « senti menacé ». En 2001, il avait fait l’objet d’une vérification pour les années d’imposition 1997 et 1998. À ce moment-là, on lui avait demandé de signer une entente écrite concernant les livres et les registres. Il n’a pas bien compris ce qu’on attendait de lui; on ne lui a pas remis un exemplaire de la lettre. En 2006, il a fait l’objet d’une autre vérification de l’ARC; le comportement de l’agent l’a rendu mal à l’aise. L’appel concerne cette dernière vérification.
+[15] La Cour a compétence pour rendre une décision concernant la validité et l’exactitude d’une cotisation. Toutefois, il va sans dire que la Cour ne peut pas tenir compte des actions des agents de l’ARC dans le cadre d’un appel interjeté à l’encontre d’un avis de cotisation : Main Rehabilitation Co c. la Reine, 2004 CAF 403, au paragraphe 7.
+[16] L’appelant a demandé que toutes les pénalités et les intérêts soient annulés. Je lui ai expliqué que la Cour n’avait pas compétence pour annuler des intérêts et qu’il incombe au ministre de démontrer que les pénalités pour faute lourde avaient été imposées à juste titre.
+Pénalité pour faute lourde pour la période de déclaration de 2003 [17] L’appelant a décrit de quelle manière il avait tenu ses dossiers. Il a déclaré qu’il avait rangé ses reçus et ses factures dans des dossiers étiquetés en fonction de chacune des propriétés qu’il possédait. Avant 2004, c’est un ami qui s’occupait de ranger ses papiers, mais l’appelant vérifiait les dossiers. Après 2004, il rangeait lui-même ses reçus et ses factures dans les dossiers. L’appelant a déclaré qu’il avait remis ses dossiers à son aide-comptable pour que ce dernier prépare ses livres et ses registres. L’appelant a ensuite remis ses livres et ses registres à un comptable pour que ce dernier prépare sa déclaration de TPS.
+[18] La preuve offerte par l’appelant était qu’il ne comprenait rien aux impôts et qu’il avait par conséquent retenu les services de professionnels. Durant le contre-interrogatoire, il a indiqué qu’il n’avait pas examiné les livres et les registres préparés par son aide-comptable ni sa déclaration de TPS.
+[19] J’ai déduit de la preuve offerte par l’appelant que ce dernier jette le blâme sur son aide-comptable et son comptable pour les erreurs contenues dans sa déclaration pour 2003. Il n’a toutefois pas appelé à témoigner les personnes concernées et je tire de ce fait une inférence défavorable.
+[20] L’appelant a remis les documents pertinents à l’aide-comptable et au comptable pour qu’ils préparent ses livres et sa déclaration de TPS. L’exactitude de leur travail dépendait donc des dossiers qui leur avaient été remis. L’appelant a également indiqué qu’il n’avait pas examiné la déclaration avant de la transmettre. Je suis d’avis que l’appelant ne se souciait aucunement de ses dossiers et de sa déclaration pour la période de déclaration de 2003.
+[21] Pour la période de déclaration de 2003, l’appelant a déclaré un montant de TPS percevable 5 822,68 $ alors que le montant juste était plutôt 6 697,97 $, ce qui représente un écart de 875,29 $ ou de 15 %. Il a déclaré qu’il était admissible à des CTI de 5 822,68 $, mais il ne pouvait en fait déduire que 1 422,45 $. Autrement dit, le montant qu’il réclamait excédait de 309 % le montant auquel il était admissible. Il a déclaré que le montant net d’impôt s’établissait à zéro, mais en fait, la somme à verser était de 5 275,52 $.
+[22] L’écart entre les CTI réclamés et ceux auxquels l’appelant était admissible est considérable. On peut en dire autant de la différence entre le montant net d’impôt déclaré et celui que doit verser l’appelant. L’ampleur des erreurs, et le fait que la preuve produite à l’appui de certains CTI avait été fabriquée (pièce A7) m’amènent à conclure que l’appelant a sciemment transmis une déclaration erronée ou, à tout le moins, qu’il ne se souciait aucunement de l’exactitude de sa déclaration, ce qui équivaut à une faute lourde. Je suis d’avis que la pénalité pour faute lourde imposée à l’appelant pour la période de déclaration de 2003 l’a été à juste titre.
+[23] L’appel est rejeté.
+Signé à Ottawa, Canada, ce 22e jour de février 2016.
+« V.A. Miller »
+Juge V.A. Miller
+RÉFÉRENCE :
+2016 CCI 47
+NO DU DOSSIER DE LA COUR :
+2015-3412(GST)I
+INTITULÉ :
+TODD LAMOUREUX ET SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Edmonton (Alberta)
+DATE DE L’AUDIENCE :
+Le 15 février 2016
+MOTIFS DE JUGEMENT PAR :
+L’honorable juge Valerie Miller
+DATE DU JUGEMENT :
+Le 22 février 2016
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Me Gergely Hegedus
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada

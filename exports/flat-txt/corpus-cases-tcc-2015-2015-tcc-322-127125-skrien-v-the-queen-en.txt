@@ -1,0 +1,111 @@
+Title: Skrien v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/127125/index.do
+Corpus path: corpus/cases/tcc/2015/2015-tcc-322-127125-skrien-v-the-queen-en.md
+Document type: case_law
+Last modified: 2015-12-10
+
+# Skrien v. The Queen
+
+- Citation: 2015 TCC 322
+- Decision date: 2015-12-10
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3036, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Skrien v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2015-12-10
+Neutral citation
+2015 TCC 322
+File numbers
+2014-2687(IT)I
+Judges and Taxing Officers
+Valerie A. Miller
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2014-2687(IT)I
+BETWEEN:
+KRISTINA SKRIEN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on November 13, 2015, at Moncton, New Brunswick
+Before: The Honourable Justice Valerie Miller
+Appearances:
+Agent for the Appellant:
+Donald G. Mitchener, FCPA, FCA
+Counsel for the Respondent:
+Jan Jensen
+JUDGMENT
+The appeal from the reassessments made under the Income Tax Act for the Appellant’s 2012 taxation year is dismissed.
+Signed at Ottawa, Canada, this 10th day of December 2015.
+“V.A. Miller”
+V.A. Miller J.
+Citation: 2015TCC322
+Date: 20151210
+Docket: 2014-2687(IT)I
+BETWEEN:
+KRISTINA SKRIEN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+V.A. Miller J.
+[1] The issue in this appeal is whether the Appellant is entitled to claim moving expenses of $1,530 pursuant to paragraph 62(3)(c) of the Income Tax Act (“ITA”).
+[2] The Appellant did not appear at the hearing of her appeal but she was represented by Donald G. Mitchener, FCPA, FCA who acted as her agent. There were no witnesses and no documents entered into evidence and Mr. Mitchener proceeded with the appeal on the basis of a legal argument only.
+[3] In 2012, the Appellant and her spouse moved from Saskatoon, Saskatchewan to Guelph, Ontario. Her move was accepted by the Minister of National Revenue (the “Minister”) as an “eligible relocation” within the meaning of that term in subsection 248(1) of the ITA. She claimed total moving expenses of $5,616.63 and was allowed a deduction of $4,086.63. The amount allowed by the Minister included transportation and storage costs for household effects; travel expense; three nights’ accommodation expenses; and, meals expenses for three days. As part of her total moving expenses, the Appellant also claimed temporary living expenses in the amount of $1,530. This was calculated as a meals expense of $51 per day for 15 days for her and her spouse. She did not claim an amount for lodgings for these 15 days.
+[4] The Minister disallowed the deduction of $1,530 on the basis that the Appellant did not incur temporary living expenses.
+[5] A moving expense for temporary living expenses is provided in paragraph 62(3)(c) of the ITA. It reads:
+62(3) In subsection 62(1), “moving expenses” includes any expense incurred as or on account of
+…
+(c) the cost to the taxpayer of meals and lodging near the old residence or the new residence for the taxpayer and members of the taxpayer’s household for a period not exceeding 15 days,
+Appellant’s Position [6] It was the Appellant’s position that there was no requirement to prove that the costs for temporary living expenses were actually incurred. Mr. Mitchener stated that this paragraph of the ITA is administered by the Canada Revenue Agency (“CRA”) so that it creates a non-rebuttable presumption that the expenses were incurred. He stated that the only criterion for the application of paragraph 62(3)(c) is that there be an “eligible relocation”. Once it is accepted that there is an “eligible relocation”, the taxpayer can claim meals and lodging expenses for 15 days. The days do not have to be sequential and no receipts are necessary if one uses the simplified method.
+[7] In support of the Appellant’s position, Mr. Mitchener relied on a News Release dated December 14, 1999 from the then CCRA, now called the CRA. According to the News Release, the CRA announced that for 1999 and subsequent years, taxpayers would have the option of choosing a detailed or simplified method to calculate certain travel expenses for moving. Use of the detailed method meant that the taxpayer had to keep and submit receipts upon request. Use of the simplified method meant that the taxpayer could use various pre-established flat rates. In particular, there was a prescribed flat rate for mileage and one for meals. In 2012, the flat rate for meals was $51 per person per day.
+[8] Mr. Mitchener also relied on the former Interpretation Bulletin IT-178R3 which also explained the simplified and detailed options which a taxpayer had when claiming various moving expenses.
+[9] Mr. Mitchener stated that his client did incur meal expenses but she used the simplified method to calculate her meal expenses in accordance with the News Release from the CRA. The Appellant had no receipts. In conclusion, he argued that paragraph 62(3)(c) allowed the Appellant to claim meal expenses for 15 days; the paragraph did not require her to incur the expenses in order to claim them; the Appellant could claim meal expenses without claiming an expense for lodging; and, paragraph 62(3)(c) does not contain the word “temporary” with respect to “meals and lodging”.
+Respondent’s Position [10] Counsel for the Respondent acknowledged that the CRA introduced a simplified method which taxpayers could use to calculate their moving expenses. That method allows a taxpayer to calculate their meal and mileage expenses by using prescribed rates. No receipts are necessary. However, the expenses must have been incurred. Counsel argued that the Appellant has the burden to show that the moving expenses she claimed were actually incurred.
+Analysis [11] I agree with counsel for the Respondent.
+[12] In this appeal, the relevant statutory law is contained in paragraph 62(3)(c). It clearly requires that a “moving expense” be incurred. The opening sentence to subsection 62(3) reads: “moving expenses” includes any expense incurred. An expense has been incurred when a taxpayer has a legal obligation to pay a sum of money for the expense: Wawang Forest Products Ltd. v R, 2001 FCA 80 at paragraph 9. Consequently, I disagree with the Mr. Mitchener’s premise which was that a taxpayer who has an “eligible relocation can always claim meals expenses for 15 days. Those meal expenses have to be incurred in accordance with paragraph 62(3)(c).
+[13] Mr. Mitchener has also argued that the Appellant can claim meal expenses without claiming expenses for lodging. I disagree. It is my view that paragraph 62(3)(c) allows for temporary living expenses similar to “room and board expenses”. The Appellant cannot live in her own home and claim an expense for the meals only. The expenses allowed pursuant to paragraph 62(3)(c) are those expenses incurred when one is required to live in temporary accommodations either near their old residence or near their new residence but not in their old or new residence.
+[14] The Appellant can rely on paragraph 62(3)(c) only if she can show that she incurred expenses for temporary living expenses. She is required to submit receipts for her lodgings even if she has used the simplified method to calculate her meal expenses. The receipts for lodgings would have supported the Appellant’s position that she incurred expenses for meals.
+[15] Although paragraph 62(3)(c) does not contain the word “temporary”, it is obvious that the paragraph refers to temporary living expenses because it only includes the expenses incurred for a period which does not exceed 15 days. The period of time for meals and lodging expenses near the old residence plus the time for those expenses near the new residence cannot exceed 15 days. These are expenses which are incurred for a brief or temporary period.
+[16] In conclusion, the Appellant used the simplified method to claim moving expenses and she did not have to submit receipts for her meal expenses but she was required to submit receipts for the cost of lodgings. Apparently, she did not incur an expense for lodgings either near her old residence or her new residence. It is my view that paragraph 62(3)(c) is not applicable in the circumstances of this appeal. For all of these reasons, the appeal is dismissed.
+Signed at Ottawa, Canada, this 10th day of December 2015.
+“V.A. Miller”
+V.A. Miller J.
+CITATION:
+2015TCC322
+COURT FILE NO.:
+2014-2687(IT)I
+STYLE OF CAUSE:
+KRISTINA SKRIEN AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Moncton, New Brunswick
+DATE OF HEARING:
+November 13, 2015
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Valerie Miller
+DATE OF JUDGMENT:
+December 10, 2015
+APPEARANCES:
+Agent for the Appellant:
+Donald G. Mitchener, FCPA, FCA
+Counsel for the Respondent:
+Jan Jensen
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

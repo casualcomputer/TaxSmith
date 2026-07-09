@@ -1,0 +1,431 @@
+Title: Jefferson v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/405370/index.do
+Corpus path: corpus/cases/tcc/2019/2019-tcc-91-405370-jefferson-v-the-queen-en.md
+Document type: case_law
+Last modified: 2019-05-24
+
+# Jefferson v. The Queen
+
+- Citation: 2019 TCC 91
+- Decision date: 2019-05-24
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4398, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Jefferson v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2019-05-24
+Neutral citation
+2019 TCC 91
+File numbers
+2016-1477(IT)G
+Judges and Taxing Officers
+Brent Paris
+Subjects
+Income Tax Act
+Notes
+A correction was made on May 27, 2019
+Decision Content
+Docket: 2016-1477(IT)G
+BETWEEN:
+ALLEN JEFFERSON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on October 2, 3 and 4, 2018, at Toronto, Ontario
+Before: The Honourable Justice B. Paris
+Appearances:
+Counsel for the Appellant:
+Angelo Gentile
+Louise R. Summerhill
+Meghan Cowan
+Counsel for the Respondent:
+Devon E. Peavoy
+AMENDED JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 2003 taxation year is allowed in part, without costs, in accordance with the attached Reasons for Judgment.
+This amended judgment is issued to correct an administrative error only.
+Signed at Ottawa, Ontario, this 24th day of May 2019.
+“B. Paris”
+Paris J.
+Citation: 2019 TCC 91
+Date: 20190524
+Docket: 2016-1477(IT)G
+BETWEEN:
+ALLEN JEFFERSON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Paris J.
+[1] This is an appeal from an assessment in the amount of $542,027.40 made under subsection 160(1) of the Income Tax Act (the “Act”). Subsection 160(1) allows the Minister of National Revenue (the “Minister”) to recover a tax debt from a person who has received a transfer of property from a non-arm’s length tax debtor for less than fair market value consideration.
+[2] In this case, the Appellant admits that he received payments totalling $542,027.40 in 2003 from Global Benefit Plan Consultants Inc. (“Global”). He also admits that at the time the payments were made, Global was controlled by his father, Walter Jefferson and that at the time of the assessment Global owed at least $603,621.81 under the Act for its 1999, 2000, and 2001 taxation years.
+[3] The only issue before me is whether the Appellant provided consideration for the transfers from Global. The Appellant’s position is that he received the payments as reimbursements for expenses he incurred on behalf of Global for the purposes of Global’s business.
+[4] At the outset of the hearing, the Appellant’s counsel conceded that expenses totalling $78,572.59 that had been reimbursed to the Appellant by Global were not incurred by the Appellant on behalf of the company and were no longer in issue. During the hearing, the Appellant conceded an additional amount of $20,710.15, bringing the total amount conceded to $99,282.74.
+[5] The Appellant testified on his own behalf and called three other witnesses: Milan Milkovich, a retired trustee of the United Association of Plumbers and Pipefitters Local 628 Pension Plan, Albert Walker, the financial manager of Global during the period in issue, and Antonella Mungo, the Appellant’s executive assistant at Global.
+Facts
+[6] Global is an employee benefit and pension plan administrator for multiple employer trusteed plans, including pension, training, health and welfare, supplemental unemployment benefit, and group legal and disability insurance plans. During the years in issue, its clients consisted mainly of construction unions, but it did have a few corporate clients as well. Under the supervision of the plan trustees, Global administered the pension and benefit plans of its clients and managed the trust funds of those plans.
+[7] The Appellant began working at Global in 1996. He held the title of Vice‑President and was one of five account executives at the company. The Appellant provided services to Global through his wholly-owned company, Sidtay Ltd., and Global paid Sidtay for those services. However, the Appellant was reimbursed directly by Global for any expenses he incurred on behalf of Global. At the end of 2003, the Appellant’s wholly owned company purchased all of the assets of Global and took over its business operations.
+[8] The Appellant testified that during the period in issue, he was responsible for managing at least 20 client trust funds, and for growing Global’s business by securing new clients and developing new products for existing clients. He said that for each client benefit plan, he assembled a team of Global staff to operate the plan based on the directions of the board of trustees.
+[9] The Appellant testified that he worked and interacted with many trustees for each client, since each client could have numerous benefit plans and the trustees were usually different individuals for each of the plans. The board of trustees for each plan could range in size from four to 14 trustees.
+[10] The Appellant’s duties included attending quarterly meetings of the trustees of each of the plans, as well as any special meetings of the trustees and any educational conferences attended by the trustees. The Appellant said he also had many informal meetings with clients and potential clients and that those meetings, as well as the trustee meetings, involved a great deal of travel, meals out and entertainment. According to the Appellant, the trustees were often accompanied by their spouses and the spouses would attend dinners that he would pay for. He also said he purchased gifts for the trustees or client representatives. Both the Appellant and Mr. Walker testified that the benefit plan administration industry was highly dependent on building strong relationships and making sure clients were happy.
+[11] The Appellant testified that the trustee meetings were held in many different locations and that the board of trustees would set the location. He said that he paid for all his own airfare, travel, and accommodation in connection with all of these meetings and that he would often pay these costs for Global staff or outside advisors that he needed to bring to the meetings.
+[12] According to the Appellant, all of Global’s account executives would pay for business travel and client entertainment expenses with their personal credit cards and Global would reimburse them for these amounts.
+[13] At the time the Appellant submitted the expenses for reimbursement, the expenses were separated according to the client to whom he said the expense related. A separate expense report was prepared for each client. Some of the expenses were allocated to Global itself, rather than to any client and a separate expense report was prepared for Global. The Appellant said that the expenses allocated to Global were ones he incurred in respect of potential clients, and expenses incurred at some educational conferences.
+[14] The Appellant often submitted the reports months after the expenses had been incurred. For example, the first payment in issue was made to the Appellant in January 2003 for expenses incurred between April 2002 and July 2002. The next payments, dated March 4, 2003, covered expenses between September and November 2002.
+[15] Each expense report included certain supporting documentation, consisting mainly of copies of the Appellant’s credit card statements on which he had noted which expenses related to a particular client fund or to Global by writing the initials of the client fund or “GB” for Global next to the amount. The Appellant said he would make the notations on his credit card statements from memory or by referring to his agenda. No copies of his agenda were put in evidence.
+[16] Relatively few of the expenses were supported by an actual receipt or invoice, and almost none of the supporting documents contained names of any individual client representative or representatives or Global team members associated with the expense. Many of the receipts were for parking and taxis. In only a few instances did the Appellant submit a copy of his airline tickets and the credit card statements only occasionally set out the destination or date of the airline travel that was charged.
+[17] The Appellant produced four volumes of expense reports relating to the payments he received from Global that are in issue in these proceedings. His counsel took him through one set of expense reports submitted for July 2003. The total amount claimed on those reports was $29,595.86. The expenses were allocated between nine client funds and Global, with a separate expense report prepared for each of those clients and Global.
+[18] The charges on the Global expense report totalled $12,361.54. Many of the individual items were for gas, car washes, parking and other car related expenses. The Appellant claimed and was reimbursed for these expenses although he also claimed and received a comprehensive car allowance of $1,200 per month from Global. That claim was included on the same expense report as the individual car expenses. The car allowance payments were included in the expenses that were conceded at the hearing.
+[19] The expense report also listed two insurance payments totalling just over $1,000 that have also been conceded.
+[20] Appellant’s counsel took the Appellant to certain other expenses claimed on that report, including $300 paid for tickets to a stag party for Nico Rotundo, whom the Appellant said was the son of a trustee of one of the Bricklayers Union trust funds. He said that he had been asked to buy some tickets to contribute to the trustee’s son's wedding.
+[21] The Appellant also said that an Air Canada charge of $4,696.43 was for his airfare to attend the International Foundation of Employee Benefits Conference in Orlando. The charge was supported only by the copy of the credit card statement, and no information about the charge was shown on that statement. My impression was that the Appellant was speculating about the purpose of that expenditure since other evidence showed that the Conference took place in November, and in the few instances I saw where there was flight information available in respect of airfares claimed, the tickets were purchased close to the travel date.
+[22] The next expense report that the Appellant reviewed pertained to Regency Care, which operated a chain of nursing homes in Ontario. The expenses included amounts charged by the Appellant at the King Valley Golf Club where he was a member. The Appellant testified that charges of $523.75 incurred on May 30, 2003 related to golf with Dan Scully, spouse of the president of Regency Care. He did not refer to any particular business purpose of the golf game. With respect to another $1,108.04 charged by the Appellant at the King Valley Golf Club on July 27, 2003 and allocated to Regency Care, the Appellant said that the purpose of the expenditure “would generally be entertainment or business meetings or growing the business.”
+[23] The Appellant testified that charges totalling approximately $2,500 from the golf club on June 1, 2003 and July 23, 2003 would have been for golf meetings and meals with trustees of the Canadian Member Pension Trust (“CMPT”) and that another $718 charged at the golf club would have been for two dinners with the trustees of the Canadian Representatives Pension Trust (“CRPT”) on July 14 and 19, 2003.
+[24] According to the Appellant, both the CMPT and CRPT were Bricklayer Union pension funds that were clients of the Appellant. CMPT covered members of the union and CRPT covered union representatives. By way of background, the Appellant said that the Canadian bricklayers used to be members of an international union run out of the U.S. However, in 2000, they set up their own Canadian union with their own pension plans, the CMPT and the CRPT. Since there were only a few members of the representatives’ pension plan, it was decided that the plan would be wound up and the representatives would be covered under the members’ plan. The Appellant said that the representative’s pension plan was being wound up in 2002 and 2003 and that this required a lot of meetings and that he “could just about guarantee” that this was the purpose of the golf club charges allocated to CMPT and CRPT. No names of the trustees who attended those meetings were provided, although the Appellant later said that he dealt regularly with John Haggis and Jerry Choelo, the chair and co-chair of the board of trustees of the CRPT, and also with Tom Oldham, and Ron Smith at the CMPT.
+[25] Two other expenses allocated to CMPT were for $1,165.70 at The Fireplace Stop on July 15, 2003 and for $806.73 at Beattie McKimm Ltd. on July 4, 2003. The Appellant said that the first was for a gas fireplace he purchased as a prize for a golf tournament run by CMPT. However, he stated that he did not recall what he bought at Beattie McKimm but that it would have been a golf gift since that was the notation he made on the credit card receipt and because he got golf gifts at that store. He did not say to whom he gave the gift.
+[26] In response to questions from his counsel relating to a charge of $42 for Banff National Park on July 28, 2003 and $27.83 for items purchased at Lake Louise Village Market on July 29, 2003 that appear on the CMPT expense report, the Appellant said that he had flown to Calgary to meet a client and then driven through Banff and Lake Louise to Edmonton for a regular meeting with the trustees from UA Local 488. However, he provided no explanation for why these expenses were allocated to CMPT.
+[27] The expense report for the United Association of Plumbers and Pipefitters Local 488 (“Local 488”) listed a return airfare for the Appellant from Toronto. The Appellant said that he travelled to Edmonton where Local 488 was located but did not give any other details of the meeting, the date the meeting was held or whether it was related in some way to the meeting in Edmonton that he discussed when explaining the CMPT expense report charges. Bryan Strong and Rob Kinsey were the Appellant’s regular contacts at Local 488.
+[28] The expense report for Local 628 of the United Association of Plumbers and Pipefitters Union (“Local 628”) in Thunder Bay contained charges at Treasure Island ($489.86) and the Mirage Hotel ($556.21) in Las Vegas, as well as a meal at House of Chan in Toronto ($73.18). The Appellant said that a trustee from Local 628 was in Las Vegas and phoned him and asked if he could get the tickets for the trustee for some events. The Appellant referred to this as a “client appreciation expense”. The restaurant meal was with Tom Suffield, another Vice‑President at Global, and the Appellant said “I think we're just talking about generally what was going on in his fund and what was going on in ours -- mine, I guess.”
+[29] The Appellant testified that the four restaurant charges totalling $648.69 shown on the expense report in respect of the Sheet Metal Workers Local 285 (“Local 285”) were related to entertainment of this particular client either before or after trustees meetings. Those expenses were incurred on June 27, June 30, and at two different restaurants on July 19, 2003. The Appellant did not explain how it happened that he claimed another dinner at his golf club on July 19, 2003 on the CRPT expense report (above).
+[30] The Appellant also did not explain how it happened that the two charges dated July 19, 2003 on the Local 285 expense report were also apparently claimed on other expense reports he submitted for August 2003. The charges on the expense report reviewed by the Appellant in his examination in chief were supported by restaurant receipts from Opus Restaurant and Morton’s of Chicago.
+[31] The amount of the charge at Opus Restaurant was $225.21, and the figures “100.00” and “325.21” were written by hand on the receipt. In the expense report submitted by the Appellant in respect of Local 628 for August 2003, he claimed the amount of $275.21 incurred at Opus Restaurant on July 19, 2003, the same date as the charge on the Local 285 claim above. The claim was supported by an entry on his credit card statement. I find it more likely than not that the charges were for the same meal at Opus Restaurant (Appellant’s Book of Documents at pages 1036 and 1042).
+[32] The restaurant bill at Morton’s of Chicago dated July 19, 2003 submitted on the Local 285 expense report was $201.58 (before tip).In the expense report for Bricklayers Local 2 for August 2003, the Appellant claimed a charge of $221.58 on July 19, 2003 at Morton’s of Chicago, supported by an entry on his credit card (Appellant’s Book of Documents at pages 1058 and 1060). I find it more likely than not that this charge was for the same meal at Morton’s on July 19, 2003.
+[33] The Appellant said that Domenic D’Battista and Bob Gougeon were among the trustees he dealt with from Sheet Metal Workers Local 285.
+[34] The expenses allocated to the Marble Tilers Union Local 31 (“Local 31”) located in Toronto for July 2003 included charges from the Appellant’s golf club on July 5 and 6, 2003 totalling $1,061.52, a bill for $1,059.79 at Octagon Restaurant on July 9, 2003, and a charge of $214.73 with no listed purpose at an establishment named “Windy O’Neill’s” on July 1, 2003. The Appellant gave no particulars of the expenses other than that they were for “entertaining the trustees”. He said his principal contacts at Local 31 were Chris Ross and Jack Barbosso.
+[35] The next expense report that the Appellant was asked about related to the Bricklayers Union Local 2 (“Local 2”) from Toronto. The Appellant said that all of the expenses were for entertaining the trustees of Bricklayers Local 2, without giving any particulars. He did not state to whom the gift purchased at the King Valley Golf Shop for $308.33 on July 4, 2003 was given or what it was. He also did not describe the circumstances in which he incurred the charge of $47.66 at Silver Streams Farm for items including tortillas, sour cream, lettuce and items listed as “hardware” and “hobbies”. He said his regular client contacts at Local 2 were Ron Smith and Peter Martini.
+[36] The final expense report reviewed by the Appellant was for the Bricklayers Union Local 4 (“Local 4”), located in St. Catharines. The claim was for one restaurant charge in Niagara Falls, which the Appellant said was for lunch after a trustees meeting. His regular contacts at Local 4 were David Dick and Luigi Scodellaro.
+[37] The Appellant stated that all remaining expense reports for all of the other periods in issue related to expenses that were similar to the ones he had already discussed in his evidence and that he incurred all of those expenses for Global-related business.
+[38] The Appellant also produced copies of minutes from several meetings of the trustees of the Local 628 Pension Fund and Employee Benefit Fund held between October 2001 and October 2003. The minutes show that the Appellant attended meetings in Thunder Bay on six occasions and in Toronto on one occasion. The minutes also showed that the trustees voted to register themselves at three trustee educational conferences: in Ottawa on May 9 and 10, 2002, in Halifax from August 9 to 14, 2002 and in Orlando from November 25 to 27, 2002. The Appellant also produced minutes of certain meetings of the trustees of the UA Pipeline Pension Fund that he attended in Toronto on three occasions and in Edmonton on two occasions.
+[39] Milan Milkovich, a former business manager of Local 628 and a trustee of the Local 628 Pension Plan from 1974 to 2003, testified that the Appellant attended the regular meetings of the trustees of the Local 628 Pension Plan in Thunder Bay and that the Appellant would take the trustees and their spouses out for dinner either before or after those meetings. He also said that some of the trustees met with the Appellant in Toronto on occasion. Mr. Milkovich stated that he attended the Ottawa legislative update meeting from May 9 to 10, 2002 and the Canadian Employee Benefit Conference from August 9 to 14, 2002 in Halifax and that the Appellant was at both meetings and that the Appellant had taken the trustees out for dinner at those meetings.
+[40] Mr. Walker, a financial manager and director of operations at Global in 2002 and 2003, confirmed that each plan had quarterly meetings as well as special meetings for particular purposes. He testified that he would sometimes go to client trustee meetings with the Appellant to make presentations and recalled attending two meeting of the trustees of Local 488 in Edmonton with the Appellant in April and September2003, and that Peter Hitchen from Global had attended one as well. He said that the Appellant would book and pay for the cost of travel for anyone attending the trustee meetings. He also said that it was common to go for dinner after the trustee meetings and that the Appellant would pay.
+[41] He also said that he usually attended the Canadian Employee Benefits Conferences in Halifax and Ottawa and the International Foundation of Employee Benefits Conference in Orlando with the Appellant and that the Appellant took clients to dinner each night at the meetings.
+[42] Ms. Mungo, the Appellant’s executive assistant since 2002, testified that she assisted him with the preparation for trustee meetings, booked travel, and sorted expense receipts, but did not prepare the expense reports. She said that he was responsible for 15 to 20 trust funds and that he was constantly meeting with clients in and out of town and entertaining them. She also said that the Appellant sometimes paid the travel expenses of workers at Global who accompanied him to trustee meetings. She also stated that the Appellant bought cigars, clothing and wine as gifts for clients and that there were always a lot of gifts around Christmas. She recalled that he had given some Hermes scarves to clients as well as to the executive assistants at Global.
+Position of the Parties
+[43] The Appellant’s argument is very concise. His counsel submits that he has made out a prima facie case that he provided consideration to Global for the payments Global made to him in 2003 and has therefore demolished the Minister’s assumption to the contrary. Counsel maintained that there is overwhelming evidence that Global received value from the Appellant for the reimbursements since all expenses for which the Appellant was reimbursed were incurred in connection with Global’s business activities. Therefore, he says, the Appellant did not get something for nothing.
+[44] Counsel also pointed out that the question of whether the expenses were reasonable is not at issue here, nor was it raised and is not a proper consideration under section 160.
+[45] The Respondent submits that there is no evidence that the Appellant had a legal right to be reimbursed by Global for the expenses he incurred and that the Appellant has not shown that there was a contract between himself and Global in respect of the expenses.
+[46] In the alternative, the Respondent submits that the Appellant did not provide sufficient evidence to demonstrate that the expenses claimed were legitimate business expenses of Global and put into question the credibility of the Appellant’s testimony.
+Analysis
+[47] On the first point raised by the Respondent, I find that there is sufficient evidence to show that Global had agreed to reimburse the Appellant for expenses he incurred on behalf of Global. Even though the Appellant was not employed directly by Global, there was nothing preventing Global from making an agreement directly with him rather than with Sidtay for reimbursement of expenses. The fact that the payments were made regularly by Global based on expense reports the Appellant submitted, and the fact that other account executives at Global were also apparently reimbursed for their expenses, leads me to infer that the reimbursement was based on a legally binding agreement.
+[48] I turn then to the question of whether the Appellant has shown on a balance of probabilities that all of the expenses he claimed (minus those that were conceded) were incurred for the purpose of Global’s business.
+[49] Relatively few expenses that were claimed were touched on during the hearing, and the Appellant testified simply that the remaining expenses were all incurred by him for Global’s business. However, I find that the Appellant’s evidence was not sufficiently credible or reliable to convince me of that.
+[50] With respect to the issue of credibility, there is the matter of the concession made by the Appellant that $99,282.74 of the total amount paid to him by Global was not for expenses incurred on behalf of Global. Little explanation was offered by the Appellant as to how he came to claim these amounts for reimbursement. As an example, part of the conceded expenses consisted of a car allowance paid to him by Global that was supposed to cover all of his car expenses. However, on top of the allowance, he admitted that he also claimed reimbursement for his actual car expenses. This practice was repeated for every month of the period in issue, so it is very difficult to consider it a slip of any sort.
+[51] Another conceded item was for charges of $15,167.30 at a health and wellness centre named Hot Ventanas Al Paraiso (“Ventanas”) in Cabos San Lucas, Mexico that the Appellant claimed on the May 2003 Global expense report. Again, it is hard to understand how the Appellant could have claimed this item by mistake. In any event, he did not explain how it came about.
+[52] Also, given that the Ventanas amounts referred to above were conceded at the beginning of the hearing, I asked the Appellant about his claim on the CRPT and CMPT expense reports for January 2003 for reimbursement of additional amounts of $14,355.87 and $3,295.42, respectively, incurred at Ventanas. He then indicated that those amounts would be conceded as well. No explanation as to how the Appellant came to claim these additional Ventanas expenses was provided. I note that on the copy of the credit card statements submitted in support of all of the claims for the Ventanas expenses, certain information, which appears to relate to the location of the charges and the currency in which the charges were incurred, was blacked out with a marker, leaving only the name “Ventanas Al Paraiso” and amount of the payment showing. There was also another charge claimed in respect of Ventanas for $511.22 on the Plumbers Local 628 Pension expense report for February 2003, which has not been conceded.
+[53] The final conceded amount to which I will refer is a claim for $3,445 in the CMPT expense report for November 2002 which was not supported with any receipt, credit card statement or other document and had no description attached to it. No explanation of how it came to be claimed was provided, either.
+[54] The fact that Global accepted the Appellant’s claims for reimbursement of the conceded amounts also causes me to think that there was little in the way of verification by Global of the expense reports submitted by the Appellant. For this reason, and because the Appellant did not deal at arm’s length with Global, I do not accept that it can be inferred from the fact that Global reimbursed these amounts to the Appellant that they were related to Global’s business.
+[55] Certain other aspects of the Appellant’s testimony also lead me to conclude that he was not credible.
+[56] The documents submitted by the Appellant in a number of instances did not coincide with the testimony he gave. For instance, he said that “something from Cartier was appropriate” for the female head of Regency Care at Christmas but no amounts were claimed on the Regency Care expense reports for purchases made at Cartier around Christmas. Instead, two Cartier purchases dated November 2, 2002 were included in a Local 31 expense report in the amount of $1,224.83 and $1,650.12 (Appellant’s Book of Documents at pages 406 and 412). The only support for the claim was an entry on a credit card statement. The purchases were made in U.S. currency and part of the entry on the statement was blacked out with a marker. No details of these purchases were given by the Appellant in the report or in his testimony. Given the date and the fact that the items were purchased in the U.S. in early November, it is unlikely that these would have been Christmas gifts.
+[57] The Appellant’s testimony concerning a charge of $4,340 at the Chateau Lake Louise showing an arrival date of July 28, 2003 also appears to be inconsistent with the documentation. The Appellant originally stated that he had travelled through Banff and Lake Louise on his way to a meeting in Edmonton with trustees of Local 488. This answer was given in response to questions about the charge for Banff National Park and for Lake Louise Village Market dated July 28 and 29, 2003 (Appellant’s Book of Documents at page 963). When I asked him later about the charge at Chateau Lake Louise, he recalled that the meeting with the trustees was actually held at that hotel rather than in Edmonton, and that the location for the meeting was chosen by the trustees after they learned that the Appellant planned to drive up to Edmonton from Calgary. I note, however, that on the same credit card statement, the Appellant charged an airline ticket for Peter Hitchen from his office with a transaction date of July 31, 2003. The Appellant allocated the cost of the ticket to Local 488. I infer that Hitchen travelled for the meeting with Local 488. From other credit card statements in evidence, it can be seen that the Appellant incurred a charge at Holt Renfrew and at the Westin Hotel, both in Edmonton, on July 31, 2003 and August 1, 2003 (Appellant’s Book of Documents at page 1141). I infer from this material that the Appellant travelled to Edmonton from Lake Louise on July 31, 2003 and that Mr. Hitchen most likely travelled to Edmonton rather than Lake Louise for the meeting, given the purchase date of his ticket. This leads me to infer that the cost of the Lake Louise hotel stay was a personal expense of the Appellant.
+[58] Furthermore, in all of the expense reports relating to Local 488, I was unable to find any claims, other than the one for Mr. Hitchen’s travel, for airfare or other travel expenses of other members of the Appellant’s team or for outside advisors to travel to Edmonton for meetings with Local 488, either in the Local 488 expense reports or in those for Global itself. This is not consistent with the evidence of Mr. Walker that his travel expenses for a trip to Edmonton with the Appellant in September 2003 were paid by the Appellant.
+[59] I also found no entries on any credit card statement in any expense report that showed that the Appellant had paid for anyone else to travel from Toronto to Edmonton with him for the U.A. Canadian Pipeline Industry National Pension Trust Fund meeting in Edmonton held July 2, 2003. The Appellant stated that he had paid the airfare and hotel expenses for two investment managers, Barry Morrison and Michael Borden, to attend the meeting because he needed them there.
+[60] Another point on which the Appellant’s testimony was inconsistent relates to the when certain benefit and pension plans became clients of Global. I asked the witness what new clients he had been able to bring to Global through his efforts to “grow the business” during the period covered by the expense reports. He stated that Regency Care, CMPT, CRPT and the Local 488 Supplementary Benefit Plan were all new clients. However, earlier in his testimony he said that the CMPT and CRPT broke away from the International Union based out of Washington on May 1, 2000 and that the pensions in Canada were set up at that time. It also appears that Global was providing advice on the new pension funds when they were set up. I also note that the Appellant testified that expenses incurred in respect of a prospective client were included in the Global expense reports until they became a client, at which point the expenses would then be included in reports in the name of that client. For Regency Care, Local 488 and CMPT the first expense reports entered into evidence were for May 2002 and for CRPT September 2002. I find it more likely than not that they were already clients of Global by those dates.
+[61] Also, given the lack of evidence that the Appellant brought any new clients to Global during the period in issue, it is difficult to accept that very many of the amounts claimed on the expense reports for Global included amounts spent on prospective clients. While the total claimed on the Global expense reports (after concessions) is approximately $100,000, the Appellant failed to connect any of the expenses with any particular prospective clients.
+[62] Finally, the expense reports put into evidence relate to only 12 pension or benefit funds, despite the Appellant’s claim that he was responsible for more than 20 funds during the period in issue. The evidence did not disclose why the Appellant would have incurred expenses only in relation to about half of his client funds and not others, despite his and Mr. Walker’s assertion that Global’s business was very dependent on good client relationships and the Appellant’s assertion that he was constantly meeting and entertaining clients.
+[63] Another concern I have regarding the Appellant’s credibility concerns the number of expenses I saw that were claimed twice by him on the expense reports, and the circumstances surrounding those duplicate claims.
+[64] I have already referred to two such charges in discussing the Appellant’s testimony. In addition, the Appellant conceded at the hearing that he double claimed the cost of patio furniture that he says he bought for the office patio. The amount of the claim was $3,058.56 on both the June and December 2002 Global expense reports.
+[65] The following items also appear to have been claimed twice:
+- A National Car Rental charge of US $943.55 dated December 2, 2002 claimed in an expense report for Global using the credit card statement entry and for Local 628 Pension Fund using the rental receipt. Appellant’s Book of Documents at pages 425, 438, 550 and 554.
+- A charge for $995.15 on August 12, 2002 at the Five Fishermen Restaurant in Halifax appears on an expense report for Bricklayers Local 2 supported by a credit card statement entry, and on an expense report for UA Canadian Pipeline Pension supported by a restaurant bill. Appellant’s Book of Documents pages 196, 198, 351 and 358.
+- An LCBO charge for $908.65 appears twice on the expense report for Global for September 2003. Appellant’s Book of Documents at pages 1081 and 1082.
+- A bill for $1,357 for cigars at Humidor Cigar Company on October 6, 2003 was claimed on expense reports for Local 628 Pension Fund for October 2003 and for CMPT for June 2003. Appellant’s Book of Documents at pages 851, 856, 1189 and 1191.
+- A bill for $851 from Hermes dated December 18, 2002 was claimed on a CRPT expense report supported by a credit card statement entry, and on a CMPT report supported by the store receipt on which someone stroked out the entry in the box marked “Payment Type” and wrote “Cash” in handwriting that appears different from that on the rest of the receipt. Appellant’s Book of Documents at pages 465, 467, 557 and 559.
+- Charges of $318.33 at Brudenell Golf Course in Cardigan, Prince Edward Island on August 8, 2002 were claimed in expense reports for both Local 628 Welfare Fund on the basis of a credit card statement entry and Marble Tile Workers Local 31 on the basis of a receipt. Appellant’s Book of Documents at pages 275, 279, 405 and 407.
+- A Bish Restaurant charge of $267.47 dated August 13, 2002 claimed in an expense report for Iron Workers Local 764 using the restaurant receipt and for Local 628 Pension Fund using the credit card statement entry. Appellant’s Book of Documents at pages 179, 181, 281 and 285.
+- Charges of $422.42 at Crowbush Cove Golf Club on August 9, 2002 claimed in an expense report for Plumbers Local 628 Welfare Fund using a receipt and on an expense report for Marble Tilers Local 31 using a credit card statement entry. Appellant’s Book of Documents at pages 184, 187, 362 and 364.
+- A charge for $294.69 on August 5, 2002 at the Glasgow Hills Resort is found on an expense report for Bricklayers Local 2 supported by a credit card statement entry and on an expense report for UA Canadian Pipeline Pension supported by a receipt from the resort. Appellant’s Book of Documents pages 196, 199, 351 and 358.
+- A Delta London hotel bill for $184.67 dated February 2003 claimed on an expense report for BAC Welfare Fund using the hotel bill and on an expense report for Marble Tilers Local 31 using a credit card statement entry. Appellant’s Book of Documents at pages 664, 666, 691 and 694.
+- A charge at Wine Country Vintners for $137.54 on December 14, 2002 claimed on an expense report for Bricklayers Local 4 using the receipt and on a report for Regency Care using a credit card statement entry. Appellant’s Book of Documents at pages 450, 452, 574 and 576.
+- A charge at Golftown for $296.58 on May 23, 2002 claimed on an expense report for Local 628 Pension Fund using the receipt and on a report for Local 628 Employee Benefit Fund using a credit card statement entry. Appellant’s Book of Documents at pages 58, 60, 549 and 553.
+- An amount of $300 for tickets to a stag party for Nico Rotundo, son of Dom Rotundo, a trustee of the Local 628 Pension Fund was claimed in the expense report for Global for July 2003 using copies of 5 tickets (at $60 each). In the August expense report for Local 628 Welfare Fund, the Appellant claimed $600 on the basis of a $600 cheque written to Nico Rotundo on July 9, 2003 with the notation “Stag Tickets” added. Appellant’s Book of Documents at pages 916, 939, 940, 1036 and 1044. There was also an amount of $600 claimed in an expense report for Local 628 Welfare Fund in respect of a cheque dated August 15, 2003 written by the Appellant to Dom Rotundo. No purpose for the payment was shown. Appellant’s Book of Documents at pages 1036 and 1044.
+[66] In addition, the Appellant also claimed $500 in a Regency Care expense report for a cheque written by the Appellant to Nico Rotundo on September 13, 2003 and listed as a gift. Appellant’s Book of Documents at pages 1102 and 1104.
+[67] I also noticed instances where the Appellant appears to have submitted two claims for the same restaurant meal on expense reports for different clients, supported in one instance by a restaurant receipt or stub and in the other by the charge shown on his credit card statement. While the amounts of those claims on the expense reports are not identical, there is enough similarity between the two charges that I infer that they are duplications. Some examples are:
+- Octagon Restaurant bill dated July 31, 2002 in the amount of $1,604.71 (no tip showing) on the expense report relating to Local 628 Pension Fund, and a credit card statement entry for Octagon Restaurant for $2,104.71 with a transaction date of July 31, 2002 and included in a Local 800 expense report: Appellant’s Book of Documents pages 47, 54, 328, 330.
+- Harbour Sixty Steakhouse bill in the amount of $2,780.31 (no tip showing) date illegible (reported as Oct 5/02) on an expense report for UA Canadian Pipeline and a credit card statement entry for the same restaurant for $3,080.31 dated October 7, 2002 appearing on the Global expense report: Appellant’s Book of Documents pages 220, 222, 506 and 508.
+- An Octagon Restaurant receipt dated December 12, 2002 for $1,574.42 with handwritten figures “200” and “1774.42” on a CMPT expense report, and a credit card statement entry for $1,874.42 at the same restaurant on the same date and included in a BAC Dental Plan expense report: Appellant’s Book of Documents pages 461, 463, 557 and 561.
+- Il Cavallino restaurant receipt dated September 17, 2002 showing a handwritten amount of $392.02 claimed in the October 2002 expense report relating to Local 628 Pension Fund, and a credit card entry for $402.02 with the same date at the same restaurant claimed on the Local 628 Pension Fund expense report for November 2002. Appellant’s Book of Documents pages 229, 232, 386 and 394.
+- La Fenice restaurant receipt for $526.50 (no tip showing) dated February 8, 2003 on a Regency Care expense report, and a credit card entry for $576.50 on the same date at the same restaurant on a Local 628 Welfare Plan expense report: Appellant’s Book of Documents pages 659, 661, 669 and 674.
+- Lula Lounge receipt dated January 17, 2003 at 11:23 p.m. for $233.04 with handwritten notes of “100.00” and “333.04” on an expense report for Sheet Metal Workers Local 285, and a credit card statement entry dated January 18, 2003 in the amount of $283.04 at the same establishment claimed on a Regency Care expense report: Appellant’s Book of Documents pages 605, 607, 735, 738.
+- A Tides Restaurant receipt dated December 29, 2002 for $342.95 in an expense report for Bricklayers Local 4 and a credit card statement entry on the same date for the same restaurant for $292.98 in a Global expense report. I believe that this is the same charge, despite the difference in amount, because it appears that the original bill was in a different currency and V.A.T. was charged. On the credit card statement the location was shown as “St. James” which is in Barbados and the currency type was blacked out with a marker. Appellant’s Book of Documents pages 425, 432, 574 and 576.
+- Applebee’s receipt dated May 22, 2002 for $72.07 (before tip) on an expense report for Local 628 Pension Fund, and a credit card statement entry dated May 22, 2002 for $82.07 at the same establishment claimed on a Local 628 Employees Benefits Fund expense report: Appellant’s Book of Documents pages 58, 60, 539 and 542.
+[68] This list shows only the duplications that I saw in my review of the documents. I did not attempt to review all items listed in the expense reports.
+[69] I also noticed quite a few instances where certain information in credit card entries pertaining to claimed amounts was blacked out. From looking at the format of the credit card statements on which this was done, the blacked out information is likely details of where the charge was incurred and the type of currency used. No explanation was given for blacking out this information.
+[70] I would also note that the Appellant’s testimony was corroborated only to a limited extent by the remaining witnesses.
+[71] For example, Mr. Milkovich confirmed that the Appellant travelled to Thunder Bay on a number of occasions to meet with the trustees of the Local 628 Pension and Benefit Plans and that he took the trustees out for dinner either before or after the meetings. He also confirmed that the Appellant attended education seminars he was at and that the Appellant took the trustees out for dinner on those occasions as well.
+[72] Mr. Milkovich was not asked, though, about whether he or the other trustees received other entertainment or gifts from the Appellant. The total amount of the expenses claimed by the Appellant on the expense reports relating to the Local 628 Pension and Employee Benefit Plans during the period in issue was approximately $145,000. Of this amount, approximately $97,000 was expensed by the Appellant in relation to the Local 628 Pension Fund. This figure includes the following amounts, none of which Mr. Milkovich was asked about:
+- A supposed gift for a retiring union member (Albert Woodbeck) that the Appellant said the trustees of the plan directed him to buy. The Appellant claimed reimbursement of a charge of $3,406 paid to Holiday Network on July 1, 2002, supported by an entry on a credit card statement beside which the Appellant wrote “Albert Retirement”. Appellant’s Book of Documents at pages 386 and 393.
+- Approximately $23,000 claimed on the expense report for November 2002, including:
+- two charges at Saks on November 5, 2002 for $4,704.71 and $2,548.34. The amount was charged in U.S. dollars, but other information pertaining to the charge on the credit card statement was blacked out. Appellant’s Book of Documents pages 386 and 388
+- a charge on the November 2002 expense report for $4,502.18 at Whitewater Recreation in Thunder Bay on November 13, 2002. Appellant’s Book of Documents at pages 386 and 389.
+- Another charge of $9,616 from Holiday Network dated October 11, 2002 included on the October expense report (Appellant’s Book of Documents at pages 248 and 250). No details of the charge were provided.
+- A charge at an establishment called “Accra Christchurch” for $2,446.16 on December 31, 2002 claimed on the December 2002 expense report. This amount was apparently charged in and converted from a foreign currency but other details on the credit card statement were blacked out. (Appellant’s Book of Documents pages 475 and 478).
+- Tickets in Las Vegas in addition to those referred to by the Appellant in his testimony: $999.25 paid to Golden Tickets and $3,227.96 to Mandalay Bay box office in July 2002, and almost $5,000 for tickets in February 2003.
+[73] Also, while Mr. Milkovich recalled the Appellant attending meetings of the trustees in Thunder Bay and Toronto and education meetings in Ottawa, Halifax and Orlando, the Appellant’s expense reports relating to the Local 628 Pension Fund showed charges incurred in the following additional locations during the period in issue:
+- Las Vegas: Late July 2002
+- Prince Edward Island: August 2002
+- Las Vegas: November 5, 2002
+- Miami: November 27, 2002
+- Christ Church, Barbados: December 31, 2002
+- Las Vegas: Late February 2003
+- Miami: early April 2003
+- Las Vegas: April 28, 2003
+- Las Vegas: May 24, 2003
+- Las Vegas: late July 2003
+[74] Charges from most of the above locations were also claimed on the expense reports for Local 628 Employee Benefits Plan, but in addition, there were also charges from the following locations:
+- Myrtle Beach, South Carolina and Daytona Beach, Florida in March 2002
+- Duke University, North Carolina: April 2002 and
+- Orlando: March 2003
+[75] Other amounts claimed on the Local 628 Employee Benefits Plan expense reports include three charges that purportedly relate to the retirement of Reg Woodbeck. One of the amounts, a payment of $3,458 to Signature Vacations on August 6, 2002, was also said by the Appellant to be a gift that the trustees directed him to make to Reg Woodbeck. However, the Appellant also claimed reimbursement from Global for $3,794 paid to Holiday Network on July 1, 2002, the purpose of which was stated to be “Reg Retirement” (Appellant’s Book of Documents at page 189). A third claim, for a charge at Golftown for $344.72, included the notation “Retirement Reg Woodbeck.” (Appellant’s Book of Documents at page 61). The Appellant did not explain why he would have given three retirement gifts to Woodbeck.
+[76] In addition to the Las Vegas ticket expenses claimed on the expense reports of Local 628 Pension Fund, the Appellant also claimed $4,454.91 for tickets to events in Las Vegas in May 2003 on the Local 628 Welfare Fund expense reports. No names of the recipients of any of the tickets were provided.
+[77] No pension or benefit plan trustee other than Mr. Milkovich was called to testify, nor was anyone called from Regency Care. A number of Global’s clients are located in Toronto, yet no one from those clients was called upon to corroborate the Appellant’s claims that he spent many thousands of dollars a month on meals, golf, entertainment, and gifts for them as part of Global’s business. Furthermore, none of the other account executives at Global were asked to testify, nor was there any evidence of what amounts they spent on travel and entertainment. In my view, this is all evidence that was within the power of the Appellant to provide, and I draw a negative inference from the failure to provide any of it.
+[78] I also find that the testimony of Ms. Mungo is of little assistance. I note that she is employed by the Appellant’s company and has worked as the Appellant’s assistant for 16 years and is not a disinterested witness. In any event, her testimony was largely lacking in specifics that would corroborate the purpose of the multitude of expenses for which the Appellant was reimbursed by Global during the period in issue.
+[79] Despite the problems with the reliability and credibility of much of the evidence presented by the Appellant, I am satisfied that some of the amounts for which he was reimbursed were incurred for the purposes of Global’s business. An example would be amounts claimed for travel to and from Thunder Bay on dates that coincide with the dates of for the Local 628 Pension and Employee Benefits Plans trustee meetings, and for travel related to the educational conferences at which the Appellant’s attendance was corroborated by Mr. Milkovich and Mr. Walker, and for dining and entertainment that coincided with the meetings. By my calculation, the expenses that can be connected to the meetings come to $38,261.09, as set out in the Appendix to these reasons.
+[80] While I am satisfied that the Appellant also likely incurred some of the expenses listed in the expense reports for other clients in the course of Global’s business, it is difficult to put a number on those expenses. The evidence does not disclose the dates and locations of the quarterly meetings or any special meetings of the trustees of those other plans and the expense reports set out very few details of the expenditures claimed. As a result, I have little evidence before me that would enable me to correlate the amounts claimed with those meetings or any other business purpose for the expenditures. Since it is the Appellant’s appeal, it could be argued that the Appellant has the onus to show what that amount is, and that since he has not done so, nothing more should be allowed to him. However, I believe it is more appropriate in this case to allow the Appellant a similar percentage of the claimed expenses as I would allow of the amounts claimed in the expense reports for the Local 628 Pension and Employee Benefits Plans. Since I have found that $38,261.09 of the $145,950.66 claimed in relation to the Local 628 plans (i.e. 26.21% of the total) was incurred for Global’s business, I find that the same proportion of all of the other reimbursement claims (after concessions) were incurred for the purposes of Global’s business. The net result is that the Appellant will be considered to have given consideration equal to 26.21% of all of the amounts remaining in issue (after taking into account the concessions made by the Appellant) for the payments he received from Global. I calculate the amount to be allowed as follows:
+26.21% x $442,744.66=$116,065.86
+[81] For all of these reasons, the appeal is allowed in part, and the matter is referred back to the Minister for reassessment in accordance with these reasons. Given the mixed result, no costs are awarded.
+Signed at Ottawa, Ontario, this 24th day of May 2019.
+“B. Paris”
+Paris J.
+Appendix
+Date
+Location
+Meeting
+Expense Type
+Amount
+Book of Documents Page #
+May 9/10, 2002
+Ottawa
+Canadian Employee Benefits Conference – Legislative Update
+No related expenses appear to have been claimed
+May 21/22, 2002
+Thunder Bay
+Pension and Employment Benefit Plans Trustee Meetings
+Air Canada
+Valhalla Inn
+Valhalla Inn
+Applebees
+1531.63
+340.23
+25.87
+82.07
+Page 58
+“ “
+Aug. 9-14, 2002
+Halifax
+Canadian Employee Benefit Conference
+Signature Vacation
+Brudenell Golf Course
+Links at Crowbush Cove
+Pro Shop
+Five Fishermen
+GTAA parking
+3458.00
+318.33
+422.42
+992.45
+435.50
+160.00
+276
+276
+187
+386
+386
+549
+Sept. 19 ,2002
+Thunder Bay
+Pension Plan Trustees Meeting
+Air Canada
+Air Canada
+Valhalla Inn
+Valhalla Inn
+Valhalla Inn
+1643.98
+1643.98
+113.43
+154.56
+473.34
+229
+229
+229
+229
+229
+Nov. 13, 2002
+Thunder Bay
+Employment Benefits Plan Trustee Meeting
+Air Canada
+Air Canada
+Air Canada
+Caribou Restaurant
+Valhalla Inn
+Valhalla Inn
+Whitewater Recreation
+Applebees
+2030.80
+1197.80
+1197.80
+133.40
+290.77
+29.44
+4502.18
+76.09
+386
+386
+386
+386
+386
+386
+386
+539
+Nov. 25-27, 2002
+Orlando
+International Foundation of Employee Benefits Conference
+Christini’s Restaurant
+Forge Restaurant
+Edwin Watts Golf Shop
+Air Canada
+Air Canada
+947.13
+734.30
+544.75
+2030.80
+1298.80
+387
+549
+187
+469
+469
+March 20, 2003
+Toronto
+Pension Plan Trustees Meeting
+No expenses appear to have been claimed
+March 28, 2003
+Thunder Bay
+Employment Benefit Plan Trustees Meeting
+Valhalla Inn
+Valhalla Inn
+Air Canada
+Air Canada
+588.65
+69.44
+1591.18
+1591.98
+837
+837
+837
+837
+May ? 2003
+Ottawa
+Canadian Employee Benefits Conference – Legislative Update
+No expenses appear to have been claimed
+June 3-4, 2003
+Thunder Bay
+Pension and Employment Benefit Plans Trustees Meeting
+Valhalla Inn
+Valhalla Inn
+Valhalla Inn
+Air Canada
+Travel Service
+Timbers
+Applebee’s
+Co-op Cab
+Co-op Cab
+Travel Service
+310.14
+7.65
+7.65
+1785.92
+69.55
+25.65
+68.70
+40.00
+45.00
+69.55
+837
+837
+837
+816
+816
+816
+816
+816
+816
+837
+August 2003
+Halifax
+Canadian Employee Benefits Conference
+No expenses appear to have been claimed
+October 6, 2003
+Thunder Bay
+Pension and Employment Benefits Plan Trustee Meetings
+Air Canada
+Air Canada
+Valhalla Inn
+Valhalla Inn
+Humidor Cigar Co.
+1636.62
+1636.62
+323.70
+11.96
+1357.00
+1184
+1184
+1189
+1189
+1189
+September 7, 2003
+Thunder Bay
+No meeting indicated
+Travel Lodge
+GTAA
+Lacey’s Taxi
+Yellow Taxi
+152.98
+37.00
+15.00
+10.00
+1113
+1113
+1113
+1113
+CITATION:
+2019 TCC 91
+COURT FILE NO.:
+2016-1477(IT)G
+STYLE OF CAUSE:
+ALLEN JEFFERSON AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+October 2, 3 and 4, 2018
+REASONS FOR JUDGMENT BY:
+The Honourable Justice B. Paris
+DATE OF AMENDED JUDGMENT:
+May 24, 2019
+APPEARANCES:
+Counsel for the Appellant:
+Angelo Gentile
+Louise R. Summerhill
+Meghan Cowan
+Counsel for the Respondent:
+Devon E. Peavoy
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Angelo Gentile
+Louise R. Summerhill
+Meghan Cowan
+Firm:
+Aird & Berlis LLP
+Toronto, Ontario
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada

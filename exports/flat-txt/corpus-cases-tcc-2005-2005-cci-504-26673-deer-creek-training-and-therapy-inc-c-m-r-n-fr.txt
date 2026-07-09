@@ -1,0 +1,214 @@
+Title: Deer Creek Training and Therapy Inc. c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26673/index.do
+Corpus path: corpus/cases/tcc/2005/2005-cci-504-26673-deer-creek-training-and-therapy-inc-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2005-08-26
+
+# Deer Creek Training and Therapy Inc. c. M.R.N.
+
+- Citation: 2005 CCI 504
+- Decision date: 2005-08-26
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3615, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Deer Creek Training and Therapy Inc. c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-08-26
+Référence neutre
+2005 CCI 504
+Numéro de dossier
+2004-4471(EI)
+Juges et Officiers taxateurs
+David W. Beaubier
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2004-4471(EI)
+ENTRE :
+DEER CREEK TRAINING AND THERAPY INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu sur preuve commune avec l’appel de Deer Creek Training and Therapy Inc. [dans le dossier 2004-4473(CPP)] le 8 août 2005,
+à Prince Albert (Saskatchewan).
+Devant : L’honorable juge D.W. Beaubier
+Comparutions :
+Avocat de l’appelante :
+Me Peter V. Abrametz
+Avocat de l’intimé :
+Me Julien Bedard
+JUGEMENT
+L’appel est accueilli et la décision du ministre est annulée conformément aux motifs du jugement ci‑joints. L’appelante a droit à tous les dépens et débours permis en vertu de la Loi sur l’assurance‑emploi.
+Signé à Regina (Saskatchewan), ce 26e jour d’août 2005.
+« D.W. Beaubier »
+Juge Beaubier
+Traduction certifiée conforme
+ce 8e jour de février 2008.
+Maurice Audet, réviseur
+Dossier : 2004-4473(CPP)
+ENTRE :
+DEER CREEK TRAINING AND THERAPY INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu sur preuve commune avec l’appel de Deer Creek Training and Therapy Inc. [dans le dossier 2004-4471(EI)] le 8 août 2005,
+à Prince Albert (Saskatchewan).
+Devant : L’honorable juge D.W. Beaubier
+Comparutions :
+Avocat de l’appelante :
+Me Peter V. Abrametz
+Avocat de l’intimé :
+Me Julien Bedard
+JUGEMENT
+L’appel est accueilli, et la détermination du ministre est annulée conformément aux motifs du jugement ci‑joints. L’appelante a droit à tous les dépens et débours permis en vertu du Régime de pensions du Canada.
+Signé à Regina (Saskatchewan), ce 26e jour d’août 2005.
+« D.W. Beaubier »
+Juge Beaubier
+Traduction certifiée conforme
+ce 8e jour de février 2008.
+Maurice Audet, réviseur
+Référence : 2005CCI504
+Date : 20050826
+Dossier : 2004-4471(EI)
+2004-4473-(CPP)
+ENTRE :
+DEER CREEK TRAINING AND THERAPY INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Beaubier
+[1] Les présents appels ont été entendus sur preuve commune par consentement des parties à Prince Albert (Saskatchewan), le 8 août 2005. L’appelante a appelé à témoigner : Carol Ann Brockington‑Hansen B.A., M.A., (« Mme Hansen »); Peter Griffiths, B.Serv.Soc., M.Serv.Soc. (« M. Griffiths »); Katherine Bird, B.A., B.Serv.Soc. (« Mme Bird »); Cecil Eashappie, chef de cercles de guérison (« M. Eashappie »), dont le nom est orthographié « Eschappie » dans les actes de procédure; Nora Horan, commis comptable; et Ron Friesen, c.a. L’intimé a appelé à témoigner Theresa Lanigan, qui est membre agréé de la « Mediation Association », et Shirley Penner, qui a fait six années d’études à l’Université de Regina mais dont les diplômes et le titre professionnel ne figurent pas dans la preuve.
+[2] Les hypothèses sont semblables, mais l’appel relatif au Régime de pensions du Canada (le « RPC ») vise la période allant du 1er janvier 2001 au 31 juillet 2003, alors que l’appel relatif à l’assurance‑emploi vise la période allant du 1er janvier 2002 au 31 juillet 2003. Les paragraphes 4 à 8 inclusivement de la réponse à l’avis d’appel dans le dossier 2004-4473(CPP) énoncent les questions en litige et sont rédigés ainsi :
+[traduction]
+4. Dans un avis de cotisation daté du 6 novembre 2003, une cotisation a été établie à l’égard de l’appelante relativement, entre autres, aux cotisations de 7 750,46 $ au Régime de pensions du Canada (le « RPC ») pour l’année d’imposition 2003, concernant les personnes suivantes : K. Bird, Shrolyn Bird (ci‑après « S. Bird »), Connie Desjarlais (ci‑après « Mme Desjarlais »), Cecil Eschappie (ci‑après « M. Eschappie »), Mme Hansen, Mme Lanigan, Mme Mohl, Mme Penner et Eunice Wood.
+5. Dans une lettre reçue le 3 décembre 2003, l’appelante a interjeté appel devant le ministre en vue de faire examiner de nouveau les cotisations établies pour les années 2001, 2002 et 2003.
+6. À la suite de l’appel interjeté par l’appelante, le ministre a décidé de faire ce qui suit :
+a) annuler les cotisations établies pour les années 2001 et 2002 à l’égard de Mme Morrow, étant donné qu’elle n’exerçait pas un emploi aux termes d’un contrat de louage de services pour l’appelante,
+b) par ailleurs, ratifier les cotisations pour les années 2001, 2002 et 2003, étant donné que K. Bird, S. Bird, Mme Desjarlais, M. Eschappie, Mme Hansen, Mme Lanigan, Mme Mohl et Mme Penner (ci‑après les « travailleurs ») exerçaient un emploi aux termes d’un contrat de louage de services pour l’appelante.
+7. Dans sa décision à l’égard des travailleurs, le ministre s’est fondé sur les hypothèses de fait suivantes :
+a) l’appelante exploitait une entreprise qui fournissait des services de consultation;
+b) K. Bird et Mme Hansen étaient les directrices de l’appelante;
+c) l’appelante a conclu des accords avec la Fondation autochtone de guérison du Canada (ci‑après « la FAG ») pour satisfaire les besoins de guérison des autochtones victimes d’abus;
+d) K.Bird était directrice et ses fonctions comprenaient l’établissement d’offres de services et de rapports, la prestation de conseils aux clients, la supervision de programmes de groupe, ainsi que l’administration et la gestion de l’entreprise;
+e) Mme Hansen était directrice et ses fonctions comprenaient la négociation de contrats avec le gouvernement, la prestation de conseils aux clients, la supervision d’autres travailleurs, ainsi que la gestion de l’entreprise;
+f) S. Bird a été engagée pour les publications spéciales;
+g) Mme Desjarlais a été engagée en tant que facilitatrice;
+h) M. Eschappie a été engagé en tant que consultant;
+i) Mme Lanigan a été engagée en tant que conseillère et ses fonctions comprenaient l’accueil des clients et la défense de leurs intérêts, la médiation, l’entrée de données et le suivi;
+j) Mme Mohl a été engagée à titre de conseillère et ses fonctions comprenaient l’accueil des clients et l’exécution des programmes de facilitation;
+k) Mme Penner a été engagée en tant que médiatrice et ses fonctions comprenaient la prestation du programme de médiation scolaire;
+l) les travailleurs assuraient la prestation de la plupart de leurs services dans les locaux de l’appelante, mais certains services étaient fournis sur place;
+m) les travailleurs gagnaient des salaires fixes;
+n) K.Bird et Mme Hansen gagnaient un salaire annuel fixe de 40 000 $;
+o) Mme Mohl gagnait un salaire annuel fixe de 20 000 $;
+p) Mme Penner touchait un salaire annuel fixe de 30 000 $;
+q) l’appelante payait les travailleurs deux fois par mois;
+r) l’appelante libellait les chèques au nom des travailleurs;
+s) l’appelante décidait du salaire des travailleurs;
+t) l’appelante a retenu des cotisations sur le salaire des travailleurs pour une partie de l’année 2002;
+u) Mme Lanigan travaillait à temps partiel, normalement 80 heures par mois;
+v) Mme Mohl travaillait normalement de 8 h à 17 h, du lundi au vendredi;
+w) Mme Penner travaillait normalement de 9 h à 17 h, du lundi au vendredi;
+x) les travailleurs comptabilisaient leurs heures de travail et certains présentaient des feuilles de temps à l’appelante;
+y) l’appelante trouvait les clients;
+z) l’appelante avait la responsabilité de s’assurer que les modalités des contrats avec la FAG étaient respectées;
+aa) l’appelante s’occupait de toutes les tâches liées aux formalités administratives et au financement de programme;
+bb) K. Bird et Mme Hansen géraient les activités de l’appelante;
+cc) l’appelante contrôlait, surveillait et supervisait les travailleurs et leur donnait des instructions;
+dd) S. Bird, Mme Desjarlais, M. Eschappie, Mme Lanigan, Mme Mohl et Mme Penner relevaient de K. Bird et de Mme Hansen;
+ee) quand ils fournissaient des services aux clients de l’appelante, les travailleurs se présentaient comme des employés de l’appelante;
+ff) les travailleurs informaient l’appelante quand ils devaient prendre congé;
+gg) les travailleurs ne pouvaient ni se faire remplacer ni engager leurs propres assistants;
+hh) l’appelante fournissait le lieu de travail, y compris des installations de bureau complètes;
+ii) certains travailleurs avaient un bureau à domicile;
+jj) l’appelante versait à certains travailleurs une indemnité de 200 $ par mois pour frais de bureau à domicile;
+kk) l’appelante remboursait les frais de déplacement des travailleurs;
+ll) les travailleurs ne supportaient pas de dépenses d’exploitation;
+mm) les travailleurs n’avaient ni possibilité de profit ni risque de perte;
+nn) S. Bird, Mme Desjarlais, M. Eschappie, Mme Lanigan, Mme Mohl et Mme Penner n’avaient pas leur propre nom commercial, compte bancaire d’affaires, compte de TPS ou permis d'exploitation d'un commerce;
+oo) les travailleurs ne travaillaient pas à leur compte quand ils assuraient la prestation de services pour l’appelante;
+pp) les salaires des travailleurs, pour la période allant du 1er janvier 2001 au 31 juillet 2003, sont exposés en détail à l’annexe A, qui est jointe à la réponse à l’avis d’appel et en fait partie.
+B. QUESTIONS EN LITIGE
+8. La question à trancher est de savoir si les travailleurs exerçaient un emploi aux termes d’un contrat de louage de services pour l’appelante pendant la période allant du 1er janvier 2001 au 31 juillet 2003.
+[3] Les hypothèses 7 a), b), c), d), e), f), g), h), i), j), k), q), r), t), u), x), aa), bb), dd), ff), ii), kk) et nn) n’ont pas été réfutées par la preuve. En ce qui concerne certaines des hypothèses qui précèdent et le reste des hypothèses, la Cour conclut ce qui suit :
+e) Mme Hansen « supervisait » les relations éthiques et professionnelles des travailleurs avec les clients et non pas le travail quotidien des travailleurs. Dans son témoignage, Mme Lanigan s’est plainte de la façon peu structurée dont l’appelante était exploitée. Le niveau de gestion était si faible que Mme Lanigan, réceptionniste à temps partiel, avait inscrit tellement d’heures en l’espace de quelques mois pendant sa dernière année qu’elle avait touché son montant annuel de 20 000 $ pour les quatre derniers mois sans travailler, et l’appelante était fâchée que cela se soit produit. Toutefois, l’appelante n’avait pas comptabilisé les heures de présence de Mme Lanigan qui, pour sa part, l’avait fait. Les autres travailleurs comptabilisaient aussi leurs propres heures de travail personnellement, mais l’appelante ne les comptabilisait pas.
+l) Un grand de nombre de travailleurs, y compris Mme Penner, effectuaient le gros de leur travail ailleurs que dans les locaux de l’appelante.
+m) n) o) p) Ces hypothèses sont exactes, mais le mot « salaire » est incorrect. Le mot « versement » décrit mieux le mode de paiement des travailleurs.
+r) Parfois, le nom du travailleur et son nom commercial figuraient sur le chèque.
+v) Les heures de travail de Mme Mohl n’ont pas été précisées dans la preuve; cet élément n’a donc pas été réfuté.
+w) Mme Penner travaillait de temps en temps après les heures de travail étant donné que, dans le cadre de son travail, elle assurait la liaison entre les élèves, l’école et les parents des élèves.
+x) L’appelante ne décidait pas quel était le salaire des travailleurs. Les travailleurs professionnels établissaient des offres de service pour les gouvernements et les établissements comme la FAG et estimaient quelle était la contribution de chacun d’entre eux et celle d’autres employés dans les exigences de l’offre de service. Si l’offre de service était acceptée et qu’un contrat était conclu, les montants à verser à chaque travailleur en contrepartie des services fournis étaient indiqués par intitulé dans une annexe au contrat, et des versements trimestriels étaient faits en conséquence selon les modalités du contrat conformément aux taux horaires estimés par les travailleurs ayant établi l’offre de service. Chaque travailleur devait donc travailler un nombre minimum d’heures et rédiger un rapport trimestriel concernant le travail accompli. La plupart du temps, c’était les travailleurs qui faisaient leurs propres estimations destinées à l’offre de service appelée à devenir un contrat. Ces rapports trimestriels étaient réunis par l’appelante de façon à former un rapport trimestriel complet pour le client, p. ex., la FAG, pour que les versements trimestriels prévus au poste correspondant du budget annexé au contrat puissent être effectués.
+y) L’appelante trouvait normalement ses clients en présentant à des clients potentiels des offres de service établies par les travailleurs professionnels. Ces professionnels avaient constitué l’appelante en personne morale afin d’avoir une entité sans but lucratif pour les contrats avec le gouvernement et un endroit autre que leurs bureaux à domicile pour rencontrer les clients dangereux ou rebelles.
+[4] L’appelante n’était pas tenue de s’assurer que les modalités des contrats étaient respectées. Si un travailleur ne présentait pas un rapport écrit satisfaisant, il n’était pas payé. Toutefois, les parties des autres travailleurs qui présentaient des rapports écrits étaient payées par le client, puis l’appelante payait à son tour les travailleurs à même les fonds reçus. Mme Penner n’a jamais présenté de rapport écrit final, même si on le lui avait demandé, et elle n’a pas reçu son dernier versement. Les autres travailleurs ont présenté leurs rapports et ont été payés.
+cc) L’hypothèse est inexacte. Les travailleurs se présentaient comme étant « avec » l’appelante, mais non pas comme des « employés » de l’appelante.
+ff) Les travailleurs se contentaient d’inscrire les moments où ils n’étaient pas disponibles dans un livre conservé à cette fin au poste de la réception.
+gg) Les travailleurs se faisaient remplacer par les personnes de leur choix. Par exemple, M. Eashappie était essentiellement un « ministre du culte » qui dirigeait les cérémonies des cercles de guérison autochtones. Il se faisait remplacer par sa femme de temps à autre et il recevait quand même les paiements. Rien dans la preuve n’indique qu’il y avait embauche d’« assistants », distincts des remplaçants.
+hh) L’appelante fournissait « un » lieu de travail. Tous les travailleurs avaient un bureau à domicile, ainsi que leurs propres livres, articles de papeterie, accessoires de bureau, téléphones cellulaires et automobiles. Un grand nombre d’entre eux avaient leur propre ordinateur. Tous les travailleurs travaillaient dans leur bureau à domicile ou ailleurs qu’au lieu de travail de l’appelante dans le cadre de l’exécution de leurs contrats.
+jj) Certains travailleurs recevaient une indemnité mensuelle de 200 $ pour frais de bureau à domicile conformément au contrat de l’appelante avec la FAG, en fonction de qui était versé par la FAG, selon le poste du budget prévu.
+ll) Un grand nombre de travailleurs avaient d’autres contrats. Mme Lanigan occupait un emploi à temps plein distinct dans un refuge et avait d’autres contrats. Tous les travailleurs supportaient leurs propres dépenses d’exploitation.
+mm) Tous les travailleurs avaient des possibilités de profit s’ils organisaient leur temps et s’ils exécutaient les travaux visés au contrat dans le délai prévu ou en moins de temps; s’ils n’y arrivaient pas, le temps supplémentaire consacré n’était pas payé, étant donné qu’on aurait dépassé le temps correspondant au paiement forfaitaire annuel prévu dans le contrat. Ils avaient tous des risques de perte s’ils dépassaient le temps alloué, s’ils ne présentaient pas un rapport écrit satisfaisant ou bien si leurs dépenses dépassaient leur rémunération (p. ex., s’ils n’étaient pas payés ou si les frais de bureau à domicile qu’ils engageaient étaient excessifs).
+oo) L’hypothèse sera traitée ci‑dessous.
+pp) Les travailleurs ne recevaient pas de salaire, mais plutôt des versements qui étaient déduits des montants attribués aux postes relatifs au contrat conclu par l’appelante. Ils étaient donc payés à chaque trimestre dans le cas de la FAG.
+[5] En ce qui concerne l’hypothèse oo) :
+1. Le cas de tous les travailleurs, à l’exception de Mme Penner et de Mme Lanigan, est examiné ci-après.
+a) Contrôle : Le seul contrôle exercé sur ces travailleurs était celui requis par leur profession, c.‑à‑d. qu’une personne titulaire d’un B.A. ou d’un B.Serv.Soc. devait être « supervisée » par une personne détenant une M.A. ou une M.Serv.Soc.; ce contrôle visait les questions d’éthique et non le travail quotidien des travailleurs. Personne ne disait aux travailleurs comment exécuter leurs contrats.
+b) Instruments de travail : Les travailleurs avaient un bureau à domicile, ainsi que leurs propres instruments de travail, livres, accessoires de bureau, téléphones cellulaires et automobiles. Ils utilisaient les locaux, les bureaux et les accessoires de bureau de l’appelante également.
+c) Profit - perte : Chaque travailleur avait des possibilités de profit et des risques de perte.
+d) Intégration : Les travailleurs avaient la possibilité d’avoir des contrats externes et ils en avaient. Ils pouvaient se faire remplacer. Si un travailleur n’exécutait pas un des éléments d’un contrat conclu avec l’appelante et ne présentait pas de rapport à l’égard de cet élément, ni lui ni l’appelante n’étaient payés. Toutefois, une autre personne aurait pu exécuter cet élément, présenter un rapport y afférent et être payée, ou bien le travailleur aurait pu se faire remplacer. Les travailleurs établissaient leurs propres heures de travail et faisaient les choses comme bon leur semblait et ils ne relevaient de personne dans l’exécution de leurs diverses tâches. Ils ne faisaient pas partie intégrante de l’appelante. Ils travaillaient tous à leur compte.
+Pas conséquent, les appels relatifs à tous les travailleurs, sauf Mme Lanigan et Mme Penner, sont accueillis.
+2. Mme Lanigan : Theresa Lanigan est une femme mûre, d’âge moyen, qui travaille à temps plein dans un refuge à Prince Albert (Saskatchewan) depuis maintenant 25 ans. Elle a été embauchée par Mme Hansen, à peu près au moment du décès de son mari, pour travailler à temps partiel en tant que « travailleuse chargée de l’accueil des personnes en situation de crise » qui étaient dirigées vers elle dans le cadre du contrat conclu avec la FAG et qui communiquaient avec l’appelante quand elles avaient besoin de voir quelqu’un immédiatement. Mme Lanigan a toujours conservé son emploi à temps plein au refuge. Dans le cadre de son travail, elle fixait des rendez‑vous aux personnes en crise, enregistrait leur admission et entrait diverses données. De temps à autre, elle remplaçait un autre travailleur. Par exemple, elle remplaçait Mme Penner dans des écoles. Elle n’a fait état d’aucun diplôme universitaire, mais, pendant toutes les périodes pertinentes, il était clair qu’elle avait une vaste expérience de travail et des connaissances pratiques approfondies en matière de questions liées aux crises dans la région de Prince Albert. Pour ce qui est des critères qui s’appliquent à elle :
+a) Contrôle : Aucun contrôle n’était exercé sur elle. Elle allait et venait à sa guise. L’appelante ne comptabilisait ni son temps ni les tâches qu’elle effectuait, et Mme Lanigan agissait en tant que remplaçante à court terme pour les autres quand elle pensait pouvoir les aider.
+b) Instruments de travail : Elle avait un bureau complet à domicile.
+c) Profit - perte : Elle avait un autre emploi et d’autres activités professionnelles. D’autres personnes ont indiqué dans leurs témoignages que Mme Lanigan semblait se servir du téléphone dans les locaux de l’appelante pour mener certaines de ces activités, et ce, sans que personne n’intervienne. En fait, elle a énormément profité de la situation, car elle a travaillé de façon non supervisée et comptabilisé le temps ainsi travaillé, puis elle a été payée pour quatre mois de travail sans jamais se présenter de nouveau dans les locaux de l’appelante. Il y aurait eu une perte si elle avait dû exécuter des tâches qui lui auraient demandé tellement de temps qu’elle n’aurait pas été en mesure de tirer un revenu des autres activités qu’elle exerçait.
+d) Intégration : L’appelante semble avoir fonctionné aussi bien sans elle. Les autres pouvaient exécuter ses tâches et l’ont fait, et Mme Lanigan, comme le reste des travailleurs, était payée à même un poste du contrat conclu avec la FAG. Elle ne faisait pas partie intégrante de l’appelante. L’appel relatif à Theresa Lanigan est accueilli.
+3. Shirley Penner a été engagée par l’appelante aux termes d’un contrat de louage de services à raison de 15 $ l’heure et elle était une employée en vertu de ce contrat depuis l’entrée en vigueur de celui-ci, le 1er avril 2002 (voir la pièce R‑6). La question à trancher est celle de savoir s’il a été mis fin au contrat et, si oui, quand? La Cour conclut qu’il a été mis fin au contrat de louage de services le 20 janvier 2003, quand Mme Penner a signé la pièce A‑5. Peu après avoir commencé à travailler pour l’appelante, elle a subi une série d’accidents vasculaires cérébraux. Le 4 juin 2002, on lui a dit qu’elle ne pouvait pas retourner travailler si elle ne présentait pas un certificat d’autorisation du médecin (pièce R‑2). Ultérieurement, elle est retournée travailler et, dans le cadre de ses fonctions, elle s’occupait des élèves difficiles dans les écoles locales, des écoles et des parents. Mme Hansen a indiqué dans son témoignage que Mme Penner voulait toucher ses retenues parce qu’elle avait besoin d’argent. Mme Penner a nié cette affirmation. Ses retenues lui ont été versées parce qu’elle n’était plus une employée, ce qu’elle a reconnu en signant la pièce A‑5, datée du 20 janvier 2003. Selon la preuve, elle était saine d’esprit à ce moment‑là, elle faisait son travail de consultation et elle a cessé d’être une employée de l’appelante ce jour‑là. Il ne s’agissait pas d’une décision rétroactive. Par la suite, elle a reçu des versements intégraux et elle était traitée et agissait comme les autres professionnels travaillant pour l’appelante pour ce qui est du contrôle, des instruments de travail, des possibilités de profit et des risques de perte, et de l’intégration. Par conséquent, la Cour conclut que Mme Penner était l’employée de l’appelante du 1er avril 2002 au 20 janvier 2003, inclusivement. Après le 20 janvier 2003, Mme Penner était une travailleuse indépendante et travaillait à son compte. Elle a protesté en disant qu’elle pensait que le montant total des chèques touchés chaque mois pour son versement brut était ainsi en raison d’un changement des procédures comptables de l’appelante. La Cour ne croit pas le témoin à ce sujet. Mme Penner était une femme mûre et instruite qui comptait des années d’expérience de travail en 2003. La Cour est convaincue qu’après le 20 janvier 2003, Mme Penner travaillait à son compte comme les autres travailleurs, selon son souhait.
+[6] L’appelante a droit aux dépens ou aux débours prévus par le Régime de pensions du Canada et la Loi sur l’assurance‑emploi.
+Signé à Regina (Saskatchewan), ce 26e jour d’août 2005.
+« D.W. Beaubier »
+Juge Beaubier
+Traduction certifiée conforme
+ce 8e jour de février 2008.
+Maurice Audet, réviseur
+RÉFÉRENCE :
+2005CCI504
+NO DU DOSSIER DE LA COUR :
+2004-4471(EI), 2004-4473 (CPP)
+INTITULÉ DE LA CAUSE :
+Deer Creek Training and Therapy c. Le ministre du Revenu national
+LIEU DE L’AUDIENCE :
+Prince Albert (Saskatchewan)
+DATE DE L’AUDIENCE :
+Le 8 août 2005
+MOTIFS DU JUGEMENT PAR :
+L’honorable juge D.W. Beaubier
+DATE DU JUGEMENT :
+Le 26 août 2005
+COMPARUTIONS :
+Avocat de l’appelante :
+Me Peter V. Abrametz
+Avocat de l’intimé :
+Me Julien Bedard
+AVOCAT(S) INSCRIT(S) AU DOSSIER :
+Pour l’appelante :
+Nom :
+Me Peter V. Abrametz
+Étude :
+Eggum, Abrametz & Eggum
+Pour l’intimé :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

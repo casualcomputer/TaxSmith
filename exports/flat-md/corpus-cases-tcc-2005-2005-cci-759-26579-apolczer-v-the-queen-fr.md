@@ -1,0 +1,579 @@
+---
+title: "Apolczer v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26579/index.do"
+last_modified: "2005-11-24"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 CCI 759"
+citation2: ""
+neutral_citation: "2005 CCI 759"
+decision_date: "2005-11-24"
+language: "fr"
+item_id: "26579"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3557
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T22:16:54.002000+00:00"
+cases_cited_count: 4
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "5753a4f7bf3632f4c8a434ed4651795d257153870ee01c7a578d8799f5b55574"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Apolczer v. The Queen
+
+- Citation: 2005 CCI 759
+- Decision date: 2005-11-24
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3557, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Apolczer v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-11-24
+Référence neutre
+2005 CCI 759
+Numéro de dossier
+2004-1415(IT)G
+Juges et Officiers taxateurs
+Gerald J. Rip
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2004-1415(IT)G
+ENTRE :
+HUGH STANFIELD,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Requête entendue le 8 septembre 2005 à Vancouver (Colombie-Britannique)
+Devant : l'honorable juge Gerald J. Rip
+Comparutions :
+Avocat de l'appelant :
+Me Edwin Kroft
+Avocate de l'intimée :
+Me Lynn Burch
+____________________________________________________________________
+ORDONNANCE
+Vu la demande présentée par l'appelant afin d'obtenir une ordonnance
+a) enjoignant à l'intimée de déposer et signifier une liste de documents;
+b) enjoignant à l'intimée de fournir le nom de la personne qu'elle nomme pour les interrogatoires préalables;
+c) pour que la Cour fixe la date d'une audience sur l'état de l'instance ou d'une conférence préparatoire à l'audience,
+et vu les allégations des parties,
+il est ordonné :
+a) que l'intimée dépose et transmette à l'appelant sa liste de documents dans l'appel de Hugh Stanfield d'ici le 16 janvier 2006;
+b) que l'intimée présente les documents dans sa liste de documents à des fins d'inspection par l'avocat de M. Stanfield dans les 16 jours du dépôt et de la transmission de la liste de documents;
+c) que l'intimée et Hugh Stanfield terminent les interrogatoires préalables et respectent les engagements résultant des interrogatoires préalables d'ici le 30 juin 2006, ou toute autre date dont les parties conviennent et que la Cour approuve ou fixe;
+d) que, dans les 30 jours suivant la fin des interrogatoires préalables dans l'appel de Hugh Stanfield, les avocats indiquent à la Cour s'ils ont besoin de directives supplémentaires au sujet de l'appel de Hugh Stanfield;
+e) que les dépens suivent l'issue de la cause.
+Signé à Ottawa, Canada, ce 24e jour de novembre 2005.
+« Gerald J. Rip »
+Juge Rip
+Traduction certifiée conforme
+ce 27e jour de mars 2006.
+Mario Lagacé, jurilinguiste
+Dossier : 2005-1016(IT)G
+ENTRE :
+DONALD APOLCZER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2005-1017(IT)G
+ENTRE :
+CAROL APOLCZER,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2005-1125(IT)G
+ENTRE :
+DAVID HACKETT,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2005-1337(IT)G
+ENTRE :
+LUC ROBERGE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2005-1356(IT)G
+ENTRE :
+DENNIS MOORE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2005-1358(IT)G
+ENTRE :
+MARLENE MOORE,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2005-1359(IT)G
+ENTRE :
+NEIL REINHART,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2005-1360(IT)G
+ENTRE :
+PHILIP SCOTT,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2005-1365(IT)G
+ENTRE :
+GARY REIMER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2005-1381(IT)G
+ENTRE :
+MARY TROJNER,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2005-1382(IT)G
+ENTRE :
+JIM TROJNER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2005-1451(IT)G
+ENTRE :
+ED MACINTOSH,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2005-1550(IT)G
+ENTRE :
+WAYNE GARRY MARTIN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2005-1554(IT)G
+ENTRE :
+PATRICIA CARPENTER,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2005-1797(IT)G
+ENTRE :
+CHRISTINE BANVILLE,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2005-1798(IT)G
+ENTRE :
+JULIA CUNDLIFFE,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2005-1799(IT)G
+ENTRE :
+JOE KULIASA,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2005-1896(IT)G
+ENTRE :
+BRENT BEYAK,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2005-1900(IT)G
+ENTRE :
+DAVID ZEVICK,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2005-1901(IT)G
+ENTRE :
+JOHN A. HIGGINS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2005-1902(IT)G
+ENTRE :
+GLENN PARKER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2005-1976(IT)G
+ENTRE :
+DANNY PAWLACHUK,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2005-1980(IT)G
+ENTRE :
+PAUL PEACOCK,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2005-2106(IT)G
+ENTRE :
+ROBERT MCGINN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2005-2107(IT)G
+ENTRE :
+EARL WILKES,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2005-1015(IT)G
+ENTRE :
+CANDICE STANFIELD,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Requête entendue le 8 septembre 2005 à Vancouver (Colombie-Britannique)
+Devant : l'honorable juge Gerald J. Rip
+Comparutions :
+Avocat de l'appelant :
+Me Edwin Kroft
+Avocate de l'intimée :
+Me Lynn Burch
+____________________________________________________________________
+ORDONNANCE
+Sur demande présentée par l'appelant pour obtenir, en vertu de l'alinéa 26d) des Règles de la Cour canadienne de l'impôt (Procédure générale) (les « Règles » ), une ordonnance de suspension des appels de Donald Apolczer, Carol Apolczer, David Hackett, Luc Roberge, Dennis Moore, Marlene Moore, Neil Reinhart, Philip Scott, Gary Reimer, Mary Trojner, Jim Trojner, Ed MacIntosh, Wayne Garry Martin, Patricia Carpenter, Christine Banville, Julia Cundliffe, Joe Kuliasa, Brent Beyak, David Zevick, John A. Higgins, Glenn Parker, Danny Pawlachuk, Paul Peacock, Robert McGinn, Earl Wilkes et Candice Stanfield (les « autres appelants » ) jusqu'à ce qu'une décision soit rendue dans l'affaire Hugh Stanfield c. Sa Majesté la Reine, (2004-1415(IT)G), il est ordonné :
+a) que les appels des autres appelants soient suspendus jusqu'à 60 jours après la fin des interrogatoires préalables, y compris les engagements résultant des interrogatoires préalables, dans l'appel interjeté dans l'affaire Hugh Stanfield c. Sa Majesté la Reine, (2004-1415(IT)G);
+b) que, pendant ladite période de 60 jours, les parties informent la Cour des mesures proposées dans les appels des autres appelants et lui indiquent si elles souhaitent obtenir des directives supplémentaires au sujet des appels des autres appelants;
+c) que les dépens suivent l'issue de la cause.
+Signé à Ottawa, Canada, ce 24e jour de novembre 2005.
+« Gerald J. Rip »
+Juge Rip
+Traduction certifiée conforme
+ce 27e jour de mars 2006.
+Mario Lagacé, jurilinguiste
+Référence : 2005CCI759
+Date : 20051124
+Dossier : 2005-1016(IT)G
+ENTRE :
+DONALD APOLCZER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2005-1017(IT)G
+ENTRE :
+CAROL APOLCZER,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2005-1125(IT)G
+ENTRE :
+DAVID HACKETT,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2005-1337(IT)G
+ENTRE :
+LUC ROBERGE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2005-1356(IT)G
+ENTRE :
+DENNIS MOORE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2005-1358(IT)G
+ENTRE :
+MARLENE MOORE,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2005-1359(IT)G
+ENTRE :
+NEIL REINHART,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2005-1360(IT)G
+ENTRE :
+PHILIP SCOTT,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2005-1365(IT)G
+ENTRE :
+GARY REIMER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2005-1381(IT)G
+ENTRE :
+MARY TROJNER,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2005-1382(IT)G
+ENTRE :
+JIM TROJNER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2005-1451(IT)G
+ENTRE :
+ED MACINTOSH,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2005-1550(IT)G
+ENTRE :
+WAYNE GARRY MARTIN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2005-1554(IT)G
+ENTRE :
+PATRICIA CARPENTER,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2005-1797(IT)G
+ENTRE :
+CHRISTINE BANVILLE,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2005-1798(IT)G
+ENTRE :
+JULIA CUNDLIFFE,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2005-1799(IT)G
+ENTRE :
+JOE KULIASA,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2005-1896(IT)G
+ENTRE :
+BRENT BEYAK,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2005-1900(IT)G
+ENTRE :
+DAVID ZEVICK,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2005-1901(IT)G
+ENTRE :
+JOHN A. HIGGINS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2005-1902(IT)G
+ENTRE :
+GLENN PARKER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2005-1976(IT)G
+ENTRE :
+DANNY PAWLACHUK,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2005-1980(IT)G
+ENTRE :
+PAUL PEACOCK,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2005-2106(IT)G
+ENTRE :
+ROBERT MCGINN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2005-2107(IT)G
+ENTRE :
+EARL WILKES,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2005-1015(IT)G
+ENTRE :
+CANDICE STANFIELD,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2004-1415(IT)G
+ENTRE :
+HUGH STANFIELD,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L'ORDONNANCE
+Le juge Rip
+[1] Les appelants Donald Apolczer, Carol Apolczer, David Hackett, Luc Roberge, Dennis Moore, Marlene Moore, Neil Reinhart, Philip Scott, Gary Reimer, Mary Trojner, Jim Trojner, Ed MacIntosh, Wayne Garry Martin, Patricia Carpenter, Christine Banville, Julia Cundliffe, Joe Kuliasa, Brent Beyak, David Zevick, John A. Higgins, Glenn Parker, Danny Pawlachuk, Paul Peacock, Robert McGinn, Earl Wilkes et Candice Stanfield (les « autres appelants » ), qui ont tous retenu les services de Me Edwin Kroft, avocat chez McCarthy Tétrault, s.r.l.[1], ont déposé des appels distincts pour une ou plusieurs années et déclarent des pertes attribuables à leurs participations respectives à des coentreprises. Il y a environ six coentreprises distinctes et on m'a informé qu'elles sont toutes similaires. La plupart des appelants, dont M. Stanfield, ont investi dans la coentreprise appelée Union CAL Trading Joint Venture ( « Union CAL » ). Quelques autres appelants ont investi dans d'autres coentreprises. Les autres appelants interjettent également appel contre les pénalités imposées aux termes du paragraphe 163(2) de la Loi de l'impôt sur le revenu (la « Loi » ).
+[2] Le 6 avril 2004, Hugh Stanfield a déposé un avis d'appel pour 1998 dans lequel il a déclaré une perte attribuable à la coentreprise Union CAL et nié être passible d'une pénalité en application du paragraphe 163(2). M. Stanfield est le plus important investisseur dans la coentreprise Union CAL. L'appel de M. Stanfield a été traité plus rapidement que ceux des autres appelants. Selon l'affidavit de Me Elizabeth A. Junkin, avocate chez McCarthy Tétrault, s.r.l., une réponse à l'avis d'appel a été déposée le 19 juillet 2004 conformément à une ordonnance de notre Cour datée du 2 juillet 2004. M. Stanfield a déposé sa liste de documents; l'intimée n'a pas encore déposé la sienne. Le 8 août 2005, Me Edwin G. Kroft, l'avocat de M. Stanfield, a proposé à l'avocate de l'intimée que les dates des interrogatoires préalables soient fixées et a suggéré certaines semaines à cette fin.
+[3] Dans son affidavit, M. Stanfield a indiqué que la vérification de sa déclaration de revenus de 1998 par le ministre du Revenu national avait duré deux ans et demi. Une nouvelle cotisation a été établie à son égard le 17 juillet 2002. M. Stanfield s'est opposé à la nouvelle cotisation le 30 août 2002. Dans la semaine suivant le dépôt de l'opposition, le ministre a indiqué que l'examen de l'opposition était laissé en suspens. M. Stanfield a déposé un avis d'appel auprès de notre Cour le 7 avril 2004, avant que le ministre ne ratifie la nouvelle cotisation. Dans une lettre datée du 5 janvier 2005, Mme Annabelle Luke, de la Division des appels de l'Agence des douanes et du revenu du Canada ( « ADRC » ), a indiqué que les oppositions des autres appelants avaient été laissées en suspens jusqu'alors[2]. Selon Me Junkin, en janvier 2005, l'ADRC a commencé à délivrer des avis de ratification aux autres appelants. Par l'intermédiaire de leur avocat, les autres appelants ont déposé des avis d'appel et des avis d'appel modifiés à partir d'avril 2005.
+[4] Le 8 septembre 2005, les autres appelants ont présenté une requête pour obtenir, en vertu de l'alinéa 26d) des Règles de la Cour canadienne de l'impôt (Procédure générale) (les « Règles » ), une ordonnance exigeant la suspension de leurs appels jusqu'à l'issue de l'appel de Hugh Stanfield. La requête des appelants est fondée sur les motifs suivants :
+1. L'appel de M. Stanfield et ceux des autres appelants sont en instance devant notre Cour.
+2. L'appel de M. Stanfield est le plus avancé sur le plan de la procédure.
+3. Les autres appelants conviennent que l'issue de l'appel de M. Stanfield aura un effet déterminant sur leurs appels.
+4. L'appel de M. Stanfield et ceux des autres appelants ont en commun des questions de droit et de fait, notamment celle de savoir si chacun des appelants a le droit de déduire la perte se rapportant, selon le cas, à la coentreprise ou à la prétendue entreprise (telle que définie dans les actes de procédure déposés dans l'appel de M. Stanfield et les appels des autres appelants conformément au paragraphe 9(2) de la Loi).
+5. Le fait d'entendre tous les appels des autres appelants, ainsi que des requêtes préalables à l'audition, constituerait un abus de la procédure de la Cour en raison du chevauchement des questions avec l'appel de M. Stanfield. De plus, il en résulterait un préjudice pour les appelants en raison des coûts connexes.
+6. La suspension des appels des autres appelants ne causerait aucun tort ou préjudice à l'intimée.
+7. M. Stanfield est disposé à poursuivre son appel le plus rapidement possible, ou selon un calendrier que les parties jugent acceptable.
+8. L'affidavit est volumineux et comprend des renseignements qui s'appliquent à tous les appels. Il serait coûteux et inutile de reproduire l'affidavit 25 autres fois pour le signifier à l'intimée et 50 fois pour les dossiers de la Cour.
+[5] Lors de l'audience, Me Kroft m'a informé que les autres appelants ont accepté d'être liés par la décision de la Cour concernant les coentreprises rendue dans l'appel de M. Stanfield mais qu'il n'avait reçu aucune directive au sujet des pénalités.
+[6] L'article 26 des Règles prévoit ce qui suit :
+Si, dans le cas où la Cour est saisie de plusieurs instances, il appert :
+a) qu'elles ont en commun une question de droit, une question de fait ou une question de droit et de fait, tenant à une même transaction ou à un même événement, ou à une même série de transactions ou d'événements;
+b) que pour toute autre raison, il y a lieu de rendre une directive en application du présent article,
+la Cour peut ordonner :
+c) la réunion de ces instances ou leur instruction simultanée ou consécutive;
+d) l'ajournement de l'une d'entre elles en attendant l'issue de n'importe quelle autre.
+[7] À la clôture des plaidoiries dans le cadre de la requête des autres appelants, j'ai informé les avocats que je ne serais pas en mesure de disposer immédiatement de la requête. À n'en pas douter, au moins en partie à cause des renseignements que j'ai fournis aux avocats, M. Stanfield a, le 16 septembre 2005 et par l'intermédiaire de Me Kroft, son avocat, pris des mesures pour accélérer le déroulement de son appel, en demandant une ordonnance a) enjoignant à l'intimée, en vertu de l'alinéa 91a) des Règles, de déposer et de signifier une liste de documents conformément au paragraphe 81(1) des Règles; b) enjoignant à l'intimée, en vertu de l'alinéa 91b) des Règles, de produire les documents énumérés dans la liste de documents de l'intimée à des fins d'inspection et de reproduction dans les 16 jours suivant la signification de la liste de documents de l'intimée; c) enjoignant à l'intimée de fournir le nom de la personne nommée par l'intimée pour les interrogatoires préalables; et d) fixant la date d'une audience sur l'état de l'instance en vertu du paragraphe 125(1) des Règles ou d'une conférence préparatoire à l'audience en vertu du paragraphe 126(1) des Règles.
+[8] Dans ses observations écrites, Me Lynn M. Burch, l'avocate de l'intimée, a indiqué que l'intimée ne s'oppose pas à la demande de M. Stanfield concernant la date à laquelle une liste de documents doit avoir été déposée et a proposé que l'intimée dépose sa liste de documents dans les 60 jours du prononcé des ordonnances concernant les autres appelants. L'intimée accepte aussi de produire les documents décrits dans la liste de documents à des fins d'inspection et de reproduction dans les 16 jours suivant la signification de la liste de documents de l'intimée. Je tiens pour acquis que l'intimée réunit les documents nécessaires au moins depuis la présentation des observations de Me Burch.
+[9] Cependant, l'avocate de l'intimée précise que ni les Règles ni la jurisprudence n'exigent que l'intimée fournisse le nom de la personne qu'elle nomme pour les interrogatoires préalables. Le paragraphe 93(3) des Règles exige que la Couronne choisisse « un officier, un fonctionnaire ou un employé bien informé » . Si la partie interrogatrice n'est pas satisfaite de la personne choisie, elle peut demander de nommer une autre personne, mais seulement après avoir interrogé la personne choisie et conclu que celle-ci ne possède pas les connaissances nécessaires. Toutefois, l'intimée a accepté d'informer l'avocat de l'appelant de la personne qu'elle nommera « dans les » 10 jours précédant le début des interrogatoires préalables.
+[10] L'avocate de l'intimée estime que la demande d'audience sur l'état de l'instance est superflue; l'ordonnance qui résulte de la présente requête servira aux mêmes fins. Quant à la date d'une conférence préparatoire à l'audience, l'avocate de l'intimée fait valoir que la demande est prématurée, puisque ce n'est qu'à la fin des interrogatoires préalables que les parties seront en mesure d'examiner les éléments décrits aux alinéas 126(1)a) à e) des Règles concernant la conférence préparatoire à l'audience et les dates de cette conférence.
+[11] Les parties pertinentes de l'article 91 des Règles se lisent comme suit :
+Si une personne ou une partie qui est tenue de communiquer des documents sous le régime des articles 78 à 91 omet ou refuse sans excuse raisonnable de produire une liste ou une déclaration sous serment de documents, de divulguer un document mentionné dans la liste ou une déclaration sous serment de documents ou de produire un document pour fins d'examen et de copie, ou de se conformer à un jugement de la Cour portant sur la production ou l'examen de documents, la Cour peut,
+a) soit ordonner ou permettre à la personne ou à la partie de produire une liste ou une déclaration sous serment de documents ou une nouvelle liste ou une nouvelle déclaration sous serment de documents;
+b) soit ordonner à la personne ou à la partie de produire un document pour fins d'examen et de copie; [...]
+e) soit donner toute autre directive appropriée.
+[12] Par la suite, les parties ont accepté que les requêtes des autres appelants et de M. Stanfield soient examinées ensemble.
+a) Demande de suspension
+[13] L'avocate de l'intimée s'est opposée à la demande visant à suspendre les appels des autres appelants. Elle a expliqué que les actes de procédure dans l'appel de M. Hugh Stanfield diffèrent à certains égards de ceux des autres appelants. Dans l'avis d'appel de M. Stanfield, il est allégué que celui-ci est un géophysicien et [TRADUCTION] « un homme d'affaires expérimenté qui se spécialise dans les domaines de l'exploration pétrolière et gazière, des ordinateurs de haute performance et de la haute technologie internationale » et qu'il possède [TRADUCTION] « une vaste expérience en matière d'achat et de vente de titres, en plus de participer à des opérations monétaires et sur marchandises depuis 1970 » . De telles allégations sont absentes des avis d'appel des autres appelants. Je n'ai aucune idée de la pertinence ou de l'importance que les faits ainsi allégués pourraient avoir pour le bien-fondé de son appel ou des appels des autres appelants, mais ils pourraient être importants et devraient être soulignés.
+[14] De plus, selon l'avocate de l'intimée, tous les appelants se sont vu imposer des pénalités aux termes du paragraphe 163(2). L'intimée a la charge de prouver les faits justifiant l'imposition des pénalités et il se peut qu'elle veuille interroger chacun des autres appelants, ce qui pourrait l'aider à défendre l'imposition des pénalités. Si M. Stanfield réussit à prouver qu'il a le droit de déduire les pertes attribuables à la coentreprise, la pénalité qui lui a été imposée sera annulée. Toutefois, s'il ne parvient pas à prouver qu'il a le droit de déduire les pertes, la question de la pénalité devra être tranchée. Une conclusion selon laquelle M. Stanfield était ou non passible de la pénalité pourrait ou non entrer en ligne de compte dans l'examen de la validité des pénalités imposées aux autres appelants.
+[15] En outre, l'avis d'appel de M. Stanfield vise expressément la coentreprise Union CAL. Il y a également d'autres coentreprises qui font l'objet d'appels interjetés par certains des autres appelants. Dans une instance antérieure, les parties ont indiqué au juge Noel que « la situation de M. Stanfield pourrait servir d'exemple des investissements que chacun des demandeurs a faits[3] » .
+[16] Tel que le soutient l'avocate de l'intimée, il pourrait bien y avoir des différences entre les actes de procédure de M. Stanfield et ceux des autres appelants, ainsi qu'entre leurs diverses coentreprises. De plus, la pénalité prévue au paragraphe 163(2) est de nature personnelle, puisque la connaissance ou la négligence grave est un élément clé de la pénalité. Par conséquent, l'acte ou l'intention de chaque appelant se rapportant aux faits menant à la pénalité qui lui est imposée doit être examiné séparément.
+[17] Cependant, la Couronne a examiné ou a eu l'occasion d'examiner les déclarations de revenus de tous les appelants pendant environ cinq ans et ne s'est pas montrée encline à faire avancer les appels; par exemple, elle n'a pas encore déposé de liste de documents dans l'appel de M. Stanfield, bien que sa réponse à l'avis d'appel ait été déposée le 19 juillet 2004.
+[18] Les autres appelants habitent dans cinq provinces différentes et l'un des appelants habite à l'extérieur du Canada. Les coûts qu'ils engageront, notamment pour préparer des listes de documents et assister aux interrogatoires préalables, seront importants.
+[19] En conséquence, j'ordonne que les appels des autres appelants soient laissés en suspens jusqu'à 60 jours suivant la fin des interrogatoires préalables, lesquels comprennent notamment le respect des engagements, dans l'appel de Hugh Stanfield (2004-1415(IT)G). Je ne connais pas le motif pour lequel le ministre s'oppose à la demande. L'ADRC s'est plainte que les questions de droit en cause sont complexes et qu'il y a environ 18 000 pages de documents[4]. Le ministre a pris plus de deux ans à vérifier les déclarations de certains des appelants et, une fois leurs cotisations ratifiées, les a laissées en suspens. Le ministre ne subit aucun préjudice si les appels des autres appelants sont laissés en suspens. À cette étape-ci, les autres appelants ne devraient pas être forcés à examiner ou à préparer des documents volumineux que le ministre pourrait avoir eus en sa possession il y a des années. Ils n'ont pas les moyens dont dispose le ministre.
+[20] À la fin des interrogatoires préalables de M. Stanfield, les avocats de l'intimée et des appelants auront l'occasion d'examiner les éléments de preuve provenant des interrogatoires préalables et de déterminer lesquels de ces éléments de preuve, s'il en est, pourraient s'appliquer aux appels des autres appelants. Dans les 60 jours suivant la fin des interrogatoires préalables dans l'appel de Hugh Stanfield, les avocats doivent informer la Cour des mesures proposées dans les appels des autres appelants et lui indiquer s'ils souhaitent obtenir des directives supplémentaires au sujet des appels des autres appelants.
+b) Demande de M. Stanfield
+[21] En ce qui concerne la demande de M. Stanfield, je partage l'opinion de l'avocate de l'intimée selon laquelle celle-ci n'est pas tenue de fournir à l'appelant le nom de la personne qu'elle nomme pour les interrogatoires préalables. Je ne souscris pas à l'argument de l'appelant selon lequel [TRADUCTION] « l'appelant ne peut, sans le nom de la personne nommée par l'intimée, signifier un avis de convocation aux termes du paragraphe 103(2) des Règles » . Un tel avis peut être signifié à l'avocat de l'intimée : alinéa 103(2)a) des Règles. Les paragraphes 93(1) et (3) des Règles prévoient ce qui suit :
+(1) Une partie à l'instance peut interroger une fois au préalable une partie opposée; elle ne peut l'interroger plus d'une fois qu'avec l'autorisation de la Cour.
+[...]
+(3) Lorsque la Couronne est la partie interrogée, le sous-procureur général du Canada doit choisir un officier, un fonctionnaire ou un employé bien informé qui sera interrogé en son nom; toutefois, si la partie interrogatrice n'est pas satisfaite de cette personne, elle peut demander à la Cour de nommer une autre personne.
+[22] La Couronne n'est pas tenue d'informer M. Stanfield de la personne qui sera interrogée au nom de la Couronne, mais le sous-procureur général doit choisir une personne bien informée. Si, au moment de l'interrogatoire préalable, M. Stanfield estime que la personne choisie par la Couronne n'est pas bien informée, il peut demander un ajournement pour que la personne nommée devienne mieux informée. Sinon, si l'intérêt de la justice le justifie, la Cour peut nommer une autre personne[5]. Toutefois, je propose au passage que l'avocat de l'intimée fournisse le nom de la personne nommée par l'intimée non pas « dans les » 10 jours précédant le début des interrogatoires préalables mais au moins 10 jours avant le début des interrogatoires préalables.
+[23] Le 17 juillet 2002, le ministre du Revenu national a établi une cotisation à l'égard de M. Stanfield pour 1998, l'année en cause. Depuis ce temps-là, un avis d'opposition a été déposé et l'opposition a été confirmée. De nombreux contribuables ont investi dans Union CAL et d'autres coentreprises. Les représentants du ministre ont examiné les activités de M. Stanfield et celles des autres appelants relativement aux coentreprises depuis une date antérieure à 2002. La Couronne a eu beaucoup de temps pour se préparer. À n'en pas douter, aux termes du paragraphe 81(1) des Règles, l'intimée aurait dû déposer et signifier à l'avocat de M. Stanfield sa liste de documents dans les 30 jours du dépôt de sa réponse à l'avis d'appel. Cependant, puisque les questions sont complexes et les documents volumineux, l'intimée s'est vu accorder une prorogation de délai lui permettant de déposer tardivement sa réponse à l'avis d'appel. L'intimée n'a pas soutenu qu'elle avait une excuse raisonnable lui permettant de déposer tardivement la liste : article 91 des Règles. Dans une lettre datée du 12 septembre 2005, l'avocate de l'intimée a informé l'avocat de l'appelant de ce qui suit :
+[TRADUCTION]
+Il est présentement difficile de déterminer exactement quelle sera la portée de la liste de documents et des interrogatoires préalables, puisque le juge Rip n'a pas encore rendu de décision dans le cadre de la requête présentée par les vingt-six requérants le 8 septembre 2005. Il est possible que l'ordonnance du juge Rip contextualise le présent litige et nous sommes d'avis qu'il serait prématuré de déposer notre liste ou de procéder aux interrogatoires avant d'avoir obtenu la décision du juge Rip.
+[24] M. Stanfield a déposé à temps un avis d'appel et une liste de documents. Il est l'appelant et a le droit de poursuivre son appel d'une manière efficace. Son appel pourrait ou non se rattacher (ou être lié) à ceux des autres appelants. L'avocate de l'intimée a soutenu avec insistance que les appels des autres appelants ne devraient pas être suspendus, notamment parce que l'appel de M. Stanfield pourrait ne pas être représentatif des autres appels. Voilà une raison de plus pour que M. Stanfield ne subisse pas de préjudice attribuable à des délais supplémentaires.
+[25] Il n'est nullement nécessaire que je fixe la date d'une audience sur l'état de l'instance. Je traiterai des questions habituellement abordées lors d'une audience sur l'état de l'instance. En ce qui concerne l'ordonnance visant à obtenir une conférence préparatoire à l'audience, je ne partage pas le point de vue de l'avocate de l'intimée selon lequel une conférence préparatoire à l'audience doit nécessairement être précédée d'un interrogatoire préalable. Le paragraphe 126(1) confère à la Cour l'initiative de fixer la date d'une conférence préparatoire à l'audience. Dans la plupart des cas, la conférence préparatoire à l'audience a lieu après les interrogatoires préalables des parties, mais elle peut les précéder dans certains cas.
+[26] Par conséquent, je rends l'ordonnance suivante :
+a) l'intimée déposera et transmettra à l'appelant sa liste de documents dans l'appel de Hugh Stanfield d'ici le 16 janvier 2006;
+b) l'intimée présentera les documents dans sa liste de documents à des fins d'inspection par l'avocat de M. Stanfield dans les 16 jours du dépôt et de la transmission de la liste de documents;
+c) l'intimée et Hugh Stanfield termineront les interrogatoires préalables et respecteront les engagements résultant des interrogatoires préalables d'ici le 30 juin 2006, ou toute autre date dont les parties conviennent et que la Cour approuve ou fixe;
+d) dans les 60 jours suivant la fin des interrogatoires préalables dans l'appel de Hugh Stanfield, les avocats feront savoir à la Cour s'ils ont besoin de directives supplémentaires au sujet de l'appel de Hugh Stanfield et, notamment, si et quand ils souhaitent la tenue d'une conférence préparatoire à l'audience.
+[27] Je partage le point de vue des avocats selon lequel les appels des autres appelants et de M. Stanfield ne seront pas tous instruits. Peu après les interrogatoires préalables dans l'appel de M. Stanfield, les avocats et leurs clients devront s'interroger sur les appels qui serviront de causes types.
+Signé à Ottawa, Canada, ce 24e jour de novembre 2005.
+« Gerald J. Rip »
+Juge Rip
+Traduction certifiée conforme
+ce 27e jour de mars 2006.
+Mario Lagacé, jurilinguiste
+RÉFÉRENCE : 2005CCI759
+No DU DOSSIER DE LA COUR : 2005-1016(IT)G
+INTITULÉ DE LA CAUSE : DONALD APOLCZER ET LA REINE
+LIEU DE L'AUDIENCE : Vancouver (Colombie-Britannique)
+DATE DE L'AUDIENCE : 8 septembre 2005
+MOTIFS DU JUGEMENT PAR : l'honorable juge Gerald J. Rip
+DATE DU JUGEMENT : 24 novembre 2005
+COMPARUTIONS :
+Avocat de l'appelant :
+Edwin Kroft
+Avocate de l'intimée :
+Lynn Burch
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelant :
+Nom : Edwin Kroft
+Étude :
+Pour l'intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa (Ontario)
+[1] Il ne s'agit pas de tous les contribuables qui ont interjeté appel contre des cotisations à l'égard de questions similaires; il s'agit des appelants représentés par McCarthy Tétrault, s.r.l.. Plusieurs autres contribuables sont représentés par d'autres avocats, dont McCarthy Tétrault, et ne sont pas parties à la présente demande.
+[2] Pièce « E » de l'affidavit de Me Junkin.
+[3] Hugh Stanfield et al. v. M.N.R., 2005 DTC 5455, 2005 C.F. 1010, au paragraphe 6.
+Hugh Stanfield v. The Queen, 2004 DTC 2923, ordonnance du juge Bell, confirmée par 2005 DTC 5211 (C.A.F.).
+[5] Standard Mortgage Investment Corp. v. The Queen, 2000 DTC 1451 (C.C.I), Smith v. The Queen, 81 DTC 5351 (C.F. 1re inst.) et Westaim Corp. c. Monnaie royale canadienne, [1998] A.C.F. no 1929, (1998) 161 F.T.R. 261 (C.F. 1re inst.).

@@ -1,0 +1,185 @@
+Title: Shattler c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28195/index.do
+Corpus path: corpus/cases/tcc/2006/2006-cci-492-28195-shattler-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2006-10-23
+
+# Shattler c. M.R.N.
+
+- Citation: 2006 CCI 492
+- Decision date: 2006-10-23
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1976, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Shattler c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-10-23
+Référence neutre
+2006 CCI 492
+Numéro de dossier
+2006-1132(EI)
+Juges et Officiers taxateurs
+Paul Bédard
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2006-1132(EI)
+ENTRE :
+JANE SHATTLER,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 17 août 2006 à Sept‑Îles (Québec).
+Devant : L’honorable juge Paul Bédard
+Comparutions :
+Pour l’appelante :
+L’appelante elle‑même
+Avocat de l’intimé :
+Me Benoit Mandeville
+____________________________________________________________________
+JUGEMENT
+L’appel est rejeté, et la décision rendue par le ministre est confirmée selon les motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 10e jour d’octobre 2006.
+« Paul Bédard »
+Juge Bédard
+Traduction certifiée conforme
+ce 30e jour de janvier 2008.
+Jean David Robert, traducteur
+Référence : 2006CCI492
+Date : 20061010
+Dossier : 2006-1132(EI)
+ENTRE :
+JANE SHATTLER,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Bédard
+[1] La Cour est saisie d’un appel interjeté à l’encontre d’une décision de l’intimé selon laquelle l’appelante n’exerçait pas un emploi assurable auprès de la société 9036‑8556 Québec Inc. (le « payeur ») pendant la période du 15 mai au 30 juillet 2005 (la « période en cause »).
+[2] Pour justifier et expliquer sa décision, l’intimé s’est fondé sur les hypothèses de fait suivantes :
+[traduction]
+5) L’appelante était liée au payeur au sens de la Loi de l’impôt sur le revenu parce que :
+a) la société a été constituée le 4 juin 1996;
+b) pendant la période en cause, les actionnaires du payeur étaient :
+· l’appelante, qui détenait 32 % des actions,
+· Brian Shattler, le père de l’appelante, qui détenait 17 % des actions,
+· Sally Kippen, la mère de l’appelante, qui détenait 17 % des actions,
+· Stacey Shattler, la sœur de l’appelante, qui détenait 34 % des actions;
+c) l’appelante était liée à un groupe de personnes qui contrôlent le payeur;
+d) l’appelante a un lien de dépendance avec le payeur au sens de l’article 251 de la Loi de l’impôt sur le revenu.
+6) Pour parvenir à sa décision, l’intimé, le ministre du Revenu national, s’est fondé sur les hypothèses de fait suivantes :
+a) le payeur exploitait un bateau de pêche portant le nom de « le C.J. Stacey »;
+b) le payeur pêche le flétan noir, le flétan et quelques bigorneaux dans les zones près de Sept‑Îles;
+c) pendant la saison de pêche 2004, les membres de l’équipage étaient : Brian Shattler, le capitaine du bateau; Charlene Shattler, Brent Anderson et l’appelante, des aides‑pêcheurs;
+d) pendant la saison de pêche 2005, les membres de l’équipage étaient : Brian Shattler, le capitaine du bateau; Charlene Shattler et Brent Anderson, des aides‑pêcheurs;
+e) pendant la période en cause, l’appelante n’a pas travaillé sur le bateau et elle n’est jamais allée pêcher parce qu’elle était enceinte;
+f) pendant cette période‑là, l’appelante travaillait pour le compte du payeur à titre de commis ou de secrétaire;
+g) les fonctions de l’appelante consistaient à :
+· laver des vêtements (faire la lessive) après chaque prise (Elle lavait seulement les vêtements de son père et de sa sœur, ce qui lui prenait environ une heure.),
+· préparer des repas avant chaque prise (Elle préparait en fait des sandwiches pour trois personnes, ce qui lui prenait en moyenne une heure.),
+· déposer des fonds à la banque (Les dépôts étaient toujours effectués par son père : elle ne faisait que l’accompagner.),
+· établir des chèques pour le paiement des factures (Elle n’avait pas l’autorité de signer les chèques.);
+h) avant la période en cause, le payeur n’a jamais embauché qui que ce soit pour accomplir ces fonctions;
+i) ces fonctions étaient accomplies par le père de l’appelante;
+j) pendant la période en cause, l’appelante travaillait généralement à la maison de son père;
+k) l’appelante n’avait aucun horaire de travail à respecter;
+l) le payeur n’avait aucun contrôle sur les heures travaillées par l’appelante;
+m) pendant la période en cause, l’appelante recevait un salaire fixe de 900 $ par semaine, peu importe le nombre d’heures travaillées (60 heures par semaine pour 15 $ l’heure);
+n) l’appelante avait un accord verbal avec le capitaine et tous les membres de l’équipage du bateau selon lequel tout le monde recevrait le même salaire pendant la saison de pêche;
+o) le salaire de l’appelante n’a pas changé, qu’elle travaillait le même nombre d’heures que les autres pêcheurs ou non;
+p) elle a gardé son salaire de pêcheuse à titre de commis parce qu’il était plus facile à calculer;
+q) compte tenu des fonctions mineures de l’appelante, son salaire n’était pas raisonnable;
+r) compte tenu de la faible charge de travail de l’appelante, il n’est pas raisonnable de conclure que le payeur aurait embauché une autre personne au même salaire que l’appelante pour l’accomplissement de ces tâches.
+[3] Tous les faits allégués aux paragraphes 5 et 6 de la réponse à l’avis d’appel ont été admis, sauf les faits énoncés aux alinéas 5b), 6g), 6q) et 6r), qui ont été niés.
+[4] Pendant la période en cause, l’appelante a reçu un salaire fixe de 900 $ par semaine, soit un total de 9 900 $. Elle a affirmé qu’elle avait travaillé en moyenne 60 heures par semaine, soit un total de 660 heures.
+[5] Il y a lieu de mentionner que l’intimé a conclu que l’emploi en cause n’était pas assurable parce qu’il était visé à l’alinéa 5(2)i) de la Loi sur l’assurance‑emploi (la « Loi »). L’intimé a soutenu qu’il n’était pas raisonnable de conclure, compte tenu de toutes les circonstances, notamment la rétribution versée, les modalités d’emploi ainsi que la durée, la nature et l’importance du travail accompli, que l’appelante et le payeur auraient conclu entre eux un contrat de travail à peu près semblable s’ils n’avaient pas eu de lien de dépendance.
+[6] La Cour d’appel fédérale a défini à plusieurs reprises le rôle conféré aux juges de la Cour canadienne de l’impôt par la Loi. Ce rôle ne leur permet pas de substituer leur pouvoir discrétionnaire à celui du ministre du Revenu national (le « ministre »), mais comporte l’obligation de « vérifier si les faits supposés ou retenus par le ministre sont réels et ont été appréciés correctement en tenant compte du contexte où ils sont survenus, et après cette vérification, [de] décider si la conclusion dont le ministre était “convaincu” paraît toujours raisonnable »[1].
+[7] En d’autres mots, avant de décider si la conclusion dont le ministre était convaincu paraît toujours raisonnable, je dois, à la lumière de la preuve portée à ma connaissance, vérifier si les hypothèses du ministre sont, malgré tout, exactes en tout ou en partie, compte tenu des facteurs énoncés à l’alinéa 5(3)b) de la Loi.
+[8] Par conséquent, il convient de se demander si l’appelante et le payeur auraient conclu entre eux un contrat de travail à peu près semblable s’ils n’avaient pas eu de lien de dépendance.
+[9] Il incombait à l’appelante de prouver qu’en l’espèce le ministre n’avait pas exercé son pouvoir discrétionnaire conformément aux principes applicables, c’est‑à‑dire qu’elle avait le fardeau de démontrer qu’il n’avait pas examiné tous les faits pertinents, qu’il n’avait pas tenu compte d’éléments qui étaient pertinents ou qu’il avait tenu compte de faits qui n’étaient pas réels. Dans la présente cause, seule l’appelante a témoigné à l’appui de sa position.
+Témoignage de l’appelante
+[10] L’appelante a témoigné que, pendant la période en cause :
+(i) ses fonctions et ses responsabilités dépassaient de loin celles alléguées aux alinéas 6f) et 6g) de la réponse à l’avis d’appel. Elle a expliqué qu’elle avait fabriqué 45 nouveaux filets de pêche, réparé des filets de pêche, nettoyé le bateau de pêche et le bureau du payeur et, finalement, fait du travail administratif, comme payer des factures et faire des entrées dans le livre de bord;
+(ii) elle a passé 360 heures à fabriquer ces 45 nouveaux filets de pêche – elle a expliqué qu’il faut en moyenne une heure pour fabriquer un filet;
+(iii) elle a passé 22 heures à réparer des filets de pêche;
+(iv) elle a passé 22 heures à nettoyer le bateau du payeur;
+(v) elle a aussi passé 22 heures à nettoyer le bureau du payeur;
+(vi) elle a passé 34 heures à laver des vêtements – elle a expliqué qu’après chaque prise elle lavait les vêtements de son père et de sa sœur et qu’elle avait besoin en moyenne d’une heure pour le faire;
+(vii) elle a passé 34 heures à préparer des repas – elle a expliqué qu’avant chaque prise elle passait en moyenne une heure à préparer des repas pour les membres de l’équipage;
+(viii) elle a passé 5 heures à faire 5 dépôts bancaires – elle a témoigné qu’elle conduisait son père à la banque puisqu’il était trop fatigué pour conduire lui‑même;
+(ix) le payeur aurait été obligé d’embaucher quelqu’un d’autre pour faire le travail de l’appelante si elle n’avait pas pu accepter le poste;
+(x) seul Brent Anderson (un aide‑pêcheur et le seul employé qui n’a pas de lien de dépendance avec le payeur) recevait une paie hebdomadaire régulière.
+[11] Il importe de mentionner que l’appelante a donné naissance à un enfant le 31 juillet 2005, un jour après avoir quitté son emploi.
+Déclaration antérieure
+[12] Le 20 septembre 2005, l’appelante a rempli un questionnaire[2] à la demande de Ressources humaines et Développement des compétences Canada (le « questionnaire »). Il vaut la peine de citer quelques extraits de celui‑ci :
+[traduction]
+Question nº 2 Quel était le titre de votre poste? Quelles étaient vos principales fonctions?
+Commis. 40 filets sont fabriqués en mars – 7 heures de travail sont consacrées à la fabrication de chaque filet (au cours de la saison de pêche, laver des vêtements après chaque prise et préparer des repas avant chaque prise), effectuer des dépôts à la banque et payer des factures.
+[...]
+Question nº 13
+Est-ce que vos conditions d’emploi (telles que le salaire, l’horaire de travail, les prestations d’assurance ou les primes) sont identiques à celles de tous les autres employés? (Veuillez préciser.)
+Mon salaire n’a pas changé – peu importe si je faisais les mêmes heures de travail que les autres pêcheurs ou non. J’ai gardé mon salaire de pêcheuse à titre de commis parce qu’il était plus facile à calculer.
+[...]
+Question nº 17
+Quels moyens sont employés pour la consignation de vos heures de travail (pointage de l’arrivée [carte de pointage], feuilles de présence, calendrier sur lequel sont inscrites les heures de travail prévues et les heures travaillées, etc.)? (Veuillez préciser.)
+Aucune heure n’a été consignée. (Les heures travaillées en mars étaient payées pendant la saison de pêche.) Je me rendais chez Papa quand je le voulais.
+[...]
+Question nº 23
+À votre connaissance, est-ce que l’entreprise aurait été obligée d’embaucher quelqu’un d’autre pour faire votre travail si vous aviez été incapable d’accepter le poste?
+…NON…
+Papa l’aurait fait comme il le faisait auparavant.
+[...]
+Question nº 26 Qui a occupé ce poste avant vous?
+Il y a 3 ans, ma mère. (Elle ne recevait pas de salaire, mais plutôt une prime à la fin de l’année qui était tirée des profits.) Ensuite, Papa a fait le travail lui‑même.
+Est‑ce que cette personne est encore employée dans l’entreprise?
+...NON…
+Maman est tombée malade il y a 3 ans. Lorsqu’elle travaillait à ce poste, elle n’était pas inscrite sur la feuille de paye. Papa la payait personnellement à la fin de l’année (peut‑être au moyen de dividendes).
+Analyse et conclusion
+[13] J’observe que, dans son témoignage, l’appelante contredit les déclarations précédentes[3] qu’elle a faites dans le questionnaire en ce qui concerne la période de l’année au cours de laquelle les nouveaux filets de pêche ont été fabriqués (en mars, par opposition à la période en cause), le nombre de filets fabriqués (45, par opposition à 40) et le nombre d’heures nécessaires pour fabriquer un nouveau filet de pêche (7 heures, par opposition à 8 heures). Il est aussi difficile de croire que les nouveaux filets de pêche aient été fabriqués, si tant est que des filets ont véritablement été fabriqués, pendant la période en cause (la saison de pêche), plutôt qu’avant l’ouverture de la saison de pêche, au mois de mars, par exemple.
+[14] Je remarque aussi que l’appelante a témoigné que le payeur aurait été obligé d’embaucher quelqu’un d’autre pour faire le travail de celle‑ci si elle n’avait pas pu accepter le poste. Encore une fois, dans son témoignage, l’appelante contredit clairement la déclaration qu’elle a faite antérieurement en réponse à la question 23 du questionnaire.
+[15] En ce qui concerne les tâches relatives au nettoyage du bateau et du bureau du payeur, je signale que ni le questionnaire ni l’avis d’appel n’en font mention.
+[16] Quant au nombre d’heures passées à laver des vêtements (34 heures) et à préparer des repas (34 heures), je trouve remarquable que l’appelante ait pu déterminer le nombre exact d’heures consacrées à ces tâches et, pourtant, n’ait pas pu se rappeler le nombre de prises faites pendant la période en cause lorsqu’elle a été contre‑interrogée par l’avocat de l’intimé.
+[17] L’appelante ne m’a tout simplement pas convaincu que ses fonctions et ses responsabilités allaient au‑delà de celles alléguées aux alinéas 6f) et 6g) de la réponse à l’avis d’appel et, conséquemment, qu’elle avait passé 360 heures à fabriquer de nouveaux filets de pêche pendant la période en cause, 22 heures à réparer des filets de pêche et 44 heures à nettoyer le bateau et le bureau du payeur.
+[18] En fait, l’appelante ne m’a pas convaincu que le ministre n’a pas examiné tous les faits pertinents, qu’il n’a pas tenu compte d’éléments qui étaient pertinents ou qu’il a tenu compte de faits qui n’étaient pas réels. Je suis d’avis, après avoir examiné la preuve, que l’appelante et le payeur n’auraient pas conclu entre eux un contrat de travail à peu près semblable s’ils n’avaient pas eu de lien de dépendance.
+[19] À la lumière de la preuve portée à ma connaissance et après avoir examiné les facteurs énoncés à l’alinéa 5(3)b) de la Loi et vérifié la validité de la prétention du ministre, la conclusion dont le ministre était convaincu me semble raisonnable.
+[20] Pour ces motifs, l’appel est rejeté.
+Signé à Ottawa, Canada, ce 10e jour d’octobre 2006
+« Paul Bédard »
+Juge Bédard
+Traduction certifiée conforme
+ce 30e jour de janvier 2008.
+Jean David Robert, traducteur
+RÉFÉRENCE : 2006CCI492
+Nº DU DOSSIER DE LA COUR : 2006-1132(EI)
+INTITULÉ : Jane Shattler c. M.R.N.
+LIEU DE L’AUDIENCE : Sept-Îles (Québec)
+DATE DE L’AUDIENCE : Le 17 août 2006
+MOTIFS DU JUGEMENT : L’honorable juge Paul Bédard
+DATE DU JUGEMENT : Le 10 octobre 2006
+COMPARUTIONS :
+Pour l’appelante :
+L’appelante elle‑même
+Avocat de l’intimé :
+Me Benoit Mandeville
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Cabinet :
+Pour l’intimé : John H. Sims, c.r.
+Sous‑procureur général du Canada
+Ottawa, Canada
+[1] Légaré c. Canada (Ministre du Revenu national – M.R.N.), [1999] A.C.F. nº 878 (Q.L.), au paragraphe 4.
+[2] Pièce I-1.
+[3] Pièce I‑1.

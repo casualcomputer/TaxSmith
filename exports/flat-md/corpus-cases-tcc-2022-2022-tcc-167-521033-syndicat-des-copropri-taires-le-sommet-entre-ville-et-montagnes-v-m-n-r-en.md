@@ -1,0 +1,239 @@
+---
+title: "Syndicat des Copropriétaires le Sommet Entre Ville et Montagnes v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/521033/index.do"
+last_modified: "2022-12-19"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2022 TCC 167"
+citation2: ""
+neutral_citation: "2022 TCC 167"
+decision_date: "2022-12-19"
+language: "en"
+item_id: "521033"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5767
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2023-12-01T11:25:40.947000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "a48aecd5448d04aa90619ab4a37ed1c8aa2b7ead298adc8e0c60b05f4c85c0a9"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Syndicat des Copropriétaires le Sommet Entre Ville et Montagnes v. M.N.R.
+
+- Citation: 2022 TCC 167
+- Decision date: 2022-12-19
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5767, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Syndicat des Copropriétaires le Sommet Entre Ville et Montagnes v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2022-12-19
+Neutral citation
+2022 TCC 167
+File numbers
+2019-2136(EI)
+Judges and Taxing Officers
+Réal Favreau
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2019-2136(EI)
+BETWEEN:
+SYNDICAT DES COPROPRIÉTAIRES LE SOMMET
+ENTRE VILLE ET MONTAGNES,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard on October 27, 2022, at Quebec City, Quebec
+Before: The Honourable Justice Réal Favreau
+Appearances:
+Counsel for the Appellant:
+Nicholas Thiffault
+Counsel for the Respondent:
+Anna Kirk
+JUDGMENT
+The appeal of the determination of the Minister of National Revenue in the letters dated May 10, 2019, to the effect that Gilbert Fortier was employed by the appellant and that this employment was insurable during the period from January 1, 2018, to September 17, 2018, is dismissed, and the determination of the Minister is affirmed, pursuant to the attached reasons for judgment.
+Signed at Montreal, Canada, this 19th day of December, 2022.
+“Réal Favreau”
+Favreau J.
+Citation: 2022 TCC 167
+Date: 20221219
+Docket: 2019-2136(EI)
+BETWEEN:
+SYNDICAT DES COPROPRIÉTAIRES LE SOMMET
+ENTRE VILLE ET MONTAGNES,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Favreau J.
+[1] The appellant is appealing a decision of the Minister of National Revenue (“the Minister”) under the Employment Insurance Act, S.C. 1996, c. 23 (“the Act”), in relation to the insurability of Gilbert Fortier (“the worker”)’s employment from January 1, 2018, to September 17, 2018 (“the period at issue”).
+[2] The appellant is appealing the decision of the Minister dated May 10, 2019, according to which the worker's employment with the appellant was insurable employment during the period at issue.
+[3] The origin of this dispute stems from a request dated August 28, 2018, from the worker addressed to the Canada Revenue Agency (“the CRA”) to determine the status of his employment with the appellant during the period in dispute for the purposes of the Act.
+[4] The worker and the appellant were informed by letters dated September 21, 2018, that it had been decided that the worker was an employee of the appellant and that his employment was insurable during the period at issue under paragraph 5(1)(a) of the Act.
+[5] In a letter dated October 30, 2018, the appellant appealed the respondent’s determination, and that determination was subsequently affirmed in letters dated May 10, 2019, addressed to the appellant and to the worker.
+[6] To make its decision, the respondent took the following assumptions of fact for granted, as stated in paragraph 8 of the Reply to the Notice of Appeal.
+The appellant works in the field of residential building and housing operations.
+The appellant is a non-profit organization.
+The appellant was legally incorporated on March 25, 2019.
+The appellant is associated with a condominium association located at 19200 Henri-Bourassa Boulevard, Quebec City, Quebec.
+Mr. Morin was the manager for the appellant.
+The worker was hired by Mr. Morin as a concierge.
+The written agreement between the appellant and the worker (“the parties”) was made in the Province of Quebec on April 17, 2017.
+The parties did not share a common intention in relation to the worker's employment status.
+The worker considered himself an employee of the appellant.
+The worker’s tasks included:
+maintaining outdoor areas;
+maintaining the pool, nature spa and resting surface;
+maintaining the indoor areas and sports facility;
+removing snow from entrances and walkways;
+managing waste (garbage) and recycling removal;
+administering petty cash in the amount of $200.00; and
+managing reservations for the reception room and guest suite.
+Mr. Morin and the concierge who worked there before the worker each trained the worker.
+Mr. Morin determined the worker’s tasks.
+Mr. Morin gave the worker specific instructions on the work to be carried out and how it was to be done.
+The worker reported to Mr. Morin.
+The appellant required the worker to work a minimum daily schedule of 7.5 hours from Monday to Friday as well as 2.5 hours on Saturday.
+The worker had to be available for emergencies outside of said schedule.
+The worker had to comply with the appellant’s instructions in relation to work hours.
+The appellant determined the method, amount and frequency of the worker’s remuneration.
+The appellant paid the worker a flat-rate annual salary of $52,000, regardless of the hours worked.
+The appellant paid the worker on a semi-monthly basis.
+The appellant paid the worker for holidays.
+The appellant paid the worker an hourly rate of $25 for holidays and emergencies, on top of his regular salary.
+The worker was not required to submit invoices to the appellant in order to be paid.
+The worker used his personal vehicle as well as his own small tools.
+The appellant paid the worker a per-kilometre rate for using his own vehicle.
+The appellant provided the worker with the equipment and raw materials required to carry out his work, such as pool and spa maintenance products and equipment.
+The worker needed to inform Mr. Morin if he would be unable to attend work.
+The worker had to obtain permission from the appellant to be replaced.
+The appellant was responsible for paying the worker’s assistants or replacements.
+The worker had to fill out a weekly maintenance form.
+Mr. Morin could verify the worker’s work by consulting said form.
+Mr. Morin could criticize the worker.
+The appellant guaranteed the work of appellant [sic] for condo owners.
+The appellant had provided the worker with a jacket with the appellant’s logo.
+The worker’s activities were fully integrated into the appellant's activities.
+Complaints about the worker’s work were addressed to the appellant.
+Mr. Morin was responsible for resolving said complaints.
+The appellant terminated the worker’s services on November 9, 2018.
+The appellant paid the worker compensation in the amount of one month’s services following this layoff.
+[7] The worker was the only one to testify at the hearing, and some precisions were made to the assumptions of fact reported by the respondent.
+[8] The worker specified that when he signed the written agreement with the appellant, he did not understand the scope of the provisions related to his status. He had never worked as a self-employed person before and believed that he was an employee, given that holidays were paid. The terms and conditions of the agreement were dictated by the appellant, and there was no real negotiation between the parties. The agreement had been prepared by the appellant and submitted to the worker for him to sign. The worker also specified that during the period at issue, he did not hold any other employment, did not have other clients and did not advertise to obtain other clients.
+[9] The workers’ tasks were described in the agreement and in the detailed appendices on the weekly and bi-monthly maintenance work to be carried out in the appellant's building. The worker indicated that initially, he filled out the appendices in question, but given that Mr. Morin did not check them, he stopped filling them out and the appellant did not ask for them after that.
+[10] Contrary to the requirements in the agreement, the worker never provided light cleaning equipment or products (toilet paper, etc.). The worker specified that the only property made available to the appellant was his personal vehicle because he needed to use it to take out the garbage. The appellant also provided the worker with a trailer hitch so that he could carry out this task. According to the worker, all purchases of property used to carry out his tasks were reimbursed by the appellant upon providing receipts. The worker also indicated that the appellant had provided him with a cellphone that he quickly returned because he was receiving too many calls from the appellant’s members.
+[11] The worker acknowledged that he was occasionally replaced by his sister if he was unable to go to work after having informed the appellant beforehand. The appellant specified that they did not pay his sister for said services and that they did not want to hire any subcontractors.
+[12] Pursuant to the terms and conditions of the agreement, the worker acknowledged that he had taken out liability insurance to cover his actions carried out as part of his duties and had provided tax invoices for goods and services following a recommendation from his accountant.
+[13] The documents submitted into evidence at the hearing included an exchange of letters between the worker and the appellant concerning the fact that the initial agreement was not being renewed. In a letter dated June 5, 2018, the worker asked that the new contract be an employment contract beginning on August 1, 2018. Given the appellant’s lack of response, the worker informed the appellant in a letter dated July 31, 2018, of the non-renewal of the initial agreement. After this letter, there was a period of renegotiations during which the worker made a written proposal dated August 23, 2018, which was submitted to the board of directors, who rejected it. The appellant definitively terminated the initial agreement with the worker in a letter dated November 9, 2018.
+[14] The worker’s income tax return for the 2018 tax year was also submitted into evidence. The worker had reported the income earned from the agreement with the appellant as employment income on line 101 because the appellant had issued T4 slips for the worker for the 2018 tax year. The T4 slips were issued at the appellant’s protest following an initial decision by the CRA to treat the worker’s employment as insurable employment.
+[15] On September 11, 2019, the worker signed a sworn statement in which he notably confirmed that for 2017 and 2018, he had always acted as a self-employed contractor/independent contractor in the context of the agreement with the appellant and that he had never had an employment relationship with the appellant.
+[16] On December 2, 2019, a transaction occurred between the appellant and the Agence du Revenu du Québec (“the ARQ”) as a result of which the ARQ reversed its earlier decision that the worker had been an employee of the appellant for the period from January 1 to November 9, 2018, and agreed to issue a new decision that the worker had instead been a self-employed worker in the context of his work for the appellant. The worker was not involved in this transaction.
+[17] On December 19, 2019, the worker signed a new sworn statement in which he explained the circumstances surrounding his signing the statement dated September 11, 2019, and he stated that all the facts stated in all the documents submitted to the respondent and to the ARQ since August 24, 2018, in the context of the assessment of his employment status with the appellant represented the real situation of his employment in 2018 with the appellant, contrary to what was written in his sworn statement dated September 11, 2019.
+I. The law
+[18] The definition of insurance employment for the purposes of this case is stipulated in paragraph 5(1)(a) of the Act, which reads as follows:
+5(1) Subject to subsection (2), insurable employment is
+(a) employment in Canada by one or more employers, under any express or implied contract of service or apprenticeship, written or oral, whether the earnings of the employed person are received from the employer or some other person and whether the earnings are calculated by time or by the piece, or partly by time and partly by the piece, or otherwise;
+[19] Seeing as the agreement entered into between the worker and the appellant was entered into in Quebec, this agreement must be interpreted in light of the provisions of the Civil Code of Québec, CQLR c CCQ-1991, c.64 (“the Civil Code”). The provisions of the Civil Code that are applicable for the purposes of this case are:
+DIVISION IV
+INTERPRETATION OF CONTRACTS
+1425. The common intention of the parties rather than adherence to the literal meaning of the words shall be sought in interpreting a contract.
+1426. In interpreting a contract, the nature of the contract, the circumstances in which it was formed, the interpretation which has already been given to it by the parties or which it may have received, and usage, are all taken into account.
+. . .
+CHAPTER VII
+CONTRACT OF EMPLOYMENT
+2085. A contract of employment is a contract by which a person, the employee, undertakes, for a limited time and for remuneration, to do work under the direction or control of another person, the employer.
+. . .
+CHAPTER VIII
+CONTRACT OF ENTERPRISE OR FOR SERVICES
+DIVISION I
+NATURE AND SCOPE OF THE CONTRACT
+2098. A contract of enterprise or for services is a contract by which a person, the contractor or the provider of services, as the case may be, undertakes to another person, the client, to carry out physical or intellectual work or to supply a service, for a price which the client binds himself to pay to him.
+2099. The contractor or the provider of services is free to choose the means of performing the contract and, with respect to such performance, no relationship of subordination exists between the contractor or the provider of services and the client.
+[20] Quebec civil law defines the constituent elements required for a contract of employment or for a contract of enterprise or for services to exist.
+[21] A contract of employment is characterized by the performance of work, remuneration and a relationship of subordination between the person performing the work and the person who retained that person’s services. A relationship of subordination exists when the work provider has control over the person performing the work.
+[22] A contract of enterprise or for services hinges on no relationship of subordination existing between the contractor or the service provider and the client in relation to performing the contract. The contactor or service provider is free to choose the means of performing the contract.
+[23] In Quebec civil law, the intention of the parties to a contract is a significant factor that must be taken into consideration in interpreting a contract. However, the intention of the parties is not the only determining factor in how a contract is qualified. The behaviour of the parties in performing the contract must reflect this common intention, otherwise the contract will be qualified based on factual reality, not the parties’ arguments.
+[24] In addition to these criteria of distinction provided for in the Civil Code, criteria have been developed in common law to analyze the relationship between the parties. These common-law criteria, which are qualified as indicia of supervision, can be useful in determining the legal qualification of a contract of employment or a contract of enterprise in Quebec civil law. The other criteria established in common law are: (1) control; (2) ownership of tools; (3) chance of profit and risk of loss; and (4) integration into the business. The essential criterion in determining the existence of an employer-employee relationship is control or the right to give orders and instructions on how to perform the work.
+II. Decision and discussion
+[25] Upon reviewing all the evidence and considering applicable law on this matter, I conclude that, according to the balance of probabilities, the worker was associated with the appellant through a contract of employment and that, consequently, he had insurable employment within the meaning of subsection 5(1) of the Act.
+[26] The following factors were taken into consideration in my decision.
+Intention
+[27] According to the very terms and conditions of the agreement entered into between the appellant and the worker and based on the way the agreement was negotiated and formalized, it is obvious that the appellant had the subjective intention to establish a client/contractor relationship. The appellant wanted to have control of the worker but did not want to accept responsibility for such control.
+[28] The situation is not as clear for the worker. He had never been a self-employed worker before and had no intention of becoming one. He did not fully understand the distinction between a contract of employment and a contract of enterprise or for services, or the related tax and effects of either contract.
+[29] Under the circumstances, the Court must establish whether the objective reality confirms the subjective intention of the parties by reviewing whether the facts are consistent with the intention expressed by the parties.
+[30] I do not give any probative value to the transaction concluded by the appellant with the ARQ because the worker was not part of the agreement, or to the worker’s sworn statement dated September 11, 2019, because that statement was submitted and required by the appellant as part of the final resolution of the litigation stemming from the non-renewal of the agreement dated April 17, 2017.
+Control and subordination
+[31] This is the most important factor to be taken into consideration. Subordination and control are the essential elements of a contract of employment.
+[32] In my opinion, the facts in this case demonstrate that the worker was subordinate to and under the control of Michel Morin, the manager for the appellant.
+[33] The work that the worker had to perform was routine and repetitive in nature and required little or no supervision. However, the supervision of the work was quite thorough in that the worker had to fill out and complete weekly and bimonthly maintenance appendices as well as forms stipulating the steps of the work to be performed by the worker. These lists of work were extremely specific not only in terms of the nature of the work to be performed but also in terms of the days of the week when this work had to be performed.
+[34] These lists of very specific tasks provided the appellant with the option to control how the appellant’s work was performed, regardless of whether that control was exercised.
+[35] According to the agreement, the allowed schedule to perform the work was 40 hours a week in daily timeslots of about 7.5 hours from Monday to Friday inclusive, and 2.5 hours on Saturday. The worker had to be present at the appellant’s building or be working for the appellant during this timeframe. This work schedule required the worker to provide availability that is normally characteristic of a contract of employment.
+Tools and equipment
+[36] The appellant provided the tools, equipment (including a cellphone) and cleaning materials required to perform the work. The only tool or equipment provided by the worker was his vehicle to take out the garbage bins. He did not receive anything for providing this service, but for all other uses of his vehicle, the worker was reimbursed at a rate of $0.35/km. Any materials purchased by the worker were reimbursed upon providing receipts and using the $200.00 in petty cash. In my opinion, this factor demonstrates the existence of a contract of employment.
+Risk of loss and chance of profit
+[37] The worker had no risk of loss or chance of profit. The worker did not advertise and had no other clients. He did not have employees and did not use subcontractors. In my opinion, this factor supports the existence of a contract of employment.
+Integration
+[38] The worker was fully integrated into the appellant’s business. He was working full-time at the appellant’s building. He received complaints from condo owners. He handled rentals for the guest suite and multi-purpose room. The worker had to comply with the terms, conditions and commitments set out in the appellant's code of ethics. This factor also demonstrates the fact that this was a contract of employment.
+III. Conclusion
+[39] Based on the balance of probabilities, I conclude that, despite the apparent common intention of the appellant and worker to enter into a contract of enterprise or for services, the worker actually performed his work according to the terms and conditions of a contract of employment and that, consequently, he had insurable employment within the meaning of subsection 5(1) of the Act.
+[40] The appeal is therefore dismissed.
+Signed at Ottawa, Canada, this 19th day of December 2022.
+“Réal Favreau”
+Favreau J.
+CITATION:
+2022 TCC 167
+COURT FILE NO.:
+2019-2136(EI)
+STYLE OF CAUSE:
+SYNDICAT DES COPROPRIÉTAIRES LE SOMMET ENTRE VILLE ET MONTAGNES AND M.N.R.
+PLACE OF HEARING:
+Québec City, Quebec
+DATE OF HEARING:
+October 27, 2022
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Réal Favreau
+DATE OF JUDGMENT:
+December 19, 2022
+APPEARANCES:
+Counsel for the appellant:
+Nicholas Thiffault
+Counsel for the respondent:
+Anna Kirk
+COUNSEL OF RECORD:
+For the appellant:
+Name:
+Nicholas Thiffault
+Firm:
+GBV Avocats
+Quebec City, Quebec
+For the respondent:
+François Daigle
+Deputy Attorney General of Canada
+Ottawa, Canada

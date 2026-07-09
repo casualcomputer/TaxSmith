@@ -1,0 +1,222 @@
+---
+title: "Waters v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27318/index.do"
+last_modified: "2006-10-11"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 CCI 553"
+citation2: ""
+neutral_citation: "2006 CCI 553"
+decision_date: "2006-10-11"
+language: "fr"
+item_id: "27318"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 858
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T23:41:17.709000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "778e21a761783cfaf81d4b07fb2f16b9fd9a1be34d3b839430ad88f995000465"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Waters v. The Queen
+
+- Citation: 2006 CCI 553
+- Decision date: 2006-10-11
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 858, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Waters v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-10-11
+Référence neutre
+2006 CCI 553
+Numéro de dossier
+2001-2604(IT)I
+Juges et Officiers taxateurs
+Cameron Hugh McArthur
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2001-2604(IT)I
+ENTRE :
+RICHARD A. WATERS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 12 juin 2006, à Toronto (Ontario).
+Devant : l’honorable juge C.H. McArthur
+Comparutions :
+Représentant de l’appelant :
+M. Robert Waters
+Avocate de l’intimée :
+Me Kandia Aird
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’égard de la nouvelle cotisation fiscale établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 1999 est rejeté.
+Le présumé appel interjeté à l’égard de la nouvelle cotisation fiscale établie en vertu de la Loi pour l’année d’imposition 2000 est annulé.
+Signé à Ottawa, Canada, ce 11e jour d’octobre 2006.
+« C.H. McArthur »
+Juge McArthur
+Traduction certifiée conforme
+ce 5e jour de février 2008.
+Maurice Audet, réviseur
+Référence : 2006CCI553
+Date : 20061011
+Dossier : 2001-2604(IT)I
+ENTRE :
+RICHARD A. WATERS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge McArthur
+[1] Le présent appel intéresse la cotisation établie par le ministre du Revenu national pour l’année d’imposition 1999 de l’appelant. Le ministre a conclu que la somme de 30 378 $[1] versée à l’appelant par l’entremise du ministère ontarien de la Formation et des Collèges et Universités constituait une bourse d’études au sens de l’alinéa 56(1)n) de la Loi de l’impôt sur le revenu et devait être incluse dans son revenu. L’appelant était représenté par son père, lequel a produit un avis d’appel de plus de 100 pages dans l’espoir, peut‑être, que l’un parmi sa multitude d’arguments fasse mouche.
+[2] Le présumé appel visant l’année d’imposition 2000 est annulé. La Cour n’en est pas valablement saisie parce que l’appelant n’a pas signifié d’avis d’opposition relatif à cette année et que le ministre n’avait pas confirmé la cotisation pour l’année 2000 lorsque l’appelant a produit un avis d’appel.
+[3] L’appelant est né en 1979 avec une surdité profonde. Il a reçu de la formation auditive dans la région de Toronto au cours des ans. En novembre 1997, on lui a accordé des fonds dans le cadre d’un régime provincial ontarien pour qu’il suive des études supérieures pour personnes sourdes à Rochester (New York). À ce moment-là, il croyait que les fonds étaient libres d’impôt, mais il a par la suite fait l’objet d’une cotisation fondée sur l’alinéa 56(1)n). Cette disposition est rédigée de la façon suivante, le terme « bourse d’études » étant le plus important :
+56(1) Sans préjudice de la portée générale de l’article 3, sont à inclure dans le calcul du revenu d’un contribuable pour une année d’imposition :
+a) […]
+n) l’excédent éventuel :
+(i) du total des sommes […] reçues au cours de l’année par le contribuable à titre de bourse d’études, de bourse de perfectionnement (fellowship) ou de récompense couronnant une œuvre remarquable réalisée dans son domaine d’activité habituel, à l’exclusion d’une récompense visée par règlement,
+sur :
+(ii) l’exemption pour bourses d’études du contribuable pour l’année, calculée selon le paragraphe (3);
+[4] Les parties s’entendent sur l’exposé des faits suivant :
+[TRADUCTION]
+Aperçu
+1. Pendant l’année d’imposition 1999, l’appelant suivait des cours à temps plein au National Technical Institute of the Deaf du Rochester Institute of Technology, aux États‑Unis (« NTID »).
+2. Pendant l’année d’imposition 1999, l’appelant a reçu des fonds du ministère ontarien de la Formation et des Collèges et Universités.
+3. L’appelant a reçu du ministère de la Formation et des Collèges et Universités un feuillet T4A faisant état du paiement de 34 873 $ pendant l’année d’imposition 1999. […]
+4. Sur le feuillet T4A, le ministère de la Formation et des Collèges et Universités a qualifié le paiement de « bourse d’études à l’intention d’un étudiant sourd à l’extérieur du Canada ».
+5. Lorsqu’il a établi la cotisation pour l’année d’imposition 1999 de l’appelant, le ministre du Revenu national a ajouté la somme de 34 873 $, moins 500 $, au revenu du contribuable en application de l’alinéa 56(1)n) de la Loi de l’impôt sur le revenu.
+SERVICES DE RÉADAPTATION PROFESSIONNELLE
+6. Avant 1999, l’appelant recevait des fonds pour frais d’études destinés à l’aider à payer les frais engagés pour fréquenter le NTID. Ce sont les Services de réadaptation professionnelle (« SRP »), un organisme provincial, qui lui offraient ce soutien financier.
+7. L’aide financière reçue n’était pas assujettie à l’impôt.
+8. Les SRP avaient notamment pour mandat d’aider les personnes handicapées à obtenir un emploi lucratif.
+9. Pour devenir un client des SRP, le candidat devait remplir une formule de vérification du handicap, préciser la nature de celui‑ci et faire preuve d’une certaine capacité à recevoir une formation spécialisée.
+10. De nombreux clients sourds ou malentendants qui souhaitaient obtenir un enseignement postsecondaire choisissaient de fréquenter un établissement aux États-Unis parce qu’à cette époque, aucun établissement d’enseignement postsecondaire au Canada n’offrait une formation complète à l’aide du American Sign Language.
+11. Selon le programme des SRP, les clients qui souhaitaient obtenir un soutien financier pour fréquenter un établissement américain devaient réussir un programme d’évaluation adapté aux besoins particuliers de chacun des candidats.
+12. On pouvait demander aux candidats de manifester un désir sérieux d’entreprendre certaines activités scolaires ou professionnelles, d’exposer leurs objectifs à long terme, de montrer une capacité à recevoir la formation et/ou de subir une évaluation psychologique.
+13. Les établissements suivants offraient un enseignement postsecondaire au moyen du American Sign Language : le Rochester Institute of Technology (« RIT »), en particulier l’un de ses collèges appelé le National Technical Institute for the Deaf (« NTID ») et situé à Rochester (New York), et le Gallaudet College for the Deaf, situé à Washington (D.C.).
+14. Avant de recevoir un soutien financier pour fréquenter un établissement américain, les candidats devaient satisfaire aux conditions d’admission fixées par cet établissement.
+15. Dans le cas du NTID, les conditions d’admission étaient les suivantes :
+a) Premièrement, le candidat devait avoir un certain degré de perte auditive;
+b) Deuxièmement, les étudiants devaient être atteints d’une perte auditive qui, en l’absence de services d’accès à l’enseignement, restreignait gravement leurs chances de succès dans un programme ordinaire au niveau collégial;
+c) Troisièmement, les étudiants devaient fournir un relevé de notes du secondaire montrant qu’ils avaient obtenu un diplôme d’études secondaires et ils devaient satisfaire aux exigences scolaires applicables à leur principal domaine d’études.
+16. Lorsqu’un étudiant ne répondait pas aux exigences scolaires applicables pour être admis dans un établissement américain, les SRP l’aidaient à explorer d’autres possibilités d’études ou de carrière.
+PASSAGE DES SRP AU RAFEO
+17. En 1997, le gouvernement provincial a décidé que les sommes avancées aux étudiants sourds ou malentendants qui souhaitaient fréquenter un établissement postsecondaire aux États-Unis n’étaient plus administrées dans le cadre des SRP sous forme de soutien financier. Les SRP ont été remplacés par un nouveau régime.
+18. Selon ce nouveau régime, les sommes étaient remises concurremment par le ministre de l’Éducation et de la Formation de l’Ontario et le Régime d’aide financière aux étudiantes et étudiants de l’Ontario (RAFEO) pour donner aux étudiants la possibilité d’obtenir des prêts et bourses servant à couvrir les frais nécessaires pour fréquenter ces établissements, à la condition qu’ils satisfassent aux exigences d’admissibilité du RAFEO.
+19. Selon le nouveau régime, tous les candidats devaient faire l’objet du processus d’évaluation des besoins établi dans le cadre du RAFEO. Les étudiants ayant un revenu relativement faible pouvaient obtenir des prêts pouvant atteindre 9 350 $ (dont 7 000 $ étaient remboursables). Les parents des étudiants ayant un revenu modeste ou élevé devaient verser une contribution et le candidat avait droit à un prêt étudiant moins élevé. Tous les étudiants recevaient une bourse pour les frais d’études admissibles excédant 9 350 $, indépendamment du revenu familial.
+20. Les étudiants sourds ou malentendants, comme l’appelant, qui avaient fréquenté un établissement américain en 1997 et en 1998 et qui devaient poursuivre leurs études en 1998 et en 1999, faisaient l’objet d’une exception. Ces étudiants bénéficiaient de droits acquis dans le cadre du nouveau régime et ils continuaient de recevoir le plein montant de l’aide financière pendant toute la durée de leur programme scolaire débouchant sur un diplôme, indépendamment du niveau de leur revenu. Ils n’étaient pas tenus de suivre le processus d’évaluation des besoins. L’appelant était l’un des étudiants qui ont bénéficié de droits acquis dans le cadre du nouveau régime.
+21. Les étudiants bénéficiant de droits acquis recevaient des paiements, appelés « bourses », qui leur étaient versés concurremment par le ministère de l’Éducation et de la Formation et le RAFEO.
+22. Les conditions d’admissibilité aux paiements applicables aux étudiants bénéficiant de droits acquis sont énoncées à l’onglet 6 du recueil des documents de l’intimée : « Cette aide se poursuit jusqu’au moment où l’on pourrait raisonnablement s’attendre à ce que l’étudiant ait terminé son programme d’études, à la condition qu’il suive ce même programme sans interruption. Il doit s’agir d’un étudiant à temps plein, c’est‑à‑dire qui est inscrit à au moins 40 pour 100 d’un programme complet d’études. »
+[5] À l’heure actuelle, l’appelant, qui est âgé de 27 ans, a un emploi bien rétribué dans le secteur de la haute technologie. Il fait fonctionner du matériel de grande valeur. Les problèmes fiscaux sont survenus en 1997, lorsque le RAFEO a remplacé les SRP pour l’administration des fonds destinés aux étudiants sourds de l’Ontario qui souhaitaient fréquenter un établissement postsecondaire aux États‑Unis. Le ministère de l’Éducation a informé l’appelant qu’il était admis au régime par une lettre datée du 17 juillet 1998[2], dont voici certains passages :
+[TRADUCTION]
+Votre demande au RAFEO a été traitée et vous avez droit à la somme suivante :
+Montant de la bourse 31 389 $
+Cette somme se fonde sur les renseignements suivants que vous et votre établissement nous avez fournis.
+Frais de scolarité
+16 201 $
+Livres
+1 100 $
+Logement et repas
+10 431 $
+Soins de santé
+560 $
+Voyage aller-retour
+1 500 $
+Matériel
+1 597 $
+· Si vous recevez une demande de renseignements relative aux frais susmentionnés, vous êtes tenu de fournir ces renseignements. La somme qui vous est accordée pourrait être modifiée après réception de ceux‑ci.
+· Si vous recevez une demande visant les renseignements énoncés aux pages 2 et 3 de la demande au RAFEO, votre aide financière sera retenue jusqu’à ce que le ministère reçoive l’information demandée.
+· Si vous fournissez le montant de tous les frais susmentionnés uniquement après le début de la période d’études, votre demande sera réévaluée et la somme à laquelle vous avez droit pourrait être modifiée.
+Déblocage des fonds
+Nous joignons à vos chèques de bourse une confirmation d’inscription qui doit être signée par l’école et retournée au ministère. Les chèques sont postés à l’adresse figurant plus haut. Il est extrêmement important que vous informiez le ministère de tout changement d’adresse (ce que vous pouvez faire par lettre).
+[6] Avant le passage des SRP au RAFEO, le ministre du Revenu national n’a jamais établi de cotisation à l’égard des fonds administrés par les SRP. Ce n’est qu’après le début du versement des fonds par le truchement du RAFEO que le ministre a établi une cotisation à l’égard de ces sommes en vertu de l’alinéa 56(1)n) de la Loi. On ne sait pas vraiment pourquoi les fonds avancés par le truchement des SRP n’ont pas aussi fait l’objet d’une cotisation, bien que ce soit probablement parce que, contrairement aux SRP, le RAFEO a qualifié les fonds de « bourse d’études ». C’est le feuillet T4A[3] de 1999, montrant une somme de 34 873 $ à la rubrique [TRADUCTION] « Bourse à l’intention d’un étudiant sourd à l’extérieur du Canada », qui a donné lieu à la cotisation. Malgré la modification interne apportée par le gouvernement ontarien lorsqu’il a transféré l’administration des fonds des SRP au RAFEO, l’appelant a pu se soustraire à l’application de certaines conditions du RAFEO grâce aux dispositions relatives aux droits acquis énoncées à l’onglet 6 de la pièce R‑1. De manière générale, ces dispositions prévoient que le financement pour l’année complète continuait d’être versé sans que la participation des parents soit exigée.
+[7] L’appelant demande que le présent appel soit tranché sur le fondement de l’équité, du bon sens et, peut‑être, de la préclusion, parce qu’il a reçu le financement libre d’impôt pendant de nombreuses années et qu’il comptait sur des fonds libres d’impôt pour poursuivre ses études. Il a soutenu que le ministre ne peut soudainement changer de position en cours de route.
+[8] Dans l’avis d’appel, l’appelant expose sa thèse de la façon suivante :
+[TRADUCTION]
+(i) Le ministère nous a dit (pièce no 5) que cet argent serait versé sous forme de « bourse d’études ». Nous n’avons jamais été informés que cet argent serait assujetti à l’impôt. Nous avions l’impression que les sommes continueraient d’être versées à titre d’« indemnité non imposable », comme c’était le cas pour la Société canadienne de l’ouïe (SCO) et les SRP.
+(ii) Voilà le premier motif d’appel que nous invoquons à l’égard de ce fardeau fiscal injuste. Avant 1998, Revenu Canada […] permettait que 100 pour 100 des sommes reçues constituent une indemnité non imposable pour tous les étudiants sourds et malentendants qui fréquentaient soit le NTID, soit Gallaudet. Il en était ainsi en raison de leur situation exceptionnelle à titre d’étudiants handicapés recevant une indemnité non imposable en reconnaissance du fait qu’il n’existait aucun programme d’enseignement à l’intention des étudiants sourds ou malentendants de niveau postsecondaire souhaitant fréquenter un collège ou une université au Canada. C’est la raison pour laquelle les sommes reçues des SRP et de la SCO n’étaient pas assujetties à l’impôt. Pour l’essentiel, il n’y a eu qu’un seul changement et celui‑ci touche à l’organisme qui, en réalité, payait ces sommes. Il s’agit toutefois exactement du même programme (pièce no 5) et des mêmes besoins. La seule différence tient à un passage bureaucratique des SRP au ministère, lequel administre maintenant exactement le même programme pour répondre exactement aux mêmes besoins et, en cours de route, on a apporté une modification simpliste, mais préjudiciable, par laquelle ce qui était auparavant qualifié d’« indemnité non imposable » est devenu une « bourse d’études ».
+(iii) Nous faisons en outre valoir à la Cour que ces sommes versées par le « ministère » ne sont pas visées par les définitions à des fins fiscales des termes « subvention », « bourse d’études » ou « bourse de perfectionnement », selon les définitions figurant dans le Oxford English Dictionary. Il est important de reconnaître que, pour être admissible à recevoir des sommes, quelles qu’elles soient, dans le cadre de ce programme conçu par le « ministère », il faut satisfaire à certaines conditions préalables […]
+(iv) Toutes les définitions données dans le Oxford English Dictionary sont inextricablement liées et ont le même sens. Nous soutenons donc que le fait d’assujettir les sommes à l’impôt constitue un acte irrégulier au regard de l’Agence des douanes et du revenu du Canada. Nous soutenons également que l’ensemble du droit au Canada se fonde sur les précédents jurisprudentiels et que cet argent est donc injustement assujetti à l’impôt puisque, depuis l’instauration du programme par la SCO et les SRP, tous les étudiants canadiens qui fréquentaient le NTID ou Gallaudet avant 1998 recevaient ces sommes libres d’impôt, à titre d’indemnité non imposable. Nous affirmons qu’il s’agit d’un fardeau fiscal injuste.
+(v) Les trois paiements totalisent 33 350,00 $. Nous avançons que ces sommes ne donnent lieu à absolument aucun profit ou gain et que l’Agence des douanes et du revenu du Canada ne peut les qualifier de revenu. Comme il est signalé dans une lettre de la SCO du 28 juin 1998 (pièce no 8) adressée à madame Linda Hoard de la Direction du soutien aux étudiantes et étudiants du « ministère » […]
+Dans son avis d’appel, l’appelant a en outre renvoyé à la Loi de l’Impôt de Guerre sur le Revenu, 1917, mais il n’a pas abordé ce point dans ses observations. De toute évidence, ce texte législatif est périmé et n’est d’aucune utilité pour l’appelant. Bien que le paragraphe 3(1) de ce texte comporte une définition du terme « revenu » qui a pour effet d’exclure « la valeur, des biens acquis par don, legs, donation ou descendance », je ne vois pas comment cela pourrait aider l’appelant. Ce dernier renvoie à l’alinéa 3(1)d) et affirme que 100 pour 100 de l’argent reçu a servi à couvrir « les dépenses personnelles et les frais de subsistance ». Encore une fois, je ne vois pas comment cette assertion étaye la thèse avancée par l’appelant. Le libellé du texte législatif actuel est explicite. Le montant d’une bourse d’études doit être inclus dans le revenu. Dans l’arrêt Simser v. The Queen[4], la Cour d’appel fédérale a conclu qu’une subvention gouvernementale analogue constituait une bourse d’études. Il est inutile d’aller plus loin que l’alinéa 56(1)n) de la Loi actuelle et l’arrêt Simser. Enfin, l’appelant fait valoir que l’alinéa 56(1)n) est contraire au Code des droits de la personne de l’Ontario[5]. À cela, on peut répondre tout simplement que, dans l’arrêt Simser, la Cour d’appel fédérale a conclu que ce n’était pas le cas.
+[9] Les questions en litige se résument ainsi : (i) Sur le plan de l’équité, la Cour peut‑elle faire fi de la disposition législative applicable, à savoir l’alinéa 56(1)n), au motif qu’elle est injuste en l’espèce? (ii) La somme de 30 378 $ constituait‑elle une bourse d’études ou peut‑elle être qualifiée autrement de sorte qu’elle soit libre d’impôt? (iii) L’alinéa 56(1)n) est‑il contraire au Code des droits de la personne de l’Ontario? (iv) Le ministre était‑il préclus d’assujettir l’appelant à l’impôt? Pendant l’audience, l’appelant a informé la Cour que l’argument fondé sur la Charte soulevé dans son avis d’appel n’était plus en litige.
+[10] Je me penche maintenant sur ces observations. La Cour canadienne de l’impôt n’est pas un tribunal d’equity et elle doit appliquer les règles de droit telles qu’elles sont libellées dans la législation. Il m’est impossible d’écarter le sens ordinaire de l’alinéa 56(1)n) au motif qu’il pourrait être injuste envers l’appelant dans la présente situation. Le gouvernement fédéral a le droit de légiférer en matière fiscale. Je peux interpréter le texte législatif, mais il m’est impossible d’en modifier le sens ordinaire. L’appelant a reçu une bourse d’études, ainsi que l’a qualifiée l’organisme donateur (le gouvernement de l’Ontario). L’alinéa 56(1)n) prévoit que le montant d’une bourse d’études doit être inclus dans le calcul du revenu imposable d’un contribuable.
+[11] Comme il est mentionné plus haut, l’arrêt Simser de la Cour d’appel fédérale est utile en l’espèce. M. Simser, avocat en exercice, est né avec une surdité profonde. Pendant son cours de formation professionnelle au Barreau, il a obtenu une somme au titre des Subventions pour initiatives spéciales en faveur des étudiants atteints d’un handicap permanent (SEH). Cette subvention était financée conjointement par les autorités gouvernementales fédérales et provinciales. Le gouvernement de l’Ontario l’a qualifiée de « bourse d’études » et le ministre a établi une cotisation à l’égard de M. Simser en vertu de l’alinéa 56(1)n) de la Loi de l’impôt sur le revenu. M. Simser avait déjà obtenu des fonds libres d’impôt pour ses études, comme M. Waters. Il a interjeté appel de la cotisation pour plusieurs raisons, notamment le fait que la SEH ne constituait pas une bourse d’études au sens de l’alinéa 56(1)n). Il a ajouté que, s’il s’agissait d’une bourse d’études, l’inclusion de cette bourse dans son revenu portait atteinte à ses droits garantis par l’article 15 de la Charte des droits et libertés et le Code des droits de la personne de l’Ontario. La Cour d’appel fédérale a rejeté ces arguments pour les raisons qui suivent.
+[12] Le juge Nadon a conclu que la SEH versée à M. Simser avait pour objet d’aider les étudiants handicapés inscrits à un programme d’études. Les critères d’admissibilité à ce financement étaient analogues à ceux applicables à M. Waters. Il a également rejeté les arguments de M. Simser, voulant que (i) la subvention lui appartienne de plein droit, pour permettre au gouvernement de remplir son obligation envers les étudiants handicapés et que (ii) la subvention n’ait pas pour objet de permettre à un étudiant de poursuivre ses études. Le juge Nadon mentionne ce qui suit aux paragraphes 21 et 24 :
+21 Le juge de la Cour de l’impôt a rejeté les conclusions de l’appelant. Selon lui, il existait un lien évident entre la SEH et les études poursuivies par celui qui la reçoit. À mon avis, la conclusion du juge de la Cour de l’impôt est correcte. Les arguments de l’appelant oublient qu’un candidat ne peut pas obtenir une SEH à moins qu’il ne soit un étudiant qui a atteint un niveau d’études satisfaisant et qui a besoin d’une aide financière. Ainsi, un étudiant handicapé qui ne répond pas aux conditions fixées devra acheter sur ses propres ressources les services nécessaires, ou bien trouver une autre source de financement.
+[…]
+24 À mon avis cependant, on ne saurait dire que la SEH équivaut pour le ministère de l’Éducation et pour DRHC à s’acquitter de leur obligation d’accommodation envers l’appelant [selon la Commission ontarienne des droits de la personne]. […] mais la subvention est réservée aux étudiants qui atteignent un niveau et des résultats satisfaisants et qui ont besoin d’une aide financière. […] Par ailleurs, un tel étudiant doit fournir une preuve documentaire attestant qu’il reçoit une allocation d’invalidité fédérale ou provinciale. Par conséquent, je suis persuadé que les caractéristiques de la SEH sont telles qu’une subvention de ce genre ne peut être assimilée à des aménagements spéciaux. La SEH n’a pas été établie en tant que gratification lorsqu’un établissement d’enseignement néglige pour quelque raison de s’acquitter de son devoir de consentir des aménagements spéciaux à une personne handicapée. Autrement, cela voudrait dire que le créancier d’une telle obligation pourrait dans les faits céder sa qualité de créancier de l’obligation à une autre personne ou institution.
+Ces paragraphes s’appliquent aussi à la subvention du RAFEO accordée à M. Waters.
+[13] Le juge Nadon poursuit au paragraphe 32 en reproduisant les définitions du terme [TRADUCTION] « bourse d’études » [bursary] données dans différents dictionnaires, et il arrive à la conclusion que les bourses d’études sont des subventions offertes aux étudiants qui ont besoin d’aide financière pour poursuivre leurs études. Cela concorde avec la situation de l’appelant. La bourse offerte dans le cadre du RAFEO visait à aider l’appelant à poursuivre ses études. Ce fait est mis en lumière par la correspondance et les documents fournis par l’appelant dans les pièces A‑1 à A‑6.
+[14] Au fond, le troisième argument avancé par l’appelant procède du principe juridique de la préclusion. Dans la preuve directe qu’il a produite, l’appelant a affirmé qu’il avait été amené à croire que ses subventions allaient couvrir la totalité de ses frais d’études supérieures et étaient libres d’impôt. Il s’est fondé sur cette assertion. Ce n’est qu’en 2001 qu’il a été mis au courant de la cotisation établie en vertu de l’alinéa 56(1)n). Dans la décision Moulton c. La Reine[6], le juge Bowman énonce de la façon suivante les facteurs qui donnent lieu à la préclusion :
+(1) Une affirmation, ou une conduite y équivalant, qui a pour but d’inciter la personne à qui elle est faite à adopter une certaine ligne de conduite.
+(2) Une action ou une omission résultant de l’affirmation, en paroles ou en actes, de la part de la personne à qui l’affirmation est faite.
+(3) Un préjudice causé à cette personne en conséquence de cette action ou omission.
+La préclusion n’est plus simplement une règle de preuve. C’est une règle de droit positif. Lord Denning en parle comme d’un « principe de justice et d’équité ». (Voir la décision Moorgate Mercantile Co. c. Twitchings, [1976] 1 Q.B. 225, page 241.)
+On dit parfois que la préclusion n’est pas recevable contre la Couronne. Cette affirmation n’est pas exacte et semble provenir d’une mauvaise application du terme préclusion. Le principe de la préclusion lie la Couronne, tout comme d’autres principes de droit. La préclusion du fait du comportement, telle qu’elle s’applique à la Couronne, comprend des déclarations de faits de fonctionnaires de la Couronne sur lesquelles le sujet s’est fondé et en fonction desquelles il a agi, à son détriment. La doctrine n’a aucune application lorsqu’une interprétation particulière d’une loi a été communiquée à un sujet par un fonctionnaire de l’État, que le sujet s’est fondé sur cette interprétation à son détriment et que le gouvernement a ensuite retiré ou modifié l’interprétation. Dans un tel cas, un contribuable cherche parfois à invoquer la doctrine de la préclusion. Ce n’est pas approprié, non pas parce que ces déclarations donnent lieu à une préclusion qui ne lie pas la Couronne, mais plutôt parce qu’aucune préclusion ne peut se poser lorsque de telles déclarations ne sont pas conformes au droit. Bien que la préclusion soit maintenant un principe de droit positif, elle prend son origine dans le droit de la preuve et, en tant que telle, se rapporte aux déclarations de faits. Elle n’a aucun rôle à jouer lorsque des questions d’interprétation du droit sont en cause, car la préclusion ne peut déroger au droit.
+L’interprétation de l’alinéa 56(1)n) est une question de droit qu’il m’appartient de trancher conformément au sens ordinaire de cette disposition. Il m’est impossible de ne pas appliquer cette disposition parce qu’elle pourrait être injuste dans la situation dont je suis saisi. Les tribunaux judiciaires, qui ont l’obligation de statuer conformément aux dispositions législatives, ne sont pas liés par les assertions ou les opinions formulées par des tiers. Les gouvernements ont le droit et le pouvoir de modifier les directives en cours de route, de manière à agir dans le meilleur intérêt du plus grand nombre.
+[15] M. Gary Malkowski, personne sourde hautement qualifiée, a témoigné pour le compte de l’appelant. C’est un ancien député du gouvernement de l’Ontario et il est conseiller auprès du ministère de l’Éducation et de la Formation de cette province. Il a souligné les problèmes qui ont surgi lorsque la gestion des fonds de subventions a cessé d’être assurée par les SRP et a été assujettie au RAFEO, et le fait que les bourses d’études n’étaient pas libres d’impôt. Je crois qu’il a déclaré que plus de 50 pour 100 des candidats sourds avaient dû renoncer aux programmes parce qu’ils n’avaient pas les moyens de payer l’impôt. M. Malkowski a présenté des arguments convaincants en faveur de l’équité et de la justice. Comme il est mentionné plus haut, la Cour canadienne de l’impôt n’a pas la compétence nécessaire pour accorder les mesures de redressement équitables demandées. Dans l’arrêt Simser, le juge Nadon a formulé les observations pertinentes suivantes :
+44 Quant au paragraphe 56(1) de la Loi, il me semble que l’esprit de cette disposition s’accorde davantage avec l’objet traditionnel des lois fiscales, c’est‑à‑dire la collecte de fonds pour faire face aux dépenses publiques : l’objet déclaré du paragraphe 56(1) est d’inclure dans le revenu d’un contribuable certaines sources de revenus, sauf celles qui ont été expressément exemptées par la disposition. L’alinéa 56(1)n) suit cet objectif : […]
+50. […] Une autre caractéristique commune de la définition de « bursary » est le fait qu’une telle bourse est accordée aux étudiants pour leur permettre de continuer leurs études. À mon avis, c’est là l’objet fondamental d’une « bursary » : apporter une aide à un étudiant, non d’une manière générique, mais expressément pour l’aider à avancer dans ses études. Par conséquent, pour savoir si une subvention versée sous condition de vérification du revenu entre dans la catégorie des « bourses d’études » ou des « prestations d’assistance sociale », il faut déterminer son objet premier. […]
+[16] Pour les raisons qui précèdent, j’arrive à la conclusion que la bourse d’études de 30 378 $ reçue par l’appelant en 1999 a été incluse dans son revenu à juste titre, et que la cotisation établie par le ministre ne constituait pas un acte discriminatoire. L’appel est rejeté.
+Signé à Ottawa, Canada, ce 11e jour d’octobre 2006.
+« C.H. McArthur »
+Juge McArthur
+Traduction certifiée conforme
+ce 5e jour de février 2008.
+Maurice Audet, réviseur
+RÉFÉRENCE : 2006CCI553
+NO DU DOSSIER DE LA COUR : 2001-2604(IT)I
+INTITULÉ DE LA CAUSE : RICHARD A. WATERS c.
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Le 12 juin 2006
+MOTIFS DU JUGEMENT PAR :
+DATE DU JUGEMENT : Le 11 octobre 2006
+COMPARUTIONS :
+Représentant de l’appelant :
+M. Robert Waters
+Avocate de l’intimée :
+Me Kandia Aird
+AVOCAT(E) INSCRIT(E) AU DOSSIER :
+Pour l’appelant :
+Nom : S/O
+Cabinet :
+Pour l’intimée : Me John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Cette somme a été admise par les deux parties, contrairement à celle de 34 873 $ mentionnée dans la réponse modifiée à l’avis d’appel.
+[2] Pièce A-2, onglet 12.
+[3] Pièce R-1, onglet 2.
+[4] 2005 DTC 5001.
+[5] L.R.O. 1990, ch. 19.
+[6] 2002 IIJCan 798.

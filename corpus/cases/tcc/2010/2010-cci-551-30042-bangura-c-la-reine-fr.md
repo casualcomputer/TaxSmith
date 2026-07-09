@@ -1,0 +1,142 @@
+---
+title: "Bangura c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30042/index.do"
+last_modified: "2010-10-27"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 CCI 551"
+citation2: ""
+neutral_citation: "2010 CCI 551"
+decision_date: "2010-10-27"
+language: "fr"
+item_id: "30042"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7706
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T12:29:42.387000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "28b01ddce38da6ad20d34531a346b4077b18a5613de1d04e3253fc7d78e6412c"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Bangura c. La Reine
+
+- Citation: 2010 CCI 551
+- Decision date: 2010-10-27
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7706, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Bangura c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2010-10-27
+Référence neutre
+2010 CCI 551
+Numéro de dossier
+2010-1105(IT)I
+Juges et Officiers taxateurs
+Valerie A. Miller
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2010-1105(IT)I
+ENTRE :
+SHEKA BANGURA,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu les 6 et 7 octobre 2010, à Toronto (Ontario)
+Devant : L’honorable juge Valerie Miller
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimée :
+Me Roxanne Wong
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’encontre de l’avis de ratification daté du 29 décembre 2009 et établi en vertu de la Loi de l’impôt sur le revenu à l’égard des années d’imposition 2005 et 2006 de l’appelant est rejeté.
+Signé à Ottawa, Canada, ce 27e jour d’octobre 2010
+« V.A. Miller »
+Juge V.A. Miller
+Traduction certifiée conforme
+ce 16e jour de décembre 2010.
+Sara Tasset
+Référence : 2010CCI551
+Date : 20101027
+Dossier : 2010-1105(IT)I
+ENTRE :
+SHEKA BANGURA,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+(Prononcés oralement à l’audience le 7 octobre 2010, à Toronto (Ontario))
+La juge V.A. Miller
+[1] Il s’agit de déterminer dans le présent appel si l’appelant a subi des pertes d’entreprise atteignant 7 889,95 $ et 5 396 $ en 2005 et 2006, respectivement, et s’il peut se prévaloir d’un crédit d’impôt non remboursable au titre d’un don fait à un organisme de bienfaisance en 2005.
+Pertes d’entreprise
+[2] D’après les déclarations de revenus qu’il a produites, l’appelant a subi une perte rattachée à une entreprise désignée « Bangura Moving and Delivery Co. ». Dans son état des résultats des activités d’une entreprise, l’appelant a déclaré des revenus de 3 600 $ et de 3 500 $ ainsi que des dépenses d’entreprise de 11 489,95 $ et de 8 895 $ découlant de ses activités de déménagement et de livraison en 2005 et en 2006.
+[3] L’appelant n’avait aucun document qui justifiait le revenu et les dépenses déclarés à l’égard de son entreprise de déménagement. Il a expliqué dans son témoignage qu’il s’était séparé de sa conjointe en 2005 et qu’il avait laissé tous ses documents dans une boîte à l’appartement de cette dernière. Il a cessé d’avoir accès à ces documents lorsqu’il a quitté l’appartement qu’il occupait avec elle. En 2005, il a emménagé dans l’appartement 808 du même édifice que son ex-conjointe, qui habite l’appartement 814.
+[4] L’appelant a déclaré dans son témoignage que la personne qui préparait ses déclarations de revenus avait examiné et utilisé la totalité de ses factures et reçus. Il a déclaré qu’il conservait une boîte de reçus à son nouvel appartement.
+[5] L’appelant occupait un emploi à temps plein comme concierge pour la Toronto Transit Commission (société des transports de Toronto). En interrogatoire principal, il a expliqué que, en 2005 et en 2006, il exploitait durant ses temps libres une entreprise qui déménageait des articles sur demande pour des amis et des tiers. Il touchait 20 $ ou 25 $ par déplacement. Il ne faisait de déménagements qu’à proximité de chez lui et utilisait sa fourgonnette pour faire des déménagements.
+[6] En contre-interrogatoire, l’appelant a changé sa version des faits. Il a affirmé qu’il n’avait pas d’entreprise de déménagement et n’avait pas de reçus quand il a déménagé à l’appartement 808. La fourgonnette avait été reprise par le créancier en 2002 quand l’appelant avait déclaré faillite. En 2005, il avait une voiture Ford dont il enlevait les sièges lorsqu’il déménageait des articles pour ses amis. Il a cessé d’effectuer des livraisons à la fin de 2005, quand son permis de livraison a été annulé. Il n’a fait aucune livraison en 2006. Il n’avait pas de registres liés à ses activités de déménagement et de livraison à son lieu d’habitation, c'est-à-dire à l’appartement 808. Il ne se souvenait pas du nombre de fois où il avait déménagé des articles pour des gens en 2005, mais il a indiqué qu’il n’avait pas consacré beaucoup de temps à faire des livraisons en 2005 en raison de problèmes familiaux.
+[7] Les propos de l’appelant étaient contradictoires et peu plausibles. Par exemple, si l’appelant avait fait des livraisons en 2005 et en avait tiré un revenu de 3 500 $, il aurait dû effectuer entre 140 et 175 livraisons, ce qui ne concorde pas du tout avec son témoignage, où il a affirmé ne pas avoir consacré beaucoup de temps à faire des livraisons. De même, si l’appelant n’avait pas accès à ses documents après sa séparation en 2005, quels documents a-t-il présentés à la personne qui a préparé sa déclaration de revenus de 2005 en mars 2006?
+[8] Je conclus à la lumière de l’ensemble de la preuve que l’appelant n’exploitait pas une entreprise de déménagement ou de livraison en 2005.
+[9] Lorsque j’applique le critère énoncé par la Cour suprême du Canada dans l’affaire Stewart c. R., 2002 CSC 46 (C.S.C.), je conclus que l’appelant ne tirait pas de revenu de son entreprise de livraison ou de déménagement en 2005. Ce critère est décrit au paragraphe 60 de l’arrêt, où la Cour a déclaré ce qui suit :
+En résumé, la question de savoir si le contribuable a ou non une source de revenu doit être tranchée en fonction de la commercialité de l’activité en cause. Lorsque l’activité ne comporte aucun aspect personnel et qu’elle est manifestement commerciale, il n’est pas nécessaire de pousser l’examen plus loin. Lorsque l’activité peut être qualifiée de personnelle, il faut alors déterminer si cette activité est ou non exercée d’une manière suffisamment commerciale pour constituer une source de revenu.
+[10] À en croire l’appelant, il déménageait ou livrait des articles durant ses temps libres seulement. Il utilisait sa voiture. Il livrait des articles pour ses amis et ne faisait que des livraisons à proximité de chez lui et qui prenaient très peu de temps. Alors, il ne s’agit pas d’une activité commerciale ou d’une activité semblable à une entreprise.
+Don de bienfaisance
+[11] En 2005, l’appelant a demandé un crédit d’impôt non remboursable au titre d’un don de bienfaisance de 15 000 $. Il a joint deux reçus à sa déclaration de revenus, un pour 3 000 $, délivré par City Chapel Ministries International (« City Chapel »), et un autre pour 12 000 $ de Mega Church International (« Mega Church »).
+[12] L’appelant a affirmé qu’il avait donné 5 000 $ en espèces et des cadeaux évalués à 10 000 $ à son église, l’église catholique méthodiste située au 145, rue Wilson, à Toronto. L’église a ensuite remis les espèces et les cadeaux à City Chapel et à Mega Church.
+[13] Je ne suis pas convaincue que l’appelant disposait de 15 000 $ pour faire un don en 2005. Une fois toutes les déductions appliquées, il avait gagné 33 953,86 $ en 2005. L’appelant a expliqué qu’il avait aussi réglé son loyer, payé une pension alimentaire pour enfants et versé une certaine somme au syndic de faillite. Le tout s’élevait à 17 144 $. L’appelant avait donc un revenu disponible de 18 953,86 $, avec lequel il devait acheter sa nourriture, régler ses factures de services publics et payer d’autres nécessités de la vie. À mon avis, il n’est pas plausible qu’il ait remis 5 000 $ en espèces et donné 10 000 $ de marchandises à son église.
+[14] En outre, les montants auraient supposément été donnés à l’église catholique méthodiste, de sorte que c’est cette église qui aurait dû délivrer le reçu au nom de l’appelant. De plus, les reçus délivrés par City Chapel et Mega Church ne sont pas conformes à l’article 3501 du Règlement de l’impôt sur le revenu. La date de délivrance du reçu de Mega Church n’est pas indiquée sur le document. Les adresses qui figurent sur les reçus de City Chapel et de Mega Church ne sont pas celles qui ont été précisées par ces deux organismes lorsqu’ils ont été enregistrés auprès du ministre.
+[15] Pour tous ces motifs, l’appel est rejeté.
+Signé à Ottawa, Canada, ce 27e jour d’octobre 2010.
+« V.A. Miller »
+Juge V.A. Miller
+Traduction certifiée conforme
+ce 16e jour de décembre 2010.
+Sara Tasset
+RÉFÉRENCE : 2010CCI551
+NO DU DOSSIER DE LA COUR : 2010-1105(IT)I
+INTITULÉ : SHEKA BANGURA ET SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Les 6 et 7 octobre 2010
+MOTIFS DU JUGEMENT : L’honorable juge Valerie Miller
+DATE DU JUGEMENT : Le 27 octobre 2010
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimée :
+Me Roxanne Wong
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée : Myles J. Kirvan,
+Sous-procureur général du Canada
+Ottawa, Canada

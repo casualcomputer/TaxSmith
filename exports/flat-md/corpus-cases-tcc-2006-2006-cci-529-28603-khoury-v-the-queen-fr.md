@@ -1,0 +1,178 @@
+---
+title: "Khoury v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28603/index.do"
+last_modified: "2006-09-28"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 CCI 529"
+citation2: ""
+neutral_citation: "2006 CCI 529"
+decision_date: "2006-09-28"
+language: "fr"
+item_id: "28603"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1070
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T23:42:51.504000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "a70461dce3c51f1ec97296167c4fabeb078383dd59b6ed72b7c326ad0c583a8c"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Khoury v. The Queen
+
+- Citation: 2006 CCI 529
+- Decision date: 2006-09-28
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1070, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Khoury v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-09-28
+Référence neutre
+2006 CCI 529
+Numéro de dossier
+2005-2453(IT)I
+Juges et Officiers taxateurs
+Eric A. Bowie
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2005-2453(IT)I
+ENTRE :
+MICHAEL KHOURY,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels entendus le 21 juin 2006 à Fredericton (Nouveau‑Brunswick)
+Devant : L’honorable juge E.A. Bowie
+Comparutions :
+Avocat de l’appelant :
+Me Bruce D. Hatfield, c.r.
+Avocat de l’intimée :
+Me Edward Sawa
+____________________________________________________________________
+JUGEMENT
+Les appels interjetés à l’encontre des nouvelles cotisations d’impôt établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 2000 et 2001 sont accueillis, et les nouvelles cotisations sont déférées au ministre du Revenu national pour qu’il procède à un nouvel examen et établisse de nouvelles cotisations en tenant pour acquis que l’appelant a droit à des déductions fondées sur une utilisation de 40 % de la résidence et sur des dépenses de 24 544,43 $ engagées en 2000 et de 23 594,64 $ engagées en 2001.
+Les parties peuvent s’exprimer sur les dépens si elles n’en conviennent pas.
+Signé à Ottawa, Canada, ce 28e jour de septembre 2006.
+« E.A. Bowie »
+Juge Bowie
+Traduction certifiée conforme
+ce 17e jour de janvier 2008.
+Jean David Robert, traducteur
+Dossier : 2005-2454(GST)I
+ENTRE :
+MICHAEL KHOURY,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 21 juin 2006 à Fredericton (Nouveau‑Brunswick)
+Devant : L’honorable juge E.A. Bowie
+Comparutions :
+Avocat de l’appelant :
+Me Bruce D. Hatfield, c.r.
+Avocat de l’intimée :
+Me Edward Sawa
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’encontre de la nouvelle cotisation de taxe établie en vertu de la Loi sur la taxe d’accise, dont l’avis est daté du 7 avril 2004 et porte le numéro 01EE0103171, pour les années d’imposition 2000 et 2001 est accueilli, et la nouvelle cotisation est déférée au ministre du Revenu national pour qu’il procède à un nouvel examen et établisse une nouvelle cotisation en tenant pour acquis que l’appelant a droit à des crédits de taxe sur les intrants fondés sur une utilisation de 40 % de la résidence et sur des dépenses de 5 918,06 $ engagées en 2000 et de 4 246,31 $ engagées en 2001.
+Les parties peuvent s’exprimer sur les dépens si elles n’en conviennent pas.
+Signé à Ottawa, Canada, ce 28e jour de septembre 2006.
+« E.A. Bowie »
+Juge Bowie
+Traduction certifiée conforme
+ce 17e jour de janvier 2008.
+Jean David Robert, traducteur
+Référence : 2006CCI529
+Date : 20060928
+Dossiers : 2005-2453(IT)I
+2005-2454(GST)I
+ENTRE :
+MICHAEL KHOURY,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Bowie
+[1] La Cour est saisie de deux appels, l’un interjeté en vertu de la Loi de l’impôt sur le revenu (la « Loi ») et l’autre en vertu de la partie IX de la Loi sur la taxe d’accise (la « LTA »). Les deux appels concernent la mesure dans laquelle l’appelant utilise sa résidence à des fins commerciales.
+[2] Dans le calcul de son revenu pour les années d’imposition 2000 et 2001, M. Khoury a demandé des déductions de 13 816,79 $ et de 12 427,20 $, respectivement, en application de l’alinéa 18(12)a) de la Loi au titre des dépenses engagées pour des locaux de travail se trouvant dans sa résidence. Ces déductions étaient fondées sur une utilisation de 50 % de sa résidence à des fins commerciales. Le ministre du Revenu national (le « ministre ») a établi une nouvelle cotisation à son égard par laquelle il a fait passer à 20 % l’utilisation de la résidence à des fins commerciales et a refusé la déduction de certains frais d’entretien qui avait été demandée.
+[3] M. Khoury a aussi demandé des crédits de taxe sur les intrants (les « crédits ») prévus par la LTA pour les périodes de déclaration 2000 et 2001 au titre des dépenses engagées pour des services publics et l’entretien de la résidence, lesquels crédits étaient fondés sur une utilisation de 50 % de sa résidence à des fins commerciales. Le ministre a établi une nouvelle cotisation à son égard par laquelle il a réduit le montant de ses crédits de 783,56 $, en faisant encore passer à 20 % l’utilisation de la résidence à des fins commerciales pour laquelle il pouvait demander une déduction et en refusant la déduction des mêmes frais d’entretien.
+[4] L’alinéa 18(12)a) de la Loi est ainsi rédigé :
+18(12) Malgré les autres dispositions de la présente loi, dans le calcul du revenu d'un particulier tiré d'une entreprise pour une année d'imposition :
+a) un montant n'est déductible pour la partie d'un établissement domestique autonome où le particulier réside que si cette partie d'établissement :
+(i) soit est son principal lieu d'affaires,
+(ii) soit lui sert exclusivement à tirer un revenu d'une entreprise et à rencontrer des clients ou des patients sur une base régulière et continue dans le cadre de l'entreprise;
+L’alinéa 170(1)(a.1) de la LTA est ainsi libellé :
+170(1) Le calcul du crédit de taxe sur les intrants d’un inscrit n’inclut pas de montant au titre de la taxe payable par celui-ci relativement aux biens ou services suivants :
+a) […]
+a.1) le bien ou le service acquis, importé ou transféré dans une province participante pour la consommation ou l’utilisation de l’inscrit, ou, si celui-ci est une société de personnes, pour celle d’un particulier qui en est un associé, relativement à la partie d’un établissement domestique autonome où l’inscrit ou le particulier réside, sauf si cette partie, selon le cas :
+(i) est le principal lieu d’affaires de l’inscrit,
+(ii) est utilisée exclusivement pour tirer un revenu d’une entreprise et est utilisée pour rencontrer des clients ou des patients de l’inscrit de façon régulière et continue dans le cadre de l’entreprise;
+[5] L’intimée ne conteste pas que le principal lieu d’affaires de M. Khoury est sa résidence. En fait, c’est son seul lieu d’affaires. Il a donc droit à une déduction en vertu de l’article 18 de la Loi et à des crédits en application de l’article 170 de la LTA. L’appelant n’a présenté aucune preuve à l’audience pour justifier les frais d’entretien dont le ministre avait refusé la déduction. Par conséquent, le litige porte simplement sur la mesure dans laquelle il utilisait sa maison à des fins commerciales pendant les années en cause.
+[6] M. Khoury est un artiste. Depuis les dix dernières années, il s’agit de sa seule occupation. Il a été formé sous la direction d’un artiste renommé à l’Université du Nouveau‑Brunswick, et son dynamisme et son talent sont tels qu’il a été en mesure de s’établir une grande réputation dans la province du Nouveau‑Brunswick. À l’aide d’Internet, il a maintenant étendu cette réputation au point où il réalise plusieurs ventes d’un bout à l’autre de l’Amérique du Nord et au‑delà. Son atelier est dans sa maison, et il expose des peintures dans toute sa résidence pour les montrer aux acheteurs potentiels. La maison a un grand hall d’entrée, qui est rempli de peintures en tout temps, tout comme la salle de séjour, la salle familiale et la salle à manger. Il y a aussi un hall à l’étage, où des tableaux sont exposés. Deux ou trois fois par année, M. Khoury tient une journée d’accueil au cours de laquelle le public est invité à voir et à acheter ses peintures. À ces occasions, il y a encore plus de toiles exposées que d’habitude. Il y a aussi des tableaux qui sont entreposés en tout temps derrière le mobilier se trouvant dans la salle de séjour, dont un bon nombre sont exposés lors des journées d’accueil. La salle à manger est aussi remplie de peintures à vendre. De plus, les gens souhaitent fréquemment venir voir la collection de peintures de M. Khoury, et ils sont toujours les bienvenus. Lors de ces occasions, ils voient généralement les peintures se trouvant dans toutes les pièces situées au rez‑de‑chaussée de la maison ainsi que dans le hall à l’étage.
+[7] M. Khoury utilise une pièce au rez‑de‑chaussée comme studio. Il y peint très fréquemment, et cette pièce sert, elle aussi, à exposer son travail qui est à vendre. Le studio contient un piano, une chaine stéréo et un ordinateur, qui sont quelquefois utilisés par d’autres membres de la famille de l’appelant, mais il est principalement utilisé comme un endroit où l’appelant peint. Tout près du studio se trouve la salle de lavage, qu’il utilise pour nettoyer ses brosses et d’autres outils. La salle à manger, en plus de servir à exposer des peintures, est utilisée par son épouse. Celle‑ci, qui est la directrice commerciale de l’appelant, s’en sert pour faire du travail administratif lié à l’entreprise. M. Khoury peint fréquemment des natures mortes et des scènes de jardin et il le fait dans diverses parties de la maison, y compris la cuisine et la salle à manger, de même que sur la terrasse sur laquelle donne la porte d’entrée située à l’arrière de la maison. Pour ce faire, il utilise un chevalet portable qu’il peut installer n’importe où dans la maison où il y a un sujet adéquat pour son art.
+[8] Au sous‑sol de la maison se trouve une grande pièce qui sert de salle de projection pour l’exposition des images photographiques de la collection de peintures à vendre de M. Khoury. Une autre pièce située au sous‑sol est utilisée pour l’encadrement, l’étirement des toiles, l’emballage des peintures qui doivent être envoyées aux acheteurs, et pour l’entreposage de fournitures et de matériaux d’emballage. Ensemble, ces deux pièces occupent la majeure partie du sous‑sol et elles sont presque exclusivement utilisées à des fins commerciales.
+[9] Le deuxième étage de la maison comprend, en plus du hall que j’ai mentionné précédemment, quatre chambres et deux salles de bain. De ces pièces, seule la chambre occupée par M. et Mme Khoury est utilisée à des fins commerciales. Un ordinateur et un télécopieur s’y trouvent, et Mme Khoury a estimé que 50 % de cette chambre était destinée à être exclusivement utilisée comme bureau. Une grande partie de la salle à manger lui sert également à accomplir du travail administratif qui est lié à l’entreprise.
+[10] Je n’ai aucun doute que M. Khoury est un artiste prolifique qui est en train de se faire une grande réputation. En 2001, il a été en Europe pendant environ deux mois, période au cours de laquelle il a expédié de nombreuses toiles à sa femme pour qu’elles soient exposées et vendues. Généralement, les peintures sont roulées pour l’expédition, et, lorsqu’elles arrivent à destination, elles sont placées partout dans la maison pour être aérées, puis étirées.
+[11] La preuve portée à ma connaissance concernant le degré d’utilisation de la résidence est moins précise qu’on aurait pu le souhaiter. Comme le juge en chef Bowman l’a signalé récemment, le paragraphe 4(1) de la Loi permet la déduction des dépenses qu’il est raisonnable de considérer comme entièrement applicables à la source de revenus[1]. Il a ajouté au paragraphe [7] que :
+Les concepts de ce qui est raisonnable, et, au contraire, de ce qui est déraisonnable, reviennent souvent dans le droit fiscal et dans d’autres domaines du droit. Ce sont des termes relativement élastiques. Ils sont plus faciles à reconnaître qu’à définir. Si le droit impose à la Cour de déterminer ce qui est « raisonnable », elle doit alors recourir au bon jugement et au bon sens, et elle doit parfois même déterminer d’abord ce qui est déraisonnable.
+Le témoignage de l’appelant et de Mme Khoury fournit une description très complète du type d’utilisation qui a été faite de cette maison à des fins commerciales comparativement à l’utilisation qu’eux et leurs quatre enfants en ont faite comme résidence. Des plans du sous‑sol, du rez‑de‑chaussée et du deuxième étage de la maison ont été présentés en preuve, mais ceux‑ci ne fournissent malheureusement pas autant de précisions sur les dimensions des pièces qu’ils le pourraient. Je suis convaincu que les témoins ont fait de leur mieux pour rendre compte fidèlement et honnêtement de l’utilisation qui était faite de la maison à des fins commerciales, mais, par la force des choses, une grande partie de leur témoignage consistait en des approximations. La répartitrice de l’impôt a admis franchement dans son témoignage que la vérification avait été brève et qu’elle n’avait pas vu ni pris en compte l’espace d’entreposage ou la salle de projection situés au sous‑sol. Je n’ai aucun doute, compte tenu des éléments de preuve portés à ma connaissance, que son estimation d’une utilisation de 20 % de toute la maison à des fins commerciales était trop basse parce qu’elle n’avait pas tenu compte de l’espace situé au sous‑sol. Ce chiffre semble cependant représenter une proportion raisonnable des dépenses attribuables au rez‑de‑chaussée et au deuxième étage. Me Hatfield n’a pas fourni de calcul de temps ni d’espace pour appuyer le caractère raisonnable de l’estimation de 50 % que l’appelant a utilisée dans ses déclarations.
+[12] Mon examen de la preuve me porte à conclure que, pendant les années 2000 et 2001, presque tout le sous‑sol était exclusivement utilisé à des fins commerciales et que ce fait n’a nullement été pris en compte par la répartitrice de l’impôt. L’aire du sous‑sol équivaut à environ 2/3 de l’aire du rez‑de‑chaussée et de celui du deuxième étage. Lorsque l’on tient compte de ce fait, le pourcentage d’utilisation de la résidence est de 100 % de ¼ (le sous‑sol) et de 20 % de ¾ (le rez‑de‑chaussée et le deuxième étage), soit de 40 %. Il s’agit, à mon avis, d’une estimation plus raisonnable que celle de la répartitrice ou de l’appelant.
+[13] Les appels formés en vertu de la Loi sont accueillis. L’appelant a droit à une déduction de son revenu fondée sur une utilisation de 40 % de la superficie de sa résidence à des fins commerciales et sur des dépenses totales de 24 544,43 $ engagées au titre de la résidence pour l’année 2000, et il a droit à une déduction de son revenu fondée sur une utilisation de 40 % de la superficie de sa résidence à des fins commerciales et sur des dépenses totales de 23 594,64 $ engagées au titre de la résidence pour l’année 2001. Il a droit à des crédits de taxe sur les intrants selon une utilisation de 40 % de sa résidence et des dépenses de 5 918,06 $ pour l’année 2000, et selon une utilisation de 40 % de sa résidence et des dépenses totales de 4 246,31 $ pour l’année 2001.
+[14] Les parties peuvent s’exprimer sur les dépens si elles n’en conviennent pas.
+Signé à Ottawa, Canada, ce 28e jour de septembre 2006.
+« E.A. Bowie »
+Juge Bowie
+Traduction certifiée conforme
+ce 17e jour de janvier 2008.
+Jean David Robert, traducteur
+RÉFÉRENCE : 2006CCI529
+Nos DES DOSSIERS DE LA COUR : 2005-2453(IT)I et 2005-2454(GST)I
+INTITULÉ : Michael Khoury et Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Fredericton (Nouveau‑Brunswick)
+DATE DE L’AUDIENCE : Le 21 juin 2006
+MOTIFS DES JUGEMENTS : L’honorable juge E.A. Bowie
+DATE DES JUGEMENTS : Le 28 septembre 2006
+COMPARUTIONS :
+Avocat de l’appelant :
+Me Bruce D. Hatfield, c.r.
+Avocat de l’intimée :
+Me Edward Sawa
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom : Me Bruce D. Hatfield, c.r.
+Cabinet : Cox Hanson O'Reilly Matheson
+Pour l’intimée : John H. Sims, c.r.
+Sous‑procureur général du Canada
+Ottawa, Canada
+[1] Morris c. La Reine, 2006CCI502.

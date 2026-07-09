@@ -1,0 +1,475 @@
+Title: Hot Spot Restaurant Inc. v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/98320/index.do
+Corpus path: corpus/cases/tcc/2014/2014-tcc-318-98320-hot-spot-restaurant-inc-v-the-queen-en.md
+Document type: case_law
+Last modified: 2014-10-27
+
+# Hot Spot Restaurant Inc. v. The Queen
+
+- Citation: 2014 TCC 318
+- Decision date: 2014-10-27
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5255, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Hot Spot Restaurant Inc. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2014-10-27
+Neutral citation
+2014 TCC 318
+File numbers
+2008-1347(IT)G, 2008-1348(IT)G, 2008‑2038(IT)G, 2008-2039(IT)G, 2008‑2040(IT)G
+Judges and Taxing Officers
+Steven K. D'Arcy
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2008-1348(IT)G
+BETWEEN:
+HOT SPOT RESTAURANT INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeals heard on common evidence with the appeals of The Estate of Peter Danakas (2008-1347(IT)G), Voula Danakas (2008-2038(IT)G), Mia Weinkauf (2008-2039(IT)G) and Jason Weinkauf (2008‑2040(IT)G),
+on October 22, 2012 and December 2-5 and 9-12, 2013, at Saskatoon, Saskatchewan.
+Before: The Honourable Justice Steven K. D'Arcy
+Appearances:
+Counsel for the Appellant:
+Lawrence J. Litman
+Counsel for the Respondent:
+John Krowina
+JUDGMENT
+In accordance with the attached reasons for judgment, the appeals with respect to the reassessments made under the Income Tax Act for the Appellant’s 1996, 1998, 1999, 2000 and 2001 taxation years are allowed and the reassessments are referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that:
+1) For the 1998 and 1999 taxation years, the Appellant’s non-capital loss was the loss reported on its income tax return as filed.
+2) The balance in the Appellant’s non-capital loss pool at the beginning of its 1996 taxation year was $18,850.
+3) Non-capital losses of the Appellant will first be applied to its 1996 taxation year and then, to the extent there is a balance remaining in the pool, to its 2000 and 2001 taxation years respectively.
+All gross negligence penalties levied against the Appellant are vacated.
+Costs are awarded to the Appellant.
+Signed at Ottawa, Canada, this 27th day of October 2014.
+“S. D’Arcy”
+D'Arcy J.
+Docket: 2008-1347(IT)G
+BETWEEN:
+THE ESTATE OF PETER DANAKAS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeals heard on common evidence with the appeals of Hot Spot Restaurant Inc. (2008-1348(IT)G), Voula Danakas (2008-2038(IT)G), Mia Weinkauf (2008-2039(IT)G) and Jason Weinkauf (2008‑2040(IT)G),
+on October 22, 2012 and December 2-5 and 9-12, 2013, at Saskatoon, Saskatchewan.
+Before: The Honourable Justice Steven K. D'Arcy
+Appearances:
+Counsel for the Appellant:
+Lawrence J. Litman
+Counsel for the Respondent:
+John Krowina
+JUDGMENT
+In accordance with the attached reasons for judgment, the appeals with respect to the reassessments made under the Income Tax Act for Peter Danakas’s 1998 and 1999 taxation years are allowed and the reassessments are referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that Mr. Danakas’s taxable income for each of these taxation years was the income reported on his income tax return as filed.
+All gross negligence penalties levied against Mr. Danakas are vacated.
+Costs are awarded to the Appellant.
+Signed at Ottawa, Canada, this 27th day of October 2014.
+“S. D’Arcy”
+D'Arcy J.
+Docket: 2008-2038(IT)G
+BETWEEN:
+VOULA DANAKAS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeals heard on common evidence with the appeals of The Estate of Peter Danakas (2008-1347(IT)G), Hot Spot Restaurant Inc. (2008‑1348(IT)G), Mia Weinkauf (2008-2039(IT)G)
+and Jason Weinkauf (2008‑2040(IT)G),
+on October 22, 2012 and December 2-5 and 9-12, 2013, at Saskatoon, Saskatchewan.
+Before: The Honourable Justice Steven K. D'Arcy
+Appearances:
+Counsel for the Appellant:
+Lawrence J. Litman
+Counsel for the Respondent:
+John Krowina
+JUDGMENT
+In accordance with the attached reasons for judgment, the appeals with respect to the reassessments made under the Income Tax Act for the Appellant’s 1997, 1998 and 1999 taxation years are allowed and the reassessments are referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that:
+1) For the 1997 and 1999 taxation years, the Appellant’s taxable income was the income reported on her income tax return as filed.
+2) For the 1998 taxation year, the Appellant’s taxable income was the amount reported on her tax return plus $4,314.
+All gross negligence penalties levied against the Appellant are vacated.
+Costs are awarded to the Appellant.
+Signed at Ottawa, Canada, this 27th day of October 2014.
+“S. D’Arcy”
+D'Arcy J.
+Docket: 2008-2039(IT)G
+BETWEEN:
+MIA WEINKAUF,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeals heard on common evidence with the appeals of The Estate of Peter Danakas (2008-1347(IT)G), Hot Spot Restaurant Inc. (2008‑1348(IT)G), Voula Danakas (2008-2038(IT)G)
+and Jason Weinkauf (2008‑2040(IT)G),
+on October 22, 2012 and December 2-5 and 9-12, 2013, at Saskatoon, Saskatchewan.
+Before: The Honourable Justice Steven K. D'Arcy
+Appearances:
+Counsel for the Appellant:
+Lawrence J. Litman
+Counsel for the Respondent:
+John Krowina
+JUDGMENT
+In accordance with the attached reasons for judgment, the appeals with respect to the reassessments made under the Income Tax Act for the Appellant’s 1997, 1998 and 1999 taxation years are allowed and the reassessments are referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the Appellant’s taxable income for each of these taxation years was the income reported on her income tax return as filed.
+All gross negligence penalties levied against the Appellant are vacated.
+Costs are awarded to the Appellant.
+Signed at Ottawa, Canada, this 27th day of October 2014.
+“S. D’Arcy”
+D'Arcy J.
+Docket: 2008-2040(IT)G
+BETWEEN:
+JASON WEINKAUF,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeals heard on common evidence with the appeals of The Estate of Peter Danakas (2008-1347(IT)G), Hot Spot Restaurant Inc. (2008‑1348(IT)G), Voula Danakas (2008-2038(IT)G)
+and Mia Weinkauf (2008‑2039(IT)G),
+on October 22, 2012 and December 2-5 and 9-12, 2013, at Saskatoon, Saskatchewan.
+Before: The Honourable Justice Steven K. D'Arcy
+Appearances:
+Counsel for the Appellant:
+Lawrence J. Litman
+Counsel for the Respondent:
+John Krowina
+JUDGMENT
+In accordance with the attached reasons for judgment, the appeals with respect to the reassessments made under the Income Tax Act for the Appellant’s 1998 and 1999 taxation years are allowed and the reassessments are referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the Appellant’s taxable income for each of these taxation years was the income reported on his income tax return as filed.
+All gross negligence penalties levied against the Appellant are vacated.
+Costs are awarded to the Appellant.
+Signed at Ottawa, Canada, this 27th day of October 2014.
+“S. D’Arcy”
+D'Arcy J.
+Citation: 2014 TCC 318
+Date: 20141027
+Docket: 2008-1348(IT)G
+BETWEEN:
+HOT SPOT RESTAURANT INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent;
+AND BETWEEN:
+Docket: 2008-1347(IT)G
+THE ESTATE OF PETER DANAKAS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent;
+AND BETWEEN:
+Docket: 2008-2038(IT)G
+VOULA DANAKAS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent;
+AND BETWEEN:
+Docket: 2008-2039(IT)G
+MIA WEINKAUF,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent;
+AND BETWEEN:
+Docket: 2008-2040(IT)G
+JASON WEINKAUF,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+D'Arcy J.
+[1] The Minister assessed the appellants for failing to report substantial income on their tax returns.
+[2] There are five appellants: Stavroula Danakas (“Voula”); the estate of her late husband, Peter Danakas (“Peter”); Voula and Peter’s daughter Metaxia Weinkauf (“Mia”); Mia’s husband, Jason Weinkauf (“Jason”) (collectively referred to as the “Individual Appellants”); and Hot Spot Restaurant Inc. (“Hot Spot”). Consistent with the testimony given during the hearing, I will refer to each of the individual appellants by their first name.
+[3] Voula, Mia and Jason testified during the nine days of the hearing. Mr. Peter Danakas passed away in October 2005. Voula’s brother, Leo Georgopoulos and Jason’s father, Richard Weinkauf, also testified for the Appellants. Finally, I heard testimony from Mr. Philip Szysky, an accountant, who provided extensive services to Hot Spot and the Individual Appellants during the relevant period.
+[4] I found all of the Appellants’ witnesses to be credible.
+[5] The Respondent called two witnesses: Mr. Steve Button, a CRA auditor, and Mr. Darryl Dreger. Mr. Dreger was the CRA enforcement officer who oversaw the investigation of Hot Spot and the Individual Appellants. He is the person who prepared the detailed calculations that form the basis of the reassessments before the Court.
+[6] Mr. Dreger’s testimony focused on the worksheets he used to calculate the purported unreported income of the Appellants. As I will discuss, I have a number of concerns relating to Mr. Dreger’s calculations and the lack of evidence to support certain of the calculations.
+Summary of Facts [7] Hot Spot operates a restaurant/sports bar (the “Restaurant”) in Regina. The Restaurant is located above a bowling alley.
+[8] The shareholdings of Hot Spot are as follows:
+• Mia - 30%
+• Mia’s sister and brother-in-law – 40%
+• Voula – 30%
+[9] Voula testified that she holds the Hot Spot shares for her son John, who has a disability.[1] During the relevant period, Voula and Mia were the directors of Hot Spot.[2]
+[10] Notwithstanding the shareholdings of Hot Spot and the fact that Voula and Mia were the only directors of the corporation, it is clear from the evidence before me that Peter was the directing and controlling mind of Hot Spot. He made all financial, management and business decisions with respect to the corporation and the operation of the Restaurant.
+[11] On either July 15 or 16, 1996, there was a fire in the bowling alley below the Restaurant. The fire caused extensive damage to the Restaurant, resulting in its closure until February 1, 1997.[3] This was a very difficult time for the Appellants. Peter, Voula, and Mia had no source of income during this period.[4]
+[12] In November 1996, Mia and Jason’s child was born. Jason began to work at the Restaurant when it reopened in February 1997.
+[13] In 2001, a CRA GST auditor, who was conducting a GST audit of Hot Spot, referred the file to the CRA’s special investigation unit.[5] Mr. Dreger assigned the file to a CRA investigator, Ms. Leannee Hesse.
+[14] On October 9, 2002, the CRA conducted a search and made a seizure of documents at the premises of Hot Spot, the homes of the Individual Appellants and the office of Mr. Szysky. Mr. Dreger testified that the CRA obtained nearly all of the books and records of Hot Spot during the search and seizure. He stated: “There was very few missing records.”[6]
+[15] The Appellants were reassessed under the Income Tax Act in September and October 2003 (the “First Reassessments”). Also, in October 2003, the Crown laid criminal charges for evasion of income taxes against Hot Spot and the Individual Appellants. Mr. Dreger then took over the CRA investigation.
+[16] In 2004, Mr. Dreger made a determination of the income of Hot Spot and the Individual Appellants.
+[17] The parties reached a plea bargain with respect to the criminal charges. On April 18, 2006, a criminal conviction was entered against Hot Spot. The Crown stayed the charges against the Individual Appellants.[7]
+[18] On October 5, 2006 the documents obtained by the CRA during the 2002 search and seizure were returned to the Individual Appellants and Hot Spot. The CRA returned Mr. Szysky’s files on August 21, 2007.[8]
+[19] The CRA reassessed Peter Danakas on October 3, 2003, Hot Spot on February 14, 2008 and the three surviving Individual Appellants on March 18, 2008 (the “Second Reassessments”).
+[20] The Minister reassessed Voula and Mia in respect of their 1997, 1998 and 1999 taxation years and Peter and Jason in respect of their 1998 and 1999 taxation years. The Minister based the Second Reassessments of the Individual Appellants on net worth calculations prepared by Mr. Dreger. The Minister determined that collectively the four Individual Appellants had failed to declare income of over $380,000 on their income tax returns. As I will discuss, she allocated most of this purported income to Voula and Mia.
+[21] The Minister also assessed Hot Spot for unreported income for its taxation year ending on March 31, 1998 (the “1998 taxation year”) and its taxation year ending on March 31, 1999 (the “1999 taxation year”). This unreported income exceeded $340,000. The CRA did not perform a net worth calculation for Hot Spot.[9] Mr. Dreger used the seized books and records of Hot Spot to determine the taxable income of Hot Spot.[10]
+[22] The Appellants disagree with the reassessments. They argued that, after being closed for seven months due to the fire, the Restaurant did not return to profitability until its 2000 taxation year. They argued that any increase in net worth that occurred prior to 2000 was a result of loans from family members and friends, distributions from an estate, and significant payments under two insurance claims.
+Preliminary Issues Criminal Conviction [23] Counsel for the Respondent informed the Court, at the commencement of the hearing, that the Respondent did not feel that either res judicata or issue estoppel applied in respect of the criminal conviction of Hot Spot. After reviewing the transcript of the sentencing proceedings,[11] I agree with the Respondent.
+[24] Hot Spot’s conviction was based on a settlement and has no bearing on these appeals. The Appellant’s counsel stated during the sentencing proceedings that Hot Spot found the amount of the alleged unreported income to be absurd. He suggested that the plea agreement avoided the cost of a long trial and allowed for the dropping of the charges against the Individual Appellants.[12]
+The Net Worth Calculations [25] Mr. Dreger prepared a single net worth calculation for Peter and Voula. The components of the calculation were as follows:[13]
+− First, he determined Peter and Voula’s total assets and total liabilities for each of their 1996 to 1999 taxation years. The total liabilities for each year were subtracted from the total assets for the particular year to arrive at a net worth for the year. The increase or decrease in net worth from year to year was then calculated.
+− Annual personal expenditures of Peter and Voula were added to the increase or decrease in net worth.
+− A number of adjustments were then made to arrive at an estimated annual income for the couple. The only material adjustments were the additions of $7,168 in respect of Peter’s liquidation of an RRSP in 1997, the addition of a $20,000 gift of shareholder loan contributions by Peter to Mia in 1999 and the subtraction of a $3,159 tax refund received by Voula in 1997.
+− He then compared the calculated annual estimated income to the total income Voula, Peter and their dependent son John reported on their tax returns. The difference was considered unreported income of Peter and Voula.
+− Mr. Dreger then subtracted from this purported unreported income individual items of unreported income that he could identify. For example, for 1997 he deducted amounts for unreported RRSP income of Peter. Mr. Dreger treated the remainder, which equalled $258,595 for the relevant years, as an amount appropriated by Voula and Peter from Hot Spot.
+− Mr. Dreger allocated the $258,595 purported appropriation between Voula and Peter. He first allocated amounts on the basis that they were payments he considered Hot Spot to have made to either Voula or Peter, or expenses that he believed Hot Spot paid on behalf of Voula or Peter (the “Identified Appropriations”). For the three years at issue, the Identified Appropriations totalled $74,257, of which he allocated $59,459 to Voula.
+− Any amount that was not allocated as an Identified Appropriation was treated as an unidentified appropriation from Hot Spot (the “Unidentified Appropriations”). This amount equalled $184,337. Mr. Dreger allocated all of the $184,337 of Unidentified Appropriations, except for $100, to Voula. He allocated the remaining $100 to Peter.
+[26] Mr. Dreger performed a similar net worth calculation for Mia and Jason. Mr. Dreger allocated all of the Unidentified Appropriations determined in this calculation to Mia.[14]
+Material Error in Net Worth Calculation [27] Mr. Dreger performed a single net worth calculation for Peter and Voula and then attempted to allocate the result between the two taxpayers. This may have been acceptable if he had based the allocation upon an analysis of the various items included in the net worth calculation. In my view, this was not done with respect to the purported appropriations from Hot Spot, which comprised over 95% of the purported unreported income. I am particularly troubled by the allocation of nearly 100% of the Unidentified Appropriations to Voula. The evidence on the record does not support such an allocation.
+[28] Before and during the relevant period, Voula spent the vast majority of her time providing support to her family, particularly her son John, who has a serious disability. Voula explained that John required constant care; he could not be left alone. In addition, Voula dedicated many hours of her time to various charities and not-for-profit entities.
+[29] Even though she held the title of president, Voula had a limited role in the operation of Hot Spot. She made some bank deposits, ran errands and performed some manual work. She was not involved in either the management or financial affairs of Hot Spot. Peter made and implemented all decisions with respect to the operation of Hot Spot.[15]
+[30] When taken to Schedule A of the Reply, which is the summary of her assessment, she had no idea what the summary was referring to when it noted the following three forms of alleged appropriations: “Payments received from Hot Spot”, “Personal Expenses paid by Hot Spot” and “Cash Appropriations per Net Worth.” She testified that she did not receive any cash payments from Hot Spot.[16] She stated: “It has to be something else behind all these numbers because the money never came to me personally and never reached me.”[17]
+[31] The evidence before me supports Voula’s testimony. Peter was the controlling mind of Hot Spot and, except for certain suppliers paid by Mia, directed all payments that Hot Spot made to third parties.
+[32] The Respondent did not take me to any evidence that showed Hot Spot paying any portion of the $184,337 of Unidentified Appropriations to Voula.
+[33] I do not understand how the CRA, after conducting an extensive investigation of Hot Spot and its books and records over three years, could have allocated all of the Unidentified Appropriations to Voula. She simply did not have the means to effect such a large appropriation. If in fact such an amount was appropriated then, on the evidence before me, a significant portion should have been allocated to Peter not Voula. As a result, the performance of a single net worth calculation resulted in a material amount of purported income being allocated to Voula in error.
+[34] Mr. Dreger testified that he allocated the amount to Voula for the simple reason that she was “the shareholder of the company”[18] This is not a reasonable basis for the allocation. In the first instance, Voula only held 30% of the shares of Hot Spot and held them for her son John. More importantly, the CRA had to know, after conducting its extensive review of the Appellants’ affairs, that Voula had very little involvement with Hot Spot and that Peter was the controlling mind.
+[35] The arbitrary allocation of the Unidentified Appropriations to Voula seriously damaged the credibility of the net worth calculations.
+Material Error in Calculation of Unreported Income of Hot Spot [36] The CRA’s calculation of the income of Hot Spot for its 1998 and 1999 taxation years also contains a material error.
+[37] As discussed previously, the Minister assessed Hot Spot for $340,000 of unreported income for its 1998 and 1999 taxation years. Approximately $290,000 of the $340,000 was composed of the purported amounts the Individual Appellants appropriated from Hot Spot.[19]
+[38] I do not have any difficulty with the Minister including the alleged appropriations in the income of Hot Spot. The evidence before me was that Hot Spot was the only source of income for the Individual Appellants. However, the method used to effect the allocation is extremely damaging to the Respondent.
+[39] The Respondent provided as Exhibit R65 the CRA’s calculation of the $290,000. The difficulty with the calculation is that the CRA took the amounts the Individual Appellants allegedly appropriated over 36 months (1997, 1998 and 1999) and included those amounts when determining Hot Spot’s income for 24 months (the 1998 and 1999 taxation years).
+[40] Mr. Dreger testified that, as shown in Exhibit R65, the amount included for Hot Spot’s 1998 fiscal year was composed of all amounts allegedly appropriated by the Individual Appellants in the 1997 calendar year and 3/12 of the amounts allegedly appropriated in the 1998 calendar year. In short, amounts allegedly appropriated over 15 months were included when determining Hot Spot’s income for its 12-month fiscal year ending on March 31, 1998.
+[41] Mr. Dreger testified that the same method was followed for the March 31, 1999 taxation year. This can be seen from Exhibit R65, which shows that the amount included equalled 9/12 of the amounts allegedly appropriated in the 1998 calendar year and all of the amounts allegedly appropriated in the 1999 calendar year. This resulted in amounts allegedly appropriated over 21 months being included in the determination of Hot Spot’s income for the 12 months ending on March 31, 1999.
+[42] The Respondent did not explain to the Court why 36 months of income was included in a 24-month period for Hot Spot. Clearly, this is not consistent with the provisions of the Income Tax Act.
+[43] This over-allocation brings into question the credibility of whatever other assumptions the CRA made when preparing its calculations. As a result, it seriously damaged the credibility of such calculations, including the net worth calculations for the Individual Appellants and the calculated unreported income of Hot Spot.
+Source of Funds [44] One of the key evidentiary issues in these appeals is the source of the funds the Individual Appellants used to support themselves during the relevant period. It is the Respondent’s position that the Individual Appellants appropriated the money from Hot Spot. The Individual Appellants argue that they received the money from the following sources:
+− loans from family members and friends,
+− distributions from a family estate; and,
+− payments under two insurance policies.
+[45] Voula and Mia testified that, after the fire, Hot Spot did not generate any income. They described in some detail the financial difficulties the two families faced after the fire. They explained that the families used any money raised from third parties to keep the business operating and to pay their personal expenses. Voula described this period as follows:
+As I remember -- and I . . . remember watching outside crying -- we had to close almost for a year, so both of the families, my -- Mia's family and my family were both without any income at all, so we mortgage everything we could mortgage, and to be honest with you and the most sad part about it is when I was watching my daughter Mia taking her baby's clothes to return so she can buy formula, and us, whatever my son had as a disability, medication that particular time was I think $700 or something like that. We would try between the two homes and the two families to survive the hard time.[20]
+[46] I heard evidence from Voula, Mia, Jason, Leo Georgopoulos and Richard Weinkauf with respect to the money the two families received from third parties. After reviewing all of the evidence before me, I have concluded that the families received substantial payments from third parties.
+[47] I have concluded that between the time of the fire at Hot Spot in 1996 and the end of 1999 Voula received $107,614 comprising the following:
+− Loan from her brother Leo Georgopoulos of $7,800 on November 14, 1996.[21]
+− Loan from her cousin Maria Damianakou of $13,000 on January 10, 1997.[22]
+− Loan from her brother Leo Georgopoulos of $11,000 in March 1997.[23]
+− Loan from her brother Leo Georgopoulos of $8,300 on January 19, 1998.[24]
+− Loan from her friend Kiki Tsoukala of $8,000 in February 1998.[25]
+− Loan from her brother Leo Georgopoulos of $15,000 in May 1999.[26]
+− Distribution from the estate of Voula’s parents of $44,514[27] on July 27, 1999.[28]
+[48] Peter passed away in October 2005. While I received some evidence with respect to amounts provided to him by third parties, I do not feel I received evidence with respect to all amounts he received. He was the leader of the family and the evidence before me was that, after the fire at the Restaurant, he took the lead in raising funds to support both families and the business.[29] After reviewing the evidence before me, I have concluded that between the time of the fire in 1996 and the end of 1999 Peter received from third parties at least $140,834 comprising the following:
+− Payment upon the liquidation of London Life insurance policies totalling $51,834, in 1996.[30]
+− Receipt of settlement payment in 1997 of $49,000 in respect of an insurance claim.[31]
+− Loans from a close friend, Tom Roditis, of approximately $10,000 in each of 1997, 1998 and 1999.[32]
+− Loans from his brother, Constantin Danakas, of $4,000 in each of 1997 and 1998 and $2,000 in 1999.[33]
+[49] In summary, Voula and Peter received at least $248,448 from third parties between June 1996 and the end of 1999. These monies were not considered by the CRA when it prepared the net worth calculations.
+[50] I have concluded that between the time of the fire in 1996 and the end of 1999 Mia received $197,500 from third parties, a $12,000 gift from Peter and Voula in 1997[34] and a $6,000 wedding gift from Peter and Voula in 1998.[35] The following payments were received from third parties:
+− Gifts totalling $10,000 received in 1997 on the baptism of her daughter.[36]
+− Wedding present of $10,000 received in 1998 from her uncle Leo Georgopoulos.[37]
+− Wedding gifts of $25,000 received in 1998 from various third parties.[38]
+− Gifts of approximately $28,500 received in 1998 by Voula and Peter on their 40th wedding anniversary that were given to Mia and Jason.[39]
+− Settlement of $9,000 received by Mia in 1998 from the Canadian Automobile Association.[40]
+− Receipt of settlement payment of $90,000 in 1999 in respect of a claim under an insurance policy.[41]
+− Payment from the estate of her maternal grandparents of $15,000 in 1999.[42]
+− Gift from her paternal grandparents of $10,000 received in 1999.[43]
+In addition, Jason’s father, Richard Weinkauf loaned Jason $10,000 in 1997.[44]
+[51] In summary, Mia and Jason received $207,500 from third parties and $18,000 from Peter and Voula between June 1996 and the end of 1999. These monies were not considered by the CRA when it prepared the net worth calculations.
+The Assessments of the Individual Appellants [52] I will now consider the assessments of each of the Individual Appellants. I will first consider the reassessment issued to Voula.
+[53] As I have already discussed, the CRA completed a single net worth calculation to determine the unreported income of Peter and Voula. It then attempted to allocate the result between the two taxpayers, with most of the calculated unreported income being allocated to Voula.[45]
+[54] The CRA determined that Peter and Voula had $264,116 of unreported income in the 1997, 1998 and 1999 taxation years. Of this amount, it identified $258,595 as appropriations from Hot Spot.[46]
+[55] Voula was adamant that she did not appropriate any funds from Hot Spot. She testified that money flowed in the opposite direction. The two families first used the funds received from third parties to pay their personal expenses and then contributed the remainder to Hot Spot. Voula noted that any money the families received from Hot Spot represented a repayment of loans made by the two families to the company.
+[56] Her testimony is supported by the financial statements for Hot Spot which show amounts due to related parties (Peter, Voula and Mia) that increased from $165,123 on March 31, 1996 (some three months before the fire) to $272,991 on March 31, 1997, $370,193 on March 31, 1998 and $403,550 on March 31, 1999.[47] This was an increase of $238,427 over three years, with $215,574 of the increase representing advances from Peter and Voula.[48]
+[57] I recognize that Voula and Peter received $59,634 of the third party payments in 1996. It is not possible for me to determine which portion of this amount Peter and Voula spent in 1996 and which portion they spent in 1997. I have estimated that 50% was spent in 1996 and 50% in 1997. This is based on the fact that the fire occurred in July 1996 and the CRA determined that Voula and Peter’s personal expenses were $58,971 in 1997. Peter and Voula’s personal expenses for six months would be approximately 50% of $58,971 or $29,485.
+[58] In summary, when preparing the net worth calculation the CRA did not take into account $218,631 of payments Peter and Voula received from third parties.[49] This reduces the CRA’s calculated unreported income of Peter and Voula for the three years in question to $45,485.
+[59] As I will discuss shortly, I do not accept that Peter and Voula had $45,485 of unreported income in these years. However, I accept, on the basis of the evidence before me, that Voula had $8,395 of unreported income in 1998. The $8,395 represents unreported Canada Savings Bond income that Voula apparently received in 1998.[50] However, Voula will also be allowed a deduction in 1998 for the $4,081.06 the Minister identified as “unclaimed carrying charges”.[51] In light of the evidence before me, I do not believe Voula appropriated any funds from Hot Spot.
+[60] I will next address the reassessments issued to Mia and Jason.
+[61] The CRA also prepared a single net worth calculation to determine the combined net income of Mia and Jason.[52] It then allocated the result to the two taxpayers, with most of the calculated unreported income being allocated to Mia.[53]
+[62] The CRA determined that Mia and Jason had $121,607 of unreported income in the 1997, 1998 and 1999 taxation years. Of this amount, it identified $121,594 as appropriations from Hot Spot.[54]
+[63] Mia testified that she did not appropriate any funds from Hot Spot. She stated that the company did not have money that could be appropriated. She testified that Hot Spot was in such a precarious financial situation that it could not afford to pay her a salary. She loaned whatever money she had to the company and then took repayment if the company had cash. Alternatively, Hot Spot would pay some of her personal expenses, which were then charged to her shareholder loan account.
+[64] Mia provided a vivid description of Hot Spot’s financial difficulties. She explained how she went to the bank every day to check the balances in Hot Spot’s bank accounts. She would then compare the balances to any outstanding cheques. If Hot Spot required money to cover these cheques, she would deposit whatever monies she had and then go to her dad (Peter) to see what funds he had. She stated: “The problem with us in those three years is that we were living day-to-day, so we had no clue what tomorrow would bring.”[55] She also explained how Jason would use his own funds to purchase alcohol for the Restaurant because the vendor of the alcohol would not accept Hot Spot’s cheques. Hot Spot subsequently reimbursed Jason for the alcohol purchases.[56]
+[65] As noted previously, the CRA when preparing the net worth calculations did not take into account the $207,500 Mia and Jason received from third parties during the relevant years. The $207,500 exceeds the $121,607 of unreported income determined for the 1997, 1998 and 1999 taxation years by the Minister. As a result, the net worth calculation, after taking into account the $207,500 received from third parties, results in a determination of zero unreported income.
+[66] On the evidence before me, I have concluded that Mia and Jason did not appropriate any amounts from Hot Spot during the relevant years.
+[67] I will now consider the reassessments issued to Peter. On the basis of the net worth calculation, the Minister assessed Peter for $12,551 of unreported income for his 1998 and 1999 taxation years.
+[68] The evidence before me was that Peter contributed significant sums to Hot Spot. Hot Spot’s financial records show loans from Peter to Hot Spot that increased from $149,210 on March 31, 1996 to $265,313 on March 31, 1999.[57] This is consistent with the evidence of Voula and Mia that Hot Spot suffered financial difficulties during this period and survived by using funds provided by the family.
+[69] In my view, Peter did not appropriate funds from Hot Spot, but rather contributed funds to the company. Any payments made from Hot Spot to Peter were merely repayments of a portion of his loans. During the relevant period, the amount of funds loaned by Peter to Hot Spot far exceeded any repayment of these loans made by Hot Spot.
+[70] I recognize that the net worth calculation for Peter and Voula, after the adjustment for the funds received from third parties, still shows unreported income for Peter and Voula of $45,485. However, the net worth calculation for Mia and Jason shows excess funds of approximately $86,500 which, Mia testified, were used to fund the operations of Hot Spot. Further, in light of the material errors that the net worth calculations contain with regard to the arbitrary allocation of income to Voula and the failure to take into account the payments from third parties, I am not prepared to put any weight on these calculations. Rather, I have considered all of the evidence before me and concluded that none of the Individual Appellants appropriated funds from Hot Spot.
+[71] My conclusion that the Individual Appellants did not appropriate funds from Hot Spot is consistent with the financial information for Hot Spot. Hot Spot’s financial statements for each of its 1995, 1996, 1997, 1998, 1999 and 2000 taxation years[58] show the following gross sales for each fiscal year:
+- March 31, 1996 fiscal year-end - $410,682
+- March 31, 1997 fiscal year-end - $212,815
+- March 31, 1998 fiscal year-end - $500,787
+- March 31, 1999 fiscal year-end - $531,044
+- March 31, 2000 fiscal year-end - $566,289
+[72] The Minister accepted the income reported on Hot Spot’s tax return for the fiscal year ending on March 31, 1996[59] and accepted the tax return as filed for Hot Spot’s fiscal year ending on March 31, 1997.[60]
+[73] Hot Spot’s financial statements show that between March 1, 1997 (shortly after Hot Spot reopened) and March 31, 2000 it increased its sales by approximately 6% per fiscal year. The CRA assessed on the basis that, as a result of the appropriations by the Individual Appellants, Hot Spot’s sales actually increased by an additional $290,632[61] between January 1, 1997 and December 31, 1999, or $96,877 per calendar year.
+[74] If I were to accept the CRA’s calculations, it would mean that once it reopened after being closed for seven months due to the fire, Hot Spot increased its annual sales by approximately 45%.[62] Further, the Minister’s calculations also result in subsequent annual sales increases of approximately 25%. The evidence before me does not support such a substantial increase in Hot Spot’s sales.
+[75] The evidence before me was that the closure of the Restaurant for seven months caused severe financial difficulties for Hot Spot. I have already discussed the evidence provided by Mia and Voula. Mr. Szysky also discussed the difficulties faced by Hot Spot after it reopened. He noted that the Restaurant, after being closed for seven months, had to rebuild its customer base in a competitive marketplace. He testified that they sold chicken wings at less than cost, gave away pizzas and tried to entice sports teams to come to the Restaurant after their games.[63] It is simply not reasonable to conclude that in such a market Hot Spot was able to increase its sales by 45% in its first year of operation after the fire or 25% in subsequent years.
+[76] In my view, the increase of 6% per year recorded in the financial statements of Hot Spot is consistent with the evidence before me. My finding on this point further supports my conclusion that the Individual Appellants did not appropriate funds from Hot Spot.
+Hot Spot Assessments [77] Hot Spot is appealing the Minister’s determination that it under-reported its income for its 1998 and 1999 taxation years. It is also appealing the Minister’s denial of amounts Hot Spot deducted for its 1996, 2000 and 2001 taxation years in respect of non-capital losses incurred by it in other taxation years.
+[78] I will first address the Minister’s determination that Hot Spot understated its income by $340,000 in respect of its 1998 and 1999 taxation years.
+[79] Approximately $290,000 of the $340,000 consisted of the purported unreported income of the Individual Appellants.[64] It is the Respondent’s position that, since Hot Spot was the only source of funds for the Individual Appellants, the $290,000 must have been unreported income of Hot Spot.[65]
+[80] Since I have found that the Individual Appellants did not appropriate any funds from Hot Spot, this portion of the unreported income will be removed.
+[81] The remainder of the $340,000 assessed was based upon Mr. Dreger’s review of Hot Spot’s books and records. On the basis of this review, the Minister assumed when assessing Hot Spot that it had additional unreported income of $55,786 in its 1998 taxation year and had overstated its income (before the addition of the purported unreported income of the Individual Appellants) by $2,160 for its 1999 taxation year.
+[82] The Court is only required to address the $55,786 of purported unreported income for Hot Spot’s 1998 taxation year. The Minister assumed that the $55,786 comprised the following:
+− Unreported till tape income - $29,210
+− Unreported other income - $7,570
+− Unreported bottle return receipts - $15,602
+− Over-claimed cost of sales expense - $3,404.[66]
+[83] Further, the $29,210 of purported unreported cash register till tape income was broken down into the following categories:
+− Unreported house sales reported on till tapes - $1,521
+− Unreported till tape income missing from sales journal - $26,744
+− Unreported income per sales journal/till tapes compared to amounts reported - $946.[67]
+[84] The Federal Court of Appeal noted the following in Newmont Canada Corporation v. The Queen:[68]
+In tax cases, the taxpayer has an initial onus to demolish the Minister’s assumptions. This onus is met if the taxpayer establishes a prima facie case that the Minister’s assumptions are wrong. Once the taxpayer establishes a prima facie case, then the burden shifts to the Minister to prove its assumptions on a balance of probabilities. If the Minister fails to adduce satisfactory evidence, the taxpayer will succeed: see Hickman Motors Ltd. v. Canada, [1997] 2 S.C.R. 336 at paragraphs 92 to 95; House v. Canada, 2011 FCA 234, 422 N.R. 144 at paragraphs 30 and 31.
+[85] After reviewing all of the evidence before me, I have concluded that the evidence provided by Hot Spot has established on a prima facie basis that Hot Spot reported all of its sales and income for its 1998 taxation year on its tax returns as filed. In other words, Hot Spot adduced evidence to demolish the Minister’s assumption that it failed to report $55,786 of income.
+[86] Mia testified that Hot Spot recorded in its books and records all sales shown on its cash register till tape. She noted that this had to be the case since the till tape was balanced each day to receipts.[69] She explained that Hot Spot prepared a daily reconciliation of sales. The reconciliation was prepared on a sheet entitled “Stats Cocktails and Dreams Reconciliation Sheet” using the daily cash register till tape, waitress daily sheets, paid-out slips, and the slips showing Visa, MasterCard and debit receipts. All of the documents for a specific day were bound together with an elastic band.[70]
+[87] Unfortunately, the complete sets of bundled documents were not placed before the Court. It is clear from the evidence before me that the CRA obtained the complete sets of bundled documents when it seized Hot Spot’s books and records.[71] I heard conflicting evidence with respect to whether or not the CRA returned these documents to Hot Spot. I accept the evidence of the Respondent that the CRA returned seized documents to Hot Spot on October 5, 2006, four years after they were seized.[72]
+[88] I also accept the evidence of Mia and Jason that the CRA returned the documents in such a form that Hot Spot could not use the documents in this appeal. Jason and Mia testified that the CRA officials left the boxes containing the documents on the street outside of the Restaurant. Further, the CRA did not provide Hot Spot with any form of index noting what was contained in specific boxes. Mia believes that the boxes did not contain all of Hot Spot’s documents.
+[89] The CRA made photocopies of the seized documents prior to returning the documents to Hot Spot. The Respondent filed some of these documents with the Court. Various witnesses testified to the authenticity of certain of the documents. However, there were various documents that witnesses could not identify. I did not allow such documents to be entered as evidence in this appeal. In addition, a number of the photocopies were not legible.
+[90] After reviewing the legible documents that were entered as evidence, I believe that numerous relevant documents are missing. In particular, complete sets of the bundled documents that constitute the daily sales reconciliation were not placed before the Court. The Respondent provided the Court with some of the documents, such as copies of daily cash register till tapes, but I was not provided with other important documents contained in the bundles, such as the daily Hot Spot sales reconciliation sheets. It is not clear to me why the Respondent did not provide all of the documents that made up the daily reconciliation.
+[91] Mia consistently provided detailed testimony with respect to the operations of Hot Spot and the recording of its sales. In my view, Mia’s testimony with respect to the following establishes a prima facie case that Hot Spot recorded all of its sales:
+− the operation of the cash register,
+− how the till tapes from the cash register captured the actual sales made by the Restaurant,
+− the use of the till tapes to prepare the daily sales reconciliations,
+− the use of the daily sales reconciliations to record sales; and,
+− the days the Restaurant was closed.
+[92] Further, this evidence, together with the following evidence, establishes a prima facie case that Hot Spot reported on its income tax return all of its sales and income for its 1998 taxation year:
+− Mia’s testimony that
+• The only reliable number on the till tapes was the “Z reading” used by Hot Spot to prepare the daily sales reconciliations. The numbers used by the Respondent, that is, the “GT” readings, were not accurate reflections of the sales of Hot Spot.[73]
+• Sales from the downstairs bar were recorded on the cash register used to calculate the daily sales.[74]
+• The Restaurant was not open on Sundays in 1998 and 1999.[75]
+• Hot Spot did not sell cigarettes or earn income from pool tables and video games.[76]
+− Phil Szysky’s testimony that
+• He reconciled Hot Spot’s books to its bank statements to ensure that everything that went through Hot Spot’s bank accounts was recorded on its books.[77]
+• He recorded bottle returns as a credit against the cost of goods sold.[78]
+• At the end of the 1998 fiscal year, he reduced the amount recorded as other income to ensure that the total sales recorded in the books and records of Hot Spot did not exceed cash receipts.[79]
+[93] Since Hot Spot has established on a prima facie basis that it reported all of its income on its income tax return, the burden now shifts to the Respondent to provide evidence to show on a balance of probabilities that Hot Spot understated its income on its income tax return by the $55,786 shown on Exhibit R36.
+[94] The Respondent has not met this burden.
+[95] The Respondent relied primarily on Mr. Dreger’s working papers. I was not taken to the actual books and records of Hot Spot that Mr. Dreger used to prepare his calculations.
+[96] In support of his calculations on Exhibit R36, Mr. Dreger took me to various work sheets that he used to calculate the numbers on Exhibit R36. For example, for the “unreported till tape income missing from sales journal”, he took me to four separate work sheets (Exhibits R39, R41, R42 and R43). What he did not take me to was the actual documents that form the basis of his calculations.
+[97] For example, he notes on Exhibits R39, R41, R42 and R43 specific days for which he felt that sales shown on Hot Spot’s cash register till tape were not recorded it its books and records. However, he did not take me to the actual till tapes and, more importantly, he did not take me to the sales reconciliation calculation for any of those days, even though, on a number of the days noted in Exhibits R39, R41, R42 and R43, Hot Spot recorded sales in its sales journal.[80]
+[98] The Respondent is asking me accept Mr. Dreger’s calculations without providing me with evidence to support them. Clearly, the Respondent had the evidence, since Mr. Dreger stated that the CRA seized nearly all of Hot Spot’s books and records.
+[99] I am not prepared to give any weight to Mr. Dreger’s calculations without the supporting evidence. Further, as I discussed previously, the credibility of Mr. Dreger’s calculations was seriously damaged during the hearing.
+[100] For the foregoing reasons, I have concluded that Hot Spot’s sales and income were properly reported on its tax returns as filed.
+Loss carry-forwards [101] The next issue the Court must address is the amount of the loss carry‑forwards that were available for Hot Spot to deduct for its 1996, 2000 and 2001 taxation years.
+[102] The Minister assumed that the balance in Hot Spot’s non-capital loss pool at the beginning of the 1996 taxation year was $18,850. In my view, the Appellant has not provided evidence to demolish this assumption.
+[103] Further, the evidence provided by the Respondent, as summarized in Exhibit R78, proves on a balance of probabilities that the balance in Hot Spot’s non-capital loss pool at March 31, 1995 was $18,850. This number is consistent with Mr. Szysky’s working papers and the tax returns filed by Hot Spot.
+[104] The Minister accepted that Hot Spot incurred a loss of $24,012 for its fiscal year ending on March 31, 1997. The Court has found that Hot Spot incurred losses of $75,816 and $41,323 in its fiscal years ending on March 31, 1998 and March 31, 1999 respectively. The Appellant has informed the Court that these losses will first be applied to its fiscal year ending on March 31, 1996 and then applied to its income earned in its fiscal years ending on March 31, 2000 and 2001 respectively.
+Gross Negligence Penalties [105] The gross negligence penalties levied against each of the Appellants will be vacated. The only person who failed to report income was Voula. She failed to report net income of $4,314. I heard little evidence with respect to the Canada Savings Bonds. In my view, the Respondent did not satisfy the burden placed on her to establish the facts justifying the assessment of the gross negligence penalty under subsection 163(2) in respect of the unreported Canada Savings Bond income.
+Decision [106] For the foregoing reasons, the appeals of each of the Individual Appellants are allowed, with costs to the Appellants.
+[107] The reassessments dated March 18, 2008 in respect of Voula Danakas’s 1997 and 1999 taxation years are referred back to the Minister for reconsideration and reassessment on the basis that this appellant’s taxable income for each of these taxation years was the income reported on her income tax return as filed.
+[108] The reassessment dated March 18, 2008 in respect of Voula Danakas’s 1998 taxation year is referred back to the Minister for reconsideration and reassessment on the basis that this appellant’s taxable income for this taxation year was the amount reported on her tax return plus $4,314.
+[109] The reassessments dated March 18, 2008 in respect of Metaxia Weinkauf’s 1997, 1998 and 1999 taxation years are referred back to the Minister for reconsideration and reassessment on the basis that this appellant’s taxable income for each of these taxation years was the income reported on her income tax return as filed.
+[110] The reassessment dated October 3, 2003 in respect of Jason Weinkauf’s 1998 taxation year and the reassessment dated March 18, 2008 in respect of his 1999 taxation year are referred back to the Minister for reconsideration and reassessment on the basis that this appellant’s taxable income for each of these taxation years was the income reported on his income tax return as filed.
+[111] The reassessments dated October 3, 2003 in respect of Peter Danakas’s 1998 and 1999 taxation years are referred back to the Minister for reconsideration and reassessment on the basis that Mr. Danakas’s taxable income for each of these taxation years was the income reported on his income tax return as filed.
+[112] The reassessments in respect of Hot Spot’s 1996, 1998, 1999, 2000 and 2001 taxation years are referred back to the Minister for reconsideration and reassessment on the basis that this appellant’s loss for each of its 1998 and 1999 taxation years was the loss reported on its income tax return as filed. The balance in Hot Spot’s non-capital loss pool at the beginning of its 1996 taxation year was $18,850. The losses of Hot Spot will first be applied to its 1996 taxation year and then, to the extent that there is a balance remaining in the pool, to its 2000 and 2001 taxation years respectively.
+[113] All gross negligence penalties levied against any of the Appellants will be vacated.
+Signed at Ottawa, Canada, this 27th day of October 2014.
+“S. D’Arcy”
+D'Arcy J.
+CITATION:
+2014 TCC 318
+COURT FILE NOS.:
+2008-1348(IT)G, 2008-1347(IT)G, 2008‑2038(IT)G, 2008-2039(IT)G, 2008‑2040(IT)G
+STYLES OF CAUSE:
+HOT SPOT RESTAURANT INC v. HER MAJESTY THE QUEEN, THE ESTATE OF PETER DANAKAS v. HER MAJESTY THE QUEEN, VOULA DANAKAS v. HER MAJESTY THE QUEEN, MIA WEINKAUF v. HER MAJESTY THE QUEEN, JASON WEINKAUF v. HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Saskatoon, Saskatchewan
+DATE OF HEARING:
+October 22, 2012 and December 2-5 and 9‑12, 2013
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Steven K. D'Arcy
+DATE OF JUDGMENT:
+October 27, 2014
+APPEARANCES:
+Counsel for the Appellant:
+Lawrence J. Litman
+Counsel for the Respondent:
+John Krowina
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Lawrence J. Litman
+Firm:
+Saskatoon, Saskatchewan
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Testimony of Voula Danakas, Transcript at page 45.
+[2] Ibid. at page 243.
+[3] Testimony of Jason Weinkauf, Transcript at pages 287-288.
+[4] Testimony of Voula Danakas, Transcript at pages 76 and 143.
+[5] Testimony of Darryl Dreger, Transcript at page 991.
+[6] Testimony of Darryl Dreger, Transcript at page 997.
+[7] Exhibits R34 and R35; Testimony of Darryl Dreger, Transcript at page 1001.
+[8] Exhibits R6 and R13.
+[9] Exhibit R36.
+[10] Testimony of Darryl Dreger, Transcript at page 997.
+[11] Transcript of the Sentencing Proceedings in Her Majesty the Queen v. Hot Spot Restaurant Inc. held April 18, 2006. Exhibit R35.
+[12] Ibid. at page 7.
+[13] Exhibits R67 and R66.
+[14] Exhibits R70 and R66.
+[15] See for example, Testimony of Voula Danakas, Transcript at pages 48, 60 and 70.
+[16] Ibid. at pages 161, 162, 163, 171 and 172.
+[17] Ibid. at page 164.
+[18] Testimony of Darryl Dreger, Transcript at page 1111.
+[19] See Schedule B to the Reply.
+[20] Testimony of Stravoula Danakas, Transcript, October 22, 2012, at page 56.
+[21] Exhibit A45. See also Testimony of Leo Georgopoulos, Transcript at pages 521-526.
+[22] Exhibit A1.
+[23] Exhibit A4. See also Testimony of Leo Georgopoulos, Transcript at pages 521-526.
+[24] Exhibit A45. See also Testimony of Leo Georgopoulos, Transcript at pages 521-526.
+[25] Exhibit A3; Testimony of Stravoula Danakas, Transcript at page 127.
+[26] Exhibit A5.
+[27] 9,000,000 drachmas, at an exchange rate of .004946. The exchange rate is the average of rates determined on following three websites: www.fxtop.com. www.oanda.com and www.xe.com.
+[28] Exhibit A2; Testimony of Stravoula Danakas, Transcript at pages 123-124.
+[29] See for example, Testimony of Stravoula Danakas, Transcript at page 141-143.
+[30] Exhibit A50; page 7. Testimony of Stravoula Danakas, Transcript at page 141.
+[31] Exhibit A50; page 2. Testimony of Stravoula Danakas, Transcript at page 142.
+[32] Exhibit A50; page 5, Testimony of Stravoula Danakas, Transcript at page 138-139.
+[33] Exhibit A50; page 5, Testimony of Stravoula Danakas, Transcript at page 140.
+[34] Testimony of Mia Weinkauf, Transcript at page 402.
+[35] Testimony of Jason Weinkauf, Transcript at page 321 and Testimony of Mia Weinkauf, Transcript at page 403.
+[36] Testimony of Jason Weinkauf, Transcript at page 320 and Testimony of Mia Weinkauf, Transcript at page 402.
+[37] Testimony of Leo Georgopoulos, Transcript at page 527 and Testimony of Mia Weinkauf, Transcript at page 403.
+[38] Testimony of Jason Weinkauf, Transcript at page 321 and Testimony of Mia Weinkauf, Transcript at pages 402 and 525.
+[39] Testimony of Jason Weinkauf, Transcript at page 322 and Testimony of Mia Weinkauf, Transcript at page 403.
+[40] Testimony of Jason Weinkauf, Transcript at pages 322 and 355 and Testimony of Mia Weinkauf, Transcript at page 403.
+[41] Testimony of Jason Weinkauf, Transcript at page 325 and Testimony of Mia Weinkauf, Transcript at page 403.
+[42] Testimony of Jason Weinkauf, Transcript at page 323 and Testimony of Mia Weinkauf, Transcript at page 403.
+[43] Testimony of Jason Weinkauf, Transcript at page 326 and Testimony of Mia Weinkauf, Transcript at page 403.
+[44] Testimony of Richard Weinkauf, Transcript at page 539 and Testimony of Jason Weinkauf, Transcript at page 320.
+[45] Exhibits R66 and R67.
+[46] Exhibit R66.
+[47] Exhibits A19, A20, A21 and A22.
+[48] Exhibit A48.
+[49] $248,448 – (50% of 59,634).
+[50] Exhibit R66.
+[51] Ibid.
+[52] Exhibit R70.
+[53] Exhibit R66, page 2.
+[54] Ibid.
+[55] Testimony of Mia Weinkauf, Transcript at pages 405-406.
+[56] Testimony of Mia Weinkauf, Transcript at page 407.
+[57] Exhibit A48.
+[58] Exhibits A19, A20, A21, A22 and A23.
+[59] An adjustment was made by the Minister for losses Hot Spot attempted to apply to reduce its taxes. See Testimony of Darryl Dreger, Transcript at pages 1222-1224.
+[60] Testimony of Darryl Dreger, Transcript at page 1224.
+[61] Exhibit R65.
+[62] (($500,787+$96,877)-$410,682)/$410,682.
+[63] Testimony of Phil Szysky, Transcript at pages 957 and 958.
+[64] Schedule B to Reply.
+[65] Testimony of Darryl Dreger, Transcript at page 1091.
+[66] Reply, paragraph 13(r); Exhibit R36.
+[67] Exhibit R36.
+[68] 2012 FCA 214, at paragraph 63.
+[69] Testimony of Mia Weinkauf, Transcript at page 461.
+[70] Ibid. page 579.
+[71] Exhibit R7.
+[72] Exhibit R6.
+[73] See for example, Testimony of Mia Weinkauf, Transcript at page 417.
+[74] Ibid. at pages 421 and 564-565.
+[75] Ibid. at pages 421-422.
+[76] Ibid. at pages 513 and 710.
+[77] Testimony of Phil Szysky, Transcript at page 774. Also Exhibit R7, page 3, showing bank statements seized by the CRA.
+[78] Ibid. at pages 784-786.
+[79] Ibid. at pages 942-944; Exhibit R30, page 29.
+[80] See Exhibit A38, pages 9 and 13.

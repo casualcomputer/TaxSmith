@@ -1,0 +1,201 @@
+---
+title: "Gregoire c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27919/index.do"
+last_modified: "2003-03-04"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 CCI 54"
+citation2: ""
+neutral_citation: "2003 CCI 54"
+decision_date: "2003-03-04"
+language: "fr"
+item_id: "27919"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1702
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T19:29:49.419000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "bba88b577144d9535c9795fdaf66a8c3a70a538823574fc1521d5a7876949408"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Gregoire c. M.R.N.
+
+- Citation: 2003 CCI 54
+- Decision date: 2003-03-04
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1702, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Gregoire c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-03-04
+Référence neutre
+2003 CCI 54
+Numéro de dossier
+1999-4721(EI)
+Juges et Officiers taxateurs
+Jerome F. Somers
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 1999-4721(EI)
+ENTRE :
+JEAN-GUY GRÉGOIRE,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+____________________________________________________________________
+Appel entendu le 20 janvier 2003 à Sept-Ìles (Québec)
+Devant : L'honorable juge suppléant J.F. Somers
+Comparutions :
+Avocat de l'appelant :
+Me Raynald Bernatchez
+Avocat de l'intimé :
+Me Alain Gareau
+____________________________________________________________________
+JUGEMENT
+L'appel est rejeté et la décision rendue par le Ministre est confirmée selon les motifs de jugements ci-joints.
+Signé à Ottawa, Canada, ce 4e jour de mars 2003.
+« J.F. Somers »
+J.S.C.C.I.
+Référence : 2003CCI54
+Date : 20030304
+Dossier : 1999-4721(EI)
+ENTRE :
+JEAN-GUY GRÉGOIRE,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+MOTIFS DU JUGEMENT
+Le juge suppléant Somers, C.C.I.
+[1] Cet appel a été entendu à Sept-Îles (Québec), le 20 janvier 2003.
+[2] L'appelant interjette appel de la décision du Ministre du Revenu national, (le « Ministre »), selon laquelle l'emploi exercé pendant la période en litige, soit du 8 décembre 1997 au 18 janvier 1998, lorsqu'au service de Julien Régis, le payeur, n'était pas assurable car il ne rencontrait pas les exigences d'un contrat de louage de services.
+[3] Le paragraphe 5(1) de la Loi sur l'assurance-emploi se lit en partie comme suit :
+5.(1) Sous réserve du paragraphe (2), est un emploi assurable :
+a) un emploi exercé au Canada pour un ou plusieurs employeurs, aux termes d'un contrat de louage de services ou d'apprentissage exprès ou tacite, écrit ou verbal, que l'employé reçoive sa rémunération de l'employeur ou d'une autre personne et que la rémunération soit calculée soit au temps ou aux pièces, soit en partie au temps et en partie aux pièces, soit de toute autre manière;
+[…]
+[4] Le Ministre s’est fondé, pour rendre sa décision, sur les faits suivants lesquels ont été admis ou niés :
+a) Le payeur était l'unique propriétaire d'un atelier de soudure qu'il exploitait sous la raison sociale de «Ti-Kay Sikuman» depuis 4 ou 5 ans; (admis)
+b) Le payeur, soudeur de métier, y faisait de la soudure électrique et de la soudure à l'oxygène-acétylène; (admis)
+c) Le payeur ouvrait son commerce de 8 h à 20 h, 6 jours par semaine; (nié)
+d) Il y avait toujours un ou deux soudeurs d'expérience sur place : le payeur et M. Yvan Ambroise; (nié)
+e) L'entreprise du payeur est exploitée à l'année longue; (admis)
+f) Le payeur a prétendu avoir embauché régulièrement des travailleurs n'ayant aucune expérience en soudure pour les aider à obtenir leurs «timbres de chômage»; (nié)
+g) Durant la période en litige, le payeur a embauché l'appelant pour effectuer de la peinture et du ménage dans son atelier; (nié)
+h) L'appelant n'avait aucune expérience pour travailler comme soudeur dans l'atelier du payeur; il en aurait fait un peu sous la surveillance du payeur; (nié)
+i) L'appelant et le payeur n'avaient aucune idée du nombre d'heures réellement travaillées par l'appelant; ce dernier se présentait à n'importe quelle heure et repartait quand il le voulait; (nié)
+j) L'appelant aurait prétendument reçu 27 $ de l'heure pour le travail effectué à l'atelier du payeur; il aurait été payé en argent liquide et il n'existe aucune preuve de paiement de la rémunération; (nié)
+k) L'appelant était un ami du payeur et il rendait souvent des services au payeur sans rémunération (avant et après la période en litige); (admis)
+l) L'appelant aurait été mis à pied par le payeur le 18 janvier 1998 pour manque de travail alors que le payeur embauchait un nouveau travailleur dès le 19 janvier 1998; (nié)
+m) Le relevé d'emploi soumis par l'appelant ne reflète pas la réalité quant à la période de travail et quant à la rémunération versée; (nié)
+n) Il y a eu arrangement entre les parties dans le seul but de permettre à l'appelant de pouvoir se qualifier pour recevoir des prestations d'assurance-emploi; (nié).
+[4] Le fardeau de la preuve incombe à l'appelant. Ce dernier se doit d'établir, selon la prépondérance de la preuve, que la décision du Ministre est mal fondée en fait et en droit. Chaque cas est un cas d'espèce.
+[5] Le payeur était l'unique propriétaire d'un atelier de soudure qu'il exploitait à l'année longue sous la raison sociale de «Ti-Kay Sikuman » depuis 5 ans.
+[6] Selon le payeur, l'atelier était ouvert 6 ou 7 jours sur semaine, travaillant de 8 h 00 à minuit, mais généralement de 8 h 00 à 17 h 00.
+[7] Durant la période en litige, le payeur a embauché l'appelant. Celui-ci a fait de la soudure bien qu'il n'était pas un soudeur professionnel.
+[8] L'appelant coupait des morceaux et le payeur les assemblait. Parfois, selon le payeur, l'appelant faisait de la soudure lorsque le travail n'était pas compliqué.
+[9] Le payeur a embauché l'appelant à la demande de ce dernier; le payeur connaissait l'appelant depuis 1970 et avait confiance en lui. Lors de son témoignage le payeur nie avoir engagé l'appelant afin qu'il puisse obtenir des «timbres d'assurance‑emploi».
+[10] Le payeur affirme qu'il ne se souvient pas des journées où l'appelant a travaillé pour lui et n'a produit aucun document, soit registre de salaire ou chiffres d'affaires pour prouver les heures travaillées ou la capacité financière de payer un travailleur qui n'était pas un soudeur professionnel et dont le salaire était de 20 00 $ à 22 00 $ l'heure. L'appelant Jean-Guy Grégoire affirme qu'il gagnait 26 00 $ à 27 00 $ l'heure. Yvan Ambroise, soudeur, était payé $17 00 $ à 18 00 $ l'heure. Le payeur admet qu'Yvan Ambroise avait plus de compétence que l'appelant.
+[11] En contre-interrogatoire le payeur déclare que les affaires étaient au ralenti en hiver, donc les heures d'ouverture étaient plûtot de 8 h 00 à 17 h 00.
+[12] Le procureur de l'intimé montre au payeur une déclaration statutaire qu'il a signée le 6 janvier 1999 (pièce I-1). Le payeur y reconnaît sa signature et ajoute « ...si j'ai signé ça c'est vrai ».
+[13] Cette déclaration statutaire du payeur au sujet de l'emploi de l'appelant se lit en partie comme suit :
+Q. Pour quelles raisons avez-vous embauché M. Grégoire pour 504 heures entre le 08/12/97 et le 18/01/98?
+R. Il est venu avec moi à Natashquan parce que j'avais un contrat pour faire une grosse croix.
+Q. Comment s'est fait son embauche?
+R. Il m'a demandé si j'avais de l'ouvrage et j'avais le contrat à Natashquan alors je l'ai engagé.
+Q. Lors de sa fin d'emploi, M. Grégoire vous a-t-il dit qu'il souhaitait arrêter de travailler?
+R. C'est toujours la même chose avec les Indiens et lui c'est pareil il avait fait son chômage et il ne voulait plus continuer.
+Q. Quelles étaient ses tâches?
+R. Il soudait un peu mais il a surtout fait de la peinture et du ménage dans la shop.
+Q. Quel était l'horaire de M. Grégoire?
+R. Son horaire était comme mêlé, il arrivait à n'importe quelle heure et repartait, je ne contrôlais pas ses heures.
+Q. Quel était le salaire de M. Grégoire?
+R. Je pensais qu'il gagnait 26 00 $ de l'heure mais la cessation dit $ 27.04 alors c'est ça son salaire.
+Q. Qu'est ce qui justifiait ce salaire?
+R. Avant que je l'engage il m'avait aidé souvent et je ne le payais pas alors je lui ai donné ce salaire‑là pour le récompenser. On est des amis et il vient souvent m'aider sans être payé; il vient à la shop à toutes les semaines.
+Q. Comment M. Grégoire était-il payé, par chèque, argent, etc.?
+R. Quelques fois par chèque mais plus souvent il a été payé en argent.
+Q. Pour quelles raisons avez-vous indiqué que le motif de cessation était un manque de travail alors que vous qavez embauché un autre soudeur le 19 janvier 1998?
+R. C'est parce que si j'avais dit au comptable de mettre la vraie raison qu'il voulait plus travailler, il aurait du trouble avec son chômage. Je savais que ce n'était pas la vraie raison et que je donnais un faux renseignement au chômage.
+Q. Quelle entente avez-vous prise avec M. Grégoire pour lui émettre un RE avec un faux motif de cessation d'emploi?
+R. Je n'avais pas discuté de ça avec lui mais je savais que si je marquais qu'il était parti il aurait des problèmes avec son chômage
+Q. Avez-vous autre chose à ajouter concernant M. Jean‑Guy Grégoire?
+R. Il m'a demandé pour travailler mais là j'ai dit non parce que ça m'a coûté très cher cet été toutes les personnes que j'ai engagées pour leur faire faire leurs timbres.
+[14] À l'audience, le payeur a admis qu'il ne connaissait pas l'horaire de travail de l'appelant. Il a ajouté que l'appelant arrivait à l'atelier «de bonne heure» mais ne savait pas s'il travaillait 8 heures par jour.
+[15] Même s'il ne connaissait pas le nombre d'heures et de jours travaillés par l'appelant, le payeur a signé le relevé d'emploi de l'appelant que le comptable avait préparé selon ses instructions. Le relevé d'emploi indique que l'appelant était soudeur, qu'il avait travaillé 504 heures et qu'il avait reçu une rémunération de 13 628,16 $ durant la période en litige.
+[16] Un relevé d'emploi (pièce I-3) signé par le payeur, indique qu'un certain Jérôme Kevin a commencé à travailler pour le payeur à titre de soudeur le 19 janvier 1998, soit le lendemain de la fin de la période d'emploi de l'appelant. Lors de son témoignage, le payeur a déclaré que l'appelant avait cessé de travailler à l'atelier parce qu'il y avait moins d'ouvrage.
+[17] L'appelant Jean-Guy Grégoire dans son témoignage, se déclare camionneur et non soudeur. Il affirme qu'il a travaillé les heures indiquées au relevé d'emploi.
+[18] Il aurait travaillé avec la torche à couper des morceaux, selon les instructions données par le payeur et devait polir les « buckets à neige ».
+[19] L'appelant déclare qu'il travaillait à des heures flexibles, parfois de 8 h 00 à 17 h 00 et parfois jusqu'à 2 heures du matin. À l'occasion il travaillait 10 à 12 heures par jour. Par contre ses heures de travail n'étaient pas comptabilisées.
+[20] Bien qu'il n'était pas un soudeur professionnel il affirme qu'il a acquis une certaine expérience lui permettant de faire de la petite soudure. Pendant son emploi avec le payeur il a fait de la peinture et du nettoyage, ce qui représentait 10 % du travail.
+[21] L'appelant déclare qu'il a travaillé pour le payeur sans être payé.
+[22] En contre-interrogatoire il déclare avoir réparé un « bucket de neige » et en avoir refait deux en présence du payeur et parfois d'Yvan Ambroise.
+[23] L'appelant déclare qu'il marquait ses heures et qu'il vérifiait si le payeur faisait de même. Cependant le payeur n'a pas comptabilisé les heures et lors de son témoignage, il a affirmé qu'il ne connaissait les heures de travail de l'appelant.
+[24] Le payeur déclare que l'atelier était généralement ouvert de 8 h 00 à 17 h 00 tous les jours et à l'occasion le soir et aussi la nuit, ce qui contredit le témoignage de l'appelant qui affirme avoir oeuvré 84 heures par semaine, soit de 10 à 12 heures par jour.
+[25] Les affaires n'étaient pas florissantes en hiver; donc les heures d'ouverture étaient plutôt de 8 h 00 à 17 h 00. S'il y avait moins d'ouvrage pourquoi donc l'appelant travaillait-il de 10 à 12 heures par jour pour un total de 84 heures par semaine. Le payeur affirme que l'appelant travaillait aux heures qu'il déterminait lui-même et qu'il ne contrôlait pas ses heures.
+[26] D'autres contradictions dans la preuve : le payeur affirme dans sa déclaration statutaire que l'appelant travaillait à faire de la peinture et du nettoyage. L'appelant témoigne que la peinture et le nettoyage représentaient seulement 10 % de son travail. Il faut donc en conclure qu'il faisait de la soudure le reste du temps. Ceci n'est pas crédible, l'appelant n'est pas soudeur professionnel; l'appelant déclare qu'il ne faisait que de la petite soudure.
+[27] La version du payeur est différente sur certains faits dans sa déclaration statutaire et lors de son témoignage à l'audience. Les témoignages ne reflètent pas la réalité. Le payeur aurait mis fin à l'emploi de l'appelant à cause de manque de travail alors que le lendemain, le payeur a engagé un autre soudeur. L'appelant avait le fardeau de la preuve; aucun document n'a été produit pour confirmer les dires du payeur ou de l'appelant.
+[28] Dans l'arrêt Laverdière c. Canada (ministre du Revenu national – M.R.N.), [1999] A.C.I. no 124, le juge Tardif de cette Cour, dans sa décision en date du 25 février 1999, s'exprimait ainsi :
+Par contre, je crois que le travail exécuté par l'appelant durant cette même période en 1992 ne constitue pas pour autant un véritable contrat de louage de services et ce, notamment, pour les raisons suivantes. Tout d'abord, seul un véritable contrat de travail peut rencontrer les exigences pour être qualifié de contrat de louage de services; un véritable contrat de louage de services doit regrouper certaines composantes essentielles dont une prestation de travail; son exécution doit être subordonnée à l'autorité du payeur de la rétribution. La rémunération doit être fonction de la quantité et qualité du travail exécuté.
+Toute entente ou arrangement prévoyant des modalités de paiement de la rétribution non pas en fonction du temps ou de la période d'exécution du travail rémunéré, mais en fonction de d'autres objectifs tel tirer avantage des dispositions de la Loi, vicie la qualité du contrat de louage de services.
+Cette appréciation est d'ailleurs valable pour toutes les périodes en litige ayant trait aux deux appelants. Les modalités d'un véritable contrat de louage de services doivent s'articuler autour de la prestation de travail à accomplir, d'un mécanisme permettant de contrôler l'exécution du travail et finalement, d'une rétribution correspondant essentiellement à la qualité et la quantité du travail exécuté.
+[...]
+Il en est ainsi au niveau de toute entente ou arrangement dont le but et l'objectif est d'étaler ou cumuler la rémunération due ou être due de manière à tirer avantage des dispositions de la Loi. Toute planification ou entente qui maquille ou altère les faits relatifs à la rétribution, dans le but de maximiser les bénéfices de la Loi, disqualifie le contrat de louage de services.
+[29] La preuve a démontré qu'il y a eu un arrangement entre l'appelant et le payeur afin que ce dernier puisse bénéficier des avantages de la Loi sur l'assurance-emploi.
+[30] L'appelant n'occupait pas un emploi assurable au sens de l'alinéa 5(1)a) de la Loi, car il n'existait pas de véritable contrat de louage de services.
+[31] En conséquence, l'appel est rejeté et la décision rendue par le Ministre est confirmée.
+Signé à Ottawa, Canada, ce 4e jour de mars 2003.
+« J.F. Somers »
+J.S.C.C.I.
+RÉFÉRENCE :
+2003CCI54
+No DU DOSSIER DE LA COUR :
+1999-4721(EI)
+INTITULÉ DE LA CAUSE :
+Jean-Guy Grégoire et M.R.N.
+LIEU DE L'AUDIENCE :
+Sept-Îles (Québec)
+DATE DE L'AUDIENCE
+Le 20 janvier 2003
+MOTIFS DE JUGEMENT PAR :
+l'honorable juge suppléant J.F. Somers
+DATE DU JUGEMENT :
+le 4 mars 2003
+COMPARUTIONS :
+Pour l'appelant :
+Me Raynald Bernatchez
+Pour l'intimé :
+Me Alain Gareau
+AVOCAT INSCRIT AU DOSSIER:
+Pour l'appelant :
+Nom :
+Me Raynald Bernatchez
+Étude :
+Sept-Iles (Québec)
+Pour l'intimé :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

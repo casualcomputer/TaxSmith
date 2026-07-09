@@ -1,0 +1,181 @@
+Title: Longo v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/31234/index.do
+Corpus path: corpus/cases/tcc/2013/2013-tcc-213-31234-longo-v-the-queen-en.md
+Document type: case_law
+Last modified: 2013-07-09
+
+# Longo v. The Queen
+
+- Citation: 2013 TCC 213
+- Decision date: 2013-07-09
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5139, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Longo v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2013-07-09
+Neutral citation
+2013 TCC 213
+File numbers
+2012-1829(IT)I
+Judges and Taxing Officers
+David E. Graham
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2012-1829(IT)I
+BETWEEN:
+DONATO LONGO,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on June 20, 2013, at London, Ontario.
+Before: The Honourable Justice David E. Graham
+Appearances:
+Agent for the Appellant:
+Rudolfo Terracina
+Counsel for the Respondent:
+Tamara Watters
+____________________________________________________________________
+JUDGMENT
+The Appeal of the reassessment of the Appellant’s 2007 and 2008 taxation years is dismissed.
+Signed at Winnipeg, Manitoba, this 9th day of July 2013.
+“David E. Graham”
+Graham J.
+Citation: 2013 TCC 213
+Date: 20130709
+Docket: 2012-1829(IT)I
+BETWEEN:
+DONATO LONGO,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Graham J.
+[1] Donato Longo deducted various business expenses when he filed his tax returns for his 2007 and 2008 taxation years. Mr. Longo takes the position that those expenses were related to a consulting business.
+[2] The Minister of National Revenue denied the deduction of most of those expenses. The Respondent submits that all of the expenses should have been denied but that, due to an error, $1,590 in expenses were allowed. The Respondent acknowledges that the amount of the assessment cannot be increased on appeal and thus is not seeking to have those expenses denied.
+[3] In reassessing Mr. Longo, the Minister applied gross negligence penalties pursuant to subsection 163(2) of the Income Tax Act (the “Act”).
+[4] The key issues in this case are whether the denied expenses should be allowed and, to the extent they are not allowed, whether gross negligence penalties should be applied to the disallowed expenses.
+Consulting Business
+[5] When he filed his 2007 tax return, Mr. Longo reported that he had $2,000 in gross professional income and $17,154 in expenses for a loss of $15,154 related to a business under the name Donato’s Consulting Services.
+[6] When he filed his 2008 tax return, Mr. Longo reported a loss from the same activity but this time he reported it as a loss from a business rather than a loss from a profession. He reported no gross business income and $12,190 in expenses for a loss of $12,190.
+[7] Mr. Longo was represented at trial by an agent named Rudolfo Terracina. Mr. Longo testified that Mr. Terracina was the sole client of Mr. Longo’s consulting business. Mr. Terracina operates a business under the name Agemo Tax Services. It was unclear whether the business was incorporated or not. Mr. Longo referred to both Mr. Terracina and Agemo in his testimony. As nothing turns on this, I will refer to the business as if it was Mr. Terracina’s sole proprietorship.
+[8] Mr. Longo stated that his consulting business consisted of introducing prospective clients to Mr. Terracina as well as providing chauffeur services to Mr. Terracina such as driving Mr. Terracina from his house outside of London, Ontario to meet with prospective clients that Mr. Longo was introducing or to meet with Mr. Terracina’s existing clients. Mr. Longo stated that he had known Mr. Terracina since 2003 and while he had been trying to refer prospective clients to Mr. Terracina from 2003 until now, he had engaged in that activity in a more serious manner during 2007 and 2008.
+[9] Mr. Longo testified that he did “not exactly” have an agreement with Mr. Terracina about how he would be paid for introducing prospective clients. Mr. Longo stated that he “hoped” that if he referred a client with a tax dispute to Mr. Terracina and Mr. Terracina won the case then Mr. Terracina would take a percentage of the winnings that he collected from the client and pay them to Mr. Longo. However, he testified that he and Mr. Terracina had not agreed to a certain percentage that would be paid and clarified that Mr. Terracina has, in fact, never paid anything to him. When he was asked about the $2,000 that he reported as gross income from the consulting business on his 2007 tax return, Mr. Longo was unable to reconcile that supposed revenue with the fact that he had not been paid anything by Mr. Terracina. He had no recollection of why that revenue appeared on his tax return.
+[10] Mr. Longo testified that he did not charge Mr. Terracina for driving him places because he was hoping to earn money through commissions and to learn from Mr. Terracina.
+[11] Mr. Longo provided the Court with a list of 18 individuals and companies that he said he had referred to Mr. Terracina as prospective clients. The list was prepared approximately 2 weeks before trial. Mr. Longo testified that he sat down with Mr. Terracina and came up with this list. No list of prospective clients had previously been provided to the Minister. It is clear to me from the wording that the list was written by Mr. Terracina. The list contained not just the names of the prospective clients but also details about what did or did not happen with the clients. I warned Mr. Terracina that I would accept the list as an exhibit but that I was not going to consider any statements on it to be evidence unless Mr. Longo himself testified to them. I raise this because the list indicates that Mr. Longo was paid in respect of the first two prospective clients on the list. In his testimony, Mr. Longo was clear that Mr. Terracina did not pay him anything. The second prospective client on the list was Mr. Longo’s brother’s company, Longo Custom Kitchens. Mr. Longo stated that his brother gave him some building materials because he was grateful for Mr. Longo referring him to Mr. Terracina but Mr. Longo was clear that he did not receive any payments from Mr. Terracina for the referral.
+[12] The Minister made an assumption of fact that Mr. Longo “did not operate any business activity providing consulting services”. The only evidence that was provided to demolish that assumption was Mr. Longo’s testimony. There was no contemporaneous documentary evidence that supported the existence of the business and no other witnesses were called to testify on Mr. Longo’s behalf.
+[13] While a taxpayer’s oral testimony may be sufficient to demolish an assumption (House v. The Queen, 2011 FCA 234, 2011 DTC 5142), I did not find Mr. Longo to be a credible witness. He had a reasonable recollection of events from 2007 and 2008 outside of his alleged business and answered the questions in respect of those events in a straightforward manner. However, when faced with questions that went to the core of his case, he would often pause for long periods of time as if he was searching for an acceptable answer and then simply reply that he could not recall. The clear impression that I was left with was not that Mr. Longo did not recall the answer but either that he recalled the answer and did not wish to give it or, more likely, there was no answer to give because the business in question was fictitious. Mr. Longo’s credibility was not enhanced by his willingness to be lead in his evidence by Mr. Terracina. In addition to the foregoing, my views of Mr. Longo’s credibility were significantly influenced by the fact that he claimed expenses on his tax return for which he had no explanation whatsoever. Those claims are described in more detail below.
+[14] Mr. Terracina did not testify. He could presumably have provided evidence regarding whether Mr. Longo did, in fact, provide his services to him, what his expectations were regarding payment for those services, what his dealings were with the clients on the list and whether he ultimately paid Mr. Longo anything for his services. I draw an adverse inference from Mr. Terracina’s failure to testify.
+[15] Most of the purported potential clients of the consulting business were individuals that Mr. Longo indicated were his friends, acquaintances or contacts from a kitchen cabinet installation business that Mr. Longo operated through a numbered company. Half of them resided in the London area. Presumably one or more of these individuals could have provided evidence regarding whether Mr. Longo did, in fact, try to convince the individual to retain Mr. Terracina’s services, whether the individual did retain those services and whether the individual paid Mr. Terracina for those services. I draw an adverse inference from the failure of Mr. Longo to call any of these people as witnesses.
+[16] The Respondent called the auditor, Tyler Heslop, as the Respondent’s only witness. I found Mr. Heslop to be credible. Mr. Heslop testified that when he initiated his audit of Mr. Longo he made what he described as a “cold call” to Mr. Longo to advise him that he was under audit. Mr. Heslop stated that in that phone call he asked Mr. Longo about his consulting business and Mr. Longo was unable to recall what the business was.
+[17] Based on all of the foregoing, I find that Mr. Longo has failed to make a prima facie case demolishing the Minister’s assumption that he “did not operate any business activity providing consulting services”.
+Stewart Test
+[18] Counsel for the Respondent directed me to the Supreme Court of Canada decision in Stewart v. The Queen, 2002 SCC 46, 2002 DTC 6969 and urged me to find that Mr. Longo did not have a source of income from the purported consulting business. In my view, it is not necessary for me to consider Stewart. At paragraph 50 of Stewart, the Court describes the test as follows:
+It is clear that in order to apply s. 9, the taxpayer must first determine whether he or she has a source of either business or property income. As has been pointed out, a commercial activity which falls short of being a business, may nevertheless be a source of property income. As well, it is clear that some taxpayer endeavours are neither businesses, nor sources of property income, but are mere personal activities. As such, the following two-stage approach with respect to the source question can be employed:
+(i) Is the activity of the taxpayer undertaken in pursuit of profit, or is it a personal endeavour?
+(ii) If it is not a personal endeavour, is the source of the income a business or property?
+[emphasis added]
+[19] The test in Stewart presupposes that there is an “activity” occurring. As explained above, Mr. Longo has not demolished the Respondent’s assumption that no activity existed. Therefore there is no activity to which the Stewart test can be applied.
+[20] If I am wrong and there was an activity occurring, then I find that it was a business activity as I am unable to see what personal element there could have been to the purported activity.
+Expenses
+[21] If I am wrong, and Mr. Longo did have a consulting business in 2007 and 2008 which was a source of income to him, then I find that he either did not incur the expenses that he claimed in respect of that business or did not incur them for the purpose of gaining or producing income from that business.
+[22] Mr. Longo claimed the following expenses on his 2007 and 2008 tax returns.
+Expense
+2007
+2008
+Advertising
+$670
+$860
+Business Tax, Fees, Licenses, etc.
+$314
+$490
+Meals and Entertainment
+$580
+$600
+Motor Vehicle
+$7,964
+$3,660
+Office
+$1,280
+$720
+Travel
+$290
+Supplies
+$280
+$1,490
+Legal, Accounting and Other Professional Fees
+$1,200
+$1,200
+Telephone and Utilities
+$876
+$480
+Other Expenses – Courses
+$2,400
+Management and Administration Fees
+$2,400
+Capital Cost Allowance
+$1,590
+Total
+$17,154
+$12,190
+[23] Mr. Longo testified that all of the above expenses related wholly to his alleged consulting business.
+[24] During portions of 2007 and 2008, Mr. Longo was employed as a truck driver by a company based in London, Ontario. Mr. Longo was clear in his testimony that the above expenses did not relate to that employment.
+[25] Mr. Longo incorporated a company named 1690478 Ontario Limited in 2006. During 2007 and 2008, that company was involved in the business of installing kitchen cabinets. Mr. Longo was clear in his testimony that the above expenses did not relate to either the company’s expenses or his work with the company.
+[26] I will review each of the categories of expenses in turn:
+a. Advertising: Mr. Longo testified that he did not engage in any advertising for his alleged consulting business other than placing some pamphlets that Mr. Terracina had given him in the showroom for his brother’s company’s kitchen cabinet business. Mr. Longo stated that he did not pay Mr. Terracina for those pamphlets. Mr. Longo was unable to explain why he had claimed advertising expenses.
+b. Business Tax, Fees, Licences, etc: Mr. Longo was unable to recall any expenses that he had incurred that would fall into this category.
+c. Meals and Entertainment: Mr. Longo testified that he sometimes took prospective clients out for coffee or lunch. He could not recall whether he paid for the coffee or lunch for those prospective clients or whether he had simply paid for his own food. As Mr. Longo testified that the prospective contacts were all friends, acquaintances or contacts from the kitchen installation business, I am not convinced that the purpose of these meals would have been to gain or produce income from the consulting business.
+d. Motor Vehicle: The motor vehicle expense calculation was included in Mr. Longo’s 2007 tax return but that page was missing from the copy of the 2008 tax return that was filed as an exhibit. The 2007 tax return indicated that almost 95% of Mr. Longo’s use of his vehicle had been claimed for business purposes. Mr. Longo did not keep a log of his vehicle usage. Given that Mr. Longo had a full time job for at least 6 months of 2007 which he would have had to drive to and from and given that he presumably used his vehicle for personal purposes as well, the idea that almost 95% of the vehicle’s use was for business purposes is simply not believable. When confronted with this fact on cross‑examination, Mr. Longo suggested that an error must have been made in the tax return. However, he did not suggest what an appropriate amount of business use would have been. A handwritten document that was prepared by Mr. Terracina during a meeting among two CRA auditors and Mr. Longo was entered into evidence. That document indicated that Mr. Longo had, in fact, driven almost 50% more kilometers for business purposes in 2007 than he had claimed on his tax return. If the statement on the return had truly been a simple error, then it is hard to understand why Mr. Longo would have compounded that error by exaggerating his business use of the vehicle even further in this meeting with the auditor.
+e. Office: There was no evidence to indicate that Mr. Longo had an office in 2007 or 2008. Mr. Longo testified that Mr. Terracina began using an area of Mr. Longo’s basement as an office but that did not occur until 2009.
+f. Travel: There was no evidence that Mr. Longo incurred any travel expenses separate from his purported vehicle expenses.
+g. Supplies: Mr. Longo testified that when he started working with Mr. Terracina, Mr. Terracina was not in a good financial position so Mr. Longo would pay for Mr. Terracina’s office expenses such as printer paper and ink cartridges. I find this extremely unlikely.
+h. Legal, Accounting and Other Professional Fees: Mr. Longo could not recall who he had paid these fees to. Given his description of his business, I cannot imagine who he would have paid professional fees to other than Mr. Terracina. If Mr. Terracina had been the recipient of those fees, surely he could have testified or provided a copy of the invoices in question to Mr. Longo.
+i. Telephone and Utilities: Mr. Longo indicated that he made a couple of phone calls a month on his cell phone for business purposes. He did not provide any other evidence of telephone or utility expenses. I cannot accept that a couple of phone calls a month would amount to expenses of $876 and $480 respectively in Mr. Longo’s 2007 and 2008 tax years.
+j. Other Expenses (Courses): Mr. Longo could not recall what course he had spent $2,400 on in respect of his consulting business in 2007.
+k. Management and Administration Fees: Mr. Longo could not recall who he had paid $2,400 in management and administration fees to in 2008. Given the nature of his business, I cannot imagine why he would have incurred any such fees. There was simply nothing to manage or administer.
+l. Capital Cost Allowance: Mr. Longo did not provide any evidence regarding his claim for capital cost allowance in 2007 or why a similar claim was not made in 2008. The capital cost allowance claim of $1,590 is the amount that was erroneously allowed by the Minister in reassessing Mr. Longo.
+[27] No documentary evidence supporting any of the expenses was produced in Court. Mr. Longo provided some credit card statements and receipts to the auditors but those were not filed as exhibits. While it is not always necessary for taxpayers to produce receipts, in a case such as this where the taxpayer has little, if any, recollection of what the supposed expenses related to, it is, in my view, essential to do so.
+[28] Mr. Longo testified that Mr. Terracina prepared his tax returns. He indicated that he would take a large file folder of documents to Mr. Terracina and that Mr. Terracina would then use the documents in the folder to put together the return. If this is the case, then Mr. Terracina could presumably have provided valuable evidence to explain how the various figures that appear in the tax returns were calculated. I draw an adverse inference from the fact that Mr. Terracina was not called to testify as to this point.
+[29] In conclusion, if Mr. Longo had a consulting business, I am not convinced that the vast majority of the above expenses were incurred at all. The only expenses which I believe may have been incurred were the vehicle and meals and entertainment expenses. However, to the extent that Mr. Longo did incur vehicle and meals and entertainment expenses, I am not convinced that he did so for the purpose of earning income and, in any event, I have no reliable evidence upon which I could determine the amount of those expenses.
+Reasonableness
+[30] As a further alternative argument, the Respondent submitted that, to the extent Mr. Longo had incurred the expenses that he claimed for the purpose of gaining or producing income, those expenses were not reasonable. In light of my conclusions above, it is not necessary to consider this position.
+Gross Negligence Penalties
+[31] Mr. Longo was assessed gross negligence penalties pursuant to subsection 163(2) of the Act. The classic test for the application of gross negligence penalties is set out in Venne v. The Queen, 84 DTC 6247, a Federal Court Trial Division decision that was adopted by the Federal Court of Appeal in Findlay v. The Queen, 2000 DTC 6345 at paragraph 21:
+… ‘Gross negligence’ must be taken to involve greater neglect than simply a failure to use reasonable care. It must involve a high degree of negligence tantamount to intentional acting, an indifference as to whether the law is complied with or not.
+[32] The burden of proving any facts necessary to support gross negligence penalties falls on the Respondent. In this Appeal, the Respondent can meet its burden either by proving that the purported consulting business did not exist or that the expenses were not incurred for the purpose of gaining or producing income.
+[33] Because the Respondent cannot rely on its assumptions of fact to meet its burden, it cannot support gross negligence penalties in respect of the non-existence of the purported consulting business. I have found above that that business did not exist because Mr. Longo has not demolished the Minister’s assumption on that point. Without that assumption, the Respondent does not have sufficient evidence of the non-existence of the business to prove that gross negligence penalties should be applied.
+[34] The same is not true for Mr. Longo’s expenses. The Respondent is able to meet its burden in respect of the expenses. Mr. Longo admitted that he signed his tax returns, that he reviewed them before signing them and that he knew that in signing them he was declaring that the information contained in them was true. There was no credible explanation that would indicate that any of the amounts that Mr. Longo reported on his tax returns in respect of his purported consulting business were incurred for the purpose of gaining or producing income. At best, I believe that Mr. Longo was indifferent as to whether the expenses that he claimed on his tax return were accurate or not. More likely, I believe that Mr. Longo knew that the expenses he claimed on his returns were false yet claimed them anyway.
+[35] Based on all of the foregoing, this Appeal is dismissed.
+Signed at Winnipeg, Manitoba, this 9th of July 2013.
+“David E. Graham”
+Graham J.
+CITATION: 2013 TCC 213
+COURT FILE NO.: 2012-1829(IT)I
+STYLE OF CAUSE: DONATO LONGO AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: London, Ontario
+DATE OF HEARING: June 20, 2013
+REASONS FOR JUDGMENT BY: The Honourable Justice David E. Graham
+DATE OF JUDGMENT: July 9, 2013
+APPEARANCES:
+Agent for the Appellant:
+Rudolfo Terracina
+Counsel for the Respondent:
+Tamara Watters
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

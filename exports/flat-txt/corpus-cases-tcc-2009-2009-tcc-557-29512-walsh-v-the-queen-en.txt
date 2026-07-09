@@ -1,0 +1,210 @@
+Title: Walsh v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29512/index.do
+Corpus path: corpus/cases/tcc/2009/2009-tcc-557-29512-walsh-v-the-queen-en.md
+Document type: case_law
+Last modified: 2009-11-04
+
+# Walsh v. The Queen
+
+- Citation: 2009 TCC 557
+- Decision date: 2009-11-04
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6269, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Walsh v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2009-11-04
+Neutral citation
+2009 TCC 557
+File numbers
+2006-3312(IT)G
+Judges and Taxing Officers
+Georgette Anne Sheridan
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2006-3312(IT)G
+BETWEEN:
+ROY WALSH,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on May 1, 2009 at Fredericton, New Brunswick
+Before: The Honourable Justice G. A. Sheridan
+Appearances:
+Counsel for the Appellant:
+D. Andrew Rouse
+Counsel for the Respondent:
+David Besler
+____________________________________________________________________
+JUDGMENT
+The appeal from the Notice of Assessment No. 19501 dated February 2, 2005 made under the Income Tax Act is allowed, with costs, and the assessment is vacated on the bases that:
+1. the Minister has not proven that the execution of the Writ of Seizure and Sale was returned unsatisfied as required by paragraph 227.1(2)(a); and
+2. the Appellant ceased to be a director of Jardine Security Ltd. on May 31, 2002 and is, therefore, relieved of liability under subsection 227.1(4) of the Act.
+Signed at Ottawa, Canada, this 4th day of November, 2009.
+“G. A. Sheridan”
+Sheridan J.
+Citation: 2009TCC557
+Date: 20091104
+Docket: 2006-3312(IT)G
+BETWEEN:
+ROY WALSH,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Sheridan, J.
+[1] In February 2005, the Appellant was assessed under section 227.1 of the Income Tax Act for the unremitted source deductions of his solely owned company.
+[2] The question raised in the pleadings is whether the Appellant was a director during the period contemplated by subsection 227.1(4) and if so, whether he exercised the due diligence required under subsection 227.1(3) of the Act. At the hearing, a further issue arose as to whether a writ of execution had been returned unsatisfied under paragraph 227.1(2)(a) and is considered below under the heading “Preliminary Matter”.
+[3] Section 227.1 provides that:
+Liability of directors for failure to deduct
+227.1(1) Where a corporation has failed to deduct or withhold an amount as required by subsection 135(3) or 135.1(7) or section 153 or 215, has failed to remit such an amount or has failed to pay an amount of tax for a taxation year as required under Part VII or VIII, the directors of the corporation at the time the corporation was required to deduct, withhold, remit or pay the amount are jointly and severally, or solidarily, liable, together with the corporation, to pay that amount and any interest or penalties relating to it.
+Limitations on liability
+227.1(2) A director is not liable under subsection (1), unless
+(a) a certificate for the amount of the corporation's liability referred to in that subsection has been registered in the Federal Court under section 223 and execution for that amount has been returned unsatisfied in whole or in part;
+(b) the corporation has commenced liquidation or dissolution proceedings or has been dissolved and a claim for the amount of the corporation's liability referred to in that subsection has been proved within six months after the earlier of the date of commencement of the proceedings and the date of dissolution; or
+(c) the corporation has made an assignment or a bankruptcy order has been made against it under the Bankruptcy and Insolvency Act and a claim for the amount of the corporation's liability referred to in that subsection has been proved within six months after the date of the assignment or bankruptcy order.
+227.1(3) A director is not liable for a failure under subsection (1) where the director exercised the degree of care, diligence and skill to prevent the failure that a reasonably prudent person would have exercised in comparable circumstances.
+Limitation period
+227.1(4) No action or proceedings to recover any amount payable by a director of a corporation under subsection (1) shall be commenced more than two years after the director last ceased to be a director of that corporation.
+[4] The Appellant’s primary position is that subsection 227.1(4) bars the Minister from recovering the unremitted source deductions from him because he ceased to be a director of the company on May 31, 2002, more than two years before he was assessed for those amounts on February 2, 2005. He argues, alternatively, that if he was a director of the company at the relevant time, he exercised the diligence required of him by subsection 227.1(3).
+[5] The Respondent contends that at no time did the Appellant cease to be either a de jure or de facto director of the company and that he failed to take reasonable steps to prevent its failure to remit the source deductions.
+Facts
+[6] In December 1996, the Appellant purchased a company known as Jardine Security Ltd. (“JSL”) from Douglas Jardine. At that time, JSL was in the business of providing security services on public and private property as well as traffic safety control on road construction sites in the Miramichi region of New Brunswick.
+[7] The Appellant and his wife acquired all the shares of the company. The Appellant became the sole director. For some reason, a change of directors was never filed with the New Brunswick corporate registry. Thus, at all times relevant to this appeal, the name of the former owner of JSL, Douglas Jardine, was shown in the records of the New Brunswick corporate registry as the sole director of JSL.
+[8] The Appellant’s goal when he acquired JSL was to expand its operations from the Miramichi region to the entire province. With this in mind, he sought and was successful in securing a contract with New Brunswick Power to provide traffic control services across New Brunswick. He accomplished this by taking a calculated risk: following his negotiations with New Brunswick Power, the Appellant was confident that upon the satisfactory performance of its obligations, JSL’s contract would be renewed at a higher price, thus permitting the company to compensate for its low bid and to recoup its outlays for the additional staff, training and equipment needed at the new job sites.
+[9] Things looked promising until 2000 when, contrary to all expectations, New Brunswick Power did not renew its contract; at the last minute, JSL was underbid by one of its own former employees. This was a devastating blow to the company. The Appellant met with Hal Raper, Chartered Accountant, to review the company’s financial situation and to develop a plan[1] to mitigate the effect of the lost contract. Mr. Raper advised the Appellant to try to increase profit margins by renegotiating contract prices; if this could be accomplished, his projections for the company’s future were favourable. As a consequence, the Appellant met with JSL clients and was able to persuade some of them to pay a higher price for the company’s services[2]. Armed with this success and Mr. Raper’s projections, the Appellant met with the company’s banker in the hope of securing additional financing to cover, among other costs, the source deductions. By that time, the company’s account manger at the bank had changed; the new representative did not say no but deferred his decision for six months to see how the company performed against its projections.
+[10] Meanwhile, the Appellant made some major changes to shore up the company: he laid off staff, including the field manager and bookkeeper, whose respective duties were taken over by the Appellant and his wife. He managed to get the company out of its lease and relocated the business office to the basement of his home. The Appellant injected his own funds into the company: he cashed in insurance policies and RRSP’s, remortgaged his house and used his personal line of credit and credit cards to cover the company’s expenses.
+[11] Throughout this time, the Appellant kept the Canada Revenue Agency informed of the company’s difficulties and continued working with officials to reduce the company’s outstanding liabilities. Although JSL would ultimately succeed in retiring its HST debt, the company was unable to get caught up on its source deduction remittances.
+[12] Just when the Appellant began to “see light at the end of the tunnel”[3], two new crises arose: one of its major clients was bought out by an Ontario company which promptly reduced, by more than half, the security services JSL had been providing. Around the same time, an internationally owned security company that had traditionally confined its operation to large urban centers began making incursions into the small events market in the Miramichi. JSL was in no position to compete with the rates the larger, more established firm could offer to its clients.
+[13] Thus it was that when the Appellant reported back to the bank in late March or early April 2002, the necessary financing was refused. The Appellant’s last-ditch efforts to secure new investors were equally unsuccessful. After consulting with Mr. Raper, the Appellant decided there was nothing for it but to shut down JSL.
+[14] The Appellant immediately found employment at a local funeral home and began working long hours to earn the money needed to pay off the personal debt he had incurred trying to salvage the company. While the company’s bank account remained open, it was not used for any purpose. After JSL ceased operations, a few cheques came in from late-paying clients; these, the Appellant passed on to Mr. Raper who, in turn, sent them directly to the CRA[4]. When letters from the CRA began arriving for JSL, the accumulated bundles of unopened mail were also forwarded to Mr. Raper for his attention.
+[15] When the Appellant told Mr. Raper of his decision to close the company, Mr. Raper, as was his practice, advised him that it would be prudent to resign his position as sole director. About a month later, when Mr. Raper discovered that the Appellant had not yet resigned and was at a loss as to how to go about it, he drafted the following letter:
+May 31, 2002
+To: Jardine Securty Ltd.
+Fr: Roy Walsh
+Delivered – Letter of resignation
+I am unable to continue as a director. This is my notice of resignation as a director.
+[Signature of Roy Walsh]
+Roy Walsh[5]
+[16] The Appellant went to Mr. Raper’s office and signed the letter in his presence. Mr. Raper told him to put the original in the JSL Minute Book. Although the Appellant had no memory of what he had actually done with the letter, his usual practice was to follow Mr. Raper’s instructions. In this case, however, he said he was unlikely to have done so because he had never had the Minute Book in his possession. His best guess was that he must have put the resignation letter with the company’s general business records which, at the request of the CRA, the Appellant had delivered to the official conducting the JSL payroll audit in the fall of 2002. These documents were never returned to the company. When he was unable to locate the original resignation letter, the Appellant concluded that it must have been with the other JSL documents turned over to the CRA.
+[17] Following the payroll audit, in December 2002, JSL was assessed for unremitted payroll deductions together with penalties and interest.
+[18] In February 2003, Lawrence Anderson, a CRA Collections Officer, called the Appellant to advise that he was responsible for paying the company’s source deductions[6]. This came as a shock to the Appellant who had believed that his obligations as a director ended when the company ceased operations. Although he told Mr. Anderson he would have his accountant get in touch with him, he did not, in fact, act on this promise immediately because he owed money to Mr. Raper for past services and had no funds to pay either him or the CRA. As it happened, around this same time he bumped into Mr. Raper who, upon learning of the Appellant’s new difficulties, undertook to help him notwithstanding his outstanding invoices. Thus it was that about a month later, on March 12, 2003, Mr. Raper (with the Appellant in his office) called Mr. Anderson to discuss the situation.
+[19] The next significant event occurred on May 14, 2004. Pursuant to paragraph 227.1(2)(a) of the Act, the Minister registered a Certificate of Registration[7] in the Federal Court of Canada for $75,503.11 representing JSL’s unremitted source deductions for 2001 and 2002. On December 15, 2004, a Writ of Seizure and Sale[8] was issued and sent to the New Brunswick Sheriff’s Office for execution. Whether the Writ was returned unsatisfied is in issue and is discussed below under the heading “Preliminary Matter”.
+[20] On February 2, 2005, the Appellant was assessed under section 227.1 for the company’s unremitted source deductions.
+1. Preliminary Matter
+[21] At the hearing, an issue arose as to whether the Minister was able to prove his compliance with paragraph 227.1(2)(a); namely, that a writ of execution had been returned unsatisfied:
+227.1(2) A director is not liable under subsection (1), unless
+(a) a certificate for the amount of the corporation's liability referred to in that subsection has been registered in the Federal Court under section 223 and execution for that amount has been returned unsatisfied in whole or in part;
+[Emphasis added.]
+[22] The matter came up during the examination of the CRA’s representative, Mr. Anderson. Counsel for the Respondent had just put in evidence copies of the section 223 Certificate[9] and the Writ of Seizure and Sale[10] (the “Writ”) that had been sent to for execution. Counsel then presented to Mr. Anderson a copy of a letter from the Sheriff’s Office dated January 24, 2005 advising that the Writ had been returned unsatisfied. At that point, counsel for the Appellant objected to the admission of the letter on the ground that it had not been included in the Respondent’s List of Documents and because it was hearsay. After a short break, counsel for the Respondent (who had not been counsel during the exchange of documents or examinations for discovery) confirmed that, contrary to his understanding, the Sheriff’s letter had not been listed among the Respondent’s documents.
+[23] This led to the further question as to whether, if the letter were excluded from evidence, the appeal ought to be allowed on the basis that a director is not liable under subsection 227.1(1) unless the Minister can establish that he has fulfilled the conditions of paragraph 227.1(2)(a). Counsel for the Appellant argued that whether the Writ had been returned unsatisfied lay exclusively within the knowledge of the Minister and the onus was upon him to prove his strict compliance with all the elements of paragraph 227.1(2)(a). The Minister’s failure to refer to the Sheriff’s letter in his List of Documents or to call a witness with personal knowledge that the Writ had been returned unsatisfied meant that the Minister was unable to do so; accordingly, the Appellant was not liable under subsection 227.1(1) and the assessment was not valid.
+[24] My first inclination was to admit the Sheriff’s letter. By the time of counsel’s objection to its admission, the Appellant himself had testified that “[t]here were no assets”[11] in the company. Until the Sheriff’s letter was presented to Mr. Anderson, neither counsel seemed to have realized that it had not been included in the Respondent’s List of Documents. Further, while there was no reference to the letter itself in the Reply to the Notice of Appeal, the assumption in paragraph 8(aa) stated that the execution of the Writ of Seizure and Sale was returned unsatisfied on January 24, 2005, the date of the Sheriff’s letter. Counsel for the Respondent pointed to certain representations made by counsel for the Appellant at the examination for discovery: on his reading of the transcript, he argued that counsel for the Appellant had indicated that his client did not take issue with assumption 8(aa). Finally, there was Mr. Anderson’s oral evidence that he had reviewed the CRA file and, in particular, the documents filed with the Federal Court. Mr. Anderson is an official with over 20 years experience with the CRA, most of it in Collections. Counsel for the Appellant did not challenge Mr. Anderson’s credibility. For my part, I found him to be a very reliable witness: he answered the questions put to him with the facts as he knew them; as will be seen from my review below of his testimony regarding the Appellant’s status as a director, he was not one to embellish his answers to bolster the Respondent’s case. When he did not know an answer or could not discern one from his colleagues’ diary notations, he candidly said so.
+[25] Notwithstanding the above, however, I ultimately decided that the letter ought to be excluded. There was no justification to deviate from the general rule of excluding from evidence documents not referred to in a party’s pleadings or list of documents[12]. While the Appellant’s testimony that JSL had no assets was consistent with the Minister’s assumption that the execution of the Writ of Seizure and Sale was returned unsatisfied, it is not proof that the Minister took the steps required of him under paragraph 227.1(2)(a)[13]. Paragraph 227.1(2)(a) requires nothing of the taxpayer; its focus is the action that must be taken by the Minister to trigger the taxpayer’s liability under subsection 227.1(1) and, in turn, his power to assess. As for the representations of counsel for the Appellant at examinations for discovery, I accept his interpretation of the portions of the discovery read in at the hearing[14]: that because his client had no knowledge of the facts assumed in paragraph 8(aa), he could not dispute them, but nor did he admit them. Finally, though a credible witness, Mr. Anderson’s involvement with the Appellant’s file ended long before the Writ of Seizure and Sale was sent for execution. His testimony that the Writ had been returned unsatisfied was based entirely on the information in the excluded letter[15]. Although counsel for the Respondent argued that hearsay went to weight rather than admissibility, Rip, J. (as he then was) reached a different conclusion in Gestions Rodney Cleary & Fils Ltée v. R.[16], one of the cases filed by the Respondent. In that case, C.J. Rip, compared the Minister’s use of hearsay evidence during the assessment process and at trial:
+I shall consider the hearsay objection first. There is no doubt that in making an assessment, officials of a taxing authority, such as the Canada Customs and Revenue Agency and the Ministère du Revenu du Québec rely on hearsay as well as direct evidence. An assessment is not bad simply because the assessor relied on hearsay evidence. The problem is that if the assessment is questioned in a court of law and the Minister has the onus of proving misrepresentation, for example, or where the onus of proof shifts to the Crown, the hearsay evidence gathered by the assessor cannot be used to defend the assessment; the ordinary rules of evidence prevail.6 The evidence of an employee of the CCRA, the Ministère du Revenu du Québec or any government department is subject to the same standards as the evidence of any other citizen. That the person may hold a particular office does not grant him or her the privilege of adducing inadequate evidence. A court cannot admit statements as proof of their truth or as proof of assertions implicit therein when such written or oral statements are made by persons otherwise than in testimony and in the proceeding in which it is offered.[17]
+[26] What, then, is the consequence of having excluded the Sheriff’s letter? Given the unexpected nature of the issue, counsel did not have (or request) the opportunity to make submissions based on a careful review of the legislation and jurisprudence, if any. However, in Worrell v. R.[18], a decision of the Federal Court of Appeal cited by the Appellant in respect of the due diligence issue, Evans, J.A. held:
+Whether directors have exercised due diligence to prevent [failures to remit] from occurring has both a legal and a factual aspect. As a matter of law, the liability of a director for unremitted source deductions and G.S.T. does not crystallise until the conditions prescribed in subsection 227.1(2) have been satisfied. Moreover, if the remittances are made in full, albeit late, the directors will not be liable for the company’s previous failure to remit.[19] [Emphasis added.]
+[27] The purpose of paragraph 227.1(2)(a) is to require the Minister to exhaust his remedies of recovery against the corporate taxpayer before permitting him the extraordinary remedy of assessing a third party, its director, for the company’s unremitted source deductions[20]. While subsection 227(10) provides that the Minister “… may at any time assess any amount payable under … section 227.1”, that otherwise broad power to assess is contingent upon the fulfillment of the conditions set out in paragraph 227.1(2)(a). In this way, paragraph 227.1(2)(a) is analogous to subparagraph 152(4)(a)(i) which, briefly stated, limits the Minister’s power to assess beyond the normal reassessment period to circumstances where the taxpayer’s actions amount to misrepresentation. While subparagraph 152(4)(a)(i) is silent as to onus and manner of proof, the jurisprudence has established that the imposition of conditions on the Minister’s power to assess has the effect of shifting the onus, which otherwise lies with the taxpayer, to the Minister and that the Minister’s burden of proof under that provision is a heavy one.
+[28] Similarly, the language of paragraph 227.1(2)(a) places the onus on the Minister but does not specify how he is to prove his compliance with its conditions. Thus, it is for the Court to decide whether the Minister has met his evidentiary burden. While I have some sympathy for counsel for the Respondent’s characterization of the omission of the Sheriff’s letter from the Respondent’s List of Documents as “an irregularity”, it seems to me that proof of the Minister’s fulfillment of the conditions in paragraph 227.1(2)(a) is so fundamental to his power to assess under subsection 227(10) that any doubt on that score must be resolved in favour of the taxpayer. Here, the Minister has produced no evidence to show that the execution of the Writ of Seizure and Sale was returned unsatisfied. Absent proof that the Minister has satisfied the requirements of paragraph 227.1(2)(a), no liability attaches under subsection 227.1(1) and the assessment upon which it was based cannot stand.
+[29] The appeal is allowed, with costs, and the assessment is vacated on the basis that the Minister has not proven that the execution of the Writ of Seizure and Sale was returned unsatisfied in whole or in part as required by paragraph 227.1(2)(a) of the Act.
+2. Was the Appellant a de jure or de facto director?
+[30] In the event I am in error on the Preliminary Matter, I have also considered the Appellant’s primary basis for his appeal; namely, that he was not a director of JSL at the relevant time under subsection 227.1(4) of the Act.
+A. Was the Appellant a de jure director?
+[31] For the reasons set out below, I am satisfied that the Appellant was not a de jure director of JSL because he resigned from that position on May 31, 2002.
+[32] The relevant portions of section 66 of the Business Corporations Act of New Brunswick provide that:
+66(1) A director of a corporation ceases to hold office when
+(a) he dies or resigns;
+…
+(2) A resignation of a director becomes effective at the time a written resignation is sent to the corporation, or at the time specified in the resignation, whichever is later.
+[33] The Crown’s position is that given the absence of the original of the resignation letter and the implausibility of its having gone astray when the company’s records were turned over to the CRA, the Appellant is not to be believed in his assertion that he signed a letter of resignation on or about May 31, 2002. On this point, counsel submitted:
+… if a letter of resignation had been in [the JSL documents delivered to the CRA payroll auditor], then it would have been brought to the attention of the CRA. The fact that nobody there ever found it is why we are here today, and I would suggest that is evidence in itself that the letter never made it to the company’s books and records.[21]
+[34] The first weakness of this argument is that it is premised upon the infallibility of the document management processes of a large government agency. In its characterization of the letter not having been “found”, counsel’s argument also presupposes that someone at the CRA was actually looking for it. I am unable to embrace either of these hypotheses. The JSL payroll audit was a different beast entirely from the Appellant’s personal assessment for the company’s unremitted source deductions. Various CRA officials were involved with their files from the time JSL first fell behind in its remittances to the moment of the Appellant’s personal assessment in February 2005. In these circumstances, there is no reason to conclude that the records from one file would necessarily make their way to the other. Thus, the Appellant’s conclusion that the letter must have gone astray along with the other JSL records turned over to the CRA is plausible and, in any event, more likely than the thesis proposed by the Respondent.
+[35] Further, while counsel for the Respondent invited the Court to draw the inference that the letter did not exist because it could not now be found, he did not directly challenge the credibility of the Appellant or Mr. Raper. The Appellant’s candid admission that he had no memory of what he had done with the letter had the ring of truth. He did not strike me as one with a penchant for filing documents, even under ideal conditions[22]. As it was, he had been living for several months with the stress of keeping a sinking business afloat; when he signed the resignation letter, he had just taken the difficult decision to close JSL. When Mr. Raper suggested he resign his directorship, the Appellant felt, quite understandably, the layman’s unease with the notion of writing a letter to himself to say he had resigned. That unease led to procrastination, ended only by Mr. Raper’s offer to draft the letter for him and insistence on getting it signed. Although Mr. Raper did not specifically remember the events of May 31, 2002, he testified that it was his practice to record, for billing purposes, the client’s name and the time spent in his daytimer. The Appellant put in evidence a copy of Mr. Raper’s daytimer[23] showing a meeting with the Appellant of 15 minutes’ duration on May 31, 2002. This document was not challenged on cross‑examination.
+[36] The Appellant said it was normally his practice to follow Mr. Raper’s advice, evidence that is consistent with his having acted on Mr. Raper’s suggestions for improving the company’s financial outlook. One exception, however, was his handling of the resignation letter. Because he had never had the company’s Minute Book in his possession, it would make sense for the Appellant simply to put the letter with the company’s other records in the home business office, especially since, by that time, the company itself was defunct. In these circumstances, the Appellant would have been less credible if he had insisted that he had a clear memory of placing the letter neatly in the Minute Book as instructed.
+[37] The second prong of the Crown’s argument is that, even if the Appellant signed the letter, that does not amount to a written resignation having been “sent to the corporation” as contemplated by subsection 66(2) of the New Brunswick Business Corporations Act. While acknowledging the practical difficulties of resigning as a director of a solely owned corporation, counsel for the Respondent argued that a director must do something more than “resign in his own mind”[24]. In my view, this characterization of the Appellant’s actions does not accurately describe what he, in fact, did.
+[38] There is no statutory requirement in the New Brunswick Business Corporations Act that, to be effective, the written resignation must be placed in the company’s Minute Book. The key to provisions like subsection 66(2) is that there be “meaningful communication with the corporation”[25] of a director’s decision to resign.
+[39] In Perricelli v. R.[26], even though the relevant provincial legislation contemplated a written resignation, the Court held on the facts of that case that a director had effectively resigned when he announced his intentions to the two remaining directors:
+I am satisfied Mr. Perricelli resigned in the summer of 1990. He did so when the three directors and shareholders were all together. It is a matter of whether this resignation was effective in accordance with the laws of Ontario. Did any one of the three men utter the words: “Notice of this meeting is waived?” Unlikely. Did Mr. Cuthbert and Mr. Lishman say: “We accept Mr. Perricelli’s resignation and hereby elect the two of us as ongoing directors?” Again, unlikely. But did all three leave the meeting with an understanding that Mr. Perricelli would no longer serve in his capacity as director? Absolutely.[27]
+[40] The facts in the present case are even more compelling. Here, there was a written resignation signed by the company’s only director in the presence of the corroborating witness who had drafted it. The letter was then taken to the company’s business office.
+[41] In these circumstances, I am satisfied that there was “meaningful communication” to JSL of the Appellant’s resignation effective May 31, 2002; thus, the Appellant ceased to be a de jure director as of that date.
+B. Was the Appellant a de facto director of JSL?
+[42] The Respondent’s alternative position is that, even if the Appellant’s resignation was effective, he remained a de facto director of JSL and as such, is liable for the company’s unremitted source deductions.[28] While acknowledging that there had not been much for the Appellant to do once the company ceased operations, counsel for the Respondent argued that the little he had done warranted a finding that he remained in control of JSL. Counsel relied, in particular, on the Appellant’s having forwarded JSL cheques and correspondence to Mr. Raper and having authorized him to carry on discussions with CRA officials. Counsel submitted that the Appellant’s actions went beyond mere holding out, as in Hartrell v. R.[29]; here, the Appellant actually maintained control of JSL at all times relevant to this appeal.
+[43] In my view, the Appellant’s actions do not support such a conclusion. It must be remembered that although the Appellant resigned as a director on May 31, 2002, he continued to be a shareholder of JSL and had to comply with the CRA’s request for company’s records. As a practical matter, JSL’s mail was being sent to the Appellant’s home only because its business office had had to be relocated there when JSL began to encounter financial difficulties; but for this, given the Appellant’s lack of involvement after May 31, 2002, he might not even have been aware of the correspondence. Had the Appellant been acting as a director, it would have made sense for him to deposit the cheques in the company’s bank account which remained open. Instead, he simply passed them on to the company’s accountant for his attention, along with any letters to the company from the CRA which had accumulated.
+[44] The Appellant did much less than the taxpayers in Netupsky v. R.[30] or Scavuzzo v. R.[31]. In Netupsky, the appellant was held not to be a de facto director, even though after his resignation, he had signed a series of detailed letters to third parties and taken out a bank loan on behalf of the corporation. In Scavuzzo, Bowman, C.J. distinguished between actions taken by the appellant in his role as general manager from those in his capacity as director of the company to find that, even though the appellant had signed “many contracts”[32] on its behalf after his resignation, he was not a de facto director of the corporation. In the present case, Mr. Anderson confirmed on cross-examination that the CRA had no documentation signed by the Appellant on behalf of JSL after he resigned on May 31, 2002.
+[45] As for the discussions between the Appellant and/or Mr. Raper and CRA officials after May 31, 2002, Mr. Raper was acting for both JSL and the Appellant in his personal capacity. Further muddying the waters was the fact that the CRA also had active files for both taxpayers: JSL’s payroll audit assessment and the Appellant’s director’s liability assessment. As often happens with solely owned corporations, a clear distinction was not always maintained between the company and its directing mind. Even the CRA officials seem to have had problems keeping the players straight: their notes reveal that, at times, it was difficult to determine what was being discussed with whom on whose behalf. For example, although the heading of Mr. Anderson’s diary entries[33] is shown as “Jardine Security Ltd.”, he testified that, in his mind, the “client” referred to in those notes was the Appellant personally.
+[46] Much of the confusion seems to have arisen from the fact that, for reasons unknown, no change of directors was ever filed for JSL with the New Brunswick corporate registry. Mr. Anderson’s evidence was that, by the time of the payroll audit in September 2003, the CRA official who took over the file, Phyllis Koval, had discovered that the former owner, Douglas Jardine, was shown, incorrectly, as the director of JSL in the New Brunswick corporate registry. Based on her notes, Mr. Anderson confirmed that one “Trinda Blackmore”, described in the notes as the “accountant for Mr. Jardine’s business”[34], had told Ms. Koval that Douglas Jardine had ceased to be a director when the company was sold[35]. While there is no clear evidence of Trinda Blackmore’s identity or role in these matters, Mr. Anderson’s understanding was that she was affiliated with Grant Thornton, the same accounting firm as Mr. Raper. More importantly, however, there is nothing in Ms. Koval’s notes to show that either the Appellant or Mr. Raper were ever involved in these discussions or asked about the Appellant’s status. Mr. Anderson testified that he never raised the matter of the directorship with the Appellant or Mr. Raper because what he was interested in was that JSL had ceased operations. While he could not remember if the Appellant had ever identified himself as a director, Mr. Anderson added that as a CRA official, he has “… never had, in 20 years, anybody that named themselves as director of the company.”[36] Thus, the description in Mr. Anderson’s notes of the Appellant as the “director of this non-operating business [JSL]”[37] was based on his own assumption rather than information received from the Appellant or Mr. Raper.
+[47] Both the Appellant and Mr. Raper testified that he had never advised the Appellant not to disclose that he had resigned as the director of JSL. On the evidence presented, it seems that no one from the CRA ever sought confirmation of this fact from the Appellant or his representative. The CRA notes are not precise enough to conclude that the Appellant was a de facto director of JSL, as counsel for the Respondent urged me to do, simply because someone, (apparently) an accountant, at Grant Thornton acting for Mr. Jardine, undertook to remove Mr. Jardine’s name from the New Brunswick corporate registry, after the Appellant had resigned and when the CRA was discussing his potential tax liability.
+[48] As mentioned above, subsection 227(10) authorizes the Minister to assess “at any time”. He may do so on assumed facts. On Mr. Anderson’s interpretation of Ms. Koval’s notes, as early as the fall of 2003, the CRA was aware that Mr. Jardine was not a director of JSL and was, at the very least, forming the view that the Appellant might be. For reasons known only to the Minister, rather than acting on his officials’ assumptions, he chose to wait to assess the Appellant until February 2, 2005. The upshot is that his right to recover the amounts assessed under subsection 227.1(1) is now barred by subsection 227.1(4) of the Act.
+[49] For the reasons set out above, the appeal is allowed, with costs, and the assessment is vacated on the basis that the Appellant ceased to be either a de jure or de facto director of Jardine Security Ltd. on May 31, 2002.
+3. Did the Appellant exercise due diligence?
+[50] In view of my conclusions above, it is not necessary for me to consider the issue of whether the Appellant exercised due diligence under subsection 227.1(3) of the Act.
+Signed at Ottawa, Canada, this 4th day of November, 2009.
+“G. A. Sheridan”
+Sheridan J.
+CITATION: 2009TCC557
+COURT FILE NO.: 2006-3312(IT)G
+STYLE OF CAUSE: ROY WALSH AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Fredericton, New Brunswick
+DATE OF HEARING: May 1, 2009
+REASONS FOR JUDGMENT BY: The Honourable Justice G. A. Sheridan
+DATE OF JUDGMENT: November 4, 2009
+APPEARANCES:
+Counsel for the Appellant:
+D. Andrew Rouse
+Counsel for the Respondent:
+David Besler
+COUNSEL OF RECORD:
+For the Appellant:
+Name: D. Andrew Rouse
+Firm: Mockler Peters Oley Rouse
+Fredericton, New Brunswick
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Exhibit A-1, Tabs 2 and 3.
+[2] Exhibit A-1, Tab 3.
+[3] Transcript, page 53, lines 1-2.
+[4] Exhibit A-1, Tabs 6 and 7.
+[5] Exhibit A-1, Tab 5.
+[6] Exhibit R-4.
+[7] Exhibit R-1 and as amended, Exhibit R-2.
+[8] Exhibit R-3.
+[9] Exhibit R-1 and R-2.
+[10] Exhibit R-3.
+[11] Transcript, page 73, line 21.
+[12] Tax Court of Canada Rules (General Procedure), subsection 89(1); Scavuzzo v. R., [2006] 2 C.T.C. 2429, (T.C.C.).
+[13] I note, as well, that although the Appellant pleaded at paragraph 2 of the Notice of Appeal that JSL was “insolvent” when it ceased operations, this allegation was denied by the Minister through the combined operation of paragraphs 2 and 6 of the Reply to the Notice of Appeal.
+[14] Transcript, page 106, lines 20-25, to page 110, lines 1-15, inclusive.
+[15] Transcript, page 91, lines 9-18, inclusive.
+[16] [2005] 5 C.T.C. 2007. (T.C.C.).
+[17] Above, at paragraph 22. In reaching his decision, Rip, J. also considered certain provisions of the Canada Evidence Act; that legislation was not raised by counsel in their submissions.
+[18] [2001] 1 C.T.C 79. (F.C.A.).
+[19] Above, at paragraph 74.
+[20] Consistent with this is subsection 227.1(5) which limits the amount of the taxpayer’s liability under paragraph 227.1(2)(a) to “the amount … remaining unsatisfied after execution”.
+[21] Transcript, page 164, lines 17-24.
+[22] And, as this case has shown, even lawyers lose track of documents.
+[23] Exhibit A-1, Tab 4.
+[24] Transcript, page 165, line 4.
+[25] Hart v. Lefebvre, (1991), 2 B.L.R. (3d) 84 at paragraph 5. (Ont. S.C.J., December 1, 1999).
+[26] [2002] G.S.T.C. 71. (T.C.C.).
+[27] Above, at paragraph 32.
+[28] Wheeliker v. R., [1999] 2 C.T.C. 395. (F.C.A.); McDougall v. R., [2001] 1 C.T.C 2283. (T.C.C.).
+[29] [2007] 1 C.T.C. 2109. (T.C.C.).
+[30] [2003] G.S.T.C. 15. (T.C.C.).
+[31] Above.
+[32] At paragraph 25.
+[33] Exhibit R-4.
+[34] Transcript, page 123, lines 23-24.
+[35] From which I infer that, at some point, the CRA had been looking to Mr. Jardine for payment of the outstanding source deductions.
+[36] Transcript, page 115, lines 6-7.
+[37] Exhibit R-4.

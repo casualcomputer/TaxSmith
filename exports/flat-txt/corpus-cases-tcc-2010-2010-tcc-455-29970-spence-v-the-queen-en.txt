@@ -1,0 +1,224 @@
+Title: Spence v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29970/index.do
+Corpus path: corpus/cases/tcc/2010/2010-tcc-455-29970-spence-v-the-queen-en.md
+Document type: case_law
+Last modified: 2010-09-01
+
+# Spence v. The Queen
+
+- Citation: 2010 TCC 455
+- Decision date: 2010-09-01
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6454, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Spence v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-09-01
+Neutral citation
+2010 TCC 455
+File numbers
+2008-2505(IT)G
+Judges and Taxing Officers
+Réal Favreau
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2008-2505(IT)G
+BETWEEN:
+CARROLL A. SPENCE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on common evidence with the appeals of
+David John Ratcliffe (2008-2508(IT)G))
+on October 15 and 16, 2009, at London, Ontario.
+Before: The Honourable Justice Réal Favreau
+Appearances:
+Counsel for the Appellant:
+David Thompson
+Counsel for the Respondent:
+Charles Camirand
+____________________________________________________________________
+JUDGMENT
+The appeals from the reassessments under the Income Tax Act dated November 6, 2006 for the 2003, 2004 and 2005 taxation years of the Appellant are allowed, with costs, and the reassessments are referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached reasons for judgment.
+Signed at Ottawa, Canada, this 1st day of September 2010.
+"Réal Favreau"
+Favreau J.
+Docket: 2008-2508(IT)G
+BETWEEN:
+DAVID JOHN RATCLIFFE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on common evidence with the appeals of
+Caroll A. Spence (2008-2505(IT)G))
+on October 15 and 16, 2009, at London, Ontario.
+Before: The Honourable Justice Réal Favreau
+Appearances:
+Counsel for the Appellant:
+David Thompson
+Counsel for the Respondent:
+Charles Camirand
+____________________________________________________________________
+JUDGMENT
+The appeals from the reassessments under the Income Tax Act dated November 6, 2006 for the 2003, 2004 and 2005 taxation years of the Appellant are allowed, with costs, and the reassessments are referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached reasons for judgment.
+Signed at Ottawa, Canada, this 1st day of September 2010.
+"Réal Favreau"
+Favreau J.
+Citation: 2010 TCC 455
+Date: 20100901
+Dockets: 2008-2505(IT)G
+2008-2508(IT)G
+BETWEEN:
+CARROLL A. SPENCE,
+DAVID JOHN RATCLIFFE,
+Appellants,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Favreau J.
+[1] These appeals are from reassessments under the Income Tax Act, R.S.C. 1985 (5th Supp.), c. 1 , as amended (the “Act”), dated November 6, 2006 for the 2003, 2004 and 2005 taxation years of the Appellants.
+[2] These appeals were heard on common evidence. The parties to the appeals agreed to file in Court the following Agreed Statement of Facts:
+1. during the years 2003, 2004 and 2005, the Appellants were employed as teachers for The Montessori House of Children located in London, Ontario (“the School”);
+2. the School serves approximately 400 children and their families annually, with the support of over 70 full and part time faculty and staff. The School’s central location houses all program levels from Toddler to Junior High and two satellite locations, Westmount South and Whitehills North, have additional preschool programs.
+3. during the years 2003, 2004 and 2005, the respective children of the Appellants were enrolled at the School;
+4. the Appellants are unrelated to each other and each deals at arm’s length with the School;
+5. the Appellants are not shareholders of, and do not otherwise have an ownership interest in, the School;
+6. the School granted a 50% discount on the tuition fees paid by all employees of the School, including the Appellants, for the enrollment of children of the employees, including the Appellants’ children, at the School;
+7. the Appellants enjoyed the substantial benefits of reduced tuition fees by reason of their employment;
+8. [t]he School enjoyed substantial benefits from having the Appellant’s [sic] children attend the School, such attendance benefitting the School’s recruitment of prospective students and retention of existing students;
+9. the School calculated the amount of the benefits enjoyed by the Appellants as the difference between the discounted price charged by the School to the Appellants and the cost of providing education at the School as calculated by the School;
+10. the amount of the benefits enjoyed by the Appellants as calculated by the School was included in the income of the Appellants on the T‑4 information returns prepared by the School, and was reported by the Appellants in their incomes for the 2003, 2004 and 2005 taxation years;
+11. the amount of the cost of providing education at the School as calculated by the School is the correct determination of that cost;
+12. the Minister reassessed the Appellants to increase the amount of the taxable benefit to the full amount of the discount (50% of the tuition charged to non‑employees)[;]
+13. The amounts of the standard tuition, the discount granted, the benefit reported and the adjustment to taxable benefit as reassessed in respect of the Appellants are the following:
+Carroll A. Spence
+2003
+2004
+2005
+Standard tuition
+$9,400
+$9,800
+$5,250
+Discount granted
+$4,700
+$4,900
+$2,625
+Employment Benefit reported
+$2,772
+$2,654
+$1,023
+Adjustment to taxable benefit
+$1,928
+$2,246
+$1,602
+David John Ratcliffe
+2003
+2004
+2005
+Standard tuition
+$9,400
+$9,800
+$10,050
+Discount granted
+$4,700
+$4,900
+$5,025
+Employment benefit reported
+$2,772
+$2,654
+$2,271
+Adjustment to taxable benefit
+$1,928
+$2,246
+$2,754
+14. The Fair Market Value of the discount, if determined by reference to the tuition which would be paid in respect of a child whose parent was not employed by the School is equal to the full amount of the discount.
+[3] The main issue in these appeals concerns the valuation of employment benefits. Since it has been recognized by the Appellants that the 50% discount on the tuition fees for their children constitutes a benefit and that that benefit is taxable, the only issue is the quantification of that benefit. Should the value of the benefit be:
+­ the fair market value (“FMV”) of the discount; or
+­ the difference between the cost to the School and the price paid by the Appellants?
+[4] As a general rule, any material acquisition that is attributable to employment and that confers an economic benefit on a taxpayer falls within paragraph 6(1)(a) of the Act. An employment benefit is taxable whether it is monetary or non‑monetary in nature. The discount on tuition fees at issue herein is taxable under paragraph 6(1)(a) of the Act, which reads as follows:
+6(1) Amounts to be included as income from office or employment -- There shall be included in computing the income of a taxpayer for a taxation year as income from an office or employment such of the following amounts as are applicable:
+(a) Value of benefits -- the value of board, lodging and other benefits of any kind whatever received or enjoyed by the taxpayer in the year in respect of, in the course of, or by virtue of an office or employment, except any benefit . . .
+[5] Paragraph 6(1)(a) of the Act refers to the “value” of the benefit rather than to its “fair market value”. In the French version of the Act, the term “valeur” is used, which has the same meaning as the term “value”. In Steen v. The Queen, 86 DTC 6498, Justice Rouleau of the Federal Court Trial Division examined extensively whether the term “value” had a different meaning than “fair market value” and concluded that such was not the case in the context of an employee benefit arising from a stock option plan (at page 6503):
+The plaintiff argued before me that because the word “value” is used in paragraph 7(1)(a) rather than the term “fair market value”, which is used in several other provisions of the Act, some difference in meaning was intended by the legislators. However, for most purposes concerning provisions of the Act the term value has been held to mean “market value” or “fair market value”. . . .
+That decision was affirmed by the Federal Court of Appeal, 88 DTC 6171.
+[6] In Interpretation Bulletin IT‑470R (Consolidated) — Employees’ Fringe Benefits, the Canada Revenue Agency (“CRA”) states that it will take the fair market value approach to the valuation of employment benefits in the form of discounts on tuition:
+20. Where an educational institution which charges tuition fees provides tuition free of charge or at a reduced amount to an employee of the institution, or to the spouse or children of the employee, the fair market value of the benefit will be included in the employee’s income.
+[7] While the courts generally support the fair market value approach, they have also taken into account certain other factors in order to discount the fair market value of the benefit. These factors include the following:
+- the lack/loss of quiet enjoyment of the benefit by the employee (Mommersteeg et al. v. The Queen, 96 DTC 1011 (T.C.C.); Adler et al. v. The Queen, 2007 DTC 783 (T.C.C.); Rachfalowski v. The Queen, 2008 DTC 3626 (T.C.C.); Philp v. M.N.R., [1970] C.T.C. 330 (Ex. Ct.));
+- the loss of privacy (Schutz et al. v. The Queen, 2009 DTC 19 (T.C.C.); and
+- the lack of a retail market for the benefit (Wisla v. The Queen, 2000 DTC 3563 (T.C.C.).
+[8] In employment benefit case law, the fact that the employer also receives a benefit is not generally a factor used for discounting the value to the employee. By contrast, when it comes to shareholder benefits in subsection 15(1) of the Act, the expression “amount or value” is used with regard to the determination of the benefit to be included in the shareholder’s income, and the courts have a tendency to calculate the amount or value of the benefit by reference to the return on the amount the corporation paid (Gillis v. The Queen, 2006 DTC 2093 (T.C.C.); Jarjoura v. R., [2009] 1 C.T.C. 2420 (T.C.C.) and Youngman v. The Queen, 90 DTC 6322 (F.C.A.)).
+[9] In certain cases, the courts have concluded that a benefit is not to be included in an employee’s income if the benefit is conferred primarily to meet a need of the employer or for the employer's convenience (Rachfalowski, cited above). In such circumstances, the benefit to the employee is merely incidental or ancillary to the convenience for the employer.
+[10] On occasion, the courts have departed from the FMV approach and have used the cost saving approach, which looks at the cost that the employee would have incurred if he had had to purchase a comparable benefit (Schroter et al. v. The Queen, 2009 DTC 205 (T.C.C.) and McGoldrick v. The Queen, 2004 DTC 6407 (F.C.A., obiter dictum). Another approach used by the courts to evaluate a benefit is the cost approach, which is the approach suggested by the Appellants and which consists in valuing the benefit at its cost to the employer. This method was used by this Court in Detchon v. R., 1995 CarswellNat 958, [1996] 1 C.T.C. 2475, Stauffer v. R., [2002] 4 C.T.C. 2608 and Dunlap v. The Queen, 98 DTC 2053, and by the Exchequer Court in Waffle v. M.N.R., 69 DTC 5007.
+[11] It is acknowledged by the parties that there is no statutory provision setting out how a benefit is to be calculated and that the employment benefit case law is far from being consistent. Generally, the courts have used the FMV approach, sometimes applying a discount, and occasionally they have used the cost approach. Where an employer has to pay an amount to a third party with whom that employer is dealing at arm’s length, there is no disparity between the cost to the employer and the FMV.
+[12] Another issue is whether or not the shareholder benefit case law is applicable for the purpose of calculating an employment benefit considering the fact that the legislation dealing with employment benefits refers only to the “value” of the benefit while the shareholder benefit legislation provides that the “amount or value” of the benefit is to be included in the shareholder’s income.
+[13] Ms. Margaret Whitley, Director of the School, testified. She briefly explained the origin of the Montessori education system and what makes it so unique. She also provided information concerning the education programs followed, the specialized materials used, the mandatory training received by the teachers, the recruitment of students and the competition faced by the School in the London area. The School is one of the largest Montessori schools in Canada with 370 students (full-time and part-time) and 45 teachers. The School has no religious affiliation and no charitable status and does not receive government funding.
+[14] Ms. Whitley also explained that the teachers have a formal employment contract with the School and that they are aware of the School’s policy of reduced tuition fees for the children of staff. Ms. Whitley further stated that the teachers are not required to enrol their children at the School. However, the reduced tuition fee is an incentive for them to do so because it would not be good for the image of the School and for the recruitment of students if teachers’ school-age children attended public or other schools.
+[15] According to Ms. Whitley, most of the teachers who have children aged from 2 to 6 years enrol them at the School, but 20% of them can no longer afford to do so when their children reach 7 years of age. At any given time, only 50% of the teachers are able to keep their children in the School, and teachers’ children always represent less than 10% of all students.
+[16] Finally, Ms. Whitley confirmed that the salary paid the School's teachers represents about half the salary of teachers in the public system and that no additional salary is paid to teachers who do not have children at the School.
+[17] Dr. Roger More of Roger More and Associates testified as an expert witness. He described the factors considered by parents in choosing a school for their children, namely: location, distance, cost, and the experiences of other parents, relations, friends or colleagues. He considered that the risk of rejection is higher at the School due to its education program. Parents are concerned about how their children will adapt when, at the end of the program, they go to college and face tests and exams. According to him, it is very important for the School that teachers enrol their children at the School. For certain parents, the fact that children of teachers do not attend the School is an important factor in their rejection of the School. No supporting statistics or data were provided with regard to the importance of that factor.
+[18] Both Appellants testified. Carroll Spence stated that she has been teaching at the School for 16 years. In addition to her normal teaching responsibilities, she was also responsible for the parents’ education sessions and she was involved as well in the sessions for parents of prospective students. She stated that she is often asked by such parents if her own children are enrolled at the School. David Ratcliffe explained that his son was enrolled at Casa Little and that the cost was equivalent to what he would normally be charged for daycare but the education program was much better.
+The Detchon Decision
+[19] A review of the Detchon decision is required because its facts are very similar to those in the case at bar and because the cost approach was accepted therein for the purpose of determining the value of the benefit received by teachers in the form of free tuition fees for their children. The Detchon decision was rendered in 1995 by Judge Rip (now Chief Justice of this Court). Detchon was a general procedure case.
+[20] In Detchon, the appellants were teachers at Bishop’s College School (“BCS”), a private school in Quebec and a registered charity. BCS had a policy of encouraging the teachers’ school-age children to attend BCS free of charge. The teachers at BCS had certain obligations; among these were living on campus, attending chapel every morning, coaching sports and being available 24 hours a day, seven days a week. Salaries paid to the teachers were not dependent on whether their children were attending BCS. The children of BCS staff were fully integrated into the school’s general population. They attended the same classes and followed the same program as paying students. During 1985 and 1986, there were 14 or 15 children of BCS staff who attended the school out of a total of approximately 300 students, of which 240 were boarders and 60 were day students.
+[21] In Detchon, the appeals were allowed and the assessments referred back to the Minister of National Revenue for reassessment on the basis that the value of the benefit was the lower of the average cost per student to BCS for each year and the value actually assessed.
+[22] The following extracts from Judge Rip’s decision are helpful in understanding his rationale:
+49 It is quite a stretch to consider that only BCS obtains a benefit when its teachers’ children attend the school. While it may be useful for its purposes to have its teachers’ children attend BCS, it is no less an advantage for the employees of BCS to avail their children of a product that demands a good amount of money in the education marketplace.
+. . .
+51 I agree with Me Lefebvre that the free tuition was a benefit for purposes of paragraph 6(1)(a). The free tuition represented something of value in a material or economic sense to the appellants. . . .
+. . .
+53 I do not agree with the appellants’ counsel that the value of the benefit is the additional or incremental cost to BCS of having the appellants’ children attend the school. . . .
+54 I do not agree with Me Gauthier that the value of the benefit is the cost of obtaining education elsewhere in Quebec. . . .
+. . .
+57 There is no obligation for an employer to charge its employees for a good or service any more than its actual costs of the good or service. The employer need not add any profit element and indirect overhead costs to any good or service it provides to its employees: ABC Steel Buildings Ltd. v. Minister of National Revenue, [1974] C.T.C. 2176, 74 D.T.C. 1124 (T.R.B.). . . .
+[23] The Respondent’s counsel argued that this Court is not bound by the Detchon decision because it is based on a decision of the Tax Review Board (ABC Steel Buildings Ltd. v. Minister of National Revenue, 1974 CarswellNat 284, [1974] C.T.C. 2076, 74 DTC 1124) dealing with shareholder benefits taxed under subsection 8(1) of the Act (now subsection 15(1)).
+[24] The facts of the ABC Steel Buildings case are summarized in paragraph 2 of the decision:
+2 Thomas P. Murphy (hereinafter referred to as “Murphy”) was the controlling shareholder of ABC Steel Buildings Limited (“ABC”). Prior to November 11, 1968 Murphy owned a building which housed a steel fabrication plant in the village of Bolton, Ontario and carried on the business of fabrication and erection of steel buildings as a sole proprietorship under the names of “Amalgamated Building Company” and “ABCO Steel”. On April 1, 1964 Murphy caused ABC to be incorporated and transferred the said business to his new company; however he retained ownership of the land and buildings which he rented to ABC. During ABC’s 1968 and 1969 fiscal years, Murphy caused an extension to be made to his building and plant comprising an outdoor crane, a plate shop (an extension to the structural shop) and a small joist shop. The assessments levied by the respondent against ABC were based on the assumption that Murphy who, as I just mentioned, held title to the land and buildings, had not fully reimbursed ABC for all costs incurred by it on account of the said extensions and that a taxable benefit had therefore been conferred on Murphy . . . .
+[25] The evidence in ABC Steel Buildings was that, because of the use of steel obtained at salvage cost and because nothing was charged for indirect overhead or profit, the appellants were able to build the extensions for about one-third of what a customer would have had to pay.
+[26] Mr. Frost of the Tax Review Board made the following statement in paragraph 14:
+. . . If a taxpayer is able to save money through his own efforts or the instrumentality of a company he controls, he should not be taxed on an imputed benefit which is the result of his personal efforts to limit his expenses to the actual costs incurred. . . .
+[27] Counsel for the Appellants argued that the Detchon decision is good law because it was not appealed and that this Court is for all practical purposes bound to follow it. He referred to the following decisions in which the courts were bound by the stare decisis rule: Stuart v. Bank of Montreal (1909), 41 S.C.R. 516; Bernier Estate v. M.N.R., 90 DTC 1220 (T.C.C.); Heath et al. v. The Queen, 90 DTC 6009 (B.C.S.C.); The Queen v. Farm World Equipment Ltd. et al., 97 DTC 5360 (S.C.Q.B.); Mourtzis v. The Queen, 94 DTC 1362 (T.C.C.).
+[28] Upon reading the decisions referred to in the preceding paragraph, it seems clear to me from Judge Rip's pronouncement in Detchon, that the valuation of the benefit at the average cost per student was an appropriate method of valuation, was not in the nature of an obiter dictum but was a significant, if not primary, element in the ratio decidendi of the case.
+[29] Our courts have on many occasions recognized that a judge is not legally bound under the principle of stare decisis to follow a decision of another member of the same court, but such a decision should be followed in the absence of strong reason not to do so. No such strong reason for not following the Detchon decision has been identified. No subsequent decisions have affected the validity of that decision and it has not been demonstrated that there was a failure therein to consider some binding decision or relevant statute.
+[30] In the interest of justice, I feel constrained to follow and uphold the decision of Judge Rip and the matter of the appropriate valuation method must be left for a higher court to decide.
+[31] In the absence of such a decision, I would dismiss the appeals and decide the matter as proposed by counsel for the Respondent considering the fact that the reduced tuition represented a substantial benefit and was fully integrated into the remuneration package of the teachers. The teachers accepted a lower salary in exchange for a greater fringe benefit.
+[32] I do not think that the shareholder benefit case law should be completely disregarded for the purpose of determining the value of an employment benefit, but a certain degree of caution is required as the benefits to be valued are different. The term "amount", which is the distinctive element as regards shareholder benefits is defined in subsection 248(1) of the Act as meaning "rights or things expressed in terms of the amount of money or the value in terms of money of the right or thing". The term "amount" refers to anything expressed in terms of money. For that reason, the expression "amount or value" as used in subsection 15(1) would seem to be broader in scope.
+[33] For the foregoing reasons, the appeals are allowed, with costs, and the reassessments are referred back to the Minister of National Revenue for reconsideration and reassessment.
+Signed at Ottawa, Canada, this 1st day of September 2010.
+"Réal Favreau"
+Favreau J.
+CITATION: 2010 TCC 455
+COURT FILE NOS.: 2008-2505(IT)G
+2008-2508(IT)G
+STYLE OF CAUSE: Carroll A. Spence v. HMQ
+David John Ratcliffe v. HMQ
+PLACE OF HEARING: London, Ontario
+DATES OF HEARING: October 15 and 16, 2009
+REASONS FOR JUDGMENT BY: The Honourable Justice Réal Favreau
+DATE OF JUDGMENT: September 1, 2010
+APPEARANCES:
+Counsel for the Appellant:
+David Thompson
+Counsel for the Respondent:
+Charles Camirand
+COUNSEL OF RECORD:
+For the Appellant:
+Name: David Thompson
+Firm: Advocates LLP
+London, Ontario
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada

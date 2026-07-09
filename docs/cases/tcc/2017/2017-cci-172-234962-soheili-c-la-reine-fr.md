@@ -1,0 +1,143 @@
+---
+title: "Soheili c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/234962/index.do"
+last_modified: "2017-09-07"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2017 CCI 172"
+citation2: ""
+neutral_citation: "2017 CCI 172"
+decision_date: "2017-09-07"
+language: "fr"
+item_id: "234962"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2197
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T17:23:03.134000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "ddaf40177c60da58e61dbe1e9d4b88ad9106321504ea5ec7dd2813e6209dd632"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Soheili c. La Reine
+
+- Citation: 2017 CCI 172
+- Decision date: 2017-09-07
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2197, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Soheili c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2017-09-07
+Référence neutre
+2017 CCI 172
+Numéro de dossier
+2016-255(IT)I
+Juges et Officiers taxateurs
+Campbell J. Miller
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2016-255(IT)I
+ENTRE :
+SHAHIN SOHEILI,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 29 août 2017, à Vancouver (Colombie-Britannique).
+Devant : L’honorable juge Campbell J. Miller
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocates de l’intimée :
+Mes Shannon Fenrich et Sheida Rezapour
+JUGEMENT
+L’appel interjeté à l’encontre de la nouvelle cotisation établie au titre de la Loi de l’impôt sur le revenu à l’égard des années d’imposition 2010 et 2011 est rejeté.
+Signé à Ottawa, Canada, ce 7e jour de septembre 2017.
+« Campbell J. Miller »
+Juge C. Miller
+Référence : 2017 CCI 172
+Date : 20170907
+Dossier : 2016-255(IT)I
+ENTRE :
+SHAHIN SOHEILI,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge C. Miller
+[1] M. Soheili interjette appel à l’encontre de la nouvelle cotisation établie par le ministre du Revenu national (le « ministre ») à l’égard de ses années d’imposition 2010 et 2011, dans laquelle le ministre a refusé qu’il reporte sa perte commerciale de 2009, soit 29 520 $ en 2010, et 5 520 $, en 2011. L’Agence du revenu du Canada (l’« ARC ») a initialement refusé qu’une perte commerciale de 35 740 $ soit reportée à 2010, mais, après vérification, elle a accepté qu’une perte commerciale de 6 120 $ soit reportée de 2009 à 2010. Il est indiqué dans la réponse du ministre que cette acceptation est une erreur. La perte découle de la disposition d’une propriété résidentielle, qui, selon le ministre, a été construite en tant que résidence principale de M. Soheili et ne peut donc faire l’objet d’aucune perte commerciale. M. Soheili soutient que la propriété devait initialement servir de résidence familiale, mais, comme elle a été incendiée durant sa construction, les circonstances ont changé, de sorte que l’immeuble a plutôt été construit pour la vente à des fins commerciales. M. Soheili a affirmé qu’il n’avait plus l’intention de faire de la propriété sa résidence familiale. Si M. Soheili me convainquait que son intention a bel et bien changé, il devrait me prouver que la propriété n’est pas utilisée à des fins personnelles et qu’il a engagé des coûts de 1 556 800 $, et non pas les 1 235 376 $ autorisés par le vérificateur de l’intimée.
+[2] M. Soheili a été le seul à témoigner pour le compte de l’appelant. Durant la période pertinente, il était courtier immobilier et entrepreneur général. Il a reconnu qu’il avait initialement l’intention de construire une grande maison de huit chambres pour sa famille, la famille de son frère et leurs parents. Le terrain de cette résidence était situé sur la promenade Abbey, à Surrey. M. Soheili a acheté ce terrain en 2005 au prix de 315 000 $. Les travaux de construction ont débuté en février 2006. Une certaine confusion plane sur l’identité du constructeur de la résidence, car M. Soheili était l’unique actionnaire de l’entreprise Homemark, qui, selon ses dires, œuvrait dans le secteur de la construction. M. Soheili a déclaré qu’il a retenu les services de Homemark pour la construction de la résidence. Je ne peux savoir avec certitude qui a engagé les dépenses (aucune facture, aucun état financier, ni aucun autre document lié à la construction n’ont été fournis), mais cela n’a aucune importance, vu la façon dont j’entends statuer sur l’appel.
+[3] En octobre 2006, la propriété en construction sur la promenade Abbey a été la proie d’un incendie criminel. D’après M. Soheili, cet incident a causé une querelle entre lui et son frère, qui l’accusait d’avoir embauché la personne qu’ils croyaient être l’incendiaire. M. Soheili a déclaré dans son témoignage que son frère avait abandonné le projet de construction de la propriété et qu’il l’avait laissé régler toute cette affaire seul. C’est à ce moment-là, alors qu’il était laissé à lui‑même, qu’il avait décidé de simplement construire la résidence pour la vendre. L’appelant a déclaré qu’il avait changé les plans, d’une maison à huit chambres pour deux ou trois familles à une maison haut de gamme avec un nombre réduit de chambres. Il a demandé à la Ville de Surrey un nouveau permis de construction attestant les changements. Son frère n’a pas témoigné, et l’appelant n’a présenté aucune copie de plans modifiés ou de demande de permis de construction. Au moment où la propriété faisait l’objet d’une procédure de forclusion, il était indiqué qu’elle comptait huit chambres et huit salles de bain.
+[4] M. Soheili a eu de la difficulté à obtenir une indemnisation auprès de son assureur pour les dommages causés par l’incendie, mais il a finalement touché un montant non divulgué. L’appelant a investi ce montant aux États-Unis. Il a cependant reconnu que, à ce moment-là, il n’avait plus les moyens de payer la résidence de la promenade Abbey. Selon lui, les Olympiques à venir ont fait grimper en flèche les coûts de construction. Il a dit avoir engagé au total plus de 1 500 000 $. Le vérificateur a déclaré dans son témoignage qu’il n’avait reçu de pièces justificatives que pour 804 741 $ de coûts de construction, plus 115 000 $ d’intérêts et 315 000 $ pour l’achat du terrain, ce qui faisait un total d’environ 1 235 000 $. M. Soheili a admis qu’il n’avait aucun moyen de prouver les autres dépenses qui s’élevaient à 300 000 $.
+[5] En mars 2008, M. Soheili a contracté une hypothèque d’environ 1 200 000 $ auprès de Pacific Coast Mortgage sur la propriété de la promenade Abbey et sa résidence principale de l’époque, située sur l’impasse Glenside, à Surrey. Quelques mois plus tard, il a contracté une deuxième hypothèque de 300 000 $ sur les deux propriétés auprès de Canadian Western Trust, qu’il a dit être un prêteur privé. Les hypothèques sur les deux propriétés ont été enregistrées au nom de M. Soheili.
+[6] En janvier 2009, les privilèges grevant la propriété de la promenade Abbey s’élevaient à plus de 500 000 $. M. Soheili avait également fait enregistrer un privilège de 250 000 $ au nom de Homemark, montant qui, selon ses dires, était arbitraire.
+[7] M. Soheili a déclaré dans son témoignage qu’un acheteur intéressé était prêt à payer 1 600 000 $ pour la propriété de la promenade Abbey, mais que la procédure de forclusion était déjà entamée, et ce même acheteur a finalement acquis la propriété pour 1 375 000 $. L’appelant soutient qu’il a accepté la vente après forclusion à un prix inférieur à la valeur marchande, car il ne voyait aucune autre façon de conserver sa résidence de l’impasse Glenside. En 2010, puisqu’il manquait environ 244 000 $ pour rembourser son deuxième créancier, Canadian Western Trust, M. Soheili a obtenu un prêt d’un autre prêteur, Van City, en vue de rembourser l’hypothèque. Le solde de l’hypothèque sur sa résidence de l’impasse Glenside demeure considérable.
+[8] M. Soheili affirme qu’il a essuyé des pertes commerciales considérables dans le cadre de la vente de la propriété de la promenade Abbey en 2009, soit 35 740 $ qu’il a reportés à 2010, et 5 520 $, à 2011. Le ministre s’est fondé sur le calcul des coûts justifiables effectué par le vérificateur pour établir que la perte de M. Soheili était plutôt de 6 120 $ et que celle-ci pouvait être reportée à l’année d’imposition 2010, et la nouvelle cotisation a été établie en conséquence. La position du ministre quant à l’appel est qu’aucune perte ne devait être acceptée, puisqu’il s’agissait de la vente d’une propriété à usage personnel. M. Soheili soutient que lui‑même ou Homemark a essuyé une perte légitime et qu’il a le droit de reporter directement la perte commerciale à l’année ultérieure ou, si c’est Homemark qui a engagé les coûts, de déclarer une perte déductible au titre d’un placement d’entreprise. L’appelant ajoute qu’il a également le droit de réclamer des frais d’intérêts sur le solde de l’hypothèque sur la propriété de l’impasse Glenside en 2010 et en 2011, car l’hypothèque visait à rembourser la deuxième hypothèque sur la propriété de la promenade Abbey qu’il dit avoir contractée pour la construction de cette dernière. Il n’a fourni aucun élément de preuve documentaire au sujet de frais d’intérêts.
+[9] Je vais d’abord examiner la question de savoir qui a engagé les coûts de construction. Je n’ai reçu aucune copie de factures ni vu aucun livre ou registre de société, état financier ou autre document pertinent. Le témoignage de M. Soheili à propos de Homemark était, au mieux, sommaire. L’entreprise n’a produit aucune déclaration après 2007 et, d’après M. Soheili, elle est simplement disparue. Selon moi, il s’agissait du projet de M. Soheili. Le terrain lui appartenait, et les hypothèques étaient enregistrées à son nom. Comme de nombreux petits entrepreneurs, M. Soheili ne faisait probablement pas de distinction claire entre ses projets personnels et ceux de son entreprise. Le rôle de Homemark est si flou qu’il n’est pas pertinent, et c’est pourquoi je le traite ainsi. Si la vente avait quelque intérêt commercial que ce soit, c’était pour le compte de M. Soheili.
+[10] La question consiste à déterminer si la résidence de la promenade Abbey était une propriété personnelle, une propriété destinée à être une résidence familiale ou si elle faisait partie d’une entreprise commerciale de M. Soheili en tant qu’entrepreneur général. L’intimée soutient d’une part que M. Soheili n’a jamais eu l’intention de vendre la propriété de la promenade Abbey à des fins commerciales. D’autre part, l’intimée s’appuie sur la décision Solomons c Canada[1] et affirme que, parce que le projet initial était personnel, et non pas commercial, ce que reconnaît M. Soheili, il le demeure alors, malgré les circonstances, soit l’incendie qui a poussé M. Soheili à changer son fusil d’épaule, vu qu’il n’avait plus les moyens de construire la résidence familiale.
+[11] Pour ce qui est du premier argument de l’intimée, M. Soheili n’a pas réussi à me convaincre que son intention avait bel et bien changé après l’incendie. Les raisons pour lesquelles j’en arrive à cette conclusion sont nombreuses. Tout d’abord, dans le cadre de son témoignage principal, M. Soheili a prétendu que son objectif initial était de construire une maison de huit chambres qui aurait accueilli trois branches de sa famille et qu’il avait plutôt opté pour une résidence haut de gamme à cinq chambres pour une seule famille. Par contre, selon l’inscription de la résidence lors de la procédure de forclusion, celle-ci était effectivement toujours composée de huit chambres, dont trois chambres principales, et de huit salles de bain. Cela ressemble davantage au plan initial. M. Soheili m’a dit qu’il pourrait obtenir des copies de la demande de permis de construction et des plans connexes auprès de la Ville de Surrey pour démontrer les changements. Il est toujours regrettable de voir des appelants se présenter devant le tribunal sans s’être pleinement préparés. M. Soheili savait très bien que la question en litige concernait notamment la nature commerciale ou personnelle de la propriété de la promenade Abbey et que, par conséquent, la présentation du plan modifié aurait été de la plus haute importance. Le seul élément de preuve crédible à ma disposition est l’inscription de vente de la propriété, qui n’appuie pas l’explication de M. Soheili.
+[12] Deuxièmement, M. Soheili n’a jamais mentionné au vérificateur son intention de changer de plan durant l’entrevue de mai 2012. Le vérificateur, M. Sandhu, a consulté ses notes dans lesquelles rien n’indique que l’appelant n’avait plus l’intention de construire une résidence familiale, et il ne se souvient pas d’en avoir entendu parler.
+[13] Troisièmement, M. Soheili n’a convoqué aucun membre de sa famille, que ce soit son frère ou toute autre personne, pour corroborer ses déclarations.
+[14] Quatrièmement, l’appelant a fait l’objet de deux poursuites par des fournisseurs (Dynasty Kitchen Cabinets et Miracle 786 Flooring) en 2011 et en 2013, et il est indiqué dans les deux décisions que, d’après le témoignage de M. Soheili, la propriété devait être la résidence familiale. La décision Dynasty a en fin de compte été annulée, mais les conclusions du juge de première instance à cet égard demeurent au dossier.
+[15] Je conclus que la propriété a toujours été une résidence personnelle et qu’elle n’a pas fait partie d’une entreprise ou d’un projet de nature commerciale. Je rejette l’appel de M. Soheili sur ce fondement.
+[16] Cependant, je tiens à commenter l’absence de preuve de dépenses de M. Soheili, dans le cas où j’aurais conclu que la vente était de nature commerciale. Comme je l’ai déjà mentionné, il y a un écart d’environ 300 000 $ entre les coûts de construction calculés par le vérificateur et ceux réclamés par M. Soheili. Le seul élément de preuve invoqué par M. Soheili pour étayer ces coûts supplémentaires est le fait qu’il a dû emprunter autant d’argent. Cela est bien insuffisant. Encore une fois, bien que je sois conscient qu’il peut être difficile pour un contribuable de savoir quels éléments de preuve fournir pour justifier ses déclarations, il est question ici du quantum des dépenses. M. Soheili savait pourtant qu’il n’avait aucun moyen de prouver ses dépenses réclamées qui excédaient la somme de 1 500 000 $. Cette absence de preuve corroborante ainsi que le témoignage de l’appelant selon lequel il a investi aux États-Unis la somme versée par sa compagnie d’assurance confirment mon opinion que le simple fait d’affirmer qu’il a emprunté beaucoup d’argent pour la construction de la résidence est bien loin de toute norme pour prouver les coûts de construction engagés. Il aurait aussi bien pu probablement investir davantage aux États-Unis. M. Soheili n’a simplement pas réussi à me démontrer qu’il avait engagé les coûts qu’il a réclamés, et je pourrais également rejeter son appel pour ce motif.
+[17] L’appel est rejeté.
+Signé à Ottawa, Canada, ce 7e jour de septembre 2017.
+« Campbell J. Miller »
+Juge C. Miller
+RÉFÉRENCE :
+2017 CCI 172
+No DU DOSSIER DE LA COUR :
+2016-255(IT)I
+INTITULÉ :
+SHAHIN SOHEILI ET SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Vancouver (Colombie-Britannique)
+DATE DE L’AUDIENCE :
+Le 29 août 2017
+MOTIFS DU JUGEMENT :
+L’honorable juge Campbell J. Miller
+DATE DU JUGEMENT :
+Le 7 septembre 2017
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimé :
+Mes Shannon Fenrich et Sheida Rezapour
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+[BLANK / EN BLANC]
+Cabinet :
+[BLANK / EN BLANC]
+Pour l’intimée :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] 2003 DTC 505.

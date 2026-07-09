@@ -1,0 +1,157 @@
+Title: Shoeman v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25808/index.do
+Corpus path: corpus/cases/tcc/2004/2004-cci-220-25808-shoeman-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2004-03-26
+
+# Shoeman v. The Queen
+
+- Citation: 2004 CCI 220
+- Decision date: 2004-03-26
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3851, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Shoeman v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-03-26
+Référence neutre
+2004 CCI 220
+Numéro de dossier
+2003-1471(IT)G
+Juges et Officiers taxateurs
+David W. Beaubier
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2003-1471(IT)G
+ENTRE :
+HARRY SHOEMAN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels entendus les 11 et 12 mars 2004 à Regina (Saskatchewan).
+Par : l'honorable juge D. W. Beaubier
+Comparutions :
+Avocat de l'appelant :
+Me Ralph Ottenbreit, c.r.
+Avocat de l'intimée :
+Me Robert Gosman
+____________________________________________________________________
+JUGEMENT
+Les appels interjetés à l'encontre des nouvelles cotisations établies en vertu de la Loi de l'impôt sur le revenu pour les années d'imposition 2000 et 2001 sont rejetés conformément aux motifs du jugement ci-joints.
+Signé à Vancouver (Colombie-Britannique) ce 26e jour de mars 2004.
+« D. W. Beaubier »
+Juge Beaubier
+Traduction certifiée conforme
+ce 20e jour de juillet 2004.
+Liette Girard, traductrice
+Référence : 2004CCI220
+Date : 20040326
+Dossier : 2003-1471(IT)G
+ENTRE :
+HARRY SHOEMAN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Beaubier
+[1] Le présent appel, interjeté en vertu de la procédure générale, a été entendu à Regina, en Saskatchewan, les 11 et 12 mars 2004, avec l'appel de Randall Shoeman, le fils de Harry, sur preuve commune avec le consentement des parties. Harry, Randall et un autre fils, Russell, ont témoigné pour l'appelant.
+[2] Les paragraphes 5 à 10 de la Réponse à l'avis d'appel soulignent les faits en litige. Ils sont ainsi rédigés :
+[traduction]
+5. Dans le calcul de son revenu pour l'année d'imposition 2001, l'appelant a déclaré une perte au titre d'un placement d'entreprise ( « PTPE » ) d'un montant de 384 320 $. L'appelant a également demandé le report rétrospectif d'une perte autre qu'une perte en capital d'un montant de 65 000 $ à l'année d'imposition 2000.
+6. En établissant une cotisation à l'égard de l'appelant le 25 mars 2002 pour l'année d'imposition 2001 (la « nouvelle cotisation » ), le ministre a rejeté la PTPE déclarée par l'appelant ainsi que la demande de report rétrospectif d'une perte autre qu'une perte en capital à l'année d'imposition 2000.
+7. Au moyen d'un avis d'opposition reçu le 21 mai 2002, l'appelant s'est opposé à la nouvelle cotisation.
+8. Au moyen d'un avis de ratification daté du 20 janvier 2003, le ministre a confirmé que l'appelant n'avait pas droit au report rétrospectif d'une perte autre qu'une perte en capital à l'année d'imposition 2000. Au moyen d'un avis de nouvelle cotisation daté du 20 janvier 2003, le ministre a établi une nouvelle cotisation à l'égard de l'appelant pour son année d'imposition 2001 afin de permettre une PTPE de 69 685 $.
+9. En établissant ainsi une cotisation à l'égard de l'appelant pour les années d'imposition 2000 et 2001, le ministre a formulé les hypothèses de fait suivantes :
+a) la PTPE déclarée par l'appelant au cours de l'année d'imposition 2001 concernait 610807 Saskatchewan Ltd. (la « société » );
+b) l'appelant n'était pas un actionnaire de la société;
+c) le fils de l'appelant, Russell Shoeman, possédait toutes les actions de la société;
+d) une entente (l' « entente » ), datée du 16 août 1999 et modifiée le 26 février 2001, conclue par la société et Russell Shoeman, Wayne Leibel et Robert Pyne ainsi que Harry Shoeman et Randall Shoeman précisait que l'appelant devait rembourser, au nom de la société, les montants investis par Wayne Leibel et Robert Pyne si Russell Shoeman ou la société ne remboursait pas le montant dans les douze mois de la date de l'entente originale;
+e) l'appelant a effectué les paiements suivants conformément à l'entente :
+19 septembre 2000 à Rob Pyne
+20 000 $
+22 septembre 2000 à Wayne Leibel
+5 000 $
+28 septembre 2000 à Wayne Leibel
+10 000 $
+29 septembre 2000 à Wayne Leibel
+30 000 $
+11 octobre 2000 à Wayne Leibel
+4 000 $
+Total
+69 000 $
+f) l'appelant n'a pas effectué d'autres paiements en vertu de l'entente;
+g) l'appelant a investi les autres montants suivants dans la société :
+31 mai 2000
+300 $
+9 janvier 2001
+275 $
+10 avril 2001
+110 $
+Total
+685 $
+h) la société n'a pas produit de déclaration de revenus;
+i) la société ne devait pas d'argent à l'appelant en dehors des montants mentionnées aux sous-paragraphes e) et g);
+j) la société ne devait pas d'argent à l'appelant en plus des montants mentionnés aux sous-paragraphes e) et g) ci-dessus qui ont été utilisés afin de tirer un revenu;
+k) la société ne devait pas d'argent à l'appelant en plus des montants mentionnés aux sous-paragraphes e) et g), montants qui sont devenus une créance irrécouvrable au cours de l'année d'imposition 2001;
+l) l'appelant a fait l'objet d'une cotisation aux termes de laquelle son revenu imposable a été établi à 22 702 $ pour son année d'imposition 2001;
+m) l'appelant n'a pas subi de perte autre qu'une perte en capital au cours de son année d'imposition 2001.
+B. QUESTIONS EN LITIGE
+10. Les questions en litige sont les suivantes :
+a) l'appelant a-t-il engagé une PTPE pendant l'année d'imposition 2001 en plus du montant de 69 685 $ déterminé par le ministre?
+b) l'appelant peut-il appliquer une perte autre qu'une perte en capital de l'année d'imposition 2001 à l'année d'imposition 2000?
+[3] Avant la date de l'audience, l'appelant a choisi la procédure générale. L'Avis d'appel permet de souligner les faits de l'appel. Ses paragraphes 1 à 4 sont ainsi rédigés :
+[traduction]
+1. Harry C. Shoeman (le « contribuable » ) réside au 23, Cowburn Crescent, à Regina, en Saskatchewan, S4S 5R9. ADMIS
+2. Le contribuable interjette appel à l'encontre de l'Avis de nouvelle cotisation daté du 20 janvier 2003 pour son année d'imposition 2001 (la « nouvelle cotisation de 2001 » ) émise par le ministre du Revenu national (le « ministre » ) et à l'encontre d'un avis de cotisation daté du 6 juillet 2001 pour son année d'imposition 2000 (la « cotisation de 2000) émise par le ministre et que ce dernier a ratifiée au moyen d'un avis de ratification daté du 20 janvier 2003. ADMIS
+3. Les faits pertinents sur lesquels s'appuie le contribuable sont les suivants :
+a) Vers 1995, le fils du contribuable, Russell Shoeman, a élaboré un plan d'entreprise visant la rédaction et la publication d'un livre portant sur les parcours de golf célèbres en Amérique du Nord, illustré de nombreuses photographies en couleur. Le livre s'intitulait The Nature of Golf.
+b) Russell Shoeman est devenu l'unique actionnaire et administrateur de 610807 Saskatchewan Ltd. ( « 610807 » ), qui a été constituée en personne morale le 29 mars 1995.
+c) 610807 était parfois appelée The Nature of Golf Ltd. même s'il ne s'agissait pas de sa dénomination sociale ou de son nom commercial.
+d) En 1995, 610807 a initialement conclu des contrats écrits avec un photographe, un auteur et un recherchiste pour obtenir leurs services de création afin de produire le livre. 610807 a conclu d'autres contrats afin d'obtenir des services de création pendant et après 1995.
+e) 610807 a conclu un contrat avec Louban Media afin d'obtenir des services d'imagerie numérique et de production de The Nature of Golf durant l'année 1998.
+f) 610807 a conclu un contrat avec Friesens Corporation en vue de l'impression de 5 000 exemplaires de The Nature of Golf durant l'année 2000.
+g) Avant le mois de février 1996, 610807 ne possédait pas de compte bancaire à son propre nom. Au contraire, la plupart de ses dépenses étaient payées par chèques tirés du compte no 3315454 au nom de Russell Shoeman auprès de Sherwood Credit Union de Regina, en Saskatchewan.
+h) Depuis 1995 et jusqu'en 2001, le contribuable a consenti de nombreux prêts à 610807 et avancé des montants considérables à cette dernière. La plupart des prêts ont été avancés au moyen d'un transfert vers le compte no 3315454 susmentionné.
+i) 610807 a également contracté une dette à l'égard du contribuable puisque ce dernier a payé, au nom de 610807, des montants dus par cette dernière à ses fournisseurs.
+j) En 1998, le contribuable a signé une garantie à l'égard d'un prêt dont le capital s'élève à 150 000 $ accordé par Kenneth Eugene Newman à 610807.
+k) En 1999, le contribuable a signé une garantie à l'égard d'un prêt dont le capital s'élève à 150 000 $ accordé par Wayne Leibel et Rob Pyne à 610807, prêt portant intérêt au taux de 10 p. 100 par année. ADMIS
+l) 610807 a promis au contribuable un rendement de son capital ainsi qu'une partie des recettes découlant de la vente des exemplaires de The Nature of Golf (au-delà des 5 000 exemplaires initiaux) ou un intérêt en cas de non-paiement. ADMIS
+m) En 2000, Wayne Leibel et Rob Pyne ont demandé au contribuable d'honorer sa garantie. Le contribuable a versé environ 69 000 $ à MM. Leibel et Pyne à titre de caution de 610807. ADMIS
+n) 610807 n'a pu vendre qu'un petit nombre d'exemplaires de The Nature of Golf.
+o) Le 2 décembre 2001, 610807 a procédé à une cession de ses biens en vertu de la Loi sur la faillite. Selon le bilan de réalisation éventuelle faite sous serment par Russell Shoeman, 610807 devait au contribuable 375 936 $ le 20 décembre 2001. ADMIS
+p) Selon les dossiers du contribuable, 610807 lui devait 384 319 $ au moment où elle a fait faillite.
+q) Le contribuable a déclaré une perte au titre d'un placement d'entreprise de 384 319 $ dans sa déclaration de revenus de 2001. ADMIS
+r) Au moyen d'un avis de cotisation daté du 25 mars 2002 et d'un avis de nouvelle cotisation daté du 8 avril 2002, le ministre a rejeté la demande de perte au titre d'un placement d'entreprise du contribuable en 2001. ADMIS
+s) Le contribuable a déposé un avis d'opposition le 21 mai 2002. ADMIS
+t) Au moyen de la nouvelle cotisation de 2001, le ministre n'a accordé une perte au titre d'un placement d'entreprise qu'à l'égard d'une perte en capital de 69 685 $ au motif que le reste de la créance irrécouvrable était due par le contribuable par Russell Shoeman et non par 610807. En même temps, le ministre a ratifié la cotisation de 2000 au motif qu'aucune perte autre qu'une perte en capital pour 2001 n'était déductible dans le calcul du revenu imposable pour 2000. ADMIS
+B. QUESTIONS EN LITIGE
+4. Les questions en litige sont les suivantes :
+a) la totalité de la créance irrécouvrable due au contribuable l'était-elle par 610807 ou était-elle due en partie par Russell Shoeman?
+b) la partie de la dette, le cas échéant, pouvant être due au contribuable par Russell Shoeman et non par 610807 était-elle composée de prêts consentis ou acquis par le contribuable dans le cours normal de ses activités qui comprenaient le prêt d'argent?
+Les parties de ces paragraphes qui sont admises par l'intimée sont suivies du mot « ADMIS » en lettres majuscules.
+[4] De plus, la preuve a révélé que les paragraphes suivants de l'Avis d'appel étaient avérés : 3a), 3b), 3c), 3d) (est vrai pour ce qui est d'un photographe, le reste n'a pas été prouvé), 3g) et 3j).
+[5] Les hypothèses suivantes de la Réponse à l'avis d'appel n'ont pas été réfutées : 9a), b), c), d), e), f), g), h), i), j), k), l) et m).
+[6] Harry est maintenant âgé de 74 ans. Russell semblait être à la fin de la trentaine ou au début de la quarantaine au moment de l'audience. Il est le fils de Harry et, de 1995 à 2001, il a vécu avec ce dernier et il ne payait pas de chambre ni de pension et il n'avait presque pas d'économies. Ils avaient une relation père-fils comme si Russell avait été un mineur qui vivait chez ses parents.
+[7] Russell a constitué 610807 en personne morale, comme il l'a dit, à des fins fiscales, et il l'a utilisée d'une façon très particulière. Elle a clairement été utilisée dans le but d'obtenir des crédits de taxe sur les intrants, mais elle n'a pas déposé d'autres déclarations de revenus. Selon la preuve, elle était utilisée par moments, d'après les mots utilisés au deuxième paragraphe de la pièce A-15, soit le contrat Newman, [traduction] « pour les besoins de l'administration de certains contrats conclus avec des entrepreneurs indépendants en vue de la prestation de services liés aux livres » . À d'autres moments et pour d'autres fins, elle n'a pas été utilisée. Les moments où 610807 a été utilisée et ceux où elle ne l'a pas été ne sont pas clairement délimités. Russell a indiqué, dans son témoignage, qu'elle n'a pas été utilisée aux États-Unis, et les pièces A-7 et A-8 le confirment.
+[8] Harry connaissait l'existence de 610807. Il était le signataire de la pièce A-15, par exemple. Pourtant, tout au long de 2000, Harry a choisi de verser de l'argent directement à Russell et de payer d'autres créanciers, comme MM. Pyne et Leibel. Cependant, il n'a pas versé d'argent à 610807. Il n'avait pas non plus d'entente avec Russell ou 610807 lui permettant de recevoir des intérêts ou toute autre forme de rémunération pour l'argent qu'il avait versé, à l'exception de ce qui avait été supposé par l'intimée.
+[9] Selon la Cour, Harry est lié par les gestes qu'il a posés en 2000 et tout au long de la période en litige. Il n'a pas avancé ou versé de l'argent à 610807 en 2000. Au contraire, il a eu une relation père-fils très intense avec Russell. En conséquence, selon la preuve ou l'absence de cette dernière, tout paiement ou avance en litige a été effectué en faveur de Russell personnellement et la présomption d'une avance faite par Harry à Russell n'a pas été réfutée par la preuve déposée en cour.
+[10] La preuve confirme le contenu de la Réponse à l'avis d'appel. L'appel est rejeté. L'intimée a droit à ses dépens entre parties.
+Signé à Vancouver (Colombie-Britannique) ce 26e jour de mars 2004.
+« D. W. Beaubier »
+Juge Beaubier
+Traduction certifiée conforme
+ce 20e jour de juillet 2004.
+Liette Girard, traductrice

@@ -1,0 +1,173 @@
+---
+title: "Starsky Enterprises Inc. c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28591/index.do"
+last_modified: "2008-04-04"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 CCI 194"
+citation2: ""
+neutral_citation: "2008 CCI 194"
+decision_date: "2008-04-04"
+language: "fr"
+item_id: "28591"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1072
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T10:56:26.249000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "bfea9a177abf280c72b6c7ae4ead11af1810363a48b59e00c932097a3574f7a2"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Starsky Enterprises Inc. c. M.R.N.
+
+- Citation: 2008 CCI 194
+- Decision date: 2008-04-04
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1072, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Starsky Enterprises Inc. c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-04-04
+Référence neutre
+2008 CCI 194
+Numéro de dossier
+2006-209(EI)
+Juges et Officiers taxateurs
+Eric A. Bowie
+Sujets
+Loi sur l'assurance-emploi
+Régime de pensions du Canada
+Contenu de la décision
+Dossiers : 2006-209(EI)
+2006-210(CPP)
+ENTRE :
+STARSKY ENTERPRISES INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels entendus le 20 juin 2007 à London (Ontario)
+Devant : L’honorable juge E.A. Bowie
+Comparutions :
+Avocat de l’appelante :
+Me Jed L. Chinneck
+Avocat de l’intimé :
+Me Andrew Miller
+____________________________________________________________________
+JUGEMENT
+Les appels interjetés en vertu du paragraphe 103(1) de la Loi sur l’assurance‑emploi (la « Loi ») et de l’article 28 du Régime de pensions du Canada (le « Régime »), respectivement, sont accueillis, les décisions du ministre du Revenu national sont annulées, et les décisions initiales sont modifiées de sorte qu’elles énoncent que l’emploi exercé par Linsay Huber auprès de l’appelante n’est pas un emploi assurable au sens de la Loi ni un emploi ouvrant droit à pension au sens du Régime.
+Signé à Ottawa, Canada, ce 4e jour d’avril 2008.
+« E.A. Bowie »
+Juge Bowie
+Traduction certifiée conforme
+ce 23e jour de mai 2008.
+Jean David Robert, traducteur
+Référence : 2008CCI194
+Date : 20080404
+Dossiers : 2006-209(EI)
+2006-210(CPP)
+ENTRE :
+STARSKY ENTERPRISES INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Bowie
+[1] Le présent appel concerne l’éternelle question qui consiste à savoir si le travailleur exerce un emploi assurable au sens de la Loi sur l’assurance‑emploi (la « Loi ») et ouvrant droit à pension au sens du Régime de pensions du Canada (le « Régime »). Mais, pour pouvoir répondre à cette question en l’espèce, il faut d’abord déterminer si le contrat conclu entre l’appelante et la travailleuse est un contrat de louage de services, ou un contrat d’entreprise. Selon les décisions initiales rendues respectivement en vertu de l’article 90 de la Loi et de l’article 26.1 du Régime, Linsay Huber, la travailleuse, exerçait, auprès de l’appelante, un emploi assurable et ouvrant droit à pension. Ces décisions ont été confirmées dans le cadre d’appels interjetés devant le ministre du Revenu national (le « ministre ») respectivement en vertu de l’article 91 de la Loi et de l’article 27 du Régime.
+[2] Eric Lecompte est l’unique actionnaire de l’appelante. Lui et Mme Huber étaient les seuls témoins à l’audience. Le témoignage de M. Lecompte était clair et franc. Il a fondé la société et a conçu son mode d’exploitation. Mme Huber a travaillé pour le compte de la société Starsky Enterprises Inc. (ci‑après « Starsky ») pendant moins de trois semaines. Elle semblait incertaine quant à plusieurs aspects de leur relation. Je ne doute pas de sa sincérité, mais j’ai plus confiance en la connaissance de M. Lecompte des procédures de la société et des conditions auxquelles elle embauchait des travailleurs qu’en celle de Mme Huber. Dans les rares cas où leurs témoignages se contredisent, je préfère retenir la déposition de M. Lecompte plutôt que celle de Mme Huber.
+[3] Starsky est une société dont les activités consistent à mener des campagnes de marketing, y compris des campagnes porte‑à‑porte, pour divers organismes sans but lucratif et diverses organisations caritatives. La société a mis en place un système de cartes de donateurs, qui permettent chacune à un maximum de 28 donateurs d’y indiquer le montant de leur don. Lorsque des particuliers font des dons, ils reçoivent un reçu à des fins fiscales et un ruban rouge. À la fin d’une journée de sollicitation, les travailleurs soumettent leurs cartes de donateurs à Starsky et touchent une commission calculée en fonction du total des dons recueillis cette journée‑là.
+[4] Le 29 novembre 2004, Mme Huber a commencé à travailler pour l’appelante en tant que solliciteuse. Elle travaillait cinq jours par semaine en faisant du porte‑à‑porte pour solliciter des dons pour Les mères contre l’alcool au volant (« MADD »).
+[5] Une lettre d’entente (l’« entente ») a été signée par Mme Huber et Starsky le 3 décembre 2004. Mme Huber a témoigné qu’elle avait examiné l’entente avec Joe Blais, un gestionnaire de Starsky. Elle ne se souvenait pas si elle avait lu l’entente au complet avant de la signer. Les clauses de l’entente stipulaient notamment ce qui suit :
+a) Mme Huber était une entrepreneuse indépendante. Elle était responsable de son propre transport, du versement des taxes, de la souscription d’une assurance responsabilité et du règlement de toute autre dépense engagée dans le cadre de son travail.
+b) Le rôle de Mme Huber était de solliciter de l’argent auprès de particuliers au nom d’organismes sans but lucratif.
+c) Elle touchait une commission, qui était calculée quotidiennement en fonction du total d’argent reçu pour chaque carte de donateurs.
+d) Elle était chargée de tenir Starsky informée des résultats de son travail en rédigeant un journal de rue et des rapports quotidiens faisant état du total des dons recueillis.
+e) Toutes les cartes de donateurs, tous les reçus et toutes les brochures étaient la propriété de Starsky. La société vendait en consignation les cartes de donateurs à Mme Huber. Celle‑ci était tenue de dédommager Starsky si une carte de donateurs était perdue, volée ou endommagée.
+f) Les activités de Mme Huber étaient restreintes par les clauses de l’entente. Celle‑ci disposait qu’elle ne pouvait entreprendre aucune activité qui, de l’avis de Starsky, était en concurrence avec le travail qu’effectuait Mme Huber pour le compte de Starsky et y était directement reliée.
+g) Mme Huber ne pouvait pas déléguer ses droits, ses fonctions ou ses obligations à une autre personne sans le consentement de Starsky.
+h) Mme Huber s’est engagée à respecter treize codes ou normes qui sont exposés à l’annexe C de l’entente. Par exemple, elle a pris l’engagement d’agir de façon professionnelle, de porter un insigne d’identité lorsqu’elle faisait de la sollicitation et de ne pas abuser de la confiance des donateurs.
+i) Dans l’éventualité où Mme Huber contreviendrait à l’une ou l’autre des obligations qui lui étaient imposées par l’entente, Starsky pouvait résilier l’entente sur avis écrit.
+[6] M. Lecompte a témoigné que les solliciteurs pouvaient fixer leurs propres heures de travail et choisir leurs propres dates de travail. Ils pouvaient aller chercher leurs fournitures, qui comprenaient des rubans, des reçus et des cartes de donateurs, à son bureau chaque jour entre 10 h et 13 h, et ils étaient tenus d’aller y porter les cartes de donateurs remplies et tous les dons recueillis le même jour entre 20 h et 22 h. Ces heures ont été établies parce que Starsky n’avait pas les ressources nécessaires pour garder son bureau ouvert 24 heures par jour. M. Lecompte a expliqué que les heures avaient été choisies afin de permettre aux solliciteurs de maximiser la durée de leur temps de sollicitation. Il a témoigné que les règlements provinciaux prévoient qu’une personne peut seulement faire de la sollicitation entre 11 h 30 et 21 h 30. Un solliciteur pouvait aller chercher des fournitures le lundi et ne pas travailler jusqu’au mercredi, par exemple, mais il était tenu de retourner les dons et les cartes le mercredi soir. Cette exigence n’était pas respectée par tous les solliciteurs.
+[7] M. Lecompte a dit que les nouveaux solliciteurs recevaient une journée complète de formation avant de commencer à travailler, au cours de laquelle ils accompagnaient un autre solliciteur. Le but de cette formation était de permettre aux solliciteurs potentiels de voir à quoi ressemblait le travail et de décider s’il s’agissait de quelque chose qu’ils voulaient faire. Comme M. Lecompte l’a expliqué, la sollicitation porte‑à‑porte n’est pas pour tout le monde. Lorsque les solliciteurs commencent à travailler pour le compte de Starsky, ils sont jumelés avec un travailleur expérimenté le premier jour. Il s’agit de la seule formation exigée. Les solliciteurs peuvent demander de recevoir de la formation supplémentaire à tout moment. Il y a aussi des réunions quotidiennes le matin, auxquelles peuvent assister les solliciteurs pour obtenir des conseils sur la technique de vente. Ces réunions sont optionnelles. Les solliciteurs ne sont pas payés pour assister aux séances de formation ou aux réunions.
+[8] M. Lecompte a témoigné que les solliciteurs étaient libres d’avoir d’autres emplois et il a donné l’exemple du solliciteur qui travaille comme barman les soirs. Il a dit qu’on n’avait jamais eu recours à la clause de non‑concurrence. Il croit comprendre qu’elle signifie que les solliciteurs ne pourraient pas utiliser le système de cartes de donateurs lorsqu’ils feraient de la sollicitation pour une autre organisation, et qu’il ne leur serait pas permis de demander à des donateurs potentiels de soutenir MADD ou une quelconque autre organisation, étant donné qu’il y aurait conflit d’intérêt. M. Lecompte a dit que les solliciteurs étaient libres de faire du porte‑à‑porte pour d’autres organisations, seulement pas en même temps qu’ils faisaient de la sollicitation pour MADD.
+[9] Mme Huber se considérait comme une employée à plein temps de Starsky. Lorsqu’elle avait rencontré le gestionnaire pour signer des documents préliminaires, elle avait indiqué qu’elle cherchait un emploi à plein temps. Au cours des trois semaines durant lesquelles elle a travaillé comme solliciteuse, elle a travaillé tous les jours. Elle a aussi assisté à des réunions presque tous les matins avant d’aller faire de la sollicitation. Mme Huber a initialement témoigné que ces réunions étaient obligatoires, bien qu’elle ait reconnu plus tard qu’elle s’était peut‑être méprise à ce sujet. Elle n’avait aucune autre source de revenu et elle n’aurait pas eu le temps pour exercer un autre emploi.
+[10] L’entente prévoyait que tous les travailleurs devaient avoir un véhicule fiable à leur disposition. En réalité, de nombreux solliciteurs se fiaient au transport en commun. M. Lecompte a expliqué que beaucoup de solliciteurs étaient des étudiants et il a reconnu que bon nombre d’entre eux n’avaient pas les moyens de se payer un véhicule. Mme Huber faisait habituellement du covoiturage avec d’autres solliciteurs et donnait au conducteur de l’argent pour l’essence. Starsky n’a pas remboursé les solliciteurs pour le kilométrage ou d’autres coûts de transport. À part l’argent pour l’essence, Mme Huber n’a pas engagé de dépenses en tant que solliciteuse.
+[11] Dans l’éventualité où un solliciteur perdrait une carte ou ne soumettrait pas les dons reçus à Starsky, la société payait MADD pour les dons perdus et recueillait ensuite l’argent auprès du solliciteur. Si celui‑ci ne retournait pas travailler, Starsky ne serait probablement pas en mesure de recouvrer l’argent.
+[12] Conformément à l’entente, les travailleurs étaient tenus de souscrire une assurance responsabilité. M. Lecompte a dit qu’il savait que la plupart d’entre eux n’avaient probablement pas d’assurance et qu’il ne s’agissait pas d’une [traduction] « exigence sérieuse ». Mme Huber ne savait pas qui s’occupait des assurances.
+[13] M. Lecompte a décrit la sollicitation comme la [traduction] « petite entreprise individuelle » de chacun des travailleurs. Les solliciteurs choisissaient combien de jours ils travaillaient, pendant combien de temps et dans quels quartiers. Ils étaient tenus de dire à Starsky où ils travailleraient pour éviter le chevauchement et pour que la société puisse en aviser le service de police. Cette démarche était accomplie pour que la police sache que les solliciteurs représentaient vraiment MADD. Personne ne supervisait les solliciteurs pendant qu’ils travaillaient et personne ne se tenait au courant du nombre d’heures travaillées.
+[14] Mme Huber a témoigné que, tous les matins, lorsqu’elle arrivait au bureau, elle recevait une carte de la région sur laquelle était mise en relief la zone où elle pouvait faire de la sollicitation pendant la journée. Si elle n’avait pas fini de faire de la sollicitation dans cette zone à la fin de la journée, elle ou un autre solliciteur y était envoyé un autre jour. De plus, on lui remettait une feuille de temps ou un calendrier sur lequel étaient indiqués les jours où il était prévu qu’elle travaillerait et les montants d’argent qu’elle prévoyait ou espérait réunir, à peu près, au cours de la journée. Mme Huber ne savait pas à quoi servaient les calendriers, mais elle avait supposé qu’ils étaient peut‑être utilisés à des fins de motivation personnelle. Après la réunion du matin, elle faisait du covoiturage avec d’autres travailleurs et, le soir, elle s’en retournait avec le même chauffeur. Mme Huber n’était pas certaine si elle aurait pu demander à travailler dans une zone particulière ou si elle aurait pu choisir de le faire.
+[15] Les solliciteurs pouvaient travailler autant de jours qu’ils le voulaient. Ils ne faisaient pas l’objet de mesures disciplinaires s’ils n’entraient pas travailler une journée. M. Lecompte a témoigné qu’il recevait occasionnellement des plaintes des résidents du quartier au sujet du comportement d’un solliciteur. Il a dit que, dans ces cas, il parlait à celui‑ci pour écouter sa version de l’histoire et qu’il lui rappelait généralement qu’il devait rester calme lorsqu’il parlait avec des personnes. Dans l’éventualité où le solliciteur ne respecterait pas le code de conduite établi, Starsky pouvait choisir de ne pas lui vendre en consignation les cartes de donateurs. Cette mesure résiliait de façon effective l’entente. M. Lecompte a aussi témoigné que, dans la plupart des cas, les solliciteurs qui éprouvaient des problèmes en faisant du porte‑à‑porte décidaient de leur propre chef que ce genre de travail ne les intéressait pas.
+[16] Les principes qui régissent les causes comme la présente espèce sont bien établis et sont énoncés dans l’arrêt de la Cour suprême 671122 Ontario Ltd c. Sagaz Industries Canada Ltd.[1], où le juge Major, s’exprimant au nom de la cour, a dit ce qui suit aux paragraphes 46 à 48 :
+[46] À mon avis, aucun critère universel ne permet de déterminer, de façon concluante, si une personne est un employé ou un entrepreneur indépendant. Lord Denning a affirmé, dans l’arrêt Stevenson Jordan, précité, qu’il peut être impossible d’établir une définition précise de la distinction (p. 111) et, de la même façon, Fleming signale que [traduction] « devant les nombreuses variables des relations de travail en constante mutation, aucun critère ne semble permettre d’apporter une réponse toujours claire et acceptable » (p. 416). Je partage en outre l’opinion du juge MacGuigan lorsqu’il affirme − en citant Atiyah, op. cit., p. 38, dans l’arrêt Wiebe Door, p. 563 − qu’il faut toujours déterminer quelle relation globale les parties entretiennent entre elles :
+[traduction] [N]ous doutons fortement qu’il soit encore utile de chercher à établir un critère unique permettant d’identifier les contrats de louage de services [...] La meilleure chose à faire est d’étudier tous les facteurs qui ont été considérés dans ces causes comme des facteurs influant sur la nature du lien unissant les parties. De toute évidence, ces facteurs ne s’appliquent pas dans tous les cas et n’ont pas toujours la même importance. De la même façon, il n’est pas possible de trouver une formule magique permettant de déterminer quels facteurs devraient être tenus pour déterminants dans une situation donnée.
+[47] Bien qu’aucun critère universel ne permette de déterminer si une personne est un employé ou un entrepreneur indépendant, je conviens avec le juge MacGuigan que la démarche suivie par le juge Cooke dans la décision Market Investigations, précitée, est convaincante. La question centrale est de savoir si la personne qui a été engagée pour fournir les services les fournit en tant que personne travaillant à son compte. Pour répondre à cette question, il faut toujours prendre en considération le degré de contrôle que l’employeur exerce sur les activités du travailleur. Cependant, il faut aussi se demander, notamment, si le travailleur fournit son propre outillage, s’il engage lui‑même ses assistants, quelle est l’étendue de ses risques financiers, jusqu’à quel point il est responsable des mises de fonds et de la gestion et jusqu’à quel point il peut tirer profit de l’exécution de ses tâches.
+[48] Ces facteurs, il est bon de le répéter, ne sont pas exhaustifs et il n’y a pas de manière préétablie de les appliquer. Leur importance relative respective dépend des circonstances et des faits particuliers de l’affaire.
+[17] J’examinerai maintenant les facteurs énumérés dans l’arrêt Wiebe Door[2].
+Le contrôle
+Il n’y avait aucune supervision et très peu de contrôle. Mme Huber était libre de travailler quand elle le voulait et autant qu’elle le voulait. Elle n’avait pas besoin de se présenter devant qui que ce soit. Personne ne surveillait ses heures ni sa productivité. Bien que Mme Huber ait témoigné qu’on lui avait dit où faire de la sollicitation, je préfère m’en tenir au témoignage de M. Lecompte, selon lequel les solliciteurs pouvaient travailler là où ils voulaient, tant et aussi longtemps qu’ils indiquaient à quelqu’un du bureau de Starsky l’endroit où ils se trouvaient. Ce niveau de coordination était nécessaire pour que Starsky puisse tenir les services de police de la région au courant des activités des solliciteurs et pour éviter que ceux‑ci passent aux mêmes maisons plus d’une fois. Je ne doute pas que Mme Huber croyait qu’elle était une employée à plein temps qui était tenue d’assister à des réunions quotidiennes et de faire de la sollicitation tous les jours. Cependant, je préfère retenir le témoignage de M. Lecompte, lequel a établi que Starsky exerçait très peu de contrôle sur les activités des solliciteurs, y compris Mme Huber.
+La propriété des instruments de travail
+Les solliciteurs étaient responsables de leur propre transport. Starsky fournissait les rubans, les reçus et les cartes de donateurs, bien que M. Lecompte ait témoigné que ces fournitures étaient vendues en consignation aux solliciteurs. Si l’un d’eux perdait un reçu ou une carte de donateurs, il devait rembourser Starsky. À vrai dire, les solliciteurs n’utilisaient aucun instrument de travail d’une grande valeur. Le facteur de la propriété des instruments de travail n’est pas d’une grande importance en l’espèce.
+Les chances de bénéfice et les risques de perte
+Le mode de rémunération retenu dans la présente affaire permettait, dans une certaine mesure, aux travailleurs d’augmenter leurs revenus, à la fois en travaillant plus d’heures et aussi en organisant leurs efforts de manière à maximiser leur efficacité. Manifestement, on ne peut pas considérer tous les travailleurs payés à la commission comme travaillant à leur compte. M. Lecompte a dit au sujet de ses solliciteurs qu’ils avaient leur petite entreprise individuelle, et il ne fait aucun doute que le mode de rémunération utilisé est un facteur qui appuie cette conclusion.
+CONCLUSION
+[18] Il y a vingt ans, dans la décision Bradford v. M.N.R.[3], le juge Taylor de la Cour a fait l’observation suivante :
+Le principe général qui s’impose à moi dans cet appel et dans la récente jurisprudence mentionnée est que, dans un ensemble donné de circonstances où l’on trouve certaines caractéristiques de « l’employé » et de « l’entrepreneur indépendant », quelques autres aussi qui sont plutôt ambigües, les intentions et les objectifs des parties, s’ils sont clairement exprimés et acceptés de façon non équivoque, devraient être un facteur prédominant dans la décision de la Cour.
+Ce critère a, depuis lors, été appliqué par le juge Teskey dans la décision Manhattan Multi-Marketing Inc. c. M.R.N.[4], par le juge Sobier dans la décision Whistler Mountain Ski Club c. M.R.N.[5], et par le juge O’Connor dans la décision Armstrong c. M.R.N.[6].
+[19] À mon avis, le même principe doit être appliqué en l’espèce. Bien que certains facteurs tendent à indiquer l’existence d’un contrat de louage de services et que d’autres portent à croire à la présence d’un contrat d’entreprise, l’entente écrite conclue entre les parties est sans équivoque, et je dois m’en tenir à celle‑ci. Le présent appel sera donc accueilli, les décisions du ministre seront annulées et les décisions initiales seront modifiées de sorte qu’elles énoncent que l’emploi exercé par Mme Huber auprès de l’appelante n’est pas un emploi assurable au sens de la Loi ni un emploi ouvrant droit à pension au sens du Régime.
+Signé à Ottawa, Canada, ce 4e jour d’avril 2008.
+« E.A. Bowie »
+Juge Bowie
+Traduction certifiée conforme
+ce 23e jour de mai 2008.
+Jean David Robert, traducteur
+RÉFÉRENCE : 2008CCI194
+Nos DES DOSSIERS DE LA COUR : 2006-209(EI) et 2006-210(CPP)
+INTITULÉ : Starsky Enterprises Inc. et Le ministre du Revenu national
+LIEU DE L’AUDIENCE : London (Ontario)
+DATE DE L’AUDIENCE : Le 20 juin 2007
+MOTIFS DU JUGEMENT : L’honorable juge E.A. Bowie
+DATE DU JUGEMENT : Le 4 avril 2008
+COMPARUTIONS :
+Avocat de l’appelante :
+Me Jed L. Chinneck
+Avocat de l’intimé :
+Me Andrew Miller
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom : Me Jed L. Chinneck
+Cabinet : JMC Lawyers Professional Corporation
+Pour l’intimé : John H. Sims, c.r.
+Sous‑procureur général du Canada
+Ottawa, Canada
+[1] [2001] 2 R.C.S. 983; [2001] A.C.S. nº 61.
+[2] Wiebe Door Services Ltd. v. M.N.R., 87 D.T.C. 5025.
+[3] 88 DTC 1661.
+[4] [1991] A.C.I. nº 347.
+[5] [1996] A.C.I. nº 876.
+[6] 2004 CCI 682.

@@ -1,0 +1,146 @@
+---
+title: "Campbell v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29851/index.do"
+last_modified: "2010-06-15"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 TCC 323"
+citation2: ""
+neutral_citation: "2010 TCC 323"
+decision_date: "2010-06-15"
+language: "en"
+item_id: "29851"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6408
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T02:15:48.259000+00:00"
+cases_cited_count: 0
+cases_citing_count: 5
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "87ccde18a58259b56839fd195311afbc3562e1659deb8a5e9d0aebfd3db10a3b"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Campbell v. The Queen
+
+- Citation: 2010 TCC 323
+- Decision date: 2010-06-15
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6408, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Campbell v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-06-15
+Neutral citation
+2010 TCC 323
+File numbers
+2007-3715(IT)G
+Judges and Taxing Officers
+Diane Campbell
+Subjects
+Income Tax Act
+Decision Content
+Citation: 2010 TCC 323
+Date: 20100615
+Docket: 2007-3715(IT)G
+BETWEEN:
+WILLIAM CAMPBELL,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS RESPECTING SUBMISSIONS ON COSTS
+Campbell J.
+[1] The Applicant/Appellant brought a Motion for reconsideration of the costs awarded to him in my Reasons for Judgment issued on February 19, 2010.
+[2] The appeal in this matter involved a reassessment against Mr. Campbell in his capacity as a director of Complete Rent-Alls Limited (“CRL”) for unremitted deductions and employer contributions together with interest and penalties. The assessment of June 2, 2006 involved a total amount owing of $406,222.34, of which $207,283.00 was tax, with the remainder consisting of penalties and interest.
+[3] The appeal was heard in St. John’s, Newfoundland for two days, commencing on December 14, 2009, and I allowed the appeal with costs.
+[4] In the Motion before me, counsel for the Applicant/Appellant has indicated that, on December 8, 2009, a written Offer of Settlement was faxed to Respondent counsel. The offer was to settle the appeal by payment of $207,283.00, being the federal and provincial tax portions, in return for cancellation of the penalty and interest portions of the assessment, pursuant to subsection 220(3.1) of the Income Tax Act (the “Act”).
+[5] On December 11, 2009, Respondent counsel advised counsel for the Applicant/Appellant that the offer in its entirety was being rejected on the basis that penalties and interest, pursuant to subsection 220(3.1) of the Act, allowed for only a waiver in respect to the prior ten years and would, therefore, amount to cancellation of $13,000.00. No counter-offer was made.
+[6] The Applicant/Appellant submits that substantial additional expenses, incurred with respect to legal fees and disbursements in preparation for the conduct of the hearing, as well as preparation of the present Motion respecting costs, could have been avoided if the matter had settled. Reliance is placed on Rules 147(3)(d) and 147(7)(a) of the Tax Court of Canada Rules (General Procedure) (the “Rules”) in seeking a reconsideration of the award of costs, by directing the Court to take into account the rejection of a settlement offer that was more favourable to the Respondent than the eventual outcome of the appeal. The Applicant/Appellant is therefore requesting the following:
+1. normal tariff costs as wholly successful litigant for the period up to 12:00 noon of Friday, December 11, 2009, or party and party costs;
+2. commencing 12:00 noon of Friday, December 11, 2009, costs on the basis of 100% of fees and disbursements billed for final preparation and conduct of the hearing, together with all written submissions;
+3. costs fixed at $750.00 for preparation of the Motion; and
+4. costs fixed at $375 for preparation of rebuttal to the Respondent’s Written Submissions on the Motion.
+[7] The Respondent submits that the offer to settle was rejected on the basis that the Respondent is required to settle on a “principled” basis specific to the issues that will be before the Court. The Respondent states that the Offer of Settlement for payment of taxes owed in return for cancellation of penalties and interest, cited subsection 220(3.1) of the Act as its authority to do so. Paragraph 7 of the Respondent’s Written Submissions stated:
+7. ... It would not be a principled settlement for the Respondent to exercise the discretion under subsection 220(3.1) over which this Court has no control. Further, the vast majority of this case occurred beyond the ten year time limit set out in this provision.
+The Respondent submits that the Applicant/Appellant is entitled to costs only in accordance with the Tariff, together with disbursements, but not enhanced costs as requested in this Motion.
+[8] Rule 147 of the Rules gives a presiding Judge broad discretionary powers in determining an award of costs. The factors this Court may consider in exercising this discretionary power are set out in Rule 147(3):
+147… (3) In exercising its discretionary power pursuant to subsection (1) the Court may consider,
+(a) the result of the proceeding,
+(b) the amounts in issue,
+(c) the importance of the issues,
+(d) any offer of settlement made in writing,
+(e) the volume of work,
+(f) the complexity of the issues,
+(g) the conduct of any party that tended to shorten or to lengthen unnecessarily the duration of the proceeding,
+(h) the denial or the neglect or refusal of any party to admit anything that should have been admitted,
+(i) whether any stage in the proceedings was,
+(i) improper, vexatious, or unnecessary, or
+(ii) taken through negligence, mistake or excessive caution,
+(j) any other matter relevant to the question of costs.
+[9] Rule 147(4) gives the Court power to award a lump sum with respect to costs. It states:
+147 … (4) The Court may fix all or part of the costs with or without reference to Schedule II, Tariff B and, further, it may award a lump sum in lieu of or in addition to any taxed costs.
+[10] Rule 147(3)(d) specifically permits this Court to consider any settlement offers made in writing when determining an award of costs beyond the Tariff. Although this Court encourages settlement negotiations between parties wherever possible, the Respondent was under no obligation to provide a counter-offer, as the Appellant implies, and was free to promptly reject the offer made. Although under no obligation to consider an offer of settlement, parties are encouraged and should seriously review and consider such offers, otherwise they may be at peril for increased costs if they are less successful in Court than they may have been if they had accepted the offer.
+[11] Some jurisdictions provide that where an unsuccessful party rejects a settlement offer which is at least as favourable as the outcome of the hearing in the matter, that party is responsible for costs on a solicitor/client basis or at least increased costs for the period commencing on the date the offer is made and ending at the termination of the hearing. The Rules of this Court contain no such specific provision. However, I do not believe this absence prevents me from exercising my discretion in increasing costs where the circumstances support such an increase and particularly where Rule 147(3) specifically enumerates a written offer of settlement as one of the factors this Court may consider.
+[12] The Respondent, at paragraph 14 of the Written Submissions, states (referring to subsection 220(3.1)):
+14. Even if the Respondent had accepted the Appellant’s (Applicant’s) unprincipled offer the result sought would have remained unachievable as most of the amounts owing arose beyond the ten year limitation period.
+However, the Offer of Settlement clearly suggested that, as an alternative to applying the amount of $207,283.00 against taxes and cancelling penalties and interest, this amount “…could be differently allocated amongst the amounts reflected in the breakdown of balance attachment to the June 2, 2006 Notice of Assessment”. At paragraph 4 of the Appellant’s Rebuttal to Respondent’s Written Submissions, the Applicant/Appellant elaborated on this alternative proposal as follows:
+… the settlement funds could have been applied to selected tax amounts listed in the attachment plus associated interest and penalty, with remaining tax amounts being consensually vacated on the basis of, in each instance, acceptance of applicability of the statutory due diligence defence. The concomitant amounts of interest and penalty for such vacated tax amounts would evaporate accordingly.
+No discussions took place respecting this alternative proposal, although I believe they may have been fruitful if they had. I also note that the Offer of Settlement, in its final paragraph, states that a major justification for the cancellation of penalties and interest could be supported by to the lengthy period of time that elapsed between the closing of the company’s business in early 1999 and the issuance of the June 2, 2006 assessment. As noted at paragraph 9 of my Reasons for Judgment, this left the Appellant without the benefit of corporate records to reference at the hearing, as they had been inadvertently thrown out by third parties.
+[13] Considering that the other factors enumerated in Rule 147(3), such as volume of work, conduct, complexity of and importance of the issues, were generally typical of such an appeal, I allowed the appeal with costs, without being aware of the circumstances of the Offer of Settlement.
+[14] Although I do not think that a case has been made for awarding solicitor/client costs, I do, however, believe that the circumstances justify a more generous treatment respecting costs than provided for in our Tariff.
+[15] Consequently, in addition to the entitlement of the Applicant/Appellant to normal Tariff costs for the period up to 12:00 noon of Friday, December 11, 2009, I am awarding a lump sum amount of $6,500.00 for the time period subsequent to 12:00 noon, Friday, December 11, 2009 respecting preparation and conduct of the two day hearing, together with all written submissions for the hearing and this Motion. It would have been helpful if I had been provided with the amounts of the legal fees and disbursements subsequent to December 11, 2009, but in this absence, I have awarded an amount which I believe is reasonable. With the hearing having commenced on December 14, 2009, just three days after rejection of the Offer of Settlement, I would expect that much, if not all, of the preparation work would have been completed well in advance of these dates.
+Signed at Ottawa, Canada, this 15th day of June 2010.
+“Diane Campbell”
+Campbell J.
+CITATION:
+2010 TCC 323
+COURT FILE NO.:
+2007-3715(IT)G
+STYLE OF CAUSE:
+William Campbell and
+Her Majesty the Queen
+PLACE OF HEARING:
+St-John’s, Newfoundland
+DATES OF HEARING:
+REASONS RESPECTING SUBMISSIONS ON COSTS:
+The Honourable Justice Diane Campbell
+DATE OF JUDGMENT:
+DATE OF REASONS RESPECTING SUBMISSIONS ON COSTS:
+February 19, 2010
+June 15, 2010
+SUBMISSIONS:
+Counsel for the Appellant:
+Bruce S. Russell
+Counsel for the Respondent:
+Stan W. McDonald
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Bruce S. Russell
+Firm:
+McInnes Cooper
+Halifax, Nova Scotia
+For the Respondent:
+Myles J. Kirvan.
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,554 @@
+Title: Torres c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/65017/index.do
+Corpus path: corpus/cases/tcc/2013/2013-cci-380-65017-torres-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2013-12-02
+
+# Torres c. La Reine
+
+- Citation: 2013 CCI 380
+- Decision date: 2013-12-02
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5914, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Torres c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2013-12-02
+Référence neutre
+2013 CCI 380
+Numéro de dossier
+2010-3047(IT)G
+Juges et Officiers taxateurs
+Campbell J. Miller
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2010-3047(IT)G
+ENTRE :
+MARY KHRISTINE TORRES,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu consécutivement avec les appels de
+Mary Torres (2012-258(IT)G), Eva Torres (2011-4103(IT)G),
+Michael McNulty (2011-3223(IT)G), Andre Gautier (2011-3321(IT)G),
+Carrol Strachan (2010-3044(IT)G) et Ansel Hyatali (2011-4093(IT)G)
+les 4, 5, 6 et 8 novembre 2013, à Toronto (Ontario)
+Devant : L’honorable juge Campbell J. Miller
+Comparutions :
+Avocat de l’appelante :
+Me Dale Barrett
+Avocates de l’intimée :
+Me H. Annette Evans, Me Rishma Bhimji, Me Kathleen Beahen, Me Lindsay Beelen
+____________________________________________________________________
+JUGEMENT
+L’appel formé contre la cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d'imposition 2007 est rejeté.
+Signé à Toronto (Ontario), ce 2e jour de décembre 2013.
+« Campbell J. Miller »
+Juge C. Miller
+Traduction certifiée conforme
+ce 22e jour de juillet 2014.
+François Brunet, réviseur
+Dossier : 2012-258(IT)G
+ENTRE :
+MARY TORRES,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu consécutivement avec les appels de
+Mary Khristine Torres (2010-3047(IT)G), Eva Torres (2011-4103(IT)G),
+Michael McNulty (2011-3223(IT)G), Andre Gautier (2011-3321(IT)G),
+Carrol Strachan (2010-3044(IT)G) et Ansel Hyatali (2011-4093(IT)G)
+les 4, 5, 6 et 8 novembre 2013, à Toronto (Ontario)
+Devant : L’honorable juge Campbell J. Miller
+Comparutions :
+Avocat de l’appelante :
+Me Dale Barrett
+Avocates de l’intimée :
+Me H. Annette Evans, Me Rishma Bhimji, Me Kathleen Beahen, Me Lindsay Beelen
+____________________________________________________________________
+JUGEMENT
+L’appel formé contre la cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d'imposition 2008 est rejeté.
+Signé à Toronto (Ontario), ce 2e jour de décembre 2013.
+« Campbell J. Miller »
+Juge C. Miller
+Traduction certifiée conforme
+ce 22e jour de juillet 2014.
+François Brunet, réviseur
+Dossier : 2011-4103(IT)G
+ENTRE :
+EVA TORRES,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu consécutivement avec les appels de
+Mary Khristine Torres (2010-3047(IT)G), Mary Torres (2012-258(IT)G),
+Michael McNulty (2011-3223(IT)G), Andre Gautier (2011-3321(IT)G),
+Carrol Strachan (2010-3044(IT)G) et Ansel Hyatali (2011-4093(IT)G)
+les 4, 5, 6 et 8 novembre 2013, à Toronto (Ontario)
+Devant : L’honorable juge Campbell J. Miller
+Comparutions :
+Avocat de l’appelante :
+Me Dale Barrett
+Avocates de l’intimée :
+Me H. Annette Evans, Me Rishma Bhimji, Me Kathleen Beahen, Me Lindsay Beelen
+____________________________________________________________________
+JUGEMENT
+L’appel formé contre la cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2008 est rejeté.
+Signé à Toronto (Ontario), ce 2e jour de décembre 2013.
+« Campbell J. Miller »
+Juge C. Miller
+Traduction certifiée conforme
+ce 22e jour de juillet 2014.
+François Brunet, réviseur
+Dossier : 2011-3223(IT)G
+ENTRE :
+MICHAEL McNULTY,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appels entendus consécutivement avec les appels de
+Mary Khristine Torres (2010-3047(IT)G), Mary Torres (2012-258(IT)G),
+Eva Torres (2011-4103(IT)G), Andre Gautier (2011-3321(IT)G),
+Carrol Strachan (2010-3044(IT)G) et Ansel Hyatali (2011-4093(IT)G)
+les 4, 5, 6 et 8 novembre 2013, à Toronto (Ontario)
+Devant : L’honorable juge Campbell J. Miller
+Comparutions :
+Avocat de l’appelant :
+Me Dale Barrett
+Avocates de l’intimée :
+Me H. Annette Evans, Me Rishma Bhimji, Me Kathleen Beahen, Me Lindsay Beelen
+____________________________________________________________________
+JUGEMENT
+Les appels formés contre les cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d'imposition 1998, 1999, 2000, 2001, 2002, 2003, 2004 et 2008 sont rejetés.
+Signé à Toronto (Ontario), ce 2e jour de décembre 2013.
+« Campbell J. Miller »
+Juge C. Miller
+Traduction certifiée conforme
+ce 22e jour de juillet 2014.
+François Brunet, réviseur
+Dossier : 2011-3321(IT)G
+ENTRE :
+ANDRE GAUTIER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu consécutivement avec les appels de
+Mary Khristine Torres (2010-3047(IT)G), Mary Torres (2012-258(IT)G),
+Eva Torres (2011-4103(IT)G), Michael McNulty (2011-3223(IT)G),
+Carrol Strachan (2010-3044(IT)G) et Ansel Hyatali (2011-4093(IT)G)
+les 4, 5, 6 et 8 novembre 2013, à Toronto (Ontario)
+Devant : L’honorable juge Campbell J. Miller
+Comparutions :
+Avocat de l’appelant :
+Me Dale Barrett
+Avocates de l’intimée :
+Me H. Annette Evans, Me Rishma Bhimji, Me Kathleen Beahen, Me Lindsay Beelen
+____________________________________________________________________
+JUGEMENT
+L’appel formé contre la cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2008 est rejeté.
+Signé à Toronto (Ontario), ce 2e jour de décembre 2013.
+« Campbell J. Miller »
+Juge C. Miller
+Traduction certifiée conforme
+ce 22e jour de juillet 2014.
+François Brunet, réviseur
+Dossier : 2010-3044(IT)G
+ENTRE :
+CARROL STRACHAN,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu consécutivement avec les appels de
+Mary Khristine Torres (2010-3047(IT)G), Mary Torres (2012-258(IT)G),
+Eva Torres (2011-4103(IT)G), Michael McNulty (2011-3223(IT)G),
+Andre Gautier (2011-3321(IT)G) et Ansel Hyatali (2011-4093(IT)G)
+les 4, 5, 6 et 8 novembre 2013, à Toronto (Ontario)
+Devant : L’honorable juge Campbell J. Miller
+Comparutions :
+Avocat de l’appelante :
+Me Dale Barrett
+Avocates de l’intimée :
+Me H. Annette Evans, Me Rishma Bhimji, Me Kathleen Beahen, Me Lindsay Beelen
+____________________________________________________________________
+JUGEMENT
+L’appel formé contre la cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d'imposition 2007 est rejeté.
+Signé à Toronto (Ontario), ce 2e jour de décembre 2013.
+« Campbell J. Miller »
+Juge C. Miller
+Traduction certifiée conforme
+ce 22e jour de juillet 2014.
+François Brunet, réviseur
+Dossier : 2011-4093(IT)G
+ENTRE :
+ANSEL HYATALI,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu consécutivement avec les appels de
+Mary Khristine Torres (2010-3047(IT)G), Mary Torres (2012-258(IT)G),
+Eva Torres (2011-4103(IT)G), Michael McNulty (2011-3223(IT)G),
+Andre Gautier (2011-3321(IT)G) et Carrol Strachan (2010-3044(IT)G)
+les 4, 5, 6 et 8 novembre 2013, à Toronto (Ontario)
+Devant : L’honorable juge Campbell J. Miller
+Comparutions :
+Avocat de l’appelant :
+Me Dale Barrett
+Avocates de l’intimée :
+Me H. Annette Evans, Me Rishma Bhimji, Me Kathleen Beahen, Me Lindsay Beelen
+____________________________________________________________________
+JUGEMENT
+L’appel formé contre la cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d'imposition 2009 est rejeté.
+Signé à Toronto (Ontario), ce 2e jour de décembre 2013.
+« Campbell J. Miller »
+Juge C. Miller
+Traduction certifiée conforme
+ce 22e jour de juillet 2014.
+François Brunet, réviseur
+Référence : 2013 CCI 380
+Date : 20131202
+Dossier : 2010-3047(IT)G
+ENTRE :
+MARY KHRISTINE TORRES,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+et
+Dossier : 2012-258(IT)G
+MARY TORRES,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+et
+Dossier : 2011-4103(IT)G
+EVA TORRES,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+et
+Dossier : 2011-3223(IT)G
+MICHAEL McNULTY,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+et
+Dossier : 2011-3321(IT)G
+ANDRE GAUTIER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+et
+Dossier : 2010-3044(IT)G
+CARROL STRACHAN,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+et
+Dossier : 2011-4093(IT)G
+ANSEL HYATALI,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge C. Miller
+[1] C’est une bien triste histoire qu’ont vécue Mary Khristine Torres, Eva Torres, Michael McNulty, Andre Gautier, Carrol Strachan and Ansel Hyatali, six seulement parmi de nombreux contribuables qui ont été menés en bateau, avec la promesse d’importants remboursements d’impôt au bout du compte. Les remboursements d’impôt résultaient de la déduction de pertes d’entreprise fictives. Les appelants avaient tous accordé une confiance inébranlable à des représentants du groupe Fiscal Arbitrators qui devaient établir leurs déclarations de revenus de telle sorte qu’elles génèrent les remboursements escomptés. L’Agence du revenu du Canada (l’« ARC ») a refusé les pertes et a imposé des pénalités aux contribuables en application du paragraphe 163(2) de la Loi de l’impôt sur le revenu (la « Loi »). Les présents motifs ne concernent que les pénalités.
+[2] La question à trancher est tout simplement de savoir si les contribuables ont, sciemment ou dans des circonstances équivalant à faute lourde, fait de faux énoncés ou y ont acquiescé.
+LES FAITS
+Mary Khristine Torres
+[3] Mme Mary Torres est apparue comme un témoin franc et crédible. Elle a accompli trois années d’études universitaires aux Philippines, puis a obtenu au Canada un baccalauréat en sciences infirmières pour devenir infirmière-auxiliaire autorisée.
+[4] En 2006, en 2007 et en 2008, Mme Mary Torres a exercé les fonctions d’infirmière dans le secteur des soins de longue durée. Sa tâche consistait plus exactement à faire des évaluations de santé. Elle déclarait consciencieusement son revenu tiré de cet emploi, ainsi que quelques revenus en intérêts. Elle avait toujours fait établir ses déclarations de revenus par des spécialistes en la matière car, comme elle l’a dit, elle ne comprenait rien à la comptabilité, aux déclarations de revenus ni même aux affaires en général. Pour les années 2002 à 2006, elle a reçu des remboursements d’impôt de 1 029 $, 814 $, 1 061 $, 1 312 $ et 29 $ respectivement. En 2008, elle a produit sa déclaration de 2007, elle aussi établie par un spécialiste, en déclarant un revenu d’emploi de 70 991 $ et un revenu de placement de 267 $. Peu après, cependant, elle a été présentée à M. Larry Watts, du groupe Fiscal Arbitrators. M. Watts était un collègue de la mère de Mary Torres. Selon Mary Torres, M. Watts avait pu obtenir des remboursements d’impôt pour plusieurs des amis de sa mère.
+[5] Mme Mary Torres a rencontré deux ou trois fois M. Watts, ce qui l’a conduite à produire le 26 mai 2008 une demande de redressement concernant sa déclaration de revenus de 2007. Le redressement demandé se présentait ainsi :
+Revenus d’entreprise bruts 15 800 $
+Revenus d’entreprise nets (113 426 $)
+Elle a certifié l’exactitude de cette information. Priée de dire si elle avait examiné ce document avant de le signer, elle a donné la même réponse que celle qu’elle donnait pour tous les documents qu’elle a signés et présentés à l’ARC, c’est-à-dire que M. Watts avait établi le document, puis qu’elle l’avait lu et signé sans s’enquérir davantage. Elle lui faisait confiance. C’était un professionnel. Elle affirme qu’elle avait une si faible compréhension de la déclaration de revenus qu’elle ne savait pas quelles questions lui poser.
+[6] Il est utile d’examiner les documents et pièces de correspondance échangés entre l’ARC et Mme Mary Torres, en gardant toujours à l’esprit qu’elle n’a jamais rédigé les pièces présentées à l’ARC, même si elle les lisait toujours, tout en affirmant ne pas les comprendre.
+[7] Le 19 septembre 2008, l’ARC a répondu à la demande de redressement de Mme Mary Torres en la priant de remplir et de retourner un questionnaire d’entreprise, auquel seraient joints les reçus des dépenses de 129 226 $ dont Mary Torres demandait la déduction. M. Watts a rédigé une lettre datée du 14 octobre 2008 que Mme Mary Torres devait envoyer en réponse à la demande de l’ARC. La lettre ne contenait aucun des renseignements que demandait l’ARC.
+[8] Le 21 janvier 2009, l’ARC a de nouveau écrit à Mme Mary Torres pour l’informer qu’elle proposait de refuser la perte d’entreprise et qu’elle prévoyait lui imposer des pénalités.
+[9] À nouveau, Mme Mary Torres a lu la lettre, puis l’a remise à M. Watts, lequel lui a présenté une lettre datée du 9 février 2009, pour qu’elle l’envoie à l’ARC, lettre qui encore une fois ne contenait pas les renseignements demandés par l’ARC et rejetait sa proposition.
+[10] Le 29 avril 2009, l’ARC a écrit à Mme Mary Torres pour lui exposer sa position définitive concernant les déductions pour pertes demandées et lui signifier l’application de pénalités pour faute lourde. M. Watts a remis à Mme Mary Torres une lettre de réponse datée du 2 mai 2009, pour envoi à l’ARC, lettre qui rejetait la position de l’ARC et demandait un dédommagement à celle-ci.
+[11] Parcourant les documents en question, Mme Mary Torres a déclaré à plusieurs reprises que, même si elle les avait lus, elle ne comprenait pas ce qu’ils signifiaient, tout en reconnaissant qu’elle savait qu’elle n’exerçait aucune activité commerciale.
+[12] Les communications portant sur l’année d'imposition 2008 étaient de même nature, et il est inutile d’en faire à nouveau l’examen document par document. Je relève néanmoins qu’elle a signé la déclaration de 2008 faisant état de pertes d’entreprise de 30 000 $, et cela le 20 mars 2009, soit deux mois après avoir été informée par l’ARC que celle‑ci songeait à lui imposer, pour l’année d'imposition 2007, des pénalités pour faute lourde. Elle avait apposé sa signature sur la déclaration après insertion de la préposition [traduction] « pour ». Le spécialiste en déclarations n’avait pas rempli la case de la déclaration réservée aux professionnels de l’impôt. Mme Mary Torres a affirmé catégoriquement durant son témoignage que, bien qu’ayant lu les lettres de l’ARC, elle avait tout simplement transmis le tout à M. Watts sans s’interroger davantage, puis avait suivi les directives de celui-ci, notamment en apposant un timbre de trois cents au bas de l’une des lettres adressées à l’ARC après avoir écrit son nom en diagonale par-dessus. Elle n’a jamais communiqué avec l’ARC de sa propre initiative, ni demandé à son ancien spécialiste en déclarations de revoir la situation.
+[13] Pour donner une idée des absurdités dites par M. Watts dans les lettres qu’il avait demandé à Mme Mary Torres de signer, je reproduis ci-après partie d’une lettre datée du 8 septembre 2011, envoyée par Mme Torres, avec les mots « ens legis » (c’est-à-dire « être artificiel ») ajoutés après son nom.
+[TRADUCTION]
+Toutes les opinions exprimées dans votre lettre sont ici expressément réfutées pour un motif valable.
+Prière de nous communiquer dans un délai de 30 jours, pour éviter pleine préclusion de tout écart par rapport à vos fonctions officielles – les faits, motifs et hypothèses, et toutes présomptions sur lesquelles vous vous fondez pour présenter votre offre uniquement sur la base « sous peine de parjure » et sur la base « sous peine de pleine responsabilité commerciale et en equity selon le droit international », afin de pouvoir vérifier votre responsabilité et votre droiture, comme convenu précédemment, et d’envoyer ladite information à l’adresse susmentionnée pour vérification.
+[14] Naturellement, Mme Mary Torres n’a pu expliquer quoi que ce soit de ce que M. Watts avait établi pour elle, qu’il s’agisse de ses déclarations de revenus, de ses demandes de redressement ou de ses pièces de correspondance.
+[15] L’ARC a refusé la déduction de ses pertes d’entreprise pour 2007 et 2008 et lui a imposé des pénalités.
+Eva Torres
+[16] Mme Eva Torres est courtière d’assurance auprès du Plan de protection du Canada, s’occupant d’assurance maladie, d’assurance soins dentaires et d’assurance voyages. Elle détient un baccalauréat en commerce et en économie obtenu aux Philippines. M. Watts, l’un des représentants du groupe Fiscal Arbitrators, était lui aussi courtier auprès de la compagnie d’assurance. Ils avaient été au service de la même compagnie durant environ 18 mois lorsque Mme Eva Torres a été informée par un collègue que M. Watts réussissait à obtenir des remboursements d’impôt pour d’autres personnes. Elle a demandé à M. Watts en mars 2009 d’établir sa déclaration de revenus de 2008. Elle a déclaré environ 40 000 $ en revenus d’emploi, 13 647 $ en revenus de commissions, ainsi qu’une perte d’entreprise de 39 523 $ sur des revenus d’entreprise bruts de 71 828 $. L’état des activités de mandataire, annexé à sa déclaration, contient ce qui suit :
+[TRADUCTION]
+Service d’entreprise : Mandataire
+Recettes brutes :
+A. *Sommes perçues en tant que mandataire au nom d’un mandant, et
+déclarées par des tiers et déjà inscrites sur les lignes
+101-130 d’après les feuillets T4, T5, T3 et autres feuillets, etc. 47 223,55 $
+*T4a et autres sommes déclarées par des tiers et perçues
+à titre de mandataire 13 647,83 $
+*Sommes TOTALES perçues à titre de mandataire au nom d’un mandant et déclarées par des tiers : 60 871,38 $
+*Sommes additionnelles perçues à titre de mandataire au nom d’un mandant et NON
+déclarées par des tiers : 10 956,85 $
+B. Ligne 162 *Sommes totales perçues à titre de mandataire
+au nom d’un mandant : 71 838,23 $
+Moins
+Sous-traitance et main-d’œuvre
+*Sommes attribuées au mandant en échange
+de main-d’œuvre 50 456,85 $
+Bénéfice brut 21 371,38 $
+Soustraire : (de A ci-dessus)
+*Sommes perçues à titre de mandataire au nom d’un mandant
+et déclarées par des tiers et déjà inscrites sur les
+lignes 101-130 d’après les feuillets T4, T5, T3
+et autres feuillets, etc. 60 871,38 $
+C. Ligne 135 Montant net (- perte) (39 500,00 $)
+[17] Mme Eva Torres a reconnu qu’elle n’exerçait aucune activité de mandataire. Elle n’a pu dire ce à quoi correspondaient les chiffres indiqués. Elle ne comprenait pas d’où venaient les pertes d’entreprise.
+[18] Mme Eva Torres avait bien lu sa déclaration de revenus avant d’en certifier l’exactitude. Elle n’avait jamais interrogé M. Watts sur son contenu, car elle était sûre qu’il faisait ce qu’il fallait faire. Comme les autres, elle avait suivi les directives de Fiscal Arbitrators en apposant sur sa déclaration sa signature précédée du mot [TRADUCTION] « pour ». La case devant être remplie par les spécialistes en déclarations de revenus avait été laissée vide.
+[19] Dans une lettre de novembre 2009, l’ARC a demandé à Mme Eva Torres des renseignements susceptibles d’étayer les pertes d’entreprise, en la priant notamment de remplir un questionnaire d’entreprise. Elle a tout simplement transmis la lettre au groupe Fiscal Arbitrators, lequel lui a remis une certaine formule de réponse qu’elle a signée et datée du 4 décembre 2009, et qui ne donnait aucun renseignement.
+[20] En juin 2009, l’ARC lui a signifié son intention de refuser la déduction des pertes d’entreprise et de lui imposer des pénalités. Mme Eva Torres, encore une fois, a tout simplement transmis cette correspondance au groupe Fiscal Arbitrators, qui encore une fois a rédigé une réponse type, que Mme Eva Torres a signée et au bas de laquelle, à la demande de Fiscal Arbitrators, elle a apposé un timbre de trois cents par-dessus lequel elle a écrit son nom. Elle n’a jamais tenté de communiquer avec l’ARC de sa propre initiative, et elle n’a pas demandé non plus au groupe Fiscal Arbitrators de lui expliquer la réponse que le groupe lui avait dit de signer.
+[21] Après avoir reçu l’avis de cotisation daté du 3 mars 2011 qui refusait les pertes et imposait des pénalités, Mme Eva Torres a prié Fiscal Arbitrators de rédiger un avis d’opposition. Elle a lu et signé l’avis. L’avis maintenait encore l’exactitude de la déclaration de revenus.
+[22] En réponse à l’avis d’opposition, l’ARC a écrit à Mme Eva Torres en la priant à nouveau d’étayer la perte commerciale de 39 500 $ dont elle demandait la déduction. Suivant son habitude, elle s’est contentée de signer ce que le groupe Fiscal Arbitrators lui a dit de signer. La réponse du 8 septembre 2011 était de même teneur que celle envoyée par Mme Mary Torres à la même date (voir le paragraphe 13).
+[23] Au cours des cinq années précédant 2008, il ressortait des déclarations de revenus de Mme Eva Torres qu’elle avait droit à un remboursement de 310 $ en 2003 et qu’elle devait 576 $, 1 423 $, 5 168 $ et 7 822 $ respectivement au cours des années subséquentes.
+[24] Par avis de ratification daté du 10 novembre 2011, Mme Eva Torres s’est vu imposer des pénalités de 4 127 $ pour l’année d'imposition 2008.
+Michael McNulty
+[25] M. McNulty détient un baccalauréat en génie civil et un diplôme en technologie civile. Pendant de nombreuses années, il a été au service de Taggart Construction en qualité de chef de projet sur des chantiers. Jusqu’à la production de sa déclaration de 2008, il avait toujours lui-même établi et produit ses déclarations de revenus, obtenant des remboursements qui pouvaient aller de 100 $ à 2 500 $. Dans ses déclarations antérieures à 2008, il n’a jamais déclaré de revenu d’entreprise ni cherché à déduire des pertes d’entreprise. Comme tous les autres appelants, il a soutenu craindre le risque.
+[26] En octobre 2008, M. McNulty a assisté, à l’université Saint-Paul d’Ottawa, à une conférence organisée par le groupe Fiscal Arbitrators, et c’est là qu’il a fait la connaissance de M. Watts. La rencontre s’est déroulée en privé, et il était demandé aux participants de signer un formulaire de non-divulgation. M. McNulty a témoigné que le groupe Fiscal Arbitrators avait exposé une nouvelle façon de produire les déclarations de revenus, en disjoignant en quelque sorte le contribuable de son numéro d’assurance sociale. Il allait finalement en résulter d’importants remboursements. M. McNulty était sceptique, mais il s’est rendu avec un ami à une deuxième conférence. C’est alors que M. Watts a informé l’assistance qu’il était un ancien fonctionnaire de l’ARC et que l’ARC avait connaissance de ce procédé. M. McNulty a décidé d’aller de l’avant, avec le sentiment qu’il n’avait rien à perdre, mais tout en reconnaissant que ce n’était pas le genre de chose qu’il ferait en temps normal. Il n’en a rien dit à son épouse car, selon M. McNulty, celle-ci l’aurait ramené à l’ordre.
+[27] Le 21 mai 2009, M. McNulty a signé sa déclaration de revenus de 2008, établie par le groupe Fiscal Arbitrators, et en a certifié l’exactitude. Sa déclaration ne précisait pas elle non plus qu’elle avait été établie par des professionnels. Il a témoigné qu’il avait parcouru la déclaration et avoir fait précéder sa signature du mot [TRADUCTION] « pour », à la demande de Fiscal Arbitrators.
+[28] La déclaration faisait état d’un revenu d’entreprise se chiffrant à 128 147 $, et de pertes d’entreprise de 392 880 $. M. McNulty a dit qu’il savait qu’il n’avait pas d’entreprise et qu’il n’avait pu dépenser 392 880 $. Il a également attesté l’exactitude d’une demande de reports rétrospectifs de pertes aux années 2006 et 2007. Il ne comprenait pas pourquoi sa déclaration parlait d’une entreprise en qualité de mandataire. Il s’est dit que les représentants de Fiscal Arbitrators, anciens fonctionnaires de l’ARC, étaient réguliers et devaient savoir ce qu’ils faisaient.
+[29] M. McNulty a lui aussi présenté à l’ARC une demande de redressement pour ses années d’imposition 1998 à 2001, dans laquelle il sollicitait des pertes allant de 61 000 $ à 89 000 $, ce qui a conduit une demande de remboursement de 104 000 $, pour laquelle le groupe Fiscal Arbitrators a exigé des honoraires de 18 000 $.
+[30] Le 29 mars 2010, l’ARC a recalculé ce que devait M. McNulty pour ses années d'imposition 1998 à 2001, et lui a imposé des pénalités. À la réception des avis de nouvelle cotisation, qui totalisaient environ 110 000 $ en pénalités et intérêts, M. McNulty s’est senti, a-t-il dit, totalement abattu. Il n’a pas cherché à obtenir un deuxième avis, pensant plutôt qu’il devait s’en remettre au groupe Fiscal Arbitrators et réagir comme le groupe le lui dirait car il [TRADUCTION] « avait désespérément besoin d’eux pour le sortir de ce bourbier ». Il se sentait totalement dépendant de Fiscal Arbitrators. Il pensait qu’il n’avait pas le choix. M. McNulty a donc signé les lettres et l’avis d’opposition établis par le groupe Fiscal Arbitrators, en suivant rigoureusement ses directives (y compris en s’abstenant de s’adresser à l’ARC), mais a reconnu qu’il était mal à l’aise et inquiet.
+[31] En juillet 2008, le ministre du Revenu national (le « ministre ») a délivré un avis de ratification qui confirmait les pénalités d’environ 42 537 $ pour 1998 à 2004, en plus d’une pénalité de 56 749 $ pour 2008.
+Andre Gautier
+[32] M. Gautier est technicien en systèmes de CVC, et il a obtenu son diplôme dans une école de métiers. Il œuvre dans ce secteur depuis plus de 30 ans, dont les dernières années en qualité de gérant du service d’entretien et de réparation. Il est l’unique actionnaire d’une société de portefeuille qui détient une participation de 10 p. 100 dans l’entreprise de son employeur. Il s’adressait toujours à des spécialistes, plus précisément à un comptable, un certain M. Gervais, pour l’établissement de ses déclarations de revenus, se limitant le plus souvent, a-t-il dit, à les signer et à les envoyer. Au cours des quelques années antérieures, il avait obtenu des remboursements se chiffrant entre 500 $ et 2 500 $. Durant l’année 2008, son frère et lui étaient propriétaires d’un immeuble locatif, mais n’exploitaient aucune autre entreprise.
+[33] M. Gautier a été présenté au groupe Fiscal Arbitrators par l’entremise d’une relation de son frère. Il assistait à un office où il a fait la connaissance de Carlton Branch, du groupe Fiscal Arbitrators, qui lui a expliqué comment fonctionnait le processus; en substance, le contribuable obtenait des remboursements en faisant de son numéro d’assurance sociale une entreprise ayant droit à certaines dépenses, par exemple vêtements, nourriture et autres dépenses personnelles. M. Gautier n’a jamais communiqué au groupe Fiscal Arbitrators un quelconque montant en dollars reflétant de telles dépenses. Comme l’a dit M. Gautier, il n’était pas tout à fait sûr de tous les détails, mais il était convaincu que le groupe était composé de professionnels qui savaient ce qu’ils faisaient. Il ne voyait pas la nécessité de s’adresser à quiconque afin de voir de quoi il retournait.
+[34] Le groupe Fiscal Arbitrators a établi la déclaration de revenus de 2008 de M. Gautier, que celui-ci a signée (en faisant précéder à nouveau sa signature du mot « pour », comme demandé), et dont il a certifié l’exactitude le 28 mai 2009. La déclaration faisait état d’un revenu d’emploi de 81 538 $, d’un revenu de location de 9 000 $ et d’une perte d’entreprise de 301 000 $. Il n’avait aucune idée de ce que tout cela signifiait.
+[35] Un état des activités de mandataire était annexé à sa déclaration. M. Gautier a reconnu qu’il ne savait pas pourquoi il y était question d’une activité de mandataire, ni ce en quoi consistait une sous-traitance de main-d’œuvre. Il croyait que tout cela faisait tout simplement partie du processus, selon ses propres mots.
+[36] M. Gautier a aussi demandé le report rétrospectif de pertes aux années 2005, 2006 et 2007, à savoir 62 423 $, 71 942 $ et 76 953 $ respectivement, reports qui, une fois admis, auraient donné lieu à un remboursement de tous ses impôts pour les années en cause.
+[37] Le 9 avril 2010, l’ARC a envoyé à M. Gautier une lettre le priant de communiquer des informations à propos de ses pertes d’entreprise, lettre à laquelle était annexé un questionnaire commercial qu’il devait remplir. Il ne l’a pas rempli, mais a tout simplement demandé au groupe Fiscal Arbitrators de rédiger des réponses en son nom. Le groupe lui a dit que tout cela faisait partie du processus. M. Gautier commençait à s’inquiéter, puis est allé voir M. Gervais, son ancien comptable, qui n’a pu lui expliquer les chiffres.
+[38] Plusieurs lettres ont été échangées en 2010 entre l’ARC et M. Gautier. Toutes les réponses de M. Gautier ont été concoctées par le groupe Fiscal Arbitrators. Il a suivi les directives du groupe, notamment en plaçant un timbre avec son nom par-dessus au bas de sa lettre de réponse, qui comportait le passage suivant :
+[TRADUCTION]
+Les modalités du contrat privé de mandat conclu entre l’homme libre communément appelé Andre, de la famille Gautier, lequel est le mandant, le bénéficiaire contributeur et la véritable partie négociatrice pour l’entité/la personne/la fiducie fictive appelée ANDRE GAUTIER, qui, par nécessité, est devenue la représentante commerciale du mandant; ne sont pas soumises à l’examen d’une entité tierce, et, par conséquent, les opérations privées conclues entre le mandant et le mandataire ne peuvent être communiquées à l’Agence du revenu du Canada.
+On l’a à nouveau informé que tout cela faisait partie du processus. Il n’a pas communiqué avec l’ARC, tout en précisant que lui et son épouse avaient des doutes. Il a continué cependant de s’en remettre au groupe Fiscal Arbitrators, lequel a rédigé son avis d’opposition, encore une fois, une clause de style dans lequel le motif de l’opposition comprenait notamment ce qui suit :
+[TRADUCTION]
+- le présent avis annule toutes les signatures et/ou les acceptations présumées concernant la présente nouvelle cotisation pour la présente année d'imposition, nunc pro tunc;
+- une notification valable n’a pas été reçue qui nous donnerait la possibilité de rejeter et de contester les modalités de la proposition ou de l’offre;
+- toute l’information reçue par l’ARC a été certifiée exacte et complète, et elle révèle fidèlement l’intégralité du revenu.
+[39] M. Gautier a admis que cela n’avait au départ aucun sens, et il est gêné d’avoir eu recours au groupe Fiscal Arbitrators.
+[40] L’ARC a délivré un avis de ratification le 22 juillet 2011, qui confirmait des pénalités de 14 117 $ pour l’année d'imposition 2008.
+Carrol Strachan
+[41] Mme Carrol Strachan est une agente de bord de longue date d’Air Canada qui a dit avoir une assez bonne compréhension de la comptabilité, même si elle n’établissait pas elle-même ses déclarations de revenus. Elle n’a jamais été propriétaire ou exploitante d’une entreprise qui ait généré un revenu à déclarer. Avant 2007, elle n’avait jamais demandé la déduction de pertes d’entreprise. Les remboursements d’impôt qu’elle recevait se situaient en général entre 1 000 $ et 2 400 $. Durant un certain nombre d’années, Mme Strachan avait fait établir ses déclarations de revenus par Carlton Branch, sans aucun problème. Elle a dit qu’il était un ancien fonctionnaire de l’ARC qui établissait des déclarations fiscales et qui s’occupait de fonds communs de placement. En 2008, elle a été présentée par M. Branch à M. Watts, du groupe Fiscal Arbitrators. Il s’est rendu chez elle pour lui faire un exposé au cours duquel il lui a expliqué qu’il avait été au service de l’ARC. Il lui a dit qu’il pouvait obtenir des remboursements d’impôt supérieurs et qu’il avait réussi à le faire pour d’autres. Elle se souvenait qu’il lui avait expliqué quelque chose à propos de mandants et de mandataires qui avaient droit à des déductions, mais que son discours [TRADUCTION] « allait dans toutes les directions ». Il voulait qu’elle [TRADUCTION] « remonte sur plusieurs années », mais elle a décidé de s’en tenir à l’année 2007. Comme elle disait, [TRADUCTION] « je fais attention ».
+[42] Mme Carrol Strachan a fait établir sa déclaration de revenus de 2007 par Fiscal Arbitrators. M. Branch lui a demandé de faire précéder sa signature du mot [TRADUCTION] « pour ». Elle a passé en revue la déclaration, mais pas en détail. La déclaration faisait état d’un revenu d’emploi de 76 998 $, ainsi que d’un revenu d’entreprise brut de 15 000 $ et de pertes d’entreprise de 62 068 $. Elle a avoué ne pas savoir ce que cela signifie. À l’époque, le groupe Fiscal Arbitrators lui avait dit qu’elle avait droit à un remboursement du gouvernement, et le groupe faisait en sorte que cela paraisse crédible. Elle pensait qu’il ne lui était pas nécessaire de payer des impôts puisque M. Branch et M. Watts disaient tous deux qu’elle n’avait pas à le faire. Elle leur faisait confiance, mais ressentait une certaine inquiétude, même avant de signer sa déclaration.
+[43] Il est clair que, alors qu’elle parcourait l’état des activités commerciales annexé à sa déclaration, Mme Carrol Strachan ne comprenait pas ce à quoi renvoyaient la notion de mandataire, ou celle de sommes perçues comme mandataire pour un mandant, ou encore celle des autres dépenses censées être payées par le mandataire au mandant. Cela n’est pas surprenant puisque ce ne sont que balivernes. Elle affirme que, même si elle ne comprenait pas, elle avait le sentiment que c’était légal. Elle a précisé avoir produit pour 2008 une déclaration « normale ».
+[44] En décembre 2008, Mme Carrol Strachan a reçu de l’ARC une demande de renseignements à propos des pertes d’entreprise dont elle avait demandé la déduction. Elle a téléphoné à M. Branch et à M. Watts, qui lui ont dit qu’ils s’en chargeraient. Elle leur a demandé dans quoi ils l’avaient embarquée. Elle a quand même signé les réponses à l’ARC qu’ils ont rédigées pour elle.
+[45] Il s’en est suivi un échange de lettres entre l’ARC et Mme Carrol Strachan, celle-ci s’en remettant à chaque fois au modèle fourni par le groupe Fiscal Arbitrators. Le groupe lui disait toujours qu’il se chargerait de tout cela et qu’elle conservait son droit aux remboursements. Le groupe est allé jusqu’à rédiger son avis d’appel après qu’elle eut reçu l’avis de ratification. Même dans une réplique à la réponse, elle est encore désignée comme entité fictive.
+[46] Mme Carrol Strachan a bien obtenu un remboursement, mais l’a conservé à la banque parce qu’elle ne se sentait pas à l’aise à l’idée de le dépenser.
+[47] Elle n’a jamais appelé l’ARC pour s’enquérir de la justesse du procédé. Elle n’a jamais vu ni entendu une quelconque mise en garde du gouvernement sur ce procédé, mais elle n’a effectuée non plus quelque recherche que ce soit sur le site Web de l’ARC.
+[48] Le ministre a établi le 25 juin 2010 un avis de ratification refusant les déductions pour pertes demandées et appliquant des pénalités pour son année d'imposition 2007.
+Ansel Hyatali
+[49] M. Ansel Hyatali a œuvré durant 25 ans comme chef d’équipe dans un centre de distribution de peinture. Il a un niveau de scolarité de 12e année et il est titulaire d’un certificat de soudure. Il n’a jamais été propriétaire ou exploitant d’entreprise et il n’a donc jamais, jusqu’aux années en cause, déclaré de pertes d’entreprise, seulement un revenu d’emploi. Il recevait en général un remboursement d’impôt allant de 2 000 $ à 4 000 $. Avant 2007, il faisait établir ses déclarations par le cabinet Steve Tax Services.
+[50] M. Ansel Hyatali avait été mis en rapport avec M. Carlton Lewis en 2007 par un collègue qui lui avait dit que M. Lewis fréquentait une église. D’après le témoignage de M. Hyatali, on ne sait trop qui a établi quelles déclarations, mais il semble que M. Lewis a établi la déclaration de M. Hyatali de 2007, quelqu’un d’autre a établi sa déclaration de 2008, et un certain M. Frikki a établi sa déclaration de 2009, celle qui est en cause ici. M. Hyatali a témoigné cependant que c’est M. Lewis qui lui a dit de simplement signer la déclaration de 2009. M. Hyatali ne s’est pas exprimé sur les antécédents de M. Frikki.
+[51] Dans ses déclarations de revenus de 2007 et de 2008, M. Ansel Hyatali a déduit de substantiels dons de bienfaisance, qui ont été mis en doute par l’ARC. M. Hyatali a prié M. Lewis d’intervenir pour lui sur cet aspect. Il dit n’avoir jamais eu de rapports avec le groupe Fiscal Arbitrators, bien qu’il eût été informé par M. Lewis que la correspondance adressée par l’ARC à M. Hyatali serait transmise au groupe Fiscal Arbitrators.
+[52] M. Ansel Hyatali n’a pas établi sa déclaration de revenus de 2009, mais il l’a signée et certifiée. La déclaration ne précisait pas qu’elle avait été établie par un professionnel. Elle indiquait que le revenu d’emploi de M. Hyatali était de 64 881 $ et aussi qu’il avait gagné un revenu d’entreprise de 76 910 $ et qu’il avait essuyé une perte d’entreprise de 232 159 $. M. Hyatali ne sait pas d’où sortaient ces chiffres. Il n’avait pas d’entreprise. Il n’a demandé à personne ce qu’ils signifiaient. Pareillement, il n’avait aucune idée de ce à quoi correspondaient les chiffres figurant sur l’état des activités commerciales. Il s’était contenté de signer à l’endroit qu’on lui avait indiqué, sans passer en revue les documents. Il savait qu’il n’avait pas d’entreprise au moment de signer. De plus, lorsqu’il a demandé le report rétrospectif de pertes de 57 402 $, de 60 021 $ et de 52 152 $, il n’avait aucune idée de ce que cela signifiait.
+[53] En octobre 2010, M. Ansel Hyatali a reçu de l’ARC une demande de renseignements complémentaires concernant les pertes d’entreprise. Il a tout simplement remis la correspondance à M. Lewis, qui lui a dit qu’il allait s’en charger. Le 14 octobre 2010, on lui a remis une lettre à signer destinée à l’ARC, lettre qui contenait ce qui suit :
+[TRADUCTION]
+Ces propositions sont acceptées sous réserve que soient reçues des réponses véridiques à chacune des questions ci-après avant la fermeture des bureaux, trente (30) jours après la date de la présente lettre; s’il n’est pas répondu à l’une des questions, alors vos bureaux s’engagent à indemniser l’animateur conformément à son barème d’honoraires pour ses réponses à toute révision ou vérification.
+M. Ansel Hyatali ne savait aucunement qui était l’animateur mentionné dans la lettre. Il ne s’est jamais adressé directement à l’ARC. Il y a eu ensuite l’échange habituel de lettres entre l’ARC et M. Hyatali, lequel s’en remettait totalement aux réponses fournies par M. Lewis. M. Hyatali ne s’est jamais demandé pourquoi il devait de l’argent. Il n’a jamais recherché une aide additionnelle. Il laissait tout simplement M. Lewis s’occuper de son dossier. Dans l’avis d’opposition du 28 avril 2011, que M. Lewis avait fait signer par M. Hyatali, il est fait mention de l’établissement d’une entreprise à domicile. M. Hyatali a reconnu qu’il ne savait absolument pas pourquoi cette mention avait été insérée.
+[54] M. Ansel Hyatali ne s’est jamais rendu sur le site Web de l’ARC et n’a jamais communiqué directement avec l’ARC. Il a admis avoir suivi aveuglément les conseils de M. Lewis.
+[55] Par avis de ratification daté du 1er novembre 2011, le ministre a refusé la déduction pour perte d’entreprise de 232 159 $ et imposé des pénalités de 28 111 $.
+Publications de l’ARC
+[56] L’ARC a produit en preuve plusieurs extraits de son site Web. Bon nombre de ces extraits précisaient qu’ils avaient été modifiés en 2011 ou en 2012, de sorte qu’il est impossible de dire s’ils figuraient sur le site en 2007, en 2008 ou en 2009. Quelques-uns d’entre eux cependant semblent avoir figuré sur le site Web durant la période considérée. Je reproduirai ici certains extraits tirés du site Web de l’ARC :
+a) Alerte fiscale : Planification fiscale abusive (2005-11-10)
+Si vous êtes confronté à un cas qui vous semble trop beau pour être vrai ou à une situation qui vous paraît hors de l’ordinaire, vous devriez recourir aux services d’un conseiller fiscal bien informé et de confiance qui se chargera de vous expliquer les risques et les conséquences des différentes mesures de planification fiscale.
+b) Alerte fiscale : Avertissement : les stratagèmes qui promettent des pertes ou déductions fiscales importantes n’en valent pas le risque.
+Si cela semble trop beau pour être vrai, c’est probablement le cas.
+Les abris fiscaux non enregistrés peuvent prendre plusieurs formes, mais ils concernent généralement l’achat d’une perte fiscale qui est bien supérieure à l’investissement en argent. […]
+Mais ne soyez pas dupe! Il ne suffit pas d’acheter une « perte fiscale » pour qu’elle soit déductible. […]
+Obtenez un avis professionnel indépendant. […]
+Communiquez avec nous avant que nous communiquions avec vous.
+c) Communiqué de presse : L’ARC prend des mesures pour exécuter les lois fiscales – 3 avril 2009
+Certains Canadiens découvrent à leurs dépens qu’ils ne peuvent pas éviter de payer leur part d’impôt. […]
+L’ARC rappelle à tous les contribuables de veiller à déclarer correctement leurs revenus, déductions et crédits lorsqu’ils produisent leur déclaration de revenus pour 2008.
+d) Alerte fiscale : Ne participez pas à la production illicite de déclarations de revenus!
+Si vous entendez parler d’un préparateur de déclarations de revenus qui offre des remboursements plus importants que les autres, ne vous laissez pas duper! Bien que la plupart des préparateurs offrent un excellent service aux déclarants, quelques préparateurs sans scrupule produisent des déclarations fausses et frauduleuses et, ultimement, escroquent leurs clients. N’oubliez pas que, même si quelqu’un d’autre produit votre déclaration, vous avez la responsabilité de tous les renseignements qui s’y trouvent. […]
+L’inobservation des lois fiscales aura des conséquences. En plus des peines d’emprisonnement et des amendes imposées par les tribunaux, lesquelles peuvent représenter jusqu’à 200 % de l’impôt éludé, les contribuables sont toujours tenus d’acquitter l’impôt dû ainsi que les pénalités administratives et les intérêts imposés par l’ARC.
+La question en litige
+Les appelants sont-ils passibles des pénalités prévues par le paragraphe 163(2) de la Loi?
+Analyse
+[57] Le paragraphe 163(2) de la Loi dispose notamment:
+Toute personne qui, sciemment ou dans des circonstances équivalant à faute lourde, fait un faux énoncé ou une omission dans une déclaration, un formulaire, un certificat, un état ou une réponse (appelé « déclaration » au présent article) rempli, produit ou présenté, selon le cas, pour une année d’imposition pour l’application de la présente loi, ou y participe, y consent ou y acquiesce est passible d’une pénalité égale, sans être inférieure à 100 $, à 50 % du total des montants suivants :
+[58] Deux éléments sont nécessaires pour que jouent les pénalités en l’espèce :
+a) un faux énoncé;
+b) c’est sciemment ou dans des circonstances équivalant à faute lourde que l’intéressé a fait le faux énoncé, ou y a consenti ou acquiescé.
+[59] L’avocat des appelants a également soulevé le moyen de défense selon lequel, puisque l’ARC n’a pas averti les contribuables de la ruse employée par le groupe Fiscal Arbitrators, comme elle devait le faire aux termes des dispositions de la Charte des droits du contribuable, les contribuables n’avaient aucune raison de mettre en doute les exposés convainquants du groupe Fiscal Arbitrators et ne sauraient donc avoir commis une faute lourde, ce qui a pour effet de les exonérer de toute responsabilité.
+[60] Dans chaque cas, il ne fait aucun doute qu’il y a eu faux énoncé. Aucun des appelants n’avait subi de pertes découlant d’une entreprise.
+[61] En ce qui concerne la question de savoir si les appelants avaient connaissance du faux énoncé ou ont agi dans des circonstances équivalant à faute lourde, j’examinerai la jurisprudence portant de manière générale sur les pénalités pour faute lourde, puis me référerai aux quelques affaires que la Cour a déjà instruites à propos du groupe Fiscal Arbitrators.
+[62] À l’occasion de l’affaire Laplante c Canada[1], le juge Bédard fait un bon résumé des principes généraux touchant la faute lourde :
+11. La notion de « faute lourde » qui est acceptée par la jurisprudence est celle qui a été définie par le juge Strayer dans la décision Venne c. Canada (ministre du Revenu national – M.R.N.) (C.F. 1re inst.), [1984] 4 C.F. no 314 :
+[...] La « faute lourde » doit être interprétée comme un cas de négligence plus grave qu’un simple défaut de prudence raisonnable. Il doit y avoir un degré important de négligence qui corresponde à une action délibérée, une indifférence au respect de la Loi. [...]
+12. Dans Da Costa c. Canada, [2005] A.C.I. no 396 (C.C.I. procédure informelle), le juge en chef Bowman fit référence à la décision rendue dans l’arrêt Undell v. M.N.R., [1969] C.T.C. 704, 70 DTC 6019 (Ex. Ct.), et à deux décisions rendues par le juge Rip (tel était alors son titre) et fit les commentaires suivants :
+[…]
+11. Pour établir la distinction entre la faute « ordinaire » ou la négligence et la faute « lourde », il faut examiner plusieurs facteurs. Un de ces facteurs est bien entendu l'importance de l'omission par rapport au revenu déclaré. Il y a aussi la faculté du contribuable de découvrir l'erreur, ainsi que le niveau d'instruction du contribuable et son intelligence apparente. Il n'existe aucun facteur qui soit prédominant. Il faut accorder à chacun des facteurs le poids qui convient dans le contexte de l'ensemble de la preuve.
+[…]
+13. La Cour d’appel fédérale a de plus précisé, dans l’arrêt Villeneuve c. Canada, 2004 DTC 6077, que l’expression « faute lourde » pouvait englober l’aveuglement volontaire en plus de l’acte intentionnel et de l’intention coupable. Dans cette décision, le juge Létourneau s’est exprimé à cet égard en ces termes au paragraphe 6 :
+Avec égards, je crois que la juge a omis de considérer la notion de faute lourde qui peut découler d’un aveuglement volontaire de son auteur. Même l’intention coupable qui souvent prend la forme de la connaissance de l’un ou de plusieurs éléments constitutifs du geste reproché peut s’établir par une preuve d’aveuglement volontaire. En pareil cas, l’auteur du geste, bien qu’il n’ait pas de connaissance actuelle de l’élément reproché, se voit imputer la connaissance de cet élément.
+[63] La Cour d'appel fédérale a examiné plus en détail à l’occasion de l’affaire Panini c Canada[2] la notion d’« aveuglement volontaire », en citant également les observations du juge Létourneau dans l’arrêt Villeneuve c Canada[3], mais en s’appuyant ensuite sur une jurisprudence pénale, R. c Hinchey[4] :
+42 Dans l’arrêt R. c. Hinchey, [1996] 3 R.C.S. 1128, le juge Cory examinait la notion d’« aveuglement volontaire » dans le contexte du droit criminel. Aux paragraphes 112 à 115 de cet arrêt, il écrivait ce qui suit :
+[…]
+En d’autres termes, il existe un soupçon, que le défendeur a délibérément omis de transformer en connaissance certaine. On exprime fréquemment cette situation en disant d’une personne qu’elle « s’est fermé les yeux » à l’égard du fait, ou qu’elle a fait preuve d’« ignorance volontaire ».
+[…]
+114. Dans Sansregret, précité, notre Cour a conclu que les circonstances ne se limitaient pas à celles qui touchaient de près à l’infraction visée, mais qu’elles pouvaient recevoir une définition plus large de façon à comprendre des événements passés. Le juge McIntyre a distingué l’ignorance volontaire de l’insouciance et a cité et approuvé un passage tiré de l’ouvrage de Glanville Williams en ce qui concerne son application (aux pp. 584 à 586) :
+L’ignorance volontaire diffère de l’insouciance parce que, alors que l’insouciance comporte la connaissance d’un danger ou d’un risque et la persistance dans une conduite qui engendre le risque que le résultat prohibé se produise, l’ignorance volontaire se produit lorsqu’une personne qui a ressenti le besoin de se renseigner refuse de le faire parce qu’elle ne veut pas connaître la vérité. Elle préfère rester dans l’ignorance.
+[…]
+43. Le juge Cory faisait ses observations dans le contexte d’une affaire relevant du droit criminel, mais elles demeurent, selon moi, parfaitement adaptées aux circonstances de la présente affaire. Par conséquent, le droit imputera une connaissance au contribuable qui, dans des circonstances qui lui commanderaient ou lui imposeraient de s’enquérir de sa situation fiscale, refuse ou néglige de le faire sans raison valable.
+[64] La Cour canadienne de l'impôt a plusieurs fois appliqué la notion d’aveuglement volontaire à l’occasion d’affaires mettant en cause des stratagèmes semblables à ceux de Fiscal Arbitrators, et elle a construit une approche et des solutions semblables.
+Bhatti c Canada [5]
+22. […] M. Bhatti a vu et a signé sa déclaration. Je crois qu'il a vu le revenu de 1 000 000 $ et la perte de 477 000 $. Il savait que ces chiffres n'étaient tout simplement pas vrais. Il a fait sciemment un faux énoncé à cet égard.
+23. Même si j'accepte son explication selon laquelle il n'a pas examiné la déclaration de manière suffisamment approfondie pour se rendre compte que le remboursement avait été établi à partir de chiffres inventés, il a alors fait preuve d'un tel aveuglement volontaire, sans se soucier de savoir s'il se conformait à la loi ou non, que son attitude constituait une faute lourde.
+24. La raison pour laquelle j'en arrive à cette conclusion est la suivante :
+a) la réclamation excédait de beaucoup son revenu global;
+b) il a eu en maintes occasions la possibilité de constater qu'il y avait un faux énoncé :
+i) le montant du remboursement à lui seul aurait dû éveiller des soupçons;
+ii) sa femme et son comptable lui ont dit qu'il semblait y avoir fraude;
+iii) un examen sommaire de la déclaration elle‑même aurait révélé une perte complètement inexplicable de 500 000 $;
+iv) on lui a demandé de signer la déclaration en ajoutant le terme [TRADUCTION] « par ».
+Ce ne sont pas des signes subtils d'un problème possible, mais des feux rouges clairs, et M. Bhatti n'a rien fait.
+c) M. Bhatti ne manquait pas d'expérience pour ce qui était de savoir ce en quoi consistaient un revenu d'entreprise et des pertes d'entreprise. Il touchait non seulement un revenu d'emploi, mais aussi un revenu de son entreprise de construction. De plus, il touchait un revenu de placement et un revenu de location. Il ne manquait pas d'expérience dans le domaine commercial.
+Il avait la possibilité, l'expérience et les connaissances nécessaires pour se rendre compte que ce montant de 31 000 $ ne pouvait découler que de faux énoncés. Il s'agit d'un cas classique d'aveuglement volontaire où des pénalités devraient s'appliquer.
+Brochu c La Reine [6]
+20. Depuis l'arrêt Villeneuve, la question ne se limite plus à déterminer si un contribuable avait connaissance de la négligence du spécialiste et s'il a fait preuve d'indifférence, mais comprend également le cas où il s'en est remis aveuglément au préparateur pour ses affaires. En l'espèce, même si l'appelante n'avait pas une connaissance délibérée et intentionnelle des erreurs de madame Tremblay, elle a tout de même fait preuve d'aveuglement volontaire.
+[…]
+22. L'appelante a témoigné à l'effet qu'elle avait feuilleté brièvement la déclaration, mais qu'elle ne comprenait pas les termes « revenus d'entreprise » et « crédit ». Compte tenu de son niveau de scolarité et du fait qu'elle avait elle-même préparé sa déclaration initiale pour l'année d'imposition 2001, il est difficile de concevoir que l'appelante ne comprenait pas ces termes. S'il est vrai qu'elle ne les comprenait pas, ce fait ne peut lui servir d'excuse pour se dégager de sa responsabilité. Elle aurait dû chercher à comprendre en posant des questions à madame Tremblay ou à s'informer auprès d'autres individus pour faire en sorte que ses revenus et ses dépenses soient comptabilisés comme il se doit. Pour une raison ou une autre, elle n'a pas songé à la nécessité de s'informer et c'est cette négligence qui constitue, à mon avis, une faute lourde. L'imposition de la pénalité est donc justifiée dans les circonstances.
+Brisson c Canada [7]
+30. Monsieur Brisson a affirmé qu'il n'y avait ni omission ni faux énoncé dans sa déclaration de 2008. Or, son témoignage est contredit par la preuve. Celle‑ci démontre qu'il a déclaré une perte d'entreprise de 876 260,10 $ alors qu'en contre‑interrogatoire, il a reconnu ne pas avoir d'entreprise et ne pas avoir subi la perte déclarée. C'est précisément ce genre de faux énoncé que le paragraphe 163(2) vise à pénaliser et à décourager.
+[…]
+35. Étant donné que M. Brisson avait une expérience du monde des affaires et qu'il avait produit lui‑même ses déclarations de revenus pendant 35 ans, et vu l'importance des faux énoncés faits dans sa déclaration de 2008, j'ai conclu qu'il était conscient de la fausseté des sommes inscrites dans sa déclaration et j'estime que les pénalités qui lui ont été imposées pour faute lourde l'ont été à juste titre.
+36. […] Si M. Brisson ignorait réellement tout du fait qu'il était engagé dans une escroquerie envers le fisc, c'est qu'il s'est maintenu dans un état d'aveuglement volontaire. Il était disposé à signer sa déclaration de revenus et à prendre part à la supercherie en échange d'un remboursement de tout l'impôt qu'il avait payé pour les années 2005 à 2008.
+Chénard c Canada [8]
+21. […] L’ampleur des pertes d’entreprise déclarées est ici un facteur accablant dans la mesure où, même avec un très faible niveau d’instruction et même sans aucune compréhension de notre système fiscal, une personne raisonnable aurait pu aisément douter de la légitimité de ces pertes.
+22. L’appelant a aussi avoué n’avoir jamais exploité d’une entreprise. Toutefois, même s’il pensait faire partie d’une « corporation », par l’entremise de laquelle il avait investi dans les projets d’affaire de monsieur Joannis, le montant des pertes déclarées ne concordait aucunement avec la réalité. Les concepts d’entreprise et de perte ne sont pas des concepts assez obscurs pour laisser une personne raisonnable penser qu’il est conforme aux lois fiscales de déclarer des pertes d’entreprise dont les montants ne correspondent pas à la réalité.
+[…]
+27. La preuve avancée par l’intimée démontre que l’appelant était téméraire au point d’être insouciant et que son comportement justifie l’imputation d’une faute lourde. L’appelant n’avait jamais exploité d’entreprise et, bien qu’il croyait peut‑être faire partie d’une société, jamais dans le cadre de celle-ci n’avait-il subi de pertes substantielles. Il ne parlait pas anglais, langue dans laquelle on lui avait fait part du stratagème. Il ne comprenait pas comment il pouvait avoir droit à de tels remboursements d’impôt, mais a choisi de croire les personnes qui les lui proposaient, puisque c’étaient des spécialistes.
+28. L’appelant aurait dû faire un effort en vue de s’informer auprès d’autres personnes que celles qui lui proposaient le plan. […]
+Janovsky c Canada [9]
+18. Je conviens avec l’avocate de l’intimée que la faute lourde englobe la notion d’aveuglement volontaire. Mais je suis d’avis qu’il ressort de la preuve produite dans le présent appel que l’appelant a fait sciemment le faux énoncé.
+[…]
+23. Compte tenu du niveau d’instruction de l’appelant et de l’ampleur du faux énoncé qu’il a fait dans sa déclaration de 2009, je suis d’avis que l’appelant savait que les montants indiqués dans sa déclaration étaient faux.
+24. Si je me trompe et si l’appelant n’a pas fait sciemment ce faux énoncé, je conclus dans ce cas qu’il a fait montre d’aveuglement volontaire. S’il est vrai qu’il ne comprenait pas la terminologie qu’ont utilisée les FA dans sa déclaration ni la façon dont les FA avaient calculé ses dépenses, il avait dans ce cas le devoir de se renseigner auprès de personnes étrangères aux FA. Dans un régime d’autocotisation tel que le nôtre, l’appelant avait le devoir de s’assurer que son revenu et ses dépenses étaient correctement déclarés. Notre régime d’imposition est fondé sur un système d’autodéclaration et d’autocotisation, et son succès dépend de l’honnêteté et de l’intégrité des contribuables : R c McKinlay Transport Ltd., [1990] 1 RCS 627. L’attitude cavalière de l’appelant témoigne d’un tel degré de négligence ou d’aveuglement volontaire qu’elle doit être qualifiée de faute lourde : Chénard c La Reine, 2012 CCI 211.
+[65] Vu cette jurisprudence et les éléments de preuve qui m’ont été produits dans les six appels dont je suis saisi, je dégage les principes suivants :
+a) La connaissance d’un faux énoncé peut être déduite d’un aveuglement volontaire.
+b) La notion d’aveuglement volontaire peut être appliquée aux pénalités pour faute lourde prévues par le paragraphe 163(2) de la Loi, et il convient d’appliquer cette notion en l’espèce.
+c) Pour savoir s’il y a eu ou non aveuglement volontaire, il faut tenir compte du niveau d’instruction et d’expérience du contribuable.
+d) Pour conclure à un aveuglement volontaire, il doit y avoir eu nécessité de s’informer, ou soupçon d’une telle nécessité.
+e) Les facteurs laissant supposer la nécessité de s’informer avant la production d’une déclaration, ou faisant apparaître « des feux rouges clairs », expression que j’employais à l’occasion de l’affaire Bhatti, comprennent ce qui suit :
+i) l’importance de l’avantage ou de l’omission;
+ii) le caractère flagrant du faux énoncé et la facilité avec laquelle il peut être décelé;
+iii) l’absence, dans la déclaration elle-même, d’une attestation du spécialiste qui a établi la déclaration;
+iv) les demandes inusitées du spécialiste;
+v) le fait que le spécialiste était auparavant inconnu du contribuable;
+vi) les explications inintelligibles du spécialiste;
+vii) le point de savoir si d’autres personnes ont eu recours au spécialiste ou ont fait des mises en garde à l’encontre de ce dernier, ou le point de savoir si le contribuable lui-même hésite à s’en ouvrir à d’autres.
+f) Le dernier critère de l’aveuglement volontaire est le fait que le contribuable ne s’enquiert pas auprès du spécialiste pour comprendre la déclaration de revenus, ni ne s’enquiert aucunement auprès d’un tiers, ou auprès de l’ARC elle-même.
+[66] Les appelants ont-ils fait preuve d’aveuglement volontaire?
+Niveau d’instruction et expérience
+[67] Les appelants se sont tous présentés comme des gens intelligents, qui comprenaient ce qu’était une entreprise, tout en affirmant ne pas comprendre les principes de comptabilité (encore que Mme Strachan ait dit avoir une assez bonne compréhension de ces principes) ou les subtilités des déclarations de revenus. À l’exception de M. Hyatali, tous avaient tous poursuivi leurs études après l’école secondaire, que ce soit à l’université ou à une école de métiers. Tous semblaient avoir occupé des emplois stables. À l’exception de M. McNulty, tous s’étaient, jusqu’aux années en cause, adressés auparavant à des spécialistes pour la production de leurs déclarations, tandis que Mme Strachan s’était adressée à M. Branch (plus tard associé à Fiscal Arbitrators) pour la préparation des siennes. Je considère qu’aucun des appelants ne manquait d’instruction ou d’une compréhension élémentaire de concepts tels que le concept d’entreprise ou celui d’impôt au point de pouvoir plaider l’ignorance. Le pire qu’on puisse dire est qu’ils partageaient le même niveau regrettable de crédulité, et je ne puis que conclure que cette crédulité a été exploitée par le groupe Fiscal Arbitrators, prompt à reconnaître sans aucun doute la force d’attraction exercée par l’espoir d’appréciables remboursements. Le niveau d’instruction, d’expérience et d’intelligence n’est pas un facteur qui puisse permettre aux appelants d’échapper à la conclusion qu’ils ont, sciemment ou dans des circonstances équivalant à faute lourde, fait de faux énoncés.
+Nécessité de s’informer ou soupçon d’une telle nécessité
+[68] C’est sur ce point que Me Barrett soutient que les appelants ne sont pas des malfaiteurs auxquels puissent être imposées des pénalités aussi lourdes. Ils étaient sûrs d’avoir droit aux remboursements : ils en avaient été complètement et totalement persuadés par de parfaits escrocs. Selon Me Barrett, les appelants n’ont rien à se reprocher : ils ne savaient pas, ni ne soupçonnaient, qu’il y avait quelque chose de bizarre dans la manière dont ces anciens fonctionnaires de l’ARC établissaient leurs déclarations de revenus. Ils étaient certains que l’ARC était au courant du processus et que d’autres avaient réussi à obtenir des remboursements. Aucun signal d’alarme ne pouvait selon Me Barrett conduire les appelants à penser qu’ils devaient s’enquérir davantage. Je rejette cette thèse.
+Signaux d’avertissement
+[69] J’examinerai maintenant les facteurs, énumérés plus haut, qui indiquent la nécessité de s’informer :
+a) Importance de l’avantage
+Dans tous les cas, les appelants aspiraient à un remboursement complet. Dans tous les cas, le remboursement était sensiblement différent de celui des années antérieures. Dans tous les cas, la perte dont la déduction était demandée était importante par rapport au revenu déclaré, et, dans certains cas (M. Hyatali, M. Gautier, M. McNulty), elle était considérable.
+b) Caractère flagrant du faux énoncé – facilité avec laquelle le faux énoncé pouvait être décelé
+Dans tous les cas, le mensonge, c’est-à-dire la prétendue existence d’importantes pertes d’entreprise alors qu’aucun des appelants n’exploitait en réalité une entreprise, est si flagrant que, quand bien même les appelants avaient-ils la conviction que, par l’opération de quelque processus, ils avaient droit au remboursement de tous leurs impôts, il est impossible qu’ils aient pu croire avoir subi d’importantes pertes d’entreprise. Le fait d’être persuadé du droit au remboursement ne signifie pas automatiquement qu’ils croyaient avoir subi des pertes d’entreprise. Ils ne s’y sont tout simplement pas arrêtés. Me Barrett a expliqué que des fiscalistes pourraient lire la déclaration et conclure que l’inscription de pertes d’entreprise de cette nature n’avait aucun sens, mais les appelants n’étaient pas des fiscalistes. Je rejette cette thèse. Nous avons ici affaire à des gens intelligents qui occupent de bons emplois, et qui n’en sont pas à leurs premières armes en matière de production de déclarations fiscales. Leurs déclarations ne présentaient aucune complexité et ne faisaient pas état de sources multiples de revenus. Pour chacun d’entre eux (à l’exception de M. Hyatali), le principal revenu indiqué était un revenu d’emploi, à la page 2 de leurs déclarations. Il n’y avait guère d’autres chiffres à la page 2 de leurs déclarations, et il n’est pas nécessaire d’être un fiscaliste pour saisir le chiffre négatif indiqué comme revenu d’entreprise. Ce n’est pas si compliqué que cela. Il est facile de remarquer ce chiffre. Cela suffit en soi à générer un soupçon, d’où la nécessité de s’informer.
+Mais cela suffit-il en soi pour qu’on puisse conclure à une connaissance effective du faux énoncé? Si le contribuable voit sur une déclaration une ligne qui indique manifestement une perte au titre d’une entreprise, tout en sachant qu’il n’exploitait aucune entreprise, comment peut-on dire que ce contribuable ne savait pas que le chiffre était faux? Dans le contexte de l’arnaque dont ces appelants ont été victimes, je puis admettre qu’ils n’ont peut-être pas saisi la portée de la tromperie, et c’est pourquoi j’examinerai plus avant la question de savoir s’il y a eu aveuglement volontaire. Plus précisément, je rechercherai si le caractère flagrant du faux énoncé constituait un signal d’avertissement faisant jouer la notion d’aveuglement volontaire et celle de connaissance présumée, en me gardant de conclure à une connaissance effective.
+c) Le spécialiste des déclarations de revenus n’atteste pas qu’il a établi la déclaration
+Ce point peut sembler mineur, mais, combiné aux nombreux autres facteurs, il aurait dû éveiller un soupçon. Le spécialiste n’a rempli la case destinée aux professionnels de l’impôt dans aucune des déclarations. Cette case, à la dernière page de la déclaration, se trouve juste à côté de la case où chaque appelant a apposé sa signature, avec indication de la date, pour certifier l’exactitude des renseignements. Il est difficile de ne pas la voir. Elle avait été laissée vide.
+d) Le spécialiste des déclarations de revenus fait des demandes inusitées
+Les appelants étaient priés de signer leurs déclarations en insérant le mot [TRADUCTION] « pour » devant leur signature. Aucun d’eux n’a prétendu l’avoir déjà fait avant. Ils suivaient tout simplement des directives. Aucun d’eux n’a mis en doute cette demande bizarre.
+e) Le spécialiste des déclarations de revenus était inconnu du contribuable
+Dans la plupart des cas, le groupe Fiscal Arbitrators était inconnu des appelants. Les périodes durant lesquelles Mme Eva Torres et M. Watts ont été au service de Plan de protection du Canada ont coïncidé sur environ 18 mois. Mme Strachan faisait établir sa déclaration de revenus par M. Branch depuis quelques années, mais ce n’est que pour l’année en question qu’il s’en est chargé conjointement avec le groupe Fiscal Arbitrators. Encore une fois, il s’agit là d’un facteur qui par lui-même ne sonne pas l’alarme très fort, mais, si l’on y ajoute tous les autres facteurs, l’alarme devient assourdissante.
+f) L’explication donnée par le spécialiste concernant le faux énoncé est inintelligible
+Aucun des appelants n’a pu expliquer comment fonctionnait le processus. Ils ont tous affirmé faire totalement confiance à leurs spécialistes des déclarations fiscales, mais manifestement ils ne comprenaient pas ce en quoi ils mettaient leur confiance, si ce n’est en un droit à d’importants remboursements. Certains ont tenté d’expliquer qu’ils avaient été amenés à croire que leur numéro d’assurance sociale était une entité distincte et pouvait d’une manière ou d’une autre engager des dépenses déductibles pour eux en tant que particuliers, ou, selon l’expression du groupe Fiscal Arbitrators, en tant qu’entités fictives. L’expression est absurde, le concept est absurde. Je ne puis que conclure que le désir d’un remboursement l’a emporté sur le besoin de comprendre.
+Me Barrett fait valoir que l’absence d’entendement s’explique par la complexité du système fiscal et que, même si lui et moi sommes sans doute à même de constater l’absurdité de la situation, des gens par ailleurs intelligents peuvent, dans le monde complexe des déclarations fiscales, effectivement croire qu’eux-mêmes et leurs numéros d’assurance sociale sont des entités distinctes, qu’ils sont fictifs, qu’ils peuvent légitimement déduire des pertes d’entreprise sans avoir d’entreprise et qu’ils peuvent recevoir de pleins remboursements qu’ils n’avaient absolument jamais reçus auparavant. M. Gautier croyait que tout cela avait quelque chose à voir avec la déduction de dépenses domestiques; or il n’a jamais présenté de chiffres de dépenses au groupe Fiscal Arbitrators. Non, je refuse tout simplement d’admettre cette manière de voir. Accepter tout bonnement un stratagème aussi inexplicable que l’arnaque concoctée par Fiscal Arbitrators suppose nécessairement un refus de voir la réalité. Tant que le remboursement est escompté, il n’y a pas lieu de s’arrêter aux détails, telle est l’approche, et pas lieu non plus de chercher à comprendre ce qu’est l’état des activités commerciales ou des activités du mandataire, par exemple, documents dont les appelants ont certifié l’exactitude. Il y a décidément une faille quelque part.
+g) Les autres ne s’y risquent pas, ou bien le contribuable est mis en garde, ou bien il craint d’en parler
+Mme Strachan n’a mordu à l’hameçon qu’une seule année; elle a senti que quelque chose n’allait pas et elle n’est pas allée plus loin. M. McNulty est sorti sceptique de sa première rencontre avec Fiscal Arbitrators; il n’en a rien dit à son épouse car elle [TRADUCTION] « aurait mis les choses au clair avec lui ». Cela montre bien qu’ils avaient perçu des signaux, sans chercher pour autant à s’enquérir davantage. M. McNulty en a sans doute donné la meilleure explication quand il disait que selon lui, il n’avait tout simplement rien à perdre. C’est là une réaction naturelle, mais il n’en reste pas moins qu’il s’est aveuglé volontairement.
+[70] Je n’ai aucun mal à conclure qu’il y avait suffisamment de signaux d’alarme pour que les appelants soient amenés à s’enquérir davantage auprès des spécialistes eux-mêmes, auprès de conseillers indépendants, voire auprès de l’ARC, avant de signer leurs déclarations. Aucun des appelants ne s’est ainsi renseigné avant de faire les faux énoncés. Me Barrett soutient qu’il n’y avait pas de signaux d’avertissement justifiant des investigations. Comme je l’ai expliqué, les éléments de preuve ne vont pas dans le sens de cette thèse. Me Barrett semble alors insinuer que les signaux d’alarme n’étaient pas évidents ou manifestes au point d’appeler des investigations. Encore une fois, je tire la conclusion contraire – les éléments de preuve ne vont tout simplement pas dans ce sens. Il affirme ensuite que, même s’il y avait des signaux d’alarme, les appelants avaient été emberlificotés par Fiscal Arbitrators au point de devenir aveugles à ces signaux, mais sans tomber pour autant dans l’aveuglement volontaire. Il n’y a pas eu faute volontaire ou intentionnelle qui soit punissable de pénalités aussi lourdes. Faute peut-être, dirait Me Barrett, mais non mépris flagrant de la loi au point que l’on puisse parler de faute lourde. Ils ont tout simplement été dupés.
+[71] La thèse des appelants sur ce point serait plus convainquante si les circonstances ne laissaient voir aussi fortement la nécessité de s’informer. Il est difficile de nier l’existence d’un aveuglement volontaire en opposant un moyen de défense d’absence d’intention délictueuse alors que l’idée d’aveuglement volontaire suppose une connaissance sans égard à l’intention (voir la jurisprudence Panini). Peut-être vaudrait-il mieux dire que des circonstances aussi claires que celles qui existent ici selon moi, dans lesquelles la nécessité de s’informer saute aux yeux, expliquent le mot « volontaire » dans l’expression « aveuglement volontaire ». L’aveuglement est évident. Les circonstances claires ont pour effet d’exclure le moyen de défense selon lequel « j’avais la conviction que ce que je faisais était légitime », quand bien même cette conviction résulterait-elle d’un abus de confiance.
+[72] Ainsi qu’il ressort d’un examen des éléments de preuve, de même que d’un examen des facteurs qui montrent une nécessité de s’informer, il y a d’importantes similitudes entre les six appels. Les circonstances entourant l’établissement, la révision, la signature et la production des déclarations ne sont pas dissemblables au point d’appeler des solutions différentes. Les différences de circonstances sont mineures. J’en exposerai quelques-unes.
+M. Hyatali n’a peut-être pas lu la déclaration, s’empêchant ainsi de voir l’énorme perte d’entreprise qui lui aurait crevé les yeux. C’était là faire preuve de négligence : si l’on y ajoute les autres signaux d’alarme, tous ignorés par M. Hyatali, il y a plus qu’assez pour conclure qu’il a lui aussi fait preuve d’aveuglement volontaire.
+Quant à Mme Mary Torres, non seulement aurait-elle dû soupçonner que quelque chose n’allait pas au moment de produire sa déclaration de 2007, mais encore elle savait parfaitement que quelque chose n’allait pas quand elle a produit sa déclaration de 2008, puisque l’ARC avait communiqué avec elle à propos de sa déclaration de 2007.
+Alors que Mme Eva Torres disait que M. Watts était au service de la même organisation qu’elle depuis 18 mois, elle n’a pas soutenu qu’il existait entre eux d’étroits rapports de travail qui auraient pu dissiper un tant soit peu ses soupçons.
+Les avertissements de l’ARC
+[73] Je passe maintenant à la thèse des appelants selon laquelle, compte tenu de la Charte des droits du contribuable, le gouvernement avait l’obligation de les mettre en garde, et il ne l’a pas fait. Il ne saurait donc aujourd’hui imposer des pénalités aux appelants. La thèse peut séduire, mais ne saurait non plus être retenue.
+[74] D’abord, si la Charte des droits du contribuable impose une obligation au gouvernement, alors un manquement à cette obligation pourrait constituer un moyen de droit opposable au gouvernement, mais il ne change rien à la justesse de la pénalité imposée. On pourra tout au plus prendre en compte ce manquement dans la question de savoir s’il y avait ou non des signaux d’alarme pouvant obliger les appelants à se renseigner. Dire que le gouvernement s’est abstenu de faire une mise en garde signifierait que les circonstances n’étaient pas suffisamment claires pour qu’on puisse conclure à un aveuglement volontaire. Cependant, je conclus que, même en l’absence de toute mise en garde de la part de l’ARC, les circonstances dans lesquelles le groupe Fiscal Arbitrators établissait les déclarations de revenus rendaient évidente l’obligation de se renseigner davantage.
+[75] J’irai même plus loin. Si les appelants avaient jeté le moindre coup d’œil sur le site Web de l’ARC, dans la section intitulée Alertes fiscales, ils auraient tout de suite trouvé des mises en garde comme celles qui ont été citées précédemment dans les présents motifs. Si quelque chose est trop beau pour être vrai, qu’arrive-t-il? Me Barrett soutient que les mises en garde n’étaient pas suffisamment explicites, pas diffusées assez largement. D’après lui, une annonce pleine page dans le Globe and Mail renvoyant précisément au groupe Fiscal Arbitrators pourrait être considérée comme une mise en garde suffisante. Dans cette ère de communication électronique et de sites Web portant sur tout et n’importe quoi, il n’est pas excessif de s’attendre à ce que l’ARC ait un site Web et à ce que des mises en garde, le cas échéant, soient affichées sur ce site Web.
+[76] Je rejette la thèse de Me Barrett selon laquelle l’ARC n’a pas fait les mises en garde requises. Je rejette aussi l’idée selon laquelle, si l’ARC n’a pas fait de mises en garde, alors elle ne saurait imposer de pénalités. Des pénalités peuvent être imposées.
+Dispositif
+[77] Il est difficile d’éprouver beaucoup de compassion pour les appelants bien que certains d’entre eux aient paru être des gens tout à fait sympathiques, tout simplement trompés par des gens sans scrupule. Néanmoins, sous cette prétendue tromperie, il y a chez chacun d’eux une volonté de se soustraire à ses obligations fiscales. Ils ne s’étaient pas adressés au groupe Fiscal Arbitrators pour qu’il se limite à établir leurs déclarations – ils s’étaient adressés à lui pour qu’il établisse leurs déclarations de manière qu’elles produisent d’importants remboursements; plus exactement, des remboursements qui feraient en sorte qu’ils n’auraient aucun impôt à payer pour l’année en cause, et, dans le cas de certains d’entre eux, pour des années antérieures également. Je me demande comment un particulier, quel que soit son niveau d’instruction, qui a travaillé au Canada, payé des impôts au Canada et profité des avantages de la vie au Canada, peut sans se questionner souscrire à un procédé par lequel il demande la déduction de pertes d’entreprise fictives lui permettant donc tout simplement de ne pas payer sa juste part, et même de ne payer aucune part, de ce qu’il faut pour assurer la marche du pays. Je ne suis pas insensible au sort des conjoints et des familles qui souffriront sans doute des importantes répercussions financières auxquelles donneront lieu, pour eux, ces pénalités par la faute des appelants : il est vrai que les pénalités imposées aux appelants sont lourdes. Je ne puis toutefois feindre de croire que la pénalité spécifique de 50 p. 100 qui est prévue par le paragraphe 163(2) de la Loi puisse être réduite. Seul le gouvernement est à même d’examiner la question.
+[78] Il m’est apparu évident que ces appelants ont payé un prix énorme, et pas seulement sur le plan économique, en conséquence de la conduite mensongère du groupe Fiscal Arbitrators. Je conclus toutefois que les pénalités sont clairement justifiées, encore que je sois préoccupé par les effets dévastateurs que leur ampleur aura sur les appelants. Je reconnais que ce n’est pas là l’un des facteurs énumérés dans l’article 147 des Règles de la Cour canadienne de l'impôt (Procédure générale), mais je ne pense pas que la liste des facteurs soit exhaustive. Ajoutons à cela le fait que peu d’affaires relevant de la procédure générale ont été instruites à propos de Fiscal Arbitrators, que je considère les affaires en question comme des causes types, même si les parties ne les ont pas présentées en tant que telles, et enfin qu’une thèse inédite a été avancée par l’avocat des appelants. J’exerce donc mon pouvoir de ne pas adjuger les dépens. Cela dit, cela ne signifie pas que je m’abstiendrai d’adjuger les dépens dans des affaires futures intéressant Fiscal Arbitrators.
+[79] Les appels sont rejetés.
+Signé à Toronto (Ontario), ce 2e jour de décembre 2013.
+« Campbell J. Miller »
+Juge C. Miller
+Traduction certifiée conforme
+ce 22e jour de juillet 2014.
+François Brunet, réviseur
+RÉFÉRENCE : 2013 CCI 380
+Nos DES DOSSIERS DE LA COUR : 2010-3047(IT)G, 2012-258(IT)G,
+2011-4103(IT)G, 2011-3223(IT)G,
+2011-3321(IT)G, 2010-3044(IT)G et
+2011-4093(IT)G
+INTITULÉ : MARY KHRISTINE TORRES ET SA MAJESTÉ LA REINE, MARY TORRES ET SA MAJESTÉ LA REINE, EVA TORRES ET SA MAJESTÉ LA REINE, MICHAEL McNULTY ET SA MAJESTÉ LA REINE, ANDRE GAUTIER ET SA MAJESTÉ LA REINE, CARROL STRACHAN ET SA MAJESTÉ LA REINE et ANSEL HYATALI ET SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATES DE L’AUDIENCE : Les 4, 5, 6 et 8 novembre 2013
+MOTIFS DU JUGEMENT : L’honorable juge Campbell J. Miller
+DATE DU JUGEMENT : Le 2 décembre 2013
+COMPARUTIONS :
+Avocat des appelants :
+Me Dale Barrett
+Avocates de l’intimée :
+Me H. Annette Evans, Me Rishma Bhimji, Me Kathleen Beahen, Me Lindsay Beelen
+AVOCATS INSCRITS AU DOSSIER :
+Pour les appelants :
+Nom : Dale Barrett
+Cabinet : Barrett Tax Law
+Pour l’intimée : William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] 2008 CCI 335.
+[2] 2006 CAF 224.
+[3] 2004 CAF 20.
+[4] [1996] 3 R.C.S. 1128.
+[5] 2013 CCI 143.
+[6] 2011 CCI 75.
+[7] 2013 CCI 235.
+[8] 2012 CCI 211.
+[9] 2013 CCI 140.

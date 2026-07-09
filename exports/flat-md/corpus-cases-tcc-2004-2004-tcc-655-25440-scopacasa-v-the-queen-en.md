@@ -1,0 +1,172 @@
+---
+title: "Scopacasa v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/25440/index.do"
+last_modified: "2004-09-28"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 TCC 655"
+citation2: ""
+neutral_citation: "2004 TCC 655"
+decision_date: "2004-09-28"
+language: "en"
+item_id: "25440"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2380
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T18:58:40.610000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "fbeb18b3ddae0092dc4947f3452ec219e9f073149a9a6756fa78739a9109a69a"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Scopacasa v. The Queen
+
+- Citation: 2004 TCC 655
+- Decision date: 2004-09-28
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2380, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Scopacasa v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-09-28
+Neutral citation
+2004 TCC 655
+File numbers
+2000-2768(IT)G
+Judges and Taxing Officers
+Georgette Anne Sheridan
+Subjects
+Income Tax Act
+Decision Content
+Docket:2000-2768(IT)G
+BETWEEN:
+DOMENIC SCOPACASA,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+__________________________________________________________________
+Appeal heard together on common evidence with the appeal of
+Domenic Scopacasa (2000-3648(GST)I) on September 15, 2004
+at Thunder Bay, Ontario
+Before: The Honourable Justice G. Sheridan
+Appearances:
+Counsel for the Appellant
+Dennis C. Roddy
+Counsel for the Respondent:
+Tracey Telford
+__________________________________________________________________
+JUDGMENT
+The appeal with respect to the reassessment made under the Income Tax Act for the 1995 taxation year is dismissed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 28th day of September, 2004.
+"G. Sheridan"
+Sheridan, J.
+Docket:2000-3648(GST)I
+BETWEEN:
+DOMENIC SCOPACASA,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+__________________________________________________________________
+Appeal heard together on common evidence with the appeal of
+Domenic Scopacasa (2000-2768(IT)G) on September 15, 2004
+at Thunder Bay, Ontario
+Before: The Honourable Justice G. Sheridan
+Appearances:
+Counsel for the Appellant
+Dennis C. Roddy
+Counsel for the Respondent:
+Tracey Telford
+__________________________________________________________________
+JUDGMENT
+The appeal from the reassessment made under the Excise Tax Act, notice of which bears the number 09BP1401428, is dismissed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 28th day of September, 2004.
+"G. Sheridan"
+Sheridan, J.
+Citation: 2004TCC655
+Date: 20040928
+Dockets: 2000-2768(IT)G
+2000-3648(GST)I
+BETWEEN:
+DOMENIC SCOPACASA,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Sheridan, J.
+[1] The Appellant, Mr. Domenic Scopacasa, appeals from a reassessment of his 1995 taxation year in which the Minister of National Revenue determined that the profit from the sale of a house he owned was business income. He is also appealing an assessment pertaining to this same transaction under Part IX of the Excise Tax Act for unremitted Goods and Services Tax. Mr. Scopacasa's position is that the house was his principal residence and that the proceeds from its sale are exempt from taxation pursuant to paragraph 40(2)(b) of the Income Tax Act. Regarding the GST appeal, his argument is that because the house was his principal residence, he is not a "builder" within the meaning of subsection 123(1) of the Excise Tax Act and accordingly, is not required to pay the GST. These appeals were heard on common evidence.
+[2] Mr. Scopacasa is a bricklayer with a mason's diploma who immigrated to Canada from Italy in 1965. Following his marriage in Italy in 1970, he and his wife bought a two-storey home at 33 Ontario Street in Thunder Bay, Ontario. They have three children born in 1971, 1973 and 1980. In 1976, they built a house on Dublin Avenue where they lived until 1983 at which time Mrs. Scopacasa, who felt the children should be educated in Italian, moved with them to Italy. After their departure, Mr. Scopacasa moved back to 33 Ontario Street. At some point, 33 Ontario Street was converted into three rental units one of which was, and continues to be, Mr. Scopacasa's apartment. It is on the second floor and consists of a kitchen, sitting area and bedroom and shares a common bathroom with the other upstairs apartment. The third apartment comprises the main floor and basement of 33 Ontario Street. Mr. Scopacasa alternates his time between Canada and Italy: each year, he works from roughly April to November as a bricklayer in and around Thunder Bay; when the season ends, he travels to Italy to spend the winter with his family at their residence.
+[3] In June 1993, Mr. Scopacasa purchased from 897551 Ontario Ltd. a lot at 105 Vintage Crescent in a new subdivision in Thunder Bay for $55,000.00. The president of 897551 Ontario Ltd was Frank Silvestri, a longtime friend of Mr. Scopacasa. Mr. Scopacasa put down $300.00 cash at the time of the offer to purchase leaving an unpaid balance of $54,700.00. In June 1994, Mr. and Mrs. Scopacasa took out a $40,000.00 mortgage on 33 Ontario Street. At about the same time, they listed for sale a rental property they owned (34 Ontario Street) and that fall, Mr. Scopacasa began construction at 105 Vintage Crescent. Because of the demands of his full-time employment and his prolonged absence in Italy, work on the house proceeded slowly. By May 1995, Mr. Scopacasa was able to move some belongings into the not-yet-completed house: a toaster oven, a microwave, a mattress. Meanwhile, he continued to maintain his apartment at 33 Ontario Street. In June 1995, he arranged for the water to be connected for 105 Vintage Crescent. He testified that he completed a form to have his mail forwarded by Canada Post from 33 Ontario Street to 105 Vintage Crescent but had no documentation to substantiate this claim. During the spring and summer of 1995, Mr. Scopacasa was working as a bricklayer in Marathon, Ontario, some 3½ hours from Thunder Bay. Each week, he would leave Sunday afternoon returning the following Friday.
+[4] In August 1995 came the event that changed completely Mr. Scopacasa's plans for 105 Vintage Crescent. He had purchased the house, he said, in anticipation of the return to Canada of his eldest son, then 23 and studying medicine in Italy. According to Mr. Scopacasa, his son's dream was to practice medicine in Northern Ontario. Hoping to have the family together again and knowing that 33 Ontario Street was too small to accommodate them, he decided to build a bigger home. In August, he learned that his son and the rest of the family would be staying in Italy. Approximately two months later in October 1995, he sold the house to Cheryl Yamashita and Alfred Guerin for $175,000.00.
+[5] To succeed in his argument that the gain from the disposition of 105 Vintage Crescent should not be taxable, Mr. Scopacasa has the onus of proving wrong the Minister's assumption that "...the land was purchased and the home built by [Mr. Scopacasa] for the purpose of resale..."[1]. In considering the evidence presented, the Court must apply the test in The Minister of National Revenue v. Taylor[2] and Happy Valley Farms Ltd. v. The Queen[3]:
+1. The nature of the property sold. - The property sold, the home at 105 Vintage Crescent, was equally capable of being capital or the subject of trade; that is the very question under consideration.
+2. The length of period of ownership. - 105 Vintage Crescent was sold in October 1995, more than two years after Mr. Scopacasa bought the vacant lot. Because of Mr. Scopacasa's absences on the job and in Italy, it took longer than the three or four months normally required to complete the construction of a house. Of greater significance is the five months between his occupying the house in May 1995 and its sale in October of that year. I use the word "occupying" because on the evidence presented, it is difficult to accept Mr. Scopacasa's characterization of this action as "moving in". He brought to the house what can only be described as the bare necessities for his use while he worked on the house on the rare occasions he was in Thunder Bay. Meanwhile, most of his furnishings and personal items remained at 33 Ontario Street. The water was not connected until mid-June 1995. No telephone was ever installed during his time there. On the other hand, Mr. Scopacasa maintained telephone service at 33 Ontario Street. His reason for doing so, he said, was that he was installing a bathroom to enhance the chances of selling the house and needed a telephone while on site. It strikes me as odd that a telephone would be necessary for his use at the location of a small renovation project but not necessary at the home construction site where, presumably, more of his time would be spent. Taken as a whole, the evidence points to a short ownership period consistent with "flipping" the property.
+3. The frequency or number of other similar transactions by the taxpayer. - The 105 Vintage Crescenttransaction was an isolated event.
+4. The work expended on or in connection with the property realized. - Although Mr. Scopacasa expended a lot of work on the property, the evidence tends to show that his efforts were geared to enhancing the marketability of the property rather satisfying his personal tastes. There is nothing to suggest that Mr. Scopacasa took any particular interest in the design of 105 Vintage Crescent; he built the house from borrowed blueprints after having made only small unspecified changes to the roof and windows. At the time of the sale, the house was not yet completed. Carpets had not been chosen, never mind installed; this is consistent with the real estate practice of making newly constructed houses more appealing to prospective buyers by leaving such decisions to them. I do not accept Mr. Scopacasa's explanation that he had deferred this decision pending his wife's return from Italy. In her testimony, Mrs. Scopacasa could not even remember the name of the street where her husband was apparently labouring to build a home for her about-to-be reunited family.
+The other aspect to be considered under this heading is whether the taxpayer made any "special efforts to find or attract purchasers". On this point, Mr. Scopacasa was less than forthcoming in his testimony. I accept that he never formally listed the house for sale. Whether he took any other action is less clear. He testified that, until his son's unforeseen decision not to return to Canada, he had never once thought of selling 105 Vintage Crescent. Only when he learned of the sudden change in plans in August 1995 did he mention his interest in selling to Frank Silvestri in case "anyone was looking for a house". He denied any knowledge as to how the purchasers came to know the lot was for sale. The house was "open" and he speculated that they might have seen it on their own in the winter when he was in Italy, or in the summer when he was working in Marathon, or perhaps through Frank Silvestri who was "always in the subdivision". That Mr. Scopacasa would have such a casual attitude to being saddled with a debt of nearly $100,000.00 for a suddenly unnecessary piece of real estate does not fit with the man I saw in the witness box. He was experienced in real estate purchase and rental. He had expressed concerns about the financial strain caused by the $40,000.00 mortgage and the cost of the land. In my view, his lack of concern is more consistent with his always having intended to sell 105 Vintage Crescent: that he was relying on his friend of 30 years, Frank Silvestri, the developer who was "always in the subdivision" to keep his eyes open for buyers while Mr. Scopacasa built the house; that Mr. Scopacasa was able to pay a mere $300.00 towards the purchase price of the lot because it was understood that the lot would be resold as soon as possible after the house was inhabitable; and that Mr. Scopacasa would immediately pay the outstanding balance to Mr. Silvestri as soon as the house was sold. I am satisfied that through Frank Silvestri and from the moment he bought the lot, Mr. Scopacasa was making special efforts to find and attract purchasers for 105 Vintage Crescent.
+5. The circumstances that were responsible for the sale of the property.- Mr. Scopacasa testified that he had always intended to live with his family in the house he was building at 105 Vintage Crescent. Yet in the Transfer/Deed of Land[4] transferring 105 Vintage Crescent to Yamashita and Guerin, Mr. Scopacasa certifies by his signature that "[t]he property transferred is not ordinarily occupied by me and my spouse who is not separated from me, as our family residence". His first thought of selling the property, he said, came in August 1995 when he learned that his son would not be returning to Canada: his son's change of heart was the "sudden emergency" that triggered the sale of the house he had acquired as capital property. Yet on cross-examination, Mr. Scopacasa admitted that he had written to the CRA auditor[5] listing his inability to afford the $40,000.00 mortgage and the cost of the lot as well as his concerns about leaving the house vacant for the winter as his reasons for the sale. His explanation for these conflicting statements - that he did not want to disclose his family situation to the auditor - was not convincing. I am of the view that none of these reasons is the real one; namely, that he had always intended to sell the house as soon as he could get it finished and/or Frank Silvestri could find a buyer.
+6. The motive or intention of the taxpayer at the time of acquiring the asset. - In addition to the taxpayer's direct evidence of his intentions when he acquired the property, the Court may also draw inferences from the surrounding circumstances[6] including, as stated in Happy Valley, the taxpayer's "whole course of conduct while in possession of the asset"[7]. Having reviewed the evidence as set out above, I am unable to satisfy myself that, on a balance of probabilities, Mr. Scopacasa acquired the property for use as his principal residence. I find that it was always his intention to buy the lot, build a house on it and sell 105 Vintage Crescent as soon as possible. This is sufficient to make the sale of 105 Vintage Crescent "an adventure in the nature of trade" thus giving rise to business income that is taxable under the Income Tax Act. It also means that Mr. Scopacasa was a "builder" within the meaning of the Excise Tax Act and is liable for unremitted GST generated by the disposition of the property.
+[6] Accordingly, both appeals are dismissed, without costs.
+Signed at Ottawa, Canada, this 28th day of September, 2004.
+"G. Sheridan"
+Sheridan, J.
+CITATION:
+2004TCC655
+COURT FILE NOS.:
+2000-2768(IT)G and
+2000-3648(GST)I
+STYLE OF CAUSE:
+Domenic Scopacasa v. H.M.Q.
+PLACE OF HEARING:
+Thunder Bay, Ontario
+DATE OF HEARING:
+September 15, 2004
+REASONS FOR JUDGMENT BY:
+The Honourable Justice G. Sheridan
+DATE OF JUDGMENT:
+September 28, 2004
+APPEARANCES:
+Counsel for the Appellant:
+Dennis C. Roddy
+Counsel for the Respondent:
+Tracey Telford
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Dennis C. Roddy
+Firm:
+Cheadle Johnson Shanks MacIvor
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Paragraph 10(l) of the Respondent's Reply to the Notice of Appeal.
+[2] [1956] D.T.C. 1125 (Exchequer Court).
+[3] 86 D.T.C. 6421 (Federal Court - Trial Division).
+[4] Exhibit A-5
+[5] Exhibit R-4.
+[6] Racine et al. v. The Minister of National Revenue [1965] C.T.C. 150 at p. 159 as cited in Happy Valley (supra).
+[7] 86 D.T.C. 6421 at 6424

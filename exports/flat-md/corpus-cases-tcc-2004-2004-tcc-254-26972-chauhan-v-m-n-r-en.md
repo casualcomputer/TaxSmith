@@ -1,0 +1,235 @@
+---
+title: "Chauhan v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26972/index.do"
+last_modified: "2004-03-31"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 TCC 254"
+citation2: ""
+neutral_citation: "2004 TCC 254"
+decision_date: "2004-03-31"
+language: "en"
+item_id: "26972"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 552
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T19:38:39.251000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "fa4ed17898ac92c3e5dcc0a8f729640556e4ee6af646ba62247a701c8ac89a0e"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Chauhan v. M.N.R.
+
+- Citation: 2004 TCC 254
+- Decision date: 2004-03-31
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 552, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Chauhan v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-03-31
+Neutral citation
+2004 TCC 254
+File numbers
+2003-1666(EI)
+Judges and Taxing Officers
+Cameron Hugh McArthur
+Subjects
+Employment Insurance Act
+Decision Content
+2003-1665(EI)
+BETWEEN:
+NIRMAL S. CHAUHAN,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeal of (2003-1667(EI)) and
+the appeal of Surinder K. Chauhan (2003-1666(EI)) on February 16, 2004,
+at Vancouver, British Columbia,
+By: The Honourable Justice C.H. McArthur
+Appearances:
+Agent for the Appellant:
+Balbir S. Bolla
+Counsel for the Respondent:
+Stacey Michael Repas
+____________________________________________________________________
+JUDGMENT
+The appeal pursuant to subsection 103(1) of the Employment Insurance Act is dismissed and the decision of the Minister of National Revenue on the appeal made to him under section 91 of that Act is confirmed.
+Signed at Ottawa, Canada, this 31st day of March, 2004.
+"C.H. McArthur"
+McArthur J.
+2003-1667(EI)
+BETWEEN:
+NIRMAL S. CHAUHAN,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeal of (2003-1665(EI)) and the appeal of Surinder K. Chauhan (2003-1666(EI)) on February 16, 2004,
+at Vancouver, British Columbia,
+By: The Honourable Justice C.H. McArthur
+Appearances:
+Agent for the Appellant:
+Balbir S. Bolla
+Counsel for the Respondent:
+Stacey Michael Repas
+____________________________________________________________________
+JUDGMENT
+The appeal pursuant to subsection 103(1) of the Employment Insurance Act is allowed and the decision of the Minister of National Revenue on the appeal made to him under section 91 of that Act is varied on the basis that the Appellant was employed in insurable employment within the meaning of paragraph 5(1)(a) of the Act for the period June 1 to August 31, 2001.
+Signed at Ottawa, Canada, this 31st day of March, 2004.
+"C.H. McArthur"
+McArthur J.
+Docket:2003-1666(EI)
+BETWEEN:
+SURINDER K. CHAUHAN,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeals of Nirmal S. Chauhan
+2003-1665(EI) and2003-1667(EI) on February 16, 2004,
+at Vancouver, British Columbia
+By: The Honourable Justice C.H. McArthur
+Appearances:
+Agent for the Appellant:
+Balbir S. Bolla
+Counsel for the Respondent:
+Stacey Michael Repas
+____________________________________________________________________
+JUDGMENT
+The appeal pursuant to subsection 103(1) of the Employment Insurance Act is allowed and the decision of the Minister of National Revenue on the appeal made to him under section 91 of that Act is varied on the basis that the Appellant was employed in insurable employment within the meaning of paragraph 5(1)(a) of the Act for the period June 1 to August 31, 2001.
+Signed at Ottawa, Canada, this 31st day of March, 2004.
+"C.H. McArthur"
+McArthur J.
+Citation: 2004TCC254
+Date: 20040331
+Docket: 2003-1665(EI)
+2003-1667(EI)
+BETWEEN:
+NIRMAL S. CHAUHAN,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+Docket: 2003-1666(EI)
+AND BETWEEN:
+SURINDER K. CHAUHAN,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGMENT
+McArthur J.
+[1] The appeals of Surinder K. Chauhan (2003-1666(EI)) and Nirmal S. Chauhan (2003-1667(EI)) were heard on common evidence. They concern the disallowance by the Minister of National Revenue of employment insurance with respect to:
+(a) Nirmal's claimed employment with his brother, Mohinder, from May 1 to August 31, 2001;
+(b) Surinder's claimed employment with her brother-in-law, Mohinder, from May 1 to August 31, 2001.
+[2] The appeal of Nirmal S. Chauhan (2003-1665(EI)) concerns Nirmal's claimed employment with his brother Pritam from February 18 to February 24, 2001, which I will deal with separately.
+[3] Nirmal and Surinder are husband and wife and were the only witnesses.
+[4] With the exception of Nirmal's one-week period in February 2001, Court file (2003-1665(EI)), the Notices of Appeal and Replies are almost identical except Surinder's Reply contains assumption 6(m) "of four cheques issued to the Appellant by Mohinder, only one was deposited to the Appellant's own bank account". I do not think this is accurate. She did not have a bank account and her cheques were deposited to Nirmal's account. In any event, this establishes nothing.
+[5] A Punjabi interpreter was provided for both Appellants and Mr. Bolla, an accountant and friend, assisted them. Mr. Bolla did not prepare any of the documents submitted in evidence, which included:
+(a) Nirmal's 2001 Income Tax Return;
+(b) Cancelled cheques to Surinder from Chauhan Orchard (Mohinder) totalling $3,600;
+(c) Payslips for Surinder from Mohinder;
+(d) Handwritten time sheets that are of dubious value. The author of these remains a mystery;
+(e) Canadian Imperial Bank of Commerce (CIBC) and Credit Union deposit slips, and statements.
+The Minister's counsel chose not to analyze these in any detail.
+[6] The Appellants are in their late 50s and they came to Canada in 1996. Since 1998, they have owned and operated a six-acre fruit orchard in Keremeos, British Columbia. It now consists of 600 cherry trees, 20 peach trees and 8 prune trees. The cherry trees were planted in 2000 and 2001 replacing unprofitable old apple trees and did not bear fruit during the relevant period.
+[7] When they were not tending to their own orchard, they worked for Mohinder (Nirmal's brother) who in 2001 operated two 10-acre and one 12-acre orchard. He has been established in Canada for many years.
+[8] During a site visit by the Agriculture Compliance Team ("ACT") on July 5, 2001, Mohinder advised that he had no family members, other than Satwant, working for him (so far that year). During a follow-up site visit on July 31, 2001, Mohinder advised ACT members that the Appellant and his wife were just helping out that day. On October 11, 2001, both Appellants received identical records of employment from Mohinder alleging 751 insurable hours of employment and $6,759 insurable earnings during the period. Nirmal alleges they were paid $9 per hour during the period but was allegedly paid $10 per hour from Mohinder during the 2000 farming season. The Appellants worked when they were free. The Appellants were also working on their own farm during the period.
+[9] ACT who apparently investigated the situation included Brian Lundgren who was present in Court but did not give evidence. In paragraph 6(h), the Minister states that ACT visited Mohinder on July 5, 2001 who advised, in effect, that the Appellants had not worked for him so far in 2001. According to the Appellants' time sheets, they each worked for Mohinder 270 hours in May and 108 hours in June.
+[10] There is a payslip for the period ending May 31, 2001 but no cheque. The cheques presented by the Appellants reflect that Surinder was paid $1,288.46 on August 14, 2001, $1,452.05 on September 13, 2001 and $856 on July 13, 2001. This does not coincide with further evidence. The bank deposit slips and statements are difficult to follow but Exhibit A-2 appears to be the deposit of June paycheques for both Appellants each in the amount of $856, the date of the deposit is illegible. A CIBC bank statement indicates a deposit of $3,762.10 on June 25 to Nirmal's account. This apparently represents cheques from Mohinder to the Appellants each in the amount of $1,881.05 which matches payslips for the period ending May 31, 2001. I find this is sufficient evidence to refute the assumption of fact in paragraph 6(h). No one testified for the Respondent. Both Appellants admitted they were not working on July 5, 2001 when ACT attended. In paragraph 6(i) the Minister states that in a follow-up visit on July 31, 2001, Mohinder told team members of ACT that the Appellants were just helping out as stated. No one from ACT testified nor did Mohinder, the payor. Nirmal stated that they were there to work. I accept his statement. Neither Appellant was very articulate and often did not understand questions put to them or the issues involved. Mohinder came to Canada in 1975 and is 12 years younger than Nirmal. It is unfortunate he did not testify.
+[11] The Appellant, Nirmal agrees with assumptions of fact (j), (k), (l), (n), (o), (p), (q) and not (r).
+(j) On October 11, 2001, the Appellant received a record of employment from Mohinder alleging 751 insurable hours of employment and $6,759 insurable earnings during the Period;
+(k) the Appellant and his wife's record of employment issued by Mohinder shows identical hours;
+(l) the Appellant alleges he was paid $9.00 per hour during the Period but was allegedly paid $10.00 per hour from Mohinder during the 2000 farming season;
+(m) the Appellant was not supervised;
+(n) the Appellant worked when he wanted to;
+(o) the Appellant and his wife also obtained records of employments from the Appellant's brother-in-law showing identical hours;
+(p) the Appellant was working on his own farm during the Period;
+(q) the Appellant helped out only when he was not working on his own orchard; and
+(r) the Appellant did not work the number of hours shown on the Record of Employment issued by Mohinder for the Period.
+Surinder agrees with assumptions (j), (k), (l), (n), (o), (p), (q) and not (s).
+(j) On October 11, 2001, the Appellant received a record of employment from Mohinder alleging 751 insurable hours of employment and $6,759 insurable earnings during the Period;
+(k) the Appellant and Nirmal's record of employment issued by Mohinder shows identical hours;
+(l) the Appellant alleges she was paid $9.00 per hour during the Period but was allegedly paid $10.00 per hour from Mohinder during the 2000 farming season;
+(m) of four cheques issued to the Appellant by Mohinder, only one was deposited to the Appellant's own ban account; (as stated earlier this is not accurate);
+(n) the Appellant was not supervised;
+(o) the Appellant worked when she wanted to;
+(p) the Appellant and her husband also obtained records of employments from the Appellant's brother showing identical hours;
+(q) the Appellant was working on her own farm during the Period;
+(r) the Appellant helped out only when she was not working on her own orchard; and
+(s) the Appellant did not work the number of hours shown on the Record of Employment issued by Mohinder.
+[12] Do the Appellants meet the Wiebe Door Services Ltd. v. M.N.R.[1] tests as modified by the Supreme Court of Canada in 671122 Ontario Ltd. v. Sagaz Industries Canada Inc.?[2] In effect the relevant issue is whose business was it? First dealing with control: for the most part the Appellants were fruit pickers for Mohinder although I do not know what they picked in May or June. Mohinder grew apricots, peaches, cherries, prunes and pears. As stated, the Appellants had difficulty expressing their thoughts. Surinder does not read nor write and depended heavily on her husband. The Appellants needed little or no direction on how to pick. They had their own farm to take care of. It may have taken priority over their work for Mohinder but I do not draw that inference. Their orchard was not sufficient to support them and they needed additional income. Their 600 cherry trees were not bearing fruit in 2001. They worked for Mohinder when they could without supervision other than being told where to pick the fruit. I have no doubt they worked for Mohinder.
+[13] The Appellants had the burden of proving they were employees of Mohinder under a contract of service. There is evidence from the Appellants that they worked the hours claimed, supported to some extent by some cancelled cheques and bank deposits. The assumption in paragraph 6(h) in both appeals has been refuted by the Appellants' evidence, payslips and banking documentation.
+[14] Assumption 6(i) does not withstand close scrutiny. In fact, it supports the Appellants' position in that the Minister's investigator observed them working for Mohinder on July 31, 2001. Assumptions 6(j), (k) and (l) support the Appellants' position. Assumption 6(m) in Surinder's Reply is not correct. Surinder did not have a bank account and the fact that her cheques were deposited to Nirmal's account assists the Appellants' position if anything.
+[15] Assumptions 6(n) for Surinder and 6(m) for Nirmal deal with supervision. The Respondent's counsel referred to Gallant v. Canada[3] wherein Pratte J. stated that it is not the control actually exercised by the employer but his power to do so that the Court must look for. Obviously, Mohinder had the power to control the Appellants. It was his orchard and his money to meet his payroll.
+[16] On balance, I find that the control test favours the Appellants. The ownership of tools, chance of profit or loss and integration tests do not offer much assistance. I do not know who owned the tools or if any were required. Obviously, the more hours the Appellants worked, the more they were paid. They were not on salary but were paid according to the product picked which amounted to $9 per hour. The Appellants worked when they could. There was no evidence to indicate what arrangements they had in this regard with Mohinder. As for assumption 6(o) for Surinder and 6(p) for Nirmal, it is understandable that the Appellants' employment records were identical because they travelled together. Surinder did not drive.
+[17] Assumptions (q) and (r) are accurate, but are somewhat irrelevant. They worked nine hours per day for Mohinder and tended to their own orchard during the remaining daylight hours.
+[18] Assumptions 6(s) for Surinder and 6(r) for Nirmal are probably the strongest argument in the Minister's arsenal. I am very skeptical when asked to accept that the Appellants worked nine hours a day everyday, Saturday and Sunday included for a total of 270 hours in May 2001. They do have some payslips and deposit evidence to support this but no cancelled cheques. They stated that they were employed as berry pickers yet the picking season does not start in May. They had their own orchard to look after. They are stretching their credibility too far in asking me to accept that they each worked nine hours a day for 30 straight days in May. This is unbelievable particularly considering that Surinder could not recall when she worked in May 2001.Toiling in the fields for 30 straight days for Mohinder and then coming home and working daily on her own six acres would be an unforgettable experience. Her answers were always, "I do not know" or "Ask my husband" or "Refer to the paper records". The records were prepared as a matter of convenience, after the fact.
+[20] With respect to the remaining period, balancing the evidence, I conclude that the Appellants presented a prima facie case unrebutted by the Minister. The appeals of Nirmal S. Chauhan (2003-1666(EI)) and Surinder K. Chauhan (2003-1667 (EI)) are allowed only with respect to the period from June 1, to August 31, 2001.
+[21] Nirmal appeals the decision of the Minister that he was not employed in insurable employment with his brother Pritam during the eight-day period from February 18 to February 24, 2001 (2003-1665(EI)).
+[22] The Appellant states that he worked 56 hours for Pritam pruning his fruit trees in February 2001. Pritam did not testify. The Appellant's brother Mohinder managed Pritam's fruit orchard. Mohinder did not testify. The Minister states that Pritam had no employees and the Appellant did not work for him during that period.
+[23] I accept the evidence of Nirmal that he pruned fruit trees for Pritam in February 2001, but find he did so as an independent contractor, under an oral contract for service pursuant to subparagraph 5(1)(a) of the Employment Insurance Act.
+[24] The Appellant had an expertise in looking after fruit trees. Pritam had him trim trees on his own time without control and according to the Appellant's set rate of payment. It was the Appellant's business. He had complete control of how he worked, when he worked, and how much he was to be paid.
+[25] The Appellant was not employed in insurable employment with Pritam from February 18 to February 24, 2001 under a contract of service within the meaning of paragraph 5(1)(a). This appeal is dismissed.
+Signed at Ottawa, Canada, this 31st day of March, 2004.
+"C.H. McArthur"
+McArthur J.
+CITATION:
+2004TCC254
+COURT FILE NO.:
+2003-1665(EI, 2003-1666(EI), 2003-1667(EI)
+STYLE OF CAUSE:
+Nirmal S. Chauhan and Surinder K. Chauhan and The Minister of National Revenue
+PLACE OF HEARING:
+Vancouver, British Columbia
+DATE OF HEARING:
+February 16, 2004
+REASONS FOR JUDGMENT BY:
+The Honourable Justice C.H. McArthur
+DATE OF JUDGMENT:
+March 31, 2004
+APPEARANCES:
+Agent for the Appellants:
+Balbir S. Bolla
+Counsel for the Respondent:
+Stacey Michael Repas
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+N/A
+Firm:
+N/A
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] 87 DTC 5025.
+[2] [2001] 2 S.C.R. 983.
+[3] [1986] F.C.J. No. 330.

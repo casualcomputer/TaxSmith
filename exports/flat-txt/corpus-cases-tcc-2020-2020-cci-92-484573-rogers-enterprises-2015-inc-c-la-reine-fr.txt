@@ -1,0 +1,1098 @@
+Title: Rogers Enterprises (2015) Inc. c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/484573/index.do
+Corpus path: corpus/cases/tcc/2020/2020-cci-92-484573-rogers-enterprises-2015-inc-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2020-08-27
+
+# Rogers Enterprises (2015) Inc. c. La Reine
+
+- Citation: 2020 CCI 92
+- Decision date: 2020-08-27
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4556, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Rogers Enterprises (2015) Inc. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2020-08-27
+Référence neutre
+2020 CCI 92
+Numéro de dossier
+2017-1140(IT)G, 2017-3617(IT)G
+Juges et Officiers taxateurs
+Don R. Sommerfeldt
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2017-1140(IT)G
+ENTRE :
+ROGERS ENTERPRISES (2015) INC.
+(SUCCESSEUR, À LA SUITE D’UNE FUSION, DE CGESR LIMITED),
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2017-3617(IT)G
+ENTRE :
+ROGERS ENTERPRISES (2015) INC.
+(SUCCESSEUR, À LA SUITE D’UNE FUSION, D’ESRIL (1998) LIMITED),
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appels entendus les 25 et 26 février 2019, à Toronto (Ontario)
+Devant : L’honorable juge Don R. Sommerfeldt
+Comparutions :
+Avocats de l’appelante :
+Me Pooja Mihailovich, Me Hemant Tilak
+Avocates de l’intimée :
+Me Justine Malone, Me Marie-Eve Aubry
+JUGEMENT
+Les appels sont accueillis, avec dépens, et les déterminations qui font l’objet des avis de détermination datés du 21 août 2015 sont annulées.
+Les dépens sont accordés aux appelantes. Les parties disposent d’un délai de 30 jours suivant la date du jugement pour parvenir à un accord sur les dépens et en informer la Cour, à défaut de quoi les appelantes disposeront alors d’un délai de 30 jours pour déposer des observations écrites sur les dépens et l’intimée disposera encore d’un délai de 30 jours pour déposer une réponse écrite. Les observations des parties ne devront pas dépasser cinq pages. Si les parties n’informent pas la Cour qu’elles sont parvenues à un accord et que des observations ne sont pas déposées dans les délais impartis, les dépens seront adjugés aux appelantes, conformément au tarif.
+Signé à Vancouver (Colombie-Britannique), ce 27e jour d’août 2020.
+« Don R. Sommerfeldt »
+Le juge Sommerfeldt
+Traduction certifiée conforme
+ce 2e jour de février 2021.
+François Brunet, réviseur
+Référence : 2020 CCI 92
+Date : 20200827
+Dossier : 2017-1140(IT)G
+ENTRE :
+ROGERS ENTERPRISES (2015) INC.
+(SUCCESSEUR, À LA SUITE D’UNE FUSION, DE CGESR LIMITED),
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2017-3617(IT)G
+ENTRE :
+ROGERS ENTERPRISES (2015) INC.
+(SUCCESSEUR, À LA SUITE D’UNE FUSION, D’ESRIL (1998) LIMITED),
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Sommerfeldt
+I. INTRODUCTION
+[1] Les présents motifs concernent les appels formés par Rogers Enterprises (2015) Inc. (RE 2015), à titre de successeur, à la suite d’une fusion, de CGESR Limited (CGESR) et à titre de successeur, à la suite d’une fusion, d’ESRIL (1998) Limited (ESRIL 98), à l’égard de déterminations (les déterminations) rendues en application du paragraphe 152(1.11) de la Loi de l’impôt sur le revenu (la LIR) [1] et indiquées dans les avis de détermination datés du 21 août 2015 et publiés par l’Agence du revenu du Canada (l’ARC), au nom du ministre du Revenu national (le ministre) pour l’année d’imposition de CGESR se terminant le 30 septembre 2010 et pour l’année d’imposition d’ESRIL 98 se terminant le 31 décembre 2009.
+II. LES FAITS
+[2] Les parties ont déposé un exposé conjoint des faits (l’ECF) [2] et y ont joint une copie qui figure à l’annexe A. Pour la commodité du lecteur, un résumé concis des faits substantiels est énoncé dans les paragraphes suivants.
+[3] Edward Samuel (Ted) Rogers était président et directeur général de Rogers Communications Inc. (RCI), une société publique canadienne. Plusieurs sociétés et fiducies (collectivement, le groupe RPC) [3] détenaient les participations de la famille Rogers dans RCI. Les membres du groupe RPC qui sont visés par les présents appels étaient ESR Limited (ESRL), ESRIL 98, CGESR, CGESR (2009) Limited (CGESR 2009) et Rogers Telecommunications Limited (RTL). ESRIL 98 et CGESR étaient des sociétés canadiennes imposables, des sociétés privées et des sociétés privées sous contrôle canadien (SPCC). Conformément au paragraphe 8 de chaque avis d’appel, ESRL, CGESR 2009 et RTL étaient aussi des SPCC.
+[4] La fiducie Rogers Ownership du 5 septembre 1984 (la fiducie de 1984) et la fiducie Rogers Ownership du 24 août 1995 (la fiducie de 1995) étaient des fiducies familiales qui ont été constituées pour la détention de biens au profit de Loretta Rogers et des descendants de M. Rogers. En outre, la fiducie de 1984 détenait des biens au profit de M. Rogers.
+[5] De 1981 à 1991, douze polices d’assurance-vie (les polices) assurant la vie de M. Rogers ont été émises pour diverses sociétés privées du groupe RPC ou pour la fiducie de 1984. Au moment de l’émission de chaque police, le titulaire (ou propriétaire) de chaque police en était aussi le bénéficiaire. Selon mon interprétation, le titulaire de chaque police devait payer les primes afférentes à cette police.
+[6] À une date non précisée dans l’ECF, mais qui était antérieure au 25 février 2005, les titulaires des différentes polices ont modifié les bénéficiaires des polices, en désignant dans chaque cas RTL comme bénéficiaire.
+[7] En 2005, ESRL est devenue la titulaire de dix des polices, conjointement avec une réorganisation importante des sociétés menée par le groupe RPC. La fiducie de 1984 a continué à détenir les deux autres polices.
+[8] Au cours de l’année 2005, les douze polices ont de nouveau changé de bénéficiaire : la société CGESR a cette fois-ci été choisie comme bénéficiaire. Malgré les changements successifs de bénéficiaire, ESRL et la fiducie de 1984, comme titulaires de dix et de deux des polices, respectivement, ont continué à payer les primes afférentes à leurs polices.
+[9] Au cours de la restructuration ultérieure en 2006, CGESR est devenue l’actionnaire directe de RTL.
+[10] En 2009, après que CGESR 2009 eut été constituée, ESRL détenait des actions de catégorie A et D dans le capital d’ESRIL 98 qui détenait des actions privilégiées de catégorie A de série 5 et de série 6 dans le capital de CGESR, les 1 000 actions ordinaires dans le capital de CGESR étant détenues par CGESR 2009, et les autres actions émises dans le capital de CGESR étant détenues par d’autres membres du groupe RPC. CGESR détenait des actions dans le capital de RTL, ainsi que dans le capital de RCI. La fiducie de 1984 et d’autres actionnaires qui ne sont pas mentionnés dans l’ECF détenaient des actions dans le capital d’ESRL.
+[11] M. Rogers est décédé le 2 décembre 2008. Le 17 décembre 2008, le capital assuré a été versé à CGESR, à titre de bénéficiaire désignée des polices. Le montant total du produit de l’assurance-vie était de 102 309 794 $ [4] , dont 4 555 420 $ provenaient des polices détenues par la fiducie de 1984 et 97 754 374 $ découlaient des polices détenues par ESRL. Comme il n’y avait pas de coût de base rajusté (CBR) des polices pour CGESR, cette dernière a ajouté la somme totale de 102 309 794 $ à son compte de dividendes en capital (CDC).
+[12] Immédiatement avant le décès de M. Rogers, le CBR total des deux polices détenues par la fiducie de 1984, pour cette dernière, s’élevait à 1 755 055 $, et le CBR total des dix polices détenues par ESRL, pour celle-ci, était de 42 239 105 $ [5] .
+[13] Le 15 juillet 2009, CGESR a versé 702 742 $ en dividendes à ESRIL 98 et 10 000 000 $ en dividendes à CGESR 2009. CGESR a fait un choix, en application du paragraphe 83(2) de la LIR, relativement au montant total des dividendes qu’elle a payés le 15 juillet 2009.
+[14] Le 15 juillet 2009, CGESR 2009 a versé 9 999 950,50 $ en dividendes à la fiducie de 1995. CGESR 2009 a fait un choix, aux termes du paragraphe 83(2) de la LIR, relativement au montant total des dividendes qu’elle a payés le 15 juillet 2009.
+[15] Le 27 octobre 2009, CGESR a racheté certaines des actions privilégiées de catégorie A de son capital qui appartenaient à ESRIL 98. En conséquence, ESRIL 98 était réputée avoir perçu 91 745 839 $ en dividendes. CGESR a fait un choix aux termes du paragraphe 83(2) de la LIR relativement au montant total de 91 745 839 $ en dividendes réputés [6] .
+[16] Étant entendu que les dividendes payés ou réputés avoir été payés par CGESR à ESRIL 98 étaient des dividendes en capital, la somme totale de ces dividendes a été ajoutée par ESRIL 98 à son CDC.
+[17] Selon les dossiers d’ESRIL 98, le solde de son CDC, le 27 octobre 2009, après les opérations susmentionnées, s’élevait à 92 448 860 $. Le 27 octobre 2009, ESRIL 98 a versé à ESRL 49 998 834 $ en dividendes en capital. Une fois ces dividendes versés, le solde qui restait dans le CDC d’ESRIL 98, selon ses dossiers, était de 42 450 026 $. Les avocats de RE 2015 m’ont informé que, bien que cela ne soit pas indiqué dans l’ECF, le solde de 42 450 026 $ demeure dans le CDC d’ESRIL 98. Autrement dit, ESRIL 98 n’a payé aucun dividende en capital après le 27 octobre 2009 [7] .
+[18] Quelque temps après le 27 octobre 2009, en raison d’une ou de plusieurs fusions qui ne sont pas expliquées en détail dans l’ECF, RE 2015 s’est retrouvée successeur, à la suite d’une fusion, d’ESRIL 98 et de CGESR.
+[19] Le 21 août 2015, le ministre a délivré des avis de détermination à CGESR pour son année d’imposition se terminant le 30 septembre 2010 et à ESRIL 98 pour son année d’imposition se terminant le 31 décembre 2009. Le ministre a conclu, aux fins de la règle générale anti-évitement (la RGAÉ) à l’article 245 de la LIR, que les opérations suivantes constituaient une série d’opérations (la série) :
+a) l’acquisition des polices;
+b) la désignation par ESRL, comme titulaire des dix polices qu’elle possédait, d’abord de RTL, puis de CGESR, qui sont devenues les bénéficiaires de ces polices;
+c) la réception par CGESR du capital assuré, ainsi que des intérêts y afférents;
+d) le versement par CGESR à ESRIL 98 des dividendes (réels ou réputés);
+e) le choix par CGESR, aux termes du paragraphe 83(2) de la LIR, de considérer que ces dividendes étaient réputés par l’alinéa 83(2)a) de la LIR être des dividendes en capital.
+[20] Le ministre a conclu que la série comprenait une ou plusieurs opérations d’évitement (les opérations visées) qui étaient les suivantes :
+a) la désignation par ESRL, comme titulaire des polices qu’elle possédait, de CGESR, qui est devenue la bénéficiaire de ces polices;
+b) la réception par CGESR du capital assuré;
+c) le versement par CGESR à ESRIL 98 des dividendes (réels ou réputés);
+d) le choix fait par CGESR, aux termes du paragraphe 83(2) de la LIR, relativement aux dividendes (réels ou réputés) versés à ESRIL 98.
+[21] S’appuyant sur le paragraphe 245(2) de la LIR, le ministre a établi ce qui, selon elle, constituait les attributs fiscaux raisonnables de CGESR et d’ESRIL 98, afin de supprimer les avantages fiscaux qui avaient été déterminés par le ministre. Plus précisément :
+a) concernant CGESR, le ministre a établi ce qui suit :
+les dividendes versés par CGESR à ESRIL 98 étaient, à concurrence de 42 239 100 $, des dividendes imposables, plutôt que des dividendes en capital;
+le CDC de CGESR, au 28 octobre 2009, affichait un montant égal à zéro;
+b) en conséquence, le ministre a établi ce qui suit à l’égard d’ESRIL 98 :
+les dividendes versés à ESRIL 98 par CGESR, à concurrence de 42 239 100 $, étaient déductibles dans le calcul du revenu imposable d’ESRIL 98, aux termes du paragraphe 112(1) de la LIR;
+ii. le solde du CDC d’ESRIL 98, au 31 décembre 2009, a été réduit de 42 239 100 $.
+III. QUESTIONS EN LITIGE
+[22] Les questions en litige, dans les présents appels, sont les suivantes :
+a) Y a-t-il eu un avantage fiscal qui, sans l’article 245 de la LIR, découlait, directement ou indirectement, de la série?
+b) S’il y a eu un avantage fiscal, peut-il être raisonnable de considérer qu’une des opérations de la série, s’il n’était pas tenu compte de l’article 245, constituait directement ou indirectement une utilisation abusive des dispositions de la LIR ou un abus dans l’application de la LIR interprétée dans son ensemble?
+IV. ADMISSIONS
+[23] Aux fins des présents appels, RE 2015 fait les observations suivantes :
+a) les opérations définies au paragraphe 19 comme la « série » constituaient une « série d’opérations » aux fins de l’article 245 de la LIR;
+b) chacune des opérations visées faisait partie de la série [8] .
+[24] Même si RE 2015 soutient qu’aucun avantage fiscal n’a découlé des opérations visées, si la Cour conclut à l’existence d’un avantage fiscal, RE 2015 admet ce qui suit :
+a) sans l’article 245 de la LIR, une ou plusieurs opérations visées ont donné lieu, directement ou indirectement, à l’avantage fiscal;
+b) chacune de ces opérations visées était une opération d’évitement au sens du paragraphe 245(3) de la LIR [9] .
+V. DISCUSSION
+A. Principes généraux
+[25] Pour analyser l’application par le ministre de la RGAÉ, il faut suivre les trois étapes ci-dessous :
+a) La Cour doit déterminer si un avantage fiscal découle d’une opération, comme le prescrivent les paragraphes 245(1) et (2) de la LIR.
+b) La Cour doit déterminer si l’opération est une opération d’évitement au sens du paragraphe 245(3) de la LIR.
+c) La Cour doit déterminer si l’opération d’évitement constituerait, directement ou indirectement, un abus dans l’application de certaines dispositions législatives ou du traité énumérées ou si elle constituerait, directement ou indirectement, un abus, comme cela est précisé par le paragraphe 245(4) de la LIR [10] .
+B. Avantage fiscal
+[26] Le paragraphe 245(1) de la LIR définit l’expression « avantage fiscal » comme suit :
+« avantage fiscal » Réduction, évitement ou report d’impôt ou d’un autre montant exigible en application de la présente loi ou augmentation d’un remboursement d’impôt ou d’un autre montant visé par la présente loi [...]
+[27] Selon la Couronne, les avantages fiscaux découlant de la série étaient les suivants :
+a) l’augmentation du montant des CDC respectifs de CGESR et d’ESRIL 98;
+b) la diminution, aux termes du paragraphe 83(2) de la LIR, d’une somme qui autrement aurait été comprise dans le calcul du revenu comme dividendes imposables pour ESRIL 98, aux termes des articles 3 et 9, du paragraphe 82(1) et de l’alinéa 12(1)j) de la LIR;
+c) l’évitement d’impôt, aux termes de la partie III de la LIR, par ESRIL 98 et la réduction d’impôt, aux termes de la partie I de la LIR, par les derniers actionnaires d’ESRIL 98;
+d) l’évitement d’impôt, aux termes de la partie III de la LIR, par CGESR [11] .
+1) Augmentation du montant des CDC
+[28] La Couronne soutient, relativement au premier avantage fiscal allégué ci-dessus, que l’augmentation du montant des CDC respectifs de CGESR et d’ESRIL 98 correspondait à l'expression suivante : « augmentation [...] d’un autre montant visé par la présente loi » qui figure dans la définition légale d’un « avantage fiscal ». La véritable phrase plus complète de la définition de l’« avantage fiscal », au paragraphe 245(1), est la suivante : « augmentation d’un remboursement d’impôt ou d’un autre montant visé par la présente loi ». Il y a deux façons d’interpréter la disposition législative. Une interprétation (interprétation A) est la suivante :
+« avantage fiscal » [...] augmentation[ :]
+• d’un remboursement d’impôt ou
+• d’un autre montant visé par la présente loi [...]
+L’autre interprétation (interprétation B) est la suivante :
+« avantage fiscal » [...] augmentation d’un remboursement[ :]
+• d’impôt ou
+• d’un autre montant visé par la présente loi [...]
+[29] La version française de la LIR n'aide pas l'interprète à dissiper l’ambigüité ci-dessus. En 2009, la définition française de l’expression « avantage fiscal » (c.-à-d. « tax benefit » en anglais) est rédigée comme suit :
+« avantage fiscal » Réduction, évitement ou report d’impôt ou d’un autre montant exigible en application de la présente loi ou augmentation d’un remboursement d’impôt ou d’un autre montant visé par la présente loi.
+Comme en anglais, la dernière partie de la définition dans la version française peut être interprétée de deux façons. La première interprétation (c.-à-d. l’équivalent français de l’interprétation A) est la suivante :
+« avantage fiscal » … augmentation[ :]
+• d’un remboursement d’impôt[,] ou
+• d’un autre montant visé par la présente loi.
+L’autre façon d’interpréter la disposition française (c.-à-d. l’équivalent français de l’interprétation B) est la suivante :
+« avantage fiscal » … augmentation d’un remboursement[ :]
+• d’impôt[,] ou
+• d’un autre montant visé par la présente loi.
+[30] La Couronne privilégie l’interprétation A. Elle fait valoir que l’avantage fiscal comprend « [une] augmentation d’[...] un autre montant visé par la présente loi ». Pour les raisons indiquées ci-dessous, je préfère l’interprétation B, c.-à-d. que le passage en particulier de la définition de l’« avantage fiscal » renvoie à l’augmentation d’un remboursement d’impôt ou d’un autre montant visé par la LIR.
+[31] La première raison qui m’amène à préférer l’interprétation B est fondée sur le texte de la partie pertinente de la définition de l’« avantage fiscal », comme cela ressort du paragraphe 28 ci-dessus. Si l’interprétation de la Couronne était exacte, on s’attendrait à ce que l’article indéfini « un » soit placé avant l’élément de phrase « autre montant » ou à ce que l’expression « un autre » soit utilisée à la place de l’adjectif « autre ».
+[32] La deuxième raison est fondée sur les notes explicatives publiées par le ministère des Finances en juin 1988, lorsque la RGAÉ est entrée en vigueur. Ces notes indiquaient ce qui suit au sujet de la définition de l’« avantage fiscal » :
+Généralement, aux fins de l’article 245, une opération, pour qu’elle constitue une opération d’évitement, doit donner lieu à un « avantage fiscal ». Cette expression est définie comme une réduction, un évitement ou un report d’impôt ou d’un autre montant exigible en application de la loi ou comme l’augmentation d’un remboursement d’impôt ou d’un autre montant visé par la loi. Dans cette définition, les renvois à un « autre montant exigible en application de la présente loi » et à un « autre montant visé par la présente loi » visent à couvrir les intérêts, les pénalités, le versement des retenues à la source et d’autres montants qui ne constituent pas un impôt [12] .
+À l’instar des dispositions législatives en versions française et anglaise elles-mêmes, les notes explicatives ne précisent pas si l’expression « avantage fiscal » doit être interprétée comme comprenant l’augmentation d’un remboursement d’impôt ou l’augmentation d’un autre montant visé par la LIR ou comme comprenant l’augmentation d’un remboursement d’impôt ou l’augmentation du remboursement d’un autre montant visé par la LIR. Cependant, si la règle ejusdem generis peut s’appliquer à la dernière partie de la citation susmentionnée qui provient des notes explicatives [13] , il semblerait que l'expression « autre montant visé par la présente loi » vise à renvoyer aux montants d’argent qui sont exigibles ou remboursables en application de la LIR, comme les intérêts, les pénalités et les retenues à la source.
+[33] La troisième raison découle de l’arrêt Hypothèques Trustco où la Cour suprême du Canada a observé relativement à l’interprétation de l’expression « avantage fiscal » :
+Le paragraphe 245(1) définit l’« avantage fiscal » comme étant une « [r]éduction, [un] évitement ou [un] report d’impôt » ou « une augmentation d’un remboursement d’impôt ou d’un autre montant » visé par la Loi [14] . [Non souligné dans l’original.]
+Cette observation est semblable à l'observation doctrinale suivante faite en 1988 par Brian Arnold et James Wilson :
+[traduction]
+Le paragraphe 245(1) définit de manière très large l'« avantage fiscal » comme une réduction, un évitement ou un report d’impôt ou d’un autre montant exigible (comme des intérêts et des acomptes provisionnels prévus) ou comme une augmentation d’un remboursement d’impôt ou d’un autre montant exigible en application de la loi [15] . [Non souligné dans l’original.]
+L'expression « visé par la Loi » utilisée par la Cour suprême et celle utilisée par Arnold et Wilson, « exigible en application de la loi », après « une augmentation d’un remboursement d’impôt ou d’un autre montant » semblent indiquer que l’expression « autre montant » renvoie à quelque chose qu’un contribuable donné a payé ou est tenu de payer, en application de la LIR.
+[34] La quatrième raison de préférer l’interprétation B à l’interprétation A est fondée sur une analyse de la LIR. La LIR renvoie à plusieurs montants d’argent, dont certains sont généralement plus avantageux pour le contribuable à mesure qu’ils augmentent, alors que d’autres sont plus avantageux pour le contribuable à mesure qu’ils diminuent, du moins aux fins de la LIR (mais pas nécessairement à des fins économiques). Par exemple, une augmentation du montant d’une retenue, une augmentation du montant d’une perte ou une augmentation du montant d’un attribut fiscal (comme le capital versé relativement à des actions ou le prix de base rajusté pour le contribuable d’une immobilisation) peut fort bien être considérée comme un avantage fiscal. En revanche, il semblerait singulier de considérer qu’une augmentation du montant d’un revenu ou une augmentation du montant d’un profit constitue un avantage fiscal. Il ne semble donc pas raisonnable de devoir considérer l’augmentation de tous les montants d’argent en application de la LIR comme des avantages fiscaux [16] .
+[35] Une cinquième raison est fondée sur un article ayant pour auteur Robert Couzin qui mettait l’accent sur le paragraphe 245(3) de la LIR (qui définit l’opération d’évitement). M. Couzin a fait l'observation suivante à propos de la définition de l’« avantage fiscal » au paragraphe 245(1) de la LIR :
+[traduction]
+Une raison de définir la notion d’« avantage fiscal » est d’étendre son champ d’application au-delà de ce qu’il pourrait inclure par ailleurs. Un avantage fiscal non défini comprendrait une réduction ou un évitement d’impôt, mais pas nécessairement le pur report d’impôt. L’élargissement de la définition est assurément nécessaire pour qu’elle s’étende à une réduction des intérêts ou des pénalités, car il ne s’agit pas « d’impôt ». Bien que l’augmentation d’un remboursement puisse résulter, dans certaines circonstances, d’une réduction d’impôt, ce n’est pas toujours le cas (par exemple, l’augmentation d’un crédit remboursable). La définition doit donc comprendre de tels montants remboursables supplémentaires [17] . [Non souligné dans l’original.]
+Cette observation semble indiquer que l'expression « autre montant visé par la présente loi » renvoie à un montant d’argent qui serait remboursable en application de la LIR.
+[36] On pourrait toutefois soutenir que le législateur ayant fait figurer l’adjectif « exigible » dans la première partie de la définition de l’« avantage fiscal » (pour renvoyer à une « réduction, [un] évitement ou [un] report d’impôt ou [à] [...] un autre montant exigible en application de la présente loi »), la non-inclusion du mot « remboursable » dans la dernière partie de la définition doit revêtir une certaine importance. Autrement dit, il est peut-être important de constater que la dernière partie ne se lit pas comme suit : « [une] augmentation d’un remboursement d’impôt ou d’un autre montant remboursable en application de la présente loi ». L'argument contraire, que je préfère, porte que les mos « impôt » et « autre montant » étant tous deux objets de la préposition « de » qui suit le mot « remboursement », il n’est pas nécessaire d’utiliser les mos « remboursement » et « remboursable » dans la même expression. L’adjectif « remboursable » serait donc redondant.
+[37] Pour les raisons susmentionnées [18] , l’augmentation du montant des CDC respectifs de CGESR et d’ESRIL 98 ne constituait pas un avantage fiscal.
+2) Réduction dans le calcul du revenu
+[38] La Couronne soutient que la réduction dans le calcul du revenu aux termes du paragraphe 83(2) de la LIR (c.-à-d. l’assimilation des dividendes réels ou réputés à des dividendes en capital, plutôt qu’à des dividendes imposables) constituait un avantage fiscal. En présentant cet argument, la Couronne n’affirme pas qu’il y avait une réduction d’impôt, mais elle soutient simplement qu’il y avait une réduction dans le calcul du revenu.
+[39] Au regard de la RGAÉ, le calcul du revenu est pertinent aux fins de la définition de l’expression « attribut fiscal » qui figure au paragraphe 245(1) de la LIR et qui est rédigée comme suit :
+« attribut fiscal » S’agissant des attributs fiscaux d’une personne, revenu, revenu imposable ou revenu imposable gagné au Canada de cette personne, impôt ou autre montant payable par cette personne, ou montant qui lui est remboursable, en application de la présente loi, ainsi que tout montant à prendre en compte pour calculer, en application de la présente loi, le revenu, le revenu imposable, le revenu imposable gagné au Canada de cette personne ou l’impôt ou l’autre montant payable par cette personne ou le montant qui lui est remboursable […] [19]
+Cependant, les notions de revenu, de revenu imposable et de revenu imposable gagné au Canada n’apparaissent pas dans la définition de l’« avantage fiscal ». Pour constituer un avantage fiscal, une réduction dans le calcul du revenu ne suffit pas. C’est une réduction d’impôt qui est plutôt nécessaire dans ce contexte. Certes, dans de nombreux cas, une réduction dans le calcul du revenu donne généralement lieu à une réduction d’impôt. Cependant, dans ce cas particulier où des dividendes en capital (réels ou réputés) totalisant 92 448 581 $ ont été versés par CGESR à ESRIL 98 et où un dividende en capital totalisant 49 998 834 $ a ensuite été versé par ESRIL 98 à ESRL, bien que ces dividendes en capital n’aient pas été intégrés au calcul du revenu de la société bénéficiaire, le montant de l’impôt payé n’était pas inférieur au montant de l’impôt qui aurait été payé s’il s’était agi de dividendes imposables qui auraient été intégrés (aux termes du paragraphe 82(1) de la LIR) au calcul du revenu de la société bénéficiaire, mais qui auraient été déductibles (aux termes du paragraphe 112(1) de la LIR) dans le calcul du revenu imposable de la société. Autrement dit, il n’y aurait eu aucun impôt payable, que les dividendes en question aient été des dividendes en capital ou des dividendes imposables. Ainsi, bien qu’il y ait eu une réduction du revenu, il n’y a pas eu une réduction d’impôt. Par conséquent, la réduction dans le calcul du revenu ne constituait pas un avantage fiscal.
+3) Évitement d’impôt aux termes de la partie III par ESRIL 98 et réduction d’impôt aux termes de la partie I par ses derniers actionnaires
+a) Évitement d’impôt aux termes de la partie III par ESRIL 98
+[40] Pour effectuer la première des trois étapes d’une analyse relevant de la RGAÉ, une forme de mesure ou de comparaison est généralement nécessaire pour déterminer s’il y a un avantage fiscal. Comme l’a expliqué le juge Bonner dans la décision McNichol :
+[traduction]
+La notion d’avantage fiscal au titre du paragraphe 245(1) n’a rien de mystérieux. Une réduction ou un évitement d’impôt nécessite manifestement la détermination d’une norme au regard de laquelle il convient de mesurer la réduction, dans un ensemble donné de circonstances. Dans d’autres affaires, la détermination de la norme pourrait comporter des difficultés, mais en l’espèce, de telles difficultés n’existent pas […] [20]
+[41] Après avoir discuté l’analyse de l’« avantage fiscal » du juge Bonner dans la décision McNichol et du juge Bowman (tel était alors son titre) dans la décision Equilease [21] , dans l’article susmentionné, M. Couzin a fait l’observation suivante :
+[traduction]
+Rien de cela n’élimine le problème lié à la recherche d’une opération (ou série d’opérations) comparable pour déterminer si l’opération (ou la série) qui a été effectivement été effectuée a donné lieu à un avantage fiscal. Le juge Bonner l’a d'ailleurs admis, le juge Bowman et lui-même ayant de fait trouvé l’opération comparable : une distribution des dividendes imposables. Ce qui est peut-être moins évident est la façon dont on peut formuler une règle générale pour trouver une telle opération comparable. Dans ces affaires précises, les éléments de preuve présentés à la Cour et les longs antécédents de dépouillement des surplus au Canada pourraient avoir indiqué la voie à suivre. Cependant, dans d’autres affaires, cette voie est vraisemblablement moins évidente. Dans le contexte d’une planification fiscale complexe, fondée sur des règles fiscales obscures, les juges pourraient ne pas considérer que l’opération normative est assez évidente [22] .
+Comme cela sera signalé plus loin [23] , les présents appels interjetés par RE 2015 sont parmi ceux visés par M. Couzin, c.-à-d. qu’il n'en ressort pas clairement une opération normative comparable.
+[42] Dans l’arrêt Hypothèques Trustco, la Cour suprême du Canada a observé concernant la comparaison avec un autre mécanisme :
+Dans les cas où une déduction est demandée à l’égard d’un revenu imposable, il est évident qu’il existe un avantage fiscal étant donné qu’une déduction entraîne une réduction d’impôt. Dans d’autres cas, il se peut que l’existence d’un avantage fiscal ne puisse être établie qu’au moyen d’une comparaison avec un autre mécanisme. [...] Dans ces cas, l’existence d’un avantage fiscal ne pourrait être établie qu’au moyen d’une comparaison entre différents mécanismes. Dans tous les cas, il faut déterminer si le contribuable a réduit, évité ou reporté un montant d’impôt payable en vertu de la Loi [24] .
+[43] Dans l’arrêt Copthorne, la Cour suprême du Canada a réitéré et étoffé l’observation faite dans l’arrêt Hypothèques Trustco comme suit :
+Notre Cour affirme dans Trustco que l’existence d’un avantage fiscal peut être établie en comparant la situation du contribuable à celle qu’aurait produit un autre mécanisme [...], auquel cas il faut que l’autre mécanisme en soit un qui [traduction] « aurait pu raisonnablement avoir été employé n’eût été l’avantage fiscal » (D. G. Duff, et autres, Canadian Income Tax Law (3e éd. 2009), p. 187). En s’attachant à ce que la société aurait fait si elle n’avait pas cherché à bénéficier de l’avantage fiscal, cette démarche vise à isoler l’effet fiscal avantageux de la motivation non fiscale du contribuable [25] .
+[44] Comme cela a été signalé plus haut, le 27 octobre 2009, ESRIL 98 a racheté des actions, a fait un choix aux termes du paragraphe 83(2) de la LIR et a été réputée avoir versé 49 998 834 $ en dividendes en capital à ESRL. À ce moment-là, ESRIL 98 pensait que le solde de son CDC s’élevait à 92 448 860 $. Selon l’ARC, ce solde était gonflé à concurrence de 42 239 105 $ (étant pour ESRIL le CBR des dix polices qu’elle détenait) [26] . Si la thèse de l’ARC est correcte, le solde exact du CDC aurait été de 50 209 755 $ (c.-à-d. 92 448 860 $ - 42 239 105 $). Ainsi, même si la thèse de l’ARC était correcte, le montant du dividende en capital versé par ESRIL 98 à ESRL était inférieur au montant du solde disponible du CDC. Par conséquent, il est difficile de savoir comment ESRIL 98 a évité de payer l’impôt prévu par la partie XIII si elle a racheté les actions, fait un choix aux termes du paragraphe 83(2) et a été réputée avoir payé le dividende en capital le 27 octobre 2009 [27] .
+[45] ESRIL 98 n’a pas payé de dividendes en capital après le 27 octobre 2009. Par conséquent, en se fondant sur cet argument, ESRIL 98 ne pouvait pas avoir évité de payer l’impôt prévu par la partie XIII après le 27 octobre 2009 ni tiré un avantage fiscal.
+b) Réduction d’impôt aux termes de la partie I par les derniers actionnaires
+[46] L’ARC soutient également que les derniers actionnaires d’ESRIL 98 ont réduit le montant de l’impôt prévu par la partie I qui serait payable par eux s’ils devaient percevoir des dividendes imposables, plutôt que des dividendes en capital, découlant d’ESRIL 98 [28] . Cependant, il ne ressort d'aucun élément de preuve qu’ESRIL 98 a versé à ESRL des dividendes en capital supérieurs à 49 998 834 $ ou qu’ESRL a versé des dividendes en capital à ses actionnaires.
+[47] Dans l’arrêt Wild, la Cour d’appel fédérale, selon une analyse relevant de la RGAÉ, a établi une distinction entre la création de la possibilité d’une distribution en franchise d’impôt des bénéfices non répartis d’une société et la réalisation de cette possibilité [29] . La Cour a indiqué que, tout comme le regroupement des pertes fiscales dans l’arrêt OSFC [30] , les opérations en cause dans l’arrêt Wild qui ont donné lieu à l’augmentation du capital versé de certaines actions n’ont pas donné lieu à un avantage fiscal [31] .
+[48] Dans son commentaire de l’arrêt Wild, Brian Arnold a observé :
+[traduction]
+Outre que le contribuable avait concédé qu’il avait obtenu un avantage fiscal découlant des opérations en question, il me semble évident que l’augmentation du capital versé ne constituait pas un avantage fiscal. Il est évident qu’une déduction, une indemnité, un crédit, une exemption ou une exclusion constituent un avantage fiscal, car ils découlent tous d’une réduction de l’impôt à payer. En revanche, l’augmentation d’un attribut fiscal ne découle pas d’une réduction, d’un évitement ou d’un report d’impôt; elle peut constituer un avantage dans un sens général, car elle permet à l’avenir la distribution en franchise d’impôt d’une somme [32] .
+Après avoir fait cette observation, Arnold a ensuite discuté l’importance de l'expression « directement ou indirectement » aux paragraphes 245(2), (3) et (4) de la LIR. Il a observé :
+[traduction]
+Bien que cela ne soit pas tout à fait clair, il semblerait que l'expression « directement ou indirectement » soit utilisée par acquit de conscience pour veiller à ce que l’application de la RGAÉ ne puisse pas être évitée par des arguments de pure forme quant à la question de savoir si une opération ou une série d’opérations a donné lieu à un avantage fiscal. Par exemple, si le contribuable conclut une opération qui donne lieu à une augmentation du coût d’un bien amortissable, il n’y a pas avantage fiscal tant que le contribuable ne demande pas une déduction pour amortissement. Une fois que le contribuable demande une déduction pour amortissement, il y a avantage fiscal; cependant, l’avantage fiscal découle-t-il directement de l’opération qui a donné lieu à une augmentation du coût en capital du bien ou encore de la demande par le contribuable d’une déduction pour amortissement? La solution découle de l’adverbe « indirectement », car l’avantage fiscal découle indirectement de l’opération qui a donné lieu à l’augmentation du coût du bien. Cependant, dans la plupart des cas, la notion d’une série d’opérations englobe les avantages fiscaux qui sont obtenus de façon indirecte.
+Par conséquent, on ne sait pas vraiment en fait ce que l’inclusion de l'expression « directement ou indirectement » dans la définition d’une opération d’évitement ajoute à la RGAÉ. Cependant, il est évident que l'expression n’étend pas la RGAÉ aux avantages fiscaux qui n’ont pas encore donné lieu à une économie d’impôt, mais elle pourrait le faire à l’avenir [33] . [Non souligné dans l’original.]
+Arnold a ensuite observé au sujet de l’applicabilité du paragraphe 152(1.11) de la LIR :
+[traduction]
+Le paragraphe 152(1.11) est également pertinent aux fins de la présente discussion. Il semblerait que le paragraphe 152(1.11) vise à autoriser le ministre à établir un montant d’argent, notamment celui du capital versé d’actions ou du prix de base rajusté d’un bien, plutôt qu’à établir une cotisation concernant l’impôt, car ce dernier pourrait ne pas être exigible avant une année subséquente. Comme Jim Wilson et moi-même l’avions souligné à l’époque, en 1988 (Revue fiscale canadienne, vol. 36, no 5, à la page 1176), le texte de la RGAÉ et celui du paragraphe 152(1.11) ne reflète pas cette intention. Le paragraphe 152(1.11) ne renvoie pas explicitement à un avantage fiscal et le paragraphe 245(2) ne joue pas tant qu’il n’y a pas une opération d’évitement et un avantage fiscal. Le paragraphe 152(1.11) ne joue donc que si le ministre détermine les attributs fiscaux aux termes du paragraphe 245(2). Par conséquent, le moment le plus tôt où le paragraphe 152(1.11) autorise le ministre à établir un montant d’argent (par exemple, l’établissement du montant du capital versé d’actions ou du prix de base rajusté d’un bien en immobilisation) correspond à la première année d’imposition au cours de laquelle le contribuable demande un avantage fiscal.
+Cette conclusion pose problème, car elle contraint l’ARC à continuer à exercer une surveillance sur le contribuable et sur ses ayants droit afin d’appliquer la RGAÉ si l’augmentation du capital versé est utilisée pour mettre à l’abri du fisc une distribution par ailleurs imposable. Prenons un exemple simple où le coût en capital d’un bien amortissable est augmenté au moyen d’une opération d’évitement abusive. Or, le contribuable ne demande aucune déduction pour amortissement durant l’année au cours de laquelle l’opération a lieu. L’ARC doit patienter jusqu’à la première année au cours de laquelle le contribuable demande une déduction pour amortissement avant de pouvoir faire jouer la RGAÉ. Une fois que la RGAÉ joue, toutefois, le ministre peut effectuer une détermination aux termes du paragraphe 152(1.11) afin de réduire le coût en capital des biens : le ministre n’a pas besoin d’attendre et de faire jouer la RGAÉ chaque fois que le contribuable demande une déduction pour amortissement [34] .
+[49] Par conséquent, comme l’a soutenu la Couronne, la future réduction d’impôt, aux termes de la partie I de la LIR, par les derniers actionnaires chez ESRIL 98, ne constitue pas un avantage fiscal à ce moment-ci.
+4) Évitement d’impôt aux termes de la partie III par CGESR
+[50] Dans la décision Canadian Pacific, le juge Bonner est revenu sur la question de la détermination d’une norme permettant d’évaluer une réduction d’impôt alléguée comme suit :
+La définition d’avantage fiscal figurant au paragraphe 245(1), en faisant référence à une « réduction, [à un] évitement ou [à un] report d’impôt [...] », suppose l’existence d’un montant normal d’impôt avec lequel la réduction peut être comparée [...] La norme avec laquelle la réduction doit être comparée n’est pas une opération qui est théoriquement possible, mais, de façon concrète, il s’agit d’une opération improbable dans les circonstances [35] . [Renvoi omis.]
+[51] Après que CGESR eut perçu le produit de l’assurance-vie le 17 décembre 2008, concernant les douze polices, dont le montant total s’est élevé à 102 309 794 $, ainsi que 84 090 $ d’intérêts (que CGESR a considéré, par erreur, comme le produit de l’assurance-vie), CGESR a compris que le montant de son CDC a augmenté de 102 393 885 $ (c.-à-d. 102 309 794 $ + 84 090 $, en arrondissant), étant donné que le CBR des polices pour CGESR était nul [36] . Étant donné que le solde du CDC de CGESR avait été de 54 701 $ le 2 décembre 2008, CGESR a compris que le solde de son CDC le 17 décembre 2008 était de 102 448 586 $ (c.-à-d. 54 701 $ + 102 393 885 $). Le 15 juillet 2009, CGESR a payé au total 10 702 742 $ en dividendes en capital. Le 27 octobre 2009, CGESR a racheté certaines des actions privilégiées de catégorie A de son capital qui appartenaient à ESRIL 98, ce qui a donné lieu à un dividende réputé de 91 745 839 $, au regard duquel CGESR a fait un choix relativement aux dividendes en capital aux termes du paragraphe 83(2) de la LIR. Par conséquent, pendant la période de quatre mois, de juillet 2009 à octobre 2009, CGESR a payé des dividendes en capital (réels ou réputés) soit une somme totale de 102 448 581 $ (c.-à-d. 10 702 742 $ + 91 745 839 $), ce qui représentait 5 $ de moins que le solde compris de son CDC. Cependant, comme il est indiqué dans la note de bas de page 6 ci-dessus, ce solde a été surévalué de 84 090 $. Il correspondait aux intérêts versés par l’assureur à CGESR au titre du produit de l’assurance et il a été inclus par inadvertance dans le calcul du solde du CDC de CGESR. Une cotisation a été établie à l’égard de CGESR et elle a payé l’impôt prévu par la partie III concernant la somme de 84 090 $.
+[52] Selon la thèse de la Couronne, si pour ESRL le CBR des dix polices qu’elle détenait (c.-à-d. 42 239 105 $) était soustrait du montant du produit réel de l’assurance-vie (à l’exclusion des intérêts) ajouté au CDC de CGESR, le solde du CDC n’aurait été que de 60 070 689 $ (c.-à-d. 102 309 794 $ - 42 239 105 $) et la somme totale des dividendes en capital (réels ou réputés, mais à l’exclusion du dividende en capital au titre des intérêts de 84 090 $) versée par CGESR en 2009 aurait dépassé le CDC de 42 293 807 $ (c.-à-d. 102 364 496 $ [37] - 60 070 689 $). La Couronne soutient que CGESR a évité de payer l’impôt prévu par la partie III au titre de cette somme excédentaire [38] .
+[53] La thèse de la Couronne suppose que CGESR aurait payé au total 102 364 496 S en dividendes en capital (réels ou réputés), même si le solde du CDC n’avait été que de 60 070 689 $. La Couronne soutient que c’est l’autre opération qui doit être utilisée pour déterminer s’il y a eu évitement d’impôt aux fins de la définition de l’« avantage fiscal ». Cependant, à mon avis, cette autre opération n’est pas raisonnable, car il est peu probable que CGESR aurait payé la somme totale de 102 364 496 $ en dividendes en capital (réels ou réputés) si le solde de son CDC n’avait été que de 60 070 689 $.
+[54] Cette thèse est compatible avec le mécanisme consacré par les paragraphes 184(3) et (4) (qui se trouvent dans la partie III) de la LIR par lequel si une société fait un choix relativement aux dividendes en capital aux termes du paragraphe 83(2) de la LIR et que le montant du dividende dépasse celui du compte de dividendes en capital de la société, elle peut, avec l’accord de tous ses actionnaires, faire un choix aux termes du paragraphe 184(3), à la suite de quoi la tranche excédentaire du dividende est réputée être un dividende imposable distinct. Par conséquent, même s’il était peu probable que CGESR fasse sciemment un choix aux termes du paragraphe 83(2) au regard d’un dividende qui dépassait de 42 293 807 $ le solde de son compte de dividendes en capital, si cela s’était produit, en faisant un choix aux termes du paragraphe 184(3), aucun impôt prévu par la partie III n’aurait de toute manière été exigible.
+[55] L’avis de détermination délivré par l’ARC au nom du ministre pour l’année d’imposition de CGESR se terminant le 30 septembre 2010 n’a en fait appliqué aucun impôt prévu par la partie III (ou un impôt prévu par une autre partie de la LIR). Le ministre a plutôt établi qu’à concurrence de 42 239 100 $, les dividendes (réels ou réputés) versés par CGESR à ESRIL 98 étaient des dividendes imposables, plutôt que des dividendes en capital, et que ces dividendes imposables étaient déductibles aux termes de l’alinéa 112(1)a) de la LIR dans le calcul du revenu imposable d’ESRIL 98. Cela cadre avec le résultat qui se serait produit si l’ARC avait établi l’impôt prévu par la partie III aux termes du paragraphe 184(2) de la LIR et si CGESR avait fait un choix aux termes du paragraphe 184(3) de la LIR (comme cela est expliqué dans le paragraphe précédent).
+[56] Comme il est signalé plus haut [39] , dans l’arrêt Copthorne, la Cour suprême a observé que si la situation du contribuable est comparée à un autre mécanisme, « il faut que l’autre mécanisme en soit un qui [traduction] “aurait pu raisonnablement avoir été employé n’eût été l’avantage fiscal” [...] » [40] . Je suis d’avis que si le solde du CDC de CGESR n’avait été que de 60 070 689 $ le 27 octobre 2009, il aurait été déraisonnable que CGESR fasse des choix relativement au montant total de 102 364 491 $ de dividendes en capital aux termes du paragraphe 83(2) de la LIR.
+[57] Si l’on applique le principe consacré par le juge Bonner dans l’arrêt Canadian Pacific [41] , bien qu’il soit possible en théorie que CGESR ait payé la somme totale de 102 364 491 $ [42] en dividendes en capital, si le solde de son CDC n’était que de 60 070 689 $, dans la pratique, il est peu probable que CGESR l’aurait fait. Je suis plutôt d’avis que si le solde du CDC de CGESR n’avait été que de 60 070 689 $, CGESR aurait payé un dividende en capital dont le montant est inférieur ou égal à ce montant, et tous les dividendes supplémentaires auraient été des dividendes imposables. En fait, comme il a été signalé plus haut, c’est la façon dont l’ARC a traité les déterminations. Par conséquent, je suis d’avis que l’opinion de la Couronne quant à l’autre mécanisme comparatif n’était qu’une possibilité théorique qui, dans la pratique, était peu probable compte tenu des circonstances. Il n’y a donc pas eu avantage fiscal à cet égard.
+5) Résumé
+[58] Selon moi, les opérations visées n’ont pas donné lieu à un avantage fiscal. Cependant, au cas où je ferais erreur, je passerai aux deux autres étapes d’une analyse relevant de la RGAÉ.
+C. Opération d’évitement
+[59] Le paragraphe 245(3) de la LIR définit l'« opération d’évitement » comme suit :
+L’opération d’évitement s’entend :
+a) soit de l’opération dont, sans le présent article, découlerait, directement ou indirectement, un avantage fiscal, sauf s’il est raisonnable de considérer que l’opération est principalement effectuée pour des objets véritables – l’obtention de l’avantage fiscal n’étant pas considérée comme un objet véritable;
+b) soit de l’opération qui fait partie d’une série d’opérations dont, sans le présent article, découlerait, directement ou indirectement, un avantage fiscal, sauf s’il est raisonnable de considérer que l’opération est principalement effectuée pour des objets véritables – l’obtention de l’avantage fiscal n’étant pas considérée comme un objet véritable.
+[60] Bien que j’aie conclu que les opérations visées n’ont pas donné lieu à un avantage fiscal, dans le cas où ma conclusion serait incorrecte (c.-à-d. s’il y avait un avantage fiscal), RE 2015 a admis ce qui suit :
+a) sans l’article 245 de la LIR, une ou plusieurs opérations visées ont donné lieu, directement ou indirectement, à l’avantage fiscal;
+b) chacune de ces opérations visées était une opération d’évitement au sens du paragraphe 245(3) de la LIR [43] .
+Par conséquent, il n’y a rien de plus à ajouter concernant cette étape de l’analyse relevant de la RGAÉ.
+D. Évitement fiscal abusif
+1) Principes applicables
+[61] Le paragraphe 245(2) de la LIR dispose qu’en cas d’opération d’évitement, les attributs fiscaux d’une personne doivent être déterminés de façon à supprimer un avantage fiscal qui autrement découlerait de cette opération. Aux termes du paragraphe 245(4) de la LIR, le paragraphe 245(2) s’applique uniquement s’il y a abus dans l’application d’une disposition (dans le cadre des présents appels) de la LIR ou abus dans l’application des dispositions de la LIR (compte non tenu de l’article 245) interprétées dans leur ensemble. Dans l’arrêt Hypothèques Trustco, la Cour suprême du Canada a observé :
+44. L’interprétation contextuelle et téléologique des dispositions de la Loi invoquées par le contribuable et l’application des dispositions interprétées correctement aux faits d’une affaire donnée sont au cœur de l’analyse fondée sur le par. 245(4). Il faut d’abord interpréter les dispositions générant l’avantage fiscal pour en déterminer l’objet et l’esprit. Il faut ensuite déterminer si l’opération est conforme à cet objet ou si elle le contrecarre. [...]
+45. Cette analyse aboutit à une conclusion d’évitement fiscal abusif dans le cas où le contribuable se fonde sur des dispositions particulières de la Loi de l’impôt sur le revenu pour obtenir un résultat que ces dispositions visent à empêcher. Ainsi, il y a évitement fiscal abusif lorsqu’une opération va à l’encontre de la raison d’être des dispositions invoquées. Un mécanisme qui contourne l’application de certaines dispositions, comme des règles anti-évitement particulières, d’une manière contraire à l’objet ou à l’esprit de ces dispositions peut également donner lieu à un abus. Par contre, l’existence d’un abus n’est pas établie lorsqu’il est raisonnable de conclure qu’une opération d’évitement au sens du par. 245(3) était conforme à l’objet ou à l’esprit des dispositions conférant l’avantage fiscal [44] .
+[62] Dans l’arrêt Copthorne, la Cour suprême du Canada a fait état des facteurs additionnels suivants en matière d’analyse textuelle, contextuelle et téléologique pour établir l’objet ou l’esprit d’une disposition législative :
+70. L’objet ou l’esprit peuvent être circonscrits grâce à la méthode qu’emploie notre Cour pour toute interprétation législative, à savoir une méthode « textuelle, contextuelle et téléologique unifiée » [...]. Bien que la méthode d’interprétation soit la même dans le cas de la RGAÉ, l’analyse vise en l’espèce à dégager un aspect différent de la loi. Dans un cas classique d’interprétation législative, la cour applique l’analyse textuelle, contextuelle et téléologique pour établir le sens du texte de la loi. Dans le cas de la RGAÉ, l’analyse textuelle, contextuelle et téléologique vise à établir l’objet ou l’esprit d’une disposition. Il est alors possible que le sens des mots employés par le législateur soit suffisamment clair. La raison d’être de la disposition peut ne pas ressortir de la seule signification des mots eux-mêmes. Il ne faut cependant pas confondre la détermination de la raison d’être des dispositions applicables de la Loi avec le jugement de valeur quant à ce qui est bien ou mal non plus qu’avec les conjectures sur ce que devrait être une loi fiscale ou sur l’effet qu’elle devrait avoir [45] .
+2) Objet et esprit [46]
+[63] L’analyse nécessaire pour statuer sur les présents appels repose fondamentalement sur l'interprétation de l’objet et de l’esprit de la disposition (que j’appellerai la « disposition de réduction ») dans la définition du « compte de dividendes en capital » qui conduirait à réduire le montant du produit d’une police d’assurance-vie reçu par une société qui pourrait être ajouté au compte de dividendes en capital de la société. Comme il précisé ci-dessous, le texte de la disposition de réduction a évolué au fil des années. À mon avis, la politique que consacre la disposition de réduction a également évolué de temps à autre. Avant d’entreprendre l'interprétation de la disposition de réduction, j’examinerai l’historique législatif de la disposition de réduction et d’autres dispositions pertinentes dans la LIR, en mettant l’accent sur plusieurs modifications importantes.
+a) Historique législatif
+[64] L’avocat de la Couronne m’a fait parcourir l’historique législatif de la définition du « compte de dividendes en capital » et quelques dispositions législatives relatives aux polices d’assurance-vie [47] .
+(i) 1969
+[65] L’imposition du revenu gagné dans le cadre d’une police d’assurance-vie a été introduite dans l’ancienne Loi de l’impôt sur le revenu (l’ancienne loi) [48] en 1969, lorsque la disposition suivante, au paragraphe 79D(1), a été ajoutée :
+[traduction]
+79D. (1) Dans le calcul du revenu du titulaire d’une police d’assurance pour une année d’imposition, il faut inclure
+(a) dans toute police d’assurance-vie autre qu’un contrat de rente, l’excédent éventuel du produit de disposition d’un intérêt dans la police qu’il a acquis le droit de recevoir au cours de l’année sur le coût de base rajusté de la police, pour le titulaire de la police, au moment de la disposition [...] [49] [Non souligné dans l’original.]
+Il ressort de ce texte que le législateur était conscient de la nécessité d’établir le coût de base rajusté d’une police en fonction d’une personne en particulier, le titulaire de la police en l’espèce.
+[66] En revanche, les définitions suivantes du « coût de base rajusté » et de la « valeur de rachat » ont été incluses au paragraphe 79D(10) de l’ancienne loi :
+[traduction]
+(10) Les définitions qui suivent s’appliquent au présent article.
+a) Le « coût de base rajusté » des intérêts que possède un titulaire dans une police d’assurance-vie, à un moment donné, correspond à l’excédent éventuel
+(i) du total du coût de tous les intérêts qu’il a acquis dans la police et du total des sommes payées par lui ou pour son compte avant ce moment ou au titre des primes relatives à la police
+sur :
+(ii) l’ensemble du produit de disposition de ses intérêts dans la police qu’il a acquis le droit de recevoir avant ce moment, sauf dans la mesure où ce produit devait être inclus dans le calcul de son revenu pour une année d’imposition, au titre de l’alinéa a) du paragraphe (1);
+b) la « valeur de rachat » d’une police d’assurance-vie, à un moment donné, est sa valeur de rachat à ce moment, calculée compte non tenu des participations de polices payables aux termes de celles-ci ou des intérêts payables sur ces participations; [...] [50]
+Il convient de noter que la « valeur de rachat » a été définie en faisant abstraction du titulaire de la police d’assurance-vie donnée, tandis que le « coût de base rajusté » a été défini relativement au titulaire de la police donné. Autrement dit, sachant que le coût de base rajusté d’un intérêt dans une police d’assurance-vie ne pouvait être établi qu’en évoquant une personne donnée (le titulaire de la police en l’espèce), le titulaire de la police était un élément à prendre en considération pour l’application de la définition du « coût de base rajusté ». Il importe également de noter qu’en ce qui concernait les primes, la définition du « coût de base rajusté » tenait compte des primes versées par le titulaire de police ou pour son compte.
+(ii) 1972
+[67] Avec l’avènement de la réforme fiscale, en vigueur le 1er janvier 1972, l’alinéa 79D(1)a) de l’ancienne loi est devenu l’alinéa 148(1)a) de la LIR (sans modification du libellé de cette disposition). De même, la définition de l’expression « coût de base rajusté » à l’alinéa 79D(10)a) de l’ancienne loi, en substance, constitue l’alinéa 148(9)a) de la LIR [51] . Les gains en capital étant devenus imposables en 1972, la définition du « compte de dividendes en capital » a été ajoutée à l’alinéa 89(1)b) de la LIR. Aux fins des présents appels, les parties suivantes de cette définition sont pertinentes :
+b) « compte de dividendes en capital » S’agissant du compte de dividendes en capital d’une société, à un moment donné, l’excédent éventuel du total des montants suivants : [...]
+(iv) l’excédent éventuel
+(A) du produit d’une police d’assurance-vie que la société a reçu au cours de la période et après 1971 par suite du décès d’une personne dont la vie était assurée en vertu de la police;
+sur :
+(B) le total des sommes payées au titre des primes versées relatives à la police, […] [52] . [Non souligné dans l’original.]
+Ainsi, dans la version initiale de la définition du « compte de dividendes en capital », la disposition de réduction comprenait la préposition « sur » et la division 89(1)b)(iv)(B). La division 89(1)b)(iv)(B) faisait référence aux sommes payées au titre des primes ou pour le compte de la personne par laquelle ou au nom de laquelle ces primes peuvent avoir été versées, en faisant abstraction de cette personne. Autrement dit, en ce qui concernait le payeur des primes, la division 89(1)b)(iv)(B) possédait un sens plus large que celui du sous-alinéa (i) de la définition du « coût de base rajusté » à l’alinéa 148(9)a) de la LIR, tel qu’il se lisait alors.
+(iii) 1977
+[68] En 1977, le législateur a modifié la division 89(1)b)(iv)(B) de la LIR afin d’inclure dans la disposition de réduction un renvoi au coût de base rajusté d’une police d’assurance-vie pour la société bénéficiaire (au lieu de faire référence uniquement aux primes versées relatives à la police). La définition modifiée du « compte de dividendes en capital » est rédigée comme suit :
+b) « compte de dividendes en capital » S’agissant du compte de dividendes en capital d’une société, à un moment donné, l’excédent éventuel du total des montants suivants : [...]
+(iv) l’excédent éventuel
+(A) du produit d’une police d’assurance-vie que la société a reçu au cours de la période et après 1971 par suite du décès d’une personne dont la vie était assurée en vertu de la police;
+sur :
+(B) le coût de base rajusté de la police (au sens de l’alinéa 148(9)a)) pour la société immédiatement avant le décès de cette personne, [...] [53] [Non souligné dans l’original.]
+[69] En 1977, le législateur a également modifié l’alinéa 148(9)a) de la LIR afin d’élargir la définition du « coût de base rajusté » aux intérêts que possède un titulaire de police dans une police d’assurance-vie. La définition élargie est rédigée comme suit :
+[traduction]
+a) Le « coût de base rajusté » des intérêts que possède un titulaire dans une police d’assurance-vie, à un moment donné, correspond à l’excédent éventuel du total des montants suivants :
+(i) le coût de chaque intérêt qu’il a acquis dans la police avant ce moment, à l’exclusion d’un montant visé au sous-alinéa (ii) ou (iv);
+(ii) les sommes dont chacune représente une somme payée avant ce moment, par lui ou pour son compte, à titre de prime relative à la police;
+(iii) les montants, dont chacun est une somme relative à la disposition d’un intérêt dans la police avant ce moment et qui, comme l’exigeait l’alinéa (1)a), tel qu’il était libellé pour l’année d’imposition de 1977, au paragraphe (1), à l’article 16 ou à l’alinéa 56(1)d), devait être incluse dans le calcul de son revenu pour une année d’imposition;
+(iv) les sommes, dont chacune est une somme relative au remboursement avant ce moment et après le 31 mars 1978 d’une avance sur police à l’égard de la police, à l’exclusion du paiement des intérêts y afférents ou du remboursement d’une avance qui était déductible en application de l’alinéa 20(1)hh);
+(v) l’excédent éventuel de la valeur de rachat de la police au premier jour anniversaire de celle-ci après le 31 mars 1977 sur le coût de base rajusté (déterminé en vertu de la Loi qui aurait été applicable à cette date si le paragraphe (8) ne s’était pas appliqué) de ses intérêts dans la police à cette date
+sur le total des montants suivants :
+(vi) le total des montants dont chacun correspond au produit de disposition de son intérêt dans la police qu’il a acquis le droit de recevoir avant ce moment;
+(vii) le montant payable le 31 mars 1978 à l’égard d’une avance sur police à l’égard de la police;
+(viii) le total des montants dont chacun correspond à un montant reçu avant ce moment à l’égard de la police et qu’il avait le droit de déduire en vertu de l’alinéa 60a) dans le calcul de son revenu pour une année d’imposition; [...] [54]
+La définition élargie de l’expression « coût de base rajusté » comprenait plusieurs facteurs supplémentaires, ainsi que les trois facteurs initiaux, c.-à-d. le coût d’acquisition d’un intérêt dans une police, les primes versées relatives à la police et le produit de disposition d’un intérêt dans la police.
+[70] La modification de 1977 a aussi permis l’ajout de la définition du « produit de disposition » à l’alinéa 148(9)e.2) de la LIR [55] .
+[71] De plus, en 1977, le législateur a modifié le paragraphe 148(1) de la LIR. Avant cela, l’alinéa 148(1)a) était demeuré inchangé depuis sa promulgation initiale, en tant qu’alinéa 79D(1)a) de l’ancienne loi. Les parties pertinentes de l’alinéa, qui ont été modifiées en 1977, étaient rédigées comme suit :
+[traduction]
+148(1) Dans le calcul du revenu du titulaire d’une police d’assurance pour une année d’imposition, il faut inclure, à l’égard de la disposition d’un intérêt dans une police d’assurance-vie autre qu’une police qui est, ou qui est établie en vertu de :
+a) [s.o.];
+b) [s.o.];
+l’excédent éventuel du produit de disposition de son intérêt dans la police que le titulaire, le bénéficiaire ou le cessionnaire a acquis le droit de recevoir au cours de cette année sur le coût de base rajusté, pour le titulaire de la police, de cet intérêt immédiatement avant la disposition [56] . [Non souligné dans l’original.]
+Il convient de noter qu’en 1977, le législateur a maintenu, au paragraphe 148(1), la même notion qui datait de 1969, en employant l'expression [traduction] « le coût de base rajusté des intérêts que possède le titulaire de la police », même si, dans la définition de 1977 du [traduction] « compte de dividendes en capital », à la division 89(1)b)(iv)(B) qui a été modifiée par la même loi, le législateur a adopté l'expression [traduction] « le coût de base rajusté de la police [...] pour la société [...] ». Selon moi, il en ressort que le législateur avait délibérément choisi d’utiliser deux entités différentes comme points de référence supplémentaires (c.-à-d. les objets de la préposition [traduction] « pour ») pour l’expression [traduction] « coût de base rajusté », c.-à-d. la société dans le contexte de la division 89(1)b)(iv)(B) et le titulaire de la police dans le contexte du paragraphe 148(1) et de l’alinéa 148(9)a).
+[72] En 1977, comme il a été signalé précédemment, à l’alinéa 148(9)a) de la LIR, on a continué à définir l’expression [traduction] « coût de base rajusté » des intérêts que possède un titulaire dans une police d’assurance-vie en renvoyant (entre autres choses) aux sommes payées par le titulaire de la police ou pour son compte à titre de prime relative à la police, tandis qu’à l’alinéa 89(1)b) l’expression [traduction] « compte de dividendes en capital » a été définie en faisant référence au coût de base rajusté d’une police pour la société (même si le paragraphe 148(1) et l’alinéa 148(9)a) continuaient à faire référence au coût de base rajusté des intérêts que possède un titulaire dans une police). Il ressortait de l’interprétation des alinéas 89(1)b) et 148(9)a), ainsi que du paragraphe 148(1), qu’il fallait examiner les primes versées par la société, et non par le titulaire de police (si l’on part de l’hypothèse que le titulaire de police n’était pas le bénéficiaire) afin de déterminer la somme à ajouter au compte de dividendes en capital d’une société [57] . Voilà qui différait du contexte législatif avant le 1er avril 1977 : un changement de politique législative s’est produit en 1977.
+[73] En résumé, de 1972 au 31 mars 1977, la division 89(1)b)(iv)(B) de la LIR avait mentionné [traduction] « le total des sommes payées au titre des primes versées relatives à la police », indépendamment de l’identité du payeur de ces primes. Depuis la modification apportée en 1977, lorsqu’une société recevait le produit d’une police d’assurance-vie, la somme à ajouter au compte de dividendes en capital de la société était désormais calculée en fonction du coût de base rajusté de la police pour la société. Ainsi, après le 31 mars 1977, il ne fallait tenir compte que des primes payées par la société ou pour son compte, ainsi que du coût de chaque intérêt qu’elle avait acquis dans la police, de tout produit de disposition d’un intérêt dans la police et de plusieurs autres facteurs pour calculer la somme à ajouter au compte de dividendes en capital de la société. Cela marquait clairement un changement des facteurs à prendre en considération pour l’établissement de la somme à ajouter à un compte de dividendes en capital d’une société lorsque celle-ci recevait le produit d’une police d’assurance-vie. Comme il a été signalé précédemment, cela révélait un changement de politique législative en 1977.
+(iv) De 1982 à 1983
+[74] En 1983, lorsque le législateur a instauré le concept d’un compte de dividendes en capital d’assurance-vie en vigueur le 28 juin 1982, il a également modifié la définition du [traduction] « compte de dividendes en capital » comme suit :
+b) « compte de dividendes en capital » S’agissant du compte de dividendes en capital d’une société, à un moment donné, l’excédent éventuel du total des montants suivants : [...]
+(iv) l’excédent éventuel
+(A) du total des montants dont chacun correspond au produit d’une police d’assurance-vie, dont la société était bénéficiaire au plus tard le 28 juin 1982, que la société a reçu au cours de la période et après 1971 par suite du décès d’une personne dont la vie était assurée en vertu de la police,
+sur :
+(B) le total des montants dont chacun correspond au coût de base rajusté de la police (au sens de l’alinéa 148(9)a)) pour la société immédiatement avant le décès de cette personne, [...] [58] . [Non souligné dans l’original.]
+[75] La définition suivante du [traduction] « compte de dividendes en capital d’assurance-vie » a été adoptée par le législateur au même moment :
+(b.2) « compte de dividendes en capital d’assurance-vie » S’agissant du compte de dividendes en capital d’assurance-vie d’une société, à un moment donné, l’excédent éventuel du total des montants suivants :
+(i) l’excédent éventuel
+(A) du total des montants dont chacun représente le produit d’une police d’assurance-vie dont la société n’était pas un bénéficiaire au plus tard le 28 juin 1982, que la société a reçu au cours de la période par suite du décès d’une personne dont la vie était assurée en vertu de la police
+(I) à partir du premier jour de la première année d’imposition qui commençait après le moment où la société est devenue une société privée pour la dernière fois et qui se terminait après 1971;
+(II) et juste avant le moment donné
+sur :
+(B) le total des montants dont chacun correspond au coût de base rajusté (au sens attribué par l’alinéa 148(9)a)) d’une police énoncée à la division (A) pour la société immédiatement avant le décès de cette personne et [...] [59] . [Non souligné dans l’original.]
+Il y avait une similitude entre la manière de calculer le compte de dividendes en capital d’assurance-vie d’une société et la manière dont le compte de dividendes en capital d’une société avait été calculé auparavant. Plus précisément, il y avait une symétrie entre les divisions 89(1)b)(iv)(B) et 89(1)b.2)(i)(B). Si le législateur avait souhaité que les primes payées par le titulaire de police soient prises en considération dans le calcul du montant du produit de l’assurance à ajouter au compte de dividendes en capital d’assurance-vie, il aurait pu facilement le prévoir au lieu de continuer à utiliser l'expression « coût de base rajusté [...] pour la société ».
+[76] En 1983, le législateur a également modifié la définition du « coût de base rajusté » au paragraphe 148(9), afin d’exclure de cette expression le coût net de l’assurance pure pour une police d’assurance-vie qu’un titulaire a acquis après le 1er décembre 1982. La partie pertinente de la définition modifiée était la suivante :
+a) le « coût de base rajusté » des intérêts que possède un titulaire dans une police d’assurance-vie, à un moment donné, correspond à l’excédent éventuel du total des montants suivants :
+(i) le coût de chaque intérêt qu’il a acquis dans la police avant ce moment, à l’exclusion d’un montant visé au sous-alinéa (ii) ou (iv);
+(ii) les sommes dont chacune représente une somme payée avant ce moment, par lui ou pour son compte, à titre de prime relative à la police; [...]
+sur le total des montants suivants :
+(vi) le total des montants dont chacun correspond au produit de disposition de son intérêt dans la police qu’il a acquis le droit de recevoir avant ce moment; [...]
+ix) dans le cas d’un intérêt dans une police d’assurance-vie (autre qu’un contrat de rente) qui a été acquis pour la dernière fois après le 1er décembre 1982 par le titulaire de la police, le total des sommes dont chacune est le coût net de l’assurance pure à l’égard de l’intérêt immédiatement avant la fin de l’année civile se terminant au cours d’une année d’imposition commençant après le 31 mai 1985 et avant ce moment; […] [60]
+[77] En ce qui concerne le paragraphe 148(1) de la LIR, bien que des modifications aient été apportées en 1983 à la première partie et à la partie centrale de ce paragraphe, la dernière partie ne comportait qu’une modification mineure (l'expression « au cours de cette année » a été remplacée par l'expression « au cours de l’année »). Plus précisément, l'expression « sur le coût de base rajusté, pour le titulaire de la police, de cet intérêt » est demeurée inchangée [61] .
+(v) 1986
+[78] En 1986, de concert avec l’abrogation des règles provisoires relatives au compte de dividendes en capital d’assurance-vie, la définition du « compte de dividendes en capital » à l’alinéa 89(1)b) de la LIR a été modifiée comme suit :
+b) « compte de dividendes en capital » S’agissant du compte de dividendes en capital d’une société, à un moment donné, l’excédent éventuel du total des montants suivants : [...]
+(iv) l’excédent éventuel du total des montants suivants :
+(A) les montants dont chacun représente le produit d’une police d’assurance-vie, dont la société était bénéficiaire au plus tard le 28 juin 1982, que la société a reçu au cours de la période et après 1971 par suite du décès d’une personne;
+(B) les montants dont chacun représente le produit d’une police d’assurance-vie, dont la société n’était pas bénéficiaire au plus tard le 28 juin 1982, que la société a reçu au cours de la période et après le 23 mai 1985 par suite du décès d’une personne
+sur le total des montants dont chacun correspond au coût de base rajusté (au sens attribué par l’alinéa 148(9)a)) d’une police énoncée à la division (A) ou (B) pour la société immédiatement avant le décès de cette personne, [...] [62] . [Non souligné dans l’original.]
+La modification de 1986 n’a pas modifié la signification générale que revêtait la disposition de réduction qui datait de 1977, c.-à-d. que le coût de base rajusté de la police pour la société devait réduire la somme à ajouter au compte de dividendes en capital d’une société lorsque celle-ci recevait le produit d’une police d’assurance-vie.
+(vi) 1994
+[79] La LIR a été introduite dans les Lois révisées du Canada de 1985 (L.R.C. de 1985) le 1er mars 1994, au chapitre 1 du cinquième supplément, de sorte que les termes définis n’ont plus été mentionnés comme des alinéas donnés d’un article ou d’un paragraphe; en revanche, ils ont été classés par ordre alphabétique (dans les deux langues officielles) à l’article ou au paragraphe donné. Cela a abouti à une renumérotation interne des alinéas, sous-alinéas etc. d’un grand nombre de termes définis. Par conséquent, la partie pertinente de la définition du « compte de dividendes en capital » a été reformulée comme suit :
+« compte de dividendes en capital » S’agissant du compte de dividendes en capital d’une société, à un moment donné, l’excédent éventuel du total des montants suivants : [...]
+d) l’excédent éventuel du total des montants suivants :
+(i) les montants dont chacun représente le produit d’une police d’assurance-vie, dont la société était bénéficiaire au plus tard le 28 juin 1982, que la société a reçu au cours de la période et après 1971 par suite du décès d’une personne;
+(ii) les montants dont chacun représente le produit d’une police d’assurance-vie, dont la société n’était pas bénéficiaire au plus tard le 28 juin 1982, que la société a reçu au cours de la période et après le 23 mai 1985 par suite du décès d’une personne
+sur le total des montants dont chacun représente le coût de base rajusté (au sens du paragraphe 148(9)) d’une police énoncée au sous-alinéa (i) ou (ii) pour la société immédiatement avant le décès de cette personne, [...] [63] . [Non souligné dans l’original.]
+Ainsi, malgré la transition à la mise en forme des L.R.C. de 1985, la substance de la partie relative à l’assurance-vie de la définition du [traduction] « compte de dividendes en capital » est demeuré essentiellement la même que le précédent [64] .
+[80] Des modifications plus importantes apportées à la présentation étaient visibles dans la version des L.R.C. de 1985 de la définition du [traduction] « coût de base rajusté » désormais classée par ordre alphabétique au paragraphe 148(9) de la LIR. Il convient de noter qu’une approche fondée sur l’application d’une formule a été utilisée pour la définition. En outre, peu de temps après que la version des L.R.C. de 1985 fut entrée en vigueur, et avant que les éditeurs commerciaux aient pu publier une nouvelle version de la LIR, le législateur avait apporté quelques modifications. Aux fins des présents appels, les parties pertinentes de la définition du « coût de base rajusté », au format des L.R.C. de 1985 et modifiées en 1994, étaient rédigées comme suit :
+[traduction]
+« coût de base rajusté » Le coût de base rajusté des intérêts que possède un titulaire dans une police d’assurance-vie, à un moment donné, correspond au montant déterminé selon la formule suivante :
+(A + B […]) - (H + […] L)
+où :
+A représente le total des montants dont chacun est le coût d’un intérêt qu’il a acquis dans la police avant ce moment, à l’exclusion d’un montant visé aux éléments B ou E;
+B le total des sommes représentant chacune une somme payée par lui ou pour son compte avant ce moment à titre de prime relative à la police, à l’exception des sommes ou montants visés à la division (2)a)(ii)(B), au sous-alinéa (iii) de l’élément C de la formule figurant à l’alinéa a) de la définition de produit de disposition ou au sous-alinéa b)(i) de cette définition; [...]
+H le total des montants dont chacun correspond au produit de disposition de son intérêt dans la police qu’il a acquis le droit de recevoir avant ce moment; [...]
+L :
+(a) dans le cas d’un intérêt dans une police d’assurance-vie (autre qu’un contrat de rente) qui a été acquis pour la dernière fois après le 1er décembre 1982 par le titulaire de la police, le total des sommes dont chacune est le coût net de l’assurance pure défini par règlement et déterminé par l’émetteur de la police conformément au règlement, à l’égard de l’intérêt immédiatement avant la fin de l’année civile se terminant au cours d’une année d’imposition commençant après le 31 mai 1985 et avant ce moment; [...] [65]
+Bien que des modifications aient été apportées à la mise en page et à la numérotation et que quelques autres modifications mineures aient été appliquées dans les parties susmentionnées de la définition du « coût de base rajusté », la substance générale est demeurée essentiellement la même.
+(vii) 2013
+[81] En 2013, le législateur a adopté des modifications visant à répondre aux préoccupations relatives aux polices RAL (« rentes assurées avec effet de levier ») et aux stratagèmes 10/8. En conséquence, l’alinéa d) de la définition du « compte de dividendes en capital » a été modifié pour exclure du calcul du compte de dividendes en capital d’une société le produit d’une police RAL et pour disposer que le montant impayé d’un emprunt visé ne soit pas inclus dans le calcul du compte de dividendes en capital si une police d’assurance est une police 10/8. La définition modifiée est rédigée comme suit :
+« compte de dividendes en capital » S’agissant du compte de dividendes en capital d’une société, à un moment donné, l’excédent éventuel du total des montants suivants : […]
+d) l’excédent éventuel du total des montants suivants :
+(i) les montants dont chacun représente le produit d’une police d’assurance-vie dont la société était un bénéficiaire au plus tard le 28 juin 1982 que la société a reçu au cours de la période et après 1971 par suite du décès d’une personne,
+(ii) les montants dont chacun représente le produit d’une police d’assurance-vie (sauf une police RAL) dont la société n’était pas bénéficiaire au plus tard le 28 juin 1982 que la société a reçu au cours de la période et après le 23 mai 1985 par suite du décès d’une personne,
+sur le total des montants dont chacun représente :
+(iii) le coût de base rajusté, au sens du paragraphe 148(9), d’une police visée aux sous-alinéas (i) ou (ii) pour la société immédiatement avant le décès,
+(iv) si la police est une police 10/8 immédiatement avant le décès et que le décès survient après 2013, le montant impayé, immédiatement avant le décès, de l’emprunt visé au sous-alinéa a)(i) de la définition de « police 10/8 » au paragraphe 248(1) relativement à la police; [...] [66] . [Non souligné dans l’original.]
+Les modifications de 2013 n’ont pas vraiment modifié les dispositions pertinentes du paragraphe 148(1) et la définition du « coût de base rajusté ».
+(viii) 2016
+[82] En 2016, le législateur a modifié le sous-alinéa d)(iii) de la définition du « compte de dividendes en capital » au paragraphe 89(1) de la LIR de manière à empêcher le type de planification que le groupe RPC a effectué en 2005. Après la modification, qui est entrée en vigueur le 15 décembre 2016, les sous-alinéas d)(i) à (iii) de cette définition étaient rédigés comme suit :
+« compte de dividendes en capital » S’agissant du compte de dividendes en capital d’une société, à un moment donné, l’excédent éventuel du total des montants suivants : [...]
+d) l’excédent éventuel du total des montants suivants :
+(i) les montants dont chacun représente le produit d’une police d’assurance-vie dont la société était un bénéficiaire au plus tard le 28 juin 1982 que la société a reçu au cours de la période et après 1971 par suite du décès d’une personne,
+(ii) les montants dont chacun représente le produit d’une police d’assurance-vie (sauf une police RAL) dont la société n’était pas bénéficiaire au plus tard le 28 juin 1982 que la société a reçu au cours de la période et après le 23 mai 1985 par suite du décès d’une personne,
+sur le total des montants dont chacun représente :
+(iii) le « coût de base rajusté » (s’entendant au présent alinéa au sens du paragraphe 148(9)) immédiatement avant le décès :
+(A) si le décès survient avant le 22 mars 2016, d’une police mentionnée au sous-alinéa (i) ou (ii) pour la société,
+(B) si le décès survient après le 21 mars 2016, d’un intérêt d’un titulaire de police dans une police mentionnée au sous-alinéa (i) ou (ii), […] [67] . [Non souligné dans l’original.]
+[83] La modification signalée dans le paragraphe précédent a été annoncée le 22 mars 2016, de concert avec le discours du budget prononcé par le ministre des Finances ce jour-là. Le texte législatif proposé figurant dans les documents du budget publiés le 22 mars 2016 était légèrement différent du texte législatif qui a été concrètement adopté (comme il est indiqué ci-dessus). Plus précisément, dans le texte législatif proposé publié le 22 mars 2016, l'expression entre parenthèses, après l’expression « coût de base rajusté » dans la partie initiale du sous-alinéa d)(iii) est simplement rédigée comme suit : « (au sens du paragraphe 148(9)) ». Les mots « au présent alinéa » ont été ajoutés à l'expression entre parenthèses dans un Avis de motion de voies et moyens déposé à la Chambre des communes en octobre 2016.
+[84] L’Avis de motion de voies et moyens déposé en octobre 2016 a apporté d’autres modifications aux alinéas d) de la définition du « coût de dividendes en capital » qui ont donné lieu à trois utilisations supplémentaires de l’expression « coût de base rajusté » dans la disposition modifiée [68] . Chose étrange, dans les quatre cas à l’alinéa d) de la définition modifiée du « compte de dividendes en capital » où l’expression « coût de base rajusté » est employée, trois formulations différentes sont utilisées, à savoir :
+[traduction] (a) À la division d)(iii)(B), la formulation est la suivante :
+[...] coût de base rajusté [...] de [...] intérêt d’un titulaire de police dans une police [...]
+[traduction] (b) À la subdivision d)(v)(A)(I), la formulation est la suivante :
+[...] le coût de base rajusté pour le titulaire de police de l’intérêt [...]
+[traduction] (c) Au sous-alinéa d)(vi), la formulation de la définition de la variable A (utilisée dans la formule de ce sous-alinéa) est la suivante :
+[...] le coût de base rajusté pour le titulaire de police de l’intérêt [...]
+[traduction] (d) Au sous-alinéa d)(vi), la formulation de la définition de la variable B (utilisée dans la formule de ce sous-alinéa) est la suivante :
+[...] le coût de base rajusté [...] de l’intérêt dans la police [...]
+Il est difficile de savoir si le législateur souhaitait, par ces trois versions du texte des dispositions énoncées ci-dessus, accorder de l’importance à l’interprétation de ces dispositions ou à l’évaluation de la politique législative que consacrent ces dispositions.
+[85] Pour la première fois, dans la version de 2016 de l’alinéa d) de la définition du « compte de dividendes en capital », l’expression « coût de base rajusté » était entre guillemets. Dans toutes les versions précédentes de cette définition, de 1977 à 2015, l’expression « coût de base rajusté » n’était pas entre guillemets. Cette différence s’explique peut-être par le fait que dans les versions précédentes, l'expression entre parenthèses de la définition était [traduction] « (au sens attribué par l’alinéa 148a)) », tandis que l'expression entre parenthèses de la version de 2016 était « s’entendant au présent alinéa au sens du paragraphe 148a)) ».
+[86] La formulation de la division d)(iii)(B) de la définition du « compte de dividendes en capital », que la loi budgétaire de 2016 a édictée, est particulière du fait qu’elle s’écarte de la pratique générale de la LIR qui consiste à décrire un coût de base rajusté comme se rattachant à une personne donnée [69] . Par exemple, la définition du « coût de base rajusté » au paragraphe 148(9) de la LIR est en fait la suivante : « coût de base rajusté des intérêts que possède un titulaire dans une police d’assurance-vie […] » [non souligné dans l’original]. De même, avant et après les modifications apportées par le budget de 2016, le paragraphe 148(1) de la LIR indiquait que l’inclusion dans le revenu visée par ce paragraphe (dans le contexte de la disposition d’un intérêt dans une police d’assurance-vie) était établie en fonction de « l’excédent [...] du produit de disposition de son intérêt dans la police [...] sur le coût de base rajusté, pour le titulaire de la police de cet intérêt […] » et il continue à l’indiquer [non souligné dans l’original]. Même dans les deux des trois autres cas à l’alinéa d) de la définition du « compte de dividendes en capital », où l’expression « coût de base rajusté » a été ajoutée à la suite des modifications de 2016, la formulation traditionnelle (c.-à-d. « coût de base rajusté pour le titulaire de la police ») [non souligné dans l’original] est employée [70] . Seule la formulation (c.-à-d. « le coût de base rajusté [...] de l’intérêt dans la police ») de la définition de la variable B, au sous-alinéa d)(vi), correspond quelque peu à la formulation de la division d)(iii)(B) (sans toutefois y être identique).
+b) Effet d’une modification législative
+(i) Principes applicables
+[87] Les paragraphes 45(2) et (3) de la Loi d’interprétation sont rédigés comme suit :
+(2) La modification d’un texte ne constitue pas ni n’implique une déclaration portant que les règles de droit du texte étaient différentes de celles de sa version modifiée ou que le Parlement, ou toute autre autorité qui l’a édicté, les considérait comme telles.
+(3) L’abrogation ou la modification, en tout ou en partie, d’un texte ne constitue pas ni n’implique une déclaration sur l’état antérieur du droit.
+[88] En commentant les dispositions susmentionnées, la Cour d’appel fédérale a observé :
+46. […] Je fais remarquer à cette étape qu’on ne peut présumer que les modifications subséquentes modifient ou confirment l’état antérieur du droit (voir les paragraphes 45(2) et (3) de la Loi d’interprétation […]). Récemment, dans l’arrêt Univar Holdco Canada ULC […] notre Cour illustre que, dans le contexte de la RGAÉ, les dispositions invoquées pour obtenir l’avantage fiscal doivent d’abord être interprétées individuellement. Ce n’est qu’à la suite de cette analyse qu’il sera possible de décider si une modification subséquente portant sur le même sujet confirme ou modifie l’état antérieur du droit. [...]
+86. La question de savoir si une modification clarifie ou modifie l’état antérieur du droit dépend de l’interprétation de l’état antérieur du droit et de la modification. Comme il a été expliqué, la Loi d’interprétation empêche de tirer une conclusion au sujet de l’effet juridique d’un nouveau texte sur l’état antérieur du droit au seul motif que le législateur l’a adopté. Dans cette perspective, la seule façon d’évaluer les incidences d’une modification sur l’état du droit antérieur consiste à déterminer l’effet juridique de la loi telle qu’elle existait avant la modification, puis à déterminer si la modification modifie ou clarifie cet effet juridique [71] .
+[89] La Cour d’appel fédérale a ensuite fait cette mise en garde : au regard de la RGAÉ, au moment de déterminer l’effet d’une modification, il ne suffit pas de comparer la formulation de l’ancienne disposition avec celle de la disposition modifiée. La Cour a observé :
+88. Le problème que pose [l]e raisonnement [de la cour de première instance], c’est qu’il est fondé sur le libellé des dispositions antérieures plutôt que sur leur objet et leur esprit. Comme la Cour suprême l’affirme dans l’arrêt Copthorne, il ressort de la RGAÉ que le sens et l’effet juridique des dispositions de la Loi peuvent varier selon qu’on les interprète suivant la méthode classique, textuelle, contextuelle et téléologique axée sur le sens des mots employés dans la Loi ou en fonction d’une analyse axée sur la raison d’être des dispositions (Copthorne, par. 70). Bien que l’on ne puisse écarter la possibilité que la raison d’être d’une disposition ressorte entièrement des mots, il faut tout de même le démontrer en examinant la raison d’être de la disposition (Copthorne, par. 110 et 111) [72] .
+(ii) Modifications antérieures à 2016
+[90] Lorsque la définition du « coût de base rajusté » a été ajoutée à la LIR en 1969, seuls trois facteurs devaient être pris en considération dans le calcul du coût de base rajusté des intérêts que possède un titulaire dans une police d’assurance-vie, à savoir le coût de chaque intérêt qu’il avait acquis, les primes relatives à la police payées par lui ou pour son compte et le produit de disposition (éventuel) des intérêts dans la police. Une définition presque identique du « coût de base rajusté » a été incluse dans la version de 1972 de la LIR.
+[91] Lorsque la définition du « compte de dividendes en capital » a été ajoutée à la LIR en 1972, dans le cadre d’une réforme fiscale, la disposition de réduction de la définition prescrivait que, lorsque l’on établissait la partie d’un produit d’assurance-vie reçu par une société et à ajouter au compte de dividendes en capital de la société, le total des sommes payées au titre des primes relatives à la police devait être soustrait. Cet état du droit a continué jusqu’à la modification de la définition en 1977, lorsque la disposition de réduction a été modifiée, de sorte qu’elle ne mentionnait plus la somme totale de primes payées, mais plutôt le coût de base rajusté de la police pour la société.
+[92] La définition de 1977 du « coût de base rajusté » a continué de viser le coût de chaque intérêt acquis dans la police, les primes payées par le titulaire de la police ou pour son compte et le produit de la disposition des intérêts dans la police. Cependant, en raison de la modification de 1977, la définition du « coût de base rajusté » a été élargie pour inclure cinq facteurs supplémentaires énoncés aux sous-alinéas 148(9)a)(iii), (iv), (v), (vii) et (viii) de la LIR. Ainsi, les facteurs à prendre en considération lors de l’application de la disposition de réduction après le 31 mars 1977 étaient plus nombreux que les facteurs à prendre en considération lors de l’application de la disposition de réduction avant le 1er avril 1977.
+[93] À mon avis, les modifications apportées en 1977 aux définitions du « compte de dividendes en capital » et du « coût de base rajusté » modifiaient, au lieu de clarifier, l’état antérieur du droit. La disposition de réduction dans la définition du « compte de dividendes en capital » ne mentionnait plus uniquement les primes versées relatives à la police, mais à partir de 1977, elle mentionnait le coût de base rajusté de la police pour la société. Le fait qu’en 1977, la définition modifiée du « coût de base rajusté » ne mentionnait plus uniquement le coût d’acquisition de chaque intérêt dans la police, les primes payées par le titulaire de police ou pour son compte et le produit de disposition des intérêts dans la police, mais également cinq facteurs supplémentaires, indiquait en outre que la modification apportée en 1977 à la définition du « compte de dividendes en capital » était bien plus qu’une simple clarification de l’état antérieur du droit.
+[94] Il importe également de noter qu’en 1977, bien que le législateur ait déjà utilisé l'expression « coût de base rajusté pour un titulaire de police » (ou une expression équivalente) à maintes reprises à l’article 148 de la LIR, en modifiant la définition du « compte de dividendes en capital » à l’alinéa 89(1)b), il a choisi d’utiliser l'expression « coût de base rajusté de la police [...] pour la société [...] ». Il semble qu’il s’agisse d’un choix délibéré de la part du législateur.
+[95] Les définitions du « compte de dividendes en capital » et du « coût de base rajusté » sont très techniques et complexes, de sorte que l’on s’attendrait à ce que la formulation de ces définitions joue un rôle important dans l’établissement des politiques que consacrent ces définitions. Je suis donc d’avis qu’avant 1977, la politique législative que consacrait la disposition de réduction dans la définition du « compte de dividendes en capital » portait qu’il fallait tenir compte des primes relatives à une police d’assurance-vie qui étaient payées par qui que ce soit lorsque l’on établissait la partie du produit versé à une société bénéficiaire aux termes de la police qui pouvait être ajoutée au compte de dividendes en capital de cette société bénéficiaire. Après la modification de 1977, la politique législative portait qu’il fallait tenir compte des primes versées par la société bénéficiaire, ainsi que d’autres facteurs énumérés dans la définition du « coût de base rajusté » de la police d’assurance-vie pour cette société bénéficiaire (et non pour le titulaire de la police).
+[96] Bien que plusieurs modifications aient été apportées aux définitions du « compte de dividendes en capital » et du « coût de base rajusté » entre 1977 et 2015, à mon avis, pendant cette période, la politique législative que consacrait la disposition de réduction dans la définition du « compte de dividendes en capital » est demeurée la même.
+[97] Pendant cette période, le législateur a tenu compte à plusieurs reprises des préoccupations quant à la méthode de calcul du compte de dividendes en capital d’une société dans le contexte de la réception d’un produit d’assurance-vie. Comme cela a été signalé ci-dessus, certaines de ces préoccupations ont été abordées ou sont survenues dans le cadre de l’ajout, puis de l’abrogation du concept d’un compte de dividendes en capital d’assurance-vie et de l’ajout de règles relatives aux polices RAL et 10/8. Chacune de ces préoccupations a donné lieu à des modifications à la définition du « compte de dividendes en capital », et pourtant, chaque fois, le législateur n’a pas jugé bon de modifier la partie de la disposition de réduction pertinente pour les présents appels et qui, pendant la période allant de 1977 au 21 mars 2016, a continué à mentionner le coût de base rajusté de la police d’assurance-vie donnée pour la société.
+(iii) Modification de 2016
+[98] Le ministère des Finances a publié deux déclarations publiques relatives à la modification apportée en 2016 à l’alinéa d) de la définition du « compte de dividendes en capital » au paragraphe 89(1) de la LIR. Dans les Renseignements supplémentaires du Budget qui accompagnaient le budget fédéral du 22 mars 2016, le ministère des Finances a observé :
+Le produit d’une police d’assurance-vie reçu en raison du décès d’un particulier assuré en vertu d’une police d’assurance-vie (une « prestation prévue par la police ») n’est généralement pas assujetti à l’impôt sur le revenu. Une société privée peut ajouter le montant d’une prestation prévue par la police qu’elle reçoit à son compte de dividendes en capital, qui consiste en certains montants non imposables. Une société privée peut choisir de verser un dividende en capital dans la mesure où le solde du compte de dividendes en capital de la société est positif. Les dividendes en capital sont reçus en franchise d’impôt par les actionnaires. [...]
+Dans le contexte de l’assurance-vie, seule la portion de la prestation prévue par la police reçue par la société [...] qui dépasse le coût de base rajusté d’un titulaire d’une police (le « plafond de l’indemnité d’assurance ») peut être ajoutée au compte de dividendes en capital d’une société [...].
+Certains contribuables ont organisé leurs affaires de manière à ce que le plafond de l’indemnité d’assurance puisse ne pas s’appliquer comme prévu, entraînant l’augmentation artificielle du solde du compte de dividendes en capital d’une société. [...] Cette planification peut permettre à ces contribuables d’éviter l’impôt sur le revenu sur des dividendes payables par une société privée [...]. Ces résultats sont imprévus et érodent l’assiette fiscale.
+Même si le gouvernement conteste un certain nombre de ces structures en vertu des règles fiscales actuelles, le budget de 2016 propose de modifier la Loi de l’impôt sur le revenu afin de s’assurer que les règles du compte de dividendes en capital pour les sociétés privées […] s’appliquent comme prévu. Cette mesure stipulera que le plafond de l’indemnité d’assurance s’applique, peu importe si la société [...] qui reçoit la prestation prévue par la police est un titulaire de cette police. À cette fin, la mesure introduira aussi des exigences de déclaration de renseignements qui s’appliqueront lorsqu’une société [...] n’est pas un titulaire de la police, mais a le droit de recevoir une prestation prévue par la police.
+Cette mesure s’appliquera aux prestations prévues par la police reçues en raison d’un décès qui a lieu à la date du budget ou par la suite [73] .
+[99] En toute déférence, je ne suis pas certain que le deuxième paragraphe de la déclaration susmentionnée soit exact. Même si le ministère des Finances a déclaré que « seule la portion de la prestation prévue par la police reçue par la société [...] qui dépasse le coût de base rajusté d’un titulaire d’une police [...] peut être ajoutée au compte de dividendes en capital », la loi qui était en vigueur avant le 22 mars 2016 indiquait en fait que le plafond était établi en fonction du coût de base rajusté de la police pour la société (plutôt que le titulaire de la police). Il se peut que le ministère des Finances ait espéré ou présumé que le plafond de l’indemnité d’assurance (défini dans le document du budget susmentionné) serait calculé en fonction du coût de base rajusté de la police du titulaire de celle-ci, mais ce n’était pas ce qui était en fait indiqué dans la loi. Il semble donc qu’il se pourrait que certains commentaires formulés dans la déclaration ci-dessus soient intéressés, un procédé visé par les observations de la Cour d’appel fédérale dans l’arrêt Oxford Properties comme suit :
+93. Bien que les publications de ce genre [c.-à-d. les Renseignements supplémentaires du Budget publiés par le ministère des Finances], y compris les Notes explicatives, soient considérées comme des moyens extrinsèques admissibles [...], je ne crois pas qu’il faille accorder à la publication [...] quelque poids que ce soit dans le présent appel. En effet, comme il est indiqué à la page 474 du document en question, il a été publié à une époque où les fonctionnaires du ministère des Finances savaient que les structures comme celle qui est en cause en l’espèce étaient contestées par le ministre. Il en découle donc une préoccupation évidente, à savoir la possibilité que la publication soit intéressée, particulièrement dans le contexte de la RGAÉ, où l’objet et l’esprit de la loi telle qu’elle existait avant la modification sont en litige. Ainsi, il faut faire fi de l’opinion exprimée dans cette publication [74] .
+[100] Dans les Notes explicatives publiées par le ministère des Finances le 21 octobre 2016, il est déclaré :
+En vertu de l’alinéa d) de la définition [du « compte de dividendes en capital »], une société peut ajouter à son compte de dividendes en capital le montant du produit d’une police d’assurance-vie reçu par la société, à titre de bénéficiaire aux termes de la police, par suite du décès d’un particulier dont la vie est assurée par la police.
+L’ajout ne s’applique que dans la mesure de l’excédent de ce produit sur le coût de base rajusté de la police pour la société immédiatement avant le décès. En réalité, le coût de base rajusté de la police pour la société n’est pas inclus dans la somme ajoutée au compte de dividendes en capital.
+Le sous-alinéa d)(iii) de la définition est modifié pour que le plafond décrit ci-dessus, qui s’applique au coût de base rajusté de la police, s’applique aussi dans les cas où la société n’est pas titulaire de police relativement à la police. Plus précisément, lorsque le décès qui donne lieu au produit de la police d’assurance reçu par la société survient après le 21 mars 2016, le plafond du coût de base rajusté correspond au total des sommes dont chacune est le coût de base rajusté pour un titulaire de police de son intérêt dans la police [75] .
+La première phrase du troisième paragraphe cité ci-dessus porte à confusion. Selon cette phrase, vu la définition modifiée du « compte de dividendes en capital », le plafond du coût de base rajusté de la police décrit dans le deuxième paragraphe cité ci-dessus s’appliquera également aux cas où la société n’est pas titulaire de police relativement à la police. Cependant, le plafond du coût de base rajusté de la police [76] (expliqué dans le deuxième paragraphe cité ci-dessus) fait référence au coût de base rajusté de la police pour la société bénéficiaire, et non au coût de base rajusté de la police pour le titulaire de police. À mon avis, le deuxième paragraphe cité ci-dessus explique en fait la loi dans sa version en vigueur avant le 22 mars 2016, car rien dans les deux premiers paragraphes cités ci-dessus n’indique que la société mentionnée dans ces paragraphes est titulaire de la police. La société mentionnée dans ces paragraphes est plutôt la bénéficiaire du produit de la police, c.-à-d. la société bénéficiaire. L’explication de la loi modifiée, en vigueur le 22 mars 2016, figure en fait dans la deuxième phrase du troisième paragraphe cité ci-dessus.
+[101] Les déclarations faites par le ministère des Finances en 2016 semblent ne pas concorder avec celles faites en 1985 et en 2013. En novembre 1985, le ministère des Finances a observé :
+L’alinéa 89(1)b) définit le « compte de dividendes en capital » d’une société. Lorsqu’une société privée fait un choix approprié, les dividendes découlant du compte de dividendes en capital sont versés en franchise d’impôt à ses actionnaires résidant au Canada. Le sous-alinéa (iv) renferme la réception d’une certaine somme du produit net d’assurance-vie (le produit moins le prix de base rajusté [sic] pour la société de la police) où la société était bénéficiaire aux termes de la police au plus tard le 28 juin 1982. À la suite de l’abrogation des dispositions relatives aux dividendes en capital d’assurance-vie, le produit net d’assurance-vie reçu après le 23 mai 1985 sera compris dans le calcul du compte de dividendes en capital d’une société, peu importe la date à laquelle la société est devenue bénéficiaire [77] . [Non souligné dans l’original.]
+En octobre 2013, le ministère des Finances a observé :
+Lorsqu’une société privée fait les choix appropriés, les dividendes découlant du compte de dividendes en capital de la société sont versés en franchise d’impôt aux actionnaires de la société qui résident au Canada.
+L’alinéa d) de la définition du « compte de dividendes en capital » inclut dans le calcul du compte de dividendes en capital d’une société un certain montant du produit net d’assurance-vie (le produit moins le coût de base rajusté pour la société de la police) reçu par la société par suite du décès d’une personne.
+L’alinéa d) de la définition est modifié pour que le compte de dividendes en capital d’une société ne soit pas augmenté d’une somme reçue relativement à une police RAL. Cet alinéa est également modifié afin de réduire d’un certain montant la somme qui est autrement incluse, aux termes de cet alinéa, dans le compte de dividendes en capital d’une société, pour le cas de décès survenus après 2013, aux termes d’une police 10/8. S’il s’agit d’une police 10/8 immédiatement avant le décès en question, le montant correspond aux emprunts visés par la police 10/8, à l’égard de la police, qui sont demeurés en souffrance immédiatement avant le décès en question [78] . [Non souligné dans l’original.]
+Dans les déclarations du ministère des Finances de 1985 et de 2013, la société mentionnée était le bénéficiaire de la police d’assurance-vie, et pas nécessairement le titulaire de cette police. En fait, rien dans l’une ou l’autre déclaration ne mentionnait précisément le titulaire de police. Les déclarations du ministère des Finances de 1985 et de 2013 décrédibilisent l’affirmation de 2016 du ministère des Finances selon laquelle le coût de base rajusté destiné à être utilisé pour l’application de la disposition de réduction avant le 22 mars 2016 était le coût de base rajusté pour le titulaire de police, et non le coût de base rajusté pour la société bénéficiaire.
+[102] Si l’on revient aux Notes explicatives de 2016, il est étrange que le ministère des Finances ait déclaré dans ces Notes explicatives que le « plafond du coût de base rajusté correspond au total des sommes dont chacune est le coût de base rajusté pour un titulaire de police de son intérêt dans la police » [non souligné dans l’original], étant donné que l'expression « pour un titulaire de police » ne figure pas au sous-alinéa d)(iii) de la définition modifiée du « compte de dividendes en capital ».
+[103] Il est évident, en particulier lorsque l’on examine les renvois à une « date d’entrée en vigueur » (c.-à-d. « avant le 22 mars 2016 » et « après le 21 mars 2016 ») aux divisions d)(iii)(A) et (B) de la définition du « compte de dividendes en capital » modifiée en 2016, que la modification de 2016 a modifié la formulation de la version précédente de la disposition de réduction. Cependant, comme l’a indiqué la Cour d’appel fédérale dans l’arrêt Oxford Properties, au lieu d’examiner la formulation des versions antérieures et modifiées d’une disposition législative, dans le cadre d’une analyse relevant de la RGAÉ, il est utile de s’attarder à l’objet et à l’esprit (ou à la raison d’être) des versions antérieures et modifiées des dispositions [79] , ce que je ferai.
+[104] Comme il a été expliqué précédemment, je suis d’avis qu’une modification a été apportée à la politique législative au moment où la disposition de réduction a été modifiée en 1977. De même, je suis d’avis qu’en 1977, l’objet et l’esprit de la disposition de réduction ont été modifiés. Avant le 1er avril 1977, l’objet et l’esprit de la disposition de réduction étaient de limiter la somme ajoutée au compte de dividendes en capital d’une société bénéficiaire en fonction des sommes versées par une personne au titre des primes relatives à la police d’assurance-vie donnée. Après le 31 mars 1977, l’objet et l’esprit de la disposition de réduction étaient de limiter la somme ajoutée au compte de dividendes en capital d’une société bénéficiaire en fonction des primes versées par cette société bénéficiaire, ainsi que d’autres facteurs qui pourraient être pertinents lors du calcul du coût de base rajusté de la police pour cette société bénéficiaire. Je suis aussi d’avis que du 1er avril 1977 au 21 mars 2016, l’objet et l’esprit de la provision de réduction sont demeurés les mêmes.
+[105] En ce qui concerne la modification de 2016, je suis d’avis que l’objet et l’esprit de la disposition de réduction modifiée avaient clairement changé, malgré les observations intéressées et l’ambigüité des Renseignements supplémentaires du Budget et des Notes explicatives publiés par le ministère des Finances en 2016. Après le 21 mars 2016, l’objet et l’esprit de la disposition de réduction modifiée étaient de préciser le coût de base rajusté pour un titulaire de police de son intérêt dans la police donnée afin d’établir la somme qui pouvait être ajoutée au compte de dividendes en capital d’une société bénéficiaire, même lorsqu'elle n’était pas le titulaire de police.
+c) Interprétation de la disposition de réduction
+[106] Je me pencherai maintenant sur l’interprétation de la disposition de réduction dans la définition du « compte de dividendes en capital » telle qu’elle se lisait en 2008 (lorsque le produit des polices d’assurance-vie a été ajouté au compte de dividendes en capital de CGESR) et en 2009 (lorsque les dividendes en capital ont été payés ou réputés l’avoir été).
+[107] Dans l’arrêt Hypothèques Trustco, la Cour suprême du Canada a observé que, dans le cadre d’une analyse relevant de la RGAÉ, il faut d’abord d’interpréter la disposition législative qui génère l’avantage fiscal pour en déterminer l’objet et l’esprit [80] . Dans l’arrêt Copthorne, la Cour suprême a observé que la méthode textuelle, contextuelle et téléologique unifiée doit être utilisée pour déterminer l’objet et l’esprit (qui sont parfois collectivement qualifiés de raison d’être) de la disposition en cause [81] .
+[108] Dans l’arrêt Copthorne, la Cour suprême a expliqué qu’une fois que l’objet et l’esprit d’une disposition législative ont été circonscrits, le juge doit ensuite rechercher si l’opération est conforme à l’objet ainsi défini ou si elle le contrecarre [82] . La Cour a ensuite observé :
+72. L’examen fait conclure à l’évitement fiscal abusif lorsque l’opération (1) produit un résultat que la disposition législative vise à empêcher, (2) va à l’encontre de la raison d’être de la disposition ou (3) contourne l’application de la disposition de manière à contrecarrer son objet ou son esprit. [...] Ces considérations ne jouent pas indépendamment les unes des autres, et elles peuvent se chevaucher. À cette étape, le ministre doit montrer clairement que l’opération a un caractère abusif, et le contribuable a le bénéfice du doute [83] .
+[109] Conformément au cadre ci-dessus, je procèderai d’abord à l'analyse textuelle, contextuelle et téléologique de la disposition de réduction. Je déterminerai ensuite s’il y a eu abus dans l’application de la disposition de réduction (c.-à-d. s’il y a eu un évitement fiscal abusif).
+(i) Le texte de la disposition de réduction
+[110] Dans l’arrêt Copthorne, la Cour suprême a observé :
+88. Lorsque la RGAÉ est en cause, la disposition visée n’interdit pas littéralement l’avantage fiscal que le contribuable tente d’obtenir au moyen de l’opération ou de la série d’opérations, ce qui n’a rien d’étonnant. Si la disposition renfermait l’interdiction, c’est sur elle que serait fondée la nouvelle cotisation, et le ministre n’aurait pas à invoquer la RGAÉ. Le texte de la disposition n’est toutefois pas dépourvu de pertinence, car pour l’application de la RGAÉ, il peut renseigner sur l’objet de la disposition. [...]
+109. [...] Lorsque le ministre invoque la RGAÉ, il admet que le texte de la loi n’englobe pas la série d’opérations en cause, mais il fait valoir que sa position, bien qu’elle ne prenne pas appui sur ce texte, est fondée sur sa raison d’être, son objet ou son esprit.
+110. Je n’écarte pas la possibilité que, dans certains cas, la raison d’être d’une disposition n’ait pas une plus grande portée que son libellé. En pareils cas, la disposition, compte tenu de son contexte et de son objet, peut étayer la prétention que son texte est déterminant parce qu’il correspond à sa raison d’être et l’explique entièrement [84] .
+[111] En décembre 2008 (qui correspondait au mois où M. Rogers est décédé et où le produit d’assurance-vie qui en a résulté a été versé à CGESR), l’alinéa d) de la définition du « compte de dividendes en capital » était rédigé comme suit :
+« compte de dividendes en capital » S’agissant du compte de dividendes en capital d’une société, à un moment donné, l’excédent éventuel du total des [...]
+d) l’excédent éventuel du total des montants suivants :
+(i) les montants dont chacun représente le produit d’une police d’assurance-vie dont la société était bénéficiaire au plus tard le 28 juin 1982 que la société a reçu au cours de la période et après 1971 par suite du décès d’une personne,
+(ii) les montants dont chacun représente le produit d’une police d’assurance-vie, dont la société n’était pas bénéficiaire au plus tard le 28 juin 1982 que la société a reçu au cours de la période et après le 23 mai 1985 par suite du décès d’une personne,
+sur le total des montants dont chacun représente le coût de base rajusté (au sens du paragraphe 148(9)) d’une police visée au sous-alinéa (i) ou (ii) pour la société immédiatement avant le décès de cette personne; [...] [85] . [Non souligné dans l’original.]
+À l’époque, la définition du « coût de base rajusté » au paragraphe 148(9) de la LIR était la suivante :
+« coût de base rajusté » Le coût de base rajusté des intérêts que possède un titulaire dans une police d’assurance-vie, à un moment donné, correspond au montant déterminé selon la formule suivante :
+(A + B + […]) - (H + […] L)
+où :
+A représente le total des montants dont chacun est le coût d’un intérêt qu’il a acquis dans la police avant ce moment, à l’exclusion d’un montant visé aux éléments B ou E;
+B le total des sommes représentant chacune une somme payée par lui ou pour son compte avant ce moment à titre de prime relative à la police, à l’exception des sommes ou montants visés à la division (2)a)(ii)(B), au sous-alinéa (iii) de l’élément C de la formule figurant à l’alinéa a) de la définition de « produit de disposition » ou au sous-alinéa b)(i) de cette définition; […]
+H le total des montants dont chacun correspond au produit de disposition de son intérêt dans la police qu’il a acquis le droit de recevoir avant ce moment; [...]
+L :
+a) dans le cas d’un intérêt dans une police d’assurance-vie (autre qu’un contrat de rente) qui a été acquis pour la dernière fois après le 1er décembre 1982 par le titulaire de la police, le total des sommes dont chacune est le coût net de l’assurance pure défini par règlement et déterminé par l’émetteur de la police conformément au règlement, à l’égard de l’intérêt immédiatement avant la fin de l’année civile se terminant au cours d’une année d’imposition commençant après le 31 mai 1985 et avant ce moment; [...]
+[112] Aux fins des présents appels, l'expression clé de la version de 2008 de la disposition de réduction est « […] le coût de base rajusté (au sens du paragraphe 148(9)) d’une police […] pour la société […] ». Cette expression fait référence au coût de base rajusté d’une police. Cependant, la définition du « coût de base rajusté » au paragraphe 148(9) définit en fait le coût de base rajusté des intérêts que possède un titulaire de police dans une police d’assurance-vie. Il n’est pas clair s’il existe une différence entre un coût de base rajusté d’une police et un coût de base rajusté d’un intérêt dans une police. Aux fins des présents motifs, je supposerai que les deux expressions revêtent essentiellement la même signification.
+[113] Dans la version de 2008 de la définition de la disposition de réduction, il était fait mention du « coût de base rajusté [...] pour la société [...] », tandis que dans la définition du « coût de base rajusté » au paragraphe 148(9) de la LIR, il était fait référence au « ’coût de base rajusté’ pour le titulaire de police [...] ». Est posée la question de savoir si le coût de base rajusté des intérêts que possède un titulaire de police dans une police d’assurance-vie dont le bénéficiaire est une société est, d’une certaine façon et de manière implicite, réputé constituer le coût de base rajusté de la police pour la société ou si le coût de base rajusté d’une police pour une société bénéficiaire de la police doit être établi conformément à la méthode fondée sur des formules qui sert à calculer le coût de base rajusté des intérêts que possède un titulaire de police dans une police d’assurance-vie, sous réserve des modifications qui pourraient s’avérer être nécessaires pour gérer la situation de la société, plutôt que celle du titulaire de police. Autrement dit, la question est la suivante : a) le coût de base rajusté des intérêts que possède un titulaire de police dans une police est-il officieusement réputé être le coût de base rajusté de la police pour une société qui est le bénéficiaire de cette police ou b) le calcul du coût de base rajusté de la police pour la société doit-il être établi en remplaçant le terme « titulaire de police » par « société » chaque fois qu’il apparaît dans la définition du « coût de base rajusté ». Dans le deuxième cas (c.-à-d. la question b) de la phrase précédente), en supposant que seules les variables A, B, H et L de la définition présentée sous la forme d’une formule sont applicables, le coût de base rajusté d’une police pour une société sera établi en tenant compte des facteurs suivants :
+A : le coût de chaque intérêt dans la police acquis par la société;
+B : chaque montant payé par la société ou pour son compte à titre de prime relative à la police;
+H : le produit de disposition des intérêts dans la police de la société que cette dernière a acquis le droit de recevoir;
+L : le coût net de l’assurance pure.
+[114] Aucune de ces méthodes n’est entièrement satisfaisante. La méthode énoncée à la question a) ci-dessus n’est pas satisfaisante, car elle tient peu ou pas compte de l'expression « pour la société » et parce qu’elle fait abstraction de la pratique générale de la LIR qui consiste à ajouter la préposition « pour » et à mentionner la personne au sujet de laquelle le coût de base rajusté ou le prix de base rajusté doit être établi après les expressions « coût de base rajusté » ou « prix de base rajusté ». À mon avis, l'expression entre parenthèses de la définition de la disposition de réduction, c.-à-d. « (au sens du paragraphe 148(9)) », a été employée, car les premiers mots du paragraphe 148(9) de la LIR indiquaient que les définitions dans ce paragraphe s’appliquaient uniquement aux fins de l’article 148 et de l’alinéa 56(1)d.1) de la Loi de l’impôt sur le revenu, LRC 1952, ch. 148. [86] En outre, l'expression entre parenthèses de la définition de la disposition de réduction n’était pas en fait déterminative. Autrement dit, si le législateur avait voulu que le coût de base rajusté des intérêts que possède un titulaire de police dans une police soit considéré comme le coût de base rajusté de la police pour la société, le législateur aurait pu l’avoir indiqué précisément, c.-à-d. que dans la définition du « compte de dividendes en capital », le législateur aurait pu avoir mentionné « le coût de base rajusté [...] pour le titulaire de police », plutôt que « le coût de base rajusté [...] pour la société [...] » ou le législateur aurait pu avoir expressément présumé que le coût de base rajusté pour le titulaire de police est le coût de base rajusté pour la société.
+[115] La méthode énoncée à la question b) ci-dessus n’est pas non plus entièrement satisfaisante, car la société bénéficiaire d’une police d’assurance-vie qui est révocable :
+a) n’a généralement pas acquis des intérêts dans la police moyennant un coût, de sorte que la variable A dans la définition présentée sous la forme d’une formule ne joue habituellement pas;
+b) ne paie pas habituellement les primes relatives à la police, de sorte que la variable B dans la définition présentée sous la forme d’une formule ne joue généralement pas;
+c) ne dispose pas habituellement d’intérêts dans la police ou ne reçoit pas habituellement le produit de disposition d’un intérêt dans la police, de sorte que la variable H dans la définition présentée sous la forme d’une formule ne joue généralement pas.
+[116] Vu ce qui précède, on aurait pu clarifier la nature de l’interaction entre la définition du « coût de base rajusté » au paragraphe 148(9) et le passage « […] le coût de base rajusté (au sens du paragraphe 148(9)) d’une police […] pour la société […] » utilisé dans la disposition de réduction en 2008. Cependant, dans le texte de la disposition de réduction, il était fait précisément référence au « coût de base rajusté [...] pour la société », et non au coût de base rajusté pour le titulaire de police.
+[117] Comme cela a été discuté précédemment dans mon examen de l’évolution historique de la définition législative du « compte de dividendes en capital », je suis d’avis que le législateur a d’abord utilisé le passage « le coût de base rajusté de la police [...] pour la société » de la disposition de réduction dans la définition du « compte de dividendes en capital » de 1977 à 1986, puis le passage « le coût de base rajusté [...] d’une police [...] pour la société » de la disposition de réduction, de 1986 à 2016, de manière intentionnelle et délibérée. Autrement dit, le législateur a dit ce qu’il avait l’intention de dire.
+[118] Même s’il se peut, comme cela a été signalé plus haut, qu’il y ait eu en 2008 un manque de clarté relativement à l’interaction entre la disposition de réduction et la définition du « coût de base rajusté » au paragraphe 148(9), de sorte qu’on a pu poser la question de savoir se demander comment ce coût de base rajusté était précisément établi, il était fait expressément référence, dans le texte de la disposition de réduction, au « [...] coût de base rajusté [...] d’une police [...] pour la société [...] ». Le texte de la disposition de réduction va donc dans le sens de la thèse de RE 2015.
+(ii) Le contexte de la disposition de réduction
+[119] En ce qui concerne l’analyse contextuelle, l’expression « coût de base rajusté » figure dans plusieurs dispositions de la LIR, dont certaines sont discutées plus loin.
+[120] Le paragraphe 12.2(1) de la LIR, qui prévoit l’inclusion annuelle dans le revenu d’un montant donné à l’égard de certaines polices d’assurance-vie non exonérées, était rédigée comme suit en 2008 et 2009 :
+12.2(1) Le contribuable qui, au cours d’une année d’imposition, détient un intérêt [...] dans une police d’assurance-vie le jour anniversaire de la police doit inclure dans le calcul de son revenu pour l’année l’excédent éventuel du fonds accumulé sur cet intérêt à ce jour [...], sur le coût de base rajusté, pour lui, de cet intérêt à ce jour, sauf s’il s’agit :
+a) d’une police exonérée; [...]
+[Non souligné dans l’original.]
+De 1983 à 1989, une version antérieure du paragraphe 12.2(1) était rédigée comme suit :
+[traduction]
+12.2(1) Sont à inclure dans le calcul du revenu, pour une année d’imposition, d’une entité – société, société de personnes, fiducie d’investissement à participation unitaire ou fiducie dont une société ou une société de personnes est bénéficiaire – l’excédent du fonds accumulé à la fin de l’année civile se terminant au cours de l’année d’imposition [...] sur
+a) les intérêts qu’elle détient dans une police d’assurance-vie [...],
+sauf s’il s’agit d’
+c) une police exonérée [...],
+sur le coût de base rajusté de ces intérêts à la fin de cette année civile. [Non souligné dans l’original.]
+Il ressort des versions susmentionnées du paragraphe 12.2(1) que le législateur a indiqué avec soin et précision la personne ou l’entité (plus précisément une société, une société de personnes, une fiducie d’investissement à participation unitaire ou une fiducie avant 1990 et un contribuable après 1989) à l’égard de laquelle le coût de base rajusté d’un intérêt dans une police d’assurance-vie devait être établi.
+[121] Comme cela a été signalé dans l’examen historique ci-dessus, dans la définition maintenant abrogée du « compte de dividendes en capital d’assurance-vie », telle qu’elle était rédigée immédiatement avant son abrogation en mai 1985, on trouvait la formulation suivante :
+[traduction]
+(b.2) « compte de dividendes en capital d’assurance-vie » S’agissant du compte de dividendes en capital d’assurance-vie d’une société, à un moment donné, l’excédent éventuel du total des montants suivants :
+(i) l’excédent éventuel
+(A) du total des montants dont chacun correspond au produit d’une police d’assurance-vie dont la société n’était pas un bénéficiaire au plus tard le 28 juin 1982, que la société a reçu au cours de la période par suite du décès d’une personne dont la vie était assurée en vertu de la police [...]
+sur :
+(B) le total des montants dont chacun correspond au coût de base rajusté (au sens attribué par l’alinéa 148(9)a)) d’une police énoncée à la division (A) pour la société immédiatement avant le décès de cette personne et [...]. [Non souligné dans l’original]
+De 1982 à 1985, le concept sous-jacent relativement à la définition du « compte de dividendes en capital d’assurance-vie » était semblable à celui du sous-alinéa 89(1)b)(iv) de la LIR qui contenait la disposition concernant l’assurance-vie dans la définition du « compte de dividendes en capital ». Les deux dispositions prévoyaient que le produit d’une police d’assurance-vie dont une société était bénéficiaire, moins le coût de base rajusté de la police pour la société, soit inclus dans le compte de dividendes en capital de la société ou dans le compte de dividendes en capital d’assurance-vie, selon le cas. Dans les deux cas (qu’il s’agisse d’un compte de dividendes en capital ou d’un compte de dividendes en capital d’assurance-vie), le législateur a choisi de désigner le coût de base rajusté donné de la police en fonction de la société qui était le bénéficiaire de la police, plutôt qu’en fonction du titulaire de la police. Il semble que cette symétrie était délibérée.
+[122] Comme il a été signalé précédemment, le paragraphe 148(1) de la LIR contient une disposition qui exige qu’un titulaire de police qui dispose d’intérêts dans une police d’assurance-vie inclue un montant dans le calcul du revenu du titulaire de police. Les passages pertinents du paragraphe 148(1), tel qu’il était rédigé en 2008 et 2009, étaient les suivants :
+148(1) Dans le calcul du revenu du titulaire d’une police d’assurance pour une année d’imposition, il faut inclure, à l’égard de la disposition d’un intérêt dans une police d’assurance-vie autre qu[e] [certaines polices exonérées], l’excédent éventuel du produit de disposition de son intérêt dans la police que le titulaire, le bénéficiaire ou le cessionnaire a acquis le droit de recevoir au cours de l’année sur le coût de base rajusté, pour le titulaire de la police, de cet intérêt immédiatement avant la disposition. [Non souligné dans l’original.]
+Ce texte est important, car il opérait une distinction entre le titulaire de police, le bénéficiaire et le cessionnaire, selon le cas, à l’égard de la police donnée qui faisait l’objet de la disposition, puis il précisait que le coût de base rajusté pertinent à utiliser pour calculer le montant à inclure dans le revenu était le coût de base rajusté pour le titulaire de police. Autrement dit, même si, dans un cas donné, le bénéficiaire ou le cessionnaire de la police pouvait avoir reçu le produit de disposition des intérêts du titulaire de police dans la police, il fallait utiliser le coût de base rajusté pour le titulaire de police (et non pour le bénéficiaire ou le cessionnaire) afin de calculer le montant à inclure dans le revenu. Il est évident qu’en 2008 et 2009, le législateur savait comment utiliser une telle formulation pour opérer une distinction entre le titulaire de police et le bénéficiaire, tout en précisant que le coût de base rajusté était celui qui se rapportait au titulaire de police et non celui qui était afférent au bénéficiaire. Le législateur a choisi de ne pas utiliser une formulation opérant une distinction dans la définition du « compte de dividendes en capital », telle qu’elle était libellée en 2008 et 2009.
+[123] À l’alinéa e) de la définition de la « disposition » au paragraphe 148(9) de la LIR, il est fait référence au versement par l'assureur d’une somme donnée relative à un certain type de contrat de rente viagère [87] . Si une telle disposition a lieu, le paragraphe 148(1.1) de la LIR contient une disposition qui exige qu’un montant donné soit inclus dans le calcul du revenu du contribuable qui a effectué cette disposition. En 2009 (de même qu’à l’heure actuelle), le paragraphe 148(1.1) était (et est) rédigé comme suit :
+Dans le calcul du revenu d’un contribuable pour une année d’imposition, il faut inclure, relativement à une disposition d’intérêts dans une police d’assurance-vie visée à l’alinéa e) de la définition de disposition au paragraphe (9), l’excédent éventuel du montant d’un paiement visé à cet alinéa que le contribuable a acquis le droit de recevoir pendant l’année sur le montant qui serait le coût de base rajusté, pour le contribuable, de ses intérêts dans la police immédiatement avant la disposition si, pour l’application de la définition de coût de base rajusté au paragraphe (9), il était le titulaire de la police à l’égard de ces intérêts dans la police. [Non souligné dans l’original.]
+Il est significatif que le paragraphe 148(1.1) conclue par une disposition hypothétique selon laquelle le contribuable, pour l’établissement du coût de base rajusté de la police, est le titulaire de police. Il est évident que le législateur savait comment utiliser une telle formulation hypothétique, mais qu’il a choisi de ne pas le faire dans la définition du « compte de dividendes en capital ». Autrement dit, si le législateur avait voulu que le coût de base rajusté à utiliser dans le calcul de la partie du produit d’assurance-vie à ajouter au compte de dividendes en capital d’une société soit calculé en fonction du coût de base rajusté pour le titulaire de police, plutôt qu’en fonction du coût de base rajusté pour la société, le législateur aurait pu utiliser une formulation hypothétique semblable à celle figurant dans la dernière partie du paragraphe 148(1.1).
+[124] Les paragraphes 148(3) à (8.2) de la LIR énonçaient diverses règles visant des cas particuliers, comme le calcul du coût de base rajusté d’une police d’assurance-vie avec un fonds réservé, la disposition d’une partie d’un intérêt dans une police d’assurance-vie, des dispositions d’intérêts dans des polices d’assurance-vie entre personnes ayant un lien de dépendance et certains transferts d’intérêts dans des polices d’assurance-vie. Plusieurs de ces dispositions indiquent précisément la personne en fonction de laquelle un coût de base rajusté doit être établi. Par exemple, au paragraphe 148(4), il est fait référence au « coût de base rajusté pour le contribuable » et aux paragraphes 148(8), (8.1) et (8.2), « le coût de base rajusté [...] pour le titulaire de la police » est mentionné. Si le législateur avait voulu qu’il en soit ainsi, il aurait pu inclure une disposition similaire, à l’article 148, afin de déterminer, pour l’application de la définition du « compte de dividendes en capital », l’identité de l’entité en fonction de laquelle le coût de base rajusté d’une police d’assurance-vie devait être établi dans un cas où une société était le bénéficiaire, et non le titulaire, de la police.
+[125] Il ressort des dispositions résumées dans le paragraphe précédent, ainsi que des autres textes contextuels mentionnés précédemment, que le législateur a décrit d’une façon délibérée et intentionnelle le coût de base rajusté d’une police d’assurance-vie en fonction d’une personne donnée. Ainsi, il ressort de l’analyse contextuelle ci-dessus qu’en 2008, au moment d’établir la partie du produit d’assurance-vie à ajouter au compte de dividendes en capital d’une société, nous devions utiliser le coût de base rajusté de la police d’assurance-vie donnée pour la société qui recevait le produit de la police.
+(iii) L’objet de la disposition de réduction
+[126] Au cours des interrogatoires préalables écrits, la Couronne a déclaré ce qui suit concernant l’objet de l’exclusion du coût de base rajusté d’une police d’assurance-vie du montant du produit d’assurance-vie qui peut être ajouté au compte de dividendes en capital d’une société :
+[traduction]
+23. [...] L’intimée reconnaît-elle qu’en établissant la détermination, le ministre a conclu que : [...]
+c) l’objet de l’exclusion du coût de base rajusté [sic] du compte de dividendes en capital est de limiter le montant des bénéfices non répartis qu’une société peut distribuer en franchise d’impôt à un actionnaire par l’achat d’un contrat d’assurance-vie?
+Oui [...]
+24. Qu’a conclu précisément le ministre au sujet du « régime de la Loi de l’impôt sur le revenu » mentionné [...] ci-dessus?
+Le ministre a conclu que le régime de la Loi de l’impôt sur le revenu (LIR) vise à limiter la croissance en franchise d’impôt d’une composante de placement d’une police d’assurance-vie et à limiter la distribution en franchise d’impôt d’un montant représentant le fonds d’une société servant à acheter une composante d’épargne d’une police d’assurance-vie. Autrement dit, l’objet du régime de la LIR relativement à l’alinéa 89(1)d) de la LIR est que le montant du produit d’une police d’assurance-vie à inclure dans le compte de dividendes en capital (CDC) soit réduit par le CBR, au sens du paragraphe 148(9) de la LIR, de la police [...]
+36. [...] L’intimée soutient qu’on peut raisonnablement estimer que les opérations d’évitement ont découlé directement ou indirectement d’un abus dans l’application des paragraphes 83(2), 89(1) et 148(9) de la Loi (les dispositions visées).
+a) Qu’a conclu le ministre au sujet de la politique fiscale de chacune, [sic] des dispositions visées?
+Concernant ces textes lus de concert, le ministre a conclu que l’objet de l’exclusion du CBR des polices d’assurance-vie est de limiter la somme des bénéfices non répartis qu’une société peut distribuer en franchise d’impôt à un actionnaire par l’achat d’un contrat d’assurance-vie et l’utilisation d’un CDC [88] .
+[127] Dans ses observations écrites présentées lors de l’audience, la Couronne a affirmé ce qui suit :
+[traduction]
+La réduction du crédit porté au CDC relativement au CBR de la police vise à tenir compte du fait que si des sommes avaient été personnellement distribuées par la société à l’actionnaire pour payer personnellement la police d’assurance-vie, de telles sommes auraient été imposables pour l’actionnaire [89] .
+La déclaration d’intention ou l’énoncé d’objet ci-dessus diffère des réponses données par le ministre concernant l’interrogatoire préalable. La divergence entre les réponses découlant de l’interrogatoire préalable de la Couronne et ses observations écrites affaiblit l’argument de la Couronne en ce qui concerne l’objet de la disposition de réduction.
+[128] Un argument fondé sur un lien entre les sommes distribuées par une société et les primes payées relatives à une police d’assurance-vie aurait eu plus de poids entre le 1er janvier 1972 et le 31 mars 1977, lorsque la disposition de réduction mentionnait [traduction] « le total des sommes payées au titre des primes versées relatives à la police ». Après le 31 mars 1977, lorsque la disposition de réduction a été modifiée pour mentionner le coût de base rajusté d’une police d’assurance-vie pour la société (au lieu de mentionner les primes versées), l’argument tombe dans une certaine mesure, lorsqu’on tient compte du fait qu’après cette modification, les montants à prendre en considération dans le calcul du coût de base rajusté d’une police d’assurance-vie comprenaient non seulement les primes versées relatives à la police, mais également les montants reflétant le coût (éventuel) d’acquisition d’un intérêt dans la police, certains montants au titre de la disposition d’un intérêt dans la police qui devaient être inclus dans le calcul du revenu du titulaire de la police, certains montants au titre du remboursement d’une avance sur police et, dans certains cas, certains gains de mortalité.
+[129] En tentant de déterminer l’objet de la disposition de réduction, en particulier en fonction du coût de base rajusté d’une police d’assurance-vie pour la société (c.-à-d. la société bénéficiaire), une autre difficulté d’interprétation résulte de ce que le coût de base rajusté d’une police peut, dans certains cas, être réduit à zéro, comme cela est expliqué ci-dessous :
+[traduction]
+Le CNAP (c.-à-d. le coût net de l’assurance pure) d’une police réduit le CBR des polices acquis pour la dernière fois après le 1er décembre 1982. Cela a pour effet, au fil du temps, de réduire à zéro le CBR d’une police et, de ce fait, d’augmenter la partie imposable des fonds reçus lors de la disposition relative à une police [...]. En général, le CNAP établi relativement à une police d’assurance augmentera chaque année, proportionnellement à l’âge de l’assuré. Pour les polices d’assurance à rémunération nivelée, cela crée une tendance où le CBR de la police augmente au cours des premières années (du fait du versement de primes ou de dépôts et de déductions plus faibles relativement au CNAP), mais plus tard, le CBR est réduit à zéro (en raison d’un CNAP supérieur au montant des primes ou des dépôts versés dans la police) [90] . [Renvois omis.]
+Par conséquent, lorsque l’assuré est jeune, le coût de base rajusté de la police qui assure la vie de cette personne est généralement élevé, mais au fil des ans, le coût de base rajusté peut diminuer et éventuellement être nul.
+[130] La Couronne n’a pas établi que, lorsque le bénéficiaire d’une police d’assurance-vie est une société autre que le titulaire de la police, l’objet de la disposition de réduction est d’utiliser le coût de base rajusté de la police pour le titulaire de police, plutôt que le coût de base rajusté de la police pour la société bénéficiaire, lors de l’établissement du montant du produit d’assurance-vie à ajouter au compte de dividendes en capital de la société bénéficiaire.
+[131] En résumé, je ne puis conclure que la Couronne a expliqué de façon satisfaisante l’objet de la disposition de réduction telle qu’elle se lisait en 2008 et 2009. J’admets que du 1er janvier 1972 au 31 mars 1977, l’objet de la disposition de réduction était d’exclure de la partie du produit de la police, qu’une société bénéficiaire avait le droit d’ajouter à son compte de dividendes en capital, un montant équivalant au total des primes versées relatives à une police d’assurance-vie. Cependant, je ne puis conclure que l’objet était toujours le même après le 31 mars 1977, lorsque l'expression clé de la disposition de réduction a été modifiée comme suit : « […] le coût de base rajusté de la police [...] pour la société [...] ». La Couronne n’ayant pas déterminé de façon satisfaisante l’objet de la version de 2008-2009 de la disposition de réduction, en particulier sa mention clé (telle qu’elle se lisait, c.-à-d. « […] le coût de base rajusté [...] d’une police visée aux sous-alinéas (i) ou (ii) pour la société […] ») [91] , je suis d’avis qu’il s’agit de ces cas, peut-être rares, où la raison d’être de la disposition de réduction en 2008 et 2009 n’avait pas une plus grande portée que le texte lui-même [92] .
+[132] Suivant l’approche retenue par la Cour suprême à l'occasion de l'affaire Copthorne [93] , je me demande pourquoi la disposition de réduction s’intéressait, en 2008 et 2009, à limiter le montant du produit d’assurance-vie ajouté au compte de dividendes en capital de la société bénéficiaire à l’excédent du produit sur le coût de base rajusté de la police pour le titulaire de police (comme le soutient la Couronne), même si la disposition de réduction mentionnait précisément le coût de base rajusté pour la société bénéficiaire. À mon avis, la Couronne n’a pas produit une réponse satisfaisante à cette question. La Couronne ne m’a pas convaincu qu’en 2008 et 2009, l’objet de la disposition de réduction n’était rien de plus que la réduction du produit d’assurance-vie ajouté au compte de dividendes en capital d’une société par le montant du coût de base rajusté de la police d’assurance-vie pour cette société.
+3) Abus dans l’application de la disposition de réduction ou abus de la LIR
+[133] Comme l’a expliqué la Cour suprême du Canada dans l’arrêt Hypothèques Trustco, les décisions relatives aux mots « misuse » et « abuse » utilisés dans la version anglaise ne commandent pas des examens différents. Le paragraphe 245(4) exige plutôt que l’on applique une seule méthode unifiée d’interprétation textuelle, contextuelle et téléologique des dispositions particulières de la LIR invoquées par le contribuable [94] .
+[134] Dans l’arrêt Hypothèques Trustco, la Cour suprême a également observé :
+Une fois qu’il a démontré qu’il respecte le libellé d’une disposition, le contribuable ne devrait pas avoir à prouver qu’il n’a pas, de ce fait, contrevenu à l’objet ou à l’esprit de la disposition [95] .
+La Cour suprême a ensuite observé qu’il appartient au ministre d’établir qu’il y a eu évitement fiscal abusif en ce sens qu’il n’est pas raisonnable de conclure qu’un avantage fiscal serait conforme à l’objet ou à l’esprit de la disposition invoquée par le contribuable [96] . En outre, s’il n’est pas certain qu’il y a eu évitement fiscal abusif, il faut laisser le bénéfice du doute au contribuable [97] .
+[135] Comme il a été expliqué précédemment, en 2008 et en 2009, il ressortait clairement du texte et du contexte de la disposition de réduction que le coût de base rajusté d’une police d’assurance-vie pour une société bénéficiaire de la police, et non le coût de base rajusté de la police pour le titulaire de la police, était utilisé pour établir la partie du produit d’assurance-vie à ajouter au compte de dividendes en capital de la société bénéficiaire. On ne m’a pas convaincu qu’en 2008 et 2009, l’objet de la disposition de réduction était incompatible avec le texte et le contexte de cette disposition. Je suis donc d’avis (surtout si l’on tient compte du fait qu’il faut laisser le bénéfice du doute au contribuable) que les appelantes CGESR et ESRIL 98 n’ont pas contrevenu à l’objet ou à l’esprit de la disposition de réduction. Par conséquent, il n’y a eu ni abus dans l’application de la disposition de réduction ni évitement fiscal abusif.
+VI. CONCLUSION
+[136] Les appels sont accueillis, avec dépens, et les déterminations sont annulées [98] .
+[137] Les parties disposent d’un délai de 30 jours suivant la date du jugement concernant les présents appels pour parvenir à un accord sur les dépens et en informer la Cour, faute de quoi les appelantes disposeront alors d’un délai de 30 jours pour déposer des observations écrites sur les dépens, après quoi l’intimée disposera d’un délai de 30 jours pour déposer sa réponse par écrit. Les observations des parties ne devront pas dépasser cinq pages. Si les parties n’informent pas la Cour qu’elles sont parvenues à un accord et que des observations ne sont pas déposées dans les délais impartis, les dépens seront adjugés aux appelantes, conformément au tarif.
+[138] Les présents motifs se limitent aux opérations visées, notamment les dividendes en capital (réels ou réputés) versés par CGESR à ESRIL 98 en 2009 et les dividendes en capital versés par ESRIL 98 à ESRL en 2009. Dans les présents motifs, la Cour n’a pas examiné la question de savoir si la RGAÉ jouera si ESRIL 98 verse des dividendes en capital supplémentaires à ESRL ou si cette dernière verse des dividendes en capital à ses actionnaires. Si, à un moment donné dans l’avenir, ESRIL 98 verse des dividendes en capital supplémentaires à ESRL ou si cette dernière verse des dividendes en capital à ses actionnaires (ou si ces actionnaires versent à leur tour des dividendes en capital à leurs actionnaires et ainsi de suite) et si le ministre établit une cotisation à l’égard d’ESRIL 98, d’ESRL ou de leurs actionnaires directs ou indirects, afin d’appliquer la RGAÉ, les présents motifs ne doivent pas être interprétés comme des motifs permettant de quelque manière que ce soit de statuer sur le résultat final d’une cotisation, de présenter une objection à l’égard de cette cotisation ou d’interjeter appel de cette cotisation [99] .
+Signé à Vancouver (Colombie-Britannique), ce 27e jour d’août 2020.
+« Don R. Sommerfeldt »
+Le juge Sommerfeldt
+Traduction certifiée conforme
+ce 2e jour de février 2021.
+François Brunet, réviseur
+ANNEXE A
+2017-1140(IT)G
+2017-3617(IT)G
+COUR CANADIENNE DE L’IMPÔT
+ENTRE :
+ROGERS ENTERPRISES (2015) INC.
+(Successeur, à la suite d’une fusion, de CGESR Limited et d’ESRIL (1998) Limited)
+appelante,
+et
+SA MAJESTÉ LA REINE
+intimée.
+[TRADUCTION]
+EXPOSÉ CONJOINT DES FAITS
+Les parties à la présente instance admettent, uniquement pour la présente instance, la véracité des faits suivants ainsi que la pertinence et l’authenticité des documents cités dans le présent exposé conjoint des faits (l’exposé conjoint). Chacune des parties se réserve le droit de présenter de nouveaux éléments de preuve qui sont pertinents et probants concernant les questions présentées à la Cour et qui ne sont pas incohérents ou contradictoires avec les faits admis. Les faits dans cet exposé conjoint sont structurés selon les titres suivants :
+A. Parties 2
+B. Groupe RPC 2
+C. Fiducies 3
+D. Polices 3
+E. Coût de base rajusté des polices 5
+F. Produit d’assurance-vie 6
+G. Déterminations 8
+A. Parties
+1. Rogers Enterprises (2015) Inc. (l’appelante) est le successeur, à la suite d’une fusion, de CGESR Limited (CGESR) et d’ESRIL (1998) Limited (ESRIL 98) qui toutes deux subsistaient aux termes de la Loi sur les sociétés par actions(Ontario).
+Les actionnaires de l’appelante sont E.S.R. Limited (ESRL) et d’autres membres du groupe RPC (défini au paragraphe 4
+).
+Pour l’application de la Loi de l’impôt sur le revenu (Canada) (la Loi), pendant toute la période pertinente :
+a) CGESR était une société canadienne imposable, une société privée et une société privée sous contrôle canadien;
+b) ESRIL 98 était une société canadienne imposable, une société privée et une société privée sous contrôle canadien.
+B. Groupe RPC
+4. Plusieurs sociétés et fiducies (le groupe RPC) détiennent collectivement la participation de la famille Rogers dans Rogers Communications Inc. (RCI), une société publique canadienne.
+Le groupe RPC possède également des placements de portefeuille et des participations dans des biens immobiliers.
+Les sociétés de portefeuille de placement suivantes, entre autres, faisaient partie du groupe RPC :
+a) ESRL;
+b) CGESR;
+c) ESRIL 98;
+d) CGESR (2009) Limited (CGESR 2009).
+ESRL a été constituée en société en 1985.
+CGESR a été constituée en société en 1993. Son unique actionnaire était Rogers Telecommunications Limited (RTL), un membre du groupe RPC, jusqu’en août 2006 (comme cela est exposé au paragraphe 23 ci-dessous).
+ESRIL 98 a été constituée en société en 1998. Elle détenait des actions privilégiées de catégorie A de série 5 et de série 6 de CGESR. ESRL détenait des actions de catégories A et D d’ESRIL 98. Avant la fusion exposée au paragraphe 1
+ci-dessus, les actions restantes d’ESRIL 98 étaient détenues par des membres du groupe RPC.
+CGESR 2009 a été constituée en société le 22 mai 2009. Son unique actionnaire était la fiducie de 1995 (précisée au paragraphe 13 ci-dessous). Après sa constitution en société, CGESR 2009 a fait l’acquisition, auprès de la fiducie de 1995, de 1 000 actions ordinaires de CGESR, ce qui représentait 100 % des actions ordinaires émises de CGESR et 23 % des actions avec droit de vote. Les actions restantes étaient détenues par des membres du groupe RPC, notamment ESRIL 98.
+C. Fiducies
+La fiducie Rogers Ownership du 5 septembre 1984 (la fiducie de 1984) est une fiducie familiale.
+La fiducie de 1984 a été créée pour la détention de biens au profit d’Edward Samuel (Ted) Rogers (Ted Rogers), de Loretta Rogers (son épouse) et de leurs descendants.
+13. La fiducie Rogers Ownership du 24 août 1995 (la fiducie de 1995) est une autre fiducie familiale qui a été constituée en 1995 pour la détention de biens au profit de Loretta Rogers et des descendants de Ted Rogers.
+14. Ted Rogers n’était pas bénéficiaire de la fiducie de 1995.
+D. Polices
+Ted Rogers était président et directeur général de RCI.
+16. De 1981 à 1991, douze polices d’assurance-vie assurant la vie de Ted Rogers ont été émises (appelées collectivement les polices et chacune appelée une police) aux membres du groupe RPC et de la fiducie de 1984. Deux de ces polices étaient détenues par la fiducie de 1984 (les polices de la fiducie de 1984). Les détails des dix autres polices figurent dans le tableau ci-dessous.
+[en blanc]
+No de police
+CBR (décembre 2008)
+Produit d’assurance-vie et intérêts reçus en 2008
+1
+2981707
+3 869 160 $
+10 543 332 $
+2
+2539040
+5 417 514 $
+11 009 994 $
+3
+2539680
+2 907 181 $
+6 422 480 $
+4
+2560444
+3 732 103 $
+11 282 885 $
+5
+2887947
+2 732 103 $
+11 282 885 $
+6
+2887968
+5 411 284 $
+11 009 994 $
+7
+2891148
+2 964 712 $
+5 804 653 $
+8
+2891681
+5 181 191 $
+10 093 522 $
+9
+2891690
+5 154 232 $
+10 093 522 $
+10
+2891700
+3 869 125 $
+10 291 455 $
+Pendant toute la période pertinente :
+a) chaque police était une « police exonérée » au sens de l’article 306 du Règlement de l’impôt sur le revenu;
+b) les titulaires de police (c’est-à-dire les propriétaires des polices) payaient les primes d’assurance-vie et les primes payées étaient passées en charges à des fins comptables (mais pas aux fins d’impôt) et, par conséquent, elles réduisaient les bénéfices non répartis;
+c) chaque police stipulait que le titulaire de police pouvait désigner un bénéficiaire qui recevrait le produit d’assurance-vie payable aux termes de la police.
+Au moment de l’acquisition des polices et pendant un certain temps avant le 25 février 2005, les titulaires de police étaient aussi les bénéficiaires des polices.
+À un moment donné avant le 25 février 2005, les titulaires de police ont désigné RTL, une actionnaire directe de CGESR du 30 septembre 2000 au 30 septembre 2005, comme bénéficiaire des polices.
+En 2005, avant le 21e anniversaire de la fiducie de 1984, une réorganisation relativement importante des sociétés a été menée par le groupe RPC (la réorganisation de 2005).
+En août 2005, ESRL est devenue le titulaire de police des dix polices (les polices d’ESRL) qui n’appartenaient pas à la fiducie de 1984.
+Après la réorganisation de 2005, parmi d’autres changements, le bénéficiaire des polices était CGESR.
+23. Après une restructuration subséquente en août 2006, CGESR est devenue l’actionnaire directe de RTL.
+E. Coût de base rajusté des polices
+24. Le « coût de base rajusté » (CBR) défini au paragraphe 148(9), d’une police d’assurance-vie pour un titulaire de police à un moment donné s’entend généralement du total des sommes versées par le titulaire de police dans la police avant ce moment donné, moins le total du coût net de l’assurance pure (CNAP) (défini par règlement) avant ce moment donné. De façon générale, il représente le « placement » restant dans la police d’assurance-vie effectué par le titulaire de police.
+25. Le CNAP s’entend généralement du montant lié au coût ou à la valeur de l’indemnité d’assurance prévue par la police. Le CNAP est calculé selon une formule prescrite où la probabilité de décès de l’assuré au cours de l’année (à l’aide d’une table de mortalité prescrite) est multipliée par le montant net à risque des intérêts du contribuable à la fin de l’année. En général, le CNAP établi relativement à une police d’assurance augmente chaque année, proportionnellement à l’âge de l’assuré, et peut être supérieur au montant des primes payées.
+26. Le 2 décembre 2008, Ted Rogers est décédé.
+27. Immédiatement avant la date du décès de Ted Rogers :
+a) ESRL détenait les polices d’ESRL;
+b) la fiducie de 1984 détenait ses propres polices;
+c) CGESR était le bénéficiaire des polices;
+d) le CBR total des polices de la fiducie de 1984 pour cette dernière s’élevait à 1 755 055 $;
+e) le CBR total des polices d’ESRL pour cette dernière s’élevait à 42 239 105 $, comme il est indiqué dans le tableau au paragraphe 16
+ci-dessus.
+F. Produit d’assurance-vie
+28. Au moment du décès de Ted Rogers, le total du produit d’assurance-vie payable à CGESR, à titre de bénéficiaire, aux termes des polices, était de 102 309 794 $. Sur cette somme, 4 555 420 $ ont été payés au titre des polices de la fiducie de 1984 et 97 754 374 $ ont été payés au titre des polices d’ESRL.
+29. Le 17 décembre 2008, l’assureur des polices a versé à CGESR 102 309 794 $ de produit d’assurance-vie et CGESR a reçu ce produit (le produit d’assurance-vie) lequel n’était pas imposable aux termes de la Loi. CGESR a augmenté ses bénéfices non répartis à des fins comptables (mais pas aux fins d’impôt) par le montant de ce produit.
+30. L’assureur a également versé à CGESR 84 090 $ d’intérêts (le montant des intérêts). Sur cette somme, 3 744 $ ont été payés au titre des polices de la fiducie de 1984 et 80 346 $ ont été payés au titre des polices d’ESRL.
+31. Sur le total du produit d’assurance-vie et le montant des intérêts, 4 559 164 $ ont été payés au titre des polices de la fiducie de 1984 et 97 834 720 $ ont été payés au titre des polices d’ESRL, soit le versement à CGESR d’une somme totale (arrondie) de 102 393 885 $.
+32. Le produit d’assurance-vie reçu par CGESR a été ajouté à son CDC défini au paragraphe 89(1). Par erreur, CGESR a également ajouté le montant des intérêts à son CDC. En conséquence, CGESR a soutenu que le total du solde de son CDC à ce moment-là a augmenté de 102 393 885 $. Les soldes du CDC de CGESR, durant des périodes pertinentes, sont indiqués à l’annexe A du présent exposé conjoint.
+33. À partir de ce moment-là et jusqu’au 27 octobre 2009, CGESR a payé au total 102 448 581 $ en dividendes (réels et réputés) à CGESR 2009 et ESRIL 98. Plus précisément,
+a) le 15 juillet 2009, CGESR a payé 10 702 742 $ en dividendes composés des sommes suivantes :
+(i) 702 742 $ en dividendes versés à ESRIL 98;
+(ii) 10 000 000 $ en dividendes versés à CGESR 2009;
+b) CGESR a fait un choix aux termes du paragraphe 83(2) relativement au montant total des dividendes qu’elle avait payés le 15 juillet 2009;
+c) le 15 juillet 2009, CGESR 2009 a versé à la fiducie de 1995 9 999 950,50 $ en dividendes;
+d) CGESR 2009 a fait un choix, aux termes du paragraphe 83(2), relativement au montant total des dividendes qu’elle avait payés le 15 juillet 2009;
+e) le 27 octobre 2009, CGESR a racheté certaines de ses actions privilégiées de catégorie A qui appartenaient à ESRIL 98, et CGESR a fait un choix, aux termes du paragraphe 83(2), relativement au montant total de 91 745 839 $ en dividendes qui ont été réputés résulter de ces rachats (collectivement, avec les dividendes décrits au paragraphe 33
+(a)
+(i)
+, les dividendes d’ESRIL 98);
+f) en raison de l’erreur relative au montant des intérêts décrite au paragraphe 32
+, CGESR a fait l’objet d’une cotisation d’impôt, aux termes de la partie III, concernant les 84 090 $ en dividendes en capital résultant des rachats décrits au paragraphe 33
+(e)
+. L’impôt établi aux termes de la partie III a été payé.
+34. Pour le motif qu’il a été choisi, aux termes du paragraphe 83(2), d'assimiler les dividendes d’ESRIL 98 à des dividendes en capital, aux fins d’application de la Loi, les dividendes d’ESRIL 98 ont été ajoutés au CDC d’ESRIL 98 à ce moment-là, en application de l’alinéa b) de la définition du « compte de dividendes en capital » au paragraphe 89(1). Les soldes du CDC d’ESRIL 98, durant des périodes pertinentes, sont indiqués à l’annexe B du présent exposé conjoint.
+G. Déterminations
+35. Le ministre du Revenu national (le ministre) a établi que par suite de l’application du paragraphe 245(2), les attributs fiscaux raisonnables devaient réduire les soldes du CDC de CGESR et d’ESRIL 98. Le ministre a tenu compte de l’impôt prévu par la partie III, relativement aux dividendes en capital qui sont visés au paragraphe 33
+(e)
+(à l’exception de ceux visés au paragraphe 33
+(f)
+), mais il n’a pas déterminé l’impôt à payer.
+36. Aux termes de l’article 245 et du paragraphe 152(1.11), le ministre a délivré une détermination dont l’avis datait du 21 août 2015 (collectivement, les déterminations) à l’intention des sociétés suivantes :
+a) CGESR pour l’année d’imposition se terminant le 30 septembre 2010;
+b) ESRIL 98 pour l’année d’imposition se terminant le 31 décembre 2009.
+37. Les opérations suivantes étaient la « série d’opérations » (la série) :
+a) l’acquisition des polices;
+b) la désignation par ESRL, comme titulaire de police des polices d’ESRL, de RTL, puis de CGESR, qui sont devenues les bénéficiaires de ces polices;
+c) la réception par CGESR du produit d’assurance-vie et de la somme des intérêts;
+d) le versement par CGESR des dividendes d’ESRIL 98;
+e) le choix, par CGESR, de qualifier les dividendes d’ESRIL 98 de dividendes en capital.
+38. En délivrant les déterminations, le ministre a conclu que la série comprenait une ou plusieurs « opérations d’évitement » (au sens du paragraphe 245(3)), à savoir :
+a) la désignation par ESRL, comme titulaire de police des polices d’ESRL, de CGESR qui est devenue la société bénéficiaire de ces polices;
+b) la réception par CGESR du produit d’assurance-vie;
+c) le versement par CGESR des dividendes d’ESRIL 98;
+d) le choix, par CGESR, de qualifier les dividendes d’ESRIL 98 de dividendes en capital.
+39. Le ministre a appliqué l’article 245 pour déterminer les attributs fiscaux pour CGESR et ESRIL 98 en apportant les rajustements suivants. Plus précisément,
+a) concernant CGESR, le ministre a établi ce qui suit :
+(i) les 42 239 100 $ en dividendes d’ESRIL 98 étaient des dividendes imposables que CGESR a versés à ESRIL 98;
+(ii) le CDC de CGESR, au 28 octobre 2009, affichait un montant égal à zéro;
+b) en conséquence, le ministre a établi ce qui suit à l’égard d’ESRIL 98 :
+(i) les 42 239 100 $ en dividendes d’ESRIL 98 versés par CGESR à ESRIL 98 étaient déductibles aux termes de l’article 112;
+(ii) le solde du CDC d’ESRIL 98, au 31 décembre 2009, a été réduit de 42 239 100 $.
+FAIT dans la ville de Toronto, dans la province de l’Ontario, ce 13e jour de février 2019.
+Osler, Hoskin & Harcourt S.E.N.C.R.L./s.r.l.
+______________________________
+Par : Me Pooja Mihailovich
+Me Hemant Tilak
+Osler, Hoskin & Harcourt S.E.N.C.R.L./s.r.l.
+Case postale 50
+1 First Canadian Place
+Toronto (Ontario) M5X 1B8
+Téléphone : 416-862-6624
+Télécopieur : 416-862-6666
+Avocats de l’appelante
+FAIT dans la ville d’Ottawa, dans la province de l’Ontario, ce 13e jour de février 2019.
+Sous-procureure générale du Canada
+______________________________ [100]
+Par : Me Justine Malone Me Marie-Eve Aubry
+Ministère de la Justice du Canada
+Services du droit fiscal
+99, rue Bank, 11e étage
+Ottawa (Ontario) K1A 0H8
+Téléphone : 613-670-6410
+Télécopieur : 613-941-2293
+Avocates de l’intimée
+Annexe A
+Soldes du CDC de CGESR
+Soldes du CDC de CGESR
+Selon l’appelante
+Selon le ministre
+Écart entre les soldes du CDC
+(conformément à l’article 245)
+[en blanc]
+Solde d’ouverture du CDC le 2 décembre 2008
+54 701 $
+54 701 $
+[en blanc]
+[en blanc]
+Produit d’assurance-vie (1)
+102 393 885 $
+60 154 780 $
+[en blanc]
+(3)
+Solde de clôture du CDC le 31 décembre 2008
+102 448 586 $
+60 209 481 $
+(42 239 105 $)
+[en blanc]
+Moins les :
+[en blanc]
+[en blanc]
+[en blanc]
+[en blanc]
+Dividendes en capital versés
+[en blanc]
+[en blanc]
+[en blanc]
+[en blanc]
+Le 15 juillet 2009
+248 368 $
+248 368 $
+[en blanc]
+[en blanc]
+Le 15 juillet 2009
+454 374 $
+454 374 $
+[en blanc]
+[en blanc]
+Le 15 juillet 2009
+10 000 000 $
+10 000 000 $
+[en blanc]
+[en blanc]
+Total au 15 juillet 2009
+10 702 742 $
+10 702 742 $
+[en blanc]
+[en blanc]
+[en blanc]
+[en blanc]
+[en blanc]
+[en blanc]
+[en blanc]
+Le 27 octobre 2009, à 10 h
+87 572 454 $
+87 572 454 $
+[en blanc]
+[en blanc]
+Le 27 octobre 2009, à 10 h 5
+4 173 385 $
+4 173 385 $
+[en blanc]
+[en blanc]
+Total au 27 octobre 2009 (2)
+91 745 839 $
+49 506 739 $
+42 239 100 $
+[en blanc]
+[en blanc]
+[en blanc]
+[en blanc]
+[en blanc]
+[en blanc]
+Dividendes en capital autorisés
+[en blanc]
+[en blanc]
+[en blanc]
+[en blanc]
+[en blanc]
+[en blanc]
+45 333 354 $
+[en blanc]
+(4)
+[en blanc]
+[en blanc]
+4 173 385 $
+[en blanc]
+[en blanc]
+[en blanc]
+[en blanc]
+49 506 739 $
+[en blanc]
+[en blanc]
+[en blanc]
+[en blanc]
+[en blanc]
+[en blanc]
+[en blanc]
+Dividendes imposables payés
+[en blanc]
+42 239 100 $
+[en blanc]
+[en blanc]
+[en blanc]
+[en blanc]
+[en blanc]
+[en blanc]
+[en blanc]
+[en blanc]
+[en blanc]
+[en blanc]
+[en blanc]
+[en blanc]
+Solde du CDC de CGESR le 31 décembre 2009
+5 $
+0 $
+(5 $)
+[en blanc]
+(1) Comprend le produit d’assurance-vie de 102 309 795 $ et le montant des intérêts de 84 090 $.
+(2) CGESR a fait l’objet d’une cotisation d’impôt, aux termes de la partie III, concernant les 84 090 $ de ces dividendes en capital.
+(3) Rajustement (selon le ministre)
+[en blanc]
+Produit d’assurance-vie
+102 393 885 $
+Moins le coût de base rajusté des polices d’ESRL
+42 239 105 $
+Ajout au CDC de CGESR
+60 154 780 $
+(4) Rajustement (selon le ministre)
+[en blanc]
+[en blanc]
+Solde de clôture du CDC le 31 décembre 2008
+60 209 481 $
+[en blanc]
+Dividendes en capital payés en juillet 2009
+10 702 742 $
+[en blanc]
+Solde de clôture du CDC le 26 octobre 2009
+49 506 739 $
+(A)
+Dividendes en capital payés le 27 octobre 2009
+4 173 385 $
+(B)
+Dividendes en capital autorisés
+45 333 354 $
+[en blanc]
+(A) Le choix par CGESR de considérer ses 87 572 454 $ en dividendes au 27 octobre 2009 comme des dividendes en capital a été refusé.
+(B) Le choix par CGESR de considérer ses 4 173 385 $ en dividendes comme des dividendes en capital a été accepté.
+Annexe B
+Soldes du CDC d’ESRIL 98
+Soldes du CDC
+Selon l’appelante
+Selon le ministre
+Écart entre les soldes du CDC (conformément à l’article 245)
+Solde d’ouverture du CDC le 2 décembre 2008
+279 $
+279 $
+[en blanc]
+[en blanc]
+[en blanc]
+[en blanc]
+[en blanc]
+Dividendes en capital reçus
+[en blanc]
+[en blanc]
+[en blanc]
+Le 15 juillet 2009
+248 368 $
+248 368 $
+[en blanc]
+Le 15 juillet 2009
+454 374 $
+454 374 $
+[en blanc]
+Total au 15 juillet 2009
+702 742 $
+702 742 $
+[en blanc]
+Le 27 octobre 2009, à 10 h
+87 572 454 $
+45 333 354 $
+[en blanc]
+Le 27 octobre 2009, à 10 h 5
+4 173 385 $
+4 173 385 $
+[en blanc]
+Total au 27 octobre 2009
+91 745 839 $
+49 506 739 $
+[en blanc]
+[en blanc]
+[en blanc]
+[en blanc]
+[en blanc]
+Total des dividendes en capital reçus conformément au paragraphe 83(2)
+92 448 581 $
+50 209 482 $
+(42 239 100 $)
+Total des dividendes imposables reçus
+[en blanc]
+42 239 100 $
+[en blanc]
+Solde du CDC d’ESRIL 98 avant paiement
+92 448 860 $
+50 209 760 $
+[en blanc]
+Dividendes en capital payés le 27 octobre 2009, à 10 h 10
+49 998 834 $
+49 998 834 $
+[en blanc]
+Solde du CDC d’ESRIL 98 le 31 décembre 2009
+42 450 026 $
+210 926 $
+(42 239 100 $)
+ANNEXE B
+La version de 2016 de l’alinéa d) de la définition du « compte de dividendes en capital » au paragraphe 89(1) de la LIR (telle qu’elle a été modifiée cette année-là) était la suivante :
+« compte de dividendes en capital » S’agissant du compte de dividendes en capital d’une société, à un moment donné, l’excédent éventuel du total des montants suivants : [...]
+d) l’excédent éventuel du total des montants suivants :
+(i) les montants dont chacun représente le produit d’une police d’assurance-vie dont la société était bénéficiaire au plus tard le 28 juin 1982 que la société a reçu au cours de la période et après 1971 par suite du décès d’une personne,
+(ii) les montants dont chacun représente le produit d’une police d’assurance-vie (sauf une police RAL) dont la société n’était pas bénéficiaire au plus tard le 28 juin 1982 que la société a reçu au cours de la période et après le 23 mai 1985 par suite du décès d’une personne,
+sur le total des montants dont chacun représente :
+(iii) le « coût de base rajusté » (s’entendant au présent alinéa au sens du paragraphe 148(9)) immédiatement avant le décès :
+(A) si le décès survient avant le 22 mars 2016, d’une police mentionnée au sous-alinéa (i) ou (ii) pour la société,
+(B) si le décès survient après le 21 mars 2016, d’un intérêt d’un titulaire de police dans une police mentionnée au sous-alinéa (i) ou (ii),
+(iv) si la police est une police 10/8 immédiatement avant le décès et que le décès survient après 2013, le montant impayé, immédiatement avant le décès, de l’emprunt visé au sous-alinéa a)(i) de la définition de « police 10/8 » au paragraphe 248(1) relativement à la police;
+(v) si le décès survient après le 21 mars 2016 et qu’un intérêt dans la police a fait l’objet d’une disposition – à laquelle le paragraphe 148(7) s’est appliqué – par un titulaire de police (sauf une société canadienne imposable) après 1999 mais avant le 22 mars 2016, le total des sommes suivantes :
+(A) l’excédent éventuel de la juste valeur marchande de la contrepartie donnée relativement à la disposition sur le total des sommes suivantes :
+(I) la plus élevée de la somme déterminée en application du sous-alinéa 148(7)a)(i) relativement à la disposition et de la somme qui est le coût de base rajusté pour le titulaire de police immédiatement avant la disposition,
+(II) le montant qui, par l’effet des alinéas 148(7)c) et f), est appliqué en réduction au début du 22 mars 2016, relativement à la disposition, du capital versé relatif à une catégorie d’actions du capital-actions d’une société découlant de la disposition,
+(B) si le capital versé relatif à une catégorie d’actions du capital-actions d’une société a été augmenté avant le 22 mars 2016 de la manière visée au sous-alinéa 148(7)f)(iii) relativement à la disposition, l’excédent éventuel de la réduction totale du capital versé relatif à cette catégorie – qui ne peut dépasser le montant de cette augmentation – après cette augmentation et avant le 22 mars 2016 (sauf dans la mesure où le montant de la réduction était réputé, par les paragraphes 84(4) ou (4.1), être un dividende reçu par un contribuable) sur la somme déterminée en application du sous-alinéa 148(7)a)(i) relativement à la disposition,
+(vi) si le décès survient après le 21 mars 2016 et qu’un intérêt dans la police a fait l’objet d’une disposition – à laquelle le paragraphe 148(7) s’est appliqué – par un titulaire de police (sauf une société canadienne imposable) après 1999 mais avant le 22 mars 2016, la somme obtenue par la formule suivante :
+A – B
+où :
+A représente l’excédent éventuel de la moins élevée de la somme qui est le coût de base rajusté pour le titulaire de police de l’intérêt immédiatement avant la disposition et de la juste valeur marchande de la contrepartie donnée relativement à une disposition sur la somme déterminée en vertu du sous-alinéa 148(7)a)(i) relativement à la disposition,
+B la valeur absolue de la somme négative éventuelle qui serait, compte non tenu de l’article 257, le coût de base rajusté, immédiatement avant le décès, de l’intérêt dans la police;
+RÉFÉRENCE :
+2020 CCI 92
+NOS DES DOSSIERS DE LA COUR :
+2017-1140(IT)G, 2017-3617(IT)G
+INTITULÉ :
+ROGERS ENTERPRISES (2015) INC. (SUCCESSEUR, À LA SUITE D’UNE FUSION, DE CGESR LIMITED) ET SA MAJESTÉ LA REINE ET ROGERS ENTERPRISES (2015) INC. (SUCCESSEUR, À LA SUITE D’UNE FUSION, D’ESRIL (1998) LIMITED) ET SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+Les 25 et 26 février 2019
+MOTIFS DU JUGEMENT :
+L’honorable juge Don R. Sommerfeldt
+DATE DU JUGEMENT :
+Le 27 août 2020
+COMPARUTIONS :
+Avocats de l’appelante :
+Me Pooja Mihailovich, Me Hemant Tilak
+Avocates de l’intimée :
+Me Justine Malone, Me Marie-Eve Aubry
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Me Pooja Mihailovich, Me Hemant Tilak
+Cabinet :
+Osler, Hoskin & Harcourt S.E.N.C.R.L./s.r.l.
+Pour l’intimée :
+Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa, Canada
+[1] Loi de l’impôt sur le revenu, L.R.C. 1985, ch. 1 (5e supplément), dans sa version modifiée.
+[2] Pièce AR-1.
+[3] Dans les actes de procédure, « RPC » est l’acronyme de « Rogers Private Companies » qui est défini comme les sociétés privées qui détiennent les participations de la famille Rogers dans RCI. Cependant, l’ECF précise que l’expression « groupe RPC » comprend non seulement les sociétés privées, mais aussi certaines fiducies.
+[4] Le paragraphe 29 de l’ECF indique que le montant du produit de l’assurance-vie était de 102 309 794 $. Cependant, la note (1) de l’annexe A de l’ECF mentionne que le montant du produit de l’assurance-vie était de 102 309 795 $.
+[5] ECF, alinéa 27e).
+[6] Comme une partie des dividendes payés ou réputés avoir été payés par CGESR à ESRIL 98 découlait des intérêts reçus par CGESR concernant le capital assuré, la somme choisie en application du paragraphe 83(2) était surévaluée de 84 090 $, ce qui a donné lieu à l’établissement de cotisations fiscales à l’égard de CGESR, aux termes de la partie III de la LIR. CGESR a payé ces cotisations fiscales, ce qui n’est pas controversé dans la présente instance.
+[7] Aucun élément de preuve ne contredit la déclaration ci-dessus ou y est incompatible.
+[8] Le paragraphe 30 de l’avis d’appel de CGESR et le paragraphe 31 de l’avis d’appel d’ESRIL 98.
+[9] Le paragraphe 31 de l’avis d’appel de CGESR et le paragraphe 32 de l’avis d’appel d’ESRIL 98.
+[10] Hypothèques Trustco Canada c. Canada, [2005] 2 RCS 601, 2005 CSC 54, ¶17.
+[11] Observations écrites de l’intimée, datées du 23 février 2019 et déposées le 25 février 2019 (observations de la Couronne), au paragraphe 29.
+[12] Michael H. Wilson (ministre des Finances), Notes explicatives sur la législation concernant la Loi de l’impôt sur le revenu (Ministère des Finances : Ottawa, juin 1988), à la page 462.
+[13] La règle ejusdem generis étant une règle d’interprétation des lois, elle pourrait ne pas jouer dans le contexte d’une note explicative.
+[14] Hypothèques Trustco, précité, note 10, au paragraphe 19.
+[15] Brian J. Arnold et James R. Wilson, « The General Anti-Avoidance Rule – Part 2 » (1988) 36:5 Revue fiscale canadienne 1123, à la page 1154.
+[16] Voir aussi les paragraphes 47 et 48 ci-dessous.
+[17] Robert Couzin, « Subsection 245(3): A Framework », Report of Proceedings of Forty-Ninth Tax Conference, rapport de la conférence de 1997 (Toronto : Fondation canadienne de fiscalité, 1998) page 4:1 à la page 4:4.
+[18] Une sixième raison de préférer l’interprétation B à l’interprétation A, dans le cadre de la définition de l’« avantage fiscal », est indiquée dans la note de bas de page 19 ci-dessous.
+[19] L'expression « impôt ou autre montant payable par cette personne, ou montant qui lui est remboursable, en application de la présente loi », telle qu’elle figure dans la définition de l’« attribut fiscal », pourrait aider à interpréter le sens de la mention « augmentation d’un remboursement d’impôt ou d’un autre montant visé par la présente loi » utilisée dans la définition de l’« avantage fiscal ». Il est évident que l’expression « autre montant » figurant dans la définition de l’« attribut fiscal » désigne un montant qui est exigible ou remboursable en application de la LIR. Si l’expression « autre montant » doit avoir le même sens dans la définition de l’« avantage fiscal » et dans celle de l’« attribut fiscal », il s’ensuit que l’expression « autre montant », qui figure dans la définition de l’« avantage fiscal », fait également référence à un montant qui est payable ou remboursable en application de la LIR.
+[20] McNichol et al. c. La Reine, [1997] 2 CTC 2088, à la page 2108 (au paragraphe 20); 97 DTC 111, à la page 119 (CCI).
+[21] RMM Canadian Entreprises Inc. v The Queen, sub nomine Equilease Corporation, [1998] 1 CTC 2300, 97 DTC 302 (TCC).
+[22] M. Couzin, précité, note 17, p. 4:6.
+[23] Voir les paragraphes 53 à 57 ci-dessous.
+[24] Hypothèques Trustco, précité, note 10, au paragraphe 20.
+[25] Copthorne Holdings Ltd. c. Canada, [2011] 3 RCS 721, 2011 CSC 63, au paragraphe 35.
+[26] Voir le sous-alinéa 27e) de l’ECF et la note (3) de l’annexe A de l’ECF. Cependant, dans les avis de détermination et les réponses, le ministre et la Couronne ont déclaré, respectivement, que le montant excédentaire du solde du CDC était de 42 239 100 $. Voir le paragraphe 21 ci-dessus.
+[27] Voir aussi l’analyse des paragraphes 184(3) et (4) de la LIR au paragraphe 54 ci-dessous.
+[28] Il n’existe pas d’éléments de preuve quant à l’identité de ces derniers actionnaires. L’ARC fait probablement référence à des particuliers (par opposition à des sociétés) qui n’auraient ainsi pas droit, dans le calcul du revenu imposable, à la déduction offerte en application du paragraphe 112(1) de la LIR.
+[29] 1245989 Alberta Ltd. c. Canada (Procureur général), 2018 CAF 114, au paragraphe 31.
+[30] OSFC Holdings Ltd. c. Canada, 2001 CAF 260; autorisation d’interjeter appel rejetée par la CSC, 2002 CarswellNat 1388, 294 NR 398 (note), le 20 juin 2002.
+[31] Wild, précité, note 29, au paragraphe 39.
+[32] Brian J. Arnold, « Does A Tax Benefit Have To Be Realized? Wild v. Canada 2018 FCA 114 », The Arnold Report, no 140, le 17 septembre 2018 (site Web de la Fondation canadienne de fiscalité), sixième paragraphe. L’arrêt Wild et les commentaires de M. Arnold sont aussi pertinents pour ce qui est de la discussion ci-dessus quant à la question de savoir si l’augmentation des soldes des CDC constituait un avantage fiscal; voir les paragraphes 33 et 34 précités.
+[33] M. Arnold, précité, note 32, aux paragraphes huit et neuf.
+[34] Ibid., aux paragraphes 10 et 11.
+[35] Canadian Pacific Ltd. c. La Reine, [2001] 1 CTC 2190 (CCI), au paragraphe 12; conf. par 2001 CAF 398.
+[36] Voir le paragraphe 11 ci-dessus et voir l’annexe A de l’ECF.
+[37] Comme cela a été signalé au paragraphe 51 ci-dessus, CGESR pensait que le solde de son CDC le 17 décembre 2008 était de 102 448 586 $, bien que cette somme ait inclus à tort 84 090 $ d’intérêts qui avaient été versés par l’assureur à CGESR, ainsi que le produit de l’assurance-vie. En soustrayant 84 090 $ de 102 448 586 $, on obtient 102 364 496 $.
+[38] Pour corriger l’erreur commise concernant les intérêts, comme cela a été abordé dans la note de bas de page précédente, en effectuant les calculs mentionnés dans ce paragraphe, j’ai fait abstraction des intérêts de 84 090 $ que CGESR a ajouté par erreur à son CDC et au titre desquels elle a déjà payé l’impôt prévu par la partie III.
+[39] Voir le paragraphe 43 qui précède.
+[40] Copthorne, précité, note 25, au paragraphe 35.
+[41] Canadian Pacific (CCI), note 35, au paragraphe 12. Voir le paragraphe 50 ci-dessus.
+[42] Ce chiffre représente le total des dividendes en capital (réels ou réputés) (c.-à-d. 102 448 581 $) moins le montant des intérêts qui a été considéré par erreur comme le produit de l’assurance-vie (c.-à-d. 84 090 $).
+[43] Voir le paragraphe 24 ci-dessus.
+[44] Hypothèques Trustco, précité, note 10, aux paragraphes 44 et 45.
+[45] Copthorne, précité, note 25, au paragraphe 70.
+[46] Compte tenu de la nature technique de cette discussion du sens des diverses dispositions législatives et de l’accent secondaire mis sur l’évolution historique des expressions « coût de base rajusté » et « compte de dividendes en capital », dans la présente discussion, je mentionnerai ces expressions au complet, au lieu d’utiliser les abréviations susmentionnées.
+[47] Jinyan Li, Joanne Magee et J. Scott Wilkie, dans Principles of Canadian Income Tax Law, 9e éd. (Toronto : Carswell, 2017) à la page 500, qualifient l’historique législatif d’élément extrinsèque à la LIR. Par conséquent, l’examen suivant de l’historique législatif applicable est surtout pertinent pour l’analyse ultérieure de l’objet de la disposition de réduction. Cependant, l’historique législatif fournit également des renseignements contextuels utiles pour comprendre le texte et le contexte de la disposition de réduction.
+[48] Loi de l’impôt sur le revenu, L.R.C. 1952, ch. 148.
+[49] La Loi modificative était les LC 1968-1969, ch. 44, article 20. J’ai omis, dans la citation susmentionnée, l’alinéa 79D(1)b) qui portait sur les polices d’assurance-vie (autres que les polices qui étaient ou avaient été émises aux termes d’un régime enregistré d’épargne-retraite ou d’un régime de pension agréé) à fonds réservé, car cet alinéa n’est pas pertinent en l’espèce.
+[50] Voir les LC 1968-1969, ch. 44, à l’article 20.
+[51] Je n’ai pas reproduit ici l’alinéa 148(9)a) de la LIR, car il correspondait essentiellement à l’alinéa 79D(10)a) de l’ancienne loi. La seule différence entre l’alinéa 79D(10)a) de l’ancienne loi et l’alinéa 148(9)a) de la LIR résidait dans les dernières phrases des deux alinéas. Plus précisément, la mention « alinéa a) du paragraphe (1) » dans l’ancienne loi est devenue l’« alinéa (1)a) » dans la LIR.
+[52] SC 1970-71-72, ch. 63, à l’article 1 (à l’origine le projet de loi C-259).
+[53] La division 89(1)b)(iv)(B) a été remplacée par les LC 1977, ch. 1, paragraphe 44(2), applicable au produit d’assurance-vie reçu après le 31 mars 1977.
+[54] LC 1977, ch. 1, paragraphe 74(4). Au sous-alinéa 148(9)a)(vi), je pense que le pronom « chacun » aurait dû être inséré après le terme « montants ».
+[55] LC 1977, ch. 1, paragraphe 74(6).
+[56] Le paragraphe 148(1) a été remplacé par les LC 1977, ch. 1, paragraphe 74(1), applicable aux années 1978 et ultérieures.
+[57] Comme l’a indiqué la définition du [traduction] « coût de base rajusté » de 1977, en plus des primes, plusieurs autres facteurs ont été pris en considération dans le calcul du coût de base rajusté d’une police.
+[58] Le sous-alinéa 89(1)b)(iv) a été remplacé par les LC 1980-81-82-83, ch. 140, paragraphe 54(2), applicable après le 28 juin 1982. Les éléments soulignés dans la citation ci-dessus indiquent les modifications. Les éléments en italique indiquent que c’est moi qui souligne.
+[59] L’alinéa 89(1)b.2) a été ajouté par les LC 1980-81-82-83, ch. 140, paragraphe 54(3), applicable après le 28 juin 1982. J’ai omis les sous-alinéas 89(1)b.2)(ii) et (iii).
+[60] Le sous-alinéa 148(9)a)(ix) a été ajouté par les LC 1980-81-82-83, ch. 140, paragraphe 102(9), applicable aux années d’imposition ultérieures à 1982.
+[61] Voir les LC 1980-81-82-83, ch. 140, paragraphe 102(1), applicable à l’égard des dispositions qui ont eu lieu après le 12 novembre 1981.
+[62] Le sous-alinéa 89(1)b)(iv) a été remplacé par les LC 1986, ch. 6, paragraphe 48(1), applicable après le 23 mai 1985.
+[63] L.R.C. 1985, ch. 1 (5e supplément), paragraphe 89(1).
+[64] Il y avait quelques différences mineures entre les deux dispositions. Par exemple, le terme anglais « aggregate » dans la version antérieure a été remplacé par le terme anglais « total » dans la version des L.R.C. de 1985.
+[65] L.R.C. (1985), ch. 1 (5e supplément), paragraphe 148(9). La modification apportée à la description de la variable B de la définition du « coût de base rajusté » a été adoptée par la Loi de révision des modifications relatives à l’impôt sur le revenu, LC 1994, ch. 7, vol. I, ann. VIII, paragraphe 87(4), applicable aux sommes payées au cours des années d’imposition commençant après le 20 décembre 1991.
+[66] La modification a été adoptée par les LC 2013, ch. 40, article 41, applicable aux années d’imposition qui se terminent après le 20 mars 2013.
+[67] Adopté par les LC 2016, ch. 12, paragraphe 29(3), en vigueur le 15 décembre 2016 (date de la sanction royale).
+[68] Le texte complet de l’alinéa d) de la définition du « compte de dividendes en capital » modifiée en 2016 figure à l’annexe B.
+[69] Il ne s’agit que d’une pratique générale. Pour obtenir un exemple de terminologie différente (à savoir « [...] le coût de base rajusté, pour le contribuable [...]), voir le paragraphe 148(1.1) de la LIR.
+[70] Voir le paragraphe 84 ci-dessus.
+[71] Canada c. Oxford Properties Group Inc., 2018 CAF 30, aux paragraphes 46 et 86.
+[72] Ibid., au paragraphe 88.
+[73] Canada, Ministère des Finances, Mesures fiscales : Renseignements supplémentaires (Ottawa, le 22 mars 2016), p. 34.
+[74] Oxford Properties, précité, note 71, au paragraphe 93.
+[75] Canada, ministère des Finances, Notes explicatives relatives à la Loi de l’impôt sur le revenu, à la Loi sur la taxe d’accise, à la Loi de 2001 sur l’accise et à des textes connexes, (Ottawa, le 21 octobre 2016), p. 69. Les Notes explicatives sont parfois qualifiées de Notes techniques.
+[76] Il s’agit de la formulation utilisée par le ministère des Finances dans le troisième paragraphe cité ci-dessus.
+[77] David Sherman, 2019 Department of Finance Technical Notes: Income Tax, 31e éd. (Toronto : Carswell, 2019), par. 89(1) « compte de dividendes en capital », alinéa d) (Taxnet Pro).
+[78] Ibid.
+[79] Oxford Properties, précité, note 71, au paragraphe 88.
+[80] Hypothèques Trustco, précité, note 10, au paragraphe 44.
+[81] Copthorne, précité, note 25, aux paragraphes 70 et 109.
+[82] Ibid., au paragraphe 71.
+[83] Ibid., au paragraphe 72.
+[84] Ibid., au paragraphe 88, p. 109 et 110.
+[85] La partie de l’alinéa d) qui suit le sous-alinéa (ii) était la version de 2008 de la disposition de réduction.
+[86] En 2008 (de même qu’à l’heure actuelle), le paragraphe 248(1) de la LIR contenait un grand nombre de définitions qui valaient pour l’ensemble de la LIR; cependant, même si la définition du « prix de base rajusté » figurait au paragraphe 248(1), celle du « coût de base rajusté » ne s’y trouvait pas. Par conséquent, sans l'expression entre parenthèses de la définition de la disposition de réduction, la signification de l’expression « coût de base rajusté » utilisée dans la disposition de réduction n’aurait pas été précisée. Des exemples de ce style de rédaction qui date de 2008 et qui consiste à utiliser l'expression entre parenthèses ou entre virgules « au sens de » ont été trouvés à l’alinéa 53(1)f) ( […] bien de remplacement, au sens donné à ce terme à l’alinéa a) de la définition de « perte apparente » à l’article 54, du contribuable [...] »), à la division 60j)(iv)(B) (« […] à titre de prime, au sens du paragraphe 146(1), à un régime enregistré d’épargne-retraite [...] ») et au paragraphe 129(1.1) (« […] une société qui détenait le contrôle (au sens du paragraphe 186(2)) de la société donnée [...] »).
+[87] La définition de la « police d’assurance-vie » au paragraphe 138(12) de la LIR englobe les contrats de rentes.
+[88] Éléments consignés en preuve par l’appelante (déposés au cours de l’audition des présents appels), p. 3 et 5 à 6, questions 23(c), 24 et 36(a).
+[89] Observations de la Couronne, précitées, note 11, au paragraphe 157. Voir aussi le paragraphe 160 de ces observations. La doctrine citée par la Couronne à l'appui des déclarations formulées aux paragraphes 157 et 160 de ses observations est Florence Marino et John Natale (éditeurs), Canadian Taxation of Life Insurance, 9e éd. (Toronto : Thomson Reuters, 2018), chapitre 6, partie 6.2, p. 200.
+[90] Kevin Wark et Michael O’Connor, « The Next Phase of Life Insurance Policyholder Taxation is Nigh » (2016) 64:4 Revue fiscale canadienne 705, aux pages 733 et 734. Voir aussi William D. Hawley, « Insurance and the Closely Held Corporation », Report of Proceedings of the Forty-Third Tax Conference, rapport de la conférence de 1991 (Toronto : Fondation canadienne de fiscalité, 1992), page 24:1 à la page 24:26.
+[91] Voir Hypothèques Trustco, précité, note 10, au paragraphe 65, où la Cour suprême a observé : « Il appartient au ministre [...] de décrire l’objet ou l’esprit des dispositions qui auraient été contournées [...]. Le ministre est mieux placé que le contribuable pour présenter des observations sur l’intention du législateur [...] ».
+[92] Voir Copthorne, précité, note 25, au paragraphe 110, où la Cour suprême a observé que, dans certains cas, le texte d’une disposition (compte tenu de son contexte et de son objet) peut être déterminant parce qu’il correspond à sa raison d’être et l’explique entièrement.
+[93] Ibid., au paragraphe 89. Dans l’arrêt Copthorne, la Cour suprême a observé : « Mais pourquoi limiter ainsi le CV? ».
+[94] Hypothèques Trustco, précité, note 10, au paragraphe 43 et Copthorne, précité, note 25, au paragraphe 73.
+[95] Hypothèques Trustco, précité, note 10, au paragraphe 65.
+[96] Ibid., sous-point 1(3) et point 2 du paragraphe 66.
+[97] Ibid., point 3 du paragraphe 66.
+[98] Voir Wild, précité, note 29, au paragraphe 43.
+[99] Voir Wild, précité, note 29, au paragraphe 44.
+[100] La copie de l’exposé conjoint des faits qui est cotée comme pièce AR-1 a été signée par les avocates de la Couronne, ainsi que par les avocats de RE 2015.

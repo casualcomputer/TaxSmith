@@ -1,0 +1,163 @@
+Title: Poulin c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27314/index.do
+Corpus path: corpus/cases/tcc/2006/2006-cci-495-27314-poulin-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2006-10-23
+
+# Poulin c. La Reine
+
+- Citation: 2006 CCI 495
+- Decision date: 2006-10-23
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 854, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Poulin c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-10-23
+Référence neutre
+2006 CCI 495
+Numéro de dossier
+2005-4446(IT)I
+Juges et Officiers taxateurs
+Paul Bédard
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2005-4446(IT)I
+ENTRE :
+LOUISE POULIN,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appels entendus le 29 juin 2006 à Montréal (Québec)
+Devant : L'honorable juge Paul Bédard
+Comparutions :
+Pour l'appelante :
+L'appelante elle-même
+Avocate de l'intimée :
+Me Anne Poirier
+Chantal Roberge (stagiaire)
+____________________________________________________________________
+JUGEMENT
+Les appels interjetés selon la procédure informelle à l'égard des cotisations établies en vertu de la Loi de l'impôt sur le revenu pour les années d'imposition 2003 et 2004 sont rejetés selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 23ième jour d'octobre 2006.
+« Paul Bédard »
+Juge Bédard
+Référence : 2006CCI495
+Date : 20061023
+Dossier : 2005-4446(IT)I
+ENTRE :
+LOUISE POULIN,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Bédard
+[1] Le ministre du Revenu national (le « ministre » ) a déterminé par avis de nouvelle détermination de prestation fiscale canadienne pour enfants établi le 20 mai 2005, quant à l'année de base 2003 et par avis de détermination de prestation fiscale canadienne pour enfants établi le 20 juillet 2005 quant à l'année de base 2004, que l'appelante n'était plus le particulier admissible à l'égard des enfants de son conjoint de fait, monsieur Pavlo Stelmazuk (le « père » ), pour la période débutant en juillet 2004. L'appelante en appelle, selon la procédure informelle, de ces déterminations.
+[2] À la suite de l'établissement de la nouvelle détermination de prestation fiscale canadienne pour enfants en date du 20 mai 2005 quant à l'année de base 2003 à l'encontre de l'appelante, le ministre a établi à néant, toute somme à titre de paiement en trop à l'égard de la période allant du mois de juillet 2004 au mois d'avril 2005.
+[3] Les 15 juillet 2005 et 19 septembre 2005, l'appelante a signifié au ministre un avis d'opposition à l'égard de la nouvelle détermination établie en date du 20 mai 2005 et de la détermination établie en date du 20 juillet 2005, quant aux années de base respectives de 2003 et 2004.
+[4] Le 23 septembre 2005, le ministre ratifiait la nouvelle détermination datée du 20 mai 2005 et la détermination datée du 20 juillet 2005 en se fondant sur les mêmes faits, à savoir ceux énumérés au paragraphe 6 de la Réponse à l'avis d'appel :
+a) l'appelante est la conjointe de fait de monsieur Pavlo Stelmazuk; (admis)
+b) monsieur Pavlo Stelmazuk est le père de deux enfants :
+i) Kevin, né le 4 mai 1994,
+ii) Kamélie, née le 4 janvier 1996; (admis)
+c) de la naissance des enfants jusqu'au mois de mars 2003, c'était la mère biologique Julie Lavigne qui était considérée comme le parent qui assumait principalement le soin et l'éducation des enfants Kevin et Kamélie; (nié)
+d) monsieur Pavlo Stelmazuk et madame Julie Lavigne ont fait vie commune jusqu'au mois d'août 2000; (admis)
+e) étant donné que monsieur Pavlo Stelmazuk et madame Julie Lavigne ont convenu d'une garde partagée, à l'égard des enfants Kevin et Kamélie, les prestations fiscales furent réparties six mois à l'un et six mois à l'autre pendant la période s'échelonnant d'avril 2003 à juin 2004, (nié)
+f) l'appelante, par présomption féminine, était bénéficiaire de prestations fiscales, à l'égard des enfants Kevin et Kamélie, pour chaque période annuelle de mars à août, tandis que madame Julie Lavigne encaissait les dites prestations pour la période annuelle de septembre à février; (admis)
+g) au mois de juillet 2004, madame Julie Lavigne informait le ministre que les enfants Kevin et Kamélie demeureraient chez elle du 18 juin 2004 au 20 août 2004 et réclamait les prestations fiscales pour les mois de juillet et août 2004; (admis)
+h) le 28 juillet 2004, le ministre avisait madame Julie Lavigne que les enfants bénéficiaient d'une garde partagée et refusait de donner suite à la demande de madame; (l'appelante n'avait aucune connaissance de ce fait)
+i) madame Julie Lavigne signifia un avis d'opposition au ministre, au mois de février 2005, pour défaut par ce dernier de n'avoir pas révisé ses prestations fiscales pour les mois de juillet et d'août 2004; (l'appelante n'avait pas connaissance de ce fait)
+j) suite à la signification d'un avis d'opposition de la part de madame Julie Lavigne pour l'année de base 2003, le ministre envoya à l'appelante et à la mère biologique, madame Julie Lavigne le 22 février 2005, un questionnaire à remplir et une demande de documents à fournir couvrant la période débutant en juin 2004, afin de déterminer laquelle des deux est le parent admissible à recevoir les prestations fiscales, à l'égard des enfants Kevin et Kamélie; (admis)
+k) l'appelante, en réponse à la lettre datée du 22 février 2005 n'a fourni aucun document, telles des lettres du dentiste, du médecin, des autorités scolaires et des lettres d'associations sportives pour appuyer sa demande d'être considérée comme le parent admissible des enfants Kevin et Kamélie; (admis)
+l) le ministre a déterminé qu'il ne considérait pas l'appelante comme étant le particulier admissible des enfants Kevin et Kamélie, à l'égard des années de base 2003 et 2004. (admis)
+Remarques préliminaires
+[5] Bien qu'il soit écoulé plusieurs années depuis la séparation, l'acrimonie régnait encore entre l'appelante, le père d'une part et madame Julie Lavigne (la mère biologique » ) d'autre part et, pour cette raison, je n'ai pas pris au pied de la lettre tout ce que ces personnes ont dit à l'appui de leur position quant à leur admissibilité à la prestation fiscale pour enfants. J'ajouterai que j'ai lu avec une certaine circonspection les lettres élogieuses que les parties ont déposées en preuve pour appuyer leur position, en particulier les lettres provenant de leurs parents et amis.
+[6] L'appelante et le père ont témoigné à l'appui de la position de celle-ci. Seuls, la mère biologique et monsieur Serge Grenier, l'agent des appels à l'Agence du revenu du Canada ont témoigné à l'appui de la position de l'intimée.
+Le droit
+[7] La définition de « particulier admissible » à l'article 122.6 de la Loi de l'impôt sur le revenu (la « Loi » ) était, à l'époque, ainsi rédigée :
+« particulier admissible »
+S'agissant, à un moment donné, du particulier admissible à l'égard d'une personne à charge admissible, personne qui répond aux conditions suivantes à ce moment :
+a) elle réside avec la personne à charge;
+b) elle est la personne -- père ou mère de la personne à charge --qui assume principalement la responsabilité pour le soin et l'éducation de cette dernière;
+c) elle réside au Canada ou, si elle est l'époux ou le conjoint de fait visé d'une personne qui est réputée, par le paragraphe 250(1), résider au Canada tout au long de l'année d'imposition qui comprend ce moment, y a résidé au cours d'une année d'imposition antérieure;
+d) elle n'est pas visée aux alinéas 149(1)a) ou b);
+e) elle est, ou son époux ou conjoint de fait visé est, soit citoyen canadien, soit :
+(i) résident permanent au sens du paragraphe 2(1) de la Loi sur l'immigration et la protection des réfugiés,
+(ii) résident temporaire ou titulaire d'un permis de séjour temporaire visés par la Loi sur l'immigration et la protection des réfugiés ayant résidé au Canada durant la période de 18 mois précédant ce moment,
+(iii) personne protégée au titre de la Loi sur l'immigration et la protection des réfugiés.
+(iv) quelqu'un qui fait partie d'une catégorie précisée dans le Règlement sur les catégories d'immigrants précisées pour des motifs d'ordre humanitaire pris en application de la Loi sur l'immigration.
+Pour l'application de la présente définition :
+f) si la personne à charge réside avec sa mère, la personne qui assume principalement la responsabilité pour le soin et l'éducation de la personne à charge est présumée être la mère;
+g) la présomption visée à l'alinéa f) ne s'applique pas dans les circonstances prévues par règlement;
+h) les critères prévus par règlement serviront à déterminer en quoi consistent le soin et l'éducation d'une personne.
+[8] Pour l'application des alinéas g) et h) de la définition de « particulier admissible » à l'article 122.6 de la Loi, les articles 6301 et 6302 de la partie LXIII du Règlement de l'impôt sur le revenu (le « Règlement » ) prévoient ce qui suit :
+NON-APPLICATION DE LA PRÉSOMPTION
+6301. (1) Pour l'application de l'alinéa g) de la définition de « particulier admissible » à l'article 122.6 de la Loi, la présomption mentionnée à l'alinéa f) de cette définition ne s'applique pas dans les circonstances suivantes :
+a) la mère de la personne à charge admissible déclare par écrit au ministre qu'elle réside avec le père de cette personne et qu'il est celui qui assume principalement la responsabilité pour le soin et l'éducation de chacune des personnes à charge admissibles avec lesquelles les deux résident;
+b) la mère est une personne à charge admissible d'un particulier admissible et chacun d'eux présente un avis au ministre conformément au paragraphe 122.62(1) de la Loi à l'égard de la même personne à charge admissible;
+c) la personne à charge admissible a plus d'une mère avec qui elle réside et chacune des mères présente un avis au ministre conformément au paragraphe 122.62(1) de la Loi à l'égard de la personne à charge admissible;
+d) plus d'une personne présente un avis au ministre conformément au paragraphe 122.62(1) de la Loi à l'égard de la même personne à charge admissible qui réside avec chacune d'elles à des endroits différents.
+(2) Il demeure entendu qu'est assimilée à la personne qui présente un avis visé aux alinéas (1)b), c) ou d) la personne qui, en vertu du paragraphe 122.62(3) de la Loi, est soustraite à l'obligation de présenter un tel avis.
+CRITÈRES
+6302. Pour l'application de l'alinéa h) de la définition de « particulier admissible » à l'article 122.6 de la Loi, les critères suivants servent à déterminer en quoi consistent le soin et l'éducation d'une personne à charge admissible :
+a) le fait de surveiller les activités quotidiennes de la personne à charge admissible et de voir à ses besoins quotidiens;
+b) le maintien d'un milieu sécuritaire là où elle réside;
+c) l'obtention de soins médicaux pour elle à intervalles réguliers et en cas de besoin, ainsi que son transport aux endroits où ces soins sont offerts;
+d) l'organisation pour elle d'activités éducatives, récréatives, athlétiques ou semblables, sa participation à de telles activités et son transport à cette fin;
+e) le fait de subvenir à ses besoins lorsqu'elle est malade ou a besoin de l'assistance d'une autre personne;
+f) le fait de veiller à son hygiène corporelle de façon régulière;
+g) de façon générale, le fait d'être présent auprès d'elle et de la guider;
+h) l'existence d'une ordonnance rendue à son égard par un tribunal qui est valide dans la juridiction où elle réside.
+[9] Ce qui nous intéresse ici est uniquement ce qui a trait à la condition énoncée au paragraphe b) de la définition de « particulier admissible » , c'est-à-dire que le parent de la personne à charge admissible doit être celui 'qui assume principalement la responsabilité pour le soin et l'éducation de cette dernière' tout en tenant compte des critères établis à l'article 6302 du Règlement.
+[10] Nous examinerons donc la preuve à la lumière des critères établis à l'article 6302 du Règlement.
+Critères énoncés aux alinéas a), b) et g) de l'article 6302 du Règlement
+[11] La preuve a révélé que les deux parents des enfants surveillaient sensiblement de la même façon les activités quotidiennes de leurs enfants et veillaient à leurs besoins quotidiens quand ils en avaient la garde. Les deux parents ont aussi démontré qu'ils avaient maintenu un milieu sécuritaire, chacun habitant une résidence unifamiliale dans laquelle chaque enfant avait sa chambre. Ceci règle la question des alinéas a), b), et g) de l'article 6302 du Règlement.
+Activités éducatives
+[12] Les deux parents prenaient part aux activités scolaires de leurs enfants sensiblement de la même façon : ils se rendaient régulièrement à l'école pour rencontrer les professeurs de leurs enfants et pour participer aux réunions de parents. Ils recevaient tous les deux les bulletins de leurs enfants et les aidaient à effectuer leurs travaux scolaires. La preuve[1] a démontré que seule la mère biologique payait les fournitures ou effets scolaires des enfants, le père n'ayant pas les moyens de le faire. Il convient aussi de souligner que la mère biologique avait investi dans un régime d'épargne-études crée pour payer les études post-secondaires de ses enfants.
+Santé des enfants
+[13] L'appelante s'est surtout évertuée à reprocher à la mère biologique la piètre santé dentaire des enfants. L'appelante a aussi imputé à la mère biologique la responsabilité de nombreux rendez-vous annulés, manqués et reportés chez le dentiste. Enfin, elle a reproché à la mère biologique d'avoir caché au père les nombreuses maladies contractées par les enfants. En résumé, l'appelante a tenté de me démontrer que la mère biologique était irresponsable sans pour autant faire la preuve de ce qu'elle (et le père) avaient fait relativement à la santé des enfants. Tout au plus, la preuve de l'appelante à cet égard a révélé que le père avait accompagné ses enfants à quelques reprises chez le dentiste et qu'elle avait payé, à l'occasion, les médicaments pour les enfants. Par ailleurs, la mère biologique a déposé en preuve une abondante documentation[2] démontrant clairement que, depuis la naissance des enfants jusqu'à la fin de la période en question, elle avait été la personne qui avait principalement obtenu des soins médicaux pour ses enfants à intervalles réguliers et en cas de besoin et assuré leur transport jusqu'à l'endroit où ces soins étaient offerts. La mère biologique a aussi démontré clairement qu'elle avait été la personne qui avait principalement payé ces frais médicaux.
+Activités récréatives, athlétiques ou semblables
+[14] La preuve a révélé que tous les parents prenaient part aux activités éducatives, récréatives et athlétiques de leurs enfants en ce qu'ils les organisaient et y participaient. Ainsi, la mère biologique inscrivait ses enfants à des cours de danse, de gymnastique et de hockey. Elle accompagnait la plupart du temps ses enfants à ces cours. Elle a aussi expliqué qu'elle allait au cinéma avec ses enfants et faisait de la bicyclette avec ces derniers. Elle a ajouté qu'elle participait à des jeux de société avec ses enfants. Par ailleurs, l'appelante a témoigné qu'elle-même et le père préféraient faire des activités avec leurs enfants plutôt que de les inscrire à toutes sortes de cours. Elle a expliqué qu'ils jouaient au hockey en famille et qu'ils participaient à beaucoup de jeux de société avec leurs enfants. Enfin, l'appelante a ajouté qu'ils faisaient beaucoup de sorties avec les enfants (Zoo de Granby, Biodôme, voyages de pêche, voyages aux chutes Niagara). Il ressort de cette preuve que les parties prenaient tous part aux activités éducatives, récréatives et culturelles de leurs enfants mais d'une façon différente, chacun privilégiant des activités qui correspondaient à ses valeurs et intérêts et à ses moyens financiers.
+Conclusion
+[15] J'avais devant moi deux parties, d'une part, la mère biologique des enfants, et de l'autre, l'appelante (et le père des enfants), qui ont tous, à ne pas en douter, fait de leur mieux pour accorder le plus d'attention possible aux enfants dont ils partageaient la garde et pour veiller à leur soin et à leur éducation, une situation en général difficile. Chacun s'est occupé des enfants à sa façon, et selon ses propres valeurs et moyens financiers. Chacun a participé aux activités des enfants. Chacun a joué son rôle selon ses propres moyens.
+[16] Lorsque les éléments de preuve dans l'ensemble ne font pas pencher la balance clairement en faveur d'une partie ou l'autre, on aimerait bien trouver une solution qui réponde à la volonté habituelle des parties de partager également la garde de leurs enfants, ce dont les parties ont essentiellement convenu et ce qu'elles ont respecté en l'espèce.
+[17] Malheureusement, sauf dans le cas où les parties s'entendraient pour partager la prestation fiscale pour enfants sur une base semestrielle, ce que Revenu Canada accepte aux termes d'une de ses pratiques administratives, il n'est pas possible de diviser la prestation, comme il l'a été décidé dans l'arrêt Sa Majesté la Reine c. Marshall, [1996] A.C.F. no 431.
+[18] Compte tenu des facteurs qui doivent être pris en considération et qui sont fondés sur le soin, l'attention et la participation et compte tenu des éléments de preuve présentés en l'espèce, je dois conclure que l'appelante n'a pas réussi à s'acquitter de l'obligation qu'elle avait, c'est-à-dire de démontrer, selon la balance des probabilités, qu'elle respectait la condition établie au paragraphe b) de la définition de 'particulier admissible' à l'article 122.6 de la Loi, c'est-à-dire qu'elle était, durant la période en question, la personne qui s'occupait principalement du soin et de l'éducation des enfants.
+[19] En rendant une telle décision, l'appelante doit comprendre que je ne conclus pas qu'elle (et le père) étaient des mauvaises personnes ou encore qu'elles n'assumaient pas bien leurs responsabilités en ce qui concerne le soin et l'éducation des enfants pendant la période en question.
+[20]Les appels sont donc rejetés.
+Signé à Ottawa, Canada, ce 23ième jour d'octobre 2006.
+« Paul Bédard »
+Juge Bédard
+RÉFÉRENCE : 2006CCI495
+N º DU DOSSIER DE LA COUR : 2005-4446(IT)I
+INTITULÉ DE LA CAUSE : LOUISE POULIN ET SA MAJESTÉ LA REINE
+LIEU DE L'AUDIENCE : Montréal (Québec)
+DATE DE L'AUDIENCE : le 29 juin 2006
+MOTIFS DU JUGEMENT PAR : L'honorable juge Paul Bédard
+DATE DU JUGEMENT : le 23 octobre 2006
+COMPARUTIONS :
+Pour l'appelante :
+L'appelante elle-même
+Avocate de l'intimée :
+Me Anne Poirier
+Chantal Roberge (stagiaire)
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelante:
+Nom :
+Étude :
+Pour l'intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Pièce 1-2, document 4, document 5, document 6.
+[2] Pièce 1-1, documents 4,5,6,7 et 8, Pièce 1-2, pages 11, 12, 13 et 18, Pièces 1-3, 1-4, 1-5 et 1-6.

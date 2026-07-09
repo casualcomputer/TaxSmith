@@ -1,0 +1,188 @@
+Title: Pirart v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/214326/index.do
+Corpus path: corpus/cases/tcc/2016/2016-tcc-291-214326-pirart-v-the-queen-en.md
+Document type: case_law
+Last modified: 2016-12-20
+
+# Pirart v. The Queen
+
+- Citation: 2016 TCC 291
+- Decision date: 2016-12-20
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2955, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Pirart v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2016-12-20
+Neutral citation
+2016 TCC 291
+File numbers
+2011-2609(IT)G
+Judges and Taxing Officers
+Kathleen T. Lyons
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2011-2609(IT)G
+BETWEEN:
+GLEN PIRART,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Motion for Costs by Written Submissions
+Before: The Honourable Justice K. Lyons
+Participants:
+Counsel for the Applicant:
+Gavin Laird
+Counsel for the Respondent:
+Christa Akey
+ORDER
+Upon motion in writing brought by the applicant requesting that the Court reconsider its order as to costs and grant costs to him for his appeal allowed in part.
+Upon submissions from the parties, this Court has reconsidered its order as to costs. The applicant’s motion is dismissed.
+Costs of this motion are awarded to the respondent payable forthwith.
+Signed at Edmonton, Alberta, this 20th day of December 2016.
+“K. Lyons”
+Lyons J.
+Citation: 2016 TCC 291
+Date: 20161220
+Docket: 2011-2609(IT)G
+BETWEEN:
+GLEN PIRART,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Lyons J.
+[1] This is a motion in writing by the applicant under subsection 147(7) of the Tax Court of Canada Rules (General Procedure) (the “Rules”) for a reconsideration of the Court’s order as to costs with respect to a judgment which partially allowed his appeal. Costs were not awarded because of the mixed success.
+I. Background [2] The Minister of National Revenue had reassessed the applicant’s 2005, 2006, 2007 and 2008 taxation years (“relevant years”) under the Income Tax Act. There was a statute-barred issue in reference to the 2005 and 2006 taxation years, unreported business income in excess of $1 million in each of the relevant years (totalling $5.l million) from the sale of illicit drugs included into the applicant’s income and gross negligence penalties were levied on that income. The applicant appealed the reassessments.
+[3] The trial was scheduled for four days and lasted three days. The applicant called six witnesses including testifying on his own behalf. The respondent planned to call three witnesses, including one expert witness, and presented read‑ins from examinations for discovery.
+[4] The Court found that the applicant had unreported business income ($64,800) in 2007 and 2008 from the sale of marijuana, that gross negligence penalties were properly levied, that there was no evidence that the applicant sold cocaine and the reassessments in respect of 2005 and 2006 were vacated.
+[5] The respondent’s position is that the Court’s order as to costs should remain unchanged and the motion should be dismissed. Alternatively, if the Court is prepared to reconsider its decision as to costs, any award should not exceed the Tariff.
+II. Rules [6] The general principles relating to costs are contained in section 147 of the Rules. All references below to provisions in section 147 are to the Rules. Subsections 147(1), (3) and (5) are the relevant provisions and read as follows:[1]
+(1) The Court may determine the amount of the costs of all parties involved in any proceeding, the allocation of those costs and the persons required to pay them.
+…
+(3) In exercising its discretionary power pursuant to subsection (1) the Court may consider,
+(a) the result of the proceeding,
+(b) the amounts in issue,
+(c) the importance of the issues,
+(d) any offer of settlement made in writing,
+(e) the volume of work,
+(f) the complexity of the issues,
+(g) the conduct of any party that tended to shorten or to lengthen unnecessarily the duration of the proceeding,
+(h) the denial or the neglect or refusal of any party to admit anything that should have been admitted,
+(i) whether any stage in the proceedings was,
+(i) improper, vexatious, or unnecessary, or
+(ii) taken through negligence, mistake or excessive caution,
+(i.1) whether the expense required to have an expert witness give evidence was justified given
+(i) the nature of the proceeding, its public significance and any need to clarify the law,
+(ii) the number, complexity or technical nature of the issues in dispute, or
+(iii) the amount in dispute; and
+(j) any other matter relevant to the question of costs.
+…
+(5) Notwithstanding any other provision in these rules, the Court has the discretionary power,
+(a) to award or refuse costs in respect of a particular issue or part of a proceeding,
+(b) to award a percentage of taxed costs or award taxed costs up to and for a particular stage of a proceeding, or
+(c) to award all or part of the costs on a solicitor and client basis.
+III. Analysis [7] Albeit fixing costs is highly discretionary under subsection 147(5), the power to award or refuse costs must be exercised on a prudent and principled basis.[2]
+Amounts in issue and result of the proceeding [8] Without expressly referring to paragraph 147(3)(b) in his motion materials, the applicant appears to be relying principally on the amounts in issue criteria, and also appears to incorporate into that criteria the result of the proceeding criteria under paragraph 147(3)(a), in asserting that “numerically” and based on the “objective math”, the judgment amount shows he was overwhelmingly successful because he was wholly successful that there was no unreported income from cocaine sales and therefore was predominantly successful.[3] The applicant says he should be allowed costs under the general common-law principle that costs follow the event.
+[9] Focussed on the amount in issue as it relates to income from cocaine sales, it is true that the applicant was predominantly successful numerically in the reduction of tax reassessed.
+[10] The fact that other criteria may also be considered is indicative that costs do not always flow, even if successful. Subsection 147(3) lists a wide range of criteria a judge may consider when exercising her or his discretionary powers in awarding or refusing costs.
+[11] I agree with the applicant that income from marijuana sales had been raised by him (pled as amendments in the Amended Notice of Appeal).[4] In his pleading under “Issues to be decided”, the marijuana operation was treated as a separate issue. This is illustrated by his framing of one of the issues as “What expenses would properly be deductible against the small cloning operation?”[5]
+[12] One of the difficulties with the applicant’s approach is his assertion that the respondent denied sales of marijuana. However, it is clear from the Reply to the Amended Notice of Appeal, under the issues and submissions segments, that the respondent did not deny this. Rather, she viewed the unreported income from the applicant’s cannabis cloning (marijuana) operation as an issue.[6] At the hearing, he was cross-examined and provided details about his marijuana operation, he admitted he made such sales but did not report the income nor tell his accountant. Oral and written submissions were prepared by respondent counsel relating to that issue and a valuation of marijuana was included in the respondent’s expert report which ultimately went uncontested. In light of such considerations, I fail to see how the applicant can assert that this was denied by the respondent.
+[13] Admittedly income from marijuana was not pled in the Reply as an assumption, nonetheless the respondent referred to “Unreported Incomes” from business which included income from cocaine and income from marijuana. Nor can it be said it was unreasonable for the respondent to make such an argument especially based on the applicant’s admissions during the hearing relating to the marijuana operation.
+[14] Analyses were conducted and findings were made relating to the marijuana operation, the issue as to sales/income from marijuana and associated gross negligence penalties, all of which were separate and apart from the issue as to sales/income from cocaine. Based on the issues, the result of the proceeding was divided in that it was found that there was unreported income from the marijuana operation in half the years under appeal and gross negligence penalties were properly levied. Where success is divided, as here, it is not unusual for no order as to costs be made.
+Written settlement offer [15] Another difficulty is his reliance on his written settlement offer which contains conditions that could not be agreed to or were not under appeal. The thrust of his argument is that since the Court’s finding was more favourable than his offer and the respondent did not better the applicant’s offer - as detailed below - both offers are relevant in the context of paragraph 147(3)(d) and lends further support for an award of costs albeit he is not seeking increased costs because his offer was served outside of the time limits in subsection 147(3.3).
+[16] A written settlement offer was presented to the applicant on February 17, 2015 in which the respondent proposed a 25% reduction to the income reassessed in the relevant years.
+[17] Over four months later, the applicant made a “firm” written settlement offer to the respondent to include $500,000 as partnership income commencing in 2008, that penalties be deleted and the 2005 to 2007 taxation years be vacated and that adjustments be made to his goods and services tax assessments (“applicant’s offer”).[7]
+[18] The next day, the respondent proposed a counter-offer that the reassessments for the 2005 and 2006 taxations years be vacated, that the unreported income in the 2007 and 2008 taxation years be reduced by 25% and that gross negligence penalties be adjusted accordingly. It was not accepted. I note that the applicant did not refer to the counter-offer in his motion materials and that it resulted in a lower amount than the initial offer made by the respondent which is reflected at paragraph 4(b) of his motion.
+[19] As pointed out by respondent counsel, no attribution of partnership income could be made with respect to the late Wendy Anderson thus the respondent could not reasonably accept such an offer. I observe that there was no suggestion that consent had been sought from Ms. Anderson’s Estate with respect to such attribution. Consequently, this renders this condition incapable of acceptance and especially since it was characterized by the applicant as a “firm” offer.
+[20] In CIBC World Markets Inc. v Canada, 2012 FCA 3, 2012 CarswellNat 33 (FCA), Stratas J., at paragraph 15, states that:
+15 … only offers that, as a matter of law, could have been accepted can trigger costs consequences. If, due to some legal disability, a party could not have accepted an offer, adverse costs consequences should not be visited upon that party.[8]
+[21] Apart from the legal disability principle, the condition that relates to the GST assessments is problematic and not a proper condition for settlement purposes as these were not under appeal.
+[22] Finally, the applicant’s offer was of little utility in determining a costs award because it was too late as it was made on the Thursday preceding the commencement of the hearing the following Monday. In Belcourt Properties Inc. v Canada, 2014 TCC 316, 2015 DTC 1004 [Belcourt Properties], Lamarre J., as she then was, found that because the written settlement offer was made only two weeks before trial, it would not be considered which in that case involved an award of increased costs.[9]
+[23] I find and conclude the applicant’s offer does not provide further support for a costs award.
+Other factors [24] Even if a litigant is substantially or wholly successful, costs may not be awarded. For example, both in Crichton v Canada, 2013 TCC 96, 2013 DTC 1104 [Crichton] and Cheta v Canada, 98 DTC 1805 [Cheta], the taxpayers’ records were in a poor state and costs were denied.[10] Costs were also denied in Gray v Canada, 98 DTC 2184, because of the taxpayer’s evasive actions with the Canada Revenue Agency. Conduct, prior to or during the appeal, may be considered as a factor that could result in disentitlement to costs.[11]
+[25] I agree with the respondent’s submissions that costs are not warranted because of his conduct as supported by the findings of fact outlined at paragraph 24 of her written submissions.[12]
+[26] In addition, in my view, conduct unnecessarily lengthened the duration of the proceeding as contemplated in paragraph 147(3)(g). For example, time was spent during the hearing on questions surrounding the marijuana operation, the locations plus other evidence and submissions were made. Yet, during the last several minutes of the trial in reply submissions, and after a recess, the applicant capitulated, in part, with respect to that operation. This is reflected in the remarks made by applicant counsel that “I have instruction to agree if the Minister is seeking to raise the marijuana income as an alternative basis of assessment pursuant to 152(9) we would not oppose that for the ’07 and ’08. We would, however, suggest that if that’s the case, as we suggested before, that is consistent with – the appellant’s evidence is consistent on that.”[13]
+[27] I find that this late capitulation - especially since it is clear from the respondent’s Reply that this was in issue - unnecessarily elongated the proceeding and he neglected to admit this sooner as contemplated in the criteria in paragraph 147(3)(h).
+[28] Another example that surfaced at the end of the second day of the hearing, was time spent relating to a letter sent by applicant counsel to respondent counsel on the preceding Friday before the commencement of the hearing the following Monday relating to the scope of the respondent’s expert report; the letter had been copied to the Court. Apart from the letter relying on the wrong rule and causing confusion for all, this could have been raised and addressed during a trial management conference call that had been initiated by the Court (several days before that letter was sent) with a view to exploring the resolution of potential issues including considerations involving the scope of the expert report.
+[29] Having clarified the letter during the hearing, applicant counsel then indicated that the contents of the respondent’s expert witness report would now be uncontested except for one document. Whilst ultimately his acquiescence obviated the need for expert testimony, had the letter been addressed sooner, the acceptance of the report could have also been dealt with sooner.[14]
+IV. Conclusion [30] In the circumstances of this case and based on the foregoing reasons, I conclude that costs in his appeal are not warranted because of the divided success and conduct of the applicant.
+[31] The applicant’s motion for reconsideration is dismissed.
+[32] Costs of this motion are awarded to the respondent and payable forthwith.
+Signed at Edmonton, Alberta, this 20th day of December 2016.
+“K. Lyons”
+Lyons J.
+APPENDIX
+COSTS
+GENERAL PRINCIPLES
+(2) Costs may be awarded to or against the Crown.
+…
+(4) The Court may fix all or part of the costs with or without reference to Schedule II, Tariff B and, further, it may award a lump sum in lieu of or in addition to any taxed costs.
+…
+(6) The Court may give directions to the taxing officer and, without limiting the generality of the foregoing, the Court in any particular proceeding may give directions,
+(a) respecting increases over the amounts specified for the items in Schedule II, Tariff B,
+(b) respecting services rendered or disbursements incurred that are not included in Schedule II, Tariff B, and
+(c) to permit the taxing officer to consider factors other than those specified in section 154 when the costs are taxed.
+(7) Any party may,
+(a) within thirty days after the party has knowledge of the judgment, or
+(b) after the Court has reached a conclusion as to the judgment to be pronounced, at the time of the return of the motion for judgment,
+whether or not the judgment included any direction concerning costs, apply to the Court to request that directions be given to the taxing officer respecting any matter referred to in this section or in sections 148 to 152 or that the Court reconsider its award of costs.
+CITATION:
+2016 TCC 291
+COURT FILE NO.:
+2011-2609(IT)G
+STYLE OF CAUSE:
+GLEN PIRART and HER MAJESTY THE QUEEN THE QUEEN
+PLACE OF HEARING:
+Nanaimo, British Columbia
+DATES OF HEARING:
+June 29, 30 and July 2, 2015
+REASONS FOR ORDER BY:
+The Honourable Justice K. Lyons
+DATE OF ORDER:
+December 20, 2016
+PARTICIPANTS:
+Counsel for the Applicant:
+Gavin Laird
+Counsel for the Respondent:
+Christa Akey
+COUNSEL OF RECORD:
+For the Applicant:
+Name:
+Gavin Laird
+Firm:
+Laird & Company
+Pitt Meadows, British Columbia
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] The remaining costs principles in Rule 147 that are not referenced in the Reasons for Order are attached as an Appendix to these Reasons for Order.
+[2] Canada v Landry, 2010 FCA 135, 2010 DTC 5093 (FCA). Other principles that have emerged in recent jurisprudence, relating to costs awards in this Court, include:
+a) Costs are to be compensatory and contributory (that is, what should the losing party’s appropriate contribution be to the successful party’s costs considering and weighing all relevant circumstances of the case including factors enumerated in the Rules)?
+b) The Court is not bound to defer to the Tariff.
+c) The acts of a party and events prior to the commencement of the legal proceeding may, in appropriate circumstances, be considered in awarding costs.
+d) The successful party’s actual costs may be considered and taken into account in appropriate cases. A losing party’s actual, approximate or estimated costs may also be considered.
+e) Costs awards on a solicitor/client basis are only to be awarded where there has been reprehensible, scandalous or outrageous conduct on the part of a party.
+See Velcro Canada Inc. v Canada, 2012 TCC 273, 2012 DTC 1222, Lau v Canada, 2004 FCA 10, [2004] FCJ No. 35 (FCA).
+[3] The applicant specified only paragraph 147(3)(d) and subsection 147(3.3) of the Rules in his motion materials. Arguments were advanced relating to collateral attack, abuse of process and issue estoppel as it relates to the issue of unreported income from cocaine sales. Although the applicant acknowledges, and I agree, those arguments produced mixed results, he then went on, without clearly explaining, to describe the impact of the results as being unequal.
+[4] Amended Notice of Appeal at paragraphs 13, 16, 19, 19a and 24.
+[5] Although pled as an amendment, this issue was not pursued at trial.
+[6] Reply to Amended Notice of Appeal, paragraphs 8 a), 10 m), 13 b) and 16. Respondent’s Written Submissions for hearing, paragraphs 76, 88 and 89.
+[7] He proposed the partnership income of $1 million was to be apportioned equally between him and the Estate of the late Wendy Anderson.
+[8] See also Transalta Corp. v Canada, 2013 FCA 285, 2014 DTC 5018 (FCA).
+[9] Belcourt Properties, supra, at paragraph 41.
+[10] Crichton was partially successful. In Cheta, the taxpayer was wholly successful and the Court also notes the appeals may not have been necessary or taken as long if the records had been in order or counsel had not been dilatory.
+[11] This can include conduct at the audit at the objections stage in exceptional circumstances.
+[12] Here the applicant failed to submit documents to the auditor when requested (for example, shareholder’s loan account and certain properties) and failed to inform his accountant about his marijuana operation so that the income could be reported. A misrepresentation was also made as to when that operation commenced and he failed to maintain adequate books and records.
+[13] Transcript of hearing – page 513, lines 2 to 9.

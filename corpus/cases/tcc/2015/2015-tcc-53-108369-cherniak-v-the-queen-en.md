@@ -1,0 +1,190 @@
+---
+title: "Cherniak v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/108369/index.do"
+last_modified: "2015-03-02"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2015 TCC 53"
+citation2: ""
+neutral_citation: "2015 TCC 53"
+decision_date: "2015-03-02"
+language: "en"
+item_id: "108369"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2765
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T10:28:49.972000+00:00"
+cases_cited_count: 4
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "17527620bca692c72ca7f1273b873c059ac3a64fe3fb22a31e53def5874ffd75"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Cherniak v. The Queen
+
+- Citation: 2015 TCC 53
+- Decision date: 2015-03-02
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2765, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Cherniak v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2015-03-02
+Neutral citation
+2015 TCC 53
+File numbers
+2008-272(GST)G
+Judges and Taxing Officers
+Robert James Hogan
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2008-272(GST)G
+BETWEEN:
+BRIAN DAVID CHERNIAK,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on December 9, 10 and 11, 2013 and
+November 24 and 25, 2014, at Toronto, Ontario.
+Before: The Honourable Justice Robert J. Hogan
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Craig Maw
+Roxanne Wong
+JUDGMENT
+The appeal from the assessment made under section 323 of the Excise Tax Act, notice of which is dated August 3, 2006 and bears number A107795, is allowed, and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment to give effect to the Concession (as defined in the attached reasons), the whole in accordance with the attached reasons for judgment.
+Costs are awarded to the Respondent.
+Signed at Ottawa, Canada, this 2nd day of March 2015.
+“Robert J. Hogan”
+Hogan J.
+Citation: 2015 TCC 53
+Date: 20150302
+Docket: 2008-272(GST)G
+BETWEEN:
+BRIAN DAVID CHERNIAK,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Hogan J.
+I. Overview [1] The issue in this appeal is whether the Appellant, Mr. Brian David Cherniak (“Mr. Cherniak”), was properly assessed by an assessment (the “Assessment”) under subsection 323(1) of the Excise Tax Act (the “ETA”) in respect of the unremitted goods and services tax (“GST”) of GMC Distribution Ltd. (“GMC”) in the circumstances described below.
+[2] The Appellant challenges the Assessment on two grounds. First, the Appellant claims that GMC does not have any GST liability and thus disputes the underlying assessment (the “Corporate Assessment”) issued against it. Secondly, the Appellant argues that he acted diligently to ensure that GMC complied with its GST collection and remittance obligations.
+II. Factual Background and Credibility Findings [3] In July of 2006, the Minister of National Revenue (the “Minister”) assessed the Appellant for the amount of $6,165,394.23 with respect to unremitted GST, interest and penalties owed by GMC for the reporting periods from March 1, 1999 to September 30, 2002. The particulars of the Assessment are set out in Appendix A to these reasons for judgment.[1]
+[4] On October 24, 2002, the Canada Revenue Agency (“CRA”) registered a certificate with the Federal Court under section 316 of the ETA with respect to the unpaid GST liability of GMC. On the same date, a writ of seizure and sale (the “Writ”) was issued by the Federal Court to the sheriff of the City of Toronto. The sheriff’s office was instructed in 2006 to execute the Writ. It was returned nulla bona on account of the fact that GMC had no assets. This prompted the Minister to assess the Appellant as noted above.
+[5] At the outset of the trial, the Respondent conceded that the amounts shown for the first ten periods listed in Appendix A, representing in total $8,482.71, could not be assessed against the Appellant because these amounts were not covered by the certificate filed with the Federal Court on October 24, 2002, as described above (the “Concession”). While acknowledging that the appeal should be allowed to the extent of giving effect to the Concession, the Respondent submits that the balance of the Assessment is accurate.
+[6] The Appellant’s evidence was, for the most part, presented by himself. He also called Mr. George Abela (“Mr. Abela”) to describe his alleged business dealings with GMC. As elaborated upon below, the Appellant’s and Mr. Abela’s accounts differed significantly on numerous points.
+[7] The Respondent called two CRA officers as witnesses. I heard from Mr. Ruffolo, the CRA collection officer who issued the Assessment against the Appellant. Mr. Yasotharan then testified concerning the circumstances that led him to issue the underlying Corporate Assessment against GMC.
+[8] The Appellant testified that GMC started carrying on the business of selling new and used computer parts in bulk in 1999 (the “Computer Parts Business”). The Appellant claims he was approached with this opportunity by a person he identified as Mr. John Nixey (“Mr. Nixey”). The business venture was operated through GMC even though neither Mr. Nixey nor the Appellant held an interest in GMC. According to the Appellant, the economic arrangement with Mr. Nixey was that the latter would receive a leased vehicle from another corporation belonging to the Appellant. The Appellant dealt with the banks. The Appellant alleges that Mr. Nixey handled all of the other day‑to‑day operations of the Computer Parts Business.
+[9] According to the Appellant, GMC acted as intermediary between Micro Computer Connections (“Micro Connections”), a sole proprietorship belonging to Mr. Morgan Jacobs (“Mr. Jacobs”), and Brocton Resources (collectively, the “Suppliers”), and Jag Distributors, Jay-Tek and perhaps FB Enterprises, StarDust.com, and Computer Micro-Electronic Canada (the “Customers”), entities controlled by Mr. Abela and/or his son. It appears from the invoices submitted as evidence that Micro Connections supplied substantially all of the computer parts to GMC. According to the Appellant, Mr. Abela and his son were in the business of exporting computer parts to Malta and the United States.
+[10] As intermediary between the Suppliers and the Customers, GMC earned a nominal gross margin of approximately 0.25%. The Appellant calculated the sale price of the computer parts by taking into consideration the purchase price and marking it up by approximately 0.25%. The Appellant then applied the GST rate to that total amount.
+[11] The Appellant claims that the first large amounts of computer parts were received in the months of July, August and September 1999. During examination in chief, the Appellant alleged that he only saw the parts that Mr. Nixey had left over because they were not being shipped, or that were part of the small inventory that was kept at the time. During cross-examination, the Appellant maintained that he had seen from 20% to 25% of all the shipments received. His evidence on this point was very uncertain.
+[12] The Appellant caused GMC to maintain an account at the Royal Bank of Canada (the “Royal Bank Account”) for receipts and payments related to the Computer Parts Business. When he received computer parts, the Appellant alleges, Mr. Jacobs instructed him to make payments to an account at the Canadian Imperial Bank of Commerce (the “CIBC Account”) through electronic funds transfers. The CIBC account was linked to an offshore account at a German bank in the Bahamas. The Appellant claimed that Mr. Nixey would fill in the amount of the payment or have the bookkeeper, the Appellant’s mother, complete the payment instructions. The Appellant would sign each request for payment.
+[13] The Appellant testified that the terms of payment were cash on delivery because the Suppliers did not offer GMC any credit terms and GMC did not have financing available to immediately pay for its supplies. GMC would buy the parts from the Suppliers and deliver them to the Customers on the same day. According to the Appellant, GMC’s Customers released payment before receiving the computer parts. When the Appellant was asked during the trial to provide further information as to how this payment system operated, he testified that he was not sure he had accurate information on that and that he did not remember every detail.
+[14] The evidence shows that the Royal Bank (“RBC”) expressed concerns about the amount and the nature of the payments made out of and the deposits made into the Royal Bank Account. RBC threatened the Appellant with closing the account unless information concerning the operations and the financial standing of the parties was provided. RBC eventually did close the Royal Bank Account.
+[15] During trial, the Appellant said that, when he met with the Suppliers in 1999, they provided him with a GST number either verbally or by fax. The Appellant alleges that he called the CRA to confirm whether the GST number was valid, but he was informed that the CRA could not provide him with that information. Nevertheless, Mr. Jacobs’ invoices for the period before August 30, 2000 submitted by the Appellant as exhibits during trial did not indicate a GST registration number.
+[16] A number of Mr. Abela’s observations on the circumstances surrounding his business dealings with GMC stood in stark contradiction to the Appellant’s version of the facts. The most notable example of their inconsistent testimony was their disagreement on how the Customers paid for the goods supplied by GMC.
+[17] As indicated, Mr. Cherniak stated that Micro Connections, the key supplier to GMC, required that GMC pay for the goods on or before delivery. Mr. Cherniak acknowledged that GMC did not have a line of credit or any funds to pay for the goods. Therefore, GMC demanded payment from its Customers prior to delivering the computer parts to them. In contrast, Mr. Abela insisted during his testimony that GMC’s Customers were in the same precarious financial situation as GMC. They could not pay for goods before receiving payment from their own customers. Mr. Abela testified that his clients paid on delivery or in the 30‑day period following delivery. From Mr. Abela’s testimony, it does not appear that GMC could have paid for the goods acquired from the Suppliers prior to delivery.
+[18] In the audit report for GMC, Mr. Yasotharan carefully documents the alleged flow of computer parts starting with Micro Connections. His findings in that regard are illustrated in Appendix B to these reasons. He observes that Micro Connections was not registered for GST purposes until August 30, 2000. This explains why there was no GST number indicated on the invoices provided to GMC. He believes that Micro Connections became a registrant because Mr. Jacobs had learned that GMC was being audited. Mr. Yasotharan also noted in his testimony that Micro Connections did not remit the GST that it purportedly collected from GMC.
+[19] Mr. Yasotharan further notes that payments from the final non-resident customers in the chain of transactions were made from an offshore bank account located in the Bahamas. Surprisingly, payments made by GMC to Micro Connections were also deposited in an offshore bank account with the Ansbacher Bank. He described it as odd that a Canadian supplier of computer equipment that allegedly purchased computer parts in Canada would deposit Canadian dollar payments in an offshore account. He could not identify the holders of these offshore bank accounts. GMC and the Appellant did not provide any credible evidence in this regard. Mr. Yasotharan’s conclusion was that the payments were simple window dressing designed to mask the fact that the entities inserted in the chain were engaged in artificial transactions designed to trigger large GST refunds in connection with fictitious zero-rated export sales. He also concluded that all documentation created into by the parties was window dressing.[2]
+[20] As pointed out by the Respondent’s counsel in his oral submissions, this type of arrangement is commonly known as a “carousel scheme”. Money flows in a predetermined manner opposite to the flow of fictitious transactions. The money starts and ends with the same parties. The GST is drawn out of the system on the basis of fictitious export sales of zero‑rated supplies that allow the exporter‑seller to receive large refunds in connection with tax that was never remitted in the first instance. Numerous buyers and sellers are inserted into the transaction flow to mask what is really going on.
+[21] Another striking contradiction relates to the Appellant’s and Mr. Abela’s testimony on who played a key role in the transactions. The Appellant claims that Mr. Nixey handled the day‑to‑day operations of the computer parts business. According to the Appellant, he himself handled only the bank transactions, which were based on invoices received and the payment instructions prepared at the direction of Mr. Nixey. In contrast, Mr. Abela insisted that he often dealt with Mr. Cherniak, including when he picked up goods.
+[22] Another curious example of contradictory evidence is Mr. Abela’s and the Appellant’s divergent testimony on the circumstances which led them to terminate their business dealings. Mr. Cherniak claimed that the entities controlled by Mr. Abela and his son discovered the source of GMC’s supply and arranged with Micro Connections to eliminate GMC as an intermediary. Mr. Abela alleges that this is not what happened. Rather, his customers suddenly stopped placing new orders. I surmise that it was no coincidence that the business dealings of the entities listed in Appendix B stopped following the commencement of CRA’s audit of their arrangements.
+[23] The following is a list of some other facts which further serve to discredit the Appellant’s evidence.
+(i) Mr. Cherniak claims that Mr. Nixey brought him the proposal to launch the Computer Parts Business. Mr. Nixey allegedly did all the work, came up with a plan for purchasing goods from, and selling them to, acquaintances of his, yet he had no ownership or profit interest in the business. According to Mr. Cherniak, 100% of the shares of GMC belonged to his brother. Early in his testimony, the Appellant alluded to the fact that Mr. Nixey was provided with the use of a vehicle by Amber Technology, along with an office on its premises. The impression the Appellant gave was that this was Mr. Nixey’s compensation for his work in the Computer Parts Business. When the hearing resumed many months later, the Appellant changed his story. He alleged that the vehicle and the use of an office were provided by Amber Technology to Mr. Nixey as part of the consideration for his purchase of shares in Amber Technology. The question left unanswered is what was Mr. Nixey’s and the Appellant’s economic interest in the business. The Appellant offered no reasonable explanation why he and Mr. Nixey apparently decided not to be shareholders of the entity that carried on the business.
+(ii) Mr. Cherniak claims that the computer parts were, for all intents and purposes, commodities, yet GMC never tried to diversify its supplier base. There is also no evidence to suggest that GMC tried to diversify its customer base.
+(iii) Mr. Abela acknowledged that he knew little about computers and their components. When cross-examined regarding the parts listed on the invoices prepared by Mr. Abela, he could not identify what functions were performed by the parts or, for that matter, who manufactured them. It was abundantly clear from the evidence that Mr. Abela did not have the experience or skills to run a multi‑million dollar computer parts business. Further, Mr. Cherniak knew Mr. Abela personally. He had hired him to do some construction work on Amber Technology’s premises. It is impossible for me to believe that Mr. Cherniak, who is an astute business person and a Chartered Management Accountant, did not discern Mr. Abela’s shortcomings in this regard.
+(iv) The gross margin on sales made by GMC was absurdly low. Mr. Cherniak acknowledged that GMC earned a net profit of $60,000 on sales of approximately $54,000,000. I cannot conceive how this low gross margin allowed GMC to absorb all of its costs.
+(v) Mr. Cherniak acknowledged that RBC expressed concerns over the financial transactions flowing through GMC’s account. Ultimately, RBC terminated its relationship with GMC.
+[24] In light of all of the above, I conclude that the evidence presented by the Appellant was neither reliable nor credible. The compelling inconsistencies noted above suggest that the Appellant did not testify truthfully. Mr. Abela’s evidence also fell well short of the mark. As a final observation, I note that Mr. Abela acknowledged that he declared bankruptcy soon after receiving an assessment for unremitted GST due by the corporations for which he acted as a director. Mr. Abela claims that he did not challenge the assessment made against him because he did not have the financial resources to do so. From his testimony, I infer that he likely concluded that he could not mount a successful defence. Many times, he answered questions on cross‑examination by claiming he could not recall the facts. The impression I was left with was that Mr. Abela was deliberately trying to mask his complicity in a so-called carousel scheme. Likewise, the Appellant left me with a similar impression.
+III. Analysis A. Were the Transactions Genuine? [25] The Appellant challenges the Corporate Assessment on the grounds that GMC was entitled to claim the input tax credits (“ITCs”) that were denied by the Minister.
+[26] The evidence leads me to the conclusion that GMC was not buying and selling computer parts. In my opinion, GMC could only pay the Suppliers’ invoices because the parties were not preoccupied with payment and credit risks. The payments flowed in a circular fashion, starting and ending in offshore bank accounts likely controlled by parties who were acting in concert. Therefore, I accept the Respondent’s theory that GMC participated with others in what amounted to be paper transactions as part of an elaborate ruse to defraud the government of tax revenue.
+[27] While the transactions were artificial and GMC was barred from claiming ITCs in respect of its fictitious purchases, it was nonetheless required to remit the GST that it charged and collected from its customers. Section 222 of the ETA provides that every person who collects an amount “as or on account of tax” is deemed to hold the amount in trust for the government. Such amounts are included in the definition of “net tax” under subsection 225(1) of the ETA. This triggers the requirement for the GST registrant to remit those amounts with its GST returns. This interpretation of the law was endorsed by the Federal Court of Appeal (the “FCA”) in 800537 Ontario Inc. v. The Queen.[3] Therefore, apart from the Concession, the Assessment against GMC is accurate.
+B. The Appellant’s Due Diligence Defence [28] The Appellant argues that as a director of GMC he exercised the degree of care, diligence and skill to prevent the failure to remit that a reasonably prudent person would have exercised in comparable circumstances. The Appellant made the dubious claim that any blame for GMC’s failure to remit the GST belongs to Mr. Nixey.
+[29] Subsections 323(1) and 323(3) of the ETA read as follows:
+If a corporation fails to remit an amount of net tax as required under subsection 228(2) or (2.3) or to pay an amount as required under section 230.1 that was paid to, or was applied to the liability of, the corporation as a net tax refund, the directors of the corporation at the time the corporation was required to remit or pay, as the case may be, the amount are jointly and severally, or solidarily, liable, together with the corporation, to pay the amount and any interest on, or penalties relating to, the amount.
+. . .
+A director of a corporation is not liable for a failure under subsection (1) where the director exercised the degree of care, diligence and skill to prevent the failure that a reasonably prudent person would have exercised in comparable circumstances.
+[30] The FCA’s approach to the directors’ due diligence defence under subsection 323(3) of the ETA has evolved over time as noted below. The original test, as formulated in Soper v. The Queen,[4] was an objective-subjective test that incorporated the common law subjective test into the statutory provision:
+. . . Rather than treating directors as a homogeneous group of professionals whose conduct is governed by a single, unchanging standard, that provision [subsection 227.1(3) of the Income Tax Act] embraces a subjective element which takes into account the personal knowledge and background of the director, as well as his or her corporate circumstances in the form of, inter alia, the company’s organization, resources, customs and conduct. . . .[5]
+[31] In March 2011 the FCA released its decision in Buckingham v. Canada,[6] where it held that the directors’ due diligence defence test in Soper had been replaced “by the objective standard laid down by the Supreme Court of Canada in Peoples Department Stores. . . . The reference to a reasonably prudent person is a clear indication that the test is objective rather than subjective.”[7] Even though the decision in Peoples Department Stores Inc. (Trustee of) v. Wise[8] dealt with the wording of the Canada Business Corporations Act, the provision dealing with directors’ liability has similar wording to subsection 323(3) of the ETA. Thus, on the basis of the statutory interpretation principle of the presumption of coherence between statutes, the FCA has interpreted the decision in Peoples Department Stores as setting the standard for a due diligence defence for directors’ liability under the ETA and the Income Tax Act (the “ITA”).[9]
+[32] In Buckingham, the FCA outlines as follows how to apply the objective standard:
+This objective standard has set aside the common law principle that a director's management of a corporation is to be judged according to his own personal skills, knowledge, abilities and capacities: Peoples Department Stores, at paragraphs 59 to 62. To say that the standard is objective makes it clear that the factual aspects of the circumstances surrounding the actions of the director are important as opposed to the subjective motivations of the director: Peoples Department Stores at paragraph 63. The emergence of stricter standards puts pressure on corporations to improve the quality of board decisions through the establishment of good corporate governance rules: Peoples Department Stores, at paragraph 64. Stricter standards also discourage the appointment of inactive directors chosen for show or who fail to discharge their duties as director by leaving decisions to the active directors. Consequently, a person who is appointed as a director must carry out the duties of that function on an active basis and will not be allowed to defend a claim for malfeasance in the discharge of his or her duties by relying on his or her own inaction: Kevin P. McGuinness, Canadian Business Corporations Law, 2nd ed. (Markham, Ontario: LexisNexis Canada, 2007) at 11.9.[10]
+[33] This evaluation should not be undertaken, however, without considering the particular circumstances facing the corporation and the appellant. The FCA, in Buckingham, asserted that contextual factors are part of an objective analysis.[11]
+[34] The FCA in Buckingham specifically notes that, in applying the test under subsections 227.1(3) of the ITA and 323(3) of the ETA, one must consider a director’s actions undertaken to prevent a failure to remit.[12]
+[35] The Appellant contends that he should not be required to bear the corporation’s GST liability because the corporation’s failure to remit the GST occurred without his knowledge and was due to circumstances beyond his control. When he discovered the failure, it was too late for him to do anything about it.
+[36] The Appellant tried his best to place the blame for GMC’s failure to remit the GST squarely on Mr. Nixey’s shoulders. Despite the Appellant’s best efforts in this regard, he failed to establish that he was an unsuspecting victim of a ruse implemented by Mr. Nixey. On the contrary, there were many suspicious and unusual circumstances that show that the Appellant was an active participant in the arrangement. For example, the Appellant acknowledged that GMC’s Suppliers needed to be registered for the GST and to provide GMC with proof of their registration in order for GMC to be able to claim ITCs on its purchases. In spite of this, the Appellant did not take adequate steps to ensure that the Suppliers had valid GST numbers. The evidence shows that no registration number was shown on the invoices that GMC received from the Suppliers. He claims that he inquired about and received a GST number from Micro Connections when GMC commenced purchasing goods from Mr. Jacobs. However, when he was asked by the CRA auditor to produce the number allegedly provided by Mr. Jacobs at the outset of his dealings with GMC, the Appellant provided the auditor with the number obtained by Mr. Jacobs only after the audit had commenced. There is not a shred of reliable evidence to support Mr. Cherniak’s assertion that he looked into this matter. The volume of purchases and sales was huge for a new business. Payments were made to an offshore bank account. RBC asked questions, yet Mr. Cherniak claims he did not have any reason to worry.
+[37] It was Mr. Cherniak’s evidence that Mr. Nixey handled all of the day‑to‑day operations of the computer business. His evidence was contradicted by that of Mr. Abela.
+[38] Mr. Cherniak’s description of his business relationship with Mr. Nixey is simply unbelievable. He claims that Mr. Nixey brought GMC the opportunity and that he worked ceaselessly to make the business a success, yet he acknowledges that Mr. Nixey was not paid for his services and did not have an ownership interest in GMC. He implied that Mr. Nixey enjoyed the use of a leased truck, but this vehicle and the use of an office were supplied by Amber Technology, a corporation controlled by Mr. Cherniak. Later in Mr. Cherniak’s testimony, he claimed that these perks had nothing to do with Mr. Nixey’s role in the Computer Parts Business. Mr. Nixey apparently negotiated the perks as part of the consideration for a capital investment in Amber Technology.
+[39] As a final observation, I note that Mr. Cherniak did not call Mr. Nixey as a witness, although he was reminded by the Court that he could call additional witnesses when it became apparent that the hearing could not be completed in the time requested by the parties. He was also informed that he could compel reluctant witnesses to appear by subpoena. In spite of this, the Appellant chose not to call Mr. Nixey. I therefore infer that Mr. Nixey’s testimony likely would have contradicted the evidence presented by the Appellant.
+[40] In light of all of the above, I conclude that there is sufficient evidence of Mr. Cherniak’s complicity in allowing GMC to engage in non‑bona fide transactions. In summary, the evidence completely undermines the Appellant’s due diligence defence.
+[41] Therefore, the appeal is allowed only for the purpose of allowing the Minister to give effect to the Concession.
+[42] Costs are awarded to the Respondent.
+Signed at Ottawa, Canada, this 2nd day of March 2015.
+“Robert J. Hogan”
+Hogan J.
+CITATION:
+2015 TCC 53
+COURT FILE NO.:
+2008-272(GST)G
+STYLE OF CAUSE:
+BRIAN DAVID CHERNIAK v. HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+December 9, 10 and 11, 2013 and November 24 and 25, 2014
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Robert J. Hogan
+DATE OF JUDGMENT:
+March 2, 2015
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Craig Maw
+Roxanne Wong
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada
+Appendix B
+[1] Appendix A was included with the Respondent’s reply to the Appellant’s notice of appeal.
+[2] According to the witness, this includes courier shipment documents and any miscellaneous parts that the parties acquired to bolster their ruse.
+[3] 2005 FCA 333 at paras. 5, 9,14 and 17; see also Gastown Actors’ Studio Ltd. v. R., [2000] G.S.T.C. 108 at para. 10; and The Queen v. 1524994 Ontario Ltd., 2007 FCA 74.
+[4] 97 DTC 5407, [1997] F.C.J. No. 881 (QL) (FCA).
+[5] Ibid. at p. 5416 DTC, para. 37 (QL).
+[6] 2011 FCA 142, [2013] 1 F.C.R. 86, 2011 G.S.T.C. 74.
+[7] Ibid. at paras. 34-35.
+[8] 2004 SCC 68, [2004] 3 S.C.R. 461.
+[9] Buckingham, supra note 6 at para. 38.
+[10] Ibid.
+[11] Ibid. at para. 39.
+[12] Ibid. at para. 40.

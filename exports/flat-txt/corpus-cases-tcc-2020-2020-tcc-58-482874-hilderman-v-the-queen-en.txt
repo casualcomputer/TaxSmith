@@ -1,0 +1,648 @@
+Title: Hilderman v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/482874/index.do
+Corpus path: corpus/cases/tcc/2020/2020-tcc-58-482874-hilderman-v-the-queen-en.md
+Document type: case_law
+Last modified: 2020-07-23
+
+# Hilderman v. The Queen
+
+- Citation: 2020 TCC 58
+- Decision date: 2020-07-23
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4594, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Hilderman v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2020-07-23
+Neutral citation
+2020 TCC 58
+File numbers
+2014-4116(IT)G
+Judges and Taxing Officers
+Randall S. Bocock
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2014-4116(IT)G
+BETWEEN:
+GREGORY HILDERMAN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on November 5 and 6, 2018 and May 2, 2019 at Calgary, Alberta
+Before: The Honourable Mr. Justice Randall S. Bocock
+Appearances:
+Counsel for the Appellant:
+Norman D. Anderson
+Rami Pandher
+Counsel for the Respondent:
+Margaret McCabe Allan Mason
+JUDGMENT
+WHEREAS the Court has on this date published its Reasons for Judgment attached.
+NOW THEREFORE THIS COURT ORDERS THAT:
+The Appeal from reassessments made under the Income Tax Act (the “Act”) concerning the 2007, 2008 and 2009 taxation years is allowed solely to the extent of the following:
+a) for the 2007 taxation year, the Appellant incurred additional advertising and promotion expenses of $49,759, additional office expenses of $19,066 and additional motor vehicle expenses of $10,285; and,
+b) for the 2008 taxation, the Appellant incurred additional advertising and promotion expenses of $16,579, additional office expenses of $15,925 and additional telephone expenses of $2,465.
+2. The shareholder benefits reassessed under subsection 15(1) under the Act against the Appellant are reduced by the sum of $46,500 and $13,200 for the taxation years 2007 and 2008, respectively; such sums instead are to be reassessed on the basis of employment income received by the Appellant from Jonathan Financial Inc. pursuant to subsection 6(1) of the Act.
+3. Costs thrown away for the day of hearing set aside for closing submissions, namely May 2nd, 2019, are fixed at $3,500 and are payable to the Respondent by the Appellant, Gregory Hilderman.
+4. In addition, and in light of the pre-submission concessions of the Respondent, one set of costs in the cause is awarded to the Respondent and is assessed against the Appellant, Gregory Hilderman, in accordance with the applicable Tariff on a provisional basis; subject to the right of either party to make written submissions thereon within 30 days of the date of this judgment. If such submissions are received, the Court shall consider such submissions and may vary its provisional cost award, failing which this provisional cost award shall become final.
+Signed at Ottawa, Canada, this 23rd day of July 2020.
+“R.S. Bocock”
+Bocock J.
+Docket: 2014-4407(IT)G
+BETWEEN:
+JONATHAN FINANCIAL INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on November 5 and 6, 2018 and May 2, 2019 at Calgary, Alberta
+Before: The Honourable Mr. Justice Randall S. Bocock
+Appearances:
+Counsel for the Appellant:
+Norman D. Anderson
+Rami Pandher
+Counsel for the Respondent:
+Margaret McCabe Allan Mason
+JUDGMENT
+WHEREAS the Court has on this date published its Reasons for Judgment attached.
+NOW THEREFORE THIS COURT ORDERS THAT:
+The Appeal from reassessments made under the Income Tax Act concerning the 2007 and 2008 taxation years is allowed solely to the extent of the following:
+a) for the 2007 taxation year the Appellant incurred additional advertising and promotion expenses of $40,705 and additional office expenses of $21,502; and,
+b) for the 2008 taxation year the Appellant incurred additional advertising and promotion expenses of $62,257, additional office expenses of $17,386 and paid additional bonuses to various parties in the amount of $267,621.
+2. In light of the pre-submission concessions of the Respondent, one set of costs in the cause is awarded to the Respondent and is assessed against the Appellant, Gregory Hilderman, in accordance with the applicable Tariff on a provisional basis; subject to the right of either party to make written submissions thereon within 30 days of the date of this judgment. If such submissions are received, the Court shall consider such submissions and may vary its provisional cost award, failing which this provisional cost award shall become final.
+Signed at Ottawa, Canada, this 23rd day of July 2020.
+“R.S. Bocock”
+Bocock J.
+Citation: 2020TCC58
+Date: 20200723
+Docket: 2014-4116(IT)G
+BETWEEN:
+GREGORY HILDERMAN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Docket: 2014-4407(IT)G
+AND BETWEEN:
+JONATHAN FINANCIAL INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+COMMON REASONS FOR JUDGMENT
+Bocock J.
+I. INTRODUCTION
+[1] These appeals concern liability under the Income Tax Act, (the “Act”) for tax across two categories: denied business expenses (“denied expenses”) and unreported income (“unreported income”). The appeals further involve two additional bases of assessments: reassessment beyond the normal reassessment period (“statute barred issue”) and section 163(2) false statement penalties (the “penalties”). As to duration, the assessments reach across three taxation years: 2007, 2008 and 2009 and involve two related taxpayers, a corporation, Jonathan Financial Inc. (“JFI”) and its sole director, primary officer and controlling shareholder, Gregory Hilderman (“GH”). The bases of assessment against GH are in relation to related party taxable benefits and income conferred by JFI, unreported T4A income (the “T4A income”) and penalties.
+[2] The denied expenses for JFI span the 2007 and 2008 taxation years and the following expense categories: advertising and promotion; office expenses; bonuses; motor vehicle expenses; interest expense; and telephone expenses.
+[3] In turn, each of these disallowed expenses impact GH’s reassessed tax liability by virtue of subsection 15(1) of the Act should they be a shareholder benefit or, alternatively, subsection 6(1), should they be employee benefits or income and/or subsection 15(5) should they be stand-by automobile benefits. Beyond that, a life insurance premium paid by JFI in 2007, unreported T4 income and carryover of the 2008 denied interest expense to 2009 round out the reassessment liability for GH.
+[4] Throughout the appeal, the impact of this shareholder benefit versus employment income/benefit characterization on GH of any reassessed income and denied expenses remained contested. Both parties made concessions during trial while failing to agree on whether any remaining denied expenses or reassessed income, whether conceded or not, should be shareholder benefits (15(1)) or employment income (6(1)). Only after a description of the structure, business and facts in this appeal will a description of what remains in dispute be possible.
+II. FACTS
+[5] The appeals are fact intensive. The parties handed up an agreed partial statement of facts (the “PASF”). Many additional facts remained in dispute. Two days of testimony were required from two witnesses: GH and the CRA auditor who performed the audit throughout reassessment. The PASF described the complicated assessment and reassessment history and quantum in dispute during the relevant periods prior to trial and concessions by the parties. Summarized in Appendices A and B are the best approximation and summary of the reassessments across the taxation years, the two taxpayers and the categories lifted from the PASF. The appendices also include the post-evidence concessions by the parties.
+[6] For the purposes of flow within these reasons, the Court provides the following extracts from the PASF:
+(i) GH earns his living in the field of insurance, financial planning, estate planning and investment and controls and owns directly or indirectly, his Alberta company, JFI;
+(ii) JFI, through which GH mainly operates, is an insurance, financial planning, and estate planning firm. With GH at its helm, JFI sells financial products to its customers, including life insurance policies, and provides financial planning and financial advice. GH’s family, and expenses allegedly incurred by them, figure prominently in the appeal;
+(iii) JFI was assessed by the Minister of National Revenue (the “Minister”) for its 2007 and 2008 taxation years. GH was assessed by the Minister for his 2007, 2009 and 2009 taxation years (collectively, the “relevant period or time”);
+(iv) GH was married to S in the appeal years. Before that, he was married to J. during the relevant period, GH had 6 children, whose ages ranged from 2 up to 23 years (in 2007). One of GH’s children had a different mother by GH, L.A.; and
+(v) One young child, W, is severely disabled with bilateral perisylvian polymicrogyria, requiring constant care.
+[7] JFI had agreements with PPI Financial Group and Walton International Group Inc. and was licenced as an agent of record for the sales of insurance financial products for Walton International Group Inc.
+[8] JFI sold financial products and life insurance policies for Walton International Group Inc. and PPI Financial Group. JFI was paid a certain percentage of premiums from the sale of these financial products and insurance policies and earns commission when its agents sell a new insurance policy or investment. Walton International Group Inc. and PPI Financial Group represented the primary sources of income for JFI.
+[9] JFI paid consulting/management fees to K.T. International Holdings Ltd. K.T. International Holdings Ltd. paid GH T4 income.
+[10] In most provinces across Canada, GH conducted his business through JFI. However, in certain provinces (such as New Brunswick and Quebec) GH was required to conduct his business as a sole proprietor. JFI earned income through commissions earned through insurance sales. No other employees of JFI were responsible for earning the income of JFI, other than GH.
+[11] While JFI also operated under the trade name G2 Financial Group Inc. (an incorporated partnership), in several different provinces (including being registered in Ontario as Jonathan Financial Inc., also known as G2 Financial Group).
+[12] GH was the controlling mind of JFI. GH reviewed all expenses of JFI, maintained an expense journal for the business, and was the only signatory for the cheques issued by JFI.
+[13] The balance of the facts was gathered from testimony at the hearing. JFI claimed and deducted from its income amounts that paid for personal expenses ("Personal Expenses"). These included:
+a) vacations for the Hilderman family in Hawaii;
+b) travel costs for family members to visit the Hildermans in Calgary;
+c) clothing for Mrs. Hilderman and clothing and toys for the Hilderman children;
+d) jewellery and personal items for Mrs. Hilderman, including amounts which appear to be related to fur clothing items;
+e) lawn care and maid service for the Hilderman family home;
+f) food and maintenance costs related to family pets; and
+g) childcare for W.
+[14] JFI claimed a deduction for bonuses paid to persons who were not employees of JFI and claimed to have made payments of amounts to two of GH's adult children under an Employee Profit Sharing Plan ("EPSP"). GH's two adult children were merely summer employees of JFI in the years in issue. JFI did not declare a profit in the years in which the EPSP amounts were deducted.
+[15] The loan interest amounts claimed by GH appeared to arise from a series of loans made by GH to Jordan Energy and JFI in 2008 and 2009, a mortgage given with his wife for a cabin in Kimberley, British Columbia, and the purchase of shares of a stock called Resverlogix. Loan documents show that both GH and his spouse were liable for the loans. GH did not report any interest income received or receivable in his return for those years.
+[16] Similarly, JFI’s earnings primarily arose by virtue of the insurance and investment products sold through GH’s efforts. The clients purchasing these products were mainly physicians. These physicians undertook continuing medical education (CME). The CME sessions provided a ready reservoir of potential clients for GH. CME@Sea was the venue; physicians attended CME on cruise ships. As such, certain expenses related to these cruises were incurred by JFI so GH could attend and provide seminars and sell financial products for JFI.
+[17] Speaker biographies and CME@Sea agendas were produced by GH at the hearing. GH’s credentials, expertise and sessions were fulsomely described. His biographical sketch was as follows:
+Wealth Management – Mr. Greg Hilderman
+Greg has been a partner in G2 Financial for the past 12 years and practicing comprehensive financial planning for the past 23. He is a Certified Financial Planner, Chartered Life Underwriter and Chartered Financial Consultant and has spent the past 15 years specializing in retirement, tax and estate planning. Greg has been instrumental in reshaping how numerous physician groups are compensated, with a focus on improving their current and future lifestyle. Some of the groups he has worked with include Neo-Natologists, Radiologists, Thoracic Surgeons, Neurologists and the Oncologists of Albert and British Columbia.
+[18] His topics list in 2008 was as follows:
+Wealth Management – Mr. Greg Hilderman
+- Emerging trends to consider when structuring professional practices
+- Corporate Investing
+- Benefits of tax shelters and tax deferrals vs. savings
+- Discussion of various tax shelters available
+- Review of current and topical investment strategies for the 21st Century
+[19] On a cruise for promotion in 2007, GH gave the following two seminars:
+Monday, September 3, 2007
+9:45 – 10:35am - A Physician’s Financial Health in the 21st Century
+Greg Hilderman
+Greg will look at the impact of taxation on a Physician and his/her practice.
+10:35 – 10:45am - Question and Answer Session
+Thursday, September 6, 2007
+9:45 – 10:35am - Dr. Dollar vs. Dr. Sen$e
+Greg Hilderman
+Greg will outline and provide a financial comparison of an incorporated physician vs. a non-incorporated physician.
+[20] From the CME@Sea agendas tendered in evidence, GH appears to have been one of only two non-medical, non-scientific business, investment and/or tax advisors on any of the CME cruises.
+III. ISSUES, THE LAW GENERALLY AND PRELIMINARY MATTERS
+a) Issues
+[21] The following issues and questions are before the Court in these appeals for determination:
+a) Did the Minister properly disallowed the expenses claimed by JFI under section 18 of the Act because such amounts were paid in respect of personal expenses and therefore not incurred to earn income?;
+b) Did the Minister properly include the denied expenses as shareholder or third party benefits under subsection 15(1) and 56(2) of the Act?;
+c) Did the Minister properly disallow amounts claimed as interest by GH as not falling within paragraph 20(1)(c) of the Act?;
+d) Did the Minister properly assessed the 2007 taxation year of JFI under subsection 152(4) of the Act on the basis that JFI made a misrepresentation thereunder in filling its tax return for the year?; and
+e) Did the Minister properly assess JFI and GH penalties under sub-section 163(2) of the Act?
+b) The Law
+(i) Personal Expenses
+[22] In reporting profit, businesses are permitted to deduct certain costs incurred in the gaining and producing of business income pursuant to section 9 of the Act. However, under paragraphs l8(1)(a) and l8(1)(h) of the Act, businesses are not allowed to deduct personal or living expenses of its shareholders.
+[23] The Supreme Court of Canada, affirmed that business expenses are necessarily part of the determination of the profit of a business: Symes v. R, (1993) 4 SCR 695, 1993 CarswellNat H78, at paragraph 40. Further, the “well-accepted principles of business practice” approach noted by the Supreme Court prohibits amounts which lack an income-earning purpose. The expense should only be allowed where the purpose for it is for the gaining or producing of income by the taxpayer.
+[24] More specifically, in considering whether the purpose of an expense, which appears to be of a personal nature, is to gain or produce income from the business, in Symes the Supreme Court said:
+73. Upon reflection, therefore, no test has been proposed which improves upon or which substantially modifies a test derived directly from the language of paragraph l8(1)(a). The analytical trail leads back to its source, and I simply ask the following: did the Appellant incur child care expenses for the purpose of gaining or producing income from a business?
+74. As in other areas of law where purpose or intention behind actions is to be ascertained, it must not be supposed that in responding to this question, courts will be guided only by a taxpayer's statements, ex post facto or otherwise, as to the subjective purpose of a particular expenditure. Courts will, instead, look for objective manifestations of purpose, and purpose is ultimately a question of fact to be decided with due regard for all of the circumstances. For these reasons, it is not possible to set forth a fixed list of circumstances which will tend to prove objectively an income gaining or producing purpose. [Emphasis added]
+[25] As stated, JFI also paid profit sharing sums to two of GH’s children. These sums formed part of the disallowed expenses. Pursuant to section 144 of the Act, an employer may be entitled to deduct amounts paid to employees under a trust plan set up as an as Employee Profit Sharing Plan (EPSP) to share the profits of the business as an incentive with the employees who were involved in the earning of the profits for the business.
+[26] Three conditions apply in order for an employer taxpayer to be entitled the deduct EPSP payments: J.R. Saint & Associates v. R, 2010 TCC 168 at paragraph 13. These are:
+a) the payments are calculated from the profits of the business;
+b) the payments are handed to the trustee under the EPSP arrangement; and
+c) the amounts must be allocated from the EPSP trust to the employees that are beneficiaries under the trust.
+(ii) Characterization Shareholder Benefits or Third Party
+[27] Subsection 15(1) of the Act adds to the income of the shareholder any benefit conferred to the shareholder through his position as shareholder by virtue of the following:
+15 (1) If, at any time, a benefit is conferred by a corporation on a shareholder of the corporation, on a member of a partnership that is a shareholder of the corporation or on a contemplated shareholder of the corporation, then the amount or value of the benefit is to be included in computing the income of the shareholder, member or contemplated shareholder, as the case may be, for its taxation year that includes the time.
+[28] For the value of a benefit to be included in a shareholder's income under section 15(1), the benefit must be conferred with the shareholder's knowledge or consent, or in circumstances where the shareholder ought to have known he was receiving a benefit: Chopp v. R, [1995] 2 CTC 2946, 1995 CarswellNat 627(TCC), at paragraph 17; aff’d 1997 DTC 6014, 1997 CarswellNat 1768.
+[29] The Tax Court in Chopp, in determining whether a shareholder benefit exists, provided the following guidance for other courts considering the same question:
+Subsection 15(1) contemplates an appropriation for the benefit of a shareholder and/or a benefit or advantage conferred on a shareholder by a corporation. The Appellant was the sole shareholder of the corporation and must either be responsible for taking unto himself or setting aside for a special purpose something of value from the corporation or, as the directing mind of the corporation, be responsible for the bestowing or granting of a benefit, and at the same time in his personal capacity agree to accept it and adapt it for his own use.
+[30] In determining whether the shareholder received a benefit under section 56(2), the Court should consider four preconditions: Piersanti v. R, 2013 TCC 226 at paragraph 50:
+a) the disbursement must be made to a person other than the shareholder;
+b) the disbursement must be made at the direction or with the concurrence of the shareholder;
+c) the disbursement must be for the benefit of the shareholder or for the benefit of another person whom the shareholder wanted to benefit; and,
+d) the disbursement would have been included in the shareholder's income if it had been received by him.
+[31] The test for the deductibility of a proper employee expense is whether the expense would have been paid by a corporation to its shareholder had he not been a shareholder. In other words, would the corporation have incurred these expenses for an arms' length key employee as an employee and not a shareholder: Spicy Sports Inc. v. R, 2004 TCC 463 at paragraph 9. Greater analysis of the law concerning this characterization appears in paragraphs 82 to 89 below.
+(iii) Interest expense
+[32] Section 20(l)(c) of the Act allows the deduction of interest expenses provided two general requirements are met:
+a) the taxpayer must be able to trace the interest paid to a legal debt obligation for the use of the borrowed funds; and
+b) the taxpayer must be able to show that the use of the borrowed fiends had an eligible purpose under the Act pursuant to the Supreme Court of Canada's reasoning in Shell Canada Ltd. v. The Queen [1999] 3 SCR 622, but once shown the taxpayer’s legal structure and relationships must be respected.
+[33] The onus is on the taxpayer to trace the amounts borrowed to an eligible purpose: Bronfman Trust v HMQ 1 SCR 32 at paragraph 51. This involves drawing a line from the borrowing, which requires evidence of the principle amount borrowed and interest rate charged for the borrowing, to determine the eligible amount, to the current use of the funds.
+[34] The taxpayer must also establish an eligible income-earning use of the funds: Scragg v. R, 2009 FCA 180 at paragraph 11.
+[35] It is not sufficient to show that the borrowed money was lent to a corporation to establish an eligible use of the borrowed funds. The funds should be traced through to the corporation to determine the ultimate use of the funds by the corporation and whether that use is eligible.
+(iv) Statute Barred Assessments
+[36] To reassess an otherwise statute-barred taxation year, the Minister has the onus of first proving that JFI made a misrepresentation in filing its income tax return for the statute-barred year. Second, the Minister must then prove, on a balance of probabilities, that such misrepresentation was attributable to neglect, carelessness or wilful default: Nesbitt v. The Queen, (1996) FCJ No 19 (FCTD) at paragraph 10; Boyer v. Canada, 2008 TCC 88 at paragraph 16. Paragraph 152(4)(a) provides that an assessment or reassessment may be made after the taxpayer's normal reassessment period in respect of a taxation year only if the taxpayer or person filing the return has made any misrepresentation attributable to neglect, carelessness or wilful default, committed any fraud in filing the return.
+[37] Negligence is established under subparagraph 152(4)(a)(i) if it is shown that the taxpayer did not exercise reasonable care in respect of an amount reported. For example, in Venne v. The Queen, [1984] CTC 223 (FCTD) at paragraph 16, the Court stated:
+I am satisfied that it is sufficient for the Minister, in order to invoke the power under subparagraph 152(4)(a)(i) of the Act to show that, with respect to any one or more aspects of his income tax return for a given year, a taxpayer has been negligent. Such negligence is established if it is shown that the taxpayer has not exercised reasonable care. This is surely what the words “misrepresentation that is attributable to neglect” must mean, particularly when combined with other grounds such as "carelessness" or "wilful default" which refer to a higher degree of negligence or to intentional misconduct. Unless these words are superfluous in the section, which I am not able to assume, the term "neglect" involves a lesser standard of deficiency akin to that used in other fields of law such as the law of tort. (Emphasis added)
+[38] Courts have spoken regarding the meaning of exercising “reasonable care”. In Regina Shoppers Mall v. R, [1991] 1 CTC 297 at paragraph 18, the Federal Court of Appeal stated, “[w]here the Act is unclear, or the characterization of the facts doubtful, the trial judge correctly stated that the care exercised must be that of a wise and prudent person and … the report must be made in a manner that the taxpayer truly believes to be correct”.
+(v) 163(2) Penalties
+[39] Gross negligence required to support a penalty under subsection 163(2) is of a higher order than that required to permit the Minister to reassess outside the normal reassessment period under subsection 152(4): Venne, supra, note 30. In respect of gross negligence penalties, subsection 163(3) imposes the onus on the Minister. The Appellants submit that the Minister has failed to discharge that burden.
+[40] Even if the Minister is successful in opening the statute-barred year, two additional elements must be established in order to find the Appellants liable for gross negligence penalties: (i) a false statement in a return, and (ii) knowledge of, or gross negligence in the making of, participating in, assenting to or acquiescing in the making of that false statement. In contrast to simple negligence, gross negligence involves greater neglect than simply a failure to use reasonable care. Gross negligence involves a high degree of negligence tantamount to intentional acting or indifference as to whether the law is complied with or not. In Can-Am Realty Ltd. v. R, 94 DTC 6293, the Tax Court of Canada described the type of conduct that would be required to support a gross negligence ruling as "exceptional" and "flagrant" conduct in Can-Am Realty. Similarly, in Farm Business Consultants Inc. v. The Queen, [1994] 2 CTC 2450 (TCC), Justice Bowman (as he was then), stated:
+A court must be extremely cautious in sanctioning the imposition of penalties under subsection 163(2). Conduct that warrants reopening a statute-barred year does not automatically justify a penalty and the routine imposition of penalties by the Minister is to be discouraged … Moreover, where a penalty is imposed under subsection 163(2) although a civil standard of proof is required, if a taxpayer's conduct is consistent with two viable and reasonable hypotheses, one justifying the penalty and one not, the benefit of the doubt must be given to the taxpayer and the penalty must be deleted. (Emphasis added)
+c) Preliminary Matters
+(i) Change of counsel by Appellants
+[41] After receiving submissions, the Court reconvened as scheduled to hear final closing arguments on May 2, 2019. An out of time motion brought a few days before that date sought to relieve Appellant’s counsel of his retainer, name new counsel for closing submissions and adjourn the then scheduled hearing of closing arguments. Respondent’s counsel did not oppose the request, subject to costs. As a result, the Court issued an Order the gist of which follows:
+2. The Appellants’ motion under section 34 of the Rules is granted, such that the representation of the firm of Anderson, James, McCall as counsel of record is hereby discontinued and the firm of Field Law LLP, upon having received its consent to act in open Court, is hereby appointed counsel of record for both Appellants;
+3. The hearing of argument by oral submissions in this appeal is hereby discontinued;
+4. In place and stead of oral submissions, the Court shall hear and consider argument of counsel by written submissions in accordance with the following content and schedule below:
+(i) the Appellants’ primary arguments concerning the disputed assessment for tax liability (“tax arguments”) shall be served and filed on or before June 28, 2019;
+(ii) the Respondent’s reply tax arguments and primary arguments concerning subsection 163(2) penalties and subsection 152(4) statute-barred assessments (“penalty and statute-barred arguments”) shall be served and filed on or before July 31, 2019;
+(iii)the Appellants’ rebuttal tax arguments and reply penalty and statute-barred arguments shall be served and filed on or before August 30, 2019; and
+(iv) the Respondent’s rebuttal penalty and statute-barred arguments shall be served and filed on or before September 30, 2019.
+5. Costs of the day thrown away in respect of May 2, 2019 are awarded against the Appellants and in favour of the Respondent and shall be assessed by this Court in any event of the cause, after submissions on quantum from counsel, after judgment on the merits is rendered.
+(ii) Subsection 152(4) – Statute Barred Years of JFI – 2007
+[42] The Court will quickly lay this issue to rest. The Court’s finding of carelessness and/or wilful default on GH’s part is rooted in GH’s testimony and admissions. Many of the expenses included and deducted by JFI, and in dispute after concessions, were personal in nature. The suggestion they arose from honest mistake lacks credibility based upon GH’s testimony. Such facts heard in Court include:
+(i) GH’s dissatisfaction at learning his accountant had “charged back” to GH child care expenses deducted by JFI;
+(ii) GH was the person who submitted and determined which expenses, many subsequently conceded as personal, should be deducted;
+(iii) Expenses included for deduction were groceries, toys, fast food, medical expenses all charged to JFI’s credit card and deducted without variance, discernment or exception;
+(iv) GH described how he selected and highlighted expenses to be deducted by JFI, many of which were clearly personal; and
+(v) Elaborate efforts to pay T4 employment income to child-care givers from JFI’s account were described, rationalized and justified by GH during the hearing.
+[43] In summary, GH’s process of expense deduction for JFI is best described as probing, exploratory and iterative, a veritable “run it up the flag pole and see if it flies”. As seen from many of the concessions made by JFI, it simply failed. At best, where not intentional, care was not taken to analyze, decipher and split personal from business expenses. In fact, during the hearing it was clear this process would fall to the Court in many instances. These expense inclusions were obvious misrepresentations in 2007, while which combination of carelessness, negligence and/or wilful default remains indeterminate based upon the evidence before the Court.
+IV. ANALYSIS AND DECISION
+a) Denied Expenses of JFI
+[44] The method used by the Court in determining the denied expenses in the reassessment is as follows: examination of the original reassessment by year, the nature and quantum of the Appellant’s concessions, and the Respondent’s concessions and, consequently, the determination of the disputed reassessment by nature and quantum across taxation year.
+(i) Generally
+[45] The Respondent’s and Appellants’ concessions after evidence and/or submissions concerning expenses and bonuses were discernible as follows:
+1. For JFI
+2007
+2008
+Advertising and Promotion
+$445,798
+$40,705
+$66,689
+$523,656
+$62,257
+$17,286
+Office Expenses
+$68,375
+$21,502
+$33,932
+$75,511
+$17,386
+$20,196
+Bonus Payable
+$519,472
+$267,621
+Total
+$514,173
+$62,207
+$100,621
+$1,118,639
+$347,263
+$37,481
+Reassessed Amount
+Respondent’s Concessions
+Appellant’s Concessions
+Reassessed amount
+Respondent’s Concessions
+Appellant’s Concessions
+2. For GH
+2007
+2008
+Advertising and Promotion
+$460,071
+$49,759
+$168,013
+$16,579
+Office Expenses
+$74,943
+$19,066
+$24,896
+$15,925
+Bonus Payable
+$16,177
+$10,285
+Total
+$551,190.9
+$79,110
+$192,909
+$32,503
+Reassessed Amount
+Respondent’s Concessions
+Appellant’s Concessions
+Reassessed amount
+Respondent’s Concessions
+Appellant’s Concessions
+(iii) By Species or Group
+Advertising and Promotion
+2007
+Appellant’s Concessions
+[46] The concessions of the Appellant consist of:
+a) family travel costs for shareholders’ meeting in July 2006 and January 2007 held in Hawaii;
+b) carpet cleaning costs at his personal residence.
+Respondent’s Concessions
+[47] The nature of the Respondent’s concessions relate to:
+hotel and accommodation costs for GH;
+approximate cruise costs for GH;
+travel costs for GH;
+third party honoraria and conference registration costs relating to business promotion; and
+incidental expenses for GH on travel.
+Analysis and Decision
+[48] The Respondent’s characterization of the expenses still in dispute is the one which the Court adopts. Without exception, the balance of the disallowed office expenses concern the following:
+clothing expenses from various family members;
+flights for family members;
+cruise costs and accommodation for family members;
+spa expenses;
+toys and garden supplies;
+restaurant expenses for family members;
+food and groceries;
+recreational activities;
+jewelry; and
+building supplies.
+[49] The justification offered by GH, at least to the extent of the family cruise expenses, was that one Mr. Goel “strongly encouraged that my family members come on these cruises”. Beyond this assertion, there was little objective evidence. Mr. Goel did not testify. No written directive, communication or contract was produced referencing a term or provision of any agreement concerning the need for family to attend.
+[50] Beyond the concessions of the Respondent, the Court is not prepared to allow the deductibility of the balance of the denied advertising and promotion expenses. They are prima facie personal in nature. There is no credible evidence offered to suggest otherwise.
+2008
+Appellant’s Concessions
+[51] Similarly to 2007, the Appellants conceded expenses relating to shareholders’ meeting costs for family members and carpet cleaning at his residence.
+Respondent’s Concessions
+[52] In a similar fashion to 2007, the Respondent conceded that GH’s travel, accommodation and promotion expenses were deductible business expenses.
+Analysis and Decision
+[53] There is no meaningful difference between 2007 and 2008. The disallowed expenses still in dispute were personal in nature. No distinct evidence as between the two years’ expenses was offered by the Appellants. The Respondent’s position in the Minister’s reassessment, beyond the concessions as noted, stand.
+Office Expenses
+2007
+Appellant’s Concessions
+[54] The Appellant’s concessions were limited to landscaping expenses at GH’s personal residence.
+Respondent’s Concessions
+[55] The Respondent conceded that 50% of expenses incurred for a condominium sometimes used for client entertainment and promotion was deductible. In addition, The Respondent conceded the sum of $15,000 for each taxation year on account of the business use of GH’s personal residence.
+Analysis and Decision
+[56] The office expenses, beyond the concessions of the Respondent and Appellants, fall within the following list of claimed expenses:
+traffic and parking tickets;
+childcare expenses;
+housekeeping and cleaning;
+physiotherapy consult fees;
+landscaping; and
+clothing and services from department stores.
+[57] The justification for taking family members on cruises does not extend to office expenses. GH stated for the Court that he believed childcare expenses ought to be deductible because they allowed him to earn income. What provisions may exist for such deductibility of expenses personally, they are not corporate expenses of JFI. Moreover, there was no evidence of GH’s spouse’s employment or professional status. GH had not indicated in testimony that his spouse was unavailable to provide parent care, except perhaps during her required cruises. Much of the expense related to the special needs of one child. Again, these were personal expenses, albeit hefty ones. Other provisions of the Act may well afford deductibility and tax credits for such expenses. However, these are not deductible business expenses of JFI incurred for purposes of earning its income.
+2008
+Concessions
+[58] The concessions offered by both parties were consistently applied to similar species of office expenses in 2008 as those in 2007.
+Analysis and Decision
+[59] There is no distinction between 2007 and 2008 regarding office expenses because there was no distinct evidence offered by GH between the two years. As such, the analysis for 2007 applies to 2008.
+Bonuses
+2007
+[60] Neither party made concessions regarding bonuses in the 2007 taxation year.
+Analysis and Decision
+[61] The disallowed bonuses (excluding the EPSP amounts dealt with separately below) paid by JFI in 2007, extracted from the records of JFI, are as follows:
+Advance-Moyra (Hilderman) $5,000 Advance-L. Amatt (Laela) $39,500
+[62] At the hearing, no evidence supported the payment to Moyra Hilderman, GH’s daughter. Similarly, GH admitted the payments to Laela Amatt were for childcare expenses. No submissions by Appellants’ counsel suggested either payment was property deductible by JFI as a business expense. There is no basis factually for this Court to conclude these payments were deductible business expenses of JFI.
+2008
+Respondent’s Concessions
+[63] Some $267,620.99 was conceded by the Respondent for 2008 in this Bonuses category. These sums related to referral fees, management fees, commissions, consultant fees and salaries paid to service providers by JFI and/or GH related to their commercial undertakings. Specifically, these are as follows:
+Date
+Payee
+Rounded Amount
+August 2008
+Cruise Connections
+$81,159
+December 2008
+Cruise Connections
+$112,210
+February 2009
+DBS Capital Management
+$27,027
+March 2009
+DBS Capital Management
+$5,000
+Multiple Dates
+Kimberly Booth-consulting
+$27,225
+Multiple Dates
+May Concepcion
+$15,000
+Total
+_____________ $267,622
+Analysis and Decision
+[64] The following disallowed bonuses (aside from the EPSP amounts) remained in dispute:
+Payee Amount
+Joanell Skykora $20,314
+Maria Cunha $22,442
+Maria Cunha (tax remittances) $6,003
+Vanessa Cunha $800
+A. Hilderman $400
+LA Capital (Marinna) $1,850
+Stephanie Kratchmer $717
+Candice Cunningham $2,325
+Laela Amatt $72,000
+________
+Total $126,851
+[65] No evidence was before the Court that any of the above payees were employees of JFI with the exception of Maria Cunha and Stephanie Kratchmer. Ms. Kratchmer seems to be the manager for the funds accessed by JFI for its mutual fund investments. In contrast, Maria Cunha was a personal nurse for GH’s disabled son. She replaced Joanell Skykora, also described above. Vanessa Cunha is Maria’s daughter. She was also a caregiver for GH’s son. Laela Amatt is the mother of GH’s mid-20-year-old son. These payments represented indirect child support payments. In GH’s own words, he indicated “I am writing them off as if they were spousal support”. Marinna (LA capital) appears to have been a secretary for someone in JFI’s Toronto office. No testimony was offered concerning the bonuses paid to A. Hilderman or Candace Cunningham.
+[66] Generally, the bulk of the disputed bonuses paid by JFI do not approach payments incurred for the purposes of its generating or earning income. The Appellant submissions provided little support concerning these expenditures as proper expenses of JFI. Slightly closer to that business purpose are the payments to Marinna (LA Capital) and Stephanie Kratchmer. However, aside from the self-serving statements of GH there are no invoices, collateral agreements referencing the obligation to pay or any third party evidence concerning these payments, amounts or the oddly isolated nature of the payment. On balance, the Court will not conjecture, based on the evidence, that there was a business or income earning purpose to the bonuses, particularly in light of the surrounding circumstances reflecting their incurrence.
+Telephone Expenses
+2008
+[67] The disallowed telephone expenses related solely to 2008 taxation year. All of the telephone expenses relating to the main business office in Toronto were allowed by the Minister. In total, there were four telephone lines. Two users were GH. One was his spouse and one registered to JFI in British Columbia. This last line appears to relate to the property in BC. One half of the expenses for the Rogers (4 user plan) were allowed: $9,859 of the total $19,718.
+Analysis and Decision
+[68] Although no breakdown among the four users was available, the Court will reasonably conclude that 50% of the disallowed telephone expenses were business expenses as they relate to the location in BC. The incremental sum of $2,465, on balance, was incurred for business purposes. GH’s efforts on behalf of JFI were extensively conducted by telephone and this was at least one-half of the reason and use of the phone and related expenses when GH would have been at this location.
+Commissions and Insurance Benefit
+[69] JFI paid $500 per month to Royal Bank for a life insurance policy on the life of GH. No copy of the policy or application for coverage were produced at trial.
+Analysis and Decision
+[70] The Minister’s assumption that the policy was issued pursuant to a custody agreement for the benefit of a child from another relationship stands. This expenditure was personal in nature and not incurred for the purposes of generating income. There was no evidence which challenged this assumption offered by the Appellants.
+Motor Vehicle
+2007
+[71] There were two cars leased by JFI for the taxation, a Honda and a Toyota. The Minister assessed standby charges against GH in the amounts of $16,177 in 2007.
+Analysis and Decision
+[72] The Respondent conceded that $10,285 should be removed as a subsection 15 (5) benefit against GH in 2007. This amount relates to the expenses of the Toyota. It was conceded by the Respondent that this vehicle was almost exclusively used for business purposes. The Appellants made no further submissions or offered any further evidence concerning other motor vehicle expenses or benefits. Therefore, $10,285 is the extent of the expense allowance.
+Unreported T4 Income of GH
+2008
+[73] There is no evidence or submissions from GH on the issue of unreported T4 income. The amount of reassessed T4 income was $48,578. Sources of such amounts appeared to be Walton International group Inc., PPI Québec Inc. and PPI Partners.
+Analysis and Decision
+[74] Purely on an evidentiary basis, the Minister’s assumptions in regards to this underreported income item shall stand. There is simply no explanation or evidence offered by the Appellants as to why these amounts were not included within the income of GH or had otherwise been reported by another taxpayer.
+Miscellaneous
+(i) Miscellaneous - EPSP payments
+[75] JFI executed a trust agreement dated March 2000 concerning the employee profit sharing plan (EPSP). As with such plans, the beneficiaries were to be persons employed by the employer, JFI. Employees must have completed one year of service and have been completely employed since JFI’s operations were commenced in order for amounts to be paid under such plan. Under this EPSP, sums were paid to GH’s children during their summer employment with JFI. Quite apart from that issue, in this appeal, there is noncompliance with the legal requirements for such employee profit sharing plans such as:
+1. there was no evidence before the Court payments into the EPSP were referable to profits; in fact, profits for JFI did not exist for taxation years 2007 and 2008;
+2. there was no evidence before the Court of any payments into the EPSP; and,
+3. there was no evidence of payment from the trustee, qua trustee, to GH’s children, the beneficiaries.
+[76] The payments made qualify on no basis above necessary to afford deduction as a bonus and/or employee expense to JFI as payments under the EPSP.
+b) Interest Expense of GH
+[77] GH claimed interest expense related to the three investments: purchase of the Kimberley BC property; a loan to JFI asserted to be for business purposes; and a loan to an oil and gas company, Jordan Energy Inc. (JEI). The amounts for interest expense were $119,249 and $117,846 in 2008 and 2009, respectively. The evidence before the Court consisted of GH’s testimony, a narrative form letter from GH’s accountant describing the advances and their purposes. In addition, a geologist’s opinion letter addressed to JEI described the prospects of natural gas extraction on the drilling site owned by JEI.
+[78] Single page loan agreements between JEI and JFI, on one hand, and GH and JFI, on the other, reflected advances relating to the asserted loans in respect of which the interest deduction was claimed by GH. In a few instances, there are cheques and deposits and a generic bank statement asserted to be evidence reflecting the loans. A Land Titles Act charge in favour of Bank of Montreal reflects a mortgage of $500,000 on the Kimberley property. Beyond this, there was no shareholder loan ledger reflecting the advances from GH to GEI or JFI. The JFI and JEI loans were floating rates of interest referable to “prime +1%”. The Bank of Montreal mortgage reflected an interest rate of “PLC rate plus/-1% per annum, as applicable”.
+[79] The Court cannot allow the interest expense claims for the following reasons:
+a. there is no documentation concerning the calculation of interest, all of the rates were referable to variable rates incorporated by reference into the documents; to know, approximate or even conjecture the quantum of interest claimed as a deduction, GH must prepare and submit an actual calculation of this to the Minister and/or the Court;
+b. the purpose of the mortgage on the Kimberly BC property could on balance have been a personal use recreational property and not a business or property investment; no evidence was offered to suggest its primary use or reason for acquisition;
+c. the prospect of JEI earning income from the gas well investment was not buttressed by any evidence; and
+d. the company loan by GH to JFI lacks necessary documentation to reliably prove its purpose, duration or actual cost of capital.
+As such, the interest expense is denied.
+c) Characterization of Denied Expenses: Shareholder or Employee Benefits
+(i) the parties’ positions
+[80] Considerable sums in 2007 and 2008, although claimed as such, are not deductible as business expenses by JFI. The question remains whether such amounts ought to be attributable to GH as a shareholder benefit under subsection 15(1) or as an employee benefit under paragraph 6(1)(a) of the Act. The parties take different positions on this point.
+[81] Appellant’s counsel submits that GH’s capacity as the primary “rainmaker”, key person service provider and the linchpin to JFI’s undertaking is conclusive. This should direct the Court to conclude that each disallowed expense otherwise would have rightfully and justifiably been paid to GH as employment income or benefits. To be clear, the “otherwise” is, had they not been deducted as JFI’s business expenses.
+[82] The legal tests are clearly met according to the Appellants. The Federal Court of Appeal has directed that only the smallest nexus to the capacity of office is necessary to defeat the allocation as a shareholder benefit; Pellozari v. MNR [1987] 1 CTC 2106 at paragraph 17; further illustrated by Youngman v. Her Majesty the Queen [1990] 2 CTC 10 at paragraph 18; Serrais v. Her Majesty the Queen, 2000 FCA 329 at paragraph 17 and Singing Skies v. MNR [1986] 2 CTC 2146 (TCC). Further, where expertise, experience, reputation and renown are critical to the success of the company, its ability to pay bonuses or salary is limited: Safety Boss Ltd. v. Her Majesty the Queen, 2000 DTC 1767 at paragraphs 51 to 53. In a one-person company, any bonus and fees are self-defining of the chief officer’s worth and mandate what an arms’ length employee would otherwise earn. Finally, such a payout method was common during the 2007 to 2008 period; it was undertaken in order to reduce corporate income to the small business limit by paying bonuses and salaries to the extent of such an amount.
+[83] The Respondent’s submissions take issue with the Appellants’ characterization of the smallest connection or nexus to employment argument. If the disallowed expenses by their very nature would not otherwise have been paid by an employer to an employee, then they cannot be characterized as an employment benefit. The decision as between shareholder and employment benefit cannot be divorced from the actions of the sole controlling shareholder and director. GH, through his unfettered control, chose not to pay salaries bonuses, but rather to deduct the disallowed expenses from the corporate receipts of JFI and never report or ascribe any amount of benefit or employment income to himself. The Appellants are prohibited from retroactive tax planning to minimize, or at least mitigate, the amount of tax where their initial transactions failed to do so: Bronfman Trust v. Her Majesty the Queen, 1 SCR 32 at paragraph 53.
+(ii) GH’s Testimony Summarized
+[84] While GH and JFI would clearly prefer to have the bulk of the disallowed expenses characterized as employment benefits, based upon the evidence, this cannot occur. GH’s testimony was unequivocal. The amounts expended by JFI were to his mind deductible by JFI because GH was, as the sole, controlling shareholder and primary contributor, one and the same as JFI.
+[85] The factual basis for this conclusion extrudes from GH’s own testimony. His obliteration of the lines between JFI’s undertaken and its subsidiary and his personal expenses (including those of his nuclear, extended and former family members) was complete. His universal use of the personal pronoun “I” to describe any corporate undertaking was striking. The services paid by JFI to the caregiver “taking care of my son… was the cost of me going out and earning a living”. Regarding the EPSP, GH said “… the individuals who worked in my office would have been my son and my daughter… both of whom were attending University ….at that time and working for me during the summer”. At one point, GH used the pronoun “we”, but proceeded to define it as “the royal we: JFI, G2 Financial and myself”. GH was also very much attuned to his status as a shareholder particularly when it came to expenses. He said, “I was under the impression that shareholders of the corporation are allowed two shareholder meetings per year … myself being a shareholder of the corporation and my family trust being a shareholder of the corporation, I usually took two trips per year… and deduct the cost [sic]”. Similarly, GH affirmed that he was “the person who determined what should be submitted as personal and what should be submitted as business”.
+[86] In concluding that the vast majority of denied expenses should be allocated to shareholder benefits, the Court makes the following conclusive observations. GH allocated himself no employment income from JFI during the relevant periods. The nature of the denied expenses deducted by JFI were not by and large expenses a reasonable employer would otherwise pay for the benefit of an arms length employee: child care expenses, gardening, family travelling expenses, personal clothing, groceries, beauty products and luxury goods to list some of the expenses sought to be deducted. GH’s approach and actions with these aggressive deductions were not inadvertent or marginal; sums deducted and disallowed were countenanced and calculated. GH had the opportunity and authority to allocate himself salary or employee benefits from JFI in 2007 and 2008, he deliberately and methodically refrained from and avoided doing so. Instead, he paid all such amounts to third parties. Based upon the evidence before the Court, the Minister’s assumptions concerning shareholder benefits have not been disturbed. GH wished to receive no employment benefits in 2007 and 2008 and his decisions shall be undisturbed, save to the extent of the Respondent’s concessions and the other impactful findings of this court in that regard below.
+(iii) all, nothing or in between
+[87] The Court has reviewed the disallowed expenses to determine whether some exception to its previous shareholder benefit determination should be made. In a line by line review of the denied expenses, the Court identifies two exceptions. There were two amounts paid by JFI in 2007 and 2008 which would qualify: $46,500 and $13,200, respectively. These amounts were paid to GH directly. These sums were paid to GH before his business promotion cruises on which GH was expending effort to gain income for JFI. Although they constituted a personal benefit, they were received as a precursor to offering services as an employee, rather than simply a benefit paid to third party for the benefit of a controlling shareholder.
+d) False Statement Penalties Subsection 163(2)
+(i) what GH did and what he said he did
+[88] As with most penalties levied under subsection 163(2), the tenor, approach and presentation of the Appellant’s evidence before the Court grounds and informs the Court’s decision. Any such testimony must touch upon the background and education, the degree and conspicuousness of the false statements and the role of the taxpayer in the occurrence of the false statements.
+[89] GH’s background and education concerning tax matters were substantively before the Court by virtue of the Appellant’s own evidence. GH’s knowledge of the complex issues of tax integration, small business deduction strategies and corporate/personal lifestyle structuring appeared in documentary evidence before the Court from his seminars on such topics on promotional cruises. He earned his living recommending investments and selling advice which concerned those very topics. As to authorship of the actions, GH unilaterally and exclusively directed which expenses JFI should deduct as business expenses. He admitted some were patently personal. This did not stop him.
+[90] The degree and scope of the misstatements, even after the Respondent’s concessions and this Court’s findings, were manifest and numerically significant. Through simple rounding, the upheld assessments of GH were in excess of $400,000 and $300,000 for 2007 and 2008, respectively. For JFI, the upheld assessments were in excess of $600,000 and $500,000.00, for 2007 and 2008, respectively. By any standard, these are very large sums. These large sums arose from the acts of GH’s own hand. In some cases, because of the “trial balloon” strategy. Remarkably, these included clothing, jewellery, toys and gardening on personal residences. In others, they occurred by inexplicable omission: T4 income from commissions received by GH in 2008. In yet others, they arose from odd, uninformed and stubborn assertions: deducting day care expenses and EPSP payments for GH’s children. These decisions applied to both GH and JFI. In some cases, deliberate acts of expenses personal items and in others, omissions of income and convenient conclusions of law not consistent with GH’s professional knowledge in the area.
+[91] In short, the penalties must stand. They exist for exactly this sanction; certain sophisticated taxpayers must appreciate that using corporate structures to mask inappropriate deductions and shield personal income from tax ultimately do not, or at least should not do so.
+V. SUMMARY AND COSTS
+[92] To summarize, GH shall be entitled to the additional expenses conceded by the Respondent prior to submissions for the 2007 and 2008 taxation years as described above and the additional telephone expense in the amount of $2,465 for 2008. The sums of $46,500 and $13,200 are to be allocated to GH as employment income rather than shareholder benefits. Otherwise, the amounts conceded by the Respondent concerning JFI remain the sole reductions to the Minister’s reassessments for the relevant periods.
+[93] The 162(3) penalties and statute barred reassessments are not disturbed.
+[94] Costs for the delay sought by GH at the day of hearing set aside for closing submissions, namely May 2nd, 2019, shall be fixed at $3,500 and payable by him to the Respondent within 30 days without the need for further submissions. In addition, one set of costs in the cause is awarded to the Respondent. That single set of costs, is assessed against GH in accordance with the applicable Tariff on a provisional basis; subject to the right of either party to make written submissions thereon within 30 days of the date of the judgment. If such submissions are received, the Court shall consider such submissions and may vary its provisional cost award, failing which the provisional cost award shall become final.
+[95] The Court recognizes, given the multitude, variety and minuteness of expenses, characterization and categories of reassessments and other issues related to the parties’ concessions in these appeals, that there may be some arithmetic and calculation omissions or uncertainties within these reasons. To the extent there are, the parties should make brief joint submissions to the Court regarding same.
+Signed at Ottawa, Canada, this 23rd day of July 2020.
+“R.S. Bocock”
+Bocock J.
+APPENDIX A
+Comparison of contested amounts between Statement of Agreed Facts and Cumulative Concessions
+Item
+Pre-hearing Balance
+Concession
+Maximum Balance of Reassessment in Issue
+Taxpayer: Jonathan Financial Inc. Year: 2007
+Total Expenses Denied
+$664,526.00
+I. Advertising and Promotion
+$445,798.00
+Respondent
+-$40,705.35
+$405,092.65
+Appellant
+$66,688.73
+II. Office Expenses
+$68,375.00
+Home
+-$15,000.00
+G2
+-$6,501.72
+Office
+$53,375.00
+$46,873.28
+Appellant
+$33,932.08
+III. Bonuses
+Hilderman
+$5,000.00
+$5,000.00
+L.A
+$39,500.00
+$39,500.00
+EPSP
+$103,500.00
+$103,500.00
+IV. Vehicles
+$2,353.00
+$2,353.00
+V. Interest Expense
+$117,306.00
+$117,306.00
+Resulting Denied Totals
+$781,832.00
+$62,207.07
+$719,624.19
+Taxpayer: Jonathan Financial Inc. Year: 2008
+Total Expenses Denied
+$1,128,665.00
+I. Advertising and Promotion
+$523,656.00
+Respondent
+-$62,256.69
+$461,399.31
+$17,285.62
+II. Office Expenses
+$75,511.00
+Respondent
+-$17,385.61
+$58,125.39
+Appellant
+$20,195.54
+III. Bonuses
+$519,472.00
+Cruise connection, DBS, MC
+-$267,620.99
+$251,851.01
+IV. Telephone Expenses
+$9,859.00
+$9,859.00
+V. Vehicles Expenses
+$167.00
+$167.00
+VI. Interest
+$16,854.00
+$16,854.00
+Resulting Totals
+$1,145,519.00
+-$347,263.29
+$798,255.71
+APPENDIX B
+Comparison of contested amounts between Statement of Agreed Facts and Cumulative Concessions
+Item
+Pre-Hearing Balance
+Concession
+Maximum Balance of Reassessment in Issue
+Taxpayer: Mr. Hilderman Year: 2007
+Section 15(1) Benefits
+$650,902.00
+I. Advertising and Promotion
+$460,071.23
+Respondent
+-$49,759.23
+$410,312.72
+Appellant
+II. Office Expenses
+$74,942.63
+Respondent-G5
+-$4,065.63
+Home Use
+-$15,000.00
+$55,876.37
+Appellant
+III. Telephone Expenses
+$6,506.00
+$6,506.00
+Respondent
+Appellant
+IV. Auto Expenses
+$16,177.00
+Respondent
+-$10,285.00
+$5,892.00
+Appellant
+V. Life Insurance Premium Benefit
+$6,000.00
+$6,000.00
+VI. Bonuses
+$109,383.00
+$109,383.00
+Resulting Totals
+$673,079.93
+-$79,109.86
+$593,970.09
+Taxpayer: Mr. Hilderman Year: 2008
+Section 15(1) Benefits
+$218,310.00
+Advertising and Promotion
+$168,013.00
+Respondent
+-$16,578.86
+$151,435.00
+Appellant
+Corporation (75)
+II. Office Expenses
+$24,896.00
+Respondent-G5
+-$924.51
+Home Use
+-$15,000.00
+$8,971.49
+Appellant
+III. Bonuses
+$25,401.00
+$25,401.00
+Walton Income (unreported income)
+$8,014.64
+$8,014.64
+PPI Quebec (unreported Income)
+$34,519.00
+$34,519.00
+PPI Partners (unreported Income)
+$6,044.00
+$6,044.00
+IV. Interest Expenses
+$119,249.00
+$119,249.00
+V. Denied Expense
+Resulting Totals
+$386,613.64
+-$32,503.37
+$353,634.13
+Taxpayer: Mr. Hilderman Year: 2009
+Denied Interest Expense
+$117,846.00
+$117,846.00
+Totals
+$117,846.00
+CITATION:
+2020TCC58
+COURT FILE NO.:
+2014-4116(IT)G
+STYLE OF CAUSE:
+GREGORY HILDERMAN AND HER MAJESTY THE QUEEN; JONATHAN FINANCIAL INC. AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Calgary, Alberta
+DATE OF HEARING:
+November 5 and 6, 2018 and May 2, 2019
+REASONS FOR JUDGMENT BY:
+The Honourable Mr. Justice Randall S. Bocock
+DATE OF JUDGMENT:
+July 23, 2020
+APPEARANCES:
+Counsel for the Appellants:
+Norman D. Anderson
+Rami Pandher
+Counsel for the Respondent:
+Margaret McCabe Allan Mason
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Norman D. Anderson Rami Pandher
+Firm:
+Anderson James McCall
+Barristers and Solicitors Field LLP Barristers and Solicitors
+For the Respondent:
+Nathalie G. Drouin Deputy Attorney General of Canada Ottawa, Canada

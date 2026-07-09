@@ -1,0 +1,147 @@
+---
+title: "Carnochan v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/22423/index.do"
+last_modified: "2006-01-05"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 TCC 13"
+citation2: ""
+neutral_citation: "2006 TCC 13"
+decision_date: "2006-01-05"
+language: "en"
+item_id: "22423"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2280
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T22:27:04.722000+00:00"
+cases_cited_count: 0
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "78f4d473c447ed0d74f54c197b7652f1a67511230ce7aeb337c1408ae5b59b77"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Carnochan v. The Queen
+
+- Citation: 2006 TCC 13
+- Decision date: 2006-01-05
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2280, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Carnochan v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-01-05
+Neutral citation
+2006 TCC 13
+File numbers
+2004-3838(IT)I
+Judges and Taxing Officers
+Georgette Anne Sheridan
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2004-3838(IT)I
+BETWEEN:
+PATRICIA A. CARNOCHAN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on December 13, 2005, at Regina, Saskatchewan,
+Before: The Honourable Justice G. Sheridan
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Penny Piper
+____________________________________________________________________
+JUDGMENT
+The appeal is allowed and referred back to the Minister for reconsideration and reassessment on the basis that for the period September to October 2003 inclusive, the Appellant was the "eligible individual" and entitled to receive the Child Tax Benefit for those months.
+Signed at Ottawa, Canada, this 5th day of January 2006.
+G. Sheridan
+Sheridan, J
+Citation: 2006TCC13
+Date: 20060105
+Docket: 2004-3838(IT)I
+BETWEEN:
+PATRICIA A. CARNOCHAN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+[1] This appeal concerns the eligibility of the Appellant, Patricia A. Carnochan, to receive Child Tax Benefits between January and December 2003. This period spans two base years, 2001 and 2002[1].
+[2] By Notice of Redetermination dated January 20, 2004, the Minister of National Revenue advised the Appellant that there had been an overpayment of benefits to her of $1,822.71 for the months of September to December (inclusive) 2003. The Appellant filed an objection and in July 2004, the Minister confirmed his redetermination. In her appeal to this Court, however, the Appellant asked the Court to consider her entitlement to the Child Tax Benefit for the period January to October 2003. The Respondent takes the position that the Court has no jurisdiction to expand the consideration of the Appellant's entitlement to benefits beyond the period set out in the Notice of Redetermination, September to December 2003. In respect of this latter period, the Minister argues that the Child Tax Benefit ought not to have been paid to the Appellant as during that time, she was no longer the "eligible individual" within the meaning of subsection 122.6 of the Income Tax Act.
+Background
+[3] The Appellant and her former spouse separated in February 2002. In April 2002, pursuant to an Interim Order, they were awarded joint custody of the children who were to spend alternate weeks with each parent. By Judgment dated July 18, 2003, Dawson, J. maintained joint custody but ordered that the children's primary residence would be with the Appellant's former spouse. The Judgment set out a detailed schedule of when and how long the children would spend with each parent, the effect[2] of which was that after July 18, 2003, the children were to be at their father's residence more than their mother's. According to the Appellant, however, this new schedule did not really come into effect until November 2003 when she began to work fulltime. Between July and October 2003, the alternating schedule originally established under the Interim Order was more or less maintained; it is upon this basis that she claims there was no overpayment to her of the Child Tax Benefit for September and October 2003, and that there ought to be a readjustment of the payment schedule imposed by the department for the period January to August 2003.
+[4] The Appellant represented herself and testified at the hearing. I found her to be credible in her explanation of the allocation of childcare duties between her and her former spouse from July to October 2003. I accept her evidence that notwithstanding the terms of the Judgment, during this period, the children effectively continued to spend an equal amount of time at the residence of each parent.
+[5] The Appellant's former spouse, K., was called by the Respondent. I found his evidence less credible than that of the Appellant. His body language and the evasive nature of his answers corroborated the Appellant's evidence in respect of how his hostility towards her limits his ability to be objective regarding her contribution to the care of the children. Rather than giving straight-forward answers to questions, whether in chief or on cross-examination, he formulated responses slanted to show his actions in their best light. Unlike the Appellant, who admitted to the mutuality of their failings, in his description of their childcare roles, K. tended to take the credit for all things positive while allocating blame for any negatives to the Appellant. Accordingly, I was unable to give much weight to his testimony.
+The Jurisdictional Issue
+[6] Before dealing with the determination of which parent was the "eligible individual", I will deal with the Court's ability to consider the Appellant's entitlement to any months other than those set out in the Notice of Redetermination. I accept the argument of counsel for the Respondent that pursuant to paragraph 169(1) of the Income Tax Act, the Court is without jurisdiction to consider any months beyond September to December 2003, the period identified in the Notice of Redetermination to which the Appellant objected; accordingly, it is not open to me to reallocate the benefits paid between January and August 2003.
+The "Eligible Individual" Issue
+[7] Turning now to the two months challenged by the Appellant in her notices of objection and appeal, September and October 2003, the Respondent argues that the Appellant had no entitlement to the Child Tax Benefit for these months as she was not the "eligible individual" under subsection 122.6 of the Act. It was agreed at the hearing that only two elements of this definition, paragraphs (a) and (b), are in issue; namely, whether the Appellant:
+(a) resides with the qualified dependant,
+(b) is the parent of the qualified dependant who primarily fulfils the responsibility for the care and upbringing of the qualified dependant,
+...
+[8] Whether the Appellant "resides with" her children is a question of fact[3]. Counsel for the Respondent argues that because the Judgment orders that after July 2003, the father's residence shall be the "primary residence" of the children, the Appellant cannot be said to have resided with her children in September and October 2003. I do not accept this argument: first, the definition of "eligible individual" does not require that such a person "primarily" reside with the children; mere residence is enough. Further, it is possible, for the purposes of the Act, for a person to have more than one residence. In this case, the family court determined that a joint custody order was in the best interest of the children[4] Although the Judgment designates the father's home as the "primary residence", it also orders that the children "shall reside with [the Appellant] at all reasonable times [as further described]"[5].
+[9] The evidence shows that during September and October 2003, the children spent approximately half their time at their mother's house. This was the former matrimonial home where each child had his own bedroom and kept his personal belongings. They continued to attend the same school they had prior to the breakdown of their parents' marriage, located near the Appellant's home. Both parents' addresses were on file at the children's school. Both parents were expected to receive and initial the "agenda"[6] for the younger child. The children took their meals, did their homework, played with friends and slept at their mother's house. In the circumstances of joint parenting, I am satisfied that the Appellant did "reside with" her children for the purposes of paragraph (a) of the definition of "eligible individual".
+[10] Looking now at whether, under paragraph (b) of the definition, the Appellant was the parent who "primarily fulfilled" the responsibility for the "care and upbringing" of the children in September and October 2003, the Court must consider the evidence in light of the factors set out in Regulation 6302:
+For the purposes of paragraph (h) of the definition "eligible individual" in section 122.6 of the Act, the following factors are to be considered in determining what constitutes care and upbringing of a qualified dependant:
+(a) the supervision of the daily activities and needs of the qualified dependant;
+(b) the maintenance of a secure environment in which the qualified dependant resides;
+(c) the arrangement of, and transportation to medical care at regular intervals and as required for the qualified dependant;
+(d) the arrangement of, participation in, and transportation to, educational, recreational, athletic or similar activities in respect of the qualified dependant;
+(e) the attendance to the needs of the qualified dependant when the qualified dependant is ill or otherwise in need of the attendance of another person;
+(f) the attendance to the hygenic (sic) needs of the qualified dependant on a regular basis;
+(g) the provision, generally, of guidance and companionship to the qualified dependant; and
+(h) the existence of a court order in respect of the qualified dependant that is valid in the jurisdiction in which the qualified dependant resides.
+[11] I am satisfied that the Appellant was the parent who primarily fulfilled the responsibilities for the care and upbringing of the children in September and October 2003. Because of the forthcoming nature of the Appellant's testimony, there was more credible evidence before the Court of her involvement with them. While K. and the Appellant played an equal part in the medical and hygienic needs of the children, I find that the balance is tipped slightly in favour of the Appellant in all other respects. She was more likely to have made their meals when they were with her; often, when K. dropped them in the morning, he had not fed them leaving that task to the Appellant or the babysitter they shared. Similarly, the Appellant had often fed the children before K. came to pick them up after work, thus relieving him of this duty when they returned to his residence. She took a daily interest in the children's schoolwork and activities, including swimming lessons for the younger child on Tuesdays and Thursdays. Although K. testified that he ensured that the older child attended community activities near his residence for his age group on Wednesdays, the evidence showed he was not at his father's home on those evenings. Further, K.'s testimony revealed that any failure on the part of the Appellant to keep abreast of school programs or the children's medical needs, were often the direct result of his deliberately having kept her in the dark about them. Equally troubling are K.'s efforts to discredit the Appellant in the eyes of her children. Such actions are not consistent with contributing to "the maintenance of a secure environment" or "the provision of guidance" for the children; nor are they respectful of "the existence of a court order" at the heart of which is the creation of a joint custody environment that is in the best interest of the children. For all of these reasons, I am satisfied on a balance of probabilities that for the months of September and October 2003, the Appellant primarily fulfilled the responsibilities for the care and upbringing of the children.
+[12] Accordingly, the appeal is allowed and referred back to the Minister for reconsideration and reassessment on the basis that for the period September to October 2003 inclusive, the Appellant was the "eligible individual" and entitled to receive the Child Tax Benefit for those months.
+Signed at Ottawa, Canada, this 5th day of January 2006.
+G. Sheridan
+Sheridan, J
+CITATION: 2006TCC13
+COURT FILE NO.: 2004-3838(IT)I
+STYLE OF CAUSE: PATRICIA A. CARNOCHAN AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Regina, Saskatchewan
+DATE OF HEARING: December 13, 2005
+REASONS FOR JUDGMENT BY: The Honourable Justice G. Sheridan
+DATE OF JUDGMENT: January 5th, 2006
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Penny Piper
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] 2001 Base Year: July 2002-June 2003; 2002 Base Year: July 2003-June 2004.
+[2] Exhibit A-2, paragraph 47
+[3] Thomson v. M.N.R., [1946] S.C.R. 209; Eliason v. Canada [1993] 2 C.T.C. 2635 (T.C.C.)
+[4] Paragraph 47(a), Exhibit A-2.
+[5] Paragraph 47(c), Exhibit A-2
+[6] Exhibit A-4, a kind of child's "daytimer" providing room for entries by the teacher and parents for each school day

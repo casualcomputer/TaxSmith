@@ -1,0 +1,210 @@
+Title: SiGMA-Tex Inc. v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/521188/index.do
+Corpus path: corpus/cases/tcc/2023/2023-tcc-175-521188-sigma-tex-inc-v-m-n-r-en.md
+Document type: case_law
+Last modified: 2023-12-21
+
+# SiGMA-Tex Inc. v. M.N.R.
+
+- Citation: 2023 TCC 175
+- Decision date: 2023-12-21
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5646, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+SiGMA-Tex Inc. v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2023-12-21
+Neutral citation
+2023 TCC 175
+File numbers
+2022-931(CPP), 2022-932(EI)
+Judges and Taxing Officers
+David E. Spiro
+Subjects
+Canada Pension Plan
+Decision Content
+Docket: 2022-931(CPP)
+BETWEEN:
+SiGMA-TEX INC.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+Appeal heard on common evidence with the appeal of
+SiGMA-Tex Inc. – 2022-932(EI) on May 29, 2023, at Toronto, Ontario with written submissions received from the parties on
+June 30, 2023 and July 26, 2023
+Before: The Honourable Justice David E. Spiro
+Appearances:
+Agent for the Appellant:
+Stanko Kacar
+Counsel for the Respondent:
+D'ette Bourchier
+JUDGMENT
+The appeal of the Respondent’s decision made under subsection 27.2(3) of the Canada Pension Plan on March 15, 2022 is dismissed, without costs.
+Signed at Ottawa, Canada, this 21st day of December 2023.
+“David E. Spiro”
+Spiro J.
+Docket: 2022-932(EI)
+BETWEEN:
+SiGMA-TEX INC.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+Appeal heard on common evidence with the appeal of
+SiGMA-Tex Inc. – 2022-931(CPP) on May 29, 2023, at Toronto, Ontario with written submissions received from the parties on
+June 30, 2023 and July 26, 2023
+Before: The Honourable Justice David E. Spiro
+Appearances:
+Agent for the Appellant:
+Stanko Kacar
+Counsel for the Respondent:
+D'ette Bourchier
+JUDGMENT
+The appeal of the Respondent’s decision made under subsection 93(3) of the Employment Insurance Act on March 15, 2022 is dismissed, without costs.
+Signed at Ottawa, Canada, this 21st day of December 2023.
+“David E. Spiro”
+Spiro J.
+Citation: 2023 TCC 175
+Date: 20231221
+Dockets: 2022-931(CPP)
+2022-932(EI)
+BETWEEN:
+SiGMA-TEX INC.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGMENT
+Spiro J.
+Overview
+[1] The Appellant, SiGMA-Tex Inc., has appealed decisions made by the Minister of National Revenue (the “Minister”) on March 15, 2022. Those decisions effectively confirmed the Minister’s rulings that the Appellant was liable to withhold and remit contributions under the Canada Pension Plan (“CPP”) and premiums under the Employment Insurance Act (“EI Act”) in 2018. The amounts at issue in these appeals are $10,235 in CPP contributions and $4,735 in EI premiums assessed to the Appellant for 2018.
+[2] These appeals present two issues. The first issue is whether is the Appellant acted as a “placement agency” in placing Jerome Arrieta, Edi Friscic, Hanan Metry, Gurpreet Singh Sohal and Valeri Yanev (the “engineers”) with RCM Technologies Canada Corp. (“RCM”) in 2018. RCM is a large American engineering company specializing in power plant engineering.
+[3] The second issue is whether the engineers were employees of RCM in 2018. The Respondent’s decisions were based on the assumptions that the Appellant was a “placement agency” and that the engineers were employees of RCM.
+[4] The appeals were heard on common evidence. The Appellant’s sole shareholder, Mr. Stanko Kacar, testified at trial as did one of the engineers, Mr. Arietta. I have taken Mr. Arietta’s evidence as reflecting the evidence that the other four engineers would have given.
+Issue #1
+Facts - Was the Appellant a “Placement Agency”?
+[5] The Appellant was incorporated in 2002 by Mr. Kacar who is an electrical engineer specializing in power plant automation and relay protection.
+[6] At some time in 2018, the Appellant began providing services to RCM and earning income based on the 4% commission arrangement discussed further below. The first issue is whether those services were the services of a “placement agency”.
+[7] A manager at RCM contacted Mr. Kacar asking if he knew of anyone who would be able to help RCM expand into Canada. RCM was looking for independent contractors whose performance they could evaluate before deciding whether to make them permanent employees. The Appellant was interested in assisting RCM in this effort.
+[8] The agreement between the Appellant and RCM was an oral agreement to the following effect:
+RCM would pay the Appellant 4% of each engineer’s compensation in consideration for
+the Appellant suggesting and interviewing potential candidates;
+the Appellant drafting an agreement between the engineers and RCM; and
+the Appellant invoicing and facilitating payment from RCM to each engineer.
+[9] The last two activities were ancillary to the first.
+[10] The Appellant sourced the engineers from various places, including social events and a website on which engineering jobs were posted. Mr. Kacar would interview the candidates by telephone or video to determine whether they were qualified to do the work for RCM.
+[11] When an engineer’s contract expired, the Appellant’s engagement with RCM with respect to that engineer was complete and the Appellant would no longer invoice and charge RCM for its services. After the engineers completed their work, three of them left RCM and two of them (Valerie Yanev and Edi Friscic) were formally hired as employees of RCM.
+[12] The Appellant found work for one other engineer at a company other than RCM. The Appellant’s client in that case was BM Engineering. BM Engineering paid the Appellant a finder’s fee of $2,500. The engineer started on a three‑month contract and was formally hired as an employee of BM Engineering in 2017 or 2018.
+Law and Analysis – Was the Appellant a “Placement Agency”?
+[13] The Canada Pension Plan Regulations (the “CPP Regulations”) include a definition of “placement agency” but neither the EI Act nor the Employment Act Regulations (the “EI Regulations”) include such a definition. In Wholistic Child and Family Services Inc. v MNR, 2016 TCC 34, this Court held that the meaning of “placement agency” for purposes of the CPP Regulations applies equally to the EI Regulations.
+[14] Subsection 34(2) of the CPP Regulations defines “placement agency” as an organization that places individuals in a work situation for “a fee, reward or other remuneration”:
+34(1) Where any individual is placed by a placement or employment agency in employment with or for performance of services for a client of the agency and the terms or conditions on which the employment or services are performed and the remuneration thereof is paid constitute a contract of service or are analogous to a contract of service, the employment or performance of services is included in pensionable employment and the agency or the client, whichever pays the remuneration to the individual, shall, for the purposes of maintaining records and filing returns and paying, deducting and remitting contributions payable by and in respect of the individual under the Act and these Regulations, be deemed to be the employer of the individual.
+34(2) For the purposes of subsection (1), placement or employment agency includes any person or organization that is engaged in the business of placing individuals in employment or for performance of services or of securing employment for individuals for a fee, reward or other remuneration.
+[15] The question to be determined is whether the Appellant was required to provide any services in addition to providing personnel. In Supreme Tractor Services v MNR, 2001 CanLII 748 (TCC), this Court stated:
+[13] The question as I see it is not so much about who is the ultimate recipient of the work or services provided as this will cover every single possible subcontract situation, but rather who is under obligation to provide the service. If the entity alleged to be the placement agency is under an obligation to provide a service over and above the provision of personnel, it is not placing people, but rather performing that service and is not covered by the Regulations.
+[emphasis added]
+[16] In Supreme Tractor Services, the appellant corporation was held not to be a placement agency as it was required to supply the contracted services when the worker was unavailable. The Court found that the appellant corporation:
+[38] … was not engaged in the business of placing individuals in employment or performance of services or of securing employment for individuals for a fee or reward or other remuneration. Its business was the provision of services themselves in the field of road building and maintenance. It sought out contracts for work. It had a responsibility to meet the terms of these contracts and provide the service for which it contracted. In doing so, it sometimes hired regular employees and at other times engaged independent contractors to carry on the work. But it was the work itself which it contracted to undertake, not simply to provide personnel to the MD for some fee or reward. If the Worker in question became unavailable, it had an ongoing legal responsibility to continue to provide the service. That, it seems to me, is the essential difference. I see no difference here from a subcontractor operating on a building site who places either employees or subcontractors onto the site to carry out the work. That does not make that subcontractor an employment or placement agency. The subcontractor is committed to provide the services to the owner or general contractor to do the construction work in question in accordance with the provisions of the contract.
+[17] Here, the Appellant was engaged in the business of placing engineers with RCM for a fee. The Appellant entered into agreements with the five engineers under which the Appellant placed them with RCM for a specific period of time in consideration for the payment of 4% of the amount of each contract.
+[18] Our facts are unlike those in Supreme Tractor Services. Here, the Appellant was not required to provide the engineering services to RCM in addition to providing the engineers to RCM. Mr. Kacar testified that the 4% fee the Appellant received from RCM was for suggesting potential candidates, doing the interviews, drafting the agreements, and invoicing and facilitating payment to the engineers. Mr. Kacar testified that if more had been required of the Appellant, he would have negotiated for more than 4%.
+[19] The only engineer to testify, Mr. Arrieta, testified that when he took a day off, he would tell his manager at RCM but would not tell Mr. Kacar. Why not? Because the Appellant was not responsible for providing anyone else to do the work.
+[20] For all of those reasons, I conclude that the Appellant acted as a “placement agency” for purposes of the CPP Regulations and the EI Regulations in 2018.
+Issue #2
+Facts - Were the Engineers Employees of RCM?
+[21] The agreement drafted by Mr. Kacar between the Appellant and each engineer included the following self-serving statement:
+… each worker engaged in this Contractor Agreement is an independent contractor to SiGMA-TEX Inc. and each subcontractor is not deemed an employee of SiGMA-TEX Inc. or RCM Technologies.[1]
+[22] The engineers were required to follow the policies and procedures of the Appellant and RCM. A manager at RCM supervised the engineers and approved and verified their hours as recorded on their timesheets. The engineers were required to report to their project lead at RCM who supervised their work.
+[23] The remuneration of the engineers was based on a “normal work week” meaning 40 hours each week, Monday through Friday, 8 hours per day. They were paid at a fixed hourly rate for the number of hours they worked each week.
+[24] RCM would reimburse the engineers for travel or meal expenses incurred while working outside RCM’s offices when RCM would ask them to do so. RCM would remit those amounts to the Appellant who would remit them, in turn, to the engineers.
+[25] The agreement between the Appellant and the engineers included a confidentiality clause. That provision effectively precluded the engineers from sending someone else to replace them if they were unable to work.
+[26] Mr. Arrieta was the only engineer to testify. His agreement with the Appellant ran from November 13, 2017 to February 16, 2018. Mr. Arrieta had just graduated from university in 2017 when he learned of a contract position with RCM from a member of RCM’s management team. In November 2017, Mr. Arrieta was called into RCM’s offices for a formal, in-person interview. He was then offered a position.
+[27] Before starting work, Mr. Arrieta read and signed the agreement with the Appellant.[2] He had not heard of the Appellant and had no contact with Mr. Kacar before receiving the agreement to review. After signing, he sent the agreement to RCM’s human resources department.
+[28] Mr. Arrieta thought it odd that the agreement was between him and the Appellant as he believed that he was being hired as an employee of RCM on a short‑term contract.
+[29] Mr. Arrieta’s hourly pay was $25 when he began working for RCM. He did not negotiate this rate. In early 2018, RCM increased his rate of pay slightly. Mr. Arrieta did not request the increase and did not know who decided it.
+[30] In order to receive his pay, Mr. Arrieta would complete an invoice for the Appellant and would enter the same information on the RCM website. His manager at RCM reminded him to complete and submit all required information.
+[31] Mr. Arrieta’s responsibilities included drafting and preparing drawings with the RCM design team using MicroStation and AutoCAD. Occasionally, Mr. Arrieta was required to do administrative work including sending emails and project management including using Microsoft Outlook, Word and Excel.
+[32] MicroStation, AutoCAD and Microsoft Office required licenses. Those licenses were provided to Mr. Arrieta by RCM. Mr. Arrieta could use the software only at RCM’s offices. Mr. Arrieta did his work on a computer owned by RCM. If he had a problem with the computer, RCM was responsible for its repair.
+[33] Mr. Arrieta took direction from, and reported to, his manager at RCM. From time to time, he would ask his colleagues at RCM or his manager for help.
+[34] Mr. Arrieta always worked at one of RCM’s two offices unless RCM sent him off site. His working hours were 9 a.m. to 6 p.m. each day with a one-hour lunch break. If Mr. Arrieta took a day off he would record no hours for that day on the Appellant’s invoice tracker and on RCM’s website. Mr. Arrieta was required to let his manager at RCM know in advance about his days off.
+[35] While Mr. Arrieta was preparing his 2018 income tax return, he contacted RCM looking for his T4. RCM told him that there was no T4 for him. Mr. Arrieta then contacted the Appellant. Mr. Arrieta was told that he was not entitled to a T4 as he was as an independent contractor.
+Law and Analysis – Were the Engineers Employees of RCM?
+[36] This test is worded slightly differently in the CPP Regulations and EI Act. For purposes of subsection 34(1) of the CPP Regulations, I must determine whether “the terms and conditions on which the employment and services are performed … constitute a contract of service or are analogous to a contract of service,” while for purposes of the EI Act, I must determine whether the engineers were placed in the employment to perform services “for and under the direction and control of a client.” As Justice Hogan did in European Staffing Inc. v MNR, 2019 TCC 59, I must first determine whether the engineers were placed in pensionable employment under the deeming provision in the CPP Regulations. I will then consider whether the engineers were placed in insurable employment within the meaning of the EI Act.
+CPP Test: Were the terms and conditions analogous to a contract of service?
+Step 1: Subjective Intention
+[37] As the Federal Court of Appeal stated in 1392644 Ontario Inc. v MNR, 2013 FCA 85 [Connor Homes]:
+[39] … the subjective intent of each party to the relationship must be ascertained. This can be determined either by a written contractual relationship the parties have entered into or by the actual behaviour of each party, such as invoices for services rendered, registration for GST purposes and income tax filings as an independent contractor.
+[38] Mr. Kacar clearly intended that the engineers would work with RCM as independent contractors. He had always thought of himself as an independent contractor and believed that his fellow engineers should be treated the same way. This is reflected in the agreements that he drafted between the Appellant and the engineers. For example, the agreements refer to the engineers as “subcontractors” or “independent contractors” and states that they are “not deemed employees of the Appellant or RCM.” Mr. Arrietta, however, was of the view that he was an employee on a short-term contract and, as such, expected to receive a T-4.
+[39] There was clearly no common subjective intention as between the Appellant and the engineers. We must, therefore, rely solely on the objective factors.
+Step 2: Objective Factors
+Level of control [40] In light of the following facts, the control factor strongly suggests an employment relationship between the engineers and RCM:
+the engineers were supervised by a manager at RCM;
+the timesheets of the engineers were approved only after review by a manager at RCM;
+the engineers were required to follow RCM’s quality and job-related instructions;
+the engineers were required to complete their work under the quality assurance program of the Appellant and of RCM and were required to pass a quality assurance orientation administered by RCM;
+Mr. Arrieta asked his colleagues at RCM, or his manager at RCM, questions related to his job;
+If Mr. Arrieta took a day off, he had to let his manager at RCM know in advance;
+RCM required a confidentiality clause in the agreement between the Appellant and each engineer providing that neither the engineer nor the Appellant could supply a replacement when the engineer was away;
+Mr. Arrieta was required to work from 9 a.m. to 6 p.m. Monday to Friday with an hour lunch break – he worked 8 hours a day, 40 hours per week with no flexibility;
+RCM determined the tasks, priorities and deadlines for each of the engineers;
+the work location for the engineers was RCM’s office in Mississauga, Ontario or in Pickering, Ontario or any other location specified by the engineer’s manager at RCM; and
+the engineers took direction from RCM on how to complete their work and an RCM manager performed a quality review of the work completed by each engineer.
+Tools
+[41] The engineers relied on RCM to provide the tools necessary to complete their work. The tools on which the engineers relied included a computer and software such as AutoCAD, MicroStation, and Microsoft Office to which they had access only at RCM’s offices. RCM owned the licenses for the software and was responsible for maintaining and repairing the hardware on which it operated.
+[42] This factor strongly suggests an employment relationship.
+Ability to Hire Others
+[43] The engineers had no ability to hire others to help them complete their work or to replace any of them when one was absent.
+[44] This factor strongly suggests an employment relationship.
+Degree of Financial Risk (opportunity for profit or risk of loss)
+[45] In Wolf v R, 2002 FCA 96, the Federal Court of Appeal noted that:
+[86] … traditionally, the independent contractor assumed the risk of loss resulting from the performance of the work, while in the case of an employee, it was the employer who would bear that burden. An employee would not assume a financial risk as he would receive the same salary no matter what the employer’s financial results would be.
+[46] Here, the engineers had no opportunity for profit. Under their agreements, all hours worked were paid at the same rate. There was no evidence that they had any meaningful ability to negotiate their hourly rate.
+[47] The engineers bore no financial risk. RCM would fix the hardware they used to do their work. Travel, meals and other expenses related to working on remote job sites were reimbursed to the engineers. They had no work‑related out‑of‑pocket expenses.
+[48] Although RCM did not provide its own health insurance or pension plan, the workers bore little risk of any significant unanticipated costs or expenses related to their work.
+[49] The totality of the evidence on this point suggests an employment relationship.
+Degree of Responsibility for Investment and Management
+[50] The engineers invested none of their own capital into RCM’s business nor did they help make RCM’s management decisions.
+[51] This factor also suggests an employment relationship.
+EI Test: Direction and Control
+[52] The final issue to be determined is whether the engineers were engaged in insurable employment within the meaning of the EI Act. The test is whether the engineers were placed by the Appellant with RCM to perform services under the direction and control of its client, RCM. For the reasons given above under the heading “Level of control”, I find that the engineers were placed in employment by the Appellant under the direction and control of its client, RCM.
+Conclusion
+[53] The objective factors, taken as a whole, lead me to conclude that the engineers were employees of RCM in 2018.
+[54] As I have already concluded that the Appellant was a “placement agency” in 2018, the Appellant is, therefore, liable to remit the CPP contributions and EI premiums at issue as decided by the Minister. The appeals will be dismissed, without costs.
+Signed at Ottawa, Canada, this 21st day of December 2023.
+“David E. Spiro”
+Spiro J.
+CITATION:
+2023 TCC 175
+COURT FILE NO.:
+2022-931(CPP) and 2022-932(EI)
+STYLE OF CAUSE:
+SIGMA-TEX INC. AND THE MINISTER OF NATIONAL REVENUE
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+May 29, 2023
+REASONS FOR JUDGMENT BY:
+The Honourable Justice David E. Spiro
+DATE OF JUDGMENT:
+December 21, 2023
+APPEARANCES:
+Agent for the Appellant:
+Stanko Kacar
+Counsel for the Respondent:
+D'ette Bourchier
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+N/A
+Firm:
+For the Respondent:
+Shalene Curtis-Micallef Deputy Attorney General of Canada Ottawa, Canada
+[1] Exhibit A-1.
+[2] Exhibit A-1.

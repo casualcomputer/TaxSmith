@@ -1,0 +1,160 @@
+Title: Desbiens c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26473/index.do
+Corpus path: corpus/cases/tcc/2004/2004-tcc-162-26473-desbiens-c-la-reine-en.md
+Document type: case_law
+Last modified: 2004-03-05
+
+# Desbiens c. La Reine
+
+- Citation: 2004 TCC 162
+- Decision date: 2004-03-05
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3157, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Desbiens c. La Reine
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-03-05
+Neutral citation
+2004 TCC 162
+File numbers
+2002-4788(IT)I
+Judges and Taxing Officers
+Alain Tardif
+Subjects
+Income Tax Act
+Decision Content
+[OFFICIAL ENGLISH TRANSLATION]
+Docket: 2002-4788(IT)I
+BETWEEN:
+LOUISE DESBIENS,
+Appellant,
+And
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on January 26, 2004, at Quebec City, Quebec
+Before: The Honourable Judge Alain Tardif
+Appearances:
+Counsel for the Appellant:
+Carl Lavoie
+Counsel for the Respondent:
+Emmanuelle Faulkner
+____________________________________________________________________
+JUDGMENT
+The appeal from determinations by which the Minister of National Revenue denied the appellant Canada Child Tax Benefits in respect of her daughter Laurie for the period from September 30, 1999, until now for the 1998, 1999, and 2000 base years pursuant to the Income Tax Act, is allowed and the assessments are vacated.
+Signed at Ottawa, Canada, this 5th day of March 2004.
+"Alain Tardif"
+Tardif J.
+Certified true translation
+Colette Dupuis-Beaulne
+[OFFICIAL ENGLISH TRANSLATION]
+Reference: 2004TCC162
+Date: 20040305
+Docket: 2002-4788(IT)I
+BETWEEN:
+LOUISE DESBIENS,
+Appellant,
+And
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Tardif J.
+[1] This is an appeal from determinations regarding the 1998, 1999, and 2000 base years.
+[2] The appeal stems from Canada Child Tax Benefits redeterminations for which notices were sent to the appellant on July 19, 2002; the Minister of National Revenue ("the Minister") revised to nil the benefits already received by the appellant for the 1998, 1999, and 2000 base years with regard to her daughter Laurie for the period from October 1999 to June 2002 inclusive.
+[3] Following the issuing of notices of redetermination of Canada Child Tax Benefit dated July 19, 2002, against the appellant with regard to the 1998, 1999, and 2000 base years, the Minister established the following amount as an overpayment:
+a) 1998 -
+$1,203.75
+b) 1999 -
+$1,872.53
+c) 2000 -
+$2,172.00
+$5,248.28
+[4] While maintaining the right to complete and qualify certain assumed facts, the appellant made the following admissions:
+a) The appellant and Steve Tremblay are the parents, among other things, of a daughter named Laurie, who was born on June 17, 1984.
+b) In February 2002, the father, Steve Tremblay, filed achild tax benefit application, claiming a change of recipient with regard to his daughterLaurie for a retroactive period beginning on September 30, 1999, the date the couple separated.
+c) On April 26, 2002, the Minister sent the appellant and Steve Tremblay a questionnaire to determine which parent was eligible to receive benefits for the child, Laurie.
+d) In her response to the questionnaire sent by the Minister on April 26, 2002, the appellant declared, among other things, that her daughter Laurie no longer lived with her but was living with her father since their separation.
+e) Laurie Desbiens-Tremblay, the appellant's daughter, ceased to be a qualified dependent in July 2002.
+f) With regard to his daughter Laurie, Steve Tremblay was presumed by the Minister to be the person who primarily fulfilled the responsibility for her care and upbringing for the period from October 1999 to June 2002 inclusive.
+[5] The appellant explained at length that she had never stopped looking after and ensuring the well-being of her daughter Laurie even after her separation from the father, Steve Tremblay.
+[6] She said she had spent much more than the amount of the benefits received for her daughter's well-being. She submitted conclusive documentary evidence that clearly established that she had spent significant amounts because of her strong interest and deep concern that her daughter lack nothing.
+[7] Overall, her testimony repeated the information and points communicated to the Canada Customs and Revenue Agency in response to a letter dated April 26, 2002, sent to determine whether she was entitled to receive benefits. I think it is important to set out some of the excerpts set forth by the appellant. (Exhibit I-1)
+[TRANSLATION]
+[...]
+RESIDENCE
+1. Did the aforementioned children live with you during the period at issue? (No)
+2. Did the aforementioned children also live with someone else during that period? (Yes)
+If you answered yes, please explain.
+Laurie lives with her father, Steve Tremblay, but I was the one who looked after her education, clothing, and medical and dental care. This was the same before our separation, and I had specified this on the agreement written after our separation. According to the agreement, I was to partially provide for the monetary and other needs of my daughter Laurie (medication, education, clothing, etc.). Since our separation, I have provided fully for her needs.
+[...]
+CARE AND UPBRINGING
+2. How have you ensured that your children live in a safe home?
+I visit her at least twice a week to ensure that everything is going well, she is not lacking food, and the home is clean and safe. If I had noticed anything negative, let me assure you that if the situation was not corrected . . . (see Appendix 1, Question 2)
+3. What have you done to obtain regular medical care for your children and provide transportation so that they receive this care? State what you do when other medical care is needed.
+I have made regular dentist appointments because my children suffer from dentinogenesis imperfecta . . . I have always looked after going to the dentist with them, and it is always me who pays the transportation expenses.
+[...]
+5. When your children were sick, what did you do?
+I consulted a doctor with Laurie when she needed it, and if she needed medication, I got it for her. When she needed me, I took her to my home until she got better. When she was sick, her father would call me so that I would go take care of her.
+[...]
+Appendix I
+P. 3 Care and Upbringing
+Q. 1 During the day she calls me regularly, and in the evenings I call her to find out how her day and her studies are going. It is very important to me that my daughter be successful.
+On days when she does not have school, I call her later to find out if everything is going OK for her at home, and if she wants to come see me, I go and pick her up.
+Q. 2 I wanted to take my daughter with me. I want to let you know that I paid part of the rent for 355 Côte Ste-Anne in 2000. I am sending you the receipt and the cheques I had to write . . .
+Q. 4 I got my daughter a job at the same place I work. In that way I can know and see more often what her psychological condition is, because I think she is very vulnerable, and I try to take care of her as much as possible. I look after taking her to work and other places.
+Q. 7 I believe I am her confidante, and she does not hesitate to ask me for guidance when certain situations occur. I encouraged her to take her driving course and get her driver's license, which I paid for.
+I got her a small job with me, and I am very proud to work with my daughter.
+She is currently studying nursing, and I encourage her daily in her studies and her life.
+She knows she can count on her mother at any time.
+Appendix 2
+P. 4
+Q. 8 I have always looked after dentist and doctor appointments. I was always the one who went to school for parent meetings, and I have always looked after homework and lessons . . .
+When I left her father, Steve Tremblay, on September 1, 1999, he was under heavy medication for depression. At that time, I gave Laurie the choice to come live with me. She was 15 years old at that time, so I think she was capable of deciding who she wanted to live with.
+Nevertheless, I told her I would always look after her physical and mental well-being, and that is what I have done ever since.
+Laurie has never lacked anything, because I myself went to check if she needed anything, and a number of times I had to go grocery shopping (unfortunately, I did not keep those bills), and at the beginning of the separation, I went to help Laurie take care of the house to teach her how to get organized, because at that time, her father was not fit to show her owing to his psychological condition.
+[...]
+In June 2000 I helped Laurie pack and move, and I found places in my family to store their furniture because they had rented a furnished apartment.
+In April 2002, I took the steps to find suitable housing for Laurie and her father. He did not go to visit the housing I had found them; I was the one who had to go take Laurie to see the housing. Then I went with her father to sign the lease. (I had found them housing two streets over from my home, so I could make sure my daughter would be OK.) I am now looking for a stove and a fridge for them; I have not found anything yet, but I will continue looking.
+I assure you that, even though Laurie is going to turn 18 in June, I will continue to see that she does not lack anything. I have always done so, and I will continue to be a listening ear for her.
+P.S. I am enclosing her tuition invoices, regular and other, in Exhibit 5.
+[8] The appellant has never hidden the fact that Laurie lived partly with her father, yet the appellant has not cut her ties with her daughter. On the contrary, she has shown considerable flexibility and maturity by respecting her daughter's decision to maintain a presence with her father, who is not very reliable and is somewhat irresponsible.
+[9] Subsection 122(6) of the Act reads as follows:
+"Eligible individual" in respect of a qualified dependant at any time means a person who at that time
+(a) resides with the qualified dependant,
+(b) is the parent of the qualified dependant who primarily fulfils the responsibility for the care and upbringing of the qualified dependant,
+(c) is resident in Canada,
+(d) is not described in paragraph 149(1)(a) or 149(1)(b), and
+(e) is, or whose cohabiting spouse or common-law partner is, a Canadian citizen . . .
+and for the purpose of this definition,
+(f) where the qualified dependant resides with the dependant's female parent, the parent who primarily fulfils the responsibility for the care and upbringing of the qualified dependant is presumed to be the female parent,
+(g) the presumption referred to in paragraph 122.6 eligible individual (f) does not apply in prescribed circumstances, and
+(h) prescribed factors shall be considered in determining what constitutes care and upbringing.
+[10] Section 6302 of the Income Tax Regulations ("Regulations"), which is in Part LXIII of the Regulations, contains a list of factors to be considered in determining what constitutes care and upbringing of a qualified dependant. It reads as follows:
+6302. Factors - For the purposes of paragraph (h) of the definition "eligible individual" in section 122.6 of the Act, the following factors are to be considered in determining what constitutes care and upbringing of a qualified dependant:
+(a) the supervision of the daily activities and needs of the qualified dependant;
+(b) the maintenance of a secure environment in which the qualified dependant resides;
+(c) the arrangement of, and transportation to, medical care at regular intervals and as required for the qualified dependant;
+(d) the arrangement of, participation in, and transportation to, educational, recreational, athletic or similar activities in respect of the qualified dependant;
+(e) the attendance to the needs of the qualified dependant when the qualified dependant is ill or otherwise in need of the attendance of another person;
+(f) the attendance to the hygienic needs of the qualified dependant on a regular basis;
+(g) the provision, generally, of guidance and companionship to the qualified dependant; and
+(h) the existence of a court order in respect of the qualified dependant that is valid in the jurisdiction in which the qualified dependant resides.
+[11] The evidence showed that the minor child, Laurie, resided as much with the appellant as with her father. Furthermore, this is not just a simple statement by the appellant; this fact is supported by the various documents, which clearly indicate that Laurie had the same address as her mother, the appellant.
+[12] The appellant testified in a completely flawless manner. She explained the context and the specific circumstances that had led to Laurie living occasionally with her father. Although she had been only 15 years of age, a number of evidentiary elements seemed to show that she had acted as her father's guardian rather than the reverse.
+[13] One thing is certain: throughout the entire reference period, the appellant demonstrated a nearly daily presence and a completely unquestionable interest in her daughter's well-being.
+[14] The appellant did expressly state on the questionnaire that her daughter resided with her father, but is that sufficient to find that her appeal should be dismissed?
+[15] I acknowledge that I have been greatly torn over the consequences of my response. Had it not been for the appellant's lengthy explanations and numerous nuances given on the questionnaire and the appendix, I would have had to dismiss the appeal.
+[16] However, in light of these explanations, it seems that the minor child did not reside exclusively with her father; from time to time, she also resided with her mother, who was entitled to view, on a daily basis, the housing occupied by her ex-husband; she had even taken various steps to ensure that they would have decent housing, and that a telephone line would be installed there to ensure constant, daily supervision. My understanding of the residence criterion does not require exclusivity; moreover, nothing indicates that a qualified dependant cannot reside in two locations, particularly when the two residences in question are the father's residence and the mother's residence.
+[17] For these reasons, the appeal is allowed, and the assessments are vacated.
+Signed at Ottawa, Canada, this 5th day of March 2004.
+"Alain Tardif"
+Tardif J.
+Certified true translation
+Colette Dupuis-Beaulne

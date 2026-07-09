@@ -1,0 +1,68 @@
+---
+title: "ARCHIVED - Shares entitling shareholders to choose taxable or capital dividends"
+source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it146r4/archived-shares-entitling-shareholders-choose-taxable-capital-dividends.html
+last_modified: 2017-11-07
+---
+# ARCHIVED - Shares entitling shareholders to choose taxable or capital dividends
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+[What the "Archived Content" notice means for interpretation bulletins](https://www.canada.ca/en/revenue-agency/services/forms-publications/what-archived-content-notice-means-interpretation-bulletins.html)
+
+NO: **IT-146R4**
+
+DATE: September 6, 1991
+
+SUBJECT: INCOME TAX ACT**Shares Entitling Shareholders to Choose Taxable or Capital Dividends**
+
+REFERENCE: Paragraph 54(c) (also sections 51, 83 and 86, subsection 84(3) and paragraph 89(1)(j))
+
+Application
+
+This bulletin replaces and cancels Interpretation Bulletin IT-146R3 dated August 25, 1980. Current revisions are designated by vertical lines.
+
+Summary
+
+This bulletin discusses the circumstances where a disposition of shares is not considered to occur, within the meaning of paragraph 54(c), when there has been a reclassification or a designation of the shares of a corporation, in order to provide a shareholder with a choice of receiving either taxable or capital dividends.
+
+Discussion and Interpretation
+
+Designation or Reclassification of Common Shares
+
+1. Certain shareholders of a class of shares of a corporation's stock may prefer to receive capital dividends, whereas other shareholders of the same class may prefer taxable dividends. Some corporations have met shareholder's dividend preference as follows:
+
+(a) the issued common shares of a class are designated or reclassified as a special class of shares, for example, as Class A shares, which entitle the holder to receive only taxable dividends,
+
+(b) a right is attached to the Class A shares entitling the holder to exchange them for shares of a newly created class, for example, Class B shares, which have the same interests, rights and privileges as the Class A shares except that the holder is entitled to receive, at the discretion of the directors, either taxable dividends or capital dividends, and
+
+(c) a right is also attached to the Class B shares entitling the holder to exchange them back for Class A shares.
+
+2. The designation or reclassification of a class of shares and the attachment of a right of exchange thereto in circumstances similar to those described in 1(a) and 1(b) above does not constitute a disposition of the shares within the meaning of paragraph 54(c) of the Act. The newly designated shares (Class A above) are considered, for all purposes of the Act, to be the same property as the original common shares and to have been acquired at the same time and for the same cost as the original common shares. Furthermore, the provisions of subsection 84(3) (redemption or cancellation of shares) and section 86 (disposition of shares in the course of a reorganization of capital) do not apply.
+
+Conversion of Shares from Class A to Class B
+
+3. Where, in circumstances described in 1 above, the right of conversion is exercised and Class A shares are exchanged for Class B shares, section 51 applies to deem the exchange not to be a disposition and the cost of the Class B shares acquired to be the adjusted cost base of the Class A shares. The foregoing applies only where the exchanged shares are capital property of the shareholder.
+
+General Rules for Changes in the Terms of Securities
+
+4. IT-448 entitled, Dispositions - Changes in the Terms of Securities and the Special Release thereto discuss the factors that are considered in determining whether or not a disposition pursuant to paragraph 54(c) has taken place when the terms of a security have been altered. It is considered that the specific circumstances outlined in 1 above do not result in a disposition. However, in other circumstances a change in the rights attaching to a class of shares may constitute a disposition and the particular circumstances of each case will have to be reviewed to make this determination.
+
+Reconversion of Shares
+
+5. Corporations which have reclassified their common shares to Class A and created Class B shares, in circumstances as outlined in 1 above, may wish to discontinue the two classes of shares and reconvert these shares to "new" common shares. Where a reconversion of shares has been carried out by corporations in the following manner:
+
+(a) class A and class B shares are reclassified to "new" common shares, and
+
+(b) the "new" common shares have the same interests, rights and privileges as the class A and class B shares, except for the conversion rights of the class A and class B shares and the dividend rights of the class B shares,
+
+the reconversion will not constitute a disposition of the shares within the meaning of paragraph 54(c).
+
+Tax Avoidance Consideration
+
+6. Where one of the main purposes of an acquisition of shares is to acquire a right to a capital dividend, the capital dividend if paid after 4:00 p.m. Eastern Daylight Saving Time, September 25, 1987, will be treated as a taxable dividend received by the shareholder by virtue of subsection 83(2.1). Subsections 83(2.2) to 83(2.4) provide exceptions where the anti-avoidance rule in subsection 83(2.1) will not apply. With respect to the situation described in paragraph 1 of this bulletin, it is the main purpose of the acquisition of the original shares which will determine whether the anti-avoidance rule will apply. A reclassification or designation similar to that described in paragraph 1 above will generally not bring subsection 83(2.1) into application.

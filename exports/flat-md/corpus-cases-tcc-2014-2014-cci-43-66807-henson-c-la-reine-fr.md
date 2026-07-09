@@ -1,0 +1,132 @@
+---
+title: "Henson c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/66807/index.do"
+last_modified: "2014-02-06"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2014 CCI 43"
+citation2: ""
+neutral_citation: "2014 CCI 43"
+decision_date: "2014-02-06"
+language: "fr"
+item_id: "66807"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5950
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T16:08:57.378000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "ee575d8b830ec719c545340110e1f143420cc648ad58e3bec6a6053d1a367e67"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Henson c. La Reine
+
+- Citation: 2014 CCI 43
+- Decision date: 2014-02-06
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5950, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Henson c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2014-02-06
+Référence neutre
+2014 CCI 43
+Numéro de dossier
+2013-2875(IT)I
+Juges et Officiers taxateurs
+Judith Woods
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2013-2875(IT)I
+ENTRE :
+SCOTT HENSON,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 6 février 2014, à Vancouver (Colombie‑Britannique)
+Devant : L’honorable juge J.M. Woods
+Comparutions :
+Pour l’appelant :
+L’appelant lui‑même
+Avocate de l’intimée :
+Me Geraldine Chen
+____________________________________________________________________
+JUGEMENT
+La Cour ordonne que l’appel interjeté à l’encontre des cotisations établies au titre de la Loi de l’impôt sur le revenu et de la Loi sur l’assurance‑emploi pour l’année d’imposition 2012 soit rejeté. Chaque partie assumera ses propres frais.
+Signé à Vancouver (Colombie‑Britannique), ce 7e jour de février 2014.
+« J.M. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 3e jour d’avril 2014.
+Marie-Christine Gervais, traductrice
+Référence : 2014 CCI 43
+Date : 20140207
+Dossier : 2013-2875(IT)I
+ENTRE :
+SCOTT HENSON,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Woods
+[1] Scott Henson interjette appel à l’encontre d’une cotisation établie au titre de la Loi sur l’assurance‑emploi selon laquelle il est tenu de rembourser une partie des prestations d’assurance-emploi qui lui ont été versées en 2012. Le montant du remboursement s’élève à 3 959,40 $.
+[2] L’article 145 de la Loi sur l’assurance-emploi exige que le contribuable rembourse jusqu’à 30 pour 100 des prestations d’assurance-emploi qu’il a reçues dans une année si son revenu pour l’année dépasse un seuil, qui est de 57 375 $ en l’espèce. Pour l’application de la Loi sur l’assurance-emploi, le revenu est déterminé conformément à la Loi de l’impôt sur le revenu, sous réserve de rajustements mineurs.
+[3] Suivant une cotisation établie au titre de la Loi de l’impôt sur le revenu pour l’année d’imposition 2012, il a été déterminé que le revenu de M. Henson était de 88 875 $ (avant déduction du remboursement des prestations d’assurance-emploi). Compte tenu du revenu qu’il avait gagné, selon l’article 145, M. Henson était tenu de rembourser un montant égal à 30 pour 100 du montant total des prestations d’assurance-emploi qu’il avait reçues.
+[4] À l’audience, l’avocate de la Couronne a décrit les dispositions législatives applicables de façon assez détaillée. M. Henson a informé la Cour qu’il comprenait la loi, mais qu’il demandait un allègement au motif que le résultat était dur dans son cas.
+[5] Je conviens que M. Henson se trouve dans une situation difficile. Il est tenu de rembourser les prestations d’assurance-emploi parce qu’il a touché un revenu inhabituel en décembre 2012. S’il avait reçu ce montant de revenu en 2013, il n’aurait pas eu à rembourser les prestations d’assurance-emploi, parce que son admissibilité au bénéfice de prestations venait à échéance à la fin de 2012.
+[6] Le montant exceptionnel de revenu qu’il a reçu était un paiement forfaitaire au titre d’une demande d’indemnisation d’accident du travail de 69 000 $. La demande avait trait à un accident de travail ayant eu lieu en 2010, et l’indemnité s’est trouvée à être versée en décembre 2012.
+[7] Il est malheureux pour M. Henson que la demande d’indemnisation ait été réglée à la fin de l’année 2012 et que l’indemnité ait été versée au moyen d’un paiement forfaitaire au lieu de paiements mensuels. M. Henson n’avait aucun contrôle sur cela.
+[8] Le résultat semble dur dans le cas de M. Henson, mais il ne m’appartient pas d’accorder quelque allégement que ce soit. Le Parlement a la prérogative d’adopter les lois qu’il juge à propos. En l’espèce, la loi prévoit expressément ce résultat, et la Cour ne peut accorder aucun allègement.
+[9] L’appel sera rejeté.
+Signé à Vancouver (Colombie‑Britannique), ce 7e jour de février 2014.
+« J.M. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 3e jour d’avril 2014.
+Marie-Christine Gervais, traductrice
+RÉFÉRENCE : 2014 CCI 43
+NO DU DOSSIER DE LA COUR : 2013-2875(IT)I
+INTITULÉ : SCOTT HENSON c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Vancouver (Colombie-Britannique)
+DATE DE L’AUDIENCE : Le 6 février 2014
+MOTIFS DU JUGEMENT : L’honorable juge J.M. Woods
+DATE DU JUGEMENT : Le 7 février 2014
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimée :
+Me Geraldine Chen
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom : s.o.
+Cabinet :
+Pour l’intimée : William F. Pentney
+Sous-procureur général du Canada
+Ottawa (Ontario)

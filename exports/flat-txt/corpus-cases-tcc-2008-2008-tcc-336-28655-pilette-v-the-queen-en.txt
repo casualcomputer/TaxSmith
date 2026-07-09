@@ -1,0 +1,180 @@
+Title: Pilette v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28655/index.do
+Corpus path: corpus/cases/tcc/2008/2008-tcc-336-28655-pilette-v-the-queen-en.md
+Document type: case_law
+Last modified: 2008-06-06
+
+# Pilette v. The Queen
+
+- Citation: 2008 TCC 336
+- Decision date: 2008-06-06
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1119, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Pilette v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-06-06
+Neutral citation
+2008 TCC 336
+File numbers
+2007-3514(IT)I
+Judges and Taxing Officers
+Louise Lamarre Proulx
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2007-3514(IT)I
+BETWEEN:
+LORRAINE PILETTE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on May 12, 2008, at Ottawa, Ontario
+Before: The Honourable Justice Louise Lamarre Proulx
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Charles Camirand
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 2005 taxation year is dismissed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 6th day of June 2008.
+"Louise Lamarre Proulx"
+Lamarre Proulx J.
+Translation certified true
+on this 29th day of October 2008.
+Brian McCordick, Translator
+Citation: 2008TCC336
+Date: 20080606
+Docket: 2007-3514(IT)I
+BETWEEN:
+LORRAINE PILETTE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+AMENDED REASONS FOR JUDGMENT
+[1] This appeal pertains to the credit for a wholly dependent person under paragraph 118(1)(b) of the Income Tax Act ("the Act") for the 2005 taxation year. According to the Appellant, the provision which states that the credit ends when the dependent child attains the age of 18 is discriminatory and contrary to section 15 of the Canadian Charter of Rights and Freedoms ("the Charter").
+[2] Subsection 15(1) of the Charter reads:
+15. (1) Every individual is equal before and under the law and has the right to the equal protection and equal benefit of the law without discrimination and, in particular, without discrimination based on race, national or ethnic origin, colour, religion, sex, age or mental or physical disability.
+[3] Paragraph 118(1)(b) of the Act reads:
+118. (1) Personal credits − For the purpose of computing the tax payable under this Part by an individual for a taxation year, there may be deducted an amount determined by the formula
+. . .
+(b) Wholly dependent person – in the case of an individual who does not claim a deduction for the year because of paragraph (a) and who, at any time in the year,
+(i) is
+(A) a person who is unmarried and who does not live in a common-law partnership, or
+(B) a person who is married or in a common-law partnership, who neither supported nor lived with their spouse or common-law partner and who is not supported by that spouse or common-law partner, and
+(ii) whether alone or jointly with one or more other persons, maintains a self-contained domestic establishment (in which the individual lives) and actually supports in that establishment a person who, at that time, is
+(A) except in the case of a child of the individual, resident in Canada,
+(B) wholly dependent for support on the individual, or the individual and the other person or persons, as the case may be,
+(C) related to the individual, and
+(D) except in the case of a parent or grandparent of the individual, either under 18 years of age or so dependent by reason of mental or physical infirmity,
+an amount equal to the total of
+(iii) $7,131, and
+(iv) the amount determined by the formula
+$6,055 – (D – $606)
+where
+D is the greater of $606 and the dependent person's income for the year,
+[4] The Appellant claims this credit for her daughter Joëlle, who was born in 1986 and was therefore over 18 years of age in 2005. The Appellant admits that her daughter suffered from no mental or physical infirmity. She also admits that in 2005 she claimed the tuition and education credit, transferred from a child.
+[5] The Notice of Appeal reads:
+[TRANSLATION]
+The Income Tax Act provides for an exclusion by reason of age (s. 118(1)(b)(ii)(D)) solely where the taxpayer is the parent of a dependant. There is no age limit when claiming the deduction for any other dependant.
+This exclusion is discriminatory and contrary to section 15 of the Canadian Charter of Rights and Freedoms. It directly disadvantages a group of persons, namely the parents of young adults, and indirectly disadvantages the young adults themselves. Single-parent families with young adults who are students, a group to which the taxpayer belonged during the taxation year in issue, are especially disadvantaged.
+This exclusion cannot be justified under s. 1 of the Charter because it has none of the three requisite characteristics in this regard: it is not rationally connected to a legitimate governmental objective, nor is it proportionate or minimal. Indeed, the exclusion is fixed at the age of 18, a cut-off point that is arbitrary and premature having regard to the proportion of students of that age; and moreover, it short-circuits the general rule for computing the income of a dependent person into the calculation of the deduction when the general rule takes account of the relevant situations and is sufficient to prevent any abuse.
+[6] The Appellant, a lawyer who even taught constitutional law at UQAM, provides even more detailed and precise reasons in her notice to the Attorney General of Canada dated April 9, 2008:
+[TRANSLATION]
+Take notice that my appeal shall be heard on May 12, 2009, at 9:30 a.m., in the Tax Court of Canada, and that the validity of clause 118(1)(b)(ii)(D) will be challenged in view of subsection 15(1) of the Canadian Charter of Rights and Freedoms. Subsection 18(1) grants a tax credit to single-income families, and accomplishes this objective by subtracting the principal dependant's income from that credit, whether that dependant is a spouse or another relative. However, young adults who are 18 or older are excluded, whether they are students or not.
+It is submitted that this causes two types of harm. The first is that the tax burden of single parents of young students who are 18 or older is increased in comparison with other parents, that is to say, parents who are spouses, and single parents of young students who are under 18. The second is that young students who are 18 or older and live in a single-parent family suffer the budgetary impact of the higher tax burden in comparison with other young students who live in families headed by spouses or families in which the young students are not yet 18 years old.
+There are two discriminatory grounds: age (an enumerated ground) and family or civil status (a recognized analogous ground). Apart from the fact that it contains an inherent contradiction, in that it arbitrarily decrees that certain dependants are not dependants based solely on their age, the impugned exclusion is tainted, in its drafting and in its effects, by prejudice against the young students themselves and their single-parent families, which are already historically disadvantaged family entities in many respects. Among other things, the exclusion perpetuates the stereotypical idea that it is normal for a spouse not to be financially independent, but abnormal for an 18-year-old not to be financially independent.
+The statistical evidence shows that 25-30% of young people enrol in university, which necessarily continues past the age of 18, and that the trend in terms of the amount of debt incurred by young students is alarming. Student financial aid legislation does not take account of the transition to adulthood: such a student will receive only loans because a parent is presumed to have the student as a dependant, making it in fact so. The statistical evidence also shows that young adult university students in single‑parent families are at much greater risk of not graduating than their peers.
+It is submitted that the discrimination in this instance cannot be justified under section 1 of the Charter. There is no genuine and compelling objective, there is no proportionality or measure in the exclusion, and the impairment is not minimal.
+The statistical evidence that I will use consists primarily of documents issued by Statistics Canada and Human Resources and Social Development Canada, and available on the Internet. The principal case law on which I will be relying is as follows:
+Nova Scotia (Workers' Compensation Board.) v. Martin, [2003] 2 S.C.R. 504 (for the comparator group)
+Lavoie v. Canada, [2002] 1 S.C.R. 769 (on the issue of the legitimacy and rationality of the claimant's experience, as opposed to the mechanical application of criteria)
+Gosselin v. Quebec (Attorney General), [2002] 4 S.C.R. 429 (to distinguish it based on the objective of the measure)
+Lovelace v. Ontario, [2000] 1 S.C.R. 950 (for the assessment of the discriminatory effect)
+British Columbia (Public Service Employee Relations Commission) v. BCGSEU, [1999] 3 S.C.R. 3 (for the unified approach to "direct" and "adverse effect" discrimination)
+Law v. Canada (Minister of Employment and Immigration), [1999] 1 S.C.R. 497 (for the scope of section 15 of the Charter and the contextual approach)
+Miron v. Trudel, [1995] 2 S.C.R. 418 (for the analogous ground)
+Cooper v. Canada (Human Rights Commission), [1996] 3 S.C.R. 854 (for the remarks of the current Chief Justice, who was then a Justice and was in the minority, with respect to the limits of section 1)
+Andrews v. Law Society of B.C., [1989] 1 S.C.R. 143 (for the concept of burdens)
+The facts that gave rise to this matter are as follows: I was denied the tax credit for 2005, when my daughter was still living with me. She was 18 years old until June. In May, she finished her CEGEP studies, in science, at Collège Maisonneuve.
+[7] In her Reply to the Notice of Appeal, the Respondent states, at paragraph 10, that the condition set out in clause 118(1)(b)(ii)(D) of the Act, to the effect that the credit for a wholly dependent person is only available to the dependant's parent if the dependant is 18 or younger, does not infringe the right, under section 15 of the Charter, to the equal protection and benefit of the law without discrimination based on age, but that, if it does, the infringement is justified under section 1 of the Charter.
+[8] At the hearing, the Appellant referred to various statistics, including some that show that there has been an increase in student debt in general since the 1990s.
+[9] A reading of these statistics also discloses that the median wealth of vulnerable groups, with the exception of single-parent families, has decreased. The statistics also show that in 2006, single-parent families with a male head of household earned $54,500 on average, and single-parent families with a female head of household earned $37,000 on average. The average income of two-parent, single-income families with children in 2006 was $54,900.
+[10] Counsel for the Respondent referred to the parliamentary history of the 1988 tax reform, because the provision in question was part of that tax reform.
+[11] The White Paper submitted by the Honourable Michael H. Wilson, Minister of Finance, entitled Tax Reform 1987, and dated June 18, 1987, describes the objectives of the tax reform and the means by which they would be achieved. In the part of the document concerning the replacement of personal exemptions by tax credits, the change to the equivalent-to-married exemption is described as follows, at page 31:
+A credit of $850 will also replace the current equivalent-to-married exemption but the credit will only be claimable in respect of a parent or grandparent of the taxpayer, a person related to the taxpayer who is infirm, or a dependant under 18 years of age. The latter restriction is consistent with the removal of the exemption for dependent children 18 years of age and over, and reflects the fact that the age of majority is now 18.
+[12] The White Paper also provides for the replacement of the tuition and education deduction by tax credits with an important characteristic: the unused portion of the credit can be transferred to the student's supporting parent. The transferability of the credit takes account of the fact that tuition fees and education expenses are often assumed by the student's parent.
+[13] Chapter 4 of the 11th Report of the Standing Committee on Finance and Economic Affairs discusses personal income tax reform. At page 30, the report states:
+The Committee is not in full agreement with the proposed changes in the tax treatment of dependent children, but it agrees with the basic thrust of the introduction of tax credits that replace personal exemptions.
+[14] From what one can tell from reading the report, the fact that there would no longer be a tax credit for a dependent child who turned 18 was of some concern to the Committee, and this accounts for its Recommendation No. 4, at page 35:
+That a parent be permitted to elect to report a child of 19 to 21 years of age as a dependant and claim a dependant tax credit of $130 or, if he or she otherwise qualifies, the equivalent-to-married credit, and that by this election the child would lose the right to transfer to a supporting relative the unused portion of the tuition and education credit he or she may claim.
+[15] In December 1987, the Minister of Finance submitted his Response to the Chairman of the Standing Committee on Finance and Economic Affairs. He commented on and responded to Recommendation No. 4 as follows:
+Comments
+Age 18 is now generally regarded as the age of majority for most federal laws and programs and most provincial family laws and social assistance programs. In addition, both family allowances and the Canada and Quebec Pension Plans regard age 18 as the upper limit for minor children.
+Similarly, the tax system allows such persons to claim the refundable sales tax credit in their own right. It would be inconsistent for the tax system to treat a 19 to 21-year-old person as both a dependent child and as an adult.
+Tax reform provides a $250 tax credit for older children who are dependent by reason of mental or physical infirmity. In addition, a student may transfer the unused portion of the tuition fee credit and the education credit ($10 per month) to a supporting parent or spouse to a maximum combined credit of $600. For example, a student attending school full time for eight months to transfer over $3,000 in tuition fees to be credited against the tax of the supporting parent or spouse. The equivalent-to-married exception may still be claimed in respect of parents or grandparents, or any person who is related to the taxpayer and is infirm.
+Response
+For the reasons noted above, this recommendation is not adopted.
+[16] The Appellant referred to the decision of the Supreme Court of Canada in Nova Scotia (Workers' Compensation Board) v. Martin, [2003] 2 S.C.R. 504, at pages 558 et seq., paragraphs 84, 85 and 106:
+84 A violation of s. 15(1) of the Charter will only be established when, beyond the existence of differential treatment based on an enumerated or analogous ground, the claimant proves that such differential treatment is truly discriminatory. In Andrews v. Law Society of British Columbia, [1989] 1 S.C.R. 143, at pp. 174-75, McIntyre J. described discrimination as follows:
+I would say then that discrimination may be described as a distinction, whether intentional or not but based on grounds relating to personal characteristics of the individual or group, which has the effect of imposing burdens, obligations, or disadvantages on such individual or group not imposed upon others, or which withholds or limits access to opportunities, benefits, and advantages available to other members of society. Distinctions based on personal characteristics attributed to an individual solely on the basis of association with a group will rarely escape the charge of discrimination, while those based on an individual’s merits and capacities will rarely be so classed.
+85 Iacobucci J., writing for a unanimous Court in Law, supra, stated at para. 51, that the substantive discrimination analysis must be informed by the purpose of s. 15(1), which is "to prevent the violation of essential human dignity and freedom through the imposition of disadvantage, stereotyping, or political or social prejudice, and to promote a society in which all persons enjoy equal recognition at law as human beings or as members of Canadian society, equally capable and equally deserving of concern, respect and consideration." Human dignity, in turn,
+is harmed by unfair treatment premised upon personal traits or circumstances which do not relate to individual needs, capacities, or merits. It is enhanced by laws which are sensitive to the needs, capacities, and merits of different individuals, taking into account the context underlying their differences. Human dignity is harmed when individuals and groups are marginalized, ignored, or devalued, and is enhanced when laws recognize the full place of all individuals and groups within Canadian society. Human dignity within the meaning of the equality guarantee does not relate to the status or position of an individual in society per se, but rather concerns the manner in which a person legitimately feels when confronted with a particular law. Does the law treat him or her unfairly, taking into account all of the circumstances regarding the individuals affected and excluded by the law?
+(Law, at para. 53)
+Iacobucci J. went on to identify four contextual factors which may be referred to in order to determine whether the challenged legislation demeans the essential human dignity of the affected person or group. These factors are: (1) the presence of pre-existing disadvantage, vulnerability, stereotyping or prejudice directed at this person or group; (2) the correspondence, or lack thereof, between the ground upon which the differential treatment is based and the actual needs, characteristics and circumstances of the affected person or group; (3) the ameliorative purpose or effect of the legislation upon a more disadvantaged group; and (4) the nature of the interest affected by the legislation. This list, of course, is not exhaustive, the goal of the analysis in each case being to determine whether a reasonable and dispassionate person, fully apprised of all the circumstances and possessed of similar attributes to the claimant, would conclude that his or her essential dignity had been adversely affected by the law. For the same reason, not all factors will be relevant in each case. The enquiry always remains a contextual rather than a mechanical one: Lavoie v. Canada, [2002] 1 S.C.R. 769, 2002 SCC 23, at para. 46.
+. . .
+106 The contextual enquiry mandated by Law could hardly lead to a clearer conclusion. I am of the view that a reasonable person in circumstances similar to those of the appellants, fully apprised of all the relevant circumstances and taking into account the above contextual factors, would conclude that the challenged provisions have the effect of demeaning his or her dignity. Section 10B of the Act, as well as the FRP Regulations in their entirety, violate s. 15(1) of the Charter.
+[17] The Appellant submits as follows. The group consisting of adult children who still live with their parents is disadvantaged by reason of social prejudice. This prejudice holds that young people should be self‑sufficient upon attaining the age of majority. It is not important whether the impugned provision is intentionally discriminatory or not; the important thing is that it has a discriminatory effect in that it demeans the dignity and freedom of a person by imposing a disadvantage on a group based on a social prejudice. Moreover, the provision demeans the dignity of single parents. Single-parent families are a vulnerable group. The provision is arbitrary because it is not respectful of the needs of the group consisting of young people who are 18 or older and the group consisting of their single parents. A provision based on the income of a dependent child would be respectful of those needs, and proportionate to the objectives pursued by the Act, namely, lightening the tax burden of taxpayers who are in an economic situation characterized by vulnerability and by financial responsibility toward their adult children.
+[18] The Appellant also referred to the various decisions cited in her submissions to the Attorney General of Canada, and set out above.
+[19] Counsel for the Respondent referred to several decisions in the area of constitutional law, and, in particular, the decision of the Federal Court (Trial Division) in Canada v. Mercier, [1997] 1 F.C. 560.
+Analysis and conclusion
+[20] The decision of the Federal Court (Trial Division) in Canada v. Mercier, supra, reversed a decision of mine concerning the provision in issue. In that decision, I declared the provision to be in violation of section 15 of the Charter, and found that the violation was not saved by section 1 of the Charter.
+[21] The decision of the Federal Court (Trial Division) in Mercier, supra, has been followed by several judges of this Court, including Deputy Judge Rowe in Paul v. The Queen, [1997] T.C.J. No. 561 (QL), Judge Archambault in Francoeur v. The Queen, [1997] T.C.J. No. 755 (QL), Associate Chief Judge Christie in Ramos v. The Queen, [1998] T.C.J. No. 786 (QL), Judge Hamlyn in Hickson v. The Queen, [2001] T.C.J. No. 344 (QL) and Judge Bowman in Nartey v. The Queen, [1998] 4 C.T.C. 2495.
+[22] In my opinion, this Court is bound by that decision because it was rendered by a court that was higher than this Court under the legal circumstances of that appeal. Consequently, I accept that decision.
+[23] I must nonetheless note that the circumstances in Mercier v. Canada, [1992] T.C.J. No. 40 (QL) were the circumstances of a group more vulnerable than the one in issue. The mother's income was modest at best. She had no employment income, and her son, who did not have a physical or mental infirmity, did not work and was not pursuing studies. In addition, the matter arose very shortly after the provision was changed.
+[24] I now subscribe to the preliminary remarks made at paragraph 29 of the Federal Court's decision in Mercier, supra:
+At this point, the specific characteristics of the Income Tax Act should be considered. In determining whether the provision in question draws a distinction, I must bear in mind the specific nature of the Act and the personal credit schemes it establishes. In Thibaudeau ([1995] 2 S.C.R. 627, at page 702) the Supreme Court of Canada held that it is intrinsic to the Income Tax Act to create distinctions so as to generate revenue for the state while equitably reconciling a set of interests that are necessarily divergent.
+[25] We must accept that it is intrinsic to the Act to draw distinctions so as to equitably reconcile a set of divergent interests. These distinctions are normally not discriminatory within the meaning of section 15 of the Charter. In order to find that there is a discriminatory distinction under section 15 of the Charter, there must be proof that, even though the distinction was adopted following an economic and sociological analysis, it is based on a social prejudice that is contrary to the intent of section 15 of the Charter.
+[26] I agree with the Appellant that there is a new sociological phenomenon in which children remain dependent on their parents longer than before. However, it should be added that this phenomenon is as prevalent among two‑parent families as it is among one-parent families. I have no evidence and am far from thinking that young adults over the age of 18 who remain dependent on their parents are a group that suffers from social prejudice and that the provision in issue arose out of that prejudice. We all know about certain legislation concerning students and young workers, such as loan and bursary legislation, youth employment legislation and the legislation referred to in the White Paper, quoted above. Parliament has asserted that the provision in question was adopted with this legislation in mind, and taking into account that the age of majority is 18. I have no reason to disbelieve Parliament in this regard.
+[27] In addition, as far as the economic situation of single-parent families is concerned — because paragraph 118(1)(b) is about that situation — we have seen that, according to the very statistics produced by the Appellant, single-parent family incomes can vary considerably. This is not a homogeneous economic situation involving a vulnerable group.
+[28] For all these reasons, and, in particular, the principle of stare decisis which applies to the Federal Court's decision in Mercier, supra, the appeal must be dismissed.
+Signed at Ottawa, Canada, this 6th day of June 2008.
+"Louise Lamarre Proulx"
+Lamarre Proulx J.
+Translation certified true
+on this 29th day of October 2008.
+Brian McCordick, Translator
+CITATION: 2008TCC336
+COURT FILE NO.: 2007-3514(IT)I
+STYLE OF CAUSE: LORRAINE PILETTE v.
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: Ottawa, Ontario
+DATE OF HEARING: May 12, 2008
+REASONS FOR JUDGMENT BY: The Honourable Justice Louise Lamarre Proulx
+DATE OF JUDGMENT: June 6, 2008
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Charles Camirand
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,207 @@
+---
+title: "Boroumend v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/182119/index.do"
+last_modified: "2016-11-08"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2016 TCC 256"
+citation2: ""
+neutral_citation: "2016 TCC 256"
+decision_date: "2016-11-08"
+language: "en"
+item_id: "182119"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2999
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T10:37:07.266000+00:00"
+cases_cited_count: 8
+cases_citing_count: 8
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "af9251ec6bd7825caea7e3d1d791e6d50e92707d0b72e09ab292e3484bbdb0aa"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Boroumend v. The Queen
+
+- Citation: 2016 TCC 256
+- Decision date: 2016-11-08
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2999, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Boroumend v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2016-11-08
+Neutral citation
+2016 TCC 256
+File numbers
+2016-1032(IT)G
+Judges and Taxing Officers
+David E. Graham
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2016-1032(IT)G
+BETWEEN:
+MANSOUR BOROUMEND,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Motion heard on September 12, 2016 at Toronto, Ontario
+Before: The Honourable Justice David E. Graham
+Appearances:
+Counsel for the Appellant:
+Adam Serota
+John D. Buote
+Counsel for the Respondent:
+John Grant
+ORDER
+The appeal in respect of the reassessments of the Appellant’s 2003 and 2004 tax years is quashed.
+Costs are awarded to the Crown.
+Signed at Ottawa, Canada, this 8th day of November 2016.
+“David E. Graham”
+Graham J.
+Citation: 2016 TCC 256
+Date: 20161108
+Docket: 2016-1032(IT)G
+BETWEEN:
+MANSOUR BOROUMEND,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Graham J.
+[1] The Crown has brought a motion to quash an appeal filed by Mansour Boroumend in respect of his 2003 and 2004 tax years on the grounds that a precondition to filing the appeal has not been met. When a taxpayer objects to a reassessment and the Minister of National Revenue confirms the reassessment, the taxpayer has 90 days to appeal to the Tax Court of Canada.[1] The Crown takes the position that Mr. Boroumend did not initiate his appeal within 90 days, did not obtain an extension of time to appeal and is now out of time to obtain an extension of time. Thus, the Crown submits that Mr. Boroumend’s appeal should be quashed.
+[2] Mr. Boroumend takes the position that the Minister never mailed a Notice of Confirmation to him. Thus, he says that his objection is still outstanding. Paragraph 169(1)(b) of the Income Tax Act states that a taxpayer may appeal to the Court if 90 days have elapsed since he or she filed his or her objection and the Minister has not vacated the reassessment, confirmed the reassessment or issued a new reassessment. Mr. Boroumend asserts that his appeal was properly made pursuant to that provision and thus should not be quashed.
+Test to Be Used When a Taxpayer Alleges That a Notice of Confirmation Was Never Mailed [3] The Tax Court of Canada and Federal Court of Appeal have had many opportunities to consider what happens when a taxpayer alleges that the Minister did not mail a Notice of Assessment or a Notice of Confirmation. I recently set out a summary of the steps that have emerged from those cases in respect of Notices of Assessment (see Mpamugo v. The Queen[2]). The law is substantially the same for Notices of Confirmation. I have reproduced those steps below, with the modifications necessary to cover Notices of Confirmation:
+a) Step 1: The taxpayer must assert that the Notice of Confirmation was not mailed.[3] A taxpayer normally does so in one of two ways. The taxpayer may assert that he or she did not receive the Notice of Confirmation and thus believes that it was not mailed. Alternatively, the taxpayer may assert that the notice was mailed to the wrong address through no fault of the taxpayer and was thus, in effect, not mailed.
+b) Step 2: If the taxpayer asserts that the Notice of Confirmation was not mailed, the Minister must introduce sufficient evidence to prove, on a balance of probabilities, that the Notice of Confirmation was indeed mailed or, if the taxpayer has asserted that it was mailed to the wrong address, that it was mailed to the address that the CRA properly had on file.[4] As Notices of Confirmation are usually sent by registered mail, the Minister may choose to meet this burden by relying on an affidavit that complies with the requirements of subsection 244(5) to create a rebuttable presumption that the notice was mailed. Alternatively, the Minister may simply introduce the required evidence through other means.
+c) Step 3: If the Minister is able to prove that the Notice of Confirmation was indeed mailed, then the mailing is presumed to have occurred on the date set out on the notice (subsection 244(14)). This is a rebuttable presumption.[5] The taxpayer may introduce evidence to prove that it was actually mailed on a different date. The deadline for filing a Notice of Appeal is calculated from the mailing date established by this step (subsection 169(1)).
+d) Step 4: Once the mailing date is established (either through the presumption or through proof of a different date), the Notice of Confirmation is deemed to have been received on that date (subsection 248(7)). This deeming provision is not rebuttable.[6] Step 4 is not strictly relevant for the purposes of determining the deadline for filing a Notice of Appeal. That determination is made at Step 3. Step 4 simply makes it clear that the fact that a taxpayer did not actually receive the Notice of Assessment is irrelevant.
+[4] In Mpamugo, I concluded that the taxpayer’s credibility is to be considered in Step 2 rather than in Step 1.
+Application of the Mailing Test to the Facts [5] I will now apply the test set out above to the facts in Mr. Boroumend’s case.
+Step 1: Assertion That the Notice Was Not Mailed [6] Mr. Boroumend asserts that the Minister never mailed a Notice of Confirmation to him. He acknowledges that a notice was prepared but asserts that it was never mailed. This assertion satisfies Step 1 of the test.
+Step 2: Proof of Mailing [7] Since Mr. Boroumend has asserted that no Notice of Confirmation was ever mailed, the Crown must prove on a balance of probabilities that one was mailed.
+[8] The Crown would normally rely on subsection 244(5) to prove mailing. That subsection provides a simple mechanism by which the Minister can prove mailing if the Notice of Confirmation was sent by registered mail. Unfortunately for the Minister in the present case, she does not have the evidence that she would normally rely upon to produce the affidavit referred to in subsection 244(5).
+[9] The Minister tracks documents relating to an objection in what is referred to as an “orange appeals folder”. In the normal course, a dated copy of the Notice of Confirmation and the proof of mailing would both be kept in a taxpayer’s orange appeals folder. The Minister has lost Mr. Boroumend’s orange appeals folder. The Minister knows that the orange appeals folder existed up until at least the Spring of 2012 but is unsure what happened to it after that.
+[10] The fact that the Minister cannot rely upon subsection 244(5) to prove mailing does not mean that the Crown loses. It simply means that the Minister must use other means to try to prove, on a balance of probabilities, that the Notice of Confirmation was mailed.
+[11] The Minister relies upon an affidavit of a CRA litigation officer named Thivya Logananthan. Ms. Logananthan also testified and was cross-examined on both her affidavit and her testimony.
+[12] Ms. Logananthan explained that CRA Appeals’ normal practice would be to send a Notice of Confirmation to a taxpayer by Canada Post Xpresspost and to keep proof of that mailing in the orange appeals folder. She also explained that the normal practice would be for the Notice of Confirmation to be sent with a cover letter and to be accompanied by instructions on how to appeal to the Tax Court. I do not think that any of this evidence is controversial. I accept it.
+[13] Ms. Logananthan went on to describe what she says is the usual process by which Notices of Confirmation are sent out:
+a) The Appeals Officer prints out a Notice of Confirmation and an accompanying cover letter.
+b) The Appeals Officer then signs the cover letter.
+c) The Appeals Officer then gives the cover letter, the Notice of Confirmation and instructions on how to appeal to the Tax Court to his or her team leader for approval.
+d) If they are approved, the team leader then signs the Notice of Confirmation and gives the three documents to an Appeals clerk.
+e) The Appeals clerk then dates the Notice of Confirmation and the cover letter and sends them to the taxpayer by Xpresspost.
+f) Someone then enters that date into the CRA’s case management system.
+[14] The Crown admits that the foregoing testimony is hearsay. Ms. Logananthan does not personally have experience with the process that she described.
+[15] Section 72 of the Tax Court of Canada Rules (General Procedure) permits affidavit evidence based on information and belief to be admitted on a motion if the source of the information and the fact of the belief are stated. Any concerns about the necessity of the resulting hearsay evidence or its reliability go to the weight the Court should give to the evidence.[7] However, Ms. Logananthan’s evidence regarding the process was not introduced by affidavit. It was introduced orally pursuant to section 76 of the Rules. Section 76 does not say anything about hearsay. Thus, the normal rules regarding hearsay evidence apply. The evidence can only be admitted if it meets the tests of necessity and reliability.
+[16] I do not see the necessity of relying on Ms. Logananthan’s evidence rather than the evidence of an Appeals Officer or a team leader who has actual experience with the process. I did not need to receive evidence from the particular Appeals Officer or team leader who dealt with Mr. Boroumend’s objection. Given the size of the CRA’s operations and the sheer number of Notices of Confirmation that are mailed each year, it would have been acceptable to me if the Crown had simply adduced evidence from someone with personal knowledge indicating the normal procedure that is followed by CRA Appeals in issuing Notices of Confirmation and providing a reason why I should accept that that procedure was followed in Mr. Boroumend’s case.[8]
+[17] I also have some concerns about the reliability of Ms. Logananthan’s evidence. She seemed unsure of the exact mechanics of some of the key steps in the process and gave seemingly contradictory explanations as to who dated the Notice of Confirmation and when.
+[18] Based on the foregoing, I find that Ms. Logananthan’s evidence on the process of issuing a Notice of Confirmation is not admissible. I note that, even if I had accepted that Ms. Logananthan had accurately described the process, there are clear indications that the process was not followed in Mr. Boroumend’s case. A quality assurance audit performed on the file sometime after the objection process was completed revealed that there was no copy of the cover letter and no copy of the instructions on how to appeal to the Tax Court in Mr. Boroumend’s orange appeals folder. The absence of these documents indicates that the process described by Ms. Logananthan was not followed.
+[19] At some point, Mr. Boroumend made a request for documents under the Privacy Act.[9] The documents that were provided to him included some documents from his orange appeals folder. The Minister kept a copy of the documents given to Mr. Boroumend and has not lost those documents. Thus, the Minister indirectly has copies of some of the documents from the orange appeals folder. Ms. Logananthan attached the relevant documents to her affidavit. Those documents show that:
+a) on October 22, 2009, the Appeals Officer sent Mr. Boroumend a letter advising him that the Appeals Officer was going to confirm the reassessments;[10]
+b) the Appeals Officer prepared a Notice of Confirmation;[11]
+c) the Notice of Confirmation was signed by the Appeals Officer’s team leader;
+d) an undated copy of that signed Notice of Confirmation was placed in the orange appeals folder;
+e) the Appeals Officer prepared a cover letter to go with the Notice of Confirmation;
+f) the reproduced cover letter indicates that the Appeals Officer’s intention was to send the Notice of Confirmation and the cover letter by Xpresspost;
+g) in April 2010, a CRA Quality Assurance Officer reviewed the contents of the orange appeals folder and found that:[12]
+i. the cover letter had not been placed in the file; and
+ii. the instructions on how to appeal to the Tax Court had not been placed in the file;
+h) the Appeals Officer reproduced the cover letter that he had prepared and gave a copy of it to the Quality Assurance Officer who put it in the orange appeals folder;[13] and
+i) the reproduced cover letter was undated.
+[20] Ms. Logananthan reviewed the electronic records in the CRA’s case management system. Those records indicate that the “decision date” for Mr. Boroumend’s objection was October 29, 2009. Ms. Logananthan explained that the decision date is generally the date of the Notice of Confirmation. The fact that Mr. Boroumend’s decision date is October 29, 2009 is not proof that a Notice of Confirmation was sent to him. It is, however, proof that someone at the CRA believed the Notice of Confirmation had been sent on that date.
+[21] If the above documents and electronic records were all the evidence before me, I would have found that the Minister had failed to prove, on a balance of probabilities, that the Notice of Confirmation was mailed. The above documents and records are evidence that the Appeals Officer prepared the Notice of Confirmation, that he took steps towards mailing it and that the computer system was updated to reflect that intention, but are not proof that the notice was actually mailed.
+[22] However, the above documents and records are not the only evidence before me. There are several pieces of evidence that suggest that Mr. Boroumend received a Notice of Confirmation. If Mr. Boroumend received a Notice of Confirmation then it must have been mailed. The following evidence suggests that Mr. Boroumend received a Notice of Confirmation:
+a) In October 2011, Mr. Boroumend filed applications for extension of time to appeal his 2003 and 2004 tax years.[14] Both of those applications state that he was seeking an extension of time to appeal a “Notice of Reassessment” dated October 29, 2009. The applications state that his accountant kept telling him that he was going to file a Notice of Appeal but never did. The Notices of Appeal attached to those applications state that “on October 29, 2009 [the Appeals Officer] dismissed the Notices of objection and confirmed the reassessment.”[15]
+b) Mr. Boroumend ultimately withdrew his applications for extension.[16] He was represented by counsel at the time.[17] Assuming that October 29, 2009 was, in fact, the date that the Notices of Confirmation were mailed, Mr. Boroumend would have been out of time to apply for an extension of time to appeal. Mr. Boroumend later described counsel as not being able to help him “as time was not on his side”.[18] This description suggests that the reason for withdrawing the applications for extension was that they had been made too late.
+c) In October 2014, Mr. Boroumend applied to the Minister under the taxpayer relief provisions for relief in respect of his 2003 and 2004 tax years. He referred to those years as being “reassessed by the CRA on October 29, 2009.”[19]
+d) In November 2014, Mr. Boroumend again applied to the Minister under the taxpayer relief provisions for relief in respect of his 2003 and 2004 tax years. He again referred to those years as being “reassessed by the CRA on October 29, 2009.”[20]
+[23] A number of the above documents refer to Notices of Reassessment being issued on October 29, 2009 as opposed to a Notice of Confirmation. By contrast, the Notices of Appeal refer to a Notice of Confirmation dated October 29, 2009. There is no evidence to indicate that Mr. Boroumend’s 2003 and 2004 tax years were reassessed on October 29, 2009. I find that the references to reassessments were made in error and were intended to be references to confirmations.
+[24] I do not have any evidence from Mr. Boroumend to explain the above statements. Faced with the knowledge that the Crown was going to rely on those statements, Mr. Boroumend chose not to file an affidavit in response to the Crown’s motion. He chose not to state in such an affidavit that he did not receive the Notice of Confirmation. He chose not to explain why it was that he used the October 29, 2009 date in his applications for extension, his Notices of Appeal and his applications for taxpayer relief if not that he had received a Notice of Confirmation bearing that date. He chose not to explain why he withdrew his applications for extension if not because he had realized that he was out of time to make them. In the circumstances, I draw an adverse inference from his failure to introduce this evidence.
+[25] Mr. Boroumend submits that because the Crown has not yet filed a Reply and I have not yet granted an extension of time for the Crown to do so, pursuant to subsection 44(2) of the Rules, the facts pled in the Notice of Appeal are presumed to be true. As a result, Mr. Boroumend says that I must presume that his assertion in his Notice of Appeal that he did not receive the Notice of Confirmation is true. I disagree with that interpretation of subsection 44(2). Subsection 44(2) only applies when a Reply has not been filed within the time limits set out in subsection 44(1). Subsection 44(1) contemplates the normal 60 day time limit being extended either by consent or by Court order. In my view, subsection 44(2) only has the potential to apply when:
+a) a Reply has not been filed within the 60 day period and no extension has been granted;
+b) a Reply has not been filed within the 60 day period and an extension has been granted but the Reply has still not been filed within the extended period for filing; or
+c) a Reply has not been filed with the 60 day period and the Crown has not applied for an extension of time to file a Reply within that 60 day period.
+[26] The Crown is not in any of those situations. The Crown has, as alternative relief to quashing Mr. Boroumend’s appeal, asked for an extension of time to file a Reply and has done so within the 60 day period. Since I have not yet ruled on that application, the Crown is not yet unable to file a timely Reply and thus subsection 44(2) does not yet have the potential to apply.
+[27] The evidence of Mr. Boroumend’s actions after October 2009, coupled with the adverse inference that I have drawn, suggest that Mr. Boroumend received a Notice of Confirmation and that it was dated October 29, 2009. That suggestion is reinforced by the fact that the October 22, 2009 letter shows that the Minister planned to issue the Notice of Confirmation shortly thereafter and the fact that the case management system recorded October 29, 2009 as the date that a decision was made on the objections.
+[28] Based on all of the foregoing, I find that it is more likely than not that the Notice of Confirmation was mailed to Mr. Boroumend.
+Step 3: Date of Mailing [29] Normally, once the Respondent has proven that the Notice of Confirmation was mailed, the mailing would be presumed to have occurred on the date set out on the notice (subsection 244(14)). In this case, due to the loss of the orange appeals folder, I do not know what date was set out on the notice. However, based on all of the evidence before me, I find that the notice was mailed on October 29, 2009.
+[30] Pursuant to subsection 169(1), a taxpayer may appeal a confirmation on or before the day that is 90 days after the mailing of the Notice of Confirmation. The 90 day deadline for Mr. Boroumend to appeal the confirmation expired on January 27, 2010. Mr. Boroumend filed a Notice of Appeal on March 14, 2016. Mr. Boroumend did not obtain an extension of time to file a Notice of Appeal and is well out of time to do so now. Thus, he is not able to appeal to this Court.
+[31] Based on all of the foregoing, the Motion is allowed. The Appeal is quashed.
+Costs [32] Costs are awarded to the Crown.
+Signed at Ottawa, Canada, this 8th day of November 2016.
+“David E.Graham”
+Graham J.
+CITATION:
+2016 TCC 256
+COURT FILE NO.:
+2016-1032(IT)G
+STYLE OF CAUSE:
+MANSOUR BOROUMEND v. THE QUEEN
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+September 12, 2016
+REASONS FOR ORDER BY:
+The Honourable Justice David E. Graham
+DATE OF ORDER:
+November 8, 2016
+APPEARANCES:
+Counsel for the Appellant:
+Adam Serota
+John D. Buote
+Counsel for the Respondent:
+John Grant
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Adam Serota
+John D. Buote
+Firm:
+BRS Tax Lawyers LLP
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Income Tax Act subsection 169(1)
+[2] 2016 TCC 215. Mr. Mpamugo recently appealed this decision to the FCA.
+[3] Aztec Industries Inc. v. Canada, 1995 CarswellNat 278 (FCA); Schafer v. The Queen, 2000 CarswellNat 1948 (FCA)
+[4] Rossi v. The Queen 2015 FCA 267; Schafer (FCA); Scott v. MNR (1960), [1961] Ex. C.R. 120; The Queen v. 236130 British Columbia Ltd. 2006 FCA 352; Canada (Attorney General) v. Bowen 1991 CarswellNat 520 (FCA); Haggart v. The Queen 2003 TCC 925
+[5] McGowan v. The Queen 1995 CarswellNat 381 (FCA) in obiter at para 19
+[6] Bowen; Schafer (FCA)
+[7] Carcone v. The Queen 2011 TCC 550; Williamson v. The Queen 2009 TCC 222; Gould v. Lumonics Research Ltd. 1983 CarswellNat 7; Buhler Versatile Inc. v. The Queen 2016 FCA 68
+[8] Kovacevic v. The Queen 2003 FCA 293; Schafer v. The Queen 1998 CarswellNat 1002 (TCC)
+[9] R.S.C. 1985, c. p-21
+[10] Affidavit of Thivya Logananthan, Exhibit “D”
+[11] Affidavit of Thivya Logananthan, Exhibit “E”
+[12] Affidavit of Shelley Baltazar, Exhibit “A”
+[13] Affidavit of Thivya Logananthan, Exhibit “E”. This letter is the reproduction.
+[14] Affidavit of Thivya Logananthan, Exhibit “F”
+[15] Affidavit of Thivya Logananthan, Exhibit “F”, pages 23 and 31
+[16] Affidavit of Thivya Logananthan, Exhibit “H”
+[17] Different counsel than represented him at the hearing of this Motion.
+[18] Affidavit of Thivya Logananthan, Exhibits “I” and “K”
+[19] Affidavit of Thivya Logananthan, Exhibit “I”
+[20] Affidavit of Thivya Logananthan, Exhibit “K”

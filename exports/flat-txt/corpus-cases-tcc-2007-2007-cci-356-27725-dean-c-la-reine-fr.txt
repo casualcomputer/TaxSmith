@@ -1,0 +1,165 @@
+Title: Dean c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27725/index.do
+Corpus path: corpus/cases/tcc/2007/2007-cci-356-27725-dean-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2007-06-15
+
+# Dean c. La Reine
+
+- Citation: 2007 CCI 356
+- Decision date: 2007-06-15
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 476, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Dean c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-06-15
+Référence neutre
+2007 CCI 356
+Numéro de dossier
+2006-1055(IT)I
+Juges et Officiers taxateurs
+Leslie M. Little
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2006-1055(IT)I
+ENTRE :
+DAVID LEE DEAN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+___________________________________________________________________
+Appels entendus sur preuve commune avec les appels de Gordon Dean (2006‑1056(IT)I) le 20 février 2007, à Regina (Saskatchewan).
+Devant : L’honorable juge L.M. Little
+Comparutions :
+Avocat de l’appelant :
+Me Dwayne M. Anderson
+Avocate de l’intimée :
+Me Tracey Telford
+____________________________________________________________________
+JUGEMENT
+Les appels des cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 1999, 2000 et 2001 sont rejetés, avec dépens, selon les motifs de jugement ci‑joints.
+Signé à Calgary (Alberta), ce 15e jour de juin 2007.
+« L.M. Little »
+Juge Little
+Traduction certifiée conforme
+ce 12e jour d’octobre 2007.
+Johanne Brassard, trad. a.
+Dossier : 2006-1056(IT)I
+ENTRE :
+GORDON DEAN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+___________________________________________________________________
+Appels entendus sur preuve commune avec les appels de David Lee Dean (2006‑1055(IT)I) le 20 février 2007, à Regina (Saskatchewan).
+Devant : L’honorable juge L.M. Little
+Comparutions :
+Avocat de l’appelant :
+Me Dwayne M. Anderson
+Avocate de l’intimée :
+Me Tracey Telford
+____________________________________________________________________
+JUGEMENT
+Les appels des cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 1999, 2000 et 2001 sont rejetés, avec dépens, selon les motifs de jugement ci‑joints.
+Signé à Calgary (Alberta), ce 15e jour de juin 2007.
+« L.M. Little »
+Juge Little
+Traduction certifiée conforme
+ce 12e jour d’octobre 2007.
+Johanne Brassard, trad. a.
+Référence : 2007CCI356
+Date : 20070615
+Dossiers : 2006-1055(IT)I
+2006-1056(IT)I
+ENTRE :
+DAVID LEE DEAN,
+GORDON DEAN,
+appelants,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Little
+A. FAITS
+[1] Les appelants, Gordon Dean et David Lee Dean, sont frères. L’exercice de leur profession de dentiste, à Regina, en Saskatchewan, les tient tous deux fort occupés.
+[2] Chaque dentiste exploite son cabinet comme une entreprise individuelle. Gordon Dean exerce sa profession depuis plus de 20 ans, tandis que David Lee Dean l’exerce depuis 1994.
+[3] En 1998, les appelants ont conclu une entente (l’« entente ») avec Ash Temple Limited (« Ash Temple »), un fournisseur de fournitures dentaires. Selon l’entente, Ash Temple acceptait de vendre aux appelants du matériel dentaire à prix réduit et de financer leurs achats à un taux d’intérêt avantageux. Ash Temple avait aussi accepté d’aider les appelants à concevoir leurs locaux et à installer le matériel dentaire.
+[4] L’entente prévoyait que les appelants achèteraient chaque année à Ash Temple diverses fournitures dentaires d’une valeur de 120 000 $.
+[5] L’entente prévoyait en outre que les appelants recevraient des remises équivalant à 12 % du prix des diverses fournitures dentaires qu’ils achèteraient (les « remises »).
+[6] L’entente était conçue de façon à ce que les appelants reçoivent des remises mensuelles à peu près égales aux paiements mensuels qu’ils devaient effectuer pour le matériel dentaire.
+[7] Les appelants ont acheté diverses fournitures dentaires à Ash Temple au cours des années d’imposition 1998, 1999, 2000 et 2001. Ils ont déduit le prix des fournitures dentaires au titre des dépenses dans le calcul de leur revenu tiré de l’exercice de la médecine dentaire pour chaque année.
+[8] Les remises étaient versées aux appelants sous forme de chèques.
+[9] Au début, les chèques étaient émis à l’ordre de Gordon Dean, qui les déposait dans son compte bancaire personnel. Puis, il remettait un chèque tiré sur ce compte à son frère afin de verser à ce dernier sa part des remises. David Lee Dean déposait ensuite sa part des remises dans son compte bancaire personnel. Par la suite, Ash Temple émettait les chèques de remise à l’ordre de chaque appelant.
+[10] Les appelants n’ont pas inclus les remises dans le calcul de leur revenu tiré de l’exercice de la médecine dentaire. Ces sommes représentent les [traduction] « revenus non déclarés tirés des remises ».
+[11] Les appelants n’avaient pas informé Glen Berger, leur comptable, de l’entente conclue avec Ash Temple. La preuve indique que tous les paiements faits à Ash Temple pour l’achat d’équipement ont été défalqués au titre des dépenses par les appelants.
+[12] Après avoir obtenu d’Ash Temple des renseignements détaillés concernant l’équipement dentaire acheté et le solde impayé du prêt, M. Berger a établi l’équipement en tant qu’immobilisation, avec un prêt correspondant. À cette époque, il ne savait toujours rien des remises.
+[13] En février 2002, l’Agence du revenu du Canada (l’« ARC ») a entrepris une vérification à l’égard des appelants.
+[14] Le ministre du Revenu national (le « ministre ») a établi de nouvelles cotisations à l’égard de chacun des appelants et inclus les remises dans leur revenu pour les années d’imposition 1999, 2000 et 2001. Les appelants n’ont pas déposé d’avis d’opposition relativement à l’inclusion des remises dans leur revenu.
+[15] Le ministre a également imposé des pénalités conformément au paragraphe 163(2) de la Loi de l’impôt sur le revenu (la « Loi ») pour les [traduction ] « revenus non déclarés tirés des remises », les [traduction] « fonds soustraits à l’entreprise » et, dans le cas de Gordon Dean, les [traduction] « dépenses surévaluées pour les fournitures dentaires ».
+B. Question en litige
+[16] Il s’agit de savoir si les appelants ont fait, sciemment ou dans des circonstances équivalant à faute lourde, de faux énoncés ou des omissions dans leurs déclarations de revenus pour les années d’imposition 1999, 2000 et 2001, ou s’ils y ont participé, consenti ou acquiescé, aux termes de l’alinéa 163(2)a) de la Loi.
+C. Analyse et décision
+[17] Les passages pertinents de l’alinéa 163(2)a) sont rédigés ainsi :
+Toute personne qui, sciemment ou dans des circonstances équivalant à faute lourde, fait un faux énoncé ou une omission dans une déclaration, un formulaire, un certificat, un état ou une réponse (appelé « déclaration » au présent article) rempli, produit ou présenté, selon le cas, pour une année d’imposition pour l’application de la présente loi, ou y participe, y consent ou y acquiesce est passible d’une pénalité égale, sans être inférieure à 100 $, à 50 % du total des montants suivants :
+a) l’excédent éventuel du montant visé au sous‑alinéa (i) sur le montant visé au sous‑alinéa (ii) :
+(i) l’excédent éventuel de l’impôt qui serait payable par cette personne pour l’année en vertu de la présente loi […] s’il était ajouté au revenu imposable déclaré par cette personne dans la déclaration pour l’année la partie de son revenu déclaré en moins pour l’année qu’il est raisonnable d’attribuer au faux énoncé ou à l’omission et si son impôt payable pour l’année était calculé en soustrayant des déductions de l’impôt payable par ailleurs par cette personne pour l’année, la partie de ces déductions qu’il est raisonnable d’attribuer au faux énoncé ou à l’omission,
+(ii) l’excédent éventuel de l’impôt qui aurait été payable par cette personne pour l’année en vertu de la présente loi […] si l’impôt payable pour l’année avait fait l’objet d’une cotisation établie d’après les renseignements indiqués dans la déclaration pour l’année;
+[Non souligné dans l’original.]
+[18] Le juge Strayer a expliqué le concept de « faute lourde » dans la décision souvent citée Venne v. The Queen, [1984] C.T.C. 223, 84 DTC 6247, au paragraphe 37 :
+[…] La « faute lourde » doit être interprétée comme un cas de négligence plus grave qu’un simple défaut de prudence raisonnable. Il doit y avoir un degré important de négligence qui corresponde à une action délibérée, une indifférence au respect de la loi. […]
+[19] Dans Nicholas v. The Queen, [1996] 3 C.T.C. 2266, 96 DTC 1740, le juge Sobier de la Cour de l’impôt a donné, au paragraphe 8, une définition de la « faute lourde » qui ressemble à la définition que l’on retrouve dans Venne :
+[…] Pour équivaloir à une faute lourde, la négligence doit être plus grave que la simple omission de faire preuve de prudence raisonnable, et il doit y avoir un degré important de négligence qui corresponde à une action délibérée, une indifférence au respect de la loi. […]
+[20] Dans Ganne v. The Queen, [1994] 1 C.T.C. 2124, 95 DTC 363, la juge Lamarre de la Cour a décrit l’expression ainsi, au paragraphe 7 :
+L’expression « faute lourde » a souvent été décrite par les tribunaux comme signifiant « faute très grave ». […]
+[21] Dans Klotz v. The Queen, 2004 CCI 147, 2004 DTC 2236, [2004] 2 C.T.C. 2892, le juge en chef Bowman a déclaré ce qui suit, au paragraphe 68 :
+[…] Il est important de souligner que le fait qu’une personne n’a pas fait preuve d’une diligence raisonnable ne veut pas pour autant dire qu’elle a commis une faute lourde. La faute lourde dénote une faute beaucoup plus grave, une insouciance répréhensible.
+[22] Les affaires et les définitions susmentionnées sont claires et cohérentes quant à la question de savoir ce qui constitue une « faute lourde ».
+[23] Selon le paragraphe 163(3) de la Loi, le fardeau de la preuve incombe au ministre :
+Dans tout appel interjeté, en vertu de la présente loi, au sujet d’une pénalité imposée par le ministre en vertu du présent article ou de l’article 163.2, le ministre a la charge d’établir les faits qui justifient l’imposition de la pénalité.
+[24] J’ai examiné soigneusement l’argumentation de l’avocat des appelants et celle de l’avocate de l’intimée ainsi que les diverses décisions des tribunaux auxquelles ils ont fait référence. À mon avis, l’omission des appelants de déclarer les remises et les fonds soustraits à l’entreprise dans leur revenu pour les années d’imposition 1999, 2000 et 2001 constituait une faute lourde, au sens du paragraphe 163(2) de la Loi.
+[25] Dans le cas de Gordon Dean, je conclus que la déclaration de dépenses surévaluées pour les fournitures dentaires constituait une faute lourde.
+[26] J’ai aussi examiné les arguments soulevés par l’avocat des appelants quant à l’application de l’alinéa 12(1)x) et du paragraphe 13(7.4). À mon avis, ces dispositions ne s’appliquent pas en l’espèce.
+[27] Je conclus que le ministre a correctement imposé des pénalités aux appelants pour leur omission d’inclure dans leur revenu les remises et les fonds soustraits à l’entreprise, et dans le cas de Gordon Lee, pour la déclaration de dépenses surévaluées pour les fournitures dentaires.
+[28] Les appels sont rejetés, avec dépens.
+Signé à Calgary (Alberta), ce 15e jour de juin 2007.
+« L.M. Little »
+Juge Little
+Traduction certifiée conforme
+ce 12e jour d’octobre 2007.
+Johanne Brassard, trad. a.
+RÉFÉRENCE : 2007CCI356
+Nos DES DOSSIERS DE LA COUR : 2006-1055(IT)I
+2006-1056(IT)I
+INTITULÉ : David Lee Dean et Gordon Dean
+c. Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Regina (Saskatchewan)
+DATE DE L’AUDIENCE : Le 20 février 2007
+MOTIFS DU JUGEMENT : L’honorable juge L.M. Little
+DATE DU JUGEMENT : Le 15 juin 2007
+COMPARUTIONS :
+Avocat des appelants :
+Me Dwayne M. Anderson
+Avocate de l’intimée :
+Me Tracey Telford
+AVOCATS INSCRITS AU DOSSIER :
+Pour les appelants :
+Me Dwayne M. Anderson
+Anderson Law Firm
+Regina (Saskatchewan)
+Pour l’intimée : John H. Sims, c.r.
+Sous‑procureur général du Canada
+Ottawa, Canada

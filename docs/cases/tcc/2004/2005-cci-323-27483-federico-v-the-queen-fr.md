@@ -1,0 +1,255 @@
+---
+title: "Federico v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27483/index.do"
+last_modified: "2004-05-06"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 CCI 323"
+citation2: ""
+neutral_citation: "2005 CCI 323"
+decision_date: "2004-05-06"
+language: "fr"
+item_id: "27483"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 42
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T20:30:19.487000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "1aad2a114d44ffa77263dc1dacbcb3d2b6add716e235d7105cbff1f251453e50"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Federico v. The Queen
+
+- Citation: 2005 CCI 323
+- Decision date: 2004-05-06
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 42, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Federico v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-05-06
+Référence neutre
+2005 CCI 323
+Numéro de dossier
+2004-1137(GST)I
+Juges et Officiers taxateurs
+David W. Beaubier
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2004-1137(GST)I
+ENTRE :
+JOVITO FEDERICO,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec l'appel de Jovito Federico et Lydia Federico (2004-3581(GST)I ) à Calgary (Alberta), le 29 avril 2005.
+Devant : L'honorable juge D.W. Beaubier
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocat de l'intimée :
+Me Mark Heseltine
+____________________________________________________________________
+JUGEMENT
+L'appel de la cotisation établie en application de la Loisur la taxe d'accise, dont l'avis est daté du 2 mai 2003, est rejeté.
+Signé à Saskatoon (Saskatchewan), ce 6e jour de mai 2005.
+« D.W. Beaubier »
+Juge Beaubier
+Traduction certifiée conforme
+ce 20e jour de mars 2006.
+Christian Laroche, LL.B.
+Dossier : 2004-3581(GST)I
+ENTRE :
+JOVITO FEDERICO et LYDIA FEDERICO,
+appelants,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec l'appel de Jovito Federico (2004-1137(GST)I) à Calgary (Alberta), le 29 avril 2005.
+Devant : L'honorable juge D.W. Beaubier
+Comparutions :
+Pour l'appelant :
+M. Jovito Federico
+Avocat de l'intimée :
+Me Mark Heseltine
+____________________________________________________________________
+JUGEMENT
+L'appel de la cotisation établie en application de la Loisur la taxe d'accise, dont l'avis est daté du 2 mai 2003, est rejeté.
+Signé à Saskatoon (Saskatchewan), ce 6e jour de mai 2005.
+« D.W. Beaubier »
+Juge Beaubier
+Traduction certifiée conforme
+ce 20e jour de mars 2006.
+Christian Laroche, LL.B.
+Référence : 2005CCI323
+Date : 20050506
+Dossier : 2004-1137(GST)I
+ENTRE :
+JOVITO FEDERICO,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2004-3581(GST)I
+ET ENTRE :
+JOVITO FEDERICO et LYDIA FEDERICO,
+appelants,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Beaubier
+[1] Les présents appels, interjetés sous le régime de la procédure informelle, ont été entendus ensemble, sur preuve commune, sur consentement des parties à Calgary, en Alberta, le 29 avril 2005. Seul Jovito Federico ( « Jovito » ) a témoigné.
+[2] Il s'agit d'appels de décisions selon lesquelles les appelants doivent un montant au titre de la TPS à l'égard de la même entreprise, « Global Care » , pour les périodes allant du 1er janvier 1997 au 31 décembre 2001 (sauf pour les années civiles 1999 et 2000) en ce qui concerne la société de personnes (2004-3581(GST)I) et pour la période allant du 1er janvier 2000 au 31 décembre 2001 en ce qui concerne Jovito.
+[3] Les hypothèses émises au paragraphe 9 de la réponse à l'avis d'appel dans le dossier 2004-3581(GST)I n'ont pas été réfutées. Elles sont ainsi libellées :
+[TRADUCTION]
+9. En établissant ainsi une cotisation à l'égard de l'appelante et en ratifiant la cotisation, le ministre s'est fondé comme suit sur les mêmes hypothèses de fait :
+a) l'appelante était une société de personnes composée de Jovito Federico et de Lydia Federico;
+b) en 1993, l'appelante a commencé à exercer ses activités sous le nom commercial Global Care; elle fournissait des services de placement à des travailleurs domestiques venant de l'étranger;
+c) l'appelante recevait, pour les services de placement qu'elle fournissait, une contrepartie sous la forme de frais reçus du travailleur domestique qui était placé et de l'employeur de ce travailleur domestique;
+d) l'appelante était un inscrit au 1er janvier 1997;
+e) la fourniture des services de placement était taxable à 7 p. 100;
+f) pendant les périodes pertinentes, l'appelante a reçu comme suit une contrepartie pour les services de placement qu'elle fournissait et pour lesquels une taxe était percevable :
+Période
+Fournitures
+Percevable au taux de 7 p. 100
+31-12-1991
+97 742,00
+6 841,94
+31-12-1998
+95 061,00
+6 654,27
+31-12-2001
+66 359,00
+4 645,13
+259 162,00
+18 141,34
+g) l'appelante était tenue de produire sa déclaration sur une base annuelle, l'exercice prenant fin le 31 décembre;
+h) l'appelante n'a pas produit de déclaration et n'a pas rendu compte de la taxe mentionnée ci-dessus à l'alinéa 9f);
+i) l'appelante n'a pas déclaré ni versé la taxe nette, d'un montant d'au moins 11 662,30 $, pour les périodes pertinentes.
+[4] Les paragraphes 7 à 12 de la réponse à l'avis d'appel versée dans le dossier 2004-1137(GST)I sont libellés comme suit :
+[TRADUCTION]
+7. Par un avis de cotisation daté du 2 mai 2003 (la « cotisation » ), le ministre du Revenu national (le « ministre » ) a établi une cotisation à l'égard de l'appelant par suite de son omission de déclarer la taxe nette pour les périodes pertinentes et il a ajouté les montants suivants au titre des pénalités et des intérêts :
+Période de déclaration
+Fournitures taxables
+TPS percevable à 7 %
+Crédits de taxe sur les intrants admis
+Taxe nette
+Intérêts
+Pénalité
+Total
+31-12-2000
+42 331,00
+2 963,17
+1 058,27
+1 904,90
+119,59
+235,27
+2 259,76
+31-12-2001
+31 129,00
+2 179,03
+778,23
+1 400,81
+30,47
+76,21
+1 507,49
+5 142,20
+1 836,50
+3 305,71
+150,06
+311,48
+3 767,25
+8. L'appelant s'est opposé à la cotisation par un avis d'opposition en date du 9 juin 2003.
+9. Le ministre a ratifié la cotisation par un avis de décision daté du 22 décembre 2003.
+10. En établissant ainsi une cotisation à l'égard de l'appelant et en ratifiant la cotisation, le ministre s'est fondé sur les hypothèses de fait suivantes :
+a) en 1993, l'appelant et Lydia Federico ont commencé à exploiter une entreprise sous la forme d'une société de personnes (la « société de personnes » );
+b) la société de personnes était exploitée sous le nom commercial Global Care;
+c) Global Care fournissait des services de placement à des travailleurs domestiques;
+d) Global Care recevait, pour les services qu'elle fournissait, des frais du travailleur domestique qui était placé et de l'employeur de ce travailleur domestique;
+e) la société de personnes était un inscrit au 1er janvier 1997;
+f) le ou avant le 1er janvier 2000, l'appelant a commencé à exploiter Global Care à titre de propriétaire unique;
+g) pendant la période pertinente, l'appelant était un inscrit;
+h) l'appelant était tenu de produire des déclarations de TPS sur une base annuelle, l'exercice prenant fin le 31 décembre;
+i) en 2000, l'appelant a reçu une contrepartie d'au moins 42 331 $ à l'égard des services de placement qu'il fournissait;
+j) en 2001, l'appelant a reçu une contrepartie d'au moins 31 129 $ à l'égard des services de placement qu'il fournissait;
+k) la fourniture des services de placement par l'appelant était assujettie à la TPS, correspondant à 7 p. 100 de la contrepartie à recevoir pour ces services de placement;
+l) l'appelant a omis de déclarer un montant de 2 963,17 $ au titre de la TPS et d'en rendre compte en ce qui concerne les services de placement qu'il fournissait pendant la période de déclaration qui a pris fin le 31 décembre 2000;
+m) l'appelant a omis de déclarer un montant de 2 179,03 $ au titre de la TPS et d'en rendre compte en ce qui concerne les services de placement qu'il fournissait pendant la période de déclaration qui a pris fin le 31 décembre 2001;
+n) l'appelant a omis de déclarer un montant d'au moins 1 904,90 $ au titre de la taxe nette et d'en rendre compte pour la période de déclaration qui a pris fin le 31 décembre 2000;
+o) l'appelant a omis de déclarer un montant d'au moins 1 400,81 $ au titre de la taxe nette et d'en rendre compte pour la période de déclaration qui a pris fin le 31 décembre 2001.
+B. LA QUESTION À TRANCHER
+11. La question à trancher dans le présent appel est celle de savoir si, en établissant une cotisation à l'égard de la taxe nette due par l'appelant pour les périodes pertinentes, le ministre a eu raison d'établir une cotisation à l'égard de l'appelant, en ce qui concerne la TPS non déclarée, d'un montant de 2 963,17 $ pour la période qui a pris fin le 31 décembre 2000 et de 2 179,03 $ pour la période qui a pris fin le 31 décembre 2001, soit un montant total de 5 142,20 $.
+C. LES DISPOSITIONS LÉGISLATIVES, LES MOTIFS INVOQUÉS ET LA MESURE DE REDRESSEMENT SOLLICITÉE
+12. Il se fonde sur les paragraphes 123(1), 127(3), 221(1), 225(1) et 240(1), ainsi que sur les articles 148, 152, 165, 168, 169, 171, 228, 238, 296 et 299 de la Loisur la taxe d'accise (la « Loi » ), L.R.C. 1985, ch. E-15, et modifications.
+Aucune des hypothèses énoncées au paragraphe 9 n'a été réfutée.
+[5] Jovito a témoigné qu'en 1993, il avait parlé au personnel de Revenu Canada et qu'on lui avait dit qu'il n'avait pas à inscrire Global Care aux fins de la TPS ni à percevoir la TPS. Jovitone s'est jamais inscrit; c'est plutôt le personnel de Revenu Canada ou de l'ARC qui l'a inscrit. Les détails concernant les cotisations visées par les appels ont été obtenus à l'aide des déclarations de revenu. À ce jour, aucune déclaration de TPS n'a été produite, parce que Jovito a continué à se fonder sur la conversation qu'il avait initialement eue en 1993. Le témoignage que Jovito a présenté au sujet de ces conversations n'a pas été réfuté et la Cour croit qu'il est exact.
+[6] Toutefois, une fois qu'elle a commencé à excéder le seuil de 30 000 $ fixé au paragraphe 148(1) de la Loisur la taxe d'accise, Global Care était régie par les dispositions relatives aux déclarations et à la taxe.
+[7] Le 7 avril 2003 (pièce R-1), Jovito a été avisé que Global Care était inscrite aux fins de la TPS et on lui a demandé de faire une déclaration. Les cotisations ici en cause ont suivi pendant l'année civile 2003. Jovito a persisté à affirmer que Global Care n'avait pas été inscrite et qu'on lui avait dit qu'elle n'avait pas à s'inscrire.
+[8] Toutefois, même si Global Care reçoit une partie de ses frais de travailleurs venant de l'Orient qui veulent travailler au Canada, elle est régie par l'alinéa 142(1)g) et ses services sont réputés avoir été fournis au Canada, parce que son service (le placement de travailleurs étrangers dans des emplois au Canada) est rendu en tout ou en partie au Canada.
+[9] Enfin, le droit est clair : la Loisur la taxe d'accise s'applique; les conseils erronés donnés par des représentants de Revenu Canada ou par quelqu'un d'autre ne peuvent pas donner lieu à une forme de fin de non-recevoir. Si l'appelant est visé par la Loi, la taxe est exigible (M.R.N. c. Inland Industries Ltd., [1974] R.C.S. 54).
+[10] Pour ces motifs, les appels sont rejetés.
+Signé à Saskatoon (Saskatchewan), ce 6e jour de mai 2005.
+« D.W. Beaubier »
+Juge Beaubier
+Traduction certifiée conforme
+ce 20e jour de mars 2006.
+Christian Laroche, LL.B.
+RÉFÉRENCE :
+2005CCI323
+Nos DES DOSSIERS DE LA COUR :
+2004-1137(GST)I
+2004-3581(GST)I
+INTITULÉ :
+Jovito Federico c. La Reine
+Jovito Federico et Lydia Federico c. La Reine
+LIEU DE L'AUDIENCE :
+Calgary (Alberta)
+DATE DE L'AUDIENCE :
+Le 29 avril 2005
+MOTIFS DU JUGEMENT :
+L'honorable juge D.W. Beaubier
+DATE DU JUGEMENT :
+Le 6 mai 2005
+COMPARUTIONS :
+Pour les appelants :
+M. Jovito Federico
+Avocat de l'intimée :
+Me Mark Heseltine
+AVOCATS INSCRITS AU DOSSIER :
+Pour les appelants :
+Nom :
+Cabinet :
+Pour l'intimée :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa (Ontario)

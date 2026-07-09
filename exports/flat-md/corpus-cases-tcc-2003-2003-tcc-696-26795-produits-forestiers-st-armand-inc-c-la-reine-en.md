@@ -1,0 +1,192 @@
+---
+title: "Produits Forestiers St-Armand Inc. c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26795/index.do"
+last_modified: "2003-10-02"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 TCC 696"
+citation2: ""
+neutral_citation: "2003 TCC 696"
+decision_date: "2003-10-02"
+language: "en"
+item_id: "26795"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3489
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T17:40:18.056000+00:00"
+cases_cited_count: 1
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "1354d886176c1d964409657980109a160459d330262efccf3579004abd069464"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Produits Forestiers St-Armand Inc. c. La Reine
+
+- Citation: 2003 TCC 696
+- Decision date: 2003-10-02
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3489, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Produits Forestiers St-Armand Inc. c. La Reine
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-10-02
+Neutral citation
+2003 TCC 696
+File numbers
+2000-1469(IT)G
+Judges and Taxing Officers
+Louise Lamarre Proulx
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2000-1469(IT)G
+BETWEEN:
+PRODUITS FORESTIERS ST-ARMAND INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard on June 10, 2003 at Montréal, Quebec
+Before: The Honourable Judge Louise Lamarre Proulx
+Appearances:
+Counsel for the Appellant:
+Serge Fournier
+Counsel for the Respondent:
+Johanne Boudreau
+Claude Lamoureux
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 1995 taxation year is dismissed in accordance with the attached Reasons for Judgement.
+No costs are awarded.
+Signed at Ottawa, Canada, this 2nd day of October 2003.
+"Louise Lamarre Proulx"
+Lamarre Proulx, J.
+Translation certified true
+on this 18th day of March 2004.
+Gerald Woodard, Translator
+Citation: 2003TCC696
+Date: 20031002
+Docket: 2000-1469(IT)G
+BETWEEN:
+PRODUITS FORESTIERS ST-ARMAND INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Lamarre Proulx, J.
+[1] This is an appeal concerning the 1995 taxation year.
+[2] The first issue is whether the Appellant made a misrepresentation attributable to neglect, carelessness or wilful default in filing its income tax return for the 1995 taxation year, within the meaning of paragraph 152(4)(a) of the Income Tax Act (the "Act").
+[3] The second issue is to determine various expenses totalling $146,205 are current or capital expenses.
+[4] Mr. Henri Alder testified for the Appellant, of which he is President. He explained that, since 1991, the Appellant operates a lumber company. The business began with the acquisition of a kiln and sawmill in bankruptcy.
+[5] In 1995, Mr. Alder had an associate, Mr. Pierre Compagna. It was he who kept the books with an accounting clerk, a Mr. Massé. The latter did not have a degree in accounting, but was trained. Mr. Compagna handled mostly purchasing, sales and accounting, while Mr. Alder handled mostly production and site maintenance. Mr. Alder was an electrical contractor by trade and had a sound knowledge of mechanics.
+[6] In the beginning, the company had some 15 employees. It now has approximately 80. In 1995, the period at issue, there were probably 50. In 1995, the Appellant had annual sales of 8 million dollars.
+[7] At that time, the mill operated on two shifts. The Appellant produced close to 40,000 feet of wood per day. Ten trucks, 40-foot tractor trailers, arrived each day with loads of billets or logs. The logs were unloaded, measured and classed in the yard by species and grade. The logs were then processed into lumber in the mill. The lumber was transported to the kiln.
+[8] The Appellant had purchased the land adjacent to the mill in order to have enough space to store wood and dig an artificial lake in the event of a fire.
+[9] The Appellant built a house for Mr. Alder to allow him to live close to the business. When there were problems, he was there. The house was built by an outside company, except the interior finishing. The witness explained that he sold his home in St-Eustache and loaned the money interest-free to the Appellant to build the house.
+[10] Mr. Alder explains that, in terms of the expenses for gravel and asphalt, they were required to allow the trucks to circulate easily. They carry heavy loads and the roads must be resurfaced frequently.
+[11] Both parties agree that the billing for the house should have been capitalized and accounted in a separate account. The counsel for the Appellant immediately adds, however, that this is a small error that does not lead to application of paragraph 152(4)(a) of the Act.
+[12] The documents were produced as Exhibit I-1 with the consent of the Respondent. The invoices at issue start at Tab A. The description of the invoices at issue, which was included with the Response, was produced at Tab 4 of Exhibit I-1. The amounts of the invoices are before taxes.
+[13] Tab A includes the invoice from Société Danarc Inc. in the amount of $760. It is for the application for authorization from the Commission de protection du territoire agricole du Québec to rezone the agricultural land to permit storage of wood and creation of an artificial lake.
+[14] The two invoices at Tab B are for the paving of a new yard. The first is for $13,928.83, for asphalting, and the second is for $418.03, for transport of gravel. These fall under the general comments by Mr. Alder regarding the use requiring transportation and handling of loads of wood.
+[15] Tab C includes the invoice from Akhurst Machinerie Limitée for $9,415 for a piece of equipment needed for a new conveyor.
+[16] At Tab D, there is an invoice for $1,000 for a 3,000-gallon reservoir.
+[17] At Tab E, there is an invoice for $612 from the notary who prepared the documents for the purchase of the land adjacent to the mill.
+[18] At Tab F, there is an invoice for $900 for the purchase of two used electric welders. According to Mr. Alder, the welders could last from one to five years.
+[19] The invoice at Tab G, for $2,260, is for the purchase of a hydraulic press used by the Appellant, according to the witness, for upkeep and maintenance.
+[20] At Tab H, there are five invoices from the same supplier. The first is for $2,700 for the installation of a septic tank and disposal field for the residence. Mr. Alder explained that this invoice was probably included in current expenses due to an error by the accountant because this supplier had done several jobs for the Appellant. That could explain the error. Three invoices were for major work on the yard. One invoice for $4,615 was for the rental of a compressor and one was for a small amount for installing a drain. Two invoices for $42,758.42 and $12,683.38, respectively, were for gravel and rocks. The auditor indicated in the description of expenses included with the Response that 60 % of expenses were allowed for settlement purposes. The auditor's explanation reads as follows:
+[translation]
+Yard improvement work was carried out in late 1994. This work consisted of base layer of sand, lime and then a layer of gravel on top. Our analysis of the file shows that regular expenses are needed to maintain the yard, but that the aforementioned expenses are exceptional and provide a lasting benefit for the company.
+[21] At the same tab, there is a final invoice from the same supplier for $4,500 for a snowplough. According to the witness, Mr. Alder, the truck was only used for one winter, thus explaining why its cost was included in current expenses.
+[22] The two invoices at Tab I for $534.06 and $7,892.50 are for material for the house, purchased from Goodfellow Inc.
+[23] Tab J is for the purchase of some equipment for $3,237 and $7,008, respectively, for a new conveyor at the kiln.
+[24] At Tab K, there is an invoice for $14,350 for the repair and modification of a debarker.
+[25] At Tab L, there is an invoice for an electric pump for a paint gun or sprayer at a cost of $864. According to the witness, this is a tool that does not last long.
+[26] At Tab M, there are five invoices from a single machine shop for construction and assembly of a machine or equipment for handling wood in the kiln, at a cost of $2,583.54, $1,342.95, $5,279.90, $917.35 and $10,455.92 respectively.
+[27] At Tab N, there is an invoice for the purchase of a three-wheeled motorcycle for $1,000. According to Mr. Alder, this was to facilitate the work of the person measuring the wood.
+[28] At Tab O, there is an invoice for electrical components for the residence at a cost of $755.10.
+[29] At Tab P, there is an invoice for $2,806.70. According to Mr. Alder, this was for moving a light tower. According to the auditor, this is a current expense for the residence. He states that this was not the explanation given him during the on-site audit. He also believes remembering another invoice for that very point.
+[30] At Tab Q, there are two invoices for $2,042.46 and $663.32 respectively. Although the invoices include drywall and indicate that it was for the house at the back of the yard, Mr. Alder suggested that it was for the office above the garage at the mill. He stated that the residence was completed in April 1995. These invoices are from March and April 1995.
+[31] There are two invoices at Tab R for two used golf cards at prices of $1,350 and $1,500 respectively. They were purchased to facilitate moving about and for visits to the large lot.
+[32] At Tab S, there is an invoice for the purchase of a truck scale at a cost of $7,598. The witness stated that it was not used for more than a year because it served no purpose.
+[33] At Tab 6, there are four invoices for the decoration of the residence at a cost of $2,930.68, $3,408.07, $685.27 and $2,000.03 that should have been capitalized.
+[34] Mr. Gilles Bergeron, a chartered accountant, testified for the Appellant. He has known Mr. Alder since 1969 or 1970. He had been the auditor for the Appellant since its creation in 1991. His role was to audit the financial statements at the end of the year. During the year, however, Mr. Compagna and Mr. Massé called him maybe once or twice a month to ask his opinion on various problems that they may have had with the accounting. There were specific discussions regarding the nature of expenses. It was agreed that all expenses related to the residence should be accounted in the residence account and capitalized.
+[35] Tab 1 of Exhibit I-1 is the Appellant's income tax return for the year at issue, with which are included the Appellant's financial statements as of April 30, 1995. The witness read that sales for 1995 totalled $8,176,535, that there was an amount of approximately $708,000 placed in the capital expenditure account and that current expenses totalled approximately $575,000.
+[36] Oddly enough, the witness seemed to confirm that he allegedly approved of entering into current expenses an asset that should otherwise have been capitalized, such as the snowplough and the truck scale, because they were used for a short time. He did not, however, remember these conversations.
+[37] Mr. Claude Charpentier, an auditor with the Canada Customs and Revenue Agency, testified for the Respondent. He conducted the audit of the Appellant for the 1995 to 1998 taxation years. His audit began in May 1988 and was conducted on-site. He met with Mr. Massé and Mr. Alder. Mr. Massé allegedly told him that, when the amounts were not large, he included them with current expenses. He saw no corrections in the Appellants books, which would indicate that the external accountant accepted the entries as made by the internal accountant.
+[38] He stated that the $4,500 truck mentioned at Tab H was included in the small tools account. As regards the expenses for paving, the expenses that he capitalized were those that provided the Appellant with a lasting benefit. In addition to the 60 % of paving expenses that he allocated as indicated above, there were many others that were allocated for repairs to the access road.
+[39] In terms of the residence, he states that it is impossible for the work on the residence to have been completed in April 1995, as there were still invoices for at least $51,000 in 1996. In terms of the amount of proceeds from the sale of the residence in St-Eustache, the auditor saw an interest-free advance of $110,000 by Mr. Alder, but the residence cost $280,000.
+[40] He stated that he met with Mr. Compagna when presenting the proposed assessment. That proposal was included at Tab 7 of Exhibit I-1. The capitalized expenses were than $232,441.77. After discussions and presentations by the counsel for the Appellant, that amount was reduced to the amount now at issue.
+[41] The proposed assessment is dated June 23, 1998. The 1995 taxation year became prescribed on September 7, 1998. In cross-examination, the counsel for the Appellant asked him if he had placed a note in the file in this regard. The auditor answered no. Neither did he as the taxpayer to waive the limitation period. He stated that, on the one hand, he had not thought of it and, on the other, because of the type of capitalized expenses, there would be no problem in reopening the prescribed year.
+[42] At the request of counsel, he read the portion of his T20 report that justifies assessment outside the normal assessment period. I cite pages 178 and 179 of the transcript:
+[translation]
+Reopening the 1995 taxation year pursuant to 152(4). The 1995 taxation year was initially assessed on September 7, 1995, while the normal assessment period ends on September 7, 1998. We reopened the 1995 taxation year pursuant to subsection 152(4) of the Income Tax Act. Subsection 152(4) states that the normal reassessment period may be ignore where the taxpayer has made a misrepresentation attributable to neglect, carelessness or wilful default. According to the facts gathered, the company was claiming an expense of $146,205. These expenses should have been capitalized. Analysis of the company's taxable income shows that it is still at approximately $200,000 in reported taxable income. It is thus in its best interest to claim as many expenses as possible in order to bring its taxable below $200,000. The company's comptroller, Mr. Massé, admitted to me that several expenses were entered in expenses, as they were not material. The argument is not logical, as materiality is a concept that does not exist in taxation. There are several inconsistencies in the method of capitalization. There are situations in which several large amounts were entered in expenses when they clearly should have been capitalized. The way in which the taxpayer proceeded can be qualified as negligent or careless.
+Arguments
+[43] Counsel for the Respondent referred to paragraph 152(4)(a) of the Act, which reads as follows:
+152(4) The Minister may at any time make an assessment, reassessment or additional assessment of tax for a taxation year, interest or penalties, if any, payable under this Part by a taxpayer or notify in writing any person by whom a return of income for a taxation year has been filed that no tax is payable for the year, except that an assessment, reassessment or additional assessment may be made after the taxpayer's normal reassessment period in respect of the year only if
+(a) the taxpayer or person filing the return
+(i) has made any misrepresentation that is attributable to neglect, carelessness or wilful default or has committed any fraud in filing the return or in supplying any information under this Act, or
+(ii) has filed with the Minister a waiver in prescribed form within the normal reassessment period for the taxpayer in respect of the year;
+[44] She argued that the multiple expenses totalling a relatively high $15,351.63 for the house that were included in current expenses are a strong indication of misrepresentation attributable to neglect, carelessness or wilful default. These expenses are found at Tabs H, I, O, Q and 6. She referred to other expenses that are, on their face, capital in nature, such as those for the purchase of a truck, a hydraulic press and a three thousand gallon reservoir, as well as expenses related to repaving the yard, expenses that were entered as current expenses.
+[45] Counsel for the Respondent referred to the decision by the Federal Court, Trial Division in Venne v. Canada, [1984] F.C.J. No 314 (Q.L.) that states that the burden of proof on the Respondent is much less than that for the penalty imposed under subsection 163(2) of the Act. It is a matter of showing that the taxpayer did not exercise due diligence:
+I am satisfied that it is sufficient for the Minister, in order to invoke the power under sub-paragraph 152(4)(a)(i) of the Act to show that, with respect to any one or more aspects of his income tax return for a given year, a taxpayer has been negligent. Such negligence is established if it is shown that the taxpayer has not exercised reasonable care. This is surely what the words "misrepresentation that is attributable to neglects" must mean, particularly when combined with other grounds such as "carelessness" or "wilful default" which refer to a higher degree of negligence or to intentional misconduct. Unless these words are superfluous in the section, which I am not able to assume, the term "neglect" involves a lesser standard of deficiency akin to that used in other fields of law such as the law of tort. See Jet Metal Products Limited v. The Minister of National Revenue, (1979) 79 DTC 624 at 636-37 (T.R.B.).
+[46] She also referred to the decision by the Federal Court of Appeal in Nesbitt v. Canada, [1996] F.C.J. No 1470 (Q.L.), particularly paragraph 8 of that decision:
+Even assuming that the letter of August 6, 1986, could be taken to prove the Minister's knowledge by that date (two months prior to expiry of the four-year limitation period) of the true facts and that there had been a misrepresentation, I do not believe this assists the appellant. It appears to me that one purpose of subsection 152(4) is to promote careful and accurate completion of income tax returns. Whether or not there is misrepresentation through neglect or carelessness in the completion of a return is determinable at the time the return is filed. A misrepresentation has occurred if there is an incorrect statement on the return form, at least one that is material to the purposes of the return and to any future reassessment. It remains a misrepresentation even if the Minister could or does, by a careful analysis of the supporting material, perceive the error on the return form. It would undermine the self-reporting nature of the tax system if taxpayers could be careless in the completion of returns while providing accurate basic data in working papers, on the chance that the Minister would not find the error but, if he did within four years, the worst consequence would be a correct reassessment at that time.
+[47] In terms of the classification of an expense as capital or revenue, she referred to the decision by the Supreme Court of Canada in Canada v. Johns-Manville Canada Inc., [1985] 2 S.C.R. 46.
+[48] She argued that the circumstances to be taken into consideration are whether or not the expense was incurred in order to obtain a lasting benefit for the company and that the term lasting does not necessarily mean permanent or even ongoing. As for maintenance and repair expenses, their purpose is to maintain an asset in its original condition.
+[49] Counsel for the Appellant referred to the decision in M.D. Glazier Ltd. v. The Minister of National Revenue, 83 DTC 48, particularly the following passages:
+I emphasize the term "normally wise and cautious taxpayer". To my knowledge that phrase is extracted directly, in essence if not in wording, from Bisson (72 DTC 6374, [1972] C.T.C. 446) . . .
+Ultimately, therefore, there remains the view in my mind that what happened in this instance should not be characterized as misrepresentation. A mistake it may have been, but I am prepared at this stage of the development of the law on section 152(4) to believe that a mistake is different from misrepresentation, as it is applied to the facts in this case. I cannot see from the evidence presented that there was neglect or carelessness to the degree that one might not expect to find in the work of a normally cautious and wise taxpayer.
+[50] Counsel for the Appellant argued that the Appellant, for the operation of its business, had always kept books in accordance with the applicable laws and regulations and used the services of professionals for keeping its books and preparing its financial statements in income tax returns.
+[51] He claimed that the Appellant had been given very strict instructions regarding expenses related to the residence and that the internal accountant had not erred on more than four invoices.
+[52] He also referred to the decision by Brulé, J. of this Court in Marklib Investments II-A Limited v. The Queen, 2000 DTC 1413, particularly the following passages:
+35 It is the purpose, rather than the result, of an expenditure that determines whether it is characterized as a capital outlay or a current expense; and the focus of the test is on whether or not the expenditure brings into existence an asset of enduring value, rather than on the determination of the frequency or recurrence of the expenditure. The cases seem to promote the idea that as long as the repairs were done to preserve or conserve the asset and not to create a new asset then the repairs will be considered current expenses.
+36 An expenditure that merely maintains an asset or restores it to its original condition is a deductible current expense. . . .
+[53] Counsel claimed that the decisions regarding classification of expenses related to capital and income were made in a just and reasonable manner based on knowledge and belief of the Appellant and its main advisors. That is why expenses related to asphalting the lot or moving large trucks were considered as current expenses.
+[54] Counsel for the Appellant argues that, in the case of the invoice at Tab K, it was for repairs to existing equipment. He argues that it is thus clearly a case of current expense, as are the expenses related to modification to zoning.
+Conclusion
+[55] The Appellant's main point is that the assessment for the 1995 taxation year was made outside the normal assessment period. The meaning of paragraph 152(4)(a) of the Act has been analyzed several times in caselaw. In addition to the decisions already cited in these Reasons, I would like to refer to the decision by Pratte, J. of the Federal Court, Trial Division in Canada v. Bisson, [1972] F.C. 719, particularly paragraphs 18 to 20 of that decision:
+18 The conclusion which I have just reached does not suffice to dispose of the appeal, which raises two further questions. The first is whether, despite the expiry of the four-year period prescribed in s. 46(4)(b), appellant could proceed with re-assessments for the years 1955 to 1962; and the second involves determining whether respondent owes the penalties claimed from him under s. 56(2).
+19 Appellant could only proceed with re-assessments for the years 1955 to 1962 if, in the words of s. 46(4)(a)(i), respondent had "made any misrepresentation or committed any fraud in filing" his return. It is clear that, when he declared his income for the years in question, respondent made an error in good faith; he did not know that the sums paid to Thorn by Hull City Transport Ltd. formed part of his income. It has been held on several occasions that a "misrepresentation", though innocent, justifies the Minister in proceeding with a re-assessment at any time (see: M.N.R. v. Taylor 61 DTC 1139; M.N.R. v. Appleby 64 DTC 5199; M.N.R. v. Foot 66 DTC 5072). However, in all cases where the courts have so found, the taxpayer, though he had acted in good faith, had been clearly negligent. The question thus remains undecided, whether the Minister may proceed with a re-assessment after the period of four years, when the taxpayer has made an innocent misrepresentation involving no negligence on his part. If, as appellant's counsel maintained, even errors committed by a taxpayer entailing no negligence justified the Minister in proceeding with a re-assessment at any time, s. 46(4) would provide wholly illusory protection to the taxpayer, since the only case in which he would benefit from it, undoubtedly very rare, would be where the re-assessment was designed to correct an error attributable solely to the Department itself. If this had been the purpose Parliament had in mind when it enacted s. 46(4)(a)(i), it is not clear why it provided that the Minister may proceed with re-assessments at any time if the taxpayer "has made any misrepresentation or committed any fraud in filing the return". In effect, any fraud necessarily presupposes a misrepresentation", and if the latter word covered every type of inaccurate representation, the reference to fraud in the provision would be totally unnecessary. In my view, the fact that the legislator referred not only to "misrepresentation" but to "fraud" indicates that, by the first word, he meant innocent misrepresentation which, without being fraudulent, are still culpable in the sense that they would not have been made if the person committing them had not been negligent. I therefore conclude that a taxpayer who, without any negligence on his part, commits an error in declaring his income, does not make a misrepresentation within the meaning of s. 46(4)(a)(i). When the Minister seeks to rely on this provision to proceed with a re-assessment after four years, he must therefore not only show that the taxpayer committed an error in declaring his income but also that that error is attributable to negligence on his part.
+20 In the case at bar appellant, as noted above, has established that respondent committed an error in declaring his income for the years in question. I am not persuaded, however, that this error involved negligence. The situation resulting in the payments which respondent was charged with failing to include in his income was so confused that the Tax Appeal Board concluded respondent was right in acting as he did. In such circumstances, though I differ with the Board, I must hold that the error committed by respondent is one which a normally wise and cautious taxpayer could have committed. For these reasons I feel that the assessments for the years 1952 to 1962 inclusive should be cancelled.
+[56] These various caselaw decisions show us that the minister must demonstrate that the taxpayer did not exercise reasonable diligence, that of an informed and careful taxpayer, or verify that the return was prepared with care.
+[57] I am of the opinion that the evidence reveals a certain carelessness in reporting expenses. Counsel for the Appellant spoke of four invoices related to the residence. In fact, they are under four tabs, but there are many more than four. Furthermore, the total amount is high. In addition, classification of certain expenses as current also shows a certain indifference to the accuracy of the return. It must also be noted that the two individuals responsible for the Appellant's books and accounting, Mr. Massé and Mr. Compagna, did not testify. Their absence was not explained.
+[58] It is also unfortunate that the auditor did not note the date of prescription for the 1995 taxation year. He had ample time to act or to ask that the taxpayer sign a waiver.
+[59] The purpose of setting limitation periods is to ensure proper legal relations and legal peace. I cite, for example, the fact that the Appellant did not contest the two years that were not prescribed. These limitation periods must not be taken lightly, and usually are not. I do not wish to give the impression of trying the auditor, who otherwise performed his work very well. However, because he did not take into consideration the limitation period, on of the purposes of which is to avoid needless litigation, I am of the opinion that costs for this appeal cannot be awarded to the Respondent, although he will be the successful party. No costs shall be awarded in this case.
+[60] As regards the classification of the various expenses at issue, I am of the opinion that they are all capital expenses. I concur with the passages from the Marklib Investments decision to which counsel for the Appellant referred, but I am of the opinion that the principles expressed therein confirm the assessment. The first statement, for example, is that the purpose of the acquisition is a determining factor.
+[61] I also refer to some passages at pages 192 and 193 of the book "Les principes de l'imposition au Canada" (13th edition), 2002, which reads as follows:
+[translation]
+The classic test for determining whether an expense is capital or current can be expressed as follows: was the expense incurred to provide a lasting benefit to the company or taxpayer? If so, it is a capital expense.
+This test was first developed by British Courts, more specifically by Viscount Cave in British Insulated and Helsby Cables Ltd. v. Atherton, [1926] A.C. 205 (H.L.). It was then taken up by the Supreme Court of Canada in Montreal Light Heat and Power Consolidated v. M.N.R. [1942] S.C.R. 89, 105. It was again confirmed by the Supreme Court British Columbia Electric Railway Co. v. M.N.R. [1958] CTC 21 (C.S.C.) and again in M.N.R. v. Algoma Central Railway [1968] CTC 161 (C.S.C.).
+. . .
+A second criteria consists of determining whether an expense was incurred once and for all, as opposed to a recurring basis. . . .
+[62] I am of the opinion that the evidence clearly reveals that the expenses at issue were to provide a lasting benefit to the company. Such were the expenses related to the acquisition of the adjacent land and the modification to zoning. Such also were the expenses related to the acquisition of vehicles and certain equipment. It is not because an asset is of little use at the end of the year that its acquisition cost becomes a current expense. I cannot believe that the Appellant's external accountant spoke seriously when he made this kind of claim. There are other provisions in the Act that apply to govern such circumstances. Such also were the expenses related to the manufacture and improvement of certain equipment. The disallowed expenses were not simply maintenance or repair expenses. Those were allowed by the Minister.
+[63] The Appeal is dismissed. No costs are awarded on the grounds indicated in paragraph 59 of these Reasons.
+Signed at Ottawa, Canada, this 2nd day of October 2003.
+"Louise Lamarre Proulx"
+Lamarre Proulx, J.
+Translation certified true
+on this 18th day of March 2004.
+Gerald Woodard, Translator

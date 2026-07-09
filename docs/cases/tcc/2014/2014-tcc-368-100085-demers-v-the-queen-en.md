@@ -1,0 +1,521 @@
+---
+title: "Demers v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/100085/index.do"
+last_modified: "2014-12-16"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2014 TCC 368"
+citation2: ""
+neutral_citation: "2014 TCC 368"
+decision_date: "2014-12-16"
+language: "en"
+item_id: "100085"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2777
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T09:24:40.975000+00:00"
+cases_cited_count: 8
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "baeb2d67466c9e06786791f1893d58f849ba9732778aea683762a04f9f8415f9"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Demers v. The Queen
+
+- Citation: 2014 TCC 368
+- Decision date: 2014-12-16
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2777, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Demers v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2014-12-16
+Neutral citation
+2014 TCC 368
+File numbers
+2011-191(IT)G, 2011-192(IT)G
+Judges and Taxing Officers
+Gaston Jorré
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2011-191(IT)G
+BETWEEN:
+MARCEL DEMERS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard on common evidence with the appeal of Jocelyne Dion Grondin in her capacity as the successor of Fernand Grondin (2011-192(IT)G),
+on July 17 and 18, 2013, at Quebec City, Quebec.
+Before: The Honourable Justice Gaston Jorré
+Appearances:
+Counsel for the Appellant:
+Caroline Baillairgé
+Alexandre Dufresne (student-at-law)
+Counsel for the Respondent:
+Philippe Dupuis
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 2002 taxation year is dismissed in accordance with the attached Reasons for Judgment.
+The appellant shall pay the respondent’s costs if the respondent requests costs. If such a request is made, costs shall be calculated under Tariff B of
+Schedule II to the Tax Court of Canada Rules (General Procedure), but there will be only one set of costs for this appeal and appeal 2011-192(IT)G.
+Signed at Ottawa, Ontario, this 16th day of December 2014.
+“Gaston Jorré”
+Jorré J.
+Translation certified true
+on this 31st day of July 2015.
+Erich Klein, Revisor
+Docket: 2011-192(IT)G
+BETWEEN:
+JOCELYNE DION GRONDIN
+(IN HER CAPACITY AS THE SUCCESSOR OF FERNAND GRONDIN),
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard on common evidence with the appeal of
+Marcel Demers (2011-191(IT)G),
+on July 17 and 18, 2013, at Quebec City, Quebec.
+Before: The Honourable Justice Gaston Jorré
+Appearances:
+Counsel for the Appellant:
+Caroline Baillairgé
+Alexandre Dufresne (student-at-law)
+Counsel for the Respondent:
+Philippe Dupuis
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 2002 taxation year is dismissed in accordance with the attached Reasons for Judgment.
+The appellant shall pay the respondent’s costs if the respondent requests costs. If such a request is made, costs shall be calculated under Tariff B of
+Schedule II to the Tax Court of Canada Rules (General Procedure), but there will be only one set of costs for this appeal and appeal 2011-191(IT)G.
+Signed at Ottawa, Ontario, this 16th day of December 2014.
+“Gaston Jorré”
+Jorré J.
+Translation certified true
+on this 31st day of July 2015.
+Erich Klein, Revisor
+Citation: 2014 TCC 368
+Date: 20141218
+Dockets: 2011-191(IT)G
+2011-192(IT)G
+BETWEEN:
+MARCEL DEMERS,
+JOCELYNE DION GRONDIN
+(IN HER CAPACITY AS THE SUCCESSOR OF FERNAND GRONDIN),
+Appellants,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+AMENDED REASONS FOR JUDGMENT
+[These amended reasons for judgment replace those signed on December 16, 2014. They correct an error in footnote 18. The earlier reasons for judgment remain unchanged in all other respects.]
+Jorré J.
+Introduction [1] The story behind these assessments is very unfortunate. Marcel Demers and Fernand Grondin were employees of Canadian National. They were persuaded by promises of very high returns to make certain investments. Those promises were made by the investment promoters, Claude Lavigne and his sister, Jocelyne Lavigne.
+[2] To make the investment, they transferred all of their CN pension fund entitlements to a registered retirement savings plan. According to the Minister of National Revenue, in 2002 they withdrew a portion of the funds transferred to the RRSPs: $80,000 in Mr. Demers’ case and $148,000 in Mr. Grondin’s case. They lost most of the money withdrawn from the pension fund.
+[3] The Minister added the amounts of $80,000 and $148,000 to Mr. Demers’ and Mr. Grondin’s respective incomes for 2002. According to the Minister, those amounts came from an RRSP.
+[4] The assessments for those amounts were made out of time in 2009.
+[5] In Talbot v. Lavigne,[1] the appellants and six other people obtained a judgment on September 16, 2008, against the two investment promoters who are behind the problems in this case: Claude Lavigne and Jocelyne Lavigne.[2] The order issued by the Superior Court of Québec reads in part as follows:
+[Translation]
+FOR THESE REASONS, THE COURT:
+101 ANNULS all of the investment contracts entered into between the plaintiffs and the defendants Jocelyne Lavigne, Claude Lavigne and Sarkis Sarkissian;
+102 ORDERS the defendants to pay the plaintiffs on a solidary liability basis the amount of $2,182,175.50, as follows:
+. . .
+• To Mr. Marcel Demers.......................................... $293,981.52
+. . .
+• To Ms. Jocelyne Dion Grondin.............................. $288,769.74
+103 ORDERS the defendants to pay the plaintiffs on a solidary liability basis the amount of $200,000 as moral damages, that is, an amount of $25,000 for each plaintiff;
+104 ORDERS the defendants to pay the plaintiffs on a solidary liability basis the amount of $160,000 as punitive damages, that is, an amount of $20,000 to each plaintiff;
+105 WITH COSTS from the date of the summons plus the additional indemnity provided for in the Civil Code of Québec.
+[6] There are two questions at issue.
+[7] First, was the Minister justified in assessing out of time?
+[8] The second question is whether the Superior Court judgment has the effect of rendering the amounts in question non-taxable.
+[9] There are many facts. They were presented in part through the testimony of three witnesses, in part through two partial agreements on the facts, and in part through three large volumes of documents filed on consent. The agreement pertaining to Mr. Demers is reproduced in Appendix A, and that pertaining to Mr. Grondin is reproduced in Appendix B.
+[10] I thank counsel for the work they have done.
+Are the amounts of $80,000 (Mr. Demers) and $148,000 (Mr. Grondin) received in 2002 taxable? Facts [11] It is not disputed that[3]
+(a) in December 2002 Mr. Demers received the $80,000 amount in question;
+(b) this amount came from the monies accumulated in his pension fund that he had transferred to an RRSP of which he was the annuitant;
+(c) in December 2002 Mr. Grondin received the $148,000 amount in question;
+(d) that amount came from the monies accumulated in his pension fund that he had transferred to an RRSP of which he was the annuitant.
+[12] Absent any other considerations, it is obvious that those amounts must be included in Mr. Demers’ and Mr. Grondin’s income, because any amount received from an RRSP must be included in income.[4]
+[13] However, according to the appellants, it is necessary to take into account the annulment of the contracts between the appellants and Jocelyne Lavigne, Claude Lavigne and Sarkis Sarkissian by the Superior Court judgment of September 16, 2008.
+[14] Before considering that argument, I would like to add a few facts.
+[15] In September 2002, Mr. Demers
+(a) resigned from CN,
+(b) requested that his pension fund be transferred to an RRSP,
+(c) applied to open a self-directed locked-in retirement account (self‑directed LIRA) with Services financiers Penson Canada inc. (Penson),
+(d) asked to have Laurentian Trust of Canada register the self-directed LIRA, and
+(e) opened a brokerage account with Services financiers IForum inc. for his self-directed LIRA.
+[16] Mr. Demers’ self-directed LIRA was an RRSP of which he was the annuitant.
+[17] An amount of $404,970 from the funds accumulated in his pension fund was deposited in the self-directed LIRA.
+[18] The funds were then invested.[5] The investment decisions were dictated by Claude Lavigne, one of the promoters, and carried out by Sylvain Lauzon. Mr. Lauzon had been given a power of attorney by Mr. Demers.[6]
+[19] In January 2002, Mr. Grondin requested that his pension fund be transferred to an RRSP and that an RRSP account be opened with B2B Trust, the RRSP trustee.
+[20] In March 2002, the CN pension fund issued a cheque in the amount of $477,585.74 to the order of “B2B Trust RRSP a/c Fernand Grondin”.
+[21] In June 2002, B2B Trust rejected an initial proposed transaction.
+[22] In December 2002, Mr. Grondin
+(a) applied to open a locked-in retirement account (LIRA) with Penson,
+(b) asked to have Laurentian Trust of Canada register the LIRA, and
+(c) applied to open a brokerage account with Services financiers IForum inc. for his LIRA.
+[23] On December 12, 2002, an amount of $448,516, which came from the funds Mr. Grondin had accumulated in his pension fund and which were deposited in Mr. Grondin’s RRSP with B2B Trust, was deposited in Mr. Grondin’s LIRA.
+[24] Mr. Grondin’s LIRA was an RRSP of which he was the annuitant.
+[25] The funds were then invested. The investment decisions were dictated by Mr. Lavigne, one of the promoters, and carried out by Mr. Lauzon. Mr. Lauzon had received a power of attorney from Mr. Grondin.[7]
+[26] There were no written investment contracts.[8]
+[27] The appellants argue that the annulment of all of the investment contracts between the appellants and Jocelyne Lavigne, Claude Lavigne and Sarkis Sarkissian by the Superior Court in Talbot v. Lavigne had the effect of setting aside all of the effects of the contracts, thus putting the appellants back in the position they were in before the investment. They therefore contend that the amounts are not taxable.[9]
+[28] Article 1422 of the Civil Code of Québec (Civil Code) reads as follows:
+1422 A contract that is null is deemed never to have existed.
+In such a case, each party is bound to restore to the other the prestations he has received.
+[29] It is also useful to note the following articles pertaining to the restitution of prestations:[10]
+1699 Restitution of prestations takes place where a person is bound by law to return to another person the property he has received, either unlawfully or in error, or under a juridical act which is subsequently annulled with retroactive effect or whose obligations become impossible to perform by reason of superior force.
+The court may, exceptionally, refuse restitution where it would have the effect of according an undue advantage to one party, whether the debtor or the creditor, unless it considers it sufficient, in that case, to modify the scope or mode of the restitution instead.
+1700 Restitution of prestations is made in kind, but, if this is impossible or cannot be done without serious inconvenience, it may be made by equivalence.
+Equivalence is assessed as at the time when the debtor received what he is liable to restore.
+[30] Baudouin and Jobin, in their book Les obligations,[11] write as follows:
+[Translation]
+388 . . . Nullity terminates the contract for the future and also wipes out its effects with respect to the past. In both instances, a judge must therefore restore the status quo ante (art. 1422 CCQ), that is, through the mechanism of restitution, put the parties back in the position they were in before entering into the defective agreement, in accordance with the rules now set out in the Code at articles 1699 et seq. Any exceptions, such as perhaps the nemo auditur exception, as well as the terms of restitution also apply to absolute nullity and relative nullity.
+[31] The appellants argue that tax law follows civil law.[12]
+[32] I agree that tax law must be applied in a way that takes into account not only the facts, but also the legal relationships created through general law.[13] Obviously, this general principle may be limited by, among other things, specific provisions of tax law.
+[33] What is the scope of the Superior Court’s declaration of nullity? It is clear that the contract is deemed never to have existed. However, does the nullity of the contract have the effect of not only setting aside the juridical act that is the contract, but also of negating the accompanying facts? Specifically, does the nullity of the contract as declared by the Superior Court have the effect that, for income tax purposes, (i) the appellants never received $80,000 and $148,000 respectively or (ii) those two amounts were never withdrawn from Mr. Demers’ or Mr. Grondin’s RRSPs?
+[34] I am satisfied that, while they annul the juridical act, namely, the contracts, neither the provisions of the Civil Code nor the Superior Court judgment purport to efface history and change prior facts. This can be seen in the following way.
+[35] First, let us look at what it would mean if the effect was to change history.
+[36] There were no written investment contracts and therefore the precise scope of the contracts annulled by the Superior Court is uncertain. I can only understand the investment contracts as follows: they cover only the investment of the funds previously transferred to the RRSP by either of the appellants.[14] The Superior Court judgment does not apply to third parties such as Penson.
+[37] The application of the provisions of the Civil Code by the Superior Court does not rewrite history, and thus the amounts of $80,000 and $148,000 are still in the two RRSPs with Penson. The appellants cannot order Penson to pay them the $80,000 and the $148,000.[15]
+[38] Second, when one considers the provisions of the Civil Code relating to nullity and the restitution of prestations, in particular articles 1422, 1699 and 1700, one sees that the legislator takes into account the historic reality of the prior facts in specifying how the parties will be put back in their previous positions. For example, although the general rule is that property must be returned, if this is impossible or if it entails serious inconvenience, the Civil Code provides that restitution may be made by equivalence, that is, by the payment of an equivalent amount of money.[16]
+[39] It can be seen in Talbot v. Lavigne that the Superior Court recognizes that the appellants received both amounts in question, as they were deducted from the amount invested in the calculation of the amount that the Superior Court ordered the defendants to pay to the appellants.[17] There is therefore recognition of the fact that the appellants received the amounts.
+[40] Accordingly, the nullity declared by the Superior Court does not alter the fact that the appellants received the amounts of $80,000 and $148,000 in question and that those amounts were withdrawn from the appellants respective RRSPs.[18]
+[41] In light of those facts, the two amounts in question are taxable.
+Are the out-of-time assessments valid? [42] It is not disputed that the assessments were made after the normal reassessment period for the two taxpayers.
+[43] Such an assessment can be made only if the conditions in subsection 152(4) of the Income Tax Act (Act) have been met. The relevant portions of that subsection read as follows:
+(4) The Minister may . . . make . . . [a] reassessment . . . after the taxpayer’s normal reassessment period . . . only if:
+(a) the taxpayer or person filing the return
+(i) has made any misrepresentation that is attributable to neglect, carelessness or wilful default . . . in filing the return . . .
+(ii) . . .
+[44] There are thus two necessary conditions: (i) there must be a misrepresentation and (ii) the misrepresentation must be due to neglect, carelessness or wilful default.
+[45] The burden of proving that the out-of-time assessment is well-founded lies with the Minister.[19] This burden is lower than that which applies to the penalties provided for under subsection 163(2) of the Act, which states that a person must act “knowingly, or under circumstances amounting to gross negligence”.[20]
+[46] It is clear that there was misrepresentation: the omission of the amounts of $80,000 and $148,000.[21]
+[47] The question that remains is whether that omission was due to neglect, carelessness or wilful default.
+[48] How can neglect or carelessness be assessed? The jurisprudence establishes that it is necessary to consider whether the taxpayer showed due diligence[22] or, in other words, whether he “met the requisite standard of care – that of a wise and prudent person who has considered the matter thoughtfully, deliberately and carefully”.[23]
+[49] Let us consider the facts in the light of those principles.
+[50] The time at which diligence must be assessed is the time of filing the tax return, which is normally on or before April 30 of the year following the year in question. Here the question must be considered on the basis of the facts as they were in early 2003.
+[51] It is useful to point out that the general features associated with RRSPs and pension funds are well known. Those general features are the deduction from taxable income of contributions to the fund, the fact that any income earned within a fund is non-taxable, and the fact that any payments made to the beneficiary from an RRSP or pension fund are taxable. As stated by Justice Tardif in Gougeon v. The Queen:[24]
+22 The features of an RRSP or any other pension plan that benefits from a temporary tax exemption, which starts when the account is opened and usually ends when the beneficiary withdraws all or part of the plan’s contents, are known to the general public and undeniable.
+23 Income tax, which is neither paid nor withheld on the principal or on the return, is basically deferred or carried forward; however, what is certain is that sooner or later the tax burden must be taken on. Any plan, offer, information or person who offers the possibility of avoiding the tax burden inherent in a person’s retirement investments should set off alarm bells in those who are being offered such a thing.
+[52] He further stated:
+24 An informed and careful person should conduct a thorough investigation with the help of qualified and competent people when someone offers him or her a scenario with a different end result.
+[53] Moreover, it is well known that the tax form and guide provided by the Canada Revenue Agency contain a general warning that all income must be reported.
+[54] The amounts received by the appellants, namely, $80,000 and $148,000 respectively, are very significant amounts for those two individuals.
+[55] The appellants and their co-workers obtained information about various investment opportunities–with Fidelity, for example.
+[56] The evidence is clear that they chose the investment in question because they had been promised that the return would be much higher than what they had been offered elsewhere. Unfortunately, this did not put them on their guard.
+[57] As I have previously stated, there was no written contract.
+[58] Each of the two appellants received an initial cheque in December 2002. They were not able to cash those cheques because they were NSF. Later on in December 2002, they received replacement cheques of $80,000 and $138,000 respectively; they were able to cash those replacement cheques.[25] Mr. Demers received his second cheque at a rest stop where Mr. Lavigne was hosting the investors for Christmas.
+[59] With regard to Mr. Demers:
+(a) He knew that it was the money from his pension fund that had been transferred to his RRSP that would be invested.
+(b) He knew in a general way that if he were to receive an amount from his pension fund or his RRSP that amount would be taxable.[26]
+(c) His primary source of information regarding the investment and its tax consequences was the promoters and his co-workers.[27]
+(d) He did not consult a lawyer or a tax professional.
+(e) He consulted a caisse populaire employee who worked in the back and not at the counter, but we do not know her title or how knowledgeable she was; she apparently said that if she was going to invest she would choose the investment that Mr. Demers was being offered. The appellant did not indicate whether the caisse populaire employee had spoken about the tax aspect. We also do not know how the investment was described to that employee; given that there was no written contract, I do not see how she could have been given an accurate description of the investment.[28]
+(f) In the application for the LIRA with Penson that the appellant signed, there is a line in the second half of the page, which is numbered “1” and which states that any annuities or other payments received through the account would be taxable.[29]
+(g) He did not review his tax return that had been prepared for him by an accountant at the “Club des Présidents”.[30]
+[60] In Mr. Grondin’s case:
+(a) Ms. Dion Grondin did not know exactly how her husband had found out about the investment, but she knew he had made it with two of his co-workers.
+(b) She knew that her husband had met the Lavignes more than once, and she herself had attended a large meeting at which the Lavignes had explained everything, but she did not understand their explanation.[31]
+(c) She made an effort on her own to find out about the investment. She brought in a tax professional who had invested some money for her sister. Her husband gave the tax professional some information, but the tax professional could not tell them whether it was good or bad. He said that it was not impossible. It is not clear from the testimony whether the comments were about the investment or the tax treatment.
+(d) Ms. Dion Grondin also knew that her husband had gone to see Fidelity and that the Fidelity employee was unable to tell her husband whether it was all right or not.[32]
+(e) She also testified that Réjean Brousseau had brought the cheque in December 2002 and had told them that the amount was not taxable; at the time, what Mr. Brousseau said seemed plausible.[33]
+(f) In the application for the LIRA with Penson that the appellant signed, there is a line in the second half of the page, which is numbered “1” and which states that any annuities or other payments received through the account would be taxable.[34]
+[61] As regards Mr. Grondin, he was subpoenaed and questioned under oath by the Commission des valeurs mobilières du Québec[35] on March 12, 2002. From the transcript of that examination, it is clear that it had to do with the Lavignes and the investment at issue here.
+[62] To rely mainly on the promoters and their agents and on co-workers who are not experts does not constitute prudent behaviour in the circumstances. The third parties that were consulted were unable to comment on the investment in question; moreover, on the evidence before me I do not see how Mr. Demers or Mr. Grondin could have provided any third parties with sufficient information for them to be able to comment.
+[63] There were many red flags that should have made the appellants wary of the advice they received that the amounts were not taxable.
+[64] The fact that the initial cheques issued in December 2002 were NSF seems to me to be another fairly clear red flag, coming not long before the season when the 2002 tax return had to be prepared. That red flag should have made a prudent person suspicious of the information received from the promoters and their agents.
+[65] In Mr. Grondin’s case, the fact that the Commission des valeurs mobilières questioned him in March 2002 about the promoters and about the investment in question is also a very obvious red flag.
+[66] I further note that Mr. Demers did not review his tax return.
+[67] In the circumstances, I do not see how I could conclude that Mr. Demers and Mr. Grondin exercised the required degree of diligence.[36]
+Conclusion[37] [68] Accordingly, the amounts in question are taxable and the Minister’s out‑of‑time assessment was valid.
+[69] Although I am satisfied that this is the correct result in fact and in law, I find the practical result highly regrettable because I doubt that the appellants, having lost most of their pension funds, are able to pay the tax and interest that are owing.
+[70] Although this is not a matter within this court’s jurisdiction, there are measures that the Minister could take to lessen the impact. I hope that, if an application for interest relief is made under subsection 220(3.1) of the Act, the Minister will seriously consider such application. Furthermore, although jurisdiction in this regard lies with the Governor in Council and not with this court, if an application for a remission order under subsection 23(2) of the Financial Administration Act is made, I hope that it will also be considered seriously.
+Signed at Ottawa, Ontario, this 18th day of December 2014.
+“Gaston Jorré”
+Jorré J.
+Translation certified true
+on this 31st day of July 2015.
+Erich Klein, Revisor
+APPENDIX A
+[2011-191(IT)G Marcel Demers]
+The parties, through their respective counsel, agree on and admit the following facts:
+1. Marcel Demers accumulated funds in a registered pension plan (“RPP”) while he was employed by Canadian National (“pension fund”).
+2. In 2002, Marcel Demers attended information sessions during which Jocelyne Lavigne and Claude Lavigne offered him an investment that would enable him to withdraw the funds he had accumulated in his pension fund and transfer them to an RRSP (“the proposed investment”).
+3. The proposed return of 40% was payable to Marcel Demers once the funds accumulated in his pension fund had been transferred for the purpose of the proposed investment.
+4. Marcel Demers participated in the proposed investment and, to that end, signed blank copies of the documents authorizing the withdrawal of the monies accumulated in his pension fund and their transfer to an RRSP of which he was the annuitant.
+5. To effect the proposed investment, Marcel Demers withdrew an amount of $404,970 from his pension fund, which he transferred to an RRSP of which he was the annuitant.
+6. On September 13, 2002, Marcel Demers signed a resignation notice whereby he voluntarily resigned from Canadian National effective September 13, 2002.
+7. On September 23, 2002, Marcel Demers signed a request to have his pension fund transferred to an RRSP, which request was addressed to CN’s pension and benefits administration department.
+8. On September 26, 2002, Marcel Demers signed the following:
+(i) an application for a self-directed locked-in retirement account (“self‑directed LIRA”) with Services financiers Penson Canada inc. (“Penson”), requesting that Laurentian Trust of Canada apply for registration of the self-directed LIRA, and
+(ii) an application to open a brokerage account (“brokerage account”) with Services financiers IForum inc. (“IForum”) for his self-directed LIRA.
+9. Marcel Demers’ self-directed LIRA was an RRSP of which he was the annuitant.
+10. An amount of $404,970 from the funds that Marcel Demers had accumulated in his pension fund was deposited in Marcel Demers’ self-directed LIRA.
+11. On October 30, 2002, Lucky 1 Enterprises Inc. (“Lucky 1”) issued in the name of Marcel Demers a share certificate numbered 00013 for 400,000 of its shares.
+12. Lucky 1 was a publicly traded company based in Vancouver whose shares constituted an eligible investment for RRSP purposes at that time.
+13. On November 1, 2002, Marcel Demers signed a power of attorney naming and appointing lawyer Sylvain Lauzon for the purposes of
+(i) representing him with IForum to deposit the Lucky 1 share certificate numbered 00013 in his self-directed LIRA, and
+(ii) authorizing IForum to pay to Sylvain Lauzon in trust any monies arising from the said share certificate.
+14. On November 1, 2002, Marcel Demers signed a power of attorney naming and appointing lawyer Sylvain Lauzon for the purpose of authorizing Sylvain Lauzon to pay to Inter Franchise Marketing and/or according to his instructions the proceeds of the disbursement arising from the share certificate that Marcel Demers held in Lucky 1.
+15. On November 26, 2002, 400,000 shares of Lucky 1 were deposited in Marcel Demers’ self-directed LIRA.
+16. On November 26, 2002, an amount of $377,894.40 was debited to Marcel Demers’ self-directed LIRA.
+17. On November 27, 2002, IForum issued a cheque in the amount of $377,894.40 to the order of Sylvain Lauzon in trust for “Marcel Demers”.
+18. On November 29, 2002, Sylvain Lauzon confirmed to Marcel Demers that, in accordance with his power of attorney, he had paid the amount of $377,894.40 to Inter Franchise.
+19. Amounts totalling $1,489,190 were deposited by IForum in Sylvain Lauzon’s trust account on behalf of five investors, including Marcel Demers, who had participated in the investment proposed by Claude Lavigne and Jocelyne Lavigne, as follows:
+(i) $377,894.40 on behalf of Marcel Demers;
+(ii) $372,072 on behalf of Fernand Grondin;
+(iii) $325,563 on behalf of Robert Talbot;
+(iv) $313,530 on behalf of Jocelyn Roberge; and
+(v) $100,131 on behalf of Jean-Noël Talbot.
+20. S.P.H.T. was a private company controlled by Claude Lavigne, which also operated as 9095-8448 Québec inc.
+21. Decisions relating to payment of the monies that Sylvain Lauzon held in trust for the investors, including Marcel Demers, were dictated to him by Claude Lavigne.
+22. The instructions given to Sylvain Lauzon by Claude Lavigne with respect to payment of the monies that Sylvain Lauzon held in trust for the investors were based on total amounts and not on amounts to be paid on behalf of each one of the investors.
+23. For that reason, it is impossible to determine the precise amounts paid by Sylvain Lauzon for each one of the investors, including Marcel Demers.
+24. Marcel Demers reported total income of $177,854 for the 2002 taxation year.
+25. According to Marcel Demers’ representations to the CRA, he received the $80,000 cheque from Claude Lavigne at a rest stop on Highway 40, after Mr. Lavigne had given him an initial cheque that turned out to be NSF.
+26. On April 24, 2006, seven individuals who had participated in the proposed investment, including Marcel Demers, commenced a proceeding before the Superior Court of Québec in case number 200-11-014643-061.
+27. On September 16, 2008, the Superior Court of Québec rendered a judgment in case number 200-11-014643-061, cited as Talbot c. Lavigne, 2008 QCCS 4317.
+28. The Superior Court of Québec judgment of September 16, 2008, was rendered only against defendants Claude Lavigne and Jocelyne Lavigne.
+29. In its judgment of September 16, 2008, the Superior Court of Québec annulled all of the investment contracts entered into between Marcel Demers and Jocelyne Lavigne, Claude Lavigne and Sarkis Sarkissian.
+30. Neither Penson, nor IForum, nor Lucky 1, nor CN, nor the administrator of Marcel Demers’ pension fund was at any time or on any basis a party to the proceedings before the Superior Court of Québec in case number 200‑11-014643-061.
+31. The plaintiffs in the proceedings before the Superior Court of Québec in case number 200-11-014643-061 withdrew their claims against Sylvain Lauzon and Sarkis Sarkissian before the hearing.
+The respondent, through her counsel, asked the appellant to admit the following facts:
+32(a) The investment proposed to Marcel Demers offered a rate of return of 40% on the funds accumulated in his pension fund, up to $500,000, as long as the amounts transferred remained invested for a period of 36 months.
+33(a) On December 12, 2002, Marcel Demers received in connection with the proposed investment an amount of $80,000.
+34(a) The amount of $80,000 received by Marcel Demers on December 12, 2002, was paid to him as partial payment of the 40% return that was payable on the proposed investment.
+35(a) In fact, the amount of $80,000 received by Marcel Demers on December 12, 2002, came from the monies accumulated in his pension fund that he had transferred to an RRSP of which he was the annuitant.
+36(a) Marcel Demers did not report the amount of $80,000 that he received on December 12, 2002, in connection with the proposed investment.
+37(a) Sylvain Lauzon made the following disbursements from the monies he held in trust for the five investors:
+(i) $650,000 paid to Lucky 1;
+(ii) $605,875 paid to Service Professionnel Haute Technologie S.P.H.T. inc. (“S.P.H.T.”);
+(iii) $138,000 paid to Fernand Grondin;
+(iv) $120,000 paid to Robert Talbot;
+(v) $3,000 paid to Sylvain Lauzon as professional fees.
+38(a) On December 12, 2002, 9095-8448 Québec inc. (S.P.H.T.) issued a cheque in the amount of $80,000 to the order of Marcel Demers.
+39(a) Marcel Demers cashed the $80,000 cheque issued to him by 9095-8448 Québec inc. (S.P.H.T.) on December 12, 2002.
+40(a) The amount of $80,000 that 9095-8448 Québec inc. (S.P.H.T.) paid to Marcel Demers on December 12, 2002, came from the monies accumulated in his pension fund that he had transferred to his self-directed LIRA.
+41(a) Marcel Demers did not report in his tax return for the 2002 taxation year the amount of $80,000 that 9095-8448 Québec inc. (S.P.H.T.) paid to him on December 12, 2002.
+42(a) According to Marcel Demers’ representations to the CRA, he was waiting to receive an information slip before reporting the amount of $80,000 that he received on December 12, 2002.
+43(a) The only finding of nullity sought by the plaintiffs in case number 200‑11-014643-061 was the following:
+[TRANSLATION]
+ANNUL all of the investment contracts entered into between the plaintiffs and the defendants Jocelyne Lavigne, Claude Lavigne and Sarkis Sarkissian.
+The appellant, through his counsel, admits facts 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42 and 43, when reformulated as follows:
+32(b) The investment proposed to Marcel Demers offered a 40% interest rate over 36 months on the amounts invested, with no tax payable on an amount of up to $500,000.
+33(b) In December 2002, Marcel Demers received an amount of $80,000 in connection with the proposed investment.
+34(b) The amount of $80,000 received by Marcel Demers in December 2002 was paid to him as partial payment of the 40% return that was payable on the proposed investment.
+35(b) In fact, the amount of $80,000 received by Marcel Demers in December 2002 came from the monies accumulated in his pension fund that he had transferred to an RRSP of which he was the annuitant.
+36(b) Marcel Demers did not report the amount of $80,000 that he received in December 2002 in connection with the proposed investment.
+37(b) Sylvain Lauzon made the following disbursements from the monies he held in trust for the five investors:
+(i) $450,000 paid to Lucky 1;
+(ii) $505,835 paid to Service Professionnel Haute Technologie S.P.H.T. inc. (“S.P.H.T.”);
+(iii) $138,000 paid to Fernand Grondin;
+(iv) $120,000 paid to Robert Talbot.
+38-39(b) In December 2002, Marcel Demers received an amount of $80,000 in connection with the proposed investment.
+40(b) The amount of $80,000 received in December 2002 came from the monies accumulated in his pension fund that he had transferred to his self-directed LIRA.
+41(b) Marcel Demers did not report in his tax return for the 2002 taxation year the amount of $80,000 received in December 2002.
+42(b) According to the instructions of Claude Lavigne, the amount of $80,000 that Marcel Demers received in December 2002 was to be reported in 2005, the year in which he would receive an information slip in respect of that amount.
+43(b) The relief sought by the plaintiffs in case number 200-11-014643-061 includes the following:
+[TRANSLATION]
+ANNUL all of the investment contracts entered into between the plaintiffs and the defendants Jocelyne Lavigne, Claude Lavigne and Sarkis Sarkissian.
+The parties, through their respective counsel, agree to the filing by consent of documents 1 to 59 of the respondent’s book of documents.
+APPENDIX B
+[2011-192(IT)G Jocelyne Dion Grondin]
+The parties, through their respective counsel, agree on and admit the following facts:
+1. Fernand Grondin accumulated funds in a registered pension plan (“RPP”) while he was employed by Canadian National (“pension fund”).
+2. In 2002, Fernand Grondin attended information sessions during which Jocelyne Lavigne and Claude Lavigne offered him an investment that would enable him to withdraw the funds he had accumulated in his pension fund and transfer them to an RRSP (“the proposed investment”).
+3. The proposed return of 40% was payable to Fernand Grondin once the funds accumulated in his pension fund had been transferred for the purpose of the proposed investment.
+4. Fernand Grondin participated in the proposed investment and, to that end, signed blank copies of the documents authorizing the withdrawal of the monies accumulated in his pension fund and their transfer to an RRSP of which he was the annuitant.
+5. To effect the proposed investment, an amount of $448,516 from Fernand Grondin’s pension fund was transferred to an RRSP of which Fernand Grondin was the annuitant.
+6. On December 12, 2002, in connection with the proposed investment, Fernand Grondin received an amount of $10,000.
+7. On December 27, 2002, in connection with the proposed investment, Fernand Grondin received an amount of $138,000.
+8. Fernand Grondin did not report the amount of $10,000 that he received on December 12, 2002, in connection with the proposed investment.
+9. Fernand Grondin did not report the amount of $138,000 that he received on December 27, 2002, in connection with the proposed investment.
+10. On January 18, 2002, Fernand Grondin signed a request to have his pension fund transferred to an RRSP with B2B Trust, which request was addressed to CN’s pension and benefits administration department.
+11. On January 21, 2002, Fernand Grondin signed an application to open an RRSP account with B2B Trust, the RRSP trustee.
+12. On March 15, 2002, the CN Pension Trust Fund issued a cheque in the amount of $477,585.74 to the order of B2B Trust RRSP on behalf of Fernand Grondin.
+13. On April 15, 2002, 3983919 Canada inc. (Inter-Franchise inc.) issued in the name of B2B Trust on behalf of Fernand Grondin a share certificate numbered C-2 for 447,000 of its Class C shares.
+14. On June 17, 2002, B2B Trust returned Fernand Grondin’s share certificate to Inter-Franchise inc. because the transactions had been rejected by B2B Trust.
+15. On December 5, 2002, Fernand Grondin signed the following:
+(i) an application for a locked-in retirement account (“LIRA”) with Services financiers Penson Canada inc. (“Penson”), requesting that Laurentian Trust of Canada apply for registration of the LIRA, and
+(ii) an application to open a brokerage account (“brokerage account”) with Services financiers IForum inc. (“IForum”) for his LIRA.
+16. Fernand Grondin’s LIRA was an RRSP of which he was the annuitant.
+17. On December 12, 2002, an amount of $448,516 from the funds accumulated by Fernand Grondin in his pension fund, which funds had been deposited in Fernand Grondin’s RRSP with B2B Trust, was deposited in Fernand Grondin’s LIRA.
+18. On November 1, 2002, Fernand Grondin signed a power of attorney naming and appointing lawyer Sylvain Lauzon for the purpose of authorizing Sylvain Lauzon to pay to Inter-Franchise inc. the proceeds of the disbursement arising from the share certificate that Fernand Grondin held in Lucky 1.
+19. On November 22, 2002, Lucky 1 Enterprises Inc. (“Lucky 1”) issued in the name of Fernand Grondin a share certificate numbered 00020 for 400,000 of its shares.
+20. Lucky 1 was a publicly traded company based in Vancouver whose shares constituted an eligible investment for RRSP purposes at that time.
+21. On December 12, Lucky 1 Enterprises Inc. (“Lucky 1”) issued in the name of Penson Canada inc. Fernand Grondin a share certificate numbered 00022 for 400,000 of its shares.
+22. On December 13, 2002, Fernand Grondin signed a power of attorney naming and appointing lawyer Sylvain Lauzon for the purposes of:
+(i) representing him with IForum to deposit the Lucky 1 share certificate numbered 00020 in his LIRA, and
+(ii) authorizing IForum to pay to Sylvain Lauzon in trust any monies arising from the said share certificate.
+23. On December 19, 2002, 400,000 shares of Lucky 1 were deposited in Fernand Grondin’s LIRA.
+24. On December 19, 2002, an amount of $372,072 was debited to Fernand Grondin’s LIRA.
+25. On December 20, 2002, Fernand Grondin signed a power of attorney naming and appointing lawyer Sylvain Lauzon for the purposes of:
+(i) representing him with IForum to deposit the Lucky 1 share certificate numbered 00022 in his LIRA, and
+(ii) authorizing IForum to pay to Sylvain Lauzon in trust any monies arising from the said share certificate.
+26. On December 20, 2002, IForum issued a cheque in the amount of $372,072 to the order of Sylvain Lauzon in trust (Fernand Grondin).
+27. On April 7, 2003, Sylvain Lauzon confirmed to Fernand Grondin that, in accordance with his power of attorney, he had paid the amount of $372,072 to Inter-Franchise and/or according to his instructions.
+28. Amounts totalling $1,489,190 were deposited by IForum in Sylvain Lauzon’s trust account on behalf of five investors, including Fernand Grondin, who had participated in the investment proposed by Claude Lavigne and Jocelyne Lavigne, as follows
+(i) $377,894.40 on behalf of Marcel Demers;
+(ii) $372,072 on behalf of Fernand Grondin;
+(iii) $325,563 on behalf of Robert Talbot;
+(iv) $313,530 on behalf of Jocelyn Roberge; and
+(v) $100,131 on behalf of Jean-Noël Talbot.
+29. On December 23, 2002, Sylvain Lauzon issued a cheque in the amount of $138,000 to the order of Fernand Grondin drawn on his trust account.
+30. Fernand Grondin endorsed and cashed, on December 27, 2002, the $138,000 cheque that Sylvain Lauzon had issued to him on December 23, 2002.
+31. The amount of $138,000 that Sylvain Lauzon paid to Fernand Grondin on December 23, 2002, came from the monies accumulated in his pension fund that he had transferred to his LIRA.
+32. Fernand Grondin did not report in his tax return for the 2002 taxation year the amount of $138,000 that Sylvain Lauzon had paid to him on December 23, 2002.
+33. S.P.H.T. was a private company controlled by Claude Lavigne, which also operated as 9095-8448 Québec inc.
+34. Decisions relating to payment of the monies that Sylvain Lauzon held in trust for the investors, including Fernand Grondin, were dictated to him by Claude Lavigne.
+35. The instructions given to Sylvain Lauzon by Claude Lavigne with respect to payment of the monies that Sylvain Lauzon held in trust for the investors were based on total amounts and not on amounts to be paid on behalf of each one of the investors.
+36. For that reason, it is impossible to determine the precise amounts paid by Sylvain Lauzon for each one of the investors, including Fernand Grondin.
+37. On December 12, 2002, 9095-8448 Québec inc. (S.P.H.T.) issued a cheque in the amount of $10,000 to the order of Fernand Grondin.
+38. Fernand Grondin cashed the $10,000 cheque that 9095-8448 Québec inc. (S.P.H.T.) had issued to him on December 12, 2002.
+39. Fernand Grondin did not report in his tax return for the 2002 taxation year the amount of $10,000 that 9095-8448 Québec inc. (S.P.H.T.) had paid to him on December 12, 2002.
+40. Fernand Grondin reported total income of $93,908 for the 2002 taxation year.
+41. On April 24, 2006, seven individuals who had participated in the proposed investment, including Fernand Grondin, commenced a proceeding before the Superior Court of Québec in case number 200‑11‑014643-061.
+42. On September 16, 2008, the Superior Court of Québec rendered a judgment in case number 200-11-014643-061, cited as Talbot c. Lavigne, 2008 QCCS 4317.
+43. The Superior Court of Québec judgment of September 16, 2008, was rendered only against defendants Claude Lavigne and Jocelyne Lavigne.
+44. In its judgment of September 16, 2008, the Superior Court of Québec annulled all of the investment contracts entered into between Fernand Grondin and Jocelyne Lavigne, Claude Lavigne and Sarkis Sarkissian.
+45. Neither Penson, nor IForum, nor Lucky 1, nor CN, nor the administrator of Fernand Grondin’s pension fund was at any time or on any basis a party to the proceedings before the Superior Court of Québec in case number 200‑11-014643-061.
+46. The plaintiffs in the proceedings before the Superior Court of Québec in case number 200-11-014643-061 withdrew their claims against Sylvain Lauzon and Sarkis Sarkissian before the hearing.
+The respondent, through her counsel, asked the appellant to admit the following facts:
+47(a) The investment proposed to Fernand Grondin offered a rate of return of 40% on the funds accumulated in his pension fund, up to $500,000, as long as the amounts transferred remained invested for a period of 36 months.
+48(a) The amount of $10,000 received by Fernand Grondin on December 12, 2002, and the amount of $138,000 he received on December 27, 2002, were paid to him as partial payment of the 40% return that was payable on the proposed investment.
+49(a) In fact, the amount of $10,000 received by Fernand Grondin on December 12, 2002, and the amount of $138,000 he received on December 27, 2002, came from the monies accumulated in his pension fund that he had transferred to an RRSP of which he was the annuitant.
+50(a) Sylvain Lauzon made the following disbursements from the monies he held in trust for the five investors:
+(i) $650,000 paid to Lucky 1;
+(ii) $605,875 paid to Service Professionnel Haute Technologie S.P.H.T. inc. (“S.P.H.T.”);
+(iii) $138,000 paid to Fernand Grondin;
+(iv) $120,000 paid to Robert Talbot;
+(v) $3,000 paid to Sylvain Lauzon as professional fees.
+51(a) The only finding of nullity sought by the plaintiffs in case number 200‑11-014643-061 was the following:
+[TRANSLATION]
+ANNUL all of the investment contracts entered into between the plaintiffs and the defendants Jocelyne Lavigne, Claude Lavigne and Sarkis Sarkissian.
+The appellant, through his counsel, admits facts 47, 48, 49, 50 and 51, when reformulated as follows:
+47(b) The investment proposed to Fernand Grondin offered a 40% interest rate over 36 months on the amounts invested, with no tax payable on an amount of up to $500,000.
+48(b) The amount of $138,000 received by Fernand Grondin on December 27, 2002, was paid to him as partial payment of the 40% return that was payable on the proposed investment.
+49(b) In fact, the amount of $138,000 received by Fernand Grondin on December 27, 2002, came from the monies accumulated in his pension fund that he had transferred to an RRSP of which he was the annuitant.
+50(b) Sylvain Lauzon made the following disbursements from the monies he held in trust for the five investors:
+(i) $450,000 paid to Lucky 1;
+(ii) $505,835 paid to Service Professionnel Haute Technologie S.P.H.T. inc. (“S.P.H.T.”);
+(iii) $138,000 paid to Fernand Grondin;
+(iv) $120,000 paid to Robert Talbot.
+51(b) The relief sought by the plaintiffs in case number 200-11-014643-061 included the following:
+[TRANSLATION]
+ANNUL all of the investment contracts entered into between the plaintiffs and the defendants Jocelyne Lavigne, Claude Lavigne and Sarkis Sarkissian.
+The parties, through their respective counsel, agree to the filing by consent of documents 1 to 90 of the respondent’s book of documents.
+CITATION:
+2014 TCC 368
+COURT FILE NO.:
+2011-191(IT)G
+2011-192(IT)G
+STYLE OF CAUSE:
+MARCEL DEMERS,
+JOCELYNE DION GRONDIN (IN HER CAPACITY AS THE SUCCESSOR OF
+FERNAND GRONDIN) v.
+HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Quebec City, Quebec
+DATES OF HEARING:
+July 17 and 18, 2013
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Gaston Jorré
+DATE OF JUDGMENT:
+December 16, 2014
+DATE OF AMENDED REASONS FOR JUDGMENT:
+December 18, 2014
+APPEARANCES:
+Counsel for the appellants:
+Caroline Baillairgé
+Alexandre Dufresne (student-at-law)
+Counsel for the respondent:
+Philippe Dupuis
+COUNSEL OF RECORD:
+For the appellants:
+Caroline Baillairgé
+François Lévesque
+Firm:
+Lévesque Goulet Gaudreault
+Quebec City, Quebec
+For the respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Ontario
+[1] 2008 QCCS 4317.
+[2] At the end of the trial, there were no other defendants.
+[3] See the partial agreements on the facts: in Mr. Demers’ case, paragraphs 25, 33(a) and (b), 34(a) and (b), 35(a) and (b), 38(a) and (b), 39(a) and (b), and 40(a) and (b) of Appendix A and, in Mr. Grondin’s case, paragraphs 6, 7, 29, 30, 37, 38, 48(a) and (b), and 49(a) and (b) of Appendix B. With regard to the portions of the partial agreements in which there is a paragraph (a) and a paragraph (b), I have taken as facts only that which the said paragraphs have in common.
+I must note that in Mr. Grondin’s case the admission at paragraph 49(b) is only with respect to an amount of $138,000, which was paid by cheque. The $10,000 difference that was paid by another cheque is not included in paragraph 49(b). Nevertheless, I am satisfied that this amount of $10,000 also came from monies accumulated in his pension fund that Mr. Grondin had transferred to an RRSP of which he was the annuitant; my reason for so concluding is that he admitted that the payment of that $10,000 was part of the proposed investment — see, in particular, paragraphs 4, 5, 6, 33 and 35 of Appendix B — and that furthermore it is very clear from the evidence that what was to be invested was the amount accumulated in Mr. Grondin’s pension fund that had been transferred to an RRSP. Moreover, in argument it was not suggested that there was any error with respect to the quantum.
+The appellants were to receive a 40% return payable once the funds had been transferred for the purpose of the proposed investment. See paragraph 3 of Appendices A and B. Mr. Demers received approximately 50% of the return (20% of the funds invested) in 2002, the year of the investment, while Mr. Grondin received approximately 66% of the return (33% of the funds invested) in 2002, the year of the investment. The evidence does not explain the reasons for that difference.
+[4] With certain exceptions not applicable here, which are found in the definition of “benefit” in subsection 146(1) of the Income Tax Act. The amounts are to be included under subsection 146(8) and paragraph 56(1)(h).
+[5] See paragraphs 11 to 18 of Appendix A.
+[6] See paragraph 21 of Appendix A.
+[7] See paragraphs 18 to 27 and 34 of Appendix B.
+[8] See page 186 of the transcript; I note that this is page 186 of the electronic version of the transcript when it is opened in Print Layout in Word. The evidence includes a variety of documents, for example: documents giving a lawyer a mandate for a particular purpose or giving instructions to the CN pension fund to transfer the pension funds, but there are no written investment contracts between the appellants and the Lavignes or any other person.
+[9] Transcript, page 143.
+[10] The provisions relating to nullity and restitution of prestations are articles 1416 to 1426 and 1699 to 1707 of the Civil Code.
+[11] Seventh edition, 2013, Éditions Yvon Blais; paragraphs 378 to 394, 398 to 402 and 920 to 935 of the book, which deal with the theory of nullity and the restitution of prestations, are relevant.
+[12] Felix & Norton International inc. c. Canada (Procureur général), 2009 QCCS 919; see in particular paragraphs 35, 39, 40, 41 and 51.
+[13] Will-Kare Paving & Contracting Ltd. v. Canada, [2000] 1 S.C.R. 915, paragraphs 31 to 33.
+[14] Whether it was the Lavignes themselves or individuals acting on their behalf.
+[15] See also the discussion that follows and the next footnote. Although the Civil Code does not make specific reference to such a situation, I do not see how the provisions of the Civil Code with respect to nullity and the restitution of prestations and the judgment in Talbot v. Lavigne could be interpreted in a way that would lead to the conclusion that Penson, a third party acting in good faith that was not a party to the litigation, is deemed to still be in possession of both amounts and could be obliged to pay them to the appellants.
+[16] Article 1707 provides that acts performed in favour of a third person in good faith may be set up against the person to whom restitution is owed, except in the case of acts of alienation by gratuitous title. Article 1707 states:
+1707 Acts of alienation by onerous title performed by a person who is bound to make restitution, if made in favour of a third person in good faith, may be set up against the person to whom restitution is owed. Acts of alienation by gratuitous title may not be set up, subject to the rules on prescription.
+Any other acts performed in favour of a third person in good faith may be set up against the person to whom restitution is owed.
+[17] See paragraphs 38 and 102 of the Superior Court judgment. I note that the amount recovered by Mr. Grondin as indicated at paragraph 38 is only $120,000. I do not know why it is different from the amount shown in the evidence before me. I cannot consider the evidence before the Superior Court; I must consider the evidence that is before me.
+[18] I note that, in Felix & Norton International, although the juridical act was set aside, the declared dividends were not paid. See paragraph 8 of the judgment. I note as well that in that case Felix & Norton International was seeking to rectify the resolution adopted by the company to bring it in line with the parties’ intention. It was not a case of nullity.
+I further note that, with regard to the amounts of $80,000 and $148,000, the parties’ intention was realized; a portion of the return on the investment was to be paid at the time of investment and was in fact paid at the time of investment.
+[19] See Savard v. The Queen, 2008 TCC 62, at paragraph 50.
+[20] See also Jacobsen v. The Queen, 2012 TCC 25, at paragraph 24.
+[21] See Nesbitt v. Canada, [1996] F.C.J. No. 1470 (QL):
+8 . . . A misrepresentation has occurred if there is an incorrect statement on the return form, at least one that is material to the purposes of the return and to any future reassessment. It remains a misrepresentation even if the Minister could or does, by a careful analysis of the supporting material, perceive the error on the return form.
+[22] See Gebhart Estate v. Canada, 2008 FCA 206:
+19 In this appeal, the issue relates only to the neglect or carelessness elements of subparagraph 152(4)(a)(i) of the ITA. In Venne v. Canada (Minister of National Revenue - M.N.R.) (F.C.T.D.), [1984] C.T.C. 223 Justice Strayer stated, at page 228, that:
+… it is sufficient for the Minister, in order to invoke the power under subparagraph 152(4)(a)(i) of the Act to show that, with respect to any one or more aspects of his income tax return for a given year, a taxpayer has been negligent. Such negligence is established if it is shown that the taxpayer has not exercised reasonable care.
+I agree with that statement as to the standard that must be met to demonstrate that a misrepresentation is attributable to neglect or carelessness for the purposes of subparagraph 152(4)(a)(i) of the ITA.
+[23] See Canada v. Johnson, 2012 FCA 253:
+55 The Crown argues that in respect of 2002, the judge erred in failing to consider whether Ms. Johnson met the requisite standard of care – that of a wise and prudent person who has considered the matter thoughtfully, deliberately and carefully. That legal test is based on the following passage from the decision of Justice Addy in Regina Shoppers Mall Ltd. v. Canada (1990), 90 D.T.C. 6427 (F.C.T.D.), adopted by Justice MacGuigan, writing for this Court in Regina Shoppers Mall Ltd. v. Canada (1991), 91 D.T.C. 5101, at page 5013:
+Where a taxpayer thoughtfully, deliberately and carefully assesses the situation and files on what he believes bona fide to be the proper method there can be no misrepresentation as contemplated by section 152 [1056 Enterprises Ltd v. The Queen, [1989] 2 C.T.C. 1]. In Joseph Levy v. The Queen, [1989] C.T.C. 151 at 176, Teitelbaum J. quotes with approval the following statement by Muldoon J. in the above case:
+Subsection 152(4) protects such conduct, and perhaps only such conduct, where the taxpayer thoughtfully, deliberately and carefully assesses the situation as being one in which the law does not exact the reporting of that which the taxpayer bona fide believes does not exist.
+It has also been established that the care exercised must be that of a wise and prudent person and that the report must be made in a manner that the taxpayer truly believes to be correct. In another decision by Mr. Justice Muldoon, namely Iris M. Reilly, Executrix and Trustee of the Estate of Cleo E. Reilly, [1984] C.T.C. 21, in which he dealt again with the subject, we find the following statement at p. 38:
+In order to make any determination of making “any misrepresentation that is attributable to neglect, carelessness or wilful default … in filing the return or in supplying any information under the Act” it is necessary to have direct evidence of the state of mind and intention of “the taxpayer or person filing the return” or other evidence upon which reasonable inferences can be drawn in regard to the taxpayer’s or other person’s state of mind and intention.
+And at p. 40:
+The issue is not whether Mr. Tetz, in forming his opinion at the material time was wrong, but whether his not reporting the disposition was attributable to neglect, carelessness or wilful default.
+Finally, at page 42 :
+So, when it is now said that the standard of care is that of a wise and prudent person, it must be understood that wisdom is not infallibility and prudence is not perfection.
+When one reads on in the decision, it is clear that the Court of Appeal agrees with the passages quoted.
+[24] 2010 TCC 359.
+[25] The other $10,000 that Mr. Grondin received had been paid by a separate cheque.
+[26] Transcript, pages 111 and 112.
+[27] Transcript, pages 96, 101, 103, 107, 121, 122 and 128.
+[28] Transcript, pages 97 and 98.
+[29] Exhibit I-1, Tab 15.
+[30] Transcript, page 153; the “Club des Présidents” is associated with the investment.
+[31] Transcript, page 164.
+[32] Transcript, pages 159 and 160.
+[33] Transcript, pages 162 and 163; she did not remember the term that was used, but she believed some kind of “gain” was referred to.
+[34] Exhibit I-2, Tab 32.
+[35] Now “Autorité des marchés financiers”.
+[36] The appellants drew my attention to the decision of this court in Savard v. The Queen, 2008 TCC 62. The circumstances in Savard are very different from those in the present case.
+[37] After the hearing, the appellants drew my attention to the Court of Québec decision in Agence du revenu du Québec c. Lavigne, 2014 QCCQ 6891. Although that criminal judgment is of no help to me in determining this case, I note that it deals with, among other things, Mr. Demers’ investment and the “Club des Présidents”. The Court of Québec found Claude Lavigne guilty on 178 counts brought against him under section 62 of the Act Respecting the Ministère du Revenu.

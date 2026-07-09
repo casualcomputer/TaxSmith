@@ -1,0 +1,164 @@
+Title: Hervieux c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28222/index.do
+Corpus path: corpus/cases/tcc/2007/2007-cci-729-28222-hervieux-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2007-11-09
+
+# Hervieux c. M.R.N.
+
+- Citation: 2007 CCI 729
+- Decision date: 2007-11-09
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2069, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Hervieux c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-11-09
+Référence neutre
+2007 CCI 729
+Numéro de dossier
+2007-2441(EI)
+Juges et Officiers taxateurs
+Patrick J. Boyle
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2007-2441(EI)
+ENTRE :
+GEORGE J. HERVIEUX,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec l’appel de
+George J. Hervieux (2007-2442(CPP))
+le 25 octobre 2007, à Sudbury (Ontario).
+Devant : L’honorable juge Patrick Boyle
+Comparutions :
+Pour l’appelant :
+L’appelant lui‑même
+Avocat de l’intimé :
+Me Frédéric Morand
+____________________________________________________________________
+JUGEMENT
+L’appel est accueilli et la décision du ministre datée du 6 mars 2007 est modifiée pour qu’il soit tenu compte du fait que l’appelant occupait un emploi assurable au cours de la période en question.
+Signé à Ottawa, Canada, ce 4e jour de décembre 2007.
+« Patrick Boyle »
+Juge Boyle
+Traduction certifiée conforme
+ce 28e jour de janvier 2008
+D. Laberge, LL.L.
+Dossier : 2007-2442(CPP)
+ENTRE :
+GEORGE J. HERVIEUX,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec l’appel de
+George J. Hervieux (2007-2441(EI))
+le 25 octobre 2007, à Sudbury (Ontario).
+Devant : L’honorable juge Patrick Boyle
+Comparutions :
+Pour l’appelant :
+L’appelant lui‑même
+Avocat de l’intimé :
+Me Frédéric Morand
+____________________________________________________________________
+JUGEMENT
+L’appel est accueilli et la décision du ministre datée du 6 mars 2007 est modifiée pour qu’il soit tenu compte du fait que l’appelant occupait un emploi ouvrant droit à pension au cours de la période en question.
+Signé à Ottawa, Canada, ce 4e jour de décembre 2007.
+« Patrick Boyle »
+Juge Boyle
+Traduction certifiée conforme
+ce 28e jour de janvier 2008
+D. Laberge, LL.L.
+Référence : 2007CCI729
+Date : 20071204
+Dossiers : 2007-2441(EI)
+2007-2442(CPP)
+ENTRE :
+GEORGE J. HERVIEUX,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Boyle
+[1] L’appelant, George Hervieux, interjette appel des décisions par lesquelles l’Agence du revenu du Canada a conclu qu’il n’occupait pas un emploi assurable ou un emploi ouvrant droit à pension pendant la période allant de juillet à octobre 2006 pour l’application de la Loi sur l’assurance‑emploi et du Régime de pensions du Canada. Durant cette période, M. Hervieux a effectivement travaillé pour 1264112 Ontario Inc., une entreprise agissant sous la raison sociale de La Compagnie Laberge, principalement en qualité de responsable des travaux de rénovation effectués dans une propriété située sur la rue Belanger à Sudbury, ainsi que dans d’autres propriétés appartenant à cette société, à des sociétés liées et aux actionnaires de ces sociétés.
+[2] L’appelant, M. Hervieux, a témoigné pour son propre compte et présenté un certain nombre de documents en preuve qui sont décrits ci‑dessous. Le plus important de ces documents est un bordereau de paie, produit par l’une des sociétés pour une partie de la période en question, qui indiquait une indemnité de congé accumulée de quatre pour cent et des retenues à la source d’impôts fédéral et provincial et de cotisations au Régime de pensions du Canada et à l’assurance‑emploi. M. John Laberge a témoigné pour le compte de l’intimé. L’épouse de M. Laberge était propriétaire de La Compagnie Laberge. M. Laberge était propriétaire de Cabaret Hotels Ltd. et d’autres sociétés liées pour lesquelles M. Hervieux a travaillé durant la période en question. M. et Mme Laberge possédaient une maison sur la rue Marion où d’autres travaux ont été effectués. C’est M. Laberge qui a rencontré M. Hervieux pour lui offrir le travail et c’est lui également qui a rempli au nom de La Compagnie Laberge le questionnaire de l’ARC destiné au payeur. Mme Laberge a également témoigné brièvement.
+[3] M. et Mme Laberge et M. Hervieux entretenaient des liens personnels, communautaires et professionnels depuis au moins 30 ans. Malheureusement, ces liens ont été rompus le 16 octobre 2006 à la suite de disputes concernant l’avancement des travaux de rénovation de la propriété de la rue Belanger et le droit de regard de M. Laberge sur l’horaire de travail de M. Hervieux. La journée s’est terminée par l’intervention de la police à la résidence de M. Hervieux et plus tard à la résidence de M. et Mme Laberge dans la soirée et de nouveau plus tard dans la nuit. Ni les disputes concernant la cadence, la qualité et la valeur des travaux effectués, ni l’incident du 16 octobre qui a nécessité l’intervention de la police ne sont pertinents dans les présents appels relatifs à l’assurance‑emploi et au Régime de pensions du Canada, sauf dans la mesure exposée dans les motifs qui suivent. La présente instance ne réglera pas ces disputes. La seule question à trancher par la Cour est de savoir si M. Hervieux a été engagé à titre d’employé ou à titre d’entrepreneur indépendant pour le travail fait pour le compte de M. et Mme Laberge et de leurs entreprises, pour lequel il était payé par La Compagnie Laberge, et s’il a travaillé à ce même titre.
+La version des faits de M. Hervieux
+[4] De l’avis de M. Hervieux, M. Laberge lui a offert un emploi en juillet 2006 pour assurer la conduite des travaux de rénovation de la propriété de la rue Belanger. M. Hervieux et M. Laberge ont discuté de la question de savoir si la relation devait être une relation employeur‑employé, ainsi que des coûts approximatifs et du calendrier d’exécution des rénovations, de la nécessité d’engager d’autres ouvriers, etc. Il a été expressément discuté et convenu que M. Hervieux serait un employé et serait payé 750 $ par semaine jusqu’à la fin du projet. M. Hervieux et M. Laberge ont ensemble estimé que les travaux de la propriété de la rue Belanger prendraient de un à deux mois, mais que cette période était susceptible de se prolonger compte tenu de ce qui serait découvert au fur et à mesure de l’avancement des travaux.
+[5] M. Laberge communiquait avec M. Hervieux plusieurs fois par jour, en personne ou par téléphone cellulaire. Il lui donnait alors une liste de ce qui devait être fait. Cela incluait régulièrement des travaux effectués à d’autres propriétés, appartenant M. et Mme Laberge et à leur groupe d’entreprises, que la propriété de la rue Belanger. Quant aux rénovations de la propriété de la rue Belanger, M. Laberge précisait l’ordre dans lequel les travaux quotidiens devaient y être effectués et si M. Hervieux devait plutôt, ou également, s’occuper d’autres travaux à faire aux autres propriétés.
+[6] Aucune entente écrite relative aux travaux ne vient préciser les modalités du contrat de M. Hervieux ou les détails de la rénovation de la propriété de la rue Belanger. M. Laberge devait approuver l’embauche d’autres ouvriers pour les travaux effectués à cette propriété et il se chargeait de les payer. M. Laberge se chargeait également de payer les matériaux et les fournitures. M. Hervieux comptabilisait les heures travaillées par les autres ouvriers sur les lieux et en faisait rapport à M. Laberge. M. Hervieux ne pouvait pas travailler pour d’autres personnes puisqu’il était entendu qu’il travaillerait à plein temps pour M. et Mme Laberge. M. Hervieux avait accès à l’atelier et aux outils de M. et Mme Laberge. Les autres gens de métier apportaient leurs propres outils. De plus, M. Hervieux utilisait régulièrement certains des outils lui appartenant dont il s’était servi dans ses contrats commerciaux de construction et de rénovation. M. Hervieux ne possédait ni camion ni fourgonnette. M. Laberge a mis à la disposition de M. Hervieux, durant toute la période en question, une fourgonnette appartenant à l’une de ses sociétés. M. Hervieux rattachait parfois sa remorque d’utilité générale ou d’équipement derrière la fourgonnette. Il pouvait faire un certain usage personnel de la fourgonnette. M. Laberge a acheté de nouveaux outils nécessaires aux travaux effectués par M. Hervieux, ainsi que des articles jetables comme des lames et des mèches, bien que M. Hervieux, au moins une fois, ait lui‑même acheté un outil électrique spécialisé pour réaliser des tâches. Lors de son témoignage, M. Laberge a accepté ou n’a pas contredit les éléments du témoignage de M. Hervieux résumés dans le présent paragraphe.
+[7] M. Hervieux exploite effectivement une entreprise de construction et de rénovation, mais il a également déjà occupé un emploi de responsable de projet de construction. Il a témoigné, et ce témoignage n’a pas été contredit, que dans les activités de son entreprise de construction et de rénovation, il avait toujours des ententes écrites précisant les travaux à faire, le calendrier des travaux et les coûts.
+[8] M. Hervieux a dit qu’il travaillait de 60 à 80 heures par semaine, six ou sept jours par semaine, pour M. et Mme Laberge dans le cadre de ce travail durant la période en question. Il touchait 550 $ par semaine en argent et il comprenait et considérait que la différence de 200 $ représentait les retenues à la source. Il était payé régulièrement les vendredis. En plus de comptabiliser les heures travaillées par les autres ouvriers, pour que M. Laberge lui donne l’argent pour les payer (à l’exception d’un ou deux ouvriers que M. Laberge payait directement), M. Hervieux comptabilisait ses propres heures.
+[9] M. Hervieux a produit un bordereau de paie, daté du 1er septembre 2006, pour la période se terminant le 31 août 2006, qu’il a reçu de M. Laberge. Il dit avoir reçu un deuxième bordereau, mais que cet autre bordereau est disparu de sa chemise de dossier qui se trouvait dans la fourgonnette lorsque M. Laberge et son collègue sont venus la reprendre la nuit du 16 octobre, comme il sera exposé ci‑dessous. Le bordereau de paie indique un salaire régulier mensuel de 3 000 $, avec une indemnité de vacances appropriée, des retenues à la source d’impôts fédéral et provincial et des cotisations au Régime de pensions du Canada et à l’assurance‑emploi, pour un salaire net d’environ 2 100 $. Dans cette mesure, ce document corrobore effectivement la déclaration de M. Hervieux selon laquelle M. Laberge et lui avaient convenu qu’il serait engagé à titre d’employé et le salaire régulier mensuel de 3 000 $ est parfaitement compatible avec un salaire hebdomadaire de 750 $. En outre, le salaire mensuel net de 2 100 $ correspond très bien au salaire de 550 $ par semaine, après déduction des retenues à la source de 200 $, que M. Hervieux recevait. Le document soulève toutefois certaines questions. Premièrement, il est appelé un calcul de paie et, deuxièmement, il semble avoir été produit par Cabaret Hotels Ltd., une société distincte de La Compagnie Laberge qui appartenait à M. et Mme Laberge. (M. et Mme Laberge ont témoigné que Cabaret Hotels Ltd. avait une liste de paie régulière, contrairement à La Compagnie Laberge.) De plus, M. Hervieux a produit certaines de ses notes manuscrites rédigées durant la période en question qui faisaient effectivement état des heures et des montants payables aux autres ouvriers et qui rendaient compte des retenues de 200 $ sur les paiements hebdomadaires au comptant de 550 $.
+[10] La relation de travail a pris fin le 16 octobre 2006. Ce soir‑là, au dire de M. Hervieux, M. Laberge lui a téléphoné à la maison pour se plaindre de l’état des travaux de rénovation et il a insisté pour que M. Hervieux se présente à la propriété de la rue Belanger pour discuter de certaines questions. M. Hervieux a refusé. M. Laberge s’est alors présenté chez M. Hervieux avec un collègue du nom de « Bam Bam » pour reprendre possession de la fourgonnette après en avoir détaché la remorque et retiré les outils de M. Hervieux. Selon M. Hervieux, M. Laberge et son collègue sont partis avec sa chemise de dossier contenant les documents relatifs aux travaux qu’il effectuait pour M. et Mme Laberge, y compris toutes ses notes, son second bordereau de paie et d’autres documents qui auraient permis de corroborer davantage son témoignage et qui ne lui ont pas été remis avec le premier de ces éléments, après la première intervention de la police auprès de M. Laberge. Selon M. Hervieux, sa chemise de dossier lui a été remise, sans les nombreux documents importants qu’elle contenait, seulement après la seconde intervention de la police auprès de M. Laberge. Selon M. Hervieux, lorsque M. Laberge et son collègue se sont présentés chez lui, ils ont eu une discussion animée devant la maison et M. Laberge l’a menacé de lui rendre la vie misérable, de le ruiner et le tuer.
+Version des faits de M. Laberge
+[11] La version des faits de M. Laberge diffère passablement à plusieurs égards. Notamment, il a nié que M. Hervieux et lui aient convenu dès le départ d’une relation d’emploi et il a donné une explication différente pour la question du bordereau de paie de M. Hervieux. Dans son témoignage, M. Laberge s’est également dit en désaccord avec l’étendue du droit de regard qu’il aurait exercé pour le choix des autres ouvriers qui participaient au projet. Selon M. Laberge, les services de M. Hervieux ont été retenus pour la réalisation des travaux à la propriété de la rue Belanger à la suite de la première discussion qu’ils avaient eue quant au temps approximatif de réalisation des travaux et aux frais exigés par M. Hervieux pour ses services. Cette discussion, selon M. Laberge, leur a permis d’estimer que M. Hervieux recevrait de 4 000 $ à 5 000 $, mais que ce montant serait peut‑être en fin de compte augmenté de 2 000 $, et que les matériaux coûteraient à peu près le même montant, de sorte que M. Laberge prévoyait un projet se chiffrant à environ 10 000 $. Il dit avoir présenté le projet comme un contrat et avoir considéré qu’il lui en coûterait de 4 000 $ à 5 000 $ en main‑d’œuvre. M. Laberge attendrait de voir les frais facturés par M. Hervieux en fin de compte, évaluerait la valeur des travaux à la fin du projet et lui paierait le montant dont ils conviendraient ultérieurement. Il reconnaît avoir dit à M. Hervieux d’engager les ouvriers dont il avait besoin pour la réalisation des travaux et de comptabiliser leurs heures de travail pour qu’il les paie. M. Laberge convient que M. Hervieux devait rendre compte de ses dépenses, lesquelles devaient être payées en espèces. M. Laberge a confirmé que les chèques de La Compagnie Laberge à l’ordre de M. Hervieux qui ont été produits en preuve étaient, à son avis, des documents que M. Hervieux a signés sur présentation et qui ont été conservés par La Compagnie Laberge pour refléter les paiements au comptant déjà faits à M. Hervieux (ce qui est compatible avec l’explication donnée par M. Hervieux relativement au fait qu’il était payé en espèces et qu’on lui avait plus tard demandé d’endosser des chèques émis et conservés par les sociétés de M. et Mme Laberge).
+[12] En plus de nier qu’ils aient tous les deux convenu dès le départ de leur intention d’établir une relation employeur‑employé, M. Laberge a expliqué que le bordereau de paie était un bordereau de paie factice ou fictif préparé pour montrer à M. Hervieux quel serait son revenu net s’il était engagé de façon distincte par Cabaret Hotels Ltd. pour faire des travaux au bar Crazy Horse, notamment des travaux de rénovation, durant une période de cinq ou six semaines, en septembre et en octobre. Le bar devait alors être fermé pendant trois semaines. M. Laberge nie qu’un second bordereau ait déjà été produit et qu’il ait conservé des documents appartenant à M. Hervieux la nuit du 16 octobre. Il dit qu’il n’a jamais été donné suite à cette offre d’emploi au Crazy Horse en raison de la fin de leur relation. M. Laberge reconnaît qu’il était disposé à prendre M. Hervieux comme employé pour lui donner des heures qu’il aurait accumulées en faisant des travaux de rénovation à son bar en vue de retirer des prestations.
+[13] Au dire de M. Laberge, La Compagnie Laberge n’avait pas de liste de paie régulière ni la capacité d’en avoir une parce qu’elle n’avait aucun employé, à l’exclusion de son épouse qui était actionnaire unique et qui, comme partie intégrante de sa rémunération, touchait un salaire et des primes, ainsi que des dividendes. M. Laberge ne croyait pas que La Compagnie Laberge ait un numéro ou un compte d’employeur à l’ARC.
+[14] La version des faits de M. Laberge concernant la soirée du 16 octobre ne diffère pas considérablement de celle donnée par M. Hervieux, sauf que M. Laberge nie avoir pris, gardé ou détruit des documents appartenant à M. Hervieux qui se trouvaient dans sa chemise de dossier qui était à l’intérieur de la fourgonnette ou avoir intentionnellement gardé cette chemise de dossier jusqu’à ce que la police lui demande de la retourner. Lors du contre‑interrogatoire, lorsqu’on lui a demandé s’il avait menacé M. Hervieux de lui rendre la vie misérable, de le ruiner et de le tuer, M. Laberge a répondu avec désinvolture qu’il n’y aurait plus de place dans les cimetières s’il avait tué toutes les personnes auxquelles il avait fait des menaces de mort. Il n’a pas nié avoir proféré toutes ces menaces.
+Le questionnaire de l’ARC servant à déterminer si le travail est celui d’un employé ou d’un entrepreneur indépendant
+[15] À la suite de la demande de prestations d’assurance‑emploi de M. Hervieux, l’ARC lui a fait remplir le questionnaire destiné au travailleur. Les réponses fournies par M. Hervieux dans ce formulaire sont parfaitement compatibles avec son témoignage et les autres documents produits en preuve.
+[16] M. Laberge a rempli le questionnaire destiné au payeur au nom de La Compagnie Laberge. M. Hervieux a obtenu copie de ce document de l’ARC en vertu de la Loi sur la protection des renseignements personnels. Des parties de la copie dont il disposait et qu’il a produite en preuve avaient été masquées ou supprimées conformément à la Loi sur la protection des renseignements personnels. La Couronne n’a pas produit de copie du document complet en preuve. M. Laberge a rempli le questionnaire le 1er février 2007. Plusieurs aspects notables des réponses données par M. Laberge dans le questionnaire diffèrent de son témoignage lors de l’instance. De toute évidence, M. Laberge avait la possibilité d’offrir un témoignage plus complet lors de l’instance et c’est ce qu’il a fait, car le questionnaire est toujours limité par son libellé, par la brièveté et le style télégraphique des réponses et par les choix de réponse « oui » ou « non », ainsi que par les directives et parfois par le manque de clarté d’ensemble.
+[17] À la question 10(c), M. Laberge se désigne lui‑même (ou La Compagnie Laberge ou Mme Laberge) comme l’« employeur » de M. Hervieux. La question consistait à savoir si une indemnité avait été versée au travailleur à son départ. La réponse est [traduction] « Non. Le travailleur a abusé de l’employeur et lui a causé des pertes de loyer ». Non seulement cette réponse contient des termes relatifs à l’emploi, mais il semble aussi, d’après les réponses que M. Laberge a données en remplissant le formulaire, qu’il était soucieux de démontrer que le congédiement de M. Hervieux était justifié. Le congédiement justifié est également une question liée à l’emploi. De la même manière, à la question 10(a) qui consistait à savoir si le payeur avait le droit de congédier le travailleur, M. Laberge a coché « Oui » et a évoqué un manque de communication, le défaut d’achever les travaux en raison d’une autre occupation, les plaintes des assistants, l’utilisation inappropriée du camion et les comptes courants de la société.
+[18] De plus, à la question 3(a), M. Laberge a décrit les tâches effectuées par M. Hervieux comme si elles ne se limitaient pas au projet de la rue Belanger, mais bien comme si elles s’étendaient également aux propriétés de la rue Errington et de la rue Main appartenant à La Compagnie Laberge, à la résidence de M. et Mme Laberge située sur la rue Marion et aux deux propriétés de la rue Errington appartenant à Cabaret Hotels (M. Laberge a témoigné que M. Hervieux n’avait pas travaillé à ces endroits durant la période en question). La première phrase du formulaire qui était destiné à La Compagnie Laberge et qui a été rempli par M. Laberge précise que les questions se rapportent à la relation de travail entre M. Hervieux et La Compagnie Laberge pour la période du 20 juillet 2006 au 16 octobre 2006.
+Crédibilité
+[19] Pour être en mesure d’analyser d’un point de vue juridique si la relation était une relation employeur‑employé ou une relation contractuelle avec un entrepreneur indépendant, je dois décider, suivant la prépondérance des probabilités, quel témoignage est digne de foi pour les questions intéressant (i) l’entente initiale des parties et leur intention d’établir une relation employeur‑employé ou une relation contractuelle; (ii) la raison pour laquelle le bordereau de paie, produit sous la cote A-1, a été préparé; (iii) l’étendue du travail; et (iv) les modalités de paiement pour le travail effectué.
+[20] Les deux versions des faits sur ces points sont tout à fait incompatibles. L’appelant a produit certains éléments de preuve documentaire corroborant sa version des faits. La Couronne en a produit très peu, sinon pas du tout, pour étayer la version des faits de M. Laberge. Les versions données antérieurement à l’ARC par M. Hervieux et M. Laberge en remplissant leur questionnaire peu de temps après la fin de la relation de travail tendent également à corroborer la version de M. Hervieux quant aux aspects contestés de la preuve. Je conclus, suivant la prépondérance des probabilités, que la version de M. Laberge quant aux faits contestés ne doit pas être acceptée. Outre les nombreuses incompatibilités dans son témoignage devant la Cour et dans les réponses du questionnaire, il y a pour m’influencer le fait qu’il a reconnu être furieux contre M. Hervieux et qu’il l’a menacé de le ruiner et de lui rendre la vie misérable, ce qui lui donne une raison de ne pas dire la vérité à la Cour même s’il ne semble pas avoir un intérêt financier important dans l’issue de la cause.
+[21] Je conclus que les parties avaient l’intention dès le départ d’établir une relation employeur‑employé pour un montant de 3 000 $ par mois ou environ 750 $ par semaine pour la durée du projet. Je n’accepte pas la version de M. Laberge selon laquelle il aurait conclu un contrat ouvert suivant une évaluation approximative de 4 000 $ à 5 000 $, peut‑être de 7 000 $, pour le coût des services, et peut‑être tout autant pour les matériaux et qu’il devait évaluer la rémunération des services et déterminer ce qui était raisonnable à la fin du projet. Cela est incompatible avec le fait que les travaux à faire à la propriété de la rue Belanger ou l’échéancier prévu pour la réalisation des travaux n’ont pas été consignés sous une forme quelconque. Cela est également incompatible avec le fait que M. Laberge exigeait que M. Hervieux travaille dans d’autres propriétés lui appartenant à lui et à Mme Laberge et accomplisse d’autres tâches pour eux, durant la période en question, dans le cadre du même contrat.
+[22] Je rejette également l’explication donnée par M. Laberge pour justifier l’existence du bordereau de paie remis à M. Hervieux. L’explication suivant laquelle il était disposé à faire engager M. Hervieux par son autre société pour la réalisation de travaux de rénovation dans cet établissement était complètement incompatible avec son témoignage suivant lequel sa seule préoccupation durant la période en question était de faire en sorte que les rénovations de la propriété de la rue Belanger soient achevées au plus vite afin que les locataires puissent emménager et occuper la propriété. M. Laberge a dit très clairement dans son témoignage que les travaux au bar Crazy Horse devaient être faits en septembre et en octobre.
+Analyse
+[23] La question de l’employé et de l’entrepreneur indépendant pour l’application des définitions d’emploi ouvrant droit à pension et d’emploi assurable doit être tranchée en établissant si la personne exploite vraiment une entreprise à son propre compte. Cette question a été énoncée par les tribunaux britanniques dans Market Investigations, Ltd. v. Minister of Social Security, [1968] 3 All E.R. 732 (H.C. Angl., Div. du Banc de la Reine), approuvée par la Cour d’appel fédérale dans Wiebe Door Services Ltd. v. The Minister of National Revenue, 87 DTC 5025, pour l’application des définitions canadiennes d’emploi assurable et d’emploi ouvrant droit à pension, et adoptée par la Cour suprême du Canada dans 671122 Ontario Ltd. c. Sagaz Industries Canada Inc., [2001] 2 R.C.S. 983. Cette question doit être tranchée en tenant compte de toutes les circonstances pertinentes et d’un certain nombre de critères ou de principes directeurs utiles dont : 1) l’intention des parties; 2) le degré de contrôle sur le travail; 3) la propriété des instruments de travail; 4) la possibilité de réaliser des profits ou le risque de subir des pertes; et 5) ce qui a été désigné comme le critère d’intégration à l’entreprise, d’association ou d’entreprise.
+[24] L’arrêt Royal Winnipeg Ballet v. The Minister of National Revenue, 2006 DTC 6323, de la Cour d’appel fédérale, fait ressortir l’importance particulière de l’application dans ces affaires des critères relatifs à l’intention des parties et au contrôle. Cette conclusion est compatible l’arrêt Combined Insurance Co. of America c. Canada (Ministre du Revenu national), 2007 CAF 60, et l’arrêt City Water International Inc. c. Canada (Ministre du Revenu national), 2006 CAF 350, de la Cour d’appel fédérale. Les motifs de la Cour dans Vida Wellness Corp. c. Canada (Ministre du Revenu national), 2006 CCI 534, constituent également un résumé utile de la signification de l’arrêt Royal Winnipeg Ballet. Plus récents, les motifs du juge en chef dans Lang c. Canada (Ministre du Revenu national), 2007 CCI 547, sont également fort utiles relativement à ce point.
+L’intention des parties
+[25] Dans la présente affaire, j’ai conclu que les parties voulaient que la relation soit une relation employeur‑employé et que les retenues relatives à l’emploi soient faites par La Compagnie Laberge au moment de payer M. Hervieux. Dans leurs rapports, il n’y a pas eu de désaveu de cette relation employeur‑employé ni de comportement incompatible avec celle‑ci jusqu’à ce que la relation de travail prenne fin. Suivant l’arrêt Royal Winnipeg Ballet, l’intention est un facteur important à prendre en compte et, en l’espèce, il tend nettement à établir qu’il s’agit d’un emploi.
+Contrôle
+[26] Dans la présente affaire, le travail quotidien de M. Hervieux était supervisé par M. Laberge. M. Laberge et, parfois, Mme Laberge communiquaient avec lui plusieurs fois par jour. M. et Mme Laberge indiquaient à M. Hervieux quotidiennement à quelle propriété il allait travailler et dans quel ordre les travaux nécessaires devaient être effectués. À aucun moment, il ne revenait pas à M. Hervieux de décider s’il s’occuperait du plancher ou des rampes. Il recevait à cet égard des instructions de M. Laberge. En fait, la relation s’est terminée par une dispute concernant en partie le degré de contrôle que M. Laberge cherchait à exercer sur le temps que M. Hervieux devait passer au travail durant une fin de semaine.
+[27] Si M. Hervieux avait agi comme entrepreneur indépendant, on aurait pu s’attendre à ce que ce soit lui qui décide principalement du travail qu’il ferait dans les étapes de la rénovation convenue en tout temps et à quel rythme il le ferait, sous réserve des pratiques de construction usuelles, raisonnables et nécessaires et de tout échéancier général convenu pour la réalisation du projet ou un achèvement partiel. Le degré de contrôle exercé par M. Laberge sur le travail que M. Hervieux devait faire et sur le choix du moment où il devait le faire tend à établir une relation employeur‑employé, et non une relation avec un entrepreneur indépendant.
+Propriété des instruments de travail
+[28] Dans la présente affaire, les outils et l’équipement nécessaires semblent avoir été fournis de façon à peu près égale par le travailleur et le payeur, compte tenu de qui en était le propriétaire et de leur disponibilité. En ce qui a trait au véhicule, il n’est pas rare qu’un employeur fournisse un véhicule à un employé dans le cadre de l’emploi. Il me paraît très inhabituel qu’un entrepreneur se voit fournir un véhicule d’utilisation générale pour toute la durée de son contrat. Dans les faits de la présente affaire, il semble y avoir eu un partage sensé, raisonnable et pratique des outils, des véhicules et des remorques déjà acquises et disponibles. Je ne puis conclure que ce facteur penche d’un côté en particulier, à savoir du côté de l’employé ou de l’entrepreneur indépendant.
+Possibilité de réaliser des profits ou risque de subir des pertes
+[29] M. Hervieux était payé suivant un tarif fixe mensuel ou hebdomadaire pendant qu’il travaillait pour M. et Mme Laberge. Les parties n’ont convenu au départ d’aucun travail particulier détaillé comme étant le travail à faire et n’ont fixé aucune durée maximale ni aucun montant maximal pour l’achèvement du travail convenu ou du travail exigé. M. Hervieux devait recevoir 3 000 $ par mois ou environ 750 $ par semaine aussi longtemps qu’il faisait le travail exigé par M. et Mme Laberge dans leurs propriétés. M. Hervieux n’avait qu’à payer l’essence consommée par la fourgonnette que M. Laberge lui fournissait et qu’il prenait également pour son usage personnel durant la période en question. Puisque M. Hervieux travaillait à plein temps pour M. et Mme Laberge et ne pouvait travailler pour d’autres personnes durant ce temps, il n’avait aucune possibilité de réaliser des profits, outre le salaire que M. et Mme Laberge ont accepté de lui verser, et il ne courait pas non plus le risque de subir une perte associée au travail qu’il faisait pour M. et Mme Laberge. Ce facteur tend également à établir une relation employeur‑employé.
+Conclusion
+[30] Pour les motifs exposés précédemment, j’accueille l’appel de M. Hervieux puisque je conclus qu’il était un employé et non un entrepreneur indépendant et, par conséquent, qu’il occupait un emploi assurable aux fins de l’assurance‑emploi et un emploi ouvrant droit à pension aux fins du Régime de pensions du Canada durant la période en question.
+Signé à Ottawa, Canada, ce 4e jour de décembre 2007.
+« Patrick Boyle »
+Juge Boyle
+Traduction certifiée conforme
+ce 28e jour de janvier 2008
+D. Laberge, LL.L.
+RÉFÉRENCE : 2007CCI729
+NOS DES DOSSIERS DE LA COUR : 2007-2441(EI), 2007-2442(CPP)
+INTITULÉ : GEORGE J. HERVIEUX c. LE MINISTRE DU REVENU NATIONAL
+LIEU DE L’AUDIENCE : Sudbury (Ontario)
+DATE DE L’AUDIENCE : Le 25 octobre 2007
+MOTIFS DU JUGEMENT : L’honorable juge Patrick Boyle
+DATE DU JUGEMENT : Le 4 décembre 2007
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui‑même
+Avocat de l’intimé :
+Me Frédéric Morand
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimé : John H. Sims, c.r.
+Sous‑procureur général du Canada
+Ottawa, Canada

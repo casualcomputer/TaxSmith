@@ -1,0 +1,357 @@
+Title: Redash Trading Incorporated v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26425/index.do
+Corpus path: corpus/cases/tcc/2004/2004-tcc-446-26425-redash-trading-incorporated-v-the-queen-en.md
+Document type: case_law
+Last modified: 2004-06-16
+
+# Redash Trading Incorporated v. The Queen
+
+- Citation: 2004 TCC 446
+- Decision date: 2004-06-16
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3176, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Redash Trading Incorporated v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-06-16
+Neutral citation
+2004 TCC 446
+File numbers
+2001-2284(GST)G
+Judges and Taxing Officers
+Ronald D. Bell
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2001-2284(GST)G
+BETWEEN:
+REDASH TRADING INCORPORATED,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on March 1, 2004 at Halifax, Nova Scotia
+By: The Honourable Justice R.D. Bell
+Appearances:
+Counsel for the Appellant:
+P. Robert Arkin
+Counsel for the Respondent:
+Peter J. Leslie
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment made under the Excise Tax Act, notice of which is dated March 22, 2001 and bears number 01CB-117059402 is allowed, and the reassessment is referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached Reasons for Judgment.
+The Appellant is awarded costs as set out in the said Reasons.
+Signed at Ottawa, Canada, this 16th day of June 2004.
+"R.D Bell"
+Bell, J.
+Citation: 2004TCC446
+Date: 20040616
+Docket: 2001-2284(GST)G
+BETWEEN:
+REDASH TRADING INCORPORATED,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Bell, J.
+ISSUE:
+[1] The issue is whether the Appellant, in respect of some 210 transactions in the period October 1, 1997 to September 30, 1998 in respect of which it claimed Input Tax Credits ("ITC's"), in law, acquired vehicles thereby entitling it to such ITC's.
+FACTS:
+[2] Mr. Evong ("E") was, in the relevant period, president, secretary and treasurer of the Appellant. He and his wife each owned 50 percent of the issued and outstanding shares of that company. He was the only witness for the Appellant. E was a certified customs broker from 1971 until selling his share of that business in April, 2002. He described the Appellant's activities in arranging the export of vehicles from Canada to Lahr, Germany for purchase by Canadian service men there. E stated that the vehicle manufacturers did not want dealers like him exporting vehicles to other counties and, accordingly, the Appellant used about 30 different names in so doing in order to conceal those deals from the manufacturers. He said that the Appellant had an open "garage policy" for insurance to cover the vehicles while being moved to the shipping point. He testified that the Appellant stopped shipping to service men in 1997.
+[3] E stated that in 1994 or 1995 he met John Bruce ("Bruce") at a shipping terminal, both being there for the same purpose, and that they talked while they had to wait. Bruce, E said, told him he was always looking for new sources of vehicles. E then said that the Appellant started faxing manufacturers' vehicle invoices to Bruce and that he then faxed them to his customers. The Appellant, E stated, sold vehicles to Bruce's company and faxed its invoices prepared by E. E also said that because he did not want Bruce to know his dealer sources, he would pick up the vehicles and deliver them to the terminal. He said that the Appellant marked up the dealer's price by $500 to $1,000. He stated that Bruce knew how much the dealer paid and how much the Appellant received.
+[4] E then testified that Bruce called him one day and asked if he could obtain more vehicles. He said that Bruce was an "independent" and that Bruce and the Appellant were competitors. E stated that Bruce did not have the financing to do all the transactions he wished and asked E to "do deals" for him. He said that he would receive money from the buyers of vehicles and pay the suppliers. He said that the financing Bruce could not handle was to pay the Harmonized Sales Tax ("HST")[1]. E also stated that when Bruce asked E if the Appellant would enter into a deal, the Appellant would respond according to its ability to handle, financially, any given transaction.
+[5] Documents covering two representative transactions were filed as exhibits. The details of one of such transaction follow:
+(1) Bruce faxed to the Appellant an invoice showing the Appellant as the "Customer" and setting out its full address. It was from 1206866 Ontario Inc. (address shown), part of the information being in a box on the invoice,
+Date
+February 25, 1998
+Invoice No.
+R-120
+Rep
+JOHN BRUCE
+FOB
+Toronto
+The vehicle was described as
+1 1998 - JEEP GRAND CHEROKEE LIMITED
+VIN # 1 J4GZ88Z4WC279526
+DEEP SLATE PEARL COAT
+The "Unit Price" was shown as $41,700 and the TOTAL was shown as $47,955 made up of $41,700 plus HST of $6,255.
+(2) E testified that he then prepared an invoice. It was on a printed form with the Appellant's name, address and telephone and fax numbers at the top right hand corner. It was addressed to BRAVO MANAGEMENT SERVICES with its full address. It had the same vehicle description as above and showed the "UNIT PRICE" as $42,700, "GST" as $2,989 and 'TOTAL DUE" as $45,689. The difference in price, although the evidence was not specific, appears to be the profit. E stated that this invoice was not sent out but was for his accounting records and was to be a document to substantiate his claim for HST.
+(3) E said that Bruce prepared and faxed to the Appellant a "BILL OF SALE" with the Appellant's name, as the vendor (together with its address and GST number) selling to
+BRAVO MANAGEMENT SERVICES
+101 SUBWAY CRESCENT
+ETOBICOKE, ONTARIO
+M9B 6K4
+This document showed the same full vehicle description as above and showed the unit price of $42,700, GST of $2,989 and total of $45,689 as above. E said the Appellant charged GST because the sale was in Canada.[2]
+(4) A faxed copy of the invoice from Chrysler Canada Ltd. to a dealer in Mississauga was included with the above documents. Also included was a photocopy of a document appearing to be a bank draft for $47,995 addressed to 1206866 Ontario Inc. bearing the words:
+"FUNDS FROM REDASH"
+The name REDASH replaced another name which had been struck out.
+[6] E stated that the Appellant received $45,689 from Bravo. He also said that he was never told why the Appellant was "in the middle". He said he thought it was to protect the buyer. He said that he never saw the vehicle and never had the occasion to believe the vehicles were not in existence. He said he never heard that a vehicle was not delivered. He stated further that he had done "other deals" with a Mr. Best in Vancouver who had clients in Germany and Austria.
+[7] E stated that the Appellant paid HST on each of the 210 transactions. He said that the Appellant was in Nova Scotia and that, therefore, HST was payable.
+[8] E was referred to the Notice of Assessment which appeared to be an original assessment[3] for payment by him of an amount equal to ITC's received, namely, $1,029,121.06. This was feebly described on the Notice of Assessment as "Adjustments to Input Tax Credits". A letter dated seven days before the Notice of Assessment referred to:
+a Summary of Adjustments to be made to your Goods and Services Tax/Harmonized Sales Tax Return(s) for the above audit period.
+The four pages attached provided a slightly comprehensible "Statement of Audit Adjustments" which, in respect of adjustments, typically said, in a representative example:
+... input tax credit claim is disallowed in accordance with section 169 of the Act. See worksheet #0915 for details.
+The Notice of (RE)ASSESSMENT continued as follows:
+Total Adjustments for Assessment Period
+$1,029,121.06
+Penalty
+110,115.32
+Interest
+86,021.99
+Other penalty
+344,332.03
+Amount Owing
+1,569,550.40
+No statutory authority for the penalties and no computation thereof was shown.
+[9] The Minister reassessed the Appellant for the period under appeal. That is the reassessment from which the appeal is brought. A copy of that document was not produced to the Court. However, it is described in the Reply to the Notice of Appeal as follows:
+Adjustments to ITCs
+$1,395,586.87
+Net Interest
+$90,294.87
+Penalties
+$460,084.25
+Total
+$1,945,965.99
+[10] E said that he received the ITC's "and now they ask to be paid back". He stated that he "entered" the GST collected and remitted it to Revenue. He said further that it was not accounted for in the reassessment and that Revenue has kept that amount even though it had been declared. He opined that on the one hand Revenue was saying that the transactions were bona fide and on the other hand that they were not.
+[11] E then testified that he expected the sellers to remit the tax paid to them by him to be remitted to Revenue and that he only found out after meeting with Revenue auditors that they didn't so remit it. In that regard he said that auditors came to the Appellant in September 1998 to discuss the transactions and that this was the first time he was aware of any problem. He said he gave them his files and answered all questions and that he was devastated that he was part of the problem. He told those auditors that he was then involved in a transaction where the Appellant was obliged forthwith to pay for seven vehicles and that he would help them get that money. He said he delayed forwarding payment to the seller until the next day and that Revenue "showed up" and took more than $300,000.
+[12] E said that neither he nor the Appellant were charged under the Excise Tax Act. He said further that he was simply buying a vehicle and selling it to a customer and that that was what he was in business to do. He testified that he was never aware of any relation between the original seller and the ultimate purchaser. He said that he was being penalized to pay for something that someone else stole and that "I was caught in the middle".
+[13] On cross-examination, E admitted that the Appellant was black-listed by vehicle manufacturers and that that was why it purchased vehicles using different names. He said that he dealt with specific dealerships who wanted sales and that they had a designated salesman for contracts.[4] E stated that he kept this to himself and that Bruce did not know the Appellant's contacts and that he did not know Bruce's contacts.
+[14] E said that Bruce was not an employee of the Appellant, was not an agent of the Appellant and could not sign on behalf of or bind the Appellant. He said "He was another customer of mine".
+[15] E testified that he never negotiated to buy any of the vehicles in the transactions and that he never saw them. When queried about the prices of the vehicles he said that the prices were reasonable if the vehicles were in good condition. He said that he never spoke to any purchaser respecting the transactions. When asked if this was the normal way he carried on business, E replied that he had similar transactions. When asked whether he knew if any of the vehicles existed he replied that most had the manufacturer's invoices and that there would be a vehicle at one time for that invoice. When queried as to whether he had ever questioned himself about these transactions he replied saying that he was very busy and "I don't know if I did that or not". He said that many cars were being sold and that many were going across the border. He said he thought that Bruce was hiding his sources. With respect to the money seized by the auditors E said that the purchaser who sent the money wanted it back because he did not receive the cars.
+[16] When questioned whether he ever asked Bruce what was going on he replied that he didn't think so - that these were just other transactions similar to what he was doing - a little bit different but still purchases and sales. When asked if it was possible he did not want to know, he responded that it was possible.
+[17] The Reply included, with respect to matters other than penalties, 28 assumptions of fact, one of such assumptions containing nine subparagraphs. Because I propose dealing with the question of whether assumptions not specifically denied by the Appellant should be deemed to be facts in this appeal, I set forth all such assumptions as follows:
+8. In so assessing the Appellant, the Minister relied on, inter alia, the following assumptions:
+a) the facts stated and admitted above;
+b) the Appellant is a GST registrant with GST Registration No.132477787RT;
+c) the Appellant was a corporation involved in the sale of motor vehicles;
+d) the Appellant is required by the Excise Tax Act, R.S.C. 1985, c. E-15, as amended (the "Act") to file its GST returns on a monthly basis;
+e) the Appellant purported to purchase 210 motor vehicles from three numbered companies incorporated in Ontario and two sole proprietorships resident in Ontario (the "vendors") from October 1997 to August 1998;
+f) the vendors were:
+Legal Name
+Trading Name
+1206866 Ontario Inc.
+Parkerville Enterprises
+1283915 Ontario Ltd.
+None
+Mathew Owl
+Capital Cars & trucks
+1265111 Ontario Inc.
+Owl & Associates
+Ezra Owl
+Belmont Auto
+g) The Appellant also purported to purchase additional motor vehicles from the vendors in September 1998;
+h) the vendors operated primarily under the direction of an individual by the name of Ken Parker who, while located in the Province of Ontario at all times relevant to this appeal, was originally from Nova Scotia;
+i) Ken Parker and John Bruce were closely acquainted with each other;
+j) the Appellant and the vendors participated in a scheme involving the purchase and sale of motor vehicles whereby:
+i) Ken Parker negotiated a sale of the motor vehicles to a purchaser (the "purchaser"), the terms of which required the purchaser to make payment to the Appellant;
+ii) for each transaction Ken Parker forwarded instructions to John Bruce, usually by fax, which included the name of the vendor and the purchaser, the vehicle make, model, year and identification number;
+iii) the instructions also included the Appellant's purported purchase price from the vendor and the purported sale price to the purchaser;
+iv) the Appellant forwarded its "purchase price" to Ken Parker after the sales proceeds were received from the purchaser;
+v) on average the Appellant's "purchase price" from the vendor was $800 less than the price received from the purchaser, which amount represented the Appellant's remuneration for participating in the transactions for a total of $195,924.00 during the period under appeal;
+vi) after the fact John Bruce created invoices under the vendor's and the Appellant's names to document both the Appellant's purported purchase from the vendor and the Appellant's purported sale of the vehicle;
+vii) the vendors purported to charge and collect HST from the Appellant at a rate of 15% on the transactions referred to in subparagraphs 8(e) and (g);
+viii) Schedule A, attached hereto, details by vehicle the foregoing purported transactions as recorded by John Bruce including the amount of purported tax paid which represents ITCs claimed by the Appellant which have been disallowed;
+ix) the Appellant purported to charge the purchasers GST at a rate of 7%;
+k) the purchasers were:
+Legal Name
+Trading name
+1070699 Ontario Ltd.
+Corporate Leasing & Rental
+1081528 Ontario Ltd.
+Federal Leasing & Rental
+1261531 Ontario Ltd.
+K & M Motors
+1211863 Ontario Ltd.
+A & T Leasing
+1265111 Ontario Ltd.
+Owl & Associates
+Ezra Owl
+Belmont Auto
+1262672 Ontario Ltd.
+n/a
+Waytee Inc.
+n/a
+1283915 Ontario Ltd.
+n/a
+Bravo Management Services Inc.
+n/a
+Peleshok Motors (Ajax) Ltd.
+n/a
+Technessen Ltd.
+n/a
+The American German Connection Inc.
+n/a
+l) Ken Parker did not deal at arm's length with 1070699 Ontario Ltd. and 1081528 Ontario Ltd.;
+m) all of the purchasers had previous dealings with Ken Parker and were willing to accommodate him in the transactions and purported transactions to facilitate the execution of the scheme described above;
+n) the motor vehicles referred to in subparagraphs 8(e) and (g) were never delivered to or made available to the Appellant and they were never under the Appellant's authority or control;
+o) the Appellant never negotiated the sale or purchase of any of the vehicles referred to in subparagraphs 8(e) and (g) but simply acted as a conduit for the transfer of funds and allowed invoices to be produced in its name;
+p) neither the Appellant nor any agent of the Appellant had possession of, legal title to or interest in any of the motor vehicles referred to in subparagraphs 8(e) and (g) during the period under appeal;
+q) in filing its' GST/HST returns for the period under appeal, the Appellant reported the 7% HST collected with respect to the transactions referred to in subparagraphs 8(e) and (g) and claimed the 15% HST the Appellant paid with respect to those same transactions as ITCs;
+r) none of the vendors have filed GST returns;
+s) some of the motor vehicles referred to in subparagraphs 8(e) and (g) were owned by third parties at the time of the alleged purchases and sales by the Appellant and neither the Appellant nor the vendors had legal title to or an interest of any kind in those motor vehicles;
+t) some of the motor vehicles referred to in subparagraphs 8(e) and (f) did not exist at the time of the alleged purchases and sales by the Appellant;
+u) some of the motor vehicles referred to in subparagraphs 8(e) and (f) never changed hands from the person who owned them at the time of the alleged purchases and sales by the Appellant;
+v) in its tax return for the month of September, 1998 the Appellant reported tax collected of $82,358 and claimed ITCs of $176,979;
+w) of the ITCs claimed in September, 1998 $168,075 related to purported transactions as described above;
+x) the Appellant had no documentation or books and records of any kind to support its claim for ITCs in September, 1998 although a total of $1,288,575 was paid to one of the vendors in that month;
+y) the transactions referred to in subparagraphs 8(e) and (g) were not bona fide business transactions;
+z) the Appellant claimed ITCs in relation to the following vehicles twice:
+Vehicle VIN
+First Claim
+Second Claim
+ITC Claimed
+018111
+Oct. 1997
+Nov. 1997
+$6,505.65
+WE147418
+Nov. 1997
+Jan. 1998
+$5,753.10
+W0181700
+July 1998
+July 1998
+$6,000.00
+aa) the scheme described above, particularly in subparagraph 8(j), was an artificial arrangement executed by the Appellant and the vendors to give the appearance that the Appellant was purchasing and selling the automobiles described in subparagraphs 8(e) and (g) when such was not the case; and
+bb) the invoices created by John Bruce at the vendors' instructions were created solely for the purpose of effecting the aforementioned artificial arrangement and did not reflect actual purchases and sales;
+ANALYSIS AND CONCLUSIONS:
+[18] I found E to be entirely credible. That credibility, in my view, is not compromised by his statement at the end of cross-examination that it was possible that he did not want to know about what Bruce was doing. E knew clearly what he, himself, was doing.
+[19] The Appellant was in the business of buying and selling vehicles. He was approached by Bruce and given the opportunity of participating in the purchase and sale of other vehicles. Bruce provided the necessary documentation, some of which was created by Bruce, to E. The fact that Bruce found the sellers and buyers has no effect upon the Appellant's activities other than to complete a transaction that involved less work than was normally the case. It collected the purchase price of vehicles sold together with the appropriate amount of GST and paid the vendor the invoiced amount which included HST.
+[20] Appellant's counsel, in his written brief, said that each decision made by the Appellant to purchase a vehicle for sale was communicated by E to Bruce with the expectation that this information would be communicated by Bruce to the owner of the vehicle. Counsel said further that such chain of communication would, in each case, represent the communication of an offer to the Appellant to purchase a vehicle and the communication by the Appellant to the owner of the vehicle that the offer was accepted. Counsel continued by saying that the subsequent delivery of funds by the Appellant to the owner for an amount equal to the agreed purchase price (together with the tax amount claimed by the vendor to be owing by the Appellant in respect of the purchase) represented the delivery by the Appellant of consideration pursuant to the agreement. Counsel added that the Appellant entered into a binding, enforceable agreement with the owner of each such vehicle pursuant to which the Appellant acquired a contractual right to have possession of and title to the vehicle delivered to the Appellant or at its direction, thus making the Appellant contractually liable for payment of the purchase price. Based on the facts before the Court I agree with that submission.
+[21] This appeal inspires a discussion of the matter of onus on an Appellant to negate the assumptions of fact made by the Minister. An historical review of jurisprudence and reference to written commentaries is in order.
+[22] In Pleet v. Canadian Northern Quebec R.W. Co., 50 O.L.R. 223, (affirmed S.C.C. [1923] 4 D.L.R. 1116) the Ontario Supreme Court, Appellate Division, found that the defendants were common carriers of potatoes from the time they received them until they were found frozen in their car standing on the siding. It held that they might have relieved themselves from liability for the loss of the potatoes had they established that the freezing was not in whole or in part attributable to neglect on their part. It held further that the onus was upon them and they had failed to satisfy it. Ferguson, JJ.A., at page 227, said:
+No doubt the general rule is that he who asserts must prove, and that the onus is generally upon the plaintiff, but there are two well-known exceptions:
+(1) That where the subject-matter of the allegation lies particularly within the knowledge of one of the parties, that party must prove it, whether it be of an affirmative or negative character: Mahony v. Waterford Limerick and Western R.W. Co., [1900] 2 I.R. 273, at p. 280; Kent v. Midland R.W. Co. (1874), L.R. 10 Q.B. 1.
+(2) That he who relies on an exception to the general rule must prove that he comes within the exception: Ashton & Co. v. London and North-Western R.W. Co., [1918] 2 K.B. 488; London and North-Western R.W. Co. v. Ashton & Co., [1920] A.C. 84.
+The plaintiff established that the goods passed into the possession of these defendants, and that they remained in their possession, dominion, and control, or the possession, dominion, and control of their connecting carrier, the Grand Trunk, until they were destroyed: the plaintiff had no opportunity of knowing what was done with the potatoes, how they were cared for, how they were handled, how, when, or where they were frozen. On the other hand, the defendants knew or had every opportunity for knowing, learning, and presenting the information to the Court. All the facts were peculiarly within the knowledge of the defendants, and in these circumstances it seems to me that the onus was on the defendants to furnish it: Taylor on Evidence, 11th ed., p. 375; 1 Sm. L. C., 12th ed., p. 257; and St. John v. Illinois Central R.R. Co. (1912), 168 Ill. App. 599;...
+(emphasis added)
+[23] In Anderson Logging Co. v. British Columbia, [1925] S.C.R. 45 Duff, J.,at page 46, said:
+The principle topic of controversy on this appeal is whether the profit accruing from this sale was, in whole or in part, assessable to income tax. The solution turns primarily upon the answer to be given to the question whether or not the profit falls within the category of "income" within the meaning of the British Columbia statute. ...
+...
+And at page 49, said:
+On behalf of the appellant company it is contended, first, that the onus was upon the Crown to shew that the profit was earned in an operation which was a part of the business carried on in fact by the company; and, secondly, that from what is described as the isolated case of the purchase and sale of these timber limits no inference as to the course of the company's business can properly be drawn.
+First, as to the contention on the point of onus. If, on an appeal to the judge of the Court of Revision, it appears that, on the true facts, the application of the pertinent enactment is doubtful, it would, on principle, seem that the Crown must fail. That seems to be necessarily involved in the principle according to which statutes imposing a burden upon the subject have, by inveterate practice, been interpreted and administered. But, as concerns the inquiry into the facts, the appellant is in the same position as any other appellant. He must shew that the impeached assessment is an assessment which ought not to have been made; that is to say, he must establish facts upon which it can be affirmatively asserted that the assessment was not authorized by the taxing statute, or which bring the matter into such a state of doubt that, on the principles alluded to, the liability of the appellant must be negatived. The true facts may be established, of course, by direct evidence or by probable inference. The appellant may adduce facts constituting a prima facie case which remains unanswered; but in considering whether this has been done it is important not to forget, if it be so, that the facts are, in a special degree if not exclusively, within the appellant's cognizance; although this last is a consideration which, for obvious reasons, must not be pressed too far.
+(emphasis added)
+[24] Johnston v. Canada (Minister of National Revenue), [1948] S.C.R. 486 considered the proper rate of tax under the Income War Tax Act applicable for the 1944 year. Rand, J., at page 488, said:
+The appeal raises also the question of onus. By section 58 any person objecting to the amount at which he is assessed may appeal to the Minister. If the Minister rejects the appeal, under section 60(1) a Notice of Dissatisfaction may be served on the Minister and the taxpayer shall in it state that he desires his appeal to be set down for trial. By subsection (2),
+The appellant shall forward therewith a final statement of such further facts, statutory provisions and reasons which he intends to submit to the Court in support of the appeal as were not included in the aforesaid Notice of Appeal, or in the alternative, a recapitulation of all facts, statutory provisions and reasons included in the aforesaid Notice of Appeal, together with such further facts, provisions and reasons as the appellant intends to submit to the Court in support of the appeal.
+...
+And at page 489 said:
+Notwithstanding that it is spoken of in section 63(2) as an action ready for trial or hearing, the proceeding is an appeal from the taxation; and since the taxation is on the basis of certain facts and certain provisions of law either those facts or the application of the law is challenged. Every such fact found or assumed by the assessor or the Minister must then be accepted as it was dealt with by these persons unless questioned by the appellant. If the taxpayer here intended to contest the fact that he supported his wife within the meaning of the Rules mentioned he should have raised that issue in his pleading, and the burden would have rested on him as on any appellant to show that the conclusion below was not warranted. For that purpose he might bring evidence before the Court notwithstanding that it had not been placed before the assessor or the Minister, but the onus was his to demolish the basic fact on which the taxation rested.
+(emphasis added)
+[25] In Eli Lilly and Co. v. Nu-Pharm Inc., [1997] 1 F.C. 3, the Federal Court of Appeal, at paragraph 23, said:
+The Motions Judge described the common law presumption, at pages 152-153:
+...where a party fails to lead evidence of a fact that it is in a better position to establish, the Court will infer that the facts are adverse to that party's interests.
+The maxim underlying this exception was enunciated by Lord Mansfield in Blatch v. Archer (1774), 1 Cowp. 63, at page 65; 98 E.R. 969, at page 970:
+It is certainly a maxim that all evidence is to be weighed according to the proof which it was in the power of one side to have produced, and in the power of the other to have contradicted.
+The learned justice then referred to Pleet (supra) in both the Court of Appeal and the Supreme Court of Canada.
+[26] In Hickman Motors Ltd. v. Canada, [1997] 2 S.C.R. 336, the Court stated:
+As I have noted, the appellant adduced clear, uncontradicted evidence, while the respondent did not adduce any evidence whatsoever. In my view, the law on that point is well settled, and the respondent failed to discharge its burden of proof for the following reasons.
+It then stated that the initial onus of "demolishing" the Minister's exact assumptions is met where the appellant makes out at least a prima facie case. It said further that the appellant adduced evidence which met not only a prima facie standard but an even higher one. The Court said, at paragraph 93:
+The law is settled that unchallenged and uncontradicted evidence "demolishes" the Minister's assumptions: ... As stated above, all of the appellant's evidence in the case at bar remained unchallenged and uncontradicted. ...
+and at paragraph 94:
+Where the Minister's assumptions have been "demolished" by the appellant, "the onus . . . shifts to the Minister to rebut the prima facie case" made out by the appellant and to prove the assumptions...
+At paragraph 95 the Court stated:
+Where the burden has shifted to the Minister, and the Minister adduces no evidence whatsoever, the taxpayer is entitled to succeed: ...
+[27] Charles MacNab, in an article entitled "The Burden of Proof in Income Tax Cases" in the Canadian Tax Journal (1978), at page 406 said, having referred to Duff J.'s statements in Anderson Logging:
+There is obviously a further consideration of policy and fairness with respect to the way the onus is hinged to the exact assumptions made, and that is that no taxpayer ought to be placed in a position where he has to answer a barrage of assessing positions, which, it would seem, have the potential at least of causing him considerable expense both in terms of money and time consumed.
+[28] In an article published by the Canadian Tax Foundation by William Innes and Hemamalini Moorthy entitled: William Innes and Hemamalini Moorthy, "Onus of Proof and Ministerial Asumptions: The Role and Evolution of Burden of Proof in Income Tax Appeals" (1998) 46 Canadian Tax Journal, page 1187. The following comments and conclusions are found at page 1188:
+The authors conclude that the onus placed on a taxpayer to disprove ministerial assumptions is a form of negative inference drawn by the courts as a matter of public policy where the underlying facts are peculiarly within the knowledge of the taxpayer, not of the minister. Where a taxpayer is called upon to "demolish" ministerial assumptions of fact, this involves nothing more complicated than adducing a prima facie case that such assumptions are incorrect. If the Crown calls no evidence, a taxpayer's evidence will normally be accepted as demolishing the minister's assumptions unless it is successfully challenged on cross-examination or presents serious issues of credibility, or unless the Court draws a negative inference from the taxpayer's failure to call material evidence at his or her disposal.
+(emphasis added)
+And at page 1190:
+...in our view what is necessary to "demolish" a ministerial assumption is to prove the material facts that are within the knowledge of the taxpayer if those facts do not support the minister's assumption. If the court is convinced that all material facts within the taxpayer's knowledge are before the court and those facts prima facie rebut the minister's assumptions, then such assumptions cease to have any continuing role in the proceedings.
+(emphasis added)
+...
+And at page 1209:
+It seems clear to us that in recent years the courts have moved considerably in the direction of simplifying and clarifying the rules respecting onus and ministerial assumptions in tax litigation. Apart from certain exceptions such as false statements or omissions, statute-barred years, and alternative pleadings ... we believe that the rules can be summarized as follows:
+1) The rule respecting ministerial assumptions is a form of negative inference drawn by the courts as a matter of policy in light of the common-sense proposition that the material facts underlying an assessment are peculiarly within the knowledge of the taxpayer, not of the minister.
+2) While the point is not entirely free from doubt, the rule probably does not extend to facts assumed by the minister that the taxpayer could not reasonably be expected to either prove or disprove (for example, dealings of unrelated parties of which the taxpayer is unaware); it is likely that the onus is on the Crown to prove such facts.
+(emphasis added)
+[29] Finally at page 1211, the above authors state that:
+Ministerial assumptions should be invoked to dismiss an appeal only in cases where a court concludes that a taxpayer has not adduced material evidence in his or her possession or control ...
+(emphasis added)
+[30] The assumptions contained in paragraph 8.h), i), subparagraphs i), ii), iii) of paragraph j) and paragraphs l), m), n), p), r), s), t) and u) were not within the knowledge of the Appellant. The language in the opening portion of paragraph j) to the effect that "the Appellant and the vendors participated in a scheme involving the purchase and sale of motor vehicles" was clearly negated by the Appellant. The assumptions in paragraphs aa) and bb) referring to "artificial arrangements" have the character of law more than of fact and appear to exist solely to support the conclusion that the Minister had reached. The same can be said for paragraph y) referring to the transactions not being "bona fide".
+[31] As indicated above, the assumptions contained a number of statements knowledge of which was, on the evidence, beyond the ken of E. For example, the vague assumption that some of the vehicles in the subject transactions "did not exist at the time of the alleged purchases and sales by the Appellant" appears designed to colour the Appellant's activities as disentitling it to the ITC's requested. Perceptions of fact based upon facts which lie within the peculiar knowledge of the Respondent which are paraded as assumptions in the Reply to the Notice of Appeal, which are beyond the knowledge of the Appellant and which are not easily or practicably deniable by the Appellant without extraordinary effort and expenditure, should not be deemed to be facts simply because they are not specifically negated by the Appellant's evidence. Assumptions of fact in such circumstances cannot displace the need of the Respondent to produce evidence to substantiate or support that which may be relevant to counter or affect the Appellant's factual presentation.
+[32] No evidence whatsoever was adduced by the Respondent respecting the issue to be decided and no submission was advanced respecting those assumptions. This adds flesh to the bones of Lord Mansfield's statement in Blatch v. Archer, supra, that:
+It is certainly a maxim that all evidence is to be weighed according to the proof which it was in the power of one side to have produced, and in the power of the other to have contradicted.
+[33] The Minister's assumptions were, with respect to facts within its knowledge, demolished by the Appellant. In accordance with the Hickman Motors Ltd. decision, the onus thereby shifts to the Minister and where the Minister adduces no evidence whatever the taxpayer is entitled to succeed.
+This is consistent with the above statement in Pleet:
+All the facts were peculiarly within the knowledge of the defendants, and in these circumstances it seems to me that the onus was on the defendants to furnish it.
+It is also consistent with the impressions of Duff, J. in Anderson Logging Co. stated above and repeated here:
+The Appellant may adduce facts constituting a prima facie case which remains unanswered; but in considering whether this has been done it is important not to forget, if it be so, that the facts are, in a special degree if not exclusively, within the Appellant's cognizance although this last is a consideration which, for obvious reasons, must not be pressed too far.
+(emphasis added)
+[34] Further, based upon my appraisal of the evidence, the Appellant met the onus, with respect to facts known by E, of demolishing, as set out in Johnston, "the basic fact on which the taxation rested".
+[35] One wonders whether the perpetrators of the scheme suggested in the Reply were pursued by the fisc for the monies that the Respondent, by the reassessment appealed from, seeks, by such reassessment, to recover.
+[36] I have reached my decision on the basis of E's evidence which I found to be wholly believable. He was the only witness at the hearing. He was cross-examined by Respondent's counsel and, in overall examination, gave me not the slightest indication that he was anything but honest and forthcoming to the best of his ability.
+[37] Respecting the transactions under examination, documents were presented to the Appellant. It indicated its willingness to proceed with the transactions. It received the purchase price and appropriate GST from a person it had no reason to believe was not the buyer. It paid the vendor its invoice price including HST. It paid the appropriate amount of tax to Revenue, a fact not stated in the Respondent's Reply. It also applied for and received Input Tax Credits.
+[38] I have concluded, based on evidence, which does not include the described ministerial assumptions, that the Appellant acquired the vehicles within the meaning of and for the purposes of section 169 of the Excise Tax Act, Part IX, respecting GST. The pertinent part thereof reads as follows:
+... where a person acquires ... property ... and ... tax ... becomes payable, the amount determined by the following formula is an input tax credit of the person in respect of the property.
+[39] Accordingly, the Appellant is entitled to the ITC's applied for excepting the amount of $168,075 relating to certain of the relevant transactions and claimed in September, 1998. There was, as agreed by counsel for both parties, no evidence supporting same as required by section 169(4) of the said Act, the pertinent portion reading as follows:
+A registrant may not claim an input tax credit for a reporting period, unless, before filing the return in which the credit is claimed,
+(a) the registrant has obtained sufficient evidence in such form containing such information as will enable the amount of the input tax credit to be determined, including any such information as may be prescribed.
+[40] The Notice of (Re)Assessment contained in the Appellant's Book of Exhibits gives no authority or computation of the penalties levied. Section 280.1 of the Act states that a person who fails to remit or pay an amount to the Receiver General when required shall pay a penalty of 6 percent per year on that amount. If any such amount was not so remitted or paid in this case, the penalty will apply. Section 285 of the Act provides a penalty if any person knowingly, or under circumstances amounting to gross negligence, makes or participates in, assents to or acquiesces in the making of a false statement or omission in a return, application, form, certificate, statement, invoice or answer. Respondent's counsel submitted that the Appellant was assessed penalties pursuant to this section respecting ITC's that were claimed and disallowed,
+because it knowingly, or under circumstances amounting to gross negligence, filed GST/HST returns for the period under appeal in which it claimed ITC's to which it was not entitled.
+Respondent's counsel's written submission states, among other things, that E knew that the Appellant did not purchase any of the vehicles in question and that it had no obligation to pay GST/HST on purchases that did not take place. In oral submissions he said that E made no enquiries as to what was going on and on that basis, was grossly negligent. Those submissions ignore the evidence and have no foundation in law. E earnestly believed that the Appellant was buying the cars. Failure to ask "what was going on" could, in these circumstances, not possibly constitute gross negligence. E, in entering into transactions referred to him by Bruce, was simply doing so as part of the regular commercial vehicle business carried on by him.
+[41] In any event because of the Appellant's success herein no such penalties are applicable, including penalties on the aforesaid sum of $168,075 where no evidence supporting penalties was produced.
+[42] For the foregoing reasons the appeal is allowed except for its ITC's in the amount of $168,075 above described.
+COSTS
+[43] Counsel made written submissions respecting costs. Appellant's counsel itemized services performed, stating that the tariff total would be $4,000. He referred to section 147 of the Tax Court of Canada Rules (General Procedure), which reads:
+The Court may fix all or part of the costs with or without reference to Schedule II, Tariff B and, further, it may award a lump sum in lieu of or in addition to any taxed costs.
+He then described the amount involved, namely $1,945,965.99, being more than ten times the minimum amount set out as a threshold for class C proceedings. He then stated:
+The Respondent raised serious allegations against Redash and its principal William Evong in its Reply. Essentially, the Respondent alleged that the Appellant was complicit to a scheme of artificial transactions designed to defraud the Canada Revenue Agency. These allegations were asserted as assumptions in the Respondent's Reply without any substantiation at the hearing, and were rejected by this Court.
+[44] The Joint Application for a time and place for the hearing discloses that:
+There will be approximately 4 witnesses and 50 documents for the Appellant and 3 witnesses and 17 documents or folios of documents for the Respondent.
+It is reasonable for Appellant's counsel to have assumed that the Respondent's evidence would have related to the aforementioned assumptions in the Reply to the Notice of Appeal and to have expended preparation energies in that direction.
+[45] The Appellant met the burden of demolishing assumptions within its knowledge. The Respondent produced no evidence to establish such assumptions as fact, the onus being upon it so to do.
+[46] Having regard to
+(1) the nature of the assumptions described in the Appellant's submission respecting costs,
+(2) the Respondent having adduced no evidence in respect thereof, and
+(3) Appellant's counsel's submissions.
+costs in the amount of $8,000 plus appropriate disbursements are awarded to the Appellant.
+Signed at Ottawa, Canada, this 16th day of June 2004.
+"R.D. Bell"
+Bell, J.
+CITATION:
+2004TCC446
+COURT FILE NO.:
+2001-2284(GST)G
+STYLE OF CAUSE:
+Redash Trading Incorporated v. The Queen
+PLACE OF HEARING:
+Halifax, Nova Scotia
+DATE OF HEARING:
+March 1, 2004
+REASONS FOR JUDGMENT BY:
+The Honourable Justice R.D. Bell
+DATE OF REASONS FOR JUDGMENT:
+June 16, 2004
+APPEARANCES:
+For the Appellant:
+P. Robert Arkin
+Counsel for the Respondent:
+Peter J. Leslie
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+P. Robert Arkin
+Firm:
+Cox, Hanson, O'Reilly, Matheson
+Halifax, Nova Scotia
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] implying he could not afford to lay out the tax amount and wait for the ITC in respect thereof.
+[2] certain goods exported out of Canada are not subject to GST.
+[3] it was headed NOTICE OF (RE)ASSESSMENT.
+[4]
+respecting, evidently, sales not desired by the manufacturers.

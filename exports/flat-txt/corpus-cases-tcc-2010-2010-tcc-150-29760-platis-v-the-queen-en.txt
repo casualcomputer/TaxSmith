@@ -1,0 +1,136 @@
+Title: Platis v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29760/index.do
+Corpus path: corpus/cases/tcc/2010/2010-tcc-150-29760-platis-v-the-queen-en.md
+Document type: case_law
+Last modified: 2010-04-22
+
+# Platis v. The Queen
+
+- Citation: 2010 TCC 150
+- Decision date: 2010-04-22
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6506, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Platis v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-04-22
+Neutral citation
+2010 TCC 150
+File numbers
+2009-3369(IT)I
+Judges and Taxing Officers
+François M. Angers
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2009-3369(IT)I
+BETWEEN:
+PETER PLATIS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on March 3, 2010, at Toronto, Ontario.
+Before: The Honourable Justice François Angers
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent :
+Toks C. Omisade
+____________________________________________________________________
+JUDGMENT
+The appeals from the assessments made under the Income Tax Act in respect of the 2004 and 2005 taxation years are dismissed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 22nd day of April 2010.
+« François Angers »
+Angers J.
+Citation: 2010 TCC 150
+Date: 20100422
+Docket: 2009-3369(IT)I
+BETWEEN:
+PETER PLATIS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Angers J.
+[1] These are appeals of the appellant's reassessments for his 2004 and 2005 taxation years. In computing his income for both taxation years, the appellant claimed employment expenses in the total amounts of $32,707 and $31,621 for each of those years respectively. The breakdown of the expenses is as follows:
+2004
+2005
+$
+$
+Meals & entertainment (50%)
+Supplies
+Parking
+Motor vehicle expenses
+Accounting/legal fees
+Other business expenses
+Business use of home
+5,719
+2,707
+4,188
+8,225
+—
+11,604
+261
+2,430
+1,543
+2,077
+7,242
+166
+19,423
+280
+[2] The Minister of National Revenue (the Minister) reassessed the appellant's 2004 and 2005 taxation years and disallowed employment expenses totalling $21,053 and $10,320 for those taxation years respectively. The Minister also assessed penalties under subsection 163(2) of the Income Tax Act (the "Act") in respect of some of the disallowed expenses. The amounts of the penalties were $397.77 and $203.91 for the 2004 and 2005 taxation years respectively.
+[3] The appellant filed Notices of Objection and, as a consequence of representations by the appellant, the Minister allowed further employment expense amounts of $1,551 and $1,798 for the 2004 and 2005 taxation years respectively. The issues are whether the appellant is entitled to deduct the employment expenses claimed in excess of the amounts determined by the Minister for each taxation year and whether the Minister properly assessed gross negligence penalties with respect to some of the disallowed expenses that I will deal with later in these reasons.
+[4] The appellant is a commissioned commodities and foreign exchange broker who was employed by Refco Futures Canada Ltd. (Refco) throughout the 2004 taxation year and about half of the 2005 taxation year. He earned commission income from Refco in the amount of $49,945 for 2004 and $48,573 for 2005.
+[5] For the purpose of filing his 2004 and 2005 tax returns, the appellant obtained from his employer a T2200 (Declaration of Conditions of Employment) form for both taxation years. The original T2200 (Exibit R-1, Tab 3) for 2004 is signed by a Mr. Chan and is dated February 11, 2005. The original T2200 (Exhibit R-1, Tab 3) for 2005 purports to have been signed by one Eugenia Chee on February 17, 2006, but Ms. Chee testified that it was not her signature on the document and that it was not she who had filled it out. Both T2200s indicate the following: (a) the appellant was required to pay his own expenses; (b) he was normally required to work away from the employer's place of business; (c) he received no allowance for the use of his motor vehicle; (d) his work required him to pay other expenses such as home office, lodging, travel, meal, entertainment, telephone and computer expenses; and (e) the employer required that he be away for at least 12 hours from the area where he normally worked. On the T2200 for 2005, it is indicated that he had to be away from that area once a month. Both T2220s indicate that the employer required the appellant to have a home office, to pay for an assistant and to pay for supplies used directly in the appellant's work, that there was no reimbursement of any of those expenses and, most surprisingly, that the appellant was not paid by commissions based on the volume of sales made, which is contrary to the evidence adduced at trial.
+[6] At the request of the Canada Revenue Agency, the employer provided amended T2200s that were both signed by Ms. Eugenia Chee on November 19, 2008 (Exhibit R-1, Tab 4). Those amended T2200s confirm that the appellant was required to pay his own expenses and they also confirmed some other conditions of employment indicated in the original T2200s. They also provide different answers to some of the questions. They indicate, for example, that the appellant was not required to work away from the employer's place of business, that he was paid by commission, that he was not required to be away for at least 12 hours from the area of the employer's business (downtown Toronto) and that he was not required to pay for an assistant.
+[7] The appellant introduced in evidence T2200 forms for each of the taxation years under appeal. They are Exhibit A-1, which is identical to the original (Exhibit R‑1, Tab 3, page 2) filed with his 2004 tax return and Exhibit A-7, which he said was the one he had filed with his 2005 tax return. Exhibit A-7 is apparently signed by Ms. Chee and she acknowledges that it is her signature, but she does not recall the document, as the information contained on the first page of the form is not in her handwriting. In addition, the date (2005 02 21) on Exhibit A‑7 is typed in. That T2200 indicates that the period of employment was from January 1, 2005 to July 5, 2005, the latter being the date the appellant was dismissed, which date would not have been known on February 21, 2005 when Exhibit A-7 was signed. The appellant was unable to provide any information that could have shed some light on the origin of that exhibit.
+[8] In 2004-2005, Eugenia Chee was the chief compliance and financial officer with Refco. At the time, Refco had approximately 40 brokers working for it in Toronto, including the appellant. There was no written contract with the appellant and the brokers were all responsible for their own expenses. They could entertain clients but did so without any expectation of being reimbursed by Refco.
+[9] The brokers, including the appellant, were required to arrive at the office between 7:30 a.m. and 8 a.m. in order to monitor the markets, and to remain on Refco's premises until 5 p.m. The reason for this requirement was that the brokers' telephone conversations were recorded. Since commodity markets are open all the time, it was not uncommon for the brokers to work after their above-stated hours. Although Refco did not require that they travel for the purposes of their work, its brokers were allowed some flexibility and could travel in or out of province. It is forbidden by law for Canadian brokers to have commodity market clients in the U.S.
+[10] With regard to supplies, Refco did not require its brokers to provide their own office supplies. These were all furnished by Refco. As for maintaining a home office, strictly speaking there was no such requirement by Refco, but it was common practice for brokers to have a computer at home so as to be able to follow the markets. According to Ms. Chee, the brokers' revenue-generating activities were carried on at their desks on Refco's premises, as brokers, including the appellant, were not allowed to trade on the markets anywhere other than on Refco's premises. Ms. Chee also testified that it is common for a commodities broker to offer foreign exchange, but said that, in general, Refco has no U.S. clients for foreign exchange.
+[11] A motor vehicle was not a requirement for the appellant's work but, it was reasonable to consider a vehicle a necessity. As for meetings with clients at brokers' homes, Refco had no policy in that regard, but it could stop such meetings. Moreover, space for meeting clients was provided on Refco's premises. The majority of the brokers' work was performed on Refco's premises.
+[12] The appellant has a college degree, having graduated in 1992 in small business management. He has been employed as a commodities broker with various firms ever since. As regards his tax returns, he submits all of his receipts to H & R Block and they prepare the returns. He cannot explain the discrepancies between the T2200 forms nor can he say why the signature on one of the forms is not Ms. Chee's. He acknowledges that most of his time was spent at Refco, that the majority of his clients were in the Toronto area and that Refco did not require him to buy office supplies.
+[13] The appellant provided the Court with envelopes full of receipts pertaining to his expenses and with logbooks, reconstructed at the CRA'S request, showing his motor vehicle expenses incurred for business travel purposes. The respondent also produced some receipts, in particular with respect to meals and entertainment.
+[14] I will now deal with each of the various expense claims.
+Meals and Entertainment
+[15] The appellant's claim under this heading is $5,719 for 2004 and $2,430 for half of 2005. One must bear in mind that those figures represent half of the actual expense amounts, namely $11,438 and $4,860. The CRA's position is that not only are these amounts unreasonable in that they represent 23% of the appellant's commissions for 2004 and 10% of his commissions for 2005, but many of the receipts provided are for personal items. The appellant's position is that the receipts all relate to clients that he had to entertain for business purposes.
+[16] The appellant was cross-examined regarding a few of these receipts, one of which was for one drink in Chicago with a person who was not a direct client of his but from whom he was requesting a break with respect to fees. The appellant drank water on that occasion and it was at 11:34 p.m. Another receipt is for an expense $388.08 incurred in Chicago. He was entertaining three traders who had helped him close a deal. He was not soliciting clients. He also claimed a deduction of $102.88 for flowers that he had bought for someone who was alone on Valentine's Day, who worked at the hotel where he was staying and who had introduced some people to him. Other claims are made for meals in Amsterdam and for visits to museums. The explanations provided by the appellant concerning the receipts produced during his cross-examination were vague and unreliable. The appellant failed to produce those receipts himself or to provide any explanation showing that the expenses were incurred to earn employment income and that his claim was accordingly justified. I accept the CRA's position with respect to the portion of the appellant's meal and entertainment expense claim that it disallowed.
+Motor Vehicle Expenses
+[17] At the audit stage, the motor vehicle expenses were reduced by half on the basis that no logbook was provided and that some repairs were done on vehicles other than the appellant's. When logbooks were provided, it became apparent that the appellant had claimed mileage for weekends and statutory holidays in addition to mileage for days when he was out of the country. The appellant explained that the out-of-country mileage was done in rented vehicles. That explanation would have made sense were it not for the fact that the mileage claimed (41 or 42 kilometres) is the same distance as that shown for his travel from his home to the office. The appellant conceded in his testimony that half his mileage was for personal purposes. The CRA's position is thus consistent with that admission and the CRA was therefore correct in disallowing as personal expenses half of the motor vehicle expenses claimed. There is no doubt that the logbooks provided by the appellant were reconstructed after the fact and are unreliable.
+Parking
+[18] The appellant claimed a parking expense of $4,188 for the 2004 taxation year and $2,077 for the 2005 taxation year. Those amounts included the appellant's monthly parking costs for his presence at his employer's place of business. Given that he had to be at the office on a regular basis, those particular costs were a personal expense and the Minister was correct in disallowing that portion of the parking expense.
+Supplies
+[19] The appellant claimed $2,707 under this heading in 2004 and $1,543 in 2005. In Exhibit A-2, the total of the receipts provided with respect to supplies for 2004 comes to around $500. Among the receipts provided to the CRA, were some from a store that sells sunglasses, another that was not in the appellant's name and still others that were for such things as DVD movies and soft drinks. In addition, the evidence clearly establishes that Refco provided all the office supplies needed and that the appellant's conditions of employment did not require him to provide any supplies himself. The appellant failed to provide the Court with any evidence justifying the receipts he submitted or explaining why the amount he claimed in his 2004 tax return did not match the total figure from Exhibit A-2. This expense, in my opinion, was properly disallowed.
+Home Office and Other Business Expenses
+[20] There was no actual breakdown provided by the appellant with respect to either the home office expense or the other business expenses for either taxation year, nor were any explanations or receipts provided, particularly regarding those expenses that were personal in nature, for either of the taxation years in issue. A review of the receipts submitted by the appellant at trial and during the CRA audit and appeal processes shows that they clearly related to things of a personal nature or that were not required by his employer. Not only do things such as DVD movies, sunglasses, roses, and travel expenses for his mother clearly appear to be personal in nature and not to be required by his employer, but the appellant's explanations regarding them are not plausible.
+[21] The appellant is a well-educated person with particular knowledge in the management of a business. In addition, on a previous audit, he had been advised that expenses such as haircuts, movies, CDs, basic monthly telephone costs and Internet costs were personal expenses and not deductible. The discrepancies with regard to both content and date in the various T2200 forms make the T2200s submitted by the appellant, including Exhibit A-7 which he presented at the hearing, totally unreliable. The appellant claimed expenses for supplies, telephone expenses and Internet expenses, none of which he was required to incur by his employer and which were clearly personal and living expenses; he did so knowing that he could not claim those expenses or was indifferent as to whether he could or not, and he made no effort to fulfil his obligations. The Minister properly assessed penalties under subsection 163(2) of the Act.
+[22] The appeals are dismissed.
+Signed at Ottawa, Canada, this 22nd day of April 2010.
+Angers J.
+CITATION: 2010 TCC 150
+COURT FILE NO.: 2009-3369(IT)I
+STYLE OF CAUSE: Peter Platis and Her Majesty the Queen
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: March 3, 2010
+REASONS FOR JUDGMENT BY: The Honourable Justice François Angers
+DATE OF JUDGMENT: April 22, 2010
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+:
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada

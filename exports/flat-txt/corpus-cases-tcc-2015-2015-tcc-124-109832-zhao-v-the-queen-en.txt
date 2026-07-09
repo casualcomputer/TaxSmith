@@ -1,0 +1,149 @@
+Title: Zhao v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/109832/index.do
+Corpus path: corpus/cases/tcc/2015/2015-tcc-124-109832-zhao-v-the-queen-en.md
+Document type: case_law
+Last modified: 2015-05-14
+
+# Zhao v. The Queen
+
+- Citation: 2015 TCC 124
+- Decision date: 2015-05-14
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2816, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Zhao v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2015-05-14
+Neutral citation
+2015 TCC 124
+File numbers
+2014-846(IT)I
+Judges and Taxing Officers
+Rommel G. Masse
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2014-846(IT)I
+BETWEEN:
+DEYONG Z. ZHAO,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on February 26, 2015, at Hamilton, Ontario.
+Before: The Honourable Rommel G. Masse, Deputy Judge
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Dominique Gallant
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act for the 2012 taxation year is dismissed in accordance with the attached Reasons for Judgment.
+Signed at Kingston, Ontario, this 14th day of May 2015.
+“Rommel G. Masse”
+Masse D.J.
+Citation: 2015 TCC 124
+Date: 20150514
+Docket: 2014-846(IT)I
+BETWEEN:
+DEYONG Z. ZHAO,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Masse D.J.
+[1] This is an appeal from a reassessment for the 2012 taxation year whereby the Minister of National Revenue (the“Minister”) disallowed the Appellant’s deduction for moving expenses in the amount of $31,188.
+Factual Context [2] The factual context for this matter is quite straightforward. Prior to May 2012, the Appellant resided in the Greater Toronto Area. His address was 24 pale Moon Crescent, Toronto, Ontario.
+[3] He was working for Mold‑Masters (2007) Ltd. (“Mold‑Masters”) as an hourly‑paid CAM Programmer, a skilled technical position. Mold‑Masters is situated at 233 Armstrong Avenue, Georgetown, Ontario.
+[4] On May 30th, 2012, Mold‑Masters offered the Appellant an internal company promotion to become a CAD/CAM Developer in the CAM department, to take effect June 11th, 2012 (see Exhibit A-1). On May 31st, 2012, the Appellant accepted this promotion. Exhibit A-1 describes the new position as a “lateral transfer” in the same department. The Appellant continued to report to the same person as before and “all terms and conditions outlined in the Employment Agreement signed by you on March 13th, 2010 remain unchanged and therefore in full force and effect”. However, the Appellant went from an hourly‑rated position to a salaried position. The CAM department is the same department he was working in previously but now involved some increased responsibilities. The Appellant, in his new position, was still required to report to and work at the Georgetown facility. The Appellant believed that, by virtue of his expanded responsibilities, he should move closer to his work location. Consequently, on June 1st, 2012 he moved his family to Milton, Ontario. It is clear that he had committed to this move prior to accepting his promotion. His new address was 396 Kincardine Terrace, Milton, Ontario.
+[5] It is not disputed that the distance between the Appellant’s old residence and his work location is more than 40 kilometres greater than the distance between the Appellant’s new residence and work location as a result of his relocation. It is also not disputed that the location of the Appellant’s place of work did not change either before or after his promotion or after his move to the Milton residence.
+[6] There is no evidence that the Appellant would have lost his employment or his opportunity for a promotion if he did not move. There is no evidence that Mold‑Masters required the Appellant to move in order to continue working there in his new position. The Appellant moved because he believed that he should be closer to work, not because he had to.
+[7] In computing tax payable for the 2012 taxation year, the Appellant claimed a deduction of $31,188 for moving expenses. The Appellant was not reimbursed by Mold‑Masters for any of these expenses. The Minister initially accepted the deduction as claimed and assessed the Appellant accordingly. However, by way of Notice of Reassessment dated July 11th, 2013, the Appellant was informed that the Minister reassessed his 2012 taxation year and disallowed the full amount of the claimed moving expenses.
+[8] On September 18th, 2013, the Appellant filed a Notice of Objection. The Minister confirmed the reassessment by way of Notice of Confirmation dated March 4th, 2014. Hence, the appeal to this Court.
+[9] The issue to be decided is whether the Appellant’s residential move was an “eligible relocation” as defined in subs. 248(1) of the Income Tax Act, R.S.C., 1985, c. 1 (5th supp.), as amended (the “Act”), for the purposes of claiming a tax deduction for moving expenses pursuant to subs. 62(1) of the Act.
+Legislative Provisions [10] The relevant provisions of the Act are as follows:
+62(1) Moving expenses — There may be deducted in computing a taxpayer’s income for a taxation year amounts paid by the taxpayer as or on account of moving expenses incurred in respect of an eligible relocation, to the extent that
+(a) they were not paid on the taxpayer’s behalf in respect of, in the course of or because of, the taxpayer’s office or employment;
+(b) they were not deductible because of this section in computing the taxpayer’s income for the preceding taxation year;
+(c) the total of those amounts does not exceed
+(i) in any case described in subparagraph (a)(i) of the definition “eligible relocation” in subsection 248(1), the total of all amounts, each of which is an amount included in computing the taxpayer’s income for the taxation year from the taxpayer’s employment at a new work location or from carrying on the business at the new work location, or because of subparagraph 56(1)(r)(v) in respect of the taxpayer’s employment at the new work location, and
+(ii) in any case described in subparagraph (a)(ii) of the definition “eligible relocation” in subsection 248(1), the total of amounts included in computing the taxpayer’s income for the year because of paragraphs 56(1)(n) and (o); and
+(d) all reimbursements and allowances received by the taxpayer in respect of those expenses are included in computing the taxpayer’s income.
+. . .
+248(1) Definition — In this Act,
+“eligible relocation” means a relocation of a taxpayer in respect of which the following apply:
+(a) the relocation occurs to enable the taxpayer
+(i) to carry on a business or to be employed at a location (in section 62 and this definition referred to as “the new work location”) that is, except if the taxpayer is absent from but resident in Canada, in Canada, or
+. . .
+(b) the taxpayer ordinarily resided before the relocation at a residence (in section 62 and this definition referred to as “the old residence”) and ordinarily resided after the relocation at a residence (in section 62 and this definition referred to as “the new residence”),
+(c) except if the taxpayer is absent from but resident in Canada, both the old residence and the new residence are in Canada, and
+(d) the distance between the old residence and the new work location is not less than 40 kilometres greater than the distance between the new residence and the new work location; [emphasis added]
+Analysis [11] In Moreland v. The Queen, 2010 TCC 483, 2010 DTC 1338, [2011] 2 CTC 2068, the taxpayer, who worked for the Royal Canadian Mounted Police, was assigned new employment duties and was moved to a new location in her workplace in the same building. She moved to a new residence that same year and she sought to deduct her moving expenses that were in excess of $26,000. The change of residence was for the purpose of being closer to her workplace. The deduction for moving expenses was disallowed and she appealed to this Court. The only issue was whether the taxpayer moved from the old residence to the new residence to enable herself to be employed at a location in Canada. The taxpayer argued that she changed the physical location of her work, even though it was in the same office complex and so she moved in order to enable herself to be employed at a “new work location”. Justice Bédard dismissed her appeal, holding that the taxpayer did not meet the “new work location” requirement set out in subs. 62(1) of the Act. The wording of the Act clearly contemplates, or requires, that there be a “new work location” (meaning a different work location), in order for the taxpayer to qualify for the moving expense deduction. He observed at paragraph 13:
+[13] In the present case, the Appellant changed physical work locations (offices) to perform new duties (assigned by the same employer) within the same office complex at 255 Attwell Drive in Etobicoke, Ontario. So the question to be answered is the following: Does this constitute a move to a "new work location"? I am of the opinion that the term "new work location" means the actual business location, that is, the actual place, building or site at which the taxpayer is employed. Even if the phrase "new work location" is not to be interpreted rigidly, I cannot imagine that Parliament’s intent was to permit a taxpayer who goes from a job on the seventh floor of a building to a new job (with the same employer) on the sixth floor of the same building to deduct moving expenses. In the present case, the Appellant did not met [sic] the "new work location" requirement, consequently none of the moving expenses totalling $26,087.90 claimed by the Appellant were deductible pursuant to subsection 62(1) of the Act in computing her income for the 2007 taxation year.
+[12] A bit more than a year later, Justice Webb of this Court (as he then was), gave a new gloss to the meaning of “new work location” in the case of Wunderlich v. The Queen, 2011 TCC 539, 2012 DTC 1040. This is a case upon which the Appellant places great reliance. In Wunderlich, the employer was at all times located in Burlington, Ontario. The taxpayer, who was living in Toronto, accepted a promotion while still employed with the same employer. He determined that he would need to move closer to his place of work. The taxpayer and his family then moved to Oakville which was 50 kilometres closer to his workplace than was his former residence. In computing his taxes, he claimed moving expenses but these were disallowed. The taxpayer appealed and Justice Webb allowed the appeal holding that the term “the new work location”, as that term is used in the definition of “eligible relocation” in subs. 248(1) of the Act, is simply a location in Canada where the taxpayer is employed. There is no reference in the part of the subsection in which the definition is found to any requirement that the location be a “new” location.
+[13] Justice Webb discussed the changes in the wording of subs. 62(1) of the Act that were brought about by amendments enacted by S.C. 1984, c. 45, s. 21, and by S.C. 1999, c. 22, subs. 17(1). Justice Webb then stated:
+[10] The requirements related to the location of the work and the old residence and the new residence were moved to the definition of “eligible relocation” in subsection 248(1) of the Act, which is quoted above. The requirement that the taxpayer must have “commenced …to be employed” has been changed to a “relocation [that] occurs to enable the taxpayer…to be employed”.
+[11] The argument of the Respondent is that the Appellant was employed by the same employer prior to his promotion in 2007 and his move in 2008 and therefore there was no “old work location” nor was there a “new work location”. The requirement for an “old work location” was based on the comments of then Chief Justice Christie in Bracken, above. It seems to me that the comments of then Chief Justice Christie in Bracken, above, were based on the Act as it read in 1981. Since the Act was amended in 1984 to remove the requirement that a taxpayer cease to be employed at a particular location and therefore removed the requirement for an “old work location”, it seems to me that there is no longer any requirement that there must be an “old work location”.
+[12] With respect to the requirement related to a “new work location”, the expression that is defined is “new work location”. This expression is defined within the definition of “eligible relocation” in subsection 248(1) of the Act. “Eligible relocation” is defined, in part, as follows:
+“eligible relocation” means a relocation of a taxpayer where
+(a) the relocation occurs to enable the taxpayer
+(i) to carry on a business or to be employed at a location in Canada (in section 62 and this subsection referred to as “the new work location”),
+[13] Therefore “the new work location”, as defined in the definition of “eligible relocation” in subsection 248(1) of the Act, is simply a location in Canada where the taxpayer is employed. There is no reference in the part of the subsection in which the definition is found to any requirement that the location be a “new” location. If instead the provision were to read:
+“eligible relocation” means a relocation of a taxpayer where
+(a) the relocation occurs to enable the taxpayer
+(i) to carry on a business or to be employed at a new work location in Canada,
+then it would be necessary to determine how the words “new” and “work” would modify the location and how they would affect the determination of whether a particular location is a new work location. However this is not how the provision reads. The provision refers to “a location in Canada” [at which the person is employed] which is referred to as “the new work location”. If the provision, instead of stating that it is referred to as “the new work location”, were to state that it is referred to as “the work location” or “the specified location”, then “the work location” or “the specified location” would have the same meaning as would be ascribed to “the new work location” as only the label for the expression would be changed, not the meaning assigned to that label. The words used as part of the phrase should not be used to interpret the phrase when the phrase is defined in the Act.
+[14] The Appellant relied on the decision of Justice C. Miller in Gelinas v. The Queen, 2009 TCC 111 (CanLII), 2009 DTC 1091, [2009] 4 C.T.C. 2232. In that case the taxpayer changed her job from a part-time job to a full-time job. Justice C. Miller found that there was no requirement that there be an “old work location” and found that the change in the taxpayer’s job from a part-time job to a full-time job was sufficient to allow the taxpayer to claim moving expenses, even though the Appellant was employed by the same employer.
+[14] Justice Favreau in Langelier v. The Queen, 2013 TCC 322, 2013 DTC 1256, [2014] 3 CTC 2231, discussed the jurisprudence leading up to Wunderlich, supra, and arrived at a different conclusion than did Justice Webb. In Langelier, the taxpayer sold her house and moved 70 kilometres away to enable her, so she claimed, to keep her job with her employer and therefore continuing to earn employment income. Her claim to deduct moving expenses was disallowed by the Minister and she appealed to the Tax Court of Canada. Justice Favreau dismissed her appeal. Even though the taxpayer was given new or expanded responsibilities, there was no evidence that her physical work location had changed. Justice Favreau observed the following:
+[14] The concept of "the new work location", as defined in the definition of "eligible relocation" in subsection 248(1) of the Act has been given a different interpretation by the Tax Court of Canada.
+[15] In certain cases, the concept of "the new work location" has been interpreted as simply meaning a location in Canada where the taxpayer is employed because there is no requirement that the location be "new" in the definition found at subsection 248(1) of the Act. In Gelinas v. The Queen, 2009 TCC 111 Justice C. Miller found that the change from part-time to full-time was sufficient to allow the taxpayer to claim moving expenses, even though the appellant was employed by the same employer. In Wunderlich v. The Queen, 2011 TCC 539, in which case the taxpayer accepted a promotion and felt that he needed to be closer to his workplace as a result of his new managerial responsibilities, Justice Webb found that the relocation had occurred to enable the taxpayer to be employed in Canada, even though the employment commenced in 2004 and the move occurred in 2008.
+[16] In other cases, such as in Grill v. The Queen, 2009 TCC 5 and in Moreland v. The Queen, 2010 TCC 483, the Court considered that the words of the Act clearly contemplated or required that there be a "new work location" for a taxpayer to qualify for the moving expenses deduction. The judge in each of these cases, Justice Bédard in Moreland and Justice Little in Grill, both agree with Chief Judge Christie’s (as he then was) interpretation of subsection 62(1) of the Act made in Bracken v. Minister of National Revenue, 84 DTC 1813 (T.C.C.), despite the fact that subsection 62(1) was subsequently amended by S.C., 1984, c. 45, S. 21 (applicable with respect to relocations occurring after 1983) and by S.C., 1999, c. 22, subsection 17(1) (applicable after 1997).
+[17] In Bracken, cited above, Chief Judge Christie established four conditions that a taxpayer must meet in order to qualify for a deduction for moving expenses under subsection 62(1). On page 1819, Chief Judge Christie stated the following:
+. . .
+My reading of subsection 62(1) is that it contemplates the existence of four separate elements: old work location, new work location, old residence and new residence, and the comparison of two distances, i.e. the distance from the old residence to the new work location with the distance from the new residence to the new work location the former of which must exceed the latter by 40 or more kilometers in order for the moving expenses to be deductible. . . .
+[18] In Grill, cited above, Justice Little concluded that the appellant's work location did not change and in Moreland, cited above, Justice Bédard concluded that a change of office to a different floor in the same office building to perform new duties, assigned by the same employer, did not constitute a move to a "new work location".
+[19] In the present case, there is no evidence that the appellant’s physical work location had changed, and that she occupied a new position as a result of her new managerial responsibilities.
+. . .
+[22] Based on the modern approach of interpretation of taxing statutes, as enunciated by the Supreme Court of Canada in Canada Trustco Mortgage Co. v. Canada, 2005 SCC 54, I do not believe that Parliament’s intent was to permit a taxpayer to deduct moving expenses in circumstances where a taxpayer performed new duties with the same employer at the same business location.
+[23] Based on the above facts, I am unable to find that the appellant’s claim for the 2010 moving expenses falls within the ambit of subsection 62(1). [emphasis added]
+[15] I find the reasoning of Justice Favreau in Langelier, supra, to be most persuasive. I am of the view that Parliament has intentionally chosen to use the word “new” in the expression “new work location” as used in the definition of “eligible relocation” in subs. 248(1) and subs. 62(1) of the Act. The expression “the new work location” appears several times in both subs. 62(1) and subs. 248(1) of the Act. Each word in an enactment must be given meaning. It cannot be concluded that the word “new” as used in these provisions of the Act are merely surplusage. Had Parliament intended the phrase “new work location” to mean “a location in Canada where the taxpayer is employed” then Parliament would have so stated without resorting to unnecessary descriptive words like “new”. Had Parliament so intended, it would have removed the word “new” from subs. 248(1) and subs. 62(1) at the same time it enacted the amendments in 1984 and in 1999. Parliament chose not to do so and so it must have intended for the word “new” to have some meaning. I am of the view that the word “new” must mean a different work location. To repeat Justice Favreau’s dictum in Langelier, supra, “I do not believe that Parliament’s intent was to permit a taxpayer to deduct moving expenses in circumstances where a taxpayer performed new duties with the same employer at the same business location.” This is exactly the situation that we have at hand. The Appellant in the case at hand got a promotion, which involved the performance of new duties, but he was with the same employer and he worked at the same location.
+Conclusion [16] Based on the above, I am unable to find that the Appellant’s residential move was an “eligible relocation” as defined in subs. 248(1) of the Act for the purposes of claiming a tax deduction for moving expenses pursuant to subs. 62(1) of the Act.
+[17] For all of the foregoing reasons, this appeal is dismissed.
+Signed at Kingston, Ontario, this 14th day of May 2015.
+“Rommel G. Masse”
+Masse D.J.
+CITATION:
+2015 TCC 124
+COURT FILE No.:
+2014-846(IT)I
+STYLE OF CAUSE:
+DEYONG Z. ZHEO AND H.M.Q.
+PLACE OF HEARING:
+Hamilton, Ontario
+DATE OF HEARING:
+February 26, 2015
+REASONS FOR JUDGMENT BY:
+The Honourable Rommel G. Masse, Deputy Judge
+DATE OF JUDGMENT:
+May 14, 2015
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Dominique Gallant
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

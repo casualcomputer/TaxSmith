@@ -1,0 +1,181 @@
+Title: 10tation Event Catering Inc. v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29546/index.do
+Corpus path: corpus/cases/tcc/2008/2008-tcc-562-29546-10tation-event-catering-inc-v-m-n-r-en.md
+Document type: case_law
+Last modified: 2008-08-28
+
+# 10tation Event Catering Inc. v. M.N.R.
+
+- Citation: 2008 TCC 562
+- Decision date: 2008-08-28
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6364, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+10tation Event Catering Inc. v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-08-28
+Neutral citation
+2008 TCC 562
+File numbers
+2007-4193(EI)
+Judges and Taxing Officers
+Norris Weisman
+Subjects
+Employment Insurance Act
+Decision Content
+Citation: 2008 TCC 562
+Dockets: 2007-4193(EI);
+2007-4196(CPP)
+BETWEEN:
+10TATION EVENT CATERING INC.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+CERTIFICATION OF TRANSCRIPT OF
+REASONS FOR JUDGMENT
+Let the attached certified transcript of my Reasons for Judgment delivered orally from the Bench at Toronto, Ontario, on August 28, 2008, be filed.
+“N. Weisman”
+Weisman D.J.
+Signed at Toronto, Ontario, this 22nd day of October, 2008.
+Court File Nos. 2007-4193(EI);
+2007-4196 (CPP).
+TAX COURT OF CANADA
+BETWEEN:
+10TATION EVENT CATERING INC.
+Appellant
+- and -
+THE MINISTER OF NATIONAL REVENUE
+Respondent
+TRANSCRIPT OF DECISION
+RENDERED BY THE HONOURABLE MR. JUSTICE WEISMAN
+at Courts Administration Service, Room 6C,
+180 Queen Street West, Toronto, Ontario
+on Thursday, August 28, 2008
+APPEARANCES
+Mr. Howard J. Alpert for the Appellant
+Mr. Justin Kutyan for the Respondent
+Also Present:
+Mr. William O’Brien Registrar
+Ms Shirley Sereney Court Reporter
+A.S.A.P. Reporting Services Inc. 8 2008
+200 Elgin Street, Suite 1105 130 King Street W., Suite 1800
+Ottawa, Ontario K2P 1L5 Toronto, Ontario M5X 1E3
+(613) 564-2727 (416) 861-8720
+Toronto, Ontario
+--- Upon commencing on Thursday, August 28, 2008
+at 2:00 p.m.
+JUSTICE WEISMAN: These appeals concern 91 workers who were involved in the food catering business in 2005. They were then engaged by 10Tation Event Catering Inc. as servers, bartenders, chefs, executive chefs and supervisors.
+The Minister has decided that they were employed under contracts of service and has assessed 10Tation for arrears of contributions under the Canada Pension Plan and premiums under the Employment Insurance Act.
+10Tation and all 91 workers now appeal these assessments on the grounds that they were independent contractors under contracts for services and, therefore, were not in insurable or pensionable employment during the year under review.
+Four workers testified in these proceedings: Lyndsy Deshima, who was a waiter or server; Anouk Bikkers, a server and periodic supervisor; Richard Peters, a chef; and Fabio Ferrero, also a server. It was agreed that their evidence was equally applicable to all 91 workers as they were all subject to the same terms and conditions in their working relationship with 10Tation.
+In order to resolve the question before the Court as to the status of the 91 workers, which question has been variously characterized in the jurisprudence as fundamental, central and key, the total relationship of the parties and the combined force of the whole scheme of operations must be considered. To this end, the evidence in this matter is to be subjected to the four-in-one test laid down as guidelines by Lord Wright in Montreal (City) v. Montreal Locomotive Works Ltd., [1947] 1 D.L.R. 161, and adopted by Justice MacGuigan in Wiebe Door Services Ltd. v. The Minister of National Revenue (1986), 87 DTC 5025, in the Federal Court of Appeal.
+The four guidelines are the payor's control over the worker, whether the worker or the payor owns the tools required to fulfil the worker's function, and the worker's chance of profit and risk of loss in his or her dealings with the payor.
+Adverting first to the right to control criterion, the evidence is that 10Tation only retained experienced workers in order to maintain the highest quality of service for its clients. This means that the workers involved were all seasoned professionals who knew well their various duties when running catered events, whether they were large or small, formal or informal, sit-down dinners or buffet-style meals.
+While events took place at locations other than at 10Tation's offices and kitchens where the food was cooked and prepared, the workers who were chosen to orchestrate a given event were selected from a list accumulated by 10Tation by advertising and by word of mouth. The workers were offered the opportunity of working which they could either accept or decline. According to their level of expertise and experience, they all had established hourly rates at which they were prepared to offer their services, and more than one witness in his or her testimony asserted that they would not work for less.
+They were advised by e-mail by 10Tation when and where the event was to be held and the starting time. They arrived early to set up the necessary tables and tablecloths, light candles, open wine bottles, prepare coffee and do all things necessary to ensure the smooth running of the event.
+One of their number was designated as supervisor for the occasion and was given an extra $5 per hour for this service in addition to their normal hourly rate for waiting on tables, tending bar or whatever their usual duties were. While called supervisors, I find that they did not perform such a function. Rather, they simply allocated all necessary tasks to the workers who then went about performing them without direction or supervision. They were told what to do, but not how to do it.
+This is of significance because, as counsel for the Minister recognized, in Regina v. Walker (1858), 27 L.J.M.C. 207, Baron Bramwell says:
+"A principal has the right to direct what the agent has to do; but a master has not only that right, but also the right to say how it is to be done."
+This traditional test has been refined in recent years, starting, I believe, with Wiebe Door Services itself because it has been recognized that in modern industry there are highly trained and expert personnel whose abilities are far beyond the power of their supervisors to be able to tell them how to do their job. In modern law one could be held to be an employee even though their supervisor is only qualified to tell them what to do but not how to do it.
+The cases distinguish between standard employment as opposed to highly qualified professional employment. In the former case, in order to be found to be in employment, it is necessary that the supervisor have the right to direct not only what is to be done but how it is to be done. In the latter it suffices if the supervisor can only direct what is to be done. In those cases, if it is non-standard, highly qualified professional services, that suffices to make the worker an employee.
+I find in the matter before me that all 91 workers were in standard employment as opposed to being highly skilled persons such as IT computer experts whose expertise exceed the ability of a supervisor to direct. In the matter before me the supervisors, being one of their own number, were well qualified to direct not only what had to be done but how it was to be done. Therefore, in this case, in order for these workers to be found to be employees, I would have to find that their supervisor, if there was one, had the right to direct not only what was to be done but how it was to be done.
+There is a case called Livreur Plus Inc. v. The Minister of National Revenue, [2004] F.C.J. No. 267, in the Federal Court of Appeal where in paragraph 41 the Court says:
+"Together with the right to refuse or decline offers of services, these are factors which this Court has regarded as indicating a contract of enterprise or for services rather than one of employment."
+That, of course, is relevant, and I have singled it out for mention today from the jurisprudence because the evidence before me is quite clear that these workers, and worker after worker, testified that it was in their discretion whether they would accept or decline any given project. Here we have the authority of the Federal Court of Appeal saying that that is indicative more of an independent contractor/principal agent relationship than employer/employee.
+I recognize that 10Tation certainly had the right to fire or remove from their lists the name of any worker who was recalcitrant, inebriated, consistently late or caused inordinate breakage, but in my view, while this was control, it was no more than 10Tation could exercise over an independent contractor.
+In the same vein, counsel for the Minister has drawn the Court's attention to specific elements of control that are in evidence in this matter in that the workers were expected to arrive possibly as much as two hours before a planned event in order to set up. Also they were, I would say, required to wear either black or white depending on the event or occasion.
+While there is no question that that is an element of control, I have considered whether there has to be absolutely no control for the worker to be constituted an independent contractor or whether it is a matter of weighing the controls as opposed to the lack of controls, and I have decided that the law is more consistent with the latter.
+While there are these two requirements that could well constitute control, they are so minimal that, when one looks to see whether there was a relationship of subordination between 10Tation and the 91 workers, these two requirements come nowhere close, in my view, to constituting a relationship of subordination which the jurisprudence says is an element of control. This particular element comes, I believe, from Article 2099 of the Quebec Civil Code, and I personally find it quite useful in examining the control factor and in order to understand who is an employee and who is an independent contractor.
+In my view, the lack of direction and control, the right to decline assignments and the fact that all workers negotiated their hourly rates indicate to me that they were not in a subordinate relationship with 10Tation, but were independent contractors during the year under review.
+Turning now to the second Wiebe Door criterion, ownership of tools, a word of explanation as to why the ownership of tools is important might be in order at this time.
+The jurisprudence indicates that this also goes to the element of control. If the payor is supplying the tools, then the payor has the right to direct how those tools are to be used. Conversely, if the worker is supplying the tools, the payor does not have that element of control.
+In the matter before me so far as tools are concerned, simply put, the 91 workers provided their own tools. These included black and white shirts and pants, shoes, lighters for candles, pins for the tablecloths and corkscrews to open bottles of wine. The bartenders brought their own bar kit, like Mr. Ferrero, which included screens, martini shakers and items like those.
+I find that all other tools were rented either by 10Tation or by the client whose event it was, but were ultimately paid for by the client. As a matter of fact, on those occasions when they were rented by 10Tation, there was a mark-up on the amount invoiced to the client for rentals. These rentals could cover everything from the tables and chairs to the candelabra, the serving trays, utensils and tray tables.
+Again, counsel for the Minister adverted to stoves or ovens used by the chefs on site. One example that was elucidated by the evidence was the Distillery District in which 10Tation was provided with a room with four bare walls in order to prepare the food. Therefore, 10Tation rented or provided the stoves.
+In these circumstances where the workers are supplying the tools that this category of worker normally needs, whereas the payor was supplying the large tools like stoves necessary for the workers to perform their function, the case of Precision Gutters offers guidance. This is Precision Gutters Ltd. v. Minister of National Revenue, [2002] F.C.J. No. 771, in which the workers were people who installed rain gutters. There was some quite large equipment required in order to form the gutters from the raw aluminum, which was done extensively on site. The issue, like the issue before me, is: Is the payor supplying the tools that would cause the workers to be employees rather than independent contractors? In that case the workers were supplying their own drills and bits, saws and blades, pliers, small ladders, pry bars, measuring tapes and hammers.
+In paragraph 25 the Federal Court of Appeal said:
+"It has been held that if the worker owns the tools of the trade which it is reasonable for him to own, this test would point to the conclusion that the individual is an independent contractor even though the alleged employer provides special tools for the particular business."
+Therefore, I find Precision Gutters on all fours, so far as tools are concerned, with the matter before me. These 91 workers provided the tools that they were expected to carry at their own expense. Even though 10Tation provided some large tools, nevertheless, according to Precision Gutters, the tools factor indicates that they were independent contractors.
+This brings me to the chance of profit and risk of loss. Like counsel for the Minister, I find it convenient in this particular fact situation to deal with the two together.
+Again, Precision Gutters offers some useful guidance at paragraph 27 on page 9 where the Court says:
+"In my view, the ability to negotiate the terms of a contract entails a chance of profit and risk of loss in the same way that allowing an individual the right to accept or decline to take a job entails the chance of profit and risk of loss."
+In one paragraph the Federal Court of Appeal has neatly solved two of the factual conundrums presented by this case.
+The workers before me had both the ability to turn down any given assignment and the ability to negotiate their hourly rates. I repeat, some of them were so independent as to say that they would not work for less than, in one case $20 per hour, and in another I believe it was $18.
+I will candidly say that were it not for the binding authority of the Federal Court of Appeal in Precision Gutters, I would question whether the 91 workers really had any chance of profit or risk of loss in their working relationship with 10Tation. While they could earn more the more they worked and served and bartended and although they could do that for more than one caterer on the same day, one gets into the question that counsel for the Minister was good enough to do his best to try to resolve for us, which is: Is that profit or is that just an increase in earnings?
+The first case that I know of that went into that distinction is Hennick v. The Minister of National Revenue. That is cited at [1995] F.C.J No. 294 in the Federal Court of Appeal. That was the case of a piano teacher at the Royal Conservatory. At trial the trial court held that she could earn more money if she worked longer hours and, therefore, that was a chance of profit. That was reversed on appeal by the Federal Court of Appeal making the distinction that, while it may be more earnings, it was not more profit. The Conservatory is in a position to earn profit or make losses, but not someone who earns more money by virtue of working more hours or earns more money on a piece-work basis by producing more pieces.
+In my view, profit denotes business income in excess of business expenses. A problem in this case, if one examines the income tax returns filed by the four workers who testified, is that they had virtually no business expenses and, therefore, very little in terms of a chance of loss.
+I would observe first that in all cases none of them could possibly support themselves on the amount of gross revenues that they were earning from 10Tation in the year 2005. For instance, the witness Peters had a total business income of $3,669.68, but his expenses were $4,000 for a car and $3,000 for travel. Neither one of them compares to the sort of expenses that I am sure 10Tation had -- fixed costs for rent, the vehicle that was used to transport the food, employees who were on the payroll, considerable, I would say, investment in the business.
+Deshima's 2005 T4A shows $406.85 earned from 10Tation. On the other hand, her expenses totalled $4,573 -- mainly her rent of $3,120. There was advertising of $318, memberships of $200, insurance of $210, office $62, and supplies $100, and finally $400 for her phone. This is clearly far different from the sort of business expenses incurred by the payor 10Tation. As has been recognized, her main source of income was as an instructor of Shiatsu.
+Similarly, Anouk Bikkers' main source of income was as an illustrator. So far as her business income was concerned, in 2005 it was $3,467.69, compared with expenses totalling $6,574, mainly involving her occupation as an illustrator: $1,000 for supplies, $125 for advertising, $1,500 for telephone. There are others, but there is really no need for my purposes to go into that much detail.
+Finally, Mr. Ferrero had business income of $7,695, again not a sum with which he could support himself. There are expenses of $2,688, none of which exceeded $500 individually. They involve such items as repairs, meals, an office, a car, a telephone, professional development, gifts, tickets. He wound up with a net business income of $2,934.86.
+Clearly, all four workers were anxious to be designated as independent contractors so that they could deduct expenses that were allowable under the Income Tax Act, even though they were not really business expenses related to the catering industry, with the exception of the black and white clothing and their very minimal tools such as pins, lighters and corkscrews. It is clear that it is really all about their vehicles, their home offices, their supplies, their telephones. If they are able to legitimately deduct them from some source of income, so be it.
+I really do not know if it lies to the Minister to reassess and disallow these workers' expenditures as not being for the purpose of earning income from a business no matter which way I rule. I make no comment on that, but it is something that I do wonder about.
+Chance of profit and risk of loss, as so much of this area of law is, is complicated. There are two other considerations that, in fairness, I would like to bring to your attention.
+I have found on the authority of Precision Gutters that there was a chance of profit and a risk of loss for all 91 workers. Even had I found to the contrary, the outcome would be the same because the evidence would still point to their being independent contractors because the control factor and the tools factor indicates that they were independent contractors.
+Even had I found that the profit and loss factor indicated that they were employees, we would be in a situation where of the four Wiebe Door factors two are indicative of their being employees, which is control and tools, and two are indicative of their being independent contractors, which would be lack of chance of profit and lack of risk of loss. In those circumstances, where Wiebe Door yields inconclusive results, we must invoke the Court of Appeal's directions in Royal Winnipeg Ballet where intent of the parties becomes of greater significance.
+Royal Winnipeg Ballet v. The Minister of National Revenue is cited as 2006 FCA 87. I will simply repeat what counsel for the Minister has already read into the record. Justice Desjardins in Royal Winnipeg Ballet at paragraph 81 gives me the following guidance where the intention of parties assumes greater significance because of the equivocal outcome after applying the Wiebe Door guidelines:
+"-- what the Tax Court judge should have done was to take note of the uncontradicted evidence of the parties' common understanding that the dancers --"
+In that case, and workers in this case.
+"-- should be independent contractors and then consider, based on the Wiebe Door factors, whether that intention was fulfilled."
+I say that applying the Wiebe Door factors and looking at the intentions of the parties, by virtue of the fact that they all signed the same agreement, there was a mutual understanding that these parties were independent contractors. That gets great weight. Even had I found no chance of profit and no risk of loss, I would still have to find them to be independent contractors.
+That same conclusion arises from a separate source. There was a case called City Water International Inc. v. The Minister of National Revenue, which is cited as 2006 FCA 350. City Water was an interesting case because the workers in that case had absolutely no chance of profit and absolutely no risk of loss. While from a common sense point of view one would have thought that the very essence of a business was the chance of profit and the risk of loss, the Federal Court of Appeal nonetheless found those workers to be independent contractors because there was a common intention to that effect expressed by the parties.
+In short, all four Wiebe Door factors are equivocal, two and two, and I have already told you what the result has to be in those circumstances.
+I am also to examine the total relationship of the parties. I should not really phrase it that way. The four Wiebe Door guidelines are only guidelines with a view to determining the total relationship of the parties. That is my ultimate goal. There are a few things to be said about a total relationship.
+Lyndsy Deshima said something that was apposite: "I left restaurants for catering for flexibility of hours. I am not guaranteed hours. I have no job security."
+Those pronouncements were -- let me say they got my attention because it was almost like she had been reading Wolf v. Minister of National Revenue. Wolf is cited at [2002] 4 F.C. 396 in the Federal Court of Appeal. I won't quote verbatim, but the Federal Court of Appeal at paragraph 12 says that independent contractors choose the ability to deduct allowable expenses and freedom of mobility over job security and employee-type benefits.
+I do not think I need say any more about the total relationship between the parties.
+In these matters the burden is on the appellant to demolish the assumptions set out in the Minister's Reply to Notice of Appeal, which assumptions are presumed true if not effectively challenged. There are four cases in support of that legal proposition: Elia v. The Minister of National Revenue, [1998] F.C.J. No. 316 in the Federal Court of Appeal, Livreur Plus Inc. v. The Minister of National Revenue, [2004] F.C.J. No. 267 in the Federal Court of Appeal, National Capital Outaouais Ski Team v. The Minister of National Revenue, [2008] F.C.J. No. 557 in the Federal Court of Appeal, and finally Dupuis v. Minister of National Revenue, [2003] F.C.J. No. 1410, again in the Federal Court of Appeal.
+I personally took Anouk Bikkers' through the contentious assumptions set out in the Minister's Reply, and in her case it was 25(g), (i), (m) and (n). I am sure the same assumptions turn up in all of these appeals. She succeeded in demolishing them. The remaining assumptions were not sufficient to support the Minister's determinations. I have worded my statement that way because there was one assumption that was not demolished, and that was 25(p), that the workers had to perform their services personally.
+Jencan Ltd. v. The Minister of National Revenue, [1997] F.C.J. No. 876 in the Federal Court of Appeal, requires the Court to determine, if some of the Minister's assumptions are demolished, if the remaining assumptions are sufficient to support the Minister's determination. In the matter before me, they clearly are not.
+Having heard the witnesses' testify under oath for the first time, I have found new facts not previously recognized by the Minister, or possibly the known facts were misunderstood or wrongly assessed or misconstrued by the Minister whose determinations I therefore find to be objectively unreasonable. I find the four appellants who have formally filed Notices of Appeal and indeed all 91 workers involved were in business on their own account as either servers, bartenders, chefs or executive chefs.
+As a result all 10 appeals before me will be granted. The 91 workers were not in insurable or employable employment during the period under review. The decisions of the Minister will be vacated.
+Gentlemen, I am in your debt for excellent presentations. You both were very helpful and very well prepared and were of great assistance to me.
+I will close Court.
+THE REGISTRAR: This sitting of the Tax Court in Canada is now concluded.
+---Whereupon the sitting was concluded at 2:56 p.m.
+I HEREBY CERTIFY THAT I have, to the best
+of my skill and ability, accurately recorded
+by Shorthand and transcribed therefrom, the
+foregoing proceeding.
+Shirley Sereney, Shorthand Reporter
+CITATION:
+2008 TCC 562
+COURT FILE NOS.:
+2007-4193(EI)
+2007-4196(CPP)
+STYLE OF CAUSE:
+10Tation Event Catering Inc.
+and The Minister of National Revenue
+PLACE OF HEARING:
+Toronto, Ontario
+DATES OF HEARING:
+August 27 and 28, 2008
+REASONS FOR JUDGMENT BY:
+The Honourable
+N. Weisman, Deputy Judge
+DATE OF ORAL JUDGMENT:
+August 28, 2008
+APPEARANCES:
+Counsel for the Appellants:
+Howard J. Alpert
+Counsel for the Respondent:
+Justin Kutyan
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Howard J. Alpert
+Firm:
+Alpert Law Firm
+Toronto, Ontario
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,149 @@
+---
+title: "Hasham v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27274/index.do"
+last_modified: "2006-09-06"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 TCC 491"
+citation2: ""
+neutral_citation: "2006 TCC 491"
+decision_date: "2006-09-06"
+language: "en"
+item_id: "27274"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 881
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T21:47:28.467000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "459df2da9b7ca245f0e986a69b2a065e8015857248956dee72e0c409e4725a9c"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Hasham v. The Queen
+
+- Citation: 2006 TCC 491
+- Decision date: 2006-09-06
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 881, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Hasham v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-09-06
+Neutral citation
+2006 TCC 491
+File numbers
+2005-1984(IT)I
+Judges and Taxing Officers
+Eric A. Bowie
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2005-1984(IT)I
+BETWEEN:
+SALIM HASHAM,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on July 4, 2006, at Calgary, Alberta
+By: The Honourable Justice E.A. Bowie
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Kiran Kaur Bhinder
+____________________________________________________________________
+JUDGMENT
+The appeals from assessments of tax made under the Income Tax Act for the 2000 and 2001 taxation years are dismissed.
+The purported appeal from an assessment of tax made under the Act for the 2002 taxation year is quashed.
+Signed at Ottawa, Canada, this 6th day of September 2006.
+"E.A. Bowie"
+Bowie J.
+Citation: 2006TCC491
+Date: 20060906
+Docket: 2005-1984(IT)I
+BETWEEN:
+SALIM HASHAM,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+BowieJ.
+[1] There are three appeal before me, one for each of the taxation years 2000, 2001 and 2002. The Respondent moved to quash the appeals for 2001 and 2002. This motion was dealt with as a preliminary matter.
+2001 appeal
+[2] The evidence shows that the Notice of Assessment was sent to the Appellant on April 7, 2005, and that he served a notice of objection on the Minister of National Revenue on July 4, 2005, within the 90-day period allowed by section 165 of the Income Tax Act (the Act) for doing so. The Appellant's Notice of Appeal was filed on June 6, 2005. As it was filed before the objection was served, it does not conform with the requirements of section 169 of the Act, and is therefore invalid.
+[3] As the Minister had not confirmed or vacated the assessment, or reassessed Mr. Hasham for 2001 when the appeal came on for hearing on July 4, 2006, Mr. Hasham had the right at that time to file a Notice of Appeal under paragraph 169(1)(b) of the Act. With the consent of counsel for the Respondent, I heard this appeal on the basis that the Appellant had refiled his original Notice of Appeal.
+2002 appeal
+[4] Mr. Hasham did not dispute the fact that he did not file a notice of objection for 2002. As the last reassessment for that year was sent to him on March 10, 2005, the last day to serve a notice of objection was therefore June 8, 2005. Mr. Hasham filed a Notice of Appeal on June 6, 2005, but he did not, either before or after that date, serve a notice of objection on the Minister. This procedural defect is clearly pleaded in the Reply to the Notice of Appeal that was sent to him on July 14, 2005, but neither then nor later did he attempt to obtain an extension of time to serve the notice of objection under section 166.1 of the Act. The last possible date to make such an application was June 8, 2006: see paragraphs 166.1(7)(a) and 166.2(5)(a). The defect in respect of the 2002 appeal therefore could not be cured, and the appeal must be quashed.
+Issue
+[5] The issuein each of the appeals is the appropriate amount to be assessed as income to Mr. Hasham in the form of automobile standby charges and operating use benefits in respect of two vehicles owned by Healthserv Alberta Inc. (the "company"). One was a 1991 Toyota4-Runner, used primarily by Mr. Hasham, and the other a 1997 BMW 528i, used primarily by his spouse during 2000 and 2001. During the course of Mr. Hasham's evidence, it became clear that he and his spouse had each made some personal use of these vehicles, and the issue was narrowed to whether use of the vehicles by the Appellant and his spouse to travel between their home, which contains a home office, and the company's offices qualifies as business use. The Appellant did not contest the correctness of the calculation of the benefit if those trips are considered personal use.
+Facts
+[6] Mr. Hasham was, at the relevant time, the sole shareholder of the company. It was a small business engaged in the fields of consulting and obtaining management contracts. Most of the company's clients were located in Asia, and much of the contact between Mr. Hasham and those clients took place by telephone or through the internet. During the relevant period, Mr. Hasham's spouse was not a shareholder of the company, nor was she employed by it. She was, however, engaged in attempting to secure contracts for the company. She did this without pay, but on the understanding that if she was successful in obtaining a contract then she would share in the proceeds from it. It is not precisely established how or to what extent this would be done. Counsel for the Respondent did not dispute that her connection with the company was sufficient to justify her use of a vehicle when working for the company on an unpaid basis.
+[7] Mr. Hasham, his spouse and their son lived in a house located at 517 Country Hills Court in Calgary. According to the Appellant's evidence, he maintained an office in his residence where much of the company's business was conducted. In addition, the company had an office in the south part of Calgary. The address is shown on Exhibit A-1 to be 105, 1135-64th Avenue S.E., Calgary. The distance between the two is 25 kilometres.
+[8] At the relevant time the company owned two vehicles. The 1991 Toyota4-Runner was purchased at a cost of $29,496.96. The 1997 BMW 528i was purchased at a cost of $65,311.73. The Toyotawas made available by the company to Mr. Hasham and the BMW to his spouse throughout the years 2000 and 2001. The Appellant did not produce any written contract governing the use of either of these vehicles, and there does not appear to have been any restriction on the personal use that either Mr. Hasham or Ms. Hasham was permitted to make of the two vehicles.
+[9] It is not disputed that the company not only purchased the vehicles, but it also paid all the operating costs for them both. Neither Mr. Hasham nor Ms. Hasham owned or leased a vehicle for personal use, but Mr. Hasham testified that he had occasional access for his personal use to a vehicle owned by his brother-in-law.
+[10] The Appellant produced two sets of logs that he said were maintained to record the use of the vehicles. Exhibit A-4 consists of a log for the Toyotafor the period from December 23, 1999 to January 2, 2001 and a log for the BMW for the period December 14, 1999 to January 15, 2001. The logs for the BMW are handwritten. Those for the Toyotaare in the form of a computer-generated spreadsheet which the Appellant testified was produced by his staff from a handwritten log. From those logs it appears that only Mr. Hasham used the Toyota, and that Ms. Hasham used the BMW almost exclusively, with Mr. Hasham using it on about six days in 2000 and about 12 days in 2001, at least as far as the recorded use is concerned. Mr. Hasham's evidence was that only business use was recorded on the log, but that personal use could be derived from the odometer readings. Where the start of the trip begins with a reading greater than the final reading for the previous trip then the difference between the two is unrecorded personal use by Mr. Hasham or Ms. Hasham.
+[11] It is apparent from the logs that there are almost daily trips between the family home, described in the logs as "home", and the 64th Avenue S.W.office, described in the Toyotalog as "office" and in the BMW log as "Healthserv office". It is as to the legal character of these trips that the parties differ. Mr. Hasham characterizes these as trips from one company office to the other company office, and therefore business related. The Respondent characterizes these trips as personal travel from the place of residence to the place of work.
+[12] The assessments in question are based upon this latter contention. On that basis the Minister's assessor made the following assumptions as to the total use and the personal use of the vehicles:
+Toyota
+BMW
+2000
+total use (km) 9,820
+total use 11,187
+personal use (km) 6,840 (69.66%)
+personal use 11,187 (100%)
+2001
+total use (km) 18,198
+total use 15,991
+personal use (km) 11,506 (63.23%)
+personal use 15,991 (100%)
+[13] In my view, these trips are properly classified as personal and not business use. It is true that the residence served a dual purpose, but its primary purpose was as a place to live. When the Appellant left the 64th Ave. S.E. office and drove to the house on Country Hills Court it was to go home. The same is true of his wife's trips between those places. I am not persuaded by the evidence that the purpose of those trips was simply to continue working but at a different location. I accept the evidence that the Appellant did a substantial amount of work while at home. However, that was later in the evening, and for that purpose he went from one part of his home to another. When he left the next day to go to 64th Ave. S E. it was from his home that he left, not from his office.
+[14] I have not overlooked that Country Hills Court was the registered head office of the company. However that does not affect the purpose for which the Appellant, and his spouse, made each trip. They did not go to the house at the end of each day because it was the registered office of the company - they went there because they lived there. This is not a case like 547931 Alberta Ltd. v. Canada[1] where the office in the home of the shareholder was the only location at which he did office work. It was his principal place of work, and his trips from there were to inspect the company's premises where he supervised the personnel. That decision has no application in the context of this case.
+[15] The appeals for the 2000 and 2001 taxation years are dismissed. The appeal for 2002 taxation year is quashed.
+Signed at Ottawa, Canada, this 6th day of September 2006.
+"E.A. Bowie"
+Bowie J.
+CITATION: 2006TCC491
+COURT FILE NO.: 2005-1984(IT)I
+STYLE OF CAUSE: SALIM HASHAM AND
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: Calgary, Alberta
+DATE OF HEARING: July 4, 2006
+REASONS FOR JUDGMENT BY: The Honourable Justice E.A. Bowie
+DATE OF JUDGMENT: September 6, 2006
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Kiran Kaur Bhinder
+COUNSEL OF RECORD:
+For the Appellant:
+Name: N/A
+Firm: N/A
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] 2003 TCC 170.

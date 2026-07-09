@@ -1,0 +1,130 @@
+---
+title: "Air Liquide Canada Inc. c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27704/index.do"
+last_modified: "2004-05-26"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 CCI 165"
+citation2: ""
+neutral_citation: "2004 CCI 165"
+decision_date: "2004-05-26"
+language: "fr"
+item_id: "27704"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 457
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T20:24:57.823000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "d9ef52c902259b6604a7be8cf41bce48b9ea6bd159db051e3c504f55a2c935ac"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Air Liquide Canada Inc. c. La Reine
+
+- Citation: 2004 CCI 165
+- Decision date: 2004-05-26
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 457, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Air Liquide Canada Inc. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-05-26
+Référence neutre
+2004 CCI 165
+Numéro de dossier
+2003-3570(GST)APP
+Juges et Officiers taxateurs
+Cameron Hugh McArthur
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Référence : 2004CCI165
+Date : 20040526
+Dossier : 2003-3570(GST)APP
+ENTRE :
+AIR LIQUIDE CANADA INC.,
+requérante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+MOTIFS MODIFIÉS DE L'ORDONNANCE
+Le juge McArthur
+[1] Il s'agit d'une demande, fondée sur l'article 305 de la Loi sur la taxe d'accise (la Loi), de prorogation du délai pour interjeter appel d'une cotisation.
+[2] Selon les faits, l'intimée a établi une nouvelle cotisation le ou vers le 16 mai 2003. La requérante contestait cette cotisation. Il y a eu des rencontres entre la requérante et ses représentants avant le 16 mai 2003 afin de préparer la contestation de cette nouvelle cotisation devant la Cour canadienne de l'impôt.
+[3] La requérante n'a pas interjeté appel à la Cour dans le délai prescrit par l'article 306 de la Loi, soit un délai de 90 jours suivant la date d'envoi de l'avis de nouvelle cotisation. La demande dont la Cour est saisie a été formulée 53 jours après l'expiration du délai. Le paragraphe 305(5) de la Loi prévoit ce qui suit :
+305(5) Il n'est fait droit à la demande que si les conditions suivantes sont réunies :
+a) la demande a été présentée dans l'année suivant l'expiration du délai d'appel par ailleurs imparti;
+b) la personne démontre ce qui suit :
+(i) dans le délai d'appel par ailleurs imparti, elle n'a pu ni agir ni mandater quelqu'un pour agir en son nom, ou avait véritablement l'intention d'interjeter appel;
+(ii) compte tenu des raisons indiquées dans la demande et des circonstances de l'espèce, il est juste et équitable de faire droit à la demande,
+(iii) la demande a été présentée dès que les circonstances le permettaient,
+(iv) l'appel est raisonnablement fondé.
+[4] L'ensemble de ces conditions doivent être remplies. La condition énoncée à l'alinéa 305(5)a) l'a manifestement été, tout comme celle du sous-alinéa 305(5)b)(i). J'accepte l'assertion de la requérante qu'un des comptables/fiscalistes externes de l'entreprise avait communiqué son intention de retenir les services du cabinet Lavery, de Billy pour déposer l'avis d'appel requis pour contester l'avis de nouvelle cotisation qui découlerait de la décision du ministre à l'égard de l'avis d'opposition, et cette communication a eu lieu même avant que la décision sur l'opposition ait été rendue, tel qu'en fait foi l'affidavit de M. Patrice Forget, comptable agréé, déposé sous la cote R-2 au soutien de la demande de prorogation.
+[5] Mme Lisa Fluet, fiscaliste interne de la requérante, avait demandé au cabinet Samson Bélair/Deloitte & Touche de s'occuper de protéger les droits de la requérante à la suite de la décision sur l'opposition, tel qu'en fait foi l'affidavit déposé sous la cote R-3 au soutien de la demande de prorogation.
+[6] Compte tenu des raisons indiquées dans la demande et des circonstances de l'espèce, je conclus qu'il est juste et équitable de faire droit à la demande de la requérante. La demande a été présentée dès que les circonstances le permettaient.
+[7] La demande de prorogation de délai pour interjeter appel comprend les énoncés suivants au paragraphe D :
+1. Eu égard au délai, la jurisprudence semble bien établir que la Couronne ne subit aucun préjudice par la prorogation de délai.
+2. Dans le contexte global du dossier, nous croyons qu'il est dans l'intérêt de la justice que la prorogation soit accordée.
+3. La requérante pouvait en appeler de plein droit à cette honorable Cour de l'avis de nouvelle cotisation découlant de la décision du ministre.
+4. N'eut [sic] été d'une confusion entre les comptables de la Requérante et la fiscaliste interne de la Requérante, l'appel de la Requérante aurait été logé dans le délai imparti.
+5. Refuser d'accorder la présente requête pénaliserait indûment la Requérante et l'empêcherait de faire prévaloir ses droits ce qui irait à l'encontre de l'intérêt de la justice.
+[8] La requérante affirme que le litige est fondé sur la décision de cette honorable Cour dans l'affaire La Brasserie Labatt Limitée c. La Reine, décision rendue le 24 août 2001, dossier 2000-4443(GST)I.
+[9] Les moyens soulevés par l'intimée au paragraphe 16 de la réponse à la demande de prorogation du délai pour interjeter appel comprennent ce qui suit :
+L'intimée soutient que la demande doit être rejetée parce que la requérante n'invoque aucune raison pour laquelle l'appel n'a pas été interjeté dans le délai par ailleurs imparti, contrairement à l'une des conditions prévues au paragraphe 305(5) la [Loi] pour faire droit à la demande, soit celle prévue au sous-alinéa 305(5)b)(ii) de la [Loi], lequel sous-alinéa réfère implicitement au paragraphe 305(2) de la [Loi].
+[10] Les représentants de la requérante sont expérimentés en matière fiscale et je suis convaincu que les moyens d'appel ne sont pas frivoles. Je trouve que l'appel est raisonnablement fondé et que la condition énoncée au sous-alinéa 305(5)b)(iv) de la Loi a donc été remplie.
+[11] La demande est donc accueillie.
+Signé à Ottawa, Canada, ce 26e jour de mai 2004.
+« C.H. McArthur »
+Juge McArthur
+RÉFÉRENCE :
+2004CCI165
+No DU DOSSIER DE LA COUR :
+2003-3570(GST)APP
+INTITULÉ DE LA CAUSE :
+Air Liquide Canada Inc. et
+Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+Montréal (Québec)
+DATE DE L'AUDIENCE :
+le 12 décembre 2003
+MOTIFS MODIFIÉS DE L'ORDONNANCE PAR :
+l'honorable juge C.H. McArthur
+DATE DE L'ORDONNANCE :
+le 6 février 2004
+COMPARUTIONS :
+Pour l'appelante :
+Me Philip Nolan
+Pour l'intimée :
+Me Josée Lemieux
+AVOCAT INSCRIT AU DOSSIER:
+Pour l'appelante :
+Nom :
+Lavery, de Billy
+Étude :
+Montréal (Québec)
+Pour l'intimé(e) :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

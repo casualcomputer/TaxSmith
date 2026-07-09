@@ -1,0 +1,114 @@
+Title: Nine Ten St. Clair Ave. W. Limited v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28046/index.do
+Corpus path: corpus/cases/tcc/2007/2007-cci-624-28046-nine-ten-st-clair-ave-w-limited-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2007-08-29
+
+# Nine Ten St. Clair Ave. W. Limited v. The Queen
+
+- Citation: 2007 CCI 624
+- Decision date: 2007-08-29
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1580, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Nine Ten St. Clair Ave. W. Limited v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-08-29
+Référence neutre
+2007 CCI 624
+Numéro de dossier
+2006-3873(IT)I
+Juges et Officiers taxateurs
+Leslie M. Little
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2006-3873(IT)I
+ENTRE :
+NINE TEN ST. CLAIR AVE. W. LIMITED,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels entendus le 29 août 2007, à Toronto (Ontario).
+Devant : L’honorable juge L.M. Little
+Comparutions :
+Représentant de l’appelante :
+M. Mike Lombardi
+Avocat de l’intimée :
+Me Laurent Bartleman
+____________________________________________________________________
+JUGEMENT
+Les appels des cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 2001, 2002, 2003, 2004 et 2005 sont rejetés, sans dépens, selon les motifs de jugement ci‑joints.
+Signé à Toronto (Ontario), ce 17e jour d’octobre 2007.
+« L.M. Little »
+Juge Little
+Traduction certifiée conforme
+ce 21e jour de novembre 2007.
+Johanne Brassard, trad. a.
+Référence : 2007CCI624
+Date : 20071017
+Dossier : 2006-3873(IT)I
+ENTRE :
+NINE TEN ST. CLAIR AVE. W. LIMITED,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Little
+A. Les faits
+[1] L’appelante est une société constituée en vertu des lois de l’Ontario.
+[2] L’appelante possédait une propriété située au 908‑916, avenue St. Clair Ouest, à Toronto.
+[3] L’appelante a demandé que son année d’imposition 2000 fasse l’objet d’une nouvelle cotisation, de façon qu’une déduction additionnelle de 83 819 $ soit faite sur son revenu net.
+[4] Le ministre du Revenu national (le « ministre ») a conclu que l’appelante avait subi une perte autre qu’en capital d’au plus 8 288 $ au cours de son année 2000.
+[5] Le ministre a établi une nouvelle cotisation à l’égard de l’année d’imposition 2001 de l’appelante et a conclu que le revenu net de l’appelante s’élevait à 31 471 $.
+[6] Après que le ministre eut établi une cotisation à l’égard de l’année 2001 de l’appelante, cette dernière a déclaré que le montant de 92 107 $ qu’elle avait déclaré à titre de perte finale était une perte autre qu’en capital.
+[7] Le ministre a refusé la demande que l’appelante avait faite pour que le montant de 92 107 $ soit considéré comme une perte autre qu’en capital.
+[8] Le ministre a conclu qu’au cours de l’année d’imposition 2002, le revenu net d’entreprise de l’appelante était de 2 049 $.
+[9] L’appelante a également demandé au ministre d’établir une nouvelle cotisation à l’égard de son revenu pour les années d’imposition 2003 et 2004. L’appelante ne souscrit pas à la position adoptée par le ministre pour les années d’imposition 2003 et 2004.
+B. Points litigieux
+[10] Les questions en litige sont de savoir si le ministre a, d’une façon appropriée :
+a) refusé les rajustements que l’appelante avait demandés pour son année d’imposition 2000 afin de permettre à celle‑ci de demander la déduction additionnelle de 83 819 $ de son revenu net, donnant lieu à une perte autre qu’en capital de 92 107 $ au cours de son année d’imposition 2000, perte devant être reportée prospectivement à son année d’imposition 2001;
+b) établi une nouvelle cotisation à l’égard du revenu de 2003 de l’appelante en vue d’inclure un montant de 234 199 $ au titre de gains en capital imposables et un montant de 270 371 $ aux fins de la récupération de la déduction pour amortissement dans son revenu de l’année d’imposition 2003;
+c) établi une nouvelle cotisation à l’égard du revenu de 2004 de l’appelante en vue de réduire d’un montant de 35 633 $ le montant des gains en capital imposables déclarés.
+C. Analyse et décision
+[11] Les tribunaux canadiens ont dit à maintes reprises qu’il incombe à l’appelant d’établir que les cotisations ou les nouvelles cotisations établies par le ministre sont inexactes. Compte tenu de la preuve et des arguments présentés par le représentant de l’appelante, je ne suis pas convaincue que les cotisations et les nouvelles cotisations établies par le ministre soient inexactes.
+[12] Les appels sont rejetés, sans dépens.
+Signé à Toronto (Ontario), ce 17e jour d’octobre 2007.
+« L.M. Little »
+Juge Little
+Traduction certifiée conforme
+ce 21e jour de novembre 2007.
+Johanne Brassard, trad. a.
+RÉFÉRENCE : 2007CCI624
+No DU DOSSIER DE LA COUR : 2006-3873(IT)I
+INTITULÉ : Nine Ten St. Clair Ave. W. Limited
+c.
+Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Le 29 août 2007
+MOTIFS DU JUGEMENT : L’honorable juge L.M. Little
+DATE DU JUGEMENT : Le 17 octobre 2007
+COMPARUTIONS :
+Représentant de l’appelante :
+M. Mike Lombardi
+Avocat de l’intimée :
+Me Laurent Bartleman
+AVOCAT INSCRIT AU DOSSIER :
+Pour l’appelante :
+Nom :
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

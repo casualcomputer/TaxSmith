@@ -1,0 +1,146 @@
+Title: Tam c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29693/index.do
+Corpus path: corpus/cases/tcc/2010/2010-cci-157-29693-tam-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2010-03-18
+
+# Tam c. La Reine
+
+- Citation: 2010 CCI 157
+- Decision date: 2010-03-18
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6198, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Tam c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2010-03-18
+Référence neutre
+2010 CCI 157
+Numéro de dossier
+2007-4355(IT)G
+Juges et Officiers taxateurs
+Patrick J. Boyle
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2007-4355(IT)G
+ENTRE :
+WAI SUM TAM,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+________________________________________________________________
+Appel entendu le 11 février 2010, à Ottawa (Canada)
+Devant : L'honorable juge Patrick Boyle
+Comparutions :
+Avocat de l'appelant :
+Me Matthew Mostyn
+Avocat de l'intimée :
+Me Andrew Miller
+________________________________________________________________
+JUGEMENT
+L'appel interjeté à l'encontre des nouvelles cotisations établies en vertu de
+la Loi de l'impôt sur le revenu à l'égard des années d'imposition 2002 et 2003 de l'appelant est accueilli, en partie, et la question est déférée au ministre du Revenu national pour nouvel examen et nouvelles cotisations conformément aux motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 18e jour de mars 2010.
+« Patrick Boyle »
+Le juge Boyle
+Traduction certifiée conforme
+ce 17e jour de décembre 2010.
+Yves Bellefeuille, réviseur
+Référence : 2010 CCI 157
+2007-4355(IT)G
+ENTRE :
+WAI SUM TAM,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+VERSION RÉVISÉE DE LA TRANSCRIPTION
+DES MOTIFS DU JUGEMENT
+La transcription révisée ci‑jointe des motifs du jugement rendus oralement à l'audience à Ottawa, Canada, le 11 février 2010, est versée au dossier. J'ai révisé la transcription (certifiée par le sténographe judiciaire) pour améliorer le style et par souci de clarté, et pour n'y apporter que quelques corrections mineures. Je n'y ai apporté aucune modification de fond.
+Signé à Ottawa, Canada, ce 18e jour de mars 2010.
+« Patrick Boyle »
+Le juge Boyle
+Traduction certifiée conforme
+ce 17e jour de décembre 2010.
+Yves Bellefeuille, réviseur
+Référence : 2010 CCI 157
+Date : 20100318
+Dossier : 2007-4355(IT)G
+ENTRE :
+WAI SUM TAM,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+VERSION RÉVISÉE DE
+LA TRANSCRIPTION
+DES MOTIFS DU JUGEMENT
+(Rendus oralement à l'audience à Ottawa, Canada, le 11 février 2010.)
+Le juge Boyle
+[1] Voici les motifs de ma décision dans l'appel de M. Tam, entendu aujourd'hui, à Ottawa.
+[2] L'appelant, M. Tam, interjette appel de ce qu'on appelle des cotisations fondées sur l'avoir net à l'égard de son revenu en 2002 et 2003. Pendant les années en cause, M. Tam exploitait un restaurant chinois à titre de propriétaire unique. Des pénalités lui ont aussi été imposées pour chacune des années en cause.
+[3] Il est bien établi qu'en règle générale, dans les litiges en matière fiscale, il incombe au contribuable de convaincre la Cour selon la prépondérance des probabilités, au moyen d'éléments de preuve crédibles, que les cotisations portées en appel sont erronées. À moins que le contribuable n'établisse une preuve prima facie crédible et cohérente, la Couronne n'est pas tenue de convaincre
+la Cour que les cotisations sont exactes.
+[4] Lorsqu'il porte en appel une cotisation fondée sur l'avoir net, le contribuable est en droit de remettre en question la nécessité ou la pertinence de recourir à la méthode de l'analyse de l'avoir net pour estimer son revenu. Il peut y arriver en démontrant, avec les éléments de preuve dont il dispose, le revenu qui provient de la source (ou bien des sources) en question. En l'espèce, ce n'est pas ce que le contribuable a essayé de faire.
+[5] L'autre façon par laquelle un contribuable peut remettre en cause une cotisation fondée sur l'avoir net est de contester des éléments précis du calcul de son avoir net.
+[6] En l'espèce, quatre éléments sont contestés : (i) l'actif de l'entreprise en 2002 ainsi que le passif afférent indiqués au bilan; (ii) le coût de l'intérêt du contribuable dans la maison en rangée située rue Inverkip et l'importance de son intérêt dans la maison indiqués au bilan; (iii) la question de savoir si le ministre avait comptabilisé correctement le gain réalisé par le contribuable à la vente de sa maison située rue Malibu Terrace, gain qui était exonéré d'impôt parce qu'il s'agissait de sa résidence principale, et la question de savoir si l'achat de la maison située rue Bellingham avec le produit de cette vente a été correctement indiqué au bilan; (iv) la question de savoir si on a bien tenu compte de la taxe sur les produits et services lors de l'analyse des retraits.
+[7] L'avocat du contribuable a ajouté un cinquième élément, soit la question de savoir si la vente de la voiture de marque Honda avait été comptabilisée correctement, mais il a pu trouver réponse à ses questions à cet égard au cours de l'audience et cet élément n'est plus en litige.
+[8] Le contribuable ne conteste pas les pénalités imposées.
+[9] Au début de l'audience, la Couronne a convenu qu'un montant non connexe de 20 250 $ devait être inclus à l'annexe 3 du calcul de l'avoir net pour l'année 2003 au titre de don concernant une voiture de marque Acura.
+[10] Le contribuable n'a pas témoigné. Sur consentement, il a déposé un recueil de pièces, et l'intimée en a déposé deux. Le contribuable a appelé à témoigner un des fonctionnaires de l'Agence du revenu du Canada (l'« ARC ») ayant participé à l'établissement des nouvelles cotisations. Il a aussi appelé l'ami d'un ami (c'est ainsi qu'il a désigné le témoin), qui l'avait aidé relativement à son litige fiscal, mais qui n'a pas été en mesure de fournir des éléments de preuve directs concernant les activités du contribuable au cours des années en cause.
+[11] En ce qui a trait au premier élément en litige, soit l'actif et le passif de l'entreprise en 2002, le contribuable n'a pas été en mesure de me convaincre qu'il serait nécessaire d'apporter des modifications aux nouvelles cotisations à cet égard. Compte tenu de la preuve dont je suis saisi, je suis convaincu que le contribuable a commencé à exploiter son entreprise en 2002, même si le restaurant n'a ouvert ses portes qu'en janvier 2003.
+[12] Il est donc normal de s'attendre à ce que l'entreprise ait un actif et un passif pour l'année 2002. Le tableau de l'actif a été établi par le contribuable au cours de la vérification. La vérificatrice de l'ARC a affirmé qu'on lui avait dit que l'actif avait été acquis vers la fin de 2002 à l'aide d'un prêt bancaire de 50 000 $ et d'espèces. Aucun autre élément de preuve n'a été présenté à cet égard.
+[13] Pour ce qui est du deuxième élément en litige, soit la maison en rangée située rue Inverkip, le contribuable n'a pas présenté de preuve crédible pour me convaincre que les nouvelles cotisations devraient être modifiées. Des éléments de preuve indiquent qu'il a acheté la maison à titre de tenant conjoint avec un membre de sa famille. D'autres éléments de preuve indiquent également qu'il a payé tout l'acompte ainsi que les frais de clôture.
+[14] La vérificatrice de l'ARC a affirmé que le contribuable lui avait dit que c'était l'autre tenant conjoint qui devait faire les paiements hypothécaires. Aucun élément de preuve n'indique que le contribuable a fait d'autres paiements. Aucun élément de preuve n'énonçait les modalités de l'initiative d'investissement en tenance conjointe entre les deux parties en ce qui a trait à la répartition des profits, au remboursement ou à la prise en compte de l'acompte payé par le contribuable ou des paiements hypothécaires faits par l'autre tenant conjoint.
+[15] Le contribuable n'est pas arrivé à me convaincre qu'il était erroné, dans le calcul de son avoir net, de considérer l'acompte qu'il a fait comme étant le coût de son intérêt dans la maison en rangée.
+[16] Pour ce qui est du troisième élément en litige, soit l'exonération d'impôt afférente à une résidence principale lors de la vente de la maison située rue Malibu Terrace, la preuve dont je suis saisi me permet de conclure qu'on a, à juste titre, tenu compte du caractère non imposable du produit de la vente dans les cotisations fondées sur l'avoir net, et que le gain en capital n'a pas été indirectement imposé dans le calcul de l'avoir.
+[17] De plus, je suis convaincu que le coût de la maison située rue Bellingham a été correctement indiqué dans le tableau de l'actif et qu'il ne devrait pas être réduit pour tenir compte du fait que la maison a été achetée au moyen du produit de la vente de la résidence principale précédente, qui a donné lieu à un gain en capital non imposable.
+[18] En ce qui concerne le quatrième élément, soit la TPS perçue et versée, le contribuable n'a pas réussi à me convaincre selon la prépondérance des probabilités qu'un quelconque rajustement soit nécessaire. Je souligne que, dans l'analyse des retraits, on constate d'importants montants de crédit de taxe sur les intrants et de TPS payée. Je comprends que ces montants diffèrent des montants de TPS que le contribuable avait déclarés comme perçus dans sa déclaration, qui étaient plus élevés.
+[19] Toutefois, aucun élément de preuve n'a été présenté afin d'expliquer l'écart en question ou bien afin d'établir qu'il ne devrait pas exister d'écart et que le montant plus élevé que le contribuable a déduit de son revenu brut dans sa déclaration de revenus est le montant qui devrait être utilisé pour l'analyse des retraits.
+[20] Je tiens à souligner que la Cour a rendu plusieurs décisions dans lesquelles elle cherche à expliquer et à démystifier les méthodes qu'utilise l'ARC pour calculer le revenu en fonction de l'avoir net. J'ai l'impression qu'une bonne partie de la présente instance aurait pu être évitée si le contribuable et ses conseillers avaient pris connaissance de ces méthodes.
+[21] Qui plus est, on a recours aux cotisations fondées sur l'avoir net dans les cas où le contribuable n'a pas tenu des livres comptables ou des registres permettant à l'ARC de vérifier les revenus et les dépenses déclarés. L'analyse de l'avoir net n'est pas une façon de calculer le montant précis du revenu au cours d'une année. Il s'agit d'une méthode raisonnable d'estimation, lorsqu'elle est bien comprise et suivie. Toute injustice dont le contribuable pourrait se sentir victime à la fin du processus découle de sa décision de ne pas tenir de livres comptables ou de registres ou de ne pas déclarer correctement son revenu.
+[22] L'appel est accueilli, en partie, seulement en ce qui a trait au montant convenu du don de 20 250 $. L'appel est rejeté en ce qui a trait à tous les autres éléments en litige. Les dépens sont adjugés à la Couronne.
+[23] L'audience est levée. Je remercie les avocats, Me Mostyn et Me Miller. Je remercie aussi la greffière audiencière et le sténographe judiciaire.
+Signé à Ottawa, Canada, ce 18e jour de mars 2010.
+« Patrick Boyle »
+Le juge Boyle
+Traduction certifiée conforme
+ce 17e jour de décembre 2010.
+Yves Bellefeuille, réviseur
+RÉFÉRENCE : 2010 CCI 157
+No DU DOSSIER DE LA COUR : 2007-4355(IT)G
+INTITULÉ : WAI SUM TAM c. SA MAJESTÉ LA REINE
+LIEU DE L'AUDIENCE : Ottawa, Canada
+DATE DE L'AUDIENCE : Le 11 février 2010
+MOTIFS DU JUGEMENT : L'honorable juge Patrick Boyle
+DATE DU JUGEMENT : Le 18 mars 2010
+COMPARUTIONS :
+Avocat de l'appelant :
+Me Matthew Mostyn
+Avocat de l'intimée :
+Me Andrew Miller
+ÉTAIENT AUSSI PRÉSENTS :
+Greffière audiencière :
+Mme Stephanie Duffy
+Sténographe judiciaire :
+M. Robert Lee
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelant :
+Nom : Matthew Mostyn
+Cabinet : Radnoff Pearl LLP
+Ottawa, Canada
+Pour l'intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

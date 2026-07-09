@@ -1,0 +1,216 @@
+Title: Binette c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25550/index.do
+Corpus path: corpus/cases/tcc/2006/2006-cci-73-25550-binette-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2006-02-28
+
+# Binette c. La Reine
+
+- Citation: 2006 CCI 73
+- Decision date: 2006-02-28
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2455, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Binette c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-02-28
+Référence neutre
+2006 CCI 73
+Numéro de dossier
+98-3617(IT)I
+Juges et Officiers taxateurs
+Paul Bédard
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 98-3617(IT)I
+ENTRE :
+DANIEL HARVEY,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu sur preuve commune avec les appels de Mario Binette (98-3664(IT)I) et de Gilles Loranger (98-3674(IT)I) le 31 janvier 2006 à
+Montréal (Québec)
+Devant : L'honorable juge Paul Bédard
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocates de l'intimée :
+Me Anne-Marie Boutin
+Me Johanne Boudreau
+____________________________________________________________________
+JUGEMENT MODIFIÉ
+Attendu que cette Cour a émis le jugement suivant dans l'appel de Daniel Harvey (98-3617(IT)I) en date du 28 février 2006 :
+L'appel de la cotisation établie en vertu de la Loi de l'impôt sur le revenu pour l'année d'imposition 1987 est rejeté selon les motifs du jugement ci-joints.
+Attendu que l'intimée, par lettre datée du 15 mars 2006, a avisé la Cour que le jugement ne mentionnait pas le nom de Me Johanne Boudreau dans les comparutions pour l'intimée;
+Cette Cour modifie son jugement en conséquence;
+Les autres dispositions du jugement et les motifs du jugement daté du 26 février 2006 demeurent inchangés.
+Signé à Ottawa, Canada, ce 10e jour d'avril 2006.
+« Paul Bédard »
+Juge Bédard
+Dossier : 98-3674(IT)I
+ENTRE :
+GILLES LORANGER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu sur preuve commune avec les appels de Mario Binette (98-3664(IT)I) et de Daniel Harvey (98-3617(IT)I) le 31 janvier 2006 à
+Montréal (Québec)
+Devant : L'honorable juge Paul Bédard
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocates de l'intimée :
+Me Anne-Marie Boutin
+Me Johanne Boudreau
+____________________________________________________________________
+JUGEMENT MODIFIÉ
+Attendu que cette Cour a émis le jugement suivant dans l'appel de Gilles Loranger (98-3674(IT)I) en date du 28 février 2006 :
+L'appel de la cotisation établie en vertu de la Loi de l'impôt sur le revenu pour l'année d'imposition 1987 est rejeté selon les motifs du jugement ci-joints.
+Attendu que l'intimée, par lettre datée du 15 mars 2006, a avisé la Cour que le jugement ne mentionnait pas le nom de Me Johanne Boudreau dans les comparutions pour l'intimée;
+Cette Cour modifie son jugement en conséquence;
+Les autres dispositions du jugement et les motifs du jugement daté du 26 février 2006 demeurent inchangés.
+Signé à Ottawa, Canada, ce 10e jour d'avril 2006.
+« Paul Bédard »
+Juge Bédard
+Dossier : 98-3664(IT)I
+ENTRE :
+MARIO BINETTE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu sur preuve commune avec les appels de Daniel Harvey (98-3617(IT)I) et de Gilles Loranger (98-3674(IT)I) le 31 janvier 2006 à
+Montréal (Québec)
+Devant : L'honorable juge Paul Bédard
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocates de l'intimée :
+Me Anne-Marie Boutin
+Me Johanne Boudreau
+____________________________________________________________________
+JUGEMENT MODIFIÉ
+Attendu que cette Cour a émis le jugement suivant dans l'appel de Mario Binette (98-3664(IT)I) en date du 28 février 2006 :
+L'appel de la cotisation établie en vertu de la Loi de l'impôt sur le revenu pour l'année d'imposition 1987 est rejeté selon les motifs du jugement ci-joints.
+Attendu que l'intimée, par lettre datée du 15 mars 2006, a avisé la Cour que le jugement ne mentionnait pas le nom de Me Johanne Boudreau dans les comparutions pour l'intimée;
+Cette Cour modifie son jugement en conséquence;
+Les autres dispositions du jugement et les motifs du jugement daté du 26 février 2006 demeurent inchangés.
+Signé à Ottawa, Canada, ce 10e jour d'avril 2006.
+« Paul Bédard »
+Juge Bédard
+Référence : 2006CCI73
+Date : 20060410
+Dossier : 98-3664(IT)I
+ENTRE :
+MARIO BINETTE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+ET
+Dossier : 98-3617(IT)I
+DANIEL HARVEY,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+ET
+Dossier : 98-3674(IT)I
+GILLES LORANGER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT MODIFIÉS
+Le juge Bédard
+[1] À la demande des appelants, les présents appels ont été entendus sur preuve commune. Les appelants en appellent, selon la procédure informelle, des cotisations établies à leur égard pour l'année d'imposition 1987 par le ministre du Revenu national (le « ministre » ). Ce dernier a refusé à monsieur Gilles Loranger un crédit d'impôt à l'investissement de 2 600 $ pour un investissement de 13 000 $ qu'il a fait en 1987 dans la société en nom collectif Audio Digitale enr. (la « société » ). Le ministre a aussi refusé à monsieur Daniel Harvey un crédit d'impôt à l'investissement de 2 800 $ pour un investissement de 14 000 $ qu'il a fait en 1987 dans la société. Enfin, il a refusé à monsieur Mario Binette un crédit d'impôt à l'investissement de 1 200 $ pour un investissement de 6 000 $ qu'il a fait pendant la même année dans la société.
+Questions en litige
+[2] Le crédit d'impôt à l'investissement a initialement été refusé aux appelants aux termes de l'article 37 de la Loi de l'impôt sur le revenu (la « Loi » ) et de l'article 2900 du Règlement de l'impôt sur le revenu (le « Règlement » ). L'intimée invoque maintenant des arguments supplémentaires pour ne pas accorder le crédit.
+[3] L'intimée soutient ces nouveaux arguments malgré le fait que le ministre a accepté de considérer que la disposition des participations des appelants dans la société avait donné lieu à un gain en capital imposable, pour lequel les appelants ont demandé l'exonération fiscale aux termes de l'article 110.6 de la Loi. En acceptant l'existence d'un gain en capital résultant de la disposition des participations dans la société, le ministre a donc reconnu initialement l'existence réelle de la société de personnes. Par ailleurs, le ministre a également reconnu une perte d'entreprise pour le montant total de l'investissement. En reconnaissant une telle perte, le ministre admettait donc l'existence d'une entreprise. Le ministre soutient maintenant le contraire pour appuyer sa thèse que les appelants ne peuvent réellement bénéficier du crédit d'impôt à l'investissement. Enfin, l'intimée invoque un autre argument supplémentaire pour ne pas accorder le crédit d'impôt à l'investissement. Elle soutient que les appelants sont des associés commanditaires au sens du paragraphe 96(2.4) de la Loi et qu'ainsi leur part dans la perte et le crédit d'impôt de la société est limitée au montant de leur fraction à risques, conformément aux paragraphes 96(2.1), 96(2.2) et 127(8.1), ainsi qu'à l'alinéa 96(1)g) de la Loi.
+Remarques préliminaires
+[4] Monsieur Claude M. Papion a témoigné à titre d'expert à l'appui de la position de l'intimée. Madame Sonia Borin a aussi témoigné à l'appui de la position de l'intimée; elle est une conseillère en ressources humaines à l'ADRC qui a agi comme agent d'opposition et qui a coordonné de 1992 à 1995 tous les avis d'opposition déposés par les associés de neuf sociétés de personnes du groupe Zuniq. Enfin, monsieur Yves Renaud, comptable agréé, a témoigné à l'appui de la position de l'intimée. Messieurs Binette et Loranger ont témoigné à l'appui de leur position. Par contre, monsieur Harvey n'a pas témoigné. Il convient de souligner que les appelants n'ont déposé aucune preuve documentaire à l'appui de leur position.
+Témoignage de monsieur Loranger
+[5] Monsieur Loranger a investi la somme de 13 000 $ dans la société à la suite d'une réunion d'information organisée par les promoteurs du projet à laquelle il avait assisté en compagnie d'une quinzaine de personnes qu'il ne connaissait pas. Il n'a pas pensé à demander une preuve de l'existence de la société, pas plus qu'une liste des autres membres de la société. Il n'avait aucune idée du nombre d'associés qui avaient acheté une participation dans la société. Il ne savait pas que la société avait amassé 750 000 $ et qu'elle avait donné un contrat de recherche pour le même montant à la société Zuniq Corp. ( « Zuniq » ). Il n'a jamais assisté à une réunion d'associés. Il a relaté que la société ne lui avait fourni aucune étude de rentabilité et aucune entente de commercialisation.
+[6] Par ailleurs, il a reconnu qu'au moment d'investir, il savait déjà qu'on lui rachèterait ses parts et qu'il récupérerait la moitié de son investissement. Il a également mentionné que non seulement les avantages fiscaux lui permettraient de rembourser l'autre moitié de son investissement, mais qu'ils lui procureraient également un rendement sur son investissement.
+[7] Il a ajouté qu'à la suite de sa décision d'investir dans la société, les promoteurs du projet lui avaient demandé de se présenter aux bureaux de la Société d'entraide économique Métropolitaine de Montréal ( « SEÉM » ). Il a alors signé plusieurs documents dont il ne se souvenait pas vraiment de la teneur. Toutefois, il se souvenait que la SEÉM lui avait consenti un prêt de 13 000 $, lequel avait été utilisé pour faire son investissement dans la société. Il a expliqué que la SEÉM avait reçu directement le produit de la disposition (6 500 $) de sa participation dans la société, produit de disposition que la SEÉM avait utilisé pour rembourser la moitié du prêt qu'elle avait consenti. Il a ajouté qu'il avait remboursé le solde du prêt en juin 1988 à même les remboursements d'impôt reçus pour son année d'imposition 1987, remboursements liés à une perte d'entreprise de 10 400 $ et à un crédit d'impôt de 2 600 $ générés par son investissement de 13 000 $ dans la société.
+Témoignage de monsieur Binette
+[8] Le témoignage de monsieur Binette fut par ailleurs vague, imprécis, ambigu et parfois inintelligible. Les trous de mémoire de monsieur Binette m'ont laissé perplexe. Tout au plus son témoignage m'a permis d'apprendre ce qui suit.
+i) Il avait investi 6 000 $ à même ses propres fonds à la suite d'une rencontre d'information organisée par les promoteurs d'un projet de recherche à laquelle 20 autres personnes assistaient, personnes qu'il ne connaissait pas. Tout au plus il se souvenait que les organisateurs de cette rencontre d'information et de promotion avaient parlé de crédits d'impôt et de création d'emplois et distribué des documents d'information dont il ne se souvenait plus de la teneur.
+ii) Il ne connaissait pas les autres associés de la société.
+iii) Il n'avait participé à aucune réunion d'associés.
+iv) Il n'était au courant d'aucun plan pour commercialiser ou rentabiliser les projets prétendument promus par la société.
+v) Il ne connaissait ni les chercheurs affectés à la recherche, ni les dirigeants de la société, ni le siège social de la société, ni l'endroit où les livres et registres de la société étaient tenus. Il ne savait même pas que la société avait confié un contrat de recherche à Zuniq.
+vi) Il ne se souvenait pas des événements entourant la vente de sa participation dans la société. Il ne se souvenait même pas d'avoir reçu un chèque de 3 000 $ lié à la vente de sa participation dans la société.
+[9] Enfin, je tiens à souligner que le témoignage de monsieur Binette ne m'a pas vraiment permis de comprendre le motif ou les motifs qui l'ont incité à faire un tel investissement.
+Témoignage de madame Borin
+[10] Dans la présente affaire, madame Borin a constaté que la société a été constituée selon les lois de la province de Québec le 9 novembre 1987 par monsieur André Gauthier et madame Ann Nguyen, l'épouse de monsieur Vo Hoang (pièce 1-2, onglet 2). Le 9 novembre 1987, la société a octroyé à Zuniq (dont monsieur Vo Hoang était le président et l'actionnaire majoritaire) un contrat (pièce I-2, onglet 6) pour effectuer la recherche scientifique et le développement expérimental d'un prototype d'un système de traitement audio numérique à haute fidélité servant à stocker le signal audio sur les disques magnétiques d'un ordinateur personnel IBM-PC (ou compatible). Selon le contrat, l'ensemble des travaux de conception, de construction et de mise à l'essai devait être complété avant le 31 décembre 1987. Les 2 et 3 décembre 1987, la société recueillait 750 000 $ de 48 sociétaires (pièce I-2, onglet 3). Le 7 décembre 1987, la société a tiré un chèque de 750 000 $ payable à Zuniq (pièce I-2, onglet 5), bien que le 31 décembre 1987, Zuniq ait facturé à la société (pièce I-2, onglet 7), pour des travaux de recherche, la somme de 750 000 $, soit le montant total recueilli des 48 sociétaires. Le 4 décembre 1987, Zuniq a conclu des sous-contrats pour le contrat de recherche avec trois sociétés liées soit Zuniq Data Corp., Dias Informatique inc. et Data Age Corp. pour des sommes de 132 000 $, 376 000 $ et 65 000 $ respectivement (pièce I-2, onglets 8 et 9). Le 7 décembre 1987, Zuniq a tiré un chèque payable conjointement à Dias Informatique inc. et à S.E.É.M. d'un montant de 375 000 $ (pièce I-5). Le 15 janvier 1988, Dias Informatique inc. a donné à la S.E.É.M. l'ordre de payer la somme de 374 800 $ à UBC (pièce I-5). La UBC a racheté la participation des sociétaires en janvier 1988 pour une somme égale à 50 % de leur mise de fonds initiale (pièce I-2, onglet 11, et pièce I-5). Pour payer le prix de rachat des participations des sociétaires, UBC a donné à la S.E.É.M. l'ordre de payer les sociétaires. Madame Borin a relaté qu'elle n'avait pu trouver quelque information que ce soit sur UBC, si ce n'est que son siège social semblait être dans l'État du Massachusetts. Elle a noté toutefois que UBC avait autorisé l'épouse de monsieur Vo Hoang à signer en son nom des ordres de paiement. La société n'a eu qu'un seul exercice de 52 jours. La fin de l'exercice (le 31 décembre 1987) correspondait au délai donné à Zuniq et au délai donné par cette dernière à ses sous-contractants pour compléter les travaux de recherche. La société a réclamé une perte qui correspondait au montant de la souscription des sociétaires et au montant du contrat de recherche attribué à Zuniq. Les personnes responsables du projet de recherche étaient monsieur Le H. Huynh, Ph.D., directeur du projet, monsieur Alessandro Malutta, M.Sc. (INRS Telecom), et monsieur Huan Nguyen, B.Sc.A. (ingénieur en informatique). À la suite des avis d'opposition, Mme Borin avait retenu en 1994 les services de M. White, un réviseur scientifique externe, pour évaluer à nouveau les activités de recherche scientifique de la société. Lors d'une conférence téléphonique à laquelle assistaient également messieurs White et Le Huynh, ce dernier confirmait qu'il n'existait pas d'autres documentations à l'appui du projet scientifique que celle qui avait déjà été fournie à monsieur Georges E. Husson, le vérificateur scientifique externe et l'auteur du rapport de vérification de recherche scientifique daté du 26 décembre 1989, rapport qui concluait que le projet soumis par la société n'était pas conforme aux critères essentiels définis dans la circulaire 86-4R2, à savoir le critère de l'incertitude scientifique et le critère de l'avancement technologique. Monsieur White concluait aussi en juin 1984 que le projet n'était pas admissible (pièce I-2, onglet 21).
+[11] Madame Borin, rappelons-le, est la conseillère en ressources humaines de l'ADRC qui a agi comme agent des oppositions et qui a coordonné tous les avis d'opposition déposés par les associés des neuf sociétés de personnes. Elle s'est rendu compte que les 12 sociétés du Groupe Zuniq (pièce I-3) étaient gérées par le même groupe de personnes, monsieur Vo Huang étant le maître d'oeuvre. Pour chacune de ces sociétés, il n'y avait qu'un seul exercice, dont la durée variait de 52 jours au minimum à 11 mois au maximum pour l'existence très courte de chacune de ces sociétés. Dans tous les cas, la fin de l'exercice correspondait au délai donné à Zuniq ou à une autre société ayant des liens avec Zuniq pour compléter les travaux de recherche. Dans tous les cas, les investisseurs souscrivaient dans ces sociétés très peu de temps avant la fin de l'exercice. Chaque investisseur s'est fait racheter sa participation par une société liée à Zuniq pour une somme variant de 50 % à 60 % de sa mise de fonds initiale. La période pendant laquelle chaque investisseur a détenu sa participation était très courte, variant de quelques semaines à trois ou quatre mois. Chaque société de personnes réclamait une perte qui correspondait dans tous les cas à la somme du montant de souscription total et du contrat de recherche attribué à Zuniq ou à une société liée.
+[12] Madame Borin a conclu qu'aucun des appelants n'avait l'intention de travailler ensemble à un projet de recherche scientifique et elle mettait donc en doute l'existence réelle de ces sociétés. Elle a également conclu que la société n'exploitait réellement aucune entreprise et avait plutôt été créée comme un trompe-l'oeil pour permettre à Zuniq de s'approprier 50 % des mises de fonds faites par les investisseurs tout en leur permettant de ne rien perdre au change et même de retirer un bénéfice grâce aux avantages fiscaux liés à leur investissement. Elle a donc considéré que le crédit d'impôt, qui avait déjà été refusé parce qu'il n'y avait pas de recherche scientifique admissible aux termes de l'article 2900 du Règlement, devait également être refusé parce que la société n'avait aucune existence juridique et n'exploitait aucune entreprise.
+Témoignage de monsieur Papion
+[13] Monsieur Claude Papion, expert en informatique, a reçu le mandat de l'intimée, en décembre 2005, de procéder à l'évaluation des demandes concernant les activités de recherche scientifique de la société à partir de la documentation soumise par la société et à partir de la documentation liée à l'évaluation de l'admissibilité des travaux de recherche de la société effectuée antérieurement par monsieur Georges Husson, réviseur scientifique externe dont les services avaient été retenus par Revenu Canada. En vertu de son mandat, monsieur Papion devait faire rapport à l'intimée, à titre d'expert, au sujet de l'admissibilité des travaux accomplis par la société en vertu du paragraphe 2900(1) du Règlement. Ce rapport daté du 17 janvier 2005 a été déposé en preuve par l'intimée (pièce I-1). Monsieur Papion a donc témoigné à titre d'expert à l'appui de la position de l'intimée.
+[14] Pour déterminer l'admissibilité des travaux accomplis par la société, monsieur Papion s'est penché sur trois critères retenus par Revenu Canada et décrits dans la Circulaire d'information 86-4R2, à savoir :
+- l'avancement de la science ou de la technologie;
+- l'incertitude scientifique;
+- le contenu scientifique ou technique; ce dernier critère consistait à se demander dans un premier temps quelles étaient les ressources utilisées et si elles étaient raisonnables et, dans un deuxième temps, à se demander si ces ressources avaient été utilisées à faire de la recherche scientifique ou technique.
+[15] Monsieur Papion a relaté qu'il avait notamment examiné la documentation suivante :
+i) le formulaire 661 (pièce I-2, onglet 16). En effet, au terme de l'exercice 1987, la société a soumis un formulaire de réclamation des dépenses de recherche scientifique et de développement expérimental, accompagné d'une description du projet et du curriculum vitae des scientifiques à qui le projet aurait été confié;
+ii) un document de 80 pages daté de septembre 1989 intitulé « Anti-Aliasing Filter, by Le H. Huynh, P.h.D. » (pièce I-2, onglet 20);
+iii) la lettre du 7 juin 1991 intitulée « Réponse au rapport de vérification de recherches scientifiques relativement au projet du contribuable Société de Recherche Audio-Digitale enr. » et signée par monsieur Hien Vohoang (pièce I-2, onglet 18);
+iv) le rapport de vérification de recherches scientifiques de 4 pages produit par monsieur Husson en date du 26 décembre 1989 (pièce I-2, onglet 19) et l'addendum à ce rapport produit par celui-ci en date du 21 juin 1991 (pièce I-2, onglet 17) en dessus réponse à la lettre du 7 juin 1991 mentionnée ci-dessus.
+[16] Monsieur Papion a constaté ce qui suit de la documentation soumise.
+i) L'objectif du projet soumis par la société était de concevoir un prototype d'un système de traitement numérique de signal audio à haute fidélité et de réaliser un filtre anti-crénelage avec une fréquence de coupure variable et un contrôle numérique. À ce titre, il a constaté que le projet, comme l'indique d'ailleurs clairement la société, n'a fait l'objet d'aucune réalisation concrète d'un produit nouveau ou amélioré; autrement dit, il a constaté à partir de la documentation soumise qu'aucun prototype n'avait été construit et que la réalisation du projet n'avait aucunement progressé au-delà des étapes du modèle et de la simulation.
+ii) Il n'existait pas d'incertitude technologique fondamentale à la réalisation du prototype projeté par la société. En effet, il a souligné que le filtre anti-crénelage que la société voulait réaliser était non seulement possible en 1986-1987, mais, en fait qu'il avait été réalisé antérieurement avec un processeur de 16 bits. Le processeur rendait alors le projet possible en nécessitant uniquement un effort de programmation standard. La société n'avait qu'à suivre les caractéristiques techniques du processeur, qui indiquaient les étapes à suivre.
+iii) Le document de 80 pages daté de septembre 1989 (pièce I-2, onglet 20) soumis par monsieur Le H. Huynh reproduisait banalement les éléments principaux des textes publiés et recommandés par les universités dans le domaine de la science des systèmes.
+iv) Il n'y avait aucune formulation d'hypothèses à vérifier (c'est-à-dire des problèmes à régler) et aucun compte rendu des hypothèses vérifiées et des résultats obtenus au fur et à mesure de l'avancement des travaux. Il n'existait aucune documentation démontrant le rôle de chacun des chercheurs dans la réalisation du projet. Autrement dit, il n'a pu, à même la documentation examinée, trouver quelque élément que ce soit qui lui permette d'affirmer que des travaux admissibles ont réellement été effectués.
+v) Les scientifiques à qui le projet avait été confié étaient très qualifiés.
+vi) Les dépenses de 750 000 $ soumises à l'appui de la recherche scientifique et du développement expérimental lui sont apparues invraisemblables, compte tenu du personnel affecté à ce projet et du peu de temps (52 jours) que ce personnel avait eu pour réaliser ce projet.
+Analyse
+[17] Les appelants ne m'ont pas convaincu que le ministre a commis une erreur en jugeant le projet de recherche de la société non admissible en utilisant en l'espèce l'approche préconisée dans la circulaire d'information 86-4R2 pour établir les critères à examiner pour déterminer si un projet est admissible. Il me semble que les tribunaux ont accepté cette approche[1]. Je suis d'accord aussi avec l'avocat de l'intimée que les appelants n'ont pas été en mesure d'apporter une preuve concrète identifiant les incertitudes ou l'avancement des projets. En fait, les appelants n'ont soumis aucune preuve à ces égards. Ils se sont contentés de critiquer monsieur Papion de s'être prononcé sur l'admissibilité du projet sans avoir consulté au préalable les scientifiques impliqués dans le projet et sans avoir tenté d'obtenir de la société les comptes rendus des hypothèses vérifiées et des résultats obtenus au fur et à mesure de l'avancement des travaux. Je rappelle aux appelants que monsieur Papion n'a pas examiné ces comptes rendus parce qu'ils ne faisaient pas partie de la documentation qui lui avait été soumise par l'intimée, cette dernière n'ayant pu les obtenir de la société et de Zuniq, et ce, malgré ses nombreuses tentatives. Se pourrait-il que ces comptes rendus n'existaient tout simplement pas? Je leur rappelle que le fardeau d'apporter une preuve concrète à cet égard reposait sur eux. Leurs critiques à l'endroit de l'intimée et de monsieur Papion sont injustifiées et non méritées en l'espèce. Je comprends jusqu'à un certain point la frustration des appelants. Ils n'ont qu'à s'en prendre aux vrais responsables de tout ce gâchis, dont ils sont en partie responsables à cause de leur insouciance, leur incurie et leur naïveté.
+[18] À mon avis, les appelants n'ont pas démontré qu'il y a réellement eu recherche scientifique et développement expérimental dans le projet dans lequel ils ont investi. Ceci étant une condition essentielle pour avoir droit à un crédit d'impôt à l'investissement, les appelants ne peuvent donc y avoir droit.
+[19] Cette conclusion suffit pour rejeter les appels. Cette conclusion me dispense d'analyser les arguments subsidiaires de l'intimée.
+[20] Pour toutes ces raisons, les appels sont rejetés.
+Signé à Ottawa, Canada, ce 10e jour d'avril 2006.
+« Paul Bédard »
+Juge Bédard
+RÉFÉRENCE :
+2006CCI73
+No DU DOSSIER DE LA COUR :
+98-3664(IT)I, 98-3617(IT)I et 98-3674(IT)I
+INTITULÉ DE LA CAUSE :
+Mario Binette et Sa Majesté la Reine et Daniel Harvey et Sa Majesté la Reine et Gilles Loranger et Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+Montréal (Québec)
+DATE DE L'AUDIENCE :
+le 31 janvier 2006
+MOTIFS DU JUGEMENT MODIFIÉS PAR :
+L'honorable juge Paul Bédard
+DATE DU JUGEMENT MODIFIÉ :
+Le 10 avril 2006
+COMPARUTIONS :
+Pour les appelants :
+Les appelants eux-même
+Pour l'intimée :
+Me Anne-Marie Boutin
+Me Johanne Boudreau
+AVOCAT(E) INSCRIT(E) AU DOSSIER:
+Pour les appelants :
+Nom :
+Étude :
+Pour l'intimée :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Northwest Hydraulic Consultants Ltd. c. Canada, [1998] A.C.I. no 340 (Q.L.), aux paragraphes 14, 15 et 16, lesquels ont été repris avec approbation de la Cour d'appel fédérale dans C.W. Agencies Inc. c. Canada, [2001] A.C.F. no 1886 (Q.L.), au paragraphe 17.

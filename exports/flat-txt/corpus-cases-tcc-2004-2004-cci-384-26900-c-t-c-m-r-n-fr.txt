@@ -1,0 +1,172 @@
+Title: Côté c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26900/index.do
+Corpus path: corpus/cases/tcc/2004/2004-cci-384-26900-c-t-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2004-05-20
+
+# Côté c. M.R.N.
+
+- Citation: 2004 CCI 384
+- Decision date: 2004-05-20
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 772, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Côté c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-05-20
+Référence neutre
+2004 CCI 384
+Numéro de dossier
+2003-2515(EI)
+Juges et Officiers taxateurs
+Sylvio J. Savoie
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2003-2515(EI)
+ENTRE :
+MAURICE CÔTÉ,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+____________________________________________________________________
+Appel entendu le 24 février 2004 à Montréal (Québec)
+Devant : L'honorable S.J. Savoie, juge suppléant
+Comparutions :
+Avocat de l'appelant :
+Me Pierre Lalonde
+Avocate de l'intimé :
+Me Anne Poirier
+____________________________________________________________________
+JUGEMENT
+L'appel est rejeté et la décision rendue par le Ministre est confirmée selon les motifs de jugement ci-joints.
+Signé à Grand-Barachois (Nouveau-Brunswick), ce 20e jour de mai 2004.
+« S.J. Savoie »
+Juge suppléant Savoie
+Référence : 2004CCI384
+Date : 20040520
+Dossier : 2003-2515(EI)
+ENTRE :
+MAURICE CÔTÉ,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+MOTIFS DU JUGEMENT
+Le juge suppléant Savoie
+[1] Cet appel a été entendu à Montréal (Québec), le 24 février 2004.
+[2] Il s'agit de déterminer si les allocations de transport, les congés fériés et les allocations nordiques payés à l'appelant du 7 novembre 2001 au 6 août 2002, lorsqu'au service de Compagnie Minière Québec Cartier, le payeur, font partie de la rémunération assurable, au sens de la Loi sur l'assurance-emploi.
+[3] Le 23 avril 2003, le ministre du Revenu national (le « Ministre » ) a informé l'appelant de sa décision selon laquelle le montant de ces allocations versées à l'appelant par le payeur, se chiffrant à 4 759,29 $, était assurable. L'appelant n'a pas porté en appel la décision du Ministre portant sur les allocations versées pendant la période en litige. Dans son avis d'appel, daté du 7 juillet 2003, l'appelant précise que « Le dossier vise à déterminer quelle est la rémunération assurance [sic] ainsi que le nombre d'heures assurables s'y rattachant pour la période du 7 novembre 2001 au 6 août 2003. »
+[4] La procureure du Ministre soutient que cette Cour est privée de compétence puisque la question n'a jamais fait l'objet d'un débat et, s'appuyant sur l'arrêt Blondin c. Canada (ministre de l'Emploi et de l'Immigration) [1988] A.C.F. no 239, affirme que le paragraphe 35(2) du Règlement sur l'assurance-emploi a pour effet de réduite la moyenne de la rémunération hebdomadaire assurable de l'appelant en raison du montant des versements qu'il a reçus du payeur pour couvrir la différence entre ses indemnités pour accident de travail et son salaire ordinaire. Or, ceci n'est pas le cas en l'espèce. Ce que l'appelant a reçu du payeur représente plutôt les allocations de transport, congés fériés et les allocations nordiques.
+[5] Cette Cour est d'avis que l'appelant a bien défini le litige dans son avis d'appel et considère qu'elle doit statuer sur l'assurabilité des sommes que lui a versées la compagnie d'assurance Sun Life pendant la période en litige.
+[6] En rendant sa décision, le Ministre s'est fondé sur les présomptions de fait suivantes :
+a) le payeur exploitait une entreprise minière dans la municipalité de Fermont; (admis)
+b) l'appelant travaillait pour le payeur depuis 1975; (admis)
+c) l'appelant travaillait comme électricien; (admis)
+d) l'appelant était assujetti à une convention collective; (admis)
+e) l'appelant travaillait pour le payeur à raison de 40 heures par semaine, de 8 h à 16 h, du lundi au vendredi; (ignoré)
+f) l'appelant recevait une rémunération horaire de 26,11 $ plus un montant mensuel de 225 $ à titre d'allocation nordique ainsi qu'une allocation semestrielle de transport (615 $ et ensuite 625 $); (admis)
+g) l'appelant bénéficiait aussi d'un régime de pension du payeur; (admis)
+h) dû à un problème de santé, l'appelant a cessé son travail auprès du payeur le 7 novembre 2001; (admis)
+i) à partir de cette date et jusqu'au 6 août 2002, l'appelant a bénéficié de 39 semaines de congé de maladie, prévue par la convention collective; il recevait ses indemnités d'assurance maladie, 475 $ par semaine, directement de la compagnie d'assurance Sun Life; » (admis)
+j) durant cette période de 39 semaines, le payeur a continué de verser à l'appelant son allocation nordique mensuelle, son allocation semestrielle de transport et à lui payer les congés fériés comme convenu à la convention collective; (admis)
+k) durant cette période de 39 semaines, l'appelant était couvert par l'assurance médicament du payeur et le payeur continuait de contribuer au régime de pension pour l'appelant; (admis)
+l) suite à ces 39 semaines, comme il n'était pas apte à revenir au travail, il a reçu des prestations d'assurance-emploi pendant 12 semaines; (admis)
+m) durant cette période pendant laquelle il recevait des prestations d'assurance-emploi, le payeur a cessé de payer les jours fériés à l'appelant mais il a continué de lui verser con allocation nordique; (ignoré)
+n) durant la période de 39 semaines, le payeur a payé à l'appelant 8 congés fériés; (admis)
+o) durant cette période de 39 semaines, le payeur a versé en tout à l'appelant la somme de 4 759,29 $; (admis)
+p) l'allocation nordique, le paiement des jours fériés et l'allocation de transport sont inclus dans la rémunération assurable de l'appelant pour la période en litige. (admis)
+[7] Pour les fins de cette étude, il convient de conclure que les alinéas e) et m), ignorés par l'appelant, ont été prouvés à l'audition.
+[8] La position du Ministre repose sur le fait que pendant la période en litige, le payeur n'a payé au travailleur que les sommes indiquées dans le tableau au paragraphe 7 de la Réponse à l'avis d'appel, en se basant sur l'alinéa 5(1)a) de la Loi sur l'assurance-emploi, de l'article 2 du Règlement sur la rémunération assurable et la perception des cotisations et sur l'alinéa 10.1 3b) du Règlement sur l'assurance-emploi tels qu'applicables à la période en litige.
+Loi sur l'assurance-emploi
+5.(1) Sous réserve du paragraphe (2), est un emploi assurable :
+a) l'emploi exercé au Canada pour un ou plusieurs employeurs, aux termes d'un contrat de louage de services ou d'apprentissage exprès ou tacite, écrit ou verbal, que l'employé reçoive sa rémunération de l'employeur ou d'une autre personne et que la rémunération soit calculée soit au temps ou aux pièces, soit en partie au temps et en partie aux pièces, soit de toute autre manière.
+Règlement sur la rémunération assurable et la perception des cotisations
+2(2) ... Est exclu du total de la rémunération tout montant impayé qui se rapporte au temps supplémentaire ou qui aurait été versé en raison de la cessation de l'emploi.
+Règlement sur l'assurance-emploi
+10.1(3)Lorsqu'un assuré est rétribué par l'employeur pour un jour non ouvrable, il est réputé avoir exercé un emploi assurable pendant le nombre d'heures suivant :
+b) s'il ne travaille pas ce jour-là, le nombre d'heures qu'il aurait normalement travaillées ce jour-là.
+[9] Pour ce qui concerne le reste, le Ministre est d'avis qu'étant donné l'incapacité de l'appelant depuis le 7 novembre 2001, le début de la période en litige, celui-ci a reçu ses indemnités d'assurance maladie, soit 475 $ par semaine, directement de la compagnie d'assurance Sun Life, pour 39 semaines, c'est-à-dire jusqu'au 6 août 2002, ce qui représente toute la période en litige.
+[10] Selon le tableau au paragraphe 7 de la Réponse à l'avis d'appel, l'appelant a reçu du payeur 4 759,29 $, ce qui représente les allocations de transport, les congés fériés et les allocations nordiques. Le Ministre soutient que les indemnités de l'assurance maladie ne sont pas puisqu'elles étaient payées directement par la compagnie Sun Life.
+[11] Le 23 janvier 2003, l'appelant a demandé au Ministre de statuer sur la question de savoir si les allocations de transport, les congés fériés et les allocations nordiques reçus du 7 novembre 2001 au 6 août 2002, lorsqu'au service de Compagnie Minière Québec Cartier, le payeur, faisait partie de la rémunération assurable, au sens de la Loi sur l'assurance-emploi.
+[12] Le Ministre s'est acquitté de cette tâche et le 23 avril 2003 il a informé l'appelant de sa décision selon laquelle ces montants étaient assurables. L'appelant a porté cette décision en appel, le 7 juillet 2003. Il a alors soulevé une question jamais auparavant exprimée. Ainsi, au paragraphe 4 de son avis d'appel, il « conteste comme mal fondée (la décision du Ministre) en faits et en droit, puisqu'on aurait dû retenir la période de travail effectif [sic] qui a précédé la période d'assurance salaire pour case de maladie. »
+[13] L'avocate du Ministre a mis en doute la compétence de cette Cour de se pencher sur la question soulevée par l'appelant dans son avis d'appel. Celle-ci invoque l'application de la règle établie aux paragraphes 103(1) et (3) de la Loi sur l'assurance-emploi qui définit le rôle de cette Cour dans sa tâche de statuer sur un appel interjeté par une personne touchée par une décision rendue au titre de l'article 91 ou 92 de cette Loi.
+[14] Je reproduis ici, les articles pertinents de cette Loi :
+90.(1) La Commission, de même que tout employé, employeur ou personne prétendant être l'un ou l'autre, peut demander à un fonctionnaire de l'Agence des douanes et du revenu du Canada autorisé par le ministre de rendre une décision sur les questions suivantes :
+a) le fait qu'un emploi est assurable;
+b) la détermination de la durée d'un emploi assurable, y compris ses dates de début et de fin;
+c) la détermination de la rémunération assurable;
+d) la détermination du nombre d'heures exercées dans le cadre d'un emploi assurable;
+e) l'existence de l'obligation de verser une cotisation;
+f) la détermination du montant des cotisations à verser;
+g) l'identité de l'employeur d'un assuré;
+h) le fait qu'un employeur est un employeur associé;
+i) le montant du remboursement prévu à l'un ou l'autre des paragraphes 96(4) à (10).
+(2) La Commission peut faire la demande de décision à tout moment, et toute autre personne, avant le 30 juin suivant l'année à laquelle la question est liée.
+(3) Le fonctionnaire autorisé rend sa décision dans les meilleurs délais suivant la demande.
+91. La Commission peut porter la décision en appel devant le ministre à tout moment, et tout autre intéressé, dans les quatre-vingt-dix jours suivant la date à laquelle il reçoit notification de cette décision.
+92. Lorsque le ministre a évalué une somme payable par un employeur au titre de l'article 85, l'employeur peut, dans les quatre-vingt-dix jours suivant la date à laquelle il reçoit l'avis d'évaluation, demander au ministre de reconsidérer l'évaluation quant à la question de savoir s'il y a matière à évaluation ou quel devrait être le montant de celle-ci.
+93.(2) Les demandes d'appel et de révision sont adressées au directeur adjoint des Appels d'un bureau des services fiscaux de l'Agence des douanes et du revenu du Canada et sont livrées à ce bureau ou y sont expédiées par la poste.
+(3) Le ministre règle la question soulevée par l'appel ou la demande de révision dans les meilleurs délais et notifie le résultat aux personnes concernées.
+103.(1) La Commission ou une personne que concerne une décision rendue au titre de l'article 91 ou 92, peut, dans les quatre-vingt-dix jours suivant la communication de la décision ou dans le délai supplémentaire que peut accorder la Cour canadienne de l'impôt sur demande à elle présentée dans les quatre-vingt-dix jours suivant l'expiration de ces quatre-ving-dix jours, interjeter appel devant la Cour canadienne de l'impôt de la manière prévue par la Loi sur la Cour canadienne de l'impôt et les règles de cour applicables prises en vertu de cette loi.
+(3) Sur appel interjeté en vertu du présent article, la Cour canadienne de l'impôt peut annuler, confirmer ou modifier la décision rendue au titre de l'article 91 ou 92 ou, s'il s'agit d'une décision rendue au titre de l'article 92, renvoyer l'affaire au ministre pour qu'il l'étudie de nouveau et rende une nouvelle décision; la Cour :
+a) notifie aux parties à l'appel sa décision par écrit;
+b) motive sa décision, mais elle ne le fait par écrit que si elle l'estime opportun.
+[15] De l'avis de cette Cour, l'objection formulée par la procureure du Ministre est bien fondée. Cette Cour n'a pas d'autre option que d'annuler, de confirmer ou de modifier la décision du Ministre rendue au titre de l'article 91 ou 92 de la Loi. Il ne s'agit pas, en l'espèce, d'une décision rendue au titre de l'article 92, donc le renvoi au Ministre prévu à cet article n'est pas applicable.
+[16] L'appelant a demandé à cette Cour d'accorder sa demande, c'est-à-dire, une décision qui déterminerait l'assurabilité des sommes que lui a versées l'assureur Sun Life.
+[17] À l'appui de son argument, l'appelant invoque les termes du contrat entre le payeur et la Sun Life. Il se base aussi sur les termes du régime d'assurance offert aux employés, tels que prévus par la convention collective, dont un extrait a été produit à l'audition sous la cote A-1.
+[18] L'appelant précise que cette Cour, pour déterminer ce litige doit se guider sur le dispositif énoncé par la Cour d'appel fédérale dans les arrêts Université Laval c. Canada (ministre du Revenu national - M.R.N.), 2002 CAF 171 et Canada (Procureur général) c. Banque nationale du Canada, 2003 CAF 242.
+[19] Le juge Létourneau qui a rendu jugement dans l'arrêt Banque nationale du Canada, précité, a statué comme suit :
+[3] Nous sommes d'avis que le dispositif de l'arrêt de notre Cour, rendu le 3 mai 2002 dans l'affaire Université Laval c. Le ministre du Revenu national, 2002 CAF 171, s'applique en l'espèce et qu'en conséquence la demande de contrôle judiciaire doit être accueillie. Cet arrêt de notre Cour a dégagé les principes suivants :
+1) l'expression « a l'égard de » cet emploi qui qualifie la rémunération versée par l'employeur et que l'on retrouve au paragraphe 2(1) du Règlement revêt une acception particulièrement large;
+2) une rémunération assurable au sens du Règlement peut exister même en l'absence de prestations de services par l'employé.
+3) les indemnités d'assurance-salaire versées par l'employeur constituent de la rémunération assurable au sens de la Loi et du Règlement alors que celles versées par un tiers-assureur sont exclues de la définition de cette rémunération;
+4) le mot « verser » que l'on a traduit en anglais par « pay » (payer) a un sens plus large que le mot « payer » qui, lui-même, a reçu de la Cour suprême du Canada une signification large dans Canadian Pacifique Ltée c. P.G. Canada, [1986] 1 R.C.S. 678, à la page 687; et
+5) une indemnité est versée par un employeur dans le cadre du contrat de travail lorsqu'apparaissent les indices suivants qui ne sont pas nécessairement exhaustifs : le régime d'assurance-salaire est entièrement payé par l'employeur, le lien d'emploi subsiste pendant l'invalidité, l'indemnité payable est augmentée si le salaire est augmenté durant la période d'invalidité, le versement est effectué par l'employeur lors des périodes normales de paie pendant les 52 premières semaines d'invalidité et par l'assureur par la suite, et enfin l'employeur décide de l'admissibilité aux prestations et signe les chèques.
+[20] Le juge Létourneau a ajouté qu'à son avis la présence de tous et de chacun de ces indices n'était pas requise pour justifier une conclusion que l'indemnité est versée par l'employeur dans le cadre d'un contrat de travail.
+[21] À mon avis, l'argument de l'avocat de l'appelant ne justifie pas, en l'espèce, une conclusion semblable à celle statuée par le juge Létourneau dans l'arrêt précité quand il a déterminé qu'une rémunération semblable constituerait une rémunération assurable. Les faits, en l'espèce, ne justifient pas une telle conclusion. Parmi les indices énumérés par la Cour d'appel fédérale, dans l'arrêt Banque Nationale, supra, il n'y en a aucun dans la cause sous étude, sauf, peut-être, ceux qui précisent que le lien d'emploi subsiste pendant l'invalidité et que l'indemnité payable était augmentée si le salaire était augmenté durant la période d'invalidité.
+[22] Par ailleurs, l'extrait de la copie du contrat entre la Sun Life et le payeur ainsi que la convention collective du payeur avec ses syndiqués (pièce A-1) sont incomplètes et ne peuvent appuyer les prétentions de l'appelant.
+[23] L'appelant n'a donc pas réussi à démontrer le bien-fondé de l'intervention de cette Cour. Il faut ajouter que l'appelant a admis la totalité des présomptions pertinentes du Ministre.
+[24] En raison de ce qui précède, cette Cour se voit dans l'obligation de confirmer la décision rendue par le Ministre.
+[25] En conséquence, l'appel est rejeté et la décision rendue par le Ministre est confirmée.
+Signé à Grand-Barachois (Nouveau-Brunswick), ce 20e jour de mai 2004.
+« S.J. Savoie »
+Juge suppléant Savoie
+RÉFÉRENCE :
+2004CCI384
+No DU DOSSIER DE LA COUR :
+2003-2515(EI)
+INTITULÉ DE LA CAUSE :
+Maurice Côté c. Le ministre du Revenu national
+LIEU DE L'AUDIENCE :
+Montréal (Québec)
+DATE DE L'AUDIENCE :
+Le 24 février 2004
+MOTIFS DE JUGEMENT PAR :
+l'honorable juge suppléant S.J. Savoie
+DATE DU JUGEMENT :
+Le 20 mai 2004
+COMPARUTIONS :
+Pour l'appelant :
+Me Pierre Lalonde
+Pour l'intimé :
+Me Anne Poirier
+AVOCAT INSCRIT AU DOSSIER:
+Pour l'appelant :
+Nom :
+Me Pierre Lalonde
+Étude :
+Pierre Lalonde, avocat
+Montréal (Québec)
+Pour l'intimé :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

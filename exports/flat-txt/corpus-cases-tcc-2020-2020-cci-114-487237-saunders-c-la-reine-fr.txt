@@ -1,0 +1,141 @@
+Title: Saunders c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/487237/index.do
+Corpus path: corpus/cases/tcc/2020/2020-cci-114-487237-saunders-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2020-10-20
+
+# Saunders c. La Reine
+
+- Citation: 2020 CCI 114
+- Decision date: 2020-10-20
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4664, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Saunders c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2020-10-20
+Référence neutre
+2020 CCI 114
+Numéro de dossier
+2018-4115(IT)I
+Juges et Officiers taxateurs
+Susan Wong
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2018-4115(IT)I
+ENTRE :
+IAN SAUNDERS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu sur preuve commune avec les appels d’Andrew Dewit, dossier 2018-4343(IT)I, et de Glen Dunbar, dossier 2018-4411(IT)I, le 6 novembre 2019, à Calgary (Alberta).
+Devant : L’honorable juge Susan Wong
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Me Alexander Wind
+JUGEMENT
+L’appel interjeté à l’encontre de la cotisation établie aux termes de la Loi de l’impôt sur le revenu pour l’année d’imposition 2017 de l’appelant est rejeté sans dépens.
+Signé à Ottawa, Canada, ce 20e jour d’octobre 2020.
+« Susan Wong »
+La juge Wong
+Référence : 2020 CCI 114
+Date : 20201020
+Dossier : 2018-4115(IT)I
+ENTRE :
+IAN SAUNDERS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Wong
+Introduction
+[1] Les appels d’Ian Saunders (2018-4115(IT)I), d’Andrew Dewit (2018-4343(IT)I) et de Glen Dunbar (2018-4411(IT)I) ont été entendus sur preuve commune.
+[2] La question en litige dans ces affaires est de savoir si l’indemnité pécuniaire reçue par chacun des appelants à la suite de l’accueil d’un grief déposé devant la Commission des relations de travail et de l’emploi dans la fonction publique est imposable à titre de revenu pour l’année d’imposition 2017.
+[3] Plus précisément, les appelants affirment que l’indemnité constituait des dommages-intérêts pour préjudice corporel et pour la violation des droits qui leur sont consentis aux termes de leur convention collective. Ils affirment que la somme reçue ne devrait pas être imposée à titre de revenu d’emploi, puisqu’il s’agit d’une indemnité pour préjudice, qui est par conséquent visée par l’exception prévue à l’alinéa 81(1)(g.1) de la Loi de l’impôt sur le revenu.
+Contexte factuel
+Les griefs
+[4] En mai 2016, les appelants ont obtenu gain de cause relativement à des griefs déposés devant la Commission des relations de travail et de l’emploi dans la fonction publique. À cette époque, ils étaient tous des chefs d’équipe expérimentés au sein de la Division du recouvrement des recettes de l’Agence du revenu du Canada.
+[5] Les griefs des appelants portaient sur une politique arbitraire en matière d’heures supplémentaires mise en œuvre par Terry Harder, le nouveau directeur adjoint du bureau des services fiscaux de Calgary, en 2009. Dès la fin de 2010 et jusqu’au début de 2012, les heures supplémentaires étaient uniquement offertes aux chefs d’équipe qui travaillaient déjà dans une section donnée de la Division du recouvrement. Avant l’arrivée de M. Harder, la politique consistait à offrir des heures supplémentaires à tous les chefs d’équipe de la Division du recouvrement, peu importe leur section d’attache. Dans les faits, les appelants n’avaient aucune possibilité d’effectuer des heures supplémentaires aux termes de la nouvelle politique.
+[6] Les appelants ont présenté de nombreuses demandes de renseignements concernant la modification de la politique, et ont manifesté leur intérêt pour faire des heures supplémentaires à de nombreuses occasions, en vain. Les appelants ont décrit le comportement de M. Harder à leur endroit comme de l’intimidation, de l’agressivité et du harcèlement. Ils ont ensuite déposé des griefs dont la Commission a finalement été appelée à décider. Plus précisément, ils affirmaient que leur employeur avait violé une clause de leur convention collective, selon laquelle, entre autres choses, l’employeur [traduction] « s’efforce autant que possible [...] d’offrir le travail supplémentaire de façon équitable entre les employés qualifiés facilement disponibles » [1] .
+[7] L’audience a eu lieu en 2015 et la Commission a accueilli les griefs le 6 mai 2016. La Commission a conclu que M. Harder avait modifié la façon de répartir les heures supplémentaires et qu’en agissant ainsi, l’employeur avait agi de manière arbitraire et enfreint les dispositions sur les heures supplémentaires de la convention collective [2] .
+[8] Le représentant des appelants a demandé une indemnité pour les pertes résultant de la violation par l’employeur de la convention collective. La Commission a accueilli la demande et a laissé aux parties le soin de fixer les montants des indemnités appropriés [3] .
+Négociation de l’indemnité pour les pertes subies par les appelants
+[9] Entre-temps, M. Harder a été promu au poste de directeur; après que la Commission a rendu sa décision, il a cherché à négocier lui-même l’indemnité à accorder, et le représentant des appelants lui a demandé, à un moment donné, de déléguer la tâche à quelqu’un d’autre [4] .
+[10] Durant les négociations, M. Harder a informé les appelants que les indemnités seraient imposables à titre de revenu [5] . De leur côté, les appelants souhaitaient insérer un libellé dans l’accord de règlement selon lequel les indemnités versées constituaient des dommages-intérêts généraux pour préjudice corporel. Dans leur courriel à leur représentant, ils affirment vouloir que ce libellé soit ajouté afin de bien préciser que le règlement constitue des dommages-intérêts non imposables, plutôt qu’un revenu imposable [6] .
+[11] Les parties sont parvenues à une entente et ont signé un protocole d’entente en mars 2017 [7] . M. Dewit a signé un protocole d’entente complémentaire en juillet 2017 concernant un second grief qui avait été suspendu et qui visait une autre période [8] . Le calcul des indemnités était fondé sur un nombre d’heures convenu, multiplié par le taux horaire propre à chaque appelant et par le taux des heures supplémentaires de 1,75. On ne présente les indemnités comme des dommages-intérêts généraux pour préjudice dans aucun des protocoles d’entente.
+Cadre législatif
+[12] À l’alinéa 81(1)(g.1), le législateur décrit le revenu exempté comme un « revenu pour l’année provenant d’un bien acquis par une personne ou à son profit, soit à titre de compensation accordée pour les dommages physiques ou mentaux que cette personne a subis, soit à la suite d’une action en dommages-intérêts intentée pour de tels dommages [...] ».
+[13] Si l’indemnité accordée aux appelants correspond à cette exemption, elle n’est pas imposable à titre de revenu d’emploi.
+Discussion
+[14] Les appelants ont présenté un témoignage bien structuré, et il est manifeste, d’après ce témoignage, d’après la décision de la Commission et d’après la conduite de M. Harder durant les négociations subséquentes pour fixer l’indemnité accordée, que les appelants ont vécu des moments éprouvants et difficiles.
+[15] Même si le contexte a son importance, ce qui compte, c’est ce que les paiements visaient à remplacer, et je ne peux pas conclure que la situation actuelle correspond à une exemption pour préjudice corporel. Je comprends l’argument des appelants selon lequel il existe une différence entre des heures supplémentaires manquées et des offres d’heures supplémentaires manquées. Toutefois, je ne puis admettre que cette distinction entraîne un traitement fiscal différent.
+[16] Dans l’arrêt Tsiaprailis, la Cour suprême du Canada a affirmé qu’il fallait se poser les deux questions suivantes :
+que visait à remplacer le paiement?
+l’élément remplacé aurait-il été imposable pour la personne qui en a bénéficié [9] ?
+[17] Si les appelants avaient accepté une offre d’heures supplémentaires, ils auraient effectué ces heures supplémentaires et auraient été rémunérés pour ces heures. Ils auraient aussi pu rejeter l’offre d’heures supplémentaires. Comme il était impossible de réécrire ces événements passés, l’indemnité accordée a reposé sur un nombre convenu d’heures qui pouvait être supérieur ou inférieur au nombre réel d’heures qu’auraient travaillé les appelants.
+[18] La convention collective était un contrat, et les appelants ont allégué la violation de ce contrat dans leur grief qu’il y a eu violation de ce contrat [10] . Même si le nombre convenu d’heures aurait pu aider à apprécier le caractère raisonnable du compromis, il a également servi de mécanisme de remplacement dans ce cas [11] . L’indemnité ne constituait pas non plus un paiement global de différents chefs de dommages [12] .
+[19] Plus précisément, l’indemnité accordée, fondée sur un nombre d’heures convenu, remplaçait la rémunération que les appelants auraient reçue si on leur avait offert de faire des heures supplémentaires et s’ils avaient accepté cette offre. Ces sommes auraient été imposables à titre de revenu d’emploi dans un premier temps. Si les appelants avaient été indemnisés sous forme de temps compensatoire plutôt que par des rétributions monétaires, je suis d’avis que le congé supplémentaire aurait été un avantage imposable.
+[20] Les appelants ont invoqué la décision de la Cour suprême du Canada dans l’arrêt Schwartz pour appuyer leur argument. Cette affaire portait sur un règlement en argent versé à un avocat pour des pertes après l’annulation d’une offre d’emploi, et sur la question de savoir si le montant versé constituait une allocation de retraite [13] .
+[21] Pour décider de la nature d’une indemnité à des fins fiscales, il faut examiner les faits donnés [14] . En l’espèce, il existe un lien d’emploi, il n’est pas question d’allocations de retraite, et une indemnité a été accordée pour un manquement à une convention collective. Les faits invoqués dans l’arrêt Schwartz sont trop différents pour que cette décision puisse être valable en l’espèce.
+Conclusion
+[22] Les appels sont rejetés, sans dépens.
+Signé à Ottawa, Canada, ce 20e jour d’octobre 2020.
+« Susan Wong »
+La juge Wong
+RÉFÉRENCE :
+2020 CCI 114
+NO DU DOSSIER DE LA COUR :
+2018-4115(IT)I
+INTITULÉ :
+IAN SAUNDERS c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Calgary (Alberta)
+DATE DE L’AUDIENCE :
+Le 6 novembre 2019
+MOTIFS DU JUGEMENT :
+L’honorable juge Susan Wong
+DATE DU JUGEMENT :
+Le 20 octobre 2020
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Me Alexander Wind
+AVOCATE INSCRITE AU DOSSIER :
+Pour l’appelant :
+Nom :
+s. o.
+Cabinet :
+s. o.
+Pour l’intimée :
+Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa, Canada
+[1] Pièce A-4 : Convention entre l’Agence du revenu du Canada et l’Alliance de la fonction publique du Canada, clause 28.05(a).
+[2] Pièce A-2 : Décision de la CDRTEFP, aux paragraphes 73 et 83.
+[3] Pièce A-2 : Décision de la CDRTEFP, au paragraphe 83.
+[4] Pièce A-5 : échange de courriels à partir du 26 septembre 2016 (première page).
+[5] Pièce A-5 : échange de courriels à partir du 26 septembre 2016 (troisième page).
+[6] Pièce A-5 : échange de courriels à partir du 26 septembre 2016 (quatrième page).
+[7] Pièce A-1 : Protocole d’entente.
+[8] Pièce A-9 : Protocole d’entente.
+[9] Arrêt Tsiaprailis c. Canada, 2005 CSC 8, aux paragraphes 7 et 15.
+[10] Décision Frank c. La Reine, 1998 CarswellNat 2534 (CCI), au paragraphe 9.
+[11] Arrêt Tsiaprailis c. Canada, 2005 CSC 8, au paragraphe 55.
+[12] Tsiaprailis c. Canada, 2005 CSC 8, au paragraphe 51.
+[13] Arrêt Schwartz c. Canada, [1996] 1 RCS 254.
+[14] Arrêt Tsiaprailis c. Canada, 2005 CSC 8, au paragraphe 7.

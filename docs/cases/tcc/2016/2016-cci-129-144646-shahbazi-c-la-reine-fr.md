@@ -1,0 +1,162 @@
+---
+title: "Shahbazi c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/144646/index.do"
+last_modified: "2016-05-25"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2016 CCI 129"
+citation2: ""
+neutral_citation: "2016 CCI 129"
+decision_date: "2016-05-25"
+language: "fr"
+item_id: "144646"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3084
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T17:01:48.538000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "026cca9aca384680797fb641e3ae741c7112898565a4cb5a51987e39c77adfc7"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Shahbazi c. La Reine
+
+- Citation: 2016 CCI 129
+- Decision date: 2016-05-25
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3084, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Shahbazi c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2016-05-25
+Référence neutre
+2016 CCI 129
+Numéro de dossier
+2015-5085(IT)I
+Juges et Officiers taxateurs
+Judith Woods
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2015-5085(IT)I
+ENTRE :
+HOSSEIN SHAHBAZI,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE]
+Appel entendu le 18 mai 2016 à Windsor (Ontario)
+Devant : L’honorable juge Judith Woods
+Comparutions :
+Avocat de l’appelant :
+Me Gordon M. Gervais
+Avocats de l’intimée :
+Me Alexander Nguyen
+Me Jack Warren
+JUGEMENT
+Conformément aux motifs du jugement ci-joint, l’appel pour les cotisations des années d’imposition 2006 et 2007 en vertu de la Loi de l’impôt sur le revenu est rejeté.
+Signé à Toronto (Ontario), ce 25e jour de mai 2016.
+« J. Woods »
+La juge Woods
+Référence : 2016 CCI 129
+Date : 20160525
+Dossier : 2015-5085(IT)I
+ENTRE :
+HOSSEIN SHAHBAZI,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+La juge Woods
+[1] Il s’agit d’un appel de M. Hossein Shahbazi en vertu de Loi de l’impôt sur le revenu contestant le rejet de sa demande de crédits d’impôt pour des dons de 20 000 $ et de 15 000 $ faits respectivement au cours des années d’imposition 2006 et 2007.
+Preuve de l’appelant [2] Il suffit de résumer brièvement la preuve de M. Shahbazi.
+[3] En 1983, M. Shahbazi s’est retrouvé dans une situation financière extrêmement difficile. Alors étudiant à Windsor, il recevait de l’aide financière de ses parents, qui vivaient en Iran. Ce soutien financier s’est terminé en 1983, lorsque les transferts de fonds provenant de l’Iran vers le Canada sont devenus impossibles.
+[4] En ces temps de besoin, M. Shahbazi a été hébergé pendant quelques mois par une église presbytérienne de Windsor. En guise de reconnaissance, il a décidé qu’il aiderait son prochain lorsqu’il serait en mesure de le faire.
+[5] En 2006, M. Shahbazi a appris par l’intermédiaire de son comptable, M. Sam Owuzu, qu’il était possible de faire des dons de bienfaisance et qu’un organisme de bienfaisance acceptait les dons en nature, ce qui donnait en plus droit à un avantage fiscal. Le comptable était au courant que M. Shahbazi avait amassé de nombreux biens ménagers après l’abandon, par des locataires, d’unités locatives qu’il possédait. M. Shahbazi a également déclaré qu’il avait acquis d’autres biens lors de ventes de garage.
+[6] Par la suite, l’organisme de bienfaisance International Farm and Relief Mission a communiqué avec M. Shahbazi et a convenu avec lui des modalités de collecte des biens situés dans deux entrepôts différents. M. Shahbazi déclare que les biens ont rempli un camion cube de type U-haul. Ceci s’est déroulé en 2006.
+[7] M. Shahbazi a témoigné que l’organisme lui a dit que les biens étaient évalués à 20 000 $ et lui a remis en retour un reçu officiel du montant correspondant. M. Shahbazi considère qu’il s’agit d’une évaluation raisonnable. Le reçu officiel déposé en preuve indique que le don a été fait le 20 décembre 2006. Le reçu ne précise pas qu’il s’agit d’un don en biens, plutôt qu’un don en espèces.
+[8] En 2007, un arrangement semblable a été fait avec un autre organisme de bienfaisance enregistré. M. Shahbazi déclare que son comptable l’a informé que son don avait été accepté par l’église Triumphant Church of Christ International.
+[9] Le don de 2007 s’est fait de la même façon qu’en 2006. L’organisme de bienfaisance a recueilli les biens et les a évalués à 15 000 $, ce qui était raisonnable selon M. Shahbazi. Le reçu officiel indique qu’il a été émis le 5 février 2008 et que le don a été reçu de janvier à décembre, ce qui placerait la date du don aux alentours de 2007.
+[10] M. Shahbazi déclare qu’il a eu connaissance en 2009 du refus de l’Agence du revenu du Canada (ARC) de prendre en considération ses reçus officiels. Il témoigne que cela a été une surprise pour lui puisqu’il avait auparavant été informé par l’ARC que ses réclamations avaient été autorisées. Une lettre de l’ARC déposée en preuve confirme que le don pour l’année d’imposition 2007 a été autorisé après examen.
+[11] M. Shahbazi a également déposé en preuve une liste des types de biens qu’il a donnés aux deux organismes de bienfaisance. Cette liste contient 31 types de biens et a récemment été préparée à la suggestion de l’avocat de M. Shahbazi.
+Analyse (1) Introduction
+[12] Le présent appel soulève trois questions en litige :
+(a) Est-ce que M. Shahbazi a fait un don de biens d’une valeur de 20 000 $ en 2006 et de 15 000 $ en 2007 aux deux organismes de bienfaisance en question?
+(b) Est-ce que les crédits d’impôt doivent être rejetés en raison du caractère incomplet des reçus officiels?
+(c) Est-ce que l’appel devrait être accueilli pour l’année d’imposition 2006 sur la base que la réponse ne mentionne pas spécifiquement l’organisme de bienfaisance International Farm and Relief Mission?
+[13] Avant d’analyser ces questions, je souhaite faire un commentaire sur la qualité de la preuve de M. Shahbazi. Il ne m’est pas nécessaire en l’espèce de porter une conclusion sur la crédibilité puisque l’appel devrait être rejeté, et ce, même si la preuve de M. Shahbazi est acceptée. Je ne ferai donc pas de conclusions sur la crédibilité; je soulignerai toutefois que la Couronne considère la preuve de M. Shahbazi comme crédible.
+(2) Est-ce que les reçus officiels sont incomplets?
+[14] Pour que les crédits d’impôt réclamés par M. Shahbazi soient autorisés, les reçus officiels fournis au ministre doivent contenir les renseignements prescrits. Cette exigence est prévue par le paragraphe 118.1(2) de la Loi de l’impôt sur le revenu.
+[15] Les renseignements prescrits pertinents en l’espèce sont établis au paragraphe 3501(1) du Règlement de l’impôt sur le revenu. Selon la Couronne, les reçus officiels de l’appelant ne se conforment pas à cette disposition pour trois raisons.
+(a) Premièrement, les reçus ne mentionnent ni la date du don ni la date de l’émission des reçus.
+(b) Deuxièmement, les reçus ne décrivent pas brièvement les biens donnés, ce qui est exigé pour les dons autres qu’en espèces.
+(c) Troisièmement, les reçus ne mentionnent pas le nom ou l’adresse de l’évaluateur, ce qui est exigé au moment d’évaluer la valeur du bien.
+[16] Il est clair que les reçus déposés en preuve ne satisfont pas à ces exigences.
+[17] Il est suffisant ici de se pencher uniquement sur la seconde exigence précitée, selon laquelle le reçu officiel doit contenir une brève description des biens donnés. En l’espèce, les reçus ne contiennent aucune description des biens donnés et ne spécifient même pas si le don est en biens ou en espèces. Il s’agit d’un défaut de conformité clair à l’une des exigences à respecter pour réclamer les crédits d’impôt.
+[18] L’avocat de M. Shahbazi fait valoir qu’il ne devrait pas être nécessaire de se conformer parfaitement au Règlement. Aucune jurisprudence n’a été présentée à cet égard.
+[19] Même s’il est approprié d’avoir une certaine flexibilité dans l’interprétation des exigences à respecter, on ne peut, à mon avis, complètement passer outre à l’exigence d’avoir une brève description du bien donné dans le contexte d’un reçu officiel pour un don autre qu’en espèces. Je note également que le langage utilisé au paragraphe 118.2(1) de la Loi de l’impôt sur le revenu rend la disposition obligatoire. Cette conclusion est également soutenue par le récent jugement The Queen v. Castro, 2015 FCA 225.
+(3) Autres questions
+[20] En raison de la conclusion qui précède, il n’est pas nécessaire de décider si M. Shahbazi a donné des biens de la valeur reflétée par les reçus officiels. Je ne me pencherai pas sur cette question.
+[21] Je ferai cependant un commentaire sur la question procédurale soulevée par l’avocat de M. Shahbazi au début de l’audience. L’avocat fait valoir que l’appel devrait être accueilli pour l’année d’imposition 2006 au motif que la réponse ne mentionne pas l’organisme de bienfaisance International Farm and Relief Mission.
+[22] Il s’agit d’une question d’équité. Après un examen détaillé de la réponse à la suite de l’audience, j’ai conclu que la réponse avise adéquatement M. Shahbazi des exigences à respecter. Il n’y a pas d’iniquité.
+[23] Bien que la réponse ne nomme pas explicitement l’organisme de bienfaisance International Farm and Relief Mission, elle soulève la question de savoir s’il y a réellement eu des dons faits à des organismes de bienfaisance en 2006 et 2007 et si des reçus officiels appropriés ont été remis par des organismes de bienfaisance enregistrés. Cela ressort clairement de l’énoncé des faits et des motifs à l’appui de la réponse.
+[24] Conséquemment, je conclus que l’absence du nom International Farm and Relief Mission dans la réponse n’est pas un motif suffisant pour autoriser l’appel pour l’année d’imposition 2006.
+(4) Conclusion
+[25] Compte tenu de ce qui précède, l’appel est rejeté.
+Signé à Toronto (Ontario), ce 25e jour de mai 2016.
+« J. Woods »
+La juge Woods
+RÉFÉRENCE :
+2016 CCI 129
+No DU DOSSIER DE LA COUR :
+2015-5085(IT)I
+INTITULÉ :
+HOSSEIN SHAHBAZI c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Windsor (Ontario)
+DATE DE L’AUDIENCE :
+Le 18 mai 2016
+MOTIFS DU JUGEMENT :
+L’honorable juge Judith Woods
+DATE DU JUGEMENT :
+Le 25 mai 2016
+COMPARUTIONS :
+Avocat de l’appelant :
+Me Gordon M. Gervais
+Avocats de l’intimée :
+Me Alexander Nguyen
+Me Jack Warren
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Me Gordon M. Gervais
+Cabinet :
+Me Gordon M. Gervais
+Windsor (Ontario)
+Pour l’intimée :
+Me William F. Pentney
+Sous-procureur général du Canada
+Ottawa (Canada)

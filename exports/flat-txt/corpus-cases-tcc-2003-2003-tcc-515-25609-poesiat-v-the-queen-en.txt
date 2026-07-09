@@ -1,0 +1,120 @@
+Title: Poesiat v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/25609/index.do
+Corpus path: corpus/cases/tcc/2003/2003-tcc-515-25609-poesiat-v-the-queen-en.md
+Document type: case_law
+Last modified: 2003-09-05
+
+# Poesiat v. The Queen
+
+- Citation: 2003 TCC 515
+- Decision date: 2003-09-05
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2417, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Poesiat v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-09-05
+Neutral citation
+2003 TCC 515
+File numbers
+2002-4898(IT)I
+Judges and Taxing Officers
+Judith Woods
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2002-4898(IT)I
+BETWEEN:
+ANYA POESIAT,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on July 7, 2003 at Toronto, Ontario
+By: The Honourable Justice J.M. Woods
+Appearances:
+Counsel for the Appellant:
+Norman M. Chorney
+Counsel for the Respondent:
+John Grant
+____________________________________________________________________
+JUDGMENT
+The appeal in respect of the assessment made under the Income Tax Act for the 2000 taxation year is dismissed.
+Signed at Ottawa, Canada this 5th day of September, 2003.
+"J.M. Woods"
+J.M. Woods J.
+Citation: 2003TCC515
+Date: 20030905
+Docket: 2002-4898(IT)I
+BETWEEN:
+ANYA POESIAT,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Woods J.
+[1] Ms. Anya Poesiat appeals an income tax assessment for the 2000 taxation year that disallowed a medical expense tax credit in respect of the purchase of homeopathic medicine.
+[2] The appeal was heard under the Court's Informal Procedure.
+Facts
+[3] Ms. Poesiat was a primary school teacher for 28 years. She retired in 1991 because she was severely affected by chronic fatigue syndrome.
+[4] Ms. Poesiat's symptoms are greatly relieved by homeopathic medicine prescribed by her doctors. In the relevant taxation year, much of the medicine was purchased at a health food store, Food For Life. However, one product that was quite expensive was only available directly from a distributor for the manufacturer.
+[5] In the 2000 taxation year, Ms. Poesiat incurred $10,041.12 for homeopathic medicine and claimed this amount as a medical expense for purposes of the medical expense tax credit in section 118.2 of the Income Tax Act, R.S.C. 1985 (5th Supp.), c. 1 (the "Act").
+[6] The Minister of National Revenue (the "Minister") took the position that these expenditures were not "medical expenses" because they were not the type of medicine described in paragraph 118.2(2)(n) as they were not recorded by a pharmacist.
+[7] Ms. Poesiat had been allowed the tax credit for this type of medicine for taxation years prior to 2000. After the Minister communicated this new position, Ms. Poesiat purchased medicine at a pharmacist at considerably higher prices in order to clearly qualify for the tax credit.
+Statutory Provision
+[8] Paragraph 118.2(2)(n) of the Act reads:
+(2) For the purposes of subsection (1), a medical expense of an individual is an amount paid ...
+(n) for drugs, medicaments or other preparations or substances (other than those described in paragraph (k)) manufactured, sold or represented for use in the diagnosis, treatment or prevention of a disease, disorder, abnormal physical state, or the symptoms thereof or in restoring, correcting or modifying an organic function, purchased for use by the patient as prescribed by a medical practitioner or dentist and as recorded by a pharmacist;
+Submissions of Parties
+[9] Counsel for Ms. Poesiat submits that the Tax Court of Canada has been sympathetic to taxpayers in similar circumstances. In particular, the Court has recently interpreted the words "recorded by a pharmacist" in paragraph 118.2(2)(n) to include a record on a pharmacist's sales slip and has held that it is not necessary for the drugs to be available only through prescription: Frank v. R., [2001] 3 C.T.C. 2596 (T.C.C.) and Pagnotta v. R., [2001] 4 C.T.C. 2613 (T.C.C.). A recent decision of O'Connor J. goes even further and finds that the requirement to be recorded by a pharmacist is not necessary if "the medications are prescribed by a doctor and they make the difference between life and death or functioning or not functioning:" Ray v. R., [2002] 4 C.T.C. 2590 (T.C.C.).
+[10] Counsel for Ms. Poesiat also submits that the Minister should be estopped from denying the tax credit for the 2000 taxation year because the allowance of the tax credit for prior years had led Ms. Poesiat to believe that it was not necessary to purchase medicine through a pharmacist.
+[11] The essence of the Crown's submission is that the Ray decision is incorrect and that the Frank and Pagnotta decisions are questionable in light of dicta in Dunn v. The Queen, 2003 DTC 5029 (F.C.A.). In an oral judgment in Dunn, Rothstein J. A. stated:
+[6] Although we do not need to decide the point, it would appear that the requirement that medications be recorded by a pharmacist may be to limit the entitlement to payments for medications that are only available upon prescription as opposed to over the counter or other medications. In this case the Tax Court Judge found that the medications provided were not available through regular pharmacies or other medical supply sources and upon our review of the record, it is certainly not obvious that the medications prescribed were prescription drugs.
+[12] The Crown agrees that the disallowance of the tax credit in situations such as this appears harsh and referred to the following passage in a decision of Bowman A.C.J. in Banman v. R., [2001] 2 C.T.C. 2111:
+[6] Sooner or later, however, I think the government is going to have to face the fact that homeopathic medicines, alternative forms of treatment, herbs, natural healing, that sort of thing are so prevalent it should consider an amendment to the Income Tax Act that would permit a tax credit in respect of these things. The appellant is a very good example of a person who has used alternative methods successfully. I am sorry that I can't give her any relief, but I do commend her for her courage in coming to the court.
+Analysis
+[13] The issue is whether it is necessary to purchase medicines through a pharmacy in order to claim the medical expense tax credit. In order for the purchase of medicines outside a pharmacy to qualify for the tax credit, it is necessary to ignore the concluding words in paragraph 118.2(2)(n), "recorded by a pharmacist." Regrettably I find that the words should be given some meaning. It is a well established principle of statutory construction that courts should endeavour, where possible, to attribute meaning to each word in a statute: Morguard Properties Ltd. v. City of Winnipeg (1983), 3 D.L.R. (4th) 1 (S.C.C.). The meaning of the words "recorded by a pharmacist" is unclear but it is possible to attribute meaning to them and accordingly I find that the purchase of medicine outside a pharmacy does not qualify as a medical expense for purposes of paragraph 118.2(2)(n).
+[14] The recent decision of Bowie J. in Claussen Estate v. R., [2003] 2 C.T.C. 2363 (T.C.C.) considered the inconsistencies in prior cases. Mr. Justice Bowie's reasoning, with which I agree, is as follows:
+[6] I accept that the concluding words of paragraph 118.2(2)(n) of the Act, considered in its context as part of a series of provisions designed to provide a measure of relief from the burden of income tax to people who suffer, or as in this case whose dependants suffer, from illness, is capable of more than one meaning. Conceivably, it might refer to the requirement imposed upon a pharmacist who fills a prescription for a Schedule F drug under the Food and Drug Regulations to maintain a record of the prescriptions filled. This seems unlikely, however, as paragraph (n) refers to substances that would certainly fall outside Schedule F. It might refer to the requirement under provincial statute law that pharmacists maintain a record for each patient of the prescriptions filled, or it might, as the cases I have referred to have found, refer simply to the recording by the cash register of a sale of a product falling within the description found in paragraph (n). However, it must mean something. With due respect to Judge O'Connor, it is not, in my view, open to this Court simply to write the words out of the statute because their meaning is unclear. Iacobucci J. makes it clear in Bell Express Vu that if ambiguity is found, the Court must then go on to resolve that ambiguity through external aids to interpretation and the canons of construction. It is a fundamental canon of construction that words in a statute not be rendered nugatory. It is not necessary, however, for me to decide whether Judges Teskey and Miller were correct in their conclusion that a sale by a pharmacy is all that is required to satisfy paragraph (n); I am unable to find that a purchase which does not involve a pharmacy or a pharmacist can qualify.
+[15] There remains to be considered Ms. Poesiat's submission that the Minister should be estopped from denying the tax credit for the 2000 taxation year because the tax credit had been allowed for several previous years. This argument cannot succeed. A representation by the Minister regarding an interpretation of the Act for one taxation year is not binding on later taxation years: Ludmer v. The Queen, 95 DTC 5311 (F.C.A.).
+[16] For the foregoing reasons, the appeal is dismissed.
+Signed at Ottawa, Canada this 5th day of September, 2003.
+"J. M. Woods"
+J.M. Woods J.
+CITATION:
+2003TCC515
+COURT FILE NO.:
+2002-4898(IT)I
+STYLE OF CAUSE:
+Anya Poesiat v. Her Majesty the Queen
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+July 7, 2003
+REASONS FOR JUDGMENT BY:
+The Honourable Justice J.M. Woods
+DATE OF JUDGMENT:
+September 5, 2003
+APPEARANCES:
+Counsel for the Appellant:
+Norman M. Chorney
+Counsel for the Respondent:
+John Grant
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Norman M. Chorney
+Firm:
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

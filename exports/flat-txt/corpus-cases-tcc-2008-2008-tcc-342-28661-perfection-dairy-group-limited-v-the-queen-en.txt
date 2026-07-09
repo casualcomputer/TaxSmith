@@ -1,0 +1,224 @@
+Title: Perfection Dairy Group Limited v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28661/index.do
+Corpus path: corpus/cases/tcc/2008/2008-tcc-342-28661-perfection-dairy-group-limited-v-the-queen-en.md
+Document type: case_law
+Last modified: 2008-06-10
+
+# Perfection Dairy Group Limited v. The Queen
+
+- Citation: 2008 TCC 342
+- Decision date: 2008-06-10
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1125, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Perfection Dairy Group Limited v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-06-10
+Neutral citation
+2008 TCC 342
+File numbers
+2006-2954(GST)I
+Judges and Taxing Officers
+Wyman W. Webb
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2006-2954(GST)I
+BETWEEN:
+PERFECTION DAIRY GROUP LIMITED,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on May 12, 2008, at Halifax, Nova Scotia
+Before: The Honourable Justice Wyman W. Webb
+Appearances:
+Counsel for the Appellant:
+Bruce S. Russell, Q.C.
+Counsel for the Respondent:
+Deanna M. Frappier
+____________________________________________________________________
+JUDGMENT
+The appeal under the Excise Tax Act from the assessment No. 01DC0010069 dated December 12, 2001 is allowed, without costs, and the matter is referred back to the Minister of National revenue for reconsideration and reassessment on the basis that the Appellant is entitled to claim an input tax credit of $23,702.66 in relation to the GST paid on the professional fees in 1998. Since the penalty that had been imposed under section 280 of the Excise Tax Act was based on this input tax credit having been denied, this penalty is quashed.
+Signed at Halifax, Nova Scotia, this 10th day of June 2008.
+“Wyman W. Webb”
+Webb J.
+Citation: 2008TCC342
+Date: 20080610
+Docket: 2006-2954(GST)I
+BETWEEN:
+PERFECTION DAIRY GROUP LIMITED,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Webb J.
+[1] This appeal relates to a claim under the Excise Tax Act (“Act”) for input tax credits related to GST paid on professional services in 1998. The total amount of the input tax credits that were denied is $23,702.66. A penalty was also imposed pursuant to section 280 of the Act, as it read in 1998, in relation to the denied input tax credits.
+[2] The Appellant, Perfection Dairy Group Limited, is the parent company of Perfection Foods Ltd. (“PFL”). PFL was in the dairy products business and operated from Charlottetown, Prince Edward Island. The business was started in 1921 and over the years grew significantly. At one time, the business employed 350 people and processed milk that it received from 450 farms. At its peak the company had annual sales of $75 to $80 million. In 1991 PFL went into receivership and then subsequently went into bankruptcy.
+[3] When PFL was operating, the Appellant provided management services to PFL and would be paid for these services. Following the receivership, the Appellant carried on a consulting business but the revenue from its consulting business following the receivership and bankruptcy of PFL was significantly less than the management fees that it received from PFL. In 1998 the total revenue of the Appellant from consulting fees was only $14,207.
+[4] There were a number of legal issues related to the receivership and bankruptcy of PFL. The main issue is the lawsuit that was filed in 1996 (“Legal Action”). This action was commenced in the Supreme Court of Prince Edward Island (Trial Division - General Section). The named plaintiffs in the Legal Action were John Alfred Simmonds, Perfection Group Limited, and Perfection Dairy Group Limited. There are a number of defendants including the Province of Prince Edward Island. The Statement of Claim is 36 pages and contains 97 paragraphs. The plaintiffs are claiming $30,000,000 in general damages, $20,000,000 in special damages and $10,000,000 (or such greater or lesser sum as may be allowed) as aggravated, punitive and exemplary damages. The professional fees incurred in 1998 were related to the Legal Action.
+[5] The Respondent, during the hearing, questioned whether PFL - In Bankruptcy was indirectly a party to the lawsuit. In the Amended Reply that was filed, paragraph 12 j) stated as follows:
+12. In determining the appellant's tax liability for the period ending December 31, 1998, the Minister made the following assumptions of fact:
+…
+j) in September of 1996, the Appellant, along with Perfection Group Limited, John Alfred Simmonds, and John Alfred Simmonds on behalf of Foods -- In Bankruptcy, filed a Statement of Claim in the Supreme Court of Prince Edward Island in relation to the bankruptcy of Foods (the “Legal Action”);
+[6] At the hearing counsel for the Respondent stated that she was no longer relying on this assumption and instead submitted that PFL - In Bankruptcy was not a party to the lawsuit.
+[7] Paragraph 3 of the Statement of Claim provided, in part, that:
+…the plaintiff John Alfred Simmonds (hereinafter called “Jack Simmonds”) is a business person residing in York Point, in the County of Queens in the Province of Prince Edward Island. Jack Simmonds is authorized to take this proceeding in his own name and at his own expense and risk, by order of the Supreme Court of Prince Edward Island, pursuant to section 38 of the Bankruptcy and Insolvency Act, R.S.C. 1985, c. B-3, and the trustee of the estate of Perfection Foods has assigned and transferred to Jack Simmonds all the trustee's rights, title and interest in the chose in action or subject matter of this proceeding, including any documents in support thereof, pursuant to section 38 of the Bankruptcy and Insolvency Act, supra. Jack Simmonds takes this proceeding on behalf of Perfection Foods Limited -- In Bankruptcy pursuant to the foregoing, as well as on his own behalf and for his own personal benefit.
+[8] Counsel for the Respondent introduced into evidence a copy of the order issued by the Supreme Court of Prince Edward Island In Bankruptcy, which confirmed that John Alfred Simmonds was authorized under section 38 of the Bankruptcy and Insolvency Act to take the proceeding against the defendants in the Legal Action in his own name and at his own expense and risk.
+[9] Section 38 of the Bankruptcy and Insolvency Act provides as follows:
+38. (1) Where a creditor requests the trustee to take any proceeding that in his opinion would be for the benefit of the estate of a bankrupt and the trustee refuses or neglects to take the proceeding, the creditor may obtain from the court an order authorizing him to take the proceeding in his own name and at his own expense and risk, on notice being given the other creditors of the contemplated proceeding, and on such other terms and conditions as the court may direct.
+(2) On an order under subsection (1) being made, the trustee shall assign and transfer to the creditor all his right, title and interest in the chose in action or subject-matter of the proceeding, including any document in support thereof.
+(3) Any benefit derived from a proceeding taken pursuant to subsection (1), to the extent of his claim and the costs, belongs exclusively to the creditor instituting the proceeding, and the surplus, if any, belongs to the estate.
+(4) Where, before an order is made under subsection (1), the trustee, with the permission of the inspectors, signifies to the court his readiness to institute the proceeding for the benefit of the creditors, the order shall fix the time within which he shall do so, and in that case the benefit derived from the proceeding, if instituted within the time so fixed, belongs to the estate.
+(emphasis added)
+[10] Subsection 38(3) the Bankruptcy and Insolvency Act makes it clear that any surplus (which is any amount in excess of the amount of John Simmonds’ claim against PFL plus his costs) realized as a result of PFL’s claim under the Legal Action will belong to the estate, which would be PFL - In Bankruptcy. Therefore PFL – In Bankruptcy will benefit from the Legal Action to the extent that the amount realized for PFL’s claim exceeds John Simmonds’ claim against PFL plus his costs. There was no evidence with respect to the amount of John Simmonds’ claim against PFL.
+[11] Since the Respondent is changing her position with respect to whether PFL ‑ In Bankruptcy is a party to the Legal Action, the onus of establishing any facts that may be required in relation to this, will rest with the Respondent.
+[12] In Loewen 2004 FCA 146, Justice Sharlow, on behalf of the Federal Court of Appeal, made the following comments:
+11 The constraints on the Minister that apply to the pleading of assumptions do not preclude the Crown from asserting, elsewhere in the reply, factual allegations and legal arguments that are not consistent with the basis of the assessment. If the Crown alleges a fact that is not among the facts assumed by the Minister, the onus of proof lies with the Crown. This is well explained in Schultz v. R. (1995), [1996] 1 F.C. 423, [1996] 2 C.T.C. 127, 95 D.T.C. 5657 (Fed. C.A.) (leave to appeal refused, [1996] S.C.C.A. No. 4 (S.C.C.)).
+(emphasis added)
+[13] Leave to appeal the decision of the Federal Court of Appeal in Loewen to the Supreme Court of Canada was refused (338 N.R. 195 (note)).
+[14] For the purposes of this case, the issue is whether PFL – In Bankruptcy has any claim arising as a result of the termination of its business and which is reflected in the Legal Action. The Respondent could have established that PFL ‑ In Bankruptcy does not have any claim under the Legal Action if the amount of John Simmonds’ claim against PFL plus his costs is equal to or exceeds the amount being claimed by PFL in the Legal Action. Since there was no evidence of the amount of John Simmonds’ claim against PFL nor was there any evidence of his costs, the Respondent has failed to establish that the amount of his claim against PFL together with his costs exceeds the amount being claimed by PFL in the Legal Action. Therefore, for the purposes of this case, I assume that PFL ‑ In Bankruptcy has a claim under the Legal Action.
+[15] Counsel for the Respondent had suggested that PFL was not claiming damages for lost income in the Legal Action. However the very significant claims of $30,000,000 for general damages and $20,000,000 for special damages would undoubtedly include a claim for lost income of PFL. The Legal Action arises as a result of the loss by PFL of its dairy product business. It is therefore logical to assume that the significant part of the amounts claimed would be for the lost income of PFL.
+[16] The Appellant submitted that it was entitled to the full input tax credit of $23,702.66 for GST paid in relation to the professional fees in 1998 pursuant to subsection 169(1) of the Act on the basis that these were incurred in relation to the consulting business that the Appellant was carrying on in that year.
+[17] Subsection 169(1) of the Act provides as follows:
+169. (1) Subject to this Part, where a person acquires or imports property or a service or brings it into a participating province and, during a reporting period of the person during which the person is a registrant, tax in respect of the supply, importation or bringing in becomes payable by the person or is paid by the person without having become payable, the amount determined by the following formula is an input tax credit of the person in respect of the property or service for the period:
+A × B
+where
+A is the tax in respect of the supply, importation or bringing in, as the case may be, that becomes payable by the person during the reporting period or that is paid by the person during the period without having become payable; and
+B is
+(a) where the tax is deemed under subsection 202(4) to have been paid in respect of the property on the last day of a taxation year of the person, the extent (expressed as a percentage of the total use of the property in the course of commercial activities and businesses of the person during that taxation year) to which the person used the property in the course of commercial activities of the person during that taxation year,
+(b) where the property or service is acquired, imported or brought into the province, as the case may be, by the person for use in improving capital property of the person, the extent (expressed as a percentage) to which the person was using the capital property in the course of commercial activities of the person immediately after the capital property or a portion thereof was last acquired or imported by the person, and
+(c) in any other case, the extent (expressed as a percentage) to which the person acquired or imported the property or service or brought it into the participating province, as the case may be, for consumption, use or supply in the course of commercial activities of the person.
+(emphasis added)
+[18] Subsection 169(1) of the Act cannot be read in isolation. Section 141.01 of the Act provides, in part, that:
+141.01 (1) In this section, “endeavour” of a person means
+(a) a business of the person;
+(b) an adventure or concern in the nature of trade of the person; or
+(c) the making of a supply by the person of real property of the person, including anything done by the person in the course of or in connection with the making of the supply.
+(1.1) In subsections (1.2), (2) and (3), “consideration” does not include nominal consideration.
+…
+(2) Where a person acquires or imports property or a service or brings it into a participating province for consumption or use in the course of an endeavour of the person, the person shall, for the purposes of this Part, be deemed to have acquired or imported the property or service or brought it into the province, as the case may be,
+(a) for consumption or use in the course of commercial activities of the person, to the extent that the property or service is acquired, imported or brought into the province by the person for the purpose of making taxable supplies for consideration in the course of that endeavour; and
+(b) for consumption or use otherwise than in the course of commercial activities of the person, to the extent that the property or service is acquired, imported or brought into the province by the person
+(i) for the purpose of making supplies in the course of that endeavour that are not taxable supplies made for consideration, or
+(ii) for a purpose other than the making of supplies in the course of that endeavour.
+(3) Where a person consumes or uses property or a service in the course of an endeavour of the person, that consumption or use shall, for the purposes of this Part, be deemed to be
+(a) in the course of commercial activities of the person, to the extent that the consumption or use is for the purpose of making taxable supplies for consideration in the course of that endeavour; and
+(b) otherwise than in the course of commercial activities of the person, to the extent that the consumption or use is
+(i) for the purpose of making supplies in the course of that endeavour that are not taxable supplies made for consideration, or
+(ii) for a purpose other than the making of supplies in the course of that endeavour.
+(4) Where
+(a) a supplier makes a taxable supply (in this subsection referred to as a “free supply”) of property or a service for no consideration or nominal consideration in the course of a particular endeavour of the supplier, and
+(b) it can reasonably be regarded that among the purposes (in this subsection referred to as the “specified purposes”) for which the free supply is made is the purpose of facilitating, furthering or promoting
+(i) the acquisition, consumption or use of other property or services by any other person, or
+(ii) an endeavour of any person,
+the following rules apply:
+(c) to the extent that the supplier acquired or imported a particular property or service or brought it into a participating province for the purpose of making the free supply of that property or service or for consumption or use in the course of making the free supply, the supplier shall be deemed, for the purposes of subsection (2), to have acquired or imported the particular property or service or brought it into the province, as the case may be,
+(i) for use in the course of the particular endeavour, and
+(ii) for the specified purposes and not for the purpose of making the free supply, and
+(d) to the extent that the supplier consumed or used a particular property or service for the purpose of making the free supply, the supplier shall be deemed, for the purposes of subsection (3), to have consumed or used the particular property or service for the specified purposes and not for the purpose of making the free supply.
+(5) The methods used by a person in a fiscal year to determine
+(a) the extent to which properties or services are acquired, imported or brought into a participating province by the person for the purpose of making taxable supplies for consideration or for other purposes, and
+(b) the extent to which the consumption or use of properties or services is for the purpose of making taxable supplies for consideration or for other purposes,
+shall be fair and reasonable and shall be used consistently by the person throughout the year.
+(6) Where
+(a) a particular provision of this Part, other than subsections (2) to (4), deems certain circumstances or facts to exist, and
+(b) that deeming is dependent, in whole or in part, on the particular circumstance that property or a service is or was consumed or used, or acquired, imported or brought into a participating province for consumption or use, to a certain extent in the course of, or otherwise than in the course of, commercial activities or other activities,
+that certain extent shall be determined under subsection (2) or (3), as the case requires, for the purpose of determining whether the particular circumstance exists, but where it is so determined that the particular circumstance exists and all other circumstances necessary for the particular provision to apply exist, the deeming by the particular provision shall apply notwithstanding subsections (2) and (3).
+(7) Where a provision of this Part deems the consideration for a supply not to be consideration for the supply, a supply to be made for no consideration or a supply not to have been made by a person, that deeming shall not apply for the purposes of any of subsections (1) to (4).
+[19] In Blanchard o/a Four Pillar Financial v. The Queen, [2001] T.C.J. No. 484, [2001] G.S.T.C. 94, Justice Bowie described the interaction of sections 169 and 141.01 of the Act as follows:
+19 The result of finding there to be only one business is that the entitlement to ITCs falls to be determined under sections 169, 141 and 141.01 of the Act. Complex though these are, they may be summarized this way. Entitlement to ITCs arises only to the extent that goods and services tax has been paid on property or services that have been acquired for the purpose of making taxable supplies for consideration.
+[20] In BJ Services Company Canada v. The Queen, [2002] G.S.T.C. 124, 2003 G.T.C. 513, Justice C. Miller did not find that the provisions of subsection 141.01 of the Act were to be interpreted as a general rule. He stated that:
+61 Section 141.01 does not explicitly state that it is, nor that it is intended to serve as, a general rider on the definition of commercial activity. I do not interpret it as requiring a purpose test before any input can be found to have been incurred in the course of commercial activity. It is simply meant to apportion inputs of a taxpayer who makes a combination of taxable supplies and exempt supplies or a taxpayer who incurs inputs for the purpose of making taxable supplies and for a purpose other than making supplies. In those circumstances, a specific input must be apportioned.
+62 Frankly, I have concluded that the legislators did not contemplate this specific type of input in drafting section 141.01. Nothing in the releases or explanatory notes gives any clue that they did. These clarifying materials confirm Parliament's intent was to apportion an input, not to determine whether the whole input is or is not eligible for the ITC. I find that the stringent purpose test contained in section 141.01 is not applicable to Nowsco's case and, therefore, does not alter a finding that the fees were incurred in the course of commercial activity. To deny ITCs to a company such as Nowsco, that only made taxable supplies, for inputs such as financial advisory fees incurred in a hostile takeover scenario, the legislation should be explicit and not left to cross-referencing and implication.
+[21] Justice C. Miller based his conclusion on the press release from the Department of Finance and the Explanatory Notes released with the legislation. However, the plain wording of section 141.01 suggests that it is a rule of general application and in Haggart v. The Queen, 2003 TCC 185, 2003 G.T.C. 739, [2003] G.S.T.C. 71 (affirmed on appeal by the Federal Court of Appeal, 2003 FCA 446, 2004 G.T.C. 1057, [2003] G.S.T.C. 174), discussed further below, it appears that Justice Little applied the provisions of section 141.01 of the Act as a general rule. For the purposes of this case, it is not necessary to deal with this any further as Justice C. Miller noted that “[i]t is simply meant to apportion inputs of a taxpayer … who incurs inputs for the purpose of making taxable supplies and for a purpose other than making supplies”. This is the situation in this case.
+[22] John Simmonds stated, and I accept his testimony, that the reputation of the Appellant was damaged as a result of the receivership and bankruptcy of PFL and winning the Legal Action would help to restore the Appellant’s credibility in the marketplace. Credibility is important in a consulting business.
+[23] The main business of the Appellant and PFL prior to the receivership of PFL was the dairy products business. Although the Appellant received management fees from PFL prior to 1990, it only received these because PFL was carrying on the dairy products business. It was the loss of the dairy products business that is the main source of the claim in the Legal Action.
+[24] The fees in 1998 must have been $338,609.42 to generate GST of $23,702.66 at 7%. This is a significant expenditure compared to a consulting business that only had $14,207 in revenue in 1998. John Simmonds stated that the Appellant was managing the Legal Action on behalf of all of the plaintiffs. It seems logical that the principal claimant would be PFL – In Bankruptcy as the claim relates to the termination of PFL’s business. Therefore it seems logical that the professional fees were largely incurred in relation to the claim by PFL ‑ In Bankruptcy under the Legal Action. Therefore while the professional fees may well have been incurred in part for the purposes of making taxable supplies of consulting services, they were mainly incurred for another purpose – to fund the claim of PFL - In Bankruptcy against the defendants.
+[25] If these were the only relevant sections of the Act, the Appellant could not succeed. In Haggart, the issue was whether the Appellant in that case, who was the principal shareholder of Haggart Construction Ltd., could claim input tax credits for GST spent as a result of legal fees incurred in pursuing an action against the CIBC for damages arising as a result of CIBC calling the loan and forcing the corporation to discontinue its business. Mr. Haggart and his company were successful in their action against the CIBC. In his decision, Justice Little made the following comments:
+22 In considering the application of section 169 of the Act, I do not believe it could be said that the Appellant commenced the Court Action or paid the legal fees for the purpose of making or producing taxable supplies.
+(emphasis added by Justice Little)
+[26] Subsection 169(1) of the Act does not require that the legal fees be paid “for the purpose of making or producing taxable supplies”. The only requirement of subsection 169(1) of the Act is that the services be acquired “for consumption, use or supply in the course of commercial activities of the person”.
+[27] “Commercial activity” is defined in section 123 of the Act as follows:
+“commercial activity” of a person means
+(a) a business carried on by the person (other than a business carried on without a reasonable expectation of profit by an individual, a personal trust or a partnership, all of the members of which are individuals), except to the extent to which the business involves the making of exempt supplies by the person,
+(b) an adventure or concern of the person in the nature of trade (other than an adventure or concern engaged in without a reasonable expectation of profit by an individual, a personal trust or a partnership, all of the members of which are individuals), except to the extent to which the adventure or concern involves the making of exempt supplies by the person, and
+(c) the making of a supply (other than an exempt supply) by the person of real property of the person, including anything done by the person in the course of or in connection with the making of the supply;
+[28] Business is defined in section 123 of the Act as follows:
+“business” includes a profession, calling, trade, manufacture or undertaking of any kind whatever, whether the activity or undertaking is engaged in for profit, and any activity engaged in on a regular or continuous basis that involves the supply of property by way of lease, licence or similar arrangement, but does not include an office or employment;
+[29] Neither the definition of “commercial activity” in section 123 of the Act nor the definition of “business” in section 123 of the Act include a specific requirement that the person must be making taxable supplies. While a person will not be carrying on a commercial activity to the extent that the person is making exempt supplies, there is no explicitly stated requirement that the person must be making taxable supplies in these definitions.
+[30] A “taxable supply” is defined in section 123 of the Act as “a supply that is made in the course of a commercial activity”. Therefore it would be a circular requirement if the definition of “commercial activity” required a person to make taxable supplies, which by definition are supplies made in the course of a commercial activity.
+[31] The requirement that the property or service be acquired for the purpose of making taxable supplies in order to claim an input tax credit is explicitly added by subsections 141.01(2) and (3) of the Act. By referring to this purpose it appears that Justice Little is applying the provisions of section 141.01 of the Act as a rule of general application.
+[32] In the Federal Court of Appeal decision in Haggart, Justice Evans stated that:
+2 Although the Applicant restarted his business as a sole proprietorship, he has not established a connection, direct or indirect, between the purchase of the legal services and any ongoing supply of taxable services. Hence, the legal services were not purchased “in the course of commercial activities” of the Applicant for the purpose of subsection 169(1) of the Excise Tax Act, R.S.C. 1985, c. E-15, and, if subsection 140.01(2)* applies, the services were not purchased “for the purpose of making taxable supplies in the course of that endeavour”.
+[33] It appears that the reference to 140.01(2) should have been to 141.01(2) of the Act. Since, as noted above, the requirement that property or services be acquired for the purpose of making taxable supplies is explicitly added by section 141.01, it appears in the first sentence from the paragraph quoted above, that the Federal Court of Appeal is impliedly stating that the provisions of section 141.01 of the Act are a rule of general application. However, the last sentence refers to “if subsection [sic] 140.01(2) applies” which suggests that it may not be a rule of general application.
+[34] However, there is a significant difference between the facts in Haggart and the present case. In Haggart the input tax credit was claimed by an individual (David Haggart) while in this case the Appellant is a corporation. Subsection 186(1) of the Act provides that:
+186. (1) Where
+(a) a registrant (in this subsection referred to as the “parent”) that is a corporation resident in Canada at any time acquires, imports or brings into a participating province particular property or a service that can reasonably be regarded as having been so acquired, imported or brought into the province for consumption or use in relation to shares of the capital stock, or indebtedness, of another corporation that is at that time related to the parent, and
+(b) at the time that tax in respect of the acquisition, importation or bringing in becomes payable, or is paid without having become payable, by the parent, all or substantially all of the property of the other corporation is property that was last acquired or imported by the other corporation for consumption, use or supply by the other corporation exclusively in the course of its commercial activities,
+except where subsection (2) applies, for the purpose of determining an input tax credit of the parent, the parent is deemed to have acquired or imported the particular property or service or brought it into the participating province, as the case may be, for use in the course of commercial activities of the parent to the extent that the parent can reasonably be regarded as having so acquired or imported the particular property or service, or as having so brought it into the province, for consumption or use in relation to the shares or indebtedness.
+[35] This subsection is available to the Appellant, as a corporation, (provided that the other conditions of this subsection are satisfied) but was not applicable to Mr. Haggart.
+[36] Throughout 1998 the Appellant was a registrant. The Appellant owned all of the shares of PFL in 1998 and therefore PFL was related to the Appellant in 1998. The Appellant’s investment in PFL would have been wiped out by the loss of PFL’s business. Funding the professional fees would be in relation to the shares and indebtedness of PFL since the Legal Action, if successful, would have a direct impact on the value of the shares of PFL and its ability to repay its indebtedness to the Appellant. As PFL is in bankruptcy it cannot fund the Legal Action. This responsibility therefore would fall to its sole shareholder. John Simmonds stated, and I accept his testimony, that if the plaintiffs are successful in the Legal Action, that it is their intention to cause PFL to reestablish its dairy product business. The professional fees incurred in 1998 were in relation to the Legal Action, which, if successful, would result in PFL resuming its dairy product business and result in a significant increase in the value of the shares of PFL and the value of the indebtedness of PFL to the Appellant. Therefore the professional fees can reasonably be regarded as having been acquired for consumption in relation to the shares or indebtedness of PFL.
+[37] The next issue is whether the provisions of paragraph 186(1)(b) of the Act are satisfied. This requires an analysis of the property of PFL in 1998. The only assets of PFL in 1998 were some office furniture, pictures, and other miscellaneous assets (“Miscellaneous Assets”) that were returned by the trustee in bankruptcy when the trustee was discharged in 1993 and the claim of PFL - In Bankruptcy under the Legal Action.
+[38] The Miscellaneous Assets returned by the trustee in bankruptcy were all assets that had been acquired by PFL when it was carrying on the dairy products business and were assets that were used by PFL in carrying on its business. Paragraph 265(1)(c) of the Act provides that:
+265. (1) For the purposes of this Part, where on a particular day a person becomes a bankrupt,
+…
+(c) the property and money of the person immediately before the particular day shall be deemed not to pass to and be vested in the trustee in bankruptcy on the bankruptcy order being made or the assignment in bankruptcy being filed but to remain vested in the bankrupt;
+[39] The bankruptcy of PFL, therefore, does not change the timing of the acquisition of the Miscellaneous Assets. There was no suggestion that the miscellaneous assets had passed to the receiver. The only issue related to the possible passing of the assets to the trustee in bankruptcy and then back to PFL on the discharge of the trustee in bankruptcy.
+[40] Therefore the Miscellaneous Assets are assets that were last acquired by PFL for use by PFL exclusively in the course of its commercial activities. The only other asset of PFL in 1998 is its claim under the Legal Action. This Legal Action, as noted above, arises as a result of the termination of the business of PFL.
+[41] Subsection 141.1(3) of the Act provides that:
+(3) For the purposes of this Part,
+(a) to the extent that a person does anything (other than make a supply) in connection with the acquisition, establishment, disposition or termination of a commercial activity of the person, the person shall be deemed to have done that thing in the course of commercial activities of the person; and
+(b) to the extent that a person does anything (other than make a supply) in connection with the acquisition, establishment, disposition or termination of an activity of the person that is not a commercial activity, the person shall be deemed to have done that thing otherwise than in the course of commercial activities.
+[42] Since subsection 141.1(3) of the Act is not dependent on any finding of any certain extent to which a person does something in connection with the termination of a commercial activity, the acquisition of the claim by PFL under the Legal Action for the purposes of subsection 141.1(3) of the Act is not subject to the provisions of subsection 141.01(6) of the Act. As a result, to the extent that PFL does anything in relation to the termination of its business, it is deemed to have done that thing in the course of commercial activities. Therefore the claim under the Legal Action (which was acquired in connection with the termination of the business) will be deemed to have been acquired in the course of commercial activities of PFL.
+[43] As a result all of the assets of PFL in 1998 would have been assets last acquired by PFL for consumption or use by PFL exclusively in the course of its commercial activities and the conditions of paragraph 186(1)(b) of the Act are satisfied.
+[44] The Appellant is therefore deemed to have acquired the professional fees for use in the course of commercial activities of the Appellant to the extent that the Appellant can reasonably be regarded as having so acquired the professional services for consumption or use in relation to the shares or indebtedness of PFL. Since subsection 186(1) of the Act is not dependent on any finding of any certain percentage, the acquisition of the professional services by the Appellant for the purposes of subsection 186(1) of the Act is not subject to the provisions of subsection 141.01(6) of the Act.
+[45] Subsection 186(1) of the Act provides, in part, that once the conditions of paragraphs (a) and (b) are satisfied:
+for the purpose of determining an input tax credit of the parent, the parent is deemed to have acquired or imported the particular property or service or brought it into the participating province, as the case may be, for use in the course of commercial activities of the parent to the extent that the parent can reasonably be regarded as having so acquired or imported the particular property or service, or as having so brought it into the province, for consumption or use in relation to the shares or indebtedness.
+[46] There is no requirement in this subsection that the professional services be acquired for the purposes of making taxable supplies for consideration. This subsection simply provides that, to the extent that the professional services were acquired in relation to the shares or indebtedness of PFL, they will be deemed to be acquired for use in commercial activities of the Appellant. Since subsection 186(1) of the Act only applies in certain situations, any conflict between this subsection and section 141.01 of the Act will be resolved on the basis that if the conditions of subsection 186(1) of the Act are satisfied, then the provisions of this subsection will govern and not the provisions of section 141.01 of the Act. As noted in Driedger on the Construction of Statutes, Third Edition, at page 186:
+Where two provisions are in conflict and one of them deals specifically with the matter in question while the other is of general application, the conflict may be avoided by applying the specific provision to the exclusion of the more general one. The specific prevails over the general; it does not matter which was enacted first.
+This strategy for the resolution of conflict is usually referred to by the Latin name generalia specialibus non derogant. The English term “implied exception” is adopted here for, in effect, the specific provision implicitly carves out an exception to the general one.
+[47] Therefore, if section 141.01 of the Act is a rule of general application, subsection 186(1) of the Act will prevail over section 141.01 of the Act when the conditions of subsection 186(1) of the Act are satisfied.
+[48] If section 141.01 of the Act is not a rule of general application, it is still, as noted above, potentially applicable in this case. The conflict between section 141.01 of the Act and subsection 186(1) of the Act should be resolved based on the decision of the Supreme Court of Canada in The Queen v. Canada Trustco Mortgage Company, 2005 SCC 54, 2005 DTC 5523 (Eng.), [2005] 5 C.T.C. 215, 340 N.R. 1, 259 D.L.R. (4th) 193, [2005] 2 S.C.R. 601. In this case, the Supreme Court of Canada stated that:
+10 It has been long established as a matter of statutory interpretation that “the words of an Act are to be read in their entire context and in their grammatical and ordinary sense harmoniously with the scheme of the Act, the object of the Act, and the intention of Parliament”: see 65302 British Columbia Ltd. v. R., [1999] 3 S.C.R. 804 (S.C.C.), at para. 50. The interpretation of a statutory provision must be made according to a textual, contextual and purposive analysis to find a meaning that is harmonious with the Act as a whole. When the words of a provision are precise and unequivocal, the ordinary meaning of the words play a dominant role in the interpretive process. On the other hand, where the words can support more than one reasonable meaning, the ordinary meaning of the words plays a lesser role. The relative effects of ordinary meaning, context and purpose on the interpretive process may vary, but in all cases the court must seek to read the provisions of an Act as a harmonious whole.
+[49] In my opinion, the interpretation that subsection 186(1) of the Act will prevail over section 141.01 of the Act is consistent with the Act read as a whole. Both subsection 186(1) and section 141.01 of the Act result in certain consumptions or uses being deemed to be the course of commercial activities. The specific provisions of subsection 186(1) of the Act must have been intended to override the more general application of section 141.01 of the Act. It does not seem reasonable to me that if the conditions of subsection 186(1) of the Act are satisfied and therefore the services acquired in relation to the shares or indebtedness of PFL would be deemed to be acquired in the course of commercial activities, that an additional test imposed by section 141.01 of the Act would also have to be satisfied in order for the Appellant to claim input tax credits. Once the professional services have been deemed to have been acquired in the course of commercial activities as a result of subsection 186(1) of the Act, in my opinion, this is sufficient for the purposes of subsection 169(1) of the Act. As noted above, subsection 169(1) of the Act only refers to property or services being acquired for consumption or use in the course of commercial activities.
+[50] Since the professional services were either acquired in relation to the consulting business of the Appellant or the shares or indebtedness of PFL, the Appellant is entitled to claim an input tax credit in relation to the GST paid on the professional fees.
+[51] Subsection 18.3009 of the Tax Court of Canada Act provides, in part, that:
+18.3009 (1) If an appeal referred to in section 18.3001 is allowed, the Court shall reimburse to the person who brought the appeal the filing fee paid by that person under paragraph 18.15(3)( b). The Court may, in accordance with the rules of Court, award costs to that person if the judgement reduces the amount in dispute by more than one half and
+…
+( c) in the case of an appeal under Part IX of the Excise Tax Act,
+(i) the amount in dispute does not exceed $7,000, and
+(ii) the aggregate of supplies for the prior fiscal year of the person did not exceed $1,000,000.
+[52] Since this appeal is an appeal referred to in section 18.3001 of the Tax Court of Canada Act and since the amount in dispute exceeds $7,000, no costs may be awarded to the Appellant.
+[53] The appeal is allowed, without costs, and the matter is referred back to the Minister of National revenue for reconsideration and reassessment on the basis that the Appellant is entitled to claim an input tax credit of $23,702.66 in relation to the GST paid on the professional fees in 1998. Since the penalty that had been imposed under section 280 of the Act was based on this input tax credit having been denied, this penalty is quashed.
+Signed at Halifax, Nova Scotia, this 10th day of June 2008.
+“Wyman W. Webb”
+Webb J.
+CITATION: 2008TCC342
+COURT FILE NO.: 2006-2954(GST)I
+STYLE OF CAUSE: PERFECTION DAIRY GROUP LIMITED AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Halifax, Nova Scotia
+DATE OF HEARING: May 12, 2008
+REASONS FOR JUDGMENT BY: The Honourable Justice Wyman W. Webb
+DATE OF JUDGMENT: June 10, 2008
+APPEARANCES:
+Counsel for the Appellant:
+Bruce S. Russell, Q.C.
+Counsel for the Respondent:
+Deanna M. Frappier
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Bruce S. Russell, Q.C.
+Firm: McInnes, Cooper
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

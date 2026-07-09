@@ -1,0 +1,355 @@
+Title: Lavoie c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30068/index.do
+Corpus path: corpus/cases/tcc/2010/2010-cci-580-30068-lavoie-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2010-11-09
+
+# Lavoie c. M.R.N.
+
+- Citation: 2010 CCI 580
+- Decision date: 2010-11-09
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7619, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Lavoie c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2010-11-09
+Référence neutre
+2010 CCI 580
+Numéro de dossier
+2010-334(EI)
+Juges et Officiers taxateurs
+Paul Bédard
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2010-334(EI)
+ENTRE :
+MARCEL LAVOIE,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+LES SERVICES VCN LTÉE,
+intervenante.
+____________________________________________________________________
+Appel entendu sur preuve commune avec l'appel de
+Les Services VCN Ltée (2010-526(EI))
+le 28 juin 2010, à Sept-Iles (Québec)
+Devant : L'honorable juge Paul Bédard
+Comparutions :
+Avocat de l'appelant :
+Me Daniel Jouis
+Avocate de l'intimé :
+Me Antonia Paraherakis
+Représentant de l'intervenante :
+Mario Paquin
+____________________________________________________________________
+JUGEMENT
+L’appel est rejeté et la décision rendue par le ministre est confirmée selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 9e jour de novembre 2010.
+« Paul Bédard »
+Juge Bédard
+Dossier : 2010-526(EI)
+ENTRE :
+LES SERVICES VCN LTÉE,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+MARCEL LAVOIE,
+intervenant.
+____________________________________________________________________
+Appel entendu sur preuve commune avec l'appel de
+Marcel Lavoie (2010-334(EI))
+le 28 juin 2010, à Sept-Iles (Québec)
+Devant : L'honorable juge Paul Bédard
+Comparutions :
+Représentant de l'appelante :
+Mario Paquin
+Avocate de l'intimé :
+Me Antonia Paraherakis
+Avocat de l'intervenant :
+Me Daniel Jouis
+____________________________________________________________________
+JUGEMENT
+L’appel est rejeté et la décision rendue par le ministre est confirmée selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 9e jour de novembre 2010.
+« Paul Bédard »
+Juge Bédard
+Référence : 2010 CCI 580
+Date : 20101109
+Dossier : 2010-334(EI)
+ENTRE :
+MARCEL LAVOIE,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+LES SERVICES VCN LTÉE,
+intervenante.
+Dossier : 2010-526(EI)
+ENTRE :
+LES SERVICES VCN LTÉE,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+MARCEL LAVOIE,
+intervenant.
+MOTIFS DU JUGEMENT
+Le juge Bédard
+[1] Il s'agit d'appels entendus sur preuve commune. L'appelant et l'appelante interjettent appel de la décision du ministre du Revenu national (le « ministre ») rendue en vertu de la Loi sur l'assurance‑emploi (la « Loi »). Le ministre a décidé que l'appelant n'occupait pas un emploi assurable lorsqu'il était au service de l'appelante, puisqu'il a conclu qu'il s'agissait d'un emploi exclu, parce qu'un contrat de travail semblable n'aurait pas été conclu s'il n'y avait pas eu de lien de dépendance entre l'appelant et l'appelante. Les périodes pertinentes allaient du 28 février 2005 au 9 décembre 2005 et du 30 janvier 2006 au 3 novembre 2006.
+[2] Pour rendre ses décisions, le ministre s'est basé sur les présomptions de fait suivantes énoncées aux paragraphes 6.1 des deux réponses aux avis d’appel modifiées :
+i. le payeur a été constitué en société le 14 juin 2000;
+ii. les activités du payeur sont l’exploitation d'un atelier de soudure et de vulcanisation;
+iii. l’appelant a été engagé par le payeur à titre de gérant;
+iv. l’appelant avait une grande expérience de ce genre de travail ayant exercé les mêmes fonctions du 30 juillet 1975 au 31 décembre 2004 pour la compagnie Brémo inc. dont l’appelant, Marc André Allard et André Morin étaient actionnaires via leur corporation respective pour les deux derniers;
+v. en 2004, suite à des problèmes internes et syndicaux, tous les actionnaires ont décidé de transférer l’emploi de l’appelant de Brémo inc. au payeur de même que les opérations dont l’appelant était responsable;
+vi. lors de sa mise à pied de décembre 2004 parce que son poste avait été aboli, l’appelant a reçu une indemnité de départ de 53 279 $ qui le rendait inadmissible à recevoir des prestations d’assurance‑emploi du 2 janvier 2005 au 13 novembre 2005;
+vii. en juillet 2004, la conjointe de l'appelant, Ghislaine Lavoie, a acquis 20,2% des actions émises du payeur;
+viii. le 9 février 2005, 9152‑2334 Québec inc a été constituée en société ayant pour unique actionnaire, l’appelant;
+ix. en février 2005, l’appelant a acquis, via sa société 9152‑2334 Québec inc, 19% des actions émises du payeur;
+x. depuis le 1er mai 2007, l’appelant possède 100% des actions du payeur;
+xi. au procès verbal de la réunion du 10 juin 2000, il y a confirmation entre autres de l’emploi de Laurent Lapierre à titre de contremaître soudeur;
+xii. le 22 mai 2005, Laurent Lapierre a reçu 1 000$ de boni pour cinq ans de service au payeur;
+xiii. les principales fonctions de l’appelant le rendait responsable de la préparation des soumissions, de faire des rapports sur les dépenses et les achats, de gérer et faire des commissions, faire les achats, embaucher le personnel, superviser et former les employés, rencontrer les clients et vérifier les matériaux, bref, toutes les décisions devaient passer par lui;
+xiv. l’appelant travaillait de la place d’affaire du payeur, de sa résidence et sur les chantiers pour la vulcanisation;
+xv. l’appelant décidait sur quels contrats il allait soumissionner et quels montants il demanderait, il décidait aussi des matériaux, de la main‑d’oeuvre et de la date d’exécution du contrat;
+xvi. il lui était possible d’accumuler les tâches et de les faire lorsque prêtes;
+xvii. l’appelant ne chargeait pas toutes les heures qu’il travaillait, il décidait lui‑même des heures qu’il allait facturer au payeur, surtout dans la deuxième période de travail où il facturait entre 4 et 7 heures par semaine;
+xviii. les documents au dossier démontrent qu’en mai 2006, l’appelant est allé en vacances pendant tout le mois en Californie et a changé 87 heures de travail, alors que le reste de l’année les heures mensuelles facturées varient entre 4 et 35, sauf pour le dernier mois où elles sont à 119;
+xix. la première période de travail, le contrat de travail stipulait que l’appelant devait travailler 40 heures semaine et c’est ce qu’il facturait au payeur;
+xx. tous les autres employés doivent compléter une feuille de temps;
+xxi. en juillet 2005 après quatre mois de travail, l’appelant a bénéficié de 10 000 $ de boni, alors que Laurent Lapierre après cinq années de service n’a reçu que 1 000 $ de boni;
+xxii. l’appelant utilise son portable dans l’exercice de ses fonctions, par contre, le payeur lui fournit le cellulaire, le télécopieur par informatique, un véhicule, des cartes de crédit pour l’achat des matériaux et pour ses dépenses d’essence et de repas;
+xxiii. ainsi l’analyse des documents au dossier a démontré que l’appelant a parcouru autant de kilomètres en 2006 qu’en 2005 alors qu’en 2005 il travaillait à plein temps;
+xxiv. l’appelant a affirmé dans sa déclaration statutaire du 16 mai 2008 que lorsqu’il a pu retirer des prestations d’assurance‑emploi, il n’a plus facturé 40 heures, mais les heures qui ne lui empêchaient pas de bénéficier du chômage;
+xxv. Mario Paquin dans sa déclaration du RHDCC le 6 mai 2008, affirmait que lors de la signature du contrat de travail liant les parties, lui‑même et l’appelant se sont entendus que ce travail était pour compenser en attendant que l’appelant ait droit au chômage;
+xxvi. l’engagement par le payeur de l’appelant ne reposait pas sur les besoins du payeur, mais plutôt sur les semaines non payables en assurance‑emploi de l’appelant;
+xxvii. l’appelant déterminait lui‑même ses conditions de travail et ce, à son entière discrétion;
+xxviii. l’appelant était le seul à avoir l’expérience de ce genre de travail;
+xxix. l’appelant décidait lui‑même de ses périodes d’emploi et de ses vacances. Il n’était pas remplacé;
+xxx. selon les déclarations de l’appelant et de Mario Paquin et les documents au dossier, il a été établi que la durée de l’emploi de l’appelant reposait sur les périodes de prestations d’assurance‑emploi de l’appelant et non selon les besoins du payeur;
+xxxi. l’appelant et le payeur ont donc agi de concert sans intérêts distincts;
+xxxii. en juillet 2005 le payeur verse à l’appelant une somme de 14 000 $, soit un salaire de 4 000 $ et un boni de 10 000 $ et ce, après seulement quatre mois de travail;
+xxxiii. en 2006, c’est l’appelant qui décide de son salaire en ne facturant que le maximum d’heures nécessaire afin de ne pas nuire au total de ses prestations d’assurance‑emploi;
+xxxiv. la rémunération de l’appelant ne correspond pas à ce qu’une personne non liée aurait reçu;
+xxxv. le nombre d’heures facturées est inférieur au travail effectué pour l’année 2006;
+[3] La preuve a notamment révélé que :
+a. l'appelant avait été l'employé‑clé de l'appelante pendant les périodes pertinentes;
+b. en décembre 2005, l'appelante mettait à pied l'appelant, son employé‑clé, en raison d’une pénurie de travail. Il convient de souligner que l'appelant fut alors le seul employé mis à pied par l'appelante en raison d’une pénurie de travail;
+c. en 2005 et 2006, les ventes de l'appelante, le salaire versé à l'appelant, les heures d'emploi de l'appelant apparaissant au registre des salaires de l'appelante et le kilométrage parcouru par l'appelant dans le cadre de son emploi avaient été les suivants :
+Mois
+Ventes
+Salaire versé à
+Marcel Lavoie
+Heures
+d'emploi
+Kilométrage
+pour affaire
+Soudure
+Vulcanisation
+Janvier 2005
+38 118 $
+88 241 $
+Aucun
+Aucune
+Non fourni
+Février
+53 880 $
+40 635 $
+1,000
+40
+Non fourni
+Mars
+31 707 $
+27 436 $
+4,000
+160
+467
+Avril
+38 065 $
+23 717 $
+4,000
+160
+1,552
+Mai
+31 387 $
+20 318 $
+5,000
+200
+591
+Juin
+21 068 $
+20 825 $
+4,000
+160
+627
+Juillet
+26 982 $
+7 676 $
+14,000
+160
+441
+Août
+54 775 $
+33 587 $
+5,000
+200
+2,167
+Septembre
+22 754 $
+33 726 $
+4,000
+160
+794
+Octobre
+29 097 $
+22 816 $
+5,000
+200
+1,189
+Novembre
+58 920 $
+13 871 $
+4,000
+160
+617
+Décembre
+28 882 $
+4 877 $
+6,121
+40
+1,264
+Total
+56,121
+1,640
+9,709
+Suite des ventes mensuelles:
+Janvier 2006
+32 469 $
+814 $
+100
+4
+Non fourni
+Février
+18 053 $
+1 585 $
+650
+26
+1,098
+Mars
+17 441 $
+1 588 $
+700
+28
+1,065
+Avril
+6 365 $
+Aucun
+1,062
+45,5
+1,281
+Mai
+19 510 $
+34 106 $
+2,175
+87
+686
+Juin
+27 081 $
+Aucun
+700
+28
+514
+Juillet
+33 733 $
+Aucun
+875
+35
+410
+Août
+27 059 $
+12 639 $
+700
+28
+633
+Septembre
+33 640 $
+871 $
+700
+28
+627
+Octobre
+34 080 $
+18 038 $
+2,975
+119
+937
+Total
+10,637
+428,5
+7,251
+d. tout au long de l'année 2006, l'appelant a reçu des prestations d'assurance‑emploi;
+e. au mois de mai 2006, alors que l'appelant est en vacances en Californie, le registre des salaires de l'appelante indique que l'appelant a travaillé 87 heures;
+f. dans sa déclaration statutaire (voir la pièce I‑1, onglet 7, p. 3), l'appelant a déclaré notamment ce qui suit:
+Par la suite, lorsque payable en chômage, je n'avais qu'à déclarer moins de 40 heures par semaine afin de continuer à me faire payer en chômage.
+g. par ailleurs, dans sa déclaration statutaire (voir la pièce I‑1, onglet 8, p. 2), monsieur Mario Paquin, un dirigeant de l'appelante, a déclaré notamment ce qui suit:
+Lorsque j'ai signé les deux cessations d'emploi, c'était en sorte un manque de travail, mais je comprends que c'était planifié quand le travail allait réduire et en fonction quand M. Lavoie planifie ses vacances. (mon soulignement)
+Le droit
+[4] L'alinéa 5(2)i) de la Loi prévoit que l'emploi dans le cadre duquel l'employeur et l'employé ont entre eux un lien de dépendance n'est pas un emploi assurable à moins qu'il soit établi que des personnes non liées auraient conclu un contrat semblable (voir l’alinéa 5(3)b) de la Loi). La question de savoir si des personnes ont entre elles un lien de dépendance est déterminée conformément à la Loi de l'impôt sur le revenu (la « LIR ») (voir l’alinéa 5(3)a) de la Loi).
+[5] L'alinéa 251(1)c) de la LIR prévoit qu'il peut exister un lien de dépendance, à un moment donné, entre des personnes non liées si des faits particuliers démontrent une telle relation. Il ressort essentiellement de la cause Parrill c. Canada (M.R.N.), [1996] A.C.I. no 1680 (QL) que des parties ont entre elles en lien de dépendance « s'il existe une même personne qui dirige les négociations des deux parties à une opération ou que les parties à une opération agissent de concert, sans avoir d'intérêts distincts, ou que l'un ou l'autre des parties à une opération exerçait une influence ou un contrôle sur l'autre ou avait le pouvoir de le faire et que les opérations des parties ne sont pas compatibles avec l'objet et l'esprit des dispositions de la Loi et n'indiquent pas une juste participation aux jeu normal des forces économiques du marché. ».
+Analyse et conclusion
+[6] Rappelons que l'intimé a déterminé que cet emploi n'était pas assurable étant donné l'alinéa 5(2)i) et le paragraphe 5(3) de la Loi, car il était convaincu qu'il n'était pas raisonnable de conclure, compte tenu de toutes les circonstances, que l'appelant et le payeur auraient conclu entre eux un contrat de travail à peu près semblable s'ils n'avaient pas eu de lien de dépendance.
+[7] La Cour d'appel fédérale a défini à plusieurs reprises le rôle confié par la Loi à un juge de la Cour canadienne de l'impôt. Ce rôle ne permet pas au juge de substituer sa discrétion à celle du ministre, mais il emporte l'obligation de « vérifier si les faits supposés ou retenus par le ministre sont réels et ont été appréciés correctement en tenant compte du contexte où ils sont survenus, et après cette vérification, [. . .] décider si la conclusion dont le ministre était « convaincu » paraît toujours raisonnable » (voir Légaré c. Canada (Ministre du Revenu national ‑ M.R.N.), [1979] A.C.F. no 878 (QL), au par. 4).
+[8] En d'autres termes, avant de décider si la conclusion du ministre me paraît toujours raisonnable, je dois, à la lumière de la preuve dont je dispose, vérifier si les allégations du ministre s'avèrent bien fondées, compte tenu des facteurs mentionnés à l'alinéa 5(3)b) de la Loi. Il y a donc lieu de se demander si l'appelant et le payeur auraient conclu un contrat de travail à peu près semblable s'ils n'avaient pas eu de lien de dépendance.
+[9] L'appelant avait le fardeau de la preuve de démontrer que le ministre n'avait pas exercé son pouvoir discrétionnaire selon les principes applicables en la matière, c'est-à-dire essentiellement de démontrer que le ministre n'a pas examiné tous les faits pertinents ou qu'il n'a pas tenu compte de faits qui étaient pertinents.
+[10] En l'espèce, le registre des salaires de l'appelante indique que l'appelant a travaillé 428,5 heures en 2006. À mon avis, le nombre d'heures travaillées par l'appelant en 2006 est de beaucoup supérieur à celui indiqué dans le registre des salaires de l'appelante. En effet, en présumant que l'appelant se déplaçait à une vitesse moyenne de 100 kilomètres à l'heure dans son véhicule, les déplacements de l'appelant en 2006 à eux seuls ont nécessité 725 heures (7 250 kilomètres ÷ 100). À ces 725 heures consacrées à ces déplacements, il faut ajouter les heures consacrées aux rencontres avec les clients chez qui l'appelant s'était déplacé et le temps consacré aux autres tâches dont il avait seul la responsabilité, soit notamment celles de dresser l'inventaire, de superviser les autres employés et de préparer les soumissions. À cet égard, je souligne que la preuve a établi très clairement que l'appelant avait été l'employé‑clé de l'appelante pendant les périodes pertinentes. En d'autres termes, je suis convaincu que l'appelant a tout simplement continué à travailler à temps plein pour l'appelante en 2006 et que la raison invoquée par l'appelante pour mettre à pied l'appelant en décembre 2006 (soit une pénurie de travail) était fausse. Ces éléments m'indiquent que l'appelant et l'appelante ont agi de concert pour falsifier la durée de l'emploi de l'appelant. L'appelant et l'appelante (dont l'appelant et sa conjointe étaient actionnaires pendant les périodes pertinentes) ont tout simplement concocté un arrangement dont l'objectif était de faire payer par l'État une partie du salaire de l'appelant. En d'autres termes, je suis convaincu que l'appelant et l'appelante ont triché en faisant, de connivence, payer par le régime d'assurance‑emploi le coût de la prestation de services offerts gratuitement à l'appelante par l'appelant.
+[11] À mon avis, il n'est pas nécessaire d'analyser les autres éléments de la preuve soumise puisque les éléments de la preuve qui ont fait l'objet de mon analyse me permettent très facilement de conclure que l'appelant et l'appelante étaient des personnes liées en vertu de l'alinéa 251(1)c) de la LIR en ce qu'elles ont agi en l'espèce de concert, sans avoir d'intérêts distincts.
+[12] De plus, je suis d'avis qu'aucune personne non liée à l'appelante n'aurait accepté de travailler autant d'heures bénévolement. Ne serait-ce que sur cette base, la décision de l'intimé m'apparaît raisonnable.
+[13] Pour ces motifs, les appels sont rejetés.
+Signé à Ottawa, Canada, ce 9e jour de novembre 2010.
+« Paul Bédard »
+Juge Bédard
+RÉFÉRENCE : 2010 CCI 580
+Nºs DES DOSSIERS DE LA COUR : 2010-334(EI); 2010-526(EI)
+INTITULÉS DE LA CAUSE : MARCEL LAVOIE ET M.R.N. ET LES SERVICES VCN LTÉE;
+LES SERVICES VCN LTÉE ET M.R.N. ET MARCEL LAVOIE
+LIEU DE L’AUDIENCE : Sept-Iles (Québec)
+DATE DE L’AUDIENCE : le 28 juin 2010
+MOTIFS DU JUGEMENT PAR : L'honorable juge Paul Bédard
+DATE DU JUGEMENT : le 9 novembre 2010
+COMPARUTIONS :
+Avocat de l'appelant;
+Avocat de l'intervenant :
+Me Daniel Jouis
+Avocate de l'intimé :
+Me Antonia Paraherakis
+Représentant de l'intervenante;
+Représentant de l’appelante :
+Mario Paquin
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelant;
+Pour l’intervenant :
+Nom : Me Daniel Jouis
+Cabinet : Jouis, Lapierre
+Sept-Iles, Québec
+Pour l’intimé : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada
+Pour l'intervenante;
+Pour l’appelante : Mario Paquin
+Les Services VCN Ltée
+Québec, Québec

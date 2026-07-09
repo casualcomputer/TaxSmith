@@ -1,0 +1,237 @@
+---
+title: "Custodio v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/307430/index.do"
+last_modified: "2018-03-15"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2018 TCC 47"
+citation2: ""
+neutral_citation: "2018 TCC 47"
+decision_date: "2018-03-15"
+language: "en"
+item_id: "307430"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7479
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T11:51:57.681000+00:00"
+cases_cited_count: 6
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "e171716411831995868e5eb7ac95e42d6459e56defd393e2ff6efab211c15111"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Custodio v. The Queen
+
+- Citation: 2018 TCC 47
+- Decision date: 2018-03-15
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7479, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Custodio v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2018-03-15
+Neutral citation
+2018 TCC 47
+File numbers
+2012-1011(IT)G
+Judges and Taxing Officers
+Sylvain Ouimet
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2012-1011(IT)G
+BETWEEN:
+Jack Custodio,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard on April 25, 2017, at Montreal, Quebec
+Before: The Honourable Justice Sylvain Ouimet
+Appearances:
+Counsel for the appellant:
+Jacques Plante
+Counsel for the respondent:
+Anne-Marie Desgens
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act is allowed, with costs, and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment.
+Signed at Ottawa, Canada, this 15th day of March 2018.
+“Sylvain Ouimet”
+Ouimet J.
+Translation certified true
+on this 10th day of July 2019.
+Janine Anderson, Revisor
+Citation: 2018 TCC 47
+Date: 20180315
+Docket: 2012-1011(IT)G
+BETWEEN:
+Jack Custodio,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Ouimet J.
+I. Introduction
+[1] Jack Custodio (“Mr. Custodio”) is appealing from an assessment made by the Minister of National Revenue (“the Minister”) on September 17, 2010, under subsection 227.1(1) of the Income Tax Act (“the ITA”). The notice of assessment bears number 1153783.
+[2] According to the respondent, in the 2007, 2008 and 2009 taxation years, Mr. Custodio was a director of 3698769 Canada Inc., which allegedly failed to remit $41,193.30 to the Receiver General for Canada. [1] That sum allegedly represents amounts that 3698769 Canada Inc. was required to withhold from its employees’ wages for income tax and employment insurance premiums and any penalties and interest relating thereto. Mr. Custodio was thus assessed for that amount.
+[3] Mr. Custodio and Keith Findlay testified for the appellant at the hearing.
+[4] Stephen Thibault, a complex case officer with the Canada Revenue Agency (“CRA”), testified for the respondent at the hearing.
+II. Issue
+[5] The issue in this case is as follows:
+1. Was the Minister correct in holding Mr. Custodio, as a director of 3698769 Canada Inc., jointly and severally, or solidarily, liable, together with the corporation, to pay the amount of $41,193.30?
+[6] To answer this question, I must first answer the following two questions:
+1. Were the preconditions for Mr. Custodio’s liability to be engaged met?
+2. Did Mr. Custodio act with the degree of care, diligence and skill that a reasonably prudent person would have exercised in comparable circumstances to prevent 3698769 Canada Inc. from failing to pay the amount of $41,193.30?
+III. Relevant statutory provisions
+[7] The relevant statutory provisions are as follows:
+Income Tax Act
+Payment of Tax
+153 (1) Withholding — Every person paying at any time in a taxation year
+(a) salary, wages or other remuneration, other than
+(i) amounts described in subsection 212(5.1), and
+(ii) amounts paid at any time by an employer to an employee if, at that time, the employer is a qualifying non-resident employer and the employee is a qualifying non-resident employee,
+. . .
+shall deduct or withhold from the payment the amount determined in accordance with prescribed rules and shall, at the prescribed time, remit that amount to the Receiver General on account of the payee’s tax for the year under this Part or Part XI.3, as the case may be, and, where at that prescribed time the person is a prescribed person, the remittance shall be made to the account of the Receiver General at a designated financial institution.
+. . .
+227 (4) Trust for moneys deducted — Every person who deducts or withholds an amount under this Act is deemed, notwithstanding any security interest (as defined in subsection 224(1.3)) in the amount so deducted or withheld, to hold the amount separate and apart from the property of the person and from property held by any secured creditor (as defined in subsection 224(1.3)) of that person that but for the security interest would be property of the person, in trust for Her Majesty and for payment to Her Majesty in the manner and at the time provided under this Act.
+. . .
+227.1 (1) Liability of directors for failure to deduct — Where a corporation has failed to deduct or withhold an amount as required by subsection 135(3) or 135.1(7) or section 153 or 215, has failed to remit such an amount or has failed to pay an amount of tax for a taxation year as required under Part VII or VIII, the directors of the corporation at the time the corporation was required to deduct, withhold, remit or pay the amount are jointly and severally, or solidarily, liable, together with the corporation, to pay that amount and any interest or penalties relating thereto.
+(2) Limitations on liability — A director is not liable under subsection 227.1(1), unless
+(a) a certificate for the amount of the corporation’s liability referred to in that subsection has been registered in the Federal Court under section 223 and execution for that amount has been returned unsatisfied in whole or in part;
+(b) the corporation has commenced liquidation or dissolution proceedings or has been dissolved and a claim for the amount of the corporation’s liability referred to in that subsection has been proved within six months after the earlier of the date of commencement of the proceedings and the date of dissolution; or
+(c) the corporation has made an assignment or a bankruptcy order has been made against it under the Bankruptcy and Insolvency Act and a claim for the amount of the corporation’s liability referred to in that subsection has been proved within six months after the date of the assignment or bankruptcy order.
+(3) [Due diligence defence] — A director is not liable for a failure under subsection 227.1(1) where the director exercised the degree of care, diligence and skill to prevent the failure that a reasonably prudent person would have exercised in comparable circumstances.
+. . .
+248 (1) Definitions — In this Act,
+. . .
+person, or any word or expression descriptive of a person, includes any corporation, and any entity exempt, because of subsection 149(1), from tax under Part I on all or part of the entity’s taxable income and the heirs, executors, liquidators of a succession, administrators or other legal representatives of such a person, according to the law of that part of Canada to which the context extends;
+---------------------------------------------
+Employment Insurance Act
+Payment of Premiums
+82 (1) Deduction and payment of premiums — Every employer paying remuneration to a person they employ in insurable employment shall
+(a) deduct the prescribed amount from the remuneration as or on account of the employee’s premium payable by that insured person under section 67 for any period for which the remuneration is paid; and
+(b) remit the amount, together with the employer’s premium payable by the employer under section 68 for that period, to the Receiver General at the prescribed time and in the prescribed manner.
+. . .
+83 (1) Liability of directors — If an employer who fails to deduct or remit an amount as and when required under subsection 82(1) is a corporation, the persons who were the directors of the corporation at the time when the failure occurred are jointly and severally, or solidarily, liable, together with the corporation, to pay Her Majesty that amount and any related interest or penalties.
+(2) Application of Income Tax Act provisions — Subsections 227.1(2) to (7) of the Income Tax Act apply, with such modifications as the circumstances require, to a director of the corporation.
+IV. The facts
+A. Background
+[8] After completing his university studies, Mr. Custodio started a company called AFS Services informatiques (“AFS”). During that period, he met Balazs Magyar (“Mr. Magyar”), who was a director with a transportation company that became Brymag Transport Inc. (“Brymag”). Mr. Custodio told Mr. Magyar that he could provide Brymag with computer and accounting services through AFS. Mr. Magyar accepted Mr. Custodio’s offer. From that point on, Brymag became the sole client of AFS; and Mr. Custodio, who was AFS’s only employee, worked out of Brymag’s offices.
+[9] From 1998 to 2005, Mr. Custodio managed the various software programs used by Brymag as well as its accounting. In the early 2000s, Brymag expanded, and Mr. Magyar decided to divide Brymag into a number of corporations. The resulting new corporations became divisions within the Brymag group. One of those corporations was 3698769 Canada Inc. The activities of 3698769 Canada Inc. were related to the storage of goods.
+[10] According to Mr. Custodio’s testimony, during a visit with his lawyer, Mr. Magyar asked him to become the president of 3698769 Canada Inc. and to sign some documents for this purpose. According to Mr. Custodio, that was done to allow Mr. Magyar’s corporations to circumvent certain constraints of the Commission de la Santé et de la Sécurité du travail, among other things. Mr. Custodio was in a difficult position given that Brymag had been AFS’s only client for many years. Furthermore, he had built a relationship of trust with Mr. Magyar over the years. Consequently, Mr. Custodio testified that he could not really [TRANSLATION] “say no” to Mr. Magyar; and, as a result, he became the president of 3698769 Canada Inc. For the same reasons, Mr. Custodio also agreed to act as a director of 3698769 Canada Inc., even though he did not really understand what that entailed.
+[11] Though he was the president and director of 3698769 Canada Inc., Mr. Custodio stated that he never acted in that capacity. He was never involved in the making of decisions related to 3698769 Canada Inc.’s business operations. In fact, after 3698769 Canada Inc. was incorporated in November 2000, apart from his tasks related to the corporation’s computing needs, Mr. Custodio was merely responsible for managing the finances of 3698769 Canada Inc. Mr. Custodio stated that he always used the services of an accounting firm to verify the accuracy of the information in the documents that had to be sent to the CRA.
+[12] In 2005, Mr. Magyar’s son, Bryan Magyar, finished his university studies in finance. From then on, Bryan Magyar took over the responsibility of managing 3698769 Canada Inc.’s finances and accounting from Mr. Custodio. Among other things, he took over the corporation’s client accounts, the filing of the corporation’s goods and services tax returns, and the withholdings on the wages of the corporation’s employees. Mr. Custodio continued to handle certain tasks that were unrelated to the corporation’s finances and accounting, as well as tasks related to the computer needs of the corporation. Mr. Custodio did not resign from his position as director of the corporation.
+[13] From that point on, since Bryan Magyar was also responsible for managing the finances of some other corporations in the Brymag group and had a university degree in finance, Mr. Custodio relied on him entirely and did not verify the finance- and accounting-related work Bryan Magyar was carrying out for 3698769 Canada Inc. Mr. Custodio presumed that Bryan Magyar had also hired an accountant to ensure the accuracy of the information in the documents that the corporation had to transmit to the CRA.
+[14] However, given that two individuals were required to sign any cheques issued by the corporation, Mr. Custodio signed some cheques. It was Mr. Custodio who signed, on March 11, 2009, 3698769 Canada Inc.’s T2 income tax return for the fiscal year ending January 31, 2008.
+[15] From 2005 to 2009, Mr. Custodio was never contacted by the tax authorities about 3698769 Canada Inc. because they were communicating with Bryan Magyar. In August 2009, Mr. Custodio was informed by 3698769 Canada Inc.’s management that the corporation owed the CRA money. At the same time, he was informed that an arrangement had been made with the CRA whereby the corporation would pay the CRA $5,000 every month until the debt was repaid.
+[16] Brymag filed for bankruptcy in November 2009. Since it no longer had any goods to store, 3698769 Canada Inc. subsequently filed for bankruptcy.
+V. Analysis
+A. Legislative context
+[17] Under paragraph 153(1)(a) of the ITA, a corporation must withhold tax on wages and remit the amounts withheld to the Receiver General for Canada. Subsection 227.1(1) of the ITA provides that the directors of a corporation that has failed to withhold an amount as required by subsection 153(1) of the ITA or has failed to remit such an amount are jointly and severally, or solidarily, liable, together with the corporation, to pay the amounts equivalent to those withholdings and any interest or penalties relating thereto.
+[18] Under subsection 82(1) of the Employment Insurance Act (“EIA”), a corporation that pays remuneration to a person it employs in insurable employment shall deduct the prescribed amount from the remuneration as or on account of employment insurance premiums and remit the amount, together with the employer’s premium, to the Receiver General for Canada. Under subsection 83(1) of the EIA, if a corporation fails to deduct or remit an amount in accordance with subsection 82(1) of the EIA, the persons who were the directors of the corporation at the time when the failure occurred are jointly and severally, or solidarily, liable, together with the corporation, to pay that amount and any related interest or penalties. Under subsection 83(2) of the EIA, subsections 227.1(2) to (7) of the ITA apply, with such modifications as the circumstances require, to a director of a corporation that failed to deduct or remit an amount in accordance with subsection 82(1) of the EIA.
+[19] Subsections 227.1(2) and (3) of the ITA set out some limitations on the liability of a director of a corporation, stipulated in subsection 227.1(1) of the ITA.
+B. Were the preconditions in subsection 227.1(2) of the ITA for Mr. Custodio’s liability to be engaged met?
+[20] In this case, counsel for the appellant submitted that the respondent had the burden of establishing that one of the conditions set out in subsection 227.1(2) of the ITA had been met. He argued that the respondent had not established that the condition set out in paragraph 227.1(2)(a) had been met. Under this provision, a certificate for the amount of the corporation’s liability must have been registered in the Federal Court under section 223 of the ITA. In addition, execution for that amount must have been returned unsatisfied in whole or in part. However, according to counsel for the appellant, the respondent did not demonstrate that such a certificate had been registered in the Federal Court.
+[21] Counsel for the respondent did not deny that she did not submit any evidence to demonstrate that one of the conditions set out in subsection 227.1(2) of the ITA had been met. However, in her written notes, counsel for the respondent argued that the respondent was not required to demonstrate this. In fact, according to her, in accordance with the Federal Court of Appeal’s decisions in Naguib [2] and Dicosmo, [3] the respondent did not have to demonstrate this because no allegations to that effect were made in the appellant’s “re‑amended” notice of appeal. Counsel for the respondent argued that since the appellant did not allege in his “re-amended” notice of appeal that a certificate had not been registered in the Federal Court, the respondent was not required to demonstrate that such a certificate had been registered. Furthermore, she stated that she had been taken [TRANSLATION] “by surprise” because this allegation was made for the first time at the hearing, after all of the respondent’s evidence had been presented. For these reasons, the respondent submits that she was not required to demonstrate that a certificate had been registered in the Federal Court.
+[22] Under subsection 227.1(2) of the ITA, a director of a corporation cannot be held jointly and severally, or solidarily, liable, together with the corporation, unless
+1. a certificate for the amount of the corporation’s liability has been registered in the Federal Court under section 223 of the ITA and execution for that amount has been returned unsatisfied in whole or in part; [4]
+the corporation has commenced liquidation or dissolution proceedings or has been dissolved and a claim for the amount of the corporation’s liability has been proved within six months after the earlier of the date of commencement of the proceedings and the date of dissolution; [5] or
+the corporation has made an assignment or a bankruptcy order has been made against it under the Bankruptcy and Insolvency Act and a claim for the amount of the corporation’s liability has been proved within six months after the date of the assignment or bankruptcy order. [6]
+[23] The three events set out in subsection 227.1(2) of the ITA are preconditions for engaging a director’s liability under subsection 227.1(1) of the ITA. This was confirmed by the Federal Court of Appeal in McKinnon, [7] and by this Court in Walsh [8] and Savoy. [9] In McKinnon, [10] the Federal Court of Appeal stated the following:
+Whether directors have exercised due diligence to prevent [failures to remit] from occurring has both a legal and a factual aspect. As matter of law, the liability of a director for unremitted source deductions and G.S.T. does not crystallise until the conditions prescribed by subsection 227.1(2) have been satisfied. Moreover, if the remittances are made in full, albeit late, the directors will not be liable for the company’s previous failure to remit. [11]
+[Emphasis added.]
+[24] In Sarmadi, [12] Webb J. of the Federal Court of Appeal summarized the burden of proof on a taxpayer in an appeal to the Tax Court of Canada in his concurring reasons:
+In my view, the taxpayer has the onus of proving, on a balance of probabilities, for any facts that are in dispute:
+(a) such facts as are alleged by the taxpayer in their notice of appeal; and
+(b) subject to certain exceptions, that such facts as assumed by the Minister in reassessing the taxpayer are not true. [13]
+[25] Therefore, it is up to the taxpayer to prove, on a balance of probabilities, that the facts assumed by the Minister and on which the assessment is based are incorrect. However, there are exceptions. In Sarmadi, Webb J. mentions two exceptions in paragraph 36 of his reasons [14]
+36 In Anchor Pointe, at para. 36, it was also noted if the facts that are assumed “are exclusively or peculiarly within the Minister’s knowledge” then this general rule will not apply. Also, if the Minister alleges a fact that is not part of the facts that were assumed by the Minister in assessing a taxpayer or in confirming an assessment, then the Minister will have the onus of proof with respect to such facts (Loewen, at para. 11). [15]
+[26] There are also other exceptions. This Court determined in Walsh [16] that since, under subsection 227.1(1) of the ITA, the Minister’s power to issue an assessment against a corporation’s director is subject to compliance with the conditions set out at subsection 227.1(2) of the ITA, the burden of proof regarding compliance with said conditions is on the Minister. The relevant passage of that decision is as follows:
+[27] The purpose of paragraph 227.1(2)(a) is to require the Minister to exhaust his remedies of recovery against the corporate taxpayer before permitting him the extraordinary remedy of assessing a third party, its director, for the company’s unremitted source deductions. While subsection 227(10) provides that the Minister “… may at any time assess any amount payable under … section 227.1”, that otherwise broad power to assess is contingent upon the fulfillment of the conditions set out in paragraph 227.1(2)(a). In this way, paragraph 227.1(2)(a) is analogous to subparagraph 152(4)(a)(i) which, briefly stated, limits the Minister’s power to assess beyond the normal reassessment period to circumstances where the taxpayer’s actions amount to misrepresentation. While subparagraph 152(4)(a)(i) is silent as to onus and manner of proof, the jurisprudence has established that the imposition of conditions on the Minister’s power to assess has the effect of shifting the onus, which otherwise lies with the taxpayer, to the Minister and that the Minister’s burden of proof under that provision is a heavy one.
+[28] Similarly, the language of paragraph 227.1(2)(a) places the onus on the Minister but does not specify how he is to prove his compliance with its conditions. Thus, it is for the Court to decide whether the Minister has met his evidentiary burden. While I have some sympathy for counsel for the Respondent’s characterization of the omission of the Sheriff’s letter from the Respondent’s List of Documents as “an irregularity”, it seems to me that proof of the Minister’s fulfillment of the conditions in paragraph 227.1(2)(a) is so fundamental to his power to assess under subsection 227(10) that any doubt on that score must be resolved in favour of the taxpayer. Here, the Minister has produced no evidence to show that the execution of the Writ of Seizure and Sale was returned unsatisfied. Absent proof that the Minister has satisfied the requirements of paragraph 227.1(2)(a), no liability attaches under subsection 227.1(1) and the assessment upon which it was based cannot stand. [17]
+[Emphasis added.]
+[27] Since the respondent bore the burden of proving that a certificate was registered in the Federal Court, the respondent cannot claim that she was taken [TRANSLATION] “by surprise” by the fact that the appellant did not allege in his “re-amended” notice of appeal that he intended to question whether a certificate had in fact been registered. The Federal Court of Appeal’s decision in Brown [18] confirms this. In that case, the onus was on the Minister under subsection 163(3) of the ITA, and the taxpayer contested the validity of a penalty that had been imposed on him by the Minister under subsection 163(2) of the ITA. In its decision, the Federal Court of Appeal stated the following:
+[20] Therefore the Minister, and not Mr. Brown, would have the burden of establishing the facts justifying the assessment of the gross negligence penalties imposed for 2009 and 2010 [subsection 163(2) ITA]. Since the only documents filed in these matters at the Tax Court of Canada were the notices of appeal (and amended notices of appeal) filed by Mr. Brown, it is not plain and obvious that the Minister will be successful in establishing the facts justifying the assessment of the gross negligence penalties. Since this is the Minister’s burden, there are no material facts that Mr. Brown would need to allege (and then have the onus to prove) in his notices of appeal. [19]
+[Emphasis added.]
+[28] As a result, to be able to hold Mr. Custodio jointly and severally, or solidarily, liable, together with 3698769 Canada Inc. for the amount of $41,193.30, the respondent had to prove that the conditions set out in paragraph 227.1(2)(a) of the ITA had been met. In this case, the respondent had to prove, on a balance of probabilities, not only that a certificate for the amount of the corporation’s liability had been registered in the Federal Court, but also that execution for the amount that was not remitted by the corporation had been returned unsatisfied in whole or in part.
+[29] However, at the hearing, no evidence of these facts was submitted by the respondent. Such evidence is usually provided by the filing of the certificate registered in the Federal Court, the writ of seizure and sale or the nulla bona return by a bailiff. Here, none of these documents was filed in evidence.
+[30] Consequently, since the respondent did not prove, on a balance of probabilities, that the conditions set out in paragraph 227.1(2)(a) of the ITA were met, the liability of Mr. Custodio as a director of 3698769 Canada Inc. could not be engaged for the amount of $41,193.30.
+[31] Given the findings that the Court made above, the Court does not have to consider whether the respondent had to—and whether she did—prove the accuracy of 3698769 Canada Inc.’s tax debt. For the same reason, the Court is not required to consider whether the appellant exercised the due diligence required by subsection 227.1(3) of the ITA.
+[32] The appeal is allowed, with costs.
+Signed at Ottawa, Canada, this 15th day of March 2018.
+“Sylvain Ouimet”
+Ouimet J.
+Translation certified true
+on this 10th day of July 2019.
+Janine Anderson, Revisor
+CITATION:
+2018 TCC 47
+COURT FILE NO:
+2012-1011(IT)G
+STYLE OF CAUSE:
+Jack Custodio v. Her Majesty the Queen
+PLACE OF HEARING:
+Montreal, Quebec
+DATE OF HEARING:
+April 25, 2017
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Sylvain Ouimet
+DATE OF JUDGMENT:
+March 15, 2018
+APPEARANCES:
+Counsel for the Appellant:
+Jacques Plante
+Counsel for the Respondent:
+Anne-Marie Desgens
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Jacques Plante
+Firm:
+Groleau Gauthier Plante LLP
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] According to the reply to the “re-amended” notice of appeal, the amount was $66,604.16. At the hearing, the respondent reconsidered her position and the balance of the amount to be remitted by the corporation was established at $41,193.30. The accuracy of that amount was confirmed by counsel for the respondent in her written notes (see the respondent’s written notes, page 7, paragraph 28).
+[2] Naguib v. The Queen, 2004 FCA 40, paras 6 and 7.
+[3] Dicosmo v. The Queen, 2017 FCA 60, paras 8 and 9.
+[4] Paragraph 227.1(2)(a) of the ITA.
+[5] Paragraph 227.1(2)(b) of the ITA.
+[6] Paragraph 227.1(2)(c) of the ITA.
+[7] Canada (Attorney General) v. McKinnon, [2001] 2 F.C. 203 (FCA).
+[8] Walsh v. The Queen, 2009 TCC 557.
+[9] Savoy v. The Queen, 2011 TCC 35, paras 20 to 23.
+[10] Canada (Attorney General) v. McKinnon, supra, footnote 7.
+[11] Ibid., para. 76; Walsh v. The Queen, supra, footnote 8, para. 26.
+[12] Sarmadi v. The Queen, 2017 FCA 131.
+[13] Ibid., para. 31.
+[14] Ibid.
+[15] Ibid., para. 36.
+[16] Walsh v. The Queen, supra, footnote 8.
+[17] Walsh v. The Queen, supra, footnote 8, paras 27 and 28.
+[18] Brown v. Canada, 2014 FCA 301.
+[19] Ibid., para. 20.

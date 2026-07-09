@@ -1,0 +1,144 @@
+Title: Estate of Gordon Noik v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28486/index.do
+Corpus path: corpus/cases/tcc/2008/2008-tcc-109-28486-estate-of-gordon-noik-v-the-queen-en.md
+Document type: case_law
+Last modified: 2008-02-21
+
+# Estate of Gordon Noik v. The Queen
+
+- Citation: 2008 TCC 109
+- Decision date: 2008-02-21
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1283, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Estate of Gordon Noik v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-02-21
+Neutral citation
+2008 TCC 109
+File numbers
+2007-1649(IT)I
+Judges and Taxing Officers
+Murray A. Mogan
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2007-1649(IT)I
+BETWEEN:
+ESTATE OF GORDON NOIK,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on January 28, 2008, at Toronto, Ontario
+By: The Honourable Justice M.A.Mogan
+Appearances:
+Agent for the Appellant:
+Murray A. Finkelman
+Counsel for the Respondent:
+Samantha Hurst
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act for the 2003 taxation year is dismissed.
+Signed at Ottawa, Canada, this 21st day of February, 2008.
+“M.A.Mogan”
+Mogan D.J.
+Citation: 2008TCC109
+Date: 20080221
+Docket: 2007-1649(IT)I
+BETWEEN:
+ESTATE OF GORDON NOIK,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Mogan D.J.
+[1] The late Gordon Noik died on October 19, 2002 survived by his wife (Klara), a son (Gad) and a daughter (Miriam). Klara is the second wife of the deceased (“Gordon”), and she is not related to Gad or Miriam. At the time of death, Gordon owned a one-half interest in a number of rental properties in North Bay, Ontario; and a one-half interest in the matrimonial home he shared with Klara. Gordon’s sister Jean owned the other half interest in the North Bay rental properties.
+[2] In his will, Gordon made the following dispositions: (i) he left to his daughter Miriam his interest in seven rental properties in North Bay provided that she pay to Klara $1,300 per month from the rents; and (ii) he left to Klara his interest in their matrimonial home. Gordon nominated his son, Gad Noik, as the sole executor of his will.
+[3] The first fiscal period of the Appellant Estate was from October 19, 2002 (date of death) to May 31, 2003. In computing income for that period, the Appellant deducted legal expenses of $18,770. By Notice of Reassessment, the Minister of National Revenue disallowed the deduction of $18,770; and the Appellant Estate has appealed from that reassessment. The only issue in this appeal is whether all or a portion of the $18,770 is deductible in computing income.
+[4] Exhibit R-5 is a group of legal bills submitted by a Toronto law firm to Gad Noik in his capacity as Executor of the Appellant Estate. I will summarize certain particulars of the first four legal bills sent during the first fiscal period of the Appellant Estate.
+(i) December 19, 2002
+Legal services mainly for the
+probate of Gordon’s will
+Fees, disbursements and GST $1,459.62
+(ii) February 25, 2003
+Legal services mainly for the
+probate of Gordon’s will
+Fees, disbursements and GST $1,276.70
+(iii) April 28, 2003
+Legal services for copies of
+probate and correspondence
+with Klara’s lawyer.
+Fees, disbursements and GST $1,033.79
+(iv) May 28, 2003
+Legal services concerning dispute
+with Klara and subsequent
+appearance in Ontario Court
+Fees, disbursements and GST $15,846.28
+[5] The dispute with Klara (referred to in the fourth legal bill described above) was based on the provision in paragraph 3(e) of Gordon’s will (Exhibit R-2) which stated:
+to pay or transfer to my daughter MIRIAM ROSEN, of the City of Herzlia, in the State of Israel, my interest in the following properties which are all situated in the City of North Bay, in the Province of Ontario:
+470 Chippewa Street West
+187 Princess Street West
+389 Kingsway Street
+899 O’Brien Street
+363 Landsdown Avenue
+229 Victoria Street West
+233 Victoria Street West
+PROVIDED that my said daughter pay to my wife, KLARA NOIK, $1,300.00 monthly from the rent derived from said properties.
+After the daughter (Miriam) sold the seven rental properties in North Bay, the Estate Trustee (Gad) informed Klara that she was no longer entitled to the monthly payments of $1,300. Klara brought an action against the Estate claiming her right to the monthly payments of $1,300 during her (Klara’s) lifetime. Klara lost before the hearing judge in May 2003 but was successful in the Ontario Court of Appeal in June 2004.
+[6] The legal bill dated May 28, 2003 (see item (iv) in paragraph 4 above) was based almost exclusively on services rendered defending the Estate against Klara’s claim before the hearing judge in May 2003. Gad Noik, as Executor of the Estate, settled the legal bill of May 28, 2003 by making one lump sum payment of $15,000. The aggregate legal expenses of $18,770 in dispute in this appeal comprise the following amounts paid by the Executor of the Estate:
+(i) Legal bill December 19, 2002 $1,459.62
+(ii) Legal bill February 25, 2003 $1,276.70
+(iii) Legal bill April 28, 2003 $1,033.79
+(iv) Legal bill May 28, 2003 $15,000.00
+Total $18,770.11
+[7] Exhibit R-3 is the T3 Trust Income Tax Return for the first fiscal period of the Estate from October 19, 2002 to May 31, 2003. Exhibit R-3 shows that the income of the Estate for that fiscal period was derived from only four sources:
+Taxable capital gains
+$15,365
+Investment Income (Interest)
+2,341
+Net Rental Income
+5,960
+CPP Death Benefit
+2,094
+Total Income
+$25,760
+[8] There is no evidence that any part of the aggregate legal fees in dispute ($18,770) was paid or incurred for the purpose of gaining or producing income from property. Those legal fees were all paid to a Toronto law firm. Any legal fees paid in connection with the disposition of the rental properties in North Bay were probably paid to a North Bay lawyer and, in any event, would have been taken into account in determining the capital gain or loss realized on the disposition of each property.
+[9] There is evidence that the aggregate legal fees in dispute were paid to obtain probate of Gordon Noik’s will, and to defend an action brought by his widow (Klara) for monthly payments of $1,300 under paragraph 3(e) of the will. Legal fees paid for those purposes are not ordinarily deductible in computing income. In Pappas Estate v. M.N.R., [1990] T.C.J. 601, Bonner J. considered whether certain legal fees were deductible in computing estate income and stated:
+It is clear that the costs falling into the first two categories are not deductible. Indeed counsel for the Appellant conceded that the portion of the fees of the estate solicitors related to the securing of probate are not properly deductible. Paragraph 18(1)(a) of the Income Tax Act provides:
+18(1) In computing the income of a taxpayer from a business or deduction shall be made in respect of
+(a) an outlay or expense except to the extent that it was made or incurred by the taxpayer for the purpose of gaining or producing income from the business or property."
+The taking of possession of the property of the deceased, the obtaining of probate and, where required, supplementary or foreign probate, the location and payment of creditors and the distribution of the property of a deceased to persons beneficially entitled are actions quite unrelated to the earning of income from a business or property. Such operations are not commercial in nature. They do not involve the generation of fees or other revenues payable to the estate and therefore are not carried on with a view to earning a profit. From the standpoint of the estate such activities are a cost of distributing the worldly possessions of the deceased in accordance with his wishes.
+[10] In my view, the legal fees in dispute were payments on account of capital because they were paid to obtain probate of Gordon’s will, and to defend certain property of the estate. The appeal is dismissed.
+Signed at Ottawa, Canada, this 21st day of February, 2008.
+“M.A.Mogan”
+Mogan”
+CITATION: 2008TCC109
+COURT FILE NO.: 2007-1649(IT)I
+STYLE OF CAUSE: ESTATE OF GORDON NOIK and
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: January 28, 2008
+REASONS FOR JUDGMENT BY: The Honourable Justice M.A.Mogan
+DATE OF JUDGMENT: February 21, 2008
+APPEARANCES:
+Agent for the Appellant:
+Murray A. Finkelman
+Counsel for the Respondent:
+Samantha Hurst
+COUNSEL OF RECORD:
+For the Appellant:
+Name: N/A
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

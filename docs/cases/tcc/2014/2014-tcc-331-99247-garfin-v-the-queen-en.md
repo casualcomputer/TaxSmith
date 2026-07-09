@@ -1,0 +1,193 @@
+---
+title: "Garfin v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/99247/index.do"
+last_modified: "2014-09-19"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2014 TCC 331"
+citation2: ""
+neutral_citation: "2014 TCC 331"
+decision_date: "2014-09-19"
+language: "en"
+item_id: "99247"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5268
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T09:33:44.371000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "432a0a82737798fb1ccfc9afbf0fba3b9fdd210992b0c2729eb345790cde37ad"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Garfin v. The Queen
+
+- Citation: 2014 TCC 331
+- Decision date: 2014-09-19
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5268, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Garfin v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2014-09-19
+Neutral citation
+2014 TCC 331
+File numbers
+2013-4847(CPP)
+Judges and Taxing Officers
+Patrick J. Boyle
+Subjects
+Canada Pension Plan
+Decision Content
+Docket: 2013-4847(CPP)
+BETWEEN:
+SUSAN W. GARFIN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on common evidence of
+Susan W. Garfin (2014-4848(EI))
+on September 19, 2014, at Toronto, Ontario.
+Before: The Honourable Justice Patrick Boyle
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Alisa Apostle
+JUDGMENT
+The appeal pursuant to section 28(1) of the Canada Pension Plan is dismissed.
+Signed at Ottawa, Canada, this 7th day of November 2014.
+“Patrick Boyle”
+Boyle J.
+Docket: 2013-4848(EI)
+BETWEEN:
+SUSAN W. GARFIN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on common evidence of
+Susan W. Garfin (2014-4847(CPP))
+on September 19, 2014, at Toronto, Ontario.
+Before: The Honourable Justice Patrick Boyle
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Alisa Apostle
+JUDGMENT
+The appeal pursuant to subsection 103(1) of the Employment Insurance Act is dismissed.
+Signed at Ottawa, Canada, this 7th day of November 2014.
+“Patrick Boyle”
+Boyle J.
+Docket: 2013-4847(CPP)
+BETWEEN:
+SUSAN W. GARFIN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Docket: 2013-4848(EI)
+AND BETWEEN:
+SUSAN W. GARFIN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+EDITED VERSION OF TRANSCRIPT
+OF ORAL REASONS FOR ORDER
+Let the attached edited transcript of the Reasons for Order delivered orally from the Bench at Toronto, Ontario on September 19, 2014 be filed. I have edited the transcript (certified by the Court Reporter) for style, clarity and to make minor corrections only. I did not make any substantive changes.
+Signed at Ottawa, Canada this 7th day of November 2014.
+“Patrick Boyle”
+Boyle J.
+Citation: 2014 TCC 331
+Date: 20141107
+Docket: 2013-4847(CPP)
+BETWEEN:
+SUSAN W. GARFIN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Docket: 2013-4848(EI)
+AND BETWEEN:
+SUSAN W. GARFIN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Boyle J.
+[1] These are my oral reasons in today's CPP and EI appeals of Ms. Garfin. Ms. Garfin, I am dismissing your appeals for the following reasons.
+[2] In determining whether or not Ms. Walker was your employee or an independent contractor, I am required to follow the analytic approach set out in Connor Homes by the Federal Court of Appeal and to apply that. I had occasion to summarize my understanding of Connor Homes in my decision of earlier this year in Loving Home Care Services in paragraphs 3 to 11.
+[3] The applicable law in appeals such as these is fully and clearly set out by the Federal Court of Appeal in Connor Homes. I will not reproduce all of their paragraphs; the legal issue to be decided is simply whether an individual worker is performing her services as her own business on her own account.
+[4] This requires me to first decide whether subjectively, based upon the facts, circumstances, and evidence in the particular case there was a mutual understanding or common intention between the parties regarding their relationship as either employment or independent contractor.
+[5] At this stage, the Court can consider, among other things, the extent to which a worker understood the differences between an employment or independent contractor relationship, the relative bargaining position strengths and weaknesses, and the extent to which such evidence, which can typically be expected to be self‑serving, is corroborated by and consistent with the other evidence placed before the Court.
+[6] The answer to this question is not determinative. The parties cannot agree to the correct legal characterization of their work relationship, as if it were just another term or condition of their work relationship rights, obligations, duties, and responsibilities. A declared and agreed intent to a particular characterization of the work relationship as employment or independent contractor must in fact be grounded in a verifiable objective reality.
+[7] If the parties do have a common agreed intended characterization of their relationship, this Court must determine if the overall objective working relationship sustains, and is consistent with, their subjective intent. This second step requires the Court to consider and weigh the traditional Sagaz and Wiebe Door factors of control over the work and the worker, including the extent of subordination of the worker, the provision of tools, material, credentialing and equipment needed for the worker to do the work, and the extent of the worker's financial upside and downside risks regarding the services provided by her.
+[8] In this second step, the Court may again consider the parties' intent, along with the actual behaviour of the parties, and any written agreement between them. In Royal Winnipeg Ballet the Federal Court of Appeal had similarly said the traditional Sagaz and Wiebe Door factors must be considered in the light of the parties' intent.
+[9] This second step is otherwise the same as how the Court would proceed in cases where there is no common shared intention regarding the characterization of the work relationship by the parties.
+[10] So, following that approach and applying it, I will turn to intention first. To my mind the evidence is clear that the payor lawyer, Ms. Garfin, intended the relationship to be an independent contractor and not an employee. That is also true of her colleague, Ms. Amourgis, who had a similar and contemporaneous but separate part‑time work relationship with Ms. Walker in 2010.
+[11] I also conclude that Ms. Walker intended to not be an employee but to be self-employed. I believe her understanding of what that meant was not as complete as that of the two lawyers she worked for. However, I believe she was aware of the important key distinctions. I do not accept that her understanding or desired characterization changed, either in 2012 or anytime before she left her position with Ms. Garfin and sought to collect Employment Insurance and was told she would need a T4 and a Record of Earnings.
+[12] Weighing what evidence there was in this case on intention is difficult given no written contract was put in evidence, nor am I even sure one was entered into. The fact Ms. Walker has never filed tax returns for the years in question doesn't help either.
+[13] Turning to control, in this case as in many I find that considerations of control are particularly relevant and helpful. The Federal Court of Appeal in City Water reminds us to focus more on control over the worker than control of the quality of work done. It also mentions the concept of an employee being one in a subordinate position to the payor. The Federal Court of Appeal in D&J Driveway acknowledges the particular importance of control considerations in many cases.
+[14] Ms. Walker's position was that of legal assistant to Ms. Garfin. That position had Ms. Walker doing what Ms. Garfin asked to be done at any time. There was no evidence to suggest this was not within the range of services, responsibilities, and requirements normally associated with being a lawyer's administrative assistant. I conclude Ms. Walker was expected to do what she was asked or told when she was asked or told to do it.
+[15] The balance of the evidence is that her generally expected work availability and hours were nine to five, Monday to Friday, subject, of course, to the ups and downs and tos and fros of a law office, and of having personal lives.
+[16] I conclude that the degree of control that Ms. Garfin had expected and regularly exercised over Ms. Walker leans quite strongly toward an employment relationship.
+[17] Turning to tools, I do not consider ownership of tools a very helpful consideration in the case of a legal or administrative assistant role performed in the manner required in Ms. Garfin's office of this worker. There were no significant tool or similar items or qualifications expected of Ms. Walker, nor would they be any different if the person fulfilling Ms. Garfin's position was provided by an employee, a freelancing independent contractor, or a placement agency person.
+[18] In my opinion, the tools consideration does not lean in either direction in this case.
+[19] Turning to chance of profit and risk of loss, Ms. Garfin conceded these financial risk and reward considerations lean in this case towards employee status for Ms. Walker. Certainly in the case of a fixed hourly rate worker with no associated expenses, it does not lean in favour of independent contractor running her own business in this case.
+[20] I believe this case is somewhat similar to the Wilford law clerk case decided by Deputy Justice Wiseman as it relates to profit and loss and whether the worker was running her own business. This consideration is, at best, equal or not helpful to me to decide this case.
+[21] For these reasons, I conclude on balance that Ms. Walker was Ms. Garfin's employee in 2012.
+Signed at Ottawa, Canada, this 7th day of November 2014.
+“Patrick Boyle”
+Boyle J.
+CITATION:
+2014 TCC 331
+COURT FILE NOS.:
+2013-4847(CPP)
+2013-4848(EI)
+STYLE OF CAUSE:
+SUSAN W. GARFIN v. HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+September 19, 2014
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Patrick Boyle
+DATE OF JUDGMENT:
+November 7, 2014
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Alisa Apostle
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,550 @@
+---
+title: "Pépin c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30502/index.do"
+last_modified: "2011-09-16"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2011 CCI 424"
+citation2: ""
+neutral_citation: "2011 CCI 424"
+decision_date: "2011-09-16"
+language: "fr"
+item_id: "30502"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7242
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T13:37:56.015000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "d18616965399ac62c63faea38ea09ca386b9c67699f76e705e87b86411e8ef85"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Pépin c. La Reine
+
+- Citation: 2011 CCI 424
+- Decision date: 2011-09-16
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7242, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Pépin c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2011-09-16
+Référence neutre
+2011 CCI 424
+Numéro de dossier
+2007-2051(IT)G
+Juges et Officiers taxateurs
+Réal Favreau
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2007-2051(IT)G
+ENTRE :
+JEAN-PIERRE PÉPIN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appels entendus les 31 mai, 1er et 2 juin 2010, à Montréal (Québec).
+Devant : L'honorable juge Réal Favreau
+Comparutions :
+Avocat de l'appelant :
+Me Denis Racine
+Avocat de l'intimée :
+Me Claude Lamoureux
+____________________________________________________________________
+JUGEMENT MODIFIÉ
+Les appels à l'encontre des nouvelles cotisations établies en vertu de la Loi de l’impôt sur le revenu, en date du 7 avril 2005 pour l'année d'imposition 2001 et en date du 14 juillet 2005 pour les années d'imposition 2002 et 2003, sont accueillis en partie et lesdites cotisations sont déférées au ministre du Revenu national pour examen et nouvelles cotisations afin de donner effet aux admissions et concessions des parties et aux conclusions des motifs du jugement ci‑joints et d'imposer des pénalités en vertu du paragraphe 163(2) de la Loi de l'impôt sur le revenu à l'égard de la somme de 16 423,85 $ pour l'année d'imposition 2003 et des montants de 50 691 $ pour l'année d'imposition 2002.
+Chaque partie assume ses propres frais et dépens.
+Signé à Ottawa, Canada, ce 25e jour d'octobre 2011.
+« Réal Favreau »
+Juge Favreau
+Référence : 2011 CCI 424
+Date : 20111025
+Dossier : 2007-2051(IT)G
+ENTRE :
+JEAN-PIERRE PÉPIN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT MODIFIÉS
+Le juge Favreau
+[1] Il s'agit d'appels à l'encontre de nouvelles cotisations établies en vertu de la Loi de l’impôt sur le revenu, L.R.C. 1985 ch. 1 (5e Suppl.), telle que modifiée (la « Loi »), en date du 7 avril 2005 pour l'année d'imposition 2001 et en date du 14 juillet 2005 pour les années d'imposition 2002 et 2003.
+[2] En vertu de ces nouvelles cotisations, le ministre du Revenu national (le « ministre ») a fixé l'impôt à payer par l'appelant en effectuant les changements suivants :
+2001
+$
+2002
+$
+2003
+$
+Total
+$
+a) Gain en capital non déclaré
+b) Revenu de location
+c) Revenu d'entreprise non déclaré
+d) Dépense capitalisable
+e) Dépenses d'exploitation refusées
+Total des changements au revenu
+2 550
+117 234
+106 831
+30 904
+257 529
+41 283
+139 341
+111 669
+292 293
+18 044
+107 529
+87 847
+81 703
+295 123
+18 044
+2 550
+266 046
+334 019
+224 276
+844 935
+[3] Par ces mêmes cotisations, le ministre a imposé la pénalité pour faute lourde prévue au paragraphe 163(2) de la Loi sur les montants suivants :
+2001
+$
+2002
+$
+2003
+$
+a) Gain en capital non déclaré
+b) Revenu d'entreprise non déclaré
+c) Dépenses d'exploitation refusées
+Total
+117 234
+117 234
+33 667
+50 691
+84 358
+18 044
+107 529
+127 573
+[4] En établissant les nouvelles cotisations en litige, le ministre a tenu pour acquis les faits suivants, décrits au paragraphe 17 de la Réponse modifiée à l'avis d'appel :
+a) L'appelant exerçait la profession de chercheur, d'auteur et de diffuseur d'ouvrages historiques et généalogiques; [admis]
+b) Durant les années en litige, l'appelant était propriétaire unique d'une entreprise sous les raisons sociales : [admis]
+- Diffusion généalogique Pépin;
+- Collection Crève-Rêve;
+- Collection notre Patrimoine Familial;
+- Collection notre Patrimoine national;
+- Diffusion généalogique Drouin;
+- Institut Drouin;
+- Institut généalogique Drouin (1899-2000);
+- Les généalogies Drouin;
+- Les services généalogiques Drouin;
+- Les Éditions historiques et généalogiques Drouin;
+- Les Éditions Historiques et généalogiques Pépin;
+(Ci-après Institut Drouin);
+c) L’entreprise « Institut Drouin » avait comme activité d’exploitation l’édition et la diffusion de livres et de microfilms à caractère historique et généalogique; [admis]
+d) L’appelant fait l’ensemble de la tenue de livres et s’occupe de toutes les opérations de l’entreprise « Institut Drouin »; [admis]
+e) Pour les années en litige, l’appelant n’avait pas une tenue de livres adéquate pour son entreprise afin de permettre une vérification de ses livres et registres comptables; [nié]
+f) La seule source de revenu de l’appelant provient de l’entreprise « Institut Drouin »; [admis]
+g) L’appelant n’a pas voulu compléter le formulaire de coût de vie; [admis]
+h) L’appelant a déclaré le revenu (perte) net suivant : [admis]
+Année
+d’imposition
+Revenu net
+(Perte nette)
+2001
+12 380,70 $
+2002
+(110 667,24 $)
+2003
+(183 294,62 $)
+GAIN EN CAPITAL NON DÉCLARÉ
+i) Le 28 mars 2003, l’appelant a vendu un immeuble situé au 753 et 755 rue Goyette, Longueuil (Québec), pour un montant de 134 700 $; [admis]
+j) Le 30 mars 2000, l’appelant avait acheté l’immeuble situé au 753 et 755 rue Goyette, Longueuil (Québec) pour le montant de 95 000 $; [admis]
+k) Le gain réalisé sur la vente de l’immeuble situé au 753 et 755 rue Goyette, Longueuil (Québec) a été imposé comme gain en capital pour l’année d’imposition 2003; [admis]
+l) Le gain en capital a été calculé ainsi : [nié tel que calculé]
+Prix de vente
+134 700,00 $
+Pénalité
+(3 201,59 $)
+Honoraires notaire
+(411 32 $)
+Prix de vente net
+131 087,09 $
+PBR
+(95 000,00 $)
+Gain en capital
+35 087,09 $
+Taux
+50 %
+Gain en capital imposable
+18 043,55 $
+REVENU DE LOCATION
+m) Pour l’année d’imposition 2001, l’immeuble locatif de l’appelant situé au 753 et 755 rue Goyette Longueuil (Québec) a généré un revenu de location de 5 400,00 $ et des dépenses de 2 850,38 $; [admis]
+n) Le solde de revenu de location au montant de 2 550,00 $ a été rajouté au revenu imposable de l’appelant; [nié]
+o) Les frais financiers hypothécaires au montant de 9 245,34 $ n’ont pas été comptabilisés avec les dépenses de location mais comme dépense d’entreprise; [nié]
+REVENU D’ENTREPRISE NON DÉCLARÉ
+p) Pour les années d’imposition 2001, 2002 et 2003, l’appelant a déclaré les montants de 346 614,88 $, 319 392,16 $ et 174 234,38 $ de revenus bruts d’entreprise dans sa déclaration de revenus; [nié]
+q) Suite à une vérification par le Ministre, il a été établi que l’appelant avait omis de déclarer les montants de 117 234,00 $, 41 283,00 $ et 107 529,00 $ pour les années d’imposition 2001, 2002 et 2003 de revenus d’entreprise; [nié]
+r) Ces revenus non déclarés ont été établis à partir de la méthode de l’examen des dépôts bancaires dont vous trouverez le tableau en Annexe I à la présente réponse à l’avis d’appel; [nié]
+DÉPENSES CAPITALISABLES
+s) L’appelant achète des documents comme les actes de baptêmes, de mariages, de décès, des registres de villes et de villages, des répertoires de villes, des équipements informatisés, des collections personnelles et des microfilms; [admis]
+t) Les documents servent dans le processus de production pour créer des livres, des CD‑ROM et à la construction de banques de données généalogiques numériques; [admis]
+u) La numérisation est un processus par lequel on transforme les documents achetés en une suite de valeurs numériques digitales ou en images numérisées que l’on retrouve dans une banque de données; [admis]
+v) La banque de données pourrait servir pour la production de CD‑ROM; [admis]
+w) La banque de données pourrait être vendue à des institutions publiques auxquelles les usagers paieraient des droits de consultation pour faire des recherches; [admis]
+x) L’appelant conserve ces documents après qu’ils aient été numérisés ou intégrés dans des ouvrages généalogiques ou historiques; [admis]
+y) Les documents numériques constituent une banque de données qui générera du revenu à long terme; [nié]
+z) La dépense pour l’achat des documents est une dépense pour la création d’un actif pour le bénéfice de l’entreprise; [nié]
+DÉPENSES D’EXPLOITATION REFUSÉES
+aa) Pour l’année d’imposition 2001 les dépenses d’exploitations refusées sont : [nié]
+Année 2001
+Honoraires professionnels
+1 009,92 $
+Publicité
+825,00 $
+Dépenses
+17 453,73 $
+Achats
+944,00 $
+Auto et transport
+7 214,37 $
+Frais financiers
+2 481,44 $
+Dépenses de loyer
+975,61 $
+30 904,07 $
+cc) Le Ministre a refusé la déduction d’un montant de 1 009,92 $ à titre de frais d’honoraires professionnels; [nié]
+dd) Le montant de 1 009,92 $ concerne des frais de notaire pour la préparation de testaments et de mandats en cas d’inaptitude pour l’appelant et sa conjointe; [nié]
+ee) Le Ministre a refusé la déduction d’un montant de 825,00 $ comme dépense d’entreprise; [nié]
+ff) Le montant de 775,00 $ représente des dons faits par différents auteurs; [nié]
+gg) Le montant de 50 $ représente les frais de participation à un tournoi (sic) de golf; [nié]
+hh) Les montants de 944,00 $ et de 17 453,73 $ représentent l’achat de biens capitalisables; [nié]
+ii) L’appelant a déduit un montant de 15 454,37 $ comme dépense de transport; [nié]
+jj) Le Ministre a calculé un montant de dépense total de 10 986,67 $ et un usage personnel de l’automobile de 25 %; [nié]
+kk) Le montant déductible est de 8 240,00 $; [nié]
+ll) En calculant son revenu net d’entreprise, l’appelant a inclus les frais de financement de l’immeuble situé au 753 et 755 rue Goyette, Longueuil (Québec) dans les dépenses de l’entreprise; [nié]
+mm) Selon les registres de l’appelant le montant des frais financiers est de 23 890,75 $; [nié]
+nn) L’appelant a déduit dans sa déclaration de revenu le montant de 26 313,87 $ de frais financiers; [nié]
+oo) L’appelant a déduit le montant de 4 059,09 $ comme dépense de bureau a (sic) domicile pour la résidence située au 2855, rue Belcourt, Longueuil (Québec); [admis]
+pp) Le Ministre a déterminé que le montant de dépense total pour le bureau à domicile est de 6 166,93 $; [admis]
+qq) Le Ministre a pris en considération un usage personnel de 50 % de la résidence située au 2855, rue Belcourt, Longueuil (Québec); [admis]
+rr) Le Ministre a déterminé que le montant admissible à la déduction est de 3 083,48 $, soit le montant de dépense total pour le bureau à domicile 6 166,93 $ multiplié par 50 %; [admis]
+ss) Pour l’année d’imposition 2002-2003, les dépenses d’exploitation (sic) refusées sont : [nié]
+Année 2002
+Dons de charité
+7 638,72 $
+Avances salaires
+6 800,00 $
+Loyer
+1 349,49 $
+Communication
+574,34 $
+Frais de transport
+9 611,73 $
+Bureau à domicile
+1 208,48 $
+Dép. personnelles
+271,85 $
+Dépenses sans P/J
+24 990,16 $
+Autres dépenses
+59 224 65 $
+Total
+111 669,42 $
+Année 2003
+Dons de charité
+32 035,90 $
+Honoraires professionnels
+20 007,92 $
+Avances salaires
+14 773,27 $
+Loyer
+315,81 $
+Communication
+1 320,00 $
+Frais de transport
+4 021,74 $
+Bureau à domicile
+2 548,00 $
+Frais financiers
+6 681,16 $
+Total
+81 703,80 $
+tt) L’appelant a déduit comme dépense de publicité de l’entreprise « Institut Drouin » des montants de dons; [nié]
+uu) Les dons ont été faits par l’appelant ou par les auteurs avec qui l’entreprise « Institut Drouin » a des contrats d’édition et de publication; [nié]
+vv) Les montants de dépenses en frais d’honoraires professionnels ont été refusés par le Ministre car l’appelant n’a produit aucune pièce justificative pour prouver les dépenses; [nié]
+ww) Les montants d’avances salaires ont été refusés par le Ministre car les montants auraient été réclamés en double; [nié]
+xx) Le montant de dépense de frais d’électricité du loyer a été refusé par le Ministre car les frais n’étaient pas engagés pour gagner du revenu; [nié]
+yy) Le montant de dépenses en communication a été refusé par le Ministre car l’appelant n’a produit aucune pièce justificative pour prouver la dépense; [nié]
+zz) Le montant de dépense de transport a été refusé par le Ministre car l’appelant réclamait les frais de fonctionnement du véhicule et les frais de kilométrage; [nié]
+aaa) Le montant de dépense pour bureau à domicile a été refusé par le Ministre car l’appelant utilisait un logement du duplex dont il était propriétaire comme entrepôt; [nié]
+bbb) Les montants de dépense de frais financiers (les intérêts hypothécaires) ont été refusés à 50 % par le Ministre car il faut tenir compte de la partie personnelle de la résidence de l’appelant; [nié]
+ccc) Le montant de 59 224,65 $ qualifié d’autres dépenses représente :
+i) Un montant de 423 $ de dépense d’inscription de congrès non raisonnable; [nié]
+ii) Un montant de 1 999,99 $ de dépenses assumées par la Société historique du Marigot; [nié]
+iii) Un montant de 965 $ de dépenses personnelles concernant l’immeuble situé au 753 et 755 rue Goyette, Longueuil (Québec); [nié]
+iv) Un montant de 2 459,29 $ de dépenses pour l’achat d’un ordinateur assumé par la Société historique du Marigot; [nié]
+v) Un montant de 53 375,37 $ de dépenses supportées par aucune pièce justificative pour prouver les dépenses. [nié]
+[5] Pour imposer les pénalités pour les années d'imposition 2001, 2002 et 2003, le ministre s'est notamment basé sur les faits suivants, décrits au paragraphe 18 de la Réponse à l'avis d'appel :
+i) L'appelant a déjà pratiqué la profession d'agent d'immeubles; [admis]
+ii) L'appelant a divulgué au vérificateur qu'il voulait soustraire le gain de la vente de l'immeuble situé au 753 et 755 rue Goyette, Longueuil (Québec) de l'impôt; [nié]
+iii) L'appelant faisait la tenue de livres et s'occupait de toutes les opérations de l'entreprise; [admis]
+iv) Durant la vérification de l'appelant, le Ministre a demandé à ce dernier de lui soumettre un bilan personnel pour les années visées, ce que l'appelant a refusé de faire; [nié]
+v) L'appelant a réclamé comme dépenses de l'entreprise « Institut Drouin », deux factures fictives; [nié]
+vi) Les deux factures sont datées du 14 octobre 2002, et seraient de la Société historique du Marigot; [nié]
+vii) La Société historique du Marigot est un organisme à but non lucratif qui est financé par des subventions du gouvernement; [nié]
+viii) L'appelant est le vice-président de la Société historique du Marigot; [nié]
+ix) Les deux factures ont été rédigées par l'appelant; [nié]
+x) Les deux factures proviennent d'un carnet de factures; [nié]
+xi) La facture numéro 426598 concerne des travaux d'infographie et préparation de l'arborescence; [nié]
+xii) Les travaux ont eu lieu de janvier 2002 à octobre 2002; [nié]
+xiii) La facture était à payer par l'« Institut Drouin » à la « fin du projet en 2004 ou 2005 »; [nié]
+xiv) La facture numéro 426597 concerne des travaux de classement numérique et montage de CD-ROM, et site internet; [nié]
+xv) La facture était à payer par l'« Institut Drouin » « réception de commande de Longueuil en 2004 »; [nié]
+xvi) La Société historique du Marigot n'a pas de duplicata des deux factures dans leurs registres; [nié]
+xvii) Le l4 décembre 2004, le président de la Société historique du Marigot confirme que pour l'année financière 2002-2003, le seul montant au compte à recevoir inscrit dans les registres représente une subvention à recevoir du Ministre du revenu; [nié]
+xviii) Le 14 décembre 2004, le président de la Société historique du Marigot confirme que toutes les factures de la société sont produites par un système informatique et que la société n'a jamais utilisé de factures provenant de carnets de factures; [nié]
+xix) Pour l'année d'imposition 2001, le revenu d'entreprise non déclaré de 117 234$ représente 33,82% du revenu d'entreprise déclaré; [nié]
+xx) Pour l'année d'imposition 2002, le revenu d'entreprise non déclaré de 33 667 $ représente 10,5% du revenu d'entreprise déclaré; [nié]
+xxi) Pour l'année d'imposition 2003, le revenu d'entreprise non déclaré de 107 529 $ représente 62,4% du revenu d'entreprise déclaré. [nié]
+EXPLICATIONS DE L’APPELANT
+Gain en capital non déclaré
+[6] L’appelant a reconnu avoir omis de déclarer le gain en capital dans sa déclaration de revenu pour l’année 2003 parce qu’il s’agissait d’une simple omission de la part de la personne qui a préparé sa déclaration de revenu et parce que ce gain n’aurait eu aucun effet sur l’impôt à payer pour ladite année puisque des pertes d’un montant de 183 294,62 $ y étaient déclarées. Le gain en capital a été déclaré dans la déclaration du revenu de l'appelant pour l'année 2004 et l’appelant a indiqué que le vérificateur avait omis de tenir compte des droits de mutation de 1 014,00 $ ainsi que d’une facture de 2 224,58 $ pour la réfection du système électrique dans le calcul du prix de base rajusté de la propriété. En tenant compte de ces additions, le prix de base rajusté aurait dû être de 98 239,38 $, résultant en un gain en capital de 32 877,71 $ et en un gain en capital imposable de 16 423,85 $ plutôt que de 18 044,00 $.
+Revenu de location
+[7] L’appelant a indiqué que les montants allégués aux paragraphes 17(m) à (o) de la Réponse modifiée à l’avis d’appel avaient bel et bien été déclarés par l’appelant dans sa déclaration de revenu pour l’année 2001. Selon l’appelant, le vérificateur a choisi de présenter le revenu de location sans tenir compte des frais de financement.
+Revenu d’entreprise non déclarés
+[8] Selon l’appelant, le vérificateur a transformé la comptabilité de caisse de l’appelant en comptabilité d’exercice pour les années 2001, 2002 et 2003. En ce faisant, le vérificateur :
+(a) a ajouté en 2001, le total des comptes à recevoir au 31 décembre 2001 au montant de 17 404,90 $ qui avait été ajouté aux revenus de 2002, mais qui n’ont pas été soustraits;
+(b) n’a pas imputé à l’année 2000, les comptes à recevoir au 31 décembre 2000, soit 39 600 $, et le vérificateur les a ajoutés au revenu de l’année 2001;
+(c) a ajouté, dans le calcul du revenu pour 2002, les comptes à recevoir au 31 décembre 2002 au montant de 45 048,40 $ et dans le calcul du revenu pour 2003, les comptes à recevoir au 31 décembre 2003 au montant de 26 158,84 $.
+[9] Aux paragraphes 19 à 30 de la Réplique à la Réponse modifiée à l’avis d’appel, l’appelant a fourni les explications suivantes concernant les écarts de revenu non expliqué qui ont été ajoutés à son revenu pour chacune des années d’imposition 2001, 2002 et 2003 :
+19. Il a ajouté (sic) au revenu 2001 un écart de revenu non expliqué de 79 013,26 $;
+20. Cet écart est constitué des avances de fonds obtenus par l’appelant auprès de son institution financière sur ses marges de crédit;
+21. Toujours en 2001, le cotiseur a ajouté au revenu une somme de 20 815,59 $ provenant du compte personnel;
+22. Pour ce faire, il a retenu tous les dépôts faits dans le compte personnel (et non d’entreprise) de l’appelant lorsque la provenance n’est pas clairement établie;
+23. Cette méthode est injustifiée, car elle est purement arbitraire et place le contribuable, qui n’a pas à tenir une comptabilité pour ses comptes personnels, dans une situation où il lui est difficile de justifier la provenance des dépôts, celui‑ci n’ayant pas conservé, contrairement à un compte d’entreprise, les pièces justificatives;
+24. Les opérations dans le compte personnel de l’appelant provenait généralement de transferts de son compte d’affaires, de sommes provenant de son épouse ou de divers remboursements personnels;
+25. À titre d’exemple, le cotiseur retient comme revenu non déclaré une somme de 3 500 $ déposée le 20 décembre 2001 alors qu’il s’agissait d’un transfert du compte d’entreprise ainsi qu’une somme de 2 365 $ déposée le 30 octobre 2001, dont 2 300 $ provient aussi du compte de l’entreprise;
+26. Il en va de même pour les années 2002 (12 861,12 $) et 2003 (59 543,40 $);
+27. Ainsi, en 2003, l’appelant a déposé 162 642,92 $ dans son compte personnel pour l'ensemble de l’année dont 59 543,40 $ ont été retenus par le cotiseur comme revenu d’entreprise non déclaré;
+28. Toutefois, l’appelant a déposé, le 1er avril 2003 dans son compte personnel, deux chèques, l’un de 95 618,32 $ et l’autre de 36 792,47 $ qui sont le produit de la vente de la maison sur lequel l’intimée réclame du gain en capital (voir paragraphe 17l de la réponse modifiée à l’avis d’appel);
+29. Il est bien évident que l’intimée ne peut réclamer d’une main un gain en capital et de l’autre, que ces sommes soient un revenu d’entreprise, ce qui revient à taxer le contribuable deux fois pour les mêmes sommes;
+30. Par ailleurs, le cotiseur a considéré un dépôt de 8 000 $ dans le compte personnel, le 8 septembre 2003, comme étant un revenu d’entreprise non déclaré alors qu’il s’agissait d’une avance sur une marge de crédit de 10 000 $ consentie par la Caisse populaire à l’appelant.
+Dépenses capitalisées
+[10] Selon l’appelant, l’intimée n’a uniquement tenu compte que des dépenses relatives à la banque de données et a omis d’inclure toutes les dépenses pour la confection d’ouvrages mis en vente et dont la durée de vie est très courte à cause des conditions du marché et de la faiblesse des tirages, ainsi que l’appelant l’a expliqué aux paragraphes 6(a) à (e) et au paragraphe 6(g) de son avis d’appel modifié :
+6. a) L’Appelant est auteur, éditeur et diffuseur d’informations historiques et généalogiques sur format papier, CD, DVD, disque dur, location internet et microfilms;
+b) Les biens produits par l’appelant sont hautement spécialisés et la date de réalisation des ventes est fortement incertaine;
+c) De ce fait, les inventaires à la fin des exercices financiers deviennent rapidement périmés;
+d) En conséquence, les dépenses, si elles ne peuvent être déductibles dans l’année courante, doivent être rapprochées des ventes et des inventaires et certainement pas capitalisées sur de longues périodes d’amortissement comme l’a fait le cotiseur;
+e) De plus, les dépenses reliées aux auteurs (honoraires professionnels pour recherches et rédaction, droit d’auteur) ont été curieusement acceptées par le cotiseur pour certaines années et refusées à d’autres;
+g) De plus, des achats de Cdrom ont été refusés, d’autres capitalisés (sic) bien qu’ils aient été achetés et revendus dans les semaines suivant leur achat;
+Dépenses d’exploitation refusées
+[11] Les explications de l’appelant à ce chapitre se trouvent aux paragraphes 34 à 63 (inclusivement) de la Réplique à la Réponse modifiée à l’avis d’appel. Les points ayant spécifiquement trait aux dépenses sont les suivants :
+35. Aux paragraphes 17cc) et dd) de la Réponse modifiée à l’avis d’appel, les dépenses auraient dû être acceptées, car il s’agissait d’une exigence formelle de l’institution financière offrant le financement de l’entreprise;
+36. Au paragraphe 17gg) de la Réponse modifiée à l’avis d’appel, le montant de 50 $ constituait une publicité exigée par la ville, cliente de l’appelant, organisant le tournoi de golf de la part de ses fournisseurs et non les frais de participation au tournoi; l’appelant ne pratiquant pas le golf et ne connaissant rien à ce sport;
+37. Aux paragraphes 17ii) et 17kk) de la Réponse modifiée à l’avis d’appel, s’il est vrai que l’appelant a calculé ses dépenses de transport en ajoutant à l’allocation d’autres dépenses, ce qu’il n’aurait pas dû faire, il n’en reste pas moins que le cotiseur a mal calculé lesdites dépenses par la méthode de l’allocation au kilomètre parcouru;
+38. En effet, l’appelant a parcouru avec son véhicule 38 488 kilomètres pour l’année 2001;
+39. En appliquant une allocation de 0,41 ¢ sur les premiers 5 000 km et de 0,35 ¢ sur le solde, les dépenses s’élèvent à 13 770 $ moins 25 % pour usage personnel, donnant un montant déductible de 10 328,10 $ au lieu de 8 240 $ retenu par le cotiseur;
+45. Pour ce qui est des honoraires professionnels au montant de 20 007,92 $ refusés pour l’année 2003, le cotiseur n’a pas admis les honoraires payés aux personnes suivantes au 4e trimestre de 2003 :
+a)
+Suzanne Desfossés
+2 360 $
+b)
+Guy Perron
+1 740 $
+c)
+Élaine Després
+1 000 $
+d)
+Jacques Poitras
+3 300 $
+e)
+Paul‑Émile Racan-Bastien
+600 $
+f)
+Marie-Catherine Jetté
+2 500 $
+g)
+François-Xavier Jetté
+2 500 $
+14 000 $
+De même que les montants pour le 2e trimestre :
+h)
+Denis Beauregard
+4 187 $
+i)
+Lise Blanchette
+300 $
+46. Le cotiseur prétend que l’appelant n’a pas de factures indiquant le nom, l’adresse et la nature du service rendu; à ce propos, il a refusé d’examiner les contrats intervenus avec ces personnes;
+47. Les personnes ont effectué du travail à la pige pour l’appelant dans le cadre de ses activités; certaines d’entre elles produisaient des factures, d’autres pas, ce qui est courant dans le domaine où oeuvre l’appelant;
+48. Néanmoins, toutes ces personnes ont été payées par chèque dont l’appelant a copie;
+49. Qui plus est, le cotiseur s’est rendu avec l’appelant chez certaines de ces personnes qui ont confirmé avoir fait du travail pour l’appelant, avoir reçu les paiements ci‑avant et les avoir inclus dans leur déclaration de revenu pour 2003;
+50. Le ministère ne peut jouer double jeu en refusant la déductibilité d’une part et l’inclusion dans les revenus du bénéficiaire d’autre part;
+51. Au surcroît, il est curieux que le cotiseur ait admis la déductibilité de sommes payées aux mêmes personnes pour le 3e trimestre de 2003, mais qu’il la refuse pour le 4e trimestre;
+52. Pour les frais de transports pour 2002, l’appelant affirme la même chose qu’au paragraphe 39;
+53. Ainsi, son kilométrage pour 2002 est de 33 721 km;
+54. En appliquant les mêmes principes, la déduction aurait dû être de 9 075,76 $ pour 2002 au lieu de 7 344,37 $ retenu par le cotiseur;
+55. Au sous‑paragraphe i) du paragraphe 17ccc), il s’agit des frais de participation au congrès biennal de la Fédération québécoise des sociétés de généalogie où l’appelant avait un stand au salon des exposants et où se retrouvait un nombre important de ses clients;
+56. Au sous-paragraphe ii) du paragraphe 17ccc), l’appelant indique qu’il était associé avec la Société historique du Marigot pour les sites internet; que cette dernière payait les frais et que l’appelant en remboursait la partie relative à sa participation, d’où le 1 999,99 $;
+57. Au sous-paragraphe iv) du paragraphe 17ccc), c’est la même explication que le paragraphe précédent;
+58. Au sous-paragraphe v) du paragraphe 17ccc), cette somme constitue des dépenses faites à des encans publics pour l’achat de vieux contrats notariés dont l’appelant se sert pour la préparation de ses publications, ceux-ci représentant 90 caisses actuellement en possession de l’appelant;
+59. Ces encans se sont faits sur eBay, au marché philatélique de Montréal ou par l’intermédiaire de monsieur Roland Arsenault de la Fédération québécoise de philatélie;
+60. Dans ce type d’encan, il est très difficile d’obtenir des reçus ou des factures;
+61. C’est pourquoi l’appelant a conservé les pièces justificatives qu’il a pu (ex : avis de débit), mais celles-ci ont été rejetées en bloc par le cotiseur;
+63. L’appelant désire expliquer ainsi ce que l’intimée nomme les « deux factures fictives » avec la Société historique du Marigot (« la Société ») :
+a) La Société a aidé l’appelant pour la préparation des registres numérisés du Fonds Drouin (« FDN ») et lui a fourni divers services ;
+b) Les deux factures constituaient en réalité des contrats par lesquels l’appelant s’engageait à verser à la Société des sommes de 38 711 $ et 11 980 $ plus taxes advenant que la Ville fusionnée de Longueuil lui achète trois exemplaires du FDN;
+c) Cette entente était mentionnée sur les deux factures par l’indication du délai de paiement;
+d) Or, les négociations avec la Ville de Longueuil ont piétiné à cause des référendums de défusion et la défusion effective de quelques (4) villes, ne laissant que trois arrondissements dans la nouvelle Ville de Longueuil;
+e) Cela a fait en sorte que la vente avec la Ville s’est finalisée en novembre 2007 pour un seul exemplaire du FDN au prix de 140 000 $, au lieu de trois copies pour 375 000 $;
+f) Le profit qu’espérait tirer de cette vente l’appelant fut donc beaucoup moindre et les parties ont convenu (commande Ville de Longueuil, en annexe) que les Sociétés recevraient 15 000 $ au lieu des 50 691 $; somme qui fut versée par l’appelant aux Sociétés des arrondissements dont 3 400 $ à la Société historique du Marigot et 11 600 $ aux trois autres le 23 novembre 2007;
+g) L’appelant aurait dû considérer les deux factures comme étant un contrat constituant un compte à payer et créditer la différence lorsque le tout s’est réglé en 2007 ou encore ne pas tenir compte du contrat en 2002 et ne faire les écritures qu’en 2007; l’appelant, dans sa quatrième déclaration trimestrielle de TPS/TVQ, d’octobre à décembre 2007, a crédité la différence de 35 691 $ et les taxes, dans son rapport;
+h) Cela ne fait pas de l’appelant un délinquant comme l’intimée se plaît à le décrire pour lui réclamer des pénalités;
+LA MÉTHODE DE VÉRIFICATION
+[12] Le vérificateur de l'Agence du revenu du Canada (l'« ARC ») a utilisé la méthode des dépôts dans le cadre de sa vérification des affaires de l'appelant plutôt que la méthode par avoir net parce que l'appelant a refusé de fournir des informations sur son coût de la vie et de signer les autorisations bancaires.
+[13] Le vérificateur a indiqué dans un rapport que l'appelant déclarait ses revenus selon la comptabilité de caisse jusqu'au 31 décembre 2001 et que, suite à une vérification des autorités fiscales québécoises, il a régularisé ses registres comptables pour y inclure les revenus facturés au cours de l'année courante mais qui sont perçus l'année suivante. Il a donc établi pour la première fois ses comptes à recevoir à la fin de l'année 2001.
+[14] Le vérificateur a constaté que l'appelant n'utilisait pas les services d'un comptable, ni pour la préparation de ses déclarations de revenus, ni pour obtenir des conseils fiscaux concernant certains achats de biens et services. L'appelant faisait la tenue de livres et s'occupait de toutes les opérations de l'entreprise. Selon le vérificateur, la tenue de livres était inadéquate sauf pour la comptabilisation des ventes, qui, elle, était bien faite. Il n'y avait pas de journal des achats, les factures étaient classées par trimestre dans une boîte et toutes les dépenses, que ce soit de nature capitale ou d'exploitation, étaient déduites des ventes. De nombreuses dépenses n'étaient pas corroborées par des pièces justificatives. Les crédits de taxe sur intrants pouvaient être déposés dans le compte personnel de l'appelant ou dans le compte de banque de l'entreprise dépendamment des besoins financiers de l'appelant.
+[15] Au mois d'avril 2010, l'appelant a mandaté monsieur Roger Landreville comptable agréé afin de refaire la comptabilité complète des années 2001, 2002 et 2003 en utilisant la comptabilité d'exercice et afin de concilier les dépôts bancaires pour chacune de ces années. Il a remis son rapport au mois de mai 2010 en préparation de l'audition de la cause.
+[16] L'exercice du comptable Landreville a démontré que l'impact de la comptabilité d'exercice avait entraîné un écart total (diminution du revenu) de 213 332 $ pour les trois années entre le revenu brut révisé selon les chiffres de l'ARC (comptabilité de caisse) et le revenu brut révisé selon ses propres chiffres. Cet écart de 213 332 $ doit être diminué de 46 186,55 $, soit le montant des comptes à recevoir au 31 décembre 2000, parce qu'il n'a pas été inclus dans le revenu de l'année 2000.
+ADMISSIONS ET CONCESSIONS
+[17] Lors de l'audience, les parties ont fait les admissions et concessions suivantes :
+a) la comptabilité d'exercice doit être utilisée par l'appelant afin de déclarer ses revenus pour les années d'imposition 2001, 2002 et 2003;
+b) les comptes à recevoir au 31 décembre de chaque année d'imposition en litige sont comme suit :
+2001 : 26 612,63$
+2002 : 63 935,37 $
+2003 : 25 842,08 $
+c) le gain en capital non déclaré pour l'année 2003 doit être de 32 877,71 $, soit un gain en capital imposable au montant de 16 423,85 $;
+d) les dépenses supplémentaires suivantes pour l'utilisation d'une automobile doivent être accordées :
+2001 : 2 088 $
+2002 : 1 733 $
+e) la dépense de 50 $ encourue en 2001 pour commanditer un tournoi de golf et la dépense de 425 $ pour frais de congrès réclamée en 2002 doivent être accordées;
+f) les honoraires professionnels de 8 000 $ versés à monsieur Michel Pratt et de 300 $ versés à madame Lise Blanchette doivent être accordées à titre de dépenses déductibles en 2003;
+g) des avances de salaires consenties à la Société Historique du Marigot Inc. au montant de 2 250 $ doivent être accordées à titre de dépenses déductibles en 2002;
+h) les coûts d'achat d'équipements informatiques totalisant 1 999,98 $ commandés par la Société Historique du Marigot Inc. mais payés par l'appelant en 2002 doivent être accordés à titre de dépenses capitalisables;
+i) trois chèques totalisant 675 $ faits à l'ordre de la Société de généalogie du Québec, de Robert Gagnon et de Jacques Poitras doivent être admis à titre de dépenses déductibles en 2002.
+ANALYSE
+La méthode de vérification et le revenu non déclaré
+[18] La détermination du bénéfice tiré de l'exploitation d'une entreprise aux fins de l'article 9 de la Loi requiert généralement le calcul du revenu selon la méthode de la comptabilité d'exercice sauf pour les entreprises agricoles ou les entreprises de pêche. Dans le cas présent, la comptabilité d'exercice s'imposait et l'appelant s'y est finalement conformé.
+[19] Compte tenu de l'état de la comptabilité de l'appelant et de son absence de collaboration, le vérificateur de l'ARC était justifié de procéder par la méthode des dépôts, même s'il s'agit d'une méthode peu fiable et qui requiert plusieurs ajustements. L'ARC n'avait pas à refaire la comptabilité de l'appelant.
+[20] Par contre, la conciliation des dépôts effectués par le comptable Landreville pour les trois années en litige en appliquant la méthode de la comptabilité d'exercice tend à démontrer que l'appelant n'a pas caché de revenus car la différence entre les revenus bruts déclarés et les revenus bruts révisés est peu importante:
+2001
+$
+2002
+$
+2003
+$
+Revenus bruts déclarés
+346 614,00
+319 392,00
+174 234,00
+Revenus bruts révisés
+354 602,34
+256 882,73
+168 618,17
+[21] En effectuant la conciliation des dépôts bancaires en appliquant la comptabilité d'exercice, l'appelant a démoli les présomptions formulées par le ministre dans sa cotisation par une preuve prima facie. Il a également été démontré que les montants transférés du compte d'entreprise au compte personnel ont été ajoutés aux revenus non déclarés alors que tous les relevés de banque étaient disponibles pour examen. De plus, tous les remboursements de dépenses personnelles ont été ajoutés aux revenus non déclarés. Les remboursements de la taxe de vente du Québec et les crédits de taxe sur intrants qui ont été déposés dans le compte de banque personnel de l'appelant ont été ajoutés aux revenus non déclarés. Le produit de la vente de l'immeuble a été inclus en totalité dans les revenus non déclarés même si la transaction a donné lieu à la réalisation d'un gain en capital. Enfin, une avance de 8 000 $ consentie à l'appelant par sa conjointe a été ajoutée aux revenus d'entreprise non déclarés de l'appelant.
+[22] Compte tenu des éléments mentionnés au paragraphe précédent et le fait que la comptabilisation des ventes de l'appelant était adéquate, l'appelant a rencontré son fardeau de la preuve de sorte qu'il appartenait au ministre de déposer la preuve de l'existence de ce revenu, ce qui n'a pas été fait en l'occurrence. Les revenus d'entreprise non déclarés doivent par conséquent être soustraits des nouvelles cotisations.
+Revenu de location
+[23] Un revenu net de location de 2 550 $ a été ajouté aux revenus de 2001. Selon la preuve, le montant du revenu brut de location de (5 400 $) a été inclus dans les dépôts bancaires et dans le revenu brut déclaré de 2001. Par conséquent, ce revenu de location doit être soustrait des changements apportés aux revenus.
+Dépenses capitalisables
+[24] Ces dépenses représentent les achats de biens, tels que les actes de baptême, de mariage et de décès, des registres de villes, villages et paroisses, des équipements informatiques, de collections personnelles et de microfilms et des dépenses de numérisation, i.e. le processus par lequel les documents physiques sont transformés en une suite de valeurs numériques, digitales ou en images numérisés. L'ensemble des documents numérisés constitue une banque de données qui est accessible par internet ou intranet et de laquelle on peut produire des cédéroms. Il s'agit d'une sorte de bibliothèque électronique.
+[25] L'ARC a refusé la déduction de 334 019 $ comme dépense d'exploitation pour les trois années en litige. Le comptable Landreville a procédé à l'examen des dépenses capitalisables, telles que calculées par l'ARC, et à l'analyse des dépenses capitalisées avec les pièces justificatives y afférentes. Selon son analyse, la majorité de ces dépenses réfèrent aux services de numérisation de la société Xébec, de la Société Historique du Marigot Inc. et d'achats de contrats pour une somme combinée de 306 225,38 $.
+[26] Malgré son analyse, le comptable Landreville conteste le bien-fondé de la capitalisation de ces dépenses. Selon le vérificateur de l'ARC, ces dépenses confèrent un avantage durable et, par conséquent, elles doivent être inscrites dans une catégorie prescrite et être amorties selon le taux d'amortissement désigné, qui doit être appliqué sur le solde dégressif de la catégorie de biens. À l'appui de sa position, le vérificateur invoque le chapitre 3061 du manuel de l'Institut canadien des comptables agréés (l'« ICCA ») qui définit les « immobilisations corporelles » comme suit :
+Les immobilisations corporelles sont des éléments d'actif identifiables qui ont une existence à la fois tangible et physique, et qui satisfont à tous les critères suivants :
+1) ils sont destinés à être utilisés pour la production ou la fourniture de biens, pour la prestation de services …
+2) ils ont été acquis, construits, développés ou mis en valeur en vue d'être utilisés de façon durable;
+3) ils ne sont pas destinés à être vendus dans le cours normal des affaires;
+4) le coût correspond au montant de la contrepartie donnée pour acquérir, construire, développer ou mettre en valeur, ou améliorer une immobilisation corporelle. Il englobe tous les frais directement rattachés à l'acquisition, à la construction, au développement ou à la mise en valeur, ou à l'amélioration de l'immobilisation corporelle, y compris les frais engagés pour amener celle-ci à l'endroit et dans l'état où elle doit se trouver aux fins de son utilisation prévue. [. . . ]
+[27] Le comptable Landreville soutient que les dépenses capitalisées par le vérificateur ne répondent pas aux critères 2 et 3 de la définition des « immobilisations corporelles » puisque lesdites dépenses n'ont pas été encourues pour créer des biens devant être utilisés de façon durable mais plutôt à créer des biens destinés à être vendus dans le cours normal des affaires. À l'appui de son argumentation, il invoque le fait que les travaux de numérisation ont débuté en 2001 et que des ventes liées à ces travaux ont été effectuées au début de l'année 2002.
+[28] La collection maîtresse de l'appelant comprenait à l'origine 2 366 microfilms et 3 600 000 images. Toute la collection était contenue dans six volumes et était vendue au prix de 75 000 $. Avec l'arrivée de l'informatique, les 2 366 microfiches ont pu être mises sur 1 700 cédéroms et 100 DVDs. L'opération s'est faite progressivement au fil des commandes mais a tout de même engendré un déficit accumulé de plus de 600 000 $ sur une période de six ans. À l'automne 2006, la collection complète développée sur cédérom et DVD est devenue disponible sur disques durs et a commencé à produire des revenus importants. Selon la description même de l'appelant, lesdites dépenses ont convergé vers la production d'un outil généalogique et historique, maintenant accessible sur disques durs ou en virtuel sur des sites internet.
+[29] Selon la preuve, il y a certes eu des ventes de disques compacts au cours de l'informatisation et de la numérisation de la collection mais ces ventes étaient négligeables par rapport aux coûts de l'opération. Le vérificateur de l'ARC a accordé les dépenses de production des disques compacts même si l'appelant n'a pas produit les factures de vente et n'a pas rencontré son fardeau de la preuve à cet égard. Le contrat de traitement d'image numéro 9412C3M4 conclu en date du 18 décembre 2001 prévoyait une facturation minimale mensuelle de 10 000 $ par mois et n'était donc pas en relation avec les commandes des clients. L'appelant a mis fin à ce contrat le 27 mars 2002 pour le remplacer par un autre contrat sans engagement fixe. Autre élément intéressant, le bilan personnel de l'appelant au 6 avril 2004, préparé par le comptable Landreville, indique à titre de placements la numérisation de la collection au montant de 291 000 $. De plus, la possession de la collection de l'appelant a été cédée à Micromatt Canada Ltée en 2004 afin de garantir des emprunts contractés pour parachever la numérisation.
+[30] Concernant les achats d'ordinateurs effectués par l'appelant mais mis à la disposition de la Société Historique du Marigot Inc., il y a lieu de mentionner que l'appelant n'a pas produit l'entente avec la Société Historique du Marigot Inc. à cet égard et il n'a pas fait référence dans ses procédures d'appel. Au surplus, le président de la Société Historique du Marigot Inc., monsieur Michel Pratt n'a pas témoigné à l'audience de sorte que l'appelant n'a pas renversé son fardeau de la preuve à cet égard.
+[31] Compte tenu des circonstances ci-dessus mentionnées, il m'apparaît clair que la banque de données créée par l'appelant constitue immobilisation corporelle au sens du chapitre 3061 du manuel de l'ICCA, laquelle peut être amortie au taux de 20 % par année en vertu de la catégorie 8 alinéa (i) à l'Annexe II des Règlements de l'impôt sur le revenu (voir le bulletin d'interprétation No. IT-472, paragraphe 8).
+Dépenses d'exploitation refusées
+[32] Les dépenses sous cette rubrique sont de plusieurs ordres et comprennent notamment les dépenses suivantes :
+a) Honoraires professionnels
+Les dépenses refusées à ce titre sont de 1 009,92 $ en 2001 et de 20 007,92 $ en 2003. La dépense de 1 009,92 $ a été encourue pour la préparation des testaments et des mandats d'inaptitude de l'appelant et de sa conjointe, donc n'est pas déductible parce qu'il ne s'agit pas d'une dépense engagée pour gagner un revenu. Sur les dépenses de 20 007,92 $ engagées en 2003, 18 220,34 $ représentaient des avances consenties à des auteurs pour la publication de livres. De ces avances, la somme de 8 000 $ avancée à M. Michel Pratt et la somme de 300 $ avancée à Mme Lise Blanchette ont été acceptées par l'intimée lors de l'audience.
+b) Dons de charité
+Les dépenses refusées à ce titre sont : 825 $ en 2001, 7 638,72 $ en 2002 et 31 201 $ en 2003. Ces montants ne peuvent être réclamés comme dépenses parce qu'elles donnent droit à un crédit d'impôt mais l'appelant ne peut se prévaloir des crédits pour les dons qui sont autorisés par les auteurs qu'il représente.
+c) Avances salaires à la Société Historique du Marigot Inc.
+Les dépenses refusées à ce titre sont : 6 800 $ en 2002. L'appelant utilisait les services des employés de la Société Historique du Marigot Inc. pour faire exécuter certains travaux et il avançait des sommes d'argent pour payer le salaire de ces employés. L'appelant déduisait les avances de salaires consenties et les déduisait à nouveau lorsqu'il était facturé par la Société Historique du Marigot Inc. pour les services rendus. Les factures pour les services rendus incluaient déjà les dépenses de salaire. Ces avances de salaires ne pouvaient donc pas être déduites. L'intimée a tout de même admis la déduction de 2 250 $;
+d) Transport
+Les dépenses refusées à ce titre sont :
+2001 : 7 214,37 $
+2002 : 9 611,73 $
+2003 : 3 821,74 $
+Ces dépenses ont été refusées parce que l'appelant réclamait à la fois les frais de fonctionnement (carburant, frais d'entretien et de réparation, droits d'immatriculation et de permis, primes d'assurance et le coût de location) et une charge basée sur le nombre de kilomètres parcourus. Suite aux représentations de l'appelant, l'intimée a accordé une déduction de 2 088 $ pour 2001 et de 1 733 $ pour 2002.
+e) Loyer
+Les dépenses refusées à ce titre sont :
+2001 : 975,61 $
+2002 : 1 349,49 $
+2003 : 2 863,81 $
+Ces dépenses ont été refusées parce qu'elles représentent une charge pour frais d'entreposage qui n'a pas été incluse dans le revenu de l'appelant à titre de revenu de biens. L'appelant était propriétaire du duplex dont un des logements était utilisé comme entrepôt. Aucun ajustement n'est requis parce que le traitement de ces dépenses n'est pas contesté.
+f) Bureau à domicile
+Les dépenses refusées à ce titre sont de 1 208,48 $ pour 2002. Les frais de bureau ont tous été accordés sauf pour ce montant qui n'est pas contesté. Aucun ajustement n'est donc requis.
+g) Communications
+Les dépenses refusées à ce titre sont :
+2002 : 574,32 $
+2003 : 2 155 $
+Ces dépenses ont été refusées parce qu'elles ne sont pas corroborées par des pièces justificatives. Aucun ajustement n'est requis.
+h) Frais financiers
+Les dépenses refusées à ce titre sont :
+2001 : 2 481,44 $
+2003 : 6 681,16 $
+Ces dépenses ont été refusées parce que l'appelant déduisait la totalité des intérêts hypothécaires sur sa résidence sans tenir compte de la partie personnelle d'utilisation de la résidence (i.e. 50 %). Par conséquent, 50 % des frais d'intérêt sur l'hypothèque de la résidence ont été refusés de même que le montant de la pénalité payée par l'appelant pour le remboursement de l'hypothèque avant l'échéance qui a été déduit dans le calcul du gain en capital réalisé lors de la disposition de l'immeuble locatif, et le montant des ristournes reçues de la Caisse Populaire qui avaient été ajoutés aux frais financiers. Aucun ajustement n'est requis.
+i) Achats et dépenses non identifiés
+Les dépenses refusées à ce titre sont des achats de 994 $ et des dépenses non identifiées de 17 453,73$ effectués en 2001. Ces dépenses ont été refusées parce qu'elles représentent l'achat de biens capitalisables. Aucun ajustement n'est par conséquent nécessaire.
+j) Dépenses sans pièces justificatives
+Les dépenses refusées à ce titre sont de 24 990,16 $ pour l'année 2002. Selon l'appelant, il s'agit de dépenses faites à des encans publics pour l'achat de de vieux contrats notariés. Dans ce type d'encan, il est difficile d'obtenir des reçus ou des factures. Ces encans se sont faits sur eBay, au marché philatélique de Montréal ou par l'intermédiaire de monsieur Roland Arsenault de la Fédération québécoise de philatélie. Les dépenses relatives à ces achats ne peuvent être déduites dans le calcul du revenu de l'appelant. Au mieux, ces dépenses auraient pu être capitalisées pourvu que la preuve d'achat soit faite. Le témoignage de monsieur Arsenault aurait pu être utile à cet égard.
+k) Autres dépenses refusées
+Les dépenses visées totalisent 53 650,29 $ en 2002 et 14 973 $ en 2003. Les dépenses de 2003 représentent des avances de salaire à la Société Historique du Marigot Inc. alors que les dépenses de 2002 représentent à concurrence de 50 691 $, les deux factures de la Société Historique du Marigot Inc. au montant chacune de 38 711 $ et de 11 980 $, auxquelles font référence les paragraphes 5 et 11 (particulièrement le paragraphe 63 de la Réplique à la Réponse modifiée à l'avis d'appel) du présent jugement. Ces factures manuelles qualifiées de « deux factures fictives » par l'intimée n'auraient pas dû être rédigées et ni émises par l'appelant au nom de la Société Historique du Marigot Inc. et n'auraient pas dû être déduites dans le calcul du revenu de l'appelant de 2002 vu qu'elles n'étaient payables qu'à la fin du projet en 2004 ou 2005, et ce, uniquement sur réception de la commande de la Ville de Longueuil (montant contingent). Finalement, seulement 3 400 $ ont été payés par l'appelant à la Société Historique du Marigot Inc. en novembre 2007. Dans les circonstances, le montant de ces deux factures n'était pas déductible dans le calcul du revenu de l'appelant en 2002.
+Pénalités
+[33] Les pénalités imposées par le ministre sont celles prévues au paragraphe 163(2) de la Loi qui se lit comme suit :
+Faux énoncés ou omissions — Toute personne qui, sciemment ou dans des circonstances équivalant à faute lourde, fait un faux énoncé ou une omission dans une déclaration, un formulaire, un certificat, un état ou une réponse (appelé « déclaration » au présent article) rempli, produit ou présenté, selon le cas, pour une année d'imposition pour l'application de la présente loi, ou y participe, y consent ou y acquiesce est passible d'une pénalité égale, sans être inférieure à 100 $, à 50 % du total des montants suivants : [. . . ]
+[34] Compte tenu des circonstances décrites ci-dessus, je suis d'avis que les pénalités à l'égard des années d'imposition 2002 et 2003 sont justifiées. L'appelant n'a pas déclaré en 2003 le gain en capital imposable de 16 423,85 $ et a réclamé en 2002 des dépenses d'exploitation non déductibles d'un montant de 50 691 $, soit les deux factures du 14 octobre 2002 au nom de la Société Historique du Marigot Inc.
+[35] Les appels pour les années d'imposition 2001, 2002 et 2003 sont accueillis en partie et les cotisations sont déférées au ministre pour nouvel examen et nouvelles cotisations afin de donner effet aux admissions et concessions des parties et aux conclusions des présents motifs et d'imposer des pénalités à l'égard du gain en capital imposable non déclaré de 16 423,85$ pour l'année d'imposition 2003 et des dépenses d'exploitation refusées de 50 691 $ pour l'année d'imposition 2002. Chaque partie devra assumer ses propres frais et dépens.
+Signé à Ottawa, Canada, ce 25e jour d'octobre 2011.
+« Réal Favreau »
+Juge Favreau
+RÉFÉRENCE : 2011 CCI 424
+Nº DU DOSSIER DE LA COUR : 2007-2051(IT)G
+INTITULÉ DE LA CAUSE : Jean-Pierre Pépin et Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATES DE L’AUDIENCE : les 31 mai, 1er et 2 juin 2010
+MOTIFS DU JUGEMENT PAR : L'honorable juge Réal Favreau
+DATE DU JUGEMENT : le 16 septembre 2011
+DATE DU JUGEMENT
+MODIFIÉ : le 25 octobre 2011
+COMPARUTIONS :
+Avocat de l'appelant :
+Me Denis Racine
+Avocat de l'intimée :
+Me Claude Lamoureux
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelant :
+Nom : Me Denis Racine
+Cabinet : Bussières Racine et Langevin
+Québec (Québec)
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada

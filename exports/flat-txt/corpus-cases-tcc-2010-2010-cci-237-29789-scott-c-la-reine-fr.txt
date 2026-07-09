@@ -1,0 +1,207 @@
+Title: Scott c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29789/index.do
+Corpus path: corpus/cases/tcc/2010/2010-cci-237-29789-scott-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2010-05-05
+
+# Scott c. La Reine
+
+- Citation: 2010 CCI 237
+- Decision date: 2010-05-05
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6595, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Scott c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2010-05-05
+Référence neutre
+2010 CCI 237
+Numéro de dossier
+2008-1657(IT)I
+Juges et Officiers taxateurs
+Diane Campbell
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2008­1657(IT)I
+ENTRE :
+GEORGE W. SCOTT,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+________________________________________________________________
+Appels entendus sur preuve commune avec les appels de Stephonie Scott (2008‑1704(IT)I), le 15 mars 2010, à Toronto (Ontario).
+Devant : L'honorable juge Diane Campbell
+Comparutions :
+Représentante de l'appelant :
+Mme Stephonie Scott
+Avocats de l'intimée :
+Me Carol Calabrese
+Me Aleksandrs Zemdegs
+________________________________________________________________
+JUGEMENT
+Les appels des cotisations établies en vertu de la Loi de l'impôt sur le revenu pour les années d'imposition 2005 et 2006 sont rejetés, sans dépens, conformément aux motifs du jugement ci­joints.
+Signé à Ottawa, Canada, ce 5e jour de mai 2010.
+« Diane Campbell »
+Le juge Campbell
+Traduction certifiée conforme
+ce 22e jour de juin 2010.
+Yves Bellefeuille, réviseur
+Dossier : 2008­1704(IT)I
+ENTRE :
+STEPHONIE SCOTT,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+________________________________________________________________
+Appels entendus sur preuve commune avec les appels de George W. Scott (2008‑1657(IT)I), le 15 mars 2010, à Toronto (Ontario).
+Devant : L'honorable juge Diane Campbell
+Comparutions :
+Pour l'appelante :
+L'appelante elle­même
+Avocats de l'intimée :
+Me Carol Calabrese
+Me Aleksandrs Zemdegs
+________________________________________________________________
+JUGEMENT
+Les appels des cotisations établies en vertu de la Loi de l'impôt sur le revenu pour les années d'imposition 2005 et 2006 sont rejetés, sans dépens, conformément aux motifs du jugement ci­joints.
+Signé à Ottawa, Canada, ce 5e jour de mai 2010.
+« Diane Campbell »
+Le juge Campbell
+Traduction certifiée conforme
+ce 22e jour de juin 2010.
+Yves Bellefeuille, réviseur
+Référence : 2010 CCI 237
+Date : 20100505
+Dossiers : 2008­1657(IT)I
+2008­1704(IT)I
+ENTRE :
+GEORGE W. SCOTT,
+STEPHONIE SCOTT,
+appelants,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Campbell
+[1] Les présents appels faisaient partie d'un groupe d'appels portant sur des dons de bienfaisance concernant près de quarante appelants différents. Au moment où la date de l'audience avait été fixée, un grand nombre d'appelants s'étaient désistés de leurs appels. En fin de compte, seuls les appels de Richard Kwame Adomphwe (2008‑3722(IT)I), de George W. Scott (2008‑1657(IT)I), de Stephonie Scott (2008‑1704(IT)I) et de Doreen Tuar (2008‑2888(IT)I) ont été instruits.
+[2] Les appels des Scott ont été entendus ensemble sur preuve commune; les deux appels se rapportent aux années d'imposition 2005 et 2006 des appelants. Au cours de chacune de ces années d'imposition, les appelants ont demandé des crédits d'impôt non remboursables à l'égard des dons de bienfaisance suivants :
+Stephonie Scott
+Année
+Organisme de bienfaisance
+Montant
+2005
+CanAfrica
+2 700 $
+2006
+Bible Teaching Ministries
+3 200 $
+2006
+Heaven's Gate Healing Ministry
+(« Heaven's Gate »)
+3 690 $
+George W. Scott
+Année
+Organisme de bienfaisance
+Montant
+2005
+PanAfrican Canadian Multicultural Centre
+8 410 $
+2005
+Bible Teaching Ministries
+4 125 $
+2006
+Heaven's Gate Healing Ministry
+(« Heaven's Gate »)
+4 130 $
+2006
+Bible Teaching Ministries
+3 500 $
+[3] La maison des appelants a été mise en vente à un moment donné en 2005. Selon M. Scott, lorsque la maison a été vendue, au milieu de l'année 2006, ils se sont installés dans un logement locatif parce que sa femme n'avait pas d'emploi régulier et qu'ils utilisaient leurs épargnes pour payer les dépenses. Madame Scott a déclaré qu'un ami l'avait dirigée vers une personne qui viendrait chercher les meubles dont elle voulait se départir avant la vente de la maison et que cette personne évaluerait ces articles et lui remettrait un reçu pour le compte d'un organisme de bienfaisance, en Afrique. À un moment donné en 2005 ou en 2006, ces articles ont été ramassés; le mari de Mme Scott a également livré des articles à l'organisme de cette personne, mais Mme Scott ne sait pas où les articles ont été laissés. Monsieur Scott a confirmé avoir apporté les articles à une remorque appartenant à George Gudu, mais a dit qu'il l'avait fait en 2004. Madame Scott a déclaré qu'elle s'était présentée avec son mari chez Ambrose Danso‑Dapaah, à Mississauga, pour regarder des vidéos d'organismes de bienfaisance qui s'occupaient d'enfants africains. Il ressort de la preuve qu'à part ce contact, Mme Scott a uniquement traité avec George Gudu par l'entremise de son mari, qui a finalement demandé à celui‑ci de préparer leurs déclarations de revenus des années 2005 et 2006. Monsieur Scott a remis les renseignements concernant sa femme à M. Gudu, qui a préparé les déclarations de Mme Scott, puis il a apporté les déclarations à la maison pour que sa femme les signe. Madame Scott a déclaré ne pas avoir examiné ces déclarations avant de les signer.
+[4] Monsieur Scott a initialement fait connaissance avec M. Gudu lors d'une visite aux bureaux d'ADD Accounting pour y laisser des articles dont les Scott faisaient don. En 2005, George Gudu était employé à temps partiel chez ADD Accounting et il travaillait pour le propriétaire, Ambrose Danso‑Dapaah. Monsieur Danso­Dapaah a depuis lors plaidé coupable à une accusation de fraude, le 15 décembre 2008, pour avoir délivré de faux reçus pour dons de bienfaisance à des clients d'ADD Accounting et pour avoir préparé de fausses déclarations de revenus.
+[5] Monsieur Gudu a acheté la liste de clients d'ADD Accounting de M. Danso‑Dapaah au mois de décembre 2006 et il a commencé à exercer ses activités sous la raison sociale Payless Tax. Monsieur Gudu a avoué qu'il avait tout bonnement continué la pratique courante qui était de délivrer de faux reçus pour lesquels, selon son témoignage, les clients versaient un montant représentant 10 p. 100 de la valeur nominale du reçu. Monsieur Gudu a également été accusé, ainsi qu'un troisième spécialiste en déclarations de revenus, et selon la preuve, il doit plaider coupable à une accusation de fraude, conformément à une entente conclue avec l'ARC, dans un proche avenir.
+[6] Monsieur Scott a affirmé avoir effectué des dons en espèces en plus des dons de biens. Il a affirmé qu'entre les mois de janvier et de décembre 2005, il avait retiré à maintes reprises de l'argent de son compte bancaire et avait remis cet argent au bureau de M. Gudu. Toutefois, il ne se rappelait pas quels étaient ces montants ni l'emplacement exact de ce bureau. Ces montants en espèces ont été retirés en même temps qu'il a retiré certains montants pour payer les dépenses du ménage. Monsieur Scott n'a pas pu fournir de renseignements au sujet des montants qu'il avait peut‑être retirés, ni aucun document justificatif, bancaire ou autre. En ce qui concerne les biens qui ont été donnés, M. Scott a affirmé avoir dressé une liste de ces articles, mais il avait jeté la liste et il n'a pas pu la produire à l'audience.
+[7] Monsieur Scott a affirmé qu'en 2006, il avait remis des biens et des montants en espèces au bureau de M. Gudu, Payless Tax, mais uniquement trois ou quatre fois. Il ne se rappelait pas les noms des personnes qui avaient reçu l'argent au bureau. Il a maintenu encore une fois avoir dressé une liste personnelle de ces paiements, mais avoir égaré cette liste.
+[8] En 2005, le revenu d'emploi de M. Scott s'élevait à 45 741,37 $, plus une indemnité de départ de 46 432,14 $, ce qui expliquait un revenu plus élevé que normalement cette année‑là. En 2006, le revenu d'emploi de M. Scott était de 53 572,66 $. Madame Scott a gagné 20 280,42 $ en 2005 et 31 175,28 $ en 2006.
+[9] Monsieur Scott a déclaré n'avoir jamais enquêté sur le travail des organismes de bienfaisance ici en cause, si ce n'est pour lire les brochures de ces organismes et pour vérifier s'ils étaient enregistrés.
+[10] Lorsqu'on lui a présenté les factures jointes aux déclarations des années 2005 et 2006, imprimées à l'aide du logiciel CANTAX avec du matériel informatique que l'Agence du revenu du Canada (l'« ARC ») avait saisi du bureau de M. Gudu, M. Scott a nié avoir vu les factures. Selon M. Scott, ces factures indiquaient un montant nul au titre des frais de préparation parce qu'il avait versé d'avance ces frais à M. Gudu dès que les documents avaient été rédigés, au mois de mars ou d'avril. Ces factures indiquaient également le montant global des reçus émis chaque année mais, à côté des montants, il était clairement mentionné qu'un montant représentant 10 p. 100 seulement de la valeur nominale de chaque reçu avait été versé. La facture se rapportant à l'année d'imposition 2005 indique que le paiement intégral des 10 p. 100 a été reçu le 28 mars 2006 et non au cours de l'année 2005, comme M. Scott l'affirmait. La facture se rapportant à l'année d'imposition 2006 renferme les mêmes renseignements, mais elle indique que le montant de 10 p. 100 est encore dû. Dans cette facture de 2006, il est également fait mention d'une personne s'appelant « James ». Lors du contre‑interrogatoire, M. Scott a déclaré qu'il travaillait avec James Grossett, mais il ne savait pas pourquoi il était fait mention de « James » dans cette facture. Au cours de l'interrogatoire principal, M. Gudu a identifié « James », dont il était fait mention dans le reçu de 2006, comme étant « James Grossett », qui travaillait pour lui et qui recrutait des clients en apportant les feuillets T‑4 des contribuables pour que leurs déclarations soient préparées. Monsieur Grossett, l'une de plusieurs personnes qui effectuaient ce travail pour Payless Tax, touchait une commission de 1,5 p. 100 sur le montant de 10 p. 100 versé par les clients qu'il recrutait pour l'entreprise. Monsieur Scott a soutenu que, malgré ces factures, il avait fait un don correspondant au montant intégral indiqué sur chaque reçu, soit en espèces, soit au moyen de dons en nature. De même, Stephonie Scott a affirmé avoir versé le montant complet indiqué sur les reçus soit en espèces, soit en nature, et non simplement les 10 p. 100 indiqués dans les factures jointes aux déclarations saisies.
+[11] Monsieur Gudu ne se souvenait pas précisément des Scott. En 2005, il travaillait à temps partiel comme spécialiste en déclarations de revenus pour ADD Accounting, qui appartenait à M. Ambrose Danso‑Dapaah. Avant que M. Gudu exerce cet emploi à temps partiel en 2005, c'était M. Danso‑Dapaah qui préparait les déclarations de revenus de M. Gudu. Ils avaient été camarades de classe avant de venir au Canada. Monsieur Gudu a déclaré que, lorsqu'il préparait les déclarations de revenus en 2005, tous les employés d'ADD Accounting avaient l'habitude de remettre des reçus pour dons de bienfaisance dont le montant était gonflé, les clients ayant versé 10 p. 100 seulement de la valeur nominale des reçus. Les montants correspondant à ces 10 p. 100 étaient ensuite partagés entre l'organisme de bienfaisance qui fournissait les reçus signés d'avance et ADD Accounting. Au mois de décembre 2006, M. Danso‑Dapaah a offert de vendre sa liste de clients à M. Gudu, lequel a donc réinstallé l'entreprise à un nouvel endroit, rue Kipling, sous la raison sociale Payless Tax. Monsieur Gudu a déclaré qu'environ 98 p. 100 des 3 000 clients d'ADD Accounting achetaient de tels reçus et qu'il avait continué à se livrer à cette pratique après avoir acheté la liste de clients et après s'être installé au nouvel endroit. Au cours de la période où les déclarations de revenus étaient préparées, on conservait les reçus signés d'avance dans des voitures plutôt qu'au bureau pour éviter qu'ils soient découverts. En plus de M. Gudu, différents employés établissaient les reçus afin que ceux‑ci soient rédigés de mains différentes et semblent authentiques.
+[12] Monsieur Gudu a déclaré que les dons en nature étaient principalement composés de vêtements qui n'étaient pas évalués. On n'a jamais tenté d'établir un lien entre la valeur des biens donnés et la valeur attribuée à ces biens dans le reçu. Selon ce qu'il se rappelait, les seuls biens, pour l'année d'imposition 2006, qui avaient été évalués par Payless Tax auraient été une pile sèche, des lunettes et des articles de literie donnés par un hôtel et par une lunetterie. En outre, ces biens avaient été reçus en 2007, alors que les reçus avaient été émis pour l'année d'imposition précédente. Monsieur Gudu déclare qu'il n'était donc pas possible que M. Scott ait fait, en 2006, des dons en nature d'une valeur de plus de 8 000 $. Monsieur Gudu a également déclaré qu'aucun bien en nature n'avait été donné à l'organisme de bienfaisance appelé Heaven's Gate, bien que M. Scott ait maintenu que son don de 4 130 $ en faveur de Heaven's Gate, en 2006, était en partie un don en espèces et en partie un don en nature.
+[13] Monsieur Gudu a déclaré que son matériel informatique avait été saisi au mois d'avril 2007. Des copies des déclarations de ses clients ainsi que d'autres documents, et notamment des factures, se trouvaient dans le matériel saisi.
+[14] Monsieur Kofi Debrah, un soi‑disant pasteur, a témoigné avoir [TRADUCTION] « traité » avec M. Danso‑Dapaah et M. Gudu, pour le compte de son organisme de bienfaisance, Bible Teaching Ministries, qui est devenu un organisme de bienfaisance enregistré en 2005. Il a confirmé [TRADUCTION] l'« arrangement » qu'il avait pris avec ces deux personnes au sujet de l'émission de reçus de Bible Teaching Ministries et du paiement par les clients d'un montant ne représentant que 10 p. 100 de la valeur nominale des reçus. Ce montant de 10 p. 100 était ensuite partagé entre les spécialistes en déclarations de revenus et M. Debrah ou, à en croire M. Debrah, son organisme de bienfaisance. Les sommes que M. Gudu remettait à M. Debrah étaient toujours des sommes en espèces. Monsieur Debrah a également admis que les reçus délivrés par Bible Teaching Ministries et remis à M. Gudu étaient des reçus en blanc, sauf qu'ils étaient signés d'avance.
+[15] Deborah Edyvean, l'enquêteuse de l'ARC, a énuméré les renseignements, y compris les copies des déclarations de revenus de clients, obtenus du logiciel CANTAX sur les ordinateurs et le matériel saisis dans les bureaux de Payless Tax, ainsi qu'à la résidence personnelle et dans la fourgonnette de M. Gudu. De plus, des carnets de reçus, de divers organismes de bienfaisance, dont certains étaient rédigés, alors que d'autres étaient déjà signés et scellés, mais par ailleurs laissés en blanc, ont été saisis. Du papier à en‑tête de certains organismes de bienfaisance et des lettres ont également été saisis.
+[16] Madame Edyvean a également renvoyé aux factures jointes aux déclarations à l'égard de la préparation des déclarations de revenus qui avaient été remises aux appelants en 2005 et en 2006. Le relevé des frais de préparation des déclarations de revenus remis à l'appelant indiquait le numéro du reçu et le montant nominal du reçu, mais n'indiquait qu'un paiement représentant 10 p. 100 de ce montant, effectué au cours de l'année où la déclaration avait été préparée et produite.
+[17] Madame Edyvean et Barbara Lovie, qui était également enquêteuse spéciale à l'ARC, ont conclu que M. Danso‑Dapaah et M. Gudu participaient à un stratagème en vertu duquel ces spécialistes en déclarations de revenus indiquaient des montants gonflés sur les reçus, qui étaient achetés par les clients pour un montant représentant 10 p. 100 du montant gonflé. Il a été confirmé que M. Danso­Dapaah avait présenté un plaidoyer de culpabilité en 2008 et que M. Gudu, parmi d'autres, avait été accusé de fraude. L'enregistrement de tous les organismes de bienfaisance ici en cause a maintenant été annulé. Selon la preuve présentée par Mme Lovie, le montant des faux reçus pour dons de bienfaisance que M. Danso‑Dapaah avait remis s'élevait à environ 21,6 millions de dollars, des crédits d'impôt non remboursables de 6,2 millions de dollars ayant été demandés.
+[18] Il s'agit principalement de savoir en l'espèce si les appelants ont effectué, en faveur d'organismes de bienfaisance enregistrés, des dons les autorisant à demander des crédits d'impôt non remboursables conformément à l'article 118.1 de la Loi de l'impôt sur le revenu (la « Loi »). De plus, une deuxième question se pose, à savoir si les reçus émis par ces organismes de bienfaisance peuvent être admis à titre de reçus validement délivrés selon les modalités au paragraphe 118.1(2) de la Loi ainsi qu'à l'article 3500 et au paragraphe 3501(1) du Règlement de l'impôt sur le revenu (le « Règlement »).
+[19] Selon la position prise par l'intimée, les appelants n'ont pas effectué un don véritable tel que le prévoit la common law, mais ont plutôt [TRADUCTION] « acheté » des reçus pour dons de bienfaisance de leur spécialiste en déclarations de revenus, lesquels indiquaient des montants nominaux nettement gonflés.
+[20] L'arrêt R. c. Friedberg, no A‑65‑89, 5 décembre 1991, [1991] A.C.F. no 1255 (QL) (C.A.F.), fait autorité pour ce qui est du sens du terme « don ». Le juge Linden a défini le terme « don » ainsi :
+[...] un don est le transfert volontaire du bien d'un donateur à un donataire, en échange duquel le donateur ne reçoit pas d'avantage ni de contrepartie [...]
+[21] L'avocat de l'intimée a renvoyé à la décision Coombs c. La Reine, 2008 CCI 289, dans laquelle le juge Woods a énuméré comme suit, au paragraphe 15, les éléments de cette définition :
+[...] Premièrement, le bien donné doit appartenir au donateur. Deuxièmement, le transfert à l'organisme de bienfaisance doit être volontaire. Troisièmement, le donateur ne doit pas recevoir de contrepartie en échange du don. Quatrièmement, l'objet du don doit être un bien, ce qui distingue le don de la fourniture de services à un organisme de bienfaisance. Ces éléments reflètent l'idée générale voulant qu'un contribuable doive avoir une intention libérale relativement au transfert d'un bien à l'organisme de bienfaisance pour qu'il s'agisse d'un don.
+[22] Dans la décision Webb c. La Reine, 2004 CCI 619, le juge Bowie a décrit ainsi, au paragraphe 16, cette « intention libérale » de transférer un bien à un organisme de bienfaisance :
+[16] Il s'est écrit beaucoup de documents au sujet des dons de bienfaisance au cours des années. Cependant, la loi est selon moi très claire. Je suis lié par la décision de la Cour d'appel fédérale dans l'affaire La Reine c. Friedberg, entre autres. Ce cas et les autres du genre indiquent clairement que pour qu'un montant soit considéré comme un don fait à un organisme de bienfaisance, il doit être versé sans qu'il n'y ait d'avantage ou de contrepartie directs ou indirects pour le donateur, et sans qu'il n'y ait d'attente d'avantage ou de contrepartie. En d'autres mots, l'intention du donateur doit être entièrement libérale.
+[23] Les appelants n'ont pas tenté de me montrer ou de me convaincre qu'ils avaient versé, ensemble, quelque montant que ce soit à M. Gudu en sus de 10 p. 100 du montant nominal de leurs reçus. De fait, M. Scott a témoigné qu'ils avaient décidé de vendre leur maison en 2005 parce que Mme Scott n'avait pas de revenu régulier et que la famille utilisait ses épargnes pour subvenir à ses besoins. Ils se sont installés dans un logement locatif en 2006, lorsque la maison a été vendue. Compte tenu de la preuve de leurs difficultés financières, il est étrange qu'ensemble ils aient donné, ou même qu'ils aient pu donner, en espèces ou en nature, des montants s'élevant en tout à 15 235 $ en 2005 et à 14 520 $ en 2006. Pourtant, M. Scott a maintenu qu'il avait remis certains montants en espèces à M. Gudu toutes les deux semaines en 2005 et à trois ou quatre reprises en 2006. Il avait prétendument égaré ou perdu une liste personnelle faisant état de la remise de ces montants. Aucun document n'a été produit à l'appui de leur prétention. Ni l'un ni l'autre des appelants n'a tenté de quantifier les montants qu'ils affirment avoir donnés en espèces. Monsieur Scott a témoigné avoir laissé des biens au bureau de M. Gudu à plusieurs reprises, mais il se rappelait uniquement avoir livré des ordinateurs d'occasion. De plus, M. Scott ne se rappelait pas les adresses où il avait livré l'argent et les biens en 2005 et en 2006, et ce, malgré le nombre de fois où il a affirmé s'être rendu à ces endroits. Monsieur Scott n'a pas pu fournir de renseignements sur les dates auxquelles il s'était peut‑être rendu aux locaux de M. Gudu, et il n'a pas pu donner les noms des personnes, au bureau, qui avaient reçu les dons. Il a affirmé que la liste des biens donnés qu'il avait dressée, comme sa liste de dons en espèces, avait été égarée ou jetée.
+[24] Madame Scott a énuméré certains meubles que quelqu'un était venu chercher, mais son souvenir était vague. De plus, elle n'a jamais fait preuve de bonne volonté en témoignant. Elle a refusé de donner le nom de son ami qui lui avait donné les coordonnées pour que l'on vienne prendre les meubles dont elle se départissait. Elle a également fait preuve de réticence en fournissant des renseignements au sujet de la vente de leur maison.
+[25] La preuve présentée par les appelants s'oppose directement à celle de M. Gudu, qui a maintenu que la plupart des biens donnés étaient des vêtements, et non des ordinateurs et des meubles comme l'affirmaient les appelants, et qu'en 2006, seuls quelques articles précis, comme des lunettes et des articles de literie, avaient été donnés par des entreprises. Toutefois, j'hésite à dire que je retiendrai la preuve de M. Gudu plutôt que celle des appelants, puisque celui‑ci a négocié en vue de plaider coupable à des accusations de fraude à l'égard du stratagème ici en cause. Ce serait pour ainsi dire tomber de Charybde en Scylla.
+[26] La seule preuve montrant que des dons ont été faits à des organismes de bienfaisance, à part les reçus, se trouve dans les témoignages de M. et Mme Scott. Toutefois, leurs témoignages étaient vagues et de nature générale. Madame Scott, en particulier, semblait hésiter à relater sa version des faits, alors que somme toute c'est elle qui a interjeté appel. J'ai eu l'impression générale que les deux appelants croyaient qu'il devait suffire de produire les reçus pour établir et justifier leur demande de crédits d'impôt. Dans ces conditions, il m'est fort difficile de retenir la preuve des appelants lorsqu'ils affirment avoir versé le montant nominal indiqué aux reçus en 2005 et en 2006. Il n'est pas clair qu'ils avaient l'intention requise de faire un don, même s'ils avaient un revenu disponible à consacrer à des dons au cours des années ici en cause. Monsieur Scott a clairement avoué qu'ils avaient vendu leur maison parce qu'ils utilisaient leurs épargnes. En 2005, son revenu avait presque doublé parce qu'il avait touché une indemnité de départ, mais ce fait à lui seul ne veut pas pour autant dire qu'il y avait un revenu disponible à consacrer à des dons. Les difficultés financières peuvent être survenues au cours d'années antérieures. Je ne le sais tout simplement pas parce que je ne dispose d'aucun élément de preuve sauf pour le témoignage de M. Scott. Un doute subsiste, puisqu'aucune tentative n'a été faite pour confirmer les détails relatifs à ces dons, comme les montants, les dates, les noms ou les emplacements. Les appelants ont remis de l'argent à M. Gudu, mais la preuve ne permet pas de conclure qu'ils ont remis plus de 10 p. 100 de la valeur nominale des reçus.
+[27] Il y avait également la preuve des factures jointes aux déclarations des appelants qui ont été produites à l'aide du matériel saisi de M. Gudu. Ces factures constituent un élément de preuve crucial qui contredit les témoignages des appelants et qui les lie au stratagème. Les appelants n'ont pas tenté d'expliquer l'existence de ces factures, qui indiquent clairement qu'ils ont uniquement versé 10 p. 100 du montant qu'ils affirment avoir versé.
+[28] La mention de « James » dans la facture de 2006 est également révélatrice. Monsieur Scott n'a pas admis que son compagnon de travail, James Grossett, lui avait fait connaître les services de préparation de déclarations de revenus de M. Gudu, mais selon la preuve, M. Grossett travaillait pour M. Gudu et recrutait des clients pour le compte de celui‑ci. La mention de « James » signifiait apparemment qu'il était allé chercher et qu'il était allé livrer les feuillets T‑4 pour le compte des Scott. Cela pourrait expliquer la raison pour laquelle M. Scott n'a pas pu donner de détails au sujet du lieu où l'argent avait été laissé ou les noms des personnes qui avaient reçu cet argent.
+[29] Selon la prépondérance des probabilités, je conclus que la preuve étaye ma conclusion, à savoir que les appelants ont tout au plus versé 10 p. 100, en espèces ou en biens, de la valeur nominale des reçus qui leur étaient remis pour qu'ils les joignent à leurs déclarations. Ce faisant, les appelants voulaient tirer parti des avantages que le stratagème offrait.
+[30] Même si j'avais conclu que la preuve étayait une conclusion contraire, je rejetterais néanmoins les appels compte tenu de l'argument subsidiaire présenté par l'intimée. Les reçus ne satisfont tout simplement pas aux exigences prévues au paragraphe 118.1(2) de la Loi ainsi qu'aux articles 3500 et 3501 du Règlement.
+[31] Selon le paragraphe 118.1(2), un don ne doit pas être inclus à titre de don de bienfaisance à moins d'être accompagné d'un reçu pour le don, contenant certains renseignements prescrits. Ces renseignements sont énoncés clairement et d'une façon fort détaillée au paragraphe 3501(1) du Règlement. En particulier, le sous‑alinéa 3501(1)h)(i) prévoit que le reçu doit indiquer :
+h) le montant qui correspond
+(i) au montant du don en espèces, ou
+[...]
+[32] Quant aux dons qui comprennent des dons de biens autres que des espèces, l'alinéa 3501(1)e.1) prévoit que chaque reçu officiel doit indiquer les détails suivants :
+e.1) lorsque le don est un don de biens autres que des espèces,
+(i) le jour où le don a été reçu,
+(ii) une brève description du bien, et
+(iii) le nom et l'adresse de l'évaluateur du bien si une évaluation a été faite;
+[33] En l'espèce, les reçus sont incomplets étant donné qu'ils ne contiennent aucune description des biens prétendument donnés. Les montants indiqués dans ces reçus ne sont pas négligeables. Le reçu de 2005 pour Mme Scott, qui est de 2 700 $, ne contient aucune description des biens, et ne mentionne aucunement la date à laquelle le don a été fait. Et pour 2006, les deux reçus de Mme Scott, s'élevant à 6 890 $ en tout, ne renferment aucune description des biens; en particulier, le reçu de Bible Teaching Ministries fait uniquement mention du fait que le don a été reçu pour l'année qui a pris fin le 31 décembre 2006, sans indiquer la date réelle à laquelle le don a été effectué, comme l'exige l'alinéa 3501(1)e.1) du Règlement.
+[34] Les deux reçus de M. Scott pour l'année 2005 s'élèvent en tout à 12 535 $, mais encore une fois, ils ne renferment aucune description des biens. Le reçu de PanAfrican renferme les mots [TRADUCTION] « Dons en nature », mais cela est insuffisant, puisque je crois que l'alinéa 3501(1)e.1) fait mention de la description des biens parce que le législateur voulait qu'une description suffisante pour identifier les biens donnés soit incluse dans le reçu. Le reçu de Bible Teaching Ministries, comme le reçu délivré à Mme Scott par cet organisme, n'indique pas la date à laquelle le don a été fait. Les deux reçus de M. Scott pour 2006, s'élevant en tout à 7 630 $, ne contiennent aucune description des biens que M. Scott aurait donnés et, de plus, le reçu de Bible Teaching Ministries n'indique pas la date à laquelle le don aurait été consenti.
+[35] Les renseignements manquants sur les reçus sont essentiels au succès du contribuable qui se fonde sur des reçus pour demander un crédit d'impôt à l'égard des biens qu'il a donnés. Il n'est que raisonnable que de tels renseignements soient inclus dans ce type de reçu afin d'empêcher les contribuables de donner des biens sans valeur ou des biens d'une valeur bien inférieure tout en invoquant une valeur beaucoup plus élevée afin d'obtenir un avantage fiscal. C'est également la raison pour laquelle il existe une mention précise de l'évaluation de tels biens. Il n'existe aucune exigence voulant qu'une évaluation soit effectuée, mais l'inclusion de cette mention donne à penser que, s'il existe un doute au sujet de la valeur du bien donné, le contribuable peut être tenu de produire une preuve de cette valeur au moyen d'une évaluation ou par quelque autre moyen acceptable.
+[36] Je souscris aux remarques que le juge Tardif, de la présente cour, a faites dans la décision Plante c. La Reine, no 97‑1150(IT)I, 22 janvier 1999, [1999] A.C.I. no 51 (QL) (C.C.I.), à savoir qu'il est important de remettre des reçus appropriés. Voici ce que le juge a dit aux paragraphes 46 à 48 des motifs du jugement :
+[46] Il ne s'agit pas là d'exigences futiles et sans importance; bien au contraire, ce sont là des renseignements tout à fait fondamentaux et absolument nécessaires pour permettre la vérification d'une part de la justesse de la valeur indiquée et d'autre part, de la réalité même du don.
+[47] De telles exigences visent à éviter les abus de toute nature et constituent un minimum pour qualifier la qualité d'un don pouvant générer un crédit d'impôt à l'avantage du contribuable donateur.
+[48] À défaut de rencontrer les exigences prévues quant au contenu des renseignements que doit contenir un reçu, il devra être écarté faisant ainsi perdre les bénéfices fiscaux à son détenteur. Conséquemment bien qu'un contribuable ait pu faire don d'un tableau, il ne pourra pas bénéficier du crédit potentiel si l'évaluation et le reçu émis à la suite du don ne sont pas conformes aux exigences de la Loi et de ses Règlements.
+[37] Étant donné que les reçus ne contiennent pas les renseignements prescrits, ils ne sont pas conformes au Règlement et ils ne peuvent donc pas être utilisés à l'appui de l'affirmation que les appelants ont fait des dons de bienfaisance pour les années 2005 et 2006.
+[38] Pour ces motifs, les appels sont rejetés, sans dépens.
+Signé à Ottawa, Canada, ce 5e jour de mai 2010.
+« Diane Campbell »
+Le juge Campbell
+Traduction certifiée conforme
+ce 22e jour de juin 2010.
+Yves Bellefeuille, réviseur
+RÉFÉRENCE : 2010 CCI 237
+Nos DES DOSSIERS DE LA COUR : 2008­1657(IT)I
+2008­1704(IT)I
+INTITULÉ : George W. Scott et Stephonie Scott c. Sa Majesté la Reine
+LIEU DE L'AUDIENCE : Toronto (Ontario)
+DATE DE L'AUDIENCE : Le 15 mars 2010
+MOTIFS DU JUGEMENT : L'honorable juge Diane Campbell
+DATE DU JUGEMENT : Le 5 mai 2010
+COMPARUTIONS :
+Pour les appelants :
+Mme Stephonie Scott
+Avocats de l'intimée :
+Me Carol Calabrese
+Me Aleksandrs Zemdegs
+AVOCATS INSCRITS AU DOSSIER :
+Pour les appelants :
+Nom :
+Cabinet :
+Pour l'intimée : Myles J. Kirvan
+Sous­procureur général du Canada
+Ottawa, Canada

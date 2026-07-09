@@ -1,0 +1,141 @@
+---
+title: "Ritter v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29867/index.do"
+last_modified: "2008-11-13"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 TCC 514"
+citation2: ""
+neutral_citation: "2008 TCC 514"
+decision_date: "2008-11-13"
+language: "en"
+item_id: "29867"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6424
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T23:38:51.584000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "55bbc85c6dde487bc8a4277e27a147fc02fdb900f51a5d0c111f754a2b29b070"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Ritter v. The Queen
+
+- Citation: 2008 TCC 514
+- Decision date: 2008-11-13
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6424, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Ritter v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-11-13
+Neutral citation
+2008 TCC 514
+File numbers
+2008-1566(IT)APP
+Judges and Taxing Officers
+Paul Bédard
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2008-1566(IT)APP
+BETWEEN:
+SANDRA RITTER,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Motion heard on September 2, 2008, at Montreal, Quebec.
+Before: The Honourable Justice Paul Bédard
+Appearances:
+Counsel for the Applicant:
+Pierre-Paul Bourdages
+Agent of the Respondent:
+Alain Solliec
+____________________________________________________________________
+JUDGMENT
+The application for an extension of time for appealing reassessments made under the Income Tax Act in respect of the 2000, 2001, 2002 and 2003 taxation years is dismissed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 13th day of November 2008.
+“Paul Bédard”
+Bédard J.
+Citation: 2008 TCC 514
+Date: 20081113
+Docket: 2008-1566(IT)APP
+BETWEEN:
+SANDRA RITTER,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Bédard J.
+[1] This is an application under subsection 167(5) of the Income Tax Act (the "Act") for an order extending the time in which the Applicant can institute an appeal from a decision of the Minister of National Revenue (the "Minister") concerning the 2000, 2001, 2002 and 2003 taxation years. The Court must determine whether this application for an extension of time (the "application") is well-founded.
+Background
+[2] On October 18, 2005, the Minister sent the Applicant notices of reassessment concerning the 2000, 2001, 2002 and 2003 taxation years. The Applicant personally prepared notices of objection with respect to the reassessments and sent them herself to the Minister on or about January 10, 2006. By registered letter mailed on March 29, 2007, the Minister notified the Applicant that he was confirming the reassessments dated October 18, 2005. The Applicant did not lodge with this Court within the time prescribed by section 169 of the Act — that is to say, by June 27, 2007 — an appeal from the reassessments dated October 18, 2005, which were confirmed on March 29, 2007. On May 27, 2008, the Applicant filed an application in this Court for an extension of time for appealing the reassessments.
+[3] The evidence adduced by the Applicant in support of the application consisted of her testimony, documents (Exhibits R‑2, R‑3, R‑4 and R‑5) issued by the revenue collections division of the Canada Customs and Revenue Agency (the "Agency") and a photocopy of minutes book entries concerning the Applicant's divorce proceedings against her husband Stephen St-Pierre (Exhibit R‑1).
+[4] Is the Applicant in compliance with subsection 167(5) of the Act, and is she entitled to an extension of the time in which to file her notice of appeal? Subsection 167(5) of the Act reads as follows:
+167(5) When order to be made – No order shall be made under this section unless
+(a) the application is made within one year after the expiration of the time limited by section 169 for appealing; and
+(b) the taxpayer demonstrates that
+(i) within the time otherwise limited by section 169 for appealing the taxpayer
+(A) was unable to act or to instruct another to act in the taxpayer’s name, or
+(B) had a bona fide intention to appeal,
+(ii) given the reasons set out in the application and the circumstances of the case, it would be just and equitable to grant the application,
+(iii) the application was made as soon as circumstances permitted, and
+(iv) there are reasonable grounds for the appeal.
+[5] The time for instituting an appeal under section 169 of the Act expired on June 27, 2007. The Applicant filed the application on May 27, 2008. Thus, the application was made within one year after the expiration of the time limited by section 169 for appealing. Consequently, the Respondent has complied with paragraph 167(5)(a) of the Act.
+[6] Before allowing the application, the Court must be satisfied that within the time allowed for appealing (here, that time expired on June 27, 2007) the Applicant was unable to act or to instruct another to act in her name, or had a bona fide intention to appeal. The Applicant's evidence in this regard consisted solely of her own testimony, which I found not only to be vague and imprecise, but also to lack credibility. Her testimony on this point can be summarized as follows: After receiving notices of confirmation that she did not understand due to her lack of knowledge in tax matters, she panicked and mandated her spouse, Stephen St‑Pierre, to deal with the notices, since she did not then have the wherewithal to retain a lawyer for that purpose. The Applicant added that she realized much later — that is, after June 27, 2007 — that her husband had done nothing with respect to these reassessments. I note immediately that I found the Respondent's testimony that she was totally ignorant in tax matters and was therefore unable to understand the nature of the notices of confirmation, and thus to understand the accompanying instructions regarding the procedure for appealing from the reassessments, to lack credibility because she herself had written and served on the minister the notices of objection regarding those reassessments. It is therefore difficult to accord any weight to the Applicant's testimony, which is not supported by the testimony of independent and credible witnesses or by serious and relevant documentary evidence. In view of the little weight that I have given to the Applicant's testimony, it is difficult for me to believe that she instructed her husband to institute in her name an appeal from the reassessments. The Applicant could have called Mr. St‑Pierre to support her own allegations in this regard. She did not do so. In light of this, I conclude that such testimony would have been unfavourable to her. I also note that the Applicant's testimony provided no particulars at all with respect to the exact nature of the mandate with which she supposedly entrusted Mr. St-Pierre. Indeed, at no point in her testimony did she specifically state that she had instructed Mr. St‑Pierre – if indeed she ever actually had done so – to institute in her name an appeal from the reassessments. The Applicant not only had to satisfy me that she had given Mr. St‑Pierre a mandate, she also had to satisfy me that she had given him a mandate to appeal, and not a mandate to obtain an acceptable settlement regarding the reassessments, or to obtain acceptable terms for payment of the assessed amounts. I therefore find that the Applicant has not met the conditions set out in of subparagraph 167(5)(b)(i) of the Act.
+[7] The Applicant also had to satisfy me that the application was made as soon as circumstances permitted. I would note once again that the Applicant's evidence in this regard consisted solely of her own testimony, which can be summarized as follows:
+(a) Faced with Mr. St-Pierre's inaction, she decided to consult a lawyer. Thus, on September 18, 2007, she met with Pierre-Paul Bourdages, whom she says she instructed to "contact them [i.e. the Agency] and take care of the whole thing." I would note immediately that the Applicant's testimony was completely silent as to the precise nature of the mandate she gave Mr. Bourdages at that time, as to the nature of the documents that she gave him at the time, and as to the nature of the advice that she got from him at the meeting and subsequently.
+(b) On April 30, 2008, she received from the Agency a requirement to pay the assessed amounts. Panic-stricken, she asked Mr. Bourdages "to go to Court".
+(c) To explain why the application for an extension of time was not filed with the Court before May 27, 2008 (almost one year after the time for appealing expired), the Applicant said that her lawyer "was waiting for the file to be sent before doing something." It should be noted that the Applicant's testimony was completely silent with respect to:
+(i) the identity of the person who requested documents,
+(ii) the exact nature of the documents requested,
+(iii) the identity of the Agency representative to whom the request was made, and
+(iv) the date on which the requested documents were received.
+[8] I do not know how awaiting documents requested from the Agency (assuming that such a request was made, which I doubt) can constitute a circumstance that prevented the Applicant from filing the application. In fact, these documents, assuming that they were even requested and received, were definitely not used for the purpose of preparing the Notice of Appeal that accompanied the application for an extension of time. Indeed, the Notice of Appeal contains exactly the same wording as the notice of objection that the Applicant personally drafted and served upon the Minister. Thus, I find that the Applicant has not met the condition set out in subparagraph 167(5)(b)(iii) of the Act.
+[9] For the foregoing reasons, the application is dismissed.
+Signed at Ottawa, Canada, this 13th day of November 2008.
+“Paul Bédard”Bédard J.
+CITATION: 2008 TCC 514
+COURT FILE NO.: 2008-1566(IT)APP
+STYLE OF CAUSE: SANDRA RITTER v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Montreal, Quebec
+DATE OF HEARING: September 2, 2008
+REASONS FOR JUDGMENT BY: The Honourable Justice Paul Bédard
+DATE OF JUDGMENT: November 13, 2008
+APPEARANCES:
+Counsel for the Applicant:
+Pierre-Paul Bourdages
+Agent of the Respondent:
+Alain Solliec
+COUNSEL OF RECORD:
+For the Applicant:
+Name: Pierre-Paul Bourdages
+Firm: Bourdages Giard
+City: Saint-Jérôme, Quebec
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

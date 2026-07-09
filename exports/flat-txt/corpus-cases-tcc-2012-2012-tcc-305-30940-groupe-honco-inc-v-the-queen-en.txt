@@ -1,0 +1,216 @@
+Title: Groupe Honco Inc v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30940/index.do
+Corpus path: corpus/cases/tcc/2012/2012-tcc-305-30940-groupe-honco-inc-v-the-queen-en.md
+Document type: case_law
+Last modified: 2012-09-04
+
+# Groupe Honco Inc v. The Queen
+
+- Citation: 2012 TCC 305
+- Decision date: 2012-09-04
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7436, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Groupe Honco Inc v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2012-09-04
+Neutral citation
+2012 TCC 305
+File numbers
+2009-2133(IT)G, 2009-2134(IT)G, 2009-2135(IT)G
+Judges and Taxing Officers
+Patrick J. Boyle
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2009-2134(IT)G
+BETWEEN:
+GROUPE HONCO INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeals of 9069-4654 Québec Inc. (2009-2133(IT)G) and Gestion Paul Lacasse Inc. (2009-2135(IT)G)
+on May 8 and 9, 2012, at Quebec City, Quebec.
+Before: The Honourable Justice Patrick Boyle
+Appearances:
+Counsel for the Appellant:
+Carl Thibault
+Ariane Gagnon-Rocque
+Counsel for the Respondent:
+Nathalie Labbé
+Simon Vincent
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the appellant’s 2004 taxation year is dismissed, with costs, in accordance with the attached reasons for judgment.
+Signed at Montreal, Quebec, this 4th day of September 2012.
+"Patrick Boyle"
+Boyle J.
+Docket: 2009-2133(IT)G
+BETWEEN:
+9069-4654 QUÉBEC INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeals of Groupe Honco Inc. (2009-2134(IT)G) and Gestion Paul Lacasse Inc. (2009-2135(IT)G)
+on May 8 and 9, 2012, at Quebec City, Quebec.
+Before: The Honourable Justice Patrick Boyle
+Appearances:
+Counsel for the Appellant:
+Carl Thibault
+Ariane Gagnon-Rocque
+Counsel for the Respondent:
+Nathalie Labbé
+Simon Vincent
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the appellant’s 2004 taxation year is dismissed, with costs, in accordance with the attached reasons for judgment.
+Signed at Montreal, Quebec, this 4th day of September 2012.
+"Patrick Boyle"
+Boyle J.
+Docket: 2009-2135(IT)G
+BETWEEN:
+GESTION PAUL LACASSE INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeals of 9069-4654 Québec Inc. (2009-2133(IT)G) and Groupe Honco Inc. (2009-2134(IT)G)
+on May 8 and 9, 2012, at Quebec City, Quebec.
+Before: The Honourable Justice Patrick Boyle
+Appearances:
+Counsel for the Appellant:
+Carl Thibault
+Ariane Gagnon-Rocque
+Counsel for the Respondent:
+Nathalie Labbé
+Simon Vincent
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the appellant’s 2004 taxation year is dismissed, with costs, in accordance with the attached reasons for judgment.
+Signed at Montreal, Quebec, this 4th day of September 2012.
+"Patrick Boyle"
+Boyle J.
+Citation: 2012 TCC 305
+Date: 20120904
+Docket: 2009-2134(IT)G
+BETWEEN:
+GROUPE HONCO INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Docket: 2009-2133(IT)G
+AND BETWEEN:
+9069-4654 QUÉBEC INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Docket: 2009-2135(IT)G
+AND BETWEEN:
+GESTION PAUL LACASSE INC.
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Boyle J.
+[1] The sole question that needs to be decided in these three appeals heard together on common evidence is whether the capital dividends received by each of the appellants at the end of the transactions described below are deemed not to be capital dividends by virtue of the application of subsection 83(2.1) and paragraph 87(2)(z.1) of the Income Tax Act (the “Act”) because the shares on which the first capital dividend was paid were acquired for the purpose of receiving the capital dividend.
+Facts
+[2] Mr. Paul Lacasse is the principal and controlling shareholder of the appellant corporations, which form part of what is known as the Groupe Honco.
+[3] Prior to its acquisition of Supervac described below, the businesses of Honco were all construction-related. In 1997, one of the companies in Groupe Honco constructed a $600,000 turn-key structure for Industries Supervac Inc. (“Old Supervac”). Old Supervac was an unrelated corporation owned and controlled, directly or indirectly, by Mr. Eddy Bédard. As the structure neared completion, it was apparent that Old Supervac was in significant financial difficulty and was unable to pay the substantial purchase price payable to Mr. Lacasse’s company for its construction. For this reason, it was decided, following discussions and negotiations between them, that Old Supervac would rent the structure from Mr. Lacasse’s company. The structure had been built on a turn-key basis and was a specialized structure used in Old Supervac’s business of constructing high-pressure vacuum trucks (the “Supervac business”). By late 1998, Old Supervac had fallen several months into arrears, had been unable to pay the full amount of the rent for a number of months, and its financial condition remained a problem. Prior to this period, Old Supervac had apparently been run as a profitable and successful enterprise for a number of years by Mr. Bédard. However, by late 1998, Mr. Bédard had been diagnosed with terminal pancreatic cancer and his death was anticipated, though it was not known whether it would be in three months or six months or perhaps within some other period. It was understood that Mr. Bédard had by this point stopped being actively involved with and managing the Supervac business and that was presumed to be the cause of its financial decline. This left Mr. Lacasse very concerned about recovering his substantial investment of approximately $600,000 in the Supervac structure. He wanted to see himself repaid, however, that seemed unlikely given Supervac’s then current operations.
+[4] In late 1998, Mr. Bédard advised Mr. Lacasse that his remaining potential new investors, financiers or purchasers were no longer interested in the Supervac business and that he was therefore facing the prospect of laying off Supervac’s employees and winding up the business. After a short period of discussions, on December 28, 1998, Mr. Lacasse presented a proposal letter to Mr. Bédard and Old Supervac proposing that a new corporation, 9069-4654 Québec Inc. (“New Supervac”), would purchase all of the inventory of the Supervac business for $250,000, subject to adjustment following a physical count, and lease all of Supervac’s business assets for a dollar, and that the Supervac name would be transferred to New Supervac. The proposal letter also contemplated that in due course New Supervac would have the right to acquire all of the shares of Old Supervac.
+[5] After the holiday period, in early January 1999, Mr. Lacasse’s chartered accountants completed the physical inventory count. The physical inventory count was their only mandate at that time. In the following week, formal written contracts providing for the rental of the business assets and the option to purchase the shares were entered into. New Supervac hired Old Supervac’s employees, who had been laid off for the holidays.
+[6] Under Mr. Lacasse’s management, New Supervac was quickly able to return the Supervac business to profitability. While running the Supervac business in 1999 on a profitable basis, Mr. Lacasse decided to exercise his right to have New Supervac buy the business assets that had been rented until then and to buy the shares of Old Supervac, whose corporate name had by then been changed to 9072-7207 Québec Inc.
+[7] Special certifications from the American Society of Mechanical Engineers (ASME) are required in order to construct high-pressure tanks of the nature built by Supervac. It is not entirely clear how the certification requirement was met during the period in which New Supervac leased the Supervac business assets, which was much of 1999. It is clear that the acquisition of the shares of Old Supervac, the certificate holder, permitted the continuity of the registration certificates upon the provision of information regarding the new owners to the ASME. This obviated the need for a new purchaser of the business, as opposed to a purchaser of the corporation, in order to obtain an entirely new certification through the normal review process by the ASME.
+[8] It was also very clear from the testimony and from the contracts in question that the shares of Old Supervac were being acquired by New Supervac in order to permit the utilization of Old Supervac’s tax losses against future income of the New Supervac business. Following the acquisition by New Supervac of Old Supervac from its shareholders, New Supervac and Old Supervac amalgamated as New Supervac. This amalgamation was also done in order to permit New Supervac to claim Old Supervac’s business losses.
+[9] The deductibility of Old Supervac’s business losses by New Supervac was initially denied by the Canada Revenue Agency (CRA), which resulted in New Supervac filing an objection. This objection was allowed in full by CRA Appeals. The basis upon which the losses were originally denied was that there had been a lack of continuity of the Supervac business for a period of days over the holidays in 1998 and 1999. When the CRA appeals officer advised New Supervac’s accountants by telephone that the objection was being allowed, she also advised them that there was a capital dividend account in the amalgamated New Supervac of approximately $750,000. According to the testimony of Mr. Lacasse, his principal outside accountant, and the tax accountant at the same accounting firm, this was the first they had heard of a capital dividend account in Old Supervac (now New Supervac), and they said that, to their knowledge, there had been no discussions with the sellers of a capital dividend account. It should be noted however, that Mr. Lacasse did not say they had never discussed the existence of the life insurance policy or the possibility of the eventual life insurance proceeds being able to be distributed to shareholders tax-free in some general fashion. Also, his accountant’s mandate did not initially extend to considering such things, and the tax accountant was not at all involved until after the acquisition.
+[10] Following the resolution of the objection, Mr. Lacasse and his advisors confirmed the existence and quantum of the capital dividend account and caused New Supervac to declare a capital dividend to its shareholder, Groupe Honco Inc., which in turn declared a dividend to its shareholder, Gestion Paul Lacasse Inc.
+[11] The CRA reassessed each of the three appellants on the basis that, as the corporations paying these dividends did not have any capital dividend account, the dividends constituted taxable dividends. It is the Respondent’s position that this results from the application of subsection 83(2.1) to at least the first dividend declared and paid by New Supervac.
+[12] It is the taxpayer’s position that the principal purposes for which New Supervac acquired the shares of Old Supervac were:
+1) to perfect and complete its plan to recover its substantial investment in Supervac’s structure;
+2) to avoid the requirement for New Supervac to obtain a new ASME certification rather than merely providing information regarding itself to ASME as the new owner of Old Supervac; and
+3) to acquire Old Supervac’s business loss carry-forwards and deduct them from its future income.
+Law
+[13] Subsection 83(2.1) provides as follows:
+83. (2.1) Notwithstanding subsection 83(2), where a dividend that, but for this subsection, would be a capital dividend is paid on a share of the capital stock of a corporation and the share (or another share for which the share was substituted) was acquired by its holder in a transaction or as part of a series of transactions one of the main purposes of which was to receive the dividend,
+(a) the dividend shall, for the purposes of this Act (other than for the purposes of Part III and computing the capital dividend account of the corporation), be deemed to be received by the shareholder and paid by the corporation as a taxable dividend and not as a capital dividend; and
+(b) paragraph 83(2)(b) does not apply in respect of the dividend.
+83.(2.1) Malgré le paragraphe (2), le dividende versé par une société sur une action de son capital-actions qui serait, sans le présent paragraphe, un dividende en capital est réputé, pour l’application de la présente loi — à l’exception de la partie III et sauf pour le calcul du compte de dividendes en capital de la société — reçu par l’actionnaire et versé par la société comme dividende imposable, et non comme dividende en capital, et l’alinéa (2)b) ne s’applique pas à ce dividende si l’actionnaire a acquis l’action — ou une action qui lui est substituée — par une opération, ou dans le cadre d’une série d’opérations, dont un des principaux objets consistait à recevoir ce dividende.
+[14] Paragraph 87(2)(z.1) provides as follows:
+87(2)(z.1) Capital dividend account (z.1) for the purposes of computing the capital dividend account of the new corporation, it shall be deemed to be the same corporation as, and a continuation of, each predecessor corporation, other than a predecessor corporation to which subsection 83(2.1) would, if a dividend were paid immediately before the amalgamation and an election were made under subsection 83(2) in respect of the full amount of that dividend, apply to deem any portion of the dividend to be paid by the predecessor corporation as a taxable dividend;
+87(2)z.1) Compte de dividendes en capital
+(z.1) pour le calcul du montant de son compte de dividendes en capital, la nouvelle société est réputée être la même société que chaque société remplacée et en être la continuation, sauf s’il s’agit d’une société remplacée à laquelle le paragraphe 83(2.1) s’appliquerait, si un dividende était versé immédiatement avant la fusion et si le choix prévu au paragraphe 83(2) était fait relativement au plein montant de ce dividende, pour qu’une partie du dividende soit réputée être un dividende imposable versé par la société remplacée;
+[15] It is clear from the Supreme Court of Canada decision in Copthorne Holdings Ltd. v. Canada, 2011 SCC 63, [2011] 3 S.C.R. 721, 2012 DTC 5006, that the acquisition of the Old Supervac shares and the declaration of the capital dividend, or the notional declaration under paragraph 87(2)(z.1), form a part of the same series of transactions, as defined in subsection 248(10), given that, at the time of declaring the dividend and electing to have the dividend be a capital dividend, New Supervac was or would have been contemplating the existence of its capital dividend account which had been acquired upon the acquisition of the Old Supervac shares.
+[16] Subsection 83(2.1) applies if one of the main purposes of the series of transactions was to receive the capital dividend. This contrasts with other provisions of the Act which refer to circumstances where it is reasonable to conclude or presume that one of the main purposes of transactions was to obtain a certain result. Nonetheless, the wording of subsection 83(2.1) does not result in an entirely subjective test. The Supreme Court of Canada said in Symes v. Canada, [1993] 4 S.C.R. 695, at page 736: "As in other areas of law where purpose or intention behind actions is to be ascertained, it must not be supposed that in responding to this question, courts will be guided only by a taxpayer’s statements, ex post facto or otherwise, as to the subjective purpose of a particular expenditure. Courts will, instead, look for objective manifestations of purpose, and purpose is ultimately a question of fact to be decided with due regard for all of the circumstances."
+Analysis
+[17] The question remains whether one of the principal purposes of acquiring the Old Supervac shares was also to permit New Supervac to acquire Old Supervac’s capital dividend account with the aim of having the capital dividends in question be paid through tax-free.
+[18] This question is to be decided upon a preponderance of the totality of the evidence. It is not to be decided solely upon the subjective stated intentions, or lack thereof, of Mr. Lacasse. It is clear that the inherent likelihood or probability of an event occurring is a necessary and relevant consideration in determining what the facts are on a balance of probabilities basis.
+In In Re CD, [2008] UKHL 33, citing In Re H and Others (Minors), [1996] AC 563,this is described in the following manner at paragraph 25:
+. . . the inherent probability or improbability of an event is itself a matter to be taken into account when weighing the probabilities and deciding whether, on balance, the event occurred. The more improbable the event, the stronger must be the evidence that it did occur before, on the balance of probability, its occurrence will be established . . .
+In In Re B (Children), [2008] UKHL 35, it is described as follows in paragraph 70:
+. . . The inherent probabilities are simply something to be taken into account, where relevant, in deciding where the truth lies.
+Finally, it is very well summarized by Justice Webb in Lesnick v. The Queen, 2008 TCC 522.
+[19] It is clear from the testimony and the documents that the principal purposes of the transactions at issue included the three purposes described above, namely:
+1) to permit Groupe Honco to recover its costs of building the Supervac structure;
+2) the acquisition of the Old Supervac shares permitted the New Supervac business to be carried on as part of Groupe Honco without the need for new certification by the ASME; and
+3) the acquisition of the shares of Old Supervac permitted the amalgamation of New Supervac and Old Supervac to create New Supervac, which permitted Old Supervac’s tax losses to be utilized against New Supervac’s income.
+[20] In this case, the relevant testimony was received from Mr. Paul Lacasse and two of his outside chartered accountants, one being a tax specialist. In addition, the Respondent called Mr. Bernard, a retired banker and family friend of Mr. Bédard, who had represented the interests of Mr. Bédard and, following his death, the interests of Mr. Bédard’s widow in connection with the transactions.
+[21] Mr. Lacasse testified that he had never heard of the capital dividend account until after the objection relating to the tax losses was resolved and that he had had no discussions with the seller concerning its capital dividend account. However, as noted above, he limited has testimony on this point to capital dividend accounts. He did not say he had never discussed the life insurance policy or the possible distribution of the proceeds tax-free after Mr. Bédard’s death.
+[22] It was clear from the evidence of Mr. Bernard, the principal agent on the seller’s side of the transaction following Mr. Bédard’s death, that he had not concerned himself with any of the details of the documentation or the plan and that, having ensured that, once life insurance proceeds were received, there would be sufficient cash in Old Supervac to repay its creditors and to largely [repay the $200,000 of preferred shares owned by Mr. Bédard and, following his death, by his widow], Mr. Bernard simply attended at the designated offices for the closing and signed the documentation where instructed. It is clear that, on the seller’s side, the negotiation of the details and structure of the sale transactions was from the outset led by the lawyer for Old Supervac and Mr. Bédard and perhaps also by their chartered accountants, who had prepared the October 31, 1998 year-end financial statements for Old Supervac, which statements formed the basis of the December 1998/January 1999 agreements. Neither Mr. Bédard’s lawyer nor his chartered accountant testified.
+[23] The outside chartered accountants of Groupe Honco both testified that they had never discussed nor heard any discussion of Old Supervac’s capital dividend account forming any part of any transactions until after the objection was resolved favourably several years after the shares of Old Supervac were acquired by New Supervac. In the case of the partner responsible for Groupe Honco, his mandate in late 1998 and early 1999 was to complete the physical inventory count. Nonetheless, he did see, review and consider the January 1999 agreements for the leasing of the assets, the option on the shares, and the option on the assets shortly before they were entered into, though he did not have a general mandate to structure the transactions. By their terms these documents that he reviewed should have included Old Supervac’s financial statements. The tax specialist was simply not involved at that stage of the series of transactions. It should be noted that, at that time, another accountant in the office, who did not testify, reviewed the October 31, 1998 financial statements of Old Supervac and restated them. It is clear on the face of the original financial statements that a significant capital dividend had been paid by Old Supervac on its preferred shares, and that a significant amount of life insurance proceeds had been received by Old Supervac. The amended financial statements were not put in evidence.
+[24] It was clear from the evidence of Mr. Lacasse and his accountant and from the documentary evidence that the lawyer for Mr. Lacasse’s Groupe Honco was a key participant in the structuring and negotiation of the aforementioned rights on behalf of New Supervac from the outset, having first been involved in Mr. Lacasse’s proposal letter of December 28, 1998. This lawyer was not called as a witness by the Appellant and I was given no reason as to why it would have been impractical, impossible or inappropriate to have had him testify.
+[25] Mr. Lacasse’s accountant did acknowledge that he or his firm should earlier on have recognized and considered the capital dividend account as part of the transactions in the circumstances. He was very clear, however, that structuring the acquisition was not within his mandate.
+[26] It is certainly possible, and perhaps even plausible, that none of the participants representing Groupe Honco turned their minds to Old Supervac’s capital dividend account resulting from its insurance policy on Mr. Bédard’s life. However the question to be decided is whether, on a preponderance of the evidence, that was actually the case.
+[27] As noted in the cases mentioned above, as a practical matter, stronger and more compelling evidence may be needed to satisfy the preponderance and balance of probability test in order to establish the occurrence of something unusual.
+[28] While possible and perhaps plausible, it is certainly remarkable, surprising and perhaps convenient that an experienced businessman who had built up several businesses and acquired at least one other, who was aided by an outside law firm and an outside firm of chartered accountants, and who:
+1) was aware of the terminal illness of Mr. Bédard,
+2) was aware that an insurance policy was held by Old Supervac on the life of Mr. Bédard,
+3) had in hand at the time the Old Supervac shares were acquired following the exercise of the option financial statements indicating that life insurance proceeds had been received and that a capital dividend had been paid to the former shareholders of Old Supervac in that same period, and
+4) was planning to obtain the benefit of the tax loss accounts of Old Supervac
+could have missed the availability of Old Supervac’s remaining capital dividend account.
+[29] In all of these circumstances, I am simply unable to conclude that the taxpayers have discharged their burden of proof of establishing that the assessments were incorrect and that the acquisition of the capital dividend account, the value of which resided in its eligibility for distribution by way of capital dividend, was not among the principal purposes for New Supervac’s acquiring the Old Supervac shares. In matters of intention in particular, the availability of contemporaneous corroborative evidence from written documents or from third parties takes on somewhat greater significance. In this case, it appears that the structuring and negotiation of the transactions was done by Groupe Honco’s outside lawyer and Mr. Lacasse and, from the seller’s point of view, by Old Supervac’s lawyer, perhaps aided by its accountant.
+[30] Clearly, Old Supervac’s advisors were well aware of the existence and value of the capital dividend account. They had declared a capital dividend to Mr. Bédard’s widow. It is reasonable to assume that the sellers, that is, the shareholders of Old Supervac, in trying to maximize the proceeds they received, would have sought some recognition of the value of this intangible asset in the form of a tax account. They did not testify.
+[31] Potentially important and significant evidence in the form of the testimony of Groupe Honco’s lawyer was not put before the Court. Counsel for the Respondent asked that I draw an adverse inference from the taxpayer’s failure to call that lawyer. Ordinarily it is open to either side to call a witness to testify, either voluntarily or, if necessary, by subpoena. However, in the case of this lawyer, who had been advising with regard to the transactions, only the taxpayers could waive solicitor-client privilege and have him testify. He could not have been required to testify as to his knowledge and advice simply upon service of a subpoena by the Respondent.
+[32] Perhaps with further corroborative testimony from such a key participant in the structuring and negotiation of the transactions as the lawyer for Groupe Honco or the seller’s lawyer or accountant, I may have been satisfied on the preponderance of the evidence that the unexpected and surprising did in fact occur and that the participants acting on the seller’s behalf did not draw the capital dividend account and its potential value to the attention of the purchaser and its advisors, and that those professional lawyers, accountants and tax specialists did not recognize on their own the existence or value of the capital dividend account even though its existence, the receipt of the life insurance proceeds, and the contemporaneous declaration of a capital dividend to former shareholders were all right in front of them.
+[33] It is perhaps not surprising that none of the written documentation addresses the capital dividend account, as, if the intention had been to acquire the capital dividend account, evidencing that intention would have resulted in the capital dividend account not having been acquired.
+[34] For these reasons, the taxpayers have not met their onus or satisfied their burden of proof and I am unable to be satisfied on a preponderance of the evidence that the acquisition of the capital dividend account and the payment of the capital dividends were not one of the principal purposes of the series of transactions. For these reasons the appeals must be dismissed.
+[35] Counsel for the taxpayer has asked that this Court nonetheless decide that subsection 83(2.1) should only result in a single capital dividend being deemed to be a taxable dividend. The appellant’s counsel notes the unfairness and inequity of multiplying the tax on dividends threefold simply because the one capital dividend was cascaded through the capital dividend accounts of intervening corporations. Nothing was put forward to show on what basis the Act would permit me to reach such a conclusion. If the initial dividend paid by New Supervac to its shareholder was not a capital dividend by virtue of paragraph 87(2)(z.1) and subsection 83(2.1), it did not generate any capital dividend account in the accounts of its shareholder, and as a result the dividend declared by New Supervac to its shareholder could not be a capital dividend. There is no provision in the Act to prevent that. However, there is a provision which permits the mitigation of the consequences of cascading dividends in such circumstances at the election of the ultimate shareholder. I understand that in this case no such election has yet been made. It appears that the taxpayers may yet make such an election, which may, in the discretion of the Minister, be accepted as a late-filed election upon payment of a statutory penalty amount. In the circumstances, if a late election is filed, it would appear unreasonable of the Minister not to exercise his discretion and accept the late filing upon payment of the requisite penalty. However, that is something that is outside the jurisdiction of this Court to order. It is certainly not appropriate for this Court to consider departing from the clear wording of the legislation in order to enable a taxpayer to avoid the payment of a late-filing penalty.
+[36] The appeals are dismissed, with costs.
+Signed at Montreal, Quebec, this 4th day of September 2012.
+"Patrick Boyle"
+Boyle J.
+CITATION: 2012 TCC 305
+COURT FILE NOS.: 2009-2134(IT)G, 2009-2133(IT)G,
+2009-2135(IT)G
+STYLE OF CAUSE: GROUPE HONCO INC., 9069-4654 QUÉBEC INC., GESTION PAUL LACASSE INC. v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Quebec City, Quebec
+DATE OF HEARING: May 8 and 9, 2012
+REASONS FOR JUDGMENT BY: The Honourable Justice Patrick Boyle
+DATE OF JUDGMENT: September 4, 2012
+APPEARANCES:
+Counsel for the Appellants:
+Carl Thibault
+Ariane Gagnon-Rocque
+Counsel for the Respondent:
+Nathalie Labbé
+Simon Vincent
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada

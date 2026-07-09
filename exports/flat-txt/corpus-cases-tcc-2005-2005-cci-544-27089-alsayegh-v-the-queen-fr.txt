@@ -1,0 +1,346 @@
+Title: Alsayegh v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27089/index.do
+Corpus path: corpus/cases/tcc/2005/2005-cci-544-27089-alsayegh-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2005-08-19
+
+# Alsayegh v. The Queen
+
+- Citation: 2005 CCI 544
+- Decision date: 2005-08-19
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 959, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Alsayegh v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-08-19
+Référence neutre
+2005 CCI 544
+Numéro de dossier
+2000-4265(IT)G
+Juges et Officiers taxateurs
+Cameron Hugh McArthur
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Dossier : 2000-4265(IT)G
+ENTRE :
+HIKMAT ALSAYEGH,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Appels entendus sur preuve commune avec l'appel de Firial Alsayegh, 2000-5104(IT)G, les 30 et 31 mai 2005, à Vancouver (Colombie-Britannique).
+Devant : L'honorable juge C. H. McArthur
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocat de l'intimée :
+Me Bruce Senkpiel
+____________________________________________________________________
+JUGEMENT
+Les prétendus appels interjetés à l'encontre des cotisations d'impôt établies en vertu de la Loi de l'impôt sur le revenu pour les années d'imposition 1988, 1989 et 1990 sont annulés.
+Les appels interjetés à l'encontre des cotisations d'impôt établies en vertu de la Loi pour les années d'imposition 1991 et 1993 sont rejetés.
+L'appel interjeté à l'encontre de la cotisation d'impôt établie en vertu de la Loi pour l'année d'imposition 1992 est admis, et la cotisation est déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation en tenant compte du fait que le prix de base rajusté de l'immeuble sis au 5318, rue Bruce est porté à 158 975 $.
+L'intimée a droit à un mémoire de dépens.
+Signé à Ottawa, Canada, ce 19e jour d'août 2005.
+« C. H. McArthur »
+Le juge McArthur
+Traduction certifiée conforme
+ce 2e jour de mai 2006.
+Yves Bellefeuille, réviseur
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Dossier : 2000-5104(IT)G
+ENTRE :
+FIRIAL ALSAYEGH,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Appel entendu sur preuve commune avec les appels de Hikmat Alsayegh, 2000-4265(IT)G, les 30 et 31 mai 2005, à Vancouver (Colombie-Britannique).
+Devant : L'honorable juge C. H. McArthur
+Comparutions :
+Représentant de l'appelante :
+Hikmat Alsayegh
+Avocat de l'intimée :
+Me Bruce Senkpiel
+____________________________________________________________________
+JUGEMENT
+L'appel interjeté à l'encontre de la cotisation d'impôt établie en vertu de la Loi de l'impôt sur le revenu pour l'année d'imposition 1992 est admis, et la cotisation est déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation en tenant compte du fait que le prix de base rajusté de l'immeuble sis au 5318, rue Bruce est porté à 158 975 $.
+L'intimée a droit à un mémoire de dépens.
+Signé à Ottawa, Canada, ce 19e jour d'août 2005.
+« C. H. McArthur »
+Le juge McArthur
+Traduction certifiée conforme
+ce 2e jour de mai 2006.
+Yves Bellefeuille, réviseur
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Référence : 2005CCI544
+Date : 20050819
+Dossiers : 2000-4265(IT)G
+2000-5104(IT)G
+ENTRE :
+HIKMAT ALSAYEGH et FIRIAL ALSAYEGH,
+appelants,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge McArthur
+[1] L'appelant, Hikmat Alsayegh ( « M. Alsayegh » ), en appelle des nouvelles cotisations établies pour les années d'imposition 1991, 1992 et 1993 inclusivement[1], alors que son épouse, l'appelante, Firial Alsayegh ( « Mme Alsayegh » ), en appelle de la nouvelle cotisation établie pour l'année d'imposition 1992 seulement. À l'origine, Mme Alsayegh voulait en appeler des cotisations établies pour les années 1991, 1992 et 1993[2], mais sa demande de prorogation du délai pour interjeter appel n'a été acceptée que pour l'année d'imposition 1992[3].
+[2] Les questions à trancher en l'espèce portent sur la déduction de certaines dépenses relatives à des biens locatifs.
+[3] Monsieur Alsayegh est retraité; il était comptable stagiaire dans un hôpital de la région de Vancouver. Depuis 1980, lui et Mme Alsayegh ont acheté et vendu environ 17 immeubles résidentiels consistant principalement en des maisons individuelles et en de plus petits immeubles locatifs comptant deux ou trois appartements. En général, les appelants achetaient les immeubles dans l'intention de réaliser un gain en capital à court terme. Les présents appels visent deux immeubles, soit un immeuble sis au 5641, rue Rumble (l' « immeuble de la rue Rumble » ) et un immeuble sis au 5318, rue Bruce (l' « immeuble de la rue Bruce » ).
+[4] Six juges de cette cour sont déjà intervenus dans ces affaires concernant des dépenses relatives à des biens locatifs, dans certains cas à deux occasions. Ces affaires auraient dû être réglées il y a longtemps. Il y a déjà eu neuf ordonnances du tribunal touchant des questions préliminaires. De plus, une demande a été présentée en vertu des dispositions d'équité de la Loi de l'impôt sur le revenu (la « Loi » ). Par bonheur, à la suite d'une récente conférence préparatoire à l'audience devant le juge Hershfield, les questions ont été ramenées à ce qui suit :
+a) l'immeuble de la rue Rumble appartenait-il à 100 % à M. Alsayegh ou appartenait-il à M. Alsayegh et à Mme Alsayegh dans une proportion de 50 % chacun?
+b) les dépenses que les appelants ont engagées en 1989 et en 1990 pour l'immeuble de la rue Rumble et qu'ils cherchaient à capitaliser pour les années en question ont-elles déjà été déduites dans les états de location pour les années 1989 et 1990 à titre de dépenses courantes?
+c) des dépenses pour lesquelles il n'existe aucune pièce justificative (c.-à-d. des reçus) ont-elles été engagées en 1989 pour l'immeuble de la rue Bruce?
+(i) si de telles dépenses ont été engagées, ont-elles été engagées dans le but de tirer un revenu d'une entreprise ou d'un bien au sens de l'alinéa 18(1)a) de la Loi ou correspondent-elles à des frais personnels ou de subsistance des appelants au sens de l'alinéa 18(1)h) de la Loi?
+(ii) si des dépenses de nature non personnelle ont été engagées, ont-elles été déduites à titre de dépenses courantes ou de dépenses en capital pour des années antérieures?
+(iii) si des dépenses de nature non personnelle ont été engagées, mais non déduites antérieurement, quel en était le montant?
+d) les intérêts et les pénalités;
+e) les dépens.
+[5] Les appelants et Thomas Chang, un vérificateur de Revenu Canada, ont témoigné à l'audience. Monsieur Chang a été un témoin franc et, dans l'ensemble, j'accepte les preuves qu'il a présentées. Il a dit que les appelants ne tenaient pas de livres ou de registres, mais ils avaient des factures et des chèques oblitérés, ainsi que des relevés de comptes bancaires, qu'ils considéraient comme leurs livres et registres. Monsieur Chang a regroupé divers documents et documents de travail de l'agente des appels, Mme Kelly, pour en faire des annexes, qui correspondent aux pièces R-1 et R-2.
+[6] Avant l'audience, les parties sont arrivées à un règlement à l'amiable pour plusieurs montants moins importants pour les années d'imposition 1991, 1992 et 1993. Au début de l'audience, les appelants ont soulevé des préoccupations par rapport aux annexes du ministre, mais par la suite ils se sont dits d'accord avec le ministre. Dans ses conclusions finales, l'avocat de l'intimée a montré que les chiffres figurant dans les annexes du ministre correspondaient à ceux qu'avaient déterminés les appelants. Les appelants ont reconnu que ces annexes (leur pièce A-12 et la pièce R-1 de l'intimée) n'étaient plus en litige.
+a) Propriété du bien immeuble de la rue Rumble
+[7] Je passe maintenant aux points qui sont toujours en litige, en commençant par la propriété du bien immeuble de la rue Rumble. Les appelants prétendaient que chacun était propriétaire à 50 % du bien immeuble, alors que, selon l'intimée, le bien appartenait à 100 % à M. Alsayegh. Les éléments en faveur de la position des appelants sont les suivants :
+(i) l'autre bien en cause (l'immeuble de la rue Bruce) appartenait à M. Alsayegh et à Mme Alsayegh moitié-moitié;
+(ii) M. Alsayegh et Mme Alsayegh étaient également propriétaires en parts égales de tous les autres biens;
+(iii) le solde de clôture a été payé au moyen de fonds provenant du compte conjoint des appelants;
+(iv) l'avocat de M. Alsayegh n'a peut-être pas suivi les instructions de M. Alsayegh, soit de prendre le titre en tenance conjointe.
+[8] Les éléments en faveur de la position de l'intimée selon laquelle l'immeuble de la rue Rumble appartenait à 100 % à M. Alsayegh sont les suivants :
+(i) lors de l'achat, en 1988, le titre de propriété a été pris au nom de M. Alsayegh seulement;
+(ii) juste au-dessus de la signature de M. Alsayegh sur l'accord provisoire (pièce R-11), il est indiqué : [TRADUCTION] « L'unique acheteur de l'immeuble susmentionné est M. Hikmat Alsayegh » ;
+(iii) en général, les opérations financières rattachées à l'immeuble de la rue Rumble tendent à démontrer que M. Alsayegh était l'unique propriétaire. Dans ses déclarations de revenus de 1991, de 1992 et de 1993, M. Alsayegh a indiqué qu'il était l'unique propriétaire et il a personnellement déduit 100 % des pertes, alors que Mme Alsayegh n'a fait aucune mention de l'immeuble de la rue Rumble dans ses déclarations;
+(iv) dans un document déposé comme pièce R-12, M. Alsayegh a accepté de prendre lui-même en charge le financement hypothécaire existant;
+(v) à la page 4 de l'avis d'appel[4] initial produit par Mme Alsayegh le 30 avril 2001 figurait l'énoncé suivant :
+[TRADUCTION]
+5. que la Cour permette à mon époux, Hikmat Alsayegh, de me représenter dans toutes les procédures devant cette honorable cour étant donné que nous étions propriétaires en parts égales de tous les immeubles en cause, sauf celui du 5641, rue Rumble, et que la Cour considère ceci comme mon consentement à ce que mon époux parle en mon nom devant un juge de la cour d'appel générale.
+[9] Le titre juridique de l'immeuble de la rue Rumble a été enregistré au nom de M. Alsayegh seulement. Il se dit propriétaire unique dans ses déclarations de revenus pour les années en cause. Madame Alsayegh a reconnu qu'elle détenait une participation de 50 % dans tous les immeubles de son époux, à l'exception de celui de la rue Rumble[5]. Le solde de clôture de l'immeuble de la rue Rumble et toutes les dépenses connexes, y compris les paiements hypothécaires et les taxes, ont été payés à l'aide de fonds provenant d'un compte conjoint. Tout compte fait, je conclus que M. Alsayegh était l'unique propriétaire de l'immeuble de la rue Rumble.
+[10] Le paragraphe suivant de l'affaire Friedberg c. La Reine[6] s'applique à l'espèce :
+En droit fiscal, la forme a de l'importance. Une simple intention subjective, en l'espèce comme dans d'autres instances en matière fiscale, ne suffit pas en soi à modifier la caractérisation d'une opération aux fins de l'impôt. Lorsqu'un contribuable prend certaines dispositions formelles à l'égard de ses affaires, il peut s'ensuivre d'importants avantages fiscaux, quand bien même ces dispositions seraient prises principalement dans le but d'éviter des impôts (voir La Reine c. Irving Oil 91 D.T.C. 5106, le juge Mahoney, J.C.A.). Toutefois, si un contribuable omet de prendre les mesures formelles appropriées, peut-être que des impôts devront être payés. S'il n'en était pas ainsi, Revenu Canada et les tribunaux se livreraient à des exercices interminables pour établir les intentions véritables derrière certaines opérations. Les contribuables et la Couronne chercheraient à restructurer des opérations après coup afin de profiter de la législation fiscale ou d'amener les contribuables à payer des impôts qu'ils pourraient autrement ne pas avoir à payer. Bien que la preuve de l'intention puisse parfois aider les tribunaux à clarifier des marchés, elle est rarement déterminante. En résumé, la preuve d'une
+intention subjective ne peut servir à « rectifier » des documents qui s'orientent clairement vers une direction précise.
+(Je souligne.)
+Bien que toutes les sommes avancées au profit de l'immeuble de la rue Rumble provenaient probablement d'un compte bancaire conjoint, il n'y a pas grand-chose qui indique que 50 % de ces fonds provenaient de Mme Alsayegh.
+[11] Il existe une présomption évidente que M. Alsayegh était l'unique propriétaire étant donné que le titre a été pris en son nom seulement. Bien que cette présomption soit réfutable, elle n'a pas pu être réfutée pour les raisons susmentionnées. En conclusion, en ce qui concerne la première question, M. Alsayegh était l'unique propriétaire de l'immeuble de la rue Rumble.
+b) Capitalisation des dépenses relatives à l'immeuble de la rue Rumble
+[12] Je passe maintenant à la deuxième question, soit de savoir si les dépenses relatives à des biens locatifs engagées en 1989 et en 1990 pour l'immeuble de la rue Rumble peuvent être capitalisées. L'intimée fait valoir que la question, pour ce qui est de l'immeuble de la rue Rumble, est de savoir si les dépenses de 1989 et de 1990 que les appelants souhaitaient capitaliser avaient été indiquées dans les états de location de 1989 et de 1990 à titre de dépenses courantes.
+[13] Monsieur Alsayegh a dit que les dépenses de rénovation engagées en 1989 et en 1990 pour l'immeuble de la rue Rumble, telles qu'elles sont présentées dans les documents désignés « pièces » 31 et 32, ont été déduites par erreur par leur comptable à titre de dépenses courantes plutôt que d'être capitalisées et ajoutées au prix de base au moment de la disposition. La Cour a accepté que ces dépenses soient ajoutées au prix de base dans le calcul des gains en capital imposables pour l'année 1993 lorsque l'immeuble a été vendu. Tous les documents concernant les rénovations ont été vérifiés par l'ARC de même que par le Comité de l'équité. Monsieur Alsayegh a reconnu que les dépenses de rénovation ont été déduites dans ses déclarations de 1989 et de 1990 à titre de dépenses courantes. Il demande maintenant que ces dépenses soient considérées comme des dépenses en capital.
+[14] Monsieur Alsayegh a acheté l'immeuble de la rue Rumble en 1988 au prix de 79 100 $ et il l'a revendu en 1993 au prix de 255 000 $. À l'origine, il a indiqué que le prix de base rajusté pour le calcul du gain en capital au moment de la vente était de 140 000 $. Selon la réponse à l'avis d'appel modifié, le ministre a établi la cotisation de M. Alsayegh en se fondant sur un prix de base rajusté de 99 291 $, montant qui comprend les frais juridiques, les commissions et les dépenses capitalisées des années 1991, 1992 et 1993. Le ministre ne savait trop si M. Alsayegh avait déduit des montants qu'il avait réclamés à titre de dépenses courantes ou en capital au cours d'années d'imposition antérieures. Les montants que M. Alsayegh considère maintenant comme des dépenses en capital comprennent l'impôt foncier, les intérêts hypothécaires, les frais d'entretien et de réparation, les frais de main-d'oeuvre, l'assurance, l'essence et les frais de déplacement, ce qui correspond à un total de 11 735 $ en 1989 et de 22 642 $ en 1990.
+[15] En 1989 et en 1990, ces dépenses ont été indiquées dans les états de location de M. Alsayegh à titre de dépenses courantes. Cela cadre avec ce qu'a dit M. Chang après avoir examiné le dossier. Aux onglets 12 et 14 de la pièce R-3 se trouvent des demandes de rajustement d'une T1 présentées pour le compte de M. Alsayegh pour les années d'imposition 1989 et 1990. Ces demandes de rajustement visaient principalement à faire augmenter les frais d'intérêt et à permettre la déduction de dépenses salariales. Le ministre était d'avis que les demandes de rajustement visaient des années frappées de prescription aux termes de l'article 165 de la Loi, qui est libellé comme suit :
+165(1) Le contribuable qui s'oppose à une cotisation prévue par la présente partie peut signifier au ministre, par écrit, un avis d'opposition exposant les motifs de son opposition et tous les faits pertinents, dans les délais suivants :
+a) lorsqu'il s'agit d'une cotisation relative à un contribuable qui est un particulier (sauf une fiducie) ou une fiducie testamentaire, pour une année d'imposition, au plus tard le dernier en date des jours suivants :
+(i) le jour qui tombe un an après la date d'échéance de production qui est applicable au contribuable pour l'année,
+(ii) le 90e jour suivant la date de mise à la poste de l'avis de cotisation;
+b) dans les autres cas, au plus tard le 90e jour suivant la date de mise à la poste de l'avis de cotisation.
+[16] La date d'échéance de production de la déclaration de 1989 était le 30 avril 1990, et la cotisation initiale était datée du 13 décembre 1991. Par conséquent, la date d'échéance de production d'une demande de rajustement pour l'année d'imposition 1989 de M. Alsayegh était la mi-mars 1992, c'est-à-dire 90 jours après la mise à la poste de l'avis de cotisation. Les demandes de rajustement ont été présentées en janvier 1995. Si l'on ajoute une année pour toute prorogation de délai qui peut avoir été accordée par le ministre conformément à l'article 166.1, la date d'échéance définitive de signification d'une opposition à la cotisation de 1989 était la mi-mars 1993. En janvier 1995, c'était trop tard. La même chose s'applique à l'année d'imposition 1990. La date d'échéance de production de la déclaration de 1990 était le 30 avril 1991, et la cotisation initiale était datée du 13 décembre 1991. Par conséquent, la date d'échéance de production d'une demande de rajustement pour l'année d'imposition 1990 de M. Alsayegh était le 30 avril 1992, c'est-à-dire un an après la date d'échéance de production de la déclaration. Si l'on ajoute une année supplémentaire, le tout dernier jour pour produire une demande de rajustement était le 30 avril 1993. Les oppositions ou les demandes de rajustement ont été faites en janvier 1995, ce qui tombe en dehors de la période prescrite. Les demandes de rajustement des déclarations de 1989 et de 1990 visaient donc des années frappées de prescription.
+[17] Par conséquent, M. Alsayegh a présenté une demande en vertu des dispositions d'équité. Le rapport de recommandations relatives à l'équité (pièce R-3, onglet 16), en date de mai 1996, dit ce qui suit concernant l'immeuble de la rue Rumble, à la page 3 :
+[TRADUCTION]
+Examen des pertes locatives approuvées antérieurement
+Notre examen des déclarations nous a permis de déterminer ce qui suit :
+a) en 1989 et en 1990, nous avons permis au contribuable de déduire des pertes locatives nettes, mais aucun état des loyers de biens immeubles ne semble avoir été produit avec les déclarations, et ce, pour aucun des immeubles.
+[...]
+e) en 1992, une perte locative nette de 10 644 $ a été déduite et admise pour l'immeuble de la rue Rumble, mais aucun revenu de location n'a été déclaré. Dans la déclaration modifiée, cette perte passe à 15 841 $, mais aucun revenu n'est déclaré.
+[...]
+h) l'immeuble de la rue Rumble a été vendu en 1993, et les rajustements demandés visent principalement à faire augmenter les frais d'intérêt et à permettre la déduction de dépenses salariales.
+En bref, pour toutes les années, à la fois selon les états produits antérieurement et les états modifiés, les dépenses déduites sont douteuses.
+[18] Comme aucun état des loyers de biens immeubles n'a été produit pour 1989 ni pour 1990, le Comité de l'équité ne pouvait pas comparer la nouvelle demande à l'ancienne demande. Je crois qu'une seconde demande relative à l'équité a été présentée, avec les mêmes résultats. L'appelant a le même problème avec sa présente demande de capitalisation de dépenses. Même si les dépenses pouvaient être capitalisées, ce dont je doute, nous n'avons aucune preuve qui permette d'établir qu'elles n'ont pas déjà été déduites à titre de dépenses courantes dans les déclarations initiales de 1989 et de 1990.
+[19] Je suis d'accord avec l'intimée pour dire que M. Alsayegh ne s'est pas acquitté de son fardeau, soit d'établir qu'il ne déduit pas les mêmes dépenses deux fois. Aucune preuve n'a été produite pour établir les dépenses qui ont été déduites à l'origine. Étant donné la nature des dépenses, il est fort probable qu'elles ont déjà été déduites à titre de dépenses courantes et, à mon avis, admises.
+c) Capitalisation des dépenses de rénovation de l'immeuble de la rue Bruce
+[20] La troisième question est une question davantage de fond et plus difficile à trancher que les deux premières. Selon le ministre, la question est de savoir si des dépenses, pour lesquelles il n'y aucune pièce justificative (c.-à-d. des reçus), ont été engagées en 1981 pour l'immeuble de la rue Bruce et, le cas échéant, si elles ont été engagées pour tirer un revenu d'une entreprise ou d'un bien au sens de l'alinéa 18(1)a) de la Loi, ou si elles représentaient des frais personnels ou de subsistance des appelants au sens de l'alinéa 18(1)h) de la Loi.
+[21] Les appelants allèguent qu'ils ont engagé environ 35 000 $ en dépenses de rénovation pour l'immeuble de la rue Bruce pendant la période allant du 9 janvier 1981 au 1er avril 1981, juste avant qu'ils emménagent dans la maison. Les appelants estiment qu'ils ont le droit d'ajouter ces dépenses au prix de base de la maison dans le calcul de l'impôt sur les gains en capital. Il n'y a aucun document (reçus) pour fournir la preuve de ces dépenses; il y a plutôt une annexe de trois pages établie par les appelants (pièce A-16 (désignée « pièce 25 » par les appelants)) qui comprend une estimation du coût de chaque article acheté ou remplacé, y compris le nom des ouvriers ou des fournisseurs.
+[22] Les appelants ont acheté l'immeuble de la rue Bruce au prix de 144 500 $ en 1981 et ils l'ont revendu en 1992 au prix de 236 750 $. Ils l'ont occupé comme résidence principale de 1981 à 1984. Le ministre a déterminé que le prix de base rajusté était de 147 430 $. Les appelants soutiennent que le prix de base rajusté était d'environ 180 000 $. Les appelants soutiennent qu'ils ont engagé environ 33 000 $ de dépenses en capital avant d'emménager dans la maison et que ces dépenses devraient être ajoutées au prix de base rajusté pour les besoins du calcul du gain en capital tiré de la vente.
+[23] Ces dépenses, qui se chiffrent à 32 141 $, sont énumérées à la pièce A-16 et elles comprennent ce qui suit :
+[TRADUCTION]
+Description des dépenses
+Coût estimatif
+1. Nouvelle fournaise au gaz pour remplacer l'ancienne fournaise au mazout
+2 750,00 $
+2. 176 verges carrées de tapis à 35 $ la verge carrée
+6 160,00
+3. 176 verges carrées de thibaude à 4,50 $ la verge carrée pour les salles de séjour et les passages, et thibaude à 3,50 $ la verge carrée pour les chambres à coucher
+704,00
+4. Installation du tapis
+616,00
+5. Cinq contenants de cinq gallons d'apprêt à 85 $ chacun
+425,00
+6. 32 gallons de peinture pour deux couches à 20 $ le gallon
+640,00
+7. Trois sacs de Ruff Tex pour les plafonds à 25 $ le sac
+75,00
+8. Main-d'oeuvre pour le Ruff Tex
+575,00
+9. Main-d'oeuvre pour peindre la maison
+1 300,00
+10. 48 verges carrées de linoléum pour la cuisine à 15 $ la verge carrée
+720,00
+11. Coûts d'installation (3,50 $ la verge carrée, y compris la colle)
+168,00
+12. Remplacement du panneau électrique
+450,00
+13. Nouvelle cuisinière Westinghouse et nouveau réfrigérateur Inglis
+1 600,00
+14. Nouvelles laveuse et sécheuse Inglis
+1 150,00
+15. Luminaires et main-d'oeuvre en électricité
+400,00
+16. Intérêts sur la première hypothèque de 56 000 $ au taux de 13 % pour 81 jours du 8 janvier 1981 au 31 mars 1981
+1 615,56
+17. Intérêts sur deux prêts de 35 000 $ à un taux de 18 1/4 % pour 81 jours
+1 417,50
+18. Impôt foncier pour 81 jours
+410,55
+19. Assurance pour 81 jours
+82,10
+20. Électricité et gaz pendant les rénovations
+270,00
+21. Nouvelle toiture
+2 200,00
+22. Nouvelles gouttières et nouveaux tuyaux de descente des eaux pluviales
+800,00
+23. Remise de 10 pi. sur 12 pi., y compris le stuc
+2 500,00
+24. Terrasse en ciment dans la cour arrière
+450,00
+25. Peinture pour la clôture, y compris la main-d'oeuvre
+440,00
+26. Petite haie et arbustes
+250,00
+27. Intérêts sur la deuxième hypothèque de 53 000 $ au taux de 18 % pour 81 jours
+2 153,05
+28. Réparations dont je ne me souviens plus
+29. Taxes de vente provinciales
+1 819,31
+Montant total des dépenses estimatives
+32 141,07 $
+Monsieur Alsayegh a fait savoir que, étant donné que lui et Mme Alsayegh ont habité la maison d'avril 1981 à octobre 1984, il n'a pas conservé ses reçus, car Revenu Canada ne les demandait pas à l'époque.
+[24] L'avocat de l'intimée fait remarquer que son argument le plus fort est qu'afin d'emménager dans la maison, il fallait aux appelants un réfrigérateur, une cuisinière, des tapis, une terrasse et une remise, articles pour lesquels les dépenses engagées représentent des frais personnels. Il se réfère ensuite aux alinéas 18(1)a) et 18(1)h) de la Loi et conclut que les dépenses n'ont pas été engagées pour tirer un revenu mais qu'elles représentent bien des frais de subsistance.
+[25] L'alinéa 18(1)a) prévoit qu'aucune déduction ne peut être demandée pour des dépenses à moins que celles-ci n'aient été engagées afin de tirer un revenu, et l'alinéa 18(1)h) précise que les frais personnels et de subsistance ne sont pas déductibles. Les dépenses ont été engagées pour permettre à la famille des appelants d'habiter la maison et non pas dans le but de tirer un revenu d'une entreprise. En 1984, les appelants ont déménagé, et l'immeuble a été transformé en entreprise de location. Cependant, les appelants demandent que les dépenses soient considérées comme des dépenses en capital et qu'elles soient ajoutées au coût d'acquisition dans le calcul du prix de base rajusté.
+[26] Je suis d'accord en partie avec chacune des deux parties. J'estime que certaines des dépenses étaient des frais personnels et que d'autres étaient clairement des dépenses en capital et qu'elles devraient légitimement être ajoutées au prix de base rajusté. Les factures ont été présentées, et on me demande d'accepter les estimations de l'appelant plus de 20 ans après le fait. Pour tenir compte de la dépréciation découlant de l'usage personnel et de la réduction des montants étant donné qu'ils sont des estimations, les montants à capitaliser doivent être réduits et ajoutés au prix de base rajusté[7] comme suit :
+Description des dépenses
+Coût estimatif
+1. Nouvelle fournaise au gaz (réduit de 33 %)
+1 850,00 $
+2. Nouveaux tapis (réduit de 50 %)
+3 080,00
+3. Thibaude (tapis) (réduit de 50 %)
+350,00
+4. Installation du tapis (réduit de 50 %)
+310,00
+5. Personnel
+-
+6. Personnel
+-
+7. Personnel
+-
+8. Personnel
+-
+9. Personnel
+-
+10. Personnel
+-
+11. Personnel
+-
+12. Panneau électrique (réduit de 25 %)
+340,00
+13. Cuisinière et réfrigérateur (réduit de 50 %)
+800,00
+14. Laveuse et sécheuse (réduit de 50 %)
+575,00
+15. Personnel
+-
+16. Personnel
+-
+17. Personnel
+-
+18. Personnel
+-
+19. Personnel
+-
+20. Personnel
+-
+21. Nouvelle toiture (réduit de 25 %)
+1 650,00
+22. Nouvelles gouttières et nouveaux tuyaux de descente des eaux pluviales (réduit de 25 %)
+600,00
+23. Remise de 10 pi. sur 12 pi., y compris le stuc (réduit de 50 %)
+1 250,00
+24. Terrasse en ciment dans la cour arrière (réduit de 25 %)
+115,00
+25. Personnel
+-
+26. Personnel
+-
+27. Personnel
+-
+28.
+-
+29. Personnel
+-
+Total des dépenses déductibles
+11 545,00 $
+En conclusion, en ce qui concerne la question c), le montant de 11 545 $ est ajouté au prix de base rajusté de l'immeuble de la rue Bruce, ce qui fait passer le montant visé par la cotisation de 147 430 $ à 158 975 $.
+[27] Il est malheureux que les appelants n'aient pas fait évaluer l'immeuble pour déterminer sa juste valeur marchande en 1984 quand il a été transformé en unité locative. La conclusion à laquelle je suis arrivé est loin d'être parfaite, mais je crois qu'elle est plus réaliste et juste que si l'on n'avait tout simplement pas tenu compte des dépenses en capital. Bien que les appelants n'aient pas eu de reçus, j'admets qu'ils ont effectivement engagé ces dépenses. La preuve de M. Alsayegh a été corroborée par son épouse. Des photographies prises par un ancien propriétaire ont été d'une utilité négligeable.
+d) Questions secondaires
+[28] En plus des trois questions principales, un certain nombre de questions secondaires ont été soulevées par les parties. Le ministre a mentionné les intérêts et les pénalités, et dans la pièce A-1, l'appelant a énuméré certains autres points, les points 4 à 9, qui sont des points moins importants. Je vais d'abord tenter de régler les questions secondaires des appelants. Les points 4 et 5 portent sur les années d'imposition 1991 et 1993 de Mme Alsayegh, sur lesquelles cette cour n'a pas à se prononcer conformément à l'ordonnance du 25 avril 2001.
+[29] En ce qui concerne le point 6 présenté par les appelants, je n'ai pas le pouvoir d'ordonner à l'ARC [TRADUCTION] « de produire des chiffres définitifs pour chaque ligne de la déclaration de revenus » . Les points 7 et 9 des appelants visent les intérêts, les pénalités et les dépens dont je traiterai sous peu. En ce qui concerne le point 8, je n'ai pas le pouvoir d'accorder la rémunération demandée.
+e) Les intérêts, les pénalités et les dépens
+[30] Enfin, je passe à la question des intérêts, des pénalités et des dépens. Le ministre semble avoir imposé des pénalités en vertu du paragraphe 163(1) et des intérêts en vertu de l'article 161 de la Loi. Les déclarations de M. Alsayegh pour les années d'imposition 1991, 1992 et 1993 devaient être produites au plus tard le 30 avril 1992, le 30 avril 1993 et le 30 avril 1994, respectivement. Les déclarations n'ont été produites que le 3 mai 1994. De même, la déclaration de revenus de Mme Alsayegh pour 1992, qui devait être produite au plus tard le 30 avril 1993, n'a été produite que le 3 mai 1994. Les appelants ne contestent pas sérieusement ce fait.
+[31] Les appelants semblent blâmer l'ARC pour tous les retards. Dans l'arrêt Main Rehabilitation Co. Ltd. c La Reine[8], la Cour a indiqué ce qui suit : « les tribunaux ont régulièrement maintenu que les actes de l'ARC ne peuvent pas être pris en ligne de compte dans un appel interjeté à l'encontre de cotisations » , et j'adhère à ce principe.
+[32] Dans la réponse modifiée à l'avis d'appel, l'intimée traite des pénalités pour production tardive, de même que du paragraphe 163(1), bien qu'elle ne fasse pas mention du paragraphe 162(1) de la Loi. Cependant, dans la plaidoirie lors de l'audience, l'avocat de l'intimée a mentionné le paragraphe 162(1), mais il n'a pas parlé du paragraphe 163(1). À mon avis, le paragraphe 162(1) s'applique aux faits en l'espèce.
+[33] Aux termes du paragraphe 162(1), « [t]oute personne qui ne produit pas de déclaration de revenu [...] selon les modalités et dans le délai prévus au paragraphe 150(1) est passible d'une pénalité égale au total des montants suivants » , et une formule suit. Il ne fait aucun doute que les déclarations des appelants pour les années 1991, 1992 et 1993 ont été produites en retard et que le ministre avait raison de leur imposer des pénalités en vertu de la Loi.
+[34] Les appelants peuvent avoir recours à un moyen de défense basé sur la diligence raisonnable étant donné la décision rendue dans l'affaire Pillar Oilfields[9], mais je n'hésite pas à conclure qu'ils ne respectent pas le seuil établi dans cette affaire. Le juge Bowman (titre qu'il portait alors) a dit qu' « on doit s'attendre du contribuable qu'il se conforme aux exigences de la loi avec un degré élevé de diligence » . Le retard dans la production des déclarations de revenus en l'espèce n'est pas attribuable à l'ARC.
+[35] Cette cour n'a pas le pouvoir d'accorder aux appelants une dispense de payer les intérêts, car il n'y a pas de preuve selon laquelle les intérêts ont été mal calculés.
+[36] L'appel est admis de manière à ne permettre que l'augmentation du prix de base rajusté de l'immeuble de la rue Bruce en le faisant passer de 147 430 $ à 158 975 $. Étant donné que l'appel n'est accueilli qu'en partie, l'intimée a droit à un mémoire de dépens.
+Signé à Ottawa, Canada, ce 19e jour d'août 2005.
+« C. H. McArthur »
+Le juge McArthur
+Traduction certifiée conforme
+ce 2e jour de mai 2006.
+Yves Bellefeuille, réviseur
+RÉFÉRENCE :
+2005CCI544
+No DE DOSSIER DE LA COUR :
+2000-4265(IT)G et 2000-5104(IT)G
+INTITULÉ DE LA CAUSE :
+Hikmat Alsayegh et Firial Alsayegh
+et Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+Vancouver (Colombie-Britannique)
+DATES DE L'AUDIENCE :
+Les 30 et 31 mai 2005
+MOTIFS DU JUGEMENT PAR :
+L'honorable juge C.H. McArthur
+DATE DU JUGEMENT :
+Le 19 août 2005
+COMPARUTIONS :
+Pour les appelants :
+Hikmat Alsayegh
+Avocat de l'intimée :
+Me Bruce Senkpiel
+AVOCATS INSCRITS AU DOSSIER :
+Pour les appelants :
+Nom :
+S.O.
+Étude :
+S.O.
+Pour l'intimée :
+Me John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Les années 1988, 1989 et 1990 sont mentionnées dans l'avis d'appel modifié de l'appelant, mais seulement pour préciser dans quelle mesure les cotisations établies pour ces années-là ont eu une incidence sur les années d'imposition 1991, 1992 et 1993. Les cotisations établies pour les années 1988, 1989 et 1990 ne font pas et n'ont jamais fait l'objet d'un appel.
+[2] Le 28 septembre 2000, soit la date limite pour interjeter appel, M. Alsayegh a déposé un avis d'appel en son nom et au nom de Mme Alsayeghpour les années d'imposition 1991, 1992 et 1993; cependant, Mme Alsayeghdevait produire son propre avis d'appel.
+[3] Le juge Margeson a refusé la demande présentée par Mme Alsayegh en vertu de l'article 167 pour les années d'imposition 1991 et 1993 car, pour ces deux années, les cotisations établies à son égard prescrivaient qu'aucun impôt n'était payable. La demande a été entendue le 10 avril 2001, et l'ordonnance a été délivrée le 17 avril 2001 (une ordonnance modifiée a été délivrée le 25 avril 2001, mais la modification n'est pas pertinente dans ce cas-ci).
+[4] Madame Alsayegh a témoigné brièvement à l'audience pour dire qu'elle confirmait tout le témoignage de M. Alsayegh, et qu'elle était d'accord avec lui.
+[5] L'avis d'appel initial a par la suite été modifié.
+[6] no A-65-89, 5 décembre 1991, 92 D.T.C. 6031.
+[7] Les dépenses sont présentées dans l'ordre utilisé par l'appelant.
+[8] Main Rehabilitation Co. Ltd. c. La Reine (2003), no 2003-992(IT)G, 29 mars 2004, [2004] 2 C.T.C. 2068 (C.C.I.), conf. par (2004), [2005] 1 C.T.C. 212 (C.A.F.).
+[9] Pillar Oilfield Projects Ltd. c. La Reine, no 93-614(GST)I, 19 novembre 1993, [1993] G.S.T.C. 49, expliqué dans Consolidated Canadian Contractors Inc. c. Canada, [1999] 1 C.F. 209 (C.A.F.).

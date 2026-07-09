@@ -1,0 +1,233 @@
+---
+title: "Overs v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26719/index.do"
+last_modified: "2006-01-13"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 TCC 26"
+citation2: ""
+neutral_citation: "2006 TCC 26"
+decision_date: "2006-01-13"
+language: "en"
+item_id: "26719"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3400
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T22:26:14.444000+00:00"
+cases_cited_count: 0
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "1b034e0b92535aec54806d6f74231825e9b32f6e42f394d345fb730c7cfb3c8e"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Overs v. The Queen
+
+- Citation: 2006 TCC 26
+- Decision date: 2006-01-13
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3400, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Overs v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-01-13
+Neutral citation
+2006 TCC 26
+File numbers
+2003-1989(IT)G
+Judges and Taxing Officers
+Leslie M. Little
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2003-1989(IT)G
+BETWEEN:
+MICHAEL OVERS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on May 18, 2005 at Toronto, Ontario
+Before: The Honourable Justice L.M. Little
+Appearances:
+Counsel for the Appellant:
+Roger Taylor, Michele Anderson
+Counsel for the Respondent:
+Patricia Lee
+____________________________________________________________________
+JUDGMENT
+The appeals from the assessments made under the Income Tax Act for the 1999 and 2000 taxation years are allowed, with costs, and the assessments are referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached Reasons for Judgment.
+Signed at Vancouver, British Columbia, this 13th day of January 2006.
+Little J.
+Citation: 2006TCC26
+Date: 20060113
+Docket: 2003-1989(IT)G
+BETWEEN:
+MICHAEL OVERS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Little J.
+A. FACTS:
+[1] The appeal was heard in Toronto, Ontario in May 2005.
+[2] The issue is whether the General Anti-Accordance Rules contained in section 245 of the Income Tax Act (the "Act") are applicable to deny the Appellant's claim to deduct the carrying charges and interest expenses incurred in respect to a loan made by the Bank of Montreal to the Appellant's wife.
+[3] The parties prepared and filed a Statement of Agreed Facts. The Statement of Agreed Facts provides as follows:
+1. The Appellant was resident in Canada throughout the 1999 and 2000 taxation years.
+2. Lilian Overs was resident in Canada and was the Appellant's spouse throughout the 1999 and 2000 taxation years.
+3. Tesari Holdings Limited ("THL") was incorporated on September 21, 1981. At all times, the Appellant has been the President and sole director of THL. THL's fiscal period ends on September 30th of each calendar year.
+4. On September 28, 1999, the Appellant owned all of the common shares of THL, being 1,910,000 common shares thereof.
+5. As of September 20, 1998, the Appellant owed THL the amount of $2,267,233 (the "Shareholder Loan"). The proceeds of the Shareholder Loan had not been used by the Appellant for the purpose of earning income from a business or property.
+6. The consequence to the Appellant of not repaying the Shareholder Loan on or before September 30, 1999 was that the amount of the Shareholder Loan would be included in computing the Appellant's income for the 1998 taxation year by virtue of s. 15(2) of the Income Tax Act.
+7. On September 28, 1999, the following written agreements were entered into:
+(i) Lilian Overs accepted an offer from the Bank of Montreal with respect to a credit facility established for her in the amount of $2,300,000. The Bank of Montreal had written to Lilian Overs on September 21, 1999, offering the $2,300,000 credit facility and confirming that the borrowing would be secured by a promissory note from her, a guarantee from THL and a pledge from THL of cash collateral in the amount of $2,300,000.
+(ii) Pursuant to a written agreement dated September 28, 1999, the Appellant agreed to sell to Lilian Overs 130,163 of his common shares of THL for $2,300,000, which sale was to take place on September 29, 1999. This price was the fair market value at that time of the 130,163 common shares of THL.
+(iii) THL provided a guarantee to the Bank of Montreal for the liability of Lilian Overs of up to $2,300,000 (the "Guarantee") and a Security Agreement in respect of cash collateral, term deposits, treasury bills, etc. (the "Security Agreement").
+(iv) Pursuant to a written agreement dated September 28, 1999, Lilian Overs agreed to pay THL an annual fee of $11,500 in consideration for THL providing the Bank of Montreal with the Guarantee and Security Agreement.
+8. The following transactions occurred on September 29, 1999:
+(i) Lilian Overs borrowed $2,300,000 from the Bank of Montreal, signed a promissory note to the Bank of Montreal for this amount, and paid $2,300,000 by cheque to the Appellant.
+(ii) The Appellant transferred 130,163 of his common shares of THL to Lilian Overs and upon deposit of the cheque from Lilian Overs into his account, paid $2,300,000 by cheque to THL in payment of his Shareholder Loan.
+(iii) Upon deposit of the Appellant's cheque, THL used the $2,300,000 to purchase term deposits issued by the Bank of Montreal, which deposits were pledged as security for its obligations under the Guarantee and Security Agreement.
+9. The Appellant, in filing his return of income for the 1999 taxation year, did not elect that the provisions of s. 73(1) of the Income Tax Act not apply with respect to the transfer of 130,163 common shares of THL to Lilian Overs.
+10. Lilian Overs became the registered owner of 130,163 common shares of THL on September 29, 1999 and continues to be the registered owner of those shares.
+11. In the 1999 taxation year, the interest paid to the Bank of Montreal on the borrowing was $60,758.
+12. In the 2000 taxation year, the interest paid to the Bank of Montreal on the borrowing was $153,395.83 and a guarantee fee of $11,500 was paid to THL.
+13. No dividends were declared or paid on the common shares of THL in the 1999 or 2000 taxation years.
+14. THL declared a dividend on its common shares in its 2001 taxation year in the amount of $162,000, $11,040 of which was paid to Lillian Overs on her 130,163 common shares of THL and $13,800 (the grossed-up amount) was included in Lilian Overs' income for the 2001 taxation year.
+15. In computing his income for the 1999 and 2000 taxation years, the Appellant deducted the amounts of $48,996 and $164,305, respectively, which amounts arose as a result of the interest and guarantee fee paid in respect of the borrowing by Lilian Overs.
+16. The Minister disallowed the amounts sought to be deducted by the Appellant in computing his income for the 1999 and 2000 taxation years, and the Appellant filed Notices of Objection to the Minister's assessments for those years.
+17. The Minister confirmed the 1999 and 2000 assessment/reassessment in reliance upon the provisions of s. 245 of the Income Tax Act, namely, the general anti-avoidance rule ("GAAR").
+18. The Appellant appeals on the basis that the amounts claimed of $60,758 in the Appellant's 1999 taxation year and $164,896 in the Appellant's 2000 taxation year are deductible as losses from the shares of THL transferred to his spouse, Lilian Overs, which losses are attributable to him by virtue of s. 74(1) of the Income Tax Act.
+B. ISSUES:
+[4] The issues in this appeal are:
+(i) whether the facts assumed by the Minister in reassessing tax to the Appellant for the 1999 and 2000 taxation years are sufficient to validate the 1999 Assessment and the 2000 Assessment;
+(ii) in the alternative, whether any transaction entered into by the Appellant in relation to the sale by him to Lilian Overs of 130,163 shares of THL in September of 1999 can be described properly as an "avoidance transaction" within the meaning of subsection 245(3);
+(iii) in the further alternative, if any transaction entered into by the Appellant in relation to the sale by him to Lilian Overs of 130,163 shares of THL could be described as an "avoidance transaction" within the meaning of subsection 245(3), whether it is reasonable to consider that such transaction or transactions do not result directly or indirectly in a misuse of the provisions of the Act or an abuse, having regard to the provisions of the Act, read as a whole.
+C. ANALYSIS AND DECISION:
+[5] This appeal was heard on May 18, 2005. At the conclusion of the hearing I reserved my decision because I wanted to review the Reasons for Judgment of the Supreme Court of Canada in two appeals involving the application of the GAAR provisions. The Supreme Court was expected to issue decisions in the near future.
+[6] On October 19, 2005 the Supreme Court of Canada issued Reasons for Judgment in The Queen v. Canada Trustco Mortgage Company ("Canada Trustco") and Kaulius et al. v. The Queen ("Kaulius"). (The decisions are collectively referred to as "the GARR Decisions".)
+[7] By letter dated October 25, 2005 I requested that counsel for the parties provide me with a written brief. Counsel for the Appellant and Counsel for the Respondent each provided me with their comments on the GAAR Decisions.
+[8] Section 245 of the Act reads as follows:
+245. (1) Definitions. In this section,
+"tax benefit" means a reduction, avoidance or deferral of tax or other amount payable under this Act or an increase in a refund of tax or other amount under this Act;
+"tax consequences" to a person means the amount of income, taxable income, or taxable income earned in Canada of, tax or other amount payable by or refundable to the person under this Act, or any other amount that is relevant for the purposes of computing that amount;
+"transaction" includes an arrangement or event.
+245. (1.1) Idem. [Repealed by 1988, c. 55, s. 185(1).]
+245(2) Where a transaction is an avoidance transaction, the tax consequences to a person shall be determined as is reasonable in the circumstances in order to deny a tax benefit that, but for this section, would result, directly or indirectly, from that transaction or from a series of transactions that includes that transaction.
+245(3) An avoidance transaction means any transaction
+(a) that, but for this section, would result, directly or indirectly, in a tax benefit, unless the transaction may reasonably be considered to have been undertaken or arranged primarily for bona fide purposes other than to obtain the tax benefit; or
+(b) that is part of a series of transactions, which series, but for this section, would result, directly or indirectly, in a tax benefit, unless the transaction may reasonably be considered to have been undertaken or arranged primarily for bona fide purposes other than to obtain the tax benefit.
+245(4) For greater certainty, subsection (2) does not apply to a transaction where it may reasonably be considered that the transaction would not result directly or indirectly in a misuse of the provisions of this Act or an abuse having regard to the provisions of this Act, other than this section, read as a whole.
+245(5) Without restricting the generality of subsection (2),
+(a) any deduction in computing income, taxable income, taxable income earned in Canada or tax payable or any part thereof may be allowed or disallowed in whole or in part,
+(b) any such deduction, any income, loss or other amount or part thereof may be allocated to any person,
+(c) the nature of any payment or other amount may be recharacterized, and
+(d) the tax effects that would otherwise result from the application of other provisions of this Act may be ignored,
+in determining the tax consequences to a person as is reasonable in the circumstances in order to deny a tax benefit that would, but for this section, result, directly or indirectly, from an avoidance transaction.
+245(6) Where with respect to a transaction
+(a) a notice of assessment, reassessment or additional assessment involving the application of subsection (2) with respect to the transaction has been sent to a person, or
+(b) a notice of determination pursuant to subsection 152(1.11) has been sent to a person with respect to the transaction,
+any person (other than a person referred to in paragraph (a) or (b)) shall be entitled, within 180 days after the day of mailing of the notice, to request in writing that the Minister make an assessment, reassessment or additional assessment applying subsection (2) or make a determination applying subsection 152(1.11) with respect to that transaction.
+245(7) Notwithstanding any other provision of this Act, the tax consequences to any person, following the application of this section, shall only be determined through a notice of assessment, reassessment, additional assessment or determination pursuant to subsection 152(1.11) involving the application of this section.
+245(8) On receipt of a request by a person under subsection (6), the Minister shall, with all due dispatch, consider the request and notwithstanding subsection 152(4), assess, reassess or make an additional assessment or determination pursuant to subsection 152(1.11) with respect to that person, except that an assessment, reassessment, additional assessment or determination may be made under this subsection only to the extent that it may reasonably be regarded as relating to the transaction referred to in subsection (6).
+[9] In the Canada Trustco decision Chief Justice McLachlin and Justice Major, speaking for the Court, said at paragraph 21:
+... The GAAR was enacted as a provision of last resort in order to address abusive tax avoidance, it was not intended to introduce uncertainty in tax planning.
+[10] At paragraph 7(i) of the Reply to the Notice of Appeal the Respondent maintains that there are three tax benefits from the transactions which occurred on September 20 and 29, 1999:
+(i) The first tax benefit is that the Appellant, by repaying the shareholders loan, avoided having the amount of the shareholders loan included in his income;
+(ii) The second tax benefit is that by not electing out of the application of subsection 73(1) the Appellant avoided the tax liability resulting from the capital gain which would have arisen on the disposition of the shares; and
+(iii) The third tax benefit is that by operation of subsection 74.1(1) the Appellant became entitled to claim deductions for interest and carrying charges on money which was borrowed by his spouse in order to allow him to repay the shareholder loan.
+[11] Also in Canada Trustco the Supreme Court said at paragraph 17 concerning the application of GAAR:
+[17] The application of the GAAR involves three steps. The first step is to determine whether there is a "tax benefit" arising from a "transaction" under s. 245(1) and (2). The second step is to determine whether the transaction is an avoidance transaction under s. 245(3), in the sense of not being "arranged primarily for bona fide purposes other than to obtain the tax benefit". The third step is to determine whether the avoidance transaction is abusive under s. 245(4). All three requirements must be fulfilled before the GAAR can be applied to deny a tax benefit.
+I. Tax Benefit
+[12] In Canada Trustco the Supreme Court said at paragraph 19:
+[19] "Tax benefit" is defined in s. 245(1) (of the Act) as "a reduction, avoidance or deferral of tax" or "an increase in a refund of tax or other amount" paid under the Act.
+[13] The Court continued at paragraph 19:
+Whether a tax benefit exists is a factual determination, initially by the Minister and on review by the courts, usually the Tax Court. ...
+[14] At paragraph 20 in Canada Trustco the Supreme Court said:
+[20] If a deduction against taxable income is claimed, the existence of a tax benefit is clear, since a deduction results in a reduction of tax. In some other instances, it may be that the existence of a tax benefit can only be established by comparison with an alternative arrangement. For example, characterization of an amount as an annuity rather than as a wage, or as a capital gain rather than as business income, will result in differential tax treatment. In such cases, the existence of a tax benefit might only be established upon a comparison between alternative arrangements. In all cases, it must be determined whether the taxpayer reduced, avoided or deferred tax payable under the Act.
+[15] In this situation it is apparent that the Appellant claimed a deduction against taxable income, i.e. he may have obtained a tax benefit. However, in order to determine whether GAAR should be applied we must, as the Supreme Court noted, apply the next two steps.
+II. Avoidance Transaction
+[16] In dealing with avoidance transactions the Supreme Court said in Canada Trustco:
+[21] The second requirement for application of the GAAR is that the transaction giving rise to the tax benefit be an avoidance transaction within s. 245(3). The function of this requirement is to remove from the ambit of the GAAR transactions or series of transactions that may reasonably be considered to have been undertaken or arranged primarily for a non-tax purpose. The majority of tax benefits claimed by taxpayers on their annual returns will be immune from the GAAR as a result of s. 245(3). The GAAR was enacted as a provision of last resort in order to address abusive tax avoidance, it was not intended to introduce uncertainty in tax planning.
+[22] A "transaction" is defined under s. 245(1) to include an arrangement or event. Section 245(3) specifically defines "avoidance transaction" as a transaction that results in a tax benefit, either by itself or as part of a series of transactions, "unless the transaction may reasonably be considered to have been undertaken or arranged primarily for bona fide purposes other than to obtain the tax benefit".
+[17] It will be noted that the definition of "avoidance transaction" uses the words "unless the transaction may reasonably be considered to have been undertaken or arranged primarily for bona fide purposes other than to obtain the tax benefit" (Underlining added). In other words the Trial Judge must weigh the relevant evidence and determine which interpretation of the evidence is most reasonable.
+[18] In this situation we are talking about three transactions:
+(a) Transaction under Subsection 15(2) of the Act
+Subsection 15(2) provides that shareholder loans will not be included in a shareholder's income if they are repaid within the year.
+Based on the evidence before me I have concluded that the Appellant followed the rules outlined in subsection 15(2), i.e. he repaid his shareholder loan within the year and therefore the amount of the loan was not included in computing the Appellant's income for the year.
+In my opinion this transaction was not an avoidance transaction and therefore subsection 245(3) does not apply with respect to the application of subsection 15(2).
+(b) Application of Subsection 73(1) of the Act
+Subsection 73(1) is a deeming rule which provides for the deferral of any capital gain realized on the transfer of capital property between spouses. Under this provision any transfer of property between spouses will occur on a "rollover" basis - UNLESS the taxpayers elect that subsection 73(1) not apply to the transaction.
+It is apparent that the plain meaning of subsection 73(1) is to facilitate the transfer of property between spouses.
+Based on the evidence before me I have concluded that the Appellant followed the rules outlined in subsection 73(1) of the Act to facilitate the transfer of property to his wife.
+In my opinion this transaction is not an avoidance transaction and therefore subsection 245(3) does not apply to the transfer of property by the Appellant to his wife.
+(c) Application of Subsection 74.1(1) of the Act
+Subsection 74.1(1) provides that where an individual has transferred property to his or her spouse, any income or loss realized by the individual's spouse in respect of that property is deemed to be the income or loss of the individual making the transfer. However, if the spouse elects not to have subsection 73(1) apply there will be no attribution back to the transferor.
+In this situation the plain meaning as outlined in subsection 74.1(1) would apply and the loss on the transactions would be attributed back to the Appellant.
+Based on the evidence before me I have concluded that the Appellant followed the rules as outlined in subsection 74.1(1) and was therefore entitled to claim the loss.
+[19] In my opinion this is not an avoidance transaction and therefore subsection 245(3) does not apply.
+III. Abusive Tax Avoidance
+[20] In Canada Trustco the Supreme Court stated that the third requirement for the application of GAAR is that the avoidance transaction giving rise to a tax benefit must be abusive. In view of my findings concerning tax avoidance as noted above it may not be necessary for me to deal with this test. However, if I am not correct on my earlier comments regarding my determination that the transactions under review are not tax avoidance transactions I believe that I should also consider and comment upon the third test.
+[21] In considering the words "abusive tax avoidance" it is useful to refer back to the comments of the Supreme Court in Canada Trustco. At paragraph 21 the Supreme Court said:
+... The GAAR was enacted as a provision of last resort in order to address abusive tax avoidance, it was not intended to introduce uncertainty in tax planning.
+[22] I also note that at paragraph 50 in Canada Trustco the Supreme Court said:
+As previously discussed, Parliament sought to address abusive tax avoidance while preserving consistency, predictability and fairness in tax law and the GAAR can only be applied to deny a tax benefit when the abusive nature of the transaction is clear.
+[23] At paragraph 52 in Canada Trustco we have the following comment:
+... Unless the Minister can establish that the avoidance transaction frustrates or defeats the purpose for which the tax benefit was intended to be conferred, it is not abusive.
+[24] Based on my understanding of the evidence before me and the applicable GAAR legislation I do not believe that any of the transactions under review could be considered to be "abusive tax avoidance" transactions.
+[25] For the reasons outlined above I have concluded that the GAAR provisions should not be applied in this situation.
+[26] The appeals are allowed, with costs.
+Signed at Vancouver, British Columbia, this 13th day of January 2006.
+Little J.
+CITATION:
+2006TCC26
+COURT FILE NO.:
+2003-1989(IT)G
+STYLE OF CAUSE:
+Michael Overs and
+Her Majesty the Queen
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+May 18, 2005
+REASONS FOR JUDGMENT BY:
+The Honourable Justice L.M. Little
+DATE OF JUDGMENT:
+January 13, 2006
+APPEARANCES:
+Counsel for the Appellant:
+Roger Taylor, Michele Anderson
+Counsel for the Respondent:
+Patricia Lee
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Roger Taylor
+Firm:
+Couzin Taylor
+Ottawa, Ontario
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

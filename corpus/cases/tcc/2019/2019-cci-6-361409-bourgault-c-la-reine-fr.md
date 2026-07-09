@@ -1,0 +1,231 @@
+---
+title: "Bourgault c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/361409/index.do"
+last_modified: "2019-01-17"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2019 CCI 6"
+citation2: ""
+neutral_citation: "2019 CCI 6"
+decision_date: "2019-01-17"
+language: "fr"
+item_id: "361409"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4334
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T18:27:43.269000+00:00"
+cases_cited_count: 4
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "bca6a1750b0cfe47dc9cf681c0007d9808d153bf551866815a74cb316867ab4e"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Bourgault c. La Reine
+
+- Citation: 2019 CCI 6
+- Decision date: 2019-01-17
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4334, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Bourgault c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2019-01-17
+Référence neutre
+2019 CCI 6
+Numéro de dossier
+2014-4109(IT)G
+Juges et Officiers taxateurs
+Réal Favreau
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2014-4109(IT)G
+ENTRE :
+JEAN BOURGAULT,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Appel entendu le 11 juin 2018, à Sherbrooke (Québec).
+Devant : L'honorable juge Réal Favreau
+Comparutions :
+Avocats de l'appelant :
+Me Simon Letendre
+Me Gabriel Paradis
+Avocate de l'intimée :
+Me Christina Ham
+JUGEMENT
+L’appel à l’encontre des nouvelles cotisations en date du 1er mai 2006, établies en vertu de la Loi de l’impôt sur le revenu concernant les années d’imposition 2002, 2003 et 2004 de l’appelant est admis et les nouvelles cotisations sont annulées, conformément aux motifs du jugement ci-joint. Les dépens selon le tarif sont adjugés en faveur de l’appelant.
+Signé à Montréal (Québec), ce 17e jour de janvier 2019.
+« Réal Favreau »
+Juge Favreau
+Référence : 2019 CCI 6
+Date : 20190117
+Dossier : 2014-4109(IT)G
+ENTRE :
+JEAN BOURGAULT,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Favreau
+[1] Il s’agit d’un appel à l’encontre de nouvelles cotisation établies par le ministre du Revenu national (le « ministre ») en vertu de la Loi de l’impôt sur le revenu, L.R.C. (1985), ch. 1 (5e suppl.), telle que modifiée, (la « Loi ») en date du 1er mai 2006 concernant les années d’imposition 2002, 2003 et 2004 de l’appelant.
+[2] En vertu des nouvelles cotisations datées du 1er mai 2006, le ministre a ajouté au revenu de l’appelant les montants suivants à titre d’avantages à un actionnaire :
+Année d’imposition
+Avantage imposable
+2002
+2003
+2004
+62 000 $
+166 520 $
+42 500 $
+[3] La question en litige consiste à déterminer la nature des paiements effectués par la société « Développement Quatre Saisons Inc. (« Quatre Saisons ») à la société Placeval Inc. (« Placeval »), une société appartenant à monsieur Sorel Hertzog (« M. Hertzog »). Selon le ministre, ces paiements constituent des paiements pour le prix de vente des actions de Quatre Saisons et, par conséquent, sont des avantages imposables pour l’appelant alors que, selon l’appelant, ces paiements représentent des commissions versées à M. Hertzog pour des services qu’il a rendus lors de la vente de terrains appartenant à Quatre Saisons.
+[4] Pour fixer l’impôt payable par l’appelant pour les années d’imposition 2002, 2003 et 2004, le ministre a tenu pour acquis les faits suivants :
+a) avant le 15 avril 2002, la société Placeval Inc. détenait cent (100) actions de la catégorie A et cinq mille (5000) actions privilégiées de la catégorie A de Développment Quatre Saisons Inc. (« Quatre Saisons »);
+b) Quatre Saisons détenait plusieurs terrains;
+c) le 15 avril 2002, la société Placeval a vendu à l’appelant les actions qu’elle détenait de Quatre Saisons;
+d) l’appelant n’a pas payé pour les actions de Quatre Saisons au moment de la vente;
+e) plutôt, l’appelant devait payer à Placeval Inc. un montant basé sur le pourcentage des gains de la vente future des terrains que détenait Quatre Saisons;
+f) au cours des années d’imposition 2002, 2003 et 2004, Quatre Saisons a remis les sommes de 62 000 $, 166 520 $ et 42 500 $ à Placeval Inc.;
+g) les sommes remises par Quatre Saisons à Placeval Inc. sont en paiement de l’achat des actions de Quatre Saisons par l’appelant;
+h) le Ministre et le Procureur général du Canada ne sont pas partie à la cause 450-17-001882-068 devant la Cour supérieure du Québec, dans laquelle un jugement déclaratoire a été rendu le 3 juillet 2006.
+Historique du litige
+[5] La source du litige découle de l’interprétation des deux paragraphes suivants d’une convention d’achat et de vente d’actions de Quatre Saisons conclue entre Placeval (le vendeur) et Jean Bourgault (l’acheteur) en date du 15 avril 2002 (la « convention »):
+ATTENDU que l’Acheteur désire acquérir les Actions du Vendeur, et que le Vendeur désire vendre les Actions à l’Acheteur en contrepartie d’une somme représentant cinquante pour cent (50%) du prix de vente brut généré par les ventes futures des Terrains de la Compagnie jusqu’à un montant de $300,000.00 payé au Vendeur et trente pour cent (30%) du prix de vente brut dépassant ce montant, sommes qui seront payées au Vendeur en tant que commissions;
+4. La vente, cession et transport des Actions est ainsi faite pour et en considération d’une somme représentant cinquante pour cent (50%) du prix de vente brut généré par les ventes futures des Terrains de la Compagnie (le « Prix d’Acquisition ») jusqu’à un montant de $300,000.00 payé au Vendeur et trente pour cent (30%) du prix de vente brut dépassant ce montant, sommes qui seront payées au Vendeur en tant que commissions.
+[6] Suite à une vérification en taxes effectuée par Revenu Québec, la convention a été référée à la division impôt de Revenu Québec et à l’Agence du Revenu du Canada (l’ « ARC »).
+[7] Revenu Québec et l’ARC ont accepté la déduction des commissions versées par Quatre Saisons à Placeval au cours des années d’imposition 2002, 2003 et 2004 et l’inclusion dans le revenu de Placeval desdites commissions à titre de revenu d’entreprise. Les commissions ont été payées suite à la réception de factures de la part de Placeval incluant les taxes, lesquelles ont été mises en preuve à l’audience. Les paiements de commission se sont ainsi poursuivis au moins jusqu’en 2008.
+[8] Malgré la fermeture du dossier de Quatre Saisons le 26 mars 2001, l’ARC a cotisé l’appelant pour ses années d’imposition 2002, 2003 et 2004 en traitant les commissions que Quatre Saisons a versées à Placeval comme étant un avantage conféré à un actionnaire imposable en vertu du paragraphe 15(1) de la Loi. Se basant sur la convention, l’ARC a considéré les paiements de commissions comme faisant partie du prix de vente des actions de Quatre Saisons. Les nouvelles cotisations à l’égard de l’appelant ont été établies en date du 1er mai 2006.
+[9] Pour corriger la rédaction juridiquement défectueuse du deuxième « ATTENDU » et du paragraphe 4 de la convention et pour s’assurer que ces dispositions traduisent l’intention réelle des parties au moment de la signature de la convention, l’appelant a présenté, le 23 mai 2006, une requête en jugement déclaratoire devant la Cour supérieure, district de Saint-François. Les parties à cette requête étaient l’appelant en tant que requérant, Placeval Inc. en tant qu’intimée et Développement Quatre Saisons, en tant que mise-en-cause. La requête en jugement déclaratoire était appuyée de déclarations assermentées circonstanciées du requérant, du président de l’intimée. M. Sorel Hertzog, ainsi que de Me David Bilodeau, avocat-fiscaliste au sein de la firme Samson Bélair/Deloitte & Touche.
+[10] Dans un jugement rendu le 3 juillet 2006, le juge Pierre C. Fournier a accueilli la requête et a déclaré ce qui suit :
+DÉCLARE et dit qu’au-delà du sens littéral des termes malencontreusement et par erreur utilisés dans le contrat de vente des actions de la MISE-EN-CAUSE par l’INTIMÉE au REQUÉRANT intervenu le 15 avril 2002 (R-1), l’intention commune des parties et le contrat les liant à toutes fins que de droit sont à l’effet de ratifier l’engagement pris par la MISE-EN-CAUSE de verser à l’INTIMÉE les sommes mentionnées au deuxième « ATTENDU » et au paragraphe 4 du contrat R-1, et d’établir pour valoir entre elles la valeur des actions vendues et le prix de vente payable pour celle-ci par le REQUÉRANT à l’INTIMÉE à la somme d’un dollar (1 $);
+[11] L’intimée n’accepte pas les conclusions du jugement du juge Fournier et soutient que le jugement n’est pas opposable au ministre parce qu’il n’a pas été mis-en-cause dans la requête.
+Les témoignages
+[12] Les témoins entendus à l’audience étaient l’appelant, Me David Bilodeau et madame Vestine Ngoga, vérificatrice à l’ARC. L’interrogatoire hors cour de M. Sorel Hertzog du 16 juillet 2010 a été mis en preuve mais ce dernier n’a pu témoigner à l’audience car il est décédé quelques semaines avant l’audience.
+[13] L’appelant a été à l’emploi de Quatre Saisons depuis 1990. Quatre Saisons s’occupait depuis 1967 des achats et des ventes de terrains à bâtir et offrait des services de construction dans la municipalité d’Austin, Quebec. De 1990 à 2000, il s’est occupé au début de l’entretien (été comme hiver) des chemins privés et de la plage commune ainsi que des services aux résidents du domaine et, par la suite, il est devenu chef des projets de construction, en plus de s’occuper des ventes de terrains. Au début de son emploi, il recevait un salaire mais par la suite, il était payé sur une base de commissions pour la construction des résidences et pour les ventes de terrains.
+[14] M. Bourgault a expliqué que M. Hertzog lui a offert d’acheter Quatre Saisons pour assurer la pérennité de l’entreprise et pour qu’elle ne fasse pas faillite. En 2002, M. Hertzog était alors âgé de 74 ans et il avait reçu un diagnostic de la maladie de Parkinson quelques années auparavant. De plus, M. Hertzog était préoccupé par les opérations déficitaires de l’entretien des chemins publics, des plages et du domaine en général. Les propriétaires des terrains achetés entre 1967 et 1980 (soit environ 650 à 700 terrains) ne payaient que 35 $ par année pour ces services alors qu’il coûtait en 1980 entre 120 $ et 150 $ par année à Quatre Saisons pour rendre ces services. Les contrats d’entretien de cette époque ne contenaient pas de clause d’inflation pour tenir compte de la hausse des coûts.
+[15] Afin de permettre à l’appelant d’acheter les actions de Quatre Saisons et de diminuer la valeur desdites actions à 1 $, M. Hertzog a littéralement « vidé » la société en déclarant et payant à Placeval un dividende de 1 275 630 $ peu de temps avant la vente des actions et en ne laissant comme actif dans la société que les terrains coûteux à développer et difficilement vendables parce qu’ils étaient enclavés. Les états financiers de Quatre Saisons au 15 avril 2002, de même que ceux pour les exercices financiers se terminant le 31 mars 2003, 2004 et 2005 furent mis en preuve.
+[16] Selon M. Bourgault, M. Hertzog a assuré une transition harmonieuse dans les opérations de Quatre Saisons suite à la vente des actions de Quatre Saisons. Il connaissait tous les dossiers lesquels dossiers n’étaient pas informatisés à cette époque. Il savait reconnaître les possibilités de développement et de construction et il a participé à la vente de terrains jusqu’en 2008.
+[17] À l’interrogatoire hors cour de M. Hertzog, ce dernier a confirmé qu’il participait à la vente de terrains les fins de semaine et que cela représentait plus de 10 heures par semaine. Il a dit qu’il recevait les clients au bureau et qu’il leur fournissait toutes les informations demandées. Il a de plus précisé qu’il n’effectuait pas de visite sur les terrains et qu’il n’avait pas l’autorité pour signer les offres d’achat ni les contrats notariés.
+[18] Me David Bilodeau a témoigné à l’audience et il a confirmé avoir représenté l’appelant auprès de Revenu Québec dans le but de solutionner l’imbroglio provoqué par la rédaction défectueuse du deuxième « ATTENDU » et du paragraphe 4 de la convention. Selon lui, Revenu Québec s’apprêtait à procéder à une triple imposition suite à cette transaction, soit imposer l’appelant pour un avantage à un actionnaire, refuser la déduction des commissions versées à Placeval et imposer ces commissions reçues par Placeval comme du revenu d’entreprise, tel que déclaré. D’après lui, la solution était de procéder à une rectification de la convention au moyen d’un jugement déclaratoire pour que celle-ci reflète l’intention réelle des parties. Me Bilodeau n’a pas cru bon de recommander de faire effectuer une évaluation des actions compte tenu du contexte économique difficile prévalant à cette époque, du versement du dividende de 1 275 630 $, du marché difficile pour les terrains laissés à l’actif de la société et du passif éventuel pour l’entretien des chemins privés. Selon lui, les deux parties à la convention n’avaient pas de lien de dépendance et se sont entendues sur une valeur symbolique d’un dollar.
+[19] Madame Vestine Ngoga, vérificatrice à l’ARC, a également témoigné à l’audience. Elle a expliqué qu’elle a obtenu le dossier de l’appelant au début de 2006, lequel avait été référé par Revenu Québec. Sans avoir fait de vérification des affaires de l’appelant, elle a cotisé l’appelant, Quatre Saisons et Placeval, de la même façon que l’a fait Revenu Québec. Elle n’a pas fait effectuer d’évaluation des actions de Quatre Saisons et elle a simplement considéré que le prix de vente des actions était égal au montant des commissions versées par Quatre Saisons à Placeval. Elle a également indiqué, qu’au moment où la nouvelle cotisation a été établie (soit le 1er mai 2006), elle savait qu’une requête en jugement déclaratoire serait déposée à la Cour pour faire corriger la convention et elle n’a pas cru bon d’intervenir dans cette procédure.
+Dispositions statutaires
+[20] Le paragraphe 15(1) de la Loi requiert qu’un actionnaire d’une société ajoute à son revenu la valeur de certains avantages qu’une société lui confère. Le paragraphe 15(1) se lit comme suit :
+La valeur de l'avantage qu'une société confère, à un moment donné, à son actionnaire, à un associé d'une société de personnes qui compte parmi ses actionnaires ou à son actionnaire pressenti est incluse dans le calcul du revenu de l'actionnaire, de l'associé ou de l'actionnaire pressenti, selon le cas, pour son année d'imposition qui comprend ce moment, sauf dans la mesure où cette valeur est réputée en vertu de l'article 84 constituer un dividende ou dans la mesure où cet avantage est conféré à l'actionnaire au moyen de l'une des opérations suivantes : […]
+Position de l’appelant
+[21] Selon l’appelant, le jugement déclaratoire de la Cour supérieure du Québec (la « CS ») est opposable à l’intimée et le paragraphe 15(1) de la Loi n’est pas applicable en l’espèce.
+I. Le jugement déclaratoire est opposable à l’intimée
+[22] Selon l’appelant, le jugement déclaratoire de la CS s’applique aux fins de la Loi pour les raisons suivantes :
+a) la CS avait une compétence exclusive pour rectifier la convention;
+[23] La CS s’est prononcée sur la nature de la relation juridique liant les deux parties en vertu de la convention, une convention régie par les règles du Code civil du Québec et, en ce faisant, la CS a agi à l’intérieur de sa compétence.
+[24] La CS a constaté que la convention ne reflétait pas l’intention des parties en raison d’une erreur de rédaction se rapportant au prix de vente des actions de Quatre Saisons.
+[25] La CS a modifié la terminologie utilisée dans la convention pour refléter l’intention réelle des parties sachant précisément que cela entraînerait des conséquences à l’égard des autorités fiscales.
+b) le jugement de la CS est valide, exécutoire et opposable;
+[26] Pour soutenir sa position à l’effet que le jugement de la CS est valide, exécutoire et opposable à l’intimée, l’appelant a notamment référé à la décision rendue par la Cour d’appel fédérale dans Dale c. Canada, [1997] 3 C.F. 235 qui a appliqué les principes énoncés dans la décision de la Cour suprême du Canada dans Wilson c. La Reine, [1983] 2 R.C.S. 594 concernant l’effet obligatoire des ordonnances émises par les cours supérieures. Ces principes sont :
+- le dossier d’une Cour supérieure doit être considéré comme « la vérité absolue tant qu’il n’a pas été infirmé »;
+- une ordonnance qui n’a pas été annulée doit être appliquée intégralement;
+- l’ordonnance a force obligatoire pour tous; et
+- une attaque indirecte est réputée englober des procédures autres que celles visant précisément à obtenir l’infirmation ou l’annulation de l’ordonnance.
+[27] Le juge McIntyre a résumé lesdits principes de la façon suivante au paragraphe 4 de la page 599 de l’arrêt Wilson :
+[…] Selon un principe fondamental établi depuis longtemps, une ordonnance rendue par une cour compétente est valide, concluante et a force exécutoire, à moins d'être infirmée en appel ou légalement annulée. De plus, la jurisprudence établit très clairement qu'une telle ordonnance ne peut faire l'objet d'une attaque indirecte; l'attaque indirecte peut être décrite comme une attaque dans le cadre de procédures autres que celles visant précisément à obtenir l'infirmation, la modification ou l'annulation de l'ordonnance ou du jugement. […]
+[28] L’appelant soumet que la Cour doit donner effet au jugement de la CS et en reconnaître l’opposabilité vis-à-vis l’intimée même si ni le ministre, ni le Procureur général du Canada n’ont pas été mis-en-cause. La vérificatrice de l’ARC avait été informée, avant l’émission des cotisations, des procédures entreprises par l’appelant pour rectifier les termes de la convention mais elle n’a pas cru bon d’intervenir et a préféré cotiser avant que le jugement de la CS soit rendu. De plus, la vérificatrice de l’ARC n’a pas entrepris de procédures pour demander la rétractation du jugement de la CS après qu’elle en ait pris connaissance.
+c) l’intimée ne peut procéder à une attaque indirecte du jugement de la CS dans le cadre du présent appel.
+[29] Se référant à nouveau à l’extrait ci-dessus cité de la décision du juge McIntyre dans l’arrêt Wilson c. La Reine, l’appelant soutient que l’intimée attaque directement la portée et l’effet du jugement de la CS en affirmant que le jugement de la CS ne lui est pas opposable et que les actions de Quatre Saisons n’ont pas été vendues pour la somme d’un dollar.
+[30] Le jugement de la CS ne peut faire l’objet d’une attaque indirecte parce qu’il n’a pas été obtenu par de fausses déclarations ou par la non-divulgation de renseignements pertinents, qui sont les circonstances exceptionnelles auxquelles réfèrent les tribunaux pour procéder à une attaque indirecte d’un jugement émis par une cour de justice ayant compétence.
+[31] La requête de l’appelant à la CS a présenté la problématique de manière exhaustive, autant au niveau de l’erreur rédactionnelle dans la convention, des circonstances préalables à sa rédaction, de l’intention des parties et des conséquences fiscales potentielles en l’absence de rectification par la CS. Ladite requête fut appuyée de déclarations assermentées et de projets de cotisation.
+[32] En procédant à la rectification, la CS a éclairci l’intention des parties au moment de la formation du lien contractuel et n’avait pas pour but de réécrire l’histoire fiscal découlant de la convention (voir Imperial Tobacco Canada Ltée c. Québec (Sous-ministre du Revenu), 2006 QCCQ 8273).
+II. Le paragraphe 15(1) n’est pas applicable en l’espèce
+[33] Le paragraphe 15(1) est rédigé d’une manière très large mais les tribunaux ont délimité le champ d’application de cette disposition en faisant ressortir plusieurs éléments importants pour conclure à la présence d’un avantage imposable au sens du paragraphe 15(1). Ces éléments sont les suivants :
+A. L’actionnaire a bénéficié d’un avantage
+[34] Un « avantage » au sens de la Loi implique nécessairement un enrichissement, une augmentation de la valeur nette du patrimoine du bénéficiaire (Canada c. Hoefele, [1995] A.C.F. no 1340.
+[35] Or, en l’espèce, le paiement des commissions n’a pas enrichi le patrimoine de l’appelant puisque la valeur nette de son placement dans Quatre Saisons a diminué d’autant sans que l’appelant ne reçoive rien en retour. Le paiement des commissions par Quatre Saisons, ne représente donc pas un « avantage » pour l’appelant au sens du paragraphe 15(1).
+B. Quatre Saisons a conféré un avantage à l’appelant
+[36] La jurisprudence a établi la nécessité d’un élément intentionnel pour conclure à l’application du paragraphe 15(1) sauf lorsque les deux conditions suivantes sont réunies : (1) les circonstances sont telles que l’actionnaire ou la société « aurait dû savoir » qu’un avantage avait ainsi été conféré; et (2) ni la société, ni l’actionnaire n’ont rien fait pour rectifier l’octroi de cet avantage. Ces deux conditions ne sont pas présentes dans le cas présent.
+[37] Quatre Saisons n’a jamais eu l’intention de conférer un avantage à l’appelant, s’il en est un. L’intention des parties était de « geler » la valeur de Quatre Saisons avant la vente des actions à l’appelant, d’attribuer cette valeur à Placeval par le biais du dividende de 1 275 630 $ et de permettre à l’appelant de devenir seul actionnaire de Quatre Saisons sans mise de fonds. M. Hertzog devait par la suite continuer de travailler pour Quatre Saisons pour assister l’appelant et sa rémunération consistait en des commissions calculées en fonction des ventes futures de terrains de la société.
+[38] L’appelant soumet que Quatre Saisons ne lui a pas conféré d’avantage au sens du paragraphe 15(1). Selon l’entente entre les parties et leur comportement respectif après la vente des actions, l’appelant ne devait payer aucune somme d’argent pour acquérir les actions de Quatre Saisons. Dans les circonstances, il ne pouvait y avoir une intention de conférer un avantage à l’appelant au titre de l’acquisition des actions, et ce, autant du point de vue de l’appelant que de Quatre Saisons.
+C. Le paiement effectué par la société, s’il y a lieu, n’est pas effectué en vue de gagner un revenu d’entreprise
+[39] Selon les décisions rendues par la Cour canadienne de l’impôt dans Truckbase Corp. c. Canada, 2006 CCI 215 et Bilous c. Canada, 2011 CCI 154, une dépense encourue par une société pour réaliser un revenu d’entreprise ne doit pas donner lieu à un avantage imposable au sens du paragraphe 15(1) pour son actionnaire. Une dépense d’entreprise n’est pas encourue à des fins personnelles et l’actionnaire ne bénéficie pas, par conséquent, d’un avantage reçu en sa qualité d’actionnaire.
+[40] En l’espèce, la déduction des commissions payées par Quatre Saisons a été acceptée par les autorités fiscales parce que les commissions payées représentaient des dépenses réalisées en vue de tirer un revenu d’entreprise pour Quatre Saisons. De plus, Placeval a été pleinement imposée sur ces montants en tant que revenu d’entreprise.
+[41] Les services rendus à Quatre Saisons par M. Hertzog suite à la vente des actions de Quatre Saisons furent réels et importants pour assurer une transition harmonieuse des opérations de Quatre Saisons.
+D. Lorsqu’il est établi qu’un avantage a été conféré, la valeur de l’avantage doit être quantifiable
+[42] Selon l’appelant, une partie sans lien de dépendance avec Placeval, provenant de l’extérieur, n’aurait pas acheté de Placeval les actions de Quatre Saisons pour une somme de près de 271 000 $, soit le total des commissions versées au cours des années d’imposition 2002, 2003 et 2004. Ce montant étant beaucoup trop élevé considérant les services à être rendus par M.Hertzog, les charges d’entretien devant être assumées par Quatre Saisons, les taxes municipales et les investissements requis pour exploiter les terrains appartenant à Quatre Saisons.
+[43] La valeur utilisée par l’intimée pour déterminer l’avantage de l’appelant se base uniquement sur les termes de la convention avant qu’elle soit rectifiée. Il s’agit d’une valeur arbitraire qui ne tient pas compte du comportement des parties.
+[44] L’intimée n’a produit aucun calcul et n’a fait effectuer aucune évaluation pour établir la valeur des actions de Quatre Saisons au moment de la vente, ni pour déterminer la valeur des services rendus par M. Hertzog.
+Position de l’intimée
+[45] La position primaire de l’intimée est que le jugement de la CS n’est pas opposable au ministre parce que ce dernier n’a pas été mis-en-cause dans la requête.
+[46] L’intimée a fourni l’exemple de la requête en jugement déclaratoire déposée par monsieur Marc St-Pierre auprès de la CS du Québec le 11 février 2013 à laquelle le Procureur général du Canada et l’Agence du revenu du Canada furent mis-en-cause pour que le jugement à être rendu leur soit opposable (2017 CCI 69, paragraphe 49).
+[47] L’intimée a référé à l’arrêt dans lequel la Cour Suprême du Canada a énoncé les conditions qui doivent exister pour qu’un jugement acquière l’autorité de la « chose jugée ». Cette décision date de 1991 mais les modifications apportées au Code civil du Québec et au Code de procédure du Québec n’ont pas changé les conditions d’existence de la chose jugée.
+[48] Selon les enseignements de la Cour Suprême du Canada dans l’arrêt précité, pour qu’un jugement constitue « chose jugée », il doit être conforme aux critères suivants en ce qui a trait au jugement lui-même : le tribunal doit avoir compétence, le jugement doit être définitif et il doit avoir été rendu en matière contentieuse (soit celui par lequel un magistrat tranche un point contesté entre deux ou plusieurs adversaires). Dans le cas de la requête de l’appelant, les parties avaient le même intérêt, soit d’éviter la triple imposition. Par conséquent, cette condition ne semble pas avoir été rencontrée.
+[49] De plus, pour qu’un jugement définitif rendu en matière contentieuse par un tribunal compétent acquière l’autorité de « chose jugée », il faut que les trois identités suivantes soient respectées : identité de parties, identité d’objet et identité de cause. L’autorité de la chose jugée n’a lieu qu’entre les mêmes parties entre lesquelles le jugement a été rendu. Par conséquent, ceux qui ne sont pas parties au jugement ne sont donc pas liés par lui. Comme le Procureur général du Canada et le ministre n’étaient pas partie à la requête de l’appelant, ceux-ci ne sont pas liés par le jugement de la CS.
+[50] En s’appuyant sur la décision rendue par la Cour d’appel fédérale dans Canadian Forest Navigation Co. c. Canada, [2017] A.C.F. no 257, l’intimée a souligné que la Cour canadienne de l’impôt peut évaluer le dossier de l’appelant à la lumière de tous les faits pertinents dont le jugement déclaratoire de la CS.
+[51] Selon l’intimée, l’appelante demande de ne pas tenir compte de la convention qui a été signée par les parties. La divergence entre le « negotium » et l’ »instrumentum ») pour reprendre la terminologie utilisée dans Agence du revenu du Québec c. Services Environnementaux AES inc., [2013] 3 R.C.S. 838, a été expliquée non pas par l’appelant ou par l’avocat qui a rédigé le document ou le comptable mais plutôt par Me Bilodeau qui n’était pas impliqué dans la structure de la transaction, ni dans la rédaction du document. L’intimée tire une inférence négative du fait que les personnes impliquées dans la transaction n’ont pas témoigné à l’audience pour établir l’intention véritable des parties lors de la signature.
+[52] L’intimée soutient que les conseillers juridiques qui ont rédigé la convention n’ont pas fait d’erreur et qu’il n’y a pas de divergence entre le « negotium » et l’ »instrumentum ». Le deuxième « ATTENDU » de la convention est très clair et indique bien que le vendeur désire vendre les actions à l’acheteur en contrepartie d’une somme représentant 50% du prix de vente brut généré par les ventes futures de terrains. De telles clauses existent vraiment et ne sont pas illégales, ni contre l’ordre publique. La convention reflète bien l’intention des parties et il n’a pas été établi que l’intention véritable des parties était d’acheter et de vendre les actions pour un dollar.
+[53] La somme d’un dollar est difficile à justifier alors que Quatre Saisons avait au 15 avril 2002, un actif de 131 257 $ dont 53 002 $ en argent comptant, et seulement un passif de 54 867 $, et alors que la convention utilisait un seuil de 300 000 $ au-delà duquel le taux de commission passait de 50% à 30%. Il n’y a pas eu d’évaluation de la valeur des actions, ni des terrains laissés dans la société mais il y avait certainement un potentiel de profits qui se sont d’ailleurs réalisés au cours des années subséquentes à la vente.
+[54] L’intimée soutient de plus que les services à être rendus par M. Hertzog après la vente n’étaient pas bien définis. Il n’y avait pas d’entente à ce sujet entre les parties et aucune précision n’a été apportée quant à la nature des services à être rendus par M. Hertzog ni quant à la quantification des heures du travail de ce dernier.
+Analyse et conclusion
+[55] Après analyse des plaidoiries et de la preuve testimoniale et documentaire soumises par les parties, j’arrive à la conclusion que le jugement de la CS n’est pas opposable à l’intimée parce que ni le Procureur général du Canada, ni le ministre n’ont été mis-en-cause dans la requête. Par contre, je me dois d’en tenir compte dans l’évaluation du dossier et dans la recherche de l’intention véritable des parties lors de la conclusion de la transaction.
+[56] Comme le juge LeBel l’a si bien mentionné au paragraphe 52 dans Agence du Revenu du Québec c. Services Environnementaux AES inc., précité :
+. . . En droit civil, le fisc ne possède pas de droit acquis au bénéfice d’une erreur que les parties à un contrat auraient commise, puis corrigée de consentement mutuel.
+[57] Le jugement de la CS fait nécessairement partie des éléments à considérer dans l’examen de la conduite des parties après la transaction.
+[58] Le contexte dans lequel les nouvelles cotisations ont été établies à l’encontre de l’appelant est révélateur, puisqu’au moment de l’émission des nouvelles cotisations, la vérificatrice savait qu’une requête en jugement déclaratoire serait déposée et ne savait pas si le Procureur général du Canada ou le ministre serait mis-en-cause.
+[59] Même si le jugement de la CS n’est pas opposable à l’intimée et ne fait pas autorité de chose jugée, la conduite des parties, avant comme après, la conclusion de la transaction démontre clairement que leur intention véritable était d’acheter et de vendre les actions de Quatre Saisons pour une valeur nominale et non pour une contrepartie basée sur les ventes futures de terrains.
+[60] La preuve a en effet démontré que la valeur de Quatre Saisons avant la vente a été attribuée à Placeval par le biais du dividende de 1 275 630 $ et que M. Hertzog avait réellement rendu des services à Quatre Saisons pour lesquels les commissions ont été payées à Placeval. Les parties ont considéré les paiements effectuées par Quatre Saisons à Placeval comme des commissions. Des factures incluant les taxes furent émises à cet effet par Placeval jusqu’en 2008. Les états financiers de Quatre Saisons pour les exercices financiers terminés le 31 mars 2003, 2004 et 2005, ont également reflété les commissions versées dans le coût des ventes des terrains.
+[61] D’ailleurs, les autorités fiscales fédérales et québécoises ont traité lesdites commissions comme une dépense engagée dans le but de gagner un revenu au niveau de Quatre Saisons et comme un revenu d’entreprise au niveau de Placeval. En ce faisant, les autorités fiscales ont, à mon avis, fait leur « nid » et ne peuvent traiter la somme totalisant 271 020 $ reçue par Placeval et versée par Quatre Saisons comme provenant de deux sources de revenu différentes en même temps, soit à la fois comme des commissions et à la fois comme un solde de prix de vente des actions de Quatre Saison.
+[62] À mon avis, il est évident que la convention, telle que rédigée, comporte des erreurs de rédaction extrêmement importantes qui ne correspondaient pas à l’intention véritable des parties et qui étaient susceptibles d’engendrer des effets fiscaux absurdes et exorbitants. C’est à juste titre que les parties ont obtenu le jugement de la CS pour rectifier la situation.
+[63] À la lumière de ce qui précède, je ne vois pas comment le paragraphe 15(1) de la Loi pourrait être applicable en l’espèce. Les commissions versées par Quatre Saisons ne représentent pas des dépenses personnelles de l’appelant dont il aurait bénéficié en sa qualité d’actionnaire.
+[64] Pour toutes ces raisons, l’appel est accueilli et les nouvelles cotisations sont annulées. Les dépenses selon le tarif, sont adjugées en faveur de l’appelant.
+Signé à Montréal (Québec), ce 17e jour de janvier 2019.
+« Réal Favreau »
+Juge Favreau
+RÉFÉRENCE :
+2019 CCI 6
+Nº DU DOSSIER DE LA COUR :
+2014-4109(IT)G
+INTITULÉ DE LA CAUSE :
+Jean Bourgault et Sa Majesté la Reine
+LIEU DE L’AUDIENCE :
+Sherbrooke (Québec)
+DATE DE L’AUDIENCE :
+le 11 juin 2019
+MOTIFS DE JUGEMENT PAR :
+L'honorable juge Réal Favreau
+DATE DU JUGEMENT :
+le 17 janvier 2019
+COMPARUTIONS :
+Avocats de l'appelant :
+Me Simon Letendre
+Me Gabriel Paradis
+Avocate de l'intimée :
+Me Christina Ham
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelant:
+Noms :
+Me Simon Letendre
+Me Gabriel Paradis
+Cabinet :
+Therrien Couture Avocats, s.e.n.c.r.l.
+Pour l’intimée :
+Nathalie G. Drouin
+Sous-procureur générale du Canada
+Ottawa, Canada

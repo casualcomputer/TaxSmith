@@ -1,0 +1,122 @@
+Title: Phénix v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/346359/index.do
+Corpus path: corpus/cases/tcc/2018/2018-tcc-204-346359-ph-nix-v-the-queen-en.md
+Document type: case_law
+Last modified: 2018-10-16
+
+# Phénix v. The Queen
+
+- Citation: 2018 TCC 204
+- Decision date: 2018-10-16
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5007, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Phénix v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2018-10-16
+Neutral citation
+2018 TCC 204
+File numbers
+2018-770(IT)I
+Judges and Taxing Officers
+Patrick J. Boyle
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2018-770(IT)I
+BETWEEN:
+TED PHÉNIX,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard and decision rendered
+on September 18, 2018, at Montréal, Quebec.
+Before: The Honourable Justice Patrick Boyle
+Appearances:
+Counsel for the Appellant:
+Pierre Robillard
+Counsel for the Respondent:
+Mounes Ayadi
+JUDGMENT
+For the attached reasons rendered orally at the hearing, the appeal from the reassessment made under the Income Tax Act for the 2013 taxation year is allowed, without costs, and the matter is referred back to the Minister of National Revenue for reassessment to remove the penalties stipulated in subsection 163(2) of the Act.
+Signed at Ottawa, Canada, this 16th day of October 2018.
+“Patrick Boyle”
+Boyle J.
+Docket: 2018-770(IT)I
+BETWEEN:
+TED PHÉNIX,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+EDITED VERSION OF TRANSCRIPT
+OF ORAL REASONS FOR JUDGMENT
+Let the attached edited transcript of the reasons for judgment rendered orally at the hearing on September 18, 2018 at Montréal, Ontario be filed. I have edited the transcript (certified by the Court Reporter) for style, clarity and to make minor corrections only. I did not make any substantive changes.
+Signed at Ottawa, Canada, this 16th day of October 2018.
+“Patrick Boyle”
+Boyle J.
+Citation: 2018 TCC 204
+Date: 20181016
+Docket: 2018-770(IT)I
+BETWEEN:
+TED PHÉNIX,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+[Appeal heard and decision rendered orally at the hearing on
+September 18, 2018, at Montréal, Quebec]
+Boyle J.
+[1] In Mr. Phénix’s informal case this morning, there was an omission in his 2013 tax return. The amount of a dividend received from his company was omitted. This was not contested. The only issue to decide on is whether to impose a gross negligence penalty on the omitted amount.
+[2] To discharge the burden of proof, the respondent must demonstrate that according to the balance of probability, Mr. Phénix’s behaviour includes a high degree of negligence corresponding to a deliberate action or indifference in terms of compliance with the Act. An ordinary negligence error is insufficient to find the taxpayer guilty of gross negligence. The finding of gross negligence must be decided based on all evidence of the particular circumstances of this appeal.
+[3] For the following reasons, I am not satisfied that the respondent demonstrated that the omission in the return was made knowingly or under circumstances equivalent to gross negligence, based on the balance of probability.
+[4] Mr. Phénix completed high school in 1965. He founded his business in 1983. His company has important clients throughout the world, a staff of about 20 employees, and an approximately $10 million turnover. Mr. Phénix often travels internationally for periods of two to four weeks, five or six times throughout the year. The company’s fiscal year end is March 31.
+[5] Mr. Phénix hires reliable professionals for his business and personal tax accounting. His internal auditor, who testified, has worked for the company for over 10 years. His external auditor, who also testified, began working for Mr. Phénix’s company in 2005. The accountant who prepared his tax returns initially worked at the company and continued to do so once it became associated with the same accounting firm as the auditor.
+[6] In most of the years under review, Mr. Phénix received a mix of salaries and dividends from his company. The mix was determined by the internal auditor and external auditor. Except for the omitted dividends in 2013, the evidence indicates no other error or omission in Mr. Phénix’s tax returns either before or since 2013.
+[7] Several changes occurred in 2013 that are relevant to this appeal. Firstly, 2013 was the first year that the company hired the external auditor, Mr. Audet, to prepare the T5 forms. The company’s auditor had always prepared them along with the T4s in previous years. He distributed them together, by hand, in the office. Mr. Phénix did not know about this change for T5 forms.
+[8] Secondly, the external auditor, Mr. Audet, had changed firms in 2012. He continued to work with Mr. Phénix’s company as a client, but Mr. Phénix was unaware that he had changed firms. The auditor sent the T5 form by mail to Mr. Phénix’s personal address.
+[9] Thirdly, in 2014 the company did not declare an annual dividend for Mr. Phénix.
+[10] Given these facts in particular, I cannot conclude that the omission was not the result of a reasonable error or ordinary negligence. Mr. Phénix continued to follow the same process as usual and to use the same professionals, and he had the same company as his sole source of income in each previous tax year. His external accountant who prepared his tax return had also not noticed that he may have been missing a T5 form in 2013.
+[11] Under these particular circumstances, I cannot conclude that Mr. Phénix would have made note of this omission, even if he fully read and reviewed his 2013 tax return, which he signed. For these reasons, the appeal is allowed.
+Signed at Ottawa, Canada, this 16th day of October 2018.
+“Patrick Boyle”
+Boyle J.
+CITATION:
+2018 TCC 204
+COURT FILE NO.:
+2018-770(IT)I
+STYLE OF CAUSE:
+TED PHÉNIX v. HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Montréal, Quebec
+DATE OF HEARING:
+September-18-18
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Patrick Boyle
+DATE OF JUDGMENT:
+October 16, 2018
+APPEARANCES:
+[BLANK]
+Counsel for the Appellant:
+Pierre Robillard
+Counsel for the Respondent:
+Mounes Ayadi
+COUNSEL OF RECORD:
+[BLANK]
+For the Appellant:
+Pierre Robillard
+Firm:
+Brunet & Robillard Avocats
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

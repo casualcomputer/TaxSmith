@@ -1,0 +1,156 @@
+Title: Pelletier c. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/31130/index.do
+Corpus path: corpus/cases/tcc/2013/2013-tcc-80-31130-pelletier-c-m-n-r-en.md
+Document type: case_law
+Last modified: 2013-04-04
+
+# Pelletier c. M.N.R.
+
+- Citation: 2013 TCC 80
+- Decision date: 2013-04-04
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4778, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Pelletier c. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2013-04-04
+Neutral citation
+2013 TCC 80
+File numbers
+2009-1927(EI), 2009-2149(EI), 2009-2150(CPP)
+Judges and Taxing Officers
+François M. Angers
+Subjects
+Employment Insurance Act
+Decision Content
+Dockets: 2009-1927(EI),
+2009-1929(CPP)
+BETWEEN:
+CAMILLE PELLETIER,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on February 25, 2013, at Edmundston, New Brunswick.
+Before: The Honourable Justice François Angers
+Appearances:
+For the appellants:
+The appellants themselves
+Counsel for the respondent;
+Stéphanie Côté
+Christina Ham
+____________________________________________________________________
+JUDGMENT
+The appeals from the decisions of the Minister of National Revenue that the appellant was not engaged in insurable employment within the meaning of the Employment Insurance Act and pensionable employment within the meaning of the Canada Pension Plan are dismissed, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 4th day of April 2013.
+"François Angers"
+Angers J.
+Translation certified true
+on this 15th day of May 2013.
+Elizabeth Tan, Translator
+Dockets: 2009-2149(EI),
+2009-2150(CPP)
+BETWEEN:
+ROBERT COULOMBE,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on February 25, 2013, at Edmundston, New Brunswick.
+Before: The Honourable Justice François Angers
+Appearances:
+For the appellants:
+The appellants themselves
+Counsel for the respondent:
+Stéphanie Côté
+Christina Ham
+____________________________________________________________________
+JUDGMENT
+The appeals from the decisions of the Minister of National Revenue that the appellant was not engaged in insurable employment within the meaning of the Employment Insurance Act and pensionable employment within the meaning of the Canada Pension Plan are dismissed, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 4th day of April 2013.
+"François Angers"
+Angers J.
+Translation certified true
+on this 15th day of May 2013.
+Elizabeth Tan, Translator
+Citation: 2013 TCC 80
+Date: 20130404
+Dockets: 2009-1927(EI),
+2009-1929(CPP),
+2009-2149(EI), 2009-2150(CPP)
+BETWEEN:
+CAMILLE PELLETIER,
+ROBERT COULOMBE,
+Appellants,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Angers J.
+[1] This is an appeal from the decisions by the Minister of National Revenue (the Minister) that the appellants did not hold insurable employment within the meaning of the Employment Insurance Act (the Act) and pensionable employment within the meaning of the Canada Pension Plan (the Plan) with their employer, 516241 NB Inc (the payer corporation) during the period of April 22 to July 26, 2002, for the appellant Camille Pelletier and during the period of September 30 to November 8, 2002, for the appellant Robert Coulombe.
+[2] These appeals were heard on common evidence. At the beginning of the hearing, the respondent informed the court that he wished to amend the Reply to the Notices of Appeal by removing paragraphs 6(e) and (f) in dockets 2009-1927(EI) and 2009‑1929(CPP) and paragraphs 7(e) and (f) in dockets 2009-2149(EI) and 2009‑2150(CPP). The motion was granted and the replies to the notice of appeal were therefore amended accordingly.
+[3] The Minister's decision that the two appellants did not hold insurable and pensionable employment is based on the presumption that they did not hold employment under a contract of service and, alternatively, regarding the employment insurance cases, if there was a contract of service between the payer corporation and the appellants, their employment was not insurable because there was a factual non-arm's-length relationship between them within the meaning of paragraph 5(2)(i) of the Act.
+[4] The payer corporation was incorporated on March 15, 2002, pursuant to the laws of New Brunswick and was dissolved in November 2004. Its sole shareholder and director was Allain Maltais. This company operated a forestry business and earned income from logging in 2002. It did not keep any records of its income and expenditures and had no licence related to its activity. It did not file any tax returns nor did it remit any source deductions to the Minister. It was not registered with WorkSafe New Brunswick.
+[5] The payer corporation was part of a group of companies that was the subject of a wide-scale investigation led by the Employment Insurance Commission. This investigation also revealed that the companies, including the payer corporation, were involved in schemes involving remitting false records of employment to allow individuals to qualify for employment insurance benefits.
+[6] The Commission's investigators obtained the payroll account of the payer corporation, which allowed them to create a table of its employees according to their occupation and duration of their employment. They also obtained a bank statement for the payer corporation, which showed the movements on the account from the time it was opened in April 2002 to the time it was closed in the spring of 2003, and a copy of the cheques issued by various companies that purchased wood from the payer corporation and deposited to that company's account as well as cheques issued by the company to various people. The payer corporation's first sale of wood, according to the cheques deposited, occurred on July 19, 2002, at a time the payroll far exceeded the income. On August 31, the income was around $67,300 while the payroll journal indicates that salaries of close to $120,000 were paid. Without calculating the other expenses the payer corporation might have had, it is clear there was a serious shortfall.
+[7] There are also anomalies regarding the records of employment of certain employees. They do not correspond to the payroll journal and in one case, two records were issued for the same employee with different dates for that employee's first day of work. The investigation also revealed many contradictions, with some workers claiming to have been supervised by a certain Claude St-Onge when this person does not appear in the payer corporation's payroll journal at that time. Others received a record of employment without knowing why. There is therefore little doubt that the activities of the payer corporation were dubious and raised many unanswered questions.
+[8] It must therefore be determined whether the two appellants did in fact work for the payer corporation during the periods in question and during the hours and for the compensation indicated in the payroll journal.
+[9] In his testimony, the appellant Robert Coulombe stated he worked for this Claude St-Onge during the period in question. It was only in 2009 that he realized that Allain Maltais had signed his record of employment for that period. He had worked every day for this Claude St-Onge, alternating between lumberjack duties and operating the skidder. He was hired by Claude St-Onge and he was the one who paid him; the first time was by cheque but then he was paid in cash because the cheque in question had bounced. He received between $600 and $700 per week. He did not know his employer was a numbered company.
+[10] He testified that he worked in the Matapédia valley in the province of Quebec and he travelled with Claude St-Onge day and evening. He worked [Translation] "from sun-up to sunset".
+[11] Annette Mélanson, determination officer, had a telephone interview with Mr. Coulombe on June 9, 2008. He admitted that his place of work was in Quebec near St-Alexis and that he had not worked in New Brunswick. He drove with Claude St-Onge to get to work and the trip took 45 to 60 minutes each way. He left around 5 a.m. and got home around 5 p.m.; he was paid by cheque every Friday.
+[12] Manon Basque was an appeals officer at the time, in March 2009. She received Robert Coulombe's answers to a questionnaire about his period of employment with the payer corporation. According to his answers, Claude St-Onge was the owner of the company. He had heard that Claude St-Onge was looking for someone to replace an injured worker. His employment ended when this employee returned.
+[13] According to Exhibits I-4 and I-5, the table and the payroll journal, none of the payer corporation's employees missed a day of work due to a workplace accident or bad weather. Additionally, there were no employees working for the payer corporation after Mr. Coulombe's employment ended. This means that no employee returned to work after the termination of Mr. Coulombe's employment. The payroll journal also indicates that Mr. Coulombe's departure was due to a lack of work. Moreover, all of the payer corporation's documentation indicates that every employee's departure was due to a lack of work.
+[14] As for the appellant Camille Pelletier, he was hired by Allain Maltais but at work, it was Claude St-Onge who was present. He saw him every day and saw Maltais once or twice a week. He was hired to operate the bulldozer, which belonged to Mr. Gallant. Mr. Pelletier was involved in the construction of roads in the regions of St‑André, Restigouche and Quebec. He worked 10 hours a day at $15 an hour. He was paid in cash on Fridays after endorsing his paycheque, which was signed by Allain Maltais.
+[15] Mr. Pelletier also met with Annette Melanson. On the issue of place of work, he said he worked in St-Arthur, flatland, Merival-Tidehead, in New Brunswick, except for Assention in the province of Quebec. He allegedly worked once or twice on Saturday and Allain Maltais was responsible for his duties. Claude St-Onge paid him most often and he was often paid on Thursdays. He told her he worked with the truckers, Bouchard, Huard and a Fred Levesque.
+[16] Mr. Pelletier also answered a questionnaire regarding the appeals. According to his answers, Claude St-Onge was the foreman and determined the work schedule. The places he worked are different than those he indicated to Ms. Melanson, although there were some overlaps. He also stated that he worked alone, contrary to what he had told Ms. Melanson.
+[17] The onus is on the appellants to establish, on a balance of probabilities, first and foremost, that they actually worked for the payer corporation, and did so during the period in question. They must also establish that they performed the hours of work and received insurable compensation, in accordance with their records of employment.
+[18] The two appellants were the only witnesses to testify. They did not produce any documents or exhibits that would confirm their statements. Therefore, their testimony and prior statements must be relied on.
+[19] It is clear that the commercial activities of the payer corporation were far from being in order. The records of employment, the payroll journal and the movement of funds raise serious doubts about the legitimacy of the dates of the payer corporation's commercial operations. When the issue is whether individuals truly performed work, the burden of proof can be heavy but it is not impossible to meet.
+[20] In this case, particularly in the case of appellant Coulombe, I find it hard to believe he was hired by Claude St-Onge and that he only realized in 2009 that his record of employment had been signed by Allain Maltais. It must be determined whether Mr. Coulombe knew he was working for a numbered company. Mr. Coulombe tells us he had a fixed schedule, but at the same time he claims to have worked from [translation] "sun-up to sunset". According to the payroll journal, he worked 50 hours a week and, in response to the questionnaire, he claimed he worked 50 to 60 hours a week.
+[21] On another note, Mr. Coulombe testified at the hearing and in the questionnaire that he only received one paycheque but it bounced and then he was paid in cash. He told Ms. Melanson that he was paid by cheque.
+[22] What is most implausible for me is that he replaced an injured worker and that his employment ended when the other worker came back to work. The payroll journal indicates that none of the payer corporation's workers had missed a day of work for any reason whatsoever. In fact, all the layoffs were justified by a lack of work. Additionally, the last week of Mr. Coulombe's work corresponds to the last week of work for all the other employees of the payer corporation. Nobody worked there after November 8, 2002. Lastly, Mr. Coulombe says he worked with Clause St‑Onge for the six weeks of his employment, when other workers claimed the same thing, according to the investigators.
+[23] Mr. Coulombe's situation is vague and, in my opinion, he did not meet his burden of proof on a balance of probabilities. His appeals are therefore dismissed.
+[24] In the case of Mr. Pelletier, there are fewer contradictions, but they are just as significant. Mr. Pelletier said his work was supervised by Claude St-Onge during the period in question. However, according to the payroll journal and Exhibit I-4, Claude St-Onge only began working for the payer corporation on August 4, 2002, and his duties were as a lumberjack and not as a supervisor. It is true that this documentation might be unreliable but it still raised questions that Mr. Pelletier was unable to answer through his testimony.
+[25] Mr. Pelletier could also have had the owner of the bulldozer he operated testify. This might have confirmed his claim that he had to stop working because the owner came to take the bulldozer back. Mr. Pelletier did not explain why he did not call him to testify; this can only lead to the conclusion that his testimony would not have been favourable.
+[26] Lastly, Mr. Pelletier testified that he earned $15 an hour for a weekly salary of $750. The payroll journal indicates $800 per week for 50 hours, for an hourly rate of $16. Mr. Pelletier said he worked once or twice on Saturday, while the payroll journal does not indicate that any work was done on a Saturday. All these contradictions raise many questions, for which the answers are anything but clear.
+[27] It is possible that Mr. Pelletier worked for the payer corporation during the period in question but his testimony was not sufficient to convince me, on a balance of probabilities, that this work corresponds to his claims for the period in question. He did not meet his burden of proof. Therefore, I also dismiss his appeals.
+Signed at Ottawa, Canada, this 4th day of April 2013.
+"François Angers"
+Angers J.
+Translation certified true
+on this 5th day of May 2013.
+Elizabeth Tan, translator
+CITATION: 2013 TCC 80
+COURT FILE NOS.: 2009-1927(EI), 2009-1929(CPP),
+2009-2149(EI), 2009-2150(CPP)
+STYLE OF CAUSE: Camille Pelletier v. M.N.R.
+Robert Coulombe v. M.N.R.
+PLACE OF HEARING: Edmundston, New Brunswick
+DATE OF HEARING: February 25, 2013
+REASONS FOR JUDGMENT BY: The Honourable Justice François Angers
+DATE OF JUDGMENT: April 4, 2013
+APPEARANCES:
+For appellants:
+The appellants themselves
+Counsel for the respondent:
+Stéphanie Côté
+Christina Ham
+COUNSEL OF RECORD:
+For the appellant:
+Name:
+Firm:
+For the respondent: William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

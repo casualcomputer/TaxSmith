@@ -1,0 +1,153 @@
+---
+title: "Foott v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25664/index.do"
+last_modified: "2003-07-22"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 CCI 504"
+citation2: ""
+neutral_citation: "2003 CCI 504"
+decision_date: "2003-07-22"
+language: "fr"
+item_id: "25664"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3831
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T18:57:14.609000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "ec76828dda80947e01d4c9b9063968c52f1372e4ff9365b5eadfddd3a28db1de"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Foott v. M.N.R.
+
+- Citation: 2003 CCI 504
+- Decision date: 2003-07-22
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3831, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Foott v. M.N.R.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-07-22
+Référence neutre
+2003 CCI 504
+Numéro de dossier
+2002-4280(EI)
+Juges et Officiers taxateurs
+David W. Beaubier
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2002-4280(EI)
+ENTRE :
+LEONARD FOOTT,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 10 juillet 2003 à London (Ontario)
+Devant : L'honorable juge D. W. Beaubier
+Comparutions
+Représentant de l'appelant :
+Laurell Ritchie
+Avocate de l'intimé :
+Me Marlyse Dumel
+____________________________________________________________________
+JUGEMENT
+L'appel est rejeté et la décision du ministre est confirmée.
+Signé à Vancouver (Colombie-Britannique), ce 22e jour de juillet 2003.
+« D. W. Beaubier »
+Juge Beaubier
+Traduction certifiée conforme
+ce 10e jour de mars 2004.
+Louise-Marie LeBlanc, traductrice
+Référence : 2003CCI504
+Date : 20030722
+Dossier : 2002-4280(EI)
+ENTRE :
+LEONARD FOOTT,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+MOTIFS DU JUGEMENT
+Le juge Beaubier
+[1] Le présent appel a été entendu à London, en Ontario, le 10 juillet 2003. Gregory Caron, représentant le syndicat des travailleurs et travailleuses canadien(ne)s de l'automobile ( « TCA » ) à titre de membre du comité de International Truck and Engine Corporation Canada ( « International » ), à Chatham, en Ontario, a témoigné pour le compte de l'appelant. L'intimé a appelé à la barre Katherine Sherring, gestionnaire des Ressources humaines à International.
+[2] L'appelant était un employé de International, à Chatham, et était membre du TCA à cet endroit.
+[3] La question en litige est exposée aux paragraphes 2 à 6 inclusivement de la Réponse à l'avis d'appel. Ils sont rédigés en ces termes :
+[TRADUCTION]
+2. International Truck and Engine Corporation Canada (l' « employeur » ) a interjeté appel à l'encontre d'une décision de l'intimé selon laquelle il n'y avait aucune heure assurable liée au versement d'une paye de vacances préétablie ( « PVP » ) à l'appelant par l'employeur, au sens de la Loi sur l'assurance-emploi.
+3. Dans une lettre datée du 7 août 2002, l'intimé a informé l'employeur et l'appelant qu'il avait été déterminé qu'au sens de l'article 9.1 du Règlement sur l'assurance-emploi, il n'y avait aucune heure assurable liée au versement d'une PVP à l'appelant par l'employeur.
+4. Afin de rendre sa décision, l'intimé s'est fondé sur les hypothèses de fait qui sont ainsi formulées :
+a) l'appelant a été mis à pied par l'employeur;
+b) l'employeur a remis un Relevé d'emploi à l'appelant sur lequel on indiquait que l'appelant avait accumulé 652,5 heures de travail assurables, y compris 39 heures liées à la PVP;
+c) l'appelant a reçu un paiement forfaitaire pour le versement de la PVP et n'a pris aucun congé pouvant être lié au versement de la PVP;
+d) l'article 10 de la convention collective entre l'employeur et les employés interprète les versements de la PVP comme une paye de vacances.
+B. DISPOSITIONS LÉGISLATIVES, MOTIFS INVOQUÉS ET MESURE DE REDRESSEMENT DEMANDÉE
+5. Il s'est fondé sur l'article 9.1 du Règlement sur l'assurance-emploi.
+6. Il prétend qu'au sens de l'article 9.1 du Règlement sur l'assurance-emploi, l'appelant n'avait accumulé aucune heure assurable liée au versement de la PVP par son employeur.
+[4] Les articles 9.1 et 10.1 du Règlement sur l'assurance-emploi sont rédigés en ces termes :
+9.1 Lorsque la rémunération d'une personne est versée sur une base horaire, la personne est considérée comme ayant exercé un emploi assurable pendant le nombre d'heures qu'elle a effectivement travaillées et pour lesquelles elle a été rétribuée.
+[...]
+10.1(1) Lorsqu'un assuré est rétribué par l'employeur pour une période de congé payé, il est réputé avoir exercé un emploi assurable pendant le nombre d'heures qu'il aurait normalement travaillées et pour lesquelles il aurait normalement été rétribué durant cette période.
+(2) Lorsqu'un assuré est rétribué par l'employeur pour une période de congé par un paiement forfaitaire déterminé sans égard à la durée de la période, il est réputé avoir exercé un emploi assurable pendant le moins élevé des nombres d'heures suivants :
+a) le nombre d'heures qu'il aurait normalement travaillées et pour lesquelles il aurait normalement été rétribué durant cette période;
+b) le nombre d'heures obtenu par division du montant du paiement forfaitaire par le taux normal de salaire horaire.
+(3) Lorsqu'un assuré est rétribué par l'employeur pour un jour non ouvrable, il est réputé avoir exercé un emploi assurable pendant le nombre d'heures suivant :
+a) s'il travaille ce jour-là, le plus élevé du nombre d'heures travaillées ce jour-là ou du nombre d'heures qu'il aurait normalement travaillées ce jour-là;
+b) s'il ne travaille pas ce jour-là, le nombre d'heures qu'il aurait normalement travaillées ce jour-là.
+[5] La principale disposition de la convention collective entre le TCA et International pertinente à l'affaire qui nous occupe est stipulée au paragraphe 387 de l'article 10 et est ainsi rédigée :
+[TRADUCTION]
+387 Les employés qui possèdent une année ou plus d'ancienneté à la date d'admissibilité auront droit à une paye de vacances particulière (PVP) en autant qu'ils aient travaillé au cours des 25 semaines précédant la date d'admissibilité et qu'ils soient activement au travail pendant la période couverte par la PVP. On a établi cinq périodes de (PVP) pour la durée de la présente convention collective.
+DATE D'ADMISSIBILITÉ
+PÉRIODE DE PVP
+6 novembre 1999
+du 3 janvier au 30 juillet 2000
+3 juin 2000
+du 31 juillet 2000 au 25 février 2001
+18 décembre 2000
+du 26 février 2001 au 14 octobre 2001
+27 août 2001
+du 15 octobre 2001 au 19 mai 2002
+25 février 2002
+du 20 mai 2002 au 22 décembre 2002
+[6] M. Foott a été mis à pied en novembre 2001. Il avait également droit à une semaine de PVP. Il pouvait prendre ces vacances en tout temps pendant la période de PVP, selon les règles de l'ancienneté. Avant de perdre son emploi, il devait prendre le temps lié à la PVP à titre de vacances. En vertu du Règlement sur l'assurance-emploi, s'il avait choisi de prendre ce congé avant d'être mis à pied, cette période aurait été traitée comme une période de vacances. S'il n'avait pas choisi d'accepter le paiement forfaitaire pendant la période où il a été mis à pied, le montant forfaitaire lui aurait été remis à la fin de la période de mise à pied. M. Foott n'a pas pris de vacances avant la mise à pied. Par conséquent, International lui a versé un montant forfaitaire.
+[7] International et TCA ont traité le montant forfaitaire comme une paye de vacances et comme une période de vacances aux fins de l'assurance-emploi. On a retenu des cotisations qui ont été payées à titre de cotisations à l'assurance-emploi. Ils ont agi ainsi sans contestation pendant dix années avant cette affaire.
+[8] Le 7 août 2002, par un jugement lié à un appel interjeté à l'encontre d'une décision, on est arrivé à la conclusion rédigée en ces termes :
+[TRADUCTION]
+Il n'existe aucune heure assurable liée au versement de la paye de vacances préétablie (PVP) pour les raisons suivantes. Vous n'avez pas pris le congé et par conséquent, il n'y a pas d'heure de travail qui y est liée.
+[9] Selon l'observation de l'intimé, l'assurance-emploi est versée pour un travailleur rémunéré à l'heure comme M. Foott en vertu du paragraphe 9.1(1) du Règlement en fonction du « nombre d'heures [...] effectivement travaillées » . Si M. Foott avait pris la période couverte par sa PVP à titre de vacances, alors elle aurait été considérée comme une « période de congé payé » en vertu du paragraphe 10.1(1) du Règlement et il aurait alors été « réputé avoir exercé un emploi assurable » pour une période de 40 heures. Toutefois, lorsqu'il a été mis à pied, M. Foott n'a pas reçu de versement de PVP « pour une période de congé payé » et il ne l'a pas reçu selon un tarif horaire lorsqu'il avait « effectivement » travaillé.
+[10] Selon le paragraphe 387 de la convention collective, les employés ont droit à une PVP lorsque les [TRADUCTION] « employés possèdent une année ou plus d'ancienneté [...] en autant qu'ils aient travaillé au cours des 25 semaines précédant la date d'admissibilité et qu'ils soient activement au travail pendant la période couverte par la PVP » . Il s'agit donc d'une rémunération calculée selon le nombre d'heures que M. Foott avait effectivement travaillées et pour lesquelles il avait droit à une rémunération versée sous forme de PVP bien qu'il ait perçu le versement de la PVP à un moment différent de celui où il avait gagné cette rémunération. Toutefois, en principe, cette méthode n'est pas différente de celle du chèque de paye habituel versé à un employé après que le travail a été accompli ou en acompte sur ses vacances. Dans le cas de M. Foott, on lui a versé une PVP pour 40 heures de salaire qu'il a gagné en travaillant à International selon les exigences d'admissibilité établies dans la convention collective. Essentiellement, ses gains horaires étaient en fait plus élevés que le taux horaire nominal en raison de son admissibilité à la PVP. Cependant, on lui a versé ces gains supplémentaires au moyen d'un deuxième chèque émis plus tard. Il a acquis ces gains pour un travail effectué pendant une période horaire différente, ce qui explique pourquoi sa rémunération horaire réelle pour les heures qu'il a effectivement travaillées était plus élevée que le taux horaire nominal.
+[11] Pour ces raisons, la Cour conclut que le versement de la PVP de M. Foott donne lieu à des cotisations d'assurance-emploi puisqu'il s'agit d'une rémunération versée selon un tarif horaire pour un travail accompli dans le cadre d'un emploi assurable que M. Foott a effectivement accompli. Toutefois, il a été mis à pied et, lorsqu'il a été mis à pied, M. Foott ne pouvait pas accepter sa PVP à titre de rémunération d'un congé payé, et cette paye n'était liée à aucun travail parce qu'il avait été mis à pied et n'avait pas le droit de revenir travailler pour International.
+[12] Pour ces motifs, l'appel est rejeté.
+Signé à Vancouver (Colombie-Britannique), ce 22e jour de juillet 2003.
+« D. W. Beaubier »
+Juge Beaubier
+Traduction certifiée conforme
+ce 10e jour de mars 2004.
+Louise-Marie LeBlanc, traductrice

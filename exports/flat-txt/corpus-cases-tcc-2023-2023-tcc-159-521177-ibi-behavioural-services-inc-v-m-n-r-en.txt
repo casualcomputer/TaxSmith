@@ -1,0 +1,195 @@
+Title: IBI Behavioural Services Inc. v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/521177/index.do
+Corpus path: corpus/cases/tcc/2023/2023-tcc-159-521177-ibi-behavioural-services-inc-v-m-n-r-en.md
+Document type: case_law
+Last modified: 2023-11-17
+
+# IBI Behavioural Services Inc. v. M.N.R.
+
+- Citation: 2023 TCC 159
+- Decision date: 2023-11-17
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5697, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+IBI Behavioural Services Inc. v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2023-11-17
+Neutral citation
+2023 TCC 159
+File numbers
+2020-2453(CPP), 2020-2454(EI)
+Judges and Taxing Officers
+Randall S. Bocock
+Subjects
+Canada Pension Plan
+Decision Content
+Dockets: 2020-2453(CPP)
+2020-2454(EI)
+BETWEEN:
+IBI BEHAVIOURAL SERVICES INC.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+SARAH DELORME
+Intervenor.
+Appeal heard on April 6, 2023 at Toronto, Ontario with subsequent written submissions lastly received on September 15, 2023
+Before: The Honourable Mr. Justice Randall S. Bocock
+Appearances:
+Counsel for the Appellant:
+Ryan Edmonds Amit Ummat
+Counsel for the Respondent:
+Amin Nur
+For the Intervenor:
+The Intervenor herself
+JUDGMENT
+WHEREAS the Court has published its reasons for judgment in this appeal on this date;
+NOW THEREFORE the appeal with respect to the Minister of National Revenue’s decision dated October 2, 2020, made under the Employment Insurance Act, SC 1996, c.23 and Canada Pension Plan, RSC 1985, c. C-8, is dismissed, without costs.
+Signed at Ottawa, Canada, this 17th day of November, 2023.
+“R.S. Bocock”
+Bocock J.
+Citation: 2023 TCC 159
+Date: 20231117
+Dockets: 2020-2453(CPP)
+2020-2454(EI)
+BETWEEN:
+IBI BEHAVIOURAL SERVICES INC.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+SARAH DELORME
+Intervenor.
+REASONS FOR JUDGMENT
+Bocock J.
+I. INTRODUCTION
+[1] IBI Behavioural Services Inc. (“IBI”) treats children who have autism spectrum disorder (“Autism” or “ASD”). To do so, it employs a PhD Clinical Psychologist (the “Doctor”), Senior Therapists (“STs”) and Instructional Therapists (“ITs”). The Doctor assesses the children and prescribes a treatment plan. Ideally, the treatment plan is executed by the ITs and is monitored by the STs.
+[2] On two previous occasions, the Minister decided various ITs were independent contractors. This included the worker, Ms. Delorme, who is the subject worker and intervener in these appeals. On a third occasion, the Minister reversed her previous decisions and concluded Mr. Delorme was an employee of IBI. IBI appeals that October 2, 2020 decision (the “Decision”) concerning Ms. Delorme’s period of work for two years from January 1, 2018 to January 15, 2020 (the “Period”). During a full day of testimony, the Court heard from four witnesses: the principal owner and manager of IBI, Ms. Baysarowich, two present STs, previously ITs themselves, Ms. Deschene and Ms. Kamal, and, the worker, Ms. Delorme.
+[3] Although all testimony was received on April 6, 2023, closing arguments could not be heard on that day because of scheduling. Submissions were received by the Court in sequential written format, concluding on September 14, 2023 with IBI’s rebuttal submissions.
+II. FACTS
+Preliminary observations regarding reliability of testimony
+[4] The testimony of Ms. Baysarowich and Ms. Delorme contained an unhealthy dollop of antipathy and accusations against each other’s integrity and motives. In keeping with modern communication modes, this involved primarily text messaging, a place where care, civility and curtesy seem to wane.
+[5] In this appeal both Ms. Baysarowich and Ms. Delorme were intermittingly debating and arguing with each. This exchange concerned the various outcomes, permutations and consequences of whether Ms. Delorme was in fact, and at law, an employee or an independent contractor. Importantly, this is the very decision the Court will make.
+[6] As an example, Ms. Baysarowich accused Ms. Delorme of “perjury” during one text exchange. She also referenced this in the witness box. The factual basis of this implicated legal conclusion arose not from Ms. Baysarowich’s knowledge of evidence or court procedure – her qualifications seem limited to child behavioural therapy – but Ms. Delorme’s alleged changed position with the CRA that she was an employee, not an independent contractor, as previously asserted.
+[7] As to consequences and pestering, Ms. Baysarowich offered by text that Ms. Delorme, if determined to be an employee, would be irrevocably assigned to that category with fewer hours, lesser pay and different working conditions.
+[8] For her part, Ms. Delorme accused Ms. Baysarowich of deliberately sending CRA a subsequent, inaccurate form of worker contract which differed from the relevant one. While technically true, and whether by inadvertence or not, neither the Minister’s agents nor this Court were confused.
+[9] By way of conclusion, the Court simply notes the personality of Ms. Baysarowich is a forceful, one which clearly coloured the 2 years during which the characterization and re-characterization of Ms. Delorme’s work unfolded.
+[10] Lastly, on this point, the Court is mindful of this unusual dynamic not normally present in most such appeals. The Court has been vigilant to scour beyond the express and latent motivational reasoning, mantras and allegiances of the various witnesses.
+How the business came to be?
+[11] The Province of Ontario, through the Ministry of Children, Community and Social Services approves and funds businesses such as IBI to provide the services comprising ASD treatment, education and therapy (“ASD programs”). The funding models have changed over the past 5 years, but generally businesses like IBI exist as an aggregator of health services necessary to deliver ASD programs to Ontario families.
+Who does what?
+[12] IBI’s aggregation of services appears necessary because different services emanate from different workers comprising the full ASD program, most probably throughout the industry. There are 3 distinct categories of service providers/workers. The first provider is the Clinical Supervisor, or clinical psychologist specializing in ASD treatment. At IBI this was a Dr. Porter. Dr. Porter conducts the assessment of each ASD child at intake, and weekly thereafter, with analysis directed towards diagnosis, prescribed treatment and continuing oversight. Then, a treatment plan or specific ASD program for the child is prescribed. It is placed into the child’s ASD program binder.
+[13] The second group of providers consists of senior therapists (“STs”). They have experience and training, usually gained through a history as an instructional therapist (“IT”). STs monitor and observe the execution and delivery of the ASD program for each child.
+[14] Lastly, the hands on, frontline daily service providers are the ITs or, to repeat for convenience, instructional therapists. Each IT directly delivers the ASD program to one child, or sometimes two children. Mostly this occurs at IBIs facilities, and occasionally occurs at the child’s home or a public place, such as a public park. This one to one “direct treatment” also seems to have changed to a more group-based classroom model from mid-2019 onward. It was not suggested this impacted the question before the Court.
+[15] The STs are required to clean and tidy the areas used for ADT programing at IBI’s premises. There was a duty roster for cleaning where each ST was assigned certain tasks: Cleaner 1, Cleaner 3, Puzzle Room Organizer and Prep/Disinfector etc. Upon completion, the IT initials the signoff sheet. An ST witness suggested the cleaning tasks were part of the integrated ADT program and benefitted the child through participation. Ms. Delorme stated the cleaning was, just as it sounds, cleaning.
+Ms. Delorme’s IT work
+[16] The Court’s focus is on the Decision. The Decision relates to Ms. Delorme’s work and its proper classification, and no one else’s. To the extent there is a factual gap, unreliable or controverted testimony, such analogies may be helpful. Where no gap exists, other STs or ITs are not, in this appeal, relevant.
+[17] The creation, refinement and delivery of the ASD program was clearly a joint and hybrid effort among the CT, ST and IT. The ASD program binder was the paper based reference and resource. STs were present during program implementation, and, at the very least, provided direction, oversaw communication with parents and instituted CT professional reviews.
+[18] The ASD program binder was uncontrovertedly the lodestar from which general treatment directions emanated. Beyond that, there was a clear implication that direct delivery was primarily executed by Ms. Delorme with oversight and compliance ensured from time to time by the STs.
+Ms. Baysarowich: the (Boss) looms large
+[19] Ms. Baysarowich was an owner/operator truly in charge. Her texts and emails to all staff, regardless of intended employee or independent contractor status were direct, unvarnished and unequivocal.
+[20] As an example of samples (there were plenty), she wrote regarding the ASD clinic monthly update in September:
+Regarding break time
+Please note that client breaks are MAX 3 min from the table, timers are stacked up all over the clinics and should be used, staff are to be engaging with the child during their breaks, not engaging in their own social chats.
+Regarding lesson plan compliance
+Lesson plans as laid out by Hayley and Leann for the classrooms will be followed across the board and not be deviated from …
+Regarding arrival time of “staff”
+Staff are to arrive 10 min prior to morning sessions to set up and be prepared for the morning
+Regarding use of cell phones
+Any staff caught texting on their phone, scrolling Facebook; using it for a timer; using it for any personal reasons will face consequences of a write up …
+Rules of Engagement. Contracts: versions 2017, 2018.1, 2018.2, 2018.1a
+[21] There were multiple formats for written contracts used for ITs and STs during the period. It is not surprising that Ms. Baysarowich sent the wrong version to the CRA during the review.
+[22] Consistent with the view that the Court need concern itself with the worker, Ms. Delorme, it will focus on the contract she executed in December, 2017. There is no suggestion from the evidence that this was not the relevant and subsisting contract for the Period, save for IBI’s use of subsequent form of contract.
+[23] The contract, inter alia, provides for the following summarized obligations and rights of Ms. Delorme as an IT:
+a)contract for services “not intended to create any form of employee/employer relationship [within the contract in underlined bold italics]”.
+b)IBI may terminate upon 7 days notice and Ms. Delorme upon 14.
+c)duty to report “ALL mastered programs” to ST and direct any paperwork given by parents to ST.
+d)ability to accept other work opportunities, but worker must make Ms. Baysarowich aware of such obligations so no “conflict of interest between the two parties.
+e)non-disclosure covenant of financial details of the contract.
+f)Ms. Delorme was to perform all services “personally and shall not delegate, engage of any person in any manner whatsoever in providing his or her services to the clients of IBI Behaviour Services.”
+g)There was an entitled “Non-Competition” clause which was actually a fulsome non-solicitation clause which included a 12 month prohibition on approaching clients of IBI and further acknowledgment that, “I may only participate in work arranged through IBI with IBI clients and communicate only during session time directly to a parent under the supervision or the direction of the ST.”
+Who used what of whose things to work?
+[24] The work was mainly performed at IBI locations. While the agreement suggested stationery was to be provided by ITs, in fact, almost all of this was provided by IBI. Car seats for child transportation were provided by IBI. Ms. Delorme used her own vehicle when transporting children.
+[25] This reality starkly belies a section of the agreement(s). Section 2.10 mandated use of the ITs’ own office equipment and tools in providing services to children. Specifically identified as necessary was the need for ITs to provide and use their own stationery, computers and “other writing utensils.” This did not happen consistently.
+Scheduling and hours worked
+[26] Scheduling was straightforward. ITs indicated when they were available and IBI slotted them into the schedule.
+[27] Replacement workers were effectively chosen by IBI, although workers may have made alternative suggestions.
+[28] Oddly, text messages from Ms. Baysarowich showed she actually arranged a replacement IT of and for Ms. Delorme on at least two occasions.
+[29] Invoicing for payment was generated. The mathematics of calculation were stated rate, by hour and rounded to fractional hours. The invoices were generated in the name of the ST, Ms. Delorme.
+III. THE LAW
+[30] The Federal Court of Appeal in 1392644 Ontario Inc. (Connor Homes) v. Canada (National Revenue), 2013 FCA 85 (“Connor Homes”) established the controlling legal authority in appeals concerning classification of workers as employees or independent contractors.
+[31] The ultimate issue before the Court is whether one individual worker, Ms. Delorme, performed her IT therapeutic and treatment services as her own business on her own account: 671122 Ontario Ltd. v. Sagaz Industries 2001 SCC 59 (“Sagaz”).
+[32] Firstly, based upon the facts, circumstances and evidence in the particular case, the Court must decide whether a mutual understanding or common intention between the parties existed regarding a relationship of either employment or independent contractor.
+[33] To do so, the extent to which a worker understood the differences between an employment or independent contractor relationship, the relative bargaining positions, and whether such evidence is corroborated by and consistent with the other evidence such as a contract, written or verbal.
+[34] This preliminary decision concerning an initial mutual understanding does not bind the Court. Declaratory intent of the work relationship as employment or independent contractor in the form of directive narrative (as in this appeal) must accord and align with verifiable objective reality borne out in the performance of the relationship.
+[35] This objective reality is discerned from the factual landscape of what the parties actually did, said and performed. The court considers and weighs the traditional factors of control over the work and the worker (including the extent of subordination of the worker), the provision of tools, materials, credentialing and equipment needed for the worker to do the work, and the extent of the worker’s financial upside and downside risks concerning the services provided by her: Wiebe Door Ltd. v. Canada [1986 ] 3 FC 553 (“Wiebe Door”).
+[36] The parties’ intent, along with the actual behaviour of the parties and any written agreement between them will be considered a second time. In Royal Winnipeg Ballet v. M.N.R. 2006 FCA 87, the Federal Court of Appeal directed that the traditional Sagaz/Wiebe Door factors are filtered through the parties’ intent.
+IV. ANALYSIS
+Common subjective intentions
+[37] A clear, conclusive and common intention of the parties at the outset evades the Court in this appeal. The contracts, four versions of which were placed before the Court, all ostensibly reflect IBI’s profound expression that the workers be independent contractors. Narrative descriptions of that legal conclusion are omnipresent in the contracts. Describing an outcome is formalistic and does not make it so when specific terms contradict that stated conclusion.
+[38] Within the contract there was a total prohibition on sub-contracting work within Ms. Delorme’s “business”. While described as being necessary to comply with ministerial and professional obligations, a contract for services would then usually provide an acknowledgement, covenant of the contractor, accreditation, warranty of same and/or identification of worker substitutes in advance. The contract did not; it simply said no. Even the amendment effected within the updated 2019 version failed to identify substitute employees of the worker or worker’s business as a viable possibility. IBI claims the first version prohibition was a “misstatement”. Whether misstated, mistyped or regretful, its inclusion detracts from clear, subjective certainty and consistency.
+[39] Further, a paragraph in the agreement was entitled “Non-competition.” The clause remained in both the 2017 and late 2019 versions. Contracts for services with independent contractors recognize that the services of the workers are integral to the worker’s stand-alone business. Restrictions to engaging in such services is anathema to an independent worker’s business. Perhaps another “misstatement”, the “Non-Competition” caveat is substantively and actually a non-solicitation clause, forming one of the longest and most detailed provisions within the contract. It describes children as “clients.” The restrictions are fulsome and robust and seem incongruous when retaining professional health services by independent contractors. Not unlike other contracted health service providers who are not employees, one would think the patients’ rights involve choice of provider.
+[40] Other written provisions fray any preliminary conclusion regarding common intention. Ms. Delorme was hired out of school, immediately after completion of her college accreditation program. The agreement was entirely drafted (and redrafted) by IBI. It was placed before Ms. Delorme and was a sine qua non of working for IBI. There was little, if any, negotiation.
+[41] Lastly, the IT reporting to IBI was onerous, direct and immediate. Similarly, two weeks’ notice of termination was required for the worker and 7 days for IBI. Others could retain Ms. Delorme’s services, but only after pre-approval. Again, IBI’s express reason for this was to identify and prevent “conflict of interest”. While theoretically possible, the Court cannot imagine which facts relating to ASD children would rise to meet such a “conflict” threshold.
+[42] In short, there is no clear common intention present at the outset the “conjunctive” minds of IBI and Ms. Delorme. There are mixed signals discerned from the formation of the work relationship, the mutual incentive approaches of both parties and/or the contract executed and subsisting in December 2017, at the time work commenced. The repetitive narrative and declaration by IBI of an “independent contractor and not employee” cannot surmount those facts.
+Analysis of Sagaz/Wiebe Door factors
+[43] The Court now turns to the Sagaz/Wiebe Door factors to examine the nature of the relationship through the objective reality.
+Control
+[44] The level of control over Ms. Delorme by IBI and its principal was considerable. There was a prevalent requirement to immediately report. And not just health and safety issues which is understandable; business related occurrences and communications were to be relayed by Ms. Delorme to an ST as soon as possible. The email/texts of Ms. Baysarowich are transparently employer/employee directives, and not very subtle ones at that. Factually, sub‑contracting did not occur. There were mandatory, periodic staff meetings for ITs. Ms. Delorme was required to and did attend. Permission was required to remove a child from IBI’s premises. And lastly, there were classroom supervision forms circulated and sign up sheets for cleaning duties by ITs. The frequency, use and acceptance of such staff organization tools may have been less than all the time, but their existence was not in doubt.
+[45] Whether these hallmarks of supervision, directives and control were needed for all workers, they were certainly present in the work relationship with Ms. Delorme. Conclusively, the level of supervision and control present was reflective of an employer/employee relationship.
+Tools of the “trade”
+[46] The agreement suggested the ITs would use their own stationery and computers. Factually, this rarely happened. The bulk, if not all, of sessions occurred at IBI’s premises. ITs were given access to electronics, supplies and equipment, all supplied by IBI. Ms. Delorme was not prohibited from bringing her own items. A motor vehicle was required, but even here, its use was not practical or permitted without the IBI supplied safety car seats.
+[47] In conclusion, the provision of premises, equipment, electronics and collateral supports by IBI disproportionally equipped Ms. Delorme with the “tools” needed to provide the work, when compared with those she provided herself.
+Chance of profit/risk of loss
+[48] The Court has combined these two economic factors because they are conjunctive in this appeal. Further, these factors anchor the economic rationale of a separate business for the worker where one exists.
+[49] Factually, Ms. Delorme was an hourly compensated worker. She had no business experience, GST account, business bank account cards or promotional materials. She hired, employed or used no other workers, and if she had, could not use them. She had no other customers or clients or patients other than those with IBI. Her expenses, beyond the costs of travelling to and from work, which exist for employees and independent contractors alike, did not exist. The only manner in which Ms. Delorme could increase her revenue was simply to work more hours. There were no cost inputs to manipulate to increase a profit margin.
+[50] Central to the presence of a service business of an independent contractor is the exploitation and manipulation of labour, capital and/or cost inputs to create, increase and alter profit and/or loss by increasing or decreasing revenue and costs. In Ms. Delorme’s case, no such structure, inputs, opportunities or risks existed based upon the objective facts.
+[51] The risk of loss through uninsured personal injury was raised by IBI. While a novel approach, risk of loss is more economic than physical. The absence of WSIB insurance or IBI insurance coverage, held up by IBI as demonstrative of an independent contractor, begs the very question; employee or independent contractor. As determined above, the agreement provided that Ms. Delorme was not covered because she expressed to be an independent contractor.
+V. CONCLUSION
+[52] In conclusion, the common intention of the parties, at best, was malformed at the outset. More clearly, almost all if not all of the Sagaz/Wiebe Door factors unreservedly support a conclusion, based upon the facts, that the Minister’s Decision that Ms. Delorme was an IBI employee was correct. There was one business, IBI, and it hired Ms. Delorme as an employee during the Period.
+[53] The appeal is dismissed without costs.
+Signed at Ottawa, Canada, this 17th day of November, 2023.
+“R.S. Bocock”
+Bocock J.
+CITATION:
+2023 TCC 159
+COURT FILE NOS.:
+2020-2453(CPP)
+2020-2454(EI)
+STYLE OF CAUSE:
+IBI BEHAVIOURAL SERVICES INC v. THE MINISTER OF NATIONAL REVENUE
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+April 6, 2023
+REASONS FOR JUDGMENT BY:
+The Honourable Mr. Justice Randall S. Bocock
+DATE OF JUDGMENT:
+November 17, 2023
+APPEARANCES:
+Counsel for the Appellant:
+Ryan Edmonds Amit Ummat
+Counsel for the Respondent:
+Amin Nur
+For the Intervenor:
+The Intervenor herself
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Ryan Edmonds Amit Ummat
+Firm:
+Ryan Edmonds Workplace Counsel
+Toronto, Ontario
+Ummat Tax Law
+Burlington, Ontario
+For the Respondent:
+Shalene Curtis-Micallef Deputy Attorney General of Canada Ottawa, Canada

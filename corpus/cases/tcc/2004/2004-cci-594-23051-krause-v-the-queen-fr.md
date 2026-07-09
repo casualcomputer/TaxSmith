@@ -1,0 +1,243 @@
+---
+title: "Krause v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/23051/index.do"
+last_modified: "2004-09-02"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 CCI 594"
+citation2: ""
+neutral_citation: "2004 CCI 594"
+decision_date: "2004-09-02"
+language: "fr"
+item_id: "23051"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2306
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T20:05:44.928000+00:00"
+cases_cited_count: 0
+cases_citing_count: 3
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "cfb5e35adee6491a92753cd8e1e35abc4278d9f6b2fcb9422834c677e1fab255"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Krause v. The Queen
+
+- Citation: 2004 CCI 594
+- Decision date: 2004-09-02
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2306, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Krause v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-09-02
+Référence neutre
+2004 CCI 594
+Numéro de dossier
+2004-1193(IT)I
+Juges et Officiers taxateurs
+Donald G.H. Bowman
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2004-1193(IT)I
+ENTRE :
+JAMES A. KRAUSE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 12 août 2004 à Nanaimo (Colombie-Britannique).
+Devant : L'honorable D.G.H. Bowman
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocat de l'intimée :
+Me Stacey Michael Repas
+____________________________________________________________________
+JUGEMENT
+Il est ordonné que l'appel interjeté à l'encontre de l'avis de cotisation établi en vertu de la Loi de l'impôt sur le revenu à l'égard de l'année d'imposition 2002 soit rejeté.
+Signé à Ottawa, Canada, ce 2e jour de septembre 2004.
+« D.G.H. Bowman »
+Juge Bowman
+Traduction certifiée conforme
+ce 22e jour de juin 2005.
+Sara Tasset
+Référence : 2004CCI594
+Date : 20040902
+Dossier : 2004-1193(IT)I
+ENTRE :
+JAMES A. KRAUSE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge en chef adjoint Bowman
+[1] Le présent appel est interjeté à l'encontre d'une cotisation établie relativement à l'année d'imposition 2002 de l'appelant.
+[2] En premier lieu, l'avocat de l'intimée a fait valoir que l'appel devrait être rejeté parce que la cotisation relative à l'année 2002 porte qu'il n'y a aucun impôt à payer. Je suis d'accord. L'avis de cotisation pour cette année-là n'indiquait aucun impôt payable et l'appelant m'a informé que l'impôt sur le revenu retenu par son employeur lui a été remboursé. Par conséquent, même si je suis d'accord avec l'appelant sur la question de fond qu'il soulève, elle ne se traduirait pour lui, en pratique, par aucun avantage pécuniaire direct, même si le crédit pour frais de scolarité et le crédit d'impôt pour études peuvent être reportés prospectivement, dans certaines circonstances, sur les années subséquentes.
+[3] L'appelant est inscrit au programme de doctorat d'un établissement d'enseignement reconnu en Californie, Touro University International, ( « Touro » ), qui est une école d'administration des affaires. Il s'est inscrit à Touro après avoir reçu sa maîtrise ès arts de l'université Royal Roads, en Colombie-Britannique.
+[4] S'il était fondé que l'appel relatif à l'année 2002 se retrouve devant la Cour, c'est-à-dire s'il portait sur un avis de cotisation indiquant que le contribuable doit payer de l'impôt, il faudrait décider si l'appelant a droit au crédit pour frais de scolarité prévu au paragraphe 118.5(1) de la Loi de l'impôt sur le revenu en ce qui concerne les frais qu'il a versés à Touro ou bien à un crédit d'impôt pour études visé au paragraphe 118.6(2).
+[5] Le ministre du Revenu national a accordé un crédit à M. Krause pour les frais versés à l'université Royal Roads, mais pas pour ceux qu'il a payés à Touro. Le problème découle du fait que M. Krause a suivi en ligne les cours auxquels il était inscrit à Touro. Il n'a pas assisté en personne aux cours dans les locaux de Touro en Californie. Même si l'information publiée sur Internet à propos de Touro et de son programme de doctorat en administration des affaires décrit Touro comme [TRADUCTION] « un campus de Touro College, à New York » , on ne sait pas exactement si Touro avait un campus dans le sens habituel du terme, soit des édifices, des salles de cours et d'autres installations où les étudiants peuvent assister en personne aux cours.
+[6] Le mieux, pour éclairer le contexte dans lequel se pose cette question quelque peu irritante mais néanmoins importante, c'est de comparer le libellé des alinéas 118.5(1)a), b) et c) de même que celui de l'article 118.6. Ces dispositions sont rédigées comme suit :
+118.5(1) - (1) Les montants suivants sont déductibles dans le calcul de l'impôt payable par un particulier en vertu de la présente partie pour une année d'imposition :
+a) si le particulier est inscrit au cours de l'année à l'un des établissements d'enseignement suivants situés au Canada :
+(i) établissement d'enseignement - université, collège ou autre - offrant des cours de niveau postsecondaire,
+(ii) établissement d'enseignement reconnu par le ministre du Développement des ressources humaines comme offrant des cours - sauf les cours permettant d'obtenir des crédits universitaires - qui visent à donner ou à augmenter la compétence nécessaire à l'exercice d'une activité professionnelle,
+le produit de la multiplication du taux de base pour l'année par les frais de scolarité payés à l'établissement pour l'année si le total de ces frais dépasse 100 $, à l'exception des frais :
+[...]
+b) si, au cours de l'année, le particulier fréquente comme étudiant à plein temps une université située à l'étranger, où il suit des cours conduisant à un diplôme, le produit de la multiplication du taux de base pour l'année par le total des frais de scolarité payés à l'université pour l'année, à l'exception des frais qui ont été :
+[...]
+c) si, tout au long de l'année, le particulier réside au Canada près de la frontière entre le Canada et les État-Unis et si :
+(i) d'une part, il est inscrit à un moment de l'année à un établissement d'enseignement situé aux États-Unis - université, collège ou autre - offrant des cours de niveau postsecondaire,
+(ii) d'autre part, il fait régulièrement la navette entre sa résidence et cet établissement,
+le produit de la multiplication du taux de base pour l'année par le total des frais de scolarité payés à l'établissement pour l'année si ces frais dépassent 100 $ et à l'exception des frais :
+[...]
+118.6. (1) Les définitions qui suivent s'appliquent aux articles 63 et 64 et à la présente sous-section.
+« établissement d'enseignement agréé »
+a) Un des établissements d'enseignement suivants situés au Canada :
+(i) université, collège ou autre établissement d'enseignement agréé soit par le lieutenant-gouverneur en conseil d'une province au titre de la Loi fédérale sur les prêts aux étudiants, soit par une autorité compétente en application de la Loi fédérale sur l'aide financière aux étudiants, ou désigné par le ministre de l'Enseignement supérieur et de la Science de la province de Québec pour l'application de la Loi sur l'aide financière aux étudiants de cette province,
+(ii) établissement d'enseignement reconnu par le ministre du Développement des ressources humaines comme offrant des cours - sauf les cours permettant d'obtenir des crédits universitaires - qui visent à donner ou augmenter la compétence nécessaire à l'exercice d'une activité professionnelle;
+b) université située à l'étranger, où le particulier mentionné au paragraphe (2) est inscrit à des cours d'une durée minimale de 13 semaines consécutives qui conduisent à un diplôme;
+c) établissement d'enseignement situé aux États-Unis - université, collège ou autre - offrant des cours de niveau postsecondaire si, tout au long de l'année mentionnée au paragraphe (2), le particulier mentionné à ce paragraphe réside au Canada près de la frontière entre le Canada et les États-Unis et qu'il fasse régulièrement la navette entre sa résidence et cet établissement.
+« programme de formation admissible » Programme d'une durée minimale de 3 semaines consécutives, aux cours ou aux travaux duquel l'étudiant doit consacrer 10 heures par semaine au moins et qui, s'il s'agit d'un programme d'un établissement visé à la définition de « établissement d'enseignement agréé » (sauf un établissement visé au sous-alinéa a)(ii)), est de niveau postsecondaire, à l'exclusion du programme :
+[...]
+118.6 (2) - Le montant obtenu par la formule suivante est déductible dans le calcul de l'impôt payable par un particulier en vertu de la présente partie pour une année d'imposition :
+A × B
+où :
+A
+représente le taux de base pour l'année;
+B
+la somme des produits suivants :
+a) 400 $ multipliés par le nombre de mois de l'année pendant lesquels le particulier est inscrit à un programme de formation admissible comme étudiant à temps plein d'un établissement d'enseignement agréé,
+b) 120 $ multipliés par le nombre de mois de l'année (sauf ceux visés à l'alinéa a)) dont chacun est un mois pendant lequel le particulier est inscrit à un programme de formation déterminé d'un établissement d'enseignement agréé, aux cours duquel l'étudiant doit consacrer au moins 12 heures par mois.
+Pour que le montant soit déductible, l'inscription du particulier doit être attestée par un certificat délivré par l'établissement - sur le formulaire prescrit contenant les renseignements prescrits - et présenté au ministre et, s'il s'agit d'un établissement d'enseignement agréé visé au sous-alinéa a)(ii) de la définition de cette expression au paragraphe (1), le particulier doit avoir atteint l'âge de 16 ans avant la fin de l'année et être inscrit au programme en vue d'acquérir ou d'améliorer sa compétence à exercer une activité professionnelle.
+(3) Pour le calcul du montant qui est déductible en application du paragraphe (2) dans le calcul de l'impôt payable par un particulier en vertu de la présente partie pour une année d'imposition, l'expression « étudiant à temps plein » dans ce paragraphe est remplacée par « étudiant » si, selon le cas :
+a) un montant est déductible en application de l'article 118.3 relativement au particulier pour l'année;
+b) le particulier a, au cours de l'année, une déficience mentale ou physique dont les effets, selon l'attestation écrite d'une des personnes suivantes, sont tels qu'il est vraisemblable de s'attendre à ce que le particulier ne puisse être inscrit comme étudiant à temps plein tant qu'il a cette déficience :
+(i) un médecin en titre,
+(ii) s'il s'agit d'une déficience visuelle, un médecin en titre ou un optométriste,
+[...]
+(iii) s'il s'agit d'une déficience auditive, un médecin en titre ou un audiologiste,
+(iv) s'il s'agit d'une déficience quant à la capacité à marcher, à s'alimenter et à s'habiller, un médecin en titre ou un ergothérapeute,
+[...]
+[7] Soulignons en passant que, en vertu de l'article 118.61, les crédits d'impôt pour frais de scolarité et pour études inutilisés peuvent être reportés aux années subséquentes dans certaines circonstances. Il ne s'agit pas toutefois d'un point qu'on m'a demandé de trancher ici.
+[8] On constate, à la lecture des extraits que j'ai reproduits plus haut, que les conditions préalables à l'obtention de crédits pour frais de scolarité entrent dans trois catégories :
+(a) Lorsque l'établissement d'enseignement est situé au Canada, il n'y a qu'une condition, soit que l'étudiant soit « inscrit » ( « enrolled » dans la version anglaise).
+(b) Lorsque l'université est située à l'étranger, il faut que le particulier « fréquente comme étudiant à plein temps l'établissement » ( « in full-time attendance at a university outside Canada » ).
+(c) Si le particulier réside au Canada près de la frontière américaine, il doit être « inscrit à un moment de l'année à un établissement d'enseignement aux États-Unis [...] [et faire] régulièrement la navette entre sa résidence et cet établissement » ( « was at any time in the year enrolled at an educational institution in the United States » et « commuted to that educational institution in the United States » ).
+[9] Enfin, pour avoir droit au crédit pour études visé à l'article 118.6, l'étudiant doit être « inscrit à un programme de formation admissible comme étudiant à temps plein d'un établissement d'enseignement agréé » . L'établissement d'enseignement agréé peut être aux États-Unis. Si l'étudiant est atteint d'un handicap, selon le paragraphe 118.6(3), il suffit qu'il soit un « étudiant » et non pas obligatoirement un « étudiant à temps plein » . Parmi les documents déposés par l'appelant figure l'attestation requise signée par un médecin en titre et précisant que l'appelant a une déficience physique visée par cette disposition.
+[10] Pour l'application de l'article 118.5, il faut déterminer si l'appelant était un étudiant à temps plein à Touro. Cette question comporte deux volets :
+(a) M. Krause fréquentait-il Touro?
+(b) Le cas échéant, fréquentait-il l'établissement à temps plein?
+[11] La réponse au deuxième volet de la question est assez facile. Si le fait que M. Krause suive ses cours en ligne au moyen d'un ordinateur sans se trouver physiquement dans les salles de cours de l'université peut signifier qu'il « fréquentait » l'établissement, il l'a fait, selon moi, à temps plein. Les termes « à temps plein » lorsqu'on parle de la fréquentation d'une université établissent une distinction avec la fréquentation à temps partiel. L'appelant a déclaré dans son témoignage qu'il consacre en moyenne à son cours entre 22 et 36 heures par semaine. L'université le considère comme un étudiant à temps plein. C'est bien le cas de l'appelant, comme en témoigne son relevé de notes.
+[12] Dans l'information que publie Touro sur Internet, on peut lire ce qui suit : [TRADUCTION] « La charge de cours normale à temps plein correspond à deux cours (de quatre crédits chacun) par session » . Le bulletin d'interprétation IT-516R2 précise qu'un étudiant « est généralement considéré comme un "étudiant à temps plein" si l'université le considère comme tel. » Je ne décrirais pas la participation aux cours donnés à Touro comme une fréquentation à temps partiel et je n'ai aucune raison de douter de la véracité du certificat de frais de scolarité signé par les agents autorisés de Touro et qui est rédigé comme suit :
+[13] M. Krause travaille aussi environ 30 heures ou moins par semaine à un restaurant McDonald. Ce fait en soi ne l'empêche pas de fréquenter l'université à temps plein. Bon nombre d'étudiants à temps plein doivent travailler pour payer leurs études.
+[14] Finalement, il faut déterminer si le fait de suivre tous les cours par voie électronique revient à « fréquenter » l'établissement. Le certificat reproduit ci-dessus emploie le terme [TRADUCTION] « fréquente » , mais il ne règle rien. Le sens d'un terme utilisé dans une loi relève généralement d'une question de droit.
+[15] Dans l'affaire Hlopina v. R. [1999] 2 C.T.C. 2127, le juge Bowie s'est attardé au sens de la fréquentation à temps plein d'un établissement d'enseignement. Je ne répéterai pas les nombreux arrêts et ouvrages qu'il cite au sujet du sens des termes « à temps plein » .
+[16] Il a conclu que lorsqu'une personne suit un cours par correspondance, elle ne fréquente pas un établissement. Il s'est exprimé comme suit au paragraphe 12 :
+L'ambiguïté que comporte la version anglaise de la Loi est résolue par renvoi à la version française. L'expression « [...] le particulier fréquente comme étudiant à plein temps une université [...] » utilisée à l'alinéa 118.5(1)b) s'oppose à l'expression « [...] université située à l'étranger, où le particulier [...] est inscrit [...] » employée à l'alinéa 118.6(1)b). À coup sûr, la première expression exige la présence physique à l'université alors que la dernière ne l'exige pas. Lorsque, comme dans ce cas-ci, une version de la loi est claire et non ambiguë, alors que l'autre pourrait avoir le même sens ou un sens différent, je suis tenu d'appliquer le sens qui est commun aux deux versions(8). Le verbe « to attend » figurant dans la version anglaise pourrait laisser entendre quelque chose d'autre que la présence physique, mais il n'en va pas de même pour le verbe français « fréquenter » . C'est donc à contrecoeur que je dois conclure que le contribuable qui suit des cours par correspondance dans une université située à l'étranger ne peut pas se prévaloir du crédit pour frais de scolarité prévu à l'article 118.5 de la Loi. Je partage le sentiment exprimé par le juge Heald dans la décision Ritchie(9), dans laquelle il a dit :
+[TRADUCTION]
+J'ai dit à l'audience que je sympathisais avec la situation de l'intimé. Il faut louer l'intimé et les autres personnes qui sont dans la même situation que lui pour leur diligence, leur persévérance et les efforts qu'ils font en vue de se perfectionner. L'intimé et ces autres contribuables devraient peut-être bien avoir le droit de déduire les frais de scolarité en pareil cas. Toutefois, il n'appartient pas à la Cour de légiférer; je ne puis qu'interpréter la loi telle qu'elle existe à l'heure actuelle.
+[17] Le juge Bowie a fondé sa conclusion sur la différence entre le terme français « fréquenter » et l'anglais « attend » . Il a convenu que le terme anglais « attend » n'exige pas la présence physique, alors que le français « fréquenter » l'exige. Je n'aurais pas statué que le verbe « fréquenter » en français était non moins ambigu que l'anglais « attend » . Le verbe « fréquenter » est défini comme suit dans le Grand dictionnaire Larousse encyclopédique :
+FRÉQUENTER v. t. (lat. frequentare, être assidu) [conj. 3]. 1.Fréquenter un lieu, un établissement, y aller souvent ou régulièrement; hanter : Fréquenter une maison, les cafés, les cinémas. Les élèves qui fréquentent l'établissement scolaire doivent se plier au règlement intérieur. Je ne fréquente pas ce genre d'endroit. - 2. Fréquenter une voie, une route, l'emprunter en grand nombre : Les voitures fréquentent beaucoup l'autoroute du Sud. - 3. Fréquenter qqn, un milieu, avoir des relations suivies avec eux : Fréquenter des hommes politiques, des voisins. - 4. Fam. Fréquenter (qqn), courtiser, voir fréquemment la personne aimée. - 5. Fréquenter qqch, y avoir souvent recours (langue soutenue) : Fréquenter les grandes oeuvres de la littérature classique.
+◆ v. i. Litt. Fréquenter qqpart, y aller habituellement; être habitué d'un lieu
+[18] Si je me penche sur la version anglaise seulement, le fait d'utiliser le verbe « attend » pour parler d'une personne qui « fréquente » une université par voie électronique, au moyen d'Internet, n'est pas du tout incompatible avec mon interprétation du verbe anglais « attend » . Nous devons reconnaître que nous sommes en 2004 et que, s'il est vrai qu'il y a 25 ans une personne devait se présenter physiquement dans une salle de cours pour dire qu'elle fréquentait une université, la technologie a progressé tellement rapidement qu'il est tout à fait possible d'assister à des cours en regardant et en écoutant le professeur sur un ordinateur.
+[19] M. Krause, dans ses observations écrites, a décrit le programme de Touro dans les termes suivants :
+[TRADUCTION]
+[3] Il suivait son programme comme suit : en ligne au moyen de conférences en direct; à l'aide de CD et de bibliothèques virtuelles. Pour les parties du programme concernant sa thèse, il y a eu jusqu'à maintenant des discussions face à face avec un professeur siégeant au comité d'examen, des conférences hebdomadaires en ligne et en direct, du clavardage et un appel conférence. Il est relié directement à ses professeurs par Internet. Le programme se distingue clairement des cours par correspondance.
+[20] Dans l'information publiée sur Internet, Touro décrit le processus en détail :
+[TRADUCTION]
+· La charge de travail normale à temps plein correspond à deux cours (de quatre crédits chacun) par session. Il y a quatre sessions de douze semaines par année. Si l'horaire d'un étudiant est chargé, il pourra prendre seulement un cours par session. Touro University International offre d'excellents services-conseils afin d'aider les étudiants à choisir les cours appropriés.
+· L'étudiant peut s'inscrire d'avance (et avoir sa place garantie dans les cours). Les étudiants sont avisés de la date des préinscriptions (environ 10 semaines avant le début de la session).
+· L'étudiant doit payer ou prendre des dispositions pour régler les frais de scolarité lorsqu'il s'inscrit. Ce paiement rend l'inscription officielle.
+· Assurez-vous que la configuration de votre système répond aux normes minimales exigées pour les cours de Touro University International (TUI). Si vous avez des questions, TUI possède une excellente équipe de soutien informatique pour y répondre.
+· L'étudiant recevra un CD-ROM contenant les logiciels et des renseignements sur l'installation. Les étudiants devraient installer les logiciels et tester leur système avant le début des cours. TUI offre d'excellents services de soutien technique afin de les aider dans cette démarche. Les cours non obligatoires sont gravés sur un CD-ROM qui est envoyé aux étudiants avant le début de chaque nouvelle session. Les cours obligatoires au doctorat son donnés au moyen d'un site Web au lieu d'un CD-ROM. La principale caractéristique de ces cours est une conférence en direct réunit le professeur et tous les étudiants inscrits. Chaque étudiant bénéficiera d'un accès au site Web, aux logiciels et au soutien technique relatif à la conférence.
+· Tout le matériel utilisé à Touro University International figure sur Internet et sur les CD remis aux étudiants. Par conséquent, l'achat de livres n'est pas obligatoire ni nécessaire. Les étudiants sont encouragés à faire l'achat d'un logiciel d'analyse statistique destiné aux cours sur la méthodologie de la recherche et à la rédaction de leur thèse. SPSS - Graduate version est recommandé; les étudiants recevront plus de précisions avant les cours.
+· Le premier jour de la session, l'étudiant commence les activités décrites dans le syllabus du cours. Ce syllabus figure sur la page Web du cours (pour les cours obligatoires) ou sur le CD (pour les cours préparatoires ou non obligatoires).
+· Les étudiants doivent terminer tous les travaux obligatoires pour les cours et contacter leur professeur, leur conseiller pédagogique ou les services aux étudiants de Touro University International s'ils éprouvent des difficultés ou s'ils ont des questions. N'oubliez pas que Touro University International est ouverte 24 heures sur 24, sept jours sur sept.
+[...]
+Comment se déroule la rédaction de la thèse dans un contexte de téléapprentissage?
+En ayant recours aux téléconférences et aux autres outils innovateurs de Touro University International, l'étudiant reste toujours en communication avec le comité d'examen et son président, et il bénéficie d'une rétroaction constante. En outre, la cyberbibliothèque de Touro University International offre d'excellents ouvrages de recherche en ligne.
+[21] Certains arguments peuvent néanmoins appuyer la thèse suivant laquelle, pour fréquenter un établissement à temps plein, un étudiant doit non seulement être inscrit à temps plein - et non à temps partiel - mais aussi se trouver physiquement présent à l'université. Comme premier argument, soulignons que l'alinéa 118.5(1)c) mentionne seulement le fait d'être « inscrit » , tandis que l'alinéa b) emploie l'expression « fréquente comme étudiant à plein temps » - ce qui suppose évidemment que l'étudiant est « inscrit » . En principe, quand le Parlement utilise des termes différents, c'est qu'il veut dire des choses différentes. On pourrait répondre à cet argument en disant que la distinction qui doit se faire entre le libellé des alinéas a) et c) par rapport au texte de l'alinéa b) tient à la différence qui existe entre les étudiants à temps partiel et les étudiants à temps plein.
+[22] Le deuxième argument se retrouve dans les notes explicatives sur le projet de loi C-18 du 30 mai 1991. Le paragraphe 93(3) de ces notes traite de la modification apportée au paragraphe 118.6(2), qui exigeait auparavant qu'un étudiant fréquente un établissement à temps plein pour avoir droit au crédit d'impôt pour études. Cette exigence a été supprimée par le projet de loi C-18. Les notes explicatives sont rédigées comme suit :
+Paragraphe 93(3)
+Le paragraphe 118.6(2) de la Loi est modifié de manière à éliminer l'obligation pour le particulier de fréquenter à plein temps un établissement d'enseignement agréé pour bénéficier du crédit d'impôt pour études. Cette modification, qui s'applique aux années d'imposition 1991 et suivantes, a pour but de permettre aux étudiants à plein temps au niveau postsecondaire de bénéficier du crédit lorsqu'ils sont inscrits à des programmes d'études à distance ou à des « cours par correspondance » .
+Je ne crois pas que des notes explicatives sur des dispositions législatives devraient être considérées déterminantes. Le Parlement est censé pouvoir exprimer son intention clairement et sans ambiguïté dans les termes qu'il choisit. Il ne me semble pas approprié de résoudre des ambiguïtés dans le texte d'une loi au moyen des notes rédigées par des fonctionnaires non identifiés du ministère des Finances qui expliquent les objectifs que le ministère pensait ou espérait atteindre. Néanmoins, la pratique est assez bien établie. Dans l'arrêt Glaxo Wellcome Inc. c. Canada, (1996) A.C.I. no 6, [1996] DTC 1159, confirmé par [1998] 6638, le tribunal a formulé la remarque suivante aux paragraphes 22 et 24 :
+Il faut se rappeler que c'est le législateur qui édicte les lois, et que c'est au moyen du libellé de la loi que le législateur parle. Une loi du Parlement représente la volonté collective du Parlement. On ne saurait être certain qu'il soit possible de dire la même chose au sujet d'éléments extrinsèques. Tenter de déterminer le but d'une disposition législative en se reportant à un discours prononcé par un membre du gouvernement, un discours qu'il n'a peut-être pas rédigé, ou à des notes techniques ou explicatives préparées par les agents du ministère des Finances, ou encore à d'autres documents budgétaires, comporte, à mon avis, un danger. Le tribunal qui s'efforce d'attribuer à un libellé raisonnablement compréhensible un sens étendu qui est conforme à ce que, à son avis, compte tenu d'éléments extrinsèques, le législateur cherchait à atteindre risque de franchir la ligne de démarcation qui sépare la fonction judiciaire de la fonction législative.
+[...]
+Selon mon expérience, la pratique de nos jours semble être de citer dans les plaidoiries presque tout ce qui peut influer, ne serait-ce que de loin, sur la question à trancher - les discours prononcés devant le Parlement, les notes techniques, les notes explicatives, les documents budgétaires, les rapports de commissions, les décisions anticipées en matière d'impôt sur le revenu, la doctrine, que leurs auteurs soient décédés ou vivants, les articles et discours des praticiens ou des théoriciens, les bulletins d'interprétation - tout cela amène de l'eau au moulin et il reste au tribunal à déterminer en quoi pareils éléments peuvent, le cas échéant, aider [Voir Note 2 ci-dessous]. La pratique est maintenant trop bien établie pour être renversée, mais il importe de replacer de pareils éléments dans le contexte approprié au point de vue de leur fiabilité et de leur utilité et de reconnaître qu'en fin de compte l'interprétation doit être fondée sur celle que le tribunal a donnée au libellé de la loi lui-même. Pour ce faire, le tribunal qui utilise pareils outils extrinsèques doit faire preuve d'une extrême prudence. Comme le juge Sopinka l'a dit dans l'arrêt Morgentaler, à la page 484 :
+À la condition que le tribunal n'oublie pas que la fiabilité et le poids des débats parlementaires sont limités, il devrait les admettre comme étant pertinents quant au contexte et quant à l'objet du texte législatif.
+Note 2 : Il faudrait se rappeler la sage observation que le comte Halsbury a faite dans la décision Hilder v. Dexter [1902] A.C. 474, à la page 477 :
+[TRADUCTION]
+Vos Seigneuries, j'ai plus d'une fois eu l'occasion de
+dire qu'en ce qui concerne l'interprétation d'une loi, la
+personne qui est chargée de sa rédaction est celle qui
+est la moins bien placée pour l'interpréter. Elle est
+portée à confondre ce qu'elle avait l'intention de faire
+et l'effet du libellé qu'elle a en fait employé. De
+toute façon, au moment où elle a rédigé la loi, elle peut
+avoir eu l'impression de donner pleinement effet à son
+intention, mais elle peut se tromper en interprétant par
+la suite la loi du simple fait qu'elle songe à ce qu'elle
+avait l'intention de faire, mais qu'elle n'a peut-être
+pas fait.
+[23] La note explicative relative à cette modification est utile parce qu'elle montre qu'une personne impliquée dans la rédaction de la modification en question a au moins réfléchi à ce point. Je ne suis pas prêt à me prononcer de manière définitive, en l'absence d'observations, sur la possibilité qu'une conclusion plus ferme puisse être tirée de la suppression même de ces termes.
+[24] Il est donc évident que la question ne peut vraiment pas être tranchée avec netteté. Même s'il ne m'est pas nécessaire de m'exprimer sur ce point, l'appel devant être rejeté de toute manière parce que l'avis de cotisation n'exige pas le paiement d'impôts, je crois qu'il existe de solides raisons de conclure que la fréquentation à temps plein d'une université située à l'étranger peut inclure la fréquentation à temps plein par le truchement d'Internet ou en ligne, comme c'est le cas ici. Ce point de vue est conforme à la logique et à la réalité de la technologie moderne. S'il subsiste un doute sur ce point, le Parlement devrait prendre des mesures pour l'éliminer.
+[25] Peu importe le doute créé par l'article 118.5, il n'y en a pas relativement à l'article 118.6. L'appelant aurait certainement eu droit au crédit d'impôt pour études.
+[26] Comme je l'ai dit plus haut, puisque l'appel vise une cotisation portant qu'aucun impôt n'est exigible, il doit être rejeté.
+Signé à Ottawa, Canada, ce 2e jour de septembre 2004.
+« D.G.H. Bowman »
+Juge Bowman
+Traduction certifiée conforme
+ce 22e jour de juin 2005.
+Sara Tasset
+RÉFÉRENCE :
+2004CCI594
+NO DU DOSSIER DE LA COUR :
+2004-1193(IT)I
+INTITULÉ DE LA CAUSE :
+James A. Krause et Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+Nanaimo (Colombie-Britannique)
+DATE DE L'AUDIENCE :
+Le 12 août 2004
+MOTIFS DU JUGEMENT PAR :
+L'honorable D.G.H. Bowman, juge en chef adjoint
+DATE DU JUGEMENT ET MOTIFS DU JUGEMENT :
+Le 2 septembre 2004
+COMPARUTIONS :
+Pour l'appelant :
+L'appelant lui-même
+Avocat de l'intimée :
+Me Stacey Michael Repas
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelant :
+Nom :
+Cabinet :
+Pour l'intimée :
+Morris Rosenberg
+Sous-procureur général adjoint du Canada
+Ottawa, Canada

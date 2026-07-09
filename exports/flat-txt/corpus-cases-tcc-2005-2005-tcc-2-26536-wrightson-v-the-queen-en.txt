@@ -1,0 +1,207 @@
+Title: Wrightson v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26536/index.do
+Corpus path: corpus/cases/tcc/2005/2005-tcc-2-26536-wrightson-v-the-queen-en.md
+Document type: case_law
+Last modified: 2005-01-04
+
+# Wrightson v. The Queen
+
+- Citation: 2005 TCC 2
+- Decision date: 2005-01-04
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3218, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Wrightson v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-01-04
+Neutral citation
+2005 TCC 2
+File numbers
+2002-3530(IT)G
+Judges and Taxing Officers
+Judith Woods
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2002-3530(IT)G
+BETWEEN:
+CHARLES BRUCE WRIGHTSON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on May 13 and December 6, 2004 at Calgary, Alberta
+By: The Honourable Justice Judith Woods
+Appearances:
+For the appellant:
+The appellant himself
+Counsel for the respondent:
+Margaret McCabe
+____________________________________________________________________
+JUDGMENT
+The appeal in respect of a reassessment made under the Income Tax Act for the 2000 taxation year is allowed and the reassessment is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that:
+1. the appellant shall be entitled to deduct child support payments in the amount of $7,200;
+2. the appellant shall not be entitled to the dependant (equivalent-to-spouse) tax credit; and
+3. the appellant shall be entitled to deduct $24,469.73 under paragraph 60(b) of the Act.
+There will be no order as to costs.
+Signed at Toronto, Ontario this 4th day of January, 2005.
+"J. Woods"
+Woods J.
+Citation: 2005TCC2
+Date: 20050104
+Docket: 2002-3530(IT)G
+BETWEEN:
+CHARLES BRUCE WRIGHTSON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Woods J.
+[1] This appeal concerns the deductibility of a lump sum amount of $30,000 paid by Charles Bruce Wrightson to his former spouse, Connie Wrightson, in the 2000 taxation year. Mr. Wrightson submits that the payment was made to assist his former spouse with the acquisition and renovation of a home and that it satisfies the requirements of the deeming provision in subsection 60.1(2) of the Income Tax Act.
+Facts
+[2] Charles Bruce Wrightson and Connie Wrightson have been divorced for several years. They each testified at the hearing, providing rather different explanations of the $30,000 payment that is the subject of this appeal.
+[3] Pursuant to legal proceedings that appear to have been protracted and difficult, various court orders were issued providing for the custody of the three children and for Mr. Wrightson to pay spousal and child support.
+[4] Of particular relevance to this appeal is a written agreement dated May 1, 2000, that was entered into several years after the court orders were issued and at a time when Mr. Wrightson's spousal support obligations under the court orders had ceased. The May 1 agreement was drafted by Mr. Wrightson without the assistance of legal advice.
+[5] The May 1 agreement included a number of provisions dealing with the custody and care of the children and it provided for payment of $30,000 as a final support payment to be made by Mr. Wrightson to Mrs. Wrightson on or before May 1, 2000.
+[6] The relevant paragraph in the May 1 agreement reads:
+12. The Respondent shall pay to the Petitioner the sum of $30,000.00 on or before May 1, 2000. This shall be the final support payment made by the Respondent. The Petitioner is responsible for all federal and provincial income tax due on the $30,000.00 support payment.
+[7] Mr. Wrightson testified that Mrs. Wrightson had sought this money to assist in acquiring and renovating a home. A home was in fact purchased by Mrs. Wrightson shortly after the agreement was entered into for a purchase price of $134,000. Mr. Wrightson testified that, at the time, he was not aware of any mortgage arrangements for the home but agreed to a $30,000 payment to assist with the acquisition of the home and renovations that his former spouse was planning to undertake shortly after the purchase.
+[8] Although Mr. Wrightson had no legal obligation to make this payment as his spousal support obligations had ended, he indicated that he wanted Mrs. Wrightson to have a nice home for his children to visit and he was prepared to make this payment as long as it was tax deductible to him. The agreement provided that Mr. Wrightson had care of the children during the school year, but it also contemplated that the children would visit frequently with their mother.
+[9] The agreement itself does not refer to the purpose of the payment except to state that it was paid as a final support payment. There were references to the home and renovations, however, in receipts that Mr. Wrightson had prepared and that Mrs. Wrightson had signed. In all, there were three receipts corresponding to three cheques totalling $30,000 (two cheques issued in April for $1,000 each and a cheque issued in May for $28,000). Each of the receipts stated that the payment was "for the purchase and renovation of my home."
+[10] Mr. Wrightson acknowledges that the receipts were not signed contemporaneously with the issuance of the cheques but states that he had prepared two earlier versions of the receipts that Mrs. Wrightson did not sign. My impression, though, was that the receipts were executed not too long after the cheques were issued.
+[11] Although Mr. Wrightson did not at the time know whether Mrs. Wrightson had incurred a mortgage with respect to the property, he subsequently obtained this information from Mrs. Wrightson for purposes of this appeal. He introduced into evidence a mortgage statement issued by M.R.S. Trust Company. It was stated to be issued on May 5, 2000 but was stamped "Revised." There was no evidence disputing the accuracy of the mortgage statement, however, and accordingly I accept its contents as true.
+[12] The mortgage statement indicates that Mrs. Wrightson assumed the vendor's mortgage on the closing of the home purchase. The amount assumed was $122,348.66 and the monthly principal and interest payments were stated to be $914.54.
+[13] Mr. Wrightson did not provide any evidence of the cost of the renovations but Mrs. Wrightson testified that the renovations cost approximately $10,000 and were completed within 18 to 24 months following the purchase of the home in May 2000.
+[14] Where the testimony of Mr. and Mrs. Wrightson differed was with respect the purpose of the $30,000 payment. Mrs. Wrightson stated that during their lengthy divorce negotiations, she had incurred substantial legal fees and the $30,000 payment was intended to reimburse her for some of these costs. She indicated that her husband agreed to make this payment because he wanted her consent for him to take the children away for the school year. When she was asked why she signed the agreement and the receipts acknowledging that the payment was a final support payment for the home and the renovations, she stated that, since her only interest was in receiving the money, it did not matter to her what documents had to be signed.
+[15] On cross examination, Mrs. Wrightson was shown a court order (consent order) dated August 25, 1995 that required Mr. Wrightson to pay $10,000 in full and final settlement of costs awarded to Mrs. Wrightson in 1993. Mrs. Wrightson testified that she had no recollection of this court order.
+[16] Mrs. Wrightson was also questioned about the tax treatment of the $30,000 payment and the acknowledgement in paragraph 12 of the May 1 agreement that she was responsible for income tax due on the $30,000 payment. Mrs. Wrightson testified that she had concluded that the payment was not taxable to her because it was not a support payment. Contrary to what the agreement stated, it was a reimbursement of court costs and not support, she stated.
+[17] It appears that Mrs. Wrightson did not file income tax returns for a period of time. She testified that when she did file returns, the Canada Revenue Agency advised her that it was not necessary to include the $30,000 amount in income if it represented a reimbursement of legal costs.
+[18] Faced with conflicting testimony by former spouses having gone through a difficult divorce proceeding, I place considerable weight on the documents signed by Mrs. Wrightson at the time, namely the May 1 agreement and the receipts. These documents support Mr. Wrightson's version of events. In addition, Mr. Wrightson's testimony is also consistent with the fact of the house purchase in early May and the subsequent renovations.
+[19] Mrs. Wrightson's testimony, on the other hand, does not adequately explain why Mr. Wrightson would agree to pay legal costs for proceedings completed several years earlier when a 1995 court order seemingly provided a final accounting of these costs.
+[20] Mrs. Wrightson may be correct when she stated that Mr. Wrightson was motivated to make the payment because he wanted a further agreement with respect to the children, but that is only evidence of motivation and is not inconsistent with Mr. Wrightson's explanation that the payment was made to assist with the purchase of the home and the renovations.
+[21] The Crown suggests that Mr. Wrightson's evidence is not credible because it is not consistent with the amount expended by Mrs. Wrightson as a down payment on the home ($11,000) and the renovations ($10,000). In the submission of the Crown, the numbers just don't add up because Mr. Wrightson claimed that he intended to pay no more than 20 percent of these costs.
+[22] I disagree. Mr. Wrightson testified that he intended to pay 20 percent of the cost of the home ($134,000) and 20 percent of what he expected the renovations to cost. This was based on what he thought was the maximum amount that could be deducted for tax purposes. This was an incorrect interpretation of the relevant tax provisions but it does not impugn Mr. Wrightson's credibility. Accordingly, I believe that the evidence does establish that the $30,000 payment was for the acquisition and renovation of the home and that it was intended as a final support payment.
+[23] As for whether the parties had agreed that Mrs. Wrightson would pay tax on the $30,000 payment and that Mr. Wrightson would be entitled to claim a tax deduction with respect to it, I believe that the documents are more consistent with Mr. Wrightson's version of events that the tax deduction was critical to him and that Mrs. Wrightson was well aware of that fact and as well that it was taxable to her.
+[24] I do not believe that Mrs. Wrightson's testimony provides an adequate explanation of her understanding of the tax consequences. She stated that she concluded that there would be no tax payable because, contrary to what the agreement said, the payment was not for support. In my view, the fact that Mrs. Wrightson signed an agreement acknowledging that the payment was for support and agreeing to pay federal and provincial tax due with respect to it satisfies me that she was well aware that she was required to include the payment in her income.
+[25] In this appeal, Mr. Wrightson seeks a deduction for the $30,000 payment under paragraph 60(b) and the deeming provision in subsection 60.1(2) of the Act. The notice of appeal also raised issues concerning child support payments and the dependant (equivalent-to-spouse) tax credit but these issues have since been resolved.
+Statutory provisions
+[26] The starting point for determining whether a support payment is deductible is the formula in paragraph 60(b) of the Act. The only part of that formula that is relevant to the issues in this appeal is the requirement that the amount satisfy the definition of "support amount."
+[27] "Support amount" is defined in subsection 56.1(4) of the Act. In the 2000 taxation year, the relevant part of the definition read:
+"support amount" means an amount payable or receivable as an allowance on a periodic basis for the maintenance of the recipient, children of the recipient or both the recipient and children of the recipient, if the recipient has discretion as to the use of the amount, and
+(a) the recipient is the spouse or former spouse of the payer, the recipient and payer are living separate and apart because of the breakdown of their marriage and the amount is receivable under an order of a competent tribunal or under a written agreement; ...
+[28] The other provision that is relevant to this appeal is the deeming rule in subsection 60.1(2). If this deeming rule applies, then two of the requirements in the definition of "support amount" are satisfied - that the amount is an allowance on a periodic basis and that the recipient has discretion as to its use. The provision reads:
+(2) For the purposes of section 60, this section and subsection 118(5), the amount determined by the formula
+A - B
+where
+A is the total of all amounts each of which is an amount (other than an amount that is otherwise a support amount) that became payable by a taxpayer in a taxation year, under an order of a competent tribunal or under a written agreement, in respect of an expense (other than an expenditure in respect of a self-contained domestic establishment in which the taxpayer resides or an expenditure for the acquisition of tangible property that is not an expenditure on account of a medical or education expense or in respect of the acquisition, improvement or maintenance of a self-contained domestic establishment in which the person described in paragraph (a) or (b) resides) incurred in the year or the preceding taxation year for the maintenance of a person, children in the person's custody or both the person and those children, where the person is
+(a) the taxpayer's spouse or former spouse, or
+(b) where the amount became payable under an order made by a competent tribunal in accordance with the laws of a province, an individual who is a parent of a child of whom the taxpayer is a natural parent,
+and
+B is the amount, if any, by which
+(a) the total of all amounts each of which is an amount included in the total determined for A in respect of the acquisition or improvement of a self-contained domestic establishment in which that person resides, including any payment of principal or interest in respect of a loan made or indebtedness incurred to finance, in any manner whatever, such acquisition or improvement
+exceeds
+(b) the total of all amounts each of which is an amount equal to 1/5 of the original principal amount of a loan or indebtedness described in paragraph (a),
+is, where the order or written agreement, as the case may be, provides that this subsection and subsection 56.1(2) shall apply to any amount paid or payable thereunder, deemed to be an amount payable by the taxpayer to that person and receivable by that person as an allowance on a periodic basis, and that person is deemed to have discretion as to the use of that amount.
+Position of the Crown
+[29] In addition to disputing the facts, the Crown submits that Mr. Wrightson's version of the facts fails to satisfy several of the statutory requirements that must be met to qualify for the deduction under paragraph 60(b). The Crown's arguments were set out in several written submissions and I have tried to summarize them in the following four points.
+[30] First and foremost, the Crown suggests that a one-time payment in the nature of capital does not meet the requirements set out in The Queen v. McKimmon, [1990] 1 C.T.C. 109 (F.C.A.). Secondly, the Crown suggests that the payment is not in the nature of maintenance or support within the context of paragraph 60(b). The Crown also suggests the deeming provision in subsection 60.1(2) does not apply because the written agreement does not identify the specific purpose for the payment. Lastly, the Crown submits that the written agreement does not adequately provide for the tax treatment of the payment as required by subsection 60.1(2).
+Analysis
+[31] The statutory provisions that are relevant to this appeal are rather difficult to read, particularly subsection 60.1(2) which in some respects is rather counter-intuitive. For that reason, I will try to set out in some detail the statutory requirements that are relevant.
+Interplay between relevant sections
+[32] Counsel for the Crown reiterated on several occasions that subsection 60.1(2) was only a deeming rule and that other statutory requirements must also be satisfied. This is undoubtedly true. The Crown's arguments, however, appear to be founded on the words of subsection 60.1(2), save for arguments concerning a contextual interpretation of the support provisions and the McKimmon case. Accordingly, I will start with an analysis of subsection 60.1(2).
+Subsection 60.1(2)
+[33] The following are the elements of subsection 60.1(2) that in my view are relevant to this appeal. If they are satisfied, subsection 60.1(2) will deem the $30,000 payment to be an allowance payable on a periodic basis and Mrs. Wrightson to have discretion as to its use.
+1. The $30,000 amount must be payable in a taxation year under a written agreement.
+2. The $30,000 amount must be in respect of an expense.
+3. The expense must be in respect of the acquisition or improvement of Mrs. Wrightson's new home.
+4. The expense must be incurred in the taxation year or the preceding taxation year.
+5. The $30,000 amount must be for the maintenance of Mrs. Wrightson.
+6. The agreement must provide for the tax treatment of the payment.
+7. The deduction must not exceed one-fifth of the original principal amount of indebtedness incurred to finance the acquisition or improvement of the home. (This is a limitation on the amount that is deductible rather than a condition of the application of the subsection but I have included it here for convenience.)
+[34] I will now consider each of these elements, starting with the last one.
+Deduction limited to 1/5 of indebtedness
+[35] Under clause B(b) in subsection 60.1(2), if a particular payment is in respect of the acquisition or improvement of a home, then the amount that is deductible is limited to one-fifth of the original principal amount of indebtedness incurred to finance the acquisition or improvement of the home. Based on my conclusion that the original principal amount of indebtedness incurred by Mrs. Wrightson to finance the acquisition of the home was $122,348.66, the amount that is potentially deductible by Mr. Wrightson is limited to one-fifth of this amount, or $24,469.73.
+Payable in year under written agreement
+[36] As for the first requirement above, clause A in subsection 60.1(2) requires that the amount be payable in a taxation year under either an order of a competent tribunal or a written agreement.
+[37] It is undisputed that the $30,000 was payable in the 2000 taxation year under a written agreement. However, the Crown suggests that it is also necessary that the specific expense be referred to in the written agreement. In this case, the purpose of the payment was not stated in the written agreement but it was mentioned in each of three receipts signed by Mrs. Wrightson.
+[38] I do not interpret clause A as requiring that the written agreement refer to the purpose of the expense. This conclusion is based on a grammatical reading of the clause. The phrase "under an order of a competent tribunal or under a written agreement" is set off by commas, clearly modifying the words that precede it. The preceding words are "an amount ... that became payable by a taxpayer in a taxation year." Accordingly, is quite clear the written agreement need only refer to an amount payable in a particular taxation year. For this reason, I do not accept the Crown's argument that the purpose of the expense must be referred to in the written agreement.
+Payable in respect of an expense
+[39] As for the second requirement, clause A requires that the support payment be "in respect of an expense."
+[40] The $30,000 payment in this case is perhaps unusual because it is not a payment of, or reimbursement of, a specific outlay. Rather, the purpose of the payment was more general - to assist with the acquisition of a home that cost $134,000 and renovations of an unspecified amount. Mr. Wrightson was not aware of the financial arrangements, namely that a mortgage of $122,348.66 was being assumed and that the initial cash outlay was therefore only $11,651. He was also not aware of the cost of the renovations. Accordingly, Mr. Wrightson was providing general financial assistance for the home and the renovations and was not reimbursing for specific cash outlays.
+[41] The question that this raises is whether it satisfies the requirement that the payment be "in respect of an expense." I have concluded that it does.
+[42] The phrase "in respect of" is a commonly-used phrase in the Income Tax Act. The courts have given it a very broad interpretation as evidenced by the following statement by Mr. Justice Major in The Queen v. Markevich, 2003 D.T.C. 5185 (S.C.C.):
+The words "in respect of" have been held by this Court to be words of the broadest scope that convey some link between two subject matters.
+[43] By the use of that broad phrase, Parliament intended that subsection 60.1(2) apply not only to reimbursements of specific cash outlays, but also to payments that are linked more generally to particular expenditures. In this case, there is a clear link between the payment of the $30,000 and the purchase of the home and the renovations. The $30,000 was intended as general financial assistance for these expenditures and, in my view, this is satisfactory to meet the requirement that the payment be "in respect of an expense."
+Expense in respect of acquisition or improvement of home
+[44] As for the third requirement, it must be established that the expense is in respect of the acquisition or improvement of a home in which Mrs. Wrightson resided. Clause A of subsection 60.1(2) excludes expenditures for tangible personal property except for medical or educational expenses or expenditures in respect of the acquisition, improvement or maintenance of a self-contained domestic establishment in which the recipient resided.
+[45] Based on my conclusion on the facts that the purpose of the payment was to assist with the acquisition and renovation of the home, and for the reasons above with respect to the meaning of "in respect of," it follows that the payment was in respect of the acquisition and improvement of the home. There is no dispute that Mrs. Wrightson resided in the home and accordingly the third requirement is satisfied.
+Expense incurred in the year or preceding year
+[46] Turning to the fourth requirement, clause A requires that specific expense be incurred in the taxation year or the preceding taxation year. In this case, the cost of the home ($134,000) was incurred in the relevant taxation year (2000) when the home was acquired. The only evidence regarding when the renovation costs were incurred was Mrs. Wrightson's testimony that the renovations cost approximately $10,000 and were completed within 18 to 24 months. Based on this evidence, a very large percentage of the total expenses for the home and renovations ($144,000) were incurred in the 2000 taxation year. Accordingly, the $30,000 payment is linked to over $134,000 of expenses incurred in the taxation year. In my view, that is sufficient to satisfy the requirement that the expense be incurred in the taxation year or the preceding year.
+Amount payable for maintenance
+[47] I now turn to the requirement, also in clause A, that the amount be for the maintenance of the recipient. The Crown's argument seems to be based on its view of the evidence that the payment was to reimburse court costs and not to assist with the acquisition of the home. As noted above, I do not accept this view of the evidence.
+[48] Counsel for the Crown accepted the following definition of "maintenance" cited in Barker v. The Queen, [1998] 1 C.T.C. 2538 (T.C.C.), at paragraph 22:
+... Maintenance is defined in The Dictionary of Canadian Law, by Daphne A. Dukelow and Betsy Nuse, in part as follows: "Pecuniary support including support or alimony to be paid to someone who is not a spouse. [...] Includes shelter, clothing, nursing support, medical treatment, necessary training, instruction and transportation". Thus, lodging is a form of maintenance as is the supply of food, clothing and other means of subsistence. ...
+[49] This definition, which is supported by other legal dictionaries, is broad enough to include a lump sum amount paid to assist Mrs. Wrightson with the acquisition and improvement of a home. Accordingly, the fifth requirement is satisfied.
+Agreement provides for tax treatment
+[50] As for the sixth requirement, the written agreement must provide that subsections 60.1(2) and 56.1(2) apply to the payment. In paragraph 12 of the written agreement referred to above, Mrs. Wrightson agrees to be responsible for federal and provincial income tax due with respect to the payment. The issue is whether this satisfies the statutory requirement.
+[51] This question was recently considered by the Federal Court of Appeal in Veilleux v. The Queen, [2003] 2 C.T.C. 138 (F.C.A.). That case has some similarity to this one. In both, the written agreements refer only to the recipient's tax treatment, not the payer's. In addition, in both cases, the agreements did not refer to specific sections of the Act. In a judgment by Létourneau J.A., the court unanimously concluded that it is not necessary that the agreement to refer to the payer's tax treatment and that it is sufficient for the agreement to acknowledge that the spouse will be taxed on amounts payable under the agreement.
+[52] The only significant difference that I can see between this case and Veilleux is that, in Veilleux, the recipient was clearly aware that she was to include the amounts in her income because she did so for a period of ten years. However, this fact does not appear to have been significant to the decision in Veilleux because Létourneau J.A. relies on the wording of the agreement to conclude that the spouse was aware that she was to pay tax on the payments.
+[53] In my view, a deduction for a support payment should not depend on having corroborating evidence by a former spouse. Like Veilleux, the agreement in this case speaks for itself. It makes it clear that the recipient is to pay tax owing with respect to the payment. Mrs. Wrightson cannot avoid that obligation by stating that she paid no attention to the agreement at the time. I wholeheartedly agree with the following comment in Veilleux, at paragraph 38:
+38 Disallowing the deductions claimed by the applicant, in the circumstances, amounts to penalizing him unfairly by denying him a right that is the corollary of all the support obligations that he assumed and carried out in good faith. ...
+[54] In support of its position, counsel for the Crown referred to several decisions of the Tax Court of Canada that were rendered after Veilleux: Rivkin v. Canada, [2004] 1 C.T.C. 2766; Cranswick v. Canada, [2004] 2 C.T.C. 2815; and Carmichael v. The Queen, 2003 D.T.C. 856.
+[55] In my view, all these cases can be distinguished on their facts. In Rivkin and Carmichael, the agreements do not refer to income tax consequences at all. And in Cranswick, the agreement referred to the tax treatment of the payer but not the recipient. Veilleux makes it clear that the agreement must refer to the tax treatment to the recipient but not necessarily the payer. For these reasons, none of these cases are relevant to the particular facts in this case and I see no reason why Veilleux should not apply. I find that the sixth requirement is accordingly satisfied.
+Lump sum (capital) amount
+[56] Finally, the Crown submits that a payment of this nature, a lump sum capital-type payment, is not within the purview of paragraph 60(b). Counsel could not provide a statutory reference for this argument and indicated that it did not depend on the words but rather the context of the support provisions. I cannot accept that the context of these statutory provisions implies some unexpressed exclusion for lump sum capital-type payments. In my view, any restriction as to the deductibility of support payments should be found in the words used in the relevant provisions.
+[57] I would note that Parliament appears to have considered whether it is appropriate to have some limit on the amount that may be deducted where the expense relates to the acquisition of a home. That limitation is that the annual deduction cannot exceed one-fifth of the original principal amount of indebtedness incurred with respect to the property. I see no reason to import further limits based on some unexpressed intention.
+[58] Counsel for the Crown also referred to the McKimmon case in support of its argument with respect to lump sum capital amounts. That case considered whether instalments of a lump sum were an "allowance for the maintenance" of a former spouse.
+[59] The statutory language that is relevant in this appeal is different from McKimmon. The meaning of "maintenance" is relevant and was discussed above. The meaning of "allowance" is not relevant, however, because if subsection 60.1(2) applies, the amount is deemed to be an allowance.
+[60] I do not read anything in McKimmon that would imply that the statutory provisions that are at issue in this case do not apply to lump sum or capital amounts. On the contrary, subsection 60.1(2) clearly contemplates that a payment in respect of the acquisition or improvement of a home can qualify as a support amount. As McKimmon is based on different statutory provisions, in my view it is not relevant to the issues in this appeal.
+Application of deeming rule
+[61]For the reasons above, I would conclude that the deeming rule in subsection 60.1(2) applies to $24,469.73 of the $30,000 payment. It remains to be considered if this amount is a "support amount" as defined in subsection 56.1(4). This requires that it be an allowance payable on a periodic basis, that Mrs. Wrightson have discretion as to its use, and that it be for the maintenance of Mrs. Wrightson.
+[62] By virtue of subsection 60.1(2), $24,469.73 of the amount is deemed to be an allowance payable on a periodic basis and Mrs. Wrightson is deemed to have discretion as to its use. The only other relevant requirement in the definition of "support amount" is that the amount be for maintenance. This is also a requirement of subsection 60.1(2) and, for the reasons above, I would conclude that the payment was for the maintenance of Mrs. Wrightson.
+[63] Accordingly, I would conclude that $24,469.73 qualifies as a "support amount" and that it also qualifies for the deduction in paragraph 60(b) of the Act.
+Conclusion
+[64] The appeal will be allowed and the reassessment will be referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that:
+1. Mr. Wrightson shall be entitled to deduct child support payments in the amount of $7,200;
+2. Mr. Wrightson shall not be entitled to the dependant (equivalent-to-spouse) tax credit; and
+3. Mr. Wrightson shall be entitled to deduct $24,469.73 under paragraph 60(b) of the Act.
+[65] As for costs, there was divided success in this appeal and the hearing lasted longer than necessary due to deficiencies by both parties. In the circumstances, there will be no order as to costs.
+Signed at Toronto, Ontario this 4th day of January, 2005.
+"J. Woods"
+Woods J.
+CITATION:
+2005TCC2
+COURT FILE NO.:
+2002-3530(IT)G
+STYLE OF CAUSE:
+Charles Bruce Wrightson v. Her Majesty the Queen
+PLACE OF HEARING:
+Calgary, Alberta
+DATE OF HEARING:
+May 13 and December 6, 2004
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Judith Woods
+DATE OF JUDGMENT:
+January 4, 2005
+APPEARANCES:
+For the Appellant:
+The appellant himself
+Counsel for the Respondent:
+Margaret McCabe
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

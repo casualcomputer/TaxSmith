@@ -1,0 +1,162 @@
+Title: Lavoie v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28255/index.do
+Corpus path: corpus/cases/tcc/2007/2007-tcc-473-28255-lavoie-v-m-n-r-en.md
+Document type: case_law
+Last modified: 2007-09-04
+
+# Lavoie v. M.N.R.
+
+- Citation: 2007 TCC 473
+- Decision date: 2007-09-04
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2036, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Lavoie v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-09-04
+Neutral citation
+2007 TCC 473
+File numbers
+2006-1071(EI)
+Judges and Taxing Officers
+Alain Tardif
+Subjects
+Canada Pension Plan
+Employment Insurance Act
+Decision Content
+Docket: 2006-1071(EI)
+BETWEEN:
+JOSÉE LAVOIE,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+9153‑6037 QUÉBEC INC.,
+Intervener.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on May 8, 2007, at Jonquière, Quebec.
+Before: The Honourable Justice Alain Tardif
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Vlad Zolia
+Agent for the Intervener:
+Pierre Pilotte (absent)
+____________________________________________________________________
+JUDGMENT The appeal pursuant to subsection 103(1) of the Employment Insurance Act (the “Act”) is dismissed on the ground that the work performed by the Appellant from April 10 to October 8, 2005, was not done under a true contract of service within the meaning of paragraph 5(1)(a) of the Act, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 4th day of September 2007.
+“Alain Tardif”
+Tardif J.
+Translation certified true
+on this 26th day of September 2007.
+Daniela Possamai, Translator
+Citation: 2007TCC473
+Date: 20070904
+Docket: 2006-1071(EI)
+BETWEEN:
+JOSÉE LAVOIE,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+9153‑6037 QUÉBEC INC.,
+Intervener.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Tardif J.
+[1] This is an appeal from a decision under paragraph 5(2)(i), subsection 5(3) and sections 91 and 93 of the Employment Insurance Act (the “Act”), dated February 14, 2006, according to which the work performed by the Appellant from April 10 to October 8, 2005, was not insurable employment.
+[2] The Minister of National Revenue (the “Minister”) based his decision on the following assumptions of fact:
+[TRANSLATION]
+The Appellant and the payor are related within the meaning of the Income Tax Act because
+(a) the voting shares of the payor were held by
+- Martin Munger, with 75% of the shares; (admitted)
+- the Appellant, with 25% of the shares; (admitted)
+(b) Martin Munger is the Appellant’s spouse; (admitted)
+(c) the Appellant is related to a person who controls the payor. (admitted)
+. . .
+(a) the payor operates the restaurant Le Grillon situated in L'Anse St-Jean; (admitted)
+(b) the restaurant serves fast food and offers a “special of the day” on a daily basis; (admitted)
+(c) the restaurant is situated next to a campground; it has 34 indoor seats with table service and a few outdoor seats; (admitted)
+(d) the Appellant acquired the restaurant in 2003 and personally operated it during the 2003 and 2004 seasons; (admitted)
+(e) after renovating the inside and outside of the restaurant, the Appellant and her spouse incorporated, on April 1, 2005, 9153‑6037 Québec Inc. to continue operating the restaurant Le Grillon; (admitted)
+(f) although the building and the equipment remained the property of the Appellant, the payor pays her rent for their use; (admitted)
+(g) the payor has annual revenues of approximately $80,000; (admitted)
+(h) the payor operates the restaurant from April to October but its peak season is from June to Labour Day; (admitted)
+(i) during the peak season, the payor opens the restaurant seven days a week, from 7 a.m. until about midnight; (admitted)
+(j) in addition to the Appellant, the payor hired three other people; (admitted)
+(k) the Appellant acted as the restaurant’s manager and her main duties consisted of
+- working in the kitchen,
+- managing staff
+- doing the bookkeeping,
+- serving tables,
+- overseeing orders and inventory,
+- hiring staff and establishing work schedules;
+(admitted)
+(l) the Appellant signed the majority of cheques on behalf of the payor; only one signature was required; (admitted)
+(m) the Appellant worked almost always at the restaurant but she did the bookkeeping at her home; (admitted)
+(n) during the period at issue, Martin Munger was employed full-time with Bell Canada; (admitted)
+(o) he occasionally rendered services to the payor, in the evenings and on weekends, but was never paid by the payor; (admitted)
+(p) at the beginning of the season, the Appellant was paid $7.55 per hour, from May to mid‑June, she was paid $8.00 per hour and then her hourly rate increased to $12.00; (admitted)
+(q) at the beginning of the season, the Appellant was paid for 20 to 30 hours per week and then, she was paid based on 40 hours per week; (admitted)
+(r) the Appellant could work up to 14 hours per day, on average 70 hours per week, while only getting paid for 40 hours per week; (admitted)
+(s) between the period during which she operated the restaurant herself (seasons 2003 and 2004) and the period during which the restaurant was operated by the payor, the Appellant’s duties remained the same; (admitted)
+(t) on January 26, 2006, during a telephone conversation with an officer of the Respondent, Mr. Munger mentioned that they would have had to hire two people to do the Appellant’s job and that, according to him, no one other than the Appellant would have agreed to do that much work if he or she were not the owner; (admitted)
+(u) on January 25 and 26, 2006, during telephone conversations with an officer of the Respondent, the Appellant mentioned that a stranger would have never been able to fill a similar position as a stranger would have never agreed to put in so much volunteer work for the company. (admitted)
+[3] Martin Munger, holder of 75% of the shares of the intervener company, testified, as did the Appellant.
+[4] Before the Appellant and her spouse testified, I explained the procedure to them at length, as well as the nature of the evidence they needed to submit in order to succeed. I particularly stressed that the evidence had to demonstrate that the contract of employment and terms and conditions of employment were similar to those that would have existed had the employee been dealing with the employer at arm’s length.
+[5] I also stressed that the decision with which the Appellant disagreed was one which resulted from the exercise of a discretionary power; it was therefore important that the Appellant prove that the investigation and analysis were incomplete or marred by mistakes and flaws. In other words, the Appellant had to demonstrate that certain facts were overlooked, forgotten or underestimated during the analysis.
+[6] Considering the complexity of these concepts, I even took the initiative to provide examples to illustrate the importance of proving that the employment at issue would have had similar terms and conditions had the employer and payor been dealing with each other at arm’s length.
+[7] Despite the explanations and warnings, after being sworn in, the Appellant admitted all the assumptions of fact on which the decision was made.
+[8] The following admitted paragraphs are particularly detrimental to the conclusions sought by the Appellant:
+(l) the Appellant signed the majority of cheques on behalf of the payor; only one signature was required;
+(m) the Appellant worked almost always at the restaurant but she did the bookkeeping at her home;
+. . .
+(p) at the beginning of the season, the Appellant was paid $7.55 per hour, from May to mid‑June, she was paid $8.00 per hour and then her hourly rate increased to $12.00;
+(q) at the beginning of the season, the Appellant was paid for 20 to 30 hours per week and then, she was paid based on 40 hours per week;
+(r) the Appellant could work up to 14 hours per day, on average 70 hours per weeks, while only getting paid for 40 hours per week;
+. . .
+(t) on January 26, 2006, during a telephone conversation with an officer of the Respondent, Mr. Munger mentioned that they would have had to hire two people to do the Appellant’s job and that, according to him, no one other than the Appellant would have agreed to do so if he or she were not the owner;
+(u) on January 25 and 26, 2006, during telephone conversations with an officer of the Respondent, the Appellant mentioned that a stranger would have never been able to fill a similar position as a stranger would have never agreed to put in so much volunteer work for the company.
+[9] Very surprised by the admissions, I again indicated to the Appellant and her spouse that I had to deal with the appeal based on the evidence they would submit.
+[10] Neither the Appellant nor her spouse added anything relevant. They obviously stated that they told the truth and that they were fundamentally honest, which the Court unhesitatingly recognizes.
+[11] The determining factors of the evidence result from the unequivocal admissions by the Appellant, also confirmed by her spouse. The admissions fully confirm and justify the merits of the decision under appeal; moreover, the evidence submitted did not reveal any facts or elements likely to discredit the merits of the decision leading to this appeal.
+[12] There is no doubt that a person dealing at arm's length would have never agreed to do the same work under the same conditions. Despite the division of shares, the Appellant participated in the management of the company of which her spouse held 75% of the shares just as if she were the sole shareholder.
+[13] In order to succeed, the Appellant had to demonstrate that the decision giving rise to the appeal was patently unfounded and that the work at issue was performed in a manner similar to that which would have been performed by a third party.
+[14] Since the Appellant did not submit the required evidence, the appeal must be dismissed.
+Signed at Ottawa, Canada, this 4th day of September 2007.
+“Alain Tardif”
+Tardif J.
+Translation certified true
+on this 26th day of September 2007.
+Daniela Possamai, Translator
+CITATION: 2007TCC473
+COURT FILE NO.: 2006-1071(EI)
+STYLE OF CAUSE: JOSÉE LAVOIE AND MNR
+PLACE OF HEARING: Jonquière, Quebec
+DATE OF HEARING: May 8, 2007
+REASONS FOR JUDGMENT BY: The Honourable Justice Alain Tardif
+DATE OF JUDGMENT: September 4, 2007
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Vlad Zolia
+Agent for the Intervener:
+Pierre Pilotte (absent)
+COUNSEL OF RECORD:
+For the Appellant:
+For the Intervener:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

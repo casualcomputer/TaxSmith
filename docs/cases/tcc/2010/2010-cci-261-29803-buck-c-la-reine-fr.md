@@ -1,0 +1,153 @@
+---
+title: "Buck c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29803/index.do"
+last_modified: "2010-05-11"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 CCI 261"
+citation2: ""
+neutral_citation: "2010 CCI 261"
+decision_date: "2010-05-11"
+language: "fr"
+item_id: "29803"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6609
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T12:59:46.118000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "ee80d9d1c81c91e7a757de171c008f6943bdcb02608eee4f1c35b789da204735"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Buck c. La Reine
+
+- Citation: 2010 CCI 261
+- Decision date: 2010-05-11
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6609, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Buck c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2010-05-11
+Référence neutre
+2010 CCI 261
+Numéro de dossier
+2009-853(IT)I
+Juges et Officiers taxateurs
+Eric A. Bowie
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2009-853(IT)I
+ENTRE :
+DARRYL BUCK,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels entendus les 26 et 27 avril et décision rendue à l’audience le 28 avril 2009 à North Bay (Ontario).
+Devant : L’honorable juge E.A. Bowie
+Comparutions :
+Avocat de l’appelant :
+Me Gregory J. Ducharme
+Avocate de l’intimée :
+Me Mélanie Sauriol
+____________________________________________________________________
+JUGEMENT
+Les appels interjetés à l’encontre des nouvelles cotisations établies en vertu de la Loi de l’impôt sur le revenu (la « Loi ») pour les années d’imposition 2004 et 2005 sont accueillis et les nouvelles cotisations sont renvoyées au ministre du Revenu national pour nouvel examen et nouvelles cotisations, en tenant compte du fait que les avantages à considérer dans l’établissement des cotisations de l’appelante en vertu du paragraphe 15(1) de la Loi sont de 3 640 $ pour 2004 et de 7 790 $ pour 2005.
+Chaque partie assumera ses propres dépens.
+Signé à Ottawa, Canada, ce 11e jour de mai 2010.
+« E.A. Bowie »
+Juge Bowie
+Traduction certifiée conforme
+ce 29e jour de juin 2010.
+Espérance Mabushi, M.A.Trad. Jur.
+Référence : 2010 CCI 261
+Date : 20100511
+Dossier : 2009-853(IT)I
+ENTRE :
+DARRYL BUCK,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Bowie
+[1] Le 28 avril 2010, j’ai rendu un jugement à l’audience relativement au présent appel interjeté sous le régime de la procédure informelle. À ce moment là, j’ai demandé aux parties de présenter des observations écrites au sujet des dépens et elles l’ont fait.
+[2] Dans l’avis d’appel, les nouvelles cotisations que le ministre avait établies à l’égard de l’appelant en vertu de la Loi de l’impôt sur le revenu (la « Loi ») pour les années d’imposition 2004 et 2005 étaient remises en question. Plus précisément, il était contesté dans la réponse, l’ajout au revenu de l’appelant des montants suivants :
+2004
+2005
+Frais pour droit d’usage de l’automobile
+4 757 $
+4 757 $
+Frais d’utilisation d’une automobile
+1 217 $
+1 432 $
+5 974 $
+6 189 $
+Rémunération versée aux enfants de l’appelant (avantage conféré à un actionnaire)
+10 920 $
+23 370 $
+16 894 $
+29 559 $
+[3] L’instruction a commencé le 26 avril 2010. Le mercredi 21 avril, l’avocat de l’appelant a avisé l’avocate de l’intimée du fait que la question des avantages relatifs à une automobile sera abandonnée à l’audience et il a adressé à la Cour une déclaration dans ce sens le 26 avril, au début de l’audience. L’examen de l’affaire a porté uniquement sur la question de la rémunération versée aux enfants (avantage conféré à un actionnaire) et l’affaire a été clôturée le mardi 27 avril. Le jugement rendu le 28 avril ramenait l’avantage pris en compte pour l’établissement de la cotisation à 3 640 $ pour 2004 et à 7 790 $ pour 2005, soit un montant total de 11 430 $.
+[4] L’appelant demande que les dépens lui soient adjugés, et se fonde sur le fait qu’il a eu gain de cause à hauteur de 66 2/3 % du montant en cause, dès lors que la question des avantages relatifs à une automobile n’était plus en cause. L’appelant soutient ensuite que même si on devait tenir compte de la question de l’automobile, il aurait eu gain de cause à hauteur de 49,2 %, ce qui est suffisant pour que les dépens lui soient adjugés en l’espèce.
+[5] L’article 18.26 de la Loi sur la Cour Canadienne de l’impôt est la disposition pertinente qui régit l’adjudication des dépens pour les appels en matière d’impôt sur le revenu interjetés sous le régime de la procédure informelle. Voici la teneur de cette disposition :
+18.26(1) La Cour peut, sous réserve de ses règles, ordonner le paiement des frais et dépens. Elle peut notamment en allouer à l’appelant si le jugement réduit de plus de la moitié le total de tous les montants en cause ou des intérêts en cause, ou augmente de plus de la moitié le montant de la perte en cause.
+18.26(2) […]
+L’article 2.1 définit l’expression « le total de tous les montants » de la manière suivante :
+2.1 Pour l’application de la présente loi, « total de tous les montants » s’entend du total de tous les montants déterminés par le ministre du Revenu national en vertu de la Loi de l’impôt sur le revenu ou à l’égard desquels il a établi une cotisation, à l’exception toutefois des intérêts ou des pertes déterminés par ce ministre.
+[6] Comme c’est souvent le cas, ni les cotisations ni les déclarations produites par l’appelant n’ont été présentées à la Cour. Par conséquent, je ne connais pas les montants de l’impôt établi par le ministre. Tout ce que l’on sait, ce sont les montants des avantages sur lesquels sont fondées les nouvelles cotisations et l’issue des présents appels. En pareilles circonstances, tout ce que je peux faire est de supposer que la réduction de l’impôt établi et la réduction des avantages pris en compte dans l’établissement des cotisations seront dans une proportion égale.
+[7] A mon avis, la détermination du total de tous les montants en litige doit être fondée sur les actes de procédure tels qu’ils existaient au début de l’audience. Si on part de ce fondement, le montant ajouté au revenu de l’appelant au moyen du processus d’établissement des nouvelles cotisations était de 46 453 $. Le jugement a réduit ce montant de 22 860 $, ce qui représente 49,2 %.
+[8] Il appartient à l’appelant qui demande l’adjudication des dépens en sa faveur au titre du paragraphe 18.26(1), de prouver que la réduction du total de tous les montants en cause est de plus de moitié. Je ne puis tirer une telle conclusion en me fondant sur les éléments de preuve dont je dispose. Chaque partie assumera ses propres dépens.
+Signé à Ottawa, Canada, ce 11e jour de mai 2010.
+« E.A. Bowie »
+Juge Bowie
+Traduction certifiée conforme
+ce 29e jour de juin 2010.
+Espérance Mabushi, M.A.Trad. Jur.
+RÉFÉRENCE : 2010 CCI 261
+No DU DOSSIER DE LA COUR : 2009-853(IT)I
+INTITULÉ : DARRYL BUCK
+et
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : North Bay (Ontario)
+DATE DE L’AUDIENCE : Le 26 avril 2010
+MOTIFS DU JUGEMENT : L’honorable juge E.A. Bowie
+DATE DU JUGEMENT : Le 11 mai 2010
+COMPARUTIONS :
+Avocat de l’appelant :
+Me Gregory J. Ducharme
+Avocate de l’intimée :
+Me Mélanie Sauriol
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom : Gregory J. Ducharme
+Cabinet : Wallace Klein Partners in Law LLP
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada

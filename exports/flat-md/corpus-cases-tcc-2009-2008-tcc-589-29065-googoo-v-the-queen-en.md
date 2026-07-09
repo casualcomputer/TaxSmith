@@ -1,0 +1,521 @@
+---
+title: "Googoo v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29065/index.do"
+last_modified: "2009-01-30"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 TCC 589"
+citation2: ""
+neutral_citation: "2008 TCC 589"
+decision_date: "2009-01-30"
+language: "en"
+item_id: "29065"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6812
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T01:37:33.608000+00:00"
+cases_cited_count: 2
+cases_citing_count: 7
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "f4b62da139ed60efa6c32d84102ae42de51f8ee63c0fe62237395182b4ccd3e5"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Googoo v. The Queen
+
+- Citation: 2008 TCC 589
+- Decision date: 2009-01-30
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6812, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Googoo v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2009-01-30
+Neutral citation
+2008 TCC 589
+File numbers
+2007-49(IT)I
+Judges and Taxing Officers
+Eugene P. Rossiter
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2007-49(IT)I
+BETWEEN:
+MAUREEN GOOGOO,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+____________________________________________________________________
+Appeals heard on September 8, 9, 10, 11 and 12, 2008
+at Halifax, Nova Scotia
+By: The Honourable Associate Chief Justice E. P. Rossiter
+Appearances:
+Counsel for the Appellant:
+Eric Lay
+Counsel for the Respondent:
+Gordon Bourgard
+John Shipley
+____________________________________________________________________
+JUDGMENT
+It is ordered that the appeals from the reassessments made under the Income Tax Act for the 2000 and 2001 taxation years are dismissed, without costs, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 2nd day of February, 2009.
+“E.P. Rossiter”
+Rossiter, A.C.J.
+Docket: 2007-496(IT)I
+BETWEEN:
+DELORES JOYCE MAGUIRE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+____________________________________________________________________
+Appeals heard on September 8, 9, 10, 11 and 12, 2008
+at Halifax, Nova Scotia
+By: The Honourable Associate Chief Justice E. P. Rossiter
+Appearances:
+Counsel for the Appellant:
+Eric Lay
+Counsel for the Respondent:
+Gordon Bourgard
+John Shipley
+____________________________________________________________________
+JUDGMENT
+It is ordered that the appeals from the reassessments made under the Income Tax Act for the 1999 and 2001 taxation years are dismissed, without costs, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 2nd day of February, 2009.
+“E.P. Rossiter”
+Rossiter, A.C.J.
+Docket: 2007-1710(IT)I
+BETWEEN:
+ELIZABETH GRANT,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+____________________________________________________________________
+Appeal heard on September 8, 9, 10, 11 and 12, 2008
+at Halifax, Nova Scotia
+By: The Honourable Associate Chief Justice E. P. Rossiter
+Appearances:
+Counsel for the Appellant:
+Eric Lay
+Counsel for the Respondent:
+Gordon Bourgard
+John Shipley
+____________________________________________________________________
+JUDGMENT
+It is ordered that the appeal from the reassessment made under the Income Tax Act for the 2001 taxation year is dismissed, without costs, in accordance with the Reasons for Judgment.
+Signed at Ottawa, Canada, this 2nd day of February, 2009.
+“E.P. Rossiter”
+Rossiter, A.C.J.
+Docket: 2007-4037(IT)I
+BETWEEN:
+BRIDGET A. SMITH,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+____________________________________________________________________
+Appeals heard on September 8, 9, 10, 11 and 12, 2008
+at Halifax, Nova Scotia
+By: The Honourable Associate Chief Justice E. P. Rossiter
+Appearances:
+Counsel for the Appellants:
+Eric Lay
+Counsel for the Respondent:
+Gordon Bourgard
+John Shipley
+____________________________________________________________________
+JUDGMENT
+It is ordered that the appeals from the reassessments made under the Income Tax Act for the 1998, 1999, 2000 and 2001 taxation years are dismissed, without costs, in accordance with the Reasons for Judgment.
+Signed at Ottawa, Canada, this 2nd day of February, 2009.
+“E.P. Rossiter”
+Rossiter, A.C.J.
+Docket: 2007-846(IT)I
+BETWEEN:
+TRINA ROACHE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+____________________________________________________________________
+Appeal heard on September 8, 9, 10, 11 and 12, 2008
+at Halifax, Nova Scotia
+By: The Honourable Associate Chief Justice E. P. Rossiter
+Appearances:
+Counsel for the Appellants:
+Eric Lay
+Counsel for the Respondent:
+Gordon Bourgard
+John Shipley
+____________________________________________________________________
+JUDGMENT
+It is ordered that the appeal from the reassessment made under the Income Tax Act for the 2001 taxation year is dismissed, without costs, in accordance with the Reasons for Judgment.
+Signed at Ottawa, Canada, this 2nd day of February, 2009.
+“E.P. Rossiter”
+Rossiter, A.C.J.
+Docket: 2007-2116(IT)I
+BETWEEN:
+B. RENEE MASHING,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+____________________________________________________________________
+Appeal heard on September 8, 9, 10, 11 and 12, 2008
+at Halifax, Nova Scotia
+By: The Honourable Associate Chief Justice E. P. Rossiter
+Appearances:
+Counsel for the Appellants:
+Eric Lay
+Counsel for the Respondent:
+Gordon Bourgard
+John Shipley
+____________________________________________________________________
+JUDGMENT
+It is ordered that the appeal from the assessment made under the Income Tax Act for the 2005 taxation year is dismissed, without costs, in accordance with the Reasons for Judgment.
+Signed at Ottawa, Canada, this 2nd day of February, 2009.
+“E.P. Rossiter”
+Rossiter, A.C.J.
+Docket: 2007-53(IT)I
+BETWEEN:
+NOEL KNOCKWOOD,
+Appellants,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+____________________________________________________________________
+Appeals heard on common evidence on September 8, 9, 10, 11 and 12, 2008
+at Halifax, Nova Scotia
+By: The Honourable Associate Chief Justice E. P. Rossiter
+Appearances:
+Counsel for the Appellants:
+Eric Lay
+Counsel for the Respondent:
+Gordon Bourgard
+John Shipley
+____________________________________________________________________
+JUDGMENT
+It is ordered that the appeals from the reassessments made under the Income Tax Act for the 2000 and 2001 taxation years are dismissed, without costs, in accordance with the Reasons for Judgment.
+Signed at Ottawa, Canada, this 2nd day of February, 2009.
+“E.P. Rossiter”
+Rossiter, A.C.J.
+Citation: 2008TCC589
+Date: 20090130
+Docket: 2007-49(IT)I
+BETWEEN:
+MAUREEN GOOGOO,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+Docket: 2007-496(IT)I
+AND BETWEEN:
+DELORES JOYCE MAGUIRE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+Docket: 2007-1710(IT)I
+AND BETWEEN:
+ELIZABETH GRANT,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+Docket: 2007-4037(IT)I
+AND BETWEEN:
+BRIDGET A. SMITH,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+Docket: 2007-846(IT)I
+AND BETWEEN:
+TRINA ROACHE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+Docket: 2007-2116(IT)I
+AND BETWEEN:
+B. RENEE MASCHING,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+Docket: 2007-53(IT)I
+AND BETWEEN:
+NOEL KNOCKWOOD,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Rossiter, A.C.J.
+[1] These appeals concern different taxation years for each of the Appellants, ranging from 1998 to 2005. At issue is the right to the exemption of income tax for Indians, pursuant to s. 87(1)(b) of the Indian Act and s. 81(1)(a) of the Income Tax Act. These appeals proceeded on the basis that some evidence was introduced as common evidence, while other evidence was introduced as specific only to certain Appellants.
+Introduction
+[2] The Appellants were status Indians and employees of Native Leasing Services (“NLS”). As employees of NLS they performed work and services which were thought to be for predominantly Aboriginal purposes with various placement organizations.
+[3] The Appellants claimed their personal property, employment income, was exempt from taxation by virtue of paragraph 87(1)(b) of the Indian Act, R.S.C. 1985, c.I-5. The Respondent disputed the exemption alleging that an application of the “connecting factors test” does not connect the property of the Appellants to a reserve and therefore is not exempt from taxation. The Appellants assert the property is situated on a reserve and therefore exempt from taxation. The Appellants were reassessed by the Minister of National Revenue (“Minister”) on the basis their income was not situated on a reserve.
+Issue
+[4] The issue common to all appeals is whether the employment income earned by the Appellants is “the personal property of an Indian… situated on a reserve” within the meaning of paragraph 87(1)(b) of the Indian Act, and therefore exempt from taxation pursuant to paragraph 81(1)(a) of the Income Tax Act, R.S.C. 1985, c. I (5th Supplement) (“ITA”).
+Facts
+1. Facts Common To All Appeals:
+[5] Mr. Roger Obonsawin is a status Indian member of the Odanak Band of the Wabenaki Nation which has a membership in Quebec and the United States. He has never lived on a reserve. Mr. Obonsawin lives with Ms. Ljuba Irwin, his life partner, in both personal and business aspects. Ms. Irwin is a non‑Aboriginal person and is the Executive Director of NLS. Ms. Irwin resides in Toronto as does Mr. Obonsawin to some extent. As a non‑Aboriginal person, Ms. Irwin cannot live on a reserve and Mr. Obonsawin does not and cannot live on the Six Nations Reserve as he is not a member of the Six Nations Reserve. The NLS Administrative office is located on the Six Nations Reserve. All of the Appellants were members of reserves or nations different than Mr. Obonsawin’s and all of the Appellants, except for Renee Masching, were members of different reserves other than the Six Nations Reserve.
+[6] Mr. Obonsawin became involved with Native Friendship Centres (“NFC”) while attending Ryerson College. NFC’s are mainly located in urban areas and as such most of their services, such as cultural activities, day care centres and private counseling for Aboriginals, are provided off reserve. He eventually became Executive Director of a NFC in Red Lake, Ontario, from 1972 to 1974, working in housing advocacy delivered in an Aboriginal, cultural, and relevant manner. He later became President of the National Association of Friendship Centres in Ottawa, followed by a term as Executive Director of the Association, and then seven years as Executive Director of the Toronto Indian Centre working with youth on educational initiatives and becoming involved in a task force for urban services. In 1981, Mr. Obonsawin formed a consulting company, O.I. Employment Leasing Inc. (“O.I.”) which provided consulting to Native communities, with financial support from federal and provincial grants. In 1987, Mr. Obonsawin decided to enter into Native leasing and established NLS as a sole proprietorship. NLS provides services to the Native sector while O.I. provides services to the non-Native sector, with both entities being owned by Mr. Obonsawin.
+[7] The concept of the leasing services allowed Native persons employed with a placement organization to become employees of NLS. NLS would then lease their services back to the placement organization. NLS accepted responsibility for and liability of the employee but the employee worked in and reported to the placement organization and received work assignments from the placement organization. NLS would invoice the placement agency for the salary and benefits of the employee and be paid a service fee of approximately 5%, which was sometimes paid by the placement organization and or by the latter and the employee.
+[8] Mr. Obonsawin used his contacts with placement organizations to promote NLS. Because of his long history with NFCs, Mr. Obonsawin targeted them as clients. In his recruiting publicity he stated that if the services of NFC’s were mainly provided off the reserve, one of the features that NLS could provide was a link to a reserve for tax exemption purposes. In marketing to prospective NLS employees, Mr. Obonsawin would emphasize the advantages he thought were offered by NLS including support services, a benefit package, training and the tax exempt status for Indian employees. Mr. Obonsawin felt that there was a need for strengthening of the NFC’s programs, by providing a better system for training and for educating staff. Taxation exemption was one way to accomplish the purposes.
+[9] The NLS advantage that caught the attention of a placement organization and its employees was indeed tax exemption for status Indians employees. In effect, the placement organization’s Native employees would become employees of NLS and provide the same services to the placement organization as they did previously but with a different legal employer, NLS. The placement organization could provide a salary level higher in reality, than others, because the employees, if status Indians, were getting their salary exempt of tax. NLS completed all employee paperwork, including the payroll and source deductions and provided human resources support. If an employee became problematic the placement organization would inform NLS, would attempt to resolve the issue(s) and, if the issue(s) could not be resolved, then the employee was terminated. NLS would then follow through with employment counseling.
+[10] Once a Native employee of a placement organization became an employee of NLS, the employee would provide an executed release of liability form to the placement organization. A standard placement agreement was generated by NLS Human Resources defining the lease position, the annual cost, the relationship, notices if there was termination of the relationship, as well as confidentiality and conflict of interest issues. The Agreement would be sent to a placement organization for signature and returned to NLS for the signature of Mr. Obonsawin. The contractual obligations by NLS to the placement organizations were basically to provide payroll services, training, and some benefits as well as some human resources services. Once the placement agreement completed, a contract of employment was also completed for each of the employees.
+[11] The contract of employment is particular with respect to the benefits chosen by the employee. Employment Insurance and Canada Pension Plan deductions were not options of the employee as NLS was responsible for source deductions. NLS handled all remittances, did all the filings, dealt with modified work and return to work, kept track of vacation pay as well as paid leave or time off and was responsible for compliance with all employer standards legislation.
+[12] Mr. Obonsawin obtained a business address for NLS where it performed most of its business operations on Six Nations Reserve because he thought the location of the employer may be of significance in the cases presently before the courts with respect to the potential tax exemption available to status Indians. All NLS files including financial and staff records were kept at the Six Nations Reserve office. NLS also had an office in Toronto where some of NLS’s administrative work was carried out.
+[13] If a placement organization wanted to terminate its relationship with NLS, the employees were paid up to the final day with NLS including vacation pay. If an employee was terminated, NLS would try to place the employee with another organization depending on what was available. The assistance provided to terminated employees was limited to information about Native employment opportunities. NLS issued bi-weekly newsletters which showed opportunities that were available for employees.
+[14] In any dispute between leased employees and the placement organization the initial contact would be with a NLS Human Resources staff. They would receive the complaint, define the issues, and speak with the employee and the placement organization. If the issue was straightforward, they dealt with it, if not they would go to a labour lawyer.
+[15] Mr. Obonsawin felt that training was a benefit to NLS employees as it was provided free by NLS. According to Mr. Obonsawin this made it attractive for the placement organizations to do business with NLS. In 1996 NLS only paid $3,979 in training and in 1997, $5,910, even though NLS had hundreds of employees. Training was contracted out by NLS and provided by non‑Native entities (except for the Ojibuay Language Conference and a Counseling Workshop). No training was provided on a reserve and attendees could be Native or non-Native. None of the Appellants took any of the training offered. NLS would pay for the training registration but the wages and travel of the employees would be paid by the placement organization and the training would be treated as a work day. Also, the placement organizations provided some training to their own employees. The training provided by the placement organization was specific to the job services provided while the training provided by NLS through non-Native entities was more generic in nature. NLS did not know what training was needed by employee X or if employee X would benefit from any particular training. Employees would have an opportunity to file a training registration form, with their placement organization supervisor’s approval.
+[16] NLS was generally paid four weeks in advance by the placement organizations and this payment was NLS’ only source of revenue. The placement organization would deposit invoice payments at a CIBC via a Rapidtrans Account which allowed the invoice payments to go into the account of NLS through a nearby CIBC close to the placement organization. NLS would receive time cards from placement organizations and then pay the employees of NLS accordingly, the following week. Payroll services by NLS to their employees were initially contracted out by NLS to CIBC, then to ComCheque and then to Certidian, all of which were non-Native and all of which operated off the reserve. The NLS benefit package was out‑sourced to Great‑West Life and Rice Financial, both non-Native institutions who also perform their business off the reserve.
+2. Facts Applicable to Delores Joyce Maguire – 2007-496(IT)I
+[17] The taxation years at issue are 1999 and 2001. Ms. Delores Joyce Maguire was born and raised on the Glooscap First Nation Reserve. At the age of 19 she married into another culture and lost her Indian status under the Indian Act. Since her marriage, Ms. Maguire has not lived on a reserve but she ultimately regained her Indian status.
+[18] Ms. Maguire became an addictions counselor in and about the Native community. As such she was responsible for members of the community who wanted to pursue addiction treatment workshops and counseling. She became a band employee of Native Alcohol Drug Abuse Counseling Association of Nova Scotia (“NADA”) headquartered at the Eskasoni Reserve with her office on the Glooscap First Nation reserve. Ms. Maguire became interested in Fetal Alcohol Syndrome (FAS) and became a FAS Coordinator in NADA, bringing FAS programs to thirteen First Nation communities.
+[19] In May 1999, Ms. Maguire took a leave of absence from her employment with NADA to become FAS Coordinator for a conference sponsored by the Mi’kmaq Native Friendship Society (“MMNFS”). This conference, in October 1999 in Halifax, Nova Scotia, was organized in part by Ms. Maguire. Aboriginal and non‑Aboriginal people from all over Canada attended the conference.
+[20] From October 1999 to June 2000, Ms. Maguire acted as an FAS Coordinator, developing FAS programs accessibility to the community. She developed pamphlets and resources for the communities and presented workshops. Although she was based out of Halifax, Nova Scotia, she conducted workshops across Canada. The program was funded by MMNFS which had obtained funding through the NFCS, Health Canada and other groups in Halifax.
+[21] From September 2000 to August 2001, Ms. Maguire worked under the Aboriginal Healing Foundation providing programs for workshops so communities could understand the link between FAS and residential schools, and how residential schools impacted the Natives. The programs were intended to develop healing tools and offer resources for the community.
+[22] Ms. Maguire was involved in a total of five workshops including:
+1) What was a residential school?
+2) FAS and its connection to residential schools;
+3) Welcome home reception;
+4) Women celebrating;
+5) Healing.
+Most of the workshops were delivered at separate times under no particular schedule in various communities. When not giving workshops she was dealing with FAS issues upon request, which was about 50% of her time.
+[23] Ms. Maguire paid 4% of her earnings as a service fee to NLS to become an employee of NLS. She felt that for the service fee she was paying to NLS, she received access to training but she did not take any, nor did she receive any extra benefits per se because she already had certain medical benefits through Health Canada. There were source deductions for Employment Insurance, Canada Pension Plan, Worker’s Compensation and vacation pay so the only benefit for her was the promised tax exemption status.
+[24] The MMNFS had presented NLS as an option to her in terms of employment while she was their employee. NLS officials were not members of the Glooscap First Nation nor did NLS have any offices at the Glooscap First Nation. Ms. Maguire had never been at the Six Nations Reserve nor was she a member of the Six Nations Reserve where NLS’ offices were located.
+[25] The Appellant Maguire gave a release to MMNFS for her employment in May 1999. She provided employment information to NLS on April 19, 1999, with a scheduled start date with NLS of May 3, 1999; her contract of employment with NLS showed her start date to be September 18, 2000. Even though her employment contract with NLS was dated September 18, 2000, the NLS signed a placement agreement with MMNFS on May 3, 1999 for the position that she was to occupy.
+[26] In 1999, Ms. Maguire received T4’s from MMNFS showing employment income of $29,240 which she declared in her 1999 T1. The Minister reassessed her adding $5,687 to her 1999 income as T4 income from NLS. In 2001, her declared income was adjusted by the Minister to include income from NLS of $27,541.
+3. Facts Applicable to Maureen Googoo – 2007-49(IT)I:
+[27] The taxation years at issue are 2000 and 2001. Ms. Maureen Googoo was born in Truro, Nova Scotia and raised by her parents on the Indian Brook First Nation Reserve. She was trained as a journalist receiving a B.A. with a Major in Political Science from St. Mary’s University in May 1992. She received a Bachelor of Applied Arts in Journalism at Ryerson University in Toronto in June 1994 and obtained a Masters in Journalism at Columbia University in 2006.
+[28] Ms. Googoo has worked in journalism for most of her life, initially as a CBC reporter in Saskatchewan, then as a reporter with the Chronical‑Herald Newspaper in Halifax, and from January 31, 2000 to 2006, with the Aboriginal Peoples Television Network (“APTN”).
+[29] The Government of Canada had established the Northern Broadcasting Policy and Northern Native Broadcast Access Program (“NNBAP”), which was introduced in a fund called the Northern Distribution Program (“NDP”) for the purposes of establishing and maintaining extensive radio networks since television groups still lacked an effective means of distribution. APTN was launched on September 1, 1999 as an established non-profit corporation, distributing broadcast national services to Aboriginal and northern audiences of over 9 million homes via cable television direct home and wireless service distributors.
+[30] APTN’s funding was provided for by NDP, maintaining services for 96 northern communities for Aboriginal language programs and satellite channels. APTN was the sole recipient of funding under NDP and transmitted CBC programming on the system to communities not served by CBC. It currently receives revenues from service subscribers; with a 21 member board almost half of whom are appointed to the board by the NNBAP, APTN is headquartered in Winnipeg with presentation centres in Yellowknife, Whitehorse and Iqualuit and newsrooms in Ottawa, Toronto, Halifax and Vancouver.
+[31] In 2003, APTN employed a staff of 84 of whom 72% were Aboriginal. It is the first and only national Aboriginal broadcaster in the world with the programming by, for and about Aboriginal peoples, shared with all Canadians as well as viewers around the world. APTN programs are aimed at both Aboriginal and non‑Aboriginal audiences, the programming including documentaries, news magazines, dramas, entertainment specials, children’s series, cooking shows and education programs, youth, cultural and traditional programming, music, drama, news and current affairs, Hollywood movies, as well as live coverage of special events and interactive programming.
+[32] When Ms. Googoo started her employment at APTN, she was to establish an APTN bureau in Halifax, but she did the job out of her parent’s home on the Indian Brook First Nation Reserve until October 2000 from which time she operated the APTN bureau in Halifax, until May 2005. Ms. Googoo was a status Indian with the Shubenacadie Reserve. She lived on the Indian Brook First Nation Reserve throughout as she thought it was good to cultivate sources in the community and she wanted to be near her parents.
+[33] Ms. Googoo was basically a one-person show for APTN in Halifax. She covered Aboriginal events and news of Aboriginal peoples; she would go into the field, shoot video, conduct and tape interviews, edit the script when and if required, record same and then ship it to Winnipeg, Manitoba, for additional editing. During any given week she would usually spend a day lining up a story and then doing the story the next day, the following day returning from the site, and doing the story line and necessary editing before shipping the story to Winnipeg.
+[34] In carrying out her duties, Ms. Googoo would attend at various locations in Atlantic Canada where there would be major news stories. In following the major news stories, there would be other news outlets also on‑site including CTV and CBC. There was an arrangement made between APTN and CTV to the effect that CTV paid APTN $300,000 for five years to set up bureaus across the country; APTN would share facilities and feed news items to CTV, upon request.
+[35] In addition to traveling to various places in Atlantic Canada for major news stories, Ms. Googoo would also seek out and develop her own Aboriginal news stories. She would prepare and pitch a story to her APTN supervisor for approval and then shoot the story herself. She would send her video to APTN’s office in Winnipeg for viewing, editing and publication and APTN would use the video for its weekly news broadcast.
+[36] Ms. Googoo became aware of NLS when she was taking her training with APTN. There was a presentation by Mr. Obonsawin and Ms. Dianne Irwin, the Executive Director of NLS, to APTN employees. The most appealing part of the presentation was the possibility that status Indians could receive their pay tax-exempt. She was told about the risk of signing up as an employee of NLS (that is, that the income may not be tax‑exempt) but she signed up with NLS in any event. Her feeling was that she was a status Indian and she was entitled to receive a tax‑free salary. She was paid electronically by NLS and would receive pay stubs in the mail along with newsletters, information with respect to other employment opportunities, and updates on court cases regarding tax exemption.
+[37] Ms. Googoo was an employee of NLS from March 2000 to October 31, 2001. In July 2001, employees of APTN were told that APTN would be terminating their agreement with NLS because the Minister had informed APTN that they could very well be liable for taxes of the employees. Once NLS’ agreement was terminated, Ms. Googoo received an immediate offer of employment from APTN and continued to work with APTN upon termination with NLS in the same position. When she signed her initial contract with NLS she declined the health benefits package.
+[38] As an NLS employee, she continued to fill in APTN timesheets for her APTN supervisor’s signature. She would accumulate her overtime and by December 29, 2000 had accumulated 18 days of overtime. Rather than being paid for overtime, the APTN supervisor told her to take the time in lieu. Training and development had to be approved by her APTN supervisor, with the course fee being paid for by APTN.
+[39] Ms. Googoo made a request for, and received a salary increase during her employment with NLS. She filled out a request for salary increases with APTN after her performance was evaluated by her supervisor at APTN, Bruce Spence, with the salary increase being retroactive to January 31, 2001. While working with APTN, Ms. Googoo used her own personal telephone, the telephone bills being reimbursed by APTN.
+[40] When she became an employee of NLS, she signed a release as employee of APTN, as well as an information sheet for NLS. This information sheet provided the particulars in relation to her full-time position, pay and start date. She agreed to pay a service fee (amount unknown to her) to NLS through payroll deductions.
+[41] Ms. Googoo found her arrangement with NLS both positive and beneficial because she was able to use NLS to get income tax‑free money; she felt that since she was raised on a reserve, section 87 of the Indian Act should apply to her.
+[42] The Minister reassessed Ms. Googoo for income earned from NLS and added $31,384 and $34,898 to her 2000 and 2001 taxation years respectively.
+4. Facts Applicable to Renee Masching – 2007-2116(IT)I:
+[43] The taxation year at issue is 2005. Ms. Renee Masching was born in Welland, Ontario and raised in St.Catharines and Mississauga, Ontario, in a non‑Aboriginal family, having been adopted when she was three months old. She is a status Indian and a member of the Six Nations Reserve with the Deleware First Nation. She was not aware of her Aboriginal background until the age of 18 at which time she pursued her ancestry and eventually was awarded her status under the Indian Act.
+[44] Ms. Masching had earned a Masters in Social Worker, a Bachelor of Social Worker and a Bachelor of Arts in Psychology, all from McMaster University in 2003 and 1994, respectively.
+[45] During her pursuit of Aboriginal status and her training, Ms. Masching became interested in the Aboriginal peoples, their problems and particularly the HIV/AIDS problems within the Aboriginal population.
+[46] In 2005, as a Research Technical Assistant with the Canadian Aboriginal AIDS Network Inc. (CAAN), she encouraged community based HIV/AIDS research. The research was conceived by management and directed by the community, working with academics and people in the communities with AIDS. The community representatives would include staff of Aboriginal AIDS organizations, Inuit organizations including nurses from the north, elders, family members and persons involved in Aboriginal addictions. Some of the organizations involved both Aboriginal and non‑Aboriginal peoples. Ms. Masching assisted in developing research skills in the community by doing community workshops and promoting cultural understanding through role modeling.
+[47] Ms. Masching has never lived on a reserve and at all times, worked from her home in Lawrencetown, Nova Scotia. In her employment she has traveled to Regina, Ottawa and Toronto to attend annual meetings as well as to her employer’s head office.
+[48] She had heard of the NLS through the MMNFS in Halifax. She says that in 2005 she was an employee of NLS, not the CAAN, her original employer. In 2005 all CAAN employees (Aboriginal and non-Aboriginal) were leased to NLS with all payroll for CAAN in 2005 being processed by NLS. It was NLS that oversaw her work in the broad context but the day-to-day instructions and work was with CAAN. In her evidence, Ms. Masching said if asked who she worked for, she would probably answer CAAN but technically her employer was NLS.
+[49] She had signed an employment contract with NLS and declined most benefits from NLS other than the statutory source deductions. She had given a variety of information to NLS and had instructed NLS not to deduct any income tax from her pay cheques. In 2005 she did not work on a reserve with CAAN. The work that she did was meant to be applicable across the country and was provided both on and off reserve throughout Canada, regardless of residency but always in the context of Aboriginals. CRA reassessed Ms. Masching with $15,084 in additional income from NLS for the 2005 taxation year.
+5. Facts Applicable to Trina Roache – 2007-846(IT)I:
+[50] The taxation year at issue is 2001. Ms. Trina Roache was born and raised in Halifax. She is a status Indian with the Glooscap First Nation. She obtained a B.A. in 1999 from Mt. St. Vincent University and a Bachelor of Journalism in 2000 from King’s College. She was a CBC radio reporter in Prince Edward Island from April 2000 to March 2001.
+[51] Ms. Roache began employment with APTN in March 2001 and immediately with NLS at that time, until October 31, 2001. Ms. Roache, became aware of NLS when she was taking training at the APTN, where Ms. Dianne Irwin and Mr. Obonsawin made a presentation regarding the fact that a status Indian could receive their pay tax-exempt. She admits being aware at the time that there was a risk to signing on with NLS, as an employee, since the tax‑exempt status may not hold up — in any event, she did sign on to be an employee with NLS. Under her employment contract with NLS, she paid them a service fee. She simultaneously held a consulting contract with APTN for the same pay, conducting the same services.
+[52] In July 2001, when APTN was told by the Minister that it could be liable for the income taxes of the employees of NLS, Ms. Roache terminated her contract and received an employment offer from APTN, continuing in the same position.
+[53] Like Ms. Googoo, Ms. Roache would accumulate overtime but was paid by APTN in time in lieu.
+[54] Ms. Roache was also a video‑journalist doing her own research, reporting and shooting. She was expected to do two stories per week but she did not do any editing at the time. She worked out of the APTN office in Halifax. No stories were handed to her; she had to generate her own story ideas, do her own research, line up the interviews, pursue with the filming, write up the stories and then ship the report out to APTN in Winnipeg, Manitoba. The coverage was focused on the Aboriginal peoples. She would pitch stories to her supervisor Bruce Spence and receive instructions from him. Other news outlets were present, including CBC, CTV and newspapers, but most of the stories were hers, concerning the Aboriginal communities in the Indian Brook Reserve, Esconia Reserve and Big Cove Reserve in Nova Scotia. She felt she was making a contribution to the life on the reserves with APTN, reporting stories about Aboriginal people to Aboriginal people.
+[55] Ms. Roache was reassessed for the 2001 year, where the Minister added $25,223 to her income gained from her NLS employment.
+6. Facts Applicable to Elizabeth Grant - 2007-1710(IT)I:
+[56] The taxation year at issue is 2001. Ms. Elizabeth Grant is a status Indian, born in St. John, New Brunswick where she was raised for ten years until she moved to Toronto, Ontario.
+[57] From 1975 to 1980, Ms. Grant, was employed as recreation director with the Native Council of Nova Scotia in Truro, Nova Scotia. For a brief period of time she was employed at a Friendship Centre in Toronto, Ontario, and then worked at the Native Council of Canada in 1985 in an administrative position. She took a leave from employment returning to the Native Council of Canada in 1994. In 1999, she moved to Nova Scotia and received some business ownership training on the Millbrook Reserve in Truro.
+[58] On January 8, 2001 Ms. Grant accepted a position with the Native Women’s Association of Canada (“NWAC”) at its Ottawa offices as Executive Assistant to the then President. The position ended with the resignation of the President on January 31, 2001 but because NWAC advised NLS that there was other employment for Ms. Grant, she continued to work with the NWAC as a research assistant, helping on a variety of ongoing projects, including research and statistics with respect to the Native women in Canada, until April 30, 2001.
+[59] The NWAC was founded to enhance, promote and foster the social, economic, cultural and political well-being of First Nations and Métis women within First Nation Métis and Canadian societies. The objectives of NWC included developing solutions for problems unique to Native women and promoting their interests across Canada, as well as studying, in conjunction with the Native organizations, problems confronting Native women. This also included making representations to the government on behalf of members of the provincial and territorial women’s organizations.
+[60] While working with NWAC, Ms. Grant was under a contract of employment dated January 8, 2001 with the NLS. When Ms. Grant signed her contract of employment with NLS, she agreed to pay a 4% service fee to NLS and to have this deducted from her payroll. Ms. Grant resided in Ottawa throughout the relevant period of time and her employment functions were not performed on a reserve.
+[61] Ms. Grant, was familiar with the services offered by NLS because she had been employed with them prior to her employment with NWAC. As a status Indian, she was able to acquire health benefits through Health Canada and as a result declined those offered to her by NLS. She was happy to be employed by NLS because of the benefits, particularly the possible tax exemption status, and being made aware of employment opportunities as they became available.
+[62] Once Ms. Grant’s employment with NWAC ended in April 30, 2001, she moved to Nova Scotia and obtained employment with the Nova Scotia Native Women’s Association on her own, without any assistance from NLS.
+[63] The Minister assessed Ms. Grant with an additional $13,039 in employment income from her employment with NLS in 2001.
+7. Facts Applicable to Noel Knockwood – 2007-53(IT)I:
+[64] The taxation years at issue are 2000 and 2001. Mr. Noel Knockwood is a status Indian, member of the Shubenacadie Band and was at all material times residing in Dartmouth, Nova Scotia, but not on a reserve.
+[65] Mr. Knockwood, worked at MMNFS as a language and cultural instructor performing his duties at the Child Development Centre and Friendship Centre in Halifax, Nova Scotia. The MMNFS is a not for profit Friendship Center which promotes social based programming for urban Aboriginal peoples while serving as a focal point for them, in a variety of community functions and events, and practicing an open door policy for all its programs and events. Its services were available to all people regardless of their background or cultural affiliation.
+[66] One of MMNFS’ objectives was to benefit the Native people in promoting education and cultural advancement for them, in and about the Halifax and Dartmouth areas. The MMNFS operated in downtown Halifax. It offered family support and counsel services for alcohol and drug abuse, as well as child care and programs such as a child development centre and health education and care of the elders, but these were not exclusively for Aboriginal people. There were also youth programs, youth training, adult training, employment support, computer training and other recreational programs.
+[67] The Child Development Centre where Mr. Knockwood was employed offered a variety of sub-programs including the Aboriginal day care program which provided children with opportunities to engage in play activities promoting their physical, social, emotional linguistic and cultural development with priority given to Aboriginal children but any remaining spaces being offered to non‑Aboriginal children.
+[68] The Community Action Plan for children was a mission to provide “family” based programming for the local urban Aboriginal community and the Aboriginal Head Start Program, which had for mission the preparation of urban Aboriginal children for entry into the public school system in the Halifax Regional Municipality. Mr. Knockwood taught anyone interested in the Aboriginal culture and language, both adults and children.
+[69] Mr. Knockwood had an initial contract of employment with NLS which commenced on June 15, 2000 and provided for statutory source deductions but not for group life or health insurance. A second contract of employment between Mr. Knockwood and NLS became effective on June 11, 2001, with basically the same terms as the original contract. Mr. Knockwood agreed to pay NLS a service fee on the contract. Correspondence was forwarded by MMNFS to NLS advising of Mr. Knockwood’s leave of absence and pay increases between April 1, 2001 and June 2001 while under contract with NLS. Mr. Knockwood was under the supervision of the children’s programs manager at MMNFS who in turn submitted his attendance report to NLS.
+[70] In 2000 and 2001, MMNFS employed some members directly and others through NLS.
+[71] The Minister reassessed Mr. Knockwood for the 2000 and 2001 years and added $11,912 and $10,994 to his employment income, respectively.
+8. Facts Applicable to Bridget A. Smith – 2007-4037(IT)I:
+[72] The taxation years at issue are 1998, 1999, 2000 and 2001. Ms. Bridget Smith is a status Indian and a member of the Eskasoni First Nation Reserve located in Eskasoni, Nova Scotia. At all material times, Ms. Smith resided in Ottawa and not on a reserve.
+[73] The Odawa Native Friendship Centre (“ONFC”) is a non-profit corporation in the Aboriginal community in and about the Ottawa-Carleton Region of Eastern Ontario, offering programs and services to the general public regardless of Aboriginal descent. Its mission was to enhance the quality of life of the Aboriginal peoples in the Capital region, maintain a tradition of community, an ethic of self-help and development, and to provide traditional teaching from its elders.
+[74] NLS entered into a placement agreement with ONFC. Ms. Smith’s first contract with NLS as a Family Support Worker with ONFC commenced on August 4, 1998. Under that contract, only statutory source deductions applied; she did not take any group life benefits. Ms. Smith paid NLS service fees under the contract. The contract ended January 14, 1999 at which time Ms. Smith was immediately re-hired by ONFC.
+[75] Ms. Smith’s second contract for employment with NLS as a Family Support Worker commenced on April 15, 1999, and again statutory source deductions applied; no group or health benefits were chosen by Ms. Smith. Another NLS Leased Employee Information sheet was completed by her on April 12, 1999, at which time she discharged ONFC from all claims relating to her employment with them. The Executive Director of ONFC awarded Ms. Smith retroactive pay increases on January 11, 2000 effective April 1, 1999 which was then reflected in NLS’s retroactive pay calculations. Ms. Smith’s pay was again increased, by the Executive Director of the ONFC on October 24, 2000, resulting in a NLS retroactive pay calculation. ONFC again increased Ms. Smith’s salary on April 1, 2002, resulting in a NLS retroactive pay calculation. Ms. Smith resigned as Family Support Program Coordinator of ONFC on October 31, 2002.
+[76] While Ms. Smith was an employee of NLS she was placed at the ONFC’s office in Ottawa where she submitted ONFC timesheets and was supervised by its directors. ONFC also conducted her performance appraisals and identified the training received and training requirements. While an employee of NLS, she continued to be insured and received group medical, dental and disability insurance under ONFC’s group insurance.
+[77] The Minister reassessed Ms. Smith additional amounts of $14,330, $26,007, $37,560 and $36,358.00 in employment income received from NLS respectively in 1998, 1999, 2000 and 2001.
+Position of the Appellants:
+[78] The Appellants each assert that their employment income while in the employ of NLS was personal property situate on a reserve and therefore exempt from taxation (given their status as Indians) pursuant to paragraph 87(1)(b) of the Indian Act and paragraph 81(1)(a) of the ITA. The Appellants in making this assertion argue that the Minister misinterpreted or misapplied the connecting factors test.
+Position of the Respondent:
+[79] The Respondent asserts that each of the Appellants’ employment income for the year in question was not situate on a reserve and therefore required to be included in the calculation of their income under the ITA.
+Relevant Legislation:
+[80] An exemption from payment of income tax is found in paragraph 81(1)(a) of the ITA:
+81.(1) – There shall not be included in the computing the income of a taxpayer for a taxation year,
+(a) – an amount that is declared to be exempt from income tax by any other enactment of Parliament, other than an amount received or receivable by an individual that is exempt by virtue of a provision contained in a tax convention or agreement with another country that has the force of law in Canada;
+[81] Paragraph 87(1) of the Indian Act provides for a declaration of exemption as follows:
+87(1) – Notwithstanding any other Act of the Parliament or any Act of the legislature of a province, but subject to section 83 and section 5 of the First Nations Fiscal and Statistical Management Act, the following property is exempt from taxation, namely:
+[…]
+(b) the personal property of an Indian or a band situated on a reserve.
+Connecting Factors Test:
+[82] In R. v. Nowegijick, [1983] 1 S.C.R. 29, the Supreme Court of Canada decided that property in section 87(1)(b) of the Indian Act included income. Mr. Justice Dickson stated at page 5 in part as follows:
+One point might have given rise to argument. Was the fact that the services were performed off the reserve relevant to situs? The Crown conceded in argument, correctly in my view, that the situs of the salary which Mr. Nowegijick received was sited on the reserve because it was there that the residence or place of the debtor, the Gull Bay Development Corporation, was to be found and it was there the wages were payable.
+This decision resulted in what has become known as the situs test.
+[83] In Williams v. Canada, [1992] 1 S.C.R. 877, the Supreme Court of Canada, established a series of connecting factors enabling the determination of the situs of the personal property. At paragraphs 37 and 38, the Court stated as follows:
+37 The approach which best reflects these concerns is one which analyzes the matter in terms of categories of property and types of taxation. For instance, connecting factors may have different relevance with regard to unemployment insurance benefits than in respect of employment income, or pension benefits. The first step is to identify the various connecting factors which are potentially relevant. These factors should then be analyzed to determine what weight they should be given in identifying the location of the property, in light of three considerations: (1) the purpose of the exemption under the Indian Act; (2) the type of property in question; and (3) the nature of the taxation of that property. The question with regard to each connecting factor is therefore what weight should be given that factor in answering the question whether to tax that form of property in that manner would amount to the erosion of the entitlement of the Indian qua Indian on a reserve.
+38 This approach preserves the flexibility of the case by case approach, but within a framework which properly identifies the weight which is to be placed on various connecting factors. Of course, the weight to be given various connecting factors cannot be determined precisely. However, this approach has the advantage that it preserves the ability to deal appropriately with future cases which present considerations not previously apparent.
+At paragraph 61, the Court continued:
+61 Determining the situs of intangible personal property requires a court to evaluate various connecting factors which tie the property to one location or another. In the context of the exemption from taxation in the Indian Act, there are three important considerations: the purpose of the exemption; the character of the property in question; and the incidence of taxation upon that property. Given the purpose of the exemption, the ultimate question is to what extent each factor is relevant in determining whether to tax the particular kind of property in a particular manner would erode the entitlement of an Indian qua Indian to personal property on the reserve.
+[84] In Mitchell v. Peguis Indian Band, [1990] 2 S.C.R. 85, the S.C.C. held that since the Royal Proclamation of 1763, the Crown has always acknowledged that it is honor bound to shield Indians from any efforts by non‑Natives to dispossess Indians of the property which they hold qua Indians, i.e. their land base and chattels on that land base.
+[85] The Court stated at paragraph 88:
+88 It is also important to underscore the corollary to the conclusion I have just drawn. The fact that the modern-day legislation, like its historical counterparts, is so careful to underline that exemptions from taxation and distraint apply only in respect of personal property situated on reserves demonstrates that the purpose of the legislation is not to remedy the economically disadvantaged position of Indians by ensuring that Indians may acquire, hold, and deal with property in the commercial mainstream on different terms than their fellow citizens. An examination of the decisions bearing on these sections confirms that Indians who acquire and deal in property outside lands reserved for their use, deal with it on the same basis as all other Canadians.
+The purpose of section 87 is not to remedy the economically disadvantaged position of Indians. In dealing with the issue of “on a reserve”, the Supreme Court of Canada in Mitchell quoted Justice A. Macfarlane in Leonard v. R. in Right of British Columbia, [1984] 4 C.N.L.R. 21, where Justice Macfarlane stated:
+It is a reasonable interpretation of the section to say that a tax exemption on the personal property of an Indian will be confined to the place where the holder of such property is expected to have it, namely on the lands which an Indian occupies as an Indian, the reserve. Indians who surrender their lands to non-Indians on lease give up the right to occupation, and when they own or possess personal property on those surrendered lands I think that they are in no different position than any other citizen.
+[86] In the Mitchell case, the Supreme Court of Canada continued at paragraph 91 to state in part as follows:
+. . . I have no doubt that it will normally be appropriate to take a fair and liberal approach to the problem whether the paramount location of tangible property or a chose-in-action is situated on the reserve;. . . But I would reiterate that in the absence of a discernible nexus between the property concerned and the occupancy of reserve lands by the owner of that property, the protections and privileges of ss. 87 and 89 have no application.
+The Court also noted that:
+These provisions are not intended to confer privileges on Indians in respect of any property they may acquire and possess, wherever situated. Rather, their purpose if simply to insulate the property interests of Indians in their reserve lands from the intrusions and interference of the larger society so as to ensure that Indians are not dispossessed of their entitlements.
+[87] The connecting factors test as initially established by the Supreme Court of Canada in Williams has been analyzed and applied many times by the Federal Court of Appeal including the following cases: Canada v. Folster, [1997] 3 F.C. 269; Southwind v. Canada, [1998] 2 C.N.L.R. 233; Amos v. Canada, [2000] 3 C.N.L.R. 1; Bell v. Canada, [2000] 3 C.N.L.R. 32; Desnomie v. Canada, [2000] F.C.J. No. 528; Monias v. R., [2001] 3 C.T.C. 244, 2001 D.T.C. 5450; Shilling v. M.N.R., [2001] F.C.J. No. 951; Akiwenzie v. Canada, [2003] T.C.J. No. 101 (QL); Horn v. Canada, 2008 FCA 352; [2008] F.C.J. No. 1553 (QL).
+[88] Of these, Shilling is particularly relevant to the connecting factors tying employment income to a reserve, and is relied upon by counsel in this appeal.
+[89] In Shilling, the Appellant had lived off the reserve, was employed by NLS and had been placed with a social services organization providing services to off‑reserve Natives in Toronto, Ontario. It was held that the only factor that connected her employment to a reserve was the location of her employer, NLS, on the Six Nations Reserve and that there was insufficient evidence as to the operations of NLS to allow the Court to conclude that this factor connected her employment income to a reserve in any significant way. The evidence was principally lacking as to: where NLS’ business was conducted in the years in question; the real nature of the employment relationship between the Appellant and NLS; and the benefits, if any, from Ms. Shilling’s employment which may have accrued to the reserve. The Court went on to find that the nature of the work performed by Ms. Shilling did not connect to a reserve and the fact that the nature of the employment was to provide services to Indians was insufficient to connect that employment to an Indian reserve. Given the purpose of paragraph 87(1)(b) of the Indian Act, provision of social services to off‑reserve Native peoples is insufficient justification for tax exemption under that particular provision. Ms. Shilling’s off-reserve residence, in this case, was a less significant factor.
+[90] In Shilling, the Court stated:
+31 Thus, in Folster v. Canada, [1997] 3 F.C. 269 (C.A.) and Bell v. Canada, [2000] 3 C.N.L.R. 32 (F.C.A.), the following factors were said to be potentially relevant in determining whether an Indian's employment income is situated on a reserve: the location or residence of the employer; the nature, location and surrounding circumstances of the work performed by the employee, including the nature of any benefit that accrued to the reserve from it; and the residence of the employee.
+32 The place where the employee was paid has also been considered a potentially relevant connecting factor, although not one that has been given much weight: Bell v. The Queen, 98 D.T.C. 1857 (T.C.C.), at paragraphs 45‑47. The Tax Court Judge's decision was upheld on appeal and his identification of the connecting factors approved: [2000] 3 C.N.L.R. 32, at paragraph 35 (F.C.A.).
+33 The weight to be assigned to any of these factors may vary according to the facts of any given case, even when the category of property in question (employment income) and the nature of the tax (income tax) are the same. Nonetheless, the case law suggests that particular attention should be given to the nature of the work performed by the employee, and the circumstances surrounding it. As Linden J.A. explained in Folster, supra, at para 27:
+In my view, having regard for the legislative purpose of the tax exemption and the type of personal property in question, the analysis must focus on the nature of the Appellant's employment and the circumstances surrounding it. The type of personal property at issue, employment income, is such that its character cannot be appreciated without reference to the circumstances in which it was earned. Just as the situs of unemployment insurance benefits must be determined with reference to its qualifying employment, an inquiry into the location of employment income is equally dependent upon an examination of all the circumstances giving rise to that employment.
+. . . . .
+42 We would also note that the head office of NLS was located on the Six Nations reserve. There is no evidence that NLS had any connection to the Rama Band of which Ms. Shilling was a member. We acknowledge that paragraph 87(1)(b) refers to personal property of an Indian that is situated on "a reserve" and not "the reserve" of the Indian in question. The Trial Judge inferred (paragraph 73) from this that an Indian's property situated on any reserve is eligible for the tax exemption conferred under paragraph 87(1)(b). However, we are not convinced that this meaning is compelled by the language of paragraph 87(1)(b), although we recognise that the personal property of an Indian may attract the benefits of section 87, even when, like Ms. Shilling, its owner does not reside on a reserve.
+43 In Desnomie v. The Queen (2000), 186 D.L.R. (4th) 718, at paragraph 21 (F.C.A.), it was doubted whether section 87 applies to personal property located on a reserve other than the taxpayer's own reserve. These doubts are reinforced by a passage in Leonard v. R. in Right of British Columbia (1984), 52 B.C.LR. 389, at 395 (C.A.), where Macfarlane J.A. seems to have taken the more restrictive view of the scope of section 87:
+It is a reasonable interpretation of the section to say that a tax exemption on the personal property of an Indian will be confined to the place where the holder of such property is expected to have it, namely on the lands which an Indian occupies as an Indian, the reserve.
+(Emphasis added to the word "the")
+This passage is quoted with approval by La Forest J. in Mitchell, supra, at page 132.
+44 While this is an important issue, in light of the factual gaps in the record in the case before us that prevent the location of the employer from being considered a significant factor, it is not necessary to decide how the words "a reserve" should be interpreted.
+45 One other issue respecting the location of the employer requires comment. That tax planning was the motivation for the respondent to enter into an employment relationship with NLS is not a concern in the absence of an allegation that either the transaction is a sham, or that the general anti-avoidance rule in section 245 of the Income Tax Act is applicable. The Crown has made no such allegation in this case. As the Trial Judge found, there should be no discounting of the weight to be accorded the on-reserve location of the employer because the employment by that employer was motivated by tax planning and a desire to avoid the payment of income tax. See Neuman v. Minister of National Revenue, [1998] 1 S.C.R. 770, at paragraph 39. On the other hand, in the absence of evidence which would support giving additional weight to this connecting factor, contracting with an on-reserve employer, whether motivated by tax planning or not, will be given only limited weight.
+. . . . .
+51 AHT appears to be a social services organization involved in preventative health care and other social assistance for off-reserve Native people in Toronto. The respondent's work benefits AHT and its off-reserve clientele. This is in stark contrast to Folster where the hospital's patients mostly lived on-reserve. As the Trial Judge found, merely because the nature of employment is to provide services to Indians does not connect that employment to an Indian reserve as a physical place.
+52 In finding that the nature of the respondent's duties are not a connecting factor to a reserve, we do not overlook the fact that the services provided are social services to Native people as opposed to employment in a for-profit enterprise. However, many not-for-profit social service organizations exist in Canadian cities. Employees of such organizations are not exempt from income tax. Given the limited purpose of paragraph 87(1)(b) of the Indian Act, the fact that the employment at issue involves providing social services to off-reserve Native people, is no reason for conferring preferred tax treatment under that provision.
+[91] From the foregoing cases, the following conclusions can be drawn:
+(1) Paragraph 87(1)(b)’s purpose is to protect from erosion by taxation the property, such as employment income, of individual Indians which they acquire, hold and use on the reserve. Its purpose is to achieve the preservation of property held by qua Indians on reserves so that their traditional way of life would not be jeopardized. It is the situs of its acquisition that is particularly important: (Monias v.R., supra).
+(2) As stated in Mitchell v. Pequis, “the purpose of the legislation is not to remedy the economically disadvantaged position of Indians by ensuring that the Indians may acquire, hold and deal with property in the commercial mainstream on different terms than their fellow citizens. […] Indians who acquire and deal in property outside lands reserved for their use, deal with it on the same basis as all other Canadians.”
+(3) Sections 87 and 89 “are not intended to confer privileges on Indians in respect of any property they may acquire and possess, wherever situated. Rather, they are to insulate the property interests of Indians in their reserve lands from the intrusions and interference of the larger society so as to ensure that Indians are not dispossessed of their entitlements”. (Mitchell v.Pequis Indian Band, supra)
+(4) The taxation of a status Indian’s income would not result in the erosion of his entitlement “qua Indian” on any or all reserves if there is insufficient connection between the income and a reserve (Akiwenzie v. Canada, supra).
+(5) As Justice Archambault stated in Desnomie, “the erosion of the entitlement of an Indian qua Indian on a reserve has to be determined by reference to the person whose income is involved and not by reference to the different reserves that are benefiting directly or indirectly from the services of this person.”
+(6) In order for an Indian’s employment income to come within the exemption of section 87, there must be a link between its acquisition and a reserve as the physical location or economic base. “Section 87 offers “…no protection in the absence of a discernable nexus between the property concerned and the accuracy of reserved land by the owner of that property,…”.” (Akiwenzie v. Canada, supra).
+(7) Even though the nature of an Indian’s work is in the assistance of reserve Indians when they move off the reserve, and even though the employer is a Native organization, these considerations do not necessarily connect the Appellant’s employment income to any particular reserve. (Desnomie v. Canada, supra)
+(8) In the absence of evidence of the scope of an employer’s activities on the reserve, and of a connection between the employee’s ensuing income and a reserve, little weight can be afforded to the fact that an Indian employee is working for an Indian employer, helping Indians, all of which are clearly located off the reserve. (Desnomie v. Canada, supra).
+(9) “In the absence of a discernable nexus between the property concerned and the occupancy of reserved land by the owner of the property, the protection and privileges of sections 87 and 89 have no application”. (Mitchell v. Peguis Indian Band, para. 91).
+(10) The first step is to identify the various connecting factors which are potentially relevant and which should be analyzed to determine what weight they should be given in identifying the location of the property, in light of the three considerations outlined in Williams v. Canada:
+(1) the purpose of the exemption under the Indian Act;
+(2) the type of property in question;
+(3) the nature of the taxation of that property.
+“The question […] is what weight should be given [each] factor in answering the question whether to tax that form of property in that manner would amount to the erosion of the entitlement of the Indian qua Indian on a reserve.”: (Williams v. R.)
+(11) The following factors, some of which are reiterated in Shilling at para. 31, “are potentially relevant in determining whether an Indian’s employment income is situated on a reserve”:
+(1) the location or residence of the employer;
+(2) the residence of the employee;
+(3) the place where an employee was paid;
+(4) the connection, if any, between the employer and the reserve of the employee.
+(5) the nature, location and surrounding circumstances of the work performed by the employee; and
+(6) the nature of any benefit from the employment income that accrued to the reserve.
+(12) “There should be no discounting of the weight to be accorded the on-reserve location of the employer because the employment by that employer was motivated by tax planning and a desire to avoid the payment of income tax. […] On the other hand, the absence of evidence which would support giving additional weight to this connecting factor, contracting with an on-reserve employer whether motivated by tax planning or not, will be given only limited weight.” (Shilling v. Canada, supra).
+(13) The mere fact that the nature of the employment is to provide services to Indians does not suffice to connect that employment to an Indian reserve; (Shilling v. Canada, supra).
+(14) The limited purpose of paragraph 87(1)(b) of the Indian Act is not such that employment involving the provisions of social services to off-reserve Native peoples will confer preferred tax treatment under that provision; (Shilling v. Canada).
+[92] I am of the view that the following connecting factors are applicable to this appeal in determining the situs of the property – the question remaining is what weight is to be attached to each of these:
+(1) The location of the employer, the scope of the employer’s activities on the reserve and the nature of any benefit accruing to a reserve from the location of the employer;
+(2) The residence of the employee;
+(3) The place or location of the payment of income in terms of whether or not there is a link between the acquisition of income and the reserve as a physical location or economic base;
+(4) The location of the employment. That is, any benefit accruing to the reserve as a result of the appellant’s employment by NLS;
+(5) The effect and change of the legal relationship to any particular reserve, by an employer;
+(6) The nature of the work performed and the circumstances surrounding the employment in terms of provision of services to Indians with or without a connection between that employment and a reserve as a physical place.
+Analysis
+[93] The Appellants argue that you must look for other ways to connect to a reserve other than simply using the connecting factors; it is the application of the test that must be modified. The Appellants basically submit the following:
+(1) The connecting factors’ test has been an increasingly restrictive set of constraints which has progressively limited the extent of the section 87 exemption for employment income;
+(2) As the connecting factor test has evolved, the test has come increasingly to reinforce assimilationist models of Aboriginal culture and identity, and to bear the hallmarks of discarded and discredited stereotypes of Aboriginal peoples; and
+(3) The connecting factors test has been interpreted in such a fashion as to effectively deprive status Indians of the ability to choose to order their affairs so as to fall within section 87.
+[94] The Appellants also assert that in this day and age, it is difficult for a status Indian to obtain a tax exemption when he or she lives and works off a reserve and that in essence, the reality today for a status Indian is that residing and working on a reserve is not a viable option. The Appellants suggest that the connecting factors really tie Aboriginals to a residence on a reserve and have made them dependent for employment on a reserve. The Appellants suggest that tax exemptions must be those which a Native can choose and so the most weight must be given to those factors that the Appellants control. The test really then should focus on the choice of the employee. The Appellants further suggest that so long as there exists a significant devotion by the employees to Aboriginal or Native causes, the location of the residence of the status Indian should not be of significance. These arguments and submissions are novel and deserve consideration but this consideration must rest with Parliamentarians who enacted section 87 and who are in a position to consider amendments to it.
+[95] Paragraph 87 of the Indian Act may not necessarily have evolved as expansively or as quickly as the Appellants desire but the Federal Court of Appeal and the Supreme Court of Canada jurisprudence simply does not support this type of analysis and approach to the tax exemption status of the Appellants under section 87. The Courts have developed and repeatedly applied a list of connecting factors which are considered important and applicable on a case by case basis. Each case is different in its facts and the Court must determine what weight to attach to each factor in applying them to the particular situation before it. I therefore reject the arguments of the Appellants on this particular point for the simple reason that the courts have developed a consistent analysis of the applicable connecting factors; that analysis does not support the Appellants’ submissions. A broad and liberal interpretation has been given to section 87 over the years but it cannot be stretched so as to take its application outside the boundaries set out by the legislation as interpreted and applied by the Federal Court of Appeal and the Supreme Court of Canada. To give effect to the Appellants’ arguments would in my view, amount to an amendment of the intended purpose of section 87; this is not within the purview of this Court – this is for the Parliamentarians.
+Location of employer; Scope of employer’s activities on a reserve and Benefits accruing to a reserve
+[96] NLS is located on the Six Nations Reserve. Mr. Obonsawin was quite frank in his evidence in stating that NLS was initially located on the Six Nations Reserve because it could potentially offer NLS and status Indians an advantage in maintaining tax exemptions. In the present cases before the Court, there are specific contracts of employment between NLS and the individual Appellants, all of which create genuine legal rights and obligations each upon the other. In Shilling, supra, the Federal Court of Appeal in essence held that the taxpayer was permitted to enter legal relationships for tax planning purposes in the absence of an argument that it was a sham or a violation of the general anti-avoidance rules. There are no such allegations in these appeals.
+[97] I agree with the comments of Justice Paris in Roe et al. v. The Queen, [2008] T.C.J. 509, where he analyzed the meaning of the phrase “property… situated on a reserve”. I think he quite rightly interpreted Chief Justice MacLachlin’s comments in McDiarmid Lumber Ltd. v. God’s Lake First Nation, 2006 SCC 58, in holding that it is reasonable to assume that the use of the phrase “property…situated on a reserve” in paragraph 87(1)(b) of the Indian Act should be granted the same interpretation as in section 89(1) of the Indian Act, given that the two provisions basically share the same purpose.
+[98] In Canada v. Monias, supra, it was noted that although the location of the employer has been regarded as a connecting factor under the analysis mandated by Williams, there must nonetheless be some evidence of the scope of the employer’s activities on the reserve or of some benefit flowing to the reserve from the presence of the employer. Otherwise it cannot be a factor upon which much weight will be assigned.
+[99] I must look at the evidence presented by each of the Appellants and determine what, if any, benefits have flowed to the Six Nations Reserve from NLS’s operations. There was really no evidence as to what outlays, if any, were made by NLS on the reserve. There were no figures, except for NLS financial statements, as to what monies were generated on a reserve and based on the financial statements presented, in 1997, 94% of the NLS revenues went back to the employee subcontractors. There were no particulars provided of the residency of the staff of NLS, that is, where they lived, or the number of staff, or their level of individual income. The location of the office of NLS on the Six Nations Reserve is really the only direct benefit to the reserve, especially given the fact that NLS’s only source of revenue is from status Indian employees, all across the country. In this particular case only one Appellant, Ms. Masching, was a member of the Six Nations Reserve although she has never lived on any reserve. It leads me to the conclusion that very little weight should be attached to this particular factor.
+[100] The location of NLS on the Six Nations Reserve provides some connection of the employment income of the Appellants to that particular reserve but the weight to be attached to that fact is extremely limited given the nature of the operations of NLS. It would appear that the significant majority of the services of NLS subcontractor employees were performed off the reserve by its employees. The fact that NLS is basically operating an enterprise in the commercial mainstream, and the lack of evidence with regard to the benefits flowing to any reserve make it difficult if not impossible to discern a nexus between the employer and benefits to a reserve through employment income.
+Location of Employment
+[101] In terms of benefits accruing to a reserve from the location of the employer or the employment of a status Indian, I feel that there were few benefits accruing to a reserve from the employment of the Appellants other than if they chose to spend any of their income on a reserve.
+[102] The Appellants generally lived off reserve; none worked exclusively on a reserve but all were devoted to improving Aboriginal peoples’ way of life in one way or another. NLS has its offices located on the Six Nations Reserve but as indicated there was little evidence of a related benefit to the reserve. No doubt there may have been some benefits accruing to Aboriginal persons, both on and off-reserve, in various locations in Canada but it is difficult to say that there is a connection between the employment of the Appellants and a reserve as a physical place. The evidence is simply not present to show the benefits, if any, accruing to a reserve from the employment relationship. In the absence of specific evidence with respect to this connection, it cannot be said that benefits accrued from the employment to a reserve or a number of reserves as a physical place.
+[103] Services provided by an employee entitles the employee to employment income. As a result the location of the employment is an important connection to either an on-reserve or off-reserve location. In terms of Ms. Maguire, her employment was both on and off-reserve, throughout Canada, and for the year at issue, 2005, she was employed with CAAN in HIV/AIDS related research. CAAN’s mandate is stated as "provid[ing] leadership, support, and advocacy for Aboriginal People Living with and affected by HIV/AIDS, regardlesss of where they reside".
+Income earned from work performed on a reserve, for the benefit of the reserve, can be exempted from taxation so long as the individual has not entered the commercial mainstream and is not providing a service otherwise provided on the reserve by any number of non-Aboriginal individuals. An Indian’s residency off reserve is not fatal to his or her claim of exemption if the employment income can be connected to the reserve as a physical place.
+[104] From March to October 2000, Ms. Googoo worked out of her parent’s home in Indian Brook First Nation Reserve and post-October 2000, worked out of the APTN Bureau in Halifax, Nova Scotia. The work she would do in the temporary APTN Bureau office in her parent’s home in Indian Brook First Nation Reserve, would relate to editing the script when and if required and shipping the script to Winnipeg for additional editing and some other paperwork that she may conduct in the course of her duties. All of her other work was either at the APTN Bureau in Halifax or in the field where she would shoot videos, conduct and record interviews, and that sort of activity, either on or off-reserve and most certainly, in locations where other mainstream media would be present. It is unclear from the evidence as to what portion of her employment duties were performed on a reserve. Insufficient evidence was led at the hearing which would enable the Court to assign a numerical value, in the form of a percentage, to the duties performed by Ms. Googoo on a reserve, for the benefit of the reserve, for the time period in question. Nothing in either s. 87 of the Indian Act or s. 81 of the ITA requires that all, or substantially all of the employment income derived in a certain taxation period stem from on-reserve employment. As such, the facts in any given appeal may permit an allocation of a percentage of the employment income to exemption. Such is not the case in Ms. Googoo’s appeal as I do not possess sufficient evidence to proceed with that calculation.
+[105] Ms Roache, was basically in the same circumstances as Ms. Googoo and her employment activities were basically the same except she never worked on a reserve and if she did there was no evidence of such or any evidence as to what portion of her employment duties were performed on a reserve. Ms. Masching worked from her home in Lawrencetown, Nova Scotia; Mr. Knockwood worked at the MMNFS Friendship Centre in Halifax, Nova Scotia; Ms. Smith worked as a Family Support Worker for NLS in Ottawa, Ontario; and Ms. Grant worked as an Executive Assistant for the President of NWAC in Ottawa. None of these Appellants worked on a reserve during any significant time period.
+[106] In essence, none of the Appellants regularly spent any working time on reserves. If there was any work to be done on the reserve, save and except for Ms. Googoo from January 2000 to October 2000, such working time on the reserves would be intermittent at best.
+[107] Based upon the evidence of location of employment presented, it could only lead one to believe that the location of the Appellants’ work, and therefore their employment income, was off-reserve.
+Residence of the Employee
+[108] The residence of an employee could be potentially relevant if it connects in some way the employees’ employment income to a reserve.
+[109] The only Appellant to reside on a reserve during relevant times, is Ms. Googoo. She resided on Indian Brook First Nation Reserve throughout as she thought it was a good to cultivate source in the community. Given she worked as a journalist on Native issues for APTN, her residence location on a reserve could be a good connector of her employment income to a reserve. She also wanted to live on the reserve to be near her parents. The other Appellants did not reside on a reserve during the relevant time periods and therefore from a residence location point of view, their employment income has no apparent or immediate connection to a reserve.
+Location of Payment of Income
+[110] Location of payment of income in terms of whether or not there is a link between the acquisition and the income on the reserve as a physical location or an economic base can be a factor on the situs of income but not one of significance in these appeals.
+[111] Although there was considerable evidence led with respect to the payroll services of NLS, how placement organizations were invoiced, how they paid their employees, the development of timesheets of individual employees and the flow of the information to and from placement organizations to NLS, none is helpful in connecting that location of payment to a reserve. Rapid Trans was used to deposit invoice payments from placement organizations at a nearby CIBC to NLS, but initially the payroll services provided by NLS to its employees had been contracted out to CIBC, then to Comcheque and then to Certidian. Some of the Appellants, in their viva voce evidence, spoke in terms of direct deposit and receiving cheque stubs in the mail along with other information relating to employment opportunities. Obviously the Appellants were paid by direct deposit but there was no information with respect to where their individual accounts were located. The only evidence on this point is that direct deposits were made to bank accounts wherever they were located, and these deposits came from an account of NLS where it was located. This is not evidence that connects the employee income to a reserve. This point is thus of no value in connecting the income of the Appellants to a reserve and in any event little weight is to be attached to this factor.
+Nature and Circumstances of Work Performed:
+[112] Again, the purpose of section 87 of the Indian Act is to insulate the property interest of Indians in their reserve lands and to prevent intrusion and interference so as to ensure that Indians are not dispossessed of their entitlements.
+[113] Of all the factors to be considered in the connecting factors test, I believe the nature and circumstances of the work performed is a factor to which significant weight ought to be attached because this factor goes to the heart of the purpose of the exemption under section 87.
+[114]In all of these appeals, NLS was leasing the services of Native people to placement organizations where the Native people were originally employed, and receiving a service fee of 4% to 5% of the payroll of the employee in question. NLS had no nexus to any reserve of any of the Appellants save and except Ms. Masching – and then the only connection was that Ms. Masching was a member, but not a resident, of the Six Nations Reserve where NLS Office was located. Mr. Obonsawin, sole proprietor of NLS, was not a member of the Six Nations Reserve, and did not and could not live under the Six Nations Reserve.
+[115] Notwithstanding Mr. Obansawin’s assertion that NLS wanted to strengthen NFC’s programs, given the NLS’ lack of involvement in training and educating NLS’ employees and the lack of real benefits to them, it is difficult to comprehend how the NLS services could do so.
+[116] The relationship between NLS and the Appellants was contractual in nature but contractual at its most basic level. The employees in question accumulated their overtime with the placement organization; they took instructions and received directions from the placement organization; evaluations were conducted by the placement organization; and recommendations for pay increases came from the placement organizations. The employees performed the same duties with the placement organizations as they did before they entered into a relationship with NLS. Notwithstanding the contractual employer/employee relationship between NLS and the Appellants, the employer from a functional point of view was really the original placement organization. NLS did not even maintain a personnel file system for the Appellants in question and none took any of the employee benefits package from NLS because they had their own health care coverage through Health Canada. NLS did not maintain a résumé of the Appellants in their files. The training offered to the Appellants was so limited it was almost nil and if there was training, the expense was mostly carried by the placement organizations. It certainly appeared that the only advantage that the Appellants were receiving from their employment relationship with NLS was the tax-exempt status and even then, in most circumstances, the Appellants knew this was in jeopardy when they originally signed on as an employee with NLS.
+CONCLUSION
+[117] The factors connecting the employment of the Appellants to a reserve are very limited. I have discussed each factor, some more specifically as they relate to each Appellant, and others more generally. In the end, I do not find the evidence sufficient to conclude that the taxation of each or any of the Appellants’ employment income from NLS in the relevant taxation years would result in the erosion of their entitlement to property they hold as Indians on a reserve. As such I find that the Appellants’ employment income from NLS is not exempt from income tax. The appeals are dismissed, without costs.
+[118] I would also add that upon review of all the evidence presented to this Court in the course of these appeals, I am left with a sense that the Appellants, although some were aware of the risks they were undertaking by signing on as employees with NLS, were not really of cognizance of the full implications and to some extent, in my mind, were taken advantage of by the NLS officials. NLS appears to me to be nothing more and nothing less than an organization providing basic payroll services, and although on a contractual basis, certainly more to the benefit of NLS officials than the individual Appellants. NLS was promoting benefits well beyond the tax relief available under section 87 of the Indian Act. The Appellants should have been cautioned in a more significant way as to what arrangement they were entering into. Indeed, the placement organizations that originally employed them should have been more active and aggressive in analyzing the exposure of their employees in a particular arrangement presented to them by NLS.
+Signed at Ottawa, Canada, this 2nd day of February, 2009.
+“E.P. Rossiter”____
+Rossiter, A.C.J.
+CITATION: 2008TCC589
+COURT FILES NOS.: 2007-49(IT)I; 2007-496(IT)I;
+2007-1710(IT)I; 2007-4037(IT)I;
+2007-846(IT)I; 2007-2116(IT)I;
+2007-53(IT)I
+STYLE OF CAUSE: Maureen Googoo; Delores Joyce Maguire;
+Elizabeth Grant; Bridget A. Smith;
+Trina Roache; B. Renee Masching;
+Noel Knockwood
+and Her Majesty The Queen
+PLACE OF HEARING: Halifax, Nova Scotia
+DATES OF HEARING: September 8, 9, 10, 11 and 12, 2008
+REASONS FOR JUDGMENT BY: The Honourable E. P. Rossiter
+Associate Chief Justice
+DATE OF JUDGMENT AND
+REASONS FOR JUDGMENT: February 2, 2009
+APPEARANCES:
+Counsel for the Appellants:
+Eric Lay
+Counsel for the Respondent:
+Gordon Bourgard
+John Shipley
+COUNSEL OF RECORD:
+For the Appellants:
+Name: Eric Lay
+Firm: Barrister & Solicitor
+164 Glen Avenue
+Ottawa, ON K1S 3A4
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,161 @@
+---
+title: "Salgado v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28948/index.do"
+last_modified: "2008-11-05"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 TCC 603"
+citation2: ""
+neutral_citation: "2008 TCC 603"
+decision_date: "2008-11-05"
+language: "en"
+item_id: "28948"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1388
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T23:41:15.117000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "d53a86fac0b44f4bd2f96b50956e717e07a4149173c4803a7e02ca9a264f5983"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Salgado v. The Queen
+
+- Citation: 2008 TCC 603
+- Decision date: 2008-11-05
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1388, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Salgado v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-11-05
+Neutral citation
+2008 TCC 603
+File numbers
+2008-1310(IT)I
+Judges and Taxing Officers
+Judith Woods
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2008-1310(IT)I
+BETWEEN:
+PAULO M. SALGADO,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on October 23, 2008 at London, Ontario
+By: The Honourable Justice Judith Woods
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Suzanie Chua
+____________________________________________________________________
+JUDGMENT
+The appeal with respect to assessments made under the Income Tax Act for the 2003 and 2004 taxation years is allowed, and the assessments are referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that:
+1. the deductions for maintenance and repair on 205 Graham should be increased by $500 in each taxation year subject to an adjustment for personal use; and
+2. the personal use of 205 Graham in the 2003 taxation year is 50 percent.
+Each party shall bear their own costs.
+Signed at Toronto, Ontario this 5th day of November 2008.
+“J. Woods”
+Woods J.
+Citation: 2008TCC603
+Date: 20081105
+Dockets: 2008-1310(IT)I
+BETWEEN:
+PAULO M. SALGADO,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+(Delivered orally from the Bench on October 30, 2008)
+Woods J.
+[1] Please let the record show that these are reasons delivered orally in the matter of Paulo M. Salgado and Her Majesty the Queen.
+[2] Mr. Salgado appeals reassessments made under the Income Tax Act for the 2003 and 2004 taxation years.
+[3] The notice of appeal filed by Mr. Salgado raises only one issue and that concerns complaints in how the audit process was conducted by the Canada Revenue Agency.
+[4] Unfortunately for Mr. Salgado, flaws in the audit process are not a sufficient basis to grant the relief that he is seeking, which is to reduce the reassessments. In order to succeed, it must be shown that the Income Tax Act does not impose the tax that the Minister has determined in the reassessments.
+[5] At the trial, Mr. Salgado was asked what parts of the reassessments he disagreed with. He specified these and the hearing then proceeded to focus on them.
+[6] I will first set out a bit of the background which led to the reassessments.
+[7] The reassessments concern expenses that were deducted by Mr. Salgado in relation to two houses that he owned during the relevant period. Mr. Salgado submits that the expenses were properly deductible as expenses incurred to earn income.
+[8] The circumstances involving the two properties are quite different and I will discuss each of them separately.
+189 Graham
+[9] The first property was a residential property located at 189 Graham St. in West Lorne, Ontario. Mr. Salgado purchased the property late in 2002, and it was vacant while Mr. Salgado undertook renovations on the property.
+[10] After the renovations were completed early in 2004, Mr. Salgado moved into the home along with his parents and his girlfriend.
+[11] The essence of Mr. Salgado’s argument is that he charged rent to his girlfriend for the use of a bedroom in the home and that as a result he should be allowed to deduct a percentage of the expenditures related to the home.
+[12] In the two years at issue, Mr. Salgado claimed rental losses with respect to the property in the amounts of $5,827 and $3,426.
+[13] The legal principle that applies in situations such as this is that if there is a personal element to the taxpayer’s use of the property then it must be determined whether the income-earning activity is sufficiently commercial to constitute a source of income.
+[14] In this case, the use of the property has a clear personal element. Mr. Salgado submits that he rented the bedroom to his girlfriend. However, the bedroom is his only bedroom as well.
+[15] Mr. Salgado submitted that he often slept on the sofa and not in the bedroom. Even if that is true, that does not mean that the bedroom was not available for his use.
+[16] In addition, there is a strong personal element for Mr. Salgado in having his girlfriend living in the home. It is not necessary that I elaborate on that.
+[17] Having decided that there is a personal element, it remains to be considered whether the arrangement was sufficiently commercial to constitute a source of income.
+[18] Based on the evidence as presented, I am not at all satisfied that it was a commercial arrangement. I would first note that Mr. Salgado claimed in his income tax return that he charged rent to his girlfriend for this property in the amount of $1,920 in each of 2003 and 2004. This is problematic because the girlfriend did not live at the property at all during 2003.
+[19] Mr. Salgado submitted that the fact that he and his girlfriend have separate assets establishes that the arrangement was commercial.
+[20] I do not accept this argument. Fundamentally, the relationship between Mr. Salgado and his girlfriend is a personal one. The fact that Mr. Salgado purported to charge rent for 2003 when the girlfriend did not even live in the property is evidence of the non-commercial nature of this arrangement.
+[21] If Mr. Salgado expects to claim rental losses for his personal residence on the basis of renting to his girlfriend, he needs to provide much better evidence that the arrangement was truly a commercial arrangement.
+[22] Finally, I would note that after all the evidence was presented, Mr. Salgado stated that he had evidence of commerciality with him as long as the court had a printer because he had in his laptop copies of tax returns for later years which showed that he reported rental income from the property. My recollection is that Mr. Salgado raised this point very late in the day, perhaps close to 6 pm. This was after Mr. Salgado had been given every opportunity to present evidence. I do not think that it would have been in the interests of justice to prolong the hearing so that Mr. Salgado could present further evidence from his computer records. I would note that this would have required an adjournment to another day and there would be considerable cost and inconvenience involved.
+[23] For these reasons the deductions claimed in respect of the property at 189 Graham will be disallowed.
+205 Graham
+[24] I now turn to the other property, which is a residential property at 205 Graham. This home was purchased by Mr. Salgado from his parents in 1998.
+[25] In the taxation years at issue, which were 2003 and 2004, the top floor of this two story house was rented to third parties. During the 2003 taxation year, Mr. Salgado, his parents and his girlfriend lived on the main floor while 189 Graham was being renovated. After the renovations on 189 Graham were complete in 2004, the entire 205 Graham property was rented to third parties.
+[26] In the reassessments the Minister disallowed a number of the expenses that Mr. Salgado claimed in respect of this property. Mr. Salgado has disputed all of these adjustments.
+[27] The first adjustment that the Minister made was to disallow a deduction for interest on a borrowing of approximately $58,000. In his income tax return, Mr. Salgado allocated the interest expense to the 205 Graham property. The problem with this is that interest is only deductible if the borrowed money has been actually used for an income-earning purpose. An allocation in a tax return is not sufficient.
+[28] Almost all of the borrowed money was actually used by Mr. Salgado to purchase the other residential property at 189 Graham. Interest on borrowed money used for 189 Graham is not deductible because 189 Graham was a personal-use property.
+[29] Mr. Salgado argued that this result is unfair and that he should be allowed to apportion the interest between his assets. I can understand how Mr. Salgado feels that the result is unfair, but it is not open for me to take a different approach. The Supreme Court of Canada has made it clear in Singleton that a tracing of the borrowed money is required.
+[30] That deals with the bulk of the interest. Mr. Salgado testified that a small portion of the borrowed money, namely $2,700, was used to refinance the property at 205 Graham. The documents submitted into evidence do not seem to support this claim and in the absence of corroborating evidence, I conclude that Mr. Salgado has not satisfied the burden of proof with respect to the use of the $2,700 balance.
+[31] For these reasons, the interest claimed should be disallowed in its entirety.
+[32] Another item that was disallowed by the Minister is listed in the reply under the heading management fees. The amounts claimed are $300 for each year. Mr. Salgado does not dispute the disallowance of these amounts.
+[33] I now turn to other adjustments made by the Minister, which were made to expenditures claimed for maintenance and repairs, utilities and a motor vehicle. The adjustments that were made were in total approximately $2,000 for the two years.
+[34] I think there should be some relief in Mr. Salgado’s favour concerning these expenses. My impression is that the auditor took a strict approach to auditing these expenses. In circumstances where a taxpayer has provided receipts for most of the expenses, it is appropriate to provide some relief for expenditures that were incurred but for which receipts are not available. I think it would be appropriate to increase the amounts allowed by $500 in each of 2003 and 2004, subject to an adjustment for personal use, which I will now consider.
+[35] The personal-use issue is whether the Minister was correct to reduce the deduction of expenses on 205 Graham on account of the family’s personal use of this property in the 2003 taxation year. In his income tax return Mr. Salgado did not make any adjustment for personal use. In the reassessment, the Minister assumed that the personal use was 60 percent, which was based on an apportionment using the number of bedrooms in the home.
+[36] Based on the evidence presented, I would conclude that it is more appropriate to allocate personal use to 50 percent on the basis that there is very little difference in total square footage between the rented space and the personal use space.
+[37] Mr. Salgado suggested that the personal use element should also be adjusted for the space used by his girlfriend. I do not think this is appropriate. For the reasons above, I do not think that any of the space used by the girlfriend is property that is a source of income to Mr. Salgado. I would also note that in the rental questionnaire that Mr. Salgado filled out during the audit, he did not list his girlfriend as a tenant of this property.
+[38] Finally, Mr. Salgado suggested that his home office be considered non‑personal use. It is reasonable to conclude that Mr. Salgado carried on some business activity in the home because of the rental activity but I am not satisfied based on the brief testimony that there was sufficient business use of any room for it to be allocated to business use only.
+[39] In the result, I conclude that the only adjustments that should be made to the reassessments are first, to increase the deductible expenses for maintenance and repair on 205 Graham by $500 in each year subject to personal use, and second, to adjust the personal use of 205 Graham in the 2003 taxation year from 60 percent to 50 percent. The appeal will be allowed and referred back to the Minister for reassessment on that basis.
+[40] There will be no order as to costs.
+Signed at Toronto, Ontario this 5th day of November 2008.
+“J. Woods”
+Woods J.
+CITATION: 2008TCC603
+COURT FILE NO.: 2008-1310(IT)I
+STYLE OF CAUSE: PAULO M. SALGADO AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: London, Ontario
+DATE OF HEARING: October 23, 2008
+REASONS FOR JUDGMENT BY: The Honourable Justice J. Woods
+DATE OF JUDGMENT: November 5, 2008
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Suzanie Chua
+COUNSEL OF RECORD:
+For the Appellant:
+Name: n/a
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

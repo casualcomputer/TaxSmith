@@ -1,0 +1,274 @@
+---
+title: "Paletta (Succession) c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/499087/index.do"
+last_modified: "2021-06-17"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2021 CCI 41"
+citation2: ""
+neutral_citation: "2021 CCI 41"
+decision_date: "2021-06-17"
+language: "fr"
+item_id: "499087"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4454
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2023-12-01T11:56:43.504000+00:00"
+cases_cited_count: 6
+cases_citing_count: 4
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "dee62bda2faeb71d2372744d56c1d7ece6737a5978186fb4ab71b21c1dd7d802"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Paletta (Succession) c. La Reine
+
+- Citation: 2021 CCI 41
+- Decision date: 2021-06-17
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4454, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Paletta (Succession) c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2021-06-17
+Référence neutre
+2021 CCI 41
+Numéro de dossier
+2015-2662(IT)G
+Juges et Officiers taxateurs
+David E. Spiro
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2015-2662(IT)G
+ENTRE :
+LA SUCCESSION DE PASQUALE PALETTA,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Ordonnance concernant les dépens jugée sur dossier
+sans la comparution des parties.
+Devant : L’honorable juge David E. Spiro
+Comparutions :
+Avocats de l’appelante :
+Me Justin Kutyan et Me Kelly Ng
+Avocates de l’intimée :
+Me Suzanie Chua, Me Rana El-Khoury et Me Dina Elleithy
+ORDONNANCE
+VU les observations écrites sur les dépens déposées par chaque partie;
+LA COUR ORDONNE :
+L’adjudication des dépens à l’appelante effectuée au paragraphe 1 du jugement daté du 18 février 2021 sera satisfaite par le paiement par l’intimée à l’appelante d’une somme forfaitaire de 2 241 025 $;
+L’adjudication des dépens à l’intimée effectuée au paragraphe 2 du jugement daté du 18 février 2021 sera satisfaite en faisant passer le pourcentage des honoraires d’avocat recouvrables par l’appelante de 50 % à 45 % comme le démontre l’adjudication de la somme forfaitaire de 2 241 025 $ effectué au paragraphe 1 ci-dessus.
+Signé à Toronto (Ontario), ce 17e jour de juin 2021.
+« David E. Spiro »
+Le juge Spiro
+Traduction certifiée conforme
+ce 24e jour de janvier 2022.
+François Brunet, réviseur
+Référence : 2021 CCI 41
+Date : 20210617
+Dossier : 2015-2662(IT)G
+ENTRE :
+LA SUCCESSION DE PASQUALE PALETTA,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE
+Le juge Spiro
+[1] Bien qu’il soit tout à fait clair que l’appelante a en grande partie obtenu gain de cause dans ses appels, les parties n’ont pas pu s’entendre sur les dépens. À la lecture des observations écrites de chaque partie sur les dépens, j’ai accordé à l’appelante la somme forfaitaire de 2 241 025 $ au titre des dépens.
+I. La thèse de l’appelante sur les dépens
+[2] Compte tenu du fait qu’elle a eu presque entièrement gain de cause dans les présents appels, l’appelante a demandé la somme forfaitaire de 3 500 000 $ au titre des dépens. Cette somme correspond à des débours totaux de 996 550 $ et à près de 75 % du total des honoraires d’avocat de 3 365 500 $.
+II. La thèse de la Couronne sur les dépens
+[3] En tenant compte du fait que « les parties ont connu un succès partagé », la Couronne a fait valoir que chaque partie doit recevoir des dépens conformément au tarif B de l’annexe II des Règles de la Cour canadienne de l’impôt (procédure générale) (les « Règles ») et que chaque partie doit assumer ses propres débours [1] .
+III. La décision sur le fond [2]
+[4] Les appels portaient sur huit années d’imposition, dont chacune avait fait l’objet d’une nouvelle cotisation par le ministre du Revenu national (le « ministre ») au-delà de la période normale de nouvelle cotisation. Au cours de chacune des sept premières années d’imposition ayant fait l’objet d’une nouvelle cotisation, M. Paletta a déclaré des pertes importantes découlant d’une méthode fiscalement avantageuse de structuration des opérations de change à terme, connues sous le nom d’« opérations de chevauchement ». Au cours de la huitième année d’imposition, M. Paletta a choisi de réaliser un gain modeste [3] .
+[5] La principale question était de savoir si l’ensemble des opérations constituait un trompe-l’œil et, dans la négative, si les pertes déclarées par M. Paletta au cours des sept premières années d’imposition étaient déductibles (c’est-à-dire s’il y avait une « source de revenu »). J’ai conclu que ces opérations ne constituait pas un trompe-l’œil et qu’il y avait une source de revenu suffisante pour permettre la déduction de ces pertes [4] . Cela a réglé la question principale.
+[6] Les autres questions étaient les suivantes :
+a) M. Paletta a-t-il fait une présentation erronée des faits, par négligence, inattention ou omission volontaire dans la production de sa déclaration pour toute année d’imposition en litige, autorisant ainsi le ministre à établir une nouvelle cotisation en dehors de la période normale de nouvelle cotisation à l’égard de ses opérations pour cette année-là?
+b) M. Paletta a-t-il délibérément, ou dans des circonstances équivalant à faute lourde, fait de faux énoncés ou des omissions dans sa déclaration pour l’une des sept premières années d’imposition en litige, autorisant ainsi le ministre à imposer une pénalité pour négligence grave pour l’une de ces années aux termes du paragraphe 163(2) de la Loi?
+[7] J’ai conclu que M. Paletta avait fait une présentation erronée des faits par négligence et inattention dans sa déclaration de revenus de 2002 en omettant de déclarer huit millions de dollars de gains provenant de ses opérations pour cette année-là. Le ministre a donc été autorisé à établir une nouvelle cotisation afin d’inclure huit millions de dollars des gains d’opérations dans le calcul du revenu de M. Paletta pour l’année d’imposition 2002, même si la nouvelle cotisation en cause pour cette année-là a été établie en dehors de la période normale de nouvelle cotisation.
+[8] J’ai également conclu que M. Paletta avait délibérément, ou dans des circonstances équivalant à faute lourde, fait de faux énoncés ou des omissions dans sa déclaration de revenus de 2002 en omettant de déclarer huit millions de dollars de gains en calculant son revenu pour cette année-là. Le ministre était donc autorisé à imposer une pénalité pour faute lourde aux termes du paragraphe 163(2) de la Loi à l’égard de huit millions de dollars de revenus non déclarés pour l’année d’imposition 2002.
+[9] Ma décision concernant l’année d’imposition 2002 ne constitue qu’une victoire partielle de la Couronne pour cette année-là, car je n’ai pas confirmé la nouvelle cotisation établie par le ministre pour cette année-là dans son intégralité. En établissant la nouvelle cotisation pour cette année-là, le ministre a refusé la totalité des pertes déclarées par M. Paletta à l’égard de ses « prétendues » opérations cette année-là. Par la nouvelle cotisation qu’il a établie, le ministre a présumé plusieurs faits selon lesquels ces opérations constituaient des trompe-l’œil. Selon le ministre, aucune perte n’a été subie au cours de cette année.
+[10] J’ai conclu que M. Paletta avait le droit d’utiliser le stratagème d’évitement fiscal en litige pour toutes les années d’imposition dont je suis saisi. La seule différence entre l’année d’imposition 2002 et les autres années de perte était que M. Paletta n’avait pas inclus dans le calcul de son revenu pour cette année-là les gains des opérations qu’il avait réalisés au cours de cette année. Cette présentation erronée des faits a donné lieu à une réclamation de 10 millions de dollars de pertes pour l’année, au lieu des deux millions de dollars de pertes auxquels il avait réellement droit. Au final, le jugement a admis une perte de deux millions de dollars pour une année d’imposition pour laquelle le ministre n’avait permis la déduction d’aucune perte.
+[11] Le paragraphe 147(3) des Règles énonce plusieurs facteurs à prendre en considération dans l’adjudication des dépens. Avant d’examiner chaque facteur, je m’exprimerai brièvement sur les débours demandés par l’appelante.
+IV. Débours demandés par l’appelante
+[12] La Couronne a soulevé des questions au sujet d’un nombre relativement faible de débours demandés par l’appelante. Je conclus toutefois que le total des débours de l’appelante, soit 996 550 $, se situe dans une fourchette raisonnable.
+[13] J’en arrive à cette conclusion après avoir comparé le total des débours de l’appelante avec le total des débours de la Couronne. Les débours de l’appelante étaient de 996 550 $ alors que ceux de la Couronne étaient de 710 000 $ [5] . Compte tenu du fardeau important qui incombait à l’appelante de démolir les hypothèses de fait du ministre à l’égard des opérations trompe-l’œil et non valides, etc., je conclus que les débours de l’appelante se situent dans une fourchette raisonnable [6] .
+V. Les facteurs énoncés au paragraphe 147(3) des Règles
+[14] En soutenant qu’il a le droit de recouvrer près de 75 % de ses honoraires d’avocat, l’appelante insiste sur le fait que la Couronne n’a pas produit de preuve de fraude. Ce faisant, cependant, l’appelante a négligé le fait que la Couronne a le droit de fonder son argumentation sur les hypothèses de fait du ministre, telles qu’elles sont exposées dans la réponse. Les facteurs énumérés au paragraphe 147(3) des Règles tiennent compte du fait que l’appelant a dû engager des dépenses pour se préparer pleinement au procès [7] . J’examinerai maintenant chacun de ces facteurs à tour de rôle [8] .
+1. Résultat de l’instance – alinéa 147(3)a) des Règles
+[15] Comme je l’ai déjà noté, les appels portaient sur une question principale et deux autres questions couvrant un total de huit années d’imposition. N’eût été de l’effet relativement limité de l’omission par M. Paletta d’inclure huit millions de dollars de gains découlant des opérations dans le calcul de son revenu pour l’année d’imposition 2002, l’appelante aurait eu entièrement gain de cause dans ses appels.
+[16] Compte tenu de ce que la Couronne n’a eu que partiellement gain de cause pour l’une des huit années d’imposition en cause, je ne peux retenir l’argument de la Couronne selon lequel [traduction] « les parties ont eu gain de cause de façon égale » [9] .
+2. Les sommes en cause – alinéa 147(3)b) des Règles
+[17] Le montant global des pertes en cause dans les présents appels était important à tous égards. Comme il est signalé dans les motifs du jugement :
+[traduction]
+[13] M. Pat Paletta a déclaré quelque 55 millions de dollars de pertes pour ses années d’imposition 2000 à 2006 et un peu plus de six millions de dollars de bénéfices pour son année d’imposition 2007, soit un total de près de 49 millions de dollars de pertes nettes résultant d’opérations de change à terme au cours de la période en cause :
+Année d’imposition
+Pertes ou gains déclarés
+2000
+(6 184 460,89 $)
+2001
+(2 150 917,06 $)
+2002
+(10 007 726,00 $)
+2003
+(6 198 247,76 $)
+2004
+(4 294 300,06 $)
+2005
+(5 134 923,14 $)
+2006
+(21 236 115,40 $)
+2007
+6 444 216,20 $)
+Total :
+(48 762 747,11 $)
+[18] De plus, le ministre a allégué que deux sociétés détenues ou contrôlées par M. Paletta avaient participé au même stratagème d’évitement fiscal avec les mêmes contreparties (UCAL, IFX et ODL). Le ministre a allégué que ces sociétés avaient déduit plus de 150 millions de dollars de pertes au cours de la période en cause [10] .
+[19] En outre, le milieu fiscal est maintenant conscient que des dizaines, voire des centaines d’affaires de ce type d’opérations de chevauchement antérieures à 2017 sont actuellement inscrites au rôle de la Cour [11] . Cela n’est pas surprenant compte tenu du fait que les nouvelles cotisations en litige faisaient partie d’un projet beaucoup plus vaste. Comme mon collègue le juge D’Arcy l’a noté en statuant sur la requête de l’appelante pour obliger à répondre à l’interrogatoire préalable :
+[36] L’ARC a réalisé la vérification d’autres contribuables ayant participé à des opérations semblables aux opérations de change, auxquelles ont également participé Tim et John Hodgins, UCAL, IFX ainsi qu’ODL. Ces vérifications faisaient partie d’un projet coordonné par les fonctionnaires travaillant à l’Administration centrale de l’ARC à Ottawa [12] .
+[20] Enfin, au paragraphe 86 de ses motifs, le juge D’Arcy renvoie aux « montants considérables en jeu dans le présent appel et, je suppose, dans d’autres appels concernant ODL, UCAL et IFX ».
+3. L’importance des questions – alinéa 147(3)c) des Règles
+[21] Les présents appels constituaient la première fois que la jurisprudence Friedberg de la Cour suprême du Canada (concernant la déductibilité des pertes subies lors d’opérations de chevauchement utilisant des contrats à terme de marchandises négociés en bourse) [13] était examinée au regard de contrats de change à terme conclus entre des contreparties négociant entre elles de gré à gré (c.-à-d., traitant en privé plutôt que sur le marché public).
+[22] Les présents appels constituaient également la première fois que l’enseignement des arrêts Stewart et Walls (portant sur la détermination de l’existence d’une source de revenu) [14] de la Cour suprême du Canada était invoqué par la Couronne au regard d’opérations de chevauchement modelées sur celles en cause dans l’arrêt Friedberg.
+[23] Les plus hauts niveaux de l’Agence du revenu du Canada (l’« ARC »), y compris le bureau du commissaire, ont été largement impliqués dans la vérification qui a donné lieu aux nouvelles cotisations en litige [15] . Le bureau du commissaire ne se mêle généralement pas aux affaires que l’ARC considère comme sans importance.
+[24] Enfin, l’affaire était suffisamment importante pour que le ministère des Finances la mentionne dans le budget de 2021 lors de la discussion d’une proposition visant à faire en sorte que l’ARC puisse établir une nouvelle cotisation pour certains types d’opérations d’évitement durant la période normale de nouvelle cotisation [16] .
+4. Toute offre de règlement présentée par écrit – alinéa 147(3)d) des Règles
+[25] Aucune offre de règlement par écrit n’a été faite par l’une ou l’autre des parties.
+5. La charge de travail – alinéa 147(3)e) des Règles
+[26] La charge de travail nécessaire pour mener un procès sur une période de 15 jours ainsi que trois jours de plaidoirie est considérable. Cette charge de travail était nécessaire dans les présents appels à la lumière des éléments suivants :
+a) la Couronne a plaidé une longue liste d’arguments et d’arguments subsidiaires dans sa réponse modifiée. L’appelante devait être prête à répondre à chacun de ces arguments et arguments subsidiaires lors du procès (non souligné dans l’original) [17] :
+(a) tous les prétendus contrats et positions d’options sur devises et tous les contrats et accords conclus avec Union CAL, IFX et ODL étaient des trompe-l’œil;
+(b) si les opérations ont eu lieu et n’étaient pas des trompe-l’œil, ce qui est nié, elles n’étaient pas juridiquement valides en ce sens qu’il n’y avait pas de contrats juridiquement valides pour l’achat ou la vente de marchandises;
+(c) l’appelant n’a pas subi les pertes déclarées;
+(d) à titre subsidiaire, les opérations n’étaient pas des opérations commerciales puisque l’appelante n’avait pas de responsabilité réelle à la fin des années d’imposition 2000 à 2007 et n’assumait aucun risque;
+(e) toujours à titre subsidiaire, il n’y avait pas d’entreprise ou de biens susceptibles de produire un revenu puisque, selon l’entente entre l’appelante et les Hodgins, l’ensemble des opérations exercées par l’appelante ne pouvaient produire aucun revenu pour celle-ci. Par conséquent, il ne pouvait y avoir de source de revenu à l’égard des opérations et celles-ci n’ont pas produit de perte selon les articles 3 ou 4 de la Loi;
+(f) toujours à titre subsidiaire, s’il y a eu activité commerciale, il n’y a pas eu de pertes réalisées à la fin de chacune des années d’imposition puisque la réalisation des pertes et des gains aurait eu lieu simultanément aux dates d’expiration ou de règlement105.
+105 Réponse modifiée, paragraphe 17, à la page 41.
+b) les arguments de la Couronne relatifs aux opérations trompe-l’œil et non valides contestaient l’effet juridique de chaque opération, entente et arrangement conclus par M. Paletta sur une période de huit ans. L’appelante devait être prête à prouver le bien-fondé de chaque opération, entente et arrangement conclus par M. Paletta au cours de chacune de ces années;
+c) la Couronne a plaidé que le ministre avait formulé pas moins de 259 hypothèses de fait en établissant une nouvelle cotisation à l’égard de M. Paletta L’appelante devait être prête à présenter des éléments de preuve pour démolir toutes les hypothèses de fait appuyant les nouvelles cotisations en litige;
+d) l’appelante a dû présenter des éléments de preuve d’expert hautement techniques pour aider la Cour à comprendre la nature et l’effet des opérations;
+e) l’appelante a dû produire de volumineux documents et dossiers relatifs aux opérations, et a dû appeler plusieurs témoins, afin d’expliquer comment les opérations étaient structurées et exécutées;
+f) un grand nombre des documents controversés par la Couronne ont été créés deux décennies avant le procès, ce qui a considérablement augmenté la charge de travail nécessaire pour les localiser, les organiser et les expliquer;
+g) la plupart des témoins de faits et des témoins experts nécessaires pour expliquer les opérations et la documentation connexe se trouvaient à l’extérieur du Canada;
+h) au moment de l’ouverture du procès, M. Paletta était décédé. L’appelante a donc dû produire des éléments de preuve supplémentaires concernant l’objet des opérations, etc.
+6. La complexité des questions – alinéa 147(3)f) des Règles
+[27] Mon collègue le juge Owen a entendu une requête aux termes de l’article 58 des Règles présentée par l’appelante. En rejetant la requête, il a fait les observations suivantes concernant la complexité de l’affaire, qui se sont toutes avérées entièrement correctes [18] :
+[3] L’avis d’appel, la réponse modifiée et la réplique produits par les parties [. . .] laissent penser qu’il s’agit d’un appel complexe dans lequel plusieurs questions importantes devront être traitées par le juge de première instance [. . .]
+[. . .]
+[40] En l’espèce, les actes de procédure décrivent des faits complexes et plusieurs questions en litige pertinentes à l’appel, notamment celles de savoir si les opérations de change étaient un trompe‑l’œil, si les opérations de change étaient valides juridiquement et s’il s’agissait d’opérations commerciales [. . .]
+[41] Pour évaluer si l’appelant a agi en personne sage et prudente dans les circonstances complexes de la présente affaire, il est nécessaire à mon avis que la Cour comprenne toutes les circonstances dans lesquelles les gestes pertinents de l’appelant ont été posés.
+[28] L’ARC elle-même a reconnu la complexité de ces questions. Comme l’a fait remarquer l’un des vérificateurs de l’ARC chargé du dossier :
+[traduction] Les questions complexes abordées dans la présente vérification étaient semblables à celles traitées simultanément dans de nombreuses autres vérifications partout au pays [...] [19]
+[29] Rien que sur le plan factuel, expliquer le fonctionnement des opérations de change à terme en général, et l’architecture des opérations de chevauchement en particulier, était une entreprise complexe. Des éléments de preuve documentaires, des dépositions verbales et des opinions d’expert furent tous nécessaires pour permettre à la Cour de comprendre et d’apprécier la nature et l’effet des opérations en cause.
+7. La conduite d’une partie qui aurait abrégé ou prolongé inutilement la durée de l’instance – alinéa 147(3)g) des Règles
+[30] Je ne puis conclure que la conduite de l’une ou l’autre des parties ait franchi la limite d’une conduite clairement déraisonnable. L’affaire a été âprement disputée, bien présentée et bien argumentée.
+8. La dénégation d’un fait par une partie ou sa négligence ou son refus de l’admettre, lorsque ce fait aurait dû être admis – alinéa 147(3)h)
+[31] Je ne constate aucun refus de répondre aux demandes d’admission signifiées par l’une ou l’autre des parties.
+9. La question de savoir si une étape de l’instance était inappropriée, vexatoire ou inutile, ou a été accomplie de manière négligente, par erreur ou avec trop de circonspection – alinéa 147(3)i)
+[32] Aucune étape de la procédure n’a été inappropriée, vexatoire ou inutile et aucune étape de la procédure n’a été accomplie de manière négligente, par erreur ou avec trop de circonspection.
+10. La question de savoir si les dépenses engagées pour la déposition d’un témoin expert étaient justifiées – alinéa 147(3)i.1)
+[33] En rétrospective, chaque partie a appelé un expert de trop. La Couronne a appelé M. Poirier, dont la conclusion était insoutenable au vu de la preuve [20] . L’appelante a appelé M. Knight dont les rapports avaient peu de poids [21] .
+[34] La plupart des débours attribuables à M. Knight doivent être déduits des débours adjugés à l’appelante parce que la grande majorité du témoignage d’opinion de M. Knight était erronée en ce qu’il ne tenait pas compte de la possibilité que les opérations de M. Paletta aient été entièrement motivées d’un point de vue fiscal.
+[35] À mon avis, seulement environ 25 % du témoignage d’opinion de M. Knight était utile. Les débours déclarés par l’appelante à l’égard de M. Knight étaient d’environ 360 000 $. Refuser 75 % de ce montant équivaudrait à refuser 270 000 $ du total des débours déclarés, soit 996 550 $, ce qui entraînerait un montant total rajusté de 726 550 $.
+[36] Selon la Couronne, l’appelante n’aurait pas dû engager des dépenses pour retenir les services de témoins experts situés à l’extérieur du Canada en ce qui concerne les opérations de change à terme en cause. Cette objection n’est pas fondée, d’autant plus que les centres mondiaux des opérations de change à terme sont tous situés à l’extérieur du Canada. Il n’y a pas d’obligation d’« acheter canadien » en ce qui concerne les témoins experts.
+11. Toute autre question pouvant influer sur la détermination des dépens – alinéa 147(3)j) des Règles
+[37] Entre autres choses, ce facteur offre la possibilité d’examiner la conduite de l’une ou l’autre des parties qui ne relève d’aucun des facteurs précédents. En l’espèce, il y avait deux affaires de ce genre. La première a eu pour effet de brouiller les pistes en matière de preuve. La seconde a eu pour effet de prolonger le procès.
+[38] Premièrement, l’appelante a laissé le dossier de preuve dans le flou en n’admettant pas avant la fin du procès que M. Paletta avait négligé de suivre l’architecture du plan d’évitement fiscal pour son année d’imposition 2002 en omettant d’inclure des gains d’opérations de huit millions de dollars dans le calcul de son revenu pour cette année-là [22] . Une confusion et une incertitude considérables dans la preuve auraient été évitées si ce fait avait été concédé par l’appelante avant la fin du procès [23] . Un tel comportement ne relève pas de l’alinéa 147(3)h), mais doit néanmoins être pris en compte concernant les dépens.
+[39] Deuxièmement, l’appelante a passé la majeure partie d’une matinée à essayer de désigner à titre d’expert un témoin dont le témoignage n’était ni pertinent ni nécessaire [24] . L’appelante a proposé de citer un témoin expert, M. Brown, afin qu’il rende un témoignage d’opinion sur le droit anglais, bien que le droit anglais ne soit pas un fait en cause dans aucun des appels. Un tel comportement ne relève pas de l’alinéa 147(3)i), mais doit néanmoins être pris en compte concernant les dépens.
+[40] En l’absence de ces deux éléments, j’aurais exercé mon pouvoir discrétionnaire en accordant à l’appelant 55 % de ses honoraires d’avocat [25] . À la lumière de ces deux éléments, l’appelant a droit à 50 % de ses honoraires d’avocat plutôt qu’à 55 %.
+[41] Il ne reste plus qu’un seul élément à examiner : l’adjudication des dépens à la Couronne.
+VI. Adjudication des dépens à la Couronne
+[42] Dans mon jugement du 18 février 2021, j’ai accueilli l’appel de l’appelante concernant la nouvelle cotisation pour l’année d’imposition 2002, mais j’ai accordé les dépens à la Couronne pour cette année-là.
+[43] En effet, j’avais ouvert la question prescrite des pertes commerciales de M. Paletta pour cette année d’imposition afin de permettre au ministre d’établir une nouvelle cotisation pour inclure huit millions de dollars de gains d’opérations dans le calcul du revenu pour cette année-là. J’ai également permis au ministre d’imposer une pénalité pour faute lourde sur les huit millions de dollars de revenus sous-évalués pour cette année-là.
+[44] L’adjudication des dépens à la Couronne sera satisfaite par une nouvelle réduction du pourcentage des honoraires d’avocat recouvrables par l’appelante, qui passera de 50 % à 45 %.
+VII. Adjudication des dépens à l’appelante
+[45] Compte tenu de mon appréciation de tous les facteurs pertinents, et après avoir examiné les observations écrites des parties, j’accorde à l’appelante la somme forfaitaire de 2 241 025 $ au titre des dépens, ce qui correspond à 45 % des honoraires d’avocat de l’appelante, qui s’élèvent à 3 365 500 $ (1 514 475 $), et ses débours, tels qu’ils sont rajustés, de 726 550 $ [26] .
+Signé à Toronto (Ontario), ce 17e jour de juin 2021.
+« David E. Spiro »
+Le juge Spiro
+Traduction certifiée conforme
+ce 24e jour de janvier 2022.
+François Brunet, réviseur
+RÉFÉRENCE :
+2021 CCI 41
+NO DU DOSSIER DE LA COUR :
+2015-2662(IT)G
+INTITULÉ :
+LA SUCCESSION DE PASQUALE PALETTA et SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+S.O.
+DATE DE L’AUDIENCE :
+S.O.
+MOTIFS DE L’ORDONNANCE :
+L’honorable juge David E. Spiro
+DATE DE L’ORDONNANCE :
+Le 17 juin 2021
+COMPARUTIONS :
+Avocats de l’appelante :
+Me Justin Kutyan et Me Kelly Ng
+Avocates de l’intimée :
+Me Suzanie Chua, Me Rana El-Khoury et Me Dina Elleithy
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Me Justin Kutyan et Me Kelly Ng
+Cabinet :
+KPMG cabinet juridique s.r.l./S.E.N.C.R.L.
+Toronto (Ontario)
+Pour l’intimée :
+Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa (Canada)
+[1] Observations écrites de l’intimée sur les dépens, paragraphe 11 et observations en réponse de l’intimée sur les dépens, paragraphe 18.
+[2] Succession Paletta c. La Reine, 2021 CCI 11.
+[3] Voir le paragraphe 17 ci-dessous pour une ventilation annuelle.
+[4] Pour l’année d’imposition 2002, seulement deux millions de dollars des 10 millions de dollars de pertes déclarées étaient déductibles parce que M. Paletta a omis d’inclure huit millions de dollars de gains dans le calcul de son revenu pour cette année-là.
+[5] Observations écrites de l’intimée sur les dépens, paragraphe 8.
+[6] Comme il est indiqué aux paragraphes 33 à 35, j’ai rajusté les débours admissibles de l’appelante en déduisant 75 % des débours engagés à l’égard de M. Knight. Les débours rajustés de l’appelante s’élèvent à 726 550 $, soit un montant d’argent légèrement supérieur aux débours de la Couronne.
+[7] Plus précisément, l’alinéa 147(3)e) des Règles qui porte sur la charge de travail.
+[8] Pour un excellent aperçu des facteurs énoncés au paragraphe 147(3) des Règles, voir Derrick Hosanna et Erica Hennessey, « The Death of the Tariff : A Review of the Tax Court’s Discretionary Approach to Costs Awards », Revue fiscale canadienne (2020) 68:2, 409 à 438.
+[9] Observations écrites de l’intimée sur les dépens, alinéa 11a).
+[10] Paragraphe 12 des motifs du jugement.
+[11] « Paletta : Straddles Can Work! », Canadian Tax Focus, vol. 11, no 2, mai 2021, Fondation canadienne de fiscalité. La qualification « antérieures à 2017 » est importante parce qu’une règle antiévitement précise a été adoptée cette année-là dans le but de mettre fin au type de stratagème d’évitement fiscal basé sur les opérations de chevauchement utilisé par M. Paletta et d’autres.
+[12] Paletta c. La Reine, 2017 CCI 233, par. 36, modifié sur consentement par un jugement du 2 février 2018, dossier de la Cour d’appel fédérale no A-399-17 (non publié).
+[13] Friedberg c. Canada, [1993] 4 R.C.S. 285.
+[14] Stewart c. Canada, 2002 CSC 46, [2002] R.C.S. 645; Walls c. Canada, [2002] 2 R.C.S. 684.
+[15] Paletta, précitée, note 12, paragraphe 61, modifié sur consentement par un jugement du 2 février 2018, dossier de la Cour d’appel fédérale no A-399-17 (non publié).
+[16] Budget 2021, 19 avril 2021, annexe 6, Mesures fiscales : Renseignements supplémentaires, « Opérations à signaler », aux pages 633 et 634.
+[17] Motifs du jugement, paragraphe 147.
+[18] Paletta c. La Reine, 2016 CCI 171, paragraphes 3, 40 et 41, conf. par 2017 CAF 33.
+[19] Paletta, précitée, note 18, paragraphe 40, conf. par 2017 CAF 33.
+[20] Motifs du jugement, paragraphe 135.
+[21] Motifs du jugement, paragraphe 143.
+[22] Motifs du jugement, paragraphes 115 à 121. Le fait que M. Paletta n’ait pas respecté l’architecture du stratagème d’évitement fiscal en omettant d’inclure des gains de négociation de huit millions de dollars dans le calcul du revenu pour son année d’imposition 2002 allait bien au-delà d’une [traduction] « inexactitude factuelle » ou d’une traduction] « erreur de calcul », comme l’indique le paragraphe 35 des observations écrites de l’appelante sur les dépens.
+[23] Une telle admission n’aurait pas empêché l’appelant de faire valoir les conséquences juridiques de ce fait, y compris son effet sur la question de la prescription et la question de la pénalité pour faute lourde. En l’absence d’un tel aveu, j’ai dû demander aux parties de présenter des observations supplémentaires après la fin du procès.
+[24] Chacun des quatre « facteurs énoncés dans l’arrêt Mohan » doit être satisfait avant qu’une preuve d’expert puisse être admise : a) pertinence logique, b) nécessité d’aider le juge des faits, c) absence de toute règle d’exclusion, et d) expert dûment reconnu. Le témoignage d’expert proposé par M. Brown ne satisfait manifestement pas aux deux premiers critères. Voir le volume 8 de la transcription, pages 1154 à 1203 et pages 1209 à 1213. L’appelante, à juste titre, n’a pas réclamé de débours à l’égard de M. Brown.
+[25] Le point de départ du degré d’indemnisation de 55 % se situe dans la fourchette proposée par la juge Campbell dans sa décision de principe, Douglas Zeller and Leon Paroian Trustees of the Estate of Margorie Zeller c. La Reine, 2009 CCI 135. Les paragraphes 8 et 9 de cette décision sur les dépens sont instructifs et ont souvent été suivis par la jurisprudence de notre Cour :
+[8] Les dépens entre parties qui sont fondés sur le barème du tarif visent à accorder à la partie à laquelle ils sont adjugés une indemnisation partielle des frais qu’elle doit payer à son propre procureur ((Mark Orkin, The Law of Costs, 2e éd., vol. 1 (Aurora : Canada Law Book, 2008), à 1-9). Cependant, récemment, ces dépens ont été utilisés pour plus qu’une indemnisation :
+[traduction]
+Habituellement, dans notre système de « perdant payeur », une adjudication de dépens avait pour but d’indemniser partiellement ou – dans quelques circonstances restreintes – entièrement, la partie ayant eu gain de cause des frais juridiques que celle-ci avait engagés. Mais les dépens en sont venus récemment à être reconnus comme un outil important entre les mains du tribunal pour influencer la façon dont les parties se comportent et éviter que l’on abuse de la procédure du tribunal. Plus précisément, les trois autres objectifs reconnus d’une adjudication de dépens sont les suivants : encourager à régler l’affaire, éviter les actions et les défenses frivoles et s’abstenir de recourir à des mesures inutiles qui prolongent indûment le litige (Mark Orkin, The Law of Costs, 2e éd., vol. 1 (Aurora : Canada Law Book, 2008), à 2-1)).
+[9] En général, le degré d’indemnisation que représentent les indemnités partielles varie entre 50 % et 75 % des dépens d’indemnisation substantielle ou taxés sur la base procureur-client (Mark Orkin, The Law of Costs, 2e éd., vol. 1 (Aurora : Canada Law Book, 2008), à 2-3).
+[26] Les rajustements apportés aux débours de l’appelante sont exposés aux paragraphes 33 à 35.

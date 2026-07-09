@@ -1,0 +1,105 @@
+Title: Littlefield v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26606/index.do
+Corpus path: corpus/cases/tcc/2003/2003-tcc-911-26606-littlefield-v-the-queen-en.md
+Document type: case_law
+Last modified: 2003-12-09
+
+# Littlefield v. The Queen
+
+- Citation: 2003 TCC 911
+- Decision date: 2003-12-09
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3548, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Littlefield v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-12-09
+Neutral citation
+2003 TCC 911
+File numbers
+2003-516(IT)I
+Judges and Taxing Officers
+Brent Paris
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2003-516(IT)I
+BETWEEN:
+GARY LITTLEFIELD,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on September 23, 2003 at Kingston, Ontario
+Before: The Honourable Justice Brent Paris
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Carole Benoit
+____________________________________________________________________
+JUDGMENT
+The appeals from the reassessments made under the Income Tax Act for the 1997, 1998, 1999 and 2000 taxation years are dismissed.
+Signed at Ottawa, Canada, this 9th day of December 2003.
+"B. Paris"
+Paris, J.
+Citation: 2003TCC911
+Date: 20031209
+Docket: 2003-516(IT)I
+BETWEEN:
+GARY LITTLEFIELD,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Paris, J.
+[1] Gary Littlefield is appealing the disallowance by the Minister of National Revenue (the "Minister") of amounts claimed as employment expenses in his 1997, 1998, 1999 and 2000 taxation years. The Minister disallowed all of the amounts claimed for travel expenses (including motor vehicle expenses and meals and entertainment) and a portion of the amounts claimed for home office and telephone expenses.[1]
+[2] Mr. Littlefield was employed by the Canadian Automobile Association in 1997 and 1998. His position was eliminated at the end of 1998 and he was given two years' salary in lieu of notice which was paid to him over the next two years. He received some contract work during those years and he earned $2,850 in 1999 and $2,400 in 2000 for those contracts.
+[3] Although Mr. Littlefield claimed deductions for employment expenses in all four years, he admitted at the hearing that his employment was terminated at the end of 1998 and that after that point he was self-employed only. Therefore I will deal with his appeal in two parts, first for 1997 and 1998, and second for 1999 and 2000.
+[4] Mr. Littlefield testified that he was required to travel for his employment with the CAA in 1997 and 1998. He admitted that the CAA would have reimbursed him for the expenses he incurred in the course of his travel but that he chose not to claim reimbursement. Instead, he claimed all of his travel expenses as deductions in the calculation of his employment income for tax purposes, apparently on the advice of his accountant. A form prepared by the CAA for 1997 and 1998 and presented to the Court by Mr. Littlefield (the T-2200 Declaration of Conditions of Employment form) confirmed that he was entitled to be reimbursed for his travel expenses incurred in the course of his employment.
+[5] By virtue of subparagraph 8(1)(h.1)(ii) of the Income Tax Act, Mr. Littlefield would only be able to claim a deduction for travel expenses as an employee if he were required to pay those expenses. Here, Mr. Littlefield was entitled to be reimbursed for any travel expenses he incurred and therefore does not meet this condition. On this first issue, therefore, it is clear that Mr. Littlefield cannot succeed.
+[6] With respect to Mr. Littlefield's claim for home office expenses the T-2200 form showed that Mr. Littlefield was not required by his contract of employment to use a portion of his home as an office. Furthermore, there was no evidence before me to show that the space that Mr. Littlefield chose to use as a home office was used exclusively for that purpose or that he regularly met with clients at that location. These are conditions that a taxpayer must meet in order to get a deduction for home office expenses.[2]
+[7] For the 1999 and 2000 taxation years, Mr. Littlefield's claim for deductions for employment expenses cannot succeed because he was not employed in those years. It remains to be determined whether the amounts in issue for 1999 and 2000 were laid out by Mr. Littlefied to earn income from business (i.e. his self-employment). Mr. Littlefield bears the onus of proof on this point because throughout his dealings with the Minister and up to part-way through the hearing of this case he was presenting his claim on the basis that he had been employed by the CAA during all four years and that the amounts claimed were incurred in the course of his employment.
+[8] Mr. Littlefield's evidence regarding all of the expenses in issue was vague and general. Many of the amounts claimed were estimates and no records of business travel or meals were kept. The estimates he did provide did not appear accurate, as they are identical for each of the four years in issue despite the fact that Mr. Littlefield's circumstances changed significantly after 1998. He did not indicate how any of the amounts claimed were necessary to earn the contract income, other than to assert that the amounts were expended for business purposes. I am not satisfied that he did in fact expend all the amounts claimed or that the amounts he did lay out were required to earn income from business.
+[9] For the foregoing reasons, Mr. Littlefield's claim for the deductions of amounts in excess of those allowed by the Minister in his 1997, 1998, 1999 and 2000 taxation years is dismissed.
+Signed at Ottawa, Canada, this 9th day of December 2003.
+"B. Paris"
+Paris, J.
+CITATION:
+2003TCC911
+COURT FILE NO.:
+2003-516(IT)I
+STYLE OF CAUSE:
+Gary Littlefield and H.M.Q.
+PLACE OF HEARING:
+Kingston, Ontario
+DATE OF HEARING:
+September 23, 2003
+REASONS FOR JUDGMENT BY:
+The Honourable Justice B. Paris
+DATE OF JUDGMENT:
+December 9, 2003
+APPEARANCES:
+For Mr. Littlefield:
+Mr. Littlefield himself
+Counsel for the Respondent:
+Carole Benoit
+COUNSEL OF RECORD:
+For Mr. Littlefield:
+Name:
+Firm:
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] The total amounts disallowed for each year are: 1997, $11,269; 1998, $12,500; 1999, $12,439 and for the year 2000, $13,964.
+[2] These conditions are found in subparagraph 8(1)(i)(ii) and subsection 8(13) of the Act.

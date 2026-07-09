@@ -1,0 +1,223 @@
+Title: BH Parkway Place Ltd. c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/361236/index.do
+Corpus path: corpus/cases/tcc/2019/2019-cci-7-361236-bh-parkway-place-ltd-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2019-01-14
+
+# BH Parkway Place Ltd. c. La Reine
+
+- Citation: 2019 CCI 7
+- Decision date: 2019-01-14
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4332, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+BH Parkway Place Ltd. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2019-01-14
+Référence neutre
+2019 CCI 7
+Numéro de dossier
+2015-2873(GST)I
+Juges et Officiers taxateurs
+Johanne D’Auray
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2015-2873(GST)I
+ENTRE :
+BH PARKWAY PLACE LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+Intimée
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 2 octobre 2018, à Toronto (Ontario).
+Observations écrites déposées par l’appelante le 24 novembre 2018 et par l’intimée le 4 décembre 2018.
+Devant : L’honorable juge Johanne D’Auray
+Comparutions :
+Représentant de l’appelante :
+Bruno Harilaid
+Avocates de l’intimée :
+Me Elizabeth Koudys
+Me Carol Calabrese
+JUGEMENT
+L’appel interjeté à l’encontre de la nouvelle cotisation établie en vertu de la partie IX de la Loi sur la taxe d’accise, dont l’avis est daté du 3 septembre 2013, pour la période du 1er juillet 2009 au 31 décembre 2011, est accueilli conformément aux motifs du jugement ci-joints, sans dépens.
+Signé à Montréal (Québec), ce 14e jour de janvier 2019.
+« Johanne D’Auray »
+Juge D’Auray
+Référence : 2019 CCI 7
+Date : 20190114
+Dossier : 2015-2873(GST)I
+ENTRE :
+BH PARKWAY PLACE LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge D’Auray
+I. Introduction
+[1] Le présent appel soulevait cinq questions en litige :
+a) Le montant de 260 000 $ que BH Parkway Place Ltd. (« BH Parkway ») a reçu de Trillium College Inc. (« Collège Trillium ») était-il en raison de l’inexécution d’un bail commercial?
+b) BH Parkway avait-elle le droit de demander un crédit de taxe sur les intrants (« CTI ») de 8 404,89 $ relativement à l’acquisition d’un véhicule utilitaire sport (« VUS »)?
+c) BH Parkway avait-elle le droit de demander un CTI relativement au câble Cogeco qu’elle a payé pour la résidence personnelle d’un de ses employés?
+d) BH Parkway avait-elle le droit de demander un CTI relativement aux montants payés pour la nourriture, les boissons et le divertissement lorsqu’elle a invité des clients à sa loge au Peterborough Memorial Centre?
+e) La Cour avait-elle compétence pour annuler les intérêts établis par le ministre du Revenu national (le « ministre »)?
+[2] Au cours de l’audience, BH Parkway a concédé les trois dernières questions. Les seules questions en litige non encore réglées sont les questions a) et b). Contrairement à ce qui est énoncé dans les observations écrites de l’intimée, je ne suis pas d’accord pour dire que BH Parkway a concédé la question b). Par conséquent, mes motifs porteront sur les questions a) et b).
+A. Question a) – Le montant de 260 000 $ que BH Parkway a reçu du Trillium College était-il en raison de l’inexécution d’un bail commercial?
+[3] Au cours des périodes visées par l’appel, BH Parkway possédait un centre commercial à Peterborough, en Ontario, dont une cinquantaine d’unités commerciales et de vente au détail étaient louées.
+[4] Le directeur de BH Parkway est M. Bruno Harilaid.
+[5] Le 9 mai 2006, BH Parkway a signé une entente écrite en vue de louer une unité commerciale au Trillium College.
+[6] Le 5 octobre 2009, le Trillium College a obtenu une injonction provisoire ex parte de la Cour supérieure de justice de l’Ontario. Voici un extrait de l’ordonnance du juge Shaughnessy :
+- [traduction] LA COUR ORDONNE qu’il soit interdit à la défenderesse [BH Parkway] de pénétrer dans l'unité de la demanderesse [Trillium College] ou de prendre des mesures qui restreindraient ou entraveraient les activités de la demanderesse dans l’exploitation de son collège situé au 1135, rue Lansdowne, à Peterborough, en Ontario jusqu'à une nouvelle ordonnance de la Cour ou la signature d’une entente entre les parties.
+- Que la présente requête soit présentée de nouveau devant la Cour le 15 octobre 2009.
+- Que la demanderesse signifie immédiatement la demande, la présente ordonnance et le dossier de requête à la défenderesse ».
+[7] Le 26 octobre 2009, le Trillium College a quitté l’unité commerciale avant l’expiration du bail.
+[8] Le Trillium College a intenté une poursuite devant la Cour supérieure de justice de l’Ontario contre BH Parkway, alléguant que BH Parkway, ses directeurs et ses employés avaient entravé les activités de l’école, de ses employés et de ses étudiants. Selon M. Harilaid, directeur de BH Parkway, le Trillium College a demandé des dommages-intérêts de 500 000 $. M. Harilaid a également déclaré que la déclaration du Trillium College alléguait qu’il avait harcelé Mme Sandra Anderson, gestionnaire d’établissement scolaire au Trillium College. La déclaration du Trillium College n’a pas été déposée en preuve.
+[9] Le 27 octobre 2009, à la suite d’une requête déposée par BH Parkway, le juge Locke de la Cour supérieure de l’Ontario a rendu une ordonnance selon laquelle :
+[traduction]
+1. LA COUR ORDONNE que l’ordonnance ex parte du juge Shaughnessy datée du 5 octobre 2009 soit échue.
+2. LA COUR ORDONNE que, pendant l’ajournement, il soit interdit à la défenderesse reconventionnelle, Trillium College Inc., à ses administrateurs, dirigeants, employés ou à toute personne agissant selon ses instructions, d’enlever des locaux loués situés au 1135, rue Lansdowne Ouest, Unité 201-A, à Peterborough (Ontario) quelque accessoire fixe, bien, objet et pièce d'ameublement ou d’équipement que ce soit.
+3. LA COUR ORDONNE que, pendant l’ajournement, la défenderesse reconventionnelle, Trillium College Inc., ses administrateurs et dirigeants fournissent immédiatement à la demanderesse reconventionnelle, une liste de tous les accessoires fixes, les biens, les objets, tout l'ameublement et l’équipement enlevés des locaux loués.
+4. LA COUR ORDONNE que, pendant l’ajournement, la défenderesse reconventionnelle, Trillium College Inc., ses administrateurs et dirigeants divulguent immédiatement l’emplacement actuel des accessoires fixes, des biens, des objets, de l'ameublement et de l’équipement enlevés des locaux.
+5. LA COUR ORDONNE que, pendant l’ajournement, la défenderesse reconventionnelle, Trillium College Inc., ses administrateurs, dirigeants et employés préservent les accessoires fixes, les biens, les objets, l’ameublement et l’équipement en attendant une autre ordonnance de la Cour.
+6. LA COUR ORDONNE que la demanderesse reconventionnelle, BH Parkway Place Ltd., soit autorisée à modifier sa demande reconventionnelle afin d'ajouter Christopher Russel, Andrew Jones, Lincoln E. Frank, Andrew Kaplan et Daniel P. Neuwirth comme parties à la défense et de faire valoir une réclamation à leur encontre parce qu’ils se sont ingérés de manière délictuelle dans les relations contractuelles et une sanction en vertu de l’article 50 de la Loi sur la location commerciale.
+7. LA COUR ORDONNE à la défenderesse reconventionnelle, Trillium College Inc., de payer à la demanderesse reconventionnelle, BH Parkway Place Ltd., ses dépens pour la comparution d’aujourd’hui s’élevant à la somme de 3 000 $ ».
+[10] Le 16 décembre 2010, BH Parkway a déposé une défense et une demande reconventionnelle modifiées.
+[11] Dans sa défense et demande reconventionnelle modifiées, BH Parkway a ajouté en tant que défendeurs Christopher Russel, Andrew Jones, Lincoln E. Frank, Andrew Kaplan et Daniel P. Neuwirth, et elle a fait valoir une réclamation à leur encontre, pour la raison qu'ils se seraient ingérés de manière délictueuse dans les relations contractuelles et une sanction en vertu de l’article 50 de la Loi sur la location commerciale de l’Ontario. Dans sa défense et demande reconventionnelle modifiée, BH Parkway a allégué que, le 23 octobre 2009, en dehors des heures ouvrables, le Trillium College, avec l’aide et selon les directives de ses administrateurs et d’autres personnes non divulguées, ont secrètement enlevé tous les accessoires fixes, les biens, les objets, tout l’ameublement et l’équipement des locaux loués. Elle a également allégué que, le 24 octobre 2009, BH Parkway a découvert que les panneaux extérieurs du Trillium College avaient été enlevés et qu’un panneau indiquant la nouvelle adresse du Trillium College était affiché.
+[12] Dans sa défense et demande reconventionnelle modifiée, BH Parkway a également demandé que l’injonction provisoire du Trillium College soit annulée, puisque le Trillium College avait délibérément induit la Cour en erreur en faisant de fausses allégations de harcèlement contre M. Harilaid et le personnel de direction de BH Parkway.
+[13] BH Parkway a demandé à la Cour supérieure de justice de l’Ontario les mesures de réparation suivantes :
+[traduction]
+a) une injonction provisoire et permanente interdisant aux défendeurs par demande reconventionnelle, à ses administrateurs, dirigeants, employés ou à toute autre personne agissant selon ses directives d’enlever des locaux loués connus sous le nom de 1135, rue Lansdowne Ouest, Unité 201 A, à Peterborough, en Ontario, tous les accessoires fixes, les biens, les objets et tout l’ameublement et l’équipement;
+b) une ordonnance enjoignant aux administrateurs et aux dirigeants de la défenderesse reconventionnelle, Trillium College Inc., de fournir immédiatement à la demanderesse par voie de demande reconventionnelle, une liste de tous les accessoires fixes, les biens, les objets, tout l’ameublement et l’équipement enlevés des lieux loués;
+c) une ordonnance enjoignant aux administrateurs et aux dirigeants de la défenderesse reconventionnelle, Trillium College Inc., de divulguer immédiatement l’emplacement actuel des accessoires fixes, des biens, des objets de l’ameublement et de l’équipement ainsi enlevés;
+d) une ordonnance provisoire et permanente enjoignant aux administrateurs, dirigeants et employés de la défenderesse reconventionnelle, Trillium College Inc., de préserver les accessoires fixes, les biens, les objets, l’ameublement et l’équipement en attendant une autre ordonnance de la Cour;
+e) des dommages-intérêts en raison de l’abandon, de l’inexécution du contrat, du détournement de biens et de l’ingérence intentionnelle dans les relations contractuelles, pour la valeur actualisée du loyer impayé pour la durée non expirée du bail commercial, soit la somme de 231 000 $;
+f) des dommages-intérêts pour enlèvement frauduleux d’objets, la somme de 500 000 $;
+g) des dommages-intérêts en raison des dommages matériels causés ou de la modification des locaux loués, y compris les frais d’aliénation, soit la somme de 25 000 $;
+h) des intérêts antérieurs au jugement sous le régime de la Loi sur les tribunaux judiciaires;
+i) des intérêts postérieurs au jugement sous le régime de la Loi sur les tribunaux judiciaires;
+j) ses dépens d’indemnisation substantielle ainsi que la taxe sur les produits et services;
+k) toute autre mesure de réparation que la Cour estime juste.
+[14] L’interrogatoire préalable devait avoir lieu le 10 mars 2010. Selon le témoignage de M. Harilaid, à l’interrogatoire préalable, Mme Sandra Anderson a déclaré qu’elle ne pouvait plus continuer de faire semblant qu’elle avait été harcelée par M. Harilaid ou par le personnel de BH Parkway. M. Harilaid a déclaré qu’on avait ensuite demandé à BH Parkway de trouver un montant raisonnable et que le Trillium College consentirait à ce qu’un jugement soit rendu en conséquence.
+[15] Le 20 mars 2010, BH Parkway et Trillium College ont conclu une entente de règlement. Le Trillium College a accepté de verser 260 000 $ à BH Parkway. Sur les 260 000 $, un montant de 100 000 $ a été reçu par BH Parkway pendant les périodes faisant l’objet de l’appel, soit 70 000 $ (pendant la période se terminant le 30 septembre 2011) et 30 000 $ (pendant la période se terminant le 31 décembre 2011).
+[16] Le 31 août 2011, le Trillium College et BH Parkway ont signé le procès-verbal du règlement.
+II. Positions des parties
+[17] Après le procès, M. Harilaid a demandé s’il pouvait présenter des observations écrites pour le compte de BH Parkway. M. Harilaid a déclaré que, compte tenu de son état physique, il était trop fatigué au procès pour plaider de façon convaincante l’appel de BH Parkway. J’ai accepté cette demande. Cela dit, les observations écrites devaient se limiter aux éléments de preuve présentés au procès. Dans ses observations écrites, BH Parkway a soulevé un nouvel argument selon lequel le contrat de location initial prévoyait un prêt de 30 000 $ et que le prêt ne devrait pas être imposé. Cet argument n’a pas été présenté au procès et l’intimée n’a pas contre-interrogé M. Harilaid au sujet d’un tel prêt. De plus, aucun élément de preuve n’a été présenté pour justifier le prêt. Je n’accepterai pas ce nouvel argument.
+[18] BH Parkway soutient que le produit du règlement constituait des dommages-intérêts punitifs pour diffamation à la lumière de la plainte de harcèlement. Elle soutient également qu’une partie du montant reçu du Trillium College visait une sanction en vertu de l’article 50 de la Loi sur la location commerciale. BH Parkway soutient que le paragraphe 182(1) de la Loi sur la taxe d’accise (la « LTA ») ne s’applique pas. Par conséquent, BH Parkway n’aurait pas à verser la TVH sur le montant reçu du Trillium College.
+[19] L’intimée soutient que le produit du règlement reçu par BH Parkway est visé par la portée du paragraphe 182(1) de la LTA et que BH Parkway est réputée avoir perçu des impôts au taux de 13/113 des montants reçus. Elle soutient que le libellé du procès-verbal de règlement est clair. Le montant de 260 000 $ a été versé en contrepartie du consentement de BH Parkway au [traduction] « rejet de toute réclamation à son égard et au rejet de toutes les réclamations faites au titre de la demande reconventionnelle ». Il n’y a aucune mention de dommages-intérêts supplémentaires quelconques, mis à part ceux mentionnés dans la demande reconventionnelle. En se fondant sur la demande reconventionnelle, l’intimée soutient que le paiement a été effectué pour remédier aux dommages matériels causés à la propriété, au loyer impayé, à l’inexécution du contrat, à l’abandon du contrat, au détournement de biens et à l’ingérence intentionnelle dans les relations contractuelles. L’intimée soutient donc que le paiement du règlement n’a pas été versé pour indemniser BH Parkway pour diffamation, comme l’a allégué M. Harilaid.
+III. Analyse
+[20] Le paragraphe 182(1) de la LTA énonce que, dans le cas où un montant est payé à un inscrit à la TVH par une personne pour l’inexécution d’une convention visant la fourniture taxable d'un bien ou d'un service fourni à l'inscrit, l'inscrit est réputé avoir perçu, dès la réception de ce montant, la totalité de la taxe se rapportant à cette fourniture [1] .
+[21] Pour que le paragraphe 182(1) de la LTA s’applique :
+– l’inscrit devait fournir une fourniture taxable à une personne. Cette condition est respectée, puisque BH Parkway a fourni au Trillium College un bail commercial;
+– le paiement doit être effectué en raison de l’inexécution d’une convention liée à la fourniture taxable. Cette condition sera respectée si je conclus que les paiements versés par le Trillium College à BH Parkway découlent de l’inexécution du bail; et
+– le paiement versé par le Trillium College doit avoir été versé à BH Parkway autrement qu’en contrepartie pour la fourniture (c.-à-d. le bail). Cette condition est respectée, puisque le paiement a été reçu en règlement des actions dont est saisie la Cour.
+[22] Si le montant ou une partie du montant de 260 000 $ a été versé pour des dommages-intérêts contractuels liés à la fourniture du bail, il sera visé par la portée du paragraphe 182(1) de la LTA. Par contre, si le montant de 260 000 $ ou une partie de ce montant a été reçu par BH Parkway pour diffamation ou dommages-intérêts punitifs, il ne serait pas visé par le paragraphe 182(1) de la LTA, puisque ce montant n’aurait pas été reçu en raison de l’inexécution du bail.
+[23] Voici ce que le procès-verbal du règlement indique :
+[traduction]
+Attendu que les parties ont convenu, conformément aux modalités de la présente entente, de régler entre elles toutes les réclamations et demandes reconventionnelles qui ont été faites ou qui auraient pu être faites dans le cadre de la présente instance (l’« action »).
+[. . .]
+Ladite quittance signée par BH Parkway, ainsi que le consentement de BH Parkway au rejet de toute réclamation contre les défendeurs par demande reconventionnelle proposés (Trillium College). [. ..]
+[24] Selon la demande reconventionnelle, BH Parkway réclame :
+[traduction]
+e) des dommages-intérêts en raison de l’abandon, de l’inexécution du contrat, du détournement de biens et de l’ingérence intentionnelle dans les relations contractuelles pour la valeur actualisée du loyer impayé pour la durée non expirée du bail commercial, soit la somme de 231 000 $;
+f) des dommages-intérêts pour enlèvement frauduleux d’objets, soit la somme de 500 000 $;
+g) des dommages-intérêts en raison des dommages matériels causés ou de la modification des locaux loués, y compris les frais d’aliénation, soit la somme de 25 000 $;
+[25] L’intimée invoque les alinéas e) et g) pour déclarer que le montant de 260 000 $ a été payé en raison de l’inexécution du bail. Toutefois, l’intimée ne tient pas compte du fait que, dans sa demande reconventionnelle, BH Parkway demandait également un montant de 500 000 $ pour l’enlèvement frauduleux d’objets, dont une partie découlait de l’article 50 de la Loi sur la location commerciale. L’article 50 est ainsi libellé :
+Si le locataire enlève, cède ou emporte ainsi frauduleusement ses objets ou si une personne lui apporte sciemment et délibérément son aide pour le faire ou pour dissimuler ces objets, tous les contrevenants sont tenus de payer au locateur le double de la valeur de ces objets, et ce montant est recouvrable par voie d’action intentée devant le tribunal compétent.
+[Je souligne]
+[26] Comme l’a souligné le juge Kristjanson de la Cour supérieure de justice de l’Ontario dans l’affaire 1694879 Ontario Inc. c Krilavicius [2] :
+[traduction]
+L’article 50 est une disposition de sanction imposée aux parties qui aident sciemment et délibérément un locataire à enlever ses objets d’un lieu pour empêcher le locateur de les saisir.
+[Je souligne]
+[27] Je suis d’accord avec l’intimée pour dire que les montants réclamés au titre des alinéas e) et g) sont visés par le paragraphe 182(1) de la LTA, car ils ont été payés en raison de l’inexécution du bail. Toutefois, au titre de l’alinéa f) ci-dessus, la moitié du montant réclamé se rapporte à une sanction découlant de l’application d’une loi provinciale et non en raison de l’inexécution du bail.
+[28] Selon les paragraphes 56 à 59 de la demande reconventionnelle, la valeur des objets enlevés par le Trillium College était d’au moins 250 000 $. Par conséquent, au titre de l’article 50 de la Loi sur la location commerciale, BH Parkway a le droit de réclamer le double de la valeur des objets enlevés, soit 500 000 $. Par conséquent, la moitié du montant demandé, soit la sanction au montant de 250 000 $, n’est pas visée par la portée du paragraphe 182(1) de la LTA.
+[29] M. Harilaid soutient que je ne devrais pas me fier uniquement à la demande reconventionnelle et au procès-verbal du règlement, puisque, après le règlement, BH Parkway a découvert des dommages aux locaux loués totalisant au moins 1 000 000 $. Je ne suis pas d'accord. Je dois tenir compte des faits au moment du règlement et non de ce qui s’est passé après la conclusion du règlement.
+[30] Je ne peux pas non plus conclure, comme l’a fait valoir M. Harilaid, que le montant de 260 000 $ a été versé pour diffamation. Dans la demande reconventionnelle déposée par BH Parkway, aucun montant n’est demandé pour diffamation. Le procès-verbal de règlement est également muet au sujet de la diffamation. De plus, je n’ai aucun élément de preuve quant au montant qui aurait été accordé pour la diffamation, le cas échéant. M. Harilaid n’a pas établi que le montant de 260 000 $, ou une partie de ce montant, a été reçu pour diffamation.
+[31] Selon la demande reconventionnelle, BH Parkway réclame un montant total de 756 000 $ [3] . Comme je l’ai dit plus tôt, les montants prévus aux alinéas e) et g) et la moitié du montant prévu à l’alinéa f), pour un total de 506 000 $, ont été reçus par BH Parkway en raison de l’inexécution du bail, ce qui entraîne l’application du paragraphe 182(1) de la LTA.
+[32] Au prorata, 67 % des sommes reçues ont été reçues en raison de l’inexécution du bail. Par conséquent, pour les périodes d’appel, étant donné que le montant reçu par BH Parkway était de 100 000 $, un montant de 67 000 $ est visé par la portée du paragraphe 182(1) de la LTA. Toutefois, le paragraphe 182(1) de la LTA ne s’applique pas à 33 % des montants reçus, soit un montant de 250 000 $, puisqu’il a été reçu en dommages-intérêts punitifs au titre de l’article 50 de la Loi sur la location commerciale.
+B. Question b) – BH Parkway avait-elle le droit de demander un CTI de 8 404,89 $ relativement à l’acquisition du VUS?
+[33] En septembre 2010, BH Parkway a acheté un VUS (Mercedez Benz ML 350) au coût de 73 057,60 $, taxes comprises.
+[34] M. Harilaid a déclaré qu’il était le seul à utiliser le véhicule de BH Parkway et qu’il l’utilisait 99 % du temps à des fins commerciales.
+[35] M. Harilaid a déclaré que le véhicule était utilisé pour transporter de l’équipement et des marchandises pour les activités de BH Parkway. Les sièges arrière étant pliables, il a déclaré qu’il pouvait mettre autant de choses dans le VUS que dans une camionnette.
+[36] M. Harilaid, qui était alors octogénaire, a expliqué qu’en raison de son état physique, c’était le seul véhicule dans lequel il pouvait monter et duquel il pouvait descendre sans trop de difficultés. Au moment du procès, M. Harilaid était en fauteuil roulant. M. Harilaid a également déclaré qu’il avait deux autres véhicules qu’il utilisait à des fins personnelles. Il a ajouté que la plupart du temps, il laissait le véhicule à l’établissement commercial d’affaires de BH Parkway.
+[37] M. Mikhel Harilaid a également témoigné; c’est le fils de M. Harilaid. Il a confirmé le témoignage de son père, à savoir que c’était le seul véhicule qui permettait à son père d’y monter et d’en descendre sans trop de difficultés et qui pouvait aussi transporter une quantité impressionnante de biens et d’équipement. Il a également déclaré que le véhicule était utilisé exclusivement à des fins commerciales, puisque son père avait deux autres véhicules pour son usage personnel.
+[38] La position de BH Parkway est qu’elle a le droit de demander le plein montant du CTI, puisque le véhicule a été utilisé exclusivement à des fins commerciales.
+[39] L’intimée soutient que BH Parkway n’a pas établi que le véhicule avait été utilisé en totalité, c’est-à-dire plus de 90 % du temps, en vue de gagner un revenu, conformément à la définition du terme automobile au paragraphe 248(1) de la Loi de l’impôt sur le revenu [4] (la « LIR »). Par conséquent, le ministre a correctement plafonné le prix du véhicule à 30 000 $ aux fins de la réclamation d’un CTI au titre de l’article 201 de la LTA, de la définition d’une automobile aux termes du paragraphe 248(1) de la LIR et de l’alinéa 7307(1)b) du Règlement de l’impôt sur le revenu.
+[40] L’intimée soutient donc que le ministre a correctement établi la cotisation de l’appelante en lui accordant un CTI de 3 900 $.
+IV. Analyse
+[41] Conformément à la définition d’une automobile en vertu du paragraphe 248(1) de la LIR, une automobile n’inclut pas un véhicule à moteur de type fourgonnette ou camionnette ni un véhicule de type semblable qui est utilisé principalement pour le transport de marchandises, de matériel ou de passagers en vue de gagner un revenu. Un VUS est reconnu par l’Agence du revenu du Canada comme un véhicule semblable.
+[42] Par conséquent, si je conclus que le véhicule de BH Parkway a été utilisé principalement en vue de gagner un revenu d’entreprise, la limite de 30 000 $ [5] aux fins du calcul des CTI pour les véhicules de tourisme ne s’appliquerait pas dans le présent appel.
+[43] Dans l’affaire Distribution S.C.T. Inc. c La Reine [6] , au paragraphe 16 de la décision, le juge Tardif déclare ce qui suit :
+Lorsqu'une personne décide de faire l'acquisition d'un véhicule possédant des caractéristiques pouvant soulever des questions, elle se doit d'être prudente, vigilante et disciplinée en ce qui concerne l'utilisation du véhicule de manière à pouvoir éventuellement faire la preuve d'une manière convaincante que le véhicule en question a servi exclusivement à des fins commerciales.
+[44] Le présent appel comporte un ensemble inhabituel de faits. Il était clair qu’en raison de son état physique, M. Harilaid était limité dans ses mouvements. Comme il l’a dit, il a eu de la difficulté à trouver un véhicule qui lui permettait d’y monter et d’en descendre sans trop de difficultés, tout en s’assurant qu’il pouvait transporter une grande quantité de choses. Il a été établi en preuve que M. Harilaid avait deux autres véhicules qu’il pouvait utiliser à des fins personnelles. Il a également été établi que le véhicule était laissé à l’établissement commercial la plupart du temps. M. Harilaid a déclaré qu’il avait envoyé environ deux cents factures au vérificateur de l’Agence du revenu du Canada afin de démontrer que de nombreux voyages avaient été faits à des fins commerciales. De plus, les factures présentées à l’audience ont démontré que M. Harilaid faisait de nombreux déplacements au moyen du VUS pour transporter des choses pour le centre commercial BH Parkway.
+[45] À la lumière de la preuve, je suis convaincu que le véhicule a été utilisé principalement en vue de gagner un revenu d’entreprise. Par conséquent, BH Parkway a le droit de demander un CTI de 8 404,89 $.
+V. Dispositif
+[46] Pour les périodes visées par l’appel, l’appel de BH Parkway est accueilli pour les motifs suivants :
+BH Parkway a reçu, conformément à l’article 182 de la LTA, un montant de 67 000 $. Par conséquent, BH Parkway est réputée avoir perçu des taxes au taux de 13/113 du montant reçu, soit 7 707,96 $.
+BH Parkway a le droit de demander un CTI de 8 404,89 $ pour son véhicule.
+[47] Sans frais.
+Signé à Montréal (Québec), ce 14e jour de janvier 2019.
+« Johanne D’Auray »
+Juge D’Auray
+ANNEXE 1
+Renonciation et remise de dette
+182 (1) Pour l’application de la présente partie, dans le cas où, à un moment donné, par suite de l’inexécution, de la modification ou de la résiliation, après 1990, d’une convention portant sur la réalisation d’une fourniture taxable au Canada, sauf une fourniture détaxée, par un inscrit au profit d’une personne, un montant est payé à l’inscrit, ou fait l’objet d’une renonciation en sa faveur, autrement qu’à titre de contrepartie de la fourniture, ou encore une dette ou autre obligation de l’inscrit est réduite ou remise sans paiement au titre de la dette ou de l’obligation, les présomptions suivantes s’appliquent :
+a) la personne est réputée avoir payé, au moment donné, un montant de contrepartie pour la fourniture égal au résultat du calcul suivant :
+(A/B) × C
+où :
+A
+représente 100 %,
+B
+le pourcentage suivant :
+(i) si la taxe prévue au paragraphe 165(2) était payable relativement à la fourniture, la somme de 100 %, du taux fixé au paragraphe 165(1) et du taux de taxe applicable à la province participante où la fourniture a été effectuée,
+(ii) dans les autres cas, la somme de 100 % et du taux fixé au paragraphe 165(1),
+C
+le montant payé, ayant fait l’objet de la renonciation ou remis, ou le montant dont la dette ou l’obligation a été réduite;
+b) la personne est réputée avoir payé, et l’inscrit avoir perçu, au moment donné, la totalité de la taxe relative à la fourniture qui est calculée sur cette contrepartie, laquelle taxe est réputée égale au montant suivant :
+(i) si la taxe prévue au paragraphe 165(2) était payable relativement à la fourniture, le total des taxes prévues à ce paragraphe et au paragraphe 165(1) calculées sur cette contrepartie,
+(ii) dans les autres cas, la taxe prévue au paragraphe 165(1), calculée sur cette contrepartie.
+RÉFÉRENCE :
+2019 CCI 7
+Nº DU DOSSIER DE LA COUR :
+2015-2873(GST)I
+INTITULÉ :
+BH Parkway Place Ltd. c Sa Majesté la Reine
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+Le 2 octobre 2018
+MOTIFS DU JUGEMENT :
+L’honorable juge Johanne D’Auray
+DATE DU JUGEMENT :
+Le 14 janvier 2019
+COMPARUTIONS :
+Représentant de l’appelante :
+Bruno Harilaid
+Avocates de l’intimée :
+Me Elizabeth Koudys
+Me Carol Calabrese
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+[EN BLANC]
+Cabinet :
+[EN BLANC]
+Pour l’intimée :
+Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa (Canada)
+[1] J’ai joint en Annexe 1 à mes motifs de jugement le paragraphe 182(1) de la LTA.
+[2] 2017 ONSC 2396.
+[3] Le montant total réclamé est de 756 000 $. De ce montant, 506 000 $ (231 000 $ + 250 000 $ + 25 000 $) sont des dommages-intérêts pour inexécution de contrat. Par conséquent, la proportion en pourcentage est de 67 % pour les dommages-intérêts découlant de l’inexécution de contrat et de 33 % pour une sanction découlant de l’application d’une loi provinciale. J’applique ces pourcentages au montant en question, 100 000 $.
+[4] La définition de « voiture de tourisme » au paragraphe 123(1) de la LTA renvoie à la définition de « voiture de tourisme » au paragraphe 248(1) de la LIR. La définition de « voiture de tourisme » donnée par la LIR renvoie à la définition d’« automobile », qui est également définie au paragraphe 248(1) de la LIR.
+[5] Se reporter à l’article 201 de la LTA et à l’alinéa 7307(1)v) du Règlement de l’impôt sur le revenu.
+[6] 2006 CCI 482.

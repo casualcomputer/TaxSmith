@@ -1,0 +1,143 @@
+Title: Cira c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29405/index.do
+Corpus path: corpus/cases/tcc/2009/2009-cci-439-29405-cira-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2009-07-13
+
+# Cira c. La Reine
+
+- Citation: 2009 CCI 439
+- Decision date: 2009-07-13
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6957, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Cira c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2009-07-13
+Référence neutre
+2009 CCI 439
+Numéro de dossier
+2008-1548(IT)I
+Juges et Officiers taxateurs
+Patrick J. Boyle
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2008-1548(IT)I
+ENTRE :
+FRANK CIRA,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le13 juillet 2009 et décision rendue oralement le 15 juillet 2009, à Toronto (Ontario)
+Devant : L’honorable juge Patrick Boyle
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Andrew Jun (étudiant en droit)
+Me Aleksandrs Zemdegs
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’encontre de la cotisation établie en vertu de la Loi de l’impôt sur le revenu à l’égard de l’appelant pour l’année d’imposition 2005 est accueilli avec dépens, et l’affaire est déférée au ministre du Revenu national pour qu’il procède à un nouvel examen et établisse une nouvelle cotisation conformément aux motifs ci‑joints.
+Signé à Ottawa, Canada, ce 14e jour de septembre 2009.
+« Patrick Boyle »
+Juge Boyle
+Traduction certifiée conforme
+ce 20e jour d’octobre 2009.
+Marie-Christine Gervais, traductrice
+Référence : 2009 CCI 439
+Date : 20090914
+Dossier : 2008-1548(IT)I
+ENTRE :
+FRANK CIRA,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+(Rendus oralement à l’audience le 15 juillet 2009, à Toronto (Ontario),
+puis modifiés par souci de clarté et d’exactitude.)
+Le juge Boyle
+[1] Voici les motifs du jugement que j’ai prononcé et dans lequel j’ai accueilli l’appel de Frank Cira (« M. Cira ») que j’ai instruit sous le régime de la procédure informelle lundi, à Toronto.
+[2] Le présent appel porte sur la déduction au titre de pension alimentaire pour enfants demandée par M. Cira pour 2005. Dans son opposition et son appel, il a tout d’abord soutenu qu’il avait versé une pension alimentaire pour enfants de 6 354 $ en 2005. Toutefois, il convient maintenant qu’il a seulement versé 5 932 $, la différence étant attribuable à un paiement en retard effectué en janvier 2006.
+[3] M. Cira et son épouse avaient un enfant lorsqu’ils se sont séparés, puis ont divorcé. Ils ont signé un accord de séparation en 1988, et une instance en divorce a été engagée l’année suivante.
+[4] En 1988, l’accord de séparation prévoyait que M. Cira verserait une pension alimentaire pour enfants de 350 $ par mois.
+[5] Le 3 avril 1997, une cour de l’Ontario a ordonné que M. Cira verse une pension alimentaire pour enfants de 450 $ par mois à compter du 1er mai 1997.
+[6] La Cour a également ordonné que la pension alimentaire pour enfants augmente en fonction de l’augmentation du coût de la vie conformément au régime du droit de la famille en fonction de statistiques de Toronto.
+[7] Le jour suivant, soit le 4 avril 1997, une ordonnance de retenue des aliments a également été rendue. Cette ordonnance prévoyait le versement de la pension alimentaire pour enfants par l’intermédiaire du Bureau des obligations familiales de l’Ontario.
+[8] L’intimée convient que la somme de 5 932 $ a été versée par M. Cira en 2005 en application de l’ordonnance du 3 avril 1997. La seule autre question en litige en l’espèce est donc la question de savoir si l’ordonnance du 3 avril 1997 a une « date d’exécution » pour l’application de la Loi de l’impôt sur le revenu (la « Loi ») au sens du paragraphe 56.1(4) de la Loi. La position de M. Cira est que l’ordonnance du 3 avril 1997 n’en a pas parce qu’elle a été rendue avant le mois de mai 1997.
+[9] La position de l’intimée est que l’ordonnance du 3 avril 1997 avait une date d’exécution parce qu’elle exige que le premier versement du montant plus élevé de 450 $ soit effectué le 1er mai 1997.
+[10] M. Cira a témoigné que la pension alimentaire pour enfants devait toujours être versée le premier jour du mois. Cela est confirmé par l’accord de séparation de 1988.
+[11] Il a mentionné dans son témoignage que, au cours de l’audience qui a eu lieu en avril 1997, le juge de l’Ontario a avisé son ex‑épouse que le nouveau régime de versement des pensions alimentaires était sur le point d’entrer en vigueur, que son ex‑épouse avait choisi de poursuivre la procédure et de ne pas attendre et que le juge lui avait dit que le statu quo serait donc maintenu.
+[12] M. Cira a expliqué qu’il avait essayé d’obtenir les transcriptions, mais que l’Ontario ne les conservait que dix ans.
+[13] M. Cira a dit que l’augmentation de la pension alimentaire pour enfants en 1997, qui est passée à 450 $, reflétait le fait que la pension de 350 $ n’avait pas été rajustée à la hausse en fonction du coût de la vie depuis 1988. L’ex‑épouse de M. Cira n’est pas partie à la présente instance et n’a pas été appelée à témoigner.
+[14] Il n’a été présenté aucun élément de preuve montrant quel montant de pension alimentaire pour enfants aurait été à payer en fonction du revenu de M. Cira selon les lignes directrices sur les pensions alimentaires pour enfants du nouveau régime si celles‑ci avaient été appliquées ou si on avait eu l’intention de les appliquer.
+[15] Le refus de la demande de M. Cira par l’Agence du revenu du Canada (l’« ARC ») n’était pas fondé sur le litige décrit dans les actes de procédure que la Cour doit trancher, il découle plutôt du fait qu’initialement, M. Cira avait envoyé à l’ARC une copie de la correspondance qu’il avait reçue du Bureau des obligations familiales et dans laquelle on renvoyait à l’ordonnance d’avril 1997 et non pas une copie de l’ordonnance elle‑même.
+[16] M. Cira a par la suite envoyé à l’ARC une copie de la requête en divorce de 1989 et de l’ordonnance de retenue des aliments du 4 avril 1997, mais n’a toujours pas envoyé l’ordonnance du 3 avril 1997.
+[17] Dans la première lettre envoyée pour répondre à la correspondance du Bureau des obligations familiales, l’ARC a mentionné en partie ce qui suit :
+[traduction]
+La pension alimentaire pour enfants versée en vertu d’une ordonnance de la cour ou d’un accord écrit daté du 1er mai 1997 ou d’une date ultérieure n’est pas déductible.
+[Non souligné dans l’original.]
+[18] Il est clair que l’ordonnance rendue en avril 1997 ne peut pas avoir de date d’exécution au sens de l’alinéa a) ou des sous‑alinéas b)(i), (ii) ou (iii) de la définition de date d’exécution.
+[19] La position de l’intimée est que, même si l’ordonnance a été rendue au début d’avril 1997 et qu’elle n’a jamais été modifiée ou remplacée par une autre ordonnance ou par un accord, l’ordonnance a le 1er mai comme date d’exécution au sens du sous‑alinéa b)(iv) de la définition parce qu’elle prévoit que les versements de 450 $ doivent commencer le 1er mai 1997.
+[20] Le sous‑alinéa b)(iv) de la définition de date d’exécution prévoit ce qui suit :
+« date d’exécution » Quant à […] une ordonnance :
+[...]
+b) si […] l’ordonnance est établi[e] avant mai 1997, le premier en date des jours suivants, postérieur à avril 1997 :
+[...]
+(iv) le jour précisé dans [...] l’ordonnance […] pour l’application de la présente loi.
+[21] Pour que le sous‑alinéa b)(iv) s’applique à l’ordonnance du 3 avril 1997 de M. Cira, il faut qu’un jour soit précisé dans l’ordonnance comme date d’exécution de l’ordonnance et il faut que la date d’exécution soit précisée pour l’application de la Loi.
+[22] La question en litige en l’espèce est de savoir si l’ordonnance de 1997 remplit ces deux exigences. L’intimée est d’avis que l’ordonnance d’avril 1997 les remplit parce qu’elle prévoit que les versements commenceront le 1er mai 1997.
+[23] L’intimée se fonde sur la décision rendue par la Cour d’appel fédérale dans l’arrêt Dangerfield c. La Reine, 2003 CAF 480, 2004 DTC 6025, pour étayer sa position. Dans l’arrêt Dangerfield, l’ordonnance alimentaire de la cour avait aussi été rendue en avril 1997 et prévoyait ce qui suit :
+Il y aura une ordonnance de pension alimentaire pour enfants pour un montant de 250 $ par mois à verser à compter du 1er mai. [...]
+[24] L’ordonnance a été signée en mai. Elle prévoyait que le défendeur paye à la requérante à titre de pension alimentaire pour ladite enfant la somme de 250 $ par mois le premier jour de chaque mois à compter du 1er mai 1997.
+[25] Dans Dangerfield, la Cour d’appel fédérale a souligné qu’il ressortait clairement du dossier que le juge du tribunal de la famille savait que la pension alimentaire pour enfants tomberait sous le coup du nouveau régime et que c’était ce qu’il voulait.
+[26] Il était également clair que la mère requérante, qui était la contribuable appelante, comprenait elle aussi le nouveau régime et voulait qu’il s’applique. De plus, le père savait lui aussi que la mère voulait que le nouveau régime s’applique.
+[27] Dans Dangerfield, la Cour d’appel fédérale a conclu, compte tenu des faits, que la date d’exécution précisée pour le début des versements pouvait constituer la date d’exécution de l’ordonnance et que l’ordonnance n’a pas à énoncer expressément que la date est précisée pour l’application de la Loi.
+[28] La Cour d’appel fédérale s’est exprimée ainsi au paragraphe 15 :
+L’argument selon lequel la disposition en question exige qu’il soit expressément mentionné dans l’accord ou dans l’ordonnance que la date d’exécution est précisée « pour l’application de la présente loi » est dénué de fondement. Il ressort clairement de la jurisprudence que pareille condition technique n’est pas nécessaire. On exige uniquement que la date d’exécution soit incluse dans l’ordonnance pour l’application de la Loi; l’ordonnance n’a pas à énoncer expressément que la date est précisée pour l’application de la Loi. Il est souvent parfaitement évident, comme c’était ici le cas, que la date est précisée pour l’application de la Loi; si cela n’est pas évident, une preuve peut être présentée à cet égard, comme cela a été fait en l’espèce.
+[Non souligné dans l’original.]
+[29] Dans le cas de M. Cira, les faits sont très différents. L’intimée n’a pas été en mesure de mentionner quelque preuve que ce soit indiquant que le juge qui avait rendu l’ordonnance d’avril 1997, ou bien la mère ou le père, voulait que le nouveau régime s’applique. Le contribuable a témoigné que lui et son ex‑épouse savaient que le nouveau régime entrerait en vigueur le 1er mai, mais qu’ils avaient choisi de procéder dans le cadre de l’ancien régime.
+[30] La pension alimentaire pour enfants est passée à 450 $. Si on avait eu l’intention que le nouveau régime s’applique, même si ce n’était pas encore le mois de mai, on aurait pu s’attendre à ce que le montant soit plutôt réduit pour refléter qu’il ne faisait pas partie du régime où la pension alimentaire est déductible par le payeur et incluse dans le revenu du bénéficiaire, à moins que les nouvelles lignes directrices sur les pensions alimentaires n’exigent une augmentation. Aucun élément de preuve ne m’a été présenté à cet effet.
+[31] Comme la Cour d’appel fédérale l’a mentionné à la fin du paragraphe que je viens de citer, lorsque l’ordonnance ou une instance antérieure n’indique pas clairement qu’il y a une date d’exécution précisée pour l’application de la Loi, l’intimée peut présenter des éléments de preuve. Elle aurait pu agir ainsi en appelant la mère ou, sinon, peut‑être en la joignant à l’action. Elle ne l’a pas fait.
+[32] L’intimée n’a pas mis en doute la crédibilité du témoignage du père sur ce point ni sur aucun autre point. Elle n’a pas dit qu’une partie de son témoignage sur ce point constituait du ouï‑dire ou bien, vu que l’audience est entendue sous le régime de la procédure informelle, qu’il ne s’agissait pas de la meilleure preuve ni qu’il s’agissait d’une preuve intéressée.
+[33] Dans les circonstances et compte tenu de la preuve dont je dispose, je suis convaincu que l’ordonnance du 3 avril 1997 n’a pas comme date d’exécution le 1er mai ou une date ultérieure pour l’application de la Loi. En fait, elle ne comporte aucune date d’exécution.
+[34] L’appel de M. Cira est accueilli avec dépens.
+Signé à Ottawa, Canada, ce 14e jour de septembre 2009.
+« Patrick Boyle »
+Juge Boyle
+Traduction certifiée conforme
+ce 20e jour d’octobre 2009.
+Marie-Christine Gervais, traductrice
+RÉFÉRENCE : 2009 CCI 439
+NO DU DOSSIER DE LA COUR : 2008-1548(IT)I
+INTITULÉ : FRANK CIRA c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Les 13 et 15 juillet 2009
+MOTIFS DU JUGEMENT : L’honorable juge Patrick Boyle
+DATE DU JUGEMENT : Le 14 septembre 2009
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Andrew Jun (étudiant en droit)
+Me Aleksandrs Zemdegs
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

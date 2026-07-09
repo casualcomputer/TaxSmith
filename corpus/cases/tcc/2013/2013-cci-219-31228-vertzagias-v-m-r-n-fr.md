@@ -1,0 +1,191 @@
+---
+title: "Vertzagias v. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/31228/index.do"
+last_modified: "2013-07-04"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2013 CCI 219"
+citation2: ""
+neutral_citation: "2013 CCI 219"
+decision_date: "2013-07-04"
+language: "fr"
+item_id: "31228"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5133
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T15:12:53.134000+00:00"
+cases_cited_count: 5
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "d1f71abdceed730e1290425d3dc3b5b51154536dbe437df591a0904a1aaad354"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Vertzagias v. M.R.N.
+
+- Citation: 2013 CCI 219
+- Decision date: 2013-07-04
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5133, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Vertzagias v. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2013-07-04
+Référence neutre
+2013 CCI 219
+Numéro de dossier
+2012-2416(EI)
+Juges et Officiers taxateurs
+Lucie Lamarre
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2012-2416(EI)
+ENTRE :
+Maria Vertzagias,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 12 juin 2013 à Montréal (Québec).
+Devant : L’honorable juge Lucie Lamarre
+Comparutions :
+Avocat de l’appelante :
+Me Gilbert Nadon
+Avocate de l’intimé :
+Me Nancy Azzi
+JUGEMENT
+L’appel interjeté en vertu du paragraphe 103(1) de la Loi sur l’assurance‑emploi (la « Loi sur l’AE ») est rejeté, et la décision du ministre du Revenu national, datée du 20 mars 2012, est confirmée, étant entendu que l’emploi que l’appelante a exercé auprès de Leo-Danal (2008) inc. entre le 19 avril 2010 et le 26 avril 2011 n’était pas un emploi assurable au sens de l’alinéa 5(1)a) de la Loi sur l’AE.
+Signé à Ottawa, Canada, ce 4e jour de juillet 2013.
+« Lucie Lamarre »
+Juge Lamarre
+Traduction certifiée conforme
+ce 2e jour d’août 2013.
+C. Laroche, traducteur
+Référence : 2013 CCI 219
+Date : 20130704
+Dossier : 2012-2416(EI)
+ENTRE :
+Maria Vertzagias,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Lamarre
+[1] Il s’agit d’un appel d’une décision rendue le 20 mars 2012 par laquelle le ministre du Revenu national (le « ministre ») a conclu que l’appelante n’exerçait pas un emploi assurable au sens de l’alinéa 5(1)a) de la Loi sur l’assurance-emploi (la « Loi sur l’AE ») lorsqu’elle a travaillé pour Leo-Danal (2008) inc. (le « payeur ») entre le 19 avril 2010 et le 26 avril 2011.
+[2] Les faits sur lesquels se fonde le ministre sont exposés au paragraphe 5 de la réponse à l’avis d’appel (la « réponse ») :
+[traduction]
+5) Pour parvenir à sa décision, l’intimé, le ministre du Revenu national, s’est fondé sur les hypothèses de fait suivantes :
+a) le payeur exploitait une entreprise de confection de vêtements pour dames; admis
+b) les locaux du payeur sont situés au 225, rue Chabanel, à Montréal; admis
+c) les actionnaires sont Domenico Pagnotta, qui détient 50 p. 100 des actions, ainsi que May Haddad et Paul Haddad, qui en détiennent chacun 25 p. 100; admis
+d) l’appelante est diplômée du Collège LaSalle; admis
+e) l’appelante exerçait auprès du payeur les fonctions de patronnière/dessinatrice en chef; admis
+f) le travail de l’appelante consistait à superviser la confection de vêtements pour dames;
+g) l’appelante fournissait ses services dans les locaux du payeur et, en partie, à son domicile;
+h) l’appelante a un nom d’entreprise enregistré depuis 2004; admis
+i) chaque semaine, l’appelante remettait au payeur une facture indiquant le nombre d’heures de travail effectuées; admis
+j) le taux horaire payé à l’appelante était de 28 $; admis
+k) l’appelante avait un pouvoir discrétionnaire quant au nombre d’heures de travail;
+l) l’appelante fournissait ses propres instruments de travail, comme des machines à coudre, des ciseaux et des règles;
+m) l’appelante était inscrite pour la TPS et la TVQ.
+[3] L’appelante a témoigné à l’audience. Elle a obtenu son diplôme en création de mode du Collège LaSalle et se spécialise dans le dessin et la fabrication de patrons servant à la confection de vêtements. Elle exploite sa propre entreprise de confection de robes de soirée et de mariage, et elle est inscrite auprès du Registraire des entreprises du Québec depuis 2004 à titre d’« entreprise individuelle » fournissant des services de couturière sous le nom de Kopella (pièce R-1, onglets 8 et 18). En octobre 2009, elle a commencé à travailler pour le payeur à raison de deux jours par semaine, et elle est entrée à son service à temps plein à compter du mois de décembre 2009. Le payeur confectionne semble-t-il des tenues de sport pour dames. Le 10 octobre 2009, l’appelante a signé un contrat avec le payeur, sous son nom personnel (pièce R-1, onglet 4), et elle devait fournir ses services de dessin et de fabrication de patrons à un taux de rémunération horaire de 28 $. Elle n’a reçu aucune formation du payeur, car elle travaillait dans le domaine depuis 1997.
+[4] Son travail consistait à concevoir la gamme de produits, à choisir les tissus, à faire des croquis, à remettre les tissus à la confectionneuse d’échantillons en vue de procéder à leur coupage, à ajuster le produit, à vérifier la taille ainsi qu’à faire des retouches en vue d’arriver au produit final. Elle a déclaré qu’elle travaillait sous la surveillance de celle qu’elle a appelée sa [traduction] « patronne », Mme May Haddad, qui approuvait le produit final.
+[5] L’appelante a déclaré qu’une partie de son travail consistait aussi à superviser les activités de production et de contrôle de la qualité ainsi qu’à s’entretenir au jour le jour avec les entrepreneurs à propos des problèmes que présentaient parfois les tissus. Elle commandait aussi les bordures, les boutons et les doublures par l’intermédiaire des fournisseurs du payeur, avec l’autorisation de sa [traduction] « patronne ».
+[6] Elle accomplissait son travail dans les locaux du payeur et elle était en contact avec Mme Haddad trois ou quatre fois par jour, car elles faisaient des retouches tous les jours. Leurs bureaux étaient situés l’un à côté de l’autre. L’appelante a également mentionné qu’à quelques reprises elle apportait des patrons chez elle afin de pouvoir finir le travail à temps.
+[7] Elle fournissait ses propres règles et ciseaux. Elle se servait des tables et des rouleaux de papier du payeur. Elle ne se servait pas elle‑même de machines à coudre, et elle avait donc offert de vendre ses deux vieilles machines à Mme Haddad. Cette dernière, semble-t-il, avait convenu d’aller les chercher, mais, comme la confectionneuse d’échantillons ne les aimait pas, Mme Haddad ne les a jamais achetées et elles n’ont été d’aucune utilité au payeur. L’appelante n’a jamais rapporté chez elle ces deux machines à coudre, qui ont été rangées dans les locaux du payeur et laissées sur place le jour où celui-ci a déménagé (pièce R-1, onglet 20).
+[8] Quant à son horaire de travail, l’appelante a déclaré qu’à compter du mois de décembre 2009, elle a travaillé du lundi au vendredi, de 9 heures à 17 heures. Il y avait, a-t-elle dit, des règles de conduite à respecter; le déjeuner avait lieu à midi, et la pause à 15 h. Il arrivait parfois qu’elle travaille le samedi, de 9 heures à 13 heures. Cet horaire a duré deux ou trois mois, après quoi Mme Haddad lui a dit de travailler deux ou trois jours par semaine. Elle a recommencé à travailler à temps plein au cours de l’été de 2010, mais les affaires ont de nouveau ralenti à l’automne de 2010.
+[9] L’appelante était rémunérée à la semaine, en fonction des heures de travail qu’elle facturait (les factures applicables de novembre 2009 à février 2011 ont été produites en tant que pièce A-1). Elle était payée par chèque, sans aucune retenue à la source (un exemple a été déposé en tant que pièce A-2). À un certain point, Mme Haddad lui a dit qu’elle devait s’inscrire pour la TPS, car son revenu total avait atteint la somme de 30 000 $. L’appelante a présenté une demande d’inscription pour la TPS et elle a obtenu son numéro d’entreprise pour la TPS le 20 septembre 2010 (pièce R-1, onglet 17).
+[10] Selon l’appelante, lorsqu’elle a commencé à travailler à temps plein pour le payeur en décembre 2009, Mme Haddad lui a clairement fait comprendre qu’elle devait travailler exclusivement pour elle. L’appelante a expliqué que, de toute façon, vu l’ampleur de la charge de travail, il lui aurait été impossible de travailler ailleurs. Le payeur avait, semble-t-il, acheté une autre gamme de vêtements. C’est ce qui explique l’important volume de travail qu’il y avait à l’époque. L’appelante même n’avait pas besoin d’aide à l’externe, mais Mme Haddad a embauché une autre dessinatrice de patrons en cette période de pointe. L’appelante a même demandé à une occasion à sa sœur de servir de mannequin lors d’une séance de photographie d’une journée complète afin de donner un coup de main au payeur. Malheureusement, ni l’appelante ni sa sœur n’ont été rémunérées par le payeur pour ce service (voir la lettre d’appel datée du 1er novembre 2011 que l’appelante a envoyée au chef des appels, pièce R-1, onglet 1, page 3).
+[11] Le payeur a fourni à l’appelante une place de stationnement. Aucune de ses dépenses n’était remboursée et elle n’a reçu aucune indemnité de congé ou de jour férié, pas plus qu’on ne lui a payé d’heures supplémentaires. Elle n’a presque jamais pris de jours de maladie et, les fois où elle est restée à la maison, c’était à la demande de Mme Haddad, parce qu’il n’y avait pas assez de travail. Un exemple de cela, semble-t-il, apparaît sur la facture datée du 17 septembre (2010, vraisemblablement), qui indique qu’elle a travaillé quatre jours entiers, mais qu’elle a été [traduction] « en congé » le vendredi (pièce R-1, onglet 5, page 2); sur d’autres factures, elle n’a indiqué que quelques jours par semaine. Elle a déclaré, en contre-interrogatoire, qu’elle estimait avoir travaillé de 30 à 32 heures par semaine en moyenne.
+[12] Elle a reconnu qu’elle était rémunérée comme si elle était une travailleuse autonome, mais que l’argent était un sujet de discussion délicat avec le payeur et que rien n’avait été fait pour changer cet arrangement. Elle n’a pas reçu de feuillet T4. Cependant, elle a plus tard porté plainte contre le payeur auprès de la Commission des normes du travail, réclamant son indemnité de jours fériés, son indemnité de congé annuel de 4 p. 100, la rémunération de son temps supplémentaire, ainsi qu’une indemnité de préavis de deux semaines après avoir arrêté de travailler pour le payeur (pièce R-1, onglet 3). Un règlement a finalement été conclu entre les parties en septembre 2012 « sans aucune admission de responsabilité de part et d’autre, dans le seul but d’éviter les frais d’un procès » (pièce A-3).
+[13] L’appelante a reconnu qu’avant d’entrer au service du payeur, elle était travailleuse autonome et que, en 2007, elle avait aussi touché un revenu d’emploi.
+[14] Elle n’a jamais perçu ou versé au gouvernement la TPS avant d’entrer au service du payeur (car, a-t-elle dit, elle n’avait jamais atteint le seuil de 30 000 $), pas plus qu’elle n’a produit de déclarations de revenus pour les années 2009 à 2012. Elle n’a pas versé la TPS perçue du payeur. Son numéro d’inscription pour la TPS a été révoqué en avril 2011 (pièce R-1, onglet 14), c’est-à-dire au moment où elle a cessé de travailler pour le payeur.
+[15] L’intimé a appelé Mme Haddad à témoigner. Cette dernière est dessinatrice associée auprès du payeur. Elle est devenue associée en 2008. Elle aussi a conclu un contrat écrit avec le payeur, sous la raison sociale de « Vêtements Maggio ». Ce contrat prévoyait qu’elle toucherait un montant annuel fixe, divisé en paiements mensuels (pièce R-1, onglet 15). Selon Mme Haddad, elle et l’appelante ont convenu que cette dernière serait embauchée à titre contractuel en vue d’exécuter des travaux de patronage pendant ses temps libres. Mme Haddad savait que l’appelante travaillait à domicile, car elle annonçait ses services sur le Web.
+[16] Mme Haddad a déclaré qu’à cette époque-là, le payeur avait des employés inscrits sur la liste de paye et que l’appelante préférait être rémunérée en tant qu’entrepreneure indépendante, ce qui lui conférait plus de liberté et de souplesse. L’appelante, a-t-elle déclaré, pouvait travailler soit au bureau soit à domicile, tandis que les autres employés devaient se trouver sur place à plein temps. Mme Haddad a témoigné qu’il arrivait que l’appelante apporte des échantillons chez elle pour faire de la couture et demandait à quelqu’un d’autre (sa mère, croyait-elle) de faire ce travail. Ces fois-là, elle facturait au payeur le produit fini et n’était pas rémunérée à l’heure (des exemples de cela figurent dans les factures jointes à la pièce R-1, onglet 5, à la page 3).
+[17] Mme Haddad a déclaré que l’appelante gagnait 28 $ l’heure pour son travail de patronnière, et que ce taux couvrait ses dépenses (car elle avait d’autres dépenses à titre d’entrepreneure). À titre comparatif le payeur avait embauché une autre patronnière comme employée à temps partiel, et celle-ci gagnait 21 $ l’heure (pièce R-1, onglet 16).
+[18] Quand l’appelante a atteint le seuil de revenu de 30 000 $, Mme Haddad lui a dit qu’elle devait obtenir un numéro d’inscription pour la TPS. Elle lui a offert, semble-t-il, la possibilité de devenir une employée si elle le préférait, mais l’appelante a décliné cette offre, car elle voulait conserver un horaire de travail souple et ne voulait pas que l’on prélève sur son chèque de paye des retenues à la source.
+[19] Mme Haddad a dit qu’elle ne supervisait pas le travail de l’appelante. Ce qui lui importait, c’était que les projets soient terminés dans les délais fixés et d’une manière conforme aux prescriptions du payeur. Elle remettait le croquis à l’appelante, qui créait ensuite le patron en suivant son propre horaire. Selon Mme Haddad, l’appelante se présentait au travail chaque fois qu’elle le voulait. Elle pouvait rester tard le soir si Mme Haddad restait elle aussi, car celle-ci était la seule qui avait une clé des locaux. Mme Haddad fixait les délais en tenant compte des exigences de l’industrie. Elle savait le temps qu’il fallait prévoir pour les travaux de coupe et les rajustements à effectuer une fois que les patrons étaient terminés. Elle attribuait donc des délais à l’appelante. Elle ne vérifiait pas réellement le nombre d’heures que l’appelante facturait, car ce nombre semblait raisonnable.
+[20] Quant aux instruments de travail, Mme Haddad a déclaré que l’appelante fournissait ses propres ciseaux, règles, marqueurs et dévidoirs de ruban. L’appelante se servait des rouleaux de papier et des tables du payeur. Il lui arrivait même parfois de s’en servir pour ses propres besoins. Mme Haddad a reconnu que le payeur permettait à l’appelante d’utiliser un bureau et une place de stationnement, mais elle a ajouté qu’il en faisait de même pour les autres entrepreneurs. Le payeur tenait trois bureaux à la disposition de ses entrepreneurs.
+[21] Mme Haddad a également reconnu qu’elle recevait des subventions gouvernementales pour le travail qu’accomplissaient les employés ainsi que pour le travail qu’elle-même et l’appelante effectuaient à titre de personnes indépendantes (pièce R-1, onglet 19).
+[22] L’intimé a appelé M. Serge Benoit, agent local auprès de l’ARC, qui s’était entretenu avec l’appelante en mai 2013 au sujet des déclarations de revenus pour les années 2009 à 2011 qu’elle n’avait pas produites. L’appelante lui a dit qu’elle avait travaillé à son compte entre les mois d’octobre 2009 et de septembre 2011 et qu’elle était rémunérée au taux de 28 $ l’heure pour 35 heures par semaine (pièce R-1, onglet 21, 22e page). Il n’était pas au courant à l’époque – et elle ne le lui a pas dit – qu’elle contestait son statut de travail. Il a fait remarquer que le payeur n’avait produit aucun feuillet T4A (travailleur autonome) ou feuillet T4 (employé) pour l’appelante.
+[23] M. Elio Palladini, agent des appels auprès de l’ARC, a lui aussi témoigné pour expliquer pourquoi il avait décidé de considérer l’appelante comme une travailleuse autonome. En résumé, il croyait la version des faits de Mme Haddad, version qui a été, semble-t-il, confirmée par une autre employée, qui avait été au service du payeur à la même époque que l’appelante. Cette employée n’a pas été appelée à témoigner. M. Palladini a confirmé également auprès du ministère du Développement économique, de l’Innovation et de l’Exportation que des subventions avaient été accordées à la fois pour les employés et pour les travailleurs autonomes œuvrant dans le secteur de la mode (comme l’illustrent les certificats délivrés et déposés en tant que pièce R-1, onglet 19). Enfin, M. Palladini a conclu que le payeur avait, en 2010, 22 employés et, en 2011, 17 employés pour lesquels des feuillets T4 avaient été délivrés, et que l’appelante n’en faisait pas partie. Il a aussi confirmé que le payeur n’avait délivré aucun feuillet T4A au nom de l’appelante.
+Analyse
+[24] Comme l’a déclaré la Cour d’appel fédérale dans l’arrêt NCJ Educational Services Limited c. Ministre du Revenu national, 2009 CAF 131, au paragraphe 49, selon le principe de complémentarité consacré à l’article 8.1 de la Loi d’interprétation, ce sont les critères que prévoit le Code civil du Québec (le « CCQ ») qu’il y a lieu d’appliquer pour décider si un ensemble de faits déterminé crée un contrat de travail.
+[25] Il faut donc se reporter aux articles 2085, 2098 et 2099 du CCQ. Selon l’article 2085, un contrat de travail comporte trois éléments caractéristiques : 1) l’exécution d’un travail, 2) la rémunération, et 3) la direction ou le contrôle d’une autre personne, l’employeur. En revanche, l’article 2099 indique clairement que, dans le cas d’un contrat d’entreprise « il n’existe entre [le prestataire de services] et le client aucun lien de subordination » (NCJ Educational Services, précité, aux paragraphes 50 à 52).
+[26] Dans l’arrêt Grimard c. Canada, 2009 CAF 47, [2009] 4 R.C.F. 592, au paragraphe 31, s’inspirant des dictionnaires, la Cour d’appel fédérale a déclaré que « la subordination d’une personne implique la dépendance de celle-ci à une autre ou son assujettissement au contrôle de cette dernière. Le contrat d’entreprise se caractérise donc par une absence de contrôle de l’exécution du travail, un contrôle qu’il ne faut pas confondre avec celui de la qualité et du résultat. Le législateur québécois y ajoute également comme élément de définition le libre choix par l’entrepreneur des moyens d’exécution du contrat. »
+[27] Il convient de noter que la Cour d’appel fédérale a plus tôt prévenu, dans ce même arrêt, au paragraphe 27, qu’« il serait erroné de croire qu’il y a antinomie entre les principes du droit civil québécois sur la question [relativement à la nature juridique d’une relation de travail] et ce qu’il est convenu d’appeler les critères de common law, soit le contrôle, la propriété des outils, l’expectative de profits et les risques de perte et, enfin, l’intégration du travailleur à l’entreprise. » Le juge Létourneau a résumé son analyse en ces termes, au paragraphe 43 :
+[43] En somme, il n’y a pas, à mon avis, d’antinomie entre les principes du droit civil québécois et les soi-disant critères de common law utilisés pour qualifier la nature juridique de la relation de travail entre deux parties. Dans la recherche d’un lien de subordination juridique, c’est-à-dire de ce contrôle du travail, exigé par le droit civil du Québec pour l’existence d’un contrat de travail, aucune erreur ne résulte du fait que le tribunal prenne en compte, comme indices d’encadrement, les autres critères mis de l’avant par la common law, soit la propriété des outils, l’expectative de profits et les risques de pertes, ainsi que l’intégration dans l’entreprise.
+[28] Par ailleurs, la Cour d’appel fédérale, au paragraphe 32 de sa décision dans l’arrêt Grimard, a également fait référence aux articles 1425 et 1426 du CCQ, lesquels « exigent que l’on recherche la commune intention des parties et que l’on tienne compte d’un certain nombre de facteurs dont, par exemple, les circonstances dans lesquelles il a été conclu ». Cependant, la Cour a souligné que « le comportement des parties dans l’exécution du contrat doit refléter et actualiser cette intention commune, sinon la qualification du contrat se fera en fonction de ce que révèle la réalité factuelle et non de ce que prétendent les parties » (au paragraphe 33).
+[29] Dans une décision très récente : 1392644 Ontario Inc. o/a Connor Homes c. Ministre du Revenu national, 2013 CAF 85 (« Connor Homes »), au paragraphe 23, la Cour confirme que lorsqu’il est question de décider si une personne travaille comme un employé ou comme un entrepreneur indépendant, la question ultime consiste à savoir si cette personne fournit ses services à titre de personne travaillant pour son propre compte. Cette notion a tout d’abord été adoptée par le juge MacGuigan dans l’arrêt Wiebe Door Services Ltd. c. M.R.N. [1986] 3 C.F. 553, à la recherche de l’ensemble de la relation existant entre les parties, et elle a été entérinée par la Cour suprême du Canada dans l’arrêt 671122 Ontario Ltd. c. Sagaz Industries Canada Inc., 2001 CSC 59, [2001] 2 R.C.S. 983, au paragraphe 47.
+[30] Ainsi que l’a déclaré la juge Desjardins dans l’arrêt NCJ Educational Services, précité, au paragraphe 70, cette notion liée au critère de l’intégration est issue de l’approche analytique en common law à laquelle il a été fait référence plus tôt dans l’arrêt Grimard, laquelle a confirmé l’usage que l’on peut faire des décisions de common law en vue d’établir la nature d’un contrat de travail en droit civil.
+[31] C’est donc dire que, pour arriver à cette décision, le degré de contrôle qu’exerce l’employeur sur les activités du travailleur et la question de savoir si ce dernier fournit son propre matériel, embauche ses aides, gère et assume les risques financiers et a une possibilité de tirer un profit de l’exécution de ses tâches sont des facteurs dont il convient de tenir compte (Connor Homes, au paragraphe 29).
+[32] Il existe un processus d’examen en deux étapes qui aide à répondre à la question centrale, qui est de savoir si la personne fournit les services en tant que personne travaillant à son compte (Connor Homes, au paragraphe 38).
+[33] La Cour d’appel fédérale a déclaré ce qui suit au sujet du processus en deux étapes, aux paragraphes 39 et 40 de l’arrêt Connor Homes :
+[39] La première étape consiste à établir l’intention subjective de chacune des parties à la relation. On peut le faire soit d’après le contrat écrit qu’elles ont passé, soit d’après le comportement effectif de chacune d’elles, par exemple en examinant les factures des services rendus, et les points de savoir si la personne physique intéressée s’est enregistrée aux fins de la TPS et produit des déclarations d’impôt en tant que travailleur autonome.
+[40] La seconde étape consiste à établir si la réalité objective confirme l’intention subjective des parties. Comme le rappelait la juge Sharlow au paragraphe 9 de TBT Personnel Services Inc. c. Canada, 2011 CAF 256, 422 N.R. 366, « il est également nécessaire d’examiner les facteurs exposés dans Wiebe Door afin de déterminer si les faits concordent avec l’intention déclarée des parties ». Autrement dit, l’intention subjective des parties ne peut l’emporter sur la réalité de la relation telle qu’établie par les faits objectifs. À cette seconde étape, on peut aussi prendre en considération l’intention des parties, ainsi que les modalités du contrat, puisqu’elles influent sur leur relation. Ainsi qu’il est expliqué au paragraphe 64 de Royal Winnipeg Ballet, les facteurs applicables doivent être examinés « à la lumière de » l’intention des parties. Cela dit, cependant, la seconde étape est une analyse des faits pertinents aux fins d’établir si le critère de Wiebe Door et de Sagaz est ou non rempli, c’est à dire si la relation qu’ont nouée les parties est, sur le plan juridique, une relation de client à entrepreneur indépendant ou d’employeur à employé.
+[34] C’est donc dire que la première étape de l’analyse consiste à déterminer l’intention des parties, et la seconde, si la relation des parties concrétisée dans la réalité objective est une relation d’employeur-employé ou de client-entrepreneur indépendant (Connor Homes, précité, au paragraphe 42).
+[35] En l’espèce, il est possible d’inférer de la preuve que les deux parties entendaient que l’appelante soit une entrepreneure indépendante quand elles ont conclu leur premier contrat. En fait, l’appelante est d’avis que c’est à ce titre qu’elle a été embauchée. Je tire cette conclusion du contrat qu’elle a signé en octobre 2009 et par lequel elle offrait ses services de dessinatrice au payeur en contrepartie d’une rémunération versée à un taux horaire précisé (pièce R-1, onglet 4), de pair avec le fait qu’elle annonçait sa propre entreprise, qu’elle était toujours rémunérée par chèque sans retenue à la source aucune, qu’elle était inscrite pour la TPS et, enfin, qu’elle a mentionné à M. Benoit, agent local au service de l’ARC, qu’elle avait travaillé à son compte au cours de la période en litige (pièce R-1, onglet 21, 2e page).
+[36] Quant au payeur, il n’a manifestement pas considéré l’appelante comme une employée et il ne lui a pas remis un feuillet T4 comme il l’a fait pour sa vingtaine d’employés à peu près.
+[37] La question dont la Cour est saisie consiste donc à savoir si cette intention contractuelle s’est reflétée dans la réalité, c’est-à-dire si le contrat avait en fait pour effet juridique de créer une relation de client-entrepreneur indépendant ou, plutôt, une relation d’employeur-employé (Connor Homes, précité, au paragraphe 43).
+[38] Pour ce qui est du degré de direction ou de contrôle que le payeur exerçait sur l’appelante, on m’a présenté deux versions différentes. Mme Haddad a déclaré qu’il était loisible à l’appelante de travailler selon son propre horaire. Elle a ajouté que cette dernière pouvait travailler chez elle sur ses patrons et qu’il arrivait parfois qu’elle en apporte chez elle afin que quelqu’un d’autre (sa mère, croyait Mme Haddad) les couse, et que l’appelante facturait au payeur le produit final. Mme Haddad a déclaré que l’appelante retouchait les ébauches de patron au bureau. Elle a ajouté qu’elle ne supervisait pas le travail de l’appelante. Ce qui importait, c’était que le projet soit terminé à temps, conformément aux prescriptions du payeur et aux exigences de l’industrie. Elle a précisé également que l’appelante travaillait aussi pour ses propres clients, parfois à partir des locaux du payeur.
+[39] En revanche, l’appelante a déclaré qu’elle avait travaillé de 9 heures à 17 heures, du lundi au vendredi, pendant une période de deux ou trois mois lorsqu’elle avait commencé à travailler à temps plein en décembre 2009 et, une fois de plus, au cours de l’été de 2010. Elle a déclaré qu’il y avait des règles de conduite; le déjeuner avait lieu à midi, et la pause à 15 heures. Elle a ajouté qu’elle était supervisée quand elle créait un patron et que Mme Haddad lui disait comment faire les travaux de coupe. Cette dernière approuvait le modèle. Comme l’appelante l’a indiqué, elle était constamment supervisée par Mme Haddad, car leurs bureaux étaient situés l’un à côté de l’autre.
+[40] Compte tenu des deux versions contradictoires, j’ai examiné de près les factures que l’appelante a fournies au payeur à compter de novembre 2009 (pièce A-1). Il semble, d’après ces factures, que l’appelante n’accomplissait pas d’heures de travail régulières, et ce, même en décembre 2009, le mois où, a-t-elle dit, elle avait commencé à travailler à temps plein selon un horaire strict imposé par le payeur. Par exemple, pour la semaine du 24 au 27 novembre 2009, facturée le 3 décembre 2009, elle a compté quatre jours à raison de sept heures par jour, soit un total de 28 heures. Pour la semaine suivante (du 30 novembre au 4 décembre 2009) facturée le 9 décembre 2009, elle a facturé quatre jours de travail à raison de sept heures par jour et un jour de cinq heures, soit un total de 33 heures. La première semaine complète du mois de décembre 2009, elle a là encore facturé quatre jours de travail à raison de sept heures par jour, mais aussi trois heures le vendredi et trois heures le samedi, soit 34 heures en tout. La deuxième semaine complète de décembre 2009, elle a facturé cinq jours de travail à raison de sept heures par jour, soit 35 heures en tout. En janvier 2010, elle a facturé une période de travail variant entre 41 heures par semaine et 51 heures et demie par semaine. Il semble qu’elle effectuait des heures de travail plus longues que l’horaire ordinaire, soit de 9 heures à 17 heures, auxquelles elle a fait référence dans son témoignage. Par la suite, son horaire a varié constamment et il est arrivé très rarement, semble-t-il, qu’elle effectue cinq jours de travail par semaine, de 9 heures à 17 heures, comme elle disait l’avoir fait dans son témoignage ainsi que dans son avis d’appel. En juillet ainsi que pour les deux premières semaines du mois d’août 2010, elle a produit deux factures pour chaque semaine : la première pour des semaines ordinaires de 35 h et la deuxième pour des heures supplémentaires.
+[41] De plus, Mme Haddad a déclaré qu’elle avait embauché une autre patronnière au cours de la période de pointe; cette personne était inscrite sur la liste de paye du payeur et gagnait la somme 21 $ l’heure. Mme Haddad a expliqué que cette employée touchait 7 $ l’heure de moins que l’appelante parce que Mme Haddad avait tenu compte du fait que l’appelante, qui travaillait comme entrepreneure, avait davantage de dépenses à supporter. Mme Haddad a déclaré qu’elle avait offert à l’appelante la possibilité de devenir une employée quand son revenu avait atteint le seuil de 30 000 $, ce qui l’obligeait à demander un numéro d’inscription pour la TPS. Selon Mme Haddad, l’appelante avait décliné la proposition, parce qu’elle souhaitait conserver la souplesse dont elle bénéficiait e qu’elle ne voulait pas que le payeur effectue des retenues à la source.
+[42] L’appelante n’a pas vraiment contesté ce fait devant la Cour. Elle a reconnu qu’elle avait bel et bien demandé un numéro de TPS et qu’elle n’avait versé aucune taxe au gouvernement. Elle n’avait pas produit de déclarations de revenus pour les années 2009 à 2011 et avait dit à M. Benoit, l’agent local de l’ARC, qu’elle était une travailleuse autonome ces années-là.
+[43] Compte tenu de cette contradiction entre les heures indiquées sur les factures et l’horaire de travail qui existait censément, selon ce que l’appelante a déclaré devant la Cour et dans son avis d’appel, de pair avec le fait que l’appelante avait délibérément indiqué à l’agent local de l’ARC qu’elle était une travailleuse autonome au cours de la période où elle avait été au service du payeur et, accessoirement, qu’elle n’était pas très diligente quand il était question de s’acquitter de ses responsabilités fiscales, je suis encline à accorder plus de poids à la version des faits de Mme Haddad. De plus, l’appelante n’a reçu aucune formation du payeur, car elle était déjà spécialisée en patronage et en dessin dans le domaine de la confection de vêtements, et elle annonçait ses services en ce sens. Elle fournissait également ses propres règles, ciseaux, marqueurs et dévidoirs de ruban, mais elle se servait des tables et des rouleaux de papier du payeur. Il lui arrivait d’exploiter sa propre entreprise personnelle dans les locaux du payeur.
+[44] Elle touchait un taux horaire fixe, mais suivant un horaire variable. Ce taux était de 7 $ l’heure de plus que celui que gagnait l’autre patronnière, qui avait été embauchée à titre d’employée. Il lui arrivait parfois de faire coudre les modèles par quelqu’un d’autre, un travail qu’elle facturait au payeur non pas à l’heure, mais pour le produit final. Elle avait demandé à sa sœur de donner un coup de main lors d’une séance de photographie, pour laquelle le payeur n’avait rien payé.
+[45] L’appelante avait accès à une place de stationnement et à un bureau lorsqu’elle se trouvait dans les locaux du payeur, mais c’était aussi le cas des autres entrepreneurs. L’appelante n’avait pas d’avantages sociaux, pas plus que les jours fériés ne lui étaient payés.
+[46] Il est vrai que l’appelante a porté plainte auprès de la Commission des normes du travail après la période en litige, en mars 2012 (pièce R-1, onglet 3), mais cette plainte a été réglée « sans aucune admission de responsabilité de part et d’autre » (pièce A-3). Mme Haddad a expliqué qu’il était moins coûteux d’arriver à un règlement que de poursuivre l’affaire plus avant.
+[47] Considérant cela comme un tout, je conclus que la preuve tend à confirmer l’intention subjective qu’avaient les parties quand elles ont conclu leur premier contrat. L’appelante a peut-être voulu changer son statut au cours de la période en litige, mais elle n’a pas agi de façon à ce que l’on puisse conclure qu’un tel changement avait eu lieu. On a plutôt l’impression que tant qu’elle travaillait elle préférait avoir le statut de travailleuse autonome (ne pas avoir d’impôt retenu à la source et gagner davantage), mais que, lorsqu’elle a présenté une demande de prestation d’assurance-emploi, elle s’est rendue compte qu’il aurait été préférable d’être une employée.
+[48] L’appelante ne m’a pas convaincue qu’elle n’avait pas été embauchée par le payeur à titre de personne travaillant à son propre compte et que la relation juridique entre elle et le payeur ne concordait pas avec le fait d’avoir le statut d’entrepreneure indépendante. Elle ne m’a pas non plus convaincue que, indépendamment des dispositions convenues avec le payeur, elle travaillait en tant qu’employée dans – et pour – l’entreprise du payeur.
+[49] Je conclus donc que l’appelante, pendant qu’elle a travaillé pour le payeur au cours de la période en litige, n’exerçait pas un emploi assurable au sens de l’alinéa 5(1)a) de la Loi sur l’AE.
+[50] L’appel est rejeté.
+Signé à Ottawa, Canada, ce 4e jour de juillet 2013.
+« Lucie Lamarre »
+Juge Lamarre
+Traduction certifiée conforme
+ce 2e jour d’août 2013.
+C. Laroche, traducteur
+RÉFÉRENCE : 2013 CCI 219
+No DU DOSSIER DE LA COUR : 2012-2416(EI)
+INTITULÉ : Maria Vertzagias c. LE MINISTRE DU REVENU NATIONAL
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATE DE L’AUDIENCE : Le 12 juin 2013
+MOTIFS DU JUGEMENT : L’honorable juge Lucie Lamarre
+DATE DU JUGEMENT : Le 4 juillet 2013
+COMPARUTIONS :
+Avocat de l’appelante :
+Me Gilbert Nadon
+Avocate de l’intimé :
+Me Nancy Azzi
+AVOCATS INSCRITS
+AU DOSSIER :
+Pour l’appelante :
+Nom : Gilbert Nadon
+Cabinet : Ouellet Nadon & Associés
+Pour l’intimé : William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada

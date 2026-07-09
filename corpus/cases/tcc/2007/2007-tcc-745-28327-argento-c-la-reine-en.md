@@ -1,0 +1,238 @@
+---
+title: "Argento c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28327/index.do"
+last_modified: "2007-12-13"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 TCC 745"
+citation2: ""
+neutral_citation: "2007 TCC 745"
+decision_date: "2007-12-13"
+language: "en"
+item_id: "28327"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1846
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T22:28:33.473000+00:00"
+cases_cited_count: 2
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "4e684a213f992064ac11de48b3bd5e8367751d4655ad05f326444d69a9ccdd58"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Argento c. La Reine
+
+- Citation: 2007 TCC 745
+- Decision date: 2007-12-13
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1846, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Argento c. La Reine
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-12-13
+Neutral citation
+2007 TCC 745
+File numbers
+2005-3248(IT)G
+Judges and Taxing Officers
+Réal Favreau
+Subjects
+Income Tax Act
+Decision Content
+.
+Docket: 2005-3258(IT)G
+BETWEEN:
+PAYSAGISTE TERRA NOVA LTÉE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on common evidence with the appeals of Christine Argento (2005‑3250(IT)G) and Michael Argento (2005‑3248(IT)G) on March 23, 2007, at Montreal, Quebec.
+Before: The Honourable Justice Réal Favreau
+Appearances:
+Counsel for the Appellant:
+Jacques Matte
+Counsel for the Respondent:
+Nathalie Lessard
+____________________________________________________________________
+JUDGMENT
+The appeal from the notices of reassessment dated June 10, 2002 issued against the appellant for the 1996, 1997 and 1998 taxation years is dismissed with costs, the appeal from the notice of reassessment for the 1999 taxation year is allowed in part, without costs, and the entire matter is referred back to the Minister of National Revenue for reconsideration and reassessment so as to reduce the appellant's unreported income for the 1999 taxation year by $19,371.25, in accordance with the attached Reasons for Judgment.
+Signed at Montreal, Canada, this 13th day of December 2007.
+"Réal Favreau"
+Favreau J.
+Translation certified true
+on this 29th day of May 2008.
+Erich Klein, Revisor
+Docket: 2005-3248(IT)G
+BETWEEN:
+MICHAEL ARGENTO,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on common evidence with the appeals of Christine Argento (2005‑3250(IT)G) and Paysagiste Terra Nova Ltée (2005-3258(IT)G) on March 23, 2007, at Montreal, Quebec.
+Before: The Honourable Justice Réal Favreau
+Appearances:
+Counsel for the Appellant:
+Jacques Matte
+Counsel for the Respondent:
+Nathalie Lessard
+____________________________________________________________________
+JUDGMENT
+The appeal from the notices of reassessment dated June 6, 2002, issued against the appellant for the 1996 and 1997 taxation years is dismissed with costs, the appeal from the notice of reassessment for the 1998 taxation year is allowed in part, without costs, and the entire matter is referred back to the Minister of National Revenue for reconsideration and reassessment so as to reduce the appellant's unreported income for the 1998 taxation year by $9,685.62, in accordance with the attached Reasons for Judgment.
+Signed at Montreal, Canada, this 13th day of December 2007.
+"Réal Favreau"
+Favreau J.
+Translation certified true
+on this 29th day of May 2008.
+Erich Klein, Revisor
+Docket: 2005-3250(IT)G
+BETWEEN:
+CHRISTINE ARGENTO,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on common evidence with the appeals of
+Michael Argento (2005‑3248(IT)G) and Paysagiste Terra Nova Ltée (2005-3258(IT)G) on March 23, 2007, at Montreal, Quebec.
+Before: The Honourable Justice Réal Favreau
+Appearances:
+Counsel for the Appellant:
+Jacques Matte
+Counsel for the Respondent:
+Nathalie Lessard
+____________________________________________________________________
+JUDGMENT
+The appeal from the notices of reassessment dated June 3, 2002, issued against the appellant for the 1996 and 1997 taxation years is dismissed with costs, the appeal from the notice of reassessment for the 1998 taxation year is allowed in part, without costs, and the entire matter is referred back to the Minister of National Revenue for reconsideration and reassessment so as to reduce the appellant's unreported income for the 1998 taxation year by $9,685.62, in accordance with the attached Reasons for Judgment.
+Signed at Montreal, Canada, this 13th day of December 2007.
+"Réal Favreau"
+Favreau J.
+Translation certified true
+on this 29th day of May 2008.
+Erich Klein, Revisor
+Citation: 2007TCC745
+Date: 20071213
+Dockets: 2005-3248(IT)G
+2005-3250(IT)G
+2005-3258(IT)G
+BETWEEN:
+MICHAEL ARGENTO,
+CHRISTINE ARGENTO,
+PAYSAGISTE TERRA NOVA LTÉE,
+Appellants,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Favreau J.
+[1] These are appeals by Paysagiste Terra Nova Ltée (2005‑3258(IT)G), Michael Argento (2005‑3248(IT)G) and Christine Argento (2005‑3250(IT)G). The three appeals were heard on common evidence.
+[2] In filing its tax returns for the 1996, 1997, 1998 and 1999 taxation years respectively, Paysagiste Terra Nova Ltée ("Terra Nova") reported the following net business income (losses): ($4,745), ($1,564), $8,973 and $6,047.
+[3] On June 3, 2002, after the normal reassessment period, the Minister of National Revenue ("the Minister") issued notices of reassessment against Christine Argento, a shareholder of Terra Nova, for the 1996, 1997 and 1998 taxation years, adding the following amounts to her income as benefits conferred on a shareholder by Terra Nova:
+1996 1997 1998
+$15,777 $23,352 $34,844
+The Minister also assessed penalties under subsection 163(2) of the Income Tax Act, R.S.C. 1985, c. 1 (5th Supp.), as amended ("the Act").
+[4] On June 6, 2002, after the normal reassessment period, the Minister issued notices of reassessment against Michael Argento, another shareholder of Terra Nova, for the 1996, 1997 and 1998 taxation years, adding to his income as benefits conferred on a shareholder by Terra Nova the same amounts as those added to Christine Argento's income and assessing penalties under subsection 163(2) of the Act.
+[5] On June 10, 2002, the Minister issued notices of reassessment against Terra Nova for the 1996, 1997, 1998 and 1999 taxation years, adding $5,259, $34,080, $50,534 and $58,073 to its income as unreported business income for those years respectively, and assessing penalties under subsection 163(2) of the Act.
+[6] The Minister relied on the following facts in making the assessments at issue:
+(a) Christine and Michael Argento each own 40 percent of Terra Nova's shares;
+(b) Terra Nova's fiscal year ends on February 28 of each year;
+(c) Terra Nova has existed since 1986 and operates a landscaping and excavation business;
+(d) Christine Argento did Terra Nova's internal manual accounting;
+(e) Terra Nova did landscaping work for various customers and subsequently destroyed the sales invoices, and it did not report the income from that work in its tax returns;
+(f) materials purchased by Terra Nova were delivered to certain addresses but no sales invoices were found and no income was reported with respect to those deliveries;
+(g) a net worth statement for Christine and Michael Argento and a statement of net worth differential were prepared by an auditor from the Canada Customs and Revenue Agency ("the Agency");
+(h) the net worth determination for Christine and Michael Argento shows that they had cash inflows, over and above the income they reported, of at least $31,555.65 for 1996, $46,703.32 for 1997 and $69,688.43 for 1998;
+(i) the accountant who represented Christine and Michael Argento during the Agency's audit requested that that additional income be apportioned equally between Christine and Michael Argento;
+(j) for the years at issue, Terra Nova was the only source of income for Christine and Michael Argento, apart from employment insurance benefits, modest investment income and small capital gains;
+(k) the unreported cash inflows of Christine and Michael Argento as shown by the determination of their net worth are appropriations of the income earned by Terra Nova but not reported by that corporation.
+[7] The Minister made the assessments at issue outside the normal reassessment period for Terra Nova's 1996, 1997 and 1998 taxation years and, on the basis of the facts set out hereunder, assessed penalties under subsection 163(2) of the Act with respect to the amounts not reported by Terra Nova:
+(a) the lifestyle of Christine and Michael Argento, Terra Nova's shareholders and officers, was not consistent with the income they reported, and they could not have been unaware of this;
+(b) the amounts of income not reported by Terra Nova are high compared with its reported income;
+(c) Michael Argento signed Terra Nova's tax returns, which he had prepared by an outside accountant, Joseph A. Pietracupa;
+(d) Terra Nova's accountant prepared the accounting records using the information that Christine and Michael Argento gave him;
+(e) Christine Argento did Terra Nova's internal accounting, and either she or her spouse, Michael Argento, deposited the amounts received by Terra Nova;
+(f) some of the sales invoices for work done by Terra Nova were deliberately destroyed;
+(g) since it was on the basis of the deposits that the accountant determined the income reported by Terra Nova, it follows that Terra Nova, through its shareholders and officers, knowingly failed to report income in its tax returns.
+[8] Counsel for the appellants does not challenge the Minister's use of the net worth method for Christine and Michael Argento or the issuance of the notices of reassessment outside the normal reassessment period, and he acknowledged at the hearing that Terra Nova's accounting was incomplete.
+[9] The points disputed by counsel for the appellants are as follows:
+(a) the opening balance in the bank accounts of Christine and Michael Argento at the Royal Bank of Canada at the start of the period;
+(b) the way that the $4,000 balance of an inheritance received by Christine Argento was treated; and
+(c) the C$25,300 in loans made by Michael Argento's brother.
+[10] Counsel for the appellants alleges that, in determining the net worth of Christine and Michael Argento, the Minister did not take account of their bank account balances at the start of the period. He filed in evidence a copy of a statement for a mutual fund investment plan at the Royal Bank of Canada in Christine Argento's name showing a credit balance of $17,063.03 as at December 31, 1995, and a statement from the same bank, also in Christine Argento's name, dated February 19, 1996, and showing that $17,784.12 had been withdrawn and the account closed (Exhibit A‑1, documents filed together). A copy of a statement for a term investment certificate in the amount of $15,000 issued by the Royal Bank of Canada in Michael Argento's name and having a two‑year term running from January 26, 1995, was also filed (Exhibit A‑2). These bank account statements totalled $32,063.03 at December 31, 1995.
+[11] According to the auditor, Valérie Tremblay, the bank statements in question were requested on October 17, 2001, but were never provided during the audit. She also said that a requirement to produce the said statements had not been served on the Royal Bank of Canada because the interest amounts involved were not significant.
+[12] In fact, counsel for the appellants did not produce the bank statements from the Royal Bank of Canada until March 22, 2007, the day before the hearing, through a letter to counsel for the respondent (Exhibit I‑10).
+[13] Quite apart from the matter of the late filing of that documentary evidence, it must be asked whether or not the Minister has to take those bank statements into account in determining the net worth of Christine and Michael Argento.
+[14] Counsel for the respondent argues that, if the credit balance shown on the bank statements was held during the entire period, no adjustments to the net worth calculation are necessary.
+[15] Counsel for the appellants submits that the credit balance shown on the bank statements must appear in assets at the start of the period even absent any evidence that at maturity the investments were deposited or transferred into the accounts at the Bank of Montreal, that is, the personal bank accounts of Christine and Michael Argento, after the accounts at the Royal Bank of Canada were closed.
+[16] The evidence discloses that Christine Argento closed her account at the Royal Bank of Canada on February 19, 1996, and withdrew the balance of $17,784.12, but it is not known what became of that sum. No evidence was filed to show that it was transferred into an account at another bank or financial institution.
+[17] With regard to Exhibit A‑2, no evidence was filed concerning the renewal, transfer or other use of the $15,000 represented by a deposit certificate maturing on January 27, 1997.
+[18] Since subsection 152(8) of the Act creates a presumption that arbitrary assessments are valid and places the initial onus on the taxpayer to disprove the state of affairs assumed by the Minister (George R.H. Hsu v. Her Majesty the Queen, 2001 FCA 240, paragraph 22), it must be asked here whether the appellants have succeeded in discharging this onus. In my opinion, they have not. During their respective testimony, Christine and Michael Argento were incapable of providing additional explanations concerning the use of the amounts withdrawn from the accounts at the Royal Bank of Canada. Since the evidence in this regard is incomplete, it is my view that the appellants have not discharged their burden of proof.
+[19] The balance of $4,000 from an inheritance was received by Christine Argento in two cheques from her sister, Rosemary West: one, for $1,000, dated September 10, 1998, and the other, for $3,000, dated April 7, 1998 (Exhibit A‑5). Christine Argento inherited $38,836.67 from her mother's estate. In calculating net worth, the Minister took that $38,000 into account even though the mother's will was not filed and no evidence was produced to show that the amount had been deposited. The two cheques were produced on March 22, 2007 by counsel for the appellants in his letter to counsel for the respondent (Exhibit I‑10). Ms. West did not testify to explain why she had written the cheques. Since the Minister accepted without proof the amount Christine Argento received as an inheritance from her mother's estate in November 1997, I am of the opinion that the Minister must also recognize the balance of $4,000 from that inheritance.
+[20] The third and final point in dispute relates to the loans or gifts made to Michael Argento by his brother, Domenico Argento, an engineer, who was eight years his senior and living in the United States at the time. Copies of eight cheques for US$5,000 each, which were written to Mr. Argento and drawn on a Fleet account, and copies of the endorsements on those cheques were produced on March 22, 2007, by counsel for the appellants in the letter he sent counsel for the respondent (Exhibit I‑10). Four of the cheques are dated June 30, 1998, one is dated January 25, 1999, and three are dated March 15, 1999 (Exhibit A‑3, documents filed together). Only the four cheques dated June 30, 1998, are relevant here, since the cheques with a 1999 date on them are outside the net worth period for Christine and Michael Argento. Of the four cheques dated June 30, 1998, two were cashed on November 17, 1998, and the other two on January 7, 1999, more than six months after they were issued.
+[21] Domenico Argento did not testify and therefore did not confirm why the cheques were issued to his brother and whether they were loans or gifts.
+[22] Michael Argento did testify. He explained that his brother was well off and had often provided him with money to help him start out in business. He also explained that his brother gave him several cheques at once so that he would have more flexibility in using them. He confirmed that he did not repay the amounts his brother lent him. Finally, he said that he had not cashed two of the cheques dated June 30, 1998 earlier because he had not needed them at the time.
+[23] Since the answers given on the written examination for discovery of Christine and Michael Argento referred to a US$55,000 loan from Michael Argento's brother in 1998, I must admit in evidence the cheques written by Dominico Argento to Mr. Argento that were given to counsel for the respondent on March 22, 2007. Indeed, counsel for the respondent filed a copy of two of those cheques, for US$5,000 each and dated June 30, 1998, that were cashed on November 17, 1998 (Exhibit I‑7).
+[24] Although no loan agreement was filed in evidence and Michael Argento's brother did not testify, I will not draw any negative inference from this failure to testify, as counsel for the respondent suggested I should on the basis of the decision rendered by Bédard J. in Houle v. Her Majesty the Queen, 2006 TCC 291.
+[25] I do not think that the witness would have given evidence unfavourable to his brother. The filed photocopies of the cheques and endorsements are sufficient to establish that Michael Argento did in fact receive the cheques and that the Minister had to take them into account in determining the net worth of Christine and Michael Argento.
+[26] However, only the two cheques dated June 30, 1998, are relevant given that the net worth determination for Christine and Michael Argento covered the period from December 31, 1995, to December 31, 1998. Those two cheques, which total C$15,371.25, were deposited in Pépinière Beaconsfield Inc.'s bank account, as shown by the statement from the Bank of Montreal for the month of November 1998 (Exhibit A‑3, documents filed together).
+[27] The audit of Terra Nova's affairs began following an anonymous tip. Since there were discrepancies between the purchase invoices and sales invoices, the auditor used the net worth method to determine the income of Christine and Michael Argento. Terra Nova's accounting system was not computerized: everything was done manually by Christine Argento. The outside accountant prepared the financial statements and tax returns on the basis of the information provided by Christine Argento. The sales invoices were consistent with the financial statements, but some invoices were missing, in particular those marked as cancelled. For example, counsel for the respondent filed an invoice dated June 2, 1996, issued to Bob Henzell, which was paid by cheque on June 25, 1996 (Exhibit I‑9) but the amount did not appear in Terra Nova's income. Christine Henzell testified at the hearing and confirmed that Terra Nova had done some work and that the invoice had been paid by cheque.
+[28] Counsel for the appellants acknowledges that Terra Nova's accounting was incomplete and contained errors, but he submits that Terra Nova was not negligent. In my opinion, the appellants deliberately failed to keep proper accounting records and report substantial income over several years. Thus, there was in the present case the degree of negligence required to justify the assessment of penalties under subsection 163(2) of the Act for the taxation years under appeal.
+[29] Accordingly, the appeal from the notices of reassessment for the 1996, 1997 and 1998 taxation years of Paysagiste Terra Nova Ltée is dismissed with costs and the appeal from the notice of reassessment for the 1999 taxation year of Paysagiste Terra Nova Ltée is allowed in part, without costs, so as to reduce its unreported income for that taxation year by $19,371.25.
+[30] The appeals from the notices of reassessment for the 1996 and 1997 taxation years of Christine and Michael Argento are dismissed with costs and the appeals from the notices of reassessment for the 1998 taxation year of Christine and Michael Argento are allowed in part, without costs, so as to reduce the unreported income of Christine and Michael Argento for that year by $9,685.62 for each of those two appellants.
+[31] In all other respects, the appeals are dismissed with costs.
+Signed at Montreal, Canada, this 13th day of December 2007.
+"Réal Favreau"
+Favreau J.
+Translation certified true
+on this 29th day of May 2008.
+Erich Klein, Revisor
+CITATION: 2007TCC745
+COURT FILE NOS.: 2005-3248(IT)G, 2005-3250(IT)G,
+2005-3258(IT)G
+STYLES OF CAUSE: Michael Argento v. Her Majesty the Queen
+Christine Argento v. Her Majesty the Queen
+Paysagiste Terra Nova Ltée v. Her Majesty the Queen
+PLACE OF HEARING: Montreal, Quebec
+DATE OF HEARING: March 23, 2007
+REASONS FOR JUDGMENT BY: The Honourable Justice Réal Favreau
+DATE OF JUDGMENT: December 13, 2007
+APPEARANCES:
+Counsel for the Appellant:
+Jacques Matte
+Counsel for the Respondent:
+Nathalie Lessard
+COUNSEL OF RECORD:
+For the Appellants:
+Name: Jacques Matte
+Firm: Matte Bouchard
+Westmount, Quebec
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,328 @@
+---
+title: "Vankerk v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27103/index.do"
+last_modified: "2005-05-03"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 TCC 292"
+citation2: ""
+neutral_citation: "2005 TCC 292"
+decision_date: "2005-05-03"
+language: "en"
+item_id: "27103"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 973
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T20:46:22.798000+00:00"
+cases_cited_count: 0
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "249f06925469921b81fb809caf717431057ed9564a6223312c647e7aa3ce8352"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Vankerk v. The Queen
+
+- Citation: 2005 TCC 292
+- Decision date: 2005-05-03
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 973, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Vankerk v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-05-03
+Neutral citation
+2005 TCC 292
+File numbers
+2001-4542(IT)G
+Judges and Taxing Officers
+Leslie M. Little
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2001-4542(IT)G
+BETWEEN:
+WILLEM VANKERK,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on common evidence with the appeals of Elsbeth Vankerk (2001-4540(IT)G) on December 13 and 14, 2004 at Kitchener, Ontario
+Before: The Honourable Justice L.M. Little
+Appearances:
+Counsel for the Appellants:
+John W. McDonald
+Counsel for the Respondent:
+John R. Shipley, Harry Erlichman
+____________________________________________________________________
+JUDGMENT
+The appeals from the assessments made under the Income Tax Act for the 1986, 1987, 1988, 1989, 1990, 1991, 1992, 1993, 1994, 1995, taxation years are dismissed, with costs, in accordance with the attached Reasons for Judgment.
+Signed at Vancouver, British Columbia, this 3rd day of May 2005.
+Little J.
+Docket: 2001-4540(IT)G
+BETWEEN:
+ELSBETH VANKERK,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on common evidence with the appeals of Willem Vankerk (2001-4542(IT)G) on December 13 and 14, 2004 at Kitchener, Ontario
+Before: The Honourable Justice L.M. Little
+Appearances:
+Counsel For the Appellant:
+John W. McDonald
+Counsel for the Respondent:
+John R. Shipley, Harry Erlichman
+____________________________________________________________________
+JUDGMENT
+The appeals from the assessments made under the Income Tax Act for the 1986, 1987, 1988, 1989, 1990, 1991, 1992, 1993, 1994, 1995, taxation years are dismissed, with costs, in accordance with the attached Reasons for Judgment.
+Signed at Vancouver, British Columbia, this 3rd day of May 2005.
+Little J.
+Citation: 2005TCC292
+Date: 20050503
+Dockets: 2001-4542(IT)G
+2001-4540(IT)G
+BETWEEN:
+WILLEM VANKERK,
+ELSBETH VANKERK
+,
+Appellants,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Little J.
+A. FACTS:
+[1] The parties filed a Statement of Agreed Facts (Exhibit A-1).
+[2] The Statement of Agreed Facts reads, in part, as follows:
+a) Commencing in 1987, Mark Allan Eizenga and at a later date, James Sylvester hatched a scheme to defraud investors and the Government of Canada of millions of dollars.
+b) The scheme involved the creation of multiple putative "partnerships". These "partnerships" were not genuine partnerships because neither Eizenga nor Sylvester as the principles of the managing general partner operating as Advanced Business Opportunities ever had the intention to carry on business in common with the investors. Rather, the intention of Eizenga and Sylvester was to defraud the investors and the Government of Canada of money.
+c) Eizenga, Sylvester and others represented to the investors that the "partnerships" would carry on the business of producing sound recordings, records and the like. This representation was false and known by Eizenga and Sylvester to be false.
+d) In fact, the bulk of the monies collected as investments in the various partnerships were simply re-routed into the pockets of Eizenga, Sylvester, their companies and nominees. The small amount of money which was not diverted to Eizenga, Sylvester and others was spent on window-dressing to give the appearance of business activities by the partnership when there, in fact, was none.
+e) Eizenga and Sylvester marketed the "partnerships" as vehicles, which would produce substantial tax savings. Eizenga and Sylvester also promoted the "partnerships" as high-risk record production businesses.
+f) Much of the investment in the "partnerships" was done through obligations to make cash payments and enter into promissory notes, which obligations were either not honoured or where (sic) only when tax refunds were generated.
+g) The tax refunds of the investors were generated by the fraudulent statements generated by Eizenga, Sylvester and their nominees to create an apparent entitlement to the deduction of losses and accrued interest by the investors.
+h) The refunds thus generated were then re-circulated to Eizenga, Sylvester, their companies and nominees or pocketed by the investors.
+i) The Minister later disallowed the various deductions claimed by the investors on the basis that, inter alia, the amounts claimed had not been incurred for the purpose of earning income from a business or property.
+Records International 88-6D (The First Partnership)
+[3] On November 15, 1988, 762039 Ontario Limited operating as Advanced Business Opportunities and George Eizenga (father of Mark Eizenga) purported to form a general partnership known as Records International 88-6D ("88-6D"). The Statement of Agreed Facts states as follows:
+k) in fact, 88-6D was no more than part of an elaborate scheme by Mark Allan Eizenga, James Sylvester and their companies to defraud investors and the Government of Canada of money.
+[4] The Appellants each purchased units in 88-6D as follows:
+Number of Purportedly Cash
+Units Obliged to Pay Paid
+Willem Vankerk - 6 $127,500.00 $30,900.00 (Partly by way
+of loan)
+Elsbeth Vankerk - 6 $127,500.00 $30,900.00 (Partly by way
+of loan)
+[5] The Statement of Agreed Facts contains the following comments:
+s) the Managing General Partner (762039 Ontario Limited) was the sole manager of any alleged business of 88-6D.
+t) Mark Allan Eizenga was the promoter and Managing General Partner of many other similar so-called Partnerships.
+u) In fact, each of the so-called partnerships were merely vehicles for Mark Allan Eizenga, his associate James Sylvester and the corporations they controlled to defraud the unit holders of the cash portion of their investment.
+v) None of the so-called partnerships carried on their designated business and none was capable of carrying on their designated business. To the extent any activity was carried on by the so-called partnerships, the activity or activities were designed as window-dressing to disguise and conceal the sham activities and intentions of Eizenga, Sylvester and their corporations. None of these activities were for the benefit of the unit holders. Quite the contrary, the activities were solely for the benefit of Eizenga, Sylvester and their corporations.
+Tax Consequences of 88-6D
+[6] As part of the "window-dressing" referred to above, on October 27, 1988 88-6D purported to issue a Marketing Note to Esquire Canada in the amount of $1,020,000.00.
+[7] 88-6D claimed that Esquire Canada invoiced it in the amount of $1,219,400.00 for the period December 15, 1988 to December 31, 1988. It should be noted that this invoice was for a 15 day period.
+[8] 88-6D reported a loss of $1,286,004.00 for financial statement purposes for the fiscal period December 15, 1988 to December 31, 1988.
+Mainstream Productions 89-33 (The Second Partnership)
+[9] Eizenga, Sylvester and their companies established a general partnership known as Mainstream Productions - 89-33 ("89-33"). The scheme respecting 89-33 was identical in all relevant aspects to the 88-6D scheme referred to above.
+[10] The Appellants each purchased units in 89-33 on the following basis:
+Number of Purportedly Cash
+Units Obliged to Pay Paid
+Willem Vankerk - 18
+$110,700.00 $20,800.00
+Elsbeth Vankerk - 12
+$73,800.00 $13,800.00
+Tax Consequences of 89-33
+[11] 89-33 claimed that Esquire Canada issued an invoice in the amount of $1,465,100.00 for the period August 4, 1989 to December 31, 1989.
+[12] 89-33 reported a loss of $1,478,713.00 for tax purposes for the fiscal period August 4, 1989 to December 31, 1989.
+Mainstream Productions 90-50 (The Third Partnership)
+[13] 762039 Ontario Limited operating as Advanced Business Opportunities ("ABO") purported to form a general partnership known as 90-50 ("90-50").
+[14] The Appellants each purchased units in 90-50 on the following basis:
+Number of Purportedly Cash
+Units Obliged to Pay Paid
+Willem Vankerk - 12
+$90,000.00 $40,575.00
+Elsbeth Vankerk - 12
+$90,000.00
+$64,950.00
+Tax Consequences of 90-50
+[15] 90-50 claimed that Esquire Canada issued an invoice in the amount of $1,740,120.00 for the period September 10, 1990 to December 31, 1990.
+[16] 90-50 reported a loss of $1,760,353.00 for tax purposes for the fiscal period September 10, 1990 to December 31, 1990.
+[17] When the Appellants filed their income tax returns for the taxation years indicated they deducted the following amounts:
+WILLEM VANKERK
+Loss Claimed
+Interest
+1988
+$153,756.00
+$10,838.00
+1989
+444,522.00
+60,598.00
+1990
+293,388.00
+91,422.00
+1991
+1,308.00
+54,660.00
+1992
+2,592.00
+40,995.00
+1993
+---
+44,495.00
+1994
+3,500.00
+40,995.00
+1995
+-----
+40,995.00
+$899,066.00
+$344,004.00
+ELSBETH VANKERK
+Loss Claimed
+Interest
+1988
+$153,756.00
+1989
+296,682.00
+$10,838.00
+1990
+295,722.00
+44,012.00
+1991
+1,308.00
+74,835.00
+1992
+2,592.00
+45,508.00
+1993
+-
+34,132.00
+1994
+-
+36,631.00
+1995
+-
+34,131.00
+$750,060.00
+$280,087.00
+[18] The Minister of National Revenue (the "Minister") reassessed the Appellants' taxation years referred to above to deny all of the losses claimed by the Appellants from the three Tax Shelters referred to above and to deny all of the interest that had been claimed by the Appellants.
+B. ISSUES:
+[19] The issues before the Court are whether:
+(1) Records International 88-6D, Mainstream Productions 89-33 and Mainstream Productions 90-50 were partnerships carrying on business with a view to profit;
+And whether:
+(2) The Appellants should be allowed to deduct the losses and the interest that they claimed when they filed their income tax returns for the indicated taxation years.
+C. ANALYSIS:
+1. Were the Partnerships referred to as Records International 88-6D, Mainstream Productions 89-33 and Mainstream Productions 90-50 properly constituted partnerships carrying on business with a view to profit?
+[20] Section 2 of the Partnership Act of Ontario defines a partnership as follows:
+2. Partnership is the relation that subsists between persons carrying on a business in common with a view to profit, but the relation between the members of a company or association that is incorporated by or under the authority of any special or general Act in force in Ontario or elsewhere, or registered as a corporation under any such Act, is not a partnership within the meaning of this Act. R.S.O. 1980, c. 370, s. 2.
+[21] The following facts were agreed in the Statement of Agreed Facts:
+1. The General Partner, Advanced Business Opportunities never had the intention to carry on business in common with the investors. (see Background of Statement at paragraph "b")
+2. The bulk of the money collected from the investors in the various partnerships were simply re-routed into the pockets of Eizenga and Sylvester and the remainder of the funds was spent on "window dressing" in an apparent attempt to indicate that a business was being carried on. (see "Background" of Statement at paragraph "c")
+3. The majority of the investment for each of the investor consisted of "obligations" to enter into promissory notes and these "obligations" were never honoured. (see "Background" of Statement at paragraph "e")
+4. The partnerships did not carry on their designated business. Furthermore the partnerships were not capable of carrying on their designated business.
+AND
+5. None of the activities carried on by the partnerships was for the benefit of the investors.
+[22] In summary the partnerships did not carry on any business activity. The sole and only activity was the fraudulent activity perpetrated by Eizenga and Sylvester.
+[23] I have concluded that the so-called partnerships did not, at any time, engage in any business activity. There was no profit-making intention. I quote from paragraph d) of the Statement of Agreed Facts:
+b) ...These "partnerships" were not genuine partnerships because neither Eizenga nor Sylvester as the principles of the managing general partner operating as Advanced Business Opportunities ever had the intention to carry on business in common with the investors. Rather, the intention of Eizenga and Sylvester was to defraud the investors and the Government of Canada of money.
+2. Were the Appellants involved in a business when they invested in the partnerships?
+[24] Paragraph 18(1)(a) of the Income Tax Act (the "Act") provides that in order for a taxpayer to make a deduction from income, the deduction must be shown to have been made or incurred for the purpose of gaining or producing income from a business or property.
+[25] In determining whether the Appellants could be considered to be carrying on a business the following points should be noted:
+- The so-called "marketing expenses" were never paid and "marketing" never took place.
+- Partnerships were never formed because neither Eizenga nor Sylvester (the principles of ABO) had the intention to carry on business in common with the investors.
+- Eizenga and Sylvester represented to the investors that the partnerships would carry on the business of producing sound recordings, records and music and these representations were false.
+- Eizenga and Sylvester marketed the partnerships as vehicles which would produce substantial tax savings. Much of the investments in the so-called partnerships were made through obligations to make cash payments. These obligations were either not honoured or were only honoured when tax refunds were generated.
+- The tax refunds of the investors were generated or created by the fraudulent statements made by Eizenga and Sylvester to create an apparent entitlement to the deduction of losses and earned interest by the investors.
+[26] On the facts contained in the Statement of Agreed Facts and on the facts presented to the Court I have concluded that the expenses that were claimed were not expenses within the meaning of paragraph 18(1)(a) of the Act because the so-called expenses were "window dressing", "phony or fictitious expenses".
+[27] I have therefore concluded that on these facts there was no business being carried on. This was nothing more than a fraudulent scheme perpetrated by Eizenga and Sylvester.
+[28] In reaching this conclusion, I have referred to the following Court decisions:
+In Tonn et al. v. R., 96 DTC 6001 the Federal Court said that there must be a possibility of earning income or the expense is not deductible.
+In Moloney, Young, Russell and Fullard v. The Queen, 89 DTC 5099 the Federal Court said that a scheme has no real business purpose behind it if it consists of nothing more than the circular movement of paper and return generated solely from income tax deductions. (Note - This decision was affirmed by the Federal Court of Appeal in Moloney v. The Queen, 92 DTC 6570.
+In Stewart v. Canada, [2002] 2 S.C.R. 645 the Supreme Court of Canada said at page 679:
+...whether or not a taxpayer has a source of income from a particular activity is determined by considering whether the taxpayer intends to carry on the activity for profit, and whether there is evidence to support that intention.
+[29] In this situation there was no business activity carried on by any of the three Partnerships.
+3. Are the interest expenses deductible?
+[30] I must next determine whether the Appellants are allowed to deduct the interest expenses that were claimed. The following deductions were claimed:
+Willem Vankerk
+1989 $10,838.00
+1990 $60,598.00
+1991 $91,422.00
+1992 $54,660.00
+1993 $40,995.00
+1994 $44,495.00
+1995 $40,995.00
+$344,003.00
+Elsbeth Vankerk
+1989 $10,838.00
+1990 $44,012.00
+1991 $74,835.00
+1992 $45,508.00
+1993 $34,132.00
+1994 $36,631.00
+1995 $34,131.00
+$280,087.00
+[31] The interest referred to above was calculated on the so-called promissory notes. However, the interest was never paid by the Appellant on the promissory notes.
+[32] Paragraph 20(1)(c) of the Act provides that interest expenses may be deducted from income if the interest is paid pursuant to a legal obligation to pay interest on money borrowed for the purpose of earning income from a business or property.
+[33] In this situation the Appellants have not established that they paid any amount on account of interest on the promissory notes. Furthermore, there was no business associated with the amounts that the Appellants deducted as interest.
+4. Are the expenses that were claimed reasonable in the circumstances?
+[34] Section 67 of the Act provides that no deduction shall be made in respect of an outlay or expense except to the extent that it was reasonable in the circumstance.
+[35] In this situation Willem Vankerk paid cash of $92,275.00 and claimed losses of $899,066.00 plus interest of $344,004.00. Elsbeth Vankerk paid cash of $109,650.00 and claimed losses of $750,060.00 plus interest of $280,087.00. The magnitude of the cash paid compared to the losses that were claimed is not reasonable in the circumstances.
+[36] Before concluding I wish to comment on the interest that has been assessed by the Minister. From the records that were filed with the Court I note that the 1987 taxation year of Willem Vankerk was reassessed on July 18, 1991 and the 1988 taxation year was reassessed on February 26, 1993. Elsbeth Vankerk's 1987 taxation year was reassessed on July 18, 1991 and the 1988 taxation year was reassessed on January 31, 1992. The 1989, 1990 and 1991 taxation years of Willem Vankerk were reassessed on August 20, 1993. The 1989, 1990 and 1991 taxation years of Elsbeth Vankerk were reassessed on August 30, 1993. In other words there has been an unusual delay of 10 - 15 years between the date of the issue of the Reassessments and the hearing of the appeals.
+[37] I do not have the authority to waive interest that has been assessed. However, under the Fairness Legislation in the Act the Minister has the authority to waive some of the interest if the delay in processing the appeals was caused by the actions of officials of the Canada Revenue Agency ("CRA"). (Note: I believe that the policy of the CRA regarding the waiver of interest by the Minister would also extend to delays caused by officials of the Department of Justice.) The Minister may wish to review this situation to determine if any portion of the interest that has been assessed should be waived if the delay is caused by officials of the CRA or lawyers with the Department of Justice.
+[38] For the reasons as outlined above, I have concluded that the appeals should be dismissed with costs.
+Signed at Vancouver, British Columbia, this 3rd day of May 2005.
+Little J.
+CITATION:
+2004TCC292
+COURT FILES NO.:
+2001-4542(IT)G
+2001-4540(IT)G
+STYLE OF CAUSE:
+Willem Vankerk and Elsbeth Vankerk
+Her Majesty the Queen
+PLACE OF HEARING:
+Kitchener, Ontario
+DATES OF HEARING:
+December 13 and 14, 2004
+REASONS FOR JUDGMENT BY:
+The Honourable Justice L.M. Little
+DATE OF JUDGMENT:
+May 3, 2005
+APPEARANCES:
+Counsel for the Appellant:
+John W. McDonald
+Counsel for the Respondent:
+John R. Shipley, Harry Erlichman
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+John W. McDonald
+Firm:
+McDonald, Ross
+Cambridge, Ontario
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

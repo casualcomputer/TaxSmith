@@ -1,0 +1,153 @@
+Title: Armstrong v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/31104/index.do
+Corpus path: corpus/cases/tcc/2011/2013-tcc-59-31104-armstrong-v-the-queen-en.md
+Document type: case_law
+Last modified: 2011-10-13
+
+# Armstrong v. The Queen
+
+- Citation: 2013 TCC 59
+- Decision date: 2011-10-13
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4690, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Armstrong v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2011-10-13
+Neutral citation
+2013 TCC 59
+File numbers
+2009-2099(IT)G
+Judges and Taxing Officers
+François M. Angers
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2009-2099(IT)G
+BETWEEN:
+DAVID ARMSTRONG,
+Appellant/Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent/Respondent on the motion,
+AND BETWEEN:
+CANGO INC.,
+Applicant,
+and
+HER MAJESTY THE QUEEN and DAVID ARMSTRONG,
+Respondents on the motion.
+____________________________________________________________________
+Motions in writing
+Before: The Honourable Justice François Angers
+____________________________________________________________________
+ORDER
+Upon motion in writing made by the applicant Cango Inc. for an order for leave to intervene in the proceedings;
+Upon reading the material filed;
+The motion is granted.
+Upon motion in writing made by the applicant David Armstrong for an order for waiver of the implied undertaking not to disclose documents and information obtained during the examination for discovery of Stephen Kleinschmidt;
+Upon reading the material filed;
+The motion is denied.
+No costs are awarded in either motion.
+Signed at Ottawa, Canada, this 20th day of February 2013.
+"François Angers"
+Angers J.
+Citation: 2013 TCC 59
+Date: 20130220
+Docket: 2009-2099(IT)G
+BETWEEN:
+DAVID ARMSTRONG,
+Appellant/Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent/Respondent on the motion,
+AND BETWEEN:
+CANGO INC.,
+Applicant,
+and
+HER MAJESTY THE QUEEN and DAVID ARMSTRONG,
+Respondents on the motion.
+REASONS FOR ORDER
+Angers J.
+[1] The applicant David Armstrong is asking this Court's permission to use in one or more separate proceedings commenced or to be commenced by the applicant in the Ontario Court against his former employer, Cango Inc. (hereinafter Cango), and his former solicitors, documents and information obtained in the examination for discovery of the Minister’s nominee in an income tax appeal before this Court. The applicant, in other words, is asking the Court to be relieved of his implied undertaking with respect to those documents and the information (evidence) obtained through the discovery process in his income tax appeal.
+[2] The applicant was formerly employed by Cango from June 24, 1993 to November 11, 2002 as its president and chief executive officer.
+[3] In early 2002, upon receiving a whistleblower report from a former employee, Cango conducted an investigation into the applicant. Following the investigation, Cango claimed to have found that the applicant had misappropriated funds from several of Cango’s car wash operations and consequently, terminated the applicant’s employment. A further investigation by a forensic accounting firm produced a report that quantified the alleged total misappropriation and Cango’s losses.
+[4] Cango commenced a civil action in the Ontario Superior Court of Justice to recover the alleged misappropriated funds, and the applicant pursued a wrongful dismissal claim against Cango.
+[5] In June of 2004 or thereabouts, the applicant and Cango resolved matters by settling their respective civil claims, and both executed a full and final release arising out of the facts and circumstances as pleaded in their respective actions.
+[6] Being concerned that it may have misreported its income, Cango, relying on professional advice, initiated a voluntary disclosure process with the Canada Revenue Agency (CRA) around February 2003. At about the same time the CRA commenced an investigation into the applicant’s earnings and assets. During this investigation, the CRA sent to Cango on April 13, 2006, a requirement to provide financial documents relating to the applicant pursuant to subsection 231.2(i) of the Income Tax Act (the Act). Specifically, Cango was required to provide:
+all reasonable assistance including answering all proper questions and providing all proper documentation relating to David J. Armstrong for the taxation years 1999, 2000 and 2001.
+[7] In August of 2006, the CRA, using a comparative net worth analysis, reassessed the applicant for $1,713,630 of previously unreported income. In January 2007, the applicant was reassessed to reflect adjustments allowed by the CRA, and the unreported income amount was reduced to $462,481. The applicant filed a Notice of Appeal with this Court on June 24, 2009.
+[8] An examination for discovery took place on September 28 and 29 of 2010. Mr. Stephen Kleinschmidt, the respondent’s nominee, was examined. Answers to undertakings were provided on November 29, 2010, which included information obtained from Cango in the form of seven binders full of documents.
+[9] The tax appeal was settled in favour of the applicant by consent judgment on October 13, 2011. The respondent consented to a judgment which allowed the appeal in full and referred the reassessments back to the Minister for reassessment on the basis that the applicant (appellant) had no unreported income for his 1999 to 2001 taxation years.
+[10] It should be noted that none of the discovery evidence was entered as evidence before this Court or otherwise produced in open court.
+[11] On September 27, 2012, the applicant commenced against Cango an action in the Ontario Superior Court of Justice claiming damages for having provided to the CRA a series of false, incomplete and misleading documents. In addition, it became clear from the documents contained in the above-mentioned binders that the applicant’s former law firm had disclosed privileged and confidential materials to Cango in the context of his dispute with Cango. All of the above is disputed by Cango.
+[12] The applicant, as indicated earlier, is seeking an order from this Court for the waiver of its implied undertaking relating to information that was produced by the CRA in the course of the discovery of Mr. Kleinschmidt.
+[13] The Tax Court of Canada Rules (General Procedure) (Rules) do not contain provisions regarding the subsequent use by a recipient of information disclosed through the discovery process, nor do they include any provisions pertaining to the actual motion to be made before the Court in that regard. This, however, is no impediment to the application of the common law rule in all proceedings before this Court, and motions such as the present one can be brought.
+[14] The Ontario Court of Appeal describes as follows, in Kitchenham v. AXA Insurance Canada, 2008 ONCA 877, [2008] O.J. No. 5413 (QL), at paragraphs 30, 31 and 32, which I reproduce below, the effect of Rule 30.1 (deemed undertaking) of the Ontario Rules of Civil Procedure:
+30 The implied undertaking promotes the due administration of justice in the conduct of civil litigation in two ways. First, it encourages full and frank disclosure on discovery by the parties. It does so by interdicting, except with the court's permission, the subsequent use of the disclosed material by the party obtaining that disclosure for any purpose outside of the litigation in which the disclosure was made. Second, the implied undertaking accepts that the privacy interests of litigants must, subject to legitimate privilege claims, yield to the disclosure obligation within the litigation, but that those interests should be protected in respect of matters other than the litigation: Juman v. Doucette, at paras. 23-27; Richard B. Swan, "The Deemed Undertaking: A Fixture of Civil Litigation in Ontario" (Winter 2008) 27 Advocates' Soc. J., No. 3, p. 16.
+31 In Goodman v. Rossi at p. 369, Morden J.A. quotes from Matthews and Malek's Discovery (1992), at p. 253, where the rationale for the rule is described as follows:
+· The primary rationale for the imposition of the implied undertaking is the protection of privacy. Discovery is an invasion of the right of the individual to keep his own documents to himself. It is a matter of public interest to safeguard that right. The purpose of the undertaking is to protect, so far as is consistent with the proper conduct of the action, the confidentiality of the party's documents. It is in general wrong that one who is compelled by law to produce documents for the purpose of particular proceedings should be in peril of having those documents used by the other party for some purpose other than the purpose of the particular legal proceedings ...
+32 The promotion of full and frank disclosure, and the protection of the privacy interests of those who are compelled to make disclosure during discovery are both served by restricting the use that the party obtaining the information can make of that information. Neither rationale for the implied undertaking justifies any restriction on the subsequent use of the information by the party who produced that information. To the contrary, wrapping all information produced in the discovery process in one action in a cloak of non-disclosure for any subsequent purpose, and requiring a court order to remove that cloak of secrecy would inevitably interfere with the effective operation of the discovery process.
+[15] It is also interesting to note that, at paragraph 58, that same decision defines who the beneficiary of the protection afforded by Rule 30.1 is. Paragraph 58 reads as follows:
+58 The interests of the party who was compelled to disclose the information are the only interests that can justify maintaining the undertaking. My reading of subrule (8) is consistent with an interpretation of the Rule that recognizes the party who gave up the information as the sole beneficiary of the protection afforded by the Rule. It is also consistent with subrule (4), which provides that the deemed undertaking has no application if the party who disclosed the evidence consents to its use.
+[16] That being said, a subsequent motion was also brought before this Court by Cango seeking an order granting it leave to intervene in these proceedings. It has, as well, submitted arguments in opposition to the original motion in the event that such leave should be granted.
+[17] Leave to intervene before this Court is usually obtained if the requirements found in section 28 of the Rules are met. Section 28 reads as follows:
+28. Leave to intervene — (1) Where it is claimed by a person who is not a party to a proceeding
+(a) that such person has an interest in the subject matter of the proceeding,
+(b) that such person may be adversely affected by a judgment in the proceeding, or
+(c) that there exists between such person and any one or more parties to the proceeding a question of law or fact or mixed law and fact in common with one or more of the questions in issue in the proceeding,
+such person may move for leave to intervene.
+(2) On the motion, the Court shall consider whether the intervention will unduly delay or prejudice the determination of the rights of the parties to the proceeding, and the Court may,
+(a) allow the person to intervene as a friend of the Court and without being a party to the proceeding, for the purpose of rendering assistance to the Court by way of evidence or argument, and
+(b) give such direction for pleadings, discovery or costs as is just.
+[18] Although the applicant’s appeal is no longer before this Court and section 28 of the Rules was not designed to address a proceeding such as the original motion before this Court, that section may no doubt serve as a guideline in determining whether a person (Cango in this case) should be given leave to intervene as a friend of the Court to render assistance to the Court in disposing of the original motion.
+[19] The motion for leave to intervene has come about because the respondent has not consented to use of the discovery documents and information by the applicant. Had that occurred, the matter would not have found its way before this Court as the deemed undertaking rule would have had no application.
+[20] That being said, I have read the affidavit of Warren Kettlewell of Cango as well as that of the applicant David Armstrong filed in response to the motion for leave to intervene.
+[21] The threshold test to be met in order to obtain leave to intervene is that the person seeking leave must show that he has an interest in the subject matter of the proceeding and that he may be adversely affected by the judgment. In addition, there must be a question of law or fact or mixed law and fact in common with a question in issue in the proceeding, and the intervention must not cause undue delay or prejudice.
+[22] Respecting the last requirement, there will not be undue delay here as Cango has already provided the Court with written submissions with regard to the waiver of the implied undertaking, and the applicant has not argued that he will suffer prejudice if leave to intervene is granted.
+[23] The original motion was served on Cango by the applicant. I can only infer therefrom that the applicant felt — and rightly so — that Cango was a person who would be affected by the direction sought, as stated in subsection 67(1) of the Rules. Under section 28, in order to obtain leave to intervene, the person requesting such leave must show that he will be adversely affected by the direction or order sought. The affidavit of Cango is sufficient to allow me to conclude that it will be adversely affected. The information it provided to the respondent, along with the other information it was compelled to provide, including financial records, will be used in the action before the Ontario courts and have a financial impact on Cango.
+[24] I am also satisfied that the information Cango provided, both before and after it was compelled to do so, through documents and evidence from the respondent’s nominee constitutes the subject matter at issue in the original motion, and that gives Cango a genuine and direct interest in the proceedings.
+[25] I will therefore grant the motion and allow Cango to intervene as a friend of the Court for the purpose of rendering assistance to the Court in dealing with the original motion, which assistance already forms part of Cango's motion record. I will, as well, take into consideration the evidence and arguments submitted by the applicant in his reply.
+The Original Motion
+[26] In Juman v. Doucette, 2008 SCC 8, [2008] 1 S.C.R. 157, [2008] S.C.J. No. 8 (QL), the Supreme Court of Canada has set out the scope of an implied undertaking at common law. The purpose of an implied undertaking is to provide a reasonable measure of protection for an examinee’s privacy right where the production of documents and information is compelled, and to encourage complete and candid discovery. The Supreme Court stated that in order to obtain relief from the effect of an implied undertaking, an applicant must demonstrate "on a balance of probabilities the existence of a public interest of greater weight than the values the implied undertaking is designed to protect, namely privacy and the efficient conduct of civil litigation" (paragraph 32). The Supreme Court of Canada stated as well, at paragraphs 25 and 26:
+25 The public interest in getting at the truth in a civil action outweighs the examinee's privacy interest, but the latter is nevertheless entitled to a measure of protection. The answers and documents are compelled by statute solely for the purpose of the civil action and the law thus requires that the invasion of privacy should generally be limited to the level of disclosure necessary to satisfy that purpose and that purpose alone. Although the present case involves the issue of self-incrimination of the appellant, that element is not a necessary requirement for protection. Indeed, the disclosed information need not even satisfy the legal requirements of confidentiality set out in Slavutych v. Baker, [1976] 1 S.C.R. 254. The general idea, metaphorically speaking, is that whatever is disclosed in the discovery room stays in the discovery room unless eventually revealed in the courtroom or disclosed by judicial order.
+26 There is a second rationale supporting the existence of an implied undertaking. A litigant who has some assurance that the documents and answers will not be used for a purpose collateral or ulterior to the proceedings in which they are demanded will be encouraged to provide a more complete and candid discovery. This is of particular interest in an era where documentary production is of a magnitude ("litigation by avalanche") as often to preclude careful pre-screening by the individuals or corporations making production. See Kyuquot Logging Ltd. v. British Columbia Forest Products Ltd. (1986), 5 B.C.L.R. (2d) 1 (C.A.), per Esson J.A. dissenting, at pp. 10-11.
+[27] The Supreme Court of Canada also stated that any perceived prejudice to the examinee is a factor that will always weigh heavily in the balance.
+[28] In cases such as Goodman v. Rossi, [1995] O.J. No. 1906 (QL) (Ont. C.A.) Disher v. Kowal, 56 O.R. (3d) 329 (Ont. S.C.), Ochitwa v. Bombino, [1997] A.J. No. 1157 (QL) (Alta. Q.B.), Merck and Co. v. Apotex Inc., [1997] F.C.J. No. 1852 (QL) (C.F.T.D.), the courts have considered various factors to assist them in weighing public interest against the interest protected by the implied undertaking. Those factors include such things as the fact that there are different issues and parties, the existence of other ways to obtain the information, the effect on third parties versus the right to privacy, and the interest in promoting an efficient civil justice process.
+[29] Here, the parties and the issues are different. The issue in the appeal before this Court had to do with the applicant’s tax liability for unreported income and for penalties, and with the fact that the assessment was made beyond the normal assessment period. The issues in the Ontario action concern malicious prosecution and defamation. There is no connection per se between the issues in the tax appeal and those in the Ontario action, other than the matter of the reliability of the facts assumed by the respondent in determining the unreported income, and those facts were never adjudicated upon. The parties are the applicant and the Crown in the appeal before this Court and the applicant and Cango in the Ontario action.
+[30] The evidence presented by the applicant is unclear as to what efforts he made to obtain the information and documents from other sources. There may be other avenues open to him, such as undertakings obtained through the discovery process in the Ontario action. That is a factor that I have considered.
+[31] The applicant submits that the greater public interest will be served by enabling the court to ascertain the truth. In other words, Cango should not be permitted to hide its alleged selective and misleading disclosures behind the protection of the implied undertaking of the respondent, to whom the information was volunteered.
+[32] On the other hand, the Ontario Court of Appeal, in Goodman (supra), held that the process of the court cannot be or appear to be an instrument for the initiation of litigation not otherwise contemplated or part of the cause of action which disclosed the potentially new claim. Otherwise, full and frank disclosure by the parties would be undermined. In the fact situation here, the applicant became aware of Cango’s role in the proceeding through the tax appeal, in the course of which were disclosed the facts now being alleged in the Ontario action.
+[33] One must also bear in mind that in income tax assessments, particularly in net worth assessments, the information that is obtained and used by the CRA auditors through the audit process and which forms the basis of an assessment may sometimes be erroneous. The information is either provided voluntarily by third parties or is obtained through compulsion exercised in accordance with the law, but the fact remains that the taxpayer is the person most knowledgeable about his affairs and the person who is best able to demolish the Minister’s assumptions, which in this case the applicant succeeded in doing.
+[34] This brings me to the other compelling interests that the implied undertaking rule is designed to protect, namely privacy and the efficient conduct of litigation, including tax appeals. Some of the discovery documents were obtained through voluntary disclosure by a third party (Cango), and that disclosure requires protection for reasons of confidentiality, as provided for under the Act; some were disclosed in advance of any order compelling their production, and others were provided under such an order. It is fair to assume that documents that are provided to the CRA in the audit process are reliable and, since the assessment is founded on assumptions of fact, there is a need for confidentiality in the tax appeal process. Any departure therefrom — that is, if the information obtained could be used against the informant in a subsequent legal action could create a chilling effect.
+[35] Although the applicant may have a contentious issue to resolve and although he may be deprived of a means of advancing his case, I believe it would be contrary to the public interest to have the process of the Court be or appear to be an instrument for the initiation of litigation not otherwise contemplated or part of the cause of action which disclosed the potentially new claim (Goodman, supra).
+[36] I believe that, on a balance of probabilities, the public interest asserted by the applicant does not outweigh the values the implied undertaking is designed to protect.
+[37] The motion is denied. There will be no costs on either motion.
+Signed at Ottawa, Canada, this 20th day of February 2013.
+"François Angers"
+Angers J.
+CITATION: 2013 TCC 59
+COURT FILE NO.: 2009-2099(IT)G
+STYLE OF CAUSE: David Armstrong v. The Queen
+REASONS FOR ORDER BY: The Honourable Justice François Angers
+DATE OF ORDER: February 20, 2013
+COUNSEL OF RECORD:
+For David Armstrong:
+Name: Leigh Taylor
+Firm: Leigh Sommerville Taylor
+Professional Corporation
+Toronto, Ontario
+For Cango Inc.:
+Names: Eric R. Hoaken
+Amanda C. McLachlan
+Firm: Bennett Jones LLP
+Toronto, Ontario
+For Her Majesty the Queen: William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

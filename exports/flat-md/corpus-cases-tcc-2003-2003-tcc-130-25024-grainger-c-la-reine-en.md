@@ -1,0 +1,130 @@
+---
+title: "Grainger c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/25024/index.do"
+last_modified: "2003-03-24"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 TCC 130"
+citation2: ""
+neutral_citation: "2003 TCC 130"
+decision_date: "2003-03-24"
+language: "en"
+item_id: "25024"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2527
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T18:24:22.421000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "39b7ac6475f802ea89e65754ca7c7e2f824d694a207f79078aa75e9a69082511"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Grainger c. La Reine
+
+- Citation: 2003 TCC 130
+- Decision date: 2003-03-24
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2527, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Grainger c. La Reine
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-03-24
+Neutral citation
+2003 TCC 130
+File numbers
+2002-1470(IT)I
+Judges and Taxing Officers
+François M. Angers
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2002-1470(IT)I
+BETWEEN:
+ANTHONY GRAINGER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on February 5, 2003, at Sherbrooke, Quebec
+Before: The Honourable Judge François Angers
+Appearances:
+Counsel for the Appellant:
+Lise Le Prohon
+Counsel for the Respondent:
+Marie-Aimée Cantin
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act in respect of the 2000 taxation year is dismissed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 24th day of March 2003.
+"François Angers"
+J.T.C.C.
+Translation certified true
+on this 10th day of May 2004.
+Sophie Debbané, Revisor
+Citation: 2003TCC130
+Date: 20030324
+Docket: 2002-1470(IT)I
+BETWEEN:
+ANTHONY GRAINGER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Angers, J.T.C.C.
+[1] In filing his income tax return for the 2000 taxation year, the appellant claimed a deduction for the amount of $19,828 paid as support to his former spouse. The Minister of National Revenue (the "Minister") disallowed the deduction on the grounds that the amount at issue did not meet the criteria of subsection 56.1(4) of theIncome Tax Act (the "Act"); as a result, this appeal was filed.
+[2] The appellant was married on August 16, 1980. Three children were born of this relationship. In September 1996, he separated from his spouse. The support paid by the appellant for his children is not at issue.
+[3] On September 24, 1996, the appellant's spouse filed a motion for interim relief with the Superior Court of Québec, Family Division. Among other things, she asked that the appellant pay her, as additional support, the expenses for the family residence, including the mortgage, insurance, taxes, heating, electricity, telephone, cable service, repairs and maintenance. The appellant complied with the request and in fact paid the expenses claimed by his spouse until January 1999.
+[4] While awaiting their divorce, the parties entered into an agreement on interim relief on January 28, 1999, which was homologated on that date by the Superior Court of Québec. In the agreement, the parties agreed to sell the family residence. While waiting for the house to be sold, the appellant again promised to be responsible, as support, for all household expenses, including the line of credit used to pay for the house. The divorce was finally granted on June 28, 2002. The divorce decree acknowledges the fact that the appellant had paid the expenses at issue for his former spouse as support. None of the agreements entered into between the appellant and his former spouse states that the payments made by the appellant were to be deductible for him and taxable in her hands. The appellant testified that, until the taxation year at issue, when he was denied the deduction, he had always deducted from his income the expenses paid as support. He testified that his former spouse had reported this income since their respective tax returns had been prepared by the same accountant. The house was sold in November 2000.
+[5] Was the appellant entitled, under section 60 and subsection 60.1(2) of the Act, to deduct payments made to third parties in the context of an agreement entered into with his former spouse?
+[6] The following paragraph of the agreement is the one that applies to the taxation year at issue:
+[TRANSLATION]
+While awaiting the sale of the house, the defendant undertakes to be solely responsible, from the date of service of the proceedings, for making the payments, as support, in connection with the house, that is, for the line of credit used to pay for the house, insurance, taxes, heating, electricity and up to $30.00 a month for telephone.
+[7] The relevant statutory provisions in the case at bar are the following:
+56.(1) Amounts to be included in income for the year.
+Without restricting the generality of section 3, there shall be included in computing the income of a taxpayer for a taxation year,
+...
+56.1(2) Agreement. For the purposes of section 56, this section and subsection 118(5), the amount determined by the formula
+...
+is, where the order or written agreement, as the case may be, provides that this subsection and subsection 60.1(2) shall apply to any amount paid or payable thereunder, deemed to be an amount payable to and receivable by the taxpayer as an allowance on a periodic basis, and the taxpayer is deemed to have discretion as to the use of that amount.
+60. Other deductions.
+There may be deducted in computing a taxpayer's income for a taxation year such of the following amounts as are applicable:
+...
+60.1(2) Agreement. For the purposes of section 60, this section and subsection 118(5), the amount determined by the formula
+...
+is, where the order or written agreement, as the case may be, provides that this subsection and subsection 56.1(2) shall apply to any amount paid or payable thereunder, deemed to be an amount payable by the taxpayer to that person and receivable by that person as an allowance on a periodic basis, and that person is deemed to have discretion as to the use of that amount.
+[8] To explain the purpose of the preceding subsections, I shall refer to the decision in Veilleux v. Canada, [2002] F.C.J. No. 737 (QL), where Judge Létourneau analysed the statutory provisions that apply to the case at bar. I cite paragraph 13:
+The purpose of subsections 56.1(2) and 60.1(2) is to allow the payer to deduct payments made to third parties for the benefit of his or her former spouse, provided that those amounts are included in the former spouse's income. The purpose of the requirement that the written agreement state that those subsections shall apply seems to be "to ensure that the parties in question were fully aware of the fiscal consequences resulting from the payments made in accordance with a written agreement, a judgment or an order of a court for the specific purposes mentioned in that agreement, judgment or order": Mailloux v. Canada, [1991] T.C.J. No. 641, at page 3 (T.C.C.) per Chief Judge Garon; Mambo v. The Queen, [1996] 1 T.C.J. 2388 (T.C.C.); Pelchat v. The Queen, 97 DTC 945 (T.C.C.); Jenkins v. Canada, [1999] T.C.J. No. 742.
+[9] However, in Veilleux, the Federal Court of Appeal held that an explicit reference to the subsection numbers in the written agreement was not necessary. For the legitimate purpose of the provisions to be achieved, however, there must be a written document confirming that the two parties know that there are tax consequences to such an order or agreement (see Mambo v. Canada, [1995] T.C.J. No. 931 (QL); ([1996] 1 C.T.C. 2388). Judge Létourneau wrote as follows at paragraph 24:
+I prefer the approach taken by Judge Archambault of the Tax Court of Canada in Pelchat, supra, and Ferron v. Her Majesty the Queen, 2001 DTC 230, which is more representative of Parliament's intention, consistent with the wording itself of the statutory provisions, and humane: an express reference to the numbers of subsections 56.1(2) and 60.1(2) is not required in the written agreement; it need only be apparent from the written agreement that the parties have understood the tax consequences of that agreement. A mere reference to the numbers of the subsections in the agreement is no better guarantee that the parties to the agreement understood their duties and their rights. On that point, stating and describing those duties and rights in the written agreement seems, in my view, to achieve Parliament's objective just as well as, if not better than, a mere magical reference to numbers of sections the substance of which is not stated in the agreement.
+[10] In the case at bar, the agreement clearly does not reflect the knowledge and understanding that the parties to the agreement might have of their respective duties and rights. It is not sufficient to say that the parties did, in fact, conduct themselves as if they had knowledge of them. The relevant statutory provisions make it clear that the written agreement or order must provide for their application, which the agreement in the case at bar does not do. For these reasons, the appeal must be dismissed.
+Signed at Ottawa, Canada, this 24th day of March 2003.
+"François Angers"
+J.T.C.C.
+Translation certified true
+on this 10th day of May 2004.
+Sophie Debbané, Revisor

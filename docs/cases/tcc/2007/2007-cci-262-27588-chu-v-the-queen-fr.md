@@ -1,0 +1,171 @@
+---
+title: "Chu v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27588/index.do"
+last_modified: "2007-04-24"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 CCI 262"
+citation2: ""
+neutral_citation: "2007 CCI 262"
+decision_date: "2007-04-24"
+language: "fr"
+item_id: "27588"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 82
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T09:43:56.389000+00:00"
+cases_cited_count: 4
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "ecd393a6ec9eff86f58ef80bbe21c35fee5c441ed0be353a21fdfae325e0ed7f"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Chu v. The Queen
+
+- Citation: 2007 CCI 262
+- Decision date: 2007-04-24
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 82, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Chu v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-04-24
+Référence neutre
+2007 CCI 262
+Numéro de dossier
+2006-2512(IT)I
+Juges et Officiers taxateurs
+Terrence O'Connor
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2006-2512(IT)I
+ENTRE :
+WAYNE CHU,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 24 avril 2007, à Vancouver (Colombie-Britannique).
+Devant : L’honorable juge T. O'Connor
+Comparutions :
+Pour l’appelant :
+L’appelant lui‑même
+Avocat de l’intimée :
+Me Pavanjit Mahil
+____________________________________________________________________
+JUGEMENT
+L’appel de la cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2004 est rejeté conformément aux motifs du jugement ci‑joints. Aucuns dépens ne sont adjugés.
+Signé à Ottawa, Canada, ce 2e jour de mai 2007.
+« T. O'Connor »
+Juge O'Connor
+Traduction certifiée conforme
+ce 28e jour d’août 2007.
+Johanne Brassard, trad. a.
+Référence : 2007CCI262
+Date : 20070502
+Dossier : 2006-2512(IT)I
+ENTRE :
+WAYNE CHU,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge O'Connor
+Les faits
+[1] Les faits fondamentaux et la question qui se pose dans le présent appel sont énoncés dans les paragraphes suivants de la réponse à l’avis d’appel (la « réponse ») :
+[traduction]
+[...]
+8. En établissant la nouvelle cotisation pour l’année d’imposition 2004 et en ratifiant cette nouvelle cotisation, le ministre a tenu pour acquis les faits suivants :
+a) l’appelant était marié à Kerry Ann Chu (« Kerry Ann »);
+b) l’appelant et Kerry Ann sont les parents naturels d’une fille née en 1994 et d’un fils né en 1998 (collectivement les « enfants »);
+c) l’appelant et Kerry Ann se sont séparés et ont comparu devant un protonotaire de la Cour suprême de la Colombie‑Britannique au sujet d’une ordonnance de garde d’enfants;
+d) conformément à une ordonnance provisoire de la Cour suprême de la Colombie‑Britannique datée du 14 novembre 2001 (l’« ordonnance provisoire ») :
+i) l’appelant et Kerry Ann avaient la garde conjointe des enfants;
+ii) les enfants devaient aller d’une résidence à l’autre;
+iii) l’appelant devait verser une pension alimentaire mensuelle pour enfants de 200 $ à Kerry Ann à compter du 1er décembre 2001, et ce, le premier jour de chaque mois, jusqu’à ce qu’une instruction soit tenue ou jusqu’à ce qu’une autre ordonnance judiciaire soit rendue;
+e) l’appelant vivait séparé de son ex‑épouse tout au long de l’année 2004.
+B. POINTS LITIGIEUX
+9. Il s’agit de savoir si l’appelant a le droit de demander une déduction pour Brendan Chu à titre de personne entièrement à charge pour le calcul du crédit d’impôt non remboursable concernant l’année d’imposition 2004.
+C. DISPOSITIONS LÉGISLATIVES
+10. Il se fonde sur les paragraphes 56.1(4) et 118(5) ainsi que sur l’alinéa 118(1)b) de la Loi de l’impôt sur le revenu, L.R.C. 1985, ch. 1 (5e suppl.), dans sa forme modifiée (la « Loi »).
+D. MOTIFS INVOQUÉS ET RÉPARATION DEMANDÉE
+11. Il soutient que l’appelant n’a pas le droit de demander une déduction pour son fils, Brendan Chu, à titre de personne entièrement à charge pour le calcul du crédit d’impôt non remboursable concernant l’année d’imposition 2004, conformément au paragraphe 118(5) et à l’alinéa 118(1)b) de la Loi, étant donné que l’appelant était tenu de verser une pension alimentaire pour enfants au cours de l’année d’imposition 2004 aux termes de l’ordonnance provisoire et qu’il vivait séparé de son ex‑épouse tout au long de l’année d’imposition 2004.
+[2] La position prise par l’appelant est exposée dans l’avis d’appel :
+[traduction]
+[...]
+Même si je partageais la garde de mes deux enfants, je suis le seul à pourvoir à leurs besoins financiers. Ils restent chez moi plus de 60 p. 100 du temps. Je travaille pour subvenir à leurs besoins et, en outre, c’est moi qui en prends soin. Je fais la cuisine et je m’occupe du nettoyage. Je les amène chaque jour à l’école. Il s’agit de savoir de qui ils dépendent, ou qui subvient à leurs besoins.
+[...]
+[3] La preuve soumise par l’appelant est crédible. L’appelant a déclaré qu’il subvient entièrement aux besoins de ses deux enfants, que Kerry Ann est atteinte de schizophrénie et d’autres troubles, que c’est lui qui est entièrement responsable du soin des enfants, que ce soit sur le plan financier ou physique, et qu’il participe notamment à tous les aspects de leurs vies. L’appelant a également mis l’accent sur le fait que même si Kerry Ann et lui avaient des résidences distinctes en 2004, Kerry Ann passait énormément de temps chez lui et y dormait même de temps en temps. Cela étant, l’appelant estime avoir droit au crédit d’impôt non remboursable, qui s’élève selon lui, pour l’année 2004, au montant maximum de 6 803 $, dont un pourcentage de 16 p. 100 sert au calcul du crédit exact.
+Analyse
+[4] Les dispositions de la Loi de l’impôt sur le revenu (la « Loi ») qui s’appliquaient en 2004 étaient les alinéas 118(1)a) et 118(1)b) ainsi que les paragraphes 118(5) et 56.1(4). L’alinéa 118(1)a) accorde entre autres un crédit d’impôt déductible au contribuable qui subvient aux besoins de l’époux ou du conjoint de fait avec qui il vit; cette disposition ne s’applique donc pas en l’espèce. L’alinéa 118(1)b) ainsi que les paragraphes 118(5) et 56.1(4), dans la mesure où ils sont pertinents, prévoient ce qui suit :
+118(1)b) [...] personne entièrement à charge [« crédit équivalent pour personne entièrement à charge »] – si le particulier ne demande pas de déduction pour l’année par l’effet de l’alinéa a) et si, à un moment de l’année:
+(i) d’une part, il n’est pas marié [...] ou, dans le cas contraire, ne vit pas avec son époux [...] ni ne subvient aux besoins de celui‑ci, pas plus que son époux [...] ne subvient à ses besoins.
+(ii) d’autre part, il tient, seul [...], et habite un établissement domestique autonome où il subvient réellement aux besoins d’une personne qui, à ce moment, remplit les conditions suivantes :
+(A) [...]
+(B) elle est entièrement à la charge [...] du particulier [...],
+(C) elle est liée au particulier,
+(D) [...]
+[une formule de calcul est énoncée, laquelle produit en l’espèce un crédit correspondant à 16 p. 100 de 6 803 $]
+118(5) Aucun montant n’est déductible en application du paragraphe (1) relativement à une personne dans le calcul de l’impôt payable par un particulier en vertu de la présente partie pour une année d’imposition si le particulier, d’une part, est tenu de payer une pension alimentaire au sens du paragraphe 56.1(4) à son époux [...] pour la personne et, d’autre part, selon le cas:
+a) vit séparé de son époux [...] tout au long de l’année pour cause d’échec de leur mariage [...]
+[…]
+[5] Il ressort clairement de la définition figurant au paragraphe 56.1(4) que l’appelant payait une pension alimentaire.
+[6] Dans sa déclaration de 2004, l’appelant a demandé un crédit d’impôt de 6 803 $ (le maximum) parce qu’il croyait y être admissible, compte tenu du fait qu’il subvenait aux besoins de ses enfants. Apparemment, l’appelant a produit sa déclaration en indiquant qu’il subvenait aux besoins de son fils, Brendan Chu, alors que dans l’ordonnance provisoire, il est fait mention des deux enfants. Cela importe peu aux fins qui nous occupent.
+[7] Dans la nouvelle cotisation en question, la demande est refusée; il est essentiellement allégué dans la réponse que la demande est refusée en vertu du paragraphe 118(5) parce que l’appelant était tenu de verser une pension alimentaire pour enfants au cours de l’année 2004 aux termes de l’ordonnance provisoire et qu’il vivait séparé de son ex‑épouse tout au long de l’année d’imposition 2004.
+[8] Étant donné que, dans plusieurs autres décisions concernant le paragraphe 118(5), on donne à entendre que son application comporte un élément d’iniquité, il peut être utile de faire les remarques suivantes afin de clarifier les choses.
+[9] À première vue, il est difficile d’identifier la politique sous‑tendant la disposition en question. L’élément d’iniquité semble découler du fait que le contribuable qui est tenu de verser une pension alimentaire, au profit d’un enfant, à l’époux dont il est séparé (après 1997, soit après que l’on eut changé les règles qui s’appliquaient auparavant selon lesquelles le payeur avait droit à la déduction alors que le bénéficiaire devait inclure le montant dans son revenu, les nouvelles règles ne prévoyant aucune déduction ni aucune inclusion) ne peut pas déduire ce montant de son revenu; de plus, il n’a pas droit au crédit d’impôt pour personne à charge s’il est tenu de verser une pension alimentaire pour enfants. D’autre part, dans des circonstances similaires, si le contribuable n’est pas tenu de verser une pension alimentaire, il peut avoir droit au crédit. Cette question de principe a été examinée par la juge Lamarre dans la décision Gautron c. La Reine, 2003 DTC 326 (version anglaise à 2005 DTC 729) et par le juge Bédard dans la décision Frégeau c. La Reine, 2004 DTC 2726 (version anglaise à 2006 DTC 2243). Il ressort clairement de ces décisions ainsi que d’autres que le paragraphe 118(5) ne va pas à l’encontre de la Charte canadienne des droits et libertés et, dans la mesure où il peut sembler exister une certaine iniquité, il incombe au Parlement de remédier à la situation en modifiant la disposition, mais tant que la disposition existe, la Cour doit l’appliquer étant donné qu’il s’agit de la règle de droit. En outre, l’analyse complète de la disposition démontre qu’il n’y a pas d’iniquité. De plus, les tribunaux ont rendu de nombreuses autres décisions dans lesquelles ils ont appliqué le paragraphe 118(5) en vue de refuser le crédit dans des cas où les faits étaient semblables ou identiques à ceux de la présente affaire.
+[10] En l’espèce, il est certain que l’appelant était tenu de verser une pension alimentaire au profit des enfants. Toutefois, on peut se demander si l’appelant et sa femme étaient vraiment séparés. Sur ce point, la preuve, en particulier le témoignage de Diane Tawnley, agente des appels, et la pièce R‑3, montre clairement que l’appelant et sa femme avaient des résidences distinctes tout au long de l’année 2004, et même si la femme passait une partie de son temps chez l’appelant et qu’elle y dormait même parfois, cela est à mon avis fort naturel lorsque deux personnes sont les parents de deux enfants dont ils ont la garde conjointe. Le fait que la femme était de temps en temps chez son mari ne suffit pas, à mon avis, pour qu’elle soit considérée comme ne vivant pas séparée de son mari.
+[11] En conclusion, à mon avis, la position prise par le ministre est correcte. L’appelant n’a pas le droit de demander une déduction pour son fils, Brendan Chu, (ou ses enfants) à titre de personne entièrement à charge (ou de personnes entièrement à charge) pour le calcul du crédit d’impôt non remboursable concernant l’année d’imposition 2004 conformément au paragraphe 118(5) et à l’alinéa 118(1)b) de la Loi de l’impôt sur le revenu, étant donné qu’il était tenu de verser une pension alimentaire pour enfants au cours de l’année d’imposition 2004 aux termes de l’ordonnance provisoire du 12 novembre 2001 et qu’il vivait séparé de son ex‑épouse tout au long de l’année d’imposition 2004.
+[12] Pour ces motifs, l’appel est rejeté. Aucuns dépens ne seront adjugés.
+Signé à Ottawa, Canada, ce 2e jour de mai 2007.
+« T. O'Connor »
+Juge O'Connor
+Traduction certifiée conforme
+ce 28e jour d’août 2007
+Johanne Brassard, trad. a.
+RÉFÉRENCE : 2007CCI262
+No DU DOSSIER DE LA COUR : 2006-2512(IT)I
+INTITULÉ : Wayne Chu
+c.
+Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Vancouver (Colombie-Britannique)
+DATE DE L’AUDIENCE : Le 24 avril 2007
+MOTIFS DU JUGEMENT : L’honorable juge T. O’Connor
+DATE DU JUGEMENT : Le 2 mai 2007
+COMPARUTIONS :
+Pour l’appelant :
+Avocat de l’intimée :
+L’appelant lui-même
+Me Pavanjit Mahil
+AVOCAT INSCRIT AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

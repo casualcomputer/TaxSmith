@@ -1,0 +1,226 @@
+---
+title: "Universo Home Construction Ltd. v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/405305/index.do"
+last_modified: "2019-04-26"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2019 TCC 87"
+citation2: ""
+neutral_citation: "2019 TCC 87"
+decision_date: "2019-04-26"
+language: "en"
+item_id: "405305"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4396
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T12:15:22.314000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "e7a72ee81df559e1c97fe4f3c0683698727574b19cc0887ecefc3ccfb5d73590"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Universo Home Construction Ltd. v. The Queen
+
+- Citation: 2019 TCC 87
+- Decision date: 2019-04-26
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4396, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Universo Home Construction Ltd. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2019-04-26
+Neutral citation
+2019 TCC 87
+File numbers
+2018-1225(GST)I
+Judges and Taxing Officers
+Randall S. Bocock
+Subjects
+Part IX of the Excise Tax Act (GST)
+Notes
+A correction was made on July 10, 2019
+Decision Content
+Docket: 2018-1225(GST)I
+BETWEEN:
+UNIVERSO HOME CONSTRUCTION LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on January 24, 2019, at Vancouver, British Columbia
+Before: The Honourable Mr. Justice Randall S. Bocock
+Appearances:
+Agent for the Appellant:
+Gurdev S. Dhesi
+Counsel for the Respondent:
+Natasha Tso
+JUDGMENT
+IN ACCORDANCE WITH the Reasons for Judgment attached, the appeal from the reassessment made under the Excise Tax Act, RSC 1985, c. E-15, as amended, in respect of the reporting periods of January 1, 2013 to December 31, 2013 (the “Period”) is allowed, without costs.
+The matter is referred back to the Minister of National Revenue for reconsideration and reassessment.
+Signed at Toronto, Ontario, this 5th day of July 2019.
+“R.S. Bocock”
+Bocock J.
+Citation:2019TCC87
+Date:20190705
+Docket: 2018-1225(GST)I
+BETWEEN:
+UNIVERSO HOME CONSTRUCTION LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+AMENDED REASONS FOR JUDGMENT
+Bocock J.
+[1] Mr. Dhesi is the sole shareholder, director and officer of the Appellant, Universo Home Construction Ltd. (“Universo Homes”). He brings this appeal on Universo Homes’ behalf because the Minister of National Revenue denied a harmonized sales tax New Housing Rebate (“Rebate”) in the amount of $31,893.16. The Rebate was assigned to Universo Homes by first-to-occupy new home purchasers (the “new purchaser”).
+[2] There is no doubt that the new purchaser’s Rebate would have been otherwise paid by the Minister if the new purchaser had claimed it. The Minister admits this. The sole legal basis for denial of the Rebate, also the primary issue in dispute in this appeal, is the Minister’s assertion that Universo Homes is not “builder” within the meaning of that definition and within the Rebate assignment and transfer provisions of the Excise Tax Act RSC c. E-15, as amended (the “ETA”).
+A. THE STATUTORY REGIME
+[3] To determine whether Universo Homes is, firstly, a builder and, secondly, a builder to whom the Rebate may be paid, two sections of the ETA are applicable.
+[4] A new housing rebate may be paid to a builder under subsection 254(4) of the ETA, the excerpted relevant provisions of which follow:
+Application to builder
+(a) the builder of a single unit residential complex …. has made a taxable supply of the …. unit by way of sale to an individual and has transferred ownership of the complex or unit to the individual under the agreement for the supply.
+(b) tax under Division II has been paid, or is payable, by the individual in respect of the supply.
+(c) the individual …. submits to the builder in prescribed manner an application …. in respect of the …. Unit…. .
+(d) the builder agrees to pay or credit to or in favour of the individual any rebate under this section that is payable to the individual in respect of the complex, and
+(e) the tax payable in respect of the supply has not been paid at the time the individual submits an application for the rebate…..,
+The builder may pay or credit the amount of the rebate, if any, to or in favour of the individual.
+[5] Similarly, the relevant portions of the definition of “builder”, found in subsection 123(1) of the ETA are as follows:
+builder …. means a person who
+(a) at a time when the person has an interest in the real property on which the complex is situated, carries on or engages another person to carry on for the person
+[….]
+(iii) in any other case, the construction or substantial renovation of the complex,
+(b) acquires an interest in the complex at a time when
+[….]
+(ii) in any other case, the complex is under construction or substantial renovation,
+[….]
+(d) acquires an interest in the complex
+[….]
+(ii) in any case, before it has been occupied by an individual as a place of residence or lodging,
+for the primary purpose of
+(iii) making one or more supplies of the complex or parts thereof or interests therein by way of sale, or
+[….]
+(e) in any case, is deemed under subsection 190(1) to be a builder of the complex,
+but does not include
+(f) an individual described in paragraph (a), (b) or (d) who
+(i) carries on the construction or substantial renovation,
+(ii) engages another person to carry on the construction or substantial renovation for the individual, or
+(iii) acquires the complex or interest in it,
+otherwise than in the course of a business or an adventure or concern in the nature of trade… [….]
+[6] Mr. Dhesi spoke and listened to the proceedings through an interpreter. While not particularly relevant, it generally illuminates the fact that all documents pertaining to the Rebate, its transfer to Universo Homes from the new purchaser and other collateral documents were all written in English. As such, they were somewhat more complicated and perplexing for Mr. Dhesi than might otherwise be the case. Quite apart from this general limitation, Mr. Dhesi collated and presented the Rebate application and related documentation to the Court in a methodical and complete fashion. Of relevance to the appeal were the following documents.
+(i) Statement of Adjustment for acquisition of 77B Avenue Property.
+[7] The statement of adjustments, dated October 27, 2011, for the acquisition of the land pre-dates the Rebate application by several years. It describes Mr. Dhesi’s spouse, Sukhwinder Dhesi (“Mrs. Dhesi”), as the buyer of the property, known municipally as 21152 77B Avenue Langley, British Columbia (“77B Avenue”). It reveals no other purchaser within the document.
+(ii) Bank Statements for the purchase of 77B Avenue purchase
+[8] Bank account statements were produced by the Universo Homes. These disclose that the primary source of funds for the deposit to acquire 77B Avenue originated from Mr. Dhesi, both as to the deposit of $15,000.00 and the balance due on closing of $100,765.16. The acquisition date was October 27, 2011.
+(iii) Statement of Adjustments for the sale of 77B Avenue
+[9] The statement of adjustments on the disposition of 77B Avenue, dated January 25, 2013, identified the new purchaser, the property, the purchase price, the correct HST and the Rebate. The Rebate was otherwise properly reflected as a credit to the seller. The seller was identified as Mrs. Dhesi. There was no other party identified on the statement of adjustments as seller. The date of sale was January 25, 2013.
+(iv) Certificate of New Housing Rebate.
+[10] This certificate contained the usual statements of the new purchaser regarding initial post-closing intention to first occupy the property as a primary place of residence. It identified Mrs. Dhesi alone as the seller.
+(v) New Housing Rebate Application.
+[11] This document was submitted in the name of Universo Homes. The Minister takes no issue with the amount, the credit given to the new purchaser on closing or a taxable supply having been made. The document was executed by Mr. Dhesi. Again, the sole issue is whether Universo Home qualifies as builder within the ETA.
+(vii) Declaration of Bare Trust and Agency Agreement.
+[12] This document, as pronounced by its title, purports to classify Mrs. Dhesi’s interest in 77B Avenue as that of nominee, agent and bare trustee solely for Universo Homes, as principal and beneficial owner. The document is several pages long and otherwise contains all the necessary provisions to settle a bare trust concerning real property. As to dating, the following provision at the outset states the following:
+Declaration of Bare Trust and Agency Agreement
+This AGREEMENT dated effective the October 27, 2011, but not actually executed until the signed by authorized signatory.
+[13] At the conclusion and just above the signature lines it provides as follows:
+IN WITNESS WHEREOF the parties have executed this Agreement as of the date first above written.
+[14] The signatures to the document purport to be Mrs. Dhesi, as the nominee, and Mr. Dhesi as an authorized signatory for the beneficiary, the name of which beneficiary remains unidentified on the signatory page, but otherwise described in the body of the document.
+[15] The Court notes that Respondent’s counsel put a slightly different version of this agreement to Mr. Dhesi during cross-examination. That second version was identical as to terms, but, unlike the other version introduced in examination-in-chief, the second version contained initials on each page, different witnesses on the signatory page and a different form of signature for Mrs. Dhesi.
+(viii) Universo Homes financial statements and tax returns
+[16] Mr. Dhesi tendered into evidence financial statements, corporate tax returns, trial balances and general ledgers for Universo Homes. These documents spanned each of the three fiscal/taxation years relevant to the ownership of 77B Avenue. Mr. Dhesi’s ability to identify specific entries in these financial documents was limited, but his assertion that their contents demonstrated Universo Homes’ beneficial interest in 77B Avenue was adamant. As seen later in these reasons, the financial documents are useful for their reflection of various transactions concerning the acquisition, financing, purchase and disposition of 77B Avenue and certain related taxable supplies.
+B. THE ISSUE BEFORE THE COURT
+[17] The sole issue before the Court, as admitted by Respondent’s counsel, is whether Universo Homes is a “builder”. If it is, counsel agrees that Universo Homes is entitled to the Rebate. To ascertain this, the Court must determine whether it is so because Universo Homes had a sufficient interest in 77B Avenue during the relevant time by virtue of:
+(i) the Trust Declaration;
+(ii) the actions of the relevant participants and other documents, and/or
+(iii) given the facts, some basis, aside from beneficial ownership, under which Universo Homes had a sufficient interest as a builder in the property.
+C. SUBMISSIONS AND THE PARTIES’ POSITIONS
+(i) Labour and Material Lien Rights
+[18] During initial oral submissions, the Court raised a line of cases which provide that under certain factual bases, a contractor may be seized of a sufficient interest in a property, through its labour and material lien rights, to otherwise qualify as a builder within subsection 123(1). Respondent’s counsel, when this issue was raised, was not familiar with such line of cases. As such and to be fair, the Court allowed the Respondent 30 days to provide brief submissions solely on that issue. The Appellant was afforded 30 days in rebuttal. Both provided submissions which have been where necessary considered by the Court for the purposes of these reasons.
+(ii) The Respondent’s Submissions
+[19] The Minister takes the position that her basis for denying the Rebate is that Universo Homes is not a builder pursuant to the definition within subsection 123(1). Universo Homes did not acquire an interest in 77B Avenue. Universo Homes cannot rely on the Trust Declaration. The Minister asserts it is unenforceable for several reasons: the two versions make it unreliable evidence; it was more likely than not executed by the signatories after the acquisition date; and, in any event, the execution date cannot be determined from the document or from other evidence. Overall, the actions of Mrs. Dhesi, who took prima facie legal and beneficial title, and Mr. Dhesi, who funded the acquisition of 77B Avenue, belie the existence of a trust or agency in favour of Universo Homes. In general, there were not sufficient tangible legal steps or actions which, on balance, establish a trust or the like. The absence of that evidence fails to establish Universo Homes was a builder entitled to the transferred Rebate under subsection 254(4).
+(iii) The Appellant’s Position
+[20] Mr. Dhesi provided Universo Homes’ submissions in writing. The Court would summarize those as follows. With regards to the Trust Declaration, Mr. Dhesi indicated that both signatories attended and testified in Court. Both asserted they executed the document on October 27, 2011: Mrs. Dhesi by virtue of an affidavit filed with the Court. Although Mr. Dhesi did not precisely explain why two versions of the same document existed, he did not waiver from the date of execution. Mrs. Dhesi was present and affirmed, but was not cross-examined on her affidavit. Lastly, the beneficial ownership of 77B Avenue by Universo Homes is borne out through an examination of the financial statements. These reveal that 77B Avenue was as an asset of Universo Homes during the entire period by virtue of its recordal and identification of the acquisition, construction and disposition.
+D. ANALYSIS AND DECISION
+[21] The Respondent’s refined position, post written submissions is effectively as follow:
+(i) the Trust Declaration is effectively a lately created pretense, is unreliable because it exists in two different forms, fails legally to create a trust or agency, and is countermanded, even in its weakened or unreliable state, by the other actions of the main participants;
+(ii) Mrs. Dhesi undertook all steps of acquisition, sale and transfer of 77B Avenue without identifying for anyone, presumably save Universo Homes and their solicitors, the existence of a trust or agency;
+(iii) the jurisprudence regarding labour and material liens in property under the applicable Builder’s Lien Act SBC 1997, c.45 (the “BLA”) are distinguishable from this appeal because Universo Homes “did not own” 77B Avenue and “merely provided a construction service” qua general contractor to construct the home for the registered and titled owner. There is “no evidence Universo was a lienholder or that a lien was registered giving rise to an equitable interest”; and
+(iv) in any event, even if a it is builder by virtue of the labour and material lien rights, in the absence of a valid trust or agency, it was not Universo Homes, but Mrs. Dhesi who made the taxable supply to the otherwise qualifying new purchasers.
+[22] The Minister called no evidence, but relied upon her assumptions and supporting testimony adduced through Mr. Dhesi’s testimony and Mrs. Dhesi’s affidavit. The relevant, excerpted and modified (for definitional purposes within) assumptions of the Minister are as follows:
+Mrs. Dhesi owned 77B Avenue which she acquired on October 27, 2011 and was the registered until she sold it;
+During ownership, Universo Homes did not report GST payable on the acquisition of the land related to 77B Avenue;
+Universo Homes was required to file GST returns annually;
+Universo Homes did not have, at any time, a legal or beneficial interest in 77B Avenue;
+Mrs. Dhesi, not Universal Homes, was the seller of 77B Avenue.
+[23] The Trust Declaration is the nub of the issue before the Court. Its double appearance before the Court lay at the root of the Minister’s assertion that it is a pretense which fails for its incompleteness to establish the three certainties of a trust. The Minister’s focus is on the apparent conflict between the express effective date and deemed execution date. Implicit in this argument is the submission that unless the Trust Declaration has both an effective and execution date of October 27, 2011 (the date on which the land was acquired), then the constituent elements of a trust did not exist before Mrs. Dhesi acquired the property. Consequently, if not executed then, its effective date cannot make the trust operative at that moment or afterwards.
+a) sufficient evidence concerning an effective trust?
+[24] The Respondent is generally correct when she states in written submissions that:
+“in the absence of reliable documentary evidence of a trust arrangement, one should look to the common law pertaining to trusts”.
+The Respondent then states that the onus is on Universo Homes to show that the requirements for the creation of a trust have been met: Canpar Developments Inc. v. HMQ, 2011 TCC 353.
+[25] The Court makes some observations on this potentially quasi motivational reasoning. Respondent counsel’s statement should be modified as followed to accurately reflect the law and the factual record in this case [highlighting added]:
+In the absence of reliable documentary evidence of when the document creating a trust arrangement was executed, one should look to the common law pertaining to trusts.
+[26] It is the nebulous date of execution which causes the confusion; it is not the express effective date or the stated existence of the triune certainties needed for a trust. The certainty of subject matter is enunciated in the recitals: 77B Avenue. Certainty of object is not a mystery: paragraph 2(a) and (b) specifically identify the trust relationship, the beneficial interest of Universo Homes and the mere legal interest of Mrs. Dhesi. Certainty of intention is clear and unequivocal from the direct language which separates the legal and beneficial components of ownership: Section 1, appointment and acceptance. The Minister takes no issue with the substantive legal effect of such terms and provisions per se, but merely their existence on the effective date. As to time of legal effect, all of the foregoing elements are expressly stated to be effective the later of October 27, 2011 and execution.
+[27] Beyond this, the Minister asserts that Universal Homes and Mrs. Dhesi failed to reflect the dichotomy of legal and beneficial ownership through notice to the other parties. This is primarily because the purchase and sale documentation relating to 77B Avenue did not identify the trust relationship. Again, ignoring the trust declaration, the following non-exhaustive list of evidence before the Court did reflect the division of legal and beneficial ownership:
+i) throughout the tenure of ownership, Universo Homes’ financial statements reflected its acquisition of the land, the materials and permits needed to construct 77B Avenue;
+ii) Universo Homes serviced and deducted the interest on loans necessary to finance the acquisition of 77B Avenue;
+iii) Universo Homes reflected in its financial statements the advance of funds by Mr. Dhesi to Universo Homes in order to acquire the building site for 77B Avenue;
+iv) Universo Homes recorded on its books the lands and improvements related to 77B Avenue as inventory and reflected the sale accordingly; and,
+v) Universo Homes paid HST (at the time) on the supplies, materials, appliances and third party services and claimed related input tax credits.
+[28] These detailed records produced by Universo Homes reflect a consistent beneficial ownership interest in the land and improvements supplied by it and related to 77B Avenue. Further, Universo Homes filed the application for the Rebate. This is straight down-the-line consistent with the separation of legal versus beneficial ownership: Mrs. Dhesi’s role as a non-contributing, passive, titular registered owner and Universo Homes’ active, contributive and beneficial involvement in the acquisition, development and sale of 77B Avenue.
+a) were there lien rights?
+[29] While the issue of worker and material lien rights is largely moot given the factual presence of the existence of a trust, some clarification is needed. It is legally not correct to suggest that the supplier of labour and materials for the improvement of land does not have an interest in land because it does not own the property improved: subsections 2(d),(e),(f) and (g) of Builders Lien Act, SBC 1997 c.45 (the “BLA”). The rights of workers and suppliers to builders’ liens are predicated on such a legal right and legal claim against the freehold or leasehold interest of the titled owner, specifically in spite of the lien claimant not being a registered owner.
+[30] If Universo were not a beneficial owner by virtue of a trust, then the evidence before the Court establishes that it had lien rights by operation of law through its supply of materials and labour. Failure to commence an action and file a certificate of pending litigation will extinguish the lien, but only after the prescribed time period for perfection has itself expired: section 33(1) of the BLA. There is prima facie evidence that Universo Homes supplied labour and materials to 77B Avenue within a subsisting lien period and likely just before the sale on January 25, 2013. The books and records of Universo Homes establish it remained unpaid for such improvements until the proceeds from the new purchaser were received after the sale. On balance, Universo Homes has certainly proven these facts, unaddressed by the Minister who offered no contrary evidence in rebuttal. On that basis, Universo Homes more likely than not had subsisting liens rights: section 20 of the BLA, if it were not a beneficial owner.
+b) reconciling an effective trust
+[31] Timing is everything. The Court concurs that in the absence of a trust having been settled between Mrs. Dhesi and Universo Homes, the appeal is to be dismissed.
+[32] Based upon the facts before it outlined within, the Court is prepared to find that an effective trust settled legal ownership upon Mrs. Dhesi and beneficial ownership upon Universo Homes. It was effectively created and memorialized in writing at some point in the Trust Declaration during the period of such “shared ownership” for 77B Avenue and reflected in writing prior to sale. The issue of lien rights is moot. Universo Homes was the beneficial owner of 77B Avenue during the relevant period. It was therefore qualified as a builder under the provisions of the ETA to apply for and receive the properly calculated and claimed Rebate.
+[33] For the reasons stated above, the appeal is granted. Universo Homes was a builder within the meaning of subsections 123(1) and 254(4) of the ETA and qualifies for the credited and transferred Rebate concerning the January 25, 2013 sale of the 77B Avenue property.
+[34] There shall be no award of costs. Universo Homes is a registrant under the ETA; however the amount in issue is greater than $7,000 even though the quantum of taxable supplies for the prior fiscal year of the registrant exists, is ascertainable and does not exceed one million dollars. Therefore, the general discretion of the Court to award costs is specifically circumscribed by the particular subparagraph 1(c) of section 18.3009 of the Tax Court of Canada Act, R.S.C. 1985, c.T-2.
+Signed at Toronto, Ontario, this 5th day of July 2019.
+“R.S. Bocock”
+Bocock J.
+CITATION:
+2019TCC87
+COURT FILE NO.:
+2018-1225(GST)I
+STYLE OF CAUSE:
+UNIVERSON HOME CONSTRUCTION LTD. AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Vancouver, British Columbia
+DATE OF HEARING:
+January 24, 2019
+REASONS FOR JUDGMENT BY:
+The Honourable Mr. Justice Randall S. Bocock
+DATE OF JUDGMENT:
+July 5, 2019
+APPEARANCES:
+Agent for the Appellant:
+Gurdev S. Dhesi
+Counsel for the Respondent:
+Natasha Tso
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada

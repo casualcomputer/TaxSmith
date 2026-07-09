@@ -1,0 +1,133 @@
+Title: Klassen v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/64496/index.do
+Corpus path: corpus/cases/tcc/2013/2013-tcc-351-64496-klassen-v-m-n-r-en.md
+Document type: case_law
+Last modified: 2013-10-31
+
+# Klassen v. M.N.R.
+
+- Citation: 2013 TCC 351
+- Decision date: 2013-10-31
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5940, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Klassen v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2013-10-31
+Neutral citation
+2013 TCC 351
+File numbers
+2012-3668(EI)
+Judges and Taxing Officers
+Judith Woods
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2012-3668(EI)
+BETWEEN:
+TINA KLASSEN,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard on October 9, 2013 at Windsor, Ontario
+By: The Honourable Justice Judith M. Woods
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Shane Aikat
+____________________________________________________________________
+JUDGMENT
+UPON an appeal with respect to a decision of the respondent that the appellant was not engaged in insurable employment with Southpoint Growers for the period from January 1, 2011 to December 31, 2011,
+IT IS ORDERED that the appeal is dismissed and the decision of the respondent is confirmed.
+Signed at Toronto, Ontario this 31st day of October 2013.
+“J. M. Woods”
+Woods J.
+Citation: 2013 TCC 351
+Date: 20131031
+Docket: 2012-3668(EI)
+BETWEEN:
+TINA KLASSEN,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGMENT
+Woods J.
+[1] Tina Klassen worked as the office manager in a start up greenhouse farming operation. The business, Southpoint Growers, was owned and operated by Ms. Klassen’s parents and her brother in the form of a partnership. The business failed after one season and Ms. Klassen then applied for benefits under the Employment Insurance Act.
+[2] By letter dated May 18, 2012, the Minister determined that Ms. Klassen was not engaged in insurable employment on the basis that the terms of the employment were not substantially similar to arm’s length terms. Ms. Klassen submits that this determination is unreasonable and has appealed to this Court.
+[3] The period at issue is from January 1, 2011 to December 31, 2011.
+Background facts
+[4] Ms. Klassen is a qualified and experienced office administrator.
+[5] By way of a verbal contract, Ms. Klassen was offered the position of office manager with Southpoint Growers at a salary of $400 per week. The parties agree that this is a reasonable rate of remuneration for a 16 hour work week. Ms. Klassen worked out of her home, where she was also looking after her three children.
+[6] Ms. Klassen began by helping start up the business without pay during the months of January and February 2011.
+[7] During March and April 2011, Ms. Klassen received remuneration of only $75 per week which was to enable her to qualify for maternity benefits. It was contemplated that the shortfall would be made up from future pay cheques. Ms. Klassen did receive partial reimbursement for the shortfall by receiving remuneration of $500 per week for several weeks. However, the extra payments did not come close to achieving full reimbursement.
+[8] The business was not successful and it began to wind down after the growing season. In December 2011, Ms. Klassen received only $150 per week in light of the poor financial condition of the business.
+[9] In 2012, which is outside the period at issue, Ms. Klassen continued to assist with the wind up of the business without pay.
+[10] Although Ms. Klassen did not keep track of her hours, she estimates that she generally worked 16 to 20 hours per week, except for January, February and December when she worked approximately 25 to 30 hours per week.
+[11] Ms. Klassen’s duties required her to travel between the farm and her office for which she received reimbursement. She also kept a cell phone in order to be available for urgent business matters.
+[12] The other workers at the farm were migrant workers who were paid minimum wage on a regular basis.
+Applicable legislation
+[13] The applicable legislative provisions are reproduced below.
+5. (2) Excluded employment - Insurable employment does not include
+(a) employment of a casual nature other than for the purpose of the employer’s trade or business;
+(b) the employment of a person by a corporation if the person controls more than 40% of the voting shares of the corporation;
+(c) employment in Canada by Her Majesty in right of a province;
+(d) employment in Canada by the government of a country other than Canada or of any political subdivision of the other country;
+(e) employment in Canada by an international organization;
+(f) employment in Canada under an exchange program if the employment is not remunerated by an employer that is resident in Canada;
+(g) employment that constitutes an exchange of work or services;
+(h) employment excluded by regulations made under subsection (6); and
+(i) employment if the employer and employee are not dealing with each other at arm’s length.
+(3) Arm’s length dealing - For the purposes of paragraph (2)(i),
+(a) the question of whether persons are not dealing with each other at arm’s length shall be determined in accordance with the Income Tax Act; and
+(b) if the employer is, within the meaning of that Act, related to the employee, they are deemed to deal with each other at arm’s length if the Minister of National Revenue is satisfied that, having regard to all the circumstances of the employment, including the remuneration paid, the terms and conditions, the duration and the nature and importance of the work performed, it is reasonable to conclude that they would have entered into a substantially similar contract of employment if they had been dealing with each other at arm’s length.
+Discussion
+[14] As mentioned above, Ms. Klassen submits that the Minister’s decision is not reasonable. The arguments in her notice of appeal are briefly summarized below.
+(a) Other employers are willing to help out employees in their life situations.
+(b) Ms. Klassen had the necessary experience to perform this work, having performed similar work in a welding shop.
+(c) The remuneration was decided by the owners and the hours varied every week.
+(d) Ms. Klassen has three young children and is in need of these employment insurance benefits.
+[15] The question to be decided is whether it was reasonable for the Minister to conclude that Ms. Klassen and Southpoint Growers would not have entered into a substantially similar contract of employment if they were dealing at arm’s length.
+[16] Based on the evidence at the hearing, I would conclude that the Minister’s decision was reasonable. I have sympathy for Ms. Klassen’ financial situation, but this is an extraneous factor that cannot be taken into account in considering the Minister’s decision.
+[17] In my view, the evidence concerning the remuneration received for the number of hours worked amply supports the Minister’s decision. There are several months in which Ms. Klassen either received no remuneration at all or significantly less than $400 per week, which is agreed by the parties to represent an arm’s length wage for a 16 hour work week. Ms. Klassen received partial reimbursement for the shortfall but it was not a complete reimbursement. Ms. Klassen also worked significantly more than 16 hours per week in three of the months.
+[18] At the hearing, counsel for the Crown raised an issue as to whether the unpaid work during January and February should be taken into account.
+[19] The general approach to unpaid work is set out in Dumais v MNR, 2008 FCA 301, at paragraph 32:
+[32] Three factors seem essential for the purposes of paragraph 5(2)(i) when analysing the impact of unpaid work between related persons: the nature of duties performed, their number and their frequency. These are, in fact, what Justice Marceau in Pérusse, cited above, referred to as the circumstances that relate to the terms of the contract and its conditions of performance: see paragraph 5 of the reasons for that decision. The more similar the duties performed at no charge are to those described under the contract for paid work and the higher their number and frequency, the less likely and reasonable it becomes to conclude that the employer and employee “would have entered into a substantially similar contract of employment if they had been dealing with each other at arm’s length”. If, as is the case here, one added the factor of continuity in the delivery of services, the conclusion that the employment must be excluded becomes inevitable.
+[20] The only time that Ms. Klassen worked for no pay was during the months of January and February. Although she claimed this period as qualifying for purposes of employment insurance, the better approach is to consider this period as prior to the actual start of the employment relationship. This is a common sense view, and is not inconsistent with Dumais.
+[21] Even assuming that the work done in January and February is ignored, however, the Minister’s decision is still very reasonable for the reasons outlined above.
+[22] Ms. Klassen submits that other employers would help out employees and that the remuneration was decided by the employer. Neither of these factors are of assistance to Ms. Klassen. First, it does not matter that the remuneration was decided by the employer. The relevant question is whether the remuneration was arm’s length.
+[23] Second, it does not matter that other employers may help out employees. This argument was made to counter the Minister’s view that Ms. Klassen was not qualified for the work. I am satisfied by the evidence that she was adequately qualified. It was not a case of an employer helping out an employee. Rather, the situation involved an employee helping out an employer. It may seem odd that employment insurance is denied in these circumstances but this is the regime that Parliament has adopted.
+[24] Before concluding, I would mention that the provision relied on by the Minister requires that Ms. Klassen be related to the employer (s. 5(3)(b) of the Act). Ms. Klassen does not challenge this aspect of the decision since she is related to all of the partners. I will not consider this issue further except to say that it seems reasonable to look to the relationship with the partners in this case.
+[25] The appeal will be dismissed, and the decision of the Minister will be confirmed.
+Signed at Toronto, Ontario this 31st day of October 2013.
+“J. M. Woods”
+Woods J.
+CITATION: 2013 TCC 351
+COURT FILE NO.: 2012-3668(EI)
+STYLE OF CAUSE: TINA KLASSEN and THE MINISTER OF NATIONAL REVENUE
+PLACE OF HEARING: Windsor, Ontario
+DATE OF HEARING: October 9, 2013
+REASONS FOR JUDGMENT BY: The Honourable Justice J.M. Woods
+DATE OF JUDGMENT: October 31, 2013
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Shane Aikat
+COUNSEL OF RECORD:
+For the Appellant:
+Name: n/a
+Firm:
+For the Respondent: William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Ontario

@@ -1,0 +1,168 @@
+---
+title: "Pearson c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30593/index.do"
+last_modified: "2011-09-27"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2011 CCI 455"
+citation2: ""
+neutral_citation: "2011 CCI 455"
+decision_date: "2011-09-27"
+language: "fr"
+item_id: "30593"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7149
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T13:36:22.852000+00:00"
+cases_cited_count: 2
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "2436a25da0e7e2463b4feccd3d9a4cb2d89e0dee8f2f788c2253a62196d403d9"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Pearson c. La Reine
+
+- Citation: 2011 CCI 455
+- Decision date: 2011-09-27
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7149, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Pearson c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2011-09-27
+Référence neutre
+2011 CCI 455
+Numéro de dossier
+2011-1262(IT)I
+Juges et Officiers taxateurs
+Valerie A. Miller
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2011-1262(IT)I
+ENTRE :
+JOANN PEARSON,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 15 septembre 2011 à Vancouver (Colombie‑Britannique).
+Devant : L’honorable juge Valerie Miller
+Comparutions :
+Pour l’appelante :
+L’appelante elle‑même
+Avocat de l’intimée :
+Me Zachary Froese
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’encontre de la nouvelle détermination établie en vertu de la Loi de l’impôt sur le revenu pour l’année de base 2007 est rejeté, et l’appel interjeté à l’encontre de la nouvelle détermination établie en vertu de la Loi de l’impôt sur le revenu pour l’année de base 2008 accueilli. L’affaire est déférée au ministre du Revenu national pour qu’il procède à un nouvel examen et établisse une nouvelle détermination en tenant compte du fait que l’appelante était le particulier admissible pour le mois de janvier 2010.
+Signé à Ottawa, Canada, ce 27e jour de septembre 2011.
+« V.A. Miller »
+Juge V.A. Miller
+Traduction certifiée conforme
+ce 9e jour de novembre 2011.
+Espérance Mabushi, M.A.Trad. Jur.
+Référence : 2011 CCI 455
+Date : 20110927
+Dossier : 2011-1262(IT)I
+ENTRE :
+JOANN PEARSON,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge V.A. Miller
+[1] La question en litige est de savoir si l’appelante était, au sens de l’article 122.6 de la Loi de l’impôt sur le revenu (la « Loi »), le « particulier admissible » au titre de la Prestation fiscale canadienne pour enfants (la « PFCE ») et de la Prestation universelle pour la garde d’enfants (la « PUGE ») pour un certain nombre de mois en 2009 et en 2010.
+[2] L’appelante et son ex-conjointe, Anita Furlan, se sont séparées en novembre 2007. Elles ont deux enfants, T et E, nés en 2002 et en 2006, respectivement.
+[3] Dans un jugement daté du 28 octobre 2010, le juge en chef Rip a décidé que Mme Furlan était, à l’égard des deux enfants, le particulier admissible au titre de la PFCE et de la PUGE pour les périodes suivantes :
+Juillet 2008 Juin 2009
+Novembre 2008 Juillet 2009
+Janvier 2009 (T seulement) Août 2009
+Février 2009 (T seulement) Décembre 2009
+Mars 2009 Janvier 2010
+[4] Une nouvelle détermination a été établie à l’égard de l’admissibilité de l’appelante au titre de la PFCE et de la PUGE compte tenu de la décision du juge en chef, et c’est cette nouvelle détermination qui fait l’objet du présent appel. L’appelante soutient qu’elle était le particulier admissible à l’égard des deux enfants pour les mois suivants :
+Janvier 2009
+Décembre 2009
+Février 2009
+Janvier 2010
+Mars 2009
+Juin 2009
+Requête en rejet de l’appel
+[5] L’intimée a présenté une requête en vue d’obtenir le rejet de l’appel de l’appelante en se fondant sur le fait que l’appel constitue un abus de procédure. La requête est fondée sur les éléments suivants :
+a) La Cour a déjà statué sur la question litigieuse. Demander à la Cour de se prononcer de nouveau sur les mêmes faits constitue un abus de procédure et un gaspillage de ressources judiciaires.
+b) L’appelante n’a pas cherché à intervenir lorsque la Cour a initialement entendu la cause;
+c) L’appelante ne peut pas demander à la Cour d’entendre de nouveau la cause.
+[6] Je ne souscris pas à l’avis de l’intimée, et la requête est rejetée pour les motifs qui suivent.
+[7] La doctrine de l’abus de procédure est une doctrine souple. Elle trouve son origine dans le pouvoir inhérent de la cour de contrôler sa propre procédure et d’assurer l’intégrité du système judiciaire[1].
+[8] Dans l’arrêt Toronto (Ville) c. Syndicat canadien de la fonction publique (S.C.F.P.), section locale 79[2], la juge Arbour a expliqué que la doctrine de l’abus de procédure vise essentiellement à préserver l’intégrité du système judiciaire afin d’éviter des résultats contradictoires.
+[9] La juge Arbour a présenté, dans l’arrêt S.C.F.P., des situations où la remise en cause d’une affaire ne constituerait pas un abus de procédure. Au paragraphe 52 de cet arrêt, la juge Arbour a fait les observations suivantes :
+52 La révision de jugements par la voie normale de l’appel, en revanche, accroît la confiance dans le résultat final et confirme l’autorité du processus ainsi que l’irrévocabilité de son résultat. D’un point de vue systémique, il est donc évident que la remise en cause s’accompagne de graves effets préjudiciables et qu’il faut s’en garder à moins que des circonstances n’établissent qu’elle est, dans les faits, nécessaire à la crédibilité et à l’efficacité du processus juridictionnel dans son ensemble. Il peut en effet y avoir des cas où la remise en cause pourra servir l’intégrité du système judiciaire plutôt que lui porter préjudice, par exemple : (1) lorsque la première instance est entachée de fraude ou de malhonnêteté, (2) lorsque de nouveaux éléments de preuve, qui n’avaient pu être présentés auparavant, jettent de façon probante un doute sur le résultat initial, (3) lorsque l’équité exige que le résultat initial n’ait pas force obligatoire dans le nouveau contexte. C’est ce que notre Cour a dit sans équivoque dans l’arrêt Danyluk, précité, par. 80.
+[10] En l’espèce, l’équité exige que le résultat initial n’ait pas force obligatoire à l’égard de l’appelante. Premièrement, l’appelante exerce son droit d’appel en application de l’article 169 de la Loi lorsqu’elle dépose son avis d’appel et conteste les déterminations établies à son égard. Deuxièmement, bien qu’elle fût présente en qualité de témoin à l’audience de l’appel de Mme Furlan, l’appelante avait été mal informée par l’intimée quant au nombre de mois en cause dans l’appel. L’appelante s’était fait dire qu’il n’y avait que quatre mois en cause et elle avait apporté des documents pour ces quatre mois, alors que la période en cause dans l’appel de Mme Furlan portait sur deux ans et demi.
+[11] Finalement, le ministre aurait pu veiller à ce que l’appelante et Mme Furlan soient toutes deux tenues par le même jugement. Dans des situations semblables à l’espèce, il est approprié et souhaitable que le ministre fasse en sorte que les parties soient liées par la même décision en application de l’article 174 de la Loi, pour assurer la cohérence et le caractère définitif des résultats. Je souscris aux observations suivantes faites par la juge Sheridan dans la décision Streitenberger c. La Reine[3], au paragraphe 3 :
+3 Comme l’indique clairement l’hypothèse figurant à l’alinéa 16t) de la réponse à l’avis d’appel, c’est la deuxième fois que la Cour examine la question de savoir si l’appelant ou son ex‑épouse, Sandra Scott (ci‑après « Mme Scott »), a le droit de recevoir la PFCE pour presque la même période. Dans l’appel interjeté par Mme Scott, le juge Margeson a statué, sans fournir de motifs, que Mme Scott avait droit à la PFCE, et le ministre a établi une nouvelle détermination en conséquence pour ce qui est de l’admissibilité de l’appelant à la PFCE. L’appelant appelle maintenant de cette nouvelle détermination. Compte tenu des circonstances, il me semble qu’il aurait été approprié (voire, souhaitable) que le ministre demande, en application de l’article 174 de la Loi de l’impôt sur le revenu (la « Loi »), que l’appelant soit lié par la décision rendue relativement à l’appel de Mme Scott1. Si cela avait été fait, on aurait pu éviter deux conséquences malheureuses : la famille n’aurait pas été obligée d’aller en justice une deuxième fois pour la même période à l’égard de la même question, et la Cour ne se serait pas trouvée dans une situation embarrassante où elle doit en fait entendre un genre d’appel de la décision rendue lors de la première instance.
+La PFCE et la PUGE
+[12] La seule question à trancher est de savoir quelle est, durant chacun des mois en cause, la personne qui assumait principalement la responsabilité pour le soin et l’éducation des enfants.
+[13] L’appelante et Mme Furlan ont toutes deux tenu une comptabilité détaillée du temps qu’elles ont passé avec leurs enfants. Bien que Mme Furlan ait calculé le temps sur une base journalière et que Mme Pearson l’ait calculé sur une base horaire, leurs calculs ne font état que de légères différences. Ces différences dépendent, en grande partie, des conclusions auxquelles je parviendrai quant à savoir si c’est l’appelante qui assumait la responsabilité pour le soin des enfants pendant que ceux‑ci étaient à l’école durant une période où ils résidaient avec Mme Furlan.
+[14] L’ordonnance rendue par la Cour suprême de la Colombie‑Britannique le 19 août 2009 ordonnait ce qui, en son paragraphe 6 :
+[traduction]
+6. Pour les jours de la semaine où les enfants résident avec la demanderesse, mais que celle‑ci n’est pas en mesure de prendre soin personnellement des enfants, la défenderesse exercera son droit d’accès de la manière suivante :
+a. La défenderesse ira chercher les enfants à 7 h 30 pour chacune de ces journées et assumera la responsabilité pour le soin des enfants jusqu’à 16 h 30, heure à laquelle la demanderesse ou une personne désignée par elle pourra passer chercher les enfants.
+b. Si la défenderesse n’est pas en mesure de respecter les présentes dispositions relatives à l’accès en ce qui concerne le soin des enfants, elle donnera un préavis d’une semaine pour permettre à la demanderesse de prendre d’autres dispositions.
+[15] L’appelante a soutenu qu’elle [traduction] « assumait la responsabilité pour le soin » de T lorsque T était à l’école durant les périodes où les circonstances énoncées au paragraphe 6 étaient applicables. En outre, l’appelante a fait valoir que les circonstances énoncées au paragraphe 6 avaient été appliquées avant et après la date de l’ordonnance.
+[16] Je suis d’accord avec l’appelante sur le fait que, lorsque les circonstances du paragraphe 6 étaient applicables, l’appelante assumait la responsabilité pour le soin de T pour le mois de septembre et pour une partie du mois d’octobre 2009. Toutefois, l’accord de séparation daté du 10 juillet 2007 ou celui daté du 29 octobre 2007 ne comportent aucun élément qui corrobore l’argument de l’appelante selon lequel, avant l’ordonnance rendue le 19 août 2009, l’appelante assumait la responsabilité pour le soin de T lorsque celle‑ci était à l’école durant une semaine où T résidait avec Mme Furlan. De même, l’ordonnance sur consentement rendue le 19 octobre 2009 n’appuie pas l’argument de l’appelante.
+[17] En outre, Mme Furlan a témoigné sur le fait qu’elle avait avisé le personnel de l’école que c’était avec elle qu’il fallait communiquer lorsque T résidait avec elle. De plus, Mme Furlan avait fourni à l’école les dates pour lesquelles T résiderait avec elle.
+[18] Compte tenu de l’ensemble de la preuve, je conclus que l’appelante a démontré qu’elle était la personne qui assumait principalement la responsabilité pour le soin des enfants en janvier 2010. L’appel est accueilli au motif que l’appelante était le particulier admissible pour le mois de janvier 2010.
+Signé à Ottawa, Canada, ce 27e jour de septembre 2011.
+« V.A. Miller »
+Juge V.A. Miller
+Traduction certifiée conforme
+ce 9e jour de novembre 2011.
+Espérance Mabushi, M.A.Trad. Jur.
+RÉFÉRENCE : 2011 CCI 455
+NO DU DOSSIER DE LA COUR : 2011-1262(IT)I
+INTITULÉ : JOANN PEARSON
+c.
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Vancouver (Colombie‑Britannique)
+DATE DE L’AUDIENCE : Le 15 septembre 2011
+MOTIFS DU JUGEMENT : L’honorable juge Valerie Miller
+DATE DU JUGEMENT : Le 27 septembre 2011
+COMPARUTIONS :
+Pour l’appelante :
+L’appelante elle‑même
+Avocate de l’intimée :
+Me Zachary Froese
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom:
+Cabinet :
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Garber c. Canada, [2008] CAF 53, au paragraphe 35
+[2] 2003 CSC 63, au paragraphe 43
+[3] 2007 CCI 430

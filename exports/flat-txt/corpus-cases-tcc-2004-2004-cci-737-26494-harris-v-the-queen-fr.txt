@@ -1,0 +1,311 @@
+Title: Harris v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26494/index.do
+Corpus path: corpus/cases/tcc/2004/2004-cci-737-26494-harris-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2004-11-23
+
+# Harris v. The Queen
+
+- Citation: 2004 CCI 737
+- Decision date: 2004-11-23
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3242, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Harris v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-11-23
+Référence neutre
+2004 CCI 737
+Numéro de dossier
+2003-3024(IT)I
+Juges et Officiers taxateurs
+Terrence O'Connor
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2003-3024(IT)I
+ENTRE :
+DAVID J. HARRIS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appels entendus le 25 octobre 2004, à Vancouver (Colombie-Britannique)
+Devant : L'honorable juge T. O'Connor
+Comparutions :
+Représentant de l'appelant :
+Ron Ilner
+Avocate de l'intimée :
+Me Nadine Taylor Pickering
+JUGEMENT
+Les appels des nouvelles cotisations établies en vertu de la Loi de l'impôt sur le revenu pour les années d'imposition 1999 et 2000 sont accueillis, et les nouvelles cotisations sont déférées au ministre du Revenu national pour qu'il procède à un nouvel examen et établisse de nouvelles cotisations parce que :
+(1) l'appelant a droit à des déductions :
+(i) pour des frais de déplacement s'élevant à 1 847,04 $ pour 1999 et à 1 405,04 $ pour 2000;
+(ii) pour des frais de téléphone s'élevant à 486 $ pour 1999 et à 511 $ pour 2000;
+(iii) pour des frais et des fournitures de bureau s'élevant à 70 $ plus 66 $ à titre de déduction pour amortissement (total de 136 $) pour 2000;
+(2) les revenus de l'appelant sont augmentés vu que les revenus de location nets de 447,21 $ pour 1999 et de 398,18 $ pour 2000 y sont ajoutés;
+(3) les pénalités pour production tardive imposées par le ministre ont été imposées à juste titre en vertu de l'article 162 de la Loi de l'impôt sur le revenu, le tout selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 23e jour de novembre 2004.
+« T. O'Connor »
+Juge O'Connor
+Traduction certifiée conforme
+ce 8e jour de février 2006.
+Mario Lagacé, réviseur
+Référence : 2004CCI737
+Date : 20041123
+Dossier : 2003-3024(IT)I
+ENTRE :
+DAVID J. HARRIS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge O'Connor
+[1] Les paragraphes suivants de la réponse à l'avis d'appel (la « réponse » ) expliquent l'évolution de ces appels et les questions en litige :
+[TRADUCTION]
+[...]
+2. Dans une lettre datée du 12 janvier 2001, le ministre du Revenu national (le « ministre » ) a demandé que l'appelant produise sa déclaration de revenus pour 1999.
+3. Dans une lettre datée du 27 février 2001, le ministre a rappelé une fois de plus à l'appelant qu'il devait produire sa déclaration de revenus pour 1999.
+4. Dans une lettre datée du 9 janvier 2002, le ministre a demandé que l'appelant produise sa déclaration de revenus pour 2000.
+5. Dans une lettre datée du 22 février 2002, le ministre a signifié une mise en demeure à l'appelant de produire sa déclaration de revenus pour 2000.
+6. Dans des avis datés du 6 juin 2002, le ministre a établi une cotisation initiale à l'égard de l'appelant pour les années d'imposition 1999 et 2000 en vertu du paragraphe 152(7) de la Loi de l'impôt sur le revenu (la « Loi » ) en fonction de revenus imposables de 42 428,89 $ et de 37 965,64 $, respectivement, tel qu'il est indiqué dans les annexes A et B ci-jointes. Le ministre a également imposé à l'appelant des pénalités pour production tardive conformément à l'article 162 de la Loi.
+7. L'appelant s'est opposé aux cotisations au moyen d'un avis d'opposition daté du 17 octobre 2002.
+8. Le 21 octobre 2002, l'appelant a produit ses déclarations de revenus pour 1999 et 2000 et a déclaré des revenus imposables de 31 126,85 $ et de 26 131,64 $, respectivement, tel qu'il est indiqué dans les annexes A et B ci-jointes.
+9. Dans un avis daté du 21 mai 2003, le ministre a ratifié les cotisations établies à l'égard de l'appelant pour les années d'imposition 1999 et 2000.
+10. Au moment d'établir les cotisations à l'égard des années d'imposition 1999 et 2000 et de ratifier ces cotisations, le ministre a supposé les mêmes faits, à savoir que :
+a) l'appelant a tiré des revenus d'emploi de 40 583,01 $ en 1999 et de 37 965,64 $ en 2000 de la société de la Nouvelle-Écosse 3003300, faisant affaire sous le nom de Petsmart, et des revenus d'emploi de 830 $ en 1999 de la société Rockhouse Indoor Climbing Centre Ltd.;
+b) l'appelant a également réalisé un gain en capital net de 1 015,88 $ en 1999 par suite de la disposition de titres émis par Canada Life;
+c) l'appelant n'a pas touché d'autres revenus d'emploi de 7 230,26 $ en 1999 et de 4 396,68 $ en 2000;
+d) l'appelant n'a pas engagé des frais de 9 863,56 $ en 1999 et de 11 230,62 $ en 2000 pour gagner un revenu d'emploi;
+e) l'appelant n'a pas engagé des frais de 7 369,96 $ en 1999 et de 6 000 $ en 2000 pour gagner ou produire un revenu d'entreprise;
+f) la conjointe de l'appelant ne gagnait pas moins de 6 290 $ en 1999 et de 6 754 $ en 2000;
+g) l'appelant n'a produit ses déclarations de revenus pour les années d'imposition 1999 et 2000 que le 21 octobre 2002;
+h) l'appelant a produit ses déclarations de revenus pour 1999 et 2000 en retard, alors des pénalités pour production tardive de 1 351,27 $ pour 1999 et de 2 613,54 $ pour 2000 lui ont été imposées.
+B. QUESTIONS EN LITIGE
+11. Les questions en litige sont de savoir :
+a) si le ministre a correctement calculé le revenu imposable de l'appelant pour les années d'imposition 1999 et 2000;
+b) si le ministre a à juste titre imposé des pénalités pour production tardive en vertu de l'article 162 de la Loi.
+[...]
+16. L'appelant ne peut pas demander des montants pour conjoint de 5 718 $ pour 1999 et de 6 140 $ pour 2000 à titre de crédits d'impôt non remboursables en vertu de l'alinéa 118(1)a) de la Loi parce que les revenus de sa conjointe dépassaient le montant de base pour chacune des années d'imposition 1999 et 2000.
+[2] Les annexes A et B de la réponse indiquent ce qui suit :
+[TRADUCTION]
+ANNEXE A
+David J. Harris - Appel devant la Cour canadienne de l'impôt, no du greffe 2003-3024(IT)I
+Revenus, déductions et crédits d'impôt non remboursables demandés et accordés pour 1999
+Cotisation du
+6 juin 2002
+Demande révisée du
+21 octobre 2002
+Montants en cause
+Revenus
+Revenus d'emploi
+41 413,01 $
+41 130,01 $
+$
+283 $
+Autres revenus d'emploi
+-
+7 230,26
+(7 230,26)
+Gains en capital imposables
+1 015,88
+-
+1 015,88
+Écarts
+-
+0,10
+(0,10)
+Total des revenus
+42 428,89
+48 360,37
+(5 931,48)
+Déductions
+Autres dépenses d'emploi
+- $
+9 863,56 $
+(9 863,56) $
+Autres déductions
+-
+7 369,96
+(7 369,96)
+Total des déductions
+-
+17 233,52
+(17 233,52)
+Revenu net et imposable
+42 428,89 $
+31 126,85 $
+11 302,04 $
+Crédits d'impôt non remboursables
+Montant personnel de base
+6 794 $
+6 794 $
+- $
+Montant pour conjoint
+-
+5 718
+(5 718)
+Cotisations d'employé au RPC
+1 186,50
+1 186,50
+-
+Cotisations d'assurance-emploi
+994,50
+936
+58,50
+Total des crédits d'impôt non remboursables
+8 975 $
+14 634,50 $
+(5 659,50) $
+[TRADUCTION]
+ANNEXE B
+David J. Harris - Appel devant la Cour canadienne de l'impôt, no du greffe 2003-3024(IT)I
+Revenus, déductions et crédits d'impôt non remboursables demandés et accordés pour 2000
+Cotisation du
+6 juin 2002
+Demande révisée du
+21 octobre 2002
+Montants en cause
+Revenus
+Revenus d'emploi
+37 965,64 $
+38 965,58 $
+(999.94) $
+Autres revenus d'emploi
+-
+4 396,68
+(4 396,68)
+Total des revenus
+37 965,64
+43 362,26
+(5 396,62)
+Déductions
+Autres dépenses d'emploi
+- $
+11 230,62 $
+(11 230,62) $
+Autres déductions
+-
+6 000
+(6 000)
+Total des déductions
+-
+17 230,62
+(17 230,62)
+Revenu net et imposable
+37 965,64 $
+26 131,64 $
+11 834 $
+Crédits d'impôt non remboursables
+Montant personnel de base
+7 231 $
+7 231 $
+- $
+Montant pour conjoint
+-
+6 140
+(6 140)
+Cotisations d'employé au RPC
+1 329,90
+1 329,90
+-
+Cotisations d'assurance-emploi
+911,19
+877,36
+33,83
+Total des crédits d'impôt non remboursables
+9 472,09 $
+15 578,26 $
+(6 106,17) $
+[3] Il faut d'abord signaler que l'appelant avait la charge de prouver que la cotisation établie est incorrecte. En termes généraux, compte tenu du manque presque total de documents, comme des reçus ou d'autres preuves de dépenses, et de l'absence des registres adéquats, la tâche de l'appelant par rapport à l'acquittement de cette charge était extrêmement ardue. Il s'est vu accorder bien des délais pour produire la documentation requise et, dans une très grande mesure, il n'a pas respecté ces délais. Les documents continuaient à entrer au compte-gouttes, et ce, jusqu'à une semaine avant le début de l'audience de ces appels.
+[4] Cela dit, il faut noter que les parties ont convenu des points suivants ou que ces points ont par ailleurs été établis à l'audience.
+1. La cotisation a été établie correctement en ce qui concerne le gain en capital de 1 015,88 $ dont il est question à l'alinéa 10b) de la réponse.
+2. Les « autres revenus d'emploi » de 7 230,26 $ pour 1999 et de 4 396,68 $ pour 2000 dont il est question à l'alinéa 10c) de la réponse n'ont pas été gagnés et n'étaient donc pas imposables.
+3. Les crédits se rapportant aux montants pour conjoint de 5 718 $ pour 1999 et de 6 140 $ pour 2000 indiqués au paragraphe 16 de la réponse et aux annexes A et B ont été refusés à juste titre parce que les revenus de la conjointe de l'appelant dépassaient les montants de base pour chacune de ces années.
+4. Les bons crédits pour les cotisations d'assurance-emploi étaient de 994,50 $ pour 1999 et de 911,19 $ pour 2000, tel qu'il est indiqué aux annexes A et B de la réponse.
+5. Ce fait n'était pas indiqué dans l'avis d'appel ou dans la réponse, mais l'appelant a gagné des revenus de location nets de 447,21 $ pour 1999 et de 398,18 $ pour 2000 parce qu'il a loué à Rockhouse Indoor Climbing Centre Ltd. ( « Rockhouse » ) une partie de sa maison située à Mission (Colombie-Britannique).
+6. L'appelant a établi que :
+(i) Rockhouse était une filiale à cent pour cent de SCM Industries Ltd., dont l'appelant détenait 33 1/3 % des actions, une deuxième personne détenait 33 1/3 % des actions et une troisième personne détenait 33 1/3 % des actions;
+(ii) en 1999 et en 2000, Rockhouse exploitait un centre d'escalade intérieure à Richmond (Colombie-Britannique);
+(iii) pendant les années en question, l'appelant fournissait des services de consultation à Rockhouse et, dans une moindre mesure, il fournissait aussi à Rockhouse d'autres services, comme des services bancaires, des marges de crédit et des services liés à la négociation d'emprunts avec la Banque de développement du Canada, à des questions se rapportant à la TPS et à l'indemnisation des accidentés du travail, aux exigences en matière de permis, au marketing et à des propositions d'affaires;
+(iv) l'appelant consacrait de 20 à 35 heures par semaine à Rockhouse;
+(v) pendant les années en cause, l'appelant travaillait de 60 à 70 heures par semaine pour une société de la Nouvelle-Écosse faisant affaire sous le nom de Petsmart. L'appelant dit que c'est à cause de sa charge de travail extrêmement lourde qu'il n'a pas pu prendre le temps nécessaire pour bien trouver et fournir les documents et les reçus requis pour prouver les dépenses qu'il a déduites.
+7. Les parties conviennent que la question à débattre porte sur les dépenses que l'appelant veut déduire relativement aux services de consultation qu'il a fournis à Rockhouse.
+[5] On propose d'aborder les diverses dépenses sous les rubriques fournies par les parties.
+Déplacements
+Le témoignage non contesté de l'appelant est que la distance aller-retour à franchir entre le bureau situé à Mission et le centre d'escalade de Rockhouse situé à Richmond était de 120 kilomètres. L'appelant a d'abord dit que la distance à franchir était de 240 kilomètres, mais après que le représentant de l'appelant a donné des précisions, l'appelant a convenu que l'aller-retour était réellement de 120 kilomètres. En fonction de ses déplacements du bureau de Mission au centre d'escalade de Richmond, qu'il faisait de trois à quatre fois par semaine, plus les déplacements faits pour effectuer des opérations bancaires et du marketing, pour conduire l'un des actionnaires de temps à autre et pour se rendre à Squamish (Colombie-Britannique) pour essayer d'établir un centre d'escalade extérieure, le tout ayant été fait avec sa camionnette Mazda, l'appelant allègue qu'il a parcouru 24 960 kilomètres en 1999 et 18 987 kilomètres en 2000, ce qui, à raison de 0,37 $ le kilomètre, lui permettait de demander une déduction pour frais de déplacement de 9 235,20 $ pour 1999 et de 7 025,19 $ pour 2000. Étant donné que l'appelant n'a pas pu produire de reçus, de preuves, de registre des déplacements ou toute autre preuve satisfaisante pour confirmer les distances qu'il a réellement franchies dans le cadre de son travail, le ministre du Revenu national (le « ministre » ) n'a permis aucune déduction pour chacune des deux années.
+[6] À mon avis, l'appelant doit avoir fait certains déplacements, compte tenu de la description de son travail et, même s'il a gravement manqué à son devoir de fournir la documentation nécessaire, je suis d'avis qu'il est raisonnable de permettre une estimation raisonnable, qui, selon moi, serait de 20 % des montants demandés; 20 % de 9 235,20 $ donnent 1 847,04 $ pour 1999 et 20 % de 7 025,19 $ donnent 1 405,04 $ pour 2000.
+Téléphone
+Voici les dépenses à l'égard desquelles l'appelant a demandé des déductions relativement au téléphone :
+1999
+cellulaire
+674,57 $
+téléphone résidentiel
+1 966,38 $
+2000
+cellulaire
+1 369,01 $
+téléphone résidentiel
+1 535,24 $
+Le ministre a permis des déductions totalisant 486 $ pour 1999 et 511 $ pour 2000. Il explique pourquoi il permet des déductions moins élevées dans la pièce R-2, et des précisions supplémentaires sur cette question ont été fournies dans le témoignage verbal de Janice Wandler, agente des appels de l'Agence du revenu du Canada ( « ARC » ). Selon moi et compte tenu des circonstances, les montants que le ministre a permis sont raisonnables. Encore une fois, l'appelant n'a pas pu établir de façon précise les montants exacts de l'utilisation des téléphones à des fins professionnelles.
+Repas et représentation
+Le montant des déductions initialement demandées par l'appelant était de 705,88 $ pour 1999 et de 310,85 $ pour 2000. Le ministre n'a permis aucune déduction pour les repas et les frais de représentation étant donné que les preuves des dépenses n'étaient pas du tout satisfaisantes. Certains des frais déclarés comme étant des frais de représentation se rapportaient clairement à des repas qui ne sont pas du tout liés à des fins professionnelles, et, à mon avis, il était raisonnable pour le ministre de ne permettre aucune déduction pour les deux années.
+Frais de bureau
+L'appelant a demandé une déduction de 1 112,52 $ pour 1999, et le ministre n'a permis aucune déduction. Pour 2000, l'appelant a demandé une déduction de 705,47 $ à titre de frais de bureau et, selon les reçus présentés, le ministre a permis une déduction de 70 $, plus 66 $ à titre de déduction pour amortissement. Selon moi, à cause du manque de pièces justificatives, les montants établis par le ministre relativement aux frais de bureau pour les besoins des cotisations sont raisonnables dans les circonstances.
+Fournitures
+L'appelant a demandé une déduction de 1 613,75 $ pour 1999 et le ministre n'a permis aucune déduction. Pour 2000, aucune déduction n'a été demandée, et aucune déduction n'a été permise. Encore une fois, je pense que les montants établis par le ministre pour les besoins des cotisations sont raisonnables.
+Autres dépenses
+L'appelant a demandé une déduction de 361,85 $ pour 1999 et de 123,84 $ pour 2000 et, toujours en raison du manque de pièces justificatives, j'estime que la décision du ministre de ne permettre aucune déduction est raisonnable compte tenu des circonstances.
+Frais d'exploitation
+Le ministre n'a permis la déduction d'aucuns frais d'exploitation, étant donné que les frais n'ont pas été prouvés ou que, dans certains cas, les frais se rapportaient à des dépenses personnelles. Je suis d'avis qu'il est raisonnable pour le ministre de ne permettre aucune déduction compte tenu des circonstances.
+Conclusion
+[7] En conclusion, les appels des nouvelles cotisations établies en vertu de la Loi de l'impôt sur le revenu pour les années d'imposition 1999 et 2000 sont accueillis, et les nouvelles cotisations sont déférées au ministre du Revenu national pour qu'il procède à un nouvel examen et établisse de nouvelles cotisations parce que :
+(1) l'appelant a droit à des déductions :
+(i) pour des frais de déplacement s'élevant à 1 847,04 $ pour 1999 et à 1 405,04 $ pour 2000;
+(ii) pour des frais de téléphone s'élevant à 486 $ pour 1999 et à 511 $ pour 2000;
+(iii) pour des frais et des fournitures de bureau s'élevant à 70 $ plus 66 $ à titre de déduction pour amortissement (total de 136 $) pour 2000;
+(2) les revenus de l'appelant sont augmentés vu que les revenus de location nets de 447,21 $ pour 1999 et de 398,18 $ pour 2000 y sont ajoutés;
+(3) les pénalités pour production tardive imposées par le ministre ont été imposées à juste titre en vertu de l'article 162 de la Loi de l'impôt sur le revenu, le tout selon les présents motifs du jugement.
+Signé à Ottawa, Canada, ce 23e jour de novembre 2004.
+« T. O'Connor »
+Juge O'Connor
+Traduction certifiée conforme
+ce 8e jour de février 2006.
+Mario Lagacé, réviseur
+RÉFÉRENCE :
+2004CCI737
+NO DU DOSSIER :
+2003-3024(IT)I
+INTITULÉ DE LA CAUSE :
+David J. Harris c. S.M.R.
+LIEU DE L'AUDIENCE :
+Vancouver (Colombie-Britannique)
+DATE DE L'AUDIENCE :
+Le 25 octobre 2004
+MOTIFS DU JUGEMENT PAR :
+L'honorable juge T. O'Connor
+DATE DU JUGEMENT :
+Le 23 novembre 2004
+COMPARUTIONS :
+Pour l'appelant :
+Ron Ilner
+Avocate de l'intimée :
+Me Nadine Taylor Pickering
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelant :
+Nom :
+Cabinet :
+Pour l'intimée :
+Me Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

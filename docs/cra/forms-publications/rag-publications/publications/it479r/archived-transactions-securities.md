@@ -1,0 +1,164 @@
+---
+title: "ARCHIVED - Transactions in securities"
+source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it479r/archived-transactions-securities.html
+last_modified: 2017-11-07
+---
+# ARCHIVED - Transactions in securities
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+[What the "Archived Content" notice means for interpretation bulletins](https://www.canada.ca/en/revenue-agency/services/forms-publications/what-archived-content-notice-means-interpretation-bulletins.html)
+
+NO: **IT-479R**
+
+DATE: February 29, 1984
+
+SUBJECT: INCOME TAX ACT**Transactions in securities**
+
+REFERENCE: Section 39 (also sections 9 and 49 and section 6200 of the Regulations)
+
+INTERPRETATION BULLETIN
+
+(NOTE: THE CROSS-REFERENCE TO IT114 IS CANCELLED BY ITD4 #(3) )
+
+This bulletin replaces and cancels Interpretation Bulletin IT-479 dated June 22, 1981. Current revisions are designated by vertical lines.
+
+1. A gain or loss from the disposition of shares or a debt obligation such as a bond, debenture, bill, note or hypothec will be taxed as either an income gain or loss or as a capital gain or loss. In this bulletin transactions of the former type will be referred to as being on "income account" and transactions of the latter type as being on "capital account".
+
+GUARANTEED CAPITAL GAINS
+
+2. Where a taxpayer has disposed of a Canadian security (see 6 below) in a taxation year, subsection 39(4) provides that the taxpayer may elect in the return of income for that year that
+
+(a) every Canadian security owned by the taxpayer in that year or any subsequent year is deemed to be capital property owned in those years, and
+
+(b) every disposition of every Canadian security owned by the taxpayer in that and any subsequent year is deemed to be a disposition of a capital property.
+
+The effect of such an election is that all Canadian security dispositions in the year of election and all subsequent years, subject to the comments in 3 and 4 below, must be given capital gain or loss treatment and the election cannot be rescinded.
+
+A special election form (T123) is available for use by the taxpayer when making an election under subsection 39(4).
+
+3. Pursuant to subsection 39(5), the election under subsection 39(4) does not apply to a disposition of a Canadian security by a taxpayer who, at the time the security is disposed of, is
+
+(a) a trader or dealer in securities,
+
+(b) a bank to which the Bank Act or the Quebec Savings Bank Act applies,
+
+(c) a corporation licensed or otherwise authorized under the laws of Canada or a province to carry on in Canada the business of offering to the public its services as trustee,
+
+(d) a credit union within the meaning assigned by subsection 137(6),
+
+(e) a non-resident, or, after November 12, 1981
+
+(f) an insurance corporation,
+
+(g) a corporation whose principal business is the lending of money or the purchasing of debt obligations or a combination thereof, or any combination thereof.
+
+4. An election that has been made under subsection 39(4) does not apply to any securities disposed of during the time that subsection 39(5) applies to a taxpayer. During the time the election does not apply, the comments from 9 to 22 below are applicable in ascertaining whether a gain or loss is on income or capital account. If subsection 39(5) ceases to apply, a previous election under subsection 39(4) becomes reapplicable after that time.
+
+5. For the purposes of subsection 39(5) the Department interprets the term "trader or dealer in securities" to mean a taxpayer who participates in the promotion or underwriting of a particular issue of shares, bonds or other securities or a taxpayer who holds himself out to the public as a dealer in shares, bonds or other securities. The term is not considered to include an officer or employee of a firm or corporation that is engaged in the promotion or underwriting of issues of shares, bonds or other securities nor an officer or employee of a taxpayer who holds himself out to the public as a dealer in shares, bonds or other securities, unless that officer or employee transacts in securities as a result of the promoting or underwriting activities of this employer. Any person who, as a result of special knowledge of a particular corporation not available to the public, utilizes that knowledge to realize a quick gain is considered by the Department to be a "trader or dealer in securities" for those particular securities. Any corporation whose prime business activity is trading in shares or debt obligations is also considered to be a "trader or dealer" in securities, but this does not include a corporation whose prime business is the holding of securities and which sells such investments from time to time.
+
+6. The election under subsection 39(4) is applicable only to "Canadian securities". This term is defined in subsection 39(6) as a security (other than a prescribed security) that is a share of the capital stock of a corporation resident in Canada, a unit of a mutual fund trust (applicable to 1979 and subsequent taxation years) or a bond, debenture, bill, note, mortgage, hypothec or a similar obligation issued by a person resident in Canada. A Canadian security includes such a security that is sold short. The term "a prescribed security" is defined by section 6200 of the Regulations.
+
+7. When determining the principal business of a corporation for purposes of 3(f) above, the comments in 5, 7 and 8 of IT-371 have relevance.
+
+8. Where a taxpayer has not elected under subsection 39(4) or does not qualify for the election, the taxpayer must determine whether the transaction in securities is on income account or capital account. The determination of whether a gain or loss is on income account or capital account is discussed in 9 to 22 below.
+
+DISPOSITION OF SECURITIES - INCOME OR CAPITAL
+
+9. Some security transactions are clearly on income account and these types of transactions are discussed in 15 to 21 below. For other security transactions it will be necessary to examine the facts of the specific case in order to determine whether a transaction is on income or capital account. The tests that the Courts have applied in making such a determination are those of "course of conduct" and "intention" and these tests are discussed in 10 to 13 below. The factors to be considered when determining whether the gain or loss on the disposition of a bond, debenture, bill, note, mortgage, hypothec or similar obligation (debt obligation) is on income account or capital account are set out in IT-114, "Discounts, Premiums and Bonuses on Debt Obligations".
+
+10. Where the whole course of conduct indicates that
+
+(a) in security transactions the taxpayer is disposing of securities in a way capable of producing gains and with that object in view, and
+
+(b) the transactions are of the same kind and carried on in the same way as those of a trader or dealer in securities. the proceeds of sale will normally be considered to be income from a business and, therefore, on income account.
+
+11. Some of the factors to be considered in ascertaining whether the taxpayer's course of conduct indicates the carrying on of a business are as follows:
+
+(a) frequency of transactions - a history of extensive buying and selling of securities or of a quick turnover of properties,
+
+(b) period of ownership - securities are usually owned only for a short period of time,
+
+(c) knowledge of securities markets - the taxpayer has some knowledge of or experience in the securities markets,
+
+(d) security transactions form a part of a taxpayer's ordinary business,
+
+(e) time spent - a substantial part of the taxpayer's time is spent studying the securities markets and investigating potential purchases,
+
+(f) financing - security purchases are financed primarily on margin or by some other form of debt,
+
+(g) advertising - the taxpayer has advertised or otherwise made it known that he is willing to purchase securities, and
+
+(h) in the case of shares, their nature - normally speculative in nature or of a non-dividend type.
+
+12. Although none of the individual factors in 11 above may be sufficient to characterize the activities of a taxpayer as a business, the combination of a number of those factors may well be sufficient for that purpose. Further, subsection 248(1) defines the term "business" to include "an adventure or concern in the nature of trade" and the courts have held that "an adventure or concern in the nature of trade" can include an isolated transaction in shares where the "course of conduct" and "intention" clearly indicate it to be such.
+
+13. A taxpayer's intention to sell at a gain is not sufficient, by itself, to establish that the taxpayer was involved in an adventure or concern in the nature of trade. That intention is almost invariably present even when a true investment has been acquired if circumstances should arise that would make it financially more beneficial to sell the investment than to continue to hold it. Where, however, one or other of the above tests clearly suggests an adventure or concern in the nature of trade and, in addition, it can be established or inferred that the taxpayer's intention was to sell the property at the first suitable opportunity, intention will be viewed as corroborative evidence. On the other hand, inability to establish an intention to sell does not preclude a transaction from being regarded as an adventure or concern in the nature of trade if it can otherwise be so regarded pursuant to one or more of the above tests.
+
+14. The determination of whether security transactions made by financial institutions, such as those listed in 3(b) to (f) above is on income account or capital account is dependent on the nature of the account from which the transaction emanates and the facts of the case.
+
+15. All gains or losses of a taxpayer that relate to a participation in the promotion or underwriting of a particular issue of a security are on income account. Similarly, gains or losses made or incurred by an officer or employee of a firm or corporation that is engaged in the promotion or underwriting of securities are on income account if they result from the acquisition of securities promoted or underwritten by his employer. With regard to any other taxpayer who holds himself out to the public as a dealer in securities, there is a presumption that all gains or losses on security transactions are part of the normal operations of such a business and thus are on income account. Further, the gains and losses made by a corporation whose prime activity is trading in securities will be considered to be on income account, notwithstanding that the corporation does not hold itself out to the public as a trader or dealer in securities.
+
+16. As indicated in IT-114, any gain or loss arising from the acquisition and disposition of a debt obligation is on income account where the acquisition of debt obligations, either for the purpose of resale or for holding to maturity, constitutes part or all of the taxpayer's business. Such would be the case where the taxpayer was clearly a money lender or a trader or dealer in debt obligations. In addition, where a taxpayer was an "original lender", as described in 6 and 7 of IT-114, any gain or loss on a loan negotiated by the taxpayer is generally viewed as being on income account.
+
+17. The presumption that gains from security transactions are on income account will also be taken by the Department in any situation where it is apparent that the taxpayer has used special information not available to the public to realize a quick profit.
+
+18. The gain or loss on the "short sale" of shares is considered to be on income account.
+
+19. When the disposition of shares in a corporation is merely an alternative method of realizing income from the sale of a property held by the corporation (e.g. real estate), the gains from the sale of those shares will be included in income as if the property itself had been sold.
+
+20. Section 66.3 deems shares of capital stock acquired under the circumstances described in subparagraph 66.1(6)(a)(v) or 66.2(5)(a)(v) not to be capital property of a taxpayer but to be inventory acquired at a cost to the taxpayer of nil. As a result, the gain or loss on the disposition of such shares will be on income account.
+
+21. Although a taxpayer may be classed as an "investor" or has elected under subsection 39(4) with the result that gains or losses on the disposition of debt obligations are normally to be viewed as capital gains or capital losses, there are certain provisions in the Act, as described below, which require that the amount of any gain must be reported as income or, in the case of (f) below, may be so reported at the taxpayer's option:
+
+(a) Where a debt obligation does not provide for the payment of interest, or where the rate of interest that is specified in the obligation is substantially below the market rate at the date of issue, any realization of the discount on the repayment of all or part of such a debt obligation may be classed as interest and as such is included in income under paragraph 12(1)(c) (for further comments on this situation, see 3 and 4 of IT-114).
+
+(b) On the transfer of a debt obligation, any amount received by the transferor that may properly be viewed as representing accrued interest must be included in the taxpayer's income, as required by subsection 20(14).
+
+(c) A portion of any payment received on a debt obligation that was taken as consideration for property previously sold by the holder of the obligation may be required to be included in income in accordance with the rule relating to blended payments in sub- section 16(1) (further comments on this subject appear in 11 to 13 of IT-265R).
+
+(d) The value of a debt obligation that is taken in satisfaction of an income debt may be required to be included in income in accordance with the rules in section 76 (see (IT-77R). (However any subsequent gain or loss on the disposition of the debt obligation is to be treated in the normal manner, i.e. whether the gain or loss is on account of income or on account of capital is a question of fact dependent upon the circumstances of the case.)
+
+(e) Subsections 16(2) and 16(3) provide special rules for an obligation that is a bond, debenture, bill, note, mortgage, hypothec or similar obligation issued by a person exempt from tax under section 149 or a non-resident person not carrying on a business in Canada or a government, municipality or other public body performing a function of government. In certain circumstances, a discount on these obligations is included in income of the first owner of the obligation who is resident of Canada. The comments in 17 and 18 of IT-114 are relevant to these situations.
+
+(f) In accordance with section 12.1, a "cash bonus" on a Canada Savings Bond which may be reported as a capital gain may, if the taxpayer so chooses, be reported as interest income.
+
+22. Where the taxpayer who acquires a debit obligation is the person who issued the obligation, the provisions of paragraph 20(1)(f) and subsection 39(3) are applicable as explained in 21 and 22 of IT-114.
+
+23. A share option is not a Canadian security within the definition in subsection 39(6). As a result, share option transactions cannot qualify for the guaranteed capital gains election (see 2 above). The comments in 24 to 32 below provide the Department's views in connection with the tax treatment of share option transactions. A reference in this part of the bulletin to "holder" of an option refers to the person who acquires the option and a reference to "writer" refers to the person who grants the option. If the writer owns the underlying shares at the time the writer grants the option, the option is known as a "covered" option, but if the writer does not own the shares at that time, the option is known as a "naked" option.
+
+24. Gains and losses on share option transactions by taxpayers described in 15 and 17 above are considered to be on income account. The comments in 14 above are considered to apply to share option transactions of financial institutions, such as banks, trust companies, credit unions, life insurance corporations and other similar corporations.
+
+25. For taxpayers, other than those described in 24 above, it is a question of fact whether the gains or losses on share option transactions are on income account or capital account. However, the Department generally presumes that
+
+(a) the gain or loss realized by a holder of options is on the same account as the holder's transactions in shares;
+
+(b) the gain or loss realized by a writer of covered options is on the same account as the underlying shares; and
+
+(c) the gain or loss realized by a writer of naked options is normally on income account. However, the Department will accept reporting of gains and losses on capital account provided this practice is followed consistently from year to year.
+
+The presumption indicated above may not apply in those unusual situations where the facts clearly indicate otherwise. This could be the case, for example, where a holder of options usually transacts in shares on income account, but holds a group of shares for investment purposes which are properly reported on capital account. In this situation, option transactions with respect to the former group should be reported on income account and the latter group on capital account.
+
+26. The comments in 28 and 29 below discuss the timing of the reporting of gains and losses on exchange-traded call options while the comments in 31 and 32 below discuss the timing of the reporting of gains and losses on exchange-traded put options. These comments are also relevant for put and call options that are similar to those transacted on an Exchange but which are entered into outside an Exchange. Put and call options are contracts in bearer form which grant the holder the right to sell (in the case of a put) or buy (in the case of a call) a specified number of shares at a given price at or before a specified time for an agreed premium.
+
+27. Under arrangements made by certain Stock Exchanges, both in Canada and outside Canada, an Exchange may provide a market for call options in shares. The holder of the option becomes entitled, if the holder so chooses, to purchase from a clearing corporation established by an Exchange the number of units of the underlying security specified in the option at a stated exercise price at any time prior to the expiry date of the option. The writer through his broker is committed to deliver to the clearing corporation the underlying security specified in the option if the option is exercised by the holder. As consideration for the commitment by the writer, the holder of the option pays to the writer an amount known as a "premium", which amount is determined by auction on the floor of the Exchange. Where a secondary market in options is maintained by an Exchange, either a holder or a writer of an option may close out his position prior to the expiry date of the option. The holder of an option may, in effect, sell the option in the secondary market and receive the amount of premium currently applicable to that option. The writer of an option ordinarily may terminate the obligation under the option by acquiring in the secondary market an option having the same attributes as the option previously written. This transaction, involving the payment of the applicable premium, has the effect of cancelling the writer's pre- existing obligation.
+
+28. Where the holder treats gains and losses on call options as being on income account and the option is exercised, the amount of the premium and brokerage fees incurred at the time the option is obtained is added to the cost of the shares acquired. If the option is not exercised, the cost of acquiring the option should be deducted in the taxation year in which the option expires. If the option is closed out in the secondary market, the premium received (or receivable) is included in income, and the cost of acquiring the option is written off, in the taxation year in which the option is closed out. Where the holder of a call option treats gains and losses as being on capital account, the rules in section 49 of the Act are applicable. The cost of acquiring the option is added to the cost of the shares if the option is exercised. If the option is not exercised, clause 54(c)(ii)(D) applies and the cost of acquiring the option becomes a capital loss in the taxation year in which the option expires. If the holder closes out the option on the secondary market, the net gain or loss on the acquisition and disposition of the option is a capital gain or capital loss in the taxation year in which the option is closed out.
+
+29. Where the writer treats gains or losses on call options as being on income account and the option is exercised, the premium received should be brought into income when the option is exercised. If the option is not exercised, the premium should be brought into income when the option expires. If the option is closed out in the secondary market, the premium should be netted with the cost of acquiring the offsetting option and the resulting gain or loss accounted for at the time of the close out. Where the writer for a call option treats gains and losses as being on capital account, the rules in section 49 of the act apply at the time of the granting of the option. Since subsection 49(1) deems that the writer has disposed of a property whose adjusted cost base is nil, the writer would normally have a gain equal to the amount by which the proceeds of the option exceed any costs of disposition. If an offsetting option is acquired on the secondary market, the cost of that acquisition would be a loss at that time. Where the option is exercised, subsection 49(3) would apply only if the writer is also reporting gains and losses from the shares on capital account, in which case the effects of subsection 49(1) is nullified and the proceeds from the option is instead added tot he proceeds from the shares in computing the writer's proceeds of disposition from the shares.
+
+30. In the same way as it does for call options as explained in 27 above, an exchange may provide a market for put options in shares. The holder of the option becomes entitled, if the holder so chooses, to sell through a clearing corporation the number of units of the specified security at a stated exercise price at any time prior to the expiry date of the option. The writer of the put option is committed to purchase from the clearing corporation the underlying security specified in the option if the option is exercised by the holder. The remaining comments in the last four sentences of 27 are also applicable to put options as well as call options.
+
+31. Where the holder treats gains and losses on put options as being on income account and the option is exercised, the amount of the premium and brokerage fees incurred at the time the option is obtained is deducted from the proceeds of disposition of the shares in respect of which the option was exercised. If the option is not exercised, the cost of acquiring the option should be deducted from income in the taxation year in which the option expires. If the option is closed out on the secondary market, the premium received (or receivable) is included in income and the cost of the option is written off in the taxation year in which the option is closed out. Where the holder of a put option treats gains and losses as being on capital account, the rules in section 49 apply. The cost of acquiring the option is deducted from the proceeds of the sale of the shares if the option is exercised. If the option is not exercised, clause 54(c)(ii)(D) applies and the cost of the option becomes a capital loss in the taxation year in which the option expires. If the holder closes out the option on the secondary market, the net gain or loss on the acquisition and disposition is a capital gain or loss in the taxation year in which the option is closed out.
+
+32. Where the writer treats gains and losses on put options as being on income account and the option is exercised by the holder, the premium received for the option by the writer should be deducted from the cost of the shares the writer is required to purchase in determining their cost. If the option is not exercised, the premium should be brought into income when the option expires. If the option is closed out on the secondary market, the premium should be netted with the cost of acquiring the offsetting option and the resulting gain or loss accounted for at the time of the close out. Where the writer of a put option treats gains and losses as being on capital account, the rules in section 49 apply. Since subsection 49(1) deems that the writer has disposed of a property the adjusted cost base of which is nil, the writer would normally have a gain equal to the amount by which the proceeds of the option exceed any costs of disposition. If an offsetting option is acquired on the secondary market, the cost of that acquisition would be a loss at that time. Where the option is exercised by the holder, subsection 49(3) would apply to the writer only if the writer is also reporting gains or losses from the shares on capital account, in which case the effects of subsection 49(1) are nullified and the proceeds from the option is instead deducted in computing the cost of the shares acquired as a result of the option being exercised.
+
+TRANSACTIONS IN MORE THAN ONE KIND OF SECURITY
+
+33. It is recognized that occasionally a taxpayer, other than one who has elected under subsection 39(4), may acquire certain securities as an investment and may acquire other like securities that should be accorded income treatment. An example of such a situation would be a taxpayer who has special knowledge not available to the public on some share transactions but transacts in others with no special knowledge. Consequently, a taxpayer may, in the same taxation year or in different taxation years, properly report some gains or losses from transactions in securities as being on income account and other gains or losses as being on capital account. Normally, however, such situations would be rare and the initial presumption will be that gains or losses made or incurred by a particular taxpayer or transactions in securities, having regard to the taxpayer's circumstances, are either all of a capital nature or are all of an income nature, as the case may be, and evidence will be required in support of any contrary reporting of such gains or losses. It is recognized also that a taxpayer may acquire debt obligations in circumstances that qualify them as an investment and may acquire shares in the capacity of a trader or dealer, or the converse may be the situation. Similarly, a taxpayer, having regard to the comments in IT-346R, may be able to report gains and losses on transactions in commodities or commodity futures as being of an income nature and gains or losses on transactions in securities as being of a capital nature or vice versa.

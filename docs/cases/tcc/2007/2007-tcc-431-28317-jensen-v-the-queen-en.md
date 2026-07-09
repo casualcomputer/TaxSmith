@@ -1,0 +1,252 @@
+---
+title: "Jensen v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28317/index.do"
+last_modified: "2007-12-07"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 TCC 431"
+citation2: ""
+neutral_citation: "2007 TCC 431"
+decision_date: "2007-12-07"
+language: "en"
+item_id: "28317"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1836
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T22:29:10.036000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "def6a532e3193e6976d0ae61bec3110e85330928a9ea32b2daed5abf2184864a"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Jensen v. The Queen
+
+- Citation: 2007 TCC 431
+- Decision date: 2007-12-07
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1836, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Jensen v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-12-07
+Neutral citation
+2007 TCC 431
+File numbers
+2006-2703(IT)I
+Judges and Taxing Officers
+Cameron Hugh McArthur
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2006-2703(IT)I
+BETWEEN:
+PHYLLIS JENSEN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on June 18, 2007, at Edmonton, Alberta
+By: The Honourable Justice C.H. McArthur
+Appearances:
+Counsel for the Appellant:
+David Skrypichayko
+Counsel for the Respondent:
+Carrie Mymko
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act for the 2001 taxation year is dismissed.
+The appeals from reassessments made under the Act for the 2002 and 2003 taxation years are allowed, in part, and the reassessments are referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that in computing income, the Appellant is entitled to deduct expenses for supplies in the total amounts of $11,940 in 2002 and $5,353 in 2003. Further the Appellant is entitled to deduct Visa charges of $530 in 2001, $922 in 2002 and $875 in the 2003 taxation year.
+Costs are awarded to the Respondent.
+Signed at Ottawa, Canada, this 7th day of December, 2007.
+“C.H. McArthur”
+McArthur J.
+Citation:2007TCC431
+Date: 20071207
+Docket: 2006-2703(IT)I
+BETWEEN:
+PHYLLIS JENSEN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+McArthur J.
+[1] These are appeals from reassessments by the Minister of National Revenue for the Appellant’s 2001, 2002 and 2003 taxation years. The issue is whether the Appellant is entitled to deduct certain business expenses in calculating her taxable income for each year and whether she understated income from her business by $19,250 in 2001, $34,947.04 in 2002 and $23,168.46 in 2003.
+[2] The Appellant is an impressive retired elementary school teacher. In her retirement, she has built a successful business programming curriculums that are well received by elementary school teachers and beneficial for their young students. She taught in several Alberta schools for 35 years retiring in 2004. She remained involved in the education of children developing and marketing curriculum material throughout Alberta, and on occasion, elsewhere in Canada. She started her business, Rodeo Chaps, in 1991 on a part-time basis until her retirement when it became a fulltime occupation for her.
+[3] Her husband, Ron Mann, got involved in the management of the business from 1999 onward. He is a retired engineer with business experience, but has no formal training in accounting. He rejected the work of professional accountants in favour of doing it himself, in what he feels is the common sense way.
+[4] In 2004, the Minister audited the Appellant and her husband which led to reassessments for both of them. Upon his request, Mr. Mann’s appeal was heard separately immediately following the Appellant’s. Obviously, there was considerable common evidence.
+[5] The matters in question include the following:
+(a) Whether Ms. Jensen understated her income from business by $19,250 for 2001, $39,947.04 for 2002 and $23,168.46 for 2003;
+(b) Whether Ms. Jensen is entitled to a deduction for expenses in excess of the amount allowed for:
+(i) meals and entertainment for 2002;
+(ii) office and supplies for 2002;
+(iii) subcontracts/manager contract for 2003;
+(iv) supplies for 2003;
+(v) advertising and promotion/travel for 2003;
+(vi) business tax, fees, etcetera for 2002 and 2003;
+(vii) motor vehicle for 2002 and 2003; and
+(viii) work space in home for 2001, 2002 and 2003.
+Analysis
+[6] The primary question is whether the Appellant understated her income from business by $19,250 for 2001, $39,947.04 for 2002 and $23,168.46 for 2003.
+[7] The Appellant and her husband both testified and they were represented by counsel. The Appellant was involved with the making and marketing of the elementary school curriculum material. Mr. Mann had a more administrative and consulting role in his wife’s business.
+[8] The proceeds of curriculum Visa sales were deposited directly into a bank account in Ron Mann’s name alone. This is where the most serious problem arises. Proceeds from sales using other payment options were deposited in a different bank account held under the Appellant’s name. The sales revenues deposited in Mr. Mann’s account were not reported by the Appellant in her synoptic journal but they were expensed as wages or management fees for Mr. Mann’s services. Mr. Mann included those revenues in his personal income. He felt this was the simplest way to get paid for his services. There was no intention on their part to evade income tax. It appeared to them to be a simple method for paying Mr. Mann for his services.
+[9] To accurately report the transactions, the Appellant should have included the Visa sales in her revenues and then expensed amounts paid to Mr. Mann as wages or management fees for his services. By not reporting Visa sales and taking an expense for payments made to Mr. Mann, the Appellant inadvertently underreported income. I have no doubt that the Appellant is honest, but it is obvious that her income was not properly reported.
+[10] Both the Appellant and Mr. Mann testified that, in their opinions, Visa revenues were reported in Ms. Jensen’s synoptical journal, without being able to actually prove it. I believe they are confused in this regard. Some revenues were not reported during the years in issue but have been subsequently. Her revenues were understated for the 2001, 2002 and 2003 taxation years as follows:
+2001
+2002
+2003
+Sales as reported by the Appellant
+$93,283.38
+$95,831.94
+$80,422.35
+Unreported revenue (Visa sales)
+$19,780.00
+$35,431.00
+$27,608.00
+GST correction
+-
+$6,708.24
+-
+Subtotal
+$113,063.38
+$137,971.18
+$108,030.35
+Visa handling fees
+-$530.00
+$-922.00
+-$875.00
+Other income adj.[1]
+-
+$6,270.20
+$3,564.54
+Gross income
+$112,533.38
+$130,778.98
+$103,590.81
+Gross income as reported
+-$92,283.38
+-$95,831.94
+-$80,422.35
+Difference
+$19,250.00
+$39,947.04
+$23,168.46
+[11] Further, Visa handling fees and charges were not claimed by the Appellant. Those expenses are in the amounts of $530 for 2001, $922 for 2002 and $875 for 2003, and must be taken into account in reassessing the Appellant.
+[12] The Appellant over-deducted goods and services tax by an amount of $6,708.24 when she computed her gross business income for the 2002 taxation year. Evidence suggests that the Appellant was periodically reporting her revenues inclusive of GST in her synoptical journal and at the end of the year, GST would be deducted. The total sales revenues of the Appellant were calculated and reported as follows:
+Sales revenues reported in the synoptical journal
+$109,718.00
+GST included in sales revenues:
+($7,177.81)
+Sales revenues net of GST
+$102,540.19
+Duplicate deduction of GST
+($6,708.24)
+Sales revenues as reported
+$95,831.95
+[13] On the issue of underreported income, the Appellant did not present any relevant evidence to rebut the findings of the auditor. Again, this seems to be another accounting mistake and I do not believe that the Appellant intended to over-deduct goods and services tax.
+[14] I will now deal with whether the Appellant is entitled to deductions for expenses in excess of those allowed for 2001, 2002 and 2003.
+Meals and entertainment for 2002
+[15] Counsel for the Appellant, acknowledged that pursuant to subsection 67(1), the meals and entertainment expenses should be reduced by 50% from $428.46 to $214.23 for the 2002 taxation year.
+Office and supplies for 2002
+[16] The Appellant claimed a deduction in the amount of $15,446.44 for office and supplies expenses for the taxation year 2002. After review, the Minister allowed an amount of $7,448.82. I am prepared to give the Appellant the benefit of the doubt and allow her an $11,940 deduction, but I cannot grant her the full amount as originally claimed since some of the expenses are clearly personal or capital in nature. However, I am accepting part of her evidence and that of her husband in this regard.
+[17] Among personal expenses, the Appellant claimed for the food and care of nine dogs they owned at the time. According to Mr. Mann, their dogs were for security purposes, but the Respondent also submitted evidence that the Appellant’s home was already protected with an alarm. Perhaps, the dogs added to their home security, but nine dogs is clearly exaggerated.
+Sub-contracts/manager contract for 2003
+[18] For the 2003 taxation year, the Appellant claimed two separate deductions of $4,133.12 and $24,492.02, respectively for subcontracts and a manager contract, which represent a total expenditure of $28,625.14. Ms. Jensen erroneously deducted $28,425.14 when computing her income and, therefore, she is entitled to a deduction for the difference of $200.
+[19] An amount of $15,866.73 was claimed in 2003 as an expense for a manager contract but this was in fact a bonus already expensed in 2002, and paid in 2003. In other words, Ms. Jensen expensed a bonus in 2002 which was not paid to Mr. Mann until 2003, and then she expensed the same amount again but as a manager contract. The audit also revealed that an amount of $1,707.80 was erroneously considered as a GST return in relation to the manager contract adjusted. In retrospect, the amount allowed by the Minister as an expense for a manager contract in 2003 should be $10,533.09, as follows:
+Manager contract claimed
+$24,492.02
+Bonus expensed in 2002
+($15,866.73)
+Error in addition
+$200.00
+GST return erroneously deducted
+$1,707.80
+Sub-contracts and manager contract allowed
+$10,533.09
+Again, there was little or no evidence to rebut the Minister’s assumption.[2]
+Supplies for 2003
+[20] The Appellant claimed a deduction in the amount of $10,669.49 for supplies expenses for the 2003 taxation year. The auditor testified that some of these expenses were in fact not incurred or, if incurred, they were personal or capital expenditures in nature. The Minister allowed $2,860.12 for the 2003 taxation year. While the Appellant’s position was unclear and presented with generalities, I accept that there were additional legitimate expenses and increase the amount allowed to $5,353.20.
+Advertising and promotion/travel for 2003
+[21] With respect to advertising and promotion, the Appellant claimed an expense of $1,714.16 for the 2003 taxation year. During the same taxation year, the Appellant also claimed an amount of $2,658.63 for travel expenses. In computing her income, Ms. Jensen did not claim as a separate amount any expenses incurred for meals and entertainment, therefore it was completely expensed.
+[22] The auditor has shown that a total amount of $2,465.00 computed as advertising and promotion/travel was in fact a personal or living expense of the Appellant and, therefore, not deductible. Ms. Jensen confirmed on cross‑examination that she went to San Francisco, claimed the full amount as a business expense while approximately 70% of the expenditure was in fact personal. Such mistakes lead to scepticism.
+[23]I find that the Appellant should only be entitled to an expense of $1,867.79 for advertising and promotion/travel, as shown below, rather than the $4,372.79 claimed.
+Advertising and promotion expenses as claimed
+$1,714.16
+Travel expense as claimed
+$2,658.63
+Subtotal
+$4,372.79
+Meal and entertainment restriction ($80.45 x 50%)
+($40.00)
+Personal expense not allowed
+($2,465.00)
+Advertising and promotional/travel expenses allowed
+$1,867.79
+Business tax, fees, etc. for 2002 and 2003
+[24] In regard to amounts claimed for business tax, fees, etc., in the 2002 and 2003 taxation years, the Minister’s auditor found that some expenses were either personal or had already been taken as a motor vehicle expenditure. As for the 2003 taxation year, no evidence was presented to rebut the findings of the auditor and the reassessment in this regard is correct.
+Motor vehicle for 2002 and 2003
+[25] The evidence presented at trial shows that there was no logbook or documentation backing up the motor vehicle claims for the 2002 and 2003 taxation years. With respect to motor vehicle expenses, the Appellant’s claim was first rejected by the auditor, but the appeals officer allocated a business use representing 62% of the total use of the vehicle for 2002 and 2003. Ms. Jensen claims a business use representing 75% of the total use for 2002 and 65% for 2003.
+[26] I find that the amount allocated by the appeals officer was fair. The parties are not far apart. The Appellant proposes that 75% for 2002 or 65% for 2003 would be more appropriate than the amount of 62% allocated by the Minister for those years. Her testimony revealed that she was a fulltime teacher at the time, and travelled from her home close to Leduc to her school in Edmonton, approximately 24 kilometres of commuting every day. Commuting is a personal expense.
+Work space in home for 2001, 2002 and 2003
+[27] The Appellant’s exhibit and photographs explained by Mr. Mann in his testimony are certainly helpful keeping in mind they were taken about two years after the period in question. By the Appellant’s own admission, the space used by Rodeo Chaps has increased considerably over the years.
+[28] The Appellant first claimed 17% of her housing expenses as a business expenditure for 2001, 22% for 2002 and 23% for 2003. At the appeal stage, she increased her claims for 2002 and 2003 to an expenditure representing 47% of her housing expenses. Following review, the appeals officer allocated an amount representing 35% for 2002 and 2003.
+[29] I agree with the following comments of Archambault, J. in Lachance v. Canada:[3]
+In my opinion, merely carrying on a business in a private residence and using some of its rooms in the course of that business does not necessarily mean that all expenses relating to those rooms may be deducted. A number of factors must be taken into account, including the space occupied, its quality and the frequency of its use. Space located in a basement is not of the same quality as space on the ground floor. The use of that space for household purposes as well as the need for that space to provide a minimal degree of comfort for the occupants of that residence must also be considered.
+The evidence here, without doubt, indicates that some areas and rooms in the home clearly met the above criteria and, therefore, the Appellant should be entitled to consider part of her housing expenses as business expenditures accordingly. Her home contained in excess of 3,600 square feet of living space. The Appellant has not established that the 35% allowed by the Minister was inaccurate and that she should be entitled to more.
+Conclusion
+[30] For the most part, the Appellant’s problems boil down to accounting errors made in reflecting income and expenditures, the most significant one being with respect to the Visa sales described earlier. The Act does not provide any specific accounting method to be followed in order to calculate profit from a business, but over the years the Courts have set guidelines that must be followed. This does not mean that a taxpayer must follow the generally accepted accounting principle (“GAAP”) as stated by the Supreme Court of Canada in Canderel Ltd. v. R.[4], since these are not rules of law but interpretive aids. A taxpayer is free to adopt any accounting method which is not inconsistent with:
+(i) the provisions of the Act;
+(ii) established case law principles or rules of law; and
+(iii) well-accepted business principles.
+One must keep in mind that the main object remains to have an accounting method that presents an accurate picture of a taxpayer’s profit for a given year and the Appellant did not achieve that.
+[31] In her Notice of Appeal and final argument, the Appellant in essence, asked for fairness and equity. The Tax Court of Canada is not a court of equity. This is far from saying that we cannot be fair. I do not pretend to be an auditor or an accountant and some of my conclusions may appear to be rough and ready. They are based on what I believe is commercial common sense and fairness from the sketchy evidence provided.
+[32] Accordingly, the appeals for 2001, 2002 and 2003 are allowed in part, with costs to the Respondent. The reassessments are referred back to the Minister for reconsideration and reassessment on the basis that the Appellant is entitled to deduct an amount of $11,940 for supplies in 2002 and $5,353 for supplies in 2003. In addition as stated in paragraph 11, the Appellant is entitled to deduct Visa charges of $530 in 2001, $922 in 2002 and $875 in 2003.
+Signed at Ottawa, Canada, this 7th day of December, 2007.
+“C.H. McArthur”
+McArthur J.
+CITATION: 2007TCC431
+COURT FILE NO.: 2006-2703(IT)I
+STYLE OF CAUSE: PHYLLIS JENSEN and
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: Edmonton, Alberta
+DATE OF HEARING: June 18, 2007
+REASONS FOR JUDGMENT BY: The Honourable Justice C.H. McArthur
+DATE OF JUDGMENT: December 7, 2007
+APPEARANCES:
+Counsel for the Appellant:
+David Skrypichayko
+Counsel for the Respondent:
+Carrie Mymko
+COUNSEL OF RECORD:
+For the Appellant:
+Name: David Skrypichayko
+Firm: Skrypichayko LLP
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Revenues computed by the Appellant in her business income and removed by the Minister since these could not be traced or explained.
+[2] The Minister’s assumptions of fact, paragraph 19(2) states “the amount of $15,866.73 claimed as manager contract in 2003 was in respect of a 2002 bonus that was claimed and allowed as an expense in the 2002 taxation year.”
+[3] 2001 DTC 655.
+[4] [1998] 1 S.C.R. 147.

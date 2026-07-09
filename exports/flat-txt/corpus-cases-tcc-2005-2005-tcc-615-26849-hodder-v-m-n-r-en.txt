@@ -1,0 +1,129 @@
+Title: Hodder v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26849/index.do
+Corpus path: corpus/cases/tcc/2005/2005-tcc-615-26849-hodder-v-m-n-r-en.md
+Document type: case_law
+Last modified: 2005-09-16
+
+# Hodder v. M.N.R.
+
+- Citation: 2005 TCC 615
+- Decision date: 2005-09-16
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 655, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Hodder v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-09-16
+Neutral citation
+2005 TCC 615
+File numbers
+2003-3800(EI)
+Judges and Taxing Officers
+Judith Woods
+Subjects
+Employment Insurance Act
+Decision Content
+Dockets: 2003-3800(EI)
+and 2003-3798(EI)
+BETWEEN:
+WILLIAM L. HODDER,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent;
+- and -
+BETWEEN:
+JOANNE M. HODDER,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+Appeals heard together on common evidence on August 3, 2005 at Grande Prairie, Alberta.
+By: The Honourable Justice Judith Woods
+Appearances:
+Counsel for the Appellants:
+Bruce Logan
+Counsel for the Respondent:
+Elena Sacluti
+JUDGMENT
+The appeals under the Employment Insurance Act are dismissed, and the decisions of the Minister of National Revenue that William Hodder and Joanne Hodder were not engaged in insurable employment are confirmed.
+Signed at Ottawa, Canada, this 16th day of September, 2005.
+"J. Woods"
+Woods J.
+Citation: 2005TCC615
+Date: 20050916
+Dockets: 2003-3800(EI)
+and 2003-3798(EI)
+BETWEEN:
+WILLIAM L. HODDER,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent;
+- and -
+BETWEEN:
+JOANNE M. HODDER,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGMENT
+Woods J.
+[1] The appellants, Joanne and William Hodder, have appealed decisions of the Minister of National Revenue that their employment was not insurable for purposes of the Employment Insurance Act, S.C. 1996, c. 23, as amended. The appeals were heard together on common evidence and relate to periods in 1997 and 2000.
+[2] The decisions of the Minister were based on a determination that the corporation that employed Mr. and Mrs. Hodder would not have entered into substantially similar terms of employment with arm's length persons. This test must be satisfied where the employer and employee are related and there is no dispute that this is the case here.
+[3] The relevant statutory provisions are paragraph 5(2)(i) and subsection 5(3) of the Act which read as follows:
+(2) Insurable employment does not include
+[...]
+i) employment if the employer and employee are not dealing with each other at arm's length.
+(3) For the purposes of paragraph (2)(i),
+[...]
+(b) if the employer is, within the meaning of that Act, related to the employee, they are deemed to deal with each other at arm's length if the Minister of National Revenue is satisfied that, having regard to all the circumstances of the employment, including the remuneration paid, the terms and conditions, the duration and the nature and importance of the work performed, it is reasonable to conclude that they would have entered into a substantially similar contract of employment if they had been dealing with each other at arm's length.
+(emphasis added)
+[4] In the early 1990s, Mr. and Mrs. Hodder and their two daughters incorporated a company, Bill Hodder Co. Ltd., to operate a small construction business in Newfoundland. Mr. and Mrs. Hodder were both employed by the corporation doing physical labour. As well, Mr. Hodder looked for business opportunities and negotiated contracts and Mrs. Hodder did the bookkeeping.
+[5] The appeal period relates to both 1997 and 2000. During 1997, the business was located in Newfoundland. By the year 2000, Mr. and Mrs. Hodder had moved to High Level, Alberta and the corporation carried on the construction business there in much the same way as it had done in Newfoundland except that the nature of the construction work changed somewhat. In Newfoundland, the corporation did a lot of repair work on wharfs while, in Alberta, the corporation mainly did building renovations.
+[6] Although the evidence was not clear on what other employees the corporation had, there was some evidence that the corporation did have other employees during some portions of the periods under appeal. There was no evidence as to the terms of employment of the other employees.
+[7] The shares of the corporation were owned by the appellants (35 percent each) and their two daughters (15 percent each). The Crown noted that the shares owned by the daughters enabled the appellants to potentially qualify for employment insurance benefits. Under the relevant statutory provisions, a person is not entitled to claim employment insurance benefits if the person controls more than 40 percent of the voting shares of the employer (paragraph 5(2)(b) of the Act).
+[8] Although there was some suggestion that a negative inference should be drawn from the share structure, in my view, none should be taken. What motivated the appellants regarding the share structure is not relevant to whether the terms of employment are arm's length. Further, there is nothing wrong with persons incorporating a company in a manner that avoids their disqualification from employment insurance benefits.
+[9] One of the principal arguments of the appellants is that the decisions of the Minister that are being appealed are contrary to an earlier decision regarding Mr. Hodder that the Minister had made. The appellants introduced into evidence letters from the Appeals Division in St. John's, Newfoundland dated May 18, 1995 that notified Mr. Hodder that his employment was determined to be insurable for a period in 1994. The appellants argue that the decisions of the Minister that are being appealed involved a breach of natural justice because they did not take into account the prior decision.
+[10] If the prior decision was not taken into account, it is unfortunate but it cannot assist the appellants. These appeals are not in the nature of a judicial review and the manner in which the Minister's decisions were made is not relevant to the issue that I have to decide.[1] The sole question for determination is whether the terms of Mr. and Mrs. Hodder's employment were substantially similar to arm's length terms.
+[11] Further, the Federal Court of Appeal has held that the Minister is not bound by a prior decision: Massignani v. M.N.R., 2003 FCA 172 (F.C.A.); [2003] F.C.J. No. 542 (Q.L.). In that decision, Létourneau J.A. stated:
+[...] we are of the opinion that the Minister could, in April 1998, review his previous decision on the insurability of the applicant's employment, either pursuant to a request made by the Commission under section 90 of the Employment Insurance Act, S.C. 1996, c. 23, or on his own initiative under section 94 of that Act.
+[12] Although the prior decision of the Minister cannot assist the appellants in these appeals, I am sympathetic to their plight. Employees and employers can reasonably be expected to be guided by decisions of the Minister for purposes of determining whether to pay, or not pay, employment insurance premiums for later periods. It is desirable that the Minister's decisions be consistent to the extent possible. However, there is no legal requirement for consistency.
+[13] I turn now to the substantive argument that the appellants made that the terms of their employment were substantially similar to arm's length terms. I am unable to agree with this argument for the simple reason that the evidence presented at the hearing was not nearly sufficient for me to be satisfied on this point.
+[14] The testimony of Mr. and Mrs. Hodder was extremely general. They stated that they were paid hourly rates that were conservatively based on the going rate for this type of work. They stated further that Mr. Hodder did not charge for the time that he spent in managing the business and negotiating contracts. Mrs. Hodder testified that she was paid somewhere between $8 and $10 per hour in Alberta. Mr. Hodder testified that he had records of the hours of work but did not bring them to court.
+[15] Where the issue is whether terms of employment are substantially similar to arm's length terms, there needs to be sufficient evidence for the judge to compare the terms of employment with situations that are in fact arm's length. In this case, there was very little information about the terms of employment of Mr. and Mrs. Hodder and no information about comparable arm's length situations. Mr. Hodder testified that he endeavoured to determine what rates were paid in the community for construction work and that he tried to pay at the conservative end of that scale. However, there was no specific evidence as to what inquiries he made and what information he was able to obtain.
+[16] Without detailed evidence, I am not able to conclude that the decisions of the Minister were unreasonable. The appellants have the burden of establishing that the terms of their employment were substantially similar to arm's length terms. Their brief and general testimony falls far short of satisfying that burden.
+[17] I would also note that I am not persuaded by Mr. Hodder's argument that his duties in the day-to-day management of the business were performed as a shareholder and not as an employee. In my view, day-to-day management of a business is not the duty of a shareholder and an arm's length employee would insist on being paid for it.
+[18] For the foregoing reasons, the appeals are dismissed.
+Signed at Ottawa, Canada, this 16th day of September, 2005.
+"J. Woods"
+Woods J.
+CITATION: 2005TCC615
+COURT FILE NO.: 2003-3800(EI) and 2003-3798(EI)
+STYLE OF CAUSE: William L. Hodder and The Minister of National Revenue
+and
+Joanne M. Hodder and The Minister of National Revenue
+PLACE OF HEARING: Grande Prairie, Alberta
+DATE OF HEARING: August 3, 2005
+REASONS FOR JUDGMENT BY: The Honourable Justice Judith Woods
+DATE OF JUDGMENT: September 16, 2005
+APPEARANCES:
+Counsel for the Appellants:
+Bruce Logan
+Counsel for the Respondent:
+Elena Sacluti
+COUNSEL OF RECORD:
+For the Appellants:
+Name: Bruce Logan
+Firm: Dobko Logan Innes & Hougestol
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Légaré v. M.N.R., case Nos. A-392-98, A-393-98 (F.C.A.); [1999] F.C.J. No. 878 (Q.L.); Pérusse v. M.N.R., case No. A-722-97 (F.C.A.); [2000] F.C.J. No. 310 (Q.L.).

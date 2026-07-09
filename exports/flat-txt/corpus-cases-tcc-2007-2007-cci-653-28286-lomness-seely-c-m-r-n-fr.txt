@@ -1,0 +1,167 @@
+Title: Lomness-Seely c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28286/index.do
+Corpus path: corpus/cases/tcc/2007/2007-cci-653-28286-lomness-seely-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2007-10-23
+
+# Lomness-Seely c. M.R.N.
+
+- Citation: 2007 CCI 653
+- Decision date: 2007-10-23
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1870, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Lomness-Seely c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-10-23
+Référence neutre
+2007 CCI 653
+Numéro de dossier
+2005-2744(EI)
+Juges et Officiers taxateurs
+Patrick J. Boyle
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2005-2744(EI)
+ENTRE :
+CHANTELLE LOMNESS-SEELY,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+GACELAS BALLET INC.,
+intervenante.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu sur preuve commune avec l’appel de
+Chantelle Lomness-Seely (2005-2745(CPP)),
+le 8 août 2007, à Grande Prairie (Alberta).
+Devant : L’honorable juge Patrick Boyle
+Comparutions :
+Pour l’appelante :
+L’appelante elle‑même
+Avocat de l’intimé :
+Me Daniel Segal
+Pour l’intervenante :
+Aucune comparution
+____________________________________________________________________
+JUGEMENT
+L’appel est accueilli, et la décision rendue le 16 juin 2005 par le ministre est annulée.
+Signé à Ottawa, Canada, ce 23e jour d’octobre 2007.
+« Patrick Boyle »
+Juge Boyle
+Traduction certifiée conforme
+ce 29e jour de novembre 2007.
+Johanne Brassard, trad. a.
+Dossier : 2005-2745(CPP)
+ENTRE :
+CHANTELLE LOMNESS-SEELY,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+GACELAS BALLET INC.,
+intervenante.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu sur preuve commune avec l’appel de
+Chantelle Lomness-Seely (2005-2744(EI)),
+le 8 août 2007, à Grande Prairie (Alberta).
+Devant : L’honorable juge Patrick Boyle
+Comparutions :
+Pour l’appelante :
+L’appelante elle‑même
+Avocat de l’intimé :
+Me Daniel Segal
+Pour l’intervenante :
+Aucune comparution
+____________________________________________________________________
+JUGEMENT
+L’appel est accueilli, et la décision rendue le 16 juin 2005 par le ministre est annulée.
+Signé à Ottawa, Canada, ce 23e jour d’octobre 2007.
+« Patrick Boyle »
+Juge Boyle
+Traduction certifiée conforme
+ce 29e jour de novembre 2007.
+Johanne Brassard, trad. a.
+Référence : 2007CCI653
+Date : 20071023
+Dossiers : 2005-2744(EI)
+2005-2745(CPP)
+ENTRE :
+CHANTELLE LOMNESS-SEELY,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+GACELAS BALLET INC.,
+intervenante.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Boyle
+[1] L’appelante, Mme Lomness-Seely, interjette appel de décisions rendues par le ministre du Revenu national selon lesquelles elle exerçait un emploi assurable pour l’application de la Loi sur l’assurance‑emploi et un emploi ouvrant droit à pension pour l’application du Régime de pensions du Canada.
+[2] L’appelante est danseuse professionnelle agréée. Elle est en outre une chorégraphe et une professeure de danse pleine d’initiative.
+[3] Pendant la période en cause, Mme Lomness-Seely travaillait comme professeure de danse à l’école de danse Gacelas Ballet Inc., à Drayton Valley (Alberta). Le contrat d’enseignement écrit conclu avec Gacelas Ballet visait une saison allant de septembre à mai, prévoyait un [TRADUCTION] « salaire contractuel » à taux horaire fixe et précisait que Mme Lomness-Seely devrait déclarer et payer de l’impôt sur le revenu parce qu’aucune retenue salariale ne serait effectuée. Fait important, il ressort sans équivoque de la preuve qu’il était de l’intention commune de Mme Lomness‑Seely et de Gacelas Ballet que l’appelante soit une entrepreneure indépendante et non une employée de l’école de danse. La propriétaire de cette école de danse n’a pas témoigné, mais elle est intervenue par le truchement d’une lettre et a indiqué que l’appelante était une professeure de danse contractuelle et autonome. Bien que le contrat d’enseignement utilise à une occasion le terme [TRADUCTION] « emploi » et fixe un salaire, il prévoit qu’il n’y aura ni retenues salariales, ni heures supplémentaires, ni paye de vacances, ni jours de congé de maladie. La propriétaire de Gacelas Ballet, qui a rédigé le contrat d’enseignement type, parle l’anglais comme langue seconde. Sa langue maternelle est l’espagnol.
+[4] La propriétaire de l’école de danse était qualifiée pour donner uniquement des leçons de ballet. L’appelante était la seule professeure qualifiée pour enseigner des styles et des genres de danse autres que le ballet et pour faire passer des examens dans ces domaines. Elle enseignait le ballet jazz, la danse à claquettes, la danse moderne et la comédie musicale. L’horaire des leçons données par l’appelante était fixé selon les disponibilités et la volonté d’enseigner de cette dernière. Comme la clientèle se composait d’enfants d’âge scolaire, les leçons étaient données après les heures de classe en après‑midi ou en soirée. L’école de danse n’imposait aucune autre exigence quant au moment choisi pour les leçons.
+[5] Dans le cadre de ses activités d’enseignement à l’école de danse, l’appelante était tenue de participer à des festivals de danse, à des compétitions et à des récitals avec ses classes.
+[6] Outre son travail chez Gacelas Ballet, l’appelante avait l’autorisation de donner des leçons particulières à des étudiants, y compris ceux qui suivaient des cours à l’école de danse. Elle pouvait également faire des chorégraphies à contrat, notamment avec les étudiants des cours de danse. L’appelante exigeait pour les chorégraphies et les leçons particulières un tarif bien supérieur à celui payé par l’école de danse ; elle était payée directement par les étudiants en danse et non par l’école de danse pour ce travail. Pendant la période en cause, elle a effectivement donné des leçons particulières hors du cadre de son travail pour l’école de danse. Elle a également gagné des honoraires grâce à son travail de chorégraphie pendant la période en cause.
+[7] De plus, elle pouvait donner des cours dans d’autres écoles de danse. Pendant la période en cause, elle n’a pas enseigné à la seule autre école de danse de la ville parce qu’elle estimait que le niveau y était fort différent. Elle a envisagé d’accepter un poste que lui offrait une autre école, mais elle a refusé l’offre parce que cet établissement se trouvait dans une ville située à 45 minutes de Drayton Valley, ce qui aurait privé l’entreprise d’une grande partie de sa rentabilité. Elle enseigne maintenant à deux écoles de danse non liées et elle avait auparavant enseigné dans de nombreuses autres écoles.
+[8] À titre de professeure, l’appelante était chargée de constituer des classes d’étudiants en fonction de divers niveaux de capacité. Cette décision était la sienne et non celle de l’école de danse. Mme Lomness-Seely pouvait refuser des étudiants et il lui arrivait de le faire. L’école de danse ne tentait pas de contester ses décisions. Même si on s’attendait à ce qu’elle agisse avec professionnalisme et qu’elle applique les normes adoptées par l’école, elle avait toute latitude quant à la matière enseignée, à la musique utilisée, etc. Elle exerçait un contrôle total sur ses classes. Cela signifiait que, dans les faits, c’est elle qui dirigeait les programmes de danse autres que les classes de ballet.
+[9] Dans le cadre des classes de danse, le professeur est chargé de chorégraphier les productions qui seront exécutées par les étudiants. En l’espèce, la chorégraphie élaborée par Mme Lomness-Seely était sa propriété artistique; elle ne devenait pas la propriété de l’école de danse, et cette dernière n’avait pas le droit de l’utiliser pour d’autres classes ni plus tard sans le consentement de l’appelante.
+[10] Gacelas Ballet était propriétaire de son école de danse. L’école disposait du matériel nécessaire, soit de miroirs, de parquets flottants et d’une chaîne audiophonique encastrée. Mme Lomness-Seely avait la responsabilité de fournir tout le reste du matériel nécessaire utilisé dans ses classes de danse. En raison de la nature des classes de danse à claquettes, de ballet jazz et de danse moderne, elle disposait d’un éventail de CD de musique de danse, qui lui coûtaient des milliers de dollars. Les CD de musique et les vidéos didactiques étaient achetés et élaborés pendant ses temps libres. Elle fournissait également son propre ordinateur pour couper et monter la musique comme elle le souhaitait. Outre la chorégraphie, ses méthodes et son matériel d’enseignement lui appartenaient aussi. De plus, elle fournissait les tapis, les cordes et les élastiques d’exercice utilisés par les étudiants. Elle fournissait aussi ses propres vêtements de danse, ses propres souliers de danse, etc. Elle ne recevait aucune indemnité ni aucun remboursement pour sa musique ou les autres fournitures et elle devait elle‑même payer les frais engagés pour conserver ses titres de compétence en qualité de professeure de danse professionnelle. Elle ne recevait aucun remboursement ni aucune indemnité lorsqu’elle accompagnait ses étudiants à des événements et à des concours de danse à l’extérieur de l’école de danse.
+[11] Gacelas Ballet n’avait pas le droit de dire quoi faire à l’appelante au‑delà de ce qui était entendu entre elles, ni de prendre des mesures disciplinaires à son endroit. Si l’école de danse n’aimait pas ce que l’appelante faisait, le seul recours qu’elle pouvait exercer aux termes du contrat consistait à informer l’appelante qu’elle mettait fin au contrat. Gacelas Ballet n’avait pas le droit d’exiger que l’appelante change sa façon d’organiser et de structurer ses classes ou d’enseigner à celles‑ci.
+[12] La propriétaire de Gacelas Ballet était l’autre professeure principale de l’école. Elle aurait pu exploiter l’école sans l’aide de l’appelante. Elle était professeure de ballet agréée et, même si elle n’avait pas de titres de compétence en ballet jazz, elle aurait pu enseigner cette danse, mais elle ne le faisait pas. Par contre, la propriétaire n’aurait pu enseigner la danse à claquettes, ni la comédie musicale, ni les autres genres de danse enseignés par l’appelante.
+Analyse
+[13] Afin de décider si l’appelante était une employée ou une entrepreneure indépendante pour l’application des définitions des expressions « emploi ouvrant droit à pension » et « emploi assurable », il faut se demander si elle exploitait vraiment une entreprise pour son propre compte. Cette question est énoncée par les tribunaux britanniques dans l’arrêt Market Investigations, Ltd. v. Minister of Social Security, [1968] 3 All E.R. 732 (Div.B.R.), approuvée par la Cour d’appel fédérale dans l’arrêt Wiebe Door Services Ltd. v. The Minister of National Revenue, 87 DTC 5025, pour l’application des définitions canadiennes des expressions « emploi assurable » et « emploi ouvrant droit à pension », et adoptée par la Cour suprême du Canada dans l’arrêt 671122 Ontario Ltd. c. Sagaz Industries Canada Inc., [2001] 2 R.C.S. 983. Cette question doit être tranchée à la lumière de toutes les circonstances pertinentes et d’un certain nombre de critères et de points de repère utiles, y compris : 1) l’intention des parties; 2) le contrôle sur les activités; 3) la propriété des instruments de travail; 4) la possibilité de profit et le risque de perte ; 5) ce qui a été qualifié de critère de l’intégration dans l’entreprise, de l’association ou de l’entrepreneuriat.
+[14] L’arrêt Royal Winnipeg Ballet c. Le ministre du Revenu national, 2006 DTC 6323, 2006 CAF 87, de la Cour d’appel fédérale souligne l’importance particulière de l’intention des parties et du critère du contrôle. Cet arrêt est compatible avec l’arrêt ultérieur Combined Insurance Co. of America c. Canada (Ministre du Revenu national), 2007 CAF 60, et l’arrêt City Water International Inc. c. Canada (Ministre du Revenu national), 2006 CAF 350, du même tribunal. Les motifs donnés par la Cour dans la décision Vida Wellness Corp. c. Canada (Ministre du Revenu national), 2006 CCI 534, fournissent également un résumé utile de la signification de l’arrêt Royal Winnipeg Ballet. Tout récemment, les motifs rendus par le juge en chef dans la décision Lang c. Canada (Ministre du Revenu national), 2007 CCI 547, sont aussi d’une grande utilité sur ce point.
+[15] Le ministre a décidé que le travail accompli par l’appelante pour l’école de danse Gacelas Ballet Inc. se faisait dans le cadre d’une relation d’emploi et non dans le cadre d’une entreprise exploitée par l’appelante. Le ministre n’a pas contesté le fait que le travail de chorégraphie à contrat effectué par Mme Lomness‑Seely pour des danseurs établis et des danseurs en herbe ainsi que ses leçons particulières constituaient une entreprise distincte exploitée par l’appelante. La Couronne avance que les leçons particulières et le travail de chorégraphie de Mme Lomness‑Seely constituaient une activité commerciale distincte de son travail pour Gacelas Ballet.
+Intention des parties
+[16] Dans la présente affaire, les deux parties avaient pour intention d’établir une relation dans le cadre de laquelle l’appelante était entrepreneure indépendante et non employée. Le fait que l’appelante avait le droit de travailler pour d’autres écoles de danse ou directement avec des danseurs pour son propre compte est compatible avec cette intention. Bien que le fait d’avoir un emploi n’empêche pas nécessairement l’employé de travailler aussi pour un concurrent ou en concurrence avec son employeur, il s’agit habituellement de l’exception en matière d’emploi et de la norme en matière de travail autonome. J’arrive à la conclusion que, par le contrat intervenu entre elles, les parties voulaient que l’appelante agisse comme entrepreneure indépendante et non comme employée, et que rien dans leur conduite n’était incompatible avec l’existence d’une relation fondée sur la situation d’entrepreneure indépendante de l’appelante.
+Contrôle
+[17] Il est manifeste que, dans le cadre de sa relation de travail avec Mme Lomness-Seely, Gacelas Ballet n’exerçait pas le degré de contrôle qu’un employeur aurait généralement exercé envers un employé. Gacelas Ballet ne donnait aucune directive quant à la façon dont l’enseignement devait être dispensé aux classes de danse et ne possédait d’ailleurs pas les compétences ni les titres et qualités pour le faire. L’école ne pouvait obliger l’appelante à enseigner à un étudiant qui, de l’avis de l’appelante, ne devait pas faire partie de la classe. Mme Lomness‑Seely exerçait elle‑même le contrôle sur ces aspects de sa classe, et ses décisions n’étaient jamais contestées. Elle exerçait un contrôle absolu sur la classe. Elle enseignait sa propre matière selon sa propre méthode d’enseignement, des réchauffements jusqu’à la fin de la classe, et c’est elle qui exerçait le contrôle à cet égard. Après avoir entendu la preuve dans la présente affaire, la Couronne a admis que le Royal Winnipeg Ballet exerçait un plus grand contrôle sur ses danseurs que l’école ne le faisait envers l’appelante en l’espèce.
+[18] Après examen de la question du contrôle, j’estime que ce facteur joue en faveur de l’existence d’une situation d’entrepreneure indépendante et non d’une relation d’emploi.
+Propriété des instruments de travail
+[19] Mme Lomness-Seely n’était pas propriétaire d’une école de danse dotée de tout le matériel nécessaire. C’est la raison pour laquelle elle offrait ses services de professeure à contrat aux écoles de danse. Elle était toutefois propriétaire de l’ensemble des œuvres chorégraphiques qu’elle avait élaborées, et possédait la totalité de la musique qu’elle avait choisie et dont elle faisait usage pour enseigner à ses différentes classes. Tout le reste du matériel utilisé dans ses propres classes était aussi fourni par elle et lui appartenait. Mme Lomness‑Seely détenait les titres de compétences et les qualités nécessaires pour enseigner et faire passer des examens dans les domaines qu’elle enseignait, et elle assumait les frais liés au maintien de ses titres de compétences. Elle fournissait ses propres vêtements et souliers de danse, et elle payait ses déplacements aux concours de danse et autres événements se tenant ailleurs qu’à l’école. Même si l’école de danse professionnelle était nécessaire, la musique l’était tout autant pour les genres de danse qu’elle enseignait. Je conclus que le facteur de la propriété des instruments de travail joue légèrement en faveur de l’existence d’une relation d’entrepreneure indépendante. Cette conclusion n’est certainement pas incompatible avec le genre de relation choisi par les parties.
+Possibilité de profit et risque de perte
+[20] Comme l’école de danse payait Mme Lomness-Seely selon un taux horaire, la possibilité que cette dernière tire un profit ou subisse une perte n’était pas aussi grande que pour une personne payée autrement. L’appelante pouvait toutefois gagner beaucoup plus d’argent si elle donnait des leçons particulières ou si elle offrait ses services de chorégraphe à titre particulier. Au sein de sa collectivité, les clients susceptibles de retenir ce genre de services étaient en fait les étudiants auxquels elle donnait des cours à l’école de danse. Elle était donc non seulement en mesure d’augmenter son profit en travaillant davantage d’heures, mais aussi de tirer un revenu plus élevé de sa classe à l’école de danse, au moyen de leçons particulières et de chorégraphies à l’intention de particuliers, en entretenant des liens pédagogiques professionnels étroits avec ses étudiants de l’école de danse et en méritant leur estime. Elle a en outre consacré beaucoup de son propre temps à tenter de gagner des honoraires en élaborant une chorégraphie en vue d’un spectacle de danse projeté à Disneyland, mais ce projet ne s’est pas concrétisé. Comme l’école de danse la payait selon un taux horaire, le risque de perte que courait Mme Lomness‑Seely était celui que son plus important client à l’époque soit incapable d’acquitter sa facture mensuelle. C’est l’école de danse qui assumait le risque qu’un parent fasse défaut de payer. Quant à la possibilité qu’elle réalise un profit dans le cadre de ses activités à l’école de danse, Mme Lomness-Seely a affirmé dans son témoignage qu’elle négociait son tarif avec l’école de danse. Selon son expérience, si une classe évoluait parce qu’elle obtenait du succès, elle pouvait alors renégocier un taux horaire plus élevé. Le succès d’une classe de danse spécialisée dans une petite ville comptant deux écoles de danse est dans une bien grande mesure tributaire des qualités et du succès du professeur, et peut‑être même davantage que de la promotion de l’entreprise et d’une publicité semblable visant l’école de danse.
+[21] Compte tenu des circonstances, l’application des critères relatifs à la possibilité de profit et au risque de perte ne paraît pas jouer plus en faveur de l’une ou de l’autre des situations d’employée ou d’entrepreneure indépendante.
+Conclusion
+[22] Par conséquent, j’arrive à la conclusion que l’appelante n’exerçait pas un emploi assurable ni un emploi ouvrant droit à pension lorsqu’elle offrait ses services à titre de professeure de danse à Gacelas Ballet. L’examen des facteurs relatifs à l’intention et au contrôle fait sensiblement pencher la balance du côté de la situation d’entrepreneure indépendante. Dans l’arrêt Royal Winnipeg Ballet, la Cour d’appel fédérale a examiné ces deux facteurs d’importance particulière dans le cas de danseurs. Les parties n’ont rien fait qui soit incompatible avec l’existence de la relation qu’elles avaient prévue, à savoir une relation fondée sur la situation d’entrepreneure indépendante de l’appelante. Pour ces raisons, je vais accueillir les présents appels et annuler la décision du ministre.
+[23] Au moment du débat, la Couronne a invoqué la décision Quantum Fitness Inc. c. Canada, 2007 CCI 280, du présent tribunal. Je signale que, dans cette affaire, les instructeurs de conditionnement physique n’étaient pas autorisés à agir à ce titre ailleurs et que le mode d’instruction du programme de B.T.S. semblait propre à l’employeur. Dans la décision Quantum Fitness, la formation devait répondre à la norme particulière de B.T.S. Les instructeurs de Quantum Fitness devaient enseigner le programme de B.T.S. En l’espèce, la formation et l’agrément de l’appelante revenaient entièrement à cette dernière et n’étaient pas offerts dans le cadre d’une formule exclusive, comme celle de B.T.S.
+Signé à Ottawa, Canada, ce 23e jour d’octobre 2007.
+« Patrick Boyle »
+Juge Boyle
+Traduction certifiée conforme
+ce 29e jour de novembre 2007.
+Johanne Brassard, trad. a.
+RÉFÉRENCE : 2007CCI563
+Nos DES DOSSIERS DE LA COUR : 2005-2744(EI), 2005-2745(CPP)
+INTITULÉ DE LA CAUSE : CHANTELLE LOMNESS-SEELY c.
+LE MINISTRE DU REVENU NATIONAL et GACELAS BALLET INC.
+LIEU DE L’AUDIENCE : Grande Prairie (Alberta)
+DATE DE L’AUDIENCE : Le 8 août 2007
+MOTIFS DU JUGEMENT : L’honorable juge Patrick Boyle
+DATE DU JUGEMENT : Le 23 octobre 2007
+COMPARUTIONS :
+Pour l’appelante :
+L’appelante elle‑même
+Avocat de l’intimé :
+Me Daniel Segal
+Pour l’intervenante :
+Aucune comparution
+AVOCAT INSCRIT AU DOSSIER :
+Pour l’appelante :
+Nom :
+Cabinet :
+Pour l’intimé : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

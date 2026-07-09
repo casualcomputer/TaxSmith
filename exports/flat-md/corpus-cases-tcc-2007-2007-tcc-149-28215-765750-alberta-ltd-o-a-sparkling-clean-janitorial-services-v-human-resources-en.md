@@ -1,0 +1,139 @@
+---
+title: "765750 Alberta Ltd o/a Sparkling-Clean Janitorial Services v. Human Resources"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28215/index.do"
+last_modified: "2007-03-14"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 TCC 149"
+citation2: ""
+neutral_citation: "2007 TCC 149"
+decision_date: "2007-03-14"
+language: "en"
+item_id: "28215"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2062
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T23:18:52.382000+00:00"
+cases_cited_count: 0
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "6bd4e72118850c23a44f3e77360a54f3956d6ad1d9c328f7af8faa6a52673c93"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# 765750 Alberta Ltd o/a Sparkling-Clean Janitorial Services v. Human Resources
+
+- Citation: 2007 TCC 149
+- Decision date: 2007-03-14
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2062, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+765750 Alberta Ltd o/a Sparkling-Clean Janitorial Services v. Human Resources
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-03-14
+Neutral citation
+2007 TCC 149
+File numbers
+2006-1672(CPP)
+Judges and Taxing Officers
+Georgette Anne Sheridan
+Subjects
+Canada Pension Plan
+Old Age Security Act
+Decision Content
+Docket: 2006-1672(CPP)
+BETWEEN:
+765750 ALBERTA LTD.
+o/a SPARKLING-CLEAN JANITORIAL SERVICES,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard on February 21, 2007 at Edmonton, Alberta
+Before: The Honourable Justice G. Sheridan
+Appearances:
+Agent for the Appellant:
+Ronald Agar
+Counsel for the Respondent:
+Carrie Mymko
+____________________________________________________________________
+JUDGMENT
+The appeal is allowed in accordance with the attached Reasons for Judgment and the decision of the Minister of National Revenue is vacated on the basis that Ms. Soroka was not an employee of the Appellant, Sparkling-Clean Janitorial Services, within the meaning of paragraph 6(1)(a) of the Canada Pension Plan for the 2002, 2003 and 2004 taxation years.
+Signed at Ottawa, Canada, this 15th day of March, 2007.
+"G. Sheridan"
+Sheridan, J.
+Citation: 2007TCC149
+Date: 20070315
+Docket: 2006-1672(CPP)
+BETWEEN:
+765750 ALBERTA LTD.
+o/a SPARKLING-CLEAN JANITORIAL SERVICES,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGMENT
+Sheridan, J.
+[1] The Appellant, 765750 Alberta Ltd. carrying on business as Sparkling-Clean Janitorial Services ("Sparkling-Clean"), is appealing the assessment by the Minister of National Revenue of Canada Pension Plan contributions[1] for Deborah Soroka for the years 2002 to 2004, inclusive. Deborah Soroka is the majority shareholder and a director of Sparkling-Clean. The Minister's assessment is based on her decision that Ms. Soroka was an employee of Sparkling-Clean.
+[2] To succeed in its appeal, Sparkling-Clean must establish on a balance of probabilities that Ms. Soroka was not an employee of Sparkling-Clean during the relevant period. Ms. Soroka was very straight-forward in the presentation of her evidence. I found her to be completely credible. For the reasons set out below, I am satisfied that the Appellant has met its evidentiary onus and that the appeal ought to be allowed.
+[3] During the time under appeal, Sparkling-Clean was in the business of providing janitorial services in Edmonton, Alberta. Prior to the incorporation, Ms. Soroka had been personally providing the same services as a sole proprietor operating under the name "Sparkling-Clean". When the demand for her services grew, she incorporated Sparkling-Clean. The company hired four employees: a full-time operations manager, one full-time and two part-time cleaners. All necessary payroll deductions were made and remitted to the Canada Revenue Agency. Sparkling-Clean also engaged 25 cleaners to work as independent contractors; it was audited twice in respect of their status as independent contractors and all was found to be in order.
+[4] Sparkling-Clean retained Ms. Soroka as its manager; her duties included booking clients, quoting prices for cleaning services, advertising and marketing, keeping the books, banking and various administrative tasks. While it was not part of her job description, Ms. Soroka would assist or fill in for a cleaner from time to time. She worked, as required, according to the company's client demand and her own assessment of what was required. She did not have set hours nor did she have to record her hours worked. If she was away for any extended time, she asked one of the full-time employees, the operations manager, to cover her management duties. Ms. Soroka, in her personal capacity did not submit regular invoices to Sparkling-Clean for her services; her remuneration depended upon the profitability of the company at any given moment. Accordingly, she was entitled to draw on a more or less bi-weekly basis, subject to maintaining an operational balance in the corporation account, against the full value of her services for the year. At the end of the year, in her capacity as directing mind and a shareholder of Sparkling-Clean, Ms. Soroka would consider the tax consequences of paying for her independent contractor services, of paying dividends or allocating the profits of the company in some other manner. Ms. Soroka received $75,000, $75,000 and $120,000, respectively, for her services in 2002, 2003 and 2004, and reported such amounts in her annual income tax returns. She also reported amounts she had received as dividend income. She paid all the tax assessed in respect of the amounts reported.
+[5] During this same period she also managed a family holding company and another company her husband had established for his construction consultancy business.
+[6] The only issue is whether Ms. Soroka was an employee of Sparkling-Clean. Based on the four-fold test in Wiebe Door Services Ltd. v. Minister of National Revenue[2] and the case law in respect of the intention of the parties, I am satisfied on a balance of probabilities that she was not.
+[7] Counsel for the Respondent referred the Court to a decision of Rip, J. (as he then was) in which he underscored the difficulty of applying the Wiebe Door test in cases like that of Sparkling-Clean and Ms. Soroka:
+In a situation where one person is the sole director and shareholder of a corporation and provides services to that corporation, the traditional tests to determine whether that person is an employee or an independent contractor are not always useful. How can one measure, for example the level of control the employer has over the worker's activities when the person who directs the employer is the worker?[3]
+[8] The fact that the task is made more difficult does not mean, however, that such difficulty must be resolved by assuming the worker was an employee. In such circumstances, the Federal Court of Appeal has held that, absent evidence of a sham, the Court must not pierce the corporate veil[4]. No one factor in the Wiebe Door test has more significance than the others; further, the case law is clear that not all of the factors will have application in every set of facts. As counsel for the Respondent quite correctly submitted, it is the totality of the circumstances that must be taken into account.
+[9] On the evidence presented in the present case, I am satisfied that Sparkling-Clean has succeeded in proving wrong the Minister's assumption that Ms. Soroka was an employee. First of all, I accept Ms. Soroka's evidence that she, in her respective capacities as directing mind of Sparkling-Clean and as an individual providing management services to the company, did not intend that she would do so as an employee. Ms. Soroka was well aware of the difference between a contract of service and a contract for services: as the directing mind of the company, she had engaged both employees and independent contractors; prior to the incorporation of Sparkling-Clean, Ms. Soroka had herself been self-employed; finally, she had consulted her financial advisor on the subject and been through two audits in respect of this issue.
+[10] During the years in question, Ms. Soroka was in the business of providing management services as an independent contractor. She provided similar services for other corporations. Although they were closely held companies, they were nonetheless, separate legal entities that paid her for her work. Like any self‑employed person, she decided how to allocate her time among her clients. The nature of her work was such that she did not require a lot of tools to perform her management duties; the fact that once in a while she picked up a vacuum cleaner owned by Sparkling-Clean to fill in for an absent cleaner (whether an employee or independent contractor) is not sufficient to make her an employee of Sparkling‑Clean, especially given that that was not part of her management services.
+[11] As for Ms. Soroka's chance of profit and risk of loss and the question of the degree to which she was integrated into Sparkling-Clean, it was up to Ms. Soroka to make a success of her management business; Sparkling-Clean had the same hopes for its janitorial service business. Although they both stood to benefit from Sparkling-Clean's profitability, that shared interest does not diminish their respective status as separate entities with separate business objectives. Had Sparkling-Clean failed, Ms. Soroka, in her capacity as an independent contractor providing management services would have lost a client; in her capacity as shareholder of the company, she would have lost dividend income. She testified that she was confident in her management skills; if, for some reason, Sparkling‑Clean had ceased to be her client, she would have been able to apply her management expertise elsewhere. I do not doubt for a moment that this is so.
+[12] Ms. Soroka struck me as a competent woman, not afraid of risk or hard work. When the demand for her personal cleaning services began to outstrip her capacity to meet it, it was she who borrowed the money[5] to establish Sparkling‑Clean. It was thanks to her skill and initiative that she was able to make, so successfully, the transition from her status as a woman alone doing cleaning for a few people to that of directing mind of a corporation, with its own employees and contractors, providing janitorial services to a roster of its clients. This change permitted her to seek new challenges as a management consultant.
+[13] A taxpayer is free to organize her affairs in a manner that is to her best economic advantage and within the parameters of the law. Ms. Soroka has shown herself to be responsible and law-abiding in respect of filing income tax returns, reporting and remitting all amounts in a timely fashion. In those areas where she felt she was lacking in skill, she sought professional advice from her financial advisor. I am satisfied that in respect of her management services, Ms. Soroka was not an employee.
+[14] The appeal is allowed and the decision of the Minister is vacated on the basis that Ms. Soroka was not an employee of the Appellant, Sparkling-Clean.
+Signed at Ottawa, Canada, this 15th day of March, 2007.
+"G. Sheridan"
+Sheridan, J.
+CITATION: 2007TCC149
+COURT FILE NO.: 2006-1672(CPP)
+STYLE OF CAUSE: 765750 ALBERTA LTD. o/a SPARKLING-CLEAN JANITORIAL SERVICES
+AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Edmonton, Alberta
+DATE OF HEARING: February 21, 2007
+REASONS FOR JUDGMENT: The Honourable Justice G. Sheridan
+DATE OF JUDGMENT: March 15, 2007
+APPEARANCES:
+Agent for the Appellant:
+Ronald Agar
+Counsel for the Respondent:
+Carrie Mymko
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Pursuant to paragraph 6(1)(a) and subsection 2(1) of the Canada Pension Plan.
+[2] 87 DTC 5025 (F.C.A.); 671122 Ontario Ltd. v. Sagaz Industries Canada Inc., [2001] 4 C.T.C. 139 (S.C.C.).
+[3] Pro-Style Stucco & Plastering Ltd. v. Canada [2004] T.C.J. No.14 at paragraph 21.
+[4] Meredith v. Canada, 2002 F.C.A. 258 at paragraph 12.
+[5] Some $40,000 for equipment and supplies.

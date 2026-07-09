@@ -1,0 +1,131 @@
+---
+title: "Dekock v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30270/index.do"
+last_modified: "2011-03-14"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2011 TCC 159"
+citation2: ""
+neutral_citation: "2011 TCC 159"
+decision_date: "2011-03-14"
+language: "en"
+item_id: "30270"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7979
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T07:46:06.237000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "bcc1c3e2b8941971782dc3b498fe08d3f75870853ddd5ed94f2c1eb259d6960c"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Dekock v. The Queen
+
+- Citation: 2011 TCC 159
+- Decision date: 2011-03-14
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7979, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Dekock v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2011-03-14
+Neutral citation
+2011 TCC 159
+File numbers
+2007-1138(GST)G
+Judges and Taxing Officers
+Wyman W. Webb
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Dockets: 2007-1137(IT)G
+2007-1138(GST)G
+BETWEEN:
+SHELLEY ROBERT DEKOCK,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Motion heard by conference call
+on February 3, 2011 at Ottawa, Canada
+Before: The Honourable Justice Wyman W. Webb
+Participants:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Johanna Russell
+____________________________________________________________________
+ORDER
+The Appellant’s motion to overturn the Order of this Court dated July 4, 2007 that had quashed the Appellant’s purported appeal under the Excise Tax Act from the assessment (or reassessment) of his liability under that Act for the period from January 1, 1999 to December 31, 2001, is dismissed. Since this Motion is dismissed, there is no appeal under the Excise Tax Act to consolidate with the Appellant’s appeal under the Income Tax Act.
+Signed at Ottawa, Canada, this 14th day of March 2011.
+“Wyman W. Webb”
+Webb J.
+Citation: 2011TCC159
+Date: 20110314
+Dockets: 2007-1137(IT)G
+2007-1138(GST)G
+BETWEEN:
+SHELLEY ROBERT DEKOCK,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Webb J.
+[1] The Respondent had brought a Motion on June 5, 2007 to quash the Appellant’s purported appeal under the Excise Tax Act from the assessment (or reassessment) of his liability under that Act for the period from January 1, 1999 to December 31, 2001. The Motion was granted and the purported appeal was quashed on the basis that the Appellant had not filed a Notice of Objection to the assessment (or reassessment) within the time specified in the Excise Tax Act for filing such Notice. An Order of this Court quashing the purported appeal was issued on July 4, 2007.
+[2] The Appellant brought a Motion dated August 17, 2010 to set aside this Order. By Order of this Court dated August 27, 2010, this Motion was dismissed. Undaunted, the Appellant filed yet another Motion to set aside this Order on September 27, 2010.
+[3] The Appellant argued that the Order dated July 4, 2007 should be set aside on the basis that the GST registration number referred to in the Order is not his GST registration number. The GST registration number identified in the Order is 8899521890. The Appellant’s actual GST registration number is 889952180. An additional digit (a “9”) was inserted in the number that was in the Order. The number that was in the Order is the same number that was in the documents submitted by the Respondent in relation to the Respondent’s motion to quash the Appellant’s purported appeals. The Appellant himself did not include this number in his Notice of Appeal. It seems to me that the incorrect GST registration number in the Order was a minor typographical error and does not affect the validity of the Order. The reference to the incorrect number does not affect the determination that the Appellant had failed to file a Notice of Objection.
+[4] In Chandler v. Alberta Association of Architects, [1989] 2 S.C.R. 848 Justice Sopinka, writing on behalf of a majority of the Justices of the Supreme Court of Canada stated that:
+Functus Officio
+19 The general rule that a final decision of a court cannot be reopened derives from the decision of the English Court of Appeal in In re St. Nazaire Co. (1879), 12 Ch. D. 88. The basis for it was that the power to rehear was transferred by the Judicature Acts to the appellate division. The rule applied only after the formal judgment had been drawn up, issued and entered, and was subject to two exceptions:
+1. where there had been a slip in drawing it up, and,
+2. where there was an error in expressing the manifest intention of the court. See Paper Machinery Ltd. v. J. O. Ross Engineering Corp., [1934] S.C.R. 186.
+[5] In Doucet-Boudreau v. Nova Scotia (Minister of Education), [2003] 3 S.C.R. 3, Justice Iacobucci and Justice Arbour writing on behalf of a majority of the Justices of the Supreme Court of Canada stated that:
+79 It is clear that the principle of functus officio exists to allow finality of judgments from courts which are subject to appeal (see also Reekie v. Messervey, [1990] 1 S.C.R. 219, at pp. 222-23). This makes sense: if a court could continually hear applications to vary its decisions, it would assume the function of an appellate court and deny litigants a stable base from which to launch an appeal.
+[6] The decision made by Justice Beaubier and reflected in the Order dated July 4, 2007 was a final decision in the matter of whether the Appellant’s appeal under the Excise Tax Act from the assessment (or reassessment) of his liability under that Act for the period from January 1, 1999 to December 31, 2001 should be quashed. To open the matter to correct the slip identified by the Appellant in the GST registration number, would not provide the remedy that the Appellant is seeking. It would only correct the GST registration number; it would not result in a new hearing on the question of whether his purported appeal under the Excise Tax Act should be quashed. The Court cannot hear applications to vary its decisions. As noted by the Supreme Court of Canada this is the function of appellate courts. Justice Beaubier at the hearing of the Motion had indicated to the Appellant that he had the right to appeal his decision to the Federal Court of Appeal. The Appellant did not do so.
+[7] The Appellant’s motion to overturn the Order of this Court dated July 4, 2007 that had quashed the Appellant’s purported appeal under the Excise Tax Act from the assessment (or reassessment) of his liability under that Act for the period from January 1, 1999 to December 31, 2001, is dismissed. Since this Motion is dismissed, there is no appeal under the Excise Tax Act to consolidate with the Appellant’s appeal under the Income Tax Act.
+[8] The Respondent did not ask for costs and therefore no costs will be awarded.
+Signed at Ottawa, Canada, this 14th day of March 2011.
+“Wyman W. Webb”
+Webb J.
+CITATION: 2011TCC159
+COURT FILE NOS.: 2007-1137(IT)G; 2007-1138(GST)G
+STYLE OF CAUSE: SHELLEY ROBERT DEKOCK AND THE QUEEN
+PLACE OF MOTION: Ottawa, Canada
+DATE OF MOTION: February 3, 2011
+REASONS FOR ORDER BY: The Honourable Justice Wyman W. Webb
+DATE OF ORDER: March 14, 2011
+PARTICIPANTS:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Johanna Russell
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada

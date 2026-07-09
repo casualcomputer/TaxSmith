@@ -1,0 +1,128 @@
+Title: Gagea v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28043/index.do
+Corpus path: corpus/cases/tcc/2007/2007-cci-620-28043-gagea-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2007-08-27
+
+# Gagea v. The Queen
+
+- Citation: 2007 CCI 620
+- Decision date: 2007-08-27
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1598, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Gagea v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-08-27
+Référence neutre
+2007 CCI 620
+Numéro de dossier
+2006-2110(IT)I
+Juges et Officiers taxateurs
+Leslie M. Little
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2006-2110(IT)I
+ENTRE :
+VIRGILIU GAGEA,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels entendus le 27 août 2007, à Toronto (Ontario).
+Devant : L’honorable juge L.M. Little
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Me Justin Kutyan
+____________________________________________________________________
+JUGEMENT
+Les appels des cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 2000 et 2001 sont rejetés, sans dépens, selon les motifs de jugement ci‑joints.
+Signé à Toronto (Ontario), ce 16e jour d’octobre 2007.
+« L.M. Little »
+Juge Little
+Traduction certifiée conforme
+ce 29e jour de novembre 2007.
+Johanne Brassard, trad. a.
+Référence : 2007CCI620
+Date : 20071016
+Dossier : 2006-2110(IT)I
+ENTRE :
+VIRGILIU GAGEA,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Little
+A. Les faits
+[1] Au cours des années d’imposition 2000 et 2001, l’appelant travaillait comme vendeur à commission pour Westminster Securities Ltd. (« Westminster »), Chartwell Securities (« Chartwell ») et BMO Nesbitt Burns (« Nesbitt »).
+[2] L’appelant a déclaré les revenus suivants :
+Année d’imposition 2000
+Revenu d’emploi (Commissions)
+Westminster 3 915,68 $ 3 915,68 $
+Chartwell 29 630,41 $ 21 216,64 $
+Année d’imposition 2001
+Revenu d’emploi (Commissions)
+Westminster 3 256,72 $ 3 256,72 $
+Nesbitt 30 591,48 $ 30 591,48 $
+[3] L’appelant a déclaré qu’au mois de septembre 2000, pendant qu’il travaillait comme conseiller financier pour Westminster, il s’était occupé de l’achat de 300 actions d’American Telephone and Telegraph (« AT&T ») pour un client qui s’appelait Peter Nabokow.
+[4] L’appelant a déclaré que M. Nabokow lui avait remis un chèque pour les 300 actions d’AT&T et que le chèque avait été retourné par la banque, avec l’inscription « NSF » (chèque sans provision). L’appelant a également déclaré que M. Nabokow lui avait remis un second chèque, qui avait également été retourné avec l’inscription « NSF ».
+[5] L’appelant a déclaré que le directeur des ventes de Westminster l’avait obligé à couvrir la perte subie à l’égard de la transaction concernant les 300 actions d’AT&T que M. Nabokow avait achetées, et que les actions avaient été transférées à son compte personnel par le directeur des ventes.
+[6] Au mois d’avril 2001, l’appelant a vendu les 300 actions d’AT&T; il a subi une perte de 3 317 $US, soit environ 6 000 $CAN.
+[7] L’appelant a déclaré ne pas avoir déduit la perte en produisant sa déclaration de revenus pour l’année d’imposition 2001. Toutefois, il a déclaré avoir parlé de la perte au vérificateur de l’Agence du revenu du Canada lorsqu’il avait fait l’objet d’une vérification. L’appelant a affirmé que le vérificateur lui avait dit qu’il ne pouvait pas déduire la perte qu’il avait subie à l’égard des 300 actions d’AT&T.
+B. Le point litigieux
+[8] Il s’agit de savoir si l’appelant peut déduire la perte de 6 000 $ qu’il a subie lors de la vente de 300 actions d’AT&T dans le calcul de son revenu pour l’année d’imposition 2001.
+C. Analyse
+[9] Comme il en a ci‑dessus été fait mention, l’appelant travaillait pour Westminster. En sa qualité d’employé, l’appelant pouvait uniquement effectuer les déductions autorisées au paragraphe 8(1) de la Loi de l’impôt sur le revenu (la « Loi »).
+[10] À mon avis, l’appelant n’a pas le droit de déduire la perte de 6 000 $ qu’il a subie lors de la vente des 300 actions d’AT&T, conformément aux dispositions du paragraphe 8(1) de la Loi. À l’appui de ma conclusion, je ferai référence à la décision rendue par la Cour suprême du Canada dans l’affaire Gifford v. The Queen et al., 2004 DTC 6120.
+[11] Dans l’arrêt Gifford, la Cour suprême examinait les déductions que les conseillers financiers d’une maison de courtage (Midland Walwyn Capital Inc.) pouvaient faire. Le juge Major, au nom de la Cour, a dit ce qui suit :
+[11] Avant d’aborder les questions particulières que pose le présent pourvoi, il est utile d’examiner le régime général des déductions permises par la Loi. Le contribuable appelant en l’espèce a tiré son revenu de son emploi et ne peut donc se prévaloir des déductions en application de la Loi que si l’art. 8 le permet expressément, ainsi que le prévoit le par. 8(2).
+[12] L’employé qui satisfait aux exigences des sous‑al. 8(1)f)(i) à (iv) peut déduire toute dépense engagée « pour gagner le revenu provenant de son emploi ». La dépense constituant un paiement « au titre du capital » est, en vertu du sous‑al. 8(1)f)(v), exclue de la gamme des dépenses admissibles à la déduction.
+[13] Lorsque le contribuable tire son revenu d’une entreprise ou d’un bien, et non d’un emploi, la gamme des déductions admissibles est beaucoup plus large, car l’art. 9 prévoit que le revenu du contribuable correspond au bénéfice qu’il en obtient. Pour le calcul du bénéfice provenant d’une entreprise ou d’un bien, le contribuable peut réclamer des déductions conformément aux principes comptables généralement reconnus, sauf disposition contraire de la Loi. Les alinéas 18(1)a) et b) sont semblables aux passages de l’al. 8(1)f) qui servent à circonscrire de manière générale les déductions permises. L’alinéa 18(1)a) dispose que seules sont déductibles les dépenses engagées en vue de tirer un revenu d’une entreprise ou d’un bien, et l’al. 18(1)b) – dont le libellé est similaire à celui du sous‑al. 8(1)f)(v) – exclut notamment la déduction des paiements « au titre de capital ».
+[14] En dépit de la similarité des règles générales, les exceptions créent des différences quant à la capacité des contribuables qui tirent leur revenu de leur emploi et non d’une entreprise ou d’un bien de se prévaloir des déductions dans des circonstances en apparence similaires.
+[15] Dans le cas de l’employé qui autrement remplit les exigences de l’al. 8(1)f) sans toutefois être autorisé à demander une déduction parce que la dépense constitue un paiement « au titre du capital » au sens du sous‑al. 8(1)f)(v), la seule exception prévue par la Loi se trouve à l’al. 8(1)j). Cet alinéa permet la déduction des paiements au titre du capital lorsqu’il s’agit de l’acquisition d’un véhicule à moteur ou d’un aéronef, comme pour la déduction pour amortissement sous le régime de l’al. 20(1)a), comme nous allons le voir ci‑dessous. Il est également permis au contribuable employé de déduire les intérêts payés sur de l’argent emprunté pour l’acquisition de l’un ou l’autre de ces articles.
+[16] En revanche, le contribuable qui tire un revenu d’une entreprise ou d’un bien peut être autorisé à déduire les dépenses visées à l’al. 18(1)b) grâce à un certain nombre d’exceptions prévues dans la Loi. Deux des exceptions les plus fréquemment utilisées se trouvent aux al. 20(1)a) et b). L’alinéa 20(1)a) permet de déduire de ce revenu une partie du coût en capital de certains biens, si la déduction pour amortissement est prévue par règlement à l’égard de ce type de bien. L’alinéa 20(1)b) prévoit une déduction similaire pour les dépenses engagées pour l’acquisition d’immobilisations incorporelles, tel que l’achalandage. L’alinéa 20(1)c) est une disposition particulière permettant la déduction des intérêts payés sur de l’argent emprunté à certaines fins.
+[17] Le fait que, sous le régime de la Loi, les employés soient traités différemment des contribuables tirant un revenu d’une entreprise ou d’un bien n’a rien de nouveau ni d’équitable à première vue. Il a donné lieu à de nombreux litiges lorsque des contribuables ont tenté, parfois en vain, de se donner le statut d’entrepreneurs indépendants, plutôt que celui d’employés, pour bénéficier des déductions plus favorables.
+[12] Étant donné que l’appelant travaillait pour Westminster à titre de vendeur chargé de vendre des valeurs mobilières au public, seules les déductions prévues au paragraphe 8(1) de la Loi sont permises. À mon avis, la perte que l’appelant a subie à l’égard de la vente de 300 actions d’AT&T n’est pas déductible en vertu du paragraphe 8(1) de la Loi.
+[13] Compte tenu de l’analyse des faits que l’appelant a portés à la connaissance de la Cour, il semble que l’appelant pourrait déduire une perte en capital à l’égard de la perte qu’il a subie lors de la vente des 300 actions d’AT&T.
+[14] Les appels sont rejetés, sans dépens.
+Signé à Toronto (Ontario), ce 16e jour d’octobre 2007.
+« L.M. Little »
+Juge Little
+Traduction certifiée conforme
+ce 29e jour de novembre 2007.
+Johanne Brassard, trad. a.
+RÉFÉRENCE : 2007CCI620
+No DU DOSSIER DE LA COUR : 2006-2110(IT)G
+INTITULÉ : Virgiliu Gagea
+c.
+Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Le 27 août 2007
+MOTIFS DU JUGEMENT : L’honorable juge L.M. Little
+DATE DU JUGEMENT : Le 16 octobre 2007
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Me Justin Kutyan
+AVOCAT INSCRIT AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

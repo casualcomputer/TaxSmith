@@ -1,0 +1,114 @@
+Title: Pelletier c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29496/index.do
+Corpus path: corpus/cases/tcc/2009/2009-cci-541-29496-pelletier-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2009-10-27
+
+# Pelletier c. La Reine
+
+- Citation: 2009 CCI 541
+- Decision date: 2009-10-27
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6282, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Pelletier c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2009-10-27
+Référence neutre
+2009 CCI 541
+Numéro de dossier
+2009-241(IT)I
+Juges et Officiers taxateurs
+Réal Favreau
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2009-241(IT)I
+ENTRE :
+HELENE PELLETIER,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 27 juillet 2009, à Montréal (Québec).
+Devant : L’honorable juge Réal Favreau
+Comparutions :
+Pour l’appelante :
+L’appelante elle‑même
+Avocate de l’intimée :
+Me Antonia Paraherakis
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’encontre de la cotisation n° 46924, datée du 2 novembre 2007, établie à l’égard de l’appelante en vertu du paragraphe 160(1) de la Loi de l'impôt sur le revenu est rejeté.
+Signé à Montréal (Québec), ce 27e jour d’octobre 2009.
+« Réal Favreau »
+Juge Favreau
+Traduction certifiée conforme
+ce 13e jour de novembre 2009.
+Alya Kaddour-Lord, traductrice
+Référence : 2009 CCI 541
+Date : 20091027
+Dossier : 2009-241(IT)I
+ENTRE :
+HELENE PELLETIER,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Favreau
+[1] Il s’agit d’un appel interjeté à l’encontre de la cotisation n° 46924, datée du 2 novembre 2007, établie par le ministre du Revenu national (le « ministre ») à l’égard de l’appelante en vertu du paragraphe 160(1) de la Loi de l'impôt sur le revenu, L.R.C. (1985), ch. 1 (5e suppl.), dans sa version modifiée (la « Loi »), par laquelle le ministre a établi que l’appelante était tenue de payer un montant de 10 430,46 $ relatif aux biens que son époux, M. Peter D’Arcy Farrell, lui avait transférés entre le 20 avril 2000 et le 23 décembre 2005. L’appel sera entendu sous le régime de la procédure informelle.
+[2] Pendant les années d’imposition 2000, 2001 et 2002, M. Farrell a transféré à l’appelante un montant total de 9 400 $ sous forme de chèques et, le 26 décembre 2005, l’appelante a déposé dans son compte en banque des chèques s’élevant à un total de 710,46 $, lesquels avaient été établis à l’ordre de M. Farrell. Le ministre n’a pas remis en question les montants transférés à l’appelante, convenant que les transferts en cause s’élevaient bien à un total de 10 110,46 $.
+[3] L’appelante et M. Farrell se sont mariés en 1976. Ils ont été légalement séparés par un jugement de la Cour supérieure du Québec prononcé le 16 octobre 1986. Ce jugement comprend les conditions d’un acquiescement à jugement que l’appelante et son époux avaient signé le 29 août 1986, en vertu duquel l’appelante obtenait la garde de leur fils mineur, Michael, tandis que M. Farrell devait, chaque mois, payer une pension alimentaire de 1 000 $, continuer d’effectuer les paiements sur la voiture louée qui était en possession de l’appelante et rembourser à l’appelante les frais afférents à son véhicule, sur présentation des factures. M. Farrell n’a pas transféré à l’appelante les biens dont il est question au paragraphe 2 ci‑dessus en vertu de l’entente de séparation. L’appelante et M. Farrell ont vécu séparés jusqu’en 2001, avant de recommencer à vivre ensemble.
+[4] De 2000 à 2005, M. Farrell a vécu dans la province d’Ontario, où il exploitait une entreprise d’armoires de cuisine, tandis que l’appelante résidait à Mont‑Saint‑Hilaire, dans une maison achetée en 1994. M. Farrell a déclaré faillite le 4 mai 2006. À ce moment‑là, il devait 209 944,13 $ à l’Agence du revenu du Canada (l’« ARC ») au titre des impôts et des intérêts et pénalités afférents pour les années d’imposition 1998, 1999, 2000, 2001 et 2005.
+[5] L’appelante a interjeté appel de la cotisation établie à son égard au motif que les biens que M. Farrell lui a transférés étaient en fait des prêts visant à l’aider à un moment où elle connaissait de graves difficultés financières. Elle a également fait valoir qu’elle avait entièrement remboursé les prêts en question, principalement sous forme d’argent comptant. Comme preuve des remboursements partiels, l’appelante a produit des copies de trois chèques qu’elle avait établis à l’ordre de M. Farrell pour un montant total de 1 155 $, respectivement datés du 10 août 2000 (55 $), du 10 mars 2002 (300 $) et du 8 avril 2002 (800 $). Il n’y avait aucune note sur les chèques indiquant qu’ils avaient été émis en vue de rembourser des prêts.
+[6] Le revenu total que l’appelante a déclaré pour les années d’imposition 2000 à 2005 s’élevait à, par ordre chronologique : 15 394 $ pour 2000, 20 202 $ pour 2001, 28 153 $ pour 2002, 34 660 $ pour 2003, 38 546 $ pour 2004 et 41 513 $ pour 2005. En 2000, l’appelant était sans emploi, et elle n’a recommencé à travailler qu’en mars 2001. En juillet 2002, elle a été engagée par une compagnie d’assurances, Sun Life, et a gagné un meilleur salaire.
+[7] L’appelante a témoigné à l’audience, déclarant qu’il n’existait aucune preuve documentaire des prêts, à l’exception des chèques établis à l’ordre de M. Farrell qu’elle a encaissés. Il n’y a pas eu de contrat de prêt, de billet à ordre, d’enregistrement ni de dossier d’aucune sorte, pas plus que de document précisant les conditions du remboursement. L’appelante a expliqué que les prêts lui avaient été accordés en vertu d’une entente verbale informelle et qu’elle devait les rembourser dès qu’elle le pourrait. Elle a affirmé avoir effectué le paiement final à M. Farrell en 2008.
+[8] Dans une lettre datée du 14 octobre 2007 et adressée à l’ARC, l’appelante a expliqué pourquoi elle avait, le 26 décembre 2005, déposé des chèques établis à l’ordre de M. Farrell sur son propre compte en banque :
+[traduction]
+En décembre 2005, M. Farrell a perdu son emploi à Ottawa et a déménagé à Montréal. Je lui ai prêté de l’argent. Il m’a donc remboursée en me donnant ses chèques de paie, étant donné qu’il n’avait pas encore ouvert de compte en banque dans la région.
+[9] M. Farrell a également déposé, confirmant qu’il avait bien prêté des sommes d’argent à l’appelante et que celle‑ci l’avait intégralement remboursé. Il a ajouté qu’il avait effectué le suivi des sommes d’argent prêtées et remboursées, mais il n’a présenté aucune preuve documentaire en ce sens.
+Analyse
+[10] Le paragraphe 160(1) de la Loi s’applique lorsqu’une personne a transféré des biens, directement ou indirectement, au moyen d’une fiducie ou de toute autre façon, à son époux. En l’espèce, l’appelante était l’épouse de M. Farrell (ils étaient légalement séparés, mais n’avaient pas divorcé). L’appelante a reconnu avoir reçu des sommes d’argent de la part de M. Farrell. Par conséquent, on a satisfait aux exigences du paragraphe 160(1) de la Loi. Quand cette disposition s’applique, le bénéficiaire et l’auteur du transfert sont solidairement responsables du paiement d’une partie de l’impôt de l’auteur du transfert pour l’année d’imposition au cours de laquelle les biens ont été transférés ou pour une année d’imposition antérieure, dans la mesure où la valeur des biens qui ont été transférés était supérieure à la juste valeur marchande de la contrepartie reçue pour les biens. Pour avoir gain de cause, l’appelante doit démontrer qu’elle a donné une contrepartie licite pour les biens qui lui ont été transférés, autrement dit, qu’elle a intégralement remboursé les prêts.
+[11] D’après le paragraphe 152(8) de la Loi, une cotisation est réputée valide et exécutoire. Par conséquent, le fardeau de prouver que la cotisation était erronée ou injustifiée repose sur les épaules du contribuable.
+[12] En vertu du Code civil du Québec, un contrat verbal est valide et confère des droits aux parties tout comme il leur impose des obligations. Quand des tierces parties se trouvent concernées par un contrat verbal, les parties éprouvent souvent des difficultés à prouver l’existence dudit contrat.
+[13] En ce qui a trait aux questions fiscales, les contribuables doivent presque toujours fournir des preuves documentaires quand la preuve qu’ils ont déposée n’est pas concluante ou vague, quand les témoins ne sont pas crédibles ou quand les informations qu’ils ont fournies sont entachées de contradictions. En l’espèce, il était totalement justifié que l’ARC demande à l’appelante de produire des preuves documentaires relatives au remboursement des prêts étant donné que l’appelante n’a tenu aucun registre et que les informations qu’elle a fournies étaient entachées de contradictions.
+[14] Une de ces contradictions concernait les chèques mentionnés au paragraphe 5 ci‑dessus, lesquels ont été déposés en preuve du remboursement partiel des prêts. Deux de ces chèques étaient respectivement datés du 10 mars (300 $) et du 8 avril 2002 (800 $). Dans la lettre datée du 14 octobre 2007 qu’elle a envoyée à l’ARC, l’appelante a déclaré qu’en 2002, M. Farrell lui avait prêté 3 500 $ au cours des mois de mars (1 000 $), d’avril (500 $) et d’août (2 000 $). Ainsi, pendant les mois de mars et d’avril 2002, M. Farrell aurait prêté à l’appelante la somme de 1 500 $ et l’appelante lui aurait remboursé la somme de 1 100 $ au cours de ces mêmes mois. Cela m’a semblé très singulier et je me suis demandé pourquoi aucune compensation n’avait alors été effectuée.
+[15] La lettre datée du 14 octobre 2007 fait ressortir une autre contradiction. Dans l’extrait reproduit au paragraphe 8 ci‑dessus, l’appelante a fait référence au fait qu’elle avait prêté de l’argent à M. Farrell et que les chèques établis à l’ordre de ce dernier qu’elle a déposés dans son compte en banque visaient à rembourser ledit prêt. Dans son témoignage, l’appelante a simplement déclaré avoir déposé les chèques dans son compte en banque afin de pouvoir retirer de l’argent comptant et le donner à M. Farrell. Cet élément entre en contradiction avec l’existence du prêt que l’appelante est censée avoir consenti à M. Farrell.
+[16] Les contradictions dont il est question dans les deux paragraphes précédents portent sérieusement atteinte à la crédibilité de l’appelante. Je ne suis pas convaincu que les trois chèques établis à l’ordre de M. Farrell pour un montant total de 1 155 $ représentaient le remboursement partiel de prêts, et je serais enclin à penser que ces chèques pourraient très bien correspondre à des prêts consentis par l’appelante à M. Farrell. Comme la preuve présentée par l’appelante n’est pas concluante, la cotisation doit être maintenue. L’appelante avait la responsabilité de tenir un registre de ses transactions personnelles.
+[17] Par conséquent, l’appel est rejeté.
+Signé à Montréal (Québec), ce 27e jour d’octobre 2009.
+« Réal Favreau »
+Juge Favreau
+Traduction certifiée conforme
+ce 13e jour de novembre 2009.
+Alya Kaddour-Lord, traductrice
+RÉFÉRENCE : 2009 CCI 541
+NO DU DOSSIER DE LA COUR : 2009-241(IT)I
+INTITULÉ : Helene Pelletier et Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATE DE L’AUDIENCE : Le 27 juillet 2009
+MOTIFS DU JUGEMENT : L’honorable juge Réal Favreau
+DATE DU JUGEMENT : Le 27 octobre 2009
+COMPARUTIONS :
+Pour l’appelante :
+L’appelante elle‑même
+Avocate de l’intimée :
+Me Antonia Paraherakis
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous‑procureur général du Canada
+Ottawa, Canada

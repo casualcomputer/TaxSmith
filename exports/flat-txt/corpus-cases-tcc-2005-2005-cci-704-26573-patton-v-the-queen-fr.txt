@@ -1,0 +1,153 @@
+Title: Patton v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26573/index.do
+Corpus path: corpus/cases/tcc/2005/2005-cci-704-26573-patton-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2005-11-25
+
+# Patton v. The Queen
+
+- Citation: 2005 CCI 704
+- Decision date: 2005-11-25
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3581, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Patton v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-11-25
+Référence neutre
+2005 CCI 704
+Numéro de dossier
+2005-437(IT)I
+Juges et Officiers taxateurs
+Brent Paris
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2005-437(IT)I
+ENTRE :
+ERIN P. PATTON,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+_[TRADUCTION FRANÇAISE OFFICIELLE]
+___________________________________________________________________
+Appel entendu le 5 octobre 2005 à Kitchener (Ontario)
+Par : l’Honorable juge B. Paris
+Comparutions :
+Avocat de l’appelant :
+Me T.A. Cline
+Avocate de l’intimée :
+Me Amy Kendell
+____________________________________________________________________
+JUGEMENT
+L’appel de la cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2003 est accueilli avec dépens et la cotisation est renvoyée au ministre du Revenu national pour nouvel examen et nouvelle cotisation conformément aux motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 22e jour de novembre 2005.
+« B. Paris »
+Le juge Paris
+Traduction certifiée conforme
+ce 10e jour de février 2006
+Jean-Pierre Thouin, traducteur
+Référence : 2005CCI704
+Date : 20051125
+Dossier : 2005-437(IT)I
+ENTRE :
+ERIN P. PATTON,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+[1] La fille de l’appelant souffre de troubles d’apprentissage. Elle a participé au Programme Arrowsmith, à la Colin Macdonald Community School à Hamilton (Ontario), ce qui devait l’aider à surmonter ces difficultés. L’appelant a demandé un crédit d’impôt pour frais médicaux, pour son année d’imposition 2003, pour les frais qu’il a déboursé afin que sa fille fréquente ce programme ainsi que pour les frais engendrés par le trajet aller-retour quotidien de cette dernière de la résidence familiale située à Simcoe (Ontario) à l’école de Hamilton.
+[2] En établissant la cotisation de l’appelant, le ministre a autorisé la demande de crédit liée aux frais d’inscription au programme à titre de frais médicaux, en vertu de l’alinéa 118.2(2)e) de la Loi de l’impôt sur le revenu[1], mais il a refusé la portion de la demande liée aux frais de déplacement.
+[3] L’appelant interjette appel du refus de considérer les frais de déplacement comme des frais médicaux.
+[4] L’article 118.2 de la Loi prévoit quels montants constituent des frais médicaux aux fins d’une demande de crédit d’impôt. Plus précisément, l’alinéa 118.2(2)g) énonce les circonstances dans lesquelles les frais de déplacement constituent des frais médicaux. Voici le libellé des passages pertinents de cette disposition :
+118.2(2) Aux fins du paragraphe (1), une dépense médicale pour un individu est un montant payé à
+[…]
+g) à une personne dont l'activité est une entreprise de transport, dans la mesure où ce paiement se rapporte au transport, entre la localité où habitent le particulier […] et le lieu - situé à 40 kilomètres au moins de cette localité - où des services médicaux sont habituellement dispensés, ou vice-versa, des personnes suivantes:
+(i) le particulier […]
+[…]
+si les conditions suivantes sont réunies:
+(iii) il n'est pas possible d'obtenir dans cette localité des services médicaux sensiblement équivalents,
+(iv) l'itinéraire emprunté par le particulier […] est, compte tenu des circonstances, un itinéraire raisonnablement direct,
+(v) le particulier […]se rend […] en ce lieu afin d'obtenir des services médicaux pour [lui-même] et il est raisonnable, compte tenu des circonstances, qu'il[…] s'y rende[…] à cette fin;
+[5] La Loi prévoit également qu’une somme raisonnable peut constituer des frais de déplacement au sens de l’alinéa 118.2(2)g) lorsqu’aucun service de transport commercial n’est offert et qu’un particulier utilise son véhicule pour effectuer les déplacements qui, autrement, constitueraient des frais médicaux[2]. En l’espèce, l’appelant ou son épouse ont conduit quotidiennement leur fille au programme Arrowsmith et l’ont ensuite reconduite à leur domicile.
+[6] L’intimée concède que les frais de déplacement réclamés par l’appelant satisfont à toutes les conditions énoncées à l’alinéa 118.2(2)g) et au paragraphe 118.2(4) sauf à celle qui exige que les services obtenus par un particulier soient des « services médicaux ». Par conséquent, la question en litige est celle de savoir si les services reçus par la fille de l’appelant dans le cadre du Programme Arrowsmith étaient des services médicaux de telle sorte que les frais de déplacement encourus pour obtenir ces services constituent des frais médicaux.
+[7] La preuve a démontré que la fille de l’appelant souffrait d’un retard généralisé de son développement et de troubles spécifiques d’apprentissage, soit notamment de dyslexie et de problèmes en mathématique. Conformément à la recommandation de son médecin de famille, elle a fréquenté le Programme Arrowsmith à compter de 2001.
+[8] Ce programme a été élaboré à l’Arrowsmith School de Toronto (Ontario) qui a autorisé plusieurs écoles canadiennes et une école américaine à le dispenser. Selon le témoignage de Mme Andrea Pearson, une des coordinatrices du programme, ce dernier est fondé sur des principes neuroscientifiques et il vise à renforcer les capacités cognitives déficientes d’individus qui souffrent de troubles d’apprentissage. Chaque participant subit des tests dans 19 domaines de troubles puis, on élabore pour lui un programme individualisé d’exercices mentaux intensifs de difficulté croissante. Les exercices sont conçus pour stimuler les fonctions telles la mémoire visuelle, les capacités de raisonnement ou la perception auditive, de manière à aider l’enfant qui a des difficultés d’apprentissage à développer une capacité cognitive moyenne. Mme Pearson a insisté sur le fait que les exercices n’étaient pas « fondés sur le curriculum », mais qu’ils visaient plutôt à développer la partie du cerveau responsable des processus d’apprentissage déficients.
+[9] Le programme est offert par des personnes qui ont reçu une formation Arrowsmith intensive de trois semaines. Pour être autorisée à suivre cette formation, une personne doit être détentrice d’un diplôme d’études postsecondaires. La plupart d’entre elles sont également détentrices d’un diplôme en éducation et sont des enseignants certifiés. Leur travail auprès des participants au programme est supervisé par les coordinateurs d’Arrowsmith, telle Mme Pearson, qui examinent les dossiers de traitement de chaque élève et donnent régulièrement des comptes-rendus.
+[10] À la Colin Macdonald Community School, le Programme Arrowsmith est offert à mi-temps. Ainsi, une demi-journée est consacrée aux exercices cognitifs déjà décrits et l’autre à des études théoriques. Mis à part l’un d’entre eux qui détient un certificat d’aide-éducateur, tous les membres du personnel de la Colin Macdonald Community School affectés au programme ont un diplôme en enseignement. Aucun d’entre eux n’a de compétence ou de formation médicales.
+Arguments
+[11] L’avocat de l’appelant a fait valoir que le Programme Arrowsmith a offert une formation ou un traitement conçu précisément pour traiter un problème médical. Il a affirmé que le programme constituait une forme de traitement médical pour la fille de M. Patton et était fondé sur l’analyse médicale et le diagnostic de son médecin de famille.
+[12] Selon lui, il faut interpréter le terme « services médicaux » qui figure à l’alinéa 118.2(2)g) de manière large et les services en question ne devraient pas être restreints uniquement à ceux offerts par un médecin.
+[13] Il a référé à l’article 12 de la Loi d’interprétation qui prévoit :
+Tout texte est censé apporter une solution de droit et s’interprète de la manière la plus équitable et la plus large qui soit compatible avec la réalisation de son objet.
+[14] Il a également fait référence à la décision Collins c. La Reine, 1998 CanLII 190 (CCI), dans laquelle la présente Cour a refusé d’interpréter étroitement le libellé de l’alinéa 118.2(2)e), qui permet de demander un crédit d’impôt pour le coût des soins ou pour celui des soins et de la formation dispensés dans des écoles spéciales pour les particuliers qui souffrent d’un handicap mental ou physique.
+[15] L’avocate de l’intimée a soutenu que le terme « services médicaux » qui figure à l’alinéa 118.2(2)g), devrait être interprété pour n’inclure que les services offerts par un médecin, ce qui n’est pas le cas du Programme Arrowsmith. Elle a déclaré que ce dernier n’était pas un service médical, mais un service éducatif offert dans un contexte scolaire. Au soutien de cet argument, elle a cité le passage suivant d’une lettre du médecin de la fille de l’appelant :
+[TRADUCTION]
+Je suis le médecin traitant de cette enfant qui souffre de difficultés d’apprentissage. Elle ne fait des progrès que depuis qu’elle fréquente le programme d’une école alternative; soit le Programme Arrowsmith de la Colin Macdonald Alternative School. Je recommande fortement qu’elle continue à fréquenter cet environnement scolaire.
+[...] Elle ne réussira pas beaucoup d’études sauf dans le contexte d’un programme intensif individualisé comme celui du Programme Arrowsmith […]
+[...]
+(Souligné dans l’original)
+[16] Selon l’avocate, il ressort clairement de cette lettre que les services étaient de nature éducative.
+[17] Elle s’est également fondée sur la définition anglaise suivante du mot « medical » donnée par le Webster’s Dictionary pour appuyer sa thèse selon laquelle il faudrait exiger qu’une personne qui offre les services ait une formation médicale officielle :
+[...] of, relating to, or concerned with physicians or the practice of medicine
+[18] Finalement, l’avocate a fait référence à la décision St. Laurent c. Sun Life Assurance Co. of Canada, 52 D.L.R. (4th) 569 dans laquelle la Cour d’appel du Nouveau-Brunswick a affirmé à la page 3 :
+[TRADUCTION]
+...The term medical services implies a degree of immediate control by a medically trained person such as a doctor, nurse or physiotherapist. It must, in our opinion, be something more than the mere taking of prescribed medication.
+Analyse
+[19] Le litige, en l’espèce, porte sur la question de savoir si les « services médicaux » visés à l’alinéa 118.2(2)g) peuvent être offerts par une personne autre qu’un médecin ou un individu qui a reçu une formation médicale. L’intimée dit simplement que seule une personne qui a suivi une formation médicale ou qui a des compétences médicales professionnelles peut offrir ces services médicaux. L’appelant fait plutôt valoir que l’objectif visé par les services devrait déterminer s’ils sont ou non des services médicaux et que les services ayant été obtenus, en l’espèce, comme suite à la recommandation d’un médecin et dans le but de traiter un état pathologique, ils devraient constituer des services médicaux.
+[20] L’expression « services médicaux » n’est pas définie dans la Loi. Il faut donc déterminer s’il est raisonnable qu’elle ait plus d’un sens et, le cas échéant, quel sens est le plus rapproché de l’intention du législateur lorsqu’il a édicté la disposition.
+[21] Je considère que les commentaires émis dans la cause St. Laurent c. Sun Life Assurance Co. of Canada (précitée) ne sont pas utiles en l’espèce. Dans cette affaire, la Cour s’est penchée sur l’interprétation d’un contrat d’assurance et devait déterminer si le fait de prendre des médicaments sur ordonnance revenait à recevoir [TRADUCTION] « des services médicalement requis ». La référence de la Cour à des services médicaux avait trait aux circonstances particulières de cette cause, très différentes du contexte dans lequel l’expression est utilisée en l’espèce.
+[22] En plus de la définition de l’adjectif anglais « medical » citée par l’avocate de l’intimée, voici celle donnée par le Canadian Oxford Dictionary (2002) :
+Medical [...] of or relating to the science or practive of medicine in general.
+[23] Ainsi, « médical » peut vouloir dire soit [TRADUCTION] « lié à la science de la médecine » soit « lié à la pratique de la médecine ». Il en découle que l’expression « services médicaux » peut raisonnablement avoir plus d’un sens, le plus large étant [TRADUCTION] « services liés à la science de la médecine ».
+[24] Le nom anglais « medicine » est défini comme suit dans le Canadian Oxford Dictionary :
+[...] the science or practice of the diagnosis, treatment, and prevention of desease, […]
+(d’un point de vue technique, on considère souvent qu’elle exclut la chirurgie.)
+[25] Par conséquent, les « services médicaux » consisteraient en des services liés à la pose de diagnostics, au traitement et à la prévention de la maladie.
+[26] La version française de la Loi de l’impôt sur le revenu utilise l’expression « services médicaux » pour rendre l’expression anglaise « medical services ». La définition de « médical » dans Le Petit Robert, nouvelle édition 2002 est la suivante : « Qui concerne la médecine », celle de « médecine » : « [...] Science, ensemble de techniques et de pratiques qui a pour objet la conservation et le rétablissement de la santé; art de prévenir et de soigner les maladies de l’homme. » Cette définition est compatible avec le sens plus large du mot anglais « medicine » donné par le Canadian Oxford English Dictionary.
+[27] Le contexte dans lequel l’expression « services médicaux » est utilisée dans la présente cause milite en faveur de la conclusion selon laquelle elle inclurait tous les services liés à la science qui consiste à poser des diagnostiques, à traiter et à prévenir la maladie et ne serait pas limitée à ceux offerts par un médecin ou une personne formée dans le domaine médical.
+[28] Premièrement, l’alinéa 118.2(2)g) ne précise pas que le service en question doit être fourni par un médecin ou une personne de ce type. Si le législateur avait eu l’intention de limiter l’application de la disposition tel que le suggère l’intimée, il aurait pu le préciser comme il l’a fait à l’alinéa 118.2(2)a) qui prévoit que les frais pour les services médicaux ou dentaires « payés à un médecin, à un dentiste, à une infirmière ou un infirmier, à un hôpital public ou à un hôpital privé » constituent des frais médicaux.
+[29] Deuxièmement, les frais payés par l’appelant pour que sa fille participe au Programme Arrowsmith sont traités comme des frais médicaux en vertu de l’alinéa 118.2(2)e) de la Loi. Il serait incohérent de traiter les frais pour les services comme des frais médicaux d’une part et de nier d’autre part qu’il s’agissait de services médicaux.
+[30] Je conclus également que l’interprétation suggérée par l’avocat de l’appelant serait davantage compatible avec l’intention du législateur lorsqu’il a édicté la disposition. En effet, les dispositions relatives au crédit d’impôt pour frais médicaux, dont fait partie le paragraphe 118.2(2), visent à donner un allègement fiscal à une personne qui souffre d’une pathologie pour les coûts additionnels associés au traitement de sa condition. Une dépense de déplacement occasionnée dans le but d’obtenir un traitement qui n’est pas offert dans la localité où habite le contribuable est un frais additionnel de ce type.
+[31] Conclure que les services reçus par la fille de l’appelant grâce au Programme Arrowsmith n’étaient pas des services médicaux ferait, selon moi, échec à l’intention du législateur, surtout à la lumière du fait qu’il a reconnu que les coûts des services eux-mêmes constituent une dépense médicale. J’estime qu’interpréter l’expression « services médicaux » de manière à ce qu’elle exige que les services soient offerts par un médecin reviendrait à lui donner une interprétation trop restrictive. Comme l’a déclaré la Cour d’appel fédérale dans Johnston c. La Reine[3], les dispositions de la Loi « ne doivent pas recevoir une interprétation trop restrictive qui nuirait à l"intention du législateur, voire irait à l’encontre de celle-ci. »
+[32] En conclusion, j’estime que les services offerts par le Programme Arrowsmith sont des services médicaux. Les activités auxquelles s’adonnent les participants au programme consistent en une forme de thérapie neurologique conçue pour traiter une pathologie. Une telle thérapie a été offerte précisément dans le but de renforcer les capacités cognitives déficientes les plus faibles à l’origine des troubles d’apprentissage des participants. Selon la preuve non contredite produite au nom de l’appelant, les techniques utilisées dans le cadre du programme sont fondées sur la neuroscience et incluent le diagnostic et le traitement du trouble dont souffre la fille de l’appelant. À ce titre, elles sont liées à la science de la médecine et sont des services médicaux.
+[33] Par conséquent, l’appel est accueilli avec dépens.
+Signé à Ottawa, Canada, ce 25e jour de novembre 2005.
+« B. Paris »
+Le juge Paris
+Traduction certifiée conforme
+ce 10e jour de février 2006
+Jean-Pierre Thouin, traducteur
+RÉFÉRENCE : 2005CCI704
+DOSSIER DE LA COUR : 2005-437(IT)I
+INTITULÉ : ERIN P. PATTON ET SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Kitchener (Ontario)
+DATE DE L’AUDIENCE : Le 5 octobre 2005
+MOTIFS DU JUGEMENT PAR : L’honorable juge Paris
+DATE DU JUGEMENT: Le 25 novembre 2005
+COMPARUTIONS :
+Avocat de l’appelant :
+Me T.A. Cline
+Avocate de l’intimée :
+Me Amy Kendell
+AVOCATS AU DOSSIER :
+Pour l’appelant :
+Nom : Me T.A. Cline
+Cabinet : Cline, Backus, et al.
+Pour l’intimée : John H. Sims, C.R.
+Sous-procureur général du Canada
+Ottawa (Ontario)
+[1] 23e éd., 2003, L.R.C. 1985 ch. 1 (5e suppl.).
+[2] Le passage pertinent du paragraphe 118.2(4) prévoit :
+Dans le cas où une personne dont l'activité est une entreprise de transport n'est pas immédiatement disponible, le particulier qui utilise un véhicule à une fin décrite à l'alinéa (2)g) […] est réputé avoir payé à une telle personne la somme jugée raisonnable dans les circonstances pour le fonctionnement du véhicule.
+[3] Johnson c. la Reine, 98 DTC 6169 au paragraphe 11.

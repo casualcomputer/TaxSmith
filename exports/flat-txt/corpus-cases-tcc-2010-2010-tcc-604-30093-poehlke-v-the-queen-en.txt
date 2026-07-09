@@ -1,0 +1,196 @@
+Title: Poehlke v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30093/index.do
+Corpus path: corpus/cases/tcc/2010/2010-tcc-604-30093-poehlke-v-the-queen-en.md
+Document type: case_law
+Last modified: 2010-11-25
+
+# Poehlke v. The Queen
+
+- Citation: 2010 TCC 604
+- Decision date: 2010-11-25
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7625, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Poehlke v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-11-25
+Neutral citation
+2010 TCC 604
+File numbers
+2009-3018(IT)I
+Judges and Taxing Officers
+Eric A. Bowie
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2009-3018(IT)I
+BETWEEN:
+CHARLOTTE W. POEHLKE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on September 28, 2010, at Vancouver, British Columbia
+By: The Honourable JusticeE.A. Bowie
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Robin Whittaker
+____________________________________________________________________
+JUDGMENT
+The purported appeals from reassessments made under the Income Tax Act for the 1999, 2000, 2001, 2002, 2003 and 2008 taxation years are quashed.
+The appeals from reassessments made under the Act for the 2004, 2005, 2006 and 2007 taxation years are dismissed.
+Signed at Ottawa, Canada, this 25th day of November, 2010.
+“E.A. Bowie”
+Bowie J.
+Citation: 2010 TCC 604
+Date: 20101125
+Docket: 2009-3018(IT)I
+BETWEEN:
+CHARLOTTE W. POEHLKE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Bowie J.
+[1] Ms. Poehlke purports to appeal from income tax reassessments for the taxation years 1999 to 2008 inclusive. At the opening of the hearing counsel for the respondent moved to quash the appeals for the taxation years 1999 to 2003 and 2008. The evidence before me showed that the appellant had been reassessed, and received refunds of tax, in respect of the years 1999, 2000, 2001, 2002 and 2003 under the provisions of subsections 152(4.2) and 164(1.5) of the Income Tax Act[1] (the Act). Subsection 165(1.2) provides that a reassessment made under subsection 152(4.2) may not be the subject of a notice of objection, and it therefore cannot be appealed from, by reason of the opening words of subsection 169(1). The evidence also showed that the appellant had not filed a notice of objection with respect to the 2008 taxation year, and so she is unable to appeal from that assessment as well. I therefore must quash the appeals for the taxation years 1999 through 2003 and 2008.
+[2] The appeals for 2004, 2005, 2006 and 2007 are properly before the Court, and they were heard on October 28, 2010 under the informal procedure. They are concerned with the appellant’s claim that she is entitled to a disability tax credit in each of those years in respect of her younger son. The entitlement to the credit in question arises under sections 118.3 and 118.4 of the Act. The relevant parts of those sections were amended by S.C. 2006, c. 4 s. 63(2) applicable to the 2005 and later years. Ms. Poehlke’s appeal for the year 2004 is therefore governed by the pre-amendment provisions, and her appeals for 2005, 2006 and 2007 are governed by the post-amendment provisions.
+[3] For convenience, subsections 152(4.2), 164(1.5), 165(1.2), 169(1) and the relevant parts of sections 118.3 and 118.4 before and after the amendment are reproduced as an appendix to these Reasons.
+[4] The evidence before me, insofar as it relates to the disability claim, consists of the oral testimony of the appellant, and certain documents that were identified by an officer of the Canada Revenue Agency Disability Tax Credit Unit. These are a Disability Tax Credit Certificate (“DTCC”) in respect of the appellant’s younger son, completed by Dr. M.G. Frey, a questionnaire completed by him at the request of the Agency, and a Psycho-Educational Report completed by Maryam Naser, a School Psychologist for Richmond School District No. 38. By reason of subsection 118.3(4) of the Act, the questionnaire is deemed to be part of Dr. Frey’s DTCC.
+[5] To succeed in these appeals, the appellant must show that her son suffered from a prolonged impairment that made him unable to perform a basic activity of daily living, or caused him to require an inordinate amount of time to do so. Prolonged means an impairment that can reasonably be expected to last for a continuous period of at least 12 months.[2] The Act defines the term “basic activity of daily living” in paragraph 118.4(1)(c). For 2004 the definition that is relevant to these appeals is “perceiving, thinking and remembering.” By reason of the 2006 amendment to the Act, the relevant definition for the taxation years 2005, 2006 and 2007 is “mental functions necessary for everyday life,” and these are defined by paragraph 118.4(c.1) to include;
+(i) memory,
+(ii) problem solving, goal setting and judgment (taken together) and,
+(iii) adaptive functioning;
+The respondent’s position is that the evidence does not establish that the appellant’s son’s condition satisfies the test, either before or after the 2006 amendment. It is not disputed, however, that if his condition does meet the test then it can reasonably be expected to last for a continuous period of at least 12 months.
+[6] Dr. Frey’s initial opinion, expressed on the Minister’s form T2201, is cryptic. He Indicated that the patient is markedly restricted in performing the mental functions necessary for everyday life, and has been since birth. He added that the patient needs learning assistance at school, and summarized his opinion by stating that he is a student with a mild intellectual disability. In completing a questionnaire in August 2008, which must be read as part of the original form T2201, he said that the patient can perform the daily living skills expected at his age, and he can make age-appropriate decisions and follow instructions. He has the ability to socialize with his peers, and has no severe memory deficit. He does not require an inordinate amount of time to perform the mental functions required for everyday living. His disabilities, according to Dr. Frey, relate to school and academic achievement, and are not behavioural. He ends his opinion by stating that the patient should be able to finish school and live independently, and that he suffers from a mild intellectual disability.
+[7] Ms. Naser’s Psycho-Educational Report is not inconsistent with the whole of Dr. Frey’s opinion. It is more detailed, consisting of 10 pages followed by three pages of test results. It indicates that the appellant’s son has poor skill levels in verbal communication and mathematics, but that his processing speed in performing cognitive tasks and his visual memory skills are within the average range. She describes him as a student with a mild intellectual disability, and recommends a modified school program designed to meet his learning needs. She says that he would benefit from learning activities that focus on such concepts as time, money and measurement.
+[8] On the basis of this evidence, I cannot conclude that the appellant’s son in 2004 was unable, or required an inordinate amount of time, to perceive think or remember, or that in 2005, 2006 or 2007 he lacked the mental functions necessary for everyday life as they are defined in the Act. I therefore must dismiss the appeals.
+Signed at Ottawa, Canada, this 25th day of November, 2010.
+“E.A. Bowie”
+Bowie J.
+APPENDIX
+152(4.2) Notwithstanding subsections (4), (4.1) and (5), for the purpose of determining, at any time after the end of the normal reassessment period of a taxpayer who is an individual (other than a trust) or a testamentary trust in respect of a taxation year, the amount of any refund to which the taxpayer is entitled at that time for the year, or a reduction of an amount payable under this Part by the taxpayer for the year, the Minister may, if the taxpayer makes an application for that determination on or before the day that is ten calendar years after the end of that taxation year,
+(a) reassess tax, interest or penalties payable under this Part by the taxpayer in respect of that year; and
+(b) redetermine the amount, if any, deemed by subsection 120(2) or (2.2), 122.5(3), 122.51(2), 122.7(2) or (3), 127.1(1), 127.41(3) or 210.2(3) or (4) to be paid on account of the taxpayer’s tax payable under this Part for the year or deemed by subsection 122.61(1) to be an overpayment on account of the taxpayer’s liability under this Part for the year.
+164(1.5) Notwithstanding subsection 164(1), the Minister may, on or after mailing a notice of assessment for a taxation year, refund all or any portion of any overpayment of a taxpayer for the year
+(a) if the taxpayer is an individual (other than a trust) or is a testamentary trust and the taxpayer’s return of income under this Part for the year was filed on or before the day that is ten calendar years after the end of the taxation year;
+(b) …
+165(1.2) Notwithstanding subsections 165(1) and 165(1.1), no objection may be made by a taxpayer to an assessment made under subsection 118.1(11), 152(4.2), 169(3) or 220(3.1) nor, for greater certainty, in respect of an issue for which the right of objection has been waived in writing by the taxpayer.
+169(1) Where a taxpayer has served notice of objection to an assessment under section 165, the taxpayer may appeal to the Tax Court of Canada to have the assessment vacated or varied after either
+(a) the Minister has confirmed the assessment or reassessed, or
+(b) 90 days have elapsed after service of the notice of objection and the Minister has not notified the taxpayer that the Minister has vacated or confirmed the assessment or reassessed,
+but no appeal under this section may be instituted after the expiration of 90 days from the day notice has been mailed to the taxpayer under section 165 that the Minister has confirmed the assessment or reassessed.
+BEFORE AMDENDMENT IN 2006
+118.3(1) Where
+(a) an individual has a severe and prolonged mental or physical impairment,
+(a.1) the effects of the impairment are such that the individual's ability to perform a basic activity of daily living is markedly restricted,
+(a.2) a medical doctor, or where the impairment is an impairment of sight, a medical doctor or an optometrist, has certified in prescribed form that the individual has a severe and prolonged mental or physical impairment the effects of which are such that the individual's ability to perform a basic activity of daily living is markedly restricted,
+(b) the individual has filed for a taxation year with the Minister the certificate described in paragraph (a.2), and
+(c) no amount in respect of remuneration for an attendant or care in a nursing home, in respect of the individual, is included in calculating a deduction under section 118.2 (otherwise than by reason of paragraph (2)(b.1) thereof) for the year by the individual or by any other person,
+for the purposes of computing the tax payable under this Part by the individual for the year, there may be deducted an amount determined by the formula
+A x $4,118
+where
+A is the appropriate percentage for the year.
+118.3(4) Where a claim under this section or under section 118.8 is made in respect of an individual's impairment
+(a) if the Minister requests in writing information with respect to the individual's impairment, its effects on the individual and, where applicable, the therapy referred to in paragraph (1)(a.1) that is required to be administered, from any person referred to in subsection (1) or (2) or section 118.8 in connection with such a claim, that person shall provide the information so requested to the Minister in writing; and
+(b) if the information referred to in paragraph (a) is provided by a person referred to in paragraph (1)(a.2), the information so provided is deemed to be included in a certificate in prescribed form.
+118.4(1) For the purposes of subsection 6(16), sections 118.2 and 118.3 and this subsection,
+(a) an impairment is prolonged where it has lasted, or may reasonably be expected to last, for a continuous period of at least 12 months;
+(b) an individual's ability to perform a basic activity of daily living is markedly restricted only where all or substantially all of the time, even with therapy and the use of appropriate devices and medication, the individual is blind or is unable (or requires an inordinate amount of time) to perform a basic activity of daily living;
+(c) a basic activity of daily living in relation to an individual means
+(i) perceiving, thinking and remembering,
+(ii) feeding and dressing oneself,
+(iii) speaking so as to be understood, in a quiet setting, by another person familiar with the individual,
+(iv) hearing so as to understand, in a quiet setting, another person familiar with the individual,
+(v) eliminating (bowel or bladder functions), or
+(vi) walking; and
+(d) for greater certainty, no other activity, including working, housekeeping or a social or recreational activity, shall be considered as a basic activity of daily living.
+AFTER AMENDMENT IN 2006 (CURRENT VERSION)
+118.3(1) Where
+(a) an individual has one or more severe and prolonged impairments in physical or mental functions,
+(a.1) the effects of the impairment or impairments are such that the individual’s ability to perform more than one basic activity of daily living is significantly restricted where the cumulative effect of those restrictions is equivalent to having a marked restriction in the ability to perform a basic activity of daily living or are such that the individual’s ability to perform a basic activity of daily living is markedly restricted or would be markedly restricted but for therapy that
+(i) is essential to sustain a vital function of the individual,
+(ii) is required to be administered at least three times each week for a total duration averaging not less than 14 hours a week, and
+(iii) cannot reasonably be expected to be of significant benefit to persons who are not so impaired,
+(a.2) in the case of an impairment in physical or mental functions the effects of which are such that the individual’s ability to perform a single basic activity of daily living is markedly restricted or would be so restricted but for therapy referred to in paragraph (a.1), a medical practitioner has certified in prescribed form that the impairment is a severe and prolonged impairment in physical or mental functions the effects of which are such that the individual’s ability to perform a basic activity of daily living is markedly restricted or would be markedly restricted, but for therapy referred to in paragraph (a.1), where the medical practitioner is a medical doctor or, in the case of
+(i) a sight impairment, an optometrist,
+(ii) a speech impairment, a speech-language pathologist,
+(iii) a hearing impairment, an audiologist,
+(iv) an impairment with respect to an individual’s ability in feeding or dressing themself, an occupational therapist,
+(v) an impairment with respect to an individual’s ability in walking, an occupational therapist, or after February 22, 2005, a physiotherapist, and
+(vi) an impairment with respect to an individual’s ability in mental functions necessary for everyday life, a psychologist,
+(a.3) in the case of one or more impairments in physical or mental functions the effects of which are such that the individual’s ability to perform more than one basic activity of daily living is significantly restricted, a medical practitioner has certified in prescribed form that the impairment or impairments are severe and prolonged impairments in physical or mental functions the effects of which are such that the individual’s ability to perform more than one basic activity of daily living is significantly restricted and that the cumulative effect of those restrictions is equivalent to having a marked restriction in the ability to perform a single basic activity of daily living, where the medical practitioner is, in the case of
+(i) an impairment with respect to the individual’s ability in feeding or dressing themself, or in walking, a medical doctor or an occupational therapist, and
+(ii) in the case of any other impairment, a medical doctor,
+has certified in prescribed form that the impairment is a severe and prolonged mental or physical impairment the effects of which are such that the individual’s ability to perform a basic activity of daily living is markedly restricted or would be markedly restricted but for therapy referred to in paragraph (a.1),
+(b) the individual has filed for a taxation year with the Minister the certificate described in paragraph (a.2) or (a.3), and
+(c) no amount in respect of remuneration for an attendant or care in a nursing home, in respect of the individual, is included in calculating a deduction under section 118.2 (otherwise than because of paragraph 118.2(2)(b.1)) for the year by the individual or by any other person,
+there may be deducted in computing the individual’s tax payable under this Part for the year the amount determined by the formula
+A × (B + C)
+where
+A is the appropriate percentage for the year,
+B is $6,000, and
+C is
+(a) where the individual has not attained the age of 18 years before the end of the year, the amount, if any, by which
+(i) $3,500
+exceeds
+(ii) the amount, if any, by which
+(A) the total of all amounts each of which is an amount paid in the year for the care or supervision of the individual and included in computing a deduction under section 63, 64 or 118.2 for a taxation year
+exceeds
+(B) $2,050, and
+(b) in any other case, zero.
+118.3(4) Where a claim under this section or under section 118.8 is made in respect of an individual's impairment
+(a) if the Minister requests in writing information with respect to the individual's impairment, its effects on the individual and, where applicable, the therapy referred to in paragraph (1)(a.1) that is required to be administered, from any person referred to in subsection (1) or (2) or section 118.8 in connection with such a claim, that person shall provide the information so requested to the Minister in writing; and
+(b) if the information referred to in paragraph (a) is provided by a person referred to in paragraph (1)(a.2), the information so provided is deemed to be included in a certificate in prescribed form.
+118.4(1) For the purposes of subsection 6(16), sections 118.2 and 118.3 and this subsection,
+(a) an impairment is prolonged where it has lasted, or can reasonably be expected to last, for a continuous period of at least 12 months;
+(b) an individual’s ability to perform a basic activity of daily living is markedly restricted only where all or substantially all of the time, even with therapy and the use of appropriate devices and medication, the individual is blind or is unable (or requires an inordinate amount of time) to perform a basic activity of daily living;
+(b.1) an individual is considered to have the equivalent of a marked restriction in a basic activity of daily living only where all or substantially all of the time, even with therapy and the use of appropriate devices and medication, the individual’s ability to perform more than one basic activity of daily living (including for this purpose, the ability to see) is significantly restricted, and the cumulative effect of those restrictions is tantamount to the individual’s ability to perform a basic activity of daily living being markedly restricted;
+(c) a basic activity of daily living in relation to an individual means
+(i) mental functions necessary for everyday life,
+(ii) feeding oneself or dressing oneself,
+(iii) speaking so as to be understood, in a quiet setting, by another person familiar with the individual,
+(iv) hearing so as to understand, in a quiet setting, another person familiar with the individual,
+(v) eliminating (bowel or bladder functions), or
+(vi) walking;
+(c.1) mental functions necessary for everyday life include
+(i) memory,
+(ii) problem solving, goal-setting and judgement (taken together), and
+(iii) adaptive functioning;
+(d) for greater certainty, no other activity, including working, housekeeping or a social or recreational activity, shall be considered as a basic activity of daily living; and
+(e) feeding oneself does not include
+(i) any of the activities of identifying, finding, shopping for or otherwise procuring food, or
+(ii) the activity of preparing food to the extent that the time associated with the activity would not have been necessary in the absence of a dietary restriction or regime; and
+(f) dressing oneself does not include any of the activities of identifying, finding, shopping for or otherwise procuring clothing.
+CITATION: 2010 TCC 604
+COURT FILE NO.: 2009-3018(IT)I
+STYLE OF CAUSE: CHARLOTTE W. POEHLKE and
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: Vancouver, British Columbia
+DATE OF HEARING: September 28, 2010
+REASONS FOR JUDGMENT BY: The Honourable Justice E.A. Bowie
+DATE OF JUDGMENT: November 25, 2010
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Robin Whittaker
+COUNSEL OF RECORD:
+For the Appellant:
+Name: N/A
+Firm: N/A
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] R.S. 1985 c.1 (5th supp.), as amended.
+[2] Subsection 118.4(1)of the Act.

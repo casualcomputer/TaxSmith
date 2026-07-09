@@ -1,0 +1,116 @@
+Title: Swain c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30979/index.do
+Corpus path: corpus/cases/tcc/2012/2012-cci-323-30979-swain-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2012-10-09
+
+# Swain c. La Reine
+
+- Citation: 2012 CCI 323
+- Decision date: 2012-10-09
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4797, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Swain c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2012-10-09
+Référence neutre
+2012 CCI 323
+Numéro de dossier
+2009-2694(IT)G, 2009-2695(IT)G, 2009-3864(IT)G
+Juges et Officiers taxateurs
+Patrick J. Boyle
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossiers : 2009-3864(IT)G
+2009-2694(IT)G
+2009-2695(IT)G
+ENTRE :
+MARGARET SWAIN,
+RANDALL W. MARUSYK,
+SCOTT R. MILLER,
+appelants,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Observations quant aux dépens datées du 15 mars 2012 et du 13 avril 2012 relativement au jugement rendu le 10 février 2012.
+Devant : L’honorable juge Patrick Boyle
+Avocats des appelants :
+Me Matthew G. Williams
+Me Shaun Doody
+Avocate de l’intimée :
+Me Suzanie Chua
+____________________________________________________________________
+ORDONNANCE
+Vu les motifs du jugement rendu le 10 février 2012 dans les appels interjetés par Margaret Swain (2009-3864(IT)G), Randall W. Marusyk (2009‑2694(IT)G) et Scott R. Miller (2009-2695(IT)G), qui ont été entendus sur preuve commune le 2 juin 2011, à Ottawa, Canada;
+Et vu les observations quant aux dépens des deux parties et conformément aux motifs du jugement;
+L’intimée se voit adjuger des dépens de 25 000 $, plus des débours, payables en parts égales par chacun des appelants, à acquitter au plus tard 60 jours après la date de la présente ordonnance.
+Signé à Vancouver (Colombie‑Britannique), ce 9e jour d’octobre 2012.
+« Patrick Boyle »
+Juge Boyle
+Traduction certifiée conforme
+ce 23e jour de janvier 2013.
+Mario Lagacé, jurilinguiste
+Référence : 2012CCI323
+Date : 20121009
+Dossiers : 2009-3864(IT)G
+2009-2694(IT)G
+2009-2695(IT)G
+ENTRE :
+MARGARET SWAIN,
+RANDALL W. MARUSYK,
+SCOTT R. MILLER,
+appelants,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE
+Le juge Boyle
+[1] Les trois présents appels ont été entendus ensemble au cours d’un procès d’une journée qui s’est tenu en juin 2011. Les appels ont été rejetés, avec dépens, en février 2012. L’intimée a déposé des observations écrites à l’appui de sa demande de fixer les dépens à un total de 25 000 $, plus les débours. Cette demande se justifie principalement par le fait que l’intimée avait présenté aux appelants une offre écrite de règlement plus favorable. Dans leurs observations écrites, les appelants ont souligné le fait que la somme de 25 000 $ que l’intimée réclame représente trois fois le tarif applicable. Les appelants ne laissent pas entendre que, si l’offre de règlement de l’intimée justifie l’octroi de dépens sur une base d’indemnisation substantielle après la date de l’offre, le montant de 25 000 $ n’est pas convenable.
+[2] Les appelants ont demandé la déduction de certaines pertes au titre du revenu en tant que pertes subies par leur cabinet d’avocats. Leur position n’a pas été retenue. La position adoptée par les appelants au procès était singulière, incohérente et très incomplète, malgré le fait que les appelants soient de bons avocats et qu’ils aient été représentés par un avocat en droit fiscal très compétent. Ils n’ont pas présenté de preuves suffisantes pour ne serait-ce qu’appuyer le fait que la perte en question était une perte en capital au titre de l’impôt. Les éléments de preuve qui ont été présentés laissaient entrevoir qu’il était fort possible que, pour ce qui est du montant total en cause, un des avocats ait été personnellement dupé.
+[3] L’intimée a présenté une offre écrite de règlement en novembre 2010. Il s’agissait d’une offre claire de régler le litige en partant du principe que le montant total de la perte que les appelants souhaitaient déduire de leur revenu serait traité comme une perte en capital pour l’année de la perte. Les appelants n’ont pas accepté cette offre. Les appelants prétendent maintenant avoir cru que leur perte était une perte au titre du revenu et, en outre, que traiter cette perte comme une perte en capital ne leur aurait été d’aucune utilité, vu qu’aucun d’entre eux n’avait de gain en capital à compenser.
+[4] Dans leurs observations écrites, les appelants ont demandé, considérant que j’ai noté dans les motifs que j’ai rendus que Mme Swain semblait avoir été dupée, à ne pas être pénalisés encore davantage par l’adjudication de dépens plus élevés. Étant donné que les appelants étaient maîtres du récit qu’ils ont présenté et que j’ai conclu qu’ils ne m’avaient raconté qu’une partie de l’histoire, il m’est difficile de ne pas penser à l’histoire de la personne condamnée pour le meurtre de ses parents qui a eu l’effronterie d’implorer la clémence du tribunal en invoquant le fait qu’elle était orpheline.
+[5] On demande depuis longtemps aux parties de s’efforcer de parvenir à un règlement avec la partie adverse quand elles s’adressent aux tribunaux. L’existence d’une offre de règlement est un élément important à prendre en compte au moment de fixer les dépens à adjuger. C’est un des facteurs expressément énumérés au paragraphe 147(3) des Règles de la Cour canadienne de l’impôt (procédure générale) (les « Règles »). Il est également question des offres de règlement dans les directives sur la procédure no 17 et 18 de la Cour canadienne de l’impôt. S’il est adopté, le paragraphe 147(3.1) des Règles proposé traitera en détail et de manière spécifique des conséquences des offres de règlement sur les dépens. Dans les dernières années, il est arrivé à plusieurs reprises que la Cour adjuge des dépens d’une manière qui souligne l’importance des offres de règlement dans l’adjudication des dépens. Les offres de règlement devraient être envisagées sérieusement étant donné que la Cour pourrait adjuger des dépens d’un montant largement supérieur au tarif à l’encontre d’une partie qui n’a pas eu gain de cause et qui a refusé une offre de règlement qui lui aurait été plus favorable que le jugement rendu à l’issue du procès. Voir par exemple, Donato c. La Reine, 2010 CCI 16, 2010 DTC 1049; Canada c. Donato, 2010 CAF 312, 2010 DTC 5195, Langille c. La Reine, 2009 CCI 540, 2009 DTC 1351, Jolly Farmer Products Inc. c. La Reine, 2008 CCI 693, 2009 DTC 1040 et Barrington Lane Developments Limited c. La Reine, 2010 CCI 476, 2010 D.T.C. 1323. C’est le cas à l’heure actuelle, avant même que le paragraphe 147(3.1) des Règles soit adopté.
+[6] L’offre de règlement mise à part, je suis convaincu, après examen et évaluation de tous les facteurs pertinents aux fins de l’adjudication des dépens, y compris les facteurs énumérés au paragraphe 147(3) des Règles, qu’il n’y aurait aucune raison en l’espèce de nous écarter du tarif de la Cour applicable aux dépens, selon lequel il y aurait un seul mémoire de dépens pour la date de l’audience.
+[7] En l’espèce, je suis convaincu qu’il convient de fixer des dépens supérieurs à ceux prévus par le tarif pour tenir compte de l’offre de règlement plus favorable de l’intimée. Je n’ai aucune raison de douter du fait que la somme de 25 000 $ qui est réclamée ne représente pas beaucoup plus que les dépens qui auraient été accordés sur une base d’indemnisation substantielle après une période raisonnable suivant la date de l’offre de règlement de l’intimée et les dépens selon le tarif applicable avant l’offre. L’avocat des appelants n’a ni réfuté ni remis en question cet état de fait et il devrait connaître avec exactitude le montant de ses honoraires pour la période qui a suivi l’offre de règlement présentée par l’intimée en novembre 2010.
+[8] Par conséquent, j’adjuge à l’intimée des dépens d’un montant total de 25 000 $, plus des débours, payables en parts égales par chacun des appelants, à acquitter au plus tard 60 jours après la date de la présente ordonnance.
+Signé à Vancouver (Colombie‑Britannique), ce 9e jour d’octobre 2012.
+« Patrick Boyle »
+Juge Boyle
+Traduction certifiée conforme
+ce 23e jour de janvier 2013.
+Mario Lagacé, jurilinguiste
+RÉFÉRENCE : 2012 CCI 323
+NOS DES DOSSIERS DE LA COUR : 2009‑3864(IT)G, 2009‑2694(IT)G,
+2009‑2695(IT)G
+INTITULÉS : Margaret Swain c. Sa Majesté la Reine
+Randall W. Marusyk c. Sa Majesté la Reine
+Scott R. Miller c. Sa Majesté la Reine
+MOTIFS DE L’ORDONNANCE : L’honorable juge Patrick Boyle
+DATE DES MOTIFS : Le 9 octobre 2012
+COMPARUTIONS :
+Avocats des appelants :
+Me Matthew G. Williams
+Me Shaun Doody
+Avocate de l’intimée :
+Me Suzanie Chua
+AVOCATS INSCRITS AU DOSSIER :
+Pour les appelants :
+Nom : Matthew G. Williams
+Shaun Doody
+Cabinet : Thorsteinssons LLP
+Toronto (Ontario)
+Pour l’intimée : Myles J. Kirvan
+Sous‑procureur général du Canada
+Ottawa, Canada

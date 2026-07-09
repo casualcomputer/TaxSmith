@@ -1,0 +1,139 @@
+Title: Olson v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27954/index.do
+Corpus path: corpus/cases/tcc/2007/2007-cci-508-27954-olson-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2007-09-05
+
+# Olson v. The Queen
+
+- Citation: 2007 CCI 508
+- Decision date: 2007-09-05
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1802, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Olson v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-09-05
+Référence neutre
+2007 CCI 508
+Numéro de dossier
+2006-2283(GST)I
+Juges et Officiers taxateurs
+Georgette Anne Sheridan
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2006-2283(GST)I
+ENTRE :
+CHRIS OLSON,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 12 avril 2007, à Saskatoon (Saskatchewan).
+Devant : L’honorable juge G. A. Sheridan
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimée :
+Me Anne Jinnouchi
+____________________________________________________________________
+JUGEMENT
+L’appel de la cotisation établie en vertu de la Loi sur la taxe d’accise, dont l’avis est daté du 16 mars 2006, est rejeté, conformément aux motifs de jugement ci‑joints.
+Signé à Ottawa, Canada, ce 5e jour de septembre 2007.
+« G. A. Sheridan »
+Juge Sheridan
+Traduction certifiée conforme
+ce 16e jour d’octobre 2007.
+Johanne Brassard, trad. a.
+Référence : 2007CCI508
+Date : 20070905
+Dossier : 2006-2283(GST)I
+ENTRE :
+CHRIS OLSON,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Sheridan
+[1] L’appelant, Chris Olson, interjette appel de la décision rendue par le ministre du Revenu national (le « ministre »), qui a refusé à l’appelant un crédit de taxe sur les intrants pour la taxe sur les produits et services (la « TPS ») payée à l’achat d’une camionnette Chevrolet Silverado, le 30 décembre 2005.
+[2] Les faits sont essentiellement tels qu’ils sont exposés dans les hypothèses au paragraphe 6 de la réponse à l’avis d’appel[1] :
+a) l’appelant avait une exploitation agricole pendant la période[2];
+b) pendant toute la période pertinente, l’appelant était inscrit aux fins de l’application de la Loi sur la taxe d’accise (la « LTA »);
+c) l’appelant a acheté la camionnette le 30 décembre 2005[3];
+d) l’appelant a payé la camionnette 47 982,93 $, taxe de 3 358,81 $ en sus;
+e) dans la déclaration qu’il a produite pour la période, l’appelant a demandé un crédit de taxe sur les intrants de 3 358,81 $ pour la taxe payée ou payable sur la camionnette;
+f) la camionnette est une camionnette à cabine allongée;
+g) la camionnette était une voiture de tourisme pendant toute la période pertinente;
+h) la camionnette n’a pas été utilisée à des fins commerciales en 2005;
+i) l’appelant a pris possession matérielle de la camionnette le 3 janvier 2006;
+j) l’appelant a commencé à utiliser la camionnette dans le cadre de ses activités commerciales pendant la première semaine de 2006;
+k) la camionnette n’a pas été utilisée totalement ou presque totalement pour le transport de marchandises, de matériel ou de passagers en vue de gagner un revenu en 2005, année où la camionnette a été acquise;
+l) l’appelant avait l’intention d’utiliser la camionnette à plus de 90 % dans le cadre de ses activités commerciales.
+[3] Le ministre a refusé la demande de l’appelant, qui réclamait un crédit de taxe sur les intrants équivalant à la totalité de la TPS payée, parce que l’appelant n’avait pas utilisé la Silverado à des fins commerciales avant 2006. Selon la position du ministre, en 2005, la Silverado était une « voiture de tourisme » au sens du paragraphe 123(1) de la Loi sur la taxe d’accise. Par conséquent, son coût en capital est réputé, en vertu des dispositions applicables de la Loi de l’impôt sur le revenu et de la Loi sur la taxe d’accise, être de 30 000 $ plutôt que de 47 982,93 $, le prix d’achat réel. Le crédit de taxe sur les intrants admissible doit donc être également réduit, et passer de 3 358,81 $ (la TPS réellement payée) à 964,81 $[4].
+[4] La question de savoir si la Silverado était une « voiture de tourisme » en 2005 dépend de l’interprétation des dispositions pertinentes de la Loi sur la taxe d’accise et de la Loi de l’impôt sur le revenu. Le point de départ est la définition de l’expression « voiture de tourisme » au paragraphe 123(1) de la Loi sur la taxe d’accise, qui reprend le sens donné à l’expression au paragraphe 248(1) de la Loi de l’impôt sur le revenu :
+« voiture de tourisme » Automobile acquise après le 17 juin 1987 – à l’exclusion d’une automobile acquise après cette date conformément à une obligation écrite contractée avant le 18 juin 1987 – ou automobile louée par contrat de location conclu, prolongé ou renouvelé après le 17 juin 1987.
+[Non souligné dans l’original.]
+[5] Le mot « automobile » est défini ainsi au paragraphe 248(1) :
+« automobile » Véhicule à moteur principalement conçu ou aménagé pour transporter des particuliers sur les routes et dans les rues et comptant au maximum neuf places assises, y compris celle du conducteur [...]
+[Non souligné dans l’original.]
+[6] L’expression « véhicule à moteur » est définie ainsi au paragraphe 248(1) :
+« véhicule à moteur » Véhicule mû par un moteur, conçu ou aménagé pour circuler sur les voies publiques et dans les rues, à l’exclusion des trolleybus et des véhicules conçus ou aménagés pour fonctionner exclusivement sur rails.
+[7] Jusqu’ici, il ne fait aucun doute que le sens du mot « automobile » s’applique à la Silverado et que la camionnette est, par conséquent, une « voiture de tourisme ». Afin que son appel soit accueilli, l’appelant doit démontrer que la Silverado satisfait aux critères énoncés dans l’un des trois sous-alinéas de l’alinéa e), qui excluent de la définition d’« automobile » les « véhicules à moteur » suivants :
+[...]
+(i) les véhicules de type fourgonnette ou camionnette, ou d’un type analogue, comptant au maximum trois places assises, y compris celle du conducteur, et qui, au cours de l’année d’imposition où ils sont acquis ou loués, sont utilisés principalement pour le transport de marchandises ou de matériel en vue de gagner un revenu,
+(ii) les véhicules de type fourgonnette ou camionnette, ou d’un type analogue, dont la totalité ou la presque totalité de l’utilisation au cours de l’année d’imposition où ils sont acquis ou loués est pour le transport de marchandises, de matériel ou de passagers en vue de gagner un revenu,
+(iii) les véhicules de type camionnette qui sont utilisés, au cours de l’année d’imposition où ils sont acquis ou loués, principalement pour le transport de marchandises, de matériel ou de passagers en vue de gagner un revenu à un ou plusieurs endroits au Canada qui sont, à la fois :
+(A) visés, pour ce qui est d’un ou de plusieurs des occupants du véhicule, aux sous-alinéas 6(6)a)(i) ou (ii),
+(B) situés à au moins 30 kilomètres du point le plus rapproché de la limite de la plus proche région urbaine, au sens du dernier dictionnaire du recensement publié par Statistique Canada avant l’année en question, qui compte une population d’au moins 40 000 personnes selon le dernier recensement publié par Statistique Canada avant cette même année.
+[Non souligné dans l’original.]
+[8] Parce que l’alinéa e) est rédigé de manière disjonctive, l’appelant doit satisfaire aux critères énoncés dans un seul des trois sous-alinéas afin que la Silverado ne soit pas visée par la définition d’« automobile » et, par conséquent, la définition de « voiture de tourisme ». La Silverado ne répond pas aux critères énoncés au sous-alinéa (i) parce qu’il s’agit d’une camionnette à cabine allongée et qu’elle peut donc recevoir plus de deux passagers. Le sous-alinéa (iii) ne s’applique pas parce que la Silverado n’a pas été utilisée à un des endroits visés par les sous‑alinéas 6(6)a)(i) et (ii) de la Loi de l’impôt sur le revenu. La question est donc celle de savoir si la Silverado satisfait aux critères énoncés au sous-alinéa (ii).
+[9] L’appelant s’est représenté lui-même. Son argumentation, essentiellement fondée sur le bon sens, est la suivante : en 2005, il a payé la TPS sur la Silverado. Au moment de l’achat, il avait l’intention d’utiliser le véhicule dans le cadre de son entreprise, et c’est ce qu’il a fait lorsqu’il en a pris possession, le 3 janvier 2006. Même si la Silverado était utilisable au moment de l’achat, le 30 décembre 2005, l’appelant avait choisi de la laisser chez le concessionnaire pendant la période des Fêtes afin d’y faire installer de l’équipement qui se trouvait dans le véhicule qu’il avait donné en reprise. Selon l’appelant, cet intervalle doit être considéré comme non pertinent lorsqu’il s’agit de décider si la Silverado était une « voiture de tourisme ».
+[10] L’avocate de l’intimée a allégué que la définition de « voiture de tourisme » donnée à l’alinéa (ii) s’appliquait dans le cas de l’appelant parce que celui‑ci n’avait pas vraiment utilisé la Silverado dans le cadre de ses activités commerciales en 2005. Pour étayer son argumentation, l’avocate a invoqué la décision McKay v. Her Majesty the Queen[5], dans laquelle le juge Rip (maintenant juge en chef adjoint) a interprété ainsi le sous-alinéa (ii)[6] :
+[19] L’expression « l’utilisation » (en anglais, « the use of which ») figurant à la définition d’« automobile » au paragraphe 248(1) de la LIR semble se rapporter au fait d’utiliser le véhicule ou de le mettre en service pour quelque fin que ce soit, en particulier celle à laquelle il est destiné. Si l’on se fie au simple bon sens, lorsqu’un véhicule est garé dans un garage ou un parc, il n’est pas utilisé. Par conséquent, le laps de temps pendant lequel le véhicule est garé (et inutilisé) n’est pas pris en considération dans la formule servant à déterminer si l’utilisation du véhicule est en « totalité, ou presque, [...] pour le transport de marchandises [...] en vue de gagner un revenu ». Ce qui compte, c’est le temps d’utilisation réelle du véhicule, même si ce dernier est demeuré dans un parc plus de 90 p. 100 du temps pendant lequel le contribuable en a eu la propriété. Pour l’application de la définition d’ « automobile », que le véhicule soit ou non « prêt à être mis en service » est sans importance[7].
+[Non souligné dans l’original.]
+[11] En l’espèce, il n’est pas contesté que l’appelant avait l’intention d’utiliser la Silverado dans le cadre de ses activités commerciales lorsqu’il en a fait l’acquisition l’avant‑dernier jour de décembre 2005[8]. Les champs pétrolifères où l’appelant travaillait comme consultant en environnement se trouvent dans un rayon de 80 milles de sa ferme; la ferme est située à quelque 35 milles du grand centre de Rosetown, en Saskatchewan, et à environ huit milles de la ville locale de Plenty. J’accepte le témoignage de M. Olson selon lequel la Silverado, au moment de son acquisition en décembre 2005, devait être utilisée « pour » le transport de « marchandises » et de « matériel », comme un ordinateur, du matériel et de l’équipement servant aux essais environnementaux dans les champs pétrolifères; l’appelant devait aussi utiliser la camionnette dans le cadre de l’exploitation de sa ferme pour le transport de marchandises agricoles et de matériel, comme des outils, du carburant et des pièces de machinerie. Toutefois, le seul critère énoncé au sous-alinéa (ii) auquel l’appelant est incapable de satisfaire concerne « l’utilisation » du véhicule au cours de l’année où il a été « acquis ». Comme il l’a volontairement admis, l’appelant n’avait pas réellement utilisé la Silverado en 2005 aux fins prévues au sous‑alinéa (ii) parce qu’il avait laissé la camionnette chez le concessionnaire pour y faire installer de l’équipement qui se trouvait dans le véhicule qu’il avait donné en reprise. Il s’agissait d’une étape préparatoire à « l’utilisation » réelle aux fins du transport de marchandises et de matériel, utilisation qui, malheureusement, a commencé seulement en 2006. Par conséquent, le sous-alinéa (ii) ne s’applique pas en l’espèce, et la Silverado est visée par la définition de l’expression « voiture de tourisme ». Même si le résultat peut sembler dur, l’allégement que permet le sous‑alinéa (ii) est accordé uniquement au contribuable qui satisfait à tous les aspects de cette disposition d’exclusion. Il ne s’agit pas d’une affaire de bon sens. L’appel doit être rejeté.
+Signé à Ottawa, Canada, ce 5e jour de septembre 2007.
+« G. A. Sheridan »
+Juge Sheridan
+Traduction certifiée conforme
+ce 16e jour d’octobre 2007.
+Johanne Brassard, trad. a.
+RÉFÉRENCE : 2007CCI508
+NO DU DOSSIER DE LA COUR : 2006-2283(GST)I
+INTITULÉ : Chris Olson c. Sa Majesté La Reine
+LIEU DE L’AUDIENCE : Saskatoon (Saskatchewan)
+DATE DE L’AUDIENCE : Le 12 avril 2007
+MOTIFS DU JUGEMENT : L’honorable juge G. A. Sheridan
+DATE DU JUGEMENT : Le 5 septembre 2007
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimée :
+Me Anne Jinnouchi
+AVOCAT INSCRIT AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] L’hypothèse figurant à l’alinéa 6g) n’est pas à proprement parler une hypothèse de fait. Il s’agit d’une conclusion de droit et de la question en litige dans le présent appel.
+[2] Selon la preuve, les « activités commerciales » de l’appelant comprenaient aussi un travail de consultant en environnement dans les champs pétrolifères de la Saskatchewan et de l’Alberta.
+[3] Pièce A-1.
+[4] Article 201 et paragraphe 202(2) de la Loi sur la taxe d’accise, paragraphe 248(1) et alinéas 13(7)g) et h) de la Loi de l’impôt sur le revenu et article 7307 du Règlement de l’impôt sur le revenu.
+[5] [2001] 1 C.T.C. 2244 (C.C.I., procédure informelle).
+[6] Depuis la décision McKay, le sous-alinéa (ii) a été légèrement modifié par l’ajout des mots « ou loués » après le mot « acquis »; la disposition modifiée s’applique à l’année d’imposition 2005 et aux années subséquentes.
+[7] Précitée, au paragraphe 19.
+[8] Alinéa 6l) de la réponse à l’avis d’appel.

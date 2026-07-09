@@ -1,0 +1,196 @@
+Title: Laurin v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27423/index.do
+Corpus path: corpus/cases/tcc/2006/2006-tcc-634-27423-laurin-v-the-queen-en.md
+Document type: case_law
+Last modified: 2006-11-30
+
+# Laurin v. The Queen
+
+- Citation: 2006 TCC 634
+- Decision date: 2006-11-30
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 245, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Laurin v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-11-30
+Neutral citation
+2006 TCC 634
+File numbers
+2004-1128(IT)G
+Judges and Taxing Officers
+Donald G.H. Bowman
+Subjects
+Income Tax Act
+Decision Content
+Citation: 2006TCC634
+Date: 20061130
+Docket: 2004-1128(IT)G
+BETWEEN:
+JEAN MAURICE LAURIN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Bowman, C.J.
+[1] These appeals are from income tax assessments for the appellant's 1996, 1997, 1998, 1999 and 2000 taxation years. By those assessments the Minister of National Revenue assessed the appellant as a resident of Canada. The appellant's position is that he ceased to be a resident of Canada in 1993 and that in the years under appeal he was a resident of the Turks and Caicos Islands ("TCI") and not a resident of Canada.
+[2] The respondent concedes that the appellant was a resident of the TCI in the years in question but contends that he was also a resident of Canada. Canada has no income tax convention with TCI. Therefore the rules set out in Canada's income tax treaties with respect to persons with dual residency have no application. It is possible for a person to be a resident of Canada for Canadian income tax purposes while at the same time being a resident of another country.
+[3] An individual can be a resident of Canada for the purposes of the Income Tax Act either because of meeting one of the deeming provisions in subsection 250(1) of the Income Tax Act, (such as sojourning in Canada for 183 days or more) or by reason of falling within subsection 250(3) which reads:
+(3) In this Act, a reference to a person resident in Canada includes a person who was at the relevant time ordinarily resident in Canada.
+[4] The use of the word "includes" in subsection 250(3) seems to imply that there could be a third (undefined) category of Canadian resident who is neither deemed under subsection 250(1) to be a resident of Canada nor "ordinarily resident" within the meaning of subsection 250(3). It is not clear just what the characteristics of such a form of residency might be. No basis has been demonstrated in any event for concluding that the appellant falls within this narrow but undefined category.
+[5] At all events, the Minister pleaded a number of assumptions. Some of them are irrelevant in light of the respondent's concession that the appellant was resident in TCI in the years in question. Others are as consistent with non-residency as residency, that is to say, they do not point in any direction. Many are undisputed. The assumptions as pleaded are as follows:
+17. In assessing the Appellant, the Minister relied on the following assumptions of fact:
+a) the Appellant was at all material times a pilot licensed in Canada through Transport Canada and employed with Air Canada;
+b) the Appellant commenced his career with Air Canada in 1966;
+c) the Appellant retired from Air Canada effective August 1, 2000;
+d) the Appellant earned employment income in Canada of $196,653, $181,989, $206,301, $226,356 and $217,692 for the 1996 to 2000 taxation years, respectively;
+e) the Appellant earned interest income in Canada of $857, $58,036 and $5,306 for the 1998, 1999 and 2000 taxation years, respectively;
+f) the Appellant earned pension income in Canada of $41,640 for the 2000 taxation year;
+g) the Appellant was at all material times a Canadian citizen and maintained a Canadian passport;
+h) the Appellant belonged to a Canadian chapter of an international pilot's union at all material times;
+i) the Appellant's work was based out of Winnipeg, Toronto and Vancouver, respectively for the taxation years in issue;
+j) the Appellant claims he moved to Belize in the spring of 1993;
+k) the Appellant established some residential connections with the Turks & Caicos Islands beginning in April, 1996;
+l) the Appellant purchased annual residency permits in the Turks & Caicos Islands;
+m) beginning in 1996 the Appellant, with two other airline pilots, leased a furnished apartment in the Turks & Caicos Islands;
+n) the Appellant brought no furnishings with him to the Turks & Caicos Islands;
+o) the Appellant and Mr. Yves Bissonnette together purchased a vehicle in Canada for $10,000, drove it to Florida and then shipped it to the Turks & Caicos Islands;
+p) the only item of any significance purchased by the Appellant in the Turks & Caicos Islands during the taxation years in issue was a 19 inch television for $385 U.S. to replace one that was broken by he and Mr. Bissonnette;
+q) the Appellant did not use his mailing address in the Turks & Caicos Islands;
+r) the Appellant maintained an American cellular telephone from about 1997 through the 2000 taxation year;
+s) the Appellant was divorced throughout the taxation years and has two ex-wives;
+t) the Appellant has three sons, Guy, Stephane and Sacha whose years of birth are 1959, 1970 and 1974, respectively;
+u) the Appellant's three sons all live in the province of Quebec;
+v) the Appellant has two brothers and three sisters;
+w) four of the Appellant's five siblings are known to live in the province of Quebec;
+x) the Appellant was involved in a common law relationship with Paule Darveau during the taxation years in issue;
+y) the Appellant and Paule Darveau built a home together in St. Lazare, Quebec in 1988/1989; [sic]
+z) the St. Lazare, Quebec home remained available to the Appellant during the taxation years in issue;
+aa) at all material times, the Appellant participated in a Canadian dental plan, extended medical plan and life insurance plan through his employer;
+bb) at all material times, the Appellant contributed to the Canada Pension Plan and Employment Insurance;
+cc) the Appellant continued to use Canadian tax preparers, lawyers and doctors during the taxation years in issue;
+dd) the Appellant held a Canadian bank account with Caisse Populaire in Quebec until September 9, 1996;
+ee) at all material times, the Appellant maintained a Canadian bank account with the Royal Bank of Canada in Montreal;
+ff) at all material times, the Appellant's payroll cheques were deposited into his Royal Bank of Canada account;
+gg) at all material times, the Appellant maintained a self-directed RRSP account with the Royal Bank of Canada;
+hh) the Appellant opened a checking account with Barclay's Bank in the Turks & Caicos Islands in 1996;
+ii) the Appellant opened an account with RBC Dominion Securities in April, 1998;
+jj) the Appellant regularly used a Royal Bank of Canada Visa Gold credit card beginning in July 1996;
+kk) the Appellant also had a Desjardins Visa credit card from Caisse Populaire in Quebec which was discontinued in July, 1996;
+ll) in the 1996 to 2000 taxation years the Appellant spent 223, 204, 163, 188 and 195 days in Canada, respectively;
+mm) in the 1996 to 2000 taxation years the Appellant spent 68, 104, 131, 101 and 44 days in Turks & Caicos Islands, respectively.
+nn) at no time did the Appellant sever his residential ties with Canada;
+[6] There are five assumptions that are in my view central to the assessments. They are:
+x) the Appellant was involved in a common law relationship with Paule Darveau during the taxation years in issue;
+y) the Appellant and Paule Darveau built a home together in St. Lazare, Quebec in 1988/1989; [sic]
+z) the St. Lazare, Quebec home remained available to the Appellant during the taxation years in issue;
+ll) in the 1996 to 2000 taxation years the Appellant spent 223, 204, 163, 188 and 195 days in Canada, respectively;
+nn) at no time did the Appellant sever his residential ties with Canada.
+[7] For the reasons that follow I think those assumptions have been demolished.
+[8] The appellant, until his retirement, was a senior Air Canada pilot. In 1988 and 1989, he built a house in St. Lazare, Quebec. He had been divorced twice and in the late 1980s he began a relationship with Paule Darveau who terminated a previous relationship. In 1990, she moved into the St. Lazare home with him. She had some money from an inheritance from her father and from the proceeds of selling a house in Montreal that she had. She paid off the builders' loan on the St. Lazare house and became a one half owner. She put $160,000 or possibly $180,000 into the house.
+[9] The relationship came to an end in 1993. I need not go into the reasons for the break-up. I am prepared to accept that it was genuine enough and not a contrived separation motivated by tax considerations. The appellant asked her to accompany him offshore but she refused. After he left there appears to have been no contact until November 1996 and that was not at her house. It appears to have been rather chilly.
+[10] When the appellant left in 1993 he sold to Ms. Darveau his half interest in the home and furnishings for $1. He cancelled his health and car insurance; he exchanged his driver's licence for an American one; he sold his Ford Bronco in 1994; he closed all his Canadian bank accounts, with the exception of those required by Air Canada to deposit his pay cheques.
+[11] The appellant packed two large suitcases and headed to Belize. There he leased a room and never bought a car. In 1996, he moved to TCI. There he rented a furnished apartment with two other pilots. He opened up a bank account at the local Barclay's Bank and incorporated a company. He set up a RBC Dominion Securities account at a Florida branch. Due to the unreliability of receiving mail in TCI, he redirected his mail to a Florida address of a close friend. The appellant also bought insurance from two English companies (BUPA and Lloyd's), as well as John Engle, an insurance company in Vancouver, BC. During all of this period, the appellant continued to work for Air Canada commuting from these various locations to wherever he was flying out of.
+[12] During the relevant taxation years, the appellant returned to Montreal on a number of occasions. He stated that flying to Florida was easier out of Montreal rather than from Toronto. This evidence was questioned during cross-examination, where it was pointed out that there were more flights to Florida leaving from Toronto.
+[13] The appellant had family and friends who lived in the Montreal and surrounding area. He also had friends in Florida as well as some co-workers in TCI. During his trips to Montreal, throughout the relevant taxation years, the appellant stayed with three friends, staying anywhere from a few days to several weeks. He brought and took all the necessities during these visits, never establishing himself at any one of these homes. Every year he spent some time in the Montreal area in addition to the time spent in Vancouver, Winnipeg or Toronto due to work obligations. The appellant never spent more than 183 days in Canada for any of the taxation years. He had accommodations and financial investments in TCI; he had a mailing address, driver's licence and financial links to Florida; additionally, he had employment obligations, social relations and professional services connecting him to Canada.
+[14] For 1993, 1994 and 1995 he filed and was assessed as a non-resident of Canada. During the years in question, he sought and changed his flight routes from domestic flights to international flights, particularly the South-East Asia routes. Accordingly, he obtained new postings in Vancouver and Winnipeg.
+[15] It is certainly possible for an employee of a Canadian company to be a non-resident of Canada for tax purposes. The person may indeed have been born in Canada, maintained their Canadian citizenship and passport, and even have family in Canada but still sever all relevant ties with Canada and thus, be considered a non-resident.
+[16] I mentioned above that in my view the appellant had demolished the five key assumptions (x), (y), (z), (ll) and (nn).
+[17] During the years in question the St. Lazare house was never available to him. His and Ms. Darveau's unchallenged testimony was that he did not stay there in the years in question. She travelled with him starting in 1997 to various places in the world on his pass as an Air Canada captain but whatever degree of intimacy may have existed between them, if any, (she had another boyfriend in 1997 and 1998) it did not amount to a common law relationship between the appellant and Ms. Darveau in Canada.
+[18] So far as the 183 days of sojourning rule is concerned, the respondent admits that the number of days mentioned in paragraph (ll) of the assumptions is wrong and that even using the Crown's own method of counting (i.e. counting every part of a day as a day, including the day of arrival and the day of departure) the appellant did not sojourn in Canada more than 183 days in any of the years in question. Using the method followed by Justice Rip in Hauser v. The Queen, [2005] 4 C.T.C. 2260, in which the day of arrival is not counted, the total days spent by the appellant in Canada are significantly less. The sojourn rule must have been the very basis of the assessment. If he had been in Canada for more than 183 days in any year that would have been the end of the matter. Ordinary residence here or anywhere else would be irrelevant. I note that it was not pleaded as an assumption or otherwise that he was "ordinarily resident" in Canada. All that was pleaded in addition to the demolished assumptions (x), (y), (z) and (ll) was that the appellant did not sever his residential ties with Canada. In my view he did.
+[19] The Crown conceded the statutory test for sojourning in paragraph 250(1)(a) of the Act was not met. Consequently, it is necessary to determine whether the Appellant had to demolish the unpleaded assertion (not assumption) that he was "ordinarily resident" in Canada, pursuant to subsection 250(3) of the Act. It would run counter to fundamental rules of fairness in income tax appeals to cast such a burden on an appellant. It is well to recall what L'Heureux-Dubé said in Hickman Motors Limited v. The Queen, 97 DTC 5363 (S.C.C.):
+K. Onus of Proof
+As I have noted, the appellant adduced clear, uncontradicted evidence, while the respondent did not adduce any evidence whatsoever. In my view, the law on that point is well settled, and the respondent failed to discharge its burden of proof for the following reasons.
+It is trite law that in taxation the standard of proof is the civil balance of probabilities: Dobieco v. M.N.R., [1966] S.C.R. 95, and that within balance of probabilities, there can be varying degrees of proof required in order to discharge the onus, depending on the subject matter: Continental Insurance v. Dalton Cartage, [1982] 1 S.C.R. 164; Pallan v. M.N.R., 90 DTC 1102 (T.C.C.) at p. 1106. The Minister, in making assessments, proceeds on assumptions (Bayridge Estates v. M.N.R., 59 DTC 1098 (Ex. Ct.), at p. 1101) and the initial onus is on the taxpayer to "demolish" the Minister's assumptions in the assessment (Johnston v. M.N.R., [1948] S.C.R. 486; Kennedy v. M.N.R., 73 DTC 5359 (F.C.A.), at p. 5361). The initial burden is only to "demolish" the exact assumptions made by the Minister but no more: First Fund Genesis v. The Queen, 90 DTC 6337 (F.C.T.D.), at p. 6340.
+This initial onus of "demolishing" the Minister's exact assumptions is met where the appellant makes out at least a prima facie case: Kamin v. M.N.R., 93 DTC 62 (T.C.C.); Goodwyn v. M.N.R., 82 DTC 1679 (T.R.B.). In the case at bar, the appellant adduced evidence which met not only a prima facie standard, but also, in my view, even a higher one. In my view, the appellant "demolished" the following assumptions as follows: (a) the assumption of "two businesses", by adducing clear evidence of only one business; (b) the assumption of "no income", by adducing clear evidence of income. The law is settled that unchallenged and uncontradicted evidence "demolishes" the Minister's assumptions: see for example MacIsaac v. M.N.R., 74 DTC 6380 (F.C.A.), at p. 6381; Zink v. M.N.R., 87 DTC 652 (T.C.C.). As stated above, all of the appellant's evidence in the case at bar remained unchallenged and uncontradicted. Accordingly, in my view, the assumptions of "two businesses" and "no income" have been "demolished" by the appellant.
+Where the Minister's assumptions have been "demolished" by the appellant, "the onus shifts to the Minister to rebut the prima facie case" made out by the appellant and to prove the assumptions: Maglib Development Corp. v. The Queen, 87 DTC 5012 (F.C.T.D.), at p. 5018. Hence, in the case at bar, the onus has shifted to the Minister to prove its assumptions that there are "two businesses" and "no income".
+Where the burden has shifted to the Minister, and the Minister adduces no evidence whatsoever, the taxpayer is entitled to succeed: see for example MacIsaac, supra, where the Federal Court of Appeal set aside the judgment of the Trial Division, on the grounds that (at pp. 6381-2) the "evidence was not challenged or contradicted and no objection of any kind was taken thereto". See also Waxstein v. M.N.R., 80 DTC 1348 (T.R.B.); Roselawn Investments Ltd. v. M.N.R., 80 DTC 1271 (T.R.B.). Refer also to Zink v. M.N.R., supra, at p. 653, where, even if the evidence contained "gaps in logic, chronology and substance", the taxpayer's appeal was allowed as the Minster failed to present any evidence as to the source of income. I note that, in the case at bar, the evidence contains no such "gaps". Therefore, in the case at bar, since the Minister adduced no evidence whatsoever, and no question of credibility was ever raised by anyone, the appellant is entitled to succeed.
+[20] In The Queen v. Bowens, 96 DTC 6128, Hugessen J. said at page 6129:
+[...] unpleaded assumptions can have no effect on the burden of proof one way or the other. [...]
+[21] It was stated in Fisher v. Canada, [1995] 1 C.T.C. 2011, 95 DTC 840, that once the sojourner rule is not met, it must be determined whether the appellant was "ordinarily resident", pursuant to subsection 250(3) of the Act, during the relevant time as was the case in Hauser, supra. This is true if the point is raised in the reply as an assumption or as an assertion. It was not. Even if it had been, and regardless of where the onus lies, the appellant was not on the evidence "ordinarily resident" in Canada in 1996 to 2000.
+[22] In the recent decision of Hauser, this Court found an Air Canada pilot was indeed a resident of Canada, although he and his wife had settled and resided in the Bahamas. While there was some discussion with regard to the method of determining what is a day in deciding whether the appellant was a deemed resident, the Court found Mr. Hauser a resident based on an analysis of "ordinarily resident".
+[23] In Fisher, I tried to summarize the differences between "sojourning" and "ordinarily resident" as articulated in Thomson v. Minister of National Revenue, [1946] S.C.R. 209, [1946] C.T.C. 51, 2 DTC 812. Estey J. states at paragraph 71 of Thomson :
+71 A reference to the dictionary and judicial comments upon the meaning of these terms indicates that one is "ordinarily resident" in the place where in the settled routine of his life he regularly, normally or customarily lives. One "sojourns" at a place where he unusually, casually or intermittently visits or stays. In the former the element of permanence; in the latter that of the temporary predominates. The difference cannot be stated in precise and definite terms, but each case must be determined after all of the relevant factors are taken into consideration, but the foregoing indicates in a general way the essential differences. It is not the length of the visit or stay that determines the question. Even in this statute under section 9(b) the time of 183 days does not determine whether the party sojourns or not but merely determines whether the tax shall be payable or not by one who sojourns.
+72 The words of Viscount Sumner in Inland Revenue Commissioners v. Lysaght at p. 243, are indicative:
+I think the converse to "ordinarily" is "extraordinarily" and that part of the regular order of a man's life, adopted voluntarily and for settled purposes, is not "extraordinary".
+Lord Buckmaster, with whom Lord Atkinson concurred, in the same case, at p. 248:
+... if residence be once established ordinarily resident means in my opinion no more than that the residence is not casual and uncertain but that the person held to reside does so in the ordinary course of his life.
+[...]
+74 It is well established that a person may have more than one residence, and therefore the fact of his residence in Pinehurst or Belleair does not assist or in any way affect the determination of this issue.
+[24] At paragraph 47, Rand J. continues:
+47 The gradation of degrees of time, object, intention, continuity and other relevant circumstances, shows, I think, that in common parlance "residing" is not a term of invariable elements, all of which must be satisfied in each instance. It is quite impossible to give it a precise and inclusive definition. It is highly flexible, and its many shades of meaning vary not only in the contexts of different matters, but also in different aspects of the same matter. In one case it is satisfied by certain elements, in another by others, some common, some new.
+48 The expression "ordinarily resident" carries a restricted signification, and although the first impression seems to be that of preponderance in time, the decisions on the English Act reject that view. It is held to mean residence in the course of the customary mode of life of the person concerned, and it is contrasted with special or occasional or casual residence. The general mode of life is, therefore, relevant to a question of its application.
+49 For the purposes of income tax legislation, it must be assumed that every person has at all times a residence. It is not necessary to this that he should have a home or a particular place of abode or even a shelter. He may sleep in the open. It is important only to ascertain the spatial bounds within which he spends his life or to which his ordered or customary living is related. Ordinary residence can best be appreciated by considering its antithesis, occasional or casual or deviatory residence. The latter would seem clearly to be not only temporary in time and exceptional in circumstance, but also accompanied by a sense of transitoriness and of return.
+50 But in the different situation of so-called "permanent residence", "temporary residence," "ordinary residence", "principal residence" and the like, the adjectives do not affect the fact that there is in all cases residence; and that quality is chiefly a matter of the degree to which a person in mind and fact settles into or maintains or centralizes his ordinary mode of living with its accessories in social relations, interests and conveniences at or in the place in question. It may be limited in time from the outset, or it may be indefinite, or so far as it is thought of, unlimited. On the lower level, the expression involving residence should be distinguished, as I think they are in ordinary speech, from the field of "stay" or "visit".
+[25] Kerwin J. at paragraphs 2 and 6 said:
+2 There is no definition in the Act of "resident" or "ordinarily resident" but they should receive the meaning ascribed to them by common usage. When one is considering a Revenue Act, it is true to state, I think, as it is put in the Standard Dictionary that the words "reside" and "residence" are somewhat stately and not to be used indiscriminately for "live:, "house", or "home". The Shorter Oxford English Dictionary gives the meaning of "reside" as being "To dwell permanently or for a considerable time, to have one's settled or usual abode, to live, in or at a particular place". By the same authority "ordinarily" means "1. In conformity with rule; as a matter of regular occurrence. 2. In most cases, usually, commonly. 3. To the usual extent. 4. As is normal or usual." On the other hand the meaning of the word "sojourn" is given as "to make a temporary stay in a place; to remain or reside for a time".
+[...]
+6 The appellant seeks to make himself a sojourner as he care fully remained in Canada for a period or periods amounting to less than 183 days during each year. This attempt fails. The family ties of his wife, if not of himself, the erection of a substantial house, the retention of the servants, together with all the surrounding circumstances, make it clear to me that his occupancy of the house and his activities in Canada comprised more than a mere temporary stay therein.
+[26] Kellock J. said at paragraph 60:
+60 "Ordinarily" is defined as "in conformity with rule or established custom or practice", "as a matter of regular practice or occurrence", "in the ordinary or usual course of events", "usually", "commonly", "as is normal or usual".
+[27] Cartwright J. said in Beament v. Minister of National Revenue, [1952] 2 S.C.R. 486, [1952] C.T.C. 327, 52 DTC 1183, at page 1186:
+[T]he decision as to the place or places in which a person is resident must turn on the fact of the particular case.
+[28] In The Queen v. Reeder, [1975] C.T.C. 256, 75 DTC 5160, Mahoney J. said at paragraph 13:
+13 While the defendant here is far removed from the jet set, including any possible imputation of a preconceived effort to avoid taxation, the factors which have been found in those cases to be material in determining the pure question of fact of fiscal residence are as valid in his case as in theirs. While the list does not purport to be exhaustive, material factors include:
+(a) past and present habits of life;
+(b) regularity and length of visits in the jurisdiction asserting residence;
+(c) ties within that jurisdiction;
+(d) ties elsewhere;
+(e) permanence or otherwise of purposes of stay abroad.
+The matter of ties within the jurisdiction asserting residence and elsewhere runs the gamut of an individual's connections and commitments: property and investment, employment, family, business, cultural and social are examples, again not purporting to be exhaustive. Not all factors will necessarily be material to every case. They must be considered in the light of the basic premises that everyone must have a fiscal residence somewhere and that it is quite possible for an individual to be simultaneously resident in more than one place for tax purposes.
+[29] The appellant has distinguished himself from the Hauser case with regard to the material facts. He demolished the main assumptions of fact presented by the Crown, primarily his having a home available to him at the house he formerly shared with Ms. Darveau.
+[30] Unlike Mr. Hauser, the appellant had neither a mailing address in Montreal, nor did he establish a sense of permanency at any one of the homes of his three hosts during his stays in Montreal. Furthermore, the evidence adduced demonstrated that the appellant did not have any investments or business activities in Canada, unlike Mr. Hauser. While he did have family in Montreal, he rarely saw his sons. Additionally, his sons came to visit him in TCI. Two of the occasions when he stayed in Montreal were for medical reasons and one was on the death of his mother.
+[31] In an attempt to resurrect the Crown's case from the ashes of the demolished assumptions, Crown counsel skilfully endeavoured to make a case for residency in Canada based on the appellant's employment in Canada, his friends and family and on three contradictions in his testimony (which I consider immaterial).
+[32] Putting the Crown's case at its strongest, it is that despite the demolition of the central assumptions upon which the assessments were based, he was still resident in Canada because of his visits here, his employment with a Canadian airline and his family and friends here. Counsel for the respondent put the case as strongly as it could be put but it does not add up to residency. Once it is accepted that he did not sojourn in Canada 183 days in any year, he did not have a common law wife here, he did not have a home available to him here, what is left? We have the baldly stated assumption that he did not sever his residential ties with Canada. I do not think this statement is meaningful. For one thing, he did. He broke up with his girlfriend, he got rid of his house, his car, his licence and his health insurance. When he came to Canada he stayed with friends but it was at their sufferance. Moreover, to say that one has not severed residential ties with a country is not tantamount to saying that one is resident there. Residual friendships and employment connections do not create residency (or in this case a resumption of residency because it was not suggested that he was resident in Canada in 1993 to 1995).
+[33] Counsel for the respondent argued that Mr. Laurin's position was "incredible" because he had three inconsistencies or contradictions in his evidence. First he gave as his residence Vankleek Hill when he was in fact living in St. Lazare. He did in fact have an address at Vankleek Hill and moreover he did refer as well to the residence in St. Lazare. Second, he also apparently told the Irish authorities that he would not be a resident of Ireland. An individual's contradictory declarations of residency are not indicative of much when one considers that judges have difficulty with the concept of residency. Finally, he allegedly contradicted himself about when or if he stayed with his son Sacha. He subsequently advised the respondent of his error.
+[34] I do not regard these alleged discrepancies in the appellant's evidence as justifying rejection of his entire testimony. His testimony was supported by the credible testimony of the other witnesses. It is the responsibility of a trial judge to make findings of fact on the basis of all of the evidence and not fasten on a few contradictions as a justification for rejecting an appellant's case outright. In this case it would require rejecting all of the evidence which destroyed the central assumptions on which the assessments were based.
+[35] In Corsaut v. M.N.R., 2005 TCC 112, I quoted 1084767 Ontario Inc. (c.o.b. Celluland) v. Canada, [2002] T.C.J. No. 227, where I said:
+8 The evidence of the two witnesses is diametrically opposed. I reserved judgment because I do not think findings of credibility should be made lightly or, generally speaking, given in oral judgments from the bench. The power and obligation that a trial judge has to assess credibility is one of the heaviest responsibilities that a judge has. It is a responsibility that should be exercised with care and reflection because an adverse finding of credibility implies that someone is lying under oath. It is a power that should not be misused as an excuse for expeditiously getting rid of a case. The responsibility that rests on a trial judge to exercise extreme care in making findings of credibility is particularly onerous when one considers that a finding of credibility is virtually unappealable.
+See also Chomica v. The Queen, 2003 DTC 535.
+[36] Despite the skill with which counsel for the respondent endeavoured to salvage the Crown's case we have here the demolition of the assumptions that formed the basis of the assessments and are left with nothing but suggestions of some continuing connection with Canada. They do not amount to ordinary residency which, I repeat, was not pleaded as an assumption or a separate assertion.
+[37] On the basis that the appellant was not a resident of Canada in 1996 to 2000 the question of allocation of his Air Canada salary to Canada raised in the pleadings remains outstanding. I could do one of three things:
+(a) I could allow the appeals and refer the matter back to the Minister of National Revenue for reconsideration and reassessment on the basis that the appellant was not a resident in Canada in 1996 to 2000. The Minister could reassess and apply his formula for allocation. If the appellant disagrees he could object and appeal on the question of allocation;
+(b) if the parties agree on the basis of allocation I could incorporate this agreement into the judgment;
+(c) I could hear further evidence and argument on the question of allocation.
+[38] I shall defer signing the formal judgment for two weeks until I hear from counsel.
+Signed at Ottawa, Canada this 30th day of November 2006.
+"D.G.H. Bowman"
+Bowman, C.J.
+CITATION:
+2006TCC634
+COURT FILE NO.:
+2004-1128(IT)G
+STYLE OF CAUSE:
+Jean Maurice Laurin v.
+Her Majesty The Queen
+PLACE OF HEARING:
+Ottawa, Ontario
+DATE OF HEARING:
+November 7, 8 and 9, 2006
+REASONS FOR JUDGMENT BY:
+The Honourable D.G.H. Bowman, Chief Justice
+DATE OF JUDGMENT AND
+REASONS FOR JUDGMENT:
+November 30, 2006
+APPEARANCES:
+Counsel for the Appellant:
+Frances Viele
+Counsel for the Respondent:
+Ernest Wheeler
+Steven D. Leckie
+COUNSEL OF RECORD:
+For the Appellant: Barrister and Solicitor
+116 Lisgar Street, 6th Floor,
+Ottawa, ON K2P 0C2
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,182 @@
+Title: 3850625 Canada Inc. c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29656/index.do
+Corpus path: corpus/cases/tcc/2010/2010-cci-104-29656-3850625-canada-inc-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2010-02-22
+
+# 3850625 Canada Inc. c. La Reine
+
+- Citation: 2010 CCI 104
+- Decision date: 2010-02-22
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6224, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+3850625 Canada Inc. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2010-02-22
+Référence neutre
+2010 CCI 104
+Numéro de dossier
+2006-3236(IT)G
+Juges et Officiers taxateurs
+Judith Woods
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2006-3236(IT)G
+ENTRE :
+3850625 CANADA INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 2 novembre 2009 à Calgary (Alberta)
+Devant : L’honorable juge Judith Woods
+Comparutions :
+Avocats de l’appelante :
+Me Gerald Grenon
+Me Patrick Lindsay
+Avocats de l’intimée :
+Me Marta E. Burns
+Me Kim Palichuk
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’encontre de la cotisation établie en application de la Loi de l’impôt sur le revenu à l’égard de l’année d’imposition s’étant terminée le 31 décembre 1997 est accueilli, et la cotisation est déférée au ministre du Revenu national pour qu’il effectue un nouvel examen et établisse une nouvelle cotisation en partant du principe que l’intérêt sur remboursement s’élevant à 6 474 459,61 $ doit être inclus dans le calcul des bénéfices bruts relatifs à des ressources.
+L’appelante a droit aux dépens.
+Signé à Toronto (Ontario), ce 22e jour de février 2010.
+« J. M. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 21e jour d’avril 2010.
+Mario Lagacé, jurilinguiste
+Référence : 2010 CCI 104
+Date : 20100222
+Dossier : 2006-3236(IT)G
+ENTRE :
+3850625 CANADA INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Woods
+[1] La société 3850625 Canada Inc., anciennement connue sous la raison sociale Fording Coal Ltd., a reçu des avis de nouvelle cotisation à l’égard des années d’imposition 1985 à 1990 inclusivement. La société a interjeté appel de ces nouvelles cotisations, mais a tout de même payé l’impôt en attendant l’issue de son appel.
+[2] Au bout du compte, l’appelante a eu partiellement gain de cause et a reçu le remboursement d’une partie de l’impôt qu’elle avait payé ainsi que l’intérêt afférent (l’« intérêt sur remboursement »).
+[3] La question à trancher, en l’espèce, est de savoir si l’intérêt sur remboursement peut être inclus dans le calcul du revenu tiré de la production et du traitement d’une ressource minérale aux fins de la déduction relative à des ressources, anciennement prévue dans la Loi de l’impôt sur le revenu (la « Loi »), disposition qui n’est désormais plus en vigueur.
+[4] Le ministre du Revenu national (le « ministre ») a établi une nouvelle cotisation à l’égard de 3850625 Canada Inc. afin d’exclure l’intérêt sur remboursement s’élevant à 6 474 459,61 $ dans le calcul de la déduction relative à des ressources. La cotisation concernait l’année d’imposition s’étant terminée le 31 décembre 1997, soit l’année où l’appelante a reçu l’intérêt.
+Contexte
+[5] L’exposé conjoint des faits ci-dessous a été produit par les parties :
+[traduction]
+1. L’appelante (anciennement connue sous la raison sociale Fording Coal Limited) est une société canadienne dont les activités principales, pendant toute la période en cause, étaient la production et la vente de charbon métallurgique et de charbon thermique.
+2. Le 12 juin 1991, l’appelante a produit des avis d’opposition concernant les nouvelles cotisations établies par le ministre du Revenu national (le « ministre » ) à l’égard des années d’imposition 1985 à 1990.
+3. L’appelante a payé l’impôt en litige afin d’éviter d’avoir à payer l’intérêt non déductible produit sur l’arriéré si elle n’avait pas gain de cause.
+4. Suivant un arrêt de la Cour d’appel fédérale, daté du 22 janvier 1996, l’appelante a reçu des avis de nouvelle cotisation datés du 21 août 1997 concernant les années d’imposition 1985 à 1990 comportant un remboursement d’impôt et l’intérêt afférent nets s’élevant à 17 201 922 $.
+5. Les questions litigieuses ayant donné lieu à ce remboursement de 17 201 922 $ sont énoncées au paragraphe 1 du jugement ci‑joint rendu par la Cour canadienne de l’impôt.
+6. Le montant de 17 201 922 $ comprenait l’intérêt sur remboursement s’élevant à 6 474 459,61 $, versé en application du paragraphe 164(3) de la Loi de l’impôt sur le revenu (la « Loi »).
+7. Les parties conviennent que l’intérêt sur remboursement a été inclus à juste titre dans le calcul du revenu de l’appelante aux fins de la partie I de la Loi (ce qui a augmenté son revenu de 6 474 459,61 $).
+8. Pendant la tenue de la vérification, l’appelante a demandé qu’un rajustement soit fait au calcul de ses bénéfices relatifs à des ressources afin qu’on y ajoute le montant d’intérêt sur remboursement.
+9. Les parties ne s’entendent pas sur la question de savoir si l’intérêt sur remboursement a été inclus à juste titre dans le calcul des bénéfices de l’appelante relatifs à des ressources aux fins du calcul de la déduction relative à des ressources prévue à l’alinéa 20(1)v.1) de la Loi, tel qu’il s’appliquait à l’année d’imposition 1997 de l’appelante.
+[6] Le paragraphe 5 de l’exposé conjoint des faits renvoie à un jugement rendu par la Cour selon lequel l’appelante avait droit au remboursement d’impôt. La partie de ce jugement qui nous intéresse ici est le paragraphe 1, qui a été rendu sans motifs, sur consentement des parties. Il est reproduit en annexe des présents motifs.
+[7] Par souci de clarté, je tiens à souligner qu’une autre partie de ce jugement portait sur une question qui n’a pas été résolue sur consentement des parties. En fin de compte, la Cour d’appel fédérale a tranché en faveur de la Couronne et, par conséquent, aucun intérêt sur remboursement n’est attribuable à cette question : The Queen v. Fording Coal Ltd., 95 DTC 5672 (CAF).
+[8] Dans le premier paragraphe de l’exposé conjoint des faits, on indique que les revenus de l’appelante sont [traduction] « principalement » tirés de la production et de la vente de charbon. Bien que le mot « principalement » laisse entendre qu’il s’agit d’une proportion de plus de 50 %, personne ne conteste le fait que l’appelante a tiré presque la totalité de ses revenus de cette source pendant la période en cause.
+[9] Les parties conviennent que l’appelante a payé les montants indiqués dans ses avis de cotisation afin d’éviter d’avoir à payer un possible intérêt non déductible sur arriérés. C’était essentiellement une question de gestion prudente de la trésorerie.
+[10] La décision de l’appelante de payer l’impôt n’était pas motivée par la possibilité de gagner de l’intérêt si celle‑ci obtenait gain de cause dans son appel. L’appelante avait un crédit renouvelable dans son entreprise, et tout excédent de trésorerie aurait vraisemblablement été utilisé pour payer ce crédit.
+Régime législatif
+[11] De 1976 à 2006, la déduction relative à des ressources prévoyait une réduction d’impôt de 25 % pour les bénéfices relatifs à des ressources. Le ministre des Finances avait présenté ainsi la nouvelle disposition au moment de sa mise en application dans le budget fédéral de 1975 :
+[…] je propose un nouvel allégement, qui sera admis en diminution des résultats, correspondant à 25 p. 100 des bénéfices tirés de la production pétrolière, gazière ou minière. Ces bénéfices seront calculés nets des dépenses d’exploitation et des amortissements, mais avant déduction des intérêts, des frais d’exploration et de mise en valeur et de l’épuisement gagné. Cette nouvelle déduction sera accordée aux sociétés et aux particuliers qui se livrent à l’exploitation pétrolière et minière.
+[12] Il y a un bref historique de la disposition dans un document qui a été présenté dans le cadre de la conférence annuelle de 2008 de l’Association canadienne d’études fiscales. Dans leur document intitulé « Basic Issues in Resource Taxation », Mar, Rowe et Aiken Bereti ont affirmé ce qui suit, en page 10:19 :
+[traduction]
+Pendant les 30 années précédant 2007, une partie des redevances à la Couronne ne pouvait pas être déduite dans le calcul des revenus imposables. Il s’agit d’une restriction attribuable à un conflit entre les gouvernements fédéral et provinciaux (surtout le gouvernement de l’Alberta) quant à la compétence en matière d’imposition et de recettes de redevances applicables à l’exploitation de ressources naturelles. La déduction relative à des ressources énoncée dans la Loi était une déduction prévue par la Loi servant à indemniser le contribuable de la non‑déductibilité des redevances à la Couronne (principalement provinciales), mais seulement à un taux maximum de 25 %. Dans le secteur minier, les redevances de la Couronne se situaient généralement sous le taux de 25 % prévu dans le cadre de la déduction relative à des ressources. On peut donc soutenir que cette déduction est devenue une subvention fiscale fédérale plus qu’une restriction relative aux redevances provinciales. Plusieurs auteurs ont examiné en détail l’historique des redevances à la Couronne, de la déduction relative à des ressources et de l’abandon graduel de cette dernière. Pour toutes les périodes après 2006, la totalité des redevances à la Couronne peut être déduite dans le calcul des revenus imposables. Par conséquent, la déduction relative à des ressources a été abrogée et a cessé de s’appliquer après 2006.
+[13] Le fondement législatif de la déduction relative à des ressources se trouvait à l’alinéa 20(1)v.1) de la Loi qui, pendant la période en cause, était ainsi rédigé :
+20(1) Malgré les alinéas 18(1)a), b) et h), sont déductibles dans le calcul du revenu tiré par un contribuable d’une entreprise ou d’un bien pour une année d’imposition celles des sommes suivantes qui se rapportent entièrement à cette source de revenus ou la partie des sommes suivantes qu’il est raisonnable de considérer comme s’y rapportant :
+[…]
+(v.1) les sommes que le contribuable est autorisé, par règlement, à déduire pour l’année au titre de gisements naturels de pétrole ou de gaz naturel, de puits de pétrole ou de gaz ou de ressources minérales, situés au Canada; […]
+[14] Le calcul de la déduction était prévu à la partie XII du Règlement de l’impôt sur le revenu (le « Règlement »), plus précisément, aux articles 1204 et 1210.
+[15] Le paragraphe 1204(1) du Règlement donne la définition de « bénéfices bruts relatifs à des ressources », ce dont il faut tenir compte dans le calcul du montant de base auquel s’applique la déduction de 25 % . La partie de la disposition qui s’applique ici est rédigée en ces termes :
+1204(1) Pour l’application de la présente partie, les bénéfices bruts relatifs à des ressources d’un contribuable pour une année d’imposition correspondent au montant éventuel par lequel le total :
+[…]
+b) du montant, s’il en est, de l’ensemble de ses revenus pour l’année tirés
+[…]
+(ii) de la production et du traitement au Canada
+(A) du minerai, à l’exception du minerai de fer ou du minerai de sables asphaltiques, tiré de ressources minérales au Canada que le contribuable exploite, jusqu’à un stade qui ne dépasse pas le stade du métal primaire ou son équivalent,
+(B) du minerai de fer tiré de ressources minérales au Canada que le contribuable exploite, jusqu’à un stade qui ne dépasse pas le stade de la boulette ou son équivalent, et
+(C) du minerai de sables asphaltiques tiré de ressources minérales au Canada que le contribuable exploite, jusqu’à un stade qui ne dépasse pas le stade du pétrole brut ou son équivalent, […]
+(Non souligné dans l’original.)
+Analyse
+[16] La question à trancher en l’espèce est de savoir si le lien existant entre l’intérêt sur remboursement reçu par l’appelante et la production et le traitement du charbon est suffisant pour que l’intérêt soit inclus dans le calcul des « revenus […] tirés […] de la production et du traitement au Canada du minerai […] tiré de ressources minérales » aux fins de l’application du paragraphe 1204(1) du Règlement.
+[17] Dans une des décisions de principe portant sur l’interprétation des dispositions aussi en cause en l’espèce, Echo Bay Mines Ltd. v. The Queen, 92 DTC 6437 (C.F. 1re inst.), on a conclu que les bénéfices relatifs à des ressources comprenaient le revenu tiré d’opérations de couverture. Le juge MacKay a rédigé des motifs détaillés et a conclu ainsi, à la page 6447 :
+[…] L’emploi des mots « ensemble » et « revenus », et l’inclusion implicite, par l’effet du paragraphe 1204(3), du « revenu […] qui est le résultat du transport, du convoiement ou du traitement » [jusqu’à un stade qui ne dépasse pas celui du métal brut] pour ce qui est des métaux et minéraux visés à l’alinéa 1204(1)b), signifient l’un et l’autre que le revenu de « production » peut provenir de diverses activités à condition que celles‑ci fassent partie intégrante des opérations de production. Or la production n’engendre d’elle‑même aucun revenu s’il n’y a pas de vente. Les opérations qui peuvent raisonnablement être reliées à la commercialisation du produit et qui sont entreprises pour garantir que celui‑ci soit vendu à un prix satisfaisant, pour produire un revenu avec espoir de bénéfices, sont à mes yeux des activités faisant partie intégrante de la production qui vise à rapporter un revenu et des bénéfices relatifs à des ressources au sens du paragraphe 1204(1) du Règlement.
+[18] Le principe qui ressort de la décision Echo Bay Mines est que les revenus que l’on considère comme étant tirés de la production et du traitement ne se limitent pas aux revenus tirés de la vente de ressources minérales. En effet, sont aussi compris dans ces revenus les revenus tirés d’autres activités qui sont essentielles aux activités de production et de traitement.
+[19] L’intimée souscrit à cette façon de formuler le critère, mais elle fait observer que l’appelante n’a pas établi la preuve du lien entre l’intérêt sur remboursement et ses activités de production et de traitement.
+[20] Je ne souscris pas à cette observation. À mon avis, on peut conclure à un lien suffisant au vu des faits de la cause.
+[21] Tout d’abord, le droit de l’appelante à l’intérêt sur remboursement découle de la gestion que celle‑ci a faite de ses obligations en matière d’impôt. Ces dites obligations découlent des bénéfices relatifs à la production et au traitement du charbon. L’appelante n’a aucune autre source importante de revenus imposables.
+[22] Le juge en chef adjoint Bowman (tel était alors son titre) se penche sur la question dans Munich Reinsurance Co. v. The Queen, 2000 DTC 2009 (CCI), conf. par 2002 DTC 6701 (CAF) :
+[48] Mis à part l’alinéa 12(1)c) et le paragraphe 138(9), j’estime que le revenu d’intérêt gagné sur les paiements d’impôt en trop au gouvernement du Canada est un revenu tiré d’une entreprise exploitée au Canada. Sa source est le revenu gagné par l’entreprise de l’appelante au Canada à l’égard duquel l’appelante a une obligation de payer de l’impôt et de verser des acomptes provisionnels. Il n’est pas tiré de placements occasionnels effectués indépendamment de son entreprise. […]
+[23] La juge Sharlow a formulé un commentaire semblable dans l’arrêt Irving Oil Ltd. v. The Queen, 2002 DTC 6716 (CAF) :
+[16] […] [Irving Oil] ne tentait pas de réaliser un bénéfice à l’aide des déductions d’impôt ou des crédits d’impôt prévus dans la Loi de l’impôt sur le revenu. Elle a simplement payé une obligation fiscale qui était due, après avoir conclu, en se fondant sur son sens des affaires, qu’il serait préférable de payer l’impôt plutôt que de fournir une garantie.
+[24] Ce n’est pas le même régime législatif qui entre en ligne de compte dans les décisions précitées. Pour cette raison, ces décisions ne permettent pas de trancher la question en litige en l’espèce. Cependant, elles sont d’une aide précieuse pour ce qui est d’établir la nature générale de la notion d’intérêt sur remboursement.
+[25] L’intimée soutient que le lien entre l’impôt sur le revenu et les activités de production et de traitement est ténu parce que l’impôt n’est pas payé dans le cadre des activités concernant directement les ressources, mais plutôt après que ces activités sont terminées.
+[26] La Cour d’appel fédérale a déjà examiné cet argument et l’a rejeté dans Irving Oil Ltd. et dans Munich Reinsurance. Même si le contexte n’est pas le même, les motifs formulés par cette cour à l’appui du rejet s’appliquent également en l’espèce.
+[27] Il est aussi utile d’examiner la nature des questions dans le litige fiscal ayant donné lieu au remboursement, notamment, les questions sur lesquelles l’appelante a eu gain de cause. Si les circonstances factuelles desquelles découlent ces questions concernent directement les activités de production et de traitement, à mon avis, on peut conclure qu’il existe un lien suffisant.
+[28] Les questions fiscales ayant donné lieu au remboursement sont énoncées dans l’extrait du jugement rendu par le juge suppléant Rowe, cité en annexe. Selon le bref jugement, il semble que le montant en cause était principalement lié aux activités directes de production et de traitement. Cependant, le jugement n’est pas assez détaillé pour nous permettre de comprendre précisément les questions en litige. En l’espèce, l’intimée n’a pas soulevé la question et n’a présenté aucune preuve concernant la nature des questions qui étaient en litige dans l’appel initial.
+[29] Compte tenu des circonstances, je conclus que l’appelante a présenté suffisamment de preuves pour me convaincre que l’intérêt sur remboursement était directement lié à ses activités de production et de traitement.
+[30] L’appel est accueilli, et la cotisation est déférée au ministre pour qu’il effectue un nouvel examen et établisse une nouvelle cotisation en partant du principe que l’intérêt sur remboursement doit être inclus dans le calcul des bénéfices bruts relatifs à des ressources aux fins de l’application de la déduction relative à des ressources. L’appelante a droit aux dépens.
+Signé à Toronto (Ontario), ce 22e jour de février 2010.
+« J. M. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 21e jour d’avril 2010.
+Mario Lagacé, jurilinguiste
+Annexe
+Paragraphe 1 du jugement de la Cour canadienne de l’impôt
+1. Par l’intermédiaire de leur procureur respectif, les parties ont consenti au jugement sur certaines questions en litige, en tenant compte des faits suivants :
+a) l’appelante a réalisé les gains de change suivants, dont le montant doit être inclus dans ses bénéfices relatifs à des ressources ou déduits de ces bénéfices pour les années d’imposition suivantes :
+1 027 046 $ 1985
+4 473 654 $ 1986
+2 203 607 $ 1987
+16 248 904 $ 1988
+(219 505 $) 1989;
+b) les montants suivants, des montants concernant une déduction pour amortissement au titre de biens compris dans la catégorie 28 et compris dans les biens visés à l’alinéa a) de la catégorie 41 de l’Annexe II, ne sont pas déduits dans le calcul des bénéfices de l’appelante relatifs à des ressources pour les années d’imposition suivantes :
+77 801 $ 1986
+1 353 773 $ 1987
+4 302 316 $ 1988;
+c) par suite de ce qui figure aux alinéas a) et b) ci-dessus, les déductions de l’appelante ont été augmentées grâce à une déduction relative à des ressources supplémentaire calculée en vertu de l’alinéa 20(1)v.1) de la Loi de l’impôt sur le revenu (la « Loi ») et de l’article 1210 du Règlement de l’impôt sur le revenu (le « Règlement ») et grâce à la déduction pour épuisement gagnée en vertu de l’article 65 de la Loi et des articles 1201 et 1204 du Règlement;
+d) les montants suivants, des intérêts sur l’argent emprunté pour financer la construction de la mine de charbon Genesee, une mine de l’appelante, ne sont pas déduits dans le calcul des bénéfices de l’appelante relatifs à des ressources pour les années d’imposition suivantes :
+808 972 $ 1986
+1 657 250 $ 1987
+4 687 107 $ 1988,
+ce qui accroît les déductions de l’appelante grâce à la déduction pour épuisement gagnée en vertu de l’article 65 de la Loi et des articles 1201 et 1204 du Règlement;
+e) le montant de 2 469 163 $ que l’appelante a payé en vertu de la loi intitulée British Columbia Mineral Tax Act pour la période allant du 1er janvier au 12 juillet 1990 est déductible dans l’année d’imposition 1990 de l’appelante.
+RÉFÉRENCE : 2010 CCI 104
+N° DE DOSSIER : 2006-3236(IT)G
+INTITULÉ : 3850625 CANADA INC. et
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Calgary (Alberta)
+DATE DE L’AUDIENCE : Le 2 novembre 2009
+MOTIFS DU JUGEMENT : L’honorable juge J. M. Woods
+DATE DU JUGEMENT : Le 22 février 2010
+COMPARUTIONS :
+Avocats de l’appelante :
+Me Gerald Grenon
+Me Patrick Lindsay
+Avocats de l’intimée :
+Me Marta E. Burns
+Me Kim Palichuk
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom : Gerald Grenon
+Cabinet : Osler, Hoskin & Harcourt LLP
+Calgary (Alberta)
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

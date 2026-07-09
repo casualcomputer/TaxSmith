@@ -1,0 +1,106 @@
+Title: Ramesha v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27024/index.do
+Corpus path: corpus/cases/tcc/2005/2005-tcc-389-27024-ramesha-v-the-queen-en.md
+Document type: case_law
+Last modified: 2005-06-17
+
+# Ramesha v. The Queen
+
+- Citation: 2005 TCC 389
+- Decision date: 2005-06-17
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 634, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Ramesha v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-06-17
+Neutral citation
+2005 TCC 389
+File numbers
+2004-2459(IT)I
+Judges and Taxing Officers
+Eric A. Bowie
+Subjects
+Income Tax Act
+Decision Content
+Citation: 2005TCC389
+Date: 20050617
+Docket: 2004-2459(IT)I
+BETWEEN:
+DUSHYANTHINI RAMESHA,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+___________________________________________________________________
+Agent for the Appellant: Ramesha Bhaskaran
+Agent for the Respondent: Brendan Gluckman (Student-at-law)
+___________________________________________________________________
+REASONS FOR JUDGMENT
+(Delivered orally from the Bench at
+Toronto, Ontario, on June 2, 2005)
+BowieJ.
+[1] These appeals are brought from the Appellant's income tax reassessments for the 1998 and 1999 taxation years. She raises a number of issues.
+[2] First, in the years between 1988 and 1997, the Appellant and her husband jointly owned a house on Keith Avenue in Toronto. They lived in it until January 1998, when they moved to another house owned by the Appellant's husband that had been rented, but became vacant in late 1997. They sold the Keith Avenue house by an agreement of purchase and sale entered into on November 17, 1997. The sale was to close on March 31, 1998, and it in fact did close then, so the Appellant and her husband rented it to a tenant who lived in it for the months of February and March 1998. The Appellant claims a loss of $13,755.49 as a result of the sale of this house, to be applied in computing her income for 1998. Her husband presumably claims a similar loss, he being the other 50% owner.
+[3] Second, the Appellant claims a non-refundable tax credit under paragraph 118(1)(a) of the Income Tax Act in respect of her husband for the 1998 taxation year. The Minister of National Revenue (the Minister) has assessed him on the basis that his net income that year was in excess of $74,000, which of course would mean that Ms. Ramesha could have no claim to a tax credit for supporting him. He has objected to that reassessment of his income, and that objection has not yet been dealt with by the Minister.
+[4] Third, the Appellant advanced the claim before me that she is entitled to have certain losses from other years applied against her 1998 income and that the Minister has not done that.
+[5] Finally, in respect of the 1999 taxation year, the Appellant claims that she suffered a loss of $24,702.62 that year in connection with a rental property on Blackthorn Avenue. The Minister disallowed $19,703 of this loss, allowing her the balance of $5,000, to be applied against her other income pursuant to section 3 of the Act. She maintains that she is entitled to the full loss claimed. I shall deal with each of these issues in order.
+loss claimed on sale of Keith Avenuehouse
+[6] The Keith Avenue house was the principal residence of the Appellant and her husband for some ten years, prior to the sale of it in November 1997. It decreased in value during that time. They paid $134,000 in March 1988, and they sold it in November 1997 for $108,000. The loss was sustained in November 1997, when the agreement of purchase and sale was signed, not in March 1998, when the sale closed. The Appellant's theory is that some part of the loss, specifically $6,750, occurred upon the property becoming a rental property two months prior to the closing at the beginning of February 1998, and that a further loss of $7,168 was sustained on the sale of it in March 1998, and that the latter amount should be determined to be a terminal loss on the sale of a property owned for the purpose of producing income. The Appellant's agent asserted that he had obtained appraisals to substantiate the values giving rise to these claimed losses. However, no such evidence, indeed no evidence of value of any kind, other than the March 1988 deed and the November 1997 agreement of purchase and sale, was entered at the trial.
+[7] When the Appellant signed the agreement of purchase and sale in November 1997, she agreed irrevocably to convey the property to the purchaser in March 1998 for $108,000. That transaction created a loss of at least $26,000, incurred at that time. That was a loss on the disposition of a principal residence and, therefore, deemed to be nil.[1]
+[8] The Appellant's argument that the property was an income-producing property for two months in 1998 may well be correct, and that is why the income that it produced for her, $163 in that two months, was subject to taxation in her hands. However, there is no basis in the evidence on which I could conclude that the property changed in value between the beginning of February and the end of March. There simply was no loss incurred during that period. Therefore, quite apart from any question of the timing of the loss, all of the loss that occurred had occurred before the property became a rental property.
+claim for spousal credit
+[9] Turning to the claim under paragraph 118(1)(a), that claim can only be finally resolved after the final determination of the net income of the Appellant's husband for the 1998 year, an event that may be years away. As of now, however, his income has been determined to be $74,000 or more, by an assessment that is, by virtue of subsection 152(8) of the Act, valid and binding unless later varied as the result of an objection or a subsequent appeal, or displaced by a subsequent reassessment. As things now stand, therefore, the Appellant is not entitled to this tax credit. The Minister has filed with the Court an undertaking that if at some future time the Appellant's husband's net income for the year 1998 is determined to be less than the base amount of $5,918, then the Appellant will be reassessed to extend a credit to her. For now, this ground of appeal fails as well.
+carry forward of prior-year losses
+[10] Finally, as to 1998, with respect to the Appellant's claim to apply the losses of other years to her 1998 income, the only evidence before me consists of two letters sent by Revenue Canada to the Appellant, Exhibit A-2, dated March 16, 1999, and Exhibit A-1, dated March 12, 2004.
+[11] Exhibit A-2 shows a non-capital loss history for the period from 1991 to 1994, concluding with a balance of $3,880. Exhibit A-1 shows an opening balance of zero in 1991, then subsequent losses and utilizations, ending with a balance of $404 at the end of 1994. The Appellant and her agent contest the accuracy of these amounts, but without the benefit of the complete history of the Appellant's assessments year-by-year throughout all of the relevant period, it is impossible for me to ascertain whether the Minister's history of losses and utilization of losses is correct. The Appellant has not provided any evidentiary basis on which I can conclude that she was denied the application of any losses to which she was entitled in 1998.
+loss claimed on Blackthorn Avenueapartment
+[12] I turn now to the Appellant's claim for a loss totalling $24,702.62 in connection with the Blackthorn Avenue apartment in 1999. 541 Blackthorn Avenue, Unit 812 is an apartment of some 1,100 square feet, having a living/dining room, two bedrooms, a kitchen, and a bathroom. It was the principal residence of the Appellant and her husband for about a year, between June 1998 and June 1999. In June 1999 they moved out and set about renting the apartment to a tenant. It was registered in both their names, but it is not contested that the Appellant had paid for it, and that any losses in connection with it are hers alone.
+[13] The apartment was vacant from June until mid-September, 1999. A tenant then went into possession and remained there beyond the end of 1999, and paid total gross rent in 1999 of $3,025. This is not in dispute. What is disputed, however, is the Appellant's claim that she incurred expenses totalling $27,727.62 in connection with this apartment during the period that it was a rental property, thus leading to the loss claimed.
+[14] Before turning to the specifics of the loss, however, I should deal with the claim asserted by the Appellant and her husband that they are prevented from proving these expenses because the assessor, Mr. Ariagno, took possession of the Appellant's original receipts and then lost or misplaced them. The Appellant and her husband testified that he came to their residence in the course of auditing both of them, and that he spent an afternoon there looking at documents, did not complete his audit, and at the end of the afternoon took away with him many original documents, including the receipts needed to substantiate these claimed expenses, and they were never seen again. Mr. Ariagno denies that he took any original documents. He testified that the Appellant and her husband gave him no original documents at all. He said that he saw only photocopies.
+[15] Mr. Ariagno testified that the system in place at the Canada Revenue Agency at that time was such that if he had taken possession of any original documents of a taxpayer, he would have had to make three copies of each of them, one for the master file, one for the group head's file, and one for his own use in the audit file. He could not have taken originals home with him, as the Appellant and her husband allege he did. He would have had to leave them locked up at his office. These events took place almost four years ago. Any of the witnesses might easily have a mistaken recollection of the specific events, and particularly of specific documents that were or were not produced at that time, or taken by Mr. Ariagno at that time. However, I doubt that Mr. Ariagno would be mistaken about the rules that were in place at his office for dealing with taxpayers' original documents. Nor do I believe that he would have been a person who would disregard the applicable procedures in place. He testified that he never had any original receipts, and never saw any original receipts, in respect of the audit of Ms. Ramesha for 1999. To an extent, this is borne out by the fact that the Respondent was able to put into evidence a book of photocopies of various documents relating to the audit of Ms. Ramesha from 1998 and 1999, including copies of a number of receipts relating to expenses for the Blackthorn apartment. What is missing, for the most part, is receipts that the Appellant and her husband say that they obtained from various people they described as handymen, for work that they did by way of renovation of the apartment between June and September 1999. These were people who were paid not by cheque but in cash, because that is the way in which they wished to be paid. There are therefore no cancelled cheques for the work that they did. If these receipts ever existed, and it is not certain that they did, then I am satisfied that they were not taken by Mr. Ariagno.
+[16] Turning to Mr. Ariagno's disposition of the claimed expenses, they consist of a total of $19,186.73, referable to "maintenance and upkeep", and $516.41, referred to as "other expenses". Those that came under the head of "maintenance and upkeep" were, unfortunately, claimed only in part (about 50%) under that head by the Appellant in the income tax return which her husband prepared and she signed. For reasons that were never explained fully in the evidence, the balance was claimed under the head of "interest and bank charges", although there was also a claim of $4,233.61 for mortgage interest, which was allowed in full. It was apparently only at the trial that it came out that Mr. Bhaskaran had made a mistake in describing $9,156 as interest on the form, rather than as maintenance and upkeep. Mr. Ariagno explained that he disallowed $8,686.73 and $10,500 because he was shown no evidence that any of it had ever been paid, or to whom it had been paid, or for what it was paid. Absent either receipts, cancelled cheques, or a ledger, he was certainly entitled to disallow these claims. I heard no evidence that comes even close to persuading me that the payments were made, and that they were reasonable maintenance expenses. To the extent that I heard any description of the work for which these amounts were paid, it could not be said to be maintenance at all. Mr. Bhaskaran testified that it covered such work as replacing floor coverings, cabinets, and plumbing fixtures in the kitchen and bathroom, as well as carpet elsewhere throughout the apartment. From his evidence, and simply from the fact that the claim comes to almost 25% of the purchase price of the apartment one year earlier, and from the fact that the work was apparently done over a period of months, I would think that the work described, if it was done, was done for the enduring benefit of the asset rather than as ongoing maintenance, and so would not be chargeable as an expense at all. The work that Mr. Bhaskaran described in his evidence would have been capital improvements.
+[17] As for the $516.41 that was not allowed as "other expenses", Mr. Ariagno explained his reasons for disallowing the amounts that made it up. One item claimed and disallowed was for a printer that cost slightly more than $300. This was clearly not a cost that could be attributed to the rental property. Other smaller items were not easily connected to the upkeep of the apartment either. There was a certain amount of double counting. For example, the same item appears to have been charged twice for $206. This was a work station purchased from Business Depot on July 31, 1998. The supporting documents produced to Mr. Ariagno included copies of a cash-register receipt and also of a delivery form, apparently for the same work station, showing the same price of $179.99 plus tax, spent at the same place on the same day. Indeed, there is no real evidence that this item was a cost properly attributable to the apartment at all.
+[18] Mr. Bhaskaran argued that the insurance and the taxes which Mr. Ariagno allowed should have been allowed at slightly higher amounts. The amounts that the assessor allowed were the amounts claimed by the Appellant in her return, which Mr. Bhaskaran had completed for her. He may have made an arithmetic error in apportioning the bills for insurance and for municipal taxes between the personal use period of the apartment prior to them moving from it. If he did, the error was in an amount that would be less than $200.
+[19] The Appellant claimed and was allowed expenses of this apartment for seven full months as an income-producing property. It was in fact rented for only three and one-half months, and I very much doubt that it was available for rent for as much as six months, due to the major renovations that Mr. Bhaskaran described. I see no reason to recalculate either the taxes or the insurance expense. It never was made clear in the evidence exactly what the insurance coverage paid was for, but it is a reasonable assumption that the premium, which was an annual premium, included coverage for contents of the apartment, which of course would not be applicable during the period that it was a rental property. It seems likely to me that the amount allowed for insurance was actually greater than the real cost. The only insurable interest that the Appellants would have had after the property became a rental property would have been in respect of interior improvements. I therefore do not propose to make any upward adjustment. In my view, the assessor was quite generous in the expenses that he allowed in this case.
+conclusion
+[20] The appeals are therefore dismissed.
+Signed at Ottawa, Canada, this 17th day of June, 2005.
+Bowie J.
+CITATION:
+2005TCC389
+COURT FILE NO.:
+2004-2459(IT)I
+STYLE OF CAUSE:
+Dushyanthini Ramesha and Her Majesty the Queen
+PLACE OF HEARING
+Toronto, Ontario
+DATE OF HEARING
+May 30, 2005
+REASONS FOR JUDGMENT BY:
+The Honourable Justice E.A. Bowie
+DATE OF JUDGMENT
+June 7, 2005
+APPEARANCES:
+Agent for the Appellant:
+Ramesha Bhaskaran
+Agent for the Respondent:
+Brendan Gluckman (Student-at-law)
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+N/A
+Firm:
+N/A
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] See paragraph 40(2)(g)(iii) of the Income Tax Act.

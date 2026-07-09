@@ -1,0 +1,162 @@
+---
+title: "Innovative Installation Inc. v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29522/index.do"
+last_modified: "2009-11-12"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 TCC 580"
+citation2: ""
+neutral_citation: "2009 TCC 580"
+decision_date: "2009-11-12"
+language: "en"
+item_id: "29522"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6279
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T00:45:27.790000+00:00"
+cases_cited_count: 1
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "dba84527cd8c11dcb64d5929413b0e0ca8aa38583c45a8e2869e4ee4e6290a1a"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Innovative Installation Inc. v. The Queen
+
+- Citation: 2009 TCC 580
+- Decision date: 2009-11-12
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6279, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Innovative Installation Inc. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2009-11-12
+Neutral citation
+2009 TCC 580
+File numbers
+2008-724(IT)G
+Judges and Taxing Officers
+Cameron Hugh McArthur
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2008-724(IT)G
+BETWEEN:
+INNOVATIVE INSTALLATION INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on August 20, 2009, at Toronto, Ontario
+By: The Honourable Justice C.H. McArthur
+Appearances:
+Counsel for the Appellant:
+Stephen S. Du
+Counsel for the Respondent:
+Ricky Y.M. Tang
+____________________________________________________________________
+JUDGMENT
+The appeal from an assessment made under Part III of the Income Tax Act, notice of which is dated October 6 2006, and bears number 9-061002-111424, is allowed, with costs, and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the Death Benefit from the death of Rod Peacock in the amount of $160,000 was properly included by the Appellant in calculating the balance of its capital dividend account.
+Signed at Ottawa, Canada, this 12th day of November, 2009.
+“C.H. McArthur”
+McArthur J.
+Citation: 2009 TCC 580
+Date: 20091112
+Docket: 2008-724(IT)G
+BETWEEN:
+INNOVATIVE INSTALLATION INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+McArthur J.
+[1] This appeal is from an assessment of the Appellant by the Minister of National Revenue (Minister) for $120,000 in respect of a $160,000 dividend declared by the Appellant on July 2, 2004. The issue in its simplest form is whether the Appellant was required to be the beneficiary of a life insurance policy, or whether the Appellant was required to simply receive the proceeds of the policy, in order to add the proceeds to its capital dividend account and declare a tax-free dividend. Briefly, the facts include the following and are for the most part taken from an agreed statement of facts.
+[2] The Appellant commenced arrangements to borrow $220,000 from the Royal Bank of Canada (RBC) in early 1999. It obtained key person insurance from Sun Life Financial on the life of its founder Rod Peacock to provide financial security for the corporation. In the event of Mr. Peacock’s death, a death benefit would be applied toward the RBC loan. Obtaining this insurance was not a condition for the loan. The Appellant paid the policy’s monthly premiums. Mr. Peacock died in 2002 and Sun Life paid the $196,000, insurance proceeds to RBC, who applied $175,500 to pay off the loan and then paid the $21,422 balance to the Appellant’s bank account.
+[3] The Appellant declared a dividend (Dividend) in the amount of $160,000 on June 14, 2004, which became payable on July 2, 2004. The Appellant filed an election, dated June 28, 2004, under subsection 83(2) of the Income Tax Act (Act) in respect of the Dividend and included the amount of the death benefit in calculating the balance of its capital dividend account. The Minister decided that the Dividend was in excess of the balance of the Appellant’s capital dividend account by an amount of $160,000. Consequently, the Minister assessed the Appellant for Part III taxes in the amount of $120,000, pursuant to subsection 184(2) of the Act.
+Appellant’s Submissions
+[4] The life insurance proceeds met the definition of “capital dividend account” under paragraph 89(1)(d) of the Act and the Appellant was entitled to declare the $160,000 capital Dividend without being assessed for Part III taxes. Paragraph (d), subparagraph (ii) of the Act’s definition of “capital dividend account” does not require that the Appellant corporation be a beneficiary, but rather requires that the Appellant corporation “receives” the insurance proceeds. The requirement to be a beneficiary is removed after June 28, 1982. The outcome of this case rises and falls on the factual determination of who received the insurance proceeds.
+[5] Determining the recipient requires a consideration of the economic reality of the transaction because the word “received” in subparagraph 89(1)(d)(ii) is ambiguous. It could mean either physically receiving the proceeds or receiving the benefit of the proceeds. The party that “received” the proceeds is the party that received the benefit. The word “received” cannot simply mean whose hand it passes through, for all money passes through the bank eventually. The fact that somebody writes a cheque to the bank doesn’t necessarily mean that the bank is the party who ultimately receives the money.
+[6] The Appellant clearly received the benefit of the insurance payout. The Appellant’s loan was paid off. The insurance policy was a contract between the Appellant and Sun Life Financial, not RBC. The effect of the contract was that it created an irrevocable redirection of the insurance proceeds to RBC.
+[7] RBC did not benefit from the proceeds but merely had its receivable collected. While the argument could be made that RBC benefited from having a risky loan paid off, RBC never required the insurance policy as a condition for obtaining the loan. RBC had personal guarantees and other collateral to secure the loan. Banks are in the business of lending money so it would be a greater benefit for RBC to have an outstanding loan on which it could collect interest than to see the loan paid off.
+[8] The economic reality is that the true policyholder was the Appellant, not RBC. The Appellant paid all the insurance premiums to RBC, which in turn remitted the premiums to Sun Life Financial. Correspondingly, the Appellant enjoyed the benefit of having the loan paid off. RBC was simply a conduit in arranging the insurance policy. The Appellant continues with a critique of Interpretation Bulletin IT-430R3, which gives the CRA’s interpretation of “capital dividend account” as it relates to life insurance policy payouts.
+[9] At the time of Mr. Peacock’s death, the outstanding balance on the loan was $196,922. By the time Sun Life Financial approved the claim and RBC subsequently processed the insurance proceeds, the outstanding balance of the loan had been reduced to approximately $175,500. The difference was attributed to the Appellant’s payments on the loan during that time and the $21,422 credited to the Appellant’s bank account was a reimbursement of those payments.
+Respondent’s submissions
+[10] The Minister submits that RBC was the beneficiary under the insurance policy. The Appellant did not receive the death benefit, or any portion of it, in consequence of the death of Mr. Peacock. The death benefit was not properly included by the Appellant in calculating the balance of its “capital dividend account” in accordance with the definition in paragraph 89(1)(d) of the Act. The amount of the Dividend exceeded the portion deemed by subsection 83(2) of the Act to be a capital dividend by $160,000. The Minister properly assessed the Appellant for Part III tax in the amount of $120,000 pursuant to subsection 184(2) of the Act.
+[11] Only if the transaction meets the definition of “capital dividend account” in subsection 89(1) of the Act is the Appellant entitled to add the life insurance proceeds to its capital dividend account, pursuant to subsection 83(2) of the Act. The meaning of “capital dividend account” can be determined with reference to Interpretation Bulletin IT-66R6. Paragraph 6, subparagraph (d) says the capital dividend account consists of “the net proceeds of a life insurance policy received after May 23, 1985 by the corporation as beneficiary under the policy”.
+[12] Determining if the Appellant was a beneficiary depends on the terms of the contract. The Respondent relies on Will-Kare Paving & Contracting Ltd. V. Canada[1], stating that the legal meaning of “beneficiary” must be recognized in its commercial law sense. “Beneficiary” is not defined in the Income Tax Act but is found in the Insurance Act.[2] The Insurance Act establishes that the beneficiary is one to whom the insurance proceeds are payable to, which in this case was RBC..
+[13] The intent of the parties should also be explored, as held by the Supreme Court of Canada in Consolidated Bathurst Export Ltd. v. Mutual Boiler and Machinery Insurance Co.[3] and several other cases.
+[14] Courts must be sensitive to the economic realities of a particular transaction. There are at least two caveats to this rule. First, the taxpayer’s legal relationships must be respected in tax cases. Second, as held by the Supreme Court of Canada in Shell Canada Limited v. Her Majesty the Queen,[4] an inquiry into the ‘economic realities’, spirit, or object of the transaction is subject to the provisions of the Act.
+[15] The Respondent submits that by applying Shell Canada, the Appellant’s ‘economic realities’ argument cannot be entertained. The legal relationship in the insurance policy must be respected. Under the terms of the insurance contract, RBC was to receive the proceeds from Sun Life Financial in order to pay down the loan, pursuant to the terms of the contract. The Respondent submits that the word “receive” in subparagraph 89(1)(d)(ii) of the Act is not ambiguous.
+Witnesses
+[16] Mr. Dennis Lawson, the Appellant’s president, testified that the Appellant’s only intention was to provide the corporation with financial stability in the event of Mr. Peacock’s death. It was to pay down the loan if Mr. Peacock were to pass away. Mr. Lawson testified that the Appellant only sought advice on what it could do with the insurance proceeds after they were paid out.
+[17] RBC’s witness, Ms. Jennifer Hines, testified that RBC’s intention in offering the insurance plan was to offer a “creditors’ life insurance product”, one of the few types of insurance banks are permitted to offer. Ms. Hines added that RBC considered itself to be the beneficiary of the insurance policy under the Bank Act Insurance Business (Banks and Bank Holding Companies) Regulations.[5] Counsel submitted that RBC could not have legally been able to offer this product if the beneficiary was not a bank
+Analysis
+[18] The question again is whether the Appellant is entitled to add the insurance proceeds to its capital dividend account, thereby permitting the declaration of a tax-free capital dividend under subsection 83(2) of the Act.
+[19] Subparagraph 89(1)(d)ii) reads in part as follows:
+89(1) In this subdivision,
+(a) …
+(d) the amount, if any, by which the total of
+(i) ...
+(ii) all amounts each of which is the proceeds of a life insurance policy of which the corporation was not a beneficiary on or before June 28, 1982 received by the corporation in the period and after May 23, 1985 in consequence of the death of any person.
+There are two requirements the Appellant must meet to satisfy the definition of “capital account” in subparagraph 89(1)(d)(ii):
+(i) The corporation must not have been a beneficiary of a life insurance policy on or before June 28, 1982.
+(ii) The corporation must have received proceeds of a life insurance policy after May 23, 1985 in consequence of the death of any person.
+[20] The first requirement is not in question. The Respondent takes issue with the second requirement. He argued that the Appellant must have received the proceeds as beneficiary under the policy, relying on Interpretation Bulletins IT-66R6 and IT‑430R3, which state the Canada Revenue Agency’s interpretation of the Act’s provisions. However, when the legislation is clear, as it is in this instance, there is no need to go beyond the unambiguous words in the Act. The Appellant needed only to receive the proceeds in consequence of Mr. Peacock’s death. Being a beneficiary is not a prerequisite and the word beneficiary does not appear in the policy documents.
+[21] The meaning of “received” does not require proceeds to pass directly to the taxpayer. The taxpayer can notionally or constructively receive it. In Millar v. Canada,[6] Webb J. of this Court concluded that the Appellant “received the full amount of his pension even though parts thereof have been garnished to pay his obligations ...”. He cited Mintzer v. The Queen, [7]where O’Connor J. stated “... the case law is clear that an amount may be included in income even where it is only notionally or constructively received”. Webb J. cited the further cases for this conclusion including Morin v. The Queen[8] and The Queen v. Hoffman,[9] and I agree with his analysis and adopt it as my own.
+[22] The Appellant clearly derived the primary benefit of the insurance payout, and “received” the proceeds, despite the funds not passing directly into its hands. It had its loan paid off and its net worth increased. It would not have paid monthly insurance premiums on the life of Mr. Peacock had it not expected to derive a benefit in the event of Mr. Peacock’s death. RBC’s benefit from the payout was insignificant in comparison to that of the Appellant. RBC is in the lending business and had a solid loan paid early. Obviously a risk of non-payment was eliminated, yet RBC had accounted for that risk by taking personal guarantees from Rod Peacock, Michele Lawson-Peacock, and of course the Appellant. Obtaining the insurance policy was not a condition of receiving the loan. It can be said that RBC would have benefited if the loan had remained outstanding on which it could collect further interest.
+[23] The Appellant is denied adding the insurance proceeds to its capital dividend account simply because it purchased the Sun Life Financial insurance policy on the bank’s recommendation and, by contract, redirected the proceeds to pay of its bank loan. This position defies common sense and natural justice. A corporation that purchases a life insurance policy independent of a bank and uses the proceeds to pay off its bank loan would not be denied from adding the proceeds to its capital dividend account. Both scenarios are identical in substance. The decision to grant a subsection 83(2) election should not rise and fall on the form of the transaction but rather the substance of the transaction.
+[24] The Act’s definition of “capital dividend account” requires the Appellant to receive the insurance proceeds. The insurance proceeds were received by the Appellant despite never passing into the hands of the Appellant. As Canadian tax jurisprudence has held, the word “receive” in the Act refers to the party that receives the benefit of the insurance proceeds. I find that the Appellant benefited from the insurance payout by seeing its loan paid off and “received” the proceeds within the Act’s definition of “capital dividend account”. By satisfying the definition of “capital dividend account” the Appellant is entitled to add the proceeds to its capital dividend account, pursuant to subsection 83(2) of the Act. The Appellant was therefore entitled to declare a dividend of $160,000 without being subjected to Part III taxes.
+[25] For the above reasons, the appeal is allowed, with costs, and the matter shall be referred back to the Minister for reconsideration for reassessment.
+Signed at Ottawa, Canada, this 12th day of November, 2009.
+“C.H. McArthur”
+McArthur J.
+CITATION: 2009 TCC 580
+COURT FILE NO.: 2008-724(IT)G
+STYLE OF CAUSE: INNOVATIVE INSTALLATION INC. and HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: August 20, 2009
+REASONS FOR JUDGMENT BY: The Honourable Justice C.H. McArthur
+DATE OF JUDGMENT: November 12, 2009
+APPEARANCES:
+Counsel for the Appellant:
+Stephen S. Du
+Counsel for the Respondent:
+Ricky Y.M. Tang
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Stephen S. Du
+Firm: Du Markowitz LLP
+Toronto, Ontario
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] [2000] 1 S.C.R. 915.
+[2] R.S.O. 1990 c.I.8.
+[3] [1980] S.C.R. 888 at page 901.
+[4] [1999] 3 S.C.R. 622.
+[5] SOR/92-330.
+[6] 2008 TCC 362, para. 13.
+[7] [1998] 3 C.T.C. 2380.
+[8] 75 DTC 5061.
+[9] 85 DTC 5508.

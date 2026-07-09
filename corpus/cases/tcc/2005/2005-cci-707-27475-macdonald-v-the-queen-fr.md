@@ -1,0 +1,201 @@
+---
+title: "MacDonald v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27475/index.do"
+last_modified: "2005-11-01"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 CCI 707"
+citation2: ""
+neutral_citation: "2005 CCI 707"
+decision_date: "2005-11-01"
+language: "fr"
+item_id: "27475"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 31
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T22:21:29.417000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "f2a61f07160857266de6cb4097a21729b00ed8fb89617ab7a35eec9599ffb3e4"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# MacDonald v. The Queen
+
+- Citation: 2005 CCI 707
+- Decision date: 2005-11-01
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 31, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+MacDonald v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-11-01
+Référence neutre
+2005 CCI 707
+Numéro de dossier
+2004-4243(IT)I
+Juges et Officiers taxateurs
+Alexander A. Sarchuk
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2004-4243(IT)I
+ENTRE :
+PAUL M. MacDONALD,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+et
+CAROL MacDONALD,
+mise en cause.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels entendus à Toronto (Ontario) le 16 septembre 2005.
+Devant : L'honorable juge A.A. Sarchuk
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocate de l'intimée :
+Me Jenny Mboutsiadis
+Pour la mise en cause :
+La mise en cause elle-même
+JUGEMENT VISANT À TRANCHER DES QUESTIONS SOULEVÉES DANS LE CADRE DE L'ARTICLE 174 DE LA LOI DE L'IMPÔT SUR LE REVENU
+Dans une ordonnance datée du 25 mai 2005, Carol MacDonald a été mise en cause en tant que partie à l'appel interjeté par Paul M. MacDonald pour que soient tranchées les questions suivantes :
+a) Carol MacDonald a-t-elle versé à l'appelant une pension alimentaire pour enfants dont le montant s'élève à 6 072 $, à 5 286 $ et à 3 184 $ pour les années d'imposition 2000, 2001 et 2002 respectivement?
+b) La pension alimentaire pour enfants, dont le montant s'élève à 6 072 $, à 5 286 $ et à 3 184 $ pour les années d'imposition 2000, 2001 et 2002 respectivement, si elle a été versée, était-elle payable aux termes d'un accord écrit ou d'une ordonnance à la date d'exécution ou après cette date?
+c) La pension alimentaire pour enfants, dont le montant s'élève à 6 072 $, à 5 286 $ et à 3 184 $ pour les années d'imposition 2000, 2001 et 2002 respectivement, si elle a été versée à l'appelant par Carol MacDonald, doit-elle être incluse dans le calcul du revenu de l'appelant selon l'alinéa 56(1)b) de la Loi?
+d) La pension alimentaire pour enfants, dont le montant s'élève à 6 072 $, à 5 286 $ et à 3 184 $ pour les années d'imposition 2000, 2001 et 2002 respectivement, si elle a été versée à l'appelant par Carol MacDonald, est-elle déductible dans le calcul du revenu de cette dernière pour les années d'imposition 2001 et 2002 selon l'alinéa 60b) de la Loi?
+Vu la preuve présentée par l'appelant et par la mise en cause, ainsi que les observations des trois parties,
+la décision sur la question a) est oui, et sur les questions b), c) et d), la décision est non.
+Les appels interjetés contre les cotisations établies en vertu de la Loi de l'impôt sur le revenu pour les années d'imposition 2000, 2001 et 2002 sont admis, et les cotisations sont renvoyées au ministre du Revenu national pour qu'il les réexamine et qu'il en établisse de nouvelles au motif que la pension alimentaire pour enfants reçue par l'appelant, dont le montant s'élève à 6 072 $, à 5 286 $ et à 3 184 $ pour les années en cause respectivement, ne doit pas être incluse dans le calcul de son revenu pour ces années.
+Signé à Ottawa, Canada, ce 1er jour de novembre 2005.
+« A.A. Sarchuk »
+Le juge Sarchuk
+Traduction certifiée conforme
+ce 9e jour de juin 2006.
+Virginie Loranger, traductrice
+Référence : 2005CCI707
+Date : 20051101
+Dossier : 2004-4243(IT)I
+ENTRE :
+PAUL M. MacDONALD,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+et
+CAROL MacDONALD,
+mise en cause.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Sarchuk
+[1] Le 7 avril 2005, le ministre du Revenu national a présenté une demande en vertu de l'article 174 de la Loi de l'impôt sur le revenu pour que Carol MacDonald soit mise en cause en tant que partie aux appels interjetés par Paul M. MacDonald pour que soient tranchées les questions touchant :
+a) l'avis de nouvelle cotisation daté du 4 mars 2004, qui concernait les années d'imposition 2000, 2001 et 2002;
+b) la nouvelle cotisation que le ministre envisageait d'établir à l'égard de Carol MacDonald pour les années d'imposition 2001 et 2002 (l'année d'imposition 2000 étant frappée de prescription).
+Le 25 mai 2005, le juge en chef Bowman a rendu une ordonnance qui mettait en cause Carol MacDonald en tant que partie aux appels interjetés par Paul M. MacDonald.
+[2] Les questions à trancher sont les suivantes :
+a) Carol MacDonald a-t-elle versé à l'appelant une pension alimentaire pour enfants dont le montant s'élève à 6 072 $, à 5 286 $ et à 3 184 $ pour les années d'imposition 2000, 2001 et 2002 respectivement?
+b) La pension alimentaire pour enfants, dont le montant s'élève à 6 072 $, à 5 286 $ et à 3 184 $ pour les années d'imposition 2000, 2001 et 2002 respectivement, si elle a été versée, était-elle payable aux termes d'un accord écrit ou d'une ordonnance à la date d'exécution ou après cette date?
+c) La pension alimentaire pour enfants, dont le montant s'élève à 6 072 $, à 5 286 $ et à 3 184 $ pour les années d'imposition 2000, 2001 et 2002 respectivement, si elle a été versée à l'appelant par Carol MacDonald, doit-elle être incluse dans le calcul du revenu de l'appelant selon l'alinéa 56(1)b) de la Loi?
+d) La pension alimentaire pour enfants, dont le montant s'élève à 6 072 $, à 5 286 $ et à 3 184 $ pour les années d'imposition 2000, 2001 et 2002 respectivement, si elle a été versée à l'appelant par Carol MacDonald, est-elle déductible dans le calcul du revenu de cette dernière pour les années d'imposition 2001 et 2002 selon l'alinéa 60b) de la Loi?
+Contexte
+[3] Paul MacDonald, l'appelant, et Carol MacDonald (ci-après « Mme MacDonald » ) vivent séparément depuis le 18 novembre 1993. Ils sont les parents de deux enfants : Wesley, né le 27 juillet 1983, et Loren, née le 6 mars 1986. Le 16 juillet 1996, l'appelant et Mme MacDonald ont signé un accord de séparation[1]. Les parties pertinentes de l'accord prévoient ce qui suit :
+[TRADUCTION]
+7.1 L'époux et l'épouse ont la garde conjointe des enfants, et la résidence principale des enfants sera celle de l'époux. Ce dernier assumera la garde et la surveillance quotidiennes des enfants.
+10 Pension alimentaire pour enfants
+10.1 À compter du 1er mai 1996, l'épouse paiera à l'époux une pension alimentaire pour enfants s'élevant à 50 $ par mois, par enfant (pour un total de 100 $ par mois). Ce montant est payable d'avance le premier jour de chaque mois, jusqu'au 30 juin 1996.
+10.2 Les parties admettent que l'épouse n'aura plus d'emploi après le 30 juin 1996. Après cette date, le versement de la pension alimentaire pour enfants cessera jusqu'à ce que l'épouse trouve un emploi ou jusqu'à ce que son revenu annuel dépasse 10 000 $.
+10.3 L'épouse divulguera à l'époux tous les renseignements financiers sur son compte. Elle informera l'époux par écrit de ses revenus de toutes provenances dès qu'elle trouvera un emploi et, par la suite, chaque année au plus tard le 1er mai.
+10.4 L'intention des parties est que l'épouse reprenne le versement mensuel continu de la pension alimentaire pour enfants conformément aux Lignes directrices fédérales sur les pensions alimentaires pour enfants, et que le montant de cette pension soit indexé chaque année en fonction du coût de la vie dès que son revenu annuel de toutes provenances dépassera 10 000 $. Lorsque le revenu annuel de l'épouse dépassera 10 000 $, les parties concluront un accord qui modifiera l'accord de séparation et qui prévoira le versement d'une pension alimentaire pour enfants. Dans l'éventualité où les parties seraient incapables de s'entendre sur le montant indiqué pour la pension alimentaire, l'une ou l'autre des parties pourra recourir aux dispositions du présent accord sur le règlement des différends.
+30.2 Toute modification du présent accord est sans effet, à moins qu'elle ne soit faite par écrit et signée par chaque partie devant témoin.
+[4] Mme MacDonald n'a fait aucun autre versement en 1996, bien qu'il ait été allégué que son revenu, au cours de l'année en question, a dépassé 20 000 $[2]. En 1997, soit l'année qui a suivi la signature de l'accord de séparation, la question de la reprise du versement de la pension alimentaire pour enfants a été soulevée. Les deux parties se sont penchées sur la question, et le 2 décembre 1997, l'avocate de Mme MacDonald a avisé l'avocat de l'appelant que sa cliente avait trouvé un poste à temps plein, qu'elle occuperait à compter du 15 décembre 1997, et qu'elle était prête à verser une pension alimentaire pour enfants de 285 $ par mois, conformément aux Lignes directrices sur les pensions alimentaires pour enfants (les « Lignes directrices » ). Une série de chèques postdatés étaient joints à l'avis, lesquels étaient datés du premier de chaque mois à partir du 1er janvier 1998[3]. La preuve ne permet pas d'établir clairement les versements, le cas échéant, qui ont été faits en 1999. Néanmoins, il n'est pas contesté que Mme MacDonald a fait des versements s'élevant à 6 072 $, à 5 286 $ et à 3 184 $ pour les années 2000, 2001 et 2002 respectivement. Ce sont ces montants qui font l'objet du litige.
+Position de l'appelant
+[5] L'appelant prétend que le paragraphe 10.2 de l'accord de séparation établit clairement qu'en date du 30 juin 1996, Mme MacDonald a cessé de verser la pension alimentaire pour enfants. Il soutient d'ailleurs que le paragraphe 10.4 reflète l'accord qu'ils ont conclu : une fois que Mme MacDonald aurait un emploi et gagnerait un revenu annuel dépassant 10 000 $, elle recommencerait à verser la pension alimentaire pour enfants conformément aux Lignes directrices, et les parties concluraient un autre accord une fois fixé le montant exact de la pension. L'appelant affirme qu'au moment de la signature de l'accord initial, il était entendu par toutes les parties que le montant de toute pension alimentaire que verserait éventuellement Mme MacDonald serait fixé en fonction des nouvelles Lignes directrices et [TRADUCTION] « sur une base fiscale neutre pour les deux parties » . L'appelant ne conteste pas que depuis le 1er janvier 1998, Mme MacDonald a fait ce qu'il a appelé des versements ponctuels au titre de la pension alimentaire pour enfants, mais il dit que le montant de ces versements a été établi selon le bon vouloir de Mme MacDonald, car il n'y a jamais eu d'accord modificateur ni d'ordonnance de la cour sur les obligations de pension alimentaire de Mme MacDonald pour la période après mars 1997, comme le prescrit l'accord de séparation initial.
+Position de Mme MacDonald
+[6] L'accord de séparation signé le 16 juillet 1996 demeure intact, et les versements de pension alimentaire ont débuté et se sont poursuivis selon ce que prévoyait l'accord. Aucune modification n'a été apportée à l'accord pour prévoir le versement de la pension alimentaire pour enfants, comme l'exigeait le paragraphe 10.4. Mme MacDonald soutient donc que tous les versements ultérieurs de la pension ont été faits conformément aux Lignes directrices et qu'ils ont été indexés sur une base annuelle comme l'établit le paragraphe 10.4 de l'accord de séparation. Aussi, étant donné que l'accord de séparation a été signé avant la modification de la Loi de l'impôt sur le revenu, celui-ci est resté en vigueur car toute modification de l'accord touchant la pension alimentaire pour enfants devait faire l'objet d'un consentement mutuel ou d'une ordonnance de la cour. Mme MacDonald dit qu'il n'y a rien eu de tel.
+Analyse
+[7] La question dont la Cour est saisie consiste à déterminer si certains versements de la pension alimentaire pour enfants faits au cours des années d'imposition 2000, 2001 et 2002 doivent être inclus dans le calcul du revenu de l'appelant, comme l'exige l'alinéa 56(1)b) de la Loi, et si ces versements sont déductibles dans le calcul du revenu de Mme MacDonald pour les années d'imposition 2001 et 2002 selon l'alinéa 60b) de la Loi. La réponse à cette question varie selon que les versements : a) ont été faits aux termes d'un accord de séparation signé le 16 juillet 1996; b) ont été faits aux termes d'un accord établi ou modifié après le 30 avril 1997; c) étaient des versements ponctuels.
+[8] Les versements de la pension alimentaire pour enfants sont déductibles pour le payeur en vertu de l'alinéa 60b) et ils doivent être inclus dans le revenu du bénéficiaire selon l'alinéa 56(1)b). Toutefois, ces règles ne s'appliquent pas aux versements de pensions alimentaires pour enfants qui sont exigés aux termes d'accords ou d'ordonnances établis ou modifiés après le 30 avril 1997. Les versements faits aux termes de telles ordonnances ne sont pas imposables pour le bénéficiaire et ne sont pas déductibles pour le payeur. Les alinéas 56(1)b) et 60b) de la Loi renferment la formule « A - (B + C) » , qui décrit les paiements qu'ils visent. Le montant « B » représente le total de la « pension alimentaire pour enfants » devenue recevable au cours de l'année aux termes d'un accord ou d'une ordonnance établi ou modifié après le 30 avril 1997. Le résultat net du calcul selon cette formule est que tous les montants représentant une pension alimentaire sont déductibles pour le payeur et inclus dans le revenu du bénéficiaire, à l'exception des montants relatifs à la pension alimentaire pour enfants auxquels se rapporte l'élément « B » .
+[9] Il y a deux questions à trancher. Tout d'abord, une date d'exécution, ainsi que le prévoit le paragraphe 56.1(4) de la Loi, a-t-elle été réellement établie. Ensuite, si une date d'exécution n'a pas été établie et que l'accord de séparation initial est toujours en vigueur, les versements de la pension alimentaire pour enfants qu'a faits Mme MacDonald après 1997 étaient-ils, en réalité, des versements d'une pension alimentaire pour enfants faits aux termes d'un accord écrit, ou étaient-ils des paiements ponctuels. La définition de l'expression « date d'exécution » , que renferme le paragraphe 56.1(4), est ainsi libellée :
+« date d'exécution » Quant à un accord ou une ordonnance :
+a) si l'accord ou l'ordonnance est établi après avril 1997, la date de son établissement;
+b) si l'accord ou l'ordonnance est établi avant mai 1997, le premier en date des jours suivants, postérieur à avril 1997:
+(i) le jour précisé par le payeur et le bénéficiaire aux termes de l'accord ou de l'ordonnance dans un choix conjoint présenté au ministre sur le formulaire et selon les modalités prescrits,
+(ii) si l'accord ou l'ordonnance fait l'objet d'une modification après avril 1997 touchant le montant de la pension alimentaire pour enfants qui est payable au bénéficiaire, le jour où le montant modifié est à verser pour la première fois,
+(iii) si un accord ou une ordonnance subséquent est établi après avril 1997 et a pour effet de changer le total des montants de pension alimentaire pour enfants qui sont payables au bénéficiaire par le payeur, la date d'exécution du premier semblable accord ou de la première semblable ordonnance,
+(iv) le jour précisé dans l'accord ou l'ordonnance, ou dans toute modification s'y rapportant, pour l'application de la présente loi.
+[10] En l'espèce, étant donné la preuve, il est incontestable que le sous-alinéa 56.1(4)b)(i) ne présente aucun intérêt pour la question dont est saisie la Cour. En ce qui concerne les sous-alinéas b)(ii) et (iii), il faut tenir compte des éléments de preuve suivants. Dans une lettre datée du 31 octobre 1997[4], l'avocat de l'appelant semble avoir répondu à une offre faite par l'avocate de Mme MacDonald en refusant le montant qu'elle offrait de verser à titre de pension alimentaire pour enfants au motif que le montant était nettement en-dessous du montant établi dans les Lignes directrices en vigueur à ce moment-là. Le 2 décembre 1997, l'avocate de Mme MacDonald a fait parvenir une lettre à l'avocat de l'appelant. Les parties pertinentes de cette lettre sont libellées comme suit :
+[TRADUCTION]
+Comme suite à notre conversation téléphonique du 13 novembre 1997, je vous avise que ma cliente vient tout juste de m'informer qu'elle a obtenu un poste à temps plein comme commis à la saisie de données, dans le secteur du service à la clientèle d'une entreprise située à Richmond Hill, et qu'elle commencera à travailler le 15 décembre 1997.
+[...]
+Ainsi que vous en avez été informé plus tôt, maintenant que ma cliente a trouvé un emploi à temps plein, elle est prête à verser une pension alimentaire pour enfants en fonction des montants établis dans les Lignes directrices fédérales sur les pensions alimentaires pour enfants. Le salaire annuel de ma cliente sera de 20 800 $. Selon les Lignes directrices fédérales sur les pensions alimentaires pour enfants, le montant de la pension alimentaire pour enfants que devrait verser le payeur qui gagne un tel salaire et qui a deux enfants est de 285 $ par mois.
+Par conséquent, je joins à cette lettre une série de douze chèques postdatés de 285 $, au nom de votre client, et qui sont datés du 1er de chaque mois à compter du 1er janvier 1998.
+Il n'y a aucune indication de l'existence d'une acceptation écrite de ces « dispositions » . Cependant, il n'est pas contesté que les chèques dont il est question ont été acceptés et encaissés par l'appelant.
+[11] La première question est de savoir si l'échange des deux lettres et les chèques encaissés peuvent être considérés comme quelque chose qui aurait créé un nouvel accord ou qui aurait modifié un accord de séparation existant, auquel cas l'alinéa 56.1(4)b)(ii) ou l'alinéa 56.1(4)b)(iii) de la définition de l'expression « date d'exécution » s'appliquerait. Je note que dans les deux cas, si une telle conclusion était justifiée, les montants qui représentent la pension ne seraient pas déductibles pour Mme MacDonald et ne seraient pas inclus dans le revenu de l'appelant. L'accord du 16 juillet 1996 stipulait que dès que Mme MacDonald aurait un emploi et gagnerait un revenu dépassant 10 000 $ par année, elle commencerait à verser une pension alimentaire pour enfants conformément aux Lignes directrices fédérales sur les pensions alimentaires pour enfants. Il était entendu et de fait, le paragraphe 10.4 de l'accord l'énonçait clairement, que les parties devaient nécessairement signer un accord modifiant l'accord initial de séparation pour prévoir la reprise du versement de la pension. Il n'est pas contesté qu'il n'existe pas d'accord écrit conclu ultérieurement, et que l'accord de séparation n'a pas fait l'objet d'une modification. L'avocate de l'intimée qui, à bon escient, est restée impartiale au cours de l'audience, a fait référence à certaines décisions rendues par la Cour canadienne de l'impôt et par la Cour fédérale selon lesquelles l'apposition de la signature des parties n'est pas nécessairement obligatoire pour que soit passé un accord écrit et que dans certaines circonstances, un échange de lettres signées par les avocats du contribuable et de l'épouse dont l'intention et l'effet sont de lier le contribuable et l'épouse, est considéré comme suffisant[5]. Toutefois, rien n'indique que l'intention et l'effet des lettres dont il est question étaient de lier les clients. De plus, je suis d'avis que ces décisions se distinguent de la présente affaire en ce que le paragraphe 30.2 de l'accord dont il est question dispose précisément que toute modification de l'accord « est sans effet, à moins qu'elle ne soit faite par écrit et signée par chaque partie devant témoin » . Cela n'a pas été fait.
+[12] Pour ces motifs, il devient nécessaire de déterminer si les dispositions que renferme le paragraphe 10.4 de l'accord de séparation signé en 1996 sont toujours en vigueur à cette fin. La preuve présentée devant la Cour démontre clairement que si ces dispositions de l'accord de séparation révèlent une « intention » selon laquelle Mme MacDonald reprendrait le versement mensuel de la pension alimentaire pour enfants lorsque son salaire aurait atteint un certain niveau, le langage utilisé ne fait que préparer la voie à la passation d'un nouvel accord ou à la modification de l'accord de séparation existant pour ce qui est du versement de la pension alimentaire pour enfants, et cela, comme je l'ai dit précédemment, n'a pas été fait.
+[13] Les dispositions pertinentes de la Loi de l'impôt sur le revenu, c.-à-d. l'article 56.1 et l'alinéa 60b), établissent clairement qu'il doit y avoir un accord écrit. Cette exigence est aussi établie dans la définition de l'expression « pension alimentaire » . S'il n'y a pas d'accord écrit, les montants ne peuvent pas être inclus dans le revenu du bénéficiaire et ils ne sont pas déductibles dans le calcul du revenu du contribuable. J'ai conclu que les paiements faits par Mme MacDonald ne représentent pas une pension alimentaire au sens de la Loi, puisqu'ils ne sont pas payables aux termes d'une ordonnance de la Cour ou d'un accord. Ils pourraient plutôt être décrits comme des paiements ponctuels qu'a faits Mme MacDonald à l'appelant.
+[14] En conséquence, la réponse à la question a) est oui, et la réponse aux questions b), c) et d) est non.
+[15] Les appels pour les années d'imposition 2000, 2001 et 2002 sont admis au motif que la pension alimentaire pour enfants reçue par l'appelant, dont le montant s'élève à 6 072 $, à 5 268 $ [sic] et à 3 184 $ respectivement, ne doit pas être incluse dans le calcul de son revenu pour les années en question.
+Signé à Ottawa, Canada, ce 1er jour de novembre 2005.
+« A.A. Sarchuk »
+Le juge Sarchuk
+Traduction certifiée conforme
+ce 9e jour de juin 2006.
+Virginie Loranger, traductrice
+RÉFÉRENCE :
+2005CCI707
+NO DU DOSSIER DE LA COUR :
+2004-4243(IT)I
+INTITULÉ DE LA CAUSE :
+Paul M. MacDonald c. Sa Majesté la Reine et Carol MacDonald
+LIEU DE L'AUDIENCE :
+Toronto (Ontario)
+DATE DE L'AUDIENCE :
+Le 16 septembre 2005
+MOTIFS DU JUGEMENT PAR :
+L'honorable juge A.A. Sarchuk
+DATE DU JUGEMENT :
+Le 1er novembre 2005
+COMPARUTIONS :
+Pour l'appelant :
+L'appelant lui-même
+Avocate de l'intimée :
+Me Jenny Mboutsiadis
+Pour la mise en cause :
+La mise en cause elle-même
+AVOCAT(S) INSCRIT(S) AU DOSSIER :
+Pour l'appelant :
+Nom :
+s.o.
+Étude :
+s.o.
+Pour l'intimée :
+Me John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Pièce A-1.
+[2] Pièce A-2.
+[3] Pièce A-3.
+[4] Pièce A-2.
+[5] Se reporter, par exemple, aux affaires Foley v. R., [2000] 4 C.T.C. 2016; Grant v. R., [2001] 2 C.T.C. 2474, et Horkins v. R., [1976] C.T.C. 52.

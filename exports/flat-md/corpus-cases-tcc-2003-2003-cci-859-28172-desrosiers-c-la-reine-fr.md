@@ -1,0 +1,149 @@
+---
+title: "Desrosiers c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28172/index.do"
+last_modified: "2003-12-23"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 CCI 859"
+citation2: ""
+neutral_citation: "2003 CCI 859"
+decision_date: "2003-12-23"
+language: "fr"
+item_id: "28172"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2018
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T18:22:26.768000+00:00"
+cases_cited_count: 0
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "c4fdbe1294b7afec06ae7b7119b08126a04a7fa01f23ecd963eed598c9fd0428"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Desrosiers c. La Reine
+
+- Citation: 2003 CCI 859
+- Decision date: 2003-12-23
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2018, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Desrosiers c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-12-23
+Référence neutre
+2003 CCI 859
+Numéro de dossier
+2002-2912(GST)I
+Juges et Officiers taxateurs
+François M. Angers
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2002-2912(GST)I
+ENTRE :
+BERNARD DESROSIERS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Requêtes entendues le 25 juin 2003 à Rivière-du-Loup (Québec)
+Devant : L'honorable juge François Angers
+Comparutions :
+Représentant de l'appelant :
+Bernard Brosseau
+Avocat de l'intimée :
+Me Frank Archambault
+____________________________________________________________________
+ORDONNANCE
+Vu la requête de l'intimée afin d'obtenir le rejet de l'appel au motif qu'il a été interjeté en dehors des délais prescrits par la Loi sur la taxe d'accise ( « la Loi »);
+Vu qu'il n'y a aucune preuve que la nouvelle cotisation a été envoyée à l'appelant selon les exigences du paragraphe 301(5) de la Loi;
+La requête de l'intimée est rejetée.
+Vu la requête préliminaire de l'appelant afin d'obtenir l'annulation de la cotisation au motif que le ministre n'a pas agi avec diligence conformément au paragraphe 301(3) de la Loi;
+Vu les motifs ci-joints;
+La requête de l'appelant est rejetée.
+L'appel de la cotisation du 13 mars 1998 sera entendu lors d'une prochaine séance de cette Cour, à une date qui sera communiquée aux parties.
+Signé à Edmundston, Canada, ce 23e jour de décembre 2003.
+« Juge Angers »
+Juge Angers
+Référence : 2003CCI859
+Date : 20031223
+Dossier : 2002-2912(GST)I
+ENTRE :
+BERNARD DESROSIERS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DE L'ORDONNANCE
+Le juge François Angers
+[1] Il s'agit d'un appel d'une cotisation en date du 13 mars 1998 relativement à la taxe sur les produits et services, établie en vertu de la Loi sur la taxe d'accise (« la Loi ») pour la période du 1er février 1995 au 30 novembre 1997. La Cour a été saisie d'une requête présentée par chacune des parties au début de l'audience et, vu la nature de ces requêtes, il y avait lieu de statuer sur elles avant d'entendre la preuve sur le fond.
+[2] Pour nous situer dans le contexte, j'exposerai les faits qui ont été établis à l'appui des deux requêtes et préciserai la nature de celles-ci.
+[3] La cotisation portée en appel est datée du 13 mars 1998 et a été envoyée à l'appelant à l'adresse de sa résidence, où il habite d'ailleurs depuis 1983. Revenu Canada, Accise, Douanes et Impôt a reçu, le 11 juin 1998, un avis d'opposition non daté à ladite cotisation présenté par l'appelant selon les dispositions du paragraphe 301(1.1) de la Loi.
+[4] N'ayant pas reçu du ministre de confirmation, d'annulation ou de nouvelle cotisation, l'appelant s'est prévalu de l'alinéa 306 b) de la Loi et a interjeté appel à notre Cour le 16 mai 2002. L'alinéa 306 b) se lit comme suit :
+La personne qui a produit un avis d'opposition à une cotisation aux termes de la présente sous-section peut interjeter appel à la Cour canadienne de l'impôt pour faire annuler la cotisation ou en faire établir une nouvelle lorsque, selon le cas :
+a) [. . . ]
+b) un délai de 180 jours suivant la production de l'avis est expiré sans que le ministre n'ait notifié la personne du fait qu'il a annulé ou confirmé la cotisation ou procédé à une nouvelle cotisation.
+[5] L'appelant a demandé par voie de requête préliminaire l'annulation de la cotisation au motif que le ministre n'a pas agi avec diligence, sur réception de l'avis d'opposition, pour examiner la cotisation de nouveau et l'annuler, la confirmer ou établir une nouvelle cotisation, conformément au paragraphe 301(3).
+[6] En réponse à cette demande, l'intimée a produit en preuve une nouvelle cotisation, en date du 28 janvier 2000, pour la même période, laquelle cotisation avait été établie en vertu du paragraphe 301(5) de la Loi et annulait la cotisation du 13 mars 1998. Une photocopie du registre du ministère faisant état de l'envoi par la poste est jointe à la cotisation et indique que celle-ci avait été « mallée » le 14 janvier 2000.
+[7] L'avocat de l'intimée soutient donc qu'il y a effectivement eu examen de l'avis d'opposition par le ministre et qu'il en est résulté l'établissement d'une nouvelle cotisation.
+[8] Cet état de choses a amené l'avocat de l'intimée à demander à la Cour le rejet de l'appel au motif qu'il a été interjeté en dehors des délais prescrits par la Loi puisque la cotisation est datée du 28 janvier 2000 et l'avis d'appel a été déposé le 16 mai 2002.
+[9] En réplique, l'appelant a témoigné qu'il n'avait jamais reçu la nouvelle cotisation et que c'était la première fois qu'il en prenait connaissance. De plus, la réponse à l'avis d'appel de l'intimée ne soulève pas l'existence de la nouvelle cotisation.
+[10] Le paragraphe 301(5) de la Loi prévoit qu'après avoir examiné de nouveau ou confirmé une cotisation, le ministre doit faire part de sa décision par avis envoyé par courrier recommandé ou certifié à la personne qui a fait opposition à la cotisation. Il suffit donc au ministre d'envoyer la nouvelle cotisation par courrier recommandé ou certifié pour satisfaire aux exigences de signification énoncées dans la Loi. La preuve de la signification par la poste, lorsque la question de la signification devient un point en litige, se fait selon les dispositions du paragraphe 335(1) de la Loi, qui est ainsi rédigé :
+Preuve de signification par la poste – Lorsque la présente partie ou un règlement d'application prévoit l'envoi par la poste d'une demande de renseignements, d'un avis ou d'une mise en demeure, l'affidavit d'un fonctionnaire de l'Agence, souscrit en présence d'un commissaire ou autre personne autorisée à le recevoir, constitue la preuve de l'envoi ainsi que de la demande, de l'avis ou de la mise en demeure, s'il indique que le fonctionnaire est au courant des faits de l'espèce, que la demande, l'avis ou la mise en demeure a été envoyé par courrier recommandé ou certifié à une date indiquée à l'intéressé dont l'adresse est précisée et que le fonctionnaire identifie comme pièces jointes à l'affidavit, le certificat de recommandation remis par le bureau de poste ou une copie conforme de la partie pertinente du certificat et une copie conforme de la demande, de l'avis ou de la mise en demeure.
+[11] En l'espèce, il n'y a aucune preuve que la nouvelle cotisation a été envoyée à l'appelant selon les exigences du paragraphe 301(5) de la Loi. Le document joint à la cotisation indique qu'elle a été envoyée mais ne spécifie pas par quelle méthode cet envoi a été fait. Comme on ne m'a pas convaincu qu'il y a effectivement eu envoi d'une nouvelle cotisation selon les exigences de la Loi, je dois conclure que le ministre n'a jamais envoyé à l'appelant le résultat de son examen de l'avis d'opposition de ce dernier, de sorte que le présent appel a donc été interjeté dans les délais prescrits.
+[12] Il faut se rappeler que la Loi n'exige pas que la cotisation soit reçue mais dit plutôt qu'il suffit de l'envoyer. À ce sujet, il suffit de me référer à la décision de la Cour d'appel fédérale dans l'affaire Schafer v. R., [2000] A.C.F. no 1480 (Q.L.) (angl. : [2000] G.S.T.C. 82). La requête de l'intimée est donc rejetée.
+[13] En ce qui concerne la requête de l'appelant faisant grief au ministre de ne pas avoir agi avec diligence sur réception de l'avis d'opposition, le représentant de l'appelant fonde cette requête sur la décision du juge Bonner de notre Cour dans l'affaire J. Stollar Construction Ltd. c. Le ministre du Revenu national, C.C.I., no 85-940 (IT), 3 février 1989 (angl. 89 DTC 134). Le juge Bonner, dans cette affaire, a invalidé une cotisation faite par le ministre en vertu de la Loi de l'impôt sur le revenu plus de cinq ans après l'envoi par le contribuable de sa déclaration de revenus.
+[14] Depuis l'affaire Stollar, il y a eu d'autres décisions portant sur la même question, dont l'arrêt Ginsberg c. Canada [1996] 3 C.F. 334, où la Cour d'appel fédérale a conclu que le manquement à l'obligation de fixer l'impôt avec « toute la diligence possible » n'entraîne pas l'annulation d'une cotisation. Le même raisonnement est applicable en l'espèce, même si sont ici en cause des dispositions de la Loi. En l'espèce, il y a déjà eu une cotisation établie par le ministre et ce n'est que l'examen de l'opposition par ce dernier qui doit être se faire avec diligence.
+[15] Une autre distinction tient à ce que l'appelant en l'espèce a le droit d'interjeter appel auprès de cette Cour si un délai de 180 jours suivant la production de l'avis d'opposition a expiré sans que le ministre ne lui ait notifié le fait qu'il a annulé ou confirmé la cotisation ou procédé à une nouvelle cotisation. Cela permet donc à l'appelant de faire avancer sa cause et d'être entendu sur le fond sans attendre jusqu'après l'examen de son avis d'opposition par le ministre. Finalement, l'application des dispositions de l'article 299 de la Loi vient empêcher l'annulation de la cotisation portée en appel en l'espèce.
+[16] Pour ces motifs, je rejette la requête de l'appelant. L'appel de la cotisation du 13 mars 1998 sera donc entendu lors d'une prochaine séance de cette Cour, à une date qui sera communiquée aux parties.
+Signé à Edmundston, Canada, ce 23e jour de décembre 2003.
+« Juge Angers »
+Juge Angers
+RÉFÉRENCE :
+2003CCI859
+No DU DOSSIER DE LA COUR :
+2002-2912(GST)I
+INTITULÉ DE LA CAUSE :
+Bernard Desrosiers et Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+Rivière-du-Loup (Québec)
+DATE DE L'AUDIENCE :
+le 25 juin 2003
+MOTIFS DE JUGEMENT PAR :
+l'honorable juge François Angers
+DATE DU JUGEMENT :
+le 23 décembre 2003
+COMPARUTIONS :
+Pour l'appelant :
+Bernard Brosseau, c.a.
+Pour l'intimée :
+Me Frank Archambault
+AVOCAT(E) INSCRIT(E) AU DOSSIER:
+Pour l'appelant :
+Nom :
+Étude :
+Pour l'intimé(e) :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

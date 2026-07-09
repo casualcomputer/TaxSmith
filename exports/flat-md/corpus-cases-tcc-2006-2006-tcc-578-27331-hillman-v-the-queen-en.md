@@ -1,0 +1,180 @@
+---
+title: "Hillman v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27331/index.do"
+last_modified: "2006-10-24"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 TCC 578"
+citation2: ""
+neutral_citation: "2006 TCC 578"
+decision_date: "2006-10-24"
+language: "en"
+item_id: "27331"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 871
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T21:38:50.219000+00:00"
+cases_cited_count: 2
+cases_citing_count: 4
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "831ecbbd4c4833907ef078ad9b384146c647b916ca2a7a3e93e4aaea084b034f"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Hillman v. The Queen
+
+- Citation: 2006 TCC 578
+- Decision date: 2006-10-24
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 871, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Hillman v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-10-24
+Neutral citation
+2006 TCC 578
+File numbers
+2006-1697(IT)I
+Judges and Taxing Officers
+Gerald J. Rip
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2006-1697(IT)I
+BETWEEN:
+EVAN S. HILLMAN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on October 13, 2006 at Calgary, Alberta.
+Before: The Honourable Associate Chief Justice Gerald J. Rip
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Mark Heseltine
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 2004 taxation year is dismissed.
+Signed at Ottawa, Canada, this 24th day of October 2006.
+"Gerald J. Rip"
+Rip A.C.J.
+Citation: 2006TCC578
+Date: 20061024
+Docket: 2006-1697(IT)I
+BETWEEN:
+EVAN S. HILLMAN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Rip A.C.J.
+[1] Evan Hillman appeals from an assessment of income tax for his 2004 taxation year in which the Minister of National Revenue denied his claim for a non-refundable tuition tax credit of $3,794. The Minister disallowed the tuition fees as tuition credits on the basis that they were not paid to a university, college, or other educational institution in Canada providing courses at a post-secondary level as required by paragraph 118.5(1)(a) of the Income Tax Act.
+[2] The relevant portions of subsection 118.5(1) read as follows:
+118.5 (1) For the purpose of computing the tax payable under this Part by an individual for a taxation year, there may be deducted,
+(a) where the individual was during the year a student enrolled at an educational institution in Canada that is
+(i) a university, college or other educational institution providing courses at a post-secondary school level ...
+(b) where the individual was during the year a student in full-time attendance at a university outside Canada in a course leading to a degree ...
+118.5. (1) Les montants suivants sont déductibles dans le calcul de l'impôt payable par un particulier en vertu de la présente partie pour une année d'imposition:
+a) si le particulier est inscrit au cours de l'année à l'un des établissements d'enseignement suivants situés au Canada:
+(i)établissement d'enseignement -- université, collège ou autre -- offrant des cours de niveau postsecondaire ...
+b) si, au cours de l'année, le particulier fréquente comme étudiant à plein temps une université située à l'étranger, où il suit des cours conduisant à un diplôme ...
+[3] The appellant is a graduate in law from York University's Osgoode Hall. In 2004 he enrolled for a course to prepare him to write the New York State Bar examinations, and, if successful, to improve his employment prospects and professional qualifications. The course Mr. Hillman attended was given in Toronto for about seven weeks, from the last week of December 2004 to mid-February 2005. The course was offered by BAR/BRI Bar Review, an entity incorporated in the United States and having its head office in New York City. Apparently BAR/BRI is a member of the Thomson Group of companies.
+[4] The course was given at a classroom at the Ontario Driving School in Toronto. BAR/BRI has no permanent premises in Canada. The lectures attended by Mr. Hillman were all videotaped.[1] BAR/BRI shipped tapes to the school in Toronto. One of the students, in this case Mr. Hillman,[2] would pick up the tapes from the offices of the driving school, run the tape for the proper day and then ship the tape back to New York. The students would then study and complete regular time-limited assignments which Mr. Hillman would send to New York for review. The corrected assignments would be returned to Mr. Hillman to be distributed to the appropriate students. If students had concern with the contents of a lecture or had comments on an assignment, they would often discuss these among themselves; however, any student could contact BAR/BRI on his or her own.
+[5] BAR/BRI had a website that displayed full answers to assignments as well as critiques, including common errors of submitted answers.
+[6] The parties agree that the appellant's claim of $3,794 was paid to the following:
+BAR/BRI Bar Review[3]
+US$2,762.63
+National Conference of Bar Examiners, Iowa[4]
+US$52.00
+New York State Board of Law Examiners[5]
+US$250.00
+Total
+US$3,064.63
+TOTAL Canadian Tuition Credit Claimed
+C$3,794.00
+[7] In assessing, the Minister assumed, and the appellant agreed, that the BAR/BRI Bar Review payment of US$2,762.63 included:
+Lecture Fee $1,600.00
+Materials Lease $900.00
+Tax $77.62
+Materials Deposit $125.00
+Shipping $60.00
+Miscellaneous $0.01
+[8] The issue before me is whether the appellant is entitled to claim the tuition credit of $3,794 in computation of his non-refundable tax credits and tax payable for his 2004 taxation year. There are two different amounts to consider: the fees for the course provided by BAR/BRI Bar Review, and the two examination fees. I must determine whether the BAR/BRI Bar Review is an "educational institution" and if so, if it is an education institution in Canada. If I find BAR/BRI is an education institution in Canada, I must then determine if it provides courses at a post-secondary school level as required by subparagraph 118.5(1)(a)(i) of the Act. Finally, I am to find whether the examination fees of US$52 and US$250 were paid to a university outside of Canadaleading to a degree as required by paragraph 118.5(1)(b).
+[9] Mr. Hillman argued that in reading paragraph 118.5(1)(a) I should read the provision to have the following meaning:
+Where the individual was during the year enrolled in Canada at an educational institution...
+I cannot agree with the appellant's submission. The provision is clear and unambiguous; the words are precise: the education institution referred to is "in Canada". If I had any doubt, reference to the French version of the provision would confirm my interpretation: the educational institutions contemplated in paragraph 118.5(1)(a)(i) are to be "situés" (situated) in Canada. The Supreme Court cautioned that the ordinary words of a provision play a dominant role in its interpretation: Canada Trustco Mortgage Co. v. Canada[6].
+[10] Nevertheless, the appellant argued that since the purpose of the course is identical to the purpose of courses given by Bars and Law Societies of the provinces to students preparing to take the appropriate provincial Bar examinations, fees paid to BAR/BRI for such courses should be entitled to a tuition credit. This agreement is reasonable but is not sanctioned by the Act.
+[11] The Canada Revenue Agency in its Interpretation Bulletin IT-516R2, at paragraph 3(b), recognizes that a professional corporation such as a provincial Law Society is an "other educational institution" for purposes of subparagraph 118.5(1)(a)(i) if it provides courses to its members and a qualification for membership to the society is a post-secondary education. The BAR/BRI no doubt provides courses to persons who normally have a post-secondary education and who want to quality for membership in a professional organization. The appellant explains that since the BAR/BRI provides a task that a provincial law society would perform, that alone makes it a professional organization. However, the BAR/BRI itself is not a professional organization; nor is it otherwise an educational institution. The BAR/BRI is not a self-regulating body under any statutory enactment; moreover, the appellant is not a member of BAR/BRI but rather a mere customer. Merely providing preparation courses is only one minor aspect that law societies perform. In other words, an entity fulfilling one function of a professional body does not somehow catapult that entity into the category of a professional organization. The appellant did not lead any proof that even suggested that BAR/BRI is a professional organization. If I am to accept the Canada Revenue Agency's view that a professional organization may be considered an educational institution, I would want to be satisfied that it is an organization that at least is empowered by law to certify or license its members to practice the profession, examines its candidate for memberships, and regulates the conduct of its members. BAR/BRI does not carry out these functions. I do not accept the appellant's submissions in this regard.
+[12] Although I have already determined that BAR/BRI is not an educational institution in Canada, it may serve some purpose to consider whether it is an education institution. In Friedland v. R.,[7] Rowe D.J.T.C.C., after noting that there does not appear to be a universal definition of "educational institution", attempted to establish the parameters of the definition as it pertains to the Act:
+The Oxford English Dictionary defines "education" as:
+3. the systematic instruction, schooling or training given to the young in preparation for the work of life; by extension similar instruction or training obtained in adult age. Also, the whole course of scholastic instruction which a person has received. Often with limiting words denoting the nature or the predominant subject of the instruction or kind of life for which it prepares, as classical, legal, medical, technical, commercial, art education.
+and "institution" as:
+7. an establishment, organization, or association, instituted for the promotion of some object, esp. one of public or general utility, religious, charitable, educational, etc., e.g. a church, school, college, hospital, asylum, reformatory, mission or the like; [...] The name is often popularly applied to the building of the appropriated to the work of a benevolent or educational institution.
+[13] Black's Law Dictionary, 6th Edition, defines "educational institution" as follows:
+A school, seminary, college, university, or other educational establishment, not necessarily a chartered institution. As used in zoning ordinance, the term may include not only buildings, but also all grounds necessary for the accomplishment of the full scope of educational instruction, including those things essential to mental, moral, and physical development.
+[14] BAR/BRI does not fit into these criteria.
+[15] The fees in issue were paid to an entity outside of Canada. For Mr. Hillman to obtain a tuition credit in these circumstances he must rely on paragraph 118.5(1)(b) which requires that payment must be paid to a university. In Gilbert v. R.,[8] Mogan J. examined the differences between entities in Canada and those outside Canada:
+20 It is interesting to note the contrast between paragraphs (a) and (b) on the basis that if the person is attending an educational institution in Canada, that institution may be a university or a college or another educational institution providing courses at a post-secondary school level. In other words, if a person wants to deduct a tuition tax credit in Canada, the person paying the tuition does not have to be attending a university. It can be an educational institution other than a university. But if a person wants to deduct a tuition tax credit by going to an educational institution outside of Canada, it is very clear to me that that institution must be a university because of the words in the opening lines of paragraph (b) which state: "where the individual was during the year a student in full-time attendance at a university outside Canada in a course leading to a degree".
+21 Parliament has created a broader spectrum of institutions which a person can attend at the post-secondary level within Canada and still get the tuition credit, but Parliament has restricted the number of institutions outside Canada for which a tuition credit can be achieved. ... I speculate that the distinction is to place some control on the kind of post-secondary institutions which may exist in countries outside of Canada where it would be impossible to determine whether they were truly of an educational nature in that they grant a degree. I think the legislation is more confining in paragraph (b) to give some measure of control as to the kinds of tuition paid to institutions outside Canada which will give the payer or parent a tax credit. ...
+[16] Clearly BAR/BRI is not a university and the tuition fees paid to it are not eligible for a tuition fee credit.
+[17] The examination fees were paid to entities outside of Canada and, thus, paragraph 118.5(1)(b) not (a) is applicable. Paragraph 118.5(1)(b) states that the tuition fees must be paid to a "university" "in a course leading to a degree".
+[18] The appellant contends that paragraph 26 of IT-516R2 is authority for the proposition that examination fees are eligible for tuition credit status. This is a misunderstanding of the relevant interpretation bulletin. Paragraph 26 of IT-516R2 refers to fees that were paid as part of a course provided by an educational institution in Canada. The preamble of paragraph 26 states:
+The following items that relate to a particular program (whether identified separately or included as course or subject fees) are considered eligible tuition fees: [emphasis added]
+[19] For the purpose of this appeal, only ancillary fees "that are paid to" an "educational institution" referred to in subparagraph (1)(a)(i) are eligible for a tuition credit.
+[20] There is no suggestion that the New York State Board of Law Examiners and National Conference of Bar Examiners in Iowawere universities providing courses leading to a degree; these fees are ineligible for a tuition tax credit.
+[21] Even if the fees were paid in Canada to a Canadian body, this Court has previously found that such examination fees are not eligible for a tuition credit as law examiners do not provide post-secondary school level courses, nor are they ancillary fees allowable under paragraph 118.5(1)(c): see Arrioja v. Canada.[9]
+[22] The appeal is dismissed.
+Signed at Ottawa, Canada, this 24th day of October 2006.
+"Gerald J. Rip"
+Rip A.C.J.
+CITATION: 2006TCC578
+COURT FILE NO.: 2006-1697(IT)I
+STYLE OF CAUSE: EVAN S. HILLMAN. AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Calgary, Alberta
+DATES OF HEARING: October 13, 2006
+REASONS FOR JUDGMENT BY: The Honourable Justice Gerald J. Rip
+DATE OF JUDGMENT: October 24, 2006
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Mark Heseltine
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Mr. Hillman testified that he believed that at summer courses in Toronto, lectures were offered live as well as videotaped.
+[2] Mr. Hillman was paid for his services. This payment is not in issue.
+[3] This was for the preparation course to write the New York Bar exam.
+[4] Fee to write the Multistate Professional Responsibility Examination; to be called to the New York State Bar, a candidate had to write the specific state Bar exam as well as a national exam.
+[5] Fee to write New York Bar exam.
+[6] [2005] 2 S.C.R. 601, 2005 SCC 54.
+[7] [2000] 1 C.T.C. 2938 (T.C.C.).
+[8] [1999] 2 C.T.C. 2127.
+[9] 2005TCC95, [2005] 2 C.T.C. 2012, 2005 DTC 392.

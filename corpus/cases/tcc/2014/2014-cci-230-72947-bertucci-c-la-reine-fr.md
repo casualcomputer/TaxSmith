@@ -1,0 +1,155 @@
+---
+title: "Bertucci c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/72947/index.do"
+last_modified: "2014-07-17"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2014 CCI 230"
+citation2: ""
+neutral_citation: "2014 CCI 230"
+decision_date: "2014-07-17"
+language: "fr"
+item_id: "72947"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5363
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T15:49:34.984000+00:00"
+cases_cited_count: 2
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "98a6b3a9eff51bbef4d7c0613e6ae87e6fda165026e74e4337f6a70bfe037a06"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Bertucci c. La Reine
+
+- Citation: 2014 CCI 230
+- Decision date: 2014-07-17
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5363, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Bertucci c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2014-07-17
+Référence neutre
+2014 CCI 230
+Numéro de dossier
+2012-3521(IT)G
+Juges et Officiers taxateurs
+Valerie A. Miller
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2012-3521(IT)G
+ENTRE :
+FRANK JOSEPH BERTUCCI,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 11 juillet 2014, à Toronto (Ontario).
+Devant : L’honorable juge Valerie Miller
+Comparutions :
+Pour l’appelant :
+L’appelant lui‑même
+Avocat de l’intimée :
+Me Christian Cheong
+JUGEMENT
+L’appel interjeté à l’encontre des cotisations établies au titre de la Loi de l’impôt sur le revenu pour les années d’imposition 2001 et 2002 de l’appelant est rejeté.
+Signé à Ottawa, Canada, ce 17e jour de juillet 2014.
+« V.A. Miller »
+Juge V.A. Miller
+Traduction certifiée conforme
+ce 1er jour de mars 2016.
+Espérance Mabushi, M.A. Trad. Jur.
+Référence : 2014 CCI 230
+Date : 20140717
+Dossier : 2012-3521(IT)G
+ENTRE :
+FRANK JOSEPH BERTUCCI,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge V.A. Miller
+[1] L’appelant n’a pas produit ses déclarations de revenus pour les années d’imposition 2001 et 2002 et le ministre du Revenu national (le « ministre ») a établi une cotisation à son égard le 26 octobre 2009 en application du paragraphe 152(7) de la Loi de l’impôt sur le revenu (la « Loi »).
+[2] Pour établir la cotisation à l’égard de l’appelant, le ministre a formulé les hypothèses de fait suivantes :
+[traduction]
+Année d’imposition 2001
+a) dans l’année d’imposition 2001, l’appelant a été embauché par Postes Canada pour fournir des services de livraison du courrier à titre d’entrepreneur indépendant;
+b) le 7 décembre 2001, l’appelant a cédé à la société 1483740 Ontario Ltd. ses droits et responsabilités relatifs à l’entente qu’il avait conclue avec Postes Canada en date du 29 août 2001;
+c) la société 1483740 Ontario Ltd. appartenait à cent pour cent à l’appelant;
+d) la société 1483740 Ontario Ltd. a été constituée en personne morale le 14 novembre 2001;
+e) la société 1483740 Ontario Ltd. n’a déclaré aucun bénéfice ni aucun revenu dans sa déclaration de revenus pour l’année d’imposition 2001;
+f) dans l’année d’imposition 2001, Postes Canada a versé une rémunération de 13 333 $ à l’appelant pour les services qu’il a fournis;
+g) pendant toutes les périodes pertinentes, l’appelant faisait également de la vente directe de produits de la société For‑Mor Canada Inc. à des clients, à titre d’agent indépendant;
+h) dans l’année d’imposition 2001, la société For‑Mor Canada Inc. a versé à l’appelant un revenu de commissions de 1 595 $;
+i) pour l’année d’imposition 2001, la société Greenock Ressources a également versé à l’appelant un revenu de commissions de 1 293 $;
+Année d’imposition 2002
+j) le ministre a effectué un examen de vérification des comptes de fiducie en ce qui concerne le compte de paie de la société 1483740 Ontario Inc. pour son année d’imposition 2002;
+k) dans l’année d’imposition 2002, la société 1483740 Ontario Inc. a versé 28 082 $ à l’appelant;
+l) pour l’année d’imposition 2002, la Cour [2007 CCI 258] a conclu que l’appelant était un sous‑traitant de la société 1483740 Ontario Inc. et qu’il avait reçu une rémunération mensuelle d’environ 2 400 $ en contrepartie de ses services;
+m) pour l’année d’imposition 2002, la société For‑Mor Canada Inc. a versé à l’appelant un revenu de commissions de 1 016 $;
+n) pour l’année d’imposition 2002, Postes Canada a versé 2 666 $ à l’appelant.
+[3] À l’audience, l’appelant a admis toutes les hypothèses, à l’exception de celle formulée au paragraphe i). Il a déclaré qu’il avait bel et bien reçu un revenu de commissions de 1 293 $ en 2001, mais que ce revenu provenait de la société Alive International Inc. et non de la société Greenock Resources.
+[4] En mai 2002, l’Agence du revenu du Canada (l’« ARC ») a envoyé une mise en demeure à l’appelant pour qu’il produise sa déclaration de revenus pour 2001. L’appelant a répondu à la mise en demeure par les questions suivantes : (i) la mise en demeure est-elle conforme aux paragraphes 150(1) et (2) de la Loi ? (ii) quelle est la personne qui affirme ne pas avoir reçu la déclaration de revenus ? Il n’a pas produit ses déclarations de revenus pour 2001 et 2002.
+[5] Au début de l’audience, l’appelant a déclaré qu’il n’avait pas l’intention de se montrer hostile. Il était à l’audience pour représenter les [traduction] « petites gens » en trouvant des moyens de réduire ses impôts au minimum. Il a soutenu qu’en 2001 et en 2002, il avait été embauché à titre d’entrepreneur indépendant et que la Loi ne s’appliquait pas aux entrepreneurs indépendants. Il a également avancé que la Loi était incompréhensible pour la personne ordinaire et qu’elle ne devrait pas s’appliquer.
+[6] Bien que l’appelant ait déclaré qu’il n’appartenait à aucun groupe particulier, il a utilisé des notions et une terminologie associées au [traduction] « plaideur organisé d’arguments commerciaux pseudo‑juridiques » qui a été décrit par J.D. Rooke, juge en chef adjoint de la Cour du Banc de la Reine de l’Alberta dans la décision Meads v Meads, 2012 ABQB 571. L’appelant s’est fondé sur une pléthore de lois (dont aucune n’était pertinente, à l’exception de la Loi), de maximes juridiques, de définitions du Canadian Law Dictionary, de formulaires et de lettres de l’ARC, ainsi que de formulaires provenant de divers ministères du gouvernement de l’Ontario. Il a déclaré que les formulaires de l’ARC n’étaient pas clairs alors que ceux du gouvernement de l’Ontario étaient sans équivoque. Il a posé la question de savoir si le formulaire T1 du Guide général d’impôt et de prestations était « légitime » et si l’ARC représentait le ministre. Il me semble que son argument reposait essentiellement sur le fait que la définition du terme « personne » dans la Loi ne mentionnait pas clairement qu’elle s’appliquait à lui en sa qualité [traduction] « d’être humain, de personne physique » et d’entrepreneur indépendant.
+[7] À mon avis, l’appelant, tout comme la plupart des plaideurs qui utilisent la stratégie consistant à dire que la Loi ne s’applique pas à eux, ne comprenait pas vraiment mal la Loi. En l’espèce, l’appelant n’a pas mal interprété la définition du terme « personne » figurant dans la Loi. Sa conduite et ses lettres adressées à l’ARC montrent une [traduction] « intention délibérée de désobéir ». Voir la décision Meads (précitée), au paragraphe 561. L’appelant n’essayait pas de réduire ses impôts au minimum, mais cherchait à éviter le paiement de tout impôt. Ses arguments n’ont absolument aucun fondement.
+[8] En conclusion, l’appelant était une « personne » résidant en Ontario, au Canada, en 2001 et en 2002, et le revenu qu’il a gagné durant ces années est imposable. Il n’a jamais été contesté qu’il avait reçu un revenu de 16 221 $ et de 31 764 $ en 2001 et en 2002, respectivement, et qu’il n’avait pas produit ses déclarations de revenus pour ces années‑là. C’est à juste titre que les pénalités pour production tardive ont été imposées à l’appelant. L’appel est rejeté.
+Signé à Ottawa, Canada, ce 17e jour de juillet 2014.
+« V.A. Miller »
+Juge V.A. Miller
+Traduction certifiée conforme
+ce 1er jour de mars 2016.
+Espérance Mabushi, M.A. Trad. Jur.
+RÉFÉRENCE :
+2014 CCI 230
+NO DU DOSSIER DE LA COUR :
+2012-3521(IT)G
+INTITULÉ :
+FRANK JOSEPH BERTUCCI et
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+Le 11 juillet 2014
+MOTIFS DU JUGEMENT :
+L’honorable juge Valerie Miller
+DATE DU JUGEMENT :
+Le 17 juillet 2014
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui‑même
+Avocat de l’intimée :
+Me Christian Cheong
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée :
+William F. Pentney
+Sous‑procureur général du Canada
+Ottawa, Canada

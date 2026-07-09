@@ -1,0 +1,171 @@
+---
+title: "Foster v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/127230/index.do"
+last_modified: "2015-12-16"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2015 TCC 334"
+citation2: ""
+neutral_citation: "2015 TCC 334"
+decision_date: "2015-12-16"
+language: "en"
+item_id: "127230"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3043
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T10:02:13.345000+00:00"
+cases_cited_count: 2
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "4c428a795399837b0da0b5c6f2374021987d354a0043423d21f4dd0704720797"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Foster v. The Queen
+
+- Citation: 2015 TCC 334
+- Decision date: 2015-12-16
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3043, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Foster v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2015-12-16
+Neutral citation
+2015 TCC 334
+File numbers
+2014-2390(IT)G
+Judges and Taxing Officers
+Brent Paris
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2014-2390(IT)G
+BETWEEN:
+GLENN FOSTER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Motion in writing
+The Honourable Justice B. Paris
+Counsel for the Appellant:
+John Townsend
+Counsel for the Respondent:
+Stan McDonald
+ORDER
+Upon the Appellant bringing a motion for determination, before hearing, of the following question pursuant to subsection 58(1) of the Tax Court of Canada Rules (General Procedure):
+Did the Minister of National Revenue (“Minister”) have the statutory authority to issue the May 23, 2014 reassessment of tax for Mr. Foster’s 2007 taxation year pursuant to subsection 152(5) of the Income Tax Act (Canada)(the “Act”)?
+And upon having read the submissions of counsel and the materials filed;
+The above question is decided as set out in the Reasons for Order attached hereto. Costs on this motion are left to the discretion of the trial judge.
+Signed at Vancouver, British Columbia, this 16th day of December 2015.
+“B.Paris”
+Paris J.
+Citation: 2015 TCC 334
+Date: 20151216
+Docket: 2014-2390(IT)G
+BETWEEN:
+GLENN FOSTER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Paris J.
+[1] The Appellant has applied under subsection 58(1) of the Tax Court of Canada Rules (General Procedure) for a determination of the following question:
+Did the Minister of National Revenue (“Minister”) have the statutory authority to issue the May 23, 2014 reassessment of tax for Mr. Foster’s 2007 taxation year pursuant to subsection 152(5) of the Income Tax Act (Canada)(the “Act” )?
+[2] The Respondent does not take issue with the Court determining the question posed by the Appellant. This is appropriate since the question is one of mixed fact and law that is raised in the Appellant’s Notice of Appeal, and the determination of the question in the Appellant’s favour would dispose of the appeal.
+FACTS [3] On May 2, 2007, the Appellant incorporated Kate and Jerr Fisheries Ltd. (“KJF” ) to operate a fishing business. The Appellant was the sole shareholder of KJF.
+[4] On June 6, 2007, the Appellant entered into an Agreement of Purchase and Sale (the “PSA” ) with Brian Lord (“the Vendor” ) for the purchase of a fishing vessel and fishing equipment (together, the “Equipment” ), and fishing licences (the “Licences” ). The purchase price of the Equipment and Licences was $415,000. The PSA allocated $414,999 of the $415,000 purchase price to the fishing licenses and $1 to the Equipment.
+[5] The Appellant also entered into a Purchase and Loan Agreement (the “PLA” ) with By the Water Shellfish Inc. (the “Lender” ) wherein the Lender agreed to provide financing to the Appellant for the acquisition of the Equipment and Licences.
+[6] The Appellant intended to acquire the Equipment and Licences on behalf of KJF, although this was not reflected in the PSA or PLA.
+[7] Upon the closing of the PSA, KJF paid $200,000 to the Vendor. The remainder of the purchase price was financed under a loan agreement entered into between the Appellant and another corporation.
+[8] The Appellant filed his personal return for his 2007 taxation year and caused KJF to file its 2007 corporate tax return on the basis that KJF had acquired the Equipment and Licences, and on the basis that the cost of the Equipment was $200,000 and the cost of the Licences was $215,000.
+[9] The Appellant was first assessed by the Minister on May 20, 2008 for his 2007 taxation year.
+[10] On January 5, 2012, the Minister reassessed the Appellant to include in his income a shareholder benefit in the amount of $70,000. The reassessment was made beyond the normal reassessment period on the basis of a waiver filed by the Appellant on April 27, 2011.
+[11] In reassessing the Appellant, the Minister assumed that the Appellant had acquired the Equipment and Licenses personally and that the fair market value of the Equipment was $130,000 and the fair market value of the Licenses was $285,000 at the time of acquisition.
+[12] The Minister also assumed that after the Appellant acquired the Equipment and Licences, he transferred the Equipment to KJF for $200,000 (the “Assumed Transfer” ), thereby receiving a shareholder benefit equal to the excess of the amount paid by KJF for the Equipment over its fair market value.
+[13] On January 30, 2012, the Appellant filed a Notice of Objection to the reassessment.
+[14] On May 25, 2012, the Appellant commenced an application in the New Brunswick Court of Queen’s Bench (the “Court”) for rectification of the PSA and PLA to substitute KJF as the purchaser of the Equipment and Licences and the borrower of the funds.
+[15] With the consent of the Minister, the Court issued a Partial Consent Order that on the closing of the PSA the Appellant held the Equipment and Licences as bare trustee for the benefit of KJF.
+[16] Consequently, the parties agree that the Assumed Transfer did not occur.
+[17] The Appellant filed a Notice of Revocation of Waiver on August 23, 2012.
+[18] On May 23, 2014, the Minister reassessed the Appellant’s 2007 tax year reducing the amount of the Appellant’s shareholder benefit from $70,000 to $50,000.
+[19] In reassessing, the Minister assumed that the fair market value of the Equipment was $150,000 at the time it was acquired by KJF and that the excess of the amount paid by KJF to Vendor on the closing of the PSA ($200,000) over the fair market value of the Equipment was a contribution by KJF towards the Appellant’s purchase of the Licences. Therefore the Minister found that KJF conferred a benefit on the Appellant in the amount of $50,000.
+[20] It is not disputed that the May 23, 2014 reassessment was made more than six months after the revocation of the waiver and therefore the Minister was precluded from relying on the waiver to reassess.
+Appellant’s Position [21] The Appellant submits that the inclusion of the shareholder benefit in the Appellant’s income in the May 23, 2014 reassessment is prohibited by subsection 152(5) of the ITA, which provides that a taxpayer may not be reassessed after the expiry of the normal reassessment period to include an amount in income that was not included by an assessment or reassessment made within the normal reassessment period.
+[22] Subsection 152(5) reads:
+There shall not be included in computing the income of a taxpayer for a taxation year, for the purpose of an assessment, reassessment or additional assessment made under this Part after the taxpayer’s normal reassessment period in respect of the year, any amount that was not included in computing the taxpayer’s income for the purpose of an assessment, reassessment or additional assessment made under this part before the end of the period.
+[23] The Appellant says that the $50,000 shareholder benefit added to his income in the May 23, 2014 reassessment was an amount that was not previously included in his income by either the May 20, 2008 assessment or the January 5, 2012 reassessment. In particular, the Appellant says that the $50,000 shareholder benefit was not part of the $70,000 shareholder benefit added to his income by the January 5, 2012 reassessment.
+[24] The Appellant maintains that the $50,000 shareholder benefit was based on the alleged payment by KJF of a portion of the purchase price of the Licences, whereas the $70,000 shareholder benefit included in his income by the January 5, 2012 reassessment was based on an alleged transfer of the Equipment from the Appellant to KJF. The Appellant submits that as a result of the Partial Consent Order, there was no transfer of the Equipment from the Appellant to KJF. Therefore, the amount included in income by the May 23, 2014 reassessment is a different amount than the amount included in income by the January 5, 2012 reassessment because those amounts arose out of different alleged transactions between different parties.
+[25] The Appellant submits that while subsection 165(3) of the Act allows the Minister to reassess outside the normal reassessment period on receipt of a notice of objection, any reassessment made under that provision is still subject to the restriction in subsection 152(5).
+[26] The Appellant takes the position that since the normal reassessment period for his 2007 taxation year had expired prior to May 23, 2014, the Minister did not have the power to reassess that year on the basis of a different transaction than the one underpinning the January 5, 2012 reassessment because this would result in the inclusion of an amount in income that had not been included by any earlier assessment or reassessment made within the normal reassessment period.
+[27] The Appellant also submits that this approach is consistent with the approach taken by the Courts to the application of subsection 152(9) of the Act. That provision permits the Minister to advance an alternative argument in support of an assessment at any time after the normal reassessment period has expired. However, the Courts have held that subsection 152(9) does not permit the Minister to rely on a new argument which is based on transactions which did not form the basis of the taxpayer’s reassessment.
+Respondent’s Position [28] The Respondent argues that subsection 152(5) is not applicable to a reassessment made pursuant to subsection 165(3) subsequent to receipt of a notice of objection.
+[29] The Respondent says in the alternative that if subsection 152(5) applies, it only limits the amount for which the Minister may reassess a taxpayer after the expiry of the normal limitation period and that the May 23, 2014 reassessment is consistent with that limitation because the $50,000 amount included in the Appellant’s income is part of the $70,000 amount that had already been included in his income by the January 5, 2012 reassessment.
+[30] Alternatively, if the May 23, 2014 reassessment is found to be invalid, the Respondent submits that the January 5, 2012 reassessment would be valid and the Appellant would be liable for tax on the $70,000 shareholder benefit that was included in that reassessment.
+Analysis
+[31] The issues are whether subsection 152(5) applies to a reassessment made under subsection 165(3) after a notice of objection has been filed, and, if so, whether the May 23, 2014 reassessment conforms to subsection 152(5).
+[32] I agree with the Appellant that reassessments made pursuant to subsection 165(3) are subject to the limitation on reassessing found in subsection 152(5).
+[33] Subsection 165(3) requires the Minister to consider a notice of objection and vacate, confirm, or vary the assessment or reassessment. Subsection 165(5) specifically provides that subsections 152(4) and 152(4.01) of the Act are not applicable to reassessments made pursuant to subsection 165(3). Since subsection 152(5) is not referred to in subsection 165(5), it must be inferred that it is applicable to a reassessment made under subsection 165(3). Subsections 165(3) and 165(5) read as follows:
+165. (3) On receipt of a notice of objection under this section, the Minister shall, with all due dispatch, reconsider the assessment and vacate, confirm or vary the assessment or reassess, and shall thereupon notify the taxpayer in writing of the Minister’s action.
+. . .
+165. (5) The limitation imposed under subsections 152(4) and 152(4.01) do not apply to a reassessment made under subsection 165(3).
+[34] In Anchor Pointe Energy Ltd. v. The Queen, 2003 FCA 294, the Federal Court of Appeal held that the limitation in subsection 152(5) does apply to reassessments made under subsection 165(3). At paragraphs 34 and 35 of that decision the Court said:
+34 Crown counsel concedes that the Minister cannot increase tax payable after expiry of the normal reassessment period. I agree with Crown counsel. As she points out, subsection 152(5) provides:
+(5) There shall not be included in computing the income of a taxpayer for a taxation year, for the purpose of an assessment, reassessment or additional assessment made under this Part after the taxpayer's normal reassessment period in respect of the year, any amount that was not included in computing the taxpayer's income for the purpose of an assessment, reassessment or additional assessment made under this Part before the end of the period.
+5) N'est pas à inclure dans le calcul du revenu d'un contribuable pour une année d'imposition en vue de l'établissement, après la période normale de nouvelle cotisation qui lui est applicable pour l'année, d'une cotisation, d'une nouvelle cotisation ou d'une cotisation supplémentaire en vertu de la présente partie le montant qui n'a pas été inclus dans le calcul de son revenu en vue de l'établissement, avant la fin de cette période, d'une cotisation, d'une nouvelle cotisation ou d'une cotisation supplémentaire en vertu de cette partie.
+35 In my opinion, subsection 165(5) allows the Minister to reassess after expiry of the normal reassessment period where a Notice of Objection has been filed but not to include in the taxpayer's income amounts that were not included in an assessment or reassessment made within the normal reassessment period.
+[35] I also agree with the Appellant that in making a reassessment pursuant to subsection 165(3) after the expiry of the normal reassessment period, the Minister may not change the basis of the reassessment against the taxpayer. The Federal Court of Appeal in Walsh v. The Queen, 2007 FCA 222 held that after the expiry of the normal reassessment period the Minister cannot rely on a new argument that includes transactions which did not form the basis of the taxpayer’s reassessment. While that case dealt with the application of subsection 152(9) of the Act, I find that the same principle applies to subsection 165(3) reassessments made after the expiry of the normal reassessment period.
+[36] The reference in subsection 152(5) to “amounts” in the phrase “amounts that were not included in an assessment or reassessment made within the normal reassessment period” must be taken to mean not just dollar amounts but amounts as they relate to particular transactions undertaken by the taxpayer. Therefore, the Minister is not permitted after the expiry of the normal reassessment period to include amounts that arise from transactions other than those that underlie an assessment or reassessment made within the normal reassessment period even if the dollar amount of the reassessment would be unchanged.
+[37] It must be determined, then, whether the transactions underlying the May 23, 2014 reassessment are the same as those on which the January 5, 2012 reassessment was based. In my view, they were.
+[38] The key transactions in this case were the acquisition of the Equipment and Licences from the Vendor and the payment of $200,000 by KJF to the Vendor. Those transactions are common to both the January 5, 2012 reassessment and the May 23, 2014 reassessment. What changed between those reassessments was the Minister’s appreciation of the role of the Appellant and KFJ in those transactions, a change that was brought about as a result of the rectification order that the Appellant himself obtained.
+[39] In my view, the crux of the Minister’s two reassessments is identical: KJF overpaid for fishing equipment, and the amount of the overpayment is a shareholder benefit to the Appellant. In the first reassessment, the Minister determined that KJF’s payment of $200,000 gave rise to an overpayment and a resulting shareholder benefit of $70,000, based on the fishing equipment having a value of $130,000. In the second reassessment, the Minister accepted that the value of the fishing equipment should be increased to $150,000, resulting in an overpayment by KJF of $50,000 and shareholder benefit to the Appellant of an equal amount. In each case, the transactions relied upon are between the Appellant, KJF, and Mr. Lord.
+[40] For these reasons, I find that the Minister had the statutory authority to issue the reassessment dated May 23, 2014 in respect of the Appellant’s 2007 taxation year.
+Signed at Vancouver, British Columbia, this 16th day of December 2015.
+“B.Paris”
+Paris J.
+CITATION:
+2015 TCC 334
+COURT FILE NO.:
+2014-2390(IT)G
+STYLE OF CAUSE:
+GLENN FOSTER AND HER MAJESTY THE QUEEN
+Motion in Writing
+REASONS FOR ORDER BY:
+The Honourable Justice B. Paris
+DATE OF ORDER:
+December 16, 2015
+Counsel for the Appellant:
+John Townsend
+Counsel for the Respondent:
+Stan McDonald
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+John Townsend
+Firm:
+Cox & Palmer
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,186 @@
+---
+title: "Gauvin c. M.R.N"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/71765/index.do"
+last_modified: "2014-05-21"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2014 CCI 134"
+citation2: ""
+neutral_citation: "2014 CCI 134"
+decision_date: "2014-05-21"
+language: "fr"
+item_id: "71765"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5302
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T15:56:07.191000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "f88dc8081ca459e9b95d70f47e34bd336c5fba02d9eaf6d8a1a2dc3f796b2826"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Gauvin c. M.R.N
+
+- Citation: 2014 CCI 134
+- Decision date: 2014-05-21
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5302, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Gauvin c. M.R.N
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2014-05-21
+Référence neutre
+2014 CCI 134
+Numéro de dossier
+2010-3166(EI)
+Juges et Officiers taxateurs
+Rommel G. Masse
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2010-3166(EI)
+ENTRE :
+Solange Gauvin,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+Appel entendu le 13 Janvier 2014, à Montréal (Québec).
+Devant : L'honorable Rommel G. Masse, juge suppléant
+Comparutions :
+Avocat de l’appelante :
+Me Gibert Nadon
+Avocat de l'intimé :
+Me Ilinca Ghibu
+JUGEMENT
+L'appel en vertu du paragraphe 103(1) de la Loi sur l'assurance-emploi (ci‑après « Loi ») est rejeté et la décision du ministre du Revenu national est confirmée, en tenant pour acquis que l’appelante n’occupait pas un emploi assurable lorsqu’au service de Terrassement Sylvain Doucet, au cours de la période du 19 octobre 2009 au 26 mars 2010, aux termes de l’alinéa 5(2)i) et du paragraphe 5(3) de Loi.
+Signé à Kingston, Ontario, ce 21e jour de mai 2014.
+« Rommel G. Masse »
+Juge suppléant Masse
+Référence : 2014 CCI 134
+Date : 20140521
+Dossier : 2010-3166(EI)
+ENTRE :
+Solange Gauvin,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+MOTIFS DU JUGEMENT
+Le juge suppléant Masse
+[1] Il s’agit d’un appel à l’encontre d’une décision du ministre du Revenu national (ci-après le « ministre ») en date du 28 juillet 2010 en vertu de la Loi sur l’assurance-emploi, L.C. 1996 ch. 23, modifiée (ci-après la « Loi »), concernant l’assurabilité de l’emploi de l’appelante auprès de Terrassement Sylvain Doucet (ci-après « Terrassement ») pour la période du 19 octobre 2009 au 26 mars 2010 (ci-après la « période »).
+[2] Il n’est pas contesté que l’appelante et le payeur sont des personnes liées au sens du paragraphe 251(2) de la Loi de l’impôt sur le revenu, L.R.C. (1985), ch. 1 (5e suppl.), telle que modifiée, car l’appelante est la mère de Sylvain Doucet qui est l’unique propriétaire de Terrassement. Par ce fait, l’appelante et Terrassement ont un lien de dépendance.
+[3] Le ministre a déterminé que l’emploi de l’appelante auprès de Terrassement pour la période n’était pas un emploi assurable durant la période parce que le ministre était convaincu qu’il n’était pas raisonnable de conclure que l’appelante et le payeur auraient conclu entre eux un contrat de travail à peu près semblable s’ils n’avaient pas eu de lien de dépendance, compte tenu de toutes les circonstances.
+[4] L’appelante en appelle de cette décision du ministre.
+Contexte factuel [5] Lyne Courcy est agente des appels pour l’Agence du revenu du Canada. Elle s’occupait du présent dossier. Elle a préparé le rapport CPT 110 (pièce I-1, onglet 2) après avoir obtenu des renseignements par téléphone de l’appelante et Sylvain Doucet le 13 juillet 2010.
+[6] Lors de son témoignage, madame Courcy a fait ressortir les faits et présomptions sur lesquels le ministre s’est fondé pour arriver à sa décision. Les faits saillants peuvent être résumés comme suit.
+[7] L’appelante est la mère de Sylvain Doucet qui exploite Terrassement. Sylvain Doucet est l’unique propriétaire de Terrassement. Terrassement a été enregistré le 17 septembre 1996 en tant qu’entreprise individuelle. Depuis 5 à 6 ans, l’activité de Terrassement est le déneigement. Terrassement n’avait pas de tracteur-souffleur, alors il louait ce véhicule de la compagnie Technologies S. M. Doucet inc. (ci-après « Technologies »), dont Sylvain Doucet est actionnaire avec Mélanie Ouellet, sa conjointe. Sylvain Doucet était l’opérateur de Terrassement et l’appelante faisait le travail de bureau. Sylvain Doucet et ses entreprises sont les seuls déneigeurs dans le secteur. Dans le passé, Terrassement faisait de l’excavation, mais pas durant la période. Donc, il n’y avait pas d’activité commerciale pendant la saison estivale. Le bureau de Terrassement et son équipement de bureaux sont situés dans une pièce aménagée en bureau dans la résidence personnelle de l’appelante. Monsieur Doucet verse à l’appelante une partie des dépenses en électricité et pour le téléphone. Sylvain Doucet habite un logement dans le même bâtiment de la résidence de l’appelante et il ne paie aucun loyer. Comme monsieur Doucet a bâti et payé un garage situé à la résidence, lorsqu’il partira il le laissera à ses parents en contrepartie. L’hiver 2009-2010, Sylvain Doucet a eu des problèmes financiers. Donc, l’appelante et son mari Denis Doucet ont prêté 5 000 $ à Technologies. La pièce A-6, datée le 19 mai 2010 fait état de ce prêt. Il n’y a pas de modalités de remboursement ni d’intérêt pour ce prêt. L’appelante était la seule employée de Terrassement au cours de la période en litige.
+[8] Terrassement avait entre 80 et 100 clients résidentiels durant la période. Environ 80 % à 95 % de sa clientèle demeurent la même d’année en année, mais il y a une augmentation d’environ 10 nouveaux clients par année. Terrassement a engagé l’appelante comme secrétaire le 19 octobre 2009. L’appelante avait fait ce travail bénévolement sans aucune rémunération au cours des hivers précédents depuis 1996. L’appelante a travaillé jusqu’au 26 mars 2010, à la fin de la saison de déneigement.
+[9] Les quelques contrats de déneigement commerciaux ont été transférés par Terrassement à Technologies, et un employé de Technologies faisait les déneigements commerciaux.
+[10] Vers la fin de septembre, début octobre, Sylvain Doucet lui-même allait porter les nouveaux contrats à ses clients pour la saison de déneigement qui est du 1er novembre 2009 au 1er avril 2010. L’on retrouve un exemplaire de ce contrat à la pièce I-1, onglet 2-i. Ce contrat prévoyait 2 modes de paiement pour les clients, soit payer en un seul versement le 9 octobre ou, en 3 versements le 9 octobre, le 11 décembre et le 12 février. Ceux qui choisissaient de payer en 3 versements devaient remettre trois chèques postdatés lors de la signature du contrat. D’habitude, ces versements étaient envoyés par la poste. L’entreprise avait aussi une « boîte de déneigement » située à l’intérieur de la galerie vitrée à l’adresse de l’appelante, qui est aussi l’adresse de Terrassement, dans laquelle les clients pouvaient laisser leurs chèques. Bien entendu, certains des clients ne respectaient pas les dates prévues pour les versements et ils payaient parfois en retard.
+[11] Les tâches de l’appelante consistaient à répondre aux appels téléphoniques des clients et à faire la tenue des livres. De plus, elle répondait aux clients venant au bureau qui se situait à sa résidence, pour acquitter leur facture. Lorsque l’appelante a besoin de contacter son fils lors de déneigement, elle l’appelle sur son cellulaire. L’appelante devait recouvrer les comptes non payés lorsque les chèques étaient sans fond approvisionné. L’appelante complétait sa propre paie et envoyait les déductions à la source aux gouvernements fédéral et provincial. La tenue des livres se faisait par ordinateur. Elle avait créé une page Excel pour entrer toutes les dépenses et les revenus. Ce dernier document était remis au comptable pour l’établissement des déclarations des revenus du payeur.
+[12] L’appelante informa madame Courcy qu’elle travaillait de 9 h à 17 h et souvent les soirs et les fins de semaine pour recevoir les clients venant payer leurs factures. L’appelante se dit être disponible 24 heures sur 24 lors des tempêtes. C’est la position de l’appelante qu’elle avait toujours de l’ouvrage pour l’occuper au moins 40 heures par semaine et même plus. Elle était rémunérée au taux de 11 $ par l’heure pour 40 heures par semaine. L’appelante est autorisée à signer les chèques et seulement une signature est requise. L’appelante a confirmé à madame Courcy qu’elle a continué à faire un peu de tenue de livre pour la compagnie Technologies depuis sa mise à pied.
+[13] Monsieur Sylvain Doucet informa madame Courcy que l’appelante s’occupait de toute la paperasse tandis qu’il s’occupait de l’opération de l’entreprise. Les revenus de l’entreprise de monsieur Doucet pour l’hiver 2009‑2010 ont totalisé environ 30 000 $. Monsieur Doucet a indiqué à madame Courcy que l’appelante rendait quelques services à Technologies, par exemple les paies, et elle le fait souvent sans être payée. Il faut souligner le fait que Technologies n’avait qu’un seul employé.
+[14] Madame Courcy dans son rapport nous fait part de son analyse. Durant la période, l’appelante a supposément travaillé 920 heures et donc elle a reçu une rémunération de 10 524,80 $ pour 23 semaines (voir la pièce I-1, onglet 1). Cette rémunération équivaut à 457,60 $ par semaine; soient 11 $ x 40 heures plus 4 % et à 40 heures par semaine.
+[15] En 2009, le payeur a émis seulement deux feuillets T4; un pour l’appelante du montant de 4 576 $ et un pour un monsieur Sébastien Lalonde du montant de 557 $.
+[16] Puisque l’appelante faisait la tenue des livres, madame Courcy a fait l’étude des registres de comptabilité du payeur et elle a vérifié qu’il y avait très peu de volume d’entrée de données. Par exemple, pour le mois de novembre il n’y avait que 13 entrées de comptabilité. Pour le mois de décembre, il n’y avait que 31 entrées de comptabilité. Lorsque madame Courcy a demandé de voir les registres du payeur, l’appelante a envoyé à madame Courcy seulement les registres pour Terrassement et non pour Technologies quoiqu’elle faisait la tenue des livres pour les deux.
+[17] Madame Courcy constate que l’appelante avait besoin d’un minimum de 910 heures pour être admissible aux prestations d’assurance-emploi et elle a reçu du payeur un relevé d’emploi de 920 heures (voir la pièce I-1, onglet 1).
+[18] D’après madame Courcy, le travail qu’a effectué l’appelante ne pouvait pas tenir compte de 40 heures par semaine, compte tenu du fait qu’il y a des semaines où il n’y avait que peu d’entrée comptables et qu’il n’y avait pas de neige. Bien entendu, madame Courcy ne peut pas préciser combien d’heures par semaine ce travail pourrait prendre. Madame Courcy tire la conclusion que l’appelante avait travaillé seulement assez pour être admissible aux prestations.
+[19] Sylvain Doucet et l’appelante ont témoigné. Ils disputent l’analyse et les conclusions de madame Courcy. Ils affirment que le volume de travail de l’appelante justifiait un travail d’au moins 40 heures par semaine et même beaucoup plus. L’appelante et monsieur Doucet nous offrent des explications et des précisions sur les faits qui sont énoncés dans le rapport CPT 110 de madame Courcy. Ils nous ont décrit les tâches de l’appelante. Monsieur Doucet s’occupait de la gestion de ses entreprises et l’appelante s’occupait de la paperasse; elle était secrétaire pour son fils. Ses tâches consistaient à répondre au téléphone, à recevoir de temps en temps les clients qui venaient remettre leurs chèques, à recouvrer les comptes non payés lors de chèque sans provision, à faire son chèque de paie et à remettre aux gouvernements fédéral et provincial les déductions à la source ainsi que les déclarations pour TPS-TVQ, à faire les entrées de données à l’ordinateur relatives aux dépenses et revenus. Les comptes recevables étaient comptabilisés par le comptable, mais l’appelante préparait le rapport de revenus et dépenses pour le comptable. Elle était autorisée à signer les chèques de Terrassement; seulement une seule signature est requise. L’appelante nous dit qu’elle travaillait au moins 40 heures par semaine; de 9 h à 17 h, du lundi au vendredi, et souvent les soirs et les fins de semaine. L’appelante nous dit qu’elle était disponible 24 heures sur 24 pendant les tempêtes de neige et elle travaillait souvent jusqu’à 20 h ou 21 h du soir et parfois jusqu’à 2 h ou 3 h du matin.
+[20] Monsieur Sylvain Doucet est le propriétaire de Terrassement et le copropriétaire avec sa conjointe de Technologies. Sa conjointe est propriétaire de Déneigement des Prairies (ci-après « Prairies »). Au début, c’était seulement Terrassement qui payait l’appelante, mais depuis la vérification, elle est aussi payée par Technologies.
+[21] Monsieur Doucet nous dit qu’avant 2009, Terrassement avait 248 clients commerciaux et résidentiels. En 2007-2008 Terrassement a transféré des clients à Technologies. En 2009, Technologies ne faisait pratiquement que du déneigement commercial. C’était plus simple et donc moins de travail de s’occuper des clients commerciaux parce que ces clients faisaient parvenir leurs chèques postdatés par la poste. D’après l’appelante et monsieur Doucet, l’appelante s’occupait de la tenue des livres pour Technologies ainsi que pour Terrassement.
+[22] En contre-interrogatoire, monsieur Doucet confirme que Terrassement avait 100 clients résidentiels et Technologies avait 38 clients résidentiels et commerciaux. Il est d’accord que pendant la période en litige, les entreprises Terrassement et Technologies avaient un total d’environ 195 clients en tout.
+[23] Les revenus d’entreprise déclarés par Sylvain Doucet pour les années d’imposition sont les suivants :
+2007
+2008
+2009
+Revenus bruts
+33 210 $
+28 894 $
+28 452 $
+(Pertes nettes)
+(14 894 $)
+(2 673 $)
+(2 244 $)
+Alors, on voit que le chiffre d’affaires pour Sylvain Doucet était toujours déficitaire.
+Thèse de l’appelante [24] L’appelante soutient que pendant la période, elle travaillait à plein temps pour au moins 40 heures par semaine pour les entreprises de son fils. Elle allègue que l’intimé n’a pas pris en ligne de compte le fait qu’elle travaillait pour Terrassement ainsi que pour Technologies même si elle a été payée seulement par Terrassement et non par Technologies. Selon l’appelante, son employeur était son fils Sylvain Doucet, peu importe qui l’a payée. Elle soutient que le ministre ne tient pas compte de l’ensemble de la prestation de travail qu’elle effectuait. Bien que les besoins des entreprises de son fils faisaient en sorte que l’horaire de travail était difficile à établir, de façon générale, la prestation globale de travail méritait le salaire qui lui a été versé.
+[25] Donc, selon l’appelante, l’appel doit être accueilli.
+Thèse de l’intimé [26] L’intimé soutient que le contrat de louage de service entre l’appelante et le payeur n’est pas assurable, étant donné qu’il y a un lien de dépendance entre le payeur et l’appelante et qu’il n’est pas raisonnable de conclure qu’un contrat de travail à peu près similaire aurait été conclu sans un lien de dépendance. L’intimé est d’avis que, compte tenu de toutes les circonstances, y compris les explications supplémentaires offertes par l’appelante lors du procès, la décision de l’intimé était raisonnable. L’intimé soutient que le volume de travail effectué par l’appelante ne justifie pas 40 heures par semaine.
+[27] L’intimé soutient donc que l’appel doit être rejeté.
+Les dispositions législatives [28] Les dispositions pertinentes de la Loi sur l’assurance-emploi, L.C. 1996 ch. 23 modifiée, sont les suivants :
+5(2) Restriction — N’est pas un emploi assurable :
+[…]
+(i) l’emploi dans le cadre duquel l’employeur et l’employé ont entre eux un lien de dépendance
+5(3) Personnes liées — Pour l’application de l’alinéa (2) i) :
+a) la question de savoir si des personnes ont entre elles un lien de dépendance est déterminée conformément à la Loi de l’impôt sur le revenu;
+b) l’employeur et l’employé, lorsqu’ils sont des personnes liées au sens de cette loi, sont réputés ne pas avoir de lien de dépendance si le ministre du Revenu national est convaincu qu’il est raisonnable de conclure, compte tenu de toutes les circonstances, notamment la rétribution versée, les modalités d’emploi ainsi que la durée, la nature et l’importance du travail accompli, qu’ils auraient conclu entre eux un contrat de travail à peu près semblable s’ils n’avaient pas eu de lien de dépendance.
+Analyse [29] Il n’est pas contesté qu’il y avait un contrat de travail entre l’appelante et le payeur. De plus, il n’est pas contesté qu’il y avait un lien de dépendance entre le payeur et l’appelante. L’intimé ne conteste pas que le taux de rémunération de 11 $ par heure est raisonnable pour le travail de secrétariat. Par contre, l’intimé est d’avis que le temps consacré à l’emploi par l’appelante, soit 40 heures chaque semaine, n’est pas justifié compte tenu des tâches de l’appelante et du chiffre d’affaires de l’entreprise.
+[30] En général, lorsqu’il y a un lien de dépendance entre un travailleur et un payeur, le travail n’est pas assurable. Par contre, le travailleur et le payeur sont réputés ne pas avoir un lien de dépendance si le ministre est convaincu qu’il est raisonnable de conclure, compte tenu de toutes les circonstances, que le travailleur et le payeur auraient conclu entre eux un contrat de travail à peu près semblable s’ils n’avaient pas eu de lien de dépendance.
+[31] Dans l’arrêt Francine Denis c. Canada (Ministre du Revenu national – MNR), 2004 CAF 26, le juge en chef Richard de la Cour d’appel fédérale nous explique le rôle du juge de la Cour canadienne de l’impôt dans un appel d’une détermination du ministre sur les dispositions d’exclusion contenues aux paragraphes 5(2) et (3) de la Loi :
+[5] Le rôle du juge de la Cour canadienne de l’impôt dans un appel d’une détermination du ministre sur les dispositions d’exclusion contenues aux paragraphes 5(2) et (3) de la Loi est de s’enquérir de tous les faits auprès des parties et les témoins appelés pour la première fois à s’expliquer sous serment et de se demander si la conclusion du ministre parait toujours raisonnable. Toutefois, le juge ne doit pas substituer sa propre opinion à celle du ministre lorsqu’il n’y a pas de faits nouveaux et que rien ne permet de penser que les faits connus ont été mal perçus (voir Pérusse c. Canada (ministre du Revenu national – M.N.R.), [2000] A.C.F. no 310, 10 mars 2000).
+[32] Le fardeau de la preuve incombe à l’appelante. Elle doit établir par une prépondérance de la preuve que la décision du ministre est mal fondée en fait ou en droit. Il va sans dire que chaque cas est un cas d’espèce.
+[33] En l’espèce, bien que l’appelante dispute les conclusions du ministre, elle ne conteste pas les faits sur lesquels le ministre s’est basé pour rendre sa décision; elle nous offre des explications et des précisions. L’appelante soutient que bien qu’à l’époque c’était seulement Terrassement qui la payait, elle travaillait pour son fils. Elle s’occupait de la tenue des livres et elle s’occupait du travail de secrétariat, non seulement pour Terrassement, mais aussi pour Technologies. Donc, le volume de son travail était au moins 40 heures par semaine et dépassait souvent 40 heures par semaine.
+[34] À la lumière de la preuve testimoniale et documentaire concernant notamment la rétribution versée, les modalités de l’emploi ainsi que la durée, la nature et l’importance du travail accompli pendant la période en litige, il m’apparaît raisonnable de conclure que la détermination du ministre était raisonnable dans toutes les circonstances. Il n’y a rien qui me permet de penser que les faits connus au ministre ont été mal perçus. Même à la lumière des explications supplémentaires et les précisions offertes par l’appelante, il me parait que la décision du ministre est toujours raisonnable.
+[35] Un élément important retenu par le ministre a trait au fait que le volume du travail de bureau n’était pas suffisamment élevé. Même si je considère que l’appelante travaillait aussi pour Technologies, je considère que les clients commerciaux exigent moins de travail que les clients résidentiels. Je considère que même si le ministre avait pris en ligne de compte le travail additionnel que faisait l’appelante pour Technologies, le ministre aurait comme même conclu que les prestations de travail ne justifiaient pas 40 heures par semaine.
+[36] L’appelante ne m’a pas convaincue qu’il est raisonnable de conclure, compte tenu de toutes les circonstances, que l’appelante et son fils auraient conclu entre eux un contrat de travail à peu près semblable s’ils n’avaient pas eu de lien de dépendance. En arrivant à cette conclusion, je considère entre autres, les facteurs suivants :
+a) À l’époque, Sylvain Doucet éprouvait des difficultés financières telles qu’il croyait nécessaire d’emprunter à ses parents un prêt de 5 000 $. Il ne payait pas de loyer pour son bureau d’affaires situé dans la résidence de l’appelante. Il résidait lui même dans la même résidence, mais ne payait pas de loyer à ses parents. Il a payé pour la construction d’un garage à la résidence de ses parents. De plus, le chiffre d’affaires de ses entreprises était toujours déficitaire pour les années 2007 à 2009; j’ignore le chiffre d’affaires pour 2010. Malgré les problèmes financiers qu’éprouvait monsieur Doucet et malgré ses pertes d’entreprise, il a payé à sa mère plus que ses entreprises gagnaient. Durant la période, Sylvain Doucet a payé à l’appelante une rémunération totale de 10 524,80 $ pour moins de 6 mois de travail (voir pièce I-1, onglet 1). Par contre, les revenus d’affaires en 2009 des entreprises de Sylvain Doucet se chiffraient à 28 452 $ et il a subi une perte nette de 2 244 $. Un entrepreneur n’utiliserait pas un tiers des revenus totaux de son entreprise pour verser un salaire à sa secrétaire/réceptionniste, pour du travail fait à la maison, à moins que la travailleuse soit quelqu’un avec qui l’entrepreneur ait un lien de dépendance comme sa mère. Le contrat de travail qui supposément existait entre l’appelante et son fils était très avantageux pour l’appelante et constituait une très grande dépense pour le payeur. L’appelante était payée à plein temps pour rester à sa maison. Le travail à effectuer ne justifie pas la dépense liée aux tâches de l’appelante même si l’on considère que Sylvain Doucet avait 195 clients plutôt que 80 ou 100 contrats.
+b) Lorsque l’on considère les tâches de l’appelante, il y avait seulement un petit volume de travail à effectuer pour la tenue des livres. Même si l’on double le montant d’entrées de données pour prendre en ligne de compte le travail supposément fait pour Technologies, le volume d’entrées demeure minime. Elle dit qu’elle recevait des clients à la maison à n’importe quelle heure, mais la méthode de paiement indiquée sur les contrats était par la poste ou par la « boite de déneigement » situé à l’intérieure de la galerie vitrée de sa résidence. Elle n’est pas en mesure de nous dire le pourcentage de clients qui se servaient de quelle méthode de paiement. Je ne peux pas m’imaginer qu’il y avait beaucoup de clients qui venaient à la maison malgré ce que dit l’appelante.
+c) Elle n’est pas en mesure de nous dire à la moyenne le nombre d’appels téléphoniques effectués ni le montant de temps passé au téléphone. Le nombre d’heures effectuées par l’appelante pour s’acquitter de toutes ses tâches n’est pas connu et est difficilement quantifiable. Elle nous dit seulement qu’elle travaillait plus que 40 heures par semaine. Par contre, elle ne remplissait pas des feuilles de temps. Le payeur ne retenait aucun registre pour les heures de travail effectuées par l’appelante. Une travailleuse et un payeur qui n’ont pas un lien de dépendance auront comptabilisé les heures de travail dans le cas d’une employée payée à l’heure.
+d) Elle travaillait à la maison et donc elle pouvait s’occuper de toutes autres activités de la maison. Elle accomplissait certaines tâches pour le payeur tout en effectuant des tâches personnelles. Comme le bureau du payeur était situé à la résidence de l’appelante, elle pouvait vaquer à ses occupations quotidiennes tout en attendant les quelques appels des clients. C’est à l’appelante de convaincre le ministre qu’elle travaillait les heures qu’elle prétendait travailler.
+e) Elle nous dit qu’elle a effectué 920 heures de travail pendant la période. Par coïncidence, elle nécessitait que 910 heures de travail afin d’être admissible à des prestations d’assurance-emploi. Coïncidence? Peut-être que oui, mais, il est très facile de présumer que les parties ont convenu d’un arrangement leur permettant de tirer avantage de la Loi.
+Conclusion [37] Ayant étudié l’ensemble de la preuve j’arrive à la conclusion que l’emploi de l’appelante n’était pas un emploi assurable étant donné l’alinéa 5(2) i) et le paragraphe 5(3) de la Loi, car il n’est pas raisonnable de conclure, compte tenu de toutes les circonstances, que l’appelante et le payeur auraient conclu entre eux un contrat de travail à peu près similaire s’ils n’avaient pas eu de lien de dépendance.
+[38] Pour ces motifs, l’appel est rejeté.
+Signé à Kingston, Ontario, ce 21e jour de mai 2014.
+« Rommel G. Masse »
+Juge suppléant Masse
+RÉFÉRENCE :
+2014 CCI 134
+Nº DU DOSSIER DE LA COUR :
+2010-3166(EI)
+INTITULÉ DE LA CAUSE :
+Solange Gauvin c. Le Ministre du Revenu National
+LIEU DE L’AUDIENCE :
+Montréal (Québec)
+DATE DE L’AUDIENCE :
+Le 13 Janvier 2014
+MOTIFS DE JUGEMENT PAR :
+L'honorable Rommel G. Masse, juge suppléant
+DATE DU JUGEMENT :
+Le 21 mai 2014
+COMPARUTIONS :
+Avocat de l’appelante :
+Me Gibert Nadon
+Avocat de l'intimé :
+Me Ilinca Ghibu
+AVOCAT INSCRIT AU DOSSIER :
+Pour l’appelante :
+Nom :
+Me Gibert Nadon
+Cabinet :
+Ouellet, Nadon et Associés
+Montréal, Québec
+Pour l’intimé :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada

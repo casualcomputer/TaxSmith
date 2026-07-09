@@ -1,0 +1,426 @@
+---
+title: "Allowances"
+source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/9-3/allowances.html
+last_modified: 2026-01-26
+---
+# Allowances
+
+GST/HST memorandum 9-3 January 2026
+
+This version replaces the one dated June 2012. This memorandum has been updated to reflect the current GST/HST rates, to remove the information on the temporary recapture of input tax credits for large businesses, and to remove information regarding taxable benefits, as announced in the [Excise and GST/HST News, No. 111](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/news111/news111-excise-gst-hst-news-no-111.html).
+
+This memorandum explains the treatment of allowances paid to employees, members of a partnership, or volunteers of a charity or public institution under the *Excise Tax Act*. It also explains the eligibility rules for claiming input tax credits or public service bodies' rebates for persons that pay these allowances.
+
+Except as otherwise noted, all statutory references in this publication are to the provisions of the *Excise Tax Act* (ETA). The information in this publication does not replace the law found in the ETA and its regulations.
+
+If this information does not completely address your particular situation, you may wish to refer to the ETA or relevant regulation, or call GST/HST Rulings at 1‑800‑959‑8287 for additional information. If you require certainty with respect to any particular GST/HST matter, you may request a ruling. [GST/HST Memorandum 1-4, Excise and GST/HST Rulings and Interpretations Service](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/1-4.html), explains how to obtain a ruling or an interpretation.
+
+If you are located in Quebec and wish to request a ruling related to the GST/HST, please call Revenu Québec at 1‑800‑567‑4692. You may also visit the Revenu Québec website at [revenuquebec.ca](https://www.revenuquebec.ca/en/) to obtain general information.
+
+For listed financial institutions that are selected listed financial institutions (SLFIs) for GST/HST or Quebec sales tax (QST) purposes or both, whether or not they are located in Quebec, the CRA administers the GST/HST and the QST. If you wish to make a technical GST/HST or QST enquiry related to SLFIs, please call 1‑855‑666‑5166.
+
+**GST/HST rates**
+
+Reference in this publication is made to supplies that are subject to the GST or the HST. The GST/HST rates are those that were in effect at the time of publishing. For the list of all applicable GST/HST rates (current and historic), go to [GST/HST calculator (and rates)](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/charge-collect-which-rate/calculator.html).
+
+If you are uncertain as to whether a supply is made in a participating province, refer to [GST/HST Memorandum 3-3-2, Place of Supply in a Province – Overview](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/3-3-2.html).
+
+## Table of Contents
+
+- [General](#toc0)
+
+- [Meaning of significant terms](#toc1)
+
+- [Allowances](#toc2)
+
+    - [Amounts that are not allowances](#toc3)
+
+          - [Reimbursements](#toc4)
+
+          - [Moving allowances](#toc5)
+
+- [Purpose of section 174 and eligibility requirements](#toc6)
+
+    - [Allowance is paid to an employee, partner, or volunteer](#toc7)
+
+    - [Allowance is paid for taxable supplies or the use of a motor vehicle](#toc8)
+
+    - [An amount of the allowance is deductible for income tax purposes](#toc9)
+
+    - [Travel and motor vehicle allowances that are reasonable](#toc10)
+
+          - [Reasonable allowance](#toc11)
+
+- [Calculation of the GST/HST deemed paid](#toc12)
+
+- [Input tax credit and rebate eligibility](#toc13)
+
+    - [Input tax credit eligibility](#toc14)
+
+    - [Rebate eligibility](#toc15)
+
+          - [Rebates of the GST/HST](#toc16)
+
+          - [Public service bodies' rebate](#toc17)
+
+    - [Supplies of property or services acquired](#toc18)
+
+    - [Meals and entertainment restriction](#toc19)
+
+- [Documentary requirements](#toc20)
+
+    - [Exemption from general requirements](#toc21)
+
+    - [Documentary requirements for rebates](#toc22)
+
+## General
+
+1. Certain persons may be entitled to claim an input tax credit (ITC) or a public service bodies' rebate in respect of allowances paid to their employees, members of a partnership (partners), or volunteers. Where the conditions of section 174 are met, a person may be eligible to claim the ITC or rebate amount that they would have been able to claim had they incurred the expense directly.
+
+2. For information on claiming ITCs, refer to [GST/HST Memorandum 8-1, General Eligibility Rules](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/8-1.html).
+
+3. For information on claiming public service bodies' rebates, refer to [Guide RC4034, GST/HST Public Service Bodies' Rebate](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4034.html).
+
+## Meaning of significant terms
+
+4. **Charity** means a registered charity or registered Canadian amateur athletic association for income tax purposes but does not include a public institution. A charity can issue official donation receipts for income tax purposes.
+
+5. **Employee** includes an officer.
+
+6. **Employer**, in relation to an officer, means the person from whom the officer receives remuneration.
+
+7. **Motor vehicle**, within the meaning assigned by subsection 248(1) of the *Income Tax Act* (ITA), means an automotive vehicle designed or adapted to be used on highways and streets but does not include:
+
+- a trolley bus
+
+- a vehicle designed or adapted to be operated exclusively on rails
+
+8. **Office** has the meaning assigned by subsection 248(1) of the ITA, but does not include any of the following:
+
+- the position of trustee in bankruptcy
+
+- the position of receiver (including the position of a receiver within the meaning assigned by subsection 266(1))
+
+- the position of trustee of a trust or personal representative of a deceased individual where the person that acts in the capacity is entitled to an amount for doing so that is included in computing, for the purposes of the ITA, the person's income or, where the person is an individual, the person's income from a business
+
+9. **Officer** means a person who holds an office.
+
+10. **Participating province** means a province that has harmonized its provincial sales tax with the GST to implement the HST. Participating provinces include New Brunswick, Newfoundland and Labrador, Nova Scotia, Ontario, and Prince Edward Island, but do not include the Nova Scotia offshore area or the Newfoundland offshore area except to the extent that offshore activities, as defined in subsection 123(1), are carried on in that area.
+
+11. **Public institution** means a registered charity for income tax purposes that is also a school authority, a public college, a university, a hospital authority, or a local authority determined by the Minister of National Revenue to be a municipality.
+
+## Allowances
+
+12. For purposes of the ETA, allowance has the same meaning that it has for income tax purposes.
+
+13. An **allowance** is any periodic or lump sum amount that a person receives from another person without having to account for its use. An amount constitutes an allowance for purposes of sections 174, 236, 253, and 259 where the amount meets all of the following criteria:
+
+- The amount paid is a predetermined amount
+
+- The amount is paid for a certain purpose
+
+- The amount paid is at the complete disposition of the person receiving the payment
+
+- The person receiving the payment does not have to repay the amount or account for its use, and does not have to demonstrate that the amount was actually spent
+
+An employer pays its employee $100 per month towards the employee's use of their own computer and related equipment. The employee is not required to provide any receipts and is free to spend the $100 each month as desired. This monthly payment constitutes an allowance.
+
+### Amounts that are not allowances
+
+#### Reimbursements
+
+14. A **reimbursement** is a payment made by one person to repay another person for amounts spent. An amount constitutes a reimbursement where the amount is fully accounted for by the person receiving the payment (that is, evidenced by supporting vouchers or records). Consequently, a reimbursement is not an allowance. For detailed information on reimbursements, refer to [GST/HST Memorandum 9-4, Reimbursements](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/9-4.html).
+
+#### Moving allowances
+
+15. Non-accountable moving allowances are not treated as allowances for the purposes of section 174. GST/HST administrative policy is consistent with the income tax administrative policy, which treats a non-accountable moving allowance of up to $650 as a non-taxable reimbursement to the employee as long as the employee certifies that the amount was spent on moving expenses. This amount is considered to be a reimbursement under section 175 for GST/HST purposes, and not an allowance to which section 174 applies. A non-accountable moving allowance is an allowance for which an employee does not have to provide details or submit receipts to justify the amounts paid.
+
+An employee receives a non-accountable moving allowance of $625 and certifies that they incurred moving expenses for the amount of the allowance. The amount is considered a reimbursement (section 175) rather than an allowance (section 174).
+
+16. The amount of a non-accountable moving allowance in excess of the $650 limit, which is required to be included in an individual's income as a taxable benefit, is not considered to be an allowance to which section 174 applies.
+
+An employee receives a non-accountable moving allowance of $750 and can certify the expenses. The portion up to $650 is considered a reimbursement (section 175) rather than an allowance (section 174). The remaining $100 must be included as taxable income on the employee's T4 slip.
+
+## Purpose of section 174 and eligibility requirements
+
+17. Section 174 enables a person that is an employer, partnership, charity, or public institution to claim an ITC or public service bodies' rebate in respect of allowances paid for certain expenses to the same extent they would have been entitled to claim had the person incurred the expense directly.
+
+18. When the conditions of section 174 are met, the person that pays the allowance is deemed to have paid the GST/HST in respect of the supply acquired by its employee, partner, or volunteer. Any consumption or use of the property or services is deemed to be consumption or use by the person and not by the employee, partner, or volunteer.
+
+19. For section 174 to apply, all of the following conditions must be met:
+
+- the allowance is paid to an employee, partner, or volunteer
+
+- the allowance is paid for taxable supplies (other than zero-rated supplies) or the use of a motor vehicle in relation to activities engaged in by the person
+
+- the amount of the allowance is deductible (or would be so deductible if the person were a taxpayer) by the employer, partnership, charity, or public institution for income tax purposes
+
+- in the case of a travel or motor vehicle allowance, the allowance is reasonable
+
+20. The specific requirements for each condition are further explained in paragraphs 21 to 50 of this memorandum.
+
+### Allowance is paid to an employee, partner, or volunteer
+
+21. For section 174 to apply, a person must pay an allowance to any of the following:
+
+- an employee of the person
+
+- where the person is a partnership, to a member of the partnership
+
+- where the person is a charity or public institution, to a volunteer who gives services to the charity or public institution
+
+Section 174 applies to allowances paid to volunteers who give services to either a charity or a public institution. It does not apply to volunteers of other types of organizations.
+
+22. An individual who gives services as a volunteer to a charity or public institution is not considered an employee of the charity or public institution. However, in some instances, an employee of a charity or public institution may, outside of their employment contract, give services to that charity or public institution as a volunteer. The facts of the case will determine whether an individual is providing services as a volunteer or performing duties in the course of their office or employment with a charity or public institution.
+
+23. If a person pays an allowance to any person other than an employee, partner, or volunteer, the provisions of section 174 do not apply. However, the amount may be consideration for a taxable supply for which an ITC may be claimed if all of the requirements for claiming an ITC are met, including those in section 169, or a public service bodies' rebate may be claimed if the requirements of section 259 are met.
+
+A film production company pays a per diem allowance to self-employed actors and technicians who are required to work outside the city in which they reside. As these individuals are not employees of the film production company but are self-employed, the provisions of section 174 do not apply to the allowance paid to them.
+
+### Allowance is paid for taxable supplies or the use of a motor vehicle
+
+24. For section 174 to apply, an allowance paid to an employee, partner, or volunteer must be for either:
+
+- supplies of property or services all or substantially all (90% or more) of which are taxable supplies (other than zero-rated supplies) acquired in Canada by the employee, partner, or volunteer in relation to activities engaged in by the person paying the allowance
+
+- the use of a motor vehicle in Canada in relation to activities engaged in by the person paying the allowance
+
+25. If a particular allowance does not meet the requirement that 90% or more of the taxable (other than zero-rated) supplies are acquired in Canada, or the allowance is not for the use of a motor vehicle in Canada, then section 174 does not apply to this allowance.
+
+26. Whether supplies of property or services acquired by an employee, partner, or volunteer are in relation to the activities of the person paying the allowance will be determined based on the facts. There must be a direct connection between the supplies of property or services acquired and the activities engaged in by the person.
+
+27. There may be circumstances where more than one allowance is paid to an employee, partner, or volunteer in relation to activities engaged in by the person. It is a question of fact whether one or more allowances are paid by a person to a particular employee, partner, or volunteer. Each allowance must be reviewed to determine if it meets the conditions of section 174.
+
+28. Where only one allowance is paid in respect of costs, where some costs are subject to the GST/HST and others are not subject to the GST/HST, a person cannot apportion costs between expenses incurred inside and outside Canada or between exempt, zero-rated, and taxable (other than zero-rated) supplies. As noted above, the person must determine if 90% or more of the taxable (other than zero-rated) supplies are acquired in Canada, or if the allowance is for the use of a motor vehicle in Canada.
+
+29. The purpose of an allowance is also a question of fact. For example, if an allowance is for the purpose of defraying travel expenses for a sales representative travelling in both Canada and the United States, then the test to determine if the allowance is for the use of a motor vehicle in Canada will not be met.
+
+30. The Canada Revenue Agency (CRA) considers a variety of factors when determining if it is reasonable that an allowance was for its stated purpose. Such factors may include whether the amount could reasonably pay for the expenses for which the allowance was intended, and whether it was possible for the individual who received the allowance to purchase the type of property or services for which the allowance was intended. Where the amount of the allowance could not reasonably be considered adequate to discharge a certain type of expense, the CRA may question whether the allowance was for the stated purpose.
+
+31. It is not necessary to demonstrate that an allowance was actually spent on the expenses that it was designed to cover. For example, if an employer provides an employee with an accommodation allowance of $150 per night to cover hotel accommodations while travelling on business and the employee stays with a relative instead, the CRA will accept that the allowance was for the purpose of acquiring short-term accommodation in a hotel.
+
+32. Where a person provides an individual with an allowance so that a spouse can accompany the individual on a business trip, whether the spousal allowance is considered to be in relation to the activities of the person depends on whether the spouse is engaged in activities for the person during the business trip. If the spouse performs official functions, the allowance may be in relation to the activities of the person. However, the allowance must still be for supplies all or substantially all of which are taxable supplies (other than zero-rated supplies) acquired in Canada in relation to the activities of the person. If less than 90% of the supplies are acquired in relation to the activities of the person, then section 174 does not apply.
+
+### An amount of the allowance is deductible for income tax purposes
+
+33. Section 174 applies when an amount in respect of the allowance is deductible in computing the income of the person paying the allowance for income tax purposes, or would be deductible if the person paying the allowance were a taxpayer under the ITA and the activity were a business.
+
+34. The full amount of the allowance does not have to be deductible for income tax purposes, but some of the amount must be deductible.
+
+### Travel and motor vehicle allowances that are reasonable
+
+35. Travel allowances can include reasonable expenses for transportation, accommodation, and meals.
+
+36. The most common type of motor vehicle allowance is for the use and operation of a motor vehicle owned by the employee, partner, or volunteer.
+
+37. Subparagraphs 6(1)(b)(v), (vi), (vii), and (vii.1) of the ITA address travel and motor vehicle allowances. In the case of an allowance to which subparagraph 6(1)(b)(v), (vi), (vii), or (vii.1) of the ITA applies, the person paying the allowance must ensure that both of the following conditions are met:
+
+- the allowance is a reasonable allowance for the purposes of that subparagraph of the ITA
+
+- at the time the allowance was paid, the person must have considered it to be a reasonable allowance, and it was reasonable for the person to have considered it to be a reasonable allowance for purposes of the ITA
+
+38. Under subparagraphs 6(1)(b)(v), (vi), (vii) and (vii.1) of the ITA, the following allowances are excluded from an income from office or employment:
+
+- reasonable allowances for travel expenses received by an employee from the employer in connection with the selling of property or negotiating of contracts for the employer
+
+- reasonable allowances received by a minister or clergyman in charge of or ministering to a diocese, parish, or congregation for expenses for transportation incidental to the discharge of the duties of that office or employment
+
+- reasonable allowances for travel expenses (other than allowances for the use of a motor vehicle) received by an employee (other than an employee employed in connection with the selling of property or the negotiating of contracts for the employer) from the employer for travelling away from either of the following in the performance of the duties of their office or employment:
+
+    - the municipality where the employer's establishment at which the employee ordinarily worked or to which the employee ordinarily reported was located
+
+    - the metropolitan area, if there is one, where that establishment was located
+
+- reasonable allowances for the use of a motor vehicle received by an employee (other than an employee employed in connection with the selling of property or the negotiating of contracts for the employer) from the employer for travelling in the performance of the duties of the office or employment
+
+39. Where an allowance for travel or for the use of a motor vehicle is paid to a member of a partnership or to a volunteer of a charity or public institution, for the purpose of applying the conditions set out in paragraph 37, the partner or volunteer is treated as if they are an employee of the partnership, charity, or public institution, as the case may be.
+
+#### Reasonable allowance
+
+40. It is a question of fact whether a travel or motor vehicle allowance is reasonable. This determination for income tax purposes is made on a case-by-case basis. Where it has been determined that a travel or motor vehicle allowance is reasonable for income tax purposes, the CRA accepts this determination for GST/HST purposes.
+
+41. Under subparagraphs 6(1)(b)(x) and (xi) of the ITA, an allowance paid to an employee for the use of a motor vehicle in connection with the activities of the employer is considered to be reasonable only if all of the following conditions are met:
+
+- the allowance is based only on the number of kilometres driven in a year in connection with, or in the course of, an office or employment
+
+- the rate per kilometre is reasonable
+
+- the employee is not reimbursed for expenses related to the same use of the motor vehicle, other than a reimbursement for supplemental business insurance or toll or ferry charges not already included in the allowance
+
+42. Generally, an allowance for the use of a motor vehicle is paid in one of the following ways:
+
+- a per kilometre basis
+
+- as a flat or fixed amount
+
+- through a combination of an amount calculated on a per kilometre basis and a flat or fixed amount
+
+43. A per kilometre motor vehicle allowance that is reasonable for income tax purposes usually satisfies the conditions of section 174. For further information on reasonable per kilometre motor vehicle allowances for income tax purposes, refer to [Guide T4130, Employers' Guide - Taxable Benefits and Allowances](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4130.html).
+
+44. A flat or fixed allowance for the use of a motor vehicle does not satisfy the criteria for a reasonable allowance under the ITA. Consequently, the conditions of section 174 are not met.
+
+45. Where a person pays a single allowance that is made up of two amounts, one which is a per kilometre allowance and one which is a fixed or flat allowance, and both are paid for the same purpose, the CRA considers that there is only one allowance. As a result, both amounts are considered to be unreasonable and the conditions of section 174 are not met.
+
+46. Where the amounts are for different purposes (for example, one amount is for out-of-town travel and one is for travel within the metropolitan area), the two amounts are considered to be separate allowances. If one allowance was calculated on a per kilometre basis and the other as a flat or fixed allowance, the per kilometre allowance could be considered to be reasonable, while the flat or fixed allowance would not be considered reasonable.
+
+47. Where a minimum amount is paid per trip, the CRA takes into consideration whether this minimum amount is meant to defray expenses.
+
+48. For further information on allowances for travel purposes and motor vehicles, refer to [Guide T4130](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4130.html).
+
+49. Where an allowance under subparagraph 6(1)(b)(v), (vi), (vii), or (vii.1) of the ITA is determined not to be reasonable at the time it was paid (that is, either unreasonably high or unreasonably low), then section 174 does not apply.
+
+50. Where an allowance is considered unreasonable at the time it is paid, an employee or partner may be eligible for a GST/HST rebate on the tax paid on their expenses. For more information, refer to [Guide T4044, Employment Expenses](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4044.html), and go to [GST/HST rebate for employees and partners](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/gst-hst-rebates/employees-partners.html).
+
+## Calculation of the GST/HST deemed paid
+
+51. Where the conditions of section 174 are met, the person paying the allowance (that is, the employer, partnership, charity, or public institution, as the case may be) is deemed to have received a supply of the property or service that the employee, partner, or volunteer received, and to have paid, at the time the allowance is paid, the GST/HST in respect of this supply equal to the amount determined by the formula:
+
+**A × (B/C)**
+
+where:
+
+**A** is the amount of the allowance
+
+**B** is either:
+
+- (i) when all or substantially all of the supplies for which the allowance is paid were made in participating provinces, or the allowance is paid for the use of a motor vehicle in participating provinces:
+
+    - (a) if all or substantially all of the supplies for which the allowance is paid were made in a particular participating province or if the allowance is paid for the use of a motor vehicle and all or substantially all of that use is in a particular participating province, the total of the rate set out in subsection 165(1) and the tax rate for that particular participating province
+
+    - (b) unless point (a) above applies, if all or substantially all of the supplies for which the allowance is paid were made in two or more participating provinces or if the allowance is paid for the use of a motor vehicle and all or substantially all of that use is in two or more participating provinces, the total of the rate set out in subsection 165(1) and the lowest tax rate among the tax rates for those participating provinces
+
+- (ii) in any other case, the rate set out in subsection 165(1)
+
+**C** is the total of 100% and the percentage determined for **B**
+
+52. Any consumption or use of the property or service by the employee, partner, or volunteer is deemed to be consumption or use by the employer, partnership, charity, or public institution, as the case may be, and not by the employee, partner, or volunteer.
+
+53. An employer, partnership, charity, or public institution uses the following tax fractions (that is, Elements **B** and **C** as set out in the above formula) to calculate the GST/HST deemed paid on supplies for which an allowance is paid.
+
+| Province where supplies are made | Tax fraction of the allowance |
+
+| --- | --- |
+
+| New Brunswick Newfoundland and Labrador Prince Edward Island | **15/115** (if 90% or more of the supplies for which the allowance is paid were made in these provinces or if the allowance is paid for the use of a motor vehicle and 90% or more of that use is in these provinces) |
+
+| Nova Scotia | **14/114** (if 90% or more of the supplies for which the allowance is paid were made in Nova Scotia or if the allowance is paid for the use of a motor vehicle and 90% or more of that use is in Nova Scotia) |
+
+| Ontario | **13/113** (if 90% or more of the supplies for which the allowance is paid were made in Ontario or if the allowance is paid for the use of a motor vehicle and 90% or more of that use is in Ontario) |
+
+| Any other province | **5/105** |
+
+If 90% or more of the supplies for which the allowance is paid were made in two or more participating provinces or if the allowance is paid for the use of the motor vehicle and 90% or more of that use is in two or more participating provinces, the percentage is the total of 5% and the lowest tax rate among the tax rates for those participating provinces.
+
+An employer located in Alberta pays a $200 allowance to an employee to attend a business meeting that is to be held in Moncton, New Brunswick. The allowance is intended to cover the employee's purchases of property or services while in New Brunswick, 90% or more of which will be taxable and subject to the HST at the rate of 15%. The conditions of section 174 are met.
+
+At the time the allowance is paid, tax in respect of the supply is equal to the amount determined by the formula:
+
+**A × (B/C)**
+
+where:
+
+**A** is $200 (the amount of the allowance)
+
+**B** is 15 (the total of the 5% federal part of the HST and the 10% provincial part of the HST in New Brunswick, the province where all or substantially all of the employee's purchases are made)
+
+**C** is 115 (the total of 100% and the percentage determined for **B**)
+
+Therefore, the HST deemed paid by the employer is $26.09 [$200 × (15/115)].
+
+A charity resident only in Nova Scotia pays its volunteer a $100 allowance for the use of their car in relation to activities engaged in by the charity. The allowance is paid for expenses incurred equally in Nova Scotia where the HST applies at the rate of 14% and in Ontario where the HST applies at the rate of 13%. The volunteer is not required to provide any receipts or documentation to the charity or to account for the allowance and the conditions of section 174 are met.
+
+Therefore, at the time the allowance is paid, tax in respect of the supply is equal to the amount determined by the formula:
+
+**A × (B/C)**
+
+where:
+
+**A** is $100 (the amount of the allowance)
+
+**B** is 13 (the total of the 5% federal part of the HST and the 8% provincial part of the HST in Ontario, the lowest of the tax rates between the two participating provinces in which the motor vehicle is used)
+
+**C** is 113 (the total of 100% and the percentage determined for **B**)
+
+Therefore, the HST deemed paid by the charity is $11.50 [$100 × (13/113)].
+
+If the charity is entitled to a public service bodies' rebate, it will need to separate the total HST deemed paid into the federal and provincial parts to calculate the rebate. The federal part of the HST deemed paid is $4.42 ($11.50 × 5/13) and the provincial part of the HST deemed paid is $7.08 ($11.50 × 8/13).
+
+## Input tax credit and rebate eligibility
+
+### Input tax credit eligibility
+
+54. Where an employer, partnership, charity, or public institution that is a GST/HST registrant pays an allowance to an employee, partner, or volunteer that meets the conditions of section 174, the registrant may be eligible to claim an ITC under subsection 169(1) for the GST/HST deemed paid in respect of the property or services to the extent that the deemed consumption or use is consumption or use in the course of the registrant's commercial activities.
+
+55. Charities are required to use the net tax calculation for charities. Consequently, they cannot claim ITCs for the GST/HST paid or payable on most of their purchases. However, if a charity meets certain conditions, it may elect not to use the net tax calculation for charities. For more information, refer to [GST/HST Info Sheet GI-066, How a Charity Completes Its GST/HST Return](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/gi-066.html), or [Guide RC4082, GST/HST Information for Charities](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4082.html).
+
+### Rebate eligibility
+
+#### Rebates of the GST/HST
+
+56. Eligible persons paying an allowance may be entitled to a rebate of the GST/HST deemed paid in respect of the property or service.
+
+57. For example, an Indian Band, tribal council, or a band empowered entity may claim a general rebate using reason code 8 when they pay a reasonable allowance to their employees or officials for eligible travel expenses. For more information, refer to [GST/HST Technical Information Bulletin B-039, GST/HST Administrative Policy - Application of the GST/HST to Indians](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/b-039.html).
+
+58. An Indigenous government that has entered into an agreement with the Government of Canada that pays an allowance to an employee may be entitled to a self-government refund of the GST and the federal part of the HST deemed paid on property or services for use in self-government activities. For more information, refer to [Guide RC4034](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4034.html), under the heading "Self-government refund".
+
+59. A provincial government that has agreed to use the pay and rebate model that pays an allowance to an employee may be entitled to a rebate of the GST/HST deemed paid on the property or service. For more information, refer to [GST/HST Memorandum 18-2, Provincial Governments](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/18-2.html).
+
+#### Public service bodies' rebate
+
+60. Certain public service bodies can claim a public service bodies' rebate to recover a percentage of the GST/HST paid or payable on eligible purchases and expenses that it cannot recover in any other way. A public service body may not be entitled to an ITC for the GST/HST deemed paid in respect of the property or service (for example, if the person is not a GST/HST registrant, the property or services are not consumed or used in the course of its commercial activities, the person is limited in the ITCs that it can claim because of the net tax calculation for charities or the special quick method of accounting for public service bodies).
+
+61. Where a charity, qualifying non-profit organization, or selected public service body paying an allowance to an employee is not entitled to an ITC, the person may be entitled to a public service bodies' rebate, under section 259, of the GST/HST deemed paid in respect of the property or service.
+
+62. Where a charity or public institution paying an allowance to a volunteer is not entitled to an ITC, the charity or public institution may be entitled to a public service bodies' rebate of the GST/HST deemed paid in respect of the property or service.
+
+63. A public service bodies' rebate is not available if the GST/HST deemed paid was in respect of a non-eligible purchase or expense. For more information, refer to [Guide RC4034](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4034.html).
+
+### Supplies of property or services acquired
+
+64. When an allowance that meets the requirements of section 174 is for supplies of property or services acquired by an employee, partner, or volunteer (other than an allowance for the use of a motor vehicle), the employer, partnership, charity, or public institution is not eligible to claim an ITC or apply for a rebate until such time as it is reasonable to consider that the supplies have been acquired. For example, if a registrant that is a monthly filer pays an allowance to an employee for the upcoming month on the last day of the registrant's reporting period, the registrant can only claim the ITC in its net tax for the following month.
+
+### Meals and entertainment restriction
+
+65. If it is determined that a person paying an allowance is entitled to an ITC in respect of the allowance and all or some of the taxable supplies for which the allowance is paid are for food, beverages, and entertainment, the recapture rules under subsection 236(1) may apply. However, the recapture rule does not apply to charities and public institutions. For more information on the ITC limitations in respect of food, beverages, and entertainment, refer to [GST/HST Memorandum 8-2, General Restrictions and Limitations](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/8-2.html).
+
+## Documentary requirements
+
+### Exemption from general requirements
+
+66. Persons that claim ITCs for the GST/HST deemed paid on supplies of property and services or the use of a motor vehicle for which an allowance is paid to an employee, partner, or volunteer may be exempt, under subsection 169(5), from the general documentary and information requirements if they maintain books and records that contain all of the following information:
+
+- the name and GST/HST registration number of the employer, partnership, charity, or public institution that paid the allowance
+
+- the name of the employee, partner, or volunteer who received the allowance
+
+- the total amount of the allowance paid to each employee, partner, or volunteer
+
+- the total GST/HST deemed to have been paid by the employer, partnership, charity, or public institution in respect of the allowance
+
+- the reporting period in which the allowance was paid
+
+- the nature of the allowance (that is, a description of the allowance, its purpose, and tax status)
+
+67. For detailed information on the rules respecting documentary requirements for claiming ITCs, refer to [GST/HST Memorandum 8-4, Documentary Requirements for Claiming Input Tax Credits](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/8-4.html).
+
+### Documentary requirements for rebates
+
+68. Persons that claim rebates for the GST/HST deemed paid on allowances are required, under subsections 286(1) and (1.2), to maintain adequate books and records, unless otherwise authorized by the Minister, in Canada in English or French to enable verification of the amount of the rebate. For information on maintaining books and records, refer to [GST/HST Memorandum 15-1, General Requirements for Books and Records](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/15-1.html), and [GST/HST Memorandum 15-2, Computerized Records](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/15-2.html).
+
+## Further information
+
+All **GST/HST technical publications** are available at [GST/HST technical information](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/technical-information-gst-hst.html).
+
+To make a **GST/HST enquiry** by **telephone**:
+
+- for **GST/HST general enquiries**, call **Business Enquiries** at **1-800-959-5525**
+
+- for **GST/HST technical enquiries**, call **GST/HST Rulings** at **1-800-959-8287**
+
+If you are located in **Quebec**, call **Revenu Québec** at **1-800-567-4692** or visit their website at [revenuquebec.ca](https://www.revenuquebec.ca/en/).
+
+If you are a **selected listed financial institution** (whether or not you are located in Quebec) and require information on the **GST/HST** or the **QST**, go to [GST/HST and QST information for financial institutions, including selected listed financial institutions](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/charge-collect-which-rate/financial-institutions.html) or:
+
+- for **general GST/HST** or **QST enquiries**, call **Business Enquiries** at **1-800-959-5525**
+
+- for **technical GST/HST** or **QST enquiries**, call **GST/HST Rulings SLFI** at **1-855-666-5166**

@@ -1,0 +1,133 @@
+---
+title: "Brassard v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/67309/index.do"
+last_modified: "2014-03-17"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2014 TCC 82"
+citation2: ""
+neutral_citation: "2014 TCC 82"
+decision_date: "2014-03-17"
+language: "en"
+item_id: "67309"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5314
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T09:53:53.854000+00:00"
+cases_cited_count: 2
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "4f807202acd266c68b7930c5953b35e0f05dbf0a1b33732aa07292f69fb62e31"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Brassard v. The Queen
+
+- Citation: 2014 TCC 82
+- Decision date: 2014-03-17
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5314, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Brassard v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2014-03-17
+Neutral citation
+2014 TCC 82
+File numbers
+2012-845(IT)I
+Judges and Taxing Officers
+Robert James Hogan
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2012-845(IT)I
+BETWEEN:
+JIM BRASSARD,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on February 13, 2014, at Prince George, British Columbia.
+Before: The Honourable Justice Robert J. Hogan
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Gergely Hegedus
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessments made under the Income Tax Act for the 2009 and 2010 taxation years is dismissed in accordance with the attached reasons for judgment.
+Signed at Ottawa, Canada, this 17th day of March 2014.
+“Robert J. Hogan”
+Hogan J.
+Citation: 2014 TCC 82
+Date: 20140317
+Docket: 2012-845(IT)I
+BETWEEN:
+JIM BRASSARD,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Hogan J.
+[1] The Appellant claimed a disability tax credit (“DTC”) in his 2009 and 2010 income tax returns.
+[2] The Minister of National Revenue (the “Minister”) disallowed the DTC on the ground that the Appellant had failed to obtain a medical certificate that confirmed that he suffered from one of the types of impairment described in section 118.3 of the Income Tax Act (the “ITA”) in respect of which a DTC is allowed.
+[3] The eligibility rules for the DTC are set out in subsection 118.3(1) of the ITA. An individual qualifies for a DTC if the following conditions are satisfied:
+(a) the individual has one or more severe and prolonged impairments in physical or mental functions;
+(b) the effects of the impairment or impairments are such that the taxpayer is either:
+(i) markedly restricted in the ability to perform a basic activity of daily living or would be without life-sustaining therapy; or
+(ii) significantly restricted in the ability to perform more than one basic activity of daily living and the cumulative effect of the restriction is equivalent to being markedly restricted in the person’s ability to perform a basic activity of daily living; and
+(iii) a medical practitioner certifies that the individual meets the requirements set out above.
+[4] A basic activity of daily living is defined in paragraph 118.4(1)(c) of the ITA as being:
+(a) the mental functions necessary for everyday life;
+(b) feeding or dressing oneself;
+(c) speaking so as to be understood, in a quiet setting, by another person familiar with the individual;
+(d) hearing so as to understand, in a quiet setting, another person familiar with the individual;
+(e) eliminating; or
+(f) walking.
+[5] The evidence shows that the Appellant suffers from severe allergies which frequently lead to outbreaks of eczema that are aggravated during periods of changes in the weather. The Appellant often stays indoors during those periods to reduce his exposure to allergens and to prevent or clear up his eczema.
+[6] I have no doubt that the Appellant’s medical condition is severe and often prevents him from leading a normal life. I also understand why the Appellant is frustrated that his disability, which has been recognized for the purposes of the Canada Pension Plan, does not automatically entitle him to claim a DTC. Unfortunately, Parliament chose a different route with respect to the DTC by defining the types of impairment that will be recognized for the purposes of that credit. In the instant case, the Appellant’s physician concluded that the Appellant did not suffer from the type of impairment described in paragraph 3 above. It is well established that a positive medical condition is a condition precedent to the Minister granting a DTC.[1] Therefore, the appeal is dismissed.
+Signed at Ottawa, Canada, this 17th day of March 2014.
+“Robert J. Hogan”
+Hogan J.
+CITATION: 2014 TCC 82
+COURT FILE NO.: 2012-845(IT)I
+STYLE OF CAUSE: JIM BRASSARD v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Prince George, British Columbia
+DATE OF HEARING: February 13, 2014
+REASONS FOR JUDGMENT BY: The Honourable Justice Robert J. Hogan
+DATE OF JUDGMENT: March 17, 2014
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Gergely Hegedus
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Canada (Attorney General) v. Buchanan, 2002 FCA 231, 2002 DTC 7397.

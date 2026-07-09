@@ -1,0 +1,128 @@
+---
+title: "Shabani v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27135/index.do"
+last_modified: "2004-03-31"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 TCC 235"
+citation2: ""
+neutral_citation: "2004 TCC 235"
+decision_date: "2004-03-31"
+language: "en"
+item_id: "27135"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 938
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T19:38:44.293000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "69648d52d8f3e3d4d91c8c01fe06c387f2b21a9e5b740fc4f8af9ef605a444bd"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Shabani v. The Queen
+
+- Citation: 2004 TCC 235
+- Decision date: 2004-03-31
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 938, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Shabani v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-03-31
+Neutral citation
+2004 TCC 235
+File numbers
+2003-3659(IT)I
+Judges and Taxing Officers
+Eric A. Bowie
+Subjects
+Income Tax Act
+Decision Content
+Citation: 2004TCC235
+Date: 20040331
+Docket: 2003-3659(IT)I
+BETWEEN:
+TEFIK SHABANI,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+___________________________________________________________________
+Agent for the Appellant: Margareta Hinrichsen
+Counsel for the Respondent: Louis A.T. Williams
+___________________________________________________________________
+REASONS FOR JUDGMENT
+(Delivered orally from the Bench at
+Edmonton, Alberta, on February 3, 2004)
+Bowie J.
+[1] I am going to deal first with the four points that are made in the Notice of Appeal. The first of those is that you filed a Notice of Objection and that it was not dealt with in a satisfactory manner. I take that to mean that it was not dealt with nearly quickly enough, and I could not agree more. Two and a half years to confirm a notice of assessment in a case like this strikes me as an unjustifiably long time and deserving at least of some explanation from Canada Customs and Revenue Agency (CCRA). I have seen nothing to explain it. However, that is not a matter as to which I can grant any relief.
+[2] It has been raised as an issue before in this Court, and it has been raised as an issue in the Federal Court of Appeal, and the Federal Court of Appeal has made it quite clear that the fact that Revenue Canada (or CCRA as it is now called) takes an unreasonable length of time to deal with a Notice of Objection does not give rise to any relief that this Court can grant. One of the reasons the Federal Court of Appeal took that position is that subsection 169(1) of the Income Tax Act gives the taxpayer a remedy. It provides that if you file a Notice of Objection and you have not heard from anybody at the end of 90 days, then you can file a Notice of Appeal in this Court and you will be heard right away. Unfortunately, that is an obscure section of the Act. I do not know whether the Notice of Assessment or any of the other communications that are sent out routinely from CCRA to Appellants bring that provision of the Act to their attention, but I would have thought probably not, because more people would take advantage of it and simply come directly to this Court rather than wait for what are sometimes unreasonably long delays in hearing from the so-called appeals branch of CCRA. I will come back to the matter of delay later, but it is not a ground on which I can allow the appeal.
+[3] The second ground set out in the Notice of Appeal is, and it is perhaps important to read the exact words:
+... I wish to advise that when the Government of Canada hired me, no one advised me that I was working as a consultant or that I would be deemed to be self-employed. I completed time sheets and I was paid according to them.
+Now, the issue in this case, as I said earlier in the proceedings, has been framed, inappropriately, by the Deputy Attorney General of Canada through his agent C. Ritchie who drafted the Reply, as being whether the income is income from employment or income from business or property. That is not the issue in this case at all. It does not matter whether income is from employment or whether it is from business or property. If it is income then it is subject to tax. If it were income from business or property, then of course the question would arise, were there any expenses that had to be laid out in order to earn that income. But it has never been suggested, either in the Notice of Appeal or here today that Mr. Shabani had to pay any expenses that were not reimbursed. So the income, the revenue if you like, the $42,000, whether it comes from employment or whether it comes from a contract for services, either way it is all income.
+[4] The third item raised in the Notice of Appeal is and again I quote:
+... if this amount was deemed as income from a business, expenses incurred as a result of conducting that business, namely hotel accommodations, meals, transportation costs, telephone charges, and etc. should be allowed to be deducted from this total, should it not?
+If Mr. Shabani paid them out of his own pocket they would be deductible, if it were income from a business. But the evidence is quite clear that Mr. Shabani was reimbursed. He was given money for his expenses, his hotel bill was paid, and there is no suggestion anywhere that he had to pay any of that out of his own pocket.
+[5] The fourth item raised is that four years has lapsed:
+... and I only received Calgary's decision regarding my notice of objection on May 1, 2003, ... despite the fact that the original notice of objection was filed on November 26, 2001. ...
+And that is simply a reiteration of the first complaint, namely that it took far too long to deal with this matter. During the course of the hearing, the suggestion was raised that the Appellant thought that the income that he received was received as an employee of the United Nations. I say two things in respect of that. First, I am extremely dubious about the veracity of it, and the reasons I say that are twofold. The first one is that it is mentioned nowhere in the Notice of Appeal, and I would have thought that if Mr. Shabani had held the impression throughout all this period of time since he earned this income in 1999 that it was exempt as being earnings from employment with the United Nations, that that would have in some way found its way into the Notice of Appeal, but it did not. I view it as an afterthought. And if he had really wondered about whether it was earnings from the United Nations, I should have thought that looking at his pay cheque and seeing that it says on the left-hand edge in large letters "Canada" and across the top "Citizenship and Immigration Canada/Citoyenneté et Immigration Canada" that would have dispelled any misconception about the source of the income. So I am really very dubious about Mr. Shabani's claim that he thought it was income from the United Nations.
+[6] But nevertheless, what he thought is not what gives rise to taxability or the absence of it, and it is certainly clear on the evidence before me that whatever Mr. Shabani may have thought, this income did not come from the United Nations. His employment was by an agency of the Government of Canada, and so it is not exempt under section 81 of the Act, or any other provision.
+[7] The other matter raised during the course of the appeal on Mr. Shabani's behalf is that Employment and Immigration Canada did not deduct any income tax at source. That was probably because the employment was casual employment. There was no written contract prior to the expiry of the first two-month period. There apparently was a written contract of employment after that. It might be arguable that source deductions should have been made at least from that point onward, but I am not here to decide whether Immigration Canada did or did not have an obligation to deduct at source.
+[8] The Income Tax Act is very clear that income is taxable and that the people who earn it have an obligation to pay income tax. Employers, under certain circumstances, have an obligation to deduct at source, but their failure to deduct at source does not mean that the person employed has some sort of holiday from tax. I readily accept that if an employer fails to deduct at source, it may lull the employee into feeling that he has no obligation, but at law there is no merit to that position. The employee may go and spend the money on other things and no doubt that is a detriment to him, but it does not relieve him of the obligation to pay tax. The primary obligation to pay income tax arises from sections 2 and 3 of the Act. Section 2 provides that an income tax shall be paid, as required by this Act, on the person's taxable income for each taxation year of every person who is resident in Canada at any time in the year; and section 3 provides that:
+The income of a taxpayer for a taxation year for the purposes of this Part is the taxpayer's income determined by the following rules...
+And those rules, while somewhat complicated, make it very clear that income from employment and income from a business are both within that which is made subject to tax by section 2. So I have no alternative but to dismiss this appeal.
+[9] Now, I said I would come back to the matter of delay. It seems to me, Mr. Shabani, that Revenue Canada has been remiss in the way that they have dealt with your Notice of Objection. I have not heard evidence from Immigration Canada as to why they did not deduct income tax at source, but the combination of those two things has probably given you a substantial liability for interest on top of that tax. The Minister of National Revenue has authority under the Income Tax Act to waive interest in an appropriate case, and I would suggest to you that this is a case in which you should approach CCRA with a view to seeking to have the interest that has accumulated on your tax waived, because there is a good deal of conduct on the part of at least one of the two government agencies involved in this case that has contributed to that liability for interest.
+[10] Mr. Williams may be able to assist you by telling you where you would go with that application, but that is a matter that is purely within the sphere of the Minister of National Revenue. This Court has no jurisdiction to deal with that.
+Signed at Ottawa, Canada, this 31st day of March, 2004.
+"E.A. Bowie"
+Bowie J.
+CITATION:
+2004TCC235
+COURT FILE NO.:
+2003-3659(IT)I
+STYLE OF CAUSE:
+Tefik Shabani and Her Majesty the Queen
+PLACE OF HEARING
+Edmonton, Alberta
+DATE OF HEARING
+February 3, 200
+REASONS FOR JUDGMENT BY:
+The Honourable Justice E.A. Bowie
+DATE OF JUDGMENT
+February 6, 2004
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Louis A.T. Williams
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+N/A
+Firm:
+N/A
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,173 @@
+---
+title: "A OK Payday Loans Inc. v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/31229/index.do"
+last_modified: "2013-07-04"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2013 TCC 217"
+citation2: ""
+neutral_citation: "2013 TCC 217"
+decision_date: "2013-07-04"
+language: "en"
+item_id: "31229"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5134
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T09:01:32.527000+00:00"
+cases_cited_count: 2
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "2c039facc45313542c692e18e9ff261a8e9c7cfae62853d8b185dc49dd771bd1"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# A OK Payday Loans Inc. v. The Queen
+
+- Citation: 2013 TCC 217
+- Decision date: 2013-07-04
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5134, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+A OK Payday Loans Inc. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2013-07-04
+Neutral citation
+2013 TCC 217
+File numbers
+2012-3372(GST)I
+Judges and Taxing Officers
+Campbell J. Miller
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2012-3372(GST)I
+BETWEEN:
+A OK PAYDAY LOANS INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on June 26, 2013, at Victoria, British Columbia
+Before: The Honourable Justice Campbell J. Miller
+Appearances:
+Agent for the Appellant:
+Charlotte Rosene
+Counsel for the Respondent:
+Kristian DeJong
+____________________________________________________________________
+JUDGMENT
+The Appeal from the assessment made under the Excise Tax Act with respect to the Notice of Assessment dated June 1, 2011, is dismissed, without costs.
+Signed at Ottawa, Canada, this 4th day of July 2013.
+"Campbell J. Miller"
+C. Miller J.
+Citation: 2013 TCC 217
+Date: 20130704
+Docket: 2012-3372(GST)I
+BETWEEN:
+A OK PAYDAY LOANS INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+C. Miller J.
+[1] This is an unusual case in that the Appellant, A OK Payday Loans Inc., is attempting to obtain a Goods and Services Tax ("GST") refund of approximately $90,200, remitted to the Government in error, having already lost an appeal to the Tax Court of Canada from an assessment denying a rebate application pursuant to subsection 261(1) of the Excise Tax Act (the "Act"). That decision of Justice Paris concluded that the Appellant was simply beyond the two year time restriction in subsection 261(3) of the Act for applying for the rebate. Justice Paris acknowledged, however, that subsection 296(2.1) of the Act was not available as the rebate assessment pursuant to subsection 261(1) of the Act was not an assessment of net tax for a reporting period which would have brought subsection 296(2.1) of the Act into play. The Appellant, therefore, has tried again by claiming the $90,200 as Input Tax Credits ("ITCs") for the November 2010 reporting period, thus triggering an assessment. Indeed, the Minister of National Revenue (the "Minister") did reassess denying the ITCs, giving both sides the opportunity to then address the applicability of subsections 296(2.1), (3.1) and (4.1) of the Act.
+[2] The facts are not in dispute and were well summarized by Justice Paris, but a very brief review is in order. Ms. Rosene, the owner of the Appellant, testified that the Appellant was in the financial service business. She discussed the matter with her accountant, neither of whom appreciated that financial services provided by the Appellant were an exempt supply. So, although not collecting GST from customers, Ms. Rosene had the Appellant remit $90,200 of GST to the Government for the period December 1998 to March 2005 and approximately another $18,000 from then until some time in 2007. It was not until 2007 that she discovered from a competitor that the Appellant was not required to remit GST.
+[3] After talking on several occasions with Canada Revenue officials, in 2007 Ms. Rosene applied, on behalf of the Appellant pursuant to section 261 of the Act, for a rebate of approximately $18,000 paid in error for the 2005 to 2007 period, which she successfully obtained. She was advised by Canada Revenue Agency ("CRA") that they could not process an application for the earlier period (December 1998 – March 2005), but such an application would have to be sent to the CRA’s Summerside office.
+[4] Upon receipt of the $18,000 refund, in early 2008 Ms. Rosene proceeded to apply, again pursuant to section 261 of the Act, for a rebate of the balance of $90,200 relating to the earlier period, which application was rejected by the Minister. As I have already pointed out, she was also unsuccessful at the Tax Court of Canada on this application pursuant to subsection 261(1) of the Act, as the application was beyond the two year time limitation. However, based on her reading of the Supreme Court of Canada decision in the case of United Parcel Service Canada Ltd. v Canada,[1] she felt there was an avenue to extend the two year restriction, and consequently filed a GST return for the November 2010 period, claiming the $90,200 as ITCs. This resulted in a June 2011 assessment denying the ITCs, from which the Appellant now appeals.
+[5] Ms. Rosene was a straightforward and honest, yet somewhat frustrated witness. She is clearly flabbergasted that the Government has not returned $90,200 that does not belong to it, both on a principled and fairness basis and based on the following encouraging words from the Supreme Court of Canada in United Parcel Service Canada Ltd.:
+30. As I read s.296(2.1), even if no application for a rebate was made within the applicable limitation period, the rebate shall be applied by the Minister against the net tax owed by the taxpayer in the reassessment process if the Minister determines that a rebate would have been payable had it been claimed. The section refers to "allowable rebate". Allowable rebate must mean a rebate that would have been allowable had the applicable procedure been followed. In other words, where these procedures have not been followed, it is not fatal to the rebate claim.
+[6] There are two issues:
+a) Was the Minister correct in disallowing ITCs of $90,200?
+b) Do subsections 296(2.1) and (3.1) of the Act provide any relief for the Appellant in obtaining a refund of the $90,200 paid in error?
+ITCs
+[7] The Appellant was in the financial service business, thus engaged in the provision of an exempt supply under the Act. Pursuant to section 169 of the Act, an ITC is available in respect of a supply used in the course of commercial activity. Commercial activity is defined to exclude the making of exempt supplies. ITCs are simply not available to the Appellant and the Minister was correct in denying them. Ms. Rosene’s argument on this issue was unfortunately premised on a misunderstanding of section 169 of the Act, which she acknowledged at trial.
+Subsection 296(2.1) of the Act
+[8] The trickier issue, however, is whether subsection 296(2.1) of the Act throws the Appellant a lifeline to get a refund. It is worth reproducing some provisions of section 296 of the Act:
+(2.1) Where, in assessing the net tax of a person for a reporting period of the person or an amount (in this subsection referred to as the “overdue amount”) that became payable by a person under this Part, the Minister determines that
+(a) an amount (in this subsection referred to as the “allowable rebate”) would have been payable to the person as a rebate if it had been claimed in an application under this Part filed on the particular day that is
+(i) if the assessment is in respect of net tax for the reporting period, the day on or before which the return under Division V for the period was required to be filed, or
+(ii) if the assessment is in respect of an overdue amount, the day on which the overdue amount became payable by the person,
+and, where the rebate is in respect of an amount that is being assessed, if the person had paid or remitted that amount,
+(b) the allowable rebate was not claimed by the person in an application filed before the day notice of the assessment is sent to the person, and
+(c) the allowable rebate would be payable to the person if it were claimed in an application under this Part filed on the day notice of the assessment is sent to the person or would be disallowed if it were claimed in that application only because the period for claiming the allowable rebate expired before that day,
+the Minister shall apply all or part of the allowable rebate against that net tax or overdue amount as if the person had, on the particular day, paid or remitted the amount so applied on account of that net tax or overdue amount
+…
+(3.1) If, in assessing the net tax of a person for a particular reporting period of the person or an amount (in this subsection referred to as the “overdue amount”) that became payable by a person under this Part, all or part of an allowable rebate referred to in subsection (2.1) is not applied under that subsection against that net tax or overdue amount, except where the assessment is made in the circumstances described in paragraph 298(4)(a) or (b) after the time otherwise limited for the assessment by paragraph 298(1)(a), the Minister shall
+(a) apply
+(i) all or part of the allowable rebate that was not applied under subsection (2.1)
+against
+(ii) any other amount (in this paragraph referred to as the “outstanding amount”) that, on or before the particular day that is
+(A) if the assessment is in respect of net tax for the particular reporting period, the day on or before which the return under Division V for the particular period was required to be filed, or
+(B) if the assessment is in respect of an overdue amount, the day on which the overdue amount became payable by the person,
+the person defaulted in paying or remitting under this Part and that remains unpaid or unremitted on the day notice of the assessment is sent to the person,
+as if the person had, on the particular day, paid or remitted the amount so applied on account of the outstanding amount;
+(b) apply
+(i) all or part of the allowable rebate that was not applied under subsection (2.1) or paragraph (a) together with interest at the prescribed rate on all or that part of the allowable rebate, computed for the period beginning on the day that is 30 days after the later of
+(A) the particular day, and
+(B) where the assessment is in respect of net tax for the particular reporting period, the day on which the return for the particular reporting period was filed,
+and ending on the day on which the person defaulted in paying or remitting the outstanding amount referred to in subparagraph (ii)
+against
+(ii) any amount (in this paragraph referred to as the “outstanding amount”) that, on a day (in this paragraph referred to as the “later day”) after the particular day, the person defaulted in paying or remitting under this Part and that remains unpaid or unremitted on the day notice of the assessment is sent to the person,
+as if the person had, on the later day, paid the amount and interest so applied on account of the outstanding amount; and
+(c) refund to the person that part of the allowable rebate that was not applied under any of subsection (2.1) and paragraphs (a) and (b) together with interest at the prescribed rate on that part of the allowable rebate, computed for the period beginning on the day that is 30 days after the later of
+(i) the particular day, and
+(ii) where the assessment is in respect of net tax for the particular reporting period, the day on which the return for the particular period was filed,
+and ending on the day the refund is paid to the person.
+…
+(4.1) An allowable rebate referred to in subsection (2.1) or a part thereof that was not applied under that subsection and interest thereon under paragraphs (3.1)(b) and (c)
+(a) shall not be applied under paragraph (3.1)(b) against an amount (in this paragraph referred to as the “outstanding amount”) that is payable or remittable by a person unless the allowable rebate would have been payable to the person as a rebate if the person had claimed it in an application under this Part filed on the day the person defaulted in paying or remitting the outstanding amount and, in the case of a rebate under section 261, if subsection 261(3) allowed the person to claim the rebate within four years after the person paid or remitted the amount in respect of which the rebate would be so payable; and
+(b) shall not be refunded under paragraph (3.1)(c) unless the allowable rebate would have been payable to the person as a rebate if the person had claimed it in an application under this Part filed on the day notice of the assessment is sent to the person, and, where the rebate is in respect of an amount that is being assessed, if the person had paid or remitted that amount.
+[9] I read subsection 296(2.1) of the Act as the gatekeeper to enter these relieving provisions that, under subsection 2.1 or paragraphs 3.1 (a) or (b) allow for an offset against tax or under paragraph 3.1(c) allow for an actual refund. It is the latter that the Appellant seeks.
+[10] To be clear, subsection 296(2.1) of the Act allows an offset against net tax for the reporting period. There was no net tax owed by the Appellant for the November 2010 reporting period. Paragraphs 296(3.1)(a) and (b) of the Act then allow for an offset against any other outstanding amount, again of which there was none owed by the Appellant. Finally, paragraph 296(3.1)(c) of the Act allows for a refund of any balance not previously offset.
+[11] One of the conditions required to obtain relief is found in paragraph 296(2.1)(b) of the Act: the taxpayer cannot have made a claim for rebate in an application filed before the day the notice of assessment is sent. In this case, an application for a rebate was made in February 2008, long before the June 2011 assessment. While this seems at first glance odd that a taxpayer can seek relief never having filed for a claim, while the taxpayer who attempts to do the right thing and file a claim cannot, the words are clear. As I indicated in the decision of Humber College Institute of Technology & Advanced Learning v Canada:[2]
+35. I do not have the same section of the Act, nor the same circumstances before me. I do not know how I can interpret a requirement that "the allowable rebate was not claimed by the person in an application filed before the day notice of the assessment is sent to the person", in any manner other than how the text reads. While the purpose of this provision assists me in resolving some ambiguity with respect to the imposition of interest pursuant to section 280 of the Act, it is insufficient to overcome the clear meaning of the requirement itself. Did Humber file an application before the assessment? Yes, it did: subsection 296(2.1) of the Act is simply not available to it. If this is not the result intended, and I have concluded it likely is not, then it is not for the Court to simply ignore the requirement. If the clear reading of the provision does not serve the purpose intended, it is for the legislators to amend the wording.
+[12] It is not necessary to address any "absurdity" argument as I did in the Humber case, as the circumstances are different and, indeed, I find the Appellant could still not benefit from these relieving provisions, even if I ignored the requirement under paragraph 296(2.1)(b) of the Act (which was the provision subject to an absurdity argument in Humber). The reason is the application of subsection 296(4.1) of the Act. That provision sets out limits on the ability to use these relieving provisions both to offset net tax or to obtain a refund. To offset tax, paragraph 296(4.1)(a) of the Act extends the section 261 of the Act two year limit to four years. To obtain a refund under paragraph 296(3.1)(c), paragraph 296(4.1)(b) requires that the time of the assessment is still within the two year time period for making a successful section 261 rebate application. In effect there remains the same two year limitation. This is fatal to the Appellant’s position. The Appellant remains beyond the two year restriction.
+[13] Is there anything in the United Parcel Service Canada Ltd. decision that might save the Appellant? The United Parcel Service Canada Ltd. decision dealt more with the issue of who was entitled to a rebate under subsection 261(1) of the Act, though did also address the applicability of subsection 296(2.1) of the Act. The Supreme Court of Canada comments, however, were in the context of an offset against tax, as the United Parcel Service Canada Ltd. claimed a deduction of the amounts paid in error against its own tax liability. The Supreme Court of Canada (see the earlier quote) appears to have placed no time limit on seeking such a claim. Subsection 296(2.1) of the Act simply allows such an offset, according to the Supreme Court of Canada, at any time. Similarly, there appears to be no time constraint for a claim under paragraph 296(3.1)(a) of the Act. However, paragraph 296(4.1)(a) of the Act does impose time limits for an offset pursuant to paragraph 296(3.1)(b) of the Act – four years, and paragraph 296(4.1)(b) of the Act limits the availability of a refund to the same time constraint as set out in subsection 261(3) of the Act – two years. The United Parcel Service Canada Ltd. case simply does not help the Appellant.
+[14] This is an extremely harsh result. The taxpayer undoubtedly believes the Government, who demands that the taxpayer act as their collection agent to collect GST, has abandoned their agent and improperly kept monies not theirs. The legislation imposes time restrictions, and I am unable to read these complex provisions in a way that affords the Appellant any way around those time constraints. Unlike the United Parcel Service Canada Ltd. case, the Appellant seeks a refund, and is therefore subject to paragraph 296(4.1)(b) of the Act.
+[15] I wish to comment on what may yet be open to the Appellant. It was clear at trial that Ms. Rosene feels she did not receive proper professional advice. She may wish to seek legal advice as to whether the circumstances justify any action in that regard.
+[16] Also, I would encourage Ms. Rosene to consider a remission request on behalf of the Appellant pursuant to the Financial Administration Act. I seldom make such a suggestion as time limitations are what they are. However, notwithstanding I place no duty or obligation on the Minister to point out to every taxpayer when or if the taxpayer has made or is making a mistake, I would have hoped that someone at CRA would have clued in that accepting $108,000 over a nine year period from an entity with the name "A Ok Payday Loans", as GST purportedly collected and remitted from customers of an exempt supply of financial services, was incorrect. The taxpayer sought advice on this complicated legislation and, regrettably, received poor advice. It is not unreasonable, however, for a taxpayer to expect that the very entity that demands the taxpayer to collect monies on their behalf might have figured this out, rather than ending up with a $90,000 windfall. I wish Ms. Rosene success with her remission order application. I must, however, dismiss her Appeal.
+Signed at Ottawa, Canada, this 4th day of July 2013.
+"Campbell J. Miller"
+C. Miller J.
+CITATION: 2013 TCC 217
+COURT FILE NO.: 2012-3372(GST)I
+STYLE OF CAUSE: A OK PAYDAY LOANS INC. AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Victoria, British Columbia
+DATE OF HEARING: June 26, 2013
+REASONS FOR JUDGMENT BY: The Honourable Justice Campbell J. Miller
+DATE OF JUDGMENT: July 4, 2013
+APPEARANCES:
+Agent for the Appellant:
+Charlotte Rosene
+Counsel for the Respondent:
+Kristian DeJong
+COUNSEL OF RECORD:
+For the Appellant: n/a
+Name:
+Firm:
+For the Respondent: William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] 2009 SCC 20.
+[2] 2013 TCC 146.

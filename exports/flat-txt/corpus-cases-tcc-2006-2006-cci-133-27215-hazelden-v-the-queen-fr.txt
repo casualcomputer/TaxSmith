@@ -1,0 +1,96 @@
+Title: Hazelden v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27215/index.do
+Corpus path: corpus/cases/tcc/2006/2006-cci-133-27215-hazelden-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2006-07-14
+
+# Hazelden v. The Queen
+
+- Citation: 2006 CCI 133
+- Decision date: 2006-07-14
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 821, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Hazelden v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-07-14
+Référence neutre
+2006 CCI 133
+Numéro de dossier
+2002-3491(IT)I
+Juges et Officiers taxateurs
+Cameron Hugh McArthur
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Référence : 2006CCI133
+Date : 20060714
+Dossier : 2002-3491(IT)I
+ENTRE :
+MARTIN HAZELDEN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Pour l’appelant : L’appelant lui‑même Avocat de l’intimée : Me Eric Sherbert
+____________________________________________________________________
+MOTIFS DU JUGEMENT
+(Rendus oralement à l’audience à
+Hamilton (Ontario), le 24 mars 2004.)
+Le juge McArthur
+[1] La question en litige est de savoir si la somme de 24 000 $ versée par l’appelant à son épouse au cours de l’année d’imposition 2000 est assimilable à une pension alimentaire à recevoir par elle aux termes d’une ordonnance ou d’un accord écrit au sens du paragraphe 56.1(4) de la Loi de l’impôt sur le revenu (la « Loi »). Après que j’ai entendu l’appelant et l’avocat de l’intimée et que j’ai expliqué à l’appelant les exigences prévues au paragraphe 56.1(4) de la Loi qui doivent être remplies pour qu’une pension alimentaire puisse être déduite de son revenu imposable, l’échange suivant a eu lieu :
+[traduction]
+JUGE McARTHUR : Évidemment, je suis sensible à votre situation et je m’efforce de vous venir en aide. Je vous crois, et il n’y a aucun doute dans mon esprit que vous avez été honnête et franc. La note de votre ex‑épouse datée du 1er novembre ne m’est pas vraiment utile, et j’irais trop loin si je concluais qu’il s’agit d’un contrat. La Cour n’est pas un tribunal d’equity, et je dois suivre la loi telle qu’elle est écrite. Malheureusement, je dois rejeter votre appel.
+Sur une note positive, je suis heureux d’entendre que la pièce A‑2 (Accord de séparation provisoire) sera acceptée, et que vous pourrez vous en servir au cours des années 2001 et suivantes. Est‑ce que j’ai raison à cet égard?
+M. SHERBERT : Je ne suis pas sûr au juste. Mais, c’est ce que je comprends.
+JUGE McARTHUR : Cette question ne m’a pas été soumise. Quoi qu’il en soit, merci pour votre témoignage et d’avoir comparu. Mais, je dois rejeter votre appel.
+M. HAZELDEN : Est‑ce que je peux vous poser une dernière question?
+JUGE McARTHUR : Oui.
+M. HAZELDEN : Avez‑vous compétence pour m’aider – je suis imposé comme un célibataire et, pourtant, je ne peux pas affirmer que j’ai une épouse. Donc, est‑ce que je peux produire de nouveau ma déclaration de revenus pour l’année 2000?
+JUGE McARTHUR : Pardon, je ne comprends pas.
+M. HAZELDEN : Je suis imposé comme un célibataire qui n’a aucune personne à charge. Est‑ce que je peux produire de nouveau ma déclaration de revenus pour l’année 2000 et au moins demander un montant pour personne à charge à l’égard de mon épouse Linda?
+JUGE McARTHUR : Je ne peux pas vous répondre en ce moment. Vous pourriez demander conseil à un spécialiste.
+Signé à Ottawa, Canada, ce 14e jour de juillet 2006.
+« C.H. McArthur »
+Juge McArthur
+Traduction certifiée conforme
+ce 7e jour de septembre 2007.
+Jean David Robert, traducteur
+RÉFÉRENCE :
+2006CCI133
+Nº DU DOSSIER DE LA COUR :
+2002‑3491(IT)I
+INTITULÉ :
+Martin Hazelden et Sa Majesté la Reine
+LIEU DE L’AUDIENCE :
+Hamilton (Ontario)
+DATE DE L’AUDIENCE :
+Le 24 mars 2004
+MOTIFS DU JUGEMENT :
+L’honorable juge C.H. McArthur
+DATE DU JUGEMENT :
+Le 29 mars 2004
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui‑même
+Avocat de l’intimée :
+Me Eric Sherbert
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+s.o.
+Cabinet :
+s.o.
+Pour l’intimée :
+John H. Sims, c.r.
+Sous‑procureur général du Canada
+Ottawa, Canada

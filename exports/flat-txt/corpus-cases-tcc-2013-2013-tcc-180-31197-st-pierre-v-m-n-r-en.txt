@@ -1,0 +1,119 @@
+Title: St-Pierre v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/31197/index.do
+Corpus path: corpus/cases/tcc/2013/2013-tcc-180-31197-st-pierre-v-m-n-r-en.md
+Document type: case_law
+Last modified: 2013-06-06
+
+# St-Pierre v. M.N.R.
+
+- Citation: 2013 TCC 180
+- Decision date: 2013-06-06
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5036, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+St-Pierre v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2013-06-06
+Neutral citation
+2013 TCC 180
+File numbers
+2009-2997(EI), 2009-2998(CPP)
+Judges and Taxing Officers
+François M. Angers
+Subjects
+Employment Insurance Act
+Decision Content
+Dockets: 2009-2997(EI)
+2009-2998(CPP)
+BETWEEN:
+AURÈLE ST-PIERRE,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on May 13, 2013, at Edmundston, New Brunswick.
+Before: The Honourable Justice François Angers
+Appearances:
+For the appellant:
+The appellant himself
+Counsel for the respondent:
+Stéphanie Côté
+Christina Ham
+____________________________________________________________________
+JUDGMENT
+The appeals from the decisions of the Minister of National Revenue that the appellant did not hold insurable employment within the meaning of the Employment Insurance Act or pensionable employment within the meaning of the Canada Pension Plan are dismissed, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, on this 6th day of June 2013.
+"François Angers"
+Angers J.
+Margarita Gorbounova, Translator
+Citation: 2013 TCC 180
+Date: 20130606
+Dockets: 2009-2997(EI)
+2009-2998(CPP)
+BETWEEN:
+AURÈLE ST-PIERRE,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Angers J.
+[1] The Minister of National Revenue (the Minister) determined that, during the period from September 5 to October 7, 2005 (the period), the appellant did was not employed under a contract of service within the meaning of paragraph 5(1)(a) of the Employment Insurance Act (the Act) and, alternatively, that, if there had been a contract of service between the appellant and the business 619454 NB inc. (the payer), his employment was not insurable because they were not dealing with each other at arm's length within the meaning of paragraphs 5(2)(i) and 5(3)(b) of the Act and paragraph 251(1)(c) of the Income Tax Act. Regarding the Canada Pension Plan, the Minister determined that the appellant had not worked for the payer during the period and that, accordingly, the appellant did not hold pensionable employment within the meaning of paragraph 6(1)(a) of the Plan during the period, given that there was no contract of service between the appellant and the payer. The appellant is appealing from these two decisions.
+[2] At the beginning of the hearing, the respondent informed the Court that he wanted to amend his Replies to the Notices of Appeal by deleting paragraphs 5(f) and (g) in the two appeals before the Court.
+[3] The payer's corporation was incorporated on June 8, 2005, under the laws of New Brunswick and was dissolved on March 28, 2008. Its sole shareholder and director was Donald Bergeron. The corporation's declared activity was the operation of a forestry business. It earned income from the cutting of timber from the week of June 5, 2005, until May 26, 2006, which was the period reviewed by the respondent's investigators. During that period, the payer allegedly transported 450 loads of timber.
+[4] The payer is part of a group of corporations subjected to a major investigation by the Employment Insurance Commission. The investigation showed that these corporations including the payer took part in schemes consisting in issuing false records of employment to some people so that they could receive employment insurance benefits to which they were not entitled.
+[5] The investigation showed that the payer had not kept a ledger of its income and expenses, that it had signed no contracts for stumpage rights, that it had never filed any income tax returns and that it had never remitted source deductions to the Minister.
+[6] From June 5, 2005, to September 30, 2006, the payer issued records of employment to 16 people. One of them admitted to the investigators that he had bought his record of employment from the payer without having worked; another had apparently received a record of employment after agreeing to give half of his benefits to the payer; and a third allegedly admitted cutting her own timber and receiving a record of employment indicating that she had done it as an employee of the payer.
+[7] The Commission's investigators compiled a list of employees on the payer's payroll and their work hours. They also obtained a copy of the payer's bank transactions statement during the period targeted by the investigation as well as copies of all cheques issued by the payer or cashed or deposited by it. The payer had issued cheques to only one employee whose name appeared on its payroll.
+[8] The appellant was given two records of employment in 2005. The first record was insufficient to entitle the appellant to employment insurance benefits. The second one, which was issued by the payer, apparently entitled him to benefits even though he had indicated a lower number of work hours; the hours of work indicated entitled the appellant to receive higher benefits.
+[9] During the investigation and the appeal of the Minister's decision, the appellant completed three questionnaires. The first was completed during the investigation on October 23, 2007. The second was completed on June 3, 2008, and was obtained by Annette Melanson of the Department of Human Resources at a meeting with the appellant. The third was completed on March 18, 2009, and was obtained by an appeals officer of the Canada Revenue Agency.
+[10] In his testimony, the appellant stated that he had worked for Kedgwick Lumber for nine weeks in 2005. At the beginning of September, he met Donald Bergeron because he knew that he was involved in logging. Mr. Bergeron referred him to a Claude St-Onge. The appellant stated that he almost never saw Donald Bergeron again. He also realized that Donald Bergeron was only a figurehead. He therefore negotiated a salary of $750 per week for a 45-hour work week with Claude St-Onge. According to the appellant, the hourly rate and the number of hours were not important to him. What was important to him was his net salary.
+[11] The appellant said that he had salvaged timber for a week in the Upsalquitch area and at range 10 and that, after that, Claude St-Onge had asked him to assess some woodlots. He assessed on average one lot per week and allegedly did this work during the last four weeks of his employment. He assessed one at range 4, one at range 5, one at Whites Brook and two in Quebec near Matapédia on a weekend. He said that he had done this work alone.
+[12] For his first week of pay, he received a cheque signed by Donald Bergeron. He cashed the cheque at a grocery store because of financial problems that he was having at the time. The cheque in question was a non-sufficient-funds cheque. He then received his pay in cash, which he got at Claude St-Onge's house on Saturday.
+[13] The respondent filed in evidence a photocopy of four of five remuneration and deductions statements that the appellant had forwarded to him as well as a photocopy of the payer's payroll journal. According to the statements, the appellant was paid by cheque because each statement indicates a cheque number. These numbers do not, however, match the numbers in the payroll journal. In addition, the number of hours of work was 50, not 45.
+[14] It falls to the appellant to show, on the balance of probabilities, that he had worked for the payer during the period at issue, that he had worked the hours in question and that he had received the remuneration indicated on the record of employment that he had received by mail from the payer.
+[15] Only the appellant testified. He filed in evidence only photocopies of entries in the payroll journal concerning him and four out of five remuneration and deductions statements. These photocopies immediately contradict his version of the facts because they show 50-hour work weeks instead of 45-hour ones, and that the appellant was paid by cheque, not in cash, for the five weeks that he had worked. In addition, the numbers of the cheques written on the statements and on the payroll journal do not match.
+[16] There is no doubt that the payer's business activities are questionable and that it may be difficult for the appellant to demolish the assumptions of fact on which the Minister relied in making the decisions in this case, more specifically, the assumptions concerning the payer's activities. This burden may seem heavier to shoulder at first glance, but it is not impossible to overcome.
+[17] The appellant was the only witness to testify in support of his case. He produced no documents in support of his statements. Indeed, the only two documents that he forwarded to the investigators contradict him. The remuneration and deductions statements and the payer's payroll journal clearly indicate that the appellant was paid by cheque, not in cash as he claims, except for his first pay. Even more troubling is the fact that the paycheque numbers on the remuneration and deductions statements do not match those in the payer's payroll journal. I also cannot ignore the fact that, based on the payer's bank statements, it did not issue any cheques to the appellant. Indeed, it issued cheques to only one of the 16 employees on the payroll.
+[18] Some aspects of the appellant's testimony at the trial also contradict some of the answers he gave to the respondent's investigators. In the three questionnaires that he answered, the appellant always said that his tasks had consisted in salvaging timber, that is, picking up the wood that the logging machine had not cut and cutting it in eight-foot pieces. Yet, at the trial, he stated that he had done this work for only one week and that during the next four weeks, he had assessed woodlots in places that were quite different from those indicated in his answers to the questionnaires. I realize that these events go back several years, but this is a significant change of his tasks for the payer. In addition, in the questionnaire dated October 23, 2007, the appellant stated that he had worked at range 10, Quatre-Milles and Upsalquitch. In the questionnaire dated June 3, 2008, he stated that it was range 10 and Upsalquitch, and those were the only two places. In the questionnaire dated March 18, 2009, he stated that he had worked at Upsalquitch and Main Siding, and at ranges 10 and 9. At the trial, he spoke of salvaging at range 10 and Upsalquitch and of four weeks of assessing woodlots at ranges 4 and 5, Whites Brook and Matapédia in Quebec.
+[19] In the questionnaire dated March 18, 2009, the appellant stated that he had negotiated a salary of $750 per week for 45 hours of work with Donald Bergeron. At the trial, he stated that he had negotiated a salary of $750 per week for 45 hours of work with Claude St-Onge and that he had not discussed his salary with Donald Bergeron. In the questionnaire dated June 3, 2008, he spoke of an hourly rate of $16 or $17 per hour.
+[20] There are also anomalies in the appellant's answers about his work schedule. In the questionnaire dated October 23, 2007, he stated that he had worked from 6 a.m. to 4 p.m. In that dated June 3, 2008, he stated that he had started at 5 or 7 a.m., and in the questionnaire dated March 18, 2009, he stated that he was free to start when he wanted and said that he had started at 6 or 7 a.m. for five days. At the trial, he admitted that he had not counted his hours and that, as soon as he had gathered the information needed, he finished the assessment work at home.
+[21] With regard to who supervised his work, in the questionnaire dated October 23, 2007, the appellant answered that Donald Bergeron did not come to see him often, and he did not mention Claude St-Onge. In that dated June 3, 2008, he stated that he saw him every day. In the questionnaire dated March 18, 2009, he said that he almost never saw Mr. Bergeron and that he saw Mr. St-Onge every day. At the trial, he stated that he did not see Claude St-Onge every day.
+[22] In the questionnaire dated March 18, 2009, he stated that Donald Bergeron gave him his record of employment. In the questionnaire dated October 23, 2007, and at the trial, he said that he had received it in the mail. In the questionnaire dated June 3, 2008, he said that he had never worked on a Saturday, while at the trial, he acknowledged that he had worked on a weekend.
+[23] In this situation, it is difficult, if not impossible, to attribute any credibility to the appellant. Sometimes a witness may make a mistake, but when the errors deal with the very basis of the dispute, it becomes impossible to attribute any weight to that evidence.
+[24] The appellant did not satisfy me on the balance of probabilities that he had really worked for the payer. The appellant has failed to discharge his burden of proof.
+[25] The appeals are therefore dismissed.
+Signed at Ottawa, Canada, on this 6th day of June 2013.
+"François Angers"
+Angers J.
+Margarita Gorbounova, Translator
+CITATION: 2013 TCC 180
+COURT FILE NOS.: 2009-2997(EI), 2009-2998(CPP)
+STYLE OF CAUSE: AURÈLE ST-PIERRE AND M.N.R.
+PLACE OF HEARING: Edmundston , New Brunswick
+DATE OF HEARING: May 13, 2013
+REASONS FOR JUDGMENT BY: The Honourable Justice François Angers
+DATE OF JUDGMENT: June 6, 2013
+APPEARANCES:
+For the appellant:
+The appellant himself
+Counsel for the respondent:
+Stéphanie Côté
+Christina Ham
+COUNSEL OF RECORD:
+For the appellant:
+Name:
+Firm:
+For the respondent: William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

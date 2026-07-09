@@ -1,0 +1,274 @@
+---
+title: "Ruff c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30766/index.do"
+last_modified: "2012-04-03"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2012 CCI 105"
+citation2: ""
+neutral_citation: "2012 CCI 105"
+decision_date: "2012-04-03"
+language: "fr"
+item_id: "30766"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7593
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T14:42:56.676000+00:00"
+cases_cited_count: 2
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "e4e9b6cabafe88611ab4be8aa7eab7ba5e8128c7c24f977bbf86933925a97142"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Ruff c. La Reine
+
+- Citation: 2012 CCI 105
+- Decision date: 2012-04-03
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7593, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Ruff c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2012-04-03
+Référence neutre
+2012 CCI 105
+Numéro de dossier
+2009-3176(IT)G
+Juges et Officiers taxateurs
+Wyman W. Webb
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2009-3176(IT)G
+ENTRE :
+CHARLES RUFF,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+________________________________________________________________
+Appel entendu les 27, 28 et 29 février 2012, à Calgary (Alberta).
+Devant : L'honorable juge Wyman W. Webb
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocate de l'intimée :
+Me Donna Tomljanovic
+________________________________________________________________
+JUGEMENT
+L'appel de l'appelant est rejeté avec dépens.
+Signé à Ottawa, Canada, ce 3e jour d'avril 2012.
+« Wyman W. Webb »
+Le juge Webb
+Traduction certifiée conforme
+ce 1er jour de juin 2012.
+Yves Bellefeuille, réviseur
+Référence : 2012 CCI 105
+Date : 20120403
+Dossier : 2009-3176(IT)G
+ENTRE :
+CHARLES RUFF,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Webb
+[1] L'appelant a été victime d'une fraude. La question à trancher dans le présent appel est de savoir s'il peut déduire, dans le calcul de son revenu tiré de son cabinet d'avocat, les sommes qu'il a déboursées du fait de cette fraude.
+[2] L'histoire fictive racontée à l'appelant était, en bref, que les membres restants de la famille Adams avaient besoin de son aide financière pour débloquer un conteneur[1] renfermant 8 500 000 dollars américains. Le conteneur était en la possession d'une entreprise de sécurité à Abidjan, en Côte d'Ivoire.
+[3] Plusieurs personnes ont pris part à la fraude. Comme le courrier électronique était le seul mode de communication avec certains des intéressés, on ne sait pas exactement si une même personne a pu jouer différents rôles. Les acteurs étaient les suivants dans notre histoire, par ordre d'entrée en scène :
+Purity Adams, 23 ans — la fille de Christopher Adams, un riche négociant en cacao et en or de l'Afrique du Sud. Christopher Adams avait été assassiné en Afrique du Sud après un voyage d'affaires à Abidjan, en Côte d'Ivoire. Lors de ce voyage, il avait confié un conteneur renfermant 8 500 000 dollars américains à une entreprise de sécurité d'Abidjan.
+David Adams, 20 ans — le frère de Purity Adams.
+Koffi Raymond — le contact chez Optimum Security Service, l'entreprise en possession du conteneur renfermant 8 500 000 dollars américains.
+David Bell — le « diplomate » chez Optimum Security Service qui devait faire le trajet avec le conteneur d'Abidjan jusqu'au Canada.
+Le lieutenant‑général Dan Musa — l'un des responsables de la sécurité à l'aéroport d'Abidjan qui, contre rémunération, pourrait faire débloquer le conteneur afin qu'on puisse par la suite l'envoyer au Canada.
+Le lieutenant‑général Arnaud Kuame — un deuxième responsable devant être rémunéré pour qu'on puisse débloquer le conteneur.
+Dave — un employé chez Aeroground Diplomatic Courier Services à Londres, en Angleterre, qui a confirmé l'arrivée du conteneur dans cette ville.
+James Jones — le responsable chez Aeroground Diplomatic Courier Services qui devait s'occuper de l'affaire.
+Christopher Martin — la personne qui a remplacé James Jones chez Aeroground Diplomatic Courier Services.
+Des personnes indéterminées qui ont rencontré l'appelant à l'aéroport ou à son hôtel à Londres.
+[4] L'histoire a débuté par la réception d'un courriel par l'appelant le samedi 16 avril 2005. Le courriel, provenait de Purity Adams et déclarait ce qui suit[2] :
+[TRADUCTION]
+Cher Charles Ruff,
+Après avoir beaucoup réfléchi et prié, j'ai décidé de vous faire part de ma situation parce que je crois que vous pouvez me venir en aide et aider ma foi, et ma foi en Dieu m'a conduite vers vous je suis la seule fille de mon père, feu M. CHRISTOPHER ADAMS, de ZOULOU EN République sud‑africaine. Je suis âgée de 23 ans.
+Pour vous en apprendre davantage à mon sujet, avant son décès prématuré mon père était un riche négociant de cacao et d'or en Afrique du Sud. Mon père s'est rendu en voyage professionnel à Abidjan en Côte d'Ivoire, pour y négocier des affaires concernant le cacao. Une semaine après son retour d'Abidjan, lui et ma mère ont été assassinés par des inconnus. Ma mère est morte, sur‑le‑champ tandis que mon père est décédé aux hôpitaux, cinq jours après, cet après‑midi fatidique.
+Je ne savais pas qu'une fois ma mère décédée, mon père allait aussi me quitter à son tour. Avant de rendre l'âme, toutefois, c'est comme s'il a pressenti son départ. Mon père (QUE SON ÂME REPOSE EN PAIX PARFAITE) m'a révélé qu'il avait déposé la somme de 8 500 000 $US (huit millions cinq cent mille dollars) auprès d'une entreprise de sécurité à Abidjan, en Côte d'Ivoire. Que l'argent devait servir pour un investissement dans ses activités liées au cacao à Abidjan, mais, selon mon père, il avait placé l'argent dans un coffre, en déclarant toutefois plutôt qu'il y avait mis de l'ivoire et des effets appartenant à la famille. Il m'a simplement remis la clé de la boîte de dépôt ainsi que la documentation s'y rapportant, soit le certificat de dépôt et l'entente de cautionnement conclue avec l'entreprise de sécurité, et il m'a enjoint de faire un investissement à vie à l'étranger.
+Je suis en ce moment à Abidjan, en CÔTE D'IVOIRE, pour trouver où est l'entreprise de sécurité et j'ai réussi à trouver l'entreprise de sécurité ici à Abidjan, en Côte d'Ivoire, et j'ai confirmé la boîte de dépôt avec très probe et confidentiel. Je souhaite que vous m'aidiez à débloquer ces fonds et à les faire transférer dans votre pays à titre de bénéficiaire et aussi en vue d'un investissement. J'ai l'honneur de solliciter votre aide sous les formes suivantes :
+(1) M'aider à débloquer les fonds en la possession de l'entreprise de sécurité, puis à les faire transférer dans votre pays.
+(2) Agir comme tuteur pour ces fonds, comme je suis une jeune fille de (23) ans. Je sollicite votre aide en vue du transfert de l'argent dans votre pays parce que c'est là mon seul espoir dans la vie.
+Permettez-moi maintenant de vous poser quelques questions :
+1. Pouvez-vous m'aider en toute probité comme meilleure amie?
+2. Puis-je vous faire totalement confiance?
+J'attends avec impatience de vos nouvelles pour pouvoir discuter avec vous des modalités de l'opération.
+Mlle Purity Adams
+[5] L'appelant a répondu au courriel, bien qu'aucune copie de cette réponse n'ait été produite à l'audience. L'appelant a reçu le premier courriel le samedi 16 avril 2005 à 9 h 3. Il a dû y répondre très peu de temps après étant donné que, dans un autre courriel envoyé à 10 h 27 le même jour, Purity Adams a fait mention de la réponse de l'appelant. Purity Adams a écrit dans son premier courriel que le conteneur avait été déclaré contenir de l'ivoire et des effets de famille. Dans son deuxième courriel, envoyé moins de 90 minutes plus tard, elle a déclaré ce qui suit :
+[TRADUCTION]
+Gardez à l'esprit que cette opération est dénuée de tout risque, comme vous pouvez le constater. Et la chose la plus importante c'est que l'entreprise de sécurité ici à Abidjan ne sait même pas quel est le contenu véritable de la (BOÎTE, DE L'ARGENT). Feu mon père avait déclaré que la boîte contenait des objets d'art ou des trésors de famille, comme de l'or, ainsi que certains autres documents de succession lui appartenant [...]
+[6] Rien n'indique que l'appelant ait remarqué l'écart dans la description qui avait été faite à l'entreprise de sécurité du contenu du conteneur. Il a également été question du mécanisme de rémunération dans le deuxième courriel :
+[TRADUCTION]
+Aussi une fois que vous aurez les fonds, moi et mon jeune frère avons aussi prévu en consacrer 5 % pour les frais supportés au cours de l'opération et 10 % pour vous si vous consentez à y prendre part, nous avons également décidé de vous confier tout l'argent une fois l'opération réussie. J'aimerais que vous m'assuriez que vous m'aiderez en procédant à des investissements judicieux et vous détiendrez également des actions de société pendant dix ans en cas de changement comme je suis âgée de 23 ans.
+[7] Il y a eu d'autres courriels et des conférences téléphoniques entre l'appelant et les membres de la famille Adams. David et Purity Adams ont ainsi pu convaincre l'appelant qu'une somme de 8 500 000 dollars américains se trouvait dans un conteneur déposé auprès d'une entreprise de sécurité à Abidjan, en Côte d'Ivoire. L'appelant a aussi déclaré qu'il avait vérifié, en faisant des recherches sur Internet, qu'il y avait bien actuellement un conflit en Côte d'Ivoire.
+[8] L'appelant a en outre trouvé la page Web de l'entreprise de sécurité (Optimum Security Service). Une photocopie de la page Web (en noir et blanc) de l'entreprise figure dans le recueil conjoint de documents; l'appelant a produit à l'audience une copie couleur de cette page. Une observation qu'on peut faire à l'évidence en voyant la copie couleur, c'est que, parmi les cinq photographies qui se trouvent au haut de la page, deux ont manifestement été prises dans une région enneigée. Il y a la photographie d'une maison dont l'entrée et le toit sont couverts de neige, et la photographie d'un chien se tenant sur une chaussée enneigée. L'entreprise de sécurité était censée être établie à Abidjan. Cette ville étant proche de l'équateur, on aurait pu s'attendre à ce que le climat y soit tropical et à ce qu'il n'y ait pas de neige sur les maisons et sur les routes. L'appelant a déclaré qu'il ne l'avait pas remarqué jusqu'à ce qu'on le porte à son attention pendant le plaidoyer au terme de l'audience.
+[9] La première demande de versement d'argent a été faite peu après la prise de contact initiale. Après avoir communiqué avec Koffi Raymond chez Optimum Security Service, l'appelant a fait le nécessaire pour que de l'argent lui parvienne afin de débloquer le conteneur. La somme initialement demandée était de 6 000 dollars américains, mais l'appelant a envoyé 7 000 dollars américains pour s'assurer qu'il y ait suffisamment d'argent pour payer Optimum Security Service. Vers la même époque, les membres de la famille Adams ont aussi demandé de l'argent à l'appelant, qui a également pris les dispositions nécessaires pour leur en envoyer.
+[10] Koffi Raymond a mentionné à l'appelant que le chargement allait quitter Abidjan, mais qu'une personne ferait le trajet avec le conteneur et que son billet d'avion nécessiterait le versement d'une somme additionnelle (de 6 309 dollars américains, soit 8 050 $). Le chargement devait être livré à l'appelant à Calgary, mais l'itinéraire transmis à ce dernier ne faisait état que d'un transport vers Montréal. D'après cet itinéraire, la durée du vol depuis Paris, en France, jusqu'à Montréal ne devait être que de deux heures et demie. Rien n'était non plus mentionné quant au mode de transport du conteneur entre Montréal et Calgary, et rien ne permettait même de constater la moindre connaissance par les intéressés de la distance entre les deux villes.
+[11] Après la date à laquelle le conteneur était censé être expédié, on a avisé l'appelant que le conteneur n'avait toujours pas quitté Abidjan. Le conteneur avait été saisi à l'aéroport et les agents de l'aéroport exigeaient qu'on l'ouvre. David et Purity Adams ont insisté pour que le conteneur ne soit pas ouvert. L'appelant a communiqué avec Koffi Raymond pour savoir quels arrangements pouvaient être pris, et celui‑ci lui a dit qu'une somme importante devrait être versée pour que le conteneur soit débloqué sans qu'on l'ouvre. L'appelant a envoyé 200 000 $ à Koffi Raymond pour que le conteneur soit débloqué.
+[12] Une fois l'argent envoyé, on a informé l'appelant que le montant n'en était pas suffisant, étant donné que d'autres agents étaient maintenant intervenus, et qu'il faudrait verser 100 000 dollars américains de plus. L'appelant a alors établi une entente à conclure entre Koffi Raymond, le lieutenant‑général Dan Musa et le lieutenant‑général Arnaud Kuame concernant ce paiement additionnel. Après avoir reçu copie de l'entente signée, l'appelant a envoyé les fonds supplémentaires requis.
+[13] Ensuite, M. James Jones d'Aeroground Diplomatic Courier Services a informé l'appelant que le conteneur était arrivé à Londres, mais qu'il fallait verser un montant additionnel parce que le fret pour le transport d'Abidjan à Londres du conteneur n'avait pas été payé. Il semblait que Koffi Raymond, dans sa hâte de voir le conteneur quitter Abidjan, avait pris les mesures nécessaires pour son transport sans en acquitter les frais d'avance. James Jones a déclaré ce qui suit dans son courriel sur le sujet :
+[TRADUCTION]
+Au cours de vérifications aléatoires, nous avons découvert que les frais de livraison depuis le lieu d'origine (Côte d'Ivoire) n'avaient pas été acquittés. Veuillez consulter le verso de votre connaissement aérien. Il est déclaré qu'en aucun cas nous ne livrons pas à crédit un envoi diplomatique à un client. C'est là une politique de notre entreprise.
+[Non souligné dans l'original.]
+[14] Malgré l'emploi de la double négation, Aeroground Diplomatic Courier Services laissait ainsi savoir qu'elle ne livrerait pas le chargement sans d'abord avoir été payée. On a informé l'appelant qu'une somme additionnelle de 132 825 dollars américains devrait être versée pour acquitter les frais de transport. L'appelant craignait fortement à ce stade que quelque chose ne cloche. Il a alors communiqué avec la G.R.C. Il a également pris des dispositions pour aller examiner le conteneur à Londres. Dès sa descente d'avion à Londres, l'appelant a été accueilli par des policiers de New Scotland Yard. Ils lui ont conseillé, pour sa propre sécurité, de ne pas voir ceux qu'il devait rencontrer. Les policiers craignaient que l'appelant ne soit enlevé et conduit en Côte d'Ivoire, où il serait détenu contre rançon.
+[15] Après avoir rencontré ces policiers, l'appelant s'est rendu à l'aéroport où l'ont rencontré deux représentants d'Aeroground Courier Services, l'entreprise alors censée être en possession du conteneur. Les deux représentants ont conduit l'appelant à son hôtel, où Christopher Martin et un autre individu sont ensuite venus le rencontrer. Alors qu'il traversait le hall de l'hôtel avec M. Martin et l'autre individu, l'appelant a téléphoné à la police pour qu'elle vienne les arrêter. Christopher Martin a été arrêté, tandis que l'individu qui l'accompagnait a pu prendre la fuite. L'appelant a par la suite appris que « Christopher Martin » était un nom d'emprunt; il semble toutefois que l'intéressé ait plus tard été libéré sans qu'une audience soit tenue.
+[16] L'appelant a établi un tableau où il a fait état des sommes qu'il avait déboursées[3]. Le tableau qui suit constitue le résumé des sommes mentionnées dans le tableau de l'appelant et que celui‑ci aurait versées à David ou à Purity Adams ou à l'entreprise de sécurité pour que le conteneur soit débloqué :
+Date
+Sommes versées à David ou Purity Adams
+Sommes versées pour que le conteneur soit débloqué ou expédié
+19 avril
+500 $
+20 avril
+9 150 $
+21 avril
+4 250 $
+25 avril
+7 286 $
+25 avril
+8 390 $
+6 mai
+3 125 $
+17 mai
+200 000 $
+18 mai
+3 100 $
+24 mai
+8 500 $
+3 juin
+5 195 $
+6 juin
+125 180 $
+6 juin
+6 291 $
+11 juin
+9 360 $
+15 juin
+3 930 $
+28 juin
+520 $
+juin
+1 654 $
+10 juillet
+1 648 $
+Total :
+28 960 $
+369 119 $
+[17] D'après ces chiffres, l'appelant a déboursé 398 079 $ dans l'ensemble. L'appelant a plutôt inscrit une somme totale de 398 734 $ dans son tableau, tandis que les parties ont déclaré au début de l'audience s'être entendues pour dire que l'appelant avait déboursé 398 995 $. Comme les parties ont convenu que c'était là la somme totale véritablement versée par l'appelant, je vais reconnaître l'exactitude de ce montant, soit 398 995 $.
+[18] Le courriel du 16 avril constitue la première communication avec l'appelant. C'est le 20 avril, quatre jours plus tard, qu'un premier montant a été versé ou payé, que ce soit à la famille Adams ou à l'entreprise de sécurité. La somme de 500 $ versée par l'appelant le 19 avril l'a été à une entreprise située dans son immeuble pour qu'il puisse virer de l'argent par l'intermédiaire de celle‑ci. Dans les trois mois qui ont suivi la première communication de Purity Adams, nos acteurs ont convaincu l'appelant de leur verser ou de leur payer tout près de 400 000 $. L'appelant a déduit cette somme dans le calcul de son revenu tiré de son cabinet d'avocat. L'intimée a refusé cette déduction.
+[19] La première question à trancher est de savoir si l'appelant avait une source de revenu constituée d'une entreprise ou d'un bien. S'exprimant au nom de la Cour suprême du Canada dans l'arrêt Stewart c. La Reine, [2002] 2 R.C.S. 645, 2002 CSC 46, les juges Iacobucci et Bastarache ont déclaré ce qui suit :
+50 Il est manifeste que, pour que l'art. 9 s'applique, le contribuable doit d'abord déterminer s'il a une source de revenu constituée soit d'une entreprise, soit d'un bien. Comme nous l'avons vu, une activité commerciale qui ne constitue pas véritablement une entreprise peut néanmoins être une source de revenu constituée d'un bien. De même, il est clair que certaines démarches de contribuables ne sont ni des entreprises, ni des sources de revenu constituées d'un bien, mais sont uniquement des activités personnelles. On peut recourir à la méthode à deux volets suivante pour trancher la question de l'existence d'une source :
+(i) L'activité du contribuable est-elle exercée en vue de réaliser un profit, ou s'agit‑il d'une démarche personnelle?
+(ii) S'il ne s'agit pas d'une démarche personnelle, la source du revenu est‑elle une entreprise ou un bien?
+Le premier volet du critère vise la question générale de savoir s'il y a ou non une source de revenu; dans le deuxième volet, on qualifie la source d'entreprise ou de bien.
+[...]
+52 Ce premier volet du critère vise simplement à établir une distinction entre les activités commerciales et les activités personnelles [...]
+53 Nous soulignons que ce critère de l'existence d'une source « en vue de réaliser un profit » ne doit faire l'objet d'une analyse que dans les situations où l'activité en cause comporte un aspect personnel ou récréatif. En toute déférence, nous estimons que les tribunaux ont commis une erreur, dans le passé, en appliquant le critère de l'ERP à des activités comme l'exercice du droit et la restauration qui ne comportent aucun aspect personnel de cette nature : voir, par exemple, Landry, précité; Sirois, précité; Engler c. Canada, [1994] A.C.F. no 483 (QL) (1re inst.). Lorsqu'une activité est clairement de nature commerciale, il n'est pas nécessaire d'analyser les décisions commerciales du contribuable. De telles démarches comportent nécessairement la recherche d'un profit. Il existe donc par définition une source de revenu et il n'est pas nécessaire de pousser l'examen plus loin.
+[...]
+57 Il ressort clairement de ces dispositions que la déductibilité des dépenses présuppose l'existence d'une source de revenu et, partant, qu'elle ne doit pas être confondue avec l'examen préliminaire portant sur l'existence de cette source. Si la déductibilité d'une dépense particulière est en cause, ce n'est pas l'existence d'une source de revenu qui doit être mise en doute, mais plutôt le lien entre cette dépense et la source à laquelle elle est censée se rapporter. Le fait qu'une dépense soit considérée comme faisant partie des frais personnels ou de subsistance n'influe aucunement sur la qualification de la source de revenu à laquelle le contribuable tente de rattacher la dépense; cela signifie simplement que la dépense ne peut être rattachée à la source de revenu en question. De même, si, dans les circonstances, la dépense est déraisonnable eu égard à la source de revenu, alors l'art. 67 de la Loi établit un mécanisme permettant d'en réduire ou d'en supprimer le montant. Là encore, toutefois, des dépenses excessives ou déraisonnables n'ont aucune incidence sur la qualification d'une activité comme étant une source de revenu.
+[20] L'intimée a soutenu que, puisqu'il s'agissait d'une fraude, il n'y avait aucune source de revenu dont pouvaient être déduites les sommes en cause. L'intimée a fait valoir à cet égard l'arrêt Hammill c. La Reine, 2005 CAF 252, dans lequel le juge Noël, s'exprimant au nom de la Cour d'appel fédérale, a déclaré ce qui suit :
+27 Cette conclusion du juge de la CCI selon laquelle l'appelant a été la victime d'une fraude du début à la fin, si elle se révèle étayée par la preuve, est incompatible avec l'existence d'une entreprise pour l'application de la Loi. Nous n'avons pas ici affaire à un cas où la Cour devrait prendre en considération l'état d'esprit du contribuable ou l'importance d'un élément personnel pour établir si une activité donnée constitue une source de revenu sous le régime de la Loi (Stewart, précité; Tonn c. La Reine, 96 DTC 6001; etc.). Il ne s'agit pas non plus ici d'une affaire de détournement de fonds de la nature définie dans les décisions précitées Parkland Operations, Cassidy's Limited et Agnew, ainsi que dans le bulletin d'interprétation IT‑185R, où une entreprise est escroquée par un employé ou un tiers et où la question devient celle de savoir si la perte qui en résulte est suffisamment dépendante des activités productrices de revenus.
+28 Une affaire qui s'avère frauduleuse du début à la fin (ou, si l'on veut, une « arnaque ») ne peut donner naissance à une source de revenu du point de vue de la victime, et donc ne peut être considérée comme une entreprise, quelque définition qu'on donne de ce terme. [...]
+32 Dans la présente espèce, la preuve pertinente a été produite par l'appelant lui‑même, et le juge de la CCI a conclu de cette preuve qu'il avait été la victime d'une fraude du début à la fin, conclusion qui exclut l'existence d'une entreprise. […]
+[21] Par suite de l'arrêt Hammill de la Cour d'appel fédérale, il me semble qu'une activité frauduleuse ne peut pas constituer, en elle‑même, une source de revenu aux fins de la Loi de l'impôt sur le revenu (la « Loi »). Dans l'arrêt Hammill, la seule activité exercée par l'appelant avait trait aux pierres précieuses, et elle constituait une fraude. En l'espèce, toutefois, l'entreprise exploitée par l'appelant (à l'égard de laquelle il a déduit les sommes en cause) était son cabinet d'avocat. L'appelant avait donc une source de revenu et il n'avait pas besoin de l'activité liée à la famille Adams pour disposer d'une telle source.
+[22] Il semble certain que l'appelant a exercé cette activité aux fins de l'exploitation de son cabinet d'avocat. À la fin du courriel qu'il a envoyé à Purity Adams le 20 avril 2005 (soit seulement quatre jours après avoir reçu son premier courriel, et le jour même où le premier paiement a été versé à l'entreprise de sécurité), l'appelant s'est exprimé ainsi :
+[TRADUCTION]
+Bien à vous,
+A. Charles Ruff, votre avocat et fiduciaire, et votre ami de confiance.
+[23] Dans un courriel envoyé le 21 juin (date à laquelle le conteneur était censé être à Londres et un nouveau paiement était requis), l'appelant a cette fois déclaré ce qui suit :
+[TRADUCTION]
+[...] Le bien en dépôt est grevé en ma faveur d'un privilège de l'avocat, à hauteur des sommes que j'ai investies dans cette affaire, soit environ 400 000 $ et peut‑être davantage en fonction des calculs comptables que je ferai. Je vous enjoins pour l'heure de conserver ce bien, sous réserve de mon privilège. [...]
+[24] Lors de son témoignage, l'appelant a également déclaré qu'il agissait comme fiduciaire de successions dans l'exercice des activités de son cabinet d'avocat[4]. Il a également mentionné avoir dit à David Adams qu'il était avocat et qu'il faisait [TRADUCTION] « du travail du genre effectué par un fiduciaire ». Selon l'histoire fabriquée, l'appelant devait agir comme fiduciaire de Purity Adams et peut‑être aussi de David Adams.
+[25] Il me semble donc que l'appelant avait bien une source de revenu — son cabinet d'avocat — et qu'il a entrepris l'activité aux fins de l'exploitation de son cabinet. Le fait pour l'appelant d'avoir une source de revenu ne veut toutefois pas nécessairement dire que les sommes demandées sont déductibles. Si les sommes demandées sont déraisonnables, le montant peut en être réduit ou supprimé dans sa totalité. La Cour suprême du Canada a fait remarquer ce qui suit à ce sujet dans l'arrêt Stewart, précité :
+[...] De même, si, dans les circonstances, la dépense est déraisonnable eu égard à la source de revenu, alors l'art. 67 de la Loi établit un mécanisme permettant d'en réduire ou d'en supprimer le montant. [...]
+[26] Dans l'arrêt Hammill, la Cour d'appel fédérale a formulé les commentaires suivants au sujet de l'article 67 de la Loi :
+48 Bien qu'il ne soit pas nécessaire d'examiner le motif subsidiaire sur lequel le juge de la CCI s'est fondé pour débouter l'appelant, je crois utile de dire quelques mots sur la portée de l'article 67 et son application à la présente espèce.
+49 L'appelant fait valoir que l'article 67 vise une dépense engagée en vue de tirer un revenu d'une entreprise au sens de l'alinéa 18(1)a) et autorise le ministre à refuser la déduction de la part de cette dépense dont le caractère déraisonnable peut être établi. Autrement dit, l'article 67 interdit un examen qualitatif de la dépense, puisque celle‑ci doit avoir par définition été engagée en vue de gagner un revenu. Cet article, selon l'appelant, appelle plutôt un examen quantitatif de la dépense.
+50 Il est de fait que les décisions judiciaires rendues jusqu'ici sur l'article 67 ont envisagé la question qui en découle comme une question de quantité ou d'ordre de grandeur (voir Mohamad, précité; et Garbco Ltd. c. M.R.N., 68 DTC 5210). L'appelant soutient que le passage suivant de Vern Krishna, The Fundamentals of Canadian Income Tax, 3e édition (page 312), rend bien compte de la portée et de l'objet de l'article 67 :
+[TRADUCTION] Le terme « raisonnable » [de l'article 67] semble se rapporter principalement à l'ordre de grandeur ou au montant des déductions demandées ou quantifiées et non à la nature de la dépense. « Cette règle a pour objet d'empêcher les contribuables de réduire artificiellement leur revenu en déduisant des dépenses excessivement élevées » [...]
+51 Je reconnais que ce passage rend compte avec exactitude de la manière dont l'article 67 a été appliqué par les tribunaux jusqu'à maintenant. Toutefois, la Cour suprême a formulé dans l'arrêt Stewart, précité, des observations sur l'application de l'article 67 et fait remarquer que celle‑ci pouvait être plus large. Rappelons que dans cet arrêt, la Cour suprême a écarté le critère de l'« expectative raisonnable de profit » comme moyen d'établir l'existence d'une source de revenu. Tout en reconnaissant que ce critère avait été conçu pour prévenir les abus, elle a conclu qu'il était dénué de fondement législatif et créait plus de problèmes qu'il n'en résolvait.
+52 Dans le cadre de sa formulation de « l'approche recommandée », la Cour suprême a défini l'article 67 comme le moyen législatif de contrôler les dépenses excessives ou injustifiées une fois établie l'existence d'une source de revenu. Elle propose les remarques suivantes au paragraphe 57 :
+[...] Si la déductibilité d'une dépense particulière est en cause, ce n'est pas l'existence d'une source de revenu qui doit être mise en doute, mais plutôt le lien entre cette dépense et la source à laquelle elle est censée se rapporter. Le fait qu'une dépense soit considérée comme faisant partie des frais personnels ou de subsistance n'influe aucunement sur la qualification de la source de revenu à laquelle le contribuable tente de rattacher la dépense; cela signifie simplement que la dépense ne peut être rattachée à la source de revenu en question. De même, si, dans les circonstances, la dépense est déraisonnable eu égard à la source de revenu, alors l'art. 67 de la Loi établit un mécanisme permettant d'en réduire ou d'en supprimer le montant. Là encore, toutefois, des dépenses excessives ou déraisonnables n'ont aucune incidence sur la qualification d'une activité comme étant une source de revenu. [Non souligné dans l'original.]
+53 Le choix des termes (réduire ou supprimer) n'a en l'occurrence rien de fortuit. La Cour suprême définissait l'article 67 comme le moyen légitime d'apprécier le caractère raisonnable d'une dépense une fois établie l'existence d'une entreprise. Elle le faisait après avoir expliqué que, au premier niveau de l'examen (c'est‑à‑dire celui qui concerne l'existence d'une source de revenu et le rapport entre une dépense donnée et cette source), les tribunaux ne devraient pas contester le jugement commercial du contribuable (Stewart, précité, paragraphes 55, 56 et 57). L'article 67 se trouvait ainsi caractérisé comme étant la disposition législative autorisant un examen du caractère raisonnable de la dépense. À mon sens, la Cour suprême a établi dans Stewart qu'il n'existe pas de limite intrinsèque à l'application de l'article 67 et que, lorsque les circonstances le justifient, celui‑ci peut être invoqué pour refuser la déduction de la totalité d'une dépense, si son caractère déraisonnable est établi.
+[27] Si le montant demandé à titre de dépense est déraisonnable, il peut être refusé en totalité. Il ne fait pas de doute qu'en l'espèce, l'appelant était convaincu qu'un conteneur renfermant 8 500 000 dollars américains était déposé auprès d'une entreprise de sécurité à Abidjan, en Côte d'Ivoire. Cependant, comme un tel conteneur n'existait pas et toute l'histoire était inventée, il ne me semble pas qu'on devrait analyser le caractère raisonnable des montants en supposant que le conteneur existait. Il me semble aussi que l'analyse ne devrait pas se faire uniquement en supposant sa non‑existence. Si l'appelant avait su qu'il n'y avait pas de conteneur et qu'il s'agissait d'une fraude, il n'aurait pas supporté les dépenses qu'il a faites. La démarche qu'il convient de suivre, il me semble, consiste à établir s'il était raisonnable pour l'appelant de croire qu'il y avait à Abidjan un conteneur renfermant 8 500 000 dollars américains. Dans l'affirmative, il faudra ensuite se demander si les montants supportés étaient raisonnables. Dans la négative, il me semble qu'aucune somme ayant pu être dépensée par l'appelant ne saurait être raisonnable.
+[28] Il me semble que l'histoire racontée comportait tout simplement trop d'incohérences et soulevait trop de questions pour qu'il ait été raisonnable pour l'appelant de croire en l'existence du conteneur.
+• Purity Adams a envoyé ses deux premiers courriels à 90 minutes d'intervalle. Elle a déclaré dans le premier que son père avait affirmé à l'entreprise de sécurité que le conteneur renfermait [TRADUCTION] « de l'ivoire et des effets appartenant à la famille » et, dans le second, qu'il avait décrit la « boîte » déposée comme contenant [TRADUCTION] « des objets d'art ou des trésors de famille, comme de l'or, ainsi que certains autres documents de succession lui appartenant ».
+• Dans son premier courriel, Purity Adams a également déclaré ce qui suit :
+[TRADUCTION]
+Pour vous en apprendre davantage à mon sujet, avant son décès prématuré mon père était un riche négociant de cacao et d'or en Afrique du Sud. Mon père s'est rendu en voyage professionnel à Abidjan en Côte d'Ivoire, pour y négocier des affaires concernant le cacao. Une semaine après son retour d'Abidjan, lui et ma mère ont été assassinés par des inconnus. [...]
+[...] Que l'argent devait servir pour un investissement dans ses activités liées au cacao à Abidjan [...]
+Selon ce récit, l'argent ne se trouvait à Abidjan que parce que Christopher Adams négociait des affaires (ce qui nécessitait apparemment un paiement en espèces) et qu'il l'avait laissé là‑bas lorsqu'il était retourné en Afrique du Sud.
+L'appelant a décrit en ces termes l'une des premières conversations téléphoniques qu'il avait eues avec David Adams :
+[TRADUCTION]
+Il m'a expliqué que son père s'était passablement enrichi en Afrique du Sud et qu'ils avaient décidé de partir. Ils avaient — il avait projeté d'aller en Côte d'Ivoire, et il avait de l'argent — son argent était déposé à ce moment‑là auprès d'une entreprise de sécurité, Optimum Security, et —
+L'explication ainsi donnée pour le dépôt d'espèces à Abidjan différait de celle fournie par Purity Adams. David Adams a déclaré que son père projetait de quitter l'Afrique du Sud pour aller vivre en Côte d'Ivoire. Cela voudrait toutefois dire que Christopher Adams avait transféré son argent avant qu'il n'ait déménagé sa famille.
+Purity et David Adams avaient tous deux fait comprendre à l'appelant qu'il était urgent de faire sortir le conteneur d'Abidjan en raison du conflit qui perdurait en Côte d'Ivoire. L'appelant a pu vérifier sur Internet l'existence de ce conflit. Mais pourquoi donc la famille Adams quitterait‑elle l'Afrique du Sud pour se rendre dans un pays où sévissait une guerre civile?
+• Le récit posait comme alternative soit que le conteneur renfermait tout le patrimoine de Christopher Adams (le riche négociant de cacao et d'or), soit une partie seulement de ce patrimoine. Dans la première hypothèse, pourquoi Christopher Adams aurait‑il transféré toute sa fortune dans un pays touché par une guerre civile? Dans la seconde, il me semble que Purity et David Adams auraient pu utiliser la partie du patrimoine non déposée dans le conteneur pour débloquer celui‑ci. Pourquoi Purity et David Adams auraient‑ils eu besoin que l'appelant leur verse de l'argent, sous forme d'avances ou pour que le conteneur soit débloqué, si leur père fortuné avait d'autres biens?
+• Pourquoi à la page Web d'Optimum Security Service (une entreprise de sécurité établie à Abidjan) pouvait‑on voir des photographies prises dans une région enneigée? Le texte de la page Web comportait également des erreurs. Le texte était rédigé en anglais, mais on y utilisait le mot français « adresse » plutôt que le mot anglais « address ». L'expression suivante figurait également à la première page :
+[TRADUCTION]
+DIFFÉRENT DÉPARTEMENTS
+• Rien dans les courriels ne laissait croire que Purity Adams ou David Adams savaient le moindrement où Calgary était située, ni ne permettait de savoir pourquoi ceux‑ci avaient choisi Calgary, ou bien même le Canada, pour leur projet. Il n'était non plus aucunement précisé si l'un ou l'autre, ou les deux, se rendraient au Canada pour l'arrivée du conteneur à Calgary; si le conteneur avait véritablement existé et que s'y était trouvée toute la fortune de leur père, il aurait été raisonnable de s'attendre à ce que l'un d'eux ou tous deux aient alors voulu être présents à son arrivée.
+• L'appelant a déclaré qu'il avait cru en l'existence du conteneur en bonne partie parce que David Adams avait proposé qu'il aille la constater en personne à Abidjan. Cela ne me semblait toutefois pas justifier une telle croyance. Il était peu probable que l'appelant se rende à Abidjan alors que David et Purity Adams lui avaient décrit la précarité de la situation en Côte d'Ivoire. Même si l'appelant avait fait le voyage, les intéressés auraient simplement pu ne pas le rencontrer, ou ils auraient encore pu le détenir contre rançon.
+• David Adams a déclaré avoir eu accès au conteneur et avoir pu en constater le contenu (et ainsi confirmer l'existence d'une importante somme d'argent). Si David Adams avait eu accès au conteneur pour en vérifier le contenu, pourquoi n'avait‑il pu y prendre suffisamment d'argent pour le débloquer et pour faire en sorte que Purity et lui‑même disposent de l'argent dont ils avaient besoin?
+[29] Si d'autres parties du récit comportaient des incohérences et soulevaient des questions, toutes les incohérences et les questions susmentionnées avaient trait à des éléments du récit racontés à l'appelant avant qu'il ne débourse de l'argent. En raison de celles‑ci, j'estime qu'il n'était pas raisonnable pour l'appelant de croire en l'existence d'un conteneur renfermant 8 500 000 dollars américains et détenu par une entreprise de sécurité à Abidjan, en Côte d'Ivoire. J'estime donc qu'aucune somme dépensée par l'appelant n'était raisonnable au regard de son cabinet d'avocat, de sorte qu'aucune partie de l'argent versé n'est déductible dans le calcul du revenu tiré du cabinet d'avocat.
+[30] L'appel de l'appelant est par conséquent rejeté avec dépens.
+Signé à Ottawa, Canada, ce 3e jour d'avril 2012.
+« Wyman W. Webb »
+Le juge Webb
+Traduction certifiée conforme
+ce 1er jour de juin 2012.
+Yves Bellefeuille, réviseur
+RÉFÉRENCE : 2012 CCI 105
+NO DU DOSSIER DE LA COUR : 2009-3176(IT)G
+INTITULÉ : CHARLES RUFF c. SA MAJESTÉ LA REINE
+LIEU DE L'AUDIENCE : Calgary (Alberta)
+DATES DE L'AUDIENCE : Les 27, 28 et 29 février 2012
+MOTIFS DU JUGEMENT : L'honorable juge Wyman W. Webb
+DATES DU JUGEMENT : Le 3 avril 2012
+COMPARUTIONS :
+Pour l'appelant :
+L'appelant lui‑même
+Avocate de l'intimée :
+Me Donna Tomljanovic
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelant :
+Nom : Charles Ruff
+Cabinet : A. Charles Ruff
+Calgary (Alberta)
+Pour l'intimée : Myles J. Kirvan
+Sous‑procureur général du Canada
+Ottawa, Canada
+[1] Purity Adams a précisé dans un courriel que l'argent se trouvait dans une boîte de dépôt ou dans un coffre. L'appelant a plutôt recouru à l'expression conteneur lors de son témoignage. C'est cette dernière expression que j'utiliserai dans les présents motifs, sauf dans les extraits tirés de courriels.
+[2] Le courriel comptant plusieurs erreurs grammaticales, aucune d'elles n'a été relevée.
+[3] Les montants figurant dans le tableau ne sont pas exactement les mêmes que ceux mentionnés dans l'histoire précédemment relatée. Cependant, comme j'ai conclu qu'il ne s'agissait pas de dépenses raisonnables en tout état de cause, tout écart entre ces divers montants est sans importance.
+[4] L'appelant a déclaré ce qui suit au sujet de son cabinet d'avocat :
+[TRADUCTION]
+Quels autres domaines vous dirais-je? Le droit successoral, la rédaction de testaments et l'administration de successions; j'agis également comme fiduciaire de successions.

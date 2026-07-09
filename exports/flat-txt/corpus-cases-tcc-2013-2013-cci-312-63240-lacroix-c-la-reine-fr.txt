@@ -1,0 +1,209 @@
+Title: Lacroix c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/63240/index.do
+Corpus path: corpus/cases/tcc/2013/2013-cci-312-63240-lacroix-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2013-10-02
+
+# Lacroix c. La Reine
+
+- Citation: 2013 CCI 312
+- Decision date: 2013-10-02
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6092, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Lacroix c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2013-10-02
+Référence neutre
+2013 CCI 312
+Numéro de dossier
+2009-3623(IT)I
+Juges et Officiers taxateurs
+Paul Bédard
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2009-3623(IT)I
+ENTRE :
+JEAN-ROBERT LACROIX,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu sur preuve commune avec les appels de
+Jean-Robert Lacroix (2012-1678(IT)I;
+2012-1683(IT)I; 2012-1684(IT)I)
+le 12 avril 2013, à Ottawa (Canada)
+Devant : L'honorable juge Paul Bédard
+Comparutions :
+Avocate de l'appelant :
+Me Chantal Donaldson
+Avocat de l'intimée :
+Me Frédéric Morand
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’encontre de la nouvelle cotisation établie pour l’année d’imposition 2007 en vertu de la Loi de l’impôt sur le revenu est rejeté, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 2e jour d’octobre 2013.
+« Paul Bédard »
+Juge Bédard
+Dossier : 2012-1678(IT)I
+ENTRE :
+JEAN-ROBERT LACROIX,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu sur preuve commune avec les appels de
+Jean-Robert Lacroix (2009-3623(IT)I;
+2012-1683(IT)I; 2012-1684(IT)I)
+le 12 avril 2013, à Ottawa (Canada)
+Devant : L'honorable juge Paul Bédard
+Comparutions :
+Avocate de l'appelant :
+Me Chantal Donaldson
+Avocat de l'intimée :
+Me Frédéric Morand
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’encontre de la nouvelle cotisation établie pour l’année d’imposition 2010 en vertu de la Loi de l’impôt sur le revenu est rejeté, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 2e jour d’octobre 2013.
+« Paul Bédard »
+Juge Bédard
+Dossier : 2012-1683(IT)I
+ENTRE :
+JEAN-ROBERT LACROIX,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu sur preuve commune avec les appels de
+Jean-Robert Lacroix (2009-3623(IT)I;
+2012-1678(IT)I; 2012-1684(IT)I)
+le 12 avril 2013, à Ottawa (Canada)
+Devant : L'honorable juge Paul Bédard
+Comparutions :
+Avocate de l'appelant :
+Me Chantal Donaldson
+Avocat de l'intimée :
+Me Frédéric Morand
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’encontre de la nouvelle cotisation établie pour l’année d’imposition 2008 en vertu de la Loi de l’impôt sur le revenu est accueilli en ce que les frais juridiques réclamés sont déductibles jusqu’à concurrence de 514,85 $, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 2e jour d’octobre 2013.
+« Paul Bédard »
+Juge Bédard
+Dossier : 2012-1684(IT)I
+ENTRE :
+JEAN-ROBERT LACROIX,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu sur preuve commune avec les appels de
+Jean-Robert Lacroix (2009-3623(IT)I;
+2012-1678(IT)I; 2012-1683(IT)I)
+le 12 avril 2013, à Ottawa (Canada)
+Devant : L'honorable juge Paul Bédard
+Comparutions :
+Avocate de l'appelant :
+Me Chantal Donaldson
+Avocat de l'intimée :
+Me Frédéric Morand
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’encontre de la nouvelle cotisation établie pour l’année d’imposition 2009 en vertu de la Loi de l’impôt sur le revenu est accueilli en ce que les frais juridiques réclamés sont déductibles jusqu’à concurrence de 725,60 $, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 2e jour d’octobre 2013.
+« Paul Bédard »
+Juge Bédard
+Référence : 2013 CCI 312
+Date : 20131002
+Dossiers : 2009-3623(IT)I; 2012-1678(IT)I;
+2012-1683(IT)I; 2012-1684(IT)I
+ENTRE :
+JEAN-ROBERT LACROIX,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Bédard
+[1] Les présents appels entendus sur preuve commune portent sur les honoraires judiciaires et extra‑judiciaires (les « frais ») réclamés par l’appelant lors de la production de ses déclarations de revenu pour les années d’imposition 2007, 2008, 2009 et 2010, réclamations qui furent rejetées par le ministre du Revenu national (le « ministre »).
+[2] Les parties ont produit une entente partielle sur les faits qui se lit comme suit :
+[3] Seul monsieur Yoland Lacasse a témoigné lors de l’audience. Je retiens essentiellement du témoignage de monsieur Lacasse que Canadevim Ltée n’exploitait plus d’entreprise depuis sa faillite en 2003.
+Position de l’appelant
+[4] Dans les avis d’appel, l’appelant avait soutenu essentiellement que les frais qu’il avait engagés étaient des dépenses admissibles puisqu’ils avaient été engagés relativement à des contrats courants, accessoires et nécessaires afin de tirer un revenu d’entreprise. Je souligne que, dans ses avis d’appels, l’appelant cite l’article 2 et l’article 5 du Bulletin d’interprétation IT‑99R5 (consolidé) pour appuyer sa position.
+[5] Lors de la plaidoirie, l’appelant a changé radicalement sa position et il soutient maintenant que les frais avaient été engagés, non pas dans le but de tirer un revenu d’une entreprise, mais bien dans le but de tirer un revenu d’un bien. À cet égard, l’appelant a soutenu que les frais réclamés visaient à récupérer la créance de 1,2 millions de dollars dans le but ultime de recevoir des dividendes de Canadevim Ltée, soit un revenu d’un bien. En effet, l’appelant a soutenu qu’au moment où il avait engagé ces frais, la créance de 1,2 millions de dollars était recouvrable et pouvait permettre ainsi l’annulation rétroactive de la faillite de Canadevim Ltée. Je souligne immédiatement que l’appelant n’a pas expliqué en quoi les frais (engagés dans le cadre de l’appel d’une cotisation de TPS/TVQ établie à l’égard de Canadevim Ltée concernant la période allant du 1er mars 1998 au 31 octobre 2001) avaient été engagés dans le but de tirer un revenu d’un bien.
+[6] Subsidiairement, l’appelant réclame à l’égard des frais une perte au titre de placement d’entreprise en vertu de l’alinéa 39(1)(c) de la Loi de l’impôt sur le revenu (la « Loi »). Essentiellement, l’appelant soutient que, le 7 décembre 2006, la Cour supérieure du Québec, se fondant sur l’article 38 de la Loi sur la faillite et l’insolvabilité (la « LFI »), l’a autorisé à continuer la contestation dans le cadre de l’appel d’une cotisation de TPS/TVQ établie à l’égard de Canadevim Ltée concernant la période allant du 1er mai 1998 au 31 octobre 2001. L’appelant estime donc avoir financé Canadevim Ltée en contestant cette cotisation au profit de cette dernière et ainsi détenir une créance à l’égard de Canadevim Ltée, créance qui s’est avérée irrécouvrable.
+Analyse et conclusion
+[7] La position de l’appelant à l’égard des frais engagés dans le cadre de la contestation de la faillite de Canadevim Ltée est à l’effet qu’ils sont déductibles car ils ont été engagés dans le but de tirer un revenu d’un bien. En effet, l’appelant soutient que, depuis le début de la contestation de la pétition de faillite, son intention avait toujours été la même, à savoir que la réalisation du paiement des travaux effectués sur le terrain de golf au montant de 1 200 000 $ permettait de couvrir les dettes de Canadevim Ltée. Une fois le montant récupéré, soit en nature, soit par la prise en paiement du terrain de golf, une demande d’annulation de la faillite aurait été présentée dans le but ultime de toucher un dividende de Canadevim Ltée. En résumé, le but ultime que visait l’appelant en engageant de tels frais était de recevoir des dividendes de Canadevim Ltée, soit un revenu tiré d’un bien. L’avocate de l’appelant s’exprimait ainsi à cet égard :
+Donc Monsieur Lacroix, en étant actionnaire de Canadavim; son intérêt à lui que Canadavim puisse aller récupérer le paiement des travaux qui avaient été effectués sur le terrain de golf, c'est à la toute fin, éventuellement; c'est de retirer des dividendes. Son bénéfice, c'est cela. On va aller chercher un bénéfice avec ce paiement-là. C'est cela, l'intérêt de Monsieur Lacroix.
+Alors oui, il veut que Canadavim se fasse payer, parce qu'éventuellement les créanciers vont être payés et on va annuler la faillite. Et lui; non seulement tous les créanciers vont être payés - il en est un - mais en plus il va aller chercher un dividende avec le profit.
+[8] Les articles pertinents de la Loi sont les alinéas 18(1)a), 18(1)b) et 18(1)h) et le paragraphe 9(1) qui se lisent comme suit :
+18. (1) Dans le calcul du revenu du contribuable tiré d’une entreprise ou d’un bien, les éléments suivants ne sont pas déductibles :
+a) les dépenses, sauf dans la mesure où elles ont été engagées ou effectuées par le contribuable en vue de tirer un revenu de l’entreprise ou du bien;
+b) une dépense en capital, une perte en capital ou un remplacement de capital, un paiement à titre de capital ou une provision pour amortissement, désuétude ou épuisement, sauf ce qui est expressément permis par la présente partie;
+[…]
+h) le montant des frais personnels ou de subsistance du contribuable — à l’exception des frais de déplacement engagés par celui-ci dans le cadre de l’exploitation de son entreprise pendant qu’il était absent de chez lui;
+9. (1) Sous réserve des autres dispositions de la présente partie, le revenu qu’un contribuable tire d’une entreprise ou d’un bien pour une année d’imposition est le bénéfice qu’il en tire pour cette année.
+[9] À la lecture de l’alinéa 18(1)a) de la Loi, on constate que cette disposition n’accorde pas à un contribuable le droit de déduire des dépenses; au contraire, elle énonce une restriction, une exception d’ordre général. Le paragraphe 18(1) de la Loi dispose que « les éléments suivants ne sont pas déductibles » dans le calcul du revenu d’un contribuable tiré d’une entreprise ou d’un bien. En plus de l’alinéa a), on peut citer comme exemples l’alinéa 18(1)b), qui vise une somme déboursée à titre de capital, et l’alinéa 18(1)h), un montant de frais personnels ou de subsistance. Ce n’est pas en vertu de l’alinéa 18(1)a) de la Loi qu’un contribuable peut déduire des frais qu’il a engagés en vue de tirer un revenu d’une entreprise ou d’un bien. C’est plutôt en vertu du paragraphe 9(1) de la Loi qui dispose que le revenu d’entreprise ou de bien est son « bénéfice ». Le mot bénéfice s’entend du bénéfice net, les recettes brutes moins toutes les dépenses pour les gagner.
+[10] Il est manifeste que, pour qu’un contribuable puisse déduire les frais qu’il engage en vertu du paragraphe 9(1) de la Loi, ce dernier doit d’abord déterminer s’il a une source de revenus soit d’une entreprise, soit d’un bien.
+[11] Je suis d’avis que les frais engagés par l’appelant n’étaient pas déductibles pour les raisons suivantes :
+i) D’abord, je souligne que l’appelant a changé radicalement sa position en ce qu’il allègue maintenant que les frais avaient été engagés, non pas dans le but de tirer un revenu d’une entreprise (tel qu’allégué dans les avis d’appel), mais bien dans le but de tirer un revenu d’un bien. En soi, ce changement de cap est assez révélateur du manque de sérieux de la position de l’appelant et a ainsi semé un doute sérieux dans mon esprit sur la prétendue intention de l’appelant au sujet de laquelle, d’ailleurs, aucune preuve n’a été soumise.
+ii) Je rappelle que, pour que l’appelant puisse déduire des frais qu’il engage en vertu du paragraphe 9(1) de la Loi, ce dernier doit d’abord déterminer s’il a une source de revenu, en l’espèce d’un bien. Comment peut‑il prétendre en l’espèce qu’il avait engagé ces frais dans le but de tirer un revenu d’un bien alors qu’au moment où ces frais avaient été engagés, Canadevim (la prétendue source de revenu de biens) était en faillite? En d’autres termes, l’appelant n’avait pas en l’espèce une source de revenu constituée d’un bien au moment où il avait engagé ces frais puisque Canadevim Ltée était alors en faillite. De toute façon, même s’il avait eu en l’espèce une source de revenu constituée d’un bien, je serais d’avis que ces frais ne pouvaient être déduits à cause de l’interdiction prévue à l’alinéa 18(1)b) de la Loi. À mon avis, ces frais auraient constitué des déboursés au titre de capital. En effet, il ressort clairement de la preuve soumise que ces frais avaient été engagés en vue de préserver un actif, en l’espèce dans le but d’éviter la faillite de Canadevim Ltée. En d’autres termes, l’appelant se battait pour la survie de sa source de revenu. L’appelant a engagé, à mon avis, ces frais pour conserver un avantage durable.
+[12] Je suis aussi d’avis que les frais (engagés dans le cadre de l’appel d’une cotisation de TPS/TVQ établie à l’égard de Canadevim Ltée concernant la période allant du 1er mars 1998 au 31 octobre 2001) ne sont pas déductibles aux termes du paragraphe 60(o) de la Loi compte tenu que les frais n’ont pas été engagés pour poursuivre un appel au sujet d’une cotisation établie aux termes de la Loi.
+[13] À l’égard des décisions sur lesquelles l’appelant s’est appuyée (voir les décisions Kruco Inc. c. The Queen (C.C.I.), 98 DTC 1568; Evans c. M.N.R., [1960] SCR 391; Automobiles Jalbert Inc. c. Le Sous-Ministre du Revenu, 2005 CanLII 31513 (QC CQ); Stewart c. Sa Majesté la Reine, [2002] 2 R.C.S. 645; Couillard c. La Reine, 2004 CCI 805), je suis d’avis qu’elle ne sont pas pertinentes en ce qu’aucune d’elles ne concernait une entité (la source des revenus d’entreprise ou de biens) qui était en faillite. En d’autres termes, dans ces décisions, le scénario n’était pas le même qu’en l’espèce.
+Analyse de la position subsidiaire
+[14] Je souligne immédiatement que l’appelant n’a absolument pas expliqué en quoi les frais engagés pour contester la faillite de Canadevim Ltée pouvaient constituer une créance à l’égard de cette dernière.
+[15] Pour réclamer une perte au titre d’un placement d’entreprise à l’égard d’une créance, encore faut‑il être créancier. En l’espèce, je suis d’avis que l’appelant ne détenait, en raison de l’engagement de tels frais, aucune créance vis‑à‑vis Canadevim Ltée, et ce, pour les raisons suivantes :
+i) nous examinerons d’abord les prétentions de l’appelant à l’égard de la créance irrécouvrable qui aurait découlé des honoraires qu’il aurait engagés pour le bénéfice de Canadevim Ltée à la suite de l’autorisation qu’il avait reçu en vertu de l’article 38 de la LFI de continuer la contestation de la cotisation, article 38 qui se lit comme suit :
+Procédures par un créancier lorsque le syndic refuse d’agir
+38. (1) Lorsqu’un créancier demande au syndic d’intenter des procédures qui, à son avis, seraient à l’avantage de l’actif du failli, et que le syndic refuse ou néglige d’intenter ces procédures, le créancier peut obtenir du tribunal une ordonnance l’autorisant à intenter des procédures en son propre nom et à ses propres frais et risques, en donnant aux autres créanciers avis des procédures projetées, et selon les autres modalités que peut ordonner le tribunal.
+Droits du créancier
+(2) Lorsque cette ordonnance est rendue, le syndic cède et transfère au créancier tous ses droits, titres et intérêts sur les biens et droits qui font l’objet de ces procédures, y compris tout document à l’appui.
+Les profits appartiennent au créancier
+(3) Tout profit provenant de procédures exercées en vertu du paragraphe (1), jusqu’à concurrence de sa réclamation et des frais, appartient exclusivement au créancier intentant ces procédures, et l’excédent, s’il en est, appartient à l’actif.
+Le syndic peut intenter des procédures
+(4) Lorsque, avant qu’une ordonnance soit rendue en vertu du paragraphe (1), le syndic, avec la permission des inspecteurs, déclare au tribunal qu’il est prêt à intenter les procédures au profit des créanciers, l’ordonnance doit prescrire le délai qui lui est imparti pour ce faire, et dans ce cas le profit résultant des procédures, si elles sont intentées dans le délai ainsi prescrit, appartient à l’actif.
+À mon avis, l’article 38 de la LFI reconnaît simplement au demandeur l’intérêt nécessaire au sens de l’article 55 du Code de procédure civile pour ester en justice. L’article 38 de la LFI ne fait pas de l’appelant un mandataire du syndic. Puisqu’il découle de l’article 38 de la LFI que l’appelant avait continué la contestation de la cotisation en son propre nom, et ce, à ses frais et à ses risques, il m’apparaît évident qu’en engageant de tels honoraires, l’appelant ne pouvait en vertu de l’article 38 de la LFI devenir, à cet égard, créancier de Canadevim Ltée. À mon avis, la contestation de la cotisation visait plutôt à éviter à l’appelant d’engager sa responsabilité personnelle à titre d’administrateur de Canadevim Ltée.
+ii) À l’égard des frais que l’appelant avait engagés pour contester la faillite, je ne vois nullement en quoi l’appelant, en engageant de tels frais, était devenu un créancier de Canadevim Ltée. En effet, l’appelant n’a aucunement fait la preuve que le syndic avait accepté ou autorisé que les frais ainsi encourus par l’appelant constituaient en quelque sorte des avances consenties à Canadevim Ltée.
+[16] Quoi qu’il en soit, même si l’appelant avait obtenu, après l’engagement de tels frais, le statut de créancier, je suis d’avis qu’il n’aurait pas été en droit de réclamer à l’égard de ses prétendues créances irrécouvrables une perte au titre de placement d’entreprise aux termes de l’alinéa 39(1)c) de la Loi puisqu’il n’aurait pas détenu une créance consentie à une société privée sous contrôle canadien qui était alors une société exploitant une petite entreprise. Je rappelle à cet égard que la preuve a révélé que les frais avaient été engagés pendant la période allant de 2007 à 2010 alors que la Canadevim Ltée était en faillite, et ce, depuis 2003. Donc, au moment où les avances auraient été consenties, Canadevim Ltée n’était pas une société exploitant une petite entreprise.
+[17] Pour ces motifs :
+i) l’appel pour l’année d’imposition 2007 est rejeté;
+ii) l’appel pour l’année d’imposition 2008 est accueilli en ce que les frais juridiques réclamés sont déductibles jusqu’à concurrence de 514,85 $;
+iii) l’appel pour l’année d’imposition 2009 est accueilli en ce que les frais juridiques réclamés sont déductibles jusqu’à concurrence de 725,60 $;
+iv) l’appel pour l’année d’imposition 2010 est rejeté.
+Signé à Ottawa, Canada, ce 2e jour d’octobre 2013.
+« Paul Bédard »
+Juge Bédard
+RÉFÉRENCE : 2013 CCI 312
+Nºs DES DOSSIERS DE LA COUR : 2009-3623(IT)I; 2012-1678(IT)I;
+2012-1683(IT)I; 2012-1684(IT)I
+INTITULÉ DE LA CAUSE : JEAN-ROBERT LACROIX c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Ottawa (Canada)
+DATE DE L’AUDIENCE : le 12 avril 2013
+MOTIFS DU JUGEMENT PAR : L'honorable juge Paul Bédard
+DATE DU JUGEMENT : le 2 octobre 2013
+COMPARUTIONS :
+Avocate de l'appelant :
+Me Chantal Donaldson
+Avocat de l'intimée :
+Me Frédéric Morand
+AVOCATE INSCRITE AU DOSSIER :
+Pour l'appelant:
+Nom : Me Chantal Donaldson
+Cabinet : Leblanc, Donaldson
+Gatineau, Québec
+Pour l’intimée : William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada

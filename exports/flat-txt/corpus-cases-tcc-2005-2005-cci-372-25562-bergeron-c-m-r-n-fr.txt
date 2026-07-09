@@ -1,0 +1,128 @@
+Title: Bergeron c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25562/index.do
+Corpus path: corpus/cases/tcc/2005/2005-cci-372-25562-bergeron-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2005-06-06
+
+# Bergeron c. M.R.N.
+
+- Citation: 2005 CCI 372
+- Decision date: 2005-06-06
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2461, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Bergeron c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-06-06
+Référence neutre
+2005 CCI 372
+Numéro de dossier
+2004-3785(EI)
+Juges et Officiers taxateurs
+Louise Lamarre Proulx
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2004-3785(EI)
+ENTRE :
+IVANN ALEXANDRE BERGERON,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL.
+intimé.
+____________________________________________________________________
+Appel entendu le 3 mai 2005 à Montréal (Québec)
+Devant : L'honorable juge Louise Lamarre Proulx
+Comparutions :
+Pour l'appelant :
+l'appelant lui-même
+Avocate de l'intimé :
+Me Johanne M. Boudreau
+____________________________________________________________________
+JUGEMENT
+L'appel en vertu du paragraphe 103(1) de la Loi sur l'assurance-emploi concernant la décision du ministre du Revenu national est rejeté et la décision du ministre est confirmée, selon les motifs du jugement ci-joints.
+Signé à Montréal (Québec), ce 6e jour de juin 2005.
+« Louise Lamarre Proulx »
+Juge Lamarre Proulx
+Référence : 2005CCI372
+Date : 20050606
+Dossier : 2004-3785(EI)
+ENTRE :
+IVANN ALEXANDRE BERGERON,
+appelant,
+Et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+MOTIFS DU JUGEMENT
+La juge Lamarre Proulx
+[1] Il s'agit d'un appel d'une décision du ministre du Revenu national (le « Ministre » ) en date du 3 juin 2004.
+[2] Cette décision veut que l'appelant n'exerçait pas un emploi assurable dans l'exercice de ses fonctions de conseiller municipal de la Municipalité de St-Faustin-Lac-Carré, du 23 septembre 2001 au 21 septembre 2002 et du 29 septembre 2002 au 29 mars 2003.
+[3] Les paragraphes explicatifs pertinents se lisent comme suit :
+Il a été décidé que votre emploi n'était pas assurable pour la raison suivante : Vous n'étiez pas embauché en vertu d'un contrat de louage de services et par conséquent, vous n'étiez pas un employé de la Municipalité Saint-Faustin-Lac-Carré.
+Bien que le poste de conseiller municipal de Ivann Bergeron est une charge en vertu de l'article 2.(1) au sens du Régime de Pension du Canada, cette charge n'est pas inclus dans les emplois assurables en vertu de l'alinéa 6(f) du Règlement sur l'assurance-emploi.
+Cette décision a été rendue en vertu du paragraphe 93(3) de la Loi sur l'assurance-emploi et s'appuie sur l'alinéa 5(1)a) de la Loi sur l'assurance-emploi et sur l'alinéa 6(f) du Règlement sur l'assurance-emploi.
+...
+[4] La Réponse à l'avis d'appel décrit ainsi les faits de cette affaire :
+7. Pour rendre sa décision, le ministre a déterminé que l'appelant exerçait une charge au sens du paragraphe 2(1) de la loi Régime des pensions du Canada qui n'était pas incluse dans les emplois assurables, en s'appuyant sur les faits présumés suivants :
+a) l'appelant avait été élu par vote populaire comme conseiller municipal de la municipalité de Saint-Faustin-Lac-Carré pour la période de novembre 1999 à novembre 2003;
+b) les tâches de l'appelant comme conseiller municipal étaient de participer aux assemblées publiques de la municipalité et d'être disponible à rencontrer les citoyens;
+c) durant les périodes en litige, l'appelant recevait une allocation de 500 $ par mois pour sa charge de conseiller municipal;
+d) durant les périodes en litige, l'appelant ne s'occupait pas d'autres tâches pour la municipalité autres que celles de conseiller municipal;
+[5] L'appelant a admis tous ces faits.
+[6] L'article 2085 du Code civil du Québec définit ainsi le contrat de travail :
+Le contrat de travail est celui par lequel une personne, le salarié, s'oblige, pour un temps limité et moyennant rémunération, à effectuer un travail sous la direction ou le contrôle d'une autre personne, l'employeur.
+[7] L'article 2 de la Loi sur les élections et les référendums dans les municipalités, (L.R.Q., c. E-2.2) prévoit qu'une élection doit être tenue tous les quatre ans à tous les postes de membre du conseil d'une municipalité. L'article 2 de la Loi sur le traitement des élus municipaux, (L.R.Q., c. T-11.001) prévoit que le conseil d'une municipalité peut par règlement fixer la rémunération de ses membres. L'article de la même loi prévoit la rémunération annuelle minimale que doit recevoir un conseiller.
+[8] L'appelant a expliqué qu'en effet sa rémunération était déterminée en fonction d'un règlement de la municipalité, que le maire ou la mairesse ne pouvait le congédier, qu'il ne recevait d'instructions de quiconque si ce n'est des avis de ses électeurs, il n'avait pas de bureau dans les locaux de la municipalité, etc. En fait, il n'a pas été possible lors de l'audience de déterminer qui aurait pu être l'employeur qui aurait contrôlé son travail et quel aurait été le contrôle exercé sur son travail.
+[9] En réalité, il n'est pas difficile de conclure que les tâches d'un conseiller municipal ne sont pas afférentes à celles d'un contrat de travail. Mais, il n'y a pas de doute toutefois que ces tâches sont afférentes à celles d'une charge ou d'une fonction. Il faut donc se référer à l'article 6 du Règlement sur l'assurance-emploi ( « Règlement » ), qui élargit la catégorie des emplois assurables. De cet article, seul le sous-alinéa 6f)(iii) peut être d'application. Il se lit comme suit :
+f) l'emploi exercé par une personne qui est titulaire d'une fonction ou d'une charge au sens du paragraphe 2(1) du Régime de pensions du Canada dans l'une ou l'autre des circonstances suivantes :
+...
+(iii) elle détient cette fonction ou cette charge auprès ou pour le compte d'une personne morale, d'une commission ou de tout autre organisme qui est mandataire de Sa Majesté du chef d'une province visée au sous-alinéa (ii),
+[10] La définition de « fonction ou charge » à l'article 2 de la Loi sur le Régime de pensions du Canada se lit comme suit :
+« fonction » ou « charge » Le poste qu'occupe un particulier, lui donnant droit à un traitement ou à une rémunération déterminée ou constatable. Sont visés par la présente définition une charge judiciaire, la charge de ministre, de lieutenant-gouverneur, de membre du Sénat ou de la Chambre des communes, de membre d'une assemblée législative ou d'un conseil législatif ou exécutif et toute autre charge dont le titulaire est élu par vote populaire ou est élu ou nommé à titre de représentant, y compris le poste d'administrateur de personne morale; « fonctionnaire » s'entend d'une personne détenant une telle fonction ou charge.
+[11] Il est admis par l'intimé qu'un conseiller municipal exerce une fonction ou une charge.
+[12] La municipalité est constituée en vertu de la Loi sur l'organisation territoriale municipale (L.R.Q., c. O-9). On y dit à l'article 13 que la municipalité est une personne morale de droit public formée des habitants et des contribuables de son territoire. Je me réfère aussi aux articles 298 à 300 du Code civil du Québec qui traitent de la constitution et des espèces de personnes morales. Il n'est pas contesté non plus que la municipalité soit une personne morale.
+[13] Ce qui est en litige est de savoir, pour les fins de l'application de l'article 6 du Règlement, si la Municipalité de St-Faustin-Lac-Carré, qui est une personne morale, est mandataire de sa Majesté du chef du Québec?
+[14] Ce qu'il faut entendre par la notion de « mandataire de l'État » a récemment été expliqué dans Nova Scotia Power Inc. c. Canada, [2004] 3 R.C.S. 53. Je cite la partie pertinente des paragraphes 12 et 13 :
+12 Une entité peut être mandataire de l'État dans deux cas. Dans le premier, l'État exerce sur elle un contrôle suffisant pour que l'on puisse dire qu'elle est soumise à un contrôle de droit, ce qui exige un examen attentif de la relation entre les parties : voir R. c. Eldorado Nucléaire Ltée, [1983] 2 R.C.S. 551, p. 573-574. ...
+13 Dans le deuxième cas, le législateur désigne expressément l'entité mandataire de l'État : Eldorado Nucléaire, précité, p. 575-576.
+[15] Le décret de constitution de la Municipalité a été produit à l'onglet 1 du Cahier des autorités de l'intimé. Il s'agit du Décret 1612-95, en date du 13 décembre 1995. Il n'y a dans ce décret aucune désignation spécifique de mandataire de l'État. L'article 3 du dit décret de constitution stipule que la nouvelle municipalité est régie par le Code municipal du Québec (L.R.Q., c. C-27.1). Je n'ai vu dans cette loi aucune disposition et on ne m'a référé à aucune disposition qui prévoit que les municipalités soient les mandataires de l'État.
+[16] En ce qui concerne un contrôle de droit entre l'État et une municipalité, tel que mentionné au premier point de la décision de la Cour suprême, ci-dessus, je ne connais aucune décision qui ait affirmé qu'il y avait un tel contrôle de droit relativement à la gestion des affaires municipales.
+[17] Il est aussi à noter que dans l'affaire de Madeline Faiazza c. M.R.N., dossier 83-671(UI), en date du 5 septembre 1985, cette Cour avait décidé que la mairesse d'une municipalité n'occupait pas un emploi assurable.
+[18] L'appel est en conséquence rejeté.
+Signé à Montréal (Québec), ce 6e jour de juin 2005.
+« Louise Lamarre Proulx »
+Juge Lamarre Proulx
+RÉFÉRENCE :
+2005CCI372
+No DU DOSSIER DE LA COUR :
+2004-3785(EI)
+INTITULÉ DE LA CAUSE :
+Ivann Alexandre Bergeron et M.R.N.
+LIEU DE L'AUDIENCE :
+Montréal (Québec)
+DATE DE L'AUDIENCE :
+le 3 mai 2005
+MOTIFS DE JUGEMENT PAR :
+l'hon. juge Louise Lamarre Proulx
+DATE DU JUGEMENT :
+le 6 mai 2005
+COMPARUTIONS :
+Pour l'appelant :
+l'appelant lui-même
+Avocate de l'intimé :
+Me Johanne M. Boudreau
+AVOCAT INSCRIT AU DOSSIER:
+Pour l'appelant :
+Nom :
+Étude :
+Pour l'intimé :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

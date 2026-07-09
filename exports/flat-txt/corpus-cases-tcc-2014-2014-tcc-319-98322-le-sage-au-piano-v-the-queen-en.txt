@@ -1,0 +1,185 @@
+Title: Le sage au piano v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/98322/index.do
+Corpus path: corpus/cases/tcc/2014/2014-tcc-319-98322-le-sage-au-piano-v-the-queen-en.md
+Document type: case_law
+Last modified: 2014-10-28
+
+# Le sage au piano v. The Queen
+
+- Citation: 2014 TCC 319
+- Decision date: 2014-10-28
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5257, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Le sage au piano v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2014-10-28
+Neutral citation
+2014 TCC 319
+File numbers
+2014-638(GST)APP
+Judges and Taxing Officers
+Johanne D’Auray
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2014-638(GST)APP
+BETWEEN:
+LE SAGE AU PIANO, LIMITED PARTNERSHIP,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Application heard on semi-common evidence with the application of Les Monarques complexe pour retraités Inc. (2014‑643(GST)APP) on July 2, 2014, at Montréal, Quebec.
+Before: The Honourable Justice Johanne D’Auray
+Appearances:
+Counsel for the applicant:
+Camille Janvier
+Counsel for the respondent:
+Benoît Denis
+ORDER
+The application for an extension of time for filing a notice of objection in respect of the assessment dated June 3, 2013, for the period from October 1, 2009, to October 31, 2009, is granted and the notice of objection attached to the application constitutes a valid notice of objection.
+Signed at Ottawa, Canada, on this 28th day of October 2014.
+“Johanne D’Auray”
+D’Auray J.
+Translation certified true
+on this 11th day of December 2014
+Janine Anderson, Translator
+Citation: 2014 TCC 319
+Date: 20141028
+Docket: 2014-638(GST)APP
+BETWEEN:
+LE SAGE AU PIANO, LIMITED PARTNERSHIP,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR ORDER
+D’Auray J.
+INTRODUCTION [1] The case of Le Sage au piano, limited partnership (the applicant), was heard on semi-common evidence with the application of Les Monarques complexe pour retraités Inc. (Les Monarques). Despite that some evidence was common to both files, for example, the companies belong to the same corporate group and the witnesses were the same, the evidence was different given the orders made in each file.
+[2] On February 5, 2014, the applicant filed with the Court an application under Part IX of the Excise Tax Act (the ETA) to extend the time to file a notice of objection in respect of the assessment dated June 3, 2013, for the period from October 1, 2009, to October 31, 2009.
+[3] The issues are as follows:
+− Does the presumption under subsection 334(1) of the ETA apply?
+− Does the applicant meet the conditions set out in subsection 304(5) of the ETA?
+FACTS [4] The applicant is a company whose headquarters are located at 465 Rue Bibeau, suite 600, Saint-Eustache, Quebec.
+[5] The applicant operates a residence for independent seniors located at 15 Rue Lesage in Ste-Thérèse. For that purpose, the applicant is the owner of two multiple-unit residential complexes. The residence was constructed in two phases; the construction of the first complex ended in phase 1 in 2007 and the construction of the second complex ended in phase 2 in 2009.
+[6] After an audit of the phase 1 complex, the Agence du revenu du Québec (ARQ) assessed the applicant, for and on behalf of the Minister of National Revenue (the Minister), for the period from November 1, 2007, to November 31, 2007, under the ETA.
+[7] This assessment followed the determination by the ARQ of the fair market value (FMV) of the phase 1 complex and involved the amount of net tax reported by the applicant in relation to the FMV.
+[8] The applicant objected to that assessment. An application for settlement was filed in December 2012. The assessment was then appealed to the Court. A Consent to Judgment was filed with the Court on October 2, 2013.
+[9] In 2013, the applicant was audited by the ARQ in respect of the phase 2 complex.
+[10] On May 23, 2013, the ARQ sent the applicant the results of the audit.
+[11] On June 3, 2013, the ARQ assessed the applicant under the ETA for the period from October 1, 2009, to October 31, 2009 (the period at issue). The assessment dealt with the FMV of the phase 2 complex.
+[12] It is worth noting that the notice of assessment was addressed to the applicant’s headquarters, at 465 Rue Bibeau, Saint-Eustache, Quebec, but that the suite number was not included.
+[13] The applicant did not file its notice of objection to the notice of assessment for the period at issue within 90 days after the day the notice of assessment was sent, as set out in subsection 301(1.1) of the ETA.
+[14] Ms. Forget, accountant and comptroller for the applicant, testified that the applicant never received the notice of assessment dated June 3, 2013, made under the ETA. She stated that the applicant learned only on September 16, 2013, that an assessment had been made on June 3, 2013. Ms. Forget learned about this from a telephone conversation with Ms. Bouchard, the ARQ auditor on the file. Following this conversation, Ms. Bouchard sent the notice of assessment, which the applicant received on September 23, 2013.
+[15] Ms. Forget stated in her testimony that the applicant’s office is located in a six-storey building that has approximately 20 tenants and that the mailbox on the main floor does not bear the applicant’s name, but “EMD Construction”.
+[16] At the hearing, Ms. Privé, analyst at ARQ’s Division du flottage, de l’impression, de l’expédition et l’insertion massive, explained ARQ’s procedure for sending communications and the deposit to Canada Post of the notice of assessment dated June 3, 2013.
+[17] Ms. Privé submitted a file containing the details of the communication to the applicant, including the applicant’s taxation number, the production date and the production number (31501) of the notice of assessment, the date of the notice of assessment, the applicant’s postal code, the physical lot number and the specific number given to the communication. Ms. Privé also filed an excerpt of the page for physical lot number 0151, which included the notice of assessment dated June 3, 2013, as well as the sequence report by document number indicating that the notice of assessment was part of a lot of 1,689 items processed that day. The witness filed the worksheet for June 3, 2013, for a document entitled “DDE Quotidien” showing that the notice of GST assessment bearing the production number 31501 and physical lot number 0151 was part of a lot of 1,689 communications included in the 21,947 items processed that day. The witness filed a document from Canada Post called a deposit summary indicating that, on June 3, 2013, the ARQ deposited 21,947 mail items, which corresponds to the total number of items indicated on the DDE Quotidien worksheet.
+[18] On October 8, 2013, the applicant filed with the Minister an application to extend the time to file a notice of objection and attached the notice of assessment.
+[19] On January 8, 2014, the Minister informed the applicant that its application to extend the time to file a notice of objection could not be granted because the notice of assessment had been sent to the applicant's address and that, under subsection 334(1) of the ETA, the notice of assessment is deemed to have been received by the applicant on the day it was mailed. Note that the letter dated January 8, 2014, stated the applicant’s suite number.
+[20] On February 5, 2014, the applicant filed with the Court an application to extend the time to file a notice of objection for the period at issue.
+ANALYSIS [21] The applicant submits that it did not file a notice of objection to the Minister within the time prescribed by the ETA because it never received the notice of assessment dated June 3, 2013.
+a. Presumption of receipt of the notice – subsection 334(1) of the ETA [22] The applicant’s first argument is that it did not receive the notice of assessment mailed on June 3, 2013, pursuant to the ETA because the address used by the Minister on the notice of assessment was incomplete as the suite number was not included. As a result, the applicant maintains that the presumption under subsection 334(1) of the ETA cannot apply.
+[23] The respondent maintains that the notice of assessment was sent to the correct address and that consequently the presumption under subsection 334(1) of the ETA applies.
+[24] Subsection 334(1) of the ETA provides that anything sent by first class mail shall be deemed to have been received on the day it was mailed. That subsection reads as follows:
+334(1) Sending by mail -- For the purposes of this Part and subject to subsection (2), anything sent by first class mail or its equivalent shall be deemed to have been received by the person to whom it was sent on the day it was mailed.
+[25] When a taxpayer claims that he or she did not receive a document and believes that the document was not sent, the appropriate taxing authority has the burden of proving that the document was sent. This principle was noted by the Federal Court of Appeal in Aztec Industries Inc v Canada, [1995] FCJ No 535, 95 DTC 5235. The Federal Court of Appeal stated the following:
+Where as in the present case, a taxpayer alleges not only that he has not received the notice of assessment but that no such notice was ever issued, the burden of proving the existence of the notice and the date of its mailing must necessarily fall on the Minister; the facts are peculiarly within his knowledge and he alone controls the means of adducing evidence of them. . . .
+[26] Subsection 334(1) of the ETA creates an irrebuttable presumption, the Minister must prove that the notice of assessment was sent and not that the notice was received by the taxpayer. In Schafer v Canada, [2000] FCJ No 1480, 2000 DTC 6542, Justice Sharlow, of the Federal Court of Appeal, wrote the following at paragraph 24 of his reasons regarding subsection 334(1) of the ETA:
+[24] The statutory provisions for assessments, objections and appeals are intended to provide clear rules for determining when the Minister's obligation to make an assessment is fulfilled, and to provide procedures by which taxpayers may challenge assessments that may be mistaken. Parliament has chosen to adopt a rule that makes no allowance for the possibility, however remote, that the taxpayer may miss the deadline for objecting or appealing because of a failure of the postal system. I do not understand why Parliament has chosen to deprive taxpayers of the chance to challenge an assessment of which they are unaware, but that is a choice that Parliament is entitled to make.
+[27] The mailing of the notice of assessment dated June 3, 2013, is not in doubt. That said, in order for the presumption under subsection 334(1) of the ETA to apply, the address used by the ARQ must be the correct one.
+[28] It is up to the Minister to establish that the notice of assessment was mailed to the correct address. A notice of assessment that is sent to an incorrect address is deemed to have not been received.
+[29] The respondent acknowledges that the inclusion of the correct postal code is an essential element of a correct and complete address, as established by the case law. For the respondent, the suite number may not be. In this case, he argues that the absence of the suite number did not prevent the ARQ’s other letters in the file from being received by at the applicant.
+[30] Of the five items in the file that refer to the applicant’s address, four of the items do not mention the suite number. One of those items came from the applicant itself; the address written on the notice of objection does not mention suite number 600. However, the notice of objection was prepared and signed by counsel for the applicant.
+[31] The three other items are letters sent by the ARQ to the applicant. According to the evidence, only the notice of assessment dated June 3, 2013, was not received by the applicant. Details on the items that did not include the suite number are as follows:
+− On May 23, 2013, the ARQ mailed the audit results to the applicant’s address without specifying the suite number. The letter was received at that address on May 31, 2013.
+− The notice of assessment dated June 3, 2013, was addressed to 465 Rue Bibeau, Saint‑Eustache, Quebec, and did not mention suite number “600”. According to the applicant, the notice of assessment was never received.
+− On June 18, 2013, the ARQ mailed a letter to the applicant’s address stating that the person responsible for the file had changed, and it did not specify the suite number. The letter was received by the applicant on June 18, 2013.
+[32] The respondent argues that all of the correspondence from the ARQ between May 23 and June 18, 2013, was received by the applicant even if it did not mention the suite number.
+[33] However, in the correspondence from the ARQ dated January 8, 2014, which informed the applicant that the Minister refused to extend the time for filing an objection, the applicant’s address included suite 600.
+[34] In addition to Scott v Minister of National Revenue, [1960] CTC 402, 60 DTC 1273, which states that a wrong or fictitious address cannot constitute a valid mailing, the applicant submitted two other decisions to support its claim. It relied on 236130 British Columbia Ltd. v Her Majesty the Queen, 2006 FCA 352, 2007 DTC 5021 and Katepwa Park Golf Partnership v The Queen, [2000] TCJ No 246, [2000] 3 CTC 2043. In those decisions, the addresses were inaccurate with respect to the postal codes.
+[35] The applicant argues that even though in this case the error does not involve a postal code, there is still a strong likelihood that the letter would not be received at its destination, namely because of the physical layout of the premises. Ms. Forget stated in her testimony that the applicant’s place of business is located in a complex with approximately 20 tenants. The applicant’s office is located on the 6th floor at suite 600, whereas the mailbox is located on the main floor with many other mailboxes. Furthermore, the mailbox does not bear the applicant’s name, but the name of the group’s main company, “EMD Construction”. The mailbox is also used for all of the companies in the group, which is about thirty companies.
+[36] The respondent did not submit any evidence regarding the address that the applicant provided to the ARQ, that is, the applicant’s address in the ARQ’s computer records or the address stated by the applicant on its GST reports or tax returns.
+[37] Aside from Ms. Forget’s testimony, the applicant did not submit evidence of the address that it provided to the ARQ. For example, it did not state the address that it used in its GST reports or tax returns. That said, it is up to the ARQ to prove that it sent the notice of assessment to the correct address.
+[38] The concept of “address” is not defined in the ETA or in the Income Tax Act. Furthermore, no decision dealing with those statutes seems to provide a definition of it. Using common or legal dictionaries to establish an address’s content was inconclusive.
+[39] In Katepwa Park Golf Partnership, supra, the Court decided that the postal code was an essential element of an address. In this case, the issue is whether the suite number is also an essential element of an address.
+[40] In my opinion, in light of the facts in the file, that is, in a complex with several storeys where the mailbox does not bear the applicant’s name, the suite number becomes essential , a situation which could be different for a duplex or a building with few occupants.
+[41] Even though the Minister demonstrated that most of the mail in the file was received by the applicant despite the absence of the suite number, that does not mean that the address was complete.
+[42] Furthermore, like the applicant noted, how is it that the suite number was on the correspondence sent by the ARQ to the applicant on January 8, 2014? The ARQ cannot have used the address stated on the notice of objection produced by counsel for the applicant because that address did not include the suite number. It is therefore likely that the address with the suite number is from the ARQ’s computer records. Indeed, I noted that the applicant, in the files for the phase 1 complex, included the suite number in its address.
+[43] In my view, the respondent had to prove that the address used for mailing purposes was the correct address, which it did not do in this case. If the respondent had proven that the address provided by the applicant did not include the suite number, my finding would have been different. A taxpayer cannot argue that the address used by the ARQ is not correct if the ARQ uses the address provided by the taxpayer.
+[44] As stated by Justice Noël in Scott, supra, a notice of assessment sent to a wrong address is equivalent to a notice of assessment that was not sent at all.
+[45] Consequently, the application for an extension of time for filing a notice of objection is allowed.
+[46] In any event, in this case, in light of the facts, I am of the opinion that the applicant meets the conditions listed in subsection 304(5) of the ETA that makes it possible for the Court to allow an application for an extension of time for filing a notice of objection.
+b. Necessary conditions for an extension of time – subsection 304(5) of the ETA [47] The section lists the conditions that must be met to allow an application for an extension of time. Those conditions are cumulative and must all be met for the Court to grant the application.
+304(5) When application to be granted. – No application shall be granted under this section unless
+(a) the application was made under subsection 303(1) within one year after the expiration of the time otherwise limited by this Part for objecting or making a request under subsection 274(6), as the case may be; and
+(b) the person demonstrates that
+(i) within the time otherwise limited by this Act for objecting,
+(A) the person was unable to act or to give a mandate to act in the person’s name, or
+(B) the person had a bona fide intention to object to the assessment or make the request,
+(ii) given the reasons set out in the application and the circumstances of the case, it would be just and equitable to grant the application, and
+(iii) the application was made under subsection 303(1) as soon as circumstances permitted it to be made.
+304(5)(a) [48] The condition listed in paragraph 304(5)(a) of the ETA is not problematic. The fact that the one-year deadline was respected is not in dispute.
+304(5)(b)(i) [49] The applicant must demonstrate that within the time otherwise limited for objecting:
+− it was unable to act or to give a mandate to act in its name, or
+− it had a bona fide intention to object to the assessment.
+[50] In my view, the applicant always had the bona fide intention to object. In support of its position, it raises its past actions, including the fact that the assessment for the period at issue followed a prior similar assessment that it had objected to. Indeed, an appeal was made and a Consent to Judgment was filed with the Court in Le Sage au piano, phase 1.
+[51] Contrary to the Les Monarques file, no notice of payment followed the audit. Furthermore, there was no document from the ARQ that referred to the assessment date of June 3, 2013.
+[52] Ms. Forget sent counsel for the applicant the audit results once she received them. She had been told to wait for the notice of assessment and once she received the notice of assessment, Ms. Forget sent counsel for the applicant the notice of assessment so that an application for an extension of time for filing a notice of objection could be filed with the Minister.
+304(5)(b)(ii) [53] According to subparagraph 304(5)(b)(ii) of the ETA, an application for an extension of time can only be granted if it is fair and equitable to do so. In this case, I believe that it is fair and equitable to grant the application.
+[54] To examine that condition, there is first a need to consider the risks that the parties may experience hardship. The applicant could experience hardship if its objection could not be decided on the merits, especially since a Consent to Judgment was filed regarding the phase 1 complex.
+304(5)(b)(iii) [55] Pursuant to subparagraph 304(5)(b)(iii) of the ETA, the application must be made as soon as circumstances permit it to be made. In this case, that condition was met.
+[56] In this regard, the sequence of events is important. That sequence is as follows:
+(a) June 3, 2013 - notice of assessment;
+(b) September 3, 2013 - time limit to file objection;
+(c) October 8, 2013 –filing of the application for an extension of time, which the notice of objection was attached to, with the Minister;
+(d) January 8, 2014 – Minister’s dismissal of the application for an extension;
+(e) February 5, 2014 – filing of the application with the Court.
+[57] The applicant filed an application with this court within a reasonable time frame, that is, less than a month after the Minister’s refusal.
+304(5)(b)(iv) [58] The applicant did not demonstrate a reasonable basis for its objection. Because of its discrepancy with the English version, the French version of paragraph 304(5)(b) of the ETA must be interpreted as not requiring the fourth condition set out in subparagraph 304(5)(b)(iv).
+CONCLUSION [59] I am of the opinion that the presumption in subsection 334(1) of the ETA does not apply in this case. Consequently, the application for an extension of time for filing a notice of objection is granted and the notice of objection attached to the application constitutes a valid notice of objection.
+[60] If the presumption in subsection 334(1) of the ETA had been applied, I would have still granted the applicant’s application because the conditions set out in subsection 304(5) of the ETA were met.
+Signed at Ottawa, Canada, this 28th day of October 2014.
+“Johanne D’Auray”
+D’Auray J.
+Translation certified true
+on this 11th day of December 2014
+Janine Anderson, Translator
+CITATION:
+2014 TCC 319
+COURT FILE NO.:
+2014-638(GST)APP
+STYLE OF CAUSE:
+LE SAGE AU PIANO, LIMITED PARTNERSHIP (638) v HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Montréal, Quebec
+DATE OF HEARING:
+July 2, 2014
+REASONS FOR ORDER BY:
+The Honourable Justice Johanne D’Auray
+DATE OF ORDER:
+October 28, 2014
+APPEARANCES:
+Counsel for the applicant:
+Camille Janvier
+Counsel for respondent:
+Benoît Denis
+COUNSEL OF RECORD:
+For the applicant:
+Name:
+Camille Janvier
+Firm:
+BCF, LLP
+For the respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,170 @@
+---
+title: "Donahue v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/25556/index.do"
+last_modified: "2003-12-08"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 TCC 888"
+citation2: ""
+neutral_citation: "2003 TCC 888"
+decision_date: "2003-12-08"
+language: "en"
+item_id: "25556"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2458
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T17:23:36.674000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "175ec99f7466c12eda058e0dcff0cfc9419b1c6319f6da77a87e9bb61ff5ee6e"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Donahue v. The Queen
+
+- Citation: 2003 TCC 888
+- Decision date: 2003-12-08
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2458, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Donahue v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-12-08
+Neutral citation
+2003 TCC 888
+File numbers
+2003-1847(IT)I
+Judges and Taxing Officers
+Terrence O'Connor
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2003-1847(IT)I
+BETWEEN:
+JAMES D. DONAHUE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on November 18, 2003 at Saint John, New Brunswick
+Before: The Honourable Justice T. O'Connor
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Susan McKinney
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment under the Income Tax Act for the 2001 taxation year is allowed, without costs, to the extent that the cost of the hot tub, $8,154.65, is an allowed medical expense of the Appellant and the matter is referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 8th day of December 2003.
+"T. O'Connor"
+O'Connor, J.
+Citation: 2003TCC888
+Date: 20031208
+Docket: 2003-1847(IT)I
+BETWEEN:
+JAMES D. DONAHUE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+O'Connor, J.
+[1] This appeal was heard at Saint-John, New Brunswick on November 18, 2003.
+[2] In reassessing the Appellant for the 2001 taxation year the Minister of National Revenue (the "Minister") disallowed medical expenses claimed by the Appellant in his income tax return consisting of the following:
+Earplugs $130.00
+Massage therapy $326.25
+Hot tub $8,154.65
+Total
+$8,610.90
+[3] The Appellant suffers from severe chronic back problems and receives massage therapy for his back in the province of New Brunswick. He purchased the earplugs and the hot tub on the advice of his physician.
+[4] I find that the massage therapy in the amount of $326.25 was properly disallowed, as massage therapists are not recognized as medical practitioners in the province of New Brunswick. I also find that the cost of the earplugs $130 was properly disallowed as earplugs are not prescribed medical devices within the meaning of the provisions cited below.
+[5] Subsection 118.2(1) of the Income Tax Act (the "Act") provides as follows:
+For the purpose of computing the tax payable under this Part by an individual for a taxation year, there may be deducted an amount determined by the formula
+[The formula describes the percentage of reasonable medical expenses that may be deducted]
+[6] Having agreed with the Minister's disallowance of the expenses related to massage therapy and ear plugs the issue narrows to whether the deduction for the cost of the hot tub should be allowed. This brings into play paragraphs 118.2(l.2) and (m) which read:
+118(2) For the purposes of subsection (l), a medical expense of an individual is an amount paid:
+(l.2) for reasonable expenses relating to renovations or alterations to a dwelling of the patient who lacks normal physical development or has a severe and prolonged mobility impairment, to enable the patient to gain access to, or to be mobile or functional within, the dwelling;
+...
+(m) for any device or equipment for use by the patient that
+(i) is of a prescribed kind,
+(ii) is prescribed by a medical practitioner,
+(iii) is not described in any other paragraph of this subsection, and
+(iv) meets such conditions as are prescribed as to its use or the reason for its acquisition;
+...
+[7] Section 5700 of the Income Tax Regulations reads in part as follows:
+For the purposes of paragraph 118.2(2)(m) of the Act, a device or equipment is prescribed if it is a
+(i) device that is designed to assist an individual in walking where the individual has a mobility impairment;
+[8] As mentioned, the Appellant suffered from severe back pain. He is a totally honest individual and his evidence receives full credibility.
+[9] The hot tub greatly alleviated the Appellant's back problems thus enabling him to walk whereas previously he had to use canes to achieve mobility.
+[10] He acquired the hot tub on his own but the Reply to the Notice of Appeal admits that the Appellant did so on the advice of his physician. Further part of Exhibit A-2 is a written document signed by Doctor Andrea Canty. It is dated after the acquisition of the hot tub but Doctor Canty indicates that she was the Appellant's family physician from November 1992 to April 2002 and she states:
+Because of the observed beneficial and therapeutic and preventative effects of these two devices [whirlpool tub and ...] I would, in restrospect, have prescribed them for Mr. Donahue.
+[11] In my opinion the cost of the hot tub should have been allowed as a medical expense; it can be considered as a prescribed device since I believe it qualifies under subparagraph (i) of Regulation 5700 as a device that is designed to assist an individual in walking where the individual has a mobility impairment. Moreover it may qualify under subparagraph 118.2(2)(m) of the Act since it is of a prescribed kind and since it was purchased on the advice of a medical practitioner. Subparagraph 118.2(2)(m)(ii) states "is prescribed by a medical practitioner". The word 'prescribed' is used three times in subparagraph (m). It is also used in many other provisions of subsection 118.2(2) of the Act. With respect to its use in the expression prescribed "by a medical practitioner" there is no indication that the prescribing must be in writing and, as mentioned, the Appellant acquired the hot tub on the advice of a medical practitioner and further Doctor Canty is satisfied that she would have prescribed the hot tub. In any event the hot tub greatly alleviated the Appellant's problem, thus enabling him to be mobile both within and outside of his home and without the use of the hot tub he would not have been able to continue his work which was the sale of heavy equipment.
+[12] In Wood v. The Queen (2000-10-19) TCC 2000-1272(IT)I, Beaubier, J. of this Court stated as follows:
+[14] Provisions such as Section 118.2 - the "medical expense credit", the disability tax credit and the child tax credit (which has replaced the former federal family allowance) appear to have been inserted by the federal government into the Income Tax Act for two reasons:
+(1) To enable the federal government to participate in social welfare programmes as a part of its policy, and
+(2) To alleviate the heavy income tax burden on individuals and, where provincial governments adopt the Income Tax Act, to share that alleviation with provincial governments.
+Similarly, other provisions have been legislated to provide incentives for various kinds of investments or expenditures to bring about increased production, to further environmental causes, to assist cultural endeavours or to bring about changes in living standards or habitats or investments in provinces or other geographic areas such as the north.
+[15] It is in light of these occurrences in the Income Tax Act that Section 118.2 and the Regulation must be examined. In Corporation Notre-Dame de Bon-Secours v. Communaute Urbaine de Quebec and City of Quebec, 95 DTC 5017, Gonthier, J. stated at the end of Section A of his analysis:
+The rules formulated in the preceding pages, some of which were relied on recently in Symes v. Canada [1993] 4 S.C.R. 695, may be summarized as follows:
+- The interpretation of tax legislation should follow the ordinary rules of interpretation;
+- A legislative provision should be given a strict or liberal interpretation depending on the purpose underlying it, and that purpose must be identified in light of the context of the statute, its objective and the legislative intent: this is the teleological approach;
+- The teleological approach will favour the taxpayer or the tax department depending solely on the legislative provision in question, and not on the existence of predetermined presumptions;
+- Substance should be given precedence over form to the extent that this is consistent with the wording and objective of the statute;
+- Only a reasonable doubt, not resolved by the ordinary rules of interpretation, will be settled by recourse to the residual presumption in favour of the taxpayer.
+[16] The purpose of Section 118.2 and the Regulation is to assist people such as the Woods. Objectively, the hot tub in question is not a piece of custom equipment designed exclusively for Mrs. Wood. She couldn't afford anything like that. But, looked at objectively, the hot tub in question allowed room for her to conduct her prescribed exercises and had hot water jets at locations that would assist her to ease her impediments and to walk and move. It was of a design that assisted her and while it was not customized for her and it did not have everything that Mrs. Wood needed, within the Woods' means, it can be said that it was exactly right for her. In substance and objectively speaking, it was designed for her and to assist her.
+[17] Section 118.2 and Regulation 5700(i) are not to be interpreted to hinder the Woods from purchasing a device. Rather, they are intended to help them to do so.
+[18] As a result, the Court finds that this hot tub is a device designed to assist Mrs. Wood's walking and mobility both in and out of her dwelling.
+[13] Beaubier, J. made similar comments in Galipeau v. The Queen, (2000-10-19) TCC 2000-1651(IT)I and Gordon v. The Queen, (2000-02-29) TCC 98-1553(IT)I.
+[14] For all of the foregoing reasons the appeal is allowed to the extent that the cost of the hot tub, $8,154.65, is an allowed medical expense in the 2001 taxation year of the Appellant and the matter is referred back to the Minister for reconsideration and reassessment on this basis.
+Signed at Ottawa, Canada, this 8th day of December 2003.
+"T. O'Connor"
+O'Connor, J.
+CITATION:
+2003TCC888
+COURT FILE NO.:
+2003-1847(IT)I
+STYLE OF CAUSE:
+James D. Donahue and The Queen
+PLACE OF HEARING:
+Saint John, New Brunswick
+DATE OF HEARING:
+November 18, 2003
+REASONS FOR JUDGMENT BY:
+The Honourable Judge T. O'Connor
+DATE OF JUDGMENT:
+December 8, 2003
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Susan McKinney
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

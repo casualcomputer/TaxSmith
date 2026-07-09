@@ -1,0 +1,203 @@
+---
+title: "Faulkner v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/25130/index.do"
+last_modified: "2006-04-18"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 TCC 239"
+citation2: ""
+neutral_citation: "2006 TCC 239"
+decision_date: "2006-04-18"
+language: "en"
+item_id: "25130"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2586
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T22:09:09.924000+00:00"
+cases_cited_count: 2
+cases_citing_count: 5
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "701069b25e9c621679f431956e3e03c0081bcb75abe1cc57f80e1d24d8cc59db"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Faulkner v. M.N.R.
+
+- Citation: 2006 TCC 239
+- Decision date: 2006-04-18
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2586, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Faulkner v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-04-18
+Neutral citation
+2006 TCC 239
+File numbers
+2005-4009(EI)
+Judges and Taxing Officers
+Donald G.H. Bowman
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2005-4009(EI)
+BETWEEN:
+WILLIAM G. FAULKNER,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+VICTOR TRAIN,
+O/A PORT CITY PAWN SHOP,
+Intervener.
+____________________________________________________________________
+Appeal heard on April 10, 2006 at Saint John, New Brunswick.
+Before: The Honourable D.G.H. Bowman, Chief Justice
+Appearances:
+For the Appellant:
+The appellant himself
+Counsel for the Respondent:
+Claude Lamoureux
+Agent for the Intervener:
+Victor Train
+____________________________________________________________________
+JUDGMENT
+The appeal pursuant to subsection 103(1) of the Employment Insurance Act for the period from November 15, 2003 to January 1, 2004, is dismissed and the decision of the Minister is confirmed.
+Signed at Ottawa, Canada this 18th day of April 2006.
+"D.G.H. Bowman"
+Bowman, C.J.
+Docket: 2005-4010(CPP)
+BETWEEN:
+WILLIAM G. FAULKNER,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+VICTOR TRAIN,
+O/A PORT CITY PAWN SHOP,
+Intervener.
+____________________________________________________________________
+Appeal heard on April 10, 2006 at Saint John, New Brunswick.
+Before: The Honourable D.G.H. Bowman, Chief Justice
+Appearances:
+For the Appellant:
+The appellant himself
+Counsel for the Respondent:
+Claude Lamoureux
+Agent for the Intervener:
+Victor Train
+____________________________________________________________________
+JUDGMENT
+The appeal pursuant to subsection 28(1) of the Canada Pension Plan for the period from November 15, 2003 to January 1, 2004, is dismissed and the decision of the Ministeris confirmed.
+Signed at Ottawa, Canada this 18th day of April 2006.
+"D.G.H. Bowman"
+Bowman, C.J.
+Citation: 2006TCC239
+Date: 20060418
+Dockets: 2005-4009(EI)
+2005-4010(CPP)
+BETWEEN:
+WILLIAM G. FAULKNER,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+VICTOR TRAIN,
+O/A PORT CITY PAWN SHOP,
+Intervenor.
+REASONS FOR JUDGMENT
+Bowman, C.J.
+[1] These appeals are from a decision of the Minister of National Revenue that the appellant was not employed in pensionable and insurable employment by Port City Pawn Shop ("Port City"), for the purposes of the Canada Pension Plan and the Employment Insurance Act, for the period from November 15, 2003 to January 1, 2004.
+[2] The appellant, a carpenter, was injured at work and was in receipt of disability benefit from the Workplace Health, Safety and Compensation Commission of New Brunswick (the "WHSCC").
+[3] He entered into a training program with the WHSCC and was placed with Port City where he worked at the counter dealing with customers, valuing items that they wished to pawn and generally assisting the owner of the shop, Stephen Train, who had been given the shop by his father, Victor Train.
+[4] The appellant was paid by the WHSCC. When the training program came to an end on November 21, 2003, he continued to work at the pawn shop until December 22, 2003, when it closed for the Christmas season.
+[5] The appellant claims that he was employed in insurable and pensionable employment during the period from November 15, 2003 to January 1, 2004. The respondent denies this and the basis upon which he decided that Mr. Faulkner was not so employed is set out in the following assumptions of fact:
+(a) during the period under appeal Victor did not own or operate Port City;
+(b) during the period under appeal Port City was a sole-proprietorship, which was owned and operated by Victor's son Stephen Train ("Stephen");
+(c) Port City was a pawn shop and was engaged in the buying and selling used goods;
+(d) Port City was located at 237 Union Street, Saint John, New Brunswick;
+(e) during the period under appeal, the Appellant 'hung around' Port City's business premises;
+(f) during the period under appeal, the Appellant did not perform services for Port City, Stephen or Victor;
+(g) during the period under appeal, the Appellant was not paid by Port City, Stephen or Victor;
+(h) prior to the period under appeal the Appellant was in receipt of disability benefits from the Workplace Health, Safety and Compensation Commission of New Brunswick (the "WHSCC");
+(i) also prior to the period under appeal, the Appellant entered into a training agreement (the "agreement") with Stephen and WHSCC;
+(j) under the terms of the agreement the Appellant would perform services as a store clerk for Port City from May 20, 2003 to November 21, 2003 (the "former period") and the Appellant's duties included customer sales and service, answering the telephone and some business record keeping;
+(k) WHSCC continued to pay the Appellant his regular disability benefits and also provided the Appellant with a computer, desk and chair for his use at Port City's business premises;
+(l) during the former period Port City had the right to supervise and otherwise monitor the Appellant in the performance of his duties;
+(m) during the former period Port City did not record or control the Appellant's hours of work and did not pay the Appellant for the services he rendered during this period;
+(n) during the former period Port City did not incur any expenses in relation to the services provided by the Appellant; and
+(o) Port City did not engage the Appellant to perform services once the agreement noted in paragraphs (i) and (j) above had expired.
+[6] I think it is fair to say that Mr. Faulkner did more than "hang around" the pawn shop. The evidence is that after his training period ended on November 21, 2003, he continued to come to the pawn shop and perform the tasks he did before - dealing with customers, taking and valuing articles that were being pawned and redeeming pawned articles. He appears to have held a position of some trust because he was given the combination of the alarm.
+[7] The appellant's house burned down on December 31, 2003, and he was told by Victor Train that he did not want him around the pawn shop any longer.
+[8] During the period in which the appellant states that he was employed at the pawn shop (November 15, 2003 to January 1, 2004), he was not paid by WHSCC after November 22, 2003. The question is whether he was employed by the owner of the pawn shop. (There is some question whether the owner was Stephen or his father, Victor, but it is not relevant to this case). I have already stated that I find that during this period he did more than "hang around" the shop (an assumption undoubtedly based on something Victor said). He actually worked. Indeed, my observation of Stephen, the son, was that he probably needed Mr. Faulkner's assistance to run the shop.
+[9] It is not however sufficient for pensionable or insurable employment to exist that a person merely performs tasks at the owner's place of business. There has to be a contract of employment, written or oral, implied or explicit, and this would generally involve getting paid by the employer. There may be the unusual circumstance in which an employee is not paid but that is not the situation here.
+[10] Mr. Faulkner alleges that he was paid by Victor Train. Specifically, he says he was paid $8,000 in cash in 2004. He stated that he received the $8,000 in one lump sum, or that it was received in two instalments, one at his mother-in-law's and one outside Superior Muffler.
+[11] In his return of income for 2003, he declared $8,000. This would have provided more cogent proof that he received this amount if it had affected the tax he had to pay but it did not because the disability payments were not included in his income and he ended up not being taxable in that year.
+[12] Mr. Faulkner stated that the $8,000 was payment for the hours that he worked between November 15, 2003 and January 1, 2004 at the rate of $10.00 per hour. This simply does not work out mathematically. Even assuming that he spent a 10 hour day from Monday to Friday and a 5 hour day on Saturday (a questionable assumption), six 55 hour weeks result in 330 hours. If this is divided into $8,000 it works out to $24 per hour, not $10 per hour. Moreover, the shop was closed after December 22, 2003, until the end of the year.
+[13] Where questions of credibility are concerned, I think it is important that judges not be too quick on the draw. In 1084767 Ontario Inc. (c.o.b. Celluland) v. Canada, [2002] T.C.J. No. 227 (QL), I said this:
+8 The evidence of the two witnesses is diametrically opposed. I reserved judgment because I do not think findings of credibility should be made lightly or, generally speaking, given in oral judgments from the bench. The power and obligation that a trial judge has to assess credibility is one of the heaviest responsibilities that a judge has. It is a responsibility that should be exercised with care and reflection because an adverse finding of credibility implies that someone is lying under oath. It is a power that should not be misused as an excuse for expeditiously getting rid of a case. The responsibility that rests on a trial judge to exercise extreme care in making findings of credibility is particularly onerous when one considers that a finding of credibility is virtually unappealable.
+[14] I continue to be of the view that as judges we owe it to the people who appear before us to be careful about findings of credibility and not be too ready to shoot from the hip. Studies that I have seen indicate that judges are no better than any one else at accurately making findings of credibility. We do not have a corner on the sort of perceptiveness and acuity that makes us better than other people who have been tested such as psychologists, psychiatrists or lay people. Since it is part of our job to make findings of credibility, we should at least approach the task with a measure of humility and recognition of our own fallibility. I know that appellate courts state that they should show deference to findings of fact by trial judges because they have had the opportunity to observe the demeanour of the witness in the box. Well, I have seen some accomplished liars who will look you straight in the eye and come out with the most blatant falsehoods in a confident, forthright and frank way, whereas there are honest witnesses who will avoid eye contact, stammer, hesitate, contradict themselves and end up with their evidence in a complete shambles. Yet some judges seem to believe that they can instantly distinguish truth from falsehood and rap out a judgment from the bench based on credibility. The simple fact of the matter is that judges, faced with conflicting testimony, probably have no better than a 50/50 chance of getting it right and probably less than that when their finding is based on no more than a visceral reaction to a witness. Moreover, it is essential that if an adverse finding of credibility is made the reasons for it be articulated.
+[15] I revert then to Mr. Faulkner's testimony that he received $8,000 from Mr. Victor Train as compensation for the time he worked at the pawn shop. This was flatly denied by Victor Train. I tend to be a little skeptical of Victor Train's testimony, in light of the palpable antagonism that existed between him and Mr. Faulkner, but on this point, on balance, I prefer his evidence. This is somewhat reminiscent of the situation I was faced with in Orly Automobiles Inc. v. Her Majesty the Queen, 2004 TCC 86; [2004] G.S.T.C. 57 (aff'd F.C.A., 2005 FCA 425; [2005] G.S.T.C. 200, where I said:
+[72] This raises squarely a question of credibility. This is not, however, unusual in this case in which questions of credibility abound. The task before me is to determine what evidence is most worthy of credence and from that to extract what, on a balance of probabilities, is most likely to be the truth, bearing in mind the somewhat complex rules relating to onus of proof in tax cases. Some of the witnesses may be telling the truth all of the time, some none of the time and some part of the time. The problem is exacerbated by the fact that the involvement of many of the witnesses was in activities that were, if not downright dishonest, at least rather louche.
+[16] My reasons for not accepting Mr. Faulkner's testimony are as follows:
+(a) The inconsistencies between his various versions of how he was paid the $8,000. I should think that if someone gave me $8,000 in cash I would be able to get it straight where he gave it to me and whether it was given in one, two or three tranches.
+(b) The fact that the mathematical calculation that I did above does not come near to supporting a payment based on a $10.00 hourly rate.
+(c) The sheer implausibility of Victor Train surreptitiously giving Mr. Faulkner $8,000 as compensation for his working in the pawn shop after November 15, 2003.
+[17] I have therefore concluded that the appellant was not employed in insurable or pensionable employment by Port City between November 15, 2003 and January 1, 2004.
+[18] The appeals are dismissed.
+Signed at Ottawa, Canada this 18th day of April 2006.
+"D.G.H. Bowman"
+Bowman, C.J.
+CITATION:
+2006TCC239
+COURT FILES NOS.:
+2005-4009(EI) & 2005-4010(CPP)
+STYLE OF CAUSE:
+William G. Faulkner and
+The Minister of National Revenue and
+Victor Train, o/a Port City Pawn Shop
+PLACE OF HEARING:
+Saint John, New Brunswick
+DATE OF HEARING:
+April 10, 2006
+REASONS FOR JUDGMENT BY:
+The Honourable D.G.H. Bowman, Chief Justice
+DATE OF JUDGMENT AND REASONS FOR JUDGMENT:
+April 18, 2006
+APPEARANCES:
+For the Appellant:
+The appellant himself
+Counsel for the Respondent:
+Claude Lamoureux
+Agent for the Intervener:
+Victor Train
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+John Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

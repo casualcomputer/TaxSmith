@@ -1,0 +1,169 @@
+Title: Estate of Herman Gebhart v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27338/index.do
+Corpus path: corpus/cases/tcc/2006/2006-tcc-572-27338-estate-of-herman-gebhart-v-the-queen-en.md
+Document type: case_law
+Last modified: 2006-10-31
+
+# Estate of Herman Gebhart v. The Queen
+
+- Citation: 2006 TCC 572
+- Decision date: 2006-10-31
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 518, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Estate of Herman Gebhart v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-10-31
+Neutral citation
+2006 TCC 572
+File numbers
+2003-754(IT)G
+Judges and Taxing Officers
+David W. Beaubier
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2003-754(IT)G
+BETWEEN:
+ESTATE OF HERMAN GEBHART,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on October 16, 2006, at Regina, Saskatchewan
+Before: The Honourable Justice D.W. Beaubier
+Appearances:
+Counsel for the Appellant:
+Gregory A. Swanson
+Counsel for the Respondent:
+Julien Bedard
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act for the 1996 taxation year is dismissed in accordance with the attached Reasons for Judgment.
+Signed at Kelowna, British Columbia, this 31st day of October, 2006.
+"D.W. Beaubier"
+Beaubier, J.
+Citation: 2006TCC572
+Date: 20061031
+Docket: 2003-754(IT)G
+BETWEEN:
+ESTATE OF HERMAN GEBHART,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Beaubier, J.
+[1] This appeal pursuant to the General Procedure was heard at Regina, Saskatchewan, on October 16, 2006. The Respondent called the lawyer for the Appellant estate, Paul Lewans, and the auditor on the file, William Peake. There were no other witnesses.
+[2] The particulars of the Respondent's case are set out in paragraphs 4 to 11 of the Reply to the Notice of Appeal. They read:
+4. The 1996 T1 Tax Return of the deceased, Herman Gebhart, was filed indicating total RRSP income of $43,528.86. The return was assessed as filed on January 27, 1997.
+5. By Notice of Reassessment dated January 31, 2002, the Minister of National Revenue ("MNR") reassessed the 1996 tax return of Herman Gebhart by adding to his income the amount of $40,953.00, which was the proceeds from a Registered Retirement Savings Plan ("RRSP") which was not included in the tax return. The tax amount was added pursuant to ss. 152(4) of the Income Tax Act (the "Act").
+6. A Notice of Objection was filed on April 30, 2002.
+7. The Minister confirmed his reassessment by Notice of Confirmation dated November 22, 2003.
+8. In so reassessing the Appellant, the Minister relied on, inter alia, the following assumptions:
+a. the deceased died on May 22, 1996;
+b. the Last Will and Testament of the deceased appointed Richard Kohl as the Executor of the Estate; whose address is care of Lewans & Ford, Solicitors;
+c. the Estate received $96,518.00 in RRSP income;
+d. the 1996 tax return included only $55,565.00 in income from RRSPs;
+e. the 1996 tax return did not include the proceeds from a RRSP in the amount of $40,953.00;
+f. the failure to include the RRSP income of $40,953.00 was a misrepresentation that was attributable to neglect, carelessness or wilful default.
+B. ISSUES TO BE DECIDED
+9. The issued to be decided is whether or not the Minister properly reopened the deceased's 1996 tax return pursuant to subsection 152(4) of the Act.
+C. STATUTORY PROVISIONS RELIED ON
+10. He relies on paragraph 146(8.8)(a) and subsection 152(4) of the Act, R.S.C. 1985, c. 1 (5th Supp.), as amended.
+D. GROUNDS RELIED ON AND RELIEF SOUGHT
+11. He respectfully submits that the Minister properly reopened the 1996 tax return of the deceased pursuant to subsection 152(4) of the Act, due to the failure to report income of $40,953.00 from the deemed disposition of all of the deceased's RRSPs, which failure amounted to a misrepresentation that was attributable to neglect, carelessness or wilful default.
+[3] Assumptions 8(a) to (e), inclusive, were confirmed by the evidence. Assumption 8(f) is in dispute.
+[4] The chronology of this matter is as follows:
+22 May, 1996 - Herman Gebhart, a 66 year old bachelor, dies while on the range at his ranch near Mankota, Saskatchewan. His will names his niece's husband, Richard Kohl of Mankota, as his executor. Mr. Kohl retains Paul Lewans of Assiniboia, Saskatchewan, 100 kilometres from Mankota as the estate's solicitor; Mankota is in south west Saskatchewan, about 50 kilometres from Montana. No one knew Mr. Gebhart's business dealings and his 1995 income tax return does not refer to a RRSP.
+24 May, 1996 - Mr. Lewans writes the Canadian Imperial Bank of Commerce ("CIBC") at Mankota for, inter alia, a statement of "all accounts and term deposits." (Exhibit A-1, Tab 2)
+27 May, 1996 - CIBC faxes a reply to Mr. Lewans which includes:
+"(indecipherable)
+P. LIST OF GRA CERTIFICATES"
+...
+NGRA#: 1540-750-5
+ACCOUNT BALANCE $48,614.59
+consisting of 3 certificates with a breakdown of "principal", "mat value", "cap interest" and "accr interest"." (Exhibit A-1, Tab 2)
+27 May, 1996 - Mr. Lewans writes Mackenzie Financial a letter requesting the value of account 0948405-06 for probate purposes. (Exhibit A-1, Tab 3).
+28 May, 1996 - Mackenzie Financial replies with three sheets referring Registered Retirement Savings Plan account 0948405-6 which work out to:
+(1)
+Industrial Growth Fund
+$40,134.74
+(2)
+Ivy Foreign Equity Fund
+363.08
+(3)
+Ivy Canadian Fund
+3,031.04
+(Exhibit A-1, Tab 4)
+30 May, 1996 - Richard Kohl applies for probate, listing in the assets:
+"F. BANK ACCOUNTS, CASH ON HAND
+Canadian Imperial Bank of Commerce, Mankota
+...
+#1540-750-5
+$48,614.59
+Accrued interest
+1,448.07
+...
+H. ...
+Registered Retirement Savings Plans
+Mackenzie Financial Corporation # 0948405-6:
+Industrial Growth
+$40,134.74
+Ivy Foreign Equity Fund (RCS)
+363.08
+Ivy Canadian Fund (RCS)
+3,031.04
+$43,528.86
+(Exhibit A-1, Tabs 5 - 7, inclusive)
+10 June, 1996- Probate is granted to Richard Kohl. (Exhibit A-1, Tab 8).
+23 July, 1996 - CIBC Pays CIBC at Mankota 2 RRSP cheques and accompanying T-4 RSP forms:
+$ 4,834.89
+$50,730.37
+for accounts "CIBC RRSP 416-647-6 and 1540-750-5."
+Date unknown - Mackenzie Financial pays the balance it owes to the estate to its CIBC account at Mankota. Mr. Lewans never receives a T-4 slip respecting the Mackenzie Financial money apparently paid by "MRS Trust Company". (Exhibit R-3, the audit report.) Mr. Lewans never received T-4s for this money which apparently totalled $40,953 at the date of death.
+12 or 13 November, 1996 - Mr. Lewans' office mailed an unsigned Terminal Income Tax Return for 1996 of Mr. Gebhart's estate reporting $55,565.26 RRSP income based upon the T-4 slips sent by CIBC (Notice of Appeal and Terminal Return, Exhibit A-1, Tab 10.)
+[5] Mr. Lewans realized that the CIBC T-4s for the RRSPs did not coincide in amount with the information that he had received originally from Mackenzie Financial; he also knew that Mackenzie Financial had paid Mr. Gebhart's RRSP funds to CIBC, Mankota, and he thought that there must be some connection between the two in view of the CIBC T-4s for RRSPs. He discussed this with Mr. Kohl, who is now dead, and asked Mr. Kohl to save any papers he could find or might receive and bring them to him. Mr. Lewans never received anything to account for the discrepancy. Nor did he ever receive any T-4s respecting an RRSP from Mackenzie Financial. Mr. Lewans' practice is to rely on the T-4s as the truth of the matter for tax purposes. The Court finds that to be a reasonable practice.
+[6] However the total of the estate assets as filed for probate was correct. The error was that the CIBC GICs were in fact RRSPs and it is these RRSPs that the T-4s which were filed in the Terminal Income Tax Return represented. So, while the total amount was correct, the character of the CIBC GICs was misunderstood by Messrs. Kohl and Lewans. Mr. Lewans relied on the RRSP T-4s that he had when he prepared the Terminal Return and Canada Revenue Agency assessed the estate on that basis as well.
+[7] Based on the evidence described to this point, and with no other evidence of these facts submitted to the Court, the Court finds that Mackenzie Financial did the same thing that CIBC did: When it paid its RRSPs out to CIBC, Mankota, it also enclosed the RRSP T-4s. Then CIBC gave them to Mr. Kohl, the executor, in Mankota who misplaced them. Neither delivered them to Mr. Lewans.
+[8] A great deal was made by Respondent's counsel of the various CIBC account numbers respecting the GICs and of the Mackenzie Financial numbers. But that is after the event when both Mr. Kohl and Mr. Lewans were under the impression that there was only one institution with Mr. Gebhart's RRSPs - namely Mackenzie Financial. Mr. Lewans quite reasonably stated that he relied on the RRSP T-4s. (As did Canada Revenue Agency in its assessment at that time.)
+[9] The chronology continues -
+Date unknown - Canada Revenue Agency receives copies of the RRSP T-4s from both CIBC and Mackenzie Financial. (The latter under the name "MSR Trust Company.") The total includes an additional $40,953 from Mackenzie Financial. (See Exhibit R-3).
+Before November, 1997 - The estate files an amended Terminal Return claiming additional charitable donations.
+12 November, 1997 - Canada Revenue Agency issues a Notice of Reassessment granting the additional charitable donations claimed. It fails to reassess and raise the additional Mackenzie Financial RRSP income of $40,953 (Exhibit A-1, Tab 12). This failure is explained away by Canada Revenue Agency's representatives on the basis of the self-reporting honour system; the multitude of filings; and that this reassessment was fact specific for the charitable deductions claim.
+Annual T-3s are filed by the Estate - reporting income received by the estate consisting of the remainder of 5 annual instalments which nephews of Mr. Gebhart pay for cattle purchased while Mr. Gebhart was alive.
+About 15 May, 2001 - Mr. Lewans writes to Canada Revenue Agency on behalf of the estate after the final T-3 of cattle instalment payments is filed and asks for a Clearance Certificate for the estate.
+28 November, 2001 - Canada Revenue Agency writes to the Estate of Herman Gebhart and claims income tax on unreported RRSP income of $40,953 from MRS Trust Company.
+[10] The evidence is that CIBC paid its RRSP funds to its own branch at Mankota on 23 July, 1996. From this, the Court infers that Mackenzie Financial paid its RRSPs to the same CIBC branch at about the same time. That is well before the estate's Terminal Return was filed on November 12 or 13, 1996. Therefore, from the evidence before the Court, the Court infers that the executor, Mr. Kohl, received the Mackenzie Financial (or MRS Trust Company) T-4s at the same time that CIBC, Mankota, was paid. He was the executor, he knew that he had a duty to the estate to report these receipts and to file these T-4s and the Terminal Income Tax Return correctly. The Respondent merely alleges negligence in this appeal. Having the duty, failing to carry out that duty and by that means causing damage to the estate and to the revenue are the constituent elements of the assessment under subsection 152(4). That is what Mr. Kohl did; although it is understandable, since the T-4s were in a new and unknown name - MRS Trust Company. Nonetheless, Mr. Lewans had told him to bring all papers received because the two of them were concerned about the discrepancy between the Mackenzie Financial letter's figures and the T-4 amounts.
+[11] For these reasons, the Minister properly reopened the 1996 tax return of the deceased pursuant to subsection 152(4) of the Income Tax Act due to the failure to report income of $40,953 from the deemed disposition of all the deceased's RRSPs which failure amounted to a misrepresentation that was attributable to neglect or carelessness. Therefore the appeal is dismissed.
+[12] However, Canada Revenue Agency did not claim the $40,953 income in its Notice of Reassessment dated 12 November, 1997 (Exhibit A-1, Tab 12) when this could have been resolved and Mr. Kohl, who died of cancer in January, 2005, was alive to testify. For this reason, no costs are awarded to either party.
+Signed at Kelowna, British Columbia, this 31st day of October, 2006.
+"D.W. Beaubier"
+Beaubier, J.
+CITATION: 2006TCC572
+COURT FILE NO.: 2003-754(IT)G
+STYLE OF CAUSE: Estate of Herman Gebhart v. The Queen
+PLACE OF HEARING: Regina, Saskatchewan
+DATE OF HEARING: October 16, 2006
+REASONS FOR JUDGMENT BY: The Honourable Justice D.W. Beaubier
+DATE OF JUDGMENT: October 31, 2006
+APPEARANCES:
+Counsel for the Appellant:
+Gregory A. Swanson
+Counsel for the Respondent:
+Julien Bedard
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Gregory A. Swanson
+Firm: Robertson Stromberg Pedersen LLP
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

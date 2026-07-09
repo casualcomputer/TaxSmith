@@ -1,0 +1,284 @@
+---
+title: "Match Action Inc. c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/343661/index.do"
+last_modified: "2018-08-30"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2018 CCI 171"
+citation2: ""
+neutral_citation: "2018 CCI 171"
+decision_date: "2018-08-30"
+language: "fr"
+item_id: "343661"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4921
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T17:46:46.215000+00:00"
+cases_cited_count: 2
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "357208bb6aeb516820fe97b24383eacd8f2943ae97e1eeef3a2401a0ff0ad9f8"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Match Action Inc. c. M.R.N.
+
+- Citation: 2018 CCI 171
+- Decision date: 2018-08-30
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4921, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Match Action Inc. c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2018-08-30
+Référence neutre
+2018 CCI 171
+Numéro de dossier
+2016-1748(EI), 2016-1749(CPP), 2016-5369(CPP), 2016-5370(EI)
+Juges et Officiers taxateurs
+Réal Favreau
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossiers : 2016-1748(EI), 2016-1749(CPP),
+2016-5369(CPP), 2016-5370(EI)
+ENTRE :
+MATCH ACTION INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appels entendus le 27 avril 2018, à Toronto (Ontario)
+Devant : L’honorable juge Réal Favreau
+Comparutions :
+Avocat de l’appelante :
+Me Gregory J. Power
+Me Edward O’Dwyer
+Avocat de l’intimé :
+Me Kanga Kalisa
+JUGEMENT
+Les appels de la décision du ministre du Revenu national rendue aux termes de la Loi sur l’assurance-emploi et du Régime de pensions du Canada, en date du 29 septembre 2016, dans le cas de Tohit Kuthiala, et du 26 janvier 2016, dans le cas de Caitlin Cook-Yeo, sont accueillis et la décision du ministre est annulée, le tout conformément aux motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 30e jour d’août 2018.
+« Réal Favreau »
+Le juge Favreau
+Référence : 2018 CCI 171
+Date : 20180830
+Dossiers : 2016-1748(EI), 2016-1749(CPP),
+2016-5369(CPP), 2016-5370(EI)
+ENTRE :
+MATCH ACTION INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Favreau
+[1] Le présent contentieux porte sur quatre appels entendus sur une preuve commune de décisions du ministre du Revenu national (le ministre) selon lesquelles Tohit Kuthiala et Caitlin Cook-Yeo (les travailleurs) occupaient auprès de l’appelant un emploi ouvrant droit à pension au sens du Régime de pensions du Canada, L.R.C. 1985, ch. C-8 (le RPC) et assurable au sens de la Loi sur l’assurance-emploi, L.C. 1996, ch. 23 (la LAE) du 1er janvier 2013 au 31 décembre 2013 (la période visée).
+[2] La décision du ministre datait du 29 septembre 2016 dans le cas de Tohit Kuthiala et du 26 janvier 2016 dans le cas de Caitlin Cook-Yeo.
+[3] En rendant sa décision dans le cas de Caitlin Cook-Yeo, le ministre s’est fondé sur les hypothèses de fait suivantes : [traduction]
+a) l’appelante était une société située à Toronto, en Ontario;
+b) 8011303 Canada inc. était la seule actionnaire de l’appelante;
+c) l’appelante exploitait une entreprise de marketing expérientiel et de services de vente;
+d) l’objectif principal de l’appelante était d’apparier des partenaires de marque et des consommateurs;
+e) le vice-président exécutif, Antoine Adams, dirigeait les activités quotidiennes de l’appelante et prenait les décisions commerciales importantes;
+f) la travailleuse a posé sa candidature à un poste sur le site Web de l’appelante et a envoyé son curriculum vitæ;
+g) l’appelante a évalué la travailleuse pour déterminer si elle avait les qualifications requises pour offrir certains services;
+h) une fois approuvée, la travailleuse a été placée par l’appelante dans un bassin de travailleurs disponibles pour travailler;
+i) la travailleuse a été embauchée par l’appelante en vertu d’un contrat écrit dans la province de l’Ontario;
+j) le contrat écrit a été accepté de façon électronique;
+k) la travailleuse n’avait pas la possibilité de négocier les conditions de son entente avec l’appelante;
+l) la travailleuse a commencé à travailler pour l’appelante le 15 avril 2011 et a cessé de travailler le 26 avril 2014;
+m) la travailleuse a été embauchée comme démonstratrice de produits;
+n) les tâches de la travailleuse comprenaient la présentation de démonstrations et la promotion des produits des clients de l’appelante;
+o) tous les clients étaient ceux de l’appelante;
+p) la travailleuse a fait principalement des démonstrations de cafetières Nespresso dans les magasins La Baie et Déco Découverte;
+q) la travailleuse a occasionnellement fait des démonstrations d’autres produits, habituellement avec un court préavis et à la demande de l’appelante;
+r) la travailleuse effectuait ses tâches dans les établissements des clients de l’appelante;
+s) l’appelante a offert une formation rémunérée à la travailleuse au moment de l’embauche;
+t) l’appelante supervisait la travailleuse;
+u) un représentant de l’appelante venait surveiller la travailleuse durant ses quarts de travail;
+v) l’appelante disposait d’une base de données en ligne où elle affichait les emplois ou les quarts de travail disponibles;
+w) pour chaque emploi figuraient un lieu, des heures de travail et un taux de rémunération fixes, déterminés par l’appelante en fonction des attentes et des besoins du client de l’appelante;
+x) la travailleuse avait accès à la base de données et pouvait choisir ses emplois ou ses quarts de travail;
+y) l’appelante appelait parfois directement la travailleuse pour lui offrir des quarts de travail supplémentaires;
+z) la travailleuse travaillait surtout le soir et en fin de semaine;
+aa) la travailleuse ne pouvait pas modifier l’heure de début ou de fin des quarts de travail;
+bb) la travailleuse devait communiquer avec l’appelante si elle prévoyait être en retard ou absente pour un quart de travail prévu, ou si son horaire de cours ou d’examens entrait en conflit avec ses quarts de travail;
+cc) la travailleuse avait le choix d’appeler d’autres travailleurs du bassin de travailleurs approuvés par l’appelante pour leur demander de travailler à sa place ou d’appeler directement l’appelante pour modifier son horaire de travail;
+dd) l’appelante avait la responsabilité de rémunérer directement tous les travailleurs, y compris les travailleurs de remplacement;
+ee) l’appelante contrôlait qui travaillait en tout temps;
+ff) la travailleuse inscrivait et consignait ses heures de travail dans un système en ligne de suivi du temps et des présences appelé Natural Insight;
+gg) l’accès à Natural Insight était fourni aux travailleurs par l’appelante;
+hh) la rémunération de la travailleuse variait entre 15 $ et 16 $ de l’heure;
+ii) le taux de rémunération de la travailleuse était déterminé par l’appelante et était fondé sur les modalités du partenariat entre l’appelante et ses clients particuliers, ainsi que sur le budget de l’appelante;
+jj) le taux de rémunération de la travailleuse n’était pas négocié entre les parties;
+kk) le taux de rémunération de la travailleuse variait selon les services et les heures de chaque emploi précis;
+ll) la travailleuse était payée par dépôt direct deux fois par mois;
+mm) l’appelante établissait le mode de rémunération de la travailleuse et sa fréquence;
+nn) la travailleuse n’avait pas à fournir d’outils ou d’équipement pour effectuer son travail pour le compte de l’appelante;
+oo) l’appelante fournissait à la travailleuse tous les outils et l’équipement nécessaires à son travail;
+pp) l’appelante fournissait à la travailleuse la cafetière Nespresso, les dosettes, les tasses de papier, les bâtonnets, le sucre, un tablier et une nappe;
+qq) l’appelante expédiait les fournitures au domicile de la travailleuse, selon ses besoins;
+rr) la travailleuse était responsable de se procurer le lait et la crème, parce qu’il fallait que ces produits soient frais;
+ss) l’appelante remboursait le lait et la crème à la travailleuse sur présentation des reçus;
+tt) la travailleuse devait détailler son utilisation des fournitures dans les feuilles de temps;
+uu) la travailleuse n’avait pas à payer pour utiliser les outils, l’équipement et les fournitures de l’appelante;
+vv) la travailleuse n’engageait aucune dépense relativement aux services qu’elle rendait à l’appelante;
+ww) la travailleuse était tenue de se vêtir d’une certaine façon lorsqu’elle travaillait pour l’appelante, en portant des vêtements de couleur noire et le tablier griffé qui lui était fourni par l’appelante et par les clients de l’appelante;
+xx) les fonctions de la travailleuse étaient essentielles à l’entreprise qui en tirait parti;
+yy) la travailleuse était étudiante à l’université durant la période visée;
+zz) la travailleuse n’exploitait pas d’entreprise durant la période visée;
+aaa) la travailleuse n’avait ni nom ni numéro d’entreprise enregistré pendant qu’elle offrait des services à l’appelante;
+bbb) la travailleuse ne facturait pas ses services à l’appelante;
+ccc) la travailleuse ne faisait pas de publicité pour ses services;
+ddd) la travailleuse ne fournissait pas de services similaires à d’autres payeurs;
+eee) l’appelante a établi un feuillet T4A au nom de la travailleuse pour la période visée;
+fff) l’appelante a établi un feuillet T4A au nom de la travailleuse comprenant ses gains dans la case 28, « Autres revenus »;
+ggg) la travailleuse a déclaré ses revenus de 2013 provenant de l’appelante dans la case « Autres revenus »;
+hhh) l’appelante employait d’autres travailleurs durant la période visée;
+iii) l’appelante a initialement établi un total de 242 feuillets T4 pour 2013;
+jjj) l’appelante a initialement établi un total de 2 267 feuillets T4A pour 2013.
+[4] Dans le cas de Rohit Kuthiala, le ministre s’est appuyé sur des hypothèses de fait similaires, sauf pour les hypothèses suivantes, qui tiennent principalement compte des particularités du travail qu’il effectuait pour l’appelante :
+[...] [traduction]
+b) l’appelante a constitué son entreprise en société le 1er janvier 2005;
+[...]
+f) l’appelante contrôlait les activités quotidiennes et prenait les décisions d’affaires importantes;
+[...]
+l) le travailleur a commencé à travailler pour l’appelante le 17 août 2012 et a cessé de travailler le 21 décembre 2013;
+m) le travailleur a été embauché comme démonstrateur de marque;
+[...]
+p) le travailleur faisait des démonstrations de produits pour des produits comme des téléviseurs intelligents Samsung dans des grands magasins, comme Best Buy;
+[...]
+u) durant les vérifications ponctuelles, un représentant de l’appelante :
+(i) s’assurait que le travailleur était sur place;
+(ii) s’assurait que le travailleur effectuait le travail demandé;
+(iii) se faisait passer pour un client intéressé afin d’évaluer le travail du travailleur;
+v) le travailleur était tenu de fournir des rapports à l’appelante, résumant ses quarts de travail (p. ex. un résumé des réussites, le nombre de clients, etc.);
+w) les rapports étaient soumis par l’entremise du système en ligne de l’appelante;
+[...]
+dd) le travailleur ne pouvait pas sous-traiter son travail ou embaucher des assistants à sa discrétion;
+ee) si le travailleur devait se faire remplacer pour un quart de travail, il pouvait s’adresser à d’autres travailleurs dans le bassin de travailleurs approuvés par l’appelante et leur demander d’effectuer le travail à sa place;
+ff) l’appelante avait la responsabilité d’embaucher tous les travailleurs;
+[...]
+rr) l’appelant livrait habituellement le matériel requis directement aux établissements de ses clients;
+ss) le travailleur n’avait pas à payer pour utiliser les outils, l’équipement et les fournitures de l’appelante;
+tt) l’appelante remboursait les frais de kilométrage au travailleur, si celui-ci devait se déplacer à l’extérieur de sa région;
+u) le travailleur n’engageait aucune dépense relativement aux services qu’il rendait à l’appelante;
+vv) selon le travail, le travailleur était tenu de porter des vêtements griffés;
+ww) les vêtements griffés étaient fournis par l’appelante;
+xx) la relation de travail entre le travailleur et l’appelante était de nature continue.
+[...]
+[5] M. Michael Holmes, directeur des opérations de l’appelante depuis 2011, a témoigné à l’audience. Il a expliqué que l’appelante était une entreprise de marketing offrant des services complets qui produit des vidéos d’entreprise, mène des études de marché et fournit des services sur le terrain, comme des initiatives de marketing (par exemple, remise des coupons-cadeaux lors d’événements spéciaux), le marchandisage (s’assurer que les produits des clients sont sur les tablettes des magasins) et l’aide à la vente (faire des présentations aux clients sur les produits en magasin).
+[6] M. Holmes a expliqué que les programmes de marketing sont établis en consultation avec les clients de l’appelante. La durée des programmes est déterminée par les clients de l’appelante. Ils peuvent durer de quelques heures à plusieurs semaines ou plusieurs mois, et peuvent être organisés à l’échelle locale, régionale, provinciale ou nationale. En 2013, l’appelante avait une vingtaine de clients, mais le flux des contrats entrants n’était pas stable durant cette année-là. La volatilité des activités de l’entreprise empêchait le recours à un modèle de relation d’employeur à employé. Les travailleurs embauchés par l’appelante étaient souvent des étudiants ou des personnes plus âgées recherchant des horaires de travail flexibles.
+[7] M. Holmes a présenté ensuite le processus de recrutement des nouveaux travailleurs. Les offres de travail sont affichées sur les sites Web, avec une description générale des emplois et les lieux où les services seront rendus. Les personnes intéressées par les postes sont invitées à envoyer leur curriculum vitæ et à indiquer leur disponibilité quant au territoire et leurs journées de travail privilégiées.
+[8] Les candidats sont ensuite sélectionnés par l’appelante lors d’entrevues de face à face sur internet ou simplement par un échange de courriels pour déterminer si le candidat a les compétences propres à certains services offerts à un groupe de clients. Lorsqu’un candidat est approuvé, il doit signer, par voie électronique, une convention d’entrepreneur indépendant aux termes de laquelle il convient d’exécuter les services pour le compte de l’employeur à titre d’entrepreneur indépendant. Une fois la convention d’entrepreneur indépendant signée, l’appelante place le travailleur dans le bassin de travailleurs prêts à travailler sous contrat. Les travailleurs du bassin de l’appelante peuvent alors s’inscrire sur Match View, le système web de l’appelante, afin de recenser les contrats disponibles. Les renseignements sur les clients, la nature exacte du travail, le lieu de travail, le nombre de jours de travail et la rémunération proposée sont alors divulgués aux travailleurs. Les dates, les heures et le lieu des contrats sont habituellement déterminés par les clients de l’appelante.
+[9] Des copies de la convention d’entrepreneur indépendant acceptée par Caitlin Cook-Yeo le 4 avril 2011 et de la convention d’entrepreneur indépendant acceptée par Rohit Kuthiala le 9 août 2012 ont été déposées en preuve comme pièces. La renonciation jointe à chacune des conventions confirme l’acceptation des modalités en cochant les éléments suivants : [traduction]
+- taux de rémunération variable selon le type de projet;
+- statut d’entrepreneur indépendant seulement, sans aucun droit aux droits ou avantages sociaux réservés aux employés de Match Marketing Group Inc., y compris, sans s’y limiter, le droit à l’assurance-emploi, à l’indemnisation des accidents du travail, etc.;
+- responsabilité de l’assurance pour pertes personnelles ou blessures;
+- responsabilité relative aux remises fiscales sur toute rémunération reçue de la part de Match Marketing Group Inc.;
+- entente de non-divulgation;
+- entente de confidentialité.
+[10] Il est précisé dans la convention d’entrepreneur indépendant que le travailleur est libre d’offrir ses services à d’autres clients, dans la mesure où ces clients ne sont pas des concurrents de Match Marketing Group Inc. et dans la mesure où cela n’interfère pas avec les obligations contractuelles du travailleur envers Match Marketing Group Inc. M. Holmes a expliqué que cette interdiction vise à protéger les marques de commerce des clients de l’appelante et que ni l’appelante ni ses clients ne peuvent empêcher un travailleur de travailler pour les concurrents de l’appelante.
+[11] En ce qui a trait à la possibilité pour les travailleurs de négocier leur rémunération, M. Holmes a déposé en pièce un document montrant que le taux horaire payé à Caitlin Cook-Yeo était différent de celui payé à d’autres travailleurs effectuant la même mission professionnelle.
+[12] M. Holmes a également souligné que les travailleurs recevaient de la formation avant de commencer une mission professionnelle. La formation comprenait de l’information sur les produits du client, le travail à effectuer, le territoire, les magasins, les exigences en matière de durée et la façon d’accéder à Match View pour déclarer leur travail.
+[13] M. Holmes a présenté des éléments de preuve démontrant que l’Agence du revenu du Canada a rendu, le 3 décembre 2013, des décisions sur l’assurabilité et l’ouverture à pension de l’emploi de quatre travailleurs employés par 1289151 Ontario Inc. pour la période allant du 1er janvier 2011 au 8 juin 2012 et a jugé que pour la période visée, les quatre travailleurs étaient considérés comme des travailleurs autonomes et que leurs services n’étaient pas assurables et n’ouvraient pas droit à pension. 1289151 Ontario Inc. était membre de Match Marketing Group et ces travailleurs offraient des services similaires à ceux offerts par les travailleurs.
+[14] M. Holmes a également fourni des renseignements détaillés sur les missions des travailleurs en 2013.
+[15] Caitlin Cook-Yeo a travaillé comme démonstratrice de produits pour trois sociétés. En 2013, sa mission auprès de Nespresso Canada a été sa principale mission, avec 46 démonstrations en magasin. Elle a donc présenté 46 demandes de paiement pour un total de 256 heures et 15 minutes, et a été payée au taux de 16 $ l’heure 42 fois, 15 $ une fois, 21 $ une fois et 22 $ deux fois.
+[16] La mission auprès de Nespresso Canada consistait à présenter au public les différents types de cafetières, à en démontrer le fonctionnement et à offrir un café gratuit. Il s’agissait d’une mission d’aide à la vente effectuée principalement dans des magasins comme La Baie, Déco Découverte et Williams-Sonoma. Les cafetières, les dosettes de café et le sucre étaient fournis par Nespresso Canada. Elle devait acheter le lait et la crème, qui lui étaient remboursés.
+[17] Son rendement était évalué selon le nombre de cafetières vendues et elle avait droit à une prime en fonction des ventes au cours d’un trimestre. En 2013, elle a reçu des primes totalisant 612 $.
+[18] Nespresso Canada fixe les heures de travail selon l’achalandage en magasin.
+[19] La mission pour SVM Inc. était très similaire à celle de Nespresso. SVM Inc. est une entreprise qui vend des cafetières et du café. Elle souhaitait populariser ses produits en permettant aux gens d’essayer son café dans des épiceries. La travailleuse était payée 16 $ de l’heure pour cette mission.
+[20] La mission pour Rogers Communications Inc. consistait à présenter aux clients de la société la nouvelle procédure d’activation de leurs téléphones cellulaires. Elle travaillait habituellement de 11 h à 18 h dans différentes boutiques Rogers, dont la liste lui était communiquée par Rogers Communications Inc. Elle gagnait 17 $ de l’heure pour cette mission, alors que la tranche de rémunération allait de 16 $ à 20 $ de l’heure. Elle devait porter une chemise fournie par Rogers Communications Inc.
+[21] En 2013, M. Rohit Kuthiala a effectué six missions de travail différentes et gagné au total 8 029,50 $. Les quatre missions les plus importantes étaient pour Les Brasseries Labatt du Canada Ltée (Labatt), Robert Bosch, Samsung Electronics Canada (Samsung) et Rogers Communications Inc. (Rogers).
+[22] La mission pour Labatt était une mission de vérification à l’échelle nationale et consistait à visiter 2 300 magasins durant une période de six mois afin de mesurer le frontal de bière. Au total, 143 travailleurs ont participé à cette mission professionnelle. Il choisissait les magasins qu’il voulait visiter à partir d’une liste fournie par l’appelante. Il disposait de 45 minutes dans un magasin de la Régie des alcools de l’Ontario et 15 minutes dans les autres magasins. Les frais de kilométrage et de repas n’étaient pas payés pour cette mission. Il était payé à un taux fixe de 17,50 $ par magasin, même si la tranche de rémunération se situait entre 17,50 $ et 35 $ de l’heure. On lui a fourni un carnet de vérification et il devait consigner les données recueillies sur Match View.
+[23] La mission pour Rogers était la même que celle à laquelle Caitlin Cook-Yeo était affectée.
+[24] La mission pour Robert Bosch était aussi une mission de vérification, pour la division des outils à moteur. Elle consistait à déterminer le nombre de magasins qui offraient un ensemble de deux perceuses et à compter le nombre d’outils dans les rayons et en stock dans chaque magasin. Il était payé à un taux fixe de 16 $ par visite (magasin), et ses dépenses de déplacements ne lui étaient pas remboursées.
+[25] La mission pour Samsung consistait à visiter des boutiques de téléphones cellulaires pour présenter les caractéristiques du nouveau téléphone GS-4 de Samsung, qui n’était pas encore sur le marché. Il choisissait les magasins qu’il voulait visiter à partir d’une liste sur Match View. Il était payé à un taux fixe de 20 $ par visite (magasin), et avait une heure par magasin pour faire le travail. En une seule journée, le 15 avril 2013, le travailleur a visité 30 boutiques et gagné 600 $ pour cette seule journée.
+Critère juridique applicable
+[26] Le critère qui doit être appliqué pour déterminer si les travailleurs entretenaient une relation d’employeur à employé est résumé dans l’arrêt 1392644 Ontario Inc. (Connor Homes) c. Canada (Revenu National), 2013 CAF 85, aux paragraphes 38 à 41 :
+[38] C’est pourquoi les arrêts Wolf et Royal Winnipeg Ballet exposent une méthode en deux étapes pour l’examen de la question centrale, telle que l’ont définie les arrêts Sagaz et Wiebe Door, qui est d’établir si l’intéressé assure, ou non, les services en tant que personne travaillant à son compte.
+[39] La première étape consiste à établir l’intention subjective de chacune des parties à la relation. On peut le faire soit d’après le contrat écrit qu’elles ont passé, soit d’après le comportement effectif de chacune d’elles, par exemple en examinant les factures des services rendus, et les points de savoir si la personne physique intéressée s’est enregistrée aux fins de la TPS et produit des déclarations d’impôt en tant que travailleur autonome.
+[40] La seconde étape consiste à établir si la réalité objective confirme l’intention subjective des parties. Comme le rappelait la juge Sharlow au paragraphe 9 de l’arrêt TBT Personnel Services Inc. c. Canada, 2011 CAF 256, 422 N.R. 366, « il est également nécessaire d’examiner les facteurs exposés dans Wiebe Door afin de déterminer si les faits concordent avec l’intention déclarée des parties. » Autrement dit, l’intention subjective des parties ne peut l’emporter sur la réalité de la relation telle qu’établie par les faits objectifs. À cette seconde étape, on peut aussi prendre en considération l’intention des parties, ainsi que les modalités du contrat, puisqu’elles influent sur leurs rapports. Ainsi qu’il est expliqué au paragraphe 64 de l’arrêt Royal Winnipeg Ballet, les facteurs applicables doivent être examinés « à la lumière de » l’intention des parties. Cela dit, cependant, la seconde étape est une analyse des faits pertinents aux fins d’établir si le critère des arrêts Wiebe Door et de Sagaz est, ou non, rempli, c’est‑à‑dire si la relation qu’ont nouée les parties est, sur le plan juridique, une relation de client à entrepreneur indépendant ou d’employeur à employé.
+[41] La question centrale à trancher reste celle de savoir si la personne recrutée pour assurer les services le fait, concrètement, en tant que personne travaillant à son compte. Comme l’expliquent aussi bien les arrêts Wiebe Door que Sagaz, aucun facteur particulier ne joue de rôle dominant, et il n’y a pas de formule fixe qu’on puisse appliquer, dans l’examen qui permet de répondre à cette question. Les facteurs à prendre en considération varient donc selon les faits de l’espèce. Néanmoins, les facteurs que spécifient les arrêts Wiebe Door et Sagaz sont habituellement pertinents, ces facteurs étant le degré de contrôle exercé sur les activités du travailleur, ainsi que les points de savoir si ce dernier fournit lui‑même son outillage, engage ses assistants, gère et assume des risques financiers, et peut escompter un profit de l’exécution de ses tâches.
+Application des principes aux faits
+[27] M. Holmes a été la seule personne appelée à témoigner. J’ai estimé qu’il était un témoin crédible.
+Intention
+[28] La première étape consiste à déterminer quelle est l’intention des parties. Je conclus que les parties avaient l’intention claire d’établir une relation de client à entrepreneur indépendant, selon des conventions d’entrepreneur indépendant conclues entre les parties et de la renonciation acceptée par chacun des travailleurs. Il ressort de la preuve que les parties ont constamment traité leur relation comme une relation de client à entrepreneur indépendant. Aucune retenue à la source n’a été faite sur les gains reçus de la part de l’appelante. Les travailleurs n’avaient pas droit aux avantages sociaux offerts aux employés de l’appelante et leurs revenus respectifs étaient déclarés sur un feuillet T4A.
+[29] En outre, je considère que l’intention des parties est cohérente avec la réalité objective.
+Contrôle exercé
+[30] L’appelante ne contrôlait pas la façon dont le travail était fait. La formation donnée aux travailleurs se limitait à la connaissance des produits des clients, pour permettre d’expliquer le cadre défini des missions et la façon de déclarer leur travail sur Match View.
+[31] Les travailleurs travaillaient sans supervision. Lorsqu’une mission était terminée et avait été déclarée sur Match View, l’appelante pouvait effectuer un suivi auprès du travailleur qui avait réalisé la mission professionnelle. À l’occasion, un gestionnaire de marché local de l’appelante pouvait décider d’effectuer une vérification ponctuelle dans un magasin où travaillaient les travailleurs.
+[32] La convention d’entrepreneur indépendant signée par l’appelante avec chacun des travailleurs ne contenait aucun élément de contrôle de la part de l’appelante. Aucune exclusivité de services n’était exigée et les travailleurs étaient libres d’offrir leurs services à d’autres clients. La seule restriction concernait les concurrents. Dans la convention, rien n’est précisé sur la possibilité de sous-traiter le travail à une autre personne. Selon le témoignage de M. Holmes, un travailleur peut sous-traiter du travail à un autre travailleur du bassin établi par l’appelante.
+[33] Dans un tel cas, aucun contrôle n’est exercé sur les travailleurs par l’appelante ou ses clients. L’appelante conclut des contrats avec ses clients pour le dénombrement de ses produits en magasin ou pour la démonstration de ses produits à des jours, des heures et des endroits déterminés. C’est l’essence même du travail que l’appelante sous-traite. La transmission des exigences des clients et des spécifications des contrats aux travailleurs ne constitue pas un élément d’un contrôle exercé sur les travailleurs.
+[34] L’appelante n’exige pas que les travailleurs effectuent un nombre minimal d’heures de travail par semaine, par mois ou par année et le fait pour les travailleurs de ne pas accepter une offre de travail en particulier n’entraîne aucune conséquence. Aucune mesure disciplinaire n’est prise par l’appelante si une plainte est déposée contre un travailleur.
+[35] En me fondant sur la preuve, je suis convaincu qu’il n’y avait aucun élément de contrôle exercé par l’appelante ou ses clients sur les travailleurs et sur la façon dont ils travaillaient pour respecter les conditions de chaque mission. Ce facteur démontre clairement une relation de client à entrepreneur indépendant plutôt qu’une relation d’employeur à employé.
+Fourniture d’équipement
+[36] L’équipement nécessaire pour effectuer le travail était généralement fourni par les clients de l’appelante (p. ex. les cafetières). Le matériel utilisé pour le travail devait être restitué à la fin de la mission (p. ex. les cafetières). Les fournitures achetées par les travailleurs (p. ex. le lait et la crème pour les démonstrations de Nespresso) leur étaient remboursées. Les travailleurs devaient utiliser leur propre moyen de transport pour se rendre sur le lieu de la prestation de services et ces dépenses ne leur étaient généralement pas remboursées, quoique M. Holmes ait indiqué que cela pouvait être négociable.
+[37] Considérant le fait que les travailleurs n’étaient pas tenus d’utiliser leurs propres outils pour effectuer le travail et compte tenu du fait qu’il n’est pas inhabituel pour un employé d’utiliser son propre moyen de transport pour se rendre au bureau de son employeur, je conclus que ce facteur joue en faveur d’un lien d’emploi.
+Possibilités de bénéfices et risques de pertes
+[38] Je suis d’avis qu’il existait un aspect entrepreneurial dans le travail effectué par les travailleurs. Ils pouvaient accepter ou refuser une mission, ils pouvaient choisir les magasins où ils voulaient travailler et ils pouvaient négocier leur taux horaire ou un taux fixe de temps à autre. En théorie, ils pouvaient travailler seuls ou embaucher d’autres personnes pour faire le travail pour eux, même si cela ne s’est jamais produit en l’espèce. Les travailleurs avaient la possibilité de travailler pour d’autres agences qui n’étaient pas en concurrence avec l’appelante. L’appelante n’exigeait pas un nombre minimum d’heures de travail et les travailleurs n’étaient pas tenus de se présenter au bureau de l’appelante.
+[39] En outre, les travailleurs devaient assumer leurs frais de transport, de repas et d’assurance en cas de pertes ou de blessures.
+[40] Les travailleurs avaient clairement la possibilité de réaliser un profit en faisant leur travail. Caitlin Cook-Yeo a reçu des primes sur la vente de cafetières Nespresso et Rohit Kuthiala a pu gagner 600 $ en une journée en choisissant les 30 boutiques où il a effectué son travail.
+[41] Malgré le fait que les travailleurs doivent assumer certaines dépenses pour exécuter leurs tâches, je ne crois pas qu’ils puissent, de façon réaliste, réaliser une perte en effectuant ce genre de travail.
+[42] En considérant tous ces facteurs, j’arrive à la conclusion qu’il y avait un aspect entrepreneurial dans le travail effectué par les travailleurs et qu’ils travaillaient à leur compte. Ils n’avaient aucune sécurité d’emploi et aucune garantie permanente d’être embauchés par l’appelante ou de fournir des services à l’appelante. Chaque contrat était une mission unique qu’une partie était libre de choisir à son gré. Les travailleurs pouvaient accepter des missions d’autres agences n’étant pas en concurrence avec l’appelante, dans la mesure où cela n’entrait pas en conflit avec les obligations contractuelles des travailleurs envers l’appelante.
+Conclusion
+[43] En l’espèce, les faits appuient l’intention de l’appelante selon laquelle les travailleurs avaient été engagés à titre d’entrepreneurs indépendants.
+[44] Par conséquent, les appels sont accueillis et les décisions du ministre sont annulées.
+Signé à Ottawa, Canada, ce 30e jour d’août 2018.
+« Réal Favreau »
+Le juge Favreau
+RÉFÉRENCE :
+2018 CCI 171
+NOS DES DOSSIERS DE LA COUR :
+2016-1748(EI), 2016-1749(CPP),
+2016-5369(CPP), 2016-5370(EI)
+INTITULÉ :
+Match Action Inc. c. M.R.N.
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+Le 27 avril 2018
+MOTIFS DU JUGEMENT :
+L’honorable juge Réal Favreau
+DATE DU JUGEMENT :
+Le 30 août 2018
+COMPARUTIONS :
+Avocat de l’appelante :
+Me Gregory J. Power
+Me Edward O’Dwyer
+Avocat de l’intimé :
+Me Kanga Kalisa
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Noms :
+Me Gregory J. Power
+Me Edward O’Dwyer
+Cabinet :
+Hicks Morley Hamilton Stewart Storie LLP
+Toronto (Ontario)
+Pour l’intimée :
+Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa, Canada

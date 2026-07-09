@@ -1,0 +1,829 @@
+---
+title: "Ngai v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/305681/index.do"
+last_modified: "2018-01-26"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2018 TCC 26"
+citation2: ""
+neutral_citation: "2018 TCC 26"
+decision_date: "2018-01-26"
+language: "en"
+item_id: "305681"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7309
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T11:54:39.905000+00:00"
+cases_cited_count: 14
+cases_citing_count: 3
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "63cc4219dfc4f6ac65f4fb358f431fa5a5dbcea26e657c4d65da67906e173ebf"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Ngai v. The Queen
+
+- Citation: 2018 TCC 26
+- Decision date: 2018-01-26
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7309, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Ngai v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2018-01-26
+Neutral citation
+2018 TCC 26
+File numbers
+2013-604(IT)G
+Judges and Taxing Officers
+Don R. Sommerfeldt
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2013-604(IT)G
+BETWEEN:
+YIU-CHO NGAI,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeals heard on March 23 and 24, 2016, and on January 30, 2017, at Toronto, Ontario. Written Submissions filed by the Appellant
+on April 3, 2017.
+By: The Honourable Justice Don R. Sommerfeldt
+Appearances:
+Counsel for the Appellant:
+Abba Chima
+Counsel for the Respondent:
+Tony Cheung
+JUDGMENT
+The Appeals from the reassessments (the “Reassessments”) made under the Income Tax Act with respect to the 2005 and 2006 taxation years are allowed and the Reassessments are referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached Reasons.
+There is no award as to costs.
+Signed at Ottawa, Canada, this 26th day of January 2018.
+“Don R. Sommerfeldt”
+Sommerfeldt J.
+Citation: 2018 TCC 26
+Date: 20180126
+Docket: 2013-604(IT)G
+BETWEEN:
+YIU-CHO NGAI,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Sommerfeldt J.
+I. INTRODUCTION [1] These Reasons pertain to the Appeals instituted by Yiu-Cho Ngai in respect of his 2005 and 2006 taxation years. Mr. Ngai was reassessed in respect of those taxation years by the Minister of National Revenue (the “Minister”), as represented by the Canada Revenue Agency (the “CRA”), so as to disallow the deduction of certain expenses. In particular, the Minister initially reassessed Mr. Ngai on April 30, 2009, and subsequently, after considering Mr. Ngai’s earlier notices of objection, again reassessed Mr. Ngai, on September 26, 2011, so as to allow some (but not all) of the expenses that had been previously disallowed.
+II. MATTERS IN DISPUTE [2] The expenses that are the subject of these Appeals have been categorized and tabulated by the Crown as follows:[1]
+2005
+As filed
+Allowed
+Disallowed
+Advertising
+$18,382
+$7,563
+$10,819
+Capital cost allowance
+5,234
+0
+5,234
+Motor vehicle expenses
+12,591
+11,323
+1,268
+Other (consulting/referral expenses)
+79,916
+22,022
+57,894
+Total
+$116,123
+$40,908
+$75,215
+2006
+As filed
+Allowed
+Disallowed
+Advertising
+$31,690
+19,160
+12,530
+Capital cost allowance
+3,928
+0
+3,928
+Legal, accounting & professional fees
+9,730
+3,790
+5,940
+Motor vehicle expenses
+11,870
+9,950
+1,920
+Rent expense
+5,500
+0
+5,500
+Travel expense
+2,665
+0
+2,665
+Other (consulting/referral expenses)
+179,289
+12,269
+167,020
+Total
+$244,672
+$45,169
+$199,503
+Thus, the issue to be determined is whether any of the expenses referred to in the column headed “Disallowed” were deductible by Mr. Ngai in computing his income for 2005 or 2006, as the case may be.
+[3] During the hearing of these Appeals, counsel for the Crown advised that the Crown was conceding the deductibility of some of the expenditures deducted by Mr. Ngai in computing his income for 2005 or 2006, as the case may be. Some of those conceded expenditures will be discussed in these Reasons.
+III. FACTUAL BACKGROUND [4] In 2005 and 2006, Mr. Ngai was a real estate broker working in the greater Toronto area and surrounding areas. He earned commission income and was responsible for the payment of many of his own expenses. In 2005 and 2006, he worked for two or three successive real estate brokerages, as follows:
+a) from January 1, 2005 to mid-2005, he worked at Homelife CultureLink Realty Inc. (“Homelife Culture”);
+b) from mid-2005 to August or September 2006, he worked at Homelife Gold Trade Realty Ltd. (“Homelife Gold”); and
+c) from August or September 2006 to December 31, 2006, he worked at Sutton Group-New Standard Realty Inc. (“Sutton Group”).
+[5] In reassessing Mr. Ngai, the Minister assumed that his gross commission income in 2005 and 2006 was $154,678 and $380,953 respectively, and that he had reported net commission income for those two years in the amounts of $22,161 and $115,375 respectively.
+[6] As indicated above, the totals of the expenses, as set out in the above tables and as claimed by Mr. Ngai, were $116,123 for 2005 and $244,672 for 2006. If those totals were to be subtracted from the gross commission income earned by Mr. Ngai in those two years (as assumed by the Minister), the results would be $38,555 and $136,281 respectively, which are greater than the amounts of net commission income that Mr. Ngai apparently reported for 2005 and 2006 (i.e., $22,161 and $115,375 respectively). This suggests to me that there may have been additional expenses that were deducted by Mr. Ngai in computing his income for 2005 and 2006, which were not disallowed in whole or in part by the CRA, and therefore are not the subject of these Appeals.
+[7] Mr. Ngai testified that in 2005 he lived in a rented basement apartment, but he was flooded out in the summer or fall of 2006, whereupon he rented a two-bedroom condominium, and used the second bedroom as an office for his business.
+IV. ANALYSIS A. Motor Vehicle Expenses and Capital Cost Allowance [8] In computing the profit from his real estate business for 2005 and 2006, Mr. Ngai deducted motor vehicle expenses and capital cost allowance (“CCA”) in respect of two vehicles, a 1997 BMW and a 2003 Mercedes-Benz. The CRA allowed the deduction of the expenses and the CCA in respect of the BMW, but not the Mercedes-Benz, as the CRA was of the understanding that Mr. Ngai did not own the Mercedes-Benz. During the hearing of the Appeals, Mr. Ngai produced a copy of a sales contract[2] showing that Mr. Ngai purchased the Mercedes-Benz on October 23, 2003.
+[9] On the final day of the hearing, when oral submissions were presented, counsel for the Crown advised the Court that, with the production of the above-mentioned sales contract, the Crown was willing to acknowledge that Mr. Ngai was the owner of the Mercedes-Benz in 2005 and 2006, and that the Crown was willing to allow the motor vehicle expenses in respect of the Mercedes-Benz to be deducted on an “as-filed basis” (i.e., the motor vehicle expenses claimed by Mr. Ngai on his 2005 and 2006 tax returns in respect of both the BMW and the Mercedes-Benz would be allowed). Counsel for the Crown also advised that the expenses in respect of the Mercedes-Benz had been determined on the basis that Mr. Ngai used the Mercedes-Benz 85% of the time for business purposes in 2005 and 91% of the time for business purposes in 2006. Accordingly, counsel advised that the Crown is willing to allow the deduction of 85% of the appropriately calculated CCA for 2005 and 91% of the appropriately calculated CCA for 2006. Counsel for Mr. Ngai concurred with that resolution of this particular issue. The Court similarly so concurs.
+B. Rent [10] In computing his business income for 2006, Mr. Ngai, on the first page of his Statement of Business Activities for that year, deducted rent in the amount of $5,500, and on the second page of the same document, in calculating the amount of his business-use-of-home expenses, deducted rent in respect of a workplace in the home in the amount of $3,039.06.[3]
+[11] During his direct examination, Mr. Ngai stated that this rent related to the office that he maintained in the second bedroom of a rented condominium unit. The total rent for the entire unit was $1,250 per month. He said that, in computing his income for 2006, he deducted rent in the amount of $5,500. In his direct examination, he said nothing about the other amount that he had also claimed, i.e., $3,039.06.
+[12] Although Mr. Ngai’s direct examination had drawn to a close at the end of the first day of the hearing, on the morning of the second day of the hearing, counsel for Mr. Ngai requested that the direct examination be reopened to provide clarification concerning the rent deducted by Mr. Ngai in computing his income for 2006. Upon the request being granted, Mr. Ngai testified that the amount of the rent paid by him for the two-bedroom condominium unit was actually $1,430 per month, as evidenced by cheque no. 313 dated September 15, 2006, in the amount of $1,430, and made payable to Gina Cheng Nga Wong.[4] Mr. Ngai testified that the portion of the floor space used for his business represented 37.3% of the total floor space, resulting in a deduction for the year of $5,500, as he had rented the unit for all 12 months of 2006. The math does not work out, as, when I multiplied $1,430 by 0.373 and then by 12, the result was $6,400.68, not $5,500. Furthermore, Mr. Ngai’s statement that he rented the two-bedroom condominium unit for all 12 months of 2006 is not consistent with his testimony that he lived in a rented basement apartment until he was flooded out in the summer or fall of 2006,[5] or with a statement that he made to a CRA official to the effect that he lived in the basement apartment in 2005 and half of 2006 and that he lived in the condominium unit for the other half of 2006.[6]
+[13] During his cross-examination, Mr. Ngai acknowledged that, if he is entitled, in computing his business income for 2006, to deduct rent in the amount of $3,039.06 as a business-use-of-home expense, he is not also entitled to deduct rent in the amount of $5,500 in respect of the office in the second bedroom of his rented condominium unit.
+[14] When Mr. Ngai was re-examined, after his cross-examination, he stated that the rent in the amount of $5,500 did not relate to his home office. Rather, the $5,500 had been paid by him to Homelife Gold as rent for the use of an office at the premises of that brokerage. However, he did not produce any documents that substantiated that the payment of $5,500 had been made to Homelife Gold. He suggested that the applicable portion of that amount had been subtracted from each of the monthly commission-payment cheques paid to him by Homelife Gold. However, there is no documentary evidence to confirm that rent charges were subtracted from the commissions.
+[15] In view of the conflicting explanations provided by Mr. Ngai and in view of his failure to produce any documentation to confirm that the payment of $5,500 was actually paid to Homelife Gold, Mr. Ngai has failed to discharge the burden of proving that the amount was paid as rent for business premises.
+C. Travel Expenses [16] In computing his income from business in 2006, Mr. Ngai deducted the amount of $2,665, which represented the cost of two airline tickets from Toronto to Hong Kong and return.[7] Mr. Ngai explained that he had gone to Hong Kong to meet with John Leung, who was looking for commercial property in Toronto that could be leased. He explained that he was hoping to interest Mr. Leung in a building in Toronto and took with him a business associate named Alvin Young, who was a builder and who could assist Mr. Ngai in promoting his (i.e., Mr. Ngai’s) business to Mr. Leung. In other words, according to Mr. Ngai, Mr. Young went on the trip to facilitate Mr. Ngai’s business. Accordingly, Mr. Ngai paid for, and deducted, the airfare for both himself and Mr. Young. I accept that the trip of Mr. Ngai himself to Hong Kong was for business purposes. However, as Mr. Ngai chose not to call Mr. Young as a witness, Mr. Ngai’s testimony concerning the reason for Mr. Young’s trip to Hong Kong was not corroborated.
+[17] Mr. Leung sent a letter to Mr. Ngai, after Mr. Ngai’s return to Canada. Included in the letter was the following statement:
+Also, with your client, Mr. Alvin Young, came to the meeting showing us how his expertise, as a builder, can employ his company to build a new $100,000 sq. ft. facility in Toronto, Canada for our company.[8]
+In view of the above statement, it seems that Mr. Young went on the trip to promote his own business, and not to promote Mr. Ngai’s business. Therefore, it was not appropriate for Mr. Ngai to deduct the cost of Mr. Young’s airfare, such that the cost of only one airfare (i.e., $1,332.50), and not two, was deductible by Mr. Ngai in computing his income for 2006.
+D. Legal, Accounting and Professional Fees [18] In computing his business income for 2006, Mr. Ngai deducted various amounts apparently paid for legal, accounting and other professional services. Initially, the CRA denied the deduction of many of those expenditures, as they were not supported by appropriate documentation to show that the expenditures had been made or to confirm that they related to Mr. Ngai’s business. The most significant of those expenditures were amounts paid to Mr. Ngai’s solicitor, Anita Leung, allegedly for legal services in respect of his business. Mr. Ngai explained that Ms. Leung charged a monthly retainer, pursuant to which Mr. Ngai paid her the amount of $467.29 (plus GST) per month,[9] in exchange for which she provided miscellaneous legal advice and other legal services from time to time, as needed. Some of those monthly payments were supported by invoices and were allowed by the CRA during the course of the audit.[10]
+[19] The payments that were not supported by a monthly invoice were initially disallowed by the CRA. The most significant item in this category was the amount of $4,672.90 (or $5,000 inclusive of GST) that was paid by Mr. Ngai to his solicitor, Ms. Leung, on April 21, 2006. Mr. Ngai did not produce an invoice or any other documentation whatsoever to explain the nature of this payment, nor did he call Ms. Leung as a witness to provide an explanation of the payment. A copy of the cancelled cheque was produced,[11] such that the CRA acknowledged that the payment had been made; however, there was no indication on the cheque as to whether the payment related to services pertaining to Mr. Ngai’s real estate business or services pertaining to something else, such as his recent bankruptcy, a matrimonial matter, a personal injury matter, or a motor vehicle matter.
+[20] Mr. Ngai has not provided sufficient evidence to prove on a balance of probabilities that the payment of $4,672.90, on April 21, 2006, related to his real estate business. Accordingly, that amount was not deductible.
+[21] Various smaller amounts paid in 2006 to other professionals were also deducted, and some of those were allowed by the CRA, while the remainder were disallowed. During his oral submissions, counsel for the Crown stated that the CRA was conceding all of the amounts deducted in 2006 in respect of legal, accounting and professional fees, other than the payment of $4,672.90 made on April 21, 2006 by Mr. Ngai to Ms. Leung. It is my understanding that the deductions that were conceded at the hearing and that had not previously been allowed by the CRA relate to the following payments: [12]
+Payee
+Date
+Amount
+Anita Leung
+January 6, 2006
+$188.67
+Anita Leung
+May 10, 2006
+467.29
+R.H. Small Claim
+May 24, 2006
+40.00
+Anita Leung
+June 13, 2006
+467.29
+Total
+$1,163.25
+E. Advertising [22] Before analyzing the specific advertising expenditures that are in dispute, it would be helpful to review some of the legal principles that may limit the deductibility of expenses. It is common knowledge that, in computing the income of a taxpayer from a business:
+a) paragraph 18(1)(a) of the Income Tax Act[13] (the “ITA”) precludes the deduction of an outlay or expense except to the extent that it was made or incurred by the taxpayer for the purpose of gaining or producing income from the business;
+b) paragraph 18(1)(h) of the ITA precludes the deduction of many personal or living expenses of the taxpayer;
+c) section 67 of the ITA precludes the deduction of an otherwise deductible outlay or expense, except to the extent that the outlay or expense was reasonable in the circumstances; and
+d) subsection 67.1(1) of the ITA permits the deduction of only 50% of certain expenditures that would otherwise be deductible in respect of the human consumption of food or beverages or the enjoyment of entertainment.
+[23] The Federal Court of Appeal provided a helpful observation in Stapley, which dealt with the application subsection 67.1(1) of the ITA to a real estate agent who gave his clients gift certificates for food and beverages and tickets to sporting events and concerts, although he did not go with his clients to consume the food and beverages or to attend the entertainment. While the case focused primarily on the interpretation of subsection 67.1(1), the Federal Court of Appeal made a few general comments about advertising and promotion as follows:
+… in my respectful opinion, it seems unfair to cut the respondent’s [i.e., the real estate agent’s] deductions in half. The respondent could have purchased flowers or books for his clients and deducted 100 percent of their costs. Likewise, he could have fully “deducted” rebates on his real estate commission or gifts of cash to his clients. Thus, in its current form, section 67.1 interferes with taxpayers’ business decisions and in particular, how they allocate their marketing budgets. It provides them with an incentive to forego purchasing gifts of food and entertainment for the purpose of building and maintaining their client relationships.[14]
+Although the above statement was obiter dicta, it is germane to this Appeal as it indicates that gifts of cash and rebates of real estate commissions may be deductible if they are reasonable in the circumstances and if they are given for the purpose of gaining or producing income, rather than for a personal or other non-business purpose.
+[24] In the context of advertising and promotion, some of the above statutory principles were explained in Ace Salvage as follows:
+In effect, the Income Tax Act presupposes a tax on all business income, reduced only by the deductions scheduled and permitted. It must be demonstrated that the funds expended … were so expended for the purpose of gaining or producing income for the … business. The Court recognizes that there is probably no more ethereal category than “advertising and promotion”, and that indeed in general the interpretation of the tax laws by Revenue Canada has been flexible and generous in allowing the parameters around such a category to encompass a great range of tangential or obliquely related items.[15] [Italics in original.]
+Against the backdrop of the above principles, I will examine the various advertising expenses deducted by Mr. Ngai in computing his income for 2005 and 2006.
+(1) 2005 [25] In computing his income for 2005, Mr. Ngai deducted certain advertising expenses, which included the following:[16]
+Description
+Amount
+Gifts
+$10,537.54
+Marketing
+394.08
+Signage
+199.10
+Status certificate
+706.05
+Ming Pao Daily[17]
+1,277.94
+Sponsorship
+500.00
+Total
+$13,614.71
+The CRA initially disallowed the deduction of all of the above expenditures, but after reviewing documents submitted by Mr. Ngai, the CRA allowed the deduction in full of the expenditures in respect of marketing, signage, the status certificate and the Ming Pao Daily, while maintaining its disallowance of most of the gifts and sponsorship amounts.
+(a) Gifts [26] The purported advertising expenses categorized as gifts included monetary gifts and gifts of high-end merchandise, whose recipients and amounts or values are set out below:[18]
+Name
+Amount
+Jeannie Lee
+$1,050.00
+Shirley Chan
+264.00
+Jenny Chan
+603.00
+Mr. Ansari
+1,000.00
+Eda Wong
+300.00
+Kevin Yu
+1,500.00
+KamKong Wu
+400.00
+Vancy Chu
+2,000.00
+Owners of Lorema Inc.
+1,296.00
+Total
+$8,413.00
+The CRA initially proposed to disallow the deduction of each of the above gifts. In response to the CRA’s proposal letter, Mr. Ngai submitted additional information and supporting documentation to substantiate the business nature of three of the expenditures. Accordingly, the CRA allowed the deduction of the gifts or expenditures made in respect of Shirley Chan ($264), Eda Wong ($300) and KamKong Wu ($400) as expenses that were reasonable in the circumstances or that should be given the benefit of the doubt.[19]
+(i) Jeannie Lee ($1,050) [27] After Mr. Ngai filed notices of objection in respect of the reassessments issued on April 30, 2009, the Appeals Division of the CRA allowed the deduction of $1,050 paid by Mr. Ngai to Jeannie Lee.[20]
+(ii) Jenny Chan ($603) [28] The above expenditure in the amount of $603 in respect of Jenny Chan apparently related to the purchase of jewellery by Mr. Ngai from Eternity Jewellery. Mr. Ngai stated that he gave the jewellery to a client, Jun Yang, who owned Kwan Shun Meat Wholesale and who, using the brokerage services of Mr. Ngai, purchased an industrial unit located at 110 Dynamic Drive, #55.[21]
+[29] The details concerning the purchase of the jewellery are unclear. In an undated document that Mr. Ngai provided to the CRA, he stated that the $603 expenditure was a reimbursement for jewellery that he bought from Jenny Chan’s friend.[22] This appears to be somewhat (but not precisely) consistent with a statement made by Mr. Ngai to the CRA appeals officer to the effect that the payment was a reimbursement to Jenny Chan for jewellery that was purchased on his behalf and that was given to Jun Yang.[23] However, in the written submissions filed by the Appellant on April 3, 2017, Mr. Ngai stated that Jenny Chan owned Eternity Jewellery and that he bought the jewellery in question from her.[24] Thus, it is not clear whether Eternity Jewellery was owned by Jenny Chan or by her friend.
+[30] Although Mr. Ngai provided a copy of the cheque in the amount of $603 issued on April 1, 2005 to Jenny Chan,[25] the “memo” (or description) line on the cheque was left blank. Thus, the purpose for issuing the cheque does not appear on the face of the cheque. Mr. Ngai did not provide any invoice, receipt or other document to corroborate the purchase of the jewellery or the alleged business purpose of the purchase, nor did he call Jenny Chan or Jun Yang as a witness. Accordingly, Mr. Ngai has not proven on a balance of probabilities that the $603 was spent for a business purpose.
+(iii) Mr. Ansari ($1,000) [31] The gift of $1,000 given to Mr. Ansari was made by means of a cheque, a photocopy of which was entered into evidence.[26] The notation in the lower left corner of the cheque clearly indicated that it was given as a wedding gift. Mr. Ngai stated that the recipient of the cheque (i.e. the groom) was the son of an important business contact, such that the gift, as well as Mr. Ngai’s attendance at the wedding, had a business-promotion purpose.
+[32] The CRA took the position that the gift was made for personal, rather than business, purposes.[27] Counsel for the Crown referred me to the Samaan case, in which Justice Paris stated:
+… when asked about certain claims for liquor that was purchased, he [i.e., Mr. Samaan] advised that the item had been taken to a party to which he had been invited, with friends. He said that he had handed out business cards at the party and so felt that the liquor he had purchased was a business expense. It is apparent, though, that the liquor was a gift to [Mr. Samaan’s] host when invited into a social event, unconnected with his business. One cannot convert this obvious personal expense into a business expense by handing out business cards while at a personal, social function.[28]
+[33] Another case containing helpful comments is Ace Salvage, which dealt with a corporation that carried on a scrap-metal processing and sales business and that, in computing its income from that business, deducted horse-racing expenses on the basis that horse-racing was the chief method of advertising the scrap-metal business. The court stated:
+I do not doubt … that some of the activity which surrounded the horse-racing provided contacts, information, leads and help which were of benefit to the salvage business. But it could also easily be argued that [the president of the taxpayer corporation] – (a highly personable and congenial man) going for a cup of coffee, mowing his lawn or attending a wedding could have (and probably has) done the same thing, perhaps even to the same degree. But it could not be argued (except under possibly the most extreme circumstances that are not easily evident to me) that going for a cup of coffee, mowing the lawn, or attending the wedding was for the “purpose of gaining or producing income from the salvage business”…. It might be argued that some small or modest part of the cost of doing so (coffee, lawn, wedding) which could be directly and clearly associated with the income-producing activities of the company might be the responsibility of the company – but no such limited and restricted effort was defined in this appeal. Any such proposal would be required in any event to meet the test of “reasonableness” under section 67 of the Act.[29] [Italics in original; underlining added.]
+[34] I am of the view that, like the party attended by Mr. Samaan in the above-noted case bearing his name, the Ansari wedding attended by Mr. Ngai was a social function, not a business function, and the wedding gift had a personal purpose, not a business purpose. This view is supported by the comments in the above extract from Ace Salvage about attendance at a wedding. Furthermore, Mr. Ngai did not call Mr. Ansari (either the father or the son) as a witness, nor did he provide sufficient evidence to prove on a balance of probabilities that the wedding gift was made for a business purpose. In addition, Mr. Ngai has failed to prove that, in computing his income from his real estate business, it was reasonable in the circumstances to deduct a $1,000 wedding gift.
+(iv) Kevin Yu ($1,500) [35] The CRA initially denied the deduction of the $1,500 gift paid to Kevin Yu. However, when the Appeals Division subsequently reviewed the notice of objection and supporting documents, it allowed the deduction.[30]
+(v) Vancy Chu ($2,000) [36] The $2,000 payment to Vancy Chu was made by means of a cheque dated December 23, 2005 and bearing the notation “gift” in the lower left corner.[31] Mr. Ngai testified that he paid the $2,000 to Ms. Chu to reimburse her for certain travel expenses that she had incurred on his behalf in respect of a trip that he made to Alberta in 2005. In particular, she purchased an airplane ticket for him, hosted him at her home and provided a vehicle for him to drive. Mr. Ngai did not produce copies of any receipts or invoices to substantiate any of the expenses. Mr. Ngai stated that he had friends or clients in Ontario who were interested in the Alberta real estate market, but it appears that he was not working with any serious buyers when he went to Alberta. Furthermore, Mr. Ngai was not licensed in Alberta as a real estate agent or broker.
+[37] One of the items apparently deducted by Mr. Ngai in 2005 and recorded as a gift was a cash expenditure in the amount of $2.95 on October 10, 2005 at the Royal Tyrrell Museum,[32] which is located approximately 140 kilometres northeast of Calgary. When asked at the hearing about this expenditure, Mr. Ngai stated that he did not visit the museum and that he did not remember the expenditure. He could not explain how the $2.95 expenditure came to be deducted in computing his income. If Mr. Ngai, in fact, visited the museum while in Alberta, it suggests that his trip to Alberta may not have been exclusively (or perhaps at all) for business purposes.
+[38] As Mr. Ngai did not provide any documents to support the business nature of his trip to Alberta and did not call Ms. Chu as a corroborating witness, he has not proven on a balance of probabilities that the $2,000 gift or reimbursement (depending on the categorization that one accepts) in 2005 had a business purpose.
+(vi) Owners of Lorema Inc. ($1,296) [39] The last gift listed in the table in paragraph 26 above, in the amount of $1,296, was a payment made on July 20, 2005 to Holt Renfrew to purchase a Louis Vuitton designer purse that Mr. Ngai gave to the owner (or one of the owners) of Lorema Inc. (“Lorema”), which was one of his clients.[33] At one point in the audit or appeals process, Mr. Ngai advised the CRA that Lorema was the owner and seller of commercial premises described as 110 Dynamic Drive, #55-57, the sale of which closed on March 1, 2005,[34] resulting in a commission being paid to Mr. Ngai, for which he desired to express appreciation.[35] Mr. Ngai took this same position in the written submissions that he filed on April 3, 2017.[36] It appears that Mr. Ngai or his representative, Patrick Morris, advised the CRA that the owner of the three units at 110 Dynamic Drive was Lorema; however, the real estate listing summaries produced by Mr. Ngai show that the seller of those units was 767541 Ontario Inc. (“767ON”).[37] It is possible that Lorema and 767ON have common ownership; however, there was no evidence to that effect.[38]
+[40] On another occasion, Mr. Ngai advised the CRA that the owner (in the next two sentences referred to as the “Owner”) (or one of the owners) of Lorema owned a 1997 BMW 328i. At a time when the Owner was stricken with cancer and could no longer drive and when Mr. Ngai’s vehicle had become increasingly unreliable and costly to drive, the Owner loaned his car to Mr. Ngai. To show appreciation for the loan of the car, Mr. Ngai purchased the purse and gave it to the Owner’s wife.[39] When the CRA pointed out the seemingly inconsistent explanations given by Mr. Ngai, he, through his representative, explained that the owner of Lorema and the owner of the 1997 BMW 328i were the same individual.[40] However, in the written submissions that he filed on April 3, 2017, the Appellant stated that a different purse (one purchased on May 15, 2006) was given to the owner of the 1997 BMW 328i.[41]
+[41] To add to the uncertainty, in an undated document that Mr. Ngai submitted to the CRA, he stated that the $1,296 expenditure at Holt Renfrew in 2005 was “a gift item to thank the owner of the BMW 328 for its use.” In the same document, a page later, he said exactly the same thing about a $1,404 expenditure at Holt Renfrew in 2006.[42]
+[42] Like the CRA, I am troubled by the differing explanations provided by Mr. Ngai as to why and when he gave a purse (or perhaps two purses) to the wife of the individual who was the owner of both Lorema and the 1997 BMW 328i.
+[43] Apart from the confusion arising by reason of the multiple explanations provided by Mr. Ngai in respect of the Louis Vuitton purse purchased on July 20, 2005 at Holt Renfrew and the second Louis Vuitton purse purchased on May 15, 2006, also at Holt Renfrew, a further point to consider is raised in the Rail case, in which Justice McArthur stated:
+… [the appellant/taxpayer] is seeking to deduct gifts given to employees (most of which were given to his former spouse), which included perfume, jewellery, hairdresser, cosmetics, baby accessories, alcohol and clothes bought at various high-end stores. Those items clearly appear to be personal expenses, and unreasonable in all cases.[43]
+While Mr. Ngai does not appear to be related to the recipient of either Louis Vuitton purse, he has not provided convincing evidence to prove on a balance of probabilities the alleged business purpose in making the gift. The recipient was not called as a witness to confirm that the purse was given to her for a business purpose, rather than a personal purpose.
+(vii) Entertainment ($1,305.45) [44] Also included in the gift category of the advertising expenses deducted by Mr. Ngai in computing his income for 2005, but not listed in the table in paragraph 26 above, were certain food and entertainment expenditures.
+[45] The cost of providing reasonable food and beverages for a client or customer is generally viewed as an acceptable advertising or promotion expense, as indicated by Justice Mogan in Racco Industrial Roofing:
+… the cost of inviting a customer to lunch or dinner or to a theatrical or sporting event is deductible under paragraph 18(1)(a). By ordinary commercial standards, it is an accepted cost of promoting business akin to advertising….[44]
+While food and entertainment costs may, depending on all the circumstances, be recognized as acceptable advertising or promotion expenses, subsection 67.1(1) of the ITA generally provides that only 50% of those expenditures are deductible.
+[46] The food, beverage and entertainment expenditures deducted by Mr. Ngai as advertising expenses, in computing his income for 2005, included the following items:[45]
+Description
+Amount
+Beer/LCBO
+$ 936.32
+Coffee/Donut/Cambridge
+369.13
+Total
+$1,305.45
+In the course of its audit, the CRA applied subsection 67.1(1) of the ITA, and thus allowed only 50% of the above amounts as a deduction, as follows:[46]
+Description
+Amount
+Beer/LCBO
+$468.16
+Coffee/Donut/Cambridge
+184.56
+Total
+$652.72
+Mr. Ngai did not persuade me that subsection 67.1(1) of the ITA does not apply to the above-mentioned food, beverage and entertainment items.[47]
+(b) Sponsorship ($500) [47] Mr. Ngai paid $500 to Chris Kiepal, who was a client, to sponsor a horse show that was organized and managed by Jan Kiepal, who was the father of Chris Kiepal and the owner of the Forest Hill Equestrian Centre, where the show was held.[48] Through his representative, Mr. Ngai told the CRA that another entity which had committed to sponsor the horse show backed out at the last minute, whereupon Chris Kiepal asked Mr. Ngai to sponsor the show. Mr. Ngai agreed to do so in order to maintain a good client relationship. Due to the late timing of his commitment, Mr. Ngai’s name was not included in the program for the horse show; however, Mr. Ngai testified that throughout the show the announcer periodically mentioned Mr. Ngai and his sponsorship.[49]
+[48] Mr. Ngai did not produce any documentation to confirm that an advertising or business-promotion advantage resulted from this expenditure. He did not call Mr. Kiepal as a witness to corroborate that the payment was for a sponsorship. However, it is clear from the documentary evidence (specifically cheque no. 218) that the $500 expenditure was made and that it was designated as being a sponsorship. As well, I accept Mr. Ngai’s testimony that his sponsorship was announced periodically throughout the horse show.
+[49] The jurisprudence has established that sponsoring a horse show or other sporting event is an acceptable form of advertising.[50] Accordingly, I have concluded that the $500 expenditure by Mr. Ngai in respect of his sponsorship of the horse show was a deductible expense.
+(c) Seller’s Rebate ($1,500) [50] In computing his income for 2005, Mr. Ngai deducted the amount of $1,500, which he paid by cheque dated February 16, 2005 to James H. Chow, who was the solicitor for Jennifer Chan.[51] The memo line of the cheque contains the notation “Jennifer Chan retainer.” Initially, Mr. Ngai categorized the $1,500 expenditure as a consulting or referral fee and explained that Jennifer Chan was the “Buyer and [sic] Seller” of property located at #1705, 725 Don Mills Road, Toronto, (the “Don Mills Property”) and that the payment was “intended for buying her a gift to show my appreciation for her business over time.”[52] However, in the letter which Mr. Morris (Mr. Ngai’s representative at the time) sent to the CRA on August 12, 2011, Mr. Morris described the expenditure as a “Seller’s Rebate.”[53]
+[51] During the audit by the CRA in respect of Mr. Ngai, this expenditure was categorized as a referral fee.[54] The auditor disallowed the deduction of the $1,500 expenditure, apparently because insufficient information was provided to explain the purpose of the expenditure. Candace Keats, the CRA Appeals Officer who initially considered this matter, did not accept the expenditure as deductible because Mr. Ngai had not submitted any documentation to confirm that he was the real estate agent who acted in respect of the sale of the Don Mills Property.[55] In a letter dated November 7, 2012 from Lianne Durant, another CRA Appeals Officer, to Mr. Ngai, she acknowledged that Mr. Ngai had provided her with a copy of an agreement of purchase and sale for the Don Mills Property, showing a completion date of April 30, 2003. She also acknowledged that Mr. Ngai had explained to her that the delay in paying the $1,500 to Ms. Chan was that he was experiencing financial issues. Ms. Durant stated that the expenditure was not deductible as the cheque was not payable to Ms. Chan and the CRA had been unable to confirm the exact nature of the payment or that it was incurred to earn or generate income.[56]
+[52] At the hearing of these Appeals, Mr. Ngai testified that Jennifer Chan was a client, for whom he listed and sold the Don Mills Property. He produced copies of the MLS Listing Agreement[57] and the first page of the Agreement of Purchase and Sale – Condominium Resale in respect of the Don Mills Property.[58] Mr. Ngai testified that he promised in 2003 to pay a rebate to Ms. Chan, but he did not have sufficient money then to do so. He ultimately paid the rebate on February 16, 2005 to Ms. Chan’s solicitor, James H. Chow, who promptly certified the cheque. Mr. Ngai also produced copies of a fax that he sent to the property manager in respect of the Don Mills Property, requesting a copy of the status certificate for that property, and a fax that he sent to another individual who was involved with the sale and purchase, apparently with an attached “Vendor’s Acknowledgment for Waiver-financing.”[59]
+[53] The MLS Listing Agreement and the Agreement of Purchase and Sale referenced in the preceding paragraph clearly confirm that Homelife Culture was the listing brokerage, and the faxed documents described in the preceding paragraph confirm that Mr. Ngai was involved in the sale of the Don Mills Property. The obiter dicta by the Federal Court of Appeal in Stapley, as quoted above,[60] indicates that a real estate agent may deduct a rebate in respect of his real estate commission. By reason of well-established principles in the law of agency, a payment to a solicitor on behalf of the solicitor’s client is equivalent to a payment directly to the client. Accordingly, the payment of $1,500 on February 16, 2005 by Mr. Ngai to Ms. Chan’s solicitor, on her behalf, was deductible by Mr. Ngai in computing his income for 2005.
+(d) Other ($4,767.40) [54] Also included in the advertising expenses deducted by Mr. Ngai in computing his income for 2005 were various amounts aggregating $4,767.40 in respect of which Mr. Ngai did not provide any supporting documentation, either at the CRA audit and appeals phases or in Court. In the absence of any evidence in respect of those expenditures, the CRA’s disallowance of the deduction of those expenditures is upheld.
+(2) 2006 [55] In computing his income for 2006, Mr. Ngai deducted certain advertising expenses, which included the following:[61]
+Description
+Amount
+Gifts
+$20,349.04
+Marketing
+4,852.58
+Signage
+198.47
+Flyer
+200.00
+Ming Pao Daily
+5,478.15
+Other Newspapers
+1,155.09
+Total
+$32,233.33
+The CRA accepted that the amounts expended for signage, a flyer or flyers, the Ming Pao Daily and other newspapers had been incurred by Mr. Ngai and that they related to his business. Accordingly, those expenses were allowed as deductions.
+(a) Gifts [56] The purported advertising expenses categorized as gifts included monetary gifts and gifts of high-end merchandise whose recipients or merchants and amounts or prices are set out below:[62]
+Name
+Amount
+Holt Renfrew
+$1,404.00
+Future Shop
+1,097.03
+Anita Leung
+800.00
+Shirley Chan
+604.00
+Vancy Chu
+740.00
+Vancy Chu
+1,000.00
+Perry So
+850.00
+Jeannie Lee
+1,200.00
+Jeannie Lee
+1,400.00
+Kale Gao
+300.00
+Theresa Pang
+500.00
+Cindy Ho
+1,149.99
+Eternity Jewellery
+4,185.00
+Jeannie Lee
+2,000.00
+Total
+$17,230.02
+The CRA initially proposed to disallow the deduction of each of the above gifts. In response to the CRA’s proposal letter, Mr. Ngai submitted additional information and supporting documentation sufficient to substantiate the business nature of the following expenditures:[63]
+Name
+Amount
+Anita Leung
+$800.00
+Shirley Chan
+604.00
+Kale Gao
+300.00
+Total
+$1,704.00
+Consequently the CRA allowed the deduction of the three gifts set out immediately above on the basis that they were reasonable in the circumstances or that they should be given the benefit of the doubt.[64] I will now discuss the gifts whose deduction was not allowed by the CRA.
+(i) Holt Renfrew ($1,404) [57] As mentioned above, in discussing the Louis Vuitton purse purchased in 2005, on May 15, 2006, Mr. Ngai also purchased another Louis Vuitton purse at Holt Renfrew for a price of $1,300.[65] In computing his income for 2006, he deducted the amount of $1,404, representing the price of the purse plus provincial sales tax in the amount of $104. Mr. Ngai stated that the purse was given as a gift to promote his business. One of the difficulties that the CRA had with this deduction was that the identity of the recipient of the gift was not clear.
+[58] In the letter dated August 12, 2011 that Mr. Ngai’s then representative, Mr. Morris, sent to the CRA, Mr. Morris acknowledged that Mr. Ngai had provided different explanations to the CRA in the course of the audit and in subsequent submissions. Apparently, Mr. Ngai had previously told the CRA that the gift of a Louis Vuitton purse in 2006 related to the loan of the BMW, but Mr. Morris clarified that the gift in 2006 was actually to show appreciation to the person who introduced Mr. Ngai to the seller of three properties, located at 2213 Rodick Road, Markham, Ontario; 8501 Bayview Avenue, Richmond Hill, Ontario; and 143 Willowdale Avenue, North York, Ontario (together, the “Three Properties”).[66] Mr. Morris did not provide the name of that person.
+[59] In the document entitled “Report on an Objection,” prepared by a CRA Appeals officer, Candace Keats, she noted that Mr. Ngai had explained that the $1,404 expenditure related to a gift to the person who had introduced him to the seller of the Three Properties. She also referenced the earlier explanation given by Mr. Ngai during the audit, in which he had indicated that the purse had been given as a gift to the owner of the BMW 328. Given the inconsistencies in Mr. Ngai’s explanations and the CRA’s inability to locate any documentation to confirm that the Three Properties were listed or sold by Mr. Ngai, Ms. Keats maintained the earlier disallowance of the deduction.[67]
+[60] In the undated document that Mr. Ngai submitted to the CRA and that is referenced in paragraph 41 above, he stated that the $1,404 expenditure at Holt Renfrew in 2006 was “a gift item to thank the owner of the BMW 328 for its use.”[68] As already noted above, in the same document, he said exactly the same thing about the $1,296 expenditure at Holt Renfrew in 2005.[69]
+[61] At the hearing, during his direct examination, Mr. Ngai testified that he sold four (not three) properties for Lena Hiu (spelling uncertain) and that he gave a purse to her to show his appreciation.
+[62] During written submissions filed after the conclusion of the hearing, Mr. Ngai reverted to his original position and stated that the $1,404 expenditure at Holt Renfrew on May 15, 2006 was “a gift to the BMW owner for the generosity of allowing me to use the vehicle.”[70]
+[63] Given the inconsistencies in the evidence concerning the recipient of the 2006 gift of a Louis Vuitton purse, Mr. Ngai has failed to prove on a balance of probabilities that the gift was made for the purpose of gaining or producing income from his business.
+(ii) Future Shop ($1,097.03) [64] This expenditure relates to a Canon camcorder and accessories purchased online from Future Shop on August 11, 2006, for a price of $999.99, which, together with shipping ($8.37) and retail sales tax ($88.67), resulted in an expenditure deducted by Mr. Ngai in the amount of $1,097.03.[71] The camcorder was shipped by Future Shop to Winnie Ip, who apparently is a friend or acquaintance of Mr. Ngai. Given Mr. Ngai’s busy schedule and his lack of expertise in respect of photographic equipment, he asked Ms. Ip to purchase the camcorder for him, and he subsequently reimbursed her with cash.[72] Mr. Ngai advised the CRA that the expenditure had been misclassified as a gift for advertising purposes, and that it should have been classified as an office supply.[73]
+[65] As the CRA was unable to confirm that Mr. Ngai had reimbursed Ms. Ip for the purchase of the camcorder or that he actually used the camcorder in his business, the CRA disallowed the deduction.[74] At the hearing, Mr. Ngai testified that he required the camcorder to film virtual tours of properties that he was listing and that he reimbursed, likely in cash, Ms. Ip for the purchase price. In his written submissions filed after the hearing, Mr. Ngai reiterated that he reimbursed his friend who had bought the camcorder on his behalf and that he needed the camcorder to make virtual tours of listed properties.[75]
+[66] I am prepared to accept that Mr. Ngai purchased the camcorder and that he used it in his business. However, it is my understanding that the camcorder is depreciable property, such that Mr. Ngai should have claimed CCA, rather than a deduction, in respect of it.[76]
+(iii) Vancy Chu ($740 and $1,000) [67] In the undated and untitled explanatory document that Mr. Ngai provided to the CRA, he stated that on February 20, 2006 he made two payments, in the respective amounts of $740 and $1,000, to Vancy Chu. The first payment was to reimburse her for out-of-pocket expenses that she incurred in doing research for him in Calgary. The second payment was to buy her a gift for the help which she had given to him to collect data in respect of the Calgary real estate market.[77]
+[68] When Mr. Ngai’s solicitor provided written submissions on behalf of Mr. Ngai, after the hearing had concluded, he attached to those submissions copies of various documents, including photocopies of cheques which seemed to correspond to the payments of $740 and $1,000 made on February 20, 2006 to Ms. Chu. As those documents were not presented to the Court at the hearing, and as counsel for the Crown did not have an opportunity to cross-examine Mr. Ngai in respect of those documents, I have not admitted them into evidence. However, Mr. Ngai’s monthly bank statements, which were admitted into evidence, contain references to the two cheques.[78]
+[69] In the letter that Mr. Morris sent to the CRA on behalf of Mr. Ngai on August 12, 2011, Mr. Morris stated, in explaining the payments of $740 and $1,000, that, “This work is a continuation of that work noted above”, where Mr. Morris described the $2,000 payment made to Ms. Chu in 2005.[79] No further explanation was given in that letter in respect of the two payments in 2006.
+[70] In the written submissions filed by the Appellant after the hearing had concluded, Mr. Ngai indicated that the $740 payment was a reimbursement of research expense, and the $1,000 payment was a market data collection cost. There was no reference to this latter payment being a gift.[80]
+[71] The CRA disallowed the deduction of the $740 and $1,000 payments on the basis that the evidence was insufficient to substantiate the business nature of the expenditures,[81] particularly as there were no receipts or invoices detailing the research expenses that were supposedly reimbursed, and there was no information concerning the clients who were interested in the Alberta real estate market.[82]
+[72] At the hearing, the only testimony of Mr. Ngai pertaining to Vancy Chu related to his trip to Alberta in 2005, the $2,000 payment made to her in that year and the four properties in Alberta in which he was most interested (as they were owned by a joint venture which he had set up earlier).[83] He did not testify in respect of the payments to her in 2006.
+[73] Based on the March and April 2006 bank statements, I accept that the $740 and $1,000 payments were made by Mr. Ngai to Ms. Chu in 2006; however, the evidence is insufficient to verify the research expenses, if any, that were supposedly reimbursed by Mr. Ngai or to prove on a balance of probabilities that the payments were made for the purpose of gaining or producing income and were reasonable in the circumstances.
+(iv) Perry So ($850) [74] The $850 expenditure made by Mr. Ngai in respect of Perry So related to the purchase of a kitchen exhaust fan that Mr. Ngai purchased for a home acquired by Mr. So, who was a client of Mr. Ngai and who was reluctant to acquire the home because he did not like its exhaust fan. When Mr. Ngai offered to pay for the acquisition and installation of a new exhaust fan, Mr. So decided to purchase the home.
+[75] The CRA treated this expenditure as a form of seller’s rebate. The Appeals Division of the CRA allowed the deduction of this expenditure.
+(v) Jeannie Lee ($4,600) [76] In 2006, Mr. Ngai made three payments to Jeannie Lee, the general manager of the Ming Pao Daily, as follows:
+Date
+Amount
+March 6, 2006
+$1,200
+April 5, 2006
+1,400
+December 24, 2006
+2,000
+Total
+$4,600
+[77] The CRA disallowed these expenditures because there was no confirmation that they related to Mr. Ngai’s business. As well, there was no documentation to confirm that the payments had actually been made.[84]
+[78] There is some uncertainty concerning the purpose for which these three payments were made. During the audit and appeals phases of the CRA’s handling of this matter, Mr. Ngai advised the CRA that the $1,200 and $2,000 payments to Ms. Lee were gifts to show his appreciation to her and the $1,400 payment was to reimburse her for her airfare to Hong Kong, where she arranged for one of her contacts in Hong Kong to sign a listing agreement with Mr. Ngai’s brokerage. When Mr. Ngai was cross-examined, he stated that the $1,200 cheque was paid to Ms. Lee to reimburse her airfare, the $1,400 cheque was paid to her to reimburse her hotel costs and other expenses incurred in Hong Kong, and the $2,000 cheque was paid to her as a year-end gift to show his appreciation to her. In the submissions that Mr. Ngai submitted after the hearing, he reverted to his original position, and indicated that the $1,200 payment and the $2,000 payment were gifts to show appreciation and the $1,400 payment was to reimburse Ms. Lee’s airfare.
+[79] During oral submissions at the hearing of these Appeals, counsel for the Crown stated that the only payments to Ms. Lee in 2006 that the Crown is contesting are the two gifts, in the respective amounts of $1,200 and $2,000. It is my understanding that the Crown has conceded that the $1,400 expenditure to reimburse Ms. Lee’s airfare is deductible.[85]
+[80] As there is no admissible documentary proof of the payments of $1,200 and $2,000, and given the inconsistencies in Mr. Ngai’s evidence and his failure to prove that the payments (particularly the $2,000 payment) were made, he has failed to prove on a balance of probabilities that the $1,200 payment and the $2,000 payment were made by him for the purpose of gaining or producing income. As indicated above, the Crown has conceded that the $1,400 payment was deductible.
+(vi) Theresa Pang ($500) [81] At the appeals phase, the CRA allowed the deduction of the $500 gift made by Mr. Ngai to Theresa Pang, who was one of his clients and a referral source. Therefore, this expenditure is no longer in issue.
+(vii) Cindy Ho ($1,149.99) [82] At the appeals phase, the CRA allowed the deduction of the $1,149.99 payment made by Mr. Ngai to Cindy Ho to reimburse her for the cost of a barbecue that Mr. Ngai gave to a significant client, M & S Quality Produce, for use by the employees of that client. Accordingly, this expenditure is no longer in issue.
+(viii) Eternity Jewellery ($4,185) [83] Also at the appeals phase, the CRA allowed the deduction of the $4,185 paid by Mr. Ngai to Eternity Jewellery to purchase an Omega watch,[86] which was given as a gift to Gary Kwok, the owner of M & S Quality Produce, as a gift to show appreciation for Mr. Kwok’s business. Hence, this expenditure is no longer in issue.
+(ix) Entertainment - Gifts ($2,205.73) [84] Also included in the gift category of the advertising expenses claimed by Mr. Ngai in computing his income for 2006 (but not listed in the first table in paragraph 56 above) were the following items, which related to entertainment:[87]
+Description
+Amount
+Beer/LCBO
+$1,251.73
+Cdn Intl Auto Show
+750.00
+Markham Theatre
+204.00
+Total
+$2,205.73
+In the course of its audit, the CRA applied subsection 67.1(1) of the ITA, and thus allowed only 50% of the above amounts as a deduction, as follows:[88]
+Description
+Amount
+Beer/LCBO
+$625.87
+Cdn Intl Auto Show
+375.00
+Markham Theatre
+102.00
+Total
+$1,102.87
+Mr. Ngai did not persuade me that subsection 67.1(1) does not apply to the above-mentioned food, beverage and entertainment items.
+(b) Marketing [85] The marketing expenditures incurred by Mr. Ngai in 2006 are the following:[89]
+Description
+Amount
+Toronto Paragon
+$138.00
+Cdn Intl Auto Show
+750.00
+Toronto Raptors
+56.35
+Beaver Fishery
+148.00
+Siu Fong Chan
+120.00
+Siu Fong Chan
+500.00
+Coffee/Restaurant/Food
+220.53
+Beer Store
+176.88
+Dragon Ball
+450.00
+Oversea Chinese
+140.00
+Taiwan Merchants
+1,000.00
+Total
+$3,699.76
+(i) Toronto Paragon ($138) [86] Mr. Ngai did not provide any explanation or documentation to the CRA during the audit and appeals phases or to the Court during the hearing of these Appeals in respect of the alleged expenditure of $138 to Toronto Paragon. Accordingly, the CRA’s disallowance of this deduction is confirmed.
+(ii) Canadian International Auto Show ($750) [87] It appears that the payment of $750 made in 2006 by Mr. Ngai in respect of the Canadian International Auto Show was tabulated twice by the CRA, once as an entertainment expenditure (see the first table in paragraph 84 above) and again as a marketing expenditure (see the table in paragraph 85 above). Mr. Ngai stated that he only claimed the expenditure once and that the double counting was done by the CRA, not him.[90] As 50% of this expenditure has been allowed as an entertainment expense (see the second table in paragraph 84 above), no further deduction is available.
+(iii) Toronto Raptors ($56.35) [88] Mr. Ngai did not provide any explanation or documentation to the CRA during the audit and appeals phases or to the Court during the hearing of these Appeals in respect of the alleged expenditure of $56.35 to the Toronto Raptors. Therefore, the CRA’s disallowance of this deduction is confirmed.
+(iv) Beaver Fishery ($148) [89] Mr. Ngai did not provide any explanation or documentation to the CRA during the audit and appeals phases or to the Court during the hearing of these Appeals in respect of the alleged expenditure of $148 to Beaver Fishery. Hence, the CRA’s disallowance of this deduction is confirmed.
+(v) Siu Fong Chan ($120 and $500) [90] Mr. Ngai indicated that, from time to time, Siu Fong Chan provided cleaning services for properties listed by him and that she occasionally provided referrals to him. In computing his income for 2006, Mr. Ngai deducted two payments to Ms. Chan, in the respective amounts of $120 and $500. At the audit phase, the CRA allowed the deduction of the $120 payment by Mr. Ngai to Ms. Chan as compensation for cleaning a condominium unit prior to its sale. According to Mr. Ngai, the $500 payment represented a gift to show his appreciation to her; however, he did not produce any cheques or other documentation to substantiate this payment. He was not even aware of the date of the payment.[91] Mr. Ngai produced copies of five cheques paid by him to Ms. Chan, but four of them were each in the amount of $300 and the fifth was in the amount of $100. Therefore, there was not any cheque, or even a combination of two cheques, to substantiate the alleged $500 payment.
+[91] Mr. Ngai has failed to prove on a balance of probabilities that the $500 payment was made to Ms. Chan or, even if it was so made, that it was made for the purpose of gaining or producing income.
+(vi) Entertainment – Marketing ($1,987.41) [92] The entertainment expenditures categorized as marketing expenses in 2006 are the following:[92]
+Description
+Amount
+50%
+Coffee/Restaurant/Food
+$220.53
+$110.27
+Beer Store
+176.88
+88.44
+Dragon Ball
+450.00
+225.00
+Oversea Chinese
+140.00
+70.00
+Taiwan Merchants
+1,000.00
+500.00
+Total
+$1,987.41
+$993.71
+By reason of subsection 67.1(1) of the ITA, the CRA allowed the deduction of 50% of the above expenditures and disallowed the deduction of the other 50%. Mr. Ngai has not persuaded me that subsection 67.1(1) does not apply to those expenditures.
+F. Consulting and Referral Fees [93] In computing his business income for 2005 and 2006, Mr. Ngai deducted a number of payments allegedly made to various individuals. Some of the alleged payments were categorized as consulting fees; others were categorized as referral fees. Many of the payments were allegedly made in cash.
+(1) Consulting Fees [94] The consulting fees that Mr. Ngai allegedly paid are itemized below:[93]
+Recipient
+Amount (2005)
+Amount (2006)
+Ricky Chow
+$40,000.00
+$72,000.00
+Hang Zhou
+26,000.00
+25,000.00
+Maria Poon
+14,500.00
+Qilan Guan
+1,200.00
+Wen Tuo Li
+1,150.00
+Joslyn Chan
+756.00
+EC Home Design
+1,000.00
+Albert Chou
+__________
+4,000.00
+Total
+$84,606.00
+$101,000.00
+[95] At the audit phase, the CRA disallowed most of the above consulting fees for the following reasons:
+a) Mr. Ngai was unable to provide the CRA with documentation to confirm that the amounts were paid by him for a business-related purpose.
+b) Most of the payments were allegedly made in cash, but Mr. Ngai’s bank records did not disclose sufficiently large withdrawals to support the alleged payments.
+c) When the CRA reviewed its files in respect of the first three individuals set out in the above table, who received the largest alleged payments, the CRA was unable to substantiate that those individuals had received and reported the payments, although it acknowledged that not every one of those individuals had filed his or her 2005 and 2006 income tax returns by the time when the CRA audited Mr. Ngai.[94]
+[96] I am somewhat uncertain as to the recipients and amounts of the consulting fees paid by Mr. Ngai in 2005, other than those allegedly paid to Ricky Chow and Zhou Hang. For ease of reference, the names and amounts for 2005 set out in the table immediately above (other than those of Mr. Chow and Mr. Zhou) are repeated below:[95]
+Recipient
+Amount
+Maria Poon
+$14,500.00
+Qilan Guan
+1,200.00
+Wen Tuo Li
+1,150.00
+Joslyn Chan
+756.00
+EC Home Design
+1,000.00
+Total
+$18,606.00
+[97] At the appeals phase, the CRA had a slightly different group of consulting fee recipients (apart from Ricky Chow and Zhou Hang) for 2005, as follows:[96]
+Recipient
+Amount
+Qilan Guan
+$1,200.00
+Wen Tuo Li
+1,150.00
+Joslyn Chan
+756.00
+Jennifer Chan
+1,500.00
+Albert Kwan
+11,250.00
+Theresa Pang
+500.00
+Mr. Shunkla
+500.00
+Winnie Cheung
+1,570.00
+Total
+$18,426.00
+I was not provided with any explanation as to why some of the names and amounts in the two tables are different. The CRA Appeals Officer allowed the deduction of all of the payments shown in the table immediately above, other than the $1,500 paid to Jennifer Chan.[97] The total of those allowed payments is $16,926 (i.e., $18,426 − $1,500). At the hearing, counsel for the Crown confirmed that the Appeals Division of the CRA had allowed the deduction of the consulting fees in the aggregate amount of $16,926 paid to the recipients (other than Jennifer Chan) in the table immediately above.
+(a) Ricky Chow ($40,000 and $72,000) [98] As the table in paragraph 94 indicates, Mr. Ngai allegedly paid $40,000 in 2005 and $72,000 in 2006, as consulting fees, to Ricky Chow, who was a former licensed real estate agent and who, according to Mr. Ngai, provided consulting services to Mr. Ngai. Apart from cheque number 173,[98] dated March 29, 2005, in the amount of $4,000.00 and cheque number 277,[99] dated May 9, 2006, in the amount of $6,600.00, all of the payments to Mr. Chow were allegedly made in cash. The payments made in 2005 were supported by monthly invoices submitted by Mr. Chow. The payments made in 2006 were supported by monthly receipts signed by Mr. Chow. It is curious that invoices were used in 2005 and receipts were used in 2006. It is also curious that the signatures of Mr. Chow on the invoices in 2005 appear to be different from the signatures of Mr. Chow on the receipts in 2006. During the hearing, Mr. Ngai acknowledged that the signatures appear to be different, but he did not provide any explanation as to why that might be the case.
+[99] At the appeals phase, the CRA allowed the deduction of the two payments paid by cheque by Mr. Ngai to Mr. Chow (i.e., $4,000 in 2005 and $6,600 in 2006). The CRA disallowed the deduction of all of the payments to Mr. Chow that were allegedly paid in cash. For the reasons discussed below, I concur with the disallowance of the deduction of the alleged cash payments.
+(b) Hang Zhou ($26,000 and $25,000) [100] Mr. Ngai testified that he hired Hang Zhou as a driver. Mr. Zhou’s duties included driving Mr. Ngai to appointments or site inspections, particularly when Mr. Ngai’s sore back was bothering him, or when he was meeting a client for an entertainment function that would include alcohol, or when there was a site inspection of industrial premises after dark.[100] The CRA disallowed the deduction of the amounts paid by Mr. Ngai to Mr. Zhou ($26,000 in 2005 and $25,000 in 2006), as the actual payments of those amounts could not be confirmed. Mr. Zhou did not file an income tax return for 2005, so the CRA could not ascertain whether he received the alleged payments totalling $26,000 in that year. He did file an income tax return for 2006 and reported $26,312 of “other income,” but there was no documentary confirmation that this was business income earned by him as a driver for Mr. Ngai.[101]
+[101] For the consulting fees allegedly paid in 2005 to Mr. Zhou, Mr. Ngai produced copies of twelve monthly invoices, the first eleven (for January to November) each in the amount of $2,250 and the twelfth (for December) in the amount of $1,250. The total of the invoices is $26,000, which is the amount deducted by Mr. Ngai in computing his income for 2005. For the consulting fees allegedly paid in 2006 to Mr. Zhou, Mr. Ngai produced copies of twelve receipts, the first eleven (for January to November) each in the amount of $2,100 and the twelfth (for December) in the amount of $1,900, resulting in a total of $25,000, which corresponds to the amount deducted by Mr. Ngai in computing his income for 2006. Again, it is curious that invoices were used in 2005 and receipts were used in 2006. On the invoices for 2005, Mr. Zhou’s name appears as “Hang Zhuo,” while on the receipts for 2006, his name appears as “Zhou Hang.” As well, the signatures (which are in Chinese characters) on the invoices for 2005 are written in a manner that is noticeably different (even to a reader with an untrained eye) from the signatures (which are also in Chinese characters) on the receipts for 2006. The inconsistencies between the documents for 2005 and the documents for 2006 might be more imagined than real and may be readily explainable; however, when coupled with the lack of any other proof that the payments were actually made, and without Mr. Zhou testifying to confirm that he received the payments, I am of the view that Mr. Ngai has failed to satisfy the burden of proof that he bears.
+(2) Referral Fees [102] In 2005 and 2006, Mr. Ngai made various payments to other individuals that were categorized as referral fees, notwithstanding that the receipts issued in 2006 for those items described them as being consulting fees. The expenses deducted in the category of referral fees are the following:[102]
+Recipient
+Amount (2005)
+Amount (2006)
+Albert Kwan
+$11,250.10
+$1,886.79
+Sharon Pang
+96.30
+Jennifer Chan
+1,500.00
+Theresa Pang
+500.00
+Mr. Shunkla
+500.00
+Winnie Cheung
+1,570.00
+EC Home
+2,803.74
+Kit Chan
+5,658.00
+Marc Elder
+500.00
+Charles Hui
+3,480.00
+Porise Lau
+4,000.00
+Mario Ng
+7,000.00
+Yee Kwan Wong
+7,000.00
+Tai Yun Heng
+4,000.00
+Xu Xian Dong
+14,000.00
+Leung Siu Yuen
+13,000.00
+Maggie Chau
+7,000.00
+Michael Tam
+_________
+7,000.00
+Total
+$15,416.40
+$77,328.53
+[103] Five of the first six names set out in the above table for 2005 (which lists referral fee recipients) are also shown in the table prepared by the CRA’s Appeals Division, as set out in paragraph 97 above (which lists consulting fee recipients). As indicated above, with the exception of the $1,500 payment to Jennifer Chan, the Appeals Division allowed the deduction of the amounts paid in 2005 to those five individuals.[103]
+[104] Turning to the referral fees paid in 2006, at the audit phase, the CRA allowed the deduction of $2,803.74 paid to EC Home Design (although it was categorized as a consulting fee).[104]
+[105] Based on certain concessions made orally by counsel for the Crown during the submissions phase of the hearing of these Appeals, it is my understanding that the Crown has conceded the deductibility of the following referral fees paid in 2006:[105]
+Recipient
+Amount
+Albert Kwan
+$1,886.79
+Kit Chan
+5,658.00
+Mark Elder
+500.00
+Charles Hui
+3,480.00
+Total
+$11,524.79
+[106] The payments allegedly made in 2006 by Mr. Ngai to Porise Lau ($4,000), Mario Ng ($7,000), Yee Kwan Wong ($7,000), Tai Yun Heng ($4,000), Xu Xian Dong ($14,000), Leung Siu Yuen ($13,000), Maggie Chau ($7,000) and Michael Tam ($7,000) were, according to Mr. Ngai, paid in cash. Given my concerns about alleged cash payments (as discussed below) and given that none of the recipients of the alleged payments was called as a witness to confirm the receipt of those amounts, Mr. Ngai has failed to prove on a balance of probabilities that the payments were made, or if they were made, that they were made for the purpose of gaining or producing income.
+G. Alleged Cash Payments [107] When asked about the source of the cash used to pay the individuals referred to above, Mr. Ngai acknowledged that he did not withdraw money from his bank account. Rather, he explained that, when his parents returned to China (after having lived in Canada for a few years), they did not want to take their Canadian money with them. Therefore, they left him $250,000 in cash, which he was to hold on their behalf, although they gave him permission to borrow against it. Mr. Ngai testified that he kept the cash in the basement suite in which he was residing in 2005 and 2006, notwithstanding that his landlord had ready access to his suite. Mr. Ngai stated that he had no worries about his landlord finding the cash because he (Mr. Ngai) was extremely untidy, his suite was a mess and he had hidden the cash under a pile of disorganized material. Mr. Ngai also stated that he had a small safe, in which he kept some of the cash.
+[108] In the Nichols case, Justice V.A. Miller identified several factors that a judge may consider in assessing the credibility of a witness. She stated the following in respect of the fourth factor:
+… I can consider the overall sense of the evidence. That is, when common sense is applied to the testimony, does it suggest that the evidence is impossible or highly improbable.[106]
+To me, it seems contrary to common sense that an individual would keep $250,000 in cash in a basement suite to which the landlord has ready access. As well, it seems peculiar that Mr. Ngai, who wrote numerous cheques to pay expenses incurred in respect of his business, and who even wrote a $1,000 cheque to make a wedding gift, would use cash to pay many of the consulting and referral fees discussed above.
+[109] As indicated above, the consulting fees paid by Mr. Ngai to Mr. Chow and Mr. Zhou in 2005 were supported by invoices, while the consulting fees paid to them in 2006 were supported by receipts. The same pattern applied to all of the consulting fees and referral fees paid to the other individuals mentioned above, i.e., invoices in 2005 and receipts in 2006. All of the invoices in 2005 for all of the alleged payees bear a striking similarity to one another. As well, all of the receipts in 2006 for all of the alleged payees are remarkably similar to one another. Mr. Ngai acknowledged during his cross-examination that Mr. Chow, at the request of Mr. Ngai, prepared all of the invoices and receipts. Given the above circumstances, I do not have confidence in the veracity of the invoices and receipts.
+H. Lack of Corroboration [110] The hearing of these Appeals took place over three days, with evidence being presented on March 23 and 24, 2016, and oral argument being presented on January 30, 2017. Mr. Ngai was the only witness at the hearing. At the conclusion of his testimony on March 24, 2016, I stated that I had serious concerns about the veracity of some of his testimony and that parts of his testimony cried out for corroboration. I offered to allow him to keep his case open, so as to call corroborating witnesses when the hearing resumed. In particular, I said that his case would be assisted by the testimony of the recipients of many of the gifts and payments whose deductibility had been disallowed by the CRA. Mr. Ngai stated that, due to cultural sensitivities and a desire not to offend or alienate any of his business contacts, he preferred not to ask any of his clients, referral sources, gift recipients or other business associates to testify.
+[111] I am particularly concerned about the lack of corroboration in respect of the alleged business purpose of many of the expenditures discussed above and the lack of corroboration in respect of the alleged expenditures that were supposedly paid in cash. In order to establish the deductibility by a taxpayer of expenditures in circumstances such as these, it is often necessary to establish a link between the amounts deducted and reliable source documents substantiating the payments, or to call witnesses to corroborate the taxpayer’s oral evidence.[107]
+[112] However, corroborating evidence is not always necessary. In Agostini, Justice Boyle stated:
+23. … While supporting, corroborating evidence in writing or from another witness is not required of a taxpayer to discharge his burden of proof, it can prove very helpful….
+39. In order to succeed in a tax appeal, a taxpayer is not required to offer supporting or corroborating evidence, including supporting documentation. A taxpayer can succeed on his own testimony if the judge finds it credible, reasonable and sufficient.[108]
+Mr. Ngai’s difficulty is that I have not found his testimony concerning the payments that he allegedly made in cash to be credible, reasonable or sufficient.
+[113] While, as noted above, corroborating evidence is not always required, it can be very helpful, particularly where are there are concerns about the reliability of a witness’s testimony. In such a situation, common sense suggests that supporting or confirmatory evidence is desirable.[109] As Mr. Ngai chose not to call any witnesses to confirm his testimony concerning the cash payments that he allegedly made, I have serious and significant doubts as to whether those payments were actually made.
+[114] Helpful guidance has been provided by the Federal Court of Appeal, in the context of unsubstantiated deductions, as follows:
+The Income [sic] tax system is based on self monitoring. As a public policy matter the burden of proof of deductions and claims properly rests with the taxpayer. The Tax Court Judge held that persons such as the Appellant must maintain and have available detailed information and documentation in support of the claims they make. We agree with that finding. Ms. Njenga as the Taxpayer is responsible for documenting her own personal affairs in a reasonable manner. Self written receipts and assertion without proof are not sufficient.[110]
+[115] Thus, in some situations, more than an appellant’s oral assertion is required to prove that a particular expenditure was made.[111] Given the concerns expressed above, this is one of those situations. Having offered nothing more than the above-described invoices and receipts (whose veracity I question) and his uncorroborated assertions, Mr. Ngai has failed to prove on a balance of probabilities that he made the alleged cash payments designated as consulting fees or referral fees.
+V. CONCLUSION [116] For the above reasons, these Appeals are allowed and the reassessments (the “Reassessments”) that are the subject of these Appeals are referred back to the Minister for reconsideration and reassessment on the basis that:
+a) Mr. Ngai is allowed to deduct the expenditures (the “Conceded Expenditures”) whose deductibility was conceded by the Crown before or during the hearing of these Appeals;[112]
+b) without limiting the generality of the preceding subparagraph, and for greater certainty, in computing his income for 2005 or 2006, as the case may be, Mr. Ngai is entitled to deduct the following Conceded Expenditures:
+i. the motor vehicle expenses claimed in 2005 and 2006 respectively in respect of the 2003 Mercedes Benz, such expenses (including CCA) to be deducted on an “as-filed basis,” on the understanding that the Mercedes Benz was used 85% of the time for business purposes in 2005 and 91% of the time for business purposes in 2006;[113]
+ii. all of the legal, accounting and professional fees paid by Mr. Ngai in 2006 (other than the payment of $4,672.90 (or $5,000 inclusive of GST) on April 21, 2006 to Anita Leung), including, for greater certainty, $188.67 paid on January 6, 2006 to Ms. Leung, $467.29 paid on May 10, 2006 to Ms. Leung, $467.29 paid on June 13, 2006 to Ms. Leung and $40.00 paid on May 24, 2006 in respect of an expenditure identified as “R.H. Small Claim”;[114]
+iii. expenditures incurred by Mr. Ngai in 2005 in respect of marketing ($394.08), signage ($199.10), a status certificate or certificates ($706.05) and the Ming Pao Daily ($1,277.94);[115]
+iv. gifts or payments made by Mr. Ngai in 2005 to Shirley Chan ($264), Eda Wong ($300), KamKong Wu ($400) and Jeannie Lee ($1,050);[116]
+v. the gift in the amount of $1,500 given by Mr. Ngai to Kevin Yu in 2005;[117]
+vi. 50% of the amounts paid in 2005 by Mr. Ngai for certain entertainment expenditures categorized as gifts, resulting in deductible amounts of $468.16 (described as beer/LCBO) and $184.56 (described as coffee/donut/Cambridge);[118]
+vii. the amounts expended by Mr. Ngai, as advertising expenses, in 2006 for signage ($198.47), a flyer or flyers ($200), the Ming Pao Daily ($5,478.15) and other newspapers ($1,155.09);[119]
+viii. the gifts made in 2006 by Mr. Ngai to Anita Leung ($800), Shirley Chan ($604) and Kale Gao ($300);[120]
+ix. the $850 payment by Mr. Ngai to purchase a kitchen exhaust fan for the home acquired by Perry So;[121]
+x. the $1,400 paid on April 5, 2006 by Mr. Ngai to Jeannie Lee to reimburse her airfare to Hong Kong;[122]
+xi. the $500 gift made in 2006 by Mr. Ngai to Theresa Pang;[123]
+xii. the $1,149.99 payment made in 2006 by Mr. Ngai to Cindy Ho to reimburse her for the cost of a barbecue for a client of Mr. Ngai;[124]
+xiii. the $4,185 payment in 2006 by Mr. Ngai to Eternity Jewellery to purchase a watch for one of his clients;[125]
+xiv. 50% of the amounts paid in 2006 by Mr. Ngai for certain entertainment expenditures categorized as gifts, resulting in deductible amounts of $625.87 paid for beer/LCBO, $375 paid to the Canadian International Auto Show and $102 paid to the Markham Theatre;[126]
+xv. the $120 payment made in 2006 by Mr. Ngai to Siu Fong Chan to compensate her for cleaning a condominium unit prior to its sale;[127]
+xvi. 50% of the amounts paid in 2006 by Mr. Ngai for certain entertainment expenditures categorized as marketing expenses, resulting in deductions described as coffee/restaurant/food ($110.27), Beer Store ($88.44), Dragon Ball ($225), Oversea Chinese ($70) and Taiwan Merchants ($500);[128]
+xvii. the consulting fees paid in 2005 by Mr. Ngai to Qilan Guan ($1,200), Wen Tuo Li ($1,150), Joslyn Chan ($756), Albert Kwan ($11,250), Theresa Pang ($500), Mr. Shunkla ($500) and Winnie Cheung ($1,570);[129]
+xviii. the $4,000 consulting fee paid by Mr. Ngai to Ricky Chow by cheque no. 173, dated March 29, 2005, and the $6,600 consulting fee paid by Mr. Ngai to Mr. Chow by cheque no. 277, dated May 9, 2006;[130]
+xix. the $2,803.74 referral fee (also categorized as a consulting fee) paid in 2006 by Mr. Ngai to EC Home Design;[131] and
+xx. certain other referral fees paid in 2006 by Mr. Ngai to Albert Kwan ($1,886.79), Kit Chan ($5,658), Mark Elder ($500) and Charles Hui ($3,480);[132]
+c) in computing his income for 2005 or 2006, as the case may be, Mr. Ngai is entitled to deduct the following additional expenditures:
+i. the cost, in the amount of $1,332.50, of his own airfare (but not the airfare of Alvin Young) in travelling to and from Hong Kong in 2006;[133]
+ii. the $500 paid to Chris Kiepal in 2005 to sponsor a horse show;[134] and
+iii. the payment of $1,500 on February 16, 2005 by Mr. Ngai to James H. Chow, on behalf of his client, Jennifer Chan;[135]
+d) subject to the applicable rules in the ITA and the Income Tax Regulations,[136] the cost of the Canon camcorder and accessories purchased from Future Shop on August 11, 2006 is to be taken into consideration in calculating the undepreciated capital cost to Mr. Ngai of the depreciable property of the applicable prescribed class in 2006;[137] and
+e) in all other respects, the Reassessments are confirmed.
+[117] As success has been divided, there is no award of costs.
+Signed at Ottawa, Canada, this 26th day of January 2018.
+“Don R. Sommerfeldt”
+Sommerfeldt J.
+CITATION:
+2018 TCC 26
+COURT FILE NO.:
+2013-604(IT)G
+STYLE OF CAUSE:
+YIU-CHO NGAI AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Toronto, Ontario
+DATES OF HEARING:
+March 23 and 24, 2016, and January 30, 2017
+SUBMISSION FILING DATE:
+April 3, 2017
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Don R. Sommerfeldt
+DATE OF JUDGMENT:
+January 26, 2018
+APPEARANCES:
+Counsel for the Appellant:
+Abba Chima
+Counsel for the Respondent:
+Tony Cheung
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Abba Chima
+Firm:
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] See paragraph 9 of the Crown’s Reply.
+[2] Exhibit A-2.
+[3] Exhibit A-3, Tab 44 (see the two-page Statement of Business Activities included with Mr. Ngai’s 2006 T1 General Income Tax and Benefit Return). The second page of this document shows that Mr. Ngai paid rent in 2006 in the amount of $12,156.23 and that, of such amount, $9,117.17 was allocated to his personal use of the rented premises, resulting in a net deduction in the amount of $3,039.06 (i.e., $12,156.23 − $9,117.17).
+[4] Exhibit A-4.
+[5] See paragraph 7 above. There is some uncertainty concerning the timing of the flood which caused Mr. Ngai to vacate the basement apartment, as he stated, in a letter dated March 11, 2009, that there was a flood in August 2005 that damaged some of his records; see Exhibit A-3, Tab 36. It is not clear whether this was the same flood that caused him to vacate the basement apartment.
+[6] Interview Questionnaire, Exhibit A-3, Tab 35, p. N9. It appears that the interview was conducted over the telephone, in stages, on February 28, 2008, March 6, 2008 and March 25, 2008.
+[7] Email dated November 21, 2006 and receipts dated November 28, 2006 from Hyatt Vacation Ltd.; see Exhibit A-3, Tab 15.
+[8] Letter dated December 23, 2006 from John Leung, Managing Director, Asia Pacific of Magic Star Engineering Limited; see Exhibit A-1, Tab 22.
+[9] Exhibit A-1, Tab 21; and Exhibit A-3, Tab 8.
+[10] Photocopies of some of the cancelled cheques paid by Mr. Ngai to Ms. Leung (as well as photocopies of certain bank statements) are in Exhibit A-1, behind Tab 20.
+[11] Exhibit A-1, Tab 20, twenty-first and twenty-second pages from the front.
+[12] CRA working paper re: legal, accounting and professional fees, for 2006; see Exhibit R-1, Tab 5. This working paper indicates that the amount of $40 paid on May 24, 2006 in respect of R.H. Small Claim had been substantiated by supporting documentation and was reasonable in the circumstances; however, the amount was shown in the column headed “Disallowed,” rather than in the column headed “Allowed.” It appears that the CRA may have intended to allow the $40 deduction, but inadvertently entered the amount in the wrong column in the table in its working paper.
+[13] Income Tax Act, RSC 1985, c. 1 (5th supplement), as amended.
+[14] The Queen v Stapley, 2006 FCA 36, ¶30. See also Arthurs v The Queen, 2003 TCC 636, ¶17, which indicates that a modest gift to a business associate may be deductible.
+[15] Ace Salvage Alberta Ltd. v MNR, [1985] 2 CTC 2277, 85 DTC 568 (TCC), ¶14.
+[16] The table of 2005 advertising expenses is taken from Exhibit R-1, Tab 1, p. 1.
+[17] This was a Chinese-language newspaper in which Mr. Ngai advertised regularly.
+[18] The table of 2005 gifts is taken from Exhibit R-1, Tab 1, p. 1.
+[19] Exhibit R-1, Tab 1, p. 2, note IV.
+[20] Cheque no. 152, dated January 25, 2005, in Exhibit A-3, Tab 45, p. 3; and Report on an Objection, Exhibit R-1, Tab 11, p. 37.
+[21] Exhibit A-3, Tab 40, p. 2; and Appellant’s Submissions filed on April 3, 2017, p. 1.
+[22] Exhibit A-3, Tab 40, p. 2.
+[23] Exhibit R-1, Tab 11, p. 37.
+[24] Appellant’s Submissions filed on April 3, 2017, p. 1.
+[25] Cheque No. 174, dated April 1, 2005, Exhibit A-3, Tab 10, p. 3; and Tab 45, p. 11.
+[26] Exhibit A-1, Tab 7; and Exhibit A-3, Tab 10, p. 3, and Tab 45, p. 11.
+[27] Exhibit R-1, Tab 11, p. 37.
+[28] Samaan v The Queen, 2011 TCC 362, ¶8.
+[29] Ace Salvage, supra note 15, ¶14.
+[30] Exhibit R-1, Tab 11, p. 37 & 39.
+[31] Exhibit A-3, Tab 10, p. 3, and Tab 45, chq. 237.
+[32] Exhibit R-1, Tab 1, p. 3.
+[33] The Holt Renfrew invoice in Exhibit A-3, Tab 10 shows the price of the purse as $1,200 and the provincial sales tax as $96.
+[34] Exhibit A-1, Tab 6, p. 3; and Exhibit A-3, Tab 40, item 2.
+[35] Exhibit A-1, Tab 1, p. 1; and Exhibit R-1, Tab 11, p. 37.
+[36] Appellant’s Written Submission filed on April 3, 2017, p. 1.
+[37] Exhibit A-1, Tab 10; and Exhibit A-3, Tab 40, item 2. The listing summaries set out in Exhibit A-1, Tab 10 show the brokerage as being Sutton West Realty Inc.; the listing summaries set out in Exhibit A-3, Tab 40, item 2, show the brokerage as being Sutton Group (as defined in subparagraph 4(c) above). I do not think anything turns on the fact that listing summaries were provided by two different brokerages, particularly as they appear to be related or connected in some manner.
+[38] On the copies of the real estate listing summaries set out in Exhibit A-3, Tab 40, item 2, the name “Lorema Inc.” has been handwritten near, and connected by a line to, the name “767541 Ontario Inc.” However, there is no annotation on the document to describe the actual relationship, if any, between those two corporations.
+[39] Exhibit A-1, Tab 6, p. 2-3, ¶1.03 & 1.03.1.
+[40] Exhibit A-1, Tab 6, p. 3, ¶1.03.1. As best I can tell, there is nothing in the evidence to indicate the name or names of the owner or owners of Lorema and the 1997 BMW 328i.
+[41] Appellant’s Written Submissions filed April 3, 2017, p. 2.
+[42] Exhibit A-3, Tab 40, p. 2 (2005 statement) and p. 3 (2006 statement).
+[43] Rail v The Queen, 2011 TCC 130, ¶39.
+[44] Racco Industrial Roofing Ltd. v The Queen, [1997] 2 CTC 3055, 97 DTC 331 (TCC), ¶5. The two sentences quoted above (as well as additional sentences) were quoted by Justice Sexton in Stapley, supra note 14, ¶24, although Justice Sexton was using the copy of Racco Industrial found at [1997] TCJ No. 332, which shows the above statement as being in ¶4, rather than ¶5. See also Arthurs, supra note 14, ¶13.
+[45] Exhibit R-1, Tab 1, p. 1.
+[46] Ibid.
+[47] In Stapley, supra note 14, the Federal Court of Appeal confirmed that subsection 67.1(1) applies even if the taxpayer providing food or entertainment to a client does not participate in the consumption of the food or the enjoyment of the entertainment.
+[48] Exhibit A-1, Tab 11; Exhibit A-3, Tab 10, p. 3; Tab 40, item 8; and Tab 45, p. 21.
+[49] See also Exhibit A-1, Tab 6, p. 3, ¶1.04.
+[50] King v The Queen, [2000] 4 CTC 2341, 2000 DTC 2544 (TCC), ¶119; and No. 511 v MNR, 19 Tax ABC 248 (TAB), ¶17, 23 and 33.
+[51] Exhibit A-1, Tab 15, p. 3-4; and Exhibit A-3, Tab 38, p. 4-5; and Tab 45, p. 5, chq. 157. It was not clear from the evidence whether Jenny Chan and Jennifer Chan are the same person.
+[52] Exhibit A-3, Tab 40, p. 8.
+[53] Exhibit A-1, Tab 6, p. 4, ¶2.06; and Exhibit A-3, Tab 37, p. 4, ¶2.06
+[54] Exhibit R-1, Tab 3, p. 13.
+[55] Exhibit R-1, Tab 11, p. 44.
+[56] Exhibit R-1, Tab 13.
+[57] Exhibit A-3, Tab 37, Appendix B.
+[58] Exhibit A-3, Tab 38, p. 6.
+[59] Exhibit A-1, Tab 15, p. 1-2. The referenced attachment was not entered into evidence.
+[60] Stapley, supra note 14, ¶ 30.
+[61] The table of 2006 advertising expenses is taken from Exhibit R-1, Tab 4, p. 15.
+[62] The above table itemizing the 2006 gifts was taken from Exhibit R-1, Tab 4, p. 15.
+[63] The above table itemizing the 2006 gifts that were ultimately allowed by the CRA was taken from Exhibit R-1, Tab 4, p. 16.
+[64] Exhibit R-1, Tab 4, p. 16, note V. The working papers prepared by John Katradis, the CRA auditor, contained a table setting out the gifts that were initially disallowed, which is summarized in the first table in paragraph 56 above and a table setting out four gifts or expenditures that were subsequently reconsidered and allowed by the CRA, the first three of which are set out in the second table in paragraph 56 above. The fourth expenditure, which is not shown in the second table in paragraph 56 above, was a payment of $120 to Siu Fong Chan. That payment had been categorized as a marketing expenditure, rather than as a gift, and is discussed below in paragraph 90.
+[65] Exhibit A-3, Tab 10, p. 4.
+[66] Exhibit A-1, Tab 6, p. 4, ¶2.04. Curiously, in ¶2.04 of that letter Mr. Morris stated, “Taxpayer acknowledges that he is owner of the BMW 328 and rectifies an error similar to that indicated at sub-paragraph 1.03.” This statement is confusing because in ¶1.03.1 of the same letter Mr. Morris stated that Mr. Ngai was the owner of a BMW 318 and that the owner of Lorema was the owner of a BMW 328i.
+[67] Exhibit R-1, Tab 11, p. 38.
+[68] Exhibit A-3, Tab 40, p. 3.
+[69] Ibid., p. 2.
+[70] Appellant’s Written Submissions filed on April 3, 2007, p. 2.
+[71] Exhibit A-1, Tab 12.
+[72] Exhibit A-1, Tab 6, p. 3, ¶2.01; and Exhibit A-3, Tab 38, p. 2.
+[73] Exhibit A-3, Tab 40, p. 3.
+[74] Exhibit R-1, Tab 11, p. 38, and Tab 12, p. 51.
+[75] Appellant’s Written Submissions filed April 3, 2017, p. 2.
+[76] Shenanigans Media Inc. et al. v The Queen, 2017 TCC 180, fn 27. See also Agostini v The Queen, 2015 TCC 215, ¶24, which indicated that the cost of depreciable property (certain equipment in that case) was to be capitalized and given CCA treatment, and not deducted as an expense.
+[77] Exhibit A-3, Tab 40, p. 3.
+[78] Exhibit A-3, Tab 46, statements for March 2006 and April 2006.
+[79] Exhibit A-1, Tab 6, p. 3.
+[80] Appellant’s Written Submissions filed on April 3, 2017, p. 2.
+[81] Exhibit R-1, Tab 4, p. 16.
+[82] Exhibit R-1, Tab 11, p. 38.
+[83] See Exhibit A-1, Tab 6, p. 2, ¶1.02; and Tab 9.
+[84] Approximately two months after the hearing, Mr. Ngai submitted to the Court a copy of a cheque in the amount of $1,200, payable to Jeannie Lee. However, counsel for the Crown objected to the admission of that cheque, as he had not had an opportunity to cross-examine in respect of it. Therefore, I have not considered the cheque.
+[85] See the untitled and undated two-page document submitted by counsel for the Crown to the Court on January 30, 2017.
+[86] The price of the watch was $3,875 and the provincial sales tax was $310, resulting in a total expenditure of $4,185.
+[87] The table of 2006 entertainment items is taken from Exhibit R-1, Tab 4, p. 15.
+[88] See Exhibit R-1, Tab 4, p. 15.
+[89] The table of 2006 marketing expenses is taken from Exhibit R-1, Tab 4, p. 16.
+[90] Exhibit A-3, Tab 40, p. 4, item 19.
+[91] Exhibit A-3, Tab 40, p. 4, item 23.
+[92] Exhibit R-1, Tab 4, p. 16.
+[93] The table of consulting fees is compiled from entries in the audit working papers; see Exhibit R-1, Tab 3, p. 13, and Tab 9, p. 30.
+[94] Exhibit R-1, Tab 3, p. 14, and Tab 9, p. 31. See also Exhibit R-1, Tab 11, p.42.
+[95] It appears that, notwithstanding that the CRA auditor had included the $14,500 payment made to Maria Poon, Mr. Ngai had not claimed it as a deduction. See Exhibit R-1, Tab 12, p. 48.
+[96] Exhibit R-1, Tab 11, p. 44.
+[97] Exhibit R-3, Tab 11, p. 44. The $1,500 payment to Jennifer Chan is discussed above at paragraphs 50-53.
+[98] A photocopy of this cheque is set out in Exhibit A-3, Tab 45, p. 9.
+[99] A photocopy of this cheque was not put into evidence; however, the cheque is referenced in the bank statement issued by The Bank of East Asia (Canada) to Mr. Ngai for the period from April 29, 2006 to May 31, 2006. See Exhibit A-3, Tab 46.
+[100] Mr. Ngai explained that on one nighttime site inspection of a warehouse, he was violently attacked. After that experience, he found it safer to have a companion when he inspected industrial premises, particularly during non-office hours.
+[101] Exhibit R-1, Tab 11, p. 43.
+[102] The table of referral fees is compiled from entries in the audit working papers; see Exhibit R‑1, Tab 3, p. 13, and Tab 9, p. 30.
+[103] See paragraph 97 above. The CRA’s Audit Division showed the amount paid to Albert Kwan as being $11,250.10, while the CRA’s Appeals Division appears to have rounded that amount to $11,250.
+[104] Exhibit R-1, Tab 9, p. 31, note IV.
+[105] See the untitled and undated two-page document submitted by counsel for the Crown to the Court on January 30, 2017.
+[106] Nichols v The Queen, 2009 TCC 334, ¶23. See also Chow v The Queen, 2011 TCC 263, ¶17; Dao v The Queen, 2010 TCC 84, ¶9; and Kiwan v The Queen, 2004 TCC 136, ¶204.
+[107] Jacobsen v The Queen, 2012 TCC 25, ¶5 & 18.
+[108] Agostini, supra note 76, ¶23 & 39.
+[109] Sidney N. Lederman et al., The Law of Evidence in Canada, 4th ed. (Markham: LexisNexis, 2014) p. 1205, ¶17.1.
+[110] Njenga v The Queen, [1997] 2 CTC 8, 96 DTC 6593 (FCA), ¶3. See also Norris v The Queen, 2017 TCC 236, ¶18.
+[111] In addition to the Njenga and Norris cases, ibid., see Pakzad v The Queen, 2016 TCC 144, ¶74 & 94; and Jacobsen, supra note 107, ¶6 & 18.
+[112] It is my understanding that most, if not all, of the Conceded Expenditures whose deductibility was allowed by the Crown before the hearing of these Appeals were taken into account by the CRA when issuing the Reassessments. However, as many of those Conceded Expenditures were intermingled in the exhibits or oral evidence with some of the Conceded Expenditures whose deductibility was allowed by the Crown during the hearing or with other expenditures whose deductibility was not allowed, I have included in these Reasons references to all of the Conceded Expenditures of which I am aware.
+[113] See paragraph 9 above.
+[114] See paragraph 21 above.
+[115] See paragraph 25 above.
+[116] See paragraphs 26-27 above.
+[117] See paragraph 35 above.
+[118] See paragraph 46 above.
+[119] See paragraph 55 above.
+[120] See paragraph 56 above.
+[121] See paragraphs 74-75 above.
+[122] See paragraphs 79-80 above.
+[123] See paragraph 81 above.
+[124] See paragraph 82 above.
+[125] See paragraph 83 above.
+[126] See paragraph 84 above.
+[127] See paragraph 90 above. For greater certainty, the CRA’s disallowance of the deductibility of the $500 payment made in 2006 as a gift to Siu Fong Chan is upheld.
+[128] See paragraph 92 above.
+[129] See paragraph 97 above.
+[130] See paragraphs 98-99 above.
+[131] See paragraph 104 above.
+[132] See paragraph 105 above.
+[133] See paragraphs 16-17 above.
+[134] See paragraph 49 above.
+[135] See paragraph 53 above.
+[136] Income Tax Regulations, CRC 1977, c. 945, as amended.
+[137] See paragraph 66 above.

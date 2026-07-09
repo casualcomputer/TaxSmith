@@ -1,0 +1,155 @@
+---
+title: "Corkum v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26715/index.do"
+last_modified: "2005-11-22"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 TCC 755"
+citation2: ""
+neutral_citation: "2005 TCC 755"
+decision_date: "2005-11-22"
+language: "en"
+item_id: "26715"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3396
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T20:06:11.563000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "cb1c7239ed9649588d6ada10b7b7a12021e3bbba25d9ac7b2ba071e2d0cf747f"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Corkum v. The Queen
+
+- Citation: 2005 TCC 755
+- Decision date: 2005-11-22
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3396, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Corkum v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-11-22
+Neutral citation
+2005 TCC 755
+File numbers
+2003-2845(GST)G
+Judges and Taxing Officers
+Cameron Hugh McArthur
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2003-2845(GST)G
+BETWEEN:
+DOUGLAS CORKUM,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on September 30, 2005, at Toronto, Ontario, by
+The Honourable Justice C.H. McArthur
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Suzanne M. Bruce
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Excise Tax Act, notice of which is dated January 3, 2002 and bears number 56149 is allowed, with costs, and the assessment is vacated.
+Signed at Ottawa, Canada, this 22nd day of November, 2005.
+"C.H. McArthur"
+McArthur J.
+Citation: 2005TCC755
+Date: 20051122
+Docket: 2003-2845(GST)G
+BETWEEN:
+DOUGLAS CORKUM,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+McArthur J.
+[1] Douglas Corkum appeals from an assessment of goods and services tax (GST) under subsection 323(1) of the Excise Tax Act. Pursuant to that subsection, where a corporation failed to remit to the Receiver General an amount of net tax as required under subsection 228(2) or (2.3), the directors of the corporation are jointly and severally liable with the corporation, for the amount not remitted and owing, and for interest and penalties.
+[2] A director of a corporation is not liable for a failure under subsection 323(1) where:
+... the director exercised the degree of care, diligence and skill to prevent the failure that a reasonably prudent person would have exercised in comparable circumstances.
+[3] The Minister of National Revenue assessed the Appellant on January 3, 2002 in the amount of $191,459.29 net tax, $62,917.59 interest, and $76,514.67 penalties, for the failure of K.D.N. Distribution and Warehousing Ltd. (K.D.N. or the corporation) to remit net tax for the period January 25, 1993 to December 31, 1995 (the relevant period).
+Background and Facts
+[4] The Appellant who has been working in the warehousing and transportation business since the early 1990s is the son of Bernard Corkum. K.D.N. was incorporated on or about November 9, 1992, and Bernard Corkum arranged that his two sons, Neil and Douglas, be directors. Neil passed away in 1994. Briefly put, the Appellant submits that he was director in name only.
+[5] Douglas Corkum graduated from high school and attended Sheridan College for one year, studying towards becoming "an animal and veterinary assistant". All of his working experience has been in a warehouse, driving a forklift, and supervising others who did the same work. He presently works as a forklift operator earning approximately $15.00 an hour.
+[6] Upon the bankruptcy of K.D.N., the Appellant obtained work as a forklift operator with a third party employer and remains in that position to this day. Bernard Corkum was obviously the primary witness of K.D.N. because he controlled its operations to the exclusion of the Appellant, from the date of incorporation. He explained that he put K.D.N. in Neil and Doug's names because he was having financial problems with a landlord through another company which he owned.
+[7] In April 1997, Bernard Corkum was negotiating a $2,000,000 operating line of credit with the Honk Kong Bank that insisted on his being the sole director of the corporation, and therefore, Douglas resigned. In 1998, K.D.N. was placed into receivership, and then bankruptcy, by the Hong Kong Bank. Bernard Corkum was the only one who had control of the banking and all financial affairs of the corporation. The Bank, of course, recognized that Douglas was a director without any authority in the corporation, and insisted that he resign, and his father be appointed to reflect the realty of the operation. Bernard Corkum stated:[1]
+The Hong Kong Bank wouldn't advance us a $2 million operating line unless I fired Doug as president and director and made myself the director and president of the company, as I was the person that was signing the documents, and I was putting up my house as collateral for the money.
+[8] During the relevant period, Douglas had signing authority at the Royal Bank of Canada, to sign cheques only when Bernard Corkum was out of town. A chartered accounting firm prepared K.D.N.'s financial statements upon direction from Bernard Corkum only, who also dealt with the trustees in bankruptcy, Canada Customs and Revenue Agency, and the procedures of this action. There were several office workers who were responsible for the preparation of remittance documentation to the Minister, and who were under Bernard Corkum's control. Douglas had nothing to do with K.D.N.'s office operation. He was under his father's control. When asked to sign something, he signed without understanding or questioning it. While not relevant to the period in question, Bernard Corkum prepared the Notice of Appeal for Douglas, who did not entirely understand it.
+[9] I now turn to the question of whether the Appellant is liable under section 323 of the Act as a director of K.D.N. for the failure to remit tax as required by subsection 228(2). Also, whether the Appellant has met the "due diligence test" under subsection 323(3) or whether the Minister was statute-barred from assessing the Appellant under subsection 323(5).
+Due diligence - subsection 323(3)
+[10] Whether a director meets the test under subsection 343(3) is a question of fact, and each case is to be decided on its own merits and facts. Pursuant to Soper v. R.[2] an outside director will find it easier to satisfy the due diligence test than an inside director. I have no difficulty in finding that the Appellant was an outside director.
+[11] The facts in this case are not unlike those in Fitzgerald et al. v. M.N.R.[3] In Fitzgerald, the Minister assessed several related taxpayers for unremitted source deductions of Eugene Fitzgerald & Sons Ltd. Mogan J. of this Court, held that the taxpayers could not be held personally liable in as much as the company was their father's corporation which he alone ruled, without permitting any involvement by his children. Judge Mogan stated:[4]
+It appears to me that the Appellants were directors in law (i.e., their names appear in the Company's minute book as directors) but they were not in fact directors. They never met as directors. They never acted alone or in concert as directors. They had no knowledge of the management or administration of the Company's business. They had no equity in the Company. They had no way of compelling the fifth director (Eugene Fitzgerald, the sole shareholder) to disclose any information concerning the Company's financial affairs. They were directors in law only because of their family connection to Eugene Fitzgerald. Although any one of them could have resigned as a director if he or she had thought of it, such resignation would have been a source of family friction and, from the viewpoint of the male Appellants (the three sons), the idea of resigning as a director would not have occurred to them before the idea of quitting their employment.
+I would not hold as a general rule that a passive or inactive director is free from liability under subsection 227.1(1) of the Income Tax Act. For example, a person who consents to being a director of a corporation in order to accommodate a friend or client and then fails to participate as a director in the affairs of the corporation is still very much at risk under subsection 227.1(1). The passive or inactive director is not, per se, free from liability under subsection 227.1(1). But when the passive or inactive director has become a director in the context of a family business operated by a corporation which is dominated by an uncompromising patriarch, the domestic responsibility for maintaining harmony within the family becomes interwoven with the legal responsibility to third parties and, in these circumstances, I think that it is not reasonable to impose the same standard of care, diligence and skill on the passive 'family director' as on the person who is truly free to become a director and does so outside a family context.
+Applying the above proposition to the facts of this case, I hold that the Appellants satisfy the test in subsection 227.1(3) because they exercised the degree of care, diligence and skill that a reasonably prudent person would have exercised in comparable circumstances. I emphasize 'in comparable circumstances' because a reasonably prudent person would, in this feudal family, maintain family harmony by serving as a director in name only and by leaving the management of the business in the hands of the strong-minded patriarch who had managed it successfully for 30 years. ...
+[12] The above reasoning applies equally to the present situation. Douglas had no equity in K.D.N., he had no way of controlling its finances. It was his father's corporation and Douglas did as he was told. In addition, even if he had access to the records, Douglas did not have the ability or background to discern whether K.D.N. was paying its bills and remitting GST to the Minister. He first became aware of K.D.N.'s receivership at the same time as the other warehouse employees, when the Receiver in bankruptcy informed them it was taking over the operation and they were all fired. This in itself is sufficient to allow the appeal, however, there is the further argument under subsection 323(5), which reads:
+An assessment under subsection (4) of any amount payable by a person who is a director of a corporation shall not be made more than two years after the person last ceased to be a director of the corporation.
+[13] I find as a fact that the Appellant resigned as a director on April 21, 1997, and refer to the Ontario Corporation Formula 1.[5] It was obviously prepared by solicitors Cousins & Nadler on behalf of the Appellant and K.N.D. advising the Ontario Ministry of Consumer and Commercial Relations, Companies Branch, that Douglas had resigned as director on April 21, 1997, and was replaced by Bernard Corkum. There is no evidence that it was filed with the Ontario Corporations Branch, but I do not doubt its authenticity.
+[14] I accept the uncontradicted evidence of the Appellant and Bernard Corkum that in April 1997, Douglas resigned as director and Mr. Corkum was appointed. This was done upon the insistence of the Hong Kong Bank and it was a condition precedent to K.D.N. obtaining a $2 million line of credit. Exhibit A-1 is a copy of a letter dated May 1, 1997 from the office of Donald P. Warren, barrister & solicitor, signed by "Lynne", to Mr. Bernard Corkum, stating:
+As you know, I have been speaking with Mr. Warren today concerning this matter and I understand he has also discussed it with you. My instructions from Mr. Warren are that we are to appoint you as President of K.D.N. The necessary corporate papers are being prepared accepting Doug's resignation as President and appointing you as President - with an effective date of April 21, 1997 (being prior to the date of April 22nd - the date upon which you signed the Commitment Letter as President of K.D.N.). Doug will remain as Secretary of K.D.N. and as shareholder. Mr. Warren does not feel it is necessary at this time for you to be a shareholder of K.D.N. I will call you as soon as the paperwork is completed, in order that it can be picked up and signed, as required.
+While the author did not give evidence, its authenticity was not in question. This meets the requirement of subsection 121(2) of the Business Corporations Act which reads in part:
+A resignation of a director becomes effective at the time a written resignation is received by the corporation or at the time specified in the resignation, whichever is later.
+[15] A brief history of this is best stated by Bernard Corkum in his letter of July 1, 2003, to CCRA:[6]
+Douglas Corkum was a director of K.D.N. from November 9, 1992 until April 21, 1997. During this time Doug was never an acting director nor was he involved with any administration or financial matters at K.D.N. Doug was a warehouse manager.
+The entire operation of K.D.N. was run by me, Bernard Corkum, including all the financials of the company.
+On April 21, 1997, I, Bernard Corkum, was appointed as the sole director of K.D.N. (Copy attached).
+All the correspondence with the auditor and Revenue Canada was by Bernard Corkum. The auditor even said that he knew that I was the one running K.D.N. and not Doug Corkum.
+In your letter dated June 2, 2003, in regard to Page 2, Last paragraph - K.D.N. Distribution and Warehousing Ltd. was put into bankruptcy by the Hong Kong Bank on March 31, 1998. The meeting of the creditors was on the 29th day of April, 1998 at 2 p.m. (copy attached).
+[16] The Minister assessed the Appellant by Notice of Assessment dated January 3, 2002, well over two years from the date of the resignation by Douglas. The assessment was therefore statute-barred.
+[17] For these reasons, the appeal is allowed with costs.
+Signed at Ottawa, Canada, this 22nd day of November, 2005.
+"C.H. McArthur"
+McArthur J.
+CITATION: 2005TCC755
+COURT FILE NO.: 2003-2845(GST)G
+STYLE OF CAUSE: Douglas Corkum and
+Her Majesty The Queen
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: September 30, 2005
+REASONS FOR JUDGEMENT BY: The Honourable Justice C.H. McArthur
+DATE OF JUDGMENT: November 22, 2005
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Suzanne M. Bruce
+COUNSEL OF RECORD:
+For the :
+Name: N/A
+Firm: N/A
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Ontario
+[1] Transcript page 6, line 25, and page 7, lines 1 to 6.
+[2] [1997] 3 C.T.C. 242. It is permissible for an outside director to rely on the corporate managers to be responsible for payment of debt obligations.
+[3] 92 DTC 1019.
+[4] Supra, at page 1021.
+[5] Exhibit A-1, page 5
+[6] Exhibit A-6.

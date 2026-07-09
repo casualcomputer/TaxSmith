@@ -1,0 +1,162 @@
+---
+title: "Guest c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29861/index.do"
+last_modified: "2010-06-18"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 CCI 336"
+citation2: ""
+neutral_citation: "2010 CCI 336"
+decision_date: "2010-06-18"
+language: "fr"
+item_id: "29861"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6418
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T12:52:25.484000+00:00"
+cases_cited_count: 0
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "1539ff9c5c84bffeaf4e4089d176bdd10885a6a7317faf801dc83723ef92ae18"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Guest c. La Reine
+
+- Citation: 2010 CCI 336
+- Decision date: 2010-06-18
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6418, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Guest c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2010-06-18
+Référence neutre
+2010 CCI 336
+Numéro de dossier
+2009-2573(IT)I
+Juges et Officiers taxateurs
+Judith Woods
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2009­2573(IT)I
+ENTRE :
+ROSEMARY GUEST,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 11 juin 2010 à Kingston (Ontario)
+Devant : L’honorable juge Judith Woods
+Comparutions :
+Représentant de l’appelante :
+M. James Guest
+Avocat de l’intimée :
+Me Jack Warren
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’encontre des déterminations de la prestation fiscale pour enfants faites en vertu de la Loi de l’impôt sur le revenu pour la période de juillet 2005 à mai 2007 est accueilli, et les déterminations sont déférées au ministre du Revenu national pour nouvel examen et nouvelles déterminations compte tenu de ce qui suit : (1) l’appelante a droit aux prestations fiscales pour enfants reçues pour la période de juillet 2005 à juin 2006 et (2) l’appelante n’a pas droit aux prestations fiscales pour enfants pour la période de juillet 2006 à mai 2007. Chaque partie assumera ses propres frais.
+Signé à Ottawa, Canada, ce 18e jour de juin 2010.
+« J. M. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 6e jour d’août 2010.
+Marie­Christine Gervais, traductrice
+Référence : 2010 CCI 336
+Date : 20100618
+Dossier : 2009­2573(IT)I
+ENTRE :
+ROSEMARY GUEST,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Woods
+[1] Le présent appel porte sur les dispositions relatives aux prestations fiscales pour enfants des articles 122.6 à 122.64 de la Loi de l’impôt sur le revenu (la « Loi »).
+[2] L’appelante, Mme Rosemary Guest, a reçu des prestations fiscales pour enfants mensuelles à l’égard de sa fille durant la période de juillet 2005 à mai 2007. En tout, elle a reçu 2 265,85 $.
+[3] L’Agence du revenu du Canada (l’« ARC ») a procédé à un examen de l’admissibilité de Mme Guest à ces prestations par suite du changement d’état civil indiqué dans la déclaration de revenus de Mme Guest. Il a été décidé que Mme Guest n’avait droit à aucune des prestations décrites ci-dessus.
+[4] Mme Guest a interjeté appel de ces déterminations devant la Cour. Son mari l’a représentée à l’audience et a témoigné pour son compte.
+[5] Dans son témoignage, M. Guest a déclaré qu’il a eu peine à obtenir de l’ARC les raisons pour lesquelles les prestations avaient été refusées. Il a indiqué que la détermination du ministre pour la période de juillet 2006 à mai 2007 (la « deuxième période ») ne lui posait aucun problème, mais qu’il ne pouvait comprendre la détermination du ministre pour la période de juillet 2005 à juin 2006 (la « première période »).
+[6] Les hypothèses du ministre énoncées dans la réponse ne sont pas en litige et sont reproduites ci-dessous.
+[traduction]
+a) au départ, l’appelante a reçu la PFCE pour la période de juillet 2005 à mai 2007 au motif qu’elle était séparée, célibataire, veuve ou divorcée depuis le 31 décembre 2006;
+b) l’appelante était séparée le 31 juillet 2003 ou vers cette date;
+c) environ de novembre 2004 à mars 2006, l’appelante et le conjoint de fait (Jim Guest) ont vécu en union de fait;
+d) environ de mars 2006 à septembre 2007, l’appelante et le conjoint de fait étaient séparés;
+e) l’appelante et le conjoint de fait se sont mariés aux alentours de septembre 2007;
+f) en mai 2008, l’appelante a informé l’Agence du revenu du Canada qu’elle était séparée environ de mars 2006 à septembre 2007;
+g) le revenu net du conjoint de fait pour l’année d’imposition 2004 était de 63 907 $.
+Discussion
+[7] Les observations des parties n’ont porté que sur les prestations reçues pour la première période parce que l’appelante n’a pas contesté le refus d’accorder les prestations pour la deuxième période.
+[8] Au début de ses observations, l’avocat de l’intimée a tout d’abord invoqué les deux moyens suivants à l’appui de la détermination du ministre concernant la première période :
+a) le revenu de M. Guest était suffisamment élevé pour que la prestation soit réduite à zéro conformément à l’élément « B » de la formule figurant au paragraphe 122.61(1) de la Loi; (Ce moyen n’a pas été mentionné dans la réponse.)
+b) Mme Guest a omis de présenter un avis de changement d’état civil dans le délai de prescription de 11 mois prévu au paragraphe 122.62(1) de la Loi.
+[9] Par la suite, l’avocat de l’intimée a abandonné le premier argument et ne s’est fondé que sur le deuxième. Il a déclaré que le défaut de fournir en temps opportun l’avis prévu au par. 122.62(1) était la seule raison pour laquelle les prestations ont été refusées pour la première période. Il convient de féliciter l’avocat de l’intimée pour avoir pris cette position, étant donné que le premier argument n’a pas été mentionné dans la réponse et que l’appelante n’en a reçu aucun avis.
+[10] Il est inutile que je me penche sur le premier argument. Cependant, je suis d’avis de faire un commentaire concernant cet argument, vu la frustration compréhensible que M. Guest a ressentie lorsqu’il essayait de comprendre les dispositions pertinentes. Je ressens une frustration semblable lorsque j’essaie de comprendre la législation en cause. Mme Guest avait, semble-t-il, un choix quant à la façon dont les prestations pouvaient être calculées. Les prestations peuvent être déterminées pour la première période en tenant compte du revenu de M. Guest pour l’année de base 2004 parce que Mme et M. Guest vivaient en union de fait à la fin de l’année (définition de « revenu modifié » à l’art. 122.6). Le revenu de M. Guest était, semble-t-il, suffisamment élevé pour que les prestations soient refusées. À titre subsidiaire, Mme Guest pouvait choisir que seul son revenu soit pris en compte pour les mois de la première période pendant lesquels le couple était séparé (paragraphe 122.62(6)). Si ce choix avait été fait, il semble qu’il aurait pu donner lieu à un allégement partiel.
+[11] En fin de compte, l’analyse ci-dessus n’est pas pertinente, parce que l’argument de l’intimée n’a porté que sur l’exigence en matière d’avis prévue au paragraphe 122.62(1), lequel est rédigé en ces termes :
+122.62(1) Pour l’application de la présente sous-section, une personne ne peut être considérée comme un particulier admissible à l’égard d’une personne à charge admissible au début d’un mois que si elle a présenté un avis au ministre, sur formulaire prescrit contenant les renseignements prescrits, au plus tard onze mois après la fin du mois.
+[12] Si l’on ne s’en tient qu’au libellé de la disposition, on ne sait pas clairement si elle s’applique ou non à un changement d’état civil. Par ailleurs, on ne m’a pas fourni le formulaire qui a été prescrit pour l’application du paragraphe. Le paragraphe 122.62(1) semble se rapporter aux critères relatifs au « particulier admissible ». L’état civil de Mme Guest n’a rien à voir avec ces critères (définition de « particulier admissible » à l’art. 122.6).
+[13] Après la tenue de l’audience, j’ai examiné le guide le plus récent publié par l’ARC au sujet de la prestation fiscale pour enfants (T4114(F), Rév. 09). En ce qui concerne les changements d’état civil, il prévoit ce qui suit :
+Vous devez nous informer aussitôt que possible par écrit si votre état civil change puisque le montant de la PFCE que vous recevez pourrait être modifié. […] Vous pouvez nous informer de ce changement en remplissant le formulaire RC65, Changement d’état civil. Vous pouvez aussi nous informer de votre nouvel état civil par écrit. Dans votre lettre, vous devez nous indiquer votre nouvel état civil ainsi que la date du changement.
+[14] Comme il n’a aucune incidence sur ma décision, je supposerai, sans toutefois me prononcer sur la question, que le formulaire RC65 est un formulaire prescrit pour l’application du paragraphe 122.62(1).
+[15] L’appelante reconnaît qu’elle n’a avisé le ministre de son changement d’état civil qu’en mai 2008, soit après le délai de 11 mois. La question en litige est alors celle de savoir si le défaut de l’appelante de présenter un avis en temps opportun en vertu du par. 122.62(1) est une raison suffisante pour justifier le refus d’accorder les prestations.
+[16] La position de l’intimée pose un problème : la législation prévoit que le ministre peut soit renoncer à l’exigence en matière d’avis, soit proroger le délai dans lequel l’avis doit être présenté. Les dispositions pertinentes – les paragraphes 122.62(2) et 220(2.1) de la Loi, sont reproduites ci-dessous.
+122.62(2) Le ministre peut, en tout temps, proroger le délai prévu au paragraphe (1).
+220(2.1) Le ministre peut renoncer à exiger qu’une personne produise un formulaire prescrit, un reçu ou autre document ou fournisse des renseignements prescrits, aux termes d’une disposition de la présente loi ou de son règlement d’application. La personne est néanmoins tenue de fournir le document ou les renseignements à la demande du ministre.
+[17] Selon les apparences, le ministre n’a pas examiné la question de savoir s’il convenait de proroger le délai ou de renoncer à l’exigence en matière d’avis en l’espèce. L’avocat de l’intimée n’a pas semblé savoir que le ministre pouvait faire un tel choix. Il a déclaré que le représentant concerné de l’ARC lui avait dit que l’ARC avait les mains liées parce que l’avis n’avait pas été présenté à temps.
+[18] Étant donné l’intention évidente du législateur selon laquelle le ministre peut renoncer à l’exigence en matière d’avis ou proroger le délai, le ministre aurait dû examiner la question avant de décider de refuser d’accorder les prestations dans leur intégralité.
+[19] Vu toutes les circonstances de la présente affaire, je suis d’avis qu’il convient d’accueillir l’appel en ce qui concerne les prestations reçues pour la première période. Pour en arriver à cette conclusion, j’ai pris plusieurs facteurs en considération :
+a) le ministre aurait dû examiner la question de savoir s’il convenait de renoncer à l’exigence en matière d’avis prévue au par. 122.62(1) ou de proroger le délai. Bien que l’affaire puisse être renvoyée au ministre pour qu’il procède à un examen à cet effet, cette voie retarderait indûment le règlement du présent appel;
+b) à l’audience, l’appelante n’a pas contesté le refus d’accorder les prestations pour la deuxième période;
+c) le guide T4114 n’indique pas clairement aux demandeurs qu’ils pourraient se voir refuser des prestations tout simplement pour avoir présenté le formulaire prescrit en retard.
+[20] Vu les circonstances confuses de la présente affaire, j’ai conclu que l’appelante doit avoir droit aux prestations fiscales pour enfants pour la première période. Par conséquent, l’appel sera accueilli en ce qui concerne les prestations fiscales pour enfants pour la première période, mais non pour la deuxième période.
+Signé à Ottawa, Canada, ce 18e jour de juin 2010.
+« J. M. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 6e jour d’août 2010.
+Marie­Christine Gervais, traductrice
+RÉFÉRENCE : 2010 CCI 336
+NO DU DOSSIER DE LA COUR : 2009­2573(IT)I
+INTITULÉ : ROSEMARY GUEST et
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Kingston (Ontario)
+DATE DE L’AUDIENCE : Le 11 juin 2010
+MOTIFS DU JUGEMENT : L’honorable juge J. M. Woods
+DATE DU JUGEMENT : Le 18 juin 2010
+COMPARUTIONS :
+Représentant de l’appelante :
+M. James Guest
+Avocat de l’intimée :
+Me Jack Warren
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom : s.o.
+Cabinet :
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada

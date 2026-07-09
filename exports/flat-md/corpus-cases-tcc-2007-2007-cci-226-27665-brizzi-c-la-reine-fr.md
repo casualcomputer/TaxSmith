@@ -1,0 +1,169 @@
+---
+title: "Brizzi c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27665/index.do"
+last_modified: "2007-05-23"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 CCI 226"
+citation2: ""
+neutral_citation: "2007 CCI 226"
+decision_date: "2007-05-23"
+language: "fr"
+item_id: "27665"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 453
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T09:38:42.130000+00:00"
+cases_cited_count: 0
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "3c937e121936956a96132c300ef7dde9ce52f4adfb01ac14d0bd59d1366edd0b"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Brizzi c. La Reine
+
+- Citation: 2007 CCI 226
+- Decision date: 2007-05-23
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 453, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Brizzi c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-05-23
+Référence neutre
+2007 CCI 226
+Numéro de dossier
+2006-276(IT)I
+Juges et Officiers taxateurs
+François M. Angers
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2006‑276(IT)I
+ENTRE :
+NICOLA BRIZZI,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 5 mars 2007, à Montréal (Québec)
+Devant : L’honorable juge François Angers
+Comparutions :
+Avocat de l’appelant :
+Me Vincent Rose
+Avocate de l’intimée :
+Me Marie‑Aimée Cantin
+____________________________________________________________________
+JUGEMENT
+L’appel de la cotisation en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2001 est accueilli pour corriger le revenu supplémentaire, le faisant passer de 69 232 $ à 65 813 $, en accord avec les motifs du jugement ci‑joints. À tous autres égards, la cotisation est valide.
+Signé à Ottawa, Canada, ce 23e jour de mai 2007.
+« François Angers »
+Juge Angers
+Traduction certifiée conforme
+ce 21e jour de septembre 2007.
+Marie‑Christine Gervais, traductrice
+Référence : 2007CCI226
+Date : 20070523
+Dossier : 2006‑276(IT)I
+ENTRE :
+NICOLA BRIZZI,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Angers
+[1] Il s’agit d’un appel interjeté à l’encontre d’une cotisation établie à l’égard de M. Brizzi pour l’année d’imposition 2001. Le ministre du Revenu national (le « ministre ») a fixé la cotisation de l’appelant en utilisant la méthode de l’avoir net pour déterminer son revenu et a conséquemment inclus un montant de 69 232 $ comme autres revenus pour l’année d’imposition sur laquelle porte l’appel. Les parties ont déposé un exposé conjoint des faits, si bien que la Cour doit seulement décider si le montant de 33 698 $, utilisé par l’appelant pour acquérir des actions détenues à la Banque Royale du Canada, devrait être inclus dans le revenu net de l’appelant. L’exposé conjoint des faits indique :
+[traduction]
+[...]
+EXPOSÉ CONJOINT DES FAITS
+Les parties aux présentes conviennent que, dans le cadre du présent appel, les faits présentés dans le présent document sont exacts :
+FAITS
+1. En 2000, l’appelant faisait l’objet d’une enquête de la GRC.
+2. Le 5 novembre 2001, à la suite de l’enquête, l’appelant s’est reconnu coupable des accusations suivantes :
+‑ Complot en vue d’importer une substance désignée : du haschisch (alinéa 465(1)c) du Code criminel et article 5 de la Loi réglementant certaines drogues et autres substances);
+‑ Complot en vue de faire le trafic d’une substance : du haschisch (alinéa 465(1)c) du Code criminel et article 5 de la Loi réglementant certaines drogues et autres substances);
+‑ Complot en vue de blanchir des produits de la criminalité (alinéa 465(1)c) du Code criminel et article 5 de la Loi réglementant certaines drogues et autres substances).
+3. Le 14 novembre 2001, a été rendue une ordonnance de confiscation de biens lors de la déclaration de culpabilité (nº du greffe : 500‑73‑001541‑016) portant sur les biens suivants appartenant à Nicolas [sic] Brizzi, car ces biens constituaient des « produits de la criminalité » :
+‑ Actions détenues à la Banque Royale du Canada, dans le compte en banque 6824064817 en monnaie canadienne :
+200 actions Intel Corp.
+2000 actions Covad Communciations Group Inc.
+400 actions Cosco Systems Inc.
+400 actions Nortel Networks Corp.
+100 actions Bank of America Corp.
+1000 actions Loudeloud Inc.
+‑ Actions détenues à la Banque Royale du Canada, dans le compte en banque 6824064817 en monnaie américaine :
+500 actions Nortel Networks Corp.
+250 actions Intel Corp.
+100 actions Pfizer Inc.
+100 actions Nokia Corp‑Sponsored Adr.
+100 actions Claco Systems Inc.
+300 actions Worlddoom Inc.
+1500 actions 360 Networks Inc.
+4. La GRC a vendu les biens susmentionnés en 2002.
+5. Durant l’année 2004, l’appelant faisait l’objet d’une enquête menée par l’Agence du revenu du Canada.
+6. Le vérificateur, M. Yvon Talbot, a effectué une vérification à l’égard de l’appelant pour les années d’imposition 2000, 2001 et 2002, en utilisant la méthode de l’avoir net.
+7. L’Agence du revenu du Canada a établi une cotisation pour les années d’imposition 2001 et 2002, mais le présent appel porte seulement sur la cotisation pour l’année 2001.
+8. La seule question à trancher pour l’année d’imposition 2001 concerne l’inclusion, dans le revenu net de l’appelant, du montant de 33 698 $ (16 171 $ pour les actions canadiennes et 17 527 $ pour les actions américaines) utilisé pour acquérir les actions détenues à la Banque Royale du Canada et saisies par la GRC (mentionnées dans le paragraphe 3 du présent exposé). Aucun autre point de la cotisation ne fera l’objet de discussions durant l’audition de l’appel, car l’appelant ne conteste pas les autres points.
+9. En ce qui concerne les actions mentionnées dans le paragraphe précédent, le fait qu’elles ont été achetées au moyen de revenus non déclarés n’est pas contesté.
+10. L’appelant ne conteste pas la valeur des actions dans le compte en monnaie canadienne ni dans le compte en monnaie américaine. Ce qui est contesté est le fait que ces montants ont été inclus dans le calcul de l’avoir net de l’appelant.
+Montréal, le 13 mars 2007
+[…]
+[2] Le revenu supplémentaire de 69 232 $ a été réduit à 65 813 $ à la suite de calculs modifiés soumis par l’intimée au début de l’instruction. La seule question en litige restante a trait au montant utilisé pour acheter les actions saisies par la GRC.
+[3] La position de l’appelant est que le trafic de stupéfiants est une entreprise et que la confiscation de biens en fait partie. Conséquemment, les actions confisquées devraient être considérées comme une dépense d’entreprise et ne pas être incluses dans l’avoir net de l’appelant. Il poursuit en arguant que, vu que le revenu d’activités illégales est imposable, les dépenses liées à de telles activités devraient être déductibles. L’appelant allègue que, selon les dispositions du Code criminel, la confiscation peut être considérée comme une dépense, parce que les dépenses sont liées à l’exploitation d’une entreprise et qu’une ordonnance de confiscation est un risque pour ce type précis d’entreprise. Selon l’appelant, il est contraire au principe d’autorité de la chose jugée de lui refuser la déduction du montant des actions confisquées, vu qu’il paye des impôts sur leur valeur, bien qu’elles aient été confisquées. Il indique qu’il est injuste de lui refuser la déduction, alors qu’il paye des impôts sur le revenu. Il estime avoir déjà payé sa dette envers la société.
+[4] Selon l’intimée, la confiscation ne constitue pas une dépense d’entreprise, parce que ce n’est pas une dépense engagée pour tirer un revenu d’une entreprise. Les actions ont été en fait achetées comme bien personnel et non comme bien de l’entreprise; leur confiscation ne constitue donc pas une dépense d’entreprise. L’intimée estime que la confiscation constitue plutôt une aliénation involontaire de revenu.
+[5] Il est important de préciser que le fisc ne se préoccupe pas de savoir si une activité est légale ou non (voir Canada (M.N.R.) v. Eldridge, [1965] 1 R.C. de l'É. 758 (QL), au par. 25, et 65302 British Columbia Ltd. c. Canada, [1999] 3 R.C.S. 804, au par. 56). ll est entendu que, si le revenu qu’un contribuable tire d’une entreprise illégale est imposable, on devrait consentir à ce contribuable les déductions permises par la Loi de l’impôt sur le revenu (la « Loi »). Mentionnons également que la présente Cour a pour seul but de statuer sur la validité d’une cotisation, après avoir pris en compte tous les faits pertinents, et de vérifier que la cotisation est conforme à la Loi. Les soucis d’équité ne relèvent pas de notre compétence.
+[6] Ceci dit, je renvoie maintenant au paragraphe 18(1) de la Loi, qui précise les limites applicables aux déductions qui peuvent être effectduées dans le calcul du revenu d’entreprise.
+18(1) Exceptions d’ordre général
+a) Restriction générale – les dépenses, sauf dans la mesure où elles ont été engagées ou effectuées par le contribuable en vue de tirer un revenu de l'entreprise ou du bien;
+b) Dépense ou perte en capital – une dépense en capital, une perte en capital ou un remplacement de capital, un paiement à titre de capital ou une provision pour amortissement, désuétude ou épuisement, sauf ce qui est expressément permis par la présente partie;
+[7] Pour qu’une dépense puisse être déduite, il faut qu’elle ait été engagée dans le but de tirer un revenu d’une entreprise ou d’un bien et il ne faut pas que ce soit une dépense en capital. En l’espèce, je suis d’accord avec l’avocate de l’intimée quand elle déclare que les actions confisquées avaient été achetées comme bien personnel et non dans le cadre des activités illégales de l’appelant. Nous pouvons seulement supposer que l’argent utilisé par l’appelant pour acheter les actions confisquées provenait du revenu net tiré de son entreprise illégale. Selon moi, la perte subie du fait de la confiscation est une conséquence de l’exploitation d’une entreprise illégale et donc certainement pas une dépense ayant facilité ou généré la production d’un revenu.
+[8] L’avocat de l’appelant a renvoyé à l’affaire précitée, 65302 British Columbia, où la Cour avait autorisé la déduction d’une taxe sur le dépassement de quota, en partant du principe que la taxe résultait des opérations journalières de l’entreprise avicole de l’appelant, que la décision de produire plus que le quota était une décision d’affaires prise pour tirer un revenu et qu’il était inapproprié d’interdire la déduction pour des raisons d’ordre public. Il y a une distinction entre cette affaire et la présente : la taxe avait été payée pour tirer un revenu supplémentaire, tandis qu’on ne peut avancer que la confiscation a permis à l’appelant de tirer un revenu supplémentaire. La perte subie résulte de l’exercice d’une activité illégale, elle en est une conséquence, et n’a donc pas été encourue pour la production d’un revenu.
+[9] L’appel est accueilli pour corriger le montant de revenu supplémentaire, qui passe de 69 232 $ à 65 813 $. À tous autres égards, la cotisation est valide.
+Signé à Ottawa, Canada, ce 23e jour de mai 2007.
+« François Angers »
+Juge Angers
+Traduction certifiée conforme
+ce 21e jour de septembre 2007.
+Marie‑Christine Gervais , traductrice
+RÉFÉRENCE : 2007CCI226
+NO DU DOSSIER : 2006‑276(IT)I
+INTITULÉ : Nicola Brizzi et Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATE DE L’AUDIENCE : Le 15 mars 2007
+MOTIFS DU JUGEMENT PAR : L’honorable juge François Angers
+DATE DU JUGEMENT : Le 23 mai 2007
+COMPARUTIONS :
+Avocat de l’appelant :
+Me Vincent Rose
+Avocate de l’intimée :
+Me Marie‑Aimée Cantin
+AVOCAT INSCRIT AU DOSSIER :
+Pour l’appelant :
+Nom : Me Vincent Rose
+Cabinet : Elfassy Rose
+Pour l’intimée : John H. Sims, c.r.
+Sous‑procureur général du Canada
+Ottawa, Canada

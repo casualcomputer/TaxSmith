@@ -1,0 +1,245 @@
+---
+title: "Dimaria v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28528/index.do"
+last_modified: "2008-03-07"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 TCC 114"
+citation2: ""
+neutral_citation: "2008 TCC 114"
+decision_date: "2008-03-07"
+language: "en"
+item_id: "28528"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1257
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T00:27:32.086000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "1f2ab106176b4446b4f4fd06bfb1c86adbf141af2ae0b89d495af5aefee2e972"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Dimaria v. The Queen
+
+- Citation: 2008 TCC 114
+- Decision date: 2008-03-07
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1257, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Dimaria v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-03-07
+Neutral citation
+2008 TCC 114
+File numbers
+2006-1400(IT)G
+Judges and Taxing Officers
+Eugene P. Rossiter
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2006-1400(IT)G
+BETWEEN:
+JOHN DIMARIA,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on November 28, 2007 at Toronto, Ontario
+Before: The Honourable Justice E. P. Rossiter
+Appearances:
+Counsel for the Appellant:
+Michel Bourque
+Counsel for the Respondent:
+George Boyd Aitken
+Roger Leclair
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 2004 taxation year is allowed and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached Reasons for Judgment.
+There will be no Order as to costs, given that the parties have an agreement with respect to the issue of costs.
+Signed at Ottawa, Canada, this 7th day of March, 2008.
+"E. P. Rossiter"
+Rossiter, J.
+Citation: 2008TCC114
+Date: 20080307
+Docket: 2006-1400(IT)G
+BETWEEN:
+JOHN DIMARIA,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Rossiter, J.
+Background
+[1] The Appellant is an employee of Dow Chemical Canada Inc. (“Dow”). In 2004, the Appellant’s 21 year old son, who was attending the University of Waterloo, received an award of $3,000 from Dow’s “Higher Education Award Program” (“HEAP”) in partial reimbursement of his tuition fees. The Canada Revenue Agency (“CRA”) included the $3,000 in the income of the Appellant on the basis that the award was a taxable benefit under paragraph 6(1)(a) of the Income Tax Act (the “Act”). The taxpayer has appealed and submits that the HEAP award is scholarship income to the Appellant’s son.
+Facts
+[2] In 2004, the Appellant was employed by Dow as a senior tax specialist. The Appellant’s son, Andrew, was a student in third year in the University of Waterloo’s Faculty of Engineering.
+[3] The Appellant paid for Andrew’s tuition, room, food and board during the course of Andrew’s studies. The HEAP award of $3,000 was paid to Andrew by cheque issued by Dow after Andrew’s tuition had already been paid by the Appellant. The Appellant did not ask that Andrew give him the $3,000; nor did Andrew offer to give the money to his father.
+[4] The particulars of HEAP are fully described in the “Benefits Guide Higher Education Award Program (HEAP) for Employees of Dow Chemical Canada Inc.” (the “Guide”). Some highlights of HEAP are described as follows:
+1. HEAP was established for the purpose of recognizing the scholastic achievement of children of eligible employees, which included retired, expatriated and deceased employees, and to provide financial assistance as a means of encouraging them to undertake post-secondary education.
+2. HEAP is an annual reimbursement program that covers base tuition to a maximum of $3,000 for post-secondary university studies for up to 100 students each year. The program covers the student’s full tuition, to a maximum of $3,000 per school year.
+3. In order to qualify for an award, the student must be the dependant child of a current, disabled, retired or deceased employee of Dow and must attend an approved university, college or institute. The student must have an average of 70% in the graduating year of high school. There was up to a maximum of 100 awards to be granted in each new enrolment year, which would be selected and approved based on the highest averages of the applicants.
+4. Provided the student maintains good academic standing, the award can be renewed annually, for a maximum of four awards.
+5. The employer, Dow, has the right to modify or terminate the program or any part of the program without prior notification to the employees or the recipients.
+6. There was no cost to the employee for the program.
+[5] It was the student’s responsibility to complete and sign the application and to submit the appropriate documentation, including the completed application and renewal form, official transcript of marks, and a copy of the acceptance from the university or college indicating the courses studied and the level of study. The application included personal student information, the particulars of their desired course of study, the school, the proposed degree or diploma as well as information in relation to the parent who was the eligible employee or retiree of Dow, and the parent’s signature.
+[6] When HEAP was established, Dow treated the awards as income to the students. When the Appellant took his employment with Dow, he did not know about HEAP. There was no deduction from his pay in any year that Andrew received an award. There were no additional duties to the Appellant at work due to Andrew getting the award. HEAP was a gratuitous program established by Dow and as per its terms could be modified or cancelled at any time. As a result of an audit, conducted by CRA in 2004, payments made to students are now treated as taxable income to the employees.
+[7] On September 14, 2004, Dow sought an advance income tax ruling from CRA in accordance with the procedures and information in Circular 70 – 6R5 Advanced Income Tax Ruling. In response to this request, CRA, by correspondence dated December 1, 2004, from the Director, Business and Partnerships Division, Income Tax Rulings Directorate, Policy and Planning Branch, responded in part as follows:
+… In your view, when an employee’s dependant competes for a limited number of scholarships offered by an employer and selection is based on scholastic achievement, the amount received by the dependant is not income of the employee under paragraph 6(1)(a) of the Act, but income to the dependant under paragraph 56(1)(n).
+… In our view, paragraph (6)(1)(a) of the Act is a provision of broad import and will include in a taxpayer’s employment income the value of a benefit that was directly received or enjoyed by another person because of the taxpayer’s office or employment, including employer-provided scholarships to dependants of employees.
+On an administrative basis, however, the CRA will accept that certain employer-provided scholarships to dependants of employees can instead be included in the income of the dependant under paragraph 56(1)(n) of the Act. Paragraph 9 of IT-75R4 states:
+As a matter of good employee relations, an employer may pay tuition fees for, or a give a grant or award to, one or more school-age or university-age children of employees. Such a payment is considered to be a scholarship or bursary. It is income of the child under subparagraph 56(1)(n)(i) if a payment is made as part of a plan to help a certain number of children who are selected on the basis of their scholastic records or other achievements or qualities. This treatment is particularly likely if the selection is made by a board or committee or by persons not connected with the employer, such as schoolteachers.
+For paragraph 56(1)(n) of the Act to apply to the dependant’s scholarship, there must be objective selection criteria that focus on the accomplishments of the dependant, for example, scholastic achievement. In this regard, it is our view that the employer’s selection criteria for scholastic achievement must be higher than the minimum entrance requirements for most post-secondary institution; otherwise, any dependant who enters a post-secondary education program would qualify for a scholarship. In addition, there must actually be a limited number of scholarships provided by the employer. Whether or not there are actually a limited number will always be a question of fact. The number of dependants chosen from those who are otherwise eligible should be low enough that most employees could not expect their dependants to be selected. Collectively, these criteria will ensure that the merit of the dependant is prevalent in the employer’s selection rather than the employee’s relationship with the employer.
+On the basis of the above, we are of the view that a scholarship to the dependant of an employee under the Program you described must be included in the employee’s income under paragraph 6(1)(a) of the Act. In our view, the Program falls short of the criteria outlined above, for all of the following reasons:
+1. The minimum average under the Program is 70%, which is generally the minimum requirement for entrance into most post-secondary schools. It is conceivable that most dependants who attend post-secondary school would, therefore, likely meet the basic scholastic achievement criteria for consideration;
+2. A dependant who receives a scholarship in the first year of post-secondary education will also receive an award in each of the next three years as long he or she meets the basic passing requirements of the institution; and
+3. Each year the employer will consider up to 100 additional employee dependants for a scholarship. We understand, however, that under the previous program when an unlimited number of dependants were considered for a scholarship, less than 100 dependants actually received an award. Under the circumstances, it would be difficult to conclude that the Program is restructured so that only a limited number of scholarships are awarded, when in fact every employee dependant who enters a post-secondary education program will probably receive a scholarship.
+In terms of a situation where the employment relationship is severed, for example, where a scholarship is awarded to the dependant of a retired or deceased employee, we are of the view that paragraph 56(1)(n) of the Act would apply to include the amount in the dependant’s income.
+[Emphasis added]
+Issue
+[8] The issue in this appeal is whether the $3,000 paid to Andrew by Dow was an employment benefit to the Appellant and therefore whether it is to be included in the Appellant’s income by virtue of paragraph 6(1)(a).
+Summary of the Parties' Submissions
+[9] The Appellant argues that the HEAP award is a scholarship that should be taxed in the hands of the student. He submits that the award was not received or enjoyed by the Appellant. He also argues that the Respondent’s position would lead to double taxation because the award would be taxed in the hands of the Appellant under section 6 and in the hands of the Appellant’s son under section 56.
+[10] The Respondent takes the position that the award is a benefit to the Appellant under section 6. In the Respondent’s view, the issue of whether the amount is a scholarship, within the meaning of paragraph 56(1)(n) is not relevant to the determination.
+Law and Analysis
+1. Paragraph 6(1)(a) – Income Tax Act – “Benefit received or enjoyed”
+[11] Under paragraph 6(1)(a) of the Act, employee benefits are to be included in employment income:
+6.(1) Amounts to be included as income from office or employment – There shall be included in computing the income of a taxpayer for a taxation year as income from an office or employment such of the following amounts as are applicable:
+(a) Value of benefits – the value of board, lodging and other benefits of any kind whatever received or enjoyed by the taxpayer in the year in respect of, in the course of, or by virtue of an office or employment, …
+[12] There are three requirements for an amount to be included as income from employment in paragraph 6(1)(a). First, the amount must be a "benefit”, second, it must be "received or enjoyed by the taxpayer”, and third, it must be received or enjoyed “in respect of, in the course of, or by virtue of an office or employment".
+[13] The classic explanation of what a taxable benefit includes is found in the Supreme Court of Canada’s decision in R. v. Savage, [1983] 2 S.C.R. 428 at paragraph 24 wherein Justice Dickson cites with approval, R. v. Poynton, [1972] 3 O.R. 727 at 738:
+I do not believe the language to be restricted to benefits that are related to the office or employment in the sense that they represent a form of remuneration for services rendered. If it is a material acquisition which confers an economic benefit on the taxpayer and does not constitute an exemption, eg, loan or gift, then it is within the all-embracing definition of s 3.
+[14] There is no doubt that the HEAP award is a benefit to the Appellant’s son. The issue is whether it is a benefit received or enjoyed by the Appellant.
+[15] It is trite law that the term “received” does not mean that an amount must be physically received by the taxpayer or deposited into his bank account. It is sufficient that the taxpayer receive an advantage and derive a benefit from the amount (see the example of, Morin v. R., 75 D.T.C. 5061 (F.C.T.D.)).
+[16] The Respondent relies on O’Brien v. Minister of National Revenue, [1967] Tax A.B.C. 250 (Tax Appeal Board), wherein the taxpayer’s employer paid for the Appellant’s wife and children to travel between Canada and England several times a year. O’Brien, supra, is one of several cases where the value of the travel was included in the taxpayer’s income as a taxable benefit under section 6. Broadly, Courts find that the travel is a benefit to the taxpayer for one of two reasons: the taxpayer personally enjoyed the benefit of his family’s company because he saved the money he would have spent on their travel; or a family member for whom the taxpayer is responsible enjoyed a benefit and the phrase “other benefits of any kind whatsoever” is broad enough to include those benefits in the income of the taxpayer.
+[17] In O’Brien, the Tax Appeal Board, stated at paragraphs 11 and 12:
+11 … It is a mistake to believe that a benefit must be limited to the taxpayer only and attached to his sole person. A married man, with a wife and children, must incur as personal and living expenses not only his own personal expenses in order to support and maintain himself but he must also support and maintain his family and procure the necessities of life for his wife and children … Consequently any personal or living expenses form part of the income of an employee even though (sic) the money has not been given to him personally. The taxpayer enjoyed a benefit through the immediate members of his family who were depending upon him for their own personal and living expenses.
+12 It is beyond doubt that the legislator, in using the words "other benefits of any kind whatsoever" intended to include benefits such as those provided for his wife and children. Benefit is synonymous with advantage. Was it not an advantage of a specific kind for the appellant to be dispensed with the making of outlays which were borne by his employer for the sake of supplying the appellant's wife and children with the necessities of life under the conditions of his employment? The appellant was assigned to Canada by his employer. His children were attending school in Great Britain. The employer undertook to send them to Canada for their summer holidays and paid the cost of the fare overseas to allow the appellant's wife to see the children. It was a gratuitous payment on the part of the employer as it was a benefit to the employee. The result was that the appellant saved the amount he would have been obliged to spend out of his salary for his family's travelling expenses in order to secure the same advantage. [Emphasis added]
+[18] Similarly, in the more recent decision of McMillan v. Canada, [1993] T.C.J. No. 296 (Informal) at paragraph 15, the trial judge attributed the cost of her husband’s travel to the taxpayer:
+15 … I can only reach the conclusion that the cost of her husband's trip, $3,100, is an appropriate amount to be attributed to the Appellant as a "benefit" and certainly it arose out of her position as an "employee". I recognize that the company might not have sent Mrs. McMillan without her husband, and that she understood there would be no charges or tax consequences occurring from her husband accompanying her. Irrespective of these elements, she did agree to take her husband, and since his trip was of no benefit to the company of which I am aware, it must have been of personal benefit to her, or to him for which she is responsible. That portion of the total amount under appeal will remain untouched in the assessment and I believe that is a realistic comprehension of the use of paragraph 6(1)(a) of the Act, under these circumstances. [Emphasis added]
+[19] The Respondent also relies on Detchon v. R., [1996] 1 C.T.C. 2475, a decision of this Court wherein Justice Rip, as he was then, found that free private school tuition for the children of teachers was a benefit for the purposes of paragraph 6(1)(a) of the Act at paragraph 52:
+52 … The arrangement for free tuition was part of the terms of employment. The tuition was received by the appellants by virtue of their employment with BCS. The employer was in fact paying for an ordinary personal expense of the appellants: Krull v. Canada (Attorney General) (sub nom. Canada (Attorney General) v. Hoefele ), [1996] 1 C.T.C. 131, 95 D.T.C. 5602 (F.C.A.) per Linden J.A., at page 8. Were they not employees of BCS they would have to pay the regular tuition fees for their children to attend the school. The free tuition offered by BCS is no different from a manufacturer, for example, giving a product to an employee. The employer is giving something of value to its employee at no cost. …
+[20] The Respondent submits that Detchon, supra, must be followed and that the HEAP award is a benefit which relieved the Appellant of the obligation to fund his son’s education. The Respondent takes the position that this award to the Appellant’s son is just another employment benefit from Dow, the same as any other employee benefit and states that the Appellant avoided or was relieved of the obligation of funding the child’s education. The Respondent acknowledges that in this case, the Appellant was not personally enriched by the HEAP award. However, the Respondent contends that the HEAP award conferred a benefit upon the DiMaria family and is ultimately a benefit to the Appellant which must be captured under section 6.
+[21] This case can be distinguished from Detchon and O’Brien. The Appellant was not relieved of any of the financial obligation. There is no obligation to send children to post-secondary school. Parents in Ontario are obligated only to ensure their children attend school until the age of 16 (see Education Act, R.S.O. 1990, c. E.2, subsection 21(5)). The Appellant may feel proud of his son for receiving a HEAP award or happy that his son has an extra $3,000 in his pocket, but personal satisfaction does not translate into an economic advantage. Also, contrary to the contention of the Respondent, the taxation system taxes legal entities, which include persons and corporations, but it does not include families.
+[22] In Fundamentals of Canadian Income Tax, 9th Edition, Professor Vern Krishna reflects the Supreme Court of Canada’s view of “benefit” in Savage, when he states in part as follows:
+A benefit is an economic advantage, measurable in monetary terms, that an employer (or related person) confers on an employee in his or her capacity as an employee. …
+Benefits constitute compensation and are taxable because their inclusion in income reflects the taxpayers’ ability to pay. It is elementary, that in order, to make a finding of a benefit, the recipient thereof, must have received some economic advantage or material acquisition – there must be some increase in the recipient’s net worth.
+Given the definition of “benefit” from Savage and Professor Krishna, I find it difficult to classify this $3,000 award as a benefit received and enjoyed by the Appellant.
+[23] I am of the view that for an award of this kind to be a benefit received or enjoyed by the parent there must be an economic advantage measurable to the employee. The employee must be the recipient of the award or must enjoy the benefit of the award. Here, the HEAP award is a gratuitous program which Dow can unilaterally terminate at any time. The Appellant has not negotiated the inclusion of the HEAP award in his employment contract, he has not had to assume extra responsibilities or forego another benefit in order for his son to receive the award. There is no guarantee by Dow that a scholarship will be paid to any employee’s child, nor does an obligation to provide a scholarship to the Appellant’s son arise out of any agreement between Dow and the Appellant.
+[24] During the trial, the Respondent focused on the fact that the Appellant’s signature was required on Andrew’s application form for the HEAP award. It was the Respondent’s position that the Appellant’s signature was a crucial part of the application and this fact is further proof that the award is an employee benefit. I find the signature is not determinative and is certainly not sufficient to characterize the benefit. Even if a signature is an essential requirement of the application, without which the child cannot receive the scholarship, this does not change the characterization of the benefit. It is as if Dow was sponsoring a graduation party for children of employees but in order to go to the party, the child had to have a permission slip signed by their parents. It is the children who are saving the money of paying for their own party, so the benefit belongs to the children; however, the children still need their parents’ signatures before they can attend. The fact that parents can prevent their children from going to the party does not mean the party is a benefit to the parents.
+There are several reasons which lead me to the conclusion that the HEAP award is not a benefit received or enjoyed by the Appellant. These reasons can be summarized as follows:
+1. The Appellant was not enriched by $3,000, since the payment of the HEAP award was made directly to Andrew.
+2. The Appellant was not enriched by $3,000, since the Appellant had no legal obligation to support his adult son or to pay for his post-secondary education.
+3. The Appellant was not enriched by $3,000 since he had no legal right to receive any money from the HEAP award or to compel Dow to pay the amount to him instead of paying it to Andrew.
+4. The Appellant was not enriched by $3,000 since he had no right to recover the amount of the HEAP award from Andrew.
+5. The Appellant did not negotiate with his employer to have the HEAP award included as an employment benefit. He did not assume extra responsibilities or forego other benefits in order for Andrew to receive the award.
+6. The only person who is economically enriched is Andrew. It is his application for the scholarship and it is his education and his qualifications which make him eligible for the scholarship.
+7. Expenses incurred by the son in pursuing his post-secondary education are not expenses of the Appellant or the Appellant's family. Tax is imposed on the individual person, not the family.
+[25] I conclude there is nothing received or enjoyed by the Appellant in relation to the award to his son and as a result the monies in question are not taxable in the hands of the Appellant.
+2. Sections 6(3) and 246(1) of the Income Tax Act
+[26] The Respondent also relied on subsections 6(3) and 246(1) to uphold the assessment. Neither section was argued at trial by either party:
+6.(3) Payments by employer to employee -- An amount received by one person from another
+(a) during a period while the payee was an officer of, or in the employment of, the payer, or
+(b) on account, in lieu of payment or in satisfaction of an obligation arising out of an agreement made by the payer with the payee immediately prior to, during or immediately after a period that the payee was an officer of, or in the employment of, the payer,
+shall be deemed, for the purposes of section 5, to be remuneration for the payee's services rendered as an officer or during the period of employment, unless it is established that, irrespective of when the agreement, if any, under which the amount was received was made or the form or legal effect thereof, it cannot reasonably be regarded as having been received
+(c) as consideration or partial consideration for accepting the office or entering into the contract of employment,
+(d) as remuneration or partial remuneration for services as an officer or under the contract of employment, or
+(e) in consideration or partial consideration for a covenant with reference to what the officer or employee is, or is not, to do before or after the termination of the employment.
+246(1) Benefit conferred on a person -- Where at any time a person confers a benefit, either directly or indirectly, by any means whatever, on a taxpayer, the amount of the benefit shall, to the extent that it is not otherwise included in the taxpayer's income or taxable income earned in Canada under Part I and would be included in the taxpayer's income if the amount of the benefit were a payment made directly by the person to the taxpayer and if the taxpayer were resident in Canada, be
+(a) included in computing the taxpayer's income or taxable income earned in Canada under Part I for the taxation year that includes that time; …
+[27] I find that subsection 6(3) is inapplicable to the facts of this case. It deals with timing issues between employee and employer – not a third party. In any event, it cannot be considered that the Appellant received anything from Dow other than his usual compensation. Nor was Andrew’s HEAP award consideration or partial consideration to the Appellant for accepting employment with Dow, for services rendered to Dow or for a covenant to do or not to do anything before or after termination of the Appellant’s employment with Dow. None of the criteria in subsection 6(3) are met.
+[28] Subsection 246(1) requires that there be a benefit to the taxpayer. As already stated, I have determined that there is no benefit received or enjoyed to the Appellant in this case. There is certainly a benefit to Andrew, however, he is not a party to this appeal. Should it be determined that the HEAP award is not a scholarship to Andrew, then subsection 246(1) will operate to include the value of the award in computing Andrew’s income under Part I of the Act.
+3. Paragraph 56(1)(n) – "Scholarship"
+[29] The determination that the HEAP award is not a benefit received or enjoyed by the Appellant within the meaning of paragraph 6(1)(a) is sufficient to dispose of this appeal. However, I will also consider the issue of whether the award must be included as scholarship income to Andrew under paragraph 56(1)(n). For the reasons that follow, I determine that the HEAP award meets the definition of a scholarship and should have been included in Andrew’s income.
+[30] Paragraph 56(1)(n) of the Act states as follows:
+56.(1) Amounts to be included in income for year -- Without restricting the generality of section 3, there shall be included in computing the income of a taxpayer for a taxation year,
+…
+(n) scholarships, bursaries, etc. -- the amount, if any, by which
+(i) the total of all amounts (other than … amounts received in respect of, in the course of or by virtue of an office or employment) received by the taxpayer in the year, each of which is an amount received by the taxpayer as or on account of a scholarship, fellowship or bursary, or a prize for achievement in a field of endeavour ordinarily carried on by the taxpayer (other than a prescribed prize),
+exceeds
+(ii) the taxpayer's scholarship exemption for the year computed under subsection (3); [Emphasis added]
+[31] For taxation years after 2005, subsection 56(3) of the Act provides for a full exclusion from income of scholarships, fellowships, and bursaries where these amounts are received in connection with an individual's enrolment in an educational program in respect of which the education tax credit may be claimed. Under subsection 56(3) from 2002 to 2005, the maximum exclusion from income was $3,000, prior to 2002, the exclusion was $500.
+[32] The Supreme Court of Canada had occasion to consider the interplay between section 6 and paragraph 56(1)(n) in its 1986 decision, R. v. Savage. Subparagraph 56(1)(n)(i) was amended to include the underlined portion in 1986, as a direct result of that decision.
+[33] In Savage, the taxpayer was employed by an insurance company as a research assistant. During her employment, she voluntarily took three courses to improve her knowledge in the life insurance field. She received $300 ($100 per course) from her employer, as a result of passing the exams. The issue in Savage was whether the $300 was a benefit under paragraph 6(1)(a) or a prize under paragraph 56(1)(n).
+[34] The Supreme Court found that the payments were a benefit and a prize within the meaning of both sections. The Court held that although the amount in question would be a benefit in respect of employment by virtue of the broad language found in paragraph 6(1)(a), it was a "prize" within the meaning of paragraph 56(1)(n) and was not taxable because it did not exceed the $500 limit then set out in that provision:
+41 … I agree with counsel for Mrs Savage that the opening words "Without restricting the generality of section 3", in paragraph 56(1) would seem to have been inserted to defeat an argument of "expressio unius est exclusio alterius", in order to relate income items contained in paragraph 56(1) to the arithmetical calculation set out in section 3. Income can still be income from a source if it does not fall within section 56. Moreover, section 56 does not enlarge what is taxable under section 3, it simply specifies.
+42 When section 56 is seen in this context, it is clear the Crown's submission cannot be sustained. The Crown's position, to repeat, is that a prize for achievement in a field of endeavour ordinarily carried on by the taxpayer, if less than $500, and if obtained in respect of, in the course of, or by reason of an office or employment, is taxable under sections 5 and 6, notwithstanding paragraph 56(1)(n). Paragraph 56(1)(n) makes it clear that a prize for achievement is income from a source under section 3 just as income from an office or employment is income from a source under section 3. If a prize under $500 would still be taxable under sections 5 and 6, it would have to follow on the Crown's argument that a prize under $500 would equally be taxable under section 3. That cannot be right. That would mean that a prize over $500 would be taxable under paragraph 56(1)(n) and a prize up to $500 would be taxable under section 3. The $500 exclusion in paragraph 56(1)(n) would never have any effect. It seems clear that the first $500 of income received during the year falling within the terms of paragraph 56(1)(n) is exempt from tax. Any amount in excess of $500 falls under paragraph 56(1)(n) and is taxable accordingly. If that is not the effect, what purpose is served by the subsection?
+[35] Savage stands for the proposition that specific wording within the Act must take precedence over general more inclusive language. If the underlined portion of paragraph 56(1)(n) (the “carve-out”) had existed at the time of Mrs. Savage’s appeal, the $300 would have been excluded from paragraph 56(1)(n) and would have been brought into section 6. In other words, Mrs. Savage would have lost her appeal.
+[36] To my knowledge this is one of the first cases before this Court where the employee and the student are two different taxpayers. The Appellant submits the carve-out language does not apply to Andrew because it is only applicable where the recipient of the scholarship is an employee of the payor of the scholarship. It is the Appellant’s position that if I found that the amount qualifies as a scholarship and an employee benefit (as was the result in Savage), the carve-out would not operate to exclude the amount from Andrew’s income and this would amount to double taxation because both Andrew and the Appellant would be paying tax on the HEAP award.
+[37] I agree with the Appellant that Parliament probably did not turn its mind to a fact situation where the employee and the student are two different taxpayers; however, we cannot ignore the identical language used in paragraphs 6(1)(a) and 56(1)(n). The post-Savage amendment was designed to take employer provided awards out of the ambit of section 56 and back into section 6. Had I found that the Appellant had “received or enjoyed” the benefit of the HEAP award within the meaning of paragraph 6(1)(a), then I would also have to find that he had received the HEAP award “as or on account of a scholarship” within the meaning of paragraph 56(1)(n). Andrew and his father cannot both be the recipients of the HEAP award; it is either one or the other. Thus, there is no possibility of double taxation.
+[38] I now move on to the issue of whether the HEAP award is a scholarship. The term scholarship is not defined in the Act. The Respondent relies on the definition of scholarship from The Concise Oxford Dictionary, 10th Edition:
+Scholarship ∙ n. 1 academic achievement; learning of a high level. 2 a grant made to support a student’s education, awarded on the basis of academic or other achievement.
+[39] The Respondent argues that the HEAP award is not a scholarship for the following reasons: first, because a 70% average upon graduating high school is too low to qualify as academic merit; and second, the award of 100 scholarships per year is so high that essentially everyone who applies will receive one.
+[40] The Appellant submits that the HEAP award is a scholarship which was awarded on the basis of academic merit in accordance with the criteria in the Guide. At trial, the Appellant pointed out that the HEAP award is not limited to university students, but is also awarded to college students. Students can be admitted to college with a lower high school average than 70%.
+[41] The Appellant relies on the definition of scholarship from R. v. Amyot, 76 D.T.C. 6217 (F.C.T.D.). In that case, Mahoney J. considered the meaning of scholarship and stated at paragraphs 11-12:
+11 I have had recourse to a number of dictionaries, and have concluded that the appropriate definitions of "scholarship" and "fellowship" in Webster's Third New International Dictionary most closely reflects the ordinary meaning of those words in contemporary North American parlance …
+12 … The following pertinent definitions are from Webster's Third New International Dictionary:
+…
+Scholarship: a sum of money or its equivalent offered (as by an educational institution, a public agency, or a private organization or foundation) to enable a student to pursue his studies at a school, college, or university.
+[42] This definition of scholarship was relied on by the Minister in Jones v. R., 2002 D.T.C. 3875 (T.C.C.).
+[43] I believe the definition adopted by Mahoney J. reflects the use of the word scholarship in Canada. A scholarship can be awarded for a variety of reasons including academic achievement, athletic abilities, and community involvement. Academic performance is but one area where scholarships are awarded and I think that the definition of Justice Mahoney is the one which is applicable when looking at scholarships under this particular section of the Act. CRA has recognized the broad scope of which scholarships can be awarded in Interpretation Bulletin 75R4 when they state in part:
+It is the income of a child under sub-paragraph 56(1)(n)(ii) if the payment is made as part of the plan to help with a certain number of children who are selected on the basis of their scholastic records or other achievements or qualities. …
+[44] What might be considered in determining whether a particular scholarship/award is one which falls within paragraph 56(1)(n) of the Act? There are a variety of factors which could be applicable and might be considered on a case by case basis:
+1. Are there a limited number or a maximum number of scholarships and bursaries available in the program, even if the number may change periodically?
+2. Is there an assessment or a selection process as to whether or not the applicants meet the criteria of the scholarship or bursary?
+3. Are there any objective criteria (one or more) which may be used in the assessment of the selection process?
+4. Are the scholarships or bursaries being awarded based on some merit, whether it be highest to lowest or base point or a combination thereof? A positive response to these questions would lead one to believe that it is indeed a scholarship. The scholarship need not be necessarily related to academics as there are a number of other qualities or achievements, such as age (i.e. mature student), sports, extra-curricular activities, cultural or artistic activities, ethnicity, advocacy skills or achievements, research abilities, community relations or involvement, all of which are qualities or achievements which could apply to any particular scholarship dependent upon the terms of reference to the scholarship in question; this list is not intended to be exhaustive.
+[45] There may well be other factors which might be considered in determining and examining the question of whether or not an award of a scholarship is indeed a scholarship under paragraph 56(1)(n); this list is not intended to be exhaustive, nor am I of the view that all these characteristics must be present at any one time. Each case must be dependent upon its facts and some factors may deserve more weight than others and more facts may be required to be present in some cases than others.
+[46] I believe that the evidence establishes that the monetary award to the Appellant’s son was a scholarship as follows:
+1. The purpose of the HEAP award was to recognize scholastic achievement.
+2. There are a maximum number of 100 awards to be granted in each new enrolment year.
+3. The scholarships are awarded based upon the highest averages of the applicants. A selection process had to be applied in measuring who has the highest averages among the applicants, given the limited number of scholarships.
+4. The applicant had to have at least a 70% average grade in the graduating year of post-secondary school in Canada in order to be able to apply for the scholarship and must have successfully completed the year prior, when he or she applies for a renewal scholarship each year thereafter.
+[47] The Respondent had Kenneth A. Lavigne, the Registrar of the University of Waterloo give evidence about entrance scholarships in the various faculties of the University of Waterloo. The purpose of the entrance scholarships was to recognize academic merit and to attract students to the University of Waterloo. The number of scholarships offered in a given year fluctuates depending on the number of qualified applicants and the amount of money in the endowment fund. In the previous years, the University of Waterloo has not awarded any entrance scholarships to students entering university with an average of 70%.
+[48] The Respondent argued strenuously that 70% is too low a threshold and that the HEAP award did not qualify as a scholarship. I disagree. In fact, I believe that the Respondent’s own witness, Mr. Lavigne, would disagree. Mr. Lavigne testified that scholarships can be tailored depending upon the donor and that the criteria could change over time. As noted, all scholarships need not necessarily be based upon academic achievement; they can be based upon whatever criteria are set by those who establish the scholarship in the first place. Here the scholarship was established by Dow; Dow set the threshold level for the award of the scholarships. This fits clearly within the definition used in Amyot. It is evident from this definition that the base purpose, spirit and intent of a scholarship should be to enable a student to pursue his studies college or university - that is the basic premise behind any scholarship. It would appear that this is the basic premise behind the scholarship established by Dow. The fact that it may be tied into some scholastic achievement or some athletic ability is an add-on to the basic premise behind any scholarship, which is to enable a student to pursue his studies. This seems to have been lost on CRA as they became focused upon a threshold level which they thought was not realistic. It is not for CRA to impose their view upon those who establish scholarships. The Act does not state that there is a certain academic threshold.
+[49] Based upon the evidence before me, I am satisfied that the financial award to the Appellant's son, Andrew, was a scholarship within the meaning of paragraph 56(1)(n) of the Act.
+Conclusion
+[50] There are certainly many parents such as the Appellant who have the means to assist their children to attend university. However, there are also parents who do not have the means to help their children with all or even any of the costs.
+[51] Parliament has given favorable treatment to scholarships in its recent amendment to section 56(3). If Parliament decides that an employer-provided scholarship ought to be taxed in the hands of the parent, it can amend the Act accordingly. If it does do so, I would expect they would consider including provisions so that lower-income parents do not see their tax burden increased. Absent of such an amendment, employer-provided scholarships should be taxed in the hands of the true recipient and beneficiary, which is the student. This decision is in keeping with sections 6 and 56 of the Act and also gives rise to a more consistent and certain result than that advocated by the Respondent. Now, contrary to the position of CRA, regardless of whether the parent’s employment is ongoing or has been severed by reason of retirement or death, the scholarship will be taxed in the hands of the student.
+[52] This appeal is allowed. I refer the matter back to the Minister for reconsideration and recalculation based upon the foregoing. Given that the parties have an agreement with respect to the issue of costs, there will be no Order as to costs.
+Signed at Ottawa, Canada, this 7th day of March, 2008.
+"E. P. Rossiter"
+Rossiter, J.
+CITATION: 2008TCC114
+COURT FILE NO.: 2006-1400(IT)G
+STYLE OF CAUSE: JOHN DIMARIA AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: November 28, 2007
+REASONS FOR JUDGMENT BY: The Honourable Justice E.P. Rossiter
+DATE OF JUDGMENT: March 7, 2008
+APPEARANCES:
+Counsel for the Appellant:
+Michel Bourque
+Counsel for the Respondent:
+George Boyd Aitken
+Roger Leclair
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Michel Bourque
+Firm: Burnet, Duckworth & Palmer LLP
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

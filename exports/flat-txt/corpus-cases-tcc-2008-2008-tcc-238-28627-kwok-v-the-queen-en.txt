@@ -1,0 +1,113 @@
+Title: Kwok v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28627/index.do
+Corpus path: corpus/cases/tcc/2008/2008-tcc-238-28627-kwok-v-the-queen-en.md
+Document type: case_law
+Last modified: 2008-04-25
+
+# Kwok v. The Queen
+
+- Citation: 2008 TCC 238
+- Decision date: 2008-04-25
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1159, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Kwok v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-04-25
+Neutral citation
+2008 TCC 238
+File numbers
+2005-3718(IT)G
+Judges and Taxing Officers
+Valerie A. Miller
+Subjects
+Income Tax Act
+Decision Content
+Citation: 2008TCC238
+Date: 20080425
+Docket: 2005-3718(IT)G
+BETWEEN:
+YUI CHEUNG KWOK,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+Docket: 2005-3714(IT)G
+AND BETWEEN:
+CHI WO LO,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+ORDER AND REASONS FOR ORDER
+V.A. Miller, J.
+[1] The Appellants have filed a Notice of Motion under Rule 58 of the Tax Court of Canada Rules (General Procedure) (“Rule” or “Rules”) for the determination, before hearing, of a question of law raised by the pleadings. The Respondent has consented to this Motion.
+[2] The procedure under Rule 58 is a two-step process. This Court must first determine if the question is one which can appropriately be decided under Rule 58. If the answer to the first step is positive, then the Court will fix a date for the hearing of the question of law. (Spencer v. Canada, [2001] 4 C.T.C. 2640; Canada v. Webster, 2002 FCA 205). These Reasons are in response to the appropriateness of the question.
+[3] Rule 58(1) and (2) provide:
+1) A party may apply to the Court,
+(a) for the determination, before hearing, of a question of law, a question of fact or a question of mixed law and fact raised by a pleading in a proceeding where the determination of the question may dispose of all or part of the proceeding, substantially shorten the hearing or result in a substantial saving of costs, or
+(b) to strike out a pleading because it discloses no reasonable grounds for appeal or for opposing the appeal,
+and the Court may grant judgment accordingly.
+(2) No evidence is admissible on an application,
+(a) under paragraph (1)(a), except with leave of the Court or on consent of the parties, or
+(b) under paragraph (1)(b).
+[4] The Notice of Motion is dated April 3, 2008. It states:
+THE MOTION IS FOR a determination pursuant to Rule 58(1) of the Tax Court Rules on the following question of law raised by the pleadings:
+Can the fourth precondition to the application of subsection 56(2) of the Income Tax Act (Canada) (the “Act”) be met when the corporate transfer made at the direction or with the concurrence of the Appellant shareholder is a sale of goods to a non-arm’s length non-resident corporation for less than fair market value?
+THE GROUNDS FOR THIS MOTION are that:
+(a) The Supreme Court of Canada in Neuman set out the following preconditions to the application of subsection 56(2), each of which, as noted by the Court, are found in the language of subsection 56(2) itself:
+i. The payment must be to a person other than the reassessed taxpayer;
+ii. the allocation must be at the direction or with the concurrence of the reassessed taxpayer;
+iii. the payment must be for the benefit of the reassessed taxpayer or for the benefit of another person whom the reassessed taxpayer wished to benefit; and
+iv. the payment would have been included in the reassessed taxpayer’s income if it had been received by him or her;
+(b) if any of the preconditions are not met, subsection 56(2) of the Act does not apply. This motion will not address the first three preconditions;
+(c) the question of law posed above is limited to whether the fourth precondition has been met, as the Appellant says that question can be answered solely by reference to the assumptions of fact made by the Minister of National Revenue (the “Minister”), along with the facts admitted by the Respondent in its pleadings;
+(d) Although the Appellant considers the following two facts, not set out in the Respondent’s pleadings, to be irrelevant to determination of the question of law, at the insistence of the Respondent the Appellant admits them solely for the purposes of this motion:
+i. Casual Time Garment Factory (Canada) Ltd. (the “Canadian company”) did not operate in Canada and had no assets in Canada after 2003;
+ii. The CRA has been unable to recover the corporate tax liability from the transfer pricing assessment from the Canadian company;
+(e) assuming for the purposes of the motion that all of the facts referred to in paragraphs (c) and (d) are true, subsection 56(2) of the Act does not apply to impose tax on the Appellant, as the fourth precondition has not been met;
+(f) where a taxpayer can show that even if the assumptions are correct they do not support the assessment, the assessment must fall (see MNR v. Pillsbury Holdings Ltd. 64 DTC 5184 (Ex. Ct.)); and
+(g) if the question posed is determined in the Appellant’s favour, these proceedings will be disposed of without the need for a trial, and with a tremendous savings of time and expense for both parties.
+[5] There are no disputed facts for the purposes of the Motion. The parties have agreed for the purposes of this Motion only that all of the assumptions made by the Minister of National Revenue (the “Minister”) are true. If the question is answered in the Appellant’s favour, then this Motion will decide the issue in the appeals and there would be no need for a trial. If the question posed by the Motion is answered in the affirmative, then the Appellant intends to dispute all of the assumptions made by the Minister.
+[6] The question posed in the Motion is hypothetical and only if it is answered in the negative would this Motion meet the requirements of Rule 58. If the question is answered in the negative, then this Motion will dispose of all or part of the proceeding. If the question is answered in the affirmative, then a full trial would be required wherein the Appellants would bring evidence to attempt to refute the assumptions of fact relied on by the Minister. In such a scenario this Motion would neither shorten the hearing nor result in any saving of costs.
+[7] In Perera v. Canada, [1998] 3 F.C. 381 (F.C.A.), Letourneau J.A. discussed the principles to be considered in the present type of application:
+13 It may be useful to recall that Rule 474 does not confer on anyone the right to have questions of law determined before trial; it merely confers on the Court the discretion to order, on application, that such a determination be made. In order for the Court to be in a position to exercise that discretion, it must be satisfied, as was stated in the Berneche case, that the proposed questions are pure questions of law, that is to say questions that may be answered without having to make any finding of fact. Indeed, the purpose of the Rule is to have the questions answered before trial; it is neither to split the trial in parts nor to substitute for part of the trial a trial by affidavits.3 This is not to say, however, that the parties must agree on the facts giving rise to the legal questions; a legal question may be based on an assumption of truth of the allegations of the pleadings provided that the facts, as alleged, be sufficient to enable the Court to answer the question.4
+14 Before exercising its discretion under Rule 474, the Court must also be satisfied that the questions to be answered are not academic and will be "conclusive of a matter in dispute". In this regard, it is important to note that, contrary to what was argued by counsel for the respondent, Rule 474 does not require an absolute certainty that the determination of the question will dispose, in whole or in part, of the litigation. The judge hearing the question must only be satisfied that the proposed question, as said by Jackett C.J. in R. v. Achorner,5 "may probably be decided in such a way as may dispose of the action or some substantial part of it". It is therefore not necessary that the question of law be one which, whatever way it is answered, will be decisive of the litigation.6
+15 Once these requirements are met, the Court is under no obligation to grant the Rule 474 motion. It must, at that stage, exercise its discretion having in mind that the procedure contemplated by Rule 474 is exceptional and should be resorted to only when the Court is of the view that the adoption of that exceptional course will save time and expense. It is in that light that the Court must take into consideration all the circumstances of the case which, in its view, militate in favour or against the granting of the motion. It is not possible to give a list of all these circumstances. The agreement of the parties is obviously one of them. Less obvious, perhaps, is the fact that the Judge may take into account his opinion as to the probability that the question will be answered in a manner that will not dispose of the litigation. He may also consider the complexity of the facts that will have to be proved at the trial and the desirability, for that reason, of avoiding such a trial. He must also take into consideration the difficulty and importance of the proposed questions of law, the desirability that they not be answered in a "vacuum", and the possibility that the determination of the questions before trial might, in the end, save neither time nor expense.7
+[8] The question as framed by the parties involves an important principle of law which is not confined to the facts of these appeals but will impact on other transfer pricing cases. I do not think that in the circumstances of this Motion it is appropriate to lay down a far reaching principle of law on a preliminary question. See Tilling v. Whiteman, [1980] A.C. 1 (H.L.) where Lord Wilberforce stated at pp. 17-18:
+So the case has reached this House on hypothetical facts, the correctness of which remains to be tried. I, with others, have often protested against the practise of allowing preliminary points to be taken, since this course frequently adds to the difficulties of courts of appeal and tends to increase the cost and time of legal proceedings. If this practice cannot be confined to cases where the facts are complicated and the legal issue short and easily decided, cases outside this guiding principle should at least be exceptional.
+As well, the statement of Viscount Haldane L.C. at page 162 of the decision in Attorney General for British Columbia v. Attorney General for Canada, [1914] A.C. 153 (P.C.) is applicable to this Motion:
+Not only may the question of future litigants be prejudiced by the Court laying down principles in an abstract form without any reference or relation to actual facts, but it may turn out to be practically impossible to define a principle adequately and safely without previous ascertainment of the exact facts to which it is to be applied.
+[9] The application is dismissed.
+Signed at Ottawa, Canada this 25th day of April, 2008.
+"V.A. Miller"
+V.A. Miller, J.
+CITATION: 2008TCC238
+COURT FILE NO.: 2005-3718(IT)G and 2005-3714(IT)G
+STYLE OF CAUSE: Yui Cheung Kwok v. The Queen and
+Chi Wo Lo v. The Queen
+PLACE OF HEARING: Ottawa, Ontario
+DATE OF HEARING: April 18, 2008
+ORDER AND REASONS
+FOR ORDER BY: The Honourable Justice Valerie A. Miller
+DATE OF ORDER AND
+REASONS FOR ORDER: April 25, 2008
+APPEARANCES:
+Counsel for the Appellants:
+Thomas M. Boddez
+Counsel for the Respondent:
+David Jacyk
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Thomas M. Boddez
+Firm: Thorsteinssons LLP
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

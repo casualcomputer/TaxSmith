@@ -1,0 +1,316 @@
+---
+title: "Gestion M.-A. Roy Inc. v. The King"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/521016/index.do"
+last_modified: "2022-11-28"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2022 TCC 144"
+citation2: ""
+neutral_citation: "2022 TCC 144"
+decision_date: "2022-11-28"
+language: "en"
+item_id: "521016"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5811
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2024-04-10T10:11:03.298000+00:00"
+cases_cited_count: 13
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "b8118d1dc41513098be628dea8d273d291fcf9f52fb8a506b80dd1da95b0baaa"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Gestion M.-A. Roy Inc. v. The King
+
+- Citation: 2022 TCC 144
+- Decision date: 2022-11-28
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5811, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Gestion M.-A. Roy Inc. v. The King
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2022-11-28
+Neutral citation
+2022 TCC 144
+File numbers
+2019-2534(IT)G, 2019-2540(IT)G
+Judges and Taxing Officers
+Guy R. Smith
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2019-2534(IT)G
+BETWEEN:
+GESTION M.-A. ROY INC.,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard on common evidence on February 28, 2022, and March 1, 2022, at Montréal, Quebec
+Before: The Honourable Justice Guy R. Smith
+Appearances:
+Counsel for the appellant:
+Julie Gaudreault-Martel
+Nicole Platanitis
+Counsel for the respondent:
+Christian Lemay
+Karman Kong
+JUDGMENT
+The appeal from the reassessment made on April 17, 2018, for the taxation years ended on June 30, 2014, 2015, 2016 and 2017, is dismissed with costs to the respondent, in accordance with the attached reasons for judgment.
+Signed at Ottawa, Canada, this 28th day of November 2022.
+“Guy R. Smith”
+Smith J.
+Translation certified true
+on this 25th day of January 2024.
+Michael Palles
+Docket: 2019-2540(IT)G
+BETWEEN:
+4452712 CANADA INC.,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard on common evidence on February 28, 2022, and March 1, 2022, at Montréal, Quebec
+Before: The Honourable Justice Guy R. Smith
+Appearances:
+Counsel for the appellant:
+Julie Gaudreault-Martel
+Nicole Platanitis
+Counsel for the respondent:
+Christian Lemay
+Karman Kong
+JUDGMENT
+The appeal from the reassessment made on April 17, 2018, for the taxation years ended on June 30, 2014, 2015, 2016 and 2017, is dismissed with costs to the respondent, in accordance with the attached reasons for judgment.
+Signed at Ottawa, Canada, this 28th day of November 2022.
+“Guy R. Smith”
+Smith J.
+Translation certified true
+on this 25th day of January 2024.
+Michael Palles
+Citation: 2022 TCC 144
+Date: 20221128
+Docket: 2019-2534(IT)G
+BETWEEN:
+GESTION M.-A. ROY INC.
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+Citation: 2022 TCC 144
+Date: 20221128
+Docket: 2019-2540(IT)G
+AND BETWEEN:
+4452712 CANADA INC.
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Smith J.
+1 Overview
+[1] Gestion M.-A. Roy inc. (“Gestion Roy”) is appealing the reassessment made on April 17, 2018, which added $88,782 of taxable benefits to its income for each of the taxation years ended on June 30, 2014, 2015, 2016 and 2017.
+[2] 4452712 Canada inc. (“445 Canada”) is also appealing a reassessment made on April 17, 2018, which added $279,763 of taxable benefits to its income for the same taxation years.
+[3] Gestion Roy and 445 Canada are holding companies and owners of life insurance policies for their majority shareholder, Marc‑André Roy (“Mr. Roy”). In both cases, the annual premiums are paid by an operating company, R3D Conseil Inc. (“R3D”), which is designated as the revocable beneficiary.
+[4] The Minister of National Revenue (the “Minister”) maintains that the appellants received a taxable benefit under subsection 15(1) or 246(1) of the Income Tax Act, R.S.C. 1985, c. 1 (5th Supp.) (the “ITA”).
+[5] These appeals were heard together on common evidence.
+[6] There were two witnesses, Mr. Roy for the appellants and the Canada Revenue Agency (the “CRA”) auditor for the respondent.
+[7] The only issue is whether the payment of insurance premiums by R3D constitutes a benefit to the appellants within the meaning of subsection 15(1) or 246(1) of the ITA.
+2. Relevant statutory provisions
+Benefit conferred on shareholder
+Avantages aux actionnaires
+15 (1) If, at any time, a benefit is conferred by a corporation on a shareholder of the corporation, on a member of a partnership that is a shareholder of the corporation or on a contemplated shareholder of the corporation, then the amount or value of the benefit is to be included in computing the income of the shareholder, member or contemplated shareholder, as the case may be, for its taxation year that includes the time, except to the extent that the amount or value of the benefit is deemed by section 84 to be a dividend or that the benefit is conferred on the shareholder : . . .
+15 (1) La valeur de l’avantage qu’une société confère, à un moment donné, à son actionnaire, à un associé d’une société de personnes qui compte parmi ses actionnaires ou à son actionnaire pressenti est incluse dans le calcul du revenu de l’actionnaire, de l’associé ou de l’actionnaire pressenti, selon le cas, pour son année d’imposition qui comprend ce moment, sauf dans la mesure où cette valeur est réputée en vertu de l’article 84 constituer un dividende ou dans la mesure où cet avantage est conféré à l’actionnaire au moyen de l’une des opérations suivantes : . . .
+Benefit conferred on a person
+Avantage conféré à un contribuable
+246 (1) Where at any time a person confers a benefit, either directly or indirectly, by any means whatever, on a taxpayer, the amount of the benefit shall, to the extent that it is not otherwise included in the taxpayer’s income or taxable income earned in Canada under Part I and would be included in the taxpayer’s income if the amount of the benefit were a payment made directly by the person to the taxpayer and if the taxpayer were resident in Canada, be
+(a) included in computing the taxpayer’s income or taxable income earned in Canada under Part I for the taxation year that includes that time; or
+(b) where the taxpayer is a non-resident person, deemed for the purposes of Part XIII to be a payment made at that time to the taxpayer in respect of property, services or otherwise, depending on the nature of the benefit.
+246 (1) La valeur de l’avantage qu’une personne confère à un moment donné, directement ou indirectement, de quelque manière que ce soit à un contribuable doit, dans la mesure où elle n’est pas par ailleurs incluse dans le calcul du revenu ou du revenu imposable gagné au Canada du contribuable en vertu de la partie I et dans la mesure où elle y serait incluse s’il s’agissait d’un paiement que cette personne avait fait directement au contribuable et si le contribuable résidait au Canada, être :
+a) soit incluse dans le calcul du revenu ou du revenu imposable gagné au Canada, selon le cas, du contribuable en vertu de la partie I pour l’année d’imposition qui comprend ce moment;
+b) soit, si le contribuable ne réside pas au Canada, considérée, pour l’application de la partie XIII, comme un paiement fait à celui-ci à ce moment au titre de bien ou de services ou à un autre titre, selon la nature de l’avantage.
+3. Summary of assumptions of fact
+3.1 Gestion Roy
+[8] According to the Reply to the Amended Notice of Appeal, the Minister assumed that Gestion Roy is a holding company whose majority shareholder is Mr. Roy. It owns capital stock shares of R3D, which provides management consulting services. Gestion Roy and R3D were incorporated on February 6, 1996.
+[9] The Minister assumed that Gestion Roy purchased two life insurance policies from Manulife Financial (Manulife) for $3,000,000 in 2004 and $2,000,000 in 2006, for a total of $5,000,000.
+[10] Gestion Roy is the owner of the policies, Mr. Roy is the insured party and R3D is the revocable beneficiary. These policies include investment accounts that can be redeemed at any time by the policyholder, Gestion Roy.
+[11] The Minister assumed that R3D pays the $88,782 annual premiums for both policies.
+[12] The Minister assumed that, as the owner of the insurance policies, Gestion Roy could revoke the beneficiary at any time without obtaining the consent of R3D and that Gestion Roy held the rights relating to the redemption of the accumulated value of the investment accounts.
+[13] The Minister found that Gestion Roy benefited from the buy-back rights without having had to pay the annual premiums for the said insurance policies and that this is a benefit conferred by R3D on its shareholder, Gestion Roy.
+3.2 445 Canada
+[14] According to the Reply to the Amended Notice of Appeal, the Minister assumed that 445 Canada is a holding company whose sole shareholder is Mr. Roy. 445 Canada was incorporated on November 5, 2007. It owns capital stock shares in R3D.
+[15] The Minister assumed that 445 Canada had purchased four life insurance policies from Manulife for $5,000,000 in 2008, $3,000,000 in 2009, $4,000,000 in 2010 and $3,000,000 in 2012, a total of $15,000,000. Mr. Roy is the insured party, and R3D is the revocable beneficiary.
+[16] The Minister assumed that the policies include investment accounts that can be redeemed at any time by the policyholder.
+[17] The Minister assumed that R3D pays the $279,763 in annual premiums for the four policies.
+[18] The Minister assumed that 445 Canada could revoke the beneficiary at any time without obtaining the consent of the designated beneficiary, R3D, and that, as the owner of the insurance policies, it had the right to redeem the accumulated value of the investment accounts.
+[19] The Minister held that 445 Canada benefited from the buy-back rights without having had to pay the annual premiums for the insurance policies and that this is a benefit conferred by R3D on its shareholder, 445 Canada.
+[20] In the alternative, if 445 Canada was not a shareholder of R3D, the Minister maintained that 445 Canada benefited from the right to redeem the said policies without having had to pay the annual premiums and that the $279,763 annual premiums paid by R3D were a benefit that had to be added to the income of 445 Canada for the taxation years at issue.
+4. Summary of testimonial evidence
+4.1 Marc-André Roy, witness for the appellants
+[21] Mr. Roy provided an overview of the structure of the companies, explaining that there was initially only one operating company, R3D, incorporated in 1996. It provided information technology management consulting services to large corporations. He was a co‑founder and held about two thirds of the shares through Gestion Roy, also incorporated in 1996.
+[22] In 2007, 445 Canada and one family trust were incorporated.
+[23] Over time, many subsidiaries were formed to provide the same services as R3D abroad. These subsidiaries were later consolidated into R3D International Inc. (“R3D International”), incorporated in 2011.
+[24] 445 Canada became the majority shareholder of R3D International.
+[25] Mr. Roy sat on the R3D Board of Directors for 23 years, from 1996 until his retirement in 2019. He was also President of the foreign subsidiaries and R3D International until 2019.
+[26] A structure similar to that of Mr. Roy’s corporation had been created for other major shareholders, including his brother Bernard Roy. More than 50 or so shareholders were directors.
+[27] A new shareholders’ agreement was entered into in 2004. In particular, the agreement provided for a share buy-back mechanism upon the death of a shareholder so that R3D would not have to deal with the estate of the deceased. According to Mr. Roy, this was particularly important in his case, because his estate would have had actual control of R3D, which would have been “harmful” to the other shareholders. Also, because of the insurance benefit, his estate could obtain the value of his shares. The premiums were paid by R3D, which protected all shareholders.
+[28] Sections 9.1 and 9.2 of the shareholders’ agreement specifically dealt with Mr. Roy’s and three other important shareholders’ situation and provided for share buy-back using the life insurance benefit for the shareholder in question.
+[29] A policy insuring Mr. Roy’s life for $3,000,000 had been in place since 1998. At that time, R3D was the owner and beneficiary of the 10-year term policy.
+[30] After the agreement was entered into in 2004, Mr. Roy accepted the recommendation of his consultants to maintain the term policy at issue, but to convert it to a whole life insurance policy with an investment account. He also agreed to an amendment that would make Gestion Roy and 445 Canada the policyholders and R3D the revocable beneficiary.
+[31] According to section 9.4 of the agreement, the company could also purchase a life insurance policy for the directors when the value of their R3D shares reached approximately $500,000. In all cases, the purpose was to provide cash for repurchasing the estate shares upon death.
+[32] The value of the insurance policies had to reflect the fair market value of the shares. The agreement provided a mechanism to evaluate the company each year, which, according to Mr. Roy, explained why there were so many insurance policies.
+[33] From 2008 to 2012, R3D’s turnover increased by approximately 40% per year. According to Mr. Roy, this was why he was insured for a total amount of $20,000,000, shared between Gestion Roy and 445 Canada.
+[34] Mr. Roy said the designation of a revocable beneficiary allowed the beneficiary to be changed without his permission. This was important if there were changes in the corporate structure or a sale of R3D.
+[35] The premiums paid by R3D were not deducted in the income tax returns. There were no reimbursements from the appellants.
+[36] All insurance policies, including those for executives, were managed by the office of R3D’s vice president of finance.
+[37] According to Mr. Roy, Gestion Roy’s and 445 Canada’s role as owners of the policies in question was passive. They were simply owners.
+[38] In February 2017, R3D requested the withdrawal of the amounts accumulated in the investment accounts of the two insurance policies held by Gestion Roy. The total withdrawal of $360,000 was reported in R3D’s financial statements, and the taxable amount was $98,840.
+[39] According to Mr. Roy, even though Gestion Roy and 445 Canada owned the policies, the amounts accumulated in the investment accounts belonged to R3D because it paid the premiums.
+[40] Mr. Roy explained that starting in 2015, the group was looking for a financial partner, hoping to find an investor client. Ultimately, R3D received an offer to purchase from a group consisting primarily of Quebecor, La Capitale and Investissement Québec (“New R3D”). The agreement was entered into in April 2019. New R3D acquired the assets of R3D and the shares of R3D International.
+[41] Once the operating companies were sold, the policies were no longer required. In April 2019, R3D requested the cancellation of Gestion Roy’s and 445 Canada’s insurance policies with the exception of one policy which was provided as security at the time of the sale. R3D received the reimbursement of the investment account surplus accumulated since the withdrawal made in 2017.
+[42] On cross-examination, Mr. Roy admitted that he had signed the documentation to set up the insurance policies for the appellants and that he had also signed the documents to ensure that R3D paid the monthly premiums.
+[43] He acknowledged that the shareholders’ agreement did not stipulate that R3D was required to obtain life insurance and that the shareholders would make that decision by way of resolution.
+[44] Mr. Roy acknowledged that R3D held the first $3,000,000 life insurance policy in 1998. He said R3D had had to fill out a form to assign this policy to Gestion Roy in order to then have the term policy changed to a whole life insurance policy.
+[45] Mr. Roy acknowledged that a life insurance policy held by Gestion Roy was used as security at the time of the sale of R3D’s assets to New R3D.
+[46] He acknowledged that Gestion Roy and 445 Canada had reported net losses or income not exceeding $1,200 in their income tax returns for the years at issue.
+4.2 Julie Beaurivage, witness for the respondent
+[47] Ms. Beaurivage has been a CRA tax auditor since 2008. She completed a bachelor’s degree in accounting and obtained the CPA/CGA (chartered professional accountant / certified general accountant) designation. At the time of the audit, she was assigned to audit businesses with revenues of $20 million to $250 million.
+[48] A colleague started the R3D audit for the 2014 and 2015 taxation years in 2016. According to the accounting records, there was an expense for insurance premiums, but no expenses were deducted in the income tax returns. The auditor requested a copy of all the insurance policies and found that Gestion Roy and 445 Canada owned a number of policies. There were no intercompany adjustments between R3D and Gestion Roy or 445 Canada. The balance sheet did not show an investment account.
+[49] Ms. Beaurivage reviewed R3D’s accounts for 2016 and 2017 and found that the insurance premiums still appeared as expenses but that there were no tax deductions. She noted that a $77,615 investment account was recorded as an asset on the balance sheet but only for the 2017 fiscal year.
+[50] She found that there were monthly disbursements for several insurance policies including term life insurance policies covering the lives of several executives. R3D is the owner and beneficiary of these policies.
+[51] However, the life insurance policies held by the appellants were whole life policies and not term life policies. Gestion Roy and 445 Canada were the owners of these policies, and R3D was the revocable beneficiary.
+[52] Ms. Beaurivage checked the premiums paid by R3D by consulting Gestion Roy’s and 445 Canada’s insurance policies where the monthly payments were indicated. However, the amounts paid exceeded those indicated in the policies. She did not review Gestion Roy’s or 445 Canada’s accounting records but noted that the income tax returns did not show expenses for insurance premiums and that the appellants did not have the financial means to pay the premiums in question.
+[53] On cross-examination, Ms. Beaurivage acknowledged that there was an error in her audit report and that 445 Canada was a shareholder of R3D International and not of R3D. She explained that because of this the Minister relied on subsection 246(1) rather than subsection 15(1).
+[54] Ms. Beaurivage was cross-examined on the steps taken to establish the amount of the annual insurance premiums paid by R3D. She stated that the assessments at issue were based on the monthly payments made according to the accounting records and not according to the insurance contracts.
+[55] The respondent objected, stating that the total amount of premiums paid by R3D was not called into question. The Court notes this objection.
+[56] Ms. Beaurivage explained that in the end, the CRA decided to assess Gestion Roy and 445 Canada taking into account the premiums paid by R3D and not the cash surrender value of the investment accounts of certain policies, notwithstanding the various computations used to determine the “ACB” or adjusted cost basis of the policies.
+[57] Ms. Beaurivage explained that in February 2017, there were withdrawals of $31,500 and $328,450, for a total of $360,000, from the policy investment accounts held by Gestion Roy. These amounts were paid to R3D. She was of the opinion that Gestion Roy had to consent to it as the owner.
+5. Analysis
+5.1 Preliminary matters
+[58] First, the Court is of the opinion that the auditor’s testimony was both reliable and credible, notwithstanding vigorous cross-examination. In particular, the Court must dismiss the appellants’ contention that the CRA’s case was flawed and was not supported by proper accounting. R3D’s accounting records for the years at issue were reviewed, and the amount of the premiums paid was determined from this analysis. There was no need to review the appellants’ accounting records because no insurance premiums were reported in their income tax returns. The Court therefore agrees with the respondent that there is no reason to question the amount of the premiums paid by R3D for the years at issue.
+[59] Second, the appellants raised the issue of the burden of proof. They argued that the assumptions of fact had been demolished and that it was therefore up to the respondent to prove the assumptions upon which the Minister had relied to make the assessments at issue. The Court agrees with the respondent that the essential facts have been established, namely the identities of the policyholders, the insured party, the revocable beneficiary and the payer, and the amount of the annual premiums. The Court is therefore of the opinion that there is no need to debate the issue of the burden of proof since, as the respondent stated, [translation] “the core issue is the characterization of the payment by the revocable beneficiary”.
+[60] Finally, it has been established that 445 Canada was a shareholder of R3D International and not of R3D, which nevertheless paid its insurance premiums. The Amended Notice of Appeal states that 445 Canada [translation] “holds shares in the capital stock of R3D International . . . a company related to R3D . . .” and that the Court must determine whether there was a taxable benefit within the meaning of subsection 246(1). The Court must therefore perform the analysis under this provision.
+5.2 Substantive arguments
+[61] Although the respondent submitted an alternative argument based on subsection 246(1) of the ITA, the respondent relied primarily on subsection 15(1), the purpose of which is to tax the value of benefits conferred by a corporation that are not otherwise included in a shareholder’s income.
+[62] As the Honourable Madam Justice Valerie Miller noted in Post v. The Queen, 2016 TCC 92, one of the purposes of subsection 15(1) is to prevent corporations from using an indirect means of conferring an untaxed economic benefit on its shareholders (at paragraph 30). Generally speaking, in most decisions involving this provision, the corporation has conferred a personal benefit or advantage, such as a luxury home or vehicle, used directly by a shareholder or a member of their family.
+[63] In this case, the appellants cited Mr. Roy’s testimony and argued that R3D was not the owner of the insurance policies for the following commercial reasons: (i) to provide the appellants with the option to amend the beneficiary if there were changes in the corporate structure; (ii) to protect the cash surrender value from creditors; (iii) to ensure that the operating company had the necessary liquidity to redeem the shares upon death in accordance with the obligations of the shareholders’ agreement and thus (iv) reassure the other R3D shareholders that in the event of Mr. Roy’s death, they could prevent a third party from taking control.
+[64] They argued that since R3D paid the premiums, this reassured all shareholders and that it was [translation] “logical for R3D to pay the premiums” because it would be entitled to benefits upon the death of a shareholder. The structure was established [translation] “acting on professional advice . . . and in the best interests of R3D and not the appellants’ interests”.
+[65] The Court is of the view that these assertions attempted to explain “why” Mr. Roy’s life insurance policies were held by the appellants after 2004 (while R3D was the owner of the insurance policies before that date). However, they did not address the issue of the taxable benefit.
+[66] Without accepting that it was [translation] “logical for R3D to pay the premiums”, the Court agrees that it was more practical that the premiums for the policies of Gestion Roy and 445 Canada, as well as those of all the officers, be paid for and managed by R3D’s vice president of finance. However, that is not the issue. The issue is whether a benefit was conferred on the appellants.
+[67] If the appellants are attempting to argue that they accepted their consultants’ recommendation and were harmed, this argument must be rejected. In Dyck v. The Queen, 2007 TCC 458 (Dyck), the appellants’ accountant had recommended that an investment account held in the name of a company they controlled be consolidated with their personal joint account into one investment account that could provide better returns on the combined funds (at paragraph 4). Three years later, that same accountant recommended that the appellants restore the “status quo ante”, which they attempted to do. The appellants stated that they had “not withdraw[n] any funds from the joint investment account between the dates of the initial transfer to it and the later transfer back of the balance formerly in the [corporation’s] account” (at paragraph 5). The Minister reassessed the appellants under subsection 15(1) of the ITA, and the appellants appealed. The Honourable Mr. Justice Bowie wrote the following:
+[11] . . . I do not accept this characterization of the two transactions that took place roughly three years apart. . . . In this case the Dycks . . . entered into a transfer to themselves of the assets of the corporation. That was a real transaction that took place. The transaction in March 2000 was another real transaction. The taxpayers did not do what they did in 2000 in order to properly reflect an earlier transaction that had been wrongly recorded. Unfortunately, taxpayers cannot undo history, or create it ex post facto, when it turns out that they have made a mistake, except in a very limited class of cases where the applicable legislation specifically sanctions it. When the balance in the corporate account was transferred to the appellants’ joint account the funds became the property of the appellants. That fact is not changed by the fact that they did not make any withdrawals from the investment account. They owned it; it was being put to use for their benefit by Nesbitt Burns; any accretions to the account were for their benefit; had they chosen to do so, they could have withdrawn any or all of the funds in the account and put them to any purpose they wished.
+[Emphasis added.]
+[68] When the court is [translation] “dealing with actual transfers of funds, the accounting error cannot be used to exonerate the taxpayer from liability and lead to the finding that the taxpayer did not intend what happened”: Helwani c. Agence du revenu du Québec, 2015 QCCQ 6676 (at paragraph 53). The same applies to an insurance broker or any other professional.
+[69] According to the appellants, [translation] “R3D has always conducted itself as the true owner of the policies”, and “there is no ambiguity as to the ownership of the life insurance proceeds” in the event of Mr. Roy’s death. They argued that R3D was [translation] “the only entity that benefits or has benefited from the life insurance policies . . . because it is the one that would have directly received the funds in the event of Mr. Roy’s death, . . . which includes the additional amount of insurance money and . . . the value of the investment accounts”. They added that although this is not stipulated in the insurance policies, R3D benefited from the investment accounts in 2017 and 2019.
+[70] They argued that it was also R3D that had [translation] “overall control and dictated the steps to be taken” with respect to the policies, including (i) the amount of insurance that was to reflect the value of the shares, (ii) when a new policy was to be purchased, (iii) who the owner would be, (iv) whether or not the policies were to be cancelled, and finally (v) instructions to the insurer.
+[71] The Court is of the opinion that these arguments must be rejected because they do not take into account the nature of an insurance contract with an investment account. It has been established that the appellants owned the policies. The Court agrees with the respondent that the appellants cannot claim that the revocable beneficiary possessed [translation] “the same rights and obligations as a policyholder” or that the revocable beneficiary could [translation] “exercise the rights of the policyholders when the insured party had not died”.
+[72] In Scotti c. Agence du revenu du Québec, 2019 QCCQ 7579 (Scotti), the court had to review the nature of a life insurance policy with an investment account. The court explained that the insurance policy had [translation] “an investment savings component” that enabled the policyholder [translation] “to pay a monthly premium above the cost of insurance and accumulate the surplus . . . in the investment fund”. In addition, it included a [translation] “cash surrender value that was partially calculated on the basis of the amounts accumulated in the capitalization fund”. The cash surrender value was [translation] “the amount that an insured party could receive in the event of withdrawal or repurchase of the amounts held”. This is a right of the insured party or policyholder and not of the beneficiary.
+[73] These principles were also examined in White v. The Queen, 2008 TCC 414 and Kratochwil v. The Queen, 2012 TCC 45 (Kratochwil), where the Honourable Mr. Justice Hogan explained that the ITA “contains complex rules which allocate premiums paid under an insurance policy first to the taxpayer’s cost of insurance” and the surplus, or the cash surrender value less the adjusted cost base, gives rise to taxable investment income (at paragraphs 8 and 9).
+[74] According to article 2389 of the Civil Code of Québec, CCQ-1991 (“C.C.Q.”), “[a] contract of insurance is a contract whereby the insurer undertakes, for a premium or assessment, to make a payment to the client or a third person if a risk covered by the insurance occurs.”
+[75] The parties to the insurance contract are therefore the “insurer” and the “client”. The client, also described as the policyholder, is the one who designates the beneficiary as revocable or irrevocable. According to article 2454 of the C.C.Q., “[t]he policyholder is entitled to the policy dividends and other benefits conferred on him by the contract even if the beneficiary has been designated irrevocably.” With respect, the Court cannot accept the appellants’ contention that R3D had “control” or made decisions regarding the insurance policies at issue.
+[76] As Mr. Roy admitted as the appellants’ director, he was the one who had signed the insurance contracts. He was also the one who had designated R3D as the revocable beneficiary, reserving the right to amend the designation in the event of any change, such as the sale of the business. It is clear that he was the one who had instructed Manulife to transfer the balance of the investment accounts to R3D in 2017 and again in 2019.
+[77] As the respondent stated, [translation] “the owner of an insurance contract enjoys the usus (use), fructus (income) and abusus (right to dispose) of the contract.” He or she is entitled to [translation] “buy back, transfer, and mortgage the life insurance contract. He or she can also give it as security, sell it to a third party, and name and change the beneficiaries”, subject to certain conditions if the beneficiary is irrevocable. After being designated by the policyholder, the beneficiary acquires the right to claim the indemnity, including the investment accounts, upon the death of the insured party.
+[78] In La Capitale, Compagnie d’Assurance Générale v. Canada, [1998] 3 FC D-8. No. A‑612‑95, February 6, 1998 (F.C.A.) (La Capitale), the court explained that “an insurance contract . . . in Quebec civil law . . . is a contract of sale sui generis pursuant to which the insured purchases an indemnity payable if the event that is the object of the risk covered” (at paragraph 37). The court further stated that “the right to an indemnity . . . is property within the meaning of the [ITA]. The word ‘property’ is defined in subsection 248(1) in a very broad and comprehensive manner, and accordingly includes the sale of a right of any nature” (at paragraph 41).
+[79] As the Supreme Court of Canada stated in Perron‑Malenfant v. Malenfant (Trustee of), [1999] 3 S.C.R. 375, apart from certain exceptions set out in articles 2552 and 2554 of the C.C.Q., the owner of an insurance contract “can now assign and pledge his or her rights under an insurance contract, even where the beneficiary has been designated irrevocably” (at paragraph 51).
+[80] The appellants recognized that there is a benefit when an asset is made available to the shareholder, even if he or she has not actually used it. However, they argued that the shareholder must actually have received this benefit. They referred to Brassard c. Agence du revenu du Québec, 2012 QCCQ 11684, where the taxpayer was the sole shareholder of a corporation that owned capital real property located at a ski resort. The Court of Québec allowed the appeal, stating that there had been no benefit. Since the building had not been purchased to be put at the personal disposal of the shareholder and had not been used for this purpose, it followed that the shareholder had not derived any benefit.
+[81] Similarly, in Lloyd Youngman v. Her Majesty the Queen, [1990] F.C.J. No. 341 (QC) (F.C.A.), a company had financed the construction of a residence for the exclusive use of the majority shareholder, who then paid rent. The Minister was of the view that the rent did not reflect fair market value and was a taxable benefit.
+[82] In my opinion, that decision does not apply to the matter at hand. In La Capitale, above, the Court rejected the analogy and provided the following explanation: “[A]n insurance contract is not . . . a contract for the rental of property or services . . . that are supplied periodically (for example, day to day or month to month) and invoiced at fixed intervals” (at paragraphs 36 and 37). The Court is of the opinion that when there is an insurance contract, there is a benefit, even if the risk covered by the insurance does not materialize from one year to the next.
+[83] The appellants referred to Minister of National Revenue v. Pillsbury Holdings Ltd., [1965] 1 Ex. C.R. 676 (Pillsbury), which established the basic principles for a benefit. The court stated that a benefit is equivalent to the payment of a dividend (at paragraph 19), but that a bona fide business transaction between a corporation and a client who is also a shareholder is not a benefit within the meaning of the provision (at paragraph 20). According to the appellants, the corporation had to intend to confer a benefit on its shareholder. Pillsbury involved paragraph 8(1)(c) of the ITA, the provision that preceded section 15(1), which stipulated that “a benefit or advantage has been conferred on a shareholder by a corporation”. The Court concluded as follows:
+[22] In applying paragraph (c) full weight must be given to all the words of the paragraph. There must be a “benefit or advantage” and that benefit or advantage must be “conferred” by a corporation on a “shareholder”. The word “confer” means “grant” or “bestow”. . . .
+[84] However, the Court also said the following:
+[21] On the other hand, there are transactions between closely held corporations and their shareholders that are devices or arrangements for conferring benefits or advantages on shareholders qua shareholders and paragraph (c) clearly applies to such transactions. . . . It is a question of fact whether a transaction that purports, on its face, to be an ordinary business transaction is such a device or arrangement.
+[Emphasis added.]
+[85] It is not disputed that the appellants were contractually the owners of the insurance policies and that R3D paid the annual premiums. Following the approach taken in Pillsbury, the Court is of the opinion that the purpose of this transaction was to enable R3D to confer a benefit on the appellants.
+[86] According to Mr. Roy’s testimony, R3D owned term life insurance policies and paid the premiums until 2004 when, on the recommendation of its consultants, the policies were exchanged for whole life insurance policies with investment accounts. From this point on, the appellants were required to pay the premiums, and the investment accounts accrued in their favour regardless of whether they received these amounts. See the Tax Court of Canada’s decision in Dyck, above.
+[87] According to the appellants, subsection 15(1) only applies [translation] “when a transaction or series of transactions results in the impoverishment of the corporation and produces an economic benefit for the shareholder”. They stated that the benefit [translation] “must depend on practical and realistic considerations and cannot include hypothetical or notional situations”. They referred to Del Grande v. The Queen, 1992 T.C.J. No. 724 (QL), where Chief Justice Bowman stated the following:
+Paragraph 15(1)(c) contemplates the conferral of a genuine economic benefit upon the shareholder. The word “confer” implies the bestowal of bounty or largesse, to the economic benefit of the conferee and a corresponding economic detriment of the corporation. . . . Paragraph 15(1)(c) does not contemplate the inclusion on a taxpayer’s income of hypothetical or notional “benefits” arising from a change in a legal relationship resulting from the exercise of a legal right.
+[Emphasis added.]
+[88] Similarly in Colubriale v. Canada, 2005 FCA 329, the Court stated that “the benefit must be real”, and the shareholder cannot be taxed on the basis of a “legal fiction” (at paragraphs 27 and 28).
+[89] The appellants also referred to Canada (Attorney General) v. Hoefele, [1996] 1 F.C. 322 (F.C.A.) (Hoefele), where the Court stated that a “receipt must increase the recipient’s net worth”, and conversely, “a receipt which does not increase net worth is not a benefit and is not taxable.” The Court further stated that jurisprudence stipulates that the focus must be on net gain as the basis for determining whether a receipt is a “taxable benefit” (at paragraphs 8 and 9).
+[90] For instance, in Fingold v. The Queen, [1998] 1 F.C. 406, the shareholder was entitled to reimbursement of personal expenses by the corporation because he was a shareholder. The Court found that this was a benefit because he would otherwise have had to pay for these expenses himself.
+[91] In this case, the appellants stated that Gestion Roy and 445 Canada did not derive any economic benefit from the policies during the period at issue, when the investment accounts were redeemed or when the policies were cancelled.
+[92] They asserted that as policyholders, [translation] “their wealth never increased as a result of the value of the policies or payment of the premiums”. They had the option of changing the beneficiary, but in fact there was never a change and [translation] “that change is not quantifiable or has no value until it is exercised”. The only economic benefit is the cash surrender value of the investment accounts, but these were paid to R3D.
+[93] The Court is of the opinion that these arguments must be rejected because Gestion Roy did not have to pay annual premiums of $88,782, and 445 Canada did not have to pay annual premiums of $279,763 during the years at issue. It is therefore an easily measurable economic benefit. From a practical and realistic standpoint, the appellants became wealthier because they did not have to pay the premiums at issue, while R3D became poorer, hoping to receive the benefit and the investment accounts in the event of Mr. Roy’s death. The Court is of the view that the economic benefit is not a legal fiction and is not otherwise hypothetical or notional.
+[94] The appellants argued that the taxable benefit [translation] “must not only actually exist”, but must be realized [translation] “if it is subject to any conditions”: Canada (Attorney General) v. Henley, 2007 FCA 370 (Henley).
+[95] When dealing with future property, [translation] “it is not until the condition or contingency is fulfilled that such a benefit arises”: Engelberg c. Agence du revenu du Québec, 2017 QCCQ 14819 (Engelberg).
+[96] In a similar vein, the appellants argued that even if they could revoke the beneficiary, assuming it was a condition, it never materialized. As a result, [translation] “the benefit has not yet arisen”.
+[97] In other words, the mere possibility that the appellants could revoke the beneficiary never materialized during the period in question, so there was no [translation] “crystallization of the benefit”. The same applies to compensation payable upon the death of the insured party or payment of the cash surrender value of investment accounts. These benefits never materialized because [translation] “R3D was the party that received the cash surrender value and reported it in its investment income”.
+[98] They argued that [translation] “the revocability of the beneficiary was strictly a hypothetical and notional eventuality”. In fact, there was no change in beneficiary until the policies were cancelled in 2019. They further argued that [translation] “the mere possibility” that the appellants could have revoked the beneficiary could not constitute a benefit [translation] “within the meaning of subsection 15(1) or 246(1) of the ITA”.
+[99] They noted that even an [translation] “irrevocable beneficiary” can be revoked if the beneficiary consents, so the option to revoke a beneficiary [translation] “is not a determining factor” in establishing a taxable benefit.
+[100] These arguments must also be rejected. Henley and Engelberg involved a conditional or potential transfer of property that never occurred, so there was no crystallization of the benefit. In Engelberg, the Court stated that [translation] “it is not until the condition or contingency is fulfilled that such benefit arises” (at paragraph 39). In this case, the appellants could revoke the designation of R3D as beneficiary at any time, but this right arises from the insurance contract. The Court is not persuaded that this is a taxable benefit rather than simply a choice that the appellants had the option of exercising.
+[101] It has also been established that R3D never received the death benefit because the insurance policies were terminated in 2019 when Mr. Roy was still alive. By paying the insurance premiums, R3D became poorer without ever receiving the benefit. However, that is not the issue, because the appellants’ assessments in this case relate to the annual premiums paid by R3D, payable under the insurance contracts regardless of whether the risk covered by the insurance occurs or not. This is the nature of an insurance contract according to section 2389 of the C.C.Q., above.
+[102] The Court must also reject the appellants’ argument that [translation] “the only economic benefit is the value of the investment accounts” that were paid to R3D and not to the appellants. As the Court explained in Scotti and Kratochwil, above, the cash surrender value less the adjusted cost base may give rise to taxable investment income. For the 2017 taxation year, the cash surrender value was assigned to R3D. However, the Court is of the opinion that the benefit that R3D received with Mr. Roy’s approval is not relevant to the benefit that the appellants received, namely, the amount of the premiums paid by R3D.
+[103] The appellants further argued that there was an [translation] “implicit” assignment of the policyholders’ right, that Manulife recognized this assignment when it agreed to pay the balance of the investment accounts to R3D in 2017, and that the reimbursement cheques were deposited directly into its account [translation] “without going through the appellants’ estate”. They referred to Caisse populaire Desjardins de Saint-Paul d’Abbotsford c. Promutuel Valmont, 2001 CanLII 24478. In that case, a building insured by the defendant had been destroyed by fire. There was a first payment under the insurance policy payable jointly to the hypothecary creditor and the owner. The owner then declared bankruptcy, and the hypothecary creditor had to take possession of the premises. The defendant then attempted to terminate the insurance contract, alleging that it had not received written notice of the assignment of the policy from the owner to the hypothecary creditor. This argument was rejected, and the Court found that [translation] “the defendant had implicitly recognized the rights of the hypothecary creditor . . . by the joint payment in favour of the plaintiff and the insured party” (at paragraph 9). The appellants argued that a parallel can be drawn here, given the payment of the investment accounts directly to R3D.
+[104] The Court is of the opinion that this argument must be rejected, given the nature of the hypothecary clause in the home insurance contract. There is no reason to confuse this with an assignment of the balance of the investment accounts carried out in accordance with the directive signed by Mr. Roy, President of R3D and also majority shareholder of the appellants, who were the owners of the insurance policies.
+[105] The final issue is the application of subsection 246(1) of the ITA with respect to 445 Canada’s assessment. Consultants Pub Création Inc. v. Canada, 2008 FCA 60 involved a monetary benefit that a company paid its shareholder. The trial judge relied on paragraph 6(1)(a) “on his own motion” when “the respondent had formally withdrawn it from his pleadings” (at paragraphs 16 and 17). The case was appealed. The Federal Court of Appeal noted that Parliament had “limited the application of this anti‑avoidance measure to situations where the value of the benefit is not otherwise ‘included’ in computing the taxpayer’s income under Part I” (at paragraph 22). It added the following, citing Massicotte v. The Queen, 2004 TCC 558:
+[34] Subsection 246(1) of the ITA is a provision of alternative application since it must be shown that the amount is not otherwise included (for example, under subsection 15(1) of the ITA) and that it would be included if the payment made to the taxpayer was made to him directly.
+. . .
+[36] Consequently, subsection 246(1) of the ITA will be applied “alternatively”. That does not mean that the Respondent may not assess solely on the basis of subsection 246(1) of the ITA, since that provision is sufficient basis for an assessment.
+[37] It is enough simply to establish that the amount is not otherwise included, whereas it would be included were it not for the fact that the payment was made indirectly. The way to prove this is to enumerate the facts constituting the basis of the assessment in the Reply to the Notice of Appeal. This proof should normally show that the amount is not included in computing the taxpayer’s income, but would have been if the payment had been made directly.
+[106] More recently, in Laliberté v. Canada, 2020 FCA 97, the Federal Court of Appeal agreed that the analytical framework with respect to subsection 15(1) and subsection 246(1) was essentially the same.
+[107] In this case, given the foregoing analysis, the Court is of the opinion that R3D conferred a benefit on 445 Canada within the meaning of subsection 246(1) of the ITA.
+6. Conclusion
+[108] The appeals are dismissed with costs to the respondent.
+[109] The parties will have 30 days from the date of these reasons for judgment to reach an agreement on costs. If an agreement is not reached within this period, the parties must file their written submissions of no more than 10 pages with the Court no later than 30 days following this period.
+Signed at Ottawa, Canada, this 28th day of November 2022.
+“Guy R. Smith”
+Smith J.
+Translation certified true
+on this 25th day of January 2024.
+Michael Palles
+CITATION:
+2022 TCC 144
+COURT FILE NOS.:
+2019-2534(IT)G
+2019-2540(IT)G
+STYLES OF CAUSE:
+Gestion M.-A. Roy inc. and His Majesty the King
+4452712 Canada inc. and His Majesty the King
+PLACE OF HEARING:
+Montréal, Quebec
+DATES OF HEARING:
+February 28 and March 1, 2022
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Guy R. Smith
+DATE OF JUDGMENT:
+November 28, 2022
+APPEARANCES:
+Counsel for the Appellants:
+Julie Gaudreault-Martel
+Nicole Platanitis
+Counsel for the Respondent:
+Christian Lemay
+Karman Kong
+COUNSEL OF RECORD:
+For the Appellants:
+Names:
+Julie Gaudreault-Martel
+Nicole Platanitis
+Firm:
+BCF LLP
+For the Respondent:
+François Daigle
+Deputy Attorney General of Canada
+Ottawa, Canada

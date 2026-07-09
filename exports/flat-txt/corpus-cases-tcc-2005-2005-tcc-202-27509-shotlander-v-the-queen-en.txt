@@ -1,0 +1,171 @@
+Title: Shotlander v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27509/index.do
+Corpus path: corpus/cases/tcc/2005/2005-tcc-202-27509-shotlander-v-the-queen-en.md
+Document type: case_law
+Last modified: 2005-03-24
+
+# Shotlander v. The Queen
+
+- Citation: 2005 TCC 202
+- Decision date: 2005-03-24
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Shotlander v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-03-24
+Neutral citation
+2005 TCC 202
+File numbers
+2004-2105(GST)I
+Judges and Taxing Officers
+Louise Lamarre Proulx
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2004-2105(GST)I
+BETWEEN:
+GARY SHOTLANDER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard February 14, 2005, at Montréal, Quebec
+Before: The Honourable Justice Louise Lamarre Proulx
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Frank Archambault
+____________________________________________________________________
+JUDGMENT
+The appeal of the assessment established under the Excise Tax Act, the notice for which is numbered 031150007239G001 and dated August 29, 2003, is allowed and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment, in accordance with the attached reasons for judgment.
+Signed at Ottawa, Canada, this 24th day of March 2005
+Louise Lamarre Proulx
+Lamarre Proulx J.
+Translation certified true
+on this 7th day of April 2006
+Elizabeth Tan, Translator
+Citation: 2005TCC202
+Date: 20050324
+Docket: 2004-2105(GST)I
+BETWEEN:
+GARY SHOTLANDER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Lamarre Proulx J.
+[1] This is an appeal from an assessment established under the Excise Tax Act (the "Act").
+[2] The issue is whether renovations made to a condominium ("condo") are considered "substantial renovations" within the meaning of the expression in subsection 123(1) of the Act. If this is the case, the Appellant has the right to the new housing rebate set out in subsection 256(2) of the Act.
+[3] This definition states:
+"substantial renovation" of a residential complex means the renovation or alteration of a building to such an extent that all or substantially all of the building that existed immediately before the renovation or alteration was begun, other than the foundation, external walls, interior supporting walls, floors, roof and staircases, has been removed or replaced where, after completion of the renovation or alteration, the building is, or forms part of, a residential complex.
+[4] The facts on which the Minister of National Revenue (the "Minister") relied to establish his assessment are described at Paragraph 9 of the Reply to Notice of Appeal as follows:
+[translation]
+(a) the facts admitted above;
+(b) the Appellant is a taxpayer who made renovations to his residential condominium, used as his ordinary residence;
+(c) this residential condominium is a residential building, namely a "condominium complex" as defined at subsection 123(1) of the Excise Tax Act, R.S.C. (1985), c. E-15 (hereinafter the ETA);
+(d) on or around June 1, 2001, the renovation work on the condominium complex began;
+(e) on or around June 1, 2001, the renovation work on the condominium complex was, for the most part, completed;
+(f) on March 15, 2003, the Appellant filed an application for new housing rebate of GST/HST to the Minister, with supporting documents;
+(g) the Minister's analysis of the supporting documents showed that the renovation work was carried out on the following:
+· interior doors
+· drywall, walls, ceilings
+· floor finishing
+· electricity finishing+ accessories
+· plumbing finishing + accessories
+· kitchen cabinets + vanity
+· woodworking finishing
+· paint
+(h) this analysis by the Minister of the supporting documents showed that the condominium complex was renovated at 49%;
+(l) therefore, the Appellant was not eligible for the GST refund requested because the substantial renovations are not substantial renovations as defined in subsection 123(1) of the ETA.
+[5] In his notice of appeal, the Appellant stated that the percentage of renovations to his condo was at least 90% and he spent close to $100,000.
+[6] During his testimony, the Appellant submitted a folder of documents as Exhibit A-1. On December 29, 2000, he acquired a condominium property. At the acquisition, the property was rented. The Appellant gave the prescribed notice to take possession of the property.
+[7] He asked a designer to make renovation plans. Renovations began in June 2001. The two bedrooms became one large room. The bathroom was modified. The room divisions were moved. The kitchen was redone, as well as the dividers and cabinets. All the walls required touch-ups because of a water leak. The bathroom on the mezzanine was redone. The electrical fixtures were replaced by recessed lighting. The heaters or electric baseboards were changed.
+[8] Mr. Roger Arbour testified for the Respondent. He is an auditor for Revenue Quebec. He submitted Exhibit I-1, a folder of documents with five tabs.
+[9] At Tab 2 of Exhibit I-1 is the Appellant's notice of opposition. It describes the Appellant's position as expressed at the hearing well. I quote:
+I renovated 90% of my condo, wall to wall. As a condo owner, I cannot change windows as this is a condo administration matter. I wanted to but was told that they will be changed in 2 or 3 years. Everything else was changed & replaced. Therefore, this condo situation is special unlike a single family home. Therefore this rebate is an honest and fair claim.
+[10] The assessment grid on which the Minister based his findings was produced at Tab 4 of Exhibit I-1. The auditor admitted that it was not an assessment grid that was specifically for condos. The auditor's comments at Tab 4 state:
+[translation]
+Renovation of a condo
+changed look and decoration
+main elements (core plumbing, insulation, core heating, doors and windows) were not replaced
+renovated at 49%
+application refused.
+Analysis and conclusion
+[11] From the declaration of co-ownership (produced with Exhibit A-1), I quote the section describing the private portions and common parts of the condo:
+[translation]
+DECLARATION OF CO-OWNERSHIP
+by
+CONSTRUCTION MARZIM INC.
+...
+PRIVATE PORTIONS
+ARTICLE 5 Rooms and spaces that, under the description of division established at article 14, below, are included in the composition of a fraction, are for the exclusive use of the co-owner and, as such, are "private portions" targeted for residential housing.
+The same goes for the accessories of the above-mentioned spaces, in particular:
+interior partitions and doors; the tiling, flagstones, and, in general, all covering material; ceilings and wood flooring (except for the carcass inside the limits of the common portions); ducts inside the private portions; heating radiators, plumbing appliances in washrooms, lavatories, and toilets; kitchen appliances; electrical installations and ducts inside the limits, etc.
+And, in summary, everything included inside the areas, this list being a non-limited statement.
+ARTICLE 6 The private portions are the exclusive property of each owner of a fraction.
+ARTICLE 7 The limits of each of the private portions described at article 14, below, are:
+10. HORIZONTALLY
+The lower limit of each private portion is made up of the upper surface of the concrete floor.
+The upper limit of each private portion is made up of the lower surface of the concrete floor and the upper floor; and by the lower surface of the roof for apartments on upper floors.
+In case of a covering requiring studs is attached to the ceilings or floors of an apartment, the horizontal limit is the hidden surface of the covering, the studs being common portions, and the entire thickness of the covering, a private portion.
+20. VERTICALLY
+The vertical limits are made up of the hidden surface of the plasterboard or covering, the studs being common portions, the plasterboard or coverings being private portions.
+For windows and doors, the limits are made up of the interior surface of the windows and doors (i.e. entrance and balcony or patio).
+The common separating walls of the apartments and their studs are common portions.
+In cases of coverings on a wall without studs, the vertical limits are made up of the exterior surface of the cement wall or cement blocks, the covering being private portions.
+Subsection 2
+COMMON PORTIONS
+ARTICLE 8 The common portions are all the parts that are designated for use by all co-owners and in particular, without restricting the above generality, common portions are:
+10. the ground, in its entire surface and depth, with access and circulation paths, landscaping such as gardens or terraces, patios, green spaces, aqueduct and sewer installations;
+20. foundations, roofing, flooring, exterior walls, common room on the main floor, hallways, corridors, foyer, elevators, carcass, ceiling (except visible covering), doors leading outside a private portion including balcony doors, windows, garbage chutes, etc.; and
+30. these systems: heating, electricity, pipes, plumbing, ventilation, ducts, signage, including those crossing private portions, all movables that are for common use, etc.
+[12] I feel that the assessment grid is a very useful work tool for auditors, but the grid must be adapted to condominium complexes. The first elements considered in this assessment such as core plumbing, insulation, core electricity, core heating, exterior doors and windows, the basement floor and finishing on the heating system are not appropriate to assessing the percentage of renovations of a property that is a condo. These are common parts and a co-owner cannot touch them.
+[13] It would have been useful in this case to have a written description of the work done as well as pictures and plans. A list of invoices, while necessary, does not clearly show what was done. However, I did not see in the correspondence that the Appellant was asked for such documents.
+[14] On the ground that the assessment grid took irrelevant elements into consideration in assessing the percentage of renovations and having heard the Appellant's description of the work done and the amounts spent, I feel that these could be considered substantial renovations within the meaning of the definition at subsection 123(1) of the Act.
+[15] As a result, the appeal is allowed.
+Signed at Ottawa, Canada, this 24th day of March 2005.
+Louise Lamarre Proulx
+Lamarre Proulx J.
+Translation certified true
+on this 7th day of April 2006
+Elizabeth Tan, Translator
+CITATION:
+2005TCC202
+COURT FILE No.:
+2004-2105(GST)I
+STYLE OF CAUSE:
+Gary Shotlander and The Queen
+PLACE OF HEARING:
+Montréal, Quebec
+DATE OF HEARING:
+February 14, 2005
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Louise Lamarre Proulx
+DATE OF JUDGMENT:
+March 24, 2005
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Frank Archambault
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

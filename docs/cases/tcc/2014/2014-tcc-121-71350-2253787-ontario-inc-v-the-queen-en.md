@@ -1,0 +1,174 @@
+---
+title: "2253787 Ontario Inc. v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/71350/index.do"
+last_modified: "2014-04-28"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2014 TCC 121"
+citation2: ""
+neutral_citation: "2014 TCC 121"
+decision_date: "2014-04-28"
+language: "en"
+item_id: "71350"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5294
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T09:48:45.082000+00:00"
+cases_cited_count: 4
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "8c3156407085c6e728aa4d82c48b9e1ffc5cba3214ddaaca2c7d75b32946951f"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# 2253787 Ontario Inc. v. The Queen
+
+- Citation: 2014 TCC 121
+- Decision date: 2014-04-28
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5294, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+2253787 Ontario Inc. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2014-04-28
+Neutral citation
+2014 TCC 121
+File numbers
+2012-3223(GST)I
+Judges and Taxing Officers
+Randall S. Bocock
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Citation: 2014 TCC 121
+Date: 20140428
+Dockets: 2012-3223(GST)I
+2013-2538(GST)I
+BETWEEN:
+2253787 ONTARIO INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+Docket: 2013-2538(GST)I
+AND BETWEEN:
+2266504 ONTARIO INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+AMENDED CONSOLIDATED REASONS FOR JUDGMENT
+Bocock J.
+I. Introduction
+[1] The Appellants are two private companies incorporated for a single purpose: to commercially engage in the process of leapfrogging the staged continental releases of the iconic Apple iPhone 4 and iPhone 4s in 2010 and 2011, respectively. This “gray market” for such heavily marketed and prolific communication products is created by a multi-national corporation’s desire to sell its product to perceived lucrative and proprietary markets in advance of releasing the product for sale into perceived cutthroat and less proprietary markets. More simply, it is the temporary prohibition of the sale of a product to certain defined markets.
+[2] Wily entrepreneurs such as Mr. Cao, the principal of the two Appellants, circumvent this regional launch management through a series of micro-managed purchases of product in the protective market (Canada) followed by the expedited unmonitored export of the product into the prohibited market for its subsequent re-sale (in this case Hong Kong). In doing so, the gray marketeers reap enhanced profits associated with selling the product first in the prohibited market and at the same time violating the spirit and intent of the original equipment manufacturer (in this case Apple Inc).
+[3] In the present matter, and although the process differed slightly between 2010 and 2011 as a result of immaterial changes to Apple’s sales policy in Canada, the method followed by the Appellants was refined, organized and lithe. Mr. Cao engaged friends, relatives, acquaintances and loosely retained contractors (the “initial buyers”) to acquire one or two iPhones each day from an Apple store in Canada. Each initial buyer would be reimbursed for the sale price, HST and paid a fee provided Mr. Cao had received proof of payment, the phones and verified that the required encoding on the device was compatible (or able to be circumvented) for use in Hong Kong. The iPhones were then immediately sent by courier to Hong Kong and re-sold by the Appellants as the re-seller.
+II. Issues Under Appeal
+[4] The Appellants were reassessed by the Minister who disallowed the Input Tax Credit (ITCs) claimed under the Excise Tax Act, RSC 1985, c. E-15 (the “ETA”) by the Appellants on the iPhone purchases made by the initial buyers from Apple. The Minister asserts that the Appellants did not incur the HST on those initial purchases as a buyer. Further, no legal relationship of agency existed to allow the Appellants to claim the ITCs incurred by the initial buyers.
+[5] As a secondary and alternative ground for denying the ITCs, even if agency did exist, the Minister disallowed the ITCs claimed on the basis that there was insufficient documentation to evidence the incurrence of such ITCs by the Appellants.
+[6] As a further basis for the denial of a portion of the ITCs, the Respondent alleges that some of the ITCs claimed by the Appellant, 2253787 Ontario Inc., were incurred prior to it becoming a registrant under the ETA.
+[7] The Appellants appeal on the basis that an agency existed between the initial buyers and themselves, that there is sufficient documentation to warrant claiming the ITCs, and lastly, that the ITCs claimed by 2253787 during the period prior to registration qualify by virtue of certain pre-registrant grandparenting provisions under section 171(1) of the ETA.
+III. Relevant Statutory Provisions
+[8] Unless exempt for a reason specified, the ETA provides that a person making a supply is required to collect, account for and remit tax on that supply. This is embodied in section 133 of the ETA which provides.
+133. For the purposes of this Part, where an agreement is entered into to provide property or a service,
+(a) the entering into of the agreement shall be deemed to be a supply of the property or service made at the time the agreement is entered into; and
+(b) the provision, if any, of property or a service under the agreement shall be deemed to be part of the supply referred to in paragraph (a) and not a separate supply.
+[9] Statutorily relevant to the Appellants’ assertions of the agency relationship between the initial buyer and the Appellants is subsection 177(1) which provides:
+177. (1) Where
+(a) a person (in this subsection referred to as the “principal”) makes a supply (other than an exempt or zero-rated supply) of tangible personal property to a recipient (otherwise than by auction),
+(b) the principal is not required to collect tax in respect of the supply except as provided in this subsection, and
+(c) a registrant (in this subsection referred to as the “agent”), in the course of a commercial activity of the agent, acts as agent in making the supply on behalf of the principal,
+the following rules apply:
+(d) where the principal is a registrant and the property was last used, or acquired for consumption or use, by the principal in an endeavour of the principal, within the meaning of subsection 141.01(1), and the principal and agent jointly elect in writing, the supply of the property to the recipient is deemed to be a taxable supply for the following purposes:
+(i) all purposes of this Part, other than determining whether the principal may claim an input tax credit in respect of property or services acquired or imported by the principal for consumption or use in making the supply to the recipient, and
+(ii) the purpose of determining whether the principal may claim an input tax credit in respect of services supplied by the agent relating to the supply of the property to the recipient, and
+(e) in any other case, the supply of the property to the recipient is deemed, for the purposes of this Part, to be a taxable supply made by the agent and not by the principal and the agent is deemed, for the purposes of this Part other than section 180, not to have made a supply to the principal of services relating to the supply of the property to the recipient.
+[10] Subsections 169(1) and 169(4) of the Excise Tax Act (“ETA”) provide as follows:
+169. (1) Subject to this Part, where a person acquires or imports property or a service or brings it into a participating province and, during a reporting period of the person during which the person is a registrant, tax in respect of the supply, importation or bringing in becomes payable by the person or is paid by the person without having become payable, the amount determined by the following formula is an input tax credit of the person in respect of the property or service for the period: […]
+169. (4) A registrant may not claim an input tax credit for a reporting period unless, before filing the return in which the credit is claimed,
+(a) the registrant has obtained sufficient evidence in such form containing such information as will enable the amount of the input tax credit to be determined, including any such information as may be prescribed; and
+(b) where the credit is in respect of property or a service supplied to the registrant in circumstances in which the registrant is required to report the tax payable in respect of the supply in a return filed with the Minister under this Part, the registrant has so reported the tax in a return filed under this Part.
+[11] Subsection 169(1) and 169(4), as underlined above for emphasis, are relevant to the claim by the Appellants as to sufficient documentary evidence reflecting the ITCs incurred in acquiring the iPhones from the initial seller, Apple.
+[12] Relevant to the issue of documentation, subsection 3(c) of ITC Information (GST/HST) Regulations SOR/91-45 provides as follows:
+3. (c) where the total amount paid or payable shown on the supporting documentation in respect of the supply or, if the supporting documentation is in respect of more than one supply, the supplies, is $150 or more,
+(i) the information set out in paragraphs (a) and (b),
+(ii) the recipient’s name, the name under which the recipient does business or the name of the recipient’s duly authorized agent or representative,
+(iii) the terms of payment, and
+(iv) a description of each supply sufficient to identify it.
+[13] The following statutory provision is relied upon by the Appellant 2253787 Ontario Inc. for its claim of ITCs relevant to its “pre-registrant” period during which it claims it was a “smaller supplier”:
+171. (1) Where at any time a person becomes a registrant and immediately before that time the person was a small supplier, for the purpose of determining an input tax credit of the person, the person shall be deemed
+(a) to have received, at that time, a supply by way of sale of each property of the person that was held immediately before that time for consumption, use or supply in the course of commercial activities of the person; and
+(b) to have paid, at that time, tax in respect of the supply equal to the basic tax content of the property at that time.
+IV. Analysis
+a) Did the legal relationship of agency exist?
+[14] The parties agree that in the absence of a legal relationship of agency, whereunder the initial buyers acted solely as a conduit for the Appellants, the Appellant would have no right to claim any of the ITCs because the legal requirements of subsection 177(1) would not have been met.
+[15] It is long established law that the underlying components which enable a finding of agency are the consent of both principal and agent, the subsisting authority from the principal to agent allowing the agent to affect the rights or obligations of the principal as if it had entered the contract itself and the principal’s control of the agent’s actions: Royal Securities Corporation Ltd. v. Montreal Trust [1967 OR 137]. In respect of the first component and the third component, there is no need to explore further; it is upon the second ground where the appellants slip in fact and fail at law.
+[16] It is a plain and unequivocal term within both the Apple Retail Store Purchase Policies and the Sale and Refund Policy that purchase is limited to end users and re-sale and export is expressly prohibited. As a specific example, the Sale and Refund Policy states:
+“Canadian Sales to End-Users Only
+The Apple Store will only sell and ship product within the boundaries of Canada. No Shipments can be made to P.O. Box addresses outside Canada. Products purchased at the Apple Store may not be exported.”
+“Sales to End – Users Only
+The Apple Store sells and ships to end-user customers only. You may not purchase for resale. Apple reserves the right to refuse or cancel your order if Apple suspects you are purchasing for resale”
+[17] The third party seller, Apple, has expressly prohibited its primary sale for subsequent re-sale and/or export. Had the alleged agency been disclosed at the outset, Apple would have refused to make the sale. If and when the agency became apparent, Apple would have invalidated the sale, warranty and its obligations under these voidable provisions. For agency to exist, it is mandatory that the agent have the ability to affect the principal’s legal position by entering into contracts on the principal’s behalf; a principal cannot appoint an agent to engage in a contractual entreaty into which the principal has no legal capacity or authority to enter: 1524994 Ontario Ltd. v. Canada, 2007 FCA 74 at paragraph 18.
+[18] Ironically, only by using the initial buyers as pawns could the Appellants actually accomplish their main business purpose: the circumvention of Apple’s prohibited sale to resellers and exporters.
+[19] The main goal was achieved. The coincident goal is not. The relationship of agency, utilized but concealed to dupe the initial seller to contract with the initial buyer, cannot now be revealed post facto in order to inject the notion of a different “principal” buyer and obviate the need for the initial buyer to register for HST and properly claim the ITCs. Agency requires a consistent, clear and documented factual basis for those who view and rely upon it; a story with alternative endings serving different purposes at varying times does not meet that demand. The non-disclosure to one third party (Apple) of one of reality for a main purpose cannot be set aside, when suitable, and re-characterized to another reality for a different third party (the Minister): 1524994 Ontario, supra at paragraph 20.
+[20] On this basis, the Court finds that no agency existed given the required necessity of concealment to the initial seller, with whom, without such a concealment, a legal relationship could not have been created or maintained affecting the rights and obligations of the purported principal. Without that legal foundation block, subsection 177(1) of the ETA has not been satisfied since based upon the actions of the Appellants no agency could be maintained at law.
+[21] The Appellants contends that such a constituent component is no longer required because the doctrine of agency has been adopted, but modified by the ETA and related policy pronouncements. This argument is not supportable by legal authority. The necessarily and deliberately undisclosed purported agency, the fact the initial seller Apple intended to contract solely and exclusively with an initial Canadian buyer, the absolute prohibition against the initial buyer’s re-sale to the Appellants, the inability of the initial buyer to bind the Appellants because of that prohibition rendering the contract unenforceable and the fact the initial buyers’ moneys were used to acquire the goods erode to dust the basic foundation of the second tenet of agency whether at law in or in statute and policy.
+[22] This tenet is included as section 2 of the CRA’s GST/HST Policy Statement P-182R: “Authority of the Agent to Affect the Principal’s Legal Position” which provides (underlining added):
+2. Authority of the Agent to Affect the Principal’s Legal Position
+{……}
+The most common example of the ability of the agent to affect the legal position of the principal is where the agent is authorized to enter into contracts with third parties on the principal.s behalf. For instance, suppose A asks B to negotiate and purchase some equipment from a third person (C). B signs the contract with C, but A is identified in the contract as the purchaser of the equipment. In this case, B has bound A to the terms of the contract. In other words, B’s actions have caused A to acquire the same rights and be subject to the same obligations as if A had signed the contract. […..]
+The ability of Apple to avoid the contract, precisely because of the concealed goal of the party initiating the relationship, precludes the creation of a binding legal relationship: R v. Glengary Bingo Association, 1999 GTC 7101 at paragraph 33. In the absence of agency, the ITCs claimed are not those incurred by the Appellants, but rather by the initial buyers; the Appellants cannot claim the ITCs of third party.
+b) Sufficiency of Documentary Evidence to Claim ITCs.
+[23] Given the finding above, although the issue of satisfactory documentation regarding the ITCs is moot, the Court notes that many names and other requisite information related to a sizeable number of the initial buyers are simply fictitious, unreliable or missing. It is factually impossible for this Court to determine which transactions actually have proper information supporting the ITCs. This is perhaps more surprising given that the Appellants claim agency existed whereby one might expect more fulsome and thorough record keeping to support such an elaborate business and legal structure: Systematix Technology Consultants Inc. v. Canada, 207 FCA 226 and Calistar Construction Services Ltd. v. R (2004 TCC 451).
+[24] On the evidence before the Court, a percentage of well less than half of the transactions for which ITCs are claimed prima facie meet the minimum standards of record keeping necessary to factually ascertain and legally allow an ITC. However, as noted, this is moot because of the absence of an agency arrangement.
+c) Pre-Registrant ITCs.
+[25] As to the issue of the small supplier pre-registrant ITCs for 2253787 Ontario Inc., this argument also fails for the following reasons:
+i) there was no evidence adduced regarding the precise period during which 2253787 Ontario Inc. was actually alleged to have been a small supplier;
+ii) such a period would likely have been quite short given the immediately sizeable value of goods supplied once purchasing commenced; and,
+iii) the statutory provisions require goods to be held during the period a pre-registrant was actually a small supplier, which factually did not occur or occurred for such a brief time that any calculation would be de minimus, even if, such evidence had been adduced which it was not.
+[26] For the reasons stated, the appeals are dismissed. Costs are awarded to the Respondent in accordance with the applicable tariff, unless further written submissions on costs are requested by the parties.
+These Amended Consolidated Reasons for Judgment are issued in substitution of the Reasons for Judgment dated April 28, 2014 in order to correct the minor typographical errors underscored on paragraphs 7, 9, 11, 13, 19, 21, 24 and 26 hereof.
+Signed at Toronto, Ontario, this 18th day of June, 2014.
+“R.S. Bocock”
+Bocock J.
+CITATION: 2014 TCC 121
+COURT FILE NOS.: 2012-3223(GST)I
+2013-2538(GST)I
+STYLES OF CAUSE: 2253787 Ontario Inc.
+2266504 Ontario Inc.
+and HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: February 12, 2014
+REASONS FOR JUDGMENT BY: The Honourable Mr. Justice Randall S. Bocock
+DATE OF JUDGMENT: June 18, 2014
+APPEARANCES:
+For the Appellant:
+Bobby B. Solhi/David Piccolo
+Counsel for the Respondent:
+Ricky Tang/Craig Maw
+COUNSEL OF RECORD:
+For the Appellant: Bobby B. Solhi
+Tax Chambers
+Toronto, Ontario
+For the Respondent: William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

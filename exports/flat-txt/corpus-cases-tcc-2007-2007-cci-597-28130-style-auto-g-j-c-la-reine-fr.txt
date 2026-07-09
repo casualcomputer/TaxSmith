@@ -1,0 +1,114 @@
+Title: Style Auto G.J. c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28130/index.do
+Corpus path: corpus/cases/tcc/2007/2007-cci-597-28130-style-auto-g-j-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2007-09-27
+
+# Style Auto G.J. c. La Reine
+
+- Citation: 2007 CCI 597
+- Decision date: 2007-09-27
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1650, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Style Auto G.J. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-09-27
+Référence neutre
+2007 CCI 597
+Numéro de dossier
+2005-864(GST)G
+Juges et Officiers taxateurs
+François M. Angers
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2005-864(GST)G
+ENTRE :
+STYLE AUTO G.J.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Appel entendu le 27 septembre 2007, à Montréal (Québec).
+Devant : L'honorable juge François Angers
+Comparutions :
+Représentant de l'appelante :
+Jihad Moujaes
+Avocat de l'intimée :
+Me Benoît Denis
+JUGEMENT
+L’appel de la cotisation établie en vertu de la Loi sur la taxe d'accise, dont l’avis est daté du 1er septembre 1998 et porte le numéro 032G0106194, pour la période du 12 juillet 1995 au 31 octobre 1997, est accueilli en partie, et la cotisation est renvoyée au ministre du Revenu national pour nouvel examen et nouvelle cotisation afin que le montant de 15 021,92 $ soit réduit de 2 009 $ et s’établisse à 13 012,92 $, plus les intérêts et les pénalités. L’intimée a droit à ses dépens.
+Signé à Ottawa, Canada, ce 16e jour de novembre 2007.
+« François Angers »
+Juge Angers
+Référence : 2007CCI597
+Date : 20071116
+Dossier : 2005-864(GST)G
+ENTRE :
+STYLE AUTO G.J.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Angers
+[1] Il s’agit de l’appel d’une cotisation en date du 1er septembre 1998 et portant le numéro 032G0106194 pour la période du 12 juillet 1995 au 31 octobre 1997, établie à l’encontre de l’appelante en vertu des dispositions de la Loi sur la taxe d’accise (la « Loi »). Dans la cotisation, le ministre du Revenu national (le « ministre ») a ajouté à la taxe nette déclaré par l'appelante le montant de 15 021,92 $, qui représente la taxe sur les produits et services (« TPS ») que l'appelante aurait dû percevoir lors de la fourniture d'automobiles, ainsi que des intérêts de 1 276,47 $ et des pénalités de 1 958,46 $. Le montant total de la cotisation était donc de 18 256,85 $.
+[2] Le litige porte sur la question de savoir si les fournitures de 33 automobiles constituent des fournitures détaxées en vertu des articles 1 et 12 de la partie V de l’annexe VI de la Loi.
+[3] L'appelante, qui n'est pas constituée en société, exploite une entreprise de vente d'automobiles. M. Jihad Moujaes en est le propriétaire et le responsable. Son commerce a fait l’objet d’une vérification, et l'on a constaté que l’appelante ne possédait pas suffisamment de documentation pour satisfaire le ministre du fait que 33 automobiles avaient fait l’objet d’une vente à l’étranger, c’est-à-dire qu’elles ont été exportées ou que l’acquéreur n'était pas un consommateur. Devant cet état de choses, le ministre a donc établi une cotisation en tenant compte du fait que la TPS aurait dû être perçue lors de la vente de ces automobiles pour les motifs suivants, entre autres :
+[…] la fourniture des véhicules automobiles en cause ne constitue pas une fourniture détaxée au sens de l’article 1 de la Partie V de l’Annexe VI de la LTA puisque l’Appelante ne possède pas de preuves démontrant l’exportation de ces véhicules automobiles par les acquéreurs, lesquels acquéreurs ne doivent pas être des consommateurs et ils ne doivent pas les avoir acquis pour consommation, utilisation ou fourniture au Canada avant l’exportation, entre autres conditions;
+[…] la fourniture des véhicules automobiles en cause ne constitue pas une fourniture détaxée au sens de l’article 12 de la Partie V de l’Annexe VI de la LTA puisque l’Appelante ne possède aucune preuve qu’elle a expédié lesdits véhicules automobiles à une destination à l’étranger, précisée dans le contrat de factage, ou qu’elle a transféré lesdits véhicules automobiles à un transporteur public qui a été chargé de les expédier à une destination à l’étranger.
+[4] M. Moujaes soutient qu’il a collaboré et a tout fourni ce qu’il avait au vérificateur de l’intimée. Il déclare qu’il a d’autres documents chez lui, mais qu’il n’a pas cru bon de les apporter, trouvant trop difficile la recherche que cela exigerait. M. Moujaes a aussi expliqué qu’il n’a pu retrouver la documentation d’un des transporteurs maritimes parce qu’il a fait faillite. Il soutient qu'il a agi de bonne foi et que ces voitures ont été exportées. Il ajoute avoir un formulaire identifié comme « B‑13 » pour chacune des voitures exportées, mais il n’en a produit qu’un seul à l’audience, accompagné du contrat de vente (pièce A‑1), pour une voiture dont la vente avait été refusée par le vérificateur. Il soutient qu’un fonctionnaire de Revenu Québec lui avait suggéré qu’il suffisait de conserver ce document pour établir une preuve de l’exportation des voitures qu’il vendait hors du Canada. Le formulaire B‑13 est intitulé « Déclaration d’exportation » et comprend des renseignements sur l’exportation de biens. Ces formulaires ont été remis au vérificateur lors de la vérification et certains ont été jugés incomplets tout comme certains contrats de factage qui font d’ailleurs l’objet du présent litige.
+[5] Selon madame Sonia Moujaes, qui s’occupe de la comptabilité de l’appelante, le contrat de vente déposé avec le formulaire B‑13 et qui fut refusé n’est pas signé par l’acheteur parce que l'opération s’est faite au téléphone ou par Internet et que dans ces cas-là, l’acheteur ne voit pas la voiture avant de la recevoir. Les grossistes achètent des automobiles sans les voir et si un problème survient, ils renégocient le prix ou annulent la vente. Elle déclare que les voitures exportées sont habituellement destinées à des commerçants. L'appelante paie rarement les frais de transport, et le paiement des voitures se fait par transfert d’argent ou envoi de chèques par courrier.
+[6] Un tableau des fournitures visées par la cotisation et préparé par le vérificateur identifie les 33 voitures en litige et les motifs du refus de l’exemption. On y trouve la date et le prix de vente, mais les renseignements au sujet du véhicule, du numéro de série, de l’acquéreur et du pays de destination ne sont pas disponibles pour chacune des ventes. Il y a 17 voitures pour lesquelles il fut jugé que le formulaire B‑13 était insuffisant parce qu'il n’a pas été validé ou estampillé par Douanes Canada et qu'il était impossible de retracer complètement les opérations. Le vérificateur a d’ailleurs décrit la comptabilité de l’appelante comme étant minimale et inadéquate au moment de la vérification.
+[7] Le vérificateur a également établi des cotisations à l'égard de sept voitures au motif que les contrats de factage étaient incomplets, puisque les acquéreurs n’étaient pas identifiés dans les registres comptables de l’appelante, ou encore parce qu’il s’agissait d'opérations avec des particuliers. Huit opérations indiquées au tableau ont fait l'objet d'une cotisation parce qu’aucune documentation ne fut soumise. Une dernière opérations a fait l'objet d'une cotisation car la preuve était incomplète, parce que l’expéditeur n’était pas un transporteur et que le vérificateur n’a pas trouvé de facture de vente, sauf une inscription dans les registres comptables de l’appelante.
+[8] Les articles 1 et 12 de la partie V de l’annexe VI de la Loi, qui visent les fournitures détaxées, se lisaient comme suit à l’époque pertinente :
+PARTIE V – EXPORTATIONS
+1 Bien meuble corporel La fourniture d’un bien meuble corporel, sauf un produit soumis à l’accise, effectuée par une personne au profit d’un acquéreur, autre qu’un consommateur, qui a l’intention d’exporter le bien, si à la fois :
+a) l’acquéreur exporte le bien dans un délai raisonnable après en avoir pris livraison de cette personne, compte tenu des circonstances entourant l’exportation et, le cas échéant, de ses pratiques commerciales normales;
+b) l’acquéreur n’acquiert pas le bien pour consommation, utilisation ou fourniture au Canada avant l’exportation;
+c) entre le moment de la fourniture et celui de l’exportation, le bien n’est pas davantage traité, transformé ou modifié au Canada, sauf dans la mesure raisonnablement nécessaire ou accessoire à son transport;
+d) la personne possède des preuves, que le ministre estime acceptables, de l’exportation du bien par l’acquéreur ou, s’il y est autorisé en application du paragraphe 221.1(2) de la loi, l’acquéreur remet à la personne un certificat dans lequel il déclare que le bien sera exporté dans les circonstances visées aux alinéas a) à c).
+…
+12 Bien meuble corporel livré à voiturier public La fourniture d’un bien meuble corporel que le fournisseur livre à un voiturier public, ou poste, en vue de son exportation.
+[9] Il incombe donc à l’appelante de faire la preuve, selon la prépondérance des probabilités, que les 33 voitures qu’elle a vendues ont fait l’objet d’une exportation, soit parce qu'elle a vendu les voitures à un acquéreur, autre qu’un consommateur, qui avait l’intention de les exporter, soit parce qu'elle les a livrées à un voiturier public en vue de leur exportation.
+[10] En l’espèce, quelques copies des contrats de factage ont été déposées en preuve, ainsi qu'un seul contrat de vente accompagné d’un formulaire B‑13. Monsieur Moujaes n’a pas cru bon d’apporter les autres documents ou contrats de vente qu’il avait semble‑t‑il en sa possession, mais chez lui. Il devient donc difficile pour la Cour de déterminer si le ministre a agi correctement dans l’exercice de son pouvoir discrétionnaire lorsqu'il avait à décider si la preuve de l’exportation fournie par l’appelante est acceptable.
+[11] Dans l’affaire Uranus Auto Sales c. La Reine, no 2001‑2820(GST)I, 8 avril 2002, [2002] G.S.T.C. 39, notre Cour a décidé que seul le ministre pouvait décider si la preuve de l’exportation fournie par un contribuable était acceptable et que la Cour ne pouvait pas intervenir à moins que la preuve démontre que le ministre, en arrivant à la décision, a tenu compte de facteurs dépourvus d’intérêt, a omis de tenir compte des faits pertinents, a violé un principe de droit ou a agi de mauvaise foi.
+[12] En l’espèce, le vérificateur a témoigné que la comptabilité de l’appelante était minimale et inadéquate, du moins durant les années en cause. Il a été obligé, dans la plupart des cas, de retracer la vente de ces automobiles en se fiant au registre comptable, car plusieurs factures de vente étaient inexistantes. En fait, dans le cas des formulaires B‑13, qui n’étaient pas estampillés par Revenu Canada – Douanes et Accises, il était impossible de retracer complètement les opérations. Il en va de même pour les contrats de factage dans lesquels les acquéreurs n’étaient pas identifiés, ou des cas où l'acheteur était un particulier. L’appelante n’a pas avancé de preuve qui puisse me permettre de conclure que le ministre a mal évalué la preuve d’exportation fournie par l’appelante.
+[13] M. Moujaes affirme que les 33 voitures ont bel et bien été exportées, mais il a été incapable de produire une preuve fiable pour établir cet état de choses, tant au moment de la vérification que lors de l’audience de cette cause. Il y a huit voitures pour lesquelles aucune preuve documentaire n’a été soumise à quelque moment que ce soit. Il est important de rappeler l’obligation de toute personne qui exploite une entreprise au Canada selon le paragraphe 286(1) de la Loi :
+286(1) Obligation de tenir des registres Toute personne qui exploite une entreprise au Canada ou y exerce une activité commerciale, toute personne qui est tenue, en application de la présente partie, de produire une déclaration ainsi que toute personne qui présente une demande de remboursement doit tenir des registres en anglais ou en français au Canada ou à tout autre endroit, selon les modalités que le ministre précise par écrit, en la forme et avec les renseignements permettant d’établir ses obligations et responsabilités aux termes de la présente partie ou de déterminer le remboursement auquel elle a droit.
+[14] M. Moujaes soutient qu’il a toujours agi de bonne foi. Selon lui, un fonctionnaire de Revenu Québec lui a dit à deux occasions que le formulaire B‑13 était suffisant pour démontrer qu’une voiture a été exportée, et il s’est fié à ce renseignement pour agir ainsi. Il invoque donc le moyen de défense de la diligence raisonnable afin d’éviter la pénalité imposée. Il est bon de souligner la différence entre le moyen de défense de la diligence raisonnable et le moyen de défense de la bonne foi. La Cour d’appel fédérale disait ceci sur cette question au paragraphe 29 de l’arrêt Corporation de l’École polytechnique c. La Reine, 2004 CAF 127 :
+29 La défense de diligence raisonnable ne doit pas être confondue avec la défense de bonne foi qui a cours dans le régime de responsabilité pénale exigeant la preuve d'une intention ou d'une connaissance coupable. La défense de bonne foi permet l'exonération d'une personne qui a commis une erreur de fait de bonne foi, même si celle-ci est déraisonnable, alors que la défense de diligence raisonnable exige que cette erreur soit raisonnable, c'est-à-dire une erreur qu'une personne raisonnable aurait aussi commise dans les mêmes circonstances. La défense de diligence raisonnable qui requiert une croyance raisonnable, mais erronée, en une situation de fait est donc plus exigeante que celle de bonne foi qui se contente d'une croyance honnête, mais tout aussi erronée.
+[15] Le fait que M. Moujaes se soit fié aux renseignements provenant d’un fonctionnaire de Revenu Québec n’est pas suffisant pour établir le moyen de défense de la diligence raisonnable. Cette Cour a d’ailleurs indiqué dans l’affaire Stafford, Stafford et Jakeman c. Canada, no 94‑582(GST)I, 13 février 1995, [1995] G.S.T.C. 7, que « la diligence raisonnable englobe plus que simplement accepter un quelconque avis oral qu’a pu donner un répartiteur du ministère du Revenu national », et dans l’affaire Wong c. La Reine, no 94‑2918(GST)I, 9 janvier 1996, [1996] G.S.T.C. 73, la Cour dit :
+[…] La diligence raisonnable n'est rien de plus que le soin qu'une personne raisonnable prendrait pour assurer le respect de la Loi. Elle ne requiert ni la perfection, ni l'infaillibilité. Elle requiert toutefois plus qu'une demande de renseignements fortuite auprès d'un fonctionnaire du ministère du Revenu […]
+[16] En conclusion, l’appelante n’a pas réussi, selon la prépondérance des probabilités, à démontrer que le ministre a mal agi dans l’exercice de son pouvoir discrétionnaire lors de son examen des preuves de l’exportation des voitures en litige nécessitant ainsi l’intervention de cette Cour. Elle n’a pas non plus réussi à établir qu’elle a livré à un voiturier public certaines des voitures en vue de leur exportation ou qu’elle a simplement exporté les voitures en litige. Elle n’a également pas réussi à établir le moyen de défense de la diligence raisonnable à l’encontre des pénalités.
+[17] L’intimée a toutefois consenti à ce que la cotisation soit renvoyée au ministre pour nouvel examen et nouvelle cotisation afin que le montant de 15 021,92 $ soit réduit de 2 009 $, et s’établisse à 13 012,92 $, plus les intérêts et les pénalités. L’appel est accueilli en partie. L’intimée aura cependant droit à ses dépens.
+Signé à Ottawa, Canada, ce 16e jour de novembre 2007.
+« François Angers »
+Juge Angers
+RÉFÉRENCE : 2007CCI597
+Nº DU DOSSIER DE LA COUR : 2005-864(GST)G
+INTITULÉ DE LA CAUSE : Style Auto G.J. et Sa Majesté La Reine
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATE DE L’AUDIENCE : Le 27 septembre 2007
+MOTIFS DU JUGEMENT PAR : L'honorable juge François Angers
+DATE DU JUGEMENT : Le 16 novembre 2007
+COMPARUTIONS :
+Représentant de l'appelante :
+Jihad Moujaes
+Avocat de l'intimée :
+Me Benoît Denis
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelante :
+Nom :
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

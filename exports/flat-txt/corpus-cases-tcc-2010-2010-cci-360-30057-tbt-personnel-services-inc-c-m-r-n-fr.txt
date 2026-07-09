@@ -1,0 +1,284 @@
+Title: TBT Personnel Services Inc. c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30057/index.do
+Corpus path: corpus/cases/tcc/2010/2010-cci-360-30057-tbt-personnel-services-inc-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2010-06-30
+
+# TBT Personnel Services Inc. c. M.R.N.
+
+- Citation: 2010 CCI 360
+- Decision date: 2010-06-30
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7691, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+TBT Personnel Services Inc. c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2010-06-30
+Référence neutre
+2010 CCI 360
+Numéro de dossier
+2006-2393(EI)
+Juges et Officiers taxateurs
+Leslie M. Little
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2006-2393(EI)
+ENTRE :
+TBT PERSONNEL SERVICES INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec l’appel de TBT Personnel Services Inc. (2006-2394(CPP)), le 25 mars 2010, à Toronto (Ontario)
+Devant : L’honorable juge L.M. Little
+Comparutions :
+Avocat de l’appelante :
+Me David W. Chodikoff
+Avocate de l’intimé :
+Me Rita Araujo
+____________________________________________________________________
+JUGEMENT MODIFIÉ
+L’appel est accueilli sans qu’aucuns dépens soient adjugés, et la décision du ministre est modifiée conformément aux motifs du jugement ci‑joints.
+Signé à Toronto, (Ontario), ce 15e jour de septembre 2010.
+« L.M. Little »
+Juge Little
+Traduction certifiée conforme
+ce 4e jour de novembre 2010.
+Hélène Tremblay, traductrice
+Dossier : 2006-2394(CPP)
+ENTRE :
+TBT PERSONNEL SERVICES INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec l’appel de TBT Personnel Services Inc. (2006‑2393(EI)), le 25 mars 2010, à Toronto (Ontario)
+Devant : L’honorable juge L.M. Little
+Comparutions :
+Avocat de l’appelante :
+Me David W. Chodikoff
+Avocate de l’intimé :
+Me Rita Araujo
+____________________________________________________________________
+JUGEMENT MODIFIÉ
+L’appel est accueilli sans qu’aucuns dépens soient adjugés, et la décision du ministre est modifiée conformément aux motifs de jugement ci‑joints.
+Signé à Toronto, (Ontario), ce 15e jour de septembre 2010.
+« L.M. Little »
+Juge Little
+Traduction certifiée conforme
+ce 2e jour de novembre 2010.
+Hélène Tremblay, traductrice
+Référence : 2010 CCI 360
+Date : 20100915
+Dossiers : 2006-2393(EI)
+2006-2394(CPP)
+ENTRE :
+TBT PERSONNEL SERVICES INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT MODIFIÉS
+Le juge Little
+A. LES FAITS
+[1] L’appelante, TBT Personnel Services Inc. (« TBT »), est une société canadienne qui conclut des contrats avec des chauffeurs de camion pour qu’ils fournissent des services de transport par camion à d’autres entreprises de camionnage.
+[2] L’appelante a été constituée en société le 27 octobre 1999. Le seul actionnaire et administrateur de l’appelante est Antonio Santos (« M. Santos »).
+[3] Dans les avis d’appel, l’appelante déclare que, normalement, une entreprise de camionnage conclut un contrat avec elle pour qu’elle fournisse un service de camionnage. De son côté, l’appelante conclut un contrat de sous‑traitance avec un chauffeur en vue de la prestation du service de camionnage.
+[4] Selon les déclarations que l’avocat a faites dans la transcription, 43 chauffeurs de camion qui fournissaient les services de transport par camion à l’appelante avaient constitué une société, alors que 53 chauffeurs ne l’avaient pas fait.
+[5] Les témoignages indiquaient que tous les chauffeurs conduisaient des camions servant principalement au transport de l’acier.
+[6] L’appelante concluait des contrats par écrit avec les chauffeurs de camion (les « travailleurs ») ou avec leurs sociétés.
+[7] Locomote Systems Inc. (« Locomote ») est une société qui fournit les camions utilisés par les travailleurs. La preuve indique que Locomote louait environ 40 camions et un grand nombre de remorques. En 2001, M. Santos était président de Locomote. M. Santos a déclaré en témoignant qu’il n’était pas actionnaire ou dirigeant de Locomote en 2002, en 2003 et en 2004.
+[8] TOFI Holdings Inc. (« TOFI ») est une société de portefeuille. M. Santos a déclaré que son épouse, Filomena, détient 63 ou 65 p. 100 des actions de TOFI (transcription, page 53, lignes 15 à 24).
+[9] M. Santos a déclaré dans son témoignage qu’il n’était pas actionnaire ou dirigeant de TOFI au cours des années 2002, 2003 et 2004.
+[10] Centinel Equipment Leasing Inc. (« Centinel ») est une société de financement et de location de camions. Centinel loue des camions à Locomote.
+[11] TOFI détient les actions de Locomote et de Centinel.
+[12] Le diagramme suivant indique la façon dont les actions des sociétés étaient réparties :
+M. Santos a quitté Locomote au début de l’année 2000
+M. Santos s’est démis de ses fonctions d’administrateur le 22 février 2002
+[13] Les travailleurs exerçaient leurs fonctions de chauffeurs de camion en Ontario et au Québec ainsi qu’aux États‑Unis.
+[14] L’appelante soutient que les contrats qu’elle concluait avec les travailleurs non constitués en société étaient identiques aux contrats qu’elle concluait avec les travailleurs constitués en société.
+[15] Le ministre du Revenu national (le « ministre ») a conclu que 96 des travailleurs étaient des employés de l’appelante au cours de la période allant du 1er janvier 2002 au 31 décembre 2004 (la « période ») pour l’application de la Loi sur l’assurance‑emploi (la « Loi ») et du Régime de pensions du Canada (le « Régime »).
+B. LE POINT EN LITIGE
+[16] a) Dans l’avis d’appel, l’appelante déclare que la question en litige est la suivante :
+[traduction]
+11. Les chauffeurs non constitués en société sont‑ils des employés ou des entrepreneurs indépendants pour l’application de la Loi sur l’assurance‑emploi et du Régime de pensions du Canada?
+b) La réponse que le ministre a déposée est libellée comme suit :
+[traduction]
+11. Au cours de la période mentionnée dans la présente réponse, les travailleurs étaient‑ils employés aux termes d’un contrat de louage de services au sens de la Loi [du Régime], et les évaluations devraient‑elles être confirmées, modifiées ou annulées?
+(Nota : Les noms des 96 travailleurs figurent à l’annexe A jointe à la réponse. Ces personnes sont celles qui, selon le ministre, étaient des employés de l’appelante au cours de la période.)
+[17] Il importe de noter que l’appelante (dans l’avis d’appel) indique qu’il s’agit de savoir si les [traduction] « chauffeurs non constitués en société » sont des employés pour l’application de la Loi et du Régime. Toutefois, la réponse dit clairement qu’il s’agit de savoir si tous les travailleurs (les 96 travailleurs) mentionnés à l’annexe A étaient des employés ou des entrepreneurs indépendants au cours de la période ici en cause.
+C. ANALYSE ET DÉCISION
+[18] Il existe une certaine confusion concernant la preuve et la position prise par chaque partie. Ainsi, l’avocate de l’intimé a dit que le ministre avait reconnu qu’il y avait d’autres travailleurs de TBT constitués en société qui n’étaient pas visés par l’évaluation établie par l’Agence du revenu du Canada (l’« ARC »).
+[19] Toutefois, l’avocate de l’intimé a déclaré qu’elle n’était pas prête à reconnaître que l’un quelconque des travailleurs mentionnés à l’annexe A de la réponse était un entrepreneur indépendant. Comme elle l’a dit :
+[traduction]
+Essentiellement, les 96 travailleurs mentionnés à l’annexe A ont fait l’objet d’une évaluation et on croyait qu’ils étaient des travailleurs non constitués en société.
+(Transcription, page 242, lignes 2 à 4)
+[20] À la page 263 de la transcription, j’ai posé la question suivante :
+[traduction]
+Le juge : Je veux revenir sur cette question : Soutenez‑vous que chacune des personnes mentionnées à l’annexe A de la réponse est un employé?
+Me Araujo : Oui, Monsieur le juge.
+(Transcription, page 263, lignes 16 à 20)
+[21] L’avocate de l’intimé a également dit ce qui suit :
+[traduction]
+Je crois comprendre qu’ils étaient constitués en société et qu’ils n’étaient pas visés par l’évaluation et que l’ARC acceptait –
+(Transcription, page 264, lignes 17 à 20)
+[22] La confusion est en partie attribuable au fait que les présents appels ont été interjetés sous le régime de la procédure informelle et que les parties n’ont pas eu l’avantage de procéder à des interrogatoires préalables ou d’obtenir la production de documents.
+[23] À la page 216 de la transcription, l’avocat de l’appelante, Me Chodikoff, s’est reporté à la réponse du ministre et il a dit :
+[traduction]
+Me Chodikoff : […] mon argument est notamment que le ministre n’a fait aucune distinction dans les arguments qu’il a avancés dans ses hypothèses. Je crois que l’une des raisons est qu’il ne s’agit pas d’une affaire régie par la procédure générale. On n’a pas, à moins de recourir –
+Le juge : Il n’y a pas d’interrogatoires préalables.
+Me Chodikoff : – les interrogatoires préalables, une liste de documents et ainsi de suite.
+Le juge : Je comprends.
+(Transcription, page 216, lignes 20 à 25, et page 217, lignes 1 à 4)
+[24] À la page 268, j’ai dit :
+[traduction]
+Le juge : Comme vous l’avez déjà mentionné, je crains que compte tenu du fait qu’il n’y a pas eu d’interrogatoires préalables et qu’aucun document n’a été produit et à cause de la procédure qui a été suivie, il s’agisse d’un procès par embuscade.
+Me Chodikoff : Il s’agit sans aucun doute d’un procès par embuscade. […]
+(Transcription, page 268, lignes 5 à 11)
+[25] Je mentionne ces remarques en ce qui concerne la procédure informelle par opposition à la procédure générale parce que, au fur et à mesure que l’instruction a avancé, il est devenu évident que les parties ne s’entendaient pas sur un certain nombre de questions de fait.
+[26] Au cours de l’instruction, l’avocat de l’appelante a produit un document intitulé : [traduction] « Recueil de documents de l’appelante » (pièce A‑1).
+[27] L’avocate de l’intimé a dit que dans certains documents produits sous la cote A‑1, il était fait mention de personnes qui n’étaient pas des travailleurs mentionnés à l’annexe A de la réponse de l’intimé.
+[28] Les parties se sont entendues pour que les documents suivants soient retranchés de la pièce A‑1 :
+Onglet 8, onglet 9 et onglet 27.
+(Nota : Les personnes mentionnées aux onglets 8, 9 et 27 n’étaient pas en cause en ce qui concerne la période visée par les appels.)
+[29] J’examinerai maintenant les questions de droit. Comme il en a ci‑dessus été fait mention, l’avocate de l’intimé soutient que la question dont la Cour est saisie est de savoir si les 96 personnes mentionnées à l’annexe A étaient des employés ou si elles étaient plutôt des entrepreneurs indépendants.
+[30] Cette question a été traitée dans un grand nombre de décisions judiciaires. La décision que la Cour d’appel fédérale a rendue dans l’affaire Wiebe Door Services Ltd. v. M.N.R., 87 DTC 5025, est l’un des arrêts faisant autorité sur ce point. Dans l’arrêt Wiebe Door, la Cour d’appel a cerné les critères suivants :
+a) le contrôle ;
+b) la propriété des instruments de travail;
+c) les chances de bénéfice et les risques de perte;
+d) l’intégration du travail des employés à l’entreprise de l’employeur.
+Le contrôle
+[31] L’avocat de l’appelante a cité MM. David Howson et Perry Lamers comme témoins.
+[32] Ces témoins ont déclaré qu’ils étaient rémunérés au kilomètre. Ils ont tous deux témoigné qu’ils estimaient être des entrepreneurs indépendants et effectuer un travail indépendant.
+[33] M. Santos a également témoigné qu’il embauchait les chauffeurs à titre d’entrepreneurs indépendants. (Nota : M. Lamers possédait sa propre société, et M. Howson a maintenu qu’il était propriétaire unique.)
+[34] La relation que MM. Howson et Lamers entretenaient avec l’appelante était la suivante : ils avaient conclu avec l’appelante un contrat en vue d’agir à titre de sous‑traitants comme chauffeurs de camion en vue de transporter de l’acier pour Dofasco, Stelco, Algoma et d’autres aciéries. Selon leurs témoignages, ils recevaient des instructions des répartiteurs qui travaillaient pour Locomote. Ils conduisaient des camions qui étaient loués ou qui appartenaient à Locomote.
+[35] Je crois qu’il est utile de mentionner la preuve que MM. Howson et Lamers ont présentée.
+[36] L’avocat de l’appelante a cité M. David Howson comme témoin. M. Howson a témoigné être chauffeur de camion depuis environ 31 ans. Il a déclaré que ses services avaient été retenus par l’appelante. L’avocat de l’appelante s’est reporté à la pièce A‑2 et il a posé la question suivante à M. Howson :
+[traduction]
+Q. Que voulez-vous dire lorsque vous parlez de « votre société »?
+R. Je possédais ma propre entreprise – à titre de propriétaire unique.
+Q. De quelle façon déclariez‑vous votre revenu?
+R. En tant que propriétaire unique.
+Q. Est-ce là ce que vous avez fait en 2002, en 2003 et en 2004?
+R. Oui.
+(Transcription, page 85, lignes 2 à 11)
+[37] L’avocat de l’appelante a renvoyé M. Howson à la pièce A‑1 (onglet 38) et lui a demandé d’expliquer ce qu’il avait signé. M. Howson a répondu :
+[traduction]
+R. Cela devait me permettre d’exploiter mon entreprise qui, à ce moment‑là, était connue sous le nom de DNH Pro Services, et d’être indépendant. Je n’aurais plus à rendre compte à un patron parce que j’étais le patron.
+(Transcription, page 89, lignes 13 à 17)
+[38] L’avocat de l’appelante a également cité M. Perry Lamers comme témoin. M. Lamers a déclaré qu’il conduisait des camions depuis 32 ans. Il a témoigné qu’il possédait sa propre société et qu’il avait signé un contrat avec l’appelante (transcription, page 114, lignes 20 à 22, et page 115, lignes 2 à 5).
+[39] L’avocate de l’intimé a demandé à M. Lamers de faire des remarques au sujet de la clause 8 de l’entente. M. Lamers a dit ce qui suit :
+[traduction]
+R. Je devais être responsable de mes propres impôts et de ma propre TPS, et c’est ce que j’ai fait.
+(Transcription, page 116, lignes 2 et 3)
+[40] Selon la preuve produite sous la cote A‑1, environ 43 travailleurs ont signé avec l’appelante des contrats aux termes desquels ils reconnaissaient que leur société (les sociétés étaient désignées comme étant les entrepreneurs) voulaient conclure un contrat avec l’appelante. Chacune des ententes produites sous la cote A‑1 renferme les dispositions suivantes :
+[traduction]
+I. ENTREPRENEUR INDÉPENDANT
+L’entrepreneur déclare vouloir par les présentes agir à titre d’entrepreneur indépendant, être pleinement qualifié et posséder le matériel adéquat pour exercer pareille activité. L’entrepreneur s’engage à assurer les services de transport et services complémentaires, notamment le chargement et le déchargement, selon les exigences des clients de la société. Les parties conviennent que la relation qui existe entre elles découle d’un contrat d’entreprise.
+[…]
+XIII. RELATION ENTRE LES PARTIES
+Il est entendu que la relation créée dans les présentes n’est pas une relation mandant‑mandataire, commettant‑préposé ou employeur‑employé entre la société et l’entrepreneur. L’entrepreneur s’engage à ne jamais conclure de contrat ou d’entente et à ne jamais prendre d’engagements au nom de la société ou pour le compte de la société et à ne rien faire qui puisse entraîner la responsabilité de la société à l’égard de son entreprise ou de quelque autre façon. L’entrepreneur s’engage à être tenu pleinement responsable de toutes les charges gouvernementales pour lui‑même et ses employés, notamment les impôts, qu’il s’agisse d’impôts des sociétés ou d’impôts des particuliers, de retenues à la source, de cotisations au Régime de pensions du Canada et à l’assurance‑emploi ou du versement de la TPS, et il s’engage par les présentes à dégager la société de toute responsabilité à cet égard. L’entrepreneur s’engage à fournir un certificat de décharge de la CSPAAT une fois l’an.
+[41] Dans l’arrêt 671122 Ontario Ltd. c. Sagaz Industries Canada Inc., 2001 CSC 59, [2001] A.C.S. no 61, le juge Major s’est posé la question suivante (page 14) : « À qui appartient l’entreprise? » Selon les témoins, MM. Howson et Lamers, il s’agissait de leur entreprise.
+[42] L’avocat de l’appelante a mentionné le critère du contrôle et il a dit :
+[traduction]
+[…] ce n’est pas TBT (l’appelante) qui exerçait un contrôle sur les chauffeurs. Dans ce cas‑ci, c’était principalement Locomote, qui était la société transportant l’acier, qui exerçait un contrôle sur les chauffeurs, et non TBT.
+(Transcription, page 206, lignes 16 à 19)
+[43] J’ai analysé la preuve, les témoignages que l’appelante et MM. Howson et Lamers ont présentés sous serment ainsi que les décisions judiciaires, et je conclus que les travailleurs qui avaient constitué une société n’étaient pas visés par le critère du contrôle et qu’ils n’étaient donc pas des employés de l’appelante.
+La propriété des instruments de travail
+[44] MM. Howson et Lamers ont témoigné qu’ils possédaient chacun leurs propres instruments de travail, comme douze tendeurs, douze chaînes, six plateaux et six planches d’arrimage, dont la valeur était de 3 000 à 5 000 $. Ils ont également dit qu’il fallait renouveler ce matériel. L’avocat de l’appelante a également fait remarquer que leur véritable compétence dans ce cas‑ci consiste à pouvoir conduire des camions transportant de lourds chargements d’acier.
+Les chances de bénéfice et les risques de perte
+[45] L’avocat de l’appelante a fait remarquer que les travailleurs subissaient une perte s’ils s’acquittaient de l’engagement qu’ils avaient pris avec la société de camionnage et qu’il arrivait quelque chose dont ils étaient responsables. Il s’agissait‑là des risques de perte pour les travailleurs.
+L’intention
+[46] La Cour a également examiné l’intention des parties. Comme il en a ci‑dessus été fait mention, 43 travailleurs ont signé avec l’appelante des contrats en fonction desquels ils s’engageaient à ce que leur société à responsabilité limitée fournisse des services de transport par camion à l’appelante.
+[47] À mon avis, l’intention des travailleurs qui avaient constitué une société et de l’appelante était la suivante : les travailleurs qui avaient signé ces contrats avaient l’intention d’agir à titre d’entrepreneurs indépendants.
+[48] Dans la décision The Royal Winnipeg Ballet v. M.N.R., 2006 DTC 6323, la juge Sharlow a dit ce qui suit au paragraphe 64 :
+[64] Dans les circonstances, il me semble qu’il serait contraire aux principes applicables de mettre de côté, en le considérant comme dépourvu de toute force probante, le témoignage non contredit des parties quant à la façon dont elles comprennent la nature de leur relation juridique, même si ce témoignage ne saurait être déterminant. […]
+En l’espèce, les travailleurs qui avaient constitué une société avaient clairement l’intention d’agir à titre d’entrepreneurs indépendants plutôt qu’à titre d’employés. Je crois que les motifs énoncés dans l’arrêt Royal Winnipeg Ballet s’appliquent dans ce cas‑ci.
+[49] J’ai conclu que les 43 travailleurs qui ont signé des ententes avec l’appelante pour que leur société à responsabilité limitée fournisse des services de transport par camion à l’appelante sont des entrepreneurs indépendants.
+[50] Compte tenu de la preuve, je ne suis pas prêt à reconnaître que les 53 autres travailleurs (à part M. Howson) sont des entrepreneurs indépendants.
+[51] J’ai donc conclu que les contribuables suivants étaient des entrepreneurs indépendants au cours de la période :
+1. E. Neron
+2. Mathias Serson
+3. Richard Nelson
+4. Roger Jaskula
+5. C. Thompson
+6. J. Woodlife
+7. J. Crawford
+8. David Otton
+9. Nelson Dodd
+10. Raymond Stargrat
+11. Steve Henderson
+12. Ryan Southern
+13. Timothy Thompson
+14. R. Summers
+15. J. Levey
+16. Mark Ingram
+17. Steven Bessey
+18. G. Kirkland
+19. R. Mason
+20. Randy Babcock
+21. T. Gaines
+22. M. Ward
+23. Donald Tisdale
+24. N. George
+25. J.H. Freitas
+26. Victor Latour
+27. Robert Glover
+28. D. Janzen
+29. Mark Roberts
+30. C. Diehl
+31. J. Nurse
+32. P. Santa Ri
+33. P. Lamers
+34. Steven Charest
+35. Ronald Taylor
+36. J. Buchanan
+37. D. Heueston
+38. Rob Vynychenko
+39. Colin Craig
+40. Jason Rossignol
+41. Mario Dasilva
+42. David Howson
+43. William Wood
+(Nota : J’ai retenu le témoignage de David Howson, qui a déclaré exploiter une entreprise individuelle.)
+[52] Puisque le succès est partagé entre les parties, je ne suis pas prêt à adjuger de dépens. L’appel est accueilli sans qu’aucuns dépens soient adjugés, le ministre devant établir de nouvelles évaluations conformément aux présents motifs.
+Signé à Toronto, (Ontario), ce 15e jour de septembre 2010.
+« L.M. Little »
+Juge Little
+Traduction certifiée conforme
+ce 2e jour de novembre 2010.
+Hélène Tremblay, traductrice
+RÉFÉRENCE : 2010 CCI 360
+Nos DES DOSSIERS DE LA COUR : 2006-2393(EI) et 2006-2394(CPP)
+INTITULÉ : TBT Personnel Services Inc.
+c.
+Le ministre du Revenu national
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Le 25 mars 2010
+MOTIFS DU JUGEMENT : L’honorable L.M. Little
+DATE DU JUGEMENT MODIFIÉ : Le 15 septembre 2010
+COMPARUTIONS :
+Avocat de l’appelante :
+Me David W. Chodikoff
+Avocate de l’intimé :
+Me Rita Araujo
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom : David W. Chodikoff
+Cabinet : Goodman et Carr LLP
+Pour l’intimé : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada

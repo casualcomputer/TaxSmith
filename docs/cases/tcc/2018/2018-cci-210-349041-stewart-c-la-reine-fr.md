@@ -1,0 +1,177 @@
+---
+title: "Stewart c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/349041/index.do"
+last_modified: "2018-11-02"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2018 CCI 210"
+citation2: ""
+neutral_citation: "2018 CCI 210"
+decision_date: "2018-11-02"
+language: "fr"
+item_id: "349041"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5012
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T17:43:16.650000+00:00"
+cases_cited_count: 3
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "8f0f2b48c6f5a37d14bd1cd10b116dcc5a5cce56673b95bdef3982710eda6fb8"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Stewart c. La Reine
+
+- Citation: 2018 CCI 210
+- Decision date: 2018-11-02
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5012, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Stewart c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2018-11-02
+Référence neutre
+2018 CCI 210
+Numéro de dossier
+2017-1737(IT)I
+Juges et Officiers taxateurs
+Jean Gilles Lebel
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2017-1737(IT)I
+ENTRE :
+RONALD STEWART,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 21 juin 2018, à Hamilton (Ontario).
+Devant : L’honorable J.G. Lebel, juge adjoint
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimée :
+Sophie De Viller
+MOTIFS DU JUGEMENT MODIFIÉ
+L’appel interjeté contre la nouvelle cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2015 est accueilli et l’affaire est renvoyée à la ministre du Revenu national pour nouvel examen et nouvelle cotisation.
+Signé à Ottawa, Canada, ce 29e jour d’octobre 2018.
+“J.G. Lebel”
+Lebel, juge adjoint
+Référence : 2018 CCI 210
+Date : 20181029
+Dossier : 2017-1737(IT)I
+ENTRE :
+RONALD STEWART,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT MODIFIÉ
+Lebel, juge adjoint
+[1] L’appelant a témoigné en son propre nom pendant le procès et a présenté un accord de séparation daté du 4 avril 2000, déposé à titre de pièce A‑1.
+[2] L’intimée n’a présenté aucun élément de preuve au procès. Les hypothèses de fait de la ministre se trouvent au paragraphe 15 de la réplique à l’avis d’appel daté du 26 juin 2017.
+[3] L’intimée a concédé que la crédibilité de l’appelant n’était pas en cause dans cette affaire. En fait, j’ai trouvé l’appelant crédible et fiable. Son témoignage n’a été contredit d’aucune façon et mes conclusions de fait sont fondées sur son témoignage, que j’accepte intégralement.
+[4] La seule question à trancher est de savoir si la totalité ou une partie de la pension alimentaire pour époux réclamée en sus du montant autorisé peut être déduite dans le calcul du revenu de l’appelant pour l’année d’imposition 2015.
+[5] L’appelant et son ex-épouse, Judith Louise Stewart, ont conclu une entente de séparation le 4 avril 2000.
+[6] Le paragraphe 15 de l’entente de cessation d’emploi prévoit les avantages médicaux et dentaires suivants :
+[traduction]
+15. AVANTAGES MÉDICAUX ET DENTAIRES :
+(1) Ron gardera en vigueur en vigueur, pour le bénéfice de Judy, sa protection actuelle en matière de soins de santé et de soins dentaires auprès de la Great-West, compagnie d’assurance-vie, tant et aussi longtemps que cette protection lui sera offerte par l’entremise de son assureur, et après le divorce si la police d’assurance le permet.
+(2) Ron convient par la présente qu’il ne présentera personne d’autre en tant que conjoint aux fins de la police d’assurance avant le divorce des parties.
+(3) Lorsque Judy devra payer pour des services couverts par cette assurance, Ron endossera immédiatement au profit de Judy tout chèque qu’il recevra en remboursement des montants payés par Judy.
+(4) Si Judy n’est pas couverte par la police de Ron après le divorce, Ron convient de ce qui suit :
+(a) Ron sera responsable du paiement intégral des primes pour les avantages liés aux soins de santé offerts à Judy par l'entremise de la Croix Bleue de l'Ontario (actuellement appelée « couverture de premier choix »), ou aux soins de santé équivalents fournis, pourvu que les primes payables en vertu du régime de soins de santé équivalent ne dépassent pas de plus de dix (10) pour cent les primes payables pour la « couverture de premier choix », cela pendant toute la vie de Judy. Ron convient que sa responsabilité à l’égard du paiement de ces primes ne prendra fin qu’au décès de l’une ou l’autre des parties.
+(b) Ron augmentera le montant total payable à Judy chaque mois à titre de pension alimentaire périodique du conjoint du montant total de la prime mensuelle payable à Judy chaque mois pour la couverture des soins de santé de la Croix Bleue de l’Ontario (ou l’équivalent). Avant la signature de la présente entente, Judy informera Ron du montant des primes mensuelles payables en vertu du régime et, par la suite, Ron paiera toute augmentation du taux de prime qu'elle lui indiquera de temps à autre afin de s'assurer que Judy est en tout temps entièrement couverte par ledit régime (ou l’équivalent).
+[je souligne]
+(c) Ron reconnaît l’existence d’un délai d’entrée en vigueur de six (6) mois pour la couverture des soins dentaires et de la vue et accepte de donner à Judy un préavis d'au moins six (6) mois de son intention de demander le divorce, afin que Judy puisse obtenir une couverture de la Croix Bleue de l'Ontario (ou l'équivalent) au moins six (6) mois avant la fin des avantages offerts par la police d’assurance de Ron.
+[7] Dans sa déclaration de revenus pour l’année d’imposition 2015, M. Stewart a déduit la somme de 2056,06 $ à titre de soutien du conjoint pour la couverture médicale. Son ex-épouse a déclaré ce montant comme revenu dans sa déclaration de revenus. Au paragraphe 6 de la réplique à l'avis d'appel, le procureur général du Canada déclare ce qui suit [traduction] : « En ce qui concerne le paragraphe 13, il déclare que les déclarations de revenus de l'ex-conjointe de l'appelant n'ont aucun rapport avec ses obligations en vertu de la Loi de l'impôt sur le revenu et, de toute façon, sont confidentielles en vertu de cette loi. » Avec tous égards, je rejette cette affirmation. À mon avis, le fait de préciser un montant fixe comme revenu corrobore l’intention des parties selon laquelle le paiement médical devait être interprété comme une pension alimentaire périodique versée à Mme Stewart.
+[8] M. Stewart a reconnu que l’entente de séparation ne précisait pas que le montant payé pour l’assurance-maladie était déductible en vertu du paragraphe 60.1(2) et de l’article 56.2 de la Loi de l’impôt sur le revenu.
+[9] M. Stewart a déclaré que selon l’entente conclue, la pension alimentaire pour conjoint serait augmentée d’un paiement mensuel pour la couverture médicale. Je constate qu’elle lui a demandé de faire les paiements directement à la Croix Bleue sur une base annuelle par souci d’économiser de l’argent et de se faciliter la tâche. Autrement dit, elle lui a demandé d’effectuer le paiement en son nom, exerçant ainsi un contrôle sur la façon dont l’argent devrait être dépensé. M. Stewart a déclaré dans son témoignage que ce paiement constituait une prestation alimentaire pour son ex-épouse. Il a ajouté qu’elle avait le pouvoir discrétionnaire d’établir la façon dont elle voulait que le paiement supplémentaire soit versé, et je suis d’accord.
+[10] M. Stewart a insisté sur le fait qu’il aurait pu facilement verser à son ex-épouse le montant prescrit dans l’entente de séparation en augmentant son chèque mensuel et qu’elle aurait pu déposer le chèque et l’écrire à quiconque elle voulait pour des soins de santé. Elle lui a plutôt demandé de simplement simplifier sa vie et de faire le paiement directement à la Croix Bleue sur une base annuelle.
+LA LOI
+[11] Les paiements de pension alimentaire à un tiers sont régis par l’article 60.1 de la Loi de l’impôt sur le revenu :
+60.1(1) Pension alimentaire [paiement fait à un tiers]
+Pour l’application de l’alinéa 60b) et du paragraphe 118(5), dans le cas où une ordonnance ou un accord, ou une modification s’y rapportant, prévoit le paiement d’un montant par un contribuable à une personne ou à son profit, au profit d’enfants confiés à sa garde ou à la fois au profit de la personne et de ces enfants, le montant ou une partie de celui-ci est réputé :
+(a) une fois payable, être payable à la personne et à recevoir par elle;
+(b) une fois payé, avoir été payé à la personne et reçu par elle.
+60.1(2) Entente [pour effectuer des paiements de soutien à un tiers]
+Pour l’application de l’article 60, du présent article et du paragraphe 118(5), le résultat du calcul suivant :
+A – B
+où :
+A représente le total des montants représentant chacun un montant (sauf celui qui constitue par ailleurs une pension alimentaire) qui est devenu payable par un contribuable au cours d’une année d’imposition, aux termes de l’ordonnance d’un tribunal compétent ou d’un accord écrit, au titre d’une dépense (sauf la dépense relative à un établissement domestique autonome que le contribuable habite ou une dépense pour l’acquisition de biens tangibles ou, pour l’application du droit civil, de biens corporels qui n’est pas une dépense au titre de frais médicaux ou d’études ni une dépense en vue de l’acquisition, de l’amélioration ou de l’entretien d’un établissement domestique autonome que la personne visée aux alinéas a) ou b) habite) engagée au cours de l’année ou de l’année d’imposition précédente pour subvenir aux besoins d’une personne, d’enfants confiés à sa garde ou à la fois de la personne et de ces enfants, dans le cas où la personne est :
+(a) l’époux ou le conjoint de fait ou l’ex-époux ou l’ancien conjoint de fait du contribuable,
+(b) si le montant est devenu payable en vertu de l’ordonnance d’un tribunal compétent rendue en conformité avec les lois d’une province, un particulier qui est le parent, père ou mère, d’un enfant dont le contribuable est légalement l’autre parent;
+B l’excédent éventuel du total visé à l’alinéa a) sur le total visé à l’alinéa b) :
+(a) le total des montants représentant chacun un montant inclus dans le total calculé selon l’élément A relativement à l’acquisition ou à l’amélioration d’un établissement domestique autonome dans lequel la personne habite, y compris un paiement de principal ou d’intérêts sur un emprunt ou une dette contracté en vue de financer, de quelque manière qui ce soit, l’acquisition ou l’amélioration,
+(b) le total des montants correspondant chacun à 1/5 du principal initial d’un emprunt ou d’une dette visés à l’alinéa a),
+est réputé, lorsque l’ordonnance ou l’accord écrit prévoit que le présent paragraphe et le paragraphe 56.1(2) s’appliquent à un montant payé ou payable à leur titre, être un montant payable par le contribuable à cette personne et à recevoir par celle-ci à titre d’allocation périodique, que cette personne peut utiliser à sa discrétion.
+[12] Cet article a été traité par la Cour d’appel fédérale dans Gaston Veilleux et Sa Majesté la Reine, 2002 CAF 201, par le juge Létourneau. :
+[24] Je préfère l'approche à la fois plus représentative de l'intention législative, compatible avec le texte même des dispositions législatives et humaine prise par le juge Archambault de la Cour canadienne de l'impôt dans les affaires Pelchat, précitée, et Ferron v. Her Majesty the Queen, 2001 DTC 230 : il n'est pas nécessaire que les numéros des paragraphes 56.1(2) et 60.1(2) soient expressément mentionnés dans l'accord écrit, il suffit qu'il apparaisse de l'accord écrit que les parties ont compris les incidences fiscales de cet accord. Car la seule mention des numéros de ces paragraphes dans l'accord n'est pas non plus une garantie que les parties à l'accord ont compris leurs obligations et leurs droits. Sur ce point, l'expression et la description de ces obligations et de ces droits dans l'accord écrit m'apparaissent tout autant, sinon mieux, rencontrer l'objectif du législateur qu'une simple référence magique à des numéros d'articles dont la teneur n'est pas indiquée dans l'accord.
+[je souligne]
+[25] En outre, compte tenu du but recherché par le législateur en adoptant les articles 56 et 60, l'interprétation des paragraphes 56.1(2) et 60.1(2), qui sont des instruments de mise en œuvre du principe des articles 56 et 60, requiert que l'on tienne compte de l'intention des parties en rédigeant et signant l'accord écrit qui gouvernera au plan financier leurs relations après divorce. Dans l’affaire Gagné v. Her Majesty the Queen, 2001 DTC 5639, au paragraphe 10 (C.A.F.), où il s'agissait également d'interpréter, dans le cadre d'un divorce, une entente sur mesures provisoires entérinée par le tribunal, le juge Décary a bien résumé pour cette Cour les principes applicables en pareil cas :
+Il est acquis, en droit civil québécois, que si la commune intention des parties dans un contrat est douteuse, le juge « doit essayer de rechercher ce que les parties ont réellement voulu par leur engagement » Jean-Louis Baudouin, Les Obligations, 4e éd., 1993, Les Éditions Yvon Blais, p. 255). Le juge doit « accorder plus d'importance à la véritable intention des contractants qu'à l'intention apparente, objectivement manifestée par l'expression formelle » (p. 255), et il doit vérifier quel était l'effet que les parties voulaient donner au contrat (p. 256). Pour ce faire, le juge doit avoir une vue d'ensemble de l'intention des parties, ce qui suppose une analyse de toutes les clauses du contrat les unes par rapport aux autres (p. 258). S'il subsiste alors quelque doute quant à l'intention réelle des parties, le juge peut « faire "l'examen de la façon dont les parties se sont conduites par rapport au contrat, dans leurs négociations, et surtout de leur attitude après sa conclusion, donc de l'interprétation qu'elles lui ont déjà donnée... »(pp. 258-259).
+[je souligne]
+Dans la recherche de cette intention et, par conséquent, de la connaissance et de la compréhension qu'elles ont de leurs obligations et leurs droits, l'accord écrit, s'il est clair, joue un rôle déterminant. Mais en cas d'ambiguïté ou de déficience du texte, deviennent pertinents à la recherche de cette intention et de cette connaissance les circonstances entourant la conclusion et la rédaction de l'accord ainsi que le comportement des parties suite à sa signature. Les buts combinés, rappelons-le, des articles 56 et 60 et des paragraphes 56.1(2) et 60.1(2) sont de permettre aux époux divorcés de bénéficier d'un allégement de leur fardeau fiscal et de s'assurer qu'ils sont conscients et informés des conséquences qui en découlent pour l'un et l'autre.
+[je souligne]
+APPLICATION DE CES PRINCIPES À L’ENTENTE ÉCRITE EN L’ESPÈCE
+[13] Dans sa déclaration de revenus de 2015, l’appelant a réclamé des paiements de pension alimentaire pour époux d’un montant de 17 089,12 $, comprenant deux éléments : 15 033,06 $ versés en espèces directement à son ex-conjointe et 2056,06 $ versés directement à la Croix Bleue pour couvrir le coût de la couverture des soins de santé de son ex-conjointe. L’Agence du revenu du Canada (l’« ARC ») a refusé la déduction du montant versé à la Croix Bleue, soit 2056,06 $.
+[14] L’alinéa 15(4)b) de l’entente de séparation précise que M. Stewart « augmentera le montant total payable à Judy chaque mois à titre de pension alimentaire périodique du conjoint du montant total de la prime mensuelle payable à Judy chaque mois pour la couverture des soins de santé de la Croix Bleue de l’Ontario ». L’ex-conjointe a inclus dans son revenu de 2015 les montants qui lui ont été versés directement ainsi que les montants versés à la Croix Bleue.
+[15] En fait, c’est l’ex-épouse qui a demandé à l’appelant de verser les montants directement à la Croix Bleue pour lui faire gagner du temps et lui faciliter la tâche.
+[16] L’appelant a acquiescé à la demande et payé la prime annuelle à la Croix Bleue directement au moyen d’un paiement forfaitaire plutôt que de paiements mensuels à son ancienne épouse pendant la négociation des modalités de l’entente de séparation. M. Stewart a déclaré que les parties avaient toujours eu l’intention d’inclure les paiements dans la pension alimentaire pour conjoint.
+[17] À mon avis, leur conduite subséquente à cet égard reflète clairement leur intention. Comme l’a dit le juge Létourneau à la page 11, « [m]ais en cas d'ambiguïté ou de déficience du texte, deviennent pertinents à la recherche de cette intention et de cette connaissance les circonstances entourant la conclusion et la rédaction de l'accord ainsi que le comportement des parties suite à sa signature ». [je souligne]
+[18] L’appel est accueilli.
+Signé à Ottawa, Canada, ce 29e jour d’octobre 2018.
+“J.G. Lebel”
+Lebel, juge adjoint
+RÉFÉRENCE :
+2018 CCI 210
+NO DU DOSSIER DE LA COUR :
+2017-1737(IT)I
+INTITULÉ :
+RONALD STEWART c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Hamilton (Ontario)
+DATE DE L’AUDIENCE :
+LE 21 JUIN 2018
+MOTIFS DU JUGEMENT :
+L’honorable juge J.G. Lebel, juge adjoint
+DATE DU JUGEMENT :
+LE 29 octobre 2018
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimée :
+Sophie De Viller
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+[EN BLANC]
+Cabinet :
+[EN BLANC]
+Pour l’intimée :
+Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa, Canada

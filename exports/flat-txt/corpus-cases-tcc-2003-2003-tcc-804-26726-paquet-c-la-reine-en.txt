@@ -1,0 +1,207 @@
+Title: Paquet c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26726/index.do
+Corpus path: corpus/cases/tcc/2003/2003-tcc-804-26726-paquet-c-la-reine-en.md
+Document type: case_law
+Last modified: 2003-11-12
+
+# Paquet c. La Reine
+
+- Citation: 2003 TCC 804
+- Decision date: 2003-11-12
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3407, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Paquet c. La Reine
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-11-12
+Neutral citation
+2003 TCC 804
+File numbers
+2001-1876(GST)G
+Judges and Taxing Officers
+Alain Tardif
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2001-1876(GST)G
+BETWEEN:
+GAÉTAN PAQUET,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+___________________________________________________________________
+Appeal heard on May 28, 2003, at Shawinigan, Quebec
+Before: The Honourable Justice Alain Tardif
+Appearances:
+Counsel for the Appellant:
+François Daigle
+Counsel for the Respondent:
+Louis Cliche
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under Part IX of the Excise Tax Act, notice of which is dated May 29, 2000, and bears number 02305309, for the period from December 1, 1994, to December 31, 1996, is dismissed with costs, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 12th day of November, 2003.
+"Alain Tardif "
+Tardif, J.
+Translation certified true
+on this 30th day of August 2004.
+Sophie Debbané, Revisor
+Citation: 2003TCC804
+Date: 20031112
+Docket: 2001-1876(GST)G
+BETWEEN:
+GAÉTAN PAQUET,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Tardif, J.
+[1] This is an appeal from an assessment pertaining to the Goods and Services Tax ("GST") of the Excise Tax Act (the "Act"), dated May 29, 2000, bearing number 02305309, for the period from December 1, 1994, to December 31, 1996.
+[2] The pleadings to the Notice of Appeal (the "Notice") and the Reply to the Notice of Appeal (the "Reply") correctly summarize the content of the hearing. First, I will reproduce paragraphs 1 to 16 of the Notice:
+[translation]
+1. The Appellant operated a construction business in 1994, 1995 and 1996;
+2. The Appellant specialized in the construction of multiple-unit residential complexes;
+3. The Appellant is a joiner and has worked in the trade for over twenty-five (25) years;
+4. When consumption taxes, the GST and the QST, went into effect, the Appellant did not correctly understand the application of these taxes;
+5. The Appellant briefly consulted one of his construction colleagues who advised him not to register and not to claim the input tax credits so that he would not have to ultimately collect the taxes;
+6. The Appellant in fact failed to register;
+7. The Appellant also failed to claim the input tax credits pertaining to the construction of his buildings;
+8. The Appellant built a number of buildings on Collette Street in Trois-Rivières;
+9. The Appellant built numbers 10, 15, 20 and 25 on Colette Street with the tenants moving in on the following dates:
+(a) 15 Colette: Stéphan Fortin on November 25, 1994;
+(b) 10 Colette: Claude de La Chevrotière on May 27, 1995;
+(c) 25 Colette: Laurent Bouchard and Michèle Maillette on February 3, 1996;
+(d) 20 Colette: Yvon St-Pierre and Marie-Reine Bouchard on November 27, 1996.
+10. When constructing the buildings, the Appellant followed the regulations of the Commission de la construction du Québec to the letter, and in particular:
+(a) he hired licensed joiners in his own name;
+(b) the Construction Mlle Louise company was not used since it was no longer licensed;
+(c) a CCQ number and a CSST number were taken in the Appellant's personal name;
+11. In 1994, the processes relating to self-supply were new. The Appellant spoke with Ms. Paquet at the BACC for information regarding taxes during construction. The Appellant indicated then that he did not intend to sell the building. The people at the BACC then informed him that he did not have to pay taxes since there had been no sale;
+12. The Appellant also asked his accountant, Pierre Leblanc, to find out whether he had to register or withhold taxes on inputs, to which the accountant replied "No".
+13. It was with complete surprise that the Appellant learned during the audit in 1999 that self-supply supposedly applied in that situation;
+14. The Appellant self-assessed on May 29, 2000;
+15. The Appellant brought everything to the attention of the objections division, which confirmed the assessment on March 9, 2001;
+16. The Appellant is still a joiner.
+[3] Regarding the Reply, it is appropriate to reproduce paragraphs 1 to 30 inclusive:
+1. He admits paragraph 1 of the Notice of Appeal;
+2. He has no knowledge of the facts stated in paragraph 2 of the Notice of Appeal;
+3. He has no knowledge of the facts stated in paragraph 3 of the Notice of Appeal;
+4. He has no knowledge of the facts stated in paragraph 4 of the Notice of Appeal;
+5. He has no knowledge of the facts stated in paragraph 5 of the Notice of Appeal;
+6. In paragraph 6, he notes that the Appellant is not registered;
+7. He has no knowledge of the facts stated in paragraph 7 of the Notice of Appeal;
+8. He admits paragraph 8 of the Notice of Appeal;
+9. He admits paragraph 9 of the Notice of Appeal;
+10. He has no knowledge of the facts stated in paragraph 10 of the Notice of Appeal;
+11. He has no knowledge of the facts stated in paragraph 11 of the Notice of Appeal;
+12. He has no knowledge of the facts stated in paragraph 12 of the Notice of Appeal;
+13. He has no knowledge of the facts stated in paragraph 13 of the Notice of Appeal;
+14. He admits paragraph 14 of the Notice of Appeal;
+15. He admits paragraph 15 of the Notice of Appeal;
+16. He has no knowledge of the facts stated in paragraph 16 of the Notice of Appeal;
+17. He has no knowledge of paragraph 17 of the Notice of Appeal;
+18. He denies paragraph 18 of the Notice of Appeal;
+19. He denies paragraph 19 of the Notice of Appeal, as written;
+20. He denies paragraph 20 of the Notice of Appeal, as written;
+21. He has no knowledge of the facts stated in paragraph 21 of the Notice of Appeal;
+22. He denies paragraph 22 of the Notice of Appeal, as written;
+23. He denies paragraph 23 of the Notice of Appeal, as written;
+24. He denies paragraph 24 of the Notice of Appeal;
+25. He denies paragraph 25 of the Notice of Appeal;
+26. He denies paragraph 26 of the Notice of Appeal;
+27. Following an audit of the Appellant, the Minister of National Revenue (the "Minister") assessed the Appellant for the ("GST") for the period from December 1, 1994, to December 31, 1996, in the amount of $13,118.10 calculated on May 29, 2000, bearing number 02305309;
+28. By Notice of Objection dated July 28, 2000, the Appellant objected to the Minister's assessment;
+29. By Decision on the Objection dated April 19, 2001, the Minister confirmed the assessment at issue;
+30. In assessing the Appellant, the Minister relied on the following conclusions and assumptions of fact:
+(a) the admitted facts above;
+(b) during the period at issue, the Appellant operated a construction company;
+(c) the Appellant was not registered during the period at issue when he should have been;
+(d) over the course of this period, the Appellant built and rented, without self-assessing, the following buildings:
+1. 10 Colette Street, St-Louis-de-France
+2. 15 Colette Street, St-Louis-de-France
+3. 20 Colette Street, St-Louis-de-France
+4. 25 Colette Street, St-Louis-de-France
+(e) the fair market value ("FMV") of the buildings rented by the Appellant was established during the audit;
+(f) due to major deviations between the appraisal of the buildings by André Leblanc et Associés on behalf of the Appellant, that of the lending institution and the municipal appraisal, an appraisal application was requested from the Direction des services administratifs et techniques (the "DSAT") of the Québec Ministère du Revenu;
+(g) following discussions with André Leblanc, a certified appraiser at André Leblanc et Associés, Francyne Bélanger, a certified appraiser at DSAT set the FMV of the buildings at the following amounts:
+1. 10 Colette Street, St-Louis-de-France: $220,000
+2. 15 Colette Street, St-Louis-de-France: $175,000
+3. 20 Colette Street, St-Louis-de-France: $216,000
+4. 25 Colette Street, St-Louis-de-France: $190,000
+(h) this FMV was used to determine the GST amounts that the Appellant should have remitted to the Minister;
+(i) certain amounts claimed as input tax credits ("ITCs") were disallowed because the Appellant did not have supporting documentation;
+(j) in failing to become informed about his obligations under the Act, the Appellant did not demonstrate due diligence;
+(k) in addition, it appears that the Appellant knew the rules about self-assessment but did not apply them given that he disagreed with the statutory provisions in this regard.
+[4] The Appellant has worked as a joiner in the field of construction for over 25 years. Despite his expertise and extensive experience in this area, the Appellant indicated and repeated that he did not know the rules that applied to the new consumption taxes. However, he stated that he discussed the matter with other contractors.
+[5] The facts and circumstances surrounding the failure to register are nebulous. Certain statements were to the effect that his failure to register was based on ignorance while others were to the effect that it was a matter of choice. Moreover, this interpretation can be seen very clearly in paragraphs 5, 6 and 7 of the Notice, which I reproduce again to facilitate reading:
+[translation]
+5. The Appellant briefly consulted one of his construction colleagues who advised him not to register and not to claim the input tax credits so that he would not have to ultimately collect the taxes;
+6. The Appellant in fact failed to register;
+7. The Appellant also failed to claim the input tax credits pertaining to the construction of his buildings;
+[6] Following a brief series of questions, the Appellant decided not to register; he therefore did not self-assess and did not claim the input tax credits (the "ITCs").
+[7] He also explained that he changed his usual practices; rather than have the buildings built by the company he controlled, he chose to build them personally.
+[8] The Appellant's wife, who is very involved in the management of the Appellant's business, gave a version of the facts that rather supports the "choice" position.
+[9] In fact, she stated that she did not agree with the provisions of the Act. According to her, those were not buildings intended for resale but essentially buildings to be used to generate income and ultimately constitute retirement income. She also stated that she took certain steps with various stakeholders.
+[10] The Appellant and his wife have worked in the field of building construction for many years; that is a sector of the economy with numerous, ubiquitous regulations and constraints of all kinds.
+[11] The Act had been in effect for several years. Despite that, given that these were new provisions, there could be questions regarding some components or situations.
+[12] Faced with this type of situation, two choices could be made. The first would be to do everything possible to obtain clear, unequivocal answers. The second would be to remain uninformed or take a personal interpretation for granted, relying on the fact that it was impossible to obtain clear answers to every question at that time.
+[13] In this case, I highly doubt that the failure to register was based on ignorance alone. Rather, I believe that after evaluating the situation, the Appellant simply decided, in agreement with his wife, not to look any further, undoubtedly concluding that there were various advantages to not registering.
+[14] The choice was made on the basis of their own analysis of the situation taking only their own interests into consideration and the fact that it would be easier and more advantageous; it is possible that the supposed ambiguities could explain and justify their choice.
+[15] In the case at bar, the Appellant stated that he had self-assessed in a manner that was just as valid as the one prescribed by the Act; he chose to self-assess in what seemed to him a more logical and reasonable way, that is, paying the taxes on all the inputs at the time of their purchase from various suppliers and not claiming the ITCs.
+[16] The Act has never given, nor does it now give, that option; the Act sets out very specific provisions on procedures, especially with regard to the specific moment the calculation must be done.
+[17] Moreover, ignorance of the Act is never a defence for circumventing its application, most especially when it relates to statutory provisions covering the commercial sector in which one does business.
+[18] The choice to operate in a complex sector of the economy that is subject to numerous laws and regulations requires that professionals in that field exercise even greater vigilance and act with greater care so as to operate their businesses in compliance with the existing laws.
+[19] In this case, the witnesses' credibility is not a decisive factor for disposing of the appeal because it is in no way necessary to know whether the failure to register resulted from ignorance of the Act or a choice. However, I was able to observe that the facts and circumstances surrounding the analysis and audit procedure on which the assessment was based were clearly inconsistent with the description provided by the Appellant's wife.
+[20] In describing the facts and circumstances, she used a harsh, aggressive vocabulary that was marked by animosity.
+[21] The individual responsible for analyzing the file also testified. Ms. Bélanger expressed herself calmly and serenely, even though it is questionable that the Appellant and his wife cooperated and they were even aggressive towards her. I have no doubt that the audit of the Appellant's file was done properly and in a civilized manner.
+[22] Describing himself as a manual labourer with little or no knowledge on accounting requirements and management in general, the Appellant stated and repeated that he delegated everything dealing with clerical and accounting work to his wife.
+[23] Having a strong personality, his wife was not one to let herself be pushed around. Regardless of the subject, she was always right. The Act was neither fair nor reasonable; the civil servants had ill advised her; the Association professionnelle des constructeurs en habitation du Québec ("A.P.C.H.Q.") was unreliable; the accountants were wrong; and the auditor had been impolite and invasive, even rude in dealing with her.
+[24] To dispose of this appeal, it is in no way necessary for me to do an exhaustive analysis of the overall facts and circumstances that resulted in the assessment. The only relevant facts are as follows:
+· The Act on the GST has been in effect since January 1991.
+· In 1994, 1995 and 1996 the Appellant himself built, for himself and not for the purpose of sale, four multiple-unit buildings.
+· The Appellant did not self-assess. Whether by ignorance or by choice, he did not register; he chose to pay taxes on the supplies required for the construction of his buildings and not to claim the ITCs.
+· Under the Act, he was required to self-assess and claim the ITCs.
+· He was assessed as a result of an audit.
+· The fair market value of the buildings that were assessed is not at issue.
+· The assessment was therefore justified.
+[25] The Appellant argues that the assessment is void on the basis that the time limit set forth in subsection 298(1) of the Act had expired when the assessment was made.
+[26] According to the Appellant, the time limit of four years set forth in paragraph 298(1)(a) had expired when the assessment was made since the time limit was supposed to begin on the date when he should have self-assessed. Paragraph 298(1)(a) of the Act reads as follows:
+(a) . . . more than four years after the later of the day on or before which the person was required under section 238 to file a return for the period and the day the return was filed;
+The French version reads as follows:
+a) s'agissant d'une cotisation visant l'un des montants suivants, quatre
+ans après le dernier en date du jour où la personne était tenue par
+l'article 238 de produire une déclaration pour la période et du jour
+de la production de la déclaration [...]
+[27] Calculation of the four-year time limit begins on the later of the following two dates:
+· the day on which the return was required to be filed; or
+· the day on which the return was in fact filed.
+[28] In the case at bar, the Appellant simply did not file a return.
+[29] Thus, the time limit never began and, as a result, it was entirely in keeping with the Act to make on assessment on May 22, 2000, the date of the assessment. Moreover, that interpretation is consistent with what the Honourable Justice Dussault of this Court stated in Trudel v. Canada, [2001] T.C.J. No. 82 (Q.L.), at paragraph 19:
+Paragraph 296(1)(a) provides that the Minister may assess, reassess or make an additional assessment of the net tax of a person under Division V for a reporting period of the person. With regard to a person's net tax for a reporting period, subparagraph 298(1)(a)(i) provides that an assessment may not be made more than four years after the later of the day on or before which the person was required under section 238 to file a return for the period and the day the return was filed. However, the appellant never filed a return pursuant to paragraph 191(1)(e) of the Act, according to which she is deemed to have collected the GST when she rented her complex in April 1991. Thus, the time limit for assessing the appellant had not expired on October 24, 1997. The assessment was therefore validly made on that date.
+[30] The Appellant also made a more subtle argument that stemmed from the explanations regarding his failure to register. In fact, the Appellant seemed to say [translation] "the time limit must start from the time I filed my return, namely, when I chose not to do so." The Appellant's argument would have some merit if the Act allowed and offered that choice to those to whom it applies. The Appellant tried to justify his choice to ultimately show that his intention was not fraudulent nor even negligent, and thus make his case more favourable.
+[31] This Court cannot accept this argument for reasons of fairness; this is clear in a number of decisions and, most particularly, in a recent decision signed by the Honourable Justice McArthur, on June 3, 2003, in Khullar au Gourmet International v. Her Majesty The Queen, docket 1999-1649(GST)I, at paragraph 31:
+Counsel for the Appellants went to great length in portraying the Minister's assessment as a "travesty of justice", [15] referring not only to policy, but also to the Canadian Charter of Rights and Freedoms. [16] It has been frequently held that fairness and equity have nothing to do with tax law. [17]
+[32] The Appellant also argued that the fact that he contacted telephone support staff established the starting point in time for the time limit. That interpretation does not hold up, particularly because subsection 238(4) of the Act reads as follows:
+Every return under this Subdivision shall be made in prescribed form containing prescribed information and shall be filed in prescribed manner.
+[33] For his part, the Respondent essentially argued that, at that particular time, the GST had been in existence for three years, that the Appellant had extensive and long-standing experience in the field of construction and that ignorance of the Act is not an acceptable argument.
+[34] Under the very clear provisions of the Act, the Appellant was to have first filed a return and self-assessed afterwards. In both cases, that is a very specific moment in time from which the time limit or time limits begin to run.
+[35] In refusing or failing to register, the Appellant deliberately suspended the application of the time limit and the Respondent, who is responsible for collection, was completely unable to act.
+[36] In choosing not to file a return, the Appellant made it impossible for the Minister of National Revenue to know that an assessment was required. Consequently, so long as the claim or the right to claim was not brought to the attention of the Minister, the time limit was suspended.
+[37] For these reasons, the appeal is dismissed with costs.
+Signed at Ottawa, Canada, this 12th day of November 2003.
+"Alain Tardif"
+Tardif, J.
+Translation certified true
+on this 30th day of August 2004.
+Sophie Debbané, Revisor

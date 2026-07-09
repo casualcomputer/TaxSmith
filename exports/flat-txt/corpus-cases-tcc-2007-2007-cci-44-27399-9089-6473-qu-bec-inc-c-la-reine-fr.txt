@@ -1,0 +1,169 @@
+Title: 9089-6473 Québec Inc. c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27399/index.do
+Corpus path: corpus/cases/tcc/2007/2007-cci-44-27399-9089-6473-qu-bec-inc-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2007-01-11
+
+# 9089-6473 Québec Inc. c. La Reine
+
+- Citation: 2007 CCI 44
+- Decision date: 2007-01-11
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 156, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+9089-6473 Québec Inc. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-01-11
+Référence neutre
+2007 CCI 44
+Numéro de dossier
+2006-136(IT)I
+Juges et Officiers taxateurs
+Louise Lamarre Proulx
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2006-136(IT)I
+ENTRE :
+9089-6473 QUÉBEC INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 11 janvier 2007, à Montréal (Québec)
+Devant : L'honorable juge Louise Lamarre Proulx
+Comparutions :
+Représentant de l'appelante :
+Yves Bluteau
+Avocat de l'intimée :
+Me Philippe Dupuis
+____________________________________________________________________
+JUGEMENT
+Vu la requête de l'intimée afin d'obtenir le rejet de l'appel au motif que l'objet de l'appel n'est pas un motif valable d'appel;
+L'appel de la détermination de perte, établie le 3 juin 2004, en vertu du paragraphe 152(1.1) de la Loi de l'impôt sur le revenu pour l'année d'imposition se terminant le 30 novembre 2001, est rejeté au motif qu'il est sans objet valable en droit, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 22e jour de janvier 2007.
+« Louise Lamarre Proulx »
+Juge Lamarre Proulx
+Référence : 2007CCI44
+Date : 20070122
+Dossier : 2006-136(IT)I
+ENTRE :
+9089-6473 QUÉBEC INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+La juge Lamarre Proulx
+[1] Il s'agit d'un appel d'une détermination de perte établie le 3 juin 2004, en vertu du paragraphe 152(1.1) de la Loi de l'impôt sur le revenu (la « Loi » ), pour l'année d'imposition de l'appelante se terminant le 30 novembre 2001.
+[2] L'avis d'appel, comme motif d'appel, remet en cause le refus des dépenses en recherche scientifique et développement expérimental et surtout le refus conséquent d'un crédit d'impôt à l'investissement remboursable de 9 844 $ réclamé pour cette même année.
+[3] L'intimée a présenté une requête de rejet de l'appel pour deux motifs.
+[4] Le premier motif était que l'appelante, une société constituée en vertu de la Partie 1A de la Loi sur les compagnies, L.R.Q., c. C-38, était dissoute au moment de son avis d'opposition et de son avis d'appel. Le 7 mai 2004, le Registraire des entreprises avait radié d'office l'appelante emportant ainsi sa dissolution, conformément à l'article 50 de la Loi sur la publicité légale des entreprises individuelles, des sociétés et des personnes morales, L.R.Q., c. P-45. L'appelante étant dissoute au moment du dépôt de son avis d'opposition et de son avis d'appel, elle n'avait pas la capacité juridique d'ester en justice.
+[5] Le deuxième motif était que le présent appel avait été interjeté à l'encontre d'une détermination de perte et que seul le montant de cette perte pouvait faire l'objet de l'appel alors que le redressement demandé concernait un crédit d'impôt à l'investissement remboursable refusé par une autre cotisation dont il n'y avait pas eu appel. L'intimée soutient donc que cette Cour n'a pas le pouvoir d'accorder le redressement demandé dans l'avis d'appel.
+[6] L'audition de cette requête a d'abord été fixée au 2 août 2006. Après avoir entendu sommairement les parties, le juge président a ajourné l'audition de l'appel au motif que le représentant de l'appelante, monsieur Yves Bluteau, n'avait pas ce jour-là la capacité de représenter adéquatement l'appelante compte tenu de son état de santé mentale. Il lui a recommandé d'avoir recours aux services d'un avocat.
+[7] L'audition de cette requête a été fixée à nouveau au 11 janvier 2007 par une ordonnance de cette Cour en date du 24 novembre 2006. Quelques jours avant l'audition, soit le 5 janvier 2007, le représentant de l'appelante, monsieur Yves Bluteau, a demandé un délai pour lui permettre, par l'intermédiaire d'un comptable, d'accomplir les formalités nécessaires au rétablissement de l'appelante auprès du Registraire des entreprises.
+[8] Par sa lettre du 8 janvier 2007, l'avocat de l'intimée s'est opposé à la demande de remise de l'appelante pour les motifs suivants :
+...
+La présente fait suite à une demande de remise qui nous a été transmise par l'appelante dans l'appel mentionné en objet et qui concerne l'audition de la requête pour rejet d'appel de l'intimée prévue le 11 janvier 2007. Vous trouverez copie de la demande de remise ci-jointe.
+L'intimée s'oppose à la demande de remise de l'appelante, pour les motifs ci-après exposés.
+Nous comprenons que l'appelante invoque comme unique moyen au soutien de sa demande de remise que cette remise est nécessaire afin de lui permettre de compléter les démarches nécessaires afin de faire révoquer la radiation de son immatriculation et de lui faire reprendre son existence juridique, conformément aux articles 54 à 57 de la Loi sur la publicité légale des entreprises individuelles, des sociétés et des personnes morales, L.R.Q., c. P-45.
+La requête pour rejet d'appel de l'intimée, déposée le 19 juillet 2006 et signifiée à l'appelante le 20 juillet 2006, vise à obtenir le rejet de l'appel pour deux motifs :
+1. L'appelante étant dissoute au moment du dépôt de son avis d'opposition et de son avis d'appel à la Cour canadienne de l'impôt, et celle-ci n'ayant toujours pas remédié à cette dissolution, elle n'avait pas la capacité juridique de loger le présent appel et n'a toujours pas la capacité d'ester en justice ou de poursuivre l'instruction du présent appel.
+2. L'appelante ne demandant aucun redressement dans le cadre du présent appel que cette Cour a le pouvoir de lui accorder, le présent appel est sans objet et doit donc échouer.
+La radiation de l'immatriculation de l'appelante, et sa dissolution qui en a découlé, n'est donc que le premier de deux moyens invoqués par l'intimée au soutien de sa requête. Le second moyen de l'intimée porte sur l'impossibilité pour l'appelante d'obtenir un quelconque redressement dans le cadre du présent appel. L'intimée est d'avis qu'il est dans l'intérêt de toutes les parties que ce second moyen soit tranché avant que l'appelante entreprenne les démarches et qu'elle encoure les dépenses requises afin d'obtenir la révocation de la radiation de son immatriculation.
+Ce second moyen est exposé aux paragraphes 4 à 15 de l'avis de requête pour rejet d'appel. En résumé, l'appelante a interjeté appel à l'encontre d'une détermination de perte effectuée à la demande de l'appelante le 3 juin 2004 en vertu du paragraphe 152(1.1) de la Loi de l'impôt sur le revenu (ci-après la « LIR » ). Une telle détermination de perte ne peut porter que sur le montant de la perte autre qu'une perte en capital, de la perte en capital nette, de la perte agricole restreinte, de la perte agricole ou de la perte comme commanditaire, le cas échéant, sables par l'appelante pour l'année d'imposition en litige. La demande de l'appelante ainsi que l'avis de détermination de perte ont respectivement été déposés comme pièces R-4 et R-5 au soutien de la déclaration sous serment de Gilles Bouchard du 18 juillet 2006.
+Or, tel qu'il appert de l'avis d'appel déposé le 10 janvier 2006, seule l'admissibilité du projet de recherches scientifiques et de développement expérimental de l'appelante, au sens du paragraphe 248(1) de la LIR, fait l'objet du présent appel. Une détermination favorable à l'appelante sur cette question aurait toutefois pour seule conséquence, dans le cadre du présent appel, de réduire la perte autre qu'une perte en capital telle que présentement déterminée d'un montant de 16 500 $, tel qu'il appert de la déclaration sous serment de Pierre Brodeur du 18 juillet 2006. Dans le cadre d'un appel à l'encontre d'une détermination de perte, la Cour ne peut cependant pas ordonner au ministre du Revenu national (ci-après le « Ministre » ) d'établir une détermination à la baisse, défavorable à l'appelante.
+Le seul impact favorable à l'appelante que pourrait avoir un jugement portant sur l'admissibilité de son projet de recherches scientifiques et de développement expérimental concerne le crédit d'impôt à l'investissement remboursable qu'elle a réclamé relativement à son projet. Or, le Ministre a déterminé le 21 janvier 2003, en vertu de l'alinéa 152(1)b) et du paragraphe 152(1.2) de la LIR que l'appelante n'avait pas droit à son crédit d'impôt à l'investissement remboursable. L'avis de détermination a été déposé comme pièces R-3 au soutien de la déclaration sous serment de Gilles Bouchard du 18 juillet 2006. Or, l'appelante n'a jamais fait opposition et n'a jamais interjeté appel à l'encontre de la détermination du 21 janvier 2003, tel qu'il appert de la déclaration sous serment de Gilles Bouchard du 18 juillet 2006. En conséquence, l'appelante ne bénéficie d'aucun droit d'appel auprès de cette Cour relativement à ce crédit d'impôt à l'investissement remboursable et la Cour ne peut lui accorder le redressement s'y rapportant.
+Compte tenu que la seule question en litige dans le présent appel concerne l'admissibilité du projet de recherches scientifiques et de développement expérimental de l'appelante, au sens du paragraphe 248(1) de la LIR, et que la Cour ne peut lui accorder aucun redressement même en cas de jugement favorable sur cette question, le présent appel est sans objet et doit donc échouer.
+L'intimée estime qu'il est dans le meilleur intérêt de toutes les parties que ce second moyen soit tranché le 11 janvier 2006 afin d'éviter à tous frais et délais supplémentaires. En effet, dans la mesure où la Cour juge bien fondé ce second moyen, elle devra alors accueillir la requête de l'intimée et rejeter l'appel de l'appelante, rendant ainsi sans objet les démarches de l'appelante visant à obtenir la révocation de son immatriculation ainsi que les délais s'y rapportant.
+[9] Par la suite, la Cour informe le représentant de l'appelante en date du 9 janvier 2007 comme suit :
+...
+Je me reporte à votre lettre du 5 janvier 2007 dans laquelle vous demandez une remise de l'audition de la requête pour rejet d'appel, prévue le 11 janvier 2007 à Montréal (Québec).
+À la suite de notre conversation téléphonique d'aujourd'hui, la présente a pour objet de vous confirmer que la Cour a rejeté votre demande de remise. Par conséquent, les parties doivent être prêtes à procéder le jeudi 11 janvier 2007 à 9 h 30, comme prévu.
+[10] Au moment de l'audience, le représentant de l'appelante dit ne pas comprendre les deux motifs de la requête, qu'il n'a pas d'argent parce qu'il a été injustement imposé et demande toujours que l'audition de la requête soit remise pour lui permettre d'obtenir la révocation de la dissolution de l'appelante.
+[11] La Cour accepte la proposition faite par l'avocat de l'intimée car elle la considère faite dans l'intérêt de l'administration de la justice. La Cour ne tranchera pas la requête sur le premier point mais sur le deuxième point seulement.
+[12] Les paragraphes 4 à 15 de la requête se lisent comme suit :
+...
+4. Au surplus, le présent appel ayant été interjeté à l'encontre d'une détermination de perte établie le 3 juin 2004 conformément au paragraphe 152(1.1) de la Loi de l'impôt sur le revenu (ci-après « LIR » ), seuls le montant de la perte autre qu'une perte en capital, de la perte en capital nette, de la perte agricole restreinte, de la perte agricole ou de la perte comme commanditaire, le cas échéant, subies par l'appelante pour son année d'imposition se terminant le 30 novembre 2001, peuvent faire l'objet du présent appel.
+5. Les motifs invoqués par l'appelante au soutien de son appel concernent exclusivement l'évaluation de l'admissibilité de ses travaux de recherches scientifiques et de développement expérimental pour son année d'imposition terminée le 30 novembre 2001 (ci-après « travaux de RS & DE » .
+6. Le seul impact favorable à l'appelante que pourrait avoir une réévaluation de l'admissibilité de ses travaux de RS & DE touche le crédit d'impôt à l'investissement remboursable de 9 844 $ qu'elle a réclamé pour son année d'imposition terminée le 30 novembre 2001.
+7. Or, le crédit d'impôt à l'investissement remboursable de 9 844 $ réclamé par l'appelante pour son année d'imposition terminée le 30 novembre 2001 ne peut pas faire l'objet du présent appel, étant donné que le présent appel a été interjeté à l'encontre d'une détermination de perte établie conformément au paragraphe 152(1.1) de la LIR.
+8. En effet, le ministre du Revenu national (ci-après « Ministre » ) a déterminé que l'appelante n'avait pas droit au crédit d'impôt à l'investissement remboursable de 9 844 $ qu'elle a réclamé pour son année d'imposition terminée le 30 novembre 2001 dans un avis de détermination qui lui a été expédié le 21 janvier 2003.
+9. L'appelante n'a pas produit auprès du Ministre un avis d'opposition et n'a pas interjeté appel à la Cour canadienne de l'impôt à l'encontre de la détermination dont l'avis lui a été expédié le 21 janvier 2003.
+10. La détermination dont l'avis lui a été expédié le 21 janvier 2003 a été établi conformément à l'alinéa 152(1)b) de la LIR et expédié à l'appelante conformément au paragraphe 152(2) de la LIR, laquelle bénéficiait en conséquence, en vertu du paragraphe 152(1.2) de la LIR, d'un droit d'opposition et d'un droit d'appel à la Cour canadienne de l'impôt à l'encontre de cette détermination en application, compte tenu des adaptations nécessaires, des dispositions pertinentes des sections I et J de la Partie I de la LIR applicables aux cotisations concernant l'impôt.
+11. L'appelante n'ayant pas produit auprès du Ministre un avis d'opposition et n'ayant pas interjeté appel à la Cour canadienne de l'impôt à l'encontre de la détermination dont l'avis lui a été expédié le 21 janvier 2003, le refus de ce crédit d'impôt à l'investissement remboursable 9 844 $ qu'elle a réclamé pour son année d'imposition terminé le 30 novembre 2001 ne peut pas faire l'objet du présent appel.
+12. L'impact d'un jugement de cette Cour réévaluant l'admissibilité des travaux de RS & DE de l'appelante se situe donc exclusivement au niveau du montant de la perte autre qu'une perte en capital déterminée par le Ministre dans l'avis de détermination de perte du 3 juin 2004, étant donné que seule cette détermination de perte fait l'objet du présent litige.
+13. Le seul impact que peut avoir le redressement demandé par l'appelant concernant l'évaluation de l'admissibilité de ses travaux de RS & DE sur la perte autre qu'une perte en capital déterminée par le Ministre dans l'avis de détermination de perte du 3 juin 2004 serait de réduire cette perte d'un montant de 16 500 $, la faisant ainsi passer de 39 197 $ telle que présentement déterminée dans l'avis de détermination de perte du 3 juin 2004 à un montant de 22 697 $.
+14. Or, cette Cour ne peut, dans le cadre d'un litige concernant une telle cotisation ou détermination de perte, ordonner au Ministre d'établir une cotisation à la hausse ou une détermination de perte à la baisse, défavorables à l'appelante.
+15. Cette Cour ne pouvant accorder de redressement à l'appelante, le présent appel est sans objet et doit donc échouer.
+[13] Les paragraphes 4 à 10 et 12 à 15 de la déclaration sous serment de monsieur Gilles Bouchard se lisent comme suit :
+4. J'ai procédé à un examen des dossiers de vérification et d'opposition pertinents à l'ARC concernant l'appelante, ainsi que des registres électroniques pertinents de l'ARC la concernant, qui m'a permis de constater les faits ci-après exposés.
+5. L'appelante est une société incorporée en vertu de la Partie 1A de la Loi sur les compagnies, L.R.Q., c. C-38, tel qu'il appert de l'imprimé de l'extrait du Registre des entreprises individuelles, des sociétés et des personnes morales concernant l'appelante, Pièce R-1 de la présente requête.
+6. Le ou vers le 31 mai 2002, l'appelante a produit auprès de l'ARC une déclaration de revenu (T2) pour son année d'imposition terminée le 30 novembre 2001, dont copie conforme est jointe à la présente requête comme Pièce R-2, dans laquelle elle a :
+a) déclaré une perte nette de 22 967 $ ainsi qu'une perte autre qu'une perte en capital pour l'année de 22 697 $;
+b) réclamé un crédit d'impôt à l'investissement remboursable de 9 844 $ en vertu de l'article 127.1 de la Loi de l'impôt sur le revenu (ci-après « LIR » ).
+7. Le 21 janvier 2003, le ministre du Revenu national (ci-après « Ministre » ) a expédié à l'appelante, en vertu des paragraphes 152(1), 152(1.2) et 152(2) de la LIR, dans le même document :
+a) un avis à l'effet qu'aucun impôt n'était payable pour son année d'imposition terminée le 30 novembre 2001, tel qu'il appert de l'imprimé électronique de l'avis, Pièce R-3 de la présente requête;
+b) un avis de détermination par lequel le Ministre a déterminé que l'appelante n'avait pas droit au crédit d'impôt à l'investissement remboursable de 9 844 $ qu'elle a réclamé en vertu de l'article 127.1 de la LIR pour son année d'imposition terminée le 30 novembre 2001, tel qu'il appert de l'imprimé électronique de l'avis, Pièce R-3 de la présente requête.
+8. Malgré mes recherches et mon examen attentif des dossiers de vérification et d'opposition pertinents de l'ARC concernant l'appelante, ainsi que des registres électroniques pertinents de l'ARC la concernant, il m'a été impossible de constater que l'ARC avait reçu un avis d'opposition ou un avis d'appel concernant la détermination dont l'avis a été expédié à l'appelante le 21 janvier 2003.
+9. L'appelante n'a jamais produit auprès du Ministre un avis d'opposition et n'a jamais interjeté appel à la Cour canadienne de l'impôt à l'encontre de la détermination dont l'avis lui a été expédié le 21 janvier 2003, par lequel le Ministre a déterminé que l'appelante n'avait pas droit au crédit d'impôt à l'investissement remboursable de 9 844 $ qu'elle a réclamé pour son année d'imposition terminée le 30 novembre 2001.
+10. Le ou vers le 26 avril 2004, l'appelante a produit auprès du Ministre, en vertu du paragraphe 152(1.1) de la LIR, une demande de détermination de sa perte autre qu'une perte en capital pour son année d'imposition terminée le 30 novembre 2001, tel qu'il appert de la copie conforme de la demande de détermination de perte de l'appelante, Pièce R-4 de la présente requête.
+...
+12. Le 3 juin 2004, le Ministre a expédié à l'appelante un avis de détermination de perte par lequel il a déterminé que la perte autre qu'une perte en capital de l'appelante était de 39 179 $, tel qu'il appert de la copie conforme de l'avis de détermination de perte, Pièce R-5 de la présente requête.
+13. Le ou vers le 5 juillet 2004, l'appelante a signifié au Ministre un avis d'opposition à l'encontre de la détermination de perte dont l'avis lui a été expédié le 3 juin 2004, tel qu'il appert de la copie conforme de l'avis d'opposition de l'appelante, Pièce R-6 de la présente requête.
+14. Le 13 octobre 2005, le Ministre a ratifié la détermination de perte dont l'avis a été expédié à l'appelante le 3 juin 2004, tel qu'il appert de la copie conforme de l'avis de ratification, Pièce R-7 de la présente requête.
+15. Le 10 janvier 2006, l'appelante a déposé un avis d'appel à la Cour canadienne de l'impôt à l'encontre de la détermination de perte dont l'avis lui a été expédié le 3 juin 2004, tel qu'il appert de l'avis d'appel de l'appelante figurant au dossier de la Cour.
+[14] La déclaration sous serment de monsieur Pierre Brodeur se lit comme suit :
+1. Je suis vérificateur à l'Agence du revenu du Canada (ci-après « ARC » , dont les bureaux sont situés au 3400, avenue Jean-Béraud, à Laval, Province de Québec, H7T 2Z2.
+2. J'ai procédé à la vérification du dossier de l'appelante pour son année d'imposition terminée le 30 novembre 2001 et j'ai en conséquence une connaissance personnelle du dossier de vérification de l'appelante pertinent aux fins du présent appel.
+3. En tant que vérificateur chargé de la vérification du dossier de l'appelante pour son année d'imposition terminée le 30 novembre 2001, j'étais en charge du dossier de vérification de l'appelante pertinent aux fins du présent appel et j'ai en conséquence une connaissance personnelle du dossier de vérification de l'appelante pertinent aux fins du présent appel.
+4. Le ou vers le 31 mai 2002, l'appelante a produit auprès de l'ARC une déclaration de revenu (T2) pour son année d'imposition terminée le 30 novembre 2001, dont copie conforme est jointe à la présente requête comme Pièce R-2, dans laquelle elle a :
+a) déclaré une perte nette de 22 967 $ ainsi qu'une perte autre qu'une perte en capital pour l'année de 22 697 $;
+b) réclamé un crédit d'impôt à l'investissement remboursable de 9 844 $ en vertu de l'article 127.1 de la Loi de l'impôt sur le revenu (ci-après « LIR » ) entièrement attribuable à des dépenses de recherches scientifiques et de développement expérimental.
+5. Plus spécifiquement, l'appelante a réclamé des dépenses de recherches scientifiques et de développement expérimental et des dépenses admissibles aux fins du calcul du crédit d'impôt à l'investissement de 28 125 $, tel qu'il appert de la copie conforme de la déclaration de revenu (T2) de l'appelante pour son année d'imposition terminée le 30 novembre 2001, Pièce R-2 de la présente requête, et détaillées dans mes feuilles de travail confectionnées aux fins de ma vérification, Pièce R-8 de la présente requête.
+6. Le ou vers le 12 septembre 2002, j'ai débuté ma vérification du dossier de l'appelante pour son année d'imposition terminée le 30 novembre 2001.
+7. Le ou vers le 8 novembre 2002, j'ai reçu le rapport du conseiller scientifique chargé d'évaluer l'admissibilité des travaux de recherches scientifiques et de développement expérimental de l'appelante, aux termes duquel il concluait que les travaux en cause ne consistaient pas des travaux de « recherches scientifiques et de développement expérimental » au sens du paragraphe 2900(1) du Règlement de l'impôt sur le revenu (ci-après « RIR » ).
+8. Sur la seule base de cette évaluation, j'ai procédé aux ajustements suivants aux montants déclarés par l'appelante dans sa déclaration de revenu produite pour son année d'imposition terminée le 30 novembre 2001, tel que détaillé dans mes feuilles de travail confectionnées aux fins de ma vérification, Pièce R-8 de la présente requête :
+a) augmentation à 39 197 $ tant de la perte nette de 22 697 $ que de la perte autre qu'une perte en capital pour l'année de 22 697 $ déclarées par l'appelante;
+b) refus complet du crédit d'impôt à l'investissement remboursable de 9 844 $ réclamé par l'appelante en vertu de l'article 127.1 de la LIR.
+9. Cette augmentation de 16 500 $ de la perte nette et de la perte autre qu'une perte en capital pour l'année résulte du refus des crédits d'impôt du Québec de 16 500 $ que l'appelante avait appliqués en réduction de ses dépenses de recherches scientifiques et de développement expérimental, tel que détaillé dans mes feuilles de travail confectionnées aux fins de ma vérification, Pièce R-8 de la présente requête.
+10. Si les travaux de recherches scientifiques et de développement expérimental de l'appelante avaient constitué des travaux de « recherches scientifiques et de développement expérimental » au sens du paragraphe 2900(1) du RIR, tant la perte nette de l'appelante que sa perte autre qu'une perte en capital pour l'année auraient été établies à 22 697 $.
+[15] La Cour a demandé au représentant de l'appelante s'il avait produit un avis d'opposition à la cotisation de l'appelante en date du 21 janvier 2003. Il a affirmé fortement que oui. Toutefois, il n'a présenté aucun document appuyant cette affirmation.
+[16] Comme chacune des affirmations de l'intimée est corroborée par une pièce documentaire, j'accepte la version des faits de l'intimée.
+[17] La Cour a également demandé à l'intimée des documents supplémentaires soit le projet de cotisation, concernant la réclamation au titre des RS & DE, envoyé au représentant et président de l'appelante en date du 15 novembre 2002 et qui a été produit comme pièce I-1 et le T-2020 de monsieur Pierre Brodeur commençant avec l'ouverture du dossier le 12 septembre 2002 et se terminant le 19 décembre 2002 avec cette dernière note : « Nous n'avons reçu aucune représentation du réclamant. Fermeture du dossier. » (Pièce I-2).
+Analyse et conclusion
+[18] Dans cette affaire il y a deux cotisations en cause. La première a été établie le 21 janvier 2003. La deuxième a été établie le 3 juin 2004. La première a refusé le projet de RS & DE et le crédit d'impôt à l'investissement. La deuxième a déterminé un montant de perte en vertu du paragraphe 152(1.1) de la Loi. Il n'y a eu ni opposition ni appel de la première cotisation.
+[19] En ce qui concerne la première cotisation, bien que le montant d'impôt cotisé ait été zéro, il ne s'agit pas de ce que la jurisprudence connaît sous le nom de cotisations « néant » , cotisations dont il n'y a pas appel selon la jurisprudence. Depuis la décision de cette cour dans Martens v M.N.R., 88 DTC 1382, la jurisprudence est constante : il y a appel d'une cotisation relative à un crédit d'impôt remboursable. Voir Datacalc Research Corp. v. R., 2002 DTC 1479 et Interior Savings Credit Union v. Canada, [2006] T.C.J. No 312 (QL).
+[20] C'est de cette cotisation dont l'appelante aurait dû interjeter appel pour obtenir le débat judiciaire qu'elle souhaite. Maintenant, elle tente, par l'intermédiaire d'un appel d'une détermination de perte, de faire indirectement ce qu'elle ne peut plus faire directement.
+[21] Malheureusement, cet appel relatif à la détermination de perte n'a pas d'objet valable en droit. Cet appel a pour but de diminuer le montant des pertes déterminées. Or, un contribuable n'a pas le droit d'interjeter un appel qui augmenterait son fardeau fiscal : Bruner c. Canada, [2003] A.C.F. no 144 (QL). De plus, cet appel étant relatif à une détermination de perte, il ne saurait conduire à un crédit d'impôt remboursable puisque cette matière était le sujet d'une autre cotisation.
+[22] La requête de l'intimée est accordée et l'appel de l'appelante est rejeté au motif que cet appel est sans objet valable en droit.
+Signé à Ottawa, Canada, ce 22e jour de janvier 2007.
+« Louise Lamarre Proulx »
+Juge Lamarre Proulx
+RÉFÉRENCE : 2007CCI44
+N º DU DOSSIER DE LA COUR : 2006-136(IT)I
+INTITULÉ DE LA CAUSE : 9089-6473 QUÉBEC INC. c. SA MAJESTÉ LA REINE
+LIEU DE L'AUDIENCE : Montréal (Québec)
+DATE DE L'AUDIENCE : le 11 janvier 2007
+MOTIFS DU JUGEMENT PAR : L'honorable juge Louise Lamarre Proulx
+DATE DU JUGEMENT : le 22 janvier 2007
+COMPARUTIONS :
+Représentant de l'appelante :
+Yves Bluteau
+Avocat de l'intimée :
+Me Philippe Dupuis
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelante:
+Nom :
+Cabinet :
+Pour l'intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

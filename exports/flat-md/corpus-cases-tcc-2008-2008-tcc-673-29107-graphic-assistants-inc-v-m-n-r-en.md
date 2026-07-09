@@ -1,0 +1,200 @@
+---
+title: "Graphic Assistants Inc v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29107/index.do"
+last_modified: "2008-12-18"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 TCC 673"
+citation2: ""
+neutral_citation: "2008 TCC 673"
+decision_date: "2008-12-18"
+language: "en"
+item_id: "29107"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6670
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T23:31:57.481000+00:00"
+cases_cited_count: 3
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "9da804c6dacd54aeca7c4e6ee431ee719171f2d2167830df1a541eb4bd5bb7f3"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Graphic Assistants Inc v. M.N.R.
+
+- Citation: 2008 TCC 673
+- Decision date: 2008-12-18
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6670, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Graphic Assistants Inc v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-12-18
+Neutral citation
+2008 TCC 673
+File numbers
+2008-1632(EI)
+Judges and Taxing Officers
+Norris Weisman
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2008-1632(EI)
+BETWEEN:
+GRAPHIC ASSISTANTS INC./
+ASSISTANCE GRAPHIQUE INC.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeal of
+Graphic Assistants Inc./Assistance Graphique Inc. (2008‑1634(CPP))
+on November 28, 2008 at Toronto, Ontario
+Before: The Honourable N. Weisman, Deputy Judge
+Appearances:
+Agent for the Appellant:
+Wayne D. Shrubb
+Counsel for the Respondent:
+Diana Aird
+____________________________________________________________________
+JUDGMENT
+The appeal is dismissed and the decision of the Minister is confirmed in accordance with the attached Reasons for Judgment.
+Signed at Toronto, Ontario, this 18th day of December 2008.
+"N. Weisman"
+Weisman D.J.
+Docket: 2008-1634(CPP)
+BETWEEN:
+GRAPHIC ASSISTANTS INC./
+ASSISTANCE GRAPHIQUE INC.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeal of
+Graphic Assistants Inc./Assistance Graphique Inc. (2008‑1632(EI))
+on November 28, 2008 at Toronto, Ontario
+Before: The Honourable N. Weisman, Deputy Judge
+Appearances:
+Agent for the Appellant:
+Wayne D. Shrubb
+Counsel for the Respondent:
+Diana Aird
+____________________________________________________________________
+JUDGMENT
+The appeal is dismissed and the decision of the Minister is confirmed in accordance with the attached Reasons for Judgment.
+Signed at Toronto, Ontario, this 18th day of December 2008.
+"N. Weisman"
+Weisman D.J.
+Citation: 2008 TCC 673
+Date: 20081218
+Dockets: 2008-1632(EI)
+2008-1634(CPP)
+BETWEEN:
+GRAPHIC ASSISTANTS INC./
+ASSISTANCE GRAPHIQUE INC.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGMENT
+Weisman D.J.
+[1] These two appeals arose from decisions by the Respondent Minister of National Revenue (the “Minister”) that the Appellant, an employment agency, was liable for employment insurance premiums and Canada Pension Plan contributions as a result of having placed David Burrell (“Burrell”), a graphic designer, in employment with the Appellant’s client, AON Reed Stenhouse Inc. (“Reed”).
+[2] The Appellant admits that it is an employment agency, and that it placed Burrell in employment under a contract of service from March 23, 2007 to September 29, 2007, the period under review. The Appellant bases its appeals solely on the issue of whether or not it remunerated Burrell while he was thus engaged by Reed.
+[3] The relevant statutory provisions are Regulation 6(g) under the Employment Insurance Act (the “Act”)[1], and Regulation 34.(1) under the Canada Pension Plan (the “Plan”)[2], which provide as follows:
+6. Employment in any of the following employments, unless it is excluded from insurable employment by any provision of these Regulations, is included in insurable employment:
+…
+(g) employment of a person who is placed in that employment by a placement or employment agency to perform services for and under the direction and control of a client of the agency, where that person is remunerated by the agency for the performance of those services.
+34. (1) Where any individual is placed by a placement or employment agency in employment with or for performance of services for a client of the agency and the terms or conditions on which the employment or services are performed and the remuneration thereof is paid constitute a contract of service or are analogous to a contract of service, the employment or performance of services is included in pensionable employment and the agency or the client, whichever pays the remuneration to the individual, shall, for the purposes of maintaining records and filing returns and paying, deducting and remitting contributions payable by and in respect of the individual under the Act and these Regulations, be deemed to be the employer of the individual.
+[4] While neither Regulation defines the word “remuneration”, the Federal Court of Appeal adopted the following definitions in Mastech Quantum Inc. v. The Minister of National Revenue (“Mastech”)[3]:
+The Shorter Oxford Dictionary (3rd Ed.) defines “remunerate” and “remuneration” as follows: 1. trans. to repay, requite, make some return for (services etc.) 2. to reward (a person); to pay (a person) for services rendered or work done, hence remuneration, reward, recompense, repayment, payment, pay. In the Black’s Law Dictionary, (7th Ed.) “remuneration” is defined as: 1. Payment; compensation; 2. The act of paying or compensating.
+Prima facie, the person who actually pays the worker, remunerates that worker.
+[5] In support of its contention that it did not remunerate Burrell, the Appellant relies on the following four arguments. First, the agreement between the Appellant and Burrell, executed by the parties on the 19th day of July 2004, provides that:
+Graphic Assistants Inc. has clearly explained to me and I fully understand that if Graphic Assistants Inc. do not get paid by their clients for services that I have performed, I will not receive payment from Graphic Assistants Inc.
+Second, the Appellant negotiated Burrell’s rate of remuneration with Reed, taking into account his expressed range of minimum and maximum hourly rates. It did not set the rate itself, which would have indicated that it remunerated Burrell.[4] Third, when his first invoice to the Appellant went unpaid, Burrell complained to the Appellant and was told that no monies had been received from Reed. He then approached a Reed representative with whom he worked, who made inquiries and advised him that the matter was in the hands of the accounting department. In the Appellant’s view, this establishes that Burrell looked to Reed for his remuneration. Finally, the Appellant argues that the facts before me are not distinguishable from those in my decision in Kelly Carmichael v. M.N.R (“Carmichael”)[5], where I found that the placement agency did not remunerate the worker.
+[6] As I noted in Carmichael, placement agencies face a dilemma. On the one hand, they want to ensure that they get paid for their services. This requires that they either trust the worker to pay them, or arrange to have the monies owing by the client for the worker’s services sent directly to them, deduct their fees, and remit the balance to the worker. The problem is that the latter, while far preferable from the agencies’ point of view, puts them at risk of being found to be deemed employers within the meaning of the two relevant Regulations. In fact, placement agencies that adopt the latter practice usually have been found liable accordingly. The jurisprudence that has been brought to my attention reveals only two exceptions to this trend, both of which are distinguishable from the fact situation before me.
+[7] Chronologically, the first was Wegener (above), in which Woods J. found that the various production companies, for whom the extras or background performers were employed, actually remunerated them. This, even though the wages due were directed by the workers to be paid to the agency that found them employment, which deducted its fees for services rendered before issuing cheques for the balance to the performers. The prima facie presumption was rebutted by several facts. First, the production companies who hired the performers agreed to take care of all payroll matters. Second, the cheques issued by the production companies were made out in the names of both the performers and the agency. Third, the production company issued T4A slips to the performers thereby further acknowledging that it was paying their remuneration. Fourth, the performers entered into agreements directly with the client production companies. These agreements contain the following relevant provisions:
+(i) The intent is to show that payments made by the Production for Canadian services are taxable to the individual (Canadian resident) who receives such payments and are directly attributable to the making of the Production.
+Justice Woods found this provision suggestive that the production company pays the performers for services rendered.
+(ii) Another clause explicitly provides:
+In consideration of the grant of these rights, R.R. FILMS INC., hereby agrees to pay the undersigned the rate of $7.00 (Seven Dollars) per hour and 1.5 X the rate after 8 hours.
+Finally, the performers provided the agency’s mailing address for paycheques thereby effectively giving a direction for their remuneration to be mailed to the Appellant agency. Justice Woods concluded that the agency could not be found to have remunerated the performers when it issued them cheques, because the remuneration had already been paid.
+[8] In Carmichael, above, the client was found to have remunerated the worker for the reasons that follow. First, Carmichael never invoiced the agency, Creative Force, for her services. She was content that Creative confirm her hours worked, and then invoice its clients “on behalf of Kelly Carmichael”. On one occasion she faxed Creative as follows: “… starting in the new year, I will need you to charge G.S.T. for me also. I will provide my number to you”. Second, the agreement between her and the agency provides:
+(i) It is agreed that amounts received from Customers from invoices provided by Creative Force to which the Freelancer is entitled in accordance with the formula set out above belong to the Freelancer and that Creative Force is merely collecting such amounts on behalf of the Freelancer.
+(ii) It is agreed that the Freelancer shall receive such payment that is due pursuant to this contract, once the payment from the client has been received by Creative Force and cleared by an appropriate financial institution.
+(iii) It is agreed that Creative Force shall make every reasonable attempt to collect fees and expenses invoiced to customers, but Creative Force cannot guarantee such payment. The Freelancer hereby constitutes Creative Force as its agent to collect the fees from the Customer to which the Freelancer is entitled.
+[9] Both Carmichael and Burrell complained to the client when payment for services rendered was not received in timely fashion. By itself, this is understandable in view of the contractual provisions that made it clear that the workers would not get paid unless the clients paid the agency. In Carmichael, however, the Appellant’s complaint directly to the client also served to buttress the various other indicia that she looked to the client for her remuneration. In contrast, Burrell’s inquiry actually earned him the following admonition from the agency: “Do not talk to the client about money”. These instructions are not consistent with the agency’s position that the client remunerated the worker.
+[10] The Appellant insists that it merely negotiated Burrell’s rate of pay on his behalf, while he believes that the Appellant set his rate of remuneration at $35.00 per hour. The latter would tend to indicate that the agency remunerated Burrell.[6] I found the Appellant’s position the more credible of the two, since the evidence indicates that it is consistent with its usual practice. On the other hand, the Appellant placed great emphasis on Burrell’s agreement to bear the risk of loss should the client default in payment. This, however, is hardly sufficient to establish concurrence on his part that he was being remunerated by the client.
+[11] Wegener (above) was unusual in that the client of the placement agency expressly agreed to remunerate the performers. In most cases, including Carmichael (above), the agency and the worker agree on whether the agency or its client is remunerating the worker. This gives rise to the question of how much reliance courts should place on such agreements. As has so often been held, it is a matter of law whether a worker is an employee under a contract of service, or an independent contractor under a contract for services[7] because the rights of third parties are affected[8]. Accordingly, the expressed intention of the parties is not determinative unless the applicable legal guidelines produce indeterminate results[9].
+[12] Similarly, it seems to me that it is a matter of law whether the agency or its client is the deemed employer pursuant to Regulation 34.(1) under the Plan, rather than being determined by the expressed intention of the agency and the worker, since the rights and obligations of a third party, the client, are affected.
+[13] In this regard, the recent decision of the Ontario Court of Appeal in IBM Canada Ltd. v. Ontario (Finance) (“IBM”)[10] is informative. At issue was whether IBM or its foreign affiliates remunerated expatriate IBM employees who were on temporary assignments with the foreign affiliate in circumstances where IBM continued to pay the expatriates’ salaries, but was reimbursed by the foreign affiliate. Central to the Court’s decision was the fact that the foreign affiliate was not a party to the terms of the placement agreement between IBM and its expatriate employee, while the expatriate employee was not a party to the agreement between IBM and its foreign affiliate. The Court concludes that since the expatriate would have no contractual claim against the foreign affiliate for any breach of the conditions and terms of the agreement between IBM and the expatriate, nor would the foreign affiliate have a claim in contract against the expatriate for any breach of the terms of that agreement, IBM remunerated the worker.
+[14] Following from this, Chief Justice Richard’s comment in Mastech (above), becomes significant:
+I note also that subsection 34(1) presumes that either the agency or the client will pay the remuneration and thus be deemed to be the employer of the individual. Since the client, Dofasco did not pay the remuneration for the purpose of the provision it must have been paid by the agency, Silverside.
+[15] If a client of an employment or placement agency is in jeopardy of being found to be a deemed employer under the Plan, in a situation where subsection 34.(1) of the Regulations is invoked, it is clearly entitled to protection under section 27.2 of the Plan as a “person who may be affected by the appeal” to the Minister; and pursuant to that section, must be given both notice “that the Minister intends to decide the appeal”, and “an opportunity to provide information and to make representations to protect the person’s interest”. It also comes within the definition of “intervener” in section 2 of the Tax Court of Canada Rules of Procedure respecting the Canada Pension Plan[11]. As such, it is again entitled to notice of any appeal to the Minister under section 27.2; together with intervener’s status in the proceedings; and the right to appeal the Minister’s decision to the Tax Court of Canada pursuant to section 28 of the Plan.
+[16] In the matter before me, Mr. Burrell’s agreement to bear the risk of loss should the client default in payment, does not establish that he agreed that it was the client and not the agency that was remunerating him. On the contrary, the fact that the agency admonished him saying: “Do not talk to the client about money”, and the absence of an enforceable agreement between the worker and the client, are incongruent with the Appellant’s position that the client remunerated Mr. Burrell. The only fact that supports the Appellant’s stance is that it negotiated Mr. Burrell’s rate of remuneration with its client. The evidence as a whole clearly establishes that it was the Appellant that remunerated Mr. Burrell.
+[17] I have investigated all the facts with the parties and the witnesses called on the parties’ behalf to testify under oath for the first time, and have found no new facts and nothing to indicate that the facts inferred or relied upon by the Minister were unreal, or were incorrectly assessed or misunderstood. The Minister’s conclusions are objectively reasonable. In the result, the Appellant having failed to discharge the onus of demolishing the assumptions set out in the Minister’s Replies to its Notices of Appeal, the appeals will be dismissed and the decisions of the Minister confirmed.
+Signed at Toronto, Ontario, this 18th day of December 2008.
+"N. Weisman"
+Weisman D.J.
+CITATION:
+2008 TCC 673
+COURT FILE NOS.:
+2008-1632(EI) and
+2008-1634(CPP)
+STYLE OF CAUSE:
+Graphic Assistants Inc./
+Assistance Graphique Inc. and
+The Minister of National Revenue
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+November 28, 2008
+REASONS FOR JUDGMENT BY:
+The Honourable N. Weisman,
+Deputy Judge
+DATE OF JUDGMENT:
+December 18, 2008
+APPEARANCES:
+Agent for the Appellant:
+Wayne D. Shrubb
+Counsel for the Respondent:
+Diana Aird
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] SOR/96-332.
+[2] C.R.C. 1987, Vol. 1V, c. 385 as amended.
+[3] 2002 FCA 131, [2002] F.C.J. No. 552, at par.9.
+[4] Sheridan v. M.N.R., [1985] F.C.J. No. 230 (F.C.A.) (“Sheridan”); Wegener (c.o.b. Director’s Choice) v. M.N.R., [2005] T.C.J. No. 253 (T.C.C.) (“Wegener”).
+[5] 2007 TCC 550, [2007] T.C.J. No. 376.
+[6] Sheridan; Wegener, above.
+[7] Ready Mixed Concrete (South East) Ltd. v. Minister of Pensions and National Insurance, [1968] 1 All E.R. 433 (Q.B.D.); Wiebe Door Services v. M.N.R. (1986), 87 DTC 5025 (FCA); Standing v M.N.R., [1992] F.C.J. No. 890; 671122 Ontario Ltd. v. Sagaz Industries Canada Inc., [2001] S.C.J. No.61 (“Sagaz”); Wolf v. Canada (C.A.), [2002] 4 F.C. 396 (FCA); D & J Driveway Inc. v. M.N.R., 2003 FCA 453; Livreur Plus Inc. v. M.N.R., [2004] F.C.J. No. 267 (F.C.A.); The Royal Winnipeg Ballet v. M.N.R., [2006] FCA 87.
+[8] Sagaz, above, at par. 36.
+[9] The Royal Winnipeg Ballet, above.
+[10] (2008), 89 O.R. (3d) 641, (2008), 235 O.A.C. 161
+[11] SOR/90-689 as amended.

@@ -1,0 +1,210 @@
+---
+title: "Estate of Herman Gebhart v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27338/index.do"
+last_modified: "2006-10-31"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 CCI 572"
+citation2: ""
+neutral_citation: "2006 CCI 572"
+decision_date: "2006-10-31"
+language: "fr"
+item_id: "27338"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 518
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T23:35:57.358000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "cd36f291c588917cf863572b75725f8bb879826b59abd524d51f741cf99d031e"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Estate of Herman Gebhart v. The Queen
+
+- Citation: 2006 CCI 572
+- Decision date: 2006-10-31
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 518, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Estate of Herman Gebhart v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-10-31
+Référence neutre
+2006 CCI 572
+Numéro de dossier
+2003-754(IT)G
+Juges et Officiers taxateurs
+David W. Beaubier
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2003-754(IT)G
+ENTRE :
+LA SUCCESSION DE HERMAN GEBHART,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+________________________________________________________________
+Appel entendu le 16 octobre 2006, à Regina (Saskatchewan).
+Devant : L'honorable juge D. W. Beaubier
+Comparutions :
+Avocat de l'appelante :
+Me Gregory A. Swanson
+Avocat de l'intimée :
+Me Julien Bédard
+________________________________________________________________
+JUGEMENT
+L'appel de la nouvelle cotisation établie en vertu de la Loi de l'impôt sur le revenu à l'égard de l'année d'imposition 1996 est rejeté conformément aux motifs du jugement ci‑joints.
+Signé à Kelowna (Colombie‑Britannique), ce 31e jour d'octobre 2006.
+« D. W. Beaubier »
+Le juge Beaubier
+Traduction certifiée conforme
+ce 10e jour de mars 2008.
+Yves Bellefeuille, réviseur
+Référence : 2006CCI572
+Date : 20061031
+Dossier : 2003-754(IT)G
+ENTRE :
+LA SUCCESSION DE HERMAN GEBHART,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Beaubier
+[1] Le présent appel, interjeté sous le régime de la procédure générale, a été entendu à Regina (Saskatchewan), le 16 octobre 2006. L'intimée a appelé à témoigner l'avocat de la succession appelante, Paul Lewans, et le vérificateur responsable du dossier, William Peake. Aucun autre témoin n'a été appelé.
+[2] Les détails de la cause de l'intimée sont exposés aux paragraphes 4 à 11 de la réponse à l'avis d'appel, lesquels sont rédigés en ces termes :
+[TRADUCTION]
+4. La déclaration de revenus T1 du défunt, Herman Gebhart, pour 1996, indiquait un revenu total de 43 528,86 $, tiré d'un régime enregistré d'épargne‑retraite (REÉR). La cotisation a été établie le 27 janvier 1997 conformément à la déclaration produite.
+5. Dans un avis de nouvelle cotisation daté du 31 janvier 2002, le ministre du Revenu national (le « ministre ») a établi une nouvelle cotisation à l'égard de la déclaration de revenus de 1996 de Herman Gebhart en ajoutant au revenu un montant de 40 953 $, produit tiré d'un REÉR, qui n'avait pas été déclaré. Le montant d'impôt a été ajouté en vertu du paragraphe 152(4) de la Loi de l'impôt sur le revenu (la « Loi »).
+6. Un avis d'opposition a été déposé le 30 avril 2002.
+7. Le ministre a ratifié la nouvelle cotisation par avis de ratification en date du 22 novembre 2003.
+8. Pour établir la nouvelle cotisation de l'appelante, le ministre s'est appuyé notamment sur les hypothèses de fait suivantes :
+a. Le défunt est décédé le 22 mai 1996.
+b. Le testament du défunt désignait Richard Kohl comme exécuteur testamentaire; le courrier de M. Kohl était acheminé aux soins de Lewans & Ford, avocats.
+c. La succession a reçu 96 518 $ en revenus de REÉR.
+d. Seul un montant de 55 565 $ en revenus de REÉR a été inscrit dans la déclaration de revenus de 1996.
+e. La déclaration de revenus de 1996 ne faisait pas état d'un produit de REÉR de 40 953 $.
+f. Le défaut d'inscrire le revenu de REÉR de 40 953 $ constituait une présentation erronée des faits, par négligence, inattention ou omission volontaire.
+B. POINTS EN LITIGE
+9. Le point en litige est de savoir si c'est à bon droit que le ministre a rouvert la déclaration de revenus de 1996 du défunt en vertu du paragraphe 152(4) de la Loi.
+C. DISPOSITIONS LÉGISLATIVES INVOQUÉES
+10. Il s'appuie sur l'alinéa 146(8.8)a) et sur le paragraphe 152(4) de la Loi, L.R.C. 1985 (5e suppl.), ch. 1, et ses modifications.
+D. MOYENS INVOQUÉS ET CONCLUSIONS RECHERCHÉES
+11. Il soutient respectueusement que c'est à bon droit que le ministre a rouvert la déclaration de revenus de 1996 du défunt, en vertu du paragraphe 152(4) de la Loi, en raison du défaut de déclarer un revenu de 40 953 $ provenant de la disposition réputée de tous les REÉR du défunt, lequel défaut constituait une présentation erronée des faits par négligence, inattention ou omission volontaire.
+[3] Les hypothèses 8a) à e), inclusivement, ont été corroborées par la preuve. L'hypothèse 8f) est contestée.
+[4] La chronologie des faits de la présente affaire s'établit comme suit :
+Le 22 mai 1996 – Herman Gebhart, célibataire âgé de 66 ans, meurt sur les terres de son ranch situé près de Mankota, en Saskatchewan. Son testament désignait le mari de sa nièce, Richard Kohl, de Mankota, comme exécuteur testamentaire. Monsieur Kohl a retenu les services de Paul Lewans à Assiniboia, agglomération située en Saskatchewan à 100 km de Mankota, pour agir comme avocat de la succession; Mankota est dans le Sud‑Ouest de la Saskatchewan, à environ 50 km du Montana. Personne n'était au courant des affaires de M. Gebhart et sa déclaration de revenus de 1995 ne fait état d'aucun REÉR.
+Le 24 mai 1996 – Maître Lewans écrit à la Banque Canadienne Impériale de Commerce (la « BCIC ») de Mankota pour obtenir notamment un état de [TRADUCTION] « tous les comptes et dépôts à terme ». (Voir la pièce A‑1, onglet 2.)
+Le 27 mai 1996 – La BCIC fait parvenir par télécopieur à Me Lewans une réponse qui indique notamment ce qui suit :
+[TRADUCTION]
+(indéchiffrable)
+P. LISTE DES CERTIFICATS DE RENTES DE RETRAITE GARANTIES
+[...]
+No de RRG : 1540-750-5
+SOLDE DU COMPTE 48 614,59 $
+Il s'agit de trois certificats; la réponse indique la répartition du capital, la valeur à l'échéance, l'intérêt sur le capital et les intérêts courus. (Voir la pièce A‑1, onglet 2.)
+Le 27 mai 1996 – Maître Lewans écrit à la Corporation Financière Mackenzie (« Mackenzie ») une lettre demandant la valeur du compte 0948405‑06 pour l'homologation. (Voir la pièce A-1, onglet 3.)
+Le 28 mai 1996 – Mackenzie envoie un document de trois pages se rapportant au compte du régime enregistré d'épargne‑retraite 0948405-6, dont voici le résumé :
+[TRADUCTION]
+(1)
+Fonds de croissance industriel
+40 134,74 $
+(2)
+Fonds d'actions étrangères Ivy
+363,08 $
+(3)
+Fonds canadien Ivy
+3 031,04 $
+(Voir la pièce A‑1, onglet 4.)
+Le 30 mai 1996 – Richard Kohl demande l'homologation, en inscrivant dans l'actif les éléments suivants :
+[TRADUCTION]
+F. COMPTES BANCAIRES, FONDS EN CAISSE
+Banque Canadienne Impériale de Commerce, Mankota
+[...]
+No 1540-750-5
+48 614,59 $
+Intérêts courus
+1 448,07 $
+[...]
+H. [...]
+Régimes enregistrés d'épargne‑retraite
+Corporation Financière Mackenzie no 0948405-6 :
+Fonds de croissance industriel
+40 134,74 $
+Fonds d'actions étrangères Ivy (frais de rachat)
+363,08 $
+Fonds canadien Ivy (frais de rachat)
+3 031,04 $
+43 528,86 $
+(Voir la pièce A‑1, onglets 5 à 7 inclusivement.)
+Le 10 juin 1996 – L'homologation est accordée à Richard Kohl. (Voir la pièce A‑1, onglet 8.)
+Le 23 juillet 1996 – La BCIC transmet à sa succursale de Mankota, pour les comptes de REÉR de la BCIC nos 416‑647‑6 et 1540‑750‑5, deux chèques de REÉR, avec les formulaires T4 RSP correspondants, dont les montants sont les suivants :
+4 834,89 $
+50 730,37 $
+Date inconnue – Mackenzie paie le solde dû à la succession dans son compte de la BCIC à Mankota. Maître Lewans ne reçoit jamais le feuillet T4 se rapportant aux montants de Mackenzie apparemment payés par la « Compagnie de fiducie MRS » (« MRS »). (Voir la pièce R‑3, rapport de vérification.) Maître Lewans n'a jamais reçu les T4 pour ces montants, qui auraient totalisé 40 953 $ à la date du décès.
+Le 12 ou le 13 novembre 1996 – Le cabinet de Me Lewans a posté une déclaration finale de revenus non signée produite par la succession de M. Gebhart pour l'année d'imposition 1996, dans laquelle figurait un revenu de REÉR de 55 565,26 $ établi d'après les feuillets T4 envoyés par la BCIC (avis d'appel et déclaration finale, pièce A‑1, onglet 10).
+[5] Maître Lewans s'est rendu compte que les feuillets T4 de la BCIC ne correspondaient pas aux renseignements qu'il avait reçus initialement de Mackenzie; il savait également que Mackenzie avait payé les fonds provenant des REÉR de M. Gebhart à la BCIC de Mankota et il a cru qu'il devait y avoir un lien entre les deux étant donné les feuillets T4 pour REÉR de la BCIC. Il en a discuté avec M. Kohl, aujourd'hui décédé, et lui a demandé de rassembler tous les documents qu'il pouvait trouver ou pourrait recevoir et de les lui apporter. Maître Lewans n'a jamais rien reçu qui lui aurait permis d'expliquer la différence. Il n'a jamais reçu non plus de feuillet T4 se rapportant à un REÉR provenant de Mackenzie. Ordinairement, Me Lewans se fie aux feuillets T4 pour les questions fiscales. La Cour estime qu'il s'agit d'une pratique raisonnable.
+[6] Toutefois, le total des actifs de la succession selon la demande d'homologation était exact. L'erreur était attribuable au fait que les dépôts à terme de la BCIC étaient en réalité des REÉR et c'est à ces REÉR que se rapportaient les feuillets T4 produits avec la dernière déclaration de revenus. Par conséquent, le montant total était exact, mais M. Kohl et Me Lewans ont mal compris la nature des dépôts à terme de la BCIC. Maître Lewans s'est fié aux feuillets T4 pour REÉR dont il disposait au moment de préparer la déclaration de revenus finale et l'Agence du revenu du Canada a établi l'impôt à payer par la succession à partir de ceux‑ci également.
+[7] Compte tenu de la preuve décrite jusqu'à maintenant, et sans aucune autre preuve au sujet de ces faits, la Cour croit que Mackenzie a fait la même chose que la BCIC : au moment de payer les REÉR à la BCIC de Mankota, elle a également joint les feuillets T4 pour REÉR. La BCIC les a ensuite remis à l'exécuteur, M. Kohl, à Mankota, qui les a égarés. Ni l'un ni l'autre ne les a remis à Me Lewans.
+[8] L'avocat de l'intimée a fait grandement état des divers numéros de compte de la BCIC se rapportant aux dépôts à terme et de ceux de Mackenzie, mais cela se rapporte à un moment après que M. Kohl et Me Lewans eurent cru que les REÉR de M. Gebhart provenaient d'une même institution, à savoir Mackenzie. Maître Lewans a déclaré fort raisonnablement qu'il s'était fié aux feuillets T4 pour REÉR. (Tout comme l'Agence du revenu du Canada l'a fait pour établir la cotisation à ce moment‑là.)
+[9] Suite de la chronologie :
+Date inconnue – L'Agence du revenu du Canada reçoit des copies des feuillets T4 pour REÉR de la BCIC et de Mackenzie (de cette dernière, sous la dénomination MRS). Le total inclut un montant additionnel de 40 953 $ de Mackenzie. (Voir la pièce R‑3.)
+Avant novembre 1997 – La succession dépose une déclaration de revenus finale modifiée pour réclamer des dons de charité additionnels.
+Le 12 novembre 1997 – L'Agence du revenu du Canada établit un avis de nouvelle cotisation par lequel elle accepte les dons de charité réclamés. Elle omet d'inclure et d'imposer le revenu additionnel de 40 953 $ tiré des REÉR de Mackenzie. (Voir la pièce A‑1, onglet 12.) Les représentants de l'Agence du revenu du Canada attribuent ce défaut au régime d'autodéclaration fondé sur la confiance, à la multitude des documents produits et au fait que cette nouvelle cotisation se rapportait expressément aux déductions réclamées au titre des dons de charité.
+Production par la succession des feuillets T3 annuels – Les neveux de M. Gebhart ont eu à faire cinq versements annuels pour payer le bétail qu'ils lui ont acheté de son vivant; les feuillets T3 de la succession font état des versements annuels qui restaient.
+Vers le 15 mai 2001 – Maître Lewans écrit à l'Agence du revenu du Canada au nom de la succession après la production du dernier feuillet T3 tenant compte des paiements relatifs au bétail pour demander un certificat de décharge.
+Le 28 novembre 2001 – L'Agence du revenu du Canada écrit à la succession de Herman Gebhart pour lui réclamer l'impôt sur le revenu de REÉR non déclaré de 40 953 $ provenant de MRS.
+[10] La preuve démontre que la BCIC a remboursé les fonds de REÉR à sa succursale de Mankota le 23 juillet 1996. Compte tenu de cela, la Cour infère que Mackenzie a remboursé ses REÉR à la même succursale de la BCIC vers la même date, soit bien avant la production de la déclaration finale de la succession le 12 ou le 13 novembre 1996. Par conséquent, compte tenu de la preuve dont elle a été saisie, la Cour infère que l'exécuteur, M. Kohl, a reçu de Mackenzie (ou de MRS) les feuillets T4 au même moment où la succursale de la BCIC de Mankota a reçu le paiement. Il agissait comme exécuteur et savait que, face à la succession, il était tenu de déclarer ces paiements et de produire les feuillets T4 correctement avec la déclaration de revenus finale. L'intimée plaide simplement la négligence dans le présent appel. Le fait d'avoir une obligation et d'y manquer et de causer ainsi préjudice à la succession et au fisc sont les éléments constitutifs de la cotisation établie aux termes du paragraphe 152(4). C'est ce que M. Kohl a fait; même si cela était compréhensible puisque les feuillets T4 avaient été établis à un nouveau nom inconnu – la Compagnie de fiducie MRS. Pourtant, M. Lewans lui avait dit d'apporter tous les documents reçus parce qu'ils s'interrogeaient tous les deux au sujet de l'écart entre les chiffres indiqués dans la lettre de Mackenzie et les montants des feuillets T4.
+[11] Pour ces motifs, c'est à bon droit que le ministre a rouvert la déclaration de revenus de 1996 du défunt, en vertu du paragraphe 152(4) de la Loi de l'impôt sur le revenu, en raison du défaut de la succession de déclarer un revenu de 40 953 $ provenant de la disposition réputée de tous les REÉR du défunt, lequel défaut constituait une présentation erronée des faits, par négligence ou inattention. En conséquence, l'appel est rejeté.
+[12] Par ailleurs, l'Agence du revenu du Canada n'avait pas fait état du revenu de 40 953 $ dans son avis de nouvelle cotisation daté du 12 novembre 1997 (pièce A‑1, onglet 12), au moment où ce problème aurait pu être réglé et où M. Kohl, qui est décédé du cancer en janvier 2005, aurait pu témoigner. Pour ce motif, aucune des parties ne se voit adjuger de dépens.
+Signé à Kelowna (Colombie‑Britannique), ce 31e jour d'octobre 2006.
+« D. W. Beaubier »
+Le juge Beaubier
+Traduction certifiée conforme
+ce 10e jour de mars 2008.
+Yves Bellefeuille, réviseur
+RÉFÉRENCE : 2006CCI572
+NO DE DOSSIER DE LA COUR : 2003-754(IT)G
+INTITULÉ DE LA CAUSE : SUCCESSION D'HERMAN GEBHART
+c. SA MAJESTÉ LA REINE
+LIEU DE L'AUDIENCE : Regina (Saskatchewan)
+DATE DE L'AUDIENCE : Le 16 octobre 2006
+MOTIFS DU JUGEMENT : L'honorable juge D.W. Beaubier
+DATE DU JUGEMENT : Le 31 octobre 2006
+COMPARUTIONS :
+Avocat de l'appelante :
+Me Gregory A. Swanson
+Avocat de l'intimée :
+Me Julien Bedard
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelante :
+Nom : Gregory A. Swanson
+Cabinet : Robertson Stromberg Pedersen LLP
+Pour l'intimée : John H. Sims, c.r.
+Sous‑procureur général du Canada
+Ottawa, Canada

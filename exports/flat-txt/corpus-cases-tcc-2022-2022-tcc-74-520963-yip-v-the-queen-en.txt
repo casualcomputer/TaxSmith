@@ -1,0 +1,126 @@
+Title: Yip v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/520963/index.do
+Corpus path: corpus/cases/tcc/2022/2022-tcc-74-520963-yip-v-the-queen-en.md
+Document type: case_law
+Last modified: 2022-08-26
+
+# Yip v. The Queen
+
+- Citation: 2022 TCC 74
+- Decision date: 2022-08-26
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4489, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Yip v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2022-08-26
+Neutral citation
+2022 TCC 74
+File numbers
+2017-4142(IT)I
+Judges and Taxing Officers
+Sylvain Ouimet
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2017-4142(IT)I
+BETWEEN:
+BRIAN M. YIP,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on May 25, 2022 at Toronto, Ontario
+Before: The Honourable Justice Sylvain Ouimet
+Appearances:
+Agent for the Appellant:
+Fraser Simpson
+Counsel for the Respondent:
+Christopher Ware
+ORDER
+In accordance with the attached Reasons for Order, the Appellant’s motion for an adjournment is granted.
+The hearing is adjourned sine die.
+Costs are awarded to the Respondent on a lump sum basis.
+The Appellant shall pay costs in the amount of $870 to the Respondent within 30 days of the date of this order.
+Signed at Ottawa, Canada, this 26th day of August 2022.
+“Sylvain Ouimet”
+Ouimet J.
+Citation: 2022 TCC 74
+Date: 20220826
+Docket: 2017-4142(IT)I
+BETWEEN:
+BRIAN M. YIP,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Ouimet J.
+I. FACTS
+[1] On October 11, 2017, Brian M. Yip (the “Appellant”) filed a Notice of Appeal with respect to the 2008, 2009, 2010, 2011, 2012, and 2013 taxation years.
+[2] On January 21, 2019, the Appellant’s appeal was supposed to be heard before Justice Russell. At the commencement of the hearing, Fraser Simpson, the agent for the Appellant, brought a motion for the hearing to be adjourned. Mr. Simpson requested an adjournment because he needed additional time to review an affidavit (the “Affidavit”) filed by the Respondent a few days before the hearing.
+[3] Justice Russell granted the Appellant’s motion and the hearing was adjourned.
+[4] The Appellant’s appeal was rescheduled and was to be heard on May 25, 2022. On that date, Mr. Simpson appeared on behalf of the Appellant. Once again, Mr. Simpson requested an adjournment because he had not received any documents from the Respondent, including the Reply to the Notice of Appeal and the Affidavit. More specifically, he stated that because he had not received the Affidavit and because he wanted to cross-examine the affiant, he was not ready to proceed.
+[5] When questioned by this Court, Mr. Simpson maintained again that he had not received any documents from the Respondent, including the Affidavit. [1] Counsel for the Respondent told the Court that both the Reply to the Notice of Appeal and the Affidavit were filed and served on the Appellant prior to the 2019 hearing. I then reviewed the court records and found that, during the 2019 hearing, Mr. Simpson had stated that he had received the Affidavit on January 15, 2019. When questioned on his previous statement, Mr. Simpson claimed that he did not remember receiving any documents from the Respondent, including the Affidavit. [2]
+[6] I granted the Appellant’s motion, with costs. The amount of costs awarded to the Respondent was $1,000.
+II. ANALYSIS
+[7] Section 10 of the Tax Court of Canada Rules (Informal Procedure) [3] (“Rules”) reads as follows:
+10 (1) The Court may determine the amount of the costs of all parties involved in any proceeding, the allocation of those costs and the persons required to pay them.
+(2) The Court may award costs to the respondent, in an amount not exceeding the amounts listed in section 11, only if the actions of the appellant unduly delayed the prompt and effective resolution of the appeal.
+(3) The Court may direct the payment of costs in a fixed sum, in lieu of any taxed costs.
+[8] Pursuant to subsection 10(2) of the Rules, this Court may award costs to the Respondent in an amount not exceeding the amounts listed in section 11 only if the actions of the Appellant unduly delayed the prompt and effective resolution of the appeal. Section 11 of the Rules reads as follows:
+11 On the taxation of party and party costs the following fees may be allowed for the services of counsel
+(a) for the preparation of a notice of appeal or for advice relating to the appeal, $185;
+(b) for preparing for a hearing, $250;
+(c) for the conduct of a hearing, $375 for each half day or part of a half day; and
+(d) for the taxation of costs, $60.
+[9] In this case, I found that Mr. Simpson’s actions have unduly delayed the prompt and effective resolution of the appeal. One could conclude that Mr. Simpson was not ready to proceed and that he was looking for a way not to proceed. [4] In addition to being unprepared to proceed with the hearing, Mr. Simpson made misleading representations about the documents that he had received.
+[10] While I awarded costs in the amount of $1,000 to the Respondent at the conclusion of the hearing, I was not entitled to do so. Pursuant to sections 10 and 11 of the Rules, the maximum amount that can be awarded in the circumstances is $870. Therefore, this is the amount that is awarded to the Respondent.
+III. CONCLUSION
+[11] In accordance with the reasons above, the adjournment is granted sine die.
+[12] The Respondent is awarded costs in the amount of $870.
+[13] The Appellant shall pay the costs awarded to the Respondent within 30 days of the date of this order.
+Signed at Ottawa, Canada, this 26th day of August 2022.
+“Sylvain Ouimet”
+Ouimet J.
+CITATION:
+2022 TCC 74
+COURT FILE NO.:
+2017-4142(IT)I
+STYLE OF CAUSE:
+BRIAN M. YIP v.
+HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+May 25, 2022
+REASONS FOR ORDER BY:
+The Honourable Justice Sylvain Ouimet
+DATE OF ORDER:
+August 26, 2022
+APPEARANCES:
+Agent for the Appellant:
+Fraser Simpson
+Counsel for the Respondent:
+Christopher Ware
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+BLANK
+Firm:
+BLANK
+For the Respondent:
+François Daigle
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Transcript of Proceedings, May 25, 2022, p. 2 at lines 27–28, p. 3 at lines 1–16. See also Transcript of Proceeding, May 25, 2022, p. 6 at lines 24–28 and p. 7 at lines 1–19.
+[2] Transcript of Proceeding, May 25, 2022, p. 10 at lines 9–10, 25 and p. 11 at lines 1, 6–7.
+[3] Tax Court of Canada Rules (Informal Procedure), SOR/90-688b.
+[4] Transcript of Proceeding, May 25, 2022, p. 11 at lines 21–22.

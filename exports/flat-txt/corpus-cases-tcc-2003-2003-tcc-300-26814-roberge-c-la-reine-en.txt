@@ -1,0 +1,166 @@
+Title: Roberge c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26814/index.do
+Corpus path: corpus/cases/tcc/2003/2003-tcc-300-26814-roberge-c-la-reine-en.md
+Document type: case_law
+Last modified: 2003-05-08
+
+# Roberge c. La Reine
+
+- Citation: 2003 TCC 300
+- Decision date: 2003-05-08
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 684, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Roberge c. La Reine
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-05-08
+Neutral citation
+2003 TCC 300
+File numbers
+2001-4597(IT)I
+Judges and Taxing Officers
+François M. Angers
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2001-4597(IT)I
+BETWEEN:
+SERGE ROBERGE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeals by Jean Bédard (2001-4598(IT)I) and Jacques Roberge (2001-4599(IT)I)
+on February 21, 2003 at Québec, Quebec
+Before: The Honourable Judge François Angers
+Appearances:
+For the Appellant:
+The appellant himself
+Counsel for the Respondent:
+Annick Provencher
+____________________________________________________________________
+[OFFICIAL ENGLISH TRANSLATION]
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 1998 taxation year is dismissed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 8th day of May 2003.
+"François Angers"
+J.T.C.C.
+Translation certified true
+on this 21st day of January 2004.
+Carol Edgar, Translator
+Docket: 2001-4598(IT)I
+BETWEEN:
+JEAN BÉDARD,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeals by Serge Roberge (2001-4597(IT)I) and Jacques Roberge (2001-4599(IT)I)
+on February 21, 2003 at Québec, Quebec
+Before: The Honourable Judge François Angers
+Appearances:
+Counsel for the Appellant:
+Serge Roberge
+Counsel for the Respondent:
+Annick Provencher
+____________________________________________________________________
+[OFFICIAL ENGLISH TRANSLATION]
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 1998 taxation year is dismissed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 8th day of May 2003.
+"François Angers"
+J.T.C.C.
+Translation certified true
+on this 21st day of January 2004.
+Carol Edgar, Translator
+Docket: 2001-4599(IT)I
+BETWEEN:
+JACQUES ROBERGE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeals by Serge Roberge (2001-4597(IT)I) and Jean Bédard (2001-4598(IT)I)
+on February 21, 2003 at Québec, Quebec
+Before: The Honourable Judge François Angers
+Appearances:
+Counsel for the Appellant:
+Serge Roberge
+Counsel for the Respondent:
+Annick Provencher
+____________________________________________________________________
+[OFFICIAL ENGLISH TRANSLATION]
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 1998 taxation year is dismissed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 8th day of May 2003.
+"François Angers"
+J.T.C.C.
+Translation certified true
+on this 21st day of January 2004.
+Carol Edgar, Translator
+Citation: 2003TCC300
+Date: 20030508
+Dockets: 2001-4597(IT)I
+2001-4598(IT)I
+2001-4599(IT)I
+BETWEEN:
+SERGE ROBERGE,
+JEAN BÉDARD,
+JACQUES ROBERGE,
+Appellants,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Angers, J.T.C.C.
+[1] Before the Court are three appeals for the 1998 taxation year, one for each of the appellants. These appeals were heard on common evidence; the issue is the same, that is, whether the Minister of National Revenue ("the Minister") was justified in disallowing the amounts claimed by the appellants, of $6,967 in the case of the appeals by Serge and Jacques Roberge and $6,615 in the case of the appeal by Jean Bédard, as net rental losses for the taxation year at issue.
+[2] This whole matter began in 1988. The appellant Mr. Bédard and his spouse were the owners of a building located at 271, rue des Érables, Grand-Mère, Quebec, where they lived with their two children. At the end of 1988, the appellant Mr. Bédard left Grand-Mère to go and take a job in Fermont, Quebec. He therefore made the decision, with his spouse, to rent his building to his mother-in-law, Rita Côté-Roberge. Ms Côté-Roberge therefore occupied the building concerned as a tenant in 1989 and part of 1990 at the monthly rent of $325. The tenant was responsible for the heating and the electricity.
+[3] At the end of 1990, this appellant accepted a new job in Maniwaki and saw no point in keeping his house. He therefore discussed this situation with his two brothers-in-law, that is, the two other appellants, and, by common agreement, on December 9, 1990 they became tenants in common, each owning one-third of the building concerned. The third of the appellant Mr. Bédard was held in equal shares with his spouse. It should be noted that the transfer deed specifies that this sale was made in order to allow the members of the Roberge family to find appropriate accommodation for their mother. The building was purchased for $60,000. The appellants Serge and Jacques Roberge each paid $20,000. They paid the amount of $1,435.49 cash and obtained the amount of $38,564.51 by means of a mortgage.
+[4] After this transaction, the rent was $330 per month, not including the electricity and the heating. The appellants all lived outside Grand-Mère. Thus their mother (mother-in-law) was required to assume responsibility for the maintenance and the repairs and to look after the management of the entire building. The appellant Mr. Bédard described their partnership as a plan to open a residence. The building had some potential and the presence of their mother would certainly attract other tenants.
+[5] The accommodation Ms Côté-Roberge occupied before moving into the building concerned had four and one-half rooms. The building concerned had four bedrooms, one of which was in the basement, a living room, a kitchen, a garage, a patio and a large hall, all on a large lot.
+[6] Mr. Bédard testified that they did not do any advertising in order to encourage other persons to move into the building concerned. They preferred that the message be conveyed by word of mouth. Ms Côté-Roberge therefore remained alone in this building as a tenant until her death on September 11, 1997.
+[7] The appellant Jacques Roberge testified that he and his spouse returned from Africa in 1990. At that time, they were considering opening a seniors′ residence. However, it was only in 1991 that he and his spouse purchased a building in Shawinigan, near Grand-Mère. On May 27, 1991, they received the necessary certification for designation as a residence and thus were able to accept up to nine residents in their building. That said, this certification was never granted for the building where his mother was living.
+[8] The expectations of the appellant Jacques Roberge and his spouse for the residence never materialized, and the following year they sold the building in Shawinigan. Regarding the building concerned, the appellant Jacques Roberge confirmed that his mother always lived there alone. He emphasized that his mother made certain contacts to find persons who would come and live with her, but the whole thing never materialized. Their mother did not do any advertising. The appellant Jacques Roberge returned to Africa in 1994 for approximately two years. He has been retired since 1998.
+[9] The appellant Serge Roberge is a lawyer by profession. However, he has occupied various administrative positions and, according to his testimony, was very busy and was unable to look after the building concerned as he would have wished. He saw his participation in the purchase of the building concerned as an investment. He believed that his brother Jacques' plan to open a residence offered the possibility that the surplus from the residents would be returned to the building concerned and thus ensure that it was profitable. He, too, acknowledged that only their mother lived there until her death.
+[10] The appellant Serge Roberge testified that they maintained the building concerned. In order to establish that claim, he adduced a statement of all the expenses for each of the years during which they were owners. After their mother's death in September 1997, the building concerned was put up for sale through a real estate agent. The house was sold for $42,000 in late April 1998 on the recommendations of the real estate agent.
+[11] Ms Côté-Roberge's rent remained the same throughout the period of occupancy. The operating expenses were greater than the income. In addition, the appellants Serge and Jacques Roberge were required to pay the interest on the mortgage taken out when the building concerned was purchased. Overall, the rental never generated profits during its existence.
+[12] The issues are to determine whether there was a reasonable expectation of profit from the rental for the 1998 taxation year for the three appellants and whether the Minister was justified in disallowing the net loss claimed by each of the appellants for the taxation year at issue.
+[13] Recently, in Stewart v. Canada, [2002] S.C.J. No. 46, the Supreme Court of Canada considered the test of the reasonable expectation of profit; we need only reproduce here the Court's summary, found at paragraphs 60 and 61:
+60. In summary, the issue of whether or not a taxpayer has a source of income is to be determined by looking at the commerciality of the activity in question. Where the activity contains no personal element and is clearly commercial, no further inquiry is necessary. Where the activity could be classified as a personal pursuit, then it must be determined whether or not the activity is being carried on in a sufficiently commercial manner to constitute a source of income. However, to deny the deduction of losses on the simple ground that the losses signify that no business (or property) source exists is contrary to the words and scheme of the Act. Whether or not a business exists is a separate question from the deductibility of expenses. As suggested by the appellant, to disallow deductions based on a reasonable expectation of profit analysis would amount to a case law stop-loss rule which would be contrary to established principles of interpretation, mentioned above, which are applicable to the Act. As well, unlike many statutory stop-loss rules, once deductions are disallowed under the REOP test, the taxpayer cannot carry forward such losses to apply to future income in the event the activity becomes profitable. As stated by Bowman J.T.C.C. in Bélec, supra, at p. 123: "It would be ... unacceptable to permit the Minister [to say] to the taxpayer 'The fact that you lost money ... proves that you did not have a reasonable expectation of profit, but as soon as you earn some money, it proves that you now have such an expectation.'"
+B. Application of the Source Test to the Case at Bar
+61. As stated above, whether or not a taxpayer has a source of income from a particular activity is determined by considering whether the taxpayer intends to carry on the activity for profit, and whether there is evidence to support that intention. As well, where an activity is clearly commercial and lacks any personal element, there is no need to search further. Such activities are sources of income.
+[14] In this case, we must ask ourselves whether the appellants' activities contain a personal element; if so, then we must determine whether this activity is carried on in a sufficiently commercial manner to constitute a source of income. Counsel for the respondent has argued that what is involved in this case is a personal activity for the three appellants. She has argued that the building concerned was purchased with the express intention of finding appropriate accommodation for their mother, as specified in the notarized December 9, 1990 transfer deed. Although the cost of this accommodation was similar to the cost of the accommodation their mother occupied before moving, counsel for the respondent has argued that this accommodation was more spacious. Their intention of converting the building into a residence never materialized and there is no possible link to the business the appellant Jacques Bédard operated in Shawinigan, Quebec. Applying the tests for determining whether the activity concerned is commercial or personal in nature, counsel for the respondent has argued that the losses were ongoing, that the three appellants had no training to operate a seniors′ residence as a business, that they never really actively carried on such activities and that, as a result, they never made any profits. Therefore, according to counsel for the respondent, what is involved are personal expenses as defined in the Income Tax Act ("the Act"), a definition that is applicable to the expenses in this case.
+[15] On the other hand, the appellants have argued that they took action that indicated their intention of making profits. The rent corresponded to the norm in the Grand-Mère region and the sale price of the building was comparable to that of other buildings sold nearby. While acknowledging their lack of experience, they have argued that, in accordance with Stewart, supra, the Court must look at all the evidence and that this exercise can only allow this Court to find that what is involved here is an activity in which the three appellants have demonstrated their intention of making a profit.
+[16] The definition of the terms "personal and living expenses" found in subsection 248(1) of the Act includes, in particular, "the expenses of properties maintained by any person for the use or benefit of the taxpayer or any person connected with the taxpayer by blood relationship, marriage or common-law partnership or adoption, and not maintained in connection with a business carried on for profit or with a reasonable expectation of profit". In this case, the fact that the appellants purchased the building concerned in order to provide appropriate housing for their mother indicates from the outset that there was a personal element in their decision to set up a business that could make a profit and become a source of income. This activity, in my opinion, is a personal activity. I must therefore determine whether or not this activity was carried on in a sufficiently commercial manner to constitute a source of income. In Stewart, supra, the Supreme Court of Canada set out certain tests for determining whether a source of income exists. I reproduce here paragraphs 50, 51, 52, 53, 54 and 55:
+50. It is clear that in order to apply s. 9, the taxpayer must first determine whether he or she has a source of either business or property income. As has been pointed out, a commercial activity which falls short of being a business, may nevertheless be a source of property income. As well, it is clear that some taxpayer endeavours are neither business, nor sources of property income, but are mere personal activities. As such, the following two-stage approach with respect to the source question can be employed:
+(i)
+Is the activity of the taxpayer undertaken in pursuit of profit, or is it a personal endeavour?
+(ii)
+If it is not a personal endeavour, is the source of the income a business or property?
+The first stage of the test assesses the general question of whether or not a source of income exists; the second stage categorizes the source as either business or property.
+51. Equating "source of income" with an activity undertaken "in pursuit of profit" accords with the traditional common law definition of "business", i.e., "anything which occupies the time and attention and labour of a man for the purpose of profit": Smith, supra, at p. 258; Terminal Dock, supra. As well, business income is generally distinguished from property income on the basis that a business requires an additional level of taxpayer activity: see Krishna, supra, at p. 240. As such, it is logical to conclude that an activity undertaken in pursuit of profit, regardless of the level of taxpayer activity, will be either a business or property source of income.
+52. The purpose of this first stage of the test is simply to distinguish between commercial and personal activities, and, as discussed above, it has been pointed out that this may well have been the original intention of Dickson J.'s reference to "reasonable expectation of profit" in Moldowan. Viewed in this light, the criteria listed by Dickson J. are an attempt to provide an objective list of factors for determining whether the activity in question is of a commercial or personal nature. These factors are what Bowman J.T.C.C. has referred to as "indicia of commerciality" or "badges of trade": Nichol, supra, at p. 1218. Thus, where the nature of a taxpayer's venture contains elements which suggest that it could be considered a hobby or other personal pursuit, but the venture is undertaken in a sufficiently commercial manner, the venture will be considered a source of income for the purposes of the Act.
+53. We emphasize that this "pursuit of profit" source test will only require analysis in situations where there is some personal or hobby element to the activity in question. With respect, in our view, courts have erred in the past in applying the REOP test to activities such as law practices and restaurants where there exists no such personal element: see, for example, Landry, supra; Sirois, supra; Engler v. The Queen, 94 D.T.C. 6280 (F.C.T.D.). Where the nature of an activity is clearly commercial, there is no need to analyze the taxpayer's business decisions. Such endeavours necessarily involve the pursuit of profit. As such, a source of income by definition exists, and there is no need to take the inquiry any further.
+54. It should also be noted that the source of income assessment is not a purely subjective inquiry. Although in order for an activity to be classified as commercial in nature, the taxpayer must have the subjective intention to profit, in addition, as stated in Moldowan, this determination should be made by looking at a variety of objective factors. Thus, in expanded form, the first stage of the above test can be restated as follows: "Does the taxpayer intend to carry on an activity for profit and is there evidence to support that intention?" This requires the taxpayer to establish that his or her predominant intention is to make a profit from the activity and that the activity has been carried out in accordance with objective standards of businesslike behaviour.
+55. The objective factors listed by Dickson J. in Moldowan, at p. 486, were: (1) the profit and loss experience in past years; (2) the taxpayer's training; (3) the taxpayer's intended course of action; and (4) the capability of the venture to show a profit. As we conclude below, it is not necessary for the purposes of this appeal to expand on this list of factors. As such, we decline to do so; however, we would reiterate Dickson J.'s caution that this list is not intended to be exhaustive, and that the factors will differ with the nature and extent of the undertaking. We would also emphasize that although the reasonable expectation of profit is a factor to be considered at this stage, it is not the only factor, nor is it conclusive. The overall assessment to be made is whether or not the taxpayer is carrying on the activity in a commercial manner. However, this assessment should not be used to second-guess the business judgment of the taxpayer. It is the commercial nature of the taxpayer's activity which must be evaluated, not his or her business acumen.
+[17] In this case, at first glance the appellants′ activity contains all the elements required to constitute a source of property income. For the appellant Mr. Bédard, this activity began in 1988 when a job change led him to move with his family to Fermont, Quebec. Not knowing exactly how long they would stay in Fermont, he rented his house (the building concerned) to his mother-in-law for rent of $325 per month. He then accepted a new job and, at that time, saw no further point in keeping his house. It was at that particular time that the two other appellants each decided to purchase a share in the building. In my opinion, and as is specified in the deed of sale, this action was taken with the main purpose of allowing Ms Côté-Roberge to remain in the building concerned. The intention of converting the building into a residence may have surfaced at the time, but only one of the appellants demonstrated an interest in this type of activity, it was only approximately one year later that he purchased a building certified for that purpose, and it was only for a very short time. The idea of recruiting residents who could live in the house of the appellant Jacques Roberge never materialized. The three appellants also left to their mother (mother-in-law) the responsibility of finding other tenants; according to the appellants, only one other tenant would have sufficed to make the plan profitable. However, no other tenant occupied the building with Ms Côté-Roberge. This inaction by the appellants raises doubt about the test of businesslike behaviour.
+[18] This same doubt is raised when we see that there was no increase in the rent during the years of occupancy, that is, starting in 1990, or any apparent efforts to rent the building from September 1997 until the date it was sold. None of the appellants had special knowledge of operating a residence except for Jacques Roberge and, in this case, it was his spouse who looked after their plan full-time since this appellant worked for Canadian National.
+[19] It is clear to me that the plan could have made profits. However, the presence of the appellants′ mother (mother-in-law) as a tenant in the building concerned was certainly a more important factor than carrying on such an activity in a commercial manner.
+[20] For these reasons, I confirm the assessments made by the Minister. The appeals are dismissed.
+Signed at Ottawa, Canada, this 8th day of May 2003.
+"François Angers"
+J.T.C.C.
+Translation certified true
+on this 21st day of January 2004.
+Carol Edgar, Translator

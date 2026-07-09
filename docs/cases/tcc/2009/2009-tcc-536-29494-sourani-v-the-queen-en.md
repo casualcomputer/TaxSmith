@@ -1,0 +1,168 @@
+---
+title: "Sourani v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29494/index.do"
+last_modified: "2009-10-22"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 TCC 536"
+citation2: ""
+neutral_citation: "2009 TCC 536"
+decision_date: "2009-10-22"
+language: "en"
+item_id: "29494"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6284
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T00:49:39.918000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "c77073323f4c3bed787cab33495e13b1a8bd98da741113c9074de5381066f322"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Sourani v. The Queen
+
+- Citation: 2009 TCC 536
+- Decision date: 2009-10-22
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6284, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Sourani v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2009-10-22
+Neutral citation
+2009 TCC 536
+File numbers
+97-1896(IT)G
+Judges and Taxing Officers
+Valerie A. Miller
+Subjects
+Income Tax Act
+Decision Content
+Docket: 97-1896(IT)G
+98-1350(IT)G
+BETWEEN:
+RON S. SOURANI,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Motion heard on October 15, 2009 at Toronto, Ontario
+Before: The Honourable Justice Valerie Miller
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Paolo Torchetti
+____________________________________________________________________
+ORDER
+Upon two motions brought by the Appellant being heard on October 15, 2009;
+Upon reading the materials filed, and hearing the Appellant and counsel for the Respondent;
+These motions are dismissed with costs in the amount of $1,400 payable forthwith to the Respondent.
+Signed at Ottawa, Canada, this 22nd day of October 2009.
+“V.A. Miller”
+V.A. Miller, J.
+Citation: 2009TCC536
+Date: 20091022
+Docket: 97-1896(IT)G
+98-1350(IT)G
+BETWEEN:
+RON S. SOURANI,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+V.A. Miller, J.
+[1] The Appellant has brought two motions; one was filed on September 11, 2009 and the other was filed on September 16, 2009. Schedule A, attached to these reasons contains the relief sought by the Appellant.
+[2] The Appellant filed his notices of appeal more than ten years ago for the 1984, 1985, 1986, 1987, 1988, 1989, 1990, 1991 and 1992 taxation years. His appeals were part of a group of appeals which were involved in a convertible hedge strategy.
+Motion filed on September 11
+Accounts at BMO/Nesbitt – items 1, 2 and 4, page 1 of Schedule A
+[3] The relief sought cannot be given on a motion. These are issues that require evidence to be adduced which can be done at the hearing of these appeals.
+Investigations by the Court – items 3 and 5, page 1 of Schedule A
+[4] This court is not an investigative body. It does not have the jurisdiction to independently procure evidence to be used in a trial. Nor does this court have the jurisdiction to provide guidelines as to how a matter should be settled.
+[5] The Tax Court of Canada has jurisdiction to hear appeals on matters arising under the Income Tax Act (the “Act”). Within this jurisdiction, in an appeal under the Act this Court may dispose of an appeal by dismissing it; or allowing it and (i) vacating the assessment, (ii) varying the assessment, or (iii) referring the assessment back to the Minister for reconsideration and reassessment.
+Adjournment – item 6, page 1 and item 17, page 2 of Schedule A
+[6] These appeals are scheduled for hearing on November 16, 2009 and the request for an adjournment is denied.
+Motion filed on September 16
+Mandamus – items 1, 2, 3, 5, 6, 7, 10, 11, 12, 18 and 19, page 2 of Schedule A
+[7] The relief sought by the Appellant is an order in the nature of mandamus. This is a remedy that this court does not have the jurisdiction to grant[1].
+Factual Matters – items 4, 8, 9, 13, 14, 15 and 16, page 2 of Schedule A
+[8] The relief sought by the Appellant involves findings of fact which require evidence. These are matters that are more appropriately dealt with by the trial judge.
+[9] These motions are dismissed with costs in the amount of $1,400 payable forthwith to the Respondent.
+Signed at Ottawa, Canada, this 22nd day of October 2009.
+“V.A. Miller”
+V.A. Miller, J.
+Schedule A
+Motion filed September 11, 2009
+THIS MOTION IS FOR:
+1.For this Court to note that the account at BMO/Nesbitt with Peter McCrodan from 1984 to 1988 did not operate in the same manner as the same sort of accounts operated by other brokers at BMO/Nesbitt or other brokers at other brokerage/banks that this appellant used during the same years.
+2.For this Court to realize that the trades at BMO/Nesbitt for 1984 to 1988 were carried in several different ways which would have impact on the way the calculation of each trade should be done.
+3.For this court to obtain a copy of the Ontario Securities Commission detailed outline of the way each trade was carried out in each account at BMO/Nesbitt by Peter McCrodan during the period of 1984 to 1988. The Ontario Securities Commission (OSC) also has a copy of the log book of the trades done by Mr. Peter McCrodan for each account for the years 1984 to 1988 at BMO/Nesbitt. The Tax Court can easily obtain copies of the above by providing a written request to the Ontario Securities Commission. The OSC will not provide the appellant or any other individual with a copy.
+4.For this Court to review the different method in which the trades were carried out and to guide everyone as to the way the calculations should be carried out.
+5.For this Honourable Court to also provide written guidelines as to how the calculations for each trade should be carried out in the appellant account.
+6.To delay the hearing of November 16, 2009 in the Court until the above is fully documented and done and the parties have had a chance to recalculate the 1984 to 1988 trades at BMO/Nesbitt and if appealed until after the hearing and decision by the Federal Court of Appeal.
+Motion filed September 16, 2009
+THE MOTION IS FOR:
+1.CRA/DOJ to explain why the banks were kept away from the Tax Court.
+2.CRA/DOJ to explain whose agreements, new client agreement and guarantee agreement did the appellant sign.
+3.CRA/DOJ to explain who provided the explanation and implication and guidance in the above agreements to the appellant.
+4.For this Honourable Court to realize that based on the explanations provided by the banks as to the implication of the guarantee agreements, this appellant proceeded to do those trades.
+5.For CRA/DOJ to explain why none of the individuals from the banks that provided the explanations as to their agreements and their implications was invited to the Tax Court to explain.
+6.CRA/DOJ to explain why banks clients who signed the same agreements and did similar trades prior to 1984 or during 1984 and till today are not bound by the so called “Schultz Decision” or “Rezek Decision”.
+7.CRA/DOJ to explain why “group” members who were clients of the banks and who did the same type of trades and who filed their own Tax returns in the same manner as the appellant during the same period were not bound by the “Schultz Decision” but rather were treated as the other bank clients.
+8.For this Court to Clarify as to when the imply decision of the guarantee agreements was really started, is it sill going on and will it ever stop? Did it apply to exact type of trades and agreements before 1984, or was it just conceived in 1993 with the “Schultz Decision”?
+9.Does the imply apply equally to all Canadians irrespective of their province of residence as long as they are involved in the same trades and sign the same agreements and if not then why not?
+10. CRA/DOJ to explain why only Peter McCrodan was subpoenaed.
+11. CRA/DOJ to disclose why Mr. Peter McCrodan background was not disclosed to the Tax Court.
+12. For CRA/DOJ to clarify who did Peter McCrodan represent in the Tax Court? What was his function in the hearings in the Tax Court?
+13. Why weren’t the banks arguing the cases on behalf of their clients?
+14. Was CRA/DOJ involved in the cover up of the banks involved?
+15. For this Honourable Court to review all the facts and evidence that are available and see that this appellant is not treated any differently from other clients of the bank who signed the same agreements and followed the bank guidance.
+16. For the Tax Court to take the time to review all the details presented and to examine what went wrong with this case.
+17. To delay the Tax Court hearing scheduled for November 16, 2009 until a full review of the facts and decision by this honourable Court in this motion and if appealed until the hearing and decision by the Federal Court of Appeal.
+18. This appellant requests a written explanation by CRA/DOJ or even the Tax Court as to why the banks were kept out of the Tax Court even though the agreements that this appellant signed were drafted by them and the explanations and the implications of the guarantee agreements were also provided by them
+19. This appellant is requesting written answers by CRA/DOJ or the Tax Court for all the points in this section – “The motion is for”.
+CITATION: 2009TCC536
+COURT FILE NO.: 97-1896(IT)G
+98-1350(I)G
+STYLE OF CAUSE: RON S. SOURANI
+AND THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: October 15, 2009
+REASONS FOR ORDER BY: The Honourable Justice Valerie Miller
+DATE OF ORDER: October 22, 2009
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Paolo Torchetti
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Sourani v. Queen, 2009 TCC 210

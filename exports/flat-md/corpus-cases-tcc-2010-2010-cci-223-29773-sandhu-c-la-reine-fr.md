@@ -1,0 +1,106 @@
+---
+title: "Sandhu c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29773/index.do"
+last_modified: "2010-04-07"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 CCI 223"
+citation2: ""
+neutral_citation: "2010 CCI 223"
+decision_date: "2010-04-07"
+language: "fr"
+item_id: "29773"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6519
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T13:07:46.182000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "cf3f051e13c3a6ec397b3228a1e84966e0fe9c3d9e7f5266b2450e89eb887b7c"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Sandhu c. La Reine
+
+- Citation: 2010 CCI 223
+- Decision date: 2010-04-07
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6519, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Sandhu c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2010-04-07
+Référence neutre
+2010 CCI 223
+Numéro de dossier
+2009-3258(IT)I
+Juges et Officiers taxateurs
+Steven K. D'Arcy
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Référence : 2010 CCI 223
+Date : 20100428
+Dossier : 2009-3258(IT)I
+ENTRE :
+GARRY SANDHU,
+appelant,
+et
+SA MAJESTÉ LA REINE
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Représentant de l’appelant :
+M. Gurjant Sandhu
+Avocate de l’intimée :
+Me Nalini Persaud
+____________________________________________________________________
+MOTIFS DU JUGEMENT RENDUS ORALEMENT
+(Rendus oralement à l’audience le 7 avril 2010 à Winnipeg (Manitoba), et modifiés par souci de clarté et d’exactitude)
+[1] En l’espèce, la Cour est appelée à se prononcer sur la question de savoir si l’appelant avait droit à un crédit au titre de l’article 118.62 de la Loi de l’impôt sur le revenu (la « Loi ») dans le calcul de ses crédits d’impôt non remboursables pour l’année d’imposition 2007.
+[2] L’appelant n’était pas présent à l’audience. Il était représenté par son père, qui a témoigné.
+[3] M. Sandhu a tenu à préciser que l’appelant participait actuellement à un programme de résidence relativement à ses études médicales et qu’il ne pouvait pas se présenter à l’audience. Toutefois, M. Sandhu a précisé que c’était lui qui avait négocié, auprès de la Banque Royale, le prêt dont il est question.
+[4] En 2002, alors qu’il poursuivait ses études à l’université, l’appelant a obtenu un prêt de la Banque Royale. Il semble que le prêt ait pu atteindre 45 000 $, un montant qui avait été augmenté à 99 000 $ au cours des années ultérieures.
+[5] Lors de la production de sa déclaration de revenus, l’appelant a demandé un crédit au titre de l’article 118.62 de la Loi relativement aux intérêts payés sur le prêt obtenu de la Banque Royale. Dans la cotisation établie concernant la déclaration de revenus de l’appelant pour 2007, le ministre a refusé d’accorder le crédit demandé au titre de l’article 118.62 de la Loi.
+[6] On n’a fourni à la Cour aucune documentation pour prouver l’existence du prêt de la Banque Royale. M. Sandhu a souligné que, lorsque l’appelant avait besoin d’argent, le directeur à la Banque Royale retirait des fonds du compte de prêt étudiant et les versait au compte de l’appelant.
+[7] M. Sandhu a fourni à la Cour une lettre provenant d’un certain M. Jack Musgrove, adressée à [traduction] « qui de droit », datée du 1er avril 2010, dont voici la teneur :
+[traduction]
+En raison de mon horaire chargé, je ne pourrai pas me présenter personnellement le 7 avril 2010. Le prêt étudiant accordé à Gurdarshan Sandhu a été consenti en vertu du Programme canadien de prêt aux étudiants.
+Veuillez communiquer directement avec l’auteur de la présente au [un numéro de téléphone] au cas où vous auriez d’autres questions.
+[8] Malheureusement, pour un certain nombre de raisons, je ne peux accorder aucun poids à la lettre susmentionnée.
+[9] M. Musgrove ne s’est pas présenté à l’audience et, par conséquent, la lettre constitue du ouï‑dire.
+[10] En outre, la lettre est rédigée en des termes extrêmement généraux en ce sens qu’elle ne fournit aucune précision concernant le prêt mentionné. La Cour n’a aucun moyen de savoir si le prêt évoqué dans la lettre est le même prêt que celui dont il est question devant la Cour.
+[11] De plus, je suis préoccupé par le fait que l’auteur de la lettre confond peut‑être un prêt étudiant consenti en vertu de la Loi fédérale sur les prêts aux étudiants avec un prêt étudiant accordé par la Banque Royale en vertu d’un programme de prêts interne pour des étudiants inscrits dans des programmes d’études supérieures menant à une profession libérale, comme les écoles de médecine.
+[12] Selon l’article 118.62 de la Loi, un contribuable peut demander un crédit égal au montant obtenu par la multiplication du taux de base pour l’année prévu par la loi et de certains intérêts admissibles. L’intérêt n’est admissible que s’il est payé au cours de l’année sur un prêt consenti au particulier, ou tout autre montant dont il est débiteur, en vertu de la Loi fédérale sur les prêts aux étudiants, de la Loi fédérale sur l’aide financière aux étudiants ou d’une loi provinciale régissant l’octroi d’aide financière aux étudiants de niveau postsecondaire.
+[13] Comme la Cour l’a souligné dans la décision Wilkins c. La Reine, 2009 CCI 61, au paragraphe 6 :
+Cependant, l’article 118.62 de la LIR ne comporte pas seulement un critère fondé sur l’objet, car il ne prévoit pas qu’un particulier ait droit à un crédit d’impôt en fonction seulement de l’objet du prêt, sans tenir compte de la façon dont le prêt a été obtenu. Le crédit d’impôt peut seulement être accordé à l’appelant si le prêt en cause a été consenti en vertu d’une des lois énumérées à l’article 118.62 de la LIR, ou si la somme est due en vertu d’une de ces lois. […]
+[14] Aux alinéas 8c) et d) de la réponse à l’avis d’appel, le ministre a formulé des hypothèses selon lesquelles le prêt de la Banque Royale n’avait pas été consenti à l’appelant en vertu de la Loi fédérale sur les prêts aux étudiants, de la Loi fédérale sur l’aide financière aux étudiants ou d’une loi provinciale régissant l’octroi d’aide financière aux étudiants de niveau postsecondaire.
+[15] L’appelant n’a fourni à la Cour aucun élément de preuve pour réfuter les hypothèses susmentionnées. Peut‑être que l’appelant aurait pu réfuter les hypothèses s’il avait produit les documents concernant le prêt ou s’il avait choisi de témoigner. Cela n’a pas été le cas.
+[16] En conséquence, je n’ai d’autre choix que d’accepter les hypothèses formulées par le ministre, hypothèses selon lesquelles le prêt n’a pas été consenti en vertu d’une des lois énumérées à l’article 118.62 de la Loi.
+[17] L’appel est par conséquent rejeté sans dépens.
+Signé à Ottawa, Canada, ce 28e jour d’avril 2010.
+« S. D’Arcy »
+Juge D’Arcy
+Traduction certifiée conforme
+ce 28e jour de janvier 2014.
+Espérance Mabushi, M.A. Trad. Jur.

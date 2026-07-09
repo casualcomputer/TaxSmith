@@ -1,0 +1,144 @@
+Title: Wiens v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/25921/index.do
+Corpus path: corpus/cases/tcc/2003/2003-tcc-491-25921-wiens-v-the-queen-en.md
+Document type: case_law
+Last modified: 2003-07-14
+
+# Wiens v. The Queen
+
+- Citation: 2003 TCC 491
+- Decision date: 2003-07-14
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3687, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Wiens v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-07-14
+Neutral citation
+2003 TCC 491
+File numbers
+2000-4178(GST)I
+Judges and Taxing Officers
+Donald G.H. Bowman
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2000-4178(GST)I
+BETWEEN:
+RUTH WIENS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard together with the appeal of Robert Wiens (2000-4181(GST)I)
+on July 9, 2003 at Winnipeg, Manitoba
+Before: The Honourable Associate Chief Justice D.G.H. Bowman
+Appearances:
+Agent for the Appellant:
+Robert Wiens
+Counsel for the Respondent:
+Tracey Telford
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment made under the Excise Tax Act, notice of which is dated August 12, 1999 and bears Third Party control number 55313, is allowed and the reassessment is referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the Reasons for Judgment.
+Signed at Ottawa, Canada this 14th day of July, 2003.
+"D.G.H. Bowman"
+Bowman, A.C.J.
+Docket: 2000-4181(GST)I
+BETWEEN:
+ROBERT WIENS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard together with the appeal of Ruth Wiens (2000-4178(GST)I)
+on July 9, 2003 at Winnipeg, Manitoba
+Before: The Honourable Associate Chief Justice D.G.H. Bowman
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Tracey Telford
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment made under the Excise Tax Act, notice of which is dated August 12, 1999 and bears number Third Party control number 55311, is allowed and the reassessment is referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the Reasons for Judgment.
+Signed at Ottawa, Canada this 14th day of July, 2003.
+"D.G.H. Bowman"
+Bowman, A.C.J.
+Citation:2003TCC491
+Date: 20030714
+Docket: 2000-4178(GST)I
+BETWEEN:
+RUTH WIENS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Docket: 2000-4181(GST)I
+AND BETWEEN:
+ROBERT WIENS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Bowman, A.C.J.
+[1] These appeals were heard together. They are from assessments made under section 323 of the Excise Tax Act ("ETA") of the Goods and Services Tax ("GST") for periods, in the case of Mrs. Wiens, from 1993 to the end of 1997, and in the case of Mr. Wiens for the two periods ending September 30, 1997 and December 31, 1997.
+[2] The assessments against Mrs. Wiens as a director are on the basis that she was a director in those periods and that she did not exercise the due diligence required to prevent the failure of a corporation of which she was the director, Universal Gems Inc. to remit the GST owing. The assessment against Mrs. Wiens is in the amount of $21,598.43. Of this amount the tax component is $10,355.81 and the balance is for interest and penalties assessed against the company.
+[3] The assessment against Mr. Wiens is in the amount of $4,114.15 and is based on the assumption that he was a director only for the periods after May 6, 1996.
+[4] Several issues arise. The first is whether Mrs. Wiens was a director after 1995.
+[5] The second issue raised by Mr. Wiens, who represented himself and his former wife, Ruth Wiens, is whether the underlying assessment against the corporation is correct. It is of course open to a taxpayer who has been assessed derivatively under section 323 of the ETA to challenge the underlying assessment against the corporation even if the corporation has failed to do so. (Gaucher v. The Queen, 2000 DTC 6678).
+[6] The third issue is whether a settlement of the liability of the appellant and his wife under the ETA had been reached with the Canada Customs and Revenue Agency ("CCRA"). The appellant contends that there was. This is denied by the respondent.
+[7] Finally, the appellant contends that he and his wife exercised the due diligence contemplated by subsection 323(3) of the ETA and that they are therefore absolved from liability under subsection 323(1).
+[8] With respect to the first issue, whether Mrs. Wiens was a director after 1995, I find that she was. She stated that she transferred her shares to her husband in 1995 but Mr. Wiens stated that she got them back. Whether this is true or not there is no evidence that she ever submitted a resignation as director and the records of the Manitoba Companies Branch indicate that she was a director in 2002.
+[9] With respect to the second issue, whether the underlying assessment against the corporation is wrong, I think it may well be incorrect in some respects but the evidence simply does not establish this. Mr. Wiens testified that he and his wife (who kept the books) believed they were doing everything right and that in fact they retained a former Revenue Canada auditor Mr. Ron McLaren to assist them. The extent of Mr. McLaren's involvement was not made clear and although he came to court in the morning he disappeared at lunch and Mr. Wiens chose not to have him testify as originally planned because of Mr. McLaren's medical condition. I mention this because I do not propose to draw an adverse inference from his failure to testify but I do observe that his testimony on this issue as well as the issue of due diligence might have been helpful. As it is I am left with the unrebutted assumption concerning the quantum of tax assessed. Mr. Wiens' bald assertion that he and his wife thought they were doing everything right does nothing to meet the onus of proof that a taxpayer has to establish that an assessment is wrong.
+[10] In support of his assertion that the assessments against the corporation are in error Mr. Wiens points to the fact that on two occasions larger assessments were issued and on objection were reduced. He also testified that the CCRA originally proposed assessments against him and his wife on income received for the corporation in amounts totalling several hundreds of thousands of dollars but that his accountant Mr. Day succeeded in having the proposed assessments reduced substantially or eliminated. The inference that Mr. Wiens asks me to draw from this is that if the CCRA could be so wrong in other matters there is a prima facie case that they were wrong in the final assessment against the corporation. With respect, this is a non sequitur. It does not follow from the fact that the CCRA was prepared to reduce GST assessments or proposed income tax assessments that the final GST assessment against the corporation is necessarily wrong.
+[11] The third point made by Mr. Wiens is that the directors' liability of him and his wife under the ETA had been settled. There is an ongoing debate whether settlements made with the tax authorities are binding. In Cohen v. The Queen, 80 DTC 6250 Pratte, J. of the Federal Court of Appeal stated that the Minister of National Revenue was free to repudiate settlements that he entered into with taxpayers. I followed this decision with considerable misgivings in Consoltex Inc. v. The Queen, 97 DTC 724. In The Queen v. Enterac Property Corporation, 98 DTC 6202 MacDonald, J.A. suggested that the jurisprudence in the Cohen case might usefully be revisited. Here however I do not think it is necessary to do so because I am not persuaded that a deal was made to settle the liability of Mr. Wiens and his wife as directors under section 323 of the ETA. Indeed the three witnesses called by Mr. Wiens, Mr. Day, his accountant, Mr. Cook, the director of the Winnipeg office of the CCRA and Mr. Dobson, the appeals assessor, were clear that although the proposed income tax assessments were settled the directors' liability assessments were not part of the settlement.
+[12] I come finally to the question of due diligence. It is not necessary to refer to the extensive jurisprudence that has been developed in this court and the Federal Court of Appeal with respect to the liability of directors under section 323 of the ETA and the corresponding section 227.1 of the Income Tax Act. It is clear that the law does not demand perfection, nor does it view directors as insurers for the fisc. It requires only that directors act reasonably to ensure that a corporation's responsibilities to remit tax are carried out. Can it be said that it has been established that this standard has been met? I have a disquieting feeling that the appellants might have been able to establish due diligence. A number of considerations would seem to point in that direction. In 1993 a former revenue assessor was retained to assist with the GST requirements. In 1995 and 1996 and the first half of 1997 there appear to have been no problems. The differences between the corporation's and the CCRA's calculation of tax in the periods where there was a problem are relatively small in relation to the company's sales and could be attributable to something other than a lack of due diligence.
+[13] The unfortunate thing is that Mrs. Wiens, who kept the books, did not testify with respect to her attempts to ensure compliance with the ETA. I tried to encourage her to do so and I stated to both her and Mr. Wiens that her testimony on this issue would be helpful. Although she was called briefly to testify on the issue of her directorship both she and Mr. Wiens obviously made a conscious decision that she would not testify on the question of her due diligence. In the case of appellants who are not represented by counsel, although I endeavour to assist them to the extent possible consistently with my obligation to be impartial, I think it is important that I respect their decision on the conduct of the appeal and not take over the carriage of the case.
+[14] The result is that I am left with a void in the evidence on an essential aspect of the case, specifically, what attempts Mrs. Wiens made to ensure that proper books and records were kept so that the correct amount of GST was calculated and remitted. I do not think the appellants were trying to hide anything. In all probability, Mrs. Wiens continued to be traumatized by having been beaten in an armed robbery of the store. Nonetheless, her evidence was essential and it is lacking.
+[15] I do not however think the appellants are liable for the estimated tax of $2,500 as well as related interest and penalties for the period ending December 31, 1997. The question is whether they acted reasonably in respect of this liability. Without deciding that a director's liability can never be imposed against directors for an assessment against a corporation that is imposed arbitrarily or notionally on an estimated amount under section 299 of the ETA, I do not think it is appropriate to do so here. The assessment was based on an estimated amount of sales in the Christmas season and gave no credit for input tax credits. The return for that period had to be filed by February 2, 1998. On January 6, 1998 the store was robbed and Mr. Wiens testified that inventory in the amount of about $600,000 was taken. In addition the landlord padlocked the store on January 15,1998. Given the magnitude of the loss and its catastrophic consequences to the business which resulted in a receiver-manager being appointed by the bank on February 27, 1998 and the loss of the appellants' home and assets and the padlocking of the store, can it be said that it was unreasonable for the appellants not to have prepared and filed GST returns and caused the company to pay tax for the period ending December 31, 1997? I think not. I can do no better than quote the poignant rhetorical question put by Mrs. Wiens in her Notice of Appeal:
+What else could have been done under these circumstances?
+The answer is nothing.
+[16] The appeals are allowed and the assessments are referred back to the Minister of National Revenue for reconsideration and reassessment to reduce the liability of each of the appellants under section 323 of the ETA by $2,500 together with related interest and penalties.
+[17] There will be no order for costs.
+Signed at Ottawa, Canada this 14th day of July, 2003.
+"D.G.H. Bowman"
+Bowman, A.C.J.
+CITATION:
+2003TCC491
+COURT FILE NO.:
+2000-4178(GST)I and
+2000-4181(GST)I
+STYLE OF CAUSE:
+Ruth Wiens v. The Queen
+Robert Wiens v. The Queen
+PLACE OF HEARING:
+Winnipeg, Manitoba
+DATE OF HEARING:
+July 9, 2003
+REASONS FOR JUDGMENT BY:
+The Honourable Associate Chief Justice D.G.H. Bowman
+DATE OF JUDGMENT:
+July 14, 2003
+APPEARANCES:
+Counsel for the Appellant:
+Counsel for the Respondent:
+Tracey Telford
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

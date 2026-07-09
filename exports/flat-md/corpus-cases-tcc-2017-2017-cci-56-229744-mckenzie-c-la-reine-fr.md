@@ -1,0 +1,241 @@
+---
+title: "McKenzie c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/229744/index.do"
+last_modified: "2017-04-05"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2017 CCI 56"
+citation2: ""
+neutral_citation: "2017 CCI 56"
+decision_date: "2017-04-05"
+language: "fr"
+item_id: "229744"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2295
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T17:33:51.788000+00:00"
+cases_cited_count: 2
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "81187e0ef8db0d08f2f9a5a99f3a94cca0564d7435b0e8ecf8831f513e1ad6ef"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# McKenzie c. La Reine
+
+- Citation: 2017 CCI 56
+- Decision date: 2017-04-05
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2295, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+McKenzie c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2017-04-05
+Référence neutre
+2017 CCI 56
+Numéro de dossier
+2016-1884(IT)I
+Juges et Officiers taxateurs
+Johanne D’Auray
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Référence : 2017 CCI 56
+Date : 20170605
+Dossier : 2016-1884(IT)I
+ENTRE :
+SUSANNE MCKENZIE,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT MODIFIÉS
+La juge D’Auray
+I. PRÉSENTATION
+[1] Susanne McKenzie a déposé un appel relativement à un avis de nouvelle cotisation pour l’année d’imposition 2011. Le ministre du Revenu national (le « ministre ») a établi une nouvelle cotisation afin d’inclure un montant de 21 740 $ [1] dans le revenu déclaré de l’appelante. Le montant a été payé à l’appelante à partir d’un compte de retraite individuel ou Individual Retirement Account des États-Unis (le « CRI des É.-U. ») dont a hérité l’appelante de sa mère, Betty Ann Wicks, qui est décédée en 2007.
+[2] Dans les arguments qu’il a présentés à la Cour et ses observations écrites [2] , le représentant de l’appelante a reconnu que la division 56(1)a)(C.1) de la Loi de l’impôt sur le revenu [3] (la « Loi ») s’appliquerait en ce qui concerne les retraits venant du CRI des É.-U. Toutefois, il est d’avis qu’il existe un autre mécanisme d’imposition pour les CRI des É.-U. aux fins des impôts canadiens sur le revenu. Selon l’appelante, comme le CRI des É.-U. est détenu dans un compte de dépôt de titres, ce n’est pas une entité juridique distincte. Pour l’appelante, le CRI des É.-U. n’est rien de plus qu’un ensemble de titres, qui constitue un bien en immobilisation. L’appelante a aussi affirmé qu’il y avait une double imposition, et donc, que le paragraphe 248(28) de la Loi devrait s’appliquer.
+II. FAITS
+[3] Les parties ont déposé un exposé conjoint des faits le 24 janvier 2017, lequel figure plus bas.
+[traduction]
+EXPOSÉ CONJOINT DES FAITS
+1. L’appelante et l’intimée conviennent que, aux fins seulement du présent appel, de tout appel en découlant, les faits suivants sont véridiques. Les parties sont libres de soumettre des arguments à cet égard, et il ne faut pas considérer qu’elles sont en accord quant au degré de pertinence ou à l’importance devant être accordés à ces faits.
+2. L’entente ne doit lier les parties dans aucune autre action; elle ne doit pas être utilisée contre l’une ou l’autre des parties ni à toute autre occasion; et elle ne doit pas être utilisée par une autre partie.
+L’appelante et l’intimée se sont entendues sur les faits suivants :
+3. La question qui se pose dans le présent appel est de savoir s’il existe un autre mécanisme d’imposition que celui prévu à la division 56(1)a)(i)(C.1) de la Loi de l’impôt sur le revenu pour imposer un CRI des É.-U. et si la question de la double imposition comme l’énonce l’alinéa 248(28)a) de la Loi de l’impôt sur le revenu s’applique dans le contexte.
+4. L’appelante est une résidente canadienne aux fins de l’impôt et elle est également citoyenne des États-Unis (É.-U.).
+5. La mère de l’appelante, Betty Ann Wicks, qui était une résidente et aussi une citoyenne des États-Unis, est décédée en 2007.
+6. L’appelante a reçu la somme de 21 740 $ CA (21 979 $ US X 0,9891) durant l’année d’imposition 2011, qu’elle a incluse dans sa déclaration de revenu américaine [4] . […]
+7. L’appelante a reçu la somme de 21 740 $ CA dans le cadre de la répartition du compte de retraite individuel (le « CRI des É.-U. ») de sa mère, qui a nommé l’appelante comme bénéficiaire.
+8. Les documents qu’a fournis Morgan Stanley Smith Barney à l’appelante aux fins de sa déclaration de revenu au gouvernement américain, qu’on appelle le formulaire 1099-R, indiquaient que celle-ci avait touché un revenu de pension imposable au montant de 21 979 $, auquel on a attribué le code 4 de répartition après décès [traduction] « pour indiquer un paiement fait au bénéficiaire d’une personne décédée [5] ». […]
+9. Le montant de 21 979 $ US a été imposé aux États-Unis.
+10. L’appelante n’a pas inclus le montant de 21 740 $ CA dans sa déclaration de revenu canadienne de 2011.
+11. Le ministre a établi une nouvelle cotisation à l’endroit de l’appelante le 22 février 2013 afin d’inclure [traduction] « la pension des États-Unis » de 21 740 $ CA dans le calcul du revenu de l’appelante pour l’année d’imposition 2011[…] et aussi pour lui accorder un crédit pour impôt étranger de 3 296,85 $ CA relativement à l’impôt sur le revenu payé sur le montant qu’a reçu l’appelante dans le cadre de la répartition du CRI des É.-U. [6]
+12. Le ministre a ratifié la nouvelle cotisation le 12 février 2016 au motif que [Traduction] « la pension des États-Unis reçue [par l’appelante] en 2011 doit être incluse dans [son] revenu conformément à la division 56(1)a)(i)(C.1) [7] ». […]
+13. Le CRI des É.-U. était un compte de dépôt de titres qui avait été établi par la mère de l’appelante et Citigroup Global MKTS Inc.
+14. La somme de 21 740 $ CA a été payée à l’appelante à titre de paiement forfaitaire.
+III. QUESTIONS
+[4] Les parties ont soulevé les deux questions suivantes auxquelles je dois répondre :
+a) existe-t-il un mécanisme d’imposition d’un CRI des É.-U. autre que celui prévu à la division 56(1)a)(C.1) de la Loi;
+b) le paragraphe 248(28) de la Loi s’applique-t-il?
+IV. POSITION DES PARTIES
+A. Position de l’appelante
+[5] L’appelante présente deux arguments principaux : (i) le CRI des É.-U. devrait être traité comme du capital, et (ii) il y a une double imposition aux fins de l’impôt sur le revenu canadien et, par conséquent, le paragraphe 248(28) de la Loi s’applique dans le but d’empêcher la double imposition.
+[6] L’appelante est d’avis qu’il existe deux méthodes d’imposition d’un CRI des É.-U. aux fins de l’impôt canadien sur le revenu et que la Loi donne aux contribuables le pouvoir de choisir laquelle des deux méthodes devrait être appliquée. L’appelante estime que les CRI des É.-U. peuvent être traités comme un portefeuille de titres légué. Selon cette approche, les gains en capital domineraient, et les revenus de placement générés par le CRI des É.-U. seraient imposables. La deuxième approche consisterait à traiter les retraits d’un CRI des É.-U. comme un revenu provenant d’une source de revenu unique en application de la division 56(1)a)(i)(C.1) de la Loi [8] .
+[7] La position de l’appelante est fondée sur l’affirmation selon laquelle le CRI des É.-U., à titre de compte de dépôt de titres, n’est pas une fiducie et n’est pas réputée être une fiducie aux fins de l’impôt canadien sur le revenu.
+[8] L’appelante est d’avis que, ce n’est pas parce que l’alinéa 408(h) de l’Internal Revenue Code des États-Unis [9] (l’« Internal Revenue Code des États-Unis »), précise que [traduction] « le compte de dépôt de titres est considéré comme une fiducie […] qu’un compte de dépôt de titres sera traité comme une fiducie aux fins de l’impôt canadien sur le revenu ». Selon l’appelante, le libellé n’équivaut pas à affirmer qu’un compte de dépôt de titres est réputé être une fiducie aux fins de l’impôt canadien sur le revenu.
+[9] En outre, l’appelante a affirmé que des exigences particulières doivent être respectées en vertu de l’alinéa 408a) de l’Internal Revenue Code des États-Unis et, à son avis, les exigences prévues à l’alinéa 408a) ne l’ont pas été; notamment, rien ne prouve que le CRI des É.-U. est une fiducie et rien ne prouve non plus qu’il existe un acte de fiducie ou un document de création de CRI des É.-U. [10]
+[10] L’appelante a aussi fait valoir qu’il y a une double imposition, et, par conséquent, que le paragraphe 248(28) de la Loi devrait s’appliquer pour éviter une double inclusion. Dans son avis d’appel, l’appelante a allégué que, compte tenu de la définition très large du terme « contribuable » au paragraphe 248(1) [11] , les titres de la mère de l’appelante ont fait l’objet d’une présomption de disposition après le décès de celle-ci en 2007, conformément au paragraphe 70(5) de la Loi. Puisque les retraits venant du CRI des É.-U. seraient également assujettis à l’impôt canadien en application de la division 56(1)a)(i)(C.1), il en résulte une double imposition.
+B. Position de l’intimée
+[11] L’intimée est d’avis que le montant qu’a reçu l’appelante du CRI des É.-U. est imposable au Canada au titre de la division 56(1)a)(i)(C.1) de la Loi et, par conséquent, l’alinéa 39(1)a) de la Loi ne s’applique pas. L’intimée a aussi soutenu que l’argument de l’appelante concernant un autre mécanisme d’imposition n’est appuyé ni par une disposition de la Loi ni par la jurisprudence [12] .
+[12] L’intimée a déclaré que le CRI des É.-U. était un « mécanisme de retraite étranger » comme le définit le paragraphe 248(1) de la Loi et l’article 6803 du Règlement de l’impôt sur le revenu [13] (le « Règlement »). Plus précisément, l’intimée a allégué que le paragraphe 248(1) définit le « mécanisme de retraite étranger » comme un régime ou un mécanisme visé par règlement, lequel est décrit à l’article 6803 du Règlement comme un régime ou un mécanisme auquel s’appliquent les alinéas 408a), b) ou h) de l’Internal Revenue Code des États-Unis.
+[13] L’intimée est d’avis que le CRI des É.-U. de l’appelante est visé par l’alinéa 408h) de l’Internal Revenue Code des États-Unis, à titre de compte de dépôt de titres.
+[14] Selon l’intimée, une entité qui n’est pas une banque et qui demande à être approuvée à titre de fiduciaire ou gardien non bancaire doit satisfaire aux exigences du Code of Federal Regulations des États-Unis [14] . L’intimée a soutenu que, depuis 2010, Morgan Stanley Smith Barney (« Morgan Stanley ») a été approuvée par le commissaire du Revenu intérieur à titre de fiduciaire ou gardien non bancaire aux fins de l’article 408 de l’Internal Revenue Code des États-Unis. En outre, l’intimée a fait observer que Citigroup Global MKTS Inc. (« Citigroup ») a aussi été approuvé par le commissaire à titre de fiduciaire ou gardien non bancaire depuis 1985.
+[15] L’intimée a aussi mentionné que l’exception prévue à la division 56(1)a)(i)(C.1) ne s’applique pas, puisque le revenu de pension reçu à titre de paiement forfaitaire était imposable aux États-Unis, car il était inclus dans la déclaration de revenu individuelle aux États-Unis de l’appelante pour 2011. Ainsi, le montant de 21 740 $ a été inclus à juste titre dans la déclaration de revenu canadienne de l’appelante pour l’année d’imposition 2011.
+[16] Dans les exposés qu’elle a présentés à la Cour, l’intimée s’est reportée aux décisions Jagmohan Singh Gill c R [15] et Kaiser c R [16] , affirmant que ces affaires fournissaient une bonne explication quant à l’application de la division 56(1)a)(i)(C.1). Toutefois, comme l’a mentionné l’intimée, aucun de ces cas ne s’attachait à l’argument de l’appelante, à savoir, l’autre mécanisme d’imposition allégué.
+[17] Dans l’affaire Kaiser, le contribuable était un citoyen américain résidant au Canada. Le contribuable a reçu, à titre de bénéficiaire de la succession de son père décédé, une somme provenant du CRI des É.-U. de son père. La question qui se posait était de savoir si le montant avait été inclus à juste titre dans le revenu du contribuable au titre de la division 56(1)a)(i)(C.1). Le contribuable avait soutenu que les montants ne devraient être inclus, en application de la division, que s’ils constituaient des prestations de retraite ou de pension [17] . Le juge Rowe a rejeté ce point de vue et il a conclu qu’il ressortait d’une simple lecture de la disposition que le montant devrait être inclus dans le calcul du revenu du contribuable [18] . Il s’est exprimé ainsi :
+[…] Pour être imposables dans ce cas-ci, il importe que les fonds représentent un paiement fait dans le cadre de ce mécanisme de retraite étranger, et non qu’une personne particulière reçoive la somme uniquement dans des circonstances où s’appliquent les définitions données, dans la loi et la common law, aux mots « prestation de retraite et d’autres pensions » […] [19]
+[18] Dans Gill, le juge Hogan était préoccupé par les paiements qu’avait reçus un contribuable dans une situation semblable au présent appel. Le contribuable dans l’affaire Gill était le bénéficiaire du CRI des É.-U. de sa sœur décédée. La sœur du contribuable était une citoyenne des États-Unis. Pour l’année d’imposition 2005, le contribuable a reçu une somme forfaitaire au titre du rachat du CRI. La question était de savoir si le ministre avait inclus à juste titre le montant provenant du CRI des É.-U. dans le calcul du revenu de l’appelant en application de la division 56(1)a)(i)(C.1).
+[19] Dans Gill, le contribuable fait valoir que l’expression « sans préjudice de la portée générale de ce qui précède » employée à la division 56(1)a)(i) laisse entendre que l’intention du législateur était que les « éléments décrits dans les divisions (A) à (C.1) ne soient assujettis à l’impôt que s’ils constituent des prestations de retraite ou de pension dans le sens courant de ces termes [20] ». Le juge Hogan a fait observer la portée très large du libellé de la division 56(1)a)(i)(C.1) [21] . En rejetant l’appel du contribuable, le juge Hogan a affirmé que rien ne laisse entendre dans cette disposition que « le paiement doit être visé par la définition que la common law donne d’une prestation de retraite ou de pension pour qu’il soit possible de l’inclure dans le calcul du revenu du contribuable [22] ».
+V. ANALYSE
+A. Mécanisme de retraite étranger
+[20] La disposition pertinente dans le présent appel est la division 56(1)a)(i)(C.1) de la Loi. La Loi énonce une méthode particulière pour l’imposition des montants venant de mécanismes comme le CRI des É.-U. L’argument de l’appelante au sujet d’un autre mécanisme d’imposition applicable au CRI des É.-U. n’est pas valable.
+[21] L’article 56 de la Loi prévoit l’inclusion de certains montants dans le revenu du contribuable. À la division 56(1)a)(i) figure la liste de certaines prestations qui doivent être incluses dans le revenu à titre de prestations de retraite ou de pension.
+[22] La division 56(1)a)(i)(C.1) de la Loi prévoit que « tout paiement fait dans le cadre d’un mécanisme de retraite étranger prévu par la législation d’un pays » sera inclus dans le calcul du revenu du contribuable pour une année d’imposition. Cette inclusion comporte une exception qui s’applique dans le cas où le paiement serait exclu du calcul du revenu du contribuable aux fins de l’impôt sur le revenu dans le pays où le mécanisme de retraite étranger est établi (aux États-Unis, dans le présent appel) s’il y résidait. Plus particulièrement, la division prévoit ce qui suit :
+56(1) Sommes à inclure dans le revenu de l’année – Sans préjudice de la portée générale de l’article 3, sont à inclure dans le calcul du revenu d’un contribuable pour une année d’imposition
+a) Pensions, prestations d’assurance-chômage, etc. – Toute somme reçue par le contribuable au cours de l’année au titre, ou en paiement intégral ou partiel :
+(i) d’une prestation de retraite ou de pension, y compris, sans préjudice de la portée générale de ce qui précède :
+[…]
+(C.1) tout paiement fait dans le cadre d’un mécanisme de retraite étranger prévu par la législation d’un pays, sauf dans la mesure où le paiement serait exclu du calcul du revenu du contribuable aux fins de l’impôt sur le revenu dans ce pays s’il y résidait.
+[…]
+[Non souligné dans l’original.]
+[23] Le paragraphe 248(1) de la Loi définit le « mécanisme de retraite étranger » comme suit :
+« mécanisme de retraite étranger Régime ou mécanisme visé par règlement. »
+[Non souligné dans l’original.]
+[24] Pour l’application de la définition du « mécanisme de retraite étranger » du paragraphe 248(1) de la Loi, l’article 6803 du Règlement prévoit ce qui suit :
+[…] est un régime ou mécanisme visé le régime ou mécanisme auquel s’appliquent les alinéas 408a), b) ou h) de la loi des États-Unis intitulée Internal Revenue Code […]
+[Non souligné dans l’original.]
+[25] L’article 408 de l’Internal Revenue Code des États-Unis aborde les CRI. Les dispositions pertinentes sont les alinéas 408a) et 408h). Ils sont ainsi libellés :
+[traduction]
+Article 408. Comptes de retraite individuels
+[al. 408a)]
+a) Compte de retraite individuel ‑ aux fins du présent alinéa, l’expression « compte de retraite individuel » signifie une fiducie créée ou organisée aux États-Unis pour le bénéfice exclusif d’une personne ou de ses bénéficiaires, mais seulement si l’instrument directeur qui crée la fiducie satisfait aux exigences suivantes :
+(1) Sauf dans le cas d’un transfert de cotisation décrit à l’alinéa 402c) et aux sous-alinéas d)(3), 403a)(4), 40b)(8) et 457e)(16), aucune cotisation ne sera acceptée, sauf en espèces, et les cotisations ne seront pas acceptées pour l’année d’imposition au nom de toute personne si elles excèdent le montant en vigueur pour cette même année d’imposition en application de la division 219b)(1)a).
+(2) Le fiduciaire est une banque (comme le définit l’alinéa n)) ou toute autre personne qui démontre à la satisfaction du Secrétaire que la façon dont d’autres personnes vont administrer la fiducie sera conforme aux exigences du présent alinéa.
+(3) Aucune partie des fonds fiduciaires ne sera investie dans des polices d’assurance-vie.
+(4) Les intérêts de la fiducie ne doivent pas être amalgamés avec d’autres biens, sauf s’il s’agit d’un fonds fiduciaire commun ou un fonds d’investissement commun.
+(6) En vertu des règlements prescrits par le Secrétaire, les règles, semblables aux règles du sous-alinéa 401a)(9) et les exigences en matière de prestation de décès accessoire prévues à l’alinéa 401a) doivent s’appliquer à la répartition de la totalité des intérêts d’une personne pour qui la fiducie est maintenue.
+[traduction]
+[al. 408h)]
+(h) Comptes de dépôt de titres ‑ Aux fins du présent alinéa, un compte de dépôt de titres devrait être traité comme une fiducie si les avoirs d’un tel compte sont détenus par une banque (comme le définit l’alinéa n)) ou toute autre personne qui démontre à la satisfaction du Secrétaire que la façon dont d’autres personnes vont administrer la fiducie sera conforme aux exigences du présent alinéa, et si le compte de dépôt de titres constitue, à l’exception du fait que ce n’est pas une fiducie, un compte de retraite individuel décrit à l’alinéa a). Aux fins de ce titre, dans le cas d’un compte de dépôt de titres traité comme une fiducie en raison de la phrase précédente, le gardien d’un tel compte doit être traité comme le fiduciaire de celui-ci.
+[26] Il est évident que l’exception prévue à la division 56(1)a)(i)(C.1) de la Loi ne s’applique pas en l’espèce, puisque l’appelante était assujettie à l’impôt sur le revenu aux États-Unis sur le revenu de pension. Ce fait est reconnu par les deux parties dans l’exposé conjoint des faits. Ce fait est aussi confirmé par le formulaire 1099-R [23] que l’appelante a déposé avec sa déclaration de revenu américaine. Sur le formulaire, il est indiqué que l’appelante avait touché un revenu de pension imposable au montant de 21 979 $ US.
+[27] Lorsque je lis la division 56(1)a)(i)(C.1) de la Loi parallèlement au paragraphe 248(1) qui définit un « mécanisme de retraite étranger » comme un régime ou mécanisme visé par règlement, et comme l’article 6803 du Règlement prévoit que, pour l’application de la définition, « mécanisme de retraite étranger » au paragraphe 248(1) de la Loi, est un régime ou mécanisme auquel s’appliquent les alinéas 408a), b) ou h) de la loi des États-Unis intitulée Internal Revenue Code, j’en viens à la conclusion que le montant qu’a reçu l’appelante est imposable au titre de la division 56(1)a)(i)(C.1) pour les raisons suivantes.
+[28] Selon moi, l’appelante fait fi du libellé de l’article 6803 du Règlement, qui énonce qu’un mécanisme de retraite étranger est un régime ou un mécanisme auquel s’appliquent les alinéas 408a), b) ou h) de la loi des États-Unis intitulée Internal Revenue Code. En outre, l’appelante a mal interprété les alinéas 408a) et h) de l’Internal Revenue Code des États-Unis.
+[29] Selon l’alinéa 408a) de l’Internal Revenue Code des États-Unis, l’expression « compte de retraite individuel » (le « CRI des É.-U. ») signifie une fiducie créée ou organisée aux États-Unis pour le bénéfice exclusif d’une personne ou de ses bénéficiaires si l’instrument directeur créant la fiducie respecte certaines exigences.
+[30] Toutefois, l’alinéa 408h) de l’Internal Revenue Code des États-Unis prévoit qu’un compte de dépôt de titres doit être traité comme une fiducie si les avoirs d’un tel compte sont détenus par une banque (comme le définit l’alinéa n)) ou toute autre personne qui démontre à la satisfaction du Secrétaire que la façon dont d’autres personnes vont administrer la fiducie sera conforme aux exigences de l’alinéa.
+[31] À l’audience, l’appelante a déclaré que le compte de dépôt de titres n’était pas détenu par une banque ou par une personne approuvée par le Secrétaire comme le prévoient les alinéas 408h) et 408n) de l’Internal Revenue Code des États-Unis. Par conséquent, j’ai demandé à l’intimée si Morgan Stanley se qualifiait à titre de banque en application de l’alinéa 408n) ou s’il s’agissait d’une « autre personne qui démontre à la satisfaction du Secrétaire que la façon dont d’autres personnes vont administrer la fiducie sera conforme aux exigences de l’alinéa […] ». Même si la question a été posée à propos de Morgan Stanley, les éléments de preuve donnent à penser qu’il aurait également fallu poser la question à l’égard de Citigroup. Selon l’exposé conjoint des faits, le CRI des É.-U. a été établi par la mère de l’appelante et Citigroup.
+[32] L’intimée a fourni des observations écrites concernant le statut de Morgan Stanley et celui de Citigroup. L’intimée s’est reportée à l’avis 2011-59 de l’Internal Revenue Service (l’« avis »), qui dresse une liste des fiduciaires et des gardiens non bancaires qui ont été approuvés aux fins des règlements, y compris ceux se rapportant aux comptes de retraite individuels. Selon l’avis, Citigroup (date d’approbation : le 22 juillet 1985) et Morgan Stanley (date d’approbation : le 27 janvier 2010) figurent sur la liste des fiduciaires ou des gardiens non bancaires approuvés aux fins de l’article 408 de l’Internal Revenue Code des États-Unis. L’intimée a aussi fourni une liste en vigueur en date du 2 février 2016, sur laquelle figurent les noms de Citigroup et Morgan Stanley.
+[33] Par conséquent, cette condition prévue à l’alinéa 408h) de l’Internal Revenue Code des États-Unis est respectée.
+[34] Même si l’appelante est d’accord pour dire que le CRI des É.-U. était un compte de dépôt de titres, elle a allégué que l’alinéa 408h) de l’Internal Revenue Code des États-Unis ne s’applique pas, puisque les conditions énoncées à l’alinéa 408a) ne sont pas respectées, soit qu’il n’y a aucune preuve d’acte ou d’instrument de fiducie.
+[35] La position de l’appelante me pose problème. L’alinéa 408h) de l’Internal Revenue Code des États-Unis mentionne qu’un compte de dépôt de titres doit être traité comme une fiducie si les avoirs d’un tel compte sont détenus par une personne approuvée, et si le compte de dépôt de titres constitue, à l’exception du fait que ce n’est pas une fiducie, un compte de retraite individuel comme le décrit l’alinéa 408a). Par conséquent, puisque le compte de dépôt de titres n’est pas une fiducie, aucun acte ou un instrument de fiducie mentionné par l’appelante n’est nécessaire.
+[36] Dans le présent appel, le compte de dépôt de titres était détenu par Citygroup, soit une personne autorisée à administrer le compte de dépôt de titres en vertu de l’article 408 de l’Internal Revenue Code des États-Unis. En outre, le compte de dépôt de titres constituait un compte de retraite individuel pour le bénéfice exclusif d’une personne ou de ses bénéficiaires comme le décrit l’alinéa 408a) de l’Internal Revenue Code des États-Unis. Par conséquent, les conditions énoncées aux alinéas 408a) et h) sont respectées. La situation de fait en l’espèce correspond à ce que prévoient les alinéas 408a) et h) de l’Internal Revenue Code des États-Unis, l’article 6803 du Règlement et la division 56(1)a)(i)(C.1) de la Loi.
+[37] De plus, il incombait à l’appelante d’établir que les conditions énoncées aux sous-alinéas 408a)(1) à (6) de l’Internal Revenue Code des États-Unis n’ont pas été respectés. Elle n’a présenté aucun élément de preuve montrant que ces conditions ne l’avaient pas été.
+[38] Je ne suis pas d’accord avec l’appelante pour dire qu’il existe une autre méthode pour consigner les revenus, de sorte que le CRI des É.-U. dont a hérité l’appelante de sa mère soit traité comme un portefeuille de titres (immobilisations) et qu’un gain en capital devrait être inclus dans son revenu conformément au paragraphe 39(1) de la Loi, au moment de la disposition des actions par l’appelante ou qu’une disposition réputée a eu lieu lorsque l’appelante a hérité du CRI des É.‑U. de sa mère conformément au paragraphe 70(5) de la Loi.
+[39] La Loi, plus précisément la division 56(1)a)(i)(C.1), l’article 6803 du Règlement et les alinéas 408a) et 408h) de l’Internal Revenue Code des États-Unis portent précisément sur la situation en l’espèce. En outre, le paragraphe 70(5) de la Loi ne s’applique pas dans le présent appel, puisque le paragraphe 70(5) (immobilisations d’un contribuable décédé) s’applique aux résidents du Canada uniquement. La mère de l’appelante, Betty Ann Wicks, n’était pas une résidente du Canada; par conséquent, aucune disposition réputée n’a eu lieu après son décès aux fins de l’impôt canadien sur le revenu en vertu de la Loi.
+[40] Par conséquent, le montant de 21 740 $ qu’a reçu l’appelante en guise de répartition du CRI des É.-U. de sa mère est imposable au titre de la division 56(1)a)(i)(C.1) de la Loi.
+B. Double imposition
+[41] L’appelante a fait valoir que le paragraphe 248(28) de la Loi s’applique. La disposition prévoit que, sauf intention contraire évidente, les dispositions de la Loi n’ont pas pour effet d’entraîner la double comptabilisation des montants à inclure ou à déduire. Le paragraphe 248(28) précise spécifiquement ce qui suit :
+248 (28) Restriction applicable aux inclusions, déductions et crédits d’impôt – Sauf intention contraire évidente, les dispositions de la présente loi n’ont pas pour effet :
+a) d’exiger l’inclusion ou de permettre la déduction, directement ou indirectement, d’une somme dans le calcul du revenu, du revenu imposable ou du revenu imposable gagné au Canada d’un contribuable pour une année d’imposition ou du revenu ou de la perte d’un contribuable pour une année d’imposition provenant d’une source déterminée ou de sources situées dans un endroit déterminé, dans la mesure où cette somme a été incluse ou déduite, directement ou indirectement, dans le calcul de ce revenu, revenu imposable ou revenu imposable gagné au Canada ou de cette perte pour l’année ou pour une année d’imposition antérieure;
+[…]
+[42] Pour que le paragraphe 248(28) de la Loi s’applique, l’appelante devrait prouver qu’un montant a été inclus dans son revenu et que ce montant a déjà été inclus, directement ou indirectement, dans le calcul de son revenu.
+[43] La position de l’appelante est mentionnée au paragraphe 25 de ses observations écrites :
+[Traduction]
+Puisqu’une disposition des titres et le retrait correspondant de ses fonds ont mené à une double imposition (alinéa 70(5)a) et b) et division 56(1)a)(C.1) de la Loi de l’impôt sur le revenu), nous sommes d’avis que le paragraphe 248(28) de la Loi de l’impôt sur le revenu s’applique et empêche l’application d’une autre disposition fiscale par ailleurs applicable.
+[44] Le paragraphe 70(5) de la Loi porte sur les immobilisations d’un contribuable décédé. Conformément au paragraphe 70(5), le contribuable est réputé avoir disposé de chacune de ses immobilisations et avoir reçu de leur disposition un produit égal à leur juste valeur marchande immédiatement avant son décès.
+[45] Comme je l’ai déjà dit, le paragraphe 70(5) de la Loi ne s’applique pas en l’espèce. La mère de l’appelante, Mme Wicks, n’était pas une résidente du Canada. Elle était une résidente et une citoyenne des États-Unis. Les titres de la mère de l’appelante n’auraient pas été réputés disposés conformément au paragraphe 70(5), puisque la disposition ne s’applique pas à un non-résident.
+[46] L’obligation fiscale d’une personne résidante au Canada est énoncée au paragraphe 2(1) de la Loi. Le paragraphe 2(3) décrit l’obligation fiscale d’un non-résident et prévoit ce qui suit :
+2(3) Impôt payable par les non-résidents – Un impôt sur le revenu doit être payé, ainsi qu’il est prévu par la présente loi, sur son revenu imposable gagné au Canada pour l’année, déterminé conformément à la section D, par la personne non imposable en vertu du paragraphe (1) pour une année d’imposition et qui, à un moment donné de l’année ou d’une année antérieure, a :
+a) soit été employée au Canada;
+b) soit exploité une entreprise au Canada;
+c) soit disposé d’un bien canadien imposable.
+[Non souligné dans l’original.]
+[47] Il convient de noter que la section D de la Loi intitulée « Revenu imposable gagné au Canada par des non-résidents » commence à l’article 115 de la Loi. Le paragraphe 70(5) ne s’applique pas à la mère de l’appelante, puisqu’elle n’était pas une résidente du Canada.
+[48] La cotisation établie à l’endroit de l’appelante par le ministre est juste; la division 56(1)a)(i)(C.1) de la Loi est la disposition applicable en l’espèce. Comme il a été énoncé dans l’exposé conjoint des faits, le ministre a accordé un crédit pour impôt étranger de 3 296,85 $ CA relativement à l’impôt sur le revenu américain payé sur le montant réparti du CRI des É.-U. à l’appelante.
+VI. CONCLUSION
+[49] L’appel est rejeté avec dépens.
+Les présents motifs du jugement modifiés remplacent les motifs du jugement datés du 5 avril 2017.
+Signé à Ottawa, Canada, ce 5e jour de juin 2017.
+« Johanne D’Auray »
+Juge D’Auray
+RÉFÉRENCE :
+2017 CCI 56
+No DU DOSSIER DE LA COUR :
+2016-1884(IT)I
+INTITULÉ :
+SUSANNE MCKENZIE c SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Montréal (Québec)
+DATE DE L’AUDIENCE :
+Le 24 janvier 2017
+MOTIFS DU JUGEMENT MODIFIÉS PAR :
+L’honorable juge Johanne D’Auray
+DATE DU JUGEMENT :
+Le 5 avril 2017
+COMPARUTIONS :
+Avocat de l’appelante :
+Me Ciro Paul Scotti
+Avocat de l’intimée :
+Me Claude Lamoureux
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Ciro Paul Scotti
+Cabinet :
+Protax Financial Services Inc.
+Pour l’intimée :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa (Canada)
+[1] À moins d’avis contraire, tous les montants énoncés dans les motifs de jugement sont en devises canadiennes.
+[2] Datées du 19 février 2017.
+[3] L.R.C. 1985, ch. 1 (5e suppl.). À moins d’avis contraire, toutes les dispositions législatives figurant dans les présents motifs de jugement viennent de la Loi.
+[4] Une copie de la déclaration de revenu individuelle (1040) américaine pour 2011 est jointe (annexe 1) à l’exposé conjoint des faits.
+[5] Une copie du formulaire 1099-R est jointe (annexe 2) à l’exposé conjoint des faits.
+[6] Une copie de l’avis de ratification et une lettre datée du 14 février 2013 sont jointes (annexe 3) à l’exposé conjoint des faits.
+[7] Une copie de l’avis de confirmation et la lettre d’accompagnement datée du 12 février 2016 sont jointes (annexe 4) à l’exposé conjoint des faits.
+[8] Observations de l’appelante (19 février 2017) au par. 24; transcription (24 janvier 2017) à la page 5.
+[9] Internal Revenue Code de 1986 des États-Unis, et ses modifications.
+[10] Aux pages 11 et 12 de la transcription, le représentant de l’appelante mentionne ce qui suit : [traduction] « mais nous n’avons pas de preuve que Morgan Stanley a géré le compte selon les exigences prévues dans cette partie ».
+[11] Avis d’appel, au par. A-46.
+[12] Transcription, aux pages 16 et 21.
+[13] C.R.C., ch. 945 [Règlement].
+[14] L’intimée a cité le Code of Federal Regulations, titre 26, partie 1, article 1.408-2.F, à l’onglet 3.
+[15] 2012 CCI 302, 2012 CarswellNat 3286 [Gill], confirmé 2013 CAF 135, [2013] A.C.F. No 570.
+[16] [1994] 2 CTC 2385, 95 DTC 13 (CCI [procédure générale]) [Kaiser].
+[17] Kaiser, au par. 13.
+[18] Kaiser, au par. 15.
+[19] Kaiser, au par. 20.
+[20] Gill, au par. 20.
+[21] Gill, au par. 34.
+[22] Gill, au par. 34.
+[23] Exposé conjoint des faits, onglet 2.

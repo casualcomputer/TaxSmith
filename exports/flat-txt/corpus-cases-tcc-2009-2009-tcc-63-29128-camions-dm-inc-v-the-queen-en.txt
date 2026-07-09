@@ -1,0 +1,148 @@
+Title: Camions DM Inc. v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29128/index.do
+Corpus path: corpus/cases/tcc/2009/2009-tcc-63-29128-camions-dm-inc-v-the-queen-en.md
+Document type: case_law
+Last modified: 2009-03-06
+
+# Camions DM Inc. v. The Queen
+
+- Citation: 2009 TCC 63
+- Decision date: 2009-03-06
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6628, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Camions DM Inc. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2009-03-06
+Neutral citation
+2009 TCC 63
+File numbers
+2007-2679(GST)G
+Judges and Taxing Officers
+François M. Angers
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2007-2679(GST)G
+BETWEEN:
+CAMIONS DM INC,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on October 7, 2009, at Montréal, Quebec
+Before: The Honourable Justice François Angers
+Appearances:
+Counsel for the Appellant:
+Louis-Frédérick Côté
+Counsel for the Respondent:
+Gérald Danis
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under Part IX of the Excise Tax Act, for the period from October 1, 2002, to March 31, 2006, is dismissed, with costs, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 6th day of March 2009.
+"François Angers"
+Angers J.
+Translation certified true
+On this 27th day of June 2009
+François Brunet, Reviser
+Citation: 2009 TCC 63
+Date: 20090306
+Docket: 2007-2679(GST)G
+BETWEEN:
+CAMIONS DM INC,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Angers J.
+[1] Camions DM Inc. is appealing from an assessment made under Part IX of the Excise Tax Act (the Act) in relation to the period from October 1, 2002, to March 31, 2006. After conducting an audit, the Respondent disallowed input tax credits (ITCs) that the Appellant had claimed during the period in issue in computing its net tax. The disallowed ITCs consisted of $237.12 for non-conforming invoices and $25,984 for invoices characterized as invoices of convenience. In addition, $2,755.46 in penalties, $1,221 in interest and $6,510 in additional penalties were assessed.
+[2] The Appellant is no longer contesting the disallowance of $237.12 in ITCs for non‑conforming invoices. As for the $25,984 in ITCs, it pertains to two of the Appellant's suppliers: Pascal Bouchard ($1,876) and Mario Lussier ($24,108).
+[3] The Appellant is a registrant for the purposes of the Act, and its commercial activity is the purchase and resale of used trucks and truck parts. The Appellant was audited in 2005 and 2006, and no discrepancy was found following a reconciliation of tax collected and tax remitted. The auditor also reconstructed the Appellant's sales figure based on cash inflows, and no significant discrepancy was found. Nor was any significant discrepancy found between the ITCs claimed and the ITCs entered in the Appellant's books. However, an analysis of the invoices revealed that some of them did not conform to the Act and that others were made by suppliers of convenience. It is the latter invoices that are in issue in the case at bar.
+[4] There are four invoices related to the supplier Pascal Bouchard. The invoices date back to the fall of 2002 and the spring of 2003. That supplier sold truck parts and engines to the Appellant. Three of the four invoices showing such purchases by the Appellant were on the Appellant's own business letterhead, as were the invoices for the purchases from the supplier Mario Lussier. Therefore, the invoices bearing the Appellant's letterhead were used for both purchases and sales. There was simply a box on the right-hand side of the invoice that could be checked in order to indicate whether a purchase or a sale was involved.
+[5] Dany Williams owns the Appellant Camions DM Inc. The Appellant's activities commenced in 2003, and Mr. Williams purchased parts from the supplier Bouchard. Mr. Williams says that the last time that he saw Bouchard was in 2003. The largest purchase price was $16,793.65, including tax, for a transaction that took place on March 11, 2003. The Appellant allegedly paid for this purchase in three instalments, which were paid by cheques payable to "Cash" and endorsed by Dany Williams, for the purpose, or so Mr. Williams says, of paying the supplier Bouchard.
+[6] The purchased parts, such as engines, are not identified by serial number. The parts were resold by the Appellant as shown in certain sales invoices. Dany Williams admits that the registrant numbers for the supplier Bouchard were added on the invoices by his mother after the transactions took place.
+[7] Pascal Bouchard was not called as a witness. However, the auditor's report (Exhibit I‑1, tab 1) shows that Mr. Bouchard had no place of business, that he never reported taxes or claimed refunds, and that he has no business or accounting documents. He registered for the GST on September 11, 2002. In her report, the auditor goes over the conversations that she had with the supplier Bouchard. At the beginning of the conversation, Bouchard said that he did not recall the transactions involving the Appellant. After receiving two of the four invoices by fax, his memory was refreshed, but he specified that there were no other invoices after saying that he had found the documents in his filing cabinets and that there were only two invoices in it. He also told the auditor that he received only a fraction of the amounts stated on the sales invoices. An audit of his account disclosed no deposits that could correspond to the payments made by the Appellant. Pascal Bouchard does not remember who his own suppliers were.
+[8] Mr. Williams and Mr. Bouchard met in 2001 when they were both working for Les Camions Jean Guy Daviault. Jean Guy Daviault is Dany Williams' uncle by virtue of being the brother of his mother Marie Paule Daviault, who was an advisor to the supplier Bouchard. She is the Appellant's secretary and was the secretary at Les Camions Jean Guy Daviault and at Les Camions Makina Inc., which purchased trucks and parts from the Appellant.
+[9] With respect to the supplier Mario Lussier, the disallowed ITCs are from two categories of invoices: invoices for parts purchases by the Appellant, and invoices for fees paid by the Appellant to Lussier. The relevant invoices for parts purchases and for fees were all printed on the Appellant's letterhead. As we have seen, those invoices state whether a purchase or a sale is involved. The supplier Lussier did not prepare the sales and fee invoices because he is unable to read or write. He merely signed them.
+[10] The Appellant has been doing business with the supplier Lussier since October 2002. For the first few years, it bought truck parts. In 2005 and 2006, it began to pay fees to Lussier for reasons that I will address further on in these reasons.
+[11] One of the anomalies that the auditor noticed on the Appellant's used truck and parts purchase invoices is that none of them contains the serial number of the part or truck purchased. In his conversations with the auditor, Lussier was unable to tell her about the source of the parts that he sold the Appellant. As for the supplier Lussier's registration numbers, they were added to the invoices by Dany Williams' mother during the audit.
+[12] The auditor's report tells us that the supplier Lussier obtained his registration numbers in 2002, and that he described his commercial activity as a truck parts and scrap business. He did not file a single tax return using his registration numbers. He was audited and assessed. Based on the audit, the Minister concluded that Lussier was a provider of invoices of convenience, since there was no evidence of commercial activity. Lussier declared bankruptcy on July 23, 2004. In September 2004, he registered again, and filed tax returns. Based on another audit, the Minister of Revenue of Quebec found that Lussier had no documents related to his commercial activities, no place of business, and no inventory. He would cash his cheques in a wide variety of places, and immediately withdraw whatever money he would deposit. The audit showed that he had no vehicle registered under his name, and that he used a truck registered under his spouse's name. For the period from September 29, 2004, to December 31, 2005, the supplier Lussier reported $19,560 in income, but the audit disclosed cash inflows of $674,236. In 2004 and 2005, he reported receiving social assistance benefits. Lastly, Lussier has a long history of health problems, which makes it difficult for him to travel.
+[13] During his testimony, Mr. Lussier was shown some invoices. He admitted that Dany Williams had prepared these invoices, but that he had signed them. He supposedly gave Dany Williams his registration number in writing. As for the items sold to the Appellant, he said that he purchased them from several places and sold them to the Appellant, who, in turn, resold them the same day or the following day to Camions Makina Inc., which was owned by Mario Daviault, Jean Guy Daviault's son. After his bankruptcy, the supplier Lussier supposedly gave his new GST and QST registration numbers to the Appellant in writing or over the phone.
+[14] Lussier acknowledges that he had medical problems during the period in issue. When questioned about the fees received from the Appellant, he testified that he had two or three business dealings with Marcel Desjeans, but that, thereafter, the Appellant dealt directly with Mr. Desjeans and the Appellant paid him fees in return.
+[15] Desjeans is the foreman at a trucking company, and during the period in issue, he was responsible for maintaining the fleets of seven trucking companies, which totalled approximately 700 trucks. His duties included the sale of trucks that he characterized as [translation] "unsuitable", that is to say, trucks with a high odometer reading or in need of numerous repairs. These trucks were therefore sold as scrap. He used the term "scrap" because anything usable had been removed from the truck. These were trucks whose useful life had come to an end.
+[16] Indeed, Desjeans confirmed that he did business with the supplier Lussier in the past. He found Lussier difficult to deal with; the negotiations were complicated and the transfers of ownership were always complicated. He therefore stopped doing business with him. He called Lussier a [translation]] "weasel". He said that Lussier introduced him to Dany Williams of Camions DM Inc. With Williams, everything was easy and quick. The supplier Lussier never called him to say that Dany Williams was going to meet him or that he was acting on his behalf.
+[17] In the course of his testimony, Desjeans was shown a few sample sales. For example, on June 16, 2005, one of the companies that Desjeans represented sold the Appellant a Volvo truck for $2,000. The truck had been sold for the reasons cited earlier. However, the Appellant resold the same truck four days later for $12,000. Desjeans says that he was very surprised at the selling price. A second sale, dating back to February 2006, also caused some surprise on Desjeans' part. He had sold the Appellant a 1999 ten-wheel Freightliner truck for $1,000 at a 45‑foot trailer for $50 on February 21, 2006, and on the following day, the Appellant resold the same truck to Les Camions Jean Guy Daviault Inc. for $9,000, and the same 45‑foot trailer to Gamex Inc. for $1,500.
+[18] A total of 34 similar transactions were tallied during the audit. The auditor found it particularly noteworthy that the Appellant paid Mario Lussier a fee for each transaction. The payment of fees to Mario Lussier is substantiated by an invoice, issued by the Appellant on its own letterhead, and setting out the amount paid to Mario Lussier in this regard, as well as the tax, which corresponds to the ITCs disallowed by the auditor. During the period from May 22, 2005, to March 30, 2006, the Appellant paid Mario Lussier $204,000 in fees.
+[19] The account of the facts that Mario Lussier provided at the trial was that he did business with Marcel Desjeans two or three times, but that since he did not have enough money to make purchases, he introduced Dany Williams to Marcel Desjeans. According to the arrangement entered into with Dany Williams, he would receive a "commission" similar to the price for which he would have sold the trucks to one Régis Dubois, who ran a garage and who purchased and sold trucks. This "commission" was always roughly $7,000-$8,000, and, according to Lussier, this arrangement was to remain in place as long as the Appellant purchased trucks from Marcel Desjeans. He claimed that he never gave any of his "commission" money to Dany Williams.
+[20] In a sworn declaration made before a notary on July 13, 2006, Mario Lussier stated that all the invoices for fees and purchases involving the Appellant, which totalled $353,200, plus sales taxes, were genuine, accurate and real, and that no amount was paid to Dany Williams after he cashed the cheques. Earlier (specifically, on January 25, 2006), in another document entitled "affidavit", Mario Lussier stated that the invoices for purchases from Camion DM Inc. which were for "fees" were actually for truck sales. He added that, for the fee invoices submitted to Camion DM Inc., he received cheques, cashed them, kept a commission averaging $500, and used the balance to pay for the trucks in cash, after which he resold the trucks to Camion DM Inc. Thus, the "fee" invoices issued to Camion DM Inc. pertained to the purchase and resale of transport trucks from various companies. Lussier's affidavit also stated that he repaired trucks. However, at the hearing, he stated that he did not repair trucks. He explained that when he signed the affidavit of January 25, 2006, he was taking medications, and everything was vague. However, according to the auditor, he was no different at the hearing from the way he was when he signed the affidavit. Lussier says that he does not recall giving money to anyone.
+[21] In some of the transactions, Mario Lussier endorsed his fee cheques but the cheques were cashed by René Daviault, who was his father-in-law and Dany Williams' uncle. Mario Lussier supposedly did these things because he had no bank account. He added that he always kept $2,000 or $3,000 in cash, but that he did not have enough to purchase the trucks himself. He prefers to purchase truck parts.
+[22] Twenty-five invoices concerning parts purchases from Mario Lussier by the Appellant were identified for the period from April 11, 2003, to March 23, 2006. The total value of the transactions covered by those invoices was $149,200. Most if not all the invoices bore Mario Lussier's registration numbers, which were added by Dany Williams' mother at the time of the audit in 2006. Dany Williams testified that he was in possession of Mario Lussier's registration numbers at the time that the transactions in question took place. He supposedly asked Lussier for his numbers, and wrote them on a cigarette package that he kept in his briefcase (Exhibit A‑2). However, the cigarette package bears the QST number only, and no date. Dany Williams says that his mother got Mario Lussier's GST number.
+[23] For her part, Marie Paule Daviault, Dany Williams' mother, testified as follows. She helped her son make invoices and she had Mario Lussier's registration numbers in her possession since 2003. She kept the numbers in question on sheets of paper and in a day planner, which were adduced in evidence. She also confirmed those registration numbers online. However, she acknowledged that even though she had the registration numbers since 2003, she did not enter them on the invoices until the audit in 2006. On cross-examination, Ms. Daviault acknowledged that, at the time that she entered that information in her day planner, she was working for Camion Makina Inc., not for her son. She says that she did this for him anyway, even though she was not working for him. She did this for her employer as well.
+[24] A few of the 45 invoices concerning the Appellant's purchases from Mario Lussier that were adduced in evidence do not contain the truck or part serial numbers, the method of payment, or Mario Lussier's signature. On a few of these invoices, no taxes are charged. The most important thing, in my opinion, is that many of the goods that the Appellant purchased from Mario Lussier were resold the same day or the following day. There are even two cases in which the Appellant sold the goods before they were even purchased from Mario Lussier (invoice #1009, for which the goods were sold one day earlier, and invoice #1024, for which the goods were sold three days earlier).
+[25] The auditor, Sonia Brin, testified about the contents of her report. I have already addressed her written remarks concerning Mario Lussier. Suffice it to recall that Mario Lussier never made any tax remittances and that it was impossible to verify anything, even after sending a demand letter. The history of the registration numbers, the bankruptcy of Mario Lussier, the fact that the invoices were not proper and were all prepared by the Appellant, were some of the points on the basis of which the auditor found that these were invoices of convenience. The auditor also found that the same people participated in several transactions. Lastly, the fact that neither Mario Lussier nor the Appellant appeared to have any parts inventory raised doubts as to whether true commercial activities were involved. At the time that the auditor told Dany Williams that the invoices did not contain Mario Lussier's registration number, he and his accountant did not tell her that they had his number in their possession. As for Mario Lussier, he had no document in his possession.
+[26] According to the auditor, the parts invoices are non-conforming because there is no way to identify the goods by serial number. The invoices from supplier Pascal Bouchard are non-conforming for the same reason, in her view.
+[27] Consequently, the issue to be determined is whether the Respondent was warranted in disallowing the ITCs claimed by the Appellant in computing its tax during the period in issue, and in assessing a penalty under section 285 of the Act. In support of her position, the Respondent notes that the invoices in respect of which the ITCs are claimed are non‑conforming because they did not contain all the information that is required by subsection 169(4) of the Act and set out in section 3 of the Input Tax Credit Information (GST/HST) Regulations. The provisions in issue read as follows:
+169(4) Required documentation — A registrant may not claim an input tax credit for a reporting period unless, before filing the return in which the credit is claimed,
+(a) the registrant has obtained sufficient evidence in such form containing such information as will enable the amount of the input tax credit to be determined, including any such information as may be prescribed; and
+. . .
+Section 3 of the Input Tax Credit Information (GST/HST) Regulations reads:
+3. Prescribed information — For the purposes of paragraph 169(4)(a) of the Act, the following information is prescribed information:
+. . .
+(c) where the total amount paid or payable shown on the supporting documentation in respect of the supply or, if the supporting documentation is in respect of more than one supply, the supplies, is $150 or more,
+(i) the information set out in paragraphs (a) and (b),
+(ii) the recipient's name, the name under which the recipient does business or the name of the recipient's duly authorized agent or representative,
+(iii) the terms of payment, and
+(iv) a description of each supply sufficient to identify it.
+[28] I have only reproduced the portion of the Regulations that applies to supplies of $150 or more, but I must point out that subparagraph 3(b)(i) requires the supplier's registration number.
+[29] The Respondent further submits that, not only are the Appellant's ITC claims non-conforming, but moreover, in view of the evidence of the whole, the Appellant was not acting in good faith in its transactions with Mario Lussier and Pascal Bouchard, and thus, the Appellant could not legitimately believe that the information contained in the supporting documents was accurate and recorded genuine transactions between them. In other words, the Respondent submits that the invoices were invoices of convenience that served to reduce the Appellant's net taxes and income.
+[30] For its part, the Appellant submits that all the requirements of the Act and the Regulations were complied with in this case. The Appellant was at all times in possession of Mario Lussier's registration numbers, and the terms of payment were clear and well defined. The Appellant further submits that, even though certain invoices did not specify the price of each item, and certain items are not identified by serial number, this is not a basis for disallowing an ITC. Lastly, the Appellant submits that there is no evidence of collusion between the Appellant and Mario Lussier, nor is there evidence of kickbacks from the Appellant to the supplier Lussier, although there was one occasion in which the Appellant cashed a cheque payable to Mario Lussier.
+[31] In order to claim an input tax credit, the registrant must obtain the information required by the Regulations before filing the return. The registrant can be required to produce the supporting documentation containing the information in question. These provisions are clear, and the courts require that the information be produced. This is especially true when the value of the supplies exceeds $150. These statutory requirements are amply justified considering the fact that registrants are the tax authorities' trustees and are accountable to them on that basis.
+[32] I acknowledge from the outset that the Appellant in this case kept proper accounting records using Simply Accounting software. The auditor's report states that all auditing exercises, such as the reconstruction of the sales figure based on cash inflows; the reconciliation of the supply report (based on the sales journal) with the supplies entered; or the reconciliation of the ITCs entered in the books with the ITCs reported, showed no significant discrepancy. Thus, it is the analysis of the invoices in issue that uncovered irregularities which, in view of the evidence as a whole, led the auditor to find that the invoices were invoices of convenience.
+[33] I also accept from the outset that the Appellant is not responsible for the fact that Mario Lussier did not remit the tax and did not keep accounting records that were good enough to enable an audit of his commercial activities. However, this situation cannot be totally disregarded, given all the commercial activities, spanning several years, between the Appellant, the supplier Lussier and some customers of the Appellant, whose owners are members of the same family. Mario Lussier is married to the daughter of René Daviault, who is the brother of Dany Williams' mother, Marie Paule Daviault, to name just those relatives.
+[34] Mario Lussier and the Appellant run businesses whose commercial activities are identical. Neither of them has a place of business that would enable them to store an inventory. The parts that the Appellant purchased from Mario Lussier were almost all resold the same day (13 of 45, by my count), the following day (9 of 45) or the day after that. Only one part was sold 10 days later. What is strange, however, is that there are two transactions in which the Appellant sold the part before he had even bought it from the supplier Mario Lussier. The invoice in question is invoice #1009 dated May 5, 2003, which shows that the Appellant purchased a 14½-foot dump truck with a cylinder for $2,500 — a truck that he had sold three days earlier, on May 2, 2003, for $3,000 to Camions Thomas Lapointe Inc. The other similar transaction is #1024: on July 9, 2003, the Appellant bought a Dana 44 differential from Mario Lussier, which he had sold to Camions A & R Dubois the previous day.
+[35] The Appellant used his own invoices to make his parts purchases from the supplier Mario Lussier. In fact, the Appellant prepared those invoices itself. I find it rather unusual that a supplier like Mario Lussier, with a sales figure like his, did not have his own invoices or look after preparing them himself. This situation raises doubts about Mario Lussier's good faith. The fact that the Appellant chose to continue operating in this manner also raises doubts about his good faith.
+[36] Mario Lussier's testimony is far from impressive. His numerous contradictions and his complete disregard of his obligations under the Act as a registrant were clear during the audit and it has testimony, and should have been clear to the Appellant as well.
+[37] The Appellant must show, on a balance of probabilities, that all its parts purchase transactions, for which it is claiming ITCs, comply with the statutory requirements and are not transactions of convenience. The Appellant must also show that all the commission fees paid to Mario Lussier in conjunction with the sales of trucks were actually paid, and that the Appellant was not in connivance with Lussier for the purpose of reducing its net tax and its income.
+[38] In all, there were 34 transactions over a 13‑month period. The Appellant paid $204,000 in commissions and fees to Mario Lussier. Mario Lussier's fee invoices are all on the Appellant's stationery. All the Appellant's truck purchase and sale transactions and fee payments to Mario Lussier took place within a few days. Allegedly, the reason that the fees were paid by the Appellant to Mario Lussier is that Lussier had introduced Dany Williams to Marcel Desjeans. In return, the Appellant paid this commission, the amount of which was based on the year of the truck. One wonders what would have happened if one of the trucks have been resold by the Appellant for a price lower than the price for that year. There was no written agreement between them, and Mario Lussier's oral account of the invoice is contradictory, to say the least. It is quite implausible, in my opinion, that such an agreement would have lasted such a long time and involved such large amounts.
+[39] Not only are the fees purportedly paid to Mario Lussier questionable, the transactions with Pascal Bouchard are questionable as well. In my opinion, these were sham transactions. The Act and Regulations were devised for bona fide transactions between bona fide businesspeople: Orly Automobiles Inc. v. Canada, 2005 FCA 425.
+[40] Dany Williams placed considerable emphasis on the fact that he was in possession of the supplier Mario Lussier's registration number at the time that the transactions took place. First of all, it must be understood that the registration number was only entered on the invoices at the time of the audit. Dany Williams claims that he had copied this number on a package of cigarettes that he kept in his briefcase, and then his mother had transcribed it into a day planner for 2003, 2004 and 2005. I should specify that only the QST registration number was on the cigarette package in question. As for the day planner, it belonged to Dany Williams' mother, who was working for Camions Makina Inc. at the time. The day planner does not indicate the year to which it pertains, and it is difficult to believe that it could have been used for three consecutive years. On the basis of the evidence as a whole, I am unable to find that the Appellant obtained supporting documentation containing the information required by subsection 169(4) of the Act before filing a return.
+[41] In my opinion, and in the light of my findings, the Appellant has not shown on a balance of probabilities that it is entitled to the disallowed ITCs, and it is not necessary for me to address the terms of payment, or whether the supporting documents were adequately designated.
+[42] Given my finding, it is clear that the Appellant knowingly made a false statement in his return during the period in question, and, therefore, the Respondent was entitled to impose the penalty provided for in section 285 of the Act. The appeal is dismissed, with costs.
+Signed at Ottawa, Canada, this 6th day of March 2009.
+"François Angers"
+Angers J.
+Translation certified true
+On this 27th day of June 2009
+François Brunet, Reviser
+CITATION: 2009 TCC 63
+COURT FILE NO.: 2007-2679(GST)G
+STYLE OF CAUSE: Camions DM Inc. and Her Majesty the Queen
+PLACE OF HEARING: Montréal, Quebec
+DATE OF HEARING: October 7, 2008
+REASONS FOR JUDGMENT BY: The Honourable Justice François Angers
+DATE OF JUDGMENT: March 6, 2009
+APPEARANCES:
+Counsel for the Appellant:
+Louis-Frédérick Côté
+Counsel for the Respondent:
+Gérald Danis
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Louis-Frédérick Côté
+Firm: Spiegel Sohmer Inc.
+Montréal, Quebec
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

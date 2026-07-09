@@ -1,0 +1,186 @@
+Title: Corporation de l'École Polytechnique c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25161/index.do
+Corpus path: corpus/cases/tcc/2003/2003-cci-601-25161-corporation-de-l-cole-polytechnique-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2003-09-02
+
+# Corporation de l'École Polytechnique c. La Reine
+
+- Citation: 2003 CCI 601
+- Decision date: 2003-09-02
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2607, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Corporation de l'École Polytechnique c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-09-02
+Référence neutre
+2003 CCI 601
+Numéro de dossier
+2000-386(GST)G
+Juges et Officiers taxateurs
+Louise Lamarre Proulx
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2000-386(GST)G
+ENTRE :
+CORPORATION DE L'ÉCOLE POLYTECHNIQUE,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 10 avril 2003 à Montréal (Québec)
+Devant : L'honorable juge Louise Lamarre Proulx
+Comparutions :
+Avocate et représentant de l'appelante :
+Me Diane Bouchard
+Étienne Gadouas (Stagiaire en droit)
+Avocate de l'intimée :
+Me Martine Bergeron
+____________________________________________________________________
+JUGEMENT
+L'appel de la cotisation établie en vertu de la Loi sur la taxe d'accise, dont l'avis porte le numéro 03405821 et qui est en date du 27 octobre 1998, est rejeté avec dépens en faveur de l'intimée, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 2e jour de septembre 2003.
+« Louise Lamarre Proulx »
+Juge Lamarre Proulx
+Référence : 2003CCI601
+Date : 20030902
+Dossier : 2000-386(GST)G
+ENTRE :
+CORPORATION DE L'ÉCOLE POLYTECHNIQUE,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Juge Louise Lamarre Proulx,
+[1] Il s'agit d'un appel d'une cotisation établie en vertu de la Loi sur la taxe d'accise (la « Loi » ). Cette cotisation, en date du 27 octobre 1998 et dont l'avis porte le numéro 03405821, vise la période du 1er mai 1994 au 31 mai 1997.
+[2] La question en litige est de savoir si la fourniture d'une licence pour l'usage d'une propriété intellectuelle est une fourniture taxable comprise dans les exceptions au principe général que la fourniture de biens meubles ou de services par une institution publique est une fourniture exonérée selon l'article 2, de la Partie VI, de l'Annexe V de la Loi.
+[3] Cet article 2 se lit comme suit :
+Art. 2. [Fourniture de biens ou de services par une institution publique] -La fourniture de biens meubles ou de services par une institution publique, sauf la fourniture :
+a) d'un bien ou d'un service inclus à l'annexe VI;
+b) du bien ou du service qui, aux termes de la partie IX de la loi, est réputé fourni par l'institution (sauf s'il s'agit d'une fourniture qui est réputée avoir été effectuée par le seul effet de l'article 136.1 de la loi);
+c) du bien, sauf une immobilisation de l'institution ou un bien qu'elle a acquis, fabriqué ou produit en vue de le fournir, qui, immédiatement avant le moment où la taxe serait payable relativement à la fourniture s'il s'agissait d'une fourniture taxable, était utilisé (autrement que pour effectuer la fourniture) dans le cadre des activités commerciales de l'institution;
+d) de l'immobilisation de l'institution qui, immédiatement avant le moment où la taxe serait payable relativement à la fourniture s'il s'agissait d'une fourniture taxable, était utilisée (autrement que pour effectuer la fourniture) principalement dans le cadre des activités commerciales de l'institution;
+e) du bien corporel que l'institution acquiert, fabrique ou produit en vue de le fournir et qui n'a pas été donné à l'institution ni utilisé par une autre personne avant son acquisition par l'institution, ou du service que l'institution fournit relativement au bien, à l'exception d'un tel bien ou service que l'institution fournit en exécution d'un contrat pour des services de traiteur;
+f) d'un bien, effectuée par bail, licence ou accord semblable, conjointement avec la fourniture d'un immeuble visé à l'alinéa 25f);
+g) du bien ou du service par l'institution en exécution d'un contrat pour des services de traiteur lors d'un événement commandité ou organisé par l'autre partie contractante;
+h) du droit d'adhésion qui, selon le cas :
+(i) donne au membre le droit de recevoir des fournitures de droits d'entrée dans un lieu de divertissement -- lesquelles fournitures seraient taxables si elles étaient effectuées séparément de la fourniture du droit d'adhésion -- ou le droit à des rabais sur la valeur de la contrepartie de telles fournitures,
+(ii) comprend le droit de prendre part à une activité récréative ou sportive dans un tel lieu ou d'y utiliser les installations,
+sauf si la valeur des fournitures, rabais ou droits visés au sous-alinéa (i) ou (ii) est négligeable par rapport à la contrepartie du droit d'adhésion;
+i) des services d'artistes exécutants d'un spectacle, si l'acquéreur de la fourniture est la personne qui effectue des fournitures taxables de droits d'entrée au spectacle;
+j) d'un service de supervision ou d'enseignement dans le cadre d'une activité récréative ou sportive, ou d'un droit d'adhésion ou autre droit permettant à une personne de bénéficier d'un tel service;
+k) du droit de jouer à un jeu de hasard ou d'y participer;
+l) d'un service consistant à donner des cours à des particuliers, ou les examens y afférents, si la fourniture est effectuée par une école de formation professionnelle, au sens de l'article 1 de la partie III, ou par une administration scolaire, un collège public ou une université;
+m) d'un droit d'entrée :
+(i) dans un lieu de divertissement,
+(ii) à un colloque, une conférence ou un événement semblable, si la fourniture est effectuée par une université ou un collège public,
+(iii) à une activité de levée de fonds tenue après avril 1991.
+[4] Il est accepté de part et d'autre que l'appelante est une institution publique. Il est aussi accepté de part et d'autre que le seul alinéa du susdit article qui puisse s'appliquer à la fourniture d'une licence pour l'usage de la propriété intellectuelle est l'alinéa c).
+[5] Selon l'appelante, la fourniture par l'appelante d'une telle licence constitue une fourniture taxable d'un bien meuble incorporel parce que, avant cette fourniture, le bien, soit la propriété intellectuelle, était utilisé dans le cadre des activités commerciales de l'appelante. La partie intimée soutient que ce bien dont il y a eu fourniture, n'était pas, immédiatement avant le moment où la taxe serait payable relativement à cette fourniture, s'il s'agissait d'une fourniture taxable, utilisé dans le cadre des activités commerciales de l'appelante. Donc, il s'agirait d'une fourniture exonérée.
+[6] La question en litige consiste à déterminer la nature des activités de l'appelante relativement à cette propriété intellectuelle à savoir s'agissait-t-il d'activités commerciales.
+[7] Les faits décrits par l'appelante aux paragraphes 7 à 12 de l'avis l'appel sont les suivants :
+7. L'appelante est une institution d'enseignement affiliée à l'Université de Montréal.
+8. Afin de favoriser la recherche scientifique et le développement expérimental, le gouvernement du Québec a mis en place diverses déductions fiscales visant à attirer les investisseurs, dont notamment les SPEQ-R & D et les contrats de recherche universitaires.
+9. Dans le but de maximiser les déductions fiscales offertes aux investisseurs, on procéda à la création de SPEQ-R & D dont la structure faisait en sorte que la recherche était conférée par contrat à une entité universitaire. En vertu du contrat de recherche, l'entité universitaire convenait d'acheter de la SPEQ-R & D la propriété intellectuelle découlant des travaux de recherche et de conférer par la suite des droits d'utilisation de cette propriété intellectuelle par voie de licence.
+10. Pendant la période faisant l'objet de la cotisation en litige, l'appelante a exécuté des contrats de recherche pour le compte de quatre SPEQ-R & D, soit Enviro R & D Inc. IBS R & d Inc., Les Capteurs Capco R & D Inc. et Les Biosystèmes Biosys R & D Inc.
+11. Tel que requis par les dispositions de la Loi sur la taxe d'accise (la « L.T.A. » ), l'appelante a acquitté la TPS lors de l'achat des droits de propriété intellectuelle détenus par les quatre SPEQ mentionnées ci-dessus. En raison de son statut d'organisme du secteur public, l'appelante n'a alors obtenu qu'un remboursement partiel représentant 67 % de la TPS qu'elle avait acquittée.
+12. L'appelante réalisa subséquemment qu'elle avait droit à ses pleins crédits de taxe sur intrants ( « CTI » ) et obtint la différence entre la TPS qu'elle avait acquittée et le remboursement partiel qu'elle avait obtenu, et ce lors de la production de sa déclaration pour la période de juillet 1994.
+Par la cotisation en litige, l'intimée réclame de l'appelante la différence entre la TPS qu'elle a acquittée et le remboursement partiel qu'elle avait initialement obtenu, plus les intérêts et pénalités applicables.
+[8] Les alinéas 7 à 11 de l'avis d'appel ont été admis. L'avocate de l'appelante a expliqué qu'en 1991, il y a eu quatre Sociétés de Placements dans l'Entreprise Québécoise ( « SPEQ » ) qui ont été constituées pour obtenir du financement pour fins de recherche à être effectuée par des sociétés de recherche privées en collaboration avec l'appelante.
+[9] Le premier témoin de l'appelante a été monsieur Augustin Brais. Il est ingénieur et est l'administrateur de la recherche à L'École Polytechnique. À l'époque des SPEQ, il était responsable de la section qui gérait les projets majeurs de recherche.
+[10] Le témoin explique que l'École Polytechnique est une institution universitaire dont la mission porte sur l'enseignement et la recherche.
+[11] Monsieur Brais relate qu'au début des années 90, les institutions universitaires auraient cherché à commercialiser certains résultats de la recherche pour aider financièrement l'université. C'est dans ce contexte que s'est inscrite l'action des SPEQ.
+[12] Le témoin explique que sa propre intervention s'est située en aval de celle de ceux qui ont effectué le montage des SPEQ. L'École Polytechnique réalisait la recherche alors que les questions tournant autour du montage relevaient du promoteur. Les quatre projets mentionnés à l'avis d'appel ont été produits comme pièces A-1 à A-4.
+[13] Pour les fins de l'audience, les parties se sont limitées à la SPEQ portant le nom de Speq R & D BioCapital IBS Ltée (pièce A-1). La société de recherche privée constituée pour les fins du montage s'appelle IBS Société d'applications de faisceaux d'ion R & D Inc. ( « IBS R & D » ). Une société belge Ion Beam Applications, S.A. ( « IBA » ), un fabriquant de cyclotrons, avait participé à la création de la société de recherche privée (onglet 1 de la pièce A-1).
+[14] La convention de recherche entre IBS et l'appelante, en date du 16 octobre 1991, se trouve à l'onglet 2 de la pièce A-1. Cette entente a pour but de confier un mandat de recherche à l'appelante. L'article 8.2 de la Convention de recherche indique que les droits de propriété intellectuelle appartiennent entièrement à IBS. L'article 8.3 prévoit qu'avec l'approbation préalable écrite de IBS, l'entité universitaire pourra se servir de la propriété intellectuelle à des fins de recherche et d'enseignement.
+[15] Ces articles se lisent comme suit :
+8.2 Tous et quelconque des droits de propriété sur quelconque aspect de la propriété intellectuelle, du projet de recherche ou des résultats du projet de recherche, le cas échéant, découlant de celui-ci sont l'entière propriété de IBS.
+8.3 Avec l'approbation préalable écrite de IBS, l'Entité universitaire pourra se servir de la propriété intellectuelle à des fins de recherche et d'enseignement.
+[16] À l'onglet 3 de la pièce A-1, se trouve le Contrat d'achat et de licence entre les mêmes parties, en date du 16 octobre 1991. Les attendus prévoient qu'une convention de recherche est intervenue le 16 octobre 1991 entre IBS R & D et l'entité universitaire, que, suite à la fin du projet de recherche, l'entité universitaire désire acquérir la propriété intellectuelle dans le projet de recherche et que IBS R & D consent à vendre la propriété intellectuelle dans la mesure où l'entité universitaire lui accorde une licence exclusive et mondiale des droits d'exploitation et de commercialisation de la propriété intellectuelle.
+[17] Ces attendus se lisent comme suit :
+ATTENDU QU'une convention de recherche est intervenue le 16 octobre 1991 entre IBS R & D et l'Entité universitaire (la « convention de recherche » ) et que l'exécution du présent contrat constitue une condition essentielle de l'exécution par IBS R & D et l'Entité universitaire de la convention de recherche;
+ATENDU QUE suite à la fin du projet de recherche tel que défini dans la convention de recherche, l'Entité universitaire désire acquérir la propriété intellectuelle dans le projet de recherche telle que définie ci-après;
+ATTENDU QUE IBS R & D consent à vendre la propriété intellectuelle dans la mesure où l'Entité universitaire lui accorde une licence exclusive et mondiale des droits d'exploitation et de commercialisation de la propriété intellectuelle;
+[18] L'article 2 du susdit contrat a pour titre : « Achat de la propriété intellectuelle » et l'article 3 : « Licence exclusive et mondiale » . Ces clauses du contrat d'achat et de licence n'entrent en vigueur que le 13 décembre 1993, c'est-à-dire, après la conclusion du projet de recherche. Pendant tout le programme de recherche, la propriété intellectuelle appartient à l'entreprise. Le montant maximal des redevances était le même que celui du coût d'achat de la propriété intellectuelle, soit 756 502 $.
+[19] Il est d'intérêt de reproduire les paragraphes 2.1, 2.3 et 3.1 du susdit contrat d'achat et de licence :
+2.1 IBS R & D s'engage irrévocablement et inconditionnellement par les présentes à vendre et l'Entité universitaire s'engage irrévocablement par les présentes à acheter de IBS R & D le 13 décembre 1993 au moins élevé de la juste valeur marchande de la propriété intellectuelle de 756 502 $ (le « prix d'acquisition » ), sous réserve que l'Entité universitaire ne sera pas tenue d'effectuer le paiement du prix d'acquisition le 13 décembre 1993 si, à cette date, la somme versée par elle en vertu du contrat de substitution à titre de garantie collatérale du remboursement d'une partie des prêts contractés par les actionnaires de la SPEQ n'a pas été libérée ou recouvrée des emprunteurs, en totalité ou en partie. Toutefois, au fur et à mesure qu'une partie de cette somme aura été libérée ou recouverte, l'Entité universitaire sera alors irrévocablement et inconditionnellement tenue d'affecter le montant reçu en paiement total ou partiel du prix d'acquisition de la propriété intellectuelle.
+...
+2.3 L'Entité universitaire pourra déduire du prix d'acquisition, uniquement les sommes qu'elle ne pourra réclamer à titre de remboursement de toute taxe fédérale ou provinciale sur les produits ou services ou autre taxe de vente qu'elle sera tenue de payer sur le prix d'acquisition.
+...
+3.1 L'Entité universitaire octroie par les présentes à IBS R & D à compter du 13 décembre 1993, soit suite à l'acquisition de la propriété intellectuelle, une licence exclusive et irrévocable pour le Territoire avec droit de sous-licence à toute personne, des droits d'exploitation et de commercialisation de la propriété intellectuelle sous réserve du paiement pour une période minimale de 10 ans et maximale de 20 ans (la période exacte devant être déterminée en fonction du nombre d'années nécessaires, dans le cadre de l'évaluation de la juste valeur marchande, afin que les montants ci-après atteignent le montant maximal de 756 502 $), et ce à compter du 13 décembre 1993, des montants suivants à l'Entité universitaire par IBS R & D :
+3.1.1 1% des revenus nets; ou
+3.1.2 10% de toute redevance;
+en prenant en considération que chaque paiement de montants sera escompté selon le ratio décrit à l'annexe A en fonction de la date à laquelle il est versé, et que les montants atteignent le moindre de i) la juste valeur marchande ou ii) le montant maximal de 756 502 $.
+[20] Les factures d'achat de la propriété intellectuelle relativement aux quatre SPEQ ont été déposées comme pièce A-9. Relativement à la SPEQ prise comme exemple, on y voit que le prix d'acquisition est celui mentionné à l'article 2 du contrat d'achat et de licence. Les taxes sont payées sur ces montants d'acquisition et c'est de ces taxes dont on réclame le crédit pour intrants.
+[21] Monsieur Brais donne comme but du contrat d'achat et de licence la possibilité pour l'appelante d'utiliser la propriété intellectuelle pour la commercialiser et également, de poursuivre la recherche et éventuellement plus tard utiliser les résultats des recherches.
+[22] Cette propriété intellectuelle est toujours la propriété de l'appelante, car à un moment donné, IBS s'est retirée du projet de recherche. Le même phénomène s'est produit à l'égard des trois autres projets. Il n'y a aucun revenu de redevance qui a été reçu pour les quatre SPEC en litige de l'entreprise privée.
+[23] Les rapports de recherche finals ont été déposés comme pièce A-5. Ils ont pour but de démontrer qu'il y a eu de la vraie recherche qui a été effectuée à l'École Polytechnique.
+[24] Selon le témoin, le budget de l'École Polytechnique est de l'ordre de 90 millions à l'heure actuelle. Le budget de recherche si on le restreint strictement aux activités de recherche et non pas aux investissements de recherche est de l'ordre de 30 millions par année.
+[25] En contre-interrogatoire le témoin reconnaît que l'article 4 du contrat d'achat et de licence (onglet 3 de la pièce A-1) prévoit que l'entité universitaire convient qu'elle n'exploitera pas ou ne commercialisera pas la propriété intellectuelle.
+[26] Le paragraphe 4.1 se lit comme suit :
+4.1 L'Entité universitaire s'engage et convient qu'elle-même n'exploitera pas ou ne commercialisera pas la propriété intellectuelle et qu'elle n'accordera à aucune autre partie quelconque droit d'exploiter et de commercialiser de quelque façon que ce soit la propriété intellectuelle.
+[27] Le témoin de la partie intimée fut madame Louise Belliveau, vérificatrice pour Revenu Québec. C'est elle qui a procédé à la vérification du dossier dans l'année 1997. Elle a expliqué que les crédits de taxe sur intrants sont accordés à 100 p. 100 quand la fourniture qui est effectuée est une fourniture taxable. Ici, 67 p. 100 de la taxe a été remboursée tel que prévu pour les institutions publiques par l'article 259 de la Loi. Le taux découle du paragraphe 5 du Règlement sur les remboursements aux organismes de services publics.
+[28] Le témoin a relaté qu'elle avait obtenu de la direction générale de la législation une opinion voulant que la fourniture par l'université d'une licence des droits d'exploitation et de commercialisation de la propriété intellectuelle à la SPEC constituait une fourniture exonérée aux termes de l'exonération générale édictée à l'article 2 de la Partie VI de l'Annexe V. Cette opinion a été déposée lors du contre-interrogatoire comme pièce A-10.
+Arguments
+[29] L'avocate de l'appelante accepte que L'École Polytechnique en tant qu'institution publique rende habituellement des fournitures exonérées, mais elle fait valoir que dans le cadre des ententes SPEQ, le programme de recherche est devenu une activité commerciale particulière et qu'elle est distincte des autres activités de recherche de L'École Polytechnique. Le bien était donc utilisé dans le cadre des activités commerciales de l'institution avant qu'il ne soit revendu.
+[30] Pour l'avocate de l'intimée, ce qui a été acquis, c'est un droit de propriété intellectuelle et ce qui a été fourni, c'est une licence. Il ne s'agirait pas du même bien. Mais elle ne s'attarde pas sur cet argument car l'avocate de l'appelante avait fait valoir, fort à propos, que la licence était le démembrement d'une propriété. L'avocate de l'intimée fait valoir que le bien, la propriété intellectuelle, ne pouvait être utilisé puisqu'il était la propriété de l'entreprise privée et qu'une fois acquis, il a été immédiatement et simultanément fourni à cette entreprise par le biais d'une licence. De plus, il y avait une clause spécifique excluant le droit à tout usage commercial de la part de l'appelante.
+[31] Mais le point principal de l'avocate de l'intimée, c'est que le bien, immédiatement avant d'être fourni, n'était pas utilisé dans le cadre d'une activité commerciale. S'il était utilisé par l'appelante, c'était dans le cadre des fournitures exonérées que fait l'École Polytechnique, c'est-à-dire dans le cadre de son enseignement et de sa recherche et non dans des activités commerciales. Elle se réfère à cet égard à la loi constitutive de l'appelante.
+[32] L'article 3 de la Loi sur la Corporation de l'École Polytechnique de Montréal se lit comme suit :
+3. La corporation a pour objet de dispenser l'enseignement supérieur et de promouvoir la recherche dans tous les domaines scientifiques où s'exerce l'activité de l'ingénieur.
+Conclusion
+[33] Je suis d'avis que c'est le sens à donner à l'expression « activités commerciales » à l'alinéa 2c) de la Partie VI de l'Annexe V qui sera déterminant. Si on donne à cette expression le sens donné par la définition de cette expression au paragraphe 123(1) de la Loi, on ne peut aboutir à une solution du litige. Selon cette définition, toutes les activités de l'appelante sont des activités commerciales à l'exclusion des activités exonérées. Selon l'article 2 de la Partie VI de l'Annexe V, la fourniture de biens meubles est une fourniture exonérée à l'exception de la fourniture d'un bien meuble utilisé dans le cadre des activités commerciales. On tourne en rond. (C'est ce que suggère l'auteur Sherman relativement à son commentaire sur le sens à donner à « activités commerciales » à cet alinéa 2c) dans la collection Canada GST Service Sherman, Carswell, volume C6).
+[34] À la lecture même des exceptions prévues au susdit article 2, on perçoit une connotation d'activités commerciales semblables à celles que l'on trouve normalement dans le commerce où le profit est le but premier. Le sens d'activités commerciales du paragraphe 123(1) de la Loi est un sens élargi qui comprend plus que le sens habituel de l'expression « activités commerciales » . Ici, pour que le texte du règlement ait un sens, il faut interpréter activités commerciales dans son sens habituel.
+[35] Les notes explicatives concernant ce texte du règlement vont dans le sens de cette interprétation. Je cite le premier paragraphe de la note explicative concernant le projet de Loi C-62 (L.C.) 1990, ch. 45) :
+Exonération générale applicable aux organismes de bienfaisance [Projet de loi C-62 (L.C. 1990, ch. 45)] - En vertu de cet article, toutes les fournitures de biens et de services effectuées par les organismes de bienfaisance sont exonérées de la TPS, exceptée la liste des fournitures établie aux alinéas a) à m). Les fournitures incluses dans cette liste sont d'un type généralement effectué par des entreprises commerciales.
+[36] Cette note explicative se trouve aux pages 476 et 477 du volume intitulé : « Notes explicatives fédérales en taxes à la consommation, Archives de 1990 à 1996 » , publié par CCH dans la collection fiscale.
+[37] Au sujet de l'usage des notes explicatives dans les jugements, je cite l'auteur Pierre-André Côté dans Interprétation des lois, 3e édition, Les Éditions Thémis, à la page 546 :
+À mon avis, les tribunaux devraient admettre les notes explicatives d'un projet de loi de la même façon et pour le même motif qu'ils acceptent de tenir compte de l'opinion de la doctrine : une note explicative devrait être considérée comme l'expression d'une opinion sur les sujets dont elle traite, le juge restant toujours libre de lui reconnaître l'autorité qui convient aux circonstances (Hébert c. Marx, [1988] R.J.Q. 2185 (C.S.)). Si le texte paraît clair, les notes auront peu de poids. Si le texte présente des obscurités, les notes pourront indiquer une interprétation plausible ou confirmer celle que le juge aura déduite par d'autres moyens. Les objections d'ordre pratique que l'on adresse au recours aux travaux préparatoires en général ne valent pour ainsi dire pas lorsque les notes explicatives sont en cause : elles sont généralement brèves, d'accès facile, elles s'avèrent souvent pertinentes et on a moins de raison de mettre en doute leur fiabilité que celle d'autres éléments des travaux préparatoires.
+[38] L'avocate de l'appelante a soutenu que la recherche faite dans le cadre des SPEQ devrait être considérée à part du programme normal de recherche de l'appelante. Même ce faisant, cela n'en fait pas nécessairement une activité commerciale de l'appelante. Il faudrait que cette activité spécifique ait des caractéristiques commerciales.
+[39] Je suis d'avis que la preuve n'a pas révélé d'indicateurs d'activités commerciales ayant pour but le profit. Ces indicateurs pourraient être une comptabilité distincte, une mise en marché ou autres caractéristiques commerciales. Je ne trouve ces caractéristiques ni dans les clauses des ententes ni dans les faits décrits par le témoin de l'appelante.
+[40] Je suis d'avis que la preuve a révélé que le but recherché par les ententes était celui de l'enseignement et de la recherche, comme le veut la raison d'être de l'appelante, et non le profit. Que le financement ait été obtenu par des investisseurs particuliers plutôt que par des subventions ou des frais de scolarité n'a pas changé la nature des activités relatives à la recherche.
+[41] L'appel est rejeté avec dépens en faveur de l'intimée.
+Signé à Ottawa, Canada, ce 2e jour de septembre 2003.
+« Louise Lamarre Proulx »
+Juge Lamarre Proulx
+RÉFÉRENCE :
+2003CCI601
+No DU DOSSIER DE LA COUR :
+2000-386(GST)G
+INTITULÉ DE LA CAUSE :
+Corporation de l'École Polytechnique et Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+Montréal (Québec)
+DATE DE L'AUDIENCE :
+le 10 avril 2003
+MOTIFS DE JUGEMENT PAR :
+l'honorable juge Louise Lamarre Proulx
+DATE DU JUGEMENT :
+le 2 septembre 2003
+COMPARUTIONS :
+Pour l'appelante :
+Me Diane Bouchard
+Étienne Gadouas (Stagiaire en droit)
+Pour l'intimée :
+Me Martine Bergeron
+AVOCATE INSCRITE AU DOSSIER:
+Pour l'appelante :
+Nom :
+Me Diane Bouchard
+Étude :
+Desjardins Ducharme Stein Monast, senc
+Montréal (Québec)
+Pour l'intimé(e) :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

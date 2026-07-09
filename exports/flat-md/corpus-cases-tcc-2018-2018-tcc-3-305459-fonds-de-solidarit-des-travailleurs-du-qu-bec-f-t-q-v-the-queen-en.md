@@ -1,0 +1,336 @@
+---
+title: "Fonds de solidarité des travailleurs du Québec (F.T.Q) v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/305459/index.do"
+last_modified: "2018-01-15"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2018 TCC 3"
+citation2: ""
+neutral_citation: "2018 TCC 3"
+decision_date: "2018-01-15"
+language: "en"
+item_id: "305459"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7346
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T11:55:21.772000+00:00"
+cases_cited_count: 1
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "0f589bec6b9f03c01e540da46d7f24e5d3165b2ba6ba4b590e4a83164880ce94"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Fonds de solidarité des travailleurs du Québec (F.T.Q) v. The Queen
+
+- Citation: 2018 TCC 3
+- Decision date: 2018-01-15
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7346, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Fonds de solidarité des travailleurs du Québec (F.T.Q) v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2018-01-15
+Neutral citation
+2018 TCC 3
+File numbers
+2014-4618(IT)G
+Judges and Taxing Officers
+Sylvain Ouimet
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2014-4618(IT)G
+BETWEEN:
+FONDS DE SOLIDARITÉ DES TRAVAILLEURS
+DU QUÉBEC (F.T.Q.),
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeals heard on March 22 and 23, 2017, at Montreal, Quebec.
+Before: The Honourable Justice Sylvain Ouimet
+Appearances:
+Counsel for the Appellant:
+Nicolas X. Cloutier
+Nicolas Chaput
+Counsel for the Respondent:
+Michel Lamarre
+JUDGMENT
+The appeals from the reassessments made under the Income Tax Act for the 2008 and 2010 taxation years are dismissed, with costs.
+Signed at Ottawa, Canada, this 15th day of January 2018.
+“Sylvain Ouimet”
+Ouimet J.
+Translation certified true
+on this 3rd day of July 2019.
+Janine Anderson, Revisor
+Citation: 2018 TCC 3
+Date: 20180115
+Docket: 2014-4618(IT)G
+BETWEEN:
+FONDS DE SOLIDARITÉ DES TRAVAILLEURS
+DU QUÉBEC (F.T.Q.),
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Ouimet J.
+I. INTRODUCTION
+[1] The Fonds de solidarité des travailleurs du Québec (F.T.Q.) (the “appellant”) is appealing two reassessments made by the Minister of National Revenue (the “Minister”) on January 21, 2013. In the reassessments, the Minister disallowed the appellant’s deductions of $7,188,435 and $2,078,922 for charitable gifts for the 2008 and 2010 taxation years respectively.
+II. ISSUES
+[2] The issues are as follows:
+1. Was the Minister correct in disallowing the appellant’s deduction of $7,188,435 as a charitable gift in computing its taxable income for the 2008 taxation year?
+2. Was the Minister correct in disallowing the appellant’s deduction of $2,078,922 as a charitable gift in computing its taxable income for the 2010 taxation year?
+[3] If this Court finds that the Minister was correct in disallowing the appellant’s deductions of $7,188,435 and $2,078,922 as charitable gifts, this Court has to answer the following question:
+1. Are the amounts of $7,188,435 and $2,078,922 deductible from the appellant’s income as business expenses for the 2008 and 2010 taxation years, respectively?
+Specifically, this Court will have to decide whether those amounts were paid by the appellant for the purpose of earning income from a business during those taxation years.
+[4] The following persons testified for the appellant during the hearing:
+- Mr. Themens, the appellant’s vice-president of legal affairs. Mr. Themens was the appellant’s director of legal affairs in the turnaround and litigation section from 2003 to 2008.
+- Mr. Delisle, a lawyer practising in the area of municipal law. Mr. Delisle represented the town of Chandler and the Société de Développement Économique et Industriel de Chandler (“SDEIC”) during the years under appeal.
+- Steve Rayes, an accountant by training. Mr. Rayes has been the appellant’s vice-president of taxation and valuation since 2004.
+[5] The respondent called no witnesses during the hearing.
+III. RELEVANT STATUTORY PROVISIONS
+[6] The relevant statutory provisions are as follows:
+Income Tax Act, R.S.C. 1985 (5th Supp.)
+9. (1) Income — Subject to this Part, a taxpayer’s income for a taxation year from a business or property is the taxpayer’s profit from that business or property for the year.
+. . .
+18. (1) General limitations — In computing the income of a taxpayer from a business or property no deduction shall be made in respect of
+(a) General limitation — an outlay or expense except to the extent that it was made or incurred by the taxpayer for the purpose of gaining or producing income from the business or property;
+(b) Capital outlay or loss — an outlay, loss or replacement of capital, a payment on account of capital or an allowance in respect of depreciation, obsolescence or depletion except as expressly permitted by this Part;
+. . .
+110.1 (1) Deduction for [charitable] gifts — For the purpose of computing the taxable income of a corporation for a taxation year, there may be deducted such of the following amounts as the corporation claims
+(a) Charitable gifts — the total of all amounts each of which is the eligible amount of a gift (other than a gift described in paragraph (c) or (d)) made by the corporation in the year or in any of the five preceding taxation years to a qualified donee, not exceeding the lesser of the corporation’s income for the year and the amount determined by the formula
+0.75A + 0.25(B + C + D)
+where
+A is the corporation’s income for the year computed without reference to subsection 137(2),
+B is the total of all amounts, each of which is that proportion of the corporation’s taxable capital gain for the taxation year in respect of a gift made by the corporation in the taxation year (in respect of which gift an eligible amount is described in this paragraph for the taxation year) that the eligible amount of the gift is of the corporation’s proceeds of disposition in respect of the gift,
+C is the total of all amounts each of which is a taxable capital gain of the corporation for the year, because of subsection 40(1.01), from a disposition of a property in a preceding taxation year, and
+D is the total of all amounts each of which is determined in respect of the corporation’s depreciable property of a prescribed class and equal to the lesser of
+(A) the amount included under subsection 13(1) in respect of the class in computing the corporation’s income for the year, and
+(B) the total of all amounts each of which is determined in respect of a disposition that is the making of a gift of property of the class by the corporation in the year (in respect of which gift an eligible amount is described in this paragraph for the taxation year) equal to the lesser of
+(I) that proportion, of the amount by which the proceeds of disposition of the property exceeds any outlays and expenses, to the extent that they were made or incurred by the corporation for the purpose of making the disposition, that the eligible amount of the gift is of the corporation’s proceeds of disposition in respect of the gift, and
+(II) that proportion, of the capital cost to the corporation of the property, that the eligible amount of the gift is of the corporation’s proceeds of disposition in respect of the gift;
+. . .
+(1.1) Limitation on deductibility — For the purpose of determining the amount deductible under subsection 110.1(1) in computing a corporation’s taxable income for a taxation year,
+(a) an amount in respect of a gift is deductible only to the extent that it exceeds amounts in respect of the gift deducted under that subsection in computing the corporation’s taxable income for preceding taxation years; and
+(b) no amount in respect of a gift made in a particular taxation year is deductible under any of paragraphs 110.1(1)(a) to (d) until amounts deductible under that paragraph in respect of gifts made in taxation years preceding the particular year have been deducted.
+. . .
+(2) Proof of gift — An eligible amount of a gift shall not be included for the purpose of determining a deduction under subsection (1) unless the making of the gift is evidenced by filing with the Minister
+(a) a receipt for the gift that contains prescribed information;
+(b) in the case of a gift described in paragraph (1)(c), the certificate issued under subsection 33(1) of the Cultural Property Export and Import Act; and
+(c) in the case of a gift described in paragraph (1)(d), both certificates referred to in that paragraph.
+. . .
+149.1 (1) Definitions — In this section and section 149.2,
+. . .
+qualified donee, at any time, means a person that is
+(a) registered by the Minister and that is
+. . .
+(ii) a municipality in Canada,
+. . .
+Interpretation Act, R.S.C. 1985, c. I-21
+Rules of Construction
+Property and Civil Rights
+8.1 Duality of legal traditions and application of provincial law — Both the common law and the civil law are equally authoritative and recognized sources of the law of property and civil rights in Canada and, unless otherwise provided by law, if in interpreting an enactment it is necessary to refer to a province’s rules, principles or concepts forming part of the law of property and civil rights, reference must be made to the rules, principles and concepts in force in the province at the time the enactment is being applied.
+Civil Code of Québec
+1806. Gift is a contract by which a person, the donor, transfers ownership of the property by gratuitous title to another person, the donee; a dismemberment of the right of ownership, or any other right held by a person, may also be transferred by gift.
+Gifts may be inter vivos or mortis causa.
+1381. A contract is onerous when each party obtains an advantage in return for his obligation.
+When one party obligates himself to the other for the benefit of the latter without obtaining any advantage in return, the contract is gratuitous.
+1388. An offer to contract is a proposal which contains all the essential elements of the proposed contract and in which the offeror signifies his willingness to be bound if it is accepted.
+IV. THE FACTS
+A. Background
+[7] In 1999, the paper mill owned by the company Abitibi-Consolidated Inc. located in the town of Chandler (the “mill”) was closed.
+[8] On December 14, 2000, 9084-7419 Québec Inc., a subsidiary of the appellant, and Abitibi-Consolidated entered into an agreement. Under the terms of the agreement, 9084-7419 Québec Inc. acquired Abitibi‑Consolidated’s mill and some forestry equipment and assets in order to reopen the mill. The attempt to reopen the mill was not successful.
+[9] In December 2001, the limited partnership Papiers Gaspésia s.e.c. was created in another attempt to reopen the mill. The appellant was one of the limited partners in that company. Papiers Gaspésia Inc. was the general partner company. On December 17, 2001, Papiers Gaspésia s.e.c. acquired the mill and some other assets of 9084-7419 Québec Inc. in order to reopen the mill.
+[10] In May 2002, work began on the upgrades required to reopen the mill. In the fall of 2003, it became clear that upgrading the mill would exceed cost projections by several million dollars and that, as a result, reopening the mill would no longer be profitable. The work to upgrade the mill thus ceased at the end of January 2004.
+[11] On January 30, 2004, Papiers Gaspésia Inc. filed a motion under the Companies’ Creditors Arrangement Act. [1] Following the filing of that motion, a monitor was appointed. The monitor tried to find investors so that the mill upgrades could be completed. When no investors could be found, a call for tenders was issued for the sale of the mill’s assets.
+[12] On December 13, 2004, the town of Chandler created the SDEIC in an effort to reopen the mill and prevent it from being dismantled.
+[13] On June 23, 2005, a plan of arrangement was approved by a majority of the creditors of Papiers Gaspésia Inc. and Papiers Gaspésia s.e.c. Under the plan, the town of Chandler could attempt to reopen the mill through the SDEIC. The plan provided for the sale of the mill’s assets to the SDEIC. That sale took place on July 4, 2005.
+[14] On August 2, 2005, a letter of offer concerning the sale of the mill’s assets was sent to the SDEIC. The appellant and some other creditors of Papiers Gaspésia Inc. and Papiers Gaspésia s.e.c. offered the SDEIC a loan to cover the costs of acquiring the assets, as well as the running expenses of the mill for a period of two years, in anticipation of the reopening of the mill or a permanent solution as to its fate. In the offer, if the SDEIC had to sell the mill’s assets, the proceeds of the sale of the assets would be distributed among the appellant and the other creditors in accordance with the terms of the letter of offer. [2]
+[15] On September 13, 2005, following the acceptance of the offer dated August 2, 2005, Papiers Gaspésia s.e.c., Papiers Gaspésia Inc. and the SDEIC entered into an asset purchase agreement. [3] On the same day, a loan agreement was entered into between the SDEIC, the appellant and the other lenders. [4]
+[16] On October 27, 2005, an agreement was reached between the lenders and the creditors of the SDEIC. [5] The agreement changed the distribution, set out in the letter of offer dated August 2, 2005, of the proceeds if the mill’s assets were sold.
+[17] On October 27, 2005, the appellant and some SDEIC creditors sent two letters to the SDEIC in which they committed to, if the SDEIC sold the mill’s assets, giving a portion of the proceeds of the sale of the mill’s assets they were to be paid under the terms of the September 13, 2005 loan agreement. According to those letters, the appellant’s contribution would be made in exchange for [TRANSLATION] “participating priority shares” in a limited partnership that was to be created. The limited partnership was to have objectives similar to those of the SDEIC, that is, economic development in the Chandler area. [6]
+[18] On November 15, 2005, the town of Chandler introduced a bill that would allow it, through the SDEIC, to keep the mill’s assets and participate in the reopening of the mill. The bill would also allow the town of Chandler to act as a general partner in a limited partnership established to manage an economic development fund. The fund was to be set up with the help of possible contributions by the appellant and some creditors of the SDEIC. [7] The bill was assented to on December 13, 2005.
+[19] The SDEIC was unable to reopen the mill. In October 2007, the SDEIC issued a call for tenders concerning the sale of the mill’s assets. Following the call for tenders, the SDEIC and Vantek Inc. (“Vantek”) entered into a purchase agreement concerning some of the mill’s assets. [8]
+[20] At the end of 2007, the appellant proposed to the SDEIC that it would give the town of Chandler the money it was to receive under the September 13, 2005 loan agreement that was to be invested in exchange for [TRANSLATION] “priority participating shares” in a limited partnership. [9]
+[21] On December 18, 2007, Mr. Themens asked for authorization and approval from the appellant’s board of directors for the payment to the town of Chandler of the amounts that were to be received under the September 13, 2005 loan agreement and that were to be used to set up an economic development fund. [10]
+[22] On December 20, 2007, the town of Chandler told the appellant that it had the authority to accept gifts and issue charitable gift receipts. [11]
+[23] On the same day, that is, December 20, 2007, a new sharing agreement was reached among the lenders and the creditors of the SDEIC. [12] Under that agreement, the lenders and creditors could remit the amounts to be given to the SDEIC under the October 27, 2005 agreement directly to the town of Chandler or to the Fonds de Développement Économique de Chandler (“FDEC”). [13]
+[24] In January 2008, the FDEC was created by the town of Chandler. The FDEC’s mission was the decontamination and rehabilitation of the land on which the mill was located and the promotion of economic, commercial and industrial development in the town of Chandler.
+[25] Between March 1 and April 8, 2008, the amounts the appellant was to receive under the October 27, 2005 loan agreement and the December 20, 2007 sharing agreement were given to the town of Chandler. Between April 21 and December 2, 2008, after receiving these amounts, the town of Chandler issued three charitable gift receipts in the appellant’s name for a total of $7,188,435. [14] The first receipt, for $6,609,000, was issued on April 21, 2008. The second and third receipts, for $571,658.73 and $7,776.64, were issued on December 2, 2008.
+[26] On January 22, 2010, a distribution and discharge agreement was reached between the appellant, the SDEIC’s creditors, the SDEIC and the FDEC. [15] That agreement concerned the balance of the reserve for the cost of the sale of the mill’s assets. Under that agreement, a portion, namely, $2,078,922, of the balance of the reserve for the cost of the sale that was to be paid to the appellant was given to the town of Chandler.
+[27] On February 9, 2010, after the appellant gave the $2,078,922 to the town of Chandler, a charitable gift receipt for the same amount was issued by the town of Chandler in the appellant’s name. [16]
+B. Position of the parties
+(1) Appellant’s position
+[28] The appellant’s position as to whether the amounts of $7,188,435 and $2,078,922 are deductible as charitable gifts can be summarized as follows:
+1. The appellant committed, in the October 27, 2005 letters, to giving the amounts it was to receive under the September 13, 2005 agreements to a limited partnership in exchange for [TRANSLATION] “priority participating shares” in that company. That commitment was conditional. The parties had to agree beforehand on the terms for setting up the limited partnership. However, that commitment was replaced, with the consent of the parties, by another agreement, pursuant to which the appellant gifted the $7,188,435 and the $2,078,922 to the town of Chandler so that it could use those amounts for [TRANSLATION] “economic development” in the area without having to do it through a limited partnership.
+2. The town of Chandler could use the $7,188,435 and the $2,078,922 at its discretion. The appellant argues that the amounts were given to the town of Chandler without any conditions and that the town of Chandler could use those amounts as it saw fit.
+[29] The appellant’s position on whether the $7,188,435 and the $2,078,922 are deductible as business expenses can be summarized as follows:
+1. The appellant’s ability to attract public savings and to do business with companies throughout Quebec depends on how well known it is, its reputation as a genuine business partner and its image of integrity. That is why the appellant gave the $7,188,435 and $2,078,922 to the town of Chandler. Specifically, those amounts were given
+(a) with the goal of maintaining the appellant’s credibility as an investor;
+(b) with the goal of maintaining its image with the public and with its shareholders;
+(c) with the goal of maintaining its reputation as a socially responsible investor;
+(d) with the goal of meeting the expectations of the market and of the public with respect to its socioeconomic role;
+(e) in the interests of commercial probity. [17]
+(2) Respondent’s position
+[30] The respondent’s position as to whether the amounts of $7,188,435 and $2,078,922 are deductible as charitable gifts for the relevant taxation years can be summarized as follows:
+1. The appellant could not gift the $7,188,435 and $2,078,922 to the town of Chandler since, under the October 27, 2005 letters, it had a legal obligation to pay those amounts to a limited partnership that was to be created to manage an [TRANSLATION] “economic development” fund. According to the respondent, that legal obligation still existed when the $7,188,435 and $2,078,922 were given to the town of Chandler. Therefore, the appellant could not have had the donative intent required for the existence of a gift.
+2. The respondent argues that the appellant’s contributions could not constitute charitable gifts since the town of Chandler did not have absolute discretion with regard to the use of the amounts paid by the appellant. According to the respondent, the town of Chandler had to use the amounts given by the appellant for the purposes set out in its letters patent.
+[31] The respondent’s position on whether the $7,188,435 and the $2,078,922 are deductible as business expenses can be summarized as follows:
+1. The amounts of $7,188,435 and $2,078,922 paid by the appellant to the town of Chandler were not paid for the purpose of earning income from a business. Therefore, no business expenses can be deducted by it in respect of these amounts.
+V. Analysis
+A. Are the amounts of $7,188,435 and $2,078,922 deductible as charitable gifts?
+[32] Section 110.1 of the Income Tax Act (“ITA”) deals with deductions for gifts applicable to corporations. Under that section, a charitable gift can be deducted from the taxable income of a corporation if certain conditions are met. The first condition is that the corporation must have made a gift. Yet the term “gift” is not defined in the ITA. Given that the facts leading to the appeals in this case arose in the province of Quebec, the Court must, pursuant to section 8.1 of the Interpretation Act, [18] apply the rules, principles and concepts in force in the province of Quebec in order to define this term. Thus, the provisions concerning gifts and gratuitous contracts found in articles 1806 to 1841 of the Civil Code of Québec (“CCQ”) and in the second paragraph of article 1381 of the CCQ, respectively, must be applied. Evidently, the decisions of Canadian courts concerning these provisions must also be considered and applied.
+[33] A gift contract is defined in article 1806 of the CCQ. It is defined as a contract by which a person, the donor, transfers ownership of the property by gratuitous title to another person, the donee.
+[34] A gratuitous contract is defined in the second paragraph of article 1381 of the CCQ. It is defined as a contract by which one party obligates himself to the other for the benefit of the latter without obtaining any advantage in return.
+[35] Thus, a gift is necessarily a gratuitous act. However, a gratuitous act is not necessarily a gift. For it to be a gift, it is imperative that “property” be transferred from the donor to the donee. [19] Note that the onus is on the individual who claims that a legal act is a gift to show evidence thereof; otherwise, the act is presumed to be non-gratuitous. [20]
+[36] In Martin v. Dupont, [21] the Quebec Court of Appeal describes the constituent elements of a gift as follows:
+[TRANSLATION]
+28 Thus, the donation requires that two elements be present: the material element and the mental element.
+. . . there is no liberality in the absence of the intellectual or mental element, the animus donandi, and in the absence of the material element, the transfer of value without an equivalent consideration.
+29 The mental element, or animus donandi, has been defined as a “real desire to alienate property for the benefit of a third person, without deriving any advantage”.
+30 The donation thus implies the intent to grow poorer without receiving anything in return, apart from expecting gratitude from the donee. It is also imperative that the donor derives no material benefit.
+31 Both elements are mandatory; the absence of one of them is sufficient to conclude that the act is not a donation.
+[37] Since a gift is a liberality, it requires the presence of the following two elements:
+(1) The material element: There must be a transfer of the donor’s property to the donee without the donor receiving an equivalent consideration.
+(2) The mental element: The donor must have had real desire to alienate the property for the benefit of the donee without deriving any advantage. [22]
+[38] I will address each of these elements in turn.
+(1) The material element
+[39] As mentioned above, for there to be a gift, there must have been a transfer of property from the donor to the donee without the donor receiving an equivalent consideration for the transferred property. Thus, two conditions must be met, that is, the transfer of property and the absence of equivalent consideration in return for the transferred property.
+[40] Regarding the first condition, it is not in dispute that the appellant did in fact grow poorer by $7,188,435 and $2,078,922 by paying those amounts to the town of Chandler. Nor is it in dispute that the town of Chandler was enriched by the same amounts. Thus, the first condition has been met.
+[41] Regarding the second condition, for it to be met, the appellant must not have received an equivalent consideration in return for the payment of the $7,188,435 and $2,078,922.
+[42] On the basis of the evidence, following the sale of some of the mill’s assets by the SDEIC to Vantek, the appellant was to receive a percentage of the proceeds of the sale of the mill’s assets, namely $7,188,435 and $2,078,922, under the September 13, 2005 agreements. According to Mr. Themens, who wrote the October 27, 2005 letters, the appellant committed in those letters to giving a limited partnership the amounts it was to receive from the sale of assets, in exchange for [TRANSLATION] “participating priority shares” in that partnership. That commitment was conditional since the parties first had to agree on the terms for setting up the limited partnership. According to Mr. Themens, the appellant was obligated to negotiate in good faith with the SDEIC in order to create that limited partnership. [23]
+[43] However, before the $7,188,435 and $2,078,922 were paid to it, the appellant changed its mind about what should happen to that money. [24] Mr. Themens and the appellant’s CEO decided that it would be preferable to give the amounts to the town of Chandler. [25] They decided to do this [TRANSLATION] “instead of” having to agree with the SDEIC on the terms of setting up the limited partnership and investing in the partnership to be created, in exchange for [TRANSLATION] “participating priority shares” in the partnership. [26] Mr. Themens and the CEO concluded that it would be simpler for the appellant to give the amounts to be received to the town of Chandler and to let the town use them as it saw fit without having to use a limited partnership to do so. This would make the future investments for economic development purposes easier for the town of Chandler. [27]
+[44] Mr. Themens thus asked the appellant’s board of directors for its authorization and approval of the payment of the amounts to the town of Chandler, [28] which the appellant’s board of directors authorized and approved. [29] Subsequently, Mr. Themens was able to propose to the SDEIC and to the town of Chandler, through Mr. Delisle, that the $7,188,435 and $2,078,922 should be given to the town of Chandler [TRANSLATION] “instead of” being invested in a limited partnership. [30] The proposal was accepted by the SDEIC and the town of Chandler. [31]
+[45] As mentioned above, in the October 27, 2005 letters, the appellant committed, under certain conditions, to investing the amounts of $7,188,435 and $2,078,922 in a limited partnership. The appellant was obligated to negotiate in good faith with the SDEIC to decide on the terms for setting up a limited partnership. [32] When the appellant proposed to the SDEIC and to the town of Chandler that it would give the money to the town of Chandler, the appellant’s obligation towards the SDEIC still existed. That obligation ceased to exist only when the SDEIC and the town of Chandler accepted that the money would be paid to the town of Chandler. Indeed, the proposal to the SDEIC and to the town of Chandler was to give the $7,188,435 and $2,078,922 to the town of Chandler [TRANSLATION] “instead of” investing those amounts in a limited partnership.
+[46] Since giving the $7,188,435 and $2,078,922 to the town of Chandler had the effect of relieving the appellant of its obligation to negotiate in good faith to create a limited partnership, the consideration the appellant received in exchange for paying said amounts was the extinguishment of that obligation.
+[47] With respect to the value of that consideration, of that obligation to negotiate in good faith, since the notice of appeal does not address it and since the appellant submitted no evidence in this regard, I conclude therefrom that it is equal to the value of the [TRANSLATION] “participating priority shares” the appellant would have received in exchange for the payment of the amounts to the limited partnership, namely $7,188,435 and $2,078,922. [33]
+[48] As a result, given that I have found that the appellant received an equivalent consideration in return for the transfers of $7,188,435 and $2,078,922 to the town of Chandler, the material element was not present and, thus, there cannot have been a gift.
+(2) The mental element
+[49] Having found that there could not have been a gift since the material element was not present, even though it is not necessary to do so, I will nonetheless determine whether the mental element required for a gift was present.
+[50] The mental element consists of the presence of a real desire on the donor’s part to alienate the transferred property for the benefit of the donee, without deriving any advantage. [34] In order for this condition to be met, the person transferring the property must have had a real desire to not receive anything in return. [35] In this case, it must be determined whether the evidence shows that the appellant had a real desire to alienate the $7,188,435 and $2,078,922 without deriving any advantage from doing so.
+[51] In Hébert v. Giguère, [36] the Superior Court of Quebec found that the fact that a person was relieved of an obligation constituted an advantage and that, as a result, there was an onerous contract and not a gratuitous contract, making a gift impossible. The same applies when the donor transfers property in settlement of a moral or natural obligation. [37]
+[52] In this case, on a balance of probabilities, I am of the view that the appellant did not have a real desire to alienate the $7,188,435 and $2,078,922 without deriving any advantage.
+[53] In fact, it was the appellant who asked the SDEIC to allow it to give the money to the town of Chandler [TRANSLATION] “instead of” subsequently investing it in a limited partnership. [38]
+[54] Moreover, although the appellant was still prepared to fulfill its obligations arising from the October 27, 2005 letters, it decided that it was preferable to give the money directly to the town of Chandler and to not be involved with the town of Chandler in a limited partnership. [39] I must therefore find that, for whatever reason, it wished to relieve itself of its obligation to negotiate in good faith with the SDEIC regarding the terms of setting up a limited partnership. By relieving itself of this obligation, the appellant thus derived an advantage. Since the mental element was not present, there cannot have been a gift.
+B. Were the amounts of $7,188,435 and $2,078,922 paid by the appellant for the purpose of earning income from a business?
+[55] The relevant provisions of the ITA are section 9 and section 18. Under section 9 of the ITA, a taxpayer’s income for a taxation year from a business or property is the taxpayer’s profit from that business or property for the year. Section 18 of the ITA limits the expenses a taxpayer is allowed to deduct in computing income gained from a business. Paragraph 18(1)(a) of the ITA states that no deduction shall be made in respect of an expense except to the extent that it was incurred by the taxpayer for the purpose of gaining or producing income from the business.
+[56] The appellant argued that the money paid to the town of Chandler could not be characterized as capital expenditures. [40] In this regard, I must say that the evidence submitted at the hearing did not allow me to rule on this matter. Therefore, paragraph 18(1)(b) of the ITA does not apply in this case.
+[57] This Court need only determine whether, under paragraph 18(1)(a) of the ITA, the appellant paid $7,188,435 and $2,078,922 to the town of Chandler for the purpose of gaining income from a business.
+[58] The appellant argued that the closure of the mill as well as the unsuccessful attempts to reopen it damaged its reputation in the Gaspé region. Specifically, the appellant argued that the $7,188,435 and $2,078,922 were paid to the town of Chandler to maintain its credibility as an investor, to maintain its image with its shareholders and the public, to uphold its reputation as a socially responsible investor, to meet the expectations of the public and the market with respect to its socioeconomic role, and in the interests of commercial probity. [41] This was raised by the appellant in its notice of appeal and in its notes of argument.
+[59] There is one piece of evidence in the examination for discovery of Mr. Themens that could support these arguments by the appellant. During the examination, Mr. Themens mentioned that the closure of the mill and the unsuccessful attempts to reopen it damaged the appellant’s reputation in the Gaspé region.
+[60] If I were of the view that, on a balance of probabilities, the amounts of $7,188,435 and $2,078,922 were paid to the town of Chandler to repair damage to the appellant’s reputation or for one of the other reasons raised by the appellant, those amounts could potentially be characterized as advertising expenses. Since it is generally recognized that advertising expenses are current expenses and that they are usually incurred for the purpose of gaining income from a business, they could therefore potentially be deductible. [42]
+[61] I am, however, of the view that the comments made by Mr. Themens in the context of his examination for discovery about possible damage to the appellant’s reputation are not sufficient to satisfy the Court that, on a balance of probabilities, the amounts of $7,188,435 and $2,078,922 were paid to remedy damage to the appellant’s reputation and that they were paid to the town of Chandler for one or more of the reasons listed in paragraph 58 of this judgment.
+[62] During his testimony at the hearing, Mr. Themens did not expressly state that the payments of $7,188,435 and $2,078,922 to the town of Chandler had to do with damage to the appellant’s reputation and/or were made to maintain its credibility as an investor, to maintain its image with its shareholders and the public, to maintain its reputation as a socially responsible investor, to meet the expectations of the market and the public in relation to its socioeconomic role, or in the interests of commercial probity. Also, Mr. Themens did not state that it was for any of these reasons that the appellant decided to invest in a limited partnership.
+[63] The reasons justifying that decision were expressly stated by Mr. Themens at various times, in the context of his testimony, and they are as follows:
+1. It was better to leave it to the town of Chandler to proceed with the economic development using the amounts that were to be invested by the appellant in the limited partnership. [43]
+2. The appellant no longer wished to be involved in a limited partnership. [44]
+Considering Mr. Themens’ testimony, the Court finds that, on a balance of probabilities, the amounts of $7,188,435 and $2,078,922 were paid by the appellant to the town of Chandler for those reasons and not with the aim of restoring its reputation in the Gaspé region following its involvement in the unsuccessful attempts to reopen the mill.
+[64] Therefore, the amounts of $7,188,435 and $2,078,922 were not paid for the purpose of gaining income from a business. Thus, they are not deductible from the appellant’s income.
+[65] The appeals are dismissed, with costs.
+Signed at Ottawa, Canada, this 15th day of January 2018.
+“Sylvain Ouimet”
+Ouimet J.
+Translation certified true
+on this 3rd day of July 2019.
+Janine Anderson, Revisor
+CITATION:
+2018 TCC 3
+COURT FILE NO.:
+2014-4618(IT)G
+STYLE OF CAUSE:
+Fonds de solidarité des travailleurs du Québec (F.T.Q.) v. HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Montreal, Quebec
+DATE OF HEARING:
+March 22 and 23, 2017
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Sylvain Ouimet
+DATE OF JUDGMENT:
+January 15, 2018
+APPEARANCES:
+Counsel for the appellant:
+Nicolas X. Cloutier
+Nicolas Chaput
+Counsel for the respondent:
+Michel Lamarre
+COUNSEL OF RECORD:
+For the appellant:
+Name:
+Nicolas X. Cloutier
+Nicolas Chaput
+Firm:
+McCarthy Tétrault LLP
+For the respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Companies’ Creditors Arrangement Act, R.S.C. 1985, c. C-36.
+[2] Exhibit A-1, Appellant’s book of exhibits, Tab 2.
+[3] Exhibit A-1, Appellant’s book of exhibits, Tab 3.
+[4] Exhibit A-1, Appellant’s book of exhibits, Tab 4.
+[5] Exhibit A-1, Appellant’s book of exhibits, Tab 5.
+[6] Exhibit A-1, Appellant’s book of exhibits, tabs 6 and 7.
+[7] Exhibit A-1, Appellant’s book of exhibits, Tab 8.
+[8] Exhibit A-1, Appellant’s book of exhibits, Tab 11.
+[9] Transcript of the hearing held on March 22, 2017 at the Tax Court of Canada (“transcript dated March 22, 2017”), p. 51, lines 20 to 28 and p. 61, lines 5 to 15.
+[10] Exhibit A-1, Appellant’s book of exhibits, Tab 32.
+[11] Exhibit A-1, Appellant’s book of exhibits, Tab 16.
+[12] Exhibit A-1, Appellant’s book of exhibits, Tab 13.
+[13] Exhibit A-1, Appellant’s book of exhibits, Tab 13, clause 4.
+[14] Exhibit A-1, Appellant’s book of exhibits, Tab 22.
+[15] Exhibit A-1, Appellant’s book of exhibits, Tab 20.
+[16] Exhibit A-1, Appellant’s book of exhibits, Tab 22.
+[17] See the notice of appeal at paras. 66 to 69 and the appellant’s notes of argument at para. 21.
+[18] Interpretation Act, R.S.C. 1985, c. I-21.
+[19] Martin v. Dupont, 2016 QCCA 475, para. 24. Édith Lambert, “La donation (Art. 1806 à 1841 C.c.Q.)”, collection Commentaires sur le Code civil du Québec (DCQ), (Cowansville: Éditions Yvon Blais, 2011), pp. 17 and 18.
+[20] Martin v. Dupont, supra, footnote 19, para. 27; Germain Brière, Les libéralités, 9th ed. (Ottawa: University of Ottawa Press, 1985) No. 35, p. 35.
+[21] Martin v. Dupont, supra, footnote 19.
+[22] Martin v. Dupont, supra, footnote 19, paras. 28 to 31. See Michelle Desrosiers, “Les dons de bienfaisance : Droit comparé et fiscal”, (2010), Vol. 25, No. 3 Revue de planification fiscale et successorale. See also E. Lambert, supra, footnote 19, p.18.
+[23] Transcript dated March 22, 2017, p. 33, lines 22 to 28 at p. 34, lines 1 to 2; p. 139, lines 25 to 28 at
+p. 140, lines 1 to 12. See appellant’s notes of argument, p. 2, para. 10.
+[24] Transcript dated March 22, 2017, p. 60, lines 4 to 15.
+[25] Transcript dated March 22, 2017, p. 56, lines 26 to 28 and p. 57, lines 1 to 11.
+[26] Transcript dated March 22, 2017, p. 56, lines 17 to 20. See appellant’s notes of argument, p. 2,
+para. 11.
+[27] Transcript dated March 22, 2017, p. 56, lines 22 to 28 and p. 57, lines 1 to 11; p. 84, lines 15 to 28 at p. 87, lines 1 to 20.
+[28] Transcript dated March 22, 2017, p. 53, lines 24 to 28 at p. 55, lines 1 to 19.
+[29] Exhibit A-1, Tab 32.
+[30] Transcript dated March 22, 2017, supra, footnote 26 and p. 286, lines 23 to 28 at p. 287, lines 1 to 23.
+[31] Transcript dated March 22, 2017, p. 297, lines 3 to 28 at p. 300, lines 1 to 16.
+[32] Transcript dated March 22, 2017, p. 33, lines 22 to 28 at p. 34, lines 1 to 2; p. 139, lines 25 to 28 at
+p. 140, lines 1 to 12. See appellant’s notes of argument, p. 2, para. 10.
+[33] See appellant’s notes of argument, para 13. The appellant does not dispute that the “priority shares” would have had a value of $7,188,435, corresponding to the gifts totalling the same amount, but does not address the gift of $2,078,922. However, throughout the hearing, it was always a question of the investment of the $7,188,435 and $2,078,922 in exchange for “priority shares” in the limited partnership.
+[34] Martin v. Dupont, supra, footnote 19. See also M. Desrosiers, supra, footnote 22.
+[35] Martin v. Dupont, supra, footnote 19, para. 27.
+[36] Hébert v. Giguère [2003] R.J.Q. 89.
+[37] M. Desrosiers, supra, footnote 22, p.3.
+[38] Transcript dated March 22, 2017, supra, footnote 26.
+[39] Transcript dated March 22, 2017, p. 127 lines 5 to 23.
+[40] Transcript of the hearing on March 23, 2017, at the Tax Court of Canada, p. 146, lines 20 to 25. See notice of appeal, para. 70.
+[41] Supra, footnote 17.
+[42] Wacky Wheatley's TV & Stereo Ltd. v. Canada, [1987] 2 C.T.C. 2311; Graham Construction Engineering (1985) Ltd. v. R., 97 DTC 342, p. 345.
+[43] Transcript dated March 22, 2017, p. 54, lines 15 to 28 and p. 55, lines 1 to 11.
+[44] Transcript dated March 22, 2017, p. 127, lines 5 to 23.

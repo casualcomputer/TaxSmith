@@ -1,0 +1,143 @@
+Title: 2237065 Ontario Inc. c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/421150/index.do
+Corpus path: corpus/cases/tcc/2019/2019-cci-189-421150-2237065-ontario-inc-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2019-09-03
+
+# 2237065 Ontario Inc. c. La Reine
+
+- Citation: 2019 CCI 189
+- Decision date: 2019-09-03
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4236, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+2237065 Ontario Inc. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2019-09-03
+Référence neutre
+2019 CCI 189
+Numéro de dossier
+2017-3749(GST)I
+Juges et Officiers taxateurs
+Susan Wong
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2017-3749(GST)I
+ENTRE :
+2237065 ONTARIO INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 3 avril 2019, à Toronto (Ontario)
+Devant : L’honorable juge Susan Wong
+Comparutions :
+Représentant de l’appelant :
+Gurdeep Bhalla
+Avocate de l’intimée :
+Me Rini Rashid
+JUGEMENT
+L’appel interjeté à l’encontre d’une nouvelle cotisation établie le 6 avril 2016 selon les termes de la partie IX de la Loi sur la taxe d’accise pour les périodes de déclaration s’échelonnant du 1er janvier 2011 au 31 décembre 2012 est rejeté, sans dépens.
+Signé à Ottawa, Canada, ce 3e jour de septembre 2019.
+« Susan Wong »
+La juge Wong
+Référence : 2019 CCI 189
+Date : 20190903
+Dossier : 2017-3749(GST)I
+ENTRE :
+2237065 ONTARIO INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Wong
+Introduction
+[1] L’appelante, 2237065 Ontario Inc., interjette appel de la nouvelle cotisation établie par le ministre du Revenu national le 6 avril 2016 sur des sommes de TPS/TVH percevables non déclarées, entre autres.
+[2] La nouvelle cotisation du 6 avril 2016 porte sur les périodes de déclaration s’échelonnant du 1er janvier 2011 au 30 juin 2014. L’appelante conteste seulement les nouvelles cotisations établies à l’égard de la période du 1er janvier au 31 décembre 2011 ainsi que du 1er janvier au 31 décembre 2012, soit les seules périodes dans lesquelles des sommes de TPS/TVH percevables non déclarées ont été établies (collectivement, la période). À ce chapitre, le ministre a établi de nouvelles cotisations à l’encontre de l’appelante s’élevant chacune à 6 947,98 $ et à 7 436,39 $ pour les années 2011 et 2012, respectivement.
+[3] Le propriétaire de l’appelante, Shammy Mohan Das, a témoigné au nom de celle-ci. Aucun autre témoin n’a été entendu.
+Question en litige
+[4] La question porte à savoir si l’appelante a fourni un service de transport de marchandises détaxé durant la période. L’appelante avance qu’elle n’était pas tenue de percevoir de la TVH, car ses services d’intertransporteur étaient détaxés.
+[5] De plus, l’appelante soutient que si elle était tenue de percevoir de la TVH, le ministre aurait dû établir le montant de la taxe en multipliant ses ventes par un facteur de 13/113, plutôt que par un facteur de 13 pour cent.
+Contexte factuel
+[6] M. Das a témoigné avoir commencé à conduire des camions en 2006 au Manitoba. Il est déménagé en Ontario en 2009 et a commencé à travailler comme chauffeur de camion intertransporteur pour Dhatt Transfreight Service Inc. (Dhatt) en 2010. Il affirme qu’il a dû constituer une société pour travailler pour Dhatt, ce qui a mené à la constitution en société de l’appelante.
+[7] M. Das a présenté une copie d’une lettre de Dhatt datée du 1er octobre 2013 (pièce A-1) laquelle dit ce qui suit :
+[traduction]
+À qui de droit, la société 2237065 ONTARIO INC., appartenant à Shammi Mohan Das, a été employée à titre d’entrepreneur indépendant assurant un service d’intertransport pour notre société Dhatt Transfreight Inc. de 2010 à 2013.
+Veuillez prendre acte que selon les termes de l’article 11 de la partie VII de l’annexe VI de la Loi sur la taxe d’accise (LTA), les services de transport de marchandises entre intertransporteurs sont détaxés.
+[8] M. Das a affirmé que durant la période, il a conduit les camions de Dhatt, tandis qu’il n’en possédait aucun. Il a témoigné que vers la mi-2013, l’appelante a acheté son propre camion, puis il a commencé à utiliser ce camion dans le cadre de son travail pour le compte de Dhatt.
+[9] Le 4 mai 2014, l’appelante a conclu un contrat de location de matériel et d’exploitation avec Fedex Freight Canada, Corp. [pièce R-1]. Ce contrat prévoit, entre autres, les suivantes : [traduction]
+a) l’appelante louera son matériel à Fedex et lui fournira les chauffeurs nécessaires pour assurer le transport, le chargement et le déchargement des marchandises au nom de Fedex [paragraphe 2 du contrat];
+b) l’appelante indemnisera Fedex pour tout réclamation, perte ou dommage avec responsabilité [alinéa 4c) du contrat];
+c) l’appelante obtiendra plusieurs types de protection d’assurance, incluant des polices de responsabilité civile générale relatives aux véhicules à moteur et aux marchandises, ainsi qu’une protection pour accident de travail [annexe « B » du contrat];
+d) si l’appelante omet de fournir une preuve d’assurance satisfaisante, Fedex peut résilier le contrat [sous-alinéa 1b)(i) de l’annexe « B » du contrat].
+[10] En contre-interrogatoire, M. Das a témoigné que l’appelante n’avait pas de contrat d’exploitation avec Fedex avant l’acquisition de son propre camion. Il a reconnu que le contrat d’exploitation, dans le cadre duquel l’appelante offrait ses services avant l’acquisition de son camion, était celui qui liait Fedex et Dhatt.
+[11] M. Das a témoigné avoir communiqué avec la ligne de soutien de l’Agence de revenu du Canada et demandé s’il était tenu de percevoir de la TVH lorsque son employeur n’en percevait pas à son égard. Il a affirmé qu’il avait compris qu’il n’était pas tenu de percevoir la TVH, puis qu’il s’était fié à ce conseil à son détriment.
+Dispositions applicables
+[12] L’appelante doit être un transporteur qui fournit des services de transport de marchandises dans le cadre d’une ou de plusieurs situations figurant à la Partie VII, Annexe VI de la Loi sur la taxe d’accise (la Loi) afin que ses services soient détaxés durant la période visée par l’espèce.
+[13] Le paragraphe 123(1) de la Loi comprend la définition suivante d’un « transporteur » :
+transporteur Personne qui fournit un service de transport de marchandises au sens du paragraphe 1(1) de la partie VII de l’annexe VI;
+[14] Un « service de transport de marchandises » s’entend par la définition prévue au paragraphe 1(1) de la Partie VII de l’Annexe VI, comme suit :
+service de transport de marchandises Service de transport d’un bien meuble corporel, y compris :
+a) un service de livraison du courrier;
+b) tout autre bien ou service fourni à l’acquéreur du service de transport en question par la personne qui fournit celui-ci, dans le cas où le bien ou le service fait partie du service de transport en question, ou y est accessoire, indépendamment du fait que des frais distincts soient exigés pour ce bien ou service.
+N’est pas un service de transport de marchandises le service, offert par le fournisseur d’un service de transport de passagers, qui consiste à transporter les bagages d’un particulier dans le cadre d’un tel service.
+[15] Quant au fret intercompagnies, l’article 11 de la Partie VII, Annexe VI prévoit les suivantes :
+11. [Fret intercompagnies] – La fourniture d’un service de transport de marchandises effectué par le transporteur du bien transporté au profit d’un autre transporteur, si le service fait partie d’un service continu de transport de marchandises et si l’autre transporteur n’est ni l’expéditeur ni le consignataire du bien.
+Discussion
+[16] Les faits matériels du présent appel sont semblables à ceux de la décision Vuruna c. La Reine, 2010 CCI 365, [2010] ACI no 436. Dans la décision Vuruna, l’appelant conduisait un camion assurant la livraison de pièces automobiles entre l’Ontario et les États-Unis. Il agissait à titre de sous-traitant pour une entreprise de transport qui, elle, était propriétaire du camion. En rejetant l’appel, la Cour a tenu compte d’une publication de l’Agence du revenu du Canada et des notes explicatives du projet de loi C-62 du ministre des Finances.
+[17] Dans le présent appel, l’appelante était sous-traitante de Dhatt, et M. Das exploitait l’un des camions de Dhatt durant la période visée.
+[18] Les notes explicatives du projet de loi C-62 ont été publiées par le ministre des Finances en février 1990. Il ne s’agit pas de l’interprétation officielle des dispositions législatives, néanmoins, elles peuvent être utiles pour glaner un point de vue de l’intérieur de l’intention du législateur.
+[19] La définition de « transporteur » a été introduite dans le projet de loi C-62. Les notes explicatives à son sujet sont rédigées ainsi :
+« transporteur » Ce terme désigne une personne qui fournit un service de transport de marchandises. Aucune limite n’est fixée quant au nombre de transporteurs dont les services peuvent être retenus pour effectuer un transport donné de marchandises. De même, une personne n’est nullement tenue de fournir effectivement un service de transport de marchandises pour être considérée comme un transporteur : pour être un transporteur, une personne doit seulement assumer une responsabilité au titre de la fourniture d’un service de transport de marchandises. Par conséquent, une personne qui conclut une entente avec un expéditeur pour effectuer un transport de produits d’un endroit à un autre est encore considérée comme un transporteur de ces produits, même si le travail est effectué en sous-traitance par un autre transporteur qui exécute le service au complet. Finalement, il est à noter qu’une personne n’est pas tenue de détenir une licence de l’État pour être considérée comme un transporteur aux fins de la TPS. Ainsi, le traitement réservé aux transporteurs s’applique aux exploitants indépendants propriétaires de camions ou de véhicules de messagerie qui fournissent des services de transport de marchandises, que ces exploitants soient légalement tenus ou non de détenir une licence à titre de transporteurs.
+[20] Selon ces notes explicatives, il semble clair que la question centrale porte à savoir qui assume la responsabilité à titre de fournisseur d’un service de transport de marchandises. En l’espèce, M. Das conduisait les camions de Dhatt durant la période, et Dhatt était l’entité responsable à titre de transporteur. L’appelante est seulement devenue responsable du service au moment de l’acquisition de son camion et de la conclusion d’un contrat avec FedEx en mai 2014.
+[21] Durant la période visée, l’appelante assurait la fourniture de services de chauffeur (à un transporteur) et n’était pas elle-même un transporteur fournissant un service de transport de marchandises. La disposition relative au fret intercompagnies figurant à l’article 11, Partie VII, Annexe VI, ne s’applique pas à l’espèce, car l’appelante n’était pas un transporteur à la période visée. En conséquence, les services de chauffeur fournis par l’appelante durant la période n’étaient pas détaxés, et elle était tenue de percevoir la TVH.
+[22] Quant à la prétention de l’appelante voulant que le ministre aurait dû établir le montant de la taxe en multipliant ses ventes par un facteur de 13/113, plutôt que par 13 pour cent, précisons que ce premier facteur est à utiliser lorsque le montant comprend le prix de vente et la TVH. Ce facteur permet d’isoler la somme d’un montant global d’une vente qui constitue la TVH. L’appelante n’a pas perçu de TVH, ainsi, il n’y a eu aucune combinaison des produits des ventes à la taxe. Le ministre avait raison d’utiliser le facteur de 13 pour cent.
+[23] En ce qui a trait au témoignage de M. Das selon lequel il s’était fié à des conseils inexacts lui ayant été communiqués par des agents de l’Agence du revenu du Canada, rappelons que notre Cour ne peut être liée par les conseils ou les interprétations de l’Agence du revenu du Canada. Le juge Paris a tenu les propos suivants dans la décision Grondin c. La Reine, 2015 CCI 169, [2015] ACI no 138 au paragraphe 21 :
+[U]n juge ne peut être lié par les interprétations erronées du ministère. Le juge en chef adjoint Bowman (tel était alors son titre), dans l’affaire Moulton c. La Reine, [2002] 2 CCI 2395 a indiqué ce qui suit au paragraphe 11 :
+L’appelant fait valoir avec beaucoup de conviction qu’il devrait avoir le droit de se fier aux conseils fournis par l’ACDR, lesquels conseils il a suivis de bonne foi. Je reconnais que le résultat peut sembler légèrement difficile à avaler pour les contribuables qui demandent des conseils aux fonctionnaires et s’attendent à ce que ces derniers soient en mesure de les conseiller correctement. Malheureusement, ces fonctionnaires ne sont pas infaillibles, et un juge ne peut être lié par les interprétations erronées du ministère. Toute autre conclusion aboutirait à un manque de cohérence et à de la confusion […]
+Conclusion
+[24] L’appelante a fourni des services de chauffeur durant la période visée et n’était pas un transport fournissant un service de transport de marchandises. En conséquence, les services fournis par l’appelante durant la période n’étaient pas détaxés, et elle était tenue de percevoir la TVH.
+[25] L’appel est rejeté sans dépens.
+Signé à Ottawa, Canada, ce 3e jour de septembre 2019.
+« Susan Wong »
+La juge Wong
+RÉFÉRENCE :
+2019 CCI 189
+NO DU DOSSIER DE LA COUR :
+2017-3749(GST)I
+INTITULÉ :
+2237065 ONTARIO INC. c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+Le 3 avril 2019
+MOTIFS DU JUGEMENT :
+L’honorable juge Susan Wong
+DATE DU JUGEMENT :
+Le 3 septembre 2019
+COMPARUTIONS :
+Représentant de l’appelant :
+Gurdeep Bhalla
+Avocate de l’intimée :
+Me Rini Rashid
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+[EN BLANC]
+Cabinet :
+[EN BLANC]
+Pour l’intimée :
+Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa (Canada)

@@ -1,0 +1,317 @@
+---
+title: "Mahdi v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/316765/index.do"
+last_modified: "2018-07-23"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2018 TCC 149"
+citation2: ""
+neutral_citation: "2018 TCC 149"
+decision_date: "2018-07-23"
+language: "en"
+item_id: "316765"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4965
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T11:42:10.430000+00:00"
+cases_cited_count: 14
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "feb76fa5ffa96aa834c5bdad0c7812948936ebf8763f06817f81a2d4066f14a0"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Mahdi v. The Queen
+
+- Citation: 2018 TCC 149
+- Decision date: 2018-07-23
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4965, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Mahdi v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2018-07-23
+Neutral citation
+2018 TCC 149
+File numbers
+2012-3872(IT)G
+Judges and Taxing Officers
+Randall S. Bocock
+Subjects
+Income Tax Act
+Notes
+A correction was made on August 31, 2018.
+Decision Content
+Docket: 2012-3872(IT)G
+BETWEEN:
+SABET MAHDI,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeals heard on February 13, 2018, at Toronto, Ontario
+Before: The Honourable Mr. Justice Randall S. Bocock
+Appearances:
+Counsel for the Appellant:
+Charles Haworth
+Counsel for the Respondent:
+Rishma Bhimji
+AMENDED JUDGMENT
+IN ACCORDANCE with the Amended Reasons for Judgment attached, the appeal in respect of the 2008 taxation year is allowed, the penalties are deleted and the matter is referred back to the Minister of National Revenue for reconsideration and reassessment.
+Costs are awarded in favour of the Appellant in accordance with the Tariff subject to either party’s right to make submissions otherwise within 30 days hereof.
+The Amended Judgment and the Amended Reasons for Judgment are issued in substitution for the Judgment and Reasons for Judgment dated July 23, 2018.
+Signed at Toronto, Ontario, this 29th day of August 2018.
+“R.S. Bocock”
+Bocock J.
+Docket: 2012-5068(IT)G
+BETWEEN:
+KHALED LASHIN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeals heard on February 13, 2018, at Toronto, Ontario
+Before: The Honourable Mr. Justice Randall S. Bocock
+Appearances:
+Counsel for the Appellant:
+Charles Haworth
+Counsel for the Respondent:
+Rishma Bhimji
+AMENDED JUDGMENT
+IN ACCORDANCE with the Amended Reasons for Judgment attached, the appeal in respect of the 2008 taxation year is allowed, the penalties are deleted and the matter is referred back to the Minister of National Revenue for reconsideration and reassessment.
+AND FURTHER the appeal in respect of the 2009 taxation year is dismissed and the penalties imposed shall remain.
+Given the mixed result in the cause, there shall be no costs.
+The Amended Judgment and the Amended Reasons for Judgment are issued in substitution for the Judgment and Reasons for Judgment dated July 23, 2018.
+Signed at Toronto, Ontario, this 29th day of August 2018.
+“R.S. Bocock”
+Bocock J.
+Citation: 2018 TCC 149
+Date: 20180829
+Docket: 2012-3872(IT)G
+BETWEEN:
+SABET MAHDI,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+Docket: 2012-5068(IT)G
+AND BETWEEN:
+KHALED LASHIN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+AMENDED COMMON REASONS FOR JUDGMENT
+Bocock J.
+I. Introduction
+A. Appellants’ Relationship
+[1] The Appellants, Sabet Mahdi and Khaled Lashin, are not related parties in either a familial or legal context. However, they are close friends, were represented by common legal counsel and offered factual evidence concerning the other’s appeal. Unfortunately, they also retained the same accountant, Mr. Muntaz Rasool (“Rasool”), to prepare their respective and relevant T1 personal tax returns in these appeals. At the hearing, both Appellants and their common legal counsel referred to Mr. Sabet Mahdi and Mr. Khaled Lashin as “Sabet” and “Khaled”, respectively. For simplicity, this Court will depart from its usual practice and do the same within these reasons.
+B. Structure of Reasons
+[2] Although written as common reasons for judgment, to the extent circumstances and facts diverge between Sabet and Khaled, separate description will be made in the “Facts” section. The analysis of each Appellant’s appeal will be entirely distinct for several reasons: there are different appeal years, different filing circumstances and filing positions for each of Sabet and Khaled and each Appellant’s differing affinity with the “accountant” Rasool. Most importantly perhaps, the legal test concerning the imposition of subsection 163(2) penalties, levied against both Appellants, has a subjective and therefore taxpayer specific component.
+C. Filing Positions, Tax Returns and (Re)assessments
+(1) Sabet: 2008 taxation year
+[3] For 2008, a tax return for Sabet was filed accurately disclosing $84,342.00 of T4 employment income. Quite inaccurately, it also contained a business loss of $290,323.08. The Minister of National Revenue (the “Minister”) initially assessed the return as filed and paid the claimed refund to Sabet of $21,677.25, being a sum equal to of the all 2008 tax deducted from T4 source income. The business losses were entirely fictitious. Sabet had no business. He was a technical designer of molds and tooling, and later a technical design manager, whose sole source of income was through employment. The fictitious business losses were disclosed through a “statement of agent activities” completed and filed by Rasool. This device deployed by “fiscal arbitrators” seeks to mine a mother-lode of secret tax savings available to the “knowledgeable” few. As described below, Rasool was a then recent proselytiser for the knowledgeable few. Sabet, for reasons described below, believed Rasool.
+[4] The return was filed in late April, 2009. By November 2009, the Canada Revenue Agency (the “CRA”) was on to the scheme. It wrote to Sabet, requested that he complete a business questionnaire and otherwise provide evidence of his business, its revenue, costs and more fulsome records. Although none existed, Sabet forwarded the request to Rasool. Rasool prepared the usual inscrutable and incomprehensible “Notice”, then sent it to Sabet and requested that Sabet sign and send it to CRA. Sabet did so. In March 2010, CRA responded further. The agency responded in detail, highlighting the need for compliance with the Act and stated in bold print the possibility of the subsection 163(2) penalties. In reply, on April 15, 2010, Sabet, at the direction of Rasool sent further bafflegab together with a threat of an action for “breach of contract” for good measure. On June 18, 2010, the CRA indicated it would reassess and disallow the entire loss and any carry-back requests. Five days later, coached yet again by Rasool, Sabet issued a “Notice and Demand”. Although lengthier than previous correspondence, it is no less non-sensical. In response, a reassessment issued and the CRA enforcement branch garnished Sabet’s wages.
+[5] The garnishment seems to have awakened Sabet to the usual reality those things which are too good to be true and make no sense, are not and do not. Ultimately, he retained counsel, filed a notice of objection, assisted CRA as a witness in the criminal prosecution of Rasool and is now before the Court to contest the penalties imposed by the Minister, the sole issue in dispute.
+(2) Khaled: 2008 and 2009 taxation years
+[6] For taxation year 2008, the Minister initially assessed Khaled on the “as filed” basis of $51,550.06 of employment income and a gross business loss of $197,542.20. Khaled’s business losses were also disclosed in a “Statement of Agent Activities”. The CRA sent a similar inquiry letter, to that sent to Sabet, this time to Khaled on November 13, 2009. It was responded to by Rasool via Khaled. Nothing further seems to have happened between the period of the initial CRA inquiry, Rasool’s response and the due date for Khaled’s next income tax return for 2009. Accordingly, a 2009 return was filed on April 27, 2010 together with a request for losses to be carry-backed to previous taxation years. In the hunt now, the Minister did not issue a notice of confirmation for 2009. Instead, on June 18, 2010, the CRA resubmitted certain questions to Khaled for response, this time pertaining to business details and carried back business losses for 2005 through 2009 taxation years. After that, a very similar exchange of responses to that of Sabet unfolded. Inscrutable and incomprehensible submissions were notionally made by Khaled, ghost written by Rasool, and then sent to CRA. This culminated in the reassessment and the imposition of penalties, but for Khaled these included both the 2008 and 2009 taxation years.
+D. Mantaz Rasool (“Rasool”)
+[7] The accountant, Mantaz Rasool, figured prominently in the preparation, submission and choreography of the tax returns, supporting schedules and dealings with the CRA. This ceased to be the case entirely once confirmations of assessments and garnishment orders began to issue. Suddenly, Rasool disappeared. What differs in these appeals from others is the undisputed fact that Rasool appears to have been known to Sabet as his accountant for many years before Rasool’s “fiscal arbitrator” phase. The name Rasool frequently appears before this Court as a fiscal arbitrator “coach” and advocate.
+(1) Rasool in relation to Sabet
+[8] Rasool was also the accountant to Sabet’s father and his business for many years. Until the appeal years, Rasool’s previous track record as an accountant for Sabet’s father was uneventful and compliant. In addition, Rasool had started to act for Sabet in the preparation and filing of Sabet’s own simple tax returns from the year 2000 onwards. The returns would be prepared on the basis of information slips, Sabet would receive the confirmation of e-filing and pay Rasool approximately $100.00 for such services.
+[9] In 2007, things changed somewhat. Rasool proposed an “investment” to Sabet concerning StockOptix. While no documents were introduced regarding this program, Sabet purchased the “investment” and paid Rasool some $6,000.00 in fees. This yielded Sabet a 2007 tax refund of approximately $12,000.00. The 2007 return was assessed as filed. It is undisputed evidence that it was never further reassessed. Sabet retained the refund.
+[10] In 2008, Rasool suggested to Sabet that he had an even better method which would generate a refund (a “return” as Sabet called it) in excess to that of even StockOptix in 2007. This new “methodology” was explained with the usual certainty of an experienced confidence man: teams of accountants and lawyers had studied and approved it; it involved a bifurcation of natural and artificial personality; a parallel system of tax filing existed to the knowledge of only a few and the process and code for engaging such benefits require perseverance, strict compliance and, not surprisingly, sizeable pre-payment of professional fees. All of this was explained to Sabet by Rasool in early 2009 at the time of their usual annual tax document exchange: in that year, for 2008. Sabet received the full explanation and reviewed examples of reproduced redacted tax returns, all “approved by the CRA”. After the completion of Rasool’s sales job, Sabet was in. He paid Rasool a fee up front equal to 40% of the likely value of the refund or “return”.
+(2) Rasool in relation to Khaled
+[11] Sabet was impressed with the “methodology”. He wanted to share it with his good friend, Khaled. He phoned and advised of a method for getting a bigger tax refund. Khaled said that he would need to meet with Sabet’s accountant, Rasool.
+[12] There were at least three meetings at which Rasool explained the “methodology” to Sabet and/or Khaled. At the third of such meetings, Khaled brought along two additional people. The meetings occurred exclusively at coffee shops. The first woman was a potential subscriber to the plan. The second was a then PST auditor with the Ontario Ministry of Revenue. She testified in this appeal. The PST auditor (now a GST auditor) was there as a family friend, not in any official capacity. The potential subscriber bolted, presumably never to meet Rasool again. The provincial revenue employee, after reviewing the redacted examples of documents, said two things: that the redacted correspondence appeared to bear the authentic CRA logo and that she was unfamiliar with such a new methodology, having never seen it before.
+[13] Ultimately, Khaled also became a client of Rasool, paid the fees in installments for the 2008 taxation year, some $12,000.00 in all. As described above, Khaled also retained Rasool for the 2009 taxation year. Aside from the initial questionnaire sent by CRA, received and responded to in November, 2009, at the filing deadline in April 2010, no further response had been received by Khaled from the CRA. The initial response sent by Rasool via Khaled to CRA for 2008 had seemed, at least to Khaled, to work precisely according to Rasool’s assurances. That luck came to an end. The 2009 return was completed, however no refund was paid. On a meagre positive note, Khaled did not full pay the 2009 tax preparation fees.
+[14] In all years prior to 2008 (he came to Canada in 2004), Khaled had retained the services of an accountant who, without incident, had prepared his tax returns. The fees paid for such preparation were in the neighbourhood of $50.00.
+E. Additional Factual Issues and Observations
+[15] The following constitute somewhat unusual circumstances, occurrences and sequences of events which remove these appeals, or certain portions of them at least, from more common place “fiscal arbitrator” appeals before this Court.
+(i) Sabet’s 2008 T1 General Tax Return
+[16] It was after the success of the 2007 reported StockOptix investment that Rasool disclosed, during his annual meeting with Sabet, the even better tax plan for 2008. Between the initial presentation and the filing of the 2008 T1 tax return, Sabet attended two additional meetings with Rasool as described herein. After the third meeting, Sabet did not communicate with Rasool again aside from verbally indicating he was willing to proceed with the plan.
+[17] Sabet’s testimony was clear and uncontroverted. The first time he viewed his purported filed 2008 tax return was in the latter part of 2009 when he required it for divorce proceedings which had turned rancorous. He contacted Rasool for a copy. He was offered only page 1. He ultimately received a full copy directly from the CRA in late 2009. He produced it to his family law lawyer. According to Sabet, the lawyer left Sabet with the clear impression there was a problem. With respect to the 2008 tax return produced by the Respondent at trial, Sabet asserts the signature is not his. Comparatively, the signature is much different than the one Sabet identifies as his on subsequent CRA correspondence. Similarly, his filed notice of objection contains a signature, also disavowed by Sabet, but different again from the signature on his T1 tax return for 2008.
+[18] The fees paid by Sabet to Rasool were not the 40% requested. The amounts were closer to 20% and paid up front. The amounts were paid in compensation for the considerable research, materials and opinions Rasool asserted were required to perfect the filing plan. It was clear from Sabet that elaborate volumes of redacted materials were produce to substantiate the validity of the plan.
+(ii) Khaled’s 2008 and 2009 T1 General Tax Returns
+[19] At Sabet’s request, Khaled attended a preliminary meeting with Rasool where he was given the sales pitch for the plan. Khaled remained unconvinced. He requested a further meeting and enticed the two other family friends to attend. The two participated and, presumably, added to the “security in numbers”. The second person, the PST auditor would provide confirmation or rejection of the plan. As mentioned, the first friend bolted. The second simply said she was unfamiliar with the scheme, but the documents within the promotional materials bore what looked like authentic CRA markings.
+[20] Khaled elected to proceed, provided his information slips and a small (approximately $1,000.00) advance for the fees. He executed the 2008 T1 without reviewing the details, although he did note the approximately $11,000.00 refund claimed. He also queried the use of “per”, pre-printed on the signing line. He was satisfied with the answer of Rasool: “simply part of the method”. The loss carry back form submitted conveniently contained no figures on the signature page. The signing of the tax return occurred in a parking lot.
+[21] After filing, advice of Khaled’s 2008 tax refund came from Rasool. He presented himself to Khaled and advised that Khaled’s refund had been processed. This was news to Khaled. However, upon reviewing his bank account on-line, the refund was indeed there. Within minutes Rasool secured a cheque for the unpaid balance of his 2008 preparation fees.
+[22] In November 2009, the CRA provided a business questionnaire to Khaled. The portion requiring completion was sent to Rasool. Rasool completed it on behalf of Khaled, sent it back, with explicit instructions regarding the method for signing and sending. These instructions carried the usual mythical hallmarks endemic to the “natural persons” method.
+[23] All of these curious words were explained away as “lawyer’s lingo” and part of the process for “educating” CRA in these ancient, but valid legal and accounting methods.
+[24] The CRA did not further respond to the November 2009 communication or reassess the 2008 return before the 2009 filing deadline in April 2010. Communication between Khaled and Sabet following April 2009 was notably absent from testimony. Khaled may have approached CRA by telephone before his return for 2009 was dated and filed on April 27, 2010. The date of such a conversation is not clear from testimony. That conversation concerned the concept of “natural persons”. Khaled was left with the view CRA unquestionably disbelieved the existence of such a concept.
+[25] Leading up to the filing of the 2009 tax return in April 2010, Rasool contacted Khaled, received the usual information slips and prepared the return. No preparation fee was paid up front, but consistent with 2008, would be paid upon the receipt of the refund. The return itself adduced into Court contains additional marginal notes and deletions, none of which were made by him or can be explained by him.
+[26] No refund for 2009 was received. In July 2010, the wheels fell off. CRA denied the refunds for both years and threatened penalties. Quickly, Rasool was less helpful and ultimately vanished. Khaled and Sabet, would next see him in criminal proceedings where they cooperated with CRA criminal investigations and agreed to testify at Rasool’s criminal trial.
+(iii) The Chain of Reliance?
+[27] The analysis in Part IV of these reasons will assess weight and importance to the following facts. However, the sequence of the circumstances of both these appeals is uncommonly comingled and was mutually consistent in testimony. As a further observation, Khaled, who testified second, was excluded during Sabet’s oral evidence. For the purposes of that analysis, the Court notes the following facts cumulatively and consistently learned from testimony and documents before the Court:
+1. Sabet and Khaled were not co-workers, but close family friends sharing common cultural backgrounds;
+2. English was neither Sabet nor Khaled’s first language. Sabet’s father was respected by both and, Khaled, the more recent newcomer to Canada, appeared to consider Sabet and Sabet’s family as mentors and exemplars;
+3. Rasool, the ultimate unscrupulous “natural person” promoter commencing in 2008, had provided uneventful and reliable accounting advice to Sabet’s father and his business for some 20 years and to Sabet, himself, since 2000 or so;
+4. even the more speculative StockOptix plan in 2007, while a departure in terms of fees and concepts from previous filing years, had not resulted in review, questioning or reassessment of Sabet by CRA. This fact was known to Khaled, as well;
+5. both Sabet and Khaled has used accountants previously without incident and had not prepared their own tax returns;
+6. Sabet and Khaled asked many questions and were provided with answers. The issue of how incredulous they may or ought to have been is analyzed below;
+7. in total, Sabet and Khaled held 2 or 3 face to face meetings with Rasool involving the other close friend and, in one instance, someone who was ostensibly, at least from their perspectives, a “government tax officer”;
+8. Rasool held himself out as “CA”, was backed by his uneventful and reliable years of accounting services, appeared trustworthy and actually had been known to be so to both Sabet and Khaled. In a way, Sabet’s father had unknowingly been a constructive reference to Rasool.
+(iv) How Incredulous Ought Sabet and Khaled To Have Been?
+[28] Preliminarily, an analysis of Sabet and Khaled’s lack of incredulity, on one hand, and their gullibility on the other is necessary. To do so, the Court is directed to make factual findings regarding their education, sophistication, background and comprehension skills.
+1. Sabet
+[29] Sabet was a mechanical engineer technician. Presently, he is a supervisor. His accreditation and education were attained at the community college level. He works exclusively in the area of design and tooling for medical products. He has no special or general knowledge of tax or law or accountancy. This was borne out during testimony by his characterization of the StockOptix donation program as an investment. This further supported the acceptability of the large initial contribution in 2007 for the “investment”: a kind of subscription price.
+[30] While his comprehension of tax law and tax accounting was minimal, the consistent recollection of the contorted rationale for the natural persons methodology and his recollection of the promotional materials were quite good. Unfortunately, the minimal understanding and potential language barrier coupled with good memory skills did not appear to lead to doubt.
+2. Khaled
+[31] Khaled has a master degree in Business IT from Middlesex University in England. He has been in Canada since 2004. He works for the Canadian based operations of a large multi-national internet provider.
+[32] His primary friend in Canada is Sabet. Khaled’s English language skills are sufficient, but occasionally halting. He has little knowledge of law or accountancy. These conjunctive weaknesses were borne out by his genuine confusion of “refund” with “return”, deadline dates for filing annual personal tax returns and, not surprisingly, the nomenclature utilized by the “natural person” patois.
+3. In Combination
+[33] It is clear that Khaled discussed the concepts proffered by Rasool with Sabet, his other friends and likely with anyone else who would offer an opinion on it. His recollection of the components of the strange mantras of “natural persons” was consistent with an intelligent person who simply lacks the experience, training and language skills to discern correct but unduly complicated legal and tax concepts from incorrect and equally complicated bunk.
+[34] Ultimately however, as analyzed in Part IV of these reasons, upholding 163(2) penalties requires a consideration of these specific personal backgrounds separately and distinctly to assess the level of awareness each taxpayer must have in the coincidental circumstances. A recent overarching description of the balancing required in assessing such penalties is found at paragraph 21 of Wynter v HMQ, 2017 FCA 195 where Justice Rennie states:
+[21] While subjective considerations may play a role in either analysis, gross negligence is determined with reference to an objective test. In particular, where gross negligence is alleged, I would expect consideration of whether the conduct of the taxpayer at issue is such a marked departure from what would be expected that it constitutes a high degree of negligence sufficient to be characterized as a marked departure from the standards, practices, and due diligence expected of a responsible taxpayer. The cautionary words of the Supreme Court of Canada in Guindon, at paragraph 61, are equally applicable here; these penalties “are meant to capture serious conduct, not ordinary negligence or simple mistakes”.
+II. The Law
+A. Subsection 163(2)
+[35] The relevant portions of subsection 163(2) of the Act provide as follows:
+163(2) Every person who, knowingly, or under circumstances amounting to gross negligence, has made or has participated in, assented to or acquiesced in the making of, a false statement or omission in a return, form, certificate, statement or answer (in this section referred to as a “return”) filed or made in respect of a taxation year for the purposes of this Act, is liable to a penalty…
+[36] According to subsection 163(3), the burden of establishing the facts justifying the assessment of the penalty is on the Minister.
+B. Self-Reporting System
+[37] The Supreme Court of Canada in the case of R. v. Jarvis, 2002 SCC 73 highlighted the obligations of taxpayers and well as the penalties to ensure taxpayers feel so obliged to comply:
+49 Every person resident in Canada during a given taxation year is obligated to pay tax on his or her taxable income, as computed under rules prescribed by the Act (ITA, s. 2 …). The process of tax collection relies primarily upon taxpayer self-assessment and self-reporting... Subject to certain time limitations, the Minister may subsequently reassess or make an additional assessment of a taxpayer’s yearly tax liability (s. 152 (4)).
+50 While voluntary compliance and self-assessment comprise the essence of the ITA’s regulatory structure, the tax system is equipped with “persuasive inducements to encourage taxpayers to disclose their incomes”… For example, in promotion of the scheme’s self-reporting aspect, s. 162 of the ITA creates monetary penalties for persons who fail to file their income returns. Likewise, to encourage care and accuracy in the self-assessment task, s. 163 of the Act sets up penalties of the same sort of for persons who repeatedly fail to report required amount, or who are complicit or grossly negligent in the making of false statements or omissions.
+51 … self-reporting characteristics that the success of its administration depends … As Cory J. stated in Knox Contracting, supra, at p. 350: “The entire system of levying and collecting income tax is dependent upon the integrity of the taxpayer in reporting and assessing income. If the system is to work, the returns must be honestly completed.” It is therefore not surprising that the Act exhibits a concern to limit the possibility that a taxpayer may attempt “to take advantage pf the self-reporting system in order to avoid paying his or her full share of the tax burden by violating the rules set forth in the Act”…
+[Emphasis added. Citations omitted.]
+[38] The object of these provisions is the efficacy and functionality of a voluntary self-reporting and self-assessing tax system.
+[39] A primary operative aspect of this system is that the heavy hammer of the tax authority to penalize remains sheathed unless and until the taxpayer, as asserted by the Minister in these appeals, fails to exercise sufficient care and accuracy to the extent of gross negligence in the preparation of her tax return, frequently without regard to whom that actual task is delegated. The taxpayer gets the benefit of a self-assessing and self-reporting system, but she or he must act honestly, timely and in good faith, failing which the compliance and penal provisions of the Act shall be engaged.
+C. Elements of Subsection 163(2) Penalties
+[40] This positive obligation of the taxpayer and the failure to discharge same will determine whether penalties are levied. Within subsection 163(2), two elements must be present for a finding of liability for a penalty:
+a) false statement in a return and;
+b) knowledge, or if not actual knowledge, the participation, assent or acquiescence in the making of that false statement.
+1. False Statements
+[41] Based upon the evidence, and aside from the issue of the authenticity of Sabet’s return discussed below, there is no question that all the information submitted in the returns of both Appellants relating to the “agency” businesses was manifestly false. There simply was no such business, period. Any reference to such losses claimed thereunder or refunds arising therefrom are also fatally flawed by the same fundamental falsehood. Therefore, the first element of a false statement on a return is established.
+2. Actual Knowledge or Gross Negligence
+[42] The “knowledge” of the manifest untruthfulness of the business is slightly more nuanced in cases where the taxpayer did not review or read the returns before signing them. This is further complicated in cases concerning fiscal arbitrators. Reviewing the chosen script, verbiage and conceptual framework used by these “advisors” causes consternation even to otherwise experienced tax accountants, lawyers and judges alike. How can one discern or know such statements are false, or true for that matter? They simply lack sensible language necessary for such a determination. This conclusion can occur even in the case where such statements are read rather than heard. Neither Appellant was familiar with “tax jargon”. This is readily apparent and believable. They could not discern the “gibberish” of the fiscal arbitrators from complex and legalistic language of tax law and accountancy. This unfortunate fact is the fiscal arbitrator’s allure.
+[43] In these appeals, the Respondent has alleged either knowledgeable false statement or gross negligence. The Court rejects actual knowledge given the circumstances concerning and involvement of Mr. Rasool. Factually, the bogus business losses at the time of the 2008 returns were not actually known to Sabet or Khaled. The question is whether Khaled or Sabet were grossly negligent in allowing the inclusion of the false statement.
+[44] Gross negligence is beyond simple negligence. Gross negligence involves a greater standard than simply a failure to use reasonable care. Gross negligence involves a high degree of negligence tantamount to intentional acting or an indifference to compliance with the law: Venne v. Canada [1984] FCJ No. 314. It is conduct that borders on recklessness: Farm Business Consultants Inc. v. Canada [1994] TCJ No. 760 (QL).
+[45] Certain factors should be utilized to assess whether conduct is grossly negligent. Generally, these were laid down in DeCosta v. The Queen, 2005 TCC 545, at paragraph 11 as:
+a) the magnitude of the omission in relation to the income declared,
+b) the opportunity the taxpayer had to detect the error,
+c) the taxpayer’s education and apparent intelligence,
+d) genuine effort to comply.
+3. Wilful Blindness
+[46] Wilful blindness may constitute gross negligence in the income tax penalty context. In both Canada v. Villeneuve, 2004 FCA 20 and Panini v. Canada, 2006 FCA 224, it was held that the notion or construct of wilful blindness applies in respect of gross negligence penalties under subsection 163(2) of the Act.
+[47] Similarly, Justice C. Miller in Torres v. The Queen, 2013 TCC 380, provided a framework for analysis in cases concerning both penalties and fiscal arbitrators and their ilk. These are as follows:
+a) knowledge of a false statement can be imputed by wilful blindness.
+b) the concept of wilful blindness can be applied to gross negligence penalties pursuant to subsection 163(2) of the Act. …
+c) in determining wilful blindness, consideration must be given to the education and experience of the taxpayer.
+d) to find wilful blindness there must be a need or a suspicion for an inquiry.
+e) circumstances that would indicate a need for an inquiry prior to filing, or flashing red lights…, include the following:
+i) the magnitude of the advantage or omission;
+ii) the blatantness of the false statement and how really detectable it is;
+iii) the lack of acknowledgement by the tax preparer who prepared the return in the return itself;
+iv) unusual requests made by the tax preparer;
+v) the tax preparer being previously unknown to the taxpayer;
+vi) incomprehensible explanations by the tax preparer;
+vii) whether others engaged the tax preparer or warned against doing so, or the taxpayer himself or herself expresses concern about telling others.
+f) the final requirement for wilful blindness is that the taxpayer makes no inquiry of the tax preparer to understand the return, nor makes any inquiry of a third party, nor the CRA itself.
+III. Position of the Parties and Issues
+[48] In penalty cases, it is particularly important to outline the parties’ positions since the Minister bears the onus.
+A. The Respondent’s Submissions
+[49] There is no dispute, there were false statements in the returns: there were no businesses in respect of which losses were claimed, resulting in the refunds.
+(1) Sabet
+(i) obligated to make inquiries
+[50] There were flashing red lights that required Sabet to make inquiries and review his 2008 tax return. The red lights were: the lack of formal office meeting, only a coffee shop; Rasool did not identify himself as a tax preparer; the exorbitant fees in contrast to previous years; no real explanation of the method offered by Rasool; the departure from previous e-filing; lack of focus and the magnitude of the false statement. These signals were sufficient to draw Sabet’s attention to the filing if he had not been wilfully blind. Blind trust is not permitted to allow a certification that all was accurate and correct in the tax return. A simple review of the return would have revealed the clear false statements. Sabet’s failure to request a copy of the return is equivalent to signing it without review. This is further supported by the requirement according to Rasool that it be paper filed unlike previous years.
+(2) Khaled
+(i) Obligated to make inquiries
+[51] In addition to the warning signs for Sabet, Khaled had additional cause for caution: Rasool was previously entirely unknown to him; any simple explanations were suspicious, execution of the returns was undertaken in a parking lot; there was no receipt of a copy after signing; all of which, should have raised concerns sufficient to cause careful review of the returns in both years.
+(ii) Chose not to review return but blindly trusted Rasool
+[52] Khaled ignored the return because he simply wanted the refund. That desire allowed him to accept a quick flip through the return, without review. He then executed it, unquestionably, where directed to by Rasool in a parking lot. Further, beyond the time of filing, the conduct of the parties during the initial query and representation phases allows the Court to draw and transfer an inference of the state of mind back to the relevant time of filing the return.
+B. Appellants’ Submissions
+(1) Sabet
+(i) 2008 Tax Return as filed was never reviewed by Sabet
+[53] In jurisprudence assessing gross negligence penalties through wilful blindness, it is required that the taxpayer view, perceive and then avoid and ignore the false statements. Factually, Sabet did not review the return. He did not sign it. He merely, like in past years, agreed to generally proceed with the plan with his accountant of many years. How could he detect the false statement? He simply never saw it because he did not receive, sign and file his 2008 tax return: Boateng v HMQ, 2017 Carswell Nat 7260 at paragraph 29.
+(ii) the surrounding Facts would disclose no warning signs
+[54] Again, central to the other factors in Torres, there simply was no review of the contents because the return was not presented. The blatantness of the false statement, the lack of execution by the tax preparer, the strange symbols and previously unfamiliar knowledge of the tax preparer all fail to apply to Sabet. No anchor attaching wilful blindness to the tax return exists; an unpresented tax return robs Sabet of the opportunity of review. Given the fraud, - - the return does not even bear his signature - - the penalties are deleted.
+(2) Khaled
+[55] Khaled did not knowingly making a false statement.
+(i) permitted to rely on accountant and not read 2008 tax return
+[56] Throughout the process leading up to execution of the tax return for 2008, Khaled was not indifferent. He researched Rasool, he discussed the plan with friends, brought whom he thought was an expert to the briefing meeting (who did not criticize the plan) and then proceeded with the plan because his good friend, whose own father’s accountant was also the preparer, did so as well.
+(ii) no evidence of accuracy 2009 questioned
+[57] Executing the 2009 return, in addition to being supported by the due diligence for 2008, was further buttressed by Rasool’s initial success with the business questionnaire submitted to CRA in 2009 related to the Khaled’s 2008 tax return. Khaled’s relative newness to the system, his language skills and the lack of CRA response allowed him to proceed again to trust Rasool and file accordingly. Further the 2009 tax return before the Court is of questionable authenticity.
+IV. Analysis and Decision
+a. Generally
+[58] These particular appeals require separate evaluation in light of the distinct elements concerning differing circumstances concerning signing and review, likely comprehension levels and due diligence. As an observation, both appeals have inter-connected reliances, associations and, in a way, mutual assurance, at least in 2009. This arises from a jointly known and discussed decision to proceed. In a way, such a tandem move forward added security. Perhaps this is easier to appreciate in reverse. If one had proceeded, but the other had not, the Court would be asked to construe that negative decision of one against the affirmation of the other.
+b. Sabet
+[59] For 2008, Sabet’s penalties are to be cancelled. Of prominent consideration for this determination by the Court are the following facts and conclusions going to heart of the factors established in DeCosta and Torres.
+(i) his own positive and uneventful experience with Rasool as his tax advisor for some 8 previous uneventful years;
+(ii) even more recently and profitably, his 2007 experience with Rasool’s promoted StockOptix investment;
+(iii) the fact his own father’s business had utilized the services of Rasool for many years;
+(iv) he was not given, not did he review or sign his 2008 tax return. The return filed was a “forged document”. There is no evidence before the Court to suggest otherwise. Penalties relate to the time the return is signed and the mindset during that time. In the context of wilful blindness, the Court cannot assess the mindset and review undertaken by a taxpayer during a critical event that did not exist or occur;
+(v) the due diligence meetings were attended by Sabet together with his friend, Khaled. While in a coffee shop, they still occurred and dispel partially the notion of blind faith or passivity.
+[60] The usual “come by chance” relationship with tax preparer is entirely missing in the facts relating to Sabet’s appeal. The facts and conclusions above outlined a history of a dependable and uneventful relationship between Sabet and his father and Rasool. Section 163(2) penalties are always specifically factually dependent. Generally cases upholding penalties, at the outset, reflect situations where the relationship with the tax preparer is non-existent, cursory or fleeting: Hogg v HMQ, 2017 TCC 231; Janovsky v HMQ, 2013 TCC 140; Khatthar v HMQ, 2015 TCC 338, among many others. The longevity of the relationship, the personal example and the previous uneventful service set Sabet’s appeal apart from that usual set piece. Moreover, the weight to be given this fact offsets other factors. Sabet was not “pitched to use” Rasool, but had done so for many years: Sam v HMQ, 2016 TCC 98. In fact, he was an unwitting promoter for Khaled. It is difficult to imagine such a factually unique history of dutiful service by an accountant converting into prime recruiter for such an illegitimate tax scheme.
+[61] All of this history is relevant because it diminishes the need to inquire of the tax preparer’s reputation from third parties; it makes impossible consultation with one’s own accountant (who was the very Rasool who went rogue) and other relatives (who used Rasool themselves).
+[62] The magnitude of the discussed refund (business losses were not discussed or reviewed) was large, but not massive. The 2008 refund was larger, but consistent with the previous tax year. The false statements, detection and requests were dullened by the inquiries, meetings, and longevity of the relationship. Concerns expressed by others simply did not exist for Sabet given Rasool’s history with him and with Sabet’s father. The subsequent correspondence with CRA post-dates the actual filing time and itself appears to avoid the issue of the business losses. In all, in combination with the absence of an authentically filed return, Sabet’s conduct was far from exemplary, was negligent, but not to the point of requiring inquiry beyond that made.
+c. Khaled
+1. 2008
+[63] While much closer to the line, Khaled must also succeed in having his penalties deleted for 2008.
+[64] Khaled did make queries. While he did execute his tax return with minimal review, he did query odd things on the return: the “per” on the signing line which he, himself, did not write. He queried the amount of the refund in order to re-confirm its acceptability. In context, it was the trusted, experienced and long-time accountant of his friend and friend’s respected businessman father who offered explanations to a taxpayer not familiar with the system and whose first language was not English. As well, there were sections of his return which, based upon the evidence before the Court, did not contain his signature, but instead a facsimile not of his writing. Further, the business loss carry-back request conveniently contained the actual numbers on a different page than his signature. On balance, this suggests the entire return was not present when he signed. Regarding third parties engaging or warning regarding Rasool, with respect to 2008, Khaled proceeded in lock step with his mentor and friend, Sabet, after due diligence and assurances. These were obtained again through meetings, queries and then past history.
+[65] The same holds for the inscrutable answers provided. Khaled’s questions were answered admittedly in language which before this Court may seem odd and non-sensical. But Khaled does not spend his days in law, accountancy or business transactions involving tax, investments or profit or loss: Anderson v HMQ, 2016 TCC 93 at paragraph 81. He does information technology. It has its own baffling lingo, but entirely different than the stock in trade of law, accountancy or tax. The Court believes that prior to mid-2009, Khaled had few reasons to expect he could do much else in the way of inquiry or due diligence to assure himself his tax filings were acceptable. He even brought someone he knew to be in tax auditing (to the extent he understood the field) to a meeting before proceeding to file his 2008 return.
+[66] As to detection based upon warning signs arising from blatant falsehood or magnitude of the return there exist plausible explanations. At the time of signing, the return was assembled in a user friendly and “crafty” fashion: the business losses and carry backs were hidden. Fees were not paid until the refund was received. Even the refund, at $11,000.00 in 2008 was not mammoth, but merely large. It appears to have been consistent with Sabet’s 2007 refund which to this day stands without reassessment and was also the work of Rasool. This was front of mind for Khaled and known to him in April 2009 when he signed his 2008 tax return. As such, there was no skeptic in the ranks or skepticism in his mind. Overall, there were simply no flashing red lights. Further, the cautionary signals were well masked to an unsuspecting, trusting and relatively new filer.
+2. 2009
+[67] The subsequent filing year of 2009 is factually different for Khaled. Relevant events occurred after April 2009 and before the completion and filing of the 2009 tax return: Arbuckle v HMQ, 2017 TCC 181 at paragraphs 53 and 54. The observations are as follows and land squarely at every trigger identified in Torres:
+(i) his trusted mentor, Sabet, received confirmation from his own family law lawyer in 2009 that the “fraudulent” tax returns were a “big problem” after Sabet received an “as filed” copy from the CRA: Bhatti v HMQ, 2013 TCC 143 at paragraph 13;
+(ii) the discovery of this by Sabet, and most likely relayed to Khaled, erased the confidence quotient Sabet and his family would previously have had in Rasool and concurrently this ought to have alerted Khaled for his 2009 taxation year;
+(iii) the blind and unquestioning execution of the false business questionnaire, prepared by Rasool, which was forwarded dutifully to CRA was a flashing red light, not retroactively, but prospectively for 2009;
+(iv) Khaled, more likely than not, received confirmation from CRA that the “natural person” methodology was erroneous at a time before or during April 2010 (and before the 2009 tax filing deadline). The Court concludes this because, based upon the sequence of CRA queries, on balance there was no need for an inquiry to be made by Khaled after April 30, 2010. The call was more likely placed by Khaled before the 2009 return was signed and filed: Spurvey v HMQ, 2015 TCC 300 at paragraph 46;
+(v) constant communication, assurance and consensus were the order of the day for Khaled in terms of Sabet’s experiences with Rasool prior to April 2010. Ominously absent in testimony was any discussion, meeting or information requested by Khaled of Sabet after Sabet’s learning of the problematic tax return and Khaled’s signing and filing for 2009 in April 2010. Similarly, there was no explanation as to why such sustained communication before April 30, 2009 (due date for 2008) was abruptly ended for an entire year given the discovery by Sabet, the CRA queries and demands of Rasool. For taxation year 2009, credibility and consistency concerning the previously existing reliance is lost.
+[68] This altered factual viewscape relevant in time to the 2009 tax return cumulatively constituted warning signs sufficient to have caused Khaled, then more isolated, to have further queried Rasool, Sabet and/or his previous tax advisor. Whereas pre-April 2009, Khaled had reached out for constant reassurance, he now resiled to ignoring the warning signs, newly arising before him in early 2010. This is the very definition of wilful blindness giving rise to gross negligence. For the 2009 taxation year, Khaled was wilfully blind and, as such, acquiesced through gross negligence in allowing a false return to be filed in his name. The penalties are valid and shall remain.
+V. Costs
+(1) Sabet
+[69] Sabet shall have his costs in accordance with the Tariff, subject to either party’s right to make submissions otherwise within 30 days hereof.
+(2) Khaled
+[70] In light of the mixed results, there shall be no costs in Khaled’s appeal.
+The Amended Judgment and the Amended Reasons for Judgment are issued in substitution for the Judgment and Reasons for Judgment dated July 23, 2018.
+Signed at Toronto, Ontario, this 29th day of August 2018.
+“R.S. Bocock”
+Bocock J.
+CITATION:
+2018 TCC 149
+COURT FILE NOs.:
+2012-3872(IT)G, 2012-5068(IT)G
+STYLE OF CAUSE:
+SABET MAHDI AND HER MAJESTY THE QUEEN; KHALED LASHIN AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+February 13, 2018
+REASONS FOR JUDGMENT BY:
+The Honourable Mr. Justice Randall S. Bocock
+DATE OF JUDGMENT:
+August 29, 2018
+APPEARANCES:
+Counsel for the Appellant:
+Charles Haworth
+Counsel for the Respondent:
+Rishma Bhimji
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Charles Haworth
+Firm:
+Dioguardi Tax Law LLP
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada

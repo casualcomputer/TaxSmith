@@ -1,0 +1,161 @@
+---
+title: "Phillips v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30964/index.do"
+last_modified: "2012-09-20"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2012 TCC 337"
+citation2: ""
+neutral_citation: "2012 TCC 337"
+decision_date: "2012-09-20"
+language: "en"
+item_id: "30964"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4838
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T08:10:11.048000+00:00"
+cases_cited_count: 5
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "d835b23b1a334799b9712ba7271861c78624c9016adb8516011903ec21ae343b"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Phillips v. The Queen
+
+- Citation: 2012 TCC 337
+- Decision date: 2012-09-20
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4838, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Phillips v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2012-09-20
+Neutral citation
+2012 TCC 337
+File numbers
+2011-300(IT)G
+Judges and Taxing Officers
+Randall S. Bocock
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2011-300(IT)G
+BETWEEN:
+RONALD SYDNEY PHILLIPS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on June 20, 2012, at Winnipeg, Manitoba
+Before: The Honourable Mr. Justice Randall Bocock
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Ainslie Schroeder
+____________________________________________________________________
+JUDGMENT
+The appeal from reassessments made under the Income Tax Act for the 2005 and 2006 taxation years is allowed in part and the reassessments are referred back to the Minister of National Revenue for reconsideration and redetermination on the basis of allowing the deduction of travel and related expenses during those periods when the Appellant chaired, supervised or hosted conferences outside of Regina as further described in the Reasons for Judgment.
+There shall be no order as to costs.
+Signed at Ottawa, Canada, this 26th day of September 2012.
+“R.S. Bocock”
+Bocock J.
+Citation: 2012 TCC 337
+Date: 20120926
+Docket: 2011-300(IT)G
+BETWEEN:
+RONALD SYDNEY PHILLIPS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Bocock J.
+[1] This appeal relates to business expense deductions for the 2005 and 2006 taxation years. The Appellant claimed business expenses under three headings which were partially or entirely disallowed on reassessment by the Minister in relation to:
+a) meal and entertainment expenses;
+b) an expense for the face amounts of dishonoured cheques totalling approximately $1,660.00 (the “NSF Cheques”); and
+c) return travel and related expenses primarily between Regina and Winnipeg.
+[2] During the 2005 and 2006 taxation years the Appellant resided in Regina, gained employment income there as an associate university professor, but maintained a consulting business involved in hosting, organizing and promoting aboriginal education conferences (the “Business”). In addition, an office for the Business was purportedly maintained in Winnipeg. The Business had been operated since the 1990s, while employment in Regina commenced in 2003.
+I. Meal and Entertainment Expenses
+[3] With respect to the meal and entertainment expenses, the Minister disallowed such expenses on those occasions when only the Appellant and one Dr. McCallum were present (the “McCallum Expenses”). Dr. McCallum and the Appellant were spouses. Dr. McCallum was also involved frequently in the Business as a presenter, mediator and advisor. She was paid consulting fees of $36,000.00 and $15,000.00 in 2005 and 2006, respectively.
+[4] The Appellant sought to deduct $5,334.00 and $4,745.00, being 50 percent of the actual gross expenses on account of the McCallum Expenses, in the taxation years 2005 and 2006, respectively. The McCallum Expenses included restaurant, specialty food shop and wine purchases. The Appellant acknowledged there was a personal use element beyond the statutory 50 percent expense inclusion rule because the Appellant and Dr. McCallum were spouses and in his words they “liked wine.”
+[5] The Minister allowed the McCallum Expenses to the extent of 50 percent and 25 percent of those claimed in 2005 and 2006, respectively, on the following basis:
+a) the personal nature of the expenditures;
+b) the disportionality of the relationship between the quantum of the meal and entertaining expenses allocable to Dr. McCallum in each year when compared proportionally to the consulting fees paid to her in each year; and
+c) the disportionality of the meal and entertaining expenses incurred in respect of Dr. McCallum, the Appellant’s wife, when compared to other clients and consultants of the Business.
+[6] The Appellant offered no evidence to rebut or demolish the Minister’s assumptions or assertions that the amounts allowed, which included full deductibility of all non-McCallum Expenses, were a less reasonable assessment in the circumstances than those claimed by the Appellant. Factually, the Court finds that the Minister’s allowance for meal and entertainment deductions was quite reasonable in the circumstances.
+II. NSF Cheques
+[7] In respect of the NSF Cheques, no evidence by way of calculations was offered by the Appellant to illustrate that the Minister had failed to properly assess the income from the Business correctly in this regard. In any event, procedurally, the Minister had not reassessed the Appellant with respect to income in either year and has confirmed income as filed by the taxpayer. Moreover, no probative evidence was tendered to indicate any error had been made. The single bank account statements showing the NSF cheques are assigned no probative value against the confirmation of income by the Minister as filed and unamended by the Appellant.
+III. Travel Expenses
+[8] The final point, namely the deductibility of certain travel expenses against business income, is more problematic given the uniqueness of this matter.
+[9] Factually, this Court finds that the Appellant had no choice regarding his decision to live in Regina. If he wanted that position of employment (admittedly that was a choice), he needed to reside in Regina from Monday to Friday most weeks. It was also more commercially efficacious for the Appellant to maintain his business office in Winnipeg. Two conferences each year were held there, the critical business contacts were located there and the business had been established and developed there for many years. These are all business and commercial reasons and not personal. These competing requirements for employment in one locale and a business operation in another present an interesting business dilemma and legal issue in light of the applicable authorities.
+[10] The cases offered by the Respondent uniformly deal with the situations where a personal choice [emphasis added] regarding residency resulted in an extended distance relating to travel for employment or business.
+[11] The leading case of Symes v. Canada, [1993] 4 S.C.R. 695, identifies that the question to be asked is whether the Appellant incurred the travel expenses for the purposes of gaining or producing income.
+[12] Generally, travel costs incurred from a personal residence to an income earning site are merely personal living expenses required for a taxpayer to attend a job site and begin earning an income.
+[13] In the case of Andreone v. Her Majesty The Queen, 2005 TCC 240, Justice Sheridan of this Court considered the leading case of Symes and found that if the need exists in the absence of the business need, deductibility of the expense is not permitted. In the present case, the Appellant acknowledged that in the absence of the Business he would have nonetheless travelled from Regina to Winnipeg albeit on a less frequent basis. He offered his present frequency of travel as an example. That testimony as to frequency was credible.
+[14] Similarly, in Daniels v. Canada (Attorney General), 2004 FCA 125, the Federal Court of Appeal stated at paragraph 7:
+[7] It is well established that travel expenses incurred by a taxpayer in travelling to and from his home to his place of work are considered personal expenses. They are not travelling costs encountered in the course of the taxpayer’s duties. Rather, they enable him to perform them (see Ricketts v. Colquhoun, [1926] A.C. 1, 95 L.J.K. 82; Hogg v. R., [2002] 4 F.C. 443, 2002 FCA 177, affirming [2001] 1 C.T.C. 2356; O’Neil v. R., 2000 CarswellNat 1788, 2000 D.T.C. 2409, [2001] 1 C.T.C. 2091; Luks v. Minister of National Revenue, 1958 CarswellNat 297, [1958] C.T.C. 345, [1959] Ex. C.R. 45, 58 D.T.C. 1194).
+[15] In Blackburn v. Her Majesty The Queen, 2007 TCC 284, Justice Jorré of this Court analyzed the case law in the context of personal choice when he stated;
+[41] It is also necessary to take into account the principle that the choice to live in one city rather than another is a personal choice and that the expenses incurred to get to work are personal expenses and are not deductible.
+[…]
+[43] We therefore have two important principles:
+(1) Travel expenses incurred in the performance of one’s employment duties are deductible.
+(2) However, expenses incurred by the choice of where one lives are personal expenses.
+[44] At what point does the decision to travel rather than to move become a personal choice? One cannot reasonably conclude that the fact that one does not relocate for a business trip of a few weeks is a personal choice. However, if someone takes a permanent position in another far away city, there cannot be any doubt that it is a personal choice if the person keeps his or her house and family in his or her hometown and chooses to travel between the two cities every Monday morning and Friday evening and to rent a small apartment in the city where he or she works.
+[16] The Appellant’s choice to relocate his residence to Regina was not necessarily a personal one and is factually different than the situation described in Blackburn where a personal choice not to relocate was made. The Appellant was required to move to Regina in order to accept the job. He did relocate his personal residence. Clearly travel to and from his Regina residence to the University was not a deductible expense. The decision to keep his Business location in Winnipeg, while it had a personal component to it (the extent of which such a personal component is not deductible), also made business sense and encompassed a degree of commerciality.
+[17] On the basis of the foregoing, given the necessity (as opposed to personal choice) of living in Regina and the business reasons for the need to attend to business interests in Winnipeg from time to time, the Court finds that the provisions of paragraphs 18(1)(a) and (h) of the Income Tax Act (“Act”) are satisfied, but only to the extent of some of the travel expenses, since a goodly portion were personal or represented non-deductible trips to the Appellant’s Business office. However, it remains beyond dispute that some costs would not have been expended, but for the purpose of producing income from the Business by attending to the hosting of Business conferences in the Winnipeg area.
+[18] In the case of Randall v. Minister of National Revenue, [1967] S.C.R. 484, the Supreme Court of Canada indicated that obligations to provide a service and incur related expenses arising from the exigencies of the business were reasonable expenses and should be deductible. In the case before this Court, the Business conferences held twice a year in Winnipeg were required as part of the Business, occurred on an infrequent basis and the location was not determined necessarily by the choice or at the whim of the Appellant.
+[19] Similarly, in Chapman v. Her Majesty The Queen, 2004 TCC 617, Justice Woods of this Court found that certain travel expenses were deductible where travel for business to temporary work assignments in different locations was required. At paragraph 12 of that case, Justice Woods considers the case of Randall and the issue of travel to temporary work locations when she states:
+[12] This approach is consistent with the approach by the Supreme Court of Canada in Randall v. M.N.R., [1967] C.T.C. 236. In Randall, the taxpayer managed racetracks, mostly in the Vancouver area. He undertook an engagement to manage a racetrack in Portland, Oregon and sought to deduct the cost of travelling between Oregon and his home in Vancouver. The Crown argued that the expenses of travelling from the taxpayer’s home in Vancouver to Portland were personal because they were incurred in travelling to work. The majority decision gave short shrift to the Crown’s argument and adopted a common sense approach – Mr. Randall’s travel expenses should be deductible because they were necessary to fulfill contractual obligations. The facts in Randall are different from the facts in this case but in my view the common sense approach by the Supreme Court of Canada should equally apply to temporary work assignments where a person has to travel to different work locations to fulfill contractual obligations.
+[20] In the case before this Court, the Appellant’s travel expenses to Winnipeg had several purposes. These purposes were:
+a) Travel to the Appellant’s Business office in Winnipeg.
+b) Travel to Winnipeg generally, probably for personal reasons.
+c) Travel to Winnipeg for the purposes of chairing, supervising or hosting actual conferences from which Business income was earned.
+[21] The first purpose is not deductible on the basis of Hogg v. Canada (C.A.), 2002 FCA 177, and Daniels which preclude such deductibility.
+[22] The expenses arising as a result of the second purpose are not business expenses at all within the meaning of the Act pursuant to Symes.
+[23] However the Business conferences, when actually in session and being chaired, supervised or hosted by the Appellant constituted temporary work assignments and as such should be a deductible from income by the Appellant, given the unique factual circumstances. Although the Appellant’s Business was established in Winnipeg, the conferences per se were occasional and arose as a result of the business purposes of holding the conferences in Winnipeg, not at the personal choice of the Appellant but for the convenience of, and attractiveness to, the attendees.
+[24] On this basis, the matter is referred back to the Minister for reassessment and redetermination solely on the basis of allowing the appeal with respect to those travel and related expenses arising from travel and other expenses incurred during the chairing, supervising or hosting of the actual conferences staged by the Appellant’s Business outside of Regina. While these amounts are likely not substantial when compared to the other expenses claimed in respect of travel, they do fall within the category of temporary work assignments necessary for the conduct of the Business requiring travel from Regina to Winnipeg and other locations.
+[25] Since the Appellant was not successful on any other basis, no order shall be made as to costs.
+Signed at Ottawa, Canada, this 26th day of September 2012.
+“R.S. Bocock”
+Bocock J.
+CITATION: 2012 TCC 337
+COURT FILE NO.: 2011-300(IT)G
+STYLE OF CAUSE: RONALD SYDNEY PHILLIPS AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Winnipeg, Manitoba
+DATE OF HEARING: June 20, 2012
+REASONS FOR JUDGMENT BY: The Honourable Mr. Justice Randall Bocock
+DATE OF JUDGMENT: September 26, 2012
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Ainslie Schroeder
+COUNSEL OF RECORD:
+For the Appellant:
+Name: N/A
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada

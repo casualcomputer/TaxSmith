@@ -1,0 +1,173 @@
+---
+title: "Osadchuk v. The King"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/521096/index.do"
+last_modified: "2023-05-17"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2023 TCC 70"
+citation2: ""
+neutral_citation: "2023 TCC 70"
+decision_date: "2023-05-17"
+language: "en"
+item_id: "521096"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5882
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2024-07-13T10:38:25.212000+00:00"
+cases_cited_count: 4
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "4fcbe8a04d4c382ecd304b1556d11654d758bbcb82948ede08c60929fddcf7e6"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Osadchuk v. The King
+
+- Citation: 2023 TCC 70
+- Decision date: 2023-05-17
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5882, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Osadchuk v. The King
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2023-05-17
+Neutral citation
+2023 TCC 70
+File numbers
+2019-1307(IT)G
+Judges and Taxing Officers
+David E. Graham
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2019-1307(IT)G
+BETWEEN:
+BRANDON OSADCHUK,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+The Honourable Justice David E. Graham
+Participants:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Tokunbo Omisade Amy Kendell
+JUDGMENT
+The appeal of the reassessment of the Appellant’s 2008 tax year is dismissed.
+Costs are awarded to the Respondent.
+Signed at Ottawa, Canada, this 17th day of May 2023.
+“David E. Graham”
+Graham J.
+Citation: 2023 TCC 70
+Date: 20230517
+Docket: 2019-1307(IT)G
+BETWEEN:
+BRANDON OSADCHUK,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+REASONS FOR JUDGMENT
+Graham J.
+[1] The Appellant based his entire appeal on the type of organized pseudolegal commercial arguments described in Meads v. Meads (2012 ABQB 571).
+[2] I struck the Appellant’s notice of appeal and answer in their entirety. I gave the Appellant the chance to convince me why I should allow him to file an amended notice of appeal. I warned the Appellant that if he did not comply with my order, I would dismiss his appeal. He did not comply. Accordingly, I am dismissing his appeal.
+I. Background [3] The Appellant participated in a charitable donation scheme known variously as Canadians Care or Trinity Global. He claimed to have made a charitable donation of $37,486 in his 2008 tax year. The Minister of National Revenue reassessed the Appellant to deny the donation. The Appellant appealed that reassessment.
+[4] I am the case management judge for the Trinity Global group of appeals. In that role, I reviewed the Appellant’s notice of appeal and answer.
+II. The Appellant’s Pleadings [5] The Appellant’s pleadings are a classic example of the type of pleadings used by organized pseudolegal commercial argument litigants:
+(a)When spelling his name, the Appellant uses unusual punctuation and avoids capital letters. He spells it “brandon: osadchuk”.
+(b)The Appellant argues that he is not a “person” for the purposes of the Income Tax Act based on the nonsensical assertion that human beings are not people.
+(c)The Appellant attaches a birth certificate to the answer and asserts that it “proves without question that [he is] in [his] capacity as a human being”. He continues and states, “I have waived my right and refuse to be recognized as a legal person before the law, and claim my right to be recognized as a human being before the law.”
+(d)The Appellant refers to documents being “signed in wet ink”.
+(e)There are repeated references to the Canadian Charter of Rights and Freedoms, the Universal Declaration of Human Rights, the International Covenant on Economic, Social and Cultural Rights and the International Covenant on Civil and Political Rights. Clearly, referring to these documents does not make one an organized pseudolegal commercial argument litigant. However, asserting that these documents prevent human beings from being taxed under the Income Tax Act certainly does.
+(f)The answer places great emphasis on what the Appellant understands to be a distinction between “the inherent side of the Tax Court of Canada” and its “statutory side”.
+(g)The Appellant seeks repayment of all income tax, CPP and EI that he has ever paid. He also seeks an order that he not have to pay tax in the future.
+[6] Ultimately, the only reference to the Trinity Global donation scheme in the 15 pages of pleadings is a single line at the end of the notice of appeal which states “The amount in dispute for the 2008 Canadians Care PROGRAM is $37,486” and a statement at the beginning of the answer that the Appellant filed an appeal “in respect to the 2008 Canadians Care Donation Program”.
+[7] Neither the notice of appeal nor the answer state any material facts regarding the donation scheme, rely on any statutory provisions to dispute the donation scheme or raise an argument in respect of the donation scheme.
+III. Striking Organized Pseudolegal Commercial Argument Pleadings [8] Section 53 of the Tax Court of Canada Rules (General Procedure) states that this Court may, on its own initiative, strike out all or part of a pleading with or without leave to amend on the basis that it is an abuse of the process of the Court or that it discloses no reasonable grounds for appeal.
+[9] If a taxpayer files a notice of appeal that is clearly based on organized pseudolegal commercial arguments, the Court should consider whether it is appropriate for the Court to strike those arguments from the notice of appeal on its own initiative. To do that, the Court must first determine at what stage in the process the arguments arose. The Court may not be able to make that determination until after the Respondent has filed a reply.
+Arguments that formed the basis of how the taxpayer reported his or her income
+[10] If the organized pseudolegal commercial arguments formed the basis of how the taxpayer reported his or her income, then it would generally be inappropriate for the Court to strike the arguments from the notice of appeal on its own initiative. The Court should leave it to the Respondent to bring a motion to strike as the Respondent may, in fact, want the notice of appeal to remain intact. For example, if the Minister has imposed penalties under subsection 163(2), the Respondent may be relying on the taxpayer’s ludicrous arguments to support the imposition of those penalties.
+Arguments used to defend against an assessment or reassessment
+[11] If, however, the organized pseudolegal commercial arguments are something that the taxpayer has raised for the first time in response to an assessment or reassessment, then it would be entirely appropriate for the Court to strike the arguments from the pleadings on its own initiative.[1]
+[12] In that circumstance, asking a taxpayer to make submissions as to why the organized pseudolegal commercial arguments should not be struck from the notice of appeal would be a waste of judicial resources. Asking the Respondent to make submissions as to why such arguments should be struck would be a similar waste of the Respondent’s time. It is plain and obvious that such arguments have no merit. Nothing an organized pseudolegal commercial argument litigant says will change that.
+[13] As long as the Court gives the taxpayer a chance to file an amended notice of appeal that raises legitimate arguments, the taxpayer will have received due process. The taxpayer will not have been deprived of his or her right to appeal, only of an opportunity to spew more nonsense.
+IV. Striking the Appellant’s Pleadings [14] I reviewed the Appellant’s pleadings in my role as case management judge. It was plain and obvious to me that the notice of appeal and answer were both an abuse of this Court’s process and disclosed no reasonable grounds for appeal. The arguments raised therein had been considered and rejected numerous times by this Court for the simple reason that they are nonsensical gibberish and completely without merit.
+[15] The Appellant did not rely on those arguments to file his return, but rather raised them as a defence when he was reassessed to deny the charitable donations he had claimed.
+[16] It would have been a waste of judicial resources and an abuse of this Court’s process to allow the appeal to continue based on the issues raised in the notice of appeal and the answer.
+[17] Accordingly, by order dated February 10, 2023, I struck the notice of appeal and answer in their entirety and gave the Appellant until April 14, 2023 to file a written argument which explained why I should grant him leave to amend the notice of appeal. I ordered the Appellant to attach a proposed amended notice of appeal to his argument.
+[18] I specifically ordered that the proposed amended notice of appeal:
+(a)not raise any arguments currently raised in the notice of appeal or the answer;
+(b)not question whether the Appellant is a “person” for the purposes of the Income Tax Act; and
+(c)not request any relief other than that the reassessment of the Appellant’s 2008 tax year be sent back to the Minister of National Revenue for reconsideration and reassessment and that costs be awarded to the Appellant and, for greater certainty, not seek relief in the form of:
+(i)damages;
+(ii)apology letters;
+(iii)relief from future income tax, CPP or employment insurance payments; or
+(iv)the return of previous contributions allegedly taken from the Appellant by “threat of force and or coercion”.
+[19] I warned the Appellant that, if he failed to file a written argument and proposed amended notice of appeal by the deadline or filed a proposed amended notice of appeal that did not comply with my order, I would dismiss his appeal.
+V. Appellant’s Argument [20] The Appellant filed a written argument by the deadline. Contrary to my order, he did not attach a proposed amended notice of appeal.
+[21] The Appellant demonstrated the obstinacy commonly seen in organized pseudolegal commercial argument litigants. Rather than using his written argument to explain why he should be given a chance to file an amended notice of appeal dealing with the Trinity Global donation scheme, he instead doubled down on his arguments regarding the Court’s supposed “inherent side” and his not being a person.
+[22] For good measure, he also asserted that if the Court “continues to keep this case in its statutory jurisdiction, [he] will claim Habeas Corpus and challenge the jurisdiction of the court and under which these alleged charges are brought against [him].” A misunderstood reliance on habeas corpus is another common organized pseudolegal commercial argument.
+VI. Inherent Jurisdiction vs. Implied Jurisdiction [23] Despite the Appellant’s assertion to the contrary, the Tax Court of Canada does not actually have any inherent jurisdiction. It is purely a statutory court. While, in the past, some have referred to the Court having the inherent jurisdiction to control its own process, the Federal Court of Appeal has recently made it clear that what the Court has is the implied jurisdiction to do so.[2]
+[24] Ironically, it is that implied jurisdiction that allows the Court to dismiss appeals where taxpayers, such as the Appellant, are abusing the Court’s process by obstinately making nonsensical arguments and ignoring the Court’s orders. That is exactly what I am going to do.
+[25] I gave the Appellant a chance to correct the error of his ways. He chose to not to take it. He did not even attempt to explain why he should be given leave to amend his notice of appeal let alone attach the required proposed amended notice of appeal.
+[26] The Appellant’s written argument makes it clear that he has no intention of either following this Court’s orders or focusing his appeal on the denial of the purported charitable donations that gave rise to the reassessment of his 2008 tax year.
+VII. Previous Decisions [27] This is not the Appellant’s first time raising these same organized pseudolegal commercial arguments before this Court.
+[28] When I issued my February 10, 2023 order striking the Appellant’s notice of appeal, I was aware that the Appellant had another matter before the Court. Deputy Judge Jorré had just issued an order setting the Appellant’s application for extension of time to appeal a reassessment of his 2007 tax year down for hearing.[3]
+[29] The proposed notice of appeal in that application contained the same nonsensical gibberish that the Appellant has used in this appeal. For some reason, the Respondent had consented to the extension of time. The application came before Deputy Judge Jorré in his role as duty judge. He refused to grant the extension because “[o]n its face, the proposed notice of appeal…appears to be without merit and does not demonstrate reasonable grounds for the appeal.” He ordered that the application be set down for hearing.
+[30] I recently became aware that the Appellant had also used the same ridiculous arguments to appeal his 2009 and 2010 tax years and that, in an unpublished oral decision, Justice Hogan had struck the Appellant’s notice of appeal without leave to amend.[4] I learned this because, as I was finalizing these reasons, the Federal Court of Appeal dismissed the Appellant’s appeal of Justice Hogan’s decision.[5]
+[31] A search of the Tax Court’s registry also reveals that, on December 20, 2022, the Appellant attempted to file another notice of appeal of his 2007, 2009 and 2010 tax years despite the fact that he already had an application for extension of time to appeal in process for his 2007 tax year and an appeal of his 2009 and 2010 tax years before the Federal Court of Appeal. The Registry rightly rejected the filing.
+[32] If the Appellant learns from the Federal Court of Appeal decision, Justice Hogan’s decision, Deputy Judge Jorré’s order and my decision, he will stop filing meritless appeals in this Court. He will also prepare a proper notice of appeal for his application for extension of time to appeal - one that does not rely on organized pseudolegal commercial arguments.
+[33] If the Appellant fails to heed these warnings, he may find that his application for extension of time is denied and that costs are awarded against him.
+VIII. Conclusion [34] The Appellant has taken up more than enough of the Court’s resources and patience. His appeal is dismissed.
+[35] Costs are awarded to the Respondent.
+Signed at Ottawa, Canada, this 17th day of May 2023.
+“David E. Graham”
+Graham J.
+CITATION:
+2023 TCC 70
+COURT FILE NO.:
+2019-1307(IT)G
+STYLE OF CAUSE:
+BRANDON OSADCHUK AND HIS MAJESTY THE KING
+REASONS FOR JUDGMENT BY:
+The Honourable Justice David E. Graham
+DATE OF JUDGMENT:
+May 17, 2023
+PARTICIPANTS:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Tokunbo Omisade Amy Kendell
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+BLANK
+Firm:
+BLANK
+For the Respondent:
+Shalene Curtis-Micallef Deputy Attorney General of Canada Ottawa, Canada
+[1] This is not to say that the Respondent should not bring a motion to strike in these circumstances. The Respondent will often be in a better position than the Court to detect and respond to organized pseudolegal commercial arguments at an early stage of the proceedings, ideally even before filing a Reply.
+[2] The Queen v. Dow Chemical Canada ULC, 2022 FCA 70, at paras. 78-80.
+[3] 2023 TCC 16.
+[4] Appeal number 2021-1118(IT)G.
+[5] 2023 FCA 82.

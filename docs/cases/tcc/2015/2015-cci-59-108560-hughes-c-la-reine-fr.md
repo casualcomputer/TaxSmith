@@ -1,0 +1,156 @@
+---
+title: "Hughes c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/108560/index.do"
+last_modified: "2015-03-10"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2015 CCI 59"
+citation2: ""
+neutral_citation: "2015 CCI 59"
+decision_date: "2015-03-10"
+language: "fr"
+item_id: "108560"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2804
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T16:39:21.489000+00:00"
+cases_cited_count: 4
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "93e7d80b261eeade01146f1fb14644106e4cdaf37d7d28ba0571666699d049d4"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Hughes c. La Reine
+
+- Citation: 2015 CCI 59
+- Decision date: 2015-03-10
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2804, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Hughes c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2015-03-10
+Référence neutre
+2015 CCI 59
+Numéro de dossier
+2014-2304(GST)APP
+Juges et Officiers taxateurs
+Randall S. Bocock
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2014-2304(GST)APP
+ENTRE :
+TREVOR (ED) I. HUGHES,
+requérant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Demande entendue le 24 février 2015 à Ottawa, Canada
+Devant : L’honorable juge Randall S. Bocock.
+Comparutions :
+Pour le requérant :
+Le requérant lui-même
+Avocat de l’intimée :
+Me Tokunbo C. Omisade
+ORDONNANCE
+VU la demande visant à obtenir une ordonnance prorogeant le délai imparti pour produire des avis d’opposition aux cotisations établies aux termes de la Loi sur la taxe d’accise, LRC (1985), c. E‑15 le 13 août 2002, pour la période de déclaration s’échelonnant du 1er janvier 1999 au 31 mai 2002, ainsi que le 8 juillet 2004, pour la période de déclaration s’échelonnant du 1er juin au 31 août 2002;
+ET VU les éléments de preuve déposés et les témoignages du requérant et de l’avocat de l’intimée;
+POUR LES MOTIFS CI-JOINTS, LA COUR ORDONNE le rejet de la demande.
+Signé à Edmonton (Alberta), ce 10e jour de mars 2015.
+« R. S. Bocock »
+Juge Bocock
+Traduction certifiée conforme
+ce 18e jour de juin 2015.
+Claude Leclerc, LL.B.
+Référence : 2015 CCI 59
+Date : 20150310
+Dossier : 2014-2304(GST)APP
+ENTRE :
+TREVOR (ED) I. HUGHES,
+requérant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE
+Le juge Bocock
+[1] M. Hughes présente une demande de prorogation du délai imparti pour produire des avis d’opposition aux cotisations établies par le ministre aux termes de la Loi sur la taxe d’accise, LRC (1985), c. E‑15 (la « LTA »). La première cotisation, établie le 13 août 2002, portait sur la période de déclaration s’échelonnant du 1er janvier 1999 au 31 mai 2002, et la deuxième cotisation, établie le 8 juillet 2004, portait sur la période de déclaration s’échelonnant du 1er juin au 31 août 2002. M. Hughes a produit ses avis d’opposition et ses demandes de prorogation du délai quelque neuf ans plus tard, soit le 28 mai 2013, auprès de l’Agence du revenu du Canada (ARC), puis le 30 mai 2013, auprès de la Cour canadienne de l’impôt. Le ministre a refusé d’accepter les avis d’opposition et de faire droit à la demande au motif que ceux‑ci n’avaient pas été produits dans les délais impartis aux termes de la LTA.
+[2] Les dispositions de la LTA reproduites ci‑dessous font référence au cadre législatif régissant l’examen des demandes de prorogation du délai.
+Opposition à la cotisation
+301. (1.1) La personne qui fait opposition à la cotisation établie à son égard peut, dans les 90 jours suivant le jour où l’avis de cotisation lui est envoyé, présenter au ministre un avis d’opposition, en la forme et selon les modalités déterminées par celui-ci, exposant les motifs de son opposition et tous les faits pertinents.
+[…]
+Prorogation du délai par le ministre
+303. (1) Le ministre peut proroger le délai pour produire un avis d’opposition dans le cas où la personne qui n’a pas fait opposition à une cotisation en application de l’article 301, ou de requête en application du paragraphe 274(6), dans le délai par ailleurs imparti lui présente une demande à cet effet.
+[…]
+Conditions d’acceptation de la demande
+303. (7) Il n’est fait droit à la demande que si les conditions suivantes sont réunies :
+a) la demande est présentée dans l'année suivant l'expiration du délai par ailleurs imparti pour faire opposition ou présenter la requête en application du paragraphe 274(6);
+b) la personne démontre ce qui suit :
+(i) dans le délai d'opposition par ailleurs imparti, elle n'a pu ni agir ni mandater quelqu'un pour agir en son nom, ou avait l'intention de faire opposition à la cotisation ou de présenter la requête,
+(ii) compte tenu des raisons indiquées dans la demande et des circonstances de l'espèce, il est juste et équitable de faire droit à la demande,
+(iii) la demande a été présentée dès que les circonstances le permettaient.
+[3] Lorsque le ministre rejette la demande ou omet d’y répondre, le contribuable peut, en application de dispositions parallèles, présenter une demande à la Cour canadienne de l’impôt afin de présenter un avis ou de signifier son opposition selon des conditions semblables (article 304 de la LTA).
+[4] M. Hughes a expliqué les raisons pour lesquelles il avait omis de produire un avis d’objection avant le 28 mai 2013. Il a précisé qu’il communiquait régulièrement avec les agents pendant la période de 2002 et qu’il avait en fait présenté de nombreux [traduction] « appels » au « ministre des Finances », pour reprendre ses propres termes. M. Hughes n’a pas prouvé qu’il avait produit un avis d’opposition écrit et ne nie pas avoir reçu les avis de cotisation le 13 août 2002 et le 8 juillet 2004, respectivement. M. Hughes soutient que le ministre ne lui a pas retourné ses documents originaux se rapportant à la période de 2002 à 2003. M. Hughes ne précise pas comment ou pourquoi les documents conservés prouveraient qu’il a produit un avis d’opposition avant la date de réception reconnue.
+[5] L’avocat de l’intimée soutient que les dispositions législatives prévues aux paragraphes 301(1), 303(1), 303(7), 304(1) et 304(5) de la LTA sont absolues et qu’il est impossible d’en faire abstraction. L’avocat reconnaît qu’il doit exister certains éléments de preuve révélant que l’avis de nouvelle cotisation a été envoyé et qu’aucun avis d’opposition ni aucune demande de prorogation du délai n’ont été reçus dans les délais impartis aux termes de la LTA.
+[6] En ce qui concerne la jurisprudence se rapportant au délai imparti pour signifier son opposition ou demander une prorogation du délai, l’arrêt Canada c. Carlson, 2002 CAF 145 (« Carlson ») prévoit ce qui suit aux paragraphes 13 et 14 :
+[...] Comme notre Cour l'a statué à de nombreuses occasions, lorsqu'un contribuable n'est pas en mesure de respecter un délai prévu par la Loi, même à cause d'une défaillance du système postal, ni le ministre ni la CCI ne peuvent lui venir en aide (Voir Schafer c. Sa Majesté la Reine [2000] A.C.F. 1480 (C.A.F.); Le Procureur général du Canada c. John F. Bowen [1992] 1 C.F. 311 (C.A.F.)). Par conséquent, si une défaillance du système postal ne peut secourir un contribuable, il ne sera pas sauvé parce qu'il n'a pas saisi le sens d'un avis de cotisation qui lui a été signifié.
+Vu qu'il n'est pas contesté que l'avis de cotisation no 7272 a été envoyé par courrier recommandé au défendeur le 17 août 1993, et que ce dernier l'a reçu quelques jours plus tard, son avis d'opposition a manifestement été signifié hors délai. Étant donné que le défendeur n'a pas présenté de demande de prolongation de délai avant la fin de novembre 1994, ni le Ministre ni le juge suppléant de la CCI ne pouvaient lui accorder la prolongation qu'il sollicitait.
+[7] Les faits non contestés figurant dans l’affidavit déposé par l’intimée révèlent que l’ARC a envoyé les avis de cotisation aux dates indiquées. De plus, M. Hughes ne conteste pas le fait que les avis de cotisation ont été envoyés aux dates indiquées par le ministre dans la réponse modifiée, dans l’affidavit à l’appui ou dans la demande. M. Hughes ne conteste pas le fait qu’il a reçu les avis de cotisation peu après les dates en question. Il prétend plutôt qu’il a présenté de nombreux [traduction] « appels » en réponse à ces avis. Aucun élément de preuve n’a été produit pour appuyer cette déclaration, et comme il l’a déjà été mentionné, l’ARC n’a aucune trace desdits appels.
+[8] Bien que l’arrêt Carlson fasse référence à la Loi de l’impôt sur le revenu, la jurisprudence de la présente Cour et de la Cour d’appel fédérale mène à la conclusion que les mêmes règles s’appliquent à la LTA. La preuve relative à l’envoi de l’avis de cotisation est suffisante. De même, l’incompréhension de l’importance d’un avis de cotisation, la non‑réception éventuelle d’un avis de cotisation en raison d’une interruption du service de la poste ou le fait qu’un contribuable omette, par inadvertance, de produire une objection dans les délais prévus ne permettent pas de proroger le délai : Chomatas c. La Reine, 2013 CCI 319 (par. 10), Grunwald c. Canada, 2005 CAF 421, aux paragraphes 43 et 44, et Sahibi c. La Reine, 2014 CCI 79, aux paragraphes 25 et 26).
+[9] Les pouvoirs prévus dans la loi, les éléments de preuve fournis par l’intimée au sujet de l’envoi des avis de cotisation et l’absence d’éléments de preuve sur les raisons pour lesquelles M. Hughes pourrait ne pas avoir reçu les avis (c.‑à‑d. une adresse erronée) constituent tous des facteurs concluants. Par conséquent, la Cour n’a pas la compétence nécessaire aux termes de l’article 304 de la LTA pour accueillir la demande de prorogation du délai imparti pour produire des avis d’opposition aux cotisations, car M. Hughes est réputé avoir reçu les avis de cotisation en 2002 et en 2004. Par conséquent, la présente demande, soumise en 2013, est rejetée.
+Signé à Edmonton (Alberta), ce 10e jour de mars 2015.
+« R. S. Bocock »
+Juge Bocock
+Traduction certifiée conforme
+ce 18e jour de juin 2015.
+Claude Leclerc, LL.B.
+RÉFÉRENCE :
+2015 CCI 59
+No DU DOSSIER DE LA COUR :
+2014-2304(GST)APP
+INTITULÉ :
+TTREVOR (ED) I. HUGHES et LA REINE
+LIEU DE L’AUDIENCE :
+Ottawa (Canada)
+DATE DE L’AUDIENCE :
+Le 24 février 2015
+MOTIFS DU JUGEMENT :
+L’honorable juge Randall S. Bocock
+DATE DE L’ORDONNANCE :
+Le 10 mars 2015
+COMPARUTIONS :
+Pour le requérant :
+Le requérant lui-même
+Avocat de l’intimée :
+Me Tokunbo C. Omisade
+AVOCATS INSCRITS AU DOSSIER :
+Pour le requérant :
+Nom :
+s.o.
+Cabinet :
+Pour l’intimée :
+William F. Pentney
+Sous procureur général du Canada
+Ottawa, Canada

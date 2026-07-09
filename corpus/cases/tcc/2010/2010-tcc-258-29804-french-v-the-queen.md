@@ -1,0 +1,128 @@
+---
+title: "French v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29804/index.do"
+last_modified: "2010-05-11"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 TCC 258"
+citation2: ""
+neutral_citation: "2010 TCC 258"
+decision_date: "2010-05-11"
+language: "en"
+item_id: "29804"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6610
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T02:21:21.089000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "10edcea7961990b09ed7e54e41f7605e0b70fae637057623282047fb88363e1a"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# French v. The Queen
+
+- Citation: 2010 TCC 258
+- Decision date: 2010-05-11
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6610, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+French v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-05-11
+Neutral citation
+2010 TCC 258
+File numbers
+2009-3853(IT)G
+Judges and Taxing Officers
+Georgette Anne Sheridan
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2009-3853(IT)G
+BETWEEN:
+STEVE FRENCH,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+(The Respondent’s motion dealt with by written representations.)
+Before: The Honourable Justice G. A. Sheridan
+Counsel for the Appellant:
+D. Laurence Armstrong
+Counsel for the Respondent:
+Raj Grewal
+____________________________________________________________________
+ORDER
+Upon a Motion by the Respondent for an Order pursuant to section 53 of the Tax Court of Canada Rules (General Procedure) to strike out paragraphs 7, 9 and 11 of the Notice of Appeal and costs of this motion in any event of the cause;
+And the Appellant having consented to the Respondent’s request that the Motion be disposed of upon consideration of written representations and without personal appearance by the parties pursuant to section 69 of the Tax Court of Canada Rules (General Procedure);
+And having read the submissions of the parties;
+In accordance with the attached Reasons for Order, the Respondent’s motion is allowed to the extent that paragraph 11 of the Notice of Appeal is struck out; costs to be determined by the trial judge.
+Signed at Winnipeg, Manitoba, this 11th May, 2010.
+“G. A. Sheridan”
+Sheridan, J.
+Citation: 2010TCC258
+Date: 20100511
+Docket: 2009-3853(IT)G
+BETWEEN:
+STEVE FRENCH,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Sheridan, J.
+[1] The grounds for the Respondent’s motion are:
+a) paragraphs 7, 9 and 11 of the Notice of Appeal contain allegations of fact that
+a. may prejudice or delay the fair hearing of the action;
+b. are scandalous, frivolous or vexatious; and
+c. are an abuse of the process of the Court.
+b) paragraphs 7, 9 and 11 of the Notice of Appeal contain allegations of fact concerning the Canada Revenue Agency’s process of assessing penalties against the Appellant under subsection 163(2) of the Income Tax Act, R.S.C. 1985, c. 1 (5th Supp.), as amended (the “ITA”) and the conduct and actions of a CRA official.
+c) The process of an assessment and the conduct of CRA officials during that process are not relevant to any issues that are within the jurisdiction of the Tax Court of Canada, namely, the determination of the Appellant’s liability for penalties in accordance with the provisions of the ITA.
+[2] The threshold for the striking out of pleadings is high. The jurisprudence is clear that, assuming the facts alleged can be proved, a pleading ought not to be struck out unless it is “plain and obvious” that it contains a radical defect that is certain to fail: Hunt v. Carey Canada Inc.[1].
+[3] In the present case, I am not persuaded by the submissions of the Respondent that it is “plain and obvious” that the allegations made in paragraphs 7 and 9 pertain only to the misconduct of the Minister’s officials. I agree with the Appellant that they may be relevant to the determination of the validity of the penalties imposed by the Minister; in particular, to the timing of the assessment of the penalties as it relates to subsection 239(3) of the Income Tax Act.
+[4] Paragraph 11, on the other hand, has only to do with the alleged misconduct of the officials; even if true, the allegations made do not provide a basis for allowing the appeal[2]. Accordingly, paragraph 11 of the Notice of Appeal shall be struck.
+[5] The parties’ requests for costs are best left to the trial judge.
+Signed at Winnipeg, Manitoba, this 11th day of May, 2010.
+“G. A. Sheridan”
+Sheridan, J.
+CITATION: 2010TCC258
+COURT FILE NO.: 2009-3853(IT)G
+STYLE OF CAUSE: STEVE FRENCH AND THE QUEEN
+REASONS FOR ORDER BY: The Honourable Justice G. A. Sheridan
+DATE OF ORDER: May 11, 2010
+Counsel for the Appellant:
+D. Laurence Armstrong
+Counsel for the Respondent:
+Raj Grewal
+COUNSEL OF RECORD:
+For the Appellant:
+Name: D. Laurence Armstrong
+Firm: Armstrong Wellman
+Victoria, British Columbia
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] [1990] 2 S.C.R. 959 at paragraph 33.
+[2] Main Rehabilitation Co. v. Canada, [2004] 2 C.T.C. 2068. (T.C.C.).

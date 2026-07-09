@@ -1,0 +1,163 @@
+---
+title: "Lefebvre c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27433/index.do"
+last_modified: "2006-04-21"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 CCI 247"
+citation2: ""
+neutral_citation: "2006 CCI 247"
+decision_date: "2006-04-21"
+language: "fr"
+item_id: "27433"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 255
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T08:40:24.514000+00:00"
+cases_cited_count: 1
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "7a14bb061fe622e9e6c5f117ef01fe0e376216418edd900da3f8f9949b308cd1"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Lefebvre c. La Reine
+
+- Citation: 2006 CCI 247
+- Decision date: 2006-04-21
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 255, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Lefebvre c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-04-21
+Référence neutre
+2006 CCI 247
+Numéro de dossier
+2005-4225(IT)I
+Juges et Officiers taxateurs
+Lucie Lamarre
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2005-4225(IT)I
+ENTRE :
+SYLVAIN LEFEBVRE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appels entendus sur preuve commune avec les appels de Jeannette Tardif (2005-4227(IT)I) le 13 avril 2006, à Montréal (Québec).
+Devant : L'honorable juge Lucie Lamarre
+Comparutions :
+Représentant de l'appelant :
+Yoland Dumas
+Avocat de l'intimée :
+Me Alain Gareau
+____________________________________________________________________
+JUGEMENT
+Les appels des cotisations établies en vertu de la Loi de l'impôt sur le revenu pour les années d'imposition 1997 et 1998 sont rejetés.
+Signé à Ottawa, Canada, ce 21e jour d'avril 2006.
+« Lucie Lamarre »
+Juge Lamarre
+Dossier : 2005-4227(IT)I
+ENTRE :
+JEANNETTE TARDIF,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appels entendus sur preuve commune avec les appels de Sylvain Lefebvre (2005-4225(IT)I) le 13 avril 2006, à Montréal (Québec).
+Devant : L'honorable juge Lucie Lamarre
+Comparutions :
+Représentant de l'appelante :
+Yoland Dumas
+Avocat de l'intimée :
+Me Alain Gareau
+____________________________________________________________________
+JUGEMENT
+Les appels des cotisations établies en vertu de la Loi de l'impôt sur le revenu pour les années d'imposition 1997 et 1998 sont rejetés.
+Signé à Ottawa, Canada, ce 21e jour d'avril 2006.
+« Lucie Lamarre »
+Juge Lamarre
+Référence : 2006CCI247
+Date : 20060421
+Dossier : 2005-4225(IT)I
+ENTRE :
+SYLVAIN LEFEBVRE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée
+et
+2005-4227(IT)I
+JEANNETTE TARDIF,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+La juge Lamarre
+[1] Le ministre du Revenu national ( « ministre » ) a refusé des pertes locatives aux appelants pour les années 1997 et 1998. Les appelants ont confié leurs déclarations de revenu pour ces deux années à monsieur Christian Avard, un ami d'enfance de monsieur Lefebvre. Ce dernier leur avait fait acheter un immeuble à revenus situé à ville Lasalle (Québec). Les appelants ne se sont jamais considérés propriétaires de cet immeuble à revenus. Ils ne s'en sont jamais préoccupés, ne l'ont jamais visité, n'ont tiré aucun revenu de loyer et n'ont jamais fait aucun paiement relativement à cet immeuble. À plusieurs reprises, ils ont dit sur papier qu'ils agissaient à titre de prête-nom pour monsieur Avard (voir déclaration solennelle de Sylvain Lefebvre, pièce I-1, pages 5 et 6 de 7, questions 2 c), d), h), i), et l); lettre écrite par les appelants au Bureau des services fiscaux de Montréal, pièce I-3, page 2, paragraphe 9; déclaration solennelle de Jeannette Tardif, pièce I-4, pages 5 et 6 de 7, questions 2 c), d), h) et l)).
+[2] Dans les faits, en 1995, ils ont vendu leur résidence au frère de monsieur Avard pour une somme apparente plus élevée que celle demandée. Monsieur Avard leur a ensuite demandé de passer chez le notaire pour acquérir l'immeuble à revenus à ville Lasalle. Il semble que le solde de la dette hypothécaire sur la résidence personnelle ait été transférée sur la propriété à revenus afin d'éviter le paiement d'une pénalité à la banque.
+[3] Les appelants sont restés dans leur résidence en continuant à effectuer les mêmes paiements qu'ils faisaient sur leur hypothèque, mais sous forme de loyer remis à monsieur Avard. Ces paiements n'avaient rien à voir avec les dépenses reliées à l'immeuble à revenus.
+[4] Monsieur Avard percevait directement les revenus de loyer et assumait toutes les dépenses rattachées à l'immeuble, y compris les paiements hypothécaires. Les appelants n'avaient aucune implication dans cet immeuble: ils n'en tiraient aucun revenu et ne payaient aucune dépense. Malgré tout, monsieur Avard a calculé des pertes locatives et les a déduites des revenus des appelants. Bien que chaque appelant, en apparence, était propriétaire de 50 pourcent de l'immeuble locatif, la pleine perte locative a été réclamée par chacun des appelants. Le remboursement d'impôt reçu par chacun des appelants par suite de la réclamation de ces pertes locatives a ensuite été remis à monsieur Avard.
+[5] Bien que les appelants ont peu d'éducation et qu'ils semblent s'être fait entraîner dans un guet-apens par monsieur Avard, il ressort de la lettre écrite à l'Agence des douanes et du revenu du Canada, qu'ils avaient eu un doute dès le début sur la légalité des gestes posés par monsieur Avard (voir pièce I-3, paragraphe 5).
+[6] Par la suite, soit en février 1996, Sylvain Lefebvre a reçu un avis de la Banque Laurentienne, l'avisant que les paiements sur l'hypothèque grevant maintenant l'immeuble à revenus à ville Lasalle, étaient déficients. À ce moment, monsieur Lefebvre a dit qu'il a commencé à douter des agissements légaux de monsieur Avard. Malgré tout, lui et sa conjointe, madame Tardif, ont accepté la façon de procéder de ce dernier en réclamant chacun le plein montant des pertes locatives dans leurs déclarations de revenu pour 1997 et 1998, pour des dépenses qu'ils n'avaient jamais, ni l'un ni l'autre, engagées. En 1998, ils ont demandé à monsieur Avard de vendre l'immeuble locatif.
+[7] Je suis d'avis que les cotisations refusant les pertes locatives sont bien fondées. D'une part, les appelants ne peuvent déduire de leur revenu des pertes reliées à des dépenses qu'ils n'ont jamais engagées. De plus, même si les appelants disent ne pas avoir compris le sens de l'expression « agir à titre de prête-nom » , il ressort de la preuve qu'ils ont agi, dans les faits, comme des prête-noms pour monsieur Avard. De fait, ils sont passés chez le notaire lors de l'achat et de la vente de l'immeuble à revenus dans le seul but de prêter leurs noms à une transaction effectuée pour et au nom de monsieur Avard. C'est ce dernier qui avait droit aux revenus de loyer et qui assumait les dépenses reliées à la location de l'immeuble. La preuve ne révèle pas du tout qu'il agissait comme un simple agent pour les appelants, mais bien plutôt que ce sont les appelants qui, en prêtant leurs noms à la transaction, ont agi comme mandataires pour monsieur Avard. Les appelants ont clairement dit qu'ils n'assumaient aucune responsabilité vis-à-vis cet immeuble à revenus, et qu'ils n'en étaient pas les propriétaires.
+[8] Dans l'arrêt Victuni A.G. c. Québec, [1980] 1 R.C.S. 580, 1980 CarswellQue 108F, la Cour suprême du Canada reconnaissait le contrat de prête-nom comme une forme licite du contrat du mandat en droit québécois. La Cour dit ce qui suit au paragraphe 7 de la version CarswellQue :
+7 En droit québécois, comme en droit français, le contrat de prête-nom est une forme licite du contrat du mandat. Dans le Code civil du Québec, cela ressort de l'art. 1716 qui dispose:
+Art. 1716. Le mandataire qui agit en son propre nom est responsable envers les tiers avec qui il contracte, sans préjudice aux droits de ces derniers contre le mandant.[1]
+Au sujet de cet article, on lit au vol. 13 du Traité de droit civil du Québec, (à la p. 70):
+Quant au prête-nom, ce contrat est une forme de mandat parfaitement reconnu dans notre droit (Canuel c. Belzile (1922), 33 B.R. 355). Le prête-nom n'est au fond qu'un mandataire, ...
+Dans cet arrêt, il avait été mis en preuve que Victuni avait acheté le terrain en son nom, comme mandataire de deux autres sociétés qui en étaient les vraies propriétaires et pour le compte desquelles Victuni détenait ce terrain. La Cour dit ceci aux paragraphes 9 et 10 :
+9 En vertu des principes généraux du mandat il est clair que l'obligation d'un mandataire envers son mandant n'est pas une dette. Celui qui a acheté un immeuble pour le compte d'un tiers qui veut rester inconnu, n'est pas plus débiteur du prix payé qu'il n'est propriétaire de l'immeuble. Le vrai propriétaire c'est le mandant et l'obligation du mandataire prête-nom c'est de rendre compte au mandant et de lui remettre ce qu'il perçoit pour lui (C.c., art. 1713). [...]
+10 Quant au caractère de la taxe dont il s'agit, un autre arrêt du Conseil privé portant sur la première loi du Québec à ce sujet, a bien fait ressortir qu'il s'agit d'une taxe imposée à la personne et non sur les biens: Bank of Toronto v. Lambe [[1887] 12 A.C. 575]. Il ne s'agit donc pas ici d'une taxe de même nature que l'impôt foncier prélevé par les municipalités qui est évidemment exigible du propriétaire apparent, puisqu'il s'agit d'une charge immobilière qui grève l'immeuble. La taxe sur le capital versé des compagnies, tout comme l'impôt sur leur revenu, est au contraire une contribution imposée à la personne exactement comme l'impôt sur le revenu des particuliers. Le mandataire apparent ou occulte qui possède un bien pour le compte d'autrui est tenu de faire connaître au fisc ce qu'il perçoit pour le compte de son mandant, mais il n'est pas débiteur de l'impôt.
+Il ressort donc de cet arrêt que si le mandataire agissant comme prête-nom n'est pas débiteur de l'impôt sur l'immeuble à revenus, celui-ci n'a pas plus le droit aux pertes locatives provenant de cet immeuble à revenus.
+[9] De plus, le remboursement d'impôt remis à monsieur Avard ne peut être une dépense déductible non plus pour les appelants, telle que le réclame leur représentant. Le montant ainsi remis par les appelants à monsieur Avard n'a pas servi à tirer un revenu de bien; il a servi à financer le stratagème fiscal organisé par monsieur Avard. Une telle dépense ne peut être déductible même si les appelants ont été victimes d'une fraude fiscale (voir Vankerk v. The Queen, 2006 FCA 96, [2006] F.C.J. No. 371 (QL)).
+[10] Par ailleurs, le ministre était justifié de cotiser en dehors de la période normale de cotisation. En effet, il y a eu déclaration erronée par négligence, inattention, ou omission volontaire aux termes du paragraphe 152(4) de la Loi de l'impôt sur le revenu. Dès le début, les appelants ont eu des doutes sur les agissements de monsieur Avard, mais ils ont laissé monsieur Avard agir en sachant qu'ils déduisaient chacun de leurs revenus la totalité des pertes de location qu'ils n'avaient jamais assumées. Ceci n'est pas faire preuve de diligence raisonnable (voir Venne c Canada, (C.F. 1re inst.) [1984] A.C.F. no 314 (QL)).
+[11] Les appels sont rejetés.
+Signé à Ottawa, Canada, ce 21e jour d'avril 2006.
+« Lucie Lamarre »
+Juge Lamarre
+RÉFÉRENCE : 2006CCI247
+N º s DES DOSSIERS DE LA COUR : 2005-4225(IT)I et 2005-4227(IT)I
+INTITULÉS DE LA CAUSE : SYLVAIN LEFEBVRE et JEANNETTE TARDIF c. SA MAJESTÉ LA REINE
+LIEU DE L'AUDIENCE : Montréal (Québec)
+DATE DE L'AUDIENCE : le 13 avril 2006
+MOTIFS DU JUGEMENT PAR : L'honorable juge Lucie Lamarre
+DATE DU JUGEMENT : le 21 avril 2006
+COMPARUTIONS :
+Représentant des appelants :
+Yoland Dumas
+Avocat de l'intimée :
+Me Alain Gareau
+AVOCAT INSCRIT AU DOSSIER :
+Pour les appelants:
+Nom :
+Étude :
+Pour l'intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Ce sont maintenant les articles 2157 à 2159 du Code civil du Québec qui régissent les obligations du mandataire envers les tiers.

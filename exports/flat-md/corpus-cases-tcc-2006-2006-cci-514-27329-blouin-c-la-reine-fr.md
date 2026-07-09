@@ -1,0 +1,174 @@
+---
+title: "Blouin c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27329/index.do"
+last_modified: "2006-10-23"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 CCI 514"
+citation2: ""
+neutral_citation: "2006 CCI 514"
+decision_date: "2006-10-23"
+language: "fr"
+item_id: "27329"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 869
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T23:39:31.842000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "4a0c282274f255ef9ef439d531878de4e3a2c88663f390843f1bb1feffe598a1"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Blouin c. La Reine
+
+- Citation: 2006 CCI 514
+- Decision date: 2006-10-23
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 869, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Blouin c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-10-23
+Référence neutre
+2006 CCI 514
+Numéro de dossier
+2005-529(IT)G
+Juges et Officiers taxateurs
+Paul Bédard
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2005-529(IT)G
+ENTRE :
+ROGER BLOUIN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appels entendus le 13 septembre 2006 à Québec, Québec
+Devant : L'honorable juge Paul Bédard
+Comparutions :
+Avocat de l'appelant :
+Me Marc-Antoine Deschamps
+Avocat de l'intimée :
+Me Martin Gentile
+____________________________________________________________________
+JUGEMENT
+Les appels des cotisations pour l'année d'imposition 1997 établies en vertu des paragraphes 160(1), 163(2) et 15(1) de Loi de l'impôt sur le revenu, dont les avis sont datés du 21 octobre 2002 et du 17 décembre 2002 et portent les numéros 1094466 et 19606 respectivement, sont rejetés, avec dépens, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 23ième jour d'octobre 2006.
+« Paul Bédard »
+Juge Bédard
+Référence : 2006CCI514
+Date : 20061023
+Dossier : 2005-529(IT)G
+ENTRE :
+ROGER BLOUIN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Bédard
+[1] L'appelant en appelle, selon le régime de la procédure générale :
+a) de la cotisation datée du 21 octobre 2002 par laquelle :
+i) le ministre du Revenu du Canada (le « ministre » ) a inclus dans le calcul du revenu de l'appelant pour l'année d'imposition 1997, une somme de 624 277 $. Le ministre avait ajouté ce montant aux revenus de l'appelant puisqu'il avait conclu que l'appelant s'était approprié ce montant de la société Les Constructions Roger Blouin Inc. (la « Société » ) et qu'il avait ainsi reçu un avantage en tant qu'actionnaire au sens du paragraphe 15(1) de la Loi de l'impôt sur le revenu (la « Loi » );
+ii) le ministre a imposé à l'appelant une pénalité en vertu du paragraphe 163(2) de la Loi à l'égard de son année d'imposition 1997.
+b) de la cotisation datée du 17 décembre 2002, pour l'année d'imposition 1997, aux termes de laquelle le ministre réclamait de l'appelant une somme de 529 189,68 $ en vertu du paragraphe 160(1) de la Loi.
+Témoignage de l'appelant
+[2] L'appelant a témoigné que :
+i) il était l'unique administrateur et actionnaire de la Société depuis sa constitution. La Société exploitait une entreprise dans le domaine de la construction depuis 1975. Il était actionnaire et administrateur d'autres sociétés;
+ii) le 2 juillet 1985, la société Garantie, Compagnie d'assurance d'Amérique (la « Garantie » ) et la Société Immobilière du Québec ( « SIMQ » ) octroyaient à la Société un contrat pour continuer et parachever les travaux de construction commencés par une autre entreprise qui était alors dans l'impossibilité de les compléter. La Société terminait les travaux de construction liés à ce contrat le ou vers le 29 décembre 1987;
+iii) de la fin des travaux jusqu'au 19 juin 1991, la Société avait entrepris des démarches pour récupérer de la Garantie et de la SIMQ les sommes (retenues, extras et dommages) qui lui étaient dues dans le cadre de l'exécution du contrat qui lui avait été octroyé le 2 juillet 1985;
+iv) à partir de la fin des travaux, c'est-à-dire le 22 décembre 1987, la Société avait cessé à toutes fins pratiques l'exploitation de son entreprise, celle-ci n'ayant plus les ressources financières pour ce faire;
+v) les négociations avec la Garantie et la SIMQ étant dans l'impasse, la Société intentait le 19 juin 1991, une action en recouvrement contre ces sociétés de 1 097 683,03 $ (Pièce A-1, onglet 5);
+vi) dans le but de protéger sa réputation auprès des fournisseurs et banquiers de la Société et auprès d'autres acteurs oeuvrant dans le domaine de la construction, l'appelant avait pris en charge ou payé au début des années 1990 les dettes suivantes de la Société (le « Passif ° » ) :
+i) un emprunt bancaire payable à la Banque de Nouvelle-Écosse pour un montant de 175 000 $;
+ii) un compte payable à Otis Canada Inc. pour un montant de 108 729,38 $;
+iii) un compte payable à P.P.G. Canada Inc. pour un montant de 186 729,90 $;
+iv) un compte payable à Vézina Pouliot & associés pour un montant de 18 997 $;
+v) un compte payable à la municipalité de Charny pour un montant de 60 000 $;
+vi) un compte payable à Entreprise d'Électricité R. Simard pour un montant de 54 000 $.
+Sans pouvoir préciser les dates où il avait payé le Passif, l'appelant a soutenu qu'il avait pris en charge ces dettes au début des années 1990, c'est-à-dire sur une période s'échelonnant de 1990 à 1994;
+vii) la Société avait conservé les livres, les registres et la documentation liés à son exploitation (dont la documentation liée à l'existence et au paiement du Passif) jusqu'à la fermeture de sa place d'affaires en 1995. L'appelant a relaté qu'il aurait aimé conserver toute cette documentation dans l'appartement où il habitait mais que l'exiguïté des lieux ne lui avait pas permis de le faire. Il a ajouté que ses démarches pour retrouver les pièces justificatives en question auprès des créanciers de la Société s'étaient avérées infructueuses parce que certains d'entre eux n'étaient plus en affaires et que les autres avaient comme politique de conserver les pièces justificatives qu'un certain nombre d'années;
+viii) il avait payé le Passif à même les économies réalisées au cours des années précédentes par lui et sa conjointe, économies qui provenaient d'un revenu familial annuel moyen d'environ 70 000 $;
+ix) en mars 1997, à la suite de son action en recouvrement, la Société recevait un montant net de 624 277 $ dans le cadre d'un règlement hors cour, c'est-à-dire 720 000 $ moins les honoraires professionnels des procureurs de la Société. L'appelant déposait un chèque de 624 277 $ dans son compte de banque personnel le 29 mars 1997 (pièce I-1, onglet 9);
+x) ni la Société, ni l'appelant n'avaient déclaré le revenu de 720 000 $ provenant du règlement hors cour lié à l'action en recouvrement. L'appelant a expliqué qu'en aucun moment il n'avait pensé que la Société devait déclarer le revenu provenant du règlement hors cours lié à l'action en recouvrement. Il a ajouté qu'il n'avait même pas pensé de consulter ses comptables pour savoir comment la société devait traiter le chèque provenant de ce règlement hors cour.
+[3] La preuve a aussi révélé que la Société n'avait pas comptabilisé dans ses états financiers joints aux déclarations fiscales produites par la Société pour ses années d'imposition 1991, 1992, 1993 et 1994 les avances consenties par l'appelant à cette dernière au cours de ces années.
+Position de l'intimée
+[4] L'intimée soutient qu'au moment où l'appelant a déposé le montant de 624 277 $ dans son compte de banque, la Société ne devait rien à l'appelant. L'intimée prétend que le ministre était justifié d'ajouter un montant de 624 277 $ au revenu de l'appelant pour son année d'imposition 1997 puisque l'appelant s'était approprié ce montant de la Société et qu'il avait donc reçu un avantage en tant qu'actionnaire au sens du paragraphe 15(1) de la Loi.
+[5] Au moment où l'appelant a déposé le chèque de 624 277 $ dans son compte de banque personnel (le « Transfert » ), la Société était endettée envers le ministre d'une somme totalisant 529 189 $. Puisqu'il n'y avait aucun lien de dépendance lors du Transfert entre l'appelant et la Société et puisque le ministre considérait que le Transfert constituait une appropriation de fonds, c'est-à-dire un transfert sans contrepartie, l'intimée a soutenu que le ministre était fondé d'établir au nom de l'appelant une cotisation en vertu de l'article 160 de la Loi pour un montant de 529 189 $.
+[6] Enfin, l'intimée a soutenu que l'appelant avait sciemment ou dans des circonstances qui justifient l'imposition d'une faute lourde, fait un faux énoncé dans sa déclaration de revenus pour son année d'imposition 1997 en ne déclarant pas le revenu de 624 277 $ et qu'ainsi le ministre était justifié d'imposer à l'appelant une pénalité en vertu du paragraphe 163(2) de la Loi à l'égard de son année d'imposition 1997.
+Position de l'appelant
+[7] L'appelant a soutenu que la Société lui devait 603 456 $ au moment du Transfert, puisqu'il avait payé avant le Transfert le Passif qui totalisait 603 456 $. Il a donc affirmé que le montant de 603 456 $ qui lui avait été versé par la Société constituait un remboursement des avances qu'il avait consenties à cette dernière plutôt qu'une appropriation de fonds. Il a ajouté que, puisqu'il ne s'était pas approprié de fonds de la Société, le ministre n'était pas bien fondé d'établir au nom de l'appelant une cotisation en vertu de l'article 160 de la Loi pour un montant de 529 189 $. Subsidiairement, l'appelant a contesté la dette fiscale de la Société en date du Transfert en soutenant que le paiement de 720 000 $ reçu par la Société dans le cadre du règlement hors cour ne constituait pas un revenu pour la Société, mais bien un paiement de nature capitale.
+[8] L'avocat de l'appelant a soutenu que l'intimée ne s'était pas acquitté du fardeau de la preuve qui lui incombait en matière de pénalité imposée en vertu du paragraphe 163(2) de la Loi.
+[9] Enfin, dans l'hypothèse où je conclurais que l'appelant n'avait pas consenti à la Société des avances totalisant 603 456 $ à la date du Transfert, l'avocat de l'appelant me demande de traiter à posteriori le Transfert comme un dividende de liquidation.
+Analyse et conclusion
+[10] La preuve de l'appelant liée à la prise en charge du Passif reposait essentiellement sur son témoignage compte tenu de la quasi-absence de preuve documentaire. Donc, l'appréciation de la crédibilité de l'appelant a joué un rôle important étant donné que son témoignage n'était pas appuyé par une preuve documentaire adéquate ou par le témoignage de témoins indépendants et crédibles. Il est vrai que le témoignage d'une seule personne peut être suffisant pour s'acquitter du fardeau de persuasion. Par ailleurs, l'appelant doit savoir qu'un juge n'est pas tenu de croire un témoin qui n'est pas contredit. En effet, sa version non contredite peut être jugée invraisemblable d'après les circonstances révélées par la preuve ou d'après les règles du bon sens. Il est d'autant plus difficile pour un juge de croire un témoin lorsque sa version des faits est contredite par un élément preuve objectif fourni par le témoin lui-même et lorsque ce dernier se contente de faire des affirmations générales et souvent non vérifiables et de donner des explications évasives, équivoques et inintelligibles. De plus, les hésitations du témoin, le temps qu'il met à répondre à des questions, la mine qu'il fait et ses trous de mémoire soulèvent souvent encore plus de doutes dans l'esprit du juge quant à la crédibilité du témoin.
+[11] En l'espèce, les assertions de l'appelant quant au paiement du Passif m'apparaissent invraisemblables et non crédibles parce que son témoignage à cet égard fut contredit par les états financiers de la Société pour les années 1991, 1992, 1993 et 1994, états financiers qui étaient joints aux déclarations fiscales produites par la Société pour ces mêmes années. En effet, les avances ainsi consenties par l'appelant à la Société pendant ces années qui, je le rappelle, totalisaient 603 456 $, n'étaient pas consignées dans ces états financiers. Les explications de l'appelant à l'effet qu'il n'avait pas vu la nécessité de comptabiliser les avances ainsi consenties à la Société dans les bilans de cette dernière parce qu'elle était inopérante sont, à mon avis, tout simplement invraisemblables. Je ne peux m'imaginer qu'un homme d'affaires d'expérience aussi bien conseillé que l'appelant pourrait être à ce point inconscient compte tenu de l'importance des conséquences qui pourraient résulter la non-comptabilisation des avances dans les bilans de la Société.
+[12] Je n'explique aussi très difficilement que l'appelant n'ait pas conservé quelque preuve documentaire liée au paiement du Passif. Je peux comprendre que la Société n'était pas en mesure de conserver, à partir de la fermeture complète de sa place d'affaires en 1995, tous ses registres, livres comptables et documents liés à son exploitation. Je peux aussi comprendre que l'appelant ne pouvait entreposer toute cette documentation dans son appartement compte tenu de l'exiguïté de celui-ci. L'exiguïté de l'appartement n'empêchait sûrement pas l'appelant de conserver tout au moins les six chèques liés au paiement du Passif. Encore une fois, il m'apparaît invraisemblable qu'un homme d'affaires aussi avisé que l'appelant ait minimisé l'importance de conserver de telles pièces justificatives en supposant qu'elles aient existé.
+[13] Je peux aussi comprendre qu'il pourrait être très difficile de retrouver de telles pièces justificatives qui remontent aussi loin dans le passé. La preuve de l'appelant à l'égard de ses efforts pour retrouver cette documentation reposait encore une fois uniquement sur ses affirmations générales et non vérifiables. L'absence de toute preuve documentaire ou testimoniale liée tout au moins aux efforts de l'appelant en vue de retrouver cette documentation n'a fait qu'ajouter à mes doutes sur l'existence de telles avances.
+[14] Les explications de l'appelant quant à la provenance des fonds ayant servi à la prise en charge du Passif furent aussi générales et délibérément imprécises. Il m'apparaît invraisemblable que l'appelant ait pu économiser environ 604 000 $ compte tenu de son faible revenu familial. Encore une fois, l'appelant aurait pu appuyer ses assertions en fournissant une preuve documentaire démontrant qu'il avait un tel capital au moment de la prise en charge du Passif. Il est difficile de croire qu'il était absolument impossible de retracer quelque documentation démontrant directement ou indirectement l'existence d'un tel capital ou de trouver un témoin indépendant et crédible qui aurait pu appuyer les assertions de l'appelant à cet égard. Encore une fois, l'absence de toute preuve documentaire liée tout au moins aux efforts de l'appelant pour retracer cette preuve documentaire n'a fait qu'alimenter mes doutes au sujet de l'existence d'un tel capital.
+[15] Les explications de l'appelant relativement à la non-déclaration par la Société du revenu de 720 000 $ à l'égard de son année d'imposition 2003 n'ont fait qu'alimenter mes doutes au sujet de la crédibilité de l'appelant. Il m'apparaît invraisemblable qu'un homme d'affaires d'expérience comme l'appelant n'ait pas pensé à quelque moment que ce soit que la Société devait peut-être consigner un montant aussi minime que 720 000 $ dans ses revenus ou encore n'ait pas pensé de poser tout au moins la question à ses comptables ou fiscalistes.
+[16] Je rappelle que l'appelant a déposé dans son compte de banque personnel un chèque de 624 277 $ qui avait été établi à l'ordre de la Société dans le cadre du règlement hors cour de l'action en recouvrement. L'appelant a prétendu qu'il ne s'était pas approprié ce montant de la Société. Il a soutenu que la Société lui devait 603 456 $ lors de l'encaissement du chèque puisqu'il avait payé avant cette date le Passif qui totalisait 603 456 $. Il a donc soutenu que le montant de 603 456 $ qui lui avait été ainsi versé par la Société constituait un remboursement des avances qu'il avait consenties à cette dernière plutôt qu'une appropriation de fonds. Je note que le chèque encaissé par l'appelant était de 624 277 $ et que le Passif qu'il prétend avoir payé totalisait 603 456 $. Il demeure donc un écart entre les deux montants de 20 821 $, écart au sujet duquel l'appelant n'a fourni aucune explication.
+[17] Pour ces motifs, je conclus que l'appelant ne m'a pas convaincu qu'il avait avant le Transfert payé le Passif. Par conséquent, le ministre était bien fondé d'ajouter au revenu de l'appelant, pour l'année d'imposition 1997, une somme de 624 277 $. Je suis d'avis qu'en encaissant le chèque de 624 277 $ tiré à l'ordre de la Société, l'appelant s'était approprié ce montant de la Société et qu'ainsi il avait reçu un avantage en tant qu'actionnaire au sens du paragraphe 15(1) de la Loi.
+[18] Reste la question des pénalités pour l'année d'imposition 1997. L'intimée soutient qu'elles devraient être maintenues à l'égard de l'année d'imposition 1997. Elles ont été appliquées en vertu du paragraphe 163(2) de la Loi, qui se lit comme suit :
+163(2) Faux énoncés ou omissions. Toute personne qui, sciemment ou dans des circonstances équivalant à faute lourde dans l'exercice d,une obligation prévue à la présente loi ou à son règlement, fait un faux énoncé ou une omission dans une déclaration, un formulaire, un certificat, un état ou une réponse - appelé « déclaration » au présent article - rempli, produit ou présenté, selon le cas, pour une année d'imposition conformément à la présente loi ou à son règlement, ou y participe, y consent ou y acquiesce est passible d'une pénalité égale, sans être inférieur à 100 $, à 50% du total des montant suivants : [...]
+Le paragraphe 163(3) de la Loi précise que la charge de la preuve incombe au ministre. On y lit que :
+Charge de la preuve relativement aux pénalités. Dans tout appel interjeté, en vertu de la présente loi, au sujet d'une pénalité imposée par le ministre en vertu du présent article, le ministre a la charge d'établir les faits qui justifient l'imposition de la pénalité.
+[19] Il incombait donc au ministre d'établir les faits qui justifiaient l'imposition des pénalités, c'est-à-dire, en l'occurrence, de prouver que le contribuable a fait un faux énoncé ou une omission dans une déclaration de revenus et que ce faux énoncé ou cette omission a été fait sciemment ou dans des circonstances équivalant à faute lourde. Le fardeau du ministre n'est pas de fournir une preuve hors de tout doute raisonnable, mais simplement une preuve selon la prépondérance des probabilités.
+[20] De façon générale, le ministre ne peut pas s'acquitter de son fardeau de la preuve en soulevant seulement le fait que le contribuable avait été incapable de réfuter la cotisation. Dans la décision Dowling c. Canada ( Sa Majesté La Reine ), [1996] A.C.I. no 301, dossier 93-934(IT)G, 96 DTC 1250, ma collègue la juge Lamarre s'est expliquée ainsi au paragraphe 102 sur ce point :
+Le ministre doit présenter des éléments de preuve établissant que le contribuable a fait un faux énoncé ou une omission en produisant la déclaration. Ces éléments de preuve doivent établir davantage que le simple fait que l'état de l'avoir net n'a pas été réfuté. Une fois que le ministre a démontré, selon la prépondérance des probabilités, qu'il y avait un faux énoncé ou une omission dans la déclaration, il doit présenter des éléments de preuve établissant que cette présentation erronée des faits a été faite sciemment ou dans des circonstances équivalant à une faute lourde. Dans l'affaire Venne, précitée, le juge Strayer définissait comme suit la faute lourde, à la page 6256 :
+[...] La « faute lourde ° » doit être interprétée comme un cas de négligence plus grave qu'un simple défaut de prudence raisonnable. Il doit y avoir un degré important de négligence qui corresponde à une action délibérée, une indifférence au respect de la loi.
+[...] Le paragraphe ne vise évidemment pas à imposer de responsabilité stricte, mais il n'autorise les pénalités que si le contribuable a une degré élevé de faute, notamment la connaissance ou la mauvaise conduite insouciante [p. 6258].
+[21] Ici, l'appelant a signé sa déclaration de revenus en sachant très bien qu'il s'était approprié une somme de 624 277 $ de la Société. Il a fait une omission volontaire d'une ampleur inouïe. À mon avis, le ministre s'est acquitté, en l'espèce, de son fardeau de la preuve et ainsi était en droit d'imposer la pénalité prévue au paragraphe 163(2) de la Loi sur les revenus non déclarés de l'appelant qui totalisaient 624 277 $ en 1997.
+[22] Quant à la cotisation établie à l'encontre de l'appelant en vertu de l'article 160 de la Loi pour un montant de 529 189 $, je rappelle que l'appelant a soutenu que :
+i) le ministre n'était pas bien fondé d'établir au nom de l'appelant une cotisation en vertu de l'article 160, parce qu'il ne s'était pas approprié de fonds de la Société;
+ii) la Société n'avait pas de dette fiscale au moment du Transfert en ce que le paiement de 720 000 $ reçu par la Société dans le cadre du règlement hors cour ne constituait pas un revenu par la Société mais un paiement de nature capitale.
+[23] Enfin, je rappelle que l'avocat de l'appelant m'a demandé de traiter le Transfert comme un dividende de liquidation dans l'hypothèse où je conclurais que l'appelant n'avait pas consenti à la Société des avances de 603 456 $ à la date du Transfert.
+[24] D'abord, je suis d'avis que la somme de 720 000 $ reçue par la Société dans le cadre du règlement hors cour de l'action en recouvrement intentée contre la Garantie et la SIMQ constituait clairement une indemnité attribuée pour cause de non-paiement d'une somme qui aurait constitué un revenu si elle avait été reçue et que, par conséquent, l'indemnité était un revenu.
+[25] Quant à la demande de l'avocat de l'appelant de traiter l'encaissement du chèque de 603 456 $ comme un dividende de liquidation, je ne peux tout simplement pas y acquiescer. D'abord, cet argument a été soulevé pour la première fois lors de la plaidoirie de l'avocat de l'appelant sans avoir été invoqué dans l'avis d'appel. De plus, l'appelant n'a jamais fait la preuve que la Société avait autorisé la distribution d'un dividende de liquidation. Bien au contraire, l'appelant a répété sans cesse qu'il y avait eu compensation lorsqu'il avait encaissé le chèque tiré à l'ordre de la Société en ce que l'encaissement de ce chèque constituait le remboursement des avances qu'il avait consenties à la Société avant le Transfert.
+[26] Pour ces motifs, les appels sont rejetés avec dépens.
+Signé à Ottawa, Canada, ce 23ième jour d'octobre 2006.
+« Paul Bédard »
+Juge Bédard
+RÉFÉRENCE : 2006CCI514
+N º DU DOSSIER DE LA COUR : 2005-529(IT)G
+INTITULÉ DE LA CAUSE : ROGER BLOUIN ET SA MAJESTÉ LA REINE
+LIEU DE L'AUDIENCE : Québec, Québec
+DATE DE L'AUDIENCE : le 13 septembre 2006
+MOTIFS DU JUGEMENT PAR : L'honorable juge Paul Bédard
+DATE DU JUGEMENT : le 23 octobre 2006
+COMPARUTIONS :
+Avocat de l'appelant :
+Me Marc-Antoine Deschamps
+Avocat de l'intimée :
+Me Martin Gentile
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelant:
+Nom : Me Marc-Antoine Deschamps
+Étude : Pothier, Delisle
+Pour l'intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

@@ -1,0 +1,165 @@
+---
+title: "Zochowski c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30901/index.do"
+last_modified: "2012-07-26"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2012 CCI 277"
+citation2: ""
+neutral_citation: "2012 CCI 277"
+decision_date: "2012-07-26"
+language: "fr"
+item_id: "30901"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7460
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T14:28:40.498000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "cb64772e917783e67ac2a3da804749039befbf3c91e66cf42e6f9a380c276e3e"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Zochowski c. La Reine
+
+- Citation: 2012 CCI 277
+- Decision date: 2012-07-26
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7460, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Zochowski c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2012-07-26
+Référence neutre
+2012 CCI 277
+Numéro de dossier
+2011-3835(IT)I
+Juges et Officiers taxateurs
+Judith Woods
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2011-3835(IT)I
+ENTRE :
+MARK ZOCHOWSKI,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 20 juillet 2012, à Toronto (Ontario)
+Devant : L’honorable juge J.M. Woods
+Comparutions :
+Représentant de l’appelant :
+M. Ludwik Zochowski
+Pour l’intimée :
+Me Rita Araujo
+Mme Jaya Gandhi (stagiaire)
+____________________________________________________________________
+JUGEMENT
+L’appel formé contre une cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d'imposition 2009 est rejeté.
+Signé à Toronto (Ontario), ce 26e jour de juillet 2012.
+« J. M. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 13e jour de septembre 2012.
+S. Tasset
+Référence : 2012 CCI 277
+Date : 20120726
+Dossier : 2011-3835(IT)I
+ENTRE :
+MARK ZOCHOWSKI,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Woods
+[1] L’appelant, Mark Zochowski, s’est inscrit à un programme de maîtrise en sciences et en éducation à l’Université Capella en 2009. La question est de savoir s’il a droit pour ce programme à des crédits d’impôt aux termes de la Loi de l’impôt sur le revenu (la « Loi »). Trois crédits d’impôt sont en question : le crédit d’impôt pour frais de scolarité, le crédit d’impôt pour études et le crédit d’impôt pour manuels.
+[2] L’appelant voulait aussi déduire des dépenses se rapportant au Collège Humber de Toronto, mais cette revendication a été retirée au cours de l’audience parce que le cours avait été suivi durant une année d’imposition antérieure.
+[3] L’Université Capella, dont le siège est aux États-Unis, offre des programmes pédagogiques en ligne. L’appelant vit en Ontario et a suivi le programme de maîtrise sur Internet.
+[4] En 2009, l’appelant a achevé quatre semestres de dix semaines chacun. Une pause de quelques semaines était ménagée entre les semestres. Trois des semestres étaient à temps plein, et le semestre restant était à temps partiel.
+[5] L’Université Capella a refusé de remettre à l’appelant le formulaire de l’ARC nécessaire pour le crédit d’impôt pour études parce que le cours n’était pas d’une durée de 13 semaines consécutives.
+[6] Il est clair que l’appelant ne remplit les conditions pour aucun des trois crédits d’impôt qui sont en cause ici, parce que le programme ne consistait pas en un cours d’une durée d’au moins 13 semaines consécutives.
+[7] Les dispositions applicables de la Loi sont reproduites ci-après, les parties pertinentes étant soulignées.
+[8] La disposition applicable au crédit d’impôt pour frais de scolarité est l’alinéa 118.5(1)b) de la Loi.
+118.5(1) – Crédit d’impôt pour frais de scolarité – Les montants suivants sont déductibles dans le calcul de l’impôt payable par un particulier en vertu de la présente partie pour une année d’imposition :
+[…]
+b) [université située à l’étranger] – si, au cours de l’année, le particulier fréquente comme étudiant à plein temps une université située à l’étranger, où il suit des cours conduisant à un diplôme, le produit de la multiplication du taux de base pour l’année par le total des frais de scolarité payés à l’université pour l’année, à l’exception des frais qui ont été :
+(i) soit payés pour des cours d’une durée inférieure à treize semaines consécutives,
+(ii) soit payés pour son compte par son employeur, dans la mesure où ils ne sont pas inclus dans le calcul de son revenu,
+(iii) soit payés pour son compte par l’employeur de son père ou de sa mère, dans la mesure où ces frais ne sont pas inclus dans le calcul du revenu de son père ou de sa mère par application du sous-alinéa 6(1)b)(ix); […]
+[9] S’agissant du crédit d’impôt pour études, les renvois pertinents sont la définition de « établissement d’enseignement agréé », au paragraphe 118.6(1), et la division B de la formule du paragraphe 118.6(2).
+118.6(1) [Crédit d’impôt pour études] Définitions – Les définitions qui suivent s’appliquent aux articles 63 et 64 et à la présente sous-section.
+« établissement d’enseignement agréé »
+[…]
+b) université située à l’étranger, où le particulier mentionné au paragraphe (2) est inscrit à des cours d’une durée minimale de treize semaines consécutives qui conduisent à un diplôme; […]
+(2) Crédit d’impôt pour études – Le montant obtenu par la formule suivante est déductible dans le calcul de l’impôt payable par un particulier en vertu de la présente partie pour une année d’imposition :
+A × B
+où :
+A représente le taux de base pour l’année;
+B la somme des produits suivants :
+a) 400 $ multipliés par le nombre de mois de l’année pendant lesquels le particulier est inscrit à un programme de formation admissible comme étudiant à temps plein d’un établissement d’enseignement agréé,
+b) 120 $ multipliés par le nombre de mois de l’année (sauf ceux visés à l’alinéa a)) dont chacun est un mois pendant lequel le particulier est inscrit à un programme de formation déterminé d’un établissement d’enseignement agréé, aux cours duquel l’étudiant doit consacrer au moins 12 heures par mois.
+Pour que le montant soit déductible, l’inscription du particulier doit être attestée par un certificat délivré par l’établissement — sur le formulaire prescrit contenant les renseignements prescrits — et présenté au ministre et, s’il s’agit d’un établissement d’enseignement agréé visé au sous-alinéa a)(ii) de la définition de cette expression au paragraphe (1), le particulier doit avoir atteint l’âge de 16 ans avant la fin de l’année et être inscrit au programme en vue d’acquérir ou d’améliorer sa compétence à exercer une activité professionnelle.
+[10] L’appelant soutient qu’un « programme de formation admissible » pour l’application de la disposition ci-dessus s’entend d’un programme d’une durée minimale de trois semaines consécutives seulement. C’est vrai, mais cela n’aide pas pour autant l’appelant parce que la formule du paragraphe 118.6(2) prévoit aussi que le programme doit être dispensé dans un « établissement d’enseignement agréé ». C’est cette expression qui comporte l’exigence des 13 semaines.
+[11] Pour ce qui est du crédit pour manuels, la disposition applicable est le paragraphe 118.6(2.1). La condition préalable à son application est que le contribuable ait droit au crédit d’impôt pour études selon le paragraphe 118.6(2). Cette disposition fait en sorte que l’exigence relative aux 13 semaines s’applique dans le cas du crédit d’impôt pour manuels.
+118.6(2.1) Crédit pour manuels de niveau postsecondaire - Si une somme est déductible en application du paragraphe (2) dans le calcul de l’impôt à payer par le particulier pour une année d’imposition, est déductible dans le calcul de son impôt à payer en vertu de la présente partie pour l’année la somme obtenue par la formule suivante :
+A × B
+où :
+A représente le taux de base pour l’année;
+B le total des produits suivants :
+a) le produit de 65 $ par le nombre de mois visés à l’alinéa a) de l’élément B de la formule figurant au paragraphe (2),
+b) le produit de 20 $ par le nombre de mois visés à l’alinéa b) de cet élément.
+[12] La disposition est claire, et le redressement que recherche l’appelant ne peut donc pas lui être accordé.
+[13] L’appelant a aussi avancé des arguments fondés sur l’équité, mais un redressement ne peut pas lui être accordé sur ce seul moyen. Il soutient aussi que l’Agence du revenu du Canada applique les dispositions en se fondant sur des cours d’une durée de trois semaines. Cet argument n’aide pas lui non plus l’appelant parce que la loi a depuis été modifiée pour ramener à trois semaines la durée minimale des cours. Les modifications n’étaient pas en vigueur en 2009.
+[14] L’appel sera rejeté.
+Signé à Toronto (Ontario), ce 26e jour de juillet 2012.
+« J. M. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 13e jour de septembre 2012.
+S. Tasset
+RÉFÉRENCE : 2012 CCI 277
+N° DU DOSSIER DE LA COUR : 2011-3835(IT)I
+INTITULÉ : MARK ZOCHOWSKI c.
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Le 20 juillet 2012
+MOTIFS DU JUGEMENT : L’honorable juge J.M. Woods
+DATE DU JUGEMENT : Le 26 juillet 2012
+COMPARUTIONS:
+Représentant de l’appelant :
+M. Ludwik Zochowski
+Pour l’intimée :
+Me Rita Araujo
+Mme Jaya Gandhi (stagiaire)
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom : s.o.
+Cabinet :
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa (Ontario)

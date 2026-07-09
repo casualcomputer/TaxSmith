@@ -1,0 +1,498 @@
+---
+title: "632738 Alberta Ltd. v. The King"
+source: "https://norma.lexum.com/tcc-cci/decisions/en/item/521134/index.do"
+last_modified: "2023-08-10"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2023 TCC 117"
+citation2: ""
+neutral_citation: "2023 TCC 117"
+decision_date: "2023-08-10"
+language: "en"
+item_id: "521134"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5487
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2025-11-08T09:08:53.711000+00:00"
+cases_cited_count: 38
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "7bef78332e9406d2669b5b0528ca7da902a2f0d6395bc496e9a630df39097f4a"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# 632738 Alberta Ltd. v. The King
+
+- Citation: 2023 TCC 117
+- Decision date: 2023-08-10
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5487, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+632738 Alberta Ltd. v. The King
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2023-08-10
+Neutral citation
+2023 TCC 117
+File numbers
+2016-3653(IT)G
+Judges and Taxing Officers
+Don R. Sommerfeldt
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2016-3653(IT)G
+BETWEEN:
+632738 ALBERTA LTD.,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+Motion heard on April 7, 2022, at Edmonton, Alberta.
+By: The Honourable Justice Don R. Sommerfeldt
+Representatives:
+Counsel for the Appellant:
+Robert A. Neilson
+Jeremy Comeau
+Counsel for the Respondent:
+Mary Softley
+ORDER
+The Respondent’s motion (the “Motion”), for an order directing the Appellant to cause its officer to answer certain questions (the “Disputed Questions”) that were posed during an oral examination for discovery of that officer, and directing the Appellant to provide complete answers to certain undertakings (the “Disputed Undertakings”) that were given during the examination for discovery, is allowed in part, and the Appellant is required:
+(a)to answer Disputed Questions 1 and 26;
+(b)to answer Disputed Questions 19, 28 and 31, to the extent that the Appellant’s answers do not require the disclosure of information protected by solicitor-client privilege;
+(c)to answer Disputed Question 34, to the extent that the Appellant, its affiliates and their shareholders, directors and officers have any knowledge relating to the due diligence, if any, conducted by Action Energy Inc. or 2980622 Canada Inc. in respect of the Transactions (as defined in the attached Reasons);
+(d)to amplify its responses in respect of Disputed Undertakings 5, 16, 52, 53 and 54, in accordance with the principles set out in paragraphs 126, 130 and 133 of the attached Reasons; and
+(e)to satisfy Disputed Undertaking 61.
+For greater certainty:
+(a)by reason of duplication, the Appellant is not required to answer Disputed Questions 7, 24 and 40; and
+(b)by reason of solicitor-client privilege, the Appellant is not required to answer Disputed Questions 2, 3, 4, 5, 6, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 20, 21, 22, 23, 25, 27, 29, 30, 32, 33, 35, 36, 37, 38 and 39.
+The costs in respect of this Motion shall be costs in the cause, unless otherwise determined by the trial judge.
+Signed at Ottawa, Canada, this 10th day of August 2023.
+“Don R. Sommerfeldt”
+Sommerfeldt J.
+Citation: 2023 TCC 117
+Date: 20230810
+Docket: 2016-3653(IT)G
+BETWEEN:
+632738 ALBERTA LTD.,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+REASONS FOR ORDER
+Sommerfeldt J.
+I. INTRODUCTION
+[1] These Reasons relate to a motion (the “Motion”) brought by the Respondent for an order directing the Appellant to cause its officer to answer certain questions (the “Disputed Questions”) that were posed during an oral examination for discovery of that officer, and directing the Appellant to provide complete answers to certain undertakings (the “Disputed Undertakings”) that were given during the examination for discovery.
+[2] This Appeal relates to the application of subsection 103(1) of the Income Tax Act (the “Act”).[1] That provision may apply where members of a partnership agree to share, in a specified proportion, any income or loss of the partnership, and the principal reason for the agreement may reasonably be considered to be the reduction or postponement of the tax that might otherwise have been or become payable under the Act. Thus, counsel for the Respondent, during her examination for discovery of an officer of the Appellant, asked questions about various transactions (the “Transactions”) implemented by entities in the Thompson Bros. Group, as well as other entities, in 2011. Some of those questions were designed to elicit the reason or purpose for which certain of the Transactions were undertaken. However, the Appellant’s officer refused to answer some of those questions for various reasons, including the reason that the information sought by the Respondent was the subject of communications between the Appellant and its solicitor, with the result that the information was protected by solicitor-client privilege.
+II. FACTS
+A. Transactional Background [3] In the following summary,[2] present-tense statements pertain to all times that are material for the purposes of the summary, and past-tense statements pertain to the particular dates or times that are specified or implied. Terms that are defined in the Act have corresponding meanings in this summary. Most of the Transactions and other relevant facts are summarized below:
+(a)Larry Thompson, an individual resident in Canada, owned all the issued shares of the Appellant, which is a Canadian-controlled private corporation (a “CCPC”), and which owned all the issued shares of Thompson Contractors Inc. (“TCI”), which is also a CCPC.
+(b)The Appellant and TCI both have December 31 taxation year-ends.
+(c)Thompson Bros. (Constr.) Ltd. (“TBCL”), which is a CCPC, owned all the issued shares of Thompson Holdings Inc. (“THI”), which is also a CCPC.
+(d)TCI Employee Trust (“TCI Trust”) is an inter vivos discretionary trust that is resident in Canada for income tax purposes. The trustee is 1312763 Alberta Ltd., and Mr. Thompson is the sole beneficiary.
+(e)Thompson Bros. (Constr.) LP (“TBCLP”) is an Alberta limited partnership.
+(f)Action Energy Inc. (“Action”) and 2980622 Canada Inc. (“2980622”) are corporations resident in Canada for income tax purposes.
+(g)On January 31, 2011, the Appellant, 2980622, Action, TBCL, TCI, Mr. Thompson and other parties entered into an agreement (the “Definitive Transaction Agreement”) which provided for the implementation of the Transactions, some of which are briefly described in subparagraphs (h) through (q) below.
+(h)On January 31, 2011, the Appellant and TCI established an Alberta general partnership called Thompson Contractors Partnership[3] (“TCP Partnership”) to carry on a business of providing human resources in the earth moving, highway construction and oil sands construction industries.
+(i)On February 8, 2011, the Appellant registered an Alberta limited partnership called Action LMS Limited Partnership (“Action LMS LP”). The Appellant made an initial capital contribution to Action LMS LP of $15 on February 8, 2011.
+(j)On February 14, 2011, Action and 2980622 subscribed for limited partnership units of Action LMS LP. After these subscriptions, Action LMS LP was capitalized and the partnership interests in Action LMS LP were held as follows:
+2980622 held a 35.80% interest as a limited partner, having made an initial capital contribution of $53,700 on February 14, 2011, in exchange for 53,700 units in the capital of Action LMS LP;
+Action held a 64.19% interest as a limited partner, having made an initial capital contribution of $96,300 on February 14, 2011, in exchange for 96,300 units in the capital of Action LMS LP; and
+the Appellant held a 0.01% interest as the general partner, having made an initial capital contribution of $15 on February 8, 2011 (as noted above), in exchange for 15 units in the capital of Action LMS LP.
+(k)On February 24, 2011, the Appellant sold its partnership interest in TCP Partnership to Action LMS LP.
+(l)Also on February 24, 2011, Action LMS LP made a $150,000 capital contribution to TCP Partnership. After this capital contribution, Action LMS LP had a capital account balance of $150,015 in TCP Partnership, and TCI had a capital account balance of $15 in TCP Partnership.
+(m)On February 25, 2011, TBCLP terminated its employment agreements and contracts for services with certain construction workers, administrative personnel and human resources consultants, and those individuals entered into contracts of employment or contracts for services with TCP Partnership.
+(n)Also on February 25, 2011, TBCLP and TCP Partnership entered into a Labour Supply and Labour Management Agreement (the “Labour Agreement”), pursuant to which TCP Partnership agreed to provide certain labour services to TBCLP (including on-site management, heavy equipment operators, mechanical repair, shipping and packing, drivers, servicing, surveying and welding) for a three-year term commencing on February 25, 2011, for fees in the amount of cost plus 5%.
+(o)Under the terms of the Labour Agreement, TBCLP had the option to prepay $78,000,000 to TCP Partnership on account of fees payable by TBCLP to TCP Partnership for the provision of labour services during the term of the agreement. TBCLP exercised this option and made the $78,000,000 prepayment to TCP Partnership on February 25, 2011.
+(p)TCP Partnership’s initial taxation year ended on February 28, 2011.
+(q)TCP Partnership realized $78,000,000 of income for tax purposes in its February 28, 2011 taxation year. The partnership income was allocated to the partners in proportion to their capital accounts. $77,992,201 was allocated to Action LMS LP and $7,799 was allocated to TCI.
+In these Reasons, the Transactions described in subparagraphs 3(g) through (q) above are collectively called the “Reorganization.”
+[4] The Appellant has advised the Court that “[t]he reasons for the transactions noted above and the structure of the transactions as a whole were the subject of legal advice provided to the Appellant by its counsel.”[4]
+B. Procedural History 1. Audit and Reassessment [5] Culminating in 2015, the Canada Revenue Agency (the “CRA”), on behalf of the Minister of National Revenue (the “Minister”), conducted an audit in respect of the Appellant’s 2011 taxation year. On or about May 14, 2015, the Appellant sent to the Minister a limited waiver (the “Waiver”), as contemplated by subparagraph 152(4)(a)(ii) of the Act. The Waiver, which had been drafted by counsel and signed by Mr. Thompson on the advice of counsel,[5] pertained to the Appellant’s 2011 taxation year. The Waiver indicated that the Appellant waived the normal reassessment period with respect to:
+The application of subsection 103(1) to the taxpayer’s income of $99,981 from the Thompson Contractors Partnership reported on Schedule 1.[6]
+[6] By Notice of Reassessment dated October 13, 2015, pursuant to subsection 103(1) of the Act, the Minister reassessed the Appellant, for the 2011 taxation year, to include additional partnership income of $77,892,210. In response to that reassessment (the “Reassessment”), the Appellant filed a Notice of Objection on January 5, 2016. Thereafter, the Minister issued a Notice of Confirmation on May 31, 2016.
+2. Pleadings [7] The Appellant filed its Notice of Appeal on August 26, 2016. The Respondent filed its Reply on December 14, 2016 and its Amended Reply on June 26, 2018. The Appellant filed its Answer to the Amended Reply on July 6, 2018.
+[8] In paragraph 35 of the Notice of Appeal, the Appellant says that the issues to be decided in the Appeal are:
+(a)Can the principal reason for the agreement of the partners of Action LMS LP to share partnership income and losses pro rata, based on the number of units held by each partner, reasonably be considered to be the reduction or postponement of the tax that might otherwise have been or become payable under the Act?
+(b)Is it reasonable in the circumstances to allocate an additional $77,892,210 of partnership income to the Appellant?
+[9] In paragraph 18 of the Amended Reply, the Respondent says that the issue in the Appeal is whether the Minister correctly determined the share of the Appellant’s income from Action LMS LP, as per subsection 103(1) of the Act. In subparagraph 16.a) of the Respondent’s Submissions, the Respondent says that there is an additional issue in the Appeal, namely, whether the Waiver allows for the allocation of $77,892,210 in partnership income from Action LMS LP to the Appellant, outside the normal reassessment period, pursuant to subparagraph 152(4)(a)(ii) of the Act.
+3. Minister’s Assumption about the Purposes of the Transactions [10] One of the assumptions of fact made by the Minister, in determining the Appellant’s tax liability for the 2011 taxation year, was set out in subparagraph 13.bbb) of the Amended Reply, as follows:
+There were no commercial or non-tax purposes of the above described transactions.
+[11] In paragraph 2 of the Appellant’s Answer to the Amended Reply, the Appellant denied, among other things, the allegation (which was the word used by the Appellant) of fact stated in subparagraph 13.bbb) of the Amended Reply.
+4. Disputed Questions [12] On September 21, 2021, counsel for the Respondent examined Mr. Thompson, as a mandated nominee and officer of the Appellant. During the examination for discovery, Mr. Thompson refused to answer the Disputed Questions, which are reproduced in Schedule A of Appendix I to these Reasons.[7]
+[13] The Respondent has grouped the Disputed Questions into five categories, as follows:
+(a) Questions concerning the reasons for relevant Transactions and contractual terms
+[14] The Disputed Questions in this category are numbered as 2, 3, 4, 5, 6, 8, 9, 10, 11, 12, 13, 14, 15, 16, 18, 20, 21, 22, 23, 25, 27, 29, 30, 32, 33, 35 and 36. I will refer to the Disputed Questions in this category as the “Transaction Questions”.
+[15] The Respondent understands that Mr. Thompson refused to answer, or inadequately answered, the Transaction Questions on the basis that the reasons for the transactions and contractual terms either were informed by legal advice or constituted advice from a lawyer, such that those reasons are subject to solicitor-client privilege.[8]
+(b) Questions concerning the Appellant’s reasons for signing the Waiver and for using certain language in the Waiver
+[16] The Disputed Questions in this category are numbered as 37, 38 and 39. I will refer to the Disputed Questions in this category as the “Waiver Questions”.
+[17] The Respondent understands that Mr. Thompson refused to answer, or inadequately answered, the Waiver Questions on the basis that the reasons for signing the Waiver and for drafting the contents of the Waiver either were informed by legal advice or constituted advice from a lawyer, such that those reasons are subject to solicitor-client privilege.
+(c) A question about the Appellant’s intention in referring to Action MLS LP as “Holding Partnership” in the Definitive Transaction Agreement
+[18] This Disputed Question is numbered as 17. I will refer to this Disputed Question as the “DT Agreement Question”.
+[19] The Respondent understands that Mr. Thompson refused to answer the DT Agreement Question on the basis of relevance and on the basis that the reasons for so drafting the Definitive Transaction Agreement were informed by legal advice, such that those reasons are subject to solicitor-client privilege.
+[20] The Respondent has coined the term “Disputed Mindset Questions” to refer collectively to the Transaction Questions, the Waiver Questions and the DT Agreement Question. I too will use that same term for the same purpose.
+(d) Questions about the Appellant’s intentions when entering into certain contractual terms in the Reorganization
+[21] The Disputed Questions in this category are numbered as 19 and 31. I will refer to the Disputed Questions in this category as the “Contractual-Intention Questions”.
+[22] The Respondent understands that Mr. Thompson refused to answer the Contractual-Intention Questions on the basis that they called for contractual interpretation.
+(e) Questions which Mr. Thompson refused to answer solely on the basis of relevance
+[23] The Disputed Questions in this category are numbered as 1, 26, 28 and 34. I will refer to the Disputed Questions in this category as the “Challenged-Relevance Questions”.
+[24] The Respondent understands that Mr. Thompson refused to answer the Challenged-Relevance Questions solely on the basis of relevance.
+5. Disputed Undertakings [25] When Mr. Thompson was examined for discovery, he gave a number of undertakings. The Respondent has identified six of those undertakings (defined above as the “Disputed Undertakings”) which Mr. Thompson did not answer completely or at all, and which are reproduced in Schedule B of Appendix I to these Reasons. The Respondent has grouped the Disputed Undertakings into two categories, as follows:
+(a) Undertakings requesting relevant documents from the Appellant
+[26] The Disputed Undertakings in this category are numbered as 5, 16, 52, 53 and 54. I will refer to the Disputed Undertakings in this category as the “Document Undertakings”.
+[27] The Appellant takes the position that there are no documents covered by Disputed Undertaking 5 and that the documents referred to in Disputed Undertakings 16, 52, 53 and 54 are the subject of common-interest privilege.
+(b) An undertaking asking the Appellant to identify the facts on which it relies in suggesting that the Respondent’s alternative argument is beyond the scope of the Waiver, and is not reasonably related to the matter articulated in the Waiver
+[28] This Disputed Undertaking is numbered as 61. I will refer to this Disputed Undertaking as the “Waiver Undertaking”.
+[29] According to the Respondent, the Appellant’s answer to the Waiver Undertaking responds to the court reporter’s inaccurate description of the undertaking in her summary, rather than responding to the undertaking that was actually given.
+III. ISSUES IN THE MOTION
+[30] The issues in this Motion are:
+(a)Do any of the Disputed Questions or Disputed Undertakings seek information that is protected by solicitor-client privilege or common-interest privilege?
+(b)If so, has that privilege been waived by the Appellant?
+(c)Do any of the Disputed Questions call for an interpretation of a contract or other legal conclusion, or is any Disputed Question an improper question of law?
+(d)Do any of the Disputed Questions seek information that is irrelevant?
+IV. POSITIONS OF THE PARTIES
+A. Position of the Respondent
+[31] The Respondent submits that the pleadings and the nature of the Reassessment, which is based on subsection 103(1) of the Act (which, in the context of this Appeal, requires a determination of the principal reason for the allocation of income by Action LMS LP), put into issue the reason for that income allocation and the purposes or reasons for the Transactions, which included the creation of Action LMS LP and the allocation of income by Action LMS LP. Thus, counsel for the Respondent submits that she is entitled to examine the Appellant’s officer in respect of those reasons and purposes (referred to by the Respondent as the “Appellant’s mindset”).
+[32] The Respondent also submits that the Appellant is misusing solicitor-client privilege in refusing to answer questions about the purposes of the Transactions.
+[33] The Respondent further submits that, if solicitor-client privilege would otherwise excuse the Appellant’s officer from answering questions about the Appellant’s mindset, the Appellant has implicitly waived that privilege.
+[34] In addition, the Respondent submits that none of the Disputed Questions calls for an interpretation of a contract or other legal conclusion, nor do the Disputed Questions seek information that is irrelevant.
+B. Position of the Appellant
+[35] The Appellant submits that its officer’s refusal to answer the Disputed Questions was proper because the Disputed Questions:
+(a)sought information or legal advice that was covered by solicitor-client privilege;
+(b)sought information that was irrelevant; and/or
+(c)were not factual questions, but were improper questions of law.
+[36] The Appellant also submits that most of the Disputed Undertakings related to documents in respect of which the Appellant is claiming solicitor-client privilege or common-interest privilege.
+V. LEGAL PRINCIPLES
+A. Statutory Provision
+[37] As noted above, the Reassessment was based on subsection 103(1) of the Act, which read as follows in 2011:[9]
+Where the members of a partnership have agreed to share, in a specified proportion, any income or loss of the partnership from any source or from sources in a particular place, as the case may be, or any other amount in respect of any activity of the partnership that is relevant to the computation of the income or taxable income of any of the members thereof, and the principal reason for the agreement may reasonably be considered to be the reduction or postponement of the tax that might otherwise have been or become payable under this Act, the share of each member of the partnership in the income or loss, as the case may be, or in that other amount, is the amount that is reasonable having regard to all the circumstances including the proportions in which the members have agreed to share profits and losses of the partnership from other sources or from sources in other places. [Emphasis added.]
+[38] The above statutory provision (particularly the emphasized phrases) makes it clear that, in determining whether the provision applies to an agreement among partners to share any income, loss or other amount in a specified proportion, it is appropriate to consider all the circumstances, including the reason or reasons for the agreement, as well as considering the proportions in which the partners have agreed to share other profits and losses of the partnership.
+[39] The phrase all the circumstances is sufficiently broad, so as to encompass other agreements and transactions that have a connection to the agreement pursuant to which any income, loss or other amount is shared among partners.
+[40] The most current and important meaning of the word reason given by The Canadian Oxford Compact Dictionary is “a motive, cause or justification.”[10] Thus, questions asking about the reason or motive for entering into a particular agreement could come within the purview of subsection 103(1) of the Act.
+[41] While many of the Disputed Questions ask for the Appellant’s reason for entering into a particular Transaction or for drafting an agreement in a particular manner, other Disputed Questions ask about the purpose of a particular Transaction or aspect of the Reorganization. In some respects, there is a similarity between the words purpose and reason, as noted in the following definition of purpose:
+Purpose … 1 a something to be attained; a thing intended … b the reason for which something is done or made, or for which it exists (for tax purposes)….[11]
+[42] At least one thesaurus indicates that purpose and reason are synonyms.[12] Therefore, questions asking about the purpose of an agreement or transaction, as well as questions asking about the reason for an agreement or transaction, could come within the purview of subsection 103(1) of the Act.[13]
+B. Scope of Discovery 1. Applicable Rule [43] The first portion of subsection 95(1) of the Tax Court of Canada Rules (General Procedure) (the “Rules”) states:
+A person examined for discovery shall answer, to the best of that person’s knowledge, information and belief, any proper question relevant to any matter in issue in the proceeding….
+[44] Subsection 95(1) of the Rules indicates that a person being examined is required to answer any proper, relevant question. It is my understanding that, apart from the objections made by the Appellant that are discussed below (i.e., solicitor-client privilege, relevance, and questions requiring an interpretation of a contract), the Appellant is not challenging the propriety of the Disputed Questions.
+2. Questions about State of Mind [45] Many of the Disputed Questions ask about the Appellant’s reason or purpose for implementing a particular transaction or for drafting a particular document in a particular manner. Other Disputed Questions ask about the Appellant’s intention or understanding.
+[46] Ascertaining the intention of a corporation can be challenging. For instance, in Irrigation Industries, Justice Cartwright quoted the following statement from Fisher’s Executors:
+In any case desires and intentions are things of which a company is incapable. These are the mental operations of its shareholders and officers. The only intention that the company has is such as is expressed in or necessarily follows from its proceedings. It is hardly a paradox to say that the form of a company’s resolutions and instruments is their substance.[14]
+However, Justice Cartwright then observed that, in Regal Heights, Justice Judson had “held that the intentions of the appellant company were throughout its existence identical with those of its promoters who later became its directors.”[15] Accordingly, it would seem to be appropriate, when endeavoring to ascertain the intention or objective of a corporation, to inquire into the intention or objective of the corporation’s shareholders, directors and officers.
+[47] In Canadian Dredge & Dock, in a corporate and criminal law context, Justice Estey discussed the identity doctrine, which “merges the board of directors, the managing director, the superintendent, the manager or anyone else delegated by the board of directors to whom is delegated the governing executive authority of the corporation,” such that “the conduct of any of the merged entities is thereby attributed to the corporation.”[16]
+[48] In Roseland Farms, Justice Sharlow stated the following about a corporation’s intention:
+24. The intention of a corporation is that of the natural persons by whom it is managed and controlled: Metropolitan Motels Corporation v. Minister of National Revenue (1966), 66 D.T.C. 5208, [1966] C.T.C. 246 (F.C.T.D.); Leonard Reeves Inc. v. Minister of National Revenue (1985), 85 D.T.C. 419, [1985] 2. C.T.C. 2054 (T.C.C.). In the case of a widely held public corporation, the requisite intention may be that of a corporate officer or group of officers or directors who made the purchasing decision. The intention of a closely held corporation, however, is normally that of the shareholders.[17]
+[49] Ascertaining the intention of an individual shareholder, director or officer can also be challenging. The nature of an individual’s state of mind is a factual matter. In Bemco Confectionery, Justice Paris put it this way:
+38.What a person … knows is a fact….
+41.… Both intention and purpose relate to a person’s state of mind, which are factual matters.[18]
+[50] Both Justice Cartwright and Justice Paris quoted the following statement by Lord Bowen in Edgington v. Fitzmaurice:
+… the state of a man’s mind is as much a fact as the state of his digestion. It is true that it is very difficult to prove what the state of a man’s mind at a particular time is, but if it can be ascertained it is as much a fact as anything else.[19]
+[51] In Sputek, Justice Hogan permitted counsel for the Crown, who (as Justice Hogan surmised) was likely endeavoring to establish a taxpayer’s frame of mind, to ask questions, during the examination for discovery of the taxpayer, about the taxpayer’s reasons for making a purported charitable contribution and about the taxpayer’s understanding of the donee’s activities, with a view to ascertaining the taxpayer’s mental process leading to the contribution.[20]
+[52] Hence, I do not think that the Disputed Mindset Questions are improper merely because they seek to explore Mr. Thompson’s state of mind or (in his capacity as a director and officer of the Appellant) his reasons, purpose, intention or understanding in respect of the Transactions or the agreements and other documents pursuant to which the Reorganization was implemented.
+3. Relevance [53] On discovery, relevance should be broadly and liberally construed and wide latitude should be given.[21] In addition, relevance at discovery has a lower threshold than at trial.[22]
+[54] In the context of an examination for discovery and the production of documents, the general principle concerning relevance was stated in Lehigh Cement as follows:
+The jurisprudence establishes that a question is relevant when there is a reasonable likelihood that it might elicit information which may directly or indirectly enable the party seeking the answer to advance its case or to damage the case of its adversary, or which fairly might lead to a train of inquiry that may either advance the questioning party’s case or damage the case of its adversary.[23]
+[55] The jurisprudence has established that very little relevance is needed to render a question answerable.[24] Only clearly irrelevant questions should be precluded on the ground of relevance.[25]
+[56] As explained in Tor Can Waste, a motion judge should exercise restraint in limiting the scope of discovery:
+A motion judge ruling on an application should not unduly restrict an examination by excluding questions broadly related to the issues, nor seek to impose his or her views of relevancy on the trial judge by excluding questions that he or she may consider irrelevant but which, in the context of the evidence as a whole, the trial judge may consider relevant. Nor should a motion judge second guess the discretion of counsel by examining minutely each question or justification of each question.[26]
+4. Purposes of Discovery [57] As explained in General Electric Capital, the discovery process has at least five purposes:
+The purposes of discovery are to enable the parties to know the case they have to meet; to find out the facts on which the opposite party relies; to narrow or eliminate issues; to obtain admissions that will facilitate the proof of matters in issue[;] and to avoid surprises at trial.[27]
+[58] Here, the Respondent submits that she is endeavouring to ascertain the facts upon which the Appellant relies, so as to avoid being surprised at trial.
+C. Solicitor-Client Privilege 1. Subsection 96(1) of the Rules [59] Subsection 96(1) of the Rules states:
+Where a party, or a person examined for discovery on behalf or in place of a party, has refused to answer a proper question or to answer a question on the ground of privilege, and has failed to furnish the information in writing not later than ten days after the proceeding is set down for hearing, the party may not introduce at the hearing the information refused on discovery, except with leave of the judge.
+The above provision was discussed and applied in the Kaul case.[28]
+2. General Principles [60] Both parties acknowledge that solicitor-client privilege is an essential element of our legal system and that it is close to absolute.[29] The privilege protects all communications, whether written or oral, between a solicitor and a client that are directly related to the seeking, formulating or giving of legal advice, which includes advice as to what should be done in a particular legal context.[30] To the extent that legal advice addresses what could be done, internal documents in respect of that advice, including the development of strategy, the assessment of risk or the consideration of obligations, might be protected by the privilege.[31] However, once a client has assessed the legal advice, has determined a course of action and has begun to implement that course of action, documents created during the implementation phase might not be privileged.[32]
+[61] The Respondent, in particular, directed my attention to a statement by Justice Stratas in the Minister of Public Safety case, which indicated that “documents and actions shaped by legal advice are not necessarily themselves legal advice and do not necessarily form part of the protected continuum of communication.”[33]
+[62] Although solicitor-client privilege is far-reaching, it applies only to communications provided by a lawyer in the course of the lawyer’s legal practice, and does not attach to advice provided by a lawyer in respect of purely business matters.[34] The Respondent suggested that some of the purported legal advice referenced by the Appellant in refusing to answer some of the Disputed Questions or Disputed Undertakings may have actually been business advice, rather than legal advice.
+[63] The Respondent submits that the Disputed Questions and the Disputed Undertakings merely seek to ascertain the Appellant’s purpose, reasons, motivation or mindset for entering into the Transactions. Counsel for the Appellant referred me to the Superior Plus case, which related to the loss-streaming rules and the general anti-avoidance rule set out in the Act. One of the questions that was relevant in that case was whether the underlying transactions had been tax motivated and whether the taxpayer had a non-tax purpose in implementing the transactions. The taxpayer had obtained several legal opinions, one of which supported the argument that the transactions were not tax motivated, while the others, according to the Crown, pointed the other way. The taxpayer waived solicitor-client privilege in respect of, and provided to the Crown a copy of, the legal opinion suggesting that there was no tax motivation, but declined to do the same in respect of the other legal opinions. Chief Justice Noël observed that, by waiving privilege and disclosing the favourable legal opinion, the taxpayer “placed itself in a position to introduce this document in evidence at trial.”[35] Chief Justice Noël, after noting that the Crown had argued that it was unfair and inconsistent for the taxpayer to disclose the favourable legal opinion but not the (presumably) unfavourable legal opinions, observed that the alleged unfairness and inconsistency would arise only if Superior Plus sought to introduce the favourable legal opinion in evidence at the trial. He then stated:
+There is no doubt that immediate access to the claimed opinions would allow the Crown to better prepare for trial. However, this is a problem that can easily be addressed by way of an adjournment and Superior Plus should not be exposed to the privilege being lifted in advance of causing the unfairness which the Crown alleges….[36]
+[64] Chief Justice Noël concluded that the Crown’s argument could not succeed at the then stage of the proceedings. He indicated “that an implied waiver [of privilege should] not be pronounced unless and until it becomes necessary to do so in order to prevent the unfairness and inconsistency which the doctrine of waiver is intended to guard against.”[37]
+3. Implied Waiver of Privilege [65] In Gerbro Inc., Justice Woods (who was then a member of this Court) quoted a passage from the Federal Court’s decision in Mahjoub, which dealt with the implied waiver of privilege. The portions of that passage that are relevant to the Motion are the following:
+10. The jurisprudence supports the following propositions relating to implied waiver of the privilege: …
+(b) where a litigant relies on legal advice as an element of his claim or defence, the privilege which would otherwise attach to that advice is lost …;
+(c) in cases where fairness has been held to require implied waiver, there is always some manifestation of a voluntary intention to waive the privilege at least to a limited extent. The law then says that in fairness and consistency, it must be entirely waived …;
+(d) the privilege will [be] deemed to have been waived where the interests of fairness and consistency so dictate or when a communication between a solicitor and client is legitimately brought into issue in an action …;
+(e) the onus of establishing the waiver rests on the party asserting waiver of the privilege….[38]
+[66] The principle set out in subparagraph 10(d) of Mahjoub, as quoted above, is taken from the Bank Leu case, which, after indicating that the principle of waiver will arise “where the interests of fairness and consistency so dictate or when a communication between a solicitor and client is legitimately brought into issue in an action,” went on to state that “[w]hen a party places its state of mind in issue and has received legal advice to help form that state of mind, privilege will be deemed to be waived with respect to such legal advice.”[39]
+[67] To ground an assertion of an implied waiver of privilege, there must be reliance on the particular legal advice. In other words, something more than the mere receipt of legal advice is required. As explained by Chief Justice Rossiter in the CIBC case:
+58. … Waiver does not simply occur once a party discloses the fact it received legal advice before taking a course of action; the privilege-holder must have taken a course of action, relied on legal advice to do so and somehow placed that reliance in issue at trial….
+59. This must be distinguished from a party who simply receives legal advice, forms a particular legal view and then acts. This alone will not lead to implied waiver. There must be reliance on the legal advice and the party must put that reliance in issue….
+61. In short, there is no implied waiver without reliance. A privilege-holder’s state of mind must be in issue in a way that makes any legal advice it received relevant, and the privilege-holder must place its reliance on that legal advice in issue as part of its position for trial.[40]
+[68] I conclude my discussion of implied waiver by noting Justice D’Arcy’s comment, in Imperial Tobacco, about a taxpayer putting its state of mind in issue:
+91. Regardless, a taxpayer does not put its state of mind at issue merely because it opposes an assessment that is based on a section of the Act that contains an intention or purpose test. It is simply not fair or reasonable to place a taxpayer in a position where it either accepts an assessment or waives privilege.
+92. Further, a state-of-mind implied waiver requires more than the fact that an appellant’s purpose for entering into certain transactions is at issue in an appeal. The implied waiver requires the appellant to take the positive step of relying, in its pleadings or during trial, on legal advice it has previously obtained from its counsel.[41]
+VI. ANALYSIS A. Concessions
+1. Concessions by the Respondent [69] Counsel for the Respondent has advised the Court that Disputed Questions 7, 24 and 40 are inadvertent duplicates of Disputed Questions 6, 23 and 39.[42] Therefore, the Appellant is not required to answer Disputed Questions 7, 24 and 40.
+2. Concessions by the Appellant [70] The Appellant has advised the Court that it is prepared to answer Disputed Question 1.[43]
+[71] The Appellant acknowledged that, due to an error in the transcript of the examination for discovery, the Appellant did not properly answer Disputed Undertaking 61. The Appellant is prepared to answer Disputed Undertaking 61.[44]
+B. Solicitor-Client Privilege and the Disputed Mindset Questions
+[72] The explanation given by the Appellant for not responding to the Transaction Questions and the Waiver Questions was that the desired reasons for the particular actions of the Appellant either were informed by legal advice or constituted advice from a lawyer, such that those reasons are subject to solicitor-client privilege. One of the explanations given by the Appellant for not responding to the DT Agreement Question was that the desired reasons for drafting the Definitive Transaction Agreement in a particular manner were informed by legal advice, such that those reasons are subject to solicitor-client privilege.
+[73] Given that solicitor-client privilege is close to absolute,[45] it would not be appropriate to require the Appellant to disclose documents or other information that is the subject of such privilege, absent a waiver by the Appellant of the privilege.
+[74] As indicated in Gerbro, Mahjoub and Bank Leu, in the context of a tax appeal, solicitor-client privilege may be impliedly waived where a taxpayer relies on legal advice as an element of its appeal.[46] This could occur where the taxpayer puts its state of mind in issue, having received legal advice to help form that state of mind.[47]
+[75] In subparagraph 13.bbb) of the Amended Reply, the Minister assumed that there were no commercial or non-tax purposes for the Transactions, and, in its Answer, the Appellant denied that allegation.[48] This denial might suggest that the Appellant takes the position that there was at least one commercial or non-tax purpose for the Transactions. Alternatively, perhaps the Appellant’s denial of subparagraph 13.bbb) of the Amended Reply is nothing more than the Appellant’s way of saying that it does not admit the assumed facts set out in that subparagraph.[49] In either case, I do not view the Appellant’s Answer as having put the Appellant’s state of mind (or perhaps the state of mind of its directors or officers) directly in issue.
+[76] As stated in CIBC, to constitute an implied waiver of solicitor-client privilege, there must be more than simply receiving legal advice, forming a particular legal view and then acting.[50] A privilege-holder’s reliance on legal advice is an essential element of an implied waiver of privilege. Thus, as stated by Chief Justice Rossiter, for there to be an implied waiver of privilege, the “privilege-holder’s state of mind must be in issue in a way that makes any legal advice it received relevant, and the privilege-holder must place its reliance on that legal advice in issue as part of its position for trial.”[51]
+[77] Merely forming a view, after receiving legal advice, and then implementing a transaction does not constitute reliance on that advice so as to ground an assertion that solicitor-client privilege has been impliedly waived. Furthermore, merely opposing an assessment based on a statutory provision containing an intention or purpose test does not constitute a waiver of privilege.[52] Based on my review of the pleadings and the relevant portions of the Transcript, I do not think that there was an implied waiver of solicitor-client privilege. In other words, I do not think that the Appellant has placed its reliance on legal advice in issue as part of the position that it will take at trial.
+[78] Based on my understanding of the applicable legal principles, as summarized above, and my reading of the excerpts from the Transcript that were provided to me, it is my view that each of the Disputed Mindset Questions is a proper question, as that term is used in subsections 95(1) and 96(1) of the Rules. However, having considered the explanations given by Mr. Thompson and the Appellant’s counsel for refusing to answer the Disputed Mindset Questions, I understand that they are of the view that those questions cannot be answered without disclosing privileged information. In other words, it seems that Mr. Thompson and the Appellant do not have any information (including information about reasons, purposes, intention or understanding) that pertains to the Disputed Mindset Questions and that could be provided to the Respondent without disclosing information that is protected by solicitor-client privilege.
+[79] Although I will not issue an order that would require the Appellant, in response to any of the Disputed Questions, to disclose information that is subject to solicitor-client privilege, I will note that, if the Appellant attempts to introduce that information at trial, the Appellant will encounter subsection 96(1) of the Rules. Thus, unless the Appellant furnishes the information in writing to the Respondent no later than ten days after this Appeal is set down for trial, the Appellant will require leave of the trial judge, in order to introduce that information at trial.
+[80] I suspect that the Appellant is of the view that it can make its case without introducing the privileged information at trial. Hence, one of my reasons for not ordering the Appellant to answer the Disputed Mindset Questions is based on a principle somewhat analogous to that adopted in Superior Plus.[53] In other words, due to the high importance placed upon solicitor-client privilege, it is appropriate to wait and see whether, at the trial, the Appellant will seek to introduce privileged information (including information about the Appellant’s reasons, purposes, intention and understanding for or in respect of the Transactions). If that were to occur, it would be up to the trial judge to determine whether the admission of that information should be allowed (which would likely necessitate an adjournment, to allow the Respondent time to review that information and possibly to conduct a further examination for discovery in respect of that information),[54] or whether the admission of that information should not be allowed (as the trial judge might be of the view that a delay of the trial would not be in the interests of justice).[55]
+[81] As noted in the introduction to these Reasons, this Motion relates to the Respondent’s desire to obtain answers to the Disputed Questions and the Disputed Undertakings and the Appellant’s assertion that much of the information sought by the Respondent is the subject of solicitor-client privilege. At the hearing, there was little, if any, focus on the question of whether the documents and other information in question actually are privileged. However, in reading through the Respondent’s Submissions, I note that the Respondent might be of the view that not all of the information in respect of which privilege has been claimed is actually privileged.[56] As that issue was not raised in the Notice of Motion, I will not address it in these Reasons.[57]
+[82] To conclude the discussion of solicitor-client privilege and the Disputed Mindset Questions, for the reasons explained above, the Appellant is not required to answer Disputed Questions 2, 3, 4, 5, 6, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 20, 21, 22, 23, 25, 27, 29, 30, 32, 33, 35, 36, 37, 38 and 39.
+C. Contractual-Intention Questions
+[83] As noted above, the Respondent has submitted that the Appellant refused to answer Disputed Questions 19 and 31 on the grounds that those questions called for contractual interpretation. Having read the Transcript, I think that there may also have been additional nuances to the Appellant’s objection in respect of Disputed Question 25. While the Appellant refused to answer Disputed Question 25 primarily on the grounds of solicitor-client privilege, counsel for the Appellant also objected to the question on the grounds that it called for an interpretation of a contract. Accordingly, I will discuss all three of those questions below.
+1. Disputed Question 19 [84] Apparently the partnership agreement in respect of Action LMS LP provides that any income of that partnership in excess of $77,900,000 shall be allocated solely to the general partner, in respect of both the Class A Units and the Class B Units. During the examination for discovery, counsel for the Respondent asked Mr. Thompson whether he agreed that the partnership agreement had always been designed with the idea in mind that Action LMS LP would be receiving an allocation of income from TCP Partnership in the amount of $77,900,000, with a further allocation of that income to be made to Action and 2980622 in set amounts. Counsel for the Appellant objected to the question on the grounds that it was asking Mr. Thompson to interpret the agreement.
+[85] I do not agree with the Appellant’s objection. Disputed Question 19 merely asked that Mr. Thompson confirm the idea that was behind the design of the partnership agreement. The question was probing Mr. Thompson’s state of mind, which is a factual matter.[58] The question did not call for an interpretation of the agreement.
+[86] After counsel for the Appellant objected to the question, counsel for the Respondent reframed it, so as to ask whether the reason for structuring the allocation of income under the partnership agreement was to ensure that specific amounts (from a payment made by TCP Partnership to Action LMS LP) were allocated to Action and 2980622. Counsel for the Appellant objected to the reframed question on the grounds that it was not a proper question, because the factual aspects of the Transactions were basically all agreed to, and because the Appellant’s position in respect of the allocation was set out in the pleadings.
+[87] I do not agree with the Appellant’s assertion that the factual aspects of the Transactions were basically all agreed to. One of the central issues in this Appeal relates to the reason or reasons for the manner in which the partnership agreement allocated income among the partners. As well, the Minister assumed that there was no commercial or non-tax purpose for the Transactions, whereas the Appellant denied that assumption.
+[88] With respect to counsel’s other grounds for objecting to the reframed question (i.e., the assertion that Disputed Question 19 is improper because the Appellant’s position with respect to the allocation of income is set out in the pleadings), I reiterate the following principles:
+(a)During discovery, “it is not a valid objection that the examining party already knows [the] facts” on which the examined party is relying in support of its case.[59]
+(b)The pleadings for a tax appeal “go a long way towards defining what is relevant.”[60]
+(c)“Discovery is limited by the pleadings to some extent.”[61]
+Therefore, a statement of a party’s position in its pleadings does not, in the course of an examination for discovery, forestall questions from the other party about that position. In other words, while the pleadings might define the limits beyond which an examining party may not examine, the pleadings do not preclude the examining party from asking questions about circumstances, transactions and other facts that come within the pleadings.
+[89] Accordingly, I consider both versions of Disputed Question 19 to be proper questions.
+[90] During the hearing of this Motion, counsel for the Appellant reframed his objection to submit that the design of the Transactions and the legal reasoning behind them were the subject of legal advice that is protected by solicitor-client privilege.[62] The Appellant’s Submissions do not assert contractual interpretation as a basis for objecting to Disputed Question 19.
+[91] To the extent that the Appellant has any information that responds to Disputed Question 19 and that is not subject to solicitor-client privilege, the Appellant is required to answer the question.[63]
+2. Disputed Question 25 [92] As noted above, the Labour Agreement permitted TBCLP to prepay $78,000,000 to TCP Partnership on account of fees payable for the provision of labour services. Section 3.4.7 of that agreement provided that the prepayment would not be returned, reduced or credited if the payer did not require or utilize the entirety of the guaranteed labour to which the prepayment related. During the examination of Mr. Thompson, counsel for the Respondent asked him why TBCLP would agree to pay for services even if they were not provided. Mr. Thompson responded that the reason was the advice of counsel, which counsel for the Respondent took as a refusal to answer on the basis of solicitor-client privilege. As well, counsel for the Appellant asserted that the question was improper because, embedded within it, was an assumption based on an interpretation of the contract.
+[93] I have indicated above that, by reason of solicitor-client privilege, Disputed Question 25 need not be answered. I will also briefly address the additional objection made by the Appellant to that question. As I read Disputed Question 25, it seems that counsel for the Respondent had already formed her own idea of the meaning of section 3.4.7, which was that TBCLP could find itself in a situation where it would pay for labour services that it did not receive. Counsel for the Respondent was not asking Mr. Thompson to confirm that her reading or interpretation of section 3.4.7 was correct. She merely asked him for what commercial reason would TBCLP agree to pay for services even if they were not provided. I do not read Disputed Question 25 as calling for an interpretation of the Labour Agreement or as calling for Mr. Thompson’s confirmation that the Respondent’s interpretation of that agreement was correct.
+3. Disputed Question 31 [94] It is my understanding that, sometime during or after the Reorganization, Action LMS LP sold its interest in TCP Partnership to THI, pursuant to a purchase and sale agreement (the “PSA”).[64] A provision of the PSA states, “Time shall be of the essence of this agreement.” Counsel for the Respondent asked whether it was the Appellant’s understanding that the reason for including that provision in the PSA was because of an intention to dissolve Action LMS LP as at May 2, 2011. Counsel for the Appellant objected to the question on the grounds that:
+(a)the phrase “time shall be of the essence” is boilerplate that goes in many agreements;
+(b)corporate lawyers include that provision in agreements for their own legal reasons; and
+(c)the question sought Mr. Thompson’s understanding of a legal term of art that was included by corporate lawyers.[65]
+[95] The assertion that a “time is of the essence” clause is boilerplate that goes in many agreements might actually be the reason for including that clause in a particular agreement, but it is not a valid reason for refusing to answer a question asking for a litigant’s understanding of the reason for so including the clause. Similarly, the fact that many corporate lawyers include such a clause in their agreements for their own legal reasons is not an acceptable reason for Mr. Thompson to refuse to answer a question asking for his understanding of why the clause was included in the PSA.
+[96] At the examination for discovery, the Appellant did not object to Disputed Question 31 on the grounds of solicitor-client privilege. Furthermore, Disputed Question 31 does not call for Mr. Thompson’s understanding of legal terminology. It simply asks for the Appellant’s understanding of the reason for including the “time is of the essence” provision in the PSA. The question does not ask Mr. Thompson to interpret the PSA or any provision thereof.
+[97] Notwithstanding the position taken by the Appellant during the examination for discovery, at the hearing of this Motion, counsel for the Appellant no longer based his objection to Disputed Question 31 on the grounds summarized in subparagraphs 94(a), (b) and (c) above. Rather, he took the position that the question seeks the legal reasoning behind the manner in which the PSA was drafted, which is protected by solicitor-client privilege.
+[98] Disputed Question 31 asks only for the Appellant’s understanding of the reason for including the “time is of the essence” provision in the PSA. If Mr. Thompson has an understanding of that reason, the question should be answered, unless to do so would require the disclosure of privileged information.
+D. Questions Whose Relevance Is Challenged
+[99] One of the explanations given by the Appellant for not answering Disputed Question 5 or Disputed Question 17 was that the desired information was not relevant. That was also the only explanation given by the Appellant for not answering the Challenged-Relevance Questions (i.e., Disputed Questions 1 (which the Appellant has now agreed to answer), 26, 28 and 34).
+1. Disputed Question 5 [100] When the Appellant and TCI formed, and became the initial partners in, TCP Partnership, they each made an initial capital contribution in the amount of $15. When counsel for the Respondent asked whether there was a particular reason for the amount of $15, in addition to objecting to the question on the basis of solicitor-client privilege, counsel for the Appellant also said that the question was “irrelevant in the sense that nothing turns on it.”[66]
+[101] The formation of TCP Partnership is described in the pleadings of both parties. TCP Partnership was a significant party in the Reorganization. Therefore, even minor questions about its formation and capital structure are relevant, particularly as very little relevance is needed to render a question answerable,[67] and only clearly irrelevant questions should be precluded.[68] I note, as well, that, in the Appellant’s Submissions, the Appellant’s objection to Disputed Question 5 is founded only on solicitor-client privilege, such that it appears as though the relevance argument is no longer being asserted.
+[102] Accordingly, Disputed Question 5 is not objectionable on the grounds of relevance.
+2. Disputed Question 17 [103] Disputed Question 17 asks why, in the Definitive Transaction Agreement, Action LMS LP was called “Holdings Partnership”. When the question was asked at the examination for discovery, counsel for the Appellant objected on the grounds of both relevance and solicitor-client privilege. In the Appellant’s Submissions, which were presented at the hearing of this Motion, the relevance objection was not made. Like TCP Partnership, Action LMSLP was also a significant party in the Reorganization. For reasons similar to those set out in paragraph 101 above, Disputed Question 17 is not objectionable on the grounds of relevance.
+3. Disputed Question 26 [104] Disputed Question 26 asks why the $78,000,000 prepayment of fees, which was transferred into TCP Partnership’s bank account, was split into two transfers of $100,000 and $77,900,000. The Appellant refused to answer that question on the ground that it was not relevant to any matter in dispute.
+[105] The prepayment of fees in the amount of $78,000,000, by TBCLP to TCP Partnership, under the Labour Agreement, was a significant feature of the Reorganization. A question about the manner in which that prepayment was structured, or the reason for the split payment, could elicit information that might lead to a train of inquiry that could advance the Respondent’s case or damage the Appellant’s case. Furthermore, at discovery, the relevance threshold is broad and low. Therefore, I am of the view that Disputed Question 26 is relevant, and should be answered.
+4. Disputed Question 28 [106] Although I was not provided with a copy of the Definitive Transaction Agreement, apparently a provision in that agreement sets out a condition to the effect that, before a particular time (described, as I understand it, as the “Condition Removal Time”), no legislation shall have been enacted or proposed, which materially adversely affects the parties or the Reorganization. During the examination for discovery of Mr. Thompson, counsel for the Respondent asked (in a question that has been identified as Disputed Question 28) about the Appellant’s understanding as to the sort of legislation that was contemplated by the above condition.[69]
+[107] During the examination for discovery, counsel for the Appellant objected to Disputed Question 28 on the basis of relevance, as, in his view, the question goes too far, is fishing, and is outside the dispute.[70]
+[108] I disagree with the above position taken by counsel for the Appellant. I view Disputed Question 28 as inquiring about the context in which the Definitive Transaction Agreement was negotiated and made, and about the context in which the Reorganization was expected to take place. A question asking about such context might elicit information that advances the Respondent’s case, that damages the Appellant’s case, or that might lead to a train of inquiry that accomplishes either of the preceding objectives.[71] Therefore, Disputed Question 28 is relevant.
+[109] During the examination for discovery, counsel for the Appellant grounded his objection to Disputed Question 28 only on relevance. At the hearing of this Motion, counsel for the Appellant reframed his objection to assert that the question seeks the disclosure of legal advice that is protected by solicitor-client privilege.[72] The Appellant’s Submissions do not claim that Disputed Question 28 is irrelevant.
+[110] To the extent that the Appellant has any pertinent information that is not subject to solicitor-client privilege,[73] the Appellant is required to answer Disputed Question 28.
+5. Disputed Question 34 [111] Section 12.3.1 of the Definitive Transaction Agreement provides that one of the conditions of that agreement was that Action and 2980622 would have the opportunity to conduct satisfactory due-diligence investigations in respect of the entities in the Thompson Bros. Group in the context of the Transactions. Counsel for the Respondent asked Mr. Thompson whether Action and 2980622 conducted due diligence in respect of the Appellant or any other members of the Thompson Bros. Group. When Mr. Thompson said that he did not know the answer to that question, counsel for the Respondent asked for an undertaking to advise. Counsel for the Appellant objected on the basis that Mr. Thompson could not know whether third parties (i.e., Action and 2980622) had conducted due diligence or not, and on the basis that the question was irrelevant. [74]
+[112] In the Appellant’s Submissions, the Appellant advances only the first argument, i.e., that the Appellant cannot speak to what the third parties may have done. The Appellant’s Submissions do not advance the second argument, i.e., that Disputed Question 34 is irrelevant.[75] Nevertheless, I will address the relevance issue, as well as the third-party-knowledge issue.
+[113] Beginning with the relevance issue, as noted above, in assessing the Appellant, the Minister assumed that the Transactions had no commercial or non-tax purpose. A common feature of arm’s-length commercial transactions is that both parties typically conduct due diligence. Therefore, knowing whether Action or 2980622 conducted due diligence will assist the Respondent in ascertaining whether Action, 2980622 and the Appellant approached the formation of Action LMS LP and the related Transactions in a manner in which arm’s-length parties would typically approach a commercial transaction. Hence, asking about due diligence is a relevant question. Furthermore, as noted in the preceding paragraph, it does not appear as though the Appellant is continuing to challenge the relevance of Disputed Question 34.
+[114] I concur with the Appellant’s assertion that it cannot know whether Action or 2980622 conducted certain types of due diligence, such as searches at corporate or courthouse registries. However, due diligence conducted by a party to a proposed contract generally also includes requests for information from the other party to the proposed contract. Thus, in my view, the Appellant should have knowledge as to whether Action or 2980622 asked to review the minute books, financial statements or other books and records of the Appellant or its affiliates, or whether Action or 2980622 made other due-diligence inquiries of the Appellant, its affiliates or their shareholders, directors or officers.
+[115] Accordingly, the Appellant is required to answer Disputed Question 34, to the extent that the Appellant, its affiliates and their shareholders, directors and officers have any knowledge relating to the due diligence, if any, conducted by Action or 2980622 in respect of the Transactions.
+E. Disputed Undertakings
+1. Disputed Undertaking 5 [116] Counsel for the Respondent asked Mr. Thompson about the advice that he received, in respect of the Reorganization, from Paul Sturt, the chief financial officer of some or all of the entities in the Thompson Bros. Group. Counsel for the Appellant objected to the question on the basis that any advice that Mr. Sturt may have given to Mr. Thompson might have been based on privileged information obtained by Mr. Sturt from counsel. Counsel for the Respondent then requested, and counsel for the Appellant agreed to provide, an undertaking as to whether Mr. Sturt provided any advice (including documents pertaining to such advice) which is not subject to solicitor-client privilege, and if there are any documents over which privilege is claimed, to provide a list of the privileged documents.[76]
+[117] The Appellant’s response to Disputed Undertaking 5 was:
+There are no such documents. There are emails between Paul Sturt and legal counsel for the Thompson group, all of which would be covered by solicitor-client privilege.[77]
+The Respondent asserts that the Appellant failed to provide a list of the privileged documents.[78] In its written submissions, the Appellant says that the “undertaking was fully answered, there are no such documents and therefore no such documents to list.”[79]
+[118] The Appellant’s written submission (which says that there are no privileged documents to list) is not consistent with the second sentence of its response to Disputed Undertaking 5. The undertaking calls for a list of the documents over which privilege is claimed. The response to the undertaking acknowledges that there are emails between Mr. Sturt and legal counsel and that those emails are covered by solicitor-client privilege. Hence, the undertaking calls for a list of those emails. This raises the question of whether the phrase “emails between Paul Sturt and legal counsel for the Thompson group” constitutes a list of privileged documents, or whether the word list, in this context, requires more detail, such as the dates of the emails, the name of the legal counsel, and an indication as to whether Mr. Sturt was the sender or recipient of each email.
+[119] In considering the appropriate manner in which to describe privileged documents in a slightly different context, Chief Justice Rossiter, in the CIBC case, set out the following principles:
+233. … “a party preparing an affidavit of records must, short of revealing information that is privileged, provide a sufficient description of each record for which privilege is claimed to assist other parties in assessing the validity of the claimed privilege….”
+236. … “for each record, a party must state the particular privilege being asserted and describe the record in a way, again without revealing information that is privileged, that indicates how the record fits within the claimed privilege.”
+239. … Description is much more crucial to Schedule B since the opposing party cannot see the document’s details and can only rely on the description in order to assess privilege claims….
+243. I would … order that CIBC provide the author and/or sender, the recipient, the date of creation, subject line and describe the record in a way without revealing information that is privileged for all non-email documents listed in Schedule B.[80]
+[120] The particular issue in the CIBC case was whether CIBC’s Schedule B in its List of Documents (Full Disclosure) contained enough identifying information for certain privileged documents. That is not the specific issue in this Motion, which considers whether the Appellant has provided an adequate list of the documents over which it is claiming privilege. Nevertheless, the underlying principles in both situations have certain similarities, and the objective in both situations is to ensure that the party claiming privilege provides “a sufficient description of each record for which privilege is claimed to assist other parties in assessing the validity of the claimed privilege[, as] … the objective is to reduce the need for parties to seek recourse to other time-consuming and costly litigation steps, … so that claims can be challenged[, tested or assessed] without immediate resort to the courts.”[81]
+[121] Accordingly, I am of the view that principles enunciated in the context of Schedule B in a full-disclosure list of documents under Rule 82 may provide guidance in respect of this Motion. In that regard, I note that Form 82(3) in Schedule I to the Rules suggests that, for each document which a party objects to produce, Schedule B should adhere to the following guidelines (which are paraphrased below):
+(a)The ground of objection should be stated. In the context of privilege, I take this as an indication of the type of privilege that is claimed (for instance, solicitor-client privilege, common-interest privilege, settlement privilege, etc.).
+(b)Each of the documents should be numbered consecutively.
+(c)The nature and date of each document should be given, together with other particulars sufficient to identify it.
+In other words, the objective is to ensure that the other party has sufficient information about the document to satisfy itself that the privilege has been properly claimed, so as to reduce the number of situations where the Court is called upon to review the documents to make such a determination.
+[122] The Supreme Court of Canada has indicated that “privilege can only be claimed document by document, with each document being required to meet the criteria for the privilege….”[82] In this regard, Form 82(3) implies that each privileged document should be separately identified. However, I note that the Alberta Court of Appeal, in CNRL, as quoted in CIBC, indicated that documents could be grouped in bundles for the purposes of identification.[83] To my mind, that seems to be an efficient approach, in a situation where there is a large number of privileged documents, all with the same author, recipient, nature and description. Where numerous documents, such as a large group of emails between the same two individuals, are bundled together, rather than providing the date of each document, I think that it would be sufficient to provide the range of dates covered by the bundle. As well, the total number of documents in the bundle should be provided.
+[123] I have struggled with the question of whether the name of the lawyer who is participating in the privileged communication should be disclosed. In some situations, to disclose the name of the lawyer might also reveal the area in which that lawyer typically practises, which could lead to a disclosure of privileged information.[84] At the same time, the other party in the litigation (i.e., the party who is not claiming privilege) is entitled to have sufficient information to satisfy itself that the privilege is properly claimed.
+[124] Furthermore, in Revcon, which dealt with a claim of privilege over items that would identify a taxpayer’s solicitors (referred to as “Law Firm X”) and items which included “shorthand tax law language [or nomenclature] used by Law Firm X” to describe certain transactions, the Federal Court stated:
+25. The Respondent has provided me with no authority to support the proposition that the Law Firm X and Nomenclature claims are valid bases upon which to claim solicitor-client privilege. The idea that the identity of a law firm or lawyer retained by a client to provide tax planning advice is privileged finds no support in the law. It does not matter whether the law firm was retained “indirectly” by another firm directly retained by the client. A communication revealing the name of a law firm or lawyer – without anything else, such as actual legal advice – is not a confidential communication made for the purpose of receiving legal advice from a lawyer acting in a legal capacity. The name of a law firm, without more, is not protected by solicitor-client privilege. Nor is the revelation of shorthand tax language used by tax planning advisors.[85]
+[125] In Blank & Gateway Industries, the Federal Court of Appeal dealt with an appeal from an order of a judge of the Federal Court, who had considered a claim for solicitor-client privilege (by the Minister of the Environment in respect of documents received from a lawyer in the Department of Justice), and who had required the disclosure of certain identifying parts of documents in two categories. Concerning the second category, the Federal Court of Appeal stated:
+23. In the second category are letters and memoranda in which disclosure was ordered of the part of the document showing what I would characterize as general identifying information: the description of the document (for example, the “memorandum” heading and internal file identification), the name, title and address of the person to whom the communication was directed, the subject line, the generally innocuous opening words and closing words of the communication, and the signature block. The partial disclosures in this category enable the appellants to know that a communication occurred between certain persons at a certain time on a certain subject, but no more.
+24. There may be instances in which such general identifying information might be subject to solicitor-client privilege. However, the Minister has provided no evidence upon which I can conclude that this is such a case. Strictly speaking, therefore, the Judge could and should have ordered the disclosure of general identifying information for every letter or memorandum containing a privileged communication.[86]
+[126] The Appellant’s response to Disputed Undertaking 5 merely refers to emails between Mr. Sturt and legal counsel for the Thompson Bros. Group, which are covered by solicitor-client privilege. In keeping with the guidelines set out above, I think that the Appellant should also provide the following:
+(a)the name of counsel by, or to whom, the emails were sent;
+(b)the date of each email, or if there is a large number of emails bundled together, the range of dates covered by the bundle of emails;
+(c)if there is a large number of emails, and if the Appellant prefers to continue to refer to the emails as a bundled group, the number of emails in the bundle; and
+(d)for each email, the subject line or caption, provided that it is innocuous and does not disclose privileged information.
+2. Disputed Undertaking 16
+[127] While examining Mr. Thompson, counsel for the Respondent requested an undertaking to provide correspondence among Action, 2980622, Cavalon Capital Partners Incorporated (“Cavalon”), Mr. Thompson and entities in the Thompson Bros. Group relating to the Definitive Transaction Agreement, and a list of any such documents that are covered by solicitor-client privilege. Counsel for the Appellant agreed to the undertaking, including the provision of a list of privileged documents.[87]
+[128] In response to the undertaking, the Appellant provided to the Respondent various items of correspondence. As well, the Appellant also said:
+In addition to the enclosed correspondence, there are approximately 20 emails between the parties and their respective counsel that are covered by Common Interest Privilege and are therefore not producible in this appeal.[88]
+[129] The Respondent takes the position that the above response does not constitute a list of privileged documents, such that the response is incomplete.[89] The Appellant, maintaining that it has provided a list, offers the following explanation:
+74. The Appellant has identified that there are a group of approximately 20 e-mails that have not been produced because, in counsel’s opinion, they are covered by CIP. The list requested by counsel for the Respondent accordingly has 1 entry:
+Group of approximately 20 e-mails potentially covered by CIP.
+75. If the Respondent wishes to challenge the privilege claim, the Appellant submits that the documents in question should be provided to the Court in a sealed envelope so that the Court can make a determination.[90]
+[130] While courts are called upon, from time to time, to review documents to determine whether they are protected by privilege of one form or another, the objective, as explained in CIBC and CNRL,[91] is to minimize the number of times that judicial intervention is required in such a situation. Therefore, as discussed above, in addition to the explanation that the Appellant has already provided, the Appellant should also provide the following in respect of the documents that are the subject of Disputed Undertaking 16:
+(a)the names of the sender and the recipient of each email;
+(b)the date of each email;[92] and
+(c)for each email, the subject line or caption, provided that it is innocuous and does not disclose privileged information.
+3. Disputed Undertakings 52, 53 and 54
+[131] During the examination of Mr. Thompson, the Appellant gave three undertakings to provide copies of correspondence from Action, 2980622 and Cavalon with respect to:
+(a)the agreement pertaining to the dissolution of Action LMS LP;[93]
+(b)the payment of funds described in article/clause 7.2 of the Definitive Transaction Agreement;[94] and
+(c)the sale of the Appellant’s interest in TCP Partnership to Action LMS LP, or the purchase by Action LMS LP of the Appellant’s interest in TCP Partnership.[95]
+[132] For each of the above three undertakings (i.e., Disputed Undertakings 52, 53 and 54), the Appellant gave the same brief response:
+See the answer to undertaking 16.[96]
+[133] The respective positions of the Respondent and the Appellant in respect of Disputed Undertakings 52, 53 and 54 are the same as their respective positions in respect of Disputed Undertaking 16. Similarly, my decision in respect of Disputed Undertakings 52, 53 and 54 is the same, mutatis mutandis, as my decision in respect of Disputed Undertaking 16.[97]
+VII. CONCLUSION
+[134] The Motion is allowed in part, and the Appellant is required:
+(a)to answer Disputed Questions 1 and 26;
+(b)to answer Disputed Questions 19, 28 and 31, to the extent that the Appellant’s answers do not require the disclosure of information protected by solicitor-client privilege;
+(c)to answer Disputed Question 34, to the extent that the Appellant, its affiliates and their shareholders, directors and officers have any knowledge relating to the due diligence, if any, conducted by Action or 2980622 in respect of the Transactions;
+(d)to amplify its responses in respect of Disputed Undertakings 5, 16, 52, 53 and 54, in accordance with the principles set out in paragraphs 126, 130 and 133 above; and
+(e)to satisfy Disputed Undertaking 61.
+[135] For greater certainty:
+(a)by reason of duplication, the Appellant is not required to answer Disputed Questions 7, 24 and 40; and
+(b)by reason of solicitor-client privilege, the Appellant is not required to answer Disputed Questions 2, 3, 4, 5, 6, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 20, 21, 22, 23, 25, 27, 29, 30, 32, 33, 35, 36, 37, 38 and 39.
+[136] The costs in respect of this Motion shall be costs in the cause, unless otherwise determined by the trial judge.
+Signed at Ottawa, Canada, this 10th day of August 2023.
+“Don R. Sommerfeldt”
+Sommerfeldt J. Appendix I
+CITATION:
+2023 TCC 117
+COURT FILE NO.:
+2016-3653(IT)G
+STYLE OF CAUSE:
+632738 ALBERTA LTD. and HIS MAJESTY THE KING
+PLACE OF HEARING:
+Edmonton, Alberta
+DATE OF HEARING:
+April 7, 2022
+REASONS FOR ORDER BY:
+The Honourable Justice Don R. Sommerfeldt
+DATE OF ORDER:
+August 10, 2023
+APPEARANCES:
+Counsel for the Appellant:
+Robert A. Neilson
+Jeremy Comeau
+Counsel for the Respondent:
+Mary Softley
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Robert A. Neilson
+Jeremy Comeau
+Firm:
+Felesky Flynn LLP
+Edmonton, AB
+For the Respondent:
+Shalene Curtis-Micallef
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Income Tax Act, RSC 1985, c. 1 (5th Supplement), as amended.
+[2] The factual summary set out in these Reasons is taken, with some modification, primarily from paragraphs 7 through 28 of the Written Submissions of the Appellant dated April 5, 2022 (the “Appellant’s Submissions”). The statement, in subparagraph 3(g) below, with respect to the Definitive Transaction Agreement, is taken, with some modification, from subparagraphs 13.v), w) and x) of the Amended Reply.
+[3] This is the partnership name set out in paragraph 17 of the Notice of Appeal, in subparagraphs 13.u) and y) of the Amended Reply, and in paragraph 5 of the Written Submissions of the Respondent (Applicant) dated April 5, 2022 (the “Respondent’s Submissions”). Paragraph 19 of the Appellant’s Submissions shows the name as “TCP Labour Partnership.” The abbreviated name given by the Appellant to this partnership is “TCP Partnership”. In these Reasons, I have used the same abbreviated name.
+[4] Appellant’s Submissions, ¶29.
+[5] Ibid, ¶30.
+[6] I have taken this wording from paragraph 5 of the Appellant’s Answer to the Amended Reply. In paragraph 9 of the Amended Reply, the Respondent indicates that the waiver related to “the taxpayer’s income of $99,991 from Thomson [sic] Contractors Partnership”; however, in paragraph 13 of the Respondent’s Submissions, the Respondent indicates that the Waiver related to “the taxpayer’s income of $99,991 from the Thompson Brothers Partnership.” I am not aware of a partnership named “Thompson Brothers Partnership”; therefore, I think that the reference in the Respondent’s Submissions to that name is likely a clerical error. Not having seen a copy of the Waiver, I do not know whether the amount of income referred to therein is $99,981 or $99,991.
+[7] In addition to the Disputed Questions (i.e., the questions that Mr. Thompson, in his capacity as the Appellant’s officer, refused to answer and that are set out in the Notice of Motion), in reading the excerpts from the transcript (the “Transcript”) of the examination for discovery on September 21, 2021 of Mr. Thompson that were provided to me at the hearing of this Motion, I came across three other questions that Mr. Thompson refused to answer and that are not set out in the Notice of Motion. Those questions are found in the Transcript at (i) page 140, lines 17-24; (ii) page 149, lines 12-24; and (iii) page 175, line 11 to page 176, line 10. As those three questions were not identified in the Notice of Motion, I have not addressed them in these Reasons. The excerpts from the Transcript are set out in Exhibit A to the Affidavit (the “Affidavit”) of Jamie Verville, which was filed on February 28, 2022. The only other exhibit to the Affidavit is Exhibit B, which sets out the Disputed Undertakings and the answers thereto provided by the Appellant.
+[8] The Appellant objected to Disputed Question 5 on the grounds of both relevance and solicitor-client privilege. See Transcript, p. 50, line 25 to p. 51, line 8.
+[9] The wording of subsection 103(1) of the Act continues to be the same in 2023 as it was in 2011.
+[10] Alex Bisset (ed.), The Canadian Oxford Compact Dictionary (Don Mills: Oxford University Press, 2002), p. 853. The usage guide at the beginning of this dictionary states, on page vi, that “Definitions are listed in a numbered sequence in order of comparative familiarity and importance, with the most current and important senses first.” The definition set out above is the first listed sense or meaning of reason.
+[11] Ibid, p. 831. The usage guide referenced in the preceding footnote goes on to state that the definitions “are subdivided into lettered senses (a, b, etc.) when these are closely related or call for collective treatment.” The guide also explains that italicized words in brackets (or parentheses) are “examples of words in use [which] are given to support, and in some cases supplement, the definitions.” Thus, the phrase for tax purposes in the above definition of purpose is given as an example of that word’s usage.
+[12] Norman Lewis (ed.), The New Roget’s Thesaurus in Dictionary Form, Revised Edition (New York: G.P. Putnam’s Sons, 1985), p. 339.
+[13] Situations where the courts have considered intent, purpose and motivation, when applying subsection 103(1) of the Act, are Penn West Petroleum Ltd. v. The Queen, 2007 TCC 190; ¶44-45; and Xco Investments Ltd. v. The Queen, 2007 FCA 53, ¶13, aff’g 2005 TCC 655.
+[14] Irrigation Industries Ltd. v. MNR, [1962] SCR 346, at 358; quoting from Inland Revenue Commissioners v. Fisher’s Executors, [1926] AC 395, 42 TLR 340. Justice Cartwright wrote dissenting reasons.
+[15] Ibid, referencing Regal Heights Ltd. v. MNR, [1960] SCR 902, 26 DRL (2d) 51.
+[16] Canadian Dredge & Dock Company, Limited v. The Queen, [1985] 1 SCR 662, at 693. See also St. John’s Port Authority, 2011 FCA 198, ¶56.
+[17] Roseland Farms Ltd. v. Minister of National Revenue, 99 DTC 5704, ¶24, 1999 CanLII 36321 (FC), aff’d, 2001 FCA 167, application for leave to appeal to SCC dismissed, 28719 (18 October 2001).
+[18] Bemco Confectionery and Sales Ltd. v. The Queen, 2015 TCC 48, ¶38 & 41.
+[19] Edgington v. Fitzmaurice, (1885) L.R. 29 Ch.D. 459, at 483; as quoted in Irrigation Industries, supra note 14, p. 362; and in Bemco Confectionery, supra note 18, ¶41.
+[20] Sputek v. The Queen, 2010 TCC 540, ¶22-24.
+[21] MP Western Properties Inc. v. The Queen, 2017 TCC 82, ¶21(a); aff’d, subnom Madison Pacific Properties Inc. v. The Queen, 2019 FCA 19, ¶11 & 25; leave to appeal refused, 2019 CarswellNat 3243 and 2019 CarswellNat 3244 (SCC). In addition, see Canadian Western Trust Company as Trustee of the Fareed Ahamed TFSA v. The Queen, 2019 TCC 121, ¶9; aff’d, 2020 FCA 213.
+[22] MP Western Properties (TCC), supra note 21, ¶21(b).
+[23] The Queen v. Lehigh Cement Ltd., 2011 FCA 120, ¶34. See also MP Western Properties (TCC), supra note 21, ¶21(f).
+[24] HSBC Bank Canada v. The Queen, 2010 TCC 228, ¶16.
+[25] Ibid, ¶14(2).
+[26] Tor Can Waste Management Inc. v. The Queen, 2015 TCC 157, ¶21.
+[27] General Electric Capital Canada Inc. v. The Queen, 2008 TCC 668, ¶14. See also Burlington Resources Finance Co. v. The Queen, 2015 TCC 71, ¶11; and Canadian Imperial Bank of Commerce v. The Queen (“CIBC”), 2015 TCC 280, ¶14.
+[28] Kaul v. The Queen, 2019 TCC 17, ¶36; appeal dismissed, sub nom. Roher v. The Queen, 2019 FCA 313, ¶20.
+[29] CNOOC Petroleum North America ULC v. 801 Seventh Inc., 2021 ABQB 861, ¶25; The Queen v. Lavallee, Rackel & Heintz, 2002 SCC 61, ¶36; and Maranda v. Richer, 2003 SCC 67, ¶16; Canada (A.G.) v. Chambre des Notaires du Québec, 2016 SCC 20, ¶5 & 28; and Canada (A.G.) v. Federation of Law Societies of Canada, 2015 SCC 7, ¶44.
+[30] CNOOC, supra note 29, ¶28, 29 & 31, quoting Samson Indian Nation and Band v. Canada, 1995 CanLII 3602 (FCA).
+[31] Ibid, ¶39.
+[32] Ibid, ¶38 & 40. See also Minister of Public Safety and Emergency Preparedness v. Information Commissioner of Canada, 2013 FCA 104, ¶33.
+[33] Minister of Public Safety, supra note 32, ¶33.
+[34] Imperial Tobacco Canada Limited v. The Queen, 2013 TCC 144, ¶98.
+[35] The Queen v. Superior Plus Corp, 2015 FCA 241, ¶14.
+[36] Ibid, ¶16.
+[37] Ibid, ¶19.
+[38] Gerbro Inc. v. The Queen, 2014 TCC 179, ¶50, quoting Mahjoub (Re), 2011 FC 887, ¶10.
+[39] Bank Leu AG v. Gaming Lottery Corp., (1999) 43 CPC (4th) 73 (ONSC), ¶5; aff’d, (2000) 132 OAC 127 (ONSC – Div Ct), as quoted in CIBC, supra note 27, ¶55.
+[40] CIBC, supra note 27, ¶58-59, 61.
+[41] Imperial Tobacco Canada Limited v. The Queen, 2013 TCC 144, ¶91-92. See also Toronto-Dominion Bank v. Leigh Instruments Ltd., 1997 CanLII 12113, 32 OR (3d) 575, ¶61 CanLII.
+[42] Respondent’s Submissions, ¶20, fn 19.
+[43] Appellant’s Submissions, ¶2.
+[44] Appellant’s Submissions, ¶3.
+[45] See paragraph 60 and footnote 29 above.
+[46] See paragraphs 65-66 and footnotes 38 and 39 above.
+[47] Bank Leu, supra note 39. ¶5.
+[48] See paragraphs 10-11 above.
+[49] Warner v. Sampson, [1959] 1 QB 297 (Eng. CA) at 319 & 324; and Husky Oil Operations Limited v. The Queen, 2019 TCC 136, ¶22.
+[50] CIBC, supra note 27, ¶58-59.
+[51] Ibid, ¶61.
+[52] Imperial Tobacco, supra note 41, ¶91.
+[53] See paragraphs 63-64 and footnotes 35-37 above.
+[54] Superior Plus, supra note 35, ¶16.
+[55] Kaul, supra note 28, ¶36.
+[56] Respondent’s Submissions, ¶31.
+[57] In its submissions, the Appellant signalled its willingness to have the Respondent’s uncertainty resolved, as the Appellant stated, “If there is any question regarding whether the documents are properly subject to privilege, the documents should be provided to the Court under seal for its consideration.” See Appellant’s Submissions, ¶5.
+[58] Bemco Confectionery, supra note 18, ¶38 & 41.
+[59] CIBC, supra note 27, ¶16; quoting from Shell Canada Ltd. v. The Queen, [1997] 1 CTC 2208 (TCC), ¶10; which in turn quoted from Holmstead & Watson, Ontario Civil Procedure, under the heading “Scope of Examination: General, Rule 31.06(1)”, at 31-48.
+[60] CIBC, supra note 27, ¶17.
+[61] CIBC, supra note 27, ¶18, third item.
+[62] Appellant’s Submissions, ¶50.
+[63] See CIBC, supra note 27, ¶15; quoting from Teelucksingh v. The Queen, 2010 TCC 94, ¶15(vi).
+[64] This Transaction is not described in the pleadings or in paragraph 3 above.
+[65] Transcript, p. 134, line 24 to p. 136, line 24.
+[66] Transcript, p. 51, lines 2-8.
+[67] HSBC, supra note 24, ¶16.
+[68] Ibid, ¶14(2).
+[69] My description of Disputed Question 28 is an abbreviated summary of the actual question. See Transcript, p. 130, line 25 to p. 131, line 18; and p. 131, line 22 to p. 132, line 3.
+[70] Transcript, p. 131, lines 19-21; and p. 132, lines 4-7.
+[71] See paragraph 54 and footnote 23 above.
+[72] Appellant’s Submissions, ¶60.
+[73] See CIBC, supra note 27, ¶15, quoting from Teelucksingh, supra note 63, ¶15(vi).
+[74] Transcript, p. 141, line 1 to p. 142, line 18.
+[75] Appellant’s Submissions, ¶66.
+[76] Transcript, p. 39, line 12 to p. 40, line 24.
+[77] Affidavit, Exhibit B, item 5.
+[78] Respondent’s Submissions, ¶47.
+[79] Appellant’s Submissions, ¶73.
+[80] CIBC, supra note 27, ¶233, 236, 239 & 243. The statements quoted in paragraphs 233 and 236 were taken from Canadian Natural Resources Ltd. v. ShawCor Ltd. (“CNRL”), 2014 ABCA 289, ¶8 & 72.
+[81] CIBC, supra note 27, ¶233 & 236.
+[82] Solosky v. The Queen, [1980] 1 SCR 821, at 837.
+[83] CIBC, supra note 27, ¶234; quoting CNRL, supra note 80, ¶54.
+[84] For instance, in the case of an individual who is having matrimonial difficulties, the mere fact that the individual is consulting with a matrimonial lawyer might be privileged information. Thus, requiring that individual to provide the name of the lawyer who has provided legal advice could, particularly if the lawyer is well known, result in a disclosure of privileged information. This concern was discussed by Justice Gauthier (then of the Federal Court) in MNR v. Welton Parent Inc., 2006 FC 67, ¶82-86, which made reference to the decision of the Supreme Court of Canada in the Lavallee case, supra note 29, as well as the decisions of the two lower courts in that case:
+82. The issue with respect to the disclosure of the names of the employers, as I understand it here, is that, in the very particular circumstances of this case, disclosure of this information would effectively reveal not only the fact that these employers sought legal advice from those specific lawyers but also the nature and the very substance of the legal advice given by the lawyers to these employers with respect to the Plans.
+83. Before reviewing the particular circumstances on which the respondent relies to support its position, I will briefly review the applicable principles.
+84. First, it is agreed that, as mentioned by Justice Arbour in Lavallee, at paragraph 28, “the names of the client may very well be protected by solicitor-client privilege, although this is not always the case”.
+85. In saying this, Justice Arbour was echoing the concerns expressed by Justice Coté of the Alberta Court of Appeal in that same case ((2000), 184 D.L.R. (4th) 25) who had said at paragraph 56 that:
+The very fact that a certain client consulted a certain type of lawyer may be very sensitive, and may indirectly reveal important secrets. It may well reveal the topic on which legal advice was sought: Dorchak v. Krupka (1997), 196 A.R. 81, 90 (C.A.).
+86. Justice Veit of the Alberta Queen’s Bench in that case ((1998), 160 D.L.R. (4th) 508, at page 525) had also said:
+(…) in some situations, it may be critically important for a client to be confident that no one will know that she has consulted a divorce lawyer, or a lawyer who specializes in sterilization claims, or in claims for individuals who contracted AIDS through the blood supply, or in defending drunk driving charges.
+[85] MNR v. Revcon Oilfield Constructors Incorporated, 2015 FC 524, ¶25; aff’d, 2017 FCA 22, ¶3.
+[86] Sheldon Blank & Gateway Industries Ltd. v. The Minister of the Environment, 2001 FCA 374, ¶23-24. See also Cameco Corporation v. The Queen, 2014 TCC 45, ¶54; Gardner v. Viridis Energy Inc., 2013 BCSC 580, ¶39-40; and Adam M. Dodek, Solicitor-Client Privilege (Markham: LexisNexis Canada, 2014), Part III, Chapter 9, section 3.1, ¶9.15.
+[87] Transcript, p. 63, line 24 to p. 64, line 21.
+[88] Affidavit, Exhibit B, item 16.
+[89] Respondent’s Submissions, p. 13, ¶47.
+[90] Appellant’s Submissions, ¶74-75.
+[91] See paragraphs 119-120 and footnotes 80 and 81 above.
+[92] I do not consider “approximately 20 emails” to be a large number of emails. Therefore, the emails should be listed individually, rather than bundled together.
+[93] This is the subject of Disputed Undertaking 52. See Transcript, p. 152, line 24 to p. 153, line 20.
+[94] This is the subject of Disputed Undertaking 53. See Transcript, p. 153, line 21 to p. 154, line 25.
+[95] This is the subject of Disputed Undertaking 54. See Transcript, p. 155, line 1 to p. 156, line 1. This undertaking was described by reference to both the sale and the purchase.
+[96] Affidavit, Exhibit B, items 52, 53 and 54.
+[97] See paragraph 130 above.

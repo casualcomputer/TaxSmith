@@ -1,0 +1,169 @@
+Title: Bay Ferries Limited v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/22842/index.do
+Corpus path: corpus/cases/tcc/2004/2004-cci-663-22842-bay-ferries-limited-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2004-10-01
+
+# Bay Ferries Limited v. The Queen
+
+- Citation: 2004 CCI 663
+- Decision date: 2004-10-01
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2346, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Bay Ferries Limited v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-10-01
+Référence neutre
+2004 CCI 663
+Numéro de dossier
+2003-87(GST)G
+Juges et Officiers taxateurs
+Diane Campbell
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Référence : 2004CCI663
+Dossier : 2003-87(GST)G
+ENTRE :
+BAY FERRIES LIMITED,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+CERTIFICATION DE LA TRANSCRIPTION
+DES MOTIFS DU JUGEMENT
+Je demande que soit déposée la copie certifiée ci-jointe des motifs du jugement prononcés oralement à l'audience à Charlottetown (Île-du-Prince-Édouard), le 13 août 2004.
+« Diane Campbell »
+Juge Campbell
+Signé à Ottawa, Canada, ce 1er jour d'octobre 2004.
+Traduction certifiée conforme
+ce 23e jour de juin 2005.
+Sara Tasset
+Référence : 2004CCI663
+Date : 20041001
+Dossier : 2003-87(GST)G
+ENTRE :
+BAY FERRIES LIMITED,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+(Révisés à partir de la transcription des motifs du jugement prononcés oralement le 13 août 2004, à Charlottetown (Île-du-Prince-Édouard))
+La juge Campbell
+[1] L'appelante a fait l'objet de cotisations initiales établies en vertu de la Loi sur la taxe d'accise (la « Loi » ) pour la période allant du 1er avril 1997 au 31 mai 1998 ainsi que pour la période allant du 1er juin 1998 au 31 décembre 2000 au moyen d'avis de cotisation datés du 21 octobre 1999 et du 29 mars 2001, respectivement.
+[2] Ces cotisations initiales ont été toutes deux confirmées le 23 septembre 2002.
+[3] En conséquence de ces cotisations et nouvelles cotisations, l'appelante n'a pas pu se prévaloir de crédits d'impôt sur intrants (CTI) à l'égard de la taxe versée sur certaines dépenses relatives à l'entreprise de transport par traversier qu'exploite l'appelante.
+[4] En l'espèce, il s'agit de décider si la méthode choisie par l'appelante pour répartir les CTI entre les fournitures taxables et les fournitures exonérées était juste et raisonnable et qu'elle a été suivie uniformément tout au long des périodes pertinentes conformément au paragraphe 141.01(5) de la Loi.
+[5] L'appelante a employé la méthode fondée sur les intrants pour répartir les CTI entre les fournitures taxables et les fournitures exonérées. Le ministre n'était pas d'accord et a appliqué la méthode fondée sur les extrants parce qu'il s'agissait d'une formule de répartition plus appropriée et que la méthode fondée sur les intrants n'était pas juste et raisonnable dans les circonstances. Par conséquent, le ministre a déterminé que l'appelante avait engagé la totalité, ou presque, de ses dépenses dans le cadre de la fourniture de services de traversier, qui est une fourniture exonérée, et non pas dans le cadre d'une activité commerciale. L'appelante n'a donc pas pu se prévaloir des CTI prévus au paragraphe 169(1) à l'égard de la taxe relative à ces dépenses.
+[6] Ce sont les faits qui déterminent si une formule de répartition choisie par un inscrit est juste et raisonnable.
+[7] L'appelante a fait témoigner deux personnes : Gordon MacRae, vice-président - Services généraux, de Bay Ferries, et Craig Bradley, comptable agréé.
+[8] L'intimée n'a convoqué aucun témoin.
+[9] L'appelante exploite deux services de traversier pour passagers dans la région des Maritimes. Le navire Catamaran relie Yarmouth, en Nouvelle-Écosse, et Bar Harbour, dans le Maine. Parce que ce service est considéré comme un service international entre le Canada et les États-Unis, il constitue une fourniture détaxée, de sorte que les revenus attribuables aux passagers ne sont pas taxés, conformément à la Loi. Par conséquent, l'appelante a droit à 100 % des CTI.
+[10] Le navire « MV Princess of Acadia » offre le deuxième service, qui relie Digby, en Nouvelle-Écosse, et Saint John, au Nouveau-Brunswick. Le présent appel porte sur ce deuxième service de traversier entre Digby et Saint John.
+[11] Les revenus attribuables aux passagers tirés des droits de péage relatifs à ce service de traversier sont exonérés. Le problème découle du fait que l'appelante, en plus de ses revenus attribuables au navire et aux passagers relativement aux services de traversier, tire des revenus de la location d'espace à bord du navire afin que des services alimentaires puissent être offerts aux passagers.
+[12] Il s'ensuit la création de deux sources de revenus tirés d'activités commerciales - le revenu de location et le revenu engendré par les machines distributrices. Le loyer commercial est reçu en contrepartie de la location d'espace à des tierces parties sans lien de dépendance qui tiennent une boutique de cadeaux, la cafétéria, le bar et le salon, le stand de journaux, les toilettes et la zone vidéo.
+[13] L'appelante perçoit la TVH sur le revenu attribuable aux loyers commerciaux.
+[14] Gordon MacRae a expliqué qu'il était simplement plus rentable, sur le plan économique, de louer l'espace et de laisser des tiers fournir les services aux passagers. Parce que l'appelante fournissait des services taxables et des services exonérés à bord de ce navire, elle ne pouvait pas se prévaloir de la totalité de ses CTI. Elle devait donc choisir une méthode appropriée pour répartir les CTI entre les fournitures taxables et les fournitures exonérées.
+[15] La méthode choisie par l'appelante en vue de répartir les CTI se fondait sur la superficie en pieds carrés. Gordon MacRae a décrit la démarche suivie par l'appelante afin de choisir cette formule de répartition.
+[16] La pièce A-1 montrait une coupe du navire et les plans des ponts du « MV Princess of Acadia » . Dans son témoignage, M. MacRae a précisé la taille du bar situé sur le pont des embarcations, celle de la cafétéria et du salon, ces deux dernières sections se trouvant sur le pont supérieur. La pièce A-1 contenait également des diagrammes et une ventilation des superficies en pieds carrés de la zone réservée à l'équipage, de la zone réservée aux passagers et du pont des véhicules, par rapport à la salle des machines, au pont principal, au pont des embarcations, au pont supérieur et au pont de passerelle.
+[17] Selon M. MacRae, le pont principal servait à garer les véhicules durant la traversée. Le pont des embarcations comportait une zone réservée à l'équipage, plus le bar, le salon et les toilettes. Le pont supérieur abritait les boutiques et la cafétéria.
+[18] M. MacRae a comparé la zone réservée aux passagers avec le bar, les toilettes et le pont extérieur, sur le niveau du pont des embarcations, de même qu'avec la cafétéria et les boutiques sur le pont supérieur. En contre-interrogatoire, il a mentionné que les passagers ne pouvaient aller nulle part ailleurs qu'aux endroits qu'il avait précisés.
+[19] Selon la pièce A-1, la superficie totale du navire calculée par l'appelante s'élevait à 51 417,8 pieds carrés et la zone totale réservée aux passagers couvrait 15 534,5 pieds carrés. M. MacRae a expliqué que l'appelante avait ensuite calculé le pourcentage de la zone réservée aux passagers par rapport à la superficie totale du navire, soit 30,29 %. Il a fourni une répartition plus détaillée et spécifique des superficies en pieds carrés pour les différentes zones, telles le bar, les toilettes des hommes et des femmes, la salle pour changer les couches, la boutique de souvenirs, la réception, le bureau d'information touristique, le salon et la cafétéria.
+[20] Par conséquent, d'après la superficie en pieds carrés des espaces loués à des tierces parties sans lien de dépendance (qui exploitaient le bar, la cafétéria, etc.) comparativement à la superficie totale du navire, puis compte tenu des zones qui seraient applicables aux deux catégories d'activités et de services, l'appelante a conclu qu'une part de 30,29 % de la superficie totale était reliée aux services taxables.
+[21] Toutefois, lors de la préparation des déclarations de TPS/TVH, Bay Ferries a réduit les 30,29 % réels à 25 % parce que, selon M. MacRae, l'appelante a tenu compte du fait que les membres de l'équipage et les passagers pouvaient utiliser les corridors et d'autres aires communes du navire, espaces qui seraient inclus dans les 30,29 %. L'appelante estimait qu'il s'agissait d'une réduction raisonnable et que le chiffre de 25 % représentait un pourcentage juste et raisonnable pour calculer les CTI à l'égard des services taxables.
+[22] Le ministre soutient que les loyers commerciaux et les revenus tirés des machines distributrices ne constituent pas plus de 1,2 % du revenu total de l'appelante. Plus de 90 % des dépenses engagées par l'appelante ont trait à des services liés au transport par traversier de véhicules et de passagers et n'ont rien à voir avec les loyers commerciaux ou les revenus tirés des machines distributrices.
+[23] En réponse à ces hypothèses, M. MacRae a expliqué que la fourniture de ces services aux passagers constituait un service essentiel étant donné que la traversée prenait environ trois heures.
+[24] Il ne connaissait pas d'autre entreprise similaire de transport par traversier qui n'offrait pas de services d'aliments et de boissons. Lorsqu'on lui a demandé quelles conséquences pourrait avoir l'interruption de ces services à bord du navire, il a répondu qu'il y aurait presque certainement une baisse notable du volume de la clientèle. Bon nombre de véhicules commerciaux ont recours au traversier et veulent pouvoir prendre des repas. En outre, tous les véhicules pourraient emprunter la voie terrestre au lieu du traversier.
+[25] À cause du risque de perte de revenus, M. MacRae a déclaré que Bay Ferries offrirait ce service même si elle devait elle-même s'en charger en subissant une perte minime.
+[26] Il a expliqué que, selon les normes en vigueur dans l'industrie, lorsque les services alimentaires ne sont pas fournis par le propriétaire du traversier, un loyer est exigé en fonction du pourcentage des ventes et non pas de la superficie occupée en pieds carrés. Il n'était pas d'accord pour dire que 90 % des dépenses étaient imputables uniquement aux services de traversier. Dans l'exemple présenté à la Cour, il a expliqué que le carburant utilisé ne servait pas seulement à propulser le navire, mais aussi à produire de la chaleur et de l'électricité, toutes deux pour le confort des passagers. Par conséquent, cette dépense entrait dans celles qui sont engagées pour fournir des services aux passagers et à leur intention.
+[27] Pour des raisons de sécurité, les passagers doivent quitter leur véhicule durant la traversée et rester dans la partie supérieure du navire, même si aucun service alimentaire n'est offert. En outre, durant les périodes de pointe, les zones réservées aux passagers et occupées par les services alimentaires ne suffisent pas à contenir tous les gens, et certains se retrouvent dans le salon.
+[28] Le deuxième témoin, Craig Bradley, a passé en revue les fondements de l'opposition de l'appelante.
+[29] Il a expliqué pourquoi l'appelante avait choisi la méthode fondée sur les intrants pour répartir les dépenses entre les activités commerciales taxables et les services exonérés. À son avis, la méthode dont s'est servie l'appelante était juste et raisonnable et avait été utilisée tout au long de la période. Il a déclaré qu'elle était la plus cohérente dans les circonstances, parce que la superficie en pieds carrés ne changera jamais, à moins que l'appelante n'effectue des rénovations.
+[30] En contre-interrogatoire, il a déclaré qu'il avait vu des copies des baux relatifs aux espaces réservés aux services alimentaires offerts à bord du navire, mais comme il ne les avait pas lues en détail, il ne pouvait dire très exactement quels étaient les espaces loués. C'est l'appelante qui a calculé les superficies et qui les lui a transmises.
+[31] Le paragraphe 169(1) de la Loi énonce la règle générale applicable au calcul des CTI :
+(1) Sous réserve des autres dispositions de la présente partie, un crédit de taxe sur les intrants d'une personne, pour sa période de déclaration au cours de laquelle elle est un inscrit, relativement à un bien ou à un service qu'elle acquiert, importe ou transfère dans une province participante, correspond au résultat du calcul suivant si, au cours de cette période, la taxe relative à la fourniture, à l'importation ou au transfert devient payable par la personne ou est payée par elle sans qu'elle soit devenue payable :
+A x B
+où :
+A représente la taxe relative à la fourniture, à l'importation ou au transfert, selon le cas, qui, au cours de la période de déclaration, devient payable par la personne ou est payée par elle sans qu'elle soit devenue payable;
+B :
+a) dans le cas où la taxe est réputée, par le paragraphe 202(4), avoir été payée relativement au bien le dernier jour d'une année d'imposition de la personne, le pourcentage que représente l'utilisation que la personne faisait du bien dans le cadre de ses activités commerciales au cours de cette année par rapport à l'utilisation totale qu'elle en faisait alors dans le cadre de ses activités commerciales et de ses entreprises;
+b) dans le cas où le bien ou le service est acquis, importé ou transféré dans la province, selon le cas, par la personne pour utilisation dans le cadre d'améliorations apportées à une de ses immobilisations, le pourcentage qui représente la mesure dans laquelle la personne utilisait l'immobilisation dans le cadre de ses activités commerciales immédiatement après sa dernière acquisition ou importation de tout ou partie de l'immobilisation;
+c) dans les autres cas, le pourcentage qui représente la mesure dans laquelle la personne a acquis ou importé le bien ou le service, ou l'a transféré dans la province, selon le cas, pour consommation, utilisation ou fourniture dans le cadre de ses activités commerciales.
+[32] En termes simples, cela veut dire que, si un inscrit fournit seulement des services taxables, il aura droit à tous les CTI. S'il effectue seulement des fournitures exonérées, il n'a droit à aucun CTI.
+[33] Les problèmes de répartition surgissent lorsque l'inscrit exerce une gamme mixte d'activités taxables et exonérées. En l'espèce, le ministre a refusé la méthode fondée sur les intrants qu'avait choisie et appliquée l'appelante.
+[34] Cette méthode se fonde sur l'utilisation du navire en fonction des superficies en pieds carrés, un chiffre de 25 % étant utilisé par l'appelante pour calculer les CTI à l'égard des services taxables.
+[35] Le ministre prétend que cette méthode n'est ni juste ni raisonnable et qu'une formule de répartition plus appropriée serait la méthode fondée sur les extrants, c'est-à-dire les revenus. Selon l'argument avancé par le ministre, les services d'aliments et de boissons étaient accessoires à l'activité principale de l'entreprise, soit le transport par traversier de véhicules et de passagers. Selon la méthode fondée sur les extrants, moins de 10 % des revenus proviendraient des fournitures taxables, de sorte que la totalité, ou presque, des dépenses seraient effectuées dans le cadre d'activités non commerciales. Cette méthode ne permettrait aucun remboursement au titre des CTI.
+[36] Les termes clés sont les qualificatifs « justes et raisonnables » , qui figurent tels quels au paragraphe 141.01(5) :
+(5) Seules des méthodes justes et raisonnables et suivies tout au long d'un exercice peuvent être employées par une personne au cours de l'exercice pour déterminer la mesure dans laquelle :
+a) la personne acquiert, importe ou transfère dans une province participante des biens ou des services afin d'effectuer une fourniture taxable pour une contrepartie ou à d'autres fins;
+b) des biens ou des services sont consommés ou utilisés en vue de la réalisation d'une fourniture taxable pour une contrepartie ou à d'autres fins.
+Il s'agit ici uniquement de décider si la méthode choisie par l'appelante est juste et raisonnable conformément à cette disposition.
+[37] Je n'ai pas à décider si la méthode choisie par le ministre ou l'appelante est la meilleure ou la plus appropriée.
+[38] Le premier arrêt, et le seul d'après ce que j'ai pu déterminer, où la Cour d'appel fédérale a dû évaluer la méthode de répartition en vertu de cette disposition a été rendu dans l'affaire Ville de Magog c. La Reine, 2001 CAF 210. Cette décision appuie de façon claire et absolue la non-intervention des tribunaux dans le cas où la méthode choisie par un contribuable est juste, raisonnable et appliquée tout au long de l'exercice.
+[39] Le ministre ne peut substituer sa propre formule de répartition simplement parce qu'elle semble plus représentative de la situation ou meilleure. Ce raisonnement établit le degré de respect qu'il faut accorder au contribuable dans le choix d'une méthode juste et raisonnable.
+[40] Bien entendu, je crois qu'un contribuable doit toujours être en mesure d'expliquer de manière satisfaisante que la méthode choisie est effectivement juste, raisonnable et appliquée tout au long de l'exercice. Toutefois, s'il est capable de le faire, le paragraphe 141.01(5) accorde à l'inscrit une vaste latitude dans le choix de la méthode, pourvu qu'il puisse établir qu'elle était juste et raisonnable. Cela implique que la méthode choisie reflètera l'utilisation réelle du bien et des services ainsi que la manière dont l'entreprise exerce ses activités en général.
+[41] La Loi ne prescrit aucune méthode en guise de ligne directrice. Encore une fois, il faut examiner les faits dans chaque cas. Il est généralement reconnu que la méthode privilégiée est la répartition directe, lorsque le bien ou le service peut être directement rattaché aux activités. La méthode de répartition directe produira les résultats les plus exacts. Dans certaines circonstances, elle ne peut être appliquée. Il n'était pas faisable pour l'appelante en l'espèce de se servir de la répartition directe en raison des frais généraux partagés.
+[42] Selon le Mémorandum sur la TPS 700-5-1, la deuxième méthode privilégiée est celle qui est fondée sur les intrants, qu'avait choisie l'appelante. La troisième, qui peut être employée lorsque les deux premières ne peuvent être appliquées, sera la méthode fondée sur les extrants, qui était celle qu'avait choisie le ministre en l'espèce.
+[43] La méthode fondée sur les intrants, utilisée par l'appelante, nécessitait le calcul des superficies en pieds carrés et a été choisie parce qu'elle était plus cohérente d'année en année. Si Bay Ferries avait opté pour la méthode fondée sur les extrants, comme le ministre, différents pourcentages auraient été attribués aux diverses activités commerciales liées aux services d'aliments et de boissons d'après les revenus générés. Le degré d'uniformité serait alors inférieur à celui qui peut se dégager chaque année du recours à la méthode fondée sur les intrants.
+[44] Si l'appelante décidait d'offrir ces services elle-même plutôt que de louer l'espace, elle pourrait utiliser les mêmes superficies en pieds carrés, ce qui donne lieu à une approche plus cohérente à long terme.
+[45] Je suis d'accord que l'approche de l'appelante, qui se fonde sur l'espace occupé, est juste, raisonnable et appliquée tout au long de la période. Le témoignage non contredit des témoins assignés par l'appelante a établi une formule précise de calcul des superficies en pieds carrés qui était juste et raisonnable. Cette formule permettait d'être cohérent d'année en année et pouvait être utilisée indépendamment du fait que l'appelante loue l'espace à un tiers pour qu'il offre les services alimentaires ou bien qu'elle décide d'offrir les services elle-même.
+[46] Selon l'arrêt Magog, une méthode de répartition ne devrait pas déformer la réalité financière de l'activité commerciale. Il est vrai que les revenus tirés de la location de l'espace représente une petite fraction du revenu total de l'appelante, mais les éléments de preuve montrent clairement qu'il est essentiel que l'appelante offre des services d'aliments et de boissons pour préserver son volume de passagers. Bay Ferries doit rester concurrentielle, car les voyageurs peuvent recourir à d'autres moyens de transport.
+[47] Si l'appelante décidait de fournir les services alimentaires elle-même, des CTI pourraient être demandés. L'appelante a fait un choix d'affaires, soit celui de louer l'espace à des tiers qui offriraient ces services aux passagers, un choix qu'elle estimait approprié compte tenu des circonstances.
+[48] L'appelante est libre de structurer ses activités commerciales de la manière qu'elle juge adaptée à sa situation, pourvu qu'elle ne contrevienne pas aux dispositions de la Loi ou d'une autre règle de droit.
+[49] Dans le cadre de cette structuration, elle a obtenu les conseils d'experts-comptables, choisi la méthode pour répartir ses dépenses entre les fournitures taxables et les fournitures exonérées puis procédé à des calculs détaillés des superficies en pieds carrés qui confirmaient le bien-fondé du chiffre final de 30,29 %, ensuite réduit à 25 % pour tenir compte des espaces communs. Voilà une approche logique, pratique et sensée pour choisir une méthode, particulièrement si l'appelante choisissait d'offrir le service elle-même dans l'avenir. Elle est juste, raisonnable et propre à assurer l'uniformité si Bay Ferries décide d'offrir les services elle-même au lieu de louer l'espace nécessaire. Le contexte commercial évolue constamment et l'appelante, si elle modifie son approche en fonction d'une situation différente, sera en mesure de continuer à utiliser la méthode en question.
+[50] Le ministre a fait valoir que la méthode fondée sur les intrants pourrait bien être acceptable s'il y avait davantage de preuves indiquant la superficie exacte en pieds carrés des espaces réellement loués et utilisés exclusivement pour les services taxables.
+[51] Des gens autres que les clients peuvent s'asseoir au bar et au restaurant, et le ministre prétend que la capacité du navire (environ 620 personnes) comparativement au nombre de places assises au salon, soit 244, permet de croire que les passagers utiliseront tous les espaces à bord du navire, indépendamment du fait qu'ils achètent ou non des aliments ou des boissons.
+[52] Bien que le comptable de l'appelante, M. Bradley, n'ait pas su personnellement quelles étaient les dimensions exactes des espaces loués, M. Gordon MacRae les connaissait, et j'accepte son témoignage, qui était simple et n'a pas été contredit. De fait, si je prends la superficie totale en pieds carrés calculée pour la zone réservée aux passagers, c'est-à-dire 15 534,5 pieds carrés, puis que j'en soustrais l'espace où les passagers peuvent s'asseoir (le salon), soit 4 257 pieds carrés, il me reste quand même une superficie de plus de 11 000 pieds carrés.
+[53] Alors, même si j'enlève l'espace où les passagers peuvent s'asseoir, sans tenir compte de l'espace réservé aux services alimentaires, le reste de la superficie de quelque 11 000 pieds carrés, qui comprend le bar, le restaurant, la boutique de souvenirs, etc., demeure conforme au paragraphe 141(3), et l'ADRC peut utiliser à des fins administratives une règle de 10 %. S'il semble que l'utilisation d'un bien ou d'un service se fait presque en totalité dans le cadre d'activités non commerciales, alors l'utilisation est réputée se faire en totalité dans le cadre de ces activités non commerciales.
+[54] En outre, il peut y avoir un chevauchement entre l'espace réel loué réservé aux services et l'espace où peuvent s'asseoir les passagers. M. MacRae a souligné qu'en période de pointe les passagers prennent parfois leurs repas dans cet espace, parce qu'il n'y a plus de place à la cafétéria ou au salon.
+[55] Lorsque la méthode de répartition directe ne peut être employée, comme c'était le cas ici, les autres formules ne constitueront pas des méthodes de calcul exactes et scientifiques, et même que la méthode fondée sur les extrants est considérée d'une qualité inférieure à la méthode fondée sur les intrants.
+[56] La méthode fondée sur les intrants en l'espèce est juste et raisonnable, et elle semble pratique dans les circonstances et selon les faits qui m'ont été présentés.
+[57] Parce que j'ai conclu que cette méthode est juste et raisonnable, et donc acceptable, je n'ai pas à décider si la méthode choisie par le ministre est meilleure dans les circonstances.
+[58] L'appel est donc accueilli avec dépens puis l'affaire est renvoyée au ministre afin qu'il procède à un nouvel examen et établisse une nouvelle cotisation en tenant compte du fait que l'appelante peut se prévaloir des CTI à l'égard des périodes en question.
+Signé à Ottawa, Canada, ce 1er jour d'octobre 2004.
+« Diane Campbell »
+Juge Campbell
+Traduction certifiée conforme
+ce 23e jour de juin 2005.
+Sara Tasset
+RÉFÉRENCE :
+2004CCI663
+NO DU DOSSIER DE LA COUR :
+2003-87(GST)G
+INTITULÉ DE LA CAUSE :
+Bay Ferries Limited et Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+Charlottetown (Île-du-Prince-Édouard)
+DATE DE L'AUDIENCE :
+Le 9 août 2004
+MOTIFS DU JUGEMENT PAR :
+L'honorable Diane Campbell
+DATE DU JUGEMENT :
+Le 1er octobre 2004
+COMPARUTIONS :
+Avocat de l'appelante :
+Me James Travers, c.r.
+Avocat de l'intimée :
+Me Peter Leslie
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelante :
+Nom :
+Me James Travers, c.r.
+Cabinet :
+Stewart McKelvey Stirling Scales
+Charlottetown (Île-du-Prince-Édouard)
+Pour l'intimée :
+Morris Rosenberg
+Sous-procureur général adjoint du Canada
+Ottawa, Canada

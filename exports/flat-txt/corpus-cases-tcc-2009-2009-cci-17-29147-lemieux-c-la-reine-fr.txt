@@ -1,0 +1,129 @@
+Title: Lemieux c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29147/index.do
+Corpus path: corpus/cases/tcc/2009/2009-cci-17-29147-lemieux-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2009-03-16
+
+# Lemieux c. La Reine
+
+- Citation: 2009 CCI 17
+- Decision date: 2009-03-16
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6678, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Lemieux c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2009-03-16
+Référence neutre
+2009 CCI 17
+Numéro de dossier
+2008-1135(GST)I
+Juges et Officiers taxateurs
+Alain Tardif
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2008-1135(GST)I
+ENTRE :
+YVES LEMIEUX,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 19 août 2008, à Montréal (Québec).
+Devant : L'honorable juge Alain Tardif
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocate de l'intimée :
+Me Maryse Nadeau-Poissant
+____________________________________________________________________
+JUGEMENT
+L'appel de la cotisation établie en vertu de la partie IX de la Loi sur la taxe d'accise, dont l'avis est daté du 5 juin 2007 et porte le numéro 851943795RT0001, est rejeté, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 16e jour de mars 2009.
+« Alain Tardif »
+Juge Tardif
+Référence : 2009 CCI 17
+Date : 20090316
+Dossier : 2008-1135(GST)I
+ENTRE :
+YVES LEMIEUX,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Tardif
+[1] Il s’agit d’un appel d’une décision par laquelle le ministre du Revenu du Québec a refusé à l’appelant un remboursement de taxes au montant de 3 015,17 $ pour des « rénovations majeures » à un immeuble d’habitation en vertu des articles 123 et 256 de la Loi sur la taxe d’accise, L.R.C. (1985) ch. E‑15, (ci‑après la « L.T.A. »).
+[2] La preuve a été constituée du seul témoignage de monsieur Yves Lemieux. Ce dernier a expliqué qu’il exploitait une résidence d’accueil pour neuf adolescentes âgées de 14 ans à 17 ans. Il s’agissait d’adolescentes qui lui étaient confiées suivant les recommandations du D.P.J. (Directeur de la protection de la jeunesse). Il s’agissait de personnes ayant besoin de l’appui et de l’intervention de personnes‑ressources d’une manière ponctuelle.
+[3] À un moment donné, monsieur Lemieux a décidé de faire un ajout à la résidence hébergeant les jeunes filles de manière à y intégrer un autre logement devant devenir sa propre et exclusive résidence, soit un loft de 1 120 pieds carrés par rapport à une surface existante de 2 400 pieds carrés, le tout ayant pour but et effet d’avoir une meilleure intimité du fait d’être complètement séparé de l’endroit où résidaient les jeunes filles.
+[4] L’habitation en question érigée au‑dessus d’un garage d’une capacité de deux voitures était réservée exclusivement à l’appelant et à sa famille. Les lieux étaient reliés par une porte ayant une serrure mécanique; ils bénéficiaient d’une sortie indépendante vers l’extérieur, d’ailleurs très bien identifiée sur les photos produites sous la cote A‑2.
+[5] L’appelant a expliqué que l’ajout était totalement indépendant de l’ancienne résidence, puisqu’il bénéficiait de sa propre installation électrique, son propre système de chauffage électrique et son propre chauffe‑eau. Seule la fosse septique était commune aux deux unités.
+[6] Le loft avait son propre compte chez Hydro‑Québec et faisait l’objet d’une facturation distincte.
+[7] L’ajout en question a nécessité des déboursés de l’ordre de 140 000 $. Le terrain où l’immeuble n’a cependant pas fait l’objet d’une subdivision cadastrale. Contigu et rattaché à l’immeuble déjà existant, dont la surface habitable était de 2 400 pieds carrés, l’ajout a été construit et aménagé sur le même terrain.
+[8] La couverture d’assurance était pour l’ensemble de l’immeuble qui n’avait qu’une seule adresse municipale; Hydro‑Québec facturait le compte d’électricité à une unité séparée identifiée par le numéro 500A alors que l’autre surface avait le numéro 500, la municipalité ayant refusé d’attribuer un numéro civique distinct.
+[9] Ce sont là les faits à l’origine du litige, qui d’ailleurs n’ont pas fait l’objet de litige ou de contestation.
+[10] L’appelant soutient que son immeuble d’habitation regroupe deux habitations en vertu d’un titre unique. Il affirme avoir fait une erreur lorsqu’il avait rempli la demande pour un remboursement de TPS/TVH en vertu de l’article 256 de la L.T.A.
+[11] Il prétend qu’il s’agit non pas d’un ajout majeur, mais d’un immeuble d’habitation nouvellement construit possédant tous les attributs pour constituer un entier en soi. De cette description et interprétation, l’appelant soutient qu’il satisfait aux critères pour obtenir le remboursement de la TPS puisque le loft construit est un appartement séparé et complet de la structure préexistante constituant ainsi un bâtiment en soi.
+[12] L’appelant s’appuie sur le bulletin d’information B-092[1] et plaide que l’exemple fourni à la page 16 du bulletin correspond à sa situation. Or, le bâtiment qui y est décrit était distinct physiquement de l’habitation préexistante; il s’agissait d’une construction absolument nouvelle qui correspond à la définition d’immeuble d’habitation contrairement à la situation de l’appelant en l’espèce. Il semble peut‑être arbitraire de distinguer la situation de l’appelant à celle de l’exemple de William L. mais il est clair que le bulletin d’information n’a aucune force de loi et que la jurisprudence établie ne permet pas un remboursement dans une situation telle que celle de l’appelant.
+[13] L’appelant a également soutenu que son projet était très particulier et qu’il se qualifiait pour un traitement particulier, voire exceptionnel. Dans ses notes écrites, l’appelant a indiqué que la preuve démontrait qu’il s’agissait d’un véritable nouveau logement et non pas des modifications majeures comme il l’avait lui‑même défini lors de sa demande de remboursement.
+Analyse
+[14] Les photos produites illustrent clairement que les travaux exécutés incorporés à l’immeuble déjà existant continuaient un projet fort important dont le coût est tout aussi important, soit 140 000 $.
+[15] Au départ, il est important d’amputer de l’ouvrage globale de toute la partie du garage, ce qui en soi s’avère fort imposant. Bien que la preuve n’ait pas fait la ventilation des déboursés relatifs au garage versus le logement érigé au dessus.
+[16] Il est important de rappeler comment sont définis les différents concepts.
+123(1). « rénovations majeures » Fait l'objet de rénovations majeures le bâtiment qui est rénové ou transformé au point où la totalité, ou presque, du bâtiment qui existait immédiatement avant les travaux, exception faite des fondations, des murs extérieurs, des murs intérieurs de soutien, des planchers, du toit et des escaliers, a été enlevée ou remplacée, dans le cas où, après l'achèvement des travaux, le bâtiment constitue un immeuble d'habitation ou fait partie d'un tel immeuble.
+256(1). « immeuble d'habitation à logement unique » Est assimilé à un immeuble d'habitation à logement unique :
+a) l'immeuble d'habitation à logements multiples de deux habitations;
+b) tout autre immeuble d'habitation à logements multiples, s'il est visé à l'alinéa c) de la définition de « immeuble d'habitation » au paragraphe 123(1) et contient une ou plusieurs habitations qui sont destinées à être fournies comme chambres dans un hôtel, un motel, une auberge, une pension ou un gîte semblable et qui ne seraient pas considérées comme faisant partie de l'immeuble d'habitation si celui-ci n'était pas visé à cet alinéa.
+123(1). « immeuble d'habitation »
+a) La partie constitutive d'un bâtiment qui comporte au moins une habitation, y compris :
+(i) la fraction des parties communes et des dépendances et du fonds contigu au bâtiment qui est raisonnablement nécessaire à l'usage résidentiel du bâtiment,
+(ii) la proportion du fonds sous-jacent au bâtiment correspondant au rapport entre cette partie constitutive et l'ensemble du bâtiment;
+b) la partie d'un bâtiment, y compris la proportion des parties communes et des dépendances du bâtiment, et du fonds sous-jacent ou contigu à celui-ci, qui est attribuable à l'habitation et raisonnablement nécessaire à son usage résidentiel, qui constitue :
+(i) d'une part, tout ou partie d'une maison jumelée ou en rangée, d'un logement en copropriété ou d'un local semblable qui est, ou est destinée à être, une parcelle séparée ou une autre division d'immeuble sur lequel il y a, ou il est prévu qu'il y ait, un droit de propriété distinct des droits de propriété des autres parties du bâtiment,
+(ii) d'autre part, une habitation;
+[. . .]
+[17] D’autres décisions sont pertinentes. L’honorable juge Lucie Lamarre, dans l’affaire France Camiré, dans le dossier 2007-1560(GST)I, affirmait au paragraphe 9 :
+[…] Dans le bulletin B‑092, à la page 27, on dit que pour pouvoir être considéré comme la construction d’un immeuble d’habitation neuf, l’ajout doit au moins doubler la partie habitable de la résidence existante. On y indique que l’ajout d’un garage ne compte pas car ce n’est pas considéré comme une partie « habitable ». Dans le même sens, je dirais qu’un patio n’est pas une partie habitable. À mon avis, ce bulletin n’est pas erroné sur ce point, compte tenu de la définition d’un « immeuble d’habitation », qui parle spécifiquement de l’usage résidentiel du bâtiment.
+[18] Dans l’affaire Alex et Lynn McLean, dossier 97-2286(GST)I, il est indiqué aux paragraphes 6 et 9 :
+6. La définition de « rénovations majeures » est restrictive. Premièrement, il n’est nullement question du coût total des rénovations par rapport à la valeur de la maison. […] les annexes ne doivent pas être prises en considération. Tout ce qui est pris en compte, ce sont les rénovations ou transformations du « bâtiment qui existait immédiatement avant les travaux ». […]
+9. La définition de « rénovations majeures » est assez sévère, comme en fait foi l’analyse qui précède. C’est toutefois ce que dit la Loi, et je suis lié par la Loi. Il se pourrait que des éléments majeurs ajoutés à une structure existante puissent être assimilés à une habitation neuve, mais cela ne semblerait pas s’appliquer aux annexes relativement mineures considérées dans la présente affaire.
+[19] Dans l’affaire Robert B. Sneyd c. Sa Majesté la Reine, dossier A-306-99, aux paragraphes 9 à 12, l’honorable juge Létourneau de la Cour d’appel fédérale écrivait :
+9. Premièrement, le mot « immeuble » vise un ensemble d’habitations. Lorsqu’un bâtiment comporte plus d’une habitation, l’expression « immeuble d’habitation » se rapporte à l’ensemble d’habitations. À mon avis, qualifier d’immeuble chaque habitation d’un « immeuble d’habitation », va à l’encontre du sens même du mot « immeuble ». Le sens que le juge a attribué aux mots « immeuble d’habitation » par lequel tout espace renfermant un seul appartement constitue un immeuble d’habitation, mène inévitablement à une multitude d’immeubles d’habitation dans un seul bâtiment comportant de nombreuses habitations.
+10. Deuxièmement, l’interprétation que le juge a donnée à l’expression « immeuble d’habitation » n’est pas étayée par la définition donnée à ces mots dans la loi. De fait, l’expression « immeuble d’habitation » est définie au paragraphe 123(1) de la Loi comme étant « that part of a building in which one or more residential units are located » (« [l]a partie constitutive d’un bâtiment qui comporte au moins une habitation ») (je souligne). La définition figurant dans la version anglaise ne parle pas d’« une » partie du bâtiment, mais plutôt de « cette » (« that ») partie du bâtiment qui comporte au moins une habitation. Cela veut dire que si un bâtiment comporte une habitation, l’immeuble d’habitation pertinent est cette partie du bâtiment dans laquelle l’habitation est située. Lorsque le bâtiment comporte deux habitations, l’« immeuble d’habitation » est cette partie du bâtiment dans laquelle les deux habitations sont situées.
+11. À mon avis, la définition figurant dans la version française, « immeuble d’habitation », étaye cette interprétation. L’expression « immeuble d’habitation » est définie à l’alinéa 123(1)a) de la Loi comme étant « [l]a partie constitutive d’un bâtiment qui comporte au moins une habitation ». Ici encore, la version française utilise l’article défini. En outre, l’emploi du mot « constitutive » indique l’intention du législateur. Le mot « constitutive » a été défini comme suit : « Qui constitue l’essentiel de » et « Qui constitue la base, le fondement d’une chose » : voir Le Petit Robert, Dictionnaire de la langue française; Trésor de la langue française : Dictionnaire de la langue du XIXe et du XXe siècles (1789-1960), Paris, Éditions du Centre national de la recherche scientifique, 1978. L’emploi de ce mot avec l’article défini montre que l’« immeuble d’habitation » doit se rapporter à la partie centrale d’un bâtiment destiné ou affecté à des fins d’habitation. Si le législateur avait voulu diviser un bâtiment en de nombreuses parties constitutives ou en un certain nombre de parties constitutives, il aurait employé les mots « une partie » ou « une partie constitutive », mais non « la partie constitutive ».
+12. Troisièmement, l’interprétation que le juge a donnée à l’expression « immeuble d’habitation » va à l’encontre de l’objectif général de la Loi ainsi que du but du remboursement de la TPS pour habitations neuves. La Loi sur la taxe d’accise est une loi de nature fiscale qui vise à produire des recettes publiques. Le remboursement de la TPS pour habitations neuves est une exception restreinte. L’exception prévue au paragraphe 256(2) de la Loi vise à servir d’incitatif, aux fins de la construction et de la rénovation, aux propriétaires de petits logements, c’est-à-dire de logements qui comportent une seule habitation (paragraphe 123(1)) ou deux habitations au plus (paragraphe 256(1)). Le fait que l’on a établi un plafond de 450 000 $ à l’égard de la juste valeur marchande totale de l’« immeuble d’habitation » et le fait que le propriétaire ou un proche parent doivent être les premiers occupants de la nouvelle habitation ou de l’habitation rénovée montrent également que cette disposition est destinée à s’appliquer aux propriétaires de bâtiments relativement petits (paragraphe 256(2)). Interpréter les mots « immeuble d’habitation » figurant dans l’expression « immeuble d’habitation à logement unique » comme le juge l’a fait, de façon à inclure un seul appartement situé dans un ensemble beaucoup plus gros formé d’habitations, irait à l’encontre de ce régime minutieusement conçu. Autrement, les travaux exécutés dans un appartement valant moins de 450 000 $ donneraient droit au remboursement, même si le bâtiment dans son ensemble valait des millions de dollars et comportait des douzaines d’appartements ou d’habitations. Cela va à l’encontre de la définition élargie de l’expression « immeuble d’habitation à logement unique » figurant au paragraphe 256(1) qui, tout en reconnaissant l’avantage d’un remboursement de la taxe dans le cas d’un immeuble d’habitation à logements multiples, limite toutefois cet avantage à un immeuble qui comporte deux habitations au plus.
+[20] À la lumière des dispositions prévues par la L.T.A. et des diverses décisions sur le sujet, il ressort deux éléments fort importants, à savoir qu’il s’agit là d’une situation d’exception d’une part et, d’autre part, que le législateur a prévu non seulement des paramètres fort précis quant aux immeubles éligibles, mais aussi quant au coût d’un projet éligible, soit 450 000 $.
+[21] Or, les définitions d’« ajout » ou de « rénovations majeures » doivent également s’apprécier dans le contexte qu’il ne peut y avoir de remboursement qui pourrait avoir pour effet d’obtenir indirectement ce que la L.T.A. n’autoriserait pas d’une manière directe. Ainsi, pour contourner le plafond de 450 000 $, une personne pourrait procéder par étape ou par phase, le tout ayant pour effet de dépasser le plafond prévu par la L.T.A.
+[22] Il est également prévu que le remboursement s’applique à un bâtiment neuf; encore là, des rénovations ou un ajout pourrait être une façon d’obtenir indirectement ce que la L.T.A. n’autorise pas.
+[23] En l’espèce, toute la surface relative au garage doit être occultée de l’analyse; quant à l’espace habitable au-dessus du garage, il s’agit là d’un projet qui ne satisfait pas aux exigences de la L.T.A.
+[24] Pour ces raisons, l’appel doit être rejeté.
+Signé à Ottawa, Canada, ce 16e jour de mars 2009.
+« Alain Tardif »
+Juge Tardif
+RÉFÉRENCE : 2009 CCI 17
+Nº DU DOSSIER DE LA COUR : 2008-1135(GST)I
+INTITULÉ DE LA CAUSE : YVES LEMIEUX ET SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATE DE L’AUDIENCE : le 19 août 2008
+MOTIFS DU JUGEMENT PAR : L'honorable juge Alain Tardif
+DATE DU JUGEMENT : le 16 mars 2009
+COMPARUTIONS :
+Pour l'appelant :
+L'appelant lui-même
+Avocate de l'intimée :
+Me Maryse Nadeau-Poissant
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelant :
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] ARC Bulletin d’information, B-092 « Rénovations majeures et remboursements de la TPS/TVH pour habitations neuves » (6 janvier 2005, corrigé le 31 janvier 2007).

@@ -1,0 +1,233 @@
+---
+title: "Williams v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26380/index.do"
+last_modified: "2005-08-19"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 CCI 558"
+citation2: ""
+neutral_citation: "2005 CCI 558"
+decision_date: "2005-08-19"
+language: "fr"
+item_id: "26380"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3392
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T22:38:15.632000+00:00"
+cases_cited_count: 0
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "8fb149eb3d51883f333135883865397adae654329df74a31aae9a6d3c6c7052a"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Williams v. The Queen
+
+- Citation: 2005 CCI 558
+- Decision date: 2005-08-19
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3392, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Williams v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-08-19
+Référence neutre
+2005 CCI 558
+Numéro de dossier
+2001-4511(IT)G
+Juges et Officiers taxateurs
+Judith Woods
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2001-4511(IT)G
+ENTRE :
+KENNETH A. WILLIAMS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 24 janvier 2005 à St. Catharines (Ontario).
+Devant : l'honorable juge Judith Woods
+Comparutions :
+Avocat de l'appelant :
+Me Glen W. McCann
+Avocate de l'intimée :
+Me Elizabeth Chasson
+____________________________________________________________________
+JUGEMENT L'appel concernant une cotisation établie en vertu de la Loi de l'impôt sur le revenu pour l'année d'imposition 1991 est accueilli, sans dépens, et la cotisation est renvoyée au ministre du Revenu national pour qu'il la réexamine et en établisse une nouvelle vu que le transfert d'actions du capital-actions de la société Golders Green Holdings Limited à la fiducie appelée The Williams Investment Trust n'a pas donné lieu à la réalisation d'un gain en capital.
+Signé à Toronto (Ontario), ce 19e jour d'août 2005.
+« J. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 6e jour de juin 2006.
+Mario Lagacé, jurilinguiste
+Référence : 2005CCI558
+Date : 20050819
+Dossier : 2001-4511(IT)G
+ENTRE :
+KENNETH A. WILLIAMS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Woods
+[1] Cet appel interjeté en vertu de la Loi de l'impôt sur le revenu, L.R.C. 1985, ch. 1 (5e suppl.) porte sur la question de savoir si un gain en capital imposable a été réalisé par Kenneth Williams lorsqu'il a transféré des biens à une fiducie dont il était un bénéficiaire. La cotisation vise l'année d'imposition 1991.
+[2] La question est de savoir si le transfert de biens à la fiducie a donné lieu à un changement de propriété légale (legal ownership) sans qu'il y ait changement de propriété effective (beneficial ownership). S'il n'y a pas eu changement de propriété effective, un gain en capital n'a pas été réalisé en raison d'une exclusion que prévoit la définition de « disposition de biens » que renferme la Loi. Le contribuable soutient qu'il a conservé la propriété effective des biens de la fiducie vu qu'il était le seul bénéficiaire de la fiducie.
+[3] Dans l'année d'imposition en question, la disposition pertinente se trouvait au sous-alinéa (v) de la définition de « disposition de biens » que renfermait l'alinéa 54c) de la Loi. La disposition était libellée comme suit :
+« disposition de biens » comprend, sauf dispositions contraires expresses,
+[...]
+(iii) tout transfert de biens à une fiducie ou tout transfert des biens d'une fiducie, à tout bénéficiaire de cette fiducie, sous réserve des dispositions du sous-alinéa (v);
+mais, pour plus de précision, ne comprend pas :
+[...]
+(v) tout transfert de biens, à la suite duquel il y a un changement dans le legal ownership du bien sans changement dans le beneficial ownership de ce bien, autre qu'un transfert par une fiducie résidant au Canada à une fiducie ne résidant pas au Canada et un transfert à une fiducie régie par
+(A) un régime enregistré d'épargne-retraite,
+(B) un régime de participation différée aux bénéfices,
+(C) un régime de participation des employés aux bénéfices, ou
+(D) un fonds enregistré de revenu de retraite,
+par une personne qui est, immédiatement après le transfert, un bénéficiaire en vertu du régime ou du fonds, ou un transfert effectué par une telle fiducie régie par un régime ou un fonds à un bénéficiaire en vertu de ce régime ou de ce fonds,
+(C'est moi qui souligne.)
+[4] Les faits ne sont pas contestés. Le 16 avril 1991, M. Williams a créé une fiducie nommée The Williams Investment Trust ( « la fiducie Williams » ) en transférant à des fiduciaires plusieurs biens, y compris les actions visées par le présent appel, soit 62 500 actions de catégorie A du capital-actions de la société Golders Green Holdings Limited ( « la Golders Green » ).
+[5] Les actions de la Golders Green avaient une juste valeur marchande totale de 2 500 000 $ au moment du transfert et un prix de base rajusté de 62,50 $. Dans un avis de nouvelle cotisation daté du 11 août 1995, le ministre du Revenu national informait le contribuable qu'il avait établi une nouvelle cotisation pour tenir compte d'un gain en capital de 2 499 937,50 $ auquel le transfert des actions avait donné lieu, et c'est contre cette nouvelle cotisation que l'appel est interjeté. Le contribuable avait transféré plusieurs autres biens à la fiducie, mais comme aucun des autres biens n'avait de gain accumulé au moment en question, l'appel ne touche que les actions de la Golders Green. Le contribuable avait également interjeté appel sur une question n'ayant rien à voir avec celle-ci, mais il a retiré cette question avant le début de l'audience.
+Analyse
+[6] Deux questions sont visées par cet appel, la seconde n'étant pertinente que si la réponse à la première est « oui » .
+1. M. Williams est-il le seul bénéficiaire de la fiducie?
+2. L'unique bénéficiaire d'une fiducie détient-il nécessairement la propriété effective des biens de la fiducie?
+Question 1 : M. Williams est-il le seul bénéficiaire de la fiducie?
+[7] Les parties sont essentiellement en désaccord sur l'interprétation de la convention de fiducie. Le contribuable affirme que, selon la convention, il est le seul bénéficiaire de la fiducie, alors que la Couronne semble penser qu'il s'agit d'un mécanisme de fractionnement du revenu où des enfants et petits-enfants pourraient être des bénéficiaires supplémentaires. Si la Couronne a raison, il y a manifestement eu changement de propriété effective et un gain en capital doit avoir été réalisé.
+[8] Selon l'avis d'appel, la fiducie serait une fiducie protectrice, ce qui veut dire que les biens de la fiducie sont placés hors de la portée de l'auteur de la fiducie, que l'auteur est l'unique bénéficiaire de la fiducie, et qu'il est interdit aux fiduciaires d'exercer leur pouvoir discrétionnaire au profit de qui que ce soit d'autre. Bien que la fiducie soit décrite comme une fiducie protectrice, aucune preuve ne m'a été présentée pour m'indiquer l'objet visé par la création de la fiducie.
+[9] Les modalités essentielles de la convention de fiducie concordent avec la description ci-dessus. Selon ces modalités, les fiduciaires, Ken Williams Jr., Mark Williams et Beatrice Smart, ont accepté de gérer plusieurs biens qui leur ont été transférés par le contribuable et ils ont de vastes pouvoirs de gestion, dont le pouvoir de vente. Ils ont le pouvoir de verser à leur gré le revenu et le capital du fonds de la fiducie au contribuable à tout moment, et les biens de la fiducie doivent être attribués au contribuable au plus tard lors du 21e anniversaire de la fiducie.
+[10] Bien que ces modalités essentielles semblent indiquer que les biens de la fiducie sont détenus exclusivement au profit du contribuable, la convention de fiducie renferme un certain nombre de dispositions accessoires selon lesquelles il en serait autrement. L'avocate de la Couronne affirme que, si l'on prend la convention de fiducie dans son ensemble, la fiducie est un mécanisme de fractionnement du revenu en vertu duquel les enfants et petits-enfants de l'auteur de la fiducie peuvent recevoir des biens par attribution. Voici quelques-unes des dispositions que la Couronne invoque : l'emploi dans la convention des mots [TRADUCTION] « bénéficiaire » et [TRADUCTION] « bénéficiaires » , une disposition permettant les choix de bénéficiaires privilégiés, une disposition de [TRADUCTION] « non-dévolution » , une disposition de [TRADUCTION] « non-réversion » et une disposition permettant que des modifications soient apportées à la convention de fiducie.
+[11] L'avocat du contribuable affirme que les dispositions ci-dessus doivent avoir été incluses par erreur dans la convention par quelqu'un qui a utilisé une autre convention de fiducie comme modèle. De plus, il affirme que la convention dans son ensemble n'étaye pas la position de la Couronne, car elle exige clairement que les fiduciaires attribuent les biens de la fiducie au contribuable.
+[12] Je tiens à faire remarquer d'entrée de jeu que personne n'a témoigné à l'audience et qu'il n'y a pas eu d'exposé conjoint des faits. Par conséquent, aucune preuve n'a été présentée concernant l'objet de la fiducie ni aucune explication des irrégularités relevées dans la convention. Pour cette raison, j'ai des doutes concernant la convention de fiducie. Il est difficile d'interpréter un document sans en connaître l'objet, et la tâche est d'autant plus difficile que le document renferme des irrégularités.
+[13] Malgré ces doutes, je n'ai pas pu conclure que la convention de fiducie fait autre chose qu'exiger que les biens de la fiducie soient détenus pour le contribuable et seulement pour le contribuable. Je présente ci-dessous une brève analyse concernant les articles de la convention de fiducie invoqués par la Couronne.
+(1) Dispositions relatives à l'attribution des biens
+[14] Il convient manifestement de commencer l'analyse en se penchant sur la question de savoir si la convention permet aux fiduciaires d'attribuer des biens à des personnes autres que le contribuable. La seule disposition à laquelle l'avocate de la Couronne a pu me renvoyer est une disposition selon laquelle des biens peuvent être attribués à des bénéficiaires privilégiés pour compenser l'impôt supplémentaire à payer par suite des choix qu'ils peuvent avoir exercés à titre de bénéficiaires privilégiés. Bien que cette disposition semble prévoir l'attribution de biens à d'autres bénéficiaires, je ne crois pas qu'elle ait cet effet.
+[15] L'exercice du choix de bénéficiaires privilégiés, qui est courant pour les fiducies à fractionnement du revenu, permet l'attribution du revenu d'une fiducie aux bénéficiaires et son imposition dans les mains de ceux-ci même si le revenu ne leur est pas effectivement remis. Dans les cas où la fiducie prévoit l'exercice du choix de bénéficiaires privilégiés, en général, les fiduciaires vont pouvoir faire des attributions aux bénéficiaires privilégiés pour les rembourser de l'obligation fiscale qui résulte de l'exercice de ce choix. La fiducie Williams renferme de telles dispositions.
+[16] Ayant examiné la partie de la convention qui porte sur les bénéficiaires privilégiés, j'ai conclu qu'elle n'ajoute pas à la convention des membres de la famille comme bénéficiaires.
+[17] L'article 12 de la convention de fiducie stipule que le terme [TRADUCTION] « bénéficiaires privilégiés » a le sens que lui donne la Loi. La disposition pertinente de la Loi est l'alinéa 108(1)g), qui, à ce moment-là, était libellé comme suit :
+« bénéficiaire privilégié » d'une fiducie signifie un particulier résidant au Canada, qui est un bénéficiaire de la fiducie et qui est
+(i) l'auteur de la fiducie,
+(ii) le conjoint ou l'ancien conjoint de l'auteur de la fiducie, ou
+(iii) un enfant, petit-enfant ou arrière-petit-enfant de l'auteur de la fiducie, ou le conjoint de l'une de ces personnes;
+(C'est moi qui souligne.)
+[18] D'après le passage souligné ci-dessus, il est clair que personne ne peut être un bénéficiaire privilégié au sens de la Loi à moins d'être un bénéficiaire aux termes de la convention de fiducie. À moins que l'article même concernant les bénéficiaires privilégiés n'ajoute des bénéficiaires, la seule personne qui puisse recevoir des biens attribués aux termes de la convention de fiducie est M. Williams. La rédaction des dispositions de la convention de fiducie qui concernent les bénéficiaires privilégiés laisse beaucoup à désirer, car la définition de « bénéficiaires privilégiés » semble être tautologique. Je suis arrivée à la conclusion, cependant, que la seule interprétation raisonnable est que la définition de « bénéficiaires privilégiés » que renferme la convention n'ajoute pas de bénéficiaires. Par conséquent, je juge que le contribuable est la seule personne qui a le droit de recevoir des biens attribués aux termes de la convention de fiducie.
+(2) Disposition de non-réversion
+[19] La Couronne se réfère également à une disposition qui semble indiquer que les biens détenus par la fiducie ne peuvent pas être attribués au contribuable. La disposition en question se trouve à la fin d'un article (l'article 9) portant sur les pouvoirs supplémentaires des fiduciaires. Cette disposition est libellée comme suit :
+[TRADUCTION]
+[...]
+POUR AUTANT QU'aucune des dispositions précédentes de cet article 9 ne soit interprétée de manière à permettre que des biens ou des biens y substitués reçus par les fiduciaires directement ou indirectement d'une personne quelconque reviennent à cette personne au sens de la Loi de l'impôt sur le revenu (Canada) et de ses modifications.
+[20] Ce genre de disposition restrictive est courant dans certains genres de conventions de fiducie et a pour but d'éviter la réattribution de revenus et de gains en capital à l'auteur de la fiducie en application du paragraphe 75(2) de la Loi. Cela ne sert à rien d'inclure une telle disposition dans une convention de fiducie si l'auteur et le bénéficiaire de la fiducie sont une seule et même personne. L'avocat du contribuable soutient que, dans le contexte de cette fiducie, cette disposition est [TRADUCTION] « absurde » et sans effet.
+[21] Je n'ai pas à décider si cette disposition restrictive est sans effet. Je dois plutôt déterminer si elle a pour effet d'empêcher que les actions de la Golders Green, ou des biens qui leur sont substitués, soient attribuées au contribuable. Je suis arrivée à la conclusion qu'elle n'a pas cet effet-là.
+[22] La disposition restrictive se trouve à la fin d'un article qui accorde toute une gamme de pouvoirs supplémentaires aux fiduciaires dans les domaines suivants : investissements, assurance-vie et emprunts. De par ses termes formels, la disposition relative aux pouvoirs supplémentaires ne déroge pas aux autres pouvoirs et autorisations que détiennent les fiduciaires, soit au moyen d'autres dispositions de la convention, soit en droit. Ces pouvoirs comprennent le droit d'attribuer les revenus et le capital de la fiducie à n'importe quel moment et l'obligation imposée aux fiduciaires d'attribuer les biens de la fiducie au plus tard lors du 21e anniversaire de la fiducie. La disposition restrictive restreint les pouvoirs supplémentaires des fiduciaires et n'a pas, selon moi, pour effet de retirer aux fiduciaires le pouvoir général d'attribuer au contribuable les biens détenus par la fiducie.
+(3) Article prévoyant des modifications
+[23] L'avocate de la Couronne se réfère également à un article prévoyant des modifications qui permet aux fiduciaires de modifier certains articles de la convention de fiducie avec le consentement du contribuable pendant qu'il vit et qu'il a la capacité de tester. En gros, les articles qui peuvent être modifiés sont ceux qui renferment des modalités accessoires, moins essentielles.
+[24] La Couronne affirme qu'une lecture attentive de l'article prévoyant des modifications mène à la conclusion qu'il est possible d'apporter une modification à la convention qui permettrait que les biens de la fiducie soient attribués à des personnes autres que le contribuable[1]. Je serais d'accord pour dire que l'article prévoyant des modifications laisse entrevoir cette possibilité[2], mais je ferais remarquer que cela ne peut se faire sans le consentement du contribuable. Tant que des mesures ne sont pas prises pour changer le bénéficiaire avec le consentement du contribuable, la seule possibilité qui existe est que le contribuable se départisse de sa participation dans les biens de la fiducie. Jusqu'à ce que de telles mesures soient prises, je dirais que cet article n'entraîne pas de changement de propriété effective.
+(4) Article de non-dévolution
+[25] La Couronne se réfère aussi à une disposition de non-dévolution selon laquelle ni les revenus ni le capital de la fiducie ne sont conférés au bénéficiaire avant la date de partage des biens. Normalement, cette disposition n'est incluse dans une convention de fiducie que si la participation d'un bénéficiaire est assujettie à une éventualité.
+[26] L'avocat du contribuable est d'avis que la disposition de non-dévolution a été incluse dans la convention par erreur. Quoi qu'il en soit, cet article n'a pas pour effet de permettre l'attribution de biens de la fiducie à quelqu'un d'autre que le contribuable. Par conséquent, cet article n'étaye pas la position de la Couronne.
+(5) Documents accessoires
+[27] L'avocate de la Couronne se réfère également à des documents de transfert concernant d'autres biens transférés à la fiducie. Dans certains de ces documents (à part le document concernant le transfert des actions de la Golders Green), le contribuable a convenu de transférer la totalité de son intérêt bénéficiaire sur les biens.
+[28] À mon avis, les documents de transfert ne sont d'aucune utilité pour la Couronne. D'abord, les droits du contribuable à l'égard des biens détenus pour la fiducie constituée sont définis par la convention de fiducie. Les documents de transfert n'élargissent ni ne limitent ces droits. Soit que la convention de fiducie donne lieu à un changement de propriété effective, soit qu'elle ne donne pas lieu à un tel changement, et l'intention du contribuable telle qu'elle est exprimée dans les documents de transfert ne peut changer le résultat sur le plan juridique.
+[29] En outre, l'expression « propriété effective » peut avoir différents sens selon le contexte dans lequel elle est utilisée. (Voir commentaires ci-après.) Par conséquent, en ce qui concerne cet appel, il n'y a pas nécessairement incohérence avec la position du contribuable, qui soutient qu'il a transféré son [TRADUCTION] « intérêt bénéficiaire » , telle que cette expression est utilisée dans les documents de transfert.
+[30] Pour ces raisons, j'en conclus que les actions de la Golders Green sont détenues au profit du contribuable seulement. La question qu'il reste à trancher est celle de savoir si la création de la fiducie résulte néanmoins en un changement de « propriété effective » pour l'application du sous-alinéa (v) de la définition de « disposition de biens » .
+Question 2 : L'unique bénéficiaire d'une fiducie détient-il nécessairement la propriété effective des biens de la fiducie?
+[31] La question suivante concerne le sens de l'expression « propriété effective » . M. Williams a-t-il conservé la propriété effective des biens de la fiducie quand il a confié la gestion et le contrôle des actions de la Golders Green aux fiduciaires? La Couronne affirme qu'il y a eu changement de propriété effective parce M. Williams n'a pas retenu les attributs habituels de propriété, comme la possession, l'usage et le risque.
+[32] L'expression « propriété effective » n'est pas définie dans la Loi, et, bien que le sens de l'expression ait fait couler beaucoup d'encre, il y a curieusement très peu de décisions judiciaires qui soient utiles. Selon des principes bien connus, il faudrait accorder à l'expression « propriété effective » son sens ordinaire correspondant à l'esprit de la Loi (Bell Express Vu Limited Partnership c. Rex, [2002] 2 R.C.S. 559).
+[33] Premièrement, je dois faire remarquer que c'est le sens de l'expression « propriété effective » qui est en cause et non simplement le sens du mot « propriété » . La position de la Couronne n'étend pas vraiment le sens de l'expression « propriété effective » au-delà de la façon dont les tribunaux ont interprété le mot « propriété » pour les besoins de l'impôt, et bon nombre des arguments de la Couronne concernent le sens du mot « propriété » . Ces arguments ne sont pas très utiles, car c'est un autre terme légal qui est en cause.
+[34] C'est pour cette raison que je trouve inutile d'examiner les principes généraux touchant les fiducies qui portent sur la nature de la participation d'un bénéficiaire dans les biens d'une fiducie. Selon le grand spécialiste des fiducies, Donovan Waters, il existe depuis toujours un débat parmi les théoriciens sur la question de savoir si on peut dire qu'un bénéficiaire peut avoir une participation financière dans les biens d'une fiducie[3]. Selon une théorie, le seul droit qu'a un bénéficiaire est d'exiger que les fiduciaires exercent leurs obligations fiduciaires. Ce droit dit in personam (droit personnel), on pourrait dire, n'accorde pas à un bénéficiaire une participation financière dans les biens d'une fiducie. À mon avis, que cette théorie soit exacte ou non n'a rien à voir avec la question que j'ai à trancher. C'est la « propriété effective » qui est en cause et non la « propriété » .
+[35] Pour la même raison, je trouve peu utiles les renvois de la Couronne aux causes concernant l'impôt qui portent sur le sens des mots [TRADUCTION] « disposition de biens » [4] et [TRADUCTION] « acquisition » [5].
+[36] Pour les motifs énoncés ci-après, j'ai conclu que l'interprétation de l'expression « propriété effective » avancée par la Couronne est indûment étroite dans le contexte du sous-alinéa (v). Bien que l'expression « propriété effective » soit souvent utilisée au sens de pleine propriété, à l'exception du simple titre en common law, il peut avoir d'autres significations, et je ne vois aucune raison de l'interpréter étroitement dans ce contexte juridique.
+[37] Si on se penche d'abord sur le sens ordinaire du terme, il est logique de considérer qu'un bien a toujours un ou plusieurs propriétaires effectifs. Comme l'a écrit Robert Couzin récemment dans un article bien réfléchi sur le contrôle de l'entreprise : [TRADUCTION] « Les bénéficiaires d'une fiducie sont, après tout, les "propriétaires de fait" typiques[6]. » Dans la fiducie Williams, les biens de la fiducie sont conservés au profit de M. Williams seulement. Personne d'autre ne profitera des biens, et les fiduciaires sont tenus de gérer les biens dans son intérêt à lui. La seule personne pouvant donc détenir la propriété effective des biens est M. Williams.
+[38] Le sens ordinaire de l'expression « beneficial ownership » (propriété effective), telle qu'elle est définie dans la plus récente édition du Black's Law Dictionary[7]est extrêmement large et tend à confirmer le sens que veut lui donner le contribuable. En voici les extraits pertinents :
+[TRADUCTION]
+Propriétaire effectif. 1. Une personne reconnue en equity comme le propriétaire de quelque chose parce que la jouissance et le titre appartiennent à cette personne, même si le titre en common law appartient à quelqu'un d'autre; SPÉCIALT une personne pour laquelle des biens sont détenus en fiducie. [...]
+Propriété effective. 1. La participation d'un bénéficiaire dans les biens d'une fiducie. [...]
+[39] L'adjectif « effectif(ve) » est utilisé dans divers contextes et ne semble pas avoir de sens juridique précis. Le commentaire suivant a été exprimé par le président de la Cour d'appel, M. Jessel, il y a plus de 100 ans : [TRADUCTION] « À mon sens, l'emploi du mot « effectif(ve) » dans notre langage est extrêmement inexact[8]. »
+[40] Pour ces raisons, je suis d'avis que le sens ordinaire de l'expression comprend le sens avancé par le contribuable.
+[41] Deuxièmement, sur le plan contextuel, l'avocate de la Couronne n'a pas donné à entendre que l'interprétation de la Couronne était nécessaire selon l'esprit de la Loi[9]. Dans ces circonstances, j'hésite à donner au langage de la loi une interprétation étroite.
+[42] Troisièmement, il existait pendant l'année d'imposition en question une disposition déterminative concernant les opérations réalisées au Québec qui ferait que la position du contribuable s'appliquerait dans cette province. À l'époque en question, selon l'alinéa 248(3)f), un bénéficiaire était réputé posséder la propriété effective des biens de la fiducie. Cette disposition était libellée comme suit[10] :
+La présente loi s'applique dans la province de Québec en conformité avec les règles suivantes :
+[...]
+f) les biens sur lesquels une personne a, à un moment donné, un droit de propriété, un droit de preneur dans un bail emphytéotique ou un droit de bénéficiaire dans une fiducie sont réputés, même s'ils sont grevés d'une servitude, être la propriété effective de la personne à ce moment.
+(C'est moi qui souligne.)
+[43] Le paragraphe 248(3) a pour but d'harmoniser le traitement des opérations dans tout le pays. Par conséquent, il serait difficile de conclure que le législateur avait en tête à l'époque en question l'interprétation étroite proposée par la Couronne.
+[44] Quatrièmement, la position de la Couronne entraîne un résultat bien plus sévère que la position administrative de l'Agence du revenu du Canada[11]. La position administrative a été élaborée dans le contexte des fiducies protectrices et elle permet aux contribuables de profiter du sous-alinéa (v) pourvu qu'ils satisfassent à certaines conditions, y compris la condition que le cédant soit assujetti à la règle concernant les attributions qui est énoncée au paragraphe 75(2). Compte tenu de la position administrative de l'Agence, j'hésiterais à statuer que la loi devrait bénéficier d'une interprétation plus restreinte à moins que la loi même ne l'exige. Ce n'est pas le cas ici.
+[45] La Couronne, dans son argumentation, s'appuie fortement sur un article de la professeur Catherine Brown, intitulé « Symposium : Propriété effective et Loi de l'impôt sur le revenu » [12]. L'avocate de la Couronne semble croire que plusieurs parties de l'article de la professeur Brown justifient la position selon laquelle « propriété effective » veut dire, pour l'essentiel, que tous les attributs de la propriété sont réunis, sauf le titre en common law[13].
+[46] J'ai étudié l'article de la professeur Brown, surtout les passages auxquels il a été fait allusion, et je ne puis conclure qu'il va dans le sens de la position de la Couronne. Je fais remarquer le passage suivant, tiré de la conclusion de l'article, qui semble indiquer que la question est moins claire que ne le pense la Couronne[14].
+L'expression « propriété effective » (beneficial ownership) a été inventée pour servir de dénomination courante du droit d'un bénéficiaire en equity à la jouissance bénéficiaire d'un bien en fiducie. Cette expression est souvent utilisée dans les lois et, que la chose soit attribuable à une définition ou à l'usage, son sens est fort éloigné de celui qu'il devait avoir à l'origine. Ce fait est particulièrement manifeste dans la LIR. De ce fait, il n'est pas facile d'établir le sens des expressions « beneficial ownership » , « beneficial owner » et « beneficially owned » qui véhiculent le concept de propriété effective dans le contexte de la LIR. Ces expressions peuvent avoir des significations multiples ou variables d'une disposition à l'autre. Les concepts en question prennent également de l'importance lorsqu'ils demeurent implicites et que la conséquence fiscale dépend de l'identité du propriétaire.
+[47] Si l'on prend l'article de la professeur Brown dans son ensemble, je dois conclure qu'il ne va pas dans le sens de l'interprétation étroite de « propriété effective » que propose la Couronne.
+[48] Enfin, compte tenu de la conclusion à laquelle je suis arrivée, il n'est pas nécessaire que je considère l'argument principal du contribuable, lequel repose sur la décision de la Cour suprême du Canada dans l'arrêt M.R.N. c. Trans-Canada Investment Corp. Ltd., [1956] R.C.S. 49. Le contribuable soutient que la conclusion de la Cour relative à la propriété effective dans cet arrêt s'applique à la fiducie Williams.
+[49] L'arrêt Trans-Canada Investment Corp. a été décrit comme une décision judiciaire qui fixe la barre très haut pour ce qui est des cas où un bénéficiaire a la « propriété » des biens d'une fiducie, car les fiduciaires dans ce cas avaient reçu des pouvoirs considérables pour gérer les biens de la fiducie[15]. La cause concernait le caractère des dividendes transférés aux détenteurs d'unités d'une fiducie dans le contexte d'un appel en matière d'impôt. Le contribuable, un détenteur d'unités de la fiducie, demandait une déduction relativement à des dividendes reçus par la fiducie. La Cour suprême du Canada, dans une décision partagée à trois voix contre deux, a conclu que la déduction pour les dividendes reçus était permise parce que, selon les modalités de la fiducie, les dividendes, de par leur caractère, revenaient aux détenteurs d'unités.
+[50] Le sens de l'expression « propriété effective » n'était pas en cause dans cette affaire, mais cela ne veut pas dire que la décision n'est pas pertinente. La décision aurait été utile à M. Williams si les modalités de la fiducie Williams avaient été comparables à celle de la fiducie d'investissement Trans-Canada Investment Corp. Si les fiducies avaient été analogues, on aurait pu dire non seulement que M. Williams avait la propriété effective, mais aussi qu'il avait la propriété tout court.
+[51] Les modalités des fiducies diffèrent considérablement, cependant. La principale différence est signalée dans le passage suivant d'une décision du juge Cameron d'un tribunal inférieur ([1953] C. de l'É. 292) :
+[TRADUCTION]
+[13] D'après ces faits, et surtout parce qu'il pouvait à tout moment exiger que le fiduciaire lui remette la part des actions des « compagnies constituantes » qui lui revenait, il me semble que le détenteur du certificat de la série « B » était, effectivement, le propriétaire effectif des actions de base que représentait ce certificat.
+(C'est moi qui souligne.)
+[52] Le fait que les détenteurs d'unités de la Trans-Canada Investment Corp. pouvaient à tout moment exiger que les biens de la fiducie leur soient attribués était un élément déterminant de la décision. Par conséquent, la décision ne s'applique pas ici à moins que M. Williams ait le droit d'exiger l'attribution des biens de la fiducie à tout moment. Selon les modalités de la fiducie, M. Williams n'a aucun contrôle sur l'attribution des biens de la fiducie avant l'échéance de la fiducie, soit le 21e anniversaire de la fiducie. Ainsi, l'arrêt Trans-Canada Investment Corp. ne s'applique pas ici à moins que M. Williams ait le droit d'exiger l'attribution des biens de la fiducie à tout moment en vertu de la [TRADUCTION] « règle établie dans l'arrêt Saunders c. Vautier » . Il n'est pas nécessaire que je me penche sur la question de l'applicabilité de l'arrêt Saunders c. Vautier vu la conclusion à laquelle je suis arrivée.
+Conclusion
+[53] Pour les motifs énoncés ci-dessus, l'appel est accueilli et la cotisation est renvoyée au ministre du Revenu national pour qu'il la réexamine et en établisse une nouvelle étant donné que les actions de la Golders Green n'ont pas fait l'objet d'une disposition au moment où elles ont été transférées à la fiducie Williams.
+[54] Pour ce qui est des dépens, le succès remporté est partagé étant donné qu'une autre question a été retirée par le contribuable au début de l'audience. Par conséquent, il n'y aura pas d'ordonnance relative aux dépens.
+Signé à Toronto (Ontario), ce 19e jour d'août 2005.
+« J. Woods »
+Juge Woods
+RÉFÉRENCE : 2005CCI558
+No DE DOSSIER DE LA COUR : 2001-4511(IT)G
+INTITULÉ DE LA CAUSE : Kenneth A. Williams et Sa Majesté la Reine
+LIEU DE L'AUDIENCE : St. Catharines (Ontario)
+DATE DE L'AUDIENCE : Le 24 janvier 2005
+MOTIFS DU JUGEMENT PAR : L'honorable juge Judith Woods
+DATE DU JUGEMENT : Le 19 août 2005
+COMPARUTIONS :
+Avocat de l'appelant :
+Me Glen W. McCann
+Avocate de l'intimée :
+Me Elizabeth Chasson
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelant :
+Nom : Me Glen W. McCann
+Étude : Sullivan Mahoney s.r.l.
+Pour l'intimée : Me John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Pour qu'une attribution puisse être effectuée à quelqu'un d'autre, il faudrait que l'article 8 soit modifié de façon à permettre le transfert des biens de la fiducie à une nouvelle fiducie.
+[2] L'avocat du contribuable m'a invitée à comparer la fiducie Williams à une fiducie créée antérieurement par M. Williams, soit la fiducie appelée The Williams Family Trust, et il m'a donné à entendre qu'on pouvait déduire que certains articles avaient été tirés inopportunément de la convention de fiducie antérieure. J'ai remarqué que les deux conventions renferment un article prévoyant des modifications, mais la fiducie familiale ne permet pas qu'une modification soit apportée à l'article permettant le transfert des biens à une nouvelle fiducie. Je ne suis pas disposée à faire de telles déductions après comparaison des deux fiducies sans preuve à l'appui.
+[3] Donovan Waters, The Nature of the Trust Beneficiary's Interest, 1967, Revue du Barreau canadien, p. 219.
+[4] Par exemple, Victory Hotels Ltd. v. M.N.R., 62 D.T.C. 1378 (C. de l'É.).
+[5] Par exemple, M.N.R. v. Wardean Drilling Ltd., 69 D.T.C. 5194 (C. de l'É.).
+[6] Robert Couzin, Some Reflections on Corporate Control (2005) vol. 53, no 2, Revue fiscale canadienne, 305, à la p. 325.
+[7] La huitième édition.
+[8]Jackson's Will (1879) 49 LJCH 82.
+[9] Bien que la Couronne n'ait rien fourni pour justifier sa position fondée sur une démarche contextuelle, l'avocate a laissé entendre que la position du contribuable va à l'encontre de l'esprit de la Loi vu qu'elle permet au contribuable d'éviter à la fois la réalisation d'un gain en capital lors du transfert des biens à une fiducie et l'application de la règle d'attribution prévue au paragraphe 75(2). Il n'est pas nécessaire que je considère cet argument, car je ne crois pas que le contribuable se soit soustrait à la règle du paragraphe 75(2). Voir « Disposition de non-réversion » ci-dessus.
+[10] Je fais remarquer que cette version est entrée en vigueur peu de temps avant le moment en question.
+[11] Impôt sur le revenu - Nouvelles techniques, no 7, daté du 21 février 1996.
+[12] Catherine Brown, Symposium : Propriété effective et Loi de l'impôt sur le revenu (2003) vol. 51, no 1, Revue fiscale canadienne, p. 454.
+[13] La Couronne s'est référée aux pages 409 à 412, 415 et 416, et 436 à 438.
+[14] Ibid., p. 512.
+[15] Note 3 précitée, p. 283.
+Traduction certifiée conforme
+ce 6e jour de juin 2006.
+Mario Lagacé, jurilinguiste

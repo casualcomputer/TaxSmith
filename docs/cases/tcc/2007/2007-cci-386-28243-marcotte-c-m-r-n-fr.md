@@ -1,0 +1,163 @@
+---
+title: "Marcotte c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28243/index.do"
+last_modified: "2007-06-22"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 CCI 386"
+citation2: ""
+neutral_citation: "2007 CCI 386"
+decision_date: "2007-06-22"
+language: "fr"
+item_id: "28243"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2024
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T09:33:01.876000+00:00"
+cases_cited_count: 1
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "055f616b9c312ee8a9759bc9e03fd014e0cad241394b4a2e645816014dd13bc4"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Marcotte c. M.R.N.
+
+- Citation: 2007 CCI 386
+- Decision date: 2007-06-22
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2024, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Marcotte c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-06-22
+Référence neutre
+2007 CCI 386
+Numéro de dossier
+2006-2829(EI)
+Juges et Officiers taxateurs
+Wyman W. Webb
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossiers : 2006-2829(EI) et 2006-2830(CPP)
+ENTRE :
+REED MARCOTTE,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels entendus ensemble sur preuve commune
+le 13 juin 2007 à Kingston (Ontario)
+Devant : L’honorable juge Wyman W. Webb
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimé :
+Me Nicolas Simard
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté par l’appelant à la suite d’une décision selon laquelle l’emploi exercé par Christopher English auprès de l’appelant était un emploi assurable au sens de l’alinéa 5(1)a) de la Loi sur l’assurance-emploi et un emploi ouvrant droit à pension au sens de l’alinéa 6(1)a) du Régime de pensions du Canada est rejeté sans que des dépens soient adjugés.
+Signé à Halifax (Nouvelle-Écosse), le 18e jour de juillet 2007.
+« Wyman W. Webb »
+Juge Webb
+Traduction certifiée conforme
+ce 29e jour d’août 2007
+D. Laberge, LL.L.
+Référence : 2007CCI386
+Date : 20070718
+Dossiers : 2006-2829(EI) et 2006-2830(CPP)
+ENTRE :
+REED MARCOTTE,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Webb
+[1] Il s’agit en l’espèce de savoir si Christopher English était un employé de l’appelant ou s’il était plutôt un entrepreneur indépendant.
+[2] L’appelant, un entrepreneur général, était propriétaire unique de son entreprise; il accomplissait diverses tâches pour des clients. En particulier, il avait en 2005 un contrat concernant l’exécution de travaux d’aménagement de paysage et il avait besoin de faire exécuter les travaux. Il a affiché une offre d’emploi sur le site Web de la banque d’emplois de Développement des ressources humaines Canada (« DRHC ») à l’égard d’un poste de manœuvre pour des travaux d’aménagement de paysage. Christopher English a répondu à cette offre et, à la suite d’une conversation téléphonique qu’il avait eue avec l’appelant, il a commencé à travailler le lendemain matin au lieu de travail. L’appelant a indiqué qu’il avait l’habitude d’embaucher des travailleurs à titre d’entrepreneurs indépendants, mais le témoignage qu’il a présenté au sujet des discussions réelles qu’il avait eues avec Christopher English au moment où ce dernier avait été engagé était plutôt vague.
+[3] La question de savoir si une personne est un employé ou un entrepreneur indépendant a été examinée dans plusieurs décisions. Dans l’arrêt 671122 Ontario Ltd. c. Sagaz Industries Canada Inc., [2001] A.C.S. 61, 2001 C.S.C. 59, le juge Major, de la Cour suprême du Canada, a déclaré ce qui suit :
+46 À mon avis, aucun critère universel ne permet de déterminer, de façon concluante, si une personne est un employé ou un entrepreneur indépendant. Lord Denning a affirmé, dans l’arrêt Stevenson Jordan, précité, qu’il peut être impossible d’établir une définition précise de la distinction (p. 111) et, de la même façon, Fleming signale que [traduction] « devant les nombreuses variables des relations de travail en constante mutation, aucun critère ne semble permettre d’apporter une réponse toujours claire et acceptable » (p. 416). Je partage en outre l’opinion du juge MacGuigan lorsqu’il affirme -- en citant Atiyah, op. cit., p. 38, dans l’arrêt Wiebe Door, p. 563 -- qu’il faut toujours déterminer quelle relation globale les parties entretiennent entre elles :
+[traduction] [N]ous doutons fortement qu’il soit encore utile de chercher à établir un critère unique permettant d’identifier les contrats de louage de services [...] La meilleure chose à faire est d’étudier tous les facteurs qui ont été considérés dans ces causes comme des facteurs influant sur la nature du lien unissant les parties. De toute évidence, ces facteurs ne s’appliquent pas dans tous les cas et n’ont pas toujours la même importance. De la même façon, il n’est pas possible de trouver une formule magique permettant de déterminer quels facteurs devraient être tenus pour déterminants dans une situation donnée.
+47 Bien qu’aucun critère universel ne permette de déterminer si une personne est un employé ou un entrepreneur indépendant, je conviens avec le juge MacGuigan que la démarche suivie par le juge Cooke dans la décision Market Investigations, précitée, est convaincante. La question centrale est de savoir si la personne qui a été engagée pour fournir les services les fournit en tant que personne travaillant à son compte. Pour répondre à cette question, il faut toujours prendre en considération le degré de contrôle que l’employeur exerce sur les activités du travailleur. Cependant, il faut aussi se demander, notamment, si le travailleur fournit son propre outillage, s’il engage lui-même ses assistants, quelle est l’étendue de ses risques financiers, jusqu’à quel point il est responsable des mises de fonds et de la gestion et jusqu’à quel point il peut tirer profit de l’exécution de ses tâches.
+48 Ces facteurs, il est bon de le répéter, ne sont pas exhaustifs et il n’y a pas de manière préétablie de les appliquer. Leur importance relative respective dépend des circonstances et des faits particuliers de l’affaire.
+[4] Dans des arrêts récents, la Cour d’appel fédérale a examiné la question de l’intention des parties. Dans l’arrêt que la Cour d’appel fédérale vient de rendre dans l’affaire Combined Insurance Co. of America c. M.N.R., 2007 CAF 60, le juge Nadon a déclaré ce qui suit :
+[35] De ces décisions, il se dégage, à mon avis, les principes suivants :
+1. Les faits pertinents, incluant l’intention des parties quant à la nature de leur relation contractuelle, doivent être examinés à la lumière des facteurs de Wiebe Door, précitée, et à la lumière de tout autre facteur qui peut s’avérer pertinent compte tenu des circonstances particulières de l’instance.
+2. Il n’existe aucune manière préétablie d’appliquer les facteurs pertinents et leur importance dépendra des circonstances et des faits particuliers de l’affaire.
+Même si en règle générale, le critère de contrôle aura une importance marquée, les critères élaborés dans Wiebe Door et Sagaz, précités, s’avéreront néanmoins utiles pour déterminer la véritable nature du contrat.
+[5] Dans ce cas-ci, il existe un désaccord entre l’appelant et Christopher English au sujet de leur intention ainsi qu’au sujet de la question de savoir si Christopher English a été embauché à titre d’employé ou à titre d’entrepreneur indépendant.
+[6] L’appelant a témoigné qu’il avait l’habitude de faire signer une [traduction] « entente » par tous ceux qui travaillaient pour lui. Une copie de l’« entente » qui a été signée par Christopher English a été produite en preuve. Cette « entente » était datée du 24 août 2005, soit environ deux mois après que Christopher English eut commencé à travailler pour l’appelant. L’« entente » entière est composée d’un seul paragraphe, qui est rédigé comme suit :
+[traduction] En votre qualité de sous-entrepreneur de Reed Marcotte Contracting, vous devez être inscrit auprès de la Commission de la sécurité professionnelle et de l’assurance contre les accidents du travail (la CSPAAT) et souscrire à une assurance individuelle. En signant la présente renonciation, vous acceptez d’assumer toute responsabilité, pour ce qui est de votre santé et de votre sécurité au lieu de travail.
+[7] Je conclus que Christopher English a commencé à travailler pour l’appelant à la fin du mois de juin 2005. À ce moment‑là, il n’a pas été question de la signature de cette « entente » particulière. L’appelant n’a soulevé la question qu’au moment où l’entente a été signée (le 24 août 2005); il avait un jour simplement présenté l’entente au travailleur pour qu’il la signe. Il est mentionné que le signataire est un [traduction] « sous‑entrepreneur », mais à mon avis, si ce document doit indiquer l’intention véritable des deux parties, à savoir que Christopher English serait un entrepreneur indépendant plutôt qu’un employé, ce document aurait dû exprimer la chose d’une façon plus détaillée et il aurait dû donner lieu à des discussions et à des négociations avant que Christopher English commence à travailler pour l’appelant. On ne saurait invoquer la présentation de ce document environ deux mois après que Christopher English eut commencé à travailler afin d’indiquer quelle était l’intention des deux parties au moment où Christopher English a commencé à travailler.
+[8] De plus, à mon avis, les circonstances entourant l’embauchage de Christopher English par l’appelant sont également pertinentes. Étant donné que le poste qui était affiché sur le site Web de la banque d’emplois de DRHC était un poste de manœuvre pour des travaux d’aménagement de paysage, toute personne répondant à cette offre s’attendrait à répondre à une offre d’emploi, c’est-à-dire un emploi donnant lieu à une relation employeur-employé. Cette attente, à laquelle vient s’ajouter l’absence de discussions claires entre l’appelant et Christopher English lorsque ce dernier a été engagé, permet à mon avis de conclure à l’absence d’intention des deux parties que Christopher English agisse à titre d’entrepreneur indépendant.
+[9] En l’absence d’une intention mutuelle, il faut en outre examiner les autres facteurs énumérés par la Cour d’appel fédérale dans l’arrêt Wiebe Door Services Ltd. c. M.R.N., [1986] 3 C.F. 553, (1986) 70 N.R. 214, 87 DTC 5025, et par la Cour suprême du Canada dans l’arrêt Sagaz, précité.
+Le contrôle
+[10] Christopher English a été embauché à titre de manœuvre pour des travaux d’aménagement de paysage. Initialement, il travaillait principalement à Eganville. Les heures effectuées étaient fonction de la nature du travail. Christopher English comprenait qu’étant donné qu’il s’agissait d’aménagement de paysage, il effectuerait autant d’heures que possible. L’appelant lui assignerait de temps en temps les tâches à accomplir. L’appelant a témoigné que c’était habituellement son client qui assignait le travail, mais Christopher English a témoigné qu’il avait peu de contacts, si ce n’est aucun contact, avec le client. Je retiens le témoignage de Christopher English étant donné que l’appelant a déclaré qu’il traitait avec plusieurs travailleurs et que, à plusieurs reprises, on ne savait pas trop s’il parlait de sa relation avec d’autres travailleurs ou de sa relation avec Christopher English en particulier. Étant donné que les souvenirs que Christopher English gardait de ses discussions avec l’appelant étaient plus précis, je retiens le témoignage de Christopher English.
+[11] Christopher English a également témoigné, et je retiens ce témoignage, qu’il croyait comprendre que, pendant qu’il travaillait pour l’appelant, il n’était pas autorisé à travailler pour quelqu’un d’autre.
+[12] Je conclus donc qu’en ce qui concerne le facteur « contrôle », ce facteur étaye l’existence d’une relation employeur-employé plutôt qu’une relation avec un entrepreneur indépendant.
+La propriété des instruments de travail
+[13] Christopher English a témoigné, et je retiens son témoignage, qu’il ne fournissait pas ses propres instruments de travail. Les outils qu’il utilisait étaient fournis par l’appelant ou par le client de l’appelant. Ce facteur donne donc à entendre qu’il s’agissait d’une relation employeur‑employé plutôt que d’une relation avec un entrepreneur indépendant.
+La question de savoir si le travailleur embauchait ses propres assistants
+[14] Christopher English a été embauché à titre de manœuvre pour des travaux d’aménagement de paysage et il n’a pas embauché d’assistants. L’appelant a témoigné que Christopher English était libre d’embaucher toute autre personne pour accomplir son travail, mais cela n’est jamais arrivé. Ce facteur est donc neutre.
+L’étendue des risques financiers et la possibilité de réaliser un profit
+[15] Dans ce cas particulier, Christopher English a été embauché comme manœuvre pour exécuter des travaux d’aménagement de paysage et il était rémunéré à l’heure. L’appelant insistait pour que Christopher English soumette des factures indiquant le nombre d’heures effectuées. Selon la position prise par l’appelant, cela confirmait que Christopher English devait être un entrepreneur indépendant. Toutefois, les documents soumis par Christopher English n’indiquaient pas nécessairement que celui-ci était un entrepreneur indépendant. La situation aurait été la même dans le cas de l’employé qui soumet sa feuille de présence indiquant le nombre d’heures effectuées.
+[16] L’appelant a indiqué que le travailleur qui n’exécutait pas un travail correctement devait remédier à la situation en dehors de ses heures de travail. Toutefois, encore une fois, cela ne veut pas nécessairement dire qu’il s’agissait d’une relation d’entrepreneur indépendant. Lorsqu’un employé n’accomplit pas sa tâche correctement, l’employeur peut également exiger que celui-ci remédie à la situation en dehors de ses heures de travail.
+[17] Les seuls frais engagés à l’égard de ce travail étaient des frais qu’un employé engagerait – le coût des vêtements de travail, les frais engagés pour se rendre au travail et en revenir et les frais des repas qui n’étaient pas fournis.
+[18] Par conséquent, étant donné que Christopher English touchait simplement un montant horaire fixe pour le nombre d’heures effectuées et puisqu’il n’engageait pas d’autres frais que ceux qu’un employé engagerait, l’étendue des risques financiers qu’il a assumés dans le cadre de la relation était assimilable aux risques qu’assume un employé par opposition à un entrepreneur indépendant.
+[19] Comme il en a été fait mention, la seule possibilité de profit était fondée sur le nombre d’heures effectuées par Christopher English. Cela est conforme à une relation employeur‑employé plutôt qu’à une relation avec un entrepreneur indépendant. La situation n’est pas différente de celle dans laquelle le chèque de paie de l’employé est fonction du nombre d’heures effectuées par cet employé, les employés qui sont prêts à effectuer un plus grand nombre d’heures étant de toute évidence mieux rémunérés que ceux qui n’en effectuent pas.
+Le degré de responsabilité à l’égard des mises de fonds et de la gestion
+[20] Le degré de responsabilité à l’égard des mises de fonds et de la gestion indique que, en l’espèce, il s’agissait d’une relation employeur‑employé plutôt que d’une relation avec un entrepreneur indépendant. Comme il en a ci‑dessus été fait mention, le travailleur était simplement embauché comme manœuvre pour des travaux d’aménagement de paysage et il accomplissait les tâches qui lui étaient assignées; il n’était pas responsable des mises de fond et il n’exerçait pas de fonctions de gestion.
+La conclusion
+[21] Compte tenu des facteurs dans leur ensemble et, en particulier, des circonstances entourant l’engagement du travailleur par suite de l’affichage d’une offre d’emploi sur le site Web de DRHC ainsi que des discussions restreintes qui ont eu lieu au sujet de la nature de la relation existant entre l’appelant et Christopher English, je conclus que, dans ce cas-ci, Christopher English était un employé de l’appelant et qu’il exerçait donc auprès de l’appelant un emploi assurable au sens de l’alinéa 5(1)a) de la Loi sur l’assurance-emploi et un emploi ouvrant droit à pension au sens de l’alinéa 6(1)a) du Régime de pensions du Canada.
+[22] Par conséquent, l’appel est rejeté sans que des dépens soient adjugés.
+Signé à Halifax (Nouvelle‑Écosse), ce 18e jour de juillet 2007.
+« Wyman W. Webb »
+Juge Webb
+Traduction certifiée conforme
+ce 29e jour d’août 2007
+D. Laberge, LL.L.
+RÉFÉRENCE : 2007CCI386
+No DU DOSSIER DE LA COUR : 2006-2829(EI) et 2006-2830(CPP)
+INTITULÉ : REED MARCOTTE
+c.
+LE MINISTRE DU REVENU NATIONAL
+LIEU DE L’AUDIENCE : Kingston (Ontario)
+DATE DE L’AUDIENCE : Le 13 juin 2007
+MOTIFS DU JUGEMENT : L’honorable juge Wyman W. Webb
+DATE DU JUGEMENT : Le 18 juillet 2007
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimé :
+Me Nicolas Simard
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimé : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

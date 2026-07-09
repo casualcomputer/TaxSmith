@@ -1,0 +1,214 @@
+---
+title: "Robin v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/420545/index.do"
+last_modified: "2019-08-21"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2019 TCC 172"
+citation2: ""
+neutral_citation: "2019 TCC 172"
+decision_date: "2019-08-21"
+language: "en"
+item_id: "420545"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4226
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T12:05:42.503000+00:00"
+cases_cited_count: 8
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "eac67483001c213e036ecb530b00cc3c137615f1c5ca36c42ef1806615f5ba4c"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Robin v. The Queen
+
+- Citation: 2019 TCC 172
+- Decision date: 2019-08-21
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4226, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Robin v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2019-08-21
+Neutral citation
+2019 TCC 172
+File numbers
+2015-3903(GST)G
+Judges and Taxing Officers
+Dominique Lafleur
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2015-3903(GST)G
+BETWEEN:
+MARTIN ROBIN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard on June 27, 2019, at Quebec City, Quebec
+Before: The Honourable Justice Dominique Lafleur
+Appearances:
+Counsel for the Appellant:
+Robert Baker
+Alexandra Langevin (student-at-law)
+Counsel for the Respondent:
+Pier-Olivier Julien
+JUDGMENT
+The appeal from the assessment made under Part IX of the Excise Tax Act, the notice of which is dated April 3, 2014, and bears the number F-051391, is dismissed with costs to the respondent, in accordance with the attached reasons for judgment.
+Signed at Ottawa, Canada, this 21st day of August 2019.
+“Dominique Lafleur”
+Lafleur J.
+Citation: 2019 TCC 172
+Date: 20190821
+Docket: 2015-3903(GST)G
+BETWEEN:
+MARTIN ROBIN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Lafleur J.
+[1] Martin Robin (“Mr. Robin” or the “appellant”) is appealing a $19,520.44 assessment (including interest), the notice of which is dated April 3, 2014 and bears the number F-051391, made under Part IX of the Excise Tax Act (R.S.C. 1985, c. E-15, as amended) (the “ETA”) by the Agence du revenu du Québec (“Revenu Québec”) on behalf of the Minister of National Revenue (the “Minister”). The assessment states that Mr. Robin is liable under subsection 323(1) of the ETA for the net goods and services tax (“GST”) that 9187-9973 Québec inc. (“CHC”) should have remitted to the tax authorities on January 31, 2011, July 31, 2011, and October 31, 2011, for the quarters ended December 31, 2010, June 30, 2011, and September 30, 2011, respectively, as a director of CHC.
+[2] The relevant ETA provisions are appended to these reasons.
+[3] All statutory provisions referred to in these reasons are provisions of the ETA, unless otherwise stated.
+I. FACTS
+[4] CHC was incorporated in 2008 and wound up its operations in 2011. CHC held all the shares of Place Stoneham inc., a company that was planning to build residential and commercial condominiums in Stoneham, on chemin du Hibou (the “Stoneham project”). CHC was the general contractor for the Stoneham project and as such was responsible for certain construction work and for providing labour. In addition to the Stoneham project, CHC had construction contracts and was a subcontractor for another company, Construction canadienne. The evidence showed that on June 30, 2011, CHC advanced to Mr. Robin a total of $225,000.
+[5] The de jure director of CHC and Place Stoneham inc. is Mr. Robin’s son, Alexandre Mercier-Robin. Because Mr. Robin went bankrupt on September 17, 2009, and had not yet been discharged at the hearing of the appeal in June 2019, he could not be the de jure director of these companies. However, Mr. Robin admitted being the de facto director of both companies from the time they were incorporated.
+[6] Les Immeubles Paul-E. Richard inc. (“Immeubles Richard”) agreed to loan CHC and Place Stoneham inc. $2,100,000 to finance the Stoneham project, according to a financing offer dated April 14, 2010 (the “offer”).
+[7] On April 30, 2010, Place Stoneham inc. and CHC mortgaged the properties with buildings under construction located on chemin du Hibou, in Stoneham, to Immeubles Richard as security for the loan. The mortgage deed includes in their entirety the provisions of the offer.
+[8] Mr. Robin testified that Immeubles Richard was to pay all supplier and subcontractor invoices for the Stoneham project. CHC also invoiced Immeubles Richard for the labour provided to Place Stoneham inc. for the Stoneham project. Mr. Robin testified that, when Immeubles Richard stopped paying the suppliers’ invoices for the Stoneham project, CHC paid the suppliers $258,000 because they were involved in other CHC projects and demanded to be paid before they provided other materials or services. When the Stoneham project housing units were sold, the notary remitted the purchase price to Immeubles Richard. Mr. Robin testified that Immeubles Richard was to remit the GST and Quebec sales tax (“QST”) for the Stoneham project to the tax authorities and was also to prepare CHC’s tax returns for the Stoneham project and send them to the tax authorities. However, the evidence established that Mr. Robin never saw the GST and QST payment cheques. Further, Mr. Robin did not submit as evidence any documents demonstrating that he had concerned himself with tax payments.
+[9] On October 31, 2011, CHC published a notice of a $582,127 construction legal hypothec on the Stoneham project properties because Place Stoneham inc. owed CHC that amount for the services that CHC had provided notably as general contractor and for the supplier invoices that CHC had paid.
+[10] On November 21, 2011, Immeubles Richard published a prior notice of the exercise of a hypothecary right (“taking in payment”) and filed a motion for forced surrender and taking in payment, citing Place Stoneham inc. and CHC’s failure to comply with the terms and conditions of the offer and the mortgage. Immeubles Richard also filed a motion for the cancellation of the construction legal hypothec registered by CHC.
+[11] On January 7, 2013, the Superior Court dismissed the motion by Immeubles Richard. According to Mr. Robin, that judgment is nevertheless wrong with respect to the amounts that Place Stoneham inc. owes CHC. According to Mr. Robin, Place Stoneham inc. owes CHC $447,909, if the $258,000 of supplier and subcontractor invoices paid by CHC is included. On appeal of that decision by Immeubles Richard, the parties settled the dispute by the payment of $170,000, of which $104,000 went to the Ministère du revenu du Québec and $26,000 went to the Receiver General for Canada. CHC also agreed to have the construction legal hypothec cancelled.
+[12] The evidence showed that Mr. Robin has incorporated many companies over the last 25 years. Most of these companies went bankrupt or ceased to exist for reasons that he cannot recall. The evidence also demonstrated that 9141-1561 Québec inc. (“Construction AWR”), incorporated in 2004, made an assignment in bankruptcy in August 2009. Mr. Robin was the sole director and shareholder of that company. According to Mr. Robin, the bankruptcy was attributable to losses suffered as a result of the contracts for the construction of condominiums in Stoneham. A company called Centria had granted Construction AWR a loan for that project. Centria ended the financing because of rising costs. Construction AWR was audited by Revenu Québec, and was found to owe $162,000 of QST and $110,000 of GST. After this company went bankrupt on September 1, 2009, Mr. Robin was, in particular, assessed under section 323 for the $187,041 of GST that Construction AWR had not paid. After these assessments were issued, Mr. Robin went bankrupt.
+[13] Jacquelin Savard testified at the hearing. He did the bookkeeping for Place Stoneham inc. and took care of accounts receivable. He worked about 5 or 6 hours a week. When he had done the books, he handed them over to the company’s accountant. He testified that he looked after Place Stoneham inc., but not CHC. He knew nothing about CHC. He always dealt with Martin Robin. During his testimony, he confirmed that Place Stoneham inc. owed CHC $477,000. He also indicated that CHC had had to pay $258,000 to suppliers who had been involved in other CHC projects and who demanded to be paid before providing other materials or services.
+[14] Alexandre Mercier-Robin testified at the hearing on behalf of the respondent. He testified that he was a carpenter-joiner and had been a foreman at CHC. At the time, his father had offered him the opportunity to become a shareholder of CHC, and he believed that he held 10% to 15% of the shares. However, he learned that he held 75% of the shares in CHC when the bailiff came knocking at his door in 2012. In addition, he did not know that he was a director of CHC. According to Alexandre Mercier-Robin, his father looked after everything at CHC: he made the offers, wrote the cheques, paid the suppliers, etc.
+[15] Manon Duclos, a collection officer for Revenu Québec, testified that she had taken on the CHC case in September 2011 because CHC owed the tax authorities amounts for source deductions, corporate income tax and taxes (GST and QST). In addition, CHC had failed to file certain tax returns. As a result of her involvement in the CHC case, some returns were filed; however, CHC did not make any payments. Ms. Duclos contacted Jacquelin Savard and Mr. Robin. Mr. Robin explained to her that Immeubles Richard was supposed to make the payments. Mr. Robin wanted to make her an offer to settle the case. However, no meetings took place because some returns were missing. In addition, Mr. Robin explained to her that he had met with counsel regarding the various payments that Immeubles Richard was to have made, but did not make.
+[16] Caroline Villeneuve, a collection technician with Revenu Québec, also testified at the hearing. She was involved in making the assessment against Mr. Robin under subsection 323(1) in the CHC case. Ms. Villeneuve submitted as evidence a certificate registered in the Federal Court pursuant to paragraph 323(2)(a) and documents indicating that execution for the amounts that CHC owed under the ETA had been returned unsatisfied in part.
+II. THE ISSUE
+[17] The only issue in this appeal is whether Mr. Robin has demonstrated, on a balance of probabilities, that he exercised the degree of care, diligence and skill to prevent CHC’s failure to pay an amount of net tax pursuant to the ETA that a reasonably prudent person would have exercised in comparable circumstances. If he meets this test, he is not liable for the amounts that CHC owes under the ETA.
+III. POSITIONS OF THE PARTIES
+1. Appellant’s position
+[18] The offer expressly stipulated that Immeubles Richard was to issue cheques to pay the creditors. Thus, according to Mr. Robin, Immeubles Richard was to have paid the taxes with respect to the Stoneham project. In his notice of objection, Mr. Robin also asserted that all taxes were remitted and paid to the mortgagee, Immeubles Richard, at its request, and that Immeubles Richard was under an obligation to remit the GST and QST to Revenu Québec.
+[19] Mr. Robin also asserted that he had exercised diligence to prevent CHC’s failure to comply with the ETA since CHC registered a construction legal hypothec on the Stoneham project properties. Since CHC was not paid for the services provided for the Stoneham project, it did not have the funds to pay the taxes.
+[20] According to the appellant, if the settlement of the dispute with Immeubles Richard had provided for the payment of the entire amount owed by Immeubles Richard, i.e., $477,000 and not $170,000, CHC would have had the necessary funds to pay the taxes and other amounts to the tax authorities.
+2. Respondent’s position
+[21] The appellant, who had the burden of demonstrating that the conditions set out in subsection 323(3) were met, failed to demonstrate that he exercised the degree of care, diligence and skill to prevent CHC’s failure to pay an amount of net tax pursuant to the ETA that a reasonably prudent person would have exercised in comparable circumstances.
+[22] No evidence was submitted during the hearing establishing that Mr. Robin had sought information from Immeubles Richard regarding tax remittances, that he had put in place reliable controls in this regard, that he participated in the implementation of these controls or that he corrected the controls if there were any problems with them. The fact that CHC had a construction legal hypothec is not relevant because subsection 323(3) refers to efforts to prevent failures, not remedy them after the fact.
+[23] Furthermore, Mr. Robin stated that he did not actually have control of CHC and that CHC had thus not been able to remit the taxes to the tax authorities. However, according to the respondent, it was not proven that there had been a third-party takeover. The offer is far from clear. Even if there were a third-party takeover, the director must continue to stay informed and take positive action to prevent failures to remit and ensure that payments under the tax laws are being made.
+[24] Finally, according to the respondent, the Court should draw a negative inference from the fact that the appellant did not call a representative of Immeubles Richard to testify in support of his claims.
+IV. DISCUSSION
+[25] Subsection 323(1) establishes the liability of a director of a corporation that fails to remit the amounts of net tax it is required to pay under the ETA.
+[26] The question whether Mr. Robin was a director of CHC during the relevant period is not at issue because the appellant admitted at the hearing that he was a de facto director of CHC. The Federal Court of Appeal has already held that a similar provision to subsection 323(1), i.e., subsection 227.1(1) of the Income Tax Act (Canada), covered “all types of directors known to the law in company law, including, amongst others, de jure and de facto directors” (Canada v. Corsano, [1999] 3 F.C. 173, 1999 CanLII 9297 (FCA), paragraph 5 of Létourneau J.A.’s reasons) (“Corsano”). The same finding applies to subsection 323(1).
+[27] Subsection 323(2) provides that a director is not liable unless certain conditions are met. In this case, the evidence showed that the conditions set out in paragraph 323(2)(a) were met: a certificate was registered in the Federal Court and execution for the amounts that CHC owed pursuant to the ETA was returned unsatisfied in part.
+[28] However, Mr. Robin relies on the due diligence defence in subsection 323(3) to avoid any liability with respect to the amount of net tax not remitted by CHC under the ETA. Subsection 323(3) reads as follows:
+323(3) Diligence — A director of a corporation is not liable for a failure under subsection (1) where the director exercised the degree of care, diligence and skill to prevent the failure that a reasonably prudent person would have exercised in comparable circumstances.
+[29] The object of this provision is clearly to prevent failure by a corporation to remit (Canada v. Buckingham, 2011 FCA 142, [2013] 1 F.C.R. 86, at paragraph 33 (“Buckingham”)). In order to avail himself of this defence, the director must show that he concerned himself with the remittances the corporation was required to make and that he exercised the care, diligence and skill to prevent the failures to remit that is required of a reasonably prudent person placed in comparable circumstances.
+[30] In Buckingham, supra, the Federal Court of Appeal specified that the reference to a “reasonably prudent person” in subsection 323(3) indicates that the test is objective rather than subjective (paragraphs 35 and 36). The circumstances, i.e., all of the facts, must be looked at through the lens of the reasonably prudent person. The factual circumstances will still be important, but will have to be considered from the point of view of a reasonably prudent person.
+[31] Thus, the Federal Court of Appeal held that a “person who is appointed as a director must carry out the duties of that function on an active basis and will not be allowed to defend a claim for malfeasance in the discharge of his or her duties by relying on his or her own inaction” (paragraph 38).
+[32] A director therefore has a duty to find out whether the taxes have been remitted. The case law has indicated that a director would be well-advised to put in place reliable controls to ensure that the corporation is making tax remittances, and to participate in such controls, if he wishes to avail himself of the due diligence defence (Soper v. Canada, [1998] 1 F.C. 124, at paragraphs 50, 51 and 59). Similarly, a director has a duty to keep himself informed, and even if he delegates some tasks, he cannot completely abdicate responsibility (Mohos v. The Queen, 2008 TCC 199, paragraph 56). In addition, the case law has also established that a director must even correct the controls in order to prevent the company’s failure to remit, if there are problems with these controls (Corsano, supra, paragraph 34 and Canada (Attorney General) v. McKinnon, [2001] 2 F.C. 203, 2000 CanLII 16269 (FCA), paragraph 30).
+[33] Mr. Robin failed to demonstrate, on a balance of probabilities, that the conditions set out in subsection 323(3) were met in the circumstances of the appeal.
+[34] Mr. Robin was required to take steps to prevent CHC’s failures to remit net tax pursuant to the ETA. In this case, the evidence does not show that Mr. Robin ever concerned himself with the GST remittances that CHC was required to make pursuant to the ETA. No evidence was produced at the hearing regarding measures Mr. Robin had taken to prevent failures to remit. I therefore conclude that Mr. Robin did not take any such measures.
+[35] Similarly, Mr. Robin cannot claim that by registering a construction legal hypothec he took appropriate measures to prevent CHC’s failures to remit. CHC was attempting to be reimbursed amounts owed to it for the Stoneham project; that action was in no way aimed at preventing the failures to remit taxes (Corsano, supra, paragraph 35). Mr. Robin did not take any positive action to ensure that the net tax would be remitted in accordance with the provisions of the ETA.
+[36] Mr. Robin cites the fact that, according to the offer, Immeubles Richard was to make CHC’s GST remittances for the Stoneham project and was also to file tax returns with the tax authorities. He refers to the provision in the offer that reads as follows: [translation] “Cheques to pay creditors will be issued by the lender and any new contract will be subject to the lender’s approval.”
+[37] This interpretation of the offer is implausible. I fail to see how the provision in question can be interpreted as requiring that Immeubles Richard prepare and file CHC’s tax returns with the tax authorities and pay the taxes owed by CHC under the ETA. Mr. Robin relies on only part of this provision to justify his position, i.e., the part specifying that Immeubles Richard is to issue the cheques to pay creditors. However, the first part of the sentence must be read together with the second part, which states that Immeubles Richard must approve any new contract. The creditors referred to in the offer therefore seem to be those who would be covered by new contracts. It is therefore clear that this provision in the offer does not require that Immeubles Richard prepare and file CHC’s tax returns and pay the taxes owed by CHC pursuant to the ETA.
+[38] Moreover, it is unlikely that a mortgagee such as Immeubles Richard would take responsibility for preparing another entity’s tax returns, namely CHC in this case. How could Immeubles Richard complete such returns, indicating the taxes collected by CHC and the input tax credits that CHC could claim? The offer does not contain any provision dealing with this.
+[39] Under the circumstances, it is entirely appropriate that I draw a negative inference from the absence from the hearing of a representative of Immeubles Richard who would have been able to support Mr. Robin’s claims. I find that this absence demonstrates that, if a representative of Immeubles Richard had testified at the hearing, that testimony would have been unfavourable to Mr. Robin’s position (Les Pro-Poseurs Inc. v. Canada, 2012 FCA 200, 2012 DTC 5114, paragraph 16).
+[40] The respondent is of the view that I should not give any credence to Mr. Robin’s testimony, for a number of reasons. I am in complete agreement with the respondent. First of all, Mr. Robin’s history of incorporating multiple companies, which was established at the hearing, those companies’ accumulation of debt, and their subsequent bankruptcy reveal a modus operandi on the part of Mr. Robin that, unfortunately, has been repeated on many occasions. I also note that 10 years have elapsed since Mr. Robin’s bankruptcy and that he had still not been discharged at the time of the hearing of the appeal. The trustee’s report on Mr. Robin’s application for discharge is not very flattering. In addition, a Superior Court decision rendered on January 29, 2003, determined that Mr. Robin had resorted to subterfuge in altering a copy of a cheque to escape certain obligations regarding payment of commissions on sales of houses (Bonneau c. 9089-4189 Québec Inc., 2003 CanLII 3966 (C. Qc.)).
+[41] As stated by Miller J., with whom I am in complete agreement (Nichols v. The Queen, 2009 TCC 334):
+[23] In assessing credibility I can consider inconsistencies or weaknesses in the evidence of witnesses, including internal inconsistencies (that is, whether the testimony changed while on the stand or from that given at discovery), prior inconsistent statements, and external inconsistencies (that is, whether the evidence of the witness is inconsistent with independent evidence which has been accepted by me). Second, I can assess the attitude and demeanour of the witness. Third, I can assess whether the witness has a motive to fabricate evidence or to mislead the court. Finally, I can consider the overall sense of the evidence. That is, when common sense is applied to the testimony, does it suggest that the evidence is impossible or highly improbable.
+[Emphasis added.]
+[42] When he went bankrupt, Mr. Robin was questioned by counsel for the Canada Revenue Agency and Revenu Québec in January 2011. During that examination, Mr. Robin never stated that he actually ran CHC. Rather, Mr. Robin always maintained that his son, Alexandre Mercier-Robin, was the director of CHC and also its owner. Mr. Robin was only involved in CHC for the purpose of helping his son. However, according to another document filed at the hearing, which was prepared because of an assessment issued against Mr. Robin’s son by Revenu Québec under subsection 323(1) (Exhibit I-12), Mr. Robin stated the contrary. In that document it is stated that Alexandre Mercier-Robin is a straw man for his father and that Mr. Robin is not a director because he went bankrupt. According to that document signed by Mr. Robin, his son has never been a director of CHC and has never been involved in CHC’s day-to-day business; the document also clearly states that in fact Martin Robin is the sole director and officer of CHC. Given these contradictory statements, as mentioned above, I give no credence to Mr. Robin’s testimony.
+[43] In Alexandre Mercier-Robin’s appeal from the assessment made pursuant to subsection 323(1) for the taxes that CHC should have remitted under the ETA, D’Auray J. of this Court came to the same conclusion regarding the unreliability of Mr. Robin’s testimony (2015-3661(GST)G, March 9, 2018, page 21).
+[44] However, even if I were to accept Mr. Robin’s claim that the offer expressly provided that Immeubles Richard was to take care of the payment of taxes and the filing of CHC’s tax returns with the tax authorities, the case law has consistently held that a director may not delegate his duties to a subordinate or to another director in this manner: the director must demonstrate that he or she has taken positive action to prevent the corporation’s failures to remit the amounts payable under the LTA (Kaur v. The Queen, 2013 TCC 227, paragraph 18). Thus, while the case law has established that a director cannot completely abdicate his or her responsibility by shifting it to another director or to a subordinate, it is even more obvious that he or she cannot do so and then invoke the due diligence defence when tasks are delegated to a third party, which would have been Immeubles Richard in this case. Mr. Robin did not take any steps to ensure that the net tax owed by CHC under the ETA would be remitted.
+[45] Moreover, Mr. Robin cannot argue that Immeubles Richard had control over tax remittances. At most, Immeubles Richard had an influence on CHC as a mortgagee. The Federal Court of Appeal has confirmed that a director might not be held liable if that director did not have control of the company and was unable to discharge his or her responsibilities because a bank or creditor had the legal ability to prevent the business from remitting funds (Canada v. Chriss, 2016 FCA 236, paragraph 29). It is not enough for a director to assert that a creditor had considerable influence (Chriss, supra, paragraph 30). In this case, the evidence did not establish that Immeubles Richard had control over tax remittances. It is clear that CHC had cash inflows because it was operating other work sites. CHC paid salaries and even paid suppliers for the Stoneham project $258,000 to have them agree to provide materials and services for other CHC work sites. The evidence also established that CHC made advances of approximately $225,000 to Mr. Robin during the relevant periods. Immeubles Richard could not legally prevent CHC from issuing cheques to remit to the tax authorities the taxes it owed pursuant to the ETA.
+[46] As this Court indicated in Blades v. The Queen (2007 TCC 530, paragraphs 13 and 14), the director must continue to keep himself informed and must take positive steps to prevent failures to remit and ensure that the company makes remittances. None of the evidence adduced at the hearing indicated that Mr. Robin had informed himself of the situation; furthermore, no evidence has been adduced to show that Mr. Robin took any steps whatsoever to prevent CHC’s failures to remit under the ETA.
+[47] Finally, I note that Mr. Robin has already had a similar experience in operating Construction AWR with Centria and that he was assessed a significant amount under section 323. Those assessments led to Mr. Robin’s bankruptcy. Mr. Robin therefore had all the experience required in order to fulfil his responsibilities with respect to the ETA.
+[48] For all these reasons, Mr. Robin cannot avail himself of the due diligence defence in subsection 323(3) to avoid his liability as a director with regard to the tax owed by CHC under the ETA for the periods at issue.
+V. CONCLUSION
+[49] For the foregoing reasons, the appeal is dismissed with costs to the respondent.
+Signed at Ottawa, Canada, this 21st day of August 2019.
+“Dominique Lafleur”
+Lafleur J.
+Translation certified true
+on this 18th day of December 2019.
+Erich Klein, Revisor
+323(1) Liability of directors — If a corporation fails to remit an amount of net tax as required under subsection 228(2) or (2.3) or to pay an amount as required under section 230.1 that was paid to, or was applied to the liability of, the corporation as a net tax refund, the directors of the corporation at the time the corporation was required to remit or pay, as the case may be, the amount are jointly and severally, or solidarily, liable, together with the corporation, to pay the amount and any interest on, or penalties relating to, the amount.
+(2) Limitations — A director of a corporation is not liable under subsection (1) unless
+(a) a certificate for the amount of the corporation’s liability referred to in that subsection has been registered in the Federal Court under section 316 and execution for that amount has been returned unsatisfied in whole or in part;
+(b) the corporation has commenced liquidation or dissolution proceedings or has been dissolved and a claim for the amount of the corporation’s liability referred to in subsection (1) has been proved within six months after the earlier of the date of commencement of the proceedings and the date of dissolution; or
+(c) the corporation has made an assignment or a bankruptcy order has been made against it under the Bankruptcy and Insolvency Act and a claim for the amount of the corporation’s liability referred to in subsection (1) has been proved within six months after the date of the assignment or bankruptcy order.
+(3) Diligence — A director of a corporation is not liable for a failure under subsection (1) where the director exercised the degree of care, diligence and skill to prevent the failure that a reasonably prudent person would have exercised in comparable circumstances.
+(4) Assessment — The Minister may assess any person for any amount payable by the person under this section and, where the Minister sends a notice of assessment, sections 296 to 311 apply, with such modifications as the circumstances require.
+(5) Time limit — An assessment under subsection (4) of any amount payable by a person who is a director of a corporation shall not be made more than two years after the person last ceased to be a director of the corporation.
+(6) Amount recoverable — Where execution referred to in paragraph (2)(a) has issued, the amount recoverable from a director is the amount remaining unsatisfied after execution.
+(7) Preference — Where a director of a corporation pays an amount in respect of a corporation’s liability referred to in subsection (1) that is proved in liquidation, dissolution or bankruptcy proceedings, the director is entitled to any preference that Her Majesty in right of Canada would have been entitled to had the amount not been so paid and, where a certificate that relates to the amount has been registered, the director is entitled to an assignment of the certificate to the extent of the director’s payment, which assignment the Minister is empowered to make.
+(8) Contribution — A director who satisfies a claim under this section is entitled to contribution from the other directors who were liable for the claim.
+323(1) Responsabilité des administrateurs — Les administrateurs d’une personne morale au moment où elle était tenue de verser, comme l’exigent les paragraphes 228(2) ou (2.3), un montant de taxe nette ou, comme l’exige l’article 230.1, un montant au titre d’un remboursement de taxe nette qui lui a été payé ou qui a été déduit d’une somme dont elle est redevable, sont, en cas de défaut par la personne morale, solidairement tenus, avec cette dernière, de payer le montant ainsi que les intérêts et pénalités afférents.
+(2) Restrictions — L’administrateur n’encourt de responsabilité selon le paragraphe (1) que si :
+a) un certificat précisant la somme pour laquelle la personne morale est responsable a été enregistré à la Cour fédérale en application de l’article 316 et il y a eu défaut d’exécution totale ou partielle à l’égard de cette somme;
+b) la personne morale a entrepris des procédures de liquidation ou de dissolution, ou elle a fait l’objet d’une dissolution, et une réclamation de la somme pour laquelle elle est responsable a été établie dans les six mois suivant le premier en date du début des procédures et de la dissolution;
+c) la personne morale a fait une cession, ou une ordonnance de faillite a été rendue contre elle en application de la Loi sur la faillite et l’insolvabilité, et une réclamation de la somme pour laquelle elle est responsable a été établie dans les six mois suivant la cession ou l’ordonnance.
+(3) Diligence — L’administrateur n’encourt pas de responsabilité s’il a agi avec autant de soin, de diligence et de compétence pour prévenir le manquement visé au paragraphe (1) que ne l’aurait fait une personne raisonnablement prudente dans les mêmes circonstances.
+(4) Cotisation — Le ministre peut établir une cotisation pour un montant payable par une personne aux termes du présent article. Les articles 296 à 311 s’appliquent, compte tenu des adaptations de circonstance, dès que le ministre envoie l’avis de cotisation applicable.
+(5) Prescription — L’établissement d’une telle cotisation pour un montant payable par un administrateur se prescrit par deux ans après qu’il a cessé pour la dernière fois d’être administrateur.
+(6) Montant recouvrable — Dans le cas du défaut d’exécution visé à l’alinéa (2)a), la somme à recouvrer d’un administrateur est celle qui demeure impayée après l’exécution.
+(7) Privilège — L’administrateur qui verse une somme, au titre de la responsabilité d’une personne morale, qui est établie lors de procédures de liquidation, de dissolution ou de faillite a droit au privilège auquel Sa Majesté du chef du Canada aurait eu droit si cette somme n’avait pas été versée. En cas d’enregistrement d’un certificat relatif à cette somme, le ministre est autorisé à céder le certificat à l’administrateur jusqu’à concurrence de son versement.
+(8) Répétition — L’administrateur qui a satisfait à la réclamation peut répéter les parts des administrateurs tenus responsables de la réclamation.
+CITATION:
+2019 TCC 172
+COURT FILE NO.:
+2015-3903(GST)G
+STYLE OF CAUSE:
+MARTIN ROBIN v.
+HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Quebec City, Quebec
+DATE OF HEARING:
+June 27, 2019
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Dominique Lafleur
+DATE OF JUDGMENT:
+August 21, 2019
+APPEARANCES:
+Counsel for the Appellant:
+Robert Baker
+Alexandra Langevin (student-at-law)
+Counsel for the Respondent:
+Pier-Olivier Julien
+SOLICITORS OF RECORD:
+For the appellant:
+Name:
+Robert Baker
+Alexandra Langevin (student-at-law)
+Firm:
+DeBlois et Associés
+Quebec City, Quebec
+For the respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada

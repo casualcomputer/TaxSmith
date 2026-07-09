@@ -1,0 +1,132 @@
+---
+title: "Gardave v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26907/index.do"
+last_modified: "2005-06-07"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 CCI 369"
+citation2: ""
+neutral_citation: "2005 CCI 369"
+decision_date: "2005-06-07"
+language: "fr"
+item_id: "26907"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 778
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T22:50:50.276000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "c8e5a5c9079cc840b613fa150746856a636046c7a92539d517e004490bcde823"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Gardave v. The Queen
+
+- Citation: 2005 CCI 369
+- Decision date: 2005-06-07
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 778, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Gardave v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-06-07
+Référence neutre
+2005 CCI 369
+Numéro de dossier
+2005-289(IT)I
+Juges et Officiers taxateurs
+Joe E. Hershfield
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2005-289(IT)I
+ENTRE :
+DAVID GARDAVE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Requête entendue le 21 avril 2005 à Winnipeg (Manitoba)
+Devant : l'honorable juge J.E. Hershfield
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocate pour l'intimée :
+Me Tracey Telford
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+ORDONNANCE
+Sur requête déposée par l'intimée qu'il soit mis fin à l'appel;
+Et après avoir entendu les parties et étudié les arguments présentés;
+La requête est accueillie et l'appel, tel qu'il a été déposé relativement aux années d'imposition 1991, 2003 et autres de l'appelant qui sont visées par la nouvelle cotisation établie en vertu du paragraphe 152(4.2) de la Loi de l'impôt sur le revenu pour l'année d'imposition 1991 de l'appelant, est annulé pour les motifs énoncés dans les motifs d'ordonnance ci-joints. Le droit de dépôt d'avis d'appel payé par l'appelant relativement à cet appel doit lui être remboursé.
+Signé à Ottawa (Canada) ce 7e jour de juin 2005.
+« J.E. Hershfield »
+Le juge Hershfield
+Traduction certifiée conforme
+ce 2e jour de novembre 2005.
+Joanne Robert, traductrice
+Référence : 2005CCI369
+Date : 20050607
+Dossier : 2005-289(IT)I
+ENTRE :
+DAVID GARDAVE,
+appelant,
+Et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DE L'ORDONNANCE
+Le juge Hershfield
+[1] L'intimée a déposé une requête pour obtenir une ordonnance mettant fin à l'appel de l'appelant ou le rejetant pour les raisons suivantes :
+[TRADUCTION]
+1. l'appel ne respecte pas les exigences réglementaires énoncées à l'article 18.15 de la Loi sur la Cour canadienne de l'impôt en ce qu'il n'expose pas, en termes généraux, les raisons de l'appel ainsi que les faits pertinents;
+2. l'appel, dans la mesure où il se rapporte à l'avis de nouvelle cotisation du 29 octobre 2004 visant l'année d'imposition 1991, concerne une cotisation établie en vertu du paragraphe 152(4.2) de la Loi de l'impôt sur le revenu et pour laquelle il n'y a pas droit d'appel;
+3. l'appel, subsidiairement, dans la mesure où il se rapporte à l'avis de nouvelle cotisation du 29 octobre 2004 visant l'année d'imposition 1991, concerne un avis selon lequel aucun impôt fédéral n'est payable pour l'année;
+4. l'appel, dans la mesure où il se rapporte à l'avis de nouvelle cotisation du 7 octobre 2004 visant l'année d'imposition 2003, concerne un avis selon lequel aucun impôt fédéral n'est payable pour l'année;
+5. l'appel, dans la mesure où il se rapporte au relevé de compte daté du 24 novembre 2004, ne respecte pas les exigences réglementaires prévues à l'article 169 de la Loi de l'impôt sur le revenu selon lesquelles l'appelant ne peut interjeter appel d'une cotisation;
+6. pour tout autre motif que l'avocate pourrait faire valoir et que cette cour pourrait admettre.
+[2] L'avis d'appel est bref. En voici la teneur :
+[TRADUCTION]
+Appel interjeté en vertu de la Loi de l'impôt sur le revenu
+Année d'imposition : 2003, également cotisations révisées qui ont une incidence sur les années 1991 et suivantes jusqu'à aujourd'hui.
+Objet :
+· Avis de nouvelle cotisation, 7 octobre 2004
+· Avis de nouvelle cotisation, 29 octobre 2004
+· Relevé de compte, 24 novembre 2004
+Comme pour chacun de ces éléments un avis d'appel a été déposé auprès de la Division des appels du Bureau des services fiscaux de Winnipeg (copies ci-jointes) et qu'aucune réponse n'a été reçue à ce jour, nous demandons une audience devant la Cour canadienne de l'impôt pour régler ces questions. En outre, le délai de dépôt de cette requête étant de 90 jours, nous la présentons dès maintenant afin de nous assurer qu'il n'y aura pas dépassement de ce délai.
+[3] À l'appui de la requête, un affidavit de l'agent des litiges de l'Agence du revenu du Canada (l'ARC) a été déposé à la Cour. L'affidavit et les pièces jointes confirment que le 29 octobre 2004 une nouvelle cotisation a été établie visant l'année d'imposition 1991 et qu'elle l'a été en application des dispositions d'équité prévues au paragraphe 152(4.2) de la Loi de l'impôt sur le revenu (la « Loi » ). Cette nouvelle cotisation indiquait qu'aucun impôt n'était payable pour l'année. Le ministre du Revenu national (le « ministre » ) avait aussi précédemment, soit le 7 octobre 2004, établi au nom de l'appelant une nouvelle cotisation visant l'année d'imposition 2003. Cette fois, encore, il apparaît que le dernier avis de nouvelle cotisation ne comportait aucun impôt payable même s'il incluait un relevé de compte faisant état d'un solde antérieur ainsi que d'un redressement débiteur découlant de la réduction d'un crédit d'impôt provincial. L'appel relatif à cette nouvelle cotisation se rapporte au calcul du solde du compte, dans la mesure, du moins, où il ne tient pas compte des redressements exacts des intérêts résultant du remboursement effectué deux semaines plus tard par suite de la nouvelle cotisation du 29 octobre 2004 visant l'année d'imposition 1991.
+[4] Le 24 novembre 2004, le ministre a délivré un relevé de compte indiquant un solde nul après l'inscription au crédit du remboursement résultant de la nouvelle cotisation de l'appelant visant l'année d'imposition 1991. Selon le calcul du redressement approprié des intérêts effectué par l'appelant, ce montant serait insuffisant.
+[5] L'appelant a déposé dans le délai prescrit un avis d'opposition relatif aux nouvelles cotisations visant 1991 et 2003 établies le 29 octobre et le 7 octobre 2004 respectivement. Il a aussi contesté le relevé de compte envoyé en novembre 2004.
+[6] L'ARC a informé l'appelant par écrit qu'elle ne considérait pas comme valides les avis d'opposition reçus. Elle l'a avisé qu'il ne pouvait pas interjeter appel de la nouvelle cotisation du 29 octobre 2004 visant l'année 1992 parce qu'elle avait été établie en application des dispositions d'équité et ne pouvait donc pas faire l'objet d'un appel. On lui a également précisé par écrit que la nouvelle cotisation du 27 octobre 2004 visant l'année 2003 ne pouvait faire l'objet d'un appel bien qu'aucune raison n'ait été fournie. L'avis de requête donne comme raison que, selon cette nouvelle cotisation, il n'y a aucun impôt fédéral à payer.
+[7] En me reportant aux pièces jointes à l'affidavit de l'agent des litiges, je constate que l'appelant, dans le cours des événements qui ont mené à cet appel, a fait valoir bien des choses qui attestent de sa frustration à l'égard d'un système qui ne porte pas à son crédit le montant exact des intérêts (tels qu'ils les a calculés) sur son remboursement relatif à l'année d'imposition 1991, année pour laquelle la cotisation a été incorrectement établie en 1992. Ce fait a été finalement reconnu par l'établissement d'une nouvelle cotisation le 29 octobre 2004[1]. Toutefois, cette situation se résume en grande partie à un problème de communication. En témoigne la plaidoirie présentée à la Cour par l'appelant après l'audience et après qu'il eut reçu une copie d'un mémoire présenté à la Cour par l'avocate de l'intimée, à ma demande, après l'audience. Ce mémoire souligne le fait que dans le cas des nouvelles cotisations établies en vertu du paragraphe 152(4.2), les redressements des intérêts sont assujettis à des limites aux termes du paragraphe 164(3.2). Cette dernière disposition de la Loi n'avait jamais été expressément invoquée dans les communications antérieures que ce soit dans les avis de nouvelle cotisation, dans l'avis de requête ou dans l'affidavit déposé avec l'avis de requête[2].La première mention du paragraphe 164(3.2) apparaît dans le mémoire de l'intimée présenté après l'audience. La plaidoirie de l'appelant avait principalement pour objet d'admettre que, maintenant qu'on l'avait renvoyé à cette disposition relative au redressement des intérêts, il allait abandonner son appel. Toutefois, il fait objection au processus et demande le remboursement du droit de dépôt d'avis d'appel de 100 $ versé à la Cour au moment du dépôt de cet avis d'appel.
+[8] La requête de l'intimée, à savoir que les appels soient annulés dans leur totalité, est accueillie. Cette décision se fonde non seulement sur l'ultime concession de l'appelant mais aussi sur le fait qu'il ne relève pas de la compétence de cette cour de considérer des relevés de compte comme étant de nouvelles cotisations pouvant faire l'objet d'appels. Il ne relève pas non plus de cette cour d'examiner les questions se rapportant à l'application des dispositions d'équité, et c'est pourtant là le véritable objet de cet appel. Ainsi, l'appelant n'interjette pas appel d'une nouvelle cotisation en soi mais fait porter son appel seulement sur le calcul erroné, soutient-il, des intérêts à lui créditer par suite de l'application des dispositions d'équité plutôt que sur les crédits dont il aurait bénéficié si l'erreur avait été corrigée au premier jour comme cela se fait normalement. L'appelant n'a invoqué aucun autre motif de poursuite sur lequel cette cour serait habilitée à se prononcer. En outre, la Loi est claire en ce qu'elle prévoit qu'aucun appel ne peut être interjeté d'une cotisation établie en vertu du paragraphe 152(4.2). Je suis convaincu que c'est cette disposition qui a été appliquée, et qu'elle l'a dûment été, de manière à donner lieu à un remboursement. Qui plus est, le fait que ces nouvelles cotisations aient eu pour résultat qu'aucun impôt fédéral n'ait été payable constitue une raison de plus pour laquelle l'appelant n'a pas le droit d'interjeter cet appel.
+[9] Ce sont ces obstacles procéduraux sur lesquels la Couronne s'est fondée qui ont frustré l'appelant. Celui-ci semble résumer toute l'affaire en faisant valoir que si l'ARC, lors de rencontres ou de tentatives de rencontres, lui avait expliqué ses calculs, cet appel aurait pu être évité, bref qu'il était en droit de recevoir une explication appropriée. Il m'est difficile de reprocher à l'intimée ou à son avocate de s'être fondées sur les dispositions procédurales, car elles doivent avoir effet, quelle qu'ait été l'intention sous-jacente du législateur. Par contre, ce me semble être une piètre pratique administrative que de ne pas expliquer comment s'applique une disposition de la Loi telle que celle du paragraphe 164(3.2), voire même de n'en pas faire mention lorsque, outre les obstacles de nature procédurale, elle se trouve au coeur de la question en litige soumise par le contribuable. Or, celui-ci, en tant qu'ancien comptable, a consacré beaucoup de temps et d'énergie à prouver la justesse de son calcul du redressement approprié des intérêts, abstraction faite du paragraphe 164(3.2). Nier que la demande ait été faite en invoquant les dispositions d'équité aurait pu créer un climat où l'ARC n'était pas encline à exposer son mode de calcul. Quoi qu'il en soit, il n'y a, à mon avis, rien qui excuse le fait que ce ne soit qu'après l'audience qu'on ait renvoyé l'appelant à cette disposition même sur laquelle on s'est appuyé pour calculer le redressement des intérêts.
+[10] Si cet appel avait été instruit, je ne pourrais rien faire au sujet du droit de dépôt d'avis d'appel. Toutefois, lorsqu'un appel est annulé, et dans le cas présent je le fais sans attribuer les dépens, j'ai le pouvoir discrétionnaire d'ordonner que le droit de dépôt d'avis d'appel soit remboursé. En l'espèce, j'inclus cette mesure de redressement dans mon ordonnance.
+Signé à Ottawa (Canada) ce 7e jour de juin 2005.
+« J.E. Hershfield »
+Le juge Hershfield
+Traduction certifiée conforme
+ce 2e jour de novembre 2005.
+Joanne Robert, traductrice
+[1] Ses allégations incluent celles-ci : que l'établissement en 1992 d'une nouvelle cotisation visant l'année 1991 était un acte ultra vires; qu'il avait, relativement à cette nouvelle cotisation, déposé dans le délai prescrit un avis d'opposition; que la nouvelle cotisation du 24 octobre 2004 visant l'année 1991 n'a pas été dûment considérée comme étant établie en application des dispositions d'équité. Compte tenu des arguments présentés, il semble probable que l'ensemble de ces allégations ne reflètent que la frustration ressentie par l'appelant du fait que l'intimée se soit appuyée sur des règles de procédure pour lui refuser un redressement approprié des intérêts plutôt que de chercher à savoir si sa plainte était fondée.
+[2] Il n'y a eu ni confirmation ni réponse, car les oppositions ont été jugées non valides.

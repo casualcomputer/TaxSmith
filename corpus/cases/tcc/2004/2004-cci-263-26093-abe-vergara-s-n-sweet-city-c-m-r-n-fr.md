@@ -1,0 +1,135 @@
+---
+title: "ABE Vergara S/N Sweet City c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26093/index.do"
+last_modified: "2004-04-08"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 CCI 263"
+citation2: ""
+neutral_citation: "2004 CCI 263"
+decision_date: "2004-04-08"
+language: "fr"
+item_id: "26093"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4154
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T20:36:53.373000+00:00"
+cases_cited_count: 1
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "f357536b0ce56d6bcd8a83ce940f1bca150e810dd645c14744ad49320f3b4e72"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# ABE Vergara S/N Sweet City c. M.R.N.
+
+- Citation: 2004 CCI 263
+- Decision date: 2004-04-08
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4154, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+ABE Vergara S/N Sweet City c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-04-08
+Référence neutre
+2004 CCI 263
+Numéro de dossier
+2003-3773(EI)
+Juges et Officiers taxateurs
+Donald G.H. Bowman
+Sujets
+Loi sur l'assurance-emploi
+Régime de pensions du Canada
+Contenu de la décision
+Dossiers : 2003‑3773(EI)
+2003‑3774(CPP)
+ENTRE :
+ABE VERGARA S/N SWEET CITY,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+___________________________________________________________________
+Appels entendus le 31 mars 2004 à London (Ontario)
+Par : L’honorable juge en chef adjoint D. G. H. Bowman
+Comparutions :
+Avocat de l’appelant :
+Me Barry R. Card
+Avocat de l’intimé :
+Me Charles Camirand
+____________________________________________________________________
+JUGEMENT
+Les appels sont accueillis et les décisions selon lesquelles D occupait un emploi assurable et ouvrant droit à pension pendant la période allant du 1er octobre 2002 au 31 janvier 2003, sont annulées et remplacées par la décision selon laquelle D n’occupait pas d’emploi assurable ni ouvrant droit à pension aux termes de la Loi sur l’assurance‑emploi et du Régime de pensions du Canada, pendant la période en cause.
+Signé à Ottawa, Canada, ce 8e jour d’avril 2004.
+« D. G. H. Bowman »
+J.C.A. Bowman
+Traduction certifiée conforme
+ce 29e jour de juillet 2004.
+Ingrid B. Miranda, traductrice
+Référence : 2004CCI263
+Date : 20040408
+Dossiers : 2003‑3773(EI)
+2003‑3774(CPP)
+ENTRE :
+ABE VERGARA S/N SWEET CITY,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge en chef adjoint Bowman
+[1] Les présents appels sont interjetés à l’encontre de la décision du ministre du Revenu national statuant que D occupait auprès de l’appelant un emploi assurable et ouvrant droit à pension pendant la période du 1er octobre 2002 au 31 janvier 2003. Je propose de ne pas identifier cette personne par son nom, pour des raisons qui sembleront évidentes après avoir fait lecture de mon sommaire des faits. D n’a pas témoigné, alors que l’appelant et l’une de préposées qui travaillait dans le salon de massage licencié de l’appelant sont effectivement passés à la barre. J’identifierai cette dernière simplement par la lettre « A ».
+[2] L’appelant exploite dans la ville de London un commerce dont la raison sociale est Sweet City. Il s’agit d’un salon de massage ou, selon la description plus abstraite de l’Avis d’appel, d’un [traduction] « salon licencié de services de divertissement pour adultes » offrant des « massages de relaxation ».
+[3] Pendant la période en cause, D travaillait dans les locaux de l’appelant en qualité de préposée aux services de massage. Elle était l’une des 20 à 30 préposées travaillant à Sweet City. Le salon était ouvert tous les jours 24 heures sur 24, avec trois quarts de huit heures par jour. On y trouvait une salle de réception, une salle de bain avec douche, ainsi que six chambres de massage, dont une équipé d’une douche. Les salles de massage renfermaient chacune une table de massage, une chaise, une étagère portant des flacons d’huiles, des pots de pommades et de poudre, et de la literie propre, car la literie de la table devait être changée après chaque massage.
+[4] Les clients se présentaient au salon, choisissaient une préposée et décidaient les services qu’ils désiraient. Les frais étaient de 40 $ pour la demi-heure ou 70 $ pour une heure entière et l’on pouvait doubler cette somme pour un « massage double » effectué par deux préposées à la fois. Les frais étaient relativement supérieurs dans le cas de massages dansant et de spectacles de douche. Certains de ces services n’ont pas été décrits en détail.
+[5] Le client payait à la préposée de son choix les frais appropriés. Elle inscrivait à son tour la somme, le type de service et le nom du client dans un registre et mettait l’argent dans une enveloppe portant son nom ou son pseudonyme, ainsi que d’autres informations. L’enveloppe était déposée dans une ouverture menant à une boîte. La préposée tenait aussi son propre registre, dans lequel elle consignait le type de service, le nom du client et le prix.
+[6] Après que l’argent ait été payé, consigné et déposé, le client et la préposée se dirigeaient vers la chambre de massage où les services étaient rendus. La préposée devait nettoyer la salle de massage après chaque massage, changer la literie et enlever les déchets.
+[7] À la fin de la semaine, le total des recettes de chaque préposée était divisé en deux, moitié pour elle et moitié pour Sweet City. En outre, les préposées payaient à Sweet City 1 $ par massage pour le lavage de la literie.
+[8] Chaque semaine, les préposées décidaient combien de quarts de travail de huit heures elles travailleraient la semaine suivante. A a témoigné qu’elles n’étaient pas tenues de travailler un nombre minimum de quarts de travail. Quelques préposées ne réservaient qu’un quart de travail pour toute la semaine, alors que A réservait six quarts de travail et essayait de choisir des quarts de travail pendants des périodes de la journée où il y aurait probablement davantage de clients.
+[9] Il était d’usage à Sweet City de frapper d’amendes celles qui ne se présentaient pas pour le quart de travail qu’elles avaient réservé. Les amendes étaient de 200 $ si elles ne se présentaient pas la fin de semaine et de 100 $ pour une absence pendant la semaine.
+[10] La décision statuant que D occupait un emploi en vertu d’un contrat de louage de services se fondait sur un certain nombre d’hypothèses dont quelques‑unes reflètent les quatre volets du critère établi par l’arrêt Wiebe Door.
+[11] Le fait est que j’ai rarement vu des relations commerciales comportant moins d’indices caractéristiques d’un emploi que celle‑ci. J’estime que la décision du ministre est erronée. Il est clair qu’il s’agit en l’espèce d’une entreprise exploitée par les préposées, y compris D. Sweet City fournissait les locaux, la literie et certaines huiles et pommades et, dans ces locaux, les préposées se consacraient au commerce des massages exotiques récréatifs pour adultes. Pour ce privilège, elles versaient à Sweet City 50 p. 100 de leurs recettes.
+[12] L’arrêt de principe en la matière est l’arrêt récent de la Cour suprême du Canada, Sagaz Industries Canada Inc. et al. c. 671122 Ontario Limited [2001] CSC 59 [2001] 2 R.C.S. 983. L’extrait cité le plus souvent se trouve au paragraphe 47 de la décision :
+[…] Bien qu'aucun critère universel ne permette de déterminer si une personne est un employé ou un entrepreneur indépendant, je conviens avec le juge MacGuigan que la démarche suivie par le juge Cooke dans la décision Market Investigations, précitée, est convaincante. La question centrale est de savoir si la personne qui a été engagée pour fournir les services les fournit en tant que personne travaillant à son compte. Pour répondre à cette question, il faut toujours prendre en considération le degré de contrôle que l'employeur exerce sur les activités du travailleur. Cependant, il faut aussi se demander, notamment, si le travailleur fournit son propre outillage, s'il engage lui-même ses assistants, quelle est l'étendue de ses risques financiers, jusqu'à quel point il est responsable des mises de fonds et de la gestion et jusqu'à quel point il peut tirer profit de l'exécution de ses tâches.
+[13] Fondamentalement, l’arrêt Sagaz constitue la réaffirmation du critère proposé dans l’arrêt Wiebe Door Services Ltd. c. M.R.N., [1986] 3 C.F. 553 (87 DTC 5025). Chaque cas est unique et il n’existe pas de facteur déterminant obligatoire. La Cour doit examiner tous les facteurs et les pondérer les uns par rapport aux autres dans le cadre tout entier de l’affaire.
+[14] En l’espèce, deux facteurs particulièrement importants attirent notre attention : le premier est que l’appelant n’exerçait aucun contrôle sur les préposées. Ces dernières établissaient leur propre horaire de travail et choisissaient le nombre de quarts au cours desquels elles travailleraient. Elles avaient le droit d’accepter ou de rejeter leurs clients. L’appelant n’exerçait aucun contrôle sur la manière dont elles dispensaient leurs services et la nature de ces services. Il est vrai qu’elles devaient payer ce qui était qualifié d’amende si elles ne se présentaient pas pendant un quart qu’elles avaient réservé, mais je considère cette pénalité plutôt comme un genre d’indemnité qu’elles versaient à Sweet City pour la perte de l’occasion de réaliser les profits que la maison aurait pu gagner si la préposée s’était effectivement présentée. Cela n’indique pas la présence d’une relation d’employeur-employé.
+[15] L’une des hypothèses sur lesquelles se fondait la cotisation était que la préposée était supervisée par divers gérants ainsi que par l’appelant. Cette hypothèse est fausse. Nul ne la supervisait. Quant il était là, l’appelant ne faisait que veiller à la sécurité et surveiller l’échange de l’argent. En son absence, une des autres préposées s’asseyait au bureau pour répondre au téléphone et faire acte de réceptionniste.
+[16] A a témoigné que les préposées avaient le droit de se faire remplacer par quelqu’un de leur choix. J’ai trouvé que A était un témoin crédible et éloquent. La plus grande partie de la preuve qui fonde les présents motifs a été déposée par elle. Quant à l’appelant, il était, si j’ose le dire, suffisamment crédible, même si sa maîtrise de la langue anglaise laissait beaucoup à désirer. A a décrit la manière dont les choses se déroulaient à Sweet City tandis qu’elle y travaillait et elle a témoigné que le système était le même pour D, qu’elle connaissait et avec qui elle partageait certains quarts de travail à Sweet City.
+[17] L’avocat de l’intimé a fait valoir l’existence de quelques règles que les préposées devaient respecter : elles étaient insignifiantes. Il s’agit de règles qu’imposerait toute personne offrant des locaux à des commerçants pour y exploiter leur entreprise, notamment l’interdiction du tabac et de la drogue. Il n’y avait certainement pas le type de contrôle exercé exclusivement par les employeurs. Certaines des « règles » que l’intimé avait présumées dans ses hypothèses n’existaient simplement pas. Bref, en matière de contrôle, il n’y en avait pas du tout.
+[18] Un autre facteur essentiel concerne les chances de profit ou le risque de pertes. Une préposée pouvait bien se présenter au salon pendant un quart de travail qu’elle avait réservé sans qu’aucun client ne se présente ou la choisisse, auquel cas elle ne gagnait rien. Et si elle était prête à faire six quarts de travail par semaine et était choisie par un certain nombre de clients, nouveaux ou réguliers, elle pouvait gagner davantage. De plus, elle avait la possibilité de dispenser chez elle des services à la clientèle.
+[19] Clairement, en utilisant les termes cités par l’honorable juge Major dans l’arrêt Sagaz, la préposée dispensait ses services « en tant que personne travaillant à son compte. » Il ne semble y avoir aucun indice de relation d’emploi.
+[20] La relation entre les préposées et Sweet City est simplement une relation commerciale, dans laquelle chaque partie contribue à l’entreprise ses talents ou ses biens particuliers. Chacune avait la possibilité de réaliser des profits si les affaires étaient bonnes; chacune courait le risque de perte si les affaires baissaient. L’appelant fournissait les locaux; la préposée dispensait les services et elle payait 50 p. 100 de ses recettes brutes pour le privilège d’utiliser ces locaux. Il existait une relation de partage des profits entre des commerçants. On peut établir avec les sociétés de personnes et les coentreprises une analogie significative, quoique imparfaite. Il s’agissait d’une relation mutuellement bénéfique. Les activités des préposées ou des masseuses sont d’une nature essentiellement et typiquement indépendante. Il ne s’agit certainement pas d’une relation d’employeur-employé.
+[21] Il reste un point que je voudrais mentionner. D et Sweet City ont conclu un contrat écrit qui prévoit, entre autres, que [traduction] « Il est également reconnu que la masseuse est une entrepreneure indépendante et non pas une employée de Sweet City. » Puisque j’ai conclu que D était clairement une entrepreneure indépendante et aucunement une employée, alors il n’est pas nécessaire d’invoquer cette disposition. Cependant, ces stipulations contractuelles doivent être traitées avec prudence pour plusieurs raisons :
+a) la qualification d’une relation comme résultat d’un contrat de louage de services ou comme résultat d’un contrat d’entreprise est une question de fait et de droit qui dépend de plusieurs facteurs. La qualification donnée par les parties à leur relation n’est pas déterminante.
+b) Pour que la Cour accorde quelque valeur aux déclarations des parties au sujet de leur relation, elle doit être convaincue que les parties comprennent ce à quoi elles ont convenu. Cela présuppose une capacité raisonnable de reconnaître les différences juridiques et factuelles entre ces deux types de relation. La décision dans l’arrêt Sagaz illustre le degré d’incertitude qui prévaut en la matière : la Cour suprême du Canada a tiré dans cette affaire une conclusion totalement opposée à celle des trois juges de la Cour d’appel de l’Ontario (les juges d’appel Catzman, Borins et Sharpe) (46 O.R. 3rd 760). Si un tel degré de doute existe à ce niveau, il est facile d’imaginer combien difficile il peut être pour un tribunal de déceler, parmi les termes d’un contrat écrit, l’accord de volontés entre deux personnes qui peut lui apporter un secours appréciable pour résoudre la question.
+c) Dans l’arrêt Wolf c. La Reine, [2002] C.A.F., no A‑865‑91, 20 octobre 1992 (2002 DTC 6853), trois juges de la Cour d’appel fédérale ont statué dans trois motifs distincts que l’intention des parties figurant dans le contrat peut être un facteur décisif, dans le cadre d’une affaire conclue sous le régime du Code civil du Québec. Le juge d’appel Noël a dit à la page 6870 :
+[122] J'accueillerais aussi l'appel. À mon avis, il s'agit d'un cas où la qualification que les parties ont donnée à leur relation devrait se voir accorder un grand poids. Je reconnais que la façon dont les parties décident de décrire leur relation n'est pas habituellement déterminante, en particulier lorsque les critères juridiques applicables pointent dans l'autre direction. Mais, dans une issue serrée comme en l'espèce, si les facteurs pertinents pointent dans les deux directions avec autant de force, l'intention contractuelle des parties et en particulier leur compréhension mutuelle de la relation ne peuvent pas être laissées de côté.
+[22] Comme je l’ai mentionné antérieurement, sans égard aux conditions du contrat, il est clair que D faisait commerce et n’était pas une employée.
+[23] Les appels sont accueillis et les décisions selon lesquelles D occupait un emploi assurable et ouvrant droit à pension pendant la période en cause sont annulées et remplacées par la décision selon laquelle D n’occupait pas d’emploi assurable ni ouvrant droit à une pension pendant la période en cause.
+Signé à Ottawa, Canada, ce 8e jour d’avril 2004.
+« D. G. H. Bowman »
+J.C.A. Bowman
+Traduction certifiée conforme
+ce 29e jour de juillet 2004.
+Ingrid B. Miranda, traductrice

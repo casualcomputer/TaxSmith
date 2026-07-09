@@ -1,0 +1,88 @@
+Title: Walker v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27227/index.do
+Corpus path: corpus/cases/tcc/2006/2006-cci-673-27227-walker-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2006-12-06
+
+# Walker v. The Queen
+
+- Citation: 2006 CCI 673
+- Decision date: 2006-12-06
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 833, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Walker v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-12-06
+Référence neutre
+2006 CCI 673
+Numéro de dossier
+2004-3495(IT)G
+Juges et Officiers taxateurs
+David W. Beaubier
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Référence : 2006CCI673
+Date : 20061206
+Dossier : 2004‑3495(IT)G
+ENTRE :
+JAMES WALKER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+________________________________________________________________
+Requête entendue le 5 décembre 2006,
+à Vancouver (Colombie‑Britannique).
+Devant : L'honorable juge D. W. Beaubier
+Comparutions :
+Avocat de l'appelant :
+Me Thomas M. Boddez
+Avocate de l'intimée :
+Me Lynn M. Burch
+________________________________________________________________
+MOTIFS DE L'ORDONNANCE ET ORDONNANCE
+Le juge Beaubier
+[1] La présente requête, présentée par l'intimée en date du 19 novembre 2004, a été entendue à Vancouver (Colombie‑Britannique) le 5 décembre 2006. Il s'agit d'une requête en rejet de l'avis d'appel, parce que l'appelant n'a pas déposé en temps opportun une opposition à l'avis de nouvelle cotisation.
+[2] L'affidavit de Kasandra Sproson, la gestionnaire de l'intimée à l'égard des services des T1 au cours de la période pertinente, lequel est daté du 19 novembre 2004, et l'interrogatoire de l'auteur de l'affidavit le 30 mars 2006 ont été revus en profondeur.
+[3] Ces éléments de preuve indiquent ce qui suit :
+1. Parmi le personnel de l'intimée, personne n'a été en mesure de témoigner que le prétendu avis de nouvelle cotisation avait bien été glissé dans une enveloppe et expédié par la poste à l'appelant le 13 mai 2002, comme l'affirme l'intimée. L'appelant ne l'a pas reçu.
+2. Cette enveloppe envoyée par courrier recommandé et son prétendu contenu ont été détruits à leur retour à l'intimée, avant la fin du mois de mai 2002.
+3. Ce présumé avis de nouvelle cotisation original n'est pas déposé en preuve.
+[4] Un avis de nouvelle cotisation effectif, en date du 13 mai 2002, a été transmis à l'avocat de l'appelant le 30 octobre 2003, et un avis d'opposition a été déposé par la partie intimée en temps opportun.
+[5] En conséquence, l'avis d'appel déposé en l'espèce est un avis d'appel valide.
+[6] La requête est rejetée. Les dépens suivront l'issue de la cause.
+Signé à Vancouver (Colombie‑Britannique), ce 6e jour de décembre 2006.
+« D. W. Beaubier »
+Le juge Beaubier
+Traduction certifiée conforme
+ce 1er jour d'août 2007.
+Yves Bellefeuille, réviseur
+RÉFÉRENCE : 2006CCI673
+Nº DU DOSSIER DE LA COUR : 2004‑3495(IT)G
+INTITULÉ DE LA CAUSE : James Walker c. La Reine
+LIEU DE L'AUDIENCE : Vancouver (Colombie‑Britannique)
+DATE DE L'AUDIENCE : Le 5 décembre 2006
+MOTIFS DE L'ORDONNANCE PAR : L'honorable juge D. W. Beaubier
+DATE DE L'ORDONNANCE : Le 6 décembre 2006
+COMPARUTIONS :
+Avocat de l'appelant :
+Me Thomas M. Boddez
+Avocate de l'intimée :
+Me Lynn M. Burch
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelant :
+Nom : Me Thomas M. Boddez
+Étude : Thorsteinssons LLP
+Pour l'intimée : John H. Sims, c.r.
+Sous‑procureur général du Canada
+Ottawa, Canada

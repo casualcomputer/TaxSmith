@@ -1,0 +1,446 @@
+---
+title: "Beavies v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28506/index.do"
+last_modified: "2008-02-25"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 TCC 94"
+citation2: ""
+neutral_citation: "2008 TCC 94"
+decision_date: "2008-02-25"
+language: "en"
+item_id: "28506"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1271
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T00:30:13.059000+00:00"
+cases_cited_count: 2
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "072314a669a3debace879944ce6e074c7c8ad1adece472f74594d916de80f89d"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Beavies v. The Queen
+
+- Citation: 2008 TCC 94
+- Decision date: 2008-02-25
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1271, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Beavies v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-02-25
+Neutral citation
+2008 TCC 94
+File numbers
+2006-2938(IT)I
+Judges and Taxing Officers
+Wyman W. Webb
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2006-2938(IT)I
+BETWEEN:
+CARL A. BEAVIES,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on January 29, 2008, at Halifax, Nova Scotia.
+Before: The Honourable Justice Wyman W. Webb
+Appearances:
+Counsel for the Appellant:
+C. Lorway Gosse, Jr.
+Counsel for the Respondent:
+Lindsay D. Holland
+____________________________________________________________________
+JUDGMENT
+The appeal is allowed, without costs, and the matter is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the Appellant’s income for 1999, 2000, 2001 and 2002 is as follows:
+1999 – $7,572
+2000 - $7,926
+2001 - $8,128
+2002 - $5,673
+The penalties assessed under subsection 163(2) of the Income Tax Act for 1999 and 2000, are to be reduced to $100 for 1999 and $100 for 2000.
+Signed at Halifax, Nova Scotia, this 25th day of February 2008.
+“Wyman W. Webb”
+Webb J.
+Citation: 2008TCC94
+Date: 20080225
+Docket: 2006-2938(IT)I
+BETWEEN:
+CARL A. BEAVIES,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Webb J.
+[1] The Appellant's income tax liability for the taxation years 1999, 2000, 2001 and 2002 has been assessed based on a net worth analysis prepared by the Canada Revenue Agency. As well, gross negligence penalties have been assessed in relation to the tax assessed for 1999 and 2000. The net worth analysis in this case is unusual, because, except for a lump sum addition of $10,000 in 2000, it is based only on estimated personal expenditures. There are no assets listed as assets of the Appellant at the beginning of the period under review and there are no assets of the Appellant (other than $10,000 in cash included as an asset at the end of 2000) that are listed as his assets at the end of any of the years under appeal. The Appellant disputes all of the amounts used in the net worth analysis and the assessment of penalties.
+[2] Attached as Schedule “A” to the Reply, is a list of the estimated personal expenditures of the Appellant for 1999, 2000, 2001 and 2002 by various categories. For most of the expenditures the amount used is a Statistics Canada average amount for a single person. The Canada Revenue Agency, in preparing this schedule of estimated personal expenditures, did take into account certain personal circumstances of the Appellant. For example, since there were no known recreational vehicles, no amount was included for recreational vehicles and since the Appellant did not own any real property, no amount was included for property taxes.
+[3] Copies of unsigned tax returns of the Appellant were submitted as Exhibits. The return for 1999 was prepared by A Plus Tax Services. Although the Appellant did not recall filing these returns, I am satisfied, on a balance of probabilities, that these returns were filed by the Appellant or on his direction. In 1999, the Appellant reported income of $1 and in 2000 the Appellant did not report any income.
+[4] In November of 2001, the Appellant was detained at the airport in Toronto, along with two other individuals. The Appellant, and each of the other two individuals, had significant amounts of cash. At the hearing, the Appellant indicated that he thought the amount was around $17,000. The officer who detained the Appellant in Toronto testified during the hearing and she confirmed that the amount of cash that was seized from the Appellant was $19,640.
+[5] At the hearing the Appellant testified that all of the money that had been seized from him at the airport had been given to him by Paul Yue, another individual in Halifax. The Appellant stated that he and the other two individuals had each been given approximately the same amount of money and were being sent to Toronto to purchase vehicles for Paul Yue. After the Appellant was detained, the Appellant told the detaining officer that he had sold two vehicles, one for $8,000 and the other for $2,000, and that the balance of the money had been given to him by the Appellant’s uncle, Daryl Downey.
+[6] The detaining officer described her conversation with Paul Yue. She indicated that an individual who identified himself as Paul Yue contacted her with respect to the funds that had been seized. He indicated to her that he ran a car dealership in Halifax, Nova Scotia. Paul Yue told her that he gave approximately $38,000 to all three individuals to purchase vehicles. He also told her that as part of his business he would purchase vehicles at wholesale for $1,200 to $1,500 each, fix the vehicles, and sell them for approximately $2,000 to make a profit. It does not seem logical that an individual, who is in the business of buying vehicles for $1,200 to $1,500 per vehicle, would give three individuals $38,000 (which would be $12,667 each) to buy a vehicle in Toronto and then drive it back to Nova Scotia so that the individual could fix it up and then sell it for $2,000. Paul Yue did not testify at this hearing.
+[7] The cash that was seized at the Toronto airport was also discussed by Langdon J. of the Ontario Court of Justice in Her Majesty the Queen v. James West, Carl Beavies and Aldon Johnson, [2004] O.J. No. 3243. The facts related to the seizure of the cash are described in that case as follows:
+2 On November 5, 2001 the three respondents arrived at Toronto-Pearson International Airport from Halifax, Nova Scotia. As they disembarked from the aircraft, a police drug dog, Bandit, in the custody of R.C.M.P. constable Nixon, displayed an interest in Johnson. Johnson behaved very nervously. As Constables Nixon and Kennedy discussed the situation, Johnson continued to display an obvious interest.
+3 The three respondents, each with a carry-on bag, walked together and conversed as they proceeded to the baggage claim area. They were followed by Nixon, Kennedy and Bandit and four other R.C.M.P. officers. Kennedy noted that Johnson turned and gazed at him on 14 occasions during this journey and that Beavies did so six times.
+4 As they approached the exit gate, police detained the three men. Their investigation revealed that Johnson was carrying $18,350.00, West, $23,455.00 and Beavies, $19,640.00, all in cash, the vast majority of it in $20.00 bills. The total amount of cash in possession of the three men was $61,445.00. It is that cash that was the subject of the forfeiture hearing before Spadafora J.P.
+5 All three respondents provided explanations for their possession of the money that were highly improbable, inconsistent and/or conflicting. Subsequent investigation of collateral sources disclosed that the explanations were almost certainly false.
+6 Each respondent had a criminal record that included a conviction for drug trafficking. Between the seizure of the cash and the forfeiture hearing, all three respondents were arrested in the course of a major drug investigation in Halifax. In that investigation, 513 grams of crack cocaine was seized from Beavies' home, Johnson was alleged to have sold one ounce of crack and West, four ounces.
+7 Information obtained from C.C.R.A. by warrant disclosed that from 1996 to 2002, West and Johnson had not declared income. In the same period, Beavies had reported welfare income totaling $8,709.00 in 1996 and 1997, T-4 earnings of $3,650.00 in 1998 and nothing since. All three had consistently received GST rebate cheques for the years in question.
+8 The day following the seizure of the money, one Yue, an auto broker from Halifax, called R.C.M.P. to report that he had sent the three men to Toronto to buy vehicles for him for re-sale. He claimed that the cash in their possession was his. None of the respondents ever proffered an explanation for possession that was consistent with Yue's. Investigation of Mr. Yue's claim proved that it, too, was false.
+[8] The decision of Langdon J. was appealed to the Ontario Court of Appeal who described the facts as follows:
+[4] The facts underlying this appeal are contained in the affidavit of Constable Frank Mauti. While the admissibility of almost all of that affidavit is contested, for the purposes of this appeal, the following suffices. On November 5, 2001, West, Beavis, and Johnson arrived in Toronto's Lester B. Pearson airport from Halifax each carrying one carry-on bag. As they walked from the gate towards the baggage claim, they passed R.C.M.P. officers and a police dog. Apparently, all three looked nervous. The dog sniffed Johnson's pocket. Each of the Appellants was asked certain questions and gave certain answers that led to the Appellants allegedly agreeing to have their carry-on bags searched. No illegal substances were discovered. However, each had approximately $20,000 in cash, mostly in twenty-dollar bills. They offered explanations for having the money that the application appeal judge, Langdon J., characterized as "highly improbable, inconsistent and/or conflicting" (at para. 5). The officers did not accept the explanations and seized the $61,445 in cash without a warrant.
+[5] The income tax returns of the Appellants appeared to indicate that they would have had no way of accumulating such sums.
+[6] West, Beavies, and Johnson were never charged with an offence related to the funds.
+[7] On February 5, 2003, the Crown applied to the Ontario Court of Justice for an order for forfeiture under s. 490(9) of the Criminal Code. The Crown's position was that the Appellants were couriers bringing money obtained through crime from Halifax to Toronto for laundering. The details of the incident were contained in the affidavit of Const. Mauti, the proceeds of crime investigator assigned to the file.
+[9] Because the Appellant had indicated to the detaining officer that $10,000 of the funds that had been seized belonged to the Appellant (from the sale of two vehicles), this amount of $10,000 was included in the net worth analysis and treated as an asset of the Appellant. It should be noted, however, that the theory of the Crown as noted in the summary of the facts as set out in the decision of the Ontario Court of Appeal referred to above was that the three individuals (of whom one was the Appellant) were the couriers of the money to Toronto.
+[10] Although the funds were seized in November 2001, the $10,000 was added to the Appellant's 2000 income. The only explanation provided for adding it to the Appellant's 2000 income was provided by the auditor for the Canada Revenue Agency who stated that:
+In 2000 the opening net worth was zero because that was the closing net worth for 1999. However, in 2000 I assessed ten thousand dollars and that relates to funds that were seized from Mr. Beavies when he was detained at the Pearson Airport in Toronto in November of 2001.
+I assessed it in 2000 because that was the only return that he had filed at that time that would give rise to him acquiring an asset of cash. So I included it there and then it would have been deducted off in 2001 when the funds were seized. It would be considered a loss.
+[11] In the tax return that was filed for 2000, the Appellant did not report any income so it is not clear how “this return could give rise to the Appellant acquiring cash”. As well, the Canada Revenue Agency assumed that the Appellant had income in each of the four years under appeal and assumed that the Appellant had income (before taking into account the seized cash) of $18,125.52 for 2001 and $17,794.79 for 2000. Since the basis for the net worth assessments was an estimate of the amounts spent by the Appellant on various items, the assumption was that the Appellant spent all of the money that he made. As a result, there does not appear to be any logical basis for adding the amount seized in November of 2001 to the Appellant’s 2000 income. Since the only reason that the $10,000 was added to the Appellant’s income for 2000 is that it was assumed to have been earned in 2000 without a logical basis for this assumption, it should not have been added to his income for 2000. Since adding the amount to the Appellant’s 2001 income (which would be the year in which the cash was seized) would result in an increase in the assessment for 2001, I am unable to add this amount to his income for 2001.
+[12] Justice Hamlyn in the case of Valdis, [2001] 1 C.T.C. 2827, stated the following in paragraph 21:
+21 In Millette c. R., Judge Lamarre Proulx reaffirmed that this Court cannot entertain an appeal that contemplates increasing an Appellant's tax liability. She stated at paragraph 72:
+It is accepted in the case law that this Court cannot increase the amount of the Minister's assessment because that would be tantamount to the Minister appealing the assessment, which he cannot do. The Minister cannot appeal his own assessment: Harris v. M.N.R., 64 DTC 5332, at p. 5337; Shiewitz v. M.N.R., 79 DTC 340, at p. 342; and Abed v. The Queen, 82 DTC 6099, at p. 6103. (emphasis added by Hamlyn J.)
+[13] Since I am unable to add the $10,000 to the Appellant’s income for 2001, there is no need to consider whether the Appellant would have been entitled to a deduction in 2001 because this money was seized. Bowman C.J., in Francis v. Her Majesty the Queen 2007 TCC 323, 2007 D.T.C. 903, made the following comments in relation to funds that were forfeited:
+17 In this case the difficulty was compounded by at least one red herring. There was the forfeiture of the funds by court order in 2006. If the money did not belong to the appellant and did not arise from any business activity (legal or illegal) carried on by him the forfeiture really has nothing to do with the appellant and is irrelevant to this case. If the $24,000 did arise from a business carried on by the appellant, the forfeiture is equally irrelevant because it does not reduce the appellant's income. In Neeb v. R. (1997), 97 D.T.C. 895 (T.C.C.), the following was said:
+29 Here we are dealing not with a penalty but with the forfeiture of a portion of the appellant's inventory. There can be doubt that the cost of inventory is an expense made or incurred to produce income and would normally be deductible in computing income in the way in which the cost of inventory is deductible, as a part of the cost of goods sold. As stated above, the loss of goods in inventory would reduce the closing inventory and increase the cost of goods sold. I am therefore faced squarely with the issue of public policy. The question whether the forfeiture of drugs to the authorities is “an unavoidable incident of carrying on the business” is susceptible of different answers in the context of a case such as this one, depending on one's point of view. Forfeiture is an unavoidable consequence of getting caught.
+30 The question of avoidability is not germane here. Mr. Neeb did get caught and his marihuana and hashish were seized. I can see no reason why the Canadian public should be expected to subsidize a drug dealer's loss through forfeiture of illegal drugs, by allowing him to write-off the cost of drugs so forfeited, even if that cost had been established. If public policy has any role in fiscal matters it must deny such a claim.
+2. The seizure of cash. Apart from considerations of public policy there is, however a further reason for denying the deduction. This is simply a disposition of income, albeit involuntary, after it had been earned. The principle is well settled: Mersey Docks and Harbour Board v. Lucas (1883) 8 App. Cas. 891, followed in Fourth Conservancy Board v. IRC, [1931] A.C. 540 and in Woodward's Pension Society v. Minister of National Revenue, 59 D.T.C. 1253 at 1261, aff'd 62 DTC 1002 at 1004.
+See also Svidal v. R. (1994), [1995] 1 C.T.C. 2692 (T.C.C.).
+18 On reflection, I am inclined to question, based on the Supreme Court of Canada decision in 65302 British Columbia Ltd. v. R. (1999), 99 D.T.C. 5799 (Eng.) (S.C.C.), whether my reliance on public policy considerations was as well founded as I evidently thought it was when I wrote Neeb.
+[14] Since the amount of $10,000 for the cash seized in Toronto is not added to the Appellant’s income for 2000 or 2001, there is also no need to consider whether this cash belonged to the Appellant.
+[15] In addition to receiving notice of the large amount of cash seized from the Appellant, the Canada Revenue Agency also noted the Appellant's convictions for trafficking in cocaine. The Appellant has three convictions for trafficking in cocaine. The dates for the offenses range from June 4, 2002 to July 25, 2002. As a result of the Appellant's convictions, he was incarcerated on September 6, 2002 and spent the balance of 2002 in prison. When the net worth was originally completed, no reduction in the assumed expenditures was made for the time while he was incarcerated. An adjustment was made for the period of incarceration by the appeals officer.
+[16] The Canada Revenue Agency also noted that the business name “Carl Beavies Associates [sic] Jewellry Sales” was registered with the Registry of Joint Stock Companies for Nova Scotia on June 5, 2002. The person identified as the sole proprietor of this business was Carl Beavies and the address was 2414 Creighton Street in Halifax. This was the same address that the Appellant gave to the detaining officer in Toronto as his address and the same address listed by the Appellant in his 1999 and 2000 tax returns. The Appellant denied that he had registered this business name. In any event, the name was registered only a short time before the Appellant was arrested for trafficking in cocaine and then incarcerated, so if the Appellant had a jewellery business, it did not last long.
+[17] After the Appellant was released from prison, the Appellant found a job and is now working as a labourer for a construction company.
+[18] The Appellant testified that throughout the years under appeal, he did not have any money; he did not earn any income; and he did not incur any expenditures. He indicated that he was living with Tami Reid in 1999 and after that with Michelle Jollimore. The Appellant indicated that when he was living with Tami Reid that she looked after all the expenditures for the household and she would give him cash and when he was living with Michelle Jollimore she looked after all of the expenditures for the household and she would give him cash. Michelle Jollimore also testified. Tami Reid did not testify. In the Appellant’s 1999 and 2000 income tax returns, he indicated that he was single. He did not indicate that he had a common law spouse. The Appellant and Michelle Jollimore have a son who was born in December of 2002.
+[19] Michelle Jollimore testified that during the time that the Appellant was living with her, she paid the rent and the related household expenditures. Michelle Jollimore testified that in 1999 when she was employed at Maritime Life she made approximately $800 every two weeks, which would be approximately $20,800 annually. In 2000, she started hairdressing and she stated that she made about $2,000 a month, which would be approximately $24,000 per year.
+[20] The auditor for the Canada Revenue Agency testified that according to the records of the Canada Revenue Agency, Michelle Jollimore’s reported income for these years was as follows:
+1999 - $9,383
+2000 - $11,517
+2001 - $6,310
+2002 - $16,232
+[21] The amounts of income as reported do not correspond to the amounts as stated by Michelle Jollimore, however it is not her income that is the subject of this appeal. The relevance of her income is whether she was making enough money to support both herself and the Appellant. The levels of reported income for 2000 and 2001 suggest that the Appellant must have been making at least some financial contribution as there were two of them living in the household. The Appellant was living with Tami Reid in 1999 and not with Michelle Jollimore. Therefore Michelle Jollimore’s income for 1999 is not relevant. While Tami Reid’s income for 1999 while the Appellant was living with her would be relevant, there was no evidence of Tami Reid’s income for 1999.
+[22] When the Appellant was contacted by the auditor for the Canada Revenue Agency about his income for these years, he chose to not cooperate and hence left the Canada Revenue Agency with no alternative but to assess the Appellant based on a net worth analysis. The Appellant provided little or no input into the amounts used in the net worth analysis. As a result the net worth analysis (and hence the resulting assessments) are based on various assumptions made by the Minister with respect to the personal expenditures incurred by the Appellant in 1999, 2000, 2001 and 2002.
+[23] In Hickman Motors Ltd. v. Her Majesty the Queen, [1997] S.C.J. No. 62, L’Heureux-Dubé J. of the Supreme Court of Canada made the following comments in relation to an Appellant's onus of “demolishing” the Minister’s assumptions:
+92 It is trite law that in taxation the standard of proof is the civil balance of probabilities: Dobieco Ltd. v. Minister of National Revenue, [1966] S.C.R. 95 (S.C.C.), and that within balance of probabilities, there can be varying degrees of proof required in order to discharge the onus, depending on the subject matter: Continental Insurance Co. v. Dalton Cartage Ltd., [1982] 1 S.C.R. 164 (S.C.C.); Pallan v. Minister of National Revenue (1989), 90 D.T.C. 1102 (T.C.C.) at p. 1106. The Minister, in making assessments, proceeds on assumptions (Bayridge Estates Ltd. v. Minister of National Revenue (1959), 59 D.T.C. 1098 (Can. Ex. Ct.), at p. 1101) and the initial onus is on the taxpayer to “demolish” the Minister's assumptions in the assessment (Johnston v. Minister of National Revenue, [1948] S.C.R. 486 (S.C.C.); Kennedy v. Minister of National Revenue (1973), 73 D.T.C. 5359 (Fed. C.A.), at p. 5361). The initial burden is only to “demolish” the exact assumptions made by the Minister but no more:First Fund Genesis Corp. v. R. (1990), 90 D.T.C. 6337 (Fed. T.D.), at p. 6340.
+93 This initial onus of “demolishing” the Minister's exact assumptions is met where the Appellant makes out at least a prima facie case: Kamin v. Minister of National Revenue (1992), 93 D.T.C. 62 (T.C.C.); Goodwin v. Minister of National Revenue (1982), 82 D.T.C. 1679 (T.R.B.). In the case at bar, the Appellant adduced evidence which met not only a prima facie standard, but also, in my view, even a higher one. In my view, the Appellant “demolished” the following assumptions as follows: (a) the assumption of “two businesses”, by adducing clear evidence of only one business; (b) the assumption of “no income”, by adducing clear evidence of income. The law is settled that unchallenged and uncontradicted evidence “demolishes” the Minister's assumptions: see for example MacIsaac v. Minister of National Revenue (1974), 74 D.T.C. 6380 (Fed. C.A.), at p. 6381; Zink v. Minister of National Revenue (1987), 87 D.T.C. 652 (T.C.C.). As stated above, all of the Appellant's evidence in the case at bar remained unchallenged and uncontradicted. Accordingly, in my view, the assumptions of “two businesses” and “no income” have been “demolished” by the Appellant.
+94 Where the Minister's assumptions have been “demolished” by the Appellant, “the onus shifts to the Minister to rebut the prima facie case” made out by the Appellant and to prove the assumptions: Magilb Development Corp. v. Minister of National Revenue (1986), 87 D.T.C. 5012 (Fed. T.D.), at p. 5018. Hence, in the case at bar, the onus has shifted to the Minister to prove its assumptions that there are “two businesses” and “no income”.
+95 Where the burden has shifted to the Minister, and the Minister adduces no evidence whatsoever, the taxpayer is entitled to succeed: see for example MacIsaac, supra, where the Federal Court of Appeal set aside the judgment of the Trial Division, on the grounds that (at pp. 6381-2) the “evidence was not challenged or contradicted and no objection of any kind was taken thereto”. See also Waxstein v. Minister of National Revenue (1980), 80 D.T.C. 1348 (T.R.B.); Roselawn Investments Ltd. v. Minister of National Revenue (1980), 80 D.T.C. 1271 (T.R.B.). Refer also to Zink v. Minister of National Revenue, supra, at p. 653, where, even if the evidence contained “gaps in logic, chronology and substance”, the taxpayer's appeal was allowed as the Minster failed to present any evidence as to the source of income. I note that, in the case at bar, the evidence contains no such “gaps”. Therefore, in the case at bar, since the Minister adduced no evidence whatsoever, and no question of credibility was ever raised by anyone, the Appellant is entitled to succeed.
+96 In the present case, without any evidence, both the Trial Division and the Court of Appeal purported to transform the Minister's unsubstantiated and unproven assumptions into “factual findings”, thus making errors of law on the onus of proof. My colleague Iacobucci J. defers to these so-called “concurrent findings” of the courts below, but, while I fully agree in general with the principle of deference, in this case two wrongs cannot make a right. Even with “concurrent findings”, unchallenged and uncontradicted evidence positively rebuts the Minister's assumptions: MacIsaac, supra. As Rip T.C.J., stated in Gelber v. Minister of National Revenue (1991), 91 D.T.C. 1030 (T.C.C.), at p. 1033, “[the Minister] is not the arbiter of what is right or wrong in tax law”. As Brulé T.C.J., stated in Kamin, supra, at p. 64:
+the Minister should be able to rebut such [prima facie] evidence and bring forth some foundation for his assumptions.
+…
+The Minister does not have a carte blanche in terms of setting out any assumption which suits his convenience. On being challenged by evidence in chief he must be expected to present something more concrete than a simple assumption. [Emphasis added by L’Heureux Dubé J. ]
+[24] The net worth method of determining a taxpayer’s income was described by Bowman J. (as he then was) in Bigayan v. Canada, [2000] 1 C.T.C. 2229, 2000 D.T.C. 1619 as follows:
+2 The net worth method, as observed in Ramey v. R. (1993), 93 D.T.C. 791 (T.C.C.), is a last resort to be used when all else fails. Frequently it is used when a taxpayer has failed to file income tax returns or has kept no records. It is a blunt instrument, accurate within a range of indeterminate magnitude. It is based on an assumption that if one subtracts a taxpayer's net worth at the beginning of a year from that at the end, adds the taxpayer's expenditures in the year, deletes non-taxable receipts and accretions to value of existing assets, the net result, less any amount declared by the taxpayer, must be attributable to unreported income earned in the year, unless the taxpayer can demonstrate otherwise. It is at best an unsatisfactory method, arbitrary and inaccurate but sometimes it is the only means of approximating the income of a taxpayer.
+3 The best method of challenging a net worth assessment is to put forth evidence of what the taxpayer's income actually is. A less satisfactory, but nonetheless acceptable method is described by Cameron J. in Chernenkoff v. Minister of National Revenue (1949), 4 D.T.C. 680 (Can. Ex. Ct.) at 683:
+In the absence of records, the alternative course open to the Appellant was to prove that even on a proper and complete “net worth” basis the assessments were wrong.
+4 This method of challenging a net worth assessment is accepted, but even after the adjustments have been completed one is left with the uneasy feeling that the truth has not been fully uncovered. Tinkering with an inherently flawed and imperfect vehicle is not likely to perfect it.
+[25] Counsel for the Respondent stated that the net worth assessment was completed as a result of the authority granted to the Minister pursuant to subsection 152(7) of the Income Tax Act, which provides that:
+(7) The Minister is not bound by a return or information supplied by or on behalf of a taxpayer and, in making an assessment, may, notwithstanding a return or information so supplied or if no return has been filed, assess the tax payable under this Part.
+[26] In Hsu v. Her Majesty the Queen, 2001 FCA 240, the taxpayer was assessed pursuant to subsection 152(7) of the Income Tax Act and the Federal Court of Appeal stated that:
+15 Since the appellant failed to adduce any evidence contradicting the Minister's assumptions, the Tax Court judge found that he had been in receipt of undeclared income and upheld the reassessments.
+…
+22 …Subsection 152(8) grants a presumption of validity to these assessments and places the initial onus upon the taxpayer to disprove the state of affairs assumed by the Minister (Dezura v. M.N.R. (1947), 3 D.T.C. 1101 at 1102 (Ex. Ct.)). Notwithstanding the fact that such an assessment is "arbitrary", the Minister is obliged to disclose the precise basis upon which it has been formulated (Johnston v. M.N.R. (1948), 3 D.T.C. 1182 at 1183 (S.C.C.)). Otherwise, the taxpayer would be unable to discharge his or her initial onus of demolishing the "exact assumptions made by the Minister but no more" (Hickman Motors Ltd. v. The Queen (1997), 97 D.T.C. 5363 at 5376 (S.C.C.)).
+…
+33 …In Dezura, supra at 1103-1104, the President of the Exchequer Court of Canada explained:
+The object of an assessment is the ascertainment of the amount of the taxpayer's taxable income and the fixation of his liability in accordance with the provisions of the Act. If the taxpayer makes no return or gives incorrect information either in his return or otherwise he can have no just cause for complaint on the ground that the Minister has determined the amount of tax he ought to pay provided he has a right of appeal therefrom and is given an opportunity of showing that the amount determined by the Minister is incorrect in fact. Nor need the taxpayer who has made a true return have any fear of the Minister's power if he has a right of appeal. The interests of the revenue are thus protected with the rights of the taxpayers being fully maintained. Ordinarily, the taxpayer knows better than any one else the amount of his taxable income and should be able to prove it to the satisfaction of the Court. If he does so and it is less than the amount determined by the Minister, then such amount must be reduced in accordance with the finding of the Court. If, on the other hand, he fails to show that the amount determined by the Minister is erroneous, he cannot justly complain if the amount stands. If his failure to satisfy the Court is due to his own fault or neglect such as his failure to keep proper account or records with which to support his own statements, he has no one to blame but himself.
+[27] I do not accept that the Appellant did not have any income or any money in any of the years under appeal. There is a large amount of unexplained cash seized at the Toronto airport and the convictions for trafficking in cocaine indicate that he was selling drugs and therefore had a source of income. As well the levels of income reported by Michelle Jollimore for 2000 and 2001 were less than $12,000 per year and suggest that since there were two of them living in the one household, that the Appellant was making a financial contribution. However ascertaining the exact amount of the Appellant's income for each of these years is an impossible task. It is, however, the Appellant’s tax liability under Part I (which is based on his income) that is to be assessed. Since the Appellant has no record of his income, it is necessary to try to determine, as accurately as possible in the circumstances, the estimate of his income based on a net worth analysis that takes into account the Appellant’s personal circumstances and life style.
+[28] The Canada Revenue Agency, in preparing the net worth assessment, acknowledged that not all amounts for which there are Statistics Canada averages are applicable to the Appellant. It therefore seems to me that an adjustment should be made for any of the items that are based on Statistics Canada average amounts and for which the Appellant has made out at least a prima facie case that such items do not apply to him as the amounts used by the Respondent are based on assumptions using Statistics Canada averages with respect to the amounts spent on various items by a single person.
+[29] Several items that have been included in the net worth assessment are not applicable to the Appellant. In particular, the amounts used for rental charges for the years range from $4,800 - $5,100. This is based only on an assumption of rents paid by a single person. Michelle Jollimore testified that she was living in a co-op apartment with the Appellant. The rent that she was paying was based on her income. Her rent was $196 a month, which would only be $2,352 per year. She and the Appellant stated that she paid the rent and not the Appellant. She and the Appellant also testified that she paid for all of the expenditures related to the accommodations including the rent, maintenance and repairs, insurance and water, fuel and electricity.
+[30] Michelle Jollimore stated that the Appellant moved in with her in February of 2000 and lived with her throughout the balance of the years under appeal, until the Appellant was incarcerated in September of 2002. Michelle Jollmore stated that her current address is 29 Taranki Drive, Dartmouth, Nova Scotia. She was never asked to state her address in 2000, 2001 and 2002. Therefore there is no evidence of her address in those years. The Appellant was not asked why he listed 2414 Creighton Street, Halifax, Nova Scotia as his address in his 1999 and 2000 tax returns or why he gave this address to the detaining officer in Toronto or whether this was the address of the apartment that the Appellant and Michelle Jollimore shared in 2000, 2001 and 2002. As there is no evidence of Michelle Jollimore’s address in 2000, 2001 and 2002, there is no evidence that they were residing at separate addresses during those years.
+[31] In R. v. Beavies, [2004] N.S.J. No. 210, Williams J. of the Nova Scotia Provincial Court dealt with an application by Michelle Jollimore for a return of a vehicle after it had been seized pursuant to a Consent Order issued by the Nova Scotia Provincial Court. Williams J. stated that:
+3 From her employment as a hair stylist and with some assistance from relatives the applicant made regular monthly instalment payments that commenced on October 28, 2001. Although they were in a relationship since October 2000, she received no assistance or contributions from Beavies toward the purchase or regular payments for the vehicle. When she became pregnant, she took her maternity leave in October 2002 and delivered her child in December 2002. While on maternity leave her income consisted of employment insurance benefits, a child allowance and baby-sitting services.
+4 At the time that she was employed, Beavies, who did not reside with her, would drive her to and from work in her vehicle.
+(emphasis added)
+[32] Neither the Appellant nor Michelle Jollimore were asked any questions in relation to the testimony provided during this Nova Scotia Provincial Court case. Since Williams J. also noted that the Appellant would drive Michelle Jollimore to and from work, the basis for the conclusion that the Appellant was not residing with Michelle Jollimore is not clear as the Appellant must have been at her place when she went to work and then returned with her when she was finished. Without knowing the basis for this conclusion and with no evidence of Michelle Jollimore’s address in 2000, 2001 and 2002, in my opinion, this simple statement that the Appellant did not reside with Michelle Jollimore, in the same sentence which also stated that he would drive her to and from work, is not sufficient to impeach the credibility of Michelle Jollimore and the Appellant on the issue of whether he was living with her and she was paying the rent in 2000, 2001 and 2002.
+[33] The Appellant and Michelle Jollimore both stated that the Appellant was not living with Michelle Jollimore in 1999. The Appellant stated that he was living with his former girlfriend, Tami Reid, in 1999. Tami Reid did not testify during the hearing. In the Law of Evidence in Canada, second edition, by Sopinka, Lederman and Bryant, it is stated at p. 297 that:
+In civil cases, an unfavourable inference can be drawn when, in the absence of an explanation, a party litigant does not testify, or fails to provide affidavit evidence on an application, or fails to call a witness who would have knowledge of the facts and would be assumed to be willing to assist that party.
+[34] The question in relation to Tami Reid is whether she would be assumed to be willing to assist the Appellant as she is a former girlfriend. In Antaya v.Her Majesty the Queen, [2005] T.C.J. No. 9 Sheridan J. made the following comments on drawing an inference in a situation where an Appellant failed to call a former spouse as a witness:
+It would have assisted the Court to have heard from Mr. Antaya's former spouse and counsel for the Respondent suggested that a negative inference should be drawn from Mr. Antaya's failure to call her. His answer was that relations between them had been strained and calling her as a witness was not a realistic expectation. In my view, it was equally open to the Respondent to call the former spouse, especially given its resources, its duty to the proper administration of justice and the absence of any of the personal relationship issues that may have hampered Mr. Antaya. I accept Mr. Antaya's explanation as reasonable and draw no negative inference from his not having called his former spouse to testify.
+[35] I agree with the comments of Sheridan J. that the Respondent could have called Tami Reid and therefore I do not draw any negative inference from the Appellant not calling Tami Reid to testify. Since the Appellant testified that his living arrangement was the same with Tami Reid as it was with Michelle Jollimore, I find that any of the following adjustments to be made to the net worth assessment for 2000, 2001 and 2002 should also be made for 1999, unless otherwise noted.
+[36] I accept the Appellant’s and Michelle Jollimore’s testimony on the amounts related to the accommodation (rent, maintenance and repairs, insurance, water, fuel and electricity) and therefore these items are all to be deducted in determining the estimated personal expenditures of the Appellant.
+[37] The Appellant and Michelle Jollimore also testified that the Appellant did not have a telephone and did not contribute towards cleaning supplies or paper, plastic and foil supplies. I accept their testimony on this and therefore these items should be deleted.
+[38] Even though there was no indication that the Appellant owned an automobile, amounts were included for automotive fuel, maintenance and repair - automobile, and insurance premiums – automobile. The issue of the ownership of the automobile that was driven by the Appellant was the subject of the decision of the Nova Scotia Provincial Court referred to above. As noted above, Williams J. dealt with an application by Michelle Jollimore for a return of a vehicle after it had been seized pursuant to a Consent Order issued by the Nova Scotia Provincial Court. Williams J. stated, as part of the conclusions reached in that case, that:
+17 In addition, I am satisfied and I conclude and find that Beavies never had or continues to have any possessory title or interest in the seized vehicle….
+18 …In the result, I conclude, find and declare that she has 100 percent ownership interest and title in the black 1996 Chevrolet Multipurpose vehicle, Model KTA, VIN # 1GNEK13R8TJ357884.
+[39] The vehicle in question had been acquired by Michelle Jollimore in October of 2001. The Appellant testified that he did not own a car during the period of time under appeal. There was no evidence of any vehicle in the Appellant’s name. The Nova Scotia Provincial Court determined that Michelle Jollimore owned the vehicle that was acquired in October of 2001 and that was being driven by the Appellant. Prior to Michelle Jollimore acquiring this vehicle she had her mother’s car. As a result the items that are related to the maintenance and repair and automobile insurance premiums should be deleted from the Appellant’s net worth assessment.
+[40] The Appellant testified as follows in relation to whether he drove the vehicles that were owned by Tami Reid and Michelle Jollimore:
+Q. Did you drive someone else’s car?
+A. Well, they both have vehicles. Like -- not every -- it wasn’t an everyday thing or nothing like that.
+Q. That you would drive their vehicles?
+A. Yeah, once in awhile.
+Q. And when you drove their vehicles, did you pay for gas?
+A. I never took it that far that we had to put gas in.
+[41] Williams J. of the Nova Scotia Provincial Court in the case referred to above, stated that:
+3 From her employment as a hair stylist and with some assistance from relatives the applicant made regular monthly instalment payments that commenced on October 28, 2001. Although they were in a relationship since October 2000, she received no assistance or contributions from Beavies toward the purchase or regular payments for the vehicle. When she became pregnant, she took her maternity leave in October 2002 and delivered her child in December 2002. While on maternity leave her income consisted of employment insurance benefits, a child allowance and baby-sitting services.
+4 At the time that she was employed, Beavies, who did not reside with her, would drive her to and from work in her vehicle. Further, depending on her schedule, he, with her permission, would have the use of the vehicle. However, unknown to the applicant, Beavies was the target of a police investigation and the police would see him often and alone driving the vehicle.
+…
+10 …I find that there is some affidavit evidence which disclosed that on several occasions Beavies was seen alone in the vehicle and operating it. However, that evidence is vague with respect to details of activities and, in particular, activities concerning designated substance offences. Overall, on a close scrutiny and assessment of this evidence I find it difficult to conclude that Beavies did use this vehicle in connection with the commission of a designated substance offence. The fact that the police saw him alone and often in the vehicle, their observations do not, without more, confer legal title of the vehicle to him.
+(emphasis added)
+[42] Neither the Appellant nor Michelle Jollimore were asked any questions in cross examination on their testimony that would have been given in this Nova Scotia Provincial Court case. As well the Appellant was not questioned on what he meant when he stated that he would drive the vehicle “once in a while”. The Appellant was asked, in cross examination, the following questions in relation to driving Tami Reid’s vehicle:
+Q. When you were living with Tami, you said she worked at a clothing store?
+A. Yes.
+Q. And she’d take her car during the day to go to work?
+A. Yeah.
+[43] Since Williams J. concluded that the Appellant was seen alone and often in the vehicle and would drive Michelle Jollimore to and from work (and therefore the Appellant would have the vehicle while Michelle Jollimore was at work) and since there is no indication that this was different when Michelle Jollimore had her mother’s car, I do not accept that the Appellant did not pay for gas that was used in the vehicle in 2000, 2001 and 2002 and therefore no adjustment will be made for the amount related to automotive fuel for 2000, 2001 and 2002. Since the only evidence for 1999 was that Tami Reid would take her vehicle to her work (and therefore the Appellant would not have the use of her vehicle while she was at work), the amount used for automotive fuel for 1999 should be deleted.
+[44] Since the Appellant did not have the use of Tami Reid’s car in 1999 while she was at work, no adjustment will be made to the amount identified as public transportation – local and commuter. Since the Appellant did have the use of Michelle Jollimore’s vehicle in 2000, 2001 and 2002 while she was at work and since an amount will be included for gas purchased in these years, the amounts for public transportation – local and commuter will be deleted for 2000, 2001 and 2002.
+[45] The amounts for eye care, and private and public health insurance should be deleted as the Appellant testified that he did not pay for any of these during the years under appeal and I accept his testimony in this regard.
+[46] With respect to dental care, the Appellant stated that:
+Q. And would you have visited the dentist often during those four years?
+A. No, I don’t think so. No.
+[47] Since the only evidence was that the Appellant would not have visited the dentist often, this would mean that he did visit the dentist during these years. No adjustment will be made to the amounts used for dental care as the amounts ranged from $128.34 to $138.22 per year.
+[48] The amounts for hair cutting, washing, and styling should be deleted for 2000, 2001 and 2002 as Michelle Jollimore was a hairstylist and therefore I accept his testimony that he did not pay for these services in 2000, 2001 and 2002. However, the Appellant confirmed that Tami Reid worked in a clothing store and therefore no adjustment should be made to the amount for hair cutting, washing and styling for 1999.
+[49] The amounts for sports and athletic equipment, photographic goods and services and reading material should be deleted as the Appellant testified that he did not purchase any of these and I accept his testimony in this regard.
+[50] The amounts for tobacco and smokers’ supplies, life insurance premium, flowers, toys, etc., religious organizations and other charitable organizations should be deleted as I accept the Appellant’s testimony that he did not incur any of these amounts in any of these years.
+[51] The Appellant testified that he did not have any credit cards. The Respondent did not introduce any evidence in relation to the amount identified as interest on personal loans – Scotiabank visa. As a result this item should be deleted.
+[52] I do not agree that any adjustments should be made to any of the amounts stated for any of the other items. There is a large amount of unexplained cash seized at the Toronto airport and the convictions for trafficking in cocaine indicate that he was selling drugs and therefore had a source of income. As well the levels of income reported by Michelle Jollimore for 2000 and 2001 were less than $12,000 per year and suggest that since there were two of them living in the one household, that the Appellant was making a financial contribution.
+[53] The Appellant’s testimony in relation to the purchase of groceries was as follows:
+Q. Okay, Carl, let’s talk a little bit about your living expenses for the years in question, ’99 to 2002. With respect to food, did you purchase food from grocery stores often?
+A. No.
+Q. And that’s for all four years?
+A. Yes.
+Q. Who would purchase groceries?
+A. I never needed to go to the grocery store. It was always Tami or Michelle, just ---
+Q. Did you ever buy the food yourself?
+A. No.
+[54] Michelle Jollimore’s testimony in relation to the groceries was as follows:
+Q. So while Mr. Beavis was living with you, Michelle, did he purchase food from the grocery stores?
+A. No.
+Q. Who would purchase the food?
+A. I did.
+[55] The Appellant may not have gone to the grocery store himself to purchase groceries but this does not mean that he did not make a financial contribution towards the purchase of groceries. Therefore no adjustment should be made to the amount used for Food – groceries.
+[56] The Appellant’s testimony in relation to eating at restaurants was as follows:
+Q. Would you eat at restaurants often?
+A. Not very often, no.
+Q. When you say not very often, what do you mean?
+A. Well, maybe once a month or something when ---
+Q. And when you would eat out at restaurants, who would pay for it?
+A. Tami or Michelle.
+[57] Michelle Jollimore’s testimony in relation to eating at restaurants was as follows:
+Q. Up until 2002 how often would you and Carl eat at restaurants if at all?
+A. Every once -- maybe once every couple weeks, once a month.
+Q. And who would pay for the meals when you ate at the restaurants?
+A. I did.
+[58] I do not accept that for four years the Appellant would eat at restaurants once every couple of weeks (which would be approximately 94 times before he was incarcerated) or once a month (which would be approximately 44 times before he was incarcerated) and never pay for a single meal. Therefore no adjustment should be made to the amount used for Food – restaurants.
+[59] The net worth included items identified as traveler accommodation and public transportation – inter city and airfare. While the Appellant did testify that he did not use local public transit, the Appellant did not introduce any evidence to challenge the amounts used for either one of these items. Therefore no adjustment will be made for either one of these items.
+[60] For the remaining items, I do not accept that the Appellant for four years did not make any financial contribution towards clothing, medical supplies, personal care supplies, toys, games, hobbies, home entertainment, recreational services, alcoholic beverages, gifts and lottery tickets. Therefore no adjustment will be made to the amounts used for any of these items.
+[61] As a result, the following adjustments are to be made to the net worth analysis as prepared by the Canada Revenue Agency before taking into account his period of incarceration that commenced on September 6, 2002:
+Item:
+1999
+2000
+2001
+2002
+Rent:
+($4,800.00)
+($4,800.00)
+($4,800.00)
+($5,100.00)
+Maintenance and repairs:
+($226.43)
+($232.57)
+($238.52)
+($243.84)
+Insurance:
+($145.04)
+($148.98)
+($152.78)
+($156.19)
+Water, fuel, electricity:
+($874.40)
+($898.14)
+($921.09)
+($941.66)
+Telephone:
+($573.89)
+($589.47)
+($604.53)
+($618.04)
+Cleaning supplies:
+($130.43)
+($133.97)
+($137.39)
+($140.46)
+Paper, plastic, foil supplies:
+($50.00)
+($50.00)
+($50.00)
+($50.00)
+Automotive fuel:
+($534.24)
+Maintenance and repair – automobile:
+($271.29)
+($278.66)
+($285.78)
+($292.16)
+Insurance premiums – automobile:
+($466.42)
+($479.08)
+($491.32)
+($502.29)
+Public transportation – local and commuter:
+($195.06)
+($200.05)
+($204.51)
+Eye care goods and services:
+($77.21)
+($79.31)
+($81.34)
+($83.15)
+Private and Public health insurance:
+($141.91)
+($145.76)
+($149.48)
+($152.82)
+Hair cutting, washing styling:
+($205.78)
+($211.04)
+($215.75)
+Sports and athletic equipment:
+($58.43)
+($60.02)
+($61.55)
+($62.93)
+Photographic good and services:
+($44.87)
+($46.09)
+($47.26)
+($48.32)
+Reading material:
+($196.17)
+($201.49)
+($206.64)
+($211.26)
+Tobacco and smokers’ supplies:
+($328.68)
+($337.61)
+($346.23)
+($353.97)
+Life insurance premium:
+($145.04)
+($148.98)
+($152.78)
+($156.19)
+Flowers, toys, etc.
+($350.59)
+($360.11)
+($369.31)
+($377.56)
+Religious organizations:
+($158.60)
+($162.91)
+($167.07)
+($170.80)
+Other charitable organizations:
+($120.00)
+($123.25)
+($126.40)
+($129.23)
+Interest on personal loans – Scotiabank visa
+($186.78)
+($191.85)
+($196.75)
+($201.14)
+Total of the adjustments to be made to the estimated personal expenditures:
+($9,880.42)
+($9,869.09)
+($9,997.31)
+($10,412.27)
+[62] The following is a summary of the revised amounts that are to be used as the estimated personal expenditures of the Appellant in 1999, 2000, 2001, and 2002, taking into account his period of incarceration that commenced on September 6, 2002:
+Item:
+1999
+2000
+2001
+2002
+Total estimated personal expenditures per audit (before reduction for time incarcerated):
+$17,452.64
+$17,794.79
+$18,125.52
+$18,722.04
+Total adjustments from above:
+($9,880.42)
+($9,869.09)
+($9,997.31)
+($10,412.27)
+Revised estimated personal expenditures:
+$7,572.22
+$7,925.70
+$8,128.21
+$8,309.77
+Reduction for period of incarceration:
+($2,637.00)
+Total revised estimated personal expenditures:
+$7,572.22
+$7,925.70
+$8,128.21
+$5,672.77
+[63] Since there is no logical basis to add $10,000 to the Appellant’s income for 2000 based on cash seized in November of 2001, the $10,000 should not have been added to the Appellant’s 2000 income and the amount that should be assessed as the Appellant’s income for 2000 is $7,926.
+[64] In Venne v. Her Majesty the Queen, [1984] C.T.C. 223, 84 D.T.C. 6247, Strayer, J. of the F.C.T.D. made the following comments on the meaning of gross negligence for the purposes of penalties imposed under subsection 163(2) of the Income Tax Act:
+“Gross negligence” must be taken to involve greater neglect than simply a failure to use reasonable care. It must involve a high degree of negligence tantamount to intentional acting, an indifference as to whether the law is complied with or not.
+[65] Subsection 163(3) of the Income Tax Act provides that:
+(3) Where, in an appeal under this Act, a penalty assessed by the Minister under this section or section 163.2 is in issue, the burden of establishing the facts justifying the assessment of the penalty is on the Minister.
+[66] Since the revised income amounts for 1999 and 2000 of $7,572 and $7,926 exceed the reported income amounts of nil and $1 by a significant amount, and since the Appellant acknowledged a source of unreported income (trafficking in cocaine for which he was convicted in 2002) I find that the Respondent has established the facts that would justify the assessment of gross negligence penalties in this case. Filing returns with reported income of $1 and nil in these circumstances indicates that the Appellant was indifferent as to whether he complied with his obligation to properly complete his tax returns that he filed. As well, indicating in his 1999 and 2000 tax returns that he was single and therefore did not have a common law partner also indicated an indifference as to whether he complied with his obligation to file tax returns that correctly disclosed his living arrangements.
+[67] Subsection 163(2) of the Income Tax Act provided in 1999 and 2000, in part, as follows:
+(2) False statements or omissions — Every person who, knowingly, or under circumstances amounting to gross negligence, has made or has participated in, assented to or acquiesced in the making of, a false statement or omission in a return, form, certificate, statement or answer (in this section referred to as a “return”) filed or made in respect of a taxation year for the purposes of this Act, is liable to a penalty of the greater of $100 and 50% of the total of
+(a) the amount, if any, by which
+(i) the amount, if any, by which
+(A) the tax for the year that would be payable by the person under this Act
+exceeds
+(B) the amounts that would be deemed by subsections 120(2) and (2.2) to have been paid on account of the person's tax for the year
+if the person's taxable income for the year were computed by adding to the taxable income reported by the person in the person's return for the year that portion of the person's understatement of income for the year that is reasonably attributable to the false statement or omission and if the person's tax payable for the year were computed by subtracting from the deductions from the tax otherwise payable by the person for the year such portion of any such deduction as may reasonably be attributable to the false statement or omission
+exceeds
+(ii) the amount, if any, by which
+(A) the tax for the year that would have been payable by the person under this Act
+exceeds
+(B) the amounts that would be deemed by subsections 120(2) and (2.2) to have been paid on account of the person's tax for the year
+had the person's tax payable for the year been assessed on the basis of the information provided in the person's return for the year,
+[68] The revised income for 1999 is $7,572. The basic personal tax credit under the Income Tax Act for 1999 was 17% of $6,794. As a result the Appellant’s liability for taxes under the Income Tax Act (calculated based on this income and only a claim for the basic personal tax credit) would be less than $200 and therefore the penalty imposed under subsection 163(2) of the Income Tax Act would be the minimum amount of $100 as this will be greater than 50% of the amount of taxes payable by the Appellant under the Income Tax Act. This would be the same for 2000 as the basic personal tax credit amount for 2000 was 17% of $7,231. In the Reply it is stated that the penalty was only based on the amount of taxes payable. There is no reference to any alleged overpayment of any GST credit and therefore the penalty in this case will only apply to the tax liability of the Appellant under the Income Tax Act and hence the minimum amount of $100 will be the amount of the penalty for 1999 and 2000.
+[69] As a result, the appeal is allowed, without costs, and the matter is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the Appellant’s income for 1999, 2000, 2001 and 2002 is as follows:
+1999 – $7,572
+2000 - $7,926
+2001 - $8,128
+2002 - $5,673
+[70] The penalties assessed under subsection 163(2) of the Income Tax Act for 1999 and 2000, are to be reduced to $100 for 1999 and $100 for 2000.
+Signed at Halifax, Nova Scotia, this 25th day of February 2008.
+“Wyman W. Webb”
+Webb J.
+CITATION: 2008TCC94
+COURT FILE NO.: 2006-2938(IT)I
+STYLE OF CAUSE: CARL A. BEAVIES AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Halifax, Nova Scotia
+DATE OF HEARING: January 29, 2008
+REASONS FOR JUDGMENT BY: The Honourable Justice Wyman W. Webb
+DATE OF JUDGMENT: February 25, 2008
+APPEARANCES:
+Counsel for the Appellant:
+C. Lorway Gosse, Jr.
+Counsel for the Respondent:
+Lindsay D. Holland
+COUNSEL OF RECORD:
+For the Appellant:
+Name: C. Lorway Gosse, Jr.
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

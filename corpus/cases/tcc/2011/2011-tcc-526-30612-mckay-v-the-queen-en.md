@@ -1,0 +1,145 @@
+---
+title: "McKay v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30612/index.do"
+last_modified: "2011-11-23"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2011 TCC 526"
+citation2: ""
+neutral_citation: "2011 TCC 526"
+decision_date: "2011-11-23"
+language: "en"
+item_id: "30612"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7137
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T07:07:39.198000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "3130402b5d4f54cd653d07f381ba71a874f6e3e6af4a8f59f81f3fdac0df5b55"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# McKay v. The Queen
+
+- Citation: 2011 TCC 526
+- Decision date: 2011-11-23
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7137, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+McKay v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2011-11-23
+Neutral citation
+2011 TCC 526
+File numbers
+2010-3831(GST)I
+Judges and Taxing Officers
+Robert James Hogan
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2010-3831(GST)I
+BETWEEN:
+MURRAY MCKAY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on October 3, 2011, at Edmonton, Alberta.
+Before: The Honourable Justice Robert J. Hogan
+Appearances:
+Counsel for the Appellant:
+David Skrypichayko
+Counsel for the Respondent:
+Robert Neilson
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under subsection 323(1) of the Excise Tax Act, for the period from July 1, 2003 to March 31, 2004, the notice of which is dated September 17, 2010 and bears number 1158672, is allowed, without costs, and the assessment is vacated in accordance with the terms of the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 23rd day of November 2011.
+"Robert J. Hogan"
+Hogan J.
+Citation: 2011 TCC 526
+Date: 20111123
+Docket: 2010-3831(GST)I
+BETWEEN:
+MURRAY MCKAY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Hogan J.
+[1] The appellant, Murray McKay, was assessed for unpaid goods and services tax (“GST”) of Buffet World Ltd. (“Buffet World”) in the amount of $20,158.29 for the period from July 1, 2003 to March 31, 2004 (the “relevant period”). The Minister of National Revenue (the “Minister”) assessed the appellant on the basis that he was either a de jure or de facto director of Buffet World during the relevant period. The appellant denies that he was a de jure or de facto director of Buffet World. In the event of a contrary finding, he would have me find that he acted diligently and thus avoided liability for the unpaid GST of the corporation.
+I. THE ISSUES
+[2] There are two issues in this appeal:
+(1) First, was the appellant a director, either de jure or de facto, of Buffet World during the relevant period, that is, from July 1, 2003 to March 31, 2004?
+(2) Second, if so, does the appellant have a due diligence defence available to him that enables him to escape the liability arising under subsection 323(1) of the Excise Tax Act (the “ETA”)?
+II. FACTS
+[3] The appellant is a professional in the commercial real estate industry. He specializes in the negotiation of commercial real estate lease agreements. He is a partner at Barclay Street Commercial Real Estate Ltd., but also does business through a numbered corporation which he owns and controls, 789741 Alberta Ltd.
+[4] The appellant’s relationship with Buffet World began in either 2001 or 2002 when he was asked to provide advice on the lease for the premises in which Buffet World was planning to operate a restaurant. The appellant was hired by Ed Pastuszek, who had been managing that business and was considering purchasing the restaurant from its owner, Wade Werenka. The appellant provided his opinion on the lease free of charge because the mandate had required little effort to carry out.
+[5] As of October 15, 2002 both the appellant and Mr. Pastuszek were listed on the Alberta Corporate Registry as directors of Buffet World. The appellant did however testify that he did not know why he was listed as a director. He denied that he had consented to being appointed a director of Buffet World.
+[6] By March 2003, Buffet World was experiencing financial difficulties and engaged the appellant, through his numbered corporation, to renegotiate a lease with more favourable terms. The appellant was successful in structuring a new agreement and invoiced Buffet World for that service. The invoice (“invoice”), dated March 15, 2003, was for $53,500, inclusive of GST. The invoice was not paid, and on April 9, 2003 the appellant registered a security agreement against the restaurant equipment of Buffet World.
+[7] During this period the appellant’s involvement with Buffet World was limited to acting as an intermediary between it and the landlord. The landlord would on occasion call the appellant if Buffet World was late in paying its rent.
+[8] On March 15, 2004, the appellant, on behalf of his numbered corporation, executed two transactions substantially altering the relationship between his corporation and Buffet World. The appellant’s numbered corporation purchased the equipment of Buffet World, which equipment constituted a payment of $32,000 on the amount owing on the invoice. Additionally, Buffet World’s lease was assigned to the appellant’s numbered corporation. Under this arrangement, the appellant’s corporation controlled the leased premises used by Buffet World to operate its business. Mr. Pastuszek was allowed the opportunity to continue to run Buffet World’s business. The appellant’s expectation was that Buffet World would continue paying the rent under the lease and, within a few months, start paying the $21,500 still owed on the invoice, and then repurchase the equipment.
+[9] The appellant explained that the equipment would have little value if sold in the context of the liquidation of the business. It would have greater value if sold as part of a going concern. It was with this in mind that he sought the assignment of the lease in addition to acquiring ownership of the equipment. According to the appellant, if he could have control over both, he had a better chance of realizing the full value of the equipment. He could do so by finding a new tenant that would operate the restaurant on the premises.
+[10] Subsequent to the March 15, 2004 transactions, the appellant became more involved with the affairs of Buffet World. Although Mr. Pastuszek was in charge of dealing with suppliers on a day‑to‑day basis, the appellant on occasion was asked by Mr. Pastuszek to call suppliers with whom he (the appellant) had a relationship in order to obtain better terms. If these actions required little effort on his part he would oblige as it improved the likelihood that Buffet World would pay the amounts owing to him.
+[11] The appellant testified that he encouraged Mr. Pastuszek to pay certain liabilities. On the occasions that the landlord would contact the appellant about unpaid rent, he would see to it that Mr. Pastuszek caused the rent to be paid.
+[12] When the appellant was contacted by Jack Sample of the Canada Revenue Agency (the “CRA”) in 2004 about unpaid employment insurance and Canada Pension Plan premiums, the appellant took steps to ensure that Buffet World paid them. The appellant recalled meeting Mr. Sample in 2005 and signing a number of documents but did not recall to what account they related. According to the appellant, Mr. Sample told him that Buffet World’s tax debts had been taken care of, so he assumed everything was in order.
+[13] The appellant claims that Mr. Pastuszek ran Buffet World at all relevant times and that Buffet World remained the operator of the restaurant business. He was not granted access to the corporate minute books or financial statements or other records of the corporation. The appellant did not have signing authority with respect to the corporate bank accounts. According to the appellant, Buffet World employed a bookkeeper who was responsible, along with Mr. Pastuszek, for handling bank transactions and for tax remittances and compliance.
+Was the appellant a director of Buffet World Ltd. during the relevant period?
+[14] Subsection 323(1) of the ETA provides that directors of a corporation are jointly and severally liable for the corporation’s unremitted GST. That provision reads as follows:
+323(1) Liability of directors — If a corporation fails to remit an amount of net tax as required under subsection 228(2) or (2.3) or to pay an amount as required under section 230.1 that was paid to, or was applied to the liability of, the corporation as a net tax refund, the directors of the corporation at the time the corporation was required to remit or pay, as the case may be, the amount are jointly and severally, or solidarily, liable, together with the corporation, to pay the amount and any interest on, or penalties relating to, the amount.
+[15] For the purposes of subsection 323(1), directors are considered as being such either de jure or de facto. A de jure director is one that that has been duly appointed according to the formal legal requirements of the relevant jurisdiction’s corporate law. De facto directors can be thought of as coming in two types, as Associate Chief Judge Bowman, as he then was, indicated in Mosier v. R., [2001] G.S.T.C. 124 (TCC) at paragraph 23:
+. . . de facto directors can be those who are ostensibly duly elected but who may lack some qualification under the relevant company law, and those who simply assume the role of director without any pretence of legal qualification.
+[16] The respondent asked this Court to find, firstly, that the appellant was a de jure director, and failing that, that he was a de facto director. The Minister provided records from Alberta’s Corporate Registry to support the claim that the appellant was duly appointed a director of Buffet World on October 15, 2002 and that he became the sole director on April 14, 2004.
+[17] In Lau v. R., [2003] G.S.T.C. 1 (TCC), the Court considered whether proof of a person’s registration as a director is determinative of that person’s status as a director. In Lau, the appellant rebutted the Minister’s evidence by presenting evidence that she had never consented to being appointed to the position nor held herself out as being a director. In the case at bar, the appellant presented similar evidence. He testified that he did not sign the documents that were prepared appointing him as a director. The documentary evidence, consisting of unsigned directors’ and shareholders’ resolutions, corroborates the appellant’s testimony on this matter. These documents were prepared and sent by Buffet World’s lawyer to Mr. Pastuszek and not to the appellant. There is no evidence that the documents were in fact even signed. On balance, it seems more likely than not that the appellant was not a de jure director of Buffet World.
+[18] The next question is whether the appellant acted as a de facto director during the relevant period. The issue is whether the appellant’s involvement with Buffet World goes sufficiently beyond the level of interested creditor to reach that of a director.
+[19] The appellant testified that he was called upon to defend a lawsuit brought against him and Mr. Pastuszek by a plaintiff who claimed that he had been defrauded of an interest in Buffet World. The lawsuit was dismissed. At that time it became obvious that Buffet World’s financial situation had deteriorated to the point that it was no longer a viable going concern. The appellant sought to find a new tenant to operate the business. He found one but had to give him the equipment in order to motivate him to take on the lease.
+[20] The appellant, clearly displeased with the prospect of having to defend himself against lawsuits brought by Buffet World’s disgruntled suppliers and creditors, took action to have Buffet World placed under bankruptcy protection. To that end, he had sought the advice of Meyers Norris Penny Limited (“MNP”), a trustee in bankruptcy. MNP advised him that Buffet World’s corporate status should be reinstated as the corporation had been dissolved for failure to file its annual returns. Following the corporation’s revival in 2006 by his actions, the appellant caused corporate documents to be prepared showing him to have the authority to have Buffet World make an assignment in bankruptcy. Buffet World did go bankrupt and, as a result, its debts remained unpaid. The debt owed to the appellant had not been paid and, to make matters worse, the appellant had paid legal fees to defend himself against a lawsuit that proved to be frivolous.
+[21] This evidence suggests that the appellant’s involvement with Buffet World during the relevant period was motivated solely by a desire to ensure that he could fully realize the value of the debt owed to him. The appellant’s actions were undertaken by him not as a faithful director of Buffet World, but rather as a self-interested creditor seeking to realize the value of his receivable. I accept the appellant’s testimony that he had encouraged Mr. Pastuszek to pay certain liabilities out of concern for the financial health of the corporation which owed him money. If Buffet World defaulted on these liabilities, it might cause another creditor to petition Buffet World into bankruptcy. To ensure that he could realize on the debt in the long term, he concerned himself with Buffet World’s short‑term financial viability. If Buffet World did not succeed as a going concern, the appellant would not get paid.
+[22] During the relevant period, the appellant stood in relation to Buffet Word as a creditor and shareholder, but not as a director. The appellant did eventually, however, take on the role of director when he began to act as one. He did so when he had Buffet World make an assignment in bankruptcy and signed as its guarantor. However, he became a director at a date after the relevant period. For these reasons the appeal is allowed and the assessment is vacated.
+Signed at Ottawa, Canada, this 23rd day of November 2011.
+"Robert J. Hogan"
+Hogan J.
+CITATION: 2011 TCC 526
+COURT FILE NO.: 2010-3831(GST)I
+STYLE OF CAUSE: MURRAY MCKAY v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Edmonton, Alberta
+DATE OF HEARING: October 3, 2011
+REASONS FOR JUDGMENT BY: Robert J. Hogan
+DATE OF JUDGMENT: November 23rd, 2011
+APPEARANCES:
+Counsel for the Appellant:
+David Skrypichayko
+Counsel for the Respondent:
+Robert Neilson
+COUNSEL OF RECORD:
+For the Appellant:
+Name: David Skrypichayko
+Firm: Skrypichayko LLP
+Edmonton, Alberta
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada

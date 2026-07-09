@@ -1,0 +1,190 @@
+---
+title: "St-Gelais c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27516/index.do"
+last_modified: "2005-11-08"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 CCI 571"
+citation2: ""
+neutral_citation: "2005 CCI 571"
+decision_date: "2005-11-08"
+language: "fr"
+item_id: "27516"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 12
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T22:20:07.254000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "97275db5669b6f1895a9893e3964912faad6463965e8dc6cfb997973931ae924"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# St-Gelais c. La Reine
+
+- Citation: 2005 CCI 571
+- Decision date: 2005-11-08
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 12, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+St-Gelais c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-11-08
+Référence neutre
+2005 CCI 571
+Numéro de dossier
+2005-835(IT)I
+Juges et Officiers taxateurs
+Alain Tardif
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2005-835(IT)I
+ENTRE :
+ALAIN ST-GELAIS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 17 août 2005, à Chicoutimi (Québec).
+Devant : L'honorable juge Alain Tardif
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocat de l'intimée :
+Me Martin Gentile
+____________________________________________________________________
+JUGEMENT
+L'appel de la cotisation établie en vertu de la Loi de l'impôt sur le revenu pour l'année d'imposition 2003 est rejeté, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 8e jour de novembre 2005.
+« Alain Tardif »
+Juge Tardif
+Référence : 2005CCI571
+Date : 20051108
+Dossier : 2005-537(IT)I
+ENTRE :
+ALAIN ST-GELAIS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Tardif
+[1] Il s'agit d'un appel relatif à l'année d'imposition 2003. La question en litige consiste à déterminer si la somme de 2 500 $ payée par l'appelant en conformité avec un jugement de la Cour supérieure à titre d'avance pour frais était déductible au même titre que le montant attribué expressément à titre de pension alimentaire.
+[2] L'intimée s'est fondé sur les hypothèses de fait suivantes pour établir la cotisation de l'appelant :
+a) Au cours de l'année en litige, l'appelant a versé une pension alimentaire à son ex-conjointe pour son propre bénéfice et celui de sa fille Sophie, suivant le jugement de divorce du 25 novembre 2002 et le jugement du 28 mars 2003.
+b) De plus et conformément au jugement de la Cour supérieure du 28 mars 2003, l'appelant a versé à son ex-conjointe, la somme de 2 500 $ à titre de provision pour frais ;
+c) Le Ministre a déterminé que des montants versés par l'appelant à son ex-conjointe, seule la somme de 11 495 $ a été versée au bénéfice de celle-ci au titre de pension alimentaire.
+[3] Tous les faits ont été admis.
+[4] À l'appui de ses prétentions, l'appelant a produit divers documents. En premier lieu, il a produit une copie du jugement de la Cour supérieure rendu par l'honorable Jean Lemelin, le 28 mars 2003, et portant le numéro 150-12-012248-017 (pièce A-1). La partie pertinente de ce jugement se lit comme suit :
+[12] ORDONNE à monsieur Alain St-Gelais de payer à madame Francine Potvin une provision pour frais de 2 500 $, étalée sur une période de six mois, à raison de 416,66 $ payables le 1er de chaque mois ou selon d'autres modalités dont les parties pourraient convenir.
+[5] Deuxièmement, l'appelant a produit la pièce A-2, une copie des chèques attestant qu'il s'est conformé au jugement. Troisièmement, il a produit la pièce A-3, une copie d'une lettre de l'Agence des douanes et du revenu du Canada ayant pour objet le montant de 2 500 $, et, finalement, il a produit la pièce A-4, une copie du reçu signé par l'ex-conjointe de l'appelant, la bénéficiaire de l'avance pour frais, qui se lit comme suit :
+Reçu de Alain St-Gelais Le 21 février 2004 $14 921,89
+la somme de quatorze mille neuf cent vingt un (.89) dollars
+Pension alimentaire Francine Potvin
+27 paiements de $460,07 = 12 421,89 (pension alimentaire)
+6 paiements de $416,67 = 2 500.00 (pour frais de Cour)
+14 921,89
+[6] En résumé, l'appelant a fait valoir que le montant payé comme avance pour frais était déductible puisqu'il s'agissait d'un montant devant être traité de la même façon qu'une pension alimentaire.
+[7] À l'appui de ses prétentions, il a fait référence à l'opinion d'une avocate à l'emploi de l'intimée. Il a également eu recours à différents extraits de jugements rendus par des tribunaux en matière civile traitant du sens et de la portée de l'expression « Provisions pour frais » . Finalement, il s'est référé au Bulletin d'interprétation IT-530 en date du 11 janvier 1999.
+[8] Selon l'appelant, le traitement d'un montant versé à titre « d'avance pour frais » se trouve dans une zone grise du fait que la Loi de l'impôt sur le revenu (la « Loi » ) ne prévoit rien à cet effet.
+[9] Partant de là, il a tenté de faire un rapprochement avec la pension alimentaire à partir d'un texte dont la source précise n'a pas été établie, mais dont le titre serait: « L'objet de l'obligation alimentaire » au paragraphe [60-470] intitulé « LA PROVISION POUR FRAIS » , qui se lit comme suit :
+La provision pour frais a pour objet d'assurer à la partie la moins fortunée la possibilité de faire valoir ses prétentions, sans être limitée par l'insuffisance de ses revenus ou de ses actifs. En d'autres mots, ce mécanisme a pour but d'éviter qu'une partie ne soit dans une position de faiblesse par rapport à l'adversaire, en raison de la fragilité de sa situation financière [Droit de la famille - 1814, 1993 R.D.F. 284 (C.S.)]. Elle ne doit cependant pas devenir un incitatif à la guérilla judiciaire [Droit de la famille - 1975, 1994 R.D.F. 271 (C.S.)]. Expressément prévue par l'article 502 C.c.Q. dans le cadre de la procédure en séparation de corps et par l'article 588, al. 2 C.c.Q. en matière alimentaire en général ( « Il (le tribunal) peut, également, accorder au créancier d'aliments une provision pour les frais de l'instance » ), la provision pour faire est de nature alimentaire [Droit de la famille - 1931, 1996 R.D.F. 6 (C.A.); Droit de la famille - 1602, 1992 R.J.Q. 1480 (C.A.); Droit de la famille - 1719, J.E. 93-241 (C.A.)] et peut être accordée à n'importe quel créancier alimentaire, pas seulement les époux [Droit de la famille - 2378, 1996 R.D.F. 519 (C.S.)]. C'est en se basant sur le caractère alimentaire de la provision pour frais que, dans Droit de la famille - 2999, J.E. 98-1171 (C.S.), le tribunal conclut que le manque d'effort persistant de la créancière alimentaire vue d'atteindre son autonomie est un facteur qui peut servir dans l'évaluation du droit et dans l'appréciation de l'étendue de la provision pour frais. C'est également en se basant sur ce principe, que dans Droit de la famille - 3296, 1999 R.D.F. 561 (C.S.), le tribunal décide que le terme « provision alimentaire » englobe la provision pour frais et que celle-ci est donc incluse dans les exceptions à la règle de l'effet suspensif en cas d'appel d'un jugement.
+L'article 36 des Règles de pratique de la Cour supérieure du Québec en matière familiale prévoit qu'une telle provision peut être accordée en tout état de cause.
+La jurisprudence a, de façon constante, considéré qu'il fallait aborder la question de la provision pour frais de manière large et généreuse [Droit de la famille - 1610, 1992 R.D.F. 366 (C.S.)].
+Les questions relatives à la provision pour frais sont exposées en détail à par. 32-795. Voir également par. 71-550.
+[10] Bien que cette thèse soit intéressante et que l'appelant ait du mérite quant aux efforts investis, je crois qu'il tente, à bon droit d'ailleurs, de tirer avantage d'une situation qui semble n'avoir jamais fait l'objet d'une décision spécifique ayant trait au traitement fiscal qui doit être accordé à un paiement fait à titre de provision pour frais.
+[11] Pour qu'un montant soit considéré comme une pension alimentaire au sens du paragraphe 56.1(4) de la Loi, L.R.C. 1985 (5e suppl.), ch. 1. et mod., il doit posséder les caractéristiques suivantes :
+· être payable au bénéficiaire,
+· être payable à titre d'allocation pour subvenir aux besoins du bénéficiaire, des enfants de celui-ci ou à la fois du bénéficiaire et de ses enfants,
+· être payable périodiquement,
+· être utilisable à la discrétion du bénéficiaire.
+DISCRÉTION
+[12] Le Bulletin d'interprétation IT-530R - Pensions alimentaires aborde cette question. Il y est affirmé, entre autres, que :
+20. Selon la définition de « pension alimentaire » donnée au paragraphe 56.1(4), le montant que le payeur verse à un bénéficiaire n'est pas admis comme pension alimentaire lorsque ce dernier ne peut pas l'utiliser à sa discrétion. Ce montant ne peut donc pas servir à calculer le montant qu'un payeur peut déduire selon l'alinéa 60b), sauf comme il est mentionné ci-dessous ou comme il est indiqué au paragraphe 60.1(2) (voir le numéro 29).
+[13] Dans l'affaire Falardeau c. R.[1], la juge de la Cour supérieure avait ordonné à l'appelant de payer une pension alimentaire de 200$ par semaine. Dans une deuxième ordonnance, elle lui avait ordonné de payer les frais de carte de crédit Master Card, jusqu'à une moyenne mensuelle de 400$.
+[14] Le juge de la Cour canadienne de l'impôt écrivit qu' « [à son] avis, à la lecture de la deuxième ordonnance, il en ressort que ces paiements ne sont pas de la nature d'une pension alimentaire, car cette nature n'y est pas clairement exprimée comme elle l'est dans la première ordonnance » [2]. Il ajouta, au sujet de la discrétion, que :
+Le montant faisant l'objet de la discrétion est le montant reçu. Il faut donc se placer au moment de la réception du montant et non au moment de la création de l'obligation de le verser pour déterminer si le bénéficiaire peut l'utiliser à sa discrétion. Ici, au moment où l'appelant payait la facture de MasterCard, la bénéficiaire ne pouvait pas lui dire : « tu me remets l'argent et je paierai MasterCard » . La bénéficiaire n'était pas en droit d'exiger que le paiement soit fait directement à elle plutôt qu'à MasterCard. Ce que la bénéficiaire pouvait faire avec la carte MasterCard ne me semble pas pertinent. Pour ces motifs, je suis d'opinion que la conjointe de l'appelant n'avait pas de discrétion quant à l'utilisation des montants en cause[3].
+[15] Quelques années auparavant, avant que le paragraphe 56(12) de la Loi ne soit abrogé, la remarque suivante avait été faite par le juge Garon[4] :
+En interprétant le paragraphe 56(12), il y a lieu de faire remarquer que, pour que des sommes reçues, par exemple, par un conjoint ou ex-conjoint constituent une allocation au sens de ce paragraphe, il n'importe pas que celui qui verse la pension ne contrôle pas ni ne tente de contrôler l'utilisation des fonds en question. Il faut cependant que le jugement ou l'accord, suivant le cas, ne précise pas l'utilisation qui doit être faite de ces sommes. Si une telle précision existe, il s'ensuit que si le conjoint ou l'ex-conjoint qui reçoit les sommes en question ne les utilise pas de façon prévue au jugement ou à l'accord, il y a, de sa part, inexécution de l'obligation qui est contenue dans le jugement ou dans l'accord. C'est dans ce sens que le bénéficiaire des sommes en question ne peut pas légalement utiliser les fonds ainsi reçus à sa discrétion, suivant le paragraphe 56(12).
+[16] Ce sont là des arguments en faveur de la non-inclusion de la provision pour frais dans la définition de pension alimentaire.
+[17] En contrepartie, un certain nombre de sources indiquent que la provision pour frais a un caractère alimentaire. Ainsi, J.-L. Baudouin[5] et H. Kélada[6] font le tour de la jurisprudence qui a rapport aux articles portant sur la provision pour frais, notamment les articles 502 et 588 du Code civil du Québec[7]. Ils en ont tiré ce qui suit :
+1) « [l]a provision pour frais ne peut être accordée que pour permettre de compenser des besoins de nature alimentaire et non pour encourager la poursuite d'une saga judiciaire portant sur des questions de droits patrimoniaux. » [8];
+2) « [l]a Cour a décidé que la provision pour frais est de nature strictement alimentaire. » [9];
+3) « [l]a provision pour frais a un caractère alimentaire » [10];
+[18] À ce sujet, il est utile de référer à l'historique dressé dans cette cause, historique remontant à 1909 et qui se termine par un arrêt de 1970[11] réaffirmant le caractère alimentaire de la provision pour frais et la liant à la pension alimentaire :
+« Je suis d'opinion qu'en principe la pension alimentaire accordée pendant l'instance en séparation de corps doit comprendre, en plus des aliments, une certaine somme pour permettre à l'épouse de payer les déboursés du procès, lorsque les moyens du mari le permettent. » [12]
+[19] La récipiendaire d'une pension alimentaire dansl'affaire Thibaudeau[13]a fait valoir dans l'instance que l'utilisation des sommes versées au profit des enfants n'est pas laissée à sa discrétion, puisqu'elles doivent être utilisées dans l'intérêt des enfants. Étant donné l'absence de discrétion, un élément essentiel, les sommes sont inadmissibles à titre de pension alimentaire imposable.
+[20] Donc, nous sommes passés de R. c. Pascoe[14] (libre disposition sans compte à rendre à personne), à Gagnon c. La Reine[15] (qui lui a substitué le critère selon lequel le bénéficiaire doit pouvoir disposer du montant complètement à son profit, sans égard aux restrictions qui lui sont imposées quant à la manière d'en disposer et d'en profiter) à l'adoption du paragraphe 56(12) de la Loi, qui a rétabli le principe dans l'arrêt Pascoe et à l'abrogation du paragraphe 56(12) de la Loi. Malgré l'abrogation de ce paragraphe, le principe demeure. Enfin, depuis l'arrêt Serra, il y a eu défiscalisation des pensions pour enfants, mais il est possible de croire que le terme « discrétion » ne signifie toujours pas « discrétion absolue » .
+PAIEMENT PÉRIODIQUE
+[21] La prise en considération d'un autre critère permet une conclusion cependant plus tranchée. En effet, le montant en question dans la présente affaire n'est pas payable périodiquement et : « [u]ne somme globale ne remplit évidemment pas cette condition, même si les modalités de paiement de celle-ci font en sorte qu'elle doive être versée par tranches successives » [16].
+[22] Même si, selon certains auteurs, la provision pour frais semble respecter le caractère discrétionnaire exigé par les dispositions de la loi, elle ne respecte cependant pas la condition du paiement périodique.
+[23] En l'espèce, les termes du jugement sont clairs et précis. En deuxième lieu, l'appelant s'y est conformé. Finalement, la bénéficiaire de la provision pour frais, pour éviter toute équivoque, a pris l'initiative de faire une mention spécifique quant au paiement qu'elle a reçu à titre de provision pour frais.
+[24] D'une part la mention expresse indiquée sur le reçu est significative quant à la distinction que la bénéficiaire faisait en ce qui concerne les montants que devait lui payer l'appelant.
+[25] D'autre part, l'appelant a expliqué que la personne responsable de son dossier, à la suite de son avis d'opposition, lui avait suggéré de produire un écrit signé par lui et par son ex-conjointe quant à la nature du paiement effectué en conformité avec l'ordonnance de la Cour supérieure, dans le but de clarifier l'intention des parties. Avec respect pour l'opinion contraire, l'intention des parties n'avait pas à être clarifiée ou précisée puisqu'il s'agissait d'une ordonnance d'un tribunal compétent qui, en outre, était non équivoque et ne prêtait aucunement à confusion.
+[26] D'ailleurs l'appelant n'a pas fait la démarche pourtant très simple et certainement aussi facile que toutes les autres démarches qu'il a effectuées pour établir le bien-fondé de ses prétentions. Également, pourquoi n'a-t-il pas fait témoigner son ex-conjointe sur la question de la latitude qu'elle avait de disposer à sa guise du montant obtenu au titre de la provision pour frais?
+[27] La réponse à ces deux questions est de toute évidence très simple: son ex-conjointe a exigé que l'ordonnance soit respectée à la lettre. Les renseignements figurant sur le reçu faisant état du paiement sont très révélateurs à cet égard.
+[28] Tous les faits pertinents sont très clairs. D'ailleurs, les parties concernées se sont conformées à leurs obligations à la lettre, ne laissant place ni à l'équivoque ni à l'ambiguïté.
+[29] La provision pour frais obtenue par l'ex-conjointe avait pour objet le paiement des frais requis pour faire valoir ses droits.
+[30] Une provision pour frais a pour but de permettre à une partie, qui n'en a pas les moyens, de faire valoir ses droits. La provision pour frais n'est pas un montant discrétionnaire mis à la disposition de celui ou de celle qui en fait la demande.
+[31] Il s'agit d'un montant défini pour un but précis qui est assujetti à la présentation d'une preuve d'un besoin réel; eu égard à ces éléments, je ne crois pas qu'il soit possible de conclure qu'il s'agit là d'un montant sur lequel le ou la bénéficiaire dispose d'une latitude pour en disposer à sa guise.
+[32] De plus, il ne s'agit pas d'un montant payable de manière répétitive ou périodique, telle une pension hebdomadaire ou mensuelle.
+[33] Ce sont là deux conditions essentielles pour que le débiteur d'une créance alimentaire puisse en déduire le montant de ses revenus.
+[34] Pour ces raisons, l'appel est rejeté.
+Signé à Ottawa, Canada, ce 8e jour de novembre 2005.
+« Alain Tardif »
+Juge Tardif
+RÉFÉRENCE : 2005CCI571
+N º DU DOSSIER DE LA COUR : 2005-835(IT)I
+INTITULÉ DE LA CAUSE : Alain St-Gelais et Sa Majesté la Reine
+LIEU DE L'AUDIENCE : Chicoutimi (Québec)
+DATE DE L'AUDIENCE : le 17 août 2005
+MOTIFS DU JUGEMENT PAR : L'honorable juge Alain Tardif
+DATE DU JUGEMENT : le 8 novembre 2005
+COMPARUTIONS :
+Pour l'appelant :
+L'appelant lui-même
+Avocat de l'intimée :
+Me Martin Gentile
+AVOCAT(E) INSCRIT(E) AU DOSSIER :
+Pour l'appelant :
+Pour l'intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] 2003 CCI 689.
+[2] Id., par. 12.
+[3] Id., par. 13.
+[4] Assaf c. Canada, [1992] A.C.I. no 46 (QL).
+[5] BAUDOUIN, J.-L. et Y. RENAUD, Code civil du Québec annoté, vol. 2, Montréal, Wilson & Lafleur Ltée, 1995.
+[6] KÉLADA, H., Code civil du Québec - texte annoté, vol. 1, Scarborough, Carswell, 1993.
+[7] Code civil du Québec, L.Q. 1991, c. 64, art. 502, 517 et 588.
+[8] M.B. c. K.H., 2002BE-89 (C.S.).
+[9] D. c. L., [1995] R.L. 2003 (C.S.).
+[10] Droit de la famille - 833, [1990] R.J.Q. 1276 (C.A.).
+[11] Raymond c. Leclerc, [1970] C.A. 671.
+[12] Ibid, p. 672.
+[13] La Reine c. Suzanne Thibaudeau, 95 DTC 5273 (C.S.C.).
+[14] [1976] 1 C.F. 372 (C.A.).
+[15] [1986] 1 R.C.S. 264.
+[16] Me Paul Morin, Les incidences du litige conjugal sur le plan du revenu, dans PERSONNES, FAMILLE ET SUCCESSIONS, Collection de droits 2003-2004, Cowansville, Les Éditions Yvon Blais Inc., 465, p. 339.

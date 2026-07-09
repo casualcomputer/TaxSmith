@@ -1,0 +1,147 @@
+---
+title: "Ducharme v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/25928/index.do"
+last_modified: "2004-07-23"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 TCC 488"
+citation2: ""
+neutral_citation: "2004 TCC 488"
+decision_date: "2004-07-23"
+language: "en"
+item_id: "25928"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3661
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T19:12:04.636000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "dfe2cb8096ba841133010c141d97b0849770886fa4f432af429ba2f2d932b7b8"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Ducharme v. The Queen
+
+- Citation: 2004 TCC 488
+- Decision date: 2004-07-23
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3661, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Ducharme v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-07-23
+Neutral citation
+2004 TCC 488
+File numbers
+2002-2058(IT)G
+Judges and Taxing Officers
+David W. Beaubier
+Subjects
+Income Tax Act
+Decision Content
+Citation: 2004TCC488
+Date: 20040723
+Docket: 2002-2058(IT)G
+BETWEEN:
+JOANNE DUCHARME,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Application heard by telephone conference call on June 23, 2004
+Before: The Honourable Justice D.W. Beaubier
+Appearances:
+Counsel for the Appellant:
+Glen Nicholson
+Counsel for the Respondent:
+Karen Truscott
+____________________________________________________________________
+ORDER AND REASONS FOR ORDER
+[1] Pursuant to the application of the Appellant argument respecting costs of this appeal was heard by telephone conference call on June 23, 2004 after judgment on the issue was rendered on May 28, 2004.
+[2] The Appellant argued that this case falls within the criteria set out in Rule 147 and hence costs should be awarded on other than the Tariff basis. The Appellant's counsel submitted two draft Bill of Costs. The first bill, amounting to $8,859.75 is calculated under Schedule II of Tariff B of the Rules of Court. The second bill is calculated on a solicitor-client basis and amounts to $27,675.61. Appellant's counsel stated that he is not seeking costs on the basis of solicitor-client but rather a lump sum in lieu of taxed costs. Counsel is asking this Court to grant the highest amount it is inclined to accept.
+[3] The Respondent submitted that costs should be awarded to the Appellant on the basis of the Tariff. Any other costs awarded are not consistent with the circumstances of the appeal. The Respondent submitted that there are no exceptional circumstances within the criteria in Rule 147 which would require costs to be awarded on other than the normal "party and party" basis.
+[4] Section 147 of the Rules provides:
+147. (1) Subject to the provisions of the Act, the Court shall have full discretionary power over the payment of the costs of all parties involved in any proceeding, the amount and allocation of those costs and determining the persons by whom they are to be paid.
+(2) Costs may be awarded to or against the Crown.
+(3) In exercising its discretionary power pursuant to subsection (1) the Court may consider,
+(a) the result of the proceeding,
+(b) the amounts in issue,
+(c) the importance of the issues,
+(d) any offer of settlement made in writing,
+(e) the volume of work,
+(f) the complexity of the issues,
+(g) the conduct of any party that tended to shorten or to lengthen unnecessarily the duration of the proceeding,
+(h) the denial or the neglect or refusal of any party to admit anything that should have been admitted,
+(i) whether any stage in the proceedings was,
+(i) improper, vexatious, or unnecessary, or
+(ii) taken through negligence, mistake or excessive caution,
+(j) any other matter relevant to the question of costs.
+(4) The Court may fix all or part of the costs with or without reference to Schedule II, Tariff B and, further, it may award a lump sum in lieu of or in addition to any taxed costs.
+[5] The awarding of costs under rule 147 is highly discretionary. However, this discretion must be exercised on a principled basis and factors such as those provided by subsection 147(3) of the Rules should be taken into consideration. Respecting Rule 147(3) and its application to the case at bar:
+(a) the result of the proceeding
+The Appellant won her appeal.
+(b) the amounts in issue
+The amount at issue was $61,878.94, plus interest and penalties. This was a large and significant amount to the Appellant.
+(c) the importance of the issues
+The issue of whether the Appellant was liable for the amount in respect of transfers of property to the Appellant by her common-law partner, pursuant to section 160, was an important issue. The result of the appeal was significant to the Appellant.
+(d) any offer of settlement made in writing
+The evidence established that the Appellant made a written offer to settle. The offer of settlement was rejected by the Respondent. This Court granted the appeal and as such the result was more beneficial to the Appellant than the written offer.
+(g) the conduct of any party that tended to shorten or lengthen unnecessarily the duration of the proceeding
+The conduct of the Respondent has lengthened the duration of the proceedings. However, Appellant's counsel could also have sped up the process by proceeding immediately to the Tax Court of Canada instead of waiting for the Notification of Confirmation. Although this would not have severely decreased the costs involved. The Respondent did delay the proceeding.
+[6] The Appellant's offer to settle was made in writing on March 29, 2004 after which date the Appellant incurred over $9,000 in solicitor-client costs and disbursements out of a total of $27,675.65. The offer was specifically made pursuant to Rule 147(3)(d) and was for a total amount of less than the amount awarded in the actual judgment rendered. The hearing occurred in Prince George, British Columbia on May 5, 2004.
+[7] In light of the foregoing, and upon reviewing the law relating to this matter it is ordered:
+1. The Appellant is awarded a lump sum of $7,000 pursuant to her application, over and above the Tariff.
+2. The Appellant is awarded her party-and-party costs and disbursements throughout as calculated by Appellant's counsel in the amount of $8,859.75
+Signed at Saskatoon, Saskatchewan, this 23rd day of July 2004.
+"D.W. Beaubier"
+Beaubier, J.
+CITATION:
+2004TCC488
+COURT FILE NO.:
+2003-2058(IT)G
+STYLE OF CAUSE:
+Joanne Ducharme v. The Queen
+PLACE OF HEARING:
+Ottawa, Canada
+DATE OF HEARING:
+June 23, 2004
+REASONS FOR ORDER BY:
+The Honourable Justice Beaubier
+DATE OF ORDER:
+July 23, 2004
+APPEARANCES:
+Counsel for the Appellant:
+Glen R. Nicholson
+Counsel for the Respondent:
+Karen Truscott
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Glen R. Nicholson
+Firm:
+Traxler Haines
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

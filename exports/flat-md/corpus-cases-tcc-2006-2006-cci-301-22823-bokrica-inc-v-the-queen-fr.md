@@ -1,0 +1,190 @@
+---
+title: "Bokrica Inc. v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/22823/index.do"
+last_modified: "2006-06-22"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 CCI 301"
+citation2: ""
+neutral_citation: "2006 CCI 301"
+decision_date: "2006-06-22"
+language: "fr"
+item_id: "22823"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2329
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T08:31:38.109000+00:00"
+cases_cited_count: 0
+cases_citing_count: 5
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "f650e7b06914ac0af9ad8cbdda18d296e4396e4fa49fdeac5e0d30a928529b55"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Bokrica Inc. v. The Queen
+
+- Citation: 2006 CCI 301
+- Decision date: 2006-06-22
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2329, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Bokrica Inc. v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-06-22
+Référence neutre
+2006 CCI 301
+Numéro de dossier
+2000-3495(GST)G
+Juges et Officiers taxateurs
+Cameron Hugh McArthur
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2000-3495(GST)G
+ENTRE :
+BOKRIKA INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 12 décembre 2005 à Toronto (Ontario)
+Devant : L'honorable juge C. H. McArthur
+Comparutions :
+Avocat de l'appelante :
+Me Ronald B. Moldaver, c.r.
+Avocat de l'intimée :
+Me Bobby Sood
+____________________________________________________________________
+JUGEMENT
+L'appel interjeté à l'encontre de la cotisation de taxe dont l'avis est daté du 10 avril 2000 et porte le numéro 04BP-116138397 et qui a été établie en vertu de la Loi sur la taxe d'accise pour la période du 1er avril 1994 au 31 octobre 1997 est accueilli, et la cotisation est déférée au ministre du Revenu national pour qu'il procède à un nouvel examen et qu'il établisse une nouvelle cotisation en tenant compte du fait que l'appelante avait le droit de demander des crédits de taxe sur les intrants additionnels relativement aux travaux de construction exécutés sur le lotissement de Stoney Creek.
+Signé à Ottawa, Canada, ce 22e jour de juin 2006.
+« C. H. McArthur »
+Juge McArthur
+Traduction certifiée conforme
+ce 27e jour de décembre 2006.
+Mario Lagacé, jurilinguiste
+Référence : 2006CCI301
+Date : 20060622
+Dossier : 2000-3495(GST)G
+ENTRE :
+BOKRIKA INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge McArthur
+[1] L'appelante interjette appel de la nouvelle cotisation d'un montant de 21 864,20 $ établie par le ministre du Revenu national (le « ministre » ) en vertu de la Loi sur la taxe d'accise (la « Loi » ) pour la période du 1er avril 1994 au 31 octobre 1997. La question est de savoir si l'appelante a droit à des crédits de taxe sur les intrants d'un montant de 32 470,47 $ qu'elle a demandés pour la période en cause en vertu du paragraphe 169(1) de la Loi relativement aux coûts des travaux de construction effectués sur un lotissement situé à Stoney Creek en Ontario.
+[2] La nouvelle cotisation établie par le ministre à l'égard de l'appelante repose sur les hypothèses de fait suivantes :
+[traduction]
+a) l'appelante était un inscrit au sens de la partie IX de la Loi sur la taxe d'accise (la « Loi » ) à compter du 1er janvier 1991;
+b) pendant toute la période pertinente, l'exercice de l'appelante se terminait le 31 octobre pour les besoins de la TPS;
+c) pendant toute la période pertinente, l'appelante était tenue de produire des déclarations de TPS trimestriellement;
+d) la principale activité de l'appelante est la construction de nouvelles habitations;
+e) vers 1991, l'appelante a fourni à la Ville de Stoney Creek des lettres de crédit pour régler les coûts des travaux de construction non complétés sur le lotissement de Stoney Creek;
+f) l'appelante a demandé des CTI additionnels d'un montant de 32 470,47 $ relativement aux travaux de construction exécutés sur le lotissement de Stoney Creek;
+g) des CTI en question, indiqués à l'alinéa 9e) ci-dessus, un montant de 301,44 $ a été payé par l'appelante;
+h) des CTI en question, indiqués à l'alinéa 9e) ci-dessus, un montant de 32 169,03 $ a été payé par la Ville de Stoney Creek;
+i) l'appelante n'a pas le droit de demander des CTI relativement à des dépenses acquittées par la Ville de Stoney Creek.
+[3] Bozidar (Bob) Nikolic, qui s'est chargé des affaires de son défunt père, notamment de la responsabilité de l'appelante, et l'épouse de Bozidar, Svetlana Nikolic, ont témoigné pour le compte de l'appelante. L'intimée n'a cité aucun témoin.
+[4] M. Nikolic a déclaré que l'appelante était une société appartenant à son père et qu'elle avait conclu avec la Ville de Stoney Creek (la « Ville » ) une convention aux termes de laquelle elle était tenue d'aménager un lotissement en vue de la construction d'habitations. Plus précisément, l'appelante devait effectuer l'ensemble des travaux de mise en place de services publics, à savoir les égouts, l'eau, l'électricité et le gaz, d'installation des lignes téléphoniques, de pavage, d'installation de trottoirs, de plantation d'arbres et d'engazonnement des boulevards. L'appelante devait ensuite vendre les lots aménagés à des constructeurs qui allaient y bâtir des maisons. De plus, il était prévu qu'une partie du lotissement serait donnée à Stoney Creek pour que des parcs y soient aménagés. M. Nikolic a affirmé que les travaux d'aménagement du lotissement allaient coûter environ 6 000 000 $[1].
+[5] De plus, M. Nikolic a soutenu que sa fonction dans la mise en oeuvre du projet d'aménagement du lotissement, qui a été lancé en 1987, était de négocier et d'administrer les travaux de construction et de se charger de toutes les écritures, y compris de faire affaire avec la banque pour obtenir des lettres de crédit, ainsi que de s'occuper des relations avec la Ville de Stoney Creek et avec les divers entrepreneurs.
+[6] Conformément aux stipulations de la convention qui portait sur les travaux d'aménagement à réaliser sur le lotissement, l'appelante a fourni à la Ville de Stoney Creek une lettre de crédit à titre de garantie de bonne fin, dont la Ville pouvait se servir au cas où l'appelante n'exécuterait pas les travaux conformément aux dispositions de la convention. La Ville a retiré environ 900 000 $ de la banque au moyen de la lettre de crédit en question. Toutes les fois qu'un fournisseur établissait une facture à l'égard des travaux accomplis sur le lotissement, laquelle incluait la TPS, la Ville avait recours à la lettre de crédit de l'appelante pour payer les coûts en cause et elle délivrait ensuite à l'appelante une facture qui correspondait au montant de ces coûts plus les 3 % de TPS que la Ville ne pouvait pas se faire rembourser en tant que municipalité[2].
+[7] Les deux parties ont convenu que les fonds en question avaient en fin de compte été payés par Stoney Creek à des entrepreneurs et à des fournisseurs en contrepartie de l'exécution des travaux sur le lotissement que l'appelante n'avait pas effectués. Tandis que l'appelante a allégué que ces fonds avaient servi à l'achat de biens et de services à l'égard desquels elle avait droit à des crédits de taxe sur les intrants, l'intimée a soutenu que les fonds avaient été versés à Stoney Creek parce que l'appelante n'avait pas exécuté la convention qui portait sur les travaux d'aménagement à réaliser sur le lotissement. De plus, l'intimée a semblé soutenir que l'appelante pouvait uniquement demander des CTI à l'égard de la TPS payée pendant la période visée par la nouvelle cotisation, à savoir du 1er avril 1994 au 31 octobre 1997.
+[8] M. Nikolic a dit que les dépenses en question étaient étayées par les diverses factures qui se trouvaient à l'onglet 1 de la pièce A-3. Cependant, il ne semblait pas certain du montant total des factures et, en fait, il semblait ignorer tout ou ne pas se souvenir de la plupart des versements de TPS antérieurs et ne pas savoir si des déclarations avaient été produites avant la période en cause. Cependant, j'ai jugé que M. Nikolic était, d'une façon générale, un témoin crédible, et que toutes lacunes relatives à la façon dont il tenait les registres n'étaient pas attribuables à des actions intentionnelles de sa part, mais plutôt à des erreurs.
+[9] Mme Nikolic a déclaré qu'elle tenait les registres pour le compte de l'appelante. Hormis cette affirmation, son témoignage s'est avéré peu utile puisqu'aucun des deux avocats ne l'a interrogée au sujet des CTI en cause.
+[10] Au début du procès, l'intimée a soutenu que le présent appel avait été interjeté pour le compte de l'appelante par une personne qui n'avait pas le pouvoir de le faire, et que, par conséquent, la Cour n'était pas valablement saisie de l'affaire et qu'il y avait donc lieu d'annuler l'appel. L'intimée a fait valoir que, puisque M. Nikolic avait affirmé qu'après juillet 1995 l'appelante n'avait aucun administrateur, actionnaire, dirigeant ou employé et qu'il n'était pas lui-même un administrateur ou un dirigeant, il n'avait pas qualité pour faire appel en l'espèce.
+[11] L'avocat de l'appelante a fait valoir que M. Nikolic était un administrateur de fait qui avait le pouvoir d'interjeter le présent appel et de plaider sa cause, qu'il avait participé aux activités de l'appelante avant et après le décès de son père en 1995, et qu'à ce titre il agissait en tant qu'administrateur. De plus, l'avocat a affirmé que M. Nikolic avait initialement déclaré qu'il pensait être un administrateur.
+[12] Il se peut que M. Nikolic ait témoigné qu'il n'était pas un administrateur ou un dirigeant, néanmoins, il s'est présenté comme étant un représentant autorisé de la société dans les communications de celle-ci avec l'Agence du revenu du Canada et avec la Ville de Stoney Creek. Après le décès de son père en 1995, M. Nikolic s'est occupé des écritures de l'appelante et des communications de celle-ci avec l'ARC au cours de la vérification, se présentant en règle générale comme la personne responsable.
+[13] Au cours de toute la période pendant laquelle la Ville de Stoney Creek a eu recours à la lettre de crédit de l'appelante pour retirer des fonds, M. Nikolic a continué de communiquer avec la Ville pour le compte de l'appelante, et de nombreuses factures ont été envoyées à son nom à l'adresse de l'appelante[3]. Aux yeux des tiers faisant affaire avec l'appelante, il aurait semblé que M. Nikolic avait le pouvoir de passer des contrats, de négocier et de faire des déclarations au nom de l'appelante.
+[14] Bien qu'il ne soit pas nécessaire de déterminer si M. Nikolic était un administrateur de l'appelante, je n'ai aucun doute qu'il en fût un. Dans l'arrêt La Reine c. Corsano[4], la Cour d'appel fédérale a examiné à fond la question de savoir qui était responsable en tant qu'administrateur de l'omission d'une société de verser une somme due au fisc, et elle a affirmé ce qui suit :
+Le paragraphe 227.1(1) de la Loi rend responsables tous les administrateurs d'une corporation qui a omis de remettre les sommes dues à Revenu Canada. Dans ce paragraphe, le terme « administrateurs » n'est aucunement restreint ou précisé. Une des règles élémentaires de rédaction législative, dictée par une règle d'interprétation correspondante, prévoit que l'usage d'un terme générique sans restrictions ou précisions exprime la volonté du législateur de lui donner un sens large. Ici, en utilisant le terme « administrateurs » sans restrictions au paragraphe 227.1(1), le législateur a voulu qu'il recouvre tous les genres d'administrateurs reconnus en droit des sociétés, notamment les administrateurs de droit et de fait.
+[15] M. Nikolic s'est occupé de toute la correspondance au nom de la société, y compris de la signature du formulaire de versement de la TPS. Il a aussi pris part aux interrogatoires préalables et a témoigné au procès, affirmant à ces deux occasions qu'il était un représentant autorisé de l'appelante. De plus, lors de l'interrogatoire préalable, M. Nikolic a déclaré qu'il croyait être un administrateur de l'appelante et il a entrepris de déterminer qui étaient les administrateurs, s'il y en avait. Du vivant de son père, M. Nikolic a joué un rôle très actif dans l'exploitation quotidienne de l'appelante et il a continué à le faire après le décès de son père. Puisque M. Nikolic a dit lors d'un interrogatoire préalable additionnel que l'appelante n'avait aucun administrateur, dirigeant, employé ou actionnaire après le décès de son père, la seule explication raisonnable des gestes qu'il a posés au nom de l'appelante est qu'il était son administrateur de fait.
+[16] Comme je l'ai déjà dit, la question en litige dans le présent appel est de savoir si l'appelante a droit aux CTI demandés relativement aux dépenses engagées pour l'achèvement des travaux d'aménagement du lotissement, que la Ville de Stoney Creek a payés au moyen de fonds obtenus grâce à la lettre de crédit de l'appelante. Pour pouvoir trancher cette question, il faut examiner les dispositions pertinentes de la Loi, plus précisément les versions antérieures des paragraphes 123(1) et 169(1), de même que les versions actuelles des paragraphes 123(1), 169(1), 225(4) et 225(4.1).
+[17] Initialement, la Loi définissait ainsi le terme « acquéreur » [5] :
+123(1) Les définitions qui suivent s'appliquent à l'article 121, à la présente partie et aux annexes V, VI et VII.
+« acquéreur » Personne qui paie, ou accepte de payer, la contrepartie d'une fourniture ou, à défaut de contrepartie, destinataire de la fourniture.
+En 1993, une modification a été apportée à la définition, et cette nouvelle version est toujours en vigueur aujourd'hui. Elle est ainsi libellée[6] :
+123(1) Les définitions qui suivent s'appliquent à l'article 121, à la présente partie et aux annexes V à X.
+« acquéreur »
+a) Personne qui est tenue, aux termes d'une convention portant sur une fourniture, de payer la contrepartie de la fourniture;
+b) Personne qui est tenue, autrement qu'aux termes d'une convention portant sur une fourniture, de payer la contrepartie de la fourniture; [...]
+Par ailleurs, la mention d'une personne au profit de laquelle une fourniture est effectuée vaut mention de l'acquéreur de la fourniture.
+Le paragraphe 169(1) de la Loi portant sur les crédits de taxe sur les intrants, qui a cessé d'être en vigueur le 1er avril 1997, était ainsi rédigé :
+169(1) Sous réserve de la présente partie, le crédit de taxe sur les intrants d'une personne, [...] relativement à un bien ou à un service qu'elle importe ou qui lui est fourni, correspond au résultat du calcul suivant si [...] la taxe relative à l'importation ou à la fourniture devient payable par la personne ou est payée par elle sans qu'elle soit devenue payable : [...]
+Par la suite, à compter du 1er avril 1997, ce paragraphe était ainsi rédigé :
+169(1) Sous réserve des autres dispositions de la présente partie, un crédit de taxe sur les intrants d'une personne, [...] relativement à un bien ou à un service qu'elle acquiert, importe ou transfère dans une province participante, correspond au résultat du calcul suivant si, au cours de cette période, la taxe relative à la fourniture, à l'importation ou au transfert devient payable par la personne ou est payée par elle sans qu'elle soit devenue payable : [...]
+Le délai à l'intérieur duquel une personne peut demander des CTI est prévu au paragraphe 225(4) de la Loi, dont le texte suit :
+225(4) La personne qui demande un crédit de taxe sur les intrants pour sa période de déclaration donnée doit produire une déclaration aux termes de la présente section au plus tard le jour suivant :
+a) dans le cas où elle est une personne déterminée au cours de la période donnée :
+[...]
+(iii) dans les autres cas, le jour où la déclaration aux termes de la présente section est à produire pour la dernière période de déclaration de la personne se terminant dans les deux ans suivant la fin de son exercice qui comprend la période donnée;
+b) dans le cas où la personne n'est pas une personne déterminée au cours de la période donnée, le jour où la déclaration aux termes de la présente section est à produire pour la dernière période de déclaration de la personne se terminant dans les quatre ans suivant la fin de la période donnée;
+225(4.1) Pour l'application du paragraphe (4), est une personne déterminée au cours d'une période de déclaration :
+a) [...]
+b) la personne dont le montant déterminant, calculé selon le paragraphe 249(1), pour son exercice donné qui comprend la période ainsi que pour son exercice précédent dépasse 6 000 000 $.
+Les personnes qui ne sont pas des institutions financières désignées visées à l'un des sous-alinéas 149(1)a)(i) à (x) au cours de la période ne sont pas des personnes déterminées si elles sont des organismes de bienfaisance au cours de la période ou si la totalité, ou presque, des fournitures qu'elles effectuent au cours de l'un ou l'autre de leurs deux exercices précédant l'exercice donné (sauf les fournitures de services financiers) sont des fournitures taxables.
+[18] Dans l'affaire Bondfield Construction Co. (1983) Ltd. v. Canada[7], dans laquelle elle a retenu les services d'un second sous-traitant pour corriger les travaux insatisfaisants exécutés par le premier sous-traitant, la société Bondfield (ci-après « Bondfield » ) avait fait payer au premier sous-traitant la somme qu'elle a versée au second sous-traitant. La Cour a refusé à Bondfield les CTI demandés au motif qu'elle n'était pas l'acquéreur de la fourniture. La Cour a conclu qu'en faisant payer le prix des travaux au premier sous-traitant, Bondfield a fait en sorte que le premier sous-traitant était tenu de payer la facture établie par le second sous-traitant, et qu'à ce titre le premier sous-traitant était l'acquéreur de la fourniture aux fins du calcul des CTI. Dans l'extrait de sa décision reproduit ci-dessous, la juge Campbell a, en un paragraphe, correctement établi qui avait le droit de demander les CTI en vertu du paragraphe 169(1) de la Loi :
+Selon le paragraphe 169(1), la personne qui a le droit de demander les CTI est celle à qui la fourniture est effectuée et, selon le paragraphe 123(1), cette personne est réputée être l' « acquéreur » . Pour l'application de la Loi sur la taxe d'accise, c'est donc l'acquéreur de la fourniture qui a le droit de demander les CTI. Or, qui était l'acquéreur en l'espèce? Aux paragraphes 123(1) et 169(1), l'accent est mis sur la personne qui est tenue de payer la contrepartie de la fourniture (et par conséquent, de payer la taxe sur cette fourniture). Le libellé de ces dispositions et la simple logique commandent que les paragraphes 123(1) et 169(1) visent à allouer les CTI à la personne qui a en fait payé la TPS sur la fourniture.
+[19] J'applique le raisonnement reproduit ci-dessus au présent appel parce que les faits en l'espèce sont très semblables à ceux de l'affaireBondfield. Dans les deux causes, une tierce partie a été engagée pour exécuter des travaux correctifs qui ont été payés par l'acheteur contractant initial (en l'espèce Stoney Creek), qui en a ensuite fait payer le prix au fournisseur contractant initial (en l'espèce l'appelante). Même si l'intimée a eu raison d'affirmer que les paiements faits par l'appelante à Stoney Creek résultaient d'un bris de contrat, cette constatation importe peu puisque les paiements en question étaient remis à d'autres fournisseurs en contrepartie de fournitures taxables à l'égard desquelles l'appelante avait droit à des CTI.
+[20] La preuve qui m'a été soumise montre, comme dans l'affaire Bondfield, que Stoney Creek a conclu directement avec les nouveaux fournisseurs des conventions qui portaient sur les travaux correctifs. Stoney Creek était-elle pour autant l'acquéreur de la fourniture au sens du paragraphe 123(1) de la Loi? La juge Campbell s'est posé la question dans la décision Bondfield, et je souscris à sa conclusion que « nous devons donc déterminer qui était "de manière ultime" responsable du paiement de la fourniture » .
+[21] Stoney Creek n'était pas tenue de payer les prix demandés par les tierces parties pour l'achèvement des travaux sur le lotissement. La Ville savait en tout temps qu'elle pouvait obtenir des fonds grâce à la lettre de crédit de l'appelante, et c'est ce qu'elle a fait. En fait, elle a envoyé à l'appelante des factures faisant état de tous les fonds utilisés, et, à cet égard, la relation qui existait entre Stoney Creek et l'appelante était semblable à celle qui s'établit entre un mandant et son mandataire.
+[22] L'intimée a aussi soutenu que, même si l'appelante avait droit aux CTI en cause, elle ne devait se voir accorder que les CTI qui correspondaient à des dépenses engagées au cours de la période visée par la nouvelle cotisation, à savoir du 1er avril 1994 au 31 octobre 1997. Je suis d'accord avec l'intimée pour dire que l'appelante ne peut pas demander les CTI relatifs aux dépenses engagées après le 31 octobre 1997, mais je ne suis pas de son avis au sujet de la période précédant le 1er avril 1994. Le paragraphe 225(4) de la Loi fixe le délai pour demander des CTI et dispose que ce délai est de deux ans pour une « personne déterminée » et de quatre ans pour la plupart des autres personnes. À la lumière des faits limités qui m'ont été présentés, j'en viens à la conclusion que l'appelante n'était pas une « personne déterminée » au sens du paragraphe 225(4.1) de la Loi, et que le délai à l'intérieur duquel elle devait demander les CTI est donc régi par le sous-alinéa 225(4)a)(iii) de la Loi.
+[23] Finalement, l'intimée a avancé que l'appelante ne devait pas avoir droit aux CTI étant donné qu'elle semblait les avoir demandés pour la période du 1er novembre 1997 au 31 janvier 1998, qui ne fait pas partie de la période visée par la nouvelle cotisation établie par le ministre. Le paragraphe 225(3) de la Loi empêche, d'une façon générale, un inscrit de demander des CTI qui ont déjà été demandés pour une période de déclaration antérieure, et la Loi contient une restriction semblable relativement aux périodes de déclaration ultérieures. En l'espèce, cependant, la question de savoir si l'appelante a demandé les CTI en cause pour une période postérieure à la période visée par la nouvelle cotisation établie à son égard est sans conséquence puisque ces CTI ne semblent pas avoir été versés par le ministre.
+[24] Compte tenu des documents et de la preuve qui m'ont été soumis, j'arrive à la conclusion que l'appelante était, en fin de compte, responsable du paiement de la contrepartie des fournitures taxables décrites dans les factures figurant à l'onglet 1 de la pièce A-3, et qu'à ce titre elle a le droit de demander les CTI correspondants. De plus, l'appelante a droit aux CTI associés aux factures relatives à la période allant de la date fixée conformément au paragraphe 225(4) de la Loi jusqu'au 31 octobre 1997. Cependant, en ce qui concerne les factures portant une date postérieure au 31 octobre 1997, les CTI doivent être demandés pour les périodes de déclaration connexes.
+[25] Le présent appel est accueilli, et la cotisation est déférée au ministre pour qu'il procède à un nouvel examen et qu'il établisse une nouvelle cotisation en tenant compte du fait que l'appelante avait droit aux CTI demandés relativement aux travaux de construction exécutés sur le lotissement de Stoney Creek.
+Signé à Ottawa, Canada, ce 22e jour de juin 2006.
+« C. H. McArthur »
+Juge McArthur
+Traduction certifiée conforme
+ce 27e jour de décembre 2006.
+Mario Lagacé, jurilinguiste
+RÉFÉRENCE : 2006CCI301
+N º DU DOSSIER DE LA COUR : 2000-3495(GST)G
+INTITULÉ : Bokrika Inc. et
+Sa Majesté la Reine
+LIEU DE L'AUDIENCE : Toronto (Ontario)
+DATE DE L'AUDIENCE : Le 12 décembre 2005
+MOTIFS DU JUGEMENT : L'honorable juge C. H. McArthur
+DATE DU JUGEMENT : Le 22 juin 2006
+COMPARUTIONS :
+Avocat de l'appelante :
+Me Ronald B. Moldaver, c.r.
+Avocat de l'intimée :
+Me Bobby Sood
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelante :
+Nom : Me Ronald B. Moldaver, c.r.
+Cabinet : Traub Moldaver
+Pour l'intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Pièce R-1.
+[2] Article 259 de la Loi.
+[3] Pièce A-3, onglet 1.
+[4] [1999] 3 C.F. 173 (C.A.F.).
+[5] Ajoutée par L.C. 1990, ch. 45, paragraphe 12(1).
+[6] Modifiée par L.C. 1993, ch. 27, paragr. 10(1), réputée entrée en vigueur le 17 décembre 1990.
+[7] [2005] G.S.T.C. 110 (C.C.I.).

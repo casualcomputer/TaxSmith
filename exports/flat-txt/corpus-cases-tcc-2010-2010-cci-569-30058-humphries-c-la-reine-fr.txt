@@ -1,0 +1,153 @@
+Title: Humphries c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30058/index.do
+Corpus path: corpus/cases/tcc/2010/2010-cci-569-30058-humphries-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2010-11-04
+
+# Humphries c. La Reine
+
+- Citation: 2010 CCI 569
+- Decision date: 2010-11-04
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7690, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Humphries c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2010-11-04
+Référence neutre
+2010 CCI 569
+Numéro de dossier
+2009-758(EI)
+Juges et Officiers taxateurs
+Valerie A. Miller
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2009-758(EI)
+ENTRE :
+TOM HUMPHRIES,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 25 octobre 2010, à Toronto (Ontario).
+Devant : L’honorable juge Valerie Miller
+Comparutions :
+Pour l’appelant :
+L’appelant lui‑même
+Avocat de l’intimée :
+Me Christian Cheong
+____________________________________________________________________
+JUGEMENT
+L’appel d’une décision rendue en vertu de la Loi sur l’assurance‑emploi pour la période du 30 avril 2007 au 15 décembre 2007 est rejeté et la décision du ministre du Revenu national est confirmée.
+Signé à Ottawa, Canada, ce 4e jour de novembre 2010.
+« V.A. Miller »
+Juge V.A. Miller
+Traduction certifiée conforme
+ce 10e jour de janvier 2011.
+Nathalie Gadbois, LL. L., LL. B.
+Référence : 2010 CCI 569
+Date : 20101104
+Dossier : 2009-758(EI)
+ENTRE :
+TOM HUMPHRIES,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge V.A. Miller
+[1] La question en litige dans le présent appel consiste à déterminer si l’appelant exerçait un emploi assurable auprès de Stoneridge Inc. (la « société ») pendant la période du 30 avril 2007 au 15 décembre 2007.
+[2] Le ministre du Revenu national (le « ministre ») a déterminé que l’appelant n’avait pas été embauché par la société en vertu d’un contrat de louage de services, suivant l’alinéa 5(1)a) de la Loi sur l’assurance‑emploi (la « Loi »); et, de façon subsidiaire, que si un contrat de louage de services existait, l’emploi de l’appelant était un emploi visé par la restriction puisque l’appelant et la société avaient entre eux un lien de dépendance, suivant l’alinéa 5(2)i) de la Loi.
+[3] Pour justifier sa décision, le ministre s’est fondé sur les hypothèses de faits suivantes :
+[traduction]
+a) le payeur a été constitué en société en 1994;
+b) l’appelant et son épouse détenaient chacun 39 p. 100 des actions du payeur et le frère de l’appelant détenait les 22 p. 100 restants des actions;
+c) la principale activité commerciale du payeur état le marquage de la chaussée;
+d) les activités du payeur étaient saisonnières et se déroulaient habituellement de mai à décembre;
+e) les activités commerciales du payeur étaient menées à Terre‑Neuve‑et‑Labrador et en Ontario;
+f) l’appelant était responsable des activités quotidiennes du payeur;
+g) l’appelant prenait toutes les décisions importantes qui incombaient au payeur;
+h) l’appelant fixait ses heures de travail;
+i) l’appelant n’était pas supervisé et n’était pas tenu de rendre compte de son temps à qui que ce soit;
+j) le taux de rémunération déterminé de l’appelant était de 825 $ par semaine;
+k) pour la période visée par l’appel, l’appelant a reçu un relevé d’emploi (le « RE »), portant le numéro de série E06866188, indiquant 1 240 heures de travail et une rémunération totale de 21 450 $;
+l) pendant la période visée par l’appel, l’appelant n’a pas été payé;
+m) outre sa participation aux activités commerciales du payeur, l’appelant était également le propriétaire unique d’une entreprise exerçant ses activités sous le nom Quality Line Marking (« QLM »);
+n) la principale activité commerciale de QLM était aussi le marquage de la chaussée;
+o) QLM exerçait ses activités à Terre‑Neuve‑et‑Labrador et en Ontario;
+p) les activités de QLM étaient saisonnières et se déroulaient habituellement de mai à décembre;
+q) le payeur et QLM avaient le même numéro de téléphone, tant à Terre‑Neuve‑et‑Labrador qu’en Ontario;
+r) l’épouse de l’appelant était la seule personne qui figurait sur la liste de paie de QLM;
+s) c’est QLM et non le payeur qui était propriétaire de l’équipement de marquage de lignes utilisé par le payeur et par QLM, pour leurs activités commerciales respectives.
+11. Pour conclure que l’appelant et le payeur avaient entre eux un lien de dépendance, l’intimée s’est basée sur les hypothèses de fait suivantes :
+a) les faits énumérés au paragraphe 10 ci‑dessus;
+b) pendant les dernières années, le payeur n’avait aucun autre employé;
+c) pour les exercices se terminant le 30 avril 2006 et le 30 avril 2007, le payeur n’avait aucune autre dépense importante à part les dépenses déduites relativement au salaire de l’appelant;
+d) l’appelant et le payeur n’ont pas fourni de renseignements suffisants pour permettre à l’intimée d’examiner et d’analyser les circonstances de l’implication de l’appelant auprès du payeur.
+[4] L’appelant a interjeté appel devant la Cour à l’égard de la même question en litige, pour la période du 16 mai 1994 au 30 septembre 1994. Les motifs du jugement rendu à ce moment‑là énonçaient que l’appelant avait un diplôme en technologie du génie civil. Il avait travaillé auprès d’un importante société ontarienne en tant que gestionnaire de projets, directeur de travaux, évaluateur et superviseur d’employés.
+[5] En 1994, l’appelant a fait en sorte que la société soit constituée à Terre‑Neuve‑et‑Labrador. Avant 1997, la société menait ses activités à la fois à Terre‑Neuve‑et‑Labrador et en Ontario. Cependant, après 1997, elle exerçait ses activités seulement en Ontario, lesquelles consistaient à nettoyer et à enlever la peinture de structures par nettoyage au bicarbonate de soude. L’appelant a expliqué en toute franchise que les activités de la société étaient saisonnières; et, sur l’avis de son comptable et avocat, il a établi la structure de l’actionnariat afin que l’obtention de prestations d’assurance‑emploi (les « prestations ») soit possible. Son épouse Wanda et lui détenaient chacun 39 p. 100 des actions de la société et son frère, 22 p. 100.
+[6] Selon son témoignage, son épouse et lui vivaient dans la ville de Deer Lake, à Terre‑Neuve‑et‑Labrador, où ils avaient construit une maison. Ils ont travaillé en Ontario d’avril à novembre ou décembre, puis ils sont retournés à Terre‑Neuve‑et‑Labrador pour l’hiver, où ils ont touché des prestations.
+[7] Pendant la période visée et pendant plusieurs années précédant 2007, l’appelant était le seul travailleur de la société. Il était responsable des activités quotidiennes de la société. Il ne relevait de personne et se supervisait lui‑même. Ses heures de travail dépendaient des travaux qu’il devaient réaliser, et il était chargé d’obtenir ces travaux pour la société. Il a mentionné qu’il travaillait du lundi au vendredi, de 8 h à 20 h. Pendant cette période, il gagnait 825 $ par semaine.
+[8] L’appelant a expliqué que son intention était que la société mène ses activités à St. John’s, Terre‑Neuve‑et‑Labrador; et, en 2007, il a formé son frère pour qu’il puisse effectuer du nettoyage au bicarbonate de soude. Toutefois, lorsque la demande de prestations de l’appelant a été refusée, la situation financière du frère de l’appelant ne lui permettait pas de travailler pour la société, puisqu’il avait besoin de toucher des prestations.
+[9] Pendant la même période, l’appelant exploitait une entreprise dénommé Quality Line Marking (« QLM ») en tant que propriétaire unique. Son entreprise faisait du marquage de la chaussée et elle menait ses activités seulement en Ontario après 1997. Il a expliqué comment lui et son épouse exécutaient leurs tâches pour QLM. Pendant la période allant de juin à décembre 2007, Wanda était peintre adjointe au marquage de lignes et l’appelant faisait fonctionner la machine de marquage de lignes. J’en conclus qu’ils étaient les seuls travailleurs de QLM en 2007. Toutefois, Wanda était la seule qui figure sur la liste de paie de QLM. D’après le relevé d’emploi (RE) déposé auprès de Services Canada, Wanda a travaillé 746 heures du 4 juin 2007 au 1er décembre 2007 et elle a reçu une rémunération assurable de 12 606 $. Le RE a été signé par l’appelant.
+[10] Le RE déposé auprès de Services Canada pour l’appelant a était signé par Wanda et il indiquait que l’emploi de l’appelant était le suivant : « coordonnateur de projets de construction »; sa rémunération assurable était de 21 450 $; ses heures d’emploi assurables se chiffraient à 1 240 heures et l’employeur était la société.
+[11] La question sur laquelle je dois me prononcer consiste à déterminer si l’appelant avait été engagé par la société en tant qu’employé. Dans 671122 Ontario Ltd. c. Sagaz Industries Canada Inc.[1], le juge Major a décrit l’analyse qui doit être utilisée pour prendre une telle décision. Il a écrit :
+47 Bien qu’aucun critère universel ne permette de déterminer si une personne est un employé ou un entrepreneur indépendant, je conviens avec le juge MacGuigan que la démarche suivie par le juge Cooke dans la décision Market Investigations, précitée, est convaincante. La question centrale est de savoir si la personne qui a été engagée pour fournir les services les fournit en tant que personne travaillant à son compte. Pour répondre à cette question, il faut toujours prendre en considération le degré de contrôle que l’employeur exerce sur les activités du travailleur. Cependant, il faut aussi se demander, notamment, si le travailleur fournit son propre outillage, s’il engage lui-même ses assistants, quelle est l’étendue de ses risques financiers, jusqu’à quel point il est responsable des mises de fonds et de la gestion et jusqu’à quel point il peut tirer profit de l’exécution de ses tâches. [Non souligné dans l’original.]
+[12] Ces facteurs décrits par le juge Major sont ceux qui ont été établis dans l’affaire Wiebe Door. Dans l’arrêt Combined Insurance Company of America c. M.R.N.[2], le juge Nadon a examiné la jurisprudence et établi des principes qui doivent être appliqués de la façon suivante :
+[35] De ces décisions, il se dégage, à mon avis, les principes suivants :
+1. Les faits pertinents, incluant l’intention des parties quant à la nature de leur relation contractuelle, doivent être examinés à la lumière des facteurs de Wiebe Door, précitée, et à la lumière de tout autre facteur qui peut s’avérer pertinent compte tenu des circonstances particulières de l'instance;
+2. Il n’existe aucune manière préétablie d’appliquer les facteurs pertinents et leur importance dépendra des circonstances et des faits particuliers de l’affaire.
+Même si en règle générale, le critère de contrôle aura une importance marquée, les critères élaborés dans Wiebe Door et Sagaz, précités, s’avéreront néanmoins utiles pour déterminer la véritable nature du contrat.
+[13] L’appelant avait l’intention d’être engagé par la société en tant qu’employé. En fait, la société était structurée pour réaliser cet objectif. Cependant, après examen de tous les éléments de preuve présentés dans le cadre de cet appel et toutes les hypothèses émises par le ministre et qui n’ont pas été réfutées par l’appelant, je conclus qu’il n’y avait pas de contrat de louage de services entre l’appelant et la société.
+[14] Je ne me suis pas demandée si la relation entre l’appelant et la société était une imposture, puisque cette conclusion n’a pas été envisagée par le ministre. Toutefois, le RE fourni à Services Canada au nom de l’appelant a soulevé plusieurs questions. L’une des questions consiste à se déterminer pourquoi les tâches énumérées dans le RE sont différentes de celles décrites par l’appelant lors de l’audience?
+[15] L’appelant était responsable de tous les aspects des activités du payeur. Il cherchait et trouvait des clients pour la société; il était le seul travailleur de la société et il choisissait ses propres heures de travail. Il a mentionné que, s’il avait eu plus de travail qu’il ne pouvait accomplir, il aurait donné du travail en sous‑traitance. Ni la société ni, par extension, ses actionnaires, n’avaient de contrôle sur l’appelant ou sur le travail qu’il effectuait. L’appelant était l’âme dirigeante de la société.
+[16] J’ai aussi pris en compte le fait que l’épouse ainsi que le frère de l’appelant, qui détenaient respectivement 39 p. 100 et 22 p. 100 des actions de la société, n’ont pas témoigné. Les éléments de preuve ont montré qu’ils ne participaient en aucune façon à l’exploitation de la société.
+[17] Les outils que l’appelant utilisait pour s’acquitter de ses tâches étaient soit loués par lui ou possédés par lui. Il a mentionné qu’on lui avait dit de ne pas détenir l’équipement dans la société et, par conséquent, QLM détenait l’équipement et le louait à la société. Cependant, QLM est l’appelant. Il n’avait aucun document à l’appui du fait de la société payait un loyer pour l’équipement qu’elle utilisait.
+[18] Le ministre a supposé que l’appelant n’était pas payé par la société. Mis à part son témoignage, l’appelant n’a pas réfuté cette hypothèse. Il n’a fourni aucun chèque ni relevé bancaire pour appuyer son témoignage. On aurait pu s’attendre à ce que, si l’hypothèse était inexacte, l’appelant serait venu à l’audience prêt à fournir des preuves documentaires pour soutenir son témoignage. Son appel précédent devant la Cour a été rejeté compte tenu du fait que l’appelant n’avait déposé les chèques qu’il avait reçus de la société qu’après la période d’emploi.
+[19] Le fait que l’appelant n’était pas payé par la société est en soit insuffisant pour déterminer qu’aucun contrat de louage de services n’existait entre l’appelant et la société. Comme le mentionnait le juge Tardiff dans Laverdière c. Canada (ministre du Revenu national)[3] :
+51 La Loi n’assure que les véritables contrats de louage de services; un contrat de travail dont la rétribution n’est pas fonction de la période d’exécution du travail ne peut être défini comme un véritable contrat de louage de services. Il s’agit d’une entente ou d’un arrangement qui discrédite la qualité d’un véritable contrat de louage à ce qu’il associe des éléments étrangers à la réalité contractuelle exigée par la Loi.
+[20] L’appelant n’a fourni aucune preuve en ce qui concerne les clients de la société. Je ne sais pas si la société avait des clients en 2007; qui étaient ces clients; combien générait la société; comment la rémunération de l’appelant était fixée; ni si la société possédait des livres comptables. Il y avait une pénurie de preuve documentaire marquée dans le cadre du présent appel.
+[21] Dans l’appel pour la période de 1994, le juge Bell a conclu qu’un contrat de louage de services existait entre l’appelant et la société. Toutefois, il a rejeté l’appel parce qu’il a déterminé que l’appelant et la société avaient entre eux un lien de dépendance.
+[22] Lorsque je considère la totalité de la preuve qui a été déposée à l’audience du présent appel, je conclus que l’appelant n’exerçait pas son emploi auprès de la société, durant la période, en vertu d’un contrat de louage de services. Les faits qui m’ont été présentés étaient très différents de ceux qui ont été présentés au juge Bell. Dans l’appel précédent, l’entreprise de la société était le marquage de la chaussée; tous les actionnaires étaient embauchés par la société et connaissaient les acticvités commerciales de la société. Celle‑ci menait ses activités à Terre‑Neuve‑et‑Labrador et en Ontario.
+[23] Je n’ai pas à déterminer si l’appelant exerçait un emploi visé par la restriction parce que j’ai conclu que l’appelant n’était pas engagé en vertu d’un contrat de louage de services. Pour toutes les raisons susmentionnées, l’appel est rejeté.
+Signé à Ottawa, Canada, ce 4e jour de novembre 2010.
+« V.A. Miller »
+Juge V.A. Miller
+Traduction certifiée conforme
+ce 10e jour de janvier 2011.
+Nathalie Gadbois, LL. L., LL. B.
+RÉFÉRENCE : 2010CCI569
+NO DU DOSSIER DE LA COUR : 2009-758(EI)
+INTITULÉ : TOM HUMPHRIES
+c.
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Le 25 octobre 2010
+MOTIFS DU JUGEMENT : L’honorable juge Valerie Miller
+DATE DU JUGEMENT : Le 4 novembre 2010
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui‑même
+Avocat de l’intimée:
+Me Christian Cheong
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Cabinet :
+Pour l’intimée: Myles J. Kirvan
+Sous‑procureur général du Canada
+Ottawa, Canada
+[1] 2001 CSC 59.
+2 [2007] A.C.F. no 124, au paragraphe 35.
+[3] [1999] A.C.I. no 124, au paragraphe 51.

@@ -1,0 +1,312 @@
+Title: Stigen c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28757/index.do
+Corpus path: corpus/cases/tcc/2008/2008-cci-405-28757-stigen-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2008-07-08
+
+# Stigen c. La Reine
+
+- Citation: 2008 CCI 405
+- Decision date: 2008-07-08
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1544, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Stigen c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-07-08
+Référence neutre
+2008 CCI 405
+Numéro de dossier
+2004-2163(IT)G
+Juges et Officiers taxateurs
+Campbell J. Miller
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2004‑2163(IT)G
+ENTRE :
+TARA STIGEN,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 5 mai 2008, à Edmonton (Alberta).
+Devant : L’honorable juge Campbell J. Miller
+Comparutions :
+Avocats de l’appelante :
+Me Carman R. McNary
+Me Benjamin C. Evans
+Avocats de l’intimée :
+Me Darcie Charlton
+Me Julia S. Parker
+____________________________________________________________________
+JUGEMENT
+L’appel de la nouvelle cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2001 est rejeté.
+Signé à Ottawa, Canada, ce 8e jour de juillet 2008.
+« Campbell J. Miller »
+Juge Miller
+Traduction certifiée conforme
+ce 6e jour d’avril 2009.
+Mario Lagacé, jurilinguiste
+Référence : 2008 CCI 405
+Date : 20080708
+Dossier : 2004‑2163(IT)G
+ENTRE :
+TARA STIGEN,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Miller
+[1] Mme Tara Stigen, une Indienne selon la définition figurant à l’article 2 de la Loi sur les Indiens, affirme que des intérêts au montant de 2 920,68 $ que Peace Hills Trust Company (« Peace Hills ») lui a versés en 2001 sont exonérés d’impôt selon l’alinéa 81(1)a) de la Loi de l’impôt sur le revenu et le paragraphe 87(2) de la Loi sur les Indiens. Le ministre du Revenu national (le « ministre ») a refusé d’accorder l’exemption pour le motif que les intérêts, bien qu’ils constituent des biens meubles, ne sont pas situés dans une réserve.
+[2] Les parties ont déposé un exposé conjoint des faits, qui est ici reproduit presque au complet :
+[traduction]
+2. L’appelante a gagné un revenu en intérêts de 2 920,68 $ provenant de Peace Hills Trust Company (« PHTC ») (les « intérêts »), mais elle n’a pas inclus ce montant dans sa déclaration de revenus des particuliers pour 2001 parce qu’elle croyait que les intérêts étaient exonérés d’impôt.
+3. Le ministre a établi une nouvelle cotisation à l’égard de l’appelante en vue d’inclure les intérêts dans son revenu pour 2001.
+[...]
+5. Les intérêts en question sont composés des montants suivants :
+Certificat de placement garanti (le « CPG »)
+(PHTC – succursale de Saskatoon) 2 128,54 $
+CPG
+(PHTC – succursale d’Edmonton) 787,60 $
+Compte d’épargne conjoint
+(PHTC – succursale d’Edmonton) 4,54 $
+Total 2 920,68 $
+6. L’appelante est un particulier résidant au Canada.
+7. L’appelante est une Canadienne autochtone et une Indienne selon la définition figurant à l’article 2 de la Loi sur les Indiens.
+8. L’appelante n’a jamais résidé dans une réserve selon la définition figurant à l’article 2 de la Loi sur les Indiens.
+9. L’appelante effectuait ses opérations bancaires à la succursale d’Edmonton de PHTC. En 1999, son mari, Chad Stigen, et elle ont ouvert un compte d’épargne conjoint à la succursale d’Edmonton de PHTC (le « compte conjoint »). La documentation se rapportant au compte conjoint a été préparée et était conservée à la succursale d’Edmonton de PHTC.
+10. L’appelante et Chad Stigen déposaient tous deux de l’argent dans le compte conjoint.
+11. Au cours de l’année 2001, l’appelante possédait trois CPG portant intérêt émis par PHTC (les « CPG ») :
+• Le CPG 334250‑5, que l’appelante a acheté à la succursale de PHTC, à Saskatoon (Saskatchewan), en 1999, lors d’un séjour à Saskatoon;
+• Les CPG 334250‑7 et 334250‑8, que l’appelante a achetés à la succursale de PHTC, à Edmonton (Alberta), en 20011.
+12. La documentation se rapportant à chaque CPG a été préparée et était conservée à la succursale de PHTC où le CPG en question avait été acheté.
+13. Les intérêts ont été gagnés sur l’argent qui était déposé dans le compte conjoint et investi dans les CPG.
+14. L’appelante n’a pas dépensé les intérêts; elle les a laissés dans le compte conjoint ou dans les CPG.
+15. PHTC est une société de fiducie qui a été constituée le 19 novembre 1980 en vertu de la Loi sur les sociétés de fiducie fédérale.
+16. PHTC appartient à cent pour cent à la Nation crie de Samson, Hobbema (Alberta).
+17. Selon le rapport annuel de 2001, l’énoncé de mission de PHTC est le suivant : [traduction] « Exploiter une société de fiducie offrant des services complets à l’échelle nationale, axée sur les communautés des Premières nations. »
+18. PHTC est inscrite en Colombie‑Britannique, en Alberta, en Saskatchewan, au Manitoba, en Ontario, au Nouveau‑Brunswick, au Yukon et dans les Territoires du Nord‑Ouest.
+19. PHTC utilise des succursales régionales pour se positionner dans les réserves et en dehors des réserves, afin de servir le plus grand nombre possible de clients des Premières nations dans une région donnée.
+20. Au cours de l’année 2001, PHTC avait des succursales dans des réserves, à Kelowna (Colombie‑Britannique); à Hobbema (Alberta); à Fort Qu’Appelle (Saskatchewan); à Saskatoon (Saskatchewan).
+21. Au cours de l’année 2001, PHTC avait des succursales situées en dehors des réserves, à Edmonton (Alberta); à Calgary (Alberta); à Winnipeg (Manitoba); à Fredericton (Nouveau‑Brunswick).
+22. Le siège social de PHTC est situé à Hobbema (Alberta), dans la réserve de Samson.
+23. Au siège social de PHTC, le conseil d’administration établit la politique et la structure générale et élabore l’énoncé de mission, les philosophies d’exploitation, les plans stratégiques, les plans d’entreprise annuels et les plans d’immobilisations de PHTC.
+24. Le conseil d’administration de PHTC se réunit généralement dans une réserve.
+25. Les registres de procès‑verbaux et les registres d’actionnaires de PHTC sont conservés au siège social de PHTC.
+26. Le bureau central de PHTC est situé en dehors des réserves, à Edmonton (Alberta).
+27. Le bureau central de PHTC, à Edmonton, surveille la mise en œuvre de la politique établie par le conseil d’administration et assure le soutien des bureaux régionaux en exploitation.
+28. La succursale de Saskatoon est située dans la réserve urbaine de la Nation crie de Muskeg.
+29. PHTC offre une gamme de services financiers aux Premières nations, aux membres des Premières nations et à des clients non autochtones.
+30. PHTC a des clients autochtones et des clients non autochtones. Il n’y a pas de différence entre les services que PHTC fournit aux Premières nations et aux membres, aux sociétés, aux institutions et aux associations des Premières nations d’une part et les services fournis aux clients non autochtones d’autre part.
+31. Toutes les succursales de PHTC offrent les mêmes services et suivent les mêmes politiques.
+32. Les intérêts accumulés dans un compte d’épargne à la succursale d’Edmonton de PHTC sont versés à la succursale d’Edmonton. Les taux d’intérêt pour les comptes d’épargne étaient fixés au bureau central de PHTC, en fonction d’études de marché.
+33. Les intérêts afférents à un CPG étaient crédités selon qu’ils étaient payés ou non par chèque; s’ils étaient payés par chèque, ils étaient payés au moyen d’un compte, à Hobbema. Les intérêts qui étaient directement versés dans un compte bancaire étaient payés à l’endroit où le CPG avait été acheté.
+34. À compter de 1996, l’appelante travaillait pour Ledcor (une grosse entreprise de construction multidisciplinaire) sur une base saisonnière, en tant que membre d’une équipe travaillant à des projets de pavage des routes en Alberta.
+35. L’appelante n’a pas demandé à être exonérée d’impôt en vertu de la Loi sur les Indiens à l’égard de la rémunération qu’elle tirait de son emploi chez Ledcor.
+36. La plupart des fonds que l’appelante a utilisés pour acheter les CPG provenaient de la rémunération tirée de son emploi chez Ledcor. Certains fonds provenaient d’intérêts réinvestis, et certains provenaient peut‑être de prestations d’assurance‑emploi.
+37. Les fonds que l’appelante et son mari déposaient dans le compte conjoint provenaient des économies qu’ils faisaient grâce à leur emploi chez Ledcor.
+38. PHTC est d’une façon générale semblable à d’autres institutions qui offrent des services bancaires et des services de fiducie, et elle fait concurrence aux institutions similaires de même taille.
+39. En 2001, les immobilisations de PHTC étaient réparties de la manière suivante entre les divers bureaux :
+(en milliers de dollars)
+Hobbema
+256
+Calgary
+122
+Edmonton
+106
+Winnipeg
+172
+Saskatoon
+135
+Fort Qu’Appelle
+242
+Kelowna
+64
+Fredericton
+69
+Bureau central
+509
+Total
+1674
+40. La réserve urbaine de la Nation crie de Muskeg, à Saskatoon, est située dans un parc industriel.
+41. L’argent que PHTC reçoit de tous ses clients, et notamment de l’appelante, sous forme de dépôts dans des comptes de chèques et dans des comptes d’épargne, pour les CPG et au titre de frais pour divers services est mis en commun dans un seul fonds pour l’ensemble de la société (le « fonds »). PHTC investit les sommes qui sont dans ce fonds national dans des dépôts en espèces ou à court terme, dans des titres et dans des prêts (les « placements »). Les placements génèrent des revenus pour PHTC.
+42. L’argent qui est transmis d’une succursale particulière au fonds (y compris l’argent que les clients ont placé dans des CPG ou dans des comptes, dans cette succursale particulière) ne peut pas être rattaché à des placements précis effectués par PHTC.
+43. L’argent que tout client, y compris l’appelante, place dans un CPG ou dans un compte d’épargne ne peut pas être rattaché à des placements précis effectués par PHTC.
+44. Le revenu que PHTC gagne sur les placements est mis dans le fonds.
+45. Les intérêts versés aux clients à l’égard des comptes d’épargne et des comptes de chèques ainsi que des CPG proviennent du fonds.
+46. Les intérêts composés sur un CPG sont crédités au CPG au moyen d’un système logiciel exploité par un fournisseur de service, à Halifax.
+47. Lorsqu’elles consentent des prêts à des clients, les succursales de PHTC ont accès à tout l’argent qui est dans le fonds.
+48. Comme l’indique le rapport annuel de 2001 de PHTC, la valeur des placements de PHTC et le revenu généré par chaque catégorie en 2001 étaient les suivants :
+2001
+Placements effectués par PHTC
+Montant
+Revenu tiré de chaque catégorie de placement
+Dépôts en espèces, à court terme et titres
+• Hypothèques et prêts « Composante Premières nations »
+• Hypothèques et prêts « Composante non-Premières nations »
+113 158 237 $
+364 627 182 $
+38 717 187 $
+5 584 683 $
+28 662 475 $
+2 861 022 $
+Total
+516 502 606 $
+37 108 180 $
+49. Les dépôts à court terme et les titres sont des placements dans des institutions situées en dehors des réserves. Les dépôts à court terme comprennent des placements sur le marché monétaire (par exemple dans des banques à charte et dans d’autres institutions financières), et les titres sont composés de bons du Trésor, d’obligations du gouvernement canadien, d’obligations provinciales, d’acceptations de banque et d’autres titres (par exemple des obligations de sociétés).
+50. Les hypothèques et prêts (collectivement les « prêts ») sont composés d’hypothèques résidentielles, d’hypothèques commerciales, de prêts sur nantissement, de prêts commerciaux et de prêts personnels.
+51. En codant les prêts pour sa base de données, PHTC en identifie certains comme étant situés « dans une réserve ». La « composante Premières nations » de son portefeuille de prêts est composée de prêts et d’hypothèques codés « dans la réserve ».
+52. Un prêt est codé « dans la réserve » s’il est satisfait à l’un des critères suivants :
+• Le titre est situé dans une réserve;
+Un titre situé dans une réserve peut comprendre :
+o le financement assuré par AINC (réaffectation reconnue);
+o des garanties ministérielles (garanties gouvernementales);
+o des biens durables situés d’une façon permanente dans une réserve, garantis par un contrat de garantie générale ou par une hypothèque mobilière, par exemple l’immeuble d’un magasin d’alimentation et son stock;
+o des actifs mobiliers « normalement situés dans une réserve », garantis par un contrat de garantie générale ou par une hypothèque mobilière, par exemple du matériel lourd, des maisons mobiles, des véhicules à moteur, des véhicules récréatifs.
+• Les sorties d’argent pour le service de la dette proviennent de la réserve :
+o financement assuré par AINC;
+o tout revenu gagné dans une réserve, comme un contrat dans le domaine forestier, les salaires versés par la bande.
+• L’emprunteur est situé dans une réserve :
+o La résidence permanente ou le lieu d’affaires de l’emprunteur est situé dans une réserve.
+• Le garant est situé dans une réserve :
+o La résidence permanente ou le lieu d’affaires du garant est situé dans une réserve.
+53. Les prêts sont codés au cours de la procédure de demande de prêt et, normalement, ils ne sont pas examinés ou ne font pas l’objet de changements chaque mois. Les critères eux‑mêmes que l’on utilise pour décider si un prêt particulier est situé dans une réserve ou en dehors d’une réserve ne sont pas inscrits dans une banque de données et ne peuvent pas être retracés.
+54. PHTC n’établit pas de statistiques en ce qui concerne les renseignements suivants : le pourcentage de prêts utilisés dans une réserve; le pourcentage de prêts consentis à des Indiens résidant dans une réserve; le pourcentage de prêts consentis à des bandes indiennes ou à des conseils de bande possédant des réserves; le pourcentage de prêts consentis à des conseils tribaux basés dans une réserve; le pourcentage de prêts consentis à des Indiens résidant dans la réserve urbaine de la Nation crie de Muskeg Lake, à Saskatoon, ou à la Nation crie ou au conseil de bande de Muskeg Lake.
+____________
+1 Le CPG prévoit ce qui suit :
+[traduction]
+Malgré toute condition ou disposition contraire énoncée dans le présent certificat, il est entendu et convenu que, même s’il est possible de payer les intérêts ou d’effectuer une opération à l’égard du certificat en dehors d’une réserve indienne, le certificat et toute autre somme d’argent régie par les conditions du certificat sont conservés, et sont réputés être conservés, au siège social de la société dans la réserve indienne de Samson, à Hobbema (Alberta).
+Le point litigieux
+[3] Il s’agit de savoir si les dépôts ou les CPG ou le revenu en intérêts y afférent étaient des biens meubles d’un Indien situés dans une réserve, de sorte que ce revenu en intérêts est exonéré d’impôt.
+Analyse
+[4] L’alinéa 81(1)a) de la Loi de l’impôt sur le revenu est rédigé en ces termes :
+81(1) Ne sont pas inclus dans le calcul du revenu d’un contribuable pour une année d’imposition :
+a) une somme exonérée de l’impôt sur le revenu par toute autre loi fédérale, autre qu’un montant reçu ou à recevoir par un particulier qui est exonéré en vertu d’une disposition d’une convention ou d’un accord fiscal conclu avec un autre pays et qui a force de loi au Canada;
+[5] Les paragraphes 87(1) et (2) de la Loi sur les Indiens sont rédigés en ces termes :
+87(1) Nonobstant toute autre loi fédérale ou provinciale, mais sous réserve de l’article 83 et de l’article 5 de la Loi sur la gestion financière et statistique des premières nations, les biens suivants sont exemptés de taxation :
+a) le droit d’un Indien ou d’une bande sur une réserve ou des terres cédées;
+b) les biens meubles d’un Indien ou d’une bande situés sur une réserve.
+87(2) Nul Indien ou bande n’est assujetti à une taxation concernant la propriété, l’occupation, la possession ou l’usage d’un bien mentionné aux alinéas (1)a) ou b) ni autrement soumis à une taxation quant à l’un de ces biens.
+[6] L’avocat de l’appelante a soulevé deux arguments. Il a reconnu au départ que je ne peux pas retenir le premier argument puisqu’il faudrait faire abstraction de précédents de la Cour d’appel fédérale. Selon le second argument, il faut faire une distinction entre les précédents de la Cour d’appel fédérale dans lesquels il a été conclu, compte tenu de l’approche fondée sur les facteurs de rattachement établie dans l’arrêt Williams c. Canada[1], que le revenu en intérêts n’était pas situé dans une réserve.
+[7] Le premier argument de l’avocat de l’appelante ne suivait pas la démarche habituellement adoptée aux fins de l’examen des facteurs de rattachement, dans le cadre de laquelle une évaluation est faite des facteurs rattachant un bien meuble à une réserve, en vue de décider en fin de compte si un bien est détenu par un Indien en vertu des droits qu’il possède à titre d’Indien dans la réserve. L’appelante s’est plutôt fondée sur la nature du bien, les dépôts, les CPG et les intérêts y afférents, et, en appliquant les principes concernant les opérations bancaires tirés de la Loi sur les sociétés de fiducie et de prêt (la « LSFP), elle a conclu qu’un tel bien était situé dans une réserve. Je ne vais pas examiner en détail les étapes par lesquelles Me McNary est passé pour arriver à ce résultat; en effet, comme il l’a prédit avec raison, je me fonde sur les arrêts de la Cour d’appel fédérale dans lesquels la question de la détermination du situs du revenu en intérêts a été examinée pour l’application de l’article 87 de la Loi sur les Indiens. Toutefois, j’aimerais faire certaines remarques au sujet de son premier argument, selon lequel le raisonnement que la Cour d’appel fédérale a adopté dans les arrêts Sero v. Her Majesty the Queen[2] et Lewin v. Her Majesty the Queen[3] est erroné.
+[8] Premièrement, l’avocat de l’appelante s’est fondé sur les remarques que la Cour d’appel du Manitoba avait faites dans l’arrêt McDiarmid Lumber Ltd. v. God’s Lake First Nation[4], qui portait sur l’application de l’article 89 de la Loi sur les Indiens, lequel est ainsi rédigé :
+89(1) Sous réserve des autres dispositions de la présente loi, les biens d’un Indien ou d’une bande situés sur une réserve ne peuvent pas faire l’objet d’un privilège, d’un nantissement, d’une hypothèque, d’une opposition, d’une réquisition, d’une saisie ou d’une exécution en faveur ou à la demande d’une personne autre qu’un Indien ou une bande.
+[9] Plus précisément, mon attention a été attirée sur le passage suivant de l’arrêt McDiarmid Lumber, précité :
+[traduction]
+[75] Il serait possible de soutenir que l’arrêt Sero est erroné pour le motif qu’une importance particulière a été accordée au fait que le revenu de placement de la banque était tiré du marché ordinaire. Si la cour avait tenu compte du lieu où Mme Sero et M. Frazer avaient décidé d’effectuer leurs opérations bancaires et leurs placements et du lieu où ils recevaient leurs intérêts et leur revenu de placement comme facteurs de rattachement primordiaux, la réception de ces fonds aux fins de l’imposition serait située sur la réserve, soit l’endroit où les fonds eux‑mêmes étaient effectivement situés.
+[10] Toutefois, ce passage doit être remis dans son contexte. La Cour d’appel du Manitoba a mis l’accent à maintes reprises, dans ses motifs, sur la différence existant entre l’article 87 (exemption de taxation) et l’article 89 (exemption de saisie) :
+[traduction]
+[44] [...] Par conséquent, comme nous le voyons dans l’arrêt Williams, l’emplacement des avantages se rattachant au revenu pour l’application de l’article 87 peut être difficile ou même impossible à établir au moyen de l’application des principes de common law. Et comme nous le verrons, une demande d’exemption d’impôt des avantages se rattachant au revenu qui est fondée sur l’article 87 donne lieu, en théorie, à des considérations différentes de celles auxquelles donne lieu une demande fondée sur l’article 89, à savoir qu’un bien meuble incorporel, mais par ailleurs exigible, est exempté de saisie.
+[11] La Cour d’appel du Manitoba a clairement dit que l’analyse, lorsqu’il s’agissait de déterminer le situs d’un bien meuble dans le contexte de l’article 87, était fondée sur l’opération en cause – sur la réception du revenu. L’analyse qui s’applique à l’exemption de saisie prévue à l’article 89 devrait être fondée sur le situs de la créance elle‑même, un bien incorporel. D’où la distinction qu’il convient de faire à l’égard du raisonnement adopté par la Cour d’appel du Manitoba. Celle‑ci a souligné qu’il était difficile d’essayer de déterminer le situs lorsque la réception d’un revenu plutôt que le revenu lui‑même était en cause. Il était donc facile de comprendre de quelle façon et pourquoi les facteurs de rattachement pouvaient être aussi utiles lorsqu’il s’agissait de cerner cette notion difficile. Tel n’était pas le cas lorsqu’il s’agissait d’étudier la créance elle‑même, comme dans l’arrêt McDiarmid Lumber, précité, dans le contexte de l’exemption de saisie.
+[12] Je ne m’appuie pas sur l’arrêt McDiarmid Lumber, précité, de la même façon que Me McNary l’a fait, quoique je sois d’accord avec la Cour d’appel du Manitoba lorsqu’elle dit que les considérations touchant l’article 87 sont, et devraient être, différentes de celles qui s’appliquent à l’article 89. On n’a pas réussi à me convaincre que je devrais élaborer, à partir de l’arrêt McDiarmid Lumber, précité, une nouvelle approche globale aux fins de l’analyse du situs pour l’application de l’article 87, en accordant moins d’importance au critère relatif aux facteurs de rattachement et en favorisant une approche fondée sur la common law pour déterminer le situs d’une créance.
+[13] Bref, l’argument de l’appelante sur ce point est qu’elle a déposé des fonds auprès de Peace Hills, lesquels étaient détenus en fiducie pour elle, Peace Hills garantissant le remboursement avec intérêts. En invoquant l’arrêt McDiarmid Lumber, précité, l’appelante fait valoir que le dépôt est simplement une créance contractuelle qui devrait être située, selon les principes de common law et la législation, à la succursale où le compte a été ouvert. En outre, en ce qui concerne l’endroit où les CPG étaient conservés, les conditions des CPG eux‑mêmes prévoyaient ce qui suit :
+[traduction] Malgré toute condition ou disposition contraire énoncée dans le présent certificat, il est entendu et convenu que, même s’il est possible de payer les intérêts ou d’effectuer une opération à l’égard du certificat en dehors d’une réserve indienne, le certificat et toute autre somme d’argent régie par les conditions du certificat sont conservés, et sont réputés être conservés, au siège social de la société dans la réserve indienne de Samson, à Hobbema (Alberta).
+[14] L’appelante soutient donc que les CPG étaient réputés être conservés au siège social de Peace Hills, à Hobbema, soit dans une réserve. En outre, en ce qui concerne les CPG acquis dans une réserve, à la succursale de la Saskatchewan (située dans la réserve), l’article 447 de la Loi sur les sociétés de fiducie et de prêt a pour effet de faire de la dette de Peace Hills à l’égard de ce CPG une dette située dans une réserve. Les paragraphes 447(1) et (4) de la LSFP sont ainsi rédigés :
+447(1) Pour l’application de la présente loi, le bureau de tenue du compte en matière de compte de dépôt est :
+a) celui dont le nom et l’adresse apparaissent sur un exemplaire de la fiche spécimen de signature ou d’une délégation de signature, portant la signature du titulaire du compte ou celui convenu d’un commun accord entre la société et le déposant lors de l’ouverture du compte;
+b) à défaut d’indication du bureau ou de l’accord prévus à l’alinéa a), celui désigné dans l’avis écrit envoyé par la société au déposant.
+[...]
+(4) La dette de la société résultant du dépôt effectué à un compte de dépôt est réputée avoir été contractée au lieu où est situé le bureau de tenue du compte.
+Selon l’appelante, la façon dont Peace Hills investit les dépôts qu’elle reçoit importe peu – le situs a été établi. L’appelante termine son argument sur ce point de la manière suivante :
+[traduction]
+31. Par conséquent, l’appelante soutient qu’indépendamment de l’emplacement de la succursale de PHTC où chacun des CPG a été acheté, conformément à l’article 447 de la LSFP, les CPG et la fraction respective des intérêts y afférents étaient situés dans la réserve de la Nation crie de Samson.
+32. Subsidiairement, en ce qui concerne le CPG 334250‑5, ce CPG particulier a été acheté à la succursale de Saskatoon de PHTC, qui est située dans la réserve de la Nation crie de Muskeg. Conformément au paragraphe 447(4) de la LSFP, la dette de PHTC à l’égard du CPG 334250‑5 est située dans la réserve de la Nation crie de Muskeg. Par conséquent, l’appelante soutient que, même en l’absence de l’accord conclu entre l’appelante et PHTC, le CPG 334250‑5 et les intérêts y afférents étaient situés dans la réserve de la Nation crie de Muskeg.
+[15] Je ne puis retenir cet argument. Faire une extrapolation à partir des remarques qui ont été faites dans l’arrêt McDiarmid Lumber, précité, au sujet de l’exemption de saisie, afin d’appliquer un nouveau critère de common law à l’exonération d’impôt, c’est aller beaucoup plus loin que les motifs énoncés dans cet arrêt. La Cour d’appel fédérale a expressément parlé du situs d’un bien meuble ayant la forme de la réception d’un revenu en intérêts, et notamment de l’application du paragraphe 461(4) de la Loi sur les banques (qui correspond à l’article 447 de la Loi sur les sociétés de fiducie et de prêt). Dans l’arrêt Sero, précité, la Cour d’appel fédérale a tiré la conclusion suivante :
+[47] Pour ces motifs, je ne puis souscrire à l’argument des appelants selon lequel le paragraphe 461(4) de la Loi sur les banques l’emporte sur le critère des facteurs de rattachement de telle sorte que l’on ne peut s’empêcher de conclure que le revenu d’intérêt en litige dans la présente affaire est « situé sur une réserve » aux fins de l’article 87 de la Loi sur les Indiens.
+[16] La Cour d’appel fédérale a conclu que le critère des facteurs de rattachement est le critère à appliquer dans de telles circonstances, en faisant les remarques suivantes dans l’arrêt Recalma v. Her Majesty the Queen[5] :
+[11] De même, lorsqu’un revenu de placement est en cause, ce revenu doit être considéré en fonction de son lien avec la réserve, de son effet bénéfique sur le mode de vie traditionnel des autochtones, du risque potentiel d’une atteinte aux biens des autochtones et de la mesure dans laquelle il peut être considéré comme provenant d’une activité du marché ordinaire. À notre avis, le juge de la Cour de l’impôt a à bon droit accordé beaucoup d’importance à la façon dont le revenu de placement a été produit, comme les tribunaux l’ont fait dans les cas mettant en cause un emploi, des prestations d’assurance‑chômage et un revenu d’entreprise. Étant un revenu passif, le revenu de placement n’est pas produit par le travail individuel du contribuable. D’une certaine façon, le travail est accompli par l’argent qui est investi partout dans le pays. Le juge de la Cour de l’impôt a à bon droit accordé beaucoup d’importance à des facteurs comme la résidence de l’émetteur des titres, l’endroit où sont exercées les activités génératrices du revenu de l’émetteur, et l’endroit où se trouvent les biens de l’émetteur des titres. Le courtier de ces titres, la succursale locale de la Banque de Montréal, était situé sur la réserve, mais pas les émetteurs des titres; les sociétés qui offraient les acceptations bancaires et les gestionnaires des fonds communs de placement en cause n’avaient aucun lien avec la réserve. Ils se trouvaient dans les sièges sociaux des sociétés dans des villes bien éloignées des réserves. De même, l’activité principale qui génère le revenu des émetteurs est située dans les villes du Canada et partout dans le monde, et non pas dans les réserves. En outre, les biens des émetteurs des titres en question se trouvaient principalement en dehors des réserves ce qui, en cas de défaillance, serait un facteur des plus importants.
+[12] Le juge de la Cour de l’impôt a, encore une fois à bon droit, accordé moins d’importance, dans cette affaire de revenus de placement, à des facteurs comme le lieu de résidence du contribuable, la source du capital qui a permis l’achat des titres, le lieu où les titres ont été achetés et le revenu touché, l’endroit où le document attestant les titres était conservé et où le revenu a été dépensé. Nous ne trouvons aucune erreur dans le raisonnement du juge de la Cour de l’impôt dans la façon dont il a pondéré les différents facteurs de rattachement qui entrent en jeu à la lumière de l’objet de la loi.
+Je me vois obligé d’appliquer l’approche fondée sur les facteurs de rattachement.
+[17] Voici un résumé des facteurs de rattachement que la Cour d’appel fédérale et la Cour canadienne de l’impôt considèrent comme pertinents lorsqu’il s’agit de déterminer le situs d’un revenu passif :
+a) la résidence du contribuable;
+b) la provenance ou l’emplacement du capital placé;
+c) l’emplacement de la succursale où les activités de placement ont eu lieu;
+d) l’emplacement où le revenu en intérêts est employé;
+e) l’emplacement des instruments de placement;
+f) l’emplacement où les intérêts sont versés;
+g) la nature du placement;
+h) la résidence de l’émetteur;
+i) l’emplacement des biens de l’émetteur dans le cas d’un défaut susceptible de donner lieu à une saisie;
+j) l’emplacement de l’activité de l’émetteur générant un revenu produisant les intérêts.
+a) La résidence du contribuable
+[18] Mme Stigen n’a jamais vécu dans une réserve.
+b) La provenance et l’emplacement du capital placé
+[19] L’argent que Mme Stigen a placé provenait principalement de l’emploi qu’elle exerçait chez Ledcor dans le domaine de la construction de routes. Mme Stigen n’a pas demandé d’exemption pour son revenu d’emploi, étant donné que ce revenu ne se rattachait aucunement à un travail effectué dans une réserve.
+c) L’emplacement de la succursale de la banque où les titres ont été acquis
+[20] Mme Stigen effectuait ses opérations bancaires à la succursale d’Edmonton de Peace Hills, qui est située en dehors d’une réserve. Le compte conjoint et deux des CPG étaient situés à cette succursale. Le troisième CPG était situé à la succursale de Saskatoon de Peace Hills, dans la réserve urbaine de la Nation crie de Muskeg, dans un parc industriel. Mme Stigen avait acquis le CPG à Saskatoon, lorsqu’elle s’y était rendue.
+d) L’emplacement où le revenu en intérêts était employé
+[21] Mme Stigen n’a pas dépensé le revenu en intérêts; elle l’a laissé dans le compte conjoint ou dans les CPG.
+e) L’emplacement des instruments de placement
+[22] La documentation se rapportant au compte conjoint et à deux des CPG était située en dehors d’une réserve, à la succursale d’Edmonton de Peace Hills. La documentation se rapportant aux autres CPG était située dans la réserve, à la succursale de Saskatoon de Peace Hills.
+f) L’emplacement où les intérêts étaient payés
+[23] Les intérêts provenant du compte conjoint étaient payés en dehors d’une réserve, à la succursale d’Edmonton de Peace Hills. Les intérêts composés sur un CPG sont crédités au CPG au moyen d’un système logiciel exploité par un fournisseur de service, à Halifax. Les intérêts payés sur un CPG peuvent être payés en passant par un compte, situé à Hobbema, ou directement depuis la succursale où le CPG est conservé, selon les modalités de paiement.
+g) La nature du placement
+[24] Les placements étaient composés des comptes conjoints auprès de Peace Hills, ainsi que des CPG émis par Peace Hills.
+h) La résidence de l’émetteur, Peace Hills
+[25] Peace Hills est inscrite dans six provinces et dans deux territoires. Elle possède des succursales dans cinq provinces, dans des réserves et en dehors des réserves. Son siège social est situé dans une réserve, mais son bureau central est situé en dehors d’une réserve.
+i) L’emplacement des biens de Peace Hills
+[26] En 2001, la plupart des immobilisations de Peace Hills étaient situées en dehors d’une réserve. Comme le paragraphe 39 de l’exposé conjoint des faits permet de le constater, la quantité d’immobilisations situées à Hobbema, à Saskatoon, à Fort Qu’Appelle et à Kelowna (dans une réserve) est de beaucoup inférieure à la quantité d’immobilisations situées dans les autres centres.
+j) L’emplacement de l’activité de Peace Hills générant un revenu
+[27] L’importance accordée à ce facteur, et d’une façon générale, l’approche adoptée à son égard par la Cour d’appel fédérale dans l’arrêt Recalma, précité, ont fait l’objet de certaines critiques. La Cour d’appel fédérale a directement abordé la question dans l’arrêt Sero, précité. De fait, c’est cette critique même qui est à l’origine de l’argument subsidiaire de l’appelante qui a été examiné au début des présents motifs. Dans l’arrêt Sero, précité, la Cour d’appel fédérale avait ceci à dire au sujet de l’arrêt Recalma, précité, et de l’importance de ce facteur de rattachement particulier :
+[23] En concluant que les présents appels doivent être décidés de la même manière que dans l’arrêt Recalma, je n’ai pas omis de tenir compte du fait que, dans le cas de M. Frazer, la source des fonds utilisés pour acquérir les titres de placement était l’entreprise que celui‑ci exploitait sur la réserve. Il s’agit d’un lien avec la réserve mais, selon moi, d’un lien relativement peu étroit. Cela ne change rien au fait que dès que M. Frazer a eu placé ses fonds à la Banque Royale, ses placements sont devenus une source de revenu qui n’était pas plus rattachée à la réserve que le titre de placement de Mme Sero.
+[24] Je n’ai pas non plus manqué de tenir compte des critiques portant sur l’arrêt Recalma qui ont été publiées : voir, par exemple, Donald K. Biberdorf, « Aboriginal Income and the Economic Mainstream » dans Report of Proceedings of the Forty‑Ninth Tax Conference, 1997 Conference Report (Toronto : Association canadienne d’études fiscales, 1998), à la page 25:1‑23; Murray Marshall, « Business and Investment Income and Section 87 of the Indian Act: Recalma v. Canada » (1998), 77 R. du B. can. 528; Bill Maclagan, « Section 87 of the Indian Act: Recent Developments in the Taxation of Investment Income » (2000), 48 Rev. fiscale can. 1503; Thomas E. McDonnell, « Taxation of an Indian’s Investment Income » (2001), 49 Rev. fiscale can. 954; Martha O’Brien, « Income Tax, Investment Income, and the Indian Act: Getting Back on Track » (2002), 50 Rev. fiscale can. 1570.
+[25] Il semble que certaines de ces critiques portant sur l’arrêt Recalma puissent avoir un certain fondement. Par exemple, il ne me semble pas clair que, lorsque l’on détermine le situs d’un revenu de placement aux fins de l’article 87 de la Loi sur les Indiens, il soit pertinent d’examiner dans quelle mesure le revenu de placement est bénéfique pour le « mode traditionnel de vie des Indiens » . Ce critère m’apparaît difficile d’application car il est permis de croire que le « mode traditionnel de vie des Indiens » a peu ou rien à voir avec les réserves. Toutefois, il n’est pas nécessaire d’exprimer une opinion sur ce point parce que cela importe peu dans les présents appels.
+[26] La principale critique portant sur l’arrêt Recalma est qu’il est anormal de déterminer le situs d’un revenu sur un titre de créance en se reportant au lieu des activités du débiteur plutôt qu’au lieu des activités du créancier. Je ne vois rien d’anormal dans cette approche. Le critère des facteurs de rattachement de l’arrêt Williams exige la prise en compte de l’ensemble des caractéristiques du bien en litige. Il me semble que lorsque le bien est l’intérêt sur une dette, il est important d’analyser les caractéristiques économiques du débiteur.
+[27] Certains critiques soulignent également que l’arrêt Recalma a comme conséquence d’empêcher un Indien de tirer un revenu de placement exonéré d’impôt, sauf peut‑être s’il investit dans une entreprise financière ou dans une autre entreprise dont les actifs sont situés ou sont principalement situés sur une réserve. Cette critique est fondée sur la prémisse que l’article 87 a pour objet de permettre à un Indien de tirer un revenu exonéré d’impôt d’un placement tant qu’il est acquis par l’entremise d’une institution financière qui possède une succursale sur la réserve. Voilà la prémisse qui a été jugée mal fondé dans l’arrêt Recalma.
+[28] La Cour d’appel fédérale a clairement indiqué l’approche à suivre. Qu’est‑ce que Peace Hills a donc fait de l’argent qui avait été placé? Les dépôts effectués par l’appelante ont été mis dans un fonds, et Peace Hills a placé les sommes en cause dans des dépôts en espèces et à court terme et dans des titres (composés de placements sur le marché monétaire, de bons du Trésor, d’obligations de l’État et d’obligations de sociétés) ainsi que dans des prêts (composés d’hypothèques résidentielles, d’hypothèques commerciales, de prêts sur nantissement, de prêts commerciaux et de prêts personnels). Les prêts comportant une composante Première nation représentaient plus de 70 p. 100 de tous les placements de Peace Hills; pourtant, Peace Hills ne peut pas les répartir d’une façon plus précise entre ceux qui étaient situés dans une réserve et ceux qui étaient situés en dehors d’une réserve. Le revenu tiré de placements de Peace Hills a été mis dans le fonds. Les intérêts gagnés par Mme Stigen sur le compte conjoint et les CPG proviendraient du fonds.
+[29] L’appelante conclut, à partir de ce dossier de placement, que Peace Hills, contrairement aux émetteurs de titres dans l’affaire Recalma, précitée, entretenait d’étroits liens avec les réserves. Avec égards, je n’irais pas aussi loin : on ne sait tout simplement pas combien d’argent était placé dans des réserves. À coup sûr, il existe un lien, mais il semble y avoir un lien plus étroit avec le marché ordinaire. Le genre de lien nécessaire à cet égard a été décrit en ces termes dans l’arrêt Recalma, précité :
+[14] [...] Bien entendu, le résultat pourrait être différent dans des situations où les fonds investis directement ou par l’entremise de banques dans les réserves sont utilisés exclusivement ou principalement pour consentir des prêts aux autochtones vivant dans les réserves. Lorsque des autochtones, quel que soit leur engagement envers leurs traditions, choisissent d’investir leurs fonds sur le marché ordinaire, ils ne peuvent échapper à l’impôt simplement en utilisant une institution financière qui est située dans une réserve.
+[30] De plus, la Cour a exprimé un avis similaire dans la décision Lewin, précitée :
+[36] S’il s’était agi d’une institution financière constituée pour les seules fins, préoccupations et besoins des Indiens vivant sur le territoire de la réserve et dont l’essentiel des revenus avait été principalement réinvesti sur le territoire de la réserve pour consolider, développer et améliorer le mieux‑être social, culturel et économique des Indiens résidant sur la réserve, il aurait pu en être autrement.
+[31] Peace Hills a de fait un lien avec la communauté des Premières nations, mais elle ne s’occupe pas exclusivement de placements situés dans des réserves, et elle fournit, de fait, des services à des clients non autochtones.
+[32] Peace Hills est une institution financière qui exerce ses activités partout au pays, dans des réserves et en dehors des réserves, et elle ne fait pas de distinction entre ses clients autochtones et ses clients non autochtones. Il ne s’agit pas d’une institution qui est si étroitement liée à une réserve ou à des réserves que le placement effectué par un Indien dans Peace Hills doive être protégé en tant que partie intégrante des droits qu’il possède à titre d’Indien dans la réserve. C’est effectivement ce que l’appelante cherche à établir, à savoir que Peace Hills est si étroitement liée aux réserves qu’un tel facteur de rattachement est en soi suffisant pour justifier l’application de l’article 87. Je ne suis pas d’accord. Le lien existant avec les réserves, considéré de concert avec tous les autres facteurs de rattachement, n’est tout simplement pas suffisamment fort.
+[33] L’appelante a tenté de faire une distinction entre les affaires Sero, Lewin et Recalma, précitées, et celle dont je suis ici saisi. La principale distinction se rapporte à la nature des institutions financières et aux activités de placement exercées par ces institutions. L’appelante souligne l’ampleur des placements de Peace Hills comportant un lien avec une Première nation, mais elle ne peut pas préciser l’élément situé dans la réserve. Selon moi, il s’agit d’une institution financière s’occupant de fournir les mêmes services financiers que d’autres institutions financières canadiennes, dans des réserves et en dehors des réserves. À mon avis, ses activités ne sont pas liées avec des réserves à un point tel qu’il est possible de faire une distinction suffisante à leur égard, pour arriver à une conclusion différente de celle qui a été tirée dans les arrêts Recalma, Sero ou Lewin, précités.
+[34] Je ne retiens pas l’argument de l’appelante selon lequel le lien qui existe entre Peace Hills et les réserves est si étroit que ce facteur à lui seul est suffisant pour exonérer un investisseur indien de l’impôt sur les intérêts provenant de Peace Hills. Un tel résultat ne fait aucun cas de la jurisprudence bien établie, selon laquelle il faut soupeser tous les facteurs de rattachement; en effet, certains facteurs sont plus importants que d’autres, lorsqu’il s’agit d’un revenu passif, mais le processus de pondération est un processus cumulatif. Si je tiens compte de la source des placements effectués par Mme Stigen (les montants en cause ayant été gagnés en dehors d’une réserve), de la résidence de Mme Stigen (en dehors d’une réserve), du fait que Mme Stigen effectuait ses opérations bancaires auprès de Peace Hills principalement en dehors d’une réserve, du fait que l’argent de Mme Stigen ne pouvait pas être rattaché à des placements situés dans une réserve, du fait que le bureau central de Peace Hills est situé en dehors d’une réserve et de l’ampleur des placements effectués par Peace Hills en dehors d’une réserve, je ne puis tout simplement pas conclure qu’il y a un nombre suffisant de facteurs de rattachement étroits pour qu’il soit possible de conclure que le revenu en intérêts est situé dans une réserve. Je conclus également que ce résultat est conforme aux idées exprimées par la Cour suprême du Canada dans l’arrêt Williams, précité, à savoir : « Il appartient à l’Indien de décider s’il désire bénéficier du système de protection que constitue la réserve ou s’il veut s’intégrer davantage dans l’ensemble du monde des affaires. » On n’a pas réussi à me convaincre que Peace Hills fait partie du système de protection que constitue la réserve. Peace Hills est une institution financière nationale accordant une certaine importance aux Premières nations – cela ne suffit pas pour conférer à Peace Hills un statut spécial quelconque en tant qu’élément d’un système de protection constitué par la réserve. Mme Stigen n’a pas fait état d’autres facteurs de rattachement qui lui conféreraient ce statut.
+[35] Pour ces motifs, je conclus que Mme Stigen ne peut pas se prévaloir de l’exemption d’impôt prévue à l’article 87 de la Loi sur les Indiens, et l’appel est rejeté.
+Signé à Ottawa, Canada, ce 8e jour de juillet 2008.
+« Campbell J. Miller »
+Juge Miller
+Traduction certifiée conforme
+ce 6e jour d’avril 2009.
+Mario Lagacé, jurilinguiste
+RÉFÉRENCE : 2008CCI405
+No DU DOSSIER DE LA COUR : 2004‑2163(IT)G
+INTITULÉ : Tara Stigen
+et
+Sa Majesté La Reine
+LIEU DE L’AUDIENCE : Edmonton (Alberta)
+DATE DE L’AUDIENCE : Le 5 mai 2008
+MOTIFS DU JUGEMENT : L’honorable juge Campbell J. Miller
+DATE DU JUGEMENT : Le 8 juillet 2008
+COMPARUTIONS :
+Avocats de l’appelante :
+Me Carman R. McNary
+Me Benjamin C. Evans
+Avocats de l’intimée :
+Me Darcie Charlton
+Me Julia S. Parker
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom : Carman R. McNary
+Cabinet : Fraser Milner Casgrain s.r.l.
+Edmonton (Alberta)
+Pour l’intimée : John H. Sims, c.r.
+Sous‑procureur général du Canada
+Ottawa, Canada
+[1] [1992] 1 R.C.S. 877.
+[2] 2004 DTC 6037 (C.A.F.).
+[3] 2003 DTC 5476 (C.A.F.).
+[4] 2005 MBCA 22.
+[5] 98 DTC 6238 (C.A.F.).

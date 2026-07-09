@@ -1,0 +1,595 @@
+Title: Gendron c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26041/index.do
+Corpus path: corpus/cases/tcc/2004/2004-cci-514-26041-gendron-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2004-12-02
+
+# Gendron c. La Reine
+
+- Citation: 2004 CCI 514
+- Decision date: 2004-12-02
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4101, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Gendron c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-12-02
+Référence neutre
+2004 CCI 514
+Numéro de dossier
+2000-3741(IT)G
+Juges et Officiers taxateurs
+Paul Bédard
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossiers : 2000-3741(IT)G
+2000-3742(IT)G
+ENTRE :
+OLIVIER GENDRON,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appels entendus sur preuve commune le 10 mai 2004 à Montréal (Québec)
+Devant : L'honorable juge Paul Bédard
+Comparutions :
+Avocat de l'appelant :
+Me Martin Pichette
+Avocat de l'intimée :
+Me Simon-Nicolas Crépin
+____________________________________________________________________
+JUGEMENT
+Les appels des cotisations établies en vertu de la Loi de l'impôt sur le revenu pour les années d'imposition 1995 et 1996 sont accueillis et les cotisations sont déférées au ministre du Revenu national pour nouvel examen et nouvelles cotisations en tenant compte du fait que les dépenses suivantes pouvaient être déduites dans le calcul du revenu de l'appelant tiré de l'exercice de sa profession pour les années en cause et ce, selon les motifs du jugement ci-joints :
+Année d'imposition
+Description
+Montant déductible
+1995
+Domo Signal
+1 117,13 $
+1995
+Dello Sbarba
+284,89 $
+1995
+Serge Massicotte
+33,39 $
+1995
+Eco Décor-Paysagement
+4 510,92 $
+1995
+Gilles Mayer Briqueteur
+9 000 ,94 $
+1995
+Jean Desroches
+1 124,62 $
+1995
+Yves Desrosiers
+21,96 $
+1995
+Gérard Brunelle
+392,76 $
+1995
+André Sarrazin
+393,68 $
+1995
+Pression Net
+70,30 $
+1995
+Jimmy Page
+38,66 $
+1995
+Charles Lacoursière
+922,05 $
+1995
+Visa
+114,23 $
+1995
+Gaétan Bonin
+46,22 $
+1995
+Location Caron
+379,22 $
+1995
+Patrick Morin
+902,40 $
+1995
+Ville de Berthier
+64,08 $
+1996
+Eco Décor-Paysagement
+5 464,72 $
+1996
+Jean Desroches
+546,75 $
+1996
+André Sarrazin
+312,83 $
+1996
+R. Damphousse
+404,22 $
+1996
+Yves Desrosiers
+75,00 $
+avec rajustement corrélatif des intérêts, le tout sans dépens.
+Signé à Ottawa, Ontario, ce 2e jour de décembre 2004.
+« Paul Bédard »
+Juge Bédard
+Référence : 2004CCI514
+Date : 20041202
+Dossiers : 2000-3741(IT)G
+2000-3742(IT)G
+ENTRE :
+OLIVIER GENDRON,
+appelant,
+Et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Bédard
+[1] Monsieur Olivier Gendron exerçait pendant les années d'imposition 1995 et 1996 la profession de médecin exclusivement à sa résidence principale située à Berthierville. Par ses avis de ratification du 2 juin 2000, le ministre du Revenu national (le « ministre » ) a refusé à monsieur Gendron :
+i) une dépense d'intérêts et de frais bancaires de 5 994 $ et de 3 917 $ respectivement pour les années d'imposition 1995 et 1996 au motif que ces intérêts et frais bancaires constituaient des dépenses personnelles et qu'ils n'avaient pas été engagés dans le but de tirer un revenu d'une entreprise ou d'un bien;
+ii) des dépenses liées à des congrès et journées d'étude de 2 377 $ et de 3 294 $, pour les années d'imposition 1995 et 1996 respectivement, au motif que ces dépenses n'avaient pas été engagées ou encourues pour tirer un revenu d'entreprise ou d'un bien et qu'elles étaient déraisonnables;
+iii) des dépenses de bureau à la résidence de 37 236 $ et de 14 585 $ pour les années d'imposition 1995 et 1996 respectivement. Le débat portait principalement sur le pourcentage de la superficie de la résidence de l'appelant utilisée pour fins d'affaires et sur les dépenses liées à l'entretien du revêtement extérieur de la résidence de l'appelant et à l'entretien paysager;
+Monsieur Gendron en appelle de la décision du ministre.
+[2] Pour établir et maintenir la nouvelle cotisation faisant l'objet du présent litige pour l'année d'imposition 1995, le ministre a tenu pour acquis, notamment, les faits suivants énoncés au paragraphe 19 de la Réponse à l'avis d'appel :
+a) l'appelant exerce la profession de médecin;
+b) les dépenses de 45 607 $ réclamées par l'appelant pour l'année d'imposition 1995 et refusées par le ministre pour les motifs ci-après exposés, se détaillent comme suit :
+Dépenses refusées pour l'année 1995
+Dépenses de bureau dans résidence
+37 236 $
+Congrès et journées d'étude
+2 377 $
+Intérêts et frais bancaires
+5 994 $
+Total des dépenses refusées
+45 607 $
+c) durant l'année en litige, l'appelant effectuait des consultations à son bureau, lequel bureau se situe à la même adresse civique que sa résidence, soit au 810, rue Montcalm à Berthierville, dans la province de Québec;
+d) durant l'année en litige, l'appelant a prétendument loué un logement, situé à la même adresse civique citée plus haut, à une employée occasionnelle;
+e) la résidence de l'appelant se répartit comme suit : sous-sol et garage, rez-de-chaussée et 1er étage pour un total de 3 200 pieds carrés environ;
+f) pour l'année d'imposition 1995, l'appelant a déclaré 79 452 $, en majeure partie, pour des travaux d'entretien et de réparations à sa résidence. Il a déduit 50 % environ de ce montant, à titre de dépenses d'affaires, prétendant avoir droit à une déduction totale de 39 216 $ sur l'ensemble de son revenu;
+g) l'espace réservé à la pratique de la profession de l'appelant représente environ 300 pieds carrés, soit 13.6 % de la superficie en excluant le sous-sol et le garage, ou 9.4 % de la superficie totale, si on inclut le sous-sol et le garage;
+h) quant à l'espace que l'appelant prétend louer à une employée occasionnelle, il s'agit d'un logement aménagé pour la bonne de la maison d'une dimension approximative de 25 pieds carrés par 30 pieds carrés pour un total de 750 pieds carrés;
+i) l'appelant prétend qu'un loyer de 1 200 $ pour l'année 1995 lui aurait été versé, ce qui représente 100 $ par mois;
+j) aucune preuve de paiement pour ledit loyer n'a été fournie lors de l'enquête;
+k) vu ce qui précède, le ministre a considéré que toutes les dépenses reliées à l'entretien et à la réparation de cet espace mis à la disposition de la bonne, ne constituaient pas des dépenses effectuées dans le but de tirer un revenu;
+l) outre les dépenses refusées au paragraphe j) des présentes, le ministre a refusé, entre autres, des dépenses d'environ 15 000 $ pour le paysagement de la résidence, considérant que cette dépense n'avait pas été effectuée dans le but de tirer un revenu;
+m) plusieurs dépenses consistaient en des frais inhérents à la rénovation de la cuisine de la résidence, le ministre a considéré toutes ces dépenses d'ordre personnel;
+n) du total de 79 452 $ de dépenses reliées, en majeure partie, à la réparation et à l'entretien de la résidence, le ministre a soustrait la somme de 66 253 $, estimant que ces dépenses étaient strictement personnelles et n'avaient pas été engagées dans le but de tirer un revenu;
+o) par conséquent, un solde de 13 199 $ a été considéré et le ministre a estimé qu'un pourcentage de 15 % des dépenses était raisonnable vu que l'espace réservé à la pratique de la profession de l'appelant représentait entre 9.4 % et 13.6 %, conditionnellement au fait qu'on tienne compte ou pas du sous-sol et du garage, dans le calcul de la superficie de la résidence;
+p) le ministre a donc reconnu la somme de 1 980 $ comme étant une dépense effectuée dans le but de tirer un revenu et il a accepté ce montant comme déduction;
+q) puisque l'appelant avait réclamé une déduction totalisant la somme de 39 216 $ pour des dépenses de bureau, le ministre a refusé des dépenses s'élevant à 37 236 $, le tableau suivant exprimant la position du ministre :
+Année 1995
+Dépenses totales calculées
+79 452 $
+-dépenses personnelles
+66 253 $
+solde
+13 199 $
+X 15 % des dépenses
+1 980 $
+Dépenses déduites par appelant
+39 216 $
+-dépenses révisées
+1 980 $
+Somme des dépenses refusées
+37 236 $
+r) l'appelant a réclamé la somme de 8 198 $ à titre de déductions pour des dépenses encourues eu égard à sa présence à des congrès ou des journées d'étude dans le cadre de sa profession;
+s) après avoir analysé lesdites dépenses, le ministre a accordé 5 821 $, soit 71 % des dépenses réclamées, jugeant qu'une portion, soit 29 %, constituaient des dépenses personnelles;
+t) lors de cette analyse, le ministre a refusé les dépenses excédant le nombre de jours de cours, mais a accepté une journée de déplacement pour les journées d'étude à Montréal et 2 journées pour la formation tenue à l'extérieur, à Québec et à Hull notamment;
+u) dans ce contexte, la proportion de dépenses acceptées par le ministre à ce chapitre est raisonnable;
+v) par conséquent, le ministre a refusé la somme de 2 377 à titre de déductions car elles constituaient des dépenses personnelles n'ayant pas été effectuées dans le but de tirer un revenu;
+w) l'appelant a réclamé une déduction pour frais d'intérêt et frais bancaires s'élevant à 5 994 $, lesquels frais sont reliés à l'utilisation d'une marge de crédit;
+x) l'appelant disposait d'un seul compte bancaire et l'analyse des données dudit compte a révélé que la marge de crédit servait à des fins personnelles;
+y) dans ce contexte, le ministre a refusé la déduction de 5 994 $ de frais d'intérêt considérant que cette somme n'avait pas été engagée dans le but de tirer un revenu;
+z) l'intimée soutient que le présent appel est mal fondé en faits et en droit.
+[3] Pour établir et maintenir la nouvelle cotisation faisant l'objet du présent litige pour l'année d'imposition 1996, le ministre a tenu notamment pour acquis les faits suivants énoncés au paragraphe 19 de la Réponse à l'avis d'appel :
+a) l'appelant exerce la profession de médecin;
+b) les dépenses de 21 796 $ réclamées par l'appelant pour l'année d'imposition 1996 et refusées par le ministre pour les motifs ci-après exposés, se détaillent comme suit :
+Dépenses refusées pour l'année 1996
+Dépenses de bureau dans résidence
+14 585 $
+Congrès et journées d'étude
+3 294 $
+Intérêts et frais bancaires
+3 917 $
+Total des dépenses refusées
+21 796 $
+c) durant l'année en litige, l'appelant effectuait des consultations à son bureau, lequel bureau se situe à la même adresse civique que sa résidence, soit au 810, rue Montcalm à Berthierville, dans la province de Québec;
+d) durant l'année en litige, l'appelant a prétendument loué un logement, situé à la même adresse civique citée plus haut, à une employée occasionnelle;
+e) la résidence de l'appelant se répartit comme suit : sous-sol et garage, rez-de-chaussée et 1er étage pour un total de 3 200 pieds carrés environ;
+f) pour l'année d'imposition 1996, l'appelant a déclaré 34 345 $, en majeure partie, pour des travaux d'entretien et de réparations à sa résidence. Il a déduit 50 % environ de ce montant, à titre de dépenses d'affaires, prétendant avoir droit à une déduction totale de 16 663 $ sur l'ensemble de son revenu;
+g) l'espace réservé à la pratique de la profession de l'appelant représente environ 300 pieds carrés, soit 13.6 % de la superficie en excluant le sous-sol et le garage, ou 9.4 % de la superficie totale, si on inclut le sous-sol et le garage;
+h) quant à l'espace que l'appelant prétend louer à une employée occasionnelle, il s'agit d'un logement aménagé pour la bonne de la maison d'une dimension approximative de 25 pieds carrés par 30 pieds carrés pour un total de 750 pieds carrés;
+i) l'appelant prétend qu'un loyer de 1 020 $ pour l'année 1996 lui aurait été versé, ce qui représente 85 $ par mois;
+j) aucune preuve de paiement pour ledit loyer n'a été fournie lors de l'enquête;
+k) vu ce qui précède, le ministre a considéré que toutes les dépenses reliées à l'entretien et à la réparation de cet espace mis à la disposition de la bonne, ne constituaient pas des dépenses effectuées dans le but de tirer un revenu;
+l) outre les dépenses refusées au paragraphe j) des présentes, le ministre a refusé, entre autres, des dépenses d'environ 15 000 $ pour le paysagement de la résidence, considérant que cette dépense n'avait pas été effectuée dans le but de tirer un revenu;
+m) plusieurs dépenses consistaient en des frais inhérents à des travaux effectués dans la résidence sans être reliées à l'espace réservé à la pratique professionnelle de l'appelant, le ministre a considéré toutes ces dépenses d'ordre personnel;
+n) du total de 34 345 $ de dépenses reliées, en majeure partie, à la réparation et à l'entretien de la résidence, le ministre a soustrait la somme de 20 489 $, estimant que ces dépenses étaient strictement personnelles et n'avaient pas été engagées dans le but de tirer un revenu;
+o) par conséquent, un solde de 13 856 $ a été considéré et le ministre a estimé qu'un pourcentage de 15 % des dépenses était raisonnable vu que l'espace réservé à la pratique de la profession de l'appelant représentait entre 9.4 % et 13.6 %, conditionnellement au fait qu'on tienne compte ou pas du sous-sol et du garage, dans le calcul de la superficie de la résidence;
+p) le ministre a donc reconnu la somme de 2 078 $ comme étant une dépense effectuée dans le but de tirer un revenu et il a accepté ce montant comme déduction;
+q) puisque l'appelant avait réclamé une déduction totalisant la somme de 16 663 $ pour des dépenses de bureau, le ministre a refusé des dépenses s'élevant à 14 585 $, le tableau suivant exprimant la position du ministre :
+Année 1996
+Dépenses totales calculées
+34 345 $
+-dépenses personnelles
+20 489 $
+solde
+13 856 $
+X 15 % des dépenses
+2 078 $
+Dépenses déduites par appelant
+16 663 $
+-dépenses révisées
+2 078 $
+Somme des dépenses refusées
+14 585 $
+r) l'appelant a réclamé la somme de 11 357 $ à titre de déductions pour des dépenses encourues eu égard à sa présence à des congrès ou des journées d'étude dans le cadre de sa profession;
+s) après avoir analysé lesdites dépenses, le ministre a accordé 8 063 $, soit 71 % des dépenses réclamées, jugeant qu'une portion, soit 29 %, constituaient des dépenses personnelles;
+t) lors de cette analyse, le ministre a refusé les dépenses excédant le nombre de jours de cours, mais a accepté une journée de déplacement pour les journées d'étude à Montréal et 2 journées pour la formation tenue à l'extérieur, à Québec et à Hull notamment;
+u) dans ce contexte, la proportion de dépenses acceptées par le ministre à ce chapitre est raisonnable;
+v) par conséquent, le ministre a refusé la somme de 3 294 $ à titre de déductions car elles constituaient des dépenses personnelles n'ayant pas été effectuées dans le but de tirer un revenu;
+w) l'appelant a réclamé une déduction pour frais d'intérêt et frais bancaires s'élevant à 3 917 $, lesquels frais sont reliés à l'utilisation d'une marge de crédit;
+x) l'appelant disposait d'un seul compte bancaire et l'analyse des données dudit compte a révélé que la marge de crédit servait à des fins personnelles;
+y) dans ce contexte, le ministre a refusé la déduction de 3 917 $ de frais d'intérêt considérant que cette somme n'avait pas été engagée dans le but de tirer un revenu;
+z) l'intimée soutient que le présent appel est mal fondé en faits et en droit.
+Analyse
+Intérêts et frais bancaires
+[4] L'appelant a demandé une déduction de 5 994 $ et de 3 294 $ au titre de frais d'intérêts et frais bancaires pour les années d'imposition 1995 et 1996 respectivement, lesquels frais étaient liés à l'utilisation d'une marge de crédit. L'intimée a soutenu que l'appelant disposait d'un seul compte bancaire et que l'analyse des comptes a révélé que la marge de crédit servait à des fins personnelles. L'intimée a donc refusé à l'appelant la déduction de ces frais dans le calcul de son revenu tiré de l'exercice de sa profession pour les années d'imposition concernées, en soutenant qu'ils constituaient des dépenses personnelles et n'avaient pas été engagés dans le but de tirer un revenu d'une entreprise ou d'un bien en vertu de l'alinéa 20(1)c) de la Loi de l'impôt sur le revenu (la « Loi » ).
+[5] L'appelant avait le fardeau de démontrer, selon la prépondérance des probabilités, que le ministre avait tort sur ce point. L'appelant ne s'est tout simplement pas acquitté de l'obligation qui lui incombait en ne fournissant aucune preuve quant au pourcentage de ces frais qui avaient été engagés pour fins d'affaires.
+[6] Pour ces motifs, je conclus que l'appelant ne pouvait déduire dans le calcul de son revenu tiré de l'exercice de sa profession les sommes de 5 994 $ et de 3 294 $ au titre de frais d'intérêts et de frais bancaires pour les années d'imposition 1995 et 1996 respectivement.
+Frais de formation
+[7] Le litige portait sur la déductibilité, dans le calcul du revenu de l'appelant tiré de l'exercice de sa profession, des frais d'hébergement et des frais de repas encourus par ce dernier pendant les jours où il n'y avait pas de formation lors des congrès et journées d'étude tenus à Montréal et auxquels ce dernier avait participé pendant les années d'imposition 1995 et 1996. Le débat portait plus précisément sur les frais encourus par l'appelant pendant la journée qui précédait (la « journée d'arrivée » ) et pendant la journée qui suivait (la « journée de départ » ) la tenue de ces congrès et de ces journées d'étude. Le ministre avait accepté la déduction de tels frais encourus par l'appelant pendant les journées d'arrivée mais par contre avait refusé à l'appelant une telle déduction pour les journées de départ en alléguant que ces frais étaient déraisonnables compte tenu du peu de distance qu'il y avait entre Montréal et Berthierville, lieu de résidence de l'appelant. En effet, l'appelant a témoigné que le temps requis pour franchir cette distance se situait entre une heure et une heure trente minutes.
+[8] L'avocat de l'appelant a prétendu que ces frais étaient raisonnables compte tenu de l'âge avancé de l'appelant et de la distance que ce dernier avait à parcourir pour se rendre à sa résidence. De plus, il a soutenu que le ministre ne respectait pas sa propre politique administrative[1] à l'effet qu'il permet la déduction dans le calcul du revenu de tels frais encourus non seulement lors des journées d'arrivée mais aussi lors des journées de départ.
+[9] Je suis d'avis que ces frais étaient déraisonnables et qu'ils constituaient des dépenses personnelles. En effet, le temps nécessaire pour franchir le peu de distance qu'il y a entre Berthierville et Montréal et le fait que l'appelant m'a paru en pleine forme, et ce nonobstant son âge avancé, ne légitimait aucunement la déduction des frais d'hébergement et de repas encourus par l'appelant lors des journées de départ. Quant à ladite politique administrative, à laquelle je ne suis pas lié de toute façon, elle ne fait que réitérer avant tout le principe que le caractère raisonnable de ces frais doit être évalué à la lumière de plusieurs facteurs, dont la durée des congrès et des journées d'étude et le lieu où ils se tiennent.
+[10] Quant aux frais divers encourus par l'appelant dans le cadre de ces congrès et journées d'étude et déduits par ce dernier dans le calcul de son revenu tiré de l'exercice de sa profession pour les années d'imposition 1995 et 1996, je conclus qu'ils n'étaient pas des dépenses encourues dans le but de tirer un revenu d'entreprise ou d'un bien et qu'ils constituaient plutôt des dépenses personnelles. En effet, l'appelant n'a fourni ni pièce justificative ni explication relativement à la nature de ces dépenses.
+[11] Pour ces motifs, je conclus que le ministre était en droit de refuser à l'appelant la déduction dans le calcul de son revenu tiré de l'exercice de sa profession d'une partie des frais de formation (soit les frais de repas et d'hébergement relatifs aux journées de départ pour les congrès et journées d'étude tenus à Montréal et les frais divers) qu'il a encourus, soit la somme de 2 377 $ pour l'année d'imposition 1995 et la somme de 3 294 $ pour l'année d'imposition 1996.
+Dépenses de bureau
+Remarques préliminaires
+[12] Les dépenses de bureau dont l'appelant a demandé la déduction pour l'année d'imposition 1995 et 1996 et qui ont été refusées par le ministre totalisaient (selon la Réponse à l'avis d'appel) 37 236 $ et 14 585 $ respectivement. Le détail de ces dépenses de bureau ainsi refusées apparaît à la pièce I-2.
+[13] Lors de l'audition, l'avocat de l'appelant a admis que certaines dépenses de bureau déduites par l'appelant étaient des dépenses personnelles. Ainsi les dépenses suivantes ne sont plus déduites par l'appelant dans le calcul de son revenu tiré de l'exercice de sa profession pour les années d'imposition 1995 et 1996 :
+Année d'imposition
+Description
+Montant
+1995
+Atelier Forest
+102,56 $
+1995
+Yves Desrosiers
+400,00 $
+1995
+Louis Tellier Designer
+937,17 $
+1995
+Lafrenière Meubles
+300,00 $
+1995
+Cuisine Connaisseur
+7 630,00 $
+1995
+Dello Sbarba
+425,00 $
+1995
+Lafrenière & Fils
+200,00 $
+9 994,73 $
+1996
+Yves Desrosiers
+100,00 $
+1996
+Louise Tellier
+227,91 $
+1996
+Louise Tellier
+666,64 $
+1996
+H. Brissette
+80,00 $
+1996
+Pépinière Malo
+88,38 $
+1996
+Gaetan Bonin
+108,25 $
+1 271,18 $
+[14] Lors de l'audition, l'avocat de l'intimée a admis que les dépenses suivantes avaient été effectuées par l'appelant dans le but de tirer un revenu de l'exercice de sa profession pour les années d'imposition 1995 et 1996 :
+Année d'imposition
+Description
+Montant
+1995
+Domo Signal
+1 117,13 $
+(35.158 %X 3 178,20$)
+1995
+Dello Sbarba
+284,89 $
+1995
+Serge Massicotte
+33,39 $
+(35.15 % X 95,00 $)
+1996
+Yves Desrosiers
+75,00 $
+[15] Il convient de souligner que les dépenses suivantes qui apparaissent à la pièce I-2 ne font pas l'objet du présent litige puisqu'elles ont fait l'objet d'un règlement lors de la vérification :
+Année d'imposition
+Description
+Montant
+1995
+Richard Damphousse
+879,55 $
+1995
+Gérard Brunelle
+32,31 $
+1995
+Excavation Moreau
+318,61 $
+1995
+Non analysé
+2 574,58 $
+1996
+Gérard Brunelle
+84,47 $
+1996
+Domo Signal
+205,12 $
+1996
+Gignac
+569,77 $
+1996
+Dello Sbarba
+723,61 $
+1996
+Divers
+251,50 $
+1996
+Non analysé
+1 750,06 $
+1996
+Guillaume Dubois
+726,90 $
+[16] Après l'audition, l'intimée a reconnu que dans les circonstances, les dépenses suivantes n'étaient pas sujettes à l'application du paragraphe 18(12) de la Loi et qu'elles étaient déductibles en proportion de l'utilisation pour fins d'affaires que l'appelant faisait de sa résidence :
+Année d'imposition
+Description
+Montant
+1995
+Eco Décor - Paysagement
+12 833,36 $
+1995
+Gilles Mayer - Briqueteur
+25 630,00 $
+1995
+Jean Desroches
+3 199,51 $
+1995
+Yves Desrosiers
+62,50 $
+1995
+Gérard Brunelle
+1 117,37 $
+1995
+André Sarrazin
+1 120,00 $
+1995
+Serge Massicotte
+95,00 $
+1995
+Pression net
+200,00 $
+1995
+Jimmy Page
+110,00 $
+1995
+Charles Lacoursière
+2 623,20 $
+1995
+Visa
+325,00 $
+1995
+Gaétan Bonin
+131,50 $
+1995
+Location Caron
+1 078,87 $
+1995
+Patrick Morin
+2 567,29 $
+1995
+Ville de Berthier
+182,33 $
+1996
+Eco Décor - Paysagement
+15 546,87 $
+1996
+Jean Desroches
+1 555,50
+1996
+André Sarrazin
+890,00 $
+1996
+R. Damphousse
+1 150,00 $
+[17] Après l'audition, l'appelant a reconnu que les dépenses suivantes étaient des dépenses personnelles :
+Année d'imposition
+Description
+Montant
+1995
+Charles Lacoursière[2]
+123,20 $
+1995
+Charles Lacoursière[3]
+569,14 $
+1995
+Charles Lacoursière[4]
+49,95 $
+1995
+Visa[5]
+370,74 $
+[18] Donc, seules les dépenses de bureau suivantes feront l'objet de mon analyse :
+Année d'imposition
+Description
+Montant
+1995
+Matériaux divers[6]
+595,69 $
+[19] Par conséquent, le débat sur les dépenses de bureau ne portait que sur le pourcentage d'utilisation de la superficie de la résidence de l'appelant pour fins d'affaires et sur les dépenses mentionnées au paragraphe précédent.
+Pourcentage d'utilisation de la superficie de la résidence pour fins d'affaires
+[20] D'abord, il convient de préciser que l'avocat de l'intimée a reconnu dans ses représentations écrites du 10 août 2004 que l'appelant utilisait pour les périodes en cause 30 % (769 pi2/2506 pi2) de la superficie de sa résidence pour fins d'affaires. Pour sa part, l'appelant a soutenu que ce pourcentage était plutôt de 50 %. Cet écart s'explique par la position de l'intimée à l'effet que la dînette (120 pi2), la cuisine (104 pi2) et la salle à manger (289 pi2) n'étaient pas utilisées par l'appelant pour fins d'affaires pendant les périodes en cause.
+[21] Il ressort du témoignage de l'appelant :
+i) qu'il utilisait la salle à manger pour vérifier, compléter et consulter ses dossiers médicaux, que de nombreux dossiers s'y trouvaient en tout temps et que cette pièce n'était pas très souvent utilisée pour fins personnelles;
+ii) que la cuisine (104 pi2) et la dînette (120 pi2) servaient de bureau à la secrétaire de l'appelant qui, en l'occurrence, était sa conjointe. Les patients s'y présentaient pour annoncer leur arrivée et pour prendre des rendez-vous. La secrétaire accueillait dans ces pièces les représentants des compagnies pharmaceutiques et y accomplissait les tâches administratives requises.
+[22] Je suis d'avis que les dépenses liées à l'utilisation de la salle à manger étaient des dépenses personnelles et donc non déductibles dans le calcul du revenu de l'appelant tiré de l'exercice de sa profession. En effet, je suis d'opinion que l'appelant aurait très bien pu utiliser son bureau de consultation (192 pi2) qui était situé au rez-de-chaussée ou encore son bureau (106 pi2) qui se trouvait à l'étage, pour consulter et vérifier ses dossiers médicaux, pièces que l'intimée a reconnu d'ailleurs comme étant utilisées par l'appelant dans l'exercice de sa profession. Il ne s'agit pas de mettre des dossiers dans toutes les pièces de la résidence pour qu'elles soient reconnues pour autant comme utilisées pour fins d'affaires.
+[23] Toutefois, l'appelant m'a convaincu par ailleurs que la dînette et la cuisine étaient utilisées pour fins d'affaires. Il m'apparaît invraisemblable que ces pièces aient été utilisées exclusivement pour des fins d'affaires. Que ces pièces aient été utilisées pour fins d'affaires en partie, soit 50 %, m'apparaît plus raisonnable dans les circonstances.
+[24] Je conclus que 35.15 % (881 pi2/2,506 pi2) de la superficie de la résidence de l'appelant était utilisée pour fins d'affaires.
+Matériaux divers (1995) : 595,69 $
+[25] Le témoignage de l'appelant à cet égard, lorsque interrogé par son avocat, mérite d'être cité :[7]
+Q. Maintenant sous la rubrique « matériaux divers » , vous réclamez 595,69 $ et ça dans le cahier de mon collègue, c'est aux pages 8240-156, je pense qu'à 167. Qu'est-ce que vous avez regroupé dans matériaux divers?
+R. Toutes des petites factures, soit d'électricité, des ampoules. Il y avait peut-être de l'engrais là pour le terrain, du sable pour l'hiver, pour mettre sur la glace là.
+Q. O.K. Et donc, l'ensemble de ces dépenses-là, ça se chiffre à 595,69 $?
+R. Oui.
+Q. En fait, le 595,69 $ c'est un petit peu la sommation de toutes les petites factures qui ont été accumulées au cours de l'année 95, c'est ça?
+[26] Il convient de souligner que l'appelant a soumis 27 petites factures (pièce I-1, onglet 1, pages 8240-156 à 167). La grande majorité des factures n'indiquaient pas la nature exacte des biens achetés. J'ai constaté que la plupart des achats avaient été faits chez Le Rénovateur Charles Lacoursière. Les factures établies par ce fournisseur indiquaient certes dans quel rayon les biens avaient été achetés, mais aucunement leur nature exacte.
+[27] L'appelant, dois-je encore le rappeler, avait le fardeau de démontrer, selon la prépondérance des probabilités, que le ministre avait tort sur ce point. L'appelant ne s'est pas acquitté, à mon avis, du fardeau qui lui incombait en témoignant de façon vague et imprécise et en fournissant des pièces justificatives sans plus d'explications. Mon rôle ne consiste sûrement pas à deviner à partir des pièces justificatives (codées) la nature exacte des biens achetés par l'appelant.
+[28] Pour ces motifs, je conclus que l'appelant pouvait déduire dans le calcul de son revenu tiré de l'exercice de sa profession les dépenses suivantes :
+Année d'imposition
+Description
+Montant de la dépense
+Montant déductible[8]
+1995
+Domo Signal
+3 178,20 $
+1 117,13 $
+1995
+Dello Sbarba
+284,89 $
+284,89 $
+1995
+Serge Massicotte
+95,00 $
+33,39 $
+1995
+Eco Décor-Paysagement
+12 833,36 $
+4 510,92 $
+1995
+Gilles Mayer Briqueteur
+25 630,00 $
+9 000 ,94 $
+1995
+Jean Desroches
+3 199,51 $
+1 124,62 $
+1995
+Yves Desrosiers
+62,50 $
+21,96 $
+1995
+Gérard Brunelle
+1 117,37 $
+392,76 $
+1995
+André Sarrazin
+1 120,00 $
+393,68 $
+1995
+Pression Net
+200,00 $
+70,30 $
+1995
+Jimmy Page
+110,00 $
+38,66 $
+1995
+Charles Lacoursière
+2 623,20 $
+922,05 $
+1995
+Visa
+325,00 $
+114,23 $
+1995
+Gaétan Bonin
+131,50 $
+46,22 $
+1995
+Location Caron
+1 078,87 $
+379,22 $
+1995
+Patrick Morin
+2 567,29 $
+902,40 $
+1995
+Ville de Berthier
+182,33 $
+64,08 $
+1996
+Eco Décor-Paysagement
+15 546,87 $
+5 464,72 $
+1996
+Jean Desroches
+1 555,50 $
+546,75 $
+1996
+André Sarrazin
+890,00 $
+312,83 $
+1996
+R. Damphousse
+1 150,00 $
+404,22 $
+1996
+Yves Desrosiers
+75,00 $
+75,00 $
+Signé à Ottawa, Ontario, ce 2e jour de décembre 2004.
+« Paul Bédard »
+Juge Bédard
+RÉFÉRENCE :
+2004CCI514
+No DU DOSSIER DE LA COUR :
+2000-3741(IT)G, 2000-3742(IT)G
+INTITULÉ DE LA CAUSE :
+Olivier M. Gendron et Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+Montréal (Québec)
+DATE DE L'AUDIENCE :
+Le 10 mai 2004
+MOTIFS DE JUGEMENT PAR :
+L'honorable juge Paul Bédard
+DATE DU JUGEMENT :
+Le 2 décembre 2004
+COMPARUTIONS :
+Pour l'appelant :
+Me Martin Pichette
+Pour l'intimée :
+Me Simon-Nicolas Crépin
+AVOCAT(E) INSCRIT(E) AU DOSSIER:
+Pour l'appelant :
+Nom :
+Me Martin Pichette
+Étude :
+de Grandpré Chait
+Montréal (Québec)
+Pour l'intimée :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Bulletin d'interprétation IT-375R2, paragraphe 5.
+[2] Voir pièce I-1, page 8240-74.
+[3] Voir pièce I-1, page 8240-92.
+[4] Voir pièce I-1, page 8240-93.
+[5] Voir pièce I-1, onglet 1, pages 8240-94 à 97.
+[6]
+Pièce I-1, onglet 1, pages 8240-156 à 167.
+[7] Notes sténographiques p. 55 [248-249]; p. 55 [250].
+[8]
+Résultat obtenu en appliquant le pourcentage d'utilisation pour fins d'affaires de la superficie de la résidence de l'appelant, soit 35.15 %.

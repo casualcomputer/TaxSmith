@@ -1,0 +1,145 @@
+---
+title: "Gestion Maryse Benny Inc. c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/67366/index.do"
+last_modified: "2014-04-07"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2014 CCI 89"
+citation2: ""
+neutral_citation: "2014 CCI 89"
+decision_date: "2014-04-07"
+language: "fr"
+item_id: "67366"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5318
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T16:01:43.990000+00:00"
+cases_cited_count: 2
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "8ebc613d9d6bf7d7a4294c8b7be17fbf842a0c1375ad1557feae504bc3645798"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Gestion Maryse Benny Inc. c. M.R.N.
+
+- Citation: 2014 CCI 89
+- Decision date: 2014-04-07
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5318, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Gestion Maryse Benny Inc. c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2014-04-07
+Référence neutre
+2014 CCI 89
+Numéro de dossier
+2012-1648(EI)
+Juges et Officiers taxateurs
+Lucie Lamarre
+Sujets
+Loi sur l'assurance-emploi
+Notes
+Une correction fut apportée le 22 septembre 2015
+Contenu de la décision
+Dossier : 2012-1648(EI)
+ENTRE :
+Gestion Maryse Benny Inc.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+____________________________________________________________________
+Appel entendu le 7 mars 2014, à Montréal (Québec).
+Devant : L'honorable juge Lucie Lamarre
+Comparutions :
+Représentant de l'appelante :
+Pierre Hardy
+Avocate de l'intimé :
+Me Sara Jahanbakhsh
+____________________________________________________________________
+JUGEMENT modifié
+L'appel en vertu du paragraphe 103(1) de la Loi sur l'assurance-emploi (LAE) est accueilli et la décision du ministre du Revenu national est modifiée, en tenant pour acquis que monsieur Jean-Pierre Aubin n’était pas à l’emploi de l’appelante aux termes de l’alinéa 5(1)a) de la LEA, au cours de la période du 1er février 2010 au 15 mai 2010.
+Signé à Ottawa, Canada, ce 7e jour d’avril 2014.
+« Lucie Lamarre »
+Juge Lamarre
+Référence : 2014 CCI 89
+Date : 20140407
+Dossier : 2012-1648(EI)
+ENTRE :
+Gestion Maryse Benny Inc.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+MOTIFS DU JUGEMENT
+La juge Lamarre
+[1] L’appelante en appelle d’une décision du ministre du Revenu national (ministre) par laquelle il a été déterminé que monsieur Jean-Pierre Aubin exerçait un emploi assurable auprès de l’appelante au cours de la période du 1er février 2010 au 15 mai 2010, aux termes de l’alinéa 5(1)a) de la Loi sur l’assurance-emploi (LAE).
+[2] J’ai entendu, pour le compte de l’appelante, les témoignages de monsieur Pierre Hardy, actionnaire, administrateur et vice-président de cette dernière ainsi que de madame Nicole Bellemare, superviseure et adjointe administrative de l’appelante. L’intimée a fait témoigner monsieur Jean‑Pierre Aubin.
+[3] Il ressort de la preuve que l’appelante est une société de gestion qui, au cours de la période en litige, administrait trois rôtisseries, l’une située à Saint‑Jérôme, l’autre à Repentigny et la troisième à Pointe‑aux‑Trembles. Monsieur Hardy a expliqué que lorsque la société a atteint le cap de 100 employés, elle s’est adressée à Emploi-Québec pour obtenir une subvention afin de s’octroyer les services d’un directeur de ressources humaines.
+[4] Monsieur Aubin, un retraité qui avait travaillé en tant que gestionnaire dans le milieu bancaire pendant une trentaine d’années, et qui avait laissé son curriculum vitae à Emploi Québec, a ainsi été référé à l’appelante.
+[5] Monsieur Aubin a dit qu’il avait reçu un appel de monsieur Hardy et qu’ils s’étaient rencontrés pour une entrevue, en présence également de madame Maryse Benny (présidente de l’appelante et conjointe de monsieur Hardy). Ils auraient discuté des besoins de l’entreprise en gestion des ressources humaines (interaction entre les gérants et les employés, motivation des employés). Monsieur Aubin n’avait aucune expérience dans la restauration mais, avec ses connaissances en gestion, il a proposé un plan de match. Il a demandé une rémunération de 700 $ par semaine, en calculant qu’il consacrerait 35 heures par semaine à l’entreprise, à un tarif de 20 $ de l’heure, de même que ses frais de déplacement (0,43 $ du kilomètre).
+[6] Monsieur Aubin a présenté une offre de services au cours de sa première semaine de travail (pièce I-1). Il y expliquait son mandat (par lequel il proposait de prendre en charge la gestion complète des ressources humaines), dans le cadre d’un contrat de 12 semaines, selon la rémunération convenue ci-haut, sur présentation de factures hebdomadaires.
+[7] Monsieur Aubin a dit que durant son mandat, il avait rencontré les gérants des trois rôtisseries afin d’établir avec eux une méthode d’évaluation pour les employés. Il fixait les rencontres conjointement avec madame Benny et les gérants. Il organisait ainsi environ 5 réunions par semaine. Il dit qu’il passait ses journées entre les trois rôtisseries, entre 10 heures et 17 heures environ, chaque jour de la semaine.
+[8] Au cours de cette période, l’appelante ne lui fournissait ni bureau, ni ordinateur, ni téléphone. Il préparait la documentation nécessaire qu’il transférait sur une clé USB de chez lui avec son propre ordinateur. Il se servait de la photocopieuse de l’appelante au besoin. Il aurait également assisté à une rencontre syndicale avec madame Benny relativement à un grief.
+[9] Selon les factures déposées en preuve (pièce I-2), il aurait reçu une rémunération brute de 700 $ par semaine, en sus du remboursement de ses frais de déplacement, pendant une période de 12 semaines. Son contrat aurait été prolongé pour une période supplémentaire de trois semaines (jusqu’au 15 mai 2010), pour une rémunération brute de 500 $ par semaine, en plus de ses frais de déplacement. Monsieur Aubin a déclaré ses revenus dans la section « Autres revenus » dans sa déclaration fiscale de 2010.
+[10] Du côté de l’appelante, monsieur Hardy et madame Bellemare ont tous deux expliqué qu’ils avaient obtenu une subvention d’Emploi Québec pour les services de monsieur Aubin. Selon l’entente de subvention déposée sous la cote A-1, l’appelante recevait un soutien pour la gestion des ressources humaines ou autre mandat de consultation afin d’être en possession à la fin de l’intervention, d’outils de gestion adaptés et performants permettant l’amélioration du climat de travail, l’optimisation du travail en équipe et le roulement de personnel. Pour ce faire, on prévoyait des honoraires admissibles pour services professionnels totalisant 9 960 $. De ce que je comprends de l’entente de subvention et du témoignage des représentants de l’appelante, cette dernière déboursait la somme de 9 960 $ en honoraires versés à monsieur Aubin. Emploi Québec payait ce même montant à l’appelante à la fin du mandat donné à ce dernier sur production d’un rapport et des factures envoyées par celui-ci (qu’on qualifie de consultant dans l’entente) et d’une preuve de paiement par l’appelante.
+[11] Madame Bellemare a expliqué qu’étant donné qu’on avait établi un montant de 9 960 $ dans l’entente de subvention, on avait prolongé la durée du mandat de trois semaines selon une rémunération de 500 $ par semaine pour finaliser le versement de la subvention. Monsieur Aubin a dit qu’il avait alors réduit son temps de travail à 25 heures par semaine.
+[12] Monsieur Hardy a expliqué qu’il était clair pour l’appelante qu’on engageait monsieur Aubin comme un travailleur autonome au cours de la période de subvention. Il a dit que monsieur Aubin organisait son horaire de travail, qu’il utilisait son propre véhicule pour se déplacer, qu’il fournissait son propre ordinateur et son téléphone portable. Monsieur Aubin a reconnu également qu’on ne supervisait pas ses heures de travail. Madame Bellemare a mentionné que monsieur Aubin avait fourni des manuels de référence (plusieurs cartables selon elle) qu’il avait préparés chez lui.
+[13] Après la période en litige, l’appelante a décidé d’engager monsieur Aubin comme directeur des ressources humaines, pour la coordination et l’évaluation des employés. On lui a aménagé un petit bureau de travail et installé une prise de téléphone. On lui a donné accès à un ordinateur, et fourni un véhicule automobile. À partir de ce moment, il a été inscrit sur la liste de paie des employés. Monsieur Aubin a expliqué que dès lors, il a dû devenir plus pointu pour l’embauche des employés et s’intéresser davantage aux tâches de ces derniers afin de fournir une meilleure description de leur travail. De plus, il a mis en place une méthode d’inventaire pour les gérants et a organisé des réunions pour planifier la mise en marché des produits. Il a accepté de travailler 40 heures par semaine.
+[14] Selon lui, il n’y a pas eu de changement dans la supervision pendant et après la période en litige. Il a dit qu’il a toujours travaillé en équipe avec madame Benny. Il reconnaît toutefois qu’après la période en litige, il devait faire rapport de ses activités et de ses déplacements, alors qu’on ne lui demandait pas de le faire auparavant.
+Analyse
+[15] Dans l’arrêt Grimard c. Canada, [2009] A.C.F. no 167, 2009 CAF 47, aux par. 27 à 35 et par. 43, on résume les distinctions à faire entre un contrat d’emploi (contrat de travail) et un contrat d’entreprise en droit civil québécois. Ainsi, l’article 2085 du Code civil du Québec (CcQ) exige, entre autres pour qu’il y ait un contrat de travail, la présence d’une direction ou d’un contrôle du travail par l’employeur. Son pendant pour le contrat d’entreprise, l’article 2099 CcQ, requiert une absence de lien de subordination entre l’entrepreneur et le client quant à l’exécution du contrat. Le contrat d’entreprise se caractérise donc par une absence de contrôle de l’exécution du travail, un contrôle qu’il ne faut pas confondre avec celui de la qualité du résultat. Le Ccq ajoute également le libre choix par l’entrepreneur des moyens d’exécution du contrat. Il faut également rechercher la commune intention des parties. Toutefois, le comportement des parties dans l’exécution des parties doit refléter cette intention commune, sinon la qualification du contrat se fera en fonction de ce que révèle la réalité factuelle.
+[16] Par ailleurs, la common law a développé des critères pour analyser la relation entre les parties, soit le contrôle, la propriété des outils, l’expectative de profits et les risques de pertes et, enfin, l’intégration du travailleur à l’entreprise. Ces critères peuvent également être utilisés dans la qualification d’un contrat de travail en vertu du droit civil québécois. Il n’y a pas d’antinomie entre les principes établis par ces deux juridictions
+[17] Ainsi, dans la détermination de l’existence d’un lien d’emploi, on doit rechercher la présence d’un certain nombre d’indices d’encadrement, tels la présence obligatoire à un lieu de travail, l’assignation plus ou moins régulière du travail, l’imposition de règles de conduite ou de comportement, l’exigence de rapports d’activités, le contrôle de la quantité ou de la qualité de la prestation (Grimard, précité, par. 36).
+[18] Par ailleurs, dans l’arrêt 1392644 Ontario Inc., S/N Connor Homes c. Ministre du Revenu national, 2013 ACF 85 aux par. 39 et 40, on rappelait que la première étape consiste à établir l’intention subjective de chacune des parties à la relation. Ceci peut se faire d’après le comportement effectif de chacune d’elles, en examinant par exemple les factures des services rendus, ou certains autres points comme de savoir si la personne s’est enregistrée aux fins de la taxe sur les produits et services (TPS) et produit des déclarations de revenus en tant que travailleur autonome. La seconde étape consiste à établir si la réalité objective confirme l’intention subjective des parties. Il est nécessaire à ce stade d’examiner les critères d’encadrement relevés ci-haut afin de déterminer si les faits concordent avec l’intention déclarée des parties.
+[19] Dans le cas présent, il est clair que l’intention de l’appelante était d’engager monsieur Aubin comme travailleur autonome pendant la période en litige. Cela semble aussi ressortir de l’entente de subvention qui dit subventionner les honoraires professionnels sur production des factures du consultant/travailleur autonome, et qui indique également à un endroit que les salaires des employés sont à la charge de l’entreprise (pièce A-1, 4e page, article 2.3, et 5e page).
+[20] Cette intention n’apparaît pas aussi clairement du témoignage de monsieur Aubin. Toutefois, il a déclaré ses revenus dans la catégorie des « autres revenus » dans sa déclaration fiscale car il n’avait pas reçu de feuillets T-4 pour les revenus d’emploi. Par ailleurs, il n’était pas enregistré comme travailleur autonome aux fins de la TPS. Il a mentionné qu’il avait pris ce travail, alors qu’il était à la retraite, pour augmenter ses revenus. Il avait travaillé 30 ans dans le milieu bancaire comme gestionnaire. Il était certainement au courant que s’il avait été considéré comme un employé dès le début, l’appelante aurait effectué toutes les déductions à la source, d’autant que cette dernière avait toute la comptabilité en place pour tous ses autres employés (une centaine au moment où monsieur Aubin est entré à son service). Je considère donc que monsieur Aubin était tout à fait conscient qu’il n’était pas considéré comme un employé au début de la période de trois mois en litige.
+[21] La question qui se pose maintenant est celle de déterminer quelle était la relation juridique réelle entre les parties.
+[22] À mon avis, l’appelante a démontré que la relation juridique n’était pas conforme à une relation employeur-employé. Monsieur Aubin a dit qu’il avait proposé le plan de match et qu’il avait rédigé son offre de services en fonction de ses connaissances en gestion. Il n’était soumis à aucune modalité d’exécution de ses tâches. Il avait le libre choix des moyens utilisés pour honorer son contrat. Madame Bellemare a souligné que monsieur Aubin avait fourni à l’appelante une série de cartables, préparés par ce dernier de chez lui, lesquels contenaient un manuel de référence pour l’embauche des employés. Lui-même a dit qu’il se disciplinait pour allouer 35 heures de travail à l’appelante. Ainsi, il a calculé sa rémunération selon le nombre d’heures qu’il s’était lui-même fixé selon un tarif horaire qu’il jugeait raisonnable. Puisque la subvention d’Emploi-Québec était plus élevée, ils ont convenu de prolonger de trois semaines le mandat octroyé pour combler le solde du montant subventionné. En agissant ainsi, on réduisait sa rémunération hebdomadaire. Monsieur Aubin a dit qu’il avait également réduit ses heures.
+[23] Monsieur Hardy a clairement indiqué qu’il ne vérifiait pas l’horaire de travail de monsieur Aubin. Celui-ci a, quant à lui, mentionné qu’il travaillait de concert avec madame Benny et les gérants afin d’organiser des rencontres avec ces derniers.
+[24] De plus, pendant cette période, monsieur Aubin a reconnu que l’appelante ne lui demandait pas de rapport sur ses déplacements et ses activités. De tels rapports lui ont été demandés, par contre, quand il est devenu un employé. Monsieur Aubin a d’ailleurs lui-même déclaré que son travail était devenu plus pointu à partir de ce moment. Il devait prendre connaissance des tâches des employés, travailler plus d’heures et produire des rapports d’activités. Par ailleurs, on lui a fourni un petit bureau de travail, un ordinateur, un téléphone et un véhicule automobile.
+[25] J’estime que la relation entre les parties a changé après la période en litige, lorsque monsieur Aubin a été inscrit comme employé. En lui fournissant tout ce qu’il n’avait pas auparavant et en exigeant des rapports et une connaissance plus approfondie de l’entreprise et donc, une plus grande implication de sa part, monsieur Aubin a, à ce moment, été intégré dans l’entreprise, sous une supervision réelle de l’appelante, ce qui n’était pas le cas au cours de la période en litige.
+[26] Je conclus donc que monsieur Aubin n’était pas engagé en vertu d’un contrat de louage de services entre le 1er février 2010 et le 15 mai 2010.
+[27] L’appel est accueilli et la décision du ministre est modifiée en tenant pour acquis que monsieur Aubin n’était pas à l’emploi de l’appelante aux termes de l’alinéa 5(1)a) de la LAE au cours de cette période.
+Signé à Ottawa, Canada, ce 7e jour d’avril 2014.
+« Lucie Lamarre »
+Juge Lamarre
+RÉFÉRENCE : 2014 CCI 89
+Nº DU DOSSIER DE LA COUR : 2012-1648(EI)
+INTITULÉ DE LA CAUSE : Gestion Maryse Benny Inc. c. Ministre du Revenu National
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATE DE L’AUDIENCE : Le 7 mars 2014
+MOTIFS DU JUGEMENT PAR : L'honorable juge Lucie Lamarre
+DATE DU JUGEMENT MODIFIÉ : Le 7 avril 2014
+COMPARUTIONS :
+Représentant de l'appelante :
+Pierre Hardy
+Avocate de l'intimé :
+Me Sara Jahanbakhsh
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelante:
+Nom :
+Cabinet :
+Pour l’intimé : William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada

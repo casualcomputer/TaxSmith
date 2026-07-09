@@ -1,0 +1,199 @@
+Title: Martin c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/109625/index.do
+Corpus path: corpus/cases/tcc/2015/2015-cci-118-109625-martin-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2015-05-11
+
+# Martin c. La Reine
+
+- Citation: 2015 CCI 118
+- Decision date: 2015-05-11
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2814, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Martin c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2015-05-11
+Référence neutre
+2015 CCI 118
+Numéro de dossier
+2013-2733(IT)I
+Juges et Officiers taxateurs
+Johanne D’Auray
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2013-2733(IT)I
+ENTRE :
+BRENDA MARTIN,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Appel entendu le 8 janvier 2015, à Montréal (Québec).
+Devant : L’honorable juge Johanne D’Auray
+Comparutions :
+Avocate de l’appelante :
+Me Camille Janvier
+Avocat de l’intimée :
+Me Simon Vincent
+JUGEMENT
+L’appel de la nouvelle cotisation établie en vertu de Loi de l’impôt sur le revenu pour l’année d’imposition 2010 est rejeté, sans frais.
+Signé à Ottawa, Canada, ce 11e jour de mai 2015.
+« Johanne D’Auray »
+Juge D’Auray
+Référence : 2015 CCI 118
+Date : 20150511
+Dossier : 2013-2733(IT)I
+ENTRE :
+BRENDA MARTIN,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+La juge D’Auray
+INTRODUCTION [1] Il s’agit d’un appel interjeté sous le régime de la procédure informelle d’une nouvelle cotisation établie le 31 octobre 2011 par le ministre du Revenu national (le « ministre ») pour l’année d’imposition 2010, selon laquelle il a ajouté aux revenus de l’appelante la somme de 39 335 $ à titre de revenu provenant de régimes enregistrés d’épargne-retraite.
+FAITS [2] L’appelante détenait une somme d’argent dans un Régime enregistré d’épargne-retraite (« REÉR ») auprès de la Compagnie de Fiducie du Groupe Investors Ltée (la « Compagnie de Fiducie »).
+[3] Le 15 mai 2008, l’Agence du revenu du Canada (l’« ARC ») a déposé un certificat de dette fiscale à la Cour fédérale en vertu de l’article 223 de la Loi de l’impôt sur le revenu (« Loi »). L’appelante avait alors une dette fiscale de 321 793,78 $.
+[4] Le 3 juin 2008, l’ARC a enregistré un avis d’hypothèque légale à l’encontre du REÉR de l’appelante. L’hypothèque a été inscrite au Registre des droits personnels et réels mobiliers.
+[5] Le 5 décembre 2008, l’appelante a déclaré faillite.
+[6] L’ARC a choisi de ne pas déposer une preuve de réclamation au syndic pour participer au partage des actifs de la faillite comme créancier ordinaire pour la portion non garantie de sa créance.
+[7] Le 10 décembre 2009, une ordonnance de libération de faillite a été rendue à l’égard de l’appelante par la Cour suprême de la Colombie-Britannique.
+[8] Le 19 janvier 2010, une ordonnance provisoire de saisie-arrêt a été émise en faveur du ministre. Cette ordonnance prévoyait que toute somme due ou qui deviendrait due par la Compagnie de Fiducie à l’appelante, et plus particulièrement les sommes investies dans le REÉR détenu par la Compagnie de Fiducie au nom et pour le compte de l’appelante, soit saisie-arrêtée afin de répondre au Certificat déposé le 15 mai 2008 à la Cour fédérale.
+[9] Le 26 février 2010, l’ARC a obtenu une ordonnance de saisie-arrêt définitive. En vertu de cette ordonnance, le ministre a procédé à la saisie-arrêt du REÉR qui était visé par l’hypothèque légale aux fins de satisfaire une partie de la somme demeurant due en vertu du Certificat déposé le 15 mai 2008.
+[10] Le 7 mai 2010, le syndic a été libéré.
+[11] Le 31 octobre 2011, le ministre a établi une nouvelle cotisation pour l’année d’imposition 2010 par laquelle il ajoutait dans le calcul du revenu de l’appelante un montant de 39 335 $ à titre de revenu provenant d’un REÉR.
+[12] Le ministre a considéré que le montant du REÉR qu’il a saisi constituait du revenu imposable pour l’année d’imposition 2010 de l’appelante. Le ministre a donc inclus ce montant dans le revenu de l’appelante, ce à quoi l’appelante s’oppose.
+Question en litige [13] La question en litige consiste à déterminer si le ministre a correctement ajouté un montant de 39 335 $ provenant d’un REÉR dans le calcul du revenu de l’appelante pour l’année d’imposition 2010.
+Arguments de l’appelante [14] L’appelante prétend que le ministre ne pouvait inclure le montant de 39 335 $ dans le calcul de son revenu pour l’année d’imposition 2010.
+[15] L’appelante fait valoir que la créance garantie du ministre faisait partie des réclamations prouvables puisque tous les créanciers ont une réclamation prouvable dans la faillite. Par conséquent, elle soutient que toutes les dettes, incluant les dettes à l’égard des créanciers garantis, sont éteintes par l’ordonnance de libération du failli. Par conséquent, l’appelante est libérée de la totalité de sa dette fiscale qu’il y ait garantie ou non. À l’appui de sa thèse voulant que la créance du ministre soit éteinte, l’appelante s’appuie sur la décision Beaudoin c La Reine, 2004 CCI 152, rendue par le juge Angers de notre Cour.
+[16] À l’audience, l’appelante a soutenu que la garantie du ministre survivait à la faillite, mais que la créance fiscale, elle, s’éteignait. L’appelante prétend que les créanciers garantis ont simplement un accessoire additionnel qui leur donne un avantage par rapport aux autres créanciers.
+[17] L’appelante avance aussi qu’elle s’est vue dépossédée de son REÉR au moment de sa faillite.
+Arguments de l’intimée [18] Selon l’intimée, l’appelante a reçu un montant de 39 335 $ à titre de revenus tirés de son REÉR, déclenchant ainsi l’inclusion de ce montant dans son revenu pour l’année d’imposition 2010, conformément à l’alinéa 56(1)h) et au paragraphe 146(8) de la Loi.
+[19] L’intimée soutient que la faillite libère le failli de ses réclamations prouvables. Pour l’intimée, la créance garantie ne constitue pas une réclamation prouvable au sens de la Loi sur la faillite et l’insolvabilité, LRC 1985, ch B-3 (la « LFI »). Elle fait valoir que la créance subsiste après la faillite jusqu’à concurrence de la garantie. À l’appui de sa thèse, l’avocat de l’intimée s’est notamment référé au jugement de la Cour supérieure du Québec dans Gagnon c Fiducie Desjardins, [1992] RJQ 2244 (approuvé par la Cour d’appel du Québec, [1993] JQ no 1645).
+[20] L’intimée a fait valoir que le REÉR n’était pas inclus dans les actifs de la faillite de l’appelante. L’intimée soutient que la LFI a été modifiée de sorte que les REÉR ne font pas partie des montants qui tombent sous la saisine du syndic. Ainsi, quand le montant des REÉR a été sorti du compte de l’appelante en raison de la saisie afin de payer une partie de la créance due au ministre, elle devait inclure ce montant dans le calcul de son revenu. L’intimée prétend que c’est comme si l’appelante avait sorti son REÉR pour le transmettre au ministre en guise de paiement de sa dette.
+ANALYSE [21] La LFI crée un cadre législatif particulier. Dans un contexte de faillite, le statut du créancier revêt une grande importance puisque la situation du créancier garanti est différente de celle du créancier sans garantie.
+[22] Les dispositions de la LFI pertinentes au présent litige sont les suivantes :
+Définitions
+2. Les définitions qui suivent s’appliquent à la présente loi.
+« créancier » Personne titulaire d’une réclamation prouvable à ce titre sous le régime de la présente loi.
+« créancier garanti » Personne titulaire d’une hypothèque, d’un gage, d’une charge ou d’un privilège sur ou contre les biens du débiteur ou une partie de ses biens, à titre de garantie d’une dette échue ou à échoir, ou personne dont la réclamation est fondée sur un effet de commerce ou garantie par ce dernier, lequel effet de commerce est détenu comme garantie subsidiaire et dont le débiteur n’est responsable qu’indirectement ou secondairement. S’entend en outre :
+[…]
+« réclamation prouvable en matière de faillite » ou « réclamation prouvable » Toute réclamation ou créance pouvant être prouvée dans des procédures intentées sous l’autorité de la présente loi par un créancier.
+Biens du failli
+67 (1) Les biens d’un failli, constituant le patrimoine attribué à ses créanciers, ne comprennent pas les biens suivants :
+b.3) sans restreindre la portée générale de l’alinéa b), les biens détenus dans un régime enregistré d’épargne-retraite ou un fonds enregistré de revenu de retraite, au sens de la Loi de l’impôt sur le revenu, ou dans tout régime prescrit, à l’exception des cotisations au régime ou au fonds effectuées au cours des douze mois précédant la date de la faillite,
+[…]
+Réclamations prouvables
+121. (1) Toutes créances et tous engagements, présents ou futurs, auxquels le failli est assujetti à la date à laquelle il devient failli, ou auxquels il peut devenir assujetti avant sa libération, en raison d’une obligation contractée antérieurement à cette date, sont réputés des réclamations prouvables dans des procédures entamées en vertu de la présente loi.
+[…]
+Les créanciers doivent prouver leurs réclamations
+124. (1) Chaque créancier doit prouver sa réclamation, faute de quoi il n’a pas droit de partage dans la distribution qui peut être opérée.
+Remise de preuve
+(2) Une réclamation est prouvée par la remise, au syndic, d’une preuve de la réclamation selon la forme prescrite.
+Qui peut faire la preuve d’une réclamation
+(3) La preuve de réclamation peut être faite par le créancier lui-même ou par une personne qu’il a autorisée à agir en son nom; la preuve, si elle est faite par une personne ainsi autorisée, doit énoncer l’autorisation et les sources de renseignement de cette personne.
+Preuve du créancier garanti
+127. (1) Lorsqu’un créancier garanti réalise sa garantie, il peut prouver le reliquat qui lui est dû, après avoir déduit la somme nette réalisée.
+Peut prouver sa réclamation entière sur renonciation
+(2) Lorsqu’un créancier garanti renonce à sa garantie en faveur du syndic au profit des créanciers en général, il peut établir la preuve de sa réclamation entière.
+L’ordonnance de libération ne libère pas des dettes
+178. (1) Une ordonnance de libération ne libère pas le failli :
+a) de toute amende, pénalité, ordonnance de restitution ou toute ordonnance similaire infligée ou rendue par un tribunal, ou de toute autre dette provenant d’un engagement ou d’un cautionnement en matière pénale;
+a.1) de toute indemnité accordée en justice dans une affaire civile :
+(i) pour des lésions corporelles causées intentionnellement ou pour agression sexuelle,
+(ii) pour décès découlant de celles-ci;
+b) de toute dette ou obligation pour pension alimentaire;
+c) de toute dette ou obligation aux termes de la décision d’un tribunal en matière de filiation ou d’aliments ou aux termes d’une entente alimentaire au profit d’un époux, d’un ex-époux ou ancien conjoint de fait ou d’un enfant vivant séparé du failli;
+d) de toute dette ou obligation résultant de la fraude, du détournement, de la concussion ou de l’abus de confiance alors qu’il agissait, dans la province de Québec, à titre de fiduciaire ou d’administrateur du bien d’autrui ou, dans les autres provinces, à titre de fiduciaire;
+e) de toute dette ou obligation résultant de l’obtention de biens ou de services par des faux-semblants ou la présentation erronée et frauduleuse des faits, autre qu’une dette ou obligation qui découle d’une réclamation relative à des capitaux propres;
+f) de l’obligation visant le dividende qu’un créancier aurait eu droit de recevoir sur toute réclamation prouvable non révélée au syndic, à moins que ce créancier n’ait été averti ou n’ait eu connaissance de la faillite et n’ait omis de prendre les mesures raisonnables pour prouver sa réclamation;
+g) de toute dette ou obligation découlant d’un prêt consenti ou garanti au titre de la Loi fédérale sur les prêts aux étudiants, de la Loi fédérale sur l’aide financière aux étudiants ou de toute loi provinciale relative aux prêts aux étudiants lorsque la faillite est survenue avant la date à laquelle le failli a cessé d’être un étudiant, à temps plein ou à temps partiel, au regard de la loi applicable, ou dans les sept ans suivant cette date;
+g.1) de toute dette ou obligation découlant d’un prêt octroyé au titre de la Loi sur les prêts aux apprentis lorsque la faillite est survenue avant la date à laquelle le failli a cessé, au regard de cette loi, d’être un apprenti admissible, au sens de cette loi, ou dans les sept ans suivant cette date;
+h) de toute dette relative aux intérêts dus à l’égard d’une somme visée à l’un des alinéas a) à g.1).
+Réclamations libérées
+(2) Une ordonnance de libération libère le failli de toutes autres réclamations prouvables en matière de faillite.
+[23] À mon avis, il ressort des définitions des mots « créancier » et « créancier garanti » et de l’article 121 de la LFI que la créance garantie ne constitue pas une réclamation prouvable en vertu de la LFI.
+[24] Comme l’ont souligné plusieurs auteurs, le créancier garanti est étranger à la faillite.
+[25] Dans certaines situations, le créancier garanti peut toutefois vouloir participer au processus de faillite. La créance garantie fera partie des réclamations prouvables seulement dans les circonstances suivantes:
+- Lorsqu’un créancier garanti réalise sa garantie, il peut prouver le reliquat qui lui est dû, après avoir déduit la somme nette réalisée (para 127(1) LFI);
+- Lorsqu’un créancier garanti renonce à sa garantie en faveur du syndic au profit des créanciers en général, il peut établir la preuve de sa réclamation entière (para 127(2) LFI);
+- Le créancier garanti peut évaluer sa garantie et prouver la portion non garantie de sa créance (para 128(2) LFI).
+[26] En ne participant pas à la faillite, le créancier garanti n’aura pas droit, pour la portion non garantie, à une distribution entre les créanciers s’il y en avait une. De plus, le créancier garanti ne peut pas prendre de recours personnel contre le failli pour la portion non recouvrée de sa dette une fois le failli libéré.
+[27] Les dispositions de la Loi pertinentes au présent appel sont l’alinéa 56(1)h) et le paragraphe 146(8).
+[28] L’inclusion dans le revenu des montants liés provenant d’un REÉR est prescrite par l’alinéa 56(1)h) de la Loi. Cet alinéa est ainsi rédigé :
+56. (1) Sommes à inclure dans le revenu de l’année -- Sans préjudice de la portée générale de l’article 3, sont à inclure dans le calcul du revenu d’un contribuable pour une année d’imposition :
+h) Régime enregistré d’épargne-retraite, etc. -- toutes sommes relatives à un régime enregistré d’épargne-retraite ou à un fonds enregistré de revenu de retraite et qui doivent, en vertu de l’article 146, être incluses dans le calcul du revenu du contribuable pour l’année;
+[29] L’alinéa 56(1)h) de la Loi renvoi aux règles pertinentes de l’article 146 de la Loi. Le paragraphe 146(8) de la Loi est rédigé en ces termes:
+(8) Prestations [et retraits] imposables -- Est inclus dans le calcul du revenu d’un contribuable pour une année d’imposition le total des montants qu’il a reçus au cours de l’année à titre de prestations dans le cadre de régimes enregistrés d’épargne-retraite, à l’exception des retraits exclus au sens des paragraphes 146.01(1) ou 146.02(1), et des montants qui sont inclus, en application de l’alinéa (12)b), dans le calcul de son revenu.
+[30] La définition de « prestation » se retrouve au paragraphe 146(1) de la Loi et se lit comme suit :
+146(1) Les définitions qui suivent s’appliquent au présent article :
+« prestation » Est comprise dans une prestation toute somme reçue dans le cadre d’un régime d’épargne-retraite, à l’exception :
+[…]
+[31] Pour que l’alinéa 56(1)h) de la Loi s’applique, l’appelante doit avoir reçu au cours de l’année d’imposition 2010 des montants à titre de prestations dans le cadre de son REÉR.
+[32] La jurisprudence est claire: le terme « recevoir » doit être interprété largement. Recevoir veut évidemment dire en bénéficier ou en profiter (Morin c Canada, [1974] A.C.F. no 907 (QL) (C.F. 1ière inst.), au paragraphe 23).
+[33] Par ailleurs, l’hypothèque légale du ministre constitue une garantie au sens de la LFI (Minister of National Revenue v Keith G Collins Ltd, 2008 MBCA 92). L’appelante n’a d’ailleurs pas contesté ce point.
+[34] En l’espèce, la preuve a établi que le ministre n’a produit aucune preuve de réclamation. Le ministre a plutôt choisi de réaliser sa garantie en dehors de la procédure de faillite.
+[35] Dans Beaudoin c La Reine, précitée, le juge Angers de notre Cour a formulé les commentaires suivants au paragraphe 13:
+[13] En l’espèce, le montant investi chez La Laurentienne n’a pas été cédé par l’appelant au syndic de la cession en vertu de Loi sur la faillite et l’insolvabilité, et ce, pour des motifs qui n’ont pas été expliqués. Il ne fait aucun doute également que le montant n’a pas été versé directement à l’appelant, bien que le versement de ce montant par La Laurentienne pourrait lui être bénéfique en ce sens qu’il sert à payer une partie de la dette de l’appelant au ministre, ce qui pourrait constituer un « reçu indirect », obligeant l’appelant à ajouter ce montant à son revenu pour l’année d’imposition en litige. Toutefois, étant donné que la dette fiscale a été effacée par l’ordonnance de libération de l’appelant, il est possible de conclure, à mon avis, que le versement d’un revenu tiré d’un REÉR par La Laurentienne au ministre pour le paiement d’une dette éteinte ne constitue pas la réception d’une prestation pour l’appelant, au sens du paragraphe 146(8) de la Loi, puisque l’appelant n’a reçu aucune somme d’argent ni un avantage suite à ce versement.
+[Je souligne.]
+[36] Les faits de l’espèce se distinguent de ceux de cette décision. Premièrement, dans la décision Beaudoin, il ne s’agissait pas d’une créance garantie, car aucune garantie n’avait été prise par le ministre. Deuxièmement, à l’époque où la décision Beaudoin avait été rendue, un REÉR constituait un bien qui tombait sous la saisine du syndic, ce qui n’est plus le cas suite au changement législatif. Le paragraphe 67b.3) de la LFI applicable en l’espèce, exclut un REÉR du patrimoine des biens attribués aux créanciers. Le paragraphe 67b.3) se lit ainsi :
+Biens du failli
+67 (1) Les biens d’un failli, constituant le patrimoine attribué à ses créanciers, ne comprennent pas les biens suivants :
+b.3) sans restreindre la portée générale de l’alinéa b), les biens détenus dans un régime enregistré d’épargne-retraite ou un fonds enregistré de revenu de retraite, au sens de la Loi de l’impôt sur le revenu, ou dans tout régime prescrit, à l’exception des cotisations au régime ou au fonds effectuées au cours des douze mois précédant la date de la faillite,
+[…]
+[37] Par conséquent, la décision Beaudoin n’est d’aucun secours pour l’appelante.
+[38] Dans Gagnon c Fiducie Desjardins, précitée, la Cour supérieure du Québec a fait les remarques suivantes :
+15 Enfin l’article 178(2) de la Loi sur la faillite mentionne qu’une "ordonnance de libération libère le failli de toutes autres réclamations prouvables en matière de faillite". Il va de soi que cette libération est sous réserve des cas prévus au paragraphe 1 du même article, le texte anglais étant à cet égard très précis.
+22 Le jugement de libération obtenu par le requérant n’a pas fait disparaître la garantie détenue par l’intimée notamment parce que celle-ci ne constitue pas une réclamation prouvable au sens de la Loi sur la faillite.
+23 En effet, le Tribunal est d’avis que le jugement de libération libère le failli des réclamations prouvables qu’un créancier garanti a pu produire dans le cadre des articles 127 et 128 de la Loi sur la faillite.
+24 Par ailleurs, les dispositions de la Loi sur la faillite ont comme conséquence d’empêcher le créancier garanti d’exercer un recours personnel contre le failli. Le créancier doit se payer en utilisant la garantie qui lui a été donnée. En d’autres termes, l’obligation qui est le support de la garantie demeure, mais les dispositions particulières de la Loi sur la faillite font en sorte que le paiement ne peut provenir que de la réalisation de cette garantie.
+[Je souligne.]
+[39] L’ordonnance de libération libère le failli des dettes qui constituent des réclamations prouvables, à l’exception de celles énumérées au paragraphe 178(1) de la LFI.
+[40] Puisque la créance garantie ne constitue pas une réclamation prouvable dans la faillite, le débiteur failli n’en est pas libéré.
+[41] Pour le créancier garanti, la libération du failli signifie qu’aucun recours personnel n’est possible pour le recouvrement de l’excédent non récupéré par la réalisation d’une garantie.
+[42] Dans ce dossier, le ministre a décidé de s’exclure de la procédure de faillite et de réaliser sa garantie après la libération de l’appelante.
+[43] Puisque la créance garantie de 39 335 $ n’est pas une réclamation prouvable, l’appelante n’en est pas libérée.
+[44] Le REÉR est d’ailleurs demeuré la propriété de l’appelante après sa libération en vertu du paragraphe 67b.3) de la LFI, puisque tel que je l’ai déjà indiqué, le REÉR ne tombe pas sous la saisine du syndic. Par conséquent, l’appelante aurait été imposée si elle avait décidé de retirer les sommes qui y sont investies. La conséquence fiscale est la même, que ce soit le ministre qui procède à une saisie des fonds du REÉR, ou que ce soit l’appelante qui les retire.
+[45] La saisie par le ministre du REÉR détenu par la Compagnie de Fiducie est bénéfique à l’appelante, en ce sens qu’il sert à réduire une partie de sa dette fiscale. Il s’agit selon moi d’une prestation reçue indirectement par l’appelante au sens du paragraphe 146(8) de la Loi, l’obligeant à inclure ce montant dans le calcul de son revenu pour l’année d’imposition en litige.
+DISPOSITION [46] Par conséquent, l’appel est rejeté sans frais.
+Signé à Ottawa, Canada, ce 11e jour de mai 2015.
+« Johanne D’Auray »
+Juge D’Auray
+RÉFÉRENCE :
+2015 CCI 118
+Nº DU DOSSIER DE LA COUR :
+2013-2733(IT)I
+INTITULÉ DE LA CAUSE :
+BRENDA MARTIN c SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Montréal (Québec)
+DATE DE L’AUDIENCE :
+Le 8 janvier 2015
+MOTIFS DE JUGEMENT PAR :
+L’honorable juge Johanne D’Auray
+DATE DU JUGEMENT :
+Le 11 mai 2015
+COMPARUTIONS :
+Avocate de l’appelante :
+Me Camille Janvier
+Avocat de l’intimée :
+Me Simon Vincent
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante:
+Nom :
+Me Camille Janvier
+Cabinet :
+BCF s.e.n.c.r.l.
+Pour l’intimée :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada

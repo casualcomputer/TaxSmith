@@ -1,0 +1,231 @@
+---
+title: "Eagle Canyon Adventures v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28911/index.do"
+last_modified: "2008-10-06"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 TCC 563"
+citation2: ""
+neutral_citation: "2008 TCC 563"
+decision_date: "2008-10-06"
+language: "en"
+item_id: "28911"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1419
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T23:45:45.873000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "d4a8723e74da163474429abb3f167c5d7cb4b4dd8b5ad08548a847d72db82183"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Eagle Canyon Adventures v. M.N.R.
+
+- Citation: 2008 TCC 563
+- Decision date: 2008-10-06
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1419, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Eagle Canyon Adventures v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-10-06
+Neutral citation
+2008 TCC 563
+File numbers
+2006-2688(EI)
+Judges and Taxing Officers
+Murray A. Mogan
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2006-2688(EI)
+2007-2939(EI)
+BETWEEN:
+EAGLE CANYON ADVENTURES INC.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeals heard on common evidence with the appeals of
+Cindy Hamel, 2006-2689(EI) and 2007-3712(EI),
+on May 1, 2008, at Thunder Bay, Ontario
+By: The Honourable Justice M.A. Mogan
+Appearances:
+Counsel for the Appellant:
+John G. Illingworth
+Counsel for the Respondent:
+Melissa Danish
+____________________________________________________________________
+JUDGMENT
+The appeals pursuant to subsection 103(1) of the Employment Insurance Act are allowed and the decisions of the Minister of National Revenue on the appeals made to him under section 91 of that Act are vacated on the basis that Cindy Hamel was employed by the Appellant in insurable employment within the meaning of paragraph 5(1)(a) of the Act for the periods July 11 to December 31, 2005 and July 3 to December 29, 2006.
+Signed at Ottawa, Canada, this 6th day of October, 2008.
+“M.A. Mogan”
+Mogan J.
+Docket: 2006-2689(EI)
+2007-3712(EI)
+BETWEEN:
+CINDY HAMEL,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeals heard on common evidence with the appeals of
+Eagle Canyon Adventures Inc., 2006-2688(EI) and 2007-2939(EI),
+on May 1, 2008, at Thunder Bay, Ontario
+By: The Honourable Justice M.A. Mogan
+Appearances:
+Counsel for the Appellant:
+John G. Illingworth
+Counsel for the Respondent:
+Melissa Danish
+____________________________________________________________________
+JUDGMENT
+The appeals pursuant to subsection 103(1) of the Employment Insurance Act are allowed and the decisions of the Minister of National Revenue on the appeals made to him under section 91 of that Act are vacated on the basis that the Appellant was employed by Eagle Canyon Adventures Inc. in insurable employment within the meaning of paragraph 5(1)(a) of the Act for the periods July 11 to December 31, 2005 and July 3 to December 29, 2006.
+Signed at Ottawa, Canada, this 6th day of October, 2008.
+“M.A. Mogan”
+Mogan J.
+Citation: 2008 TCC 563
+Date: 20081006
+Docket: 2006-2688(EI) and 2007-2939(EI)
+2006-2689(EI) and 2007-3712(EI)
+BETWEEN:
+EAGLE CANYON ADVENTURES INC.
+and CINDY HAMEL,
+Appellants,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGMENT
+Mogan J.
+[1] The appeals of Eagle Canyon Adventures Inc. v. The Minister of National Revenue (Court Files 2006-2688(EI) and 2007-2939(EI)) and Cindy Hamel v. The Minister of National Revenue (Court Files 2006-2689(EI) and 2007‑3712(EI)) were heard together on common evidence. In each of the years 2004, 2005 and 2006, Cindy Hamel (“Cindy”) was employed for approximately six months by Eagle Canyon Adventures Inc. (“ECA”) . When she was laid off at the end of December 2005, Cindy applied for employment insurance (“EI”) benefits under the Employment Insurance Act (the “Act”). She was refused such benefits because she and ECA were not dealing with each other at arm’s length.
+[2] The same thing happened when Cindy was laid off at the end of December 2006. Again, she was refused EI benefits for the same reason. The Minister of National Revenue (the “Minister”) determined that she was not entitled to EI benefits for employment in 2005 and 2006 because her contract of employment with ECA in the relevant periods would have been different if she had been at arm’s length with her employer. She has appealed from those determinations by the Minister. ECA has also appealed from those determinations by the Minister; and ECA seeks an order that its employment of Cindy be regarded as insurable employment within subsection 5(1) of the Act. The relevant periods of employment are July 11 to December 31, 2005 and July 3 to December 29, 2006.
+[3] The relevant provisions of the Act are as follows:
+5(1) Subject to subsection (2), insurable employment is
+(a) employment in Canada by one or more employers, under any express or implied contract of service or apprenticeship, written or oral, whether the earnings of the employed person are received from the employer or some other person and whether the earnings are calculated by time or by the piece, or partly by time and partly by the piece, or otherwise;
+5(2) Insurable employment does not include
+(a) …
+(i) employment if the employer and employee are not dealing with each other at arm's length.
+5(3) For the purposes of paragraph (2)(i),
+(a) the question of whether persons are not dealing with each other at arm's length shall be determined in accordance with the Income Tax Act; and
+(b) if the employer is, within the meaning of that Act, related to the employee, they are deemed to deal with each other at arm's length if the Minister of National Revenue is satisfied that, having regard to all the circumstances of the employment, including the remuneration paid, the terms and conditions, the duration and the nature and importance of the work performed, it is reasonable to conclude that they would have entered into a substantially similar contract of employment if they had been dealing with each other at arm's length.
+[4] In these appeals, the Appellants admit that, at all relevant times, Cindy and ECA were not dealing with each other at arm’s length. The Appellants claim, however, that having regard to all the circumstances of the employment, it is reasonable to conclude that Cindy and ECA would have entered into a substantially similar contract of employment if they had been dealing at arm’s length. In particular, the Appellants rely on the four tests set out in paragraph 5(3)(b) of the Act:
+— the remuneration paid;
+— the terms and conditions of employment;
+— the duration of the work performed; and
+— the nature and importance of the work performed.
+[5] Considering paragraph 5(3)(b) of the Act, if the Minister determines that, having regard to all the circumstances of employment, it is not reasonable to conclude that the parties would have entered into a substantially similar contract of employment if they had been at arm’s length, an appeal to this Court from such determination by the Minister is like an application for judicial review. Over the past 15 years, the Federal Court of Appeal has decided a number of cases interpreting and applying paragraph 5(3)(b) of the Act and its preceding provision (subparagraph 3(2)(c)(ii)). For example, see Tignish Auto Parts Inc. v. M.N.R. (1994), 185 N.R. 73, Ferme Emile Richard & Fils Inc. v. M.N.R. (1994), 178 N.R. 361, and M.N.R. v. Jencan Ltd., [1998] 1 F.C. 187. Those cases recognized an element of ministerial discretion in the Minister’s determination.
+[6] According to the three cases just cited, an appeal to this Court from the Minister’s determination under paragraph 5(3)(b) involved a two-stage process. If this Court should decide that the Minister properly exercised his discretion, there would be no further inquiry, and the appeal would be dismissed. If, however, this Court should decide that the Minister did not properly exercise his discretion, then the hearing would become a trial de novo to decide whether the particular contract of employment would have been entered into if the employer and employee had been at arm’s length. Frequently, the evidence which permitted this Court to conclude that the Minister did not properly exercise his discretion was the same evidence which justified reversing the Minister’s determination and allowing an appeal.
+[7] In two subsequent cases, the Federal Court of Appeal seems to have modified its position on paragraph 5(3)(b). In Légaré v. M.N.R., 1999 CanLII 8105, Marceau J. speaking for the Court stated in paragraph 4:
+4 The Act requires the Minister to make a determination based on his own conviction drawn from a review of the file. The wording used introduces a form of subjective element, and while this has been called a discretionary power of the Minister, this characterization should not obscure the fact that the exercise of this power must clearly be completely and exclusively based on an objective appreciation of known or inferred facts. And the Minister’s determination is subject to review. In fact, the Act confers the power of review on the Tax Court of Canada on the basis of what is discovered in an inquiry carried out in the presence of all interested parties. The Court is not mandated to make the same kind of determination as the Minister and thus cannot purely and simply substitute its assessment for that of the Minister: that falls under the Minister’s so-called discretionary power. However, the Court must verify whether the facts inferred or relied on by the Minister are real and were correctly assessed having regard to the context in which they occurred, and after doing so, it must decide whether the conclusion with which the Minister was "satisfied" still seems reasonable. (emphasis added)
+And further in paragraph 12:
+12 … Under the Unemployment Insurance Act, excepted employment between related persons is clearly based on the idea that it is difficult to rely on the statements of interested parties and that the possibility that jobs may be invented or established with unreal conditions of employment is too great between people who can so easily act together. And the purpose of the 1990 exception was simply to reduce the impact of the presumption of fact by permitting an exception from the penalty (which is only just) in cases in which the fear of abuse is no longer justified. … It is the essential elements of the employment contract that must be examined to confirm that the fact the contracting parties were not dealing with each other at arm’s length did not have undue influence on the determination of the terms and conditions of employment. …
+[8] In Pérusse v. M.N.R., 2000 CanLII 15136, Marceau J. was again one of the three judges hearing the appeal. In paragraph 13 of his reasons, he described how the trial judge had viewed the issue before him as to whether the Minister had exercised properly the discretion conferred on him by the Act. Marceau J. in paragraph 14 of his reasons stated:
+14 In fact, the judge was acting in the manner apparently prescribed by several previous decisions. However, in a recent judgment this Court undertook to reject that approach, and I take the liberty of citing what I then wrote in this connection in the reasons submitted for the Court …
+At that point, Marceau J. quoted paragraph 4 from his reasons in Légaré which is already set out above. I am encouraged by that statement in paragraph 14 of Pérusse that the Court in Légaré rejected the earlier approach to ministerial discretion in paragraph 5(3)(b). I conclude that there is a new approach to the application of paragraph 5(3)(b) in this Court. My conclusion is reinforced by what Marceau J. said in paragraph 15 of Pérusse:
+15 The function of an appellate judge is thus not simply to consider whether the Minister was right in concluding as he did based on the factual information which Commission inspectors were able to obtain and the interpretation he or his officers may have given to it. The judge's function is to investigate all the facts with the parties and witnesses called to testify under oath for the first time and to consider whether the Minister's conclusion, in this new light, still seems "reasonable" (the word used by Parliament). The Act requires the judge to show some deference towards the Minister's initial assessment and, as I was saying, directs him not simply to substitute his own opinion for that of the Minister when there are no new facts and there is nothing to indicate that the known facts were misunderstood. However, simply referring to the Minister's discretion is misleading. (emphasis added)
+Décary J. concurred with Marceau J. in Pérusse. Desjardins J. dissented on an issue concerning the so-called Charter of Rights and Freedoms.
+[9] My conclusion that there is a new approach to the application of paragraph 5(3)(b) is further reinforced by the decision of my colleague Bowie J. in Birkland v. M.N.R., [2005] T.C.J. No. 195. See paragraph 4 of the reasons in Birkland. As I understand the new approach, the trial judge is required to decide, by the evidence, whether the Minister’s conclusion would be reasonable if the Minister had had the benefit of all the evidence which came before the Court.
+[10] Guided by the decisions in Légaré and Pérusse, I will review the evidence presented in these appeals. Cindy claims that she was employed by ECA from July 11 to December 31, 2005 and from July 3 to December 29, 2006. Both Cindy and ECA admit that they are not at arm’s length. The Respondent admits that Cindy was in fact employed by ECA during the periods in question. Therefore, the only question to be decided is whether Cindy’s employment by ECA in 2005 and 2006 was “excluded employment” as a result of the Minister’s determination under paragraph 5(3)(b) of the Act.
+[11] Eagle Canyon Adventures is a tourist attraction and campground in northwest Ontario located about 70 kms. east of Thunder Bay on the Trans Canada Highway and about six kms. north of that highway. As a seasonal business, it was started by Harvey Hamel, a long-time resident of northern Ontario. Mr. Hamel was born in 1939. By 1980, he was in the logging business. In 1985, he incorporated his logging business and retained Terrence Jewett, a public accountant, to organize his financial records and bookkeeping. Mr. Hamel has been a client of Mr. Jewett’s accounting practice for 25 years.
+[12] Around 1980, Mr. Hamel purchased as a wood lot the land on which Eagle Canyon Adventurers is now located. He harvested the logs off that land but continued to own the land because he recognized it as a spectacular canyon site. Mr. Hamel continued his logging business until 2000 when he sold it because the cost of wood lots was too high. Also, he wanted to devote his time to the development of a tourist attraction at Eagle Canyon. In 2001, he built a suspension footbridge (300 feet long) across the canyon and, in 2004, he built a second suspension footbridge (600 feet long) across a wider part of the canyon. The longer bridge is 155 vertical feet above the lake below, and is the longest suspension footbridge in Canada.
+[13] Eagle Canyon Adventures Inc. (“ECA”) was incorporated on October 24, 2002 and the tourist attraction opened for business in 2003. ECA operates a convenience store on the site; maintains over five kms. of gravel wilderness trails; and has 30 fully serviced R.V. sites. It also has tent sites and a full restroom with hot showers and laundry facilities. Exhibit A-11 is a brochure with colour photographs describing the ECA operation. It is apparent from the brochure that the two suspension footbridges are a feature of the tourist attraction. The brochure describes the resort as “open year-round 9 a.m. – 9 p.m. daily” but it is not open in winter except for some ice climbing.
+[14] Mr. Hamel testified at length when these appeals were heard. He stated that, in any particular year, the dates when the ECA resort would open and close for business are determined mainly by the weather. In favourable conditions, the resort could be open from mid-March to mid-November. When these appeals were heard at Thunder Bay on May 1, 2008, the resort had yet opened for 2008 because of the long winter and late arrival of spring. Mr. Hamel described one year when several warm days in March permitted the resort to open by March 15th. The two busiest months for the ECA business are July and August when families can travel together.
+[15] When the ECA business opened for the first year in 2003, Mr. Hamel did not have any employed bookkeeper but prepared the payroll himself and maintained his own financial records. His most important employee was his son, Jimmy Hamel. Actually, Jimmy Hamel is a nephew of Harvey Hamel, the founder of ECA. Harvey has never married but he adopted his nephew Jimmy when Jimmy was a teenager. Since that time, Harvey and Jimmy have had a real father/son relationship.
+[16] In 2001 and 2002, Jimmy worked (without pay) for Harvey preparing the campgrounds for the opening of the ECA business. In order to complete the project, Harvey borrowed $160,000 in 2002 from the Business Development Bank. Also, Jimmy inherited $40,000 from his grandfather in 2002 which he loaned to Harvey to help with the ECA project. Because Jimmy worked without pay in 2001 and 2002, Harvey figures that he owes Jimmy $50,000 ($25,000 for each year) in back wages. Harvey stated that, in his mind, the ECA business owes Jimmy $90,000 representing Jimmy’s loan of $40,000.00 plus his unpaid wages of $50,000.
+[17] When ECA was incorporated in 2002, the shares were allocated 85% to Harvey and 15% to Jimmy who was then 28 years of age. Jimmy had worked for Harvey in his logging business before 2000. Harvey and Jimmy are the only directors of ECA and each has signing authority at the bank. In the general distribution of labour, Harvey does the outside yard work while Jimmy works at reception greeting customers and describing the facilities. There is, however, no fixed allocation of labour. Harvey does the payroll and pays most of the bills while Jimmy will work inside or outside depending upon where he is needed.
+[18] In 2001, Harvey and Jimmy went to Smooth Rock Falls, Ontario, to visit Harvey’s brother. While they were at Smooth Rock Falls, Jimmy met Cindy Miller. They dated and fell in love. Jimmy and Cindy started living together in August 2001. They have a son who was born in December 2002. Because Harvey and Jimmy were moving to Dorion (a small town close to Eagle Canyon) in the fall of 2001, Jimmy wanted Cindy to move there to be with him. Harvey was uneasy with what was then a new relationship between Jimmy and Cindy, and so he (Harvey) insisted that they enter into a domestic contract before Cindy moved into the house at Dorion.
+[19] Exhibit A-3 is a domestic contract between Jimmy Hamel and Cindy Miller dated November 16, 2001 but signed on December 18, 2001. Jimmy and Cindy later married on August 24, 2005. Exhibit A-4 is a photocopy of the marriage certificate. Harvey stated that he has always had a good father/son relationship with Jimmy – better than some “natural” fathers – but his relationship with Cindy was a little cool at first because he had insisted on the domestic contract.
+[20] At the end of this paragraph, there is a table showing the revenues, expenses and profit/(loss) of ECA in its first five years of operations from 2003 to 2007. In 2003, ECA showed a loss of $49,000 on revenues of $89,000. In 2004, ECA showed a similar loss of $47,000 on revenues of $195,000. When the business started, Harvey kept all the financial records: he made up the payroll; he recorded all the revenues and paid all the expenses. He would issue cheques based on invoices and bills collected in a box. When revenues and expenses doubled in the second year of operations, it was no longer practical for Harvey to do or supervise the outside work and also do the bookkeeping.
+Eagle Canyon Adventures Inc.
+2003
+2004
+2005
+2006
+2007
+Revenue
+89,874
+195,164
+235,677
+265,607
+292,151
+Expenses
+139,710
+242,612
+216,795
+227,641
+238,959
+Profit/(Loss)
+before depreciation
+(49,836)
+(47,448)
+18,882
+37,966
+53,192
+[21] After the first year, Mr. Jewett advised Harvey that issuing cheques based on a bunch of documents in a box was not an adequate way to record the expenses of a business grossing more than $100,000 per year. The business needed a person with bookkeeping experience. Cindy Hamel had that kind of experience. Exhibit A-5 is her resume as of 2001, and Exhibit A-6 is her resume as of 2006. In 1992, she graduated from Kapuskasing High School with an Ontario Secondary School Diploma including Grade 13 credits in accounting, calculus and finite mathematics. In 1995, she graduated from Northern College of Applied Arts and Technology (Timmins, Ontario) having earned a three-year bilingual diploma with honours in Business Administration and Accounting.
+[22] From May 1995 to June 2000, Cindy was employed by a corporation in Timmins doing accounts payable, accounts receivable, collections, banking, computer bookkeeping and month end reports. This was hands on, in-house accounting and bookkeeping experience. From April to August 2001, she worked for the Ontario Correction Services earning $18.36 per hour for the last three months. After she moved to Dorion in December 2001 to live with Jimmy, she obtained employment at Thunder Bay from April to November 2002 working as a general office assistant at the rate of $20.81 per hour. Her first child was born in December 2002.
+[23] After Cindy’s son was one year old, she dropped off her resumes at some offices in Thunder Bay in 2003 where she might have found employment. She left one of her resumes at the office of Mr. Jewett whom she had met as Harvey’s accountant. When ECA started its second season in the spring of 2004, Mr. Jewett recommended that Harvey hire Cindy as a bookkeeper because there was so much catching up to do with the scattered financial records from 2003. Harvey accepted Mr. Jewett’s recommendation and hired Cindy as an employee of ECA in March 2004.
+[24] When Cindy started to work for ECA, Mr. Jewett advised Harvey to pay her $18.00 per hour plus 75¢ for vacation pay. That is how her rate was set at $18.75 per hour. Mr. Jewett testified at the hearing of these appeals and stated that Cindy’s bookkeeping skills were valuable to the ECA business. Other persons with her skills are scarce in the location and vicinity of the ECA business. He further stated that if Cindy were to leave the employment of ECA, he would recommend that Harvey find and hire some other person with Cindy’s bookkeeping skills.
+[25] Mr. Jewett worked with Cindy in the spring of 2004 to establish a basic set of financial books and records for the ECA business. Her first challenge was to put together adequate documents from 2003 so that financial statements and tax returns could be filed in 2004. That is why she started in March 2004 even though the seasonal business for 2004 had not yet commenced. Mr. Jewett came to the ECA office and worked with Cindy to set up the computer system for coding and recording all business transactions. After the new system was set up and running, Cindy would meet Harvey many times each day.
+[26] The busiest time in ECA’s seasonal business is the school holiday (July and August) when families can travel together. In 2004, Cindy was employed only from March 1 to mid-September because she was needed to set up the new accounting system; record all of the 2003 transactions in the new system; prepare the 2003 income tax returns for Harvey and Jimmy; and do the bookkeeping for the two busiest months in 2004. Also, the ECA business could not afford her services for a full year. She was paid every second week.
+[27] In 2005 and 2006, Cindy was employed from early July to the end of December. She explained that the ECA business was not heavy prior to July 1st; and she could easily in July and August record all transactions prior to July 1st as well as all transactions during those two busy months. She was closely cross‑examined as to why she would work to the end of December when the ECA business season usually ended on October 31. Specifically, it was suggested that she was building up hours of “insurable employment” so that she could claim maximum EI benefits when she was laid off.
+[28] Cindy described her services in November and December. She would receive invoices for good and services delivered to ECA in September and October; and arrange for Harvey to pay those invoices. She would prepare monthly statements for September, October, and November and reconcile the ECA books with the monthly banking statements. She would prepare a budget for the following year based on the recorded transactions for the year then ending. She would meet with Harvey to review advertising opportunities for the next year, and deal with suppliers who would seek orders for the next year.
+[29] The Replies to the Notices of Appeal disclose the facts on which the Minister relied. Counsel for the Appellants addressed many of those facts when he examined in-chief his three witnesses: Harvey, Cindy and Mr. Jewett. I found that all three witnesses were credible without any qualification. A number of facts relied on by the Minister were proved to be not true or misleading when the witnesses described surrounding circumstances.
+[30] The Minister assumed that Cindy was hired “to perform office work” and that her duties included:
+· accounting work (deposits, bank reconciliation, remittances)
+· ordering supplies, pricing merchandise
+· correspondence
+· scheduling staff
+When testifying, Cindy explained that she was not hired as an office clerk or secretary to do correspondence and take deposits to the bank. She was hired because of her experience and skills at accounting and bookkeeping. Her primary duties required the skills of a trained bookkeeper. Her evidence on this point was corroborated by Harvey, Mr. Jewett and her own resumes (Exhibits A-5 and A‑6). She was emphatic that she did not do any scheduling of staff.
+[31] The Minister relied on the fact that Cindy’s “period of employment did not coincide with” ECA’s busy period. Both Harvey and Cindy stated that this was not true. Although Harvey and Jimmy tried to get the ECA business going as soon as weather permitted in the spring, the really busy period did not commence until the first week of July. When Cindy started her employment in early July (July 11, 2005 and July 3, 2006), the busy period was just commencing and she could easily pick up and record all of the relevant transactions from the active business period prior to July 1st.
+[32] The Minister also relied on the fact that when Cindy came on the ECA payroll, “her husband (Jimmy) stopped receiving any earnings, even if he were still working” for ECA. This is not true. Jimmy as shareholder and part owner of the business was not paid on a regular basis but was paid as cash became available. There was no intended link between Cindy’s regular salary cheques every two weeks and Jimmy’s irregular pay which depended upon ECA’s available cash.
+[33] I come back to the four tests set out in paragraph 5(3)(b) of the Act. First, the remuneration paid to Cindy ($18.75 per hour) was recommended by Mr. Jewett and accepted by Harvey. It was consistent with what Cindy had earned in 2001 and 2002 from two arm’s length employers. See Exhibits A-5 and A-6. There was no evidence that it was artificially high in relation to any other employee or with respect to Cindy’s skills. In fact, Mr. Jewett stated that a person with her bookkeeping skills was scarce in the vicinity of the ECA business.
+[34] Second, the terms and conditions of Cindy’s employment were set by Harvey and Cindy consistent with the needs of the ECA business. Although she had started working for ECA in March 2004, that was because there was so much catching up to do from 2003 (the first year of ECA’s business). In 2005 and 2006, she was able to start in early July because the bookkeeping system was in place and she could easily pick up and record all relevant transitions from the beginning of the season. It was a relatively light period.
+[35] Third, the duration of the work performed and, fourth, the nature and importance of the work are the last two tests in paragraph 5(3)(b). There is no doubt that, by 2005 and 2006, the ECA business required a person with Cindy’s skills. The independent evidence of Mr. Jewett confirmed that fact. Also, the summary of financial results (Exhibit A-10) proved that from the revenue in 2003 ($89,000), the revenues in 2005 and 2006 were up by more than 150%. See the table in paragraph 20 above. A business that size cannot be effectively run by collecting invoices in a box and recording expenses by the cheques issued. The ECA seasonal business could not afford a fulltime bookkeeper and probably did not need one. The duration of Cindy’s work (July to December) was the maximum time ECA needed to accurately record the financial results of operating in any particular season.
+[36] As stated above in these reasons, I was favourably impressed with the unqualified credibility of the three witnesses: Harvey Hamel, Cindy Hamel and Terrence Jewett. I accept their collective testimony. In my opinion, if the Minister had had the benefit of the evidence which came before me, he could not reasonably have reached the conclusion that he did reach. On the evidence, I find that it is reasonable to conclude that Cindy Hamel and ECA would have entered into a substantially similar contract of employment if they had been dealing with each other at arm’s length. All four of the appeals are allowed.
+Signed at Ottawa, Canada, this 6th day of October, 2008.
+“M.A. Mogan”
+Mogan J.
+CITATION: 2008 TCC 563
+COURT FILE NOS.: 2006-2688(EI) and 2007‑2939(EI) and
+2006-2689(EI) and 2007-3712(EI)
+STYLE OF CAUSE: EAGLE CANYON ADVENTURES and CINDY HAMEL and THE
+MINISTER OF NATIONAL REVENUE
+PLACE OF HEARING: Thunder Bay, Ontario
+DATE OF HEARING: May 1, 2008
+REASONS FOR JUDGMENT BY: The Honourable Justice M.A. Mogan
+DATE OF JUDGMENT: October 6, 2008
+APPEARANCES:
+Counsel for the Appellants:
+John G. Illingworth
+Counsel for the Respondent:
+Melissa Danish
+COUNSEL OF RECORD:
+For the Appellants:
+Name: John G. Illingworth
+Firm: Illingworth & Illingworth
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

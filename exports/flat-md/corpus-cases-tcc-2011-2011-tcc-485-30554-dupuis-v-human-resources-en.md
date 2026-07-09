@@ -1,0 +1,254 @@
+---
+title: "Dupuis v. Human Resources"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30554/index.do"
+last_modified: "2011-10-18"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2011 TCC 485"
+citation2: ""
+neutral_citation: "2011 TCC 485"
+decision_date: "2011-10-18"
+language: "en"
+item_id: "30554"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7295
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T07:13:18.793000+00:00"
+cases_cited_count: 2
+cases_citing_count: 3
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "80bd086fbf29bc80fa8caf45358575a664ad7e8ce049b88250428e7d556230e5"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Dupuis v. Human Resources
+
+- Citation: 2011 TCC 485
+- Decision date: 2011-10-18
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7295, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Dupuis v. Human Resources
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2011-10-18
+Neutral citation
+2011 TCC 485
+File numbers
+2010-1844(OAS)
+Judges and Taxing Officers
+Alain Tardif
+Subjects
+Old Age Security Act
+Decision Content
+Docket: 2010-1844(OAS)
+BETWEEN:
+RAYMOND DUPUIS,
+Appellant,
+and
+MINISTER OF HUMAN RESOURCES
+AND SKILLS DEVELOPMENT,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on August 15, 2011, at Montreal, Québec
+Before: The Honourable Justice Alain Tardif
+Appearances:
+Agent for the Appellant:
+Sylvie Dupuis
+Counsel for the Respondent:
+Grégoire Cadieux
+____________________________________________________________________
+JUDGMENT
+Whereas the Court granted the Appellant 30 days to submit further documents, which the Appellant did;
+And whereas the Court has reviewed these documents;
+The appeal from the decision of the Minister of Human Resources and Skills Development concerning the determination of income for the Income Supplement under subsection 28(2) of the Old Age Security Act, R.S.C., 1985, c. O-9, is dismissed, and the decision is confirmed, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 18th day of October 2011.
+“Alain Tardif”
+Tardif J.
+Translation certified true
+on this 30th day of November 2011.
+Johanna Kratz, Translator
+Citation: 2011 TCC 485
+Date: 20111018
+Docket: 2010-1844(OAS)
+BETWEEN:
+RAYMOND DUPUIS,
+Appellant,
+and
+MINISTER OF HUMAN RESOURCES
+AND SKILLS DEVELOPMENT,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Tardif J.
+[1] Mr. Dupuis, the Appellant, is appealing from a decision of the Minister of Human Resources and Skills Development (the “Minister”) concerning the determination of the monthly Guaranteed Income Supplement (the “Supplement”) under the Old Age Security Act (“OASA”).[1]
+[2] Mr. Dupuis did not attend the hearing, but he was represented by his daughter Sylvie Dupuis. Team leader in a department of Revenu Québec, Ms. Dupuis was remarkably well prepared, and the quality of her submissions is noteworthy. Indeed, her expertise allowed her to obtain several observations from the various stakeholders.
+[3] One of the difficulties of the case is that it concerns more than one statute; the decision under appeal must essentially be assessed on the basis of the relevant statute.
+[4] The Supplement is calculated from the person’s income, as defined at section 2 of the OASA, that is, by taking into consideration the person’s income according to the Income Tax Act (“ITA”) after the application of certain deductions described at section 2 of the OASA.
+[5] The appellant is challenging the inclusion of a monthly indemnity for permanent physical disability he receives from the Commission de la Santé et de la Sécurité du travail du Québec (“CSST”) in his income under section 2 of the OASA.
+History of the amount and the evolution of work accident legislation
+[6] The appellant had a work accident in 1976.[2] He was compensated and returned to work after a short while.
+[7] Following his return to work, it became clear that the work accident had injured him permanently, having led to a permanent partial disability.
+[8] In 1979, following a medical assessment, the Appellant became the recipient of a monthly payment under section 38 the Workers’ Compensation Act,[3] which reads as follows:
+38. (2) In the case of permanent partial disability, the worker is entitled, for life, to a payment provided for in subsection 1 according to the degree of his or her disability.[4]
+[9] It must be noted that the monthly payment was established before the coming into force of the Act respecting industrial accidents and occupational diseases (“AIAOD”),[5] which replaced the WCA[6] in 1985, and sections 83 to 91 of which enable workers having sustained a permanent bodily injury to claim a lump sum from the CSST.
+[10] When the AIAOD came into force, the CSST gave the Appellant the option of continuing to receive a monthly amount or receiving a lump sum in settlement of the remaining amount.
+[11] After having weighed the two options, the Appellant decided to continue receiving the monthly payments, as this seemed more advantageous to him.[7]
+[12] Since 2007, the Canada Revenue Agency (the “CRA”) has required a T5007 statement for the monthly payments received by the Appellant to make it easier to include this amount in the Appellant’s income, as confirmed in an email dated 2007‑05‑07 from Daniel Beaudoin of the CRA to Jacques Pelletier of the CSST, filed in evidence by the Appellant on September 14, 2011.
+Issues
+[13] The issues are as follows:
+a. Is the payment for bodily injury received monthly by the Appellant from the CSST part of the Appellant’s income under the ITA?
+b. In the event of an affirmative answer to the first question, does the OASA provide for a deduction that would make it possible to subtract that payment from his income for the purpose of calculating the Supplement?
+Analysis of the legislation
+Definition of income under the Old Age Security Act
+[14] The amount of the Supplement under the OASA is calculated according to the pensioner’s monthly income:
+12. (1) The amount of the supplement that may be paid to a pensioner for any month in the payment quarter commencing on April 1, 2005 is . . . minus one dollar for each full two dollars of the pensioner’s monthly base income.[8]
+[15] For the purposes of the OASA, the word “income” is defined at section 2 of the Act as being the pensioner’s income under the ITA, after some adjustments enumerated at paragraphs (a) to (e) have been made:
+“income” of a person for a calendar year means the person’s income for the year, computed in accordance with the Income Tax Act, except that
+(a) there shall be deducted from the person’s income from office or employment for the year
+(i) a single amount in respect of all offices and employments of that person equal to
+(A) for the purpose of determining benefits payable in respect of any month before July 2008, the lesser of $500 and one fifth of the person’s income from office or employment for the year, or
+(B) for the purpose of determining benefits payable in respect of any month after June 2008, the lesser of $3,500 and the person’s income from office or employment for the year,
+(ii) the amount of employee’s premiums paid by the person during the year under the Employment Insurance Act, and
+(iii) the amount of employee’s contributions made by the person during the year under the Canada Pension Plan or a provincial pension plan as defined in section 3 of that Act,
+(b) there shall be deducted from the person’s self-employment earnings for the year
+(i) the amount of contributions made in respect of those self-employed earnings by the person during the year under the Canada Pension Plan or a provincial pension plan as defined in section 3 of that Act, and
+(ii) the amount of premium paid by the person during the year under Part VII.1 of the Employment Insurance Act,
+(c) there shall be deducted from the person’s income for the year, to the extent that those amounts have been included in computing that income,
+(i) the amount of any benefit under this Act and any similar payment under a law of a provincial legislature,
+(ii) the amount of any death benefit under the Canada Pension Plan or a provincial pension plan as defined in section 3 of that Act, and
+(iii) the amount of any social assistance payment made on the basis of a means, a needs or an income test by a registered charity as defined in subsection 248(1) of the Income Tax Act or under a program provided for by an Act of Parliament or a provincial legislature that is neither a program prescribed under the Income Tax Act nor a program under which the amounts referred to in subparagraph (i) are paid,
+(d) there shall be deducted from the person’s income for the year three times the amount, if any, by which
+(i) the total of any amounts that may be deducted under section 121 of the Income Tax Act in computing the person’s tax payable for the year
+exceeds
+(ii) the person’s “tax for the year otherwise payable under this Part” (within the meaning assigned by subsection 126(7) of the Income Tax Act for the purposes of paragraph 126(1)(b) of that Act) for the year, and;
+(e) there shall be deducted from the person’s income for the year any amount included under paragraph 56(1)(q.1) or subsection 56(6) of the Income Tax Act and there shall be included in the person’s income for the year any amount that may be deducted under paragraph 60(y) or (z) of that Act.
+[16] The OASA does not refer to paragraph 56(1)(v) of the ITA, the legal basis for including the permanent partial disability payment the Appellant receives from the CSST. Given that Parliament did not provide for a deduction under the OASA, the ITA’s treatment of the payment determines whether or not it is included in the income to be considered in the calculation of the OASA Supplement.
+Income under the Income Tax Act
+Income versus taxable income
+[17] The ITA does not define the word “income”, but includes provisions specifying the amounts to be included or excluded for the purpose of calculating a taxpayer’s income and taxable income.[9]
+[18] The ITA calculates the annual amount of tax payable by a taxpayer in three steps:
+A. by listing the amounts to be included in the computation of the taxpayer’s income in Division B of Part I of the ITA (practitioners also refer to this as net income or income for tax purposes, in contrast to accounting income);
+B. by permitting the income deductions provided at Division C of Part I of the ITA to compute the taxpayer’s taxable income from his or her income; and
+C. in Division E of Part I, by providing the tax rates applicable to the amounts that constitute taxable income.
+[19] The amount at issue in this appeal, the amount to which section 2 of the OASA is referring, is the taxpayer’s income computed under Division B of Part I of the ITA (Step A, above). That is, the amount of income after income from all sources has been added, but before the deductions to compute the taxable income have been included.
+[20] The late Professor Pierre Dussault, later a judge of this Court, had the following to say about income in his treatise L’impôt sur le revenu au Canada [Income Tax in Canada]:
+[translation]
+Division B of Part I of the Income Tax Act, which is devoted to how to compute income, does not contain a definition of this term. At the most, the Act indicates here that income is determined by determining, among other things, the total of all amounts each of which is the taxpayer’s income from each office, employment, business and property. The Act therefore leaves open the question of criteria for determining income.[10]
+Computing income
+[21] The general provision for computing a taxpayer’s income is section 3 of the ITA, of which paragraph (a) reads as follows:
+3. The income of a taxpayer for a taxation year for the purposes of this Part is the taxpayer’s income for the year determined by the following rules:
+(a) determine the total of all amounts each of which is the taxpayer’s income for the year (other than a taxable capital gain from the disposition of a property) from a source inside or outside Canada, including, without restricting the generality of the foregoing, the taxpayer’s income for the year from each office, employment, business and property,
+[22] This list of amounts, which has a very broad scope, has been narrowly construed by the courts. I quote again from the book L’impôt sur le revenu au Canada:
+[translation]
+. . . at paragraph 3(a) of the ITA the general provision (also referred to as an omnibus clause) according to which income includes income from all sources. The Canadian courts, imitating the courts of other jurisdictions, have traditionally given this provision a very narrow scope, preferring to adopt a restrictive interpretation of the concept of income.[11]
+[23] In the current appeal, the Court does not have to interpret whether the permanent partial disability amount the Appellant receives from the CSST is covered by the generality of paragraph 3(a) of the ITA; as the Respondent has pointed out, the ITA includes a specific provision at paragraph 56(1)(v) that deals with “compensation received under an employees’ or workers’ compensation law of . . . a province”, such as the WCA or the AIAOD, “in respect of an injury, a disability or death”.[12]
+[24] Paragraph 56(1)(v) of the ITA provides that compensation received under legislation such as the AIAOD and, previously, the WCA must be included in the computation of income:
+56. (1) Without restricting the generality of section 3, there shall be included in computing the income of a taxpayer for a taxation year,
+(v) compensation received under an employees’ or workers’ compensation law of Canada or a province in respect of an injury, a disability or death;
+[25] For the purpose of computing a taxpayer’s taxable income, the amounts included under paragraph 56(1)(v) are deducted by operation of subparagraph 110(1)(f)(ii), which reads as follows:
+110. (1) For the purpose of computing the taxable income of a taxpayer for a taxation year, there may be deducted such of the following amounts as are applicable:
+(f) any social assistance payment made on the basis of a means, needs or income test and included because of clause 56(1)(a)(i)(A) or paragraph 56(1)(u) in computing the taxpayer’s income for the year or any amount that is
+. . .
+(ii) compensation received under an employees’ or workers’ compensation law of Canada or a province in respect of an injury, disability or death, except any such compensation received by a person as the employer or former employer of the person in respect of whose injury, disability or death the compensation was paid,
+[26] The combined effect of paragraph 56(1)(v) of Division B of Part I and subparagraph 110(1)(f)(ii) of Division C of Part I of the ITA means that “compensation received under an employees’ or workers’ compensation law of . . . a province in respect of an injury, a disability or death” is not included in the computation of taxable income, but is included when computing income (or net income).
+[27] As mentioned at paragraph 18, Parliament chose the amount of income under Division B of Part I, that is, the income before deductions, as the base amount for calculating income under section 2 of the OASA.
+Income and permanent partial disability amount
+[28] In a similar case, Justice Lamarre Proulx explained the legislation as follows:
+13 Paragraph 56(1)(v) of the Income Tax Act reads as follows:
+(1) Without restricting the generality of section 3, there shall be included in computing the income of a taxpayer for a taxation year,
+. . .
+(v) compensation received under an employees’ or workers’ compensation law of Canada or a province in respect of an injury, a disability or death;
+14 It should be noted that in computing the taxable income, the same amounts are deducted under subparagraph 110(1)(f)(ii) of the Income Tax Act.
+15 However, the Old Age Security Act refers to income and not to taxable income. The amounts received by the appellant from the CSST and the WSIB must be included in computing his income for the purposes of his income tax return for the base year.
+16 It is not whether or not the T5007 form is received which determines the amount of a person’s income for a calendar year, but the provisions of the Income Tax Act to which the Act refers.
+[29] The Appellant maintains that the nature of the amount he receives is not an income but compensation for a permanent disability. However, within the meaning of the ITA, an amount is being paid—an indemnity, under the WCA—a workers’ compensation law of the province of Quebec: the criteria of paragraph 56(1)(v) are therefore all met.
+[30] In the treatise referred to earlier, Professor Dussault wrote the following about the scope of section 56:
+[translation]
+The 1972 reform resulted in a substantial expansion of the tax base . . . One example in that regard is section 56 of the ITA, which provides for income to include certain amounts that are not income in the literal sense of the term, such as private and public transfer payments for example.[13]
+The word “compensation”
+[31] The Appellant raises the argument that the word “compensation” does not include the payment he receives.
+[32] According to the principles of statutory interpretation, “the words of an Act are to be read in their entire context and in their grammatical and ordinary sense harmoniously with the scheme of the Act, the object of the Act, and the intention of Parliament”.[14]
+[33] The ITA establishes a taxpayer’s income as well as his or her taxable income and tax payable. The inclusions at paragraph 56(1)(v) do not have any tax consequences for taxpayers, as the amounts in question are excluded under subparagraph 110(1)(f)(ii). The amounts contemplated at paragraph 56(1)(v) therefore only come into play in the allocation of social benefits calculated on the basis of an individual’s income, such as the Supplement under the OASA.
+Lump-sum versus monthly payment
+[34] The appellant raises the argument that the ITA treats his monthly payment differently from the lump sums payable under the AIAOD, even though the two amounts are of the same nature. The respondent, on the other hand, argues that paragraph 56(1)(v) applies to both amounts, regardless of how they are paid.
+[35] It is beyond the scope of this appeal to judge the nature of the lump-sum payments. However, the wording of paragraph 56(1)(v) is broad enough to include both lump sums and monthly payments.
+[36] That said, paragraph 56(1)(v) has been in its current form since 1994, and the CRA has been asking the CSST to provide a T5007 only since 2007. This raises the suspicion that Parliament intended this provision to have a more limited scope.
+[37] Similarly, the fact that the CSST provides statement T5007 for monthly payments but not for lump sum payments leads to confusion. An example of this confusion has occurred in this appeal, where the administrator at the reconsideration level explained the decision by whether or not there was a T5007 statement.[15]
+Exclusion under paragraph 81(1)(q) does not apply in this case
+[38] The Appellant refers to paragraph 81(1)(q) of the ITA, which specifies the amounts that should not be included in the taxpayer’s income (net income). This provision excludes “an amount paid to an individual as an indemnity under a prescribed provision of the law of a province”.
+[39] Unfortunately, the amount described at paragraph 81(1)(q) must be prescribed by law, and section 6501 of the Income Tax Regulations, C.R.C., c. 945, which applies in this area, does not mention CSST indemnities.
+Clarifications regarding the jurisdiction of the Tax Court of Canada
+[40] The facts that have led Mr. Dupuis before this Court make me very sympathetic to his appeal. The Appellant expressed his frustration in his letter to request a reconsideration before appealing to this Court, as follows:
+[translation]
+Since 2007, the supplement I receive from the CSST has been calculated as income. I have been receiving this indemnity for at least 30 years, and it increases every year according to the consumer price index.
+I find this way of calculating to be unfair: it is as if part of this indemnity, which, I was told, could not be touched, is being taken away from me.
+This is not a wage replacement indemnity for an indeterminate period. In that case, I would understand the amount being counted as income.
+For me, this indemnity is a gift from the CSST to offer people moral support in accepting a permanent disability following an accident. Someone taking away part of that gift is illogical.[16]
+[41] However, the Court’s duty is to consider only the law; its judgments or assessments cannot in any manner be founded on needs-, sympathy- or necessity-based arguments. The Court’s decision must consider only the provisions that apply.[17] Justice Rothstein described this aspect of the Court’s jurisdiction as follows:
+[4] The applicant says that the law is unfair and he asks the Court to make an exception for him. However the Court does not have that power. The Court must take the statute as it finds it. It is not open to the Court to make exceptions to statutory provisions on the grounds of fairness or equity. If the applicant considers the law unfair, his remedy is with Parliament, not with the Court.[18]
+[42] The only remedy for the Appellant’s situation would be a parliamentary amendment to the OASA, adding a deduction to the definition of income at section 2 of the ITA, as is already the case for the other amounts described at paragraphs (a) to (e) of the definition of income at section 2 of the OASA.
+[43] This Court cannot usurp the role of Parliament on the pretext of an injustice or unfairness. The Court’s only jurisdiction in this matter is essentially to determine whether the decision under appeal was made in accordance with the Act. It if was, the decision must be confirmed given that it complies with the relevant statutory provisions.
+[44] I must therefore dismiss the appeal since the decision under appeal is indeed entirely well founded in law.
+Signed at Ottawa, Canada, this 18th day of October 2011.
+“Alain Tardif”
+Tardif J.
+Translation certified true
+on this 30th day of November 2011.
+Johanna Kratz, Translator
+CITATION: 2011 TCC 485
+COURT FILE NO.: 2010-1844(OAS)
+STYLE OF CAUSE: RAYMOND DUPUIS v. M.H.R.S.D.C.
+PLACE OF HEARING: Montréal, Quebec
+DATE OF HEARING: August 15, 2011
+REASONS FOR JUDGEMENT BY: The Honourable Justice Alain Tardif
+DATE OF JUDGMENT: October 18, 2011
+APPEARANCES:
+Agent for the Appellant:
+Sylvie Dupuis
+Counsel for the Respondent:
+Grégoire Cadieux
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Old Age Security Act, R.S.C., 1985, c. O-9, at section 11.
+[2] Hearing transcript, at page 28.
+[3] Workers’ Compensation Act, R.S.Q., c. A-3.
+[4] Ibid, at subsection 38(2).
+[5] An Act respecting industrial accidents and occupational diseases, R.S.Q., c. A-3.001.
+[6] Supra, footnote 3.
+[7] Hearing transcript, at page 37, lines 16 to 17.
+[8] OASA, supra, footnote 1, at subsection 12(1).
+[9] Pierre Dussault, Normand Ratti & Guy Laperrière, L’impôt sur le revenu au Canada [Income Tax in Canada], 3rd ed (Sherbrooke: Les éditions Revue de Droit de l’Université de Sherbrooke, 2005) at page 4-1: “L’assiette fiscale : le concept du revenu” [The tax base: the concept of income].
+[10] Ibid, at 4.1 (pages 4-1 to 4-2).
+[11] Ibid, at 4.1 (pages 4-1 to 4-2).
+[12] Income Tax Act, R.S.C., 1985, c. 1 (5th Supp.), at paragraph 56(1)(v).
+[13] L’impôt sur le revenu au Canada, supra, footnote 9, at 4.1 (pages 4-1 to 4-2).
+[14] Elmer A. Driedger, Construction of Statutes, 1st ed (Toronto: Butterworths, 1983) at page 87.
+[15] “Explication de la décision de RHDCC en appel au tribunal de revision” [Explanation of HRSDC’s decision under appeal before the Review Tribunal], SIN 277-997-131, prepared by Mélissa Chénard, Service Delivery Agent, Level 2, 2010-01-21, at page 2, under the heading “Enjeu et dispositions legislatives” ” [Issue and statutory provisions]. Part of the Court record.
+[16] Letter dated August 3, 2009. Part of the appellant’s documents, Court record.
+[17] Hearing transcript, at page 8.
+[18] Chaya v. Canada, 2004 FCA 327, 2004 DTC 6676, at paragraph 4.

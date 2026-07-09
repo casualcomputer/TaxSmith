@@ -1,0 +1,138 @@
+Title: Choi v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29870/index.do
+Corpus path: corpus/cases/tcc/2010/2010-tcc-348-29870-choi-v-the-queen-en.md
+Document type: case_law
+Last modified: 2010-06-22
+
+# Choi v. The Queen
+
+- Citation: 2010 TCC 348
+- Decision date: 2010-06-22
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6427, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Choi v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-06-22
+Neutral citation
+2010 TCC 348
+File numbers
+2009-2964(IT)I
+Judges and Taxing Officers
+Brent Paris
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2009-2964(IT)I
+BETWEEN:
+GYE-SUN CHOI,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on June 10, 2010, at Toronto, Ontario
+By: The Honourable Justice Brent Paris
+Appearances:
+Agent for the Appellant:
+Dave Nighswander
+Counsel for the Respondent:
+Thang Trieu
+____________________________________________________________________
+JUDGMENT
+The appeals from reassessments under the Income Tax Act for the 2003 and 2004 taxation years are dismissed.
+Signed at Ottawa, Canada, this 22nd day of June, 2010.
+“Brent Paris”
+Paris J.
+Citation: 2010 TCC 348
+Date: 20100622
+Docket: 2009-2964(IT)I
+BETWEEN:
+GYE-SUN CHOI,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Paris J.
+[1] The Appellant was the subject of a net worth audit by the Minister of National Revenue (Minister) which led to reassessments for unreported income of $49,849.10 in 2003 and $22,152.49 in 2004. Penalties under subsection 163(2) of the Income Tax Act (the Act) were also imposed in respect of the unreported amounts.
+[2] The Appellant is appealing the reassessments on the basis that she had received substantial loans totalling $47,000 from her sister-in-law in those years and the net worth calculation failed to take into account her liability to repay the loans. She also takes the position that the remaining increase to her net worth in those years as calculated by the Minister was minimal compared to her total assets, and should be disregarded.
+[3] The Appellant carried on a business selling picture framing products and services under the trade names “Framing Factory” and “Master Framers Gallery”. Another trade name, “Good Frames”, also appears in the documents submitted to the Court, but the Appellant said that this name was part of the “Framing Factory” operation. The business was operated out of three rental locations in the Metropolitan Toronto area in 2003 and 2004. The Appellant’s husband, Wang Soo Choi, was employed by her to operate one of the stores and also he handled all of the financial affairs for the business. It also appeared that he took care of the Appellant’s personal finances.
+[4] The Appellant testified that she had no idea how much money the business made in 2003 and 2004 or in any prior years. All she could say was that business was bad and had been bad for many years. She also had no knowledge of the expenses for the business, including her husband’s salary.
+[5] According to the financial statements, the business reported a profit of $1,798 in 2003 and $7,018 in 2004. The Appellant’s husband was paid $6,500 each year.
+[6] The evidence showed that the business was the Appellant’s only source of income in 2003 and 2004, and that the Appellant’s husband’s employment in it was his only source of income in those years as well. For the purposes of the audit, the Appellant estimated her and her husband’s personal expenditures at approximately $57,000 annually. She did not take issue with these figures at the hearing. Included in these expenses were the payments on the mortgage of approximately $350,000 on the family residence which had been purchased for $425,000 in about 2002.
+[7] Given the apparent discrepancy between the Appellant’s reported income and her lifestyle, the Minister decided to perform a net worth audit. The audit disclosed increases in the Appellant’s net worth that could not be attributed to any disclosed source of income, and the Minister assumed that they resulted from unreported business income.
+[8] The Appellant’s representative contended that the Appellant had borrowed $28,000 in 2003 and $18,000 in 2004 from her husband’s sister, In Soo Kim. However, at the hearing, the Appellant testified that she did not borrow money from Kim. She said that her husband had borrowed money from Kim, but she could not give any details of the loans, only that she deposited money he borrowed into her bank account. She stated that her husband repaid the loans when he sold a property on Annette Street in Toronto. This property was purchased in 1992 and sold in 2005. The top two floors of the property had been occupied by Ms. Kim and her family, and the main floor was used for one of the Appellant’s framing stores. Ms. Kim worked in that store fulltime for a number of years before the building was sold.
+[9] The Appellant’s husband testified that although he was on title as the sole owner of the Annette Street property, Ms. Kim in fact had a 50% interest in it. He produced an agreement with Ms. Kim purportedly signed in 1992, stating that Kim had previously contributed $40,000 towards the purchase of another property at 38 Broadleaf Road (a house apparently owned by the Appellant and her husband), and that in recognition of this contribution she would have a 50% interest in the Annette Street property. According to the agreement, she was to occupy the second and third floors, and was to pay $700 per month towards the mortgage, the Appellant’s husband was to pay $1,574 for his share of the mortgage, and any other expenses were to be split between them.
+[10] The Appellant’s husband explained that in 1992, Ms. Kim had refugee status in Canada, and he wished to help her become a landed immigrant. He suggested that they buy the Annette Street property together, but a lawyer told them it would be difficult for her to do so because of her refugee status and that they should record her interest in a separate “side” agreement.
+[11] The Appellant’s husband said that at some point around 2002, it was decided that the property would be sold because the Appellant’s business was so slow. Once the decision to sell was made, he said he began borrowing money from Ms. Kim in the Appellant’s name, on the understanding that Ms. Kim would be repaid when the property sold. He borrowed amounts ranging from up to $2,500, always in cash. He said that Ms. Kim kept a record of the amounts he borrowed, but that she destroyed it when the loan was repaid. He attempted to reconstruct the amounts from deposits to his and the Appellant’s bank accounts in 2003 and 2004 and he prepared a list showing loans of $66,270 during those years.
+[12] In a letter purportedly written by Ms. Kim and provided to the auditor, she sets out the details of her half ownership of the Annette Street property and says:
+When we decided to sell this property, Gye Sun Choi, my sister-in-law, asked to borrow money from me under the condition that she would pay me back after the sale of this property.
+[13] Ms. Kim was not called as a witness at the hearing. The Appellant said that she had not had any contact with her since September 2006. The Appellant’s husband said that he had only contacted her in September 2006 to write the letter to the auditor. He also said that Ms. Kim was afraid to come to Court.
+[14] As proof of repayment of the loans from Ms. Kim, the Appellant’s husband presented a copy of the statement of adjustments for the sale of the Annette Street property which showed that $140,000 of the net proceeds of $200,000 was paid by the lawyer to “Kim purchase”. He said that Ms. Kim and her husband used the money from the Annette Street sale to purchase a condominium, and he produced a letter from a law firm to Mr. and Ms. Kim confirming the receipt of $140,000 towards their purchase.
+[15] The Appellant’s husband referred to a document prepared by the Appellant’s representative, Mr. Nighswander, which gave an accounting for the proceeds from the sale of the property. It indicated that he and Ms. Kim were each entitled to net proceeds of $100,372 after payment of the outstanding mortgage, taxes, real estate commission and legal fees. The document states that Ms. Kim received $140,000 of the sale proceeds, and that she was owed a total of $172,500 made up of the following amounts:
+Proceeds of sale of Annette
+$100,372
+Loans 2003 per Kim
+28,000
+2004 per Kim
+19,000
+Loans 2005 and 2002
+25,182
+[16] In addition to the $140,000 from the sale of the Annette Street property, the Appellant’s husband said that he paid Ms. Kim an additional $25,000 by way of two cheques. One he said was made out to Ms. Kim’s son who needed the money, and the other he said he thought was made out to Ms. Kim’s husband. No copies of the cheques were provided. He said that the final $7,500 of the $172,500 owing to Ms. Kim was held back to cover possible taxes payable.
+Appellant’s position
+[17] The Appellant’s representative submitted that the Appellant had provided sufficient proof of both the loans received from Ms. Kim and the repayment of those loans out of the proceeds from the sale of the Annette Street property. He stated that the Appellant was an unsophisticated taxpayer and while her bookkeeping was less than perfect, there should not be a high standard of recordkeeping required for personal transactions such as the loans in this case.
+[18] The remainder of the increase in the Appellant’s net worth over 2003 and 2004, after deducting the loans of $47,000, would be approximately $25,000, which the Appellant’s representative suggested was small compared to her net worth, and could be considered a “rounding error”.
+[19] He contended that there was nothing to show that the Appellant had knowingly underreported her income, or that she had been grossly negligent in her returns. He said that she had made every effort to file her returns correctly and no penalties were warranted.
+Analysis
+[20] I am not satisfied that the Appellant has met the onus on her to show that she received loans from Ms. Kim during the years under appeal.
+[21] Firstly, she did not call Ms. Kim as a witness to testify as to the existence of the alleged loans. It is a well-recognized rule that:
+[i]n civil cases, an unfavourable inference can be drawn when, in the absence of an explanation, a party …fails to call a witness who would have knowledge of the facts and would be assumed to be willing to assist that party. …Such failure amounts to an implied admission that the evidence of the absent witness would be contrary to the party’s case, or at least would not support it. [1]
+There was nothing to suggest that any reluctance to testify on Ms. Kim’s part could not have been overcome by a subpoena. In light of the failure to call her, I draw the inference that her evidence would not have been favourable to the Appellant.
+[22] I am mindful of the letters that were produced by the Appellant that were apparently signed by Ms. Kim stating that loans were made. However, in the absence of any opportunity for counsel for the Respondent to cross-examine her on the contents of the letters, I attach little weight to them.
+[23] Furthermore, a key statement made by Ms. Kim in one of these letters was contradicted by the testimony of the Appellant. While Ms. Kim stated that the Appellant asked to borrow from her, the Appellant said she never borrowed money from her sister-in-law.
+[24] I do not accept the explanation given by the Appellant’s husband that he borrowed money from Ms. Kim in the Appellant’s name. I think it is highly unlikely that close family members would introduce such a formality into their dealings. The explanation also rings false because the parties stated that the repayment was to come from the sale of the Annette Street property, in which the Appellant did not have an interest.
+[25] I also note that in the first set of representations made on the Appellant’s behalf to Canada Revenue Agency (CRA) by her representative,[2] on June 15, 2006, reference is only made to loans having been received and deposited to the Appellant’s bank account in 2004, despite the fact that the bank deposits in issue at the time had occurred in 2003 as well as 2004. The Appellant signed this letter but she said that her husband prepared it. The Appellant’s husband said that he had no involvement in drafting this letter and that their accountant probably wrote it.
+[26] While the Appellant’s accountant may have written the letter, I think it highly unlikely that the Appellant’s husband had no input into it. It appeared quite clear from the whole of the evidence that he handled all of the family’s financial affairs and that he, rather than the Appellant, would have been providing information of this nature to the accountant.
+[27] The Appellant’s husband’s evidence is problematic in other respects as well. At the appeals stage, he prepared a list of deposits to the Appellant’s personal bank account and to his own account that he said were from funds loaned by his sister. These deposits totalled $66,270 for 2003 and 2004. However, further investigation carried out by the CRA showed that of these deposits, $16,400 was in fact transferred by cheque from the Appellant s business account. The Appellant’s husband attempts to explain that the loans from Ms. Kim in those cases were deposited first to the Appellant’s business account and then transferred to either of the personal accounts, but no records of large cash deposits to the business accounts were provided.
+[28] In addition, proof of deposits to the Appellant’s husband’s accounts (amounting to $33,100) would not be relevant since those funds would not have been taken into account by the auditor in conducting the net worth audit of the Appellant.
+[29] I have serious doubts about the evidence given by the Appellant’s husband that he did not keep a record of money he received from his sister as loans. In light of the substantial amounts supposedly borrowed in many instalments over four years, I find it highly unlikely that he would not keep track of the debt.
+[30] Finally, it is hard to accept, without some corroborating evidence, that Ms. Kim had accumulated cash of more than $50,000 and that she kept this money at home, or that she had the means to acquire the half-interest in the Annette Street property. The statement in the side agreement that she had contributed $40,000 towards the purchase of an earlier property on Broadleaf Street was contradicted on two occasions by the Appellant’s husband. When asked if his sister gave him money while they were living on Broadleaf Road, he said that she maybe gave him two or three hundred dollars a month for food. Then he said that her contribution towards the Broadleaf Road property was $15,000 by the time the Annette Street property was purchased.
+[31] Overall, I find the explanation provided by the Appellant and her husband for the increase in her net worth to be implausible and unsupported by any credible or reliable evidence.
+[32] I am also satisfied that the penalties under subsection 163(2) of the Act have been shown by the Respondent to be properly imposed. That provision provides for a penalty where the taxpayer has knowingly or under circumstances amounting to gross negligence made a misrepresentation or omission in his or her tax return. The onus is on the Respondent to prove the facts of a misrepresentation and that it was made knowingly or as a result of gross negligence. The Federal Court of Appeal in Lacroix v. The Queen[3] made the following comments with respect to this onus:
+32 What, then, of the burden of proof on the Minister? How does he discharge this burden? There may be circumstances where the Minister would be able to show direct evidence of the taxpayer’s state of mind at the time the tax return was filed. However, in the vast majority of cases, the Minister will be limited to undermining the taxpayer’s credibility by either adducing evidence or cross-examining the taxpayer. Insofar as the Tax Court of Canada is satisfied that the taxpayer earned unreported income and did not provide a credible explanation for the discrepancy between his or her reported income and his or her net worth, the Minister has discharged the burden of proof on him within the meaning of subparagraph 152(4)(a)(i) and subsection 162(3) (sic).
+[33] It has been shown that the Appellant had a large amount of income in 2003 and 2004 that was not reported by her, and she has not provided a credible explanation for it. She had very little reported income and large expenditures, and many cash deposits to her personal bank accounts in those years. In the absence of a believable explanation, the only conclusion to be drawn was that she had substantial unreported income from business, and that the failure to report the income was due, at a minimum, to gross negligence on her part.
+[34] For these reasons, the appeals are dismissed.
+Signed at Ottawa, Canada, this 22nd day of June, 2010.
+“Brent Paris”
+Paris J.
+CITATION: 2010 TCC 348
+COURT FILE NO.: 2009-2964(IT)I
+STYLE OF CAUSE: GYE-SUN CHOI and
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: June 10, 2010
+REASONS FOR JUDGMENT BY: The Honourable Justice Brent Paris
+DATE OF JUDGMENT: June 22, 2010
+APPEARANCES:
+Agent for the Appellant:
+Dave Nighswander
+Counsel for the Respondent:
+Thang Trieu
+COUNSEL OF RECORD:
+For the Appellant:
+Name: N/A
+Firm: N/A
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Sopinka, Lederman and Bryant, The Law of Evidence in Canada (2nd ed.) p. 297
+[2] Exhibit R-8.
+[3] 2008 FCA 241.

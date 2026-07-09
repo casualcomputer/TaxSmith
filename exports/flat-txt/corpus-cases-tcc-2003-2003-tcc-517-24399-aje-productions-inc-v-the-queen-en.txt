@@ -1,0 +1,132 @@
+Title: AJE Productions Inc. v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/24399/index.do
+Corpus path: corpus/cases/tcc/2003/2003-tcc-517-24399-aje-productions-inc-v-the-queen-en.md
+Document type: case_law
+Last modified: 2003-09-04
+
+# AJE Productions Inc. v. The Queen
+
+- Citation: 2003 TCC 517
+- Decision date: 2003-09-04
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2173, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+AJE Productions Inc. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-09-04
+Neutral citation
+2003 TCC 517
+File numbers
+2002-4916(IT)I
+Judges and Taxing Officers
+Judith Woods
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2002-4916(IT)I
+BETWEEN:
+AJE PRODUCTIONS INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on July 10, 2003 at Toronto, Ontario
+By: The Honourable Justice J. M. Woods
+Appearances:
+Counsel for the Appellant:
+Don Champagne
+Counsel for the Respondent:
+Joel Oliphant
+Paolo Torchetti, Student-at-Law
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 2000 taxation year is allowed and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the only reduction in the tax credit under section 125.4 in respect of the production of Bella 1 by AJE Productions is $748.
+Signed at Ottawa, Canada this 4th day of September, 2003.
+"J.M. Woods"
+J.M. Woods J.
+Citation: 2003TCC517
+Date: 20030904
+Docket: 2002-4916(IT)I
+BETWEEN:
+AJE PRODUCTIONS INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Woods J.
+[1] AJE Productions Inc. ("AJE Productions") appeals an income tax assessment for the 2000 taxation year that reduced a refundable film tax credit under section 125.4 of the Income Tax Act, R.S.C. 1985 (5th Supp.), c. 1 (the "Act"). The Minister of National Revenue ("Minister") assessed the corporation on the basis that it was entitled to only 80 percent of the tax credit because the corporation had assigned a 20 percent ownership interest in the production to a broadcaster under a broadcasting license agreement.
+[2] The appeal was heard under the Court's Informal Procedure. The Appellant agreed to a slight reduction in the amount at issue to $12,000 so that it would not exceed the monetary limit for this procedure.
+Facts
+[3] AJE Productions is a Canadian-controlled private corporation that is in the business of producing television programs. Ms. Amanda Enright has been president of the corporation for approximately seven years and has been in the television production industry for about 19 years.
+[4] The corporation entered into a license agreement dated as of May 7, 1999 (the "License Agreement") with Lifestyle Television (1994) Limited ("WTN") under which WTN acquired the Canadian telecast rights to a series to be produced by AJE Productions called Bella 1. WTN committed to pay $531,180 for the telecast rights as a license fee. This amount was approximately 97 percent of the total cost of the production.
+[5] Under the License Agreement, AJE Productions agreed to produce the series and was responsible for all costs. It agreed not to make changes to the key creative elements of the series without the prior consent of WTN, which consent was not to be unreasonably withheld. The agreement also required AJE Productions to deliver a budget respecting the production to WTN and the budget was not to be changed without the broadcaster's prior consent. The agreement specifically provided that title and copyright in the series was to remain with AJE Productions.
+[6] The License Agreement also contained a provision that granted to WTN the right to 20 percent of net revenues from the exploitation of the series. Ms. Enright testified that this was a typical provision in broadcasting license agreements except that the 20 percent was unusually high because WTN was funding such a large portion of the production costs.
+[7] In its tax return for the 2000 taxation year, AJE Productions claimed a refundable tax credit under subsection 125.4(3) of the Act in the amount of $65,455. The Minister assessed the corporation by reducing its claim by $12,748.
+Issue
+[8] The question is whether AJE Productions' entitlement to the refundable film tax credit under section 125.4 of the Act in respect of the production of Bella 1 should be reduced as a result of the terms of the License Agreement.
+Statutory Provisions
+[9] The relevant parts of section 125.4 of the Act for the taxation year at issue read:
+Subsection 125.4(3)
+Where
+(a) a qualified corporation for a taxation year files with its return of income for the year
+(i) a Canadian film or video production certificate issued in respect of a Canadian film or video production of the corporation,
+(ii) a prescribed form containing prescribed information, and
+(iii) each other document prescribed in respect of the production, and
+(b) the principal filming or taping of the production began before the end of the year,
+the corporation is deemed to have paid on its balance-due day for the year an amount on account of its tax payable under this Part for the year equal to 25% of its qualified labour expenditure for the year in respect of the production.
+Subsection 125.4(1)
+"labour expenditure" of a corporation for a taxation year in respect of a property of the corporation that is a Canadian film or video production means, in the case of a corporation that is not a qualified corporation for the year, nil, and in the case of a corporation that is a qualified corporation for the year, subject to subsection (2), the total of the following amounts to be extent that they are reasonable in the circumstances and included in the cost or, in the case of depreciable property, the capital cost to the corporation of the property:
+(a) the salary or wages directly attributable to the production that are incurred after 1994 and in the year, or the preceding taxation year, by the corporation ...
+"qualified corporation" for a taxation year means a corporation that is throughout the year a prescribed taxable Canadian corporation the activities of which in the year are primarily the carrying on through a permanent establishment (as defined by regulation) in Canada of a business that is a Canadian film, or video production business.
+Submissions of Parties
+[10] The position of the Crown is that AJE Productions is not entitled to 100 percent of the tax credit because it funded only three percent of the production. The Crown argues that the cost of the production for purposes of the definition of "labour expenditure" is in fact only the three percent that AJE Productions funded and states that the Minister is being generous in allowing the corporation 80 percent of the amount claimed. Further, the Crown submits that the overall effect of the License Agreement is to give WTN a 20 percent ownership interest in the production and therefore AJE Productions' "labour expenditure" as defined in subsection 125.4(1) should be reduced by this amount.
+[11] AJE Productions takes the position that it owns the entire production and that the License Agreement is a typical license agreement that does not give WTN any ownership in the production.
+Analysis
+[12] The refundable film tax credit in section 125.4 came into force in 1995. It entitles qualifying corporations to a credit based on remuneration paid in respect of the production of Canadian films or video productions to the extent that such remuneration is reasonable and included in the cost of the production. Qualifying corporations are defined as prescribed taxable Canadian corporations whose activities consist primarily of film or video production in Canada. Regulations defining prescribed taxable Canadian corporations were released in draft form and apparently were not in force in the relevant taxation year. It appears that the regulations are still in draft form and I understand that the tax credit is administered on the basis of the draft regulations. It is not disputed that AJE Productions is a prescribed taxable Canadian corporation as defined in the draft regulations.
+[13] AJE Productions is entitled to the tax credit in respect of remuneration paid for the production of Bella 1 to the extent that such remuneration is reasonable and is included in the cost of the production. It is not disputed that the remuneration paid was reasonable. The Crown's position is that AJE Productions incurred only three percent of the remuneration for the production of Bella 1. I cannot agree with this position. In my view AJE Productions had the obligation to pay its employees in respect of this production notwithstanding that WTN paid a license fee equal to 97 percent of such amount. Similarly I disagree with the Crown that cost of the production to AJE Productions is reduced by WTN's license fee. Quite simply, the receipt of the license fee from WTN is revenue to AJE Productions and is not a reduction of the production's cost.
+[14] The Crown also submits that AJE Productions gave up ownership of 20 percent of the production by granting to WTN the right to 20 percent of net revenues from the exploitation of the series. In my view, the Crown's position is not supported by the terms of the License Agreement. The License Agreement explicitly states that AJE Productions retains ownership of the production and I find nothing in the agreement that is inconsistent with this. WTN's right to 20 percent of net revenue from the exploitation of the series applies to exploitation over and above the Canadian telecast rights that are the main subject of the license and in my view this is more in the nature of a sweetener and certainly does not give WTN a 20 percent ownership interest in the production.
+[15] The Crown also submits that the License Agreement was not a simple broadcasting license agreement but was a complex arrangement like the type considered in the case of Big Comfy Corp. v. The Queen, 2002 DTC 1729 (T.C.C.). The Crown referred to various sections in the License Agreement to illustrate that this was not a simple broadcasting license agreement and that WTN had in effect veto control over decisions respecting the production. In my view, the License Agreement was not a complex hybrid agreement of the type considered in the Big Comfy case and any decision making rights granted to WTN were consistent with its rights as licensee. I have concluded that WTN acquired no ownership rights in the series as a result of entering into this agreement.
+[16] Finally, I wish to note that it is difficult to apply legislation that depends in part on draft regulations. It appears that the Canada Customs and Revenue Agency has been administering this tax credit as if the draft regulations were in force. I think it is appropriate in these circumstances to respect this administrative practice.
+Conclusion
+[17] For the foregoing reasons, the appeal in respect of the 2000 taxation year is allowed and the assessment is referred back to the Minister for reconsideration and reassessment on the basis that the only reduction in the tax credit under section 125.4 of the Act in respect of the production of Bella 1 by AJE Productions is $748. This is the amount conceded by the Appellant so as not to exceed the monetary limits for the Court's Informal Procedure.
+Signed at Ottawa, Canada this 4th day of September, 2003.
+"J. M. Woods"
+J.M. Woods J.
+CITATION:
+2003TCC517
+COURT FILE NO.:
+2002-4916(IT)I
+STYLE OF CAUSE:
+AJE Productions Inc. v. Her Majesty the Queen
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+July 10, 2003
+REASONS FOR JUDGMENT BY:
+The Honourable Justice J. M. Woods
+DATE OF JUDGMENT:
+September 4, 2003
+APPEARANCES:
+Counsel for the Appellant:
+Don Champagne
+Counsel for the Respondent:
+Joel Oliphant
+Paolo Torchetti, Student-at-Law
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Don Champagne
+Firm:
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

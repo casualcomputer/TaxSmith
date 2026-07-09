@@ -1,0 +1,170 @@
+---
+title: "Cayouette v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27862/index.do"
+last_modified: "2005-05-17"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 TCC 295"
+citation2: ""
+neutral_citation: "2005 TCC 295"
+decision_date: "2005-05-17"
+language: "en"
+item_id: "27862"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 337
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T20:43:01.064000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "a27d8853d389abdb04f9aca55c83321ec1dbca043ba628396bb68c9303cf86f1"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Cayouette v. M.N.R.
+
+- Citation: 2005 TCC 295
+- Decision date: 2005-05-17
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 337, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Cayouette v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-05-17
+Neutral citation
+2005 TCC 295
+File numbers
+2004-4355(EI)
+Judges and Taxing Officers
+François M. Angers
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2004-4355(EI)
+BETWEEN:
+FRÉDÉRIC CAYOUETTE,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on March 23, 2005, at Bathurst, New Brunswick
+Before: The Honourable Justice François Angers
+Appearances:
+Agent for the Appellant:
+Roland Couturier
+Counsel for the Respondent:
+Stéphanie Côté
+____________________________________________________________________
+JUDGMENT
+The appeal is dismissed and the decision made by the Minister of National Revenue is confirmed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 17th day of May 2005.
+"François Angers"
+Angers J.
+Translation certified true
+On this 30th day of March 2009
+Monica Chamberlain, Translator
+Citation: 2005TCC295
+Date: 20050517
+Docket: 2004-4355(EI)
+BETWEEN:
+FRÉDÉRIC CAYOUETTE,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Angers J.
+[1] This is an appeal from the determination by the Minister of National Revenue (the Minister) dated October 5, 2004, that the Appellant was not engaged in insurable employment within the meaning of the Employment Insurance Act (the Act) during the periods from November 17, 2002, to December 6, 2003, and from February 2, to March 20, 2004, during which he worked for Roger Labonté Contracteur Général Inc. (the payor).
+[2] The payor operates a forestry business. The Appellant owns a tractor with a value of $55,000 and was employed by the payor to build roads on forestry operations sites. Their agreement provided that the Appellant was to provide the tractor needed for his work and was responsible for all expenses incurred for the tractor and for the maintenance and repair costs associated with use of the tractor. The Appellant's hourly rate for the use of his tractor was $84.00 in 2002 and $86.00 in 2003 and 2004. That remuneration was paid to the Appellant every week, but was divided into two cheques, after deduction of the following amounts:
+(a) an amount representing weekly pay of $749.70 for driving the tractor;
+(b) an amount representing vacation pay of eight percent, $59.98;
+(c) an amount for a contribution to an RRSP belonging to the Appellant;
+(d) an amount for insurance;
+(e) an amount for the costs of transport;
+(f) an amount for the costs of security;
+(g) the employer's share of Canada Pension Plan contributions;
+(h) the employer's share for employment insurance premiums.
+[3] The first cheque issued to the Appellant represented the net amount after all of the deductions listed above, and the second represented the amounts for his weekly pay and vacation after the usual deductions from an employee's earnings.
+[4] It is admitted that the payor did not assume any of the expenses associated with the services of the Appellant and his tractor other than the hourly rate, $84 or $86 an hour. The real amount paid to the Appellant by the payor was based on the number of hours actually worked by the Appellant with his tractor. According to the payroll and the record of employment prepared by the payor, the Appellant received $16.66 per hour for 45 hours of work per week, without regard to the hours actually worked, plus vacation pay at the rate of eight percent. In fact, the Appellant billed the payor for the hours actually worked each week, which corresponded to the hours for which the tractor was rented.
+[5] The payor exercised no control over the number of hours worked by the Appellant and relied solely on the hours billed by the Appellant for the use of his tractor. His salary was therefore based on the hourly rate for the rental of the tractor and was deducted from the amounts owing for the rental. The invoices for the rental of the tractor were prepared to reflect that agreement. The amounts identified above were also deducted.
+[6] The Appellant submitted two contracts of employment and two rental contracts, covering two different periods, in evidence. The first rental contract and contract of employment are dated June 10, 2002, and cover the period from June 10, 2002, to February 7, 2003, and the second contracts are dated June 9, 2003, and cover the period from June 9, 2003, to March 20, 2004. With the exception of the dates and the hourly rental rate, the two contracts of employment are identical, as are the two rental contracts.
+[7] The contracts of employment provide that the payor must arrange for the Appellant to be covered by the W.H.S.C.C., the Workplace Health, Safety and Compensation Commission of New Brunswick, for damage caused in the course of his work, including injuries suffered while repairing and maintaining the equipment rented to the company. Here I must note that the W.H.S.C.C. does not cover damage caused to a third party by an employee in the performance of his or her duties. The contract also provides that in the event of mechanical breakdown, if the payor has other work to be done by the Appellant, he will have to do that work while waiting for the equipment to be repaired. In his testimony, however, the Appellant acknowledged that he repaired his tractor himself, except in the event of problems involving the motor or transmission. In those cases, he removed the defective part and took it to a mechanic to have the repair done. During periods when the tractor was being repaired, his salary still came from income for the rental of the tractor when the tractor was operational. As well, the terms and conditions of the contract are virtually word for word the same as the language found in Insurance Policy Coverage Bulletin No. 97‑1, except that the contract does not provide any details as to each of the terms other than the method of remuneration and the nature of the work to be performed.
+[8] In the rental contracts, the hourly rate is specified, as well as a schedule of 12 hours per day and 60 hours per week. The evidence submitted clearly showed that the rental hours per week varied on the basis of what the Appellant billed, and not on the basis of the contracts. The rules governing road construction read as follows:
+The operator-owner (the Appellant) with tractor shall build the road where the foreperson has placed ribbons, under the supervision of the foreperson at all times. When the road is completed, the foreperson shall have the tractor moved to another area determined by the foreperson. The operation shall be carried out in accordance with forest management legislation and regulations and all legislation and regulations of the province of New Brunswick and the Government of Canada, and also with the standards imposed by Deniso Lebel Inc and/or the licence governing its operations.
+[9] The Appellant stated that he was responsible for environmental matters, but when he was questioned about the fines or penalties to be paid for infractions, he said he did not know who would be responsible for those.
+[10] The other clauses of the contract provide that the rented equipment included the truck used by the Appellant for transportation, his work tools, a welder, a compressor, and so on. Parts and fuel are the Appellant's responsibility. It also provides for the rental of office space in the home, and here I presume that it means the Appellant's home, for business activities, and again I presume this means the Appellant's business.
+[11] Clause 4 of the contract contains the following terms and conditions:
+[translation]
+(A) The lessor shall provide liability insurance for each piece of equipment in the amount of two million for the term of the contract.
+(B) The lessor may not use his equipment for other purposes unless the lessee gives written permission to the lessor.
+(C) The lessor shall be responsible for any environmental non-compliance and non-compliance with performance principles on his part and the part of any other person for whom he is responsible. The lessor shall be liable for repairing any damage to the environment caused by such non-compliance. The site foreperson shall be responsible for reporting non-compliance to the lessor and arranging for remedial action. In the event that deadlines for remedial action are not met, the contractor will carry out the remedial action at the lessor's expense. The lessor shall, where justifiable, be liable for the penalties if a fine is imposed by the Department of Natural Resources and Energy. Examples of non-compliance are: uncollected oil leaks, operating equipment too close to a watercourse, wasting fibre, trash left in the forest, failing to remain on skidding trails.
+(D) The Contractor shall ensure that the operations are protected by the W.H.S.C.C. in the course of both operations and maintenance, for all injuries and other accidents that may occur, as covered by the W.H.S.C.C.
+[12] The Appellant testified that he had only one insurance policy, for fire and theft, and not a liability insurance contract. In fact, the payor held that insurance contract, according to the witness Roger Labonté.
+[13] The contract also contains a clause specifying terms and conditions that, again, reiterate word for word the terms and conditions found in Insurance Policy Coverage Bulletin No. 97-1. Right at the end, the Appellant acknowledged that if he is not working for the payor he works for someone else. The Appellant must be a member of the Communications, Energy and Paperworkers Union of Canada in order to do his work.
+[14] The question is therefore whether the Appellant in this case was engaged in insurable employment with the payor within the meaning of paragraph 5(1)(a) of the Act during the period in issue. In Wiebe Door Services Ltd. v. Minister of National Revenue, [1986] 3 F.C. 553, the Federal Court of Appeal provided a useful guide for distinguishing a contract of service from a contract for services. In 671122 Ontario Ltd. v. Sagaz Industries Canada Inc., [2001] 2 S.C.R. 983, the Supreme Court of Canada approved that guide, and summarized the law as follows:
+47 Although there is no universal test to determine whether a person is an employee or an independent contractor, I agree with MacGuigan J.A. that a persuasive approach to the issue is that taken by Cooke J. in Market Investigations, supra. The central question is whether the person who has been engaged to perform the services is performing them as a person in business on his own account. In making this determination, the level of control the employer has over the worker's activities will always be a factor. However, other factors to consider include whether the worker provides his or her own equipment, whether the worker hires his or her own helpers, the degree of financial risk taken by the worker, the degree of responsibility for investment and management held by the worker, and the worker's opportunity for profit in the performance of his or her tasks.
+48 It bears repeating that the above factors constitute a non-exhaustive list, and there is no set formula as to their application. The relative weight of each will depend on the particular facts and circumstances of the case.
+[15] In Charbonneau v. Canada, [1996] F.C.J. No. 1337 (Q.L.), Mr. Justice Marceau of the Federal Court of Appeal noted that the factors in question are reference points which are generally useful to consider, but not to the point of jeopardizing the ultimate goal of the exercise, which is to determine the overall relationship between the parties.
+[16] In a recent judgment, the Federal Court of Appeal once again explained the legal principles that govern the issue of the insurability of employment. In Livreur Plus Inc. v. Canada, [2004] F.C.J. No. 267, Mr. Justice Létourneau summarized those principles as follows at paragraphs 18 and 19 of his judgment:
+In these circumstances, the tests mentioned in Wiebe Door Services Ltd. v. M.N.R., 87 D.T.C. 5025, namely the degree of control, ownership of the work tools, the chance of profit and risk of loss, and finally integration, are only points of reference: Charbonneau v. Canada (Minister of National Revenue - M.N.R.) (1996), 207 N.R. 299, paragraph 3. Where a real contract exists, the Court must determine whether there is between the parties a relationship of subordination which is characteristic of a contract of employment, or whether there is instead a degree of independence which indicates a contract of enterprise: ibid.
+Having said that, in terms of control the Court should not confuse control over the result or quality of the work with control over its performance by the worker responsible for doing it: Vulcain Alarme Inc. v. The Minister of National Revenue, F.C.J. No. 749, A-376-98, May 11, 1999, paragraph 10, (F.C.A.); D&J Driveway Inc. v. The Minister of National Revenue, supra, at paragraph 9. As our colleague Décary J.A. said in Charbonneau v. Canada (Minister of National Revenue - M.N.R.), supra, followed in Jaillet v. Canada (Minister of National Revenue - M.N.R.), 2002 F.C.J. No. 1454, 2002 FCA 294, "It is indeed rare for a person to give out work and not to ensure that the work is performed in accordance with his or her requirements and at the locations agreed upon. Monitoring the result must not be confused with controlling the worker".
+[17] Recently, Létourneau J.A. reiterated all these principles, in Tremblay v. Canada, [2004] F.C.J. No. 802, in which he had to dispose of issues similar to the issues in this case, and in particular the application of Coverage Bulletin 97‑1. He summarized the purpose of that bulletin very clearly, as follows:
+The purpose of that Bulletin is to clarify Revenue Canada's policy on workers in the forestry industry who, in addition to providing services to a contractor, lease their heavy machinery to the same contractor. The purpose is to facilitate determining the insurability of the employment and lessen the requests for rulings on insurability sent to Revenue Canada with regard to such workers.
+17 In a word, the Bulletin, which I set out below, enables an operator-owner of heavy machinery to conclude two separate contracts with a contractor: a contract to rent the machinery and a contract of employment, which the Bulletin calls a contract of service. In principle, the separate agreements must be in writing although verbal agreements are also accepted, but applications based on verbal agreements are subject to special review by Revenue Canada: see also the addendum to Coverage Bulletin No. 97-1 on insurance policy, which confirms this. The rental contract and the employment contract must comply with strict conditions, otherwise the employment insurability application will be denied: …
+[18] He went on to add:
+19 In rental contracts the Coverage Bulletin properly requires that certain clauses in the contract should indicate that lessee takes control of the machinery for the duration of the agreement. The contract of employment must be separate from the rental contract. Additionally, the services of the operator-owner must not be directly and exclusively linked to the operation of the machinery and the employer must be responsible for damages or injuries caused by the operator as part of his or her duties.
+[19] Obviously, by the way they arranged matters, the Appellant and the payor agreed to sign contracts in order to meet the requirements for the Appellant to be eligible for employment insurance benefits, under Coverage Bulletin No. 97‑1. The purpose of that bulletin is to facilitate the determination as to the insurability of employment, and as Létourneau J.A. said in Tremblay, supra, it is relevant in analyzing the parties' intentions as to their contractual and business relationships.
+[20] In this case, there are in fact two contracts, a contract of employment and a rental contract, but obviously, according to the evidence presented, they were not two separate contracts. The contract of employment is entirely dependent on the rental contract, in that if the tractor was not operating there was no income to pay the Appellant's salary. In fact, not only the Appellant's salary but also all of the expenses associated with the employment for which the employer was responsible depended on it. The rental income was used to pay the employer's Canada Pension Plan and employment insurance premiums, vacation pay and employer premiums to the Workplace Health and Safety Commission. This is certainly not the norm for a contract of service, where the employer absorbs the expenses.
+[21] Obviously, the record of employment and the payroll do not reflect the reality. The Appellant did not work 45 hours a week, because he worked the same number of hours as his tractor, and the invoices show that those hours varied between zero and 63 hours per week. He was paid only if his tractor was operating, and even though he received a weekly salary, that expense had to be subtracted from his rental income. If his tractor broke down, there was no income to pay his salary.
+[22] The rental contract provides that the Appellant was responsible for all expenses associated with his tractor, and thus all the risks. The Appellant was responsible for maintaining and repairing the tractor. When we look at his income tax returns, the Appellant was also responsible for all operating expenses, such as fuel, oil and so on. There are instructions in the rental contracts directed to the tractor operator-owner regarding the work he is to do and his responsibilities as an operator, which I reproduced above in paragraph 8. We must ask what those terms are doing in a rental contract, if they do not mean that the tractor was rented with an operator The Appellant has to hold a liability insurance contract providing $2 million coverage for each piece of equipment. The evidence is that the payor held the insurance contract and the Appellant reimbursed it for that expense.
+[23] In paragraph 4(c) of the agreement, the Appellant assumes full liability in the event of any infractions of environmental standards or fines imposed for non-compliance with them. It is therefore obvious that the Appellant had control of the equipment and was responsible for its use. In my opinion, this is a contract that is consistent with a contract by an entrepreneur, who provides his or her services and the tools needed to perform work, for an hourly rate, and assumes the chance of profit and risk of loss. When all of the operating expenses, including the payor's, are deducted, it is neither a genuine rental contract nor a genuine contract for services.
+[24] We must also as whether the payor in this case had the power to control what the Appellant did. In my opinion, the control exercised was, rather, control over quality and compliance with environmental standards.
+[25] Having regard to these facts, and notwithstanding the fact that Coverage Bulletin No. 97­‑1 allows for an operator-owner of forestry machinery to be engaged in insurable employment, it is impossible for me to conclude in this case that there was a genuine contract of service between the payor and the Appellant during the two periods in question.
+[26] For these reasons, the appeal is dismissed.
+Signed at Ottawa, Canada, this 17th day of May 2005.
+"François Angers"
+Angers J.
+Translation certified true
+On this 30th day of March 2009
+Monica Chamberlain, Translator
+CITATION: 2005TCC295
+COURT FILE NO.: 2004-4355(EI)
+STYLE OF CAUSE: Frédéric Cayouette and M.N.R.
+PLACE OF HEARING: Bathurst, New Brunswick
+DATE OF HEARING: March 23, 2005
+REASONS FOR JUDGMENT BY: The Honourable Justice François Angers
+DATE OF JUDGMENT: May 17, 2005
+APPEARANCES:
+Agent for the Appellant:
+Roland Couturier
+Counsel for the Respondent:
+Stéphanie Côté
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Ontario

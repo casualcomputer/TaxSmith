@@ -1,0 +1,233 @@
+---
+title: "Julien Regis S/N Ti-Kay Sikuman Soudure Enr. v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27915/index.do"
+last_modified: "2003-03-04"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 TCC 36"
+citation2: ""
+neutral_citation: "2003 TCC 36"
+decision_date: "2003-03-04"
+language: "en"
+item_id: "27915"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1698
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T18:28:58.509000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "bd4d1a1b349668bf9928d391754c98d93e6ad3b4bd5ce875a8e0a29677c5cdd0"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Julien Regis S/N Ti-Kay Sikuman Soudure Enr. v. M.N.R.
+
+- Citation: 2003 TCC 36
+- Decision date: 2003-03-04
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1698, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Julien Regis S/N Ti-Kay Sikuman Soudure Enr. v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-03-04
+Neutral citation
+2003 TCC 36
+File numbers
+2000-9(EI)
+Judges and Taxing Officers
+Jerome F. Somers
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2000-9(EI)
+BETWEEN:
+JULIEN RÉGIS O/A TI-KAY SIKUMAN SOUDURE ENR.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+JEAN-GUY GRÉGOIRE, YVAN AMBROISE,
+JEAN-MARC BLOUIN,
+Interveners.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard on January 21, 2003 at Sept-Îles, Québec
+Before:
+Honourable Deputy Judge J. F. Somers
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Alain Gareau
+For the Interveners:
+Counsel for Jean-Guy Grégoire:
+Yvan Ambroise himself
+Jean-Marc Blouin himself
+Raynald Bernatchez
+_______________________________________________________________
+JUDGMENT
+The appeal is dismissed and the Minister’s decision is upheld in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 4th day of March 2003.
+"J. F. Somers"
+D.J.T.C.C.
+Translation certified true
+on this 18th day of March 2004.
+Shulamit Day-Savage, Translator
+Citation: 2003TCC36
+Date: 20030304
+Docket: 2000-9(EI)
+BETWEEN:
+JULIEN RÉGIS O/A TI-KAY SIKUMAN SOUDURE ENR.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+JEAN-GUY GRÉGOIRE, YVAN AMBROISE,
+JEAN-MARC BLOUIN,
+Interveners.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Somers, D.J.T.C.C.
+[1] This appeal was heard at Sept-Îles, Quebec, January 21, 2003.
+[2] Jean-Guy Grégoire, one of the Interveners in this appeal, and who is also an Appellant in docket 1999-4721(EI), entered the evidence produced at the hearing of his appeal for the docket under review.
+[3] The Appellant appealed from the decision of the Minister of National Revenue (the "Minister"), dated August 27, 1999, that the employment of the following workers, who are the Interveners, was not insurable because there was not an employer-employee relationship between the Appellant and the workers during the following periods at issue:
+1. Yvan Ambroise: November 20, 1995, to December 15, 1995
+August 11, 1997, to November 8, 1997
+September 21, 1998, to November 7, 1998
+2. Valère Pinette: March 25, 1996, to March 29, 1996
+3. Samuel Pinette: November 4, 1996, to November 22, 1996
+4. Éric Valin: December 2, 1996, to December 20, 1996
+5. Jean-Guy Grégoire: December 8, 1997, to January 18, 1998
+6. Kevin Jérôme: January 19, 1998, to April 18, 1998
+7. Jean-Marc Blouin: March 22, 1998, to June 13, 1998
+8. Nathalie Ambroise: June 26, 1998, to September 26, 1998
+9. Émilien Hervieux: June 26, 1998, to September 26, 1998
+10. Raoul St-Onge: August 3, 1998, to September 18, 1998
+11. Michel Marcellin: August 21, 1998, to October 17, 1998
+12. Bill St-Onge: September 7, 1998, to October 17, 1998
+13. Marc Bourgeois: September 25, 1998, to October 17, 1998
+[4] Subsection 5(1) of the Employment Insurance Act (the "Act"), reads, in part, as follows:
+5. (1) Subject to subsection (2), insurable employment is
+(a) employment in Canada by one or more employers, under any express or implied contract of service or apprenticeship, written or oral, whether the earnings of the employed person are received from the employer or some other person and whether the earnings are calculated by time or by the piece, or partly by time and partly by the piece, or otherwise;
+. . .
+[5] In making his decision, the Minister relied on the following assumptions of fact outlined in paragraph 5 of the Reply to the Notice of Appeal, which were admitted or denied by the Appellant:
+[TRANSLATION]
+(a) The Appellant, Julien Régis, was the sole shareholder of a welding shop that he operated under the business name "Ti-Kay Sikuman Soudure enr."; (admitted)
+(b) The business is operated year-round; (admitted)
+(c) The business hours were from 8 a.m. to 8 p.m., between six and seven days per week; (denied)
+(d) There were always one or two welders on site, i.e. Julien Régis and Yvan Ambroise; (admitted)
+(e) There were always many people at the shop and it was difficult to tell who was working or not; (denied)
+(f) The Appellant claimed to have routinely hired workers who had no welding experience, solely for the purpose of enabling them to qualify for employment insurance benefits; (denied)
+(g) The Appellant asserted that he hired the alleged workers when they asked him to, and not because his business actually needed them; (denied)
+(h) Only Yvan Ambroise, Raoul St-Onge and Marc Bourgeois were qualified to weld; (denied)
+(i) The Appellant also claimed to have hired day workers to paint and clean the shop when in fact they did not work; (denied)
+(j) He claimed to have paid the workers an hourly rate of between $18 and $27 simply so the workers could receive higher employment insurance benefits when in fact the business did not need their services; (denied)
+(k) The tasks for which the workers were allegedly hired did not justify the alleged remuneration paid; (denied)
+(l) The Appellant claimed to have paid the alleged workers in cash whereas the business did not have the financial ability to pay them; (denied)
+(m) The records of employment issued by the Appellant to the workers do not reflect the reality with respect to either the periods worked or the remuneration paid; (denied)
+(n) Yvan Ambroise: periods from November 20, 1995, to December 15, 1995, from August 11, 1997, to November 8, 1997, and from September 21, 1998, to November 7, 1998. The worker was regularly at the welding shop outside his alleged periods of employment. However, during each of the periods at issue, he had allegedly been hired for the amount of time required for him to qualify for unemployment or employment insurance benefits. In 1995, he was hired as a day labourer for a period of three weeks and he received a weekly gross pay of $544 that was paid to him by the Appellant, by cheque. In 1997 and 1998, the Appellant, who had previously trained him in welding, had allegedly hired him as a welder at a rate of $18.72 for 1997 and at $26 for 1998. He claimed to have worked 72 hours per week in 1998 and received weekly pay in cash of $1,872. He stated that he did not know Émilien Hervieux and that he did not work with Bill St-Onge whereas in 1998, the records of employment issued by the Appellant indicate that they were all allegedly working during the same period. In 1997 and 1998, the worker was not employed by the Appellant and received no pay from him;
+(o) Valère Fontaine: period from March 25 to 29, 1996. During the period at issue, the worker claimed to have provided services to the Appellant when he was working for another Payor. He needed a week to qualify for unemployment insurance benefits and the Appellant issued him a false record of employment;
+(p) Samuel Pinette: period from November 4 to 22, 1996. He had allegedly been hired as a day labourer whereas the Appellant did not need him. He allegedly received a weekly pay of $560 that was allegedly paid to him in cash. The worker did not provide services to the Appellant and did not receive any payment from him;
+(q) Éric Valin: period from December 2 to December 20, 1996. He was three weeks short of qualifying for employment insurance benefits. He had allegedly worked alone as a day labourer at the shop, painting and cleaning, whereas there were two other people on the Appellant's payroll register during the same period. He was allegedly paid $525 per week in cash. The worker did not provide services to the Appellant and did not receive any payment from him;
+(r) Jean-Guy Grégoire: period from December 8, 1997, to January 18, 1998. The worker is a friend of the Appellant and he often provided services to him on a volunteer basis. During the period at issue, he was allegedly hired as a day labourer and was allegedly paid an hourly rate of $27 that was allegedly paid to him in cash. The worker was not employed by the Appellant and did not receive any payment from him;
+(s) Kevin Jérôme: period from January 19, 1998, to April 18, 1998. He regularly came to the shop and provided services to the Appellant on a volunteer basis. During the period at issue, he asked the Appellant to give him work so that he could qualify for employment insurance benefits. He claimed to have been hired as a day labourer. He stated that he worked alone with the Appellant whereas, for the period at issue, another record of employment was issued by the Appellant to another worker, Jean‑Marc Blouin. The worker claims to have been paid at an hourly rate of $17 that was allegedly paid in cash. The worker was not employed by the Appellant and did not receive any payment from him;
+(t) Jean-Marc Blouin: period from March 22, 1998, to June 13, 1998. He claimed to have been hired as a day labourer to paint and clean whereas Kevin Jérôme was allegedly performing the same duties for the Appellant. The worker claims that he did not paint but cut pieces of iron for the Appellant. He claimed to have been paid in cash at an hourly rate of $27. The worker did not provide services to the Appellant and did not receive any payment from him;
+(u) Nathalie Ambroise: period from June 26, 1998, to September 26, 1998. She claimed to have been hired as a day labourer in order to qualify for employment insurance benefits. She was allegedly paid an hourly rate of $22. The Appellant allegedly paid her $1,584 per week for 72 hours of work. Her work schedule was allegedly from 8 a.m. to 8:30 p.m. She stated that she did not know Émilien Hervieux, Raoul St-Onge and Marc Bourgeois who, according to the Appellant, were also employed by him during the same period. The worker did not provide services to the Appellant and did not receive any payment from him;
+(v) Émilien Hervieux: period from June 26, 1998, to September 26, 1998. In 1997, he provided services to the Appellant on a volunteer basis. Prior to the period at issue, he voluntarily provided services to the Appellant without pay. During the period at issue, he claimed to have been hired as a day labourer in order to enable him to qualify for employment insurance benefits. He claimed to have worked mainly from 8 a.m. to 5 p.m. He stated that he did not know Michel Marcellin and Bill St-Onge who, according to the records of employment issued by the Appellant, were also allegedly providing services to the Appellant during the same period. He was allegedly paid in cash at an hourly rate of $22. The worker did not provide services to the Appellant and did not receive any payment from him;
+(w) Raoul St-Onge: period from August 3, 1998, to September 18, 1998. Prior to the period at issue, he provided services to the Appellant on a volunteer basis in exchange for which he received welding training. During the period in question, he allegedly worked an average of 60 hours per week. He allegedly received fixed pay of $1,200 or $1,500 per week that was allegedly paid in cash. He affirmed that he did not provide services to the Appellant at the same time as Michel Marcellin who, according to a record of employment issued by the Appellant, allegedly worked at the same time as this worker. This worker was not employed by the Appellant and did not receive any payment from him;
+(x) Michel Marcellin: period from August 21, 1998, to October 17, 1998. He was allegedly hired as a day labourer in order to qualify for employment insurance benefits. He allegedly worked days and claimed to have been paid in cash at an hourly rate of $22. The worker did not provide services to the Appellant and did not receive any payment from him;
+(y) Bill St-Onge: period from September 7, 1998, to October 17, 1998. He claimed to have been hired as a day labourer to work from 5 p.m. to 11 p.m. whereas the business hours were from 8 a.m. to 8 p.m. He allegedly was paid in cash at an hourly rate of $22. The worker did not provide services to the Appellant and did not receive any payment from him;
+(z) Marc Bourgeois: period from September 25, 1998, to October 17, 1998. He was allegedly hired as a welder in order to enable him to qualify for employment insurance benefits. According to the Appellant, the worker's schedule was between 8 a.m. and 5 p.m. whereas, according to the worker, he worked 12 hours per day for the Appellant. He claimed to have been paid in cash at an hourly rate of $27. The worker did not provide services to the Appellant and did not receive any payment from him.
+[6] Only workers Yvan Ambroise, Jean-Guy Grégoire and Jean‑Marc Blouin were Interveners in the current appeal.
+[7] Only the Appellant and Yvan Ambroise testified in support of the current appeal. The evidence produced in docket 1999‑4721(EI), the appeal of Jean‑Guy Grégoire, Intervener in the appeal under review, was provided for this docket.
+[8] The Appellant was the sole owner of a welding shop that he operated year‑round under the business name "Ti-Kay Sikuman Soudure enr." According to the Appellant, the shop's business hours were from 8 a.m. to 5 p.m. and the employees had to be present on site. However, they had no set hours since employees could work outside the shop's hours of business.
+[9] The size of the shop was 30 feet by 52 feet. During business hours, clients, employees and individuals who came to chat were all present there.
+[10] The Appellant admitted paragraph 5(d) of the Reply to the Notice of Appeal, which stated that there were always one or two welders on site, himself and one of the Interveners, Yvan Ambroise.
+[11] During the examination, the Appellant was not able to enlighten the Court with respect to the operation of his shop and the work conducted by the employees during the years at issue. No documents, such as a payroll register or financial statements, were submitted as evidence in support of his appeal.
+[12] In cross‑examination, Counsel for the Respondent showed the Appellant a statutory declaration that he signed on January 6, 1999, (Exhibit I‑1) and he denied the contents of his declaration saying that he was not behaving normally. The Appellant explained that he had used narcotics between 1990 and 2000 and that he appeared in criminal court on narcotics‑related charges. However he was very vague with respect to the nature of the charges and the sentence received. He added that he did not recall whether, on the occasion of his statutory declaration of January 6, 1999, he had used narcotics, but he recognized that Louise Pineault, investigator for Human Resources Development Canada, was very nice.
+[13] In the appeal for Jean‑Guy Grégoire (docket 1999‑4721(EI)), the evidence for which was produced for the docket under review, the Appellant recognized his signature on a document that was produced and stated: [translation] ". . . I signed it, that's right." At the hearing for the appeal of Jean‑Guy Grégoire, the Appellant made no reference to his narcotics use and to the fact that he was behaving normally in 1999. In addition, he did not refer to certain annoying incidents that could affect the truthfulness of responses to Ms. Pineault's questions; we are justified in highlighting certain passages in this declaration (Exhibit I‑1), dated January 6, 1999:
+[TRANSLATION]
+Q. What skills are required to be a welder?
+A. It takes a great deal of experience. The people that I hire are not really welders; I show them how and I like them better than certified welders because sometimes they aren’t good.
+Q. Who are you major clients?
+A. The Ungkat and Natashquan band councils and also individuals.
+Q. Do you hire only experienced welders?
+A. No, it is mostly people who do not know how to weld and I tell them to watch what I do and that is how they are going to learn.
+Q. How do you set your employees' schedules?
+A. They do not have set schedules. The shop is open and I take them when they arrive. There is always Yvan Ambroise or myself at the shop. The schedules are also a function of the weeks needed to qualify for their unemployment stamps.
+Q. How do you set the salary for your employees?
+A. I am the one who decides; when I take someone I tell him, "This is your salary," like that. I pay a good wage so people can get good stamps and have good UI benefits, too.
+Q. Are there only welders at the shop?
+A. Yes, just welders.
+Q. How do you set the pay for your staff?
+A. I go see Mr. Racine, my accountant, and I tell him who worked and how many hours, I do not have any papers for that.
+Q. Is this information accurate?
+R. I think so. The employees tell me how many hours they worked; I do not supervise the schedules, I do not keep this in writing.
+Q. Why did you hire Mr. Ambroise for a period of three weeks between 20/11/95 and 15/12/95?
+A. Because he was missing three weeks to get his UI.
+Q. What were his duties?
+R. At the beginning he watched what I did because he did not know how to weld.
+Q. Why did you need a day labourer for three weeks when there were no welders on the payroll?
+A. I did not really need one but I knew that he needed stamps and welfare does not pay very much so I wanted to help him get his stamps.
+Q. What justified this salary?
+A. Just because I decided on the salary that meant he would get good UI.
+Q. At the end of his employment, did Mr. Ambroise tell you that he wanted to stop working?
+A. He told me when he began that he needed so many weeks and he would be finished after that, but he continued to come to the shop every week.
+Q. What are Mr. Ambroise's qualifications as a welder?
+R. He did not have any, I was showing him.
+Q. Why did you not call Mr. Ambroise back when you hired another welder four weeks after he finished working?
+A. This is a problem we Indians have, we do not stay long on a job, and Yvan had his UI so he really was not interested.
+Q. Why did you hire Mr. Girard for a period of three weeks between December 2 and December 20, 1996?
+A. Because he needed those weeks.
+Q. How was he hired?
+A. He came to the shop; I did not know him, and he asked me if I had work because he needed three weeks. I told him I did not have any work, but I hired him anyway and I remember that he thought that was funny.
+[14] In cross‑examination, the Appellant explained that the workers were not certified welders and that they did not have any set hours. The Appellant denied that he hired them as workers so that they, the ones who were missing weeks of insurable employment, could be eligible for unemployment/employment insurance benefits.
+[15] Yvan Ambroise, who testified at the hearing of this appeal, stated he had worked for the Appellant during the periods at issue, welding, but admitted he did not have certification. He explained that he was the Appellant's neighbour and that they had been friends for a long time. He stated that he went to the shop on a regular basis and that he worked for the Appellant for certain periods.
+[16] Yvan Ambroise admitted to freely signing a statutory declaration dated January 26, 1999, (Exhibit I‑2), but after he re-read it, he denied some passages and stated, among other things, that the Appellant set the hours of work. It is worth reproducing herein some extracts from this Intervener's declaration:
+[TRANSLATION]
+Q. How were you hired?
+R. I came around Ti‑Kay's place pretty often, to the house or the garage. I told him I wanted to work my hours so I could get UI and he told me that was OK because he had work.
+Q. Did you decide your schedule?
+R. Yes, it was usually me, I started when I wanted and finished when I wanted; I was familiar with that and I knew what to do.
+Q. What was your schedule?
+A. It was pretty much the same as this year. Like, this year, I knew how many hours I had to work to get my UI and I worked them but Ti‑Kay did not check whether I was there or not.
+Q. When you went to see Mr. Régis in 95, 97 and 98 what agreement did you have with him to finish after your stamps were done?
+A. It was not an agreement as such, but in 95 I told him that I needed three weeks, in 97 I needed 910 hours and in 98 I needed 420 hours. It was agreed that I would do my stamps and then stop, but we did not sign anything.
+[17] In Laverdière v. Canada (Minister of National Revenue – M.N.R.), [1999] T.C.J. No. 124, Tardif J. of this Court, in his decision dated February 25, 1999, said the following:
+I nonetheless believe that the work done by Mr. Laverdière during the said period in 1992 was not performed under a genuine contract of service, inter alia for the following reasons. First of all, only a genuine contract of employment can meet the requirements for being characterized as a contract of service; a genuine contract of service must have certain essential components, including the performance of work; that performance must come under the authority of the person paying the remuneration, which remuneration must be based on the quantity and quality of the work done.
+Any agreement or arrangement setting out terms for the payment of remuneration based not on the time or the period during which the paid work is performed but on other objectives, such as taking advantage of the Act's provisions, is not in the nature of a contract of service.
+This assessment applies to all the periods at issue involving the two appellants. The terms and conditions of a genuine contract of service must centre on the work to be performed, on the existence of a mechanism for controlling the performance of the work and, finally, on the payment of remuneration that basically corresponds to the quality and quantity of the work done.
+. . .
+This is the case with any agreement or arrangement whose purpose and object is to spread out or accumulate the remuneration owed or that will be owed so as to take advantage of the Act's provisions. There can be no contract of service where there is any planning or agreement that disguises or distorts the facts concerning remuneration in order to derive the greatest possible benefit from the Act.
+[18] The Appellant had the burden of proof and he did not discharge it. Only two of the workers named in this appeal testified and their testimonies demonstrated that there was an arrangement between the Appellant and them for the purpose of enabling them to accumulate the hours/weeks required to qualify for unemployment or employment insurance benefits. The statutory declarations submitted as evidence indicate that it was the intention of the parties to derive benefit from the Act.
+[19] The workers were employed by the Appellant for specified periods, the amount of time required to qualify them for employment insurance benefits. The evidence demonstrated that these workers were hired in the least busy periods, during the winter, and that one worker was hired the day after another employee was laid off. The workers' salaries were not set according to their skills, but simply to increase their employment insurance benefits. The Appellant did not submit any documents, such as a financial statement, payrolls, cheques or other documentation, as evidence to corroborate his testimony that the workers actually worked at his shop and that their work was essential, according to need, to the proper operation of the business.
+[20] The Appellant, in his testimony at the hearing of the appeal for Jean‑Guy Grégoire, stated that his responses in his statutory declaration were true, whereas at the hearing for his appeal he denies all the answers therein, saying that he was not behaving normally at that time. To dissociate himself from this declaration, he stated that he used narcotics from 1990 to 2000, but cannot confirm whether he took any on the day of January 6, 1999, the date of his declaration. The Appellant's testimony is not credible and it should be noted that the statutory declarations of the workers and the Appellants demonstrate that workers' goal was to derive benefit from the Act.
+[21] For the reasons above, the workers' employment with the Appellant was not insurable during the periods at issue since there was no actual contract of service between the Appellant and the workers as required by the provisions of paragraph 5(1)(a) of the Act.
+[22] As a result, the appeal is dismissed and the Minister's decision is upheld.
+Signed at Ottawa, Canada, this 4th day of March 2003.
+"J. F. Somers"
+D.J.T.C.C.
+Translation certified true
+on this 18th day of March 2004.
+Shulamit Day-Savage, Translator

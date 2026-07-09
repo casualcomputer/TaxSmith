@@ -1,0 +1,296 @@
+Title: Knight c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30776/index.do
+Corpus path: corpus/cases/tcc/2012/2012-cci-118-30776-knight-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2012-04-16
+
+# Knight c. La Reine
+
+- Citation: 2012 CCI 118
+- Decision date: 2012-04-16
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7579, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Knight c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2012-04-16
+Référence neutre
+2012 CCI 118
+Numéro de dossier
+2011-2546(IT)I
+Juges et Officiers taxateurs
+Gaston Jorré
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2011-2546(IT)I
+ENTRE :
+MARTINO KNIGHT,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 27 mars 2012, à Vancouver (Colombie-Britannique).
+Devant : L’honorable juge Gaston Jorré
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Me Andrew Duncan
+____________________________________________________________________
+JUGEMENT
+L’appel de la nouvelle cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2009 est rejeté sans frais, conformément aux motifs du jugement ci‑joints.
+La Cour tient à attirer l’attention de l’appelant sur le fait qu’en ce qui concerne les dispositions d’allégement pour les contribuables au paragraphe 220(3.1) de la Loi de l’impôt sur le revenu, l’Agence du revenu du Canada a publié la circulaire d’information IC07‑l, intitulée « Dispositions d’allégement pour les contribuables » ainsi que le formulaire RC4288, intitulé « Demande d’allégement pour les contribuables », aux fins de la présentation d’une demande d’allégement.
+Signé à Ottawa (Ontario), ce 16e jour d’avril 2012.
+« Gaston Jorré »
+Juge Jorré
+Traduction certifiée conforme
+ce 30e jour de mai 2012.
+Marie-Christine Gervais
+Référence : 2012 CCI 118
+Date : 20120416
+Dossier : 2011-2546(IT)I
+ENTRE :
+MARTINO KNIGHT,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Jorré
+Introduction
+[1] Dans quelles circonstances les pénalités civiles de 10 p. 100 établies par suite de l’omission de déclarer un revenu sont-elles supérieures aux pénalités civiles de 50 p. 100 établies par suite de l’omission de déclarer le même montant sciemment ou dans des circonstances équivalant à faute lourde[1]?
+[2] Lorsqu’il existe des pénalités équivalentes à l’égard d’une omission et d’une faute lourde en vertu des lois de l’impôt sur le revenu fédérale et provinciale, la pénalité établie par suite de l’omission excédera bien souvent la pénalité pour faute lourde. En Colombie-Britannique, où le présent appel a été interjeté, si l’on tient compte à la fois des pénalités fédérales et des pénalités provinciales, lorsque le « revenu total » du particulier est inférieur à 100 000 $[2], les pénalités pour omission excéderont les pénalités pour faute lourde; si le revenu total est supérieur à 100 000 $, la pénalité pour omission représentera au moins 91,5 p. 100 de la pénalité pour faute lourde.
+[3] En Alberta, les pénalités pour omission excéderont toujours les pénalités pour faute lourde.
+[4] J’examinerai un peu plus loin pourquoi il en est ainsi.
+[5] L’appelant, qui réside en Colombie-Britannique, interjette appel de la cotisation concernant la pénalité civile de 10 p. 100 établie par suite de son omission de déclarer un revenu pour son année d’imposition 2009.
+[6] Pour les motifs énoncés ci-dessous, je suis convaincu qu’eu égard aux faits portés à ma connaissance et compte tenu du droit, la pénalité a été validement imposée.
+[7] Il est compréhensible qu’une pénalité soit imposée dans le cas d’une omission répétée. Il est également compréhensible que le contribuable soit passible d’une pénalité eu égard aux circonstances de la présente affaire.
+[8] Cependant, la pénalité dans ce cas-ci est beaucoup trop sévère et semble imprévue. Si l’on examine la façon dont une pénalité pour omission s’applique ainsi que le régime des lois fédérale et provinciale, il semble clair qu’il existe probablement bon nombre de cas dans lesquels la sévérité de la pénalité semblerait inappropriée et imprévue.
+L’application du paragraphe 163(1) de la Loi de l’impôt sur le revenu fédérale et de l’article 38 de la Income Tax Act de la Colombie-Britannique
+[9] Le paragraphe 163(1)[3] de la Loi de l’impôt sur le revenu fédérale (la « Loi fédérale ») prévoit une pénalité civile dans les circonstances suivantes :
+i) lorsqu’une personne omet d’inclure un montant au titre du revenu dans une déclaration concernant une année d’imposition;
+ii) lorsqu’une personne a déjà omis de déclarer un montant au titre du revenu au cours de l’une des trois années d’imposition précédentes.
+[10] Il incombe au ministre du Revenu national de prouver ces faits. Le contribuable peut invoquer un moyen de défense fondé sur la diligence raisonnable.
+[11] Si les faits pertinents sont prouvés et si le contribuable ne réussit pas à démontrer qu’il a fait preuve de diligence raisonnable, une pénalité égale à 10 p. 100 du montant de revenu omis pourra être établie.
+[12] Le paragraphe 163(1) prévoit également que la pénalité ne peut pas être imposée lorsque la pénalité prévue au paragraphe 163(2), la « pénalité pour faute lourde », s’applique.
+[13] L’article 38 de la Income Tax Act de la Colombie-Britannique (la « Loi de la C.‑B. ») impose une pénalité identique de 10 p. 100. La Loi de la C.‑B. confère également au ministre fédéral le pouvoir : i) de s’abstenir d’imposer la pénalité provinciale, ou ii) de réduire le montant de la pénalité provinciale lorsque le contribuable est passible de la pénalité fédérale[4].
+[14] Par conséquent, en Colombie-Britannique, lorsqu’il existe une omission en vertu du paragraphe 163(1), il pourrait y avoir une pénalité combinée de 20 p. 100 en vertu de la Loi fédérale et de la Loi de la C.‑B.
+[15] Le paragraphe 163(2) de la Loi fédérale crée ce qui est connu sous le nom de pénalité pour « faute lourde ». Cette pénalité s’applique lorsqu’une personne, « sciemment ou dans des circonstances équivalant à faute lourde », fait « un faux énoncé ou une omission dans une déclaration ». La pénalité prévue au paragraphe (2) représente 50 p. 100 du montant de l’impôt à payer sur le montant de revenu qui a été omis[5].
+[16] L’article 38 de la Loi de la C.‑B. incorpore également par renvoi le paragraphe 163(2).
+[17] En vertu de l’article 239 de la Loi fédérale, qui porte sur une infraction criminelle pour évasion fiscale, la pénalité, sur déclaration de culpabilité par procédure sommaire, est de 50 p. 100 à 200 p. 100 du montant de l’impôt que le contribuable a cherché à éluder, avec possibilité d’emprisonnement d’au plus deux ans; dans le cas d’une poursuite par voie de mise en accusation, la pénalité est de 100 p. 100 à 200 p. 100 avec une possibilité d’emprisonnement d’au plus cinq ans.
+[18] En général, on constate dans le régime de la Loi fédérale un continuum de pénalités civiles et de pénalités criminelles selon les circonstances et la gravité de l’affaire. La pénalité civile pour faute lourde de 50 p. 100 est la même que la pénalité criminelle minimale pour évasion fiscale.
+[19] La pénalité civile, au paragraphe 163(2), selon lequel une omission ou un faux énoncé doit être fait sciemment ou dans des circonstances équivalant à faute lourde, vise clairement à s’appliquer à un degré de culpabilité plus élevé que la pénalité civile prévue au paragraphe 163(1), laquelle est simplement fondée sur le fait que deux omissions ont été effectuées au cours d’une période de quatre ans ainsi que sur l’absence de diligence raisonnable[6].
+[20] Il est intéressant de comparer la pénalité à payer sur un montant donné qui a été omis selon que cette pénalité résulte d’une omission ou d’une faute lourde.
+[21] En 2009, soit l’année ici en cause, les taux marginaux et les seuils minimaux, aux fins de l’impôt, étaient les suivants :
+Impôt fédéral
+15 % : 0 $
+22 % : 40 726 $
+26 % : 81 452 $
+29 % : 126 264 $
+Impôt de la C.-B.
+5,06 % : 0 $
+7,70 % : 35 716 $
+10,50 % : 71 433 $
+12,29 % : 82 014 $
+14,70 % : 99 588 $
+[22] Si un particulier a omis un montant sciemment ou dans des circonstances équivalant à faute lourde et que la pénalité de 50 p. 100 prévue au paragraphe 163(2) est établie avec l’équivalent provincial, la pénalité pour faute lourde correspondra toujours à la moitié des taux marginaux d’imposition fédéral et provincial sur le montant qui a été omis[7].
+[23] La pénalité fédérale de 10 p. 100 prévue au paragraphe 163(1) par suite d’une omission et l’équivalent provincial de 10 p. 100, s’élèvent en tout à 20 p. 100, et s’appliquent sur le montant de revenu qui a été omis.
+[24] Par conséquent, les tableaux suivants indiquent le taux de pénalité en tant que pourcentage du montant du revenu omis qui a été ajouté, selon le taux marginal qui s’appliquait en 2009, soit l’année visée par le présent appel :
+Seuil
+Taux marginal fédéral
+Pénalité pour omission
+Pénalité pour faute lourde
+0 $
+15,00 %
+10 %
+7,5 %
+40 726 $
+22,00 %
+10 %
+11,0 %
+81 452 $
+26,00 %
+10 %
+13,0 %
+126 264 $
+29,00 %
+10 %
+14,5 %
+Seuil
+Taux marginal de la C.‑B.
+Pénalité pour omission
+Pénalité pour faute lourde
+0 $
+5,06 %
+10 %
+2,530 %
+35 716 $
+7,70 %
+10 %
+3,350 %
+71 433 $
+10,50 %
+10 %
+5,250 %
+82 014 $
+12,29 %
+10 %
+6,145 %
+99 588 $
+14,70 %
+10 %
+7,350 %
+[25] Comme ces tableaux permettent de le constater, la pénalité fédérale pour omission est supérieure à ce que serait la pénalité fédérale pour faute lourde lorsque le montant omis ainsi que le montant déclaré s’élèvent à un revenu total de moins de 40 726 $[8].
+[26] En Colombie-Britannique, la pénalité provinciale pour omission est toujours supérieure à la pénalité provinciale pour faute lourde imposée sur le même montant.
+[27] Lorsque les pénalités fédérale et provinciale pour omission sont toutes deux imposées, ces pénalités sont supérieures au montant auquel s’élève une pénalité pour faute lourde imposée sur le même montant, dès que le revenu total du contribuable est inférieur à 99 588 $ après l’établissement de la nouvelle cotisation.
+[28] De fait, lorsque le revenu imposable est inférieur à 35 716 $, les pénalités fédérale et provinciale combinées pour omission représenteraient près de la totalité de l’impôt fédéral et de l’impôt de la Colombie-Britannique sur le montant omis[9]; une pénalité fédérale et une pénalité provinciale pour faute lourde imposées sur le même montant seraient deux fois moins élevées.
+[29] En ce qui concerne l’impôt au taux marginal maximal, les pénalités fédérale et de la Colombie-Britannique combinées pour omission représentent environ 91,5 p. 100 des pénalités fédérale et provinciale combinées pour faute lourde.
+[30] Par conséquent, une pénalité comportant une conduite moins répréhensible donne souvent lieu à une pénalité plus élevée qu’une pénalité imposée pour une conduite plus répréhensible[10]. Même lorsque cela n’est pas le cas, la conduite moins répréhensible donne néanmoins lieu à une pénalité presque aussi élevée que celle qui est imposée dans le cas d’une conduite plus répréhensible[11].
+[31] En Alberta, si les pénalités pour omission tant fédérale que provinciale sont imposées, leur montant sera toujours supérieur à ce que serait le montant des pénalités fédérale et provinciale pour faute lourde imposées sur le même montant[12].
+[32] Aucune distinction n’est faite au paragraphe 163(1) entre les circonstances dans lesquelles le montant omis était assujetti à des retenues et les circonstances dans lesquelles il ne l’était pas. L’existence, ou l’absence, de retenues a un effet pratique important en ce qui concerne le préjudice causé au trésor et l’avantage que le contribuable retire de l’omission.
+Les circonstances particulières de la présente affaire
+[33] En produisant sa déclaration de 2009, l’appelant a déclaré un montant d’environ 44 000 $ au titre d’un revenu d’emploi. Il a omis d’inclure un montant de 40 878 $ au titre de pareil revenu.
+[34] Le montant omis, d’environ 40 000 $, a été déclaré par le payeur dans un feuillet T4 et dans un feuillet T4A. En ce qui concerne les montants omis, il y avait des retenues de 7 556,63 $ au titre des impôts sur le revenu fédéral et provincial, de 1 244,26 $ au titre des cotisations au Régime de pensions du Canada et de 461,25 $ au titre des cotisations d’assurance-emploi.
+[35] Le tableau suivant indique les montants de l’impôt sur le revenu fédéral, de l’impôt sur le revenu de la Colombie-Britannique et de l’impôt sur le revenu total qui ont été établis dans la cotisation initiale, compte tenu des déclarations qui avaient été produites, ainsi que ceux figurant dans la nouvelle cotisation qui a été établie en vue d’inclure les montants omis indiqués dans les feuillets T4 et T4A. Le tableau indique également l’augmentation des montants établis et un montant représentant 50 p. 100 des montants établis. Les pénalités fédérale et provinciale pour omission s’élevaient à 8 175,60 $[13].
+Impôt établi dans la cotisation initiale
+Impôt établi dans la nouvelle cotisation
+Augmentation
+50 % de l’augmentation
+Pénalité fédérale de 10 % et pénalité de la C.-B. de 10 %
+Fédéral
+4 626,18 $
+13 752,50 $
+9 126,32 $
+4 563,16 $
+4 087,80 $
+C.-B.
+1 852,48 $
+5 438,47 $
+3 585,99 $
+1 792,99 $
+4 087,80 $
+Total
+6 478,66 $
+19 190,97 $
+12 712,31 $
+6 356,15 $
+8 175,60 $
+[36] Dans le cas de l’appelant, nous constatons que la pénalité fédérale pour omission est inférieure d’environ 475 $ à une pénalité fédérale pour faute lourde imposée sur le même montant. Toutefois, la pénalité provinciale pour omission est d’environ 2 295 $ plus élevée qu’une pénalité provinciale pour faute lourde imposée sur le même montant. Dans l’ensemble, la pénalité pour omission des deux paliers de l’administration est plus élevée d’environ 1 820 $ qu’une pénalité pour faute lourde imposée sur le même montant.
+[37] Quels ont été le préjudice causé au trésor et l’avantage retiré par l’appelant? S’il s’agissait d’un cas dans lequel le revenu non déclaré n’aurait pas été assujetti à des retenues, le préjudice causé au trésor fédéral et au trésor provincial se serait élevé à 12 712,31 $, plus les intérêts. Dans ce cas‑ci, étant donné que des retenues avaient été effectuées, le trésor fédéral et le trésor provincial auraient perdu, au moment de la nouvelle cotisation, un montant de 3 874,72 $, y compris les intérêts; presque tout l’argent que le trésor a perdu résultait du remboursement de 3 361,15 $ effectué par suite de la cotisation initiale du 1er juin 2010; le reste était composé de l’insuffisance des retenues, de 215,95 $, d’intérêts s’élevant 286,82 $ et d’une pénalité pour production tardive de moins de onze dollars[14].
+[38] Par conséquent, dans ce cas‑ci, le manque à gagner pour le trésor fédéral et pour le trésor provincial était de 3 874,72 $ du 1er juin au 1er novembre; la pénalité y afférente est de 8 175,60 $, soit environ 211 p. 100[15] du manque à gagner, pour quelques mois[16].
+Les faits
+[39] En 2009, soit l’année ici en cause, l’appelant était sur le marché du travail depuis environ huit ans. Il avait suivi un programme collégial de deux ans dans le domaine de la commercialisation et des ventes.
+[40] L’appelant a inclus dans sa déclaration de revenus un revenu d’emploi de 44 362 $; ce montant était le total indiqué dans un feuillet T4 délivré par Business Objects Company/SAP Canada et dans un feuillet T4 établi par FINCAD Corporation.
+[41] L’appelant n’a pas inclus dans sa déclaration un montant d’environ 40 878 $, soit près de la moitié de son revenu, qu’il avait reçu à titre de salaire et d’indemnité de départ. Ces montants faisaient l’objet de deux feuillets T, soit un feuillet T4 et un feuillet T4A, préparés par Business Objects Company et par SAP respectivement.
+[42] En établissant la nouvelle cotisation de l’appelant en vue d’inclure les montants omis, le ministre a établi une pénalité pour « omission » conformément au paragraphe 163(1) de la Loi de l’impôt sur le revenu ainsi que conformément au paragraphe 38(1) de la Income Tax Act de la Colombie-Britannique[17].
+[43] Le présent appel a été entendu sous le régime de la procédure informelle.
+[44] L’appelant a témoigné et l’intimée a produit certains éléments de preuve au moyen d’un affidavit; l’appelant n’a pas cherché à contre-interroger l’auteur de l’affidavit.
+[45] En 2009, l’appelant a travaillé pour deux sociétés différentes; Business Objects Company, qui a été achetée par SAP et, plus tard au cours de l’année, FINCAD.
+[46] L’appelant a reçu une indemnité globale de départ de Business Objects Company/SAP Canada et il a supposé que tous les impôts avaient été déduits. Des retenues élevées avaient été effectuées sur les indemnités de départ[18].
+[47] Il semble que la société ait tardé à envoyer à l’appelant le montant de l’indemnité de départ.
+[48] L’appelant n’a pas reçu les deux feuillets T, s’élevant en tout à 40 878 $, avant la production de sa déclaration de revenus de 2009.
+[49] L’appelant a présenté certains éléments de preuve selon lesquels il avait essayé d’obtenir les feuillets T manquants. Cette preuve prêtait à confusion.
+[50] L’appelant a produit la pièce A-l, qui est une chaîne de trois courriels; l’intimée a produit la pièce R‑l, qui est une chaîne différente de courriels.
+[51] Toutefois, les deux pièces renferment des courriels presque identiques, que SAP, en Pennsylvanie, avait envoyés à l’appelant, lesquels étaient intitulés [traduction] « Formulaire de demande de feuillet T4 » et étaient libellés ainsi :
+[traduction]
+Veuillez noter que les feuillets T4 initiaux ont été retournés au service de la paie, de sorte que je vous ferai parvenir l’original.
+Veuillez m’indiquer votre adresse actuelle et je vous enverrai ces feuillets par la poste aujourd’hui.
+[52] Il existe une différence fort importante entre le [traduction] « Formulaire de demande de feuillet T4 » qui a été produit sous la cote A‑1 et le même courriel, qui a été produit sous la cote R‑l. Le premier indique le 8 avril 2010 comme date d’envoi, soit avant la date limite de production de l’appelant, et le second indique le 8 août 2010 comme date d’envoi.
+[53] L’appelant a également témoigné qu’il avait fait de nombreux efforts en vue d’appeler SAP et d’assurer le suivi. Toutefois, lors du contre-interrogatoire, il est devenu évident que l’appelant cherchait avant tout à obtenir sans délai son indemnité de départ; c’est également ce qui ressort des pages 2 et 3 des courriels produits sous la cote R‑l.
+[54] En produisant sa déclaration de revenus, l’appelant n’a aucunement fait savoir que certains montants élevés de revenu n’étaient pas indiqués dans sa déclaration.
+[55] L’appelant ne se rappelait pas à quel moment il avait reçu les feuillets T manquants, mais il les avait reçus avant la nouvelle cotisation. L’appelant n’a pas envoyé les feuillets manquants au fisc avant que la nouvelle cotisation soit établie.
+[56] L’appelant était surpris d’apprendre que les feuillets T4 avaient été envoyés par la poste à la mauvaise adresse, étant donné qu’il n’avait pas changé d’adresse depuis cinq ans. Il soupçonne que la chose était peut-être de quelque façon attribuable à la transition résultant de l’achat de Business Objects Company par SAP.
+[57] L’appelant a témoigné que, par le passé, il était arrivé qu’il manque certains feuillets et qu’il s’était habitué à ce que l’Agence du revenu du Canada lui envoie simplement une nouvelle cotisation ajoutant les montants en cause et demandant à l’appelant de verser le solde ou lui envoyant un remboursement.
+[58] L’appelant s’attendait à ce que la même chose se produise encore une fois. Il a également témoigné qu’il ne s’attendait pas à ce qu’il y ait un impôt additionnel à payer étant donné que des retenues avaient été effectuées sur les montants pour lesquels il n’avait pas de feuillets T.
+[59] L’appelant n’a pas contesté la preuve par affidavit de l’intimée, laquelle indiquait : i) qu’il avait fait l’objet à l’égard de l’année d’imposition 2005 d’une nouvelle cotisation, dans laquelle un montant non déclaré de 1 054 $ était inclus; ii) qu’il avait fait l’objet à l’égard de l’année d’imposition 2006 d’une nouvelle cotisation, dans laquelle un paiement forfaitaire de 2 896 $ qui n’avait pas été déclaré était ajouté; iii) qu’il avait fait l’objet d’un pénalité pour omission à l’égard du montant non déclaré pour l’année d’imposition 2006.
+Analyse
+[60] Il y avait une omission pour l’année visée par l’appel ainsi que pour l’année d’imposition 2006, soit dans les trois années précédant l’année visée par l’appel.
+[61] Dans la décision Paquette c. la Reine[19], le juge en chef Rip a examiné, au paragraphe 9, les conditions qui s’appliquent au moyen de défense fondé sur la diligence raisonnable :
+La Cour d’appel fédérale dans les affaires Résidences Majeau Inc. c. Canada et Corporation de l’école polytechnique c. Canada a dit qu’un défendeur bénéficie de la défense de diligence raisonnable s’il établit l’une ou l’autre des deux choses suivantes : soit qu’il a commis une erreur de fait raisonnable, soit qu’il a pris des précautions raisonnables pour empêcher que ne se produise l’événement qui donne naissance à la pénalité. Dans l’affaire Résidences Majeau, le juge Létourneau explique :
+8 Selon l’arrêt Corporation de l’école polytechnique c. Canada, 2004 CAF 127, un défendeur bénéficie de la défense de diligence raisonnable s’il établit l’une ou l’autre des deux choses suivantes : soit qu’il a commis une erreur de fait raisonnable, soit qu’il a pris des précautions raisonnables pour empêcher que ne se produise l’événement qui donne naissance à la pénalité.
+9 L’erreur de fait raisonnable emporte un double test : subjectif et objectif. Le test subjectif est satisfait si le défendeur établit qu’il s’est mépris en ce qu’il a cru en une situation de fait qui, si elle avait existé, aurait éliminé le caractère fautif de son geste ou de son omission. En outre, pour que cet aspect de la défense opère, il faut aussi que l’erreur soit raisonnable, i.e. une erreur qu’une personne raisonnable placée dans les mêmes circonstances aurait commise. Il s’agit là du test objectif.
+[Notes de bas de page omises.]
+[62] Il n’y a rien dans la preuve de l’appelant qui donne à penser que celui‑ci a fait preuve de diligence raisonnable à l’égard de l’omission concernant l’année 2006 ou de l’omission concernant l’année 2009[20].
+[63] La conviction de l’appelant, à savoir que l’Agence du revenu du Canada établirait automatiquement une nouvelle cotisation et lui enverrait un remboursement étant donné que des retenues avaient été effectuées, ou demanderait le solde dû sans plus n’est pas une erreur quant à « [...] une situation de fait qui, si elle avait existé, aurait éliminé le caractère fautif de son geste ou de son omission ». Il s’agit d’une erreur quant aux conséquences de l’omission.
+[64] L’appelant n’a pas non plus pris de précautions raisonnables. Il s’est peut-être bien informé au mois d’avril 2010 au sujet des feuillets T manquants, mais il n’a fait aucun effort pour indiquer dans sa déclaration que près de la moitié de son revenu n’était pas déclaré. De plus, au cours de la période qui a suivi la cotisation initiale et avant que la nouvelle cotisation ici en cause soit établie[21], l’appelant n’a fait aucun effort pour attirer l’attention de l’Agence du revenu du Canada sur les feuillets T manquants, après les avoir reçus.
+[65] La jurisprudence citée par l’appelant se rapporte à des situations fort différentes de celle qui existe ici et elle ne s’applique pas :
+a. Dans la décision Paquette c. la Reine[22], l’appelant avait des difficultés en français et en mathématique et il avait effectué sa douzième année dans un programme pour personnes ayant des difficultés d’apprentissage. M. Paquette avait fait des efforts raisonnables eu égard aux circonstances.
+b. Dans la décision Dunlop c. la Reine[23], l’appelant avait estimé le montant de son revenu à l’égard du feuillet T4 manquant, une estimation qui se rapprochait passablement du montant réel.
+c. Les décisions Franck c. la Reine[24] et Alcala c. la Reine[25] sont fondées sur le fait que les appelants ne connaissaient pas le régime[26]. M. Franck était un jeune homme qui venait de terminer ses études secondaires et de commencer à travailler; cette année‑là, il avait travaillé comme cuisinier de casse-croûte dans quatre établissements différents et il n’avait pas reçu de feuillet T4 de l’un de ces établissements. Quant à Mme Alcala, elle s’était récemment installée au Canada depuis les Philippines, en 2005, et avait omis certains montants en 2006 et en 2007. Ces deux situations sont différentes de celle de l’appelant, qui était sur le marché du travail depuis un certain nombre d’années[27].
+Conclusion[28]
+[66] Par conséquent, étant donné que les conditions nécessaires applicables à la pénalité sont réunies et que le moyen de défense fondé sur la diligence raisonnable n’a pas été établi, je dois confirmer les pénalités et rejeter l’appel.
+[67] J’espère que l’appelant présentera une demande en vertu des dispositions relatives à l’allégement des contribuables (lesquelles sont également souvent appelées les dispositions d’équité)[29].
+[68] Si une telle demande est présentée, j’espère que le ministre envisagera sérieusement de ramener les pénalités fédérale et provinciale à un montant bien inférieur au solde dû de 3 863,92 $, indépendamment des pénalités, lorsque la nouvelle cotisation sera établie en vue d’ajouter les montants omis.
+Signé à Ottawa (Ontario), ce 16e jour d’avril 2012.
+« Gaston Jorré »
+Juge Jorré
+Traduction certifiée conforme
+ce 30e jour de mai 2012.
+Marie-Christine Gervais
+RÉFÉRENCE : 2012 CCI 118
+No DU DOSSIER DE LA COUR : 2011-2546(IT)I
+INTITULÉ : MARTINO KNIGHT
+c.
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Vancouver (Colombie-Britannique)
+DATE DE L’AUDIENCE : Le 27 mars 2012
+MOTIFS DU JUGEMENT : L’honorable juge Gaston Jorré
+DATE DU JUGEMENT : Le 16 avril 2012
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Me Andrew Duncan
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa (Ontario)
+[1] Je parle de la pénalité pour omission répétée de 10 p. 100 qui est prévue au paragraphe 163(1) de la Loi de l’impôt sur le revenu (la « Loi ») et de la pénalité pour « faute lourde » prévue au paragraphe 163(2) de la Loi.
+[2] Le chiffre de 100 000 $ est un montant approximatif; en 2012, le chiffre précis est inférieur à 103 205 $. De plus, si le revenu déclaré avant que le montant omis soit ajouté était inférieur au seuil de 103 205 $ et que le revenu, une fois le montant omis ajouté, est supérieur au seuil, la pénalité pour omission pourrait bien être supérieure à la pénalité pour faute lourde dans le cas d’un particulier dont le revenu total est supérieur au seuil de 103 205 $, selon la partie du montant omis qui était inférieure au seuil de 103 205 $ et la partie de ce montant qui était supérieure à ce seuil.
+[3] Le paragraphe 163(1) est libellé ainsi :
+Toute personne qui ne déclare pas un montant à inclure dans le calcul de son revenu dans une déclaration produite conformément à l’article 150 pour une année d’imposition donnée et qui a déjà omis de déclarer un tel montant dans une telle déclaration pour une des trois années d’imposition précédentes est passible d’une pénalité égale à 10 % du montant à inclure dans le calcul de son revenu dans une telle déclaration, sauf si elle est passible d’une pénalité en application du paragraphe (2) sur ce montant.
+[4] Income Tax Act, RSBC 1996, ch 215, dans sa forme modifiée. Les passages pertinents de l’article 38 sont libellés ainsi :
+[traduction]
+(1) Les paragraphes 163(1) et (2) de la Loi fédérale s’appliquent pour l’application de la présente loi; toutefois, en plus de toute autre modification nécessaire, le paragraphe 163(2) de la Loi fédérale doit être interprété sans tenir compte du paragraphe 120(2) et comme si
+[...]
+(2) Si un accord de perception est en vigueur, le ministre fédéral peut s’abstenir d’imposer ou peut réduire une pénalité prévue par la présente disposition si la personne qui est passible de la pénalité est tenue de payer une pénalité en vertu de l’article 163 de la Loi fédérale à l’égard du même manquement, ou du même faux énoncé ou de la même omission.
+[5] J’ai simplifié la description de ce sur quoi la pénalité de 50 p. 100 est imposée; aux fins de la présente analyse, il s’agit d’un énoncé suffisamment exact.
+[6] Cette hiérarchie est reconnue dans le manuel de vérification de l’Agence du revenu du Canada, où il est dit ce qui suit au chapitre 28.3.1 : « Si le montant du revenu non déclaré est égal ou supérieur à 5 000 $, on doit d’abord envisager l’imposition d’une pénalité en application du paragraphe 163(2) de la LIR. La pénalité pour omission répétée de déclarer un revenu qui est prévue au paragraphe 163(1) s’appliquerait donc uniquement s’il était impossible de prouver une faute lourde. » (Source : texte reproduit dans TaxPartner 2012 – communiqué 3.)
+[7] Taux marginal ou taux marginaux étant donné que, lorsque le montant omis qui est ajouté chevauche un seuil, il sera en partie assujetti à une pénalité à la moitié du taux marginal inférieur et en partie assujetti à une pénalité à la moitié du taux marginal supérieur.
+[8] Lorsque le revenu total déclaré est inférieur à 40 726 $ et que le montant omis augmente le revenu total au‑dessus de 40 726 $, la pénalité pour omission sera supérieure à la pénalité pour faute lourde pour la partie du revenu omis qui augmente le revenu total jusqu’au seuil de 40 726 $.
+[9] Soit 99,7 p. 100, pour être plus précis.
+[10] La fin du paragraphe 163(1), où il est prévu qu’un particulier est passible de la pénalité de 10 p. 100 « [...] sauf si elle est passible d’une pénalité en application du paragraphe (2) sur ce montant » semble sans doute donner à penser que personne ne s’attendait à ce que le paragraphe (1) puisse produire une pénalité plus élevée que celle qui est imposée en vertu du paragraphe (2).
+[11] On pourrait qualifier de régressive la pénalité pour omission, en ce sens que la pénalité, par rapport à la dette fiscale non déclarée, augmente au fur et à mesure que le revenu total du particulier diminue; par contre, la pénalité pour faute lourde est proportionnée, étant donné qu’elle correspond à un taux constant par rapport à la dette fiscale non déclarée.
+[12] La chose est attribuable au taux d’imposition fixe de 10 p. 100 qui s’applique en Alberta. Étant donné que le taux marginal maximum combiné fédéral et provincial, en Alberta, est de 39 p. 100, la pénalité pour faute lourde correspondant à 50 p. 100 de l’impôt ne peut jamais excéder 19,5 p. 100 du montant omis, de sorte que la pénalité pour omission fédérale et provinciale combinée de 20 p. 100 sera toujours plus élevée. L’article 53 de la Alberta Personal Income Tax Act, RSA 2000, ch A‑30, incorpore l’article 163 de la Loi de l’impôt sur le revenu fédérale. La situation en Ontario se rapproche davantage de celle qui existe en Colombie-Britannique, quoique le seuil auquel la pénalité pour faute lourde est plus élevée que celui de la pénalité pour omission soit différent.
+[13] Les montants de l’impôt fédéral établi et de l’impôt de la Colombie-Britannique établi, quant à l’impôt total établi initialement et lors de la nouvelle cotisation, figurent à la page 3 de la pièce H jointe à l’affidavit que l’intimée a déposé. La pénalité globale indiquée à la page 3 comprend une pénalité pour production tardive de moins de onze dollars. La première page de la même pièce indique une pénalité fédérale pour omission de 4 087,80 $ et une pénalité provinciale pour omission de 4 087,80 $.
+[14] Le montant de 3 874,72 $ est le solde dû de 12 050,32 $ de la nouvelle cotisation moins le montant de 8 175,60 $ se rapportant aux pénalités pour omission fédérale et provinciale; c’est ce qui ressort encore une fois de la page 3 de la pièce H jointe à l’affidavit que l’intimée a déposé. Les intérêts sont peu élevés parce qu’il s’était écoulé fort peu de temps entre la cotisation initiale du 1er juin et la nouvelle cotisation du 1er novembre.
+[15] 211 p. 100 – par opposition à une pénalité maximum de 200 p. 100 du montant qu’un contribuable a cherché à éluder lorsque l’évasion fiscale fait l’objet d’une poursuite sur déclaration de culpabilité. Il serait également possible de mettre en contraste la situation qui existe en l’espèce, dans laquelle des retenues à la source ont été effectuées et où il y avait des feuillets T4, et le paragraphe 11 de la circulaire d’information IC00‑1R2, intitulée : « Programme des divulgations volontaires ». Au paragraphe 11, il est dit ce qui suit : « Si l’ARC accepte qu’une divulgation [volontaire] soit valide puisqu’elle remplit les conditions établies dans la présente politique, il s’agira d’une divulgation valide, et le contribuable ne se verra pas imposer de pénalités et ne sera pas poursuivi par rapport à cette divulgation. »
+[16] C’est par pur hasard que j’ai pu me faire une idée exacte plutôt que de constater simplement la situation à l’égard de la pénalité fédérale. À l’heure actuelle, la présente cour entend un grand nombre d’appels dans lesquels les déclarations de revenus, les nouvelles cotisations ou les oppositions ne sont pas consignées en preuve; si tel avait été le cas, j’aurais probablement uniquement vu la pénalité fédérale isolément.
+En l’espèce, j’ai eu l’avantage d’avoir à ma disposition un avis de nouvelle cotisation reconstitué donnant une idée exacte de la nouvelle cotisation : impôt fédéral, impôt provincial, cotisations au titre de l’assurance-emploi et du Régime de pensions du Canada.
+[17] La Cour n’a pas compétence à l’égard d’appels de cotisations établies en vertu de la Income Tax Act de la Colombie‑Britannique. Toutefois, en pratique, lorsque l’appel d’une cotisation fédérale est accueilli et que la conséquence logique de la modification apportée à la cotisation fédérale donne lieu à une modification similaire de la cotisation provinciale, le ministre du Revenu national établira en conséquence une nouvelle cotisation à l’égard de l’impôt provincial; par conséquent, la plupart des litiges provenant de la Colombie-Britannique sont réglés par la décision rendue dans l’appel fédéral.
+[18] Voir le paragraphe 34 ci-dessus.
+[19] 2011 CCI 208, paragraphe 9.
+[20] Et je n’ai pas à décider si la pénalité peut s’appliquer s’il est démontré que le contribuable a fait preuve de diligence raisonnable à l’égard de l’omission antérieure.
+[21] Voir le paragraphe 23 de la décision que le juge Boyle a rendue dans l’affaire Dunlop c. la Reine, 2009 CCI 177, 2009 DTC 1124, et le texte du Guide général d’impôt et de prestations 2009, à la page 8, sous le titre : « Que faire s’il vous manque des feuillets ou des reçus? » ainsi qu’à la page 55, sous le titre : « Comment faire modifier une déclaration? ».
+[22] 2011 CCI 208.
+[23] 2009 CCI 177, 2009 DTC 1124.
+[24] 2011 CCI 179, 2011 DTC 1142.
+[25] 2010 CCI 198, 2010 DTC 1147.
+[26] Voir le paragraphe 9 de la décision Franck.
+[27] Je n’ai pas entendu l’appelant invoquer cet argument, mais je note que dans la décision Perusco c. La Reine, 2011 CCI 409, [2012] 1 C.T.C. 2161, l’argument selon lequel la pénalité prévue au paragraphe 163(1) ne peut pas s’appliquer lorsque l’employeur a déclaré le revenu a été rejeté.
+[28] Aucun argument fondé sur la Charte n’a été invoqué, mais je note que dans la décision Perusco c. la Reine, 2011 CCI 409, [2012] 1 C.T.C. 2161, un argument fondé sur les articles 7 et 12 de la Charte des droits et libertés a été rejeté.
+[29] Paragraphe 220(3.1) de la Loi de l’impôt sur le revenu fédérale et article 38 de la Income Tax de la Colombie‑Britannique. Je note qu’il n’y a rien au paragraphe 220(3.1) qui empêche le ministre d’agir de sa propre initiative, même en l’absence d’une demande.

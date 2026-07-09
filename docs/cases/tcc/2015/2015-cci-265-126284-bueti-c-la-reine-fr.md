@@ -1,0 +1,350 @@
+---
+title: "Bueti c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/126284/index.do"
+last_modified: "2015-10-29"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2015 CCI 265"
+citation2: ""
+neutral_citation: "2015 CCI 265"
+decision_date: "2015-10-29"
+language: "fr"
+item_id: "126284"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2736
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T16:19:47.928000+00:00"
+cases_cited_count: 2
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "375ff23e47cfe83a1a69e8fe4e98b3ed387915901425f0c225e094a7dbabab32"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Bueti c. La Reine
+
+- Citation: 2015 CCI 265
+- Decision date: 2015-10-29
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2736, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Bueti c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2015-10-29
+Référence neutre
+2015 CCI 265
+Numéro de dossier
+2013-3075(IT)G, et 2013-3076(IT)G
+Juges et Officiers taxateurs
+John R. Owen
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2013-3075(IT)G
+ENTRE :
+JOSEPH BUETI,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu sur preuve commune avec l’appel de
+Serafina Bueti (2013-3076(IT)G), le 24 juin 2015, à Ottawa, Canada.
+Devant : L’honorable juge John R. Owen
+Comparutions :
+Avocate de l’appelant :
+Me Frances M. Viele
+Avocat de l’intimée :
+Me Jack Warren
+JUGEMENT
+Conformément aux motifs du jugement ci‑joint, l’appel interjeté à l’encontre de la nouvelle cotisation établie en vertu de la Loi de l’impôt sur le revenu, à l’égard de l’année d’imposition 2004, dont l’avis est daté du 11 juillet 2011, est accueilli, et la nouvelle cotisation est déférée au ministre du Revenu national pour qu’il procède à un nouvel examen et qu’il établisse une nouvelle cotisation en tenant pour acquis que le produit de disposition réputé résultant de la donation du bien sis au 122 Ridgefield Crescent, à Ottawa, en Ontario, (le « bien »), le 11 mars 2004, se chiffrait à 236 500 $. Le prix de base rajusté total du bien utilisé pour l’établissement de la nouvelle cotisation ne doit pas être modifié.
+Signé à Ottawa, Canada, ce 29e jour d’octobre 2015.
+« J. R. Owen »
+Juge Owen
+Traduction certifiée conforme
+ce 4e jour de mars 2016.
+Mario Lagacé, jurilinguiste
+Dossier : 2013-3076(IT)G
+ENTRE :
+SERAFINA BUETI,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu sur preuve commune avec l’appel de
+Joseph Bueti (2013-3075(IT)G), le 24 juin 2015, à Ottawa, Canada.
+Devant : L’honorable juge John R. Owen
+Comparutions :
+Avocate de l’appelante :
+Me Frances M. Viele
+Avocat de l’intimée :
+Me Jack Warren
+JUGEMENT
+Conformément aux motifs du jugement ci-joint, l’appel interjeté à l’encontre de la nouvelle cotisation établie en vertu de la Loi de l’impôt sur le revenu, à l’égard de l’année d’imposition 2004, dont l’avis est daté du 8 juillet 2011, est accueilli, et la nouvelle cotisation est déférée au ministre du Revenu national pour qu’il procède à un nouvel examen et qu’il établisse une nouvelle cotisation en tenant pour acquis que le produit de disposition réputé résultant de la donation du bien sis au 122 Ridgefield Crescent, à Ottawa, en Ontario, (le « bien »), le 11 mars 2004, se chiffrait à 236 500 $. Le prix de base rajusté total du bien utilisé pour l’établissement de la nouvelle cotisation ne doit pas être modifié.
+Signé à Ottawa, Canada, ce 29e jour d’octobre 2015.
+« J. R. Owen »
+Juge Owen
+Traduction certifiée conforme
+ce 4e jour de mars 2016.
+Mario Lagacé, jurilinguiste
+Référence : 2015 CCI 265
+Date : 20151029
+Dossier : 2013-3075(IT)G
+ENTRE :
+JOSEPH BUETI,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2013-3076(IT)G
+ET ENTRE :
+SERAFINA BUETI,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Owen
+[1] Les appelants, Joseph Bueti et Serafina Bueti, contestent la nouvelle cotisation établie pour chacun d’eux, à l’égard de leur année d’imposition 2004, au moyen d’avis de nouvelle cotisation datés respectivement du 11 juillet 2011 et du 8 juillet 2011 (les « nouvelles cotisations »). Dans ces nouvelles cotisations, le produit de disposition réputé avoir été reçu par les appelants par suite de la donation d’un bien résidentiel sis au 122 Ridgefield Crescent, à Ottawa, en Ontario (le « bien »), faite à leur fils et à leur belle‑fille, est passé de 54 000 $ à 260 000 $. Les nouvelles cotisations réduisaient également à 100 930 $ le prix de base rajusté de 150 000 $ attribué au bien par les appelants. Les appels ont été entendus ensemble sur preuve commune.
+I. Les faits [2] Mme Serafina Bueti a témoigné pour les appelants, et Elizabeth Bernard, vérificatrice à l’Agence du revenu du Canada (l’« ARC »), a témoigné pour l’intimée. De plus, M. Leonard Carty a témoigné à titre d’expert pour le compte des appelants, et M. Pierre Duckett a témoigné au même titre pour le compte de l’intimée.
+[3] Les parties ont présenté un [traduction] « Exposé conjoint des faits » (partiel), qui est rédigé en ces termes :
+[traduction]
+1. À toutes les dates pertinentes, Serafina Bueti était mariée à Joseph Bueti.
+2. Le père de Serafina, Domenico Papalia, est décédé le 27 août 1999.
+3. À son décès, Domenico possédait notamment un bien résidentiel sis au 122 Ridgefield Crescent, Ottawa, en Ontario (le « bien »).
+4. La désignation officielle du bien était la suivante : partie du lot 35, plan 350931, à savoir la partie 4 sur le plan 4R-13988, Ottawa (anciennement Nepean).
+5. À toutes les dates pertinentes, le bien était constitué du lot et de la maison construite sur celui‑ci.
+6. Le testament de Domenico prévoit le remboursement des dettes en premier lieu. Le reliquat de la succession devait être divisé en trois parts égales : la part A consistant en 33 1/3 % du reliquat, la part B consistant en 33 1/3 % du reliquat et la part C consistant en 33 1/3 % du reliquat.
+7. Le testament chargeait les fiduciaires testamentaires de payer ou de transférer la part A à Diego Papalia, de payer ou de transférer la part B à Serafina Bueti et de payer ou transférer la part C aux petits-enfants de défunt.
+8. Le 29 février 2000, la succession a payé une taxe d’homologation de 5 125 $, son actif ayant été évalué à 374 608 $.
+9. Le 2 mai 2000, le certificat de nomination à titre de fiduciaires testamentaires a été délivré aux demandeurs Serafina Bueti et Diego Papalia.
+10. En date du […] 10 juillet 2000, les créanciers de Domenico Papalia avaient été avisés et toutes les dettes du défunt avaient été remboursées.
+11. Le 10 juillet 2000, les fiduciaires testamentaires de Domenico Papalia ont présenté une demande en vue de se faire inscrire comme propriétaires du bien en question, en leur qualité de fiduciaires testamentaires.
+12. La succession a acquitté les frais d’enregistrement de 50 $ pour le transfert et les frais juridiques.
+13. Le 11 juillet 2000, Serafina et Joseph Bueti ont obtenu de la Banque Scotia un prêt hypothécaire de 55 000 $ consenti sur le bien et ont ensuite versé une somme de 50 000 $ à Diego Papalia.
+14. Serafina et Joseph Bueti ont payé 930 $ en frais juridiques et en frais de transfert pour hypothéquer le bien.
+15. Le 11 mars 2004, Serafina et Joseph Bueti ont transféré le bien à leur fils et à leur belle‑fille en contrepartie de la somme de 2 $ et par amour et affection naturels.
+[4] Après avoir acquis le bien le 11 juillet 2000, les appelants l’ont d’abord loué pendant environ deux ans à des locataires avec lesquels ils n’avaient aucun lien de dépendance. Mme Bueti ne se rappelait pas exactement quand le bien avait été loué pour la première fois; elle a simplement dit qu’il l’avait été [traduction] « après un certain temps[1] ».
+[5] Mme Bueti a témoigné au sujet de l’état dans lequel se trouvait le bien au moment du décès de son père :
+[traduction]
+Q. Pouvez-vous décrire l’état de la maison immédiatement après le décès de votre père?
+R. Oui. Désolée, mes souvenirs, mon père. La maison était dans l’état où elle se trouvait au tout début. Presque rien n’y avait été fait; elle était exactement comme elle l’était au début. C’était – les murs étaient très, très noirs parce qu’il fumait tout le temps. Il vivait seul.
+Q. Quel âge avait-il lorsqu’il est décédé?
+R. Il est mort à l’âge de 88 ans, 88.
+Q. Merci. Pouvez-vous décrire le sous-sol?
+R. Le sous-sol était dans son état original. Il était en blocs avec un plancher de ciment. Il y avait la chaudière, aussi les bacs à laver, une pompe de puisard dans le coin. Il n’était pas fini. Absolument rien n’a été fait au sous‑sol.
+Q. Pouvez-vous décrire le garage qui était attenant à la maison?
+R. Le garage qui était attenant à la maison était au niveau du sol. Il y avait une porte qui communiquait avec la maison.
+[…]
+Q. Qu’est-ce qu’il y avait d’autre dans la maison à part (inaudible)?
+R. Les trois chambres à coucher, une salle de bain dans son état original. La cuisine et le salon. En fait, c’était une maison avec trois chambres à coucher.
+Q. À votre connaissance, la maison avait-elle des problèmes structuraux?
+R. Vous voulez dire la structure extérieure?
+Q. Extérieure ou intérieure.
+R. Non.
+Q. Vous rappelez-vous s’il y a déjà eu des problèmes avec la toiture et, le cas échéant, quand elle a été réparée? Vous avez entendu ce matin une discussion concernant une hypothèse selon laquelle la toiture avait peut‑être été réparée ou refaite au cours de ces 40 ans.
+R. Je ne suis au courant de rien du tout, sauf que je sais qu’il y a eu des ratons laveurs dans le grenier et qu’il a fallu – il a fallu les déloger. C’est à l’endroit où ils ont été retirés que la toiture a été réparée.
+Q. À votre connaissance, est-ce que c’était la toiture d’origine?
+R. Je l’ignore. Ça aurait pu être dans le premier – d’aussi longtemps que je me souvienne, je ne me rappelle pas que la toiture ait été refaite.
+Q. Qu’en était-il de la chaudière?
+R. Elle a été modifiée. C’était une chaudière fonctionnant au mazout qui est à un moment donné devenue une chaudière électrique, mais je ne sais pas trop à quel moment.
+Q. Donc, à l’origine, elle fonctionnait au mazout?
+R. À l’origine, elle fonctionnait au mazout.
+Q. Et elle a ensuite été transformée en chaudière électrique?
+R. Électrique, oui.
+Q. Mais vous ne vous rappelez pas exactement quand cette transformation a eu lieu?
+R. Je ne peux dire quand exactement, non[2].
+[6] Mme Bueti a également déclaré dans son témoignage que les seules améliorations qu’ils avaient apportées avant de louer la maison étaient un [traduction] « très, très grand nettoyage et la peinture [qu’ils avaient] refaite[3] », et qu’elle visitait son père [traduction] « [d]eux fois par jour, tous les jours[4] ».
+[7] En contre‑interrogatoire, Mme Bueti a confirmé que les appelants avaient pu louer le bien après avoir nettoyé et repeint l’intérieur, mais elle a insisté pour dire qu’ils avaient dû donner quatre ou cinq couches de peinture[5]. Lorsqu’on lui a demandé s’ils avaient fait l’acquisition du bien en juillet 2000 dans le but de le louer, elle a répondu que ce n’était pas la seule raison et que [traduction] « [c’] » était aussi en raison de notre attachement à la maison; je voulais la garder parce que c’était la maison de mes parents[6] ».
+[8] Dans un document accompagnant une lettre datée du 29 février 2000 (pièce A-2), les avocats de la succession de Domenico Papalia (la « succession ») précisent que, aux fins de l’homologation, le bien avait été évalué à 150 000 $. Dans le même document, les autres éléments d’actif de la succession (les « autres éléments d’actif ») sont décrits comme étant des [traduction] « biens meubles » (1 000 $), un [traduction] « compte de la Banque Scotia numéro [omis] » (7 534,58 $), un [traduction] « CPG à la Banque Scotia » (16 773,42 $), un [traduction] « billet à recevoir de 969270 Ontario Inc. » (177 300 $) et [traduction] « 216 actions privilégiées de catégorie A de 969270 Ontario Inc. ». La valeur totale attribuée à ces autres éléments d’actif se chiffre à 224 608 $.
+[9] Mme Bueti a décrit les éléments d’actif de la succession mais, en contre‑interrogatoire, elle n’a pas pu expliquer, ou même se rappeler, ce qu’il était advenu des autres éléments d’actif ou de quelle manière ils avaient été distribués[7]. Mme Bueti a affirmé qu’elle ne se rappelait pas avoir reçu une part d’un tiers des autres éléments d’actif[8].
+[10] Mme Bueti a déclaré que son mari et elle avaient discuté de la question du bien avec les autres bénéficiaires et qu’elle avait consenti à acheter l’intérêt des autres bénéficiaires en versant 50 000 $ à Diego Papalia et 50 000 $ aux quatre petits‑enfants[9]. Le prix d’achat se fondait sur la valeur totale du bien fixée à 150 000 $.
+[11] L’avocate de Mme Bueti lui a posé des questions au sujet d’un acte de transfert daté du 11 juillet 2000 (pièce A-6) (l’« acte de transfert »). Elle a affirmé que l’acte portait sur le transfert du bien, de la succession et d’elle-même et de Diego Papalia, en leur qualité de fiduciaires testamentaires, à elle-même et à son mari, en tant que tenants conjoints, en contrepartie de la somme de 50 000 $. Lorsqu’on le lui a demandé, elle a confirmé que les mots [traduction] « Conformément au testament de Domenico Papalia (père) » apparaissaient sur l’acte et elle a affirmé que, à sa connaissance, le transfert du bien avait été fait en conformité avec le testament de son père.
+[12] Mme Bueti a déclaré que le montant de 50 000 $ prévu comme contrepartie dans l’acte n’a été versé à aucun des autres bénéficiaires de la succession[10].
+[13] Elle a également été interrogée sur la lettre d’un avocat datée du 13 novembre 2000, portant sur une opération hypothécaire avec la Société hypothécaire Scotia (pièce A-7). Il est précisé dans la lettre, sous l’en‑tête [traduction] ÉTAT DE COMPTE EN FIDUCIE, que la somme de 55 000 $ avait été reçue du créancier hypothécaire et qu’un montant de 50 000 $ avait été versé à Diego Papalia conformément aux instructions des appelants.
+[14] Mme Bueti a déclaré que son mari avait utilisé le montant de 50 000 $ provenant des fonds hypothécaires en contrepartie de son intérêt dans le bien[11]. Lorsque son avocate lui a demandé si la lettre précisait à qui avait été versée la contrepartie de 50 000 $ dont il était question dans l’acte ou à quel endroit elle l’avait été, Mme Bueti a déclaré que c’était [traduction] « [sa] part à elle[12] ».
+[15] En contre‑interrogatoire, Mme Bueti a affirmé qu’un montant de 50 000 $ avait été versé à Diego Papalia à partir du produit de l’hypothèque consentie sur le bien et qu’un montant de 50 000 $ avait été versé aux quatre petits‑enfants à partir des propres fonds des appelants[13]. Toutefois, elle ne se rappelait pas si le montant de 50 000 $ versé aux petits‑enfants l’avait été par chèque ou par traite bancaire[14]. Mme Bueti a également affirmé que, par suite de l’acquisition du bien, elle et son mari en étaient propriétaires à parts égales[15].
+[16] Mme Bueti a décrit de la façon suivante les circonstances liées à la donation du bien à son fils et à sa belle‑fille le 11 mars 2004 :
+[traduction]
+Q. Mme Bueti, au paragraphe 13 [de l’avis d’appel], il y a ces (inaudible) 11 mars 2004, qui est la date à laquelle, si je comprends bien, vous avez procédé au transfert du bien du 122 Ridgefield à votre fils et à sa femme, au transfert du fonds de terre du bien, et les parties étaient d’accord pour que la maison existante soit vendue séparément. Que comprenez-vous de cette situation? Pourquoi transférer le fonds de terre et non la maison avec le fonds de terre?
+R. Si je peux expliquer ce qu’il est arrivé?
+Q. Je vous en prie.
+R. Nous l’avons considérée dans son ensemble et transférée à notre fils et à notre belle‑fille. Ce n’était pas [traduction] « nous allons juste vous donner le fonds de terre ». Nous avons transféré l’ensemble.
+Ils étaient censés démolir la maison et en construire une nouvelle eux‑mêmes parce que la maison existante était en très mauvais état. Elle était trop petite. Ils commençaient à fonder leur famille.
+Pour l’aider, j’ai demandé à mon fils s’il voulait que j’appelle une entreprise pour la faire enlever, et c’est ce que j’ai fait. Je l’ai fait seulement parce qu’il était occupé. C’est juste que nous l’avons fait ensemble, en famille. Nous sommes toujours comme ça.
+CDS était l’entreprise de transport de maisons. Nous avions un contrat avec eux. Ils ont offert 14 000 $ pour la maison, et ils voulaient 10 000 $ pour l’emporter. C’est ce qui est arrivé. Ensuite, mon fils a entrepris la construction de la nouvelle maison[16].
+[17] Mme Bueti a témoigné que les déclarations de revenus T1 des appelants pour 2004 avaient été préparées par un comptable. Dans ces déclarations, ils ont adopté la thèse selon laquelle le bien avait un prix de base rajusté total (« PBR ») de 150 000 $ et que le produit de sa disposition se chiffrait à 54 000 $.
+[18] Si l’on se fie au courriel envoyé par Mme Bernard le 7 février 2008 (pièce R‑3), le produit de 54 000 $ comprenait un montant de 50 000 $ pour la valeur du bien, calculée en tenant compte de l’hypothèse que le lot était vacant, et un montant de 4 000 $ reçu de CDS, l’entreprise de transport de maisons. Le PBR moins le produit donnait une perte en capital de 96 000 $, répartie à parts égales entre les appelants.
+[19] Mme Bueti a reporté prospectivement un montant de 24 000 $ provenant de la perte en capital déductible déclarée en 2004, en l’appliquant à des gains en capital réalisés en 2005 à la disposition de quatre immeubles situés à Ottawa et à Stittsville.
+[20] Les avis d’appel révèlent que M. Bueti possédait le tiers du bien et Mme Bueti, les deux tiers, au moment de la donation en 2004. Toutefois, tel que je l’ai mentionné précédemment, Mme Bueti a témoigné que son mari et elle étaient propriétaires à parts égales du bien, ce qui correspond à ce qu’indique l’acte de transfert et à la thèse adoptée par les appelants dans leurs déclarations de revenus T1 pour 2004.
+[21] L’ARC a initialement établi une nouvelle cotisation à l’égard de chacun des appelants pour refuser la perte en capital déclarée et attribuer à chacun un gain en capital de 104 850 $. Le gain en capital a été calculé en tenant compte d’un PBR de 50 300 $ et d’un produit de disposition de 260 000 $. Le PBR reflétait les montants indiqués à l’acte de transfert, soit la contrepartie de 50 000 $, les droits de cession immobilière de 250 $ et des frais de 50 $ pour l’enregistrement de l’hypothèque. Le montant de 260 000 $ se fondait sur un rapport d’évaluation daté du 25 février 2008 rédigé par M. Pierre Duckett (pièce R-5).
+[22] Les appelants se sont opposés aux nouvelles cotisations et, en réponse à leurs oppositions, l’ARC a établi de nouvelles cotisations dans lesquelles le PBR du bien était augmenté à 100 930 $, soit le total d’une contrepartie de 100 000 $, du montant additionnel de 300 $ inscrit à l’acte de transfert et des frais juridiques de 630 $. Les nouvelles cotisations réduisaient à 79 535 $ le gain en capital réalisé par chacun des appelants.
+[23] Mme Bernard a déclaré qu’elle croyait que le PBR révisé était inexact parce qu’il laissait à tort présumer que la contrepartie de 50 000 $ inscrite à l’acte de transfert et le montant de 50 000 $ établi comme ayant été versé à Diego Papalia à partir du produit de l’hypothèque étaient des montants distincts. Quoi qu’il en soit, l’intimée n’a pas cherché à modifier le PBR utilisé dans les nouvelles cotisations visées par les présents appels. Il va sans dire que l’intimée ne peut pas interjeter appel à l’encontre de la cotisation qu’elle a elle‑même établie.
+II. Les témoins experts [24] La preuve des deux témoins experts portait sur la juste valeur marchande du bien au moment de la donation faite le 11 mars 2004. Les deux experts étaient tout à fait qualifiés pour donner une évaluation, mais il semble que M. Carty possédait l’expérience la plus récente à l’égard du quartier où le bien était situé.
+[25] Ni l’un ni l’autre des experts n’a eu la possibilité de visiter la maison d’origine du bien puisqu’elle avait été vendue et remplacée par la nouvelle maison bâtie par le fils des appelants.
+[26] M. Carty a témoigné qu’il avait formulé certaines hypothèses sur l’état du bien, lesquelles se fondaient sur les renseignements qu’il avait obtenus de Mme Bueti par l’intermédiaire de son avocate. En particulier, il a considéré que la maison n’avait pas été bien entretenue et qu’elle était dans son état d’origine. En ce qui a trait au sens d’état d’origine, M. Carty a expliqué ceci :
+[traduction]
+Bien, à l’état d’origine, la salle de bain, la cuisine et les fenêtres n’auront jamais été mises au goût du jour. La chaudière, là encore, aura probablement été remplacée à un moment donné durant la vie de la maison. Le panneau électrique et la toiture d’origine auront probablement été refaits à un moment donné en raison de l’âge de la maison[17].
+[27] M. Carty a déclaré qu’il n’avait pas réussi à établir de façon exacte la superficie de la maison en pieds carrés parce qu’il n’avait pas eu accès aux registres de la Société d’évaluation foncière des municipalités (la « SÉFM ») pour 2004 et parce que faire extraire ce renseignement des archives de la Ville d’Ottawa aurait pris deux ou trois semaines. En tenant compte de la superficie d’autres maisons qu’il avait évaluées dans le quartier, il a établi qu’elle devait faire de 1 100 à 1 200 pieds carrés. M. Carty a également déclaré que les appelants n’avaient pas été en mesure de lui fournir une seule photo de la maison.
+[28] M. Carty a reconnu que le lot était grand comparativement aux autres lots du quartier et qu’il était bien situé parce qu’à l’arrière, il était attenant à des terres de la Commission de la capitale nationale et parce qu’il ne s’agissait pas d’un terrain d’angle.
+[29] Pour ce qui est de la méthode d’évaluation suivie, M. Carty a affirmé qu’il avait examiné les ventes de maison réalisées dans le secteur de janvier 2003 à janvier 2005 et recensé 69 biens résidentiels qui avaient été vendus au cours de cette période. Le prix de vente allait de 175 000 $ à 345 000 $, le prix moyen étant de 242 324 $ et le prix médian, de 236 000 $.
+[30] Dans cet échantillonnage, il recherchait des biens résidentiels qui présentaient un lot de superficie similaire ou un lot donnant sur un espace vert à l’arrière et une maison en semblable état. Il a trouvé au total six biens résidentiels qui, selon lui, satisfaisaient à au moins l’un de ces critères. Toutefois, il a déclaré qu’il n’avait pas réussi à trouver de bien résidentiel dont le lot présentait une superficie semblable et qu’il avait trouvé un seul bien résidentiel donnant sur un espace vert à l’arrière. Le prix moyen de ces six biens résidentiels s’élevait à 188 $ le pied carré, compte tenu de la superficie des maisons de l’échantillonnage. M. Carty a mentionné que, d’après son expérience, une démarche fondée sur la valeur au pied carré donne les résultats les plus précis. Il n’a apporté aucun rajustement à la valeur de chacun des biens résidentiels.
+[31] M. Carty a déclaré que l’état du bien aurait normalement dicté une juste valeur marchande inférieure à la valeur moyenne au pied carré en dollars. Toutefois, il a conclu que la superficie et l’emplacement du lot et l’état de la maison s’équivalaient, si bien qu’il a utilisé la moyenne de 188 $ le pied carré. Il a multiplié ce chiffre par 1 200 pieds carrés pour obtenir une valeur de 225 600 $ qu’il a arrondie à 225 000 $. Je souligne que, si les dimensions réelles de la maison étaient utilisées, le résultat serait de 231 804 $ (1 233 pieds carrés multipliés par 188 $ le pied carré).
+[32] M. Duckett a déclaré qu’il avait tiré ses renseignements au sujet du bien des sources dont il disposait et qu’il avait appliqué un raisonnement inductif et déductif pour formuler certaines hypothèses concernant le bien. En particulier, il a présumé que la maison était en bon état compte tenu du fait que le loyer exigé s’établissait au taux du marché et du fait que la maison pouvait être vendue séparément du lot[18]. À son avis, ce dernier fait permettait de penser que la maison devait être, [TRADUCTION] « dans une certaine mesure, un élément à conserver[19] ». Dans son rapport, M. Duckett mentionne que [traduction] « l’immeuble est réputé s’apparenter, du point de vue de la qualité et de l’état, aux immeubles résidentiels de plain-pied semblables ayant été construits à la même époque et vendus récemment dans le voisinage immédiat ».
+[33] M. Duckett a affirmé que l’ARC tient une base de données obtenue de la SÉFM depuis les années 1970 et qu’il s’est fié aux renseignements contenus dans cette base de données. Les recherches de M. Duckett ont permis de savoir que le lot avait une superficie de 14 171 pieds carrés, une maison de 1 233 pieds carrés de plain-pied, un sous‑sol de mêmes dimensions dont une partie finie de 237 pieds carrés, un garage souterrain de 248 pieds carrés et un garage détaché de 284 pieds carrés[20].
+[34] En ce qui a trait à la méthode d’évaluation, M. Duckett a fait des recherches dans les données du service interagences pour la période allant de décembre 1998 jusque [traduction] « vers 2004 » et trouvé 25 biens résidentiels. Il a ensuite fait une analyse de l’évolution du marché pour savoir s’il y avait une tendance dans l’établissement des prix et il a observé que les prix étaient passés de 148 000 $ en 1998 à 200 000 $ en 2004. Il a alors fait le tour du quartier et pris des photos des 25 biens résidentiels, ainsi que du bien en cause avec la nouvelle maison.
+[35] À partir des données sur les 25 biens résidentiels, il a conclu que les lots du secteur avaient une superficie moyenne de 6 000 à 7 000 pieds carrés et que les maisons faisaient en moyenne environ 1 000 pieds carrés, comparativement aux 14 171 pieds carrés pour le lot du bien en cause et aux 1 233 pieds carrés pour la maison.
+[36] M. Duckett a ensuite pris les trois biens résidentiels dont les lots présentaient la plus grande superficie. Dans le cas du premier bien résidentiel comparable, le lot avait 14 800 pieds carrés et la maison, 1 283 pieds carrés; il s’est vendu 248 000 $ en mars 2004. Dans le cas du deuxième bien résidentiel comparable, le lot avait 14 155 pieds carrés et la maison, 1 547 pieds carrés; il s’est vendu 281 000 $ en mai 2004. Dans le cas du troisième bien résidentiel comparable, le lot avait 10 527 pieds carrés et la maison, 1 100 pieds carrés; il s’est vendu 232 000 $ en juin 2004.
+[37] M. Duckett était d’avis qu’il importait de choisir les biens résidentiels les plus homogènes possible pour réduire au minimum les rajustements nécessaires pour les comparer. M. Duckett a aussi affirmé que les deux composantes les plus importantes quant à la valeur sont le terrain et les améliorations apportées au terrain.
+[38] M. Duckett a déclaré qu’il avait ensuite analysé la valeur du terrain séparément des améliorations apportées au terrain, ce qui, selon lui, permettrait d’apporter plus facilement des rajustements à la valeur des trois biens résidentiels comparables. Pour ce faire, il a utilisé un programme informatique qui a exécuté l’analyse en appliquant un processus itératif.
+[39] Cela lui a permis d’obtenir comme résultat une valeur pour le terrain au pied carré et une valeur comptable nette pour les améliorations. La valeur du terrain ainsi déterminée était considérée comme une constante. Toutefois, pour rajuster la valeur en tenant compte de la différence de superficie des lots, un chiffre correspondant à 50 % de la valeur au pied carré a été utilisé, en appliquant la théorie selon laquelle la moitié arrière d’un grand lot vaut la moitié de la valeur de la moitié avant. La valeur comptable nette des améliorations a été rajustée pour tenir compte des différences entre les améliorations apportées aux biens résidentiels.
+[40] À partir de cette démarche, M. Duckett a déterminé que la valeur rajustée du premier bien résidentiel comparable s’établissait à 260 000 $, que celle du deuxième bien résidentiel comparable s’établissait à 252 400 $ et que celle du troisième bien résidentiel comparable s’établissait à 261 900 $. Les rajustements sont décrits à la septième page du rapport d’évaluation de M. Duckett[21]. En tenant compte des valeurs rajustées, il a conclu que la juste valeur marchande du bien en cause en mars 2004 se chiffrait à 260 000 $.
+[41] Je note toutefois que le rajustement apporté pour la superficie du lot du premier bien résidentiel comparable comporte une erreur apparente. En effet, M. Duckett a ajouté 15 000 $ au prix de vente de ce bien résidentiel pour tenir compte d’une superficie qui compte 629 pieds carrés de plus que le bien en cause. Étant donné que le lot est plus grand, je me serai attendu à ce que le prix de vente du premier bien résidentiel comparable soit rajusté à la baisse pour compenser l’excédent de superficie. Pareil rajustement serait compatible avec l’explication donnée par M. Duckett quant à l’objectif des rajustements[22].
+[42] L’erreur apparente dans le rajustement de la valeur du lot du premier bien résidentiel comparable devient évidente lorsqu’on le compare avec le rajustement fait pour le lot plus petit du troisième bien résidentiel comparable : un montant de 22 000 $ a été ajouté au prix de vente de ce bien résidentiel[23]. Si l’on tient compte de ce rajustement pour déterminer le rajustement au pied carré appliqué aux lots, le rajustement du premier bien résidentiel comparable aurait dû être une diminution de la valeur d’environ 3 800 $ donnant une valeur rajustée de 241 200 $[24].
+III. La thèse des appelants [43] Les appelants affirment que le gain en capital de chacun d’eux devrait être calculé à partir d’un PBR de 152 770,72 $ pour le bien et d’un produit de disposition de 225 000 $. On obtient avec ces chiffres un gain en capital de 72 229,28 $, soit 36 114,64 $ pour chacun des appelants.
+[44] Les appelants soutiennent que le PBR total du bien qui doit être pris en compte à leur égard comprend le PBR de l’intérêt équivalant au tiers du bien acquis de la succession par Mme Bueti, le montant de 100 930 $ considéré comme le PBR du bien aux alinéas 12i) et 12j) des réponses respectives de Mme et M. Bueti et le montant de 930 $ mentionné au paragraphe 21 de leurs réponses respectives.
+[45] Les appelants prétendent que le PBR de l’intérêt équivalant au tiers du bien acquis de la succession par Mme Bueti était de 50 910 $. Ce montant correspond au tiers du PBR de la succession, qui s’établit à 150 000 $ suivant l’alinéa 70(5)a) de la Loi de l’impôt sur le revenu (la « LIR »), plus les taxes d’homologation applicables à ce montant, les frais juridiques de 630 $ et les frais d’enregistrement de 50 $.
+[46] Les appelants font valoir que le produit de disposition de 225 000 $ utilisé dans le calcul du gain en capital total est corroboré par l’évaluation de M. Carty et que c’est l’opinion de ce dernier sur la valeur du bien au moment de la donation en 2004 qui doit être retenue, et non celle de M. Duckett, parce que M. Carty a acquis beaucoup d’expérience en évaluant d’autres biens résidentiels dans le voisinage.
+IV. La thèse de l’intimée [47] L’intimée soutient que le testament de Domenico Papalia ne prévoyait pas que le bien ferait l’objet d’un legs spécifique à Mme Bueti, mais que le reliquat de la succession serait réparti à parts égales entre Mme Bueti, Diego Papalia et les quatre petits‑enfants. Comme personne n’avait droit au bien, les alinéas 69(1)c) et 70(5)b) de la LIR ne s’appliquaient pas pour faire en sorte que le bien soit réputé avoir été acquis par les bénéficiaires à sa juste valeur marchande.
+[48] L’intimée soutient que les appelants ont en fait acheté le bien de la succession pour 50 000 $, comme en font foi l’acte de transfert et l’hypothèque concomitante, ce qui donnerait normalement un prix de base rajusté de 50 000 $ plus les frais connexes pour l’ensemble du bien. Toutefois, l’intimée a reconnu qu’elle ne pouvait pas à ce stade aussi tardif rajuster le PBR au-dessous du montant inscrit dans les nouvelles cotisations, qui était fixé à 100 930 $. Par conséquent, l’intimée maintient que le PBR du bien dans le cadre des présents appels est de 100 930 $.
+[49] L’intimée fait valoir que la donation du bien par les appelants à leur fils et à leur belle‑fille le 11 mars 2004 est à l’origine du produit de disposition de 260 000 $, à savoir la juste valeur marchande du bien au moment de la donation. L’intimée soutient que c’est l’évaluation de M. Duckett qui doit être retenue, et non celle de M. Carty, parce que celle de M. Duckett se fondait sur des hypothèses établies à partir de sources objectives telles que la SÉFM, et non à partir des renseignements fournis par Mme Bueti, qu’elle n’a pas été effectuée hâtivement et qu’elle utilisait à des fins de comparaison des biens résidentiels dont les lots présentaient des superficies similaires. L’intimée a affirmé que la superficie et l’état du lot étaient des facteurs importants, qui n’avaient pas été totalement pris en considération dans l’évaluation de M. Carty.
+V. Analyse [50] Le paragraphe 70(5) de la LIR traite des conséquences fiscales du décès d’une personne qui possède des immobilisations au moment de son décès. Cet article est en partie rédigé de la façon suivante :
+(5) Immobilisations d’un contribuable décédé – En cas de décès d’un contribuable au cours d’une année d’imposition, les présomptions suivantes s’appliquent :
+a) le contribuable est réputé avoir disposé, immédiatement avant son décès, de chacune de ses immobilisations et avoir reçu de leur disposition un produit égal à leur juste valeur marchande immédiatement avant son décès;
+b) toute personne qui, par suite du décès du contribuable, acquiert un bien dont celui‑ci est réputé avoir disposé aux termes de l’alinéa a) est réputée avoir acquis le bien au moment du décès à un coût égal à sa juste valeur marchande immédiatement avant le décès;
+[51] Suivant l’alinéa 70(5)a) de la LIR, Domenico Papalia est réputé avoir disposé du bien immédiatement avant son décès et avoir reçu un produit de disposition égal à la juste valeur marchande du bien à ce moment‑là. De plus, la personne qui a acquis le bien par suite du décès de Domenico Papalia est réputée l’avoir acquise à un coût égal à cette même juste valeur marchande. Je souligne qu’en l’espèce, la règle plus spécifique énoncée à l’alinéa 70(5)b) de la LIR l’emporte sur la règle générale énoncée à l’alinéa 69(1)c) de la LIR, qui s’applique « [s]auf disposition contraire expresse de la présente loi ».
+[52] La question soulevée par rapport à l’alinéa 70(5)b) de la LIR est celle de savoir qui a acquis le bien au décès de Domenico Papalia? Les articles 2 et 3 du testament de Domenico Papalia (pièce A-1) sont rédigés de la façon suivante :
+[traduction]
+2. FIDUCIAIRES ET EXÉCUTEURS
+JE NOMME ET DÉSIGNE, PAR LES PRÉSENTES, mon fils, DIEGO PAPALIA, et ma fille, SERAFINA BUETI, comme mes fiduciaires et exécuteurs testamentaires.
+JE DÉCLARE que les termes « fiduciaire » ou « fiduciaires » employés dans le présent testament désignent ou comprennent le fiduciaire, la fiduciaire, les fiduciaires, l’exécuteur, l’exécutrice ou les exécuteurs de mon testament, dans sa version originale ou modifiée, à ce moment-ci ou lorsqu’il y aura lieu.
+3. TRANSFERT À MES FIDUCIAIRES
+JE DONNE ET LÈGUE à mes fiduciaires l’universalité de mes biens, meubles et immeubles, de quelque nature qu’ils soient et où qu’ils soient, y compris ceux sur lesquels je détiens un pouvoir général de désignation, avec le mandat suivant :
+DETTES ET DROITS DE SUCCESSION
+a) Acquitter, à partir du capital de ma succession, l’ensemble de mes dettes légitimes, de mes frais funéraires et testamentaires ainsi que tous les droits successoraux et autres impôts imposés par la loi, là où elle s’applique, qui peuvent être exigibles par suite du transfert d’un bien (ou du transfert réputé d’un bien selon la loi applicable) à mon décès ou en raison d’une assurance sur ma vie ou d’une donation entre vifs, d’un droit de survie ou d’un avantage accordé durant ma vie ou dans le présent testament ou un codicille, peu importe que ces droits ou impôts soient exigibles relativement à des droits dévolus à mon décès ou ultérieurement; j’autorise par les présentes mes fiduciaires à retarder, commuer ou payer à l’avance ces droits ou impôts. Les présentes instructions ne visent pas les impôts exigibles d’un acheteur ou d’un bénéficiaire sur un bien acquis ou transféré à mon décès ou ultérieurement en vertu d’une entente concernant ce bien.
+RELIQUAT
+b) RÉPARTIR le reliquat de ma succession en trois (3) parts égales : la PART A consistant en trente‑trois et un tiers pour cent (33 1/3 %) de ce reliquat, la PART B consistant en trente‑trois et un tiers pour cent (33 1/3 %) de ce reliquat et la PART C consistant en trente‑trois et un tiers pour cent (33 1/3 %) de ce reliquat. Mes fiduciaires devront :
+(i) Payer ou transférer la PART A à mon fils, DIEGO PAPALIA. Si mon fils venait à décéder avant la date de la répartition des biens de la succession, la PART A sera répartie en parts égales entre les enfants survivants de mon fils à cette date. S’il n’y a aucun enfant survivant à mon fils à cette date, la PART A sera répartie à parts égales entre les autres parts conformément à ce qui a été prévu précédemment, et sera administrée avec celles-ci comme une partie de ma succession de manière respective.
+(ii) Payer ou transférer la PART B à ma fille, SERAFINA BUETI. Si ma fille venait à décéder avant la date de la répartition des biens de la succession, la PART B sera répartie en parts égales entre les enfants survivant de ma fille à cette date. S’il n’y a aucun enfant survivant à ma fille à cette date, la PART B sera répartie à parts égales entre les autres parts conformément à ce qui a été prévu précédemment, et sera administrée avec celles-ci comme une partie de ma succession de manière respective.
+(iii) Répartir la PART C en parts égales entre mes petits‑enfants, à savoir DOMENIC PAPALIA, AGOSTINO PAPALIA, GUISEPPE PAPALIA et RICHARD PAPALIA, s’ils sont encore en vie à la date de mon décès. Si l’un de mes petits‑enfants venait à décéder avant moi et que la question présente un intérêt à la date de mon décès, la part de ma succession à laquelle ce petit‑enfant aurait eu droit s’il m’avait survécu sera répartie en parts égales par souche.
+[53] Il est manifeste à la lecture du testament que les biens de Domenico Papalia à son décès étaient légués aux fiduciaires et aux exécuteurs de la succession désignés dans ce testament et que Mme Bueti avait droit au tiers du reliquat de la succession. Il est également manifeste que le bien n’était pas légué en nature à M. Bueti, pas plus qu’aux autres bénéficiaires de la succession.
+[54] Au moment de son décès, Domenico Papalia habitait en Ontario. Par conséquent, le testament doit être interprété en corrélation avec les dispositions de la Loi sur l’administration des successions (Ontario) (la « LAS »)[25]. Le paragraphe 2(1) de la LAS dispose ce qui suit :
+Les biens meubles et immeubles qui sont dévolus à une personne, et sur lesquels une autre personne n’a pas de gain de survie, sont à son décès, qu’elle décède intestat ou non, et malgré toute disposition testamentaire, dévolus à son représentant successoral. Celui-ci les détient à titre de fiduciaire pour les personnes qui y ont légalement droit à titre bénéficiaire. Sous réserve du paiement des dettes du défunt et de disposition valable, notamment par acte scellé, testament ou contrat, les biens sont administrés et distribués comme s’il s’agissait de biens meubles n’ayant pas fait l’objet d’une disposition.
+[55] L’effet de cette disposition est qu’à son décès, les biens meubles et immeubles de Domenico Papalia étaient dévolus à ses représentants successoraux. Le professeur Oosterhoff affirme que [traduction] « [l]e paragraphe 2(1) fait en sorte […] que les biens meubles et les biens immeubles sont dévolus au représentant successoral qui agit à titre de fiduciaire pour rembourser les dettes du défunt et distribuer la succession[26] ». Par conséquent, en plus du testament, il faut tenir compte des dispositions de la LAS suivant lesquelles, au décès de Domenico Papalia, le bien a été transféré et dévolu aux personnes désignées comme ses fiduciaires et exécuteurs conformément au paragraphe 2 de son testament[27].
+[56] En ce qui a trait à la nature de l’intérêt des bénéficiaires dans le bien immédiatement après le décès de Domenico Papalia, la Cour d’appel de l’Ontario a confirmé dans l’arrêt 909403 Ontario Ltd. v. DiMichele[28] que le droit au reliquat d’une succession testamentaire n’équivaut pas à un intérêt dans des éléments d’actif particuliers de la succession. Dans cette affaire, la cour a conclu que, puisque les éléments d’actif de la succession n’avaient pas été distribués au moment pertinent, les bénéficiaires n’avaient pas d’intérêt dans le bien immeuble détenu par la succession[29].
+[57] Dans une décision antérieure, Spencer v. Riesberry[30], la Cour d’appel de l’Ontario a affirmé que [traduction] « [à] moins qu’il ne soit expressément prévu le contraire dans l’acte de fiducie, un bénéficiaire n’a aucun intérêt dans un élément d’actif particulier de la fiducie, avant qu’il ne lui soit attribué par le fiduciaire ou en l’absence de pareille attribution ».
+[58] À l’appui de cette déclaration, la cour a cité avec approbation la décision Gennaro v. Gennaro[31], où la Cour unifiée de la famille de l’Ontario a examiné la question de savoir si l’intérêt d’un bénéficiaire dans le reliquat d’une succession constituait un intérêt dans les éléments d’actif de la succession. Le juge Steinberg a conclu que le bénéficiaire testamentaire n’avait pas d’intérêt dans le bien immeuble en question parce que le testament ne lui accordait pas un intérêt particulier dans ce bien. Dans son administration de la succession, le représentant successoral avait entière discrétion pour accomplir les tâches prévues au testament, et le bénéficiaire n’avait pas le droit d’exiger que lui soit cédé le bien immeuble.
+[59] Compte tenu des modalités du testament en l’espèce, de la règle de droit établie au paragraphe 2(1) de la LAS et de la jurisprudence dont il a été question dans les paragraphes précédents, je n’hésite pas à conclure qu’au décès de Domenico Papalia, le bien a été dévolu à Diego Papalia et à Serafina Bueti en leur qualité de fiduciaires et d’exécuteurs testamentaires[32]. Toutefois, Serafina Bueti et les autres bénéficiaires désignés à l’alinéa 3b) du testament n’ont pas acquis le bien par suite du décès de Domenico Papalia. Je rejette donc l’argument des appelants selon lequel Mme Bueti est réputée, suivant l’alinéa 70(5)b) de la LIR, avoir acquis une partie du bien, puisqu’elle ne l’a pas acquise en sa qualité personnelle au moment du décès de Domenico Papalia.
+[60] L’alinéa 70(5)b) de la LIR est toutefois une disposition pertinente en l’espèce. Le paragraphe 104(1) prévoit notamment ce qui suit :
+104.(1) Fiducie ou succession – Dans la présente loi, la mention d’une fiducie ou d’une succession (appelées « fiducie » à la présente sous-section) vaut également mention, sauf indication contraire du contexte, du fiduciaire, de l’exécuteur testamentaire, de l’administrateur successoral, du liquidateur de succession, de l’héritier ou d’un autre représentant légal ayant la propriété ou le contrôle des biens de la fiducie.
+[61] Suivant le paragraphe 104(1) de la LIR, la succession est réputée être une fiducie pour l’application de la sous‑section k de la section B de la partie I de la LIR[33]. Suivant le paragraphe 104(2) de la LIR, la succession est réputée, quant à elle, être un particulier relativement aux biens de la succession. Par conséquent, de manière générale, la succession est assujettie à l’impôt en vertu de la LIR comme si elle était un particulier.
+[62] Suivant le paragraphe 104(1) de la LIR, une fiducie ou une succession s’entend notamment du fiduciaire ou de l’exécuteur testamentaire ayant le contrôle des biens de la fiducie. Le bien a été dévolu aux fiduciaires et aux exécuteurs testamentaires et, par conséquent, c’est la succession qui est réputée, selon l’alinéa 70(5)b) de la LIR, avoir acquis le bien à un coût égal à sa juste valeur marchande immédiatement avant le décès de Domenico Papalia.
+[63] Il reste maintenant la question de savoir ce qu’il est advenu du bien après son acquisition par la succession. Les seuls éléments de preuve documentaire établissant une opération visant le bien après sa dévolution aux fiduciaires et aux exécuteurs de la succession sont le document général (pièce A-5), l’acte de transfert (pièce A-6) et la lettre de l’avocat datée du 13 novembre 2000 qui donne aux appelants un état de compte en fiducie (pièce A-7). L’acte de transfert a été déposé auprès du bureau d’enregistrement une minute après le document général. Celui‑ci désignait Serafina Bueti et Diego Papalia comme propriétaires inscrits en leur qualité de fiduciaires testamentaires.
+[64] L’acte de transfert, qui a été déposé au bureau d’enregistrement immédiatement après le dépôt du document général, fait état du transfert du bien de Diego Papalia et de Serafina Bueti, en leur qualité de fiduciaires testamentaires, à Serafina Bueti et à Joseph Bueti en tant que tenants conjoints. La contrepartie du transfert y est établie à 50 000 $.
+[65] Le paragraphe 5 de l’acte de transfert est rédigé en ces termes :
+[traduction]
+Si la contrepartie est symbolique, décrire la relation entre l’auteur du transfert et son bénéficiaire et préciser l’objet du transfert. (Voir les instructions.)
+[66] Sous ce paragraphe apparaissent les mots [traduction] « Conformément au testament de Domenic Papalia (père) ». Les appelants laissent entendre que cette déclaration confirme que le transfert a été effectué en conformité avec le testament et que le montant de 50 000 $ établi comme contrepartie reflète l’intérêt correspondant au tiers du bien que Serafina Bueti détenait dans celle‑ci en vertu du testament. Autrement dit, ce montant devrait être ajouté au montant de 100 000 $ qui, au dire des appelants, a été versé pour acquérir le reste du bien des autres bénéficiaires.
+[67] Je ne peux retenir cette thèse pour quatre raisons. Premièrement, Serafina Bueti ne détenait pas un tiers du bien en vertu du testament pour les raisons que j’ai déjà mentionnées et, par conséquent, l’alinéa 70(5)b) ne pouvait être appliqué pour attribuer à Mme Bueti une partie du coût du bien.
+[68] Deuxièmement, la preuve ne permet d’établir qu’un intérêt correspondant au tiers du bien a été transféré par les fiduciaires testamentaires à Serafina Bueti lors de la distribution du bien en nature aux bénéficiaires du reliquat de la succession. En fait, l’acte de transfert indique clairement que le bien en entier était transféré de la succession à Joseph et Serafina Bueti en tant que tenants conjoints.
+[69] Troisièmement, Joseph Bueti n’est pas un bénéficiaire désigné au testament et il ne pouvait donc pas avoir droit à un intérêt de 50 % dans le bien [traduction] « [c]onformément au testament de Domenic Papalia (père) ».
+[70] Enfin, le libellé du paragraphe 5 de l’acte de transfert présuppose que la contrepartie est symbolique, et des renseignements additionnels y sont demandés. Comme la contrepartie n’était pas symbolique mais bien, tel qu’il était mentionné à la première page de l’acte de transfert, d’un montant de 50 000 $, il n’y a pas lieu de répondre à cette question, et la réponse entrée est inutile et incompatible avec le reste de l’acte.
+[71] En ce qui a trait au véritable PBR du bien pour les appelants, la pièce A-7 révèle qu’un montant de 50 000 $ a été versé à Diego Papalia à partir du produit de l’hypothèque de 55 000 $ grevant le bien. Mme Bueti a déclaré dans son témoignage que ce montant n’était qu’une partie de la contrepartie payée aux autres bénéficiaires de la succession et qu’elle avait versé, à partir de ses propres fonds, un autre montant de 50 000 $ aux petits‑enfants. Je remarque toutefois que la preuve ne permet pas d’établir que le bien a d’abord été transféré aux autres bénéficiaires de la succession puis vendu aux appelants. Par conséquent, je ne comprends pas du tout comment les appelants auraient pu acheter le bien des autres bénéficiaires. Le seul transfert de propriété enregistré est celui qui a été effectué directement entre les fiduciaires testamentaires et les appelants, et il a été fait immédiatement après l’enregistrement du bien aux noms des fiduciaires de la succession.
+[72] En tout état de cause, mis à part le témoignage de Mme Bueti, rien n’indique qu’un autre montant de 50 000 $ a été versé aux petits‑enfants. Qui plus est, Mme Bueti n’arrivait pas à se rappeler les détails de ce versement, ni même s’il avait été fait par chèque ou par traite bancaire. Si un autre montant de 50 000 $ a été effectivement versé, on pourrait s’attendre à ce qu’il existe un document quelconque, que ce soit un chèque payé, la copie conforme d’une traite bancaire ou une copie d’un relevé bancaire. Subsidiairement, on aurait pu s’attendre à ce qu’un ou plusieurs des destinataires du paiement soient appelés à témoigner quant au montant reçu. Aucune preuve du genre n’a été présentée. Par conséquent, je ne crois pas qu’il y ait eu d’autres versements que celui de 50 000 $ fait à Diego Papalia, lequel est mentionné dans la pièce A-7. La raison pour laquelle ce montant de 50 000 $ a été versé directement à Diego Papalia, et non pas à la succession, demeure inexpliquée.
+[73] D’autres détails concernant la succession ont eu pour effet de mettre en doute le témoignage et la crédibilité de Mme Bueti. Ainsi, elle n’arrivait pas à se rappeler ou à expliquer ce qui était arrivé au reliquat de la succession, évalué aux fins d’homologation à 224 608 $ (pièce A-2). Elle a laissé entendre que la société 969270 Ontario Inc. avait été liquidée avant le décès de son père, mais cela ne concorde pas avec les éléments d’actif déclarés pour homologation, qui comprenaient un [traduction] « billet à recevoir de 969270 Ontario Inc. » de 177 300 $ et [traduction] « 216 actions privilégiées de catégorie A de 969270 Ontario Inc. » d’une valeur de 22 000 $. Le fait pour un fiduciaire ou un exécuteur testamentaire de ne pas se rappeler ce qu’il est advenu d’un montant de 224 608 $ inclus dans l’actif d’une succession de 374 608 $ dépasse l’entendement, même si la disposition a eu lieu il y a un certain temps.
+[74] Par conséquent, le seul élément de preuve digne de foi de la contrepartie payée pour le bien est le montant de 50 000 $ établi par l’acte de transfert et le paiement concomitant de 50 000 $ à Diego Papalia financé par l’hypothèque. Je suis d’avis qu’il s’agit d’un seul et même paiement. Par conséquent, le coût du bien pour les appelants se chiffrait à 50 930 $, à savoir le montant de 50 000 $ établi par l’acte de transfert plus les frais de 930 $ se rapportant à l’acquisition (à savoir, les frais juridiques de 630 $, les droits de cession immobilière de 250 $ et les frais d’enregistrement de 50 $).
+[75] En ce qui a trait à la juste valeur marchande du bien au moment de la donation le 11 mars 2004, la preuve d’expert me porte à croire que la valeur se situe entre 231 804 $ et 241 200 $. Ces chiffres correspondent respectivement à la valeur au pied carré déterminée par M. Carty multipliée par la superficie du rez‑de‑chaussée de la maison et la valeur du premier bien résidentiel comparable dans l’évaluation de M. Duckett que j’ai rajustée pour corriger l’erreur apparente. Je souligne que le premier bien résidentiel comparable est très similaire au bien en cause, tant pour la superficie du lot que pour la superficie de la maison.
+[76] Compte tenu du fait que ni l’un ni l’autre des experts n’ont eu la possibilité de voir la maison d’origine sur le bien, l’évaluation de sa valeur en l’espèce s’est révélée encore plus un art que d’ordinaire parce qu’il y a peu d’éléments de preuve sur l’état de la maison. Mme Bueti a déclaré que la maison était en piètre état parce qu’elle était occupée par un homme âgé qui fumait beaucoup. Elle n’avait cependant pas une seule photo de la maison, même si son père y avait vécu pendant plus de 40 ans et même si cette maison avait une valeur sentimentale pour elle.
+[77] Mme Bueti a également déclaré qu’elle visitait son père [traduction] « [d]eux fois par jour, tous les jours ». Je ne suis pas convaincu qu’elle aurait laissé son père vivre dans un environnement aussi peu convenable si elle le visitait deux fois par jour. De plus, la description qu’elle a donnée de la maison est contredite par le fait qu’elle a été louée au taux de location du marché après avoir été nettoyée et repeinte à l’intérieur, et par le fait qu’elle a en fin de compte été vendue à un tiers, séparément du terrain, au lieu d’être démolie.
+[78] Malgré les réserves que j’ai exprimées quant à la description de la maison donnée par Mme Bueti, je reconnais qu’il se peut que la maison ait été dans un état moins bon que la normale. Par conséquent, je suis d’avis que la valeur devrait être fixée à 236 500 $, parce qu’elle reflète ce que je considère comme étant le point à mi-chemin entre les deux évaluations faites par les experts. Compte tenu du fait que ni l’un ni l’autre n’ont eu la possibilité de voir la maison et que les évaluations que j’ai rajustées sont très proches, je crois que cette conclusion est juste eu égard aux circonstances.
+[79] Pour les motifs exposés ci‑dessous, les appels sont accueillis et les nouvelles cotisations sont déférées au ministre du Revenu national pour qu’il procède à un nouvel examen et qu’il établisse de nouvelles cotisations en tenant pour acquis que le produit de disposition réputé résultant de la donation du bien le 11 mars 2004 se chiffrait à 236 500 $. Le PBR du bien utilisé pour l’établissement des nouvelles cotisations ne doit pas être modifié. Eu égard aux circonstances, aucuns dépens ne sont adjugés.
+Signé à Ottawa, Canada, ce 29e jour d’octobre 2015.
+« J. R. Owen »
+Juge Owen
+Traduction certifiée conforme
+ce 4e jour de mars 2016.
+Mario Lagacé, jurilinguiste
+RÉFÉRENCE :
+2015 CCI 265
+NOS DES DOSSIERS DE LA COUR :
+2013-3075(IT)G et 2013-3076(IT)G
+INTITULÉS :
+JOSEPH BUETI c. SA MAJESTÉ LA REINE
+SERAFINA BUETI c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Ottawa, Canada
+DATE DE L’AUDIENCE :
+Le 24 juin 2015
+MOTIFS DU JUGEMENT:
+L’honorable juge John R. Owen
+DATE DU JUGEMENT :
+Le 29 octobre 2015
+COMPARUTIONS :
+Avocate des appelants :
+Me Frances M. Viele
+Avocat de l’intimée
+Me Jack Warren
+AVOCATS INSCRITS AU DOSSIER :
+Pour les appelants :
+Nom :
+Frances M. Viele
+Ville :
+Ottawa, Canada
+Pour l’intimée :
+William F. Pentney
+Sous‑procureur général du Canada
+Ottawa, Canada
+[1] Ligne 24 de la page 131 de la transcription de l’audience des appels, le 24 juin 2015 (la « transcription »).
+[2] Lignes 13 à 28 de la page 132, lignes 1 à 6 et 25 à 28 de la page 133, page 134, et lignes 1 à 5 de la page 135 de la transcription.
+[3] Lignes 7 à 12 de la page 133 de la transcription.
+[4] Ligne 14 de la page 135 de la transcription.
+[5] Lignes 9 à 20 de la page 155 de la transcription.
+[6] Lignes 25 à 28 de la page 154 et lignes 1 à 4 de la page 155 de la transcription.
+[7] Lignes 25 à 28 de la page 149, page 150, lignes 1 à 6 de la page 151, lignes 26 à 28 de la page 153 et lignes 1 à 18 de la page 154 de la transcription.
+[8] Lignes 7 à 10 de la page 151 de la transcription.
+[9] Lignes 5 à 28 de la page 129 et lignes 1 à 6 de la page 130 de la transcription.
+[10] Lignes 1 à 6 de la page 130 de la transcription.
+[11] Lignes 19 à 28 de la page 130 et ligne 1 de la page 131 de la transcription.
+[12] Lignes 2 à 9 de la page 131 de la transcription.
+[13] Lignes 22 à 28 de la page 151, page 152 et lignes 1 à 9 de la page 153 de la transcription.
+[14] Lignes 17 à 25 de la page 153 de la transcription.
+[15] Lignes 1 à 6 de la page 149 de la transcription.
+[16] Lignes 7 à 28 de la page 146 et lignes 1 à 3 de la page 147 de la transcription.
+[17] Lignes 16 à 21 de la page 31 de la transcription.
+[18] Lignes 12 à 25 de la page 65 de la transcription.
+[19] Ligne 20 de la page 65 de la transcription.
+[20] Lignes 5 à 25 de la page 55 de la transcription.
+[21] Pièce R-5 de l’onglet 1 du recueil de documents de l’intimée, qui commence à la page 24 de l’onglet. La septième page porte le numéro de page 30 de l’onglet.
+[22] Lignes 26 à 28 de la page 106 et lignes 1 à 20 de la page 107 de la transcription.
+[23] Il ne fait aucun doute que c’est la différence de seulement 16 pieds carrés qui explique qu’aucun rajustement n’est fait pour la superficie du lot du deuxième bien résidentiel comparable.
+[24] Si la valeur utilisée correspond à la moitié de la valeur du terrain au pied carré mentionnée à la page 7 (à savoir 6,25 $ le pied carré), le rajustement est une réduction de 3 931,25 $.
+[25] L.R.O. 1990, chap. E.22.
+[26] Albert H. Oosterhoff, Oosterhoff on Wills and Succession, 7e éd. (Toronto, Carswell, 2011), à la page 62.
+[27] Cela est également vrai pour les autres éléments d’actif qui constituent des biens meubles et immeubles.
+[28] 909403 Ontario Ltd v. DiMichele, 2014 ONCA 261, aux paragraphes 103 et 104.
+[29] Le principe selon lequel les bénéficiaires du reliquat de la succession n’ont pas d’intérêt dans le bien particulier détenu par la succession remonte à la décision du Conseil privé dans la décision Commissioner of Stamp Duties (Queensland) v. Livingston, [1965] A.C. 694.
+[30] Spencer v. Riesberry, 2012 ONCA 418, au paragraphe 37.
+[31] Gennaro v. Gennaro, [1994] O.J. No. 183 (QL), au paragraphe 7.
+[32] La propriété est établie en bonne et due forme à la pièce A-5, intitulée [traduction] « Document général », où Diego Papalia et Serafina Bueti demandent à être inscrits comme propriétaires du bien en leur qualité de fiduciaires testamentaires, en date du 11 juillet 2000.
+[33] Le paragraphe 248(1) de la LIR renvoie à cette définition pour l’application de la LIR. Le 12 décembre 2013, la définition de « fiducie » donnée au paragraphe 248(1) de la LIR a été modifiée par l’ajout des mots « et, sauf indication contraire du contexte, comprend une succession ». Il est mentionné ce qui suit dans les notes techniques qui accompagnent cette modification : « La définition de “fiducie” attribue à ce terme, aux fins de la Loi, le sens qui lui est donné au paragraphe 104(1). La définition est modifiée afin de préciser qu’un renvoi à une fiducie dans la Loi comprend, sauf indication contraire du contexte, une succession. »

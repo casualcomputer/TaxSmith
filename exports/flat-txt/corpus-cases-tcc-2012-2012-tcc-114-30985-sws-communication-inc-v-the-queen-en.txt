@@ -1,0 +1,167 @@
+Title: SWS Communication Inc. v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30985/index.do
+Corpus path: corpus/cases/tcc/2012/2012-tcc-114-30985-sws-communication-inc-v-the-queen-en.md
+Document type: case_law
+Last modified: 2012-04-04
+
+# SWS Communication Inc. v. The Queen
+
+- Citation: 2012 TCC 114
+- Decision date: 2012-04-04
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4804, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+SWS Communication Inc. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2012-04-04
+Neutral citation
+2012 TCC 114
+File numbers
+2009-3624(GST)G, 2009-3625(GST)G, 2010-1733(GST)G
+Judges and Taxing Officers
+Robert James Hogan
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Dockets: 2010-1733(GST)G,
+2009-3624(GST)G
+BETWEEN:
+SWS COMMUNICATION INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on common evidence with the appeal of
+Centre les Voyages Miracle Inc. (2009-3625(GST)G)
+on February 7, 2012, at Montreal, Quebec.
+Before: The Honourable Justice Robert J. Hogan
+Appearances:
+Counsel for the Appellant:
+Caroline Desrosiers
+Nicolas Simard
+Counsel for the Respondent:
+Benoît Denis
+____________________________________________________________________
+JUDGMENT
+The appeals of the appellant from the assessments made under Part IX of the Excise Tax Act for the period from May 2006 to February 2007 and for the month of July 2007 are allowed and the matter is referred back to the Minister of Revenu Québec for reconsideration and reassessment in accordance with the attached reasons for judgment.
+The parties will have 30 days to agree on costs, failing which each of the respondent, Centre les Voyages Miracle Inc. and the appellant shall file written submissions-not to exceed 10 pages for each party–on costs.
+Signed at Vancouver, British Columbia, this 4th day of April 2012.
+"Robert J. Hogan"
+Hogan J.
+Docket: 2009-3625(GST)G
+BETWEEN:
+CENTRE LES VOYAGES MIRACLE INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeals of
+SWS Communication Inc. (2010-1733(GST)G and 2009-3624(GST)G)
+on February 7, 2012, at Montreal, Quebec.
+Before: The Honourable Justice Robert J. Hogan
+Appearances:
+Counsel for the Appellant:
+Caroline Desrosiers
+Counsel for the Respondent:
+Benoît Denis
+____________________________________________________________________
+JUDGMENT
+The appeal of the appellant from the assessment made under Part IX of the Excise Tax Act for the period from February 1, 2006 to October 31, 2006 is allowed and the matter is referred back to the Minister of Revenu Québec for reconsideration and reassessment in accordance with the attached reasons for judgment.
+The parties will have 30 days to agree on costs, failing which each of the respondent, SWS Communication Inc. and the appellant shall file written submissions‑not to exceed 10 pages for each party–on costs.
+Signed at Vancouver, British Columbia, this 4th day of April 2012.
+"Robert J. Hogan"
+Hogan J.
+Citation: 2012 TCC 114
+Date: 20120404
+Dockets: 2010-1733(GST)G, 2009-3624(GST)G,
+2009-3625(GST)G
+BETWEEN:
+SWS COMMUNICATION INC.,
+CENTRE LES VOYAGES MIRACLE INC.,
+Appellants,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Hogan J.
+I. INTRODUCTION
+[1] The appeals of SWS Communication Inc. (“SWS”) and Centre les Voyages Miracle Inc. (“CMI”) were heard on common evidence at the request of the parties.
+[2] The Minister of Revenu Québec (the “Minister”), acting on behalf of the Minister of National Revenue, assessed SWS for its alleged failure to collect goods and services tax (“GST”) in the amount of approximately $101,164.74 on the supply of telecommunication services to BMT America LLC (“BMT America”) for the period from May 2006 to February 2007 and for the month of July 2007.
+[3] The Minister also assessed CMI for its failure to collect GST in the amount of approximately $7,399 on the supply of telecommunication services to Convergia Inc. (“Convergia”) for the period from February 1, 2006 to October 31, 2006.
+[4] The appellant alleges that the supplies in dispute were zero-rated under section 22.1 of Part V of Schedule VI of the Excise Tax Act (the “ETA”). Therefore, it denies that it failed to collect GST.
+[5] In very general terms, section 22.1 provides for a zero rate of GST in respect of the export of telecommunication services to a non-resident person who is not a registrant under the ETA and who acquires the services for use in a telecommunication business carried on outside of Canada.
+[6] The respondent denies that section 22.1 is applicable because she believes that BMT America and Convergia were deemed to be resident in Canada in connection with the receipt of the supplies because they had permanent establishments in Canada at all relevant times. The respondent relies on subsection 132(2) of the ETA, which deems a person to be resident in Canada in the circumstances described in that provision.
+II. FACTUAL BACKGROUND
+[7] The evidence shows that SWS and CMI, which were incorporated in Canada and based in the Montreal region, operated as wholesale service providers in the voice over internet protocol (“VOIP”) telecommunication industry. They negotiated wholesale pricing arrangements with carriers for the transmission of VOIP communications over the Internet. In turn, SWS and CMI provided access to these Internet pathways to other wholesale VOIP service providers at a slight mark-up on their per‑minute cost.
+[8] SWS called Jeff Wexler as an expert witness to provide an overview of the technologies and transmission techniques for the delivery of voice communications over the Internet. Mr. Wexler also provided insight on how SWS and BMT America did business together, based on first-hand knowledge of the situation. At all material times, Mr. Wexler held a 16.66% interest in BMT America and was an employee in its Montreal office.
+[9] According to the witness, VOIP refers to communications that are transmitted over the Internet rather than through traditional phone lines. The first step in a VOIP call is the conversion of an analog signal to a digital signal consisting of two separate but related digital packets of information. This occurs at the origination point of the call. The signal packet of the digital stream (the “Signal Packet”) contains the instructional information that allows the VOIP call to be routed through the Internet pathways designated by the VOIP service providers that are active on the call. The Signal Packet also contains information on the duration of the call to enable billing. The media packet contains the digitalized voice or media information (the “Content Packet”). The Content Packet is often transmitted separately from the Information Packet, along a more direct pathway to avoid any lag in the communication. On the receiving end, referred to as the termination point, similar steps occur in reverse order. The Content Packet is converted from a digital to an analog signal that reproduces the original voice call.
+[10] According to Mr. Wexler, in the periods under review SWS granted BMT America the right to direct VOIP calls over Internet pathways situated outside Canada for which SWS had arranged transmission rights. These routes were used to transmit VOIP calls originating in the Southwest and Southeast of the United States to termination points outside of Canada and the United States.
+[11] Mr. Wexler acknowledged that he worked out of BMT America’s Montreal office. However, he explained that BMT America’s principal place of business was the United States, the place of its incorporation. The communication equipment used by BMT America to transmit VOIP calls was located in the United States. A back-up server was located in the Montreal office for the completion of VOIP calls only if the equipment located in the United States failed.
+[12] According to the witness, the equipment in the United States did not fail and the equipment located in Canada was not used to complete VOIP calls.
+[13] Mr. Wexler also explained that the Signal Packet of VOIP calls was switched to SWS from BMT America’s server located in the United States. No information was transmitted in the opposite direction from SWS to BMT America.
+[14] The evidence presented on behalf of CMI was sparse. Documentary evidence shows that Convergia was incorporated under and governed by the laws of the United States. Invoices presented in evidence show that Convergia was billed in US dollars for international VOIP calls terminating outside of Canada.
+[15] Glenn Hart, the Revenu Québec auditor responsible for issuing the assessments under review, was the only witness to appear for the respondent. He explained that he interviewed Mr. Wexler and learned that Mr. Wexler was responsible for negotiating wholesale price arrangements with Canadian carriers for the transmission of VOIP calls. He also learned that Mr. Wexler carried on in Montreal some programming activities that were required in order to open Internet pathways for BMT America’s VOIP communication business. It appears from Mr. Hart’s testimony and documents drafted by Mr. Hart that he believed he could consider both BMT America and Convergia as persons resident in Canada if he found or assumed that they had permanent establishments in Canada.
+III. ANALYSIS
+[16] These appeals require me to determine whether the appellants exported zero‑rated telecommunication services to BMT America and Convergia. Section 22.1 provides for a zero rate of GST for telecommunication services exported in the circumstances therein stated:
+22.1 [Telecommunication service] – A supply of a telecommunication service where the supply is made, by a registrant who carries on the business of supplying telecommunication services, to a non-resident person who is not a registrant and who carries on such a business, but not including a supply of a telecommunication service where the telecommunication is emitted and received in Canada.
+[Emphasis added.]
+[17] A supply must satisfy the following conditions to be treated as a zero-rated telecommunication service:
+a. The supply must be a telecommunication service;
+b. The supplier must be a GST registrant that carries on a telecommunication business;
+c. The recipient of the supply must be a non-resident of Canada that carries on a telecommunication business, provided it is not a GST registrant; and
+d. The telecommunication must not be emitted and received in Canada.
+[18] The respondent argues that all of these conditions are met save one. According to the respondent, BMT America and Convergia are deemed to be resident in Canada by virtue of subsection 132(2) of the ETA, which reads as follows:
+For the purposes of this Part, where a non-resident person has a permanent establishment in Canada, the person shall be deemed to be resident in Canada in respect of, but only in respect of, activities of the person carried on through that establishment.
+[19] It is clear from the wording of subsection 132(2) that, where a non-resident person has a permanent establishment in Canada, the person is deemed resident in respect of, but only in respect of, activities carried on through that permanent establishment. In other words, a non‑resident person remains a non-resident person except with respect to the activities carried on through the person’s Canadian permanent establishment. In my opinion, a service is supplied to the Canadian permanent establishment of a non-resident person if it is consumed or used in the activities carried on in Canada through the permanent establishment. In light of the above, it is not sufficient for the Minister to show or assume that the recipient of the supply has a permanent establishment in Canada. The Minister must also show or assume that the supply was consumed in the furtherance of the activities carried on by the permanent establishment. It is clear from the evidence that the respondent’s representatives failed to consider whether the services supplied by SWS were made to BMT America’s and Convergia’s permanent establishments in Canada. No inquiries were made on this point because the auditor believed that the existence of a permanent establishment was sufficient in order for BMT America and Convergia to be deemed resident in Canada. This misconception is reflected in the respondent’s replies to the appellants’ notices of appeal. In the case of BMT America, the respondent assumed only the following:
+[TRANSLATION]
+(g) the appellant made supplies of telecommunication services to BMT AMERICA LLC during … the period … in question;
+(h) BMT AMERICA LLC is a business corporation that was not incorporated in Canada but was nevertheless not a non-resident person during … the period … in question because its principal place of business was on Bouchard Boulevard in Montreal (Dorval), in the province of Quebec.
+[20] This assumption is manifestly incorrect. The Minister would have had to assume that the service was also supplied for the furtherance of activities carried on by BMT America’s Canadian permanent establishment.
+[21] A similar limited assumption is made with respect to Convergia:
+[TRANSLATION]
+(e) the appellant made supplies of telecommunication services to CONVERGIA INC. during the period in question, in particular, prior to July 1, 2006;
+(f) CONVERGIA INC. is a business corporation that was not incorporated in Canada but was nevertheless not a non-resident person during the period in question because its principal place of business was on Hymus Boulevard in Montreal (Pointe-Claire), in the province of Quebec.
+[22] The particular wording of these paragraphs of the replies does not represent simple drafting oversights on the part of the respondent’s counsel. It actually reflects Mr. Hart’s understanding of subsection 132(2) as demonstrated in a memorandum which he prepared on February 18, 2008. In that memorandum he concludes that Convergia and BMT America are resident in Canada because he considers those entities to have permanent establishments in Canada.
+[23] In light of this, I must consider whether the appellants bear the onus of proof with respect to the place of their supplies. In Hickman Motors Ltd. v. Canada, [1997] 2 S.C.R. 336, the Supreme Court of Canada reaffirmed the principle that taxpayers bear the onus of producing evidence to rebut the facts found or assumed by the Minister in making an assessment. In M.N.R. v. Pillsbury Holdings, [1964] C.T.C. 294, Cattanach J. held that a taxpayer may satisfy its burden by (a) challenging the fact that the Minister did make the assumptions (b) by establishing that the assumptions are inaccurate, or (c) by alleging that the assumptions are not sufficient to justify the assessment, assuming they are true. The case law also establishes that the Minister’s assumptions must be specifically pleaded in order for the onus to be shifted to the appellant.
+[24] In Del Valle v. M.N.R., [1986] 1 C.T.C. 2288, the appellant succeeded in her appeal by showing that the factual assumptions made by the Minister were not sufficient to support the assessment. Judge Sarchuk framed the issue as follows at page 2290:
+. . . In my view the respondent has failed to allege as a fact an ingredient essential to the validity of the reassessment. There is no onus on the appellant to disprove a phantom or non-existent fact or an assumption not made by the respondent.
+While it was possible for the respondent to have alleged further and other facts the respondent did not choose to do so in this case but simply relied on the facts assumed at the time of the reassessments. I emphasize that if the respondent had alleged such further or other facts the onus would have been on him to establish them. (See Minister of National Revenue v. Pillsbury Holdings Limited, [1965] 1 Ex. C.R. 678, [1964] C.T.C. 294).
+The facts relied upon do not support the reassessments. . . .
+[25] In the case at bar, the respondent failed to assume and allege that the appellant provided telecommunication services to BMT America’s and Convergia’s Canadian establishments for use in a business carried on in Canada. This is an essential condition for subsection 132(2) to be found to apply. Therefore, the appellants did not have the burden of showing that the services were not supplied in the furtherance of activities carried on through BMT America’s and Convergia’s Canadian establishments.
+[26] I note that the appellant did lead evidence to show that the appellants’ supplies were made to non-residents. Mr. Wexler testified that SWS offered BMT America access so that it could distribute VOIP calls on Internet pathways opened outside of Canada. The equipment in BMT America’s Canadian office was not used to complete the calls. All signals were routed through servers located in the United States. His evidence was not challenged by the respondent on cross-examination.
+[27] In argument, the respondent’s counsel suggested that Mr. Wexler was disqualified from testifying as a factual witness because he was called as an expert. I am unaware of any rule of evidence that would on the basis of the witness’s personal knowledge of the facts bar me from considering evidence given by a credible witness. The respondent could have challenged Mr. Wexler’s expert evidence on the grounds that he lacked sufficient independence to provide opinion evidence to the Court. The respondent did not make such a challenge, accepting Mr. Wexler’s qualifications as an expert notwithstanding the respondent’s knowledge of Mr. Wexler’s involvement with BMT America.
+[28] As noted earlier, the evidence presented by CMI regarding its dealings with Convergia was sparse. However, the invoices show that Convergia was billed in US dollars for VOIP calls terminating outside Canada. Although the invoices do not provide information as to the place where the calls were made, it appears reasonable to assume that these calls also originated outside Canada because the billings were all in US dollars.
+[29] For all of these reasons, the appellants’ appeals are allowed and the assessments are referred back to the Minister for reconsideration and reassessment to take into account the fact that the supplies made by the appellants to BMT America and Convergia were zero-rated.
+Signed at Vancouver, British Columbia, this 4th day of April 2012.
+"Robert J. Hogan"
+Hogan J.
+CITATION: 2012 TCC 414
+COURT FILE NO.: 2010-1733(GST)G, 2009-3624(GST)G, 2009-3625(GST)G
+STYLE OF CAUSE: SWS COMMUNICATION INC.,
+CENTRE LES VOYAGES MIRACLE INC. v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Montreal, Quebec
+DATE OF HEARING: February 7, 2012
+REASONS FOR JUDGMENT BY: The Honourable Justice Robert J. Hogan
+DATE OF JUDGMENT: April 4th, 2012
+APPEARANCES:
+Counsel for the Appellant:
+Caroline Desrosiers
+Nicolas Simard
+Counsel for the Respondent:
+Benoît Denis
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Caroline Desrosiers
+Firm: Spiegel Sohmer Inc.
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada

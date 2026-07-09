@@ -1,0 +1,199 @@
+---
+title: "Shea v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28572/index.do"
+last_modified: "2008-04-02"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 TCC 184"
+citation2: ""
+neutral_citation: "2008 TCC 184"
+decision_date: "2008-04-02"
+language: "en"
+item_id: "28572"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1075
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T00:23:37.749000+00:00"
+cases_cited_count: 2
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "6a8effd221667264bd582debe001fbedf3873fc10c2f3b8d414493eaa35139a7"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Shea v. The Queen
+
+- Citation: 2008 TCC 184
+- Decision date: 2008-04-02
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1075, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Shea v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-04-02
+Neutral citation
+2008 TCC 184
+File numbers
+2007-3800(IT)I
+Judges and Taxing Officers
+Louise Lamarre Proulx
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2007-3800(IT)I
+BETWEEN:
+BRIGID A. SHEA,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on March 12, 2008, at Montreal, Quebec.
+Before: The Honourable Justice Louise Lamarre Proulx
+Appearances:
+Agent for the Appellant:
+J. Peter Shea
+Counsel for the Respondent:
+Nadia Golmier
+____________________________________________________________________
+JUDGMENT
+The appeal in respect of the assessment made under the Income Tax Act for the 2006 taxation year is allowed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 2nd day of April 2008.
+“Louise Lamarre Proulx”
+Lamarre Proulx J.
+Citation: 2008TCC184
+Date: 20080402
+Docket: 2007-3800(IT)I
+BETWEEN:
+BRIGID A. SHEA,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Lamarre Proulx J.
+[1] This is an appeal by way of the informal procedure from an assessment for the year 2006 by which the Minister of National Revenue (the “Minister”) denied the Appellant, in the computation of her tax payable, the deduction of the tuition credit provided for under section 118.5 of the Income Tax Act (the “Act”) and the education credit provided for under section 118.6 of the Act. He did so on the basis that the London School of Economics and Political Science LSE did not qualify as a “university outside Canada” within the meaning of this expression in paragraph 118.5(1)(b) and in paragraph (b) of the definition of “designated educational institution” in subsection 118.6(1) of the Act.
+[2] The facts relied on by the Minister in making his assessment are described in paragraph 8 of the Reply to the Notice of Appeal as follows:
+8. In order to establish the assessment, and the confirmation, the Minister relied on the following same assumptions of fact:
+a) In filing the Income tax return for the 2006 taxation year the Appellant had included a form TL11A, “Tuition, Education, and textbook amounts certificate ‑ university outside of Canada”, issued to the Appellant by the London School of Economics;
+b) The amount claimed by the Appellant for the attendance at the London School of Economics and Political Science was $29,148.45 for the tuition fees and $1,395 for the education and textbook amount;
+c) Per listings of eligible universities outside of Canada, for the tuition credit and education credit, the London School of Economics and Political Science is not listed as an eligible university outside of Canada for the tuition credit and education credit.
+[3] Counsel for the Respondent informed the Court that the list referred to in the Reply to the Notice of Appeal is the list of universities that are prescribed for the purposes of subparagraph 110.1(1)(a) (vi) of the Act, a provision respecting gifts to universities outside Canada. This list is found in Schedule VIII of the Income Tax Regulations, the universities thereon having been prescribed by section 3503 of the Income Tax Regulations. Schedule VIII was indeed referred to in that part of the Reply setting out the statutory provisions relied on.
+[4] It must be noted that the University of London, London, England, is listed in section 2 of Schedule VIII, which begins as follows: The universities situated in the United Kingdom of Great Britain and Northern Ireland that are prescribed by section 3503 are the following. [. . .]
+[5] Subparagraph 110.1(1)(a)(vi) of the Act and section 3503 of the Income Tax Regulations read as follows:
+110.1(1) Deduction for gifts [by corporation] -- For the purpose of computing the taxable income of a corporation for a taxation year, there may be deducted such of the following amounts as the corporation claims:
+(a) charitable gifts -- the total of all amounts each of which is the fair market value of a gift (other than a gift described in paragraph (b), (c) or (d)) made by the corporation in the year or in any of the 5 preceding taxation years to
+. . .
+(vi) a university outside Canada that is prescribed to be a university the student body of which ordinarily includes students from Canada,
+3503. Universities outside Canada -- For the purposes of subparagraph 110.1(1)(a)(vi) and paragraph (f) of the definition "total charitable gifts" in subsection 118.1(1) of the Act, the universities outside Canada named in Schedule VIII are hereby prescribed to be universities the student body of which ordinarily includes students from Canada.
+[6] Counsel for the Respondent stated that, in contrast to the above provisions, there is in paragraph 118.5(1)(b) and subsection 118.6(1) no statutory requirement that the “university outside Canada” be prescribed. I would also add that there is no statutory requirement that the student body of such a university ordinarily include students from Canada.
+[7] Nonetheless, the list appears to be used as a tool by the Canada Revenue Agency’s (CRA) agents for the purpose of determining whether an educational institution is a university outside Canada. The use of this list is mentioned in paragraph 5 of Interpretation Bulletin IT-516R2 entitled “Tuition Tax Credit”:
+Educational Institutions Outside Canada
+5. The types of educational institutions outside Canada whose fees are eligible for the tuition tax credit are described in paragraphs 118.5(1)(b) and 118.5(1)(c). Paragraph 118.5(1)(b) refers to (full-time attendance at) "a university outside Canada in a course leading to a degree." An educational institution located in a country outside Canada is presumed to qualify for purposes of paragraph 118.5(1)(b) if it is recognized by an accrediting body (that is nationally accepted in that country) as being an educational institution which confers degrees at least at the bachelor or equivalent level (see 9(a) below). For example, an institution listed in the current edition of Accredited Institutions of Postsecondary Education published by the American Council on Education and indicated in that publication as being an institution granting degrees at the "B" level (bachelor's degree or equivalent), "M" level (master's degree or equivalent), "D" level (doctoral degree) or "P" level (first professional degree such as J.D., M.D. or M.Div.) will be regarded as a university that qualifies under paragraph 118.5(1)(b). Also, an institution listed in Schedule VIII of the Income Tax Regulations is recognized as satisfying the requirements of paragraph 118.5(1)(b).
+[8] It is of interest to also read paragraph 6 of the same bulletin:
+6. Each Revenue Canada tax services office has a current list of institutions outside Canada that are recognized as universities for purposes of paragraph 118.5(1)(b). Therefore, a student can direct an enquiry regarding tuition fees paid to such institutions to the local Revenue Canada tax services office. Recognition of an unlisted institution as a university will be considered at the request of the institution. Such enquiries should be directed to
+Director General
+International Tax Directorate
+Revenue Canada
+[9] From what is stated in the above paragraph, one could think that there may exist a list different from the list of Schedule VIII. However, no such other list was produced at the hearing and no one from the CRA, at either the audit or the appeal stage, or from the International Tax Directorate, came to testify. The same paragraph of the bulletin seems to state as well that recognition of an unlisted institution will be considered at the request of the institution. I do not see this latter requirement in the wording of the statutory provisions in question. Nor do I see it in the case law referred to below.
+[10] The list of universities prescribed by section 3503 of the Income Tax Regulations may be useful to the CRA’s agents as a first and quick reference regarding American universities, but care should be exercised with respect to European universities. Indeed, the listing of American universities runs to 10½ pages (CanLII) but there is only one page for universities in Great Britain. Respecting Germany, two universities are prescribed, and for Spain, one. I believe that use could be made of our embassies in foreign countries for the purpose of determining whether an educational institution is an institution authorized to grant degrees at the baccalaureate level and above within the educational system of a country. At any rate, the University of London is on the list and, as we will see, LSE is a component of that university.
+[11] Counsel for the Respondent told the Court that she was referred by the CRA agent with whom she discussed the case before the hearing to the decision of this Court in Goldberg v. Canada, [2006] T.C.J. No. 530 (QL), 2006 TCC 676, and more particularly to paragraph 11, which reads as follows:
+11 There is no dispute that paragraphs 118.5(1)(b) and 118.6(1)(b) make a clear distinction between the students enrolled in Canadian educational institutions and those studying abroad. As was so clearly demonstrated by Mogan J., for the deduction to be made pursuant to paragraph 118.5(1)(b), the claimant must establish that she "was during the year a student in fulltime attendance at a University outside Canada in a course leading to a degree". That has not been done. LAMDA was not a degree-granting institution and accordingly, was not a University. Given the facts before the Court, I have concluded that the relevant requirements for the tuition tax and education credits set out in paragraphs 118.5(1)(b) and 118.6(1)(b) have not been met.
+[12] Counsel for the Respondent stated that the point at issue is this: according to the CRA, LSE is not a degree-granting institution and therefore is not a university outside Canada.
+[13] To put the matter in current and historical context, counsel referred me to an excerpt from the Wikipedia encyclopedia entry on the subject of the University of London. It is stated that “[t]he University is a federal mega university made up of 31 affiliates (19 colleges and 12 institutes). . . . For most practical purposes, ranging from admission of students to negotiating funding from the government, the 19 constituent colleges are treated as individual universities. Within the university federation they are known as Recognised Bodies, with the authority to examine students and have the university award them degrees. Some colleges have recently obtained the power to award their own degrees and the University has amended its statutes to allow them to do so and remain in the university. For instance, beginning in the 2007/08 academic year, Kings’s College London, the London School of Economics and the University College London will be awarding their own degree certificates while retaining their constituent colleges status within the University of London.”
+[14] In this regard, counsel for the Respondent referred me to statutory instrument 2007 No. 2688, entitled The Education (Recognised Bodies) (England) Order 2007 made pursuant to subsection 216(1) of the Education Reform Act 1988 (the “1988 Act”) of England. This Order, which came into force on 1st October 2007, revoked the Education (Recognised Bodies) (England) Order 2003.
+[15] These statutory instruments have as their purpose to list the universities, colleges or other bodies which are authorized by Royal Charter or by an Act of Parliament to grant degrees. Section 214 of the 1988 Act makes it an offence for any person to grant an award which is not a “recognised award”. “Recognised award” include awards granted by a recognised body.
+[16] In 2003, LSE was on the list of recognised bodies provided in the schedule to the relevant statutory instrument; it appeared at the end of that schedule under the heading “Schools, Colleges and Institutes of the University of London permitted by the University to award University of London degrees”. LSE is listed there with 17 other colleges, institutes and schools.
+[17] In the 2007 statutory instrument, LSE has been removed from under the above‑mentioned heading at the end of the schedule and now appears with other universities, colleges and institutes.
+[18] No reason is given for this change in the explanatory note to the 2007 statutory instrument. That note is similar to the one appearing with the 2003 statutory instrument. It states the following:
+This Order lists all those bodies which appear to the Secretary of State to be recognised bodies within section 214(2)(a) or (b) of the Education Reform Act 1988. These are universities, colleges or other bodies which are authorised by Royal Charter or by or under Act of Parliament to grant degrees and other bodies for the time being permitted by these bodies to act on their behalf in the granting of degrees.
+. . .
+It also includes a number of schools, colleges and institutes of London University which have been permitted by the University to award University of London degrees.
+. . .
+[19] Mr. Peter Shea represented his daughter, the Appellant, at the hearing. He produced several documents as Exhibit A‑1. Among them is the Appellant’s Transcript of Award and Examination Performance. The Appellant completed a one‑year master’s programme. She was awarded a Master of Science in Comparative Politics (Conflict Studies). The awarding body is described as being LSE “on behalf of the University of London”.
+[20] I quote three paragraphs from the Appellant’s notice of objection dated April 27, 2007, to show Mr. Shea’s understandable disbelief with regard to the Minister’s position in this matter:
+When I spoke by telephone (1-800-959-7381), to one of your officers regarding how the London School of Economics and Political Science (LSE), founded in 1895, (recognized as a school of the University of London), one of the world’s most prestigious and recognized international universities, could not be “recognized by Canada Revenue Agency”, I was told that there had been some “problems with their dealings of LSE’s application for recognition in the past” and that simply, it was not on your list of recognized universities. When I suggested that LSE should reapply for recognition, I was told that it couldn’t be done and that I must lodge an appeal.
+To tell you the truth, I am absolutely flabbergasted that LSE is not “recognized as a degree‑granting university” by Canada Revenue Agency. Do you also not recognize, Oxford, Cambridge, Princeton or Harvard? LSE ranks with these institutions as one of the most important international universities in the world. LSE’s Alumni and faculty have included some of the most influential political leaders in the world. Listed among LSE’s 14 Nobel Laureates and 39 Heads of Government or Heads of State, are Canadian Prime Ministers Pierre Elliot Trudeau and Kim Campbell, and American President John F. Kennedy. Other notable Canadian alumni include Gordon Thiessen (Governor of the Bank of Canada, 1994 to 2001) Michael Wilson (former Minister of Finance and current Canadian Ambassador to the USA) and Mitchell Sharp (former Minister of Finance) to name a few.
+In view of the overwhelming evidence that the London School of Economics is a worldwide recognized degree‑granting university, would the Canada Revenue Agency please recognize this obvious fact and accept my claim for Tuition Fees and Education and Textbook Amounts on my 2006 tax return.
+Analysis and conclusion
+[21] Paragraph 118.5(1)(b) and subsection 118.6(1) of the Act read as follows:
+118.5(1) Tuition credit. For the purpose of computing the tax payable under this Part by an individual for a taxation year, there may be deducted,
+. . .
+(b) where the individual was during the year a student in full‑time attendance at a university outside Canada in a course leading to a degree, an amount equal to the product obtained when the appropriate percentage for the year is multiplied by the amount of any fees for the individual’s tuition paid in respect of the year to the university, except any such fees
+. . .
+118.6(1) Definitions. For the purposes of sections 63 and 64 of this subdivision,
+“designated educational institution” means
+. . .
+(b) a university outside Canada at which the individual referred to in subsection (2) was enrolled in a course, of not less than 13 consecutive weeks duration, leading to a degree, or
+. . .
+[22] I must say again that these provisions do not require universities to be prescribed. Therefore, Schedule VIII of the Income Tax Regulations has no application in this matter.
+[23] As to the meaning of “university outside Canada” in the above provisions, I refer to Gilbert v. R., [1999] 2 C.T.C. 2127, at pages 2131 and 2132, where Judge Mogan stated the following at paragraphs 14, 15 and 16:
+14 The word "university" is not defined in the Act, but the Respondent has provided me with three dictionary definitions of the word, all of which have as a condition the granting of a degree. The Dictionary of Canadian Law defines university as follows:
+The chief distinguishing characteristic between a university and other institutions of learning is the power and authority possessed by an institution of learning to grant titles or degrees.
+In Webster's Third New International Dictionary (an American publication), the word "university" is defined as:
+A body of persons gathered at a particular place for the disseminating and assimilating of knowledge in advanced fields of study; an institution of higher learning providing facilities for teaching and research and authorized to grant academic degrees.
+And lastly, in Black's Law Dictionary, it is described as:
+An institution of higher learning, consisting of an assemblage of colleges united under one corporate organization and government, affording instruction in the arts and sciences and the learned professions, and conferring degrees.
+15 Also, in the case of London (City) v. Ursuline Religious of the Diocese of London (1964), 43 D.L.R. (2d) 220 (Ont. C.A.), the Ursuline Order was an order of religious women who sought to achieve an exemption under the Assessment Act, R.S.O. 1960 on the basis that it was a university because it was located on the campus of the University of Western Ontario. The Ursuline Religious Group was affiliated with the University of Western Ontario and authorized to give courses accepted by the University. Therefore, it sought exemption under the Assessment Act which granted such exemption to any university. The unanimous decision of the Ontario Court of Appeal was delivered by Schroeder J.A. When stating the facts of the case, he said at page 222:
+... The appellant has no power to confer degrees but is affiliated with the University of Western Ontario under agreement made in 1919. The appellant teaches classes in subjects approved by the University both to their own students and to other students of the University from different colleges. Examinations are set in accordance with the standards fixed by the University, degrees of Bachelor of Arts are conferred on students so educated by the University of Western Ontario upon those who pass the examinations.
+Schroeder J.A. also quoted from Wharton's Law Lexicon and Murray's New English Dictionary in defining "university". Also, at page 228, he states:
+The chief distinguishing characteristic between a university and other institutions of learning is the power and authority possessed by an institution of learning to grant titles or degrees such as Bachelor of Arts, Master of Arts or Doctor of Divinity by which it is certified that the holders have attained some definite proficiency....
+16 Dealing with paragraph 118.5(1)(b) in isolation, I do not have any difficulty in concluding that to be a university within the meaning of those words, it has to be an institution with the power and authority to grant degrees. The fact that a degree-granting institution, New School University in New York state, had an arrangement with AMDA to accept graduates of the AMDA program on the basis that they would be awarded 60 credits towards a degree from New School University does not mean that AMDA, as a stand-alone institution, is a degree-granting university.
+[24] The above decision has been commented upon favourably in the entire case law on the subject and, also, in the recent decision of the Federal Court of Appeal in Klassen v. The Queen, 2007 DTC 5612. I quote paragraphs 18 and 21 of that decision:
+[18] The common feature which runs through the above quoted definitions is that a university is an institution of higher learning which confers degrees attesting to some definite proficiency. A bachelor degree is generally recognized as a minimum requirement for the pursuit of higher studies (usually referred to as "graduate" studies) leading to masters and doctorate degrees.
+[21] I therefore conclude that the expression "university outside Canada" refers to an educational institution which confers degrees usually granted by universities, that is a doctorate degree, a master degree or at minimum degrees at the baccalaureate level or its equivalent. The degree granted by MSU-Bottineau in this case (i.e., the "associate degree") attests to the successful completion of a two year undergraduate program. As this is the highest degree which MSU-Bottineau can confer, it does not qualify as a "university outside Canada". The fact that MSU-Bottineau calls itself a university cannot alter this conclusion.
+[25] The Klassen decision states that a university outside Canada within the meaning of paragraph 118.5(1)(b) and subsection 118.6(1) of the Act is an educational institution which confers degrees usually granted by universities, that is, a doctorate, a master’s degree or, at minimum, degrees at the baccalaureate level or its equivalent.
+[26] To learn more about the nature of the University of London, I found it useful to consult that institution’s Web site, from which I reproduce the following excerpts:
+The University of London is a federal University and is one of the oldest, largest and most diverse universities in the UK. Established by Royal Charter in 1836, the University is recognised globally as a world leader in Higher Education.
+It consists of 19 self-governing Colleges of outstanding reputation, together with the prestigious Institutes of the School of Advanced Study and a number of other central academic activities.
+. . .
+We have an outstanding international reputation for the quality of the teaching and research at our Colleges and Institutes. Whatever you want to study, we offer virtually every subject covered in any university curriculum.
+. . .
+The Colleges of the University differ in size, age and tradition as well as in the courses of study they offer. Some are multi-faculty institutions with large student populations, whilst others are specialist and smaller in size. All award University of London degrees.
+. . .
+The University has a Central Administration which supports the federal University and the central activities covering academic matters, finance, human resources, governance, and the estate administration.
+[27] On the same Web site, under “governance,” one has access to the Act governing the University, to the University’s statutes and to its ordinances. Under “history”, the role of the University of London and its colleges and institutes is explained. LSE is on the list of the 19 colleges forming part of the University of London. It is a component of that university and is permitted to grant degrees of the University of London.
+[28] It seems to me that the type of structure described for the University of London closely corresponds to the definition of university found in Black’s Law Dictionary, which is one of the definitions given in Gilbert, supra: an institution of higher learning, consisting of an assemblage of colleges united under one corporate organization and government, affording instruction in the arts and sciences and the learned professions, and conferring degrees.
+[29] Moreover, what is important from a legal standpoint is that, as previously mentioned, both the University of London and LSE appear in the statutory instruments listing all the recognized bodies in England that are authorized to grant university degrees. LSE is an educational institution granting university degrees, it is therefore a “university outside Canada”.
+[30] The appeal is allowed.
+Signed at Ottawa, Canada, this 2nd day of April 2008.
+“Louise Lamarre Proulx”
+Lamarre Proulx J.
+CITATION: 2008TCC184
+COURT FILE NO.: 2007-3800(IT)I
+STYLE OF CAUSE: BRIGID A. SHEA v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Montreal, Quebec
+DATE OF HEARING: March 12, 2008
+REASONS FOR JUDGMENT BY: The Honourable Justice Louise Lamarre Proulx
+DATE OF JUDGMENT: April 2, 2008
+APPEARANCES:
+Agent for the Appellant:
+J. Peter Shea
+Counsel for the Respondent:
+Nadia Golmier
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

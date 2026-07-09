@@ -1,0 +1,149 @@
+Title: Onuma v. Human Resources
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28285/index.do
+Corpus path: corpus/cases/tcc/2007/2007-tcc-638-28285-onuma-v-human-resources-en.md
+Document type: case_law
+Last modified: 2007-08-16
+
+# Onuma v. Human Resources
+
+- Citation: 2007 TCC 638
+- Decision date: 2007-08-16
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1869, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Onuma v. Human Resources
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-08-16
+Neutral citation
+2007 TCC 638
+File numbers
+2005-2988(EI)
+Judges and Taxing Officers
+Judith Woods
+Subjects
+Employment Insurance Act
+Old Age Security Act
+Decision Content
+Docket: 2005-2988(EI)
+BETWEEN:
+TO,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard on June 4, 2007 at Victoria, British Columbia
+By: The Honourable Justice Judith Woods
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Sara Fairbridge
+____________________________________________________________________
+JUDGMENT
+The appeal of the decision of the Minister of National Revenue made under the Employment Insurance Act is dismissed, and the decision that free meals provided to the appellant be excluded from insurable earnings is confirmed.
+Signed at Toronto, Ontario, this 19th day of October 2007.
+“J. Woods”
+Woods J.
+Citation: 2007TCC638
+Date: 20071019
+Docket: 2005-2988(EI)
+BETWEEN:
+TO,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGMENT
+Woods J.
+[1] The central issue in this appeal is whether free meals provided to the appellant by his employer should be taken into account in determining “insurable earnings” for purposes of the Employment Insurance Act.
+[2] The appellant appeals a decision of the Minister of National Revenue in which “insurable earnings” were computed by excluding the value of meals provided by the employer. The period at issue is from October 1, 2003 to April 10, 2004.
+[3] The appellant represented himself at the hearing and required the services of a Japanese interpreter. As the appellant’s facility with the English language was better in writing, arguments were made by way of written submissions subsequent to the hearing.
+[4] The relevant facts are quite straightforward. The appellant was hired to work in the kitchen of a Japanese restaurant in Victoria, British Columbia, and received hourly wages of between $8 and $9 during his period of employment. On average, the appellant worked four lunch shifts and five dinner shifts a week, with each shift lasting approximately four hours.
+[5] At the end of each shift, a free meal was prepared for the staff by the chef. According to the testimony of one of the owners of the restaurant, this practice is common in the restaurant industry. In this case, the appellant was able to select a meal from a limited number of choices on the menu.
+[6] In addition, the appellant testified that the chef also sometimes gave him rice or vegetables to take home.
+[7] The issue is whether the value of the free meals should be included in determining “insurable earnings” under the relevant legislation.
+[8] The applicable provisions are set out in regulations to the Employment Insurance Act called the Insurable Earnings and Collection of Premiums Regulations (the “Regulations”). In section 2 of the Regulations, a broad definition of “earnings” is provided which is then subject to a number of exceptions. The exception that is relevant here is for non-cash benefits, other than board or lodging.
+[9] The relevant parts of section 2 provide:
+2.(1) For the purposes of the definition “insurable earnings” in subsection 2(1) of the Act and for the purposes of these Regulations, the total amount of earnings that an insured person has from insurable employment is
+(a) the total of all amounts, whether wholly or partly pecuniary, received or enjoyed by the insured person that are paid to the person by the person’s employer in respect of that employment, and
+(b) the amount of any gratuities that the insured person is required to declare to the person’s employer under provincial legislation.
+[…]
+(3) For the purposes of subsections (1) and (2), “earnings” does not include
+(a) any non-cash benefit, other than the value of either or both of any board or lodging enjoyed by a person in a pay period in respect of their employment if cash remuneration is paid to the person by their employer in respect of the pay period;
+(a.1) any amount excluded as income under paragraph 6(1)(a) or (b) or subsection 6(6) or (16) of the Income Tax Act;
+(b) a retiring allowance;
+(c) a supplement paid to a person by the person’s employer to increase worker’s compensation paid to the person by a provincial authority;
+(d) a supplement paid to a person by the person’s employer to increase a wage loss indemnity payment made to the person by a party other than the employer under a wage loss indemnity plan;
+(e) a supplemental unemployment benefit payment made under a supplemental unemployment benefit plan as described in subsection 37(2) of the Employment Insurance Regulations; and
+(f) a payment made to a person by the person's employer
+(i) to cover the waiting period referred to in section 13 of the Act,
+(ii) to increase the pregnancy, parental or compassionate care benefits payable to the person under section 22, 23 or 23.1 of the Act, to the extent that the payment meets the criteria set out in section 38 of the Employment Insurance Regulations, or
+(iii) to increase the benefits payable to the person under a provincial plan, as defined in section 76.01 of the Employment Insurance Regulations, to the extent that the payment
+(A) when combined with the weekly amount of those benefits, does not exceed the person's normal weekly earnings from employment by that employer, and
+(B) does not reduce the person's accumulated sick leave or vacation leave credits, severance pay or any other accumulated credits from that employment.
+(Emphasis added)
+[10] The question in this case turns on the meaning of the term “board.” If the meals provided to the appellant are not encompassed by that term, the Minister has properly excluded their value in computing “insurable earnings.” On the other hand, if the meals are “board,” they should be included.
+[11] At the commencement of the hearing, counsel for the Crown attempted to also bring into issue the value of the meals, which the appellant had determined as the price listed in the menu. I concluded that it was too late to raise this issue, as it had not been mentioned in the Crown’s reply.
+[12] Turning to the main question, then, the appellant submits that the term “board” encompasses meals that are provided on a regular basis and he suggests that the meals provided to him satisfy that criterion.
+[13] In my analysis, I will start with dictionary definitions of “board” when it is used in the context of meals. According to The Shorter Oxford English Dictionary (3rd ed.), the term “board” means:
+7. To provide with daily meals; now generally to provide with both food and lodgings at a fixed rate.
+8. To be supplied with food, or food and lodging, at a fixed rate; to live with a family as one of its members for a stipulated charge.
+[14] The Canadian Oxford Dictionary (2nd ed.) provides similar meanings:
+2a receive regular meals, or meals and lodging, for payment.
+b arrange accommodation away from home for.
+c provide (a lodger etc.) with regular meals.
+[15] It is also useful to refer to dictionary definitions of the term “pension” which is used as the equivalent of “board” in the French version of the Regulation. The relevant paragraph provides:
+(3)(a) les avantages autres qu'en espèces, à l'exception, dans le cas où l'employeur verse à une personne une rétribution en espèces pour une période de paie, de la valeur de la pension ou du logement, ou des deux, dont la personne a joui au cours de cette période de paie relativement à son emploi; (Emphasis added)
+[16] In the French-English dictionaries, Le Robert and Collins (6th ed.) and Larousse Advanced Dictionary (2003), the term “pension” is simply defined as “board and lodging.” This does not really assist except that it suggests a close tie between “pension” and “lodging.”
+[17] In my view, if the term “board” were applied to the facts of this case, it would stretch the meaning of “board” beyond its commonly understood meaning. The term has a strong connection with lodging, and that is why it is usually associated with the provision of meals on a daily basis.
+[18] I am also of the opinion that the term “board” in the context of this regulation should not be given an overly broad interpretation. The Regulation provides a very limited exception for the general rule that non-cash benefits are excluded in computing “insurable earnings.” The interpretation suggested by the appellant would open up this exception to circumstances that I doubt the drafters contemplated.
+[19] The appellant has referred me to a decision of the Tax Court of Canada that appears to support his position, however.
+[20] In Pourvoirie au Pays de Real Masse Inc. v. MNR, 2004 TCC 582, and the related appellate decision, Desaulniers v. The Queen, 2006 FCA 15, the employer operated an outfitting business that included an inn, cottages and a dining room. According to the facts as outlined in the decision, most employees were provided free meals and accommodation on site. However, in a few instances, employees lived off site and were provided meals only while they were at work. It is this latter circumstance that is relevant here.
+[21] The Minister of National Revenue made various determinations in respect of 33 employees of the establishment, including their periods of employment, insurable hours and insurable earnings. For purposes of computing “insurable earnings,” the Minister added the value of meals, regardless of whether the staff lived on site or elsewhere. This part of the Minister’s decision was confirmed by Lamarre J. without elaboration as to why meals that were taken only while employees were on site were considered to be encompassed by the term “pension.”
+[22] Some of the facts in Pourvoirie are similar to the present case, but I think that it is significant that most of the employees lived on site and received all meals and accommodation from the employer without payment. It is also relevant that the judge did not provide reasons for deciding that all meals should be included in “insurable earnings,” and there is no indication in the reasons that the issue before me was argued by either counsel. For these reasons, I do not think that this decision is authority for the proposition that meals provided by an employer during work shifts constitute “board,” but if Pourvoirie can be interpreted in this manner, in my view the decision should not be extended beyond its particular facts.
+[23] For the reasons above, my conclusion is that the term “board” in the Regulation does not include meals that are customarily provided to restaurant staff. The Minister’s decision to exclude the free meals provided to the appellant from the computation of “insurable earnings” will therefore be confirmed.
+[24] Before concluding, I wish to comment briefly on some of the procedural issues that were raised by the appellant.
+[25] The first issue concerns privacy. The appellant seeks to invoke a constitutional right to privacy and has requested, among other things, that I use a pseudonym for his name in the judgment. The fact that court decisions are published on the internet was a particular concern expressed.
+[26] The appellant argued that the right to privacy was a constitutional right, citing as authority a Bill of Rights published by the Canada Revenue Agency. This document does not assist the appellant because it does not apply to courts. It was issued by the Canada Revenue Agency and is intended to reinforce a respect for privacy by that governmental agency. It has no application to proceedings before courts, including the Tax Court of Canada.
+[27] The principle of open courts is entrenched in Canada and I am not satisfied that there are good reasons to deviate from the usual practice of the Court in this case. On the other hand, I have some concern that I do not fully understand the nature of the appellant’s concern because there was no oral argument in this case. I will, therefore, issue a direction to the Registry to change the style of cause to the appellant’s initials.
+[28] Another issue raised by the appellant also merits some comment. In a letter to the Court dated June 24, 2007, the appellant noted that Pourvoirie had been cited in two subsequent decisions, Lacroix v. M.N.R., 2007TCC81 and Garneau v. M.N.R., 2006TCC160. He raised a concern about access to these judgments because one of these decisions was not available on the Court’s website and the other was available only in French. The English versions of both decisions are now on the website. I have taken these decisions into account but I did not find them to be of assistance to the issue before me.
+[29] For the above reasons, the appeal is dismissed.
+Signed at Toronto, Ontario, this 19th day of October 2007.
+"J. Woods"
+Woods J.
+CITATION:
+2007TCC638
+COURT FILE NO.:
+2005-2988(EI)
+STYLE OF CAUSE:
+TO and
+The Minister of National Revenue
+PLACE OF HEARING:
+Victoria, British Columbia
+DATE OF HEARING:
+June 4, 2007
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Judith Woods
+DATE OF JUDGMENT:
+October 19, 2007
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Sara Fairbridge
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

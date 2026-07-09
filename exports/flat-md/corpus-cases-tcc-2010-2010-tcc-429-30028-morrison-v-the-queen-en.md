@@ -1,0 +1,346 @@
+---
+title: "Morrison v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30028/index.do"
+last_modified: "2010-08-19"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 TCC 429"
+citation2: ""
+neutral_citation: "2010 TCC 429"
+decision_date: "2010-08-19"
+language: "en"
+item_id: "30028"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7658
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T02:05:44.450000+00:00"
+cases_cited_count: 4
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "1a00f38670f4a3e09252cb79b49e21c843d394bd06317e22f06cdbfc0f6c93a3"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Morrison v. The Queen
+
+- Citation: 2010 TCC 429
+- Decision date: 2010-08-19
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7658, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Morrison v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-08-19
+Neutral citation
+2010 TCC 429
+File numbers
+2004-2298(IT)I
+Judges and Taxing Officers
+Wyman W. Webb
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2004-2298(IT)I
+BETWEEN:
+SUSAN V. MORRISON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on common evidence with the appeals of
+David L. Morrison (2004-2297(IT)I)
+on July 12, 2010, at Nanaimo, British Columbia
+Before: The Honourable Justice Wyman W. Webb
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Whitney Dunn
+____________________________________________________________________
+JUDGMENT
+The Appellant’s purported appeal in relation to the assessment of her tax liability for 1997 is quashed.
+The appeals in relation to the reassessments of the Appellant’s tax liability for 1998 and 1999 are allowed and the matter is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that:
+(a) The Appellant’s income from employment for 1998 is reduced by the amount of $14,362; and
+(b) The Appellant’s income from employment for 1999 is reduced by the amount of $16,876.
+The Respondent shall pay to the Appellant costs in the amount of $750.
+Signed at Ottawa, Canada, this 19th day of August, 2010.
+“Wyman W. Webb”
+Webb, J.
+Docket: 2004-2297(IT)I
+BETWEEN:
+DAVID L. MORRISON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on common evidence with the appeals of
+Susan V. Morrison (2004-2298(IT)I)
+on July 12, 2010, at Nanaimo, British Columbia
+Before: The Honourable Justice Wyman W. Webb
+Appearances:
+Agent for the Appellant:
+Susan V. Morrison
+Counsel for the Respondent:
+Whitney Dunn
+____________________________________________________________________
+JUDGMENT
+The Appellant’s purported appeals in relation to the assessment of his tax liability for 1997 and the reassessment of his tax liability for 1999 are quashed.
+The appeal in relation to the reassessment of the Appellant’s tax liability for 1998 is allowed and the matter is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that:
+(a) The Appellant’s income from employment for 1998 is reduced by the amount of $12,162.
+The Respondent shall pay to the Appellant costs in the amount of $750.
+Signed at Ottawa, Canada, this 19th day of August, 2010.
+“Wyman W. Webb”
+Webb, J.
+Citation: 2010TCC429
+Date: 20100819
+Docket: 2004-2298(IT)I
+BETWEEN:
+SUSAN V. MORRISON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+AND BETWEEN:
+2004-2297(IT)I
+DAVID L. MORRISON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Webb, J.
+[1] The Appellants filed a notice of appeal to this Court in which they indicated that they were each appealing the assessment (or reassessment) of their tax liability for 1997, 1998 and 1999. An affidavit of an officer of the Canada Customs and Revenue Agency (as it was at the time that the affidavit was sworn) was filed with the Court. In this affidavit the officer stated that there was no record of either Appellant filing a notice of objection to the assessment of their 1997 taxation year nor was there any record of David Morrison filing a notice of objection in relation to the reassessment of his 1999 taxation year.
+[2] Subsection 169(1) of the Income Tax Act (the “Act”) provides as follows:
+169. (1) Where a taxpayer has served notice of objection to an assessment under section 165, the taxpayer may appeal to the Tax Court of Canada to have the assessment vacated or varied after either
+(a) the Minister has confirmed the assessment or reassessed, or
+(b) 90 days have elapsed after service of the notice of objection and the Minister has not notified the taxpayer that the Minister has vacated or confirmed the assessment or reassessed,
+but no appeal under this section may be instituted after the expiration of 90 days from the day notice has been mailed to the taxpayer under section 165 that the Minister has confirmed the assessment or reassessed.
+[3] In Bormann v. The Queen, 2006 DTC 6147, the Federal Court of Appeal stated as follows:
+3 Section 169(1) of the Income Tax Act obliges a taxpayer to serve Notice of Objection in order to appeal an assessment. In other words, service of a Notice is a condition precedent to the institution of an appeal.
+4 As mentioned, the appellant did not serve a Notice of Objection nor is there evidence that the appellant made an application to the Ministry to extend the time to file a Notice of Objection.
+5 Once it is clear that no application for an extension of time was made, the law is clear that there is no jurisdiction in the Tax Court to further extend the time for equitable reasons.
+Minister of National Revenue v. Minuteman Press of Canada Co., 88 DTC 6278, (F.C.A.).
+6 As a result, there is no basis upon which it can be said that the Tax Court Judge erred in quashing the appellant's appeals for the 1992 to 1998 taxation years.
+[4] The Appellants did not introduce any evidence to suggest that they had served a notice of objection in relation to the assessment of their tax liability for 1997 or in relation to the reassessment of David Morrison’s 1999 taxation year or that they had made any application to extend the time within which a notice of objection may be served. As a result the appeals related to the assessment of their 1997 taxation year and the reassessment of David Morrison’s 1999 taxation year are quashed.
+[5] The only assessments or reassessments that are properly before this Court are therefore the reassessments of the Appellants’ 1998 taxation year and the reassessment of Susan Morrison’s 1999 taxation year.
+[6] The Appellants, together with Rex Woollard, had started a software development company, Training Innovations Inc. (“TI”). In 1997 they collectively sold 51% of the shares of TI to ADGA Limited (“ADGA”). Prior to the sale of a controlling interest in TI to ADGA, the taxation year of TI ended on April 30. As a result of the acquisition of control of TI, TI also had a taxation year that appears to have ended on September 30, 1997.
+[7] Because TI was experiencing cash flow problems, the Appellants had deferred the payment of salaries that they had earned. The amount of such accrued salaries was as follows:
+Accrued salaries as of April 30, 1997
+Accrued salaries for the period from May 1, 1997 to September 30, 1997
+Susan Morrison
+$51,226
+$29,352
+David Morrison
+$38,655
+$26,152
+[8] Schedule 4.28 to the agreement related to the sale of the shares of TI to ADGA provided that:
+(a) Accrued salaries to April 30, 1997
+The accrued salaries owing to the Vendors to April 30, 1997 are allocated as follows:
+Vendor
+Accrued Salary Owing
+Susan Morrison
+$51,226
+David Morrison
+$38,655
+Rex Woollard
+$38,655
+Total
+$128,536
+Prior to closing, the Corporation will pay the net amounts owing after required government withholding amounts to the Vendors with respect to the amounts referred to above. The Vendors will then advance to the Corporation the amounts received. The Corporation will repay these advances without interest following receipt of the corresponding investment tax credits claimed. If the investment tax credits received are less than the amount claimed, there will be a proportionate reduction of the amount payable to the Vendors and the balance of the advance will be forgiven by the Vendors.
+On or before November 15, 1997, the Purchaser will, on behalf of the Corporation, pay to the government the amounts required to be withheld with respect to the above-described payments. This payment shall be considered to be an advance from the Purchaser to the Corporation on the terms and conditions of the Loan Documentation.
+The amount of the investment tax credits claimed with respect to the period ended April 30, 1997 is as follows:
+Ontario
+$49,378
+Federal
+$155,624
+Total
+$205,002
+(b) Accrued Salaries – May 1, 1997 to September 30, 1997
+The same procedure as described above will apply for the accrued salaries to the Vendors totalling $81,756 for the period May 1, 1997 to September 30, 1997 with the following amendments:
+(a) the accrued salaries owing to the Vendors are allocated as follows:
+Susan Morrison
+$29,352
+David Morrison
+$26,152
+Rex Woollard
+$26,152
+Total
+$81,656
+(b) on or before April 15, 1998, the Corporation will pay the net amounts owing to the Vendors as follows:
+Susan Morrison
+$15,352
+David Morrison
+$14,152
+Rex Woollard
+$14,152
+(c) on or before April 15, 1998, the Purchaser will, on behalf of the Corporation, pay to the government the amounts required to be withheld with respect to the above-described payments;
+(d) the investment tax credits claimed are as follows:
+Ontario
+$32,000
+Federal
+$105,000
+Total
+$137,000
+[9] In 1997 an amount was remitted as source deductions in relation to the accrued salaries owing as of April 30, 1997 and a cheque for the balance was issued to the Appellants. The Appellants then provided a cheque to TI or ADGA for the same amount as the cheque that was issued to them. This amount was then credited to their respective shareholder’s accounts. The amount that was remitted as source deductions and the amount that was credited to the shareholders’ accounts (following the issuance of the cheque by TI (or ADGA) and the immediate return of the same amount to the company by a separate cheque) for each Appellant was as follows:
+Amount Remitted as source deductions
+Amount credited to the shareholder’s account
+Total
+Susan Morrison
+$25,400
+$25,826
+$51,226
+David Morrison
+$19,300
+$19,355
+$38,655
+[10] For the accrued salaries owing for the period from May 1, 1997 to September 30, 1997, no cheques were issued to either Appellant. In 1998 an amount was remitted for source deductions and the balance was simply credited to their respective shareholder’s accounts. These amounts were as follows:
+Amount Remitted as source deductions
+Amount credited to the shareholder’s account
+Total
+Susan Morrison
+$14,990
+$14,362
+$29,352
+David Morrison
+$13,990
+$12,162
+$26,152
+[11] Subsection 5(1) of the Act provides that:
+5. (1) Subject to this Part, a taxpayer's income for a taxation year from an office or employment is the salary, wages and other remuneration, including gratuities, received by the taxpayer in the year.
+(emphasis added)
+[12] In Phillips v. The Queen, 95 DTC 194, [1994] T.C.J. No. 597, Justice Bowman (as he then was) stated that:
+18 The unilluminating and confusing method of accounting and the lack of any logic in the method of reporting income cannot determine the outcome of this case. The fact remains that the sum of $69,263 which the Minister included in his income in 1986 was not received by him in that year. It is true that as controlling shareholder he could have required the company to pay it to him but he did not do so. Employment income must be received, not receivable, to be taxed. The decision in Minister of National Revenue v. Rousseau, [1960] C.T.C. 336, 60 D.T.C. 1236 (Ex. Ct.), is too firmly entrenched in our law to permit any erosion of the principle for which it stands.
+19 Nor can I accept that the mere bookkeeping entry of moving the amount of bonus owing to Mr. Phillips from “bonus payable” to “due to shareholder” connotes receipt. Accounting entries are supposed to reflect reality, not create it and, as Lord Brampton said in Gresham Life Society Co. Ltd. v. Bishop, [1902] 4 T.C. 464 at page 476:
+But to constitute a receipt of anything there must be a person to receive and a person from whom he receives and something received by the former from the latter, and in this case that something must be a sum of money. A mere entry in an account which does not represent such a transaction does not prove any receipt, whatever else it may be worth.
+(emphasis added)
+[13] Therefore the accrued salaries will be included in the income of the Appellants as and when the accrued salaries were received by the Appellants.
+[14] It is the position of the Appellants that they did not receive the accrued salaries and therefore the amounts for the accrued salaries should not have been included in computing their income. It is not entirely clear whether the Appellants were referring to the total amount for the accrued salaries ($51,226 for Susan Morrison in 1997, $29,352 for Susan Morrison in 1998, $38,655 for David Morrison in 1997 and $26,152 for David Morrison in 1998) or only the portion that was credited to their respective shareholder’s accounts. In any event it seems clear that they did receive the portion that was remitted as source deductions as these amounts were paid on their behalf by TI or ADGA. In The Queen v. Hoffman, [1985] 2 F.C. 541 Justice Rouleau of the Federal Court, Trial Division stated that:
+If the proposition that income must be in the actual possession of the employee before it can be taxed is correct, then I would have to conclude that an employee's contributions to Canadian or provincial pension plans, deducted at source by the employer, are not income in the hands of the employee. Jurisprudence does not support this proposition.
+In Lucien Gingras v. M.N.R. [unreported decision dated March 26, 1973] the Tax Review Board noted (at page 4):
+[Translation]
+The expression "touché" (received) does not necessarily mean that the full amount of the salary must be physically received by the payee or be deposited in full in his bank account.
+According to the interpretation of s. 5 it is sufficient to say that the amount of the salary was paid by the employer either to the employee himself or to his benefit, or that it was handed over to a third party under a federal or provincial statute.
+[15] Therefore the amounts remitted as source deductions would be considered to be received by the Appellants for the purposes of the Act. The issue in this case is whether the amounts that were credited to the respective shareholder’s accounts were received by the Appellants and if so, when such amounts were received.
+[16] Since the Appellants did not serve a notice of objection in relation to the assessment of their tax liability for 1997, this assessment cannot be appealed to this Court. Therefore the question of whether the Appellants had received in 1997 the amounts that were “paid” to them by cheque but which they were obligated to immediately return to the same company and which were then credited to their respective shareholder’s accounts in 1997, is not a question that is properly before me.
+[17] In 1998, the following amounts were credited to the shareholders’ accounts for accrued salaries:
+Amount credited to the shareholder’s account
+Susan Morrison
+$14,362
+David Morrison
+$12,162
+[18] It is the Respondent’s position that the Appellants received these amounts because they were credited to their respective shareholder’s accounts.
+[19] It appears that at the time that these amounts were credited to the shareholders’ accounts, the company was indebted to the Appellants and therefore the credit simply increased the amount owing to the Appellants. If the credit would have been used as a set-off against amounts that the Appellants owed to the company, then the Appellants would have received the amount of such credit (to the extent that the amount owing by the Appellants was reduced). Justice Bonner in Armstrong v. Minister of National Revenue, [1988] 1 C.T.C. 2019, 88 DTC 1015 stated that:
+4 Although the foregoing and other parts of the appellant's testimony are self-contradictory,* I gather from all that the appellant said, taken in context, that she agreed, albeit reluctantly, to permit her husband to discharge his obligation to pay maintenance by way of set off against the appellant's obligation to pay the $5,700….
+5 The appellant did not assert for purposes of this appeal that she did not owe the $5,700 to her husband. Her argument was, “... I am disputing the fact that I was charged income tax on money that I never received ...” As I understood the appellant's argument, it rested on the premise that no amount can be said to be received unless there has been a payment by cash or by cheque. That premise, in my view, is incorrect. The set off arrangement did involve receipt by the appellant of an amount within the meaning of paragraph 56(1)(b). The word “amount” is defined by subsection 248(1) of the Income Tax Act as follows:
+248(1) In this Act,
+“amount” means money, rights or things expressed in terms of the amount of money or the value in terms of money of the right or thing, ...
+Each month the appellant received, by means of the set off arrangement, the amount by which her indebtedness to her husband was diminished. In Trinidad Lake Asphalt Operating Company, Limited v. Commissioners of Income Tax for Trinidad and Tobago, [1945] A.C. 1, the Privy Council considered the question whether there was a “transmission” of income derived from a source within the colony when a company within that colony agreed to set off a debt owing by a non-resident shareholder to the company for goods supplied by it against the amount of a dividend declared by the company on its shares. At page 10 Lord Wright said:
+Was there, then, such a transmission? No actual money passed. If the dividend had been transmitted by a banker's draft sent by the appellant to Barber it could not have been questioned that the dividend had been transmitted, but the two companies might do their own banking transactions between themselves and dispense with the intervention of banking facilities. The transaction involved the sending to Barber by the appellant, and receipt by Barber from the appellant, of the dividend. This was effected by the agreement that payment should be made by cancellation of the debt for goods supplied. This method had been mutually agreed before the dividend was declared. The agreement was carried out by each party making corresponding entries in its books. These were not merely bookkeeping entries. They represented the actual receipt of the dividend by Barber, and the actual payment of it by the appellant to Barber, and concurrently, the actual receipt by the appellant from Barber of payment of his debt for goods supplied. The composite and joint transaction in principle satisfies the description of a payment by Mellish L.J. in In re Harmony & Montagu Tin & Copper Mining Co., Spargo's Case (I). “Nothing is clearer,” he said, “than that if parties account with each other, and sums are stated to be due on the one side, and sums to an equal amount due on the other side of that account, and those accounts are settled by both parties, it is exactly the same thing as if the sums due on both sides had been paid. Indeed, it is a general rule of law, that in every case where a transaction resolves itself into paying money by A. to B., and then handing it back again by B. to A., if the parties meet together and agree to set one demand against the other, they need not go through the form and ceremony of handing the money backwards and forwards.” This statement gives a description of what is often called a settlement in account or a set off, the word not being there used in the technical sense of the statutes of set off. There is actual, not merely notional or constructive payment of the indebtedness on either side.
+(* denotes a footnote reference that was in the original text but which has not been included)
+[20] Therefore if the Appellants would have been indebted to TI immediately prior to the amount being credited to their respective shareholder’s accounts, then there would not have been any need to have TI issue a cheque to the Appellants for the accrued salaries and then have the Appellants issue a cheque to TI to pay the amounts that they owed to TI. The mutual debts could be set-off against each other without the actual flow of funds and the Appellants would have been considered to have received the amount that was set-off against their debt to the company[1].
+[21] However, in this case it does not appear that the amounts credited to the shareholders’ accounts were applied against an amount owing by the Appellants but rather the amount credited simply increased the amount payable by the company to the Appellants. The Respondent introduced a document that is stated to be the “Training Innovations Inc. Minority Shareholder Loans as at September 22, 1999”. This document indicates that the balance that was payable by TI to Susan Morrison as of May 31, 1998 was $33,366. There were three debit entries totalling $28,400 and two credit entries totalling $24,620 to bring the balance forward to December 31, 1998 but there was no indication of the dates for these various entries. This document was introduced by the Respondent who did not call any witnesses and in particular did not call anyone from ADGA to explain the entries. In this situation it seems to me that the amounts paid or payable as reflected in these entries that adjusted the balance payable at May 31, 1998 to reflect the balance payable at December 31, 1998 should be considered to be paid or payable at the same time and therefore the additional entries simply reduce the amount payable to Susan Morrison by $3,781. As a result of these additional entries, the balance stated to be payable to Susan Morrison as of December 31, 1998 was $29,585. For David Morrison the amounts that were payable to him were $22,887 as of May 31, 1998 and $18,625 as of December 31, 1998.
+[22] Since the agreement of purchase and sale provided that the accrued salaries for the period from May 1, 1997 to September 30, 1997 were to be paid on or before April 15, 1998, it appears that the balance as of May 31, 1998 reflects the credits to the shareholders’ accounts of $14,362 for Susan Morrison and $12,162 for David Morrison in relation to these accrued salaries. Since this schedule is the one that was apparently used as support for the cheques that were issued to the Appellants on October 29, 1999 and since there are no other entries in this schedule for the credits for the accrued salaries, the credits for the accrued salaries must have been included in determining the May 31, 1998 balance. The opening balance as stated on the schedule is that as of May 31, 1998. There was no indication that any amounts were credited to the account after the credit for the accrued salaries (which presumably was dated April 15, 1998) and on or before May 31, 1998) and therefore it seems that it was more likely than not that the amount that was payable by the company to Susan Morrison immediately following the credit for the accrued salaries made on or about April 15, 1998 was at least $33,366.
+[23] Since the respective balance payable to each Appellant immediately following the credit for accrued salaries and as of December 31, 1998 was greater than the respective amounts credited to their shareholder’s accounts and since it appears that the amount payable to the Appellants would not, at any time in 1998 after the credits were applied to the accounts, have been less than the amount of these credits, the credits made in 1998 simply reflected an increase in the amount payable to each Appellant and it was not paid prior to the end of 1998. Therefore the amounts credited to the shareholders’ accounts in 1998 were not received by the Appellants in 1998 and therefore should not have been included in their income in 1998.
+[24] The Appellants had also introduced a schedule that was identified as “Training Innovations Inc. Amounts Payable to Shareholders December 1998” which indicated that as of December 1, 1998, Susan Morrison owed the company $20,102. However this schedule showed the two credits for the accrued salary amounts separately (with an indication that the amounts for the accrued salaries were not payable until the ITC’s were received). It is inconsistent to state that the net bonus is not payable until the ITC’s are received (which presumably had not occurred by December 1, 1998) but yet at the same time to take the position that these amounts had been paid to the Appellants prior to this date and that they had received these amounts. This schedule also cannot be reconciled with the other schedule which indicated that it was as of a later date (September 22, 1999). Using the amounts from the schedule dated December 1998, the balance that would be determined as of May 31, 1998 (including the two credits for accrued salaries) is approximately equal to the balance as at May 31, 1998 according to the 1999 schedule ($33,481 v. $33,366) if the debit amount for the Pre-Sept. 1997 expenses ($9,740) is included but the debit amount ($20,040) for the adjustments to assets May 31, 1998 is not included. This debit amount of $20,040 does not appear in the 1999 schedule. If the debit amount for the adjustments to assets May 31, 1998 is included the discrepancy between the two amounts stated to be the balance as of May 31, 1998 is significant ($13,441 v. $33,366). It seems to me that the 1999 schedule is the one that should be used as it was prepared later and it was the schedule that presumably supported the issuance of the cheques to the Appellants on October 29, 1999 as payment of the balance in their respective shareholder’s accounts. The balance stated to be payable to the Appellants according to the 1999 schedule corresponds to the amounts of the cheques issued to the Appellants.
+[25] The Respondent also introduced a copy of cheques that were issued to Susan Morrison and David Morrison and that were dated October 29, 1999. It appears that these apparently paid the balance then owing in the shareholders’ accounts. However, since these cheques were not dated until 1999 they cannot support a finding that these amounts were received in 1998.
+[26] The Appellants also submitted that the amounts payable for the accrued salaries were reduced because the tax credits claimed by TI were reduced by the Canada Customs and Revenue Agency (as they were then). It is the position of the Respondent that the accrued salaries were paid to the Appellants and that the subsequent reduction in the amounts payable to the Appellants was not a reduction to the accrued salaries payable but rather a charge to the Appellants to reflect the reduction in the assets of the company.
+[27] However, it seems to me that there is a direct link between the accrued salaries and the tax credits claimed by the company. The agreement of purchase and sale provided for a reduction in the amount payable if the investment tax credits received were less than the amount claimed[2]. The Appellants testified that it was their clear understanding that their accrued salaries were tied to the tax credits claimed and although the agreement referred to a proportionate reduction of the amount payable to them, it was their understanding that the company reduced the amount payable for their accrued salaries by the same amount as the amount by which the tax credits were reduced. The Respondent also introduced a letter from ADGA dated May 9, 2000 in which it is stated that:
+Susan and David Morrison, as well as Rex Woollard, were the original shareholders of TI. They were owed wages by the company for the tax years ended April 30, 1997 and September 30, 1997, prior to the acquisition by ADGA. As part of the purchase transaction, ADGA agreed to honour these accrued wages and to release payment once outstanding R & D Investment Tax Credits relating to the two years were collected. In addition, they agreed to indemnify ADGA against unbooked claims against the company relating to activities that occurred before ADGA’s acquisition of control.
+[28] It seems to me that there is a clear link between the payment of the accrued salaries and the tax credits claimed by the company and that any reduction in the tax credits would reduce the salaries that would be paid. It appears that the following were the amounts that were debited to the shareholders’ accounts in relation to the reduction in the tax credits (and hence reduced the salaries payable):
+Entry to adjust balance at May 31, 1999
+Susan Morrison
+David Morrison
+1997 ITC assessment (estimated)
+($26,368)
+($23,484)
+[29] Although it is not entirely clear, it appears that the shareholders’ accounts were not reduced until 1999 to reflect the reduction in the tax credits that were received. It also appears that the reduction in the shareholders’ accounts for the shortfall in the tax credits was less than the amount that was credited to the shareholders’ accounts for the accrued salaries. The following table sets out the amounts credited to the shareholders’ accounts in relation to the accrued salaries and the amounts debited in relation to the reduction in the tax credits received by the company:
+Susan Morrison
+David Morrison
+Credit for accrued salaries as of April 30, 1997:
+$25,826
+$19,355
+Credit for accrued salaries for the period May 1 – September 30, 1997:
+$14,362
+$12,162
+Total credits for accrued salaries:
+$40,188
+$31,517
+Debit for reduction in tax credits received:
+($26,368)
+($23,484)
+Net credit for accrued salaries:
+$13,820
+$8,033
+[30] Therefore it appears that the Appellants did receive a portion of the amounts credited for accrued salaries in 1999 when the balance of the shareholders’ accounts was paid to them. There were a number of debits to the shareholders’ accounts and some of the accrued salaries would have been used as a set-off against amounts payable by the Appellants to the company.
+[31] The amounts that were credited to the shareholders’ accounts in 1998 (and which are not included in their income for 1998) cannot now be added to their income for 1999 because the Minister cannot appeal his assessment[3].
+[32] It seems to me that the Appellants were required to repay in 1999 a portion of the amount that had been included in their income in 1997. It also seems to me that in determining the amount that an individual has received as salary, that any amount that the individual is required to repay should be taken into account. For example, assume that an individual is employed for the period from January to May in a particular year. Assume that the individual during those months received a salary of $12,000 per month ($60,000 in total). Assume that it is a condition of his employment that if he leaves his job and works for a competing firm that he will be required to repay a portion ($2,000 for each month that he was employed) of the salary that he has received. Assume the individual leaves the employment at the end of May to work for a competing firm and that, as agreed, he repays $10,000 ($2,000 x 5 months) to his then former employer. In this situation it seems to me that the amount that should be included in income as the salary received for this period is $50,000, not $60,000. It does not seem to me that it would have been the intention of Parliament to tax that individual on the basis that he had received $60,000 when $10,000 of that amount is repaid to the employer. If the initial payment and subsequent repayment occur in different years, then it seems to me that in the subsequent year the amount received for salary or wages should be net of any amount that was included in income in a previous year and is repaid in that subsequent year.
+[33] In this case, in relation to the reassessments issued for the 1999 taxation year, only the reassessment of Susan Morrison’s income for 1999 is under appeal to this Court. It seems to me that since a portion of the amount that was included in her income for 1997 as accrued salaries was subsequently repaid in 1999, that the amount that she received in 1999 as salary should be reduced by the amount that was previously included in her income and repaid in 1999.
+[34] There is no breakdown of the adjustment of $26,368 for the reduction in the tax credits to show what portion of this relates to the accrued salaries as of April 30, 1997 and what portion relates to the accrued salaries for the period May 1, 1997 to September 30, 1997. It will therefore be assumed that this relates proportionately to these two amounts. Therefore the amount that will be considered to relate to the accrued salaries as of April 30, 1997 will be:
+Credit for accrued salaries as of April 30, 1997:
+$25,826
+Total credits for accrued salaries:
+$40,188
+Percentage of total:
+64%
+Portion of debit that relates to these accrued salaries (64% of $26,368):
+$16,876
+[35] Therefore the amount of salary that Susan Morrison received for the purposes of the Act for 1999 should be reduced by $16,876. No adjustment will be made to the amount of the reduction in accrued salaries for the period from May 1, 1997 to September 30, 1997 because the accrued salaries for this period, as a result of this decision, will not be included in her income.
+[36] The Appellants had also claimed various deductions in computing their income from employment in 1998 and 1999. These amounts arose because ADGA or TI made other adjustments to their shareholder’s accounts for liabilities and expenses of TI that ADGA stated were the responsibility of the Appellants. It seems to me that there is no provision of section 8 of the Act that will permit the Appellants to deduct these amounts in computing their income from employment. Subsection 8(2) of the Act provides that:
+(2) Except as permitted by this section, no deductions shall be made in computing a taxpayer's income for a taxation year from an office or employment.
+[37] Since these amounts are not deductible under any part of section 8, these amounts are not deductible by the Appellants in computing their income from employment. It seems to me that perhaps these could have been considered to be adjustments to the purchase price but this was not argued by the Appellants and there was no evidence of how the gain on the sale of the shares was reported. There is a reference in the memo from ADGA attached to the fax dated September 3, 1999 that refers to “$140,000 remaining from the acquisition of the TI shares by ADGA” but there was no indication of whether all of the gain arising from the sale of shares (which presumably was a capital gain) was reported in 1997 or whether a reserve was claimed pursuant to subsection 40(1) of the Act and a portion of the gain was claimed in 1998 or 1999. Since the 1997 taxation year is not under appeal, no adjustment could be made to any capital gain that may have been reported in that year. If no capital gain was reported in 1998 by the Appellants or in 1999 by Susan Morrison, any capital loss that might arise in those years would not affect the assessment of their tax liability since capital losses could only be deducted against capital gains. Without any evidence that any capital gains were reported by the Appellants in 1998 or by Susan Morrison in 1999, no adjustment will be made in relation to these claims.
+[38] The Appellants had also raised the issue of royalty income and had submitted that they had not received the royalty income. This relates to an amount of $14,866 for Susan Morrison. The amount for David Morrison was $13,239 in 1999, however the reassessment of his tax liability for 1999 is not under appeal to this Court.
+[39] In any event it seems to me that these amounts were paid in 1999. There was a credit to the shareholders’ accounts in 1999 for the royalty payments. The balance of the shareholders’ accounts (after taking into account all of the debits and credits) appears to have been paid to the Appellants on October 29, 1999. Although the amount of the cheque issued to each Appellant ($22,710 to Susan Morrison and $12,502 to David Morrison) was less than the amount that they were expecting, the amount reflects all of the debits made to these accounts. The debits reflected the amounts payable by the Appellants to the company. Therefore the credits were used in part to pay the amounts payable by the Appellants to the company and the balance that was payable to the Appellants (after the reduction for the amounts payable by the Appellants) was paid by cheque to the Appellants. If the Appellants dispute whether they should have been charged for all of the amounts for which they were charged (and which were debited to their respective shareholder’s accounts), this is a matter that would have to be resolved between the Appellants and ADGA.
+[40] As a result the Appellants appeals are allowed and the matter is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that:
+(a) Susan Morrison’s income from employment for 1998 is reduced by the amount of $14,362;
+(b) David Morrison’s income from employment for 1998 is reduced by the amount of $12,162; and
+(c) Susan Morrison’s income from employment for 1999 is reduced by the amount of $16,876.
+[41] The Respondent shall pay each Appellant costs in the amount of $750.
+Signed at Ottawa, Canada, this 19th day of August, 2010.
+“Wyman W. Webb”
+Webb, J.
+CITATION: 2010TCC429
+COURT FILE NOS.: 2004-2298(IT)I
+2004-2297(IT)I
+STYLE OF CAUSE: SUSAN V. MORRISON AND
+HER MAJESTY THE QUEEN AND BETWEEN DAVID L. MORRISON AND
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: Nanaimo, British Columbia
+DATE OF HEARING: July 12, 2010
+REASONS FOR JUDGMENT BY: The Honourable Justice Wyman W. Webb
+DATE OF JUDGMENT: August 19, 2010
+APPEARANCES:
+For the Appellants:
+Susan V. Morrison
+Counsel for the Respondent:
+Whitney Dunn
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: Myles J. Kirvan,
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] See also Tolhoek v. The Queen, 2007 DTC 247, 2006 TCC 681 (appeal dismissed 2008 FCA 128, [2008] 3 C.T.C. 403, 2008 D.T.C. 6279) in which Justice Campbell of this Court held that amounts could be paid by offsetting journal entries.
+[2] The agreement also stated that “the balance of the advance will be forgiven by the Vendors”. It is not clear what is meant by this. If the tax credits would have been reduced by $1, what is the balance of the advance that would be forgiven?
+[3] Valdis v. The Queen, [2001] 1 C.T.C. 2827, at paragraph 21.

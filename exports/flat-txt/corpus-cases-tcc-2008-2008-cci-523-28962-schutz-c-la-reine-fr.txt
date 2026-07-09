@@ -1,0 +1,659 @@
+Title: Schutz c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28962/index.do
+Corpus path: corpus/cases/tcc/2008/2008-cci-523-28962-schutz-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2008-11-12
+
+# Schutz c. La Reine
+
+- Citation: 2008 CCI 523
+- Decision date: 2008-11-12
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4179, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Schutz c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-11-12
+Référence neutre
+2008 CCI 523
+Numéro de dossier
+2004-4147(IT)G
+Juges et Officiers taxateurs
+Eugene P. Rossiter
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Référence : 2008CCI523
+Date : 20090123
+Dossier : 2004-4147(IT)G
+ENTRE :
+PAULA SCHUTZ,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Dossier : 2004-4148(IT)G
+ET ENTRE :
+DEBORAH SEWELL,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Dossier : 2004-4149(IT)G
+ET ENTRE :
+PETER THOMPSON,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Dossier : 2004-4150(IT)G
+ET ENTRE :
+DAVID SMITH,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Dossier : 2004-4151(IT)G
+ET ENTRE :
+GUY McLEAN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Dossier : 2004-4153(IT)G
+ET ENTRE :
+DAVID SUCHANEK,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Dossier : 2004-4154(IT)G
+ET ENTRE :
+MICHAEL PEIRCE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT MODIFIÉS À NOUVEAU
+Le juge en chef adjoint Rossiter
+Introduction
+[1] Appleby College (« Appleby ») est un pensionnat situé au bord du lac Ontario, à Oakville (Ontario); il compte plus de 500 élèves en tout, dont 200 pensionnaires, garçons et filles en nombre égal. En 1996 et en 1997, environ 25 des 65 membres du corps enseignant résidaient sur le campus, dans des logements qu’Appleby, qui en était propriétaire, leur fournissait. Parmi les employés bénéficiant de cet avantage, il y avait le directeur, les responsables de résidence (le personnel qui logeait dans les dortoirs et qui assurait la supervision des élèves dormant dans les dortoirs), les responsables adjoints de résidence (le personnel aidant les responsables de résidence logeant dans les dortoirs), un chef de dortoir (un employé qui occupait un petit appartement dans un dortoir et qui supervisait les élèves dormant dans ce dortoir) et des enseignants (des membres du personnel habitant des maisons jumelées ou isolées, à l’écart des dortoirs).
+[2] Selon les conditions d’emploi établies par Appleby, les employés susmentionnés étaient tenus de vivre sur les lieux afin d’exercer les fonctions de leur emploi. Certains membres du personnel versaient un loyer, alors que d’autres se voyaient accorder un avantage. Tous les employés, sauf Paula Schutz, déclaraient cet avantage sous une forme ou une autre dans leurs déclarations de revenus.
+[3] Selon l’Agence du revenu du Canada (l’« ARC »), chaque employé a) a reçu un avantage; b) l’avantage déclaré a été sous‑évalué. L’ARC a donc établi de nouvelles cotisations à l’égard de chaque appelant pour l’année d’imposition 1997.
+Les questions en litige
+[4] Les appelants ont reconnu bénéficier d’un avantage imposable au titre du logement en vertu du paragraphe 6(1) de la Loi de l’impôt sur le revenu (la « Loi »). Il reste trois questions à décider :
+(1) Quelle est la juste valeur locative du logement dont a bénéficié chacun des appelants?
+(2) Quelle est la réduction, le cas échéant, à effectuer sur la juste valeur locative compte tenu de la situation respective des appelants sur le plan du logement?
+(3) L’employeur a-t-il bénéficié d’un avantage accessoire en raison de l’avantage accordé aux appelants et, dans l’affirmative, faut‑il réduire le montant de l’avantage inclus dans le revenu de chaque appelant en conséquence?
+Les faits
+Le campus et les logements du personnel
+[5] Appleby est un pensionnat et un externat, situé près du lac Ontario, à Oakville (Ontario); il compte environ 500 élèves en tout, dont 200 pensionnaires, avec autant de garçons que de filles.
+[6] Un certain nombre de postes, à Appleby, exigent que les employés vivent sur le campus afin de remplir les fonctions de leur emploi, de façon à permettre à Appleby d’exploiter le pensionnat. Environ 25 membres du personnel d’Appleby habitent des logements situés sur un campus de 55 acres appartenant à Appleby et fournis par Appleby. Parmi ces employés, il y a le directeur, les responsables de résidence, les responsables adjoints de résidence, les chefs de dortoir et d’autres membres du corps enseignant, dont certains exécutent des tâches particulières associées aux logements qu’ils habitent. Les enseignants qui résident sur les lieux versent un loyer annuel précis à Appleby ou bénéficient d’un avantage imposable découlant de leur emploi, lequel est pris en compte lorsqu’ils produisent leurs déclarations de revenus annuelles. Aucun bail n’a été conclu par écrit. Les membres du personnel se voient attribuer des logements précis; ils doivent se procurer leurs propres appareils électroménagers et ils ne peuvent apporter aucun changement aux locaux sans avoir obtenu l’autorisation expresse d’Appleby, notamment lorsqu’ils veulent poser des clôtures. De plus, ils doivent quitter leur logement à la fin du mois de juillet s’ils n'occupent plus leur poste l’année scolaire suivante. Les logements comprennent des habitations unifamiliales et des maisons jumelées (semblables à des duplex), situées dans les deux cas sur le campus ou ailleurs, des maisons jumelées rattachées aux dortoirs et de petits appartements de 500 pieds carrés situés au milieu de dortoirs dans lesquels dorment de 50 à 60 élèves. Aucun des appelants ne disposait d’un terrain en tant que tel se rattachant aux locaux qui lui étaient assignés. Tous les appelants, sauf David Smith, étaient exposés à un certain niveau de bruit, en plus du bruit ambiant, et subissaient, dans une certaine mesure, des volumes excessifs de circulation et des problèmes de stationnement à cause de l’emplacement de leur logement. La vie privée de tous les appelants, sauf David Smith, sur le plan résidentiel, était perturbée étant donné que des élèves ou d’autres personnes, par exemple des anciens élèves, circulaient dans les locaux d’habitation. Certains logements étaient en meilleur état que d’autres; aucun logement n’était climatisé; la finition de certains logements à caractère historique était de bonne qualité, alors que celle d’autres logements, qui pourraient être considérés comme vieillots, dont l’état laissait à désirer et ayant vraiment besoin d’être rénovés, était d’une qualité minimale.
+[7] Les élèves participent à des activités scolaires ainsi qu’à des activités parascolaires; le programme d’études comprend également des heures supplémentaires de service, et des études plus poussées en langues étrangères, en mathématiques et en sciences. Le groupe d’âge se situe entre 13 et 18 ans; les pensionnaires sont surtout des élèves de la neuvième à la douzième année (tous les élèves de douzième année doivent être pensionnaires). Les activités scolaires se déroulent d’une façon générale du lundi au vendredi, alors que l’après‑midi du mercredi et le samedi sont considérés comme des jours consacrés au sport. Les repas sont pris sur le campus; il y a des heures d’étude supervisées dans les résidences, et c’est quartier libre par ailleurs pour les élèves plus tard dans la soirée. Pendant le week‑end, il y a un petit élément résidentiel, mais des activités organisées supplémentaires sont proposées aux élèves. Il faut assurer la surveillance en tout temps, et il y a des formalités, des procédures de sortie et d’entrée pour les élèves qui veulent quitter le campus.
+[8] Appleby tente de maximiser ses recettes en louant un grand nombre de ses installations pendant la journée et le soir, en semaine, ou au cours du week‑end. Appleby loue notamment les locaux résidentiels, les salles de classe et les installations sportives. Appleby organise également des camps pendant les vacances du printemps et en été.
+[9] Il y a quatre dortoirs, sur le campus, chacun logeant de 50 à 60 élèves. Chaque dortoir est doté d’un responsable de résidence, d’un responsable adjoint de résidence et d’un chef de dortoir, qui habitent tous des logements rattachés aux dortoirs. Les tâches du responsable de résidence comprennent notamment celles-ci :
+a) assurer le bon fonctionnement de la résidence;
+b) assurer la sécurité des élèves;
+c) surveiller la conduite et le comportement des élèves;
+d) veiller à ce que les chambres des élèves soient dans un état acceptable;
+e) veiller à ce que les élèves se présentent aux repas lorsqu’ils doivent le faire;
+f) organiser le tableau de service de la résidence;
+g) veiller à ce que les couvre‑feux soient respectés;
+h) conseiller au besoin les élèves;
+i) assurer la liaison avec les parents et assurer le bien‑être général des élèves;
+j) inciter les des élèves à participer aux activités et aux programmes offerts par Appleby;
+k) faire rapport aux parents au sujet du progrès général accompli par l’élève et de la mesure dans laquelle l’élève se plaît, à Appleby;
+l) essayer de faire de la vie en résidence une expérience agréable et encourager les élèves à nouer des liens étroits en organisant des collectes de fonds, des danses à l’intention des élèves, des soirées de jeu et d’autres activités similaires.
+[10] Le responsable de résidence exerce essentiellement l'autorité parentale à l'égard des élèves. Le responsable adjoint de résidence exerce les mêmes fonctions que le responsable de résidence; toutefois, c’est le responsable de résidence qui prend les décisions.
+[11] Les chefs de dortoir sont habituellement des diplômés universitaires qui envisagent de devenir enseignants; ils travaillent à Appleby pendant une année scolaire afin d’acquérir de l’expérience en matière d’enseignement. Ils habitent un petit appartement du genre « studio » au milieu d’un dortoir et ils doivent s’occuper concrètement des élèves. Ils sont chargés de la surveillance générale des élèves qui dorment en dortoir, en particulier pendant les heures d’étude, qui ont lieu tous les soirs, de 19 h 30 à 20 h 30. Ils organisent également des activités pour les élèves et préparent les élèves pour le week‑end.
+Le directeur et sa résidence
+[12] Le directeur habite une maison isolée à deux étages, construite en 1912. La maison comporte quatre chambres à coucher, un séjour, une salle à manger, une cuisine, un sous‑sol semi‑fini à plafond bas, servant à l’entreposage; un garage est rattaché à la maison au moyen d’un passage couvert. Le sous‑sol sert principalement à l’entreposage de boissons, vin ou bière par exemple, ainsi qu’à l’entreposage d’autres articles ménagers, comme des rayons de bibliothèque pour des manuels scolaires supplémentaires. Cette maison est située près du lac Ontario. La propriété n’est pas clôturée; il n’y a rien qui permette d’associer la parcelle de terre entourant la maison à une résidence privée.
+[13] La résidence du directeur est entourée de trois terrains de sport : Main Field, Creek Field et Walker Field. Main Field est un terrain de football utilisé pour les classes d’éducation physique ainsi que pour les pratiques et matchs de football et de rugby, en automne et au printemps. Il est également utilisé pour les épreuves d’athlétisme et, en été, Appleby le loue pour des camps et d’autres activités. Creek Field, un terrain de rugby et de soccer, est situé à côté; des activités semblables à celles qui se déroulent au Main Field y ont lieu. Walker Field est également situé en bordure du Main Field; il s’agit d’un terrain en gazon artificiel où l’on joue au hockey; il est utilisé en été, en automne et au printemps. Appleby le loue très souvent à diverses organisations ou pour de grosses compétitions de niveau universitaire. En 1996 et en 1997, des travaux de réfection ont été effectués au Walker Field et un dôme bombé a finalement été installé sur le tiers du terrain. Au nord de la résidence du directeur, il y a une dépression supérieure et une dépression inférieure, devant et derrière la résidence; des gens y circulent et des activités s’y déroulent tous les jours; en effet, on y pratique des sports intra‑scolaires au cours de l’année scolaire, plus précisément du lundi au samedi, et pendant le temps des fêtes. Appleby loue ses terrains et installations, y compris le réfectoire, à des équipes mineures locales de soccer et de hockey, à des entreprises et à des groupes religieux, à des organismes de bienfaisance pour des manifestations, à des camps d’été et à des anciens élèves, tout cela contribuant à accroître le niveau de bruit, la circulation, les problèmes de stationnement et l’absence de vie privée. Les routes, sur le campus, sont ouvertes et ne sont pas surveillées, de sorte que le public peut y circuler en toute liberté et qu’il y a constamment des problèmes de stationnement. En outre, plusieurs pentes sont utilisées pour le traîneau et le bobsleigh, en particulier pendant le week‑end.
+[14] Guy McLean est entré au service d’Appleby à titre d’enseignant en 1971; il a par la suite été nommé directeur en 1987. Appleby est dirigé par un conseil de gouverneurs, mais les activités quotidiennes d’Appleby relèvent du directeur. C’est lui qui embauche tous les membres du personnel et qui fixe leur salaire ainsi que les conditions d’emploi.
+[15] Le directeur était tenu de vivre sur le campus étant donné qu’Appleby est un pensionnat. Il n’avait pas signé de bail pour sa résidence et, aux termes de son contrat de travail, il devait verser un loyer mensuel de 500 $ (à compter du 23 juillet 1997). Les frais de services publics, de 166 $ par mois, étaient réglés par Appleby, mais le directeur avait acheté les appareils électroménagers et ceux‑ci lui appartenaient.
+[16] Le directeur et sa femme sont propriétaires d'une autre résidence à environ deux heures d’Appleby; ils l’utilisent pendant les congés, en été et au cours du week‑end. Néanmoins, M. McLean passe un grand nombre de jours de congé et de samedis à surveiller les activités sur le campus, en particulier les sports, et il ne quitte chaque année le campus que pendant environ 145 jours pour des voyages d’affaires ou lorsqu’il prend un congé et qu’il retourne à son autre résidence.
+[17] Diverses activités ont lieu sur le campus et dans les environs, près de la résidence du directeur; elles réduisent la sphère privée du directeur, qui vit presque comme dans un gros aquarium public. Le directeur est fort visible sur un campus où se déroulent de nombreuses activités et où les élèves, les parents et le public vont et viennent en tout temps; il y a généralement encore plus d’animation pendant le week‑end. La résidence est mise à la disposition du directeur afin de lui permettre de recevoir des invités; la personne qui vit là où elle travaille renonce en bonne partie à sa vie privée et le directeur est essentiellement de service 24 heures sur 24, sept jours sur sept. Il rencontre personnellement les élèves et les parents et il reçoit des appels téléphoniques chez lui. En outre, il existe un certain code de conduite que le directeur doit observer dans sa propre maison; il doit notamment porter des vêtements appropriés certains jours, et tout cela est surveillé de près en raison de l’emplacement de sa résidence. Par conséquent, des contraintes importantes sont imposées au directeur, ce qui a pour effet de restreindre sa capacité d’organiser des réceptions ou des réunions à titre personnel.
+[18] Le sous‑sol de la résidence du directeur est utilisé à des fins d’entreposage et les préparatifs des manifestations se déroulent dans le garage. Le directeur a, dans sa résidence, un bureau où, en plus d’utiliser le patio et le séjour, il rencontre les élèves, les parents, les enseignants et les membres du conseil d'administration et où il tient des réunions à des fins de relations publiques. Les membres du conseil d’Appleby se réunissent tous les mois au cours de l'année scolaire (soit dix fois en tout); le directeur reçoit les membres du conseil chez lui après les réunions. Les membres du conseil se réunissent également chez le directeur environ tous les deux mois. Le directeur utilise essentiellement sa résidence pour des réceptions ou pour des réunions environ douze fois par mois ou trois fois par semaine.
+[19] Le directeur organise chez lui environ 15 grandes manifestations annuelles qu’il ne peut pas annuler; des boissons sont servies et des repas et des brunches sont organisés pour 150 à 250 invités. Le directeur doit essentiellement consacrer deux ou trois journées à chacune d'elles; une pour les préparatifs, une pour la manifestation elle-même et une jour pour le nettoyage des lieux. Il a recours à des traiteurs ainsi qu’à du personnel affecté à la cuisine, aux préparatifs et aux travaux de nettoyage. Certaines réunions servent à la levée de fonds et constituent une partie importante de la charge du directeur. De plus, la résidence est utilisée pour des activités communautaires et caritatives connexes, par exemple pour le petit déjeuner Centraide. En somme, la résidence du directeur est aménagée pour des réceptions étant donné que la cuisine est presque de nature commerciale.
+[20] Appleby ne dispose pas de logements pour l’hébergement des directeurs des autres écoles ou des dignitaires qui effectuent des visites, de sorte que le directeur les reçoit et les héberge pendant deux ou trois jours, ou même pendant une semaine entière, environ trois fois l’an. Le directeur a reçu chez lui des dignitaires tels que Desmond Tutu et le prince Édouard.
+[21] En 1996 et en 1997, le directeur a été exposé à des niveaux de bruit plus élevés que la normale; au cours de cette période, on a démoli Powell House et on l’a reconstruite, de sorte que la circulation sur la route principale du campus a été déviée. Habituellement, le directeur n’était pas vraiment dérangé entre 7 et 18 h puisqu’il n’était pas chez lui. De 17 h 30 à 19 h 15, il y avait énormément d’agitation à cause des activités sur les terrains voisins, des divertissements, des problèmes de stationnement public, et notamment parce que certaines personnes garaient leur voiture dans son entrée, ou encore parce que des piétons ou des joggeurs passaient tout près de la résidence. Le niveau de bruit pouvait être faible ou exaspérant; l’épouse du directeur se plaignait constamment à son mari du bruit et de l’agitation, mais cela faisait tout simplement partie du mode de vie du directeur. En outre, les membres du corps enseignant se plaignaient fréquemment du niveau de bruit, et certains d’entre eux ont décidé de s’installer à l'extérieur du campus, en particulier l’appelante Deborah Sewell.
+[22] Pendant toute l’année 1997, il y a eu les vacances scolaires habituelles au cours de chaque semestre ainsi que les vacances d’été. Le directeur n’était pas sur le campus pendant une partie de ces vacances.
+[23] Mis à part le bruit et la perte de tranquillité et de jouissance paisible de la résidence, le fait que le directeur organisait des manifestations constituait un inconvénient inévitable; il n’était pas possible en pratique de les organiser ailleurs, sur le campus ou ailleurs, à cause des problèmes financiers et logistiques que cela posait pour Appleby. De plus, il y avait parfois des dégâts dans la maison lorsqu’il y avait des invités. En outre, le directeur ne pouvait pas utiliser la propriété à l’extérieur parce que des personnes et des groupes qui louaient des installations passaient constamment près de la propriété et il n'y avait pas de clôtures et d’écrans la protégeant de la circulation quotidienne; tout cela contribuait à nuire à la jouissance paisible de la propriété et à porter atteinte à la vie privée. Le directeur avait souvent de la difficulté à faire passer sa voiture dans l'allée, en particulier le mercredi et le samedi, parce que des gens garaient leur voiture sur le campus, et notamment dans son allée. Habituellement, le directeur partait chaque jour de chez lui tôt le matin pour aller chercher un café et il garait sa voiture ailleurs sur le campus, de façon à être en mesure de s’en servir pendant la journée, vu les problèmes réguliers de stationnement dans son entrée. Néanmoins, le fait de vivre dans la résidence comportait certains avantages : proximité du lieu de travail, résidence agréable, atmosphère du campus, absence d’obligation de faire la navette et absence de stress attribuable aux déplacements, ambiance communautaire et sécurité des jeunes enfants du directeur. Malgré ces avantages, le directeur ne jouissait pas vraiment d’une vie privée dans sa propre maison; en somme, il ne disposait pas d’espace personnel.
+Les dortoirs
+[24] Colley House est un dortoir pour les élèves; la résidence a été construite en 1911; environ 60 garçons y sont hébergés au cours de l'année scolaire. La résidence est composée de chambres pouvant accueillir jusqu’à quatre élèves chacune. Le sous‑sol comporte une salle commune; des casiers et des douches sont mis à la disposition des « externes ». Le quart des « externes » sont rattachés à la résidence; ils y laissent leurs effets personnels avant les cours et y retournent pendant la journée; ils se changent dans les vestiaires et ils utilisent les douches. Le responsable de résidence dispose d’un appartement à deux étages au rez‑de‑chaussée de la résidence, la porte avant donnant sur le couloir utilisé par les élèves. À l’extérieur, il y a une cour clôturée d’environ 15 pieds sur 20 pieds. Le responsable adjoint de résidence habite un appartement au troisième étage de la résidence, lequel est relié au couloir utilisé par les élèves et comporte un accès à l’extérieur.
+[25] Baillie House et Walker House sont des dortoirs; leur agencement est essentiellement le même que celui de Colley House; il y a notamment des casiers pour les « externes », des douches, des salles de classe et une buanderie au sous‑sol, en plus d’une salle commune à chaque étage. Les élèves ont également directement accès à l’appartement du responsable de résidence depuis le dernier étage ainsi qu’à l’appartement du responsable adjoint de résidence depuis le premier et le deuxième étage.
+[26] Powell House, construite en 1997, est la résidence la plus récente sur le campus; le bâtiment d'origine avait été construit en 1917. En 1996, la résidence a été en partie reconstruite parce que le bâtiment d'origine avait été démoli. Tous les dortoirs, à l’exception de ceux de Colley House, avaient des portes arrière permettant d’entrer dans les appartements. Aucune des résidences n’était climatisée ou n’était dotée d’appareils électroménagers ou de garages.
+Paula Schutz
+[27] Paula Schutz était chef de dortoir, dans Baillie House; elle était responsable de la supervision générale des élèves qui y résidaient. Ses tâches consistaient notamment à surveiller les élèves pendant les heures d’étude plusieurs fois par semaine ainsi qu’à organiser des activités pour eux le week‑end. Mme Schutz était titulaire d’un diplôme universitaire; elle voulait acquérir de l’expérience, ce qui l’aiderait à devenir enseignante. Ses conditions d’emploi étaient notamment les suivantes :
+(1) hébergement dans un appartement du genre « studio », situé au milieu de Baillie House (l’entrée de l’appartement était située dans la résidence des élèves);
+(2) salaire de 15 000 $ pour le premier semestre;
+(3) partage de l’appartement, après Noël, avec un autre chef de dortoir.
+Deborah Sewell
+[28] Deborah Sewell avait été employée par à Appleby depuis 17 ans; elle avait d'abord enseigné l’art dramatique et avait ensuite été responsable adjointe de résidence; elle a par la suite été nommée responsable de Baillie House en 1996‑1997; elle était mariée et avait deux enfants, qui étaient alors âgés de neuf et de sept ans.
+[29] Baillie House est un bâtiment de trois étages. Le logement du responsable de résidence comportait deux étages, avec trois chambres à coucher, un studio sans ascenseur, deux salles de bains et demie, un séjour, une salle à manger, une cuisine, un coin de détente et une grande salle. Le dernier étage de la résidence était doté d’une entrée qui donnait sur le cabinet de travail de Mme Sewell depuis le couloir utilisé par les élèves. La porte était toujours ouverte aux élèves; Mme Sewell était essentiellement un mentor pour les élèves. Des places de stationnement étaient mises à la disposition de Mme Sewell, mais il n’y avait pas de terrain précis autour de la résidence. Juste à côté il y avait Walker Field, où l’on jouait au hockey sur gazon et au soccer, en plus d’y jouer également au frisbee; on y faisait aussi des pique‑niques et des barbecues.
+[30] Le poste de responsable de résidence était un poste d’enseignant d’une durée de dix mois. Pendant la journée, Mme Sewell donnait six cours; elle surveillait les activités quotidiennes des élèves; elle exerçait l'autorité parentale sur les jeunes filles de son dortoir; elle veillait à ce que les élèves se lèvent et soient prêtes le matin et à ce qu’elles se présentent aux repas et aux cours. Elle s’occupait des problèmes médicaux, des heures d’étude, des rencontres parents‑enseignant et du bien‑être des élèves. Ses tâches semblaient plus lourdes le soir; il est arrivé à diverses reprises que Mme Sewell ait à s’occuper d’élèves qui faisaient des fugues; de problèmes d’instabilité mentale et de cas d’ivresse; d’élèves qui sortaient sans permission ou qui essayaient de s’infiltrer dans le dortoir; d’élèves qui n’étaient pas dans leur dortoir lorsqu’elles devaient y être; d’élèves qui avaient besoin de soins médicaux. Il y avait 52 jeunes filles dans le dortoir; elles aimaient bavarder et parler à la responsable de résidence; Essentiellement, Mme Sewell encadrait les élèves au quotidien; elle rencontrait les élèves, les parents et d’autres personnes responsables.
+[31] La jouissance paisible du logement dans lequel vivait Mme Sewell était troublée de diverses façons, par exemple par les activités se déroulant sur Walker Field; du bruit provenant de l’aréna; des gens qui allaient et venaient dans tous les sens; des piétons et des gens qui promenaient leur chien; des élèves qui se présentaient chez Mme Sewell; des personnes qui voulaient utiliser la salle de bains située dans son logement; de l’utilisation du portique de gymnastique de ses enfants; des élèves ivres et des nombreux appels des parents. Il y avait énormément de bruit 24 heures sur 24, sept jours sur sept, sauf lorsque tous les élèves quittaient le campus; Il y avait néanmoins toujours une certaine agitation, rarement interrompue. Il s’agit d’un type d’intrusion unique en son genre; le bruit généré par 52 jeunes filles est tout à fait différent de celui qui règne dans d’autres milieux, vu l’absence de vie privée et les personnes qui étaient constamment autour du campus. Il y avait si souvent de l’agitation que Mme Sewell a demandé que l’on pose une clôture protectrice et que sa bonne d’enfants avait l’impression de s’occuper de toutes les élèves du dortoir.
+[32] Après avoir été pendant quatre ans responsable de résidence, Mme Sewell a démissionné de son poste parce qu’il nuisait considérablement à sa vie privée; son emploi prenait tout son temps. En 1996, Mme Sewell a versé à Appleby un montant de 3 774 $ pour habiter Baillie House, mais elle n’a effectué aucun paiement en 1997; elle a toutefois déclaré un avantage imposable pour chaque année dans sa déclaration de revenus.
+Michael Peirce
+[33] Michael Peirce était directeur adjoint, chargé des services aux élèves, à Appleby. Il habitait une maison située à côté de Baillie House avec ses enfants, alors âgés de sept et de neuf ans. Il s’agissait d’un chalet datant des années 1950 comprenant au rez‑de‑chaussée un séjour, une salle à manger, un bureau, un cabinet de toilette, une cuisine; au second étage, il y avait trois chambres à coucher et une seule salle de bains.
+[34] Il y avait de nombreuses intrusions et beaucoup d’agitation dans ce lieu; Walker Field, où les matchs de hockey sur gazon et les activités des groupes qui louaient le terrain le dimanche matin, causaient constamment du bruit, était situé à l’ouest de la maison. Derrière la maison, il y avait une aréna de hockey doté d’un terrain de stationnement, avec des voies à sens unique; au cours de la saison de hockey, les personnes garaient leur voiture dans l’espace réservé à M. Peirce, ce qui occasionnait des problèmes de stationnement. Certaines personnes qui voulaient entrer dans l’aréna se présentaient chez lui pour demander de l’aide. La maison était dotée d’une petite cour clôturée où il y avait des balançoires pour enfants et une cabane dans un arbre. Les gens qui passaient et cherchaient un endroit où s’asseoir déplaçaient souvent le mobilier de jardin en dehors de l’aire clôturée; on utilisait également les balançoires des enfants presque tous les week‑ends, au printemps et en automne. La maison était située à proximité de Baillie House et il y avait beaucoup d’agitation avant et après les heures d’étude. M. Peirce ne pouvait pas recevoir d’invités dans sa cour parce qu’il était constamment exposé à la vue du public. En été, les terrains de sport étaient utilisés toute la journée tous les jours : pour des camps de sport pendant cinq jours et pour des locations pendant deux jours. M. Peirce vivait dans un endroit fort achalandé et toute cette agitation aggravait passablement son stress.
+[35] En sa qualité de directeur adjoint, chargé des services aux élèves, M. Peirce était chef de l’équipe d’intervention d’urgence de l’école et il était tenu d’avoir sur lui un téléphone cellulaire d’urgence en tout temps. Il devait être constamment en contact avec l’école; c’est l’une des raisons pour lesquelles il vivait sur le campus. Les élèves qui avaient des problèmes se présentaient chez lui pour parler; pendant les périodes de faible activité, les élèves arrêtaient chez lui, en passant, trois ou quatre fois par mois, et lorsqu’il y avait plus d’activité, il recevait des visiteurs deux fois par semaine et il devait être disponible.
+[36] M. Peirce payait les frais de services publics, en plus d’un loyer mensuel de 800 $ à 900 $, ce qui s’élevait en tout à 10 044 $ en 1996 et à 10 003 $ en 1997.
+David Suchanek
+[37] En 1996, David Suchanek était responsable de résidence à Walker House et codirecteur du programme de vie en résidence; toutefois, il a quitté ce poste au mois d’août de cette année‑là. Walker House faisait face au Walker Field; il s’agissait d’un dortoir à deux étages; il était possible d’accéder directement, depuis le rez‑de‑chaussée et le second étage, au logement de M. Suchanek, et chaque jour il pouvait y avoir 60 garçons qui y entraient en criant son nom. Les activités quotidiennes de M. Suchanek étaient semblables à celles de Mme Sewell; elles étaient axées sur les élèves, en particulier ceux qui logeaient dans la résidence dont il était responsable. M. Suchanek s’est par la suite installé dans Little Grey House comme on l’appelle; il s’agissait d’une très petite maison de 900 pieds carrés ressemblant à un chalet qu’il a habitée pendant environ quatre mois. M. Suchanek s’est par la suite installé dans un duplex qui est devenu sa résidence familiale. La superficie du duplex était de 1 800 pieds carrés; le logement était composé de trois chambres à coucher, de deux salles de bains, d’un séjour et d’une salle à manger et cuisine combinées à aire ouverte, d’un sous‑sol non fini où il y avait un bureau et une buanderie ainsi qu’une salle familiale. À ce moment‑là, les enfants de M. Suchanek avaient un et quatre ans; son troisième enfant est né en 1997. M. Suchanek avait adopté une politique de porte ouverte, de sorte qu’il y avait des élèves chez lui tous les week‑ends. Il y avait également beaucoup d’agitation à cause de la proximité immédiate du terrain de soccer et de l’aréna de hockey. Diverses personnes, et notamment des anciens élèves, frappaient constamment à sa porte pour lui demander d’ouvrir les installations, afin de pouvoir jouer au basket‑ball, au squash ou au hockey; il recevait également de nombreux appels téléphoniques. Vu l’emplacement et la proximité de l’aréna de hockey, M. Suchanek entendait constamment des sifflements provenant de l’aréna, même si le duplex était situé en dehors des sentiers battus. M. Suchanek a versé un loyer de 8 300 $ en 1996 et de 9 800 $ en 1997. Il a également réglé les frais de services publics après avoir quitté Walker House, et les appareils électroménagers lui appartenaient.
+Peter Thompson
+[38] Peter Thompson a été responsable adjoint de résidence à Powell House, du mois de septembre 1993 à l’été 1996. Après le mois de septembre 1996, il était responsable de résidence à Colley House, où logeaient 57 garçons. Ses activités quotidiennes étaient à peu près les mêmes que celles des autres responsables de résidence ou responsables adjoints de résidence. Colley House était une résidence très ancienne et l’appartement de M. Thompson donnait dans la résidence elle‑même. De plus, il y avait à toute heure énormément de bruit dans la résidence; des élèves écoutaient de la musique ou encore il se produisait des incidents fortuits : piétinements tard le soir, rudoiements, chamaillages et menaces; ces problèmes étaient imprévisibles. Appleby fournissait à M. Thompson ainsi qu’à sa femme et à leurs deux enfants un logement et les équipements habituels, mais il y avait constamment du bruit à cause des travaux de construction continus sur le campus ainsi que du vacarme causé par les enfants et leurs activités. Il y avait agitation tous les jours, sauf le samedi et le dimanche, lorsqu’on ne faisait habituellement pas appel à lui. M. Thompson se sentait responsable des élèves logeant dans la résidence et il devait donc faire figure de mentor.
+[39] Le fait de vivre dans une résidence du campus ainsi que dans d’autres secteurs du campus comportait certains avantages, notamment :
+(1) la proximité du lieu de travail;
+(2) l’atmosphère du campus;
+(3) le fait de ne pas avoir à faire la navette;
+(4) l’absence de stress attribuable aux déplacements;
+(5) l’esprit communautaire;
+(6) le sentiment de sécurité qu’offrait le campus pour les enfants.
+L’entretien de la propriété était assuré par Appleby et le campus était un bon endroit pour élever des enfants.
+Bruce W. Rae
+[40] Bruce W. Rae a préparé un rapport d’évaluation de la juste valeur locative de certaines résidences situées sur le campus d’Appleby pour le compte des appelants; il a été reconnu comme expert en matière d’évaluation de la juste valeur locative de biens immobiliers.
+[41] En effectuant son analyse de la juste valeur locative des logements, à Appleby, M. Rae a postulé l’existence d’un marché réel et d’un propriétaire réel et d’un locataire réel. En d’autres termes, M. Rae a postulé qu’il s’agissait de propriétés en fief simple et que le propriétaire mettait sa propriété sur le marché, c’est‑à‑dire que le propriétaire n’était pas Appleby et que le locataire n’était habituellement pas un enseignant. De plus, il a postulé que les personnes qui occupaient les logements en question n’assumaient aucune responsabilité et n’effectuaient aucune tâche se rattachant à l’occupation du logement.
+[42] M. Rae a qualifié la propriété en question d'unique en son genre, en ce sens qu’il s’agissait d’une école privée, dotée d’installations de loisirs pour les élèves, dans l’atmosphère d’un campus offrant tous les services. Selon lui, il n’y avait pas de propriétés similaires rendant possible une analyse appropriée. M. Rae a recherché des propriétés similaires qui avaient été vendues ou louées et il n’a pu trouver aucun bien plus ou moins comparable; il était donc d'avis que les comparables ou les renseignements à caractère commercial sur lesquels il fonderait son évaluation posaient problème.
+[43] M. Rae a effectué sept analyses; il a coté les propriétés en fonction de la qualité du logement. Les taux locatifs les plus élevés étaient habituellement associés aux propriétés les plus grandes; ainsi, la valeur locative d’une grosse maison isolée était plus élevée que celle d’une petite maison isolée, et la valeur locative d’une maison isolée était plus élevée que celle d’une maison jumelée.
+[44] En analysant chaque propriété, M. Rae s’est arrêté à tous leurs attributs et il s’est par la suite reporté à divers comparables qu’il a par la suite analysés (tout en tenant compte du fait qu’il était difficile de trouver des comparables acceptables). Il a ensuite exprimé son opinion au sujet d’une fourchette possible de justes valeurs locatives fondées sur la superficie ainsi que d’une fourchette possible de justes valeurs locatives basées sur le loyer mensuel. Toutefois, il n’a pas analysé la taille du terrain, la configuration de la propriété, son emplacement par rapport au volume de circulation et au bruit, ou d’autres questions associées à une propriété particulière, comme le fait qu’il y avait un ravin à côté de la résidence du directeur. En fait, on lui a demandé de ne pas tenir compte, dans son analyse, de la relation employeur‑employé ou de toute autre perturbation susceptible d’être associée à la propriété.
+[45] Résidence du directeur – Pour ce qui est de l’analyse relative à la maison du directeur, M. Rae estimait que certains comparables étaient plus pertinents que d’autres et il a expliqué pourquoi certains comparables avaient une importance particulière. Ainsi, en soumettant son analyse de la résidence du directeur, il a affirmé être d'avis que le comparable le plus pertinent était le 372, Lakeshore Ouest, parce qu’il s’agissait d’une maison plus ancienne qui était en mauvais état, alors que les autres comparables étaient plus récents et de meilleure qualité. Cette propriété était également située à 200 pieds d’Appleby, dans un secteur à faible densité où il y avait un grand nombre de grandes propriétés dans le quartier, sur un terrain boisé, dans une zone bien établie, comme c’était le cas pour la résidence du directeur. M. Rae a donc accordé une importance particulière à cette propriété; toutefois, il a signalé que la maison qui y était située favorisait dans une large mesure la vie privée puisque le terrain avait une superficie de six acres et demi et qu’il y avait une piscine et un garage, de sorte qu’il s’agissait d’une maison supérieure à celle du directeur. M. Rae estimait que les comparables utilisés étaient fort acceptables sous l'angle de la superficie et de leur utilité; ils étaient analogues aux résidences en cause en l’espèce, en ce sens que les logements étaient similaires, mais M. Rae était par ailleurs d’avis que les comparables étaient quelque peu limités.
+[46] Baillie House et Colley House – Pour ce qui est de l’analyse relative à Baillie House et à Colley House, M. Rae s’est reporté à des propriétés comparables qu’il croyait supérieures puisqu’elles étaient dotées de terrasses, de cours, d’entrées, de garages et de climatiseurs (sauf le 69, Armandie). Les résidences comparables étaient rattachées à d’autres maisons en rangée; trois d’entre elles étaient situées au milieu de la rangée et l’une était située au bout de la rangée; quatre propriétés étaient des propriétés foncières libres de toute obligation et une propriété était composée d’une maison en rangée condominiale; en outre, il n’y avait pas d’accès intérieur d’une maison à l’autre. Colley House et Baillie House étaient composées d’appartements, de sorte que M. Rae a utilisé des maisons en rangée comme comparables. En ce qui concerne Baillie House, les comparables utilisés étaient les meilleurs qu’il a pu trouver; toutefois, leurs superficies étaient différentes de celle de la résidence en question. De plus, il s’agissait de propriétés foncières libres de toute obligation dont la valeur était plus élevée que celle de maisons en rangée condominiales. Les appartements, dans Baillie House et dans Colley House, étaient rattachés aux dortoirs, ce qui constituait un facteur défavorable; M. Rae avait l’intuition que le nombre élevé de voisins avait un effet préjudiciable et qui appelait un rajustement à la baisse important d’environ 20 à 30 p. 100. Il a été établi que la juste valeur locative de Colley House était inférieure à celle de Baillie House parce qu’il s’agissait d’un bâtiment d’une centaine d’années doté d’équipements et d’installations désuets. Baillie House et Colley House étaient dotées de commodités similaires, mais il y avait une grosse variation dans les comparables utilisés à cause de leur superficie différente; toutefois, le facteur le plus décisif, pour ce qui est de la valeur locative estimative, était l’âge de Colley House, justifiant un rajustement à la baisse de 30 à 40 p. 100. L’âge de la résidence avait une incidence sur l’utilité, sur les équipements, sur la finition et sur l’état de la résidence; de plus, la cuisine était fort petite.
+[47] Appartement du chef de dortoir – L’appartement du chef de dortoir était très petit, de sorte que M. Rae a examiné de petits logements (de 600 à 800 pieds carrés) comme comparables. Il n’a pas tenu compte du fait que l’appartement était situé au milieu d’un dortoir et il a procédé à son analyse en se fondant sur des inscriptions multiples, notamment un appartement fort petit dans un immeuble d’habitation. De plus, il a examiné des secteurs à densité élevée dont l’utilité était similaire, mais il n’a pas pu trouver d’appartements aussi petits que celui à l’étude.
+[48] Maison jumelée – La maison jumelée était un duplex qui était occupé; le bâtiment avait été construit en 1996 et il était divisé en deux. Les propriétés utilisées, qu’il était difficile de comparer, étaient situées sur Marine Drive, à un pâté de maisons du lac Ontario, tout près d’un centre commercial; la propriété de la rue Matthew était une maison jumelée, d’une finition minimale, à prix relativement modique, située à une distance d’environ quatre milles, de sorte qu’elle était trop éloignée pour qu’il soit possible de l’utiliser comme comparable. M. Rae a fait remarquer que ces propriétés convenaient mieux que des maisons isolées aux fins de comparaison. La maison jumelée ne comportait pas de garage ni de sous‑sol; sa finition était de mauvaise qualité et elle avait été construite en tant qu’habitation à prix modique; il y avait également un terrain de soccer entre la propriété et la route. Les seuls éléments que les comparables avaient en commun étaient le fait qu’il s’agissait de maisons jumelées et que le loyer mensuel était de 1 400 $ dans tous les cas.
+[49] Le 101, place Whittington – Cette résidence, occupée par David Smith, était située en dehors du campus; elle était donc unique en son genre. Elle avait plus de 100 ans et avait été transformée en duplex, deux logements étant ainsi créés. Il s’agissait initialement d’une maison de ferme très ancienne, dont l’état laissait à désirer et qui avait besoin d’être rénovée ou réparée.
+[50] M. Rae a reconnu que les propriétés utilisées comme comparables n’étaient pas situées dans un milieu similaire et qu’elles n’étaient pas de bons comparables parce que seule la structure du bâtiment était analogue. Il s’agissait de propriétés en fief simple, avec leurs propres terrains, des paramètres distincts et une utilité différente; certaines d’entre elles étaient même dotées d’un garage. La maison du 101, place Whittington était essentiellement bonne à démolir; c’était le terrain plutôt que le bâtiment qui avait de la valeur. On craignait même que le bâtiment ne soit pas conforme au code. Néanmoins, les comparables étaient situés dans des endroits similaires, tranquilles, calmes et bien établis, comme c’était le cas pour le campus d’Appleby.
+[51] En procédant à son analyse globale, M. Rae n’a pas essayé de quantifier les restrictions et paramètres applicables à Appleby, comme le bruit, la circulation, les problèmes de stationnement et les diverses responsabilités des résidants ou d’autres problèmes auxquels faisaient peut‑être face les occupants à cause des différents aspects du milieu dans lequel ils vivaient. Somme toute, il était difficile de trouver des comparables acceptables à cause de la nature de la propriété, ce qui appelait un rajustement à la baisse de 5 à 10 p. 100. De plus, Appleby comportait d’autres inconvénients, comme le fait que les terrains n’étaient pas bien délimités et qu’il n’y avait pas de climatiseurs, de garages, de foyers ou de cours privées. L’analyse ou les évaluations effectuées par M. Rae étaient essentiellement au mieux des estimations ou étaient fondées sur une intuition.
+Juste valeur locative, Appleby College, selon Bruce W. Rae
+(1996-1997)
+Propriété – résidence
+Appelant – occupant
+Loyer mensuel
+Maison du directeur
+Guy McLean
+3 000 à 3 500 $
+Résidence Peirce
+Michael Peirce
+1 400 à 1 600 $
+Baillie House
+Deborah Sewell
+1 000 à 1 200 $
+Colley House
+Peter Thompson
+700 à 800 $
+Appartement du chef de dortoir
+Paula Schutz
+500 à 600 $
+Maison jumelée
+David Suchanek
+800 à 900 $
+101, place Whittington
+David Smith
+900 à 1 000 $
+Little Grey House
+David Suchanek
+Aucune évaluation produite
+Walker House
+David Suchanek
+Aucune évaluation produite
+Donovan Bennett
+[52] Donovan Bennett a préparé un rapport d’évaluation de la juste valeur locative pour le compte de l’intimée; il a été reconnu comme expert dans le domaine des évaluations immobilières. M. Bennett a initialement abordé son analyse sous un angle différent de celui que M. Rae avait adopté; il a rencontré certains occupants afin de déterminer les troubles auxquels ils étaient peut‑être exposés à cause de la proximité immédiate de jeunes élèves. M. Bennett a procédé à une analyse en comparant les coûts de logement des étudiants au niveau universitaire sur un campus et en dehors d’un campus. Il y avait une différence de 25 à 30 p. 100 entre les coûts de logement sur un campus et les coûts de logement en dehors d’un campus, ces coûts étant inférieurs dans une proportion d’environ 25 à 30 p. 100 dans le premier cas. M. Bennett a utilisé la technique de la parité en utilisant des propriétés comparables situées dans un rayon donné par rapport à Appleby; il a cherché des propriétés similaires au point de vue de leur utilité, tout en tenant compte de leur superficie.
+[53] En effectuant son analyse, M. Bennett a rajusté le loyer en fonction de la perte de jouissance paisible, contrairement à M. Rae [les chiffres de M. Rae ne tenaient pas compte du terrain ou de la taille du terrain, des configurations de la propriété, de l’emplacement par rapport au volume de circulation, du bruit et de l’effet qu’avait le fait de résider dans un dortoir pour élèves ni des effets associés à la vie sur un campus]. M. Bennett a effectué une réduction lorsqu’il estimait qu’il convenait de le faire, mais il n’a pas effectué de majoration selon que la résidence était située sur le campus ou en dehors du campus. Il a analysé le nombre d’heures au cours desquelles il y avait du remue‑ménage ainsi que la nature de ce remue‑ménage afin d’arriver à une réduction appropriée. Il a supposé que les cinq jours avant du lundi au vendredi, étaient des jours de classe. Il estimait qu’avant les cours, il y avait énormément de bruit et de remue‑ménage pendant deux heures (d’où un facteur de 100 p. 100 attribuable au remue‑ménage) et il a attribué une valeur nulle. Il a supposé que, de 8 à 17 h, il n’y avait pas d’agitation. Selon lui, il y avait, de 17 à 20 h, énormément d’agitation, de sorte que la valeur attribuée était nulle. Au cours des heures d’étude, du repas du soir et la nuit, l’on devait suivre les règles et lignes directrices en vigueur à Appleby, de sorte qu’il y avait peu de bruit; il n’a donc pas tenu compte de l’agitation après 20 h. Il a attribué à l’agitation un facteur de 100 p. 100, pour cinq heures en tout par jour, soit 25 heures par semaine, pour chaque semaine de l’année civile. Quant aux week‑ends, le samedi et le dimanche, M. Bennett a attribué un facteur de 100 p. 100, 12 heures par jour, de sorte qu’une valeur nulle était attribuée pour 24 heures au cours des week‑ends. Les 25 heures pendant la semaine, et les 24 heures, pendant le week‑end, auxquelles le facteur de 100 p. 100 était attribué pour l’agitation donnaient en tout 49 heures d’agitation par semaine. Or, au cours d’une semaine, il y a 168 heures et 56 heures de sommeil, de sorte qu’il reste 112 heures d’activité. Les 49 heures auxquelles le facteur de 100 p. 100 a été attribué pour l’agitation représentaient 29,16 p. 100 des heures de la semaine. M. Bennett a réduit de 30 p. 100 les justes valeurs locatives auxquelles il était arrivé lorsqu’un facteur de 100 p. 100 était attribué à l’agitation.
+[54] Quant au niveau de bruit, M. Bennett estimait qu’il y avait trois niveaux fondamentaux :
+· Bruit excessif = Réduction de 30 p. 100 – 49 heures par semaine, à cause de la perte de jouissance paisible (cela peut comprendre une certaine perte de vie privée);
+· Bruit modéré = Réduction de 15 p. 100 – locaux adjacents à un dortoir, mais non dans le dortoir lui‑même;
+· Bruit minimal = Aucune réduction.
+M. Bennett était d'avis que cette méthode de rajustement à la baisse pour le remue‑ménage était l’approche la meilleure et la plus équitable en l’absence de recours à un ingénieur acousticien. M. Bennett a fait remarquer que s’il se dégageait constamment une odeur 24 heures sur 24, il appliquerait la même analyse, si l’odeur pouvait être mesurée sur une base quotidienne.
+[55] Quant à la technique de la parité, M. Bennett a signalé que l’emplacement n’était pas un facteur important, mais que l’utilité était un élément clé. Par utilité, il entendait le nombre de pièces, y compris la cuisine, mais plus précisément les chambres à coucher et les salles de bains ainsi que leurs superficies. Au cours de son témoignage, M. Bennett a employé à maintes reprises l’expression [traduction] « le plus de poids » en décrivant les facteurs pris en compte dans son analyse, entendant par là qu’il accordait à ce facteur un poids de 100 p. 100.
+[56] M. Bennett a confirmé que sa tâche consistait à procéder à une analyse de la juste valeur locative pour un logement loué sur le marché libre. Selon lui, il y avait deux façons d’effectuer l’analyse; l’analyse quantitative, visant l’évaluation de ce qu’un terrain d’angle, un garage ou une piscine ajouterait à la valeur, par opposition à la technique de l’analyse comparative, selon laquelle on essayait de trouver des propriétés similaires : essentiellement, le choix d’un comparable était fondé sur un jugement de valeur. M. Bennett croit que la technique de la parité vise à établir un parallèle pour des propriétés désirables, la comparaison étant axée sur la superficie et sur l’utilité; l’emplacement dans le même voisinage peut être pris en compte, mais cela ne constituait pas un facteur important dans l’analyse de M. Bennett.
+[57] Le 101, place Whittington – M. Bennett n’a pas inspecté cette propriété. Il a postulé qu’elle était dans un état acceptable et il estimait disposer de comparables valables. Il s’agissait de quatre maisons isolées et de trois maisons en rangée; toutefois, ces maisons semblaient être situées à une certaine distance d’Appleby, le 113, chemin Stevenson étant situé à environ six kilomètres du pensionnat. M. Bennett a examiné la superficie et l’utilité aux fins de la comparaison et le montant du loyer a été considéré comme représentant le prix réel.
+[58] Logement de M. Peirce – M. Bennett estimait également disposer de comparables valables pour ce logement; il a encore une fois examiné l’utilité et la superficie, en accordant le plus de poids à la moyenne. Il estimait que le niveau de bruit était seulement modéré parce que le logement était adjacent à un dortoir et qu’il n’était pas situé dans le dortoir lui‑même; par conséquent, une réduction de 15 p. 100 seulement a été effectuée pour ce logement. De l’avis de M. Bennett, quelqu’un qui est chaque semaine exposé à 49 heures de bruit excessif accepterait une réduction de son loyer égale au nombre d’heures d’exposition au bruit par rapport au nombre total d’heures par semaine, exprimé en pourcentage. La réduction de la valeur du loyer est fonction du nombre d’heures de bruit, exprimé en pourcentage.
+[59] Maison du directeur – Tous les comparables étaient situés très près d’Appleby; ici encore, M. Bennett a examiné la superficie et l’utilité, c’est‑à‑dire le nombre de salles de bains et de chambres à coucher. Il estimait que le 372, Lakeshore était le meilleur comparable étant donné que la maison était dotée de presque toutes les mêmes commodités que celle du directeur, de sorte qu’il a accordé le plus de poids à cette propriété. Il s’agissait d’une luxueuse maison haut de gamme, avec un terrain de six acres, juste à l’est de la propriété en cause, mais elle était située très près d’Appleby; elle donnait sur le lac et il y avait une piscine et des planchers de bois dur resplendissants. La propriété du directeur n’était pas clôturée et elle était entourée d’autres bâtiments (des dortoirs logeant 200 enfants) ainsi que de terrains de sport. Il y avait accès à une aréna, à des courts de basket‑ball, à des installations qui étaient occupées et utilisées par les enfants ainsi que par les groupes qui louaient les installations. M. Bennett estimait qu’une réduction de 15 p. 100 était satisfaisante, s’il était tenu compte du bruit environnant.
+[60] Little Grey House — Pour ce qui est des comparables, M. Bennett a encore une fois examiné l’utilité et la superficie. Tous les comparables étaient situés à dix minutes d’Appleby en voiture; M. Bennett a accordé le plus de poids au niveau inférieur de la fourchette, étant donné que l’intérieur était désuet. Une réduction modérée a été effectuée au regard de l’agitation.
+[61] Maison jumelée – M. Bennett était d’avis que la finition n’était pas minimale; en fait, il a déclaré que la maison était en bon état. La propriété ne donnait pas sur le lac, elle n’était pas dotée d’un garage et il n’y avait pas de limite de propriété ni de clôtures. M. Bennett s’est fondé, pour les comparables, sur l’utilité et sur la superficie; il a notamment utilisé un bungalow isolé et une maison en rangée. Il estimait que l’agitation n’était que modérée et il a rabaissé de 15 p. 100 la juste valeur locative.
+[62] Baillie House et Colley House – Ces locaux étaient dans l’ensemble dans un état acceptable. Le bruit atteignait parfois des niveaux inacceptables, de sorte que M. Bennett a attribué à ces résidences la réduction maximale de 30 p. 100 pour la perte de jouissance paisible. Les logements, dans Baillie House et dans Colley House, étaient rattachés à des dortoirs. M. Bennett a utilisé les mêmes comparables pour Baillie House et pour Colley House étant donné que leurs superficies étaient similaires (2 125 à 2 230 pieds carrés). M. Bennett a postulé que Baillie House et Colley House étaient toutes deux à peu près dans le même état et que la différence d’âge entre les deux résidences n’entrait pas en ligne de compte puisqu’elles étaient dans le même état. L’un des comparables utilisés pour Baillie House était le 1200, promenade Stirling, soit une propriété de 1,7 acre donnant sur le lac avec une maison isolée à mi‑étages; M. Bennett a également tenu compte du 82, rue Forsythe, un ensemble de maisons en rangée, et du 58, rue Brant, une maison isolée à deux étages construite sur demande. Les propriétés Stirling et Brant étaient des maisons isolées et ont été utilisées comme comparables pour le logement du responsable de résidence à Baillie House. Les observations que M. Bennett a faites au sujet de Baillie House s’appliquaient également à Colley House puisque les comparables utilisés pour Colley House étaient les mêmes que ceux qu’il avait utilisés pour Baillie House. Selon M. Bennett, il était acceptable de verser un loyer mensuel de 1 600 $ pour habiter un appartement exposé à 50 élèves et où il y a du bruit pendant 30 p. 100 du temps, au lieu de vivre au 1200, promenade Stirling ou au 58, rue Brant.
+[63] Walker House – Walker House était également une résidence à dortoir, d’une superficie d’environ 1 850 pieds carrés. M. Bennett a utilisé les propriétés suivantes comme comparables : le 113, chemin Stevenson, où il y avait une maison isolée avec un terrain de 50 pieds sur 108 pieds; le 105, promenade Ulster, situé dans un milieu urbain sur un terrain distinct de 71 pieds sur 111 pieds et doté d’un garage rattaché à la maison; le 2295, Marine Drive, unité 11, un ensemble de maisons en rangée situé sur un terrain distinct de 31 pieds sur 86 pieds, sans garage; le 117, promenade Tracina, un bungalow isolé à mi‑étages avant et arrière doté d’un climatiseur et d’un garage rattaché; le 305, promenade Sunset, une maison isolée non pourvue de la climatisation centrale à laquelle un garage était rattaché; le 31, place Southaven, une maison en rangée située à trois kilomètres à l’ouest de la propriété en cause; et le 69, rue Nelson, une maison en rangée située sur un terrain de 19 pieds sur 84 pieds, dotée d’un garage. Essentiellement, les comparables pour Walker House étaient composés de quatre maisons isolées et de trois maisons en rangée; il n’y avait pas d’appartements. Les comparables les plus similaires seraient les maisons en rangée, pour ce qui est de la superficie et de l’utilité. M. Bennett était d’avis que, dans la mesure où les superficies respectives des maisons étaient similaires et où le nombre de pièces était le même, ces maisons étaient assimilables à un appartement.
+[64] Appartement du chef de dortoir – L’appartement du chef de dortoir était dans un état acceptable. M. Bennett a affirmé qu’il était difficile de trouver de bons comparables parce qu’il s’agissait d’un petit appartement situé sur le campus, comparativement à un appartement situé dans une rue achalandée. Toutefois, il a affirmé que toutes les commodités des logements de cette taille, par opposition à leur emplacement, tendaient à s’équilibrer. Les pensionnaires étaient exposés au même bruit que le chef de dortoir. M. Bennett a comparé l’appartement du chef de dortoir avec les résidences situées au 2345, rue Hixon et au 124, East Street; il s’agissait de maisons isolées qui étaient toutes deux bâties sur des terrains distincts.
+Juste valeur locative, collège Appleby, selon Donovan Bennett
+(1996-1997)
+Propriété – résidence
+Appelant – occupant
+Loyer mensuel
+sans réduction
+Loyer mensuel avec réduction
+Maison du directeur
+Guy McLean
+4 000 $
+3 400 $**
+Résidence Peirce
+Michael Peirce
+1 300 $
+1 105 $**
+Baillie House
+Deborah Sewell
+2 300 $
+1 610 $*
+Colley House
+Peter Thompson
+2 300 $
+1 610 $*
+Appartement du chef de dortoir
+Paula Schutz
+750 $
+525 $*
+Maison jumelée
+David Suchanek
+2 200 $
+1 870 $**
+101, place Whittington
+Dave Smith
+1 650 $
+1 650 $***
+Little Grey House
+David Suchanek
+1 000 $
+850 $**
+Walker House
+David Suchanek
+1 800 $
+1 260 $*
+* Réduction de 30 p. 100
+** Réduction de 15 p. 100
+*** Aucune réduction
+Thèse des appelants
+[65] Selon les appelants, les justes valeurs locatives établies par leur témoin expert, Bruce Rae, sont raisonnables. L’appelant Smith soutient que le 101, place Whittington, est tout simplement évalué à sa juste valeur locative. Les appelants Peirce et Suchanek ont affirmé ne pas chercher à obtenir une réduction fondée sur la relation employeur‑employé ou sur l’avantage accessoire dont bénéficiait l’employeur, mais qu’ils demandaient plutôt une réduction pour la perte d’utilisation et de jouissance paisible ainsi que pour la perte de vie privée associée à leurs logements. Les appelants Schutz, Sewell, Thompson et McLean soutiennent que de grosses réductions devaient s’appliquer aux justes valeurs locatives des logements qu’ils occupaient à cause de la perte d’utilisation et de jouissance paisible ainsi que de la perte de vie privée associée à leurs logements. De plus, ils demandaient des réductions supplémentaires compte tenu du fait que leur employeur tirait un avantage accessoire important de l’avantage qui leur était accordé.
+Thèse de l’intimée
+[66] Selon l’intimée, le rapport d’évaluation de Donovan Bennett concernant la juste valeur locative des résidences en question reflète les valeurs locatives appropriées du logement attribué aux appelants, une réduction acceptable étant déjà prise en compte pour la perte d’utilisation, de jouissance paisible ainsi que de vie privée des appelants. Il est en outre soutenu qu’il ne doit pas y avoir de réduction associée à l’avantage accessoire dont bénéficiait l’employeur du fait que les appelants occupaient les locaux.
+Droit et analyse
+[67] Puisqu’il est admis que chaque appelant a reçu un avantage imposable aux termes du paragraphe 6(1) de la Loi, il faut rechercher quelle est la valeur de l’avantage et quelle réduction, le cas échéant, doit être accordée sur cette valeur, vu les circonstances se rattachant aux résidences respectives, en particulier : a) la perte de jouissance paisible (bruit et remue‑ménage); et b) la perte de vie privée. De plus, des réductions supplémentaires devraient‑elles être accordées sur la valeur de l’avantage, du fait que l’employeur bénéficiait d’un avantage accessoire en raison de l’avantage accordé aux employés? En fin de compte, l'issue de la présente cause dépend du rapport de l’expert et des éléments de preuve retenus, le cas échéant.
+[68] Il est constant que les appelants, lorsqu’ils travaillaient pour Appleby, étaient hébergés ou logés et que, dans certains cas, ils avaient droit aux repas, mais il faut rechercher si c’étaient les appelants ou l’employeur qui bénéficiaient de l’avantage. Le juge Linden, de la Cour d’appel fédérale, a fait les observations suivantes au paragraphe 22 de l’arrêt Blanchard c. Canada, 95 DTC 5479 (C.A.F.) :
+[...] Le fait que l’employeur ait également profité de la politique de logement en attirant les employés vers son projet n’est pas pertinent. L’employé jouissait d’un avantage pécuniaire en recevant une somme à l’avance, laquelle il aurait eu peut‑être à débourser un jour, à un moment dans l’avenir.
+[...]
+[...] Cet avantage a pu accessoirement profiter aux épouses et aux familles des employés, mais cela n’en fait rien de plus qu’un avantage consenti au contribuable.
+[69] Le juge Archambault, de la Cour canadienne de l’impôt, a également fait les observations suivantes dans la décision Dionne c. The Queen, 97 DTC 285, paragraphe 20 :
+[...] Ces deux avantages n’augmentent pas le patrimoine de l’employé. Ils ne font que lui sauver une dépense qui, si elle avait été engagée par l’employé, aurait diminué son patrimoine. Personne ne contestera qu’un employé tire nettement un avantage économique lorsqu’un employeur lui fournit un logement gratuit.
+[70] Il semble que si l’employeur bénéficie de l’arrangement, cela n’empêche pas l’employé d’en tirer également parti. La question de savoir si l’employeur et l’employé bénéficiaient de l’arrangement pris avec Appleby et la question de savoir qui en tirait le plus parti ainsi que celle de savoir quelles étaient les incidences en découlant seront examinées ci‑dessous. (Voir les paragraphes 103 à 114.)
+[71] Aucune disposition précise de la Loi ne porte sur le calcul des avantages imposables associés au logement et aux repas et il faut donc se reporter à la jurisprudence. Toutefois, il faut avant tout rechercher de quelle manière calculer la juste valeur locative.
+[72] Dans l’affaire National Capital Commission c. Marcus, [1969] 1 R.C. de l’É. 327, le juge Jackett était appelé à établir la valeur d’une parcelle de terrain non bâti de 13 acres et demi qui n’était pas aménagée et qui n’était pas améliorée, et qui était généralement plate et au niveau des routes adjacentes. It était constant qu’aucun règlement de zonage ne visait le terrain, mais qu’un règlement du canton restreignait, dans le secteur, l'aliénation sans autorisation de biens‑fonds en parcelles de moins de dix acres. Les témoins experts de la demanderesse et du défendeur arrivaient à des valeurs différentes. La cour a conclu que la valeur marchande du bien exproprié est le montant obtenu dans le cas [traduction] « du marché imaginaire » dont le bien‑fonds exproprié aurait fait partie s’il avait été mis en vente immédiatement avant l’expropriation. Le juge Jackett a fait les observations suivantes :
+[traduction]
+[...] Il s’ensuit que je devrai me faire ma propre opinion, en utilisant au mieux les renseignements et les critères que les témoins et les avocats ont produit en l’espèce.
+Il me semble que il dois me mettre à la place d’un individu qui aurait possédé le terrain exproprié juste avant l’expropriation, qui aurait été prêt à vendre, mais qui n’était pas obligé de le faire, qui aurait été en mesure de juger tous les facteurs qu’une personne raisonnablement prudente et expérimentée considérerait dans un tel cas, et rechercher quel prix aurait exigé ce propriétaire pour s’en départir. Je dois aussi me mettre à la place d’un acheteur éventuel d’une propriété pareille au terrain exproprié juste avant l’expropriation, qui n’était pas forcé de l’acquérir, et qui serait en mesure de juger tous les facteurs que la personne raisonnablement prudente et expérimentée considérerait dans un tel cas, et me demander quel prix maximum un tel acheteur aurait été prêt à payer pour acheter une telle propriété.
+[73] La Cour suprême du Canada semble avoir suivi le critère énoncé par le juge Jackett dans l’arrêt Marcus c. National Capital Commission, [1970] R.C.S. 39, où le juge Martland a retenu les observations suivantes du juge Jackett :
+[traduction]
+Les trois témoins, après avoir mentionné qu’ils avaient étudié certaines questions (qui sont, de façon générale, des questions pertinentes) ont déclaré en être arrivés à fixer la valeur marchande du terrain en question au moment de l’expropriation. Mais si, pour juger de ces opinions, on essaie de trouver comment les témoins ont pesé chacun des critères dont ils ont dit s’être servis pour en arriver à un chiffre définitif, ou pourquoi ils ont écarté certains facteurs qu’ils considéraient sans importance dans la détermination de l’indemnité, on ne retrouve pas lesdits renseignements pour plusieurs de ces critères et on constate que les motifs qui ont fait écarter certains autres critères semblent manquer de poids. Il s’ensuit que je devrai me faire ma propre opinion, en utilisant au mieux les renseignements et les critères que les témoins et les avocats en cette cause ont produit en l’espèce.
+Il me semble que il dois me mettre à la place d’un individu qui aurait possédé le terrain exproprié juste avant l’expropriation, qui aurait été prêt à vendre, mais qui n’était pas obligé de le faire, qui aurait été en mesure de juger tous les facteurs qu’une personne raisonnablement prudente et expérimentée considérerait dans un tel cas, et rechercher quel prix aurait exigé ce propriétaire pour s’en départir. Je dois aussi me mettre à la place d’un acheteur éventuel d’une propriété pareille au terrain exproprié juste avant l’expropriation, qui n’était pas forcé de l’acquérir, et qui serait en mesure de juger tous les facteurs que la personne raisonnablement prudente et expérimentée considérerait dans un tel cas, et me demander quel prix maximum un tel acheteur aurait été prêt à payer pour acheter une telle propriété.
+[Non souligné dans l’original.]
+[74] En établissant la valeur de l’avantage imposable en l’espèce, la Cour doit évaluer tous les facteurs que la personne [traduction] « raisonnablement prudente et expérimentée » prendrait en considération. En outre, la juste valeur locative doit être calculée sur la base de l’utilisation de la propriété et tout comparable utilisé doit être similaire s’il n’est pas soumis aux mêmes conditions que l’avantage évalué.
+[75] Il importe également de noter qu’indépendamment des méthodes d’évaluation employées, il ne faut pas tenir compte de la situation individuelle de l'employé qui reçoit l’avantage imposable.
+[76] Il incombe aux appelants d’établir, selon la prépondérance des probabilités, que la méthode suivie par l’intimée ou le résultat en découlant était inexact ou inapproprié ou qu’il est plus raisonnable d’avoir recours à un autre mécanisme ou à une autre formule (Dunlap c. R., [1998] 4 C.T.C. 2644, paragraphe 16).
+[77] Enfin, je dois tirer ma propre conclusion en utilisant le mieux possible tous les renseignements dont je dispose, notamment les rapports des deux experts et les observations que les témoins et les avocats des parties ont produits devant moi.
+[78] En l’espèce, les deux experts ont abordé l’évaluation des justes valeurs locatives au moyen de la même méthode, soit la technique de la parité, mais les ressemblances ne vont pas plus loin. Les experts arrivent à des résultats passablement différents et, bien qu’ils affirment tous deux avoir employé la technique de la parité, ils ont appliqué le critère de façons fort différentes. Les principales différences entre les rapports des experts découlent de la façon dont ils soutiennent tous deux appliquer la technique de la parité en calculant la juste valeur locative ainsi que de la question de savoir s’ils réduiraient la valeur établie en raison de la perte d’utilisation ou de jouissance paisible et de la perte de vie privée, le cas échéant, touchant chaque logement. Ni l’un ni l’autre n’a réduit la juste valeur locative en raison de la relation employeur‑employé, et ce, indépendamment de la question de savoir qui bénéficiait le plus de l’avantage. M. Bennett a accordé des réductions après avoir analysé l’état de chaque logement; les réductions étaient fondées sur la façon dont les circonstances applicables à chaque logement influaient sur la perte d’utilisation, de jouissance paisible et de vie privée des occupants. M. Rae a laissé à d’autres, c’est‑à‑dire à la Cour, le soin de décider, compte tenu des éléments de preuve produits, de la réduction attribuable à la perte d’utilisation, de jouissance paisible et de vie privée des occupants.
+[79] Quelle est la juste valeur locative de chaque propriété? Pour répondre à cette question, je dois examiner les expertises produites par les appelants et par l’intimée. Les deux experts, MM. Rae et Bennett, ont décrit la technique de la parité, et ils ont convenu de toute évidence que telle était la technique indiquée. Toutefois, ils ont procédé à leurs évaluations de façons fort différentes, d’où les écarts importants entre les valeurs locatives des logements. Le tableau comparatif des opinions exprimées par les experts au sujet de la juste valeur locative de chaque logement figure ci‑dessous :
+Opinions des experts concernant la juste valeur marchande, Appleby College
+(1996 – 1997)
+Propriété – résidence
+Appelant – occupant
+M. Rae
+Valeur mensuelle
+M. Bennett
+Valeur mensuelle
+M. Bennett
+Valeur mensuelle réduite
+Maison du directeur
+Guy McLean
+3 000 à 3 500 $
+4 000 $
+3 400 $**
+Résidence Peirce
+M. Peirce
+1 400 à 1 600 $
+1 300 $
+1 105 $**
+Baillie House
+D. Sewell
+1 000 à 1 200 $
+2 300 $
+1 610 $*
+Colley House
+P. Thompson
+700 à 800 $
+2 300 $
+1 610 $*
+Appartement du chef de dortoir
+P. Schutz
+500 à 600 $
+750 $
+525 $*
+Maison jumelée
+D. Suchanek
+800 à 900 $
+2 200 $
+1 870 $**
+101, place Whittington
+D. Smith
+900 à 1 000 $
+1 650 $
+1 650 $***
+Little Grey House
+D. Suchanek
+Aucune évaluation fournie
+1 000 $
+850 $**
+Walker House
+D. Suchanek
+Aucune évaluation fournie
+1 800 $
+1 260 $*
+* Réduction de 30 p. 100
+** Réduction de 15 p. 100
+*** Aucune réduction
+[80] L’écart important résultant du recours à la technique de la parité aux fins de l’évaluation peut être décrit comme suit :
+1. M. Bruce Rae était d’avis qu’il y avait fort peu de comparables valables, voire aucun, sur lesquels il pouvait se fonder pour arriver à la juste valeur locative des logements en cause. M. Rae s’est fondé sur son expérience d’évaluateur et sur le fait qu’il travaillait dans le domaine de l’immobilier depuis 25 à 30 ans. Il a fait part à la Cour de ce qu’il a appelé [traduction] « une intuition » au sujet de la juste valeur locative de chaque logement. Au cours de son témoignage, il a déclaré à maintes reprises a) qu’il n’y avait pas de comparables acceptables susceptibles d’être utilisés à cause de la nature inhabituelle des logements; et b) que les comparables qui ont été invoqués n’étaient pas fiables, dans la plupart des cas, parce que l’on comparait des pommes avec des oranges. Malgré tout, M. Rae a effectué son expertise en se fondant sur la méthode de la parité, en signalant la juste valeur locative de diverses propriétés et en les comparant à chaque logement en cause. Il a déclaré ne pas avoir accordé de réduction pour ce qu’il a appelé les facteurs décisifs accessoires applicables aux logements en cause. Quant à la portée de son rapport d’évaluation, il a notamment fait les observations suivantes :
+[traduction]
+Comme il en a été fait mention, les comparables ne sont pas comparables dans l’ensemble, étant donné qu’il faut appliquer aux logements en cause une vaste gamme de facteurs décisifs accessoires afin de concilier pleinement toutes les différences par rapport à des maisons classiques libres de toute obligation.
+[...]
+Il faut utiliser les rapports d’évaluation qui ont été produits en essayant d’estimer les taux de location auxquels les logements en cause donneraient probablement lieu, s’ils faisaient directement concurrence à des maisons classiques similaires libres de toute obligation, situées dans le voisinage. De toute évidence, les logements en cause ne font pas concurrence à pareilles maisons, ce qui est en fin de compte fort important.
+[...]
+Comme on l’a demandé, aucune analyse n’est faite des rajustements pour les aspects accessoires, lesquels seront examinés par d’autres moyens d’enquête, par d’autres participants.
+M. Rae comprenait clairement le critère à employer pour déterminer la juste valeur locative. À mon avis, vu son témoignage, il a fondamentalement suivi le critère susmentionné que le juge Jackett a énoncé dans la décision National Capital Commission c. Marcus, précitée.
+2. M. Bennett a employé des comparables qui étaient quelque peu semblables à ceux que M. Rae a utilisés; de fait, il a parfois utilisé les mêmes propriétés que M. Rae dans son évaluation. Toutefois, il a déclaré qu’à son avis, les comparables étaient fort valables et qu’il ne comparait pas des pommes avec des oranges. M. Bennett a affirmé à maintes reprises, tout le long de son témoignage, qu’il examinait l’utilité, entendant par là le nombre de chambres à coucher et de salles de bains et, dans une certaine mesure, la superficie; l’emplacement n’était certes pas un facteur important dans son analyse. M. Bennett a également examiné, au moyen de la technique de la parité, une étude concernant des étudiants d’université et les loyers que ceux‑ci payaient sur un campus et en dehors d’un campus. Pour arriver aux réductions, M. Bennett a effectué un calcul mathématique en analysant les heures d’agitation touchant chaque logement. Je m'exprimerai plus loin sur cette approche d’une façon plus détaillée, pour ce qui est de la réduction à opérer sur la juste valeur locative.
+[81] En ce qui concerne l’analyse visant l'établissement de la juste valeur locative des logements en question, je préfère le témoignage et l’analyse de M. Rae, me paraissent plus faibles.
+[82] M. Rae s’est fondé sur l’expérience qu’il avait acquise au fil des ans en matière immobilière à Oakville et dans les environs. Il a signalé en toute franchise que la tâche était fort difficile parce qu’il essayait d’employer la technique de la parité en procédant à l’évaluation d’une parcelle de terrain unique en son genre, sur laquelle il y avait des habitations, et en la comparant à des immeubles d’habitation individuels. Il n’y avait pas de comparables en tant que tels réellement pertinents; en d’autres termes, il ne comparait pas des pommes avec des oranges; il comparait deux choses qui étaient en grande partie différentes. Il a reconnu la chose tout le long de son témoignage et il a expliqué en détail pourquoi les comparables pourraient s’appliquer ou ne pas s’appliquer à chaque logement particulier, et il a ensuite produit ce qui selon lui était une évaluation raisonnable, une [traduction] « intuition » au sujet de la juste valeur locative.
+[83] Par contre, M. Bennett a suivi une approche quelque peu livresque. Il a procédé à un calcul mathématique et à une analyse détaillés au sujet du nombre d’heures par semaine pendant lesquelles il pourrait y avoir du remue‑ménage dans chacun des logements particuliers et il a ensuite appliqué cette réduction à la juste valeur locative, mesurée sur la base d’un remue‑ménage excessif (30 p. 100), d’un remue‑ménage modéré (15 p. 100) et de l’absence de remue‑ménage (aucune réduction). Selon lui, tous les comparables étaient valables; il croyait qu’il suffisait d’examiner l’utilité et, dans une certaine mesure, la superficie, sans tenir compte d’autres commodités susceptibles d’être associées à la propriété, notamment le terrain, la taille du terrain, son caractère privé, la maturité des arbres, les piscines, l’emplacement, la climatisation, la superficie de la cuisine et l’état des lieux. En fait, M. Bennett a fait abstraction de tous ces facteurs. Tout au long de son témoignage, M. Bennett a déclaré avoir accordé le plus de poids à l’utilité et, lorsqu’on lui a demandé ce qu’il voulait dire par là, il a répondu qu’il en avait tenu compte à 100 p. 100. Par conséquent, la totalité de son analyse des propriétés était fondée sur le facteur utilité.
+[84] Un grand nombre des comparables utilisés par M. Bennett n’étaient pas satisfaisants et n’étaient pas valables, aux fins d’une comparaison positive, si la technique de la parité était employée. M. Bennett recherchait des propriétés convenables pour les comparer quant à leur utilité, en omettant de tenir compte de la superficie, de l’emplacement et d’autres facteurs importants. Ainsi, en analysant les comparables pour le logement du responsable de résidence, à Baillie House, (un logement rattaché à un dortoir), il a examiné cinq comparables :
+le 9, place Southhaven;
+le 1200, promenade Stirling (2 logements distincts);
+le 82, rue Forsythe;
+le 58, rue Brant.
+[85] La propriété située au 1200, promenade Stirling, était composée d’une maison à mi‑étages latéraux de 2 274 pieds carrés donnant sur le lac ainsi que d’un terrain de 1,7 acre. M. Rae a utilisé cette propriété comme comparable pour la résidence Peirce, ce qui convient mieux, selon moi, que le fait de la comparer, comme M. Bennett l’a fait, au logement du responsable de résidence, à Baillie House, lequel est en fait rattaché à un dortoir. Les autres comparables utilisés pour Baillie House étaient : le 82, rue Forsythe, un ensemble de maisons en rangée, et le 58, rue Brant, une maison isolée à deux étages construite sur demande. M. Bennett a soutenu que les propriétés du 1200, promenade Stirling et du 58, rue Brant, des maisons isolées, étaient des comparables appropriés pour le logement du responsable de résidence, à Baillie House. Il était d'avis que ces comparables convenaient uniquement quant aux facteurs utilité et superficie, l’utilité étant prise en compte à 100 p. 100.
+[86] Il en va de même pour l’analyse des comparables que M. Bennett a effectuée à l’égard du logement du responsable de résidence, à Colley House, et de celui du responsable de résidence, à Walker House. En ce qui concerne Walker House, M. Bennett a utilisé :
+(1) le 101, place Whittington, situé au 113, chemin Stevenson, une maison isolée avec un terrain distinct de 50 pieds sur 105 pieds;
+(2) le 105, promenade Ulster, une maison jumelée avec un terrain de 71 pieds sur 111 pieds, à laquelle était rattaché un garage, située à un kilomètre et demi de la propriété en cause, dans un milieu urbain;
+(3) le 2295, Marine Drive, unité 11, un ensemble de maisons en rangée sur un terrain de 31 pieds sur 86 pieds, sans garage;
+(4) le 117, promenade Tracina, un bungalow isolé climatisé à mi‑étages avant et arrière auquel était rattaché un garage;
+(5) le 305, promenade Sunset, une résidence isolée sans climatisation centrale à laquelle était rattaché un garage;
+(6) le 31, place Southaven, une maison en rangée située à trois kilomètres à l’ouest de la propriété en cause;
+(7) le 69, rue Nelson, une maison en rangée dotée d’un garage, sur un terrain de 19 pieds sur 84 pieds.
+[87] En résumé, M. Bennett comparait le logement du responsable de résidence, à Walker House, avec quatre maisons isolées et trois maisons en rangée; aucune de ces habitations n’était un appartement. Parmi les comparables mentionnés, celui qui se rapprochait le plus du logement en question était une maison en rangée, mais ici encore, M. Bennett s’est contenté d’examiner les facteurs utilité et superficie. Dans la mesure où les propriétés étaient similaires, sur le plan de la superficie et de l'utilité, elles s’équivalaient; il importait peu que le comparable soit un appartement, une maison isolée ou jumelée, une maison en rangée, un condominium ou un autre type d’habitation; selon M. Bennett, il s’agissait de comparables valables.
+[88] En appliquant la technique de la parité à l’appartement du chef de dortoir, M. Bennett a comparé cet appartement au 2345, rue Hixon et au 124, East Street, des maisons isolées situées sur des terrains distincts.
+[89] M. Suchanek habitait une maison jumelée avec un mur mitoyen; il n’y avait pas de garage ni de limites de propriété ou de clôtures et la maison ne donnait pas sur le lac. M. Bennett a entre autres utilisé comme comparables le 1320, chemin Lakeshore Ouest, un bungalow isolé avec un terrain d’un tiers d’acre donnant sur le lac, et le 2054, promenade Water’s Edge, une maison en rangée donnant sur le lac, dans un secteur urbain.
+[90] Quant à la maison du directeur, le principal comparable utilisé par M. Bennett était le 372, chemin Lakeshore Ouest; M. Rae s’est également reporté à cette propriété. Cette maison particulière était située sur un terrain de six acres, très près d’Appleby; elle donnait sur le lac, il y avait une piscine et les planchers étaient en bois dur. M. Bennett était d'avis que la propriété était un comparable valable, et ce, même si la résidence du directeur n’était pas clôturée ou n’était pas située sur un terrain bien défini et même si elle était entourée d’autres bâtiments, notamment des dortoirs logeant 200 enfants, et d’installations scolaires, notamment une patinoire et des courts de basket‑ball qui étaient habituellement occupés par les enfants et qui étaient en outre parfois loués.
+[91] Comme comparables pour le 101, place Whittington, M. Bennett a utilisé quatre maisons isolées et trois maisons en rangée; l’un des comparables était le 113, chemin Stevenson, situé à environ six kilomètres d’Appleby, dans un secteur de marché passablement différent. Cette propriété n’a pas été inspectée et, selon la preuve soumise par les appelants, elle avait besoin d’énormément de réparations.
+[92] M. Bennett a supposé que le collège dans son ensemble, composé d’un terrain de 55 acres, était sur le marché, de sorte qu’il a en fait éliminé l’emplacement de son analyse. En fait, il n’a pas évalué la propriété occupée par les appelants, mais il a plutôt évalué une propriété fictive. Par conséquent, M. Bennett n’a pas tenu compte de l’emplacement, puisqu’il s’est fondé, à 100 p. 100, sur le facteur utilité. Je ne veux pas dire que l’utilité n’est pas importante, mais ce facteur n’est pas nécessairement décisif; il faut prendre d’autres facteurs en considération dans l’analyse globale, par exemple l’emplacement, les commodités, les questions de vie privée, la taille du terrain et le bruit. M. Bennett a uniquement tenu compte du facteur bruit aux fins de la réduction à opérer une fois terminée l’analyse des comparables.
+[93] De plus, M. Bennett a utilisé une mesure plutôt arbitraire quant à l’exposition au bruit. Dans quelles circonstances l’exposition au bruit a‑t‑elle pour effet de rendre nulle la juste valeur locative de la propriété? M. Bennett a reconnu que le pourcentage attribué à ce facteur n’aboutit pas à la réduction appropriée. En analysant ce facteur, M. Bennett a reconnu que le niveau de bruit et la durée du bruit en plus du moment où il se produit doivent être considérés comme importants aux fins de la réduction de la juste valeur locative d’une propriété, mais il est difficile d’attribuer un pourcentage précis à l’effet produit par le bruit dans certaines catégories. Le type de bruit, la durée du bruit et le moment où il se produit peuvent avoir des effets différents pour des propriétés différentes dans des emplacements différents. Par exemple, si un immeuble à usage locatif était situé près d’une gare et que les trains passaient tous les jours pendant la nuit, avec tout le bruit que cela crée, cela serait tout à fait différent du cas dans lequel les trains passent pendant la journée, au cours de la semaine, ou encore pendant le week‑end ou de temps en temps seulement.
+[94] À mon avis, le pourcentage attribué au bruit devrait raisonnablement donner lieu à une réduction appropriée, compte tenu de la nature du bruit, de sa durée, de son niveau et du moment où il se produit; il me semble que ces éléments ne faisaient pas partie de l’analyse de M. Bennett. En effet, il a examiné les moments où il y avait du bruit, et dans une certaine mesure le niveau de bruit, d’une façon plutôt arbitraire; il a procédé à un calcul mathématique basé sur le nombre total d’heures d’occupation par rapport au nombre d’heures de remue‑ménage ainsi que sur le degré de remue‑ménage, sans se demander si les occupants étaient réellement sur les lieux lorsqu’il y avait du bruit. Ainsi, lorsqu’une personne occupe des locaux où il y a chaque jour, pendant huit heures, énormément de bruit, mais que pendant ces huit heures, la famille n’est pas là, il est à supposer que ce bruit aurait un effet passablement différent de celui qu’aurait le bruit qui se produit pendant que la famille est sur les lieux. Selon l’analyse effectuée par M. Bennett, il y avait de l’agitation lorsque les occupants étaient normalement dans les locaux, mais dans son examen, M. Bennett n’a pas quantifié le degré de remue‑ménage d’une façon appropriée. De plus, en en ce qui concerne la réduction, M. Bennett a uniquement parlé de la perte de jouissance paisible et il a rarement mentionné la perte de vie privée. Il me semble que ces deux aspects s’appliquent à la réduction dans ce cas‑ci : le premier est la perte de jouissance paisible; cela se rapporte au facteur bruit, c’est‑à‑dire à une interruption de l’utilisation paisible de la propriété à cause des perturbations attribuables au bruit. Le second aspect est la perte de vie privée; cela se rapporte à l’absence de vie privée des occupants, attribuable à la nature publique de leur milieu et à l’emplacement de leurs logements, à proximité du campus d’Appleby, avec tout ce que la chose comporte. Je suis d'avis que M. Bennett a accordé peu de poids, pour ne pas dire aucun, à la perte de vie privée; c’est ce qui ressort de son témoignage puisqu’il a mentionné la perte de vie privée une seule fois à l’égard de la résidence Peirce.
+[95] Je conclus que M. Bennett n’a pas vraiment fait preuve de réalisme dans son analyse; il a selon moi appliqué la technique de la parité d’une façon fort restrictive et livresque, en se fondant uniquement sur l’utilité sans tenir compte d’autres facteurs tels que les commodités de la propriété environnante, l’emplacement, le terrain ou la taille du terrain ainsi que d’autres facteurs dont il a déjà été fait mention. Il a essentiellement effectué une analyse mathématique au lieu de s’en remettre à son expérience pratique et au bon sens, en essayant de s'attaquer à ce qui peut de toute évidence être considéré comme un problème fort difficile étant donné que l’analyse devait être effectuée de manière rétrospective (plus de dix années par la suite), à l’égard d’une propriété sortant de l’ordinaire pour laquelle il semblait y avoir fort peu de comparables valables, sinon aucun. Je conclus que les comparables utilisés par M. Bennett ainsi que leur application étaient peu fiables et insatisfaisants et, contrairement à son témoignage, inappropriés.
+[96] Somme toute, je conclus que l’approche que M. Rae a suivie à l’égard d’un problème et d’une analyse difficiles était sincère et franche; M. Rae a reconnu qu’il s’agissait d’une tâche très complexe, des comparables étant soumis simplement pour démontrer jusqu’à quel point ils prouvaient être inadéquats. M. Rae a expliqué qu’il lui avait été difficile de trouver des comparables acceptables et il a fait remarquer qu’il avait sans succès essayé d’obtenir l’accès à une installation locale du ministère de la Défense afin de l’utiliser comme emplacement possible aux fins de la comparaison. En fin de compte, M. Rae s’en est remis à ses nombreuses années d’expérience en matière d’évaluation d’immeubles, à Oakville et dans les environs, où il vivait, pour arriver aux justes valeurs locatives soumises.
+[97] Dans la décision James et al. c. Canadian National Railway Company, [1965] R.C. de l’É. 71, le juge Cattanach s'est dit d'avis que l’expérience du témoin, acquise sur le marché à titre de courtier ou d’opérateur, est importante pour que celui‑ci puisse exprimer une opinion à titre d’« expert ». M. Rae possédait certes pareille expérience et il s’y connaissait de toute évidence en matière d’évaluation des justes valeurs locatives dans la région d’Oakville.
+[98] L’analyse de M. Rae n’est pas irréprochable; ainsi, M. Rae a utilisé certaines superficies erronées pour certaines propriétés et il a utilisé certains comparables utilisés par M. Bennett, mais il a reconnu qu’il ne s’agissait pas de bons comparables et que, dans bien des cas, ces comparables n’étaient pas très utiles. Les appelants ont reconnu les superficies inexactes mentionnées dans le rapport de M. Rae et ils ont accepté les superficies fournies par M. Bennett.
+[99] En déterminant la juste valeur locative de chaque logement, j’ai bien à l’esprit les observations que le juge Jackett a faites dans la décision National Capital Commission c. Marcus, précitée. Pour déterminer ces valeurs, il me semble avoir tenu compte de tous les facteurs pertinents que la personne raisonnablement prudente et expérimentée prendrait en considération, en me mettant à la place de la personne à qui appartient le logement en cause juste avant d’essayer de le louer, cette personne n’étant toutefois pas tenue de le louer, et étant en mesure d’évaluer tous les facteurs dont tiendrait compte une personne raisonnablement prudente et expérimentée eu égard aux circonstances, afin de décider du montant qu’elle voudrait absolument obtenir afin d’accepter de louer le logement. Je me suis également mis à la place de la personne, du locataire éventuel, qui veut louer un logement tel que ceux qui sont ici en cause, sans toutefois être obligée de louer ce logement particulier, qui est en mesure d’évaluer tous les facteurs dont tiendrait compte une personne raisonnablement prudente et expérimentée eu égard aux circonstances et qui réfléchit au montant le plus élevé qu’elle serait prête à verser pour louer le logement.
+[100] Après avoir examiné l’ensemble des éléments de preuve que M. Rae et M. Bennett ont produits, j’ai décidé de tenir compte des facteurs suivants en évaluant la juste valeur locative :
+a) l’utilité, le nombre de chambres à coucher et de salles de bains dont était doté chaque logement;
+b) la superficie de chaque logement;
+c) l’emplacement du logement;
+d) les commodités offertes dans les environs;
+e) le terrain et la taille du terrain;
+f) les commodités qu’offrait chaque propriété, comme un garage, la climatisation, la finition et la qualité de la construction;
+g) l’âge du logement;
+h) l’état du logement.
+Il pourrait bien également y avoir d’autres facteurs à prendre en compte eu égard aux circonstances propres à chaque cas.
+[101] En appliquant le critère consacré par la jurisprudence National Capital Commission c. Marcus, précitée, j’utilise au mieux tous les renseignements sui m’ont été produits, et notamment les rapports des deux experts, leurs témoignages, la preuve soumise par d’autres témoins et les observations des avocats. Je conclus que les justes valeurs locatives des logements suivants, situés sur le campus d’Appleby, étaient les suivantes au cours des années d’imposition 1996‑1997 :
+Propriété – résidence
+Appelant – occupant
+Juste valeur
+locative
+1996-1997
+Juste valeur locative
+rajustée*
+Maison du directeur
+Guy McLean
+3 250 $
+3 364 $
+Résidence Peirce
+M. Peirce
+1 500 $
+1 212 $
+Baillie House
+D. Sewell
+1 100 $
+1 102 $
+Colley House
+P. Thompson
+750 $
+719 $
+Appartement du chef de dortoir
+P. Schutz
+550 $
+517 $
+Maison jumelée
+D. Suchanek
+850 $
+726 $
+101, place Whittington
+D. Smith
+950 $
+1 333 $
+Walker House
+D. Suchanek
+958 $
+958 $
+Little Grey House
+D. Suchanek
+750 $
+750 $
+* Je retiens les superficies mentionnées dans le rapport de M. Bennett et j’ai rajusté les justes valeurs locatives en fonction des superficies réelles.
+[102] M. Rae n’a pas produit d’évaluation formelle au sujet de Walker House; je suis d'avis que Walker House et Baillie House sont fondamentalement des résidences similaires; j’ai donc attribué à Walker House la même valeur locative que celle que M. Rae a attribuée à Baillie House, tout en effectuant un rajustement pour la différence de superficie entre les deux résidences. [Baillie House, 2 124 pieds carrés, et Walker House, 1 850 pieds carrés [1 100 ÷ 2 124 pieds carrés x 1 850 pieds carrés = 958]. Quant à Little Grey House, M. Rae n’a produit aucune évaluation formelle; j’ai donc réexaminé l’évaluation effectuée par M. Bennett et j’ai encore une fois conclu que les comparables laissaient quelque peu à désirer. J’ai suivi la jurisprudence National Capital Commission c. Marcus, précitée, et je conclus que la juste valeur locative est de 750 $ par mois, soit un montant équitable et raisonnable eu égard aux circonstances.
+[103] Quelle est la réduction à opérer, le cas échéant, sur les justes valeurs locatives des logements en question par suite de la relation employeur‑employé et de l’avantage accessoire dont bénéficie l’employeur à cause de l’avantage accordé à l’employé?
+[104] La thèse fondamentale des appelants est la suivante : ce sont les facteurs liés à l’agitation qui devraient indiquer la ventilation de l’avantage entre l’employeur et l’employé; de plus, les présents appels portent sur la détermination de la jouissance personnelle dont bénéficie chaque contribuable. Toutefois, l’intimée soutient qu’il s’agit d’une question d’évaluation et qu’il aurait été tenu compte de tout inconvénient subi par les appelants au moyen des salaires et des indemnités supplémentaires associées à leurs responsabilités ou encore au moyen d’une réduction de leur charge d’enseignement.
+[105] Les articles 6 et 15 de la Loi visent des cas précis et chaque disposition a fait l’objet d'une abondante jurisprudence portant sur son application particulière. Après avoir examiné les arguments et la jurisprudence pertinente qui ont été présentés et tenu compte de la preuve produite, je conclus que l’évaluation doit refléter le montant qui est raisonnable eu égard aux circonstances.
+[106] Les appelants soutenaient que la question centrale en l'espèce consistait en la détermination de la valeur de l’avantage. J'abonde dans leur sens. Les appelants ont fait valoir qu’il y avait trois cas susceptibles de donner lieu à un avantage :
+1) L’avantage conféré par un employeur, strictement au profit de l’employé (par exemple, lorsque l’employeur paie un voyage que l’employé doit effectuer pour que celui‑ci en profite personnellement);
+2) L’arrangement selon lequel c’est principalement l’employeur qui bénéficie de l’avantage, même si l’employé peut accessoirement en retirer un avantage (par exemple, lorsqu’un médecin est de service pour une semaine et que l’hôpital lui offre une chambre où dormir le soir, l’employé ne retire aucun avantage parce que c’est essentiellement l’employeur qui en tire parti);
+3) L’arrangement qui est conclu en partie au profit de l’employeur et en partie au profit de l’employé (par exemple, lorsque le concierge d’un immeuble d’appartements se voit offrir un logement dans l’immeuble sans qu’il lui en coûte quoi que ce soit, de façon à pouvoir offrir ses services 24 heures sur 24, sept jours sur sept).
+[107] Selon les appelants, c’est le troisième cas de figure qui s’applique en l'espèce puisque l’employeur et l’employé bénéficient tous deux d’un avantage; il faut porter un jugement personnel au sur le mode de ventilation de cet avantage, ce qui donnerait un résultat différent pour chacun des appelants. Les appelants ont soutenu que ce sont les facteurs liés au remue‑ménage qui devraient indiquer la répartition de l’avantage entre l’employeur et l’employé et que, malgré les déclarations de l’intimée, il ne s’agit pas d’une question d’évaluation, mais de la détermination de la jouissance personnelle dont bénéficie chaque contribuable.
+[108] L’intimée a soutenu qu’il faut se fonder sur les opinions que les experts ont exprimées avec réserve pour déterminer la juste valeur locative du logement, ce qui comprendrait également une réduction appropriée. L’intimée était d’avis que le trouble ou l’inconvénient attribuable à l’obligation de disponibilité 24 heures sur 24, sept jours sur sept, faisait partie de l’emploi des appelants et que ceux‑ci étaient indemnisés au moyen de leurs salaires et [traduction] d’« indemnités supplémentaires associées à leurs responsabilités » ou d’une réduction de leur charge d’enseignement. L’intimée a soutenu qu’aucune réduction ne devrait être accordée pour ces inconvénients étant donné qu’il s’agit en l’espèce d’une question d’évaluation.
+[109] Je ne saurais retenir cette thèse. Il ressort de la preuve que les appelants touchent un montant annuel donné pour les services qu’ils assurent. La plupart sont obligés d’habiter sur le campus pour s’acquitter de certaines de leurs tâches. Il ne ressort d’aucun élément de preuve que les membres du personnel touchaient une rémunération supplémentaire pour vivre sur le campus, et il n’a été produit aucun élément de preuve en vue de démontrer que les membres du personnel recevaient des montants supplémentaires pour l’agitation et la perte de vie privée associés au fait qu’ils logeaient sur le campus. Chaque employé se voyait attribuer un avantage imposable pour occuper les résidences d’Appleby et chacun a déclaré cet avantage dans sa déclaration T1, sauf Paula Schutz; les appelants ont admis avoir chacun reçu un avantage imposable. Je conviens avec l’intimée que c’est une question d’évaluation qui se pose; cela est constant. La question de savoir s’il s’agit d’une simple évaluation, compte tenu de l’agitation et de la perte de vie privée associés aux logements, ou s’il s’agit plutôt d’une évaluation donnant lieu à une réduction pour le remue‑ménage et la perte de vie privée associés aux logements est une question de sémantique. En fin de compte, quelle est la juste valeur locative des logements, avec les limitations particulières qui s’appliquent? Vu le mode de réduction présenté à l'appui de ses prétentions, l’intimée a reconnu qu’il faut d’une façon ou d’une autre opérer une réduction, comme l’ont également reconnu les appelants. Aucune indemnité n’était accordée pour les inconvénients ou pour le remue‑ménage auxquels faisaient face les appelants.
+[110] De manière générale, l’article 6 de la Loi vise les avantages conférés aux employés et l’article 15 de la Loi vise les avantages conférés aux actionnaires. Selon l’intimée, il est uniquement pertinent d’effectuer la ventilation entre l’employeur et l’employé pour les avantages résultant de l’application de l’article 15 de la Loi. Aux dires de l’intimée, la ventilation n’est pas pertinente aux fins de l’application de l’alinéa 6(1)a) de la Loi. Je retiens l'observation de l’intimée au paragraphe 17 de ses conclusions, lorsqu’elle soutient que les cas dans lesquels un logement est offert comportent intrinsèquement un avantage pour l’employeur et pour l’employé :
+[traduction]
+Dans presque tous les cas où le logement est fourni à l'employé, il en résulte également un avantage direct ou indirect pour l’employeur. De fait, il est difficile d’imaginer une situation dans laquelle l'employeur fournirait un logement à l'employé sans bénéficier également d’un avantage. Néanmoins, en se prononçant sur la valeur en vertu de l’alinéa 6(1)a), la jurisprudence a, à maintes reprises, omis de tenir compte de tout avantage pour l’employeur.
+[111] À mon avis, l’article 15 de la Loi vise des situations fort précises, par exemple lorsque le contribuable est actionnaire ou envisage de devenir actionnaire. Une abondante jurisprudence porte sur l’interprétation de l’alinéa 6(1)a) de la Loi.
+[112] En l’espèce, les appelants ont admis que l’employeur bénéficiait d’un avantage. Aucun des employés n’est ou n’était actionnaire d’Appleby. L’article 15 de la Loi ne peut jouer et aucune des nombreuses jurisprudences mentionnées qui portent sur cette disposition n'est pertinente : Cockerill c. M.N.R., 65 DTC 525; Lordly c. M.N.R., 78 DTC 1569; Paul’s Hauling Ltd. c. M.N.R., 79 DTC 167. Appleby a certes bénéficié de l’occupation des locaux par les employés, en particulier en ce qui concerne la résidence du directeur, Baillie House, Colley House et Walker House et l’appartement du chef de dortoir. Selon une condition de son emploi, chaque appelant devait habiter sur les lieux, à l’exception de David Smith et de David Suchanek (lorsqu’ils habitaient Little Grey House et la maison jumelée). Chaque appelant qui occupait un lieu d'habitation comme condition de son emploi touchait une indemnité à l’égard de ses tâches, qu’il s’agisse de tâches administratives, d’enseignement ou d’autres tâches; par conséquent, cela compense l’avantage dont bénéficie l’employeur.
+[113] De plus, l’article 9 de la Loi ne peut jouer et les jurisprudences relatives à cette disposition de la Loi ne sont pas pertinentes non plus : Potvin et al. c. M.N.R., 90 DTC 1644 et Somodi c. M.R.N., [1987] A.C.I. no 1162 (QL).
+[114] En outre, certaines décisions citées par l’intimée dans lesquelles aucune réduction n’aurait été autorisée ne sont pas pertinentes non plus en l’espèce. Dans l’affaire Williams c. R., [1955] C.T.C. 1, (C. de l’É.), le contribuable et le ministre du Revenu national s’étaient entendus pour évaluer l’avantage en cause; la cour n'était appelée qu'à se prononcer sur la thèse de l’appelant selon laquelle la valeur ne faisait pas partie de son revenu de l’année. Dans l’affaire Hughes c. M.N.R., 95 DTC 295, le contribuable avait commis un délit, ce qui a selon moi fortement influé sur l’issue de la cause. Dans l’affaire Bougain c. Quebec, [1987] A.Q. no 400 (QL), il fallait uniquement rechercher si M. Bougain était tenu, selon les conditions de son emploi, d’être à l’hôtel.
+[115] Comme le soutient l’intimée, je suis d’avis que l’évaluation est le montant raisonnable à déterminer eu égard aux circonstances. J’ai déjà évoqué les justes valeurs locatives qui devraient se rattacher aux avantages dont bénéficie chacun des appelants. Étant donné les justes valeurs locatives auxquelles je suis parvenu, il faut accorder une certaine réduction à certains appelants en raison de la perte de jouissance paisible et de la perte de vie privée pour chaque logement particulier.
+[116] L’intimée convient, vu la preuve qu’elle a produite, qu’il convient d’opérer une certaine réduction. M. Bennett a procédé à un calcul mathématique et à une évaluation du degré de perte de jouissance paisible en établissant la réduction qu’il convenait selon lui accorder. M. Rae n’a pas fait d'observations au sujet de la réduction qu’il convient accorder, le cas échéant.
+[117] L’ARC a fait remarquer que les avantages imposables associés au logement peuvent être réduits à cause de la perte de jouissance paisible et de vie privée. Elle évoque les réductions de l’avantage imposable à effectuer sur le revenu d’emploi d’un étudiant (le chef de dortoir) dans CRA’s Views, Interpretation 2004‑010892E5 – Housing Benefit – Loss of Quiet Enjoyment (Opinion de l’ARC – Interprétation 2004‑010892E5 – Avantage relatif au logement – Perte de jouissance paisible), du 27 janvier 2005 :
+[traduction]
+La valeur de l’avantage imposable pour le logement et les repas gratuits doit généralement correspondre à la juste valeur marchande de ceux-ci. Comme il en est fait mention dans le guide, il peut convenir, dans certains cas, de réduire la valeur de l’avantage relatif au logement. Ainsi, lorsque le logement comporte des équipements ou des installations d’entreposage, ou que le public y a accès, de sorte que la chose porte atteinte à la vie privée de l’employé ou à la jouissance paisible du logement, il convient de réduire la valeur de l’avantage. À notre avis, compte tenu de la nature des tâches du chef de dortoir qui sont exposées dans votre lettre, il convient de réduire la valeur de l’avantage.
+De plus, l’ARC a publié un document additionnel le 21 novembre 2005 : CRA Views, Interpretation – External 2005‑0147831‑E5 – Taxable Benefit – Rent Free Apartment (Opinion de l’ARC, Interprétation – Externe 2005‑0147831‑E5 – Avantage imposable – Appartement gratuit),
+[traduction]
+Il peut convenir, dans certains cas, de réduire la valeur de l’avantage relatif au logement en raison de la perte de jouissance paisible. L’ARC n’a pas adopté de position générale au sujet du montant de la réduction à effectuer dans différents cas, mais elle se borne à dire que la réduction doit être raisonnable eu égard aux circonstances.
+[118] De toute évidence, des réductions ont été autorisées et ont été opérées à l'égard d’avantages découlant d'un emploi. Ainsi, une réduction de 100 p. 100 a été accordée ou encore aucun avantage imposable n’a été pris en considération dans les affaires suivantes : Lordly, précité; Paul’s Hauling Ltd., précité; Romeril c. The Queen, 99 DTC 221; Sorin c. M.N.R., 64 DTC 62 et Lowe c. The Queen, 96 DTC 6226, et aussi Ferguson c. M.N.R., 72 DTC 1097, une décision de la Commission de révision de l’impôt selon laquelle une réduction de 90 p. 100 entraînait un avantage imposable de 10 p. 100 à inclure dans le revenu. Certaines décisions se rapportent à l’article 6 de la Loi, alors que d’autres se rapportent à l’article 15.
+[119] En ce qui concerne l’application ou la prise en considération d’une réduction, il me semble que les logements du collège Appleby doivent se répartir en quatre catégories : la catégorie A – résidence du directeur; la catégorie B – dortoirs (c’est‑à‑dire Baillie House, Colley House, Walker House et l’appartement du chef de dortoir); la catégorie C – résidence Peirce, Little Grey House et la maison jumelée; la catégorie D – le 101, place Whittington. J’établis ces catégories parce qu’il existe selon moi des ressemblances entre les logements de chaque catégorie et des différences importantes entre les catégories elles‑mêmes. Ainsi, dans la catégorie B, les logements sont fondamentalement du type « dortoir »; tous les logements sont rattachés à un dortoir logeant de 50 à 60 enfants, et cela influe grandement sur l’utilisation et la jouissance paisible des locaux par les appelants en cause, y compris une perte considérable de vie privée. Cela est différent de ce qui se produit pour la catégorie A, dans laquelle la résidence du directeur, une maison isolée, est à l’écart; il s’agit d’une résidence dans une certaine mesure autonome, mais elle est néanmoins touchée de près en raison de son emplacement et des allées et venues de diverses personnes, du fait qu’elle est occupée par le directeur du collège. La catégorie C vise essentiellement les résidences qui sont beaucoup plus à l’écart que celles des catégories A et B; il s’agit d’habitations de nature privée, mais elles sont néanmoins dans une certaine mesure touchées. Les appelants sollicitent une réduction pour les logements des catégories A, B et C, mais non pour celui de la catégorie D, le 101, place Whittington, étant donné qu’il s’agit d’une simple évaluation. Je suis d'avis que les logements rangés dans chacune des catégories A, B et C sont suffisamment similaires, quant au milieu dans lequel ils sont situés, pour justifier une analyse commune de la question de la réduction.
+[120] Comme il en a déjà été fait mention, M. Rae n’a pas tenté d’opérer de réduction sur les justes valeurs locatives des locaux en question. M. Bennett a procédé au calcul mathématique dont il a ci‑dessus été question pour parvenir aux réductions. À la page 12 de son rapport, il définit le calcul comme suit :
+[traduction]
+La mesure dans laquelle il est porté atteinte à la jouissance paisible d’une personne varie d’un cas à l’autre. La nature et la fréquence de l’agitation causée par les élèves peut varier d’un endroit à l’autre. La réduction effectuée pour la perte de jouissance paisible doit être raisonnable eu égard aux circonstances. Ainsi, nous ne pouvons envisager un cas dans lequel la jouissance paisible d’une personne est constamment perturbée pendant toute la journée.
+En décidant de la réduction à opérer pour la « perte de jouissance paisible », nous avons analysé les moments auxquels il peut y avoir du « bruit » au cours de la journée. Le matin, avant le début des cours, il n’y a qu’une heure ou deux pendant lesquelles les élèves sont debout et où ils vont et viennent dans leurs chambres et font peut‑être du bruit. Au cours des heures de classe, la majorité des élèves sont normalement absents de leur dortoir, de sorte qu’il y a relativement peu de bruit. Après les heures de cours, la plupart des élèves participent à des activités ou à des séances d’étude. C’est surtout pendant les quelques heures de loisir, dans la soirée avant le coucher, ou pendant le week‑end, que les élèves flânent dans leurs chambres et dans les aires communes et que le niveau de bruit peut devenir désagréable. De plus, un grand nombre d’élèves rentrent chez eux pendant le week‑end, de sorte que cela doit dans une certaine mesure contribuer à réduire le niveau de bruit possible.
+À supposer que les élèves ont chaque jour, au cours de la semaine, environ cinq heures de loisir et qu’ils ont chaque jour environ 12 heures de loisir au cours du week‑end, les périodes pendant lesquelles il peut y avoir du « bruit » ne constituent que 29,17 p. 100 du temps au cours d’une semaine donnée. Pour simplifier, nous arrondissons ce chiffre à 30 p. 100. Ces 30 p. 100 laissent supposer que le niveau de bruit est toujours élevé au cours des périodes susmentionnées, ce qui est peu probable. De plus, si nous appliquons ces 30 p. 100 à toute l’année (52 semaines), cela comprend des périodes comme le congé de Noël et les vacances d’été, périodes pendant lesquelles les élèves ne sont pas sur le campus et où les niveaux de bruit soit moindres ou inexistants. Par conséquent, à notre avis, une réduction de 30 p. 100 pour la perte de jouissance paisible attribuable à des niveaux de bruits excessifs est fort généreuse.
+À notre avis, il y a trois niveaux fondamentaux de bruit : un niveau « minimal », auquel cas aucune réduction n’est justifiée; un niveau « modéré », pour lequel une réduction de 15 p. 100 est justifiée; et un niveau « excessif », pour lequel une réduction de 30 p. 100 est justifiée. Ces chiffres s’appuient sur notre analyse du nombre d’heures considérées comme des périodes au cours desquelles il est porté atteinte à la jouissance paisible, ainsi que par les différences de coûts entre des logements situés sur le campus et des logements situés en dehors du campus. Nous avons appliqué la réduction attribuable à la perte de jouissance paisible pour chaque logement compte tenu des faits propres à chaque cas.
+[121] M. Bennett a désigné les locaux qui, selon lui, doivent bénéficier d’une pleine réduction, c’est‑à‑dire 30 p. 100; il s’agit de Walker House, de l’appartement du chef de dortoir, de Colley House et de Baillie House; M. Bennett a operé une réduction de 15 p. 100 pour la résidence Peirce, pour la maison jumelée, pour Little Grey House et pour la résidence du directeur; aucune réduction n’a été opérée pour le 101, place Whittington.
+[122] Je conclus que le calcul mathématique effectué par M. Bennett n’est pas fiable et ce n’est pas quelque chose dont la personne raisonnablement prudente tiendrait compte en décidant de ce qu’elle est prête à payer comme loyer pour un logement particulier et du montant auquel le propriétaire serait de prime abord prêt à louer le logement. Au cours de son témoignage, M. Bennett a presque entièrement mis l’accent sur la perte de jouissance paisible; il a accordé fort peu d’attention à la perte de vie privée. Toutefois, dans son rapport, M. Bennett fait mention de la perte de vie privée; pourtant, l’ensemble de son témoignage se rapportait à la perte de jouissance paisible. Comme il en a ci‑dessus été fait mention, il me semble que le calcul de la réduction comporte deux aspects : (1) la perte de jouissance paisible; la perte de jouissance attribuable au bruit et au remue‑ménage; (2) la perte de vie privée; la perte d’espace personnel attribuable au milieu, aux environs et à l’intrusion dans l’espace privé de l'intéressé. Selon les circonstances, un aspect peut l’emporter sur l’autre, pour ce qui est des perturbations. Dans son analyse, M. Bennett a fort peu mis l’accent sur la perte de vie privée et il s’est presque entièrement concentré sur les perturbations causées par le bruit. Il est insensé et peu réaliste de s’attendre à ce que quelqu’un loue un logement si, pendant 30 p. 100 du temps, il y a des niveaux de bruit importants et constamment élevés. M. Bennett a conclu que, si pendant 30 p. 100 du temps, il y a un niveau constant de bruit, le propriétaire louera le logement pour un montant inférieur de 30 p. 100 à la juste valeur locative, et que le locataire paiera 30 p. 100 de moins que la juste valeur locative. Quel est l'intensité de perturbation auquel une propriété, au point de vue de la juste valeur locative, n’aura plus aucune valeur? Il y a 24 heures dans une journée; si l’occupant d’un logement dort pendant huit heures et s’il s’absente du logement, pour travailler, pendant une autre période de huit heures, il reste huit heures pendant lesquelles l’occupant est réveillé et où il est dans le logement pour l’occuper. S’il y a constamment du bruit pendant 30 p. 100 du temps et que cela se produit au cours des huit heures où l’occupant est réveillé et où il est dans le logement, ou pendant les huit heures où il dort, le logement lui est à toute fin pratique inutile et il n’a donc aucune valeur. Il me semble inconcevable que quelqu’un envisage de payer un loyer pour un logement qui serait constamment exposé à des niveaux élevés de bruit pendant les 30 p. 100 du temps où il occupe ce logement, surtout lorsque c’est pendant cette période qu’il s’attend à profiter d’une jouissance paisible, par exemple tôt le matin et en soirée. On ne peut tout simplement pas suivre une approche strictement mathématique pour déterminer le niveau de perturbation, et ce, que ce soit pour la perte de jouissance paisible ou pour la perte de vie privée. Tôt ou tard, les perturbations peuvent être si graves, durer si longtemps et se produire à des moments tels que le logement n’a plus aucune valeur du point de vue de la juste valeur locative. On ne saurait tenir compte des circonstances individuelles; il faut procéder à un examen objectif. Compte tenu de l'ensemble des facteurs et des éléments en cause, la personne raisonnablement prudente ne paierait tout simplement pas le genre de loyer auquel se louent les propriétés utilisées par M. Bennett, même si les réductions qu’il a proposées étaient accordées. Les réductions proposées par M. Bennett sont insuffisantes.
+[123] En ce qui concerne la catégorie A, la résidence du directeur, je suis d’avis que cette propriété doit bénéficier d’une réduction importante eu égard aux circonstances puisque la maison était en quelque sorte un « aquarium ». Je n’ai pas à examiner la preuve produite par M. McLean au sujet des perturbations causées par le bruit et de l’absence de vie privée, concrète ou potentielle, à laquelle l'occupant de cette résidence particulière était exposé. Il ne s’agit pas d’une preuve que je considère au point de vue subjectif; il s'agit plutôt d’une preuve qui établit les types de perturbations et de perte de vie privée qui sont associées à cette résidence particulière et auxquelles tout occupant est exposé. La perturbation occasionnée par le bruit ainsi que la perte de jouissance paisible étaient dans une large mesure attribuables à l’emplacement sur le campus, au fait que la propriété était entourée de quatre terrains de sport, qu’elle n’était pas clôturée ou que le terrain n’était pas bien délimité, ainsi qu’à l’utilisation des locaux à des fins d’entreposage et comme centre de réception pour de nombreuses réunions administratives. De plus, il y a les visites effectuées à l’improviste par des élèves et par leurs parents, les dignitaires y sont hébergés, la circulation constante et les problèmes de stationnement. Toutes ces activités portent également atteinte à la vie privée de la famille du directeur, ce qui peut être passablement envahissant. L’occupant a une autre résidence qu’il utilise pendant les congés et, bien que la chose n’ait pas expressément été mentionnée, son contrat l’obligeait à résider sur les lieux.
+[124] À mon avis, il convient d’opérer, eu égard aux circonstances, une réduction de 65 p. 100 sur la juste valeur locative, de sorte que M. McLean bénéficie d’un avantage imposable mensuel de 1 177,40 $ [35 % x 3 364 $].
+[125] Quant à la catégorie B, les dortoirs [Baillie House, Colley House, Walker House et appartement du chef de dortoir], je suis d'avis que cette catégorie doit bénéficier de la réduction la plus importante pour la perte de jouissance paisible et pour la perte de vie privée. Un grand nombre d’affaires citées par les parties visaient des gardiens qui résident sur les lieux ou des gérants de motel ou d’ensemble d’habitation, avec un niveau d’agitation ou un degré de responsabilités semblables à ceux qui sont associés aux logements de la catégorie B. Toutefois, les logements de la catégorie B sont directement rattachés aux dortoirs des élèves et leurs entrées donnent sur les couloirs utilisés par les élèves. Chaque dortoir accueille de 50 à 60 élèves. Tous les logements de cette catégorie sont dotés de portes arrière, à l’exception de Colley House, ce qui pourrait justifier une réduction plus importante. Ces logements sont situés au milieu ou à côté de terrains de sport; le facteur bruit est donc fort important. Il est fortement porté atteinte à la vie privée des personnes qui résident à Colley House puisque ces personnes doivent passer par les salles réservées aux élèves pour accéder à leur propre résidence, de sorte qu’il leur est presque impossible de recevoir des invités ou d’assurer le respect de leur vie personnelle. Les occupants devaient être disponibles 24 heures sur 24, sept jours sur sept; ils exerçaient les fonctions de surveillant et encadraient les élèves; ils maintenaient la discipline et ils exerçaient l'autorité parentale.
+[126] Les résidences sont situées à proximité d’autres installations du collège, notamment de terrains de sport qui sont loués; le public, et notamment les parents et les enfants, vont et viennent à toute heure. Selon les personnes qui occupent ces locaux, le niveau de bruit et l’intensité du bruit sont fort élevés. Le facteur bruit, auquel vient s’ajouter l’absence de vie privée, par suite de l’accès direct depuis les couloirs utilisés par les élèves et du fait que les logements sont rattachés à un dortoir logeant de 50 à 60 enfants ou adolescents, est suffisant pour dissuader toute personne raisonnablement prudente et expérimentée de louer les locaux et de verser un loyer élevé. À mon avis, il convient d’accorder une réduction de 80 p. 100 pour les logements de cette catégorie, de sorte que l’avantage imposable conféré à l’occupant est le suivant :
+Baillie House
+220,40 $
+[20 % x 1 102 $] par mois
+Colley House
+143,80 $
+[20 % x 719 $] par mois
+Walker House
+191,60 $
+[20 % x 958 $] par mois
+Appartement du chef de dortoir
+103,40 $
+[20 % x 517 $] par mois
+[127] En ce qui concerne la catégorie C, la résidence Peirce, Little Grey House et la maison jumelée, ces logements sont ceux qui sont le moins touchés au point de vue de la perturbation causée par le bruit et de la perte de jouissance paisible ou de vie privée, comparativement à d’autres résidences prises en considération. Ces résidences ne sont pas rattachées aux dortoirs réservés aux élèves et il n’y a qu’un seul terrain de sport dans les environs. Ces locaux sont exposés à une certaine agitation à cause de leur emplacement, des passants qui frappent à la porte, des anciens élèves qui vont et viennent, de la circulation et de certains problèmes de stationnement. Le fait de vivre sur un campus donne lieu à une certaine perte de vie privée et de jouissance paisible et ces locaux subissaient dans une certaine mesure les effets de leur emplacement sur le campus. À mon avis, il convient d’accorder une réduction de 25 p. 100 pour les logements de cette catégorie, de sorte que l’avantage imposable mensuel pour l’occupant est le suivant :
+Résidence Peirce
+909,00 $
+[1 212 $ x 75 %] par mois
+Little Grey House
+562,50 $
+[750 $ x 75 %] par mois
+Maison jumelée
+544,50 $
+[726 $ x 75 %] par mois
+[128] Quant à la catégorie D, le 101, Whittington, il s’agit d’une simple évaluation sans réduction. J’ai déjà évalué cette résidence à 1 333 $ par mois, au paragraphe 101. En arrivant aux évaluations des résidences en question, j’ai suivi le jurisprudence National Capital Commission c. Marcus, précitée. Ce faisant, j’ai tenu compte de divers facteurs sur une base objective, indépendamment des témoignages des experts sur la technique de la parité. Ces facteurs sont notamment les suivants :
+(1) l’utilité, au point de vue du nombre de chambres à coucher et de salles de bains;
+(2) la superficie de la résidence;
+(3) l’emplacement de la résidence;
+(4) la nature du terrain et sa taille;
+(5) les commodités, telles qu’un garage, la climatisation, la finition, la qualité de la construction;
+(6) l’âge de la résidence;
+(7) les commodités offertes dans les environs.
+Certains autres facteurs peuvent jouer; tout dépend des circonstances.
+[129] Au cours de l’instance, il a été signalé que les frais de services publics avaient également été réglés par Appleby pour certains appelants ou pour tous les appelants. Les services publics constitueraient également un avantage, de la même façon que les logements fournis aux appelants. Par conséquent, la réduction opérée pour chaque logement ici en cause doit également jouer pour les services publics.
+Résumé
+[130] Il est contant que les appelants ont obtenu un avantage imposable à l’égard des logements qu’Appleby leur fournissait. Selon la prépondérance des probabilités, je suis d'avis que les appelants ont établi les évaluations appropriées et j’estime que les réductions proposées par les appelants sont plus raisonnables que celles qui ont été proposées par l’intimée et j’ai déterminé les réductions précises qu’il convient d’opérer par catégorie de logement.
+[131] Je conclus que les justes valeurs locatives suivantes pour chaque logement donne lieu à un avantage imposable, sous réserve de la réduction accordée. En parvenant arrivant à ces justes valeurs locatives, j’ai retenu, pour la plupart, les valeurs proposées par l’expert des appelants, M. Rae, sous réserve de certains rajustements en fonction de la superficie des logements.
+Propriété – résidence
+Appelant – occupant
+Juste valeur
+locative
+1996-1997
+Juste valeur locative
+rajustée*
+Maison du directeur
+Guy McLean
+3 250 $
+3 364 $
+Résidence Peirce
+M. Peirce
+1 500 $
+1 212 $
+Baillie House
+D. Sewell
+1 100 $
+1 102 $
+Colley House
+P. Thompson
+750 $
+719 $
+Appartement du chef de dortoir
+P. Schutz
+550 $
+517 $
+Maison jumelée
+D. Suchanek
+850 $
+726 $
+101, place Whittington
+D. Smith
+950 $
+1 333 $
+Walker House
+D. Suchanek
+958 $
+958 $
+Little Grey House
+D. Suchanek
+750 $
+750 $
+[132] Je conclus qu’aucune réduction ne doit être opérée pour l’avantage imposable accordé aux appelants du fait que leur employeur tire un avantage accessoire de l’avantage qui leur est conféré.
+[133] Je conclus également que la réduction à opérer à l’égard de l’avantage imposable obtenu par chaque appelant, en raison de l’absence de jouissance paisible ou de la perte de vie privée, est la suivante :
+Propriété – résidence
+Appelant – occupant
+Avantage imposable
+initial,
+par mois
+Réduction
+Avantage imposable
+Maison du directeur
+Guy McLean
+3 364,00 $
+65 %
+1 177,40 $
+Baillie House
+D. Sewell
+1 102,00 $
+80 %
+220,40 $
+Colley House
+P. Thompson
+719,00 $
+80 %
+143,80 $
+Walker House
+D. Suchanek
+958,00 $
+80 %
+191,60 $
+Appartement du chef de dortoir
+P. Schutz
+517,00 $
+80 %
+103,40 $
+Résidence Peirce
+M. Peirce
+1 212,00 $
+25 %
+909,00 $
+Little Grey House
+D. Suchanek
+750,00 $
+25 %
+562,50 $
+Maison jumelée
+D. Suchanek
+726,00 $
+25 %
+544,50 $
+101, place Whittington
+D. Smith
+1 333,00 $
+0 %
+1 333,00 $
+Ces réductions valent également pour les services publics qu’Appleby payait pour les appelants.
+[134] Les appels sont accueillis avec dépens et les cotisations sont renvoyées au ministre du Revenu national pour nouvel examen et nouvelle cotisation conformément aux présents motifs.
+Les présents motifs du jugement modifiés à nouveau remplacent les motifs du jugement modifiés datés du 18 décembre 2008 et les motifs du jugement datés du 12 novembre 2008.
+Signé à Ottawa, Canada, ce 23e jour de janvier 2009.
+« E. P. Rossiter »
+E. P. Rossiter, J.C.A.
+Traduction certifiée conforme
+ce 6e jour de décembre 2010.
+François Brunet, réviseur
+RÉFÉRENCE : 2008CCI523
+Nos DES DOSSIERS DE LA COUR : 2004-4147(IT)G; 2004-4148(IT)G;
+2004-4149(IT)G; 2004-4150(IT)G;
+2004-4151(IT)G; 2004-4153(IT)G;
+2004-4154(IT)G
+INTITULÉ : PAULA SCHUTZ; DEBORAH SEWELL; PETER THOMPSON; DAVID SMITH; GUY McLEAN; DAVID SUCHANEK et MICHAEL PEIRCE
+c.
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATES DE L’AUDIENCE : Les 24, 25, 26, 27 septembre et 4 et 18 décembre 2007
+MOTIFS DU JUGEMENT : L’honorable E.P. Rossiter, juge en chef adjoint
+DATE DES MOTIFS DU
+JUGEMENT MODIFIÉS
+À NOUVEAU : Le 23 janvier 2009
+COMPARUTIONS :
+Avocat des appelants :
+Me Wilfrid Lefebvre
+Avocat de l’intimée :
+Me Bobby Sood
+AVOCATS INSCRITS AU DOSSIER :
+Pour les appelants :
+Nom : Wilfrid Lefebvre
+Cabinet : Ogilvy Renault
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

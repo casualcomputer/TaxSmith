@@ -1,0 +1,149 @@
+---
+title: "Yourkin c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/143955/index.do"
+last_modified: "2016-05-03"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2016 CCI 111"
+citation2: ""
+neutral_citation: "2016 CCI 111"
+decision_date: "2016-05-03"
+language: "fr"
+item_id: "143955"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3069
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T17:03:33.362000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "e6c4aa938ee866af675b2ba807ad271a3a09c36106d5e270deb21d8005855161"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Yourkin c. La Reine
+
+- Citation: 2016 CCI 111
+- Decision date: 2016-05-03
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3069, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Yourkin c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2016-05-03
+Référence neutre
+2016 CCI 111
+Numéro de dossier
+2015-3927(IT)I
+Juges et Officiers taxateurs
+Patrick J. Boyle
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2015-3927(IT)I
+ENTRE :
+WALTER YOURKIN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE]
+Appel entendu le 23 mars 2016, à Toronto (Ontario)
+Devant : L’honorable juge Patrick Boyle
+Comparutions :
+Pour l’appelant :
+Personne n’a comparu
+Avocate de l’intimée :
+Me Elizabeth Chasson
+JUGEMENT
+Conformément aux motifs rendus oralement à l’audience (dont une copie est annexée aux présents motifs), l’appel interjeté à l’encontre de la cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2013 de l’appelant est rejeté, avec dépens fixés à 1 850 $, que l’appelant doit payer à l’intimée.
+Signé à Montréal (Québec), ce 3e jour de mai 2016.
+« Patrick Boyle »
+Juge Boyle
+Dossier : 2015-3927(IT)I
+ENTRE :
+WALTER YOURKIN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+VERSION RÉVISÉE DE LA TRANSCRIPTION
+DES MOTIFS DU JUGEMENT PRONONCÉS DE VIVE VOIX
+Je requiers que soit déposée la transcription révisée ci-jointe des motifs du jugement prononcés de vive voix à l’audience, le 23 mars 2016, à Toronto (Ontario). J’ai révisé la transcription (certifiée par le sténographe judiciaire) sur le plan du style et de la clarté, et pour y apporter des corrections mineures seulement. Je n’y ai fait aucune modification quant au fond.
+Signé à Montréal (Québec), ce 3e jour de mai 2016.
+« Patrick Boyle »
+Juge Boyle
+Référence : 2016 CCI 111
+Date : 20160503
+Dossier : 2015-3927(IT)I
+ENTRE :
+WALTER YOURKIN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Juge Boyle
+[1] Walter Yourkin était absent lorsque son appel, instruit selon la procédure informelle, devait être entendu ce matin à 9 h 30. L’appel a été ajourné pendant une heure au cas où il avait été retardé en route. Il ne s’est pas présenté à l’audience et il ne semble pas avoir essayé de communiquer avec l’intimée ou le greffe de la Cour ce matin.
+[2] L’appelant a demandé un ajournement à la Cour le 1er mars, bien que j’utilise le mot « demander » à la légère. La Cour a informé l’appelant qu’il devait remettre un certificat médical au soutien de sa demande. Sa demande comprenait des copies de plusieurs ordonnances, les heures d’ouverture de sa clinique et une liste de ses prochains rendez-vous avec le médecin, sur laquelle ne figurait qu’un seul rendez-vous fixé au mois de juin 2016. Sa demande d’ajournement du 1er mars n’était pas formulée comme une demande de la Cour. Elle contenait le paragraphe manuscrit suivant : [traduction] « Je ne serai pas en mesure de comparaître devant la Cour ce 23e jour de mars 2016 à 9 h 30. La raison? Je suis extrêmement malade. Mon état de santé est une affaire privée. Tout autre motif connexe exigera ma signature. Par les présentes, je retire le pouvoir de la Cour de rejeter l’appel pour “défaut de comparution de l’appelant”. »
+[3] M. Yourkin n’a pas répondu à la demande écrite formulée par la Cour de présenter un certificat médical confirmant son incapacité de se présenter à l’audience. Lorsque la Cour a tenté de communiquer avec l’appelant par téléphone, elle a appris que le numéro de téléphone qu’il lui avait fourni n’était plus en service.
+[4] La Cour a attendu jusqu’à hier pour prendre une décision sur la demande d’ajournement de l’appelant, sans doute pour éventuellement recevoir un certificat médical ou un appel téléphonique de suivi de sa part. La Cour n’a rien reçu.
+[5] Hier, la juge en chef adjointe de la Cour a rejeté la demande d’ajournement puisqu’elle n’avait rien reçu ou entendu de l’appelant à l’appui de l’ajournement. L’intimée a confirmé ce matin n’avoir eu aucune communication récente avec l’appelant.
+[6] Il ressort clairement des ordonnances de l’appelant qu’il est âgé d’au moins 84 ans à ce stade-ci. Il est fort probable que l’appelant soit extrêmement malade et que le style de communication choisi soit simplement le résultat de l’humeur irritable parfois manifestée par certaines personnes à ce stade de la vie, c’est-à-dire le vieillissement et la maladie. Toutefois, d’autres éléments doivent être examinés.
+[7] La réponse, dont l’exactitude a été confirmée à la Cour par l’avocate de l’intimée ce matin, énonce en détail que M. Yourkin a porté cette même question en appel devant la Cour dans sept instances distinctes, entendues au cours de six années différentes, pour ses années d’imposition 2001 à 2012. Chaque audience s’est soldée par le rejet de sa demande de déduction des paiements de pension alimentaire.
+[8] Son avis d’appel pour 2013 dont la Cour est saisie ce matin ne laisse entendre aucun changement en fait ou en droit ou quant aux motifs applicables à sa demande de déduction.
+[9] De ce qui ressort de l’avis d’appel de l’appelant et des documents qui y sont annexés, il a fondé son appel sur le fait qu’une ordonnance provisoire de payer une pension alimentaire prévoyant une date d’exécution antérieure à 1995 avait été rendue à son égard.
+[10] Par la suite, une ordonnance définitive prévoyant une date d’exécution postérieure à 1997 a été rendue, mettant fin à son obligation provisoire de payer une pension alimentaire et la remplaçant par une obligation de payer une pension alimentaire correspondant à 40 % de tout revenu qu’il recevrait d’un quelconque nouvel emploi qu’il pourrait trouver. L’ordonnance de 1997 a été rendue conformément au procès-verbal de transaction. L’appelant soutient devant la Cour que l’ordonnance de 1997 n’était pas valide, car le procès-verbal de transaction était signé par son avocat et non par lui-même. Il n’insinue pas qu’il a continué de payer une pension alimentaire à sa conjointe conformément à l’ordonnance de 1995 et il n’indique pas qu’il lui a versé une pension alimentaire à l’aide d’une nouvelle source de revenus d’emploi.
+[11] Cependant, l’ordonnance de 1997, qui a mis fin à ses obligations de verser une pension alimentaire, a ordonné, dans le cadre du partage des biens, le partage de ses droits à une pension au titre du régime de pensions d’Unilever Canada. Il ressort de l’avis d’appel de l’appelant qu’il veut déduire les paiements de sa pension d’Unilever versés à son épouse dans le cadre du partage des biens comme s’ils constituaient un paiement continu des pensions alimentaires intérimaires. Il n’est guère surprenant que ses appels précédents aient tous été rejetés.
+[12] L’intimée n’a jamais présenté de demande visant à déclarer que les instances répétitives intentées par M. Yourkin devant la Cour étaient vexatoires en vertu de l’article 19.1 de la Loi sur la cour canadienne de l’impôt. Néanmoins, la Cour a le pouvoir de prévenir l’abus de ses procédures. Voir, par exemple, le jugement rendu par la Cour d’appel fédérale dans l’arrêt Fournier c. Canada, 2005 CAF 131.
+[13] M. Yourkin n’a pas fait suite à sa demande d’ajournement auprès de la Cour. Il ne s’est pas présenté ce matin. Il a déposé un avis d’appel qui vise à plaider de nouveau la même question en se fondant sur les mêmes faits, le même droit et les mêmes motifs que ceux qui n’ont pas été retenus lors des six audiences précédentes qui ont eu lieu devant la Cour au cours des 12 dernières années. Il abuse des procédures de la Cour et a indûment retardé le règlement prompt et efficace de ce dernier appel.
+[14] En plus de justifier le rejet du présent appel, cela justifie d’adjuger des dépens contre l’appelant en faveur de l’intimée en un montant qui excède celui prévu à l’article 10.2 des Règles.
+[15] L’appel est rejeté avec dépens, fixés à 1 850 $. Il s’agit du montant établi conformément au Tarif B prévu pour les procédures générales de catégorie A de la Cour.
+Signé à Montréal (Québec), ce 3e jour de mai 2016.
+« Patrick Boyle »
+Juge Boyle
+RÉFÉRENCE :
+2016 CCI 111
+No DU DOSSIER DE LA COUR :
+2015-3927(IT)I
+INTITULÉ :
+WALTER YOURKIN c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+Le 23 mars 2016
+MOTIFS DU JUGEMENT :
+L’honorable juge Patrick Boyle
+DATE DU JUGEMENT :
+Le 3 mai 2016
+COMPARUTIONS :
+:
+Avocate de l’intimée :
+Me Elizabeth Chasson
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada

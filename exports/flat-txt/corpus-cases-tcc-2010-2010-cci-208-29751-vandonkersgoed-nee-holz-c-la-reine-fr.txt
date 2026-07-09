@@ -1,0 +1,161 @@
+Title: Vandonkersgoed nee Holz c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29751/index.do
+Corpus path: corpus/cases/tcc/2010/2010-cci-208-29751-vandonkersgoed-nee-holz-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2010-04-16
+
+# Vandonkersgoed nee Holz c. La Reine
+
+- Citation: 2010 CCI 208
+- Decision date: 2010-04-16
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6526, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Vandonkersgoed nee Holz c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2010-04-16
+Référence neutre
+2010 CCI 208
+Numéro de dossier
+2009-2093(IT)I
+Juges et Officiers taxateurs
+Patrick J. Boyle
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2009-2093(IT)I
+ENTRE :
+RENATE CAROLINE VANDONKERSGOED NEE HOLZ,
+appelante,
+et
+SA MAJESTÉ
+LA REINE ,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 24 mars 2010, à Kelowna (Colombie-Britannique).
+Devant : L’honorable juge Patrick Boyle
+Comparutions :
+Pour l’appelante :
+L’appelante elle-même
+Avocat de l’intimée :
+Me Matthew Canzer
+____________________________________________________________________
+JUGEMENT
+Les appels interjetés en vertu de
+la Loi de l’impôt sur le revenu à l’égard des nouvelles cotisations relatives aux années d’imposition 2004, 2005 et 2006 de l’appelante sont accueillis en partie avec dépens, et l’affaire est renvoyée au ministre du Revenu national pour nouvel examen et nouvelles cotisations conformément aux motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 16e jour d’avril 2010.
+« Patrick Boyle »
+Juge Boyle
+Traduction certifiée conforme
+ce 15e jour de novembre 2010.
+Marie-Christine Gervais
+RÉFÉRENCE : 2010 CCI 208
+2009-2093(IT)I
+ENTRE :
+RENATE CAROLINE VANDONKERSGOED NEE HOLZ,
+appelante,
+et
+SA MAJESTÉ
+LA REINE ,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+TRANSCRIPTION RÉVISÉE
+DES MOTIFS DU JUGEMENT
+Que la transcription révisée ci-jointe des motifs du jugement que j’ai prononcés à l’audience tenue à Kelowna (Colombie-Britannique), le 24 mars 2010, soit déposée. J’ai révisé la transcription (certifiée par la sténographe judiciaire) par souci de stylistique et de clarté et afin d’y apporter quelques corrections mineures. Je n’ai apporté aucune modification de fond.
+Signé à Ottawa, Canada, ce 16e jour d’avril 2010.
+« Patrick Boyle »
+Juge Boyle
+Traduction certifiée conforme
+ce 15e jour de novembre 2010.
+Marie-Christine Gervais
+Référence : 2010 CCI 208
+Date : 20100416
+Dossier : 2009-2093(IT)I
+ENTRE :
+RENATE CAROLINE VANDONKERSGOED NEE HOLZ,
+appelante,
+et
+SA MAJESTÉ
+LA REINE ,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+TRANSCRIPTION RÉVISÉE
+DES MOTIFS DU JUGEMENT
+(prononcés oralement à l’audience à Kelowna (Colombie‑Britannique), le 24 mars 2010)
+Le juge Boyle
+[1] Voici les motifs que j’ai prononcés oralement ce matin dans le cadre de l’appel informel de Mme Van Donkersgoed entendu à Kelowna à l’égard des nouvelles cotisations établies pour les années d’imposition 2004 à 2006 de celle‑ci en ce qui a trait à l’exploitation de son gîte touristique.
+[2] Mme Van Donkersgoed s’est représentée elle-même dans le présent appel. Veuve âgée de près de 70 ans, elle s’en est bien tirée.
+La Couronne n’a pas contesté la crédibilité de l’appelante et
+la Cour ne met pas du tout en doute la véracité de son témoignage.
+[3] Mme Van Donkersgoed exploitait un gîte touristique très prospère appelé Villa Blanca et situé dans les contreforts montagneux de la région de l’Okanagan en Colombie-Britannique. Après le feu de forêt dévastateur survenu en juillet 2003 à Anarchist Mountain, en Colombie-Britannique, l’entreprise de l’appelante a été gravement touchée. Au cours des quelques années qui ont suivi l’incendie, la région limitrophe, y compris la région adjacente au gîte Villa Blanca, a été dévastée et longtemps incommodée par la cendre qui subsistait dans l’air ainsi que par les odeurs du feu, de la fumée et de la cendre qui continuaient à se propager. Mme Van Donkersgoed a néanmoins continué à exploiter le gîte Villa Blanca jusqu’à la fin de 2006. Après l’incendie, le chiffre d’affaires du gîte avait baissé de 80 p. 100 par rapport aux années précédentes. Il n’est pas surprenant que l’exploitation ait donné lieu à des pertes pendant ces années‑là. Néanmoins, Mme Van Donkersgoed a continué à entretenir et à exploiter pleinement le gîte, qu’elle a gardé ouvert et prêt à accueillir des invités tout au long de ces années‑là. Cependant, elle n’a seulement obtenu de réservations que pour un peu plus de 100 nuits chaque année et la plupart des personnes en question annulaient à leur arrivée dans la région, lorsqu’elles constataient l’ampleur de la dévastation autour du gîte. L’appelante n’a accueilli des clients à Villa Blanca que pour 30 à 40 nuits par année au cours des trois années qui ont suivi l’incendie.
+[4] Les principales questions soulevées dans le présent appel sont de savoir dans quelle mesure (i) l’alinéa 18(12)b) s’applique de façon à restreindre les pertes découlant de l’utilisation du domicile à des fins commerciales et si (ii) la répartition entre les dépenses engagées à des fins commerciales et les dépenses engagées à des fins personnelles était bien fondée.
+[5] Le gîte Villa Blanca était une maison de trois étages d’une superficie totale de
+4 868 pieds carrés . Le rez-de-chaussée comportait une grande suite familiale pour les clients, laquelle n’était nullement utilisée à des fins personnelles.
+[6] Le premier étage comptait deux chambres d’hôte avec salle de bain, un salon, une salle à manger, une cuve thermale ainsi qu’une cuisine. La cuisine était la seule pièce de cet étage qui était utilisée à la fois à des fins personnelles et à des fins commerciales, car la résidence privée du troisième étage n’avait pas sa propre cuisine.
+[7] La partie privée située au dernier étage (deuxième) était occupée en entier par Mme Van Donkersgoed et son défunt mari. Cet étage avait une superficie de
+956 pieds carrés , soit environ la moitié de la superficie de chacun des deux autres étages. Il y avait trois grandes pièces où l’on pouvait manger, se détendre et dormir, ainsi que deux salles de bain. C’est là qu’habitaient la contribuable et son époux, sauf lorsqu’ils devaient se rendre à la cuisine, située au premier étage, pour préparer leurs repas.
+[8] Le logement personnel situé au dernier étage représentait un peu moins de 20 p. 100 de la superficie totale du gîte Villa Blanca, sans égard à l’utilisation de la cuisine. Après avoir consulté son comptable agréé, qui a également témoigné, Mme Van Donkersgoed a préparé son état des résultats pour l’ensemble de la période en question en attribuant 30 p. 100 des frais liés à l’entretien du gîte Villa Blanca à des dépenses personnelles.
+[9] La contribuable a produit ses déclarations en présumant que l’alinéa 18(12)b) ne s’appliquait pas à son entreprise. L’Agence du revenu du Canada (l’« ARC ») a établi une nouvelle cotisation et a appliqué l’alinéa 18(12)b) en tenant pour acquis que l’ensemble de la propriété correspondait à l’établissement domestique autonome de l’appelante. À l’étape de l’opposition, l’ARC a établi une nouvelle cotisation afin d’appliquer l’alinéa 18(12)b) en tenant pour acquis que la suite du rez-de-chaussée ne faisait pas partie de l’établissement domestique autonome.
+[10] Je suis d’avis que l’établissement domestique autonome du gîte Villa Blanca comprenait uniquement du logement privé situé au dernier étage, qu’aucune partie de ce logement n’était utilisée pour l’entreprise de l’appelante et que celle‑ci n’a pas non plus déduit de frais associés à cet espace. L’aménagement du gîte Villa Blanca est remarquablement semblable à celui que
+la Cour a examiné dans la décision qu’elle a rendue en 2007 dans Denis c.
+La Reine , 2007 CCI 656, 2008 DTC 2004. Dans cette affaire, l’ancien juge en chef Bowman a décidé que le fait que la cuisine était utilisée tant à des fins commerciales qu’à des fins personnelles ne faisait pas de tout le domicile un établissement domestique autonome et n’empêchait pas que la section où les contribuables résidaient soit désignée comme l’établissement domestique autonome. Je souscris totalement à l’avis exprimé par l’ancien juge en chef et aux autres décisions de
+la Cour qu’il a citées et j’en arrive à la conclusion que ce raisonnement s’applique parfaitement aux faits de la présente affaire.
+[11] L’appel de Mme Van Donkersgoed doit être accueilli de façon que les restrictions des pertes prévues à l’alinéa 18(12)b) ne s’appliquent pas.
+[12] Comme je l’ai souligné plus haut, Mme Van Donkersgoed a utilisé un pourcentage de 30 p. 100 en ce qui a trait aux dépenses liées à l’utilisation du gîte Villa Blanca à des fins personnelles. Ce pourcentage m’apparaît tout à fait raisonnable, étant donné que le logement privé représentait moins de 20 p. 100 de la surface utile. Ce pourcentage tenait compte de l’utilisation partagée de la cuisine pour la préparation des repas ainsi que de facteurs similaires qu’il y a lieu de reconnaître. De l’avis de
+la Couronne , un pourcentage de 60 p. 100 aurait peut-être été plus raisonnable, mais je ne vois aucun élément de preuve à l’appui de ce pourcentage. L’appel de Mme Van Donkersgoed sur ce point est accueilli et le ministre établira une nouvelle cotisation à l’égard des montants dépassant 30 p. 100 de l’ensemble des frais liés à la propriété de Villa Blanca, soit les frais d’assurance, d’intérêt, d’entretien et de réparation, les taxes foncières et le coût des services publics, que l’ARC a considérés comme des frais afférents à une résidence personnelle qui ne sont pas déductibles. Il appert des alinéas 11k), l) et m) de la réponse qu’aucun rajustement de cette nature ne sera peut-être nécessaire.
+[13] Je suis également convaincu, à la lumière de la preuve présentée par la contribuable, que la répartition des frais afférents à un véhicule à moteur de celle‑ci à raison d’une utilisation de 70 p. 100 à des fins commerciales et de 30 p. 100 à des fins personnelles était raisonnable dans les circonstances. L’appelante a décrit clairement l’usage qu’elle faisait de son véhicule : elle s’en servait régulièrement pour aller chercher des fournitures, de même que pour promouvoir son entreprise dans des établissements touristiques et à des attractions touristiques de la région, et ainsi de suite. Elle a dit qu’une camionnette d’une demi‑tonne de 1995 convenait bien pour les routes rurales en gravier des contreforts montagneux, malgré les inefficiences apparentes liées au coût d’utilisation de ce véhicule. En soutenant qu’un pourcentage de 30 p. 100 seulement devrait être accordé,
+la Couronne reconnaissait uniquement l’achat de fournitures, puisque cette position reposait entièrement sur le nombre de jours où l’appelante avait eu des clients ou des annulations de dernière minute. Je reconnais que l’ARC a eu raison de refuser de déduire au titre de frais afférents à un véhicule à moteur les frais de location de véhicule que la contribuable avait demandé pour ses voyages à Palm Springs et à Los Angeles.
+[14] J’estime que l’appelante a correctement décrit, tant au cours de son témoignage que dans l’état des résultats qu’elle a joint à sa déclaration, les sommes modestes qu’elle a déduites pour les frais de repas et de représentation qu’elle avait supportés relativement à son entreprise.
+[15] Cependant, des rajustements sont justifiés dans le cas des frais de déplacement qu’elle a déduits. Je ne suis pas convaincu que le voyage qu’elle a fait en 2005 pour observer les oiseaux au Costa Rica était lié à son entreprise ou à la nouvelle entreprise qu’elle avait créée ou encore à celle qu’elle envisageait de mettre sur pied. Il semblait plutôt s’agir d’un projet personnel mené dans le cadre de ses réflexions sur le lancement d’une nouvelle entreprise. Cependant,
+la Couronne a mentionné qu’il y aurait peut‑être lieu d’accorder 10 p. 100 de ces frais. En conséquence, je permettrai la déduction d’un montant de 1 000 $ au titre des frais de déplacement en 2005.
+[16] Pour ce qui est du voyage à Berlin en 2005, la contribuable a uniquement effectué ce voyage pour s’occuper d’une table locale de
+la Colombie ‑Britannique dans le cadre d’une grande foire touristique européenne. La contribuable a simplement déduit le coût de son billet d’avion et ses frais de déplacement, étant donné que son logement et ses repas étaient couverts. L’appelante n’est pas restée à Berlin avant ou après la foire de trois jours. En conséquence, il y a lieu de déduire la totalité des frais de déplacement d’un peu moins de 2 000 $ qu’elle a supportés en 2006 à titre de dépense d’entreprise.
+[17] Il y a également lieu de rajuster la déduction pour les frais d’adhésion que l’appelante a versés à Costco et à
+la British Columbia Automobile Association. Ces frais doivent être déductibles à raison de 70 p. 100 seulement et non de 100 p. 100 ni de 60 p. 100, selon la nouvelle cotisation. De même, la déduction pour les frais d’évaluation de
+2006 a été rajustée correctement à 70 p. 100 plutôt qu’au pourcentage de 100 p. 100 initialement déduit.
+[18] L’ARC aurait dû autoriser sans rajustement la déduction de toutes les autres dépenses d’entreprise que Mme Van Donkersgoed a déclarées dans son état des résultats; en conséquence, une nouvelle cotisation doit être établie à cet égard.
+[19] J’ordonnerai à l’ARC de réexaminer l’affaire et d’établir une nouvelle cotisation conformément aux motifs exposés ci-dessus. J’ordonnerai une transcription des présents motifs, laquelle devra être envoyée à la contribuable et à l’intimée en même temps que mon jugement.
+[20] Mme Van Donkersgoed a eu gain de cause relativement à une bonne partie des points qu’elle a soulevés dans son appel aujourd’hui et je lui accorde des dépens de 250 $.
+[21] Merci, Mme Van Donkersgoed et Me Canzer. Merci, Mme la sténographe judiciaire et Mme la greffière. La séance est levée.
+Signé à Ottawa, Canada, ce 16e jour d’avril 2010.
+« Patrick Boyle »
+Juge Boyle
+Traduction certifiée conforme
+ce 15e jour de novembre 2010.
+Marie-Christine Gervais
+RÉFÉRENCE : 2010 CCI 208
+NO DU DOSSIER DE
+LA COUR : 2009-2093(IT)I
+INTITULÉ : RENATE CAROLINE VANDONKERSGOED NEE HOLZ
+c. SA MAJESTÉ
+LA REINE
+LIEU DE L’AUDIENCE : Kelowna (Colombie-Britannique)
+DATE DE L’AUDIENCE : Le 24 mars 2010
+MOTIFS DU JUGEMENT : L’honorable juge Patrick Boyle
+DATE DU JUGEMENT : Le 16 avril 2010
+COMPARUTIONS :
+Pour l’appelante :
+L’appelante elle-même
+Avocat de l’intimée :
+Me Matthew Canzer
+ÉGALEMENT PRÉSENTS :
+Greffière de
+la Cour :
+Mme Julia Platt
+Sténographe judiciaire :
+Mme Annalee Lannigan
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Cabinet :
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada

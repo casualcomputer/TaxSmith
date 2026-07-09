@@ -1,0 +1,845 @@
+---
+title: "Chiang c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/234578/index.do"
+last_modified: "2017-08-31"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2017 CCI 165"
+citation2: ""
+neutral_citation: "2017 CCI 165"
+decision_date: "2017-08-31"
+language: "fr"
+item_id: "234578"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2192
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T17:24:02.111000+00:00"
+cases_cited_count: 8
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "76de8d9756803463e3a3283f79e5d76867a3c68ddb7f3d88329853f49648e264"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Chiang c. La Reine
+
+- Citation: 2017 CCI 165
+- Decision date: 2017-08-31
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2192, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Chiang c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2017-08-31
+Référence neutre
+2017 CCI 165
+Numéro de dossier
+2016-2715(IT)I
+Juges et Officiers taxateurs
+Don R. Sommerfeldt
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2016‑2715(IT)I
+ENTRE :
+EDWARD L. CHIANG,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appels entendus le 6 avril 2017, à Toronto (Ontario).
+Observations écrites de l’intimée déposées le 5 juin 2017.
+Devant : L’honorable juge Don R. Sommerfeldt
+Comparutions :
+Pour l’appelant :
+L’appelant lui‑même
+Avocat de l’intimée :
+Me Derek Edwards
+JUGEMENT
+Les appels interjetés à l’encontre des cotisations (les « cotisations ») établies au titre de la Loi de l’impôt sur le revenu (la « LIR ») pour les années d’imposition de l’appelant allant de 2004 à 2013 sont accueillis, sans frais, et les cotisations sont déférées au ministre du Revenu national pour qu’il procède à un nouvel examen et établisse de nouvelles cotisations conformément aux motifs de jugement ci‑joints. Il demeure entendu que l’appelant n’est pas passible des pénalités pour production tardive qui ont été imposées au titre de l’article 204.3 et du paragraphe 162(1) de la LIR. À tous autres égards, les cotisations sont confirmées.
+Signé à Edmonton (Alberta), ce 31e jour d’août 2017.
+« Don R. Sommerfeldt »
+Juge Sommerfeldt
+Référence : 2017 CCI 165
+Date : 20170831
+Dossier : 2016‑2715(IT)I
+ENTRE :
+EDWARD L. CHIANG,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Sommerfeldt
+I. INTRODUCTION
+[1] Les présents motifs se rapportent aux appels interjetés par Edward L. Chiang à l’encontre de la cotisation fiscale établie au titre de la partie X.1 de la Loi de l’impôt sur le revenu [1] (la « LIR ») par l’Agence du revenu du Canada (l’« ARC »), au nom du ministre du Revenu national (le « ministre »). L’impôt établi par l’ARC au titre de la partie X.1, communément appelé impôt sur des cotisations excédentaires à un REER, portait sur les années d’imposition allant de 2004 à 2013. Toutefois, pour calculer le montant d’impôt de la partie X.1 (le cas échéant) payable par M. Chiang, il est nécessaire de tenir compte des cotisations versées par ce dernier à son régime enregistré d’épargne‑retraite (le « REER ») de 1995 à 2005 [2] .
+[2] Bien que l’expression familière qui est fréquemment utilisée soit « cotisation excédentaire à un REER », l’expression technique, figurant au paragraphe 204.2(1.1) de la LIR, est « excédent cumulatif d’un particulier au titre des régimes enregistrés d’épargne‑retraite [3] ». Dans les présents motifs, j’abrégerai parfois cette expression technique ainsi : « excédent cumulatif. »
+II. QUESTIONS EN LITIGE
+[3] Les questions à trancher en l’espèce sont les suivantes :
+a) M. Chiang avait‑il un excédent cumulatif (et le cas échéant, dans quelle mesure) au titre de son REER pour l’une ou l’autre des années d’imposition allant de 2004 à 2013, inclusivement?
+b) M. Chiang est‑il passible de pénalités pour production tardive concernant les années d’imposition allant de 2004 à 2013, en application de l’article 204.3 et du paragraphe 162(1) de la LIR?
+III. CONTEXTE
+[4] De 1995 à 2005 (à l’exception de 1998), M. Chiang a versé des cotisations à son REER. Il semble que M. Chiang a porté une attention particulière et raisonnable à l’État du maximum déductible au titre des régimes enregistrés d’épargne‑retraite (REER) qui était annexé à son avis de cotisation de chaque année d’imposition [4] et qu’il avait veillé à ce que, à l’exception de 1997, le montant de sa cotisation à son REER pour une année en particulier ne dépasse pas la limite indiquée dans l’État du maximum déductible de l’année en question. Néanmoins, en 2004, l’ARC était d’avis que M. Chiang avait un excédent cumulatif constant, lequel était imposable au titre du paragraphe 204.1(2.1) de la LIR.
+IV. ANALYSE
+A. Dispositions légales
+[5] Pour les besoins des présents appels, les dispositions essentielles de la partie X.1 de la LIR sont les paragraphes 204.1(2.1) et 204.2(1.1). Ces dispositions sont ainsi libellées :
+204.1(2.1) Le particulier qui, à la fin d’un mois donné postérieur au mois de décembre 1990, a un excédent cumulatif au titre de régimes enregistrés d’épargne‑retraite doit, pour ce mois, payer un impôt selon la présente partie égal à 1 % de cet excédent. […]
+204.2(1.1) L’excédent cumulatif d’un particulier au titre des régimes enregistrés d’épargne‑retraite à un moment donné d’une année d’imposition correspond à l’excédent éventuel du montant visé à l’alinéa a) sur le montant visé à l’alinéa b) :
+a) les primes non déduites, à ce moment, qu’il a versées à des régimes enregistrés d’épargne‑retraite;
+b) le résultat du calcul suivant :
+A + B + R + C + D + E
+où :
+A représente les déductions inutilisées au titre des REER du particulier à la fin de l’année d’imposition précédente,
+B l’excédent éventuel du moins élevé du plafond REER pour l’année et de 18 % du revenu gagné du particulier, au sens du paragraphe 146(1), pour l’année d’imposition précédente sur le total des montants représentant chacun :
+(i) le facteur d’équivalence du particulier pour l’année d’imposition précédente quant à un employeur,
+(ii) le montant prescrit quant au particulier pour l’année,
+C si le particulier a atteint 18 ans au cours d’une année d’imposition antérieure, 2 000 $; sinon, zéro,
+D le montant relatif à un régime collectif quant au particulier à ce moment,
+E si le particulier a atteint 18 ans avant 1995, le montant de transition qui lui est applicable à ce moment; sinon, zéro;
+R le facteur d’équivalence rectifié total du particulier pour l’année.
+Pour ce qui est des présents appels, les facteurs D, E et R figurant dans la formule susmentionnée ne sont pas pertinents.
+B. Nouvelle cotisation pour 1994
+[6] Le 12 juin 1995, l’ARC a envoyé à M. Chiang son avis de cotisation pour 1994. L’État du maximum déductible pour 1995 de M. Chiang était annexé à l’avis de cotisation. Il montrait que le maximum déductible au titre des REER pour 1995 était de 8 287 $, un montant qui correspondait à son maximum déductible au titre des REER pour 1994, soit 35 $, plus 8 252 $, ce qui représentait 18 % du revenu gagné de M. Chiang et qui s’élevait à 45 849 $. Le 5 septembre 1995, l’ARC a établi une nouvelle cotisation à l’égard de M. Chiang pour 1994 et a réduit son revenu gagné de 16 793 $, ce qui s’est traduit par une réduction correspondante de 3 022 $ concernant son maximum déductible au titre des REER pour 1995 [5] . Par suite de la nouvelle cotisation, le maximum déductible au titre des REER de M. Chiang pour 1995 est passé de 8 287 $ à 5 265 $. Ce dernier montant était en réalité la première inscription figurant dans les calculs présentés dans l’État du maximum déductible de M. Chiang pour 1996, lequel a été envoyé par la poste le 20 juin 1996; il montrait également que le maximum déductible au titre des REER pour 1996 était de 5 265 $ [6] , étant donné que, selon l’ARC, M. Chiang n’avait pas effectué de déduction pour cotisation à son REER pour l’année 1995 [7] et qu’il n’avait pas de revenu gagné en 1995.
+[7] L’avocat de la Couronne a soutenu que la réduction de 3 022 $ (c.‑à‑d., 8 287 $ ‑ 5 265 $) du maximum déductible au titre des REER pour 1995 avait eu des répercussions constantes sur le calcul du maximum déductible de M. Chiang pour chacune des années subséquentes, jusqu’à 2015 inclusivement. Je ne suis pas convaincu que les répercussions de la nouvelle cotisation établie pour 1994 aient été de si longue durée, étant donné que le rajustement du maximum déductible au titre des REER pour 1995 a été en réalité établi dans l’État du maximum déductible de 1996.
+C. Cotisations non déduites
+(1) Annexe 7 pour 1995 et 1999
+[8] M. Chiang a expliqué qu’il remplissait ses propres déclarations de revenus à l’aide d’un logiciel commercial. Plutôt que de produire ses déclarations de revenus dans leur ensemble, il n’a produit en preuve que des extraits de chacune de ses déclarations pour les années allant de 1995 à 2005 [8] . Pour chacune de ces années, sauf pour 1995 et 1999, M. Chiang a produit des copies de la page de la déclaration précise sur laquelle figurait la ligne 208, qui établit le montant de la cotisation au REER qui avait été déduit. Pour les années 1995 et 1999, M. Chiang n’a pas produit de copie des pages sur lesquelles figurait la ligne 208, parce que, comme il l’a précisé dans son témoignage, ces pages indiquaient qu’aucun montant n’avait été inscrit à la ligne 208. M. Chiang a plutôt produit, pour 1995 et 1999, des copies de l’annexe 7 (traitant des cotisations au REER non réclamées ou inutilisées), qui montraient que des cotisations à son REER avaient été versées, mais n’avaient pas été déduites pour ces deux années. En d’autres mots, si j’ai bien compris, bien que M. Chiang ait versé des cotisations au REER pour les années 1995 et 1999, la ligne 208 de ses déclarations de revenus pour ces années montrait qu’aucune cotisation à un REER n’avait en fait été déduite pour l’une ou l’autre des années en question. M. Chiang a déclaré qu’il avait versé 4 269,62 $ à son REER pour 1995 et 4 300 $ pour 1999. Toutefois, selon lui, à cause d’une panne ou d’une défaillance du logiciel, les déductions ne figuraient pas à la ligne 208, même s’il avait versé ces cotisations à son REER et qu’il avait l’intention de les déduire. M. Chiang pensait et croyait raisonnablement avoir compris, en remplissant ses déclarations de revenus pour 1995 et 1999 et en témoignant à l’audience relative aux présents appels, qu’il avait déduit ces cotisations.
+[9] Un examen approfondi de l’annexe 7 pour 1995 montre, à la ligne 245 (également appelée ailleurs ligne 2), que M. Chiang a bel et bien versé une cotisation de 4 269,62 $ à son REER. La ligne 1 de l’annexe 7 montre que M. Chiang avait des cotisations non réclamées versées au REER d’un montant de 8 287 $ dans son avis de nouvelle cotisation de 1994, et la ligne 5 de l’annexe 7 indique que le montant des cotisations à un REER pouvant être déduit pour 1995 était de 12 556,62 $ (c.‑à‑d., 8 287 $ + 4 269,62 $). L’annexe 7 contient également une entrée décrite ainsi : [traduction] « Contributions versées à votre propre REER ou celui de votre conjoint, en fonction de votre maximum déductible au titre des REER pour 1995 (que vous demandez). » À droite de cette inscription, dans un espace identifié comme étant la ligne 6, rien n’a été inscrit. En d’autres mots, l’annexe 7 indique que M. Chiang n’a pas demandé de déductions relativement à la cotisation qu’il a versée pour 1995. En dessous de la ligne réservée à l’inscription du montant de la déduction pour cotisations à un REER qui est demandée, il y a une autre case en blanc assortie de l’instruction suivante : [traduction] « Inscrivez ce total à la ligne 208 de votre déclaration. » À droite de cette instruction, à la ligne 8, M. Chiang n’a rien inscrit. À mon avis, c’est la raison pour laquelle il n’y a pas de déduction pour cotisations à un REER indiquée à la ligne 208 de sa déclaration de revenus pour 1995. Il semble qu’il n’y ait pas eu de panne de logiciel; plutôt, le montant de la déduction prévue n’a pas été inscrit à l’annexe 7. En conséquence, la dernière inscription qui figure à l’annexe 7 pour 1995 fait état de cotisations non réclamées au titre des REER (la ligne 5 moins la ligne 8) de 12 556,62 $.
+[10] Une situation semblable s’est produite en 1999. L’annexe 7 de la déclaration de revenus de M. Chiang pour 1999 montre que ce dernier a versé des cotisations de 4 300 $ à son REER pour 1999. Ce montant figure à la ligne 245 (également appelée ailleurs ligne 4) et à la ligne 5 de l’annexe 7. Le même montant, à savoir 4 300 $, figure à la ligne 7, laquelle est décrite comme étant des : [traduction] « Cotisations à un REER pouvant être déduites. » En dessous, l’inscription à la ligne 8 est décrite ainsi : [traduction] « Déduction en 1999 pour : contributions fondées sur (et qui n’excèdent pas) votre maximum déductible au titre des REER pour 1999 figurant sur votre avis de cotisation ou avis de nouvelle cotisation pour 1998 ». Même si le maximum déductible au titre des REER de M. Chiang pour 1999 était de 4 393 $ [9] , ce dernier n’a inscrit aucun montant à la ligne 8 de l’annexe 7. Par conséquent, la case devant indiquer sa déduction pour cotisations à un REER pour 1999, qui était également décrit comme le montant qui devait être inscrit à la ligne 208 de sa déclaration, est demeurée en blanc. En d’autres mots, même si M. Chiang a versé une cotisation de 4 300 $, et même s’il pensait avoir déduit ce montant, en raison de la manière dont l’annexe 7 a été remplie, il n’a pas en réalité effectué de déduction pour cotisations à REER pour 1999.
+[11] Selon moi, M. Chiang est un contribuable consciencieux qui s’efforçait raisonnablement, dans le contexte de son REER, de verser des cotisations et de déduire le bon montant chaque année. Il a déclaré dans son témoignage qu’il croyait sincèrement qu’il avait déduit les montants qu’il avait versés à son REER pour 1995 et 1999. Je suis d’avis que c’est par inadvertance que M. Chiang a innocemment et raisonnablement omis de déduire les cotisations qu’il avait versées, ce qu’il ne savait pas.
+(2) Contribution versée en trop pour 1997
+[12] L’État du maximum déductible pour 1997 qui a été envoyé à M. Chiang avec son avis de cotisation pour 1996 montrait un maximum déductible au titre des REER pour 1997 de 6 391 $ [10] . La ligne 208 de la déclaration de revenus de M. Chiang pour 1997 indique qu’il aurait demandé une déduction de 8 051 $ au titre des REER. Toutefois, étant donné que ce montant était supérieur à son maximum déductible au titre des REER pour 1997, la partie de la cotisation qui était admise comme étant déductible n’était que de 6 391 $ [11] . Par conséquent, M. Chiang avait une cotisation non déduite relativement à 1997 d’un montant de 1 660 $ (c.‑à‑d., 8 051 $ ‑ 6 391 $).
+[13] Selon deux des trois tableaux présentés par M. Chiang dans son avis d’appel, il semble que, lorsqu’il a versé des cotisations à son REER pour 1997, il croyait qu’il avait des déductions inutilisées au titre des REER provenant d’années antérieures, de sorte qu’il avait compris (bien que ce fut à tort) qu’il ne versait pas de cotisations en trop pour 1997.
+(3) Total des cotisations non déduites
+[14] En raison des situations relatives au REER décrites plus haut concernant les années d’imposition 1995, 1997 et 1999, à la fin de 1999, M. Chiang avait versé des cotisations non déduites à son REER pour un montant total de 10 229,62 $, réparti de la façon suivante :
+1995
+4 269,62 $
+1997
+1 660,00 $
+1999
+Total
+4 300,00 $
+10 229,62 $
+(4) Calculs des parties
+[15] Les calculs de l’ARC ont montré de façon générale que, pour la plupart des mois de chaque année allant de 2004 à 2010 [12] , l’excédent cumulatif de M. Chiang était de 10 229 $ [13] . Selon les observations de l’ARC, en décembre 2010, M. Chiang a retiré 203 $ de son REER. Par conséquent, l’ARC a indiqué que l’excédent cumulatif de M. Chiang était de 10 026 $ pour les années allant de 2011 à 2013 (c.‑à‑d., 203 $ de moins que le montant indiqué pour les 11 premiers mois de 2010).
+[16] M. Chiang a déposé un avis d’appel détaillé et méticuleusement rédigé, exposant diverses raisons pour lesquelles, à son avis, il n’était pas assujetti à l’impôt au titre de la partie X.1 de la LIR et contenant trois tableaux, qui donnaient les calculs à l’appui de son argument selon lequel il n’avait pas d’excédent cumulatif. Les calculs de M. Chiang étaient fondés sur la compréhension qu’il paraissait avoir, c’est‑à‑dire que les cotisations de 4 269,62 $ et de 4 300 $ pour 1995 et 1999, respectivement, avaient été non seulement versées, mais aussi déduites. Toutefois, comme cela a été expliqué plus tôt, M. Chiang a omis de déduire les cotisations qu’il avait versées au cours de ces deux années lorsqu’il a rempli l’annexe 7 de ses déclarations de revenus pour 1995 et 1999.
+(5) Analyse et calculs de la Cour
+[17] Le deuxième tableau figurant dans l’avis d’appel de M. Chiang était censé être rédigé conformément à la formule qui doit servir à calculer l’excédent cumulatif d’un contribuable, comme cela est établi au paragraphe 204.2(1.1) de la LIR. Toutefois, dans le tableau de M. Chiang, les cotisations à son REER pour 1995 et 1999, qui s’élevaient à 4 269,62 $ et à 4 300 $, respectivement, étaient considérées comme ayant été déduites, même si, comme cela a déjà été expliqué, elles ne l’étaient pas en réalité.
+[18] Dans les observations écrites qu’elle a déposées après l’audience [14] , la Couronne a fourni les calculs de l’ARC concernant l’excédent cumulatif ainsi que l’impôt au titre de la partie X.1 de M. Chiang pour chaque mois, de janvier 2004 à décembre 2013. Comme il en a été déjà fait mention, à partir de décembre 2010, les calculs de la Couronne faisaient état d’un excédent cumulatif de 10 026 $. Les calculs de la Couronne montraient également que M. Chiang avait versé des cotisations de 4 416 $ à son REER en février 2006, alors que les éléments de preuve documentaire indiquaient que cette cotisation avait été versée en janvier 2006. Étant donné que l’impôt au titre de la partie X.1 est calculé sur une base mensuelle, le fait que la cotisation de 4 416 $ apparaisse comme ayant été versée en février plutôt qu’en janvier a eu une légère incidence sur le montant de l’impôt au titre de la partie X.1 calculé par l’ARC.
+[19] L’annexe A des présents motifs contient cinq tableaux préparés par la Cour en vue de calculer l’impôt au titre de la partie X.1 payable par M. Chiang [15] . Il ressort de ces tableaux que M. Chiang avait un excédent cumulatif de 2004 à 2013 et qu’un impôt au titre de la partie X.1 était payable par M. Chiang pour chacune de ces années.
+[20] Pour chaque année, sauf pour 2006, le montant d’impôt au titre de la partie X.1 payable par M. Chiang était le même que celui calculé par l’ARC et fourni dans les observations écrites déposées par l’avocat de la Couronne le 5 juin 2017. Pour 2006, le montant d’impôt au titre de la partie X.1 calculé par la Cour était de 987,48 $, alors que le montant établi dans les observations écrites de la Couronne était de 943,32 $.
+[21] Si j’ai bien compris, les montants respectifs d’impôt au titre de la partie X.1 payable par M. Chiang, tel qu’ils figurent dans la réponse, étaient fondés sur les montants d’impôt au titre de la partie X.1 figurant dans les avis de cotisation respectifs. Pour 2006, 2011, 2012 et 2013, le montant d’impôt au titre de la partie X.1 établi par l’ARC était légèrement inférieur à celui calculé par la Cour. Étant donné que le montant d’impôt établi ne peut pas être augmenté en appel, les montants respectifs établis par l’ARC (et non les montants calculés par la Cour) sont ceux qui sont payables par M. Chiang [16] .
+D. Pénalités pour production tardive
+[22] L’ARC a imposé à M. Chiang des pénalités pour production tardive en application de l’article 204.3 et du paragraphe 162(1) de la LIR. Le montant des pénalités qui ont été imposées n’est pas clair. Selon l’alinéa 8c) de la réponse, l’ARC a imposé des pénalités pour production tardive d’un montant de 50,96 $ pour 2004, de 71,30 $ pour 2005, de 160,36 $ pour 2006, de 167,87 $ pour chacune des années allant de 2007 à 2010, de 163,73 $ pour 2011 et 2012, respectivement, et de 115,67 $ pour 2013 [17] . Par ailleurs, au paragraphe 12 de la réponse, il est précisé que l’ARC a imposé des pénalités pour production tardive d’un montant de 50,96 $ pour 2004, de 71,30 $ pour 2005, de 160,36 $ pour 2006, de 167,87 $ pour chacune des années allant de 2007 à 2012 et de 118,50 $ pour 2013. L’ARC a soutenu que M. Chiang avait omis de produire les déclarations de revenus requises (le formulaire T1‑OVP), conformément à l’alinéa 204.3(1)a) de la LIR.
+[23] Comme je l’ai déjà mentionné, M. Chiang a consciencieusement assuré le suivi quant à ses cotisations à son REER et il pensait sincèrement qu’il n’avait pas versé de cotisations en trop à son REER. Par conséquent, selon ce qu’il avait compris, il pensait qu’il n’était pas nécessaire de produire une déclaration au titre de l’alinéa 204.3(1)a) de la LIR.
+[24] Lorsque l’avocat de la Couronne a abordé la question des pénalités pour production tardive au cours de ses observations de vive voix, il a commencé par dire que M. Chiang n’avait pas fait preuve de diligence raisonnable, de sorte que les pénalités pour production tardive avaient été adéquatement imposées par l’ARC. Toutefois, à mesure que l’avocat de la Couronne continuait d’analyser la question, il paraissait s’éloigner de son observation initiale, et il a finalement reconnu que les éléments de preuve n’étayaient peut‑être pas l’imposition de pénalités. Il a conclu en disant qu’il n’avait pas d’argument solide à l’appui de l’imposition des pénalités.
+[25] J’ai examiné la question de savoir si M. Chiang pouvait invoquer la défense de diligence raisonnable, que la Cour suprême du Canada a expliquée de la manière suivante :
+La défense de diligence raisonnable est recevable si le défendeur croyait pour des motifs raisonnables à un état de faits inexistant qui, s’il avait existé, aurait rendu l’acte ou l’omission innocent. De plus, le défendeur qui démontre qu’il a pris toutes les précautions raisonnables pour éviter que l’événement en question ne se produise pourra échapper à la responsabilité. […] La défense de diligence raisonnable est assujettie à une norme objective et elle suppose l’examen de l’attitude d’une personne raisonnable placée en pareilles circonstances [18] .
+[26] Même si l’arrêt La Souveraine portait sur une infraction réglementaire, la Cour d’appel fédérale a confirmé que le recours à la défense de diligence raisonnable est également possible en ce qui concerne les pénalités administratives :
+Notre Cour a déjà statué que rien ne s’oppose à ce que le moyen de défense de la diligence raisonnable, dont une personne peut se prévaloir à l’encontre d’infractions de responsabilité stricte, puisse être invoqué à l’encontre de pénalités administratives […] Il n’est peut‑être pas inapproprié de rappeler les principes qui gouvernent la défense de diligence raisonnable avant de les appliquer aux faits de l’espèce.
+La défense de diligence raisonnable permet à une personne d’éviter l’imposition d’une pénalité si elle fait la preuve qu’elle n’a pas été négligente. Elle consiste à se demander si cette personne a cru, pour des motifs raisonnables, à un état de fait inexistant qui, s’il eut existé, aurait rendu son acte ou son omission innocent ou si elle a pris toutes les précautions raisonnables pour éviter l’événement qui mène à l’imposition de la peine? […] En d’autres termes, la diligence raisonnable excuse soit l’erreur de fait raisonnable, soit la prise de précautions raisonnables pour se conformer à la loi [19] .
+[27] Je souscris à l’observation formulée par l’avocat de la Couronne selon laquelle les éléments de preuve n’étayent peut‑être pas l’imposition de pénalités. Comme cela a été déjà souligné, M. Chiang croyait sincèrement et raisonnablement qu’il avait déduit les cotisations qu’il avait versées à son REER pour 1995 et 1999 et qu’il avait des déductions inutilisées au titre des REER relativement à 1997. Je suis donc d’avis que M. Chiang croyait raisonnablement, et avait agi en conséquence, à un ensemble de faits erronés qui, s’ils avaient été vrais, auraient fait en sorte qu’il n’y ait pas d’excédent cumulatif. Son omission de produire des déclarations de revenus (formulaire T1‑OVP) pour les années allant de 2004 à 2013 était donc attribuable à une erreur de fait légitime, de manière à pouvoir être excusée par la défense de diligence raisonnable. En conséquence, je suis d’avis que les pénalités pour production tardive devraient être annulées.
+V. CONCLUSION
+[28] En résumé, je suis d’avis que l’impôt au titre de la partie X.1 établi par l’ARC à l’égard de M. Chiang pour les années allant de 2004 à 2013 est à bon droit payable, mais que les pénalités pour production tardive imposées pour ces années‑là devraient être annulées. Par conséquent, les appels sont accueillis, et les cotisations visées sont déférées au ministre pour qu’il procède à un nouvel examen et établisse de nouvelles cotisations conformément aux présents motifs. Étant donné qu’en l’espèce chacune des parties a eu partiellement gain de cause, aucuns dépens ne sont adjugés.
+[29] Il est recommandé que M. Chiang, s’il ne l’a pas déjà fait, prenne éventuellement des mesures, avec l’aide d’un conseiller fiscal professionnel, pour éliminer l’excédent cumulatif continu relativement à son REER, afin d’éviter à l’avenir de continuer à être assujetti à l’impôt au titre de la partie X.1.
+Signé à Edmonton (Alberta), ce 31e jour d’août 2017.
+« Don R. Sommerfeldt »
+Juge Sommerfeldt
+[traduction]
+Annexe A
+L’annexe contient cinq tableaux qui montrent le calcul de l’excédent cumulatif de M. Chiang sur une base mensuelle pour les années d’imposition en cause ainsi que l’impôt au titre de la partie X.1 qu’il doit payer, les calculs des trois facteurs pertinents utilisés pour déterminer l’excédent cumulatif de M. Chiang et une comparaison des calculs de la Cour avec ceux de l’ARC.
+Notes explicatives
+Le premier tableau de l’annexe montre le calcul de l’excédent cumulatif de M. Chiang pour chaque mois, de janvier 1995 à décembre 2013, effectué selon la formule établie au paragraphe 204.2(1.1) de la LIR. Le tableau fait également état du montant de l’impôt au titre de la partie X.1 payable par M. Chiang pour chacune des années allant de 2004 à 2013. La colonne « a) » du tableau établit les primes de REER non déduites de M. Chiang, comme le prévoit l’alinéa 204.2(1.1)a) de la LIR. La colonne « A » montre les déductions inutilisées au titre des REER de M. Chiang à la fin de l’année d’imposition précédente, lesquelles sont représentées par le facteur A dans la formule établie à l’alinéa 204.2(1.1)b) de la LIR. La colonne « B(i) − B(ii) » montre le calcul de B dans la formule (le sous‑alinéa (iii) dans la description de B n’est pas pertinent ici). La colonne « C » indique le coussin de 2 000 $ que représente C dans la formule [20] .
+Étant donné que les cotisations versées à un REER au cours des 60 premiers jours d’une année donnée peuvent être déduites dans le calcul du revenu pour l’année précédente, le calcul de l’excédent cumulatif du contribuable ne sera pas nécessairement le même tout au long de l’année. Cela (ainsi que le retrait de 203 $ en décembre 2010) est pris en compte dans les trois colonnes intitulées collectivement « Excédent cumulatif (base mensuelle) » dans le premier tableau.
+Dans le premier tableau, l’impôt au titre de la partie X.1 a été calculé au taux de 1 % de l’excédent cumulatif pour chaque mois.
+Le deuxième tableau montre le calcul de a) (c.‑à‑d., le montant décrit à l’alinéa 204.2(1.1)a) de la LIR), soit le montant des primes de REER non déduites de M. Chiang à un moment donné, comme il est établi dans la formule énoncée au paragraphe 204.2(1.2) de la LIR [21] .
+Le troisième tableau montre le calcul de A, qui correspond aux déductions inutilisées au titre des REER de M. Chiang, au sens de la définition de cette expression au paragraphe 146(1) de la LIR.
+Le quatrième tableau montre le calcul de B dans la formule établie à l’alinéa 204.2(1.1)b) de la LIR [22] .
+Le cinquième et dernier tableau compare les montants d’impôt au titre de la partie X.1 payables par M. Chiang, calculés par la Cour, avec ceux établis par la Couronne à l’alinéa 8a) et au paragraphe 11 de sa réponse (lesquels correspondent aux montants qui ont fait l’objet d’une cotisation) et avec ceux établis dans les observations écrites déposées par la Couronne le 5 juin 2017. Comme l’illustre le tableau, les montants d’impôt au titre de la partie X.1 établis par l’ARC pour l’année 2006 et pour les années allant de 2011 à 2013 étaient inférieurs à ceux calculés par la Cour.
+Impôt payable au titre de la partie X.1
+[ (a
+- (A
++ B(i) –B(ii)
++ C ]
+= Par. 204.2(1.1) de la LIR
+Par. 204.1(2.1) de la LIR
+Primes non déduites versées à des REER
+Déductions inutilisées au titre des REER
+18 % du revenu gagné - facteur d’équivalence
+« Coussin » de 2 000 $
+Excédent cumulatif
+(base mensuelle)
+Impôt à payer au titre de la partie X.1 sur l’excédent cumulatif
+Janvier
+Février - novembre
+Décembre
+Janvier
+Février - novembre
+Décembre
+1995
+-
+4 269
+4 269
+35
+5 230
+2 000
+-
+-
+-
+-
+1996
+-
+4 269
+4 269
+5 265
+0
+2 000
+-
+-
+-
+-
+1997
+-
+5 929
+5 929
+996
+5 395
+2 000
+-
+-
+-
+-
+1998
+-
+5 929
+5 929
+0
+0
+2 000
+-
+-
+-
+-
+1999
+-
+10 229
+10 229
+0
+4 393
+2 000
+-
+-
+-
+-
+2000
+-
+10 229
+10 229
+4 393
+2 480
+2 000
+-
+-
+-
+-
+2001
+-
+10 229
+10 229
+0
+6 310
+2 000
+-
+-
+-
+-
+2002
+-
+10 229
+10 229
+0
+10 100
+2 000
+-
+-
+-
+-
+2003
+-
+10 229
+10 229
+0
+10 720
+2 000
+-
+-
+-
+-
+2004
+229
+10 229
+10 229
+720
+4 784
+2 000
+0
+2 725
+2 725
+299,75
+2005
+5 229
+10 229
+10 229
+504
+3 912
+2 000
+0
+3 813
+3 813
+419,43
+2006
+10 229
+10 229
+10 229
+0
+0
+2 000
+8 229
+8 229
+8 229
+987,48
+2007
+10 229
+10 229
+10 229
+0
+0
+2 000
+8 229
+8 229
+8 229
+987,48
+2008
+10 229
+10 229
+10 229
+0
+0
+2 000
+8 229
+8 229
+8 229
+987,48
+2009
+10 229
+10 229
+10 229
+0
+0
+2 000
+8 229
+8 229
+8 229
+987,48
+2010
+10 229
+10 229
+10 026
+0
+0
+2 000
+8 229
+8 229
+8 026
+985,45
+2011
+10 026
+10 026
+10 026
+0
+0
+2 000
+8 026
+8 026
+8 026
+963,12
+2012
+10 026
+10 026
+10 026
+0
+0
+2 000
+8 026
+8 026
+8 026
+963,12
+2013
+10 026
+10 026
+10 026
+0
+0
+2 000
+8 026
+8 026
+8 026
+963,12
+Primes non déduites versées à des REER (LIR, par. 204.1(1.2))
+Calcul du facteur a)
+Primes non déduites versées à des REER
+Retrait
+Primes cumulatives non déduites versées à des REER
+1995
+4 269
+0
+4 269
+1996
+0
+0
+4 269
+1997
+1 660
+0
+5 929
+1998
+0
+0
+5 929
+1999
+4 300
+0
+10 229
+2000
+0
+0
+10 229
+2001
+0
+0
+10 229
+2002
+0
+0
+10 229
+2003
+0
+0
+10 229
+2004
+Janvier
+‑ 10 000
+0
+229
+Février‑
+décembre
+10 000
+0
+10 229
+2005
+Janvier
+‑ 5 000
+0
+5 229
+Février‑
+décembre
+5 000
+0
+10 229
+2006
+Janvier
+0
+0
+10 229
+Février‑
+décembre
+0
+0
+10 229
+2007
+2008
+0
+0
+10 229
+0
+0
+10 229
+2009
+0
+0
+10 229
+2010
+Janvier‑
+novembre
+0
+0
+10 229
+Décembre
+0
+203
+10 026
+2011
+0
+0
+10 026
+2012
+0
+0
+10 026
+2013
+0
+0
+10 026
+Déductions inutilisées au titre des REER (LIR, par. 146(1))
+Calcul du facteur A
+Déductions inutilisées au titre des REER (année précédente)
+18 % du revenu gagné ‑ facteur d’équivalence
+Primes déduites
+Déductions inutilisées au titre des REER (fin de l’année d’imposition)
+1994
+‑
+‑
+‑
+35
+1995
+35
+5 230
+0
+5 265
+1996
+5 265
+0
+4 269
+996
+1997
+996
+5 395
+6 391
+0
+1998
+0
+0
+0
+0
+1999
+0
+4 393
+0
+4 393
+2000
+4 393
+2 480
+6 873
+0
+2001
+0
+6 310
+6 310
+0
+2002
+0
+10 100
+10 100
+0
+2003
+0
+10 720
+10 000
+720
+2004
+720
+4 784
+5 000
+504
+2005
+504
+3 912
+4 416
+0
+2006
+0
+0
+0
+0
+2007
+0
+0
+0
+0
+2008
+0
+0
+0
+0
+2009
+0
+0
+0
+0
+2010
+0
+0
+0
+0
+2011
+0
+0
+0
+0
+2012
+0
+0
+0
+0
+2013
+0
+0
+0
+0
+Calcul du facteur B
+B(i)
+‑
+B(ii)
+=
+B
+Revenu gagné (année précédente)
+Le moins élevé
+‑
+Facteur d’équivalence
+=
+Facteur B
+Plafond REER
+ou
+18 % du revenu gagné
+1995
+29 056
+14 500
+5 230
+0
+5 230
+1996
+0
+13 500
+0
+0
+0
+1997
+29 973
+13 500
+5 395
+0
+5 395
+1998
+0
+13 500
+0
+0
+0
+1999
+24 407
+13 500
+4 393
+0
+4 393
+2000
+13 782
+13 500
+2 480
+0
+2 480
+2001
+35 056
+13 500
+6 310
+0
+6 310
+2002
+56 116
+13 500
+10 100
+0
+10 100
+2003
+66 272
+14 500
+11 928
+1 208
+10 720
+2004
+61 550
+15 000
+11 079
+6 295
+4 784
+2005
+63 386
+16 500
+11 409
+7 497
+3 912
+2006
+575
+18 000
+103
+439
+0
+2007
+0
+19 000
+0
+0
+0
+2008
+0
+20 000
+0
+0
+0
+2009
+0
+21 000
+0
+0
+0
+2010
+0
+22 000
+0
+0
+0
+2011
+0
+22 450
+0
+0
+0
+2012
+0
+22 970
+0
+0
+0
+2013
+0
+23 820
+0
+0
+0
+Comparaison
+Impôt au titre de la partie X.1 calculé par la Cour
+Cotisations établies par l’ARC (voir la réponse à l’avis d’appel)
+Observations écrites de la Couronne
+2004
+299,75
+299,75
+299,75
+2005
+419,43
+419,43
+419,43
+2006
+987,48
+943,32
+943,32
+2007
+987,48
+987,48
+987,48
+2008
+987,48
+987,48
+987,48
+2009
+987,48
+987,48
+987,48
+2010
+985,45
+985,45
+985,45
+2011
+963,12
+952,50
+963,12
+2012
+963,12
+954,20
+963,12
+2013
+963,12
+957,26
+963,12
+RÉFÉRENCE :
+2017 CCI 165
+No DU DOSSIER DE LA COUR :
+2016‑2715(IT)I
+INTITULÉ :
+EDWARD L. CHIANG ET SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+DATE DE PRÉSENTATION DES OBSERVATIONS :
+Le 6 avril 2017
+Le 5 juin 2017
+MOTIFS DU JUGEMENT :
+L’honorable juge Don R. Sommerfeldt
+DATE DU JUGEMENT :
+Le 31 août 2017
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui‑même
+Avocat de l’intimée :
+Me Derek Edwards
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+[BLANK]
+Cabinet :
+[BLANK]
+Pour l’intimée :
+Nathalie G. Drouin
+Sous‑procureure générale du Canada
+Ottawa, Canada
+[1] Loi de l’impôt sur le revenu, LRC 1985, ch. 1 (5e supplément), dans sa version modifiée.
+[2] M. Chiang n’a pas versé de cotisation à son REER après 2005.
+[3] L’expression qui figure au paragraphe 204.1(2.1) de la LIR est « excédent cumulatif au titre de régimes enregistrés d’épargne‑retraite ».
+[4] Par souci de concision, j’utiliserai l’expression « États du maximum déductible » pour parler de ces états. Les copies des états du maximum déductible de M. Chiang pour les années allant de 1995 à 2013 figurent à la pièce A‑1.
+[5] Un des facteurs limitatifs utilisés dans le calcul du maximum déductible au titre des REER d’un contribuable est la somme correspondant à 18 % du revenu gagné par le contribuable pour l’année précédente.
+[6] Pièce A‑1.
+[7] M. Chiang est d’avis qu’il avait déduit 4 269 $ en tant que cotisation au REER pour 1995. Le cas de 1995 sera abordé plus loin.
+[8] Pièce A‑3. Pour chacune des années 1996, 1997 et 2000 à 2005, la pièce A‑3 comporte une copie de la page de la déclaration de revenus de M. Chiang sur laquelle figure la ligne 208. Pour 1995 et 1999, la pièce A‑3 comporte une copie de l’annexe 7 de la déclaration de revenus précise. La pièce A‑3 ne contient aucun document se rapportant à l’année 1998 ni aux années allant de 2006 à 2013, probablement parce que M. Chiang n’a pas versé de cotisations à son REER pour ces années d’imposition.
+[9] Voir l’État du maximum déductible de 1999, à la pièce A‑1.
+[10] Voir l’État du maximum déductible de 1997, à la pièce A‑1.
+[11] Voir la deuxième entrée numérique dans l’État du maximum déductible de 1998, à la pièce A‑1. Cette entrée indique la cotisation admissible à un REER qui a été déduite en 1997.
+[12] Étant donné que des cotisations versées à un REER en janvier ou en février d’une année donnée peuvent être déduites relativement à l’année précédente, la formule établie au paragraphe 204.2(1.1) de la LIR peut, dans certains cas, entraîner une réduction de l’excédent cumulatif pour ces deux mois. C’était la situation de M. Chiang en janvier et en février 2004, 2005 et 2006.
+[13] Voir le sommaire des déductions et des contributions au REER daté du 19 septembre 2014 qui était annexé à la lettre portant la même date envoyée par l’ARC à M. Chiang (pièce A‑ 4) ainsi que les observations écrites présentées par l’avocat de la Couronne le 5 juin 2017.
+[14] Les observations de la Couronne ont été déposées le 5 juin 2017. Étant donné que l’avis d’appel de M. Chiang contenait trois tableaux de calculs détaillés, on ne lui a pas demandé à la fin de l’audience de déposer des observations écrites.
+[15] La Cour remercie le parajuriste qui a aidé à la préparation des tableaux de l’annexe A.
+[16] Même si le montant d’impôt au titre de la partie X.1 calculé par la Cour pour l’année 2006 et pour les années allant de 2011 à 2013 était plus élevé que celui calculé par l’ARC, le montant d’impôt ne peut pas être augmenté en appel. Voir Servais v The Queen, [2002] 4 CTC 2117, 2003 DTC 1072, [2002] GSTC 59, 2002 GTC 376 (CCI), au paragraphe 32, confirmé (pour d’autres motifs) par, 2003 CAF 329, [2005] 2 CTC 264, 2003 DTC 5597; Brown v The Queen, [2002] 2 CTC 2338, 2002 DTC 1385 (CCI), aux paragraphes 24 et 26; Meredith v The Queen, [1994] 1 CTC 2538, 94 DTC 1271 (CCI), aux paragraphes 4 et 55 et McLeod v MNR, [1990] 1 CTC 433, 90 DTC 6281 (C.F. 1re inst.), au paragraphe 31.
+[17] La réponse comporte deux paragraphes désignés par le numéro « 8 ». L’alinéa désigné comme étant « c », où figure la présentation initiale des montants respectifs des pénalités pour production tardive, se trouve au deuxième des deux paragraphes portant le numéro « 8 ».
+[18] La Souveraine, Compagnie d’assurance générale c Autorité des marchés financiers, [2013] 3 RCS 756, 2013 CSC 63, au paragraphe 56. Voir également R. c Sault Ste.Marie, [1978] 2 RCS 1299, 85 DLR (3d) 161.
+[19] Corporation de l’École Polytechnique c La Reine, 2004 CAF 127, 2004 GTC 1148, aux paragraphes 27 et 28. Voir également Canada (Procureur général) c Consolidated Canadian Contractors Inc., [1999] 1 CF 209, 165 DLR (4d) 433 (CAF), aux paragraphes 21 et 24 et Pillar Oilfield Projects Ltd. v The Queen, [1993] GSTC 49, 2 GTC 1005 (CCI), aux paragraphes 11 et 26.
+[20] M. Chiang était âgé de plus de 18 ans dans de chacune des années d’imposition en cause.
+[21] Selon le paragraphe 146(1) de la LIR, le terme « prime » englobe les contributions au titre d’un régime d’épargne‑retraite. Voir l’alinéa b) de la définition.
+[22] Il est intéressant de noter que la description du facteur B dans la formule établie à l’alinéa 204.2(1.1)b) de la LIR est essentiellement équivalente à celle du facteur B de la formule figurant dans la définition de l’expression « maximum déductible au titre des REER » au paragraphe 146(1) de la LIR et à celle du facteur B de la formule figurant dans la définition de l’expression « déductions inutilisées au titre des REER » au paragraphe 146(1) de la LIR.

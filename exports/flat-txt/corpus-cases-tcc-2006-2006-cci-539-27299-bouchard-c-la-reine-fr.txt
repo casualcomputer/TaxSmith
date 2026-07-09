@@ -1,0 +1,125 @@
+Title: Bouchard c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27299/index.do
+Corpus path: corpus/cases/tcc/2006/2006-cci-539-27299-bouchard-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2006-10-10
+
+# Bouchard c. La Reine
+
+- Citation: 2006 CCI 539
+- Decision date: 2006-10-10
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 906, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Bouchard c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-10-10
+Référence neutre
+2006 CCI 539
+Numéro de dossier
+2005-4396(IT)I
+Juges et Officiers taxateurs
+Louise Lamarre Proulx
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2005-4396(IT)I
+ENTRE :
+LOUISE BOUCHARD,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 26 septembre 2006, à Rouyn-Noranda (Québec)
+Devant : L'honorable juge Louise Lamarre Proulx
+Comparutions :
+Pour l'appelante :
+l'appelante elle-même
+Avocate de l'intimée :
+Me Marie-Claude Landry
+____________________________________________________________________
+JUGEMENT
+L'appel de la détermination de la prestation fiscale canadienne pour enfants établie en vertu de la Loi de l'impôt sur le revenu pour la période de février 2003 au 25 mars 2004 est rejeté, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 10e jour de d'octobre 2006.
+« Louise Lamarre Proulx »
+Juge Lamarre Proulx
+Référence : 2006CCI539
+Date : 20061010
+Dossier : 2005-4396(IT)I
+ENTRE :
+LOUISE BOUCHARD,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+La juge Lamarre Proulx
+[1] Il s'agit d'un appel selon la voie de la procédure informelle à l'encontre d'une détermination du ministre du Revenu national (le « Ministre » ) selon laquelle l'appelante n'était pas le particulier admissible au sens de l'article 122.6 de la Loi de l'impôt sur le revenu (la « Loi » ) à l'égard de sa fille Marilyn, pour la période de février 2003 au 25 mars 2004.
+[2] « Particulier admissible » est ainsi défini dans la Loi :
+« particulier admissible » S'agissant, à un moment donné, du particulier admissible à l'égard d'une personne à charge admissible, personne qui répond aux conditions suivantes à ce moment :
+a) elle réside avec la personne à charge;
+b) elle est la personne -- père ou mère de la personne à charge -- qui assume principalement la responsabilité pour le soin et l'éducation de cette dernière;
+...
+e) elle est, ou son époux ou conjoint de fait visé est, soit citoyen canadien, soit :
+...
+Pour l'application de la présente définition :
+...
+h) les critères prévus par règlement serviront à déterminer en quoi consistent le soin et l'éducation d'une personne.
+[3] L'article 6302 du Règlement de l'impôt sur le revenu se lit comme suit :
+6302 Critères -- Pour l'application de l'alinéa h) de la définition de « particulier admissible » à l'article 122.6 de la Loi, les critères suivants servent à déterminer en quoi consistent le soin et l'éducation d'une personne à charge admissible :
+a) le fait de surveiller les activités quotidiennes de la personne à charge admissible et de voir à ses besoins quotidiens;
+b) le maintien d'un milieu sécuritaire là où elle réside;
+c) l'obtention de soins médicaux pour elle à intervalles réguliers et en cas de besoin, ainsi que son transport aux endroits où ces soins sont offerts;
+d) l'organisation pour elle d'activités éducatives, récréatives, athlétiques ou semblables, sa participation à de telles activités et son transport à cette fin;
+e) le fait de subvenir à ses besoins lorsqu'elle est malade ou a besoin de l'assistance d'une autre personne;
+f) le fait de veiller à son hygiène corporelle de façon régulière;
+g) de façon générale, le fait d'être présent auprès d'elle et de la guider;
+h) l'existence d'une ordonnance rendue à son égard par un tribunal qui est valide dans la juridiction où elle réside.
+[4] L'appelante affirme que pendant la période en question, elle était le particulier admissible quant à sa fille Marilyn. Selon le Ministre, c'était le père de la jeune fille, soit monsieur Kenneth Cahill.
+[5] L'appelante et monsieur Cahill ont fait vie commune pendant une période d'environ vingt ans. Ils sont les parents de deux filles dont l'une est Marilyn, née le 4 août 1989.
+[6] Les parents se sont séparés en août 2002. Il ne semble pas y avoir eu d'entente écrite. En tout cas, aucune n'a été produite. Il y aurait eu une entente verbale de garde partagée de l'enfant Marilyn qui avait alors 13 ans. La même entente entre les ex-conjoints aurait prévu que la prestation fiscale pour enfants serait demandée par l'appelante
+[7] En mai 2003, les parents ont tenté de reprendre la vie commune, mais cela n'a duré que trois semaines. Cela s'est mal terminé et l'appelante s'est réfugiée dans une maison d'hébergement pendant plus de trois mois.
+[8] Après ce séjour à la maison d'hébergement, l'appelante aurait recommencé à recevoir sa fille chez elle une semaine sur deux.
+[9] L'appelante a produit comme pièce A-2 les reçus de l'école de danse. Elle a produit comme pièce A-1, une attestation de présence d'une clinique de pédiatrie et d'adolescence. Le document est en date du 17 novembre 2005 et atteste tout simplement que Marilyn s'est présentée au service d'un médecin le 30 janvier 2003, soit avant la période en litige.
+[10] Le jugement du 25 mars 2004 a été déposé comme pièce I-1. L'entente qui y est mentionnée ne fait pas état de la nature antérieure de la garde de l'enfant. Il y est tout simplement dit « ATTENDU qu'il est du désir et du souhait de Marilyn de demeurer avec son père et les parties désirent respecter ce choix librement exprimé; » . Par la suite, il est convenu que « Le demandeur aura la garde légale de l'enfant Marilyn; » . Il est également à noter que les bulletins scolaires qui sont joints à cette pièce indiquent pour l'année 2002-2003, l'adresse de Marilyn comme étant celle de son père et non de sa mère.
+[11] L'appartement du père était plus grand et plus confortable que celui de la mère.
+[12] En date du 15 mars 2005, il y a un autre jugement, pièce I-4. Celui-ci accorde la garde légale à la mère en date du 15 mars 2005.
+[13] Madame Jamie Bouchard, qui est la soeur de Marilyn, a affirmé que sa soeur habitait une semaine sur deux chez sa mère.
+[14] Monsieur Kenneth Cahill a affirmé que de février 2003 à mars 2005, sa fille Marilyn habitait tout le temps chez lui. En fait, elle aurait habité constamment chez lui, même depuis la séparation en fin de 2002. Le jugement du 15 mars 2004 n'a fait que confirmer cet état de fait.
+Analyse et conclusion
+[15] L'avocate de l'intimée s'est référée à une décision du juge en chef de cette Cour, le juge Bowman, dans Pollack c. Canada, [1999] A.C.I. no 52 (QL), au paragraphe 22 qui se lit comme suit :
+Même si toutes choses étaient égales, je crois que l'ordonnance judiciaire confiant à l'appelant toutes les responsabilités financières à l'égard de Shai et prévoyant que la résidence principale de ce dernier serait celle de l'appelant ferait pencher la balance en faveur de l'appelant. « [L]'existence d'une ordonnance rendue à [l'égard de la personne à charge admissible] par un tribunal » , qui est l'un des facteurs énoncé à l'alinéa 6302h) du Règlement, sous-entend que la Cour canadienne de l'impôt doit prendre en considération le contenu de l'ordonnance en question. Il ressort clairement de la première ordonnance, rendue par le juge Laforme, et de l'ordonnance modifiée, rendue par le juge Klowak, que les deux juges estimaient que l'appelant assumait la responsabilité principale à l'égard de Shai alors qu'il n'en assumait aucune à l'égard de Dina Philosoph.
+[16] Le jugement d'une cour, ayant compétence en matière de garde des enfants, est un élément important dans l'analyse, par cette Cour, de la notion de particulier admissible dans le cas de deux versions opposées entre les parents.
+[17] Le jugement de la Cour supérieure (pièce I-1) confirme qu'il est du souhait de Marilyn de demeurer avec son père et accorde la garde légale au père. La défenderesse doit également verser au demandeur une contribution alimentaire de 99,05 $ par mois, rétroactivement à la date de signification des présentes procédures. Ceci ne peut qu'impliquer une situation antérieure où le père avait la garde principale de sa fille. De plus, il y a le bulletin scolaire qui indique l'adresse du père comme étant celle de l'enfant Marilyn. Ces deux éléments ainsi que le témoignage sans équivoque du père, font pencher la balance en faveur du père. Son témoignage a été rendu sans hésitation et il n'a pas été contredit par les questions de l'appelante.
+[18] Ce qui ennuie particulièrement l'appelante et ce qu'elle a fait valoir, est qu'au moment de la séparation, les parties s'étaient entendues pour que ce soit elle qui reçoive les montants de prestation fiscale. Il semble que possiblement au début, les parties aient voulu que la garde soit partagée. Mais rapidement ou aussitôt, la jeune fille n'a voulu habiter de façon permanente que chez son père et il semble bien que cela se soit fait avec l'assentiment tacite de la mère si on prend en considération le jugement du 25 mars 2004. À ce moment-là, le particulier admissible devenait effectivement le père au sens de particulier admissible de la Loi. C'est sur cette disposition de la Loi qu'il me faut trancher et non pas de l'entente première entre les parties, qui peut, peut-être, être l'objet d'une autre contestation judiciaire mais pas devant cette Cour.
+[19] En conséquence l'appel doit être rejeté.
+Signé à Ottawa, Canada, ce 10e jour d'octobre 2006.
+« Louise Lamarre Proulx »
+Juge Lamarre Proulx
+RÉFÉRENCE : 2006CCI539
+N º DU DOSSIER DE LA COUR : 2005-4396(IT)I
+INTITULÉ DE LA CAUSE : LOUISE BOUCHARD c. LA REINE
+LIEU DE L'AUDIENCE : Rouyn-Noranda (Québec)
+DATE DE L'AUDIENCE : le 26 septembre 2006
+MOTIFS DU JUGEMENT PAR : L'honorable juge Louise Lamarre Proulx
+DATE DU JUGEMENT : le 10 octobre 2006
+COMPARUTIONS :
+Pour l'appelante :
+l'appelante elle-même
+Avocate de l'intimée :
+Me Marie-Claude Landry
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelante:
+Nom :
+Cabinet :
+Pour l'intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

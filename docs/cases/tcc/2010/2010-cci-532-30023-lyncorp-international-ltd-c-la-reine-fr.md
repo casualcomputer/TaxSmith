@@ -1,0 +1,640 @@
+---
+title: "Lyncorp International Ltd. c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30023/index.do"
+last_modified: "2010-10-19"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 CCI 532"
+citation2: ""
+neutral_citation: "2010 CCI 532"
+decision_date: "2010-10-19"
+language: "fr"
+item_id: "30023"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7663
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T12:31:34.606000+00:00"
+cases_cited_count: 2
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "67eefce6e53a41135cd4d0a3c16541cb4dc977b84f06dddc04f50ba00bfca2e4"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Lyncorp International Ltd. c. La Reine
+
+- Citation: 2010 CCI 532
+- Decision date: 2010-10-19
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7663, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Lyncorp International Ltd. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2010-10-19
+Référence neutre
+2010 CCI 532
+Numéro de dossier
+2008-2977(IT)G
+Juges et Officiers taxateurs
+Campbell J. Miller
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossiers : 2008-2977(IT)G
+2008-2710(GST)G
+ENTRE :
+LYNCORP INTERNATIONAL LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels entendus les 27 et 28 septembre 2010, à Calgary (Alberta).
+Devant : L’honorable juge Campbell J. Miller
+Comparutions :
+Avocat de l’appelante :
+Me Ken S. Skingle, c.r.
+Avocate de l’intimée :
+Me Carrie Mymko
+____________________________________________________________________
+JUGEMENT
+Les appels des nouvelles cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 2002 et 2003 sont accueillis et les nouvelles cotisations sont renvoyées au ministre du Revenu national pour nouvel examen et nouvelles cotisations compte tenu du fait que l’appelante a le droit de déduire des frais additionnels de transport par avion de 29 112 $ en 2002 et de 17 610$ en 2003.
+L’appel de la nouvelle cotisation établie en vertu de la Loi sur la taxe d’accise pour la période allant du 1er janvier 2002 au 31 décembre 2003, au moyen de l’avis de cotisation numéro 10CT0700344, en date du 26 juillet 2006 est accueilli, et la nouvelle cotisation est renvoyée au ministre du Revenu national pour nouvel examen et nouvelle cotisation compte tenu du fait que l’appelante a droit à des crédits de taxe sur les intrants à l’égard de frais additionnels de transport par avion de 29 112 $ en 2002 et de 17 610 $ en 2003.
+Un seul mémoire de frais est adjugé à l’intimée.
+Signé à Ottawa, Canada, ce 19e jour d’octobre 2010.
+« Campbell J. Miller »
+Juge C. Miller
+Traduction certifiée conforme
+ce 10e jour de février 2011.
+François Brunet, réviseur
+Référence : 2010 CCI 532
+Date : 20101019
+Dossiers : 2008-2977(IT)G
+2008-2710(GST)G
+ENTRE :
+LYNCORP INTERNATIONAL LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Miller
+[1] L’appel en matière d’impôt sur le revenu se rapporte à la déductibilité par l’appelante, Lyncorp International Ltd. (« Lyncorp »), de frais de transport par avion supportés en 2002 et en 2003 à l’égard d’un avion dont l’appelante avait la propriété partagée. À ce moment‑là, l’appelante appartenait à M. David Mullen, et elle était exploitée et dirigée par celui‑ci. M. Mullen a donné l’impression d’être l’homme d’affaires par excellence; il se livrait à un certain nombre d’entreprises commerciales. Les vols en question se rapportent principalement aux déplacements que M. Mullen a effectués pour vérifier les diverses entreprises commerciales de l’appelante. L’intimée a refusé un montant d’environ 400 000 $ sur les frais de transport par avion que l’appelante avait déduits en tenant pour acquis que les frais contestés n’avaient pas été, conformément à l’alinéa 18(1)a) de la Loi de l’impôt sur le revenu (la « Loi »), engagés par elle en vue de tirer un revenu d’une entreprise ou d’un bien lui appartenant, étant donné qu’il s’agissait de frais personnels, engagés simplement parce que cela était plus commode pour M. Mullen, ou s’il ne s’agissait pas de frais personnels, mais de frais commerciaux, qu’ils n’avaient pas été engagés au profit de l’appelante, mais au profit d’autres sociétés dans lesquelles l’appelante avait investi des capitaux. Cela soulève la question intéressante de savoir dans quelles circonstances les dépenses d’une société, qui se rapportent plus directement à la production d’un revenu pour une société bénéficiaire d’investissements, sont déductibles, compte tenu du fait que le revenu accru de cette dernière société pourrait donner lieu à la production d’un revenu tiré d’un bien, soit des dividendes (ou même des intérêts) pour la société qui effectue les investissements.
+[2] L’intimée a également refusé des crédits de taxe sur les intrants en vertu de la Loi sur la taxe d’accise (la « LTA ») en tenant pour acquis que les frais de transport par avion n’avaient pas été engagés dans le cours des activités commerciales de l’appelante.
+Les faits
+[3] La question est relativement simple, mais les faits ne le sont absolument pas. M. Mullen a témoigné pendant une journée entière en donnant des explications passablement détaillées au sujet des diverses entreprises commerciales auxquelles il participait. Je n’ai pas l’intention d’entrer dans les détails. Je veux plutôt limiter mon examen des faits aux entreprises commerciales qui, selon ce que maintient M. Mullen, justifiaient les déplacements en avion, et examiner en outre la situation personnelle de M. Mullen, y compris son emploi à plein temps.
+[4] En 2002 et en 2003, M. Mullen était dirigeant chez Mullen Transportation Inc. et Mullen Trucking Inc. Le père de M. Mullen avait, bien des années auparavant, créé une entreprise de transport par camion, qui est devenue une entreprise comptant de 16 à 18 filiales et 5 000 employés. J’appellerai simplement cette entreprise de transport par camion le « groupe Mullen ». M. Mullen semble avoir gravi les échelons de l’organisation après avoir commencé à y travailler comme chauffeur. Il est sans aucun doute dévoué à l’entreprise familiale. Ses feuilles de temps des années en question indiquaient au moins environ 2 200 à 2 400 heures de travail par année, ce qui, pour une semaine de cinq jours, représente en moyenne des journées régulières de dix heures. Toutefois, M. Mullen a affirmé avec véhémence qu’il s’agissait d’un nombre minimum d’heures. Somme toute, il travaillait fort. Je reviendrai sur ses feuilles de temps en parlant des voyages particuliers effectués par avion.
+[5] M. Mullen s’intéressait également d’une façon générale aux affaires : de fait, je dirais que le fait d’être entrepreneur le passionnait.
+[6] M. Mullen a constitué l’appelante en personne morale en 1993 à titre de société active, mais il a été moins précis au sujet de la question de savoir exactement quelles étaient les activités de la société; en fin de compte, il utilisait la société pour engager des capitaux dans d’autres sociétés actives, qu’il a appelées des [traduction] « entreprises commerciales ». L’appelante engageait des capitaux en achetant des actions ou en prêtant de l’argent aux entreprises commerciales. Pour que M. Mullen considère un investissement comme une entreprise commerciale, Lyncorp devait détenir des actions ou des créances dans l’entreprise, mais M. Mullen devait aussi personnellement avoir un rôle actif dans l’entreprise en assurant des services de soutien. Par « services de soutien », M. Mullen entendait qu’il établissait des plans d’entreprise et qu’il donnait des conseils sur des questions financières, qu’il élaborait des stratégies de commercialisation, qu’il aidait à surmonter des défis opérationnels techniques et qu’il enquêtait sur des possibilités d’expansion de l’entreprise. Il comptait sur un avion dont l’appelante était copropriétaire pour s’occuper de ces entreprises commerciales. Ni Lyncorp, ni les entreprises commerciales, que je décrirai ci‑dessous, ne rémunéraient M. Mullen pour ces services. Aucune entente écrite n’avait été conclue entre M. Mullen ou l’appelante et les entreprises commerciales. J’ai eu l’impression que M. Mullen constatait un besoin commercial permettant à ces entreprises de survivre et de prendre de l’essor et que, à cause de l’intérêt de l’appelante, il répondait à ce besoin. Il était également clair que M. Mullen se considérait et considérait l’appelante comme une seule personne; comme il l’a dit : [traduction] « Lyncorp, c’est David Mullen. »
+[7] Au mois de juin 2001, M. Mullen a entamé une restructuration d’envergure de ses affaires en transférant ses investissements personnels à l’appelante. L’explication qu’il a donnée à ce sujet était plutôt vague, et il a soutenu que les entreprises étaient devenues trop complexes pour qu’il les finance personnellement. Les principaux actifs qui ont été transférés à l’appelante étaient principalement les parts que M. Mullen avait dans le groupe Mullen. L’examen du revenu de l’appelante au cours d’années ultérieures montre clairement que les avoirs de l’appelante provenaient principalement de l’investissement effectué par le groupe Mullen (de bien plus de huit millions de dollars entre les années 2005 et 2007 à elles seules).
+[8] M. Mullen a fait remarquer que l’une de ses entreprises commerciales, Shulin Lake Mining Co. Inc. (« Shulin Mining ») aurait dû être transférée à l’appelante au moment de la restructuration, mais que, pour une raison ou une autre, elle ne l’avait pas été. M. Mullen a personnellement continué à être actionnaire de Shulin Mining.
+[9] Au cours des quatre premiers mois de l’année 2002, l’appelante possédait un droit partiel sur un avion à turbopropulseur, mais au mois de mars 2002, elle l’a échangé contre un droit similaire sur un jet.
+[10] M. Mullen a expliqué que l’appelante avait acheté un avion au lieu d’avoir recours à des vols commerciaux réguliers parce qu’il avait fort peu de temps à consacrer à l’entreprise de l’appelante étant donné les nombreuses heures qu’il consacrait au groupe Mullen. Comme il l’a dit, il ne commençait à travailler pour Lyncorp qu’à la fin de l’après‑midi, le vendredi. En étant propriétaire de l’avion, il pouvait compter sur un moyen de transport. Dans les déclarations que son représentant comptable, KPMG, a faites à l’Agence du revenu du Canada (l’« ARC ») au mois de mars 2008, les raisons de l’acquisition de l’avion ont été énoncées comme suit :
+[traduction]
+[…]
+· Des économies de temps majeures du fait que David passait moins de temps à l’enregistrement, dans des aéroports, à passer par le contrôle de sûreté, à faire des correspondances, à subir des retards éventuels de vols commerciaux, à attendre les bagages, à passer les douanes américaines et ainsi de suite;
+· La capacité de répondre rapidement aux questions urgentes qui exigeaient une attention et une intervention personnelles de la part de David. Dans certains cas, il fallait effectuer des voyages aller‑retour qu’il n’aurait pas été possible de faire sur un vol commercial. Étant donné que David avait également des responsabilités qui l’obligeaient à retourner à Calgary, il devait observer des horaires de voyage fort stricts;
+· La capacité d’organiser des réunions d’affaires et de discuter de questions d’affaires confidentielles avec d’autres pendant le voyage et, d’autre part, la capacité pour David d’avoir des moments de repos non interrompus lui permettant de consacrer son temps à établir des stratégies de plans d’entreprise lors des nombreux vols qu’il effectuait seul;
+· Une façon efficace et plus pratique d’assurer le transport des fournisseurs éventuels de Lyncorp, d’autres investisseurs et des conseillers jusqu’à des lieux d’affaires, leur évitant ainsi de perdre du temps à prendre d’autres dispositions en vue de voyager sur des vols commerciaux et à coordonner ensuite leur arrivée avec celle de David;
+· Il arrive parfois que les renseignements et les marchandises avec lesquels David voyage, comme des échantillons de carottes et de forage, soient de nature trop délicate ou confidentielle et qu’ils soient difficiles à enregistrer avec des bagages personnels et trop gros pour être transportés sur un vol commercial;
+· Les contraintes de temps et les délais souvent courts rendaient peu pratique le recours à des vols commerciaux réguliers. Airsprint était en mesure de tenir compte des besoins de David et de l’amener à destination rapidement et à bref délai;
+· Un meilleur contrôle et une réduction de l’exposition aux maladies aérogènes si courantes sur des vols commerciaux. David était très occupé et il ne pouvait pas risquer de tomber malade et de perdre du temps et des possibilités d’affaires.
+[11] M. Mullen s’occupait des factures d’avion d’Airsprint en indiquant sur la facture elle‑même si les vols qui y étaient mentionnés étaient de nature personnelle, s’ils étaient effectués pour le compte d’un tiers (par exemple pour le groupe Mullen), auquel cas les frais étaient facturés à ce tiers, ou pour le propre compte de l’appelante. Au cours des années en question, l’appelante a en fait gagné 121 000 $ et 54 000 $ respectivement pour l’utilisation de l’avion par des tiers. M. Mullen a reconnu que ce système d’imputation des frais n’était pas parfait et qu’il se pouvait parfois qu’il donne une mauvaise qualification de tel ou tel vol.
+[12] Avant d’examiner les entreprises commerciales dans lesquelles l’appelante avait une participation ou une créance et auxquelles se rapportent expressément les frais contestés de transport par avion, j’aimerais donner un bref aperçu des activités commerciales directement exercées par l’appelante, en particulier en ce qui concerne l’exploration minière et les services de forage.
+[13] En ce qui concerne l’exploration minière, M. Mullen a témoigné que Lyncorp détenait certains droits miniers en Saskatchewan et qu’elle avait engagé des frais d’exploration dans cette province ainsi que dans le Sud de la Colombie‑Britannique. Toutefois, les états financiers de l’appelante n’indiquent aucune dépense, aucun salaire ni aucun autre élément qui pourrait se rapporter à l’exploration, en 2002 ou en 2003. À coup sûr, aucune activité de ce genre n’était exercée en Alaska. À part certaines concessions minières, je ne puis constater aucune activité d’exploration directement exercée par l’appelante en 2002 ou en 2003, ou s’il y en avait, il y en avait fort peu, bien qu’il y ait eu des signes d’activités futures.
+[14] Quant à la prestation de services de forage, l’appelante a de fait acquis une plateforme de forage pour 35 000 $US au mois de juillet 2002. La plateforme était située à Shulin Lake, en Alaska. L’appelante a mis la plateforme à la disposition de Shulin Mining sans exiger de frais, pour que le forage se poursuive dans la région. M. Mullen a expliqué que l’exploitation de la plateforme à cet endroit lui avait permis d’en apprendre beaucoup au sujet des activités de forage. La plateforme a été acquise par l’appelante, mais elle était comptabilisée dans les comptes de Shulin Mining au lieu de l’être dans ceux de l’appelante. La plateforme a été installée en Saskatchewan à l’automne 2003. En 2004, il y avait des lettres que Golconda Resources Ltd. (« Golconda ») avait envoyées à M. Mullen, chez Mullen Transportation, ainsi qu’un formulaire de présentation d’échantillons de minerai d’ALS Chemex (« ALS »), indiquant que l’appelante avait soumis des échantillons de la Saskatchewan, en 2004.
+[15] M. Mullen a témoigné que l’appelante avait continuellement exercé des activités de forage jusqu’en 2007. Il ressort clairement de l’examen des renseignements financiers de l’appelante qu’au cours des dernières années (de 2004 à 2007), des frais avaient été engagés et qu’en 2006, en 2007 et en 2008, l’appelante tirait de fait un revenu des travaux de forage. En 2007, une nouvelle société de forage, Lyncorp Drilling Services Inc., a entrepris ses activités et a continué à assurer les services de forage.
+[16] J’examinerai maintenant les entreprises commerciales suivantes associées à un grand nombre des frais contestés de transport par avion :
+a) Shulin Lake Mining Co. Inc., Golconda Resources Ltd. et Shear Minerals Ltd. (« Shear »);
+b) Shulin Lake Lodge Inc. (« Shulin Lake Lodge »);
+c) Campbell River Boatland (1982) Ltd. (« C.R. Boatland »)
+Shulin Mining, Golconda et Shear
+[17] Shulin Mining était une société constituée en personne morale en 1997 en Alaska; David Mullen et son père détenaient les deux tiers des actions de la société et l’autre tiers était détenu par Carl et Mike Tatlow. Shulin Mining était titulaire de 152 concessions minières. En 1999, elle a accordé à Shear, une société ouverte, une option lui permettant d’acquérir une participation de 50 p. 100 dans les concessions minières, laquelle a par la suite été ramenée à 24 p. 100. M. Mullen était un administrateur de Shear. L’appelante détenait environ 2,7 millions d’actions de Shear, représentant une participation de sept à dix pour cent. En 2005, Shear a distribué des actions de Kaminak Gold Corporation (« Kaminak ») d’une valeur de 50 000 $, que l’appelante a par la suite vendues 230 000 $.
+[18] Au mois de février 2001, Shulin Mining a accordé une option à 885301 Alberta Ltd. (« 885301 ») à l’égard d’une participation de 40 p. 100 dans les concessions minières. Au mois de mai 2001, l’appelante a transféré à Golconda les actions qu’elle possédait dans 885301 en échange d’actions de Golconda. L’appelante possédait déjà un grand nombre d’actions de Golconda; à la fin de 2003, elle possédait près de 1,7 million d’actions, dont le coût s’élevait à environ 700 000 $. Golconda assurait des services de forage.
+[19] Au mois de février 2002, Shulin Mining a acheté d’autres concessions minières d’un tiers pour 36 500 $. M. Mullen maintient que cet achat était financé par l’appelante. Au 31 décembre 2002, l’appelante avait consenti des avances non réglées à Shulin Mining qui s’élevaient à 255 110 $, ce montant ayant atteint 442 000 $ à la fin du mois de décembre 2003. Ces prêts étaient des prêts à vue ne portant pas intérêt.
+[20] Que faisaient donc ces sociétés à Shulin Lake? Un article de journal du 1er août 2002 décrivait leurs activités ainsi :
+[traduction]
+[…]
+M. Tatlow a changé d’orientation; il a trouvé, avec ses associés dans Shulin Mining Inc., Dave et Rowland Mullen, des bailleurs de fonds canadiens.
+Golconda Resources Ltd., qui est basée en Alberta, détient 51 p. 100 du projet et Shear Minerals Ltd., d’Edmonton, en détient environ 14 p. 100.
+L’équipe a commencé à utiliser la technologie géophysique aéroportée et des échantillons de dépôts provenant de ruisseaux et de glaciers en vue de resserrer les recherches.
+Les travaux de forage ont débuté au mois de février dernier; certains géologues se montraient sceptiques.
+[…]
+Pour un grand nombre, le camp en grande activité de M. Tatlow, avec ses remorques ATCO, ses tracteurs à chenilles, la scierie et divers équipements lourds, doit sembler ne pas être à sa place.
+[…]
+[21] Dans un communiqué de presse de Golconda daté du 3 janvier 2002, il était fait mention d’un programme de forage réalisé en 2002 au coût de 200 000 $, dont un montant de 43 000 $ pour le compte de Shulin Mining. En résumé, certains travaux de forage avaient eu lieu au cours des années pertinentes, dans le cadre d’une coentreprise quelconque composée de Shulin Mining, de Golconda et de Shear. Lyncorp détenait une participation dans Shear et dans Golconda et une créance dans Shulin Mining.
+Shulin Lake Lodge
+[22] Shulin Lake Lodge a été constituée en personne morale en 2001; l’appelante possédait 50 p. 100 des actions de la société et Carl Tatlow en possédait 50 p. 100. M. Mullen a témoigné que c’était lui qui avait eu l’idée du pavillon là où il y avait au départ une roulotte que les personnes qui travaillaient à l’emplacement du puits utilisaient pour se loger, puis un logement pour les travailleurs d’un camp minier, un pavillon de chasse et de pêche permanent devant être établi si aucune activité minière n’avait lieu. Les travaux de construction ont débuté au mois d’août 2002. Au cours de l’hiver 2002‑2003, il fallait une route d’hiver pour apporter les matériaux. M. Mullen attendait des clients au mois de juin 2004. En 2003, le revenu de la société s’élevait à 40 203 $, représentant les frais exigés de Shulin Mining pour le logement, alors qu’en 2004, le revenu de 164 000 $ était principalement attribuable à des clients qui se rendaient sur les lieux pour la pêche.
+[23] À la fin de l’année 2003, l’appelante avait avancé environ 1,5 million de dollars à Shulin Lake Lodge; il s’agissait encore une fois d’un prêt à vue ne portant pas intérêt.
+C.R. Boatland
+[24] C.R. Boatland s’occupait de la vente et de l’entretien de bateaux, d’ATV et ainsi de suite à Campbell River (Colombie-Britannique). L’appelante et Daniel Telosky ont acquis les actions de C.R. Boatland et les ont cédées à 622535 BC Ltd. (« 622535 »), une société dans laquelle l’appelante et M. Telosky avaient une participation moitié-moitié. Au mois de novembre 2003, M. Telosky a transféré sa part à l’appelante. M. Telosky devait agir comme directeur de C.R. Boatland, mais M. Mullen a témoigné que c’était lui qui suggérait des idées pour faire de la société, qui était exploitée à perte, une société rentable en y ajoutant certaines nouvelles entreprises, en capitalisant d’une manière appropriée la société et, d’une façon générale, en remettant la société sur pied. Comme il l’a dit, il prenait les décisions importantes, mais, comme dans le cas de Shulin Mining et de Shulin Lake Lodge, il n’était pas rémunéré par C.R. Boatland pour ces services. M. Mullen était également administrateur de C.R. Boatland.
+[25] M. Mullen possédait, depuis 1996, une maison située à 40 kilomètres de Campbell River.
+Les déplacements en avion
+[26] La déductibilité d’un montant d’environ 400 000 $ pour les frais de transport par avion, représentant environ 40 voyages aller-retour, est contestée. La liste des frais contestés est jointe à l’annexe A des présents motifs. Il est certain que c’était Lyncorp qui assumait le coût de tous ces vols et que M. Mullen était le principal passager sur tous les vols. Lors de l’interrogatoire principal et du contre‑interrogatoire, M. Mullen a examiné tous les vols en indiquant, selon ce qu’il se rappelait, la raison pour laquelle il avait effectué le voyage et ce qu’il avait fait une fois arrivé à destination.
+[27] Plus de la moitié des vols se rapportaient à des déplacements effectués à Campbell River, pour C.R. Boatland; un nombre un peu moins élevé de vols se rapportaient à des voyages en Alaska, pour Shulin Mining ou Shulin Lake Lodge, et quelques vols avaient été effectués vers d’autres endroits (Cranbrook, Rankin Inlet, Vancouver et Kelowna).
+[28] M. Mullen a affirmé s’être rendu à Campbell River relativement aux affaires de C.R. Boatland. Il quittait normalement Calgary le vendredi après-midi, rencontrait M. Telosky le vendredi soir, examinait la situation, se rendait le samedi matin aux locaux de l’entreprise pour servir les clients ou simplement pour aider, passait le samedi après‑midi avec la famille, prenait le petit déjeuner avec M. Telosky pour discuter affaires le dimanche matin et passait le reste de la journée avec la famille. Sa femme et sa fille se rendaient souvent avec lui à leur maison, à Campbell River, pour y passer la fin de semaine.
+[29] Lors d’un de ces déplacements à Campbell River (du 25 au 28 avril 2002), M. Mullen était passé par Vancouver à son retour, afin d’assister à une exposition commerciale sur les mines. Lors d’un autre voyage (du 17 au 20 novembre 2002), il était passé par Vancouver pour rencontrer des représentants de Yamaha afin de discuter de la possibilité que C.R. Boatland choisisse la ligne Yamaha. M. Mullen a indiqué avoir effectué plusieurs déplacements à Campbell River pour se consacrer au dossier Yamaha, en 2002 et en 2003.
+[30] M. Mullen a également parlé d’un voyage qu’il avait effectué à Campbell River parce que la chaudière, à cet endroit, était défectueuse.
+[31] Enfin, en ce qui concerne l’entreprise de C.R. Boatland, M. Mullen avait effectué un déplacement à Vancouver à la fin de l’année 2001 afin de se procurer des conteneurs pour des machines à glace, soit une nouvelle entreprise qu’il lançait chez C.R. Boatland. Lors du même déplacement, il s’était renseigné sur la disponibilité de conteneurs maritimes et sur leur caractère adéquat. Je ne sais pas trop si cette entreprise devait être exploitée par C.R. Boatland ou directement par l’appelante.
+[32] Bref, M. Mullen n’occupait pas de poste rémunéré chez C.R. Boatland, bien qu’il ait été administrateur de la société.
+[33] Plusieurs déplacements ont été effectués en Alaska, où M. Mullen se consacrait aux affaires de Shulin Mining (y compris Shear et Golconda) et de Shulin Lake Lodge. On aurait bien pu expliquer plus clairement ce qu’il faisait exactement. Ainsi, il a indiqué qu’il allait à Shulin Lake parce que Shulin Mining installait des emplacements de forage, ou parce que Shulin Mining avait besoin de routes de glace et qu’il lui fallait savoir comment construire des ponts de glace. Ce genre de réponse n’indiquait pas d’une façon très détaillée les modalités de sa propre intervention. M. Mullen a dit qu’il vérifiait le transport des chargements (les matériaux utilisés pour construire le pavillon) sur les routes de glace, ou qu’il inspectait les emplacements de forage. On ne sait pas trop ce que tout cela voulait dire. En ce qui concerne le pavillon, M. Mullen allait jusqu’à évaluer les arbres afin de préparer l’emplacement pour les travaux de construction. M. Mullen a également dit qu’il y avait du travail se rapportant au transport par hélicoptère et qu’il cherchait à se renseigner sur la question.
+[34] Lors d’un déplacement à Shulin Lake, à la fin du mois d’août 2002, M. Mullen voulait s’assurer que tout ce qui se rapportait aux opérations de forage soit sûr étant donné qu’il y avait récemment eu des problèmes d’inondation. Il rapportait parfois des échantillons de carottes de l’emplacement de forage de Shulin Mining. Dans son résumé écrit, il a décrit un autre déplacement comme suit : [traduction] « Voyage au site afin d’évaluer l’équipement et les besoins. »
+[35] M. Mullen semble avoir effectué un déplacement (du 16 au 19 juin 2003) principalement afin d’assister aux travaux de nettoyage du pavillon et à l’aménagement paysager. Il a reconnu qu’une fois les travaux achevés, il était peut‑être allé à la pêche jusqu’à la fin de la soirée.
+[36] M. Mullen a également qualifié un autre déplacement à Shulin Lake (du 2 au 5 septembre 2002) de voyage de réseautage, visant à établir des liens avec de futurs employés, des partenaires ou des associés en affaires. Il s’agit du déplacement au cours duquel il a fait un arrêt à Kelowna afin d’y déposer un ou deux associés.
+[37] Au mois de mai 2002, M. Mullen a effectué un voyage d’un jour à Cranbrook afin d’inspecter des sites miniers éventuels pour l’appelante.
+[38] Au mois de juin 2003, M. Mullen s’est rendu à Rankin lnlet pour visiter un site où Shear exécutait des travaux de forage. Il a rapporté certains échantillons de carottes.
+[39] M. Mullen a maintenu que tous les déplacements controversés avaient été effectués à des fins commerciales se rattachant à l’activité commerciale directe de l’appelante ou aux entreprises commerciales, Shulin Mining, Shulin Lake Lodge, C.R. Boatland ou Shear. La Couronne a examiné avec M. Mullen certaines des feuilles de temps préparées pour le groupe Mullen, lesquelles donnaient à penser que les jours où il était indiqué qu’il était à Campbell River ou en Alaska pour les affaires de l’appelante ou de ses entreprises commerciales, il avait inscrit huit ou dix heures de travail pour son emploi à plein temps auprès du groupe Mullen. M. Mullen a expliqué que ses feuilles de temps représentaient uniquement un nombre minimum d’heures où il travaillait activement. Il a donné l’impression que s’il effectuait une journée de 14 heures, il se pouvait qu’il en inscrive uniquement dix et qu’il inscrive les heures additionnelles un autre jour – les feuilles de temps n’étaient pas parfaites. M. Mullen a admis que les feuilles de temps n’étaient pas remplies au jour le jour, mais qu’elles l’étaient uniquement une fois par mois ou tous les deux mois. Lorsqu’on lui a demandé directement comment il pouvait indiquer dix heures pour le groupe Mullen un jour où les données de vol indiquaient qu’il était en Alaska censément pour les affaires de l’appelante, de Shulin Mining ou de Shulin Lake Lodge, il a répondu : [traduction] « Je ne saurais vous le dire. »
+[40] L’examen du revenu de Lyncorp en 2002 et au cours des années ultérieures indique certains revenus tirés de l’affrètement de l’avion, de 2002 à 2005, ainsi que certains revenus tirés des travaux de forage, de 2006 à 2008, et fort peu de revenu d’activité. En ce qui concerne le revenu de placement, aucun revenu n’est indiqué à ce titre en 2002, un revenu de dividendes du groupe Mullen est indiqué en 2003, un revenu de dividendes de 168 000 $ est indiqué en 2004, sur lequel un montant de 165 000 $ provenait du groupe Mullen, et un montant de 5,9 millions de dollars représentait un revenu de dividendes en 2005, provenant dans tous les cas du groupe Mullen.
+Les questions en litige
+[41] La question qui se pose sur le plan de l’impôt sur le revenu est de savoir si Lyncorp a engagé les frais de transport par avion controversés, conformément à 1’alinéa 18(1)a) de la Loi, en vue de tirer un revenu d’une entreprise ou d’un bien lui appartenant. Plus précisément, il rechercher :
+a) Si l’appelante a-t-elle engagé les dépenses en question;
+b) Si les dépenses étaient-elles de nature personnelle;
+c) Dans la négative, si les dépenses ont été engagées par l’appelante en vue de tirer un revenu d’une entreprise ou d’un bien lui appartenant.
+[42] En ce qui concerne la taxe sur les produits et services (la « TPS »), il faut rechercher si l’appelante avait le droit de demander des crédits de taxe sur les intrants (les «CTI »), de 11 396 $ en 2002 et de 21 499 $ en 2003, se rattachant aux frais contestés de transport par avion. Plus précisément, il faut rechercher si l’appelante a engagé les frais controversés au cours de ses activités commerciales.
+Les thèses des parties
+[43] Selon sa thèse, l’appelante s’occupait directement de l’exploitation d’entreprises actives, de sorte qu’elle avait un revenu tiré d’une entreprise en plus d’avoir un revenu (des dividendes et des intérêts) tiré d’un bien (des actions et des créances dans d’autres sociétés). La stratégie de l’appelante consistait à assurer des services de soutien à toutes les entreprises commerciales, sans qu’il leur en coûte quoi que ce soit de plus, de sorte qu’elle puisse en tirer finalement parti sous la forme d’un revenu de dividendes futur. L’appelante soutient qu’elle détenait également dans les entreprises commerciales des créances constituant une source de revenu d’intérêts étant donné que, si les entreprises commerciales s’avéraient rentables, elle pouvait ensuite exiger des intérêts.
+[44] L’appelante soutient en outre que l’accès à l’avion assurait à M. Mullen la souplesse voulue pour qu’il puisse consacrer un temps limité précieux à ses activités commerciales directes, en plus d’assurer les services de soutien aux entreprises commerciales. L’appelante signale que C.R. Boatland a commencé à réaliser des bénéfices grâce à la participation de M. Mullen, et par conséquent grâce à sa propre participation, ce qui avait pour effet de créer une [traduction] « possibilité » de versement de dividendes à un moment donné. Enfin, l’appelante maintient que l’utilisation de l’avion était une décision d’ordre commercial et qu’il n’appartient pas à l’État de substituer son propre jugement au sien.
+[45] La thèse de l’intimée est simplement que les frais de transport par avion ont été engagés uniquement au profit de M. Mullen plutôt qu’au profit de l’appelante. Cela était commode pour M. Mullen personnellement. Dans la mesure où il existait une fin commerciale, il s’agissait des affaires des entreprises commerciales et non de 1’appelante et l’appelante ne peut donc pas déduire les frais de transport par avion.
+Analyse (Loi de l’impôt sur le revenu)
+[46] L’affaire est unique en son genre dans la mesure ou une société, Lyncorp, a engagé des frais (abstraction faite de tout élément personnel pour le moment), que je qualifierais de frais d’exploitation, pour les activités d’autres sociétés (Shulin Mining, Shulin Lake Lodge, C.R Boatland, Shear) dans lesquelles elle détenait des créances ou des parts, sans transmettre ces frais à ces sociétés en exploitation. L’appelante peut à bon droit déclarer que sa participation pourrait produire un revenu tiré d’un bien, c’est‑à‑dire qu’il s’agit d’une source de revenu. Pourtant, il est tout aussi clair que Shulin Mining, Shulin Lake Lodge, C.R. Boatland et Shear, si on leur avait demandé de payer ces frais d’exploitation, auraient pu et auraient dû les déduire étant donné que ces frais leur auraient permis de tirer un revenu de leurs activités, c’est‑à‑dire qu’il y avait une source de revenu tirée d’une entreprise. Cependant, concrètement, une seule société a engagé les frais, Lyncorp. Je reviendrai sur ce point.
+a) Lyncorp a-t-elle engagé les frais?
+Oui.
+b) S’agissait-il de frais de nature personnelle?
+[47] L’alinéa 18(1)h) de la Loi interdit la déduction de frais personnels ou de frais de subsistance. L’intimée soutient que les frais de transport par avion constituent des frais de navette et qu’il s’agit donc de frais personnels qui ne sont pas déductibles. Elle affirme en outre que les déplacements étaient simplement effectués par M. Mullen pour des raisons de commodité; il s’agissait d’aller là où il voulait, quand il le voulait, et ce, afin d’accroître sa propre efficacité lorsqu’il s’occupait de ses nombreuses sociétés.
+[48] En ce qui concerne en premier lieu l’argument de la navette, il est sans aucun doute reconnu que la personne qui fait la navette pour se rendre au travail engage une dépense personnelle; cependant, ce n’est pas ainsi que je qualifierais les vols effectués par M. Mullen. Une personne d’affaires qui a des participations dans plusieurs entreprises à travers le Canada doit‑elle se voir refuser les frais qu’elle engage pour se rendre aux lieux d’affaires de ces entreprises pour le simple motif qu’elle fait simplement la navette? Non, il faut reconnaître que certaines entreprises sont géographiquement éparpillées, même s’il y a fort probablement un lieu d’affaires prédominant. En l’espèce, l’autre particularité est que les déplacements effectués par M. Mullen peuvent dans l’ensemble être considérés comme se rapportant à des coûts payés à l’égard de la source de revenu tirée d’un bien, par opposition à un revenu d’entreprise. Ce serait interpréter le mot « navette » d’une façon trop large que de soutenir que, dans le contexte de la détention de biens, le fait de se rendre là où ils sont situés, en plusieurs endroits, en vue de vérifier l’état des choses, c’est faire la navette pour se rendre au travail. Je ne retiens pas la thèse selon laquelle M. Mullen faisait simplement la navette jusqu’à son lieu d’affaires. M. Mullen, et par conséquent l’appelante, supportaient des frais pour vérifier des investissements éloignés, en plus d’exercer directement une activité commerciale.
+[49] Toutefois, en ce qui concerne les voyages à Campbell River, M. Mullen bénéficiait en outre d’une maison à cet endroit, soit un motif fort personnel de prendre l’avion pour se rendre à Campbell River. Sa famille l’accompagnait souvent. C’est la situation du genre « l’œuf ou la poule ». Qu’est‑ce qui vient en premier, la décision de l’appelante de vérifier son investissement à Campbell River tout en prenant des moments de loisir, ou la décision de passer une fin de semaine en famille à la maison, sur l’île de Vancouver, tout en vérifiant l’investissement? Je conclus de la description donnée par M. Mullen que le temps passé à Campbell River était partagé à parts égales entre les deux, de sorte qu’il doit en être de même pour le coût du voyage aller-retour, les frais ayant été supportés à des fins personnelles et à des fins commerciales.
+[50] Cela ne répond qu’à un élément de la question que pose l’intimée au sujet de la nature personnelle des voyages; l’autre élément se rapporte à la question cruciale de savoir si les voyages étaient simplement effectués pour des raisons de commodité personnelle. L’intimée signale la liste de raisons énoncées par KPMG (voir le paragraphe 10 des présents motifs) à l’appui de la thèse selon laquelle les voyages étaient effectués par M. Mullen pour des raisons personnelles plutôt qu’au profit de l’appelante. Il s’agit d’une idée difficile à démêler puisque la société appelante et M. Mullen ne constituent, comme celui‑ci l’a dit, qu’une seule et même personne. Bien sûr, sur le plan juridique, l’appelante est une entité distincte, mais en pratique, ce sont des particuliers qui dirigent les affaires de cette entité distincte; et lorsque la société n’est en fait composée que d’une seule personne, qui est actionnaire, administratrice, dirigeante et employée, il faut examiner minutieusement la nature des activités avant de s’empresser d’affirmer que ces activités ne profitent qu’au particulier personnellement. Si M. Mullen, en qualité d’administrateur de Lyncorp, décide qu’il est au mieux des intérêts de Lyncorp de surveiller activement les activités de ses « entreprises commerciales » et de le faire en y consacrant son temps d’une façon efficace, en sachant que l’appelante dispose des ressources d’une seule personne, qui ne dispose que de peu de temps, l’État réexamine‑t‑il simplement cette décision d’ordre commercial en soutenant que la chose peut uniquement être interprétée comme étant plus commode pour M. Mullen sur le plan personnel? Je crois que c’est exactement ce que fait l’État. L’ancien juge en chef Bowman a discuté la question du réexamen du jugement du contribuable sur le plan des affaires dans la décision Podlesny c. R.[1], où il a fait les observations suivantes :
+[15] Il y a également la question du caractère raisonnable qui n’a pas été plaidée, mais qui semble avoir constitué une considération importante lorsqu’il s’est agi d’établir les cotisations. Il est selon moi évident que M. Podlesny a été plutôt audacieux en déduisant le coût de deux voitures dans le calcul de son revenu d’emploi. Il est également évident qu’il aimait les voitures. Toutefois, ce choix ne relève que de lui. Il ne m’appartient pas et il n’appartient pas au ministre de réexaminer son jugement sur le plan des affaires et de dire qu’il ne peut pas utiliser deux voitures pour les besoins d’une entreprise même s’il pouvait se contenter d’une seule voiture, et d’une voiture moins coûteuse. Le travail de l’appelant est important et parfois urgent. La décision qu’il a prise d’avoir deux voitures en bon état n’est pas manifestement absurde au point de me permettre de l’écarter pour le motif qu’il s’agit d’une décision irrationnelle ou arbitraire. (Voir, par exemple, Gabco Ltd. v. M.N.R., [1968] DTC 5210). Si j’agissais ainsi, cela m’obligerait à substituer mon jugement, sur le plan des affaires, à celui du contribuable; or, il ne s’agit pas de quelque chose que je puis à bon droit faire ou que je suis prêt à faire. En outre, j’usurperais dans une certaine mesure le rôle du législateur. Si le législateur veut qu’il soit uniquement permis d’utiliser une seule voiture pour les besoins d’une entreprise, il sait comment le faire, de la même façon qu’il a imposé un plafond quant au montant de la DPA qui peut être déduit à l’égard d’une voiture de luxe. Je ne crois pas que la Cour puisse, en invoquant le « caractère raisonnable », substituer son jugement à celui du contribuable. [...]
+[51] Le fait qu’il était commode pour M. Mullen d’avoir un avion à sa disposition ne veut pas pour autant dire que le coût des vols effectués à bord de cet avion est de nature personnelle si l’objet du voyage était de nature commerciale et si les actions de M. Mullen permettent d’atteindre cet objet. L’intimée semble dire que, si des vols commerciaux coûtaient moins cher, même si les horaires ne convenaient pas à M. Mullen et lui causaient de gros inconvénients, les frais y afférents ne seraient probablement pas considérés comme étant de nature personnelle. Ou encore l’intimée soutient peut‑être que M. Mullen, en sa qualité d’âme dirigeante de Lyncorp, aurait dû décider que Lyncorp embauche un tiers comme conseiller afin de vérifier les activités de ses entreprises commerciales au lieu d’avoir recours à M. Mullen lui‑même, étant donné que cela aurait également coûté moins cher. Il s’agit de décisions commerciales. Je me rends bien compte qu’il est difficile, lorsqu’une société est constituée d’une seule personne, de déterminer facilement à quel moment celle-ci s’occupe de questions personnelles plutôt que des affaires de la société, mais les faits de la présente espèce permettent de conclure que c’était Lyncorp qui exploitait une entreprise active et qui détenait également les investissements. M. Mullen était l’unique décisionnaire lorsqu’il s’agissait de veiller à ce que les choses soient faites.
+[52] L’intimée n’a pas plaidé que les dépenses étaient déraisonnables; elle a simplement soutenu qu’il s’agissait pour M. Mullen de dépenses personnelles qui ne produisaient pas de revenu tiré d’une entreprise ou d’un bien de l’appelante. Je n’ai donc pas à rechercher si ces dépenses étaient raisonnables.
+c) Les frais ont-ils été engagés par l’appelante en vue de tirer un revenu d’une entreprise ou d’un bien?
+[53] La moitié des frais contestés de transport par avion jusqu’à Campbell River ayant été retranchée à titre de frais personnels, a-t-on engagé le reste des frais controversés afin de tirer un revenu d’une entreprise ou d’un bien, comme l’exige l’alinéa 18(1)a) de la Loi?
+La source de revenu tirée d’une entreprise
+[54] Je rechercherai d’abord si les frais de transport par avion controversés ont été engagés par l’appelante en vue de tirer un revenu d’une entreprise, par opposition à un revenu tiré d’un bien.
+[55] L’appelante affirme qu’elle exploitait directement plusieurs entreprises : une entreprise active d’exploration minière, des services de forage, une entreprise d’affrètement d’avion et, ce qui est intéressant, une entreprise de prestation de services techniques, de services de gestion et de services exécutifs par l’entremise de M. Mullen. Je conclus qu’aucuns des frais controversés de transport par avion n’ont été engagés relativement à l’entreprise d’exploration minière de l’appelante. Cette entreprise n’était pas exploitée là où étaient effectués les déplacements controversés. De plus, l’entreprise d’affrètement d’avion n’était pas en cause en ce qui concerne les vols controversés.
+[56] J’examinerai donc en premier lieu l’idée avancée par l’appelante, à savoir qu’elle assurait des services de soutien aux entreprises commerciales. Si c’était le cas, il ressort clairement des preuves qu’elle exploitait une entreprise à but non lucratif. M. Mullen a admis sans détour dans son témoignage que l’appelante n’exigeait tout simplement pas de frais des entreprises commerciales pour les services de soutien qu’il assurait. L’appelante n’exigeait même pas de frais de Shulin Mining à l’égard de l’utilisation de la plateforme. Les activités de M. Mullen auprès des entreprises commerciales comportent un aspect commercial, mais l’appelante ne peut pas se fonder sur cette entreprise de consultation pour demander une déduction à l’égard des frais de transport par avion attribués étant donné que cette « entreprise » ne produisait pas de revenu et qu’elle ne visait pas à produire un revenu. Selon M. Mullen, les entreprises commerciales n’avaient pas les moyens de payer ces services. Je ne vois pas comment l’appelante peut maintenant changer d’idée et soutenir que les frais ont été engagés en vue de tirer un revenu de cette entreprise. Il ne s’agit pas de concrétiser le critère de l’« attente raisonnable de profit » : c’est une question de fait, les faits établissant clairement qu’il s’agissait d’une activité ne produisant intentionnellement aucun revenu.
+[57] L’appelante ne peut pas non plus invoquer la possibilité de recevoir un revenu de dividendes comme revenu tiré de cette entreprise de consultation. Le revenu de dividendes est tiré de la source de revenu qui est constituée d’un bien, et bien que ni l’une ni l’autre partie n’en ait pas fait mention, si le revenu de dividendes est le revenu à gagner grâce aux efforts de l’appelante, il s’agissait nécessairement d’une entreprise de placement précise, de sorte que le revenu doit néanmoins être considéré comme un revenu tiré d’un bien, et non comme un revenu tiré d’une entreprise. Somme toute, l’appelante n’a pas réussi à me convaincre que cette entreprise de consultation justifie la déduction des frais contestés de transport par avion : s’il s’agit d’une entreprise, il n’y a pas de revenu; si l’appelante signale que le revenu de dividendes est le revenu qui est produit, il ne s’agit pas d’un revenu tiré d’une entreprise, mais d’un revenu tiré d’un bien.
+[58] Quant à l’entreprise de prestation de services de forage de l’appelante, un examen plus poussé s’impose. Je conclus que les voyages effectués en Alaska aux fins de vérification des activités de Shulin Mining avaient un double objectif. En premier lieu, et avant tout, ils visaient à aider Shulin Mining (ainsi que Shear et Golconda) dans ses activités. Mais en second lieu, il incombait à l’appelante, par l’entremise de M. Mullen, de voir directement comment sa plateforme de forage, dont Shulin se servait sans frais, était utilisée. M. Mullen a reconnu que l’appelante pouvait ainsi acquérir une expérience pratique dont elle pourrait se prévaloir en assurant à l’avenir des services continus de forage. Je conclus que la plateforme appartenait à l’appelante et je conclus en outre qu’il était légitime sur le plan commercial d’envoyer un représentant pour qu’il inspecte la plateforme et, ce qui est encore plus important, pour qu’il décide de la meilleure façon d’utiliser la plateforme dans le cadre de l’entreprise future de forage. L’appelante a par la suite installé la plateforme en Saskatchewan.
+[59] Il existe peu d’indications permettant de déterminer effectivement combien de temps et d’efforts M. Mullen consacrait, lorsqu’il se rendait aux emplacements de forage, à Shulin Lake, à surveiller les activités d’une de ses entreprises commerciales (Shulin Mining, Shear et Golconda) plutôt qu’à inspecter la plateforme de l’appelante et à apprendre, par suite de l’utilisation de la plateforme, comment exploiter d’une façon efficace une entreprise de forage. Les frais de transport par avion de l’appelante pour cette dernière activité commerciale directe constituent des dépenses d’entreprise qu’il est légitimement possible de déduire, étant donné qu’elles se rattachent directement à l’expansion de l’entreprise active de Lyncorp. Je reviendrai sur la question des frais associés aux entreprises commerciales en examinant la question du revenu tiré d’un bien.
+[60] Compte tenu de la description que M. Mullen a donnée au sujet de ses interventions dans les participation aux activités de Shulin Mining, je conclus qu’il se rendait avant tout à cet endroit pour surveiller le travail de Shulin Mining, de Shear et de Golconda à l’égard des concessions minières, plutôt que pour inspecter la plateforme de Lyncorp et pour se familiariser avec l’entreprise de forage de Lyncorp. J’ai envisagé de renvoyer la question aux parties pour qu’elles présentent des observations supplémentaires, mais j’ai plutôt décidé qu’il convenait de répartir les frais dans une proportion de 75 p. 100 et de 25 p. 100. Par conséquent, le quart des frais des voyages effectués en Alaska qui se rapportent aux travaux de forage sont déductibles. Il faut ensuite répartir ces vols entre les vols effectués aux fins de l’inspection du pavillon, d’une part, et les vols visant à permettre de vérifier les travaux de forage et aux vols que M. Mullen effectuaient à ces deux fins. Je conclus que les déplacements suivants se rapportaient uniquement aux travaux de forage et, par conséquent, que le quart des frais sont déductibles, étant donné qu’ils se rattachent à une activité commerciale directe de Lyncorp :
+a) du 7 au 11 février 2002 – 9 677 $
+b) du 2 au 4 avril 2002 – 19 404 $
+c) du 3 au 6 août 2002 – 13 776 $ (un montant de 6 450 $ était déjà déduit pour la portion du voyage à Campbell River)
+d) du 14 au 19 août 2002 – 15 943 $
+e) du 30 août au 3 septembre 2002 – 16 472 $
+f) les 22 et 23 septembre 2002 – 20 649 $
+Total pour l’année 2002 – 95 921 $, dont 25 p. 100 correspond à 23 980 $.
+g) du 5 au 7 février 2003 – 16 314 $
+h) le 14 mars 2003 – 16 445 $
+Total pour l’année 2003 – 32 759 $, dont un quart correspond à 8 189 $.
+[61] Je conclus que les vols suivants se rapportaient à Shulin Lake Lodge et au forage. Je ne dispose d’aucun élément de preuve concluant indiquant comment M. Mullen partageait son temps entre les deux, et je vais encore une fois supposer qu’il le partageait moitié-moitié, ce qui veut dire qu’un quart de la moitié des frais se rattachent à l’activité commerciale de développement d’une entreprise de forage directement exercée par Lyncorp :
+a) du 15 au 19 mars 2002 – 11 281 $
+b) du 17 au 20 juin 2002 – 18 254 $
+Total pour l’année 2002 – 29 535 $, sur lesquels un montant de 3 692 $ est déductible.
+c) du 23 au 27 avril 2003 – 18 081 $
+d) du 16 au 19 juin 2003 – 16 657 $
+e) du 13 au 17 août 2003 – 15 569 $
+f) du 2 au 5 septembre 2003 – 25 061 $
+Total pour l’année 2003 – 75 368 $, sur lesquels un montant de 9 421 $ est déductible.
+[62] Quant à tous les autres voyages en avion effectués en Alaska, je conclus qu’ils ne se rapportaient pas aux travaux de forage; ils se rapportaient, par exemple, aux travaux associés au pavillon.
+[63] Le seul autre vol qui, selon moi, se rapporte directement à l’activité commerciale de l’appelante est celui qui a eu lieu au mois de mai 2002, à Cranbrook, au coût de 1 440 $.
+La source de revenu tirée d’un bien
+[64] Je rechercherai maintenant si les autres frais de transport par avion controversés ont été engagés en vue de tirer un revenu d’un bien. À cet égard, l’appelante affirme qu’il y a deux sources de revenu tirées d’un bien, à savoir des actions et des créances.
+[65] J’examinerai d’abord la question des créances comme source de revenu tirée d’un bien. L’appelante a de fait prêté des montants considérables à ses entreprises commerciales en 2002 et en 2003. Elle déclare qu’elle pouvait bénéficier de ces prêts de deux façons : en premier lieu, si les entreprises devenaient suffisamment rentables, elle pouvait exiger des intérêts sur les prêts; en second lieu, même si elle décidait de ne pas exiger d’intérêts, les prêts pouvaient être considérés comme accroissant la capacité des entreprises commerciales de verser des dividendes.
+[66] Il ressort manifestement des éléments de preuve que les prêts ne portaient pas intérêt. La position de l’appelante, à savoir qu’elle pouvait décider d’exiger des intérêts au moment où elle croyait que les entreprises commerciales avaient les moyens de les payer, n’est tout simplement pas suffisante pour qu’il soit possible de conclure que les créances contractuelles existantes produisaient un revenu. Elles n’en produisaient pas. Les frais de transport en avion controversés n’ont pas été engagés en vue de produire un revenu d’intérêts étant donné que les créances ne portaient pas intérêt. Soutenir qu’étant donné que l’appelante aurait pu, ou peut-être qu’elle aurait dû, exiger des intérêts, il existait une source de revenu tirée d’un bien, c’est établir un lien trop ténu. Il ne suffit pas, en général, de se répandre en conjectures et dire que l’appelante aurait pu, ou qu’elle aurait dû, exiger des intérêts.
+[67] L’argument de l’appelante selon lequel les prêts constituent une source de revenu tirée d’un bien étant donné que ces prêts permettaient aux débiteurs de verser finalement des dividendes fait preuve d’imagination, et est même audacieux, mais il doit lui aussi être rejeté. Le bien en soi, c’est‑à‑dire la créance, ne produit aucun revenu. Le débiteur est obligé de rembourser le principal: il n’a aucune obligation contractuelle de payer des intérêts. L’entreprise débitrice sera peut‑être rentable dans l’avenir, ce qui lui permettra de rembourser la dette. Elle sera peut‑être alors en mesure de verser des dividendes. Cependant, je ne puis constater aucun lien, direct ou autre, entre la créance et la simple possibilité de verser des dividendes, et encore moins le versement réel de dividendes. Le revenu de dividendes ne découle pas de la créance. Sur le plan fiscal, la créance n’est pas la source d’un revenu de dividendes.
+[68] Cela nous amène finalement à la question qui est peut-être la plus intéressante : les investissements effectués par l’appelante dans les actions des entreprises commerciales, avec la possibilité que des dividendes soient déclarés sur ces actions, permettent‑ils de déduire les frais contestés de transport en avion, qui auraient été engagés en vue de produire un revenu de dividendes?
+[69] En résumé, l’appelante avait pour stratégie de fournir sans frais aux entreprises commerciales les services de soutien de M. Mullen, en vue de les aider à réussir, dans l’espoir de recevoir un jour des dividendes. Par conséquent, selon l’appelante, les frais de transport en avion qui ont été engagés en vue de permettre à M. Mullen d’assurer ces services de soutien sont clairement visés à l’alinéa 18(l)a) de la Loi, étant donné qu’ils ont été engagés en vue de produire un revenu tiré d’un bien, soit les actions des entreprises commerciales. Je note ici que c’était M. Mullen, et non l’appelante, qui détenait des actions de Shulin Mining, même si M. Mullen croyait que ces actions auraient dû être transférées à l’appelante. Elles ne l’ont pas été. Toutefois, l’appelante possédait des actions de Shear et de Golconda, qui étaient intimement liées à Shulin Mining pour les travaux en Alaska.
+[70] L’intimée invoque une jurisprudence récente, SLX Managment Inc. c. R.[2] qui enseignerait les dépenses engagées en vue de tirer un revenu d’une filiale ne sont pas déductibles en tant que dépenses engagées en vue de produire un revenu tiré d’un bien (des dividendes). En toute justice, la décision SLX Management ne semble pas porter directement sur cette question puisque la Cour s’est bornée à faire l’observation suivante
+[55] Deuxièmement, l’aéronef a servi à une entreprise autre que Management, soit SLX Aviation, une filiale de Management. Selon le contrat de distribution que M. Miller négociait avec Socata, on envisageait que cette autre entité, et non Management, agisse comme distributrice. Monsieur Miller a mentionné que Management elle‑même ne serait jamais propriétaire de quoi que ce soit en vertu de cette entreprise avec Socata. À la lumière des principes énoncés dans l’arrêt Stewart, précité, Management ne peut déduire les dépenses liées à l’aéronef effectuées en vue de tirer un revenu pour le compte de SLX Aviation.
+[71] On ne sait pas trop si l’appelante, dans l’affaire SLX Management, a même invoqué la déductibilité fondée sur un revenu tiré d’un bien. Je ne suis pas prêt à donner à la décision SLX Management l’interprétation large proposée par l’intimée. Il convient d’examiner la question plus à fond.
+[72] Dans l’arrêt Stewart c. Canada[3], la Cour suprême du Canada a fait les observations suivantes :
+[57] Il ressort clairement de ces dispositions que la déductibilité des dépenses présuppose l’existence d’une source de revenu et, partant, qu’elle ne doit pas être confondue avec l’examen préliminaire portant sur l’existence de cette source. Si la déductibilité d’une dépense particulière est en cause, ce n’est pas l’existence d’une source de revenu qui doit être mise en doute, mais plutôt le lien entre cette dépense et la source à laquelle elle est censée se rapporter. Le fait qu’une dépense soit considérée comme faisant partie des frais personnels ou de subsistance n’influe aucunement sur la qualification de la source de revenu à laquelle le contribuable tente de rattacher la dépense; cela signifie simplement que la dépense ne peut être rattachée à la source de revenu en question. De même, si, dans les circonstances, la dépense est déraisonnable eu égard à la source de revenu, alors l’art. 67 de la Loi établit un mécanisme permettant d’en réduire ou d’en supprimer le montant. Là encore, toutefois, des dépenses excessives ou déraisonnables n’ont aucune incidence sur la qualification d’une activité comme étant une source de revenu.
+[73] Le dilemme est de savoir quel est le rapport qui donne éventuellement lieu à une dépense déductible : le rapport entre la dépense, soit les frais contestés de transport en avion et le revenu d’entreprise des entreprises commerciales particulières, ou le rapport entre la dépense et le revenu tiré d’un bien (les dividendes) de la société mère qui a effectué la dépense? J’ai tenté de résoudre ce dilemme, lors des débats, en demandant aux parties s’il s’agissait d’un rapport direct ou indirect. Les parties ne semblent pas avoir été prêtes à mordre à l’hameçon. Pourtant, il me semble que tel est le nœud de la cause. À quelle source de revenu la dépense est-elle censée se rapporter? Le fait que l’appelante a effectué la dépense influe peu sur la réponse à cette question. L’appelante soutient que la dépense se rapporte à la source de revenu tirée d’un bien. C’est peut‑être bien le cas, indirectement. Cependant, à coup sûr, les autres frais de transport en avion controversés se rapportent directement au revenu d’entreprise des entreprises commerciales. Les dépenses ont été effectuées en vue d’assurer la rentabilité des entreprises commerciales. Cela pourrait donner lieu, à un moment donné dans 1’avenir, à un revenu de dividendes, mais le lien direct entre la cause et l’effet est un lien entre les dépenses et le revenu d’entreprise des entreprises commerciales, et non le rapport avec la source de revenu tirée d’un bien.
+[74] Permettre à l’appelante de déduire de telles dépenses serait inviter les actionnaires et les sociétés contribuables à décider en fait de la source de revenu (bien ou entreprise) donnant lieu à la déduction de dépenses de la façon qui sert mieux leurs fins. Je ne crois pas que la Loi envisage un tel choix.
+[75] L’appelante a de fait donné à ses entreprises commerciales plusieurs centaines de milliers de dollars, non au moyen d’une créance ou d’une participation, mais simplement en assurant des services gratuits permettant à ces entreprises d’exercer leurs activités, dans l’espoir que cette générosité les aide à s’établir et peut-être bien un jour, d’une certain façon, à rembourser ces fonds. Cette générosité ne constituait ni un prêt ni une participation de la part de l’appelante. Il s’agirait plutôt d’une entente dans laquelle une partie s’engage à payer les dépenses de quelqu’un d’autre. Les investissements sous forme de participation produisent un revenu de dividendes. Les investissements sous forme de créance produisent un revenu d’intérêts. Les services gratuits, sans obligation de remboursement, ne produisent que de l’espoir. Il ne s’agit pas d’une dépense déductible.
+[76] En résumé, en ce qui concerne l’appel sur le plan de l’impôt sur le revenu, l’appel est accueilli et l’affaire est renvoyée au ministre du Revenu national pour nouvel examen et nouvelle cotisation, qui tiendra pour acquis que l’appelante a le droit de déduire des frais de transport par avion de 29 112 $ pour l’année d’imposition 2002 et de 17 610 $ pour l’année d’imposition 2003.
+La TPS
+[77] En général, le droit à des crédits de taxe sur les intrants (les « CTI ») en vertu de la LTA prend naissance lorsque la TPS a été payée « pour consommation, utilisation ou fourniture dans le cadre [des] activités commerciales ». Le paragraphe 123(1) de la LTA définit l’activité commerciale en général, comme suit : « activités commerciales exercées par une personne [...] sauf dans la mesure où l’entreprise comporte la réalisation par la personne de fournitures exonérées [...] ». Il est déduit de cette définition que les fournitures exonérées ne sont pas admissibles à titre d’activités commerciales, comme c’est le cas pour les activités non commerciales ou pour les activités d’une nature personnelle. En outre, ce qui est crucial dans cette définition de l’activité commerciale, c’est qu’il ne suffit pas que l’activité soit simplement de nature commerciale, ce doit être une entreprise exploitée par le contribuable. Tel est l’obstacle auquel se heurte l’appelante, étant donné qu’à part les frais directs de transport par avion qui, selon ce que j’ai conclu, se rapportent à l’activité commerciale directement exercée par l’appelante, le reste des frais contestés de transport par avion ne se rapportent tout simplement pas à une entreprise exploitée par l’appelante.
+[78] Dans la décision B.J. Services Company Canada, the Successor to Nowsco Well Service Ltd. c. Her Majesty the Queen[4], j’ai conclu que la Cour doit prendre en considération les facteurs suivants afin de déterminer si les intrants sont de nature commerciale :
+a) l’objet de l’intrant;
+b) le bénéficiaire de l’intrant;
+c) le contexte dans lequel l’intrant a été engagé;
+d) la jurisprudence traitant des éléments qui constituent une activité commerciale.
+[79] Dans la décision Sclerie St.-Elzear Inc. c. Sa Majesté la Reine, la Cour a examiné la question de savoir si l’appelante pouvait demander des CTI à l’égard des frais payés pour la préparation d’états financiers de cinq sociétés liées appartenant aux membres de l’inscrit. La Cour a confirmé la décision du ministre portant que les CTI ne faisaient pas partie intégrante des activités commerciales de l’inscrit; elle a fait les observations suivantes :
+[...] en l’espèce les services professionnels rendus satisfont aux obligations des cinq sociétés de gestion de produire des déclarations de revenus et des états financiers et non à des obligations de l’appelante. Les cinq sociétés de gestion sont celles qui ont besoin de services professionnels comme ceux rendus en l’espèce et qui devraient, à mon avis, en assumer le paiement. Le fait que l’appelante permette que la facture pour ces services lui soit envoyée et le fait qu’elle en fasse le paiement témoigne de son intérêt économique à maintenir les sociétés de gestion en existence plutôt que d’indiquer l’existence d’une nécessité ou d’une obligation légale d’assurer le bon fonctionnement de son entreprise, nécessité ou obligation qui commanderait la conclusion que le paiement fait partie intégrante des activités commerciales de l’appelante. L’objet et le contexte de l’intrant n’ont pas de rapport avec les activités commerciales de l’appelante, pas plus que le fait que les bénéficiaires de l’intrant en l’espèce sont la Coopérative et ses membres, en raison du bénéfice qui sera attribué à ces derniers à l’âge de 60 ans.
+[80] Je conclus que l’objet des frais contestés de transport par avion qui restent (à part le montant de 29 112 $ en 2002 et le montant de 17 610 $ en 2003) se rapporte aux activités des entreprises commerciales, qui en tirent parti, et non à quelque activité commerciale de l’appelante. De même, les frais contestés de transport par avion controversés qui restent ont été engagés dans le contexte de services fournis dans le cadre des entreprises commerciales, au cours de leur activité commerciale, plutôt que de quelque activité commerciale de l’appelante.
+[81] Il s’agit ici d’une situation unique en son genre dans laquelle une société engage des frais (les intrants) pour fournir des services gratuits à ses entreprises commerciales. Cela étant, la société peut être considérée comme le consommateur final – en fin de compte – aucun CTI n’est disponible, étant donné qu’il n’y a pas d’autre activité commerciale de la société.
+[82] En résumé, l’appel en matière de TPS pour la période allant du 1er janvier 2002 au 31 décembre 2003, dont l’avis de cotisation du 26 juillet 2006 porte le numéro 10CT0700344, est accueilli et l’affaire est renvoyée au ministre du Revenu national pour nouvel examen et nouvelle cotisation compte tenu du fait que l’appelante a droit à des CTI à l’égard de frais de transport par avion de 29 112 $ pour l’année d’imposition 2002 et de 17 610 $ pour l’année d’imposition 2003.
+[83] Vu que l’appelante n’a eu gain de cause qu’en partie, un seul mémoire de frais est accordé à l’intimée, conformément au tarif.
+Signé à Ottawa, Canada, ce 19e jour d’octobre 2010.
+« Campbell J. Miller »
+Juge C. Miller
+Traduction certifiée conforme
+ce 10e jour de février 2011.
+François Brunet, réviseur
+Annexe A
+Lyncorp lnternational Ltd.
+Frais d’avion
+Date du vol
+De
+À
+Montant
+29 nov. 01
+Calgary
+Vancouver
+2 869,97 $
+1 déc. 01
+Vancouver
+Calgary
+2 janv. 02
+Calgary
+Campbell River
+3 077,00 $
+6 janv. 02
+Campbell River
+Calgary
+7 févr.02
+Calgary
+Edmonton
+9 676,93 $
+7 févr.02
+Edmonton
+Whitehorse
+7 févr.02
+Whitehorse
+Anchorage
+11 févr.02
+Anchorage
+Edmonton
+11 févr.02
+Edmonton
+Calgary
+15 mars 02
+Calgary
+Prince George
+11 281,82 $
+15 mars 02
+Prince George
+Anchorage
+19 mars 02
+Anchorage
+Edmonton
+19 mars 02
+Edmonton
+Calgary
+2 avr. 02
+Calgary
+Anchorage
+19 403,72 $
+4 avr. 02
+Anchorage
+Calgary
+25 avr. 02
+Calgary
+Campbell River
+3 505,61 $
+28 avr. 02
+Campbell River
+Vancouver
+28 avr. 02
+Vancouver
+Calgary
+16 mai 02
+Calgary
+Campbell River
+960,00 $
+20 mai 02
+Campbell River
+Calgary
+1 820,00 $
+26 mai 02
+Calgary
+Cranbrook
+1 440,00 $
+26 mai 02
+Cranbrook
+Calgary
+17 juin 02
+Calgary
+Anchorage
+18 254,03 $
+20 juin 02
+Anchorage
+Calgary
+26 juin 02
+Calgary
+Campbell River
+2 895,00 $
+1 juil. 02
+Campbell River
+Calgary
+1 820,00 $
+20 juil. 02
+Calgary
+Campbell River
+2 250,00 $
+28 juil. 02
+Campbell River
+Calgary
+3 058,45 $
+3 août 02
+3 août 02
+6 août 02
+Calgary
+Campbell River
+Anchorage
+Campbell River
+Anchorage
+Campbell River
+20 226,75 $
+Date du vol
+De
+À
+Montant
+6 août 2002
+Campbell River
+Calgary
+10 août 02
+Campbell River
+Calgary
+1 605,00 $
+14 août 02
+Campbell River
+Anchorage
+8 068,22 $
+18 août 02
+Anchorage
+Campbell River
+7 875,00 $
+30 août 02
+Calgary
+Anchorage
+16 472,34 $
+3 sept. 02
+Anchorage
+Calgary
+20 sept. 02
+Calgary
+Campbell River
+3 855,00 $
+22 sept. 02
+Campbell River
+Calgary
+22 sept. 02
+Calgary
+Anchorage
+20 649,58 $
+23 sept. 02
+Anchorage
+Calgary·
+18 oct. 02
+Calgary
+Campbell River
+3 855,00 $
+20 oct. 02
+Campbell River
+Calgary
+17 nov. 02
+Calgary
+Vancouver
+4 912,00 $
+20 nov. 02
+Vancouver
+Campbell River
+20 nov. 02
+Campbell River
+Calgary
+16 déc. 02
+Calgary
+Campbell River
+3 862,00 $
+17 déc. 02
+Campbell River
+Calgary
+2 janv. 03
+Calgary
+Campbell River
+2 257,00 $
+5 janv. 03
+Campbell River
+Calgary
+1 820,00 $
+5 févr. 03
+Calgary
+Anchorage
+16 313,95 $
+5 févr. 03
+Anchorage
+Calgary
+14 mars 03
+Calgary
+Anchorage
+16 445,91 $
+9 avr. 03
+Calgary
+Vancouver
+2 086,45 $
+11 avr. 03
+Calgary
+Vancouver
+4 608,80 $
+11 avr. 03
+Vancouver
+Campbell River
+13 avr. 03
+Campbell River
+Calgary
+23 avr. 03
+Calgary
+Edmonton
+18 081,08 $
+23 avr. 03
+Edmonton
+Anchorage
+27 avr. 03
+Anchorage
+Edmonton
+Date du vol
+De
+À
+Montant
+27 avr. 03
+Edmonton
+Calgary
+2 mai 03
+Calgary
+Campbell River
+6,795,86 $
+4 mai 03
+Campbell River
+Calgary
+8 mai 03
+Calgary
+Vancouver
+4 658,80 $
+9 mai 03’
+Vancouver
+Campbell River
+10 mai 03
+Campbell River
+Calgary
+2 juin 03
+Campbell River
+Vancouver
+16 719,78 $
+2 juin 03
+Vancouver
+Anchorage
+4 juin 03
+Anchorage
+Calgary
+6 juin 03
+Calgary
+Campbell River
+15 229,48 $
+8 juin 03
+Campbell River
+Kamloops
+8 juin 03
+Kamloops
+Calgary
+13 juin 03
+Calgary
+Edmonton
+14 663,52 $
+13 juin 03
+Edmonton
+Rankin Inlet
+13 juin 03
+Rankin Inlet
+Edmonton
+13 juin 03
+Edmonton
+Calgary
+16 juin 03
+19 juin 03
+Calgary
+Anchorage
+Anchorage
+Calgary
+16 657,72 $
+28 juin 03
+Calgary
+Campbell River
+3 509,11 $
+1 juil. 03
+Campbell River
+Calgary
+3 335,21 $
+17 juil. 03
+Calgary
+Anchorage
+20 062,22 $
+19 juil. 03
+Anchorage
+Campbell River
+20 juil. 03
+Campbell River
+Calgary
+25 juil. 03
+Calgary
+Campbell River
+3 804,61 $
+3 août 03
+Calgary
+Campbell River
+7 157,48 $
+3 août 03
+Campbell River
+Calgary
+7 août 03
+Campbell River
+Calgary
+1 984,95 $
+8 août 03
+Calgary
+Campbell River
+2 219,65 $
+13 août 03
+Campbell River
+Anchorage
+15 569,68 $
+17 août 03
+Anchorage
+Campbell River
+2 sept. 03
+Calgary
+Whitehorse
+25 061,61 $
+2 sept. 03
+Whitehorse
+Anchorage
+5 sept. 03
+Anchorage
+Campbell River
+5 sept. 03
+Campbell River
+Kelowna
+5 sept. 03
+Kelowna
+Calgary
+3 oct. 03
+Calgary
+Campbell River
+7 164,83 $
+5 oct. 03
+Campbell! River
+Calgary
+Total (2002)
+173 693,42 $
+226 207,70 $
+399 901,12 $
+Total (2003)
+Total des montants en litige
+RÉFÉRENCE : 2010 CCI 532
+Nos DES DOSSIERS DE LA COUR : 2008‑2977(IT)G et 2008‑2710(GST)G
+INTITULÉ : LYNCORP INTERNATIONAL LTD.
+c.
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Calgary (Alberta)
+DATES DE L’AUDIENCE : Les 27 et 28 septembre 2010
+MOTIFS DU JUGEMENT : L’honorable Campbell J. Miller
+DATE DU JUGEMENT : Le 19 octobre 2010
+COMPARUTIONS :
+Avocat de l’appelante :
+Me Ken S. Skingle, c.r.
+Avocate de l’intimée :
+Me Carrie Mymko
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom : Ken S. Skingle, c.r.
+Cabinet : Felesky Flynn LLP
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] 2005 CCI 97.
+[2] 2010 CCI 148.
+[3] [2002] 2 R.C.S. 645.
+[4] [2002] G.S.T.C. 124.

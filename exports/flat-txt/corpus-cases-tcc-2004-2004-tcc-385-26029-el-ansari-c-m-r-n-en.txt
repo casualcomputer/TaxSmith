@@ -1,0 +1,298 @@
+Title: El Ansari c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26029/index.do
+Corpus path: corpus/cases/tcc/2004/2004-tcc-385-26029-el-ansari-c-m-r-n-en.md
+Document type: case_law
+Last modified: 2004-05-31
+
+# El Ansari c. M.R.N.
+
+- Citation: 2004 TCC 385
+- Decision date: 2004-05-31
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4089, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+El Ansari c. M.R.N.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-05-31
+Neutral citation
+2004 TCC 385
+File numbers
+2001-397(EI)
+Judges and Taxing Officers
+Lucie Lamarre
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2001-397(EI)
+BETWEEN:
+RHITA EL ANSARI,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on November 17, 2003, written notes received from the Appellant on November 19, 2003, written notes received from the Respondent on December 10, 2003, at Montréal, Quebec
+Before: The Honourable Justice Lucie Lamarre
+Appearances:
+Agent for the Appellant:
+Abdelhak Guessous
+Counsel for the Respondent:
+Chantal Jacquier
+____________________________________________________________________
+JUDGMENT
+The appeal under subsection 103(1) of the Employment Insurance Act ("EIA") is dismissed and the decision of the Minister of National Revenue on January 18, 2001, is confirmed to the effect that the work performed by the Appellant at the Embassy of the Kingdom of Morocco during the period from September 1, 1997, to June 30, 2000, was not insurable work under the terms of paragraph 5(2)(d) of the EIA.
+Signed at Ottawa, Canada, this 31st day of May 2004.
+"Lucie Lamarre"
+Lamarre J.
+Translation certified true
+on this 20th day of August 2004.
+Sharon Winkler Moren, Translator
+Citation: 2004TCC385
+Date: 20040531
+Docket: 2001-397(EI)
+BETWEEN:
+RHITA EL ANSARI,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Lamarre J.
+[1] The Appellant is appealing a decision of the Canada Customs and Revenue Agency ("CCRA") that the work performed by Ms. El Ansari at the Embassy of the Kingdom of Morocco ("Embassy of Morocco") from September 1, 1997 to June 30, 2000, was not insurable employment under paragraph 5(2)(d) of the Employment Insurance Act ("EIA), which states:
+5.(2) Insurable employment does not include:
+. . .
+(d) employment in Canada by the government of a country other than Canada or of any political subdivision of the other country;
+[2] Thus, work performed in Canada for a government of a foreign country is not, in principle, insurable employment. However, paragraph 5(4)(e) of the EIA enables the Canada Employment Insurance Commission ("Commission") to regulate the inclusion of this employment in insurable employment if and when consented to by the employing government. Paragraph 5(4)(e) reads:
+5.(4) The Commission may, with the approval of the Governor in Council, make regulations for including in insurable employment:
+. . .
+(e) employment in Canada by the government of a country other than Canada or of any political subdivision of the other country if the employing government consents;
+[3] The Commission exercised its regulatory power in setting forth section 3 of the Employment Insurance Regulations ("Regulations"), which stipulates:
+3. (1) Employment in Canada by the government of a country other than Canada or of any political subdivision of that other country, or by an international organization, that would, except for paragraphs 5(2)(d) and (e) of the Act, be insurable employment, may be included in insurable employment if the employing government or the international organization, as the case may be, consents in writing to its inclusion.
+(2) Where a consent has been given pursuant to the Unemployment Insurance Regulations, as they read immediately before June 30, 1996, and has not been revoked, it shall be considered to be a consent referred to in subsection (1).
+[4] In this case, it is not contested that the Appellant was hired under a contract of service at the Embassy of Morocco during the period at issue and that had it not been for the legislative provisions referred to above, the Appellant's employment would have been insurable. The parties acknowledge as well that the government of the Kingdom of Morocco ("Government of Morocco") did not consent in writing that work performed in Canada for the Embassy of Morocco be included in insurable employment under the EIA and the Regulations.
+Issues
+[5] The Appellant, who says she is a Canadian citizen, essentially claims that paragraphs 5(2)(d) and 5(4)(e) of the EIA and section 3 of the Regulations, which as written make her employment uninsurable, are discriminatory towards Canadian citizens who work for the government of a foreign country that has not given written consent as stipulated above, in comparison to those who work for every other employer. She argues that this discrimination is contrary to subsection 15(1) of the Canadian Charter of Rights and Freedoms ("Charter"). The Appellant also claims that the limits of these legislative provisions and this regulatory provision are not reasonable and justifiable in a free and democratic society as understood in section 1 of the Charter. The relevant provisions of the Charter to which reference is made read:
+1. The Canadian Charter of Rights and Freedoms guarantees the rights and freedoms set out in it subject only to such reasonable limits prescribed by law as can be demonstrably justified in a free and democratic society.
+15. (1) Every individual is equal before and under the law and has the right to the equal protection and equal benefit of the law without discrimination and, in particular, without discrimination based on race, national or ethnic origin, colour, religion, sex, age or mental or physical disability.
+24. (1) Anyone whose rights or freedoms, as guaranteed by this Charter, have been infringed or denied may apply to a court of competent jurisdiction to obtain such remedy as the court considers appropriate and just in the circumstances.
+32. (1) This Charter applies
+(a) to the Parliament and government of Canada in respect of all matters within the authority of Parliament including all matters relating to the Yukon Territory and Northwest Territories; and
+(b) to the legislature and government of each province in respect of all matters within the authority of the legislature of each province.
+[6] In addition, the Appellant claims that paragraphs 5(2)(d) and 5(4)(e) of the EIA and subsection 3(1) of the Regulations are inconsistent with the Foreign Missions and International Organizations Act, S.C. 1991, c. 41 (R.S.C, c. F-29.4) (which appended some provisions of the Vienna Convention on Diplomatic Relations and the Vienna Convention on Consular Relations), and with the State Immunity Act, R.S., c. S-18.
+[7] According to the Appellant, diplomatic and consular authorities of the Moroccan government must observe Canada's social legislation under these two latter laws and conventions and must not take advantage of diplomatic immunity to escape their obligations to contribute to the various Canadian social security schemes (including employment insurance) for their employees who are Canadian nationals and who are subject to taxation in Canada. In this regard, the Appellant relied as well on articles 3118 and 3149 of the Civil Code of Québec ("CCQ") and article 6 of the Rome Convention of 1980.
+[8] The Respondent in every respect challenges the position taken by the Appellant. The Respondent argues that Canada, by reason of both law and both Vienna Conventions referred to above by the Appellant, cannot force a foreign government to cover its employees under Canada's employment insurance scheme. Contrary to what the Appellant claims, the Respondent argues that paragraphs 5(2)(d) and 5(4)(e) of the EIA and section 3 of the Regulations are consistent with these laws and conventions.
+[9] Regarding the matter of Embassy of Morocco employees' social security, Counsel for the Respondent specifies that there is, in fact, a social security Convention between the Government of Canada and the Government of Morocco ("Convention") that was signed July 1, 1998, and which went into effect September 1, 2000. However, this convention only applies, for Canada, to the Old Age Security Act and the Canada Pension Plan as well as to the regulations stemming from these two legislative texts; it does not include the EIA. The Respondent also argues that articles 3118 and 3149 of the CCQ, like article 6 of the Rome Convention, fall under private international law and are not applicable and are of no benefit to the Appellant in resolving the matter at issue.
+[10] With regard to the Appellant's argument of discrimination, she claims that the foreign employer is treated preferentially in comparison to Canadian employers. Counsel for the Respondent argues that discrimination must be determined from the employee's perspective. Here there is no difference in treatment based on any personal characteristic of the Appellant. Attachment to the job market as an employee or an employer is not an immutable personal characteristic that could be analogous grounds for the purposes of section 15 of the Charter. Finally, the Appellant has not shown that the impugned distinction adversely affects her dignity and fails to respect her as a member in her own right of society. In fact, the matter is not determining whether the Appellant has suffered a financial disadvantage but rather to find out whether this disqualification from benefits fosters the opinion that embassy or consulate employees are less capable or less deserving of recognition or appreciation as human beings (seeGosselin v. Quebec (Attorney General) (2002), 298 N.R. 1, paragraphs 24 and 25, and Granovsky v. Canada, [2000] 1 S.C.R. 703, p. 734).
+Facts
+[11] The Appellant was an employee of Morocco's ministèred'État chargé des Affaires étrangères et de la Coopération [ministry of state for foreign affairs and cooperation] ("Morocco's Ministry of Foreign Affairs") from 1961 to 1991 and from 1993 to July 31, 2000. She was posted to a number of countries over the years. In 1991, she returned to Morocco and then joined her children during the same year in Montréal. I believe she received landed immigrant status and became a resident of Canada in 1991. Eventually, she had this Ministry propose a posting to the Consulate of the Kingdom of Morocco ("Consulate of Morocco") in Montréal as an executing agent as of September 1, 1993.
+[12] It is my understanding that she was to have returned to Morocco in August 1993 to get the document authorizing her transfer to the Consulate of Morocco in Montréal (Exhibit I-2).
+[13] On September 1, 1997, the Appellant received a new posting to the Embassy of Morocco in Ottawa (Exhibit I-3). In March 2000, she was recalled to the Service central in Rabat, Morocco, in order to be posted to the Direction des affaires américaines du ministère des Affaires étrangères du Maroc [directorate of American affairs of Morocco's ministry of foreign affairs] as of June 30, 2000 (see Exhibits I-4 and I-5). The Appellant then decided not to accept this new posting to Morocco and was ultimately removed as an officer of the Ministry of Foreign Affairs of Morocco on August 1, 2000, the date on which her employer apparently gave her her last pay (Exhibit I-10). It seems that over the course of her employment, certain deductions at source were made by her employer pertaining to a pension and a mandatory withholding of Moroccan national solidarity tax (Exhibit I-10). It does not appear from the evidence that withholding was made at source by the employer for Canadian taxes. Moreover, the Appellant admits that she has never contributed to the Canadian employment insurance scheme during all the years that she worked in Canada (i.e. from 1993 to 2000) and that she never requested to be covered by this scheme. It is also admitted that the Embassy of Morocco never contributed to the employment insurance scheme in Canada for any of its employees because the Government of Morocco has not consented in writing to participation in this scheme for its employees working in Canada. Finally, the evidence established that the Appellant has never filed a personal income tax return in Canada. She and her husband allegedly filed a joint return in 2000 (which is not the norm under the Income Tax Act which sets out that every individual must file his or her own income tax return), but this return was not introduced in evidence.
+[14] In addition, I heard the testimony of Stéphane Tremblay, Senior Policy Advisor, Human Resources Development Canada, Policy and Legislation Development at the Canada Employment Insurance Commission, who spoke about the legislative background of the EIA. His testimony essentially reports the content of his sworn statement which was filed as Exhibit I-14. I feel it is useful to report it in full:
+[TRANSLATION]
+I, STÉPHANE TREMBLAY, PERFORMING MY DUTIES IN THE CITY OF GATINEAU, PROVINCE OF QUEBEC, SOLEMNLY DECLARE THE FOLLOWING:
+1. I am the Senior Policy Advisor, Human Resources Development Canada, Policy and Legislation Development at the Canada Employment Insurance Commission (the CEIC), with offices at 140 Promenade du Portage, in the City of Gatineau, Province of Quebec, K1A 0J9. I have been a Senior Policy Advisor since 1999.
+2. I previously performed other duties at the CEIC in the Department of Human Resources Development:
+- Investigation and Control Officer from 1993 to 1997;
+- Senior Investigations Officer from 1997 to 1998;
+- Operations Officer in 1999.
+3. The Policy and Legislation Development Directorate comes under the "Insurance Policy Branch" of the Department. Its role is to develop employment insurance scheme policies.
+The Directorate is also responsible for developing the proposed modifications to the text of the Employment Insurance Act and developing the regulatory provisions, including coverage of jobs by employment insurance.
+4. My role as senior policy advisor is to participate in the development of policy and proposed legislative provisions regarding employment insurance.
+5. As senior policy advisor, I know current and past policies regarding coverage of jobs by employment insurance.
+I- LEGISLATIVE BACKGROUND
+6. In Canada, the employment insurance scheme was created in 1940 as the result of a constitutional amendment that gave the federal Parliament exclusive jurisdiction with regard to unemployment insurance.
+7. From the beginning, only certain types of jobs were insurable. For example, jobs under the jurisdiction of a province were only insurable with consent from the province: see Schedule I of the Unemployment Insurance Act, S.C. 1940, c. 44. According to the Cousineau report, "Report of the Study for Updating the Unemployment Insurance Programme", 1968, this consent was necessary for constitutional reasons, namely because, according to this report, the federal government could not tax the provincial government and could not require it to contribute to employment insurance (p. 25, part II).
+8. The 1940 Unemployment Insurance Act contained no provision for unemployment insurance coverage of employment by a foreign government.
+9. Since the scheme was implemented, a number of foreign governments (governments of Commonwealth countries and other governments) expressed the desire to have some, if not all, of their employees working in Canada covered by unemployment insurance. Acceptance of contributions from these foreign governments did not, however, enable Canada to cover these employees with unemployment insurance in the absence of any legislative provision.
+10. As a result, on September 1, 1943, the Unemployment Insurance Act was modified to allow foreign governments who wished to have unemployment insurance coverage for jobs filled by their employees in Canada. See debates in the House of Commons, July 17, 1943. This option was offered to foreign governments with the consent of the Unemployment Insurance Commission: it was not an obligation.
+11. The 1955 Unemployment Insurance Act set out that jobs in Canada under the jurisdiction of a provincial government or under the government of a foreign country were exempt, but notwithstanding, the Unemployment Insurance Commission could include them in insurable employment with the consent of the province or the foreign government.
+12. According to my research, the Gill Report of November 1962, entitled "Report of the Committee of Inquiry into the Unemployment Insurance Act" did not contemplate modifications to the provisions of the 1955 Act and its regulation regarding the employees of foreign governments. However, it recommended that the provinces' consent for provincial employees be applied to all these employees (p. 107).
+13. The 1968 Cousineau report, supra, later studied these provisions. The report's authors indicated that if the Unemployment Insurance Commission was not able to receive contributions from the provinces, foreign governments or international organizations, the exclusion of the jobs under their jurisdiction in Canada is justified. The authors recommended following the recommendation in the 1962 Gill Report for the jobs of provincial employees (consent of the province for all employees) and in contrast, to totally exclude from insurable employment jobs for foreign governments and international organizations except, in the case of the latter, if the employees are subject to taxation in Canada.
+14. The white paper "Unemployment Insurance in the 1970s" tabled by the Minister of Labour in 1970, does not take the Cousineau report's recommendation to never cover employment by a foreign government with unemployment insurance nor does it take the Cousineau report's recommendation regarding international organizations. In both cases, it is optional: the jobs are not insured except with the consent of the foreign government or the international organization. The white paper sets out that provincial governments may choose to insure all their employees' jobs or none.
+15. The 1971 Unemployment Insurance Act and its regulations for implementation which followed the white paper, excluded from insurable employment jobs for foreign governments or international organizations but a regulation of the Unemployment Insurance Commission allowed them to be included if the foreign government or organization gave consent. The provincial employees' jobs were also excluded but an Unemployment Insurance Commission regulation enabled the provincial government to waive the exclusion and to have all provincial employees covered.
+16. The Employment Insurance Act and it regulations, which in 1996 replaced the Unemployment Insurance Act and its regulations, concur.
+17. A central component of the employment insurance scheme is its funding through employer and employee contributions. This is at the very core of the scheme's existence.
+18. According to my research, the legislative provisions that require the consent of the foreign government or the international organization to cover its jobs under their jurisdiction by employment insurance are still necessary, as neither the Employment Insurance Commission nor the Canada Customs and Revenue Agency can compel foreign embassies in Canada, foreign consulates in Canada or international organizations to pay employment insurance contributions by reason of the immunity they enjoy.
+19. From the time that consent is given, employment insurance coverage of jobs in Canada under the jurisdiction of a foreign government applies regardless of the nationality or citizenship of the targeted employees.
+II- APPLICATIONS FOR EMPLOYMENT INSURANCE COVERAGE FOR JOBS BY FOREIGN GOVERNMENTS OR INTERNATIONAL AGENCIES
+20. The Employment Insurance Commission's policy division pertaining to coverage and contributions, receives the applications for coverage made by the governments of foreign countries or political subdivisions of foreign countries and by international organizations.
+21. This Division verifies the written consent given by the foreign government or the international agency, acknowledges receipt to this government or this organization and informs the Canada Customs and Revenue Agency that the Minister of National Revenue will deem the targeted jobs insurable and that the Agency will subsequently receive employment insurance contributions.
+22. The following information was communicated to me by the acting chief of the Division: 68 consents from the governments of foreign countries or political subdivisions of foreign countries and six consents from international organizations have been given to date, to make jobs insurable in Canada.
+23. I have ascertained, following verification, that the government of the Kingdom of Morocco has not requested that jobs performed by their employees in Canada be covered by employment insurance.
+[15] Finally, the Respondent called as a witness Jean Lauzière, Senior Advisor, Privileges and Immunities, Diplomatic Corps Services at the Department of Foreign Affairs and International Trade of Canada. He explained that any foreign mission in Canada can ask the Canadian government to cover its employees working in Canada with the Canadian social system. This is permitted under the Vienna Convention on Diplomatic Relations and the Vienna Convention on Consular Relations. Where relevant, the only employees who would be insurable are permanent residents or non-accredited employees and only if and when the accrediting country signs an agreement in this regard with Canada. Thus, a foreign mission in Canada that wishes to have its Canadian employees covered by the employment insurance scheme must advise CCRA and the Department of Human Resources and make the necessary arrangements as an employer to be subject to Canadian legislation regarding their employees. Foreign diplomats are not covered by this scheme unless they personally hire private domestic servants who are permanent residents of Canada, in which case they must comply with Canadian legislation as employer of this Canadian staff.
+[16] A foreign mission is under no obligation to inform Canada about Canadian employees the mission hires in its embassies or consulates. The mission must, however, inform Canada and obtain permission from the Canadian government to hire non-citizens or individuals who do not have permanent resident status in Canada.
+[17] Mr. Lauzière explained that the purpose of both Vienna Conventions is to protect a foreign national in the performance of his work in the country in which he is working. These conventions do not replace agreements between countries to enable embassy or consulate employees to take advantage of the social system of the host country. In other words, these conventions do not seek the personal benefit of a foreign national.
+Analysis
+Foreign Missions and International Organizations Act, the State Immunity Act and both Vienna Conventions
+[18] Before addressing the application of the Charter in the present case, like Counsel for the Respondent, I am going to first attempt to outline Canada's international obligations regarding both laws, supra, and both Vienna Conventions. The relevant provisions of these laws and conventions read:
+An Act respecting the privileges and immunities of foreign missions and international organizations
+[Assented to 5th December, 1991]
+Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
+SHORT TITLE
+1. This Act may be cited as the Foreign Missions and International Organizations Act.
+. . .
+3. (1) Articles 1, 22 to 24 and 27 to 40 of the Vienna Convention on Diplomatic Relations, and Articles 1, 5, 15, 17, 31 to 33, 35, 39 and 40, paragraphs 1 and 2 of Article 41, Articles 43 to 45 and 48 to 54, paragraphs 2 and 3 of Article 55, paragraph 2 of Article 57, paragraphs 1 to 3 of Article 58, Articles 59 to 62, 64, 66 and 67, paragraphs 1, 2 and 4 of Article 70 and Article 71 of the Vienna Convention on Consular Relations, have the force of law in Canada in respect of all foreign states, regardless of whether those states are parties to those Conventions.
+. . .
+SCHEDULE I
+(Section 2)
+VIENNA CONVENTION ON DIPLOMATIC RELATIONS
+The States Parties to the present Convention,
+Recalling that peoples of all nations from ancient times have recognized the status of diplomatic agents,
+Having in mind the purposes and principles of the Charter of the United Nations concerning the sovereign equality of States, the maintenance of international peace and security, and the promotion of friendly relations among nations,
+Believing that an international convention on diplomatic intercourse, privileges and immunities would contribute to the development of friendly relations among nations, irrespective of their differing constitutional and social systems,
+Realizing that the purpose of such privileges and immunities is not to benefit individuals but to ensure the efficient performance of the functions of diplomatic missions as representing States,
+Affirming that the rules of customary international law should continue to govern questions not expressly regulated by the provisions of the present Convention,
+Have agreed as follows:
+Article 1
+For the purpose of the present Convention, the following expressions shall have the meanings hereunder assigned to them:
+(a) the "head of the mission" is the person charged by the sending State with the duty of acting in that capacity;
+(b) the "members of the mission" are the head of the mission and the members of the staff of the mission;
+(c) the "members of the staff of the mission" are the members of the diplomatic staff, of the administrative and technical staff and of the service staff of the mission;
+(d) the "members of the diplomatic staff" are the members of the staff of the mission having diplomatic rank;
+(e) a "diplomatic agent" is the head of the mission or a member of the diplomatic staff of the mission;
+(f) the "members of the administrative and technical staff" are the members of the staff of the mission employed in the administrative and technical service of the mission;
+(g) the "members of the service staff" are the members of the staff of the mission in the domestic service of the mission;
+(h) a "private servant" is a person who is in the domestic service of a member of the mission and who is not an employee of the sending State;
+. . .
+Article 10
+1. The Ministry for Foreign Affairs of the receiving State, or such other ministry as may be agreed, shall be notified of:
+(a) the appointment of members of the mission, their arrival and their final departure or the termination of their functions with the mission;
+(b) the arrival and final departure of a person belonging to the family of a member of the mission and, where appropriate, the fact that a person becomes or ceases to be a member of the family of a member of the mission;
+(c) the arrival and final departure of private servants in the employ of persons referred to in sub-paragraph (a) of this paragraph and, where appropriate, the fact that they are leaving the employ of such persons;
+(d) the engagement and discharge of persons resident in the receiving State as members of the mission or private servants entitled to privileges and immunities.
+2. Where possible, prior notification of arrival and final departure shall also be given.
+. . .
+Article 33
+1. Subject to the provisions of paragraph 3 of this Article, a diplomatic agent shall with respect to services rendered for the sending State be exempt from social security provisions which may be in force in the receiving State.
+2. The exemption provided for in paragraph 1 of this Article shall also apply to private servants who are in the sole employ of a diplomatic agent, on condition:
+(a) that they are not nationals of or permanently resident in the receiving State; and
+(b) that they are covered by the social security provisions which may be in force in he sending State or a third State.
+3. A diplomatic agent who employs persons to whom the exemption provided for in paragraph 2 of this Article does not apply shall observe the obligations which the social security provisions of the receiving State shall impose upon employers.
+4. The exemption provided for in paragraphs 1 and 2 of this Article shall not preclude voluntary participation in the social security system of the receiving State provided that such participation is permitted by that State.
+5. The provisions of this Article shall not affect bilateral or multilateral agreements concerning social security concluded previously and shall not prevent the conclusion of such agreements in the future.
+. . .
+Article 37
+. . .
+2. Members of the administrative and technical staff of the mission, together with members of their families forming part of their respective households, shall, if they are not nationals of or permanently resident in the receiving State, enjoy the privileges and immunities specified in Articles 29 to 35, except that the immunity from civil and administrative jurisdiction of the receiving State specified in paragraph 1 of Article 31 shall not extend to acts performed outside the course of their duties. They shall also enjoy the privileges specified in Article 36, paragraph 1, in respect of articles imported at the time of first installation.
+3. Members of the service staff of the mission who are not nationals of or permanently resident in the receiving State shall enjoy immunity in respect of acts performed in the course of their duties, exemption from dues and taxes on the emoluments they receive by reason of their employment and the exemption contained in Article 33.
+4. Private servants of members of the mission shall, if they are not nationals of or permanently resident in the receiving State, be exempt from dues and taxes on the emoluments they receive by reason of their employment. In other respects, they may enjoy privileges and immunities only to the extent admitted by the receiving State. However, the receiving State must exercise its jurisdiction over these persons in such a manner as not to interfere unduly with the performance of the functions of the mission.
+. . .
+SCHEDULE II
+(Section 2)
+VIENNA CONVENTION ON CONSULAR RELATIONS
+. . .
+Considering that the United Nations Conference on Diplomatic Intercourse and Immunities adopted the Vienna Convention on Diplomatic Relations which was opened for signature on 18 April 1961,
+Believingthat an international convention on consular relations, privileges and immunities would also contribute to the development of friendly relations among nations, irrespective of their differing constitutional and social systems,
+Realizing that the purpose of such privileges and immunities is not to benefit individuals but to ensure the efficient performance of functions by consular posts on behalf of their respective States,
+Affirmingthat the rules of customary international law continue to govern matters not expressly regulated by the provisions of the present Convention,
+Have agreed as follows:
+Article 1
+Definitions
+1. For the purposes of the present Convention, the following expressions shall have the meanings hereunder assigned to them:
+(a) "consular post" means any consulate-general, consulate, vice-consulate or consular agency;
+(b) "consular district" means the area assigned to a consular post for the exercise of consular functions;
+(c) "head of consular post" means the person charged with the duty of acting in that capacity;
+(d) "consular officer" means any person, including the head of a consular post, entrusted in that capacity with the exercise of consular functions;
+(e) "consular employee" means any person employed in the administrative or technical service of a consular post;
+(f) "member of the service staff" means any person employed in the domestic service of a consular post;
+(g) "members of the consular post" means consular officers, consular employees and members of the service staff;
+(h) "members of the consular staff" means consular officers, other than the head of a consular post, consular employees and members of the service staff;
+(i) "member of the private staff" means a person who is employed exclusively in the private service of a member of the consular post;
+. . .
+Article 48
+Social security exemption
+1. Subject to the provisions of paragraph 3 of this Article, members of the consular post with respect to services rendered by them for the sending State, and members of their families forming part of their households, shall be exempt from social security provisions which may be in force in the receiving State.
+2. The exemption provided for in paragraph 1 of this Article shall apply also to members of the private staff who are in the sole employ of members of the consular post, on condition:
+(a) that they are not nationals of or permanently resident in the receiving State; and
+(b) that they are covered by the social security provisions which are in force in the sending State or a third State.
+3. Members of the consular post who employ persons to whom the exemption provided for in paragraph 2 of this Article does not apply shall observe the obligations which the social security provisions of the receiving State impose upon employers.
+4. The exemption provided for in paragraphs 1 and 2 of this Article shall not preclude voluntary participation in the social security system of the receiving State, provided that such participation is permitted by that State.
+[19] Moreover, immunity is granted to foreign governments through application of the State Immunity Act. The following articles are relevant:
+An Act to provide for state immunity in Canadian courts
+SHORT TITLE
+1. This Act may be cited as the State Immunity Act.
+2. In this Act,
+"agency of a foreign state" means any legal entity that is an organ of the foreign state but that is separate from the foreign state;
+"commercial activity" means any particular transaction, act or conduct or any regular course of conduct that by reason of its nature is of a commercial character;
+"foreign state" includes
+(a) any sovereign or other head of the foreign state or of any political subdivision of the foreign state while acting as such in a public capacity,
+(b) any government of the foreign state or of any political subdivision of the foreign state, including any of its departments, and any agency of the foreign state, and
+(c) any political subdivision of the foreign state;
+"political subdivision" means a province, state or other like political subdivision of a foreign state that is a federal state.
+3. (1) Except as provided by this Act, a foreign state is immune from the jurisdiction of any court in Canada.
+(2) In any proceedings before a court, the court shall give effect to the immunity conferred on a foreign state by subsection (1) notwithstanding that the state has failed to take any step in the proceedings.
+. . .
+5. A foreign state is not immune from the jurisdiction of a court in any proceedings that relate to any commercial activity of the foreign state.
+. . .
+11. (1) Subject to subsection (3), no relief by way of an injunction, specific performance or the recovery of land or other property may be granted against a foreign state unless the state consents in writing to that relief and where the state so consents, the relief granted shall not be greater than that consented to by the state.
+(2) Submission by a foreign state to the jurisdiction of a court is not consent for the purposes of subsection (1).
+(3) This section does not apply to an agency of a foreign state.
+12. (1) Subject to subsections (2) and (3), property of a foreign state that is located in Canada is immune from attachment and execution and, in the case of an action in rem, from arrest, detention, seizure and forfeiture except where
+(a) the state has, either explicitly or by implication, waived its immunity from attachment, execution, arrest, detention, seizure or forfeiture, unless the foreign state has withdrawn the waiver of immunity in accordance with any term thereof that permits such withdrawal;
+(b) the property is used or is intended for a commercial activity; or
+(c) the execution relates to a judgment establishing rights in property that has been acquired by succession or gift or in immovable property located in Canada.
+(2) Subject to subsection (3), property of an agency of a foreign state is not immune from attachment and execution and, in the case of an action in rem, from arrest, detention, seizure and forfeiture, for the purpose of satisfying a judgment of a court in any proceedings in respect of which the agency is not immune from the jurisdiction of the court by reason of any provision of this Act.
+[20] Thus, foreign nationals working on Canadian soil for the accrediting government benefit from certain privileges and immunities such as being exempt from social security provisions in effect in Canada. Conversely, can one say that Canadian nationals who work for a foreign government on Canadian soil must necessarily be protected by the social security system in place in Canada? I think not. The preamble of both Vienna Conventions clearly states that their purpose is not to give individuals an advantage but to ensure the efficient fulfillment of the functions of diplomatic missions as representatives of governments. Neither Convention sets forth that nationals of the accrediting country (Canada) who work for the foreign government (Morocco) must be covered by the social security provisions of the accrediting government. In fact, the foreign government is not under obligation, as is the case with the diplomatic agent or a member of a consulate who hires a private Canadian servant, to observe the obligations imposed by the social laws of the accrediting country. According to these conventions, it is only voluntarily that foreign governments place themselves under local legislation regarding social security.
+[21] In addition, Canada cannot force a foreign government to contribute to a social scheme in Canada (such as employment insurance) for employees who work at its embassy or consulates, because of the immunity enjoyed by the foreign government (see legislative background presented by Stéphane Tremblay, Exhibit I-14 and especially paragraph 18, as well as Mr. Lauzière's testimony). According to sections 3 and 5 of the State Immunity Act, the foreign government has immunity before all courts in Canada, except in actions that involve commercial activities. However, as mentioned by Counsel for the Respondent, although a contract of service may be in itself a commercial activity, this does not mean that a contract of employment falls exclusively under the commercial area. Thus, Canadians who work for a sovereign foreign government have the right of recourse to Canadian courts for execution of their contract of employment.[1] But it appears that the management of the activities of a sovereign government abroad are not of a commercial nature and thus cannot be subject to Canadian legislation. Thus, in Re Canada Labour Code, [1992] 2 S.C.R. 50, a majority of justices of the Supreme Court of Canada decided that the Canadian government cannot force a foreign government to participate in collective bargaining for its employees in Canada by allowing accreditation of the Canadian staff under the Canada Labour Code. It was determined that the relationship between this objective and the management of the American naval base operated in Canada was an unacceptable infringement on American sovereignty (see page 81 of this decision). In other words, the request for accreditation on behalf of the civilian Canadian personnel directly involved the core elements of a foreign government's sovereignty that was to continue to benefit from immunity regarding procedures of this nature (see page 89 of this same decision).
+[22] Similarly, one could say as Counsel for the Respondent argued, that forcing a foreign government to contribute to a social scheme (such as employment insurance, which sets out a financial contribution from the employer) instituted by a Canadian law is an essentially government action and not a commercial action. In this matter, it is an act of sovereignty for a foreign government to choose whether or not to participate in a scheme of this type. As a result, Canada can not decide that the employees of the Embassy of Morocco must be covered by the employment insurance scheme. Moreover, a foreign government cannot be required to contribute to a scheme of this nature because immunity makes all seizure impossible in such a case (see sections 11 and 12 of the State Immunity Act). That is why the sovereign government must consent to joining Canada's employment insurance scheme. I have no reason to not acquiesce to this reasoning against which the Appellant has not, in my opinion, brought valid arguments.
+[23] Moreover, the fact that immunity from jurisdiction of the foreign country may deprive its Canadian employees of the right to the protection of labour legislation from which all other Canadians benefit, although regrettable, is the necessary consequence of Canada's commitment to respect policies of international courtesy and reciprocity (see Re Canada Labour Code, supra, at page 91).
+[24] Thus contrary to the Appellant's claim, I agree with Counsel for the Respondent that paragraphs 5(2)(d) and 5(4)(e) of the EIA and section 3 of the Regulations are consistent with articles 33 and 37 of the Vienna Convention on Diplomatic Relations as well as with article 48 of the Vienna Convention on Consular Relations, which articles are an integral part of the Foreign Missions and International Organizations Act and the State Immunity Act.
+Articles 3118 and 3149 of the CCQ and article 6 of the 1980 Rome Convention
+[25] In addition, the Appellant claims that articles 3118 and 3149 of the CCQ like article 6 of the 1980 Rome Convention, guarantee the protection of Canadian workers working in Canada and that foreign employers cannot ignore its implications.
+[26] Articles 3118 and 3149 of the CCQ read:
+3118 The designation by the parties of the law applicable to a contract of employment does not result in depriving the worker of the protection to which he is entitled under the mandatory provisions of the law of the country where the worker habitually carries on his work, even if he is on temporary assignment in another country or, if the worker does not habitually carry on his work in any one country, the mandatory provisions of the law of the country where his employer has his domicile or establishment.
+If no law is designated by the parties, the law of the country where the worker habitually carries on his work or the law of the country where his employer has his domicile or establishment is, in the same circumstances, applicable to the contract of employment.
+. . .
+3149 A Québec authority also has jurisdiction to hear an action involving a consumer contract or a contract of employment if the consumer or worker has his domicile or residence in Québec; the waiver of such jurisdiction by the consumer or worker may not be set up against him.
+[27] The Appellant reproduced Article 6 of the 1980 Rome Convention in her written brief, which reads:
+Article 6 Individual employment contracts
+1.Notwithstanding the provisions of Article 3, in a contract of employment a choice of law made by the parties shall not have the result of depriving the employee of the protection afforded to him by the mandatory rules of the law which would be applicable under paragraph 2 in the absence of choice.
+2.Notwithstanding the provisions of Article 4, a contract of employment shall, in the absence of choice in accordance with Article 3, be governed:
+(a) by the law of the country in which the employee habitually carries out his work in performance of the contract, even if he is temporarily employed in another country; or
+(b) if the employee does not habitually carry out his work in any one country, by the law of the country in which the place of business through which he was engaged is situated; unless it appears from the circumstances as a whole that the contract is more closely connected with another country, in which case the contract shall be governed by the law of that country.
+[28] First of all, I agree with Counsel for the Respondent that these provisions are rules of international private law for determining which law is applicable to the contractual obligations created by an employment contract when the law of both governments could be at issue. The choice by a foreign government to subscribe to the social scheme of another government for its employees comes under public domain. Moreover, I agree that the Rome Convention only involves countries that belong to the European Economic Community, which does not include Canada and thus, is not applicable here. Secondly, I will simply add that the Appellant wishes to be covered by Canadian law with regard to employment insurance. However, the EIA,which is the relevant law in the present case, specifically excludes the Appellant's employment from insurable employment in the present circumstances. Sections 3118 and 3149 of the CCQ and Article 6 of the Rome Convention are thus of no help to her.
+Subsection 15(1) of the Charter
+[29] The approach adopted by the Supreme Court of Canada regarding the interpretation of subsection 15(1) of the Charter focuses upon three central issues reproduced in Law v. Canada, [1999] 1 S.C.R. 497 at page 548:
+(A) whether a law imposes differential treatment between the claimant and others, in purpose or effect;
+(B) whether one or more enumerated or analogous grounds of discrimination are the basis for the differential treatment; and
+(C) whether the law in question has a purpose or effect that is discriminatory within the meaning of the equality guarantee.
+[30] Thus it must be determined whether the law involves a difference in treatment and, if so, whether this difference constitutes actual discrimination.
+[31] The Supreme Court of Canada has developed three tests that enable a decision to be made on an allegation of discrimination based on subsection 15(1) of the Charter. These three tests are (see Law, supra, pages 548 and 549):
+(A) Does the impugned law (a) draw a formal distinction between the claimant and others on the basis of one or more personal characteristics, or (b) fail to take into account the claimant's already disadvantaged position within Canadian society resulting in substantively differential treatment between the claimant and others on the basis of one or more personal characteristics?
+(B) Is the claimant subject to differential treatment based on one or more enumerated and analogous grounds?
+and
+(C) Does the differential treatment discriminate, by imposing a burden upon or withholding a benefit from the claimant in a manner which reflects the stereotypical application of presumed group or personal characteristics, or which otherwise has the effect of perpetuating or promoting the view that the individual is less capable or worthy of recognition or value as a human being or as a member of Canadian society, equally deserving of concern, respect, and consideration?
+[32] I will this analyze the facts in this case on the basis of each of these tests set out by the Supreme Court of Canada.
+(A) 1st test
+[33] Do the impugned sections of the EIA and Regulations draw a formal distinction between the Appellant and other individuals on the basis of one or more personal characteristics, thus creating inequality? To answer this question, the comparison group must be determined on the one hand and on the other, what claimed personal characteristic would cause a difference in treatment. It is up to the Appellant to choose the appropriate comparison group (see Lavoie v. Canada, [2002] 1 S.C.R. 769, at page 802). She seems to create a distinction between employees hired by foreign governments that have not consented in writing to their employees' coverage by the employment insurance scheme versus employees hired by other employers. The impugned provisions make no distinction based on the employee's nationality or citizenship as such. These provisions rather allude to work for a foreign government that has not given its written agreement. It is due to this particular situation that the Appellant is unable to take advantage of employment insurance, as opposed to an employee who may have worked for a Canadian employer or a foreign government that had given its written consent. A priori, this does not relate to a distinction based on a personal characteristic of the Appellant.
+(B) 2nd test
+[34] Is the Appellant subject to differential treatment based on one or more of enumerated or analogous grounds? Once again, the claimed distinction must involve a personal characteristic of the employee. Subsection 15(1) of the Charter enumerates grounds for discrimination: race, national or ethnic origin, colour, religion, sex, age or mental or physical disability.
+[35] In Corbiere v. Canada (Minister of Indian and Northern Affairs), [1999] 2 S.C.R. 203, paragraph 13, Bastarache and McLachlin JJ. defined the criteria for identifying a ground of distinction:
+What then are the criteria by which we identify a ground of distinction as analogous? The obvious answer is that we look for grounds of distinction that are analogous or like the grounds enumerated in s. 15 -- race, national or ethnic origin, colour, religion, sex, age, or mental or physical disability. It seems to us that what these grounds have in common is the fact that they often serve as the basis for stereotypical decisions made not on the basis of merit but on the basis of a personal characteristic that is immutable or changeable only at unacceptable cost to personal identity. This suggests that the thrust of identification of analogous grounds at the second stage of the Law analysis is to reveal grounds based on characteristics that we cannot change or that the government has no legitimate interest in expecting us to change to receive equal treatment under the law. To put it another way, s. 15 targets the denial of equal treatment on grounds that are actually immutable, like race, or constructively immutable, like religion. Other factors identified in the cases as associated with the enumerated and analogous grounds, like the fact that the decision adversely impacts on a discrete and insular minority or a group that has been historically discriminated against, may be seen to flow from the central concept of immutable or constructively immutable personal characteristics, which too often have served as illegitimate and demeaning proxies for merit-based decision making.
+[36] The Appellant claims that she has been treated differently from an employee who works for a Canadian employer or for a foreign government that has given its written consent. This is a distinction based on work categories and not on categories of individuals. This type of distinction is related to the circumstances of employment and does not give the protection of section 15 of the Charter (see Canada v. George, [1991] 1 F.C. 344 (F.C.A.); Clarke v. Canada, [1990] F.C.J. No. 436 (F.C.A.) (Q.L.); and Canada v. Taylor, 81 D.L.R. (4th) 679 (F.C.A.)). The distinction claimed by the Appellant does not involve then a personal characteristic any more than it is based on grounds analogous to the grounds enumerated in section 15 of the Charter. In fact, working for a foreign government that has not consented to coverage by Canadian legislation cannot be associated with a " personal characteristic [of the individual] that is immutable or changeable only at unacceptable cost to personal identity (see Corbiere, paragraph 13, supra). The choice made by the foreign government is an administrative decision that falls under sovereignty of governments and has nothing to do with the personal identity of this foreign government's employees. By the same token, the choice made by Canada in the impugned legislation to respect the wishes of the foreign government falls under respect of immunity of the governments and not personal characteristics or identity of this foreign government's employees.
+(C) 3rd test
+[37] Finally, does the differential treatment discriminate by withholding a benefit from the Appellant in a manner which promotes the view that the employees of embassies or consulates of foreign countries that have not given the written consent are less capable or worthy of recognition or value as human beings or members of Canadian society? To ask the question is to answer it. It is clear that the impugned legislation produces no such result. In fact, one must ask if the distinction, examined in its context, treats the subject like an individual of lesser worth or with less dignity on the basis of enumerated or analogous grounds. Thus, contextual examination must be made to determine whether the distinction, considered from the point of view of a reasonable individual placed in the Appellant's situation, adversely affects the individual's dignity (see Gosselin, supra, page 23, paragraphs 24 and 25.)
+[38] The employment insurance system is a contributory plan that provides social insurance to Canadians who suffer a loss of income from the fact that they lose their jobs or are unable to work for various reasons set out in the EIA (see Canada v. Lesiuk, [2003], F.C. 697, page 712). This scheme is self-funding both through the contributions of wage earners who perform insurable employment and the contributions of employers. However, we have seen above that a foreign government cannot be forced to contribute to this type of scheme. We have also seen, at the same time, that the Appellant never contributed to employment insurance when she was employed by the Government of Morocco in Canada. It cannot, therefore, be said that the distinction claimed by the Appellant, considered from the point of view of a reasonable individual placed in the Appellant's situation, adversely affects the dignity of the individual when one looks at the context in which the impugned provisions of the EIA were put in place.
+[39] In addition, the approach adopted by the Legislator in making employment for foreign governments insurable if and when the foreign governments consent in writing, seems a reasonable solution in order to reconcile the governments' sovereignty and the goal and objective of EIA. In fact, in this way, to the extent possible, there has been an effort to improve the situation of Canadian employees who lose their jobs after having been employed by foreign governments in Canada. Such a solution inevitably created cases in which certain groups of individuals will be unable to qualify for benefits. In this regard, I believe it is beneficial to reproduce the following observations of Justice Létourneau in Lesiuk, paragraph 67, cited supra, which summarized the remarks of the majority in Gosselin, supra:
+[67] Whatever the minimum entrance requirement, there will always be persons or groups who will not be able to qualify. The following two comments made by the majority and found at paragraph 55 of the Gosselin case are appropriate in the present case:
+Perfect correspondence between a benefit program and the actual needs and circumstances of the claimant group is not required to find that a challenged provision does not violate the Canadian Charter. The situation of those who, for whatever reason, may have been incapable of participating in the programs attracts sympathy. Yet the inability of a given social program to meet the needs of each and every individual does not permit us to conclude that the program failed to correspond to the actual needs and circumstances of the affected group. As Iacobucci J. noted in Law, supra, at paragraph 105, we should not demand "that legislation must always correspond perfectly with social reality in order to comply with subsection 15(1) of the Charter". Crafting a social assistance plan to meet the needs of young adults is a complex problem, for which there is no perfect solution. No matter what measures the government adopts, there will always be some individuals for whom a different set of measures might have been preferable. The fact that some people may fall through a program's cracks does not show that the law fails to consider the overall needs and circumstances of the group of individuals affected, or that distinctions contained in the law amount to discrimination in the substantive sense intended by subsection 15(1).
+Our role in such a situation is to ensure that the legislator has been reasonable in choosing the place where the line is to be drawn. I am satisfied that Parliament's choice in this case falls within a range of reasonable alternatives. The appropriate remedy for the respondent and the two interveners in this case, Women's Legal Education and Action Fund and Income Security Advocacy Centre, is with the legislature, not the courts.
+[40] In light of the above, I am of the opinion that the Appellant has not shown under subsection 15(1) that the impugned distinction is discriminatory in that it adversely affects her dignity and fails to respect her as a member of society in her own right.
+[41] As I found no violation of subsection 15(1) of the Charter, it is unnecessary to examine section 1 of the Charter.
+[42] The appeal is therefore dismissed and the Minister's decision is confirmed.
+Signed at Ottawa, Canada, this 31st day of May 2004.
+"Lucie Lamarre"
+Lamarre J.
+Translation certified true
+on this 20th day of August 2004.
+Sharon Winkler Moren, Translator
+[1] Thus, it seems in this case that the question of knowing whether the Appellant was remunerated or if she was legally dismissed under her employment contract with the government of Morocco was considered of a commercial nature since the Canadian courts seem to have refused immunity to the government of Morocco in this regard (see the decision of the Quebec Court of Appeal, [2003] J.Q. No. 13913 (Q.L.), in which the request for permission to appeal was dismissed by the Supreme Court of Canada on April 15, 2004, No. 30068, which decisions are part of the Appellant's file). However, it is not this matter that is raised before me but rather the question of determining whether the Appellant's employment is insurable employment as understood in the EIA, which, if so, would have the effect of forcing the government of Morocco to pay employer contributions to employment insurance. This matter was not dealt with in the hearings placing the Appellant at issue against the government of Morocco before the Quebec Court of Appeal and the Supreme Court of Canada.

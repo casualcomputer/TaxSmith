@@ -1,0 +1,178 @@
+---
+title: "Sicard De Carufel v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26462/index.do"
+last_modified: "2003-04-03"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 TCC 85"
+citation2: ""
+neutral_citation: "2003 TCC 85"
+decision_date: "2003-04-03"
+language: "en"
+item_id: "26462"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3146
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T18:20:31.447000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "1e6aa7019fbfc2c99a40ea7d5f6ded11bffec49582e2672c1da349e00132cf9a"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Sicard De Carufel v. M.N.R.
+
+- Citation: 2003 TCC 85
+- Decision date: 2003-04-03
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3146, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Sicard De Carufel v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-04-03
+Neutral citation
+2003 TCC 85
+File numbers
+2000-1428(EI)
+Judges and Taxing Officers
+Alain Tardif
+Subjects
+Canada Pension Plan
+Employment Insurance Act
+Decision Content
+Docket: 2000-1428(EI)
+BETWEEN:
+SERGE SICARD DE CARUFEL,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+________________________________________________________________
+Appeal heard on January 29, 2003, at Trois-Rivières, Quebec
+Before: The Honourable Judge Alain Tardif
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Simon-Nicolas Crépin
+____________________________________________________________________
+JUDGMENT
+The appeal is dismissed and the Minister's decision is affirmed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 3rd day of April 2003.
+"Alain Tardif"
+J.T.C.C.
+Translation certified true
+on this 9th day of March 2009.
+Brian McCordick, Translator
+Citation: 2003TCC85
+Date: 20030403
+Docket: 2000-1428(EI)
+BETWEEN:
+SERGE SICARD DE CARUFEL,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGMENT
+Tardif J.T.C.C.
+[1] This is an appeal from a determination dated February 24, 2000, in which the Respondent notified the Appellant, employed by Groupe Devesco Ltée, carrying on business as "Les Constructions et Pavages Continental Inc.", that he had 32 insurable weeks and $13,483.82 in insurable earnings for the last 20 weeks for the 1993 period, and 15 insurable weeks and $10,250.25 in insurable earnings for the 1994 period.
+[2] In support of his decision, the Respondent alleged the following facts:
+(a) The Payor operated a road and highway paving business.
+(b) The Payor kept two different sets of books for the wages it paid.
+(c) The time recorded on the workers' timesheets was not to exceed 44 hours per week per worker and any excess was recorded on a second timesheet.
+(d) The Payor was banking time for the workers.
+(e) The Appellant worked as a foreman for the Payor.
+(f) On December 8, 1993, the Payor issued a record of employment to the Appellant for the period from May 10, 1993 to November 26, 1993, indicating 27 insurable weeks and insurable earnings of $14,643.
+(g) On May 18, 1994, the Payor issued a record of employment to the Appellant for the period from January 3, 1994 to April 22, 1994, indicating 14 insurable weeks and insurable earnings of $13,179.
+(h) The records of employment do not reflect the actual number of insurable weeks and amount of insurable earnings.
+(i) For 1993 and 1994, the Appellant's actual insurable earnings and insurable weeks are those described in an appendix to the Reply to the Notice of Appeal.
+[3] After being sworn in, the Appellant denied the content of paragraphs (b), (c), (d), (h) and (i). The Appellant, who was paid as the foreman of a group of employees, denied completely that was associated in any way with a system under which certain hours of work were accumulated in order to form an insurable week. This is the procedure generally known as "time banking" or "bundling of hours". Under this practice, certain hours worked are bundled together in order to constitute full weeks, giving the worker the maximum employment insurance benefits. If the hours in question were accounted for as they should be, the benefits paid would then be significantly lower.
+[4] During the periods in issue, the Appellant was the foreman of a group of employees in a business where "bundling of hours" was practiced. The employer had set up two registers to record the hours worked by its employees so that the records of employment that were issued when they were laid off indicated that they had worked full weeks with maximum insurable earnings. In reality, these workers had performed the work bundled in a single week over a much more extended period.
+[5] The Appellant denied having participated in the system of banking hours of work so as to later bundle them into insurable weeks.
+[6] He testified articulately and gave detailed replies to a number of questions. He argued that the fact that he was paid by the week rather than by the hour excluded him from the parallel accounting of the hours recorded in the "time bank". To support and confirm his submissions, he produced a document, a sort of reconstitution of his whereabouts during one of the periods in issue.
+[7] The document was put together using information that became available two or three weeks before the trial. After stating that he lost all the relevant documents as a result of a fire at his residence, the Appellant said that he recovered the precise information concerning his schedule during the periods mentioned in the document in question.
+[8] The Respondent, for his part, submitted several exhibits and documents from which some quite definitely compelling but not necessarily hard and fast conclusions can be drawn. I refer in particular to various computer records that were among the documents seized from the employer, and to copies of invoices on which the Appellant's signature appeared, on dates when he was not supposed to be at work.
+[9] Weekly remuneration can make it unnecessary to count hours worked; consequently, that method of remuneration can be a reasonable explanation for certain unpaid hours of work, given that the overall remuneration generally covers the unscheduled work.
+[10] Such a form of remuneration does not explain everything. It does not automatically prevent a person from participating in a "bundling of hours" scheme.
+[11] Although "time banking" or "bundling of hours" suggests that the hours are accounted for one by one, it is also possible and even common for the "time bank" to be made up of full days. Generally speaking, a week in which the employee works one, two or even three days is not insurable to the maximum, hence the interest in combining these days with others.
+· For example, an employee might accumulate 40 insurable hours based on work performed over a period of several weeks at the rate of one, two or three consecutive days of work or half-days or overtime, thus exceeding the insurable maximum for the week in which the hours were worked.
+[12] Following a mega-investigation, it was determined that the Appellant's employer was practicing this system on a very extensive scale.
+[13] The company possessed two different pay registers. One recorded either overtime or the hours worked at the rate of several per week, and the other recorded the number of hours sufficient to constitute an insurable week.
+[14] The findings of the mega-investigation led to criminal proceedings; the companies concerned pleaded guilty and were punished with imposing fines.
+[15] Ms. Vaugeois, who was responsible for the cases, stated that several boxes of documents were seized. An analysis of all the documents seized, she said, enabled the investigators to draw some decisive conclusions concerning the involvement in the scheme of the great majority, if not all, of the employees.
+[16] The Respondent then identified specific documents pertaining to each of the employees. For example, in support of the decision in the Appellant's file, the Respondent relied on the following documents:
+· Computer files describing and relating specific information as to his work schedule.
+· Various invoices on which the Appellant had affixed his signature; the dates appearing on the invoices in question were dates when he was reportedly not working.
+[17] To rebut the Respondent's allegations, the Appellant argued:
+· that he had no control over his employer's deeds and actions in regard to the recording of hours worked and the various registers used for that purpose;
+· that obviously his employer had completely fabricated the computer record in question;
+· that his personal agenda refuted the data appearing on the seized documents; and
+· that the way in which he was remunerated automatically excluded him from any participation in the practice of "bundling hours".
+[18] The Appellant's evidence has the merit of raising doubts as to the possibility that he was not associated with the parallel time accounting system set up by his employer.
+[19] Are such doubts sufficient to find in his favour, on a balance of probabilities?
+[20] The Appellant emphasized a document the content of which was updated in the weeks preceding the trial; he testified on the data appearing therein with clock-like precision.
+[21] However, he was fairly ambiguous with regard to the documents on which his signature appeared. I refer in particular to his signature on some invoices the dates of which did not correspond to the work periods described on his records of employment. In this regard, the Appellant essentially claimed that he signed the invoices on a different date and that this was a common practice.
+[22] As to the other records, just as compelling and inconsistent with his submissions, the Appellant argued that his employer had a very elastic conscience and that these were clearly a falsification explained by his employer's interest in recording more hours so as to maximize expenses or overbill customers.
+[23] The direct and circumstantial evidence concerning the scope of the parallel bookkeeping shows beyond a doubt that a "bundling of hours" system was being used. Moreover, this finding was confirmed by the entering of a guilty plea. Can such decisive and compelling evidence be outweighed by mere suppositions and a document prepared in the weeks leading up to the trial?
+[24] As stated previously, the Appellant was the foreman of a crew of employees associated with the "time banking" or "bundling of hours" system. If I am to accept the Appellant's submissions, he would have to have been absent from the worksite when the men for whom he was responsible were working the hours entered in the "time bank".
+[25] In this regard, the Appellant submitted no explanation other than that his weekly remuneration as a foreman required him to perform certain unpaid duties. I fail to see how this form of remuneration required the Appellant to act as an unpaid foreman when he was in charge of employees whose hours of work were part of the "time bank".
+[26] Moreover, if being paid by the week forced him to perform unpaid work, why did the employer have a specific file in his name in regard to the time he worked? I do not think the employer created false individual files for some of its employees.
+[27] Assuming and stating more than once that his employer had fabricated, falsified or doctored certain books of account, the Appellant no doubt told himself that there was no harm in putting together a coherent document with his claims, hence the content and the numerous details contained in the principal document, the basis for his submissions.
+[28] The Appellant was certainly not the only foreman remunerated in this way. Why did he not call some of the others to testify? I doubt that it was impossible to identify one or more persons able to establish that the Appellant was an exception.
+[29] The evidence submitted by the Appellant did raise some doubts, but I certainly do not think these doubts are sufficient to outweigh the preponderance of the conclusions resulting from the investigation, analysis and reference to the documents adduced by the Respondent.
+[30] The burden of proof was on the Appellant; he had to establish the merits of his submissions on a balance of probabilities. The suspicions raised by the Appellant's evidence are not so decisive as to discredit the grounds of the determination under appeal.
+[31] Accordingly, the appeal is dismissed.
+Signed at Ottawa, Canada, this 3rd day of April 2003.
+"Alain Tardif"
+J.T.C.C.
+Translation certified true
+on this 9th day of March 2009.
+Brian McCordick, Translator
+CITATION:
+2003TCC85
+COURT FILE NO.:
+2000-1428(EI)
+STYLE OF CAUSE:
+Serge Sicard De Carufel and the Minister of National Revenue
+PLACE OF HEARING:
+Trois-Rivières, Quebec
+DATE OF HEARING:
+January 29, 2003
+REASONS FOR JUDGMENT BY:
+The Honourable Judge Alain Tardif
+DATE OF JUDGMENT:
+April 3, 2003
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Simon-Nicolas Crépin
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

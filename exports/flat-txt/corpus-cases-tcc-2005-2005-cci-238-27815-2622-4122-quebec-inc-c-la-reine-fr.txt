@@ -1,0 +1,214 @@
+Title: 2622-4122 Quebec Inc. c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27815/index.do
+Corpus path: corpus/cases/tcc/2005/2005-cci-238-27815-2622-4122-quebec-inc-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2005-05-05
+
+# 2622-4122 Quebec Inc. c. La Reine
+
+- Citation: 2005 CCI 238
+- Decision date: 2005-05-05
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 386, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+2622-4122 Quebec Inc. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-05-05
+Référence neutre
+2005 CCI 238
+Numéro de dossier
+2002-4085(IT)G
+Juges et Officiers taxateurs
+Paul Bédard
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2002-4085(IT)G
+ENTRE :
+2622-4121 QUÉBEC INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appels entendus sur preuve commune avec les appels
+d'André Prudhomme (2002‑4086(IT)G) le 4 octobre 2004
+à Montréal (Québec)
+Devant : L'honorable juge Paul Bédard
+Comparutions :
+Avocat de l'appelante :
+Me Jacques Renaud
+Avocate de l'intimée :
+Me Anne Poirier
+____________________________________________________________________
+JUGEMENT
+Les appels des cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d'imposition 1998 et 1999 sont rejetés, avec dépens, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 5e jour de mai 2005.
+« Paul Bédard »
+Juge Bédard
+Référence : 2005CCI238
+Date : 20050505
+Dossier : 2002-4085(IT)G
+ENTRE :
+2622-4121 QUÉBEC INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+ET
+Dossier : 2002-4086(IT)G
+ANDRÉ PRUDHOMME,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Bédard
+[1] Il s'agit d'appels entendus sur preuve commune en vertu de la procédure générale. Les années en litige sont les années d'imposition 1998 et 1999. L'exercice de l'appelante (la « société ») se terminait le 30 juin. Au cours de la période pertinente, la société exploitait une entreprise de transport de marchandises au Canada ainsi qu'aux États-Unis. L'appelant était le seul actionnaire et administrateur de la société. Il travaillait également pour la société à titre de mécanicien, de préposé à l'entretien et de camionneur.
+[2] Les seules questions en litige sont les suivantes :
+i) Le ministre du Revenu national (le « ministre ») était-il justifié d'ajouter au revenu de l'appelant, à titre de revenu d'entreprise, les sommes de 10 282 $ et de 10 000 $ pour les années d'imposition 1998 et 1999 respectivement? Des retraits en argent comptant avaient été effectués d'un compte bancaire[1] de la société (le « compte bancaire ») à des guichets automatiques pour des sommes totalisant 10 282 $ et 10 000 $ au cours de la période pertinente. La société comptabilisait ces retraits en débitant le compte « avances à Jeannot Lauzon », un camionneur qui travaillait pour la société. Par voie d'écritures de régularisation, la société convertissait les avances faites à monsieur Lauzon en dépenses de sous‑traitance. Je devrai déterminer qui de l'appelant ou de monsieur Lauzon devait être imposé pour ces revenus de sous-traitance.
+ii) Par ailleurs, l'appelant avait réclamé une déduction pour frais de repas, en vertu de l'alinéa 8(1)g) de la Loi, de 9 735 $ et de 9 702 $ pour les années d'imposition 1998 et 1999 respectivement. En bref, le ministre soutient à cet égard que ces dépenses avaient déjà été réclamées. Je devrai donc déterminer si tel est le cas.
+iii) À la fin des années d'imposition 1998 et 1999, la société avait fait des écritures de régularisation par lesquelles elle avait retiré du compte « avances à l'actionnaire » les dépenses prétendument faites par l'appelant pour le compte de la société et par lesquelles elle les avait ajoutées aux dépenses faites dans le but de tirer un revenu de l'entreprise. Le ministre a refusé à la société la déduction, dans le calcul du revenu tiré de son entreprise, de dépenses totalisant 10 037 $ et 6 768 $ pour les années d'imposition 1998 et 1999 respectivement et a exigé que l'appelant paie de l'impôt sur ces sommes parce que les écritures de régularisation n'étaient pas étayées par des pièces justificatives. Je devrai donc déterminer si le ministre avait tort à cet égard.
+vi) Finalement, je devrai déterminer si le ministre était justifié d'imposer aux appelants la pénalité prévue au paragraphe 163(2) de la Loi sur les revenus additionnels suivants :
+i) sur la somme de 10 282 $ qui a été ajoutée au revenu de l'appelant, à titre de revenu d'entreprise, pour l'année d'imposition 1998. Rappelons que ce revenu additionnel était lié aux retraits en argent comptant faits du compte bancaire avec la carte de guichet automatique.
+ii) sur la somme de 10 037 $ qui a été ajoutée au revenu de l'appelant à titre d'avantage conféré à un actionnaire (appropriation de fonds) pour l'année d'imposition 1998. Rappelons que ce revenu additionnel était lié à des dépenses que l'appelant aurait prétendument faites pour le compte de la société durant cette année, dépenses qui avaient réduit d'autant le compte « avances à l'actionnaire ».
+iii) sur les dépenses de 10 037 $ et de 6 768 $ prétendument engagées par la société dans le but de tirer un revenu de son entreprise en 1998 et 1999 respectivement et dont le ministre a refusé la déduction. Rappelons que la société avait, par des écritures de régularisation, traité comme siennes les dépenses prétendument faites par l'appelant pour le compte de la société.
+iv) sur une dépense de 15 641 $ liée à la réparation d'un camion de marque GMC et dont le ministre a refusé à la société la déduction dans le calcul du revenu tiré de son entreprise pour l'année d'imposition 1999, parce que la dépense n'avait pas été faite ou engagée durant cette année d'imposition.
+Analyse
+Retraits aux guichets automatiques
+[3] Examinons d'abord les assertions de l'appelant relatives à ces retraits aux paragraphes 8, 9, 10, 11, 12 et 13 de son avis d'appel :
+8. Au cours de l'année 1998, 2622 s'est portée acquéreur d'un nouveau camion de transport, qu'elle a assigné à M. Jeannot Lauzon, chauffeur;
+9. Afin de comptabiliser l'ensemble des revenus et les coûts et dépenses liés à ce nouveau camion, 2622 a ouvert et maintenu auprès de la Banque Nationale du Canada, succursale de St-Joseph de Beauce, un compte bancaire distinct, portant le no 01-300-28.
+10. Aussi, 2622 confiait à son chauffeur, Jeannot Lauzon, l'usage d'une carte de guichet automatique, lui donnant accès à ce compte et ce, pour lui permettre d'obtenir rapidement les liquidités nécessaires pour couvrir les dépenses d'opération et d'entretien du camion et ses frais de voyage;
+11. L'appelant a réalisé au cours des mois, que Jeannot Lauzon avait retiré du compte ci-avant, des sommes importantes, destinées à son usage personnel, soit approximativement 10 282 $ en 1998 et 10 000 $ en 1999;
+12. Confronté à ces faits, Jeannot Lauzon a reconnu s'être approprié ces sommes et s'est engagé à les rembourser à 2622 ce qu'il a d'ailleurs fait au cours des mois et années suivantes;
+13. Ce dernier a également admis que les sommes avaient servies à assouvir sa passion pour les jeux de hasard;
+[4] La société avait un compte appelé « avances à Jeannot Lauzon ». La société débitait ce compte des chèques qu'elle faisait et qui étaient payables à « caisse » et dont monsieur Lauzon avait bénéficié. La société débitait aussi ce compte des retraits faits du compte bancaire (par monsieur Lauzon selon l'appelant, ou par l'appelant selon l'intimée). La société créditait par ailleurs ce compte des dépenses liées à l'utilisation du camion assigné à monsieur Lauzon faites par celui-ci au bénéfice de la société et payées grâce à des retraits du compte bancaire. Enfin, par des écritures de régularisation, la société convertissait les avances faites à monsieur Lauzon en dépenses de sous-traitance. Monsieur Serge Potvin de l'Agence des douanes et du revenu du Canada (l'« ADRC ») relate qu'il avait présumé que c'était monsieur Lauzon qui avait bénéficié des contrats de sous‑traitance. Monsieur Potvin avait donc fait parvenir à monsieur Lauzon un projet de cotisation par lequel le ministre se proposait d'inclure dans la rémunération de monsieur Lauzon ces revenus de sous-traitance. À la suite des remarques de monsieur Lauzon, qui affirmait qu'il avait retiré avec la carte de guichet de petites sommes du compte bancaire et que ces sommes avaient par ailleurs été remboursées — affirmations qu'il a répétées lors du procès —monsieur Potvin a décidé d'accorder à la société la déduction de la dépense de sous‑traitance dans le calcul du revenu tiré de l'entreprise et de faire payer l'impôt sur ces revenus de sous-traitance par l'appelant plutôt que par monsieur Lauzon.
+[5] Nous faisons donc face à deux versions totalement contradictoires. Je dois souligner que les explications de l'appelant furent évasives, imprécises, ambiguës, élusives, équivoques, inintelligibles et laborieuses. Ses hésitations, le temps qu'il mettait à répondre, sa mine et ses trous de mémoire n'ont qu'ajouté à mes doutes quant à sa crédibilité. Il aurait pu à plusieurs reprises appuyer ses assertions sur une preuve documentaire adéquate et sérieuse et sur des témoignages indépendants et crédibles. Il ne l'a pas fait. J'en infère que cette preuve lui aurait été défavorable. Par ailleurs, je tiens à préciser que le témoignage de monsieur Lauzon m'a paru crédible, bien qu'imprécis à certaines occasions.
+[6] Qui donc a fait les retraits du compte bancaire? D'abord, l'appelant a témoigné que monsieur Lauzon était le seul détenteur d'une carte de guichet donnant accès au compte bancaire. L'appelant était en mesure, en l'espèce, de fournir une preuve documentaire démontrant ce fait. Il ne l'a pas fait. J'en infère que cette preuve lui aurait été défavorable. L'appelant avait une occasion unique d'établir sa crédibilité! L'appelant aurait aussi pu appuyer ses assertions sur une preuve documentaire établissant la date d'acquisition du nouveau camion et la date d'ouverture du compte bancaire. Rappelons que l'appelant a soutenu que la société avait ouvert le compte bancaire à seule fin de comptabiliser l'ensemble des revenus et des coûts et dépenses liés au nouveau camion qui avait été assigné à monsieur Lauzon. Encore une fois, l'appelant n'a pas cru bon d'appuyer ses assertions sur une preuve objective crédible.
+[7] Je note aux états de compte (pièce A-1, onglet 18) du compte bancaire qu'il y a des retraits à partir du 1er avril 1998. Pourtant, monsieur Lauzon a témoigné qu'il n'avait commencé à travailler pour la société qu'en août ou en septembre 1998. Ceci semble être appuyé par la note que l'on retrouve au rapport sur une opposition (pièce I-1, onglet 11, page 9) à l'effet que l'emploi de monsieur Lauzon avait débuté dans la semaine du 30 juin 1998. Je note que ce rapport a été déposé en preuve sans objection de la part de l'avocat des appelants. Bien que conscient que la valeur probante de ce rapport est atténuée du fait que son auteur était absent lors de l'audience, je suis toute de même d'avis qu'il est plus probable qu'improbable que monsieur Lauzon n'était pas à l'emploi de la société durant les mois d'avril, mai et juin 1998 d'autant plus que l'appelant n'a pas contredit le témoignage de monsieur Lauzon à cet égard et qu'il n'a pas déposé en preuve le relevé d'emploi de monsieur Lauzon qui aurait pu démontrer que ce dernier travaillait pour la société au moins à partir du 13 avril 1998. L'appelant ne m'a donc pas convaincu que c'était monsieur Lauzon qui avait fait les retraits du compte bancaire à partir du mois d'avril 1998 jusqu'à la date du début de l'emploi de monsieur Lauzon. Il est donc permis d'avoir de sérieux doutes sur l'assertion des appelants à l'effet que monsieur Lauzon avait fait autant de retraits (pendant toute la période pertinente) pour assouvir sa passion du jeu.
+[8] Il est fort intéressant aussi de noter que le solde débiteur du compte « avances à Jeannot Lauzon » était de 10 382,87 $ le 1er juillet 1998. Comment pouvait‑il en être ainsi, puisque l'emploi de monsieur Lauzon avait débuté après cette date? Comment concilier ce fait avec le registre parallèle de l'appelant (pièce I-4), dans lequel l'appelant notait chaque semaine le solde des retraits faits par monsieur Lauzon à son bénéfice personnel et non remboursés, qui indiquait que monsieur Lauzon ne devait que 560 $ le 30 juin 1998?
+[9] L'appelant a soutenu que les retraits faits du compte bancaire par Jeannot Lauzon à son bénéfice personnel avaient été non seulement débités au compte « avances à Jeannot Lauzon », mais aussi remboursés en totalité, donc crédités au compte « avances à Jeannot Lauzon » lors de leur remboursement. On peut donc conclure que les écritures de régularisation par lesquelles la société avait crédité le compte « avances à Jeannot Lauzon » et dont les montants étaient de 10 382 $ le 30 août 1998 et de 10 000 $ le 30 juin 1999 — rappelons que la société avait traité ces sommes comme des dépenses de sous‑traitance — n'avaient sûrement pas réduit les montants de ces retraits faits par monsieur Lauzon à son bénéfice personnel; en tout temps, ces retraits avaient été considérés par la société comme des avances qui avaient été remboursées en fin de compte. J'en déduis que la société ne pouvait réduire le montant du compte « avances à Jeannot Lauzon » par de telles écritures de régularisation que si les retraits faits du compte bancaire par monsieur Lauzon et les chèques payables à « caisse » faits par la société et (dont monsieur Lauzon avait bénéficié) avaient été tout au moins de l'ordre de 40 704 $ pendant la période pertinente, puisque les retraits faits du compte bancaire par monsieur Lauzon afin d'assouvir sa passion du jeu (soit 10 282 $ en 1998 et 10 000 $ en 1999) avaient été traités par la société en tout temps, selon l'appelant, comme des prêts qui avaient été remboursés en fin compte. L'appelant avait le fardeau de me donner des explications valables à cet égard. Malheureusement, il n'a pu relever le fardeau qui reposait sur lui. Pour tous ces motifs, je suis d'avis que le ministre était en droit d'ajouter ces revenus de sous‑traitance au revenu de l'appelant à titre de revenus d'entreprise.
+Dépenses de repas
+[10] L'appelant a modifié son avis d'appel quelques jours avant l'audience afin que lui soit reconnue une dépense de 9 735 $ en 1998 et de 9 702 $ en 1999 pour frais de repas en vertu de l'alinéa 8(1)g) de la Loi.
+Le droit
+[11] L'alinéa 8(1)g) de la Loi se lit comme suit :
+g) Employés des entreprises de transport — lorsque le contribuable a été employé par une personne dont la principale activité d'entreprise était le transport de voyageurs, de marchandises, ou de voyageurs et marchandises et que les fonctions de son emploi l'obligeaient régulièrement :
+(i) d'une part, à voyager à l'extérieur de la municipalité dans laquelle était situé l'établissement de son employeur où il devait se présenter pour son travail, et, le cas échéant, hors de la région métropolitaine où était situé cet établissement, dans des véhicules utilisés par l'employeur pour transporter les voyageurs ou marchandises,
+(ii) d'autre part, pendant qu'il était ainsi absent de cette municipalité et région métropolitaine, à engager des frais pour ses repas et son logement,
+les sommes qu'il a ainsi déboursées au cours de l'année, dans la mesure où il n'a pas le droit d'être remboursé à cet égard;
+Formule TL2
+[12] Cette formule sert à résumer les renseignements relatifs aux déplacements et doit être dûment remplie par l'employé et l'employeur. La formule doit être jointe à la déclaration de revenus de l'employé si ce dernier demande la déduction de frais de repas ou de logement.
+[13] L'alinéa 8(1)g) de la Loi prévoit notamment que le montant des allocations et des remboursements reçus ou à recevoir relativement aux repas et au logement doit être soustrait de toutes les déductions demandées à cet égard.
+[14] Toutefois, une politique administrative établie par le ministre[2] prévoit qu'il est disposé à accorder au contribuable, dans le calcul de son revenu d'emploi, une déduction de 11 $ par repas sans exiger de pièces justificatives. Le ministre oblige toutefois le contribuable à conserver un registre des déplacements réels aux fins de vérification éventuelle. Ainsi, le contribuable doit tenir une liste des déplacements effectués au cours de l'année d'imposition avec les précisions suivantes : la date et l'heure de départ, la destination, la date et l'heure d'arrivée, le nombre d'heures d'absence, le nombre de kilomètres parcourus et le nombre de repas.
+[15] Finalement, en ce qui concerne les demandes de déduction pour les frais de repas engagés pendant la période pertinente, le taux uniforme pour repas est soumis à la limite de 50 % prévue à l'article 67.1 de la Loi.
+Analyse
+[16] Il convient de souligner que l'appelant n'avait pas réclamé la déduction de ses frais de repas lors de la vérification. Il a témoigné que c'est son fiscaliste qui lui avait appris, lors des oppositions, qu'il pouvait réclamer, en vertu de l'alinéa 8(1)g) de la Loi, une déduction pour frais de repas même s'il n'avait pas conservé de pièces justificatives à cet égard. Le fiscaliste avait alors fait part à l'appelant de la politique administrative du ministre qui permet aux contribuables qui respectent par ailleurs les exigences de l'alinéa 8(1)g) de la Loi de réclamer une déduction de 11 $ par repas sans pièce justificative.
+[17] L'appelant, qui ne connaissait pas cette politique administrative pendant la période pertinente, n'avait donc pas joint la formule TL2 à ses déclarations de revenus pour les années d'imposition en cause et n'avait donc pas tenu un registre de ses déplacements réels aux fins d'une vérification éventuelle tel que l'exige la politique administrative du ministre.
+[18] L'appelant a donc tenté de reconstituer un registre de ses déplacements réels à partir de ses carnets de route. Ainsi, il a produit un résumé de ses carnets de route (pièce A-1, onglet 15) pour les années en cause. Ce résumé indique la date, les destinations pour une journée donnée et le nombre d'heures pendant lesquelles il était absent pendant une journée donnée. Il convient de souligner que ce résumé avait été préparé par la secrétaire de la société. Cette dernière n'a pas témoigné dans la présente affaire.
+[19] Est-ce que l'appelant est crédible lorsqu'il affirme qu'il n'avait pas réclamé de déduction pour frais de repas avant les oppositions parce qu'il ne connaissait pas la politique administrative du ministre, qui est disposé à accorder une déduction de 11 $ par repas sans exiger de pièces justificatives?
+[20] Cette version des faits m'apparaît tout simplement invraisemblable. L'appelant, en fait, a tenté de me faire croire qu'il ne connaissait absolument rien des règles relatives à la déduction des frais de repas. Il a même tenté de me faire croire qu'il ne reconnaissait pas le formulaire TL2[3] alors qu'il avait déjà signé un tel formulaire à titre de représentant de la société dans au moins un cas[4].
+[21] Comment l'appelant, qui est non seulement un camionneur aguerri, mais aussi l'actionnaire unique et l'administrateur unique d'une société qui oeuvre dans le domaine du transport depuis 1988, peut être ignare à ce point? Un simple camionneur n'aurait pas tenté de me faire croire une telle chose. La prétendue ignorance totale de l'appelant quant aux règles relatives à la déduction des frais de repas n'a qu'ajouté à mes doutes quant à sa crédibilité.
+[22] Certes, les fonctions de l'appelant l'obligeaient, d'une part, à voyager régulièrement aux États-Unis et au Canada et, d'autre part, à engager des frais de repas pendant qu'il était absent. Comment ne pas avoir de doutes, toutefois, au sujet de l'exactitude de la pièce A-1, onglet 15, qui est un résumé préparé par la secrétaire de la société des carnets de route de l'appelant pour les années en cause? Il aurait été intéressant d'entendre le témoignage de la secrétaire qui aurait pu corroborer le témoignage de l'appelant que le résumé reflétait fidèlement les renseignements inscrits dans les carnets de route. L'appelant aurait pu faire témoigner la secrétaire. Encore une fois, il ne l'a pas fait. J'en infère en l'espèce que cette preuve aurait pu lui être défavorable.
+[23] L'appelant devait aussi soustraire le montant des allocations et des remboursements relatifs aux repas reçus ou à recevoir de toutes les déductions demandées à l'égard de ses frais de repas. De toute évidence, il ne l'a pas fait. Monsieur Potvin, dont le témoignage n'a pas à être mis en doute en l'espèce, n'a‑t‑il pas témoigné[5] que le ministre n'avait pas fait payer à l'appelant de l'impôt sur certains chèques payables à « caisse » qu'il avait encaissés parce qu'il avait considéré, tout comme il l'avait fait pour les autres camionneurs de la société, que ces chèques constituaient des allocations raisonnables? Ce fait a semé encore plus de doute dans mon esprit quant à la crédibilité de l'appelant. Comment ne pas se demander alors si une partie des frais de repas réclamés aujourd'hui par l'appelant n'avait pas déjà été remboursée par la société, qui a par ailleurs engagé des dépenses de voyage importantes pendant les années d'imposition en cause[6].
+[24] L'appelant avait le fardeau de me convaincre, selon la prépondérance des probabilités, de l'exactitude du résumé de ses carnets de route. Il avait aussi le fardeau de me démontrer qu'il n'avait pas reçu des allocations et des remboursements relatifs aux repas et que la société n'avait pas tout simplement remboursé en partie ces frais de repas. Compte tenu du peu de crédibilité que j'accorde au témoignage de l'appelant, ainsi que de l'absence de preuve documentaire sérieuse et de témoignage indépendant et crédible qui auraient pu corroborer son témoignage, je dois conclure que l'appelant n'a pas satisfait à l'obligation qui reposait sur lui de démontrer que le ministre avait tort sur ce point.
+Avantage conféré à l'actionnaire et dépenses refusées à la société
+[25] L'appelant aurait fait ou engagé, pour le compte de la société, des dépenses de 10 037 $ et de 6 778 $ respectivement au cours des années d'imposition 1998 et 1999 de la société. Ces dépenses étaient liées à l'entretien et à la réparation des camions de la société et à l'achat d'un ordinateur.
+[26] Par des écritures de régularisation, la société :
+i) a réduit d'autant le compte « avances à l'actionnaire »; autrement dit, ces sommes avaient été ajoutées au compte « dû à l'actionnaire »;
+ii) a traité ces dépenses prétendument faites ou engagées par l'appelant pour son compte comme des dépenses de la société et les a ainsi déduites dans le calcul du revenu tiré de son entreprise.
+[27] Lors de la vérification, monsieur Potvin a refusé à la société la déduction de ces dépenses dans le calcul du revenu de son entreprise et a fait payer à l'appelant de l'impôt sur ces sommes à titre d'avantage conféré à un actionnaire par la société parce que ces dépenses n'étaient pas étayées par des pièces justificatives.
+[28] Dans le but de justifier en partie les dépenses ainsi réclamées par la société et de réfuter partiellement l'appropriation de fonds, l'appelant avait produit lors des oppositions, soit une ou deux années plus tard, quatre factures (pièce A‑1, onglet 17) d'un montant total de 6 333,33 $ des dépenses d'entretien et de réparation de camions de la société qu'il aurait faites pour le compte de la société au cours de l'année d'imposition 1998 de cette dernière. L'appelant avait aussi produit, lors des oppositions, une autre facture liée à l'achat d'un ordinateur (pièce A-1, onglet 14) que l'appelant aurait acquis en 1998 pour le compte de la société au coût de 2 528 $. Malgré les explications de l'appelant que les factures pour l'entretien et la réparation des camions avaient été égarées dans les camions et qu'il s'était assuré auprès de la comptable de la société que ces dépenses n'avaient pas déjà été réclamées par la société, le ministre avait refusé la déduction de ces dépenses, même si des pièces justificatives avaient été ultérieurement produites à leur appui. Il convient de souligner qu'en aucun temps l'appelant n'avait produit de pièces justificatives à l'appui des autres dépenses qu'il aurait faites pour le compte de la société. Ainsi, les dépenses prétendument faites par l'appelant pour le compte de la société représentant une somme de 8 174 $ ne furent en aucun temps étayées par des pièces justificatives.
+[29] Dans la présente affaire, l'appelant avait le fardeau de démontrer, selon la prépondérance des probabilités, que ces dépenses n'avaient pas déjà été déduites dans le calcul du revenu d'entreprise. La preuve de l'appelant, à cet égard, reposait uniquement sur son témoignage. Les explications de l'appelant à cet égard méritent d'être citées :
+Q. De quelle façon vous pouvez aujourd'hui venir témoigner à l'effet que ces factures-là n'ont pas été réclamées?
+R. Parce que quand on a demandé à Manon Gallant de savoir, j'avais des factures, moi, qu'on avait trouvées, qu'on avait retracées pour voir si elles étaient dans la déclaration qu'elle a produite, elle. Elle ne les avait pas, ni les photocopies, ni rien. Moi, j'avais seulement que les originaux. En fin de la semaine ou en fin du mois, le chauffeur devait me remettre toutes les factures qu'il avait en sa possession pour donner à la comptable. Et ces factures-là ne m'avaient jamais été remises parce qu'elles étaient encore dans les pads de permis, dans les pads de cuir[7].
+[30] Premièrement, il ressort notamment de ce témoignage que les camionneurs avaient oublié de remettre les factures à l'appelant. Pourtant, la preuve a révélé que quatre des cinq factures avaient été payées en argent comptant par l'appelant et non pas par les camionneurs. Ainsi, je m'explique difficilement pourquoi l'appelant a prétendu que les camionneurs auraient oublié de lui remettre les factures. Est-ce que la facture liée à l'achat de l'ordinateur avait elle aussi été égarée? Le témoignage de l'appelant fut silencieux à cet égard.
+[31] L'appelant aurait pu étayer ses assertions qu'il s'était assuré auprès de madame Gallant que ces dépenses n'avaient pas déjà été réclamées par la société par le témoignage de celle-ci. Il ne l'a pas fait. J'en infère que cette preuve lui aurait été défavorable. Il aurait aussi été fort intéressant d'entendre le témoignage de monsieur Théodore Turgeon, le camionneur de la société, qui aurait payé la réparation d'un camion de la société et qui aurait lui aussi oublié de remettre la facture à l'appelant.
+[32] En définitive, l'appelant me demande d'ajouter foi à ses assertions que ces factures avaient été égarées et ainsi qu'il n'avait pu les produire lors de la vérification et que la société ne les avait pas déjà déduites dans le calcul de son revenu d'entreprise. Compte tenu du peu de valeur probante que j'accorde par ailleurs au témoignage de l'appelant, il m'est difficile d'ajouter foi en l'espèce à ses explications quand elles ne sont pas étayées par une preuve objective valable et par un témoignage indépendant et crédible. Comment l'appelant qui, par ailleurs, n'a donné aucune explication à l'appui des dépenses de 8 174 $ qu'il aurait faites pour le compte de la société et pour lesquelles il n'avait produit aucune pièce justificative peut‑il s'attendre à ce que la Cour ajoute aveuglément foi à son témoignage?
+Pénalité
+[33] Est-ce que le ministre était justifié d'imposer à la société une pénalité en vertu du paragraphe 163(2) de la Loi à l'égard de la dépense de 15 641 $ (15 641 $ + TPS et TVQ = 17 991 $) pour la réparation du camion de marque GMC de la société durant son année d'imposition 1999? Rappelons que la dépense avait été prétendument engagée par l'appelant pour le compte de la société et que la société avait réduit d'autant le compte « avances à l'actionnaire ». À l'appui de la dépense de 15 641 $, l'appelant avait soumis un devis[8] à la société comme pièce justificative. Le mot « devis » avait été voilé par une bande de couvre-erreur. La preuve a aussi révélé que les réparations avaient été faites au début de 2000. Il faut souligner finalement que l'appelant a reconnu que le ministre était en droit de refuser à la société la déduction de cette dépense dans le calcul de son revenu pour l'année d'imposition se terminant le 30 juin 1999 et que le ministre était aussi en droit d'ajouter au revenu de l'appelant à titre d'avantage conféré à l'actionnaire pour son année d'imposition 1999 la somme de 17 991 $ (soit 15 641 $ + TPS et TVQ).
+[34] Les explications de l'appelant à cet égard méritent d'être citées (du paragraphe 352, page 92, au paragraphe 369, page 97, des notes sténographiques) :
+Q. Si on regarde l'année 1999, l'onglet suivant, l'onglet 14, Monsieur le Juge, à la page 3 du document, c'est la feuille de travail 7550-3. Alors, on voit également en haut : écriture au trente (30) juin, la réparation du général 17 991 $, alors, ça c'est la réparation selon l'estimé ou l'explication que vous avez donnée lors de votre...
+R. Oui.
+Q. Cette réparation-là de 17 991 $ a été créditée de votre compte-avances à ce moment-là?
+R. Oui.
+Q. Qu'est-ce qui s'est passé le trente (30) juin? Vous nous avez expliqué que vous aviez l'estimé, que l'estimé s'est retrouvé dans l'enveloppe qui s'est retrouvée chez Manon Gallant. Madame Gallant, je comprends qu'elle vous a appelé pour savoir si elle devait passer à la dépense ou pas cette...
+R. Dans la semaine qui a suivi que je lui avais donné l'enveloppe, oui. Mais après ça, on ne s'est pas recontactés là‑dessus.
+Q. Si on regarde l'estimé que vous lui auriez donné. À quel moment?
+R. L'estimé a été fait en novembre 98, je crois.
+Q. J'ai le même estimé, Monsieur le Juge, à l'onglet 16 de ma liste de documents. Alors, l'estimé est daté du dix-huit (18) novembre 1998. Alors, cet estimé-là aurait été remis à madame Gallant dans les semaines suivantes?
+R. Oui, avant le trente et un (31) décembre pour la fin du trimestre.
+Q. Avant le trente et un (31) décembre?
+R. Oui.
+MONSIEUR LE JUGE :
+Q. Alors, l'estimé a été remis à madame Gallant quand?
+R. Avant le trente et un (31) décembre de la même année sûrement.
+Me ANNE POIRIER :
+Q. Avant le trente et un (31) décembre 98?
+R. 98.
+Q. Au trente (30) juin ou quelques jours avant le trente (30) juin, madame Gallant vous appelle pour savoir si elle doit réclamer à la dépense la facture ou...
+R. Non, pas à ce moment-là, quand la dépense a vraiment été faite parce que la facture justement à ce moment-là, elle a été faite seulement qu'en novembre 98.
+Q. Vous, vous avez dit à madame Gallant de réclamer la dépense le trente et un (31) décembre 98?
+R. Avant le trente et un (31) décembre 98. Et après ça, on ne s'en est pas reparlé.
+Q. Pourquoi elle a attendu au trente (30) juin pour le réclamer?
+R. Écoutez, je n'en ai aucune idée, je ne suis pas comptable. Je ne sais pas. O.K., mon année fiscale se termine au trente (30) juin. Alors, c'est là probablement que la réclamation a été faite au niveau du rapport d'impôt.
+MONSIEUR LE JUGE : Je n'ai pas compris le témoignage.
+Me ANNE POIRIER : Il me dit que madame Gallant, dès le trente et un (31) décembre, a la facture d'estimé qu'elle doit passer à la dépense, si la dépense a été effectuée. Et je lui demande pourquoi est-ce que la dépense n'a été seulement indiquée qu'au trente (30) juin de l'année suivante mais dans la même année d'imposition alors que madame Gallant aurait pu vous demander en janvier 99, est-ce que je passe la dépense...
+Q. Est-ce que madame Gallant est revenue pour vous dire : ce n'est pas une dépense que je peux réclamer puisqu'il est marqué estimé?
+R. Dans la même journée que je lui ai donné les factures, elle m'a appelé durant la même semaine après pour me dire qu'il y avait le mot estimé. J'ai dit : « On attend le prêt pour faire réparer le camion. Puis cette facture-là, c'est celle-là que tu vas garder, toi, pour la mettre aux livres parce que moi, je vais garder la facture originale. » Puis à ce moment-là, c'est ça l'explication, c'est qu'à ce moment-là, on n'a pas eu les fonds. Alors, la dépense a été faite l'année d'après en novembre 98.
+Q. Avez-vous autorisé madame Gallant a rayé le mot estimé sur la facture pour qu'elle puisse la conserver?
+R. Non, c'est une suggestion qu'elle m'a faite. Je lui ai dit : « Bien oui, il n'y a pas de problème. » C'est juste ça.
+Q. Alors, vous avez acquiescé à sa demande?
+R. Oui, je le savais. J'étais au courant.
+Q. Vous le saviez.
+MONSIEUR LE JUGE :
+Q. Alors, pour être bien sûr que je comprenne. Alors, vous avez remis, entre guillemets, l'estimé vers la fin de décembre 98. Et là, madame Gallant vous a appelé à ce sujet. Vous avez dit : tu vas la passer, c'est ça que vous avez dit, tu va la passer comme dépense dans l'année?
+R. C'est la facture que tu vas garder pour toi pour les dépenses, oui, pour la comptabilité.
+Q. Elle ne l'a pas passée tout de suite mais elle l'a passée en juin?
+R. Je n'en ai aucune idée de ça. Ça c'est sûr parce que moi, ce n'est pas moi qui fais la comptabilité. Puis elle, elle habite Saint‑Calixte et moi j'habite dans la Beauce. Alors, on ne se voit pas à tous les jours. On habite à quatre-cinq kilomètres l'un de l'autre. Tout ce que je sais, c'est que la vraie dépense a été faite en 99, novembre 99 ou octobre.
+Me ANNE POIRIER :
+Q. Alors, pour l'année suivante de l'entreprise. À votre connaissance, est-ce qu'elle a été réclamée pour l'année suivante la dépense?
+R. Si quelqu'un l'a vérifié, je ne suis pas sûr, je crois que oui, elle a été réclamée pour l'année 2000.
+[35] L'appelant a donc remis à madame Gallant la pièce justificative avant le 31 décembre 1998. Pourquoi madame Gallant a-t-elle attendu le 30 juin 1999 pour faire une écriture de régularisation par laquelle elle réduisait de 17 991 $ le compte « avances à l'actionnaire »? Encore une fois, l'appelant répond « qu'il n'en a aucune idée et qu'il n'est pas comptable ». Il aurait été fort intéressant d'entendre le témoignage de madame Gallant qui aurait pu corroborer l'assertion de l'appelant que c'était elle qui avait suggéré de voiler le mot « estimé » par une bande couvre-erreur. Je m'explique mal que le seul administrateur de la société ait oublié de dire à madame Gallant que la dépense n'avait pas été faite durant l'année d'imposition 1999 de la société. Il s'agissait pourtant d'une dépense majeure en l'espèce compte tenu du faible chiffre d'affaires[9] de la société. Il est aussi fort surprenant que madame Gallant n'ait pas rappelé l'appelant avant de réduire, le 30 juin 1999, les avances de l'appelant pour lui demander si la dépense avait été réellement faite, compte tenu du fait que l'appelant lui avait mentionné qu'il attendait « le prêt pour faire réparer le camion ». Somme toute, l'appelant prétend qu'il est ignare en matière de comptabilité et qu'il s'agit d'une faute involontaire. Je suis plutôt d'avis que l'appelant a fait preuve d'une insouciance grave et d'aveuglement volontaire.
+[36] Est-ce que le ministre était justifié d'imposer aux appelants une pénalité en vertu du paragraphe 163(2) de la Loi à l'égard des autres revenus additionnels? Compte tenu de l'ensemble de la preuve, le comportement de l'appelant m'a persuadé qu'il a fait preuve tantôt d'aveuglement volontaire, tantôt d'insouciance marquée, ou tout au moins de négligence grave à l'égard de ses obligations fiscales. Il faut rappeler à cet égard l'ampleur des montants en cause, l'absence marquée de pièces justificatives et le peu de rigueur administrative des appelants. Pour ces motifs, je conclus que le ministre a su relever le fardeau qui reposait sur lui de démontrer, selon la prépondérance des probabilités, que les appelants avaient, en l'espèce, sciemment ou dans des circonstances équivalant à faute lourde, fait de faux énoncés ou des omissions dans leurs déclarations fiscales. Je suis donc d'avis que le ministre était en droit d'imposer aux appelants la pénalité prévue au paragraphe 163(2) de la Loi à l'égard des montants en cause.
+[37] Pour tous ces motifs, les appels sont rejetés avec dépens.
+Signé a Ottawa, Canada, ce 5e jour de mai 2005.
+« Paul Bédard »
+Juge Bédard
+RÉFÉRENCE : 2005CCI238
+Nº DU DOSSIER DE LA COUR : 2002-4085(IT)G et 2002-4086(IT)G
+INTITULÉ DE LA CAUSE : 2622-4121 QUÉBEC INC. ET LA REINE
+ANDRÉ PRUDHOMME ET LA REINE
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATE DE L’AUDIENCE : Le 4 avril 2005
+MOTIFS DE JUGEMENT PAR : L'honorable juge Paul Bédard
+DATE DU JUGEMENT : Le 5 mai 2005
+COMPARUTIONS :
+Avocat de l'appelante :
+Me Jacques Renaud
+Avocate de l'intimée :
+Me Anne Poirier
+AVOCATE INSCRITE AU DOSSIER :
+Pour l'appelante:
+Nom : Me Jacques Renaud
+Étude : Renaud Brodeur
+Montréal (Québec)
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Ontario
+[1] Banque Nationale du Canada, Succursale St-Joseph de Beauce, compte numéro 01-300-28.
+[2] 1C 73-21R7, Frais engagés à l'extérieur
+[3] Voir la page 72 des notes sténographiques.
+[4] Voir la pièce I-4.
+[5] Voir la page 160 des notes sténographiques.
+[6] Voir la pièce I-1, onglet 1 et 2.
+[7] Voir les pages 85 et 86 des notes sténographiques.
+[8] Voir la pièce I-1, onglet 16.
+[9] 350 631 $ en 1998 et 414 388 $ en 1999.

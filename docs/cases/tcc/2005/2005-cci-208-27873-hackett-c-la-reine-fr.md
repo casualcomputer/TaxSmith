@@ -1,0 +1,146 @@
+---
+title: "Hackett c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27873/index.do"
+last_modified: "2005-03-30"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 CCI 208"
+citation2: ""
+neutral_citation: "2005 CCI 208"
+decision_date: "2005-03-30"
+language: "fr"
+item_id: "27873"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 349
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T23:04:13.239000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "44d4e5323d9f02efde5b6b75d35ab1c6b977415e50ecc572760d5afd97d8affc"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Hackett c. La Reine
+
+- Citation: 2005 CCI 208
+- Decision date: 2005-03-30
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 349, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Hackett c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-03-30
+Référence neutre
+2005 CCI 208
+Numéro de dossier
+2004-1419(EI), 2004-1420(CPP)
+Juges et Officiers taxateurs
+Eric A. Bowie
+Sujets
+Loi sur l'assurance-emploi
+Régime de pensions du Canada
+Contenu de la décision
+Dossier : 2004-1419(EI)
+2004-1420(CPP)
+ENTRE :
+JANICE HACKETT,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+___________________________________________________________________
+Appels entendus le 25 novembre 2004, à St. John's (Terre‑Neuve‑et‑Labrador)
+Par : L’honorable juge E.A. Bowie
+Comparutions :
+Avocat de l’appelante :
+Me Jeffrey Slade
+Avocat de l’intimée :
+Me Steven Leckie
+____________________________________________________________________
+JUGEMENT
+Les appels interjetés en vertu du paragraphe 103(1) de la Loi sur l’assurance‑emploi (la « Loi ») et de l’article 28 du Régime de pensions du Canada (le « Régime ») sont rejetés, et la décision du ministre du Revenu national à l’égard de l’appel interjeté en vertu de l’article 91 de la Loi et la détermination du ministre concernant la demande qui lui a été présentée en vertu de l’article 27.1 du Régime sont modifiées parce que l’appelante n’exerçait pas un emploi assurable lorsqu’elle travaillait pour Melvyn Hickey pendant la période du 28 mai 2002 au 21 juin 2002 au sens de l’alinéa 5(1)a) de la Loi et de l’alinéa 6(1)a) du Régime.
+Signé à Ottawa, Canada, ce 30e jour de mars 2005.
+« E.A. Bowie »
+Juge Bowie
+Traduction certifiée conforme ce 23e jour de septembre 2005.
+Marie-Christine Gervais, traductrice
+Référence : 2005CCI208
+Date : 20050330
+Dossier : 2004-1419(EI)
+2004-1420(CPP)
+ENTRE :
+JANICE HACKETT,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Bowie
+[1] L’appelante a pêché avec M. Melvin Hickey pendant la période allant du 28 mai 2002 au 21 juin 2002. La question soulevée dans ces appels est de savoir si, dans le cadre de ces activités, l’appelante était considérée comme une travailleuse indépendante ou comme une personne employée par M. Hickey en vertu d’un contrat de louage de services. S’il est établi que l’appelante était une travailleuse indépendante à ce moment‑là, alors elle est visée par la définition de pêcheur qui se trouve à l’article 1 du Règlement sur l’assurance‑emploi (pêche)[1] (le « Règlement ») et elle a donc droit aux avantages plus importants prévus dans le Règlement. De plus, son statut de travailleuse indépendante ferait en sorte qu’elle n’aurait pas exercé un emploi ouvrant droit à pension selon le Régime de pensions du Canada[2] (le « Régime »). Les décisions prises selon la Loi sur l’assurance‑emploi[3] (la « Loi ») et le Régime indiquaient que Mme Hackett était employée par M. Hickey en vertu d’un contrat de louage de services, et ces décisions ont été confirmées dans le cadre d’un appel interjeté en vertu de l’article 91 de la Loi et de l’article 27 du Régime.
+[2] Voici les définitions de « pêcheur » dans le Règlement et d’« emploi » dans le Régime :
+1(1) Les définitions qui suivent s’appliquent au présent règlement.
+[…]
+« pêcheur » Travailleur indépendant se livrant à la pêche, y compris toute personne qui, n’étant pas liée par un contrat de louage de services ni ne faisant la pêche pour son divertissement personnel ou celui d’une autre personne, se livre à l’une des activités suivantes :
+a) la réalisation d’une prise;
+b) les travaux se rapportant à la réalisation ou à la manutention d’une prise, qu’il s’agisse de charger, décharger, transporter ou traiter la prise de l’équipage dont elle est membre, ou de préparer, réparer, désarmer ou remiser le bateau de pêche ou les engins de pêche utilisés par cet équipage pour faire ou manutentionner la prise, dans les cas ou elle participe également à la réalisation de la prise;
+c) la construction d’un bateau de pêche qu’elle‑même ou l’équipage dont elle est membre utilisera pour faire une prise.
+2(1) Les définitions qui suivent s’appliquent à la présente loi.
+[…]
+« emploi » L’accomplissement de services aux termes d’un contrat de louage de services ou d’apprentissage, exprès ou tacite, y compris la période d’occupation d’une fonction.
+Ces définitions nécessitent l’application du critère de la common law le plus récemment approuvé par la Cour suprême du Canada dans l’affaire 671122 Ontario Ltd. c. Sagaz Industries Canada Inc.[4] aux faits en cause.
+[3] Melvin Hickey possède son propre bateau de pêche. Lui, l’appelante et deux autres personnes pêchaient le crabe pendant la période en question. Ils ont fait plusieurs voyages pendant lesquels ils ont parfois passé la nuit en mer et parfois mis le bateau à quai à Fortune Harbour pour dormir à bord du bateau. À tour de rôle, ils exécutaient diverses tâches comme l’appâtage des casiers pour les crabes, le nettoyage du pont, la cuisine et ainsi de suite. Même si rien n’est énoncé clairement à ce sujet dans la preuve, il semble probable que M. Hickey était celui qui gouvernait le bateau, et, en tant que propriétaire et capitaine du bateau, je n’ai aucun doute qu’il était à même de diriger les autres personnes à bord en ce qui concerne leurs tâches. Les membres de l’équipage étaient payés selon un pourcentage de la prise. Pour cette période‑là, la part de l’appelante a été de 17½ %. L’appelante a indiqué dans son témoignage que lorsqu’elle montait à bord du bateau, elle apportait de l’essence pour la génératrice et de la nourriture, et qu’elle avait effectué ces achats avant de monter à bord. Selon la description qu’elle a faite des provisions qu’elle a apportées à bord, il s’agissait de quelques articles qui étaient en solde. Plusieurs reçus à l’appui des achats qu’elle a effectués ont été présentés en preuve. Selon ces reçus, il semble qu’elle a acheté de l’essence deux fois, pour un total de 50 $, et de la nourriture et des collations à deux reprises, pour un total de 47 $, et qu’elle a acheté de l’équipement personnel consistant en une combinaison, des gants et des bottes en caoutchouc, pour un total de 259,97 $.
+[4] M. Hickey, comme je l’ai indiqué, était propriétaire du bateau. Il avait aussi en sa possession les engins et le quota de pêche qui lui permettait, ainsi qu’à son équipage, de pêcher, et il acquittait toutes les dépenses, à l’exception de petits montants pour de la nourriture et de l’essence. Dans la preuve, rien n’indique que l’appelante a contribué de quelque façon que ce soit aux dépenses importantes liées à la propriété et à l’exploitation d’un bateau de pêche. Ces dépenses constituent les dépenses annuelles engagées pour payer l’assurance et effectuer les travaux d’entretien et de réparation, ainsi que les dépenses courantes, comme le carburant diesel, les appâts et le sel qui sont nécessaires pour chaque voyage, pour n’en nommer que quelques‑unes. Même les petites quantités de nourriture que l’appelante avait achetées étaient négligeables par rapport à la quantité de nourriture qu’une personne consommerait pendant la période visée par les appels.
+[5] Je passe maintenant au critère utilisé dans l’affaire Sagaz. Je ne crois pas qu’il faut considérer le contrôle comme un facteur majeur dans des affaires comme celles‑ci. Le capitaine d’un bateau a nécessairement le contrôle de son équipage en ce sens qu’il doit avoir le droit de diriger les autres membres de l’équipage non seulement en ce qui concerne les tâches, mais aussi en ce qui concerne la façon d’exécuter ces tâches. Il en va de la sécurité du bateau et de l’équipage. Le fait que le capitaine dirige le bateau n’écarte pas la possibilité que les autres membres de l’équipage, comme lui, soient considérés comme des entrepreneurs dans cette entreprise de pêche. Ce qui est encore plus important, c’est la mesure dans laquelle l’appelante avait la possibilité de réaliser un profit ou risquait de subir une perte dans le cadre de l’entreprise. Le fait qu’elle ait reçu une part de la prise milite en faveur d’une conclusion selon laquelle elle est une travailleuse indépendante. Toutefois, elle ne risquait pas vraiment de subir une perte d’exploitation. Si la pêche se révélait infructueuse, tout ce qu’elle pouvait perdre c’était son temps et des approvisionnements d’une valeur d’environ 100 $. Les dépenses importantes étaient toutes acquittées par M. Hickey. Dans le même ordre d’idées, les dépenses en capital à l’égard de l’équipement étaient prises en charge par M. Hickey. L’appelante a dépensé environ 260 $ pour s’équiper pour le voyage, mais il s’agit là de vêtements de protection qu’elle a achetés seulement pour elle‑même.
+[6] Il n’est pas totalement inutile de tenir compte de la mesure dans laquelle le travail de pêche de l’appelante fait partie intégrante des activités commerciales de M. Hickey, mais il faut considérer la question du point de vue du travailleur pour ne pas se tromper. Selon moi, le travail de l’appelante faisait tout à fait partie intégrante des activités commerciales de M. Hickey. On ne m’a présenté aucun élément de preuve indiquant que Mme Hackett avait effectué un travail semblable pour d’autres personnes à d’autres occasions, ou bien qu’elle se présentait comme étant disponible pour travailler au service d’autres personnes. Aucun élément de preuve ne me permet de conclure que la nature du travail de Mme Hackett correspondait à un travail indépendant. Aucune personne au courant des faits de la présente affaire n’estimerait que Mme Hackett est une femme d’affaires plutôt qu’une travailleuse, même si sa rémunération dépendait du succès du voyage.
+[7] Je conclus que Mme Hackett était employée par M. Hickey en vertu d’un contrat de louage de services pendant la période en question. Les appels sont donc rejetés.
+Signé à Ottawa, Canada, ce 30e jour de mars 2005.
+« E.A. Bowie »
+Juge Bowie
+Traduction certifiée conforme ce 23e jour de septembre 2005.
+Marie-Christine Gervais, traductrice
+RÉFÉRENCE : 2005CCI208
+NO DU DOSSIER DE LA COUR : 2004-1419(EI) et 2004-1420(CPP)
+INTITULÉ DE LA CAUSE : JANICE HACKETT c.
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : St. John's (Terre-Neuve-et-Labrador)
+DATE DE L’AUDIENCE : Le 25 novembre 2004
+MOTIFS DU JUGEMENT PAR : L’honorable juge E.A. Bowie
+DATE DU JUGEMENT : Le 30 mars 2005
+COMPARUTIONS :
+Avocat de l’appelante :
+Me Jeffrey Slade
+Avocat de l’intimée :
+Me Steven Leckie
+AVOCAT(S) INSCRIT(S) AU DOSSIER :
+Pour l’appelante :
+Nom : Me Donald A. MacBeath
+Étude : S/O
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa (Ontario)
+[1] L.C. 2003, ch. 15.
+[2] L.C. 1999, ch. 17.
+[3] L.C. 2004, ch. 22.
+[4] [2001] 2 R.C.S. 983.

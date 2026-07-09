@@ -1,0 +1,232 @@
+---
+title: "D'Andrea c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30403/index.do"
+last_modified: "2011-06-17"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2011 CCI 298"
+citation2: ""
+neutral_citation: "2011 CCI 298"
+decision_date: "2011-06-17"
+language: "fr"
+item_id: "30403"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7864
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T13:48:18.973000+00:00"
+cases_cited_count: 1
+cases_citing_count: 9
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "e80599390b5ef6464fe135b9c070207a2aef2c3bc85d127bba85a99d419209b8"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# D'Andrea c. La Reine
+
+- Citation: 2011 CCI 298
+- Decision date: 2011-06-17
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7864, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+D'Andrea c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2011-06-17
+Référence neutre
+2011 CCI 298
+Numéro de dossier
+2008-3291(IT)G
+Juges et Officiers taxateurs
+Valerie A. Miller
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2008-3291(IT)G
+ENTRE :
+JOHN D’ANDREA,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 17 janvier 2011, à Toronto (Ontario)
+Devant : L’honorable juge Valerie Miller
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Me Simon-Nicolas Crépin
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’encontre de la nouvelle cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 1999 est accueilli et la nouvelle cotisation est annulée.
+Signé à Ottawa, Canada, ce 17e jour de juin 2011.
+« V. A. Miller »
+Juge V. A. Miller
+Traduction certifiée conforme
+ce 29e jour d’août 2011.
+Mario Lagacé, jurilinguiste
+Référence : 2011CCI298
+Date : 20110617
+Dossier : 2008-3291(IT)G
+ENTRE :
+JOHN D’ANDREA,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge V. A. Miller
+[1] Il s’agit d’un appel interjeté par John D’Andrea à l’encontre de la nouvelle cotisation établie à son égard pour l’année d’imposition 1999, dans laquelle le ministre du Revenu national (le « ministre ») a inclus la somme de 1 877 500 $ dans son revenu en application du paragraphe 56(2) de la Loi de l’impôt sur le revenu (la « Loi »). L’avis de nouvelle cotisation a été établi au titre du paragraphe 152(4) et des pénalités ont été imposées au titre du paragraphe 163(2) de la Loi.
+[2] Pour établir la nouvelle cotisation, le ministre s’est fondé sur les hypothèses de fait suivantes :
+[traduction]
+a) le 14 octobre 1988, l’appelant, ainsi que des membres de sa famille et des amis, ont constitué en société un groupe composé de 27 actionnaires (le « groupe »).
+b) comme au fil des ans l’appelant avait été un courtier et un promoteur immobilier très actif et prospère à Sarnia, le groupe l’a nommé directeur des opérations de la société.
+c) le 7 décembre 1989, le groupe a acheté le bien « Holmes Foundry » (le « bien ») pour 1,2 million de dollars.
+d) vers la fin des années 1990, plusieurs offres ont été faites au groupe en vue de l’acquisition du bien, mais aucune de ces offres n’a été acceptée.
+e) en 1998, le groupe et l’appelant lui‑même ont retenu les services de Me Frank Fazio, avocat spécialisé en immobilier, et celui‑ci a réussi à faire rezoner le bien pour qu’il soit possible d’y aménager un casino.
+f) en 1998, les Chippewas de la Thames Land Claim Trust (les « Chippewas ») ont retenu les services de M. Charles Brudenell et de Mme Brenda Reid, deux agents immobiliers, afin qu’ils trouvent des sites pour l’aménagement potentiel de casinos.
+g) en août 1998, la coentreprise suivante a été proposée par Me Fazio à M. Brudenell, à Mme Reid et aux Chippewas :
+- les Chippewas achèteraient 50 % de la valeur du terrain alors que l’appelant fournirait le reste;
+- les Chippewas devaient fournir 50 % du terrain ou un intérêt de 50 % dans la coentreprise, les autres 50 % étant détenus par l’appelant;
+- l’appelant devait fournir 50 % du terrain ou un intérêt de 50 % dans la même coentreprise;
+- la valeur du bien telle qu’elle était précisée dans les documents était de 213 000 $ l’acre, soit un total de 3 612 000 $ pour 17 acres de terrain;
+- les Chippewas devaient fournir la licence de bingo et l’appelant devait fournir son expertise en matière d’aménagement.
+h) en février 1999, l’appelant a présenté des observations aux actionnaires du groupe pour les informer qu’il avait trouvé un acheteur qui était prêt à faire l’acquisition du bien pour 1,8 million de dollars. Il leur a également dit qu’il n’avait aucun lien avec l’acheteur.
+i) le 9 février 1999, une fusion a eu lieu entre 1075111 Ontario Inc., une société détenue par Titen Real Estate dont l’appelant était l’unique actionnaire, et 1317424 Ontario Inc., une société appartenant aux Chippewas, et a donné lieu à la création d’une nouvelle société, 1317424 Ontario Inc., dont maintenant la moitié appartient aux Chippewas et l’autre moitié appartient indirectement à l’appelant, par l’intermédiaire de 1075111 Ontario Inc.
+j) l’appelant savait avant le 31 mars 1999 que le bien valait au moins 3,7 millions de dollars.
+k) le 18 mars 1999, M. Ben Lansink, évaluateur professionnel, a établi que la valeur du bien se situait entre 4 755 000 $ et 5 000 000 $.
+l) le 31 mars 1999, le groupe a vendu le bien à 1317424 Ontario Inc. pour la somme de 1 810 050 $, le montant étant avancé par les Chippewas.
+m) en contrepartie de la conclusion de la transaction, M. Brudenell a reçu une commission de 181 005 $, qui représentait 5 % de 3 612 000 $.
+n) en juillet 1999, l’appelant a remis un état des rajustements au comptable du groupe, lequel a inscrit, conformément à l’état, une somme de 1 810 050 $ dans les registres de la société pour la vente.
+o) le groupe a déclaré une somme de 1 810 050 $ pour la vente dans sa déclaration de revenus pour l’année d’imposition 1999.
+p) l’oncle de l’appelant, M. Peter Frezza, qui était actionnaire du groupe, a découvert que l’appelant s’était associé aux Chippewas pour acheter le bien.
+q) M. Frezza a rapporté les événements à la Police provinciale de l’Ontario et l’appelant a par la suite été accusé de fraude le 20 avril 2000.
+r) le 11 juillet 2002, l’appelant a été déclaré coupable de fraude parce qu’il avait trompé ses victimes alors qu’il savait que la somme de 1,8 million de dollars qui avait été payée ne correspondait qu’à la moitié de la valeur du bien.
+s) le stratagème de l’appelant a donné lieu au transfert de la moitié du bien à 1317424 Ontario Inc. sans contrepartie.
+t) comme 1075111 Ontario Inc. détenait la moitié des actions de 1317424 Ontario Inc., elle a reçu un intérêt de 50 % dans le bien.
+u) le plan de l’appelant pour 1317424 Ontario Inc. était l’aménagement d’un casino sur le bien.
+v) lors des événements en cause, l’appelant avait le contrôle « de fait » du groupe.
+w) l’appelant a admis qu’en 1999, il était très préoccupé par le fait que la vente du bien posait problème du point de vue de l’impôt.
+[3] L’intimée a présenté en preuve les motifs du jugement rendus par le juge McGarry de la Cour supérieure de justice de l’Ontario lors du procès criminel de l’appelant. Le 31 mars 1999, le juge McGarry a conclu que la juste valeur marchande (la « JVM ») du bien était d’environ 3,6 millions de dollars. Cette conclusion a été confirmée par la Cour d’appel de l’Ontario.
+[4] Dans l’avis d’appel et lors de l’audience, l’appelant a contesté que la JVM du bien au moment de la vente était de 3 612 000 $. Il a témoigné qu’en 1999, il croyait que la JVM du bien était d’environ 2 millions de dollars. Il croyait que le groupe avait reçu la valeur intégrale du bien et il n’a reçu aucun avantage.
+[5] Le ministre a établi une nouvelle cotisation à l’égard de l’appelant en tenant compte du fait que la JVM du bien au moment de la vente le 31 mars 1999 était d’au moins 3 755 000 $.
+[6] Avant l’instruction du présent appel, l’avocat de l’appelant a avisé la Cour et l’avocat de l’intimée que l’appelant ne contestait plus la JVM du bien. Je n’ai donc pas eu à me prononcer sur la question.
+Preuve de l’appelant
+[7] L’appelant a témoigné que, vers la fin des années 1990, la rumeur circulait qu’un casino de bienfaisance exploité par le gouvernement de l’Ontario serait établi à Sarnia. Le groupe a retenu les services de Me Frank Fazio, avocat spécialisé en immobilier, lequel a réussi à faire rezoner le bien pour qu’il soit possible d’y aménager un casino.
+[8] Peu après, Me Frank Fazio a dit à l’appelant que Benchmark Realty (M. Charles Brudenell et Mme Brenda Reid) avait un client, les Chippewas, qui souhaitait faire l’acquisition d’un bien sur lequel il pourrait aménager un casino.
+[9] Me Frank Fazio a insisté pour montrer le bien à Benchmark Realty et aux Chippewas. La plupart des communications au sujet de la vente se faisaient par l’intermédiaire de Me Frank Fazio.
+[10] Vers la fin de 1998, Me Frank Fazio a dit à l’appelant que les Chippewas souhaitaient acheter le bien. Cependant, ils ne disposaient que d’une somme limitée en argent comptant et ils ne voulaient acheter le bien que s’ils trouvaient un promoteur immobilier qui accepterait de constituer une coentreprise avec eux.
+[11] Me Frank Fazio a suggéré à l’appelant d’examiner la possibilité de constituer une coentreprise avec les Chippewas. Me Frank Fazio a présenté la proposition aux Chippewas et a rédigé l’entente de coentreprise.
+[12] L’appelant a donné plusieurs raisons pour expliquer pourquoi il avait accepté de conclure la transaction que Me Frank Fazio avait négociée. Il a mentionné qu’il y avait des querelles intestines entre les divers actionnaires du groupe et que le groupe était devenu complètement dysfonctionnel. Le groupe détenait le bien depuis 10 ans et il était d’avis que la JVM du bien était d’au plus 2 millions de dollars. Pour arriver à ce chiffre, il s’était fondé sur la vente d’autres biens dans le secteur et sur les problèmes environnementaux que comportait le bien. De plus, l’appelant avait des problèmes conjugaux et son épouse était membre du groupe.
+[13] Selon le témoignage de l’appelant, il avait conclu l’entente avec les Chippewas pour que le groupe puisse obtenir 1,8 million de dollars. Il voulait aider le groupe à se [traduction] « sortir d’une mauvaise affaire ».
+[14] L’appelant a mentionné que c’était Benchmark Realty qui avait amené les Chippewas à croire que le bien valait plus de 1,8 million de dollars. Benchmark Realty a embauché un évaluateur, Ben Lansink, qui a dit que la JVM du bien était d’environ 4,7 millions de dollars. Contrairement à l’hypothèse formulée par le ministre à l’alinéa 2j) ci‑dessus, l’appelant a mentionné qu’il ne savait pas ou qu’il ne croyait pas que le bien valait au moins 3,7 millions de dollars. C’est seulement lors de son procès pour fraude qu’il a appris que Ben Lansink avait procédé à l’évaluation du bien. Cependant, il ne souscrivait pas à la conclusion de M. Lansink en ce qui concerne la JVM du bien.
+[15] L’appelant pensait que Me Frank Fazio les représentait, le groupe et lui. Après la vente du bien, il a appris que Me Frank Fazio avait reçu une commission tant de Benchmark Realty que du groupe.
+[16] Dans son témoignage, l’appelant a expliqué qu’il n’essayait pas de justifier ce qu’il avait fait. À son avis, le seul problème qui se pose relativement aux actions en 1999 est qu’il n’avait pas informé les actionnaires du groupe qu’il avait conservé un intérêt dans le bien.
+[17] Pour conclure, l’appelant a mentionné qu’il s’était en grande partie fié aux conseils de son avocat, Me Frank Fazio.
+[18] Les trois questions que je dois trancher sont les suivantes :
+a) Le ministre a‑t‑il inclus à juste titre la somme de 1 877 500 $ dans le revenu de l’appelant en application du paragraphe 56(2) de la Loi?
+b) La nouvelle cotisation est‑elle valide suivant le paragraphe 152(4) de la Loi au motif que l’appelant a fait une présentation erronée des faits par négligence, inattention ou omission volontaire?
+c) Une pénalité a-t-elle été imposée à juste titre en application du paragraphe 163(2) de la Loi?
+Paragraphe 56(2)
+[19] Le paragraphe 56(2) de la Loi dispose :
+56(2) Paiements indirects – Tout paiement ou transfert de biens fait, suivant les instructions ou avec l’accord d’un contribuable, à toute autre personne au profit du contribuable ou à titre d’avantage que le contribuable désirait voir accorder à l’autre personne — sauf la cession d’une partie d’une pension de retraite conformément à l’article 65.1 du Régime de pensions du Canada ou à une disposition comparable d’un régime provincial de pensions au sens de l’article 3 de cette loi ou d’un régime provincial de pensions visé par règlement — doit être inclus dans le calcul du revenu du contribuable dans la mesure où il le serait si ce paiement ou transfert avait été fait au contribuable.
+[20] Les quatre conditions qui doivent être remplies pour que le paragraphe 56(2) puisse s’appliquer sont énoncées dans le paragraphe lui‑même et sont les suivantes :
+a) le transfert du bien doit être fait à une autre personne que le contribuable visé par la nouvelle cotisation;
+b) la répartition doit être faite suivant les instructions du contribuable visé par la nouvelle cotisation ou avec l’accord de celui‑ci;
+c) le transfert du bien doit être fait au profit du contribuable visé par la nouvelle cotisation ou à une autre personne à titre d’avantage que ce contribuable souhaitait voir accorder à cette autre personne;
+d) le transfert aurait été inclus dans le revenu du contribuable visé par la nouvelle cotisation si ce dernier l’avait reçu lui-même[1].
+[21] En l’espèce, les quatre conditions qui sont nécessaires pour qu’il soit possible d’invoquer le paragraphe 56(2) sont remplies.
+[22] Avant la vente du bien, le 9 février 1999, l’appelant a pris des dispositions pour que 1075111 Ontario Inc. (une société détenue par Titen Real Estate, dont l’appelant était l’unique actionnaire) soit fusionnée avec 1317424 Ontario Inc. (une société appartenant aux Chippewas) en vue de créer une nouvelle société de portefeuille, 1317424 Ontario Inc. (la « nouvelle société »). Les Chippewas détenaient la moitié de la nouvelle société et l’appelant en détenait l’autre moitié, par l’intermédiaire de 1075111 Ontario Inc.
+[23] L’appelant a ordonné la vente du bien du groupe à la nouvelle société.
+[24] Le transfert du bien à la nouvelle société a été effectué au profit de 1075111 Ontario Inc. et des Chippewas. Je conclus que l’appelant voulait accorder l’avantage à 1075111 Ontario Inc. étant donné qu’il en était l’unique propriétaire.
+[25] Si le bien avait été transféré directement à l’appelant et aux Chippewas, la moitié de la valeur du bien aurait été incluse dans le revenu de l’appelant en application du paragraphe 15(1) de la Loi.
+[26] Par conséquent, je conclus que le ministre a eu raison d’inclure la somme de 1 877 500 $ dans le revenu de l’appelant, à condition qu’il puisse s’acquitter du fardeau qui lui incombe suivant le paragraphe 152(4).
+Paragraphe 152(4)
+[27] Il faut alors se demander si la nouvelle cotisation datée du 13 mars 2006, qui a été établie en vertu du paragraphe 152(4) de la Loi, est valide.
+[28] Aucune des parties n’a mentionné la date à laquelle la cotisation initiale avait été établie dans ses actes de procédure ou à l’audience. Toutefois, en raison des questions que l’appelant a soulevées dans son avis d’appel, je présume que l’avis de nouvelle cotisation daté du 13 mars 2006 a été établi en dehors du délai de prescription pour l’année d’imposition 1999 de l’appelant.
+[29] À l’instruction du présent appel, l’avocat de l’intimée a seulement présenté des observations au sujet du paragraphe 56(2). Il n’a rien mentionné concernant les paragraphes 152(4) et 163(2).
+[30] Après l’audience, j’ai demandé aux parties de me présenter des observations au sujet du paragraphe 152(4).
+[31] Le passage pertinent du paragraphe 152(4) de la Loi dispose ce qui suit :
+152(4) Cotisation et nouvelle cotisation [délai de prescription] – Le ministre peut établir une cotisation, une nouvelle cotisation ou une cotisation supplémentaire concernant l’impôt pour une année d’imposition, ainsi que les intérêts ou les pénalités, qui sont payables par un contribuable en vertu de la présente partie ou donner avis par écrit qu’aucun impôt n’est payable pour l’année à toute personne qui a produit une déclaration de revenu pour une année d’imposition. Pareille cotisation ne peut être établie après l’expiration de la période normale de nouvelle cotisation applicable au contribuable pour l’année que dans les cas suivants :
+a) le contribuable ou la personne produisant la déclaration :
+(i) soit a fait une présentation erronée des faits, par négligence, inattention ou omission volontaire, ou a commis quelque fraude en produisant la déclaration ou en fournissant quelque renseignement sous le régime de la présente loi,
+[32] C’est au ministre qu’il incombe de prouver qu’il avait le droit d’établir une nouvelle cotisation à l’égard de l’appelant en dehors de la période normale de nouvelle cotisation. Comme l’a mentionné le juge Strayer dans l’arrêt Nesbitt c. Canada :
+5 La question qu’avait à trancher la Section de première instance était de savoir si cette nouvelle cotisation était frappée de nullité parce qu’elle avait été émise au‑delà du délai de prescription de quatre ans. Il était établi que, pour que la nouvelle cotisation soit valide après avoir été faite après ce délai, le ministre aurait à faire la preuve que le contribuable avait fait « une présentation erronée des faits, par négligence, inattention ou omission volontaire... » aux termes du sous‑alinéa 152(4)a)(i) de la Loi de l’impôt sur le revenu[2].
+[33] Pour s’acquitter du fardeau qui lui incombe, le ministre doit tout d’abord prouver que l’appelant a fait une présentation erronée des faits lorsqu’il a produit sa déclaration de revenus ou fourni des renseignements sous le régime de la Loi. Ensuite, il doit également démontrer que la présentation erronée des faits a été faite par négligence, inattention ou omission volontaire[3].
+L’expression « Any Misrepresentation »
+[34] Au sous‑alinéa 152(4)a)(i), dans la version anglaise de la Loi, le terme « misrepresentation » (« présentation erronée des faits » dans la version française de la Loi) est précédé du terme « any ». Dans la décision Taylor v. M.N.R., la Cour de l’Échiquier a mentionné que l’interprétation que devait recevoir ce terme était celle d’une présentation des faits qui était fausse quant au fond et dans les faits à la date pertinente. Il y est mentionné ce qui suit :
+[traduction]
+24 Il convient également de souligner que, dans la version anglaise, l’article fait référence à « any misrepresentation » (« une fausse déclaration » dans la version française) et qu’il ne serait donc pas approprié d’interpréter ce terme d’une manière qui permettrait d’exclure un type particulier de fausse déclaration, comme une fausse déclaration involontaire. Je conclus que l’interprétation que doit recevoir l’expression « any misrepresentation », telle qu’employée dans l’article, est celle d’une déclaration qui était fausse quant au fond et dans les faits à la date pertinente, et cette expression englobe les fausses déclarations qui sont frauduleuses et celles qui sont involontaires[4].
+[35] Dans la décision Nesbitt c. Canada[5], le juge Heald était d’accord avec l’avocat de la Couronne pour dire qu’une déclaration inexacte dans une déclaration de revenus équivalait à une présentation erronée des faits. Il a fait l’observation suivante :
+22 En revanche, l’argument de l’avocat de la défenderesse selon lequel les montants inexacts inscrits dans la déclaration de revenus du demandeur constituent une « présentation erronée des faits » au sens du sous‑alinéa 152(4)a)(i) est étayé par la jurisprudence pertinente. Dans l’affaire M.N.R. v. Foot11, la Cour de l’Échiquier a examiné l’alinéa 42(4)a) de la Loi de l’impôt sur le revenu de 1948, disposition que remplace le sous‑alinéa 152(4)a)(i), soit la disposition pertinente en l’espèce. La Cour a examiné la question de savoir ce qu’était une « fausse déclaration » au sens de la disposition applicable à ce moment‑là. Elle a statué que l’expression « une fausse déclaration » était synonyme du terme [TRADUCTION] « inexacte ». L’avocat de la défenderesse a soutenu qu’une déclaration inexacte équivaut à une « présentation erronée des faits » au sens du sous‑alinéa 152(4)a)(i), précité. Je souscris à ce point de vue.
+[36] Comme j’ai déjà conclu que l’appelant avait bel et bien reçu un avantage indirect qui aurait dû être inclus dans son revenu, je conclus également que l’appelant a fait une présentation erronée des faits lorsqu’il a produit sa déclaration de revenus.
+Négligence, inattention ou omission volontaire
+[37] À l’instruction du présent appel, l’avocat de l’intimée n’a posé aucune question à l’appelant au sujet de son omission d’inclure le montant ayant fait l’objet de la nouvelle cotisation dans sa déclaration de revenus pour 1999. Aucune preuve n’a été obtenue en ce qui concerne la production par l’appelant de sa déclaration de revenus pour 1999. L’avocat de l’intimée n’a également fait aucune observation à l’audience au sujet du paragraphe 152(4) de la Loi. La question se rapportant au paragraphe 152(4) n’a tout simplement pas été abordée par l’avocat de l’intimée à l’audience.
+[38] Dans ses observations écrites, l’avocat de l’intimée a mentionné que la présentation erronée des faits était due à une omission volontaire de l’appelant. Il a fait cette assertion en se fondant sur les observations que le juge McGarry a formulées dans ses motifs du jugement pour le procès criminel de l’appelant.
+[39] Tout d’abord, j’estime que les observations auxquelles l’avocat de l’intimée renvoie expliquent pourquoi l’appelant a organisé ses affaires de façon que le bien soit détenu par la nouvelle société. Selon le juge McGarry, [traduction] « le marché avait été structuré afin qu’aucun impôt ne soit payé sur quoi que ce soit ».
+[40] Toujours selon le juge McGarry, l’appelant considérait que la transaction entre les Chippewas et lui donnerait ultérieurement lieu à des impôts sur les profits. Dans la décision du juge McGarry, on mentionnait également qu’on avait demandé à l’appelant d’éviter toute répercussion fiscale pour les Chippewas.
+[41] Selon moi, ces observations veulent dire que l’appelant pensait qu’il avait organisé ses affaires de façon à ne pas avoir à déclarer la transaction dans sa déclaration de revenus pour 1999.
+[42] Il aurait fallu que les observations, dans les motifs du jugement du juge McGarry, sur lesquelles l’intimée s’est fondée soient présentées à l’appelant de façon qu’il ait la possibilité de les expliquer. Il m’aurait alors appartenu de décider si j’acceptais l’explication fournie.
+[43] Les éléments de preuve sur lesquels le ministre s’est fondé ont suscité plus de questions qu’ils n’ont apporté de réponses. L’appelant a‑t‑il demandé conseil avant la production de sa déclaration de revenus pour 1999? L’opinion de l’appelant quant à la transaction était‑elle à ce point déraisonnable qu’elle ne pouvait honnêtement se justifier?
+[44] Il ne suffit pas de faire valoir qu’il y a eu omission volontaire. Il faut que des éléments de preuve soient présentés pour permettre de conclure qu’il y a eu omission volontaire. Les éléments de preuve sur lesquels le ministre s’est fondé dans la décision rendue par le juge McGarry ne sont pas suffisants pour lui permettre de s’acquitter du fardeau de la preuve qui lui incombe suivant le deuxième élément figurant au sous‑alinéa 152(4)a)(i)[6].
+[45] Même si le juge McGarry a conclu que l’appelant avait fraudé les actionnaires du groupe, la fraude ne permet pas automatiquement de conclure qu’il y a lieu d’établir une cotisation en application du paragraphe 152(4) de la Loi. Voici la conclusion précise qui a été formulée par le juge McGarry :
+[traduction]
+En l’espèce, je conclus qu’en ne divulguant pas les renseignements l’accusé a agi de manière malhonnête et trompeuse. De plus, je conclus qu’il n’était pas nécessaire pour la Couronne d’établir la valeur intégrale du terrain. Elle se devait plutôt d’établir que l’intérêt financier dans le bien était compromis. Dans la présente affaire, il est clair qu’en conservant un intérêt de 50 % dans le terrain l’accusé a reçu un avantage au détriment des autres actionnaires.
+[…]
+Par conséquent, compte tenu de ce qui précède, je suis convaincu hors de tout doute raisonnable qu’en ayant recours à la fraude et à la tromperie, l’accusé a bel et bien porté préjudice aux actionnaires, et une déclaration de culpabilité sera inscrite.
+[46] Selon le libellé du paragraphe 152(4), la présentation erronée des faits a trait à la production de la déclaration de revenus ou à la fourniture de renseignements dans celle‑ci.
+[47] Lorsque le ministre établit une cotisation à l’égard d’un contribuable en dehors du délai de prescription, il ne peut pas s’acquitter de la charge qui lui incombe suivant le paragraphe 152(4) si l’avocat n’aborde pas du tout la question à l’audience.
+[48] L’intimée n’a pas établi que la présentation erronée des faits avait été faite par l’appelant par négligence, inattention ou omission volontaire.
+[49] L’appel est accueilli et la cotisation est annulée.
+Signé à Ottawa, Canada, ce 17e jour de juin 2011.
+« V. A. Miller »
+Juge V. A. Miller
+Traduction certifiée conforme
+ce 29e jour d’août 2011.
+Mario Lagacé, jurilinguiste
+RÉFÉRENCE : 2011CCI298
+No DU DOSSIER DE LA COUR : 2008-3291(IT)G
+INTITULÉ : JOHN D’ANDREA ET
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Le 17 février 2011
+MOTIFS DU JUGEMENT : L’honorable juge Valerie Miller
+DATE DU JUGEMENT : Le 17 juin 2011
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Me Simon-Nicolas Crépin
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Neuman c. M.R.N., [1998] 1 RCS 770, au paragraphe 32
+[2] 96 D.T.C. 658 (CAF)
+[3] Nesbitt c. La Reine, (1996) A.C.F. no 19 (C.F. 1re inst.), au paragraphe 10; Boyer c. Canada, 2008 CCI 88, au paragraphe 16
+[4] [1961] C.T.C. 211 (C. de l’É.)
+[5] (1996) A.C.F. no 19 (C.F. 1re inst.)
+[6] Markakis v. M.N.R., [1986] 1 C.T.C. 2318 (CCI)

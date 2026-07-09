@@ -1,0 +1,132 @@
+---
+title: "Sourani v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29205/index.do"
+last_modified: "2009-04-27"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 TCC 210"
+citation2: ""
+neutral_citation: "2009 TCC 210"
+decision_date: "2009-04-27"
+language: "en"
+item_id: "29205"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6701
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T01:20:07.922000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "9d6071038f5c449da767becf3f9c8ce035a0d35ac1dfafa34be657a894f0e4d5"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Sourani v. The Queen
+
+- Citation: 2009 TCC 210
+- Decision date: 2009-04-27
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6701, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Sourani v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2009-04-27
+Neutral citation
+2009 TCC 210
+File numbers
+97-1896(IT)G
+Judges and Taxing Officers
+Robert James Hogan
+Subjects
+Income Tax Act
+Decision Content
+Dockets: 97-1896(IT)G
+98-1350(IT)G
+BETWEEN:
+RON S. SOURANI,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Motion heard on January 26, 2009, at Toronto, Ontario.
+Before: The Honourable Justice Robert J. Hogan
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Annette Evans
+Paolo Torchetti
+____________________________________________________________________
+ORDER
+Upon motion filed by the Appellant on June 30, 2008 seeking an order (i) compelling the Respondent to produce a list of all documents provided by the Appellant to the Canada Revenue Agency (the “CRA”); (ii) compelling the Respondent to accept the Appellant’s tax returns as filed for the 1984, 1985, 1986, 1987, 1988, 1989, 1990, 1991 and 1992 taxation years; (iii) vacating the reassessments issued by the CRA; and (iv) awarding damages to the Appellant for abuse of process by the CRA and requiring that the Appellant be reimbursed for all expenses incurred to date;
+And upon hearing the submissions of the parties;
+The motion is dismissed in accordance with the attached Reasons for Order.
+It is further ordered that
+1. any examinations for discovery shall be completed no later than 90 days from the date of this Order;
+2. undertakings given at the examinations for discovery shall be satisfied no later than 30 days following the expiration of the 90-day period provided for in paragraph 1;
+3. the appeals be set down for hearing jointly with the appeal of Anat Sourani at the Tax Court of Canada, Federal Judicial Centre, 180 Queen Street West, 6th Floor, Toronto, Ontario, commencing at 9:30 a.m. on November 16, 2009 for an estimated duration of four days.
+Signed at Ottawa, Canada, this 27th day of April 2009.
+« Robert J. Hogan »
+Hogan J.
+Citation: 2009 TCC 210
+Date: 20090427
+Dockets: 97-1896(IT)G
+98-1350(IT)G
+BETWEEN:
+RON S. SOURANI,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Hogan J.
+[1] The Appellant filed notices of appeal more than ten years ago with respect to notices of reassessment issued for his 1984, 1985, 1986, 1987, 1988, 1989, 1990, 1991 and 1992 taxation years.
+[2] The Appellant argues that his appeals have been prejudiced because the Canada Revenue Agency (the “CRA”) has failed to properly examine the documents produced by him in support of his appeals, and further, that the CRA has failed to return to him as previously agreed all documents that were submitted by his former counsel.
+[3] Counsel for the Respondent alleges that the CRA has returned to the Appellant all of the documents filed on his behalf. Furthermore, the Respondent alleges that it has offered to help the Appellant in collecting the documents required to assist the Appellant in his appeals. The Respondent has asked that the Appellant’s appeals be set down for hearing jointly with the appeal of Anat Sourani (97‑1894(IT)G), the Appellant’s former spouse. The Respondent submits that the three appeals involve similar transactions, some of which involve both taxpayers.
+[4] The Appellant, in response to questions posed by me during the hearing of this motion, admitted quite candidly that he failed to keep proper books and records of his trading activities that are the object of reassessments issued by the Minister of National Revenue (the “Minister”). I reminded the Appellant that he had an obligation to do so and that he would face the burden of making a prima facie case that rebuts the assumptions of fact relied on by the Minister in making the reassessments.
+[5] I note that the Appellant first made the allegation that the CRA had lost his documents in 1999. It is now 10 years later and the Appellant admits that he has not taken any concrete steps to obtain copies of the transaction documents from the brokers he dealt with in the years in question. The Appellant also admits that he failed to make copies or keep a list of the documents he claims were lost by the CRA, thus making it impossible for the Court to verify the veracity of his allegation. The Appellant appears intent on arguing his appeals on the sole basis that the reassessments are vitiated because documents were supposedly lost by the CRA.
+[6] I agree with the Respondent’s submission that this Court should not determine the validity of assessments or reassessments in a summary fashion following a hearing of a motion presented by one of the parties to the dispute. The question of the validity of the reassessments should be determined at the conclusion of the full appeal process. This Court does not have jurisdiction to vacate assessments or reassessments on the basis of allegations of misconduct by the CRA, as the Appellant sought to have it do. In point of fact, the Appellant’s admitted disregard for the duty of proper record-keeping has more to do with the situation that he now faces than the supposed failure of the CRA to return to him the documents that he allegedly filed with the CRA in 1998. Furthermore, this Court does not have any power to award damages or to issue a mandamus to compel the Minister or the CRA to undertake specific actions.
+[7] For these reasons, the Court orders that any examinations for discovery that either party wishes to conduct shall be completed no later than 90 days from the date of the Order, that any undertakings given at any examinations for discovery shall be completed no later than 30 days after the expiration of the 90-day period, and that the Appellant’s appeals shall be set down for hearing jointly with the appeal of Anat Sourani at the Tax Court of Canada, Federal Judicial Centre, 180 Queen Street West, 6th Floor, Toronto, Ontario, commencing at 9:30 a.m. on November 16, 2009 for an estimated duration of four days. In the event that any of the above Appellants’ appeals is settled prior to the hearing date, the remaining appeals shall proceed.
+Signed at Ottawa, Canada, this 27th day of April 2009.
+« Robert J. Hogan »
+Hogan J.
+CITATION: 2009 TCC 210
+COURT FILE NOS.: 97-1896(IT)G, 98-1350(IT)G
+STYLE OF CAUSE: RON S. SOURANI v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: January 26, 2009
+REASONS FOR ORDER BY: The Honourable Justice Robert J. Hogan
+DATE OF ORDER: April 27, 2009
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Annette Evans
+Paolo Torchetti
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,130 @@
+Title: Slobodrian v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26350/index.do
+Corpus path: corpus/cases/tcc/2005/2005-cci-8-26350-slobodrian-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2005-01-11
+
+# Slobodrian v. The Queen
+
+- Citation: 2005 CCI 8
+- Decision date: 2005-01-11
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3363, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Slobodrian v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-01-11
+Référence neutre
+2005 CCI 8
+Numéro de dossier
+2004-589(IT)I
+Juges et Officiers taxateurs
+Paul Bédard
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2004-589(IT)I
+ENTRE :
+RODOLFO JOSÉ SLOBODRIAN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Appels entendus le 6 décembre 2004 à Québec (Québec)
+Devant : L'honorable juge Paul Bédard
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocat de l'intimée :
+Me Benoît Mandeville
+JUGEMENT
+Les appels des cotisations établies en vertu de la Loi de l'impôt sur le revenu pour les années d'imposition 1999, 2000, 2001 et 2002 sont rejetés selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 11e jour de janvier 2005.
+« Paul Bédard »
+Juge Bédard
+Référence : 2005CCI8
+Date : 20050111
+Dossier : 2004-589(IT)I
+ENTRE :
+RODOLFO JOSÉ SLOBODRIAN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Bédard
+[1] L'appelant interjette appel de cotisations d'impôt sur le revenu établies pour les années d'imposition 1999, 2000, 2001 et 2002 (les « années d'imposition pertinentes » ). Le ministre du Revenu national (le « ministre » ) a rejeté les crédits d'impôt pour dons de bienfaisance demandés relativement à de prétendus dons de 44 993,00 $ en 1999, de 29 113,00 $ en 2000, de 18 000,00 $ en 2001 et de 37 600,00 $ en 2002. Si le ministre a rejeté ces crédits d'impôt, c'est essentiellement parce qu'aucun bien n'a été donné par l'appelant au cours des années d'imposition pertinentes et que les dons ne sont pas attestés par des reçus contenant les renseignements prescrits, comme l'exige le paragraphe 118.1(2) de la Loi de l'impôt sur le revenu (la « Loi » ).
+[2] Au début de l'audience, l'appelant a admis les faits énoncés au paragraphe 11 de la Réponse à l'avis d'appel, exception faite des alinéas c), d), e), f) et g). Voici le libellé du paragraphe 11 :
+[TRADUCTION]
+a) pendant les années en litige, l'appelant était retraité de l'Université Laval;
+b) pendant les années en litige, l'appelant a participé à des projets de recherche et a enseigné à l'Agence spatiale canadienne;
+c) dans les déclarations de revenus qu'il a produites pour les années d'imposition en litige, l'appelant a demandé des montants de crédit d'impôt pour dons de bienfaisance rattachés aux sommes de 44 993,00 $, de 29 113,00 $, de 18 800,00 $ et de 37 600,00 $ pour les années d'imposition 1999, 2000, 2001 et 2002 respectivement, au titre des heures, non rémunérées, consacrées à des travaux de recherche pour l'Université Laval (l' « employeur » );
+d) l'appelant n'a demandé aucune rétribution à l'employeur;
+e) aucun feuillet T4 n'a été préparé par l'employeur relativement aux montants indiqués à l'alinéa c) ci-dessus;
+f) relativement aux années d'imposition en litige, l'appelant n'a pas établi qu'il avait fait don de biens à l'employeur;
+g) relativement aux années d'imposition en litige, l'appelant n'a pas présenté au ministre de reçus officiels délivrés par une organisation enregistrée conformément à l'article 3501 du Règlement de l'impôt sur le revenu;
+h) l'appelant a déposé à la Cour canadienne de l'impôt un avis d'appel à l'égard de l'année d'imposition 1995, la question en litige étant la même qu'en l'espèce;
+i) cet avis d'appel a reçu le numéro 97-812(IT)I;
+j) la juge Louise Lamarre-Proulx a rejeté l'appel dans un jugement rendu le 15 mai 1998;
+k) l'appelant a également déposé à la Cour canadienne de l'impôt un avis d'appel à l'égard des années d'imposition 1996, 1997 et 1998, la question en litige étant la même qu'en l'espèce;
+l) cet avis d'appel a reçu le numéro 2000-3121(IT)I;
+m) le juge Pierre Archambault a rejeté cet appel dans un jugement rendu le 18 octobre 2001;
+n) cette décision a été soumise à la Cour fédérale du Canada (dossier : A-497-01);
+o) la décision du juge Pierre Archambault a alors été confirmée;
+p) les hypothèses de fait exposées aux alinéas k), l), m), n) et o) ont d'abord été formulées par le ministre lorsqu'il a confirmé les cotisations.
+[3] Je ne juge pas utile d'exposer le détail des faits en cause dans les présents appels puisqu'ils sont semblables pour l'essentiel à ceux énoncés dans les motifs du jugement de la juge Lamarre Proulx publiés dans [1998] 3 C.T.C. 2454 et dans les motifs du jugement du juge Archambault publiés dans [2001] A.C.I. no 702.
+[4] La preuve a révélé :
+i) qu'en 1999, l'appelant, chercheur principal dans le cadre d'un contrat conclu avec l'Agence spatiale canadienne, a effectué de la recherche scientifique dans le cadre du contrat 9F007-8-5009TPS6C au département de physique de la Faculté des sciences et de génie de l'Université Laval (la « Faculté » ). Il avait, au cours de cette année, enseigné pendant trois semaines aux étudiants de l'Université. Il n'avait pas perçu pour cette année une rémunération pour les activités de recherche et d'enseignement supérieur. L'appelant a aussi produit une lettre de l'Université Laval (pièce I-1) dans laquelle le directeur de la Faculté a fourni une évaluation monétaire des services offerts par l'appelant. Il estime à 47 040,00 $ la valeur des services fournis en 1999, somme qui équivaut à 1 960 heures de travail à un taux de rémunération horaire de 24 $. Ce taux horaire de 24 $ correspondait au taux de rémunération de l'adjoint principal de l'appelant et représentait, selon le directeur, la valeur la plus basse que l'on puisse attribuer au travail de l'appelant.
+ii) qu'en 2000, l'appelant a effectué de la recherche scientifique dans le cadre du même contrat qu'en 1999. Il avait aussi fait au cours de cette année de nouvelles propositions de recherche au Conseil de recherches en sciences naturelles et en génie-Canada (CRSNG) et à l'Agence spatiale canadienne. En 2000, il avait aussi donné des cours et il n'avait pas perçu une rémunération pour les activités de recherche et d'enseignement supérieur. L'appelant a aussi produit une lettre (pièce I-1) analogue à celle de 1999, dans laquelle le directeur de la Faculté a fourni une évaluation monétaire des services offerts par l'appelant. Il a estimé à 11 040,00 $ la valeur des services de recherche et à 14 720 $ la valeur des services liés à l'enseignement à la préparation des propositions.
+iii) qu'en 2001, l'appelant a effectué de la recherche scientifique dans le cadre d'un contrat (pièce A-3) d'une durée de cinq mois qu'il a conclu avec l'Agence spatiale canadienne. Il a envoyé trois rapports avec les résultats de sa recherche à l'Agence. Il a aussi, pendant cette année, conseillé des étudiants de la Faculté et dirigé un travail de maîtrise d'un étudiant. Il a aussi participé à la phase A du projet ICAPS de la Station spatiale internationale de l'Agence Spatiale Européenne. Il n'a pas reçu de rémunération pour les activités de recherche et d'enseignement supérieur. L'appelant a aussi produit une lettre (pièce I-1) analogue à celles de 1999 et 2000, dans laquelle le directeur de la Faculté a fourni une évaluation monétaire des services offerts par l'appelant. Il a estimé la valeur des services de recherche à 18 800 $. Aucune valeur n'a été fournie quant aux autres services offerts par l'appelant.
+iv) qu'en 2002, l'appelant a préparé une proposition de recherche (Nanostructures fractales produites par évaporation-condensation au laser en gravité réduite) pour un concours de l'Agence spatiale canadienne, d'une durée de deux ans (pièce A-1). Dans une lettre en date du 4 novembre 2002 (pièce A-1) l'Agence spatiale canadienne confirmait à l'appelant que sa proposition était retenue et qu'un contrat serait signé ultérieurement à cet égard, contrat qui d'ailleurs est entré en vigueur en 2003. L'appelant a aussi conseillé des étudiants de la Faculté et dirigé le travail de doctorat d'un étudiant. Il a aussi participé à la phase A du projet ICAPS de la Station spatiale internationale de l'Agence Spatiale Européenne. L'appelant a aussi produit une lettre (pièce I-1) analogue à celles de 1999, 2000 et 2001 dans laquelle le directeur de la Faculté a fourni une évaluation monétaire de services offerts par l'appelant. Il a estimé la valeur des services à 37 600 $. Cette lettre fait aussi état de dons en espèces de l'appelant de l'ordre de 3 615,76 $. En 2002, l'appelant n'a pas perçu une rémunération pour ses services.
+Position de l'appelant
+[5] Au soutien de sa demande, l'appelant affirme avoir fait un don d'une recherche scientifique et d'un « enseignement supérieur » et non de services. Il a soutenu que ses recherches avaient produit des résultats, qui ont été présentés à Travaux publics et Services gouvernementaux Canada sous forme d'études et de rapports (pièce A-9). Selon lui, ces travaux avaient donné lieu à la création de biens intellectuels. Subsidiairement, l'appelant a fait valoir que la Loi ne restreint pas explicitement l'objet d'un don à des « biens » . Il affirme qu'il a fait un [Traduction] « don en nature » (donation in kind) (c'est-à-dire un don de biens ou de travail et non un don en argent, selon le Oxford Dictionnary of Current English). Selon lui, rien n'empêche la reconnaissance d'un don de services aux fins de la Loi.
+Analyse et décision
+[6] Aux fins de la Loi, un don doit comporter le transfert d'un bien au sens juridique de ce terme. La simple prestation de services sans rémunération ne vise aucun bien et ne peut donc faire l'objet d'une donation. Comme le soulignait le juge Noël de la Cour d'appel fédérale dans l'affaire Slobodrian c. Canada (Ministre du Revenu National - M.R.N.), [2003] A.C.F. no 1414; 2003 FCA 350, il faut comparer cette situation à celle de services rémunérés qui, une fois rendus, confèrent des droits de propriété qui peuvent faire l'objet d'une donation. À ce titre, il donnait l'exemple fort simple du travailleur rémunéré qui cède gratuitement son droit à la rémunération qui lui est due. Il convient de souligner qu'en l'espèce, il n'est pas contesté que l'appelant devait fournir ses services sans aucune rémunération.
+[7] Il convient de rappeler que l'appelant prétend qu'à la suite de ses efforts, l'Agence spatiale canadienne est devenue propriétaire d'une recherche ayant une certaine valeur. Selon lui, cette recherche était une propriété intellectuelle susceptible de faire l'objet d'un don.
+[8] Il ne m'est pas nécessaire de décider si les efforts de l'appelant se sont transformés en quelque sorte en propriété intellectuelle puisque la preuve a révélé :
+i) qu'en 1999, 2000 et 2001, les accords, en vertu desquels la recherche a été effectuée, prévoyaient que toute propriété intellectuelle découlant de la recherche serait dévolue au Canada et non à l'Université Laval ou à un membre de l'équipe de recherche.
+ii) qu'en 2002, l'appelant n'avait pas effectué de la recherche comme telle mais avait plutôt préparé une proposition de recherche qui a fait l'objet d'un contrat qui est entré en vigueur en 2003.
+iii) que les autres services offerts par l'appelant au cours des années d'imposition pertinentes étaient liés essentiellement à des services d'enseignement et de tutorat.
+Il s'ensuit que l'appelant n'aurait pu devenir propriétaire de la propriété intellectuelle dont il prétend avoir fait le don.
+[9] Enfin, les reçus présentés par l'appelant attestant la valeur du don allégué ne respectent pas les exigences du paragraphe 118.1(2) de la Loi et de l'article 3501 du Règlement. En effet, ils ne comportaient pas le numéro d'enregistrement de leur auteur, ni n'attestaient que le signataire était dûment autorisé à établir ces reçus comme l'exige l'article 3501 du Règlement. Selon le paragraphe 118.1(2) de la Loi, un don de bienfaisance ne peut être reconnu à moins d'être établi au moyen d'un reçu qui contient ces renseignements.
+[10] Pour ces motifs, les appels sont rejetés.
+Signé à Ottawa, Canada, ce 11e jour de janvier 2005.
+« Paul Bédard »
+Juge Bédard
+RÉFÉRENCE :
+2005CCI8
+No DU DOSSIER DE LA COUR :
+2004-589(IT)I
+INTITULÉ DE LA CAUSE :
+Rodolfo José Slobodrian et
+Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+Québec (Québec)
+DATE DE L'AUDIENCE :
+Le 6 décembre 2004
+MOTIFS DE JUGEMENT PAR :
+L'honorable juge Paul Bédard
+DATE DU JUGEMENT :
+Le 11 janvier 2005
+COMPARUTIONS :
+Pour l'appelant :
+L'appelant lui-même
+Pour l'intimée :
+Me Benoît Mandeville
+AVOCAT(E) INSCRIT(E) AU DOSSIER:
+Pour l'appelant :
+Nom :
+Étude :
+Pour l'intimée :
+John H. Sims
+Sous-procureur général du Canada
+Ottawa, Canada

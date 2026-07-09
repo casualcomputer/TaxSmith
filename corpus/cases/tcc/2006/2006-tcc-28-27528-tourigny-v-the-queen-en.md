@@ -1,0 +1,248 @@
+---
+title: "Tourigny v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27528/index.do"
+last_modified: "2006-01-18"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 TCC 28"
+citation2: ""
+neutral_citation: "2006 TCC 28"
+decision_date: "2006-01-18"
+language: "en"
+item_id: "27528"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 23
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T22:25:37.476000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "c97a18df24d52a8df6b8dd974f6b11109ce7e49787bc65f51b8da45745e53b3f"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Tourigny v. The Queen
+
+- Citation: 2006 TCC 28
+- Decision date: 2006-01-18
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 23, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Tourigny v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-01-18
+Neutral citation
+2006 TCC 28
+File numbers
+2005-1404(IT)I
+Judges and Taxing Officers
+Louise Lamarre Proulx
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2005-1404(IT)I
+BETWEEN:
+GUY TOURIGNY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeals heard on October 4, 2005, at Montréal, Quebec
+Before: The Honourable Justice Louise Lamarre Proulx
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Claude Lamoureux
+____________________________________________________________________
+JUDGMENT
+The purported appeal from the assessment under the Income Tax Act (the "Act") in respect of the 2000 taxation year is dismissed on the grounds of nullity.
+The appeals from the assessments under the Actfor the 2002 and 2003 taxation years are dismissed.
+All in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 18th day of January 2006.
+"Louise Lamarre Proulx"
+Lamarre Proulx J.
+Translation certified true
+on this 29th day of May 2006
+Monica F. Chamberlain, Reviser
+Citation: 2006TCC28
+Date: 20060118
+Docket: 2005-1404(IT)I
+BETWEEN:
+GUY TOURIGNY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Lamarre Proulx J.
+[1] The case at bar involves appeals under the informal procedure for the 2000, 2002 and 2003 taxation years.
+[2] The Respondent stated at the outset through the Response to the Notice of Appeal (the "Response") in a preliminary form, that the Appellant did not submit the Notice of Objection stipulated by the Income Tax Act (the "Act") for the 2000 taxation year.
+[3] For the years 2002 and 2003, the facts on which the Minister of National Revenue (the "Minister") based his new assessments are set out at paragraph 9 of the Response as follows:
+[TRANSLATION]
+(a) the Appellant was employed by the Institut de Recherche et de Développement en Agroenvironnement (hereinafter "IRDA") during the period from April 1, 1999 to November 3, 1999;
+(b) the Appellant instituted legal proceedings against IRDA for wrongful dismissal;
+(c) on September 3, 2002, the Honourable Judge Kewin Downs, of the Quebec Superior Court, sentenced IRDA, among other considerations, to pay an amount of $105,000 to the Appellant as reasonable notice of dismissal and damages, with interest at the legal rate;
+(d) in respect of the 2003 taxation year, IRDA sent to the Appellant the following information slips:
+(i)
+a T5 slip showing in box 13 an amount of $17,723.48 as interest from Canadian sources;
+(ii)
+a T4A slip showing in box 27 an amount of $105,000 as ineligible retirement pension benefits;
+(e) the Minister is of the opinion that the settlement of $105,000 received by the Appellant from the IRDA following a judgment of a court of jurisdiction, as damages for the loss of employment, is taxable as a retiring allowance;
+(f) the Minister is of the opinion that any interest earned on a claim is taxable;
+(g) the Minister, based on the exhibits provided, allowed an amount of $84,021 as legal costs;
+(h) the Minister is of the opinion that no evidence was provided to him demonstrating that the amount of $27,300 should be subtracted from the award of $105,000;
+(i) the revised situation is as follows for the 2003 taxation year, with regard to the retiring allowance, interest in respect of the said retiring allowance and legal costs:
+(a)
+Retiring allowance
+$105,000,00
+(b)
+interest
+$17,723,00
+$122,723,00
+(c)
+legal costs awarded
+$ 84,021,00
+(j) for the 2002 taxation year, the Minister included, in calculating the income of the Appellant, an amount of $5,741 as employment insurance benefits in respect of the 2000 taxation year;
+(k) for the 2003 taxation year, the Minister included, in calculating the income of the Appellant, an amount of $4,869 in employment insurance benefits in respect of the 2000 taxation year.
+[4] The grounds for the appeal are described as follows in the Notice of Appeal of the Appellant:
+[translation]
+2003 year, Notice of Confirmation of March 3, 2005: the award granted by the Court includes an amount for damages and interest in compensation for personal psychic and material damages suffered, which cannot not be treated as a retiring allowance, and which accordingly cannot be taxable. My 2003 Notice of Objection contains an explanatory note regarding the tax status to be given to the award and to the interest awarded by the Court.
+2002 year, Notice of Reassessment of March 21, 2005: the retroactive lump sum payment must be calculated after my income for the 2000 taxation year has been readjusted to take into account that the offer and payment into court of $27,300 received from the employer in 2000 must be subtracted from my income for that year, for the reasons set out in the following paragraph.
+2000 year, no Notice of Reassessment received to date: the offer and payment into court of $27,300 received from the employer in 2000 must be deducted from my income because no part of the damages awarded by the Court is subject to tax, given that a large proportion of that amount is to compensate personal damages suffered and that the remainder is reduced to zero through the deduction of the legal costs incurred.
+[5] The judgement of the Quebec Superior Court cited at paragraph 9(c) of the Response was filed as Exhibit I-1. This judgment was handed down on September 3, 2002 as a result of an action for damages brought by the Appellant against his employer, the Institut de Recherche et de Développement en Agroenvironnement ("IRDA") for wrongful dismissal. The action was maintained in part.
+[6] Paragraphs 1 and 2 of the judgment read as follows:
+[translation]
+1. The plaintiff is claiming from the defendant the amount of $408,140,00 as damages resulting from his wrongful dismissal.
+2. This amount is broken down as follows:
+$105,000,00
+reasonable notice;
+$11,377
+interest, benefits, vacation pay, pension plan, lost interest;
+$6,545
+training costs;
+$50,000.00
+psychological damages;
+$30,000.00
+injury to reputation;
+$10,000.00
+exemplary damages;
+$10,000.00
+pain and suffering
+$102,598.00
+tax liability;
+$6,241.19
+consultants' fees; and
+$76,378.41
+professional fees.
+[7] The judgment awarded only the amount of $105,000 to him. At the hearing, the Appellant explained that he had calculated the amount of $105,000 on the basis of the 18 months of work remaining on his contract of employment. He was hired on March 22, 1999 at an annual salary of $70,000 for the period from April 1, 1999 to March 31, 2001. He was demoted on October 27, 1999 and resigned on November 2.
+[8] The Appellant nonetheless suggested the possibility that this is not the calculation that the Judge took into account. He referred to paragraph 210 of the judgment, which reads as follows:
+[TRANSLATION]
+210 In light of these considerations and all the circumstances in the instant case, the Court believes that the Applicant is entitled to receive the amount of $105,000 in reasonable notice and damages.
+[9] The Appellant sees two distinct elements in the Judge's pronouncement, namely the notice and the damages. He proposes that the amount attributable to the notice is $36,000, the amount accepted by an employment insurance arbitration board in a decision handed down on May 15, 2003. The arbitration board had decided that only an amount of $36,000 was to be considered income within the meaning of the Employment Insurance Act (Exhibit I-4). The Appellant proposes that the other portion of the amount of $105,000 constitutes psychological damages or damages other than contractual.
+[10] Counsel for the Respondent drew the attention of the Court to paragraphs 96, 192, 193, 210, 211, 212, 215 and 216 of the judgment of the Superior Court of Quebec (Exhibit I-1):
+[translation]
+96 The Applicant is claiming the loss of eighteen (18) months of salary based on the amounts appearing on his contract, namely the sum of $105,000. He is also claiming damages since this dismissal was incompatible with human dignity. He suffered an emotional shock which had repercussions in the form of psychomotor disorders which continued over a period of twelve (12) months. He was humiliated in front of the universities and his co-workers. He resumed working in September 2001. His contract expired at the end of March of that year.
+...
+192 The Applicant produced the report and testimony of an expert in psychology in support of the psychic damages claimed as a result of the behaviour of the representatives of the Defendant. This evidence does not describe the pre-existing condition of the Applicant. Furthermore, the Court believes that there is no relationship of cause and effect between the alleged damages claimed and the presumed fault of the Defendants.
+...
+210 In view of these considerations and all the circumstances of the instant case, the Court believes that the Applicant is entitled to receive the amount of $105,000 as reasonable notice and damages.
+211 In respect of the extra-judicial fees claimed by the Applicant, the Court believes that the Defendant did not abuse his right to contest the claims of the Applicant, nor did the Defendant act in bad faith.
+212 The same is true with regard to the other items in the claim by the Applicant, namely the absence of bad faith and the absence of a legal bond.
+...
+215 SENTENCES the Defendant to pay to the Applicant the amount of $105,000 with interest at the legal rate and the additional indemnity stipulated at article 1619 of the Civil Code of Quebec since the summons;
+216 DECLARES the offer and payment into Court of the Defendant as insufficient and non-accessible;
+[11] The Appellant referred to three decisions of this Court, namely: Bédard v. M.N.R., [1990] T.C.C. No. 809 (QL); Mendes-Roux v. Canada, [1997] T.C.C. No. 1287 (QL) and Ahmad v. Canada, [2002] T.C.J. No. 471 (QL).
+[12] Counsel for the Respondent referred to three decision of this Court, namely: Overin v. Canada, [1997] T.C.C. No. 1264 (QL); Anderson v. Canada, [1997] T.C.C. No. 1137 (QL) and Jolivet v. Canada, [2000] T.C.C. No. 48 (QL).
+Analysis and conclusion
+[13] "Retiring allowance" is defined as follows at subsection 248(1) of the Act:
+"retiring allowance" means an amount other than a superannuation or pension benefit, an amount received as a consequence of the death of an employee or a benefit described in sub-paragraph 6(1)(a)(iv), received
+(a) on or after retirement of a taxpayer from an office or employment in recognition of the taxpayer's long service, or
+(b) in respect of a loss of an office or employment of a taxpayer, whether or not received as, on account or in lieu of payment of, damages or pursuant to an order or judgment of a competent tribunal,
+[14] Subparagraph 56(1)(a)(ii) and paragraph 12(1)(c) of the Act read as follows:
+56: Amounts to be included in income for the year
+(1) Without restricting the generality of Section 3, there shall be included in completing the income of a taxpayer for a taxation year:
+(a) Pension benefits, unemployment insurance benefits, etc. - any amount received by the taxpayer in the year as, on account or in lieu of payment of, or in satisfaction of:
+...
+(ii) a retiring allowance, other than an amount received out of or under an employee benefit plan, a retirement compensation arrangement or a salary deferral arrangement.
+12(1) Income inclusions - There shall be included in computing the income of a taxpayer for a taxation year as income from a business or property such of the following amounts as are applicable:
+...
+(c) Interest - subject to subsections (3) and (4.1), any amount received or receivable by the taxpayer in the year (depending on the method regularly followed by the taxpayer in computing the taxpayer's income) as, on account of, in lieu of payment of or in satisfaction of interest to the extent that the interest was not included in computing the taxpayer's income for a preceding taxation year;
+[15] Let us first consider the authorities cited by the Appellant. According to the decision of Judge Tremblay of this Court in Bédard (supra), damages paid for defamation are not included within the meaning of a retiring allowance. I would cite three passages from this decision:
+The issue in the present case is to decide what portion of the amount of $32,000 is related to the loss of employment suffered by the Appellant. To do so, it is essential to refer to the text of the agreement proposed by Mr. Bédard's former employer, which was, after he assented to it, ratified by the arbitrator, Viateur Larouche. A reading of the text of the agreement reveals that the Appellant was granted six months of salary. In addition, an amount of $32,000 was also to be paid by way of compensation for damage suffered. It is necessary, however, to determine for what types of loss this amount was intended to compensate. Unfortunately, the wording of the agreement is silent on this point ...
+...
+Must these two types of damage be classed as a retiring allowance within the meaning of subsection 248(1) of the Act? The Court is of the opinion that the lawmakers obviously did not, in adopting the definition of "retiring allowance", intend it to include damages for defamation that might be suffered by the occasional victim of a dismissal. The cause linking the loss of employment to the granting of damages must be efficient and not purely occasional. In short, while an amount granted to an employee after his dismissal may include damages for defamation, it is clear to the Court that any such part of the compensation granted belongs to an entirely different order of compensation that is manifestly not covered by the definition of "retiring allowance".
+...
+The ambiguous wording of the agreement in combination with the scope given by this Court to the definition of "retiring allowance" leads the Court to hold that only an amount of $16,000 should be included in the Appellant's income. This amount constitutes the compensation granted Mr. Bédard after his lost his job. As for the balance, it constitutes damages for the defamation suffered by Mr. Bédard. An amount such as this cannot be classed as income from a retiring allowance.
+[16] The decision of Deputy Judge Léger followed the Bédard decision. I will cite two passages from the Mendès-Roux decision (supra):
+27 I have thoroughly studied the cases cited. I have also given consideration to the evidence adduced before this tribunal [Bédard v. M.N.R.(1990), 91 DTC 567 (Fr.); Merrins v. R., 94 DTC 6669; Niles v. M.N.R., 91 DTC 806; Vachon v. R., [1996] 3 C.T.C. 2306 (T.C.C.); and Young v. M.N.R., 86 DTC 1567]. After having given consideration to the proof advanced, this Court finds and decides that the Appellant has established that the settlement obtained by her included a sum for loss of wages of approximately three months compensation for earned overtime, earned vacation and earned sick leave. These items are taxable. The other factors such as damages for mental distress and costs are not taxable because they do not enter into the definition of retirement allowance as defined in subsection 248(1) of the Income Tax Act.
+28 After considering all of the evidence, the Court finds and decides that 50% of the sum of $25,376 was received by the Appellant as a "retirement allowance" and is therefore taxable. The balance was received by her as compensation for damages and is not taxable.
+[17] The decision of Judge Miller in Ahmad (supra) is interesting but it is fundamentally different from this case by virtue of its cause of action. The damages obtained by the taxpayer were in the wake of an action brought by the taxpayer not against the employer, but against the person whose fraudulent actions had resulted in the loss of the employment. It was not a case of contractual damages but of essentially criminal damages. Based on the facts set out in the judgement, the contractual damages which the taxpayer had obtained from his employer had been included in the calculation of his income in the sense of a retiring allowance.
+[18] The decision also included a point on the taxation of interest before judgment. Judge Miller considered that, although they were called interest, they were not of the same nature of interest within the meaning of paragraph 12(1)(c) of the Act but they were of the same nature as the tort damages granted to the taxpayer. They were not separate from these damages. Before the judgment, the taxpayer did not have an acquired right to a compensatory amount, since the damage thus addressed was not the violation of a contract but criminal acts. There could not be interest within the meaning of paragraph 12(1)(c) until the judgment was handed down.
+[19] I quote the excerpts from this decision at paragraphs 14 and 30:
+[14] As was pointed out by Justice McWilliam in his decision, there is a difference between the character of damages in a wrongful dismissal action and damages in the tort action of inducing breach of contract. The latter are damages at large, a matter of impression not addition. That difference is significant. It is presumably why Justice McWilliam did not deduct the $102,000 amount paid by AECL to Dr. Ahmad as damages for wrongful dismissal from his award of general damages in the tort action. The damages are of a different nature. The wrongful dismissal damages are clearly in respect of the loss of employment. The tort damages are not ...
+[30] I am dealing with damages arising in tort, not contract. There is no liquidated amount wrongfully withheld by Ontario Hydro; ... Dr. Ahmad had to fight long and hard to prove that he had been wronged by Ontario Hydro, not by the breach of any contract with Ontario Hydro, of which there was none, but by their tortious activity. In these circumstances, I do not view Dr. Ahmad as having any right which vested in him prior to judgment to a principal amount. Failing that there can be no interest until judgment. This position is supported by the characterization of damages in an inducement of breach of contract action as damages at large given to assessment by impression not addition. I am satisfied that the pre-judgment interest in this case has the character of being part of such damages, and not as a separate income item.
+[My emphasis]
+[20] Of the decisions to which Counsel for the Respondent referred, I would cite the following paragraph of the Anderson decision(supra), handed down by Justice Rip, where he mentions that this is not a case in which the damages received are unrelated to the loss of employment, for example, when the taxpayer was the victim of defamation, as in Bédard, nor a case in which the damages received were for mental and physical injuries suffered during employment, as in Stolte.
+[21] Paragraph 13 of the Anderson(supra) decision reads as follows:
+13 On the facts before me, there is a sufficient connection between the receipt of the money by Mr. Anderson from Genetech and his loss of employment. The damages received by Mr. Anderson arise from his loss of employment, and the incidental damages related to that loss of employment. This is not a case where damages were received extraneous to the loss of employment, such as where the taxpayer was defamed, as in Bédard v. M.N.R., 91 DTC 573, or for mental and physical injuries suffered during employment, as in Stolte v. Canada, [1996] T.C.J. No. 215 (QL). The $93,809 paid to Mr. Anderson by Genetech was on account of damages he suffered as a result of losing his job at Genetech and moving back to Scarborough. There is a causal link between the two. Accordingly, Mr. Anderson received an amount of money in respect of loss of employment with Genetech as damages, and such amount is properly regarded as a "retiring allowance" within the meaning of paragraph 248(1)(b) of the Act. By virtue of subparagraph 56(1)(a)(ii) these damages are to be included in his income for the 1990 taxation year.
+[My emphasis]
+[22] These decisions mean that damages resulting from the loss of employment are included within the meaning of a retiring allowance. Damages that are due to defamation or mental and physical injuries suffered in the course of employment, are not.
+[23] In Quebec, there is the concept of contractual and extracontractual liability, within the meaning of sections 1458 and 1457 of the Civil Code of Quebec. Normally, an action against an employer arises out of a contractual liability. Damages for defamation can be granted following an action in respect of contractual liability. I would refer to "La responsabilité civile" 5th edition, Baudouin, Les Éditions Yvon Blais inc., pp. 723 to 724, Chapter No. 1248:
+[translation]
+1248 - Illustration: the contract of employment or service - Unilateral revocation of a contract of employment or services enables an employee or the hirer of services to obtain damages. If the employer cannot demonstrate any serious grounds for dismissal, the employee is entitled to receive compensation on the basis of a number of factors, specifically the fact that the contract is of fixed or indeterminate duration. Under the hypothesis of an indeterminate contract, the amount of damages takes the form of an indemnity in the form of notice which the employer was required to give, from the fact that the creditor did or did not find other employment, and the zeal with which he conducted his search. The courts in this connection have displayed considerable flexibility and also at times have granted damages for psychological harm and defamation arising out of the actions of the employer and the loss of other income subsequent to the breaking of the contract.
+[24] The Appellant maintains that he received part of the $105,000, namely approximately $69,000, for psychological damages. Unfortunately, this is not what is expressed in the judgment of the Quebec Superior Court. This judgment states that the amount of $105,000 was awarded as reasonable notice and interest and no more than that.
+[25] Paragraph 96 of this judgment states that the amount of $105,000 is based on the computation of reasonable notice. The judgment cannot be re-written. We cannot say that the amount of $105,000 awarded as notice and damages was made up of an amount of $69,000 in damages and $36,000 in notice, as was accepted by the Board of Arbitration in its decision of May 15, 2003. That decision is subsequent to the judgment in question.
+[26] The judgment awarded no amount in damages other than that awarded for notice. The judge therefore awarded no amount for damages, as he stated in paragraph 192 of his Reasons. He adds in paragraph 212 that the same is true for the other requests, specifically damage to his reputation, since according to the Judge, there was an absence of bad faith on the part of the employer and an absence of a legal bond. Nowhere in this judgment are there damages granted other than contractual damages related to the loss of employment.
+[27] The definition of a retiring allowance specifically includes amounts received as damages in respect of the loss of employment. The amount of $105,000 must accordingly be included in calculating the income of the Appellant for the year in which he received it pursuant to subparagraph 56(1)(a)(ii) of the Act.
+[28] With regard to the interest paid, this is indeed interest and must be included in the computation of the Appellant's income during the year where he received it pursuant to paragraph 12(1)(c) of the Act.
+[29] The damages were calculated on the basis of a patrimonial right acquired by the employee at the time that the cause of action occurred. This is compensation in the form of notice that the employer was required to give. Under the terms of the judgment, the interest began from the date of agreement on this amount.
+[30] With regard to the preliminary means stated at the beginning of these reasons, the appeal from the assessment for 2000 is not valid. With respect to 2002, there are no grounds to subtract the amount of $27,300, which the employer paid to the Appellant in 2000 to discharge his obligation. For 2003, the assessment of the Minister is well founded in fact and in law.
+[31] The appeals are dismissed.
+Signed at Ottawa, Canada, this 18th day of January 2006.
+"Louise Lamarre Proulx"
+Lamarre Proulx J.
+Translation certified true
+on this 29th day of May 2006
+Monica F. Chamberlain, Reviser
+CITATION: 2006TCC28
+COURT FILE NO.: 2005-1404(IT)I
+STYLE OF CAUSE: GUY TOURIGNY AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Montréal, Quebec
+DATE OF HEARING: October 4, 2005
+REASONS FOR JUDGMENT BY: The Honourable Justice Louise Lamarre Proulx
+DATE OF JUDGEMENT: January 16, 2006
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Claude Lamoureux
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Ontario

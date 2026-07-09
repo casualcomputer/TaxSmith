@@ -1,0 +1,173 @@
+---
+title: "Lejeune v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26008/index.do"
+last_modified: "2004-09-01"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 TCC 589"
+citation2: ""
+neutral_citation: "2004 TCC 589"
+decision_date: "2004-09-01"
+language: "en"
+item_id: "26008"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3741
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T19:05:32.641000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "9084968749bf61bfcc8374c05a332b91a67eaf3c5b10ff660ebf73ebbeda4bb6"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Lejeune v. The Queen
+
+- Citation: 2004 TCC 589
+- Decision date: 2004-09-01
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3741, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Lejeune v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-09-01
+Neutral citation
+2004 TCC 589
+File numbers
+2003-3903(IT)I
+Judges and Taxing Officers
+Leslie M. Little
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2003-3903(IT)I
+BETWEEN:
+HERVE LEJEUNE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on July 23, 2004 at Winnipeg, Manitoba
+Before: The Honourable Justice L.M. Little
+Appearances:
+Agent for the Appellant:
+Chris Filopoulos
+Counsel for the Respondent:
+Derwin Petrie
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 2001 taxation year is allowed, without costs, and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached Reasons for Judgment.
+Signed at Vancouver, British Columbia, this 1st day of Septemer 2004.
+"L.M. Little"
+Little J.
+Citation: 2004TCC589
+Date: 20040901
+Docket: 2003-3903(IT)I
+BETWEEN:
+HERVE LEJEUNE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Little J.
+A. Statement of Facts:
+[1] In 1998 the Appellant's spouse contracted meningitis.
+[2] The Appellant's spouse was hospitalized as a result of the meningitis and she has severe and prolonged mobility impairment and is confirmed to a wheelchair.
+[3] The Appellant was unable to obtain home care services from the Government of Manitoba for his spouse.
+[4] In order to provide 24-hour care for his spouse the Appellant realized that he would be required to renovate his home in order to provide living accommodation for his mother-in-law in the basement plus a room on the main floor for his spouse.
+[5] The Appellant spent $10,531.62 on renovations to his home to accommodate his spouse.
+[6] In the 2001 taxation year the Appellant also incurred the following expenses:
+Taking spouse from home to her doctor $688.00
+Physiotherapy $252.00
+[7] When the Appellant filed his income tax return for the 2001 taxation year he claimed the following medical expenses:
+Physiotherapy $252.00
+Travel to doctor $688.10
+Renovations to his home to
+accommodate his spouse $10,531.62
+Total $11,471.72
+[8] The Minister of National Revenue (the "Minister") reassessed the Appellant's 2001 taxation year and allowed the following items:
+1. Cost of two ramps to accommodate a
+wheelchair (all of the other renovation
+expenses were disallowed) $160.50
+2. Physiotherapy $252.00
+The travel expenses to travel
+to the doctor were disallowed.
+B. Issue:
+[9] The issue is whether the Appellant is entitled to deduct medical expenses in excess of the amount allowed by the Minister.
+C. Analysis and Decision:
+[10] During his testimony the Appellant made the following comments:
+1. My wife was paralyzed by meningitis and she required full-time assistance from an attendant or nurse;
+2. My wife was unable to function by herself;
+3. The Home Care Program was not willing to provide any assistance at that time;
+4. My wife's mother was prepared to move into our home and provide full-time care for my wife;
+5. In order to provide accommodation for my mother-in-law I constructed a bedroom and bathroom in the basement of my home;
+6. In order to provide accommodation for my wife I constructed her own bedroom and bathroom;
+7. I basically made these changes to enable my wife to continue to reside at our home. Without these renovations to our home my wife would have been confined to an institution.
+[11] In a letter dated November 15, 2001 the Appellant's Physician, Dr. T. St. Vincent, stated as follows:
+Re: Lejeune, Joan
+To Whom It May Concern
+This is to notify you that the above noted patient is disabled due to a bout with meningitis and requires 24-hour care. She is wheelchair confined.
+(See Exhibit A-1.)
+[12] A Disability Tax Credit Certificate was filed for the Appellant's spouse. (See Exhibit A-2.)
+[13] The Certificate establishes that the Appellant's spouse is confined to a wheelchair and is unable to look after herself without 24-hour care. The Certificate also establishes that the Appellant's spouse has a severe and prolonged mobility impairment.
+[14] From an analysis of the above comments it will be noted that because the Appellant carried out the renovations on his home to create accommodation for his spouse and his mother-in-law, his spouse was able to remain at home with her family. Furthermore, while the Appellant's wife was confined to a wheelchair, the mother-in-law provided all of the care required.
+[15] In my opinion the renovations that were carried out by the Appellant in his home enabled his wife to be functional in her home.
+[16] In Gibson v. The Queen, [2002] 1 C.T.C. 147 the Federal Court of Appeal was reviewing a decision of Justice Mogan of the Tax Court. (See Gibson v. The Queen, [2001] 1 C.T.C. 2054.) Mogan J. had allowed the taxpayer's appeal and held that the costs of the renovations to her dwelling to enable the installation of a hot tub should be allowed.
+[17] In reviewing the application for judicial review Mr. Justice Rothstein of the Federal Court of Appeal said at page 148:
+The reasons for decision of the Tax Court Judge stressed the difficulties the respondent experienced in performing her work as a teacher. The extent to which the Tax Court Judge referred to that question led the applicant to argue that the Tax Court Judge was misinterpreting paragraph 118.2(2)(1.2). We agree with the applicant that the availability of a tax credit under paragraph 118.2(2)(1.2) is not predicated on an individual's difficulty in working, but rather on the ability of an individual to be mobile or functional within a dwelling. However, we are satisfied that there was evidence before the Tax Court Judge that the respondent had a severe and prolonged mobility impairment and that the alterations to her dwelling enabled her to be functional within the dwelling.
+The application for judicial review will be dismissed.
+[18] Based on the authority as outlined by Rothstein J. in Gibson and based on the evidence that was presented to me I have concluded that the Appellant's spouse had a severe and prolonged mobility impairment and that the alterations to the Appellant's home enabled the spouse to be functional within the family home.
+[19] I am not convinced that the Appellant can claim the travelling expenses in the amount of $688.00.
+[20] The appeal is to be allowed so that the Appellant may deduct renovation expenses in the amount of $10,531.62.
+Signed at Vancouver, British Columbia, this 1st day of September 2004.
+"L.M. Little"
+Little J.
+CITATION:
+2004TCC589
+COURT FILE NO.:
+2003-3903(IT)I
+STYLE OF CAUSE:
+Herve Lejeune and
+Her Majesty the Queen
+PLACE OF HEARING:
+Winnipeg, Manitoba
+DATE OF HEARING:
+July 23, 2004
+REASONS FOR JUDGMENT BY:
+The Honourable Justice L.M. Little
+DATE OF JUDGMENT:
+September 1, 2004
+APPEARANCES:
+Agent for the Appellant:
+Chris Filopoulos
+Counsel for the Respondent:
+Derwin Petrie
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

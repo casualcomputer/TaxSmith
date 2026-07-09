@@ -1,0 +1,183 @@
+---
+title: "Emjo Holdings Ltd. c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/310465/index.do"
+last_modified: "2018-05-22"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2018 CCI 97"
+citation2: ""
+neutral_citation: "2018 CCI 97"
+decision_date: "2018-05-22"
+language: "fr"
+item_id: "310465"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4870
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T17:54:46.389000+00:00"
+cases_cited_count: 2
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "1935fbddeefbf9d89068db615964fc2a1a9334ccb238fd437357cbaa3313b595"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Emjo Holdings Ltd. c. La Reine
+
+- Citation: 2018 CCI 97
+- Decision date: 2018-05-22
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4870, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Emjo Holdings Ltd. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2018-05-22
+Référence neutre
+2018 CCI 97
+Numéro de dossier
+2017-2613(IT)I
+Juges et Officiers taxateurs
+Guy R. Smith
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2017-2613(IT)I
+ENTRE :
+EMJO HOLDINGS LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE]
+Appel entendu le 10 mai 2018, à Regina (Saskatchewan)
+Devant : L’honorable juge Guy R. Smith
+Comparutions :
+Représentant de l’appelante :
+Darcy Spilchen
+Avocat de l’intimée :
+Me Taylor Andreas
+JUGEMENT
+L’appel interjeté à l’encontre d’un avis de nouvelle cotisation daté du 12 janvier 2016, établi en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 2013, 2014 et 2015 est rejeté, sans dépens, conformément aux motifs de jugement ci-joints.
+Signé à Ottawa, Canada, ce 22e jour de mai 2018.
+« Guy Smith »
+Le juge Smith
+Référence : 2018 CCI 97
+Date : 20180522
+Dossier : 2017-2613(IT)I
+ENTRE :
+EMJO HOLDINGS LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE]
+MOTIFS DU JUGEMENT
+Le juge Smith
+[1] L’appel est interjeté à l’encontre d’un avis de nouvelle cotisation daté du 12 janvier 2016 aux termes duquel le ministre du Revenu national (le « ministre ») a refusé des déductions aux montants de 8 612 $, 8 556 $ et 8 556 $ à titre de frais d’assurance-vie pour les années d’imposition 2013, 2014 et 2015, respectivement.
+[2] La seule question en litige dans le présent appel est de savoir si les primes d’assurance-vie étaient déductibles pour les années d’imposition en cause.
+[3] L’avis d’appel est libellé comme suit :
+[traduction]
+1. « La police no J4398015, une assurance-vie universelle individuelle d’un million de dollars (1 000 000 $), a été initialement souscrite à l’automne 2002, au moment où EMJO Holdings a acquis les ventes de Deneschuk Homes Ltd. en vue de satisfaire aux conditions de financement de la Yorkton Credit Union Limited selon lesquelles l’emprunteur (EMJO Holdings Ltd) devait souscrire une assurance‑vie personne-clé pour un montant d’au moins 500 000 $. Cette police a été révisée le 23 décembre 2001.
+2. La police no J3444752, une assurance-vie temporaire au montant de 3 000 000 $, a été souscrite le 25 avril 2011, comme condition permettant à Deneschuk Homes Ltd d’obtenir du financement de la Cornerstone Credit Union dans le cadre du programme de prêt à l’habitation HeadStart on a Home. Cette police est cédée à la Saskatchewan Immigrant Investor Fund Inc. »
+[4] Le ministre soutient que les prêts étaient en fait des prêts personnels des principaux actionnaires à l’égard desquels l’appelante n’est pas responsable, et que par conséquent, les primes d’assurance-vie ne sont pas déductibles.
+[5] Lee Rusnak a témoigné pour le compte de l’appelante. L’intimée n’a appelé aucun témoin.
+[6] L’appelante a été constituée en personne morale en vertu des lois de la Saskatchewan le 25 novembre 2002. Lee Rusnak et son épouse, Jodie Rusnak, détenaient chacun 50% des actions avec droit de vote. Le but de la constitution en personne morale était d’acquérir les actions d’une société existante connue sous le nom de Deneschuk Homes Ltd.
+[7] Avant la constitution en personne morale, Lee et Jodie Rusnak ont obtenu une lettre d’engagement (pièce A­1) datée du 15 octobre 2002 de la Yorkton Credit Union Limited pour un prêt à terme de 300 000 $ et un deuxième prêt de 250 000 $, les deux prêts devant être amortis sur une période de 10 ans.
+[8] Les prêts devaient être garantis par les parents de Lee Rusnak, lesquels étaient tenus de fournir une hypothèque subsidiaire sur un bien qu’ils possédaient conjointement. D’autres garanties devaient être fournies, y compris des billets à ordre de Lee et Jodie Rusnak, de même qu’une garantie offerte par la société Deneschuk Homes Ltd. au montant de 550 000 $, soutenue par une convention de garantie générale.
+[9] La lettre d’engagement comportait l’exigence suivante :
+[traduction] « Les emprunteurs conviennent de souscrire une assurance-vie personne-clé pour un montant d’au moins 500 000 $, qu’ils céderont à la Credit Union. »
+[10] La lettre d’engagement a été signée par un représentant de la Credit Union et, le 4 décembre 2002, Lee et Jodie Rusnak, respectivement président et secrétaire de l’appelante, ont accepté ladite lettre. Le même jour, les parents de M. Rusnak ont également accepté la lettre d’engagement. Le sceau corporatif de l’appelante a été apposé sur la lettre, à gauche des signatures. Sur l’exemplaire versé au dossier de la Cour, le sceau était rayé par des lignes diagonales manuscrites, paraphées par l’un des signataires. M. Rusnak a expliqué que cette façon de faire était probablement due au fait que les signatures comprenaient les garants.
+[11] Comme il a été relevé précédemment, les prêts devaient être amortis sur une période de dix ans. L’appelante a produit un état de compte (pièce A­4) établi par la Cornerstone Credit Union (successeur de la Yorkton Credit Union Limited) pour la période d’un mois se terminant le 28 février 2013. L’état de compte indiquait que le dernier paiement de 66 152,05 $, soit le solde impayé du prêt commercial, devait être effectué le 1er février 2013. M. Rusnak a déclaré dans son témoignage qu’il n’y avait qu’un seul prêt consolidé, et qu’il s’agissait du solde impayé à cette date.
+[12] Le relevé de compte indiquait également que trois montants mensuels de 713 $ étaient retirés automatiquement du compte, en faveur de la SunLife. Il n’y avait pas d’élément de preuve claire sur cette question, mais la Cour doit présumer que ces montants servaient de base dans le calcul des primes annuelles d’assurance payées (713 $ x 12 = 8 556 $). La Cour conclut également que la première police d’assurance a été augmentée à 2 millions de dollars le 23 décembre 2011, et que les paiements mensuels de 376,65 $ (pièce A­2) étaient compris dans le montant retiré.
+[13] L’appelante n’a pas été en mesure de produire une preuve documentaire pour étayer la cession de la police d’assurance-vie, mais elle a déposé une copie d’un courriel provenant d’un représentant de la Credit Union (pièce A­3) dans lequel il est indiqué : [traduction] « Même si je ne travaillais pas pour la Credit Union en 2002, je comprends que cette police d’assurance a été cédée à la Credit Union, comme l’indique la lettre d’engagement. »
+[14] Selon le témoignage de M. Rusnak, le deuxième prêt d’environ 2 400 000 $ a été consenti par « HeadStart on a Home », un programme de prêt établi par la province de la Saskatchewan, et soutenu financièrement par la Saskatchewan Immigrant Investor Fund Inc. Ce programme a été mis sur pied pour soutenir les constructeurs dans la construction de nouvelles maisons.
+[15] Il semble que ce prêt relevait davantage d’une facilité de crédit susceptible d’être utilisée, au besoin. Un relevé a été déposé en preuve (pièce A­5) pour indiquer que le solde impayé au 31 décembre 2012 était 417 554 $. Une lettre de HeadStart on a Home (pièce A­6) datée du 7 février 2012 a également été produite en preuve. Elle se lit comme suit :
+[traduction] « Veuillez prendre note que la Saskatchewan Immigrant Investor Fund Inc. (« SIIF ») a demandé que la police d’assurance-vie personne-clé lui soit cédée pour un montant de 500 000 $ sur la vie de Lee Rusnak.
+La cession se limite donc à 500 000 $. »
+[16] Une cession de la police d’assurance par l’appelante, en sa qualité de propriétaire du contrat, à HeadStart on a Home, en sa qualité de prêteur, signée par Lee Rusnak, président, et datée du 9 septembre 2002 a été déposée en preuve (pièce A­7), de même qu’un formulaire analogue en faveur de la Saskatchewan Immigrant Investor Fund, à titre de prêteur (pièce A­8). Les deux documents ont été préparés sur des formulaires types de la Financière SunLife.
+I. Droit applicable
+[17] La disposition législative applicable est l’alinéa 20(1)(e.2) de la Loi de l’impôt sur le revenu, L.R.C. (1985), ch. 1 (5e suppl.) (la « Loi ») qui dispose que :
+20(1) Malgré les alinéas 18(1)a), b) et h), sont déductibles dans le calcul du revenu tiré par un contribuable d’une entreprise ou d’un bien pour une année d’imposition celles des sommes suivantes qui se rapportent entièrement à cette source de revenus ou la partie des sommes suivantes qu’il est raisonnable de considérer comme s’y rapportant :
+[...]
+(e.2) la moins élevée des sommes ci-après relatives à une police d’assurance-vie (sauf un contrat de rente ou une police RAL) :
+(i) les primes payables par le contribuable pour l’année aux termes de la police, dans le cas où, à la fois :
+(A) un intérêt dans la police est cédé à une institution financière véritable dans le cadre d’un emprunt contracté auprès d’elle,
+(B) les intérêts payables sur l’emprunt sont déductibles dans le calcul du revenu du contribuable pour l’année, ou le seraient sans les paragraphes 18(2) et (3.1) et les articles 21 et 28,
+(C) la cession visée à la division (A) est exigée par l’institution financière à titre de garantie de l’emprunt,
+(ii) le coût net de l’assurance pure pour l’année (à l’exclusion d’une période postérieure à 2013 au cours de laquelle la police est une police 10/8), déterminé en conformité avec les dispositions réglementaires, relativement à l’intérêt dans la police visé à la division (i)(A),
+(iii) la partie de la moins élevée des sommes déterminées selon les sous‑alinéas (i) et (ii) relativement à la police qu’il est raisonnable de considérer comme étant liée à la somme que le contribuable doit à l’institution financière au cours de l’année en raison de l’emprunt;
+(Non souligné dans l’original.)
+[18] Par conséquent, les primes d’assurance-vie sont déductibles dans les cas où (i) un intérêt dans la police d’assurance-vie est cédé à un établissement de crédit dans le cadre d’une opération d’emprunt; (ii) les intérêts payables sur l’emprunt sont déductibles par ailleurs pour l’emprunteur; (iii) la cession est exigée par l’établissement de crédit à titre de garantie de l’emprunt.
+[19] Le montant déductible représente le moins élevé des deux montants suivants : les primes réellement payées et le « coût net de l’assurance pure » (comme il est énoncé au sous-alinéa 20(1)(e.2)(ii)) afin d’établir une distinction entre les polices d’assurance-vie universelle et les polices d’assurance-vie entière qui inclurait généralement une composante d’épargne.
+[20] L’autre disposition est que le montant de la prime peut être déduit dans la mesure où il est raisonnable de considérer que ce montant se rapporte au montant que le contribuable doit à l’institution financière au cours de l’année en raison de l’emprunt. Puisqu’un emprunteur effectuera généralement des paiements au titre du principal et de l’intérêt, il serait nécessaire d’effectuer des calculs pour déterminer le capital impayé d’une année à l’autre. Autrement dit, la déduction dont peuvent se prévaloir les contribuables pendant la première année du prêt sera généralement réduite à mesure que le capital est remboursé.
+[21] Dans le jugement Norton c. La Reine, 2010 CCI 62, le juge Wyman (tel était alors son titre) a conclu que les primes d’assurance-vie n’étaient pas déductibles parce que le contribuable n’avait pas établi que la cession était « exigée » par l’établissement de crédit. Plus précisément, la preuve était contradictoire en ce que les documents bancaires indiquaient clairement que la souscription de la police d’assurance-vie était volontaire, et non conditionnelle à l’obtention du prêt.
+[22] Dans le jugement Lloyd Quantz c. La Reine, [2003] 1 CTC 2714, la Cour a examiné deux lettres déposées en preuve pour étayer la cession. Le juge McArthur a conclu qu’il n’existait aucune preuve établissant qu’au décès du contribuable la compagnie d’assurance-vie serait obligée, en vertu d’un contrat de cession, de verser le produit de la police à l’institution financière. Il a précisé ce qui suit :
+[7]] […] On ne saurait qualifier cela de cession contractuelle légale de la police. La Loi est claire et je ne peux en modifier le libellé. Je dois m’en tenir aux faits. J’outrepasserais les bornes de la réalité si je concluais que l’appelant a satisfait aux exigences de la Loi parce que la police aurait pu ou aurait dû être cédée. Les faits sont incontestables, il n’y a pas eu cession d’un intérêt dans la police d’assurance à une institution financière véritable dans le cadre de l’emprunt. Ce volet des appels est rejeté.
+II. Analyse et conclusion
+[23] En l’espèce, je suis convaincu que, même si la lettre d’engagement était adressée à Lee et Jodie Rusnak, cette lettre s’apparentait à un contrat préalable à la constitution en personne morale que l’appelante a par la suite fait sien, comme en témoignent leurs signatures à titre de président et de secrétaire, après la date de constitution en personne morale.
+[24] Je conclus également que l’appelante a en fait emprunté de l’argent à la Yorkton Credit Union Limited conformément à la lettre d’engagement dont les conditions incluaient une exigence voulant que la police d’assurance‑vie personne‑clé soit cédée en garantie.
+[25] Je retiens également le témoignage de M. Rusnak qui a déclaré que la police d’assurance-vie avait en fait été cédée au prêteur. En raison des faits de l’espèce, je suis d’avis que la cession de la police d’assurance-vie était requise et qu’elle a été effectuée.
+[26] J’ai néanmoins plusieurs préoccupations. Premièrement, l’avis d’appel donne à penser que le montant de la police était d’un million de dollars (qui a par la suite été porté à deux millions de dollars), alors que la Credit Union n’exigeait qu’une police d’assurance-vie de 500 000 $. Le montant de la déduction devrait donc être rajusté en conséquence.
+[27] Deuxièmement, la disposition législative exige que la déduction corresponde au montant du prêt, « dû périodiquement ». Puisque le montant dû a été réduit d’environ 10 % du montant initial, l’appelante n’aurait droit qu’à une déduction correspondante de la prime d’assurance-vie, qui pourrait être calculée comme suit :
+66 152 $
+x
+(376,65 $ x 12) = 149,50 $
+2 000 000 $
+[28] Troisièmement, le relevé bancaire indique que le solde impayé devait être remboursé intégralement au plus tard le 1er février 2013. La fin de l’exercice de l’appelante était le 28 février, laissant entendre que, pour les années d’imposition 2014 et 2015, le solde dû au prêteur était égal à zéro. Dans ce contexte, l’appelante n’aurait pas droit à une déduction des primes d’assurance-vie pour ces années.
+[29] Ma dernière préoccupation concerne le fait que l’appelante n’a produit aucun élément de preuve visant à établir la distinction entre le coût de la « police d’assurance-vie universelle » en question et le « coût net de l’assurance pure », coût qui serait déductible en vertu du sous-alinéa 20(1)(e.2)(ii).
+[30] En ce qui a trait au deuxième prêt, je conviens qu’une facilité de crédit a été consentie à l’appelante dans le cadre du programme de prêt HeadStart on a Home, qu’une cession de la police d’assurance-vie était requise à titre de garantie et que la cession a effectivement été effectuée.
+[31] La difficulté que pose le deuxième prêt vient du fait que M. Rusnak a mentionné que la facilité de crédit n’avait jamais été entièrement utilisée, donnant à penser que l’appelante n’avait emprunté que ce qui était exigé de temps à autre. Il est probable qu’au fur et à mesure que les maisons étaient construites et vendues par l’appelante, la facilité de crédit était remboursée sur une base continue.
+[32] La preuve indique que le solde impayé au 31 décembre 2012 était de 417 554 $, mais il n’existe aucune preuve d’endettement pour les années d’imposition 2013, 2014 et 2015. Autrement dit, en ce qui a trait au deuxième prêt, il est impossible pour la Cour de faire la corrélation entre les primes d’assurance‑vie payées et le solde impayé du prêt pour les années d’imposition en question.
+[33] Dans ses observations finales, le représentant de l’appelante a soutenu que l’instance était instruite selon les règles de la procédure informelle et que, tout bien considéré, des éléments de preuve suffisants avaient été produits à l’appui des dépenses réclamées.
+[34] L’appelante fait valoir essentiellement que la Cour devrait examiner les éléments de preuve selon une norme moins onéreuse et technique, conformément à l’objectif de la procédure informelle : paragraphe18.15(3) de la Loi sur la Cour canadienne de l’impôt, L.R.C. 1985, ch. T-2. Bien que cette disposition régisse l’admissibilité de la preuve au cours de la procédure informelle, il a été établi que le paragraphe 18.15(3) « [...] n’accorde pas à l’appelant une pondération plus favorable pour certains de ses éléments de preuve, c’est-à-dire le témoignage oral en l’espèce » : Barnwell c. Canada, 2016 CAF 150 (au paragraphe13).
+[35] En l’espèce, dans son témoignage de vive voix, l’appelante a mis l’accent sur les opérations de prêt, mais n’a pas abordé toutes les exigences de la Loi à l’égard des années d’imposition en cause.
+[36] En fin de compte, un minimum de preuve est requis, surtout lorsque la Cour doit se pencher sur une disposition législative qui comporte des règles techniques régissant le droit d’un contribuable à une déduction.
+[37] L’appel doit être rejeté pour l’ensemble des motifs qui précèdent.
+Signé à Ottawa, Canada, ce 22e jour de mai 2018.
+« Guy Smith »
+Le juge Smith
+RÉFÉRENCE :
+2018 CCI 97
+NO DU DOSSIER DE LA COUR :
+2017-2613(IT)I
+INTITULÉ :
+EMJO HOLDINGS LTD c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Regina (Saskatchewan)
+DATE DE L’AUDIENCE :
+Le 10 mai 2018
+MOTIFS DU JUGEMENT :
+L’honorable juge Guy R. Smith
+DATE DU JUGEMENT :
+Le 22 mai 2018
+COMPARUTIONS :
+Représentant de l’appelante :
+Darcy Spilchen
+Avocat de l’intimée :
+Me Taylor Andreas
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Cabinet :
+Avocate de l’intimée :
+Nathalie G. Drouin
+Sous-procureur général du Canada
+Ottawa, Canada

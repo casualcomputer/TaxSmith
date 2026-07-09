@@ -1,0 +1,139 @@
+Title: Saunders v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/487237/index.do
+Corpus path: corpus/cases/tcc/2020/2020-tcc-114-487237-saunders-v-the-queen-en.md
+Document type: case_law
+Last modified: 2020-10-20
+
+# Saunders v. The Queen
+
+- Citation: 2020 TCC 114
+- Decision date: 2020-10-20
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4664, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Saunders v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2020-10-20
+Neutral citation
+2020 TCC 114
+File numbers
+2018-4115(IT)I
+Judges and Taxing Officers
+Susan Wong
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2018-4115(IT)I
+BETWEEN:
+IAN SAUNDERS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on common evidence with the appeal(s) of Andrew Dewit, file 2018-4343(IT)I and Glen Dunbar, file 2018-4411(IT)I on November 6, 2019, at Calgary, Alberta
+Before: The Honourable Justice Susan Wong
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Alexander Wind
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 2017 taxation year is dismissed, without costs.
+Signed at Ottawa, Canada, this 20th day of October 2020.
+“Susan Wong”
+Wong J.
+Citation: 2020 TCC 114
+Date: 20201020
+Docket: 2018-4115(IT)I
+BETWEEN:
+IAN SAUNDERS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Wong J.
+Introduction
+[1] The appeals of Ian Saunders [2018-4115(IT)I], Andrew Dewit [2018-4343(IT)I], and Glen Dunbar [2018-4411(IT)I] were heard on common evidence.
+[2] The issue in these matters is whether a monetary award received by each appellant following a successful grievance to the Public Service Labour Relations and Employment Board is taxable as income in the 2017 taxation year.
+[3] Specifically, the appellants say that the monetary award constituted damages for personal injury and violation of their rights under their collective agreement. They say that the amount should not be taxed as employment income because it was a personal injury award and therefore, fell under the exception in paragraph 81(1)(g.1) of the Income Tax Act.
+Factual Background
+The Grievances
+[4] In May 2016, the appellants made successful grievances to the Public Service Labour Relations and Employment Board. At the time, they were all experienced team leads in the Revenue Collections Division of the Canada Revenue Agency.
+[5] The appellants’ grievances addressed an arbitrary overtime policy implemented by Terry Harder, the incoming assistant director of the Calgary Tax Services Office in 2009. From late 2010 to early 2012, overtime hours were only offered to team leads who were already in a particular section of Collections. Before Mr. Harder’s arrival, the policy was to offer available overtime to all Collections team leads regardless of their home section. The new policy effectively excluded the appellants from overtime opportunities.
+[6] The appellants made multiple inquiries about the policy change and expressed their interest in working overtime on several occasions without success. The appellants described Mr. Harder’s behaviour toward them as bullying, aggressive, and harassing. They then filed grievances which were ultimately adjudicated before the Board. Specifically, they asserted that their employer had breached a clause of their collective agreement which stated that among other things, the employer “shall make every reasonable effort to … offer overtime work on an equitable basis among readily available qualified employees.” [1]
+[7] The hearing took place in 2015 and the Board allowed the grievances on May 6, 2016. The Board found that Mr. Harder changed the way in which overtime was distributed and in doing so, the employer acted arbitrarily and violated the overtime provisions of the collective agreement. [2]
+[8] The appellants’ representative requested monetary compensation for their losses resulting from the employer’s violation of the collective agreement. The Board agreed and left the matter in the parties’ hands to determine the appropriate amounts. [3]
+Negotiation of compensation for the appellants’ losses
+[9] During the intervening period, Mr. Harder was promoted to Director and following the Board’s decision, he sought to negotiate the compensation award himself and was asked at one point by the appellants’ representative to delegate the task. [4]
+[10] During negotiations, Mr. Harder advised at one point that the payments would be taxable as income. [5] On the other hand, the appellants wished to insert wording into the settlement agreement that the payments represented general damages for personal injury. In their email to their representative, they say that they would like this wording in order to best position the settlement as non-taxable damages rather than taxable income. [6]
+[11] The parties reached an agreement and signed a memorandum in March 2017. [7] Mr. Dewit signed an additional settlement memorandum in July 2017 with respect to a second grievance which had been held in abeyance for a different time period. [8] The calculation of the payments was based on an agreed number of hours multiplied by each appellant’s particular hourly rate and the overtime rate of 1.75. Neither settlement memorandum describes the payments as general damages for personal injury.
+Legal Framework
+[12] Paragraph 81(1)(g.1) describes the exception as “income for the year from any property acquired by or on behalf of a person as an award of, or pursuant to an action for, damages in respect of physical or mental injury to that person…”
+[13] If the appellants’ compensation award fits within this exception, then it is not taxable as employment income.
+Analysis
+[14] The appellants gave a well-organized presentation and it is clear from their testimony, the Board’s decision, and Mr. Harder’s conduct during the subsequent negotiation of the compensation award that the appellants had a stressful and difficult time.
+[15] While context is a consideration, it matters what the payments were intended to replace and I cannot find that the present circumstances fit within the personal injury exception. I can see the appellants’ point that there is a difference between missed overtime versus missed offers of overtime. However, I cannot agree that this distinction leads to different tax treatments.
+[16] In Tsiaprailis, the Supreme Court of Canada said that the two questions to ask are:
+What was the payment intended to replace?
+Would the replaced amount have been taxable in the recipient’s hands? [9]
+[17] If the appellants had accepted an offer to work overtime, they would have worked the additional hours and been paid for them. There also might have been instances in which they would have declined an offer of overtime. Since it was not possible to rewrite those past events, the compensation award was based on an agreed number of hours which might be more or less than what the appellants would actually have worked.
+[18] The collective agreement was a contract and the appellants’ grievances asserted a breach of that contract. [10] While the agreed number of hours might have helped to gauge the reasonableness of the compromise, they also served as a replacement mechanism in this instance. [11] The compensation award was also not a global amount intended to cover several heads of damage. [12]
+[19] Specifically, the compensation award - based on an agreed number of hours - replaced the remuneration the appellants would have received had they been offered and in turn accepted overtime work. Those amounts would have been taxable as employment income at first instance. If the appellants had been compensated with time in lieu of monetary payments, I believe that the additional vacation leave would likely be a taxable benefit.
+[20] The appellants offered the Supreme Court of Canada’s decision in Schwartz in support of their position. That case dealt with a monetary settlement paid to a lawyer for losses arising from the retraction of an employment offer, and whether the payment was a retiring allowance. [13]
+[21] In order to characterize the nature of a compensation award for tax purposes, one must look at the particular facts. [14] In the present case, there is an employment relationship, no issue of retiring allowances, and an award arising from breach of a collective agreement. The facts in Schwartz are too different for the decision to be meaningful to the present inquiry.
+Conclusion
+[22] The appeals are dismissed, without costs.
+Signed at Ottawa, Canada, this 20th day of October 2020.
+“Susan Wong”
+Wong J.
+CITATION:
+2020 TCC 114
+COURT FILE NO.:
+2018-4115(IT)I
+STYLE OF CAUSE:
+IAN SAUNDERS and HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Calgary, Alberta
+DATE OF HEARING:
+November 6, 2019
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Susan Wong
+DATE OF JUDGMENT:
+October 20, 2020
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Alexander Wind
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+n/a
+Firm:
+n/a
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Exhibit A-4: Agreement between Canada Revenue Agency and the Public Service Alliance of Canada, clause 28.05(a).
+[2] Exhibit A-2: PSLREB decision at paragraphs 73 and 83.
+[3] Exhibit A-2: PSLREB decision at paragraph 83.
+[4] Exhibit A-5: Email thread beginning September 26, 2016 (first page).
+[5] Exhibit A-5: Email thread beginning September 26, 2016 (third page).
+[6] Exhibit A-5: Email thread beginning September 26, 2016 (fourth page).
+[7] Exhibit A-1: Memorandum of agreement.
+[8] Exhibit A-9: Memorandum of settlement.
+[9] Tsiaprailis v. Canada, 2005 SCC 8 at paragraphs 7 and 15.
+[10] Frank v. The Queen, 1998 CarswellNat 2534 (TCC) at paragraph 9.
+[11] Tsiaprailis v. Canada, 2005 SCC 8 at paragraph 55.
+[12] Tsiaprailis v. Canada, 2005 SCC 8 at paragraph 51.
+[13] Schwartz v. Canada, [1996] SCR 254.
+[14] Tsiaprailis v. Canada, 2005 SCC 8 at paragraph 7.

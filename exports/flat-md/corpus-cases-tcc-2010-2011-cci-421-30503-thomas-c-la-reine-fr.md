@@ -1,0 +1,143 @@
+---
+title: "Thomas c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30503/index.do"
+last_modified: "2010-05-11"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2011 CCI 421"
+citation2: ""
+neutral_citation: "2011 CCI 421"
+decision_date: "2010-05-11"
+language: "fr"
+item_id: "30503"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7244
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T13:00:07.840000+00:00"
+cases_cited_count: 3
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "5bf44dfd9470071133ba3991f98aabe98aa34cad556b80722e912c4a73295547"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Thomas c. La Reine
+
+- Citation: 2011 CCI 421
+- Decision date: 2010-05-11
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7244, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Thomas c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2010-05-11
+Référence neutre
+2011 CCI 421
+Numéro de dossier
+2009-3273(GST)I
+Juges et Officiers taxateurs
+Cameron Hugh McArthur
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Référence : 2011CCI421
+Date : 20110912
+Dossier : 2009-3273(GST)I
+ENTRE :
+BRADLEY THOMAS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+(Rendus oralement à l’audience le 11 mai 2010 à Ottawa (Ontario))
+Le juge McArthur
+[1] Les présents appels sont interjetés à l’égard d’une nouvelle cotisation que le ministre du Revenu national a établie en application du paragraphe 323(1) de la Loi sur la taxe d’accise (la « Loi ») et ont été entendus sous le régime de la procédure informelle de la Cour canadienne de l’impôt. La nouvelle cotisation, qui s’élève à 43 840 $, concerne le défaut de 610745 Saskatchewan Ltd. (« 610 ») de verser la taxe nette en application du paragraphe 228(2) de la Loi pour les périodes ayant pris fin le 31 décembre en 1998, en 1999, en 2000, en 2001, en 2002 et en 2003.
+[2] Le ministre soutient que l’appelant était administrateur de 610 et que, conformément à la Business Corporation Act de la Saskatchewan, il a continué à l’être pendant au moins deux ans après que celle-ci eut été radiée du registre des sociétés de la Saskatchewan.
+[3] Le ministre ajoute que l’appelant n’a pas agi avec autant de soin, de diligence et de compétence que ne l’aurait fait une personne raisonnablement prudente dans les mêmes circonstances, comme le prévoit le paragraphe 323(3) de la Loi, pour prévenir le défaut de 610 de verser la taxe nette pour les périodes de déclaration susmentionnées.
+[4] Pour sa part, l’appelant soutient qu’il a cessé d’être administrateur à la date à laquelle 610 a été dissoute, soit le 31 août 2005, et que, en tout état de cause, il a agi avec la diligence exigée au paragraphe 323(3).
+[5] En mai 1998, 610, qui était inscrite aux fins de la taxe sur les produits et services (la « TPS »), a fait l’acquisition de trois immeubles commerciaux à Saskatoon. L’appelant est devenu le propriétaire bénéficiaire de 75 p. 100 de ces immeubles et a exercé pendant plus de 20 ans la profession d’optométriste à Unity et à Meadow Lake, en Saskatchewan. Il était accaparé par l’exercice de sa profession, car il avait ouvert des bureaux dans les deux collectivités, qui se trouvent à environ deux heures et demie l’une de l’autre et, je crois, à environ deux heures de Saskatoon.
+[6] Au milieu des années 1990, il a retenu les services de Gerard Gardiner (« M. Gardiner ») à titre de conseiller en matière d’investissement et en matière financière. Sur les conseils de M. Gardiner, qui était conseiller en placements pour une entreprise privée, l’appelant a acheté avec celui-ci des actions dans une société (599418 Saskatchewan Ltd.) qui était l’unique actionnaire de 610, laquelle est devenue le propriétaire inscrit des trois immeubles commerciaux. Pacific and Western Trust Corporation, devenue plus tard Pacific and Western Bank (« P&W »), a prêté de l’argent à l’appelant et à M. Gardiner pour leur permettre de faire l’acquisition des immeubles.
+[7] Conformément à une entente conclue verbalement, M. Gardiner s’est engagé à s’occuper de l’exploitation quotidienne de 610. L’appelant n’avait pas le temps ni l’aptitude voulue pour s’occuper des immeubles et de la gestion comptable connexe. Il arrive souvent qu’une personne accaparée par sa profession et un associé ayant de l’expérience pratique concluent une entente de cette nature.
+[8] En plus de l’appelant, M. Robinson, C.A., qui était le comptable de celui‑ci depuis de nombreuses années, a également témoigné. Tous les deux ont reconnu que M. Gardiner s’occupait de la tenue de livres, tandis que M. Robinson préparait les états financiers et les déclarations de TPS. M. Robinson a préparé les états et les déclarations fiscales pour les périodes allant de mai au 31 décembre 1998 et du 1er janvier au 3 décembre 1999 seulement, parce qu’il a préparé en 1999 les états correspondant au reste de l’année 1998. Après 1999, il n’a pas reçu de M. Gardiner les documents dont il avait besoin pour préparer les déclarations de TPS et les autres documents se rapportant aux années subséquentes.
+[9] L’appelant faisait totalement confiance à M. Gardiner et à son comptable en ce qui a trait aux questions concernant la TPS et la tenue de livres, le financement, la préparation des états financiers et des déclarations et ainsi de suite. La question est de savoir si ces mesures sont suffisantes pour satisfaire aux exigences du paragraphe 323(3).
+[10] Au début des années 2000, l’entreprise de gestion immobilière de 610 a éprouvé plusieurs problèmes financiers et l’appelant a dû avancer une somme de 75 000 $ à la banque en novembre 2002 afin d’assurer la stabilité financière de 610.
+[11] Vers la même période, l’appelant a également garanti un prêt bancaire de 25 000 $ à l’égard de la part que M. Gardiner devait verser au titre de l’apport au comptant de 100 000 $ qui était exigé.
+[12] 610 a vendu un immeuble en 2001 et un autre en 2002; le produit de la vente a été versé à la banque et a servi à réduire la dette de l’entreprise. En novembre 2002, l’appelant a demandé explicitement à M. Gardiner si les déclarations et les versements M. Gardiner de TPS étaient à jour et a obtenu une réponse affirmative.
+[13] En 2003, 610, l’appelant et M. Gardiner ont acheté la paix et obtenu une décharge de la banque en transférant à celle-ci le troisième immeuble et en lui versant une somme de 100 000 $. L’appelant a alors versé une somme de 75 000 $ à la banque et garanti un billet de 25 000 $ que M. Gardiner avait signé en faveur de celle-ci. L’appelant croyait alors que toutes les dettes de 610 étaient payées, y compris les dettes au titre de la TPS.
+[14] Pendant deux ou trois ans, avant l’achat des immeubles, l’appelant s’est fondé sur les conseils et sur la gestion de M. Gardiner. Bien qu’aucune précision n’ait été donnée, c’est principalement sur cette personne que repose la thèse de la diligence raisonnable de l’appelant. M. Thomas a manifestement témoigné de manière intéressée afin de répondre à ses besoins actuels, mais sa version n’a pas vraiment été ébranlée en contre‑interrogatoire. À la lumière de la preuve, il semblerait que M. Gardiner ne respectait pas le critère énoncé au paragraphe 323(3); cependant, nous n’avons malheureusement entendu qu’un seul côté de la médaille, car M. Gardiner n’a pas été appelé à témoigner. Il a apparemment lui aussi fait l’objet d’une cotisation relativement au même scénario. Il se peut fort bien qu’il ait une version différente des faits.
+[15] L’appelant n’admet pas qu’il était administrateur au cours de la période pertinente, mais il soutient que, si cette conclusion est tirée, il était un administrateur externe selon le sens donné à cette expression dans Soper v. The Queen, 97 DTC 5407 et il a exercé la diligence raisonnable exigée par la Loi. L’appelant a souligné qu’il avait cessé d’être administrateur plus de deux ans avant l’établissement de la cotisation à son endroit et que celle‑ci était prescrite en application du paragraphe 323(5) de la Loi. Les deux parties à la présente affaire ont leurs propres raisons de ne pas avoir fait témoigner M. Gardiner et je ne tire aucune conclusion défavorable de l’absence de cette personne.
+[16] Je commenterai d’abord l’argument qui, je crois, est le principal moyen de défense de l’appelant, soit la diligence raisonnable.
+[17] Les deux avocats ont cité l’arrêt Soper, qui a sensiblement influencé la Cour canadienne de l’impôt. Je crois que cet arrêt a aidé les contribuables à alléger dans certains cas la sévérité de la responsabilité des administrateurs. Cette décision est citée au soutien du principe selon lequel les administrateurs internes et externes sont assujettis à des critères différents, de sorte qu’il n’y a pas lieu de tenir les administrateurs automatiquement responsables en cas de défaut de paiement des taxes et impôts gouvernementaux par l’entreprise.
+[18] L’arrêt Soper, notamment les paragraphes 29 et 30, est cité dans la plupart des affaires portant sur la responsabilité des administrateurs :
+29 [...] La norme de prudence énoncée au paragraphe 227.1(3) de la Loi est fondamentalement souple. Au lieu de traiter les administrateurs comme un groupe homogène de professionnels dont la conduite est régie par une seule norme immuable, cette disposition comporte un élément subjectif qui tient compte des connaissances personnelles et de l’expérience de l’administrateur, ainsi que du contexte de la société visée, notamment son organisation, ses ressources, ses usages et sa conduite. Ainsi, on attend plus des personnes qui possèdent des compétences supérieures à la moyenne (p. ex. les gens d’affaires chevronnés).
+30 La norme de prudence énoncée au paragraphe 227.1(3) de la Loi n’est donc pas purement objective. Elle n’est pas purement subjective non plus. Il ne suffit pas qu’un administrateur affirme qu’il a fait de son mieux, car il invoque ainsi la norme purement subjective. [...]
+[19] Dans l’arrêt Magasins à rayons Peoples, 2004 CSC 68, la Cour suprême du Canada a remplacé la norme objective subjective par une norme simplement objective. Cette modification a pour effet de ramener la question en litige en l’espèce à celle de savoir si l’appelant a agi de façon raisonnable, eu égard à l’ensemble de la situation, et s’il a satisfait à la norme objective énoncée au paragraphe 323(3).
+[20] À l’heure actuelle, je constate que je ne suis pas saisi de tous les faits et que je ne puis faire autrement que de donner le bénéfice du doute à l’appelant.
+[21] La question est de savoir si le M. Thomas (Ph. D) avait le droit de se fonder entièrement sur la diligence et sur la compétence de son comptable et de son conseiller en placements.
+[22] L’expérience commerciale de l’appelant était limitée. L’appelant connaissait de manière générale les exigences relatives à la TPS. Il était administrateur d’au moins trois autres sociétés, mais peu de détails ont été fournis à ce sujet.
+[23] L’appelant était convaincu que M. Gardiner et M. Robinson étaient capables de s’occuper de la tenue de livres et de la gestion comptable nécessaires à l’égard de la TPS. La plupart des Canadiens ne connaissent pas très bien ces exigences.
+[24] Le seul élément de preuve dont je suis saisi à ce sujet est le fait que M. Gardiner et M. Robinson ont tous les deux laissé tomber l’appelant et je dois accepter le témoignage de celui‑ci et lui donner le bénéfice du doute, même si la faute est carrément imputée à M. Gardiner, qui n’a pas témoigné. L’exploitation de l’entreprise de gestion immobilière de 610 s’est révélée un échec pour plusieurs raisons, notamment les espaces vacants.
+[25] Au fil des années, l’appelant a versé des sommes d’argent totalisant 150 000 $ pour permettre à la société de survivre. Le personnel qui travaillait au bureau du comptable de l’appelant a demandé plusieurs fois à M. Gardiner de lui remettre les registres comptables afin qu’il puisse préparer les déclarations de TPS et les états financiers, mais il n’a pas reçu ce dont il avait besoin.
+[26] Fait étonnant, le comptable de l’appelant, qui travaille depuis longtemps pour celui‑ci, a déclaré ne pas avoir mentionné à l’appelant que 610 n’avait pas produit les déclarations de TPS pour l’année 2000 et les années suivantes, même si l’appelant l’a rencontré plusieurs fois au cours de la période pertinente.
+[27] À mon avis, il ne serait pas raisonnable d’exiger que l’appelant aille plus loin et demande qu’une vérification du travail de M. Gardiner et de M. Robinson soit faite, étant donné, surtout, qu’aucun d’eux n’a laissé entendre que quelque chose n’allait pas.
+[28] En résumé, l’appelant était un administrateur externe qui avait confié la gestion comptable et la préparation des déclarations de TPS à son associé et à son comptable, en qui il avait entièrement confiance.
+[29] Il savait, au moins depuis 2002, que 610 éprouvait des problèmes financiers et il a donc avancé une somme d’environ 150 000 $, en 2002 et en 2003, pour payer les dettes de celle‑ci; je suppose qu’il présumait que ces dettes comprenaient la TPS.
+[30] En novembre 2002, il a demandé à M. Gardiner si les déclarations et les versements de TPS avaient été faits et s’est fait répondre que tout allait bien.
+[31] Il a siégé au conseil d’administration de 610 parce qu’il avait investi 75 p. 100 du capital de l’entreprise. Il a été encouragé à faire cet investissement par M. Gardiner, son conseiller. Dans le passé, il a investi dans différentes entreprises qui lui avaient été présentées et, dans tous ces cas, il a laissé à d’autres personnes comme M. Gardiner le soin de s’occuper de la gestion quotidienne.
+[32] Je suis d’avis que le critère de la diligence raisonnable énoncé au paragraphe 323(3) a été respecté. Ce motif suffit en soi pour accueillir l’appel; cependant, par courtoisie, je commenterai brièvement le second argument du ministre.
+[33] La question est de savoir si l’appelant a cessé d’être administrateur de 610 à compter du moment où la société a été radiée du registre des sociétés de la Saskatchewan, ce qui a déclenché l’application du délai de prescription prévu au paragraphe 323(5).
+[34] L’appelant invoque la décision rendue dans Aujla c. Sa Majesté la Reine, 2007 CCI 764, pour soutenir que, dans ces circonstances, la cotisation est prescrite.
+[35] La Cour d’appel fédérale a plus tard confirmé la décision que le juge Bowie avait rendue dans Aujla (2008 CAF 304). Dans cette affaire, les contribuables étaient administrateurs d’une société qui a été dissoute, et je souligne le mot « dissoute », et dont l’existence a repris plus tard par suite d’une ordonnance judiciaire.
+[36] La Cour d’appel fédérale a confirmé la conclusion du juge Bowie selon laquelle une société dont l’existence a pris fin ne peut avoir d’administrateurs, de sorte que les contribuables ont cessé d’être administrateurs à la date de la dissolution de la société.
+[37] Dans la présente affaire, il n’est pas certain que la société ait été radiée des registres pour une raison autre que le défaut de produire ses déclarations.
+[38] En l’absence de précision à ce sujet, il est impossible de savoir si l’appelant a cessé d’être administrateur au moment où la société a été radiée du registre.
+[39] L’appel est accueilli sans frais.
+Signé à Ottawa, Canada, ce 12e jour de septembre 2011.
+« C.H. McArthur »
+Juge McArthur
+Traduction certifiée conforme
+ce 24e jour d’octobre 2011.
+Marie-Christine Gervais
+RÉFÉRENCE : 2011CCI421
+No DU DOSSIER DE LA COUR : 2009-3273(GST)I
+INTITULÉ : BRADLEY THOMAS c. LA REINE
+LIEU DE L’AUDIENCE : Ottawa (Ontario)
+DATE DE L’AUDIENCE : Le 11 mai 2010
+MOTIFS DU JUGEMENT : L’honorable juge C.H. McArthur
+DATE DU JUGEMENT : Le 12 septembre 2011
+COMPARUTIONS :
+Avocats de l’appelant :
+Me Beaty F. Beaubier
+Me Amanda Doucette
+Avocate de l’intimée :
+Me Anne Jinnouchi
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Noms : Me Beaty F. Beaubier
+Me Amanda Doucette
+Cabinet : Stevenson Hood Thornton Beaubier LLP
+Saskatoon (Saskatchewan)
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada

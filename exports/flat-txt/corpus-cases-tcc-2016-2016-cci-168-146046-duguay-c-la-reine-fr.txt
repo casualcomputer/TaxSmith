@@ -1,0 +1,163 @@
+Title: Duguay c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/146046/index.do
+Corpus path: corpus/cases/tcc/2016/2016-cci-168-146046-duguay-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2016-07-08
+
+# Duguay c. La Reine
+
+- Citation: 2016 CCI 168
+- Decision date: 2016-07-08
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2922, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Duguay c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2016-07-08
+Référence neutre
+2016 CCI 168
+Numéro de dossier
+2015-5010(IT)I
+Juges et Officiers taxateurs
+Réal Favreau
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2015-5010(IT)I
+ENTRE :
+NORMAND DUGUAY,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Appel entendu le 14 mars 2016, à Québec (Québec)
+Devant : L'honorable juge Réal Favreau
+Comparutions :
+Pour l'appelant :
+l'appelant lui-même
+Avocat de l'intimée :
+Me Simon Vincent
+JUGEMENT
+L’appel à l’encontre de la cotisation datée du 25 septembre 2014 émise en vertu de la Loi de l’impôt sur le revenu par le ministre du Revenu national concernant l’année d’imposition 2013 est rejeté conformément aux motifs du jugement ci-joints.
+Signé à Montréal, Canada, ce 8e jour de juillet 2016.
+« Réal Favreau »
+Juge Favreau
+Référence : 2016 CCI 168
+Date : 20160708
+Dossier : 2015-5010(IT)I
+ENTRE :
+NORMAND DUGUAY,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Favreau
+[1] Il s’agit d’un appel régit par la procédure informelle à l’encontre d’une cotisation datée du 25 septembre 2014 établie par le ministre du Revenu national (le « ministre ») en vertu de la Loi de l’impôt sur le revenu, L.R.C. (1985) ch. 1 (5e suppl.), telle que modifiée (la « Loi ») concernant l’année d’imposition 2013 de l’appelant.
+[2] En vertu de la cotisation datée du 25 septembre 2014, le ministre a refusé la déduction d’un montant de 10 000 $ à titre de don de bienfaisance aux fins du calcul des crédits d’impôts non remboursables.
+[3] Pour établir et maintenir la cotisation pour l’année d’imposition 2013 de l’appelant, le ministre a tenu pour acquis les faits suivants :
+a) l’appelant est retraité;
+b) l’appelant réside au 527-815 rue de Villers à Québec dans un logement appartenant au Manoir Laure Gaudreault (ci-après le « Manoir »);
+c) en produisant sa déclaration de revenus pour l’année d’imposition en litige, l’appelant a réclamé un montant de 10 000 $ à titre de don de bienfaisance effectué au Manoir;
+d) le Manoir est un organisme de bienfaisance enregistré depuis le 1er janvier 1978;
+e) le Manoir offre des logements pour personnes à faibles revenus et possède également une résidence pour personnes âgées;
+f) durant l’année d’imposition en litige, l’appelant a acheté des matériaux de construction pour un montant total de 20 153 $;
+g) ces matériaux de construction ont été utilisés exclusivement à des fins de rénovation du logement de l’appelant;
+h) le 18 novembre 2013, le Manoir a émis deux chèques (#2030 et #2031) d’un montant de 10 000 $ chacun au nom de l’appelant à titre de remboursement des matériaux de construction;
+i) ce même jour, l’appelant a endossé le chèque #2030 au montant de 10 000 $ et l’a remis au Manoir, qui l’a déposé dans son compte de banque le 26 novembre 2013;
+j) le 18 novembre 2013, le Manoir a émis un reçu de don de charité à l’appelant d’un montant de 10 000 $;
+k) le ministre a calculé le montant admissible à titre de don de la façon suivante :
+Contribution monétaire de l’appelant (chèque #2030)
+10 000 $
+Moins valeur de l’avantage reçu par l’appelant (réparations)
+(10 000 $)
+Montant admissible à titre de don
+0$
+l) le reçu de dons émis à l’appelant par le Manoir pour l’année d’imposition 2013 ne contient pas les (sic) renseignements (sic) suivants (sic) :
+i) l’adresse du donateur;
+[4] À l’ouverture de l’audience, l’avocat de l’intimée a informé la Cour que la Réponse à l’avis d’appel devait être modifiée parce que le reçu émis à l’appelant par le Manoir était conforme aux exigences de la Loi et des articles 3500 et 3501 des Règlements de l’impôt sur le revenu. Par conséquent, le paragraphe (l) des hypothèses de fait retenues par le ministre doit donc être enlevé.
+[5] Les faits dans ce dossier ne sont pas contestés. Plus précisément, l’intimée ne conteste pas que les matériaux achetés par l’appelant pour un montant de
+20 153 $ ont été exclusivement utilisés pour rénover le logement de ce dernier au Manoir. De plus, les parties ont reconnu que, le 18 novembre 2013, le Manoir a émis deux chèques de 10 000 $ chacun au nom de l’appelant à titre de remboursement des matériaux de construction et que, le même jour, l’appelant a endossé un des deux chèques de 10 000 $ et l’a remis au Manoir pour dépôt à l’égard duquel le Manoir a émis à l’appelant un reçu pour don de charité au montant de 10 000 $.
+[6] L’appelant a témoigné à l’audience et il a expliqué qu’il avait conclu une entente avec l’ancienne administration du Manoir à l’effet que le Manoir rembourserait à l’appelant 50% du coût des travaux et lui remettrait un reçu de charité pour l’autre 50% du coût des travaux pour tenir compte de la valeur des matériaux que l’appelant va devoir laisser sur place lorsqu’il va quitter les lieux.
+[7] Une copie du bail signé par l’appelant et sa conjointe le 24 juillet 2013 pour une durée de 14 mois débutant le 1er mai 2013 et se terminant le 30 juin 2014 a été déposée en preuve. Une disposition du bail autorisait l’appelant à rénover le logement à ses frais. Le loyer mensuel payable par l’appelant était de 765 $ alors que le loyer le plus bas payé pour le logement au cours des 12 mois précédant le début du bail était de 810 $ par mois.
+[8] Madame Solange Castonguay, l’actuelle directrice générale du Manoir, a témoigné à l’audience et elle a expliqué que le Manoir était un organisme sans but lucratif qui offrait des logements à prix modique aux personnes ayant un faible revenu. Le Manoir compte 135 logements dont la moitié n’ont jamais été rénovés depuis 1979. La politique actuelle du Manoir est de défrayer la totalité des coûts de rénovation qui se situent aux environs de 10 000 $ par logement. Les rénovations consistent principalement à enlever les tapis et à les remplacer par du plancher flottant.
+[9] Madame Castonguay a également mentionné qu’elle avait été informée qu’il y a eu dans le passé d’autres cas où des reçus de charité avaient été émis dans le cadre de travaux de rénovation mais que cette pratique avait été abandonnée suite à un avis de la Régie du logement.
+[10] Madame Castonguay ne comprenait pas comment l’appelant a pu se qualifier pour résider au Manoir alors que son revenu net pour l’année d’imposition 2013 était de 52 248 $.
+Analyse [11] Suite à l’audition de la cause, les parties ont produit des notes pour répondre à la Cour relativement à la question de savoir si la notion de don est différente en droit civil de celle retenue par la common law. La question est pertinente parce que le mot « don » n’est pas défini dans la Loi.
+[12] Lors de l’audience, l’intimée s’est notamment référée au passage suivant de la décision Maréchaux c. La Reine, 2009 CCI 587.
+[31] Dans certaines décisions judiciaires pertinentes, les tribunaux ont eu tendance à décrire, de façons légèrement différentes, ce qu’est un don. Pour les besoins du présent appel, il n’est pas nécessaire d’analyser ces nuances. Il suffit de se reporter à la description d’un « don » que le juge Linden a donnée dans l’arrêt The Queen v. Friedberg, 92 DTC 6031 (C.A.F.), page 6032 :
+La Loi de l’impôt sur le revenu ne définit pas le mot « don », et ce sont les principes généraux du droit concernant les dons que les tribunaux appliquent en pareille circonstance. Comme le juge Stone l’a expliqué dans l’arrêt La Reine c. McBurney, 85 D.T.C. 5433, à la p. 5435 :
+La Loi ne définit pas le mot « dons ». Rien dans le contexte à l’intérieur duquel ce terme est employé ne porte à croire qu’il y revêt un sens technique plutôt que son sens ordinaire.
+Par conséquent, un don est le transfert volontaire du bien d’un donateur à un donataire, en échange duquel le donateur ne reçoit pas d’avantage ni de contrepartie (voir le juge Heald dans La Reine c. Zandstra [74 DTC 6416] [1974] 2 C.F. 254, à la p. 261). L’avantage fiscal qui est conféré par un don n’est généralement pas considéré comme un « avantage » au sens où on l’entend dans cette définition car s’il en était ainsi, bien des donateurs seraient dans l’impossibilité de se prévaloir des déductions relatives aux dons de charité.
+[32] Si la définition susmentionnée est appliquée aux faits de la présente affaire, il est clair que l’appelant n’a pas effectué de don à la fondation puisqu’il obtenait un important avantage en échange du don.
+[33] L’avantage découle de l’entente de financement. Le prêt de 80 000 $ ne portant pas intérêt que l’appelant a reçu, auquel vient s’ajouter l’option de vente prévue, constituait un avantage important qui était donné en échange du don. Le financement n’était pas accordé indépendamment du don. Les deux étaient inextricablement liés par les ententes pertinentes.
+(mes soulignements)
+[13] Il eut certes été utile que l’intimée reproduise la disposition pertinente du Code civil du Québec (CcQ), soit l’article 1806, qui prévoit ce qui suit :
+La donation est le contrat par lequel une personne, le donateur, transfère la propriété d’un bien à titre gratuit à une autre personne, le donataire; le transfert peut aussi porter sur un démembrement du droit de propriété ou sur tout autre droit dont on est titulaire.
+La donation peut être faite entre vifs ou à cause de mort.
+(mes soulignements)
+[14] Par contre, comme le juge Archambault de cette Cour l’a mentionné dans Gonthier c. La Reine, 2003 CANLII 1659, par. 9, la définition du mot « don » fournie par le CcQ correspond à celle retenue par la common law.
+Comme on peut le constater, cette définition correspond à celle que l’on retrouve dans la common law. Que l’on se réfère au C.c.Q. ou aux définitions tirées de la common law, il est de l’essence d’un don qu’il est un transfert d’un bien à titre gratuit, sans aucune contrepartie.
+[15] Tant en droit civil qu’en common law, la notion d’intention libérale doit clairement exister pour qu’un acte juridique puisse être qualifié de donation. Dans Martin c. Dupont, 2016 QCCA 475, la Cour d’appel du Québec a décrit la notion d’intention libérale de la façon suivante :
+[27] Soulignons également qu'il appartient aussi à celui qui prétend qu'un acte juridique est une donation d'en faire la preuve puisqu'à défaut il existe une présomption de non-gratuité7 tel que le rappelle le professeur Brière :
+Selon une conception plus large, l'intention libérale est le fait de savoir qu'on ne reçoit pas de contrepartie et la volonté arrêtée de ne rien recevoir en échange, i.e. la volonté réfléchie de s'appauvrir. [...] Il sera nécessaire, pour celui qui invoque la donation, de prouver cette intention libérale sans équivoque.8
+[soulignement de la Cour]
+[28] La donation requiert ainsi la présence de deux éléments, soit l'élément matériel et l'élément psychologique.
+[...] il n'y a pas de libéralité sans la présence de l'élément intellectuel ou psychologique, l'animus donandi, et sans la présence de l'élément matériel, la transmission de valeurs sans contrepartie équivalente.9
+[29] L'élément psychologique, l'animus donandi, a été défini comme "une volonté réelle de se départir d'un bien au profit d'une tierce personne, sans tirer d'avantage en retour".
+[30] La donation implique donc l'intention de s'appauvrir sans rien obtenir en retour, si ce n'est de s'attendre à la gratitude du donataire11. Il est également impératif que le donateur n'en retire pas un avantage matériel.
+[31] Les deux éléments sont requis et l'absence de l'un des deux suffit pour conclure que l'acte n'est pas une donation.
+[16] Comme nous l’avons vu précédemment, la Loi ne définit pas ce qu’est un don. Par contre, la Loi contient des dispositions visant à diminuer le montant d’un don du montant de l’avantage reçu par le donateur. Ces dispositions ont été adoptées en juin 2013 avec effet rétroactif au 21 décembre 2002 (voir la Loi de 2012 apportant des modifications techniques concernant l’impôt et les taxes, L.C. 2013, ch. 34, par. 358(30) et (54).
+[17] Les dispositions en question définissent le montant admissible d’un don et le montant de l’avantage au titre d’un don. Voici comment les paragraphes 248(31) et 248(32) de la Loi sont rédigés :
+Montant admissible d’un don ou d’une contribution monétaire
+(31) Le montant admissible d’un don ou d’une contribution monétaire correspond à l’excédent de la juste valeur marchande du bien qui fait l’objet du don ou de la contribution sur le montant de l’avantage, le cas échéant, au titre du don ou de la contribution.
+Montant de l’avantage
+(32) Le montant de l’avantage au titre d’un don ou d’une contribution monétaire fait par un contribuable correspond au total des sommes suivantes :
+a) le total des sommes, sauf celle visée à l’alinéa b), représentant chacune la valeur, au moment du don ou de la contribution, de tout bien ou service, de toute compensation ou utilisation ou de tout autre bénéfice que le contribuable, ou une autre personne ou une société de personnes qui a un lien de dépendance avec lui, a reçu ou obtenu, ou a le droit, immédiat ou futur et absolu ou conditionnel, de recevoir ou d’obtenir, ou dont le contribuable ou une telle personne ou société de personnes a joui ou a le droit, immédiat ou futur et absolu ou conditionnel, de jouir, et qui, selon le cas :
+(i) est accordé en contrepartie du don ou de la contribution,
+(ii) est accordé en reconnaissance du don ou de la contribution,
+(iii) se rapporte de toute autre façon au don ou à la contribution,
+b) la dette à recours limité, déterminée selon le paragraphe 143.2(6.1), relative au don ou à la contribution au moment où il est fait.
+[18] Le montant de l’avantage au titre d’un don comprend le total des sommes représentant chacune la valeur au moment du don de tout bien dont le contribuable a joui ou a le droit immédiat ou futur et, absolu ou conditionnel, de jouir, et qui est accordé en contrepartie du don ou de la contribution, en reconnaissance du don ou de la contribution ou se rapporte de toute autre façon au don ou à la contribution.
+[19] Dans le cas présent, l’appelant avait, au moment du don, le droit de jouir immédiatement des rénovations effectuées à son logement et cet avantage lui a été accordé dans le cadre du don effectué au Manoir. L’occupation du logement rénové n’a pas été accordé indépendamment du don. L’occupation du logement rénové et le don étaient inextricablement liés par une entente préalable avec le Manoir convenue verbalement avant le début des travaux de rénovation.
+[20] Il y a également lieu de souligner ici que l’appelant a reconnu à l’audience que le loyer qu’il a payé pour occuper son logement était inférieur à la valeur marchande du loyer exigé pour occuper ce genre de logement. Qui plus est, il a été mis en preuve que le loyer payé par l’appelant était même inférieur au loyer payé par le locataire antérieur du logement avant que les rénovations aient été réalisées.
+[21] Par ailleurs, contrairement à ce que suggère l’appelant, la notion d’avantage reçu en contrepartie du don doit être analysée en fonction de la perspective du donateur et non pas selon la perspective du donataire. Ainsi, il n’est pas pertinent de s’interroger sur la question de savoir si le Manoir a bénéficié ou bénéficiera du don dans le futur au moment où l’appelant quittera son logement.
+[22] Au cours de l’audition, l’intimée a émis des commentaires relativement à l’opportunité de partager le don entre une partie admissible et une partie non admissible au crédit pour don de bienfaisance. Comme ce point n’a pas été soulevé par l’appelant et comme aucune méthode n’a été suggérée afin de diviser le prétendu don de bienfaisance de 10 000 $, il n’y a pas lieu dans les circonstances de la présente affaire de partager le don ou la contribution afin qu’une partie soit admise à titre de don de bienfaisance.
+[23] Pour toutes ces raisons, l’appel est rejeté.
+Signé à Montréal, Canada, ce 8e jour de juillet 2016.
+« Réal Favreau »
+Juge Favreau
+RÉFÉRENCE :
+2016 CCI 168
+Nº DU DOSSIER DE LA COUR :
+2015-5010(IT)I
+INTITULÉ DE LA CAUSE :
+NORMAND DUGUAY ET SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Québec (Québec)
+DATE DE L’AUDIENCE :
+le 14 mars 2016
+MOTIFS DE JUGEMENT PAR :
+L'honorable juge Réal Favreau
+DATE DU JUGEMENT :
+le 8 juillet 2016
+COMPARUTIONS :
+Pour l'appelant :
+l'appelant lui-même
+Avocat de l'intimée :
+Me Simon Vincent
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelant:
+Nom :
+Cabinet :
+Pour l’intimée :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada

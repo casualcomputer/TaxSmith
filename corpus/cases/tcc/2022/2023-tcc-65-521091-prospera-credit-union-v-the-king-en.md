@@ -1,0 +1,275 @@
+---
+title: "Prospera Credit Union v. The King"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/521091/index.do"
+last_modified: "2022-05-10"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2023 TCC 65"
+citation2: ""
+neutral_citation: "2023 TCC 65"
+decision_date: "2022-05-10"
+language: "en"
+item_id: "521091"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5878
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2024-11-02T09:00:42.741000+00:00"
+cases_cited_count: 3
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "77141eaca28ced1f1a6efc154b53954eef441a036371bb3b1af266166416535c"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Prospera Credit Union v. The King
+
+- Citation: 2023 TCC 65
+- Decision date: 2022-05-10
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5878, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Prospera Credit Union v. The King
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2023-05-10
+Neutral citation
+2023 TCC 65
+File numbers
+2020-1578(GST)G
+Judges and Taxing Officers
+Susan Wong
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2020-1578(GST)G
+BETWEEN:
+PROSPERA CREDIT UNION,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+Appeal heard on April 19 and 20, 2022, at Vancouver, British Columbia
+Before: The Honourable Justice Susan Wong
+Appearances:
+Counsel for the Appellant:
+Joel A. Nitikman, K.C.
+Counsel for the Respondent:
+Whitney Dunn
+Spencer Landsiedel
+JUDGMENT
+1. The appeal is allowed, with costs.
+The parties shall have until June 15, 2023 to reach an agreement as to costs, failing which the appellant shall file written submissions by July 14, 2023 and the respondent shall file a written response by August 14, 2023. Any such submissions shall not exceed ten pages in length. If the parties do not advise the court that they have reached an agreement and no submissions are received by these dates, then costs shall be awarded to the appellant in accordance with Tariff B.
+Signed at Ottawa, Canada, this 10th day of May 2023.
+“Susan Wong”
+Wong J.
+Citation: 2023 TCC 65
+Date: May10, 2023
+Docket: 2020-1578(GST)G
+BETWEEN:
+PROSPERA CREDIT UNION,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+REASONS FOR JUDGMENT
+Wong J.
+Introduction
+[1] Westminster Savings Credit Union (the appellant’s predecessor by amalgamation) provided certain services to Credential Asset Management Inc. (“CAMI”) and Credential Securities Inc. (“CSI”) pursuant to agreements to promote and sell CAMI mutual funds and CSI securities to Westminster’s members.
+Issue
+[2] The question is whether the services provided by Westminster to CAMI/CSI were preparatory in nature and fell within the exception under paragraph (r.4) of the definition of “financial service”. If so, then the services were not GST-exempt and the appellant was obliged to collect and remit tax for the reporting periods from January 1, 2013 to December 31, 2016.
+Preliminary matter
+[3] At the commencement of the hearing, the parties advised that the respondent concedes the issue of whether Westminster was required to collect and remit GST with respect to consideration received for services provided to Desjardins Financial Group regarding the issuance of credit cards to members during the reporting periods under appeal.
+Factual background
+[4] The parties filed a Statement of Partial Agreed Facts and an Agreed Book of Documents, from which I have selected the relevant facts described below.
+Westminster Savings Credit Union
+[5] The appellant was created on January 1, 2020, through the amalgamation of Prospera Credit Union and Westminster Savings Credit Union (“Westminster”).[1] Westminster was incorporated in British Columbia on October 19, 1944.[2] During the period under appeal, Westminster was governed by the B.C. Credit Union Incorporation Act.[3] Westminster’s primary business was to act as a credit union, collecting deposits from its members and paying interest to them on their deposits.[4] Westminster had approximately 57,000 members, as well as 12 full-service offices and a head office (all in B.C.).[5]
+[6] Westminster provided its members with various wealth management services such as assistance with financial planning, estate planning, tax planning, income protection, investment management, and insurance planning. It also had a third- party arrangement under which credit cards were provided to its members.[6] Westminster was not authorized to sell mutual funds or securities to its members.[7]
+Credential Asset Management Inc. and Credential Securities Inc.
+[7] CAMI was incorporated in Ontario in 1987.[8] During the period under appeal, it was a member of the Mutual Fund Dealers Association of Canada (“MFDA”) and authorized to sell mutual funds.[9] CAMI sold mutual funds to members of the public and received fees for the sales.[10]
+[8] CSI was incorporated federally in 1995.[11] During the period under appeal, it was a member of the Investment Industry Regulatory Organization of Canada (“IIROC”) and authorized to sell securities such as mutual funds, shares, and bonds.[12] CSI sold securities to members of the public and received fees for the sales.[13]
+Westminster’s agreements with CAMI and CSI
+[9] Westminster dealt at arm’s length with both CAMI and CSI.[14] It entered into participation agreements with CAMI and CSI on April 27, 2001, and May 6, 2016, respectively.[15] The agreement with CAMI was amended on March 31, 2004, to add certain definitions as well as provisions dealing with insurance and indemnification.[16]
+[10] The participation agreements stated that Westminster would provide certain services to CAMI and CSI, in return for payments of fees from them.[17] If the CAMI mutual funds/CSI securities were purchased through dual employees/investment advisors (described below under the heading “Dual employees and Investment advisors”), then Westminster would receive fees from CAMI/CSI; otherwise, it would not.[18] More specifically:
+a)with respect to CAMI – CAMI paid to Westminster fees equalling a percentage of the distribution fees and service fees received by CAMI from the issuers of mutual funds. The percentage of distribution fees depended on the volume of sales while the percentage of service fees depended on whether Westminster used CAMI’s electronic data transfer system to record mutual fund transactions;[19] and
+b)with respect to CSI – CSI paid to Westminster fees equalling a percentage of the commissions received by CSI from selling securities.[20]
+[11] During the period under appeal, Westminster received the following fees from CAMI and CSI, on which it did not collect or remit GST:[21]
+Year
+Amount
+2013
+$4,811,448
+2014
+$4,995,195
+2015
+$4,435,396
+2016
+$3,963,308
+Dual employees and Investment advisors
+[12] Under the respective participation agreements, Westminster and CAMI/CSI jointly hired employees to provide the services agreed upon. Under the CAMI agreement, the employees were referred to as dual employees while under the CSI agreement, they were referred to as investment advisors.[22] In both instances, these employees worked out of Westminster’s offices and were supervised by Westminster.[23]
+[13] The dual employees/investment advisors reported only to Westminster with respect to their day-to-day activities.[24] Westminster paid the cost of training the dual employees/investment advisors to provide services to members relating to CAMI’s/CSI’s products.[25] The dual employees/investment advisors also attended CAMI/CSI courses to ensure that they met MFDA or IIROC regulatory standards, as the case may be; Westminster arranged for their attendance and paid fees to CAMI/CSI in this regard.[26]
+[14] The dual employees (i.e. Westminster/CAMI) were required to be licensed by the MFDA while the investment advisors (i.e. Westminster/CSI) were required to be licensed by IIROC in order to deal with, advise as to, and sell mutual funds and securities, respectively.[27] Westminster paid the licensing fees in both instances.[28]
+[15] In 2013, 2014, 2015, and the first quarter of 2016, the jointly-hired employees consisted solely of dual employees (i.e. selling CAMI mutual funds).[29] After the first quarter of 2016, the complement included investment advisors (i.e. selling CSI securities).[30]
+[16] If a member decided to buy mutual funds or securities, then the dual employee/investment advisor would:
+a)collect information from the member to complete the necessary paperwork, or assist the member in completing it; and
+b)send the completed paperwork to CAMI/CSI for review. If the paperwork was in order, then the purchase would be made in the member’s name.[31]
+[17] In a sample situation involving an investment advisor, the individual signed an employment agreement with CSI on July 23, 2016, and then a separate employment agreement with Westminster on December 16, 2016.[32] Under the Westminster employment agreement, Westminster paid him wages and other remuneration for his services as an investment advisor while under the CSI agreement, CSI was not required to pay him any wages or remuneration.[33]
+[18] In a sample situation involving a dual employee, the individual signed an employment agreement with Westminster on September 1, 2016, and then a separate employment agreement with CAMI on September 27, 2016.[34] Under the Westminster employment agreement, Westminster paid her wages and other remuneration for her services as a dual employee while under the CAMI agreement, CAMI was required to pay her $1 per year.[35]
+[19] With respect to the dual employees, CAMI and Westminster each held errors & omissions insurance under which they were each the beneficiary for their respective policies; however, Westminster paid for both policies.[36]
+Member purchases of CAMI and CSI products
+[20] When members bought CAMI mutual funds or CSI securities through Westminster, the members would instruct Westminster to withdraw money from their Westminster account and deposit it in a special trust account created by Westminster. CAMI/CSI then removed funds from that trust account on a daily basis and used the money to pay for the mutual funds/securities in question.[37]
+[21] The Court also heard the testimony of Susan Lovell (former VP of Finance for the appellant and for Westminster since 2015) and Kevin Dombrova (current VP of Wealth Planning for the appellant and Director of Wealth Management for Westminster since 2015).
+Legislative framework
+[22] A person who makes a taxable supply is obliged to collect GST on that supply, on behalf of the federal Crown.[38] A “taxable supply” in turn means a supply made in the course of a commercial activity.[39] “Commercial activity” is defined in the Act and for the purposes of this appeal, it is only important to know that a commercial activity specifically excludes the making of exempt supplies.[40]
+Financial services are exempt
+[23] The starting point is that other than exported financial services (which are zero-rated),[41] financial services are GST-exempt pursuant to Schedule V, Part VII of the Act. The definition of “financial service”[42] lists various types of services and the relevant portions are as follows:
+“financial service” means
+...
+(d) the issue, granting, allotment, acceptance, endorsement, renewal, processing, variation, transfer of ownership or repayment of a financial instrument,
+...
+(l) the agreeing to provide, or the arranging for, a service that is
+(i) referred to in any of paragraphs (a) to (i), and
+(ii) not referred to in any of paragraphs (n) to (t),
+...
+but does not include
+(r.4) a service (other than a prescribed service) that is preparatory to the provision or the potential provision of a service referred to in any of paragraphs (a) to (i) and (l), or that is provided in conjunction with a service referred to in any of those paragraphs, and that is
+(i) a service of collecting, collating or providing information, or
+(ii) a market research, product design, document preparation, document processing, customer assistance, promotional or advertising service or a similar service,
+…
+[24] For the purposes of this appeal, the services in question must fall within paragraphs (d) and (l) of the definition of “financial service” while falling outside paragraph (r.4) of the definition, in order to be exempt from tax. It is undisputed by the parties that the CAMI and CSI products in question are financial instruments, so paragraph (d) of the definition is not in issue.
+Discussion and analysis
+[25] The parties agree that Westminster made a single compound supply to CAMI and CSI, respectively. In other words, the elements of the supply are integrally connected and a single consideration was received in return.[43]
+[26] Beginning with Global Cash Access (Canada) Inc. v. Canada,[44] the Federal Court of Appeal has stated on numerous occasions that where there is a single supply comprised of multiple elements, the analysis consists of two steps:
+a)determine what services were provided for the consideration received, i.e. all services and not just the predominant ones;[45] and
+b)determine whether the supply falls within the statutory definition of “financial service”. To do so, one must identify the predominant elements of the supply and consider only those when applying the definition. In other words – what is the recipient really paying for?[46]
+Step one: What was provided?
+[27] The parties agree that the specific financial service in question is captured in paragraph (l) of the definition, i.e. agreeing to provide, or arranging for, the service referred to in paragraph (d) (regarding financial instruments). They also agree that the issue is ultimately whether paragraph (r.4) applies to disqualify the providing/arranging service as a financial service.[47]
+[28] Although expressed differently, the parties also agree that Westminster’s single supply consisted of the following elements:[48]
+a)completing a “discovery” process with the member to determine their goals, risk tolerance, time horizons, etc.
+b)with respect to CAMI mutual funds, a risk tolerance questionnaire was completed;
+c)collecting/gathering the necessary personal information from the member;
+d)making investment recommendations to the member; and
+e)signing the new-account paperwork and submitting it to CAMI/CSI.
+Step two: What are the predominant elements of the supply?
+[29] To answer this question, one must determine what gives the arrangement commercial efficacy, i.e. what is at the heart of the transaction?[49]
+[30] The fees received by Westminster from CAMI/CSI were directly related to purchases made by members and the amount of the fees increased proportionately with sales made. Westminster would also not be paid for uncompleted transactions. In other words, even if Westminster gathered all the relevant personal information and completed the necessary forms/questionnaires, it would not be paid by CAMI/CSI without a completed sale.[50] On their own, these services are preparatory and provided in conjunction with the financial service in paragraph (d) of the definition (regarding financial instruments), i.e. they fit squarely within paragraph (r.4).
+[31] However, in the present situation, the dual employees/investment advisors attended CAMI/CSI training courses which were paid for by Westminster and intended to enable them to meet regulatory standards. They also had to be licenced by the respective regulatory bodies (MFDA for mutual funds and IIROC for securities) to deal with, advise as to, and sell these products, and Westminster paid the licensing fees.[51]
+[32] The training gave the dual employees/investment advisors the expertise and knowledge to take the information gathered from a member respecting goals, risk tolerance, and time horizons, interpret it, and apply it by giving advice as to which products might be most suitable for the member in the circumstances. The licensing in turn gave them the legal authority to do so, as well as to close the transaction.
+[33] Regarding remuneration of the dual employees/investment advisors, they were paid by Westminster under the respective employment agreements. The CAMI agreement also provided that CAMI would pay each dual employee an annual nominal amount of $1 which appears to have never been paid, based on Ms. Lovell’s and Mr. Dombrova’s testimony. The dual employees/investment advisors reported exclusively to Westminster on their day-to-day activities and the respective participation agreements show that Westminster provided the physical space to conduct/promote the sale of these products.[52] Therefore, although the participation agreements stated that these employees were hired jointly, the day - to - day reality suggests otherwise.
+[34] The Department of Finance Technical Notes [June 2010] say that with respect to paragraph (l) of the definition:
+The term “agreeing to provide” is generally intended to refer to activities of a principal to a transaction of agreeing to provide a service referred to in any of paras. (a) to (i). The term “arranging for” is generally intended to include intermediation activities (or activities of bringing together the parties to a service referred to in any of paras. (a) to (i) that are normally performed by financial intermediaries described in subpara. 149(1)(a)(iii) such as agents, brokers and dealers in financial instruments or money. In determining if an intermediary’s service is included in para. (l), all the facts surrounding the transaction, including the degree of direct involvement of the intermediary in the supply of the service referred to in any of paras. (a) to (i), the time and effort expended by the intermediary, the reliance of either or both the supplier and the recipient on the intermediary in the course of a supply of a financial service, the intention of the intermediary and, where applicable, the normal activities of an intermediary in a given industry, must be considered (including whether the intermediary is engaged in a financial services business). Para. (l) is amended to provide, for greater certainty, that it does not include the agreeing to provide, or the arranging for, a service that is referred to in any of paras. (n) to (t). [my emphasis]
+[35] With respect to paragraph (r.4) of the definition, the same Technical Notes say that:
+New para. (r.4) clarifies that the definition of “financial service” does not include a service that is preparatory to a service referred to in any of paras. (a) to (i) and (l) of the definition “financial service”, or that is provided in conjunction with such a service, and that is
+a service of collecting, collating or providing information, or
+a market research, product design, document preparation, document processing, customer assistance, promotional or advertising service or a similar service.
+Where an intermediary provides a number of services as part of an agreement to provide, or arrange for financial services, only those services that are described in the two bullets above would either be preparatory to a service referred to in any of paras. (a) to (i) and (l) and would be excluded from the definition “financial service” by para. (r.4).
+[36] In considering the factors set out in these excerpts from the Finance Technical Notes, the present circumstances in their entirety show that while the preparatory aspects were certainly essential to close a transaction, they were neither the predominant element nor the only services supplied by Westminster. More specifically:
+a)Westminster provided an intermediation activity by bringing together CAMI/CSI as sellers and its own members as purchasers of the financial instruments;
+b)Westminster arranged for (but was not directly involved in) the supply of the service in paragraph (d) of the definition;
+c)the dual employees/investment advisors operated under Westminster’s umbrella with respect to remuneration, training, day-to-day supervision,licencing, and errors & omission insurance (for the dual employees), so the time and effort expended by Westminster was considerable. This makes sense in light of the quantum of the fees paid to Westminster by CAMI/CSI during the period under appeal; and
+d)the dual employees/investment advisors met with members, recommended suitable CAMI/CSI products, completed the necessary paperwork, and submitted it to CAMI/CSI, so the mutual reliance by CAMI/CSI and the members on Westminster was considerable.
+[37] The predominant element was the sale of CAMI/CSI mutual funds/securities to Westminster’s members, carried out by way of the dual employees/investment advisors using their training/licensing to recommend and sell CAMI/CSI products to Westminster members, commensurate with the members’ particular investment profiles.
+[38] Westminster arranged for the issue, granting, allotment, acceptance, endorsement, renewal, processing, variation, transfer of ownership or repayment of financial instruments, being CAMI mutual funds and CSI securities. It is the heart of the transaction and what CAMI/CSI really paid for. Therefore, Westminster provided the exempt financial service described in paragraph (l) of the definition by arranging for the financial service described in paragraph (d).
+Conclusion
+[39] The appeal is allowed, with costs.
+[40] The parties shall have until June 15, 2023 to reach an agreement as to costs, failing which the appellant shall file written submissions by July 14, 2023 and the respondent shall file a written response by August 14, 2023. Any such submissions shall not exceed ten pages in length. If the parties do not advise the court that they have reached an agreement and no submissions are received by these dates, then costs shall be awarded to the appellant in accordance with Tariff B.
+Signed at Ottawa, Canada, this 10th day of May 2023.
+“Susan Wong”
+Wong J.
+CITATION:
+2023 TCC 65
+COURT FILE NO.:
+2020-1578(GST)G
+STYLE OF CAUSE:
+Prospera Credit Union v.
+His Majesty the King
+PLACE OF HEARING:
+Vancouver, British Columbia
+DATE OF HEARING:
+April 19 and 20, 2022
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Susan Wong
+DATE OF JUDGMENT:
+May 10, 2023
+APPEARANCES:
+Counsel for the Appellant:
+Joel A. Nitikman, K.C.
+Counsel for the Respondent:
+Whitney Dunn
+Spencer Landsiedel
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Joel A. Nitikman, K.C.
+Firm:
+Dentons Canada LLP
+For the Respondent:
+Shalene Curtis-Micallef Deputy Attorney General of Canada Ottawa, Canada
+[1] Statement of Partial Agreed Facts, paragraph 1
+[2] Statement of Partial Agreed Facts, paragraph 2
+[3] Statement of Partial Agreed Facts, paragraph 3; RSBC 1996, c. 82
+[4] Statement of Partial Agreed Facts, paragraph 4
+[5] Statement of Partial Agreed Facts, paragraphs 6 and 7
+[6] Statement of Partial Agreed Facts, paragraph15
+[7] Statement of Partial Agreed Facts, paragraph 16
+[8] Statement of Partial Agreed Facts, paragraph 8
+[9] Statement of Partial Agreed Facts, paragraph 9
+[10] Statement of Partial Agreed Facts, paragraph 13
+[11] Statement of Partial Agreed Facts, paragraph 10
+[12] Statement of Partial Agreed Facts, paragraph 12
+[13] Statement of Partial Agreed Facts, paragraph 13
+[14] Statement of Partial Agreed Facts, paragraph 14
+[15] Statement of Partial Agreed Facts, paragraphs 17 and 19; Agreed Book of Documents, Tabs 3 and 15
+[16] Statement of Partial Agreed Facts, paragraph 18; Agreed Book of Documents, Tab 7
+[17] Statement of Partial Agreed Facts, paragraphs 20, 22, and 23
+[18] Statement of Partial Agreed Facts, paragraphs 24 and 25
+[19] Statement of Partial Agreed Facts, paragraph 22; Agreed Book of Documents, Tab 3, article 3.1(d)
+[20] Statement of Partial Agreed Facts, paragraph 23
+[21] Statement of Partial Agreed Facts, paragraphs 26 and 27
+[22] Statement of Partial Agreed Facts, paragraphs 28 and 29; Agreed Book of Documents, Tabs 3, 7, and 15
+[23] Statement of Partial Agreed Facts, paragraphs 30 and 32
+[24] Statement of Partial Agreed Facts, paragraph 33
+[25] Statement of Partial Agreed Facts, paragraph 34
+[26] Statement of Partial Agreed Facts, paragraph 35
+[27] Statement of Partial Agreed Facts, paragraphs 37 and 39
+[28] Statement of Partial Agreed Facts, paragraph 40
+[29] Statement of Partial Agreed Facts, paragraph 36
+[30] Statement of Partial Agreed Facts, paragraph 38
+[31] Statement of Partial Agreed Facts, paragraph 41
+[32] Statement of Partial Agreed Facts, paragraphs 42, 43, and 47; Agreed Book of Documents, Tabs 12 and 16
+[33] Statement of Partial Agreed Facts, paragraphs 45, 46, and 47
+[34] Statement of Partial Agreed Facts, paragraphs 48, 49, and 52; Agreed Book of Documents, Tabs 17 and 18
+[35] Statement of Partial Agreed Facts, paragraphs 51, 53, and 54
+[36] Statement of Partial Agreed Facts, paragraph 56, Agreed Book of Documents, Tab 7, article 2
+[37] Statement of Partial Agreed Facts, paragraph 57
+[38] Excise Tax Act, subsection 221(1)
+[39] Excise Tax Act, subsection 123(1), definition of “taxable supply”
+[40] Excise Tax Act, subsection 123(1), definition of “commercial activity”
+[41] Excise Tax Act, schedule VI, part IX, section 1
+[42] Excise Tax Act, subsection 123(1), definition of “financial service”
+[43] Global Cash Access (Canada) Inc. v. Canada, 2013 FCA 269 at paragraph 25
+[44] 2013 FCA 269
+[45] Global Cash Access (Canada) Inc. v. Canada, 2013 FCA 269 at paragraph 26; Great-West Life Assurance Company v. Canada, 2016 FCA 316 at paragraph 47; Canadian Imperial Bank of Commerce v. Canada, 2021 FCA 96 at paragraphs 34, 35, and 37
+[46] Global Cash Access (Canada) Inc. v. Canada, 2013 FCA 269 at paragraphs 26, 29, and 30; Great-West Life Assurance Company v. Canada, 2016 FCA 316 at paragraphs 48 and 50; Canadian Imperial Bank of Commerce v. Canada, 2021 FCA 96 at paragraphs 36 and 38
+[47] Appellant’s written submissions, paragraphs 2.14 to 2.16; Respondent’s written submissions, paragraph 45
+[48] Statement of Partial Agreed Facts, paragraph 41; Appellant’s written submissions, paragraph 1.3(p) and (q); Respondent’s written submissions, paragraph 54; Agreed Book of Documents, Tab 25
+[49] Global Cash Access (Canada) Inc. v. Canada, 2013 FCA 269 at paragraphs 28 and 30; Great-West Life Assurance Company v. Canada, 2016 FCA 316 at paragraphs 49 and 50
+[50] Statement of Partial Agreed Facts, paragraphs 22 to 25; Agreed Book of Documents, Tab 3, article 3.1(d)
+[51] Statement of Partial Agreed Facts, paragraphs 33 to 35, 37, 39, and 40
+[52] Agreed Book of Documents, Tab 3, page 1, 5th recital; Agreed Book of Documents, Tab 15, page 1, 2nd recital; Statement of Partial Agreed Facts, paragraphs 30 and 32

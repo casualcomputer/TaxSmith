@@ -1,0 +1,137 @@
+Title: Zeldap Corporation c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/108838/index.do
+Corpus path: corpus/cases/tcc/2015/2015-cci-78-108838-zeldap-corporation-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2015-03-30
+
+# Zeldap Corporation c. La Reine
+
+- Citation: 2015 CCI 78
+- Decision date: 2015-03-30
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2853, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Zeldap Corporation c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2015-03-30
+Référence neutre
+2015 CCI 78
+Numéro de dossier
+2012-5171(IT)G
+Juges et Officiers taxateurs
+Réal Favreau
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2012-5171(IT)G
+ENTRE :
+ZELDAP CORPORATION,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Requête écrite présentée le 28 novembre 2014.
+Devant : L’honorable juge Réal Favreau
+Comparutions :
+Avocate de l’appelante :
+Me Marcela S. Aroca
+Avocat de l’intimée :
+Me Ryan R. Hall
+ORDONNANCE
+VU la requête écrite de l’intimée visant à obtenir une ordonnance obligeant l’appelante à répondre par voie d’affidavit à certaines questions de l’interrogatoire préalable écrit aux termes de l’article 116 des Règles de la Cour canadienne de l’impôt (procédure générale) et obligeant les parties à communiquer par écrit avec le coordonnateur des audiences;
+ET VU les observations écrites des parties;
+LA COUR ORDONNE l’accueil de la requête déposée par l’intimée sans dépens, conformément aux motifs de l’ordonnance ci‑joints.
+Signé à Montréal, Canada, ce 30e jour de mars 2015.
+«Réal Favreau»
+Juge Favreau
+Traduction certifiée conforme
+ce 14e jour de juillet 2015.
+François Brunet, réviseur.
+Référence : 2015 CCI 78
+Date : 20150330
+Dossier : 2012-5171(IT)G
+ENTRE :
+ZELDAP CORPORATION,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE
+Le juge Favreau
+[1] La Cour est saisie d’une demande présentée aux termes du paragraphe 116(2) des Règles de la Cour canadienne de l’impôt (procédure générale), datée du 28 novembre 2014, pour ordonner à l’appelante de répondre à la question 32 qui lui a été posée dans l’interrogatoire préalable écrit. Les éléments pertinents de cette question sont reproduits ci‑dessous.
+[traduction]
+Question 32
+En ce qui concerne les réunions et les discussions mentionnées dans le document reproduit à l’onglet 37 du recueil de documents de l’appelante :
+a) Dans quel lieu et à quel moment chaque discussion a‑t‑elle eu lieu?
+b) Quelles étaient les parties à chaque discussion?
+c) Est-ce que d’autres personnes ont assisté à chaque discussion? Le cas échéant, veuillez fournir leur nom au complet et leurs coordonnées?
+d) Qu’est-ce qui a été dit?
+[...]
+g) Existe-t-il des documents transcrivant une quelconque partie des discussions? Le cas échéant, veuillez produire les copies de tous ces documents ou tout mettre en oeuvre pour obtenir et produire ces documents, y compris la formulation de demandes aux parties qui pourraient, selon des attentes raisonnables, avoir des copies de ces documents. Si vos efforts s’avèrent vains, veuillez exposer les mesures que vous avez prises.
+[2] L'avocat de l'intimée a posé la question 32 à l’appelante dans l’interrogatoire écrit, car dans l’annexe d’une lettre datée du 15 avril 2004, l’appelante a produit à l’intimée une copie du recueil de documents de l’appelante comprenant, à l’onglet 37, la copie d’une lettre datée du 18 décembre 2007. Cette lettre, préparée par Michael Stebila, CA, était adressée à M. Zbigniew Pona, alors vice-président de Zeldap Corporation. Le premier paragraphe de cette lettre est formulé en ces termes :
+[traduction]
+La présente fait suite à nos réunions et discussions concernant les différents prêts et investissements faits (sic) Zeldap Corporation (Zeldap) de 2003 à 2006 et sur la manière dont ces prêts et investissements doivent être inscrits dans les états financiers et les déclarations de revenus des sociétés de Zeldap pour les années en question.
+[3] Dans l’annexe d’une lettre datée du 29 septembre 2014, l’appelante a produit des réponses, mais a refusé de répondre à la question 32 de l’interrogatoire préalable écrit en invoquant le secret professionnel de l’avocat.
+[4] L’avocate de l’appelante s’est opposée à la requête formulée par l’intimée et a produit un affidavit de M. Zbigniew Pona, maintenant président de Zeldap Corporation, comprenant les déclarations suivantes :
+a) il a rencontré Michael Stebila, un comptable, selon les conseils de son avocat de l’époque, Scott Sullivan, en prévision ou en l’attente d’un éventuel contentieux;
+b) chaque réunion s’est déroulée dans le bureau de M. Sullivan, en présence de celui‑ci.
+[5] L’appelante a admis les faits exposés aux paragraphes 1 à 6 du dossier de la requête de l’intimée, qui comprend, dans l’affidavit de Sylvie Julian (alinéas a) et b) du deuxième paragraphe), donné sous serment le 28 novembre 2014, les faits suivants :
+[traduction]
+a) l’appelante a interjeté appel des nouvelles cotisations datées du 29 mars 2011;
+b) l’appel porte essentiellement sur la question de savoir si, de 2002 à 2006, les activités habituelles de l’appelante comprenaient le prêt d’argent et si des avances ont été faites dans le cours normal des activités de prêt d’argent.
+[6] L’intimée a demandé que la requête soit entendue par téléconférence ou soit tranchée sans comparution des parties aux termes de l’article 69 des Règles de la Cour canadienne de l’impôt (procédure générale). L’appelante n’a exprimé aucune préférence. Les deux parties ont présenté des observations écrites.
+[7] Dans ses observations écrites, l’appelante a cité les observations du juge Ducharme à l’occasion de l’affaire Kennedy c. McKenzie, [2005] O.J. No. 2060 pour rechercher s’il existe un privilège relatif au litige. Par cette décision, le juge Ducharme a conclu que la partie invoquant le privilège relatif au litige doit prouver que les documents ont été créés dans les circonstances suivantes :
+[traduction]
+a) l’objet principal est un litige existant, envisagé ou prévu; et
+b) en réponse à une demande formulée par un mandataire pour l’avocat de la partie; ou
+c) conformément à une demande ou à une suggestion de l’avocat de la partie; ou
+d) dans l’objectif d’être présentés à un avocat en vue d’obtenir ses conseils; ou
+e) pour permettre à un avocat d’intenter une poursuite, de défendre une action ou de préparer un dossier.
+[Non souligné dans l’original.]
+[8] Le juge Ducharme a également conclu qu’il revient à la partie invoquant le privilège de prouver que le document est visé par le privilège relatif au litige.
+[9] L’appelante a soutenu que, à première vue, les réunions s’étaient principalement déroulées en prévision ou en l’attente d’un litige, et, à tous les moments pertinents, les réunions avec M. Stebila s’étaient déroulées selon les directives de son avocat, M. Sullivan, après l’obtention des conseils juridiques de celui‑ci et conformément à ces conseils.
+[10] Bien que toutes les réunions aient eu lieu dans le bureau de M. Sullivan et en présence de celui‑ci, il n’a pas été prouvé que l’objectif dominant de ces réunions était un litige existant, envisagé ou prévu. Aucun renseignement n’a été produit à cet égard. Dans la lettre du 18 décembre 2007 adressée à M. Pona, Michael Stebila fait référence à une liste de prêts et d’investissements faits par l’appelante et à la façon dont ces prêts et investissements doivent être inscrits dans les états financiers et les déclarations de revenus des sociétés de Zeldap pour les années 2003 à 2006. La plupart des réunions et des discussions dont il est question dans cette lettre semblent avoir eu lieu en 2007, soit plus de trois ans avant l’établissement de nouvelles cotisations pour ces années. L’appelante n’a pas précisé les raisons pour lesquelles elle prévoyait un litige à l’époque.
+[11] La présence de M. Sullivan aux réunions entre M. Stebila et M. Pona ne signifie pas nécessairement que l’objectif dominant de ces réunions était un litige existant, envisagé ou prévu. Ce n’est pas parce qu’un avocat est présent à une réunion qu’on lui demande nécessairement de formuler des conseils juridiques. L’appelante n’a produit aucun renseignement sur la nature des conseils juridiques demandés à M. Sullivan.
+[12] Dans les circonstances, l’appelant n’a pas établi que, à première vue, s’applique le privilège relatif au litige.
+[13] Par les motifs susmentionnés, la demande de l’intimée visant à obtenir une ordonnance de la Cour obligeant l’appelante à répondre par voie d’affidavit à certaines questions de l’interrogatoire préalable écrit au plus tard le 30 avril 2015 est accueillie sans dépens. Les parties doivent communiquer par écrit avec le coordonnateur des audiences au plus tard le 30 mai 2015.
+Signé à Montréal, Canada, ce 30e jour de mars 2015.
+«Réal Favreau»
+Juge Favreau
+Traduction certifiée conforme
+ce 14e jour de juillet 2015.
+François Brunet, réviseur.
+RÉFÉRENCE :
+2015 CCI 78
+No DU DOSSIER DE LA COUR :
+2012-5171(IT)G
+INTITULÉ :
+Zeldap Corporation c. La Reine
+MOTIFS DU JUGEMENT :
+L’honorable juge Réal Favreau
+DATE DE L’ORDONNANCE :
+Le 30 mars 2015
+COMPARUTIONS :
+Avocate de l’appelante :
+Me Marcela S. Aroca
+Avocat de l’intimée :
+Me Ryan R. Hall
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Marcela S. Aroca
+Cabinet :
+Aroca Litigation
+Windsor (Ontario)
+Pour l’intimée :
+William F. Pentney
+Sous procureur général du Canada
+Ottawa, Canada

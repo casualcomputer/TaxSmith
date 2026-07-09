@@ -1,0 +1,190 @@
+---
+title: "Gestion Village Plein Air v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26422/index.do"
+last_modified: "2004-09-19"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 TCC 620"
+citation2: ""
+neutral_citation: "2004 TCC 620"
+decision_date: "2004-09-19"
+language: "en"
+item_id: "26422"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3173
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T19:01:32.400000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "610f806bb7b5cab7bbe2ef1fd98796f0c35b88a7895700654a39bba9afe3976b"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Gestion Village Plein Air v. M.N.R.
+
+- Citation: 2004 TCC 620
+- Decision date: 2004-09-19
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3173, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Gestion Village Plein Air v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-09-19
+Neutral citation
+2004 TCC 620
+File numbers
+2004-422(EI)
+Judges and Taxing Officers
+Brent Paris
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2004-422(EI)
+BETWEEN:
+GESTION VILLAGE PLEIN AIR,
+Appellant,
+And
+THE MINISTER OF NATIONAL REVENUE
+Respondent,
+and
+DENISE LIZOTTE,
+Intervener.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard on July 7, 2004, at Trois-Rivières, Quebec.
+Before: The Honourable Justice B. Paris
+Appearances:
+Counsel for the Appellant:
+Jean-François Lacoursière
+Counsel for the Respondent:
+Philippe Dupuis
+For the Intervener:
+The Intervener herself
+JUDGMENT
+The appeal is allowed and the decision of the Minister is vacated in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 19th day of September 2004.
+“B. Paris”
+Paris J.
+Translation certified true
+on this 15th day of December 2004.
+Elizabeth Tan, Translator
+Citation: 2004TCC620
+Date: 20040919
+Docket: 2004-422(EI)
+BETWEEN:
+GESTION VILLAGE PLEIN AIR,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+DENISE LIZOTTE,
+Intervener.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Paris J.
+[1] The Appellant, Gestion Village Plein Air, a limited partnership, is appealing from a decision made by the Minister of National Revenue (the “Minister”) according to which Denise Lizotte had insurable employment with the Appellant from July 26 to November 22, 2002. The Minister decided that Ms. Lizotte’s services were rendered under a contract of service.
+[2] Jean-Guy Pronovost, the Appellant’s administrator, testified for the Appellant, and Ms. Lizotte for the Respondent.
+[3] Mr. Pronovost registered the Appellant, a limited partnership, to run an outdoor vacation centre that he had bought at the end of 2001, at Lac Édouard. The centre was an old hospital, built to care for people with tuberculosis. It had a main building and many small outbuildings. After the hospital was closed, the property became a resort. The centre could accommodate up to 150 people. However, it seems that when Mr. Pronovost purchased it, the facilities were in need of repairs and cleaning before it could be operational.
+[4] In the summer of 2002, the Appellant was looking for someone to work at the centre and get it operational. Mr. Pronovost stated that the Appellant wanted to hire another company to do this and to promote and develop the centre. Part of the profits would go to this company. He already had other companies to manage and he did not have the time to become further involved in operating the outdoor vacation centre.
+[5] Mr. Pronovost met Ms. Lizotte when she was applying for a job with another one of his companies. He suggested that she and her husband work at the outdoor vacation centre and they accepted. They started near the end of July 2002. The Appellant provided them with a residence at the centre. Mr. Pronovost said that he and Ms. Lizotte agreed that she and her husband would start up a company to work contractually with the Appellant to run the centre. To do so, Ms. Lizotte and her husband registered a company under the name Gestion Libro, on September 20, 2002.
+[6] Mr. Pronovost presented the Court with contracts concluded between the Appellant and Gestion Libro, each for a two-week period. The first was signed on September 1, 2002, and the second, November 14, 2002. The terms of the contracts are identical, with the most relevant being:
+[translation]
+Mandate
+Effectively organize the Village Plein Air’s activities in order to receive and serve tourists. More specifically, the service provider is responsible for food services and maintaining the Village Plein Air’s buildings. These are the conditions of the agreement.
+...
+Description of services:
+(a) The service provider agrees to ensure the proper operation of the Village Plein Air’s cafeteria. To this end, a cook must be hired. It is understood that it is the provider’s responsibility to prepare and serve the food and to maintain the cafeteria’s facilities and instruments in good condition. The provider must also provide all the tools necessary for food preparation. However, Gestion Village Plein Air agrees to cover the cost of the food required for meal preparations. Gestion Village Plein Air will also allow the provider to use the Village Plein Air cafeteria for restaurant purposes.
+(b) It is the provider’s mandate to welcome clients, prepare the rooms and ensure that they are clean. The service provider shall use all reasonable means to ensure that the client’s stay is as pleasant as possible.
+(c) The service provider is responsible for maintaining the property and the buildings. It is also responsible for repairing and renovating the buildings as needed. The provider shall operate in accordance with Gestion Village Plein Air’s recommendations. The provider shall supply all the required tools for carrying out its work. However, Gestion Village Plein Air will pay for the material required for the work.
+(d) The provider shall monitor the comings and goings on the Village Plein Air property.
+Freedom:
+The provider has the freedom to choose the means to carry out the work. However, the product of this work must meet the requirements of this contract.
+[7] Mr. Pronovost claimed that Ms. Lizotte and her husband had complete freedom in carrying out the work required by the contracts with the Appellant. Their only mandate was to make the business profitable. According to Mr. Pronovost, at the beginning of the period in question, he went to the property once a week, but the visits became less frequent over time. He did not tell them what to do and did not check their hours of work. He was in occasional contact with Ms. Lizotte by phone, when she needed to talk to him.
+[8] According to Mr. Pronovost, Ms. Lizotte and her husband were free to set the price of the rooms and meals at their discretion, and they were responsible for taking reservations and collecting the fees from the clients. The Appellant paid for the food used in the meals served at the cafeteria, but Ms. Lizotte chose the menu.
+[9] Mr. Pronovost confirmed that the Appellant provided most of the tools required for the work, but specified that Ms. Lizotte and her husband provided some tools from their own kitchen and some maintenance tools. The Appellant paid for all the material required for repairs and renovations.
+[10] The Appellant also hired three workers to help with the repairs and maintenance on the property, under Ms. Lizotte and her husband’s supervision. This only lasted a few days because the workers did not get along with Ms. Lizotte.
+[11] Mr. Pronovost stated that he was not satisfied with Ms. Lizotte and her husband’s efforts, saying they were incompetent. He said that on one occasion, with a group of over 100 visitors staying at the vacation centre, he had to send cooks to help Ms. Lizotte at the cafeteria because she had trouble serving breakfast. Overall, he saw few positive results from their work. According to Mr. Pronovost, Ms. Lizotte and her husband left the centre before the end of their last contract in November 2002.
+[12] Mr. Pronovost explained that after that, Ms. Lizotte filed a complaint against the Appellant with the Commission des normes du travail regarding unpaid wages, and the Commission found in favour of Ms. Lizotte. Mr. Pronovost said that he was not advised of the complaint and that the decision was made by default. His motion to withdraw the decision was allowed by the Commission and the case is still pending.
+[13] As for Ms. Lizotte, she stated that Mr. Pronovost hired her and her husband, to take care of the cafeteria, and clean and maintain the property of the outdoor vacation centre. She claimed that there was a lot of work to do to prepare the rooms since there were so many, and that they often worked over 60 hours a week. Aside from two groups, there were few clients—perhaps thirty, at most, during the time she worked. Mr. Pronovost took the reservations, set the prices and made all the decisions required to make the business function properly. He went to the camp at least twice a week and communicated with Ms. Lizotte by phone almost every day. Ms. Lizotte and her husband’s presence at the camp was necessary seven days a week, and they had to ask permission to leave the site.
+[14] Ms. Lizotte claimed that Mr. Pronovost provided food and all the equipment except for a few articles that she had at home and some of her husband’s tools. She also claimed that Mr. Pronovost and his wife decided on the menus and were there to greet the two groups mentioned above that came to the outdoor vacation centre.
+[15] Ms. Lizotte admitted that she registered a limited partnership, Gestion Libro, by sending an application to the Inspecteur général des institutions financières (IGIF), but claimed that Mr. Pronovost insisted that she and her husband do so, and she thought they would lose their jobs if they did not. Mr. Pronovost even allegedly paid the registration fees. According to her, the company was a fake company and Mr. Pronovost knew this.
+[16] Ms. Lizotte claimed that she promoted the Appellant’s outdoor vacation centre by operating a kiosk as an outdoors show that was held one weekend in September 2002, in La Tuque. The Appellant reimbursed her registration fees.
+[17] She also admitted that her husband worked elsewhere in October, for at least two weeks, while Gestion Libro was bound by contract to the Appellant.
+Analysis
+[18] Counsel for the Appellant claimed that Ms. Lizotte could not have had insurable employment with the Appellant because the Appellant had hired Gestion Libro to perform the work in question. He said that Ms. Lizotte may have been employed by Gestion Libro, but claimed that this did not affect the Appellant.
+[19] Counsel for the Respondent stated that Ms. Lizotte and her husband did not really intend on creating a limited partnership and they were not aware of the consequences of creating such a company. Therefore, the Court should find that Gestion Libro and the contracts between the Appellant and Gestion Libro were deceptions and should be considered nonexistent. This would result in the work contract in question being between Ms. Lizotte and her husband on one hand and the Appellant on the other.
+[20] In my opinion, the evidence shows that Ms. Lizotte did, in fact, intend to create the limited partnership Gestion Libro with her husband and that they took the necessary measures to do so, even though the idea came from Mr. Pronovost.
+[21] A limited partnership is governed by the general provisions regarding contracts of partnership, namely articles 2186 to 2197 of the Civil Code of Québec. Article 2186 of the Civil Code of Québec defines a contract of partnership as “a contract by which the parties, in a spirit of cooperation, agree to carry on an activity, including the operation of an enterprise, to contribute thereto by combining property, knowledge or activities and to share any resulting pecuniary profits.” In this case, Ms. Lizotte and her husband cooperated to carry out the activities set out in the contracts concluded with the Appellant. They each contributed knowledge and labour, and shared the amounts received by the Appellant. Based on these facts, I conclude that they agreed to do so when they filled in the Gestion Libro registration declaration that they filed with the IGIF, and that the company was validly formed.
+[22] Moreover, it seems that when Ms. Lizotte and her husband went to sign their first written contract with the Appellant on September 1, 2002, they presented themselves as representatives of a company called Gestion Libro; this is the same day Ms. Lizotte sent the registration declaration for the company Gestion Libro to the IGIF. According to the Civil Code, a limited partnership is deemed to be an undeclared partnership until it makes a declaration with the IGIF, and for the same reasons I gave earlier, I find that the company Gestion Libro was validly formed as of September 1, 2002. For this reason, Ms. Lizotte did not have a job under the terms of a contract of service starting that day.
+[23] However, for the period of July 26 to August 31, 2002, I cannot conclude that there was a company made up of Ms. Lizotte and her husband for the purposes of carrying out work for the Appellant. The evidence shows that at the beginning of this period, Ms. Lizotte agreed with Mr. Pronovost that she and her husband would found a company at a later date. Mr. Pronovost helped them do so in September 2002. Ms. Lizotte and her husband did not present themselves as members of a partnership before September 1, 2002.
+[24] It remains to be determined whether Ms. Lizotte had insurable employment under a contract of services, existing between her and the Appellant, from July 26 to August 31, 2002.
+[25] The case law shows that a four-in-one test should be used to determine whether a worker is an employee or an independent contractor. The four components are: control, ownership of tools, chance of profit and risk of loss. The examination of all these components allows for the central question to be answered. This question is “whether the person who has been engaged to perform the services is performing them as a person in business on his own account.”[1]
+[26] First, as for the issue of control, Mr. Pronovost’s testimony was that Ms. Lizotte and her husband were completely free to decide how to carry out their duties. He said that at first he went once a week to see how things were going, but then later went only rarely. Ms. Lizotte, on the other hand, said that Mr. Pronovost went to the outdoor centre at least twice a week and asked her to call frequently to report on the company’s activities.
+[27] Counsel for the Appellant claimed that Ms. Lizotte was not a credible witness because of certain criminal acts for which she had previously been convicted. However, Ms. Lizotte admitted to these convictions, saying that at the time she was a substance abuser and that the problem had been resolved for nearly fifteen years and that she had no other convictions. For the purposes of this decision I am not going to reject Ms. Lizotte’s testimony because of her criminal record. The fact that she has no recent convictions supports her claim that she has changed for the better and her testimony is credible.
+[28] However, it seems that Ms. Lizotte and her husband were not under strict supervision by the Appellant and that they were the ones who decided how and when to do their work. Even if Mr. Pronovost went to the outdoor vacation centre and spoke with Ms. Lizotte on the phone, she did not mention that he directed the work on these occasions. I admit that Mr. Pronovost did have control as to the result or quality of the work, but I find that he did not have control over the execution of the work. In Charbonneau v. Canada (Minister of National Revenue - M.N.R.), Décary J.A. of the Federal Court of Appeal stated:
+It is indeed rare for a person to give out work and not to ensure that the work is performed in accordance with his or her requirements and at the locations agreed upon. Monitoring the result must not be confused with controlling the worker.[2]
+The evidence did not show that elements existed that would support the Respondent’s claim that the Appellant reserved the right to control Ms. Lizotte and her husband’s work.
+[29] It was not contested that the Appellant provided almost all of the necessary tools and that the ones belonging to Ms. Lizotte and her husband were less important.
+[30] Moreover, it is obvious that Ms. Lizotte and her husband did not have any risk of loss. The Appellant paid for the groceries and reimbursed expenses such as those related to the promotion of the outdoor centre at the outdoors show in La Tuque. The Appellant even hired other workers to help with maintenance on the property, at its own expense.
+[31] From what I can see, Ms. Lizotte and her husband did not have any opportunities for profit either, because their salary was set at $200 each per week. Mr. Pronovost spoke of the possibility of sharing the business’ profits, but there was never any formal agreement on this subject. Mr. Pronovost mentioned that Ms. Lizotte and her husband could earn wages from a contract with Environment Canada for meteorological samples taken at a weather station at the outdoor vacation centre. He also said that because of this, they had the chance for profit; however, this profit, whatever the amount, did not come from the employment contract with the Appellant and was not relevant to the determination I am to make in this case.
+[32] In short, certain elements of the employment contract in question favoured the Respondent’s position, while the element of control would tend to indicate a contract of service. In my opinion, the absence of control by the Appellant over Ms. Lizotte and her husband’s work is a determining factor in this case and clearly shows that there was no real relationship of subordination between the parties to the contract. Therefore, Ms. Lizotte’s work during the period of July 26 to November 22, 2002, was not performed under a contract of service concluded with the Appellant.
+[33] The appeal is allowed and the decision of the Minister is vacated.
+Signed at Ottawa, Canada, this 19th day of September 2004.
+“B. Paris”
+Paris J.
+Translation certified true
+on this 15th day of December 2004.
+Elizabeth Tan, Translator
+REFERENCE:
+2004TCC620
+COURT FILE NUMBER:
+2004-422(EI)
+STYLE OF CAUSE:
+Gestion Village Plein Air and M.N.R. and Denise Lizotte
+PLACE OF HEARING:
+Trois-Rivières, Quebec
+DATE OF HEARING:
+July 7, 2004
+REASONS FOR JUDGMENT BY:
+The Honourable Justice B. Paris
+DATE OF JUDGMENT:
+September 19, 2004
+APPEARANCES:
+For the Appellant:
+Jean François Lacoursière
+For the Respondent:
+Philippe Dupuis
+For the Intervener:
+The Intervener herself
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Jean François Lacoursière
+Firm:
+Trois-Rivières, Quebec
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] 671122 Ontario Ltd. v. Sagaz Industries Canada Inc., [2001] 2 S.C.R. 983, at paragraph 47.
+[2] [1996] F.C.J. No. 1337 (Q.L.), at paragraph 10.

@@ -1,0 +1,201 @@
+Title: Campbell v. The King
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/521195/index.do
+Corpus path: corpus/cases/tcc/2023/2023-tcc-170-521195-campbell-v-the-king-en.md
+Document type: case_law
+Last modified: 2023-12-15
+
+# Campbell v. The King
+
+- Citation: 2023 TCC 170
+- Decision date: 2023-12-15
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5650, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Campbell v. The King
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2023-12-15
+Neutral citation
+2023 TCC 170
+File numbers
+2022-1303(GST)APP
+Judges and Taxing Officers
+David E. Spiro
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2022-1303(GST)APP
+BETWEEN:
+MIKE CAMPBELL,
+Applicant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+Application heard on March 8, 2023, at Kelowna, British Columbia
+Before: The Honourable Justice David E. Spiro
+Appearances:
+For the Applicant:
+The Applicant himself
+Counsel for the Respondent:
+Erin Krawchuk
+JUDGMENT
+The application for an order extending the time to institute appeals under subsection 305(1) of the Excise Tax Act from reassessments dated May 28, 2018 for ten quarterly reporting periods starting on July 1, 2009 and ending on December 31, 2011 is dismissed, without costs.
+Signed at Toronto, Ontario, this 15th day of December 2023.
+“David E. Spiro”
+Spiro J.
+Citation: 2023 TCC 170
+Date: 20231215
+Docket: 2022-1303(GST)APP
+BETWEEN:
+MIKE CAMPBELL,
+Applicant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+REASONS FOR JUDGMENT
+Spiro J.
+[1] The Applicant, Mr. Mike Campbell, a maintenance worker in Kelowna, British Columbia, has applied for an extension of time to institute appeals from reassessments under the Excise Tax Act (the “ETA”) for ten reporting periods starting on July 1, 2009 and ending on December 31, 2011.
+Relevant Statutory Framework
+[2] Once the Canada Revenue Agency (the “CRA”) issues an assessment, the recipient has 90 days to file a notice of objection with the Minister of National Revenue (the “Minister”) should they wish to dispute the assessment.[1]
+[3] If the Minister decides to confirm the assessment, the Minister then sends a notice of confirmation.[2] After sending the notice of confirmation, the recipient has 90 days to file a notice of appeal with the Court.[3]
+[4] If no notice of appeal has been filed with the Court within those 90 days, an application may be made to the Court for an extension of time to institute the appeal but only if it has been filed within one year of the 90-day deadline.[4] Filing an application for an extension of time within that one-year extended period is necessary, but not sufficient, for the Court to allow the application.
+[5] If the application is filed within one year after the 90-day deadline, the Court will then consider whether the other statutory conditions have been satisfied, namely:
+(a) within the 90-day deadline the applicant (i) was unable to act or give a mandate to someone else to act for them, or (ii) had a bona fide intention to appeal;
+(b) it would be just and equitable to grant the application;
+(c) the application was made as soon as circumstance permitted; and
+(d) there are reasonable grounds for the appeal.[5]
+[6] The Applicant has the onus of establishing, on a balance of probabilities, that each of those conditions has been satisfied. As I have already noted, the first of those conditions is the one-year extension period. I have reproduced all relevant provisions of the ETA at Schedule “A”.
+[7] Parliament has provided an additional extension of time by legislation enacted in response to the COVID-19 pandemic that commenced in mid-March of 2020. Paragraph 6(1)(c) of the Time Limits and Other Periods Act (COVID‑19) (“TLOPA”) excludes the period from March 13, 2020 to September 13, 2020 when calculating the extended one-year period under paragraph 305(5)(a) of the ETA.
+Issue
+[8] The only issue is whether Mr. Campbell applied to the Court for an extension of time to institute his appeals within the extended one-year period provided by the ETA and the TLOPA.
+Deficient Affidavit and Adjournment of the Hearing
+[9] In advance of the hearing, the Respondent filed an affidavit of an officer of the CRA. At the commencement of the hearing, Ms. Krawchuk, counsel for the Respondent, drew the Court’s attention to the fact that the affidavit failed to take into account paragraph 6(1)(c) of TLOPA. Ms. Krawchuk acted in the highest traditions of the bar by bringing this deficiency to the Court’s attention as soon as she became aware of it.
+[10] I then decided to adjourn the hearing to give (a) the Respondent an opportunity to file a fresh affidavit and (b) Mr. Campbell an opportunity to adduce additional evidence in response to the Respondent’s fresh affidavit should he wish to do so.
+[11] But first I gave Mr. Campbell an opportunity to present evidence without prejudice to his right to present additional evidence after he received the Respondent’s fresh affidavit. Here is the sequence of events:
+On March 8, 2023, the hearing commenced before me in Kelowna, British Columbia;
+After Mr. Campbell’s testimony, I adjourned the hearing pending filing and service of a fresh affidavit from the Respondent;
+On March 21, 2023, the Respondent filed and served a fresh affidavit;
+On July 21, 2023, the hearing was to resume by telephone conference call, but Mr. Campbell’s ongoing health issues caused it to be cancelled; and
+Later that day, the Court sent a letter to Mr. Campbell inviting him to submit any additional evidence in response to the fresh affidavit on or before August 31, 2023.
+[12] The Court did not receive any additional evidence from Mr. Campbell before or after the August 31 deadline.
+The Hearing
+[13] Mr. Campbell represented himself at the hearing. He was formerly represented by Ms. Cheryl Butler of Altogether Tax Inc. Ms. Butler ceased to act as Mr. Campbell’s representative shortly before the hearing. Her role in advising Mr. Campbell at various times is unclear as she was not called as a witness.
+[14] At the hearing, Mr. Campbell described serious personal challenges he has confronted since 2009 including significant chronic medical issues. He explained why he believes that the reassessments were incorrect. He believes that the Minister’s assessments of income tax from his business for the relevant taxation years were correct. The problem arose when the Minister reassessed net tax for the corresponding reporting periods. He says that the Minister’s GST reassessments are inconsistent with the Minister’s income tax assessments. He asked me to allow his application so he could dispute the GST reassessments before the Court.
+Findings of Fact
+[15] I find the following facts, and draw the following inferences, from the uncontroverted fresh affidavit filed by the Respondent on March 21, 2023:
+On May 28, 2018, the CRA reassessed Mr. Campbell under the ETA for ten reporting periods beginning on July 1, 2009 and ending on December 31, 2011.
+On July 25, 2018, Mr. Campbell filed notices of objection to the GST reassessments.
+On July 4, 2019, the Minister sent Mr. Campbell a notice confirming the GST reassessments. The notice of confirmation advised Mr. Campbell that if he disagreed with the Minister’s decision to confirm the reassessments, he could appeal to the Court within 90 days from the date of the notice of confirmation.
+On October 2, 2019, the 90-day period expired for Mr. Campbell to file a notice of appeal with the Court to appeal the reassessments.
+On October 2, 2020, the one-year extended period for applying to the Court for an extension of time to file an appeal would have expired but for paragraph 6(1)(c) of the TLOPA under which the period from March 13, 2020, to September 13, 2020, is not counted as part of that one-year extended period.
+On December 2, 2020, Mr. Campbell asked the CRA to make certain adjustments to his GST returns in respect of the reporting periods reassessed on May 28, 2018.
+On March 17, 2021, the CRA wrote ten identical letters to Mr. Campbell (a) rejecting his adjustment request for his GST return for each reporting period and (b) noting that the CRA had already issued assessments for those reporting periods and suggesting that he file a notice of objection to those assessments within 90 days of the date of the notice of assessment.
+On April 6, 2021, in light of paragraph 6(1)(c) of TLOPA, the extended period for Mr. Campbell to apply to the Court to institute appeals against the reassessments of May 28, 2018 expired.
+On September 22, 2021, Mr. Campbell filed notices of objection to the Minister’s denial of his adjustment requests.
+On November 8, 2021, the CRA informed Mr. Campbell that it could not accept his recently-filed notices of objection as the Minister had already confirmed the reassessments of May 28, 2018, by notice dated July 4, 2019. The CRA suggested that Mr. Campbell could “apply to the Court for an extension of time to appeal”.
+On May 16, 2022, Mr. Campbell applied to the Court for an extension of time to appeal.
+Analysis
+[16] This is a sad story. On December 2, 2020, Mr. Campbell asked the CRA to adjust his GST returns for reporting periods that had already been reassessed. It is not clear what role Ms. Butler played in advising him to make this tragically misguided request but, in any event, such a request – at that stage – was a serious mistake. Instead of making requests to adjust his GST returns (which had already been reassessed and the reassessments confirmed), he should have filed an application for an extension of time to institute his appeals with the Court.
+[17] The CRA then complicated matters unnecessarily. First, the CRA sent Mr. Campbell ten letters on March 17, 2021, identical but for the reporting period, informing Mr. Campbell that it had denied his request to adjust the GST returns for each of those reporting periods. The CRA also noted that each reporting period had already been assessed. However, it then made a representation to Mr. Campbell that was shockingly misleading in light of the circumstances:
+If you want to object to the audit assessment, you may file an objection with your local Tax Services Office. Your objection or appeal must be filed within 90 days of the date of the Notice of Assessment you are disputing.
+[18] This suggestion was ill-founded because the CRA knew that Mr. Campbell had several years earlier (July 25, 2018) filed notices of objection to the reassessments. The CRA also knew that it had confirmed those reassessments (July 4, 2019). Finally, the CRA knew that the clock was ticking for Mr. Campbell to apply to the Court for an extension of time to institute his appeals.
+[19] To add insult to injury, the CRA wrote a letter to Mr. Campbell on November 8, 2021, suggesting that he apply to the Court for an extension of time to appeal. Incredibly, the CRA made this inane suggestion seven months after the time had expired for Mr. Campbell to do exactly that.
+[20] Although the CRA’s representations were legally inaccurate, the Court has no power to extend the statutory deadlines in light of those representations. The Court recently reviewed the leading authorities on this point in Adams v The King, 2023 TCC 86, at paragraphs 20 to 25 (footnotes omitted):
+[20] In Waldron v The Queen, this Court considered the two-year deadline in the Excise Tax Act for filing a new housing rebate application where an officer of Revenue Canada (predecessor of the CRA) had made a representation about the filing deadline that was not entirely accurate. The applicant missed the filing deadline because she relied on that representation.
+[21] Based on the reasoning of Judge Bowman, as he then was, in Goldstein v The Queen, Judge Sarchuk held that the deadline set out in the Excise Tax Act applied notwithstanding Revenue Canada’s inaccurate representation of law and the applicant’s reliance on it:
+[5] The Appellant's position is that the Minister is estopped from changing his position and is bound by the representation of fact made by one of Revenue Canada's employees. That representation is described in paragraph 16 of the agreed facts as follows:
+16. ... that Linda Saunderson made the representation to the Appellants on 2 separate occasions that the time limit for filing the application for the rebate was 2 years from the date of substantial completion and at no time did she advise the Appellants that the deadline was the earlier of 2 years from the date of substantial completion or the date of occupancy of the home. (Emphasis added)
+…
+[7] The issue of estoppel has been considered in a number of cases and the principle which generally can be taken therefrom is that no representation involving an interpretation of law by a servant or officer of the Crown can bind it. The rationale for that position was admirably set out by Bowman T.C.C.J. in Goldstein v. The Queen [96 DTC 1029 at 1034]:
+It is sometimes said that estoppel does not lie against the Crown. The statement is not accurate and seems to stem from a misapplication of the term estoppel. The principle of estoppel binds the Crown, as do other principles of law. Estoppel in pais, as it applies to Crown, involves representations of fact made by officials of the Crown and relied and acted on by the subject to his or her detriment. The doctrine has no application where a particular interpretation of a statute has been communicated to a subject by an official of the government, relied upon by that subject to his or her detriment and then withdrawn or changed by the government. In such a case a taxpayer sometimes seeks to invoke the doctrine of estoppel. It is inappropriate to do so not because such representations give rise to an estoppel that does not bind the Crown, but rather, because no estoppel can arise where such representations are not in accordance with the law. Although estoppel is now a principle of substantive law it had its origins in the law of evidence and as such relates to representations of fact. It has no role to play where questions of interpretation of the law are involved, because estoppels cannot override the law.
+[8] From the foregoing, it is evident that estoppel may apply if an officer of the Crown made a representation of fact which was relied and acted upon by this Appellant to her detriment [See The Queen v. Langille, 77 DTC 5086]. The question in this appeal is whether the information given by Ms. Saunderson to the Appellant's husband was a representation of fact or of law.
+[9] The representation made by the Crown officer, Linda Saunderson, was with respect to the provisions of subsection 256(3) of the Act, as it then read, which was not entirely accurate but which was relied on by the Appellant to her detriment. More specifically, the representation reflects her failure to stipulate that the statutory provision required an applicant for the rebate to file her application within two years of the day the residence was first occupied or ownership was transferred as described in subparagraph 2(d)(ii) of the Act. This, in my view, falls into the category of interpretation of law and thus estoppel does not arise.
+[Emphasis added]
+[22] Equally on point is the decision of this Court in Casey v The Queen. In that case, Judge Hamlyn dealt with an application under the Act for an extension of time to institute an appeal to this Court. In that case, the countdown to file a notice of appeal began when Revenue Canada sent a notice of confirmation to the applicant in response to their notice of objection. In Casey, the applicant had not agreed to any confirmation of the assessment and, more importantly, understood that Revenue Canada was still considering their objection. Revenue Canada had led the applicant to believe that its administrative machinery was still in motion and, therefore, it would not be necessary to file a notice of appeal.
+[23] Relying once again on Judge Bowman’s reasoning in Goldstein, this Court rejected the applicant’s estoppel argument:
+[19] The Applicant's submission that estoppel in pais is applicable to the Applicant's case is ill founded. According to Martland J. at pages 939-940 in Can. Superior Oil Ltd. v. Paddon-Hughes Development Co. Ltd., [1970] S.C.R. 932, three factors must be present in order to apply the principal of estoppel: there must be a representation or conduct which amounts to a representation which is intended to induce a course of conduct on the part of the person to whom the representation was made, the person to whom the representation was made must act or make an omission as a result of that representation and, finally, the act or omission must be to the detriment of the person. The Applicant has not adduced evidence to show that these requirements have been met.
+[20] Even if these requirements had been met, the doctrine of estoppel is only applicable to representations of fact not to representations of law [See Goldstein v. The Queen, 96 DTC 1029 (T.C.C.)]..
+[21] Any representations by Revenue Canada officials to the effect that a Notice of Appeal did not have to be filed within the time period outlined in section 169 were representations of law to which the doctrine of estoppel does not apply.
+[Emphasis added]
+[24] I find that by its letter of October 23, 2018, and by its subsequent telephone communications with Mr. Adams, the CRA led him to believe that there was no need to object to his 2016 and 2017 reassessments as it was still considering, or reconsidering, his T1 adjustment requests. I conclude that in so doing, the CRA made inaccurate representations of law.
+[25] Unfortunately for Mr. Adams, Goldstein, Waldron, and Casey all teach the same lesson − statutory deadlines must be applied notwithstanding inaccurate representations of law by the CRA, even when the individual has relied on them to their detriment.
+[21] It is extremely unfortunate that on March 17, 2021, just over two weeks before the extended one-year period expired, the CRA suggested to Mr. Campbell that he should file notices of objection. Instead, the CRA ought to have informed Mr. Campbell that he had just over two weeks to apply to the Court for an extension of time to institute his appeals. Why it failed to do so remains a mystery.
+[22] I am very sympathetic to Mr. Campbell’s predicament. However, the Court’s only role on this application is to determine whether he filed his application within the statutory time limit. While it may very well be unfair or inequitable in these circumstances to apply the time limits that Parliament enacted, I have no choice but to do so. I can do no better than quote from Justice Lafleur at the end of her reasons in Pietrovito v The Queen:
+[86] Finally, here are my last comments: no consideration of fairness or equity can be of assistance to the Appellant as this Court is a statutory court. As explained in Odebala‑Fregene, supra [2015 TCC 44]:
+22 Factoring in the nature of the specialized statutory scheme of the Act and that this Court is a statutory Court, considerations of fairness do not apply. In his submission, respondent counsel referred to the Federal Court of Appeal in Chaya v Canada, 2004 FCA 327, 2004 DTC 6676 (FCA), which noted that such grounds are not within the power of this Court. In paragraph 4 of the decision, Rothstein JA, as he then was stated:
+4 … It is not open to the Court to make exceptions to statutory provisions on the grounds of fairness or equity. If the applicant considers the law unfair, his remedy is with Parliament, not with the Court.[6]
+Conclusion
+[23] Under section 306 of the ETA, Mr. Campbell had 90 days from the date of confirmation of the reassessments (July 4, 2019) to institute his appeals before the Court. Those 90 days expired on October 2, 2019.
+[24] Under paragraph 305(5)(a) of the ETA, Mr. Campbell would have had until October 2, 2020, to apply for an order extending the time to institute his appeal with the Court, but the deadline was extended by paragraph 6(1)(c) of the TLOPA to April 6, 2021. Unfortunately, Mr. Campbell did not file his application for an extension of time with the Court until May 15, 2022.
+[25] As Mr. Campbell did not file this application within the time limit prescribed by Parliament, the Court has no power to extend the time for instituting his appeals. As Judge Tardif noted in National Bank of Canada v The Queen:
+[5] The time limit referred to in section 305 of the Excise Tax Act is a mandatory one. Whatever reasons or explanations may be pleaded, failure to comply is fatal, and this Court does not have the authority to grant an extension where an application is submitted to it after the expiry of the prescribed time limit.[7]
+[26] In light of these facts, the Court has no choice but to dismiss Mr. Campbell’s application for an order extending the time to institute appeals under subsection 305(1) of the ETA from reassessments dated May 28, 2018, of his ten quarterly reporting periods starting on July 1, 2009 and ending on December 31, 2011.
+Afterword
+[27] Would things have been different had the CRA, on March 17, 2021, not suggested to Mr. Campbell that he file notices of objection but, instead, reminded Mr. Campbell that he had just over two weeks to file an application with the Court to extend time to institute his appeals? We will never know. What we do know is that the CRA made blatantly inaccurate representations of law to Mr. Campbell several weeks before his time expired to apply to the Court for an extension.
+[28] Is the CRA entitled to collect the amounts reassessed? The answer is yes. But whether it chooses to exercise that right in light of all the circumstances is another question entirely – one in respect of which the Court has no choice but to remain silent.
+Signed at Toronto, Ontario, this 15th day of December 2023.
+“David E. Spiro”
+Spiro J.
+Schedule “A”
+90-Day Deadline to File a Notice of Appeal of Excise Tax Act Assessments
+301(1.1) Any person who has been assessed and who objects to the assessment may, within ninety days after the day notice of the assessment is sent to the person, file with the Minister a notice of objection in the prescribed form and manner setting out the reasons for the objection and all relevant facts.
+***
+301(3) On receipt of a notice of objection, the Minister shall, with all due dispatch, reconsider the assessment and vacate or confirm the assessment or make a reassessment.
+301(4) Where, in a notice of objection, a person who wishes to appeal directly to the Tax Court requests the Minister not to reconsider the assessment objected to, the Minister may confirm the assessment without reconsideration.
+301(5) After reconsidering an assessment under subsection (3) or confirming an assessment under subsection (4), the Minister shall send to the person objecting notice of the Minister’s decision by registered or certified mail.
+***
+306 A person who has filed a notice of objection to an assessment under this Subdivision may appeal to the Tax Court to have the assessment vacated or a reassessment made after either
+(a) the Minister has confirmed the assessment or has reassessed, or
+(b) one hundred and eighty days have elapsed after the filing of the notice of objection and the Minister has not notified the person that the Minister has vacated or confirmed the assessment or has reassessed,
+but no appeal under this section may be instituted after the expiration of ninety days after the day notice is sent to the person under section 301 that the Minister has confirmed the assessment or has reassessed.
+One-Year Period to File an Application for an Extension of Time to File a Notice of Appeal of Excise Tax Act Assessments
+305(1) Where no appeal to the Tax Court under section 306 has been instituted within the time limited by that provision for doing so, a person may make an application to the Tax Court for an order extending the time within which an appeal may be instituted, and the Court may make an order extending the time for appealing and may impose such terms as it deems just.
+***
+305(5) No order shall be made under this section unless
+(a) the application is made within one year after the expiration of the time otherwise limited by this Part for appealing; and
+(b) the person demonstrates that
+(i) within the time otherwise limited by this Part for appealing,
+(A) the person was unable to act or to give a mandate to act in the person’s name, or
+(B) the person had a bona fide intention to appeal,
+(ii) given the reasons set out in the application and the circumstances of the case, it would be just and equitable to grant the application,
+(iii) the application was made as soon as circumstances permitted it to be made, and
+(iv) there are reasonable grounds for appealing from the assessment.
+CITATION:
+2023 TCC 170
+COURT FILE NO.:
+2022-1303(GST)APP
+STYLE OF CAUSE:
+MIKE CAMPBELL AND HIS MAJESTY THE KING
+PLACE OF HEARING:
+Kelowna, British Columbia
+DATE OF HEARING:
+March 8, 2023
+REASONS FOR JUDGMENT BY:
+The Honourable Justice David E. Spiro
+DATE OF JUDGMENT:
+December 15, 2023
+APPEARANCES:
+For the Applicant:
+The Applicant himself
+Counsel for the Respondent:
+Erin Krawchuk
+COUNSEL OF RECORD:
+For the Applicant:
+Name:
+N/A
+Firm:
+For the Respondent:
+Shalene Curtis-Micallef Deputy Attorney General of Canada Ottawa, Canada
+[1] Subsection 301(1.1) of the ETA. Subsection 123(1) of the ETA provides that, for purposes of Part IX, an “assessment” includes a reassessment.
+[2] Subsection 301(5) of the ETA.
+[3] Section 306 of the ETA.
+[4] Paragraph 305(5)(a) of the ETA.
+[5] Paragraph 305(5)(b) of the ETA.
+[6]Pietrovito v The Queen, 2017 TCC 119 at para 86.
+[7]National Bank of Canada v The Queen, 2001 CanLII 580 (TCC),) at para 5.

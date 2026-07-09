@@ -1,0 +1,201 @@
+---
+title: "Dubois v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27826/index.do"
+last_modified: "2007-08-08"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 TCC 461"
+citation2: ""
+neutral_citation: "2007 TCC 461"
+decision_date: "2007-08-08"
+language: "en"
+item_id: "27826"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 366
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T22:51:48.087000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "eb9072032b250d58654ebdef9cdc648224eaf733456bda50c24496473800aecf"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Dubois v. The Queen
+
+- Citation: 2007 TCC 461
+- Decision date: 2007-08-08
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 366, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Dubois v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-08-08
+Neutral citation
+2007 TCC 461
+File numbers
+2006-2335(IT)I
+Judges and Taxing Officers
+Brent Paris
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2006-2335(IT)I
+BETWEEN:
+SUZANNE DUBOIS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on
+March 15, 2007 , at
+Ottawa ,
+Ontario
+Before: The Honourable Justice B. Paris
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Sonia Bellerive
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 2001 taxation year is dismissed, in accordance with the attached Reasons for Judgment.
+Signed at
+Ottawa ,
+Canada
+, this 8th day of August 2007.
+"B. Paris"
+Paris
+J.
+Translation certified true
+on this 5th day of September 2007.
+Brian McCordick, Translator
+Citation: 2007
+TCC 461
+Date: 20070808
+Docket: 2006-2335(IT)I
+BETWEEN:
+SUZANNE DUBOIS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Paris
+J.
+[1] This appeal under the informal procedure pertains to the 2001 taxation year. The issue is whether the Appellant is entitled to a $23,285.78 deduction for current expenses in computing her income from a property.
+[2] The facts on which the Minister of National Revenue ("the "Minister") relied in order to make the reassessment are set out as follows in paragraph 7 of the Reply to the Notice of Appeal:
+[TRANSLATION]
+(a) The Appellant appears to have incurred $22,591 in legal fees in the course of the 2001 taxation year.
+(b) These fees were apparently incurred with a view to the purchase of an income‑producing property at
+183 De L'Église Street
+(hereinafter "the building").
+(c) Ultimately, the building was not purchased.
+(d) Thus, the operation of the building never commenced.
+(At the hearing, the Respondent admitted that the amount in paragraph (a) should have been $23,285.78.)
+[3] The evidence adduced at the hearing discloses that the Appellant already owned two rental buildings in 2001 and was deriving income from them. During the same year, the Appellant signed an offer to purchase the property at
+183 De L'Église Street
+(hereinafter "the building"). No copies of the offer were tendered in evidence, but, according to the Appellant, the offer was conditional on receiving financing. The Appellant wanted to hypothecate the building to obtain the necessary funds, but her credit union required her to hypothecate her personal residence, which she and her husband co‑owned. The Appellant declined this condition because she did not want to involve her husband, and because she apparently believed that the interest would not be deductible if her husband were involved.
+[4] The Appellant thought that the offer of purchase had become null, but the people who had expected to sell the building instituted a civil action against her. On the advice of her lawyer, the Appellant agreed to an out-of-court settlement which required her to pay them $6,500.
+[5] She also incurred legal fees of $8,285.78. However, she received the amount of $1,500 from the credit union as compensation. In all, the Appellant spent a net total of $23,285.78 for a full and final release in this matter.
+[6] The first issue is whether the Appellant had a source of income to which the expenses in the case at bar are to be considered applicable.
+[7] The Respondent submits that since the Appellant ultimately did not purchase the building, there was no source of income permitting the deduction of the expenses in issue. Furthermore, she submits that the Appellant could not deduct the amounts in issue from the income derived from the two rental properties that she owned because those properties are distinct sources of income. The Respondent submits that the income from each property must be computed separately, and that income and expenses from several properties cannot be combined. In this regard, the Respondent cites the decision of the majority of the Supreme Court of Canada in Hickman Motors Ltd. v. Canada, [1997] 2 S.C.R. 336, at paragraph 49:
+In cases where two or more business sources exist, the relevant business source must be identified, and the income from each individual source, as the case may be, is to be computed separately.
+[8] In the alternative, the Respondent submits that even if there was a source of income in the case at bar, the expenditures were capital in nature and are therefore non‑deductible by virtue of paragraph 18(1)(b) of the Income Tax Act ("the Act").
+[9] As for the Appellant, her first submission is that it is unnecessary to presuppose the existence of a source of income in order to deduct an expense. Further, she submits that she does not need to have taken possession of the property and to have derived income from it in order for a source of income to exist. She says that the activity and efforts that she undertook were engaged in for the purpose of obtaining purchase financing for the property and to earn the income, and had no personal component.
+[10] Lastly, the Appellant submits that the expenses in the case at bar are current expenses because they cannot be attributed to a capital asset. Since the purchase of the building never took place, no capital asset was purchased, and no enduring benefit was created.
+Analysis
+[11] It is clear that, for each expense, a taxpayer must have a source of income, and that the expense must have been incurred to earn income from that source. These principles stem from sections 3, 4 and 9 and paragraph 18(1)(a) of the Act, the relevant portions of which read:
+The income of a taxpayer for a taxation year for the purposes of this Part is the taxpayer's income for the year determined by the following rules:
+(a) determine the total of all amounts each of which is the taxpayer's income for the year (other than a taxable capital gain from the disposition of a property) from a source inside or outside Canada, including, without restricting the generality of the foregoing, the taxpayer's income for the year from each office, employment, business and property;
+. . .
+4. (1) For the purposes of this Act:
+(a) a taxpayer's income or loss for a taxation year from an office, employment, business, property or other source, or from sources in a particular place, is the taxpayer's income or loss, as the case may be, computed in accordance with this Act on the assumption that the taxpayer had during the taxation year no income or loss except from that source or no income or loss except from those sources, as the case may be, and was allowed no deductions in computing the taxpayer's income for the taxation year except such deductions as may reasonably be regarded as wholly applicable to that source or to those sources, as the case may be, and except such part of any other deductions as may reasonably be regarded as applicable thereto; and
+. . .
+9. (1) Subject to this Part, a taxpayer's income for a taxation year from a business or property is the taxpayer's profit from that business or property for the year.
+(2) Subject to section 31, a taxpayer's loss for a taxation year from a business or property is the amount of the taxpayer's loss, if any, for the taxation year from that source computed by applying the provisions of this Act respecting computation of income from that source with such modifications as the circumstances require.
+. . .
+18. (1) In computing the income of a taxpayer from a business or property no deduction shall be made in respect of
+(a) an outlay or expense except to the extent that it was made or incurred by the taxpayer for the purpose of gaining or producing income from the business or property;
+. . .
+[12] I agree with the assertion, made by counsel for the Respondent, that the calculation of a taxpayer's income must be done separately for each source, that is to say, each employment, business or property. The author Edwin C. Harris, in Canadian Income Taxation, 4th ed. (1979) (quoted by Iacobucci J. at paragraph 135 of his dissenting judgment in Hickman Motors Ltd., supra), explains this principle as follows:
+. . . the Act provides that a taxpayer's income for a taxation year is his income from all sources, including but not limited to his income from each office or employment, each business, and each property. His income from each source-type is to be computed separately. (Emphasis added.)
+[13] However, I find that, for the following reasons, the Appellant had a source of income related to her attempt to purchase the building.
+[14] The operation of property normally commences with the purchase of that property, in the same way as the operation of a business begins with the implementation of the structures with which the business is started up. With respect to businesses, the Canada Revenue Agency, in Interpretation Bulletin IT-364, acknowledges at paragraph 2 that, generally speaking, "a business commences whenever some significant activity is undertaken that is a regular part of the income‑earning process in that type of business or is an essential preliminary to normal operations." (Emphasis added.).
+[15] The same principle applies to the commencement of the operation of property: when a preliminary activity that is essential to the operation of a specific property is undertaken, the operation of that property has commenced.
+[16] In the case at bar, the Appellant promised, in an enforceable contract, to purchase the building, and that is an essential preliminary to the operation of the property. Thus, the expenses in question were attributable to one of the Appellant's sources of income.
+[17] The next issue for determination is whether the expenses were capital in nature and therefore non‑deductible by reason of paragraph 18(1)(b) of the Act.
+[18] As the Supreme Court of
+Canada
+recognized in Johns‑Manville Canada Inc. v. The Queen, [1985] S.C.R. No. 44, there is no single factor based on which an outlay can be decisively characterized as an operating expense or a capital expenditure. However, certain criteria, to which the Court made reference, are relevant to the case at bar. The Court cited British Insulated and Helsby Cables Ltd v. Atherton [1926] A.C. 205 at page 213, where Viscount Cave L.C. held:
+. . . where an expenditure is made, not only once and for all, but with a view to bringing into existence an asset or an advantage for the enduring benefit of a trade, I think that there is a very good reason (in the absence of special circumstances leading to an opposite conclusion) for treating such an expenditure as properly attributable not to revenue but to capital.
+The Court also quoted from Pinson on Revenue Law, 15th ed. (1982), at page 50:
+The courts seem now to have accepted an "identifiable asset test," making the obtaining of or the enrichment of some capital asset as the key factor in capital expenditure. The test is: can a capital asset be identified for which the payment was made?
+[19] In certain circumstances, there can be a capital expenditure even if no property has been purchased. Professor Krishna, in Fundamentals of Canadian Income Tax, 9th ed. (2006), states as follows at page 333:
+A payment to eliminate an enduring disadvantage or an onerous obligation may have enduring benefits and constitute a capital expenditure.
+. . .
+Similarly, a payment to discharge a capital liability is a capital expenditure.
+[20] For example, in Countess Warwick S.S. Co. v. Ogg, [1925] 2 K.B. 292, an expense incurred to secure the cancellation of a contract to acquire a capital asset was held to be a capital expenditure. The decision of this Court in
+REF Automation Ltd. v. Minister of National Revenue, [1987] D.T.C. 292, is in the same vein. There, a payment made by the taxpayer to cancel his obligation to purchase 50% of the shares of a corporation was characterized as a capital expenditure.
+[21] If the Appellant in the case at bar had completed the purchase of the building, its price would certainly have been a capital expenditure. The amount that she paid to get released from her obligation to purchase the building is therefore closely tied to what would have been a capital asset, and its character would be the same. Thus, I find that the expenditures made by the Appellant to cancel the contract for the purchase of the building were capital in nature, and were not expenses related to the operation of property, and consequently, that they are not deductible in computing her income from a property in 2001.
+[22] The Appellant never claimed any capital losses related to these expenditures made in 2001, and I do not have to make any pronouncements on that question. However, at the hearing, counsel for the Respondent suggested that the Appellant would not be entitled to a capital loss because, in her opinion, the Appellant did not dispose of any property in 2001. This issue will only become relevant if and when the Appellant realizes a capital gain against which she can carry forward capital losses from previous years. However, in my opinion, the expenses may have been incurred as part of a disposition of the Appellant's right to purchase the building, and the disposition of that right may constitute a disposition of property within the meaning of section 38 and of the definition of "property" set out in subsection 248(1) of the Act.
+[23] For all these reasons, the appeal is dismissed.
+Signed at
+Ottawa ,
+Canada
+, this 8th day of August 2007.
+"B. Paris"
+Paris
+J.
+Translation certified true
+on this 5th day of September 2007.
+Brian McCordick, Translator
+CITATION: 2007
+TCC 461
+COURT
+FILE NO.: 2006-2335(IT)I
+STYLE OF CAUSE: SUZANNE DUBOIS v. HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Ottawa ,
+Ontario
+DATE OF HEARING:
+March 15, 2007
+REASONS FOR JUDGMENT BY: The Honourable Justice B. Paris
+DATE OF JUDGMENT:
+August 8, 2007
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Sonia Bellerive
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of
+Canada
+Ottawa ,
+Canada

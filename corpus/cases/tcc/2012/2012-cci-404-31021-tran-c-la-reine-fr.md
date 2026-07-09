@@ -1,0 +1,224 @@
+---
+title: "Tran c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/31021/index.do"
+last_modified: "2012-11-15"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2012 CCI 404"
+citation2: ""
+neutral_citation: "2012 CCI 404"
+decision_date: "2012-11-15"
+language: "fr"
+item_id: "31021"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4903
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T14:16:36.769000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "cddea9c389a8b447866ad7df466e0c2a1bb3cd14a6017c925655691028ea19c5"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Tran c. La Reine
+
+- Citation: 2012 CCI 404
+- Decision date: 2012-11-15
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4903, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Tran c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2012-11-15
+Référence neutre
+2012 CCI 404
+Numéro de dossier
+2009-3063(GST)G
+Juges et Officiers taxateurs
+Judith Woods
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2009-3063(GST)G
+ENTRE :
+ALEXANDER TRAN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 23 octobre 2012, à Ottawa (Ontario).
+Par : L'honorable juge J. M. Woods
+Comparutions :
+Avocat de l'appelant :
+Me Ryan E. Flewelling
+Avocats de l'intimée :
+Me Andrew Miller
+Me Michael Ezri
+____________________________________________________________________
+JUGEMENT
+La Cour ordonne :
+(1) que l'appel interjeté à l'encontre de cotisations établies en vertu de la Loi sur la taxe d'accise (la « LTA ») pour les périodes de déclaration allant de 1998 à 2001, inclusivement, soit rejeté;
+(2) que l'appel interjeté à l'encontre d'une cotisation établie en vertu de la LTA pour les périodes de déclaration en 2002 soit accueilli, et que la cotisation soit renvoyée au ministre du Revenu national pour nouvel examen et nouvelle cotisation en tenant compte du fait que l'appelant n'était pas propriétaire de l'entreprise après le 31 octobre 2002;
+(3) que l'appel interjeté à l'encontre d'une cotisation établie en vertu de la LTA pour les périodes de déclaration en 2003 soit accueilli, et que la cotisation soit annulée;
+(4) que l'intimée ait droit à ses dépens conformément au tarif.
+Signé à Toronto (Ontario), ce 15e jour de novembre 2012.
+« J. M. Woods »
+Le juge Woods
+Traduction certifiée conforme
+ce 25e jour de janvier 2013.
+Yves Bellefeuille, réviseur
+Référence : 2012 CCI 404
+Date : 20121115
+Dossier : 2009-3063(GST)G
+ENTRE :
+ALEXANDER TRAN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Woods
+[1] L'appelant, Alexander Tran, avait exploité une clinique d'acupuncture à Ottawa de 1998 à 2002. En 2009, il a plaidé coupable à une accusation d'évasion fiscale selon la Loi de l'impôt sur le revenu (la « LIR ») et la Loi sur la taxe d'accise (la « LTA ») relativement à cette entreprise, et une amende de 250 000 $ lui a été imposée pour les périodes susmentionnées.
+[2] Le présent appel porte sur des cotisations concernant la taxe sur les produits et services (la « TPS ») à l'égard de l'entreprise pour les périodes allant de 1998 à 2003, inclusivement. La Couronne a concédé à l'audience que la nouvelle cotisation établie pour 2003 devrait être annulée, compte tenu du fait que l'entreprise avait été vendue au fils de l'appelant.
+[3] Les montants qui ont été établis dans les nouvelles cotisations sont tirés de la réponse à l'avis d'appel et sont présentés dans le tableau ci‑dessous. Les calculs ne sont pas contestés.
+1998
+1999
+2000
+2001
+2002
+2003
+Taxe nette
+27 472 $
+14 929 $
+30 976 $
+21 063 $
+26 813 $
+10 399 $
+Pénalités
+3 281 $
+3 491 $
+1 698 $
+4 252 $
+5 997 $
+1 369 $
+[4] La seule question soulevée dans l'avis d'appel modifié est de savoir si les services d'acupuncture rendus à la clinique de l'appelant sont des fournitures exonérées pour l'application de la LTA. Plusieurs types de redressement ont été demandés, dont certains ne relèvent pas de la compétence de la Cour. J'ai tenu pour acquis que tous les redressements demandés, y compris la suppression des intérêts et des pénalités, dépendent de la question des fournitures exonérées, étant donné que cette question était la seule soulevée dans l'avis d'appel modifié et à l'audience.
+[5] L'appelant soutient que les services d'acupuncture rendus à sa clinique constituent une fourniture exonérée en tant que services de santé en établissement en application de l'article 2 de la partie II de l'annexe V de la LTA.
+[6] À l'audience, l'appelant a abandonné un autre argument selon lequel les services étaient exonérés compte tenu du fait qu'il était médecin, selon la définition de ce terme, en vertu de l'article 5 de la partie II de l'annexe V de la LTA.
+Le contexte factuel
+[7] L'appelant est né au Viêtnam, où il a reçu la formation et l'agrément à titre d'acupuncteur. Il s'est installé au Canada en 1988, et a ouvert une clinique d'acupuncture à Ottawa peu de temps après son arrivée. L'appelant et son fils offraient tous deux des services d'acupuncture à la clinique.
+[8] L'appelant admet les faits suivants qui sont tirés de la demande d'aveux de l'intimée :
+[TRADUCTION]
+1. Du 1er janvier 1998 au 31 octobre 2002, l'appelant était l'unique propriétaire d'Asian Acupuncture (l'« entreprise »), une entreprise qui offrait des traitements d'acupuncture au public.
+2. Du 1er novembre 2002 au 31 décembre 2003, l'entreprise a continué à fonctionner sous le nom de New Acupuncture.
+3. Du 1er janvier 1998 au 31 octobre 2002, l'appelant a fourni des traitements d'acupuncture aux bureaux d'Asian Acupuncture (l'« établissement »), qui étaient situés au 1340, rue Wellington, à Ottawa, en Ontario.
+4. Le traitement d'acupuncture offert par l'appelant consistait à fournir des aiguilles d'acupuncture et à les appliquer à la surface de la peau du client.
+5. Les tests sanguins, les examens IRM, les tomodensitogrammes et les rayons X n'étaient jamais effectués par l'appelant ni par une quelconque autre personne travaillant à l'établissement.
+6. Durant les années d'imposition 1998, 1999, 2000, 2001 et 2002, l'appelant facturait des honoraires fixes pour chaque traitement d'acupuncture.
+7. En 1998, 1999, 2000 et 2003, l'appelant n'a ni perçu, ni déclaré, ni versé de taxe sur les produits et services sur la contrepartie payée pour les traitements d'acupuncture fournis pendant ces années‑là.
+8. En 2001 et 2002, l'appelant a déclaré une taxe sur les produits et services concernant une partie seulement de la contrepartie payée pour les traitements d'acupuncture fournis durant ces années‑là.
+9. L'appelant n'a jamais été membre de l'Ordre des médecins et chirurgiens de l'Ontario ni d'un ordre semblable institué en vertu des lois d'une autre province ou d'un territoire du Canada.
+10. L'appelant n'a jamais été membre de l'Ordre royal des chirurgiens dentistes de l'Ontario ni d'un ordre semblable institué en vertu des lois d'une autre province ou d'un territoire du Canada.
+11. L'appelant n'a jamais, durant la période visée par l'appel, détenu de permis l'autorisant à exercer l'acupuncture délivré en vertu d'un texte législatif d'une province ou d'un territoire du Canada.
+12. L'appelant n'est devenu membre de l'Ordre des praticiens en médecine traditionnelle chinoise et des acupuncteurs de l'Ontario qu'en décembre 2010.
+13. [...]
+14. [...]
+15. L'établissement n'a jamais donné de soins hospitaliers, notamment aux personnes souffrant de maladie aiguë ou chronique, ainsi qu'en matière de réadaptation.
+16. L'établissement n'a, à aucun moment, principalement fourni des soins à des personnes ayant des problèmes de santé mentale.
+17. Il n'y a jamais eu de résident à l'établissement.
+18. [...]
+19. Les particuliers à l'établissement n'ont jamais reçu de traitements comprenant la fourniture de drogues, de substances biologiques ou de préparations connexes.
+20. L'utilisation de prothèses médicales ou chirurgicales n'a jamais fait partie des traitements d'acupuncture.
+21. L'établissement n'a jamais offert les services d'usage de salles d'opération, de salles d'accouchement et d'installations d'anesthésie.
+22. L'établissement n'a jamais fourni d'autre chambre aux clients qu'une salle commune comportant treize lits situés à une distance d'un mètre les uns des autres.
+23. [...]
+24. Des aiguilles et un stérilisateur pour aiguilles constituent le seul matériel utilisé par l'appelant pour ce qui est des traitements d'acupuncture.
+25. La radiothérapie, la physiothérapie ou l'ergothérapie n'ont jamais fait partie de traitements d'acupuncture reçus par les particuliers à l'établissement.
+26. L'appelant n'a jamais fourni d'hébergement ou de repas à l'établissement aux particuliers recevant des traitements d'acupuncture.
+Question préliminaire
+[9] Il est utile de mentionner que les parties ont reconnu qu'une conclusion de la Cour accordant gain de cause à l'appelant serait incompatible avec la reconnaissance de culpabilité de ce dernier dans la procédure pénale. Souvent, dans des situations pareilles, la Couronne se prévaut d'un argument fondé sur la préclusion. En l'espèce, les avocats de l'intimée ont choisi de ne pas invoquer la préclusion, en partie parce que la procédure pénale portait dans sa presque totalité sur les violations de la LIR. Par conséquent, je ne me suis pas penchée sur la question de savoir si la préclusion devrait s'appliquer.
+Analyse
+[10] L'appelant soutient que les services fournis à l'établissement Asian Acupuncture sont des fournitures exonérées en vertu de l'article 2 de la partie II de l'annexe V de la LTA. Voici la teneur de cette disposition, telle qu'elle était libellée pendant la période pertinente.
+[Applicable jusqu'au 10 décembre 1998]
+2. La fourniture de services de santé en établissement effectuée par l'administrateur d'un établissement de santé au profit d'un patient ou d'un résident, à l'exclusion des services liés à la prestation de services chirurgicaux ou dentaires exécutés à des fins esthétiques plutôt que médicales ou restauratrices.
+[Applicable après le 10 décembre 1998]
+2. La fourniture de services de santé en établissement, rendus à un patient ou à un résident d'un établissement de santé, effectuée par l'administrateur de l'établissement, à l'exclusion de la fourniture de services liés à la prestation de services chirurgicaux ou dentaires exécutés à des fins esthétiques plutôt que médicales ou restauratrices.
+[11] En l'espèce, deux éléments énoncés à l'article 2 sont pertinents : la fourniture de services doit être effectuée par l'administrateur d'un établissement de santé et la fourniture de services doit consister en des services de santé en établissement. Les deux expressions sont définies comme suit à l'article 1 de la partie II de l'annexe V de la LTA :
+1. Les définitions qui suivent s'appliquent à la présente partie.
+« établissement de santé »
+a) Tout ou partie d'un établissement où sont donnés des soins hospitaliers, notamment aux personnes souffrant de maladie aiguë ou chronique, ainsi qu'en matière de réadaptation;
+b) hôpital ou établissement pour personnes ayant des problèmes de santé mentale;
+c) tout ou partie d'un établissement où sont dispensés aux résidents dont l'aptitude physique ou mentale sur le plan de l'autonomie ou de l'autocontrôle est limitée :
+(i) des soins infirmiers et personnels sous la direction ou la surveillance d'un personnel de soins infirmiers et médicaux compétent ou d'autres soins personnels et de surveillance (sauf les services ménagers propres à la tenue de l'intérieur domestique) selon les besoins des résidents,
+(ii) de l'aide pour permettre aux résidents d'accomplir des activités courantes et des activités récréatives et sociales, et d'autres services connexes pour satisfaire à leurs besoins psycho‑sociaux,
+(iii) les repas et le logement;
+[...]
+« services de santé en établissement » Les services et produits suivants offerts dans un établissement de santé :
+a) les services de laboratoire, de radiologie et autres services de diagnostic;
+b) lorsqu'elles sont accompagnées de la fourniture d'un service ou d'un bien figurant à l'un des alinéas a) et c) à g), les drogues, substances biologiques ou préparations connexes administrées dans l'établissement et les prothèses médicales ou chirurgicales installées dans l'établissement;
+c) l'usage des salles d'opération, des salles d'accouchement et des installations d'anesthésie, ainsi que l'équipement et le matériel nécessaires;
+d) l'équipement et le matériel médicaux et chirurgicaux :
+(i) utilisés par l'administrateur de l'établissement en vue d'offrir un service figurant aux alinéas a) à c) et e) à g),
+(ii) fournis à un patient ou à un résident de l'établissement autrement que par vente;
+e) l'usage des installations de radiothérapie, de physiothérapie ou d'ergothérapie;
+f) l'hébergement;
+g) les repas (sauf ceux servis dans un restaurant, une cafétéria ou un autre établissement semblable où l'on sert des repas);
+h) les services rendus par des personnes rémunérées à cette fin par l'administrateur de l'établissement;
+[12] En l'espèce, il suffit d'examiner la définition de l'expression « services de santé en établissement ». Cette disposition prévoit que les services qui y sont visés sont exonérés. L'acupuncture n'est pas visée par cette disposition.
+[13] L'appelant invoque les « autres services de diagnostic » dont il est question à l'alinéa a) de la définition de l'expression « services de santé en établissement ».
+[14] Il ressort de la preuve que l'appelant est tenu d'examiner le patient dans le but d'établir un diagnostic approprié afin de fournir des services d'acupuncture adéquats.
+[15] Cette exigence ne suffit pas pour permettre à un service d'acupuncture d'être qualifié de service de diagnostic selon la définition pertinente. Ce qu'il faut considérer, c'est la partie essentielle du service et, en l'espèce, la partie essentielle est le traitement, qui consiste en l'insertion des aiguilles dans la peau. Le travail de diagnostic exécuté par l'appelant n'est qu'une partie accessoire du service. Il a été admis lors des plaidoiries que le service de diagnostic ne représentait qu'environ cinq pour cent de la valeur de l'ensemble du service.
+[16] Une interprétation contextuelle et téléologique de la définition de l'expression « services de santé en établissement » laisse entrevoir que les services de diagnostic qui sont visés dans la disposition en question sont des services de diagnostic qui sont fournis en tant qu'élément essentiel du service. Les services de diagnostic qui sont exécutés accessoirement à la fourniture d'un traitement ne sont pas censés être inclus.
+[17] L'appelant a également laissé entendre que les aiguilles utilisées dans l'établissement sont exonérées au titre de l'alinéa d) de la définition de l'expression « services de santé en établissement ». La difficulté qui se pose à l'égard de cet argument réside dans le fait que le matériel médical n'est admissible que s'il est utilisé en vue d'offrir un service prévu à cette définition. Étant donné que les services offerts par la clinique de l'appelant ne sont pas admissibles à titre de services de santé en établissement, le matériel utilisé, comme les aiguilles, n'est pas non plus admissible.
+Conclusion
+[18] L'appel sera rejeté, sauf en ce qui concerne la période pendant laquelle l'entreprise appartenait au fils de l'appelant. Selon la preuve, cette période a commencé le 1er novembre 2002.
+[19] La Couronne a droit à ses dépens.
+Signé à Toronto (Ontario), ce 15e jour de novembre 2012.
+« J. M. Woods »
+Le juge Woods
+Traduction certifiée conforme
+ce 25e jour de janvier 2013.
+Yves Bellefeuille, réviseur
+RÉFÉRENCE : 2012 CCI 404
+NO DU DOSSIER DE LA COUR : 2009-3063(GST)G
+INTITULÉ : ALEXANDER TRAN c. SA MAJESTÉ LA REINE
+LIEU DE L'AUDIENCE : Ottawa (Ontario)
+DATE DE L'AUDIENCE : Le 23 octobre 2012
+MOTIFS DU JUGEMENT : L'honorable juge J. M. Woods
+DATE DU JUGEMENT : Le 15 novembre 2012
+COMPARUTIONS :
+Pour l'appelant :
+Me Ryan E. Flewelling
+Avocats de l'intimée :
+Me Andrew Miller
+Me Michael Ezri
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelant :
+Nom : Ryan E. Flewelling
+Cabinet : Gibsons LLP
+Ottawa (Ontario)
+Pour l'intimée : William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada

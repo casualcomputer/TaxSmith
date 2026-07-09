@@ -1,0 +1,185 @@
+---
+title: "Gill v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26501/index.do"
+last_modified: "2004-11-08"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 TCC 744"
+citation2: ""
+neutral_citation: "2004 TCC 744"
+decision_date: "2004-11-08"
+language: "en"
+item_id: "26501"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3249
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T18:51:28.145000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "cbd7d6351d248c59a4ac5000115fb4eef82f16acd435bbe8599d444f89b83906"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Gill v. M.N.R.
+
+- Citation: 2004 TCC 744
+- Decision date: 2004-11-08
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3249, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Gill v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-11-08
+Neutral citation
+2004 TCC 744
+File numbers
+2004-825(EI)
+Judges and Taxing Officers
+Campbell J. Miller
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2004-825(EI)
+BETWEEN:
+SURINDER PAL KAUR GILL,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+Appeal heard on August 10, 2004, at Kelowna, British Columbia, by
+The Honourable Justice Campbell J. Miller
+Appearances:
+Counsel for the Appellant:
+G.M. Andy Advani, Q.C.
+Counsel for the Respondent:
+Gavin Laird
+JUDGMENT
+The appeal pursuant to subsection 103(1) of the Employment Insurance Act is allowed and the decision of the Minister of National Revenue on the appeal made to him under section 91 of that Act is vacated on the basis that the Appellant was engaged in insurable employment within the meaning of paragraph 5(1)(a) of the Act for the period May 26, 2003 to July 31, 2003, while employed by Balraj Singh Gill.
+Signed at Ottawa, Canada, this 8th day of November, 2004.
+"CampbellJ. Miller"
+Miller J.
+Citation: 2004TCC744
+Date: 20041108
+Docket: 2004-825(EI)
+BETWEEN:
+SURINDER PAL KAUR GILL,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGMENT
+Miller J.
+[1] By letter of February 23, 2004, Canada Revenue Agency (CRA) advised the Appellant, Ms. Surinder Gill, that: "We have decided that the employment was not insurable for the following reason(s): your arrangement did not constitute a contract of service". Ms. Gill appeals that determination on the basis she worked for Mr. Balraj Gill for the period from May 26, 2003 to July 31, 2003 pursuant to a contract of service. The Respondent alleges that the Appellant's testimony of working 10 hours a day for 70 days is simply not credible. The Respondent argues that Ms. Gill could only have entered an arrangement for inflated hours, and therefore she could not be working pursuant to a contract of service.
+[2] The sole issue is whether Ms. Gill worked from May 26, 2003 to July 31, 2003 pursuant to a contract of service.
+Facts
+[3] Ms. Gill married Baljet Singh Gill in January 1999, and emigrated from India to Osoyoos, Canada in March of that year. She worked intermittently in fruit-packing houses in Oliver in 2000, 2001 and 2002. In May 2003, she applied to work at Mr. Balraj Gill's orchards, was accepted and commenced work May 26, 2003. She is not related to Mr. Balraj Gill. Ms. Gill was six months pregnant at the time. She lived just a brief drive from Mr. Balraj Gill's orchards. She described her job as "both thinning and picking fruit". She suggested it was light work. Her answers indicated that she had a solid understanding of the orchard work. She testified that she worked mainly 10-hour days, with the occasional 11-hour day, starting at 5:00 or 6:00 in the morning and working until 4:00 or 6:00 in the afternoon. She maintained she did this every day until July 31. She gave birth to her baby on August 3, 2003, two weeks before her due date.
+[4] Mr. Balraj Gill would advise his workers either at the end of the day or the beginning of the next day as to which orchard was to be worked. Ms. Gill indicated that she took two coffee breaks a day which were paid, while the one-half hour lunch break was not paid. She considered herself a good worker. Mr. Balraj Gill confirmed this: he described Ms. Gill as the best worker he ever had.
+[5] While Ms. Gill worked, her oldest child would be cared for by her husband and sometimes by her husband's grandmother. The grandmother did not testify at the trial due to hospitalization. Mr. Brian Lundgren, the CRA's officer who investigated Ms. Gill's file, interviewed the grandmother, though not realizing it was the grandmother, and was led to believe that she did not know Ms. Gill and did not babysit for her. This very brief interview took place through an interpreter, a family relative. I find it unusual that a grandmother would state she does not know her great-granddaughter's mother. Although the grandmother did not appear, I am not prepared to attach any adverse influence to that, nor do I attach any weight to Mr. Lundgren's evidence that, through an interpreter, he was advised by the grandmother that she neither knew the Appellant nor babysat for her. I conclude something has been lost in translation.
+[6] Ms. Gill recorded her hours and provided them to Mr. Balraj Gill every couple of weeks. He, in turn, attempted to submit information with respect to hours to the independent bookkeeper, Ms. Susan Kassian, on a regular basis. Ms. Kassian confirmed that she would receive such material from Mr. Balraj Gill, although not always every second week. She also confirmed that she did the payroll for Mr. Balraj Gill, usually every couple of weeks, relying both on papers that he might have delivered to her or on his verbal instructions, with papers arriving later. Ms. Gill was paid three times over the summer as follows:
+Date
+Amount
+Period Covered
+June 9, 2003
+$1,096.44
+May 25 to June 7
+July 11, 2003
+$2,192.88
+June 8 to July 5
+August 11, 2003
+$1,992.09
+July 6 to July 31
+Cancelled cheques were provided evidencing these payments. Ms. Kassian testified that she usually prepared the cheques for Mr. Balraj Gill to sign. She occasionally received handwritten schedules in support of the hours after the preparation of the cheques. I conclude that with respect to these three cheques they were prepared on Mr. Gill's verbal instructions.
+[7] Ms. Kassian referred to five computer printouts entitled "Tables on Diskette - Payroll Deductions for Regular Salary effective January 1, 2003". One such printout was dated June 9, 2003, with a summary of how the June 9 cheque paid to Ms. Gill of $1,096.44 was calculated; two other printouts were dated July 11 with a summary of how the cheque for $2,192.88 was calculated; and two others were dated August 11, likewise with a summary of the calculation of $1,992.09.
+[8] Ms. Kassian went over in some detail the hours worked by Mr. Balraj Gill's 16 employees in 2003. It is unnecessary to review this in such detail. I simply take from the review that a couple of other workers put in 70-hour weeks, but Ms. Gill appears to have been the only worker to consistently do so, week-after-week, according to records referred to by Ms. Kassian.
+[9] Ms. Gill attended 15 medical appointments throughout the three-month period she was working for Mr. Balraj Gill. These appointments took place mainly in Penticton or Osoyoos. There was no oral evidence as to what time of day these appointments took place, though I note on the handwritten summary of Ms. Gill's hours there were several days that she finished at 3:30 or 4:00 in the afternoon, three days that there was a two-hour break during the day and one day when she did not start until 11:00 in the morning.
+[10] Mr. Lundgren testified for the Respondent. He works in the fraud section of the employment insurance department. He was referred Ms. Gill's file due to the excessive hours reported. Mr. Lundgren attended at Ms. Kassian's office on September 10, 2003. He testified that at that time a review of her records revealed only six employees of Mr. Balraj Gill: Ms. Gill's name was not one of them.
+Analysis
+[11] The issue is whether Ms. Gill was an employee performing services under a contract of service. If so, her activity can be considered as insurable employment. The Respondent argues that Ms. Gill did not perform services under a contract of service, but pursuant to an arrangement to inflate hours so that she could qualify for employment insurance maternity benefits. The Respondent relies on two assumptions found in the Reply:
+5(q) the record of the Appellant's hours worked was inflated; and
+5(r) Gill and the Appellant entered into an arrangement that a record of employment would be issued with sufficient hours to enable the Appellant to qualify for employment insurance maternity benefits.
+[12] In addressing the issue of whether there is a contract of service, I suggest the following process. First, address whether Ms. Gill's hours were inflated. If not, that is the end of the matter: Ms. Gill did work pursuant to a contract of service. If the hours were inflated, determine whether or not Ms. Gill had an arrangement to do so with Mr. Gill, so she could qualify for employment insurance benefits. Next, consider whether the circumstances would lead to a finding that the arrangement was artificial and that there could not, therefore, be a contract of service.
+[13] The Respondent suggested at trial that this case is solely a matter of credibility. If I do not believe Ms. Gill worked the hours she claimed, I must dismiss her appeal. As I have illustrated by setting out the issues, the Respondent's approach overlooks the possibility of a finding that Ms. Gill may have exaggerated her hours, but that she still did work as an employee for Mr. Gill pursuant to a contract of service, though for less hours than those for which she was actually paid.
+[14] I will firstly deal with Ms. Gill's hours of work. Do I believe Ms. Gill worked at Mr. Balraj Gill's orchards picking fruit in the summer of 2003? Yes, I do. She exhibited a knowledge of fruit-picking and thinning that left no doubt in my mind that she experienced firsthand this work. I accept Mr. Balraj Gill's and Ms. Gill's testimony that she worked at Mr. Balraj Gill's orchards in the summer of 2003.
+[15] Did she however work the hours claimed? What does the Respondent rely upon in asserting Ms. Gill's hours were inflated?
+(a) No other worker came close to working those hours. Yet, Mr. Gill testified Ms. Gill was his best worker. It would not be extraordinary for the best worker to lead the pack. There was no suggestion any other worker might be motivated to work such long hours to qualify for benefits.
+(b) Mr. Lundgren was unable to find records supporting Ms. Gill's hours in his September visit to Ms. Kassian. The evidence was that Mr. Lundgren only found evidence of six employees as Ms. Kassian's records were not completed for August. Ms. Kassian testified it was not uncommon to receive verbal instructions with follow-up materials in writing some time later.
+(c) Ms. Gill was in her last trimester of pregnancy. It is a challenge to fully appreciate the nuances and emphasis given in responses through an interpreter. Findings of credibility, tricky in the best of circumstances, become even more difficult when screened by an interpreter first through the question, and then through the answer. This is compounded by the varying social mores, etiquette, customs and accepted behaviour particular to different cultures. For example, Ms. Gill's response that she considered fruit picking in July in southern British Columbia for 10-hour days, while eight months pregnant to be "light work", met with the following response in the Respondent's written submissions:
+Response
+"The Appellant has come before the Court with a story that boggles the and said in effect, 'I am to be believed'."
+(I presume the Respondent intended to insert the word "mind" after "boggles the".)
+But does such incredulity arise from a background of beliefs more common to the white North American male than the pregnant Appellant, newly immigrated to Canada from India? I do not say this critically but only to highlight that all of us who work in the justice system must be sensitive to cultural, racial and gender differences. Credibility cannot be determined by imposing concepts of what is reasonable through my eyes alone, while turning a blind eye to what other communities might find reasonable. The challenge is what other communities do believe.
+(d) Ms. Gill had 15 medical appointments in Penticton, Osoyoos and Kelowna. Several entries in the handwritten summary of Ms. Gill's hours would accommodate time taken during the day for some appointments. There were not however 15 of such entries.
+(e) There is no corroboration from babysitters. As already indicated, I give no weight to Mr. Lundgren's evidence regarding his conversation with the grandmother.
+[16] What evidence suggests the hours were not inflated?
+(a) Ms. Gill's testimony that she worked those hours;
+(b) Mr. Balraj Gill's testimony that Ms. Gill worked those hours;
+(c) Mr. Balraj Gill's testimony that Ms. Gill was his best worker;
+(d) Back-up documents supporting the hours both from Mr. Balraj Gill and Ms. Kassian;
+(e) Copies of payroll deductions from tables on diskette dated June 9, July 11, and August 11; and
+(f) Cancelled cheques evidencing that she was paid for the number of hours recorded, at three times during the summer.
+[17] The Respondent's position is that if Ms. Gill lied to the tune of one extra hour, then she is simply not to be believed, and I must conclude there was no real contract of service. I am satisfied that if there was any exaggeration, it was relatively minor compared to the significant hours I believe Ms. Gill worked at Mr. Gill's orchards in the summer of 2003. My main concern in not being fully convinced of Ms. Gill's hours is the lack of evidence surrounding time off for medical appointments. For example, there is no evidence that she visited her physician in the evening. Her hours could not otherwise support that many trips for appointments - when did she go?
+[18] Before considering the result of this finding, I need to complete the picture by addressing whether Mr. Balraj Gill had an arrangement with Ms. Gill to inflate the hours. The only evidence the Respondent offers to support this contention is the fact Mr. Lundgren's visit to Ms. Kassian's office in September 2003 yielded no records pertaining to Ms. Gill. Yet, I have found there were computer records dated June, July and August, and indeed cheques issued to and cashed by Ms. Gill in June, July and August. On balance, Mr. Lundgren's evidence is not sufficient to find there was any such arrangement between Mr. Balraj Gill and Ms. Gill to inflate hours, which both Mr. Balraj Gill and Ms. Gill denied. So, if there was any exaggeration of hours, it was not an agreed upon arrangement between the employer and the employee. Under these circumstances is the employer/employee relationship rendered artificial? I do not believe so.
+[19] The Respondent relied on the cases of Klein v. M.N.R.,[1] Castonguay v. M.N.R.[2] and Polusny v. M.N.R.[3] as authority for the proposition that if the relationship was artificial, there is no contract of service. None of these cases however are on all fours with the situation before me. In Klein, the issue was whether the Appellant actually worked at all - clearly there would be no contract if there was no work. With respect to Ms. Gill, I am satisfied she did in fact work for Mr. Gill throughout the summer of 2003.
+[20] All the Federal Court of Appeal said in the Castonguay case was:
+... That question was not, as he assumed, whether the contract concluded between the applicant and her alleged employer was a contract of service or a contract for services; rather, it was as to whether the contract of employment which had allegedly existed between the parties was real or artificial.
+It does not explore the issue of whether a discrepancy between hours actually worked and hours reported for employment insurance benefits purposes renders a contract of employment artificial. The Polusny case dealt with a total lack of records to support the period of employment, an entirely separate issue.
+[21] I am unconvinced that an exaggeration of hours by an employee renders a contract of employment artificial to the point that there is no contract of employment, except in cases where such exaggeration goes to the fundamental core of the contract; for example, if a claim to have worked is not supportable at all, that is, the employee simply did not work. In such a situation there would be no consideration for a contract to exist.
+[22] The Respondent has not suggested that there may have been a contract of service for a lesser number of hours. The determination of the Minister of National Revenue and the issue raised in this case was an all-or-nothing approach. In effect, all I have been asked to decide in this matter is whether in the summer of 2003 Ms. Gill worked for Mr. Gill pursuant to a contract of service. I have found that she did. I have not been asked to determine the number of hours. This result leads the matter somewhat hanging in the air.
+[23] The real issue at stake is Ms. Gill's entitlement to maternity benefits. I have found that the Minister's decision that Ms. Gill was not in insurable employment was incorrect. She was in insurable employment in 2003 under a contract of service. Her entitlement arises based on the number of hours worked. Section 6 of the Employment Insurance Act defines a "major attachment claimant" as a qualifying claimant with in excess of 600 hours. The Respondent maintains, notwithstanding the Minister's decision does not mention hours, that I have jurisdiction to deal with the hours worked: a reading of sections 90, 91 and 103 of the Act leads to this conclusion. Yet, the Respondent goes on to suggest that I am not in a position to exercise this jurisdiction because no credible evidence has been adduced as to a lesser number of hours. I disagree.
+[24] The Appellant claims to have worked 705 hours. The evidence supports a finding that she worked something less than that, but still well in excess of 600 hours. I therefore allow the appeal and vacate the Minister's decision by finding Ms. Gill was engaged in insurable employment under a contract of service for in excess of 600 hours during the period May 26, 2003 to July 31, 2003.
+Signed at Ottawa, Canada, this 8th day of November, 2004.
+"CampbellJ. Miller"
+Miller J.
+CITATION:
+2004TCC744
+COURT FILE NO.:
+2004-825(EI)
+STYLE OF CAUSE:
+Surinder Pal Kaur Gill and
+The Minister of National Revenue
+PLACE OF HEARING:
+Kelowna, British Columbia
+DATE OF HEARING:
+August 10, 2004
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Campbell J. Miller
+DATE OF JUDGMENT:
+November 8, 2004
+APPEARANCES:
+Counsel for the Appellant:
+G.M. Andy Advani, Q.C.
+Counsel for the Respondent:
+Gavin Laird
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+G.M. Andy Advani, Q.C.
+Firm:
+Advani Law Office
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] [1986] F.C.J. No. 675.
+[2] 1986 Carswell 1145.
+[3] [1990] T.C.J. No. 508.

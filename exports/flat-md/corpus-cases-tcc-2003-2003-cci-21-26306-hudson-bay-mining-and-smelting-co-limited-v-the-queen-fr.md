@@ -1,0 +1,202 @@
+---
+title: "Hudson Bay Mining and Smelting Co. Limited v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26306/index.do"
+last_modified: "2003-02-06"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 CCI 21"
+citation2: ""
+neutral_citation: "2003 CCI 21"
+decision_date: "2003-02-06"
+language: "fr"
+item_id: "26306"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3318
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T19:34:47.698000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "f972421d5a3c5d09f376c91e68e3fc4d492fa9b5708bdf40acc05e865c048c5b"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Hudson Bay Mining and Smelting Co. Limited v. The Queen
+
+- Citation: 2003 CCI 21
+- Decision date: 2003-02-06
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3318, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Hudson Bay Mining and Smelting Co. Limited v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-02-06
+Référence neutre
+2003 CCI 21
+Numéro de dossier
+2000-4067(IT)G
+Juges et Officiers taxateurs
+Ronald D. Bell
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+[TRADUCTION FRANÇAISE OFFICIELLE]
+2000-4067(IT)G
+ENTRE :
+COMPAGNIE MINIÈRE ET MÉTALLURGIQUE
+DE LA BAIE D'HUDSON LIMITÉE,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Appel entendu le 4 novembre 2002 à Winnipeg (Manitoba),
+par l'honorable juge R. D. Bell
+Comparutions
+Avocat de l'appelante : Me Sergio Pustogorodsky
+Avocat de l'intimée : Me Marley Dash
+JUGEMENT
+L'appel de la nouvelle cotisation établie en vertu de la Loi de l'impôt sur le revenu pour l'année d'imposition 1993 est admis, avec dépens, et l'affaire est déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 6e jour de février 2003.
+« R. D. Bell »
+J.C.C.I.
+Traduction certifiée conforme
+ce 19e jour de janvier 2005.
+Mario Lagacé, réviseur
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Référence: 2003CCI21
+Date: 20030206
+Dossier: 2000-4067(IT)G
+ENTRE :
+COMPAGNIE MINIÈRE ET MÉTALLURGIQUE
+DE LA BAIE D'HUDSON LIMITÉE,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Bell, C.C.I.
+QUESTIONS EN LITIGE :
+[1] La question est de savoir si l'appelante était tenue, en vertu du sous-alinéa 12(1)x)(iv) de la Loi de l'impôt sur le revenu (la « Loi » ), d'inclure dans le calcul de ses revenus pour l'année d'imposition 1993 la somme de 454 060 $ reçue du gouvernement de la province du Manitoba en tant que « crédit aux nouveaux investissements » ( « CNI » ), en application des dispositions de la Loi sur la taxe minière du Manitoba.
+[2] La portion visée de l'alinéa12(1)x) se lit comme suit :
+12(1) Sont à inclure dans le calcul du revenu tiré par un contribuable d'une entreprise ou d'un bien, au cours d'une année d'imposition, les sommes appropriées suivantes:
+[...]
+x) [...] un montant [...] reçu par le contribuable dans l'année, en tirant un revenu d'une entreprise ou d'un bien,
+[...]
+(ii) d'un gouvernement, d'une municipalité ou d'un autre organisme public,
+s'il est raisonnable de considérer le montant comme reçu:
+(iii) à titre de paiement incitatif, sous forme de prime, subvention, prêt à remboursement conditionnel, déduction de l'impôt, indemnité ou sous toute autre forme, ou
+(iv) à titre de remboursement, contribution ou indemnité ou à titre d'aide, sous forme de prime, subvention, prêt à remboursement conditionnel, déduction de l'impôt, indemnité ou sous toute autre forme, à l'égard du coût d'un bien ou à l'égard d'un débours ou d'une dépense,
+FAITS :
+[3] Les avocats ont présenté à la Cour un exposé conjoint des faits. Les faits admissibles en sont les suivants :
+1. L'activité principale de l'appelante était l'exploration minérale, l'extraction et le traitement du minerai.
+2. Inspiration Resources Corporation ( « IRC » ) était une société cotée en bourse et l'actionnaire dominante de l'appelante.
+3. L'appelante souhaitait explorer et exploiter certaines concessions minières situées au Manitoba.
+4. IRC contrôlait plusieurs autres sociétés d'exploration canadiennes propriétaires de concessions minières qu'elles souhaitaient voir explorées.
+5. Avant 1993, IRC a conclu des accords « d'action accréditive » avec certaines sociétés en commandite. Les fonds souscrits dans le cadre de ces accords ont été utilisés pour financer des programmes de prospection, notamment sur les concessions détenues par l'appelante. L'une des concessions de l'appelante était située à Namew Lake, Manitoba. Un puits d'exploration a été foré grâce aux actions accréditives susmentionnées.
+6. L'appelante, un « exploitant » au sens de la Loi sur la taxe minière, est soumise à l'impôt provincial sur le revenu net qu'elle dérive de l'exploitation et du traitement du minerai manitobain.
+7. En 1993, la Direction de la perception minière du Manitoba a vérifié les comptes de l'appelante et déterminé
+[TRADUCTION]
+...que les dépenses relatives au forage du puits d'exploration à Namew Lake constituaient des « éléments d'actif amortissables » pour l'application de la Loi sur la taxe minière. Seules les dépenses considérées comme constituant des éléments d'actif « amortissables » donnent lieu à un crédit aux nouveaux investissements.
+8. En conséquence, le ministère des Finances du Manitoba a accordé à l'appelante quelque 637 357 $ (5 p. 100 des quelque 12 747 149 $ dépensés pour le puits) de CNI. Il a été convenu que les CNI étaient déductibles à hauteur de 50 p. 100 de l'impôt minier dû pour une année d'imposition et que tout solde inutilisé pouvait être reporté et appliqué aux années d'imposition suivantes.
+9. L'appelante a déduit au total 454 060 $ de CNI de son impôt minier pour les années d'imposition 1988, 1989 et 1990.
+10. Les parties conviennent que l'impôt minier versé par l'appelante à la province du Manitoba n'est pas déductible pour l'application de la Loi de l'impôt sur le revenu (la « Loi » ).
+[4] L'avocat de l'appelante a soumis un recueil de documents dont l'avocat de l'intimée a convenu qu'ils étaient pertinents. Ce dernier a également accepté la véracité de leur contenu.
+[5] Gwendolyn Wendy Barth ( « Mme Barth » ), a déposé pour le compte de l'appelante. Elle a témoigné que l'appelante avait agi en tant que mandataire d'IRC dans les travaux d'exploration susmentionnés. Elle a déclaré que, puisque l'appelante agissait en tant que mandataire, elle ne s'est prévalue d'aucun frais d'exploration au Canada dans le calcul de son revenu aux fins de l'impôt sur le revenu. Elle a également déclaré que l'appelante ne s'était prévalue d'aucune déduction dans le cadre des travaux effectués sur le site de Namew Lake avec le produit des actions accréditives. De plus, elle a déclaré que l'appelante n'avait pas créé de « compte fiscal » pour ces dépenses et qu'elle n'avait comptabilisé aucun montant à titre d'immobilisation. Elle a également indiqué que l'appelante n'avait déduit aucune portion de l'impôt minier manitobain aux fins de l'impôt sur le revenu fédéral.
+[6] Mme Barth a témoigné que l'appelante avait demandé une déduction pour frais d'exploration aux fins de l'impôt minier au Manitoba. Elle a également déclaré que, bien que cela ait été rejeté lors de la vérification par le Manitoba, le ministère des Finances du Manitoba a convenu que les montants encourus pour le puits d'exploration à Namew Lake devaient être considérés comme des « éléments d'actif amortissables » pour l'application de la Loi sur la taxe minière.
+[7] Mme Barth a également affirmé que l'appelante avait jugé que les 454 060 $ de CNI qui avaient été déduits relativement au puits d'exploration à Namew Lake ne devaient réduire aucun de ses comptes fiscaux ou actifs.
+[8] Le ministre du Revenu national ( le « ministre » ) a établi une nouvelle cotisation pour l'année d'imposition 1993 de l'appelante en incluant dans le calcul de son revenu pour l'année la somme de 454 060 $, soit le montant déduit par l'appelante de son impôt minier au Manitoba, en application du sous-alinéa 12(1)x)(iv) de la Loi.
+OBSERVATIONS DE L'APPELANTE :
+[9] L'avocat de l'appelante a plaidé que l'alinéa 12(1)x) ne s'applique pas aux CNI prévus par la Loi sur la taxe minière du Manitoba. Il a déclaré que l'article ne trouve aucune application dans les situations dans lesquelles un simple avantage monétaire est obtenu sans qu'aucun actif déductible ne soit acquis et en l'absence d'une dépense. L'avocat affirme, essentiellement, que « l'aide » reçue du ministère des Finances du Manitoba sous la forme de CNI déductibles de l'impôt minier manitobain n'a pas été reçue « à l'égard du coût d'un bien » ou à l'égard « d'un débours ou d'une dépense » au sens où on entend ces expressions au sous-alinéa 12(1)x)(iv) ci-dessus. Il a plaidé que ces mots doivent être lus dans le contexte de la Loi de l'impôt sur le revenu. Il a ajouté que dans ce contexte l'appelante n'a reçu aucune aide à l'égard du coût d'un bien immobilier quelconque, puisque aucun bien n'a été acquis. De même, l'appelante n'a reçu aucune aide à l'égard d'un débours ou d'une dépense, puisqu'elle n'avait pas encouru une telle dépense au sens de la Loi, étant donné qu'elle agissait en tant que simple mandataire d'IRC.
+[10] L'avocat a affirmé, en outre, que l'alinéa 12(1)x) ne s'applique pas aux CNI car leur traitement fiscal est régi par les dispositions spécifiques des alinéas 66.1(6)a) et b). L'alinéa 66.1(6)a) définit les « frais d'exploration au Canada » comme incluant une variété d'activités, y compris les dépenses à des fins géologiques, géophysiques, géochimiques ou de forage, mais spécifie que :
+[...] aucun montant à titre d'aide qu'un contribuable a reçu ou est en droit de recevoir [...] concernant ses frais d'exploration au Canada ou s'y rapportant ne peut réduire une dépense visée [...]
+ci-haut. Il a ensuite fait remarquer, pour noter la différence entre ces alinéas, que l'alinéa 66.1(6)b), qui traite du calcul des « frais cumulatifs d'exploration au Canada » [1], dispose que toute aide doit être déduite dans la mesure où elle concerne des frais d'exploration au Canada engagés après 1980. Plus particulièrement, les portions pertinentes de l'alinéa se lisent comme suit :
+« frais cumulatifs d'exploration au Canada » engagés par le contribuable [...] désigne la fraction, s'il en est,
+(i) [...] de tous les frais d'exploration au Canada engagés ou supportés par lui avant cette date,
+[...]
+qui est en sus du total des montants dont chacun est
+[...]
+(ix) un montant à titre d'aide qu'il a reçu ou est en droit de recevoir concernant des frais d'exploration au Canada engagés après 1980, ou qui peut raisonnablement se rapporter à des activités d'exploration au Canada postérieures à 1980, dans la mesure où ce montant n'a pas réduit les frais d'exploration au Canada du contribuable à cause de l'alinéa (9)g),
+L'avocat a fait remarquer que l'alinéa 9g) traite des puits de pétrole ou de gaz et qu'il ne s'applique pas à l'industrie minière. Il a soutenu que les CNI reçus par l'appelante constituaient une « aide » du type envisagé par les alinéas précités. Il a déclaré toutefois que, puisque, en vertu du sous-alinéa 66.1(6)a)(vii), l'appelante n'était considérée comme ayant encouru aucun des frais d'exploration financés par les actions accréditives, elle n'avait aucuns frais d'exploration au Canada pour lesquels elle devait déduire le montant de l'aide.[2]
+[11] L'avocat a ensuite affirmé :
+[TRADUCTION]
+L'objectif de ces dispositions de la Loi de l'impôt sur le revenu est d'empêcher le contribuable de créer un compte fiscal déductible et de ne pas diminuer ensuite la valeur de ce compte fiscal du montant de l'aide qu'il aurait reçue. En d'autres termes, la politique fiscale vise à empêcher le contribuable de déduire un montant comme une dépense s'il a été remboursé d'une partie ou de la totalité de celle-ci ou s'il a reçu une forme quelconque d'avantage monétaire relativement à cette dépense.
+Puisque l'appelante n'a gagné aucun frais d'exploration au Canada et n'a acquis aucun élément d'actif amortissable aux fins de la Loi de l'impôt sur le revenu, c'est-à-dire, qu'elle n'a pu se prévaloir d'aucune déduction fiscale suite aux frais d'exploration financés par les actions accréditives, le crédit aux nouveaux investissements qu'elle a reçu du gouvernement du Manitoba n'a diminué ni ses frais cumulatifs d'exploration au Canada ni le coût en capital d'aucun de ses biens. En d'autres termes, les alinéas 66.1(6)a) et b) avaient l'effet qu'ils devaient avoir et l'appelante n'a rien fait pour contourner la politique fiscale à laquelle ces alinéas donnent corps.
+[12] L'avocat a renvoyé à l'affaire Westcoast Energy Inc. c. Canada, [1991] 3 C.F. 302 ([1991] 1 C.T.C. 471), une affaire concernant des dommages et intérêts reçus par le contribuable pour inexécution de contrat et négligence, et a cité les propos du juge Denault sur l'alinéa 12(1)x) :
+Cet article a été adopté en réponse à certaines décisions judiciaires, notamment l'arrêt Consumer's Gas, dans lequel le contribuable s'occupait de la distribution de gaz naturel. Le contribuable recevait certains paiements de la part de tiers relativement à certains travaux de déplacement de pipelines effectués à la demande de ces derniers. Le contribuable a considéré les remboursements comme des rentrées de capital, ce qui a eu pour effet de réduire l'amortissement annuel des biens. Le revenu du contribuable s'en est trouvé plus élevé qu'il ne l'aurait été si l'on avait tenu compte des remboursements. La Cour d'appel fédérale a statué que 1) la compagnie n'était pas tenue d'inclure cette somme dans son revenu et 2) elle n'était pas non plus tenue de rectifier sa déduction pour amortissement. Cette décision a créé une iniquité sur laquelle le législateur fédéral s'est penché, comme en fait foi le discours du budget de 1985:
+[TRADUCTION] C'est un principe commercial généralement accepté que le coût d'un bien ou le montant d'une dépense devraient être diminués du remboursement ou paiement similaire qui a été reçu et qui se rapporte à l'acquisition du bien ou à l'engagement de la dépense. Par exemple, un locataire commercial qui a été remboursé par un propriétaire d'une partie ou de la totalité du coût des améliorations locatives qu'il a effectuées soustrairait le paiement lors du calcul du coût de ce bien. Il en irait de même dans le cas des rabais du fabricant.
+Il ressort de la jurisprudence récente en la matière que ce principe peut ne pas s'appliquer à toutes les fins fiscales.
+Le budget propose d'exiger que tous les paiements de la nature d'un remboursement ou d'un paiement incitatif se rapportant à l'acquisition d'un bien ou à l'engagement d'une dépense déductible soient inclus dans le revenu aux fins de l'impôt à moins que le bénéficiaire ne choisisse de réduire le prix de base du bien qui s'y rapporte ou le montant de la dépense qui s'y rapporte.
+Après une longue analyse, la Cour a déterminé que le montant relatif aux dommages et intérêts ne constituait par un « remboursement » au sens de l'alinéa 12(1)x).
+[13] L'avocat de l'appelante, en résumé, a affirmé que l'appelante n'avait obtenu de ses actions accréditives aucun « bien ... débours ou dépense » pour lequel elle demandait une déduction. Il a déclaré que les travaux effectués constituaient des « non-valeurs » pour l'application de la Loi, puisque l'appelante n'avait engagé aucun frais d'exploration au Canada dans le cadre de l'exploration financée par les actions accréditives. En outre, il a précisé que les CNI avaient été déduits de l'impôt minier manitobain, dépense de l'appelante qui n'était pas déductible selon la Loi de l'impôt sur le revenu.
+[14] Finalement, l'avocat a plaidé que l'alinéa 12(1)x) est une disposition d'application générale qui « devait céder la place devant toute disposition spécifique qui s'applique aux faits » . Cette disposition, selon lui, est l'alinéa 66.1(6)a) qui traite des actions accréditives et du traitement des aides reçues. Il a renvoyé à la troisième édition de Driedger on the Construction of Statutes par Ruth Sullivan, qui indique à la page 186 :
+[TRADUCTION]
+Exception tacite (generalia specialibus non derogant). Lorsque deux dispositions sont contradictoires et que l'une d'elles porte spécifiquement sur la question en cause alors que l'autre est d'application générale, on peut éliminer la contradiction en appliquant la disposition spécifique à l'exclusion de la disposition plus générale. La disposition spécifique a priorité sur la disposition générale, peu importe laquelle a été adoptée en premier.
+L'avocat a ensuite plaidé :
+Le conflit qui existe entre l'alinéa 12(1)x) d'une part, et les alinéas 66.1(6)a) et b) d'autre part consiste en ce que le premier exige que la dépense ou le débours fiscal pour lequel l'aide a été reçue soit diminué. Les dispositions des derniers prévoient l'absence de toute dépense ou de tout débours fiscal et portent que l'aide n'a pas pour effet une diminution des dépenses ou débours fiscaux pour lesquels l'aide n'a pas été reçue.
+L'alinéa 12(1)x) ne contient aucune référence aux alinéas 66.1(6)a) ou b), de sorte qu'on ne peut pas affirmer que l'intention du législateur était de donner la priorité à l'alinéa 12(1)x).
+[15] L'avocat de l'appelante a également renvoyé à l'alinéa 12(1)x.1) qui inclut dans le revenu tous les montants qui constituent
+[...] une remise de taxe sur le combustible reçue par le contribuable au cours de l'année en vertu du paragraphe 68.4(3) de la Loi sur la taxe d'accise
+Il entendait par là que, si le sous-alinéa 12(1)x)(iv) avait été pensé pour inclure les montants correspondant à des avantages résultant d'un texte de loi autre que la Loi de l'impôt sur le revenu, alors les législateurs auraient employé un langage inclusif similaire.
+OBSERVATIONS DE L'INTIMÉE :
+[16] L'avocat de l'intimée a déclaré que, dans le fond, l'avocat de l'appelante cherchait à lire le sous-alinéa 12(1)x)(iv) comme incluant le mot « déductible » à la suite des termes « coût d'un bien » et « d'un débours ou d'une dépense » . Il a également affirmé que, si le ministre ne pouvait imposer l'appelante, alors l'avantage reçu dans le cadre des CNI représenterait un profit fortuit.
+[17] L'avocat de l'intimée a également plaidé que l'affaire Westcoast se distinguait de celle-ci du fait qu'elle ne traitait sur le fond que de dommages et intérêts qui n'étaient pas couverts par l'alinéa 12(1)x).
+[18] L'avocat a renvoyé à l'affaire Tioxide Canada Inc. c. Sa Majesté la Reine, 93 DTC 1492 (C.C.I.) et C.A.F., no A-563-93, 20 mars 1996 (96 DTC 6296). Cette affaire concernait un crédit d'impôt accordé en vertu de la Loi sur les impôts du Québec, sous la forme d'une réduction de l'impôt sur le revenu québécois dû et encouru dans le cadre de recherches scientifiques. Le ministre a inclus ce montant dans le revenu en vertu de l'alinéa 12(1)x) de la Loi et a réduit du montant du crédit le solde du compte des « dépenses admissibles » du contribuable utilisé aux fins du calcul de son crédit fédéral d'impôt à l'investissement. La présente Cour avait rejeté l'appel de Tioxide en partant du principe que les sommes correspondant au crédit d'impôt avaient été « à bon droit incluses dans le calcul du revenu de l'appelante [...] en vertu de l'alinéa 12(1)x) de la Loi de l'impôt sur le revenu » .
+ANALYSE ET CONCLUSION :
+[19] Les avocats ont convenu que la seule question était de savoir si le montant susmentionné de454 060 $ devait être inclus dans le revenu de l'appelante en vertu du sous-alinéa 12(1)x)(iv). Toutefois, en raison d'une remarque de la présente Cour, qui n'est pas le ratio decidendi, et en raison de l'importance que les parties semblent donner au sous-alinéa 12(1)x)(iii), je reviendrai sur cette remarque.
+[20] Dans l'affaire Tioxide, l'un des faits énoncés dans la Réponse de l'intimée à l'avis d'appel, et sur lesquels le ministre se fondait, était que :
+[...] lesdits crédits d'impôt constituent des paiements incitatifs faits à l'appelante, au cours des années en cause, pour des activités de recherches et de développement;
+(italiques ajoutées)
+Dans cette réponse, l'intimée a avancé comme assertion générale que :
+[...] l'appelante a reçu, au cours des années d'imposition en litige, une aide gouvernementale à titre de paiement incitatif sous forme de déduction d'impôt [...]
+(italiques ajoutées)
+L'appelante a soutenu que les crédits d'impôts dont elle a bénéficié en vertu de la loi québécoise ne peuvent constituer une aide gouvernementale au sens de l'alinéa 12(1)x)
+« parce que ces crédits d'impôts n'ont pas été reçus d'un gouvernement ou d'un autre organisme public »
+mais plutôt
+« accordés par la Loi sur les impôts du Québec » .
+La présente Cour a déterminé que ces montants avaient été « reçus » .
+La présente Cour a ensuite examiné la question de savoir si l'avantage découlant du crédit d'impôt provincial constituait un paiement incitatif ou une aide dans le sens de l'alinéa 12(1)x) de la Loi.
+Le juge de la présente Cour a déclaré :
+Le but de l'alinéa 12(1)x), qui fut ajouté en 1986, est de commander - sous réserve de certaines restrictions mentionnées dans cet alinéa et de certaines exceptions visées dans la Partie LXXIII du Règlement de l'impôt sur le revenu - l'inclusion dans le revenu d'un contribuable tirée d'une entreprise ou d'un bien, des paiements incitatifs reçus sous quelque forme que ce soit et la valeur de certains avantages reçus à l'égard du coût d'un bien ou à l'égard d'une dépense à titre de remboursement, contribution ou indemnité ou à titre d'aide sous une forme quelconque.
+[...]
+Cet alinéa vise à contrer un courant jurisprudentiel selon lequel certains types de paiements ne devraient pas être inclus dans le calcul du revenu d'un contribuable au motif que les sommes reçues étaient des paiements à compte de capital et ne devaient pas non plus être pris en compte dans le calcul du coût en capital d'un bien.
+Le juge a également affirmé :
+En soutenant que l'alinéa 12(1)x) commandait dans le calcul du revenu de l'appelante pour les années en cause l'inclusion des montants de crédits d'impôt qui lui furent accordés en vertu de la législation québécoise précitée pour ces mêmes années, l'avocat de l'intimée s'est appuyé principalement sur le sous-alinéa 12(1)x)(iii). Pour ma part, je suis d'avis que le sous-alinéa 12(1)x)(iv) s'applique également bien à l'avantage reçu par l'appelante eu égard aux circonstances de la présente affaire.[3]
+(italiques ajoutées)
+Le juge a fini, sans spécifier de sous-alinéa, par conclure que les montants de crédit d'impôt dont l'appelant avait profité avaient été inclus à juste titre dans le calcul de son revenu, conformément à l'alinéa 12(1)x) de la Loi.
+[21] Je ne suis pas d'avis que cette décision aide la cause de l'intimée. Dans l'affaire susmentionnée, les conclusions relatives à l'alinéa 12(1)x) semblent être fondées uniquement sur le libellé du sous-alinéa (iii) qui exige que le montant ainsi reçu[4] représente une forme d'incitation. On se souviendra qu'en vertu du sous-alinéa (iv) le CNI, pour être inclus dans le revenu, doit être un montant reçu d'un gouvernement dont on peut raisonnablement considérer qu'il a été reçu à l'égard d'une somme incluse dans le coût d'un bien ou d'une dépense engagée ou effectuée.
+(italiques ajoutées)
+[22] Il apparaît clairement que l'appelante agissait en tant que mandataire d'IRC dans un « accord d'actions accréditives » et qu'elle n'avait donc aucuns « frais d'exploration au Canada » et, en conséquence, aucuns « frais cumulatifs d'exploration au Canada » dans le cadre de ses travaux d'exploration. Il apparaît également que « l'aide » reçue sous la forme de CNI n'a pas été reçue « à l'égard du coût d'un bien » ni à l'égard « d'un débours ou d'une dépense » . L'appelant n'a engagé aucuns débours et n'a encouru aucune dépense dans le sens de la Loi, puisqu'elle n'a agi qu'en tant que mandataire pour IRC.
+[23] L'appelant aurait donc gain de cause sur cette seule base. Toutefois, l'avocat de l'appelante a ajouté que les « frais cumulatifs d'exploration au Canada » du contribuable signifient tous les frais d'exploration au Canada engagés ou encourus moins le montant de toute aide que l'appelante a reçu ou est en droit de recevoir pour tous frais d'exploration au Canada. Il entendait par là, tel qu'il est expliqué ci-dessus, que l'alinéa 12(1)x) est une disposition d'application générale tandis que la Loi prévoit spécifiquement le cas du traitement de « toute aide » relative aux frais d'exploration au Canada. J'accepte les conclusions de l'avocat selon lesquelles la disposition spécifique s'appliquerait si les dépenses de travaux d'exploration avaient constitué des frais d'exploration au Canada de l'appelante. En l'espèce, ce n'en était pas. Cette affirmation est en accord avec le principe exprimé par le professeur Driedger selon lequel le « spécifique a priorité sur le général » et constitue un bon exemple de ce principe.
+[24] L'assertion de l'intimée selon laquelle, en l'absence d'imposition, le montant de l'avantage constituerait un profit fortuit semble présupposer que toute recette doit être imposable ou comptabilisée d'une façon ou d'une autre dans la détermination de l'assujettissement à l'impôt. Cette conclusion ne peut tout simplement pas avoir gain de cause.
+[25] Cette cour, dans l'affaire Tioxide, après avoir entendu les soumissions de l'appelant concernant le sous-alinéa 12(1)x)(iii), a déclaré, sans se justifier,
+[...] que le sous-alinéa 12(1)x)(iv) s'applique également bien à l'avantage reçu [...]
+Cependant, il semble n'avoir été saisi d'aucune observation relative à ce sous-alinéa, puisque l'appelant s'était fondé principalement sur son argument que le sous-alinéa 12(1)x)(iii) ne s'appliquait pas. Le crédit d'impôt semble clairement avoir constitué une « incitation » telle que le terme est employé au sous-alinéa 12(1)x)(iii). En l'absence de toute observation concernant le sous-alinéa 12(1)x)(iv), il n'existe donc aucun commentaire judiciaire sur cette disposition. Puisque les circonstances, et notamment les dispositions législatives pertinentes, sont sensiblement différentes dans l'affaire qui nous occupe, l'appel est admis, avec dépens, pour les motifs susmentionnés.
+Signé à Ottawa, Canada, ce 6e jour de février 2003.
+« R. D. Bell »
+J.C.C.I.
+Traduction certifiée conforme
+ce 19e jour de janvier 2005.
+Mario Lagacé, réviseur
+[1] Concept du « groupe » de dépenses avec des ajouts et des réductions réglementaires.
+[2] Ceci n'a pas été contesté par l'intimée.
+[3] Cette référence au sous-alinéa 12(1)x)(iv) est la remarque à laquelle je renvoie ci-haut.
+[4] La Cour a déterminé que l'application du crédit constituait un avantage reçu.

@@ -1,0 +1,120 @@
+Title: Dufour c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/25954/index.do
+Corpus path: corpus/cases/tcc/2003/2003-tcc-685-25954-dufour-c-la-reine-en.md
+Document type: case_law
+Last modified: 2003-09-24
+
+# Dufour c. La Reine
+
+- Citation: 2003 TCC 685
+- Decision date: 2003-09-24
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3783, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Dufour c. La Reine
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-09-24
+Neutral citation
+2003 TCC 685
+File numbers
+2002-3963(GST)I
+Judges and Taxing Officers
+Alain Tardif
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2002-3963(GST)I
+BETWEEN:
+RAYNALD DUFOUR,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard on September 16, 2003, at Matane, Quebec
+Before: The Honourable Justice Alain Tardif
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Ghislaine Thériault
+JUDGMENT
+The appeal from the assessment made under Part IX of the Excise Tax Act, notice of which is dated July 20, 2001, bearing number 0254147, in respect of the goods and services tax, for the period from July 1, 1997, to December 31, 2000, is dismissed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 24th day of September 2003.
+"Alain Tardif"
+Tardif, J.
+Translation certified true
+on this 5th day of August 2004.
+Sophie Debbané, Revisor
+Citation: 2003TCC685
+Date: 20030924
+Docket: 2002-3963(GST)I
+BETWEEN:
+RAYNALD DUFOUR,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Tardif, J.
+[1] This is an appeal from an assessment of the goods and services tax under Part IX of the Excise Tax Act (the "Act") dated July 20, 2001, bearing number 0254147, covering the period from July 1, 1997, to December 31, 2000.
+[2] The appellant built two apartment buildings of four dwellings each, located at 389 and 391 Rue Montée, Ste-Odile, Rimouski.
+[3] Construction of the two buildings was largely completed when the first tenants took possession of their dwellings on November 1, 1999.
+[4] Construction of the buildings was directed by the appellant himself. In so doing, the appellant supplied himself with two multiple-unit residential buildings and therefore was required to self-assess based on the fair market value ("FMV") of the said buildings.
+[5] The appellant, representing himself, brought evidence consisting solely of his testimony. He essentially disputed the value of $225,000 attributed to each of his two buildings.
+[6] In support of his claims, he referred to the sale of an identical building which he owned. That sale had been part of a transaction involving three buildings, each of which was assigned a particular consideration. In the appellant's view, the identical building was assigned a value of $160,000 by the parties to the transaction.
+[7] More or less five years later, in August 2003, the appellant said he made an offer to the same purchaser to buy back the three buildings in question; he said he had offered the same consideration, increased by approximately $10,000 by repaying expenses incurred for insulation work to one of the three buildings. He said his offer had recently been accepted.
+[8] On that basis, the appellant asserted and contended that the two buildings in issue, which are identical to the one that was sold and eventually bought back, had the same FMV. The appellant's claims are moreover consistent with the notice of appeal prepared by his accountant and written as follows:
+(Excerpt from a letter from Raymond Chabot Grant Thornton)
+[TRANSLATION]
+Rimouski, October 10, 2002
+...
+SUBJECT: Notice of Appeal
+Informal Procedure
+Raynald Dufour
+GST: 131325961
+Dear Sir or Madam:
+...
+Grounds of appeal:
+Our client is not satisfied with the notice of assessment of GST issued by Quebec's Ministère du Revenu on July 20, 2001. In that assessment, Quebec's Ministère du Revenu determined that the fair market value of a rental property was $195,609.75. We believe that value is incorrect for the following reasons.
+The taxpayer, Mr. Dufour, owned a number of identical rental properties in the same area of Rimouski .... On March 4, 1998, before the assessment of July 20, 2001, the taxpayer sold one of the properties identical to those that are the subject of the assessment for $162,500....
+The property was a rental property identical to those in issue, located in the same area of the town of Rimouski, and it was sold to a third party dealing at arm's length for a distinctly smaller amount than the fair market value established in the assessment. We contend that that value is incorrect and that it should be the same amount as the price of the building sold on March 4, 1998.
+We therefore claim that the notice of assessment issued by Quebec's Ministère du Revenu on the point discussed above is ill-founded, and our client asks you to assess him on a market value of $162,500.
+...
+[signature]
+Walter Preston
+GST/QST Coordinator
+[9] Counsel for the respondent produced four witnesses, including three appraisers, one of whom, Mr. Tremblay, was the one who had prepared the appraisal for and on behalf of the appellant and the financial institution at the time the construction project involving the two properties was financed.
+[10] The value assigned to the buildings was established at that time at $225,000 each. The appraisal resulted in financing of approximately $170,000, 75 percent of the value assigned at the time, the whole in accordance with practices and regulations in that area.
+[11] At the hearing, Mr. Tremblay in fact reiterated and confirmed his appraised value of $225,000 as being the FMV of each of the buildings. The two other appraisers essentially confirmed Mr. Tremblay's conclusions by their own analyses.
+[12] The work done by the three appraisers was generally consistent with good practice. The appellant criticized them for assuming that the two buildings in issue were income properties in which the owner occupied one of the dwellings, which could substantially increase the FMV of the two buildings since the owner-occupant's unit is generally more spacious and luxurious than the others, which are essentially intended for rental.
+[13] The appellant emphasized that these were not buildings in which the owner occupied one of the dwellings. He explained that he had made no distinction in the quality of the four dwellings in each of his two buildings. In his view, the apartments were identical in all ways with respect to the quality of materials used, whereas owner-occupants often fit up their own dwellings in a much more luxurious manner. He admitted, however, that one of the four apartments was much larger than the others.
+[14] The other criticism levelled at the three appraisers was the failure to consider the transaction in which the appellant had been the purchaser. The selling price in the transaction in question had been set at $160,000.
+[15] In August 2003, the appellant made an offer to the purchaser to buy back the same building at the same price of $160,000.
+[16] Relying on these facts, the appellant strongly argued that the two buildings in issue could not be of greater value since they were identical.
+[17] At first glance, these are relevant arguments. However, I must note that the building sold and eventually bought back was bought back in a transaction involving three buildings of very different quality, one in fact being much older. On the other hand, did the appellant have tax reasons for assigning a consideration of $160,000? There was no evidence or explanation on this point, and the accountant did not testify to answer that question.
+[18] He also stated that the dwelling defined as the one to be occupied by the owner-occupant was rented for consideration much greater than the other three dwellings, which were smaller. As a result of these facts, the appellant's grievances over the three appraisals are much less relevant.
+[19] Furthermore, I cannot disregard evidence that the appellant himself accepted and subscribed to the FMV that had been assigned to the buildings at the time of the financing negotiations and that had then been prepared by Mr. Tremblay.
+[20] In addition, the appellant stated that he had sold his three buildings in order to obtain the cash he needed to build the two properties in issue. That remark thus creates a strong presumption that the cost of construction was greater than the one he stated since the financing obtained would have covered all construction costs.
+[21] I must also consider that the appellant himself directed the construction work on the two buildings, thus saving a significant amount on expenses regarding a realized turnkey project in which the contractor does everything in exchange for a significant commission.
+[22] Lastly, the appellant stated that his construction costs had amounted to approximately $170,000 for each of the buildings, to which must be added the value of the lots of about $20,000 each, for a total of approximately $190,000. The FMV of $225,000 attributed to each of the two buildings includes taxes, as a result of which the before-tax value is relatively close to the value revealed by the appellant's statements.
+[23] The savings realized by the appellant's taking charge of the work site, the amount of the mortgage-backed loan obtained and the relevance of the vast majority of comparables considered by the appraisers are decisive factors in support of the FMV of $225,000 assigned to each of the buildings.
+[24] As to the penalties, it was adduced in evidence that, a few years earlier, the appellant had experienced a completely similar situation in which he had been assessed in comparable circumstances. He therefore could not claim to be beyond reproach at the time the buildings in issue were constructed. The appellant of course raised sympathetic arguments, which might have had a significant effect if they had been supported by substantial evidence.
+[25] The appellant's claims were neither justified nor supported by his deficient and incomplete evidence. With regard to FMV, it is not enough to express one's disagreement; it is essential to base one's conclusions on objective facts.
+[26] To win his case, the appellant had to submit substantial, convincing and coherent evidence, not merely make unsubstantiated criticism of the three appraisers' work.
+[27] On this point, the appellant did not discharge his burden of proof, whereas counsel for the respondent clearly explained and, especially, properly justified the basis of the assessment.
+[28] For these reasons, the appeal is dismissed.
+Signed at Ottawa, Canada, this 24th day of September 2003.
+"Alain Tardif"
+Tardif, J.
+Translation certified true
+on this 5th day of August 2004.
+Sophie Debbané, Revisor

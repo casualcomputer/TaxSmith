@@ -1,0 +1,132 @@
+Title: Brar v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26466/index.do
+Corpus path: corpus/cases/tcc/2004/2004-tcc-759-26466-brar-v-the-queen-en.md
+Document type: case_law
+Last modified: 2004-11-30
+
+# Brar v. The Queen
+
+- Citation: 2004 TCC 759
+- Decision date: 2004-11-30
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3150, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Brar v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-11-30
+Neutral citation
+2004 TCC 759
+File numbers
+2004-400(IT)I
+Judges and Taxing Officers
+Cameron Hugh McArthur
+Subjects
+Income Tax Act
+Decision Content
+Citation: 2004TCC759
+Date: 20041130
+Docket: 2004-400(IT)I
+BETWEEN:
+MANJIT S. BRAR,
+Appellant,
+And
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+For the Appellant: The Appellant himself
+Counsel for the Respondent: Justine Malone
+____________________________________________________________________
+REASONS FOR JUDGMENT
+(Delivered orally from the Bench on
+October 22, 2004, at London, Ontario)
+McArthur J.
+[1] This appeal is from an assessment by the Minister of National Revenue for the Appellant's 2000 taxation year disallowing the deduction of a purported charitable donation in the amount of $3,000 which the Appellant submits he made to Weldon Park Academy in that taxation year. At the hearing, the Appellant testified as well an auditor on behalf of the Respondent.
+[2] The Appellant is a registered nurse, married with three children. In addition to his full-time employment, he has a part-time job and in 2000, earned between $70,000 and $80,000. During the 2000 year, he and his wife took their children out of the public school system they had been attending and enrolled them in grades eight, four and two of the Weldon Park Academy, a private school. Mrs. Brar in particular felt their children would receive a better education in a private school as opposed to the public school system.
+[3] Prior to their children's enrolment, the Appellant satisfied himself that the total cost for their three children would be $10,000. He found the amount reasonable and within their budget and paid the full amount by cheque prior to September 1, 2000. Some weeks later, he received an invoice from the Academy (Exhibit R-1) which set out the following for the three children:
+Description
+Total
+Tuition (Option 2)
+$23,200.00
+Ancillary Fees
+1,100.00
+Family Discount
+3,060.00
+Option 1 discount (full payment
+1,010.00
+Option 3 surcharge (monthly)
+Other (Bursary/Scholarship)
+10,500.00
+9,730.00
+Less: deposit ...
+9,909.10
+Bal. Due
+$-179.19
+The details of invoice were a mystery to the Appellant but so long as the fee was not over $10,000, he did not question it, although he did ask for a refund of the $179 credit and never received it.
+[4] The problem arises from the following. The Appellant states that after several weeks of deliberation, he and his wife decided to make a voluntary donation of $3,000 in cash to the Weldon Park Academy in addition to the $10,000. Apparently, Mrs. Brar delivered the $3,000 on or prior to December 31, 2000 and the Appellant claims that it was given on a completely voluntary basis without conditions or consideration.
+[5] The Audit Report of Minister's auditor, Carol Grieve, was filed by the Appellant as Exhibit A-2 and it provides as follows:
+The adjustment relates to the donation receipt by Weldon Park Academy for "capital fund contributions". As indicated in paragraph 3 of Interpretation Bulletin IT-11OR3, Gifts and Official Donation Receipts, a gift is a voluntary transfer of property without valuable consideration or benefit accruing to the donor or to anyone designated by the donor as a result of the transfer. We have determined that the amount of the "donation" was an amount calculated by Weldon Park Academy for which part of the tuition fee was receipted as a donation. It was not a voluntary gift. Therefore, the claim does not fall within the meaning of a charitable donation under section 118.1 of the Income Tax Act. Any other valid donation receipts issued by Weldon Park Academy have been allowed (e.g. Founders Day, Books, Silent Auctions etc.).
+This is primarily the position of the Minister, although it does not appear to be raised in the Reply to the Notice of Appeal. The Minister's secondary position is that $3,000 in cash was never paid or donated to Weldon and that the total amount the Appellant paid to the Academy was $10,000. The $3,000 charitable receipt referred to a portion of the $10,000 paid by cheque on September 1, 2000.
+[6] Upon becoming aware of unorthodox or illegal charitable donation receipts, Weldon directors fired their headmaster and financial officer in 2001. Subsequently, Weldon closed the school, more than likely because of financial difficulties.
+[7] The Appellant's Notice of Appeal reads in part:
+My appeal pertains to a charitable donation made to an educational institution during taxation year 2000. I was receipt for $3,000 which I attached to my return. During the audit of this educational institution by CCRA in 2001, it was found that the institution did not somehow comply with the donation guidelines of CCRA which I had no way of knowing or had control over. Also, there were over 300 enrolled in this school and their parents also paid donations to the school in a similar way as I did. None of the parents I have talked to were asked to repay CCRA for their unqualified charitable donations. Therefore, it is not fair under the Canadian tax law for CCRA to ask me to repay this amount and not others. The CCRA is asking me to repay about $1,500 as an unqualified donation for the 2000 taxation years.
+Before I proceed, I will comment briefly on the fairness aspect that the Appellant brings attention to. The Appellant is aware that this is not a Court of equity, but a Court of law and must follow the legislation as presented. Further, counsel for the Respondent pointed out through the auditor that in fact, all of the parents who received similar charitable receipts have been questioned and the Appellant was not singled out.
+[8] The Minister's Reply to the Notice of Appeal contains the following summary:
+the Appellant made no voluntary gift of $3,000 to Weldon in addition to the tuition fees that the Appellant paid Weldon;
+therefore, the disallowed amount is not an amount that can be included in the amount of "total gifts" as described in subsection 118.1(1) of the Act.
+For the reasons that that follow, I agree with the Minister's position. The primary thrust of that position is that if the money was paid, it was not voluntary.
+[9] It was important to the Appellant that the tuition fees not exceed $10,000. There are a number of anomalies, if not inconsistencies, in his evidence. He indicated that he and his wife had a reserve of cash at home from which she took $3,000 to give to someone at Weldon. Yet, the Appellant claimed impecuniosity for the purpose of obtaining a waiver of this Court's $100 filing fee, although he presents that he had a reserve of cash at home. The fact that he claims the donation was made in cash makes me sceptical.
+[10] His wife did not testify, although I offered to adjourn to another time this week to permit Mrs. Brar to attend. He declined, explaining that with the care of three children, it was very difficult for her to take the time. That is understandable and I believe they live in Sarnia. Nor did the Appellant have anyone from Weldon testify. Exhibit R-3 is a form letter from Weldon dated February 26, 2001 enclosing a receipt for a charitable donation of $3,000. The letter states in part:
+The amount of the receipt is based on the school's annual expenditures on charitable activities as defined by the Board of Governors.
+[11] This does not sound like a $3,000 voluntary donation was made. Also, Exhibit R-5 which is a Weldon Board of Governors recommendation explains the donation philosophy as follows:
+For the first time in the 1999/00 school year the school published fees inclusive of the amount that was ultimately expected would be considered a donation, then calculated the amount of the donation based on the school's actual expenditures on its own charitable activities. This approach was approved by the Board of Governors as part of its approval of the 1999/00 budget. The total expenditures on charitable activities, consistently defined since the school started operations, was the basis of the calculation of the donation, and this calculation was performed at December 31, 1999 and again at June 30, 2000. The maximum receipt issued per FTE for the 1999/00 school year was $1,000, although the average expenditure on charitable activities was $1,350,665/480 students or $2,814/FTE. The reason for the difference was to be conservative and comparable with prior years (where the capital fund portion of fees was $900/year).
+The recommendation is dated February 19, 2001 and the receipt to the Appellant for the $3,000 is dated February 26, 2001. The letter enclosing the receipt states:
+The use of this receipt indicates your acknowledgement of the voluntary nature of the gift.
+It certainly appears from this that the voluntary gift portion of the $10,000 fees was a fabrication.
+[12] Several of the Respondent's evidentiary documents are hearsay. The author of the letters from Weldon and the accounting records were not present to identify the documents and be cross-examined. I allowed them to be filed notwithstanding that there is a higher procedural standard for the Respondent than for the Appellant at an informal hearing. Compared with the evidence of the Respondent and the Appellant, I have no difficulty in determining the validity of the following:
+(i) Exhibit R-1 is an invoice which the Appellant acknowledges having received from Weldon.
+(ii) Exhibit R-2 is a letter from Weldon to Mr. and Mrs. Brar and the Appellant acknowledges receipt of it as well.
+(iii) Exhibit R-3 is a letter accompanying the receipt for $3,000, also acknowledged as having been received by the Appellant.
+(iv) Exhibit R-4 is the $3,000 receipt concerning the donation at issue and the Appellant relies on this document.
+(v) Exhibit R-5 is presumably from the headmaster and the financial officer of Weldon to the Board of Directors making a recommendation with regard to charitable donations. I make an inference that the Board of Directors accepted this recommendation. The auditor obtained Exhibit R-5 during her audit and it ties into the accounting on the first page of Exhibit R-6 and it also ties into the receipt in Exhibit R-3.
+(vi) Exhibit R-6 is also supported by the invoice (Exhibit R-1).
+[13] I accept the Respondent's position that the Appellant did not make a voluntary gift of $3,000 to Weldon and that the $3,000 charitable donation receipt refers to a portion of the $10,000 tuition fee paid in accordance with Exhibit R-1. The Appellant was on a restricted budget and it is inconceivable that he made a voluntary $3,000 donation increasing the amount paid to Weldon from $10,000 to $13,000. Without solid corroboration, I do not accept, on the Appellant's evidence alone, that his wife delivered $3,000 in cash to Weldon. The $3,000 was part of the $10,000 tuition fees and on a balance of probabilities, it was not given voluntarily.
+[14] To go further, I believe that the $3,000 referred to in the receipt entered as Exhibit R-4 is part of the $10,000 cheque paid for tuition fees and was not given in cash in addition to the $10,000 cheque.
+[15] The appeal is dismissed.
+Signed at Ottawa, Canada, this 30th day of November, 2004.
+"C.H. McArthur"
+McArthur J.
+CITATION:
+2004TCC759
+COURT FILE NO.:
+2004-400(IT)I
+STYLE OF CAUSE:
+Manjit S. Brar and Her Majesty the Queen
+PLACE OF HEARING:
+London, Ontario
+DATE OF HEARING:
+October 20, 2004
+REASONS FOR JUDGMENT BY:
+The Honourable Justice C.H. McArthur
+DATE OF JUDGMENT:
+October 27, 2004
+APPEARANCES:
+For the Appellant
+The Appellant himself
+Counsel for the Respondent:
+Justine Malone
+COUNSEL OF RECORD:
+Name:
+N/A
+Firm:
+N/A
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

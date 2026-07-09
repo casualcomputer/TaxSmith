@@ -1,0 +1,207 @@
+Title: Zeuter Development Corporation v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27340/index.do
+Corpus path: corpus/cases/tcc/2006/2006-tcc-597-27340-zeuter-development-corporation-v-the-queen-en.md
+Document type: case_law
+Last modified: 2006-10-31
+
+# Zeuter Development Corporation v. The Queen
+
+- Citation: 2006 TCC 597
+- Decision date: 2006-10-31
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 162, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Zeuter Development Corporation v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-10-31
+Neutral citation
+2006 TCC 597
+File numbers
+2005-3306(IT)I
+Judges and Taxing Officers
+Leslie M. Little
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2005-3306(IT)I
+BETWEEN:
+ZEUTER DEVELOPMENT CORPORATION,
+Appellant,
+And
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on September 15, 2006 at Sudbury, Ontario
+Before: The Honourable Justice L.M. Little
+Appearances:
+Agent for the Appellant:
+Nick Slater
+Counsel for the Respondent:
+Frederic Morand
+____________________________________________________________________
+JUDGMENT
+The appeals from the assessments made under the Income Tax Act for the 2000, 2001 and 2002 taxation years are dismissed, without costs, in accordance with the attached Reasons for Judgment.
+Signed at Vancouver, British Columbia, this 31st day of October 2006.
+"L.M. Little"
+Little J.
+Citation: 2006TCC597
+Date:20061031
+Docket: 2005-3306(IT)I
+BETWEEN:
+ZEUTER DEVELOPMENT CORPORATION,
+Appellants,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Little J.
+A. FACTS:
+[1] The Appellant was incorporated under the laws of the Province of Ontario.
+[2] Mr. Nick Slater is the founder, President, Chief Executive Officer and sole shareholder of the Appellant.
+[3] Mr. Slater obtained a Bachelor degree in Engineering Physics and a Masters Degree in Electrical Engineering from McMaster's University. Mr. Slater has had extensive and impressive work experience with various companies in Canada and the United States.
+[4] The Appellant appeals from a Notice of Reassessment dated January 23, 2004 in which the Minister of National Revenue (the "Minister") denied allowable scientific research and experimental development ("SR & ED") expenditures originally claimed by the Appellant in the amounts of $91,170, $62,667 and $58,184 and, at a rate of 35%, disallowed investment tax credits ("ITCs") in the amounts of $31,909, $21,933, and $20,364 for the 2000, 2001, and 2002 taxation years, respectively.[1] It was agreed that these expenditures consisted primarily of salaries paid to summer students involved in the Appellant's venture. The Minister contends that the expenses do not fall under the definition of SR & ED as found in subsection 248(1) of the Income Tax Act[2] and, thus, the Appellant is not entitled ITCs as per subsections 127(5), 127(9) and 127.1 of the Act.
+[5] In 1993, Mr. Slater moved from the United States back to Canada, sold his Jeep, bought a laptop and founded the Appellant. The Appellant applied for and received funding from FedNor and the Heritage Fund to begin work on a software program called the Personal Animator 1.2, which was an educational tool aimed at simulating physics and mathematics through a three-dimensional graphics engine. A FedNor letter explained that the Appellant would be eligible for SR & ED deductions. Consequently, the funding was reduced by the expected resulting ITCs. During the trial, Mr. Slater continually noted that he reasonably relied on FedNor's statement that the Appellant's expense would be eligible as SR & ED. However, during the trial, Mr. Slater later conceded that the Personal Animator 1.2 project ended in 1997. Mr. Slater then commenced creating the software project that is at issue in this appeal. This project was called the Alien Travel Guide ("ATG"). Mr. Slater maintains that the ATG project at issue was a continuation of the project FedNor originally funded. However, no evidence was produced to establish this point.
+[6] The ATG project was created when Mr. Slater reflected on what he claimed to be inadequacies of the current high school system. The ATG project was basically an on-line learning tool to be used by high school students. Mr. Slater met with local educators to explain the ATG concept, but he found the experience frustrating due to their lack of interest and the untenable bureaucracy.
+[7] Mr. Slater stated that the purpose of the ATG was to make information more fun, interesting, and user-friendly for individuals studying at a grade nine level or higher. For this purpose, pictures and diagrams were obtained. At the same time, the data on the website had to be accurate, reliable and easy to navigate. The ATG website was divided into four main topics, namely arts, geography, history and science. These categories were considered to account for all possible known facts. There were then various subheadings that further broke down the topics.
+[8] The Appellant hired local students who accumulated, verified and analyzed wide ranges of information. The students would catalogue the data under the proper heading and then store it as Hypertext Markup Language ("HTML") webpages. The project was ambitious; well over 20,000 web pages were produced covering over 1.5 million subjects. Mr. Slater said that over a 10 year span, more than 70 summer students were hired with an average of seven students per year. Much of the information came from the online Encyclopedia Britannica; however, Mr. Slater argued that, since students reading an encyclopedia would be "bored to tears", a website such as THE ATG is necessary. After the Reassessments were issued, the Appellant stopped hiring students as it could no longer support the project without the SR & ED deductions and corresponding ITCs.
+[9] Mr. Slater contends that, since the claims for SR & ED were allowed for the years 1995-1999 inclusive, they should be further allowed for the 2000, 2001, and 2002 taxation years. With respect to the technological difficulties experienced, Mr. Slater stated that there were special nuances in transferring the program from a "stand alone" Macintosh computer to a network environment running under Linux. As well, he noted that work was being done on a public access kiosk and wireless networks.
+[10] Finally, Mr. Slater stated that it was difficult to give full disclosure to the auditors as they would not sign non-disclosure agreements.[3]
+Expert Evidence
+[11] The Respondent called Mr. Shankar Narayan as an expert witness. Mr. Narayan is a research and technology adviser for the Canada Revenue Agency (the "CRA"); more specifically, he reviews claims for SR & ED and ITCs. He holds a Bachelors, Masters, and Ph. D. in chemical engineering. When asked about the parameters of which Mr. Narayan was to be an expert, the Respondent contended that he is an expert in determining whether a project qualifies as SR & ED. However, stated simply, Mr. Narayan is not the expert in findings of law. While this Court will not claim to have expertise in software development, it certainly must decide whether a given project falls within the definition of SR & ED as outlined in subsection 248(1) of the Act having regard to the provisions in particular and the Act as a whole. Having said that, Mr. Narayan was admitted as an expert in analyzing technological uncertainties and advancements in the software industry. Mr. Slater did not object to Mr. Narayan's admittance as an expert witness, but, in passing, he questioned Mr. Narayan's expertise in software issues.
+[12] At trial, Mr. Narayan appeared both credible and competent. He was direct and forthright. Mr. Narayan noted that an Andre Vellino, who has a Ph. D. in computer science, worked with him on the audit and signed off on the Technical Review Report (the "Technical Report").[4] The Crown decided not to call Mr. Vellino, and Mr. Slater did not object to the introduction of the evidence as hearsay. However, hearsay absent an objection by a non-lawyer is still hearsay and ought not to be accorded any significant weight.
+[13] Mr. Narayan responded to the Appellant's concern that tax credits were given in prior years by explaining that not every claim is subject to a detailed review in every year. Many claims are accepted as filed; in such cases, while the tax credit is given in that year, it does not necessarily indicate whether the claimant met the requirements and does not indicate that subsequent claims will be accepted even if it is for ongoing work. It is simply noted that each tax year stands on its own and the Appellant's concern has no footing in law.[5]
+[14] Mr. Narayan testified that he visited the Appellant's premises on August 18, 2003 and discussed the project with Mr. Slater for over five hours. In the Technical Report and at trial, Mr. Narayan stated that the Appellant's objectives were commendable and that the ATG website could be a very valuable learning tool. He did, however, conclude that the expenditures for the whole project were not eligible as SR & ED. His various findings in the Technical Report will be discussed below.
+B. ISSUE
+[15] The issue to be decided is whether the Minister properly disallowed the allowable SR & ED expenditures in the amounts of $91,170, $62,667 and $58,184 and the corresponding disallowed ITCs in amounts of $31,909, $21,933 and $20,364 for the 2000, 2001 and 2002 taxation years, respectively.
+C. SUMMARY OF CONCLUSIONS
+[16] I have concluded that the Appellant failed to demonstrate that the expenditures met the criterion as set out in the definition of SR & ED in the Act. The taxpayer's appeal is dismissed without costs.
+D. ANALYSIS
+The Legislation and Court Decisions
+[17] SR & ED is defined for income tax purposes in subsection 248(1) of the Act, as follows:
+"scientific research and experimental development"means systematic investigation or search that is carried out in a field of science or technology by means of experiment or analysis and that is
+(a) basic research, namely, work undertaken for the advancement of scientific knowledge without a specific practical application in view,
+(b) applied research, namely, work undertaken for the advancement of scientific knowledge with a specific practical application in view, or
+(c) experimental development, namely, work undertaken for the purpose of achieving technological advancement for the purpose of creating new, or improving existing, materials, devices, products or processes, including incremental improvements thereto,
+and, in applying this definition in respect of a taxpayer, includes
+(d) work undertaken by or on behalf of the taxpayer with respect to engineering, design, operations research, mathematical analysis, computer programming, data collection, testing or psychological research, where the work is commensurate with the needs, and directly in support, of work described in paragraph (a), (b), or (c) that is undertaken in Canada by or on behalf of the taxpayer,
+but does not include work with respect to
+...
+(g) research in the social sciences or the humanities,
+...
+(k) routine data collection;
+[18] The governing approach to be taken in determining whether something qualifies for SR & ED was set out in detail by Chief Justice Bowman in Northwest Hydraulic:[6]
+1. Is there a technical risk or uncertainty?
+(a) Implicit in the term "technological risk or uncertainty" in this context is the requirement that it be a type of uncertainty that cannot be removed by routine engineering or standard procedures. I am not talking about the fact that whenever a problem is identified there may be some doubt concerning the way in which it will be solved. If the resolution of the problem is reasonably predictable using standard procedure or routine engineering there is no technological uncertainty as used in this context.
+(b) What is "routine engineering"? It is this question, (as well as that relating to technological advancement) that appears to have divided the experts more than any other. Briefly it describes techniques, procedures and data that are generally accessible to competent professionals in the field.
+2. Did the person claiming to be doing SRED formulate hypotheses specifically aimed at reducing or eliminating that technological uncertainty? This involves a five stage process:
+(a) the observation of the subject matter of the problem;
+(b) the formulation of a clear objective;
+(c) the identification and articulation of the technological uncertainty;
+(d) the formulation of an hypothesis or hypotheses designed to reduce or eliminate the uncertainty;
+(e) the methodical and systematic testing of the hypotheses.
+It is important to recognize that although a technological uncertainty must be identified at the outset an integral part of SRED is the identification of new technological uncertainties as the research progresses and the use of the scientific method, including intuition, creativity and sometimes genius in uncovering, recognizing and resolving the new uncertainties.
+3. Did the procedures adopted accord with established and objective principles of scientific method, characterized by trained and systematic observation, measurement and experiment, and the formulation, testing and modification of hypotheses?
+(a) It is important to recognize that although the above methodology describes the essential aspects of SRED, intuitive creativity and even genius may play a crucial role in the process for the purposes of the definition of SRED. These elements must however operate within the total discipline of the scientific method.
+(b) What may appear routine and obvious after the event may not have been before the work was undertaken. What distinguishes routine activity from the methods required by the definition of SRED in section 2900 of the Regulations is not solely the adherence to systematic routines, but the adoption of the entire scientific method described above, with a view to removing a technological uncertainty through the formulation and testing of innovative and untested hypotheses.
+4. Did the process result in a technological advance, that is to say an advancement in the general understanding?
+(a) By general I mean something that is known to, or, at all events, available to persons knowledgeable in the field. I am not referring to a piece of knowledge that may be known to someone somewhere. The scientific community is large, and publishes in many languages. A technological advance in Canada does not cease to be one merely because there is a theoretical possibility that a researcher in, say, China, may have made the same advance but his or her work is not generally known.
+(b) The rejection after testing of an hypothesis is nonetheless an advance in that it eliminates one hitherto untested hypothesis. Much scientific research involves doing just that. The fact that the initial objective is not achieved invalidates neither the hypothesis formed nor the methods used. On the contrary it is possible that the very failure reinforces the measure of the technological uncertainty.
+5. Although the Income Tax Act and the Regulations do not say so explicitly, it seems self-evident that a detailed record of the hypotheses, tests and results be kept, and that it be kept as the work progresses.[7]
+[19] The Federal Court of Appeal explicitly adopted the 5-part test and summarized it in the decision of C.W. Agencies[8] as follows:
+1. Was there a technological risk or uncertainty which could not be removed by routine engineering or standard procedures?
+2. Did the person claiming to be doing SRED formulate hypotheses specifically aimed at reducing or eliminating that technological uncertainty?
+3. Did the procedure adopted accord with the total discipline of the scientific method including the formulation testing and modification of hypotheses?
+4. Did the process result in a technological advancement?
+5. Was a detailed record of the hypotheses tested, and results kept as the work progressed?[9]
+[20] The provisions of the Act essentially create a two-part test. First, it must be determined whether the project as a whole meets the requirements set out in subsection 248(1). If it does not, that is the end of the matter. However, if the project as a whole is eligible, then the specific expenditures and activities must be vetted against the objectives of the project. Here, the Respondent alleges that the entire project is ineligible and, thus, it is unnecessary to deal with the second question. Whether an expenditure is on account of SR & ED is a question of fact that must be determined on a case-by-case basis.
+[21] Information Circular 86-4R3[10] provides technical guidelines to clarify what constitutes SR & ED. Information Circular 97-1[11] provides a more specific analysis when dealing with software development. In particular, it states that three conditions must be present for the software to constitute SR & ED, namely scientific or technological uncertainty, advancement, and content.
+Applying the Law to the Facts of this Case
+Was there a scientific or technological uncertainty in 2000, 2001 or 2002?
+[22] Software development can certainly be eligible as SR & ED on the basis that its goal is to advance computer science or information technology. Throughout the testimony of Mr. Slater and Mr. Narayan, the following possible scientific or technological uncertainties facing the Appellant were identified:
+1. The technology that was used to upload the collected information to the ATG website.
+Mr. Slater conceded at trial that the process involved was "standard web page programming." In cross-examination, Mr. Slater stated that uploading web page files used standard FTP technology and that "it was designed so that students could do it from their home ... so there was no advanced technology needed for people to upload to the site ... the advanced technology was in the searching and designing of the site in the first place, I would say."[12] The problems encountered when uploading information on the website is illustrated by the following statement of Mr. Slater:
+No, there were definite problems there because if you - for instance, if you have the element or the molecule water under one category and then you have some lakes and oceans, which are made up of water, there's some uncertainty as to how you're going to link those together. You also have problems with multiple threads.[13]
+In my opinion, this statement indicates that there was no "technological" or "scientific" uncertainty.
+2. Technology to Combine the Personal Animator 1.2 with the ATG.
+In the Respondent's Reply, there was an assumption of fact that the data collected during the periods of the claims under review had not been related to any future projects.[14] The Appellant did not call any evidence to rebut this assumption of fact. Mr. Slater gave vague statements that he intended to combine the two ideas but gave no evidence on how this would be done or any technological uncertainties that would result.
+3. Auto-indexing and searching tool for the ATG website as well as moving from a MacIntosh to a Linux based server.
+Mr. Narayan testified that this was a fairly standard practice. Again, Mr. Slater did not give any indication on how the Appellant experienced a technological challenge. In fact, Mr. Slater specifically stated:
+The fact that it was - I don't want to say "standard", but something which we were capable of doing as software engineers did not mean we were, you know, downloading off-the-shelf software products.[15]
+This is true, but uncertainties that can be removed by routine engineering or standard procedures do not qualify for SR & ED. As noted by Chief Justice Bowman in Northwest Hydraulics, if the resolution of the problem is reasonably predictable using standard procedure or routine engineering there is no technological uncertainty in this context. If competent professionals in the field can resolve these issues with predictability, there is no technological uncertainty. This is exactly the situation in issue. The Appellant's work should not be belittled with the value of hindsight, but it seems clear that using standard and established techniques, the Appellant would be able to overcome these technological difficulties. The real difficulty in the project related to the collection, verification, and cataloguing of the various data gathered by the students. While these uncertainties may have been great, they are not technological or scientific uncertainties that are required for the ITCs. In fact, IC 97-1 provides an example similar to the case at hand. It noted that transferring data from a mainframe computer to a UNIX system is standard routine software development. In other words, although the transfer to the UNIX system may have been complex, it was amenable to being solved by competent professionals in the area. This indeed did occur in the case at hand.
+4. Kiosk-based PC-delivery system with the idea to make only certain keystrokes available to the user, and distributing the information through a wireless network.
+Again, in the Respondent's Reply, there was an assumption of fact that the data collected during the periods of the claims under review had not been related to any future projects.[16] The Appellant failed to demolish this assumption. Mr. Slater spoke of plans to integrate these technologies with the ATG website, but it appeared to be only at the initial planning and mapping state. Mr. Slater gave no evidence of actual work carried out in this regard.
+[23] In summary, the work done by the Appellant may be an advancement for the company but not an advancement in the underlying technology. Mr. Slater argued that the technological advancement is essentially the presentation of information in a form that can be used by students or other users. However, he has failed to demonstrate this from the viewpoint of the SR & ED definition in the Act. The utility of the final product is not determinative of the technological advancement. Rather, the issue is in developing that tool, what sort of technological challenges had to be overcome, and the Appellant has not provided any information to demonstrate that it encountered some technological challenge that could not be overcome by standard engineering.
+[24] Mr. Slater argued that the software is useful, valuable and does not exist. The Court is not in disagreement with that statement. However, not every worthwhile project is eligible for as a SR & ED expenditure. The scientific research must meet the express requirements contained in the Act. Novelty or innovation in a product is not sufficient to illustrate technological advancement; rather, it is how these features arise that is important, that is whether or not they arise through the process of SR & ED.
+[25] It should be noted that the Appellant simply did not provide enough evidence. His testimony was imprecise. No evidence or supporting documentation was given regarding any innovative hypotheses specifically aimed at reducing or eliminating technological uncertainties, the methodology and procedures used to test those hypotheses, nor the resulting advancement consisting of either accepting or rejecting the initial hypotheses. Mr. Slater did not define the objectives of the project in scientific or technological terms. In Sass Manufacturing[17] Justice Sarchuk said:
+... In my view Regulation 2900 requires an appellant to adduce cogent evidence of such investigation or search. Systematic investigation connotes the existence of controlled experiments and of highly accurate measurements and involves the testing of one's theories against empirical evidence. Scientific research must mean the enterprise of explaining and predicting and the gaining knowledge of whatever the subject matter of the hypothesis is. This surely would include repeatable experiments in which the steps, the various changes made and the results are carefully noted. There is no evidence of such an approach in the case at bar, either in the context of applied research or development. The appeal on this issue cannot succeed.[18]
+[26] As noted in Tacto Neuro Sensory Devices,[19] in cases such as these, the onus in on the Appellant:
+The appellant had the burden of showing, based on the balance of probabilities, that the expenditures it had incurred corresponded to scientific research and experimental development, and to do so, it had to show that there was a technological risk or uncertainty that could not be removed by routine engineering or standard procedures. If the resolution of the problem is reasonably predictable using standard procedure or routine engineering, there is no technological uncertainty. Thus all of the work done to resolve a problem using techniques, procedures, and data that are generally accessible to competent professionals in the field cannot, in my opinion, be scientific research and experimental development since there is no technological risk or uncertainty.[20] [emphasis added]
+[27] The Appellant has not met the burden of demonstrating the existence of technological uncertainties. In my opinion, the software program expenditures do not qualify for SR & ED treatment.
+[28] In passing, an overall observation of the case is that no adequate supporting documentation has been provided by the Appellant. While not absolutely necessary, it is beyond doubt that a taxpayer who creates a well-supported claim will facilitate the process in determining whether something qualifies as SR & ED. As stated in RIS-Christie,[21] the only reliable method of demonstrating that scientific research was undertaken in a systematic fashion is to produce documentary evidence. The Appellant has not presented sufficient facts to support his claim as a systematic investigation or search that is carried out in the field of science or technology as specifically required in the definition of SR & ED.
+Fields Other than Science and Technology
+[29] Arguably, one advancement involved in this situation was to make available to users a vast amount of information in one comprehensive repository in an interesting and interactive way. As Mr. Slater had stated, research had to be performed "in order to remove these uncertainties so that information presented is accurate, meaningful and agreed upon by the majority of world experts."[22] As well, he noted that a "considerable amount of time and effort was spent on establishing the accuracy and preserving the integrity of the data."[23] However, the verification and presentation of already known information does not constitute an advancement in an existing body of scientific knowledge. Clearly it may help others in doing their own research, but it is not experimentation or analysis in and of itself. As well, creating an educational tool is akin to creating a different method to teach students. This might represent an advancement in the educational field, but this would be excluded under humanities and social sciences.[24] Essentially, in my opinion, the Appellant was utilizing commercially available application programming tools to create a computer-aided instruction program.
+[30] As explained above, the entire project is ineligible and, thus, that is the end of the matter. The Respondent, in an alternative argument, suggested that the work under review related to mere "routine data collection" and would, therefore, be excluded under subheading (k) of the definition of SR & ED. As both parties argued this point, it should be briefly addressed. I agree with Mr. Slater that the collection of information for the project was anything but "routine". Not only was a substantial amount of information collected, it was analyzed, verified, and catalogued under the various subheadings. In addition, work was done to reflect the interrelationships between seemingly disparate facts. As such, the Respondent's contention on this ground is not well-founded. In order for data collection to be eligible for SR & ED, it must be commensurate with the needs and directly in support of an eligible project as a whole. However, as stated above, I have concluded that the entire project is ineligible as SR & ED and, thus, specific expenses related to data collection are also ineligible.
+[31] In closing, I wish to note that the work being done by the Appellant is commendable. The project created jobs for numerous students. Mr. Slater is a true entrepreneur with a seemingly limitless amount of drive, energy and creativity. However, the research activity in question must meet the definition of SR & ED in the Act.
+[32] The appeals are dismissed, without costs.
+Signed at Vancouver, British Columbia, this 31st day of October 2006.
+"L.M. Little"
+Little J.
+CITATION:
+2006TCC597
+COURT FILE NO.:
+2005-3306(IT)I,
+STYLE OF CAUSE:
+Zeuter Development Corporation and
+Her Majesty the Queen
+PLACE OF HEARING:
+Sudbury, Ontario
+DATE OF HEARING:
+September 15, 2006
+REASONS FOR JUDGMENT BY:
+The Honourable Justice L.M. Little
+DATE OF JUDGMENT:
+October 31, 2006
+APPEARANCES:
+Agent for the Appellant:
+Nick Slater
+Counsel for the Respondent:
+Frederic Morand
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] At trial, there was some discrepancy on the exact amounts at issue. The Appellant's representative referred to SR & ED expenditures from Line 400 of the Appellant's Form T661 in the amounts of $89,044, $57,721, and $53,195. Respondent's counsel stated its numbers came from the Appellant's T401. The Appellant's representative stated he was not concerned with the minor discrepancy.
+[2] R.S.C. 1985, (5th Supp.), c. 1, as amended (the "Act").
+[3] While I recognize and understand Mr. Slater's concern, auditors are bound by confidentiality agreements, and he must somehow present evidence that the Appellant qualified for the ITCs.
+[4] R-1, SR & ED Draft Technical Review Report.
+[5] Lunn v. R., [1998] 4 C.T.C. 2466 (T.C.C.) at paras. 24-25 [Informal Procedure].
+[6] Northwest Hydraulic Consultants Limited v. The Queen, 98 DTC 1839 (T.C.C.) ["Northwest Hydraulic"].
+[7] Ibid., at para. 16.
+[8] C.W. Agencies Inc. v. The Queen, 2001 FCA 393, 2002 DTC 6740 ["C.W. Agencies"].
+[9] Ibid., at para. 17.
+[10] "Scientific Research and Experimental Development" dated May 24, 1994.
+[11]"Scientific Research and Experimental Development - Administrative Guidelines for Software Development" dated February 28, 1997 ["IC 97-1"].
+[12] Cross-examination of Mr. Slater at page 73 of the transcript.
+[13] Ibid., at page 74.
+[14] Reply, at 9(i).
+[15] Page 60 of transcripts.
+[16] Supra note 14.
+[17] Sass Manufacturing Limited. v. M.N.R., 88 DTC 1363 (T.C.C.) ["Sass Manufacturing"].
+[18] Ibid., at para. 28.
+[19] Tacto Neuro Sensory Devices Inc. v. The Queen, 2004 TCC 341, 2004 DTC 2884 ["Tacto Neuro Sensory Devices"].
+[20] Ibid., at para. 11.
+[21] RIS-Christie Ltd. v. The Queen, 99 DTC 5087 (F.C.A.) ["RIS-Christie Ltd."].
+[22] Transcripts, page 24.
+[23] Ibid.
+[24] The Respondent referred to Technical Interpretation 2001-0096075 "Scientific Research and Experimental Development" dated November 8, 2001 to give the Canada Revenue Agency's position on the definition of social sciences.

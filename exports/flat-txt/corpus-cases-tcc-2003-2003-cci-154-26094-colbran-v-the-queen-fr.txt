@@ -1,0 +1,518 @@
+Title: Colbran v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26094/index.do
+Corpus path: corpus/cases/tcc/2003/2003-cci-154-26094-colbran-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2003-03-20
+
+# Colbran v. The Queen
+
+- Citation: 2003 CCI 154
+- Decision date: 2003-03-20
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4155, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Colbran v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-03-20
+Référence neutre
+2003 CCI 154
+Numéro de dossier
+2001-3448(GST)I
+Juges et Officiers taxateurs
+Ronald D. Bell
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Dossier: 2001-3448(GST)I
+ENTRE :
+DALE COLBRAN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 28 octobre 2002 à Calgary (Alberta)
+Devant : L'honorable juge R. D. Bell
+Comparutions :
+Avocat de l'appelant :
+L'appelant lui-même
+Avocat de l'intimée :
+Me R. Scott McDougall
+____________________________________________________________________
+JUGEMENT
+L'appel de la cotisation établie en vertu de la Loi sur la taxe d'accise, dont l'avis est daté du 7 novembre 2000 et porte le numéro 32071, est accueilli, et la cotisation est renvoyée au ministre du Revenu national pour nouvel examen et nouvelle cotisation selon les motifs du jugement ci-joints.
+Il n'y a aucune allocation de dépens.
+Signé à Ottawa, Canada, ce 20e jour de mars 2003.
+« R. D. Bell »
+J.C.C.I.
+Traduction certifiée conforme
+ce 23e jour de février 2005.
+Mario Lagacé, réviseur
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Référence: 2003CCI154
+Date: 20030320
+Dossier: 2001-3448(GST)I
+ENTRE :
+DALE COLBRAN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Bell, C.C.I.
+QUESTION EN LITIGE
+[1] Il s'agit de savoir si l'appelant est, en vertu de l'article 323 de la partie IX de la Loi sur la taxe d'accise (la « Loi » ), tenu de payer la taxe due par la 601395 B.C. Ltd. (la « 95 » ), avec pénalités et intérêts y afférents.
+[2] Les périodes pour lesquelles une cotisation de taxe sur les produits et services ( « TPS » ) a été établie à l'égard de la société en vertu de la Loi sont les suivantes :
+16 février au 31 mars 2000,
+1er avril au 30 juin 2000,
+1er juillet au 4 juillet 2000.
+[3] L'appelant soutient qu'il n'a jamais été un administrateur de la 95 et qu'il n'est donc pas tenu de payer la taxe due par cette dernière, avec pénalités et intérêts y afférents.
+FAITS
+[4] L'appelant a témoigné qu'il avait été dans le domaine de la restauration depuis de nombreuses années et qu'il était, au moment de l'audience, président du conseil d'administration de l'Association canadienne des restaurateurs. Il a déclaré qu'il avait géré plusieurs entreprises de restauration, qu'il avait été consulté et qu'il avait en outre fait du « dépannage » auprès d'un certain nombre d'entreprises qui étaient dans la détresse ou qui avaient besoin « de transformations radicales » .
+[5] Il a dit que, pendant une période d'environ un an et demi se terminant en avril 2000, il avait été le vice-président de l'exploitation de Cheesecake Café Limited, à Edmonton (Alberta). Il a décrit cette entreprise comme étant en détresse. Cette entreprise a eu onze unités à un moment donné, mais n'en avait plus que cinq à la date de l'audience. L'appelant a dit que, à l'époque où il était vice-président de l'exploitation, trois franchisés de l'entreprise de gâteaux au fromage située au 910, rue Government, à Victoria, avaient fait faillite au cours d'une période de quatre mois. Il a ensuite déclaré que M. Beeson ( « M. Beeson » ), président du franchiseur, l'avait engagé afin qu'il essaie de trouver un franchisé qui convienne, qu'il stabilise l'équipe de gestion et qu'il communique avec le locateur. Il a dit qu'il avait rencontré le locateur et ses avocats, soit le cabinet juridique Pearlman & Lindholm. Il a déclaré que l'on avait créé une coquille vide pour exploiter l'entreprise jusqu'à ce que l'on puisse trouver un franchisé qui convienne. Il a dit ensuite :
+[TRADUCTION]
+Je faisais personnellement partie d'un groupe qui envisageait d'être le franchisé à cet endroit, mais il y avait certaines exigences auxquelles je devais satisfaire, il y avait certaines conditions qui devaient être remplies avant que je puisse devenir un administrateur en Colombie-Britannique et que nous puissions exploiter l'entreprise en Colombie-Britannique; un bail devait être établi et la convention de franchisé devait être établie pour qu'un groupe exploite l'entreprise [...]
+Il a ajouté :
+[TRADUCTION]
+Ils [...] m'ont demandé si j'accepterais d'être un administrateur de cette coquille vide en tant que représentant du locateur.
+[6] Il a dit qu'il les avait informés qu'il n'accepterait pas d'être un administrateur tant que toutes les conditions ne seraient pas remplies et que, toutefois, il accepterait d'agir comme consultant et gestionnaire pour eux afin que l'entreprise continue d'être exploitée. Il a également dit que, comme gestionnaire, il recevait des instructions de Pearlman & Lindholm, ainsi que de Tillyard Management, la société de gestion oeuvrant pour le locateur. Il a dit en outre qu'il était disposé à agir en cette qualité jusqu'à ce que l'on trouve un franchisé qui convienne ou jusqu'à ce que l'on trouve quelqu'un pour remettre de l'ordre dans les affaires.
+[7] L'appelant a ensuite produit un formulaire décrit comme étant un AVIS D'ADMINISTRATEURS, soit un formulaire du Ministry of Finance and Corporate Relations, en date du 16 février 2000, indiquant que l'appelant était un administrateur et que Lindsay A. C. Ross ( « Me Ross » ), avocat chez Pearlman & Lindholm, cessait d'être un administrateur. Ce document a, d'après l'appelant, été signé par Me Ross le 16 juillet 2000. Il porte une estampille indiquant qu'il a été DÉPOSÉ ET ENREGISTRÉ auprès du registraire des sociétés le 20 juillet 2000. L'appelant a dit que ce document a été déposé et enregistré 16 jours après la date du 4 juillet, soit la date marquant la fin des périodes considérées en l'espèce. Il a en outre décrit la 95 comme étant la coquille vide mentionnée ci-devant.
+[8] L'appelant a dit :
+[TRADUCTION]
+Ma position est, monsieur le juge, que je n'ai jamais accepté d'être un administrateur de cette société. Cela était bien clair dans les consignes que je leur ai données.
+[9] L'appelant a ensuite produit une lettre en date du 1er mars 2000 qu'il avait écrite à Pearlman & Lindholm, soit une lettre à l'attention de Me Ross et de Craig Beveridge. Cette lettre se lit comme suit :
+[TRADUCTION]
+Je soussigné Dale Colbran vous avise par la présente que je ne peux accepter d'être un administrateur de la société 601395 B.C. Ltd. Je ne changerai pas mon statut de résident de l'Alberta et je ne chercherai pas à obtenir le statut de résident de la Colombie-Britannique pendant que les arrangements commerciaux relatifs à l'entreprise de gâteaux au fromage sont négociés par M. Bob Beeson. Tannis Brown et Anne Troyer ont été témoins des mesures que j'ai prises à votre bureau et des instructions claires que j'ai données pour que la société ne soit pas enregistrée tant que les questions relatives aux conventions et au statut de résident n'aient pas été réglées.
+Je continuerai d'agir comme consultant pour le locateur, ainsi qu'aux fins de la franchise, et, si la situation change pour ce qui est des négociations, je réexaminerai ma position.
+[10] L'appelant a dit qu'une copie de cette lettre avait été envoyée par télécopieur et que l'original avait été expédié par la poste.
+[11] L'appelant a ensuite produit une copie d'une lettre de CHEESECAKE CAFE en date du 5 mai 2000 que quelqu'un avait signée pour R. F. Beeson, président. Cette lettre, adressée à la 95, à l'attention de Dale Colbran, se lit comme suit :
+[TRADUCTION]
+Le locateur m'a informé que le loyer à payer le 1er mai 2000 n'a pas été payé. De plus, l'omission de payer le loyer du 1er mai 2000 est un manquement en vertu de la convention concernant un loyer en souffrance, et le loyer pour février, mars et avril 2000 doit être payé maintenant.
+La présente lettre est un avis de manquement aux obligations prévues dans le contrat de sous-location. Il s'agit également d'une mise en demeure. Nous déclarerons que votre contrat de sous-location est en défaut si, d'ici huit (8) jours, nous n'avons pas reçu la somme de cent six mille huit cent neuf dollars et soixante-dix-sept cents (106 809,77 $) [voir l'état de rapprochement ci-joint] représentant le loyer et le loyer supplémentaire dus pour la période allant jusqu'au 1er mai 2000 inclusivement.
+Le loyer doit être payé au soussigné; veuillez envoyer le paiement aux soins de McLennan Ross, avocats, bureau 600, 12220, chemin Stony Plain, Edmonton (Alberta) T5N 3Y4, à l'attention de C. P. Russell.
+[12] L'appelant a dit que, malgré la mention d'un « contrat de sous-location » dans cette lettre, il n'y avait pas de contrat de sous-location. Il a dit :
+[TRADUCTION]
+En fait, il n'y avait absolument pas de bail.
+[13] Il a déclaré que le rapport de situation d'occupant figurant en annexe indiquait que Courtney Café Inc. avait une responsabilité relative à une somme de 106 809,77 $. Il a ensuite déclaré que Tillyard Management Inc., dont le nom figurait également sur ce document, était le locateur du bien situé au 910, rue Government.
+[14] L'appelant a ensuite produit un document qu'il a décrit comme provenant de M. Alex Lewoniuk, un associé « dans Cheesecake Café Limited » , le franchiseur. Il a témoigné que c'était une copie d'instructions de gestion en date du 4 mai 2000 qui lui avaient été données, soit « de claires directives de gestion quant à savoir ce qui était nécessaire pour trouver quelqu'un qui convienne [...] » [1].
+[15] L'appelant a ensuite présenté un document, sans date, intitulé « Brandale Foodservices & Consulting Ltd. » . Il a dit que ce document, qu'il a décrit comme étant sa réponse au document précédent, indiquait qu'il agissait comme gestionnaire « conformément aux affaires et pour accélérer les choses » . Ce document contient en fait 16 paragraphes numérotés; le paragraphe numéro 7 se lit comme suit :
+[TRADUCTION]
+Gestion : Jack Friesen, Dale Colbran, Barb Freisen, Anne Troyer (à temps partiel jusqu'à ce que ce ne soit plus possible pour l'une de ces parties).
+L'appelant a dit que cela se rapportait à son rôle de consultant en gestion.
+[16] Le document que l'appelant a ensuite produit était une lettre en date du 28 juin 2000 de Pearlman & Lindholm à Courtney Café Inc. et à Cheesecake Café of Canada Inc., d'Edmonton, à l'attention de R. F. Beeson. Ce document incluait un avis de résiliation, à l'intention du destinataire, exigeant la libre possession immédiate des locaux situés au 910, rue Government. L'appelant a dit ensuite qu'une copie de cette lettre avait été envoyée à son attention, comme « gestionnaire » au Cheesecake Café du 910, rue Government.
+[17] L'appelant a produit une copie d'une lettre de Pearlman & Lindholm à Cox Taylor, à l'attention de Murray Holmes. Cette lettre disait :
+[TRADUCTION]
+Je confirme que vous avez été engagé pour agir au nom de Dale Colbran et de la 601395 B.C. Ltd. Je vous fais parvenir ci-joint une copie d'une lettre au locataire Courtney Café Inc. résiliant son bail relatif aux locaux en cause et exigeant la libre possession desdits locaux. Si la libre possession n'est pas immédiatement fournie au locataire, j'ai pour instructions d'introduire une procédure conformément à l'article 18 de la loi intitulée Commercial Tenancy Act.
+J'envoie par messager une copie de ce document au restaurant, à l'attention de M. Colbran, pour que ce dernier soit bien au courant des mesures prises par le locateur.
+[18] L'appelant a ensuite produit une lettre de Murray Holmes à la 95, lettre dans laquelle M. Holmes disait qu'il avait fait des recherches dans les dossiers et qu'il n'avait trouvé aucun document indiquant qu'il avait agi pour l'appelant relativement au Cheesecake Café.
+[19] L'appelant a produit une copie d'une lettre de Cheesecake Café à Tillyard & Partners, Inc., soit une lettre en date du 29 mars 2000 ne portant aucune signature mais indiquant en caractères d'imprimerie que l'auteur était R. F. Beeson. Ce document traitait de la négociation du loyer relatif aux locaux de la rue Government. L'appelant disait qu'il produisait cette lettre pour « montrer que » R. F. Beeson, président de Courtney Café Inc., avait le contrôle de cet endroit et donnait les ordres en matière de gestion.
+[20] Enfin, l'appelant a déposé une lettre en date du 4 mai 2000 qu'il avait écrite à M. Beeson concernant le Cheesecake Café du 910, rue Government. Cette lettre se lit comme suit :
+[TRADUCTION]
+Bob, Tannis et Anne ont une pièce jointe disant que la société est liquidée à cause de factures et à cause d'une situation de trésorerie négative et non parce que j'ai « liquidé » le compte bancaire. Cette franchise a échoué deux fois; vous attendiez-vous que, comme par magie, les flux de trésorerie donnent lieu à un profit, alors que ce commerce avait normalement des pertes importantes durant cette période?
+Il s'agit de votre commerce, et Courtney Café est le locataire. M. Craig Beveridge, conseiller juridique du locateur, a dit que vous, M. Bob Beeson, vous occuperez de toutes les questions concernant le loyer, les pertes, le matériel, la paye et l'impôt jusqu'à ce que vous puissiez trouver un franchisé pour exploiter votre commerce conformément à une convention appropriée.
+Vous me devez actuellement plus de 60 000 $ d'honoraires, et je ne peux plus continuer à agir comme consultant.
+[21] Lors du contre-interrogatoire, quand on lui a demandé si, en 1998, au début de son travail pour Cheesecake Café, il était intéressé à acquérir la franchise, l'appelant a répondu :
+[TRADUCTION]
+Honnêtement, je ne me rappelle pas quelle était ma motivation à l'époque. Bob avait de sérieuses difficultés financières et avait besoin de quelqu'un qui, sur le plan opérationnel, puisse l'aider à s'en sortir; je ne sais pas si l'idée de diriger une entreprise liée à Cheesecake en tant qu'entrepreneur indépendant m'a traversé l'esprit à cette époque.
+[22] L'appelant a dit qu'il passait trois jours par mois à Victoria dans le cadre de son travail pour le café. Il a dit qu'il avait été très étonné que le franchisé abandonne la franchise. Il a dit que, après des discussions avec le locateur et Pearlman & Lindholm, il avait été décidé qu'il serait « dans l'intérêt de toutes les parties que l'endroit continue d'être exploité » . Quand on lui a demandé si M. Beeson, « en tant que président-directeur général de Cheesecake Café » , lui avait ordonné « de consulter un avocat et de faire en sorte que la 601395 B.C. Ltd. soit constituée » , l'appelant a répondu qu'il n'avait pas fait en sorte que cette société soit constituée.
+[23] Quand on lui a montré une convention d'indemnisation, un certificat d'actions et d'autres extraits du registre des procès-verbaux de la 95, il a déclaré qu'il reconnaissait sa signature dans chaque cas. Quand on lui a demandé s'il contestait le fait que ces documents soient des extraits du registre des procès-verbaux de la 95, il a répondu que oui et a dit que ces documents venaient du cabinet Pearlman & Lindholm :
+[TRADUCTION]
+[...] qui avait reçu pour instructions explicites de ne pas communiquer cela tant que les conditions n'étaient pas complètement remplies; en vertu des lois de la Colombie-Britannique, il faut établir que l'on est un résident pour devenir un administrateur. Je ne répondais à aucune des conditions. J'ai un témoin pour corroborer le fait que ces documents devaient être détenus en fiducie par Pearlman & Lindholm jusqu'à ce que les conditions appropriées puissent être remplies.
+L'appelant a dit qu'il était allé au bureau de Pearlman & Lindholm le 16 février 2000 et qu'il avait signé ces documents. Quand on lui a demandé si M. Beeson lui avait dit de faire en sorte que la 95 soit constituée, l'appelant a répondu :
+[TRADUCTION]
+M. Beeson m'a dit de m'organiser le mieux possible avec le locateur, et j'ai dit que je ne ferais pas cela. [...] Je n'étais pas disposé à être l'administrateur ou à prendre en charge une responsabilité sans que toutes les conditions soient remplies, mais j'étais disposé à gérer l'exploitation entre-temps. On avait discuté de cela avec le cabinet Pearlman & Lindholm, qui représentait le locateur, et le locateur était d'accord [...]
+L'appelant a ensuite dit qu'il avait envisagé qu'un groupe puisse acquérir l'entreprise si les conditions pouvaient être remplies. Il a dit qu'il s'agissait d'une coquille vide sans tache et que, si les conditions étaient favorables et si toutes les conditions pouvaient être remplies, une entreprise pourrait être exploitée par quelqu'un :
+[TRADUCTION]
+[...] et telle était donc la situation, mais cela devait rester au bureau de Pearlman & Lindholm [...] C'est pourquoi il n'y a eu enregistrement qu'après coup.
+[24] L'appelant a reconnu qu'il savait que deux autres hommes étaient intéressés à la franchise, mais il a déclaré qu'il n'était pas question qu'il occupe un poste sur le plan de l'exploitation. Il a dit qu'il envisageait d'être un investisseur si toutes les conditions étaient remplies, concernant les baux, les contrats de franchisage, le matériel, etc.
+[25] L'appelant a dit qu'une équipe avait été constituée. Cette équipe comprenait Amy Brennan, Anne Troyer, Tim Miller, Tannis Brown et quelques personnes dont l'appelant ne se rappelait pas le nom. L'appelant a déclaré que son rôle à cette époque était d'essayer de trouver un franchisé ou d'essayer de trouver un mode d'exploitation optimal pour la poursuite de l'entreprise. Il a dit que, en outre, il apportait sa contribution à la gestion, tout comme M. Beeson le faisait et tout comme lui-même le faisait à d'autres endroits.
+[26] Quand on lui a demandé s'il supervisait l'équipe, l'appelant a répondu :
+[TRADUCTION]
+Je devrais probablement dire que non. M. Beeson avait un rôle de superviseur plus que moi, mais je continuais ma relation en ce sens que j'étais en communication avec eux, tout comme j'étais en communication avec les autres restaurants.
+[27] Quand on lui a demandé combien de temps il avait passé à Victoria entre le 16 février et le 4 juillet 2000, il a répondu :
+[TRADUCTION]
+Probablement un peu plus de temps à cette époque, vous savez - peut-être une semaine par mois, peut-être moins.
+[28] Il a déclaré qu'il n'avait pas établi les arrangements bancaires pour la 95 et qu'il croyait qu'un autre gestionnaire avait ouvert un compte bancaire par l'intermédiaire de Pearlman & Lindholm. Il a dit que cet autre gestionnaire était Anne, Amy ou Tannis. Il a ensuite clairement déclaré qu'il n'avait pas établi cela et qu'il n'était pas allé à la banque. Quand on lui a demandé s'il avait joué un rôle dans l'ouverture des comptes bancaires ou s'il avait à cet égard donné des instructions à qui que ce soit, il a répondu :
+[TRADUCTION]
+Bob a donné des instructions pour l'ouverture des comptes.
+Il a ensuite dit qu'il était signataire autorisé relativement aux comptes. Il a dit que des cartes de signature lui avaient été envoyées et qu'il les avait signées et renvoyées. L'échange suivant a ensuite eu lieu lors du contre-interrogatoire :
+[TRADUCTION]
+Q. Donc, vous étiez bien au courant des arrangements bancaires et vous étiez signataire autorisé relativement aux comptes?
+R. Tout comme Bob et d'autres participants à la gestion, Alex, Pearlman & Lindholm, Tim Hill. Je suis signataire autorisé dans le cas d'autres restaurants aussi - il en est ainsi pour les gestionnaires.
+[29] Il a déclaré qu'il avait agi comme consultant pour le locateur et les avocats jusqu'à ce que M. Beeson trouve quelqu'un d'autre pour prendre la situation en main. Interrogé au sujet de ses rôles et responsabilités, il a répondu :
+[TRADUCTION]
+Je conseillais simplement les gestionnaires concernant l'exploitation quotidienne, la dotation en personnel et ce genre de choses.
+Il a déclaré qu'à un moment donné - il n'était pas certain de la date exacte - il avait donné pour instructions à la banque de rayer son nom de la liste des signataires autorisés.
+[30] L'avocat de l'intimée a produit une copie d'une lettre de Cheesecake Café à M. Colbran en date du 27 mars 2000 relative aux modalités financières :
+[TRADUCTION]
+[...] concernant votre départ de la société.
+Vous serez remboursé de tous les frais - approuvés - que vous avez engagés au nom de la société et qui ne vous ont pas encore été payés.
+Votre salaire de base continuera à vous être versé pendant une période supplémentaire de six (6) mois commençant aujourd'hui.
+[31] L'appelant a témoigné qu'il n'avait pas reçu d'indemnité de départ. Il a déclaré qu'il avait compris qu'il ne serait jamais payé, que M. Beeson lui avait dit qu'il ne serait pas payé et que M. Beeson avait dit cela à d'autres aussi. Il a ensuite déclaré que, à la demande de Pearlman & Lindholm et de Tillyard Management, il avait accepté de rester pour aider à stabiliser la gestion et qu'il était payé par l'intermédiaire de la 95. Il a dit qu'il avait présenté des factures à la 95 et qu'il n'avait pas de salaire. Interrogé quant à savoir qui exploitait le restaurant jusqu'au 4 juillet 2000, il a répondu :
+[TRADUCTION]
+La 601395, je crois. Je ne suis pas certain. C'était probablement Courtney Café qui l'exploitait en réalité.
+[32] Interrogé quant à savoir quel était à son avis le rôle de M. Beeson auprès de la 95, l'appelant a répondu que M. Beeson « déterminait qui était payé et qui ne l'était pas » . L'appelant a dit qu'il ne jouait aucun rôle dans la préparation des versements de TPS à faire pour la 95 et qu'il ne jouait aucun rôle pour ce qui était de donner à cet égard des instructions à d'autres gestionnaires. Il a dit que la 95 n'était pas un sous-bailleur[2]. Il a également témoigné que M. Beeson avait le contrôle des locaux et que la 95 n'en avait pas le contrôle, malgré le fait qu'elle exploitait le restaurant. Il a dit que le locateur avait « un contrôle sur les locaux » . Il a dit que M. Beeson avait payé ce qui était dû à Tillyard Management et qu'il avait repris le matériel, de sorte que M. Beeson n'avait plus besoin de lui comme consultant. Il a dit qu'il n'avait pas pris de livres et de registres avec lui, ni d'argent. Il a dit qu'il était payé pour ses services et que l'entreprise avait un déficit d'exploitation. Il a déclaré qu'il n'avait pas pris de matériel de restaurant à cet endroit.
+[33] En ce qui concerne les documents de société signés par lui, il a dit :
+[TRADUCTION]
+Je les ai signés pour qu'ils soient gardés là, de sorte que, si un arrangement était conclu, je n'aurais pas à retourner au cabinet juridique. J'étais à Calgary, je vivais à Calgary et j'ai fait cela au cas où j'irais bel et bien m'installer là-bas, vous savez; donc, j'ai agi de la sorte simplement par souci de commodité, en précisant bien que les documents devaient être gardés là et qu'il ne pouvait y avoir d'enregistrement.
+[34] Il a dit qu'il avait donné les instructions suivantes à Me Ross :
+[TRADUCTION]
+Je lui ai dit de ne pas enregistrer la société 601395 et de ne pas m'inscrire comme administrateur tant que je n'aurais pas satisfait à toutes les conditions. Il pouvait l'enregistrer s'il le voulait - il était l'administrateur à cette époque, il pouvait faire ce qu'il voulait -, mais je ne pouvais ni ne voulais être inscrit comme administrateur. J'avais dit que je les aiderais à gérer, que je les aiderais à essayer de passer à travers des difficultés et que j'avais un groupe qui, si les conditions étaient favorables, serait intéressé à devenir le franchisé.
+[35] Il a dit que la souscription d'actions avait été signée le 16 février 2000. Il a également dit qu'il estimait que la société « traînassait » et il a déclaré :
+[TRADUCTION]
+Je pense qu'ils avaient besoin que la chose soit exploitée.
+[36] Il a dit qu'il ne savait pas pourquoi le 16 février avait été la date de changement d'administrateurs. L'échange suivant a ensuite eu lieu :
+[TRADUCTION]
+M. LE JUGE : J'ai un peu de difficulté à comprendre pourquoi il a signé quelque chose le 16 juillet 2000, alors que le document indique comme date de changement le 16 février 2000?
+R. J'ai de la difficulté à comprendre cela moi aussi.
+[37] L'appelant a dit au sujet de la 95 :
+[TRADUCTION]
+La société s'est lancée en affaires sous la raison sociale Cheesecake Café. Cette société, si je comprends bien, ne contrôlait pas les actifs, n'avait pas de bail et avait été établie par l'avocat du locateur pour exploiter l'entreprise jusqu'à ce qu'un arrangement approprié puisse être conclu. Je crois comprendre que telle est la raison pour laquelle cette société devait être établie.
+[38] Il a dit que lui « et le groupe de gestion étaient signataires autorisés » .
+[39] L'appelant a dit qu'il n'avait pas donné pour instructions à Me Ross de déposer le document susmentionné. Interrogé par l'avocat de l'intimée quant à savoir s'il avait pris des mesures pour ne plus être inscrit comme administrateur et « pour mettre fin aux activités de cette société » , il a répondu :
+[TRADUCTION]
+Je ne pouvais mettre fin aux activités d'une société qui ne m'appartenait pas [...] c'était la société de Lindsay Ross.
+[40] L'appelant a ensuite appelé comme témoin Anne Troyer. Cette dernière a dit qu'elle était chef de cuisine et que la relation qu'elle avait n'était pas « susceptible d'influencer [...] les réponses aux questions de l'appelant » . Elle a dit au cours de son témoignage :
+[TRADUCTION]
+On s'était arrangé pour avoir de l'information du cabinet juridique concernant la mesure la plus appropriée à prendre pour maintenir le restaurant en exploitation et pour garder les cadres et les employés; nous demandions des conseils et nous tenions compte de l'intérêt du locateur à l'égard de la création d'une sorte de société en veilleuse pour le maintien de l'exploitation durant ce que j'appellerais une période d'urgence pour ce qui était de faire en sorte que les choses se poursuivent.
+Lindsay Ross était très précis en ce qu'il nous faisait savoir quelles étaient les procédures, quelles étaient les instructions à suivre et quelle était son opinion. Son opinion après notre réunion était qu'il soit l'administrateur d'une société en veilleuse pour maintenir l'exploitation jusqu'à ce qu'au bout d'une très brève période, espérait-on, quelqu'un d'autre soit intéressé à prendre le contrôle du restaurant comme franchisé; il fallait une solution plus permanente, et cela était évidemment nécessaire pour créer de nouveaux comptes bancaires et de nouveaux comptes Visa, ainsi que tout ce qu'il faut pour l'exploitation quotidienne d'un restaurant.
+Elle a ensuite déclaré :
+[TRADUCTION]
+[...] Après notre réunion, il a été décidé de créer cette société en veilleuse et, si je ne m'abuse, Lindsay était d'accord pour être l'administrateur à court terme; Lindsay a demandé à Dale s'il y avait une possibilité qu'il devienne un franchisé ou joue un rôle quelconque dans l'exploitation de ce restaurant; comme cette possibilité existait, Lindsay a demandé à Dale de signer tous les documents qui ont été produits devant la Cour. Le problème, sur le plan de la synchronisation et sur d'autres plans, était que Dale s'apprêtait à ouvrir un Cheesecake Café à Lethbridge, puis à Calgary, de sorte qu'il serait absent de la région de Victoria pendant pas mal de temps; Dale avait fait savoir très précisément qu'il ne voulait pas que quoi que ce soit se fasse pour ce qui était du rôle d'administrateur sans qu'on lui en ait parlé, et, si j'ai bonne mémoire, c'est en fait Lindsay Ross qui [...]
+[41] Elle a dit que l'appelant avait déclaré qu'il ne voulait pas que la question du rôle d'administrateur aille plus loin tant que les arrangements concernant le contrat de franchisage et les autres modalités n'étaient pas conclus. Elle a ensuite déclaré que Lindsay avait dit à l'appelant de ne pas s'en faire, car ce dernier ne pouvait être un administrateur s'il n'était pas résident de la Colombie-Britannique. Elle a poursuivi en disant :
+[TRADUCTION]
+Et, de toute façon, il y avait d'autres conditions qu'il devait remplir, de sorte que, assurément, je n'ai pas quitté cette réunion en pensant que Dale était un administrateur d'une nouvelle société et qu'il était, vous savez, mon nouveau patron au restaurant.
+Elle a ajouté que Lindsay avait déclaré lors de cette réunion qu'un contrat de franchisage devait être conclu et qu' « il fallait le consentement d'un locateur relativement à un nouveau bail » . Puis l'échange suivant a eu lieu :
+[TRADUCTION]
+Q. À votre avis, de qui l'équipe de gestion recevait principalement des instructions au cours de la période de février, mars, avril, mai et juin 2000?
+R. Vous savez, avec les circonstances atténuantes concernant le restaurant, il est certain que nous comptions les uns sur les autres pour ce qui était des activités quotidiennes, mais les décisions étaient toujours prises au siège social, par Bob Beeson.
+[42] Elle a déclaré que, à sa connaissance, les actifs étaient encore détenus par la Banque Canadienne Impériale de Commerce en raison d'un manquement du franchisé précédent à ses obligations relatives à un prêt. Elle a ensuite décrit relativement en détail le précédent exploitant franchisé, qui avait simplement « laissé les clés à la caisse et était parti » . Interrogée quant à savoir si l'appelant était souvent à Victoria au cours de la période en question, elle a répondu qu'il y était seulement « quelques jours par-ci, par-là » , car il était en train d'ouvrir un autre Cheesecake Café à Lethbridge et s'apprêtait à en ouvrir un à Calgary.
+[43] Elle a dit qu'elle voyait un peu plus M. Beeson, car il se rendait à Victoria pour essayer de conclure des arrangements avec le locateur, la question du loyer étant très litigieuse. Elle a dit que, si elle avait un problème, elle parlait davantage à Bob Beeson :
+[TRADUCTION]
+[...] car, en fin de compte, c'était lui le responsable, c'était lui qui prenait les décisions.
+Donc, il est certain que, tous les jours et de nombreuses fois par jour, je parlais à Bob Beeson en ce qui avait trait aux situations et aux opérations.
+[44] Interrogée par l'avocat de l'intimée quant à savoir si, après le 16 février, les fournisseurs effectuaient des livraisons contre remboursement, elle a répondu que la plupart d'entre eux se faisaient alors payer comptant et que :
+[TRADUCTION]
+M. Beeson traitait des situations d'endettement avec eux en vue d'avoir du crédit à un moment donné.
+[45] Elle a dit que la société à numéro (la 95) payait les salaires, ainsi que les aliments. Elle a déclaré que les fournitures d'alcool étaient payées par la société à numéro.
+[46] En ce qui concerne la TPS et la taxe de vente provinciale, elle a dit :
+[TRADUCTION]
+Je n'étais pas chargée de cela et, autant que je sache, cela relevait de la société. Ils s'occupaient de cela.
+Q. De qui parlez-vous quand vous dites « ils » ?
+R. Je parle de Bob Beeson, ainsi que de notre siège social; ils nous disaient de nous occuper essentiellement de ce qui était nécessaire aux fins de l'exploitation quotidienne et qu'ils s'occuperaient du reste. Nous remettions fréquemment - probablement deux fois par semaine - des tableaux de ventilation relatifs à l'argent dû aux différentes sociétés, et ainsi de suite.
+[47] Elle a dit qu'elle avait aidé à obtenir le numéro d'inscription aux fins de la TPS qui a été attribué à la 95.
+[48] L'appelant a ensuite appelé comme témoin Amy Brennan, qui a témoigné qu'elle était la directrice de l'exploitation de Cheesecake Café à Victoria. Interrogée quant à savoir qui était responsable des dettes qui étaient contractées, elle a répondu :
+[TRADUCTION]
+Cheesecake Café ou Bob Beeson.
+[49] Elle a déclaré qu'il en avait été ainsi pendant tout le temps où elle était là. Quand elle a été interrogée, par la Cour, quant à savoir qui était selon elle responsable des dettes contractées au cours de la période allant du 16 février au 4 juillet 2000, elle a répondu :
+[TRADUCTION]
+Bob Beeson et Cheesecake Café.
+[50] Interrogée quant à savoir qui était la personne-ressource qu'elle contactait concernant les questions de gestion et de direction à Victoria, elle a répondu que c'était davantage Bob Beeson qui jouait ce rôle.
+[51] Au cours de l'interrogatoire auquel elle a été soumise par l'appelant, l'échange suivant a eu lieu :
+[TRADUCTION]
+Q. Vous souvenez-vous si M. Colbran était souvent à Victoria au cours de la période allant du 16 février au 4 juillet 2000?
+R. Je l'ai peut-être vu quelques jours en mai et quelques jours en juin; je ne l'ai pas vu très souvent.
+[52] Elle a dit que les fournisseurs du Cheesecake Café de Victoria n'étaient pas payés par chèques tirés sur un compte bancaire, car : « nous devions les payer comptant. » Elle a déclaré que, le matin du 4 juillet, ils n'arrivaient pas à trouver certains menus. Elle a également dit qu'ils avaient un syndicat au Cheesecake Café de Victoria et que :
+[TRADUCTION]
+[...] le jour où nous avons fermé, ils se sont tous amenés et étaient très hostiles, de sorte que j'ai présumé qu'il manquait des choses.
+[53] Puis l'échange suivant a eu lieu :
+[TRADUCTION]
+Q. Du 2 avril au 4 juillet 2000, époque à laquelle vous travailliez à cet endroit, combien de fois M. Beeson a-t-il été directement à Victoria pour vous donner des instructions?
+R. Peut-être deux ou trois fois.
+Q. Quel genre d'instructions M. Beeson vous donnait-il?
+R. Fondamentalement, il me donnait simplement des instructions quant au contrôle des activités quotidiennes, quant à savoir qui payer et qui ne pas payer et quant à l'exploitation du restaurant.
+Q. Est-ce que vous considériez que Dale Colbran était votre superviseur immédiat?
+R. Non.
+Q. Qui considériez-vous comme étant votre superviseur immédiat?
+R. Anne, quand elle était là, et Cheesecake Café, que je contactais par téléphone.
+[54] Interrogée quant à savoir ce qu'elle voulait dire par « Cheesecake Café » , elle a répondu qu'elle voulait parler de Bob Beeson. Quand on lui a demandé lors du contre-interrogatoire si, dans le cadre de ses responsabilités, elle devait payer les factures pour maintenir l'exploitation du restaurant, elle a répondu :
+[TRADUCTION]
+Seulement les frais d'exploitation; tout le reste était envoyé à Cheesecake Café.
+[55] L'intimée a alors appelé comme témoin M. Beeson, qui avait été assigné à témoigner pour la Couronne. M. Beeson a dit qu'il avait été dans le domaine de la restauration depuis 1972 et qu'il avait joué un rôle dans six différentes chaînes de restaurants. Il a dit que, durant la période en cause, le franchiseur était Cheesecake Café Licensing Inc. Il a dit que la filiale qui louait les locaux était Courtney Café Inc. Il a dit qu'il connaissait l'appelant parce que ce dernier travaillait pour eux. Il a déclaré qu'ils avaient fait entrer M. Colbran à la société au cours de l'hiver 1999 parce qu'ils cherchaient quelqu'un qui avait beaucoup d'expérience sur le plan opérationnel.
+[56] M. Beeson a dit que l'appelant considérait qu'il y avait certains investisseurs qui étaient intéressés à former avec lui un groupe qui deviendrait le franchisé du restaurant de Victoria. Il a dit que le restaurant avait commencé à être exploité par l'intermédiaire de la société de Dale, pour qui un contrat de sous-location avait été établi. Il s'agissait d'une société à numéro, soit la 95, a-t-il dit. Il a déclaré qu'il n'avait pas investi dans la 95 et que Licensing Inc. et Courtney Café Inc. n'avaient pas investi non plus dans la 95. En parlant de l'appelant, il a dit :
+[TRADUCTION]
+C'était sa société personnelle.
+[57] Il a dit que l'appelant estimait que, d'un point de vue commercial, c'était une belle occasion pour lui de devenir propriétaire exploitant du restaurant, en tant que franchisé.
+[58] On a renvoyé M. Beeson à une lettre en date du 16 février 2000 écrite sur du papier à en-tête de Cheesecake Café et adressée à la Banque Canadienne Impériale de Commerce de Victoria. Cette lettre avait été signée par M. Beeson au nom de Cheesecake Café Licensing Inc. et de Courtney Café Inc. Elle se lit comme suit :
+[TRADUCTION]
+Je crois comprendre que vous rencontrez Dale Colbran aujourd'hui.
+M. Colbran est notre nouveau franchisé, sa société est notre nouveau sous-locataire, et il vous rencontre aujourd'hui en cette qualité.
+Si je peux vous être utile en ce qui concerne vos discussions, veuillez me le faire savoir.
+[59] Il a dit que l'appelant lui avait demandé de rédiger cette lettre pour qu'il puisse l'apporter à la banque :
+[TRADUCTION]
+[...] Parce qu'il essayait de reprendre le financement de Jody Shoure ou d'obtenir son propre financement pour rembourser le prêt de Jody Shoure[3].
+M. Beeson a dit :
+[TRADUCTION]
+Eh bien, c'était la lettre que Dale avait demandée. Je veux dire qu'il allait là en tant que franchisé; ce n'était pas comme représentant de Licensing qu'il allait là pour avoir le financement.
+[60] L'avocat de l'intimée a posé plusieurs questions à M. Beeson en utilisant le mot « franchisé » au sujet de l'appelant.
+[61] M. Beeson a témoigné qu'au cours de la période allant du 16 février au 4 juillet 2000 :
+[TRADUCTION]
+[...] le restaurant a continué d'être exploité, les rentrées d'argent sont allées dans le compte bancaire de la société de M. Colbran qui avait été ouvert, et les employés étaient embauchés et payés par cette société.
+[62] Interrogé quant à savoir qui était la personne « derrière la 95 » , M. Beeson a répondu que c'était Dale Colbran. Il a ensuite dit qu'il savait que l'appelant parlait à d'autres investisseurs, mais il a déclaré :
+[TRADUCTION]
+Autant que je sache, personne ne s'est manifesté.
+[63] M. Beeson a dit que, durant la période pertinente, le commerce n'était pas exploité par Licensing ni par Courtney Café Inc. Il a également dit que l'appelant avait engagé un avocat pour que ce dernier travaille au contrat de sous-location. Il a ensuite dit qu'il leur avait donné une copie du bail principal et que l'avocat avait apporté des modifications. Il a poursuivi en disant qu'il était à l'étranger et que, lorsque le document lui avait été envoyé par télécopieur, il l'avait signé et renvoyé; il a ajouté : « toutefois, je n'ai rien eu en retour. » Il a dit que l'avocat en question était Me Ross. Il a ensuite dit que c'était Me Ross qui, au nom de la 95, lui avait envoyé par télécopieur le contrat de sous-location. M. Beeson a ensuite répété qu'il avait signé le contrat de sous-location et qu'il l'avait renvoyé à Me Ross, puis il a dit :
+[TRADUCTION]
+Une copie signée par la 95 devait nous être remise, mais cela n'a jamais été fait.
+[64] M. Beeson a dit qu'il ne s'était jamais renseigné sur le fait qu'ils n'avaient pas ce document. Il a dit ensuite qu'il pensait que c'était presque deux mois plus tard qu'il avait commencé à demander une copie de ce document. Il a également dit qu'il n'avait pas demandé à Me Ross ou à l'appelant pourquoi la 95 n'avait pas signé le document.
+[65] M. Beeson a dit que le restaurant continuait d'être exploité et qu'il négociait avec le locateur parce que les Shoure n'avaient pas payé le loyer dû pour février quand ils étaient partis. M. Beeson a dit qu'il parlait à l'appelant « tous les jours » au sujet du restaurant de Victoria et au sujet des responsabilités de l'appelant envers Licensing. Il a dit ensuite :
+[TRADUCTION]
+Vers le milieu de mars, il a simplement été décidé que M. Colbran cesserait de travailler pour Licensing mais continuerait d'être le franchisé à Victoria.
+[66] Interrogé par l'avocat de l'intimée quant à savoir qui continuait de s'occuper de la gestion globale, M. Beeson a répondu que c'était l'appelant, en tant que franchisé.
+[67] M. Beeson a ensuite traité de discussions qu'il avait avec l'appelant quant à savoir comment ils essaieraient de faire en sorte que le locateur coopère, renonce à une partie du loyer et assure au restaurant de meilleures chances de succès. Il a dit que c'était lui qui avait la plupart des discussions avec le locateur et que l'appelant s'occupait de la banque et des fournisseurs. Interrogé quant à savoir en quelle qualité l'appelant participait à ces discussions, M. Beeson a répondu :
+[TRADUCTION]
+En sa qualité de dirigeant de la 95 et du restaurant.
+[68] Il a dit qu'il menait des négociations avec le locateur en tant que président de Courtney, qui avait conclu le bail principal avec le propriétaire de l'immeuble. M. Beeson a ensuite témoigné qu'un arrangement avait été conclu avec le locateur de sorte que les paiements de loyer s'étalent sur une certaine période et que, toutefois, la 95 n'avait jamais fait de paiement à cet égard. Il a ensuite dit que l'appelant devenait « très belliqueux au sujet du paiement » . Il a expliqué cela en disant qu'il avait accusé l'appelant de prendre tous les revenus du restaurant pour son propre usage. M. Beeson a également dit qu'il ne recevait pas d'états financiers de la 95. M. Beeson a ensuite reconnu une lettre à l'attention de l'appelant en date du 2 mai 2000 écrite sur du papier à en-tête de Cheesecake Café, laquelle lettre se lit comme suit :
+[TRADUCTION]
+J'ai reçu de Tannis Brown et Anne Troyer un message téléphonique très troublant. Anne me dit qu'elle a découvert que vous aviez « liquidé » le compte bancaire de la société qui devait servir à payer les charges salariales et d'autres frais. Elle me dit également que vous avez dit que vous allez laisser les chèques de paye sans provision à moins qu' « un arrangement avec nous soit conclu d'ici la fin de la journée » .
+Je tiens à préciser que notre société et le locateur n'ont rien fait qui puisse expliquer que vous agissiez de la sorte. Le locateur a coopéré en différant trois mois de loyer, et nous avons renoncé aux redevances et avancé le fonds de publicité durant la même période. Aucun avis de résiliation n'a été envoyé à votre société jusqu'à maintenant, malgré le fait que vous avez omis de payer le loyer ce mois-ci.
+Il n'y a rien de différent aujourd'hui par rapport à ce qu'il en a été pendant les trois derniers mois. Vous avez fixé un délai parce que cela convient à vos fins.
+La lettre était signée par M. Beeson en tant que président de Courtney Café Inc.
+[69] L'avocat de l'intimée a produit une copie d'une lettre à la 95 et à Dale Colbran en date du 2 mai 2000 écrite sur du papier à en-tête de Cheesecake Café et signée par R. F. Beeson au nom de Courtney Café Inc., laquelle lettre se lit comme suit :
+[TRADUCTION]
+Le locateur m'a informé que le loyer à payer le 1er mai 2000 n'a pas été payé.
+La présente lettre est un avis de manquement aux obligations prévues dans le contrat de sous-location. Si vous ne payez pas intégralement cette dette dans les huit (8) jours suivant la réception du présent avis, il est possible que, sans autre préavis, nous prenions des mesures en vertu du contrat de sous-location.
+De plus, l'omission de payer le loyer du 1er mai 2000 est un manquement en vertu de la convention concernant un loyer en souffrance, et le loyer pour février, mars et avril 2000 doit être payé maintenant.
+Le loyer doit être payé au soussigné; veuillez envoyer le paiement aux soins de McLennan Ross, avocats, bureau 600, 12220, chemin Stony Plain, Edmonton (Alberta) T5N 3Y4, à l'attention de C. P. Russell.
+[70] M. Beeson a déclaré au cours de son témoignage :
+[TRADUCTION]
+La société à numéro devait payer le loyer.
+[71] M. Beeson a ensuite témoigné que son avocat lui avait conseillé d'envoyer un deuxième avis et il a produit une copie d'une lettre de Cheesecake Café à la 95 en date du 5 mai 2000 signée par lui au nom de Courtney Café Inc. Cette lettre se lit comme suit :
+[TRADUCTION]
+Le locateur m'a informé que le loyer à payer le 1er mai 2000 n'a pas été payé.
+La présente lettre est un avis de manquement aux obligations prévues dans le contrat de sous-location. Si vous ne payez pas intégralement cette dette dans les huit (8) jours suivant la réception du présent avis, il est possible que, sans autre préavis, nous prenions des mesures en vertu du contrat de sous-location.
+De plus, l'omission de payer le loyer du 1er mai 2000 est un manquement en vertu de la convention concernant un loyer en souffrance, et le loyer pour février, mars et avril 2000 doit être payé maintenant.
+Le loyer doit être payé au soussigné; veuillez envoyer le paiement aux soins de McLennan Ross, avocats, bureau 600, 12220, chemin Stony Plain, Edmonton (Alberta) T5N 3Y4, à l'attention de C. P. Russell.
+[72] Il a témoigné qu'il espérait que le loyer du 1er mai soit payé pour que soit maintenue la solution de compromis acceptée par le locateur relativement au loyer. Il a dit :
+[TRADUCTION]
+Eh bien, l'obligation incombait à la 95. C'était eux qui exploitaient le restaurant, et la société qui avait le bail principal n'avait pas d'actifs; elle n'avait pas de revenu.
+[73] M. Beeson a dit que Cheesecake Café Licensing Inc. était le franchiseur à l'époque et que le locataire était Courtney Café, dont le seul actif était le bail. Il a dit :
+[TRADUCTION]
+Nous avions signé un contrat de sous-location avec la 95, qui exploitait le restaurant.
+[74] L'avocat de l'intimée a ensuite produit une copie d'une lettre en date du 16 mai 2000 à Tillyard & Partners, à l'attention de Michael Hartnett, qui n'était pas signée par M. Beeson mais sur laquelle figurait le nom de M. Beeson en tant que représentant de Courtney Café Inc. M. Beeson a témoigné que M. Hartnett était président de Tillyard & Partners, la société qui gérait l'immeuble. Cette lettre se lit comme suit :
+[TRADUCTION]
+Voici comment je comprends l'arrangement conclu cet après-midi.
+1. Nous passerons à une location au mois, ce qui nous donnera du temps pour déterminer les modalités d'un nouveau bail, y compris un calendrier en vertu duquel le loyer en souffrance vous sera payé d'ici l'automne.
+2. Notre sous-locataire aurait droit à une location à discrétion, pourvu que le loyer soit payé à temps hebdomadairement, et ce, à partir de maintenant. Le loyer peut vous être payé directement par notre sous-locataire, mais nous voulons être informés de tout manquement de notre sous-locataire à l'obligation de payer le loyer comme convenu.
+3. Je crois comprendre que Craig Beveridge établira les documents, mais je voudrais que notre avocat les examine pour veiller à ce qu'il n'y ait rien qui nous lie à notre sous-locataire.
+4. Je crois également comprendre que Craig Beveridge est en train d'apporter des modifications au bail existant, lesquelles modifications formeraient la base du nouveau bail et nous seraient envoyées après avoir été examinées par vous.
+Je crois que c'est la meilleure solution, par rapport à la situation actuelle, pour veiller à ce que le restaurant reste ouvert et à ce que vous receviez le loyer.
+[75] M. Beeson a dit que M. Colbran avait accepté cet arrangement. Il a dit ensuite :
+[TRADUCTION]
+Je ne pense pas que la 95 nous ait envoyé quelque document à ce sujet.
+[76] M. Beeson a ensuite fait référence à une copie d'une lettre en date du 17 mai 2000 de Tillyard Management Inc. à Cheesecake Café, à l'attention de Bob Beeson, signée par Tim Hill, le gestionnaire de Tillyard qui était sur place à Victoria. Cette lettre se lit comme suit :
+[TRADUCTION]
+J'ai été chargé de répondre à votre lettre du 16 mai 2000, dont j'ai discuté avec Michael Hartnett.
+Concernant le point no 1, nous sommes disposés à envisager une location au mois à certaines conditions, mais il faudrait que vous ayez l'entière coopération de votre sous-locataire à cet égard. Ces arrangements seraient votre responsabilité, car nous n'entendons pas traiter directement avec votre sous-locataire. C'est avec Courtney Café Inc. que nous avons conclu un bail.
+Nous avons des préoccupations quant au point no 2 et suggérons que la responsabilité de confirmer si votre locataire paie ou non le loyer hebdomadairement incombe au garant du bail. Nous sommes disposés à recevoir le loyer directement du sous-locataire, mais nous n'allons pas devenir un intermédiaire dans vos négociations. Vous devriez être au courant des activités de votre locataire avant que nous n'ayons à jouer un rôle relativement à la période de préavis.
+Au troisième paragraphe de votre lettre, vous dites : « [...] pour veiller à ce qu'il n'y ait rien qui nous lie à notre sous-locataire [...] » . Cela nous semble vague et inacceptable. Il ne semble y avoir aucun engagement de votre part quant aux actes de votre sous-locataire.
+Pour ce qui est du point no 4, sachez que, avant que Craig Beveridge puisse commencer à rédiger de nouvelles versions ou des versions révisées des documents relatifs au bail, vous devez nous confirmer que vous avez l'entière coopération de votre sous-locataire actuel, Dale Colbran, ou de tout autre groupe intéressé à cet égard.
+Je confirme en outre que, cet après-midi, j'ai reçu un autre appel de Dale Colbran, qui voulait de l'information au sujet de la position du locateur. Il est à noter que je lui ai dit que, à partir de maintenant, les directives quant à l'exploitation et à la gestion du restaurant viendront de vous.
+Vous voudrez bien nous envoyer aujourd'hui par télécopieur les détails relatifs à ces arrangements.
+[77] M. Beeson a ensuite dit :
+[TRADUCTION]
+Le locateur m'a dit que M. Colbran essayait continuellement de les amener à résilier leur bail avec Courtney et à conclure un bail directement avec lui; de plus, nous avons eu une réunion en mai à Calgary avec les franchisés, qui m'ont dit que M. Colbran leur avait suggéré de ne pas payer leurs redevances aux sociétés.
+[78] M. Beeson a également dit qu'il était régulièrement en contact avec M. Colbran et que, toutefois, leur relation n'était pas « très bonne » . Une lettre de Cheesecake Café à la 95 en date du 26 mai 2000 signée par M. Beeson pour Courtney Café Inc. disait :
+[TRADUCTION]
+Malgré notre dernier avis, vous n'avez pas payé le loyer. Votre tenance à bail selon le contrat de sous-location du 17 février 2000 concernant le 910, rue Government, Victoria (Colombie-Britannique), est par la présente résiliée sur-le-champ.
+[79] Dans une autre lettre portant cette date, on exigeait que la 95 vide les lieux, mais on ajoutait que, si elle souhaitait rester en possession des locaux, un arrangement de location à discrétion serait possible.
+[80] M. Beeson a déclaré que, en juin 2000, la 95 dirigeait encore le restaurant. Il a déclaré que M. Colbran se présentait encore comme agissant au nom de la 95. Il a dit en outre :
+[TRADUCTION]
+Nous considérions la 95 comme étant le franchisé.
+[81] Il a également dit qu'il croyait qu'ils avaient reçu des dates précises quant à savoir quand M. Colbran quitterait la place. Il a ensuite déclaré qu'ils avaient obtenu un nouveau franchisé, à savoir Jim Timourrian. Il a dit que ni lui ni M. Timourrian n'avaient eu quoi que ce soit à voir dans l'acquisition d'une participation dans la 95. Il a dit également que ni Licensing ni Courtney Café n'avaient les clés des locaux situés au 910, rue Government. Il a déclaré que les redevances sur des ventes au restaurant qu'ils avaient pu établir étaient d'environ 60 000 $.
+[82] L'intimée a ensuite produit une copie d'une lettre en date du 6 octobre 2000 de Charles P. Russell, avocat pour le groupe de sociétés appelé Cheesecake Café, à Dale Colbran. Cette lettre disait que M. Colbran avait exploité le restaurant du 11 février au 3 juillet 2000, période durant laquelle il était obligé de payer au client de Me Russell des redevances, etc. On y alléguait que, malgré les engagements qu'il avait pris envers le client de Me Russell, M. Colbran avait omis de payer une somme totale de 112 681,13 $ représentant des loyers, des frais relatifs aux aires communes ou des taxes. De plus, cette lettre disait que M. Colbran avait omis de payer les gestionnaires et les employés du restaurant, ainsi que des charges sociales et des cotisations relatives à l'indemnisation des accidents du travail, ce qui représentait en tout 59 535,72 $. Puis, dans cette lettre, on menaçait d'intenter une action contre M. Colbran et la 95. M. Beeson a témoigné qu'il n'avait pas reçu de réponse à cette lettre.
+[83] L'intimée a ensuite produit une copie d'un contrat décrit comme étant un « contrat type » . M. Beeson a déclaré qu'il n'avait pu trouver une copie d'un contrat de franchisage expressément établi pour la 95. M. Beeson a également témoigné qu'il était l'administrateur de Courtney Café Inc., laquelle était, pendant la période en cause, responsable du bail relatif au 910, rue Government.
+[84] Lors du contre-interrogatoire, M. Beeson a déclaré qu'il n'avait jamais reçu de M. Colbran un contrat de franchisage signé par M. Colbran ou une société liée à ce dernier. M. Beeson a dit qu'il reconnaissait que Pearlman & Lindholm était le cabinet juridique représentant M. Colbran et la 95. M. Beeson a ensuite nié que lui ou ses représentants aient exploité le Cheesecake Café au cours de la période en question.
+[85] L'appelant a ensuite présenté une copie de la lettre du 4 mai 2000, précitée, qu'il avait écrite à M. Beeson concernant la franchise qui a échoué, lettre dans laquelle il disait :
+[TRADUCTION]
+Il s'agit de votre commerce, et Courtney Café est le locataire. [...]
+Vous me devez actuellement plus de 60 000 $ d'honoraires, et je ne peux plus continuer à agir comme consultant.
+M. Beeson a dit qu'il ne pensait pas avoir déjà vu cette lettre auparavant.
+[86] L'échange suivant a eu lieu entre l'appelant et M. Beeson lors du contre-interrogatoire mené par l'appelant :
+[TRADUCTION]
+Q. Est-ce que je pouvais ou aurais pu exploiter une entreprise à cet endroit sans un contrat de franchisage ou sans un contrat de sous-location? Est-ce que j'avais le pouvoir de faire cela personnellement en tant que mandataire de Cheesecake Café Licensing? Est-ce que j'avais le pouvoir d'exploiter un Cheesecake Café à cet endroit?
+R. Eh bien, nous vous avions envoyé... j'avais signé le contrat de sous-location, je l'avais envoyé à votre avocat et je vous avais livré les conventions de franchisage.
+Q. Monsieur Beeson...
+R. Cela ne m'a pas été renvoyé.
+Q. Nous n'avons pas établi cela. Il n'y a pas de contrat de sous-location et il n'y a pas de document signé; veuillez donc ne pas en parler comme s'il y en avait. Ma question était simplement la suivante : est-ce que j'avais le droit d'exploiter un Cheesecake Café à cet endroit sans un contrat de sous-location et sans un contrat de franchisage? Est-ce que j'avais le droit de faire cela? Veuillez répondre par oui ou non. Oui ou non?
+R. Je ne sais pas si c'est une question à laquelle on peut répondre par oui ou non.
+Q. Répondez par oui ou non. Est-ce que j'avais le droit de le faire?
+[...]
+R. Eh bien, j'estimais que nous avions fait notre part. Nous avions négocié et signé le contrat de sous-location et nous avions rédigé et expédié le contrat de franchisage. Le fait que ces documents ne nous ont jamais été renvoyés était assurément indépendant de notre volonté. Cela relevait de M. Colbran.
+[...]
+Q. Donc, est-ce que j'avais le pouvoir d'exploiter une entreprise à cet endroit sans ces contrats?
+R. Que vous en ayez eu le pouvoir ou non, vous l'avez fait.
+Q. Monsieur Beeson, vous ne répondez pas à ma question. Est-ce que Licensing m'avait donné le pouvoir de procéder à l'exploitation sans cela?
+R. Eh bien, vous vous êtes accordé ce pouvoir, Dale.
+Q. Monsieur Beeson, veuillez vous contenter de répondre à la question.
+R. Je crois que j'y ai répondu.
+[87] L'échange suivant a également eu lieu :
+[TRADUCTION]
+M. LE JUGE : Monsieur Beeson, il y a quelque chose dont je ne suis pas certain à propos de votre témoignage. Je crois comprendre qu'à un moment donné vous ou votre société - Licensing ou une autre - avez retenu les services de M. Colbran pour la gestion du restaurant.
+R. Non. Il était notre directeur de l'exploitation, monsieur le juge - pour Licensing.
+M. LE JUGE : Mais je me rappelle avoir lu que vous aviez besoin de l'aide de quelqu'un ayant une certaine expertise dans le domaine de la restauration; est-ce exact?
+R. Oui, et il s'est joint à nous.
+M. LE JUGE : Veuillez simplement me dire comment l'affiliation de M. Colbran a eu lieu.
+R. J'avais laissé partir notre précédent directeur de l'exploitation et je cherchais quelqu'un; j'avais déjà rencontré M. Colbran un certain nombre de fois, par l'intermédiaire d'amis communs, et j'avais découvert qu'il était disponible, qu'il cherchait du travail; j'ai eu un certain nombre d'entretiens avec lui et finalement, en mars 1999, il s'est joint à nous pour s'occuper des opérations de restaurant.
+M. LE JUGE : Où?
+R. Eh bien, il travaillait à partir de Calgary, d'où il se rendait dans les restaurants en Alberta et en Colombie-Britannique.
+M. LE JUGE : Non. Nous parlons d'un seul restaurant ici, n'est-ce pas?
+R. Non. Nous avons un groupe de restaurants.
+M. LE JUGE : Nous parlons dans ce cas-ci d'un seul restaurant et non d'un groupe de restaurants.
+R. Oui.
+M. LE JUGE : Il jouait donc un rôle concernant ce restaurant? Peu importe les autres restaurants pour l'instant.
+R. Ce restaurant était un de ceux dont il s'occupait.
+M. LE JUGE : Et ce restaurant était le Cheesecake Café?
+R. De Victoria. C'étaient tous des Cheesecake Café, monsieur le juge.
+M. LE JUGE : Mais il n'y a pas de problème pour ce qui est des autres.
+R. Quotidiennement.
+M. LE JUGE : Je veux dire dans l'affaire qui nous occupe. Je ne me soucie pas de savoir ce qui est arrivé dans le cas des autres restaurants. Ce n'est pas pertinent. Bon, et quelle était sa mission à l'égard de ce restaurant?
+R. Au départ, Dale donnait des conseils aux franchisés concernant la façon de maintenir la rentabilité des restaurants, concernant la manière de fournir un bon service, concernant la propreté, etc.; il se déplaçait. Une grande partie de son travail consistait à aller dans les divers restaurants donner ces conseils aux franchisés et [...]
+M. LE JUGE : Quand a-t-il cessé de s'occuper d'une manière générale de restaurants Cheesecake pour s'occuper de ce que vous avez précisément décrit au sujet du restaurant de Victoria?
+R. Eh bien, il a continué à s'occuper de cela jusqu'en mars, monsieur le juge.
+M. LE JUGE : Il a continué à s'occuper de quoi?
+R. Il a continué à jouer le rôle que je viens de décrire...
+M. LE JUGE : Oui.
+R. ...concernant tous les restaurants jusqu'à ce que, en mars 2000, il cesse de travailler pour nous; mais, en plus de cela, il est devenu propriétaire du restaurant de Victoria en février.
+M. LE JUGE : En bref, comment est-ce arrivé?
+R. Le franchisé qui avait ouvert ce restaurant l'a vendu à la fin de 1999 à une certaine Jodie Shore (transcription phonétique). Cette dernière et son mari ont eu immédiatement des problèmes conjugaux et Mme Shore a essentiellement abandonné le restaurant et l'a cédé à son mari, qui n'allait pas jouer un rôle dans l'entreprise; c'était vraiment une situation désespérée. Il ne comprenait vraiment pas quoi que ce soit au sujet de l'entreprise de restauration et nous estimions que nous avions réussi jusqu'à un certain point à le convaincre d'essayer de vendre le restaurant, mais ça n'arrivait pas.
+M. LE JUGE : Oui, et puis...
+R. Et, un jour, il a abandonné le restaurant; il a mis un avis indiquant qu'il fermait tout simplement le restaurant.
+M. LE JUGE : Et?
+R. Et, environ cinq jours avant, nous avions une petite idée, M. Colbran et moi, que cela allait probablement arriver; M. Colbran reconnaissait que c'était probablement une belle occasion, financièrement, d'acquérir à très bas prix un restaurant qui avait beaucoup de potentiel. Car, fondamentalement, les Shore, en abandonnant le restaurant, abandonnaient un investissement qui était...
+[...]
+R. M. Colbran... le restaurant est resté fermé pendant une journée ou une journée et demie, je crois, puis la société de M. Colbran a entrepris l'exploitation en tant que franchisé. Nous avons dû faire des pieds et des mains pour que le restaurant rouvre.
+M. LE JUGE : Vous soutenez qu'il s'occupait de l'exploitation en tant que franchisé et, manifestement, il soutient que tel n'était pas le cas; donc, nous traiterons plus tard de la preuve qui a été présentée; toutefois, si je ne m'abuse, vous soutenez que, à partir de cette date, il a été un franchisé.
+R. Oui, jusqu'au...
+M. LE JUGE : Jusqu'au 4 juillet.
+R. Oui, c'est exact.
+M. LE JUGE : Qu'est-il arrivé?
+R. Il a remis les clés du restaurant, à la société de M. Timourrian.
+M. COLBRAN : Monsieur le juge, je n'ai jamais eu les clés.
+OBSERVATIONS DE L'APPELANT
+[88] L'appelant a déclaré qu'il n'avait pas l'intention d'être un administrateur tant que toutes les conditions spécifiées n'étaient pas remplies. Il a dit qu'il n'y avait « aucun contrat de franchisage en place » et qu'il n'y avait « aucune propriété d'actifs » . Il a dit qu'il n'y avait pas de contrat de sous-location relatif aux locaux et qu'il n'était pas un résident de la Colombie-Britannique.
+[89] Il a également dit que la date d'inscription d'un administrateur du 20 juillet était « suspecte » , ayant déclaré que le cabinet juridique avait, le 20 juillet 2000, enregistré le document dans lequel il était nommé administrateur. Il a dit que cela avait été fait « clairement après coup » . Il a déclaré que le cabinet Pearlman & Lindholm représentait le locateur et s'occupait de l'administration de la 95 et que c'était dans leur intérêt et dans celui de M. Beeson de veiller à ce que l'exploitation se poursuive.
+[90] L'appelant a dit que le cabinet Pearlman & Lindholm représentait le locateur et il a déclaré :
+[TRADUCTION]
+Il est manifeste qu'il y a là un conflit d'intérêts. Ils ne pouvaient... je ne pouvais faire de la sous-location dans un bureau où je suis le client de Pearlman & Lindholm. Je pense que cela viole les règles de la Law Society, auprès de laquelle j'ai déposé une plainte officielle contre Pearlman & Lindholm. Il a été établi que, par l'intermédiaire de Courtney Café et de Cheesecake Café Licensing, Bob Beeson était responsable du 910, rue Government, ainsi que du bail y afférent, et qu'il était entièrement responsable de toutes les opérations quotidiennes. [...]
+[91] L'appelant a dit que le contrat de sous-location n'avait jamais été accepté ou signé par qui que ce soit. Au sujet du témoignage de M. Beeson concernant la communication avec l'appelant, ce dernier a dit :
+[TRADUCTION]
+M. Beeson a déclaré qu'il avait eu plusieurs conversations avec moi. M. Beeson ne m'a pas parlé pendant les quatre derniers mois où j'ai... je n'ai jamais eu une conversation avec lui. [...] Je n'ai eu aucune conversation avec M. Beeson à partir de mars et je pense qu'Anne et Amy confirmeront cela. Il parlait par l'intermédiaire de... il leur donnait des directives, ne rappelait jamais si j'essayais de le joindre; il ne rappelait jamais.
+[92] L'appelant a répété qu'il n'y avait pas de contrat de franchisage en place. L'échange suivant a eu lieu au sujet du contrat de franchisage :
+[TRADUCTION]
+M. LE JUGE : M. Beeson n'a-t-il pas témoigné qu'il l'avait signé et qu'il vous l'avait envoyé?
+M. COLBRAN : C'est ce qu'il a dit au cours de son témoignage, oui.
+M. LE JUGE : Eh bien, ce document ne lui a pas été renvoyé.
+M. COLBRAN : Ce document ne lui a pas été renvoyé parce qu'ils ne l'ont jamais envoyé, et je n'aurais pas accepté ce document.
+M. LE JUGE : Voulez-vous dire - je n'ai pas vérifié le témoignage à ce sujet - que vous ne l'avez pas reçu?
+M. COLBRAN : Je n'ai reçu absolument aucune documentation; je suis formel là-dessus.
+M. LE JUGE : Non, telle n'est pas ma question. Vous n'avez pas reçu d'eux un contrat de franchisage?
+M. COLBRAN : Je n'ai pas reçu d'eux un contrat de sous-location ou un contrat de franchisage. Monsieur le juge, je suis catégorique là-dessus. Bien que ceci n'ait guère été allégué, ma dernière observation est la suivante : le témoin de la Couronne manque absolument de crédibilité par rapport à l'ADRC, et, lorsque j'étais vice-président de l'exploitation, j'ai remarqué un tel mode de comportement accepté dans leurs sociétés d'exploitation.
+[93] L'appelant a dit ensuite :
+[TRADUCTION]
+J'essaie de faire valoir qu'il était dans l'intérêt de M. Beeson de faire en sorte que l'ADRC s'en prenne à moi, car il bénéficierait de redevances, et l'entreprise survivrait. Donc, au lieu d'assumer la responsabilité de payer intégralement l'ADRC, il a mis cela sur mon compte par l'intermédiaire... de l'entreprise. Après tout, il a alerté l'ADRC.
+[94] Il a également dit, au sujet du 20 juillet :
+[TRADUCTION]
+Eh bien, le poste d'administrateur a été attribué sans ma permission, et il est curieux qu'il ait été attribué sans ma permission et sans témoin. [...] Certes, un avis d'administrateur a été déposé le 20 juillet, mais pourquoi? Il me semble évident que c'était pour essayer de faire en sorte que je sois tenu pour responsable. [...]
+Je ne sais pas exactement qui a déposé cet avis, mais je présume que c'est quelqu'un du cabinet Pearlman & Lindholm.
+[95] Il a ensuite dit qu'il avait été un représentant de M. Beeson pour commencer, puis un représentant du locateur, pour essayer de maintenir l'exploitation de l'entreprise. Il a dit :
+[TRADUCTION]
+Au cours de réunions avec le locateur et Tillyard Management, ils m'ont demandé de rester comme consultant pour essayer de tirer le meilleur parti possible de la situation, de sorte que M. Beeson [...]
+Puis l'échange suivant a eu lieu :
+[TRADUCTION]
+M. LE JUGE : Eh bien, vous avez dit que vous aviez été un représentant de M. Beeson pour commencer. Avez-vous cessé d'être un représentant de M. Beeson au cours de cette période?
+M. COLBRAN : C'était plutôt ambigu lorsqu'est arrivée une lettre disant que je ne travaillais plus pour Cheesecake Café.
+M. LE JUGE : Quelle lettre est arrivée?
+M. COLBRAN : Une lettre qui a été déposée en preuve et qui disait que je ne travaillais plus pour Cheesecake Café. Ce qu'ils n'indiquent pas, c'est qu'il n'y a pas eu de paiement final. Ils avaient la responsabilité de me faire un paiement final.
+[96] L'appelant a subséquemment déclaré qu'il n'avait pas autorisé le dépôt du document disant qu'il était nommé administrateur. Il a dit ensuite :
+[TRADUCTION]
+Depuis, j'ai, évidemment, déposé une demande de renseignements et une plainte auprès de la Law Society de la Colombie-Britannique et j'ai en outre examiné la question de savoir comment un avocat poursuit un autre avocat, pour voir s'il est possible qu'un cabinet juridique de Victoria poursuive un autre cabinet juridique; donc, j'ai examiné cela.
+OBSERVATIONS DE L'INTIMÉE
+[97] L'avocat de l'intimée a fait référence à l'affaire Wheeliker c. R., [1999] 3 C.F. 173 (99 DTC 5658). Voici ce qu'il soutenait :
+[TRADUCTION]
+[...] l'affaire qui est peut-être la plus pertinente par rapport à la présente espèce est l'affaire Wheeliker, car, dans cette affaire, il y a eu, relativement à la nomination de l'administrateur, une irrégularité qui est semblable à celle qui a été commise dans la présente espèce : la loi de la Colombie-Britannique intitulée Business Corporation Act spécifie clairement qu'une personne doit être un résident de la province de Colombie-Britannique pour être un administrateur, et il est clair que, durant la période en cause, M. Colbran n'était pas un résident de la province de Colombie-Britannique.
+[98] L'avocat de l'intimée a répété que, dans l'affaire Wheeliker, il y avait eu une irrégularité dans la nomination. Il a poursuivi en disant que l'intimée soutient que l'appelant était non pas un administrateur de droit, mais un administrateur de fait. Il a ajouté :
+[TRADUCTION]
+La question des administrateurs de fait est le seul point sur lequel je tiens particulièrement à attirer votre attention relativement à l'affaire Wheeliker. Tout comme dans la présente espèce, il y avait eu une irrégularité dans la nomination, et la Cour a examiné la question des administrateurs de fait; une personne peut être considérée comme un administrateur de fait. C'est en réalité la seule raison pour laquelle je cite l'affaire Wheeliker.
+[99] L'avocat a ensuite fait référence à l'affaire McDougall c. R., C.C.I., n ° 2000-346(IT)I, 15 novembre 2000 (2001 DTC 1). Voici ce qu'il soutenait :
+[TRADUCTION]
+[...] Le juge Beaubier a insisté sur les faits suivants : a) l'administrateur présumé était une personne qui s'y connaissait en affaires; b) il était essentiellement au courant des problèmes financiers de la scierie en cause dans cette affaire; c) il était signataire autorisé relativement aux comptes bancaires de la scierie.
+En fin de compte, toutefois, le particulier lui-même, M. McDougall, soutenait exactement la même chose que M. Colbran : il soutenait qu'il n'était ni un administrateur de droit ni un administrateur de fait.
+[100] L'avocat a ensuite soutenu qu'il était clair que l'appelant s'y connaissait beaucoup en affaires et qu'il oeuvrait beaucoup dans le domaine de la restauration. L'avocat a dit que l'appelant était signataire autorisé relativement « aux comptes bancaires et avait ouvert les comptes bancaires pour la 95 British Columbia Limited » .
+[101] En arguant que l'appelant ne s'était pas acquitté de la charge de la preuve qui lui incombait, l'avocat a dit au sujet de la souscription d'actions que c'était :
+[TRADUCTION]
+un consentement à agir comme administrateur, signé par M. Colbran [...] qui est allé chez les avocats et leur a donné pour instructions de faire en sorte que la société soit constituée; il était un actionnaire et un administrateur.
+[102] Au sujet du témoignage de l'appelant selon lequel ce dernier avait donné pour instructions aux avocats de ne pas déposer l'avis d'administrateurs, l'avocat de l'intimée a dit :
+[TRADUCTION]
+Je considère comme quelque peu suspecte la version des faits de M. Colbran. [...] Si les avocats avaient été clairement chargés de ne pas enregistrer le changement et de ne pas créer la société et s'ils avaient suivi ces instructions, cela aurait pu donner lieu à une poursuite en justice et cela aurait peut-être été considéré comme un comportement méritant une suspension de l'ordre des avocats, voire une radiation.
+[103] Puis l'échange suivant a eu lieu :
+[TRADUCTION]
+M. LE JUGE : D'accord. Mais vous laissez entendre qu'il a permis que cela soit fait une fois terminée la période considérée en l'espèce. Si vous dites que l'avocat n'aurait pas normalement enregistré cet avis, vous sous-entendez que l'appelant doit lui avoir dit de l'enregistrer.
+M. McDOUGALL : Oui.
+M. LE JUGE : Mais, une fois terminée la période considérée en l'espèce, pourquoi l'appelant aurait-il dit à l'avocat d'enregistrer l'avis? Cela n'a guère de sens à mon avis.
+M. McDOUGALL : Effectivement, cela n'a guère de sens.
+M. LE JUGE : Cela serait arrivé le 20 juillet, et la période considérée en l'espèce s'est terminée le 4 juillet.
+M. McDOUGALL : Oui. C'est l'un des grands mystères de ce procès.
+M. COLBRAN : Ce n'est pas un mystère pour moi.
+[104] L'avocat de l'intimée a ensuite dit que la Cour devrait tirer une conclusion négative du fait que Me Ross n'a pas été assigné à témoigner. Puis il a dit :
+[TRADUCTION]
+Le témoignage de Me Ross aurait en fait été contraire à celui de M. Colbran.
+[105] L'avocat de l'intimée a également dit que, M. Colbran étant un signataire autorisé relativement au compte bancaire de la 95, la banque « à un certain niveau doit avoir reconnu ou estimé que M. Colbran était un administrateur [...] » . L'avocat a ensuite fait référence à la lettre de M. Beeson à la Banque Canadienne Impériale de Commerce disant que l'appelant était un nouveau franchisé et qu'il était le sous-locataire de la société. Il a ensuite fait référence au témoignage de M. Beeson selon lequel ce dernier avait eu bien de la difficulté à « faire partir M. Colbran » . L'avocat a ensuite traité des tentatives de M. Beeson pour faire signer par l'appelant un contrat de franchisage et un contrat de sous-location. Il a dit qu'il ne pensait pas que quoi que ce soit dépende du fait qu'aucun contrat de sous-location n'a été signé.
+[106] L'avocat a fait mention de ventes estimatives de 1,2 million de dollars non assujetties à la TPS. Il a fait référence au témoignage de M. Beeson selon lequel aucune partie de cette somme n'était passée par des comptes bancaires contrôlés par M. Beeson. Il a ensuite dit :
+[TRADUCTION]
+Cet argent est passé par des comptes bancaires qui étaient contrôlés par la 95 B.C. Limited et qui étaient en définitive contrôlés par M. Colbran, soit des comptes sur lesquels certaines factures étaient payées et sur lesquels des dépôts et des retraits étaient faits. [...] M. Colbran avait le contrôle et était le responsable, de sorte qu'il aurait dû veiller à ce que les versements soient faits à l'ADRC.
+[107] L'avocat a également dit que M. Beeson était plus crédible que l'appelant.
+RÉPONSE DE L'APPELANT
+[108] L'appelant a dit :
+[TRADUCTION]
+Avec le bail principal et en l'absence d'un contrat de sous-location ou d'un contrat de franchisage, M. Beeson avait le droit d'intervenir le 18 février et d'exploiter l'entreprise comme mon témoin a dit qu'il le faisait. Quotidiennement, il était plus en contact que moi avec les gestionnaires. M. Beeson aurait pu n'importe quand exercer les droits que lui conférait le bail principal; pourquoi ne l'a-t-il pas fait? L'avocat a mentionné l'existence d'un accord verbal. Pour conclure un accord verbal, il faut se parler; c'est ainsi que je comprends le mot « verbal » ; or, il n'y a pas eu de conversation entre M. Beeson et moi. [...]
+Il n'y a pas eu de conversation sur quoi que ce soit au-delà du 1er mars. Ce que je veux dire, c'est que M. Beeson communiquait seulement par une foule de lettres, dont certaines ne parvenaient pas à destination. Cela n'avait pas d'importance pour lui parce que seule son opinion comptait.
+[109] L'appelant a en outre témoigné de nouveau qu'il y avait des témoins dans le bureau de Me Ross quand il a dit à Me Ross de ne pas déposer l'avis de nomination d'un administrateur tant que les conditions appropriées n'étaient pas remplies.
+ANALYSE ET CONCLUSION
+[110] Il était évident à l'audition du présent appel qu'il y avait de l'hostilité entre l'appelant et M. Beeson. J'en ai obtenu confirmation en lisant et en relisant la transcription. Pour que je me prononce sur la situation de fait, je dois évaluer la crédibilité de ces deux hommes. Il est à noter que M. Beeson a été le seul témoin de l'intimée et qu'il a comparu parce qu'on lui a signifié une assignation à cet effet.
+[111] Il ressort clairement du témoignage de l'appelant et de celui de M. Beeson que l'appelant avait été engagé par le groupe de M. Beeson pour fournir des services en matière d'exploitation concernant le Cheesecake Café de Victoria.
+[112] J'accepte le témoignage de l'appelant que, lorsqu'il a signé la souscription d'actions de la 95 et le CONSENTEMENT À AGIR COMME ADMINISTRATEUR, il a expressément donné pour instructions à Me Ross, l'avocat ayant créé la « société en veilleuse » , de ne pas utiliser ces documents tant qu'il n'était pas devenu un résident de la Colombie-Britannique et tant que d'autres conditions spécifiées par lui n'étaient pas remplies. Il n'est jamais devenu un résident de cette province. J'accepte son témoignage selon lequel les conditions n'ont pas été remplies. J'accepte également son témoignage selon lequel ce n'est pas lui qui a déposé l'avis d'administrateurs de la 95 indiquant qu'il avait été nommé administrateur et que Me Ross cessait d'être un administrateur, soit l'avis qui a été déposé et enregistré auprès du registraire des sociétés le 20 juillet 2000. M. Beeson n'a pas présenté de preuve à ce sujet.
+[113] J'accepte également le témoignage de l'appelant selon lequel il n'a pas signé de contrat de sous-location ni de contrat de franchisage. Le document qui a été décrit comme étant un contrat de sous-location signé par M. Beeson en tant que président de COURTNEY CAFÉ INC. et qui a été déposé par l'intimée n'a pas été signé par la 95. Ce document indique qu'il a été « établi le 17 février 2000 » , mais il n'indique pas la date à laquelle il aurait été signé par Courtney Café Inc.
+[114] Aucune preuve n'indique que l'appelant avait établi les arrangements bancaires pour la 95. En fait, l'appelant a témoigné qu'un autre gestionnaire avait ouvert le compte bancaire par l'intermédiaire de Pearlman & Lindholm. Il a dit que cet autre gestionnaire était Anne, ou Amy, qui ont toutes les deux témoigné, ou Tannis. J'accepte son témoignage selon lequel il n'avait pas ouvert ce compte et n'était pas allé à la banque. J'accepte sa déclaration selon laquelle il a signé et renvoyé les cartes de signature qui lui avaient été envoyées. J'accepte également son témoignage selon lequel il était signataire autorisé pour d'autres restaurants relativement auxquels il avait été engagé pour les mêmes fins que dans le cas du restaurant de Victoria.
+[115] L'appelant a dit que M. Beeson avait le contrôle des locaux et que tel n'était pas le cas de la 95, malgré le fait qu'elle exploitait le restaurant.
+[116] Le témoignage d'Anne Troyer était clair et crédible. Elle a dit que Me Ross était très précis quant aux procédures à suivre et qu'il était l'administrateur d'une société en veilleuse devant assurer le maintien de l'exploitation jusqu'à ce qu' « au bout d'une très brève période, espérait-on » , quelqu'un d'autre soit intéressé à prendre le contrôle du restaurant comme franchisé. J'accepte son témoignage selon lequel l'appelant s'apprêtait à ouvrir un Cheesecake Café à Lethbridge, puis à Calgary, de sorte qu'il serait absent du secteur de Victoria pendant un certain temps. J'accepte également son témoignage selon lequel « les décisions étaient toujours prises au siège social, par Bob Beeson » . Elle a déclaré qu'elle voyait un peu plus M. Beeson que l'appelant, car M. Beeson se rendait à Victoria pour essayer de conclure des arrangements avec le locateur. J'accepte son témoignage que, si elle avait un problème, elle parlait davantage à M. Beeson « car, en fin de compte, c'était lui le responsable, c'était lui qui prenait les décisions » . Elle a été claire au sujet de sa communication avec M. Beeson, comme l'indiquent les propos suivants qu'elle a tenus :
+[TRADUCTION]
+Donc, il est certain que, tous les jours et de nombreuses fois par jour, je parlais à Bob Beeson en ce qui avait trait aux situations et aux opérations.
+[117] J'accepte également le témoignage d'Amy Brennan, la directrice de l'exploitation de Cheesecake Café à Victoria. Elle a témoigné que Bob Beeson et Cheesecake Café étaient responsables des dettes contractées au cours de la période allant du 16 février au 4 juillet 2000. Elle a déclaré que les ordres venaient principalement de M. Beeson.
+[118] Au cours de son témoignage, M. Beeson parlait continuellement de la 95 comme étant un sous-bailleur et de l'appelant comme étant l'exploitant de la 95. Dans sa lettre du 16 février 2000 écrite sur du papier à en-tête de Cheesecake Café et adressée à la Banque Canadienne Impériale de Commerce de Victoria, il disait que l'appelant était « notre nouveau franchisé » et que la société de l'appelant était « notre nouveau sous-locataire » .
+[119] J'ai trouvé que l'appelant, qui entrait dans les détails, était plus crédible que M. Beeson, qui, sans donner de détails, cherchait à dépeindre l'appelant comme étant précisément un franchisé et un sous-locataire.
+[120] Mon interprétation des témoignages combinés de M. Beeson et de l'appelant est que l'appelant ne voulait nettement pas devenir un administrateur de la 95 et qu'il était intéressé à devenir un franchisé et à avoir un contrat de sous-location relatif aux locaux du restaurant mais à des conditions qui n'ont jamais été remplies. L'appelant voulait un arrangement concernant la franchise et les locaux mais ne voulait pas avoir à assumer d'obligations tant qu'il n'avait pas le statut qu'il recherchait.
+[121] Dans la lettre du 2 mai 2000 à l'attention de l'appelant, M. Beeson disait qu'il avait reçu « de Tannis Brown et Anne Troyer un message téléphonique très troublant » et il disait :
+[TRADUCTION]
+Anne me dit qu'elle a découvert que vous aviez « liquidé » le compte bancaire de la société qui devait servir à payer les charges salariales et d'autres frais.
+Anne Troyer a volontairement témoigné pour l'appelant. De plus, au sujet de l'assertion précitée, elle n'a pas été contre-interrogée par l'avocat de l'intimée. Par conséquent, je ne considère pas comme crédibles les observations formulées par M. Beeson dans cette lettre.
+[122] Bien que M. Beeson ait continuellement parlé de l'appelant comme étant son franchisé et comme étant l'exploitant de la 95 et bien que M. Beeson ait traité de la 95 comme étant un sous-locataire des locaux, il n'y a à l'appui de ces affirmations aucune preuve autre que de la correspondance liée aux négociations de M. Beeson concernant le bail. Le contrat de franchisage déposé comme pièce n'était qu'un contrat type et ne portait pas de signatures ni de dates. M. Beeson a même déclaré qu'il avait signé un contrat de sous-location, qu'il l'avait envoyé à Me Ross et que, toutefois, il n'avait pas reçu de copie signée par la 95, ajoutant qu'il pensait que c'était presque deux mois plus tard qu'il s'était rendu compte « qu'ils n'avaient pas ce document » . Il a également dit qu'il n'avait pas demandé à Me Ross ou à l'appelant pourquoi la 95 n'avait pas signé le document.
+[123] Je n'ai pas à déterminer qui était en fait l'exploitant ou le gestionnaire de la 95. De toute façon, il n'y a pas assez d'éléments de preuve selon moi pour déterminer cela. On n'a déposé en preuve aucun document indiquant que l'appelant agissait comme administrateur.
+[124] L'avocat de l'intimée n'a fait référence à l'affaire Wheeliker que pour établir qu'un administrateur de fait aurait la même responsabilité qu'un administrateur de droit. Il est toutefois à noter que, se fondant sur les faits de cette affaire, la Cour d'appel fédérale a conclu que M. Wheeliker et les autres appelants avaient tous agi comme administrateurs. Cette conclusion de fait a amené le juge Noel à faire référence à l'affaire MacDonald v. Drake, (1906) 16 Man. R. 220 (C.A. du Man.), à la page 223, où il est dit ce qui suit :
+[TRADUCTION]
+Je ne peux conclure qu'un administrateur qui a accepté d'être élu à ce poste et l'a exercé peut, du simple fait qu'il n'était pas éligible, échapper à la responsabilité qui lui échoirait autrement. Le principe en cause ici est qu'un homme ne peut tirer profit de sa propre faute.
+Le savant juge a dit ensuite :
+Comme il est avéré en l'instance que les intimés ont agi comme administrateurs selon la volonté des actionnaires, je ne vois pas pour quels motifs ils seraient autorisés à s'appuyer sur le fait qu'ils n'étaient pas éligibles pour échapper aux obligations imposées aux administrateurs par l'article 227.1 de la LIR.
+[125] Il n'y a pas de preuve dans la présente espèce que l'appelant était un administrateur, et l'on a simplement affirmé ou insinué - et non prouvé - que l'appelant agissait comme administrateur.
+[126] À l'appui de la thèse de l'intimée, l'avocat de l'intimée disait que la présente espèce avait « de grandes ressemblances avec l'affaire McDougall » . Une simple lecture du jugement McDougall n'indique toutefois aucune ressemblance sur le plan des faits. Dans cette affaire, c'était comme « administrateur » de la société que M. McDougall avait signé des états relatifs aux détails d'un compte à la Banque Royale du Canada, ainsi que la convention en matière de maintien de compte. Il avait également signé la page 5 du document comme « administrateur » et il avait signé la page 1 du document, qui disait qu'il avait été un administrateur de Columbia pendant un an. Il avait signé pour Columbia, en tant que seul signataire, divers chèques tirés sur le compte à la Banque de Nouvelle-Écosse et il autorisait pour la société des virements télégraphiques du compte de Calgary sur un autre compte. M. McDougall était inscrit comme administrateur de Columbia aux fins de la TPS. Il avait, en tant qu'administrateur, signé la déclaration de revenu produite par la société pour la fin de l'exercice 1996. Il avait signé l'entente fiscale entre les sociétés associées en tant qu'administrateur pour toutes les sociétés, y compris la société en cause dans cette affaire. La conclusion de fait rendue dans cette affaire indiquait qu'il était un administrateur et qu'il se présentait comme étant un administrateur à la Banque de Nouvelle-Écosse et à Revenu Canada. Cela est complètement différent de ce qu'il en est dans la présente espèce et cela n'a selon moi aucune valeur dans la détermination de la question en litige dans le présent appel.
+[127] Vu mes conclusions de fait énoncées ci-devant et vu la non-applicabilité des jugements faisant jurisprudence qui ont été cités à l'appui de la thèse de l'intimée, je conclus que l'appelant n'était pas un administrateur de droit de la 95 et qu'il n'en était pas non plus un administrateur de fait.
+[128] En conséquence, l'appel est accueilli.
+Signé à Ottawa, Canada, ce 20e jour de mars 2003.
+« R. D. Bell »
+J.C.C.I.
+Traduction certifiée conforme
+ce 23e jour de février 2005.
+Mario Lagacé, réviseur
+[1]
+Vraisemblablement un nouveau franchisé.
+[2] Il semble que l'avocat de l'intimée et l'appelant entendaient en fait utiliser le mot « sous-preneur » .
+[3]
+Jody Shoure était le franchisé précédent.

@@ -1,0 +1,90 @@
+Title: Avrams v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30877/index.do
+Corpus path: corpus/cases/tcc/2012/2012-tcc-247-30877-avrams-v-the-queen-en.md
+Document type: case_law
+Last modified: 2012-07-11
+
+# Avrams v. The Queen
+
+- Citation: 2012 TCC 247
+- Decision date: 2012-07-11
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7376, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Avrams v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2012-07-11
+Neutral citation
+2012 TCC 247
+File numbers
+2010-2144(IT)G
+Judges and Taxing Officers
+Valerie A. Miller
+Subjects
+Income Tax Act
+Decision Content
+Citation: 2012TCC247
+Date: 20120711
+Docket: 2010-2144(IT)G
+BETWEEN:
+JAMES AVRAMS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+(Delivered orally from the bench on July 11, 2012, in Toronto, Ontario.)
+V.A. Miller J.
+[1] On July 12, 2007, the Appellant was requested to file his income tax returns for the 2001 to 2006 taxation years (inclusive). He filed his returns on August 10, 2007; but the Minister of National Revenue (the “Minister”) assessed the Appellant on a net worth basis in accordance with subsection 152(7).
+[2] The issue in this appeal is whether the Appellant had unreported income of $34,339, $21,584, $26,114 and $43,573 in the 2003, 2004, 2005 and 2006 taxation years respectively.
+[3] The Appellant was the only witness at the hearing. He read a prepared statement and tendered no exhibits. The Respondent tendered a book of documents which contained, inter alia, the tax returns, the notice of objection and notices of reassessment.
+[4] In his income tax returns for the 2002, 2003, 2004, 2005 and 2006 taxation years, the Appellant reported gross income of $8,000, $9,017.26, $9,613.06, $9,286.09 and $10,004.53 respectively. The only deduction he reported was the payment of Canada Pension Plan in 2003, 2004, 2005 and 2006. At a later date (no date was given to me), the Appellant reported to the Minister that he had earned rental income in 2003 to 2006 inclusive. He wrote that he had been unaware that rental income had to be included in his income tax returns. In his calculation of the net rental income, he indicated that the annual rental income was $6,000 and the rental expenses were 30% of the entire expenses incurred for the property.
+[5] The Appellant disputed the calculations in the net worth analysis by focusing on two entries – gifts of money which he received from his sister and the amount of the rental expenses for 2005 and 2006. It was his position that his sister, Mary had given him $35,000, $30,000, $32,000 and $33,000 in 2003, 2004, 2005 and 2006 respectively. However, in the net worth schedules, the Minister only recognized that the Appellant received $6,000, $13,000 and $1,000 in 2003, 2004 and 2005 as a gift from his sister. It was also the Appellant’s position that contrary to the previous statement he made to the Minister, 70% of his home was used as a rental property in 2005 and 2006 and the personal expenditures included in the calculation of his net worth should be reduced accordingly.
+[6] The Appellant was a recovering drug addict when, in December 2002, his father died suddenly and one month later his younger brother committed suicide. As a result, the Appellant suffered a relapse. He testified that he was unemployed during the period in question and had no steady income.
+[7] He inherited $40,000 from his father’s estate and, according to the Appellant, Mary inherited $400,000. It was his evidence that his sister helped to take care of him during a time when he was in need. She gifted him almost $130,000 over the 4 years which are under appeal.
+Net Worth Assessment
+[8] In this appeal, the net worth calculations were based on an analysis of bank deposits, bank statements, mortgage statements, investments and credit card statements.
+[9] The net worth method is used when a taxpayer has failed to file income tax returns or has no records[1] or the records are in poor condition or the records are totally unreliable. In Dao v. The Queen, 2010 TCC 84, Campbell J. summarized the law with respect to the net worth method and she observed:
+Therefore, the method, by its very nature, will result in an inaccurate approximation of a taxpayer's income. While this may produce unsatisfactory results, it is based on the premise that, in a self-assessing system, a taxpayer is in the best position to know the exact amount of income earned over a period of time. If proper records are kept, then it should be an easy task for a taxpayer to factually point out the errors in the Minister's assessment and properly support the proposed changes to the assessment with the appropriate documentation or other evidence.
+[10] In the present appeal, the Appellant kept no records to support the income tax returns he filed. In fact, he testified that the amounts reported in his returns were fictional; they were made up by the person who prepared his returns.
+[11] In the circumstances of this appeal, the Minister was left with no alternative but to assess the Appellant’s income tax liability by using the net worth method.
+Analysis
+[12] Although the Appellant testified that he was unemployed during the period under appeal, he admitted in cross examination that, during the period, he was a courier; he taught computers and he did web design. He may not have had steady employment but he did have several sources of income.
+[13] The documentary evidence established that the Appellant’s sister inherited $252,844.88 from their father’s estate. This amount was also in paragraph 13 of the Notice of Appeal. It is my view that the Appellant inflated the amount his sister inherited to attempt to support his position that she had sufficient money to gift him $130,000. There was no documentary evidence to support that the Appellant’s sister inherited $400,000.
+[14] The notice of objection filed with the Minister on behalf of the Appellant contained a Statutory Declaration (the “Declaration”) made by his sister wherein she stated that she gave the Appellant $35,000, $30,000, $32,000 and $33,000 over the period 2003 to 2006. The Minister gave the Appellant credit for those amounts which were supported by documents. I have listed them in paragraph 5 above.
+[15] It is my view that the Declaration is not reliable and I have given no weight to the statements contained therein. In the Declaration, his sister stated that she had many bank accounts and yet in a note attached to the Declaration, she wrote that she did not like banks so money amounts were given to the Appellant in cash. In the same note, she wrote that the cash amounts were either given to the Appellant in person or sent to him by courier. In the Declaration, she also stated that some cash amounts were sent to the Appellant by courier. However, the Appellant crossed out the word courier and wrote in the word Canada Post. In both the note and the Declaration, the Appellant’s sister wrote that she was estimating the amounts she gave to her brother.
+[16] The Appellant’s testimony also confirmed to me that the Declaration was not reliable. He testified that he does not have a complete recollection of what transpired during the period under appeal as he was “waging his battle with drug addiction” at that time. The Appellant also stated that his sister’s recollection may not be clear as she had a prescription drug addiction during the period.
+[17] The Appellant has not demonstrated that his sister gave him any amounts as gifts beyond those already recognized by the Minister. He has not shown that his initial statement of rental expenses for 2005 and 2006 were in excess of those allowed.
+[18] On a review of all the evidence, I have concluded that the Appellant has not given any evidence to demolish the assumptions made by the Minister. The appeal is dismissed. In the circumstances of this appeal, I do not award any costs.
+Signed at Toronto, Ontario, this 11th day of July 2012.
+“V.A. Miller”
+V.A. Miller J.
+CITATION: 2012TCC247
+COURT FILE NO.: 2010-2144(IT)G
+STYLE OF CAUSE: JAMES AVRAMS AND
+THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: July 9, 2012
+REASONS FOR JUDGMENT BY: The Honourable Justice Valerie Miller
+DATE OF JUDGMENT: July 11, 2012
+DATE OF ORAL REASONS: July 11, 2012
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+John Grant
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Bigayan v. The Queen, [2000] 1 C.T.C. 2229(TCC)

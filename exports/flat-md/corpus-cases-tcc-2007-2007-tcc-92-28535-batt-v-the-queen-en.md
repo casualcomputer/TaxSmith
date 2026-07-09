@@ -1,0 +1,134 @@
+---
+title: "Batt v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28535/index.do"
+last_modified: "2007-01-30"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 TCC 92"
+citation2: ""
+neutral_citation: "2007 TCC 92"
+decision_date: "2007-01-30"
+language: "en"
+item_id: "28535"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1264
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T23:26:27.088000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "59babc8e477506615a5cf64dcff1dcc577e60fb1120babaecc137d730bee01e3"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Batt v. The Queen
+
+- Citation: 2007 TCC 92
+- Decision date: 2007-01-30
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1264, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Batt v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-01-30
+Neutral citation
+2007 TCC 92
+File numbers
+2005-1387(IT)I
+Judges and Taxing Officers
+Leslie M. Little
+Subjects
+Income Tax Act
+Decision Content
+TAX COURT OF CANADA
+IN RE: The Income tax Act
+2005-1387(IT)I
+CITATION: 2007TCC92
+BETWEEN:
+ROBERT G. BATT,
+Appellant;
+- and -
+HER MAJESTY THE QUEEN,
+Respondent.
+--------------
+Held before Mr. Justice Little in Courtroom No. 602, 6th Floor, 701 West Georgia Street, Vancouver, B.C., on Tuesday, January 30, 2007.
+--------------
+APPEARANCES:
+Mr. R.G. Batt, On his own behalf;
+Ms. S. Sit, For the Respondent.
+--------------
+THE REGISTRAR: M. Netley
+--------------
+Allwest Reporting Ltd.
+#1200 - 1125 Howe Street
+Vancouver, B.C.
+V6Z 2K8
+Per: G. LaPointe
+REASONS FOR JUDGMENT
+(Delivered Orally in Vancouver, B.C. on January 30, 2007)
+JUSTICE: I am going to give my reasons in the appeal of Robert G. Batt. Reasons for judgment are as follows.
+(a) Facts. The appellant says that he was a piano teacher providing piano lessons to various students. The appellant also said that he played the organ. When the appellant filed his income tax return for the 2003 taxation year, he attached a note saying that he was going to elect to pay Canada Pension Plan premiums on self-employed and other earnings for the 2003 taxation year, and would do so by completing Form CPT20 before June 15, 2004. The appellant completed Form CPT20 on May 20, 2004 and submitted the form to the Minister.
+By notice of assessment dated May 28, 2004, the Minister of National Revenue (the Minister) initially assessed the appellant's 2003 taxation year as filed. The Minister transferred $1,362.44 of the appellant's refund for the 2003 taxation year to pay part of a debt owing by the appellant to Her Majesty under the Canada Student Loans program. Note: The Minister concluded that the appellant's calculation of the refund was correct. That is, no change in the appellant's tax return was made by that reassessment.
+By notice of reassessment dated August 23rd, 2004, the Minister reassessed the appellant to take into account his election to pay additional CPP premiums. In this reassessment, the Minister requested that the appellant pay the amount of $474.99 as CPP premiums. By a letter dated August 27, 2004, the appellant requested that the Minister return the amount of $474.99, the amount transferred to Canada Student Loan to offset his CPP liability. On November 19, 2004, the appellant filed a notice of objection to the notice of assessment issued on August 27, 2004. On December 8, 2004, the Minister notified the appellant that his objection for the 2003 taxation year was invalid. A notice of motion to strike out the notice of objection was filed by counsel for the respondent. This notice of motion was dismissed by my colleague, Justice Bowie.
+The issues before the court are (1) whether the Minister properly calculated the appellant's liability to pay the amount of $474.99 in CPP payments; (2) whether the appellant was liable to pay interest for the 2003 year of $7.15.
+My analysis and decision is as follows. During the hearing, counsel for the respondent stated that a further development has occurred. Counsel for the respondent noted that by notice of reassessment dated in July 2006, the Minister indicated that for the 2003 and subsequent years, the appellant was an employee of St. Helen's Anglican Church, and therefore the Appellant and the church were required to make CPP payments. In Exhibit A-1, the accountant indicated that as a result of the change made by the Minister, the appellant was entitled to a refund of $252.44 for the 2003 year. Counsel for the respondent said that a refund has not been issued because the appellant has filed an appeal for the 2003 year.
+Counsel for the respondent also noted that the appellant did not file an appeal to the Minister's decision regarding his status as an employee, and the deadline for filing an appeal has now passed. In her argument, counsel for the respondent said that what the appellant has requested in his appeal is not within the jurisdiction of the Tax Court. Ms. Sit referred to Section 171(1) of the Income Tax Act. Section 171(1) of the Income Tax Act provides as follows:
+"The Tax Court of Canada may dispose of an appeal by (a) dismissing it, or (b) allowing it, and (i) vacating the assessment, (ii) varying the assessment, or (iii) referring the assessment back to the Minister for reconsideration and reassessment."
+In support of her position, Ms. Sit referred to the following court decisions: (1) Power v. Canada; (2) MacMillan Holdings; and (3) McGuire v. Card [phonetic].
+In this situation, the Minister has accepted the appellant's tax return as filed. That is, the Minister has agreed with the appellant's calculation of the refund in the amount of $1,437.44. The problem, as argued by the appellant, is that the Minister applied the refund (less $75) to the appellant's Canada Student Loan program, and the Minister did not apply a payment of $474.99 from the refund to the CPP obligation that the appellant had for 2003.
+In my opinion, the appellant is basically asking the court to order the Minister to apply $474.99 of the refund to his CPP obligations.
+The jurisdiction of this court is to hear and determine an appeal from a tax assessment. The court does not have power or authority to compel the Minister to apply a portion of a refund against the appellant's CPP obligation. I regret that the court cannot assist the appellant in connection with his appeal. However, I ask that the Minister review the calculations on the following points:
+(1) Determine why the $75 deduction was made and ensure that the calculation is correct. There was some conflicting comments on this point. The appellant suggested that the $75 deduction related to possibly a GST quarterly payment. Counsel for the respondent said that it may have been made because there was no other amount owing on the student loan. The appellant said this is not correct. So this point should be clarified by the Minister in terms of reviewing the appellant's position.
+(2) The Minister should also issue the refund of $252.44 for the 2003 year, as is shown on Exhibit A-1. A-1 is the calculations of the accountant.
+I have also concluded that the court does not have the authority to waive any interest. According to the reply (paragraph 8), the interest involved was $7.15.
+The appeal for the 2003 year is dismissed without costs. Thank you.
+I hereby certify that the FOREGOING is a true and accurate transcript of the proceedings herein to the best of my skill and ability.
+__________________________________
+G. LaPointe, COURT REPORTER
+CITATION:
+2007TCC92
+COURT FILE NO.:
+2005-1387(IT)I
+STYLE OF CAUSE:
+Robert G. Batt and
+Her Majesty the Queen
+PLACE OF HEARING:
+Vancouver, British Columbia
+DATE OF HEARING:
+January 30. 2007
+REASONS FOR JUDGMENT BY:
+The Honourable Justice L.M. Little
+DATE OF JUDGMENT:
+March 6, 2007
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Selena Sit
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

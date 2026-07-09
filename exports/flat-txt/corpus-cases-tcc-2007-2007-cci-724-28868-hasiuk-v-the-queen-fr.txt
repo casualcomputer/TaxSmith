@@ -1,0 +1,265 @@
+Title: Hasiuk v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28868/index.do
+Corpus path: corpus/cases/tcc/2007/2007-cci-724-28868-hasiuk-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2007-11-30
+
+# Hasiuk v. The Queen
+
+- Citation: 2007 CCI 724
+- Decision date: 2007-11-30
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1311, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Hasiuk v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-11-30
+Référence neutre
+2007 CCI 724
+Numéro de dossier
+95-3937(IT)G
+Juges et Officiers taxateurs
+Terrence O'Connor
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 95‑3937(IT)G
+ENTRE :
+WILLIAM J. HASIUK,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu les 18 et 19 octobre 2007, à Toronto (Ontario).
+Devant : L’honorable juge T. O’Connor
+Comparutions :
+Avocate de l’appelant :
+Me Joy Casey
+Avocats de l’intimée :
+Me Andrew Miller et
+Me Ifeanyichukwu Nwachukwu
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’égard de la cotisation établie sous le régime de la Loi de l’impôt sur le revenu pour l’année d’imposition 1988 est rejeté, avec dépens, conformément aux motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 30e jour de novembre 2007.
+« T. O’Connor »
+Juge O’Connor
+Traduction certifiée conforme
+ce 28e jour de janvier 2008.
+Aleksandra Koziorowska, LL.B.
+Référence : 2007CCI724
+Date : 20071130
+Dossier : 95‑3937(IT)G
+ENTRE :
+WILLIAM J. HASIUK,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge O’Connor
+[1] Il s’agit de décider si, pour l’année d’imposition 1988, le ministre du Revenu national (le « ministre ») a à juste titre inclus dans le revenu de l’appelant une somme de 94 475 $ sur le fondement que ce dernier, comme il est envisagé au paragraphe 56(2) de la Loi de l’impôt sur le revenu (la « Loi »), a donné des instructions ou son accord pour que sa société, 711624 Ontario Limited (« 711 »), transfère cette somme à 590393 Ontario Limited (« 590 »), une société détenue et contrôlée par les deux fils de l’appelant, Robert Hasiuk et William Hasiuk Jr.
+Faits
+[2] Pour l’essentiel, les faits sont les suivants :
+1. En 1988 et en 1989 (les « années pertinentes »), l’appelant était l’unique actionnaire, administrateur et dirigeant de 711.
+2. 711 était exploitée sous le nom commercial « Cramahe Estates ». Les activités de 711 consistaient en la construction et en la vente d’immeubles résidentiels.
+3. Les deux fils de l’appelant étaient les actionnaires, administrateurs et dirigeants de 590. Cette société exploitait une quincaillerie et un magasin de matériaux de construction sous le nom commercial « Hasiuk Home Care ».
+4. Pendant les années pertinentes, Nasha Properties Limited (« Nasha ») était une société appartenant à l’appelant et à son épouse, Patricia.
+5. Le 6 juin 1987, Nasha a vendu à 711 certains lots situés dans la ville de Colborne, en Ontario, y compris un lot constitué de la partie 1 du plan 38R‑3479.
+6. Le 30 août 1988, 711, faisant affaire sous la dénomination Cramahe Estates, a conclu avec Judith Ball un contrat visant la construction d’un bungalow sur cette partie 1 du plan 38R‑3479 ainsi que la vente du lot et du bungalow à Mme Ball pour la somme de 99 900 $.
+7. Le lot, et le bungalow qu’on y a construit, ont été vendus en novembre 1988 à M. et à Mme Ball (le « bien Ball »). Le prix du bien vendu s’élevait à 99 900 $ et le produit net de la vente se chiffrait à 94 475 $.
+8. Les acquéreurs ont payé le prix total de 99 900 $ au moyen d’un chèque émis à l’ordre de l’avocat de 711, Me C. Vincent Graham.
+9. Le produit net de la vente du bien Ball, soit 94 475 $, a été payé au moyen d’un chèque tiré sur le compte en fiducie de C. Vincent Graham en date du 23 novembre 1988 à l’ordre de Cramahe Estates, c’est‑à‑dire 711.
+10. Le chèque de 94 475 $ tiré sur le compte en fiducie de C. Vincent Graham a été endossé par Robert Hasiuk, un des deux fils de l’appelant, puis déposé dans le compte de 590 le 24 novembre 1988.
+11. La lettre de compte rendu que C. Vincent Graham a adressée à 711 le 16 janvier 1989 est ainsi libellée :
+[TRADUCTION]
+Objet : Vente de CRAMAHE à BALL
+Partie de lot 35, Con 1, canton de Cramahe
+Le contrat de vente mentionné en rubrique est maintenant conclu et j’ai le plaisir de vous transmettre le présent rapport.
+PRIX DE VENTE : 99 900 $
+DATE DE SIGNATURE : 31 octobre 1988
+PREMIÈRE HYPOTHÈQUE : Votre hypothèque actuelle a été intégralement acquittée comme en fait foi l’état de mainlevée d’hypothèque ci‑joint. S/O
+IMPÔTS FONCIERS : Veuillez consulter l’état des rajustements pour la répartition des impôts fonciers.
+COMMISSION DE Commission totale 4 495,50 $
+L’AGENT IMMOBILIER : Moins dépôt 5 000,00 $
+Solde payé
+Votre remboursement : 504,50 $
+COMPTE FINAL D’HYDRO : Vous êtes responsable du paiement de ce compte, le cas échéant.
+SOLDE DU Au moment de la signature, nous vous avons
+PRODUIT DE LA VENTE : remis directement la somme de 94 475 $.
+12. Le 12 avril 1990, un acte rectificatif selon lequel le bien vendu consistait en la partie 1 du plan 38R‑4206 et non la partie 1 du plan 38R‑3479 a été enregistré relativement au bien Ball.
+13. Tant dans l’acte de vente initial (paragraphe 7 plus haut) que dans l’acte rectificatif (paragraphe 12 plus haut), l’appelant signe au nom de 711 en déclarant qu’[TRADUCTION] « il a le pouvoir de lier la société ».
+14. 711 a omis d’inclure dans son revenu déclaré pour l’exercice se terminant le 31 mars 1989 le produit net susmentionné tiré de la vente du bien Ball.
+15. Par un avis de nouvelle cotisation daté du 8 septembre 1994, le ministre a établi une nouvelle cotisation relative à la dette fiscale de 711 pour l’exercice en question de manière à inclure dans le revenu de cette dernière le produit net de 79 475 $ réalisé par suite de la vente du bien Ball (soit le produit de 94 475 $ moins le prix de base rajusté de 15 000 $), conformément à l’article 9 de la Loi.
+16. Par un avis d’appel daté du 27 mai 1996, 711 a interjeté appel de la nouvelle cotisation du 8 septembre 1994 à la Cour canadienne de l’impôt (no du dossier : 96‑1864(IT)G).
+17. Par une ordonnance rendue le 6 décembre 2005, la Cour canadienne de l’impôt a rejeté cet appel parce que 711 a omis de comparaître à l’audition de celui‑ci.
+Observations de l’appelant
+[3] Je renvoie aux extraits suivants de l’aperçu écrit des moyens avancés par l’avocate de l’appelant :
+[TRADUCTION]
+14. Selon les témoignages de l’appelant et de Robert et de William Hasiuk, il existait une entente voulant que Robert et William, par l’intermédiaire de 590, construisent la maison sur le terrain de M. et Mme Ball et reçoivent le produit de la vente.
+15. Leur témoignage était compatible avec la thèse selon laquelle Robert, William et 590 se sont chargés de toutes les étapes de la construction de la maison de M. et Mme Ball, y compris l’engagement et le paiement des sous‑traitants et la fourniture des matériaux nécessaires. L’appelant a dans une faible mesure contribué aux travaux d’aménagement de paysage sur le bien Ball, comme on pouvait s’attendre d’un membre de la famille, mais il n’a pas participé à la construction de la maison.
+16. Dans son témoignage, Robert Hasiuk a mentionné que la somme de 94 475 $, que 590 a reçue comme produit de la vente du bien Ball, était comprise dans le revenu déclaré par 590 au titre des ventes pour son exercice se terminant le 30 juin 1989.
+17. Selon le témoignage de Patrick Rutherford, l’expert‑comptable de 711 et de 590, la somme de 94 475 $ était comprise dans le revenu déclaré de 590 pour l’exercice 1989. Il a expliqué pendant son contre‑interrogatoire que le résumé des ventes de 590 n’aurait pas fait état de la somme totale à titre de ventes réalisées en novembre 1988, lorsque le chèque a été déposé. Les ventes de matériaux de construction auraient été consignées en tant que ventes du mois au cours duquel les fournitures ont été retirées des stocks et livrées au site, et non lorsque le paiement a été reçu. Les paiements reçus après la consignation des ventes auraient été accompagnés de la mention « reçu à titre d’acompte ».
+18. Même si une grande partie des documents pertinents n’a pu être produite en raison d’un incendie survenu dans les locaux de 590 en août 1989, M. Rutherford a déclaré dans son témoignage qu’il était en mesure de solder les comptes de 590 en date de la fin de l’exercice en apportant les rajustements appropriés pour rectifier les grands livres tenus par l’aide‑comptable de 590.
+19. Selon son témoignage, M. Rutherford n’aurait pu solder les comptes si la somme de 94 475 $ avait été exclue des ventes de 590. […]
+20. Dans son témoignage, l’appelant a mentionné que 711, après avoir introduit l’appel visant la nouvelle cotisation établie à son égard, n’a pas donné suite à cet appel en 2005 parce qu’elle n’exploitait plus d’entreprise.
+[4] Je paraphrase ci‑dessous les autres observations juridiques formulées par l’avocate de l’appelant.
+[5] Le paragraphe 15(1) de la Loi prévoit que, lorsqu’une société confère un avantage à un actionnaire ou à une personne en passe de le devenir (autrement qu’au moyen de certaines exceptions expresses qui ne s’appliquent pas en l’espèce), le montant ou la valeur de cet avantage doit être inclus dans le calcul du revenu de l’actionnaire pour l’année.
+[6] Selon le paragraphe 56(2) de la Loi, lorsqu’un paiement ou un transfert de biens est fait, suivant les instructions ou avec l’accord d’un contribuable, à toute autre personne au profit du contribuable ou à titre d’avantage que le contribuable désirait voir accorder à l’autre personne, ce paiement ou ce transfert doit être inclus dans le calcul du revenu du contribuable dans la mesure où il le serait si ce paiement ou transfert avait été fait au contribuable.
+[7] Pour que le paragraphe 56(2) s’applique, l’opération doit satisfaire aux exigences suivantes :
+(1) le paiement doit être fait à une autre personne que le contribuable à l’égard duquel une nouvelle cotisation est établie;
+(2) la répartition doit être faite suivant les instructions ou avec l’accord du contribuable à l’égard duquel une nouvelle cotisation est établie;
+(3) le paiement doit être fait au profit du contribuable à l’égard duquel une nouvelle cotisation est établie ou à une autre personne à titre d’avantage que ce contribuable souhaitait voir accorder à cette autre personne;
+(4) le paiement aurait été inclus dans le revenu du contribuable à l’égard duquel une nouvelle cotisation est établie si ce dernier l’avait reçu lui‑même.
+Neuman c. M.R.N., [1998] 1 R.C.S. 770, 1998 CanLII 826 (C.S.C.)
+[8] Si l’auteur du transfert est une société et que l’ARC cherche à imputer la valeur de l’avantage à un actionnaire, l’application du paragraphe 56(2) est alors assujettie à une autre restriction. En effet, lorsque l’actionnaire n’a pas droit au versement effectué ou au bien transféré par la société, le paragraphe 56(2) s’applique seulement si l’avantage accordé n’est pas directement imposable entre les mains du bénéficiaire du transfert. Dans cette situation, si le bénéficiaire du transfert est tenu d’ajouter le montant de l’avantage dans le calcul de son revenu imposable, le paragraphe 56(2) ne s’applique pas.
+Winter c. Canada, [1991] 1 C.F. 585 (C.A.F.)
+Smith c. Canada, [1993] A.C.F. no 740 (C.A.F.)
+[9] En outre, s’il existait un contrat commercial avec le bénéficiaire du transfert moyennant une contrepartie supplémentaire, aucun avantage n’est accordé à ce bénéficiaire. En réalité, ce dernier reçoit paiement de la contrepartie à laquelle il a droit aux termes du contrat.
+Williams c. La Reine, 2004 CCI 838 (CanLII)
+[10] Dans le cadre d’un appel qui vise une cotisation et qui est introduit par le contribuable, ce dernier a la charge initiale de réfuter les présomptions sur lesquelles le ministre s’est fondé pour établir la cotisation. Le contribuable s’acquitte de cette charge initiale lorsqu’il présente au moins une preuve prima facie. Lorsque les présomptions sont réfutées, le fardeau de la preuve passe au ministre, qui doit réfuter la preuve prima facie. Si le ministre ne produit absolument aucune preuve pour réfuter la preuve prima facie, le contribuable est fondé à obtenir gain de cause.
+Hickman Motors Ltd. c. Canada, [1997] 2 R.C.S. 336, 1997 CanLII 357 (C.S.C.)
+[11] Dans la présente affaire, l’ARC avance la thèse selon laquelle le produit de la vente aurait dû être payé à 711 en qualité de vendeur du bien Ball. En réalité, l’ARC a établi une nouvelle cotisation à l’égard de 711 afin d’inclure le produit net dans le calcul du revenu de cette dernière pour l’exercice 1989.
+[12] L’ARC fait valoir contre l’appelant que celui‑ci a soit donné instructions à 711 de transférer le chèque de 94 475 $ à 590, soit donné son accord au transfert du chèque à 590, et qu’il a reçu un avantage de ce transfert.
+[13] L’appelant était l’actionnaire de 711. Lorsqu’elle a permis à 590 de recevoir le produit de la vente du bien Ball, 711 n’a pas conféré un avantage à l’appelant à titre d’actionnaire. Elle a plutôt conféré un avantage à 590. En conséquence, le paragraphe 15(1) de la Loi ne s’applique pas. S’il convient de confirmer la nouvelle cotisation établie à l’égard de l’appelant, ce doit être en application du paragraphe 56(2) et non du paragraphe 15(1).
+[14] Si le produit de la vente du bien Ball avait été payé à 711, l’argent aurait alors appartenu à 711. L’appelant, à titre d’actionnaire, n’aurait pas eu le droit d’obliger 711 à verser l’argent à l’appelant.
+[15] Si l’appelant n’avait pas le droit de recevoir ces fonds de 711, le paragraphe 56(2) peut s’appliquer pour imputer les fonds au revenu de l’appelant uniquement dans la mesure où la somme n’était pas imposable entre les mains du bénéficiaire du transfert, soit 590. Si cette dernière était obligée d’inclure les fonds dans le calcul de son revenu, la somme ne peut alors être imputée à l’appelant. C’est ce qui ressort de l’arrêt Winter c. Canada, précité. La question déterminante n’est pas de savoir si 590 a réellement inclus les fonds dans le calcul de son revenu, mais plutôt si elle était tenue de les inclure.
+[16] On ne peut contester le fait que, si elle avait reçu les fonds à titre de paiement pour les travaux de construction de la maison située sur le terrain de M. et Mme Ball, 590 aurait alors l’obligation de les inclure dans le calcul de son revenu. Les fonds ne pourraient donc pas être imputés à l’appelant et la cotisation devrait être annulée.
+[17] De plus, dans leur témoignage, M. Rutherford et Robert Hasiuk ont mentionné que les fonds avaient réellement été inclus dans le calcul du revenu de 590. Cette preuve n’a pas été contestée pendant le contre‑interrogatoire et l’intimée n’a produit aucune preuve visant à réfuter la déposition de M. Rutherford ou de Robert Hasiuk.
+[18] La nouvelle cotisation établie à l’égard de l’appelant se fondait sur l’hypothèse voulant que 590 n’ait pas inclus le produit de la vente du bien Ball dans le calcul de son revenu. Comme le témoignage de M. Rutherford et de Robert Hasiuk sur ce point constitue une preuve prima facie et que l’intimée n’a présenté absolument aucune preuve pour réfuter leur témoignage, l’appelant doit obtenir gain de cause.
+[19] En outre, dans leur témoignage, l’appelant ainsi que Robert et William Hasiuk ont affirmé qu’il existait une entente voulant que 590 construise la maison et fournisse les matériaux et qu’elle reçoive le produit de la vente en contrepartie de son travail et des marchandises. Il existait donc un contrat commercial entre 590 et 711, et il y a eu une contrepartie au transfert de ce produit. Comme il est énoncé dans la décision Williams, précitée, si le transfert est fait avec contrepartie valable dans le cadre d’un contrat commercial, aucun avantage n’est conféré et le paragraphe 56(2) ne s’applique pas.
+Observations de l’intimée
+[20] L’avocat de l’intimée a renvoyé au paragraphe 56(2) de la Loi et a affirmé ce qui suit :
+Dans l’arrêt Neuman c. R., la Cour suprême du Canada a confirmé que l’application du paragraphe 56(2) de la Loi est assujettie à quatre conditions préalables (ci‑après le « critère Neuman ») :
+(1) le paiement doit être fait à une autre personne que le contribuable à l’égard duquel une nouvelle cotisation est établie;
+(2) la répartition doit être faite suivant les instructions ou avec l’accord du contribuable à l’égard duquel une nouvelle cotisation est établie;
+(3) le paiement doit être fait au profit du contribuable à l’égard duquel une nouvelle cotisation est établie ou à une autre personne à titre d’avantage que ce contribuable souhaitait voir accorder à cette autre personne;
+(4) le paiement aurait été inclus dans le revenu du contribuable à l’égard duquel une nouvelle cotisation est établie si ce dernier l’avait reçu lui‑même.
+Neuman c. Ministre du Revenu national, [1988] A.C.S. no 37, paragraphe 32, onglet 2.
+Outre le critère Neuman, une cinquième condition préalable doit être examinée par les tribunaux dans leur analyse du paragraphe 56(2) de la Loi :
+[L]orsque la doctrine de la « recette présumée » n’est pas clairement en cause, parce que le contribuable n’avait aucun droit au versement effectué ou au bien transféré, il n’est que juste d’inférer que le paragraphe 56(2) ne peut recevoir application que si l’avantage accordé n’est pas directement imposable entre les mains du cessionnaire.
+Winter c. Canada, [1991] 1 C.F. 585, [1991] 1 C.T.C. 113, paragraphe 14, recueil des textes à l’appui de l’intimée, onglet 3.
+[21] L’avocat a fait valoir qu’à la lumière du critère Neuman, l’appelant est responsable aux termes du paragraphe 56(2) de la Loi. Il a renvoyé à ce critère puis il a mentionné ce qui suit :
+[TRADUCTION]
+48. L’appelant ne conteste pas le fait que le paiement de 94 475 $ a été versé par chèque à 711 faisant affaire sous la dénomination Cramahe Estates.
+Pièce R‑3, réponse no 1 à la demande d’aveux.
+Pièce R‑1, recueil de documents de l’intimée, onglets 15 et 18.
+49. L’appelant ne conteste pas le fait que le chèque émis à l’ordre de 711 pour une somme de 94 475 $ a été endossé par Robert Hasiuk, actionnaire de 590, et déposé dans le compte bancaire de 590.
+Pièce R‑3, réponse no 1 à la demande d’aveux.
+Pièce R‑1, recueil de documents de l’intimée, onglets 15 et 16.
+50. En conséquence, la première partie du critère Neuman est respectée puisque le paiement de 94 475 $ découlant de la vente du bien Ball a été déposé dans le compte bancaire de 590, soit une personne autre que le contribuable à l’égard duquel une nouvelle cotisation est établie.
+b) La répartition doit être faite suivant les instructions ou avec l’accord du contribuable à l’égard duquel une nouvelle cotisation est établie
+51. En ce qui touche la deuxième condition préalable du critère Neuman, la Cour d’appel fédérale s’est exprimée en ces termes :
+[…]
+Cela dit, le juge de première instance a tiré la judicieuse conclusion suivante :
+[…]
+L’accord ou la participation du contribuable à l’octroi de l’avantage ne doivent pas nécessairement être actifs. Cet accord peut être passif ou implicite et peut être déduit de l’ensemble des circonstances, dont une des plus importantes est la somme de contrôle que le contribuable peut exercer sur la firme ou la corporation qui accorde l’avantage. [Non souligné dans l’original.]
+Smith c. Canada, [1993] A.C.F. no 740, paragraphe 17, recueil des textes à l’appui de l’intimée, onglet 4.
+52. Comme le produit de la vente du bien Ball appartenait à 711, l’entreprise « octroyant » l’avantage est 711.
+Déposition de Vincent Graham
+53. Dans son témoignage, l’avocat de l’appelant au moment de l’opération, Me C. Vincent Graham (« Me Graham »), a affirmé que soit il avait remis le chèque de 94 475 $ à l’appelant à Cobourg, soit l’appelant l’avait ramassé en personne. Le chèque annulé ainsi que la lettre de Me Graham sont compatibles avec l’une et l’autre version.
+Déposition de Vincent Graham
+Pièce R‑1, recueil des documents de l’intimée, onglets 15 et 18.
+54. L’appelant était l’unique actionnaire et, à ce titre, agissait comme actionnaire contrôlant de 711. Il était également l’unique administrateur de 711. En conséquence, il était l’unique particulier en mesure d’autoriser le transfert de la somme de 94 475 $ à 590.
+Pièce R‑3, réponse no 1 à la demande d’aveux.
+Pièce R‑1, recueil des documents de l’intimée, onglet 1.
+55. Si l’appelant n’a pas activement donné des instructions ou son accord au paiement fait à 590, le « contrôle exclusif » qu’il exerçait sur 711 peut permettre de conclure qu’il a passivement ou implicitement octroyé un avantage à 590.
+Smith c. Canada, précité, paragraphe 17, recueil des textes à l’appui de l’intimée, onglet 4.
+c) Le paiement doit être fait au profit du contribuable à l’égard duquel une nouvelle cotisation est établie ou à une autre personne à titre d’avantage que ce contribuable souhaitait voir accorder à cette autre personne
+56. La troisième condition préalable du critère Neuman est respectée puisque le paiement de 94 475 $ a été fait au profit de 590, à laquelle l’appelant souhaitait accorder l’avantage.
+57. Le dépôt du paiement de 94 475 $ dans le compte bancaire de 590 constitue une preuve irréfutable du fait que le paiement a été versé au profit d’une autre personne, 590 en l’occurrence, société appartenant aux fils de l’appelant.
+Pièce R‑3, réponse no 1 à la demande d’aveux.
+Pièce R‑1, recueil des documents de l’intimée, onglet 16.
+58. Les instructions ou l’accord donnés par l’appelant, que ce soit activement ou implicitement, laissent croire que ce dernier souhaitait accorder un avantage à 590.
+d) Le paiement aurait été inclus dans le revenu du contribuable à l’égard duquel une nouvelle cotisation est établie si ce dernier l’avait reçu lui‑même
+59. Si le paiement de 94 475 $ avait été fait à l’appelant, la même somme aurait été ajoutée au revenu de l’appelant en application du paragraphe 15(1) de la Loi.
+60. Le paragraphe 15(1) de la Loi[1] est ainsi rédigé :
+15.(1) La valeur de l’avantage qu’une société confère, à un moment donné d’une année d’imposition, à un actionnaire […] est incluse dans le calcul du revenu de l’actionnaire pour l’année – sauf dans la mesure où cette valeur est réputée par l’article 84 constituer un dividende […]
+61. L’appelant était actionnaire de 711. Le produit de la vente du bien Ball, qui, selon la cotisation du ministre, constituait un revenu de 711, a été judiciairement confirmé par une ordonnance de la Cour.
+62. Par conséquent, si le paiement avait été reçu par l’appelant, la somme de 94 475 $ aurait été incluse dans son revenu à titre d’« avantage à l’actionnaire » conformément au paragraphe 15(1) de la Loi. À ce titre, la quatrième condition préalable du critère Neuman est également respectée.
+D. Cinquième condition préalable
+63. Comme il est mentionné plus haut, les tribunaux, outre les quatre conditions préalables énoncées dans l’arrêt Neuman, ont, dans certaines situations, fait état d’une cinquième condition préalable relative à l’interprétation et à l’application du paragraphe 56(2) de la Loi.
+64. Dans l’arrêt Winter, la Cour d’appel fédérale a tenu les propos suivants en ce qui concerne l’application d’une cinquième condition préalable :
+Il est couramment admis que la disposition prévue au paragraphe 56(2) est fondée sur la doctrine de la « recette présumée » et qu’elle vise principalement les cas où le contribuable cherche à éviter de recevoir ce qui serait, entre ses mains, un revenu en s’arrangeant pour que le montant soit versé à quelqu’un d’autre, et ce pour son propre bénéfice (par exemple, pour éteindre une dette) ou pour le bénéfice de cette autre personne (voir les motifs du juge Thurlow dans l’arrêt Miller, précité, et ceux du juge Cattanach dans l’arrêt Murphy, précité). Il ne fait aucun doute cependant que le libellé de la disposition ne permet pas d’en limiter l’application à de tels cas patents d’évitement fiscal. L’arrêt Bronfman, qui a confirmé la cotisation, établie en vertu de la disposition de l’ancienne loi qu’a reprise le paragraphe 56(2), d’un actionnaire d’une société privée, à l’égard de dons que la société avait faits régulièrement pendant plusieurs années à des membres de sa famille, est généralement cité comme autorité pour dire que la disposition s’applique, que la personne imposée ait un droit ou non sur le versement effectué ou sur le bien transféré. Cette jurisprudence ne me semble pas tellement convaincante dans la mesure où les dons faits par une société proviennent des bénéfices sur lesquels les actionnaires ont un droit éventuel. Le fait néanmoins demeure que le libellé même de la disposition n’exige pas, comme condition d’application, que le contribuable ait initialement eu droit au montant versé ou au bien transféré au tiers; mais uniquement que le contribuable ait été lui‑même imposable à cet égard si le versement ou le transfert avait été fait à lui. Il me semble cependant que, lorsque la doctrine de la « recette présumée » n’est pas clairement en cause, parce que le contribuable n’avait aucun droit au versement effectué ou au bien transféré, il n’est que juste d’inférer que le paragraphe 56(2) ne peut recevoir application que si l’avantage accordé n’est pas directement imposable entre les mains du cessionnaire. En effet, selon moi, une disposition en matière d’évitement fiscal revêt un caractère essentiellement subsidiaire; sa raison d’être est d’empêcher l’évitement de l’impôt payable sur une opération donnée, et non de doubler l’impôt normalement payable ni d’accorder aux autorités fiscales une discrétion administrative qui leur permettrait de choisir entre deux contribuables possibles. [Non souligné dans l’original.]
+Bien que je sois enclin à distinguer l’affaire en instance de la cause Allan Bronfman par des motifs supplémentaires ou différents, vu que les actionnaires ont clairement profité de ce que les cadeaux aient été payés par la société au moyen de bénéfices avant impôt au lieu d’être payés par eux‑mêmes au moyen de leur propre argent après impôt, je souscris à cette analyse. L’« assujettissement à l’impôt sur l’avantage reçu » signifie que celui‑ci doit être inclus dans le calcul du revenu imposable du bénéficiaire.
+[22] L’avocat a en outre avancé ce qui suit dans ses conclusions de vive voix :
+[TRADUCTION]
+Maintenant, la véritable, la question qui doit être tranchée est, ma consœur en a fait mention dans ses conclusions, la somme de 94 475 $ est un revenu pour qui?
+Et je crois que nous sommes d’accord sur le véritable critère, à savoir entre les mains de qui ce revenu était‑il imposable?
+Ce qui nous mène, manifestement, à la question de la responsabilité; qui était responsable de payer l’impôt sur cette somme?
+Donc, pour déterminer le revenu et à qui appartient ce revenu, il nous faut examiner la preuve présentée devant la Cour.
+Ma consœur a soulevé la question de la charge de la preuve dès le début de ses observations relatives à une décision, et elle a cité des propos tenus dans cette décision pour affirmer que les hypothèses sont démolies lorsqu’une preuve prima facie est présentée.
+Or, nous faisons valoir en l’espèce que la preuve, le témoignage de l’appelant ne constitue en aucune manière une preuve prima facie. Il n’a pas permis de démolir les hypothèses et, contrairement à ce que ma consœur a laissé entendre, nous avons contesté la preuve.
+Les documents produits devant la Cour sont crédibles et corroborent la thèse selon laquelle cette somme constituait un revenu de 711.
+Avant la période ayant mené à l’opération, la date de l’opération dans le cadre de laquelle cette somme a été transférée de 711 à 590, tous les documents donnent à penser que ce bien appartenait à 711.
+711 a acheté ce bien d’une société dénommée Nasha Properties. La preuve laisse également croire qu’aucune convention de fiducie n’a été conclue. Ma consœur a reconnu ce fait. Je puis maintenant vous renvoyer aux véritables documents figurant dans le recueil de documents de l’intimée, soit la pièce R‑1, débutant à l’onglet 6.
+Les onglets 6 à 8. Ils montrent tous, sauf la description du terrain transféré, que 711 a acquis ce terrain. Nasha Properties a transféré ce bien […] à 711. Et cela a eu lieu en 1987, avant l’opération et la vente du bien à M. et Mme Ball.
+Tout cela est établi au moyen d’éléments de preuve crédibles qui n’ont pas été contestés par l’appelant.
+Bon, […] au moment où M. et Mme Ball ont acquis le terrain, la preuve étaye également la conclusion voulant que 711 ait été le vendeur. 711 a vendu le bien à M. et Mme Ball, et pas à titre de fiduciaire pour le bénéfice de 590.
+Nous avons dans ce même, dans cette même pièce, la pièce R‑1, la convention d’achat‑vente, qui se trouve à l’onglet 12 du recueil des documents de l’intimée et qui montre clairement que l’acquéreur était Judy Ball et que le vendeur était Cramahe Estates, la dénomination utilisée par 711.
+Nous avons l’état des rajustements à l’onglet 13. Un document établi par l’avocat de 711, Me Vincent Graham, montre sans équivoque que le vendeur, dans cette opération, dans cette vente immobilière, était 711 et que les acquéreurs étaient Frederick John et Judith Ann Ball.
+À l’onglet 14, nous avons l’acte de transfert lui‑même. Encore une fois, 711 est l’auteur du transfert […] en faveur de M. et Mme Ball, qui a eu lieu le 22 novembre 1988. Malgré la réticence de l’appelant à le dire, il s’agit de sa signature, cela n’a pas été contesté. L’appelant a signé ce document à titre de président, liant ainsi la société.
+Nous avons la lettre de compte rendu ou – premièrement, nous pouvons commencer avec le chèque visant le produit – émis par l’avocat de l’appelant, ou plutôt l’avocat de 711, Vincent Graham, onglet 15.
+Le produit a manifestement été payé à 711 sous la dénomination Cramahe Estates, ce qui, à nouveau, n’est pas contesté.
+Nous avons la lettre de compte rendu de l’avocat à l’onglet 18. Et, à nouveau, selon le témoignage de Me Vincent Graham, l’avocat de 711 à l’époque, témoignage qui n’a pas été contesté par ma consœur, cette somme était payable à 711. La mention figurant au bas de cette feuille fait état d’une somme de « 94 475 $ payée à vous directement ».
+Environ 14 mois plus tard, nous avons l’acte rectificatif de transfert. Dans son témoignage, Me Vincent Graham a déclaré qu’une erreur avait été constatée dans l’acte et, 14 mois plus tard, à l’onglet 17 du même recueil de documents, nous avons l’acte rectificatif. Lequel, à nouveau, fait état de 711 à titre d’auteur du transfert de la somme en faveur de M. et Mme Ball.
+À nouveau, signé par l’appelant, Jerry Hasiuk.
+Donc, ces documents, auxquels je viens juste de renvoyer, constituent à mon avis les documents relatifs à la réelle opération, au réel transfert de propriété.
+Donc, avant l’opération, tout porte à croire que 711 était propriétaire de ce bien, était le vendeur. La même chose est vraie pour la période – la période qui a effectivement précédé et suivi l’opération; 711 est le propriétaire et le vendeur du bien. Ce rapport juridique, ils agissent, à la face du monde et de quiconque est concerné, comme si 711 était le propriétaire et le vendeur.
+Bon, même après, après la période, après l’acte rectificatif, 711 donne toujours l’impression d’être le vendeur, le propriétaire du bien à ce moment. […]
+[…]
+[…] à l’onglet 20 se trouve le certificat, le certificat délivré le 15 février 1990 dans le cadre du programme de garantie des maisons neuves de l’Ontario. Et, à la deuxième page de ce document, le certificat de garantie, se trouve, juste vis‑à‑vis de la rubrique intitulée « vendeur », la mention 711 Ontario Ltd. faisant affaire sous la dénomination Cramahe Estates, en date du 15 février 1990.
+Donc, ils se sont présentés comme les vendeurs auprès de M. et Mme Ball, ils se sont présentés comme les vendeurs pour les besoins du programme de garantie des maisons neuves de l’Ontario; il s’agit du rapport juridique existant à ce moment. Et cela est postérieur à l’opération, cela s’est passé 14 mois après la vente.
+Six ans plus tard, dans un jugement rendu par la Cour de l’Ontario, Division générale, Cour des petites créances, à l’onglet 21.
+À nouveau, il s’agit d’une situation où une réclamation a été faite dans le cadre du programme de garantie des maisons neuves de l’Ontario contre 711, l’appelant, l’unique actionnaire de 711, lequel s’est présenté sous serment comme le constructeur.
+À la deuxième page de ce jugement, sous la rubrique « B », on constate que M. et Mme Ball ont acheté ce qui est souligné, au deuxième paragraphe, lequel débute ainsi :
+« William J. Hasiuk (appelé Jerry Hasiuk), le mandant du constructeur ici dénommé 711, a déclaré dans son témoignage qu’il avait intentionnellement laissé le mur dans cet état, il devait renforcer cette partie du mur pour se conformer au Code du bâtiment de l’Ontario. »
+Ce jugement constitue donc une preuve irréfutable du fait qu’il a déclaré sous serment qu’il avait construit cette résidence.
+[…]
+Par son témoignage, il – l’appelant voudrait maintenant vous faire croire que c’était simplement, je pense qu’il a mentionné que ses activités touchaient à l’aménagement de paysage. Mais cela montre clairement que les travaux effectués se rapportaient à la construction même. Il ne s’agissait pas d’une quantité de terre ou – je ne me souviens plus de ce qu’il a dit concernant de la terre ou une autre chose qu’il avait déplacée ou le fait que M. et Mme Ball n’étaient pas contents de la situation – mais cela montre clairement le problème; la raison pour laquelle ils s’étaient adressés aux tribunaux tenait à un vice de construction, il y avait un problème avec l’immeuble selon M. et Mme Ball. Ces derniers ont réclamé une certaine somme par l’intermédiaire du programme de garantie des maisons neuves de l’Ontario et ce dernier, subrogé dans leurs droits, a intenté des poursuites contre le constructeur. Le constructeur dans cette affaire, encore une fois, était 711.
+[23] L’avocat de l’intimée soutient en outre qu’il ressort sans équivoque des documents que 711 a acheté de Nasha pour la somme de 15 000 $ le lot qui, une fois le bungalow érigé, a été vendu à M. et Mme Ball. De plus, rien ne permet de penser qu’il existait une fiducie, les documents précisent clairement que c’est 711 qui achetait le bien en cause, que c’est 711 qui s’engageait à construire le bungalow et qui était le vendeur du bien Ball. Enfin, selon l’acte rectificatif visant le bien Ball, 711 est l’auteur du transfert. En résumé, tous les documents écrits confirment que 711 est le vendeur constructeur de la résidence de M. et Mme Ball.
+[24] L’intimée invoque également que 711 n’a pas comparu dans l’appel qu’elle a interjeté à la Cour canadienne de l’impôt, et que la Cour a rejeté cet appel. L’avocat fait en outre valoir que les activités commerciales de 711 touchaient à la construction et à la vente de maisons résidentielles tandis que 590, faisant affaire sous la dénomination Hasiuk Home Care, agissait comme magasin de matériaux de construction et, dans ses rapports avec 711, comme fournisseur. L’intimée avance qu’il n’existait aucune fiducie et que, manifestement, aucun document écrit ne permet de croire à l’existence d’une situation s’apparentant à une fiducie. L’avocat affirme de plus qu’à l’étape de l’opposition dans l’appel de 711, les observations de cette dernière donnaient manifestement à penser qu’elle avait agi comme entrepreneur général relativement au bien Ball.
+[25] L’avocat affirme aussi que, selon les documents pertinents, 711 est le propriétaire et le vendeur du bien Ball et qu’en matière fiscale, il faut s’intéresser à ce qui a été fait et non à ce qui aurait pu être fait.
+[26] Il ajoute que l’ordonnance de la Cour portant rejet de l’appel interjeté par 711 établit que le produit constituait un revenu de 711 et que l’appelant ne peut contester cette conclusion à titre subsidiaire.
+Analyse et conclusion
+[27] À mon avis, l’application du droit aux faits en l’espèce mène à la conclusion que, selon la prépondérance des probabilités, les observations formulées par l’avocat de l’intimée sont exactes. Les documents parlent d’eux‑mêmes. Il y a eu la vente initiale du terrain à 711. 711 était l’entité dont les activités consistaient à construire et à vendre des résidences. C’est 711 qui figure dans tous les documents pertinents. Aucun élément de preuve convaincant ne permet de croire qu’il existait une fiducie ou un contrat commercial prévoyant que 590 doive construire le bungalow et vendre le bien Ball. À mon sens, les témoignages des fils de l’appelant et de l’appelant lui‑même sont loin d’être concluants sur le point de savoir si c’est 590 qui a réellement construit et vendu le bien Ball. Les activités de l’appelant et de sa société, 711, visaient la construction et la vente de résidences. Les fils de l’appelant n’étaient pas directement concernés, sauf lorsqu’ils agissaient comme fournisseurs de matériaux. La preuve relative à l’acte rectificatif et au programme de garantie des maisons neuves établit sans équivoque que 711 était le constructeur. L’appelant était l’actionnaire unique de 711. Dans les documents, l’appelant affirme explicitement qu’il a le pouvoir de lier 711. Les quatre conditions auxquelles l’application du paragraphe 56(2) est assujettie, telles qu’elles sont énoncées dans l’arrêt Neuman, sont réunies. En outre, à mon avis, la cinquième condition préalable énoncée dans l’arrêt Winter, plus haut, est également remplie puisque je ne suis saisi d’aucun élément concluant établissant que 590 était « tenue » d’inclure le profit dans le calcul de son revenu. L’appelant était le cerveau ainsi que l’unique actionnaire et dirigeant de 711 et je ne vois pas comment il pourrait réfuter l’assertion selon laquelle il a donné des instructions ou son accord pour que sa société (711) procède au transfert. Enfin, la preuve voulant que 590 ait inclus le produit dans le calcul de son revenu et qu’elle soit donc assujettie à l’impôt en découlant ne me convainc pas non plus.
+[28] J’estime également que l’arrêt Smith permet de trancher la question de savoir si l’actionnaire peut être considéré comme l’auteur du transfert alors qu’en réalité, c’est sa société qui a joué ce rôle. L’appelant, à titre d’actionnaire, contrôlait la société.
+[29] Je crois qu’il est bien établi que, s’il contrôle totalement la société qui procède au transfert, l’actionnaire, même s’il n’a pas droit au profit, doit être considéré comme ayant donné son accord au transfert en faveur de l’autre personne au sens du paragraphe 56(2) de la Loi. De surcroît, je ne suis pas convaincu que l’appelant en l’espèce a réfuté les hypothèses formulées par le ministre – c.‑à‑d. il n’a pas présenté une preuve prima facie.
+[30] En conclusion, pour toutes les raisons qui précèdent, l’appel est rejeté avec dépens.
+Signé à Ottawa, Canada, ce 30e jour de novembre 2007.
+« T. O’Connor »
+Juge O’Connor
+Traduction certifiée conforme
+ce 28e jour de janvier 2008.
+Aleksandra Koziorowska, LL.B.
+RÉFÉRENCE : 2007CCI724
+NO DU DOSSIER DE LA COUR : 95‑3937(IT)G
+INTITULÉ DE LA CAUSE : William J. Hasiuk c. La Reine
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Le 18 octobre 2007
+MOTIFS DU JUGEMENT PAR : L’honorable juge T. O’Connor
+DATE DU JUGEMENT : Le 30 novembre 2007
+COMPARUTIONS :
+Avocate de l’appelant :
+Me Joy Casey
+Avocats de l’intimée :
+Me Andrew Miller et
+Me Ifeanyichukwu Nwachukwu
+AVOCAT(E) INSCRIT(E) AU DOSSIER :
+Pour l’appelant :
+Nom : Me Joy Casey
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous‑procureur général du Canada
+Ottawa, Canada
+[1] Le texte du paragraphe 15(1) de la Loi en vigueur avant et après septembre 1988 se trouve aux onglets 12 et 13 du recueil des textes à l’appui de l’intimée.

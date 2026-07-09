@@ -1,0 +1,169 @@
+Title: Jahnke v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28897/index.do
+Corpus path: corpus/cases/tcc/2008/2008-tcc-544-28897-jahnke-v-the-queen-en.md
+Document type: case_law
+Last modified: 2008-09-26
+
+# Jahnke v. The Queen
+
+- Citation: 2008 TCC 544
+- Decision date: 2008-09-26
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1405, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Jahnke v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-09-26
+Neutral citation
+2008 TCC 544
+File numbers
+2007-4329(IT)I
+Judges and Taxing Officers
+Eric A. Bowie
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2007-4329(IT)I
+BETWEEN:
+MARILYN JAHNKE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on June 23, 2008, at Saskatoon, Saskatchewan
+By: The Honourable Justice E.A. Bowie
+Appearances:
+Counsel for the Appellant:
+Cara L. Haaf
+Counsel for the Respondent:
+Lyle Bouvier
+____________________________________________________________________
+JUDGMENT
+The appeals from redeterminations made under the Income Tax Act for the 2004 and 2005 base taxation years are allowed, and the redeterminations are referred back to the Minister of National Revenue for reconsideration and redetermination on the basis that Tara Dawn Janvier was, during the 2004 and 2005 base years, a qualified dependant of the appellant
+Signed at Ottawa, Canada, this 26th day of September, 2008.
+“E.A. Bowie”
+Bowie J.
+Citation: 2008 TCC 544
+Date: 20080926
+Docket: 2007-4329(IT)I
+BETWEEN:
+MARILYN JAHNKE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Bowie J.
+[1] These are appeals brought under the informal procedure challenging notices of redetermination dated January 19, 2007 and January 26, 2007, respectively, whereby the Minister of National Revenue (the Minister) determined that the Appellant was not entitled to receive the Canada Child Tax Benefit (“CCTB”) and other benefits in respect of Tara Dawn Janvier. The basis for the Minister’s decision is that, in his view, Tara was not a qualified dependant of the appellant. By those redeterminations the Minister sought to recover a total of $4,455.12 from the appellant as overpayments.
+facts
+[2] The appellant and her husband, who is a semi-retired physician, have raised many foster children in the course of their marriage. Presently, they have eight children living with them, many of whom need special medical care. In July 1995, Tara joined the Appellant’s family, following her discharge from the hospital at about five months of age. She was born prematurely and requires special medical attention. She is unable to eat on her own and requires a feeding tube to provide her with nutrition. She also has some learning challenges.
+[3] Initially, the Appellant and her husband received no financial assistance either from the child’s parents or from the various government agencies responsible for child welfare. They did, however, receive some financial support from the Meadow Lake Tribal Council until August 2002. They also were able to have Tara covered by their family’s provincial medical insurance. It was during the year 2002 that the appellant applied for, and received, the CCTB under section 122.61 of the Income Tax Act,[1] as well as the National Child Benefit Supplement, the Child Disability Benefit and, in January 2006, the Energy Cost Benefit. For convenience, I shall refer to these collectively as “the Benefits”.
+[4] The appellant put into evidence a consent order made on March 27, 2005 by the Saskatchewan Court of Queen’s Bench (Family Law Division). The parties to the proceeding in which the order was made are the appellant and her husband, the birth parents of the child, and the Meadow Lake Tribal Council Health and Social Development Authority (“the Authority”). The order is a comprehensive one providing for the care and upbringing of the child. Under it, the appellant and her husband, the birth parents and the Authority are given joint custody of the child, with the responsibility for decision-making to be shared among them. The order provides that the child will live with the appellant and her husband, with the other parties having visitation rights. The final paragraph of the order provides that the Authority is required to provide financial assistance to the appellant and her husband. Specifically, it is required to pay Tara’s medical, dental and orthodontic costs, to the extent that they are not covered by insurance, and to pay $975.24 per month to the appellant and her husband.
+Issue
+[5] For the appellant to be entitled to receive the Benefits in respect of Tara, she must meet the definition of an “eligible individual” and Tara must meet the definition of a “qualified dependant”, both of which are found in section 122.6 of the Act. It is not disputed that the appellant satisfies the definition of an “eligible individual”. However the respondent’s position is that during the periods under appeal, Tara was not a “qualified dependant”. That definition reads:
+122.6 In this subdivision,
+"qualified dependant" at any time means a person who at that time
+(a) has not attained the age of 18 years,
+(b) is not a person in respect of whom an amount was deducted under paragraph (a) of the description of B in subsection 118(1) in computing the tax payable under this Part by the person's spouse or common-law partner for the base taxation year in relation to the month that includes that time, and
+(c) is not a person in respect of whom a special allowance under the Children's Special Allowances Act is payable for the month that includes that time;
+It is not in dispute that the entitlement to receive all the other benefits in issue here is governed by the same provisions of the Act that govern the entitlement to the CCTB.
+[6] The respondent’s case is based entirely on paragraph (c) of that definition, namely that Tara was a child in respect of whom a special allowance was payable under the Children’s Special Allowances Act[2] (“CSA Act”). That is the only issue in dispute. The assumptions on which the Minister based his redetermination of the appellant’s rights under the Act are pleaded in paragraph 10 of the Reply to the Notice of Appeal.
+10. In redetermining the Appellant’s entitlement to the CCTB for the 2004 and 2005 base years and to the Energy Cost Benefit for the 2004 base year, the Minister made the following assumptions of fact:
+(a) The Appellant was the primary caregiver in respect of Tara for the period July 2005 to December 2006;
+(b) beginning in December 2005, Tara was a person of whom [sic] a special allowance under the Children’s Special Allowance [sic] Act was payable;
+(c) Meadow Lake Tribal Council & Family Services, (the “Agency”) received a special allowance under the Children’s Special Allowance [sic] Act in respect of Tara beginning in December 2005;
+(d) the Agency paid maintenance to the Appellant in respect of Tara.
+At the trial, the respondent led no evidence, choosing instead to rely entirely on these assumptions.
+[7] It is evident that the Minister’s assumption in paragraph 10(b) is an assertion of mixed fact and law. As such, it is pleaded in blatant contravention of the decisions of both this Court and the Federal Court of Appeal in Anchor Pointe Energy Ltd. v. The Queen.[3] In that case, Rothstein J., writing for a unanimous Court of Appeal, said:
+… The Minister may assume the factual components of a conclusion of mixed fact and law. However, if he wishes to do so, he should extricate the factual components that are being assumed so that the taxpayer is told exactly what factual assumptions it must demolish in order to succeed. It is unsatisfactory that the assumed facts be buried in the conclusion of mixed fact and law.[4]
+The Minister should have extricated the factual components that were assumed in the conclusion that a special allowance under the CSA Act was payable in respect of Tara. Subparagraph 10(b) of the Reply is of no effect, and I shall ignore it.
+[8] Subparagraph 10(c) of the Reply is a factual statement. However it is a fact that is within the peculiar knowledge of the Minister of National Revenue, who administers the CSA Act, and the Meadow Lake Tribal Council & Family Services. The onus to prove this factual statement, therefore, must lie on the respondent rather than on the appellant. The decisions of the Supreme Court of Canada in Anderson Logging Co. v. R.[5] and Johnston v. Canada (Minister of National Revenue)[6] clearly established that the onus of proof lies with the Appellant as to those facts of which the Appellant has intimate knowledge. Fairness dictates that the same rule should apply to cast the onus on the respondent where the Minister and not the appellant has unique knowledge of the facts. It would have been a simple matter for the respondent to produce evidence to establish that the Minister was paying an allowance in respect of Tara under the CSA Act, and the facts upon which he had decided that he should do so. Having failed that, the respondent has not established that an allowance under the CSA Act was being paid in respect of Tara.
+[9] Paragraph (c) of the definition of “qualified dependant” refers to a child in respect of whom an allowance under the CSA Act is payable, not one in respect of whom an allowance is paid. It is therefore relevant to ask the question whether Tara is such a child, even though it has not been established that an allowance was paid in respect of her. Counsel for the respondent took the position that it is not open to this Court to consider whether an allowance was payable to the Agency under the CSA Act. His submission was that this Court has no jurisdiction to make any determination with respect to that matter, as the CSA Act is not a statute referred to in the Tax Court of Canada Act.[7] Thus, according to counsel, if the Minister decides to pay an allowance, this Court cannot question the correctness of that decision for the purpose of determining whether a child is a “qualified dependant” within the definition of the ITA. I do not agree. To take that view is to alter the definition of a “qualified dependant” under section 122.6 of the Act by changing the word “payable” to “paid”. If Parliament wanted the Act to be read in that way, it would have written it that way. Certainly, this Court cannot give any relief under the CSA Act; a person disputing a decision of the Minister to refuse to grant an allowance under that Act would have to seek judicial review in the Federal Court. However, when the answer to a question that is properly before this Court requires a determination whether, on the facts of the case, such an allowance would be payable, then this Court must make that determination. It would be an absurd result if an appellant could be denied benefits to which she is entitled under section 122.61 of the Act, without recourse to a right of appeal, simply because the Minister mistakenly paid a benefit under the CSA Act to someone else who was not entitled to receive it.
+[10] The Appellant’s position is that the conditions under which an allowance is payable under the CSA Act are not satisfied in this case, so no allowance was payable under that Act, and therefore, if any allowance was paid it was paid in error. Subsection 3(1) of the CSA Act governs the payment of allowances, and it reads as follows:
+3(1) Subject to this Act, there shall be paid out of the Consolidated Revenue Fund, for each month, a special allowance in the amount determined for that month by or pursuant to section 8 in respect of each child who
+(a) is maintained
+(i) by a department or agency of the government of Canada or a province, or
+(ii) by an agency appointed by a province, including an authority established under the laws of a province, or by an agency appointed by such an authority, for the purpose of administering any law of the province for the protection and care of children,
+and who resides in the private home of foster parents, a group foster home or an institution; or
+(b) is maintained by an institution licensed or otherwise authorized under the law of the province to have the custody or care of children.
+[11] Counsel for the appellant argues that neither paragraph (a) nor paragraph (b) of subsection 3(1) of the CSA Act applies for two reasons. First, Tara is not maintained by either a department or an agency of the kind described in subparagraph 3(1)(a)(i), or an institution of the kind described in paragraph 3(1)(b). Second, the Appellant submits that Tara did not reside in the private home of foster parents, a group foster home or an institution as further required by paragraph 3(1)(a). It is not disputed that Tara has lived exclusively with the appellant and her husband throughout the relevant period. The Appellant argues that she and her husband are not, and have not been since the date of the consent order, Tara’s foster parents. Rather they are, and have been since March 27, 2005, her custodial primary residence parents.
+[12] The term “maintained” is defined for purposes of the CSA Act, by section 9 of the Children’s Special Allowance Regulations.[8] It reads:
+MAINTENANCE OF CHILD
+9. For the purposes of the Act, a child is considered to be maintained by an applicant in a month if the child, at the end of the month, is dependant on the applicant for the child's care, maintenance, education, training and advancement to a greater extent than on any other department, agency or institution or on any person.
+[13] In order to qualify as maintaining Tara, it is not necessary for the Agency to provide for all of her living expenses. It simply has to provide for the child’s care, maintenance, education, training and advancement to a greater extent than the Appellant, or anyone else does. This is a question of fact that neither party has addressed in the pleadings or in evidence. The Appellant took a narrow approach, arguing that the Consent Order does not explicitly state that Tara is “maintained” by the Agency, and so no payments should have been made to it under the CSA Act.
+[14] It is not possible to determine on the evidence before me whether Tara is “maintained” by the Authority, as there is no basis on which to compare its contribution towards her maintenance with that of the appellant and her husband. It is notable, too, that the respondent did not plead as an assumption that the Authority maintained Tara, only that it paid maintenance. Neither the Minister’s assumptions nor the evidence establishes that any department, agency or institution maintained Tara within the defined meaning of that term.
+[15] The other requirement to bring a child within paragraph 3(1)(a) of the CSA Act is that the child “…resides in the private home of foster parents, a group foster home or an institution…”. Are the appellant and her husband Tara’s foster parents? From an examination of the relevant Saskatchewan legislation, it appears that from the time the consent order was made in March 2005 they could not have been foster parents to the child.
+[16] The Child and Family Services Act[9] of Saskatchewan promotes the well‑being of children by providing services to them, one of which is foster care. The Children’s Law Act, 1997[10] establishes the legislative regime regarding child custody and access. Justice Sandomirsky of the Saskatchewan Court of Queen's Bench (Family Law Division) has explained the different functions of the two statutes this way:
+The CFSA [Child and Family Services Act] and the CLA [Children’s Law Act, 1997] have different objectives. The former is legislation designed to apprehend a child in need of protection and to promote the well being of the child by offering, where appropriate, services that are designed to maintain, support and preserve the family in the least disruptive manner (see s. 3). The overarching principle in this legislative scheme is the child's best interests, which interests are to be determined by considering each of the factors set out in s. 4 of the said Act. Section 4 is not an exhaustive set of factors despite the expansive nature of the factors enunciated therein. The CLA focuses upon the custody and access of children and provides a legislative regime for determining competing claims and interests respecting children. In Saskatchewan these two statutes are read together as part of a comprehensive scheme of child welfare legislation.(citations omitted) [11]
+Paragraph 2(1)(j) of the Child and Family Services Act defines “foster care services” as follows:
+(j) “foster care services” means the provision of residential services to a child by and in the home of a person who is:
+(i) approved by a director to care for the child; and
+(ii) not the child’s parent or a person with whom the child has been placed for adoption;
+Subsection 2(1) of The Child and Family Services Regulations[12] defines the following terms:
+(d) “foster home” means the home of a person who has been approved by the director to provide foster care services for a child in the home;
+(e) “foster parent” means a person whom a director has approved to provide foster care services
+Paragraph 2(1)(g) of The Child and Family Services Act defines “director” as:
+… a person appointed by the minister pursuant to clause 57(a) as a director for all or any of the purposes of this Act and, in the absence of an appointment, means the minister;
+Part VI of The Child and Family Services Act deals with children in the care of the Minister and addresses foster care agreements. Section 54 reads as follows:
+54(1) Where foster care services are provided pursuant to this Act, the director shall enter into a written agreement with the person providing those services setting out the duties and responsibilities of each party with respect to the care provided.
+54(2) None of the rights or powers vested in the minister pursuant to this Act are impaired by any terms or conditions of an agreement made pursuant to subsection (1).
+54(3) Every agreement made pursuant to subsection (1) is deemed to contain a provision reserving to the director the right to remove the child from the person providing foster care where, in the opinion of the director, the welfare of the child requires that removal.
+When a child is placed under foster care, the Minister retains the ultimate control, and is responsible for that child’s welfare. The foster parents simply provide a “residential service”. The foster child may be removed from its foster parents if the director deems it necessary, without the need of a court order. Thus, a child who is placed under foster care remains in the care of the Minister, as reflected by the title of Part VI: Children in the Care of the Minister.
+[17] Subsections 6(1) and (4) of The Children’s Law Act provide:
+6(1) Notwithstanding sections 3 to 5, on the application of a parent or other person having, in the opinion of the court, a sufficient interest, the court may, by order:
+(a) grant custody of or access to a child to one or more persons;
+(b) determine any aspect of the incidents of the right to custody or access; and
+(c) make any additional order that the court considers necessary and proper in the circumstances.
+…
+6(4) On application, the court may vary or discharge any order made pursuant to this section where there has been a material change in circumstances since the date of the order….
+The following terms are defined for purposes of this statute:
+“court” means the Family Law Division of the Court of Queen’s Bench or a judge of that court sitting in chambers; («tribunal»)
+“custody” means personal guardianship of a child and includes care, upbringing and any other incident of custody having regard to the child’s age and maturity; («garde»)
+“legal custodian” means a person having lawful custody of a child; («gardien légitime»)
+[18] It is clear that the appellant and her husband, the birth parents and the Authority, all have joint custody of Tara. This is provided specifically in paragraph 1 of the consent order. I agree with the Appellant that once she was granted shared custody of Tara she could no longer be her foster parent. As a custodial parent, she no longer is a “person whom a director has approved to provide foster care services”[13] and, therefore, she does not fall within the definition of “foster parent” pursuant to subsection 2(1) of The Child and Family Services Regulations. The Appellant does not simply act on the Minister’s behalf, and cannot be displaced by the Minister. The terms of the consent order can only be altered by the Court, which has jurisdiction to deal with custody.
+[19] As Tara does not reside in the home of foster parents, a group foster home or an institution, it follows that she was not a child to whom a special allowance was payable under subsection 3(1) of the CSA Act during the years under appeal. As this was the only basis for the Minister’s decision to deny the appellant the CCTB under section 122.61 of the Act, the appeals must succeed.
+[20] The appeals are allowed. The redeterminations are referred back to the Minister for reconsideration and redetermination on the basis that Tara was, during the 2004 and 2005 base years, a qualified dependant of the appellant.
+Signed at Ottawa, Canada, this 26th day of September, 2008.
+“E.A. Bowie”
+Bowie J.
+CITATION: 2008 TCC 544
+COURT FILE NO.: 2007-4329(IT)I
+STYLE OF CAUSE: MARILYN JAHNKE and
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: Saskatoon, Saskatchewan
+DATE OF HEARING: June 23, 2008
+REASONS FOR JUDGMENT BY: The Honourable Justice E.A. Bowie
+DATE OF JUDGMENT: September 26, 2008
+APPEARANCES:
+Counsel for the Appellant:
+Cara L. Haaf
+Counsel for the Respondent
+Lyle Bouvier
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Cara L. Haaf
+Firm: Scharfstein, Gibbing, Walen & Thrasher
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] R.S. 1985 (5th Supp.) c.1, as amended.
+[2] S.C. 1992, c. 48.
+[3] [2002] 4 C.T.C. 2633; aff’d [2004] 5 C.T.C. 98 (F.C.A.).
+[4] Ibid, at para. 26.
+[5] [1925] S.C.R. 45.
+[6] [1948] S.C.R. 486.
+[7] R.S.C. 1985, c. T-2.
+[8] S.O.R./93-12.
+[9] S.S. 1989-90, c. C-7.2.
+[10] S.S. 1997, c. C-8.2.
+[11] L.P. v. S.P., (2006) 287 Sask. R. 228; 2006 SKQB 478; at para. 23.
+[12] R.R.S. 2000, c. C-7.2, Reg. 1.
+[13] Regulation, s. 2(1).

@@ -1,0 +1,277 @@
+---
+title: "Meunier v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/25895/index.do"
+last_modified: "2005-04-18"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 TCC 52"
+citation2: ""
+neutral_citation: "2005 TCC 52"
+decision_date: "2005-04-18"
+language: "en"
+item_id: "25895"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3693
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T20:49:29.203000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "616bbc42949557c96c30897ac7d2980dc498c2c1f3636bf7936ec21ef23afd69"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Meunier v. M.N.R.
+
+- Citation: 2005 TCC 52
+- Decision date: 2005-04-18
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3693, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Meunier v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-04-18
+Neutral citation
+2005 TCC 52
+File numbers
+2004-1182(EI)
+Judges and Taxing Officers
+Paul Bédard
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2004-1182(EI)
+BETWEEN:
+CLAUDE MEUNIER,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on December 9, 2004, at Quebec City, Quebec
+Before: The Honourable Judge Paul Bédard
+Appearances:
+Counsel for the Appellant:
+Jérôme Carrier
+Counsel for the Respondent:
+Marie-Claude Landry
+____________________________________________________________________
+JUDGMENT
+The appeal is dismissed and the Minister’s decision is upheld in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 18th day of April 2005.
+"Paul Bédard"
+Bédard J.
+Certified true translation
+on this 31st day of January, 2006
+Garth McLeod, Translator
+Citation: 2005TCC52
+Date: 20050418
+Docket: 2004-1182(EI)
+BETWEEN:
+CLAUDE MEUNIER,
+Appellant,
+And
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Bédard J.
+[1] The Appellant assigned his assets on November 9, 2000. These assets included woodland that the Appellant's trustee in bankruptcy sold to 9082‑3345 Québec Inc. (the "payor") on December 20, 2000. The payor's shareholders were Jean-Claude Verret and Anne Lagacé. Ms. Lagacé was the wife of Mr. Serge Lavoie, the payor's accountant. The payor hired the Appellant as an employee from November 27, 2000 to May 4, 2001, to cut wood on the woodlot and to find and evaluate other woodlots for the payor whose objective, it would appear, was to purchase several of them. The Appellant is appealing the decision of the Minister of National Revenue (the "Minister") that the Appellant did not, during this period, hold insurable employment with the payor under a genuine contract of service within the meaning of subsection 5(1)(a) of the Employment Insurance Act (the Act).
+[2] The facts on which the Minister based his decision are set out in paragraph 5 of the Response to Notice of Appeal and are as follows:
+a) The Appellant operated a transportation and snow‑removal business for over 20 years; he was the owner of a truck;
+b) Serge Lavoie was the accountant of the Appellant;
+c) on November 9, 2000, the Appellant declared bankruptcy and the corporation Roy, Métivier, Roberge Inc. (the trustee) was named the trustee in bankruptcy of the Appellant;
+d) Anne Lagacé is the spouse of Serge Lavoie;
+e) Anne Lagacé and Jean-Claude Verret were equal shareholders of the payor;
+f) the payor had been incorporated on September 28, 1999;
+g) the payor had been incorporated with the aim of manufacturing furniture;
+h) the payor had a registered corporate name: "Industrie Veronica";
+i) on December 20, 2000, the payor purchased from the trustee, by way of a notarized bill of sale, a woodlot out of the bankruptcy assets of the appellant;
+j) the sale price was $4,000;
+k) the woodlot was located in the municipality of Saint-Siméon;
+l) under the terms of the bill of sale, the payor had possession of the land from the day of the sale;
+m) the payor claims that the Appellant was hired as a wood cutter to cut and sort wood from his woodlot and to find other woodlots areas to purchase for the payor, whereas the Appellant claims that the payor hired him to cut wood, which was already felled and split, into firewood, cord it and remove it, to mark the boundaries of his woodlot and to walk other woodlots;
+n) the Appellant claimed that he began working for the payor on November 27, 2000, whereas the payor did not take possession of the lot until December 20, 2000;
+o) during the period at issue, the Appellant was the only employee of the payor;
+p) the payor did not give instructions to the Appellant;
+q) the payor did not control the work of the Appellant;
+r) the Appellant was not required to follow a schedule, he worked depending on the weather;
+s) the Appellant did not keep track of the hours he worked;
+t) in reality, the Appellant worked very little for the payor during the period at issue;
+u) the Appellant supplied his snowmobile to carry out his duties for the payor;
+v) the Appellant was entered in the payor's payroll for gross earnings of $350 per week;
+w) the Appellant received his pay cheques from the payor from the bank account of Serge Lavoie CGA;
+x) in 2001, the sales of the payor for the fiscal year ending on September 20, 2001 were zero;
+y) the payor sold no firewood in 2001;
+z) on May 4, 2001, Industrie Veronica Inc. (sic) issued a Record of Employment to the Appellant for the period beginning on November 27, 2000 and ending on May 4, 2001, which showed 920 insurable hours (23 weeks x 40 hours) and total insurable earning of $8,050.00 (23 weeks x $350.00);
+aa) the Record of Employment does not reflect the real situation regarding the period worked, the hours worked or the remuneration paid;
+bb) the Appellant needed 910 hours to qualify for Employment Insurance benefits;
+cc) the Appellant and the payor concluded an arrangement to allow the Appellant to qualify for Employment Insurance Benefits.
+OTHER RELEVANT FACTS:
+6. The Appellant received pay cheques for only 20 of the 23 weeks of the period at issue.
+7. For his first five pay cheques, the Appellant received four cheques of $191.37 and one of $449.16, for a total of $1,214.14, whereas his net pay for each of the other fifteen weeks was $304.92.
+8. The sum of $1,214.14 represents only four weeks of net pay.
+9. In reality, the Appellant was paid for only the equivalent of 19 complete weeks of work.
+[3] All the facts on which the Minister based his decision were admitted, with the exception of the facts set out in subparagraphs (p), (q), (r), (s), (t), (u),[1] (aa) and (cc) of paragraph 5 of the Response to Notice of Appeal, which were denied, and except for the facts set out in subparagraphs (o), (x), (y) and (bb) of paragraph 5 of the Response to Notice of Appeal, about which the Appellant had no knowledge. Furthermore, the facts set out in paragraphs 6, 7, 8 and 9 were denied.
+Analysis
+[4] In order for the Appellant to receive Employment Insurance benefits, the work must have been performed under a genuine contract of service. In order to decide whether a work contract meets this condition, the case law has identified the following criteria: the relationship of subordination giving the payor power of control over the work performed for the remuneration paid, the chances of profit and the risk of loss, ownership of tools and integration.
+[5] The application of these criteria to the facts in the case clearly supports the conclusion that the work contract meets these conditions. On the other hand, it is equally important that it be a genuine work contract, failing which the exercise of applying the criteria is quite pointless. The first question that must be asked here is whether the contract binding the Appellant constituted a genuine work contract. Was the job in fact a deception?
+[6] The burden of proof rested on the Appellant. He had to convince me, based on a preponderance of probabilities, that the contract that bound him to the payor constituted a genuine work contract. He thus had to show specifically that there was an actual delivery of services, one of the essential elements of a work contract.
+[7] Assessing the credibility of the Appellant played an important role in my decision, since the evidence provided by the Appellant was essentially based on his testimony, to which I accorded little evidential force. In fact, the Appellant did nothing more than make general, unverifiable statements that were often improbable. The explanations of the Appellant were often confused, unintelligible, laborious, contradictory and contrary to other evidence. The witness’s' discomfort merely added to my doubts about his credibility. He could in several instances have supported his assertions with independent, credible testimony or satisfactory documentary evidence. He did not do so. I infer from that that such evidence would not have been favourable to him.
+[8] In this case, I noted a series of elements which led me to conclude that the Appellant's credibility was very low, including the following.
+i) First, at the start of his testimony, the Appellant stated that, in his first interview with the payor, the latter had offered him a job on condition that he reside in Charlevoix.[2] He also stated that he had, in the wake of this meeting, rented an apartment in Clermont in accordance with the payor's instructions.[3] It is appropriate to point out that the Appellant testified that, at the time of his first meeting with the payor, he was living in Port-aux-Quilles, near Saint‑Siméon,[4] and that the distance between Saint‑Siméon and Clermont is approximately 20 miles.[5] It should also be remembered that the Appellant's primary place of work was the woodlot which was located in Saint‑Siméon.[6] Therefore, in renting an apartment in Clermont, the Appellant would be moving away from his previous residence and his principal place of work which, it must be remembered, was in Saint-Siméon. It would appear, in fact, that the distance between Saint-Siméon and Clermont is 36 miles. The statement by the Appellant that he had rented an apartment in Clermont at the request of the payor is in my view inexplicable, improbable and absurd. It is hardly surprising that the Appellant did not support his assertions with serious objective evidence (a lease or rent cheques) or with independent, credible testimony. I infer from that that such evidence would not have been favourable to him.
+ii) My review of the evidence regarding the expenditures made by the Appellant in the context of his employment merely added to my doubts about his credibility. The Appellant in this regard gave a version of the facts that was ambiguous, vague, elusive, imprecise, contradictory and contradicted by the statements of Mr. Verret and Mr. Lavoie. The relevant portions of the statements by the Appellant and of Mr. Verret and Mr. Perrier deserve to be quoted:
+[translation]
+Q. But there you are talking about gas. Who paid for the gas for the skidoo?
+A. The others were supposed to. But when they saw that they said: Get an advance from Savard garage in Saint‑Siméon, then he said, we'll pay the bill.
+Q. Yes, but what happened in fact? Was the bill paid?
+A. Yes
+[...]
+Q. And so who paid for the gas (for the power saw) at that point?
+A. That was him too, the gas and oil. [7]
+[...]
+A. He provided me with the power saw, the gas, all that, then he paid my gas, and he paid me for the oil for the expenses, but no more.
+Q. Are you saying that you were reimbursed for the gas?
+A. Yes.
+Q. You maintain that?
+A. Yes, yes. Because the account was at the Savard, Irving garage in Saint‑Siméon, in the name of Jean‑Claude Verret, O.K., Véronica. Something like that.
+Q. Were you always reimbursed for your gas?
+A. Jean-Claude Verret was the one who paid.
+Q. O.K.
+A. Do you understand! I …
+Q. I understand, but you stated something else. I'll tell you right now. You stated something else to the officers and to the investigators.
+A. I don't know what I stated. I know that he was the one who paid the gas account there because he had … There was a cut, I think, it amounted to three hundred and something.
+Q. You said just now, you mentioned that you had difficulty getting your pay. Would the situation not be the same for the gas expenses?
+A. No, no, no, no.[8]
+[...]
+Q. Who was paying for the gas, etc. for the skidoo?
+A. That was me, he was supposed to reimburse me[9]...
+[...]
+A. [...] They were supposed to send me $250 for the fuel and taking out the wood, but I never go it. [10]
+[...]
+Q. Who was paying for the expenses for his machine?
+A. He was the one who was paying, but we reimbursed [error in the original] some of it.[11]
+[...]
+Q. Who was paying the bills for buying gas, oil and repairs related to the cutting and removal of the wood?
+A. I paid one, for which I was reimbursed and I don't know about the others. [12]
+Lastly, it is appropriate to note that Mr. Lévesque of the CCRA testified[13] that he had attempted to obtain from Mr. Lavoie the amount of expenses incurred by the Appellant in this way, as part of his job, along with supporting documentation for it.
+iii) How can the following two passages be reconciled? First, the answer by the Appellant on the subject of the sale of wood:
+[translation]
+Q. Did the guy who bought the land buy the wood on it?
+A. Yes, he asked me to continue to do the wood. I told him no.
+Q. No, but the wood, to your knowledge, the 100 cords and then the other two, three hundred …
+A. Yes, yes, the gentleman who bought the land, ...
+Q. Did he buy it with the wood that was on it?
+A. Yes, he bought everything with the wood that was there. And he asked me, he said: Claude, he said, if you have nothing to do, he said, would you come and work for me? I said to that: you'll be hiring me at a rate equal to … starvation wages. Come on! [14]
+Then, there are the following answers on the same topic:
+[translation]
+Q. And the 100 cords that was cut and split that were stacked up near the road, …
+A. Yes.
+Q. ... to your knowledge, was that sold?
+A. I don't know anything about that, Sir.
+Q. But when you finished in May 2001, was that stack of wood still there?
+A. No, I went by at one point when the lot had been sold, it looked like it.
+Q. When was it sold, to the gentleman from SOS?
+A. I don't know. It was in the summer. But I know, it happened in the winter.[15]
+iv) The Appellant's testimony regarding the telephone conversations that he had every evening with Mr. Lavoie is also worth quoting, as it is in itself a classic piece of confusion, contradictions and improbabilities:
+[translation]
+A. [...] He used to call me every evening, Serge Lavoie, not Jean-Claude, to see what I had done and how things were going, that was it. [16]
+[...]
+Q. But you, you referred just now to being in constant contact with Mr. … you talked about a telephone call, a call with your employer. But who did you speak to at that point?
+A. In the evenings it was … I had to call Serge Lavoie, the accountant, every evening, 1-800, there.[17]
+[...]
+Q. At that time, when you called him in the evening, what did you say to him? When you didn't have to walk the lot, what did you say at that point?
+A. Well, he would say: Claude, what did you do today? When he talked. Yes. So I said: What did I do today, that's easy to understand, the weather was good, I was in the woods, you know, I was logging. Oh yes. Did you bring some out? Is the lake frozen? What do you think? So I said: well, I've got another lot, you should see it, take a look at it, start to inform yourself whether you can have someone to go and see it with you. So I said yes. The next evening, it was always the same thing. [18]
+[...]
+A. Yes. I called him and then he said to me: what did you do? So I said: there was a snow storm. Oh yes! Yes, yes, yes. It's true. You know. Yes. [19]
+Was it Mr. Lavoie or the Appellant who made these telephone calls every evening? I find it astonishing that the parties spoke not frequently, or even from time to time, but every evening. I have a great deal of difficulty imagining the purpose of these telephone conversations, especially on days where, apparently, the Appellant was unable to work because of inclement weather. Lastly, it is appropriate to mention that Mr. Lavoie's statutory declaration makes no mention whatsoever of these daily telephone calls.
+v) Another troubling fact: the Appellant testified that he had accepted a weekly remuneration of approximately $300 (net)[20], although he had agreed, when he was hired, to a weekly salary of $450 (net). First of all, in a telephone conversation with the authorities on January 8, 2004, Mr. Lavoie denied having concluded an agreement of this kind when the Appellant was hired.[21] The statement by Mr. Verret on January 7, 2004 was in the same vein.[22] Second, the Appellant did not explain why each of his pay cheques was for $191.37 (instead of $304.92) for the first four weeks of work, $449.16 for the fifth week of work and $304.92 for the last 15 weeks of work. Furthermore, the Appellant submitted in evidence (Exhibit A-3) all the cheques that he had received from the payor, with the exception, curiously enough, of those that were allegedly made by the payor for the sixth, seventh and eighth weeks of work. It is worth noting that the Appellant provided no explanation with respect to these missing cheques. The question thus remains: was the Appellant paid for these three weeks of work?
+vi) Did the Appellant begin to work on the wood lot on November 27, 2000, as stated by the payor in the Appellant's Record of Employment? We are at liberty to doubt it, as the evidence has revealed that the payor had acquired the wood lot and taken possession of it on December 20, 2000. Furthermore, the first four pay cheques, for the weeks of November 26, 2000 to December 23, 2000, were cashed by the Appellant on December 20, 2000, i.e., on the date the Appellant acquired and took possession of this wood lot. This coincidence merely adds to my suspicions regarding the actual delivery of services by the Appellant. In this connection, I would have liked to have hear the testimony of the trustee and of Mr. Verret and Mr. Lavoie.
+[9] It was incumbent on the Appellant to prove to me, based on a balance of probabilities, that there was an actual delivery of services during the period in question. In view of the lack of evidential force that I grant to the Appellant's testimony, it is certainly not by making general, unverifiable, ambiguous and contradictory statements that the Appellant could discharge the obligation upon him. The Appellant's evidence in this regard was essentially based on his testimony. His testimony regarding the work he performed could be summarized as follows:
+i) he allegedly spent 4 to 5 days installing a fence on the payor's land;
+ii) he allegedly removed approximately 100 cords of 16 inch logs, which he had taken out of the woods and placed beside the road;
+iii) he allegedly made 200 to 300 4 ft cords of wood, which he had left in the forest;
+iv) he allegedly went over the payor's land on four occasions with a man called Stéphane, who reportedly purchased the wood lot in August 2001;
+iv) the payor allegedly asked him to identify and assess woodlots with a view to purchasing them. The Appellant had accordingly surveyed several woodlots.
+[10] A large portion of the Appellant's testimony had to do with the land that he had surveyed in this way. Here again, the Appellant was content to make general, unverifiable, ambiguous and evasive statements. It accordingly emerges from this testimony that it is impossible to determine the exact number of wood lots that he surveyed and the time he devoted to this activity. The Appellant was not even able to name the owners of these woodlots. He could have supported his statements with testimony by the owners of these woodlots. None of that was done. I infer from that that this evidence would have been unfavourable to the Appellant.
+[11] The testimony of the Appellant regarding other services rendered to the payor during the period under consideration was equally evasive, unverifiable and completely lacking in substantiation by objective proof or independent, credible testimony. By way of example, the Appellant stated in his testimony that he had cut approximately 100 cords of 16-inch logs, that he had placed the wood beside Highway 138 and that he had made 200 to 300 four-foot cords of wood which he had left in the forest. However, he stated at a meeting on January 6, 2004 that he had made 600 cords of wood. To add to the confusion, Mr. Verret had stated in a telephone call on January 7, 2000 that the Appellant had produced 400 cords of wood. The situation is the same for each aspect of the delivery of services by the Appellant.
+[12] I conclude that this employment was merely a deception and that the Appellant and the payor had made an arrangement to allow the Appellant to receive Employment Insurance benefits. I am of the view that the contract binding the Appellant and the payor was not a genuine contract of employment. In effect, the Appellant was required to show that the contract of employment that bound him to the payor met all the conditions set out in the Civil Code of Quebec. He thus had to show specifically that there was an actual delivery of services, one of the elements that is essential to the existence of his contract of employment. The Appellant simply has not discharged the obligation upon him to prove, based on the preponderance of probabilities, that there was an actual delivery of services. In light of the foregoing, I see no point in examining the other conditions set out in the Civil Code of Quebec.
+[13] For these reasons, the appeal is dismissed.
+Signed at Ottawa, Canada, this 18th day of April, 2005.
+"Paul Bédard"
+Bédard J.
+Translation certified true
+On this 31st day of January, 2006.
+Garth McLeod, Translator
+CITATION:
+2005TCC52
+COURT DOCKET NO.:
+2004-1182(EI)
+STYLE OF CAUSE:
+Claude Meunier and M.N.R.
+PLACE OF HEARING:
+Quebec City, Quebec
+DATE OF HEARING:
+December 9, 2004
+REASONS FOR JUDGMENT:
+The Honourable Justice Paul Bédard
+DATE OF JUDGMENT:
+April 18, 2005
+APPEARANCES:
+For the Appellant:
+Jérôme Carrier
+For the Respondent:
+Marie-Claude Landry
+SOLICITOR OF RECORD:
+For the Appellant:
+Name:
+Jérôme Carrier
+Firm:
+Rochon, Belzile, Carrier, Auger
+Quebec City, Quebec
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Saving and excepting additional facts.
+[2] Pages 8 and 9 of the stenographic record.
+[3] Page 9 of the stenographic record.
+[4] Page 12 of the stenographic record.
+[5] Page 13 of the stenographic record.
+[6] See Exhibit I-3.
+[7] Pages 10 and 11 of the stenographic record.
+[8] Ibid, on pages 67 and 68.
+[9] See Exhibit I-1 on page 3.
+[10] See Exhbiit I-1 on pages 4 and 5.
+[11] See question 7 of the statutory declaration of Mr. Lavoie.
+[12] See question 11 of the statutory declaration of Mr. Verret.
+[13] Page 84 of the stenographic record.
+[14] Ibid, at pages 45 and 46.
+[15] Ibid, at pages 29 and 30.
+[16] Ibid, at pages 9 and 10.
+[17] Ibid, at page 49.
+[18] Ibid, at page 50.
+[19] Ibid, at pages 56 and 57.
+[20] Ibid, at page 63.
+[21] See Exhibit I-2, paragraph 69, at page 6.
+[22] See Exhibit I-2, paragraph 47, at page 5.

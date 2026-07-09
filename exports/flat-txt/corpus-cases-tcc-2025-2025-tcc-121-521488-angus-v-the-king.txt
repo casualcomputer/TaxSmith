@@ -1,0 +1,147 @@
+Title: Angus v. The King
+Source: https://norma.lexum.com/tcc-cci/decisions/en/item/521488/index.do
+Corpus path: corpus/cases/tcc/2025/2025-tcc-121-521488-angus-v-the-king.md
+Document type: case_law
+Last modified: 2025-09-04
+
+# Angus v. The King
+
+- Citation: 2025 TCC 121
+- Decision date: 2025-09-04
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5450, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Angus v. The King
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2025-09-04
+Neutral citation
+2025 TCC 121
+File numbers
+2024-1848(IT)I
+Judges and Taxing Officers
+David E. Spiro
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2024-1848(IT)I
+BETWEEN:
+PATRICK M. ANGUS,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+Appeal heard on August 18, 2025, at Vancouver, British Columbia
+Before: The Honourable Justice David E. Spiro
+Appearances:
+Agent for the Appellant:
+Greg Olson
+Counsel for the Respondent:
+Jennifer Rogers
+JUDGMENT
+The appeal of the assessment of the Appellant’s 2022 taxation year is dismissed without costs.
+Signed this 4th day of September 2025.
+“David E. Spiro”
+Spiro J.
+Citation: 2025 TCC 121
+Date: 20250904
+Docket: 2024-1848(IT)I
+BETWEEN:
+PATRICK M. ANGUS,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+REASONS FOR JUDGMENT
+Spiro J.
+[1] The move that Mr. Angus, the Appellant, decided to make from Vancouver to Salt Spring Island lies at the heart of his appeal of the disallowance by the Minister of National Revenue (the “Minister”) of moving expenses of $134,000 in computing employment income for his 2022 taxation year.
+[2] The Appellant has worked as a transportation coordinator for the film industry for the last 32 years.[1] He provides those services through his own company, Liberal Holdings Corporation. He is the only shareholder, director and employee of his company. Through that company, he has coordinated transportation for dozens of productions ranging from Jumanji (1995) to Elf (2003) to Godzilla (2014) and Jurassic World: Dominion (2022). In describing the nature of his work, the Appellant testified that he is:
+… one of the first people to be hired by the production company. Your job is to facilitate the renting of vehicles, the arranging of transportation of goods and people, planning for the film, logistics. It’s basically a logistics job.[2]
+[3] In addition, a transportation coordinator is responsible for hiring drivers, equipment, and security personnel. They survey various film locations. They also need to be ready to return to the film location if, for example, the production company changes its plans or if labour issues arise.
+[4] The production companies pay the Appellant’s transportation and accommodation costs wherever they require him to go, regardless of the location of his home base.
+[5] The Appellant testified that in 2021, when Canada was still in the grip of the COVID-19 pandemic, “a lot of productions were sort of looking towards Vancouver Island.”[3] He testified that there was more space, and it was more open, on Vancouver Island which meant that there were less concerns about COVID-19 protocols.[4] In addition, he testified that:
+Vancouver Island is sort of a distant location so it has a different credit base, tax credit base. There’s – you know, they have credit – labour tax credits in British Columbia for labour and depending what zone you’re in, what you get. So it’s advantageous to sort of, some productions, to travel to those locations. It’s a bit more difficult for them, but they get more money.
+JUSTICE: Who is “them”?
+A Production, production companies. Majority are American based. So when it looked like there was some activity, like increased activity on Vancouver Island, I thought that I would be at sort of the forefront of getting over there. There’s not much, sort of, there’s not much – many people there, the infrastructure is, you know, I won’t say primitive, but it’s lacking compared to Vancouver. So I thought, given that change of look and employment opportunities over on the Island, I would investigate that.
+It looked good. I was employed. And so, I sold my property in Vancouver on East 5th Avenue and decided to – for the size of the property that I sort of wanted to be able to move everything, like trucks and equipment and all that stuff that is in my poss- -- in my company’s possession, Liberal Holdings. That Salt Spring was sort of a central spot, you could get large pieces of property for a reasonable price.[5]
+[6] The Appellant testified that many of the productions he worked on – both before and after his 2021 move – were filmed in multiple locations including Vancouver, other locations in the Lower Mainland, various locations on Vancouver Island, as well as in Alberta.
+The Law [7] Subsection 62(1) of the Income Tax Act (the “Act”) requires an employee to make an “eligible relocation” in order to deduct their moving costs. The term “eligible relocation” is defined in subsection 248(1). Here is a brief paraphrase:
+A relocation of a taxpayer in respect of which the following apply:
+a) the relocation occurs to enable the taxpayer to be employed at a location (the “new work location”);
+b) the taxpayer ordinarily resided before the relocation at a residence (the “old residence”) and ordinarily resided after the relocation at a residence (the “new residence”); and
+c) the distance between the old residence and the new work location is not less than 40 kilometers greater than the distance between the new residence and the new work location.
+The Appellant’s Position [8] The Appellant’s position is that his move was made primarily to allow him to live closer to where he expected additional opportunities for him to work, namely, Vancouver Island.
+[9] The west coast of Salt Spring Island is adjacent to – but separated by water from – the east coast of Vancouver Island. Salt Spring Island lies just off the east coast of Vancouver Island, about halfway between Victoria and Nanaimo. Salt Spring Island is closer to the east coast of Vancouver Island than Vancouver is to the east coast of Vancouver Island.
+[10] For those reasons, the Appellant submits that he meets the first condition for “eligible relocation” under subsection 248(1) of the Act, namely, that he made the move to enable him to be employed at a new work location on Vancouver Island.[6]
+The Crown’s Position [11] The central assumption of fact made by the Minister in assessing is that the Appellant’s relocation “did not occur to allow the Appellant to … be employed at a new work location.”[7]
+[12] The Crown takes the position that the Appellant made the move primarily for personal reasons. The Appellant, therefore, fails the first condition for “eligible relocation” under subsection 248(1) of the Act.
+The Appellant’s Admissions [13] In an email message received by Crown counsel, the Appellant made several damaging admissions regarding the reason for his move.
+[14] The contents of that email message are hearsay and, therefore, presumptively inadmissible. I decided to admit the Appellant’s email message into evidence for the truth of its contents under an exception to the rule against hearsay known as the “party admission” exception. In Greer v The King, 2023 TCC 100[8] this Court had occasion to apply that exception:
+[47] An evidentiary issue arose in respect of HGSL’s shareholders’ register. It was most certainly relevant but it was subject to an exclusionary rule, namely, the rule against hearsay.
+[48] Hearsay evidence is generally considered to have three components: (1) a statement made outside of court by a declarant; (2) which a party seeks to adduce in court for the truth of its content; (3) without the ability of the other party to contemporaneously cross‐examine the declarant. [Footnote: R. v Schneider, 2022 SCC 34 at para 47.]
+[49] Among the traditional exceptions to the rule against hearsay is a “party admission”. The party admission exception includes any “acts or words of a party offered as evidence against that party”. [Footnote: See Schneider at para 52.]
+[50] During the audit of the Appellant’s 2006 taxation year, the Appellant produced the minute book of HGSL to the auditor. The auditor visited the Appellant’s office and reviewed the minute book which he scanned and printed for his file. That minute book was the source of the shareholders’ register of HGSL attached as Schedule “A” to these reasons.
+[51] The Appellant’s act of providing the auditor with the shareholders’ register of HGSL constitutes a party admission. Having provided that document to the auditor, the Appellant cannot be heard to complain about its unreliability. [Footnote: See Schneider at para 53.]
+[15] The Appellant wrote the email message to his agent in this appeal, Mr. Olson, for the purpose of sending it to Crown counsel in answer to a question posed shortly before the hearing. Here are the contents of the Appellant’s email message:
+The reason for the move was to leave Vancouver as someone had tried to burn down the building that was adjacent to our property on East 5th Ave. The arsonist tried twice and this was very upsetting to my partner.
+We made the move reluctantly but in the need to feel safe. I also worked on a project that was being filmed on Vancouver Island – Salt Spring is very close to Vancouver Island – a lot closer than Vancouver.
+In 2021 the company was involved with numerous film projects that required my full attention – I am the sole owner of Liberal Holdings and perform my work through the company that supplies my knowledge of logistics and equipment.[9]
+[16] A close reading of this email message reveals no less than three important facts. First, the Appellant described both arson attempts near his Vancouver home as “the reason for the move”. He also suggested a secondary reason for the move – using the word “also” in noting that one of his films was being shot on Vancouver Island. Finally, and perhaps most importantly, he noted that both arson attempts were “very upsetting to my partner.”
+[17] During cross-examination, the Appellant attempted to limit the damage done by his email message. Those attempts were unconvincing. He tried to backpedal but, in so doing, only confirmed that the primary reason for the move was personal – it was a move made at the behest of his partner.[10] He testified in cross-examination that:
+My partner was upset that someone was trying to burn a building.[11]
+[18] He also testified that their Vancouver home:
+… was a very comfortable house, I must say that. You know, but partners being partners, they have influence.[12]
+[19] The Appellant’s evidence reinforced the truth of the contents of his email message, particularly the fact that both arson attempts were “very upsetting to my partner.”
+[20] Having reviewed all the evidence, including the Appellant’s email message, I am satisfied on a balance of probabilities that the Appellant’s move was made primarily for personal reasons.
+Conclusion [21] As Justice Bodie recently noted in Khani v The King, 2025 TCC 26: “Parliament did not intend for the deduction to be available where a person relocates primarily for personal reasons.”[13]
+[22] As I have found that the Appellant’s 2021 move from Vancouver to Salt Spring Island was made primarily for personal reasons, there is no “eligible relocation” in respect of which a deduction for moving expenses may be claimed under subsection 62(1) of the Act. The Appellant’s appeal will, therefore, be dismissed without costs.
+Signed this 4th day of September 2025.
+“David E. Spiro”
+Spiro J.
+CITATION:
+2025 TCC 121
+COURT FILE NO.:
+2024-1848(IT)I
+STYLE OF CAUSE:
+PATRICK M. ANGUS AND
+HIS MAJESTY THE KING
+PLACE OF HEARING:
+Vancouver, British Columbia
+DATE OF HEARING:
+August 18, 2025
+REASONS FOR JUDGMENT BY:
+The Honourable Justice David E. Spiro
+DATE OF JUDGMENT:
+September 4, 2025
+APPEARANCES:
+Agent for the Appellant:
+Greg Olson
+Counsel for the Respondent:
+Jennifer Rogers
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+N/A
+Firm:
+N/A
+For the Respondent:
+Shalene Curtis-Micallef Deputy Attorney General of Canada Ottawa, Canada
+[1] See Exhibit A-1 which is a recent printout of an IMDb (Internet Movie Database) entry under his nom de plume “Blue Angus”.
+[2] Transcript, page 11, lines 1-6.
+[3] Transcript, page 12, lines 3-6.
+[4] Transcript, page 12, lines 6-8.
+[5] Transcript, page 12, line 24 to page 13, line 22.
+[6] As I have decided this appeal on other grounds, it is unnecessary to consider the question whether Vancouver Island could be considered a “location” or “work location” within the meaning of “eligible relocation” in subsection 248(1) of the Act or whether multiple shooting locations on Vancouver Island could be considered a “location” or “work location” within the meaning of “eligible relocation” in subsection 248(1) of the Act.
+[7] Reply, paragraph 9(e). It is passing strange that the central assumption of fact made by the Minister in assessing does not track the statutory language. The definition of “eligible relocation” in subsection 248(1) requires that the move “enable” the taxpayer to be employed at a new work location. Instead, the Minister assumed that the move did not “allow” the Appellant to be employed at a new work location. This flawed assumption, however, is ultimately of no moment. Even if the burden of proof were on the Crown, I would still have been satisfied on a balance of probabilities that the Appellant’s move was made primarily for personal reasons.
+[8] Currently under appeal to the Federal Court of Appeal sub nom. Greer Estate v The King, A‑248-23.
+[9] Exhibit R-1.
+[10] This was the Appellant’s personal rather than business partner (page 25 of the transcript, lines 13-15).
+[11] Transcript, page 23, lines 6-8.
+[12] Transcript, page 25, lines 10-12.
+[13] At para 21.

@@ -1,0 +1,178 @@
+---
+title: "Wonsch Construction Company Limited v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26926/index.do"
+last_modified: "2003-12-01"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 TCC 879"
+citation2: ""
+neutral_citation: "2003 TCC 879"
+decision_date: "2003-12-01"
+language: "en"
+item_id: "26926"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 732
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T17:26:20.740000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "06370268c365aeecfc5e5ac9d3425b9041d11cb394d343bc78e7afeb9c08b2ae"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Wonsch Construction Company Limited v. The Queen
+
+- Citation: 2003 TCC 879
+- Decision date: 2003-12-01
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 732, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Wonsch Construction Company Limited v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-12-01
+Neutral citation
+2003 TCC 879
+File numbers
+2000-3081(IT)G
+Judges and Taxing Officers
+Leslie M. Little
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2000-3081(IT)G
+BETWEEN:
+WONSCH CONSTRUCTION COMPANY LIMITED,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on April 28, 29 and May 1, 2003 at Windsor, Ontario and Judgment rendered May 21, 2003
+Before: The Honourable Justice L.M. Little
+Appearances:
+Counsel for the Appellant:
+Roland Peter Schwalm
+Counsel for the Respondent:
+Ifeanyichukwu Nwachukwu
+____________________________________________________________________
+ORDER
+Whereas the above appeal was heard in Windsor, Ontario on April 28, 29 and May 1, 2003;
+And Whereas by Reasons for Judgment dated May 21, 2003 the Appellant's appeal was allowed without costs;
+And Whereas by Notice of Motion dated August 5, 2003 counsel for the Appellant requested that the Court grant the Appellant costs in accordance with section 147 of the Tax Court of Canada Rules (General Procedure).
+And Whereas by a Motion Record filed on August 21, 2003 counsel for the Respondent stated that the Court should not reconsider its decision not to award costs;
+Now Therefore this Court has reconsidered its position and orders that the Appellant be paid costs in the amount of $17,732.88.
+Signed at Vancouver, British Columbia, this 1st day of December 2003.
+"L.M. Little"
+Little, J.
+Citation: 2003TCC879
+Date: 20031201
+Docket: 2000-3081(IT)G
+BETWEEN:
+WONSCH CONSTRUCTION COMPANY LIMITED,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Little, J.
+A. FACTS:
+[1] The Appellant's appeal was heard in Windsor, Ontario on April 28, 29 and May 1, 2003.
+[2] By Reasons for Judgment dated May 21, 2003 the Appellant's appeal was allowed without costs. The Reasons for Judgment provided, in part, as follows:
+[35] ... Since success has been divided, I am not inclined to award costs in this situation.
+[3] By Notice of Motion dated August 5, 2003 counsel for the Appellant requested that the Court grant the Appellant's costs in accordance with section 147 of the Tax Court of Canada Rules (General Procedure).
+[4] In a Motion Record filed with the Court on August 21, 2003 counsel for the Respondent submitted that the Court should not reconsider its decision not to award costs to the Appellant.
+B. ISSUE:
+[5] Should costs be awarded to the Appellant?
+C. ANALYSIS:
+[6] Subsections 147(1) to 147(5) of the Tax Court of Canada Rules (General Procedure) (the "Rules") reads as follows:
+147. (1) Subject to the provisions of the Act, the Court shall have full discretionary power over the payment of the costs of all parties involved in any proceeding, the amount and allocation of those costs and determining the persons by whom they are to be paid.
+(2) Costs may be awarded to or against the Crown.
+(3) In exercising its discretionary power pursuant to subsection (1) the Court may consider,
+(a) the result of the proceeding,
+(b) the amounts in issue,
+(c) the importance of the issues,
+(d) any offer of settlement made in writing,
+(e) the volume of work,
+(f) the complexity of the issues,
+(g) the conduct of any party that tended to shorten or to lengthen unnecessarily the duration of the proceeding,
+(h) the denial or the neglect or refusal of any party to admit anything that should have been admitted,
+(i) whether any stage in the proceedings was,
+(i) improper, vexatious, or unnecessary, or
+(ii) taken through negligence, mistake or excessive caution,
+(j) any other matter relevant to the question of costs.
+(4) The Court may fix all or part of the costs with or without reference to Schedule II, Tariff B and, further, it may award a lump sum in lieu of or in addition to any taxed costs.
+(5) Notwithstanding any other provision in these rules, the court has the discretionary power,
+(a) to award or refuse costs in respect of a particular issue or part of a proceeding,
+(b) to award a percentage of taxed costs or award taxed costs up to and for a particular stage of a proceeding, or
+(c) to award all or part of the costs on a solicitor and client basis.
+[7] It will be noted that subsection 147(5) of the Rules provides that the Court has full discretionary power to award or refuse to award costs. It will also be noted that subsection 147(4) of the Rules provides that the Court may award a lump sum in lieu of or in addition to any taxed costs.
+[8] I have carefully reviewed the Notice of Motion filed by counsel for the Appellant and the Motion Record filed by counsel for the Respondent. In reviewing the documents filed by both parties and in considering the items outlined in section 147 of the Rules I have concluded that I should reconsider my decision regarding costs. I have determined that the Appellant should be paid costs calculated as follows:
+Lump Sum Award (subsection 147(4)) $ 5,000.00
+Fee of Ray Bower October 9, 2003 6,460.00
+May 28, 2003 6,272.88
+Total Costs to be Allowed $17,732.88
+[9] In reaching this conclusion I have relied upon the following items enumerated in subsection 147(3) of the Rules:
+(a) The result of the proceeding:
+(As a result of the decision of the Court the valuation day value of the Appellant's property was increased by $900,000.00 from the value as determined by officials of the Canada Customs and Revenue Agency);
+(b) The amounts in issue:
+(A large amount of money was in issue);
+(c) The importance of the issues:
+(The result of the appeal was significant to the Appellant);
+(d) The volume of work:
+(It is apparent from the documents filed with the Court and the detailed legal arguments provided to the Court that counsel for both parties spent a great deal of time preparing for the appeal);
+(e) The complexity of the issue:
+(In referring to the complexity of the issue the Court was assisted by the Bower Report and the testimony provided by Mr. Ray Bower).
+[10] The Appellant's motion is allowed with costs as noted above.
+Signed at Vancouver, British Columbia, this 1st day of December 2003.
+"L.M. Little"
+Little, J.
+CITATION:
+2003TCC879
+COURT FILE NO.:
+2000-3081(IT)G
+STYLE OF CAUSE:
+Wonsch Construction Company
+Limited and Her Majesty the Queen
+PLACE OF HEARING:
+Windsor, Ontario
+DATE OF HEARING:
+April 28, 29 and May 1, 2003
+REASONS FOR ORDER BY:
+The Honourable Justice L.M. Little
+DATE OF ORDER:
+December 1, 2003
+APPEARANCES:
+Counsel for the Appellant:
+Roland Peter Schwalm
+Counsel for the Respondent:
+Ifeanyichukwu Nwachukwu
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Roland Peter Schwalm
+Firm:
+Mousseau Deluca, Windsor, Ontario
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

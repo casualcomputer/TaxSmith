@@ -1,0 +1,173 @@
+Title: Agregan c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28955/index.do
+Corpus path: corpus/cases/tcc/2008/2008-cci-572-28955-agregan-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2008-11-10
+
+# Agregan c. La Reine
+
+- Citation: 2008 CCI 572
+- Decision date: 2008-11-10
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1395, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Agregan c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-11-10
+Référence neutre
+2008 CCI 572
+Numéro de dossier
+2006-1147(IT)G
+Juges et Officiers taxateurs
+Valerie A. Miller
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2006-1147(IT)G
+ENTRE :
+MOIRA AGREGAN,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle]
+____________________________________________________________________
+Appels entendus le 16 septembre 2008, à Toronto (Ontario).
+Devant : L’honorable juge Valerie Miller
+Comparutions :
+Avocat de l’appelante :
+Me Bryan J. Tham
+Avocat de l’intimée :
+Me Andrew Miller
+____________________________________________________________________
+JUGEMENT
+Les appels interjetés à l’égard des nouvelles cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 2000 et 2001 sont accueillis et les nouvelles cotisations sont renvoyées au ministre du Revenu national pour nouvel examen et nouvelles cotisations conformément aux motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 10e jour de novembre 2008.
+« V.A. Miller »
+Juge V.A. Miller
+Traduction certifiée conforme
+ce 30e jour de juin 2009.
+Erich Klein, réviseur
+Référence : 2008 CCI 572
+Date : 20081110
+Dossier : 2006-1147(IT)G
+ENTRE :
+MOIRA AGREGAN,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle]
+MOTIFS DU JUGEMENT
+La juge V.A. Miller
+[1] Il s'agit d'appels qui ont été interjetés à l’égard de nouvelles cotisations établies en vertu de la Loi de l’impôt sur le revenu (la « Loi ») pour les années d’imposition 2000 et 2001 de l’appelante. Lorsqu’il a établi les nouvelles cotisations à l’endroit de l’appelante, le ministre du Revenu national (le « ministre ») a présumé que l’appelante avait omis de déclarer des revenus bruts de 26 393,55 $ pour 2000 et de 9 470,78 $ pour 2001, et qu’elle avait exagéré ses dépenses, indiquant des montants en trop de 23 742,35 $ pour 2000 et de 28 065,91 $ pour 2001. Le ministre a aussi imposé à l’appelante des pénalités pour faute lourde en application du paragraphe 163(2) de la Loi.
+[2] Lorsque le ministre a établi les nouvelles cotisations, il a calculé que les revenus bruts de l’appelante pour ces années‑là s’élevaient à 110 982,47 $ et à 98 109,78 $. Le ministre a accordé à l’appelante une déduction au titre des salaires versés à des sous‑traitants, à savoir 9 775,58 $ pour 2000 et 17 992,97 $ pour 2001.
+[3] Dans son avis d’appel, l’appelante a reconnu avoir déclaré en moins ses revenus bruts pour l’année d’imposition 2000. Dans l’annexe A jointe à l’avis d’appel, l’appelante a indiqué que ses revenus bruts pour 2000 s’élevaient à 96 098,10 $. Cependant, selon les chiffres dont elle s’est servie, elle aurait dû indiquer des revenus de 97 798,10 $ (elle avait, à tort, déduit de ses revenus bruts le montant de la facture no 056141). De plus, dans l’annexe C jointe à l’avis d’appel, l’appelante a calculé des revenus bruts de 88 297,75 $ pour 2001. Dans ses déclarations de revenus, l’appelante avait déclaré des revenus bruts de 84 588,92 $ pour 2000 et de 88 369 $ pour 2001.
+[4] Dans les annexes B et D, elles aussi jointes à l’avis d’appel, l’appelante a calculé que les salaires qu'elle avait versés à des sous‑traitants étaient de 29 162,50 $ pour 2000 et de 22 487,85 $ pour 2001.
+[5] À l’audience, l’avocat de l’intimée a dit qu’il fallait réduire de 10 573,79 $ les revenus bruts de l’appelante pour l’année d’imposition 2000, et que l’appelante avait déboursé des sommes supplémentaires au titre de salaires versés à des sous‑traitants, à savoir 19 386,92 $ pour 2000 et 4 494,88 $ pour 2001. En fait, l’intimée a ainsi reconnu l’exactitude du calcul par l’appelante des salaires des sous‑traitants aux annexes B et D jointes à l’avis d’appel.
+[6] Les seules questions restantes sont donc de savoir : a) si les revenus bruts de l’appelante pour 2000 étaient de 100 408,68 $ ou de 97 798,10 $; b) si les revenus bruts de l’appelante pour 2001 étaient de 98 109,78 $, soit le montant déterminé dans la nouvelle cotisation, ou de 88 297,75 $, soit le montant résultant des nouveaux calculs de l’appelante; c) si le ministre a eu raison d’imposer des pénalités pour faute lourde.
+[7] Depuis 1997, l’appelante exploite une entreprise individuelle de pose de cloisons sèches sous le nom de Gator’s Advanced Drywall Systems (l’« entreprise ») à partir de sa résidence à Dundas, en Ontario.
+[8] L’appelante recevait des contrats de sous‑traitance de diverses entreprises, notamment D.A. Drywall et Waco Drywall Services Ltd. Par ailleurs, l’appelante faisait elle aussi appel à des sous‑traitants pour exécuter un grand nombre de ses contrats.
+[9] L’appelante avait un seul compte bancaire, qui servait à la fois à l’entreprise et à ses affaires personnelles. L’appelante et son conjoint de fait, Gatien Dion, étaient tous deux signataires autorisés en ce qui concerne le compte bancaire.
+[10] Selon le témoignage de l’appelante, elle payait toujours ses sous‑traitants par chèque. Son entreprise ne faisait pas d’affaires au comptant. Toutefois, l’appelante payait Gatien Dion en espèces, mais elle ne le considérait pas comme un sous‑traitant. M. Dion ne posait pas de cloisons sèches, car il avait des problèmes de dos. Il négociait les contrats que l'appelante recevait, répondait au téléphone et préparait les factures, qui étaient ensuite signées par l’appelante avant d’être envoyées à ses clients.
+[11] L’appelante a témoigné que certains clients ne payaient pas leurs factures en entier. Dans ces cas-là, l’appelante inscrivait le montant réellement reçu au bas de la facture. Mis à part les factures, l’appelante ne tenait aucun livre pour l’entreprise.
+[12] L’appelante a aussi affirmé que Paul Snider avait préparé ses déclarations de revenus pour les années en cause. L’appelante lui donnait son livre de factures pour qu’il prépare les déclarations, parce que chaque numéro de facture représentait un contrat et la somme qu'elle avait reçue pour ce contrat.
+[13] Paul Snider a témoigné qu’il avait préparé les déclarations de revenus de l’appelante à partir des documents qu’elle lui avait fournis. Ces documents incluaient le livre de factures, un livret de dépôts bancaires et divers reçus. M. Snider a dit qu’un grand livre n’avait jamais été tenu pour l’entreprise, et que son rôle se limitait à préparer les déclarations de revenus de l’appelante. Une fois les déclarations terminées, il postait celles‑ci à l’appelante. M. Snider a dit ne pas savoir si l’appelante vérifiait ses déclarations de revenus avant de les signer et de les expédier par la poste.
+[14] M. Snider a dirigé l’appelante vers Doug Simpson, un comptable, lorsqu’il a appris qu’elle voulait porter les nouvelles cotisations en appel devant la Cour canadienne de l’impôt. Il a expliqué que Doug Simpson connaissait mieux que lui la procédure de la Cour.
+[15] Doug Simpson a préparé les annexes jointes à l’avis d’appel de l’appelante pour essayer de déterminer comment le ministre avait calculé les montants établis dans les nouvelles cotisations. M. Simpson s’est servi des factures et des relevés bancaires de l’appelante pour établir les annexes A et C, qui ventilent les ventes brutes de l’appelante pour 2000 et 2001. Il s’est servi des chèques oblitérés de l’appelante pour calculer les sommes versées aux sous‑traitants en 2000 et en 2001. Comme je l’ai déjà mentionné, ces montants figurent aux annexes B et D.
+[16] J’ai examiné les calculs des revenus bruts pour 2000 se trouvant dans l’annexe A jointe à l’avis d’appel. La documentation qu'on m'a fournie ne m’a pas permis de déterminer comment le ministre avait calculé le montant qui constitue, selon lui, les revenus non déclarés pour 2000. On indiquait seulement une somme totale de 26 393,55 $, à laquelle le ministre est arrivé après analyse des dépôts bancaires et factures de vente de l’entreprise, de même que d’informations provenant de tiers. Toutefois, compte tenu des concessions des deux parties, le seul point en litige pour 2000 est de savoir si la somme de 2 610,58 $ représente des revenus non déclarés. Sur la foi des dossiers de P.J. Daly Contracting, se trouvant à la pièce A‑1, onglet 17, page 19, j’ai conclu que l’appelante avait reçu les sommes suivantes par chèque :
+Date
+Somme
+Le 9 mai 2000
+2 140 $
+Le 10 mai 2000
+642 $
+Le 25 mai 2000
+3 000 $
+Le 2 juin 2000
+2 500 $
+Le 16 juin 2000
+3 060 $
+Le 28 juin 2000
+2 140 $
+Le 6 juillet 2000
+2 140 $
+Le 13 juillet 2000
+1 500 $
+Il semble, d'après l’annexe A et les documents bancaires se trouvant à l’onglet 16 de la pièce A‑1, que l’appelante n’a pas déposé le chèque daté du 10 mai 2000 et qu’elle n’a pas déposé en entier le chèque daté du 16 juin 2000. Les documents bancaires montrent que l’appelante a seulement déposé 1 060 $ le 16 juin 2000. Les deux sommes (642 $ et 2 000 $) qui n’ont pas été déposées et qui n’ont pas été incluses par l’appelante dans le calcul de ses revenus bruts, dépassent le montant des revenus qui, selon ce que dit maintenant le ministre, n’ont pas été déclarés pour 2000. Sans pousser l’analyse plus loin, il est clair que l’appelante n’a pas réussi à démontrer que ses calculs des revenus bruts pour 2000 sont plus justes que ceux du ministre.
+[17] Pour l’année d’imposition 2001, le ministre a calculé les prétendus revenus non déclarés de la façon suivante :
+Description
+Année
+Somme
+Ventes à D.A. Drywall
+2001
+4 084,00 $
+Autres ventes
+2001
+5 386,78 $
+Total
+9 470,78 $
+J’ai conclu que toutes les sommes provenant de D.A. Drywall que le ministre avait considérées comme des revenus non déclarés dans la nouvelle cotisation ont été incluses dans l’annexe C de l’appelante. L’intimée n’a pas présenté une preuve suffisante pour que je puisse savoir comment se ventilait la somme de 5 386,78 $, et l’avocat de l’appelante n’a pas traité de cette question.
+[18] L’appelante a démontré que la somme de 4 084 $ avait été incluse dans le calcul de ses revenus bruts pour 2001 figurant à l’annexe C. Elle n’a toutefois pas démontré que la somme de 5 386,78 $ y avait été incluse.
+[19] Dans le calcul de ses revenus bruts pour 2001, l’appelante a déduit 4 800 $ pour des sommes qui avaient été déposées dans son compte bancaire. Ces sommes étaient qualifiées de personnelles dans l’annexe C. À l’audience, j’ai interrogé l’appelante au sujet de cette déduction. Elle ne m’a pas répondu de façon satisfaisante. La preuve a démontré que l’entreprise était la seule source de revenus de l’appelante. Par conséquent, j'ai conclu que les 4 800 $ déposés dans le compte bancaire de l’appelante ont dû provenir de ventes réalisées par l’entreprise, et qu’elles n’auraient donc pas dû être déduites dans le calcul des revenus bruts de l’appelante.
+[20] C’est à l’appelante qu’incombait le fardeau de réfuter les hypothèses sur lesquelles le ministre s’était fondé. Elle n’a pas réussi à se décharger de ce fardeau. Après avoir bien considéré l’ensemble de la preuve, j’ai conclu que le calcul des revenus bruts de l’appelante qui figure dans son avis d’appel n’est pas exact. Un calcul plus exact de ses revenus bruts donne 100 408,68 $ pour 2000 et 94 025,78 $ pour 2001.
+[21] La dernière question à trancher est celle de savoir si l’appelante est passible de la pénalité pour faute lourde qui lui a été imposée en application du paragraphe 163(2) de la Loi, qui est ainsi rédigé :
+163(2) Faux énoncés ou omissions – Toute personne qui, sciemment ou dans des circonstances équivalant à faute lourde, fait un faux énoncé ou une omission dans une déclaration, un formulaire, un certificat, un état ou une réponse (appelé « déclaration » au présent article) rempli, produit ou présenté, selon le cas, pour une année d’imposition pour l’application de la présente loi, ou y participe, y consent ou y acquiesce est passible d’une pénalité égale, sans être inférieure à 100 $, à 50 % du total des montants suivants […]
+[22] L’avocat de l’intimée a soutenu que l’appelante aurait dû savoir que certains revenus n’avaient pas été déclarés parce que ses revenus d’entreprise nets indiqués dans ses déclarations de revenus étaient extrêmement faibles. Son entreprise était la seule source de revenus de sa famille, qui était composée d’elle, de deux enfants et de son conjoint de fait. L’avocat de l’intimée a dit, avec raison, que la crédibilité de l’appelante revêtira une importance capitale dans la décision que je rendrai.
+[23] C’est l’intimée qui a le fardeau de prouver que l’appelante, sciemment ou dans des circonstances équivalant à faute lourde, a fait un faux énoncé ou une omission dans ses déclarations de revenus pour 2000 et 2001.
+[24] Au paragraphe 37 de la décision Venne c. Canada[1], le juge Strayer a décrit la faute lourde de la façon suivante :
+[…] La « faute lourde » doit être interprétée comme un cas de négligence plus grave qu'un simple défaut de prudence raisonnable. Il doit y avoir un degré important de négligence qui corresponde à une action délibérée, une indifférence au respect de la Loi. […]
+[25] L’appelante a dit qu’elle ne comprenait rien à la tenue de livres, et qu’elle n’avait pas compris comment Paul Snider calculait ses revenus. Elle a dit n’avoir jamais examiné ses déclarations de revenus; elle les acceptait telles qu'elles avaient été préparées par M. Snider et les signait. Cela n’exonère toutefois pas l’appelante, car elle a la responsabilité de vérifier l’exactitude de ses déclarations de revenus. Elle a aussi la responsabilité de tenir des livres pour son entreprise.
+[26] Pour créer les annexes jointes à l’avis d’appel, Doug Simpson s’est servi des mêmes documents que ceux que Paul Snider avait utilisés pour préparer les déclarations de revenus. L’appelante a affirmé avoir donné tous ses documents à Paul Snider et s’être fiée à l'expertise de celui‑ci.
+[27] Au paragraphe 11 de la décision DeCosta c. La Reine[2], le juge en chef Bowman (tel était alors son titre) s’est exprimé comme suit :
+[11] […] Pour établir la distinction entre la faute « ordinaire » ou la négligence et la faute « lourde », il faut examiner plusieurs facteurs. Un de ces facteurs est bien entendu l'importance de l'omission relative au revenu déclaré. Il y a aussi la faculté du contribuable de découvrir l'erreur, ainsi que le niveau d'instruction du contribuable et son intelligence apparente. Il n'existe aucun facteur qui soit prédominant. Il faut accorder à chacun des facteurs le poids qu'il convient dans le contexte de l'ensemble de la preuve.
+[28] L’appelante m’a semblé peu avertie et très naïve. Elle a dit que son conjoint de fait négociait les contrats de l’entreprise et préparait les factures. Cela m'a amenée à me demander qui dirigeait vraiment l’entreprise.
+[29] Incontestablement, l’appelante a semblé perdue face à la complexité de la tenue de livres. En fait, elle ne tenait aucun livre pour l’entreprise, si ce n'est un livre de factures.
+[30] Les revenus que l’appelante n’a pas déclarés étaient de 15 819,76 $ pour 2000 et de 9 740,78 $ pour 2001. Ces sommes non déclarées représentent respectivement 18 % et 11 % des revenus bruts déclarés pour 2000 et 2001. À mon avis, les revenus non déclarés ne sont pas à ce point élevés que je puis conclure que l’appelante savait ou aurait dû savoir qu’elle avait omis de déclarer une partie de ses revenus.
+[31] À mon avis, l’appelante n’a pas commis de faute lourde, ni agi délibérément, ni fait preuve d'indifférence flagrante. Le ministre ayant établi les nouvelles cotisations à son endroit, l’appelante a fourni ses documents à un autre comptable pour qu'il détermine comment le ministre avait calculé ses revenus. Elle a joint les calculs de ce comptable à son avis d’appel. Il ne semble pas que l’appelante ait agi délibérément en vue de cacher des revenus. Je conclus donc que les circonstances de la présente affaire ne justifient pas l’imposition de pénalités.
+[32] L’appel est accueilli.
+Signé à Ottawa, Canada, ce 10e jour de novembre 2008.
+« V.A. Miller »
+Juge V.A. Miller
+Traduction certifiée conforme
+ce 30e jour de juin 2009.
+Erich Klein, réviseur
+RÉFÉRENCE :
+2008 CCI 572
+No DU DOSSIER DE LA COUR :
+2006-1147(IT)G
+INTITULÉ DE LA CAUSE :
+Moira Agregan c. Sa Majesté la Reine
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+Le 16 septembre 2008
+MOTIFS DU JUGEMENT PAR :
+L’honorable juge Valerie Miller
+DATE DU JUGEMENT :
+Le 10 novembre 2008
+COMPARUTIONS :
+Avocat de l’appelante :
+Me Bryan J. Tham
+Avocat de l’intimée :
+Me Andrew Miller
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Bryan J. Tham
+385, rue Frederick, bureau 205
+Kitchener (Ontario)
+N2H 2P2
+Pour l’intimée :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] [1984] A.C.F. nº 314 (QL), [1984] C.T.C. 223 (C.F. 1re inst.).
+[2] 2005 CCI 545.

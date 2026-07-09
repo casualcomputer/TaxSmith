@@ -1,0 +1,313 @@
+Title: Cheema Cleaning Services Ltd. v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29144/index.do
+Corpus path: corpus/cases/tcc/2009/2009-tcc-145-29144-cheema-cleaning-services-ltd-v-the-queen-en.md
+Document type: case_law
+Last modified: 2009-03-12
+
+# Cheema Cleaning Services Ltd. v. The Queen
+
+- Citation: 2009 TCC 145
+- Decision date: 2009-03-12
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6644, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Cheema Cleaning Services Ltd. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2009-03-12
+Neutral citation
+2009 TCC 145
+File numbers
+2008-2736(IT)I
+Judges and Taxing Officers
+Wyman W. Webb
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2008-2736(IT)I
+BETWEEN:
+CHEEMA CLEANING SERVICES LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on February 25, 2009, at Toronto, Ontario
+Before: The Honourable Justice Wyman W. Webb
+Appearances:
+Agent for the Appellant:
+Arshad Qayyum
+Counsel for the Respondent:
+Laurent Bartleman
+____________________________________________________________________
+JUDGMENT
+The appeals from the reassessments made under the Income Tax Act for the Appellant’s taxation years ending January 31, 2004 and January 31, 2005 are allowed, with costs, and the matter is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that:
+(a) the Appellant did not have unreported income in its 2004 taxation year of $40,935;
+(b) the Appellant did not have unreported income in its 2005 taxation year of $42,339; and
+(c) the Tahoe was not a passenger vehicle and therefore is not included in Class 10.1 of Schedule II to the Income Tax Regulations and therefore:
+i. the amount that Appellant is entitled to deduct as capital cost allowance in computing its income for its 2004 taxation year is increased by $4,424; and
+ii. the amount that the Appellant is entitled to deduct as capital cost allowance in computing its income for its 2005 taxation year is increased by $3,097.
+The filing fee of $100 is to be refunded to the Appellant.
+Signed at Halifax, Nova Scotia, this 12th day of March 2009.
+“Wyman W. Webb”
+Webb J.
+Citation: 2009TCC145
+Date: 20090312
+Docket: 2008-2736(IT)I
+BETWEEN:
+CHEEMA CLEANING SERVICES LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Webb J.
+[1] The Appellant was reassessed to include unreported revenue in its taxation years ending January 31, 2004 (its 2004 taxation year) and January 31, 2005 (its 2005 taxation year) and to deny various expenses (including a portion of the capital cost allowance) that it had claimed in computing its income for these years. In its Notice of Appeal, the Appellant stated that it was appealing the inclusion of the amounts stated to be unreported revenue and the denial of the deductions claimed for personal automobile expenses, capital cost allowance and travel expenses. At the commencement of the hearing, the agent for the Appellant stated that the Appellant was no longer contesting the denial of the deduction for personal automobile expenses and therefore the only remaining issues were in relation to the following adjustments that were made to the income of the Appellant:
+Item
+Taxation Year Ending January 31, 2004
+Taxation Year Ending January 31, 2005
+Unreported Revenue
+$40,935
+$42,339
+CCA disallowed
+$4,424
+$3,097
+Travel Expenses disallowed
+$7,475
+$3,220
+Unreported Revenue
+[2] At the commencement of the hearing counsel for the Respondent acknowledged that certain amounts that had been included in the unreported revenue for the fiscal year ending January 31, 2005 should not have been included in that year. These amounts relate to two deposits that were made on January 28, 2004 and hence, based on the position of the Respondent in this matter, should have been included as unreported revenue for the year ending January 31, 2004. These two deposits totaled $19,000. As a result, the unreported revenue for the Appellant’s 2005 taxation year should be reduced from $42,339 to $23,339.
+[3] Counsel for the Respondent argued that these two amounts that should not have been included as unreported revenue for the year ending January 31, 2005, should be taken into account in determining whether the assessment for the year ending January 31, 2004 is correct. However, the reassessment of the 2004 taxation year of the Appellant was not based on these two amounts that total $19,000 being included in unreported revenue for the Appellant’s 2004 taxation year. If the Respondent wanted to include these amounts in the Appellant's income for its 2004 taxation year, the proper procedure for the Respondent to follow would have been to reassess the Appellant to increase its income by these amounts. The Respondent would then have to determine whether the reassessment would be after the Appellant’s normal reassessment period. If the reassessment would be after the Appellant’s normal reassessment period, the restrictions contained in subsection 152(4) of the Income Tax Act (the “Act”) would be applicable. By suggesting that these amounts, which were not included in the reassessment for the year ending January 31, 2004, should be taken into account in determining whether the assessment for that year is correct, the Respondent is effectively trying to reassess the Appellant and circumvent the provisions of subsection 152(4) of the Act that would apply if the reassessment is after the Appellant’s normal reassessment period.
+[4] Subsection 152(9) was added to the Act to allow the Respondent to rely on an alternative argument for supporting a reassessment after the normal reassessment period. This subsection provides as follows:
+152 (9) The Minister may advance an alternative argument in support of an assessment at any time after the normal reassessment period unless, on an appeal under this Act
+(a) there is relevant evidence that the taxpayer is no longer able to adduce without the leave of the court; and
+(b) it is not appropriate in the circumstances for the court to order that the evidence be adduced.
+[5] In Walsh v. The Queen, 2007 FCA 222, [2007] 4 C.T.C. 73, 2007 DTC 5441, Justice Richard of the Federal Court of Appeal made the following comments in relation to subsection 152(9) of the Act:
+18 The following conditions apply when the Minister seeks to rely on subsection 152(9) of the Act:
+1) the Minister cannot include transactions which did not form the basis of the taxpayer's reassessment;
+2) the right of the Minister to present an alternative argument in support of an assessment is subject to paragraphs 152(9)(a) and (b), which speak to the prejudice to the taxpayer; and
+3) the Minister cannot use subsection 152(9) to reassess outside the time limitations in subsection 152(4) of the Act, or to collect tax exceeding the amount in the assessment under appeal.
+[6] Since these deposit amounts that total $19,000 were not transactions that were included in determining the reassessment for the Appellant’s 2004 taxation year, the provisions of subsection 152(9) of the Act do not allow the Respondent to include these transactions as support for its reassessment of the Appellant’s 2004 taxation year.
+[7] The unreported revenue amounts were determined by examining the deposits made to the personal bank account of Jasbir Cheema. Jasbir Cheema owns 50% of the shares of the Appellant and the balance of the shares are held by his spouse. The Appellant carries on a janitorial business. Jasbir Cheema started the business in 1986 and incorporated the Appellant in 1992. During the years under appeal the Appellant had 150 – 200 customers in the greater Toronto area (“GTA”). The Appellant now has 600 customers in the GTA.
+[8] The gross income of the Appellant for its taxation years under appeal was as follows:
+2004 Taxation Year
+2005 Taxation Year
+$932,886
+$1,314,261
+[9] There was a 41% increase in the gross revenue of the Appellant from its 2004 taxation year to its 2005 taxation year. The gross revenue of the Appellant is now close to $4 million. This significant increase in gross revenue indicates that the business has expanded substantially in the last few years.
+[10] In reviewing the bank account information for Jasbir Cheema the Canada Revenue Agency (“CRA”) identified various deposits that were questioned. The explanation provided by Jasbir Cheema was that these deposits represented repayments of loans that he had made to relatives and friends. He indicated that he did not charge interest on any of these loans. During the course of the audit, he submitted affidavits from four of the individuals to whom he stated that he had been provided loans. In these affidavits the individuals stated that Jasbir Cheema had advanced them funds and the affidavits set out the dates on which payments were made on the loans and the amounts of such payments.
+[11] At the hearing three of the four individuals who provided affidavits testified. The fourth individual was in India, and therefore was unavailable to testify.
+[12] In each case, the individuals confirmed during the hearing that Jasbir Cheema had advanced them significant amounts and that he did not charge interest on these amounts. They also confirmed that they had made various payments to him in cash during the years under appeal as set out in their respective affidavits. The appeals officer for CRA also testified. She stated that she included the deposits in question in the revenue of the Appellant, because she was unable to match the payments that these individuals stated that they made to Jasbir Cheema to the deposits in question.
+[13] The following chart sets out the payments that the individuals stated were made as well as the deposits in question (except the deposits discussed separately below and the transfer of $5,000 from the children’s account on January 28, 2004 that is part of the $19,000 removed from the unreported revenue of the Appellant for its 2005 taxation year as discussed above).
+2003
+Date
+Swaranjit Gill
+Harmeet Gill
+Lakhwinder Dhaliwal
+Simarjeet Cheema
+Payments YTD Available for Deposit
+Deposits
+Jan. 2003
+$1,940.00
+Jan. 30, 2003
+$1,154.84
+Feb. 11, 2003
+$1,900.00
+Feb. 25, 2003
+$2,000.00
+$6,994.84
+Feb. 25, 2003
+$5,489.07
+Mar. 2003
+$1,740.00
+Apr. 25, 2003
+$2,000.00
+May 2003
+$3,460.00
+May 30, 2003
+$3,000.00
+June 2003
+$1,330.00
+June 2, 2003
+$3,000.00
+July 4, 2003
+$1,133.18
+July 16, 2003
+$2,600.00
+July 25, 2003
+$2,000.00
+Aug. 19, 2003
+$3,900.00
+$25,668.95
+Aug. 29, 2003
+$2,444.53
+Sept. 2003
+$1,280.00
+$24,504.42
+Sept. 9, 2003
+$3,000.00
+Oct. 9, 2003
+$1,200.00
+$22,704.42
+Oct. 23, 2003
+$4,000.00
+Oct. 24, 2003
+$1,142.77
+$19,847.19
+Oct. 30, 2003
+$1,695.00
+Nov. 2003
+$940.00
+$19,092.19
+Nov. 19, 2003
+$1,846.40
+Dec. 2003
+$1,380.00
+Dec. 4, 2003
+$200.00
+Dec. 8, 2003
+$5,000.00
+$23,825.79
+Dec. 11, 2003
+$4,000.00
+Dec. 23, 2003
+$300.00
+Year end amount:
+$20,125.79
+2004
+Date
+Swaranjit Gill
+Harmeet Gill
+Lakhwinder Dhaliwal
+Simarjeet Cheema
+Payments YTD Available for Deposit
+Deposits
+Carry forward from 2003:
+$20,125.79
+Jan. 26, 2004
+$16,000.00
+Feb. 9, 2004
+$3,400.00
+$39,525.79
+Mar. 2004
+$400.00
+Apr. 5, 2004
+$200.00
+Apr. 12, 2004
+$200.00
+May 31, 2004
+$4,000.00
+$43,525.79
+July 2004
+$3,453.24
+Aug. 16, 2004
+$400.00
+$40,472.55
+Aug. 2004
+$3,000.00
+Sept. 15, 2004
+$1,000.00
+$38,472.55
+Sept. 2004
+$7,000.00
+Nov. 15, 2004
+$1,000.00
+Dec. 6, 2004
+$1,100.00
+$33,572.55
+Dec. 2004
+$4,000.00
+Dec. 2004
+$2,000.00
+Dec. 2004
+$5,000.00
+Year end amount:
+$22,572.55
+[14] The “Payments TTD (year to date) Available for Deposit” column shows the total payments made since the beginning of 2003 minus the deposits made as of the time of each particular questionable deposit identified by CRA. This chart shows that for each deposit the total loan payments from the individuals made before that deposit exceed the amount of the previous deposits in question and therefore these payments could have funded the particular deposit. The CRA auditor did not accept this because the deposit amount did not exactly equal the payments made by the various individuals. However, since the payments were made in cash, Jasbir Cheema could easily have withheld some of the cash from the amount that was deposited.
+[15] There was a deposit of $725 in 2003 and two separate deposits of $725 each in 2004 that were included as unreported revenue of the Appellant. These amounts are not included in the above charts. Jasbir Cheema stated that these amounts were received by him as rent for the basement of his house. The CRA appeals officer included these amounts as unreported income of the Appellant because Jasbir Cheema did not include any rental income in his income for 2004 or 2005 for the purposes of the Act. Jasbir Cheema had included rental income in his tax return for 2001. The amount of $725 seems to be an amount that could be for rent for the basement of Jasbir Cheema’s house and I accept his statement that these amounts were payments for rent for the basement of his house. The failure of a shareholder to include rental income in his income does not justify the inclusion of that amount in the income of the Appellant. If Jasbir Cheema failed to include rental income in his income tax return for renting the basement of his house, he and not the Appellant should have been reassessed to include this amount.
+[16] Although the deposit of $14,000 made to Jasbir Cheema’s bank account on January 28, 2004 was, at the commencement of the hearing, deleted from the unreported income for the Appellant’s 2005 taxation year, the Appellant still called evidence in relation to this amount. This deposit was a cheque from a law firm. Tom Kontaxis testified and he confirmed that he had borrowed money from Jasbir Cheema and had repaid him when his house was sold. The cheque for $14,000 was from his solicitors. I accept his testimony and therefore the $14,000 deposit amount should not have been included as unreported revenue of the Appellant for its taxation year ending January 31, 2005 in any event. Neither the deposit of $14,000 nor the payment of $14,000 is included in the above charts.
+[17] Counsel for the Respondent had also submitted summaries of what were identified as questionable deposits made to the bank accounts of the individuals who were making payments to Jasbir Cheema. The theory of counsel for the Respondent was that these individuals were receiving payments from the customers of the Appellant for cleaning services rendered by the Appellant, depositing these payments to their own bank account and then making payments to Jasbir Cheema. Most of the “suspect deposits” were simple multiples of $100. There was no suggestion that the Appellant was not collecting GST in relation to the cleaning services rendered, so it seems unlikely that the amount payable for cleaning services would be a simple multiple of $100. The more logical explanation for the fact that deposits were made shortly before a payment was made was that these individuals owed Jasbir Cheema money and would make payments to him when they received cash for work that they had done. There was no evidence to support this conspiracy theory of the Respondent which the Respondent would have had to adduce as the Appellant presented a prima facie case that the deposits were repayments of amounts that had been advanced.
+[18] In Hickman Motors Ltd. v. Her Majesty the Queen, [1997] S.C.J. No. 62, Justice L’Heureux-Dubé of the Supreme Court of Canada made the following comments in relation to a taxpayer's onus of “demolishing” the Minister’s assumptions:
+92 It is trite law that in taxation the standard of proof is the civil balance of probabilities: Dobieco Ltd. v. Minister of National Revenue, [1966] S.C.R. 95 (S.C.C.), and that within balance of probabilities, there can be varying degrees of proof required in order to discharge the onus, depending on the subject matter: Continental Insurance Co. v. Dalton Cartage Ltd., [1982] 1 S.C.R. 164 (S.C.C.); Pallan v. Minister of National Revenue (1989), 90 D.T.C. 1102 (T.C.C.) at p. 1106. The Minister, in making assessments, proceeds on assumptions (Bayridge Estates Ltd. v. Minister of National Revenue (1959), 59 D.T.C. 1098 (Can. Ex. Ct.), at p. 1101) and the initial onus is on the taxpayer to “demolish” the Minister's assumptions in the assessment (Johnston v. Minister of National Revenue, [1948] S.C.R. 486 (S.C.C.); Kennedy v. Minister of National Revenue (1973), 73 D.T.C. 5359 (Fed. C.A.), at p. 5361). The initial burden is only to “demolish” the exact assumptions made by the Minister but no more: First Fund Genesis Corp. v. R. (1990), 90 D.T.C. 6337 (Fed. T.D.), at p. 6340.
+93 This initial onus of “demolishing” the Minister's exact assumptions is met where the Appellant makes out at least a prima facie case: Kamin v. Minister of National Revenue (1992), 93 D.T.C. 62 (T.C.C.); Goodwin v. Minister of National Revenue (1982), 82 D.T.C. 1679 (T.R.B.). In the case at bar, the Appellant adduced evidence which met not only a prima facie standard, but also, in my view, even a higher one. In my view, the Appellant “demolished” the following assumptions as follows: (a) the assumption of “two businesses”, by adducing clear evidence of only one business; (b) the assumption of “no income”, by adducing clear evidence of income. The law is settled that unchallenged and uncontradicted evidence “demolishes” the Minister's assumptions: see for example MacIsaac v. Minister of National Revenue (1974), 74 D.T.C. 6380 (Fed. C.A.), at p. 6381; Zink v. Minister of National Revenue (1987), 87 D.T.C. 652 (T.C.C.). As stated above, all of the Appellant's evidence in the case at bar remained unchallenged and uncontradicted. Accordingly, in my view, the assumptions of “two businesses” and “no income” have been “demolished” by the Appellant.
+94 Where the Minister's assumptions have been “demolished” by the Appellant, “the onus shifts to the Minister to rebut the prima facie case” made out by the Appellant and to prove the assumptions: Magilb Development Corp. v. Minister of National Revenue (1986), 87 D.T.C. 5012 (Fed. T.D.), at p. 5018. Hence, in the case at bar, the onus has shifted to the Minister to prove its assumptions that there are “two businesses” and “no income”.
+95 Where the burden has shifted to the Minister, and the Minister adduces no evidence whatsoever, the taxpayer is entitled to succeed: see for example MacIsaac, supra, where the Federal Court of Appeal set aside the judgment of the Trial Division, on the grounds that (at pp. 6381-2) the “evidence was not challenged or contradicted and no objection of any kind was taken thereto”. See also Waxstein v. Minister of National Revenue (1980), 80 D.T.C. 1348 (T.R.B.); Roselawn Investments Ltd. v. Minister of National Revenue (1980), 80 D.T.C. 1271 (T.R.B.). Refer also to Zink v. Minister of National Revenue, supra, at p. 653, where, even if the evidence contained “gaps in logic, chronology and substance”, the taxpayer's appeal was allowed as the Minster failed to present any evidence as to the source of income. I note that, in the case at bar, the evidence contains no such “gaps”. Therefore, in the case at bar, since the Minister adduced no evidence whatsoever, and no question of credibility was ever raised by anyone, the Appellant is entitled to succeed.
+96 In the present case, without any evidence, both the Trial Division and the Court of Appeal purported to transform the Minister's unsubstantiated and unproven assumptions into “factual findings”, thus making errors of law on the onus of proof. My colleague Iacobucci J. defers to these so-called “concurrent findings” of the courts below, but, while I fully agree in general with the principle of deference, in this case two wrongs cannot make a right. Even with “concurrent findings”, unchallenged and uncontradicted evidence positively rebuts the Minister's assumptions: MacIsaac, supra. As Rip T.C.J., stated in Gelber v. Minister of National Revenue (1991), 91 D.T.C. 1030 (T.C.C.), at p. 1033, “[the Minister] is not the arbiter of what is right or wrong in tax law”. As Brulé T.C.J., stated in Kamin, supra, at p. 64:
+the Minister should be able to rebut such [prima facie] evidence and bring forth some foundation for his assumptions.
+…
+The Minister does not have a carte blanche in terms of setting out any assumption which suits his convenience. On being challenged by evidence in chief he must be expected to present something more concrete than a simple assumption. [Emphasis added by Justice L’Heureux Dubé]
+[19] Counsel for the Respondent also argued that the testimony of Simarjeet Cheema should not be found to be credible because she provided contradictory answers to the questions related to the account from which funds were withdrawn to pay Jasbir Cheema. However, in this case Simarjeet Cheema did not speak English so the questions were translated by an interpreter into Punjabi and her answers were translated into English. This raises the question of whether something may have been lost in the translation. She first stated that the money to pay Jasbir Cheema was withdrawn from a joint bank account and then later that some of the funds were from her husband’s account and then that the money that was used from her husband’s account was first transferred to the joint bank account and then withdrawn from this joint account. It does not seem to me that these statements are so inconsistent that I should disregard her entire testimony or find that she not a credible witness. It seems to me that if money was transferred from her husband’s account to the joint account and then withdrawn from this account to pay Jasbir Cheema, then it seems reasonable for her to state that the money to pay Jasbir Cheema was withdrawn from the joint account, that some of the money came from her husband’s account and that some funds were transferred. I do not find that these statements diminished her credibility and more likely were simply given as a result of the way that the questions were asked and translated.
+[20] Counsel for the Respondent also suggested that the amounts withdrawn by Simarjeet Cheema from the joint account were not sufficient to cover the payments made to Jasbir Cheema. However, in making this submission counsel for the Respondent was ignoring several ATM withdrawals of $100 and two of $20. When all of the withdrawals for the month of January 2003 are added together, they total $1,940, which is the same amount that Simarjeet Cheema stated that she paid to Jasbir Cheema during January 2003. I find that Simarjeet Cheema was a credible witness and I accept her testimony that she had borrowed funds from Jasbir Cheema and had made the payments to him as set out in the above charts.
+[21] I also accept the testimony of the other individuals who confirmed that Jasbir Cheema had advanced them money and that they were repaying him in cash and I find that they also made the payments to Jasbir Cheema as set out in the above charts. I find, therefore, that the Appellant has demolished the assumption that was made that these deposits to Jasbir Cheema’s personal bank account were revenue of the Appellant. Since the Respondent did not present anything more concrete than assumptions, the deposit amounts should not have been included as unreported revenue of the Appellant.
+[22] A deposit of $20,000 (which was as a result of a transfer of funds from the children’s account to Jasbir Cheema’s account) is also included as unreported revenue of the Appellant for its taxation year ending January 31, 2004. The notes of the appeals officer in relation to this deposit state as follows:
+Although we do see the amount of $20,000 transferred from the kids account, we see huge [sic] amount deposited in the account. 3 deposits of $9,000 were deposited on July 2000, Jan 2002 and July 2002. The representative had explained that the kids got money for birthdays and graduation. However, we do not feel that such huge amounts could correspond to such events. No further explanation was provided by the representative of the taxpayer.
+[23] It is not clear why the $20,000 would be included in computing the income of the Appellant for its 2004 taxation year when the funds were transferred from the children's account to Jasbir Cheema’s account. There was nothing to suggest (and no reason to believe) that the children of Jasbir Cheema had retained the Appellant to provide any cleaning services for them. The basis of the reassessment was that these amounts represented revenue that the Appellant had earned and which were deposited in the personal account of the shareholder or the children’s account. On this basis, the years in question for the Appellant (the years during which the deposits were made to the children’s account) would be the taxation year of the Appellant ending January 31, 2001 (for the deposit of $9,000 made in July, 2000), the taxation year of the Appellant ending January 31, 2002 (for the deposit of $9,000 made in January, 2002) and the taxation year of the Appellant ending January 31, 2003 (for the deposit of $9,000 made in July, 2002). These are not the years that are under appeal. There is no basis upon which these amounts should be included in the income of the Appellant for its taxation year ending January 31, 2004.
+[24] As a result, the $20,000 that was transferred from the children’s account to Jasbir Cheema’s account should not have been included as unreported revenue of the Appellant for its taxation year ending January 31, 2004.
+Capital Cost Allowance Disallowed
+[25] The Appellant owned two vehicles. Jasbir Cheema testified that he would use one vehicle during the day to visit clients and the second vehicle in the evening when he was cleaning. The Appellant produced mileage logs which consisted of two calendars with abbreviations for the places visited each day and the number of kilometres driven during that day inserted in the box for each day. There are two separate calendars - one for each vehicle. The number of kilometres driven each day was consistent. However since the Appellant was carrying on a cleaning business it seems logical that the Appellant would be cleaning the same premises each day and therefore it does not seem unreasonable that the vehicle would be driven to the same locations, which would result in the same number of kilometres being driven each day.
+[26] The issue, in this case, is related to the use of the Chevrolet Tahoe. The position of the Respondent was that the percentage of business use of this vehicle was only 70%. The Respondent did accept that the percentage of business use of the other vehicle was 100%. The position of the Respondent was that since the percentage of business use of the Tahoe was only 70%, the cost of this vehicle was restricted for the purposes of determining the capital cost allowance available for this vehicle.
+[27] Paragraph 13(7)(g) of the Act provides as follows:
+13(7) Subject to subsection 70(13), for the purposes of paragraphs 8(1)(j) and (p), this section, section 20 and any regulations made for the purpose of paragraph 20(1)(a),
+…
+(g) where the cost to a taxpayer of a passenger vehicle exceeds $20,000 or such other amount as may be prescribed, the capital cost to the taxpayer of the vehicle shall be deemed to be $20,000 or that other prescribed amount, as the case may be; and
+[28] A passenger vehicle is defined in subsection 248(1) of the Act as follows:
+“passenger vehicle” means an automobile acquired after June 17, 1987 (other than an automobile acquired after that date pursuant to an obligation in writing entered into before June 18, 1987) and an automobile leased under a lease entered into, extended or renewed after June 17, 1987;
+[29] An automobile is defined, in part, as:
+“automobile” means
+(a) a motor vehicle that is designed or adapted primarily to carry individuals on highways and streets and that has a seating capacity for not more than the driver and 8 passengers,
+but does not include
+…
+(e) a motor vehicle
+(i) of a type commonly called a van or pick-up truck, or a similar vehicle, that has a seating capacity for not more than the driver and two passengers and that, in the taxation year in which it is acquired or leased, is used primarily for the transportation of goods or equipment in the course of gaining or producing income,
+(ii) of a type commonly called a van or pick-up truck, or a similar vehicle, the use of which, in the taxation year in which it is acquired or leased, is all or substantially all for the transportation of goods, equipment or passengers in the course of gaining or producing income, or
+[30] Since the Tahoe had a seating capacity for more than three persons, the Tahoe will only be excluded from the definition of an automobile (and hence not be subject to the restriction on cost) if it is a vehicle that is similar to a van or pick up truck and the use of the Tahoe is “all or substantially all for the transportation of goods, equipment or passengers in the course of gaining or producing income”. Since the only argument raised by the Respondent in relation to the capital cost allowance restriction imposed on the Appellant was in relation to the use of the vehicle, it is implicit that the Respondent was agreeing that the Tahoe is a vehicle that is similar to a van or pick up truck. In this case the back seat had been removed from the Tahoe (which left two rows of seating) and it was used to transport cleaners (as well as presumably cleaning supplies).
+[31] The appeals officer testified that the total number of kilometres that the Tahoe was driven, as presented in the calendars, was accepted by the Respondent. However, the appeals officer also stated that it did not matter how many kilometres the Tahoe was driven, as the formula of 70% for business use and 30% for personal use would have been applied regardless of the number of kilometers that the Tahoe was driven. The requirement, as set out in the Act, is, however, whether the use of the vehicle is “all or substantially all for the transportation of goods, equipment or passengers in the course of gaining or producing income”. It seems to me that in determining this, the actual number of kilometres that the vehicle was driven in total and the actual number of kilometres that the vehicle was driven for the required purpose would be relevant.
+[32] Based on the mileage logs that were maintained, the Tahoe was driven 38,165 kilometres during the Appellant’s 2004 taxation year and 42,486 kilometres during the Appellant’s 2005 taxation year. The Notice of Appeal and a bill prepared by Jasbir Cheema for travel costs (and addressed to the Appellant) indicate that the address of the Appellant was the same as the address of Jasbir Cheema as noted in the summary of tax information submitted by the Respondent. It therefore seems logical that the office of the Appellant was located at the home of Jasbir Cheema. The Respondent did not question or suggest that the initial trip each day for the vehicle was personal use. Since the office was located at the home of Jasbir Cheema, it seems to me that the initial trip each day would be for business use, provided that Jasbir Cheema was traveling to a client of the Appellant or otherwise traveling in the course of gaining or producing income for the Appellant.
+[33] The mileage amounts of 38,165 kilometres for the Appellant’s 2004 taxation year and 42,486 for the Appellant’s 2005 taxation year were calculated by adding the daily trips recorded by the Appellant in the calendars. The auditor for the CRA accepted that these total amounts were reasonable for the total distance that the Tahoe was driven in these years. The CRA then arbitrarily determined that 30% of the kilometres driven were personal. Jasbir Cheema testified that he would write down the total number of kilometres that the vehicle was driven each day and that each day for which the mileage was recorded the vehicle was driven, except for a very few times, in the course of carrying on the business of the Appellant.
+[34] The Tahoe was used during the daytime when Jasbir Cheema would travel to meet with customers. The appeals officer for the CRA stated that one reason why the CRA determined that not all of the kilometres that the Tahoe was driven were done so in the course of business was that no mileage was recorded (except for a few weekends) for travel on Saturdays or Sundays. This, however, does not lead to a conclusion that 30% of the 38,165 kilometres for the Appellant’s 2004 taxation year (which were the recorded kilometres for Monday to Friday) were personal kilometres but suggests that the total number of kilometres driven in that year was greater than 38,165 (which was not the assumption that was made). The kilometres recorded for each day were generally 150 to 160 kilometres. The clients of the Appellant were located throughout the GTA. The Appellant had clients in Thornhill, Mississauga and other parts of the GTA. For most days the logs indicate that the vehicle was driven from Caledon to three or four different communities and then back to Caledon. There was nothing to suggest that the recorded kilometers for each day were unreasonable for a business with clients throughout the GTA.
+[35] The appeals officer stated that since Jasbir Cheema had stated that he worked seven days a week and since she did not see any mileage recorded for travel on the weekends, she determined that 30% of the 38,165 kilometres that had been recorded for the Appellant’s 2004 taxation year were personal (and as noted above she would have applied the 30% personal amount to whatever the total number of kilometres would have been and the same percentage was applied to the Appellant’s 2005 taxation year). It does not seem to me that any comment made by the Appellant that he works seven days a week would necessarily mean that he is traveling each and every day. There presumably would be work that would have to be done at the office (which as noted above appears to be in or near his home). In any event the failure to record kilometres driven on weekends (when Jasbir Cheema was only recording kilometres driven in the course of the Appellant’s business on Mondays to Fridays) does not necessarily lead to a conclusion that 30% of the kilometres recorded for the other days of the week were personal. If the kilometres driven on the weekends were added in with the amounts recorded for the other days, one would have expected to see a greater number of kilometres recorded on Mondays - but this is not the case here.
+[36] As noted above, the business of the Appellant has grown significantly. The gross revenues grew by 41% from the Appellant’s 2004 taxation year to its 2005 taxation year and have grown significantly since then. This would also explain why the Tahoe was driven more kilometres during the Appellant’s 2005 taxation year (42,486 kilometres). Therefore, it seems logical to assume that Jasbir Cheema was very busy in recruiting new customers for the Appellant and very focused on the Appellant’s business during the years under appeal.
+[37] As a result, I find that on the balance of probabilities that the Appellant has demolished the assumption made by the Respondent that the use of the Tahoe was not “all or substantially all for the transportation of goods, equipment or passengers in the course of gaining or producing income” and since the Respondent only presented assumptions, the Appellant is entitled to succeed on this point. The Respondent in the Reply, stated that the adjustments made to the income of the Appellant were as stated in the Notice of Appeal and therefore the capital cost allowance that was disallowed was $4,424 for the Appellant’s 2004 taxation year and $3,097 for the Appellant’s 2005 taxation year. These amounts should be allowed in computing the income of the Appellant.
+Travel
+[38] The Appellant claimed expenses for trips taken during the Appellant’s 2004 taxation year and its 2005 taxation year. Jasbir Cheema traveled to Québec, Edmonton and Vancouver. As well, the father‑in-law of Jasbir Cheema traveled to India. The testimony of Jasbir Cheema and his father-in-law was that these trips were undertaken to expand the business to these areas. Jasbir Cheema stated that he wanted to obtain customers for cleaning in Québec, Edmonton, Vancouver and India.
+[39] It does not seem plausible to me that a customer in India would retain a company in Canada to clean its premises when that cleaning company has no operations and no staff in India. As well, it does not seem plausible to me that firms in Québec, Edmonton or Vancouver would hire cleaning companies from Toronto who do not have any presence in their local area. Obviously cleaning services must be done at the premises of the client. Jasbir Cheema also stated he now spends a significant amount of time supervising the cleaners retained by the Appellant (a task that would be much more difficult if the cleaners are in India). The suggestion that these trips were undertaken to expand the business to these areas is not plausible to me.
+[40] Paragraph 18(1)(a) of the Act provides as follows:
+18. (1) In computing the income of a taxpayer from a business or property no deduction shall be made in respect of
+(a) an outlay or expense except to the extent that it was made or incurred by the taxpayer for the purpose of gaining or producing income from the business or property;
+[41] A couple of trips to shopping malls and a few visits to a tractor factory while Naunihal Singh Gill (the father-in-law of Jasbir Cheema) spent two months in India were, in my opinion, simply window dressing and are not sufficient to justify the cost of traveling to India as a business expense of the Appellant incurred for the purpose of gaining or producing income from the business given the implausibility of attracting customers in India for the cleaning business of the Appellant. Similarly a few visits by Jasbir Cheema to businesses in Québec, Edmonton, or Vancouver would also, in my opinion, simply be window dressing and would not be sufficient to justify the cost of the trips to these places as a deductible expense of the Appellant.
+[42] As a result the travel expenses were not incurred for the purpose of gaining or producing income and hence are not deductible by the Appellant in determining its income for the purposes of the Act.
+Conclusion
+[43] As a result, the appeal is allowed, with costs, and the matter is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that:
+(a) the Appellant did not have unreported income in its 2004 taxation year of $40,935;
+(b) the Appellant did not have unreported income in its 2005 taxation year of $42,339; and
+(c) the Tahoe was not a passenger vehicle and therefore is not included in Class 10.1 of Schedule II to the Income Tax Regulations and therefore:
+i. the amount that Appellant is entitled to deduct as capital cost allowance in computing its income for its 2004 taxation year is increased by $4,424; and
+ii. the amount that the Appellant is entitled to deduct as capital cost allowance in computing its income for its 2005 taxation year is increased by $3,097.
+Signed at Halifax, Nova Scotia, this 12th day of March 2009.
+“Wyman W. Webb”
+Webb J.
+CITATION: 2009TCC145
+COURT FILE NO.: 2008-2736(IT)I
+STYLE OF CAUSE: CHEEMA CLEANING SERVICES LTD. AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: February 25, 2009
+REASONS FOR JUDGMENT BY: The Honourable Justice Wyman W. Webb
+DATE OF JUDGMENT: March 12, 2009
+APPEARANCES:
+Agent for the Appellant:
+Arshad Qayyum
+Counsel for the Respondent:
+Laurent Bartleman
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,146 @@
+Title: Labow v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29022/index.do
+Corpus path: corpus/cases/tcc/2009/2009-tcc-43-29022-labow-v-the-queen-en.md
+Document type: case_law
+Last modified: 2009-01-20
+
+# Labow v. The Queen
+
+- Citation: 2009 TCC 43
+- Decision date: 2009-01-20
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6802, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Labow v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2009-01-20
+Neutral citation
+2009 TCC 43
+File numbers
+2006-3533(IT)G
+Judges and Taxing Officers
+Eric A. Bowie
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2006-3533(IT)G, 2007-2496(IT)G
+2007-2611(IT)G, 2007-3038(IT)G
+and 2007-3039(IT)G
+BETWEEN:
+STANLEY LABOW, DANNY S. TENASCHUK,
+MARCANTONIO CONSTRUCTORS INC.,
+GIUSEPPE MARCANTONIO
+and DOMENICO FILOSO,
+Appellants,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Applications for costs of the motions heard on September 5, 2008
+at Ottawa, Ontario
+By: The Honourable Justice E.A. Bowie
+Appearances:
+Counsel for the Appellants:
+Shelley Kamin
+Counsel for the Respondent:
+Luther P. Chambers, Q.C.
+____________________________________________________________________
+AMENDED ORDER
+UPON applications by counsel for the parties for costs of the motions heard in these appeals on September 5, 2008;
+AND UPON reading the written submissions of the parties, filed on September 30, 2008;
+IT IS ORDERED that costs of the motions are awarded to the Appellants, in any event of the cause, fixed in the amount of $16,100, plus goods and services tax in the amount of $805, for a total of $16,905, payable within 30 days of the date of this Order.
+Signed at Ottawa, Canada, this 30th day of January, 2009.
+"E.A. Bowie"
+Bowie J.
+Citation: 2009 TCC 43
+Date: 20090130
+Docket: 2006-3533(IT)G, 2007-2496(IT)G
+2007-2611(IT)G, 2007-3038(IT)G
+and 2007-3039(IT)G
+BETWEEN:
+STANLEY LABOW, DANNY S. TENASCHUK,
+MARCANTONIO CONSTRUCTORS INC.,
+GIUSEPPE MARCANTONIO
+and DOMENICO FILOSO,
+Appellants,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+AMENDED REASONS FOR ORDER
+Bowie J.
+[1] On September 5, 2008, I heard motions in these five matters. In disposing of them by Orders dated September 12, (2008TCC511) I reserved the costs of the motions to be dealt with after the parties had an opportunity to make submissions in writing. That has now been done.
+[2] The motions occupied a full day of court time. The morning was consumed by the argument of the respondent’s motions to amend the Replies to the Notices of Appeal, and the remainder of the day by the arguments relating to the other relief sought by the respondent. This included attempts by the respondent to obtain further discovery of some of the appellants, to examine non-parties under Rule 99, and to obtain unredacted copies of certain documents, parts of which had been obscured to protect solicitor/client privilege.
+[3] I permitted some, but not all, of the amendments that the respondent sought to make to the Replies. The respondent achieved only little success on the other issues. Marcantonio Constructors Inc. was required to reattend and to answer some further questions relating to one issue on discovery, and it was also required to produce an unredacted copy of a document upon which it had earlier waived solicitor/client privilege. This modest success, however, had little to do with the submissions made by counsel for the respondent.
+[4] In dealing with the question of the costs of the motions I have the discretion conferred by subsection (1) of Rule 147, and I am guided by the factors set out in subsection (3) of it.
+147(1) Subject to the provisions of the Act, the Court shall have full discretionary power over payment of the costs of all parties involved in any proceeding, the amount and allocation of those costs and determining the persons by whom they are to be paid.
+(2) Costs may be awarded to or against the Crown.
+(3) In exercising its discretionary power pursuant to subsection (1) the Court may consider,
+(a) the result of the proceeding,
+(b) the amounts in issue,
+(c) the importance of the issues,
+(d) any offer of settlement made in writing,
+(e) the volume of work,
+(f) the complexity of the issues,
+(g) the conduct of any party that tended to shorten or to lengthen unnecessarily the duration of the proceeding,
+(h) the denial or the neglect or refusal of any party to admit anything that should have been admitted,
+(i) whether any stage in the proceedings was,
+(i) improper, vexatious, or unnecessary, or
+(ii) taken through negligence, mistake or excessive caution,
+(j) any other matter relevant to the question of costs.
+(4) The Court may fix all or part of the costs with or without reference to Schedule II, Tariff B and, further, it may award a lump sum in lieu of or in addition to any taxed costs.
+(5) Notwithstanding any other provision in these rules, the Court has the discretionary power,
+(a) to award or refuse costs in respect of a particular issue or part of a proceeding,
+(b) to award a percentage of taxed costs or award taxed costs up to and for a particular stage of a proceeding, or
+(c) to award all or part of the costs on a solicitor and client basis.
+(6) The Court may give directions to the taxing officer and, without limiting the generality of the foregoing, the Court in any particular proceeding may give directions,
+(a) respecting increases over the amounts specified for the items in Schedule II, Tariff B,
+(b) respecting services rendered or disbursements incurred that are not included in Schedule II, Tariff B, and
+(c) to permit the taxing officer to consider factors other than those specified in section 154 when the costs are taxed.
+(7) Any party may,
+(a) within thirty days after the party has knowledge of the judgment, or
+(b) after the Court has reached a conclusion as to the judgment to be pronounced, at the time of the return of the motion for judgment,
+whether or not the judgment included any direction concerning costs, apply to the Court to request that directions be given to the taxing officer respecting any matter referred to in this section or in sections 148 to 152 or that the Court reconsider its award of costs.
+It is apparent from the use of the permissive “may” in the opening words of subsection (3), and from paragraph (3)(j), that the factors enumerated may not all be applicable in every case, and are not intended to be exhaustive.
+[5] Counsel for the respondent in his written submission on costs suggests that the appropriate disposition would be to order that the costs of the motions be costs in the cause, payable on a party and party basis. The counsel fee allowed by Tariff A for a motion in a Class C proceeding, unless varied by a judge, is $700. He submits, too, that three sets of costs are appropriate, having regard to the commonality of certain issues in the five appeals. Mr. Chambers submits as well that I ought not to award a lump sum in lieu of the tariff without having any evidentiary basis for doing so. He bases this submission upon the final paragraph of the Reasons for Judgment of Hugessen JA in The Queen v. Lagiorgia:[1]
+One final comment in closing. On an application such as this, where a party is seeking a lump sum for costs in lieu of the amounts provided by the tariff, it would seem to me that counsel would normally have the obligation of showing the Court what such latter amounts might be expected to be. The production of a pro forma bill of costs would be a proper way of doing this. In the absence of any such material, the Court is left to determine as best it can and on its own the amounts which could be claimed under the tariff. That is not something the Court should have to do.
+While this obiter dictum undoubtedly constitutes sound advice, I do not consider that it goes so far as to limit my discretion in the present case. Counsel for the appellants has included in her submission a pro forma solicitor and client bill. While this is not evidence, not having been verified by affidavit, it is a reasonable basis from which to make an estimate of the cost to the appellants of resisting the motions. The pro forma bill referred to by Hugessen JA in Lagiorgia is the amount allowable under the tariff. In the context of a motion, that amount is readily ascertained under this Court’s Tariff A.
+[6] The costs relating to the current motions are, I think, best dealt with under two heads – first, those referable to the motions to amend the Replies, and second, those referable to the other relief sought by the respondent.
+[7] The following are the salient facts concerning the respondent’s motions to amend her Replies.[2] The respondent was seeking an indulgence. The purpose of the motions, it seems, was to rectify perceived shortcomings in the original pleadings. Among these proposed amendments were several amendments that counsel sought to make to the statement of the Minister’s assumptions made in assessing the appellants. I did not permit these, as the material before me offered no explanation as to how the need arose to amend the assumptions. The other amendments sought were, for the most part, allowed without serious opposition from counsel for the appellants. Counsel for the Respondent, before filing the motions, had sought consent from the appellants’ counsel to make the proposed amendments. Ms. Kamin agreed to consent to almost all the proposed amendments if the respondent would pay the costs of amending the Answers, for which she asked $175 for each pleading. This offer was made by letter to Mr. Chambers, who rejected it out of hand and proceeded to file these motions. It is evident now that had he agreed to pay the very reasonable amount that Ms. Kamin had requested for costs, he would have achieved more of the indulgence he was seeking than he achieved by the motions. The costs wasted on the motions far exceeded the modest amount of costs (5 x $175 = $875) requested by the appellants. I consider that paragraphs (3) (a) (d) (g) and (i) of Rule 147 all militate in favour of an award of costs that will amount to a complete indemnity to the appellants in respect of this branch of the motions. Parties who refuse a reasonable offer to settle interlocutory issues can expect to bear the expense of the subsequent motions if it turns out to have been unnecessary because to have accepted the offer would have produced a better result for the party moving. The appellants are entitled to one counsel fee for the motions to amend, which I fix at $10,000, based upon $400 per hour for 25 hours. To that should be added a further $900 to amend the Answers.
+[8] I turn now to the remainder of the relief sought by the respondent’s motions. The respondent was largely unsuccessful on all the other aspects of the motions. I did order the production of an unredacted document, but not on any ground advanced by counsel at the hearing. Similarly, the representative of the corporate appellant was required by my Order to reattend for further examination as the result of a correction to his evidence on discovery that his counsel made by letter to the respondent’s counsel. This too was not the result of a ground that had been advanced by counsel on the motions. Otherwise, the appellants successfully resisted the motions. It is significant, too, that as the argument devolved it became apparent that the motions were largely intended to remedy perceived inadequacies in the examinations that had been conducted by the respondent’s counsel.[3] The appellants should have their costs in relation to these other issues as well, and I fix the counsel fee at $5,000. I also allow $200 for disbursements.
+[9] In Morel v. The Queen,[4] I said this about the payment of costs in contested interlocutory motions: [17] This is an appropriate case in which to apply the practice that has prevailed in Ontario since the decision in Axton v. Kent, and has since been codified there, which is that costs of a contested interlocutory motion are made payable forthwith, in any event of the cause, unless the court is satisfied that a different order would be more just in the particular case. I agree with the Divisional Court that this is a salutary practice. It is likely to discourage interlocutory motions that are not absolutely necessary, and thereby promote the timely and economical disposition of cases. I see nothing in the present case that would make a different order more just. The costs therefore will be payable within 30 days of the date of this order. (footnotes omitted)
+There is nothing in the circumstances of this case that would lead me to conclude that a different order would be more just. The appellants were put to the expense of resisting motions that had little merit, and in my view they should have their costs whatever the outcome of the trial.
+[10] The respondent shall, therefore, pay to the appellants the costs of these motions, which I fix at $16,100 plus GST of $805, a total of $16,905, in any event of the cause. The costs are to be paid within 30 days of the date of this Order, by cheque payable to counsel for the appellants. If the appellants are unable to agree as to the allocation of the costs among them I may be spoken to.
+Signed at Ottawa, Canada, this 30th day of January, 2009.
+“E.A. Bowie”
+Bowie J.
+CITATION: 2009 TCC 43
+COURT FILE NO.: 2006-3533(IT)G, 2007-2496(IT)G,
+2007-2611(IT)G, 2007-3038(IT)G
+and 2007-3039(IT)G
+STYLE OF CAUSE: STANLEY LABOW, DANNY S. TENASCHUK, MARCANTONIO CONSTRUCTORS INC., GIUSEPPE MARCANTONIO, DOMENICO FILOSO and HER MAJESTY THE QUEEN
+DATE OF WRITTEN SUBMISSIONS: September 30, 2008
+REASONS FOR AMENDED ORDER BY: The Honourable Justice E.A. Bowie
+DATE OF AMENDED ORDER: January 30, 2009
+APPEARANCES:
+Counsel for the Appellant:
+Shelley J. Kamin
+Counsel for the Respondent:
+Luther P. Chambers. Q.C
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Shelley Kamin
+Firm: Shelley Kamin
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] 87 DTC 5378.
+[2] I should point out that the Reply in the Labow appeal that the respondent sought to amend was not filed by counsel who appeared on the motions before me.
+[3] In the Labow appeal, this also was not counsel who appeared on the motions.
+[4] 2008 TCC 491 (CanLII).

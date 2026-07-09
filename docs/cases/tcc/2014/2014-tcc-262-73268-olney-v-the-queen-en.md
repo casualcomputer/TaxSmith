@@ -1,0 +1,209 @@
+---
+title: "Olney v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/73268/index.do"
+last_modified: "2014-08-29"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2014 TCC 262"
+citation2: ""
+neutral_citation: "2014 TCC 262"
+decision_date: "2014-08-29"
+language: "en"
+item_id: "73268"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5209
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T09:35:42.435000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "d6834caf420b570fd253f1bf2ecac3f437579504f197afa468ba918027ebedc1"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Olney v. The Queen
+
+- Citation: 2014 TCC 262
+- Decision date: 2014-08-29
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5209, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Olney v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2014-08-29
+Neutral citation
+2014 TCC 262
+File numbers
+2013-4768(IT)I
+Judges and Taxing Officers
+Campbell J. Miller
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2013-4768(IT)I
+BETWEEN:
+MARIE T. OLNEY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on July 17, 2014, at Calgary, Alberta
+By: The Honourable Justice Campbell J. Miller
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Mary Softley
+JUDGMENT
+The Appeal from the reassessment made under the Income Tax Act (the “Act”) for the 2011 taxation year is allowed and the reassessment is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that:
+1. all additional expenses claimed as medical expenses, other than the cell phone and CAA membership, are medical expenses pursuant to paragraph 118.2(2) of the Act;
+2. all moving expenses, other than the $2,201.05 for a scouting trip, are deductible moving expenses pursuant to section 62 of the Act.
+I award lump sum costs to the Appellant of $200.00.
+Signed at Ottawa, Canada, this 29th day of August 2014.
+“Campbell J. Miller”
+C. Miller J.
+Citation: 2014 TCC 262
+Date: 20140829
+Docket: 2013-4768(IT)I
+BETWEEN:
+MARIE T. OLNEY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+C. Miller J.
+[1] Ms. Olney appeals by way of informal procedure the Minister of National Revenue’s (the “Minister”) assessment of her 2011 taxation year. The Minister denied moving expenses pursuant to section 62 of the Income Tax Act (the “Act”) and medical expenses pursuant to section 118.2 of the Act as follows:
+Medical expenses - Cell phone $946.30
+- Lawn care $460.00
+- Personal grooming $1,894.00
+- CAA Auto Club Membership $76.56
+- Clothing alterations $1,177.24
+- Personal trainer $3,796.80
+- Housekeeping $1,220.00
+Moving expenses
+- Search for home in Calgary $2,201.05
+- Packing assistance $200.00
+- Moving-storage $1,333.34
+- Transport of vehicle to Calgary:
+- Meals $348.85
+- Accommodation $1,016.89
+- Taxi to airport $26.00
+- Return airfare $287.83
+[2] At the trial the Respondent conceded the following:
+Moving expenses – all but the scouting trip expense of $2,201.05 for the search for the home in Calgary.
+Medical expenses – lawn care, personal grooming and housekeeping.
+[3] Ms. Olney is one of a number of Canadians who has suffered the effect of the drug Thalidomide. She has virtually no arms and has small hands with just three fingers. Her doctor, Dr. Mongeau, summarized it as follows:
+There is no doubt that it is a very severe case of malformations and she suffers of a major disability and should be classified in category 3.
+[4] Despite this disability, Ms. Olney has strived to maintain an independent life, contributing fully to our society. She has succeeded. Her testimony was eloquent and heartfelt. Regrettably, she feels harassed and punished by the Government of Canada for questioning the above expenses, suggesting such an attack is unconscionable given the Government of Canada’s responsibility in connection with this drug. While I understand Ms. Olney’s depth of emotion, the task is to determine whether the expenses fall within the legal definition of moving expense and medical expense. The task of the Canada Revenue Agency (the “CRA”), and ultimately of this Court, is not, out of sympathy for Ms Olney or retribution against the Government of Canada, to pretend medical expenses or moving expenses are something other than what the law says they are.
+[5] In 2011, Ms. Olney moved from Ontario to Alberta for work purposes. To that point a reputable accounting firm had been preparing her tax returns and for prior years claimed similar expenses as she is claiming in 2011, the only difference being the moving expenses. The medical expenses, according to Ms. Olney, had always been accepted. On her move to Alberta her returns would have gone to the Winnipeg taxation office, instead of Shawinigan. This is where her expenses have been questioned by the CRA.
+[6] Given her very specific needs for accommodation, Ms. Olney made a trip to Calgary, meeting her brother from Vancouver there, to search for appropriate housing. She found a rental accommodation, but it ultimately was not satisfactory so she moved to a more permanent home in 2013. The cost for her and her brother to go to Calgary in search of a home is the $2,201.05 expense claimed by Ms. Olney as a moving expense.
+[7] Ms. Olney was very clear that she took all steps necessary to live independently without having to incur the cost of a full-time attendant. But this had its obstacles. For example, it is not possible for Ms. Olney to wash her hair herself, to dress in clothes with long sleeves or with zippers or buttons, to maintain the property or to properly cook often having to rely on prepared foods. She has engaged service providers to help where possible and also relied on family and friends. My impression is that she has not simply managed, but she has achieved to a great extent the independence she sought.
+[8] With respect to the disputed medical expenses, I will describe each of them in turn.
+Cell phone/CAA membership [9] Ms. Olney testified that she needed the cell phone and the CCA membership for automobiles emergencies, as she was incapable of dealing with any automobile problems that might occur while out driving.
+Personal trainer [10] In July 2010, Ms. Olney’s doctor, Dr. Robert Esguerra, wrote “To whom it may concern” as follows:
+Marie Olney has been a patient in my family practice since 2003. Ms. Olney is a victim of the maternal use of the drug Thalidomide, which result in phocomelia. Both of her arms are of a very short length (approximately 7 inches) with small hands and each only has three fingers. She does not have all her arm and shoulder muscles, especially on her left side. Therefore, she lacks dexterity, strength, and the ability to raise her arms. Because of their length, she does not have the same reach with her arms as most people.
+Ms. Olney does manage to live independently and happily with only some attendant services which I have covered in a previous document. The purpose of this document is to inform you that I am recommending that Ms. Olney use the services of a personal trainer to allow her to maintain her independence for as long as possible. Ms. Olney uses her feet and legs to assist her to accomplish many everyday activities such as toileting, dressing and grooming. It is therefore essential that Ms. Olney know, and be spotted on, the proper exercises to do on a continual basis to maintain the strength and flexibility in her core and legs. Special care must also be taken to ensure that she maintains the abilities she does have in her upper body and arms without damage to or overuse of her back.
+Ms. Olney testified that her doctor recommended a personal trainer who Ms. Olney indicated was less expensive than a physiotherapist. The doctor provided some names. The personal trainer, Marta Wein, was able to come to Ms. Olney’s home to provide the training necessary. Ms. Olney stated Ms. Wein researched how to assist her. Also, Ms. Olney’s doctor would suggest what training would help, and Ms. Olney would pass that information onto the personal trainer. Given how Ms. Olney relied on her legs, feet, mouth and chin to carry on daily activities, she required exercises to maintain strength in her core and legs.
+Clothing alterations [11] It was difficult for Ms. Olney to buy clothes off-the-rack. Most required alterations. Ms. Olney herself was not capable of sewing or making any such alterations. Until 2002, her mother was able to look after this for her, but in recent years she has had to hire someone to make the necessary alterations.
+Analysis [12] With respect to medical expenses Ms. Olney relies primarily on subparagraph 118.2(2)(b.1) of the Act, which reads as follows:
+118.2(2)(b.1) as remuneration for attendant care provided in Canada to the patient if
+(i) the patient is a person in respect of whom an amount may be deducted under section 118.3 in computing a taxpayer’s tax payable under this Part for the taxation year in which the expense was incurred,
+(ii) no part of the remuneration is included in computing a deduction claimed in respect of the patient under section 63 or 64 or paragraph (b), (b.2), (c), (d) or (e) for any taxation year,
+(iii) at the time the remuneration is paid, the attendant is neither the individual’s spouse or common- law partner nor under 18 years of age, and
+(iv) each receipt filed with the Minister to prove payment of the remuneration was issued by the payee and contains, where the payee is an individual, that individual’s Social Insurance Number,
+to the extent that the total of amounts so paid does not exceed $10,000 (or $20,000 if the individual dies in the year);
+[13] The Courts have always been cognizant that provisions such as the medical expense provisions are intended to provide relief and consequently have been liberally and humanely interpreted. See for example comments of former Chief Justice Bowman in Radage v Her Majesty the Queen,[1] which were cited by Justice Bowie in Pina Garcea Zaffino v Her Majesty the Queen.[2] In the Zaffino case, the CRA advised the taxpayer in a Notice of Confirmation that:
+Attendant care is care provided by an attendant who performs those personal tasks, which the person with the disability is unable to do for himself or herself. Such tasks could include, meal preparation, maid and cleaning services and transportation. However, if a person is employed to do a specific task, for example, provide maid and cleaning services, the provision of such would not be viewed as “attendant care”.
+[14] Justice Bowie disagreed with this view of “attendant care” stating instead,
+I must confess that if there is logic in this analysis it escapes me. I should have thought that the expression “attendant care” refers to the totality of the services provided by an attendant, and that if a particular service falls within it when it is delivered along with other services, then it must necessarily fall within when delivered alone. The fact that a particular taxpayer requires to obtain only one of the services commercially surely does not change the nature of that service from being “attendant care” to something else.
+[15] Justice Bowie went on to consider what is meant by “attendant care”:
+The Canadian Oxford Dictionary defines an “attendant” as “a person employed to wait on others or provide a service” and the many meanings of the word “care” include “process of looking after or providing for someone…the provision of what is needed for health or protection.” The expression “les soins de préposé” used in the French version of the Act is equally expansive in meaning… The ordinary meaning of the expression, in either official language, takes in the kind of cleaning services for which the Appellant claims in this case, as the Respondent admits. Those services cannot then be excluded from that meaning simply because the Appellant is fortunate enough to obtain the other attendant services that she requires from other sources at no cost. If house cleaning is an “attendant service” when it is provided along with other services then it surely must be an “attendant service” when it is provided alone.
+[16] I turn now to each of the medical expenses in dispute.
+Cell phone and CAA membership [17] Ms. Olney emphasized that due to her impairment she needed these services for emergency purposes. I agree. However, need is not the legal test to qualify as a medical expense. The medical expense must be found in the list of medical expenses set out in paragraph 118.2(2) of the Act. Ms. Olney, quite reasonably, suggested it is impossible for the legislators to identify every possible expense. Consequently some categories are stated in general terms, leaving room for the court’s interpretation as to what might fit. However, it is not open to the court to create new categories – that is the role of the legislators.
+[18] So, where can Ms. Olney place the cell phone and CAA membership in a list of medical expenses? She suggested that they might fall under subparagraph 118.2(2)(b.1) of the Act – attendant care.
+[19] This is the provision Justice Bowie relied upon in allowing home cleaning services in Zaffino, and which the Respondent in this case has relied upon in conceding lawn care and personal grooming. These are all expenses paid for attendant care; that is, care provided by an attendant, a person. Neither payment for a cell phone nor payment for CAA membership is payment to a person for “attendant care”. That would be stretching these words well beyond any justifiable meaning. I can find no provision under which a CAA membership would qualify as a medical expense.
+[20] With respect to the cell phone the only possible applicable provision is subparagraph 118.2(2)(m) of the Act which reads:
+(m) for any device or equipment for use by the patient that
+(i) is of a prescribed kind,
+(ii) is prescribed by a medical practitioner,
+(iii) is not described in any other paragraph of this subsection, and
+(iv) meets such conditions as are prescribed as to its use or the reason for its acquisition;
+to the extent that the amount so paid does not exceed the amount, if any, prescribed in respect of the device or equipment;
+[21] It is necessary to turn to Regulation 5700 of the Income Tax Regulations (the “Regulations”) to determine what is prescribed. I have reviewed all devices identified in the Regulations and can find none that would include a cell phone.
+[22] The cell phone and CAA membership, while needed by Ms. Olney, are simply not medical expenses under the provisions of the Act.
+Personal trainer [23] There are two possibilities for Ms. Olney’s payment to her personal trainer to be considered medical expenses: subparagraphs 118.2(2)(l.9) and 118.2(2)(b.1) of the Act.
+[24] Dealing first with subparagraph 118.2(2)(b.1) of the Act, as indicated in the earlier discussion of attendant care, this implies assistance from an individual and the assistance must be in the form of care provided to Ms. Olney. The Respondent has recognized that attendant care can be provided by more than one individual; consequently, the concession on personal grooming and lawn care expense. I am hard-pressed to see how an individual mowing the lawn is providing “attendant care” while a personal trainer attending at Ms. Olney’s residence on the recommendation of her physician is not.
+[25] Subparagraph 118.2(2)(l.9) reads:
+l.9 as remuneration for therapy provided to the patient because of the patient’s severe and prolonged impairment, if
+(i) because of the patient’s impairment, an amount may be deducted under section 118.3 in computing a taxpayer’s tax payable under this Part for the taxation year in which the remuneration is paid,
+(ii) the therapy is prescribed by, and administered under the general supervision of,
+(A) a medical doctor or a psychologist, in the case of mental impairment, and
+(B) a medical doctor or an occupational therapist, in the case of a physical impairment,
+(iii) at the time the remuneration is paid, the payee is neither the individual’s spouse or common-law partner nor under 18 years of age, and
+(iv) each receipt filed with the Minister to prove payment of the remuneration was issued by the payee and contains, where the payee is an individual, that individual’s Social Insurance Number;
+It is necessary to determine whether what Ms. Wein provided was therapy. I have no difficulty in finding that what the personal trainer did, in ensuring Ms. Olney maintained strength in dealing with not having two arms, was a form of treatment of a physical disorder, therapy. What Ms. Olney was receiving was a form of rehabilitative therapy. Rehabilitative means in effect restoring to normal life by training. I cannot imagine a more apt description of what Ms. Olney was trying to accomplish with her personal trainer. I also find that given Dr. Esguerra’s recommendation for the personal training that this fits within the letter and spirit of therapy as a medical expense under subparagraph 118.2(2)(l.9) of the Act.
+[26] The stumbling block with respect to subparagraph 118.2(2)(l.9) of the Act is that the therapy must be under the “general supervision” of the doctor. The evidence from Ms. Olney was that the doctor would advise her of the appropriate treatment from the personal trainer which she would relay to Ms. Wein. Taking a compassionate view of the situation this could constitute “general” supervision.
+Alteration to clothes [27] Ms. Olney paid a person to do the clothes alterations. Can this be swept into the broad category of attendant care? If house cleaning and lawn mowing qualify as attendant care medical expenses, again I see no reason that a payment to someone to do something Ms. Olney could not do herself, that is integral to her living a normal life should not also be considered attendant care. Simply because the alteration of the clothes might take place outside the home, this does not mean it is not attendant care. If a full-time attendant handled clothes alterations there would not be an adjustment denying some of the attendant’s expense, as it related to clothes alterations. It is an expense, I would suggest, that is well within the range of what an attendant might be expected to do for someone such as Ms. Olney. I acknowledge this might be taking an expansive, compassionate view but this is in accordance with prior direction of this Court.
+Moving expense [28] The only moving expense in dispute is the cost of the house scouting to Calgary in search of a suitable home. It is well settled that section 62 of the Act, the provision outlining eligible moving expenses, does not allow for house hunting expenses. As stated by Justice Beaubier in Robert T. Ball v Her Majesty the Queen,[3] this section is confined to moving expenses in the ordinary meaning of that term, that is, physically moving. That does not include the cost of a house hunting trip.
+[29] Is this principle sufficiently flexible that a taxpayer with special needs in the acquisition of a home can claim greater moving expenses? No, it is not. Regardless of the nature of the home sought, a scouting trip is simply not a moving expense.
+[30] Ms. Olney then suggested that such expense should be covered as a medical expense. With respect, I cannot agree with that notion. If her expense is not legitimately deductible, I fail to see how the expense incurred by her brother joining her on the trip can possibly be deductible as a medical expense.
+[31] Subparagraph 118.2(2)(l.5) of the Act specifically includes in medical expense reasonable moving expenses, but again only as defined under paragraph 62(3) of the Act. This does not help Ms. Olney.
+[32] Finally, Ms. Olney suggests the expense can be captured under the attendant care medical expense. Given the cost of the house scouting trip is not deductible, trying to then classify it as attendant care would be no different than classifying the cost of travel for any purpose as attendant care. The attendant care expense covers fees to an attendant for care, not travel costs. The evidence was not as detailed with respect to these expenses as it might be, but I have certainly not been satisfied the $2,201.05 was paid to her brother to attend upon her. The amount has simply not been proven as an attendant care medical expense.
+[33] The Appeal is allowed and referred back to the Minister for reconsideration and reassessment on the basis that:
+a. all additional expenses claimed as medical expenses, other than the cell phone and CAA membership, are medical expenses pursuant to paragraph 118.2(2) of the Act;
+b. all moving expenses, other than the $2,201.05 for a scouting trip, are deductible moving expenses pursuant to section 62 of the Act.
+I award lump sum costs to Ms. Olney of $200.00.
+Signed at Ottawa, Canada, this 29th day of August 2014.
+“Campbell J. Miller”
+C. Miller J.
+CITATION:
+2014 TCC 262
+COURT FILE NO.:
+2013-4768(IT)I
+STYLE OF CAUSE:
+MARIE T. OLNEY AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Calgary, Alberta
+DATE OF HEARING:
+July 17, 2014
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Campbell J. Miller
+DATE OF JUDGMENT:
+August 29, 2014
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Mary Softley
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+n/a
+Firm:
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] 1996 3 C.T.C. 2510.
+[2] 2007 TCC 388.
+[3] 1996 CarswellNat 1521, [1996] 3 C.T.C. 2178.

@@ -1,0 +1,149 @@
+Title: Greco v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26652/index.do
+Corpus path: corpus/cases/tcc/2005/2005-tcc-708-26652-greco-v-the-queen-en.md
+Document type: case_law
+Last modified: 2005-10-31
+
+# Greco v. The Queen
+
+- Citation: 2005 TCC 708
+- Decision date: 2005-10-31
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3594, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Greco v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-10-31
+Neutral citation
+2005 TCC 708
+File numbers
+2002-3618(IT)I
+Judges and Taxing Officers
+Eric A. Bowie
+Subjects
+Income Tax Act
+Decision Content
+2002-3618(IT)I
+BETWEEN:
+MYCHEAL P. GRECO,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on September 15, 2005, at Toronto, Ontario,
+By: The Honourable Justice E.A. Bowie
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Kandia Aird
+____________________________________________________________________
+JUDGMENT
+The appeals from reassessments of tax made under the Income Tax Act for the 1997 and 1998 taxation years are dismissed.
+Signed at Toronto, Ontario, this 31st day of October, 2005.
+"E.A Bowie"
+Bowie J.
+Citation: 2005TCC708
+Date: 20051031
+Docket: 2002-3618(IT)I
+BETWEEN:
+MYCHEAL P. GRECO,
+Appellant,
+And
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+BowieJ.
+[1] Mr. Greco has been reassessed for income tax for the 1997 and 1998 taxation years. In those two years he claimed to have sustained business losses of $10,023.50 and $10,769.58 respectively. He had been allowed business losses of similar magnitude in the four preceding years. More precisely, the gross business income and net business losses that he reported for the years 1993 to 1998 were:
+Gross business income
+Net loss
+1993
+Nil
+$9,882
+1994
+$2,150
+11,430
+1995
+2,250
+9,684
+1996
+10,500
+6,196
+1997
+3,376
+10,023.50
+1998
+5,000
+10,769.58
+[2] On July 31, 2000, the Minister of National Revenue decided that, in his opinion, Mr. Greco was not carrying on a business, and he reassessed him to disallow the losses claimed for 1997 and 1998. He also disallowed an allowable business investment loss of $29,625, based on a business investment loss of $39,500, that Mr. Greco had claimed in 1998. Mr. Greco duly delivered notices of objection, and after the notices of reassessment were confirmed he brought the present appeals.
+[3] Mr. Greco called Alan Rosenberg, C.A. to give evidence. Mr. Rosenberg testified that Mr. Greco had consulted him prior to filing his returns for the two years under appeal. He said that he did not keep books or prepare financial statements or income tax returns for Mr. Greco; he simply reviewed a number of receipts that Mr. Greco presented to him, and opined that if the amounts that they represented had been spent by Mr. Greco for the purpose of gaining or producing income then they were properly deductible as business expenses. He was quite emphatic that his services to Mr. Greco did not go beyond that. As the issues before me are whether there was a business, and if there was a business, whether the expenses claimed were incurred for the purpose of gaining or producing income, Mr. Rosenberg's evidence is of no real assistance. There is an additional issue as to the allowable business investment loss claim, but as with the expenses, Mr. Rosenberg has no knowledge of the facts beyond what Mr. Greco has told him, and so he could give no useful evidence as to that issue either.
+[4] Mr. Greco also testified. He described his embryonic business as that of a computer consultant, carried on by him as a proprietorship under the name M P G Computer Consulting. Under cross-examination, he said that he had taken various courses in networking and data base management in 1989 and 1990. He worked for a lumber company called Truss-Joist in 1989 and early 1990. He also said that he had worked for a cable television parts distribution company. He did some consulting work for these two companies, he said, although the exact time period during which he claimed to have done it was not at all clear. In early 1990, he said, he went into the consulting business on a full-time basis. According to his evidence, he had contracts to manage databases for the cable television parts company and the lumber company, along with other small contracts. He said that he worked from his residence, but also rented storage space from a firm called Emdex, for which he occasionally did some work. He described the nature of his work as involving a lot of analyzing and designing, but not a lot of hands-on work.
+[5] Mr. Greco was able to name only a few clients of his business, and those only with difficulty. He apparently had no database compiled of them. He had no business bank account, no books and records of any kind, other than a couple of envelopes full of receipts and a few invoices of the kind that anyone can print on a computer. Not only did Mr. Greco not keep any books, he did not have any record of the personal and business use of his automobile, although he claimed that 88% of its use in 1997 was for business. He claimed to have visited a large number of prospective clients - some as far away as Niagara - but he had no record of either those he had visited or those for whom he claimed to have done work, other than a few invoices, of which I will have more to say later.
+[6] The claim for a business investment loss is based upon what Mr. Greco said was a loan to 155600 Canada Inc. He produced Exhibit R-4, a receipt for $39,500, apparently signed for the numbered company by one James Clark. It is dated August 24, 1990 and is said on its face to be "investment stock certificate". Far from being a stock certificate, it appears to be a receipt of the kind that would be used by someone soliciting for a charity. It is a cheap printed form, with a space for the registration number of a charity. His evidence was that he had earned this money while working at a firm called RCA, doing camera installation and networking. He said that a friend and an acquaintance had both talked to him about this company and so he decided to invest in it. Despite the words of the certificate, he maintained that his agreement with the company was for a loan. He said that he had had a written loan agreement with the company, but had misplaced it. In October 1998, he said, the company had become insolvent, all its assets were seized by the banks, and consequently his $39,500 was lost.
+[7] There are many aspects of Mr. Greco's evidence that lead me to disbelieve it. The largest single contribution to Mr. Greco's loss of more than $10,000 for 1997 was his automobile expense, which he computed to be $3,661.07. He claimed that his total expense of operating his automobile for the year was $4,155.58. This amount is not remarkable in itself. What is remarkable is his claim that he drove 21,000 kilometres, of which, he said, 18,500 were for business. Given the nature of his alleged business, the paucity of his clientele, and his inability to produce any log for his vehicle, or to name with any specificity the clients and the prospects that he had visited, I simply do not believe this evidence. Its credibility is not assisted by the fact that his claim for capital cost allowance included two vehicles, one of which he testified was inoperable.
+[8] The second-largest contribution to his loss, according to his income tax return, was a write-down of inventory of $3,250.85, from an opening inventory of computers and associated hardware stated to be $6,050.78. Mr. Greco was evasive when questioned about this, as he was about several aspects of his evidence, but eventually he stated that he purchased such things as computers, cable, ethernet hubs and routers, even though he had no contract in progress for which they could be used. He said that this write-off was the result of having scrapped two hubs that had become obsolete. He had no inventory records to show, and he had no explanation for why someone whose business was evaluation and design, and who had virtually no clients, would spend his scarce working capital to buy hardware for resale, although he had no consulting contracts underway for which it could be utilized. He testified that such parts are prone to quick obsolescence. It simply did not make any sense that he would buy them on spec, even at what he thought was a good price. I do not believe this evidence at all.
+[9] The great majority of Mr. Greco's other expenses for 1997 were supported by receipts which could as easily be for personal expenses as for business. For example his "repairs", "meals", "travel" and "telephone and utilities" are all items that could have been for personal rather than business-related use.
+[10] His only reported business income in 1997 was a $3,375.95, all of which came, he said, from a contract with the firm called Langton Financial. His evidence about this contract, like all his descriptions of his dealings with both clients and suppliers, did not have a ring of truth to it. He could not, in any meaningful way, describe the work that he said he did for them. He did, however, say that Langton Financial failed to pay him $375.89 for some hardware. He claimed this amount as a bad debt expense.
+[11] Turning to 1998, Mr. Greco's loss claimed of $10,769.58 is made up this way:
+Sales
+$5,000.00
+Cost of goods sold
+15,769.50
+Profit (loss)
+($10,769.50)
+He explained that he did not bother to claim any further expenses for 1998 as his losses were so great that there was no point in claiming more. His cost of goods sold is made up of two items:
+1. $769.58 opening inventory, which he apparently wrote off during the year as he showed no closing inventory;
+2. A subcontract to NTT Network Corp. for $15,000.00 for work described as:
+Installation of 6 Compaq servers
+Fibre Optics cable connection 600 ft.
+Fibre Optics 38 Connectors Installation $15,000.00
+Exhibit R-1 is what appears to be an invoice from NTT Network Corp. to MPG Computer Consulting for this work.
+[12] During his evidence Mr. Greco identified copies of three invoices purporting to have been issued by him as MPG Computer Consulting for work that he had done. One is an invoice to Langton Financial for $3,375.95 for installation of network server and cables. This is dated March 21, 1997 and is marked "invoice 01". Invoice 02 is dated October 2, 1998. It is to Micom Technologies, Inc., and is for $5,000.00. There is a notation typed at the bottom that reads "Deposit of $1,500.00 Balance due when job is completed". Both of these invoices were produced by him to the Minister's auditor. They bear a distinctive stamp that she said was placed by her on all documents produced to her during the course of the audit. The other invoice does not bear that stamp, and I conclude that it was not produced to the auditor. It bears number 03, although it is dated July 2, 1998 - predating invoice 02 by more than two months. It is also addressed to Micom Technologies, Inc., and it is for essentially the same work as that which Mr. Greco said he paid NTT Network Corp. $15,000 to do under an invoice dated June 2, 1998. Mr. Greco's evidence about this was that he obtained this job from Micom at a contract price of $26,500, and then subcontracted most of the work to NTT Network. Micom, he said, refused to pay him for the work, and so he had a bad debt of $26,500. In the meantime, he said, he cashed his RRSP to pay NTT Network its $15,000.
+[13] Mr. Greco's evidence does not make any sense in a business context. Why would he, having only two contracts in 1998, subcontract virtually all the work under the larger of those two to NTT? Why would Micom pay Mr. Greco $26,500 to do work that he was able to subcontract for only slightly more than half that amount? Why would Mr. Greco cash RRSPs to pay NTT for the work it did under the subcontract while Micom was refusing to pay for the work on the basis that it was not satisfactory? Why does invoice 03 to Micom for $26,500 (which the assessor never saw) predate invoice 02 which she did see? Why would Micom enter into a contract with Mr. Greco in the fall of 1998 when it was apparently unsatisfied with the work that he had been retained to do earlier that year? Why would Mr. Greco do more work for Micom when it had not paid him for the previous contract? Mr. Greco had no satisfactory explanation for any of these things. It was convenient, however, that he had a $26,500 bad debt to write off in 1998, wiping out his relatively small revenue and giving rise to a substantial loss.
+[14] The Appellant's credibility is certainly not enhanced by the fact that during the years under appeal he collected more than $15,000 in Employment Insurance benefits - $7,021 in 1997 and $8,260 in 1998.[1] He also earned employment income of $23,551 from Cabletel Communications Corp. during 1997. Section 18 of the Employment Insurance Act[2] precludes the payment of benefits to someone who is not available for work. Mr. Greco's claim is that by 1997 he had been in the computer consulting business for four full years, with total losses exceeding $36,000.
+[15] Mr. Greco's evidence concerning his claim for a business investment loss is no less improbable. Why would he "invest" $39,500 by way of a loan, apparently at no interest, with a company of which he knew nothing except by way of some vague statements made to him by two acquaintances, neither of whom was investing their own money in the company? Why did he get a receipt on an inappropriate form that describes itself as "investment stock certificate"? Mr. Greco produced copies of two letters that he said he had written to Mr. Clarke in September and October of 1997 demanding return of his "investment", yet he could not produce the loan agreement because he had lost it. Nor did he have any cancelled check or other document to corroborate his evidence about this so-called investment.
+[16] The few documents that Mr. Greco produced to substantiate his evidence that he had a consulting business are of such a nature that they could easily be produced by anybody on a home computer. All the anomalies that I have referred to lead me to conclude that both Mr. Greco's "business" and his "investment" were products of his imagination, and the documents - the invoices and the receipt -- were created by him to support a fabrication. I do not accept any of his evidence as being credible.
+[17] Even if I had believed all of Mr. Greco's evidence with respect to the claim for a business investment loss, I would nevertheless have had to dismiss that claim. In order to treat a debt as having been disposed of for no consideration at the end of the year, a taxpayer must elect in his income tax return for the year to have subsection 50(1) of the Act apply. He did not make that election.
+[18] The appeals are dismissed.
+Signed at Toronto, Canada, this 31st day of October , 2005.
+"E.A. Bowie"
+Bowie J.
+CITATION:
+2005TCC708
+COURT FILE NOS.:
+2002-3618(IT)I
+STYLE OF CAUSE:
+Mycheal P. Greco and Her Majesty the Queen
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+September 15, 2005
+REASONS FOR JUDGMENT BY:
+The Honourable Justice E.A. Bowie
+DATE OF JUDGMENT:
+October 31, 2005
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Kandia Aird
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+N/A
+Firm:
+N/A
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] See Exhibits A-1 and A-2.
+[2] S.C. 1996 c. 23, s. 18.

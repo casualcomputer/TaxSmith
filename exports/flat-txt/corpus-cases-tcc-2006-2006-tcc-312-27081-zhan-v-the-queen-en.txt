@@ -1,0 +1,84 @@
+Title: Zhan v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27081/index.do
+Corpus path: corpus/cases/tcc/2006/2006-tcc-312-27081-zhan-v-the-queen-en.md
+Document type: case_law
+Last modified: 2006-06-02
+
+# Zhan v. The Queen
+
+- Citation: 2006 TCC 312
+- Decision date: 2006-06-02
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 951, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Zhan v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-06-02
+Neutral citation
+2006 TCC 312
+File numbers
+2005-1833(IT)I
+Judges and Taxing Officers
+Judith Woods
+Subjects
+Income Tax Act
+Decision Content
+Citation: 2006TCC312
+Date: 20060602
+Docket: 2005-1833(IT)I
+BETWEEN:
+WEIGUO ZHAN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+(delivered orally from the Bench
+on May 4, 2006 at Vancouver, British Columbia)
+Woods J.
+[1] These are reasons delivered from the bench in the appeal of Weiguo Zhan and Her Majesty the Queen.
+[2] Mr. Zhan appeals an assessment that disallowed a deduction for moving expenses that were incurred in the 2003 taxation year. The amount claimed was $19,213.69 which is one-half of the total. The other half were claimed by Mr. Zhan's wife, Mrs. Shao, and her deduction was also disallowed by the Minister.
+[3] Mr. Zhan and his wife both appealed to this Court and at their request the appeals were heard separately. Mrs. Shao's appeal was heard by Justice Campbell of this Court on January 31, 2003. She dismissed the appeal for reasons given orally on February 1, 2003.
+[4] Mr. Zhan's appeal was heard by me on February 24. After hearing his evidence I was informed that he had not had a chance to consider the reasons that Justice Campbell had given. I therefore granted his request for an adjournment to consider them and the parties came before me again on April 28 for argument.
+[5] Mr. Zhan seeks to deduct moving expenses incurred in the course of moving from Edmonds, in the State of Washington to Surrey, British Columbia.
+[6] The general rule in respect of the deduction of moving expenses is that the old and the new residences both must be in Canada. In this case, the old residence was in the United States and accordingly the general rule does not apply.
+[7] Mr. Zhan seeks to qualify the expense under a special provision. It allows the deduction regardless of where the residences are located if the taxpayer is "absent from but resident in Canada."
+[8] Mr. Zhan is a Canadian citizen and lived in British Columbia before he and his wife moved to the United States in 1997. They ceased to be residents of Canada at that time. Sometime in 2002, they decided to come back to Canada and began preparations for the move. They looked for employment and accommodation in Canada, they sold their residence in the United States and they generally started cutting social and economic ties in the United States and began acquiring social and economic ties in Canada. Mr. Zhan accepted a new job in Canada starting in April 2003, he and his wife took possession of an apartment in Canada at the beginning of April and they moved out of their former residence at the same time. The Washington residence was actually sold earlier but an arrangement was made to keep possession until the move.
+[9] Mr. Zhan argues that the special rule applies to him because at the time of his move he was absent from Canada but a resident of Canada. He argues that he established sufficient ties to Canada before his move to become a resident of Canada before leaving his home in the United States. His argument is based on case law that provides that one can be a resident of Canada without having a home here.
+[10] Mr. Zhan referred me to a decision of Justice Lamarre called Collins v. The Queen and argued that one did not need to have home in a jurisdiction in order to be a resident.
+[11] The Collins case is distinguishable because it did not deal with a situation in which the taxpayer was a non-resident. In Collins, it was found that the taxpayer had not ceased to be a resident of Canada because he had not "settled" someplace outside Canada.
+[12] The same considerations do not apply where a taxpayer has become settled in a foreign jurisdiction. As Justice Lamarre notes, the meaning of residence depends on the particular facts. She states: "... the meaning of "resident" is very flexible and its definition varies depending on the context and the various aspects of a given situation."
+[13] In my view the conclusion of Justice Campbell in the appeal of Mr. Zhan's wife also applies to Mr. Zhan and I adopt her reasons. Mr. Zhan did not become a resident of Canada until he took possession of the apartment in Canada which was in April. At no time was there a point at which Mr. Zhan was absent from Canada but a resident here.
+[14] This is sufficient to dispose of the appeal but I would like to add a few comments.
+[15] First, the interpretation that Mr. Zhan suggests results in an unfair application of the provision to different taxpayers. The Supreme Court of Canada has recently said that this is to be avoided. In the Canada Trustco case, at para 12, the Court stated that the provisions of the Act must be interpreted to achieve consistency, predictability and fairness.
+[16] If Mr. Zhan's interpretation is accepted, then someone who moves from a foreign country to Canada would be able to deduct moving expenses if they established ties in Canada before the move but they would not be able to deduct moving expenses if they did not. This result is unfair. In order to give a fair interpretation to the provision, generally the special rule should not apply to someone in the process of acquiring Canadian residence, either as a first time resident or as a returning resident as Mr. Zhan was.
+[17] As the Federal Court of Appeal noted in Dixonv. The Queen, the special rule for persons who are absent but resident in Canada is designed to address special circumstances where Canadian residents are temporarily absent from Canadasuch as the military, ambassadors or students.
+[18] Further, Mr. Zhan's interpretation is contrary to s. 250(5) of the Act. Neither party mentioned this section and accordingly it is not the main reason for my decision. It is worth noting, though, that this provision applies where someone has significant ties to Canada and the United States and it generally provides that they will be resident in the jurisdiction where they have a home available. In this case, that would mean that Mr. Zhan would be resident in the United States and not Canadaprior to his move in April 2003.
+[19] For these reasons, Mr. Zhan's appeal is dismissed.
+Signed at Toronto, Ontario, this 2nd day of June 2006.
+"J. Woods"
+Woods J.
+CITATION: 2006TCC312
+COURT FILE NO.: 2005-1833(IT)I
+STYLE OF CAUSE: Weiguo Zhan and Her Majesty the Queen
+PLACE OF HEARING: Vancouver, British Columbia
+DATE OF HEARING: February 24 and April 28, 2006
+REASONS FOR JUDGMENT BY: The Honourable Justice Judith Woods
+DATE OF JUDGMENT: May 5, 2006
+APPEARANCES:
+For the Appellant: The Appellant himself
+Counsel for the Respondent: Fiona Mendoza
+COUNSEL OF RECORD:
+For the Appellant:
+Name: n/a
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

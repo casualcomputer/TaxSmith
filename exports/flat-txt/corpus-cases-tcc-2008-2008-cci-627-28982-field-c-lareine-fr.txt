@@ -1,0 +1,142 @@
+Title: Field c. LaReine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28982/index.do
+Corpus path: corpus/cases/tcc/2008/2008-cci-627-28982-field-c-lareine-fr.md
+Document type: case_law
+Last modified: 2008-11-24
+
+# Field c. LaReine
+
+- Citation: 2008 CCI 627
+- Decision date: 2008-11-24
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6792, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Field c. LaReine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-11-24
+Référence neutre
+2008 CCI 627
+Numéro de dossier
+2008-354(IT)I
+Juges et Officiers taxateurs
+Valerie A. Miller
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2008-354(IT)I
+ENTRE :
+ALLAN E. FIELD,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 4 novembre 2008, à Vancouver (Colombie‑Britannique).
+Devant : L’honorable juge Valerie Miller
+Comparutions :
+Pour l’appelant :
+L’appelant lui‑même
+Avocate de l’intimée :
+Me Sara Fairbridge
+____________________________________________________________________
+JUGEMENT Les appels interjetés à l’encontre des nouvelles cotisations établies à l’égard de l’appelant en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 2003, 2004 et 2005 sont rejetés conformément aux motifs du jugement ci‑joints.
+Signé à Halifax (Nouvelle‑Écosse), ce 24e jour de novembre 2008.
+« V. A. Miller »
+Juge Miller
+Traduction certifiée conforme
+ce 30e jour de décembre 2008.
+Alya Kaddour‑Lord, traductrice
+Référence : 2008CCI627
+Date : 20081124
+Dossier : 2008-354(IT)I
+ENTRE :
+ALLAN E. FIELD,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Miller
+[1] L’appelant interjette appel à l’encontre des nouvelles cotisations établies à son égard pour les années d’imposition 2003, 2004 et 2005, par lesquelles le ministre du Revenu national (le « ministre ») a refusé les dépenses de 4 193,75 $, de 12 833,44 $ et de 11 996,56 $ que l’appelant avait déduites de son revenu de location.
+[2] La ventilation de ces dépenses était la suivante :
+2003
+2004
+2005
+Intérêts
+3 063,54 $
+1 932,16 $
+3 494,82 $
+Déplacements
+1 130,21 $
+2 688,74 $
+2 267,92 $
+Entretien et réparations
+_______
+8 212,54 $
+6 233,82 $
+Total
+4 193,75 $
+12 833,44 $
+11 996,56 $
+[3] En 1994, l’appelant a acheté un terrain à Sun Peaks, en Colombie‑Britannique, en espérant que cette région deviendrait un domaine skiable aussi prospère que Whistler. Il a payé 183 276 $ pour y faire construire un appartement en copropriété conçu pour les skieurs (l’« appartement »), qu’il a mis en location.
+LES INTÉRÊTS
+[4] Pendant la période en cause, l’appelant a déduit, comme il était autorisé à le faire, la totalité des intérêts qu’il avait payés sur l’hypothèque grevant l’appartement. Il a également déduit les intérêts dont il est fait état au paragraphe 2 ci‑dessus.
+[5] L’appelant a témoigné que le coût de l’appartement était supérieur au montant de l’hypothèque, et qu’il avait utilisé ses cartes de crédit et sa marge de crédit afin de financer toutes les autres dépenses associées à l’appartement. Les intérêts additionnels qu’il a déduits de son revenu étaient ceux qu’il avait payés sur ses cartes de crédit et sur sa marge de crédit.
+[6] Afin d’étayer sa demande, l’appelant a présenté une lettre écrite par un conseiller financier, indiquant que la limite de la marge de crédit de l’appelant avait été augmentée, et qu’il avait remboursé les montants qui lui avaient été avancés sur plusieurs cartes de crédit. Cette lettre était datée du 21 avril 2004. Sur la lettre, l’appelant a dessiné un tableau comportant deux colonnes intitulées « Sun Peak » et [traduction] « personnel ». Il a ensuite effectué une estimation des montants pour chaque colonne.
+[7] La disposition pertinente de la Loi de l’impôt sur le revenu est ainsi libellée :
+20. (1) Déductions admises dans le calcul du revenu tiré d’une entreprise ou d’un bien – Malgré les alinéas 18(1)a), b) et h), sont déductibles dans le calcul du revenu tiré par un contribuable d’une entreprise ou d’un bien pour une année d’imposition celles des sommes suivantes qui se rapportent entièrement à cette source de revenus ou la partie des sommes suivantes qu’il est raisonnable de considérer comme s’y rapportant :
+[…]
+c) Intérêts – la moins élevée d’une somme payée au cours de l’année ou payable pour l’année (suivant la méthode habituellement utilisée par le contribuable dans le calcul de son revenu) et d’une somme raisonnable à cet égard, en exécution d’une obligation légale de verser des intérêts sur :
+(i) de l’argent emprunté et utilisé en vue de tirer un revenu d’une entreprise ou d’un bien (autre que l’argent emprunté et utilisé pour acquérir un bien dont le revenu serait exonéré ou pour contracter une police d’assurance-vie), […]
+[8] La lettre présentée par l’appelant ne me permet pas à elle seule de conclure que les montants en cause ont été empruntés en vue de tirer un revenu d’un bien. De même, la lettre ne confirme en aucune manière le montant des intérêts. À cette fin, je ne dispose que de l’estimation effectuée par l’appelant. Cela ne suffit pas à appuyer sa demande de déduction des intérêts au‑delà de ce que le ministre lui a déjà accordé.
+[9] Afin de pouvoir déduire de son revenu les intérêts qu’il a payés, l’appelant doit être en mesure de présenter des documents indiquant qu’il a payé des intérêts sur de l’argent emprunté en vue de tirer un revenu d’un bien. L’appelant doit également pouvoir justifier du montant exact des intérêts qu’il a payés.
+LES DÉPLACEMENTS
+[10] L’appelant a déclaré que tant l’appartement que les objets qu’il contenait prenaient de l’âge et que des réparations s’avéraient nécessaires. Comme aucun habitant de la région ne pouvait s’en charger, il a dû les effectuer lui‑même. Pendant la période en cause, il habitait à South Surrey, et il a dû se rendre à l’appartement, qui se trouvait à approximativement 400 kilomètres de son lieu de résidence, afin d’effectuer tous les travaux et de percevoir le loyer.
+[11] La preuve a montré que l’appelant avait déduit les dépenses engagées pour dix visites qu’il a effectuées à l’appartement en 2003, 22 visites en 2004 et 19 visites en 2005.
+[12] Aucun document ne vient étayer les montants déduits par l’appelant. Aucun détail n’a été donné au sujet des nombreux déplacements effectués par l’appelant pour se rendre à l’appartement. Le fait qu’il vive à South Surrey tout en possédant un bien locatif à Sun Peaks est le fruit d’un choix personnel. Les frais engagés pour se rendre à l’appartement et en revenir sont de nature personnelle, et ne sont pas déductibles.
+[13] Il me semble important de reproduire le paragraphe 3 de l’arrêt Njenga v. R.[i], qui est ainsi rédigé :
+Le système fiscal est fondé sur l'autocontrôle. Il est d'intérêt public que la charge de prouver le fondement des déductions et des réclamations repose sur le contribuable. Le juge de la Cour de l'impôt a statué que les personnes comme la requérante doivent être en mesure de produire toutes les informations et justifications permettant d'appuyer les réclamations qu'elles font. Nous sommes d'accord avec cette conclusion. Mme Njenga, à titre de contribuable, a la responsabilité de justifier ses affaires personnelles d'une manière raisonnable. Des reçus écrits par elle-même et des allégations sans preuve ne sont pas suffisants.
+L’ENTRETIEN ET LES RÉPARATIONS
+[14] L’appelant s’est vu accorder la déduction qu’il avait demandée à l’égard des frais de réparation et d’entretien s’élevant à 4 978,91 $ en 2003, à 7 387,41 $ en 2004 et à 9 554,24 $ en 2005. Le ministre ne lui a pas permis de déduire les montants dont il est question au paragraphe 2 ci‑dessus parce qu’il était d’avis qu’il s’agissait de dépenses en capital.
+[15] En 2004, l’appelant a engagé des dépenses pour le raccordement au réseau de distribution de gaz, une chaudière au gaz, un radiateur à eau chaude, un divan, une causeuse, un réfrigérateur et un sèche‑linge. Le montant que l’appelant a déduit de son revenu pour 2005 comprenait le coût d’un bain à remous.
+[16] Le critère fréquemment évoqué quand il s’agit de décider si une dépense devrait être capitalisée ou passée en charges est celui qui a été énoncé de la manière suivante par le vicomte Cave dans l’arrêt British Insulated & Helsby Cables Ltd. v. Atherton (1925), [1926] A.C. 205 (Chambre des lords du R.‑U.) à la page 213 :
+[traduction]
+[...] Mais quand on fait des dépenses non seulement une fois pour toutes, mais encore dans le but d’apporter un élément d’actif ou un avantage pour le bénéfice durable d’un commerce, je pense qu’il y a de très bonnes raisons (en l’absence de circonstances particulières conduisant à une conclusion contraire) de traiter une telle dépense comme si elle était à juste titre imputable non pas au revenu mais au capital.
+[17] En l’espèce, bien que toutes les dépenses en cause puissent ne pas avoir été faites « une fois pour toutes », elles constituent toutes des dépenses en capital, dans la mesure où elles apportent un élément d’actif pour le bénéfice durable de l’appartement. Les dépenses engagées relativement au bien locatif sont toutes des dépenses majeures. Elles se distinguent des dépenses annuelles ordinaires[ii]. La durée de vie utile de tous les objets qui ont été achetés sera relativement longue.
+[18] L’appel est rejeté.
+Signé à Halifax (Nouvelle‑Écosse), ce 24e jour de novembre 2008.
+« V. A. Miller »
+Juge Miller
+Traduction certifiée conforme
+ce 30e jour de décembre 2008.
+Alya Kaddour‑Lord, traductrice
+RÉFÉRENCE : 2008CCI627
+NO DU DOSSIER DE LA COUR : 2008-354(IT)I
+INTITULÉ : Allan E. Field et Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Vancouver (Colombie‑Britannique)
+DATE DE L’AUDIENCE : Le 4 novembre 2008
+MOTIFS DU JUGEMENT : L’honorable juge Valerie Miller
+DATE DU JUGEMENT : Le 24 novembre 2008
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui‑même
+Avocate de l’intimée :
+Me Sara Fairbridge
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous‑procureur général du Canada
+Ottawa, Canada
+[i] [1997] 2 C.T.C. 8 (C.A.F.).
+[ii] Minister of National Revenue v. Haddon Hall Realty Inc. (1961), 62 D.T.C. 1001 (C.S.C.).

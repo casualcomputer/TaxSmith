@@ -1,0 +1,197 @@
+---
+title: "Champaigne v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27191/index.do"
+last_modified: "2006-02-13"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 TCC 74"
+citation2: ""
+neutral_citation: "2006 TCC 74"
+decision_date: "2006-02-13"
+language: "en"
+item_id: "27191"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 994
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T22:21:16.720000+00:00"
+cases_cited_count: 0
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "c569d18df2bea4a6267df375c3455ca95b4d5d9b3626a7aa607b0753e60c686b"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Champaigne v. The Queen
+
+- Citation: 2006 TCC 74
+- Decision date: 2006-02-13
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 994, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Champaigne v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-02-13
+Neutral citation
+2006 TCC 74
+File numbers
+2004-4685(IT)I
+Judges and Taxing Officers
+Cameron Hugh McArthur
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2004-4685(IT)I
+BETWEEN:
+REGINALD CHAMPAIGNE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on January 27, 2006, at Sudbury, Ontario
+By: The Honourable Justice C.H. McArthur
+Appearances:
+Agent for the Appellant:
+Alison Champaigne
+Counsel for the Respondent:
+Jade Boucher
+____________________________________________________________________
+JUDGMENT
+The appeals from reassessments of tax made under the Income Tax Act for the 2001 and 2002 taxation years are allowed, without costs, and the reassessments are referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that in computing income, the Appellant is entitled to deduct other employment expenses in the amounts of $3,400 and $1,940, respectively.
+Signed at Ottawa, Canada, this 13th day of February, 2006.
+"C.H. McArthur"
+McArthur J.
+Citation: 2006TCC74
+Date: 20060213
+Docket: 2004-4685(IT)I
+BETWEEN:
+REGINALD CHAMPAIGNE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+McArthur J.
+[1] These appeals are from reassessments by the Minister of National Revenue of the Appellant's 2001 and 2002 taxation years. The Minister denied the Appellant's claim for employment expenses in the amounts of $5,960 and $3,490, respectively, pursuant to subsections 8(2) and 8(4) and paragraphs 8(1)(h) and 8(1)(h.1) of the Income Tax Act.
+[2] At the outset of the hearing, the Appellant's representative, his wife, reduced the expenses claimed to the following amounts:
+Expenses
+2001
+2002
+Automobile
+$160
+$100
+Lodging
+3,240
+1,840
+Total claim
+$3,400
+$1,940
+She further advised that she agreed with all assumptions of fact in the Reply to the Notice of Appeal, but for paragraphs 9(b) and (k). Paragraph 9(k) is the only assumption of consequence, the "employer's place of business", which is the primary issue in these appeals.
+[3] The assumptions of fact in paragraph 9 of the Reply include:
+a) at all relevant times, the Appellant's principal and permanent residence was located at 1371 Pioneer Road, Sudbury, Ontario (the "Residence");
+b) during the 2001 and 2002 taxation years, the Appellant was a welder and a member of the "IBEW Local 530 - International Brotherhood of Electrical Workers" (the "Union Local");
+c) the Union Local obtained certain employment opportunities for the Appellant and said jobs were offered to him;
+d) during the 2001 and 2002 taxation years, the Appellant worked for the following employers:
+2001
+1. Comstock Canada Ltd.
+3455 Landmark Rd., Burlington
+2. Mid South Contractors Ltd.
+3100 Devon Rd., Windsor
+3. Thiro Ltee
+489 Boul Industriel, Victoriaville
+2002
+1. Kennedy Electric Ltd.
+201A Wilkinson, Brampton
+2. Comstock Canada Ltd.
+3455 Landmark Rd., Burlington
+3. Ont. Electrical Construction
+7 Compass Ct., Scarborough
+4. S & T Electrical Contractors
+158 Sackville Rd., SSM, ON.
+5. Walden Electrical Ltd.
+106 Fielding Rd., Lively
+6. Thiro Ltee
+489 Boul Industriel, Victoriaville
+e) during the 2001 taxation year, the Appellant's duties of employment with Comstock Canada Ltd. (Comstock required he work at the "Kidd Creek" construction site located in Timmins, Ontario from January 1, 2001 until February 10, 2001 inclusively;
+f) during the 2001 and 2002 taxation years, the Appellant's duties of employment with Thiro Ltee. ("Thiro") required he work at a construction site located in Sarnia, Ontario from September 2001 until April 2002, inclusively;
+g) the amount of expenses claimed by the Appellant as stated in paragraph 3 herein were composed of the following:
+Expense
+2001
+2002
+Automobile
+$1,720
+$1,100
+Food, beverage
+1,000 (½)
+550 (½)
+Lodging
+3,240
+1,840
+Total expenses
+$5,960
+$3,490
+h) the Appellant maintained temporary accommodation in Timmins and Sarnia while working for Comstock and Thiro during the time periods referred to in subparagraphs 9(e) and 9(f) herein;
+i) the Appellant commuted between the Residence in Sudbury and the temporary accommodation as referred to in subparagraph 9(h) herein, the automobile expenses as claimed by the Appellant and stated in subparagraph 9(g) herein were incurred in regard to travel between said Residence and said temporary accommodations and the Appellant did not travel between construction sites during working hours;
+j) the amounts claimed for food, beverages and lodging as stated in subparagraph 9(g) herein were incurred with respect to the cost of accommodation in Sarnia and Timmins and cost of food and beverages consumed during the Appellant's stay at said locations; and
+k) the construction sites as referred to hereinbefore are considered to be the 'employer's place of business' during the time periods when the Appellant was working at said sites.
+[4] While the Appellant worked at various sites for several employers, only two sites are in question, Thiro in Sarnia, and Comstock in Timmins. As stated, the definition of "place of business" as referred to in paragraph 8(1)(h) is the crux of the Appellant's position. It is defined in paragraph 32(c) of the Minister's IT-522R as follows:
+32(c) "place of business" generally is considered to have reference to a permanent establishment of the employer such as an office, factory, warehouse, branch or store, or to a field office at a large construction job.
+[5] Thiro is a Quebec corporation, permanently established in the Provinceof Quebec. It obtained a small contract in Sarnia, Ontario, where it had no site field office, but a small trailer which served as a lunchroom and sometimes an office, although it had no telephone or other regular office equipment. The Appellant was hired as an electrician in Sarniabecause he had experience climbing and working on a 100 foot electrical tower that Thiro was constructing. The Appellant is one of very few electricians in Ontariowho is qualified for such a position.
+[6] Comstock had offices in Sudbury, from where the Appellant was hired, and Sault Ste. Marie, Ontario. It also had a small trailer in Timminswhere it was constructing a long conveyer belt. It did not have a field office or telephones, but did have a small lunchroom trailer. In Timmins, the Appellant was an electric welder. Again, his skill was in demand.
+Analysis
+[7] Subsection 8(2) of the Act provides that no deductions shall be made in computing a taxpayer's employment income unless permitted by paragraph 8(1)(h), which reads as follows:
+8(1) In computing a taxpayer's income for a taxation year from an office or employment, there may be deducted such of the following amounts as are wholly applicable to that source or such part of the following amounts as may reasonably be regarded as applicable thereto:
+...
+(h) where the taxpayer, in the year,
+(i) was ordinarily required to carry on the duties of the office or employment away from the employer's place of business or in different places, and
+(ii) was required under the contract of employment to pay the travel expenses incurred by the taxpayer in the performance of the duties of the office or employment,
+amounts expended by the taxpayer in the year (other than motor vehicle expenses) for travelling in the course of the office or employment, except where the taxpayer
+(iii) received an allowance for travel expenses that was, because of subparagraph 6(1)(b)(v), (vi) or (vii), not included in computing the taxpayer's income for the year, or
+...
+These conditions must be met before the Appellant can deduct his lodging which is included in travelling expenses. This is separate from motor vehicle expenses which is dealt with in paragraph 8(1)(h.1) of the Act.
+[8] With regard to the Appellant being ordinarily required to carry on the duties of him employment away from his employer's place of business, I have no difficulty finding that the Appellant meets the criteria. It is clear from the facts referred to earlier, that the employer's (Thiro and Comstock) place of business as defined in IT-522R was not Sarnia or Timmins. The word 'ordinarily' modifies "required to carry on the duties of employment". Because of his uncommon expertise, it was ordinarily, or a regular occurrence for the Appellant to carry on his duties away from his employer's place of business.
+[9] With respect to the Appellant being required to pay his own travelling (lodging) expense, this was not contested by the Respondent. And with respect to whether the Appellant received an allowance for travelling, not included in his income, the answer is no, and this was not contested by the Respondent.
+[10] In conclusion, the Appellant met the three criteria in paragraph 8(1)(h) and his lodging expenses as claimed are allowed. The amounts were not in dispute. The three conditions described for lodging in paragraph 8(1)(h) must be met in order to deduct motor vehicle expenses. For the same reasons, given the words of paragraph 8(1)(h.1), I find that the Appellant is entitled to deduct his motor vehicle expenses claimed. Again, the amounts were not in dispute.
+[11] The appeals are allowed, without costs, to permit the Appellant to deduct employment expenses of $3,400 and $1,940 from his 2001 and 2002 employment income, respectively.
+Signed at Ottawa, Canada, this 13th day of February, 2006.
+"C.H. McArthur"
+McArthur J.
+CITATION: 2006TCC74
+COURT FILE NO.: 2004-4685(IT)I
+STYLE OF CAUSE: Reginald Champaigne and
+Her Majesty The Queen
+PLACE OF HEARING: Sudbury, Ontario
+DATE OF HEARING: January 27, 2006
+REASONS FOR JUDGEMENT BY: The Honourable Justice C.H. McArthur
+DATE OF JUDGMENT: February 13, 2006
+APPEARANCES:
+Agent for the Appellant:
+Alison Champaigne
+Counsel for the Respondent:
+Jade Boucher
+COUNSEL OF RECORD:
+For the Appellant:
+Name: N/A
+Firm: N/A
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Ontario

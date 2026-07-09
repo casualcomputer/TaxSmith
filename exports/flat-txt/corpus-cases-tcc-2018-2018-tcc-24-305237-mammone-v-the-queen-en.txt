@@ -1,0 +1,137 @@
+Title: Mammone v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/305237/index.do
+Corpus path: corpus/cases/tcc/2018/2018-tcc-24-305237-mammone-v-the-queen-en.md
+Document type: case_law
+Last modified: 2018-01-18
+
+# Mammone v. The Queen
+
+- Citation: 2018 TCC 24
+- Decision date: 2018-01-18
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7325, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Mammone v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2018-01-18
+Neutral citation
+2018 TCC 24
+File numbers
+2016-2834(IT)G
+Judges and Taxing Officers
+David E. Graham
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2016-2834(IT)G
+BETWEEN:
+FRANK MAMMONE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on December 14, 2017, at Toronto, Ontario
+Before: The Honourable Justice David E. Graham
+Appearances:
+Counsel for the Appellant:
+Eric Fournie
+Oleg Roslak
+Counsel for the Respondent:
+April Tate
+JUDGMENT
+The appeal of the reassessment of the Appellant’s 2009 tax year is dismissed with costs to the Respondent.
+Signed at Vancouver, British Columbia, this 18th day of January 2018.
+“David E. Graham”
+Graham J.
+Citation: 2018 TCC 24
+Date: 20180118
+Docket: 2016-2834(IT)G
+BETWEEN:
+FRANK MAMMONE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Graham J.
+[1] This appeal involves a unique question regarding retroactivity. The facts are straightforward and are not in dispute. The dates are important.
+[2] Prior to his retirement, Frank Mammone worked as a mechanic for Toronto Fire Services. Over his many years of employment he was a member of the Ontario Municipal Employees Retirement System (“OMERS”) pension plan.
+[3] On January 1, 2009, a company called 1723586 Ontario Inc. established the Pension Plan for Senior Executives of 1723586 Ontario Inc. (the “New Plan”). The Appellant was the only member of the New Plan. The New Plan was registered as a pension plan pursuant to the Income Tax Act effective January 1, 2009.
+[4] In June 2009, Mr. Mammone transferred the commuted value of his OMERS pension to the New Plan.
+[5] In 2013, the Minister of National Revenue decided that the New Plan did not qualify for registration under the Act. The Minister gave notice of her intention to revoke the New Plan’s registration. That notice was mailed on November 14, 2013.
+[6] On December 12, 2013, the Minister issued a notice of revocation which purported to revoke the registration of the New Plan effective January 1, 2009. The Minister now acknowledges that the attempted revocation was ineffective. The attempted revocation was ineffective because an unforeseen delay in mailing the notice of intention to revoke caused the Minister to erroneously issue the notice of revocation before the required 30-day notice period under subsection 147.1(12) had passed.
+[7] On the same day that the Minister purported to revoke the New Plan’s registration, the Minister also reassessed Mr. Mammone’s 2009 tax year to include the commuted value of the OMERS pension in his income pursuant to paragraph 56(1)(a). The reassessment was based on the belief that the New Plan’s registration had been retroactively revoked. The reassessment was issued on the last day of the normal reassessment period of Mr. Mammone’s 2009 tax year.
+[8] Approximately three and a half years later, in June 2017, the Minister issued a proper notice of revocation, which revoked the registration of the New Plan effective January 1, 2009.
+[9] Mr. Mammone accepts that the New Plan did not qualify for registration. He accepts that subsection 147.1(12) gives the Minister the power to retroactively revoke a plan’s registration. He accepts that the Minister had the authority to issue the June 2017 notice of revocation. He accepts that that notice of revocation had the effect of revoking the New Plan’s registration effective January 1, 2009. He accepts that a transfer of a taxpayer’s pension from a registered plan to an unregistered plan results in the commuted value of the pension being included in the taxpayer’s income pursuant to paragraph 56(1)(a).
+[10] What Mr. Mammone disputes is whether the factual basis for assessment existed at the time the Minister reassessed him. Mr. Mammone argues that, because the first attempt at revocation failed, the New Plan was still a registered plan when the Minister reassessed him. He says that, while the June 2017 notice of revocation was effective, that does not alter the fact that the registration had not been revoked when the reassessment was issued. I disagree.
+[11] Mr. Mammone further submits that the Minister’s reliance on the June 2017 notice of revocation is a new basis for reassessment that is prohibited by subsection 152(9). Again, I disagree.
+[12] Mr. Mammone’s submissions are largely interrelated but I will nonetheless discuss them separately.
+The factual basis for the reassessment existed when Mr. Mammone was reassessed [13] As set out above, the parties agree that the Minister has the power to revoke the registration of a pension plan retroactively (Boudreau v. Minister of National Revenue[1]). Where the parties disagree is with regard to whether the notice of revocation had to have been sent before the Minister reassessed Mr. Mammone. Mr. Mammone says that, because the notice of revocation had not been sent when the reassessment was made, the registration had not yet been revoked and thus the facts necessary to support the reassessment did not exist.
+[14] In my view, Mr. Mammone’s argument fails because of the retroactive effect of the revocation. The facts necessary to support the reassessment did exist when the reassessment was issued because subsection 147.1(12) caused them to exist retroactively.
+[15] While the following analysis may make one feel like he or she is trying to follow the plot of the popular 1980’s movie Back to the Future, I believe the analysis is sound and the analogy to the movie is apt. When the Minister reassessed Mr. Mammone in 2013, the New Plan’s registration had not yet been revoked. However, when that registration was ultimately revoked in 2017, the revocation was effective as of January 1, 2009. The retroactive nature of the revocation altered history, causing an altered timeline to replace the original timeline. Under this altered timeline, when the Minister reassessed Mr. Mammone in 2013, the facts necessary to support the reassessment were already in place and had been in place for almost four years. It is in this altered timeline that I am required to determine whether the reassessment should stand. Had the appeal come to trial before the Minister issued the June 2017 notice of revocation, I would have been dealing with the original timeline and would have come to a different conclusion. In the original timeline, the revocation would not have occurred, the registration would still have been in place and the reassessment could therefore not have stood.
+[16] The Respondent submits that comparisons can be drawn to the effect of retroactive legislation. I agree. Like retroactive legislation, subsection 147.1(12) alters the tax consequences of transactions after the fact by operation of law. Retroactive legislation has been applied to transactions that occurred when the legislation was not yet in place (Budget Steel Limited v. Canada[2]). It has been applied after the taxpayer has already commenced an appeal (C.I. Mutual Funds Inc. v. Canada[3]). It has been applied by an appellate court even though it was not in effect when the lower court heard the case (The Queen v. Gibson[4]). I do not see any practical difference between a law being given retroactive effect and a fact deemed by law to exist retroactively being given retroactive effect.
+[17] Mr. Mammone submits that cases regarding retroactive legislation can be distinguished because they result from an act of Parliament whereas the retroactive facts in this case result from a decision of the Minister. With respect, I do not think the distinction is material. Parliament enacted legislation which gave the Minister the power to retroactively change facts. There is no suggestion that Parliament was unaware what it was doing.
+[18] In my view, a strong comparison can also be drawn between retroactive revocation and rectification. Imagine this appeal differently. Imagine that the Minister successfully revoked the registration in 2013 when she intended to and reassessed Mr. Mammone to include the commuted value of the OMERS pension in his income. Now imagine that Mr. Mammone immediately applied to the Ontario Superior Court of Justice for a rectification order declaring that the pension had never been transferred to the New Plan in the first place. For the sake of argument, since the application would have been made prior to the Supreme Court of Canada decision in Canada (Attorney General) v. Fairmont Hotels Inc.,[5] assume that the application was granted on the basis that the tax outcome was something that Mr. Mammone had not intended. The effect of the rectification would have been retroactive such that the transfer in 2009 never occurred. Mr. Mammone would have relied on that fact to defeat the reassessment. He would have successfully claimed that he could not be reassessed in respect of a transfer that had been retroactively determined never to have occurred. Faced with this argument, the Minister could not have argued that the reassessment should stand because the rectification was not granted until after the reassessment was issued (Dale v. R.[6]). Yet this is exactly what Mr. Mammone is trying to argue in his appeal. He is arguing that you cannot take retroactive changes of fact into account unless the event causing those changes occurred before the reassessment was made.
+[19] Mr. Mammone tried to distinguish rectification cases from his situation on the basis that rectification occurs as a result of a court order whereas the revocation of the New Plan’s registration occurred as a result of an exercise of the Minister’s power. With respect, I do not see any real difference between the two situations.
+[20] Based on all of the foregoing, I find that the facts necessary to support the reassessment were in place when the reassessment was issued and that the reassessment stands.
+There was no new basis for reassessment [21] As set out above, Mr. Mammone submits that the Minister’s reliance on the 2017 notice of revocation is a new basis for reassessment that is prohibited by subsection 152(9). Mr. Mammone says that the 2017 notice of revocation is a basis of reassessment that differs from the 2013 purported notice of revocation. I disagree.
+[22] The basis for reassessment is and always has been that the commuted value of the OMERS pension was transferred to a non-registered pension plan. For the reasons described above, due to the retroactive nature of the revocation, the facts underlying that basis of reassessment were always present.
+[23] Mr. Mammone relies on the Federal Court of Appeal decisions in Walsh v. The Queen[7] and Gramiak v. The Queen.[8] In Gramiak, the Court held that:[9]
+A further restriction is that an alternative argument cannot be advanced when it would result in a reassessment being made outside the normal reassessment period set out in subsection 152(4) (Walsh v. Canada, 2007 FCA 222 at para. 18). This restriction which is central to the present appeal acknowledges the fact that allowing the Minister to raise an argument based on a legal and factual basis that is different from the one underlying the assessment after the normal reassessment period has expired would in effect do away with the limitation period.
+[Emphasis added.]
+[24] As set out above, the difficulty with Mr. Mammone’s position is that the factual basis for the reassessment has not changed. As a result, the restrictions in subsection 152(9) are not invoked.
+[25] I understand Mr. Mammone’s concern that the Minister has been able to cure a problem with the reassessment three and a half years after Mr. Mammone’s 2009 tax year became statute-barred. Mr. Mammone argues that Parliament cannot have intended revocations to be retroactive for all purposes of the Act. In particular, he argues that Parliament cannot have intended retroactive revocations to be used to extend the normal reassessment period. I agree, but not in a way that assists Mr. Mammone.
+[26] My analysis would be somewhat different if the reassessment in question had been made after the normal reassessment period. I would still conclude that the New Plan’s registration had always been revoked. That is the clear effect of subsection 147.1(12). However, in my view, it would be inappropriate for me to attribute knowledge of that revocation to Mr. Mammone when determining whether he had made a misrepresentation attributable to carelessness, neglect or wilful default in filing his 2009 tax return. I accept that Parliament intended that the fact of the revocation be retroactive, but I would need to see something very clear in the Act before I would accept that Parliament also intended a taxpayer to retroactively have knowledge of that retroactive fact. In my view, had the reassessment been made after the normal reassessment period, in attempting to open up the statute-barred year the Minister could have relied on the knowledge of the attributes of the New Plan that Mr. Mammone had when he filed his return, but could not have relied on his retroactive knowledge of the revocation.
+[27] That said, the reassessment of Mr. Mammone’s 2009 tax year occurred within the normal reassessment period. I find that subsection 147.1(12) gives the Minister the power to retroactively change the facts to support that reassessment even if the notice of revocation doing so is issued after the end of the normal reassessment period. Subsection 152(9) does not come into play because there has been no change to the factual basis of the reassessment.
+Conclusion [28] Based on all of the foregoing, the appeal is dismissed.
+Costs [29] Costs are awarded to the Respondent but it is my hope that, due to circumstances which need not be described here, she will choose not to pursue them.
+Signed at Vancouver, British Columbia, this 18th day of January 2018.
+“David E. Graham”
+Graham J.
+CITATION:
+2018 TCC 24
+COURT FILE NO.:
+2016-2834(IT)G
+STYLE OF CAUSE:
+FRANK MAMMONE v. HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+December 14, 2017
+REASONS FOR JUDGMENT BY:
+The Honourable Justice David E. Graham
+DATE OF JUDGMENT:
+January 18, 2018
+APPEARANCES:
+Counsel for the Appellant:
+Eric Fournie
+Oleg Roslak
+Counsel for the Respondent:
+April Tate
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Eric Fournie
+Oleg Roslak
+Firm:
+Fournie Mickleborough LLP
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] 2007 FCA 32.
+[2] 1996 CarswellNat 2383 (FCA).
+[3] [1999] 2 F.C. 613, 1999 CarswellNat 160 (FCA). See also Procter & Gamble Inc. v. Ontario (Minister of Finance), 2010 ONCA 149.
+[4] 2005 FCA 180 (leave to appeal denied, 2005 CarswellNat 3624).
+[5] 2016 SCC 56.
+[6] 1997 CarswellNat 391 (FCA).
+[7] 2007 FCA 222.
+[8] 2015 FCA 40.
+[9] Gramiak at para. 33.

@@ -1,0 +1,140 @@
+---
+title: "Zarich c. Le Roi"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/521219/index.do"
+last_modified: "2023-11-08"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2023 CCI 157"
+citation2: ""
+neutral_citation: "2023 CCI 157"
+decision_date: "2023-11-08"
+language: "fr"
+item_id: "521219"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5669
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2024-07-13T11:05:25.959000+00:00"
+cases_cited_count: 7
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "b4565779a0e59d651787ec291f394eab4cabdeb8ae17368f0938d93f52cf2b82"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Zarich c. Le Roi
+
+- Citation: 2023 CCI 157
+- Decision date: 2023-11-08
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5669, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Zarich c. Le Roi
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2023-11-08
+Référence neutre
+2023 CCI 157
+Numéro de dossier
+2021-8(IT)I
+Juges et Officiers taxateurs
+John R. Owen
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2021-8(IT)I
+ENTRE :
+MICHAEL ZARICH,
+appelant,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Requête présentée par écrit le 26 septembre 2023
+Devant : l’honorable juge John R. Owen
+Comparutions :
+Représentant de l’appelant :
+Allen Crosgrey
+Avocat de l’intimé :
+Me Sam Perlmutter
+ORDONNANCE
+ATTENDU QUE les parties ont présenté une requête conjointe par écrit visant à obtenir une ordonnance d’annulation du jugement de la Cour daté du 20 mars 2023, par lequel l’appel a été accueilli sans dépens et l’affaire a été déférée au ministre du Revenu national pour nouvel examen et nouvelles cotisations, conformément au consentement à jugement déposé le 20 mars 2023;
+ET VU la requête conjointe écrite déposée par les parties le 26 septembre 2023;
+CONFORMÉMENT aux motifs de l’ordonnance ci-joints, la requête est rejetée sans dépens.
+Signé à Ottawa, Canada, ce 8e jour de novembre 2023.
+« J.R. Owen »
+Le juge Owen
+Référence : 2023 CCI 157
+Date : 20231108
+Dossier : 2021-8(IT)I
+ENTRE :
+MICHAEL ZARICH,
+appelant,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE
+Le juge Owen
+[1] Les parties présentent une requête conjointe en vertu de l’article 172 des Règles de la Cour canadienne de l’impôt (procédure générale) (les « Règles ») et demandent à la Cour ce qui suit :
+1) annuler le jugement rendu par la Cour en date du 20 mars 2023, par lequel l’appel a été accueilli sans dépens et l’affaire a été déférée au ministre du Revenu national (le « ministre ») pour nouvel examen et nouvelles cotisations, conformément au consentement à jugement déposé par les parties le 20 mars 2023;
+2) rendre un jugement qui accueille l’appel, sans dépens, et renvoie l’affaire au ministre pour nouvel examen et nouvelles cotisations, conformément au consentement à jugement modifié déposé le 26 septembre 2023.
+[2] Les documents du dossier de la requête ne font mention d’aucune jurisprudence à l’appui de cette dernière. Même en supposant que j’applique l’article 172 des Règles à un appel interjeté conformément à la procédure informelle[1], la jurisprudence relative à cet article n’appuie pas la présente requête. Dans l’affaire Highway Customs Warehouse Ltd. c. R., 2007 CCI 715, au paragraphe 12 de ses motifs, le juge Bowie résume le droit applicable :
+En résumé, donc, la jurisprudence de la Cour canadienne de l’impôt, de la Cour de l’Échiquier, de la Cour fédérale et de la Cour d’appel fédérale ainsi que des tribunaux anglais établit que le recours à la règle relative au lapsus se limite aux affaires où le tribunal, et non l’une ou les deux parties, a commis une erreur ou une omission involontaire, ou a rendu un jugement qui est manifestement incompatible avec les motifs donnés. Ce n’est pas le cas en l’espèce. La Cour est dessaisie des appels en cause. L’intimée a consenti à la modification demandée et elle a produit un mémoire au soutien de la requête. Il est toutefois bien établi que ce consentement ne saurait être attributif de compétence : voir l’arrêt Canadian Pacific Railway Company v. Fleming.
+[Non souligné dans l’original, caractère gras ajouté.]
+[3] L’appelant était représenté par un avocat. Les parties ont déposé conjointement un consentement à jugement le 20 mars 2023 (le « consentement »). La Cour a accepté le consentement et a rendu un jugement (et non pas une ordonnance, comme le suggère la requête) donnant effet aux modalités du consentement (le « jugement »). À ce stade, la Cour était dessaisie de l’affaire, sauf pour l’application éventuelle de l’article 172 des Règles.
+[4] Le consentement était dénué d’ambiguïté et ne contenait aucune indication quant au fait qu’il pourrait être incompatible avec le principe énoncé au paragraphe 8 de l’arrêt Galway c. MNR, [1974] 1 CF 600, confirmé dans l’arrêt CIBC World Markets Inc. c. R., 2012 CAF 3. Par conséquent, la Cour n’a aucune raison de remettre en cause l’accord des parties décrit dans le consentement.
+[5] Le jugement correspondait exactement à ce que la Cour avait prévu, c’est-à-dire un jugement visant à donner effet aux modalités du consentement. Si le consentement comportait une erreur, il s’agit d’une erreur commise par les parties et non par la Cour. Par conséquent, l’article 172 des Règles ne s’applique pas. Comme l’a déclaré le juge en chef adjoint Bowman (plus tard juge en chef) dans l’affaire CIT Financial Ltd. v. R., 2003 CCI 882, au paragraphe 4 :
+[traduction]
+Je ne crois pas que la correction que l’avocat de l’appelant me demande d’apporter à mes motifs relève de l’article 168 ou du paragraphe 172(1) des Règles. Le jugement est motivé et je n’ai négligé ou omis aucun élément sur lequel j’aurais dû statuer. Le jugement ne comporte pas d’erreur, de lacune ou d’omission au sens de l’article 171 [sic] des Règles. J’ai rendu le jugement que j’avais l’intention de rendre. Je suis, à mon avis, dessaisi de l’affaire.
+[6] En ce qui concerne tout autre fondement permettant de justifier la modification du jugement, la Cour d’appel fédérale a déclaré, aux paragraphes 2 et 3 de la décision Lehner c. MRN, 1997 CanLII 4994 (CAF) :
+2 Il a été admis que les appels que le requérant veut modifier ont déjà fait l’objet de deux jugements rendus par consentement par la Cour canadienne de l’impôt. Il s’ensuit que ces appels ne peuvent pas être modifiés, étant donné qu’un appel sur lequel il a été statué n’existe plus.
+3 En effet, le requérant, en présentant ces requêtes devant la Cour de l’impôt, n’avait pas l’intention de rouvrir les deux appels. Il avait l’intention de contester l’exactitude des nouvelles cotisations établies par le ministre à la suite des deux jugements rendus par consentement. Cependant, la seule bonne façon de faire cela était de s’opposer et de former un appel contre ces nouvelles cotisations[2].
+[7] Pour les motifs qui précèdent, la requête est rejetée sans dépens.
+Signé à Ottawa, Canada, ce 8e jour de novembre 2023.
+« J.R. Owen »
+Le juge Owen
+RÉFÉRENCE :
+2023 CCI 157
+No DU DOSSIER DE LA COUR :
+2021-8(IT)I
+INTITULÉ :
+MICHAEL ZARICH ET SA MAJESTÉ LE ROI
+MOTIFS DE L’ORDONNANCE :
+L’honorable juge John R. Owen
+DATE DE L’ORDONNANCE :
+Le 8 novembre 2023
+COMPARUTIONS :
+Représentant de l’appelant :
+Allen Crosgrey
+Avocat de l’intimé :
+Me Sam Perlmutter
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+(vide)
+Cabinet :
+(vide)
+Pour l’intimé :
+Shalene Curtis-Micallef
+Sous-procureure générale du Canada
+Ottawa, Canada
+[1] Le paragraphe 21(4) des Règles de la Cour canadienne de l’impôt (procédure informelle) prévoit cette possibilité.
+[2] Cité dans Scarola c. MNR, 2003 CAF 157, par. 21 et Tedesco c. Canada, 2019 CAF 235, par. 27. Voir également Mailloux c. la Reine, 2012 CAF 331, par. 8 et Struck v. The Queen, 2017 CAF 69.

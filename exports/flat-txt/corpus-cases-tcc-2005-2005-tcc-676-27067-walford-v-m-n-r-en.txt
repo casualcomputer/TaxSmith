@@ -1,0 +1,129 @@
+Title: Walford v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27067/index.do
+Corpus path: corpus/cases/tcc/2005/2005-tcc-676-27067-walford-v-m-n-r-en.md
+Document type: case_law
+Last modified: 2005-10-21
+
+# Walford v. M.N.R.
+
+- Citation: 2005 TCC 676
+- Decision date: 2005-10-21
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 610, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Walford v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-10-21
+Neutral citation
+2005 TCC 676
+File numbers
+2002-4687(EI)
+Judges and Taxing Officers
+Campbell J. Miller
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2002-4687(EI)
+BETWEEN:
+KENNETH D. WALFORD,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard on October 17, 2005, at Ottawa, Ontario
+By: The Honourable Justice Campbell J. Miller
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Nicolas Simard
+____________________________________________________________________
+JUDGMENT
+The appeal pursuant to subsection 103(1) of the Employment Insurance Act is dismissed and the decision of the Minister of National Revenue, on the appeal made to him under section 91 of that Act, is confirmed.
+Signed at Ottawa, Canada, this 21st day of October, 2005.
+"CampbellJ. Miller"
+Miller J.
+Citation: 2005TCC676
+Date: 20051021
+Docket: 2002-4687(EI)
+BETWEEN:
+KENNETH D. WALFORD,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGMENT
+Miller J.
+[1] Dr. Kenneth Walford appeals the determination of the Minister of National Revenue (the Minister) of September 6, 2002 that 521.30 insurable hours were accumulated by Dr. Walford while employed by Stone & Webster Canada L.P. (Stone & Webster), during the period January 8, 2001 to April 6, 2001. Dr. Walford contends that this determination takes no account of 102 overtime hours worked by him. He argues that such additional hours are insurable hours in accordance with Employment Insurance legislation. With respect, I disagree with Dr. Walford's position.
+[2] Dr. Walford is a professional engineer. He signed an employment agreement with Stone & Webster effective January 8, 2001. The salary was calculated on the basis of $80,000 per annum, but, as Dr. Walford explained, his remuneration was based on hours. He had to work at least a 40-hour week to receive full pay. Two provisions of the Employment Agreement are worth noting:[1]
+4. Payment for overtime will be in accordance with the Company procedures.
+12. The Employee shall be subject to all rules, regulations, conditions and procedures now or hereafter adopted by the Company.
+[3] Dr. Walford indicated he was provided an introductory package from Stone & Webster. He also underwent a brief indoctrination. He could not recall receiving a copy of the overtime policy, though acknowledged that such a policy did exist. He maintained he was simply not made aware of the policy until after leaving Stone & Webster.
+[4] Stone & Webster's written overtime policy was produced at trial. The policy required that all overtime must be pre-approved by a department head or project manager, or such hours would not be remunerated.
+[5] Dr. Walford identified several projects on which he worked overtime during the period January 8 to April 3, 2001. He indicated that he was requested by Stone & Webster to work on such projects, though he never specifically stated he was asked to work overtime on such projects. He tallied a total of 102 overtime hours. He attempted to submit his overtime hours through Stone & Webster's computerized recording system. All overtime hours were rejected by the system. The timesheets submitted in evidence showed only the 40-hour work weeks. Dr. Walford signed such timesheets. He suggested that these were regular-hour timesheets only. He stated that he complained about the overtime, yet he produced no record of such complaints and no originating records of 102 overtime hours which he claimed he worked. There was one timesheet which indicated a claim for 10.5 hours in a day, which was reduced by the computer to the regular 8-hour day.
+[6] It was clear Dr. Walford had several issues with his employer. As well as believing he was unpaid for overtime work, he felt generally mistreated by Stone & Webster. His last day of work was April 3, 2001, though he was paid to April 6, 2001. The time from January 8 to April 6, 2001, based on a 40-hour work week, equals the 520 hours found to be insurable hours. Stone & Webster did not pay Dr. Walford for any overtime hours.
+[7] Dr. Walford sued Stone & Webster in Ontario Small Claims Court. On September 17, 2003, Deputy Judge E.M. Osborne rendered a decision dismissing Dr. Walford's claim for damages. Unlike the trial before me, where Dr. Walford was the only witness, two representatives from Stone & Webster gave evidence at the Small Claims hearing. In the Reasons for Judgment, Deputy Judge Osborne stated:[2]
+Non-payment of Overtime
+Paragraph 4 of the Agreement provides for payment of overtime in accordance with company procedures. Mr. Luck gave evidence that Dr. Walford was made aware of the policies relating to overtime in his initial interview with the employee. Moreover, the information on company policy is/was available on the company website during the period in question. Furthermore Mr. Luck gave evidence that the policies and procedures in relation to overtime would have been discussed as part of the employee orientation and training program in which Dr. Walford participated.
+Overtime is dealt with in the administrative policies under the heading of Hours of Work and Overtime. In short, the company policy allowed for employees to be compensated for overtime but only after the overtime had been pre-approved by either a department head or project manager.
+Mr. Farkas and Mr. Luck gave evidence that the Defendant company had a time tracking system in effect that only allowed employees to charge regular time into the system. If overtime was pre-approved then an additional block of hours would be opened up in the system to allow the employee to input his/her overtime hours into the time tracking system.
+Mr. Luck did not authorize overtime for Dr. Walford and he was not aware of any overtime authorized for Dr. Walford by anyone else in the company. There was no evidence of overtime docketed in the time tracking system. Accordingly, Dr. Walford's claim for payment of overtime is dismissed.
+[8] Dr. Walford indicated he has appealed this decision of September 17, 2003. To date no time has been set for the appeal. Dr. Walford suggested it may not be until the Spring of 2006.
+Analysis
+[9] The issue is the determination of Dr. Walford's insurable hours with Stone & Webster for the period January 8 to April 6, 2001. Sections 9.1 and 9.2 of the Employment Insurance Regulations read:
+9.1 Where a person's earnings are paid on an hourly basis, the person is considered to have worked in insurable employment for the number of hours that the person actually worked and for which the person was remunerated.
+9.2 Subject to section 10, where a person's earnings or a portion of a person's earnings for a period of insurable employment remains unpaid for the reasons described in subsection 2(2) of the Insurable Earnings and Collection of Premiums Regulations, the person is deemed to have worked in insurable employment for the number of hours that the person actually worked in the period, whether or not the person was remunerated.
+Dr. Walford agreed that his earnings are to be treated as paid on an hourly basis, thus section 9.1 and 9.2 of the Regulations are applicable to his situation.
+[10] There are two elements in determining insurable hours - (i) the number of hours actually worked and (ii) for which the person was remunerated.
+[11] Dealing with the first element of hours actually worked, I believe Dr. Walford worked something more than the 40-hour work weeks. I have not been persuaded however that such hours were what I will call "company hours".
+[12] Stone & Webster had an explicit policy on overtime hours that if you do not get pre-approval, you do not get paid for overtime hours. Dr. Walford recognized that. Dr. Walford did not get pre-approval. This was evident each time he tried to log overtime hours and was rejected. His claim that he was not aware of this policy seems questionable given this treatment. Yet, even if I accept that he did not know the basics of such policy, does that make his "unapproved" overtime hours insurable hours? I do not believe so. Regulation 9.1 refers to the "number of hours that the person actually worked". To have any meaning this must imply "in accordance with the contract of services with the employer". I find Dr. Walford's overtime hours, whatever they may have been, were not hours he actually worked in accordance with his contract of services with Stone & Webster. These were hours he contributed voluntarily. He may have been asked to work on certain projects, but there was no evidence that such request constituted any sort of pre-approval of a set number of overtime hours. Dr. Walford could have dealt with this overtime issue at the outset - he did not. He continued to sign his regular hour timesheets. He advised that he has learned his lesson and in subsequent positions he has clarified, at the outset, the overtime requirements. Any overtime hours Dr. Walford claimed he worked are not "hours actually worked" as contemplated by Regulation 9.1.
+[13] If I imply too much into the term "hours actually worked", Dr. Walford still has to clear the hurdle of the second element to establish insurable hours - "for which remuneration was paid". This is qualified to include unpaid hours, if the hours are unpaid for the reasons described in subsection 2(2) of Part I - Insurable Earnings and Collection of Premiums Regulations. This section reads:
+2(2) For the purposes of this Part, the total amount of earnings that an insured person has from insurable employment includes the portion of any amount of such earnings that remains unpaid because of the employer's bankruptcy, receivership, impending receivership or non-payment of remuneration for which the person has filed a complaint with the federal or provincial labour authorities, except for any unpaid amount that is in respect of overtime or that would have been paid by reason of termination of the employment.
+[14] I conclude that unpaid overtime hours do not count as insurable hours. Dr. Walford can only count such hours if Stone & Webster actually pays him for those hours. To date Stone & Webster has not paid him. Stone & Webster has not even acknowledged that it owes Dr. Walford for overtime hours. The Deputy Judge in the Small Claims hearing agreed with Stone & Webster.
+[15] Clearly, Dr. Walford has not been remunerated for any overtime hours, and this too denies the inclusion of such hours as insurable hours in accordance with section 9.1 of the Regulations.
+[16] On both elements of the requirements in Regulation 9.1, Dr. Walford's claim for increasing insurable hours fails.
+[17] I do have a concern with this finding however, and that is the impact it may have on Dr. Walford's appeal of his Small Claims matter. I was persuaded by Respondent's counsel to proceed with this trial given the uncertainty of the timing of a future appeal, given the earlier denial by this Court of the Appellant's adjournment request, and given the Respondent's assessment that all relevant evidence would be available to proceed. Dr. Walford indicated he would continue this employment insurance appeal notwithstanding any unfavourable ruling from the appeal of his Small Claims matter. Dr. Walford also suggested he was missing some relevant documents. I advised that we would proceed, and if I was satisfied during Dr. Walford's testimony that any key documents were missing, I would then consider a brief adjournment to allow Dr. Walford to attempt to locate such documents. I was not convinced during his testimony of the need to adjourn.
+[18] Having now heard Dr. Walford's testimony and decided against him, I do not wish to hamper his ongoing appeal of his action against Stone & Webster. I have decided the issue of insurable hours for purposes of the Employment Insurance legislation only. I did so on the evidence presented by Dr. Walford. I heard no evidence from Stone & Webster representatives. The conclusions I have reached are consistent with conclusions of Deputy Judge Osborne, though not as detailed, as it is clear I had less evidence before me. I would not want my findings to be of any persuasive force in the Ontario Court hearing of Dr. Walford's appeal of the Small Claims matter. I considered whether, under these circumstances, it would be more appropriate to hold my judgment in abeyance, pending the final disposition of Dr. Walford's action against Stone & Webster. Given the uncertainty of timing of that appeal, I decided against such a course. However, should Stone & Webster ultimately pay Dr. Walford for some overtime hours, as a result of a favourable decision from that Ontario Court, I trust Canada Revenue Agency would be in a position to do the honourable thing vis-à-vis Employment Insurance legislation.
+[19] This matter is dismissed.
+Signed at Ottawa, Canada, this 21st day of October, 2005.
+"CampbellJ. Miller"
+Miller J.
+CITATION:
+2005TCC676
+COURT FILE NO.:
+2002-4687(EI)
+STYLE OF CAUSE:
+Kenneth D. Walford and The Minister of National Revenue
+PLACE OF HEARING:
+Ottawa, Ontario
+DATE OF HEARING:
+October 17, 2005
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Campbell J. Miller
+DATE OF JUDGMENT:
+October 21, 2005
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Nicolas Simard
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+N/A
+Firm:
+N/A
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Exhibit A-1.
+[2] Exhibit A-22.

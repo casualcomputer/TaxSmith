@@ -1,0 +1,164 @@
+---
+title: "Un1que Productions Inc. v. The King"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/521199/index.do"
+last_modified: "2024-01-16"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2024 TCC 7"
+citation2: ""
+neutral_citation: "2024 TCC 7"
+decision_date: "2024-01-16"
+language: "en"
+item_id: "521199"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5654
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2024-04-10T10:24:27.525000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "65be64086f66f4485433309d413469d4ce9bdedeb36d8fd5a6379147e6e6e99e"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Un1que Productions Inc. v. The King
+
+- Citation: 2024 TCC 7
+- Decision date: 2024-01-16
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5654, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Un1que Productions Inc. v. The King
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2024-01-16
+Neutral citation
+2024 TCC 7
+File numbers
+2022-848(GST)I
+Judges and Taxing Officers
+Robert James Hogan
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2022-848(GST)I
+BETWEEN:
+UN1QUE PRODUCTIONS INC.,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+Appeal heard on November 6, 2023, at Toronto, Ontario
+Before: The Honourable Justice Robert J. Hogan
+Appearances:
+Agent for the Appellant:
+Sean Christie
+Counsel for the Respondent:
+Christopher VanBerkum
+Craig Maw
+JUDGMENT
+In accordance with the attached Reasons for Judgment, the appeal from the assessment made under the Excise Tax Act for the reporting periods from January 1, 2015 to September 30, 2015, July 1, 2016 to September 30, 2016, July 1, 2017 to September 30, 2017 and January 1, 2019 to September 30, 2019 is dismissed.
+Signed at Ottawa, Canada, this 16th day of January 2024.
+“Robert J. Hogan”
+Hogan J.
+Citation: 2024 TCC 7
+Date: 20240116
+Docket: 2022-848(GST)I
+BETWEEN:
+UN1QUE PRODUCTIONS INC.,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+REASONS FOR JUDGMENT
+Hogan J.
+[1] This is an appeal from an assessment made by the Minister of National Revenue (the “Minister”) under Part IX of the Excise Tax Act (the “Act”)[1] disallowing input tax credits (“ITC”) in the amount of $6,690 claimed by the Appellant, Un1que Productions Inc. (“UPI”), for the reporting periods from January 1, 2015 to September 30, 2015, July 1, 2016 to September 30, 2016, July 1, 2017 to September 30, 2017 and January 1, 2019 to September 30, 2019 (the “Relevant Periods”).
+[2] The Minister disallowed the ITCs on the grounds, inter alia, that, during the Relevant Periods, (i) the Appellant was not engaged in a commercial activity; (ii) the claims related to personal expenses of Mr. Christie, the sole shareholder and officer of UPI; and, (iii) the Appellant had failed to obtain and retain documentation in support of the ITC claims as required under subsection 169(4) of the Act and the Regulations.
+[3] UPI defends the contrary position.
+[4] Mr. Christie acted as the agent of UPI for the purposes of its appeal and also appeared as its sole witness.
+[5] By way of background information, Mr. Christie explained how UPI came into existence in or around 2013. Initially, Mr. Christie’s goal was to earn a living in the music industry. His initial experience was disappointing. Mr. Christie testified that he met unsavoury individuals who tried to take advantage of his lack of experience. Mr. Christie alleges that he decided to incorporate UPI to shield himself from personal liability and to explore ways of earning income from a broader sector of activities.
+[6] Mr. Christie explained that, at all material times, his sole source of income was limited to the money and benefits that he receives under the Ontario Disability Support Program (“ODSP”). Since inception to the present date, UPI has earned no revenue. Notwithstanding Mr. Christie’s best efforts, UPI has been unable to raise capital or obtain third party financing to fund its activities. Mr. Christie seeks to fund UPI’s activities through the ITC refund claims that have been submitted but disallowed.
+[7] Mr. Christie testified that he views UPI as his alter ego because everything that he does, broadly speaking, will advantage UPI in the long term. Moreover, he was forthright on direct questioning, acknowledging that many of the expenses incurred for goods could indeed be used to satisfy his personal needs.[2] For example, when questioned on cross‑examination as to why he submitted an ITC claim in respect of the costs of clothing, food and snacks, Mr. Christie explained that one cannot become active in business without a proper wardrobe.[3]
+[8] At the outset of the hearing, I pointed out to Mr. Christie that, under paragraph 169(1)(b) of the Act, ITCs can only be claimed to the extent to which a registrant has acquired property or services for consumption, use or supply in the course of a commercial activity.
+[9] The term “commercial activity” is defined as follows in subsection 123(1) of the Act:
+. . .
+“commercial activity” of a person means
+(a) a business carried on by the person (other than a business carried on without a reasonable expectation of profit by an individual, a personal trust or a partnership, all of the members of which are individuals), except to the extent to which the business involves the making of exempt supplies by the person,
+(b) an adventure or concern of the person in the nature of trade (other than an adventure or concern engaged in without a reasonable expectation of profit by an individual, personal trust or a partnership, all of the members of which are individuals), except to the extent to which the adventure or concern involves the making of exempt supplies by the person, and
+(c) the making of a supply (other than an exempt supply) by the person of real property of the person, including anything done by the person in the course of or in connection with the making of the supply.
+[Emphasis added are my own.]
+[10] The definition of a “business” is found in subsection 123(1) of the Act and reads as follows:
+“business” includes a profession, calling, trade, manufacture or undertaking of any kind whatever, whether the activity or undertaking is engaged in for profit, and any activity engaged in on a regular or continuous basis that involves the supply of property by way of lease, license or similar arrangement, but does not include an office or employment.
+[Emphasis added are my own.]
+[11] The use of the word “includes” means that the definition of a business is not exhaustive. The determination of what constitutes the carrying on of a business in the course of a commercial activity is an inherently factual determination. That is why the Act does not have a comprehensive definition of what constitutes a business. What constitutes a concern or adventure in the nature of a trade is undefined in the Act for a similar reason. Parliament has left it up to the courts to identify the relevant factors to identify whether a business or a concern or adventure in the nature of a trade exists or not.
+[12] Parliament has adopted the same approach under the Income Tax Act (the “ITA”) for the purpose of determining whether a business is carried on as a source of income. The definition of a business uses the word “includes” which implies that the definition is not exhaustive.[4] Subsection 9(1) of the ITA provides that a taxpayer’s income from a business is the taxpayer’s profit from the business for the year. Similarly, paragraph 18(1)(a) of the ITA provides that an outlay or expense can only be deducted, to the extent that, it was made or incurred for the purpose of earning income. Since the concept of a “business” is not exhaustive, the Courts have identified a number of factors to be considered to determine whether actions or activities that have a personal element constitute the carrying on of a business for the purposes of subsection 9(1) and paragraph 18(1)(a) of the ITA. These factors are applied in most cases when activities are carried on directly by an individual. As a general rule, corporations are viewed as carrying on commercial activities. That said, owner shareholders often treat corporations as their alter ego. They have difficulty delineating personal expenses and personal activities from business expenses and business activities.
+[13] In Stewart v. Canada,[5] the Supreme Court of Canada (“SCC”) considered and set aside the concept of “a reasonable expectation of profit”[6] as a factor to consider in determining whether a business exists and expenses or losses are deductible against net sources of income. This concept was developed in Moldowan v R,[7] an earlier decision of the SCC. In Stewart, the SCC confirmed that the other factors identified in Moldowan should be considered in determining whether actions and activities that have a personal element constitute the carrying on of a business as a source of income for the purpose of the ITA.
+[14] The relevant factors for distinguishing elements of a personal nature from activities that are undertaken in the course of a business include: (1) the profit and loss experiences in past years; (2) the taxpayer’s training; (3) the taxpayer’s intended course of action; and (4) the capability of the venture to show a profit.[8] In Stewart, the SCC noted that those four factors are not exhaustive, and that the factors will differ with the nature and extent of the activities.
+[15] I will consider the factors noted above in the present case, because they are useful in determining whether the actions Mr. Christie claimed were personal activities of himself rather than commercial activities of the Appellant.
+[16] I have chosen to focus on Mr. Christie’s actions and activities as he is the sole person who, allegedly, has acted on behalf of UPI. Undoubtedly, Mr. Christie’s interest lies in the realm of music, film and audiovisual production and presentation and beyond. Persons can carry out these activities because they enjoy them. These same activities can also be undertaken in the context of a business carried on personally or through a corporation.
+[17] I recognize that a business can exist well before the time that revenue is earned. All businesses have a start‑up phase, which can be short or long, depending on the nature of the venture. Generally speaking, persons involved during the start‑up phase of a venture have a well thought‑out business plan, have identified the specific products or services that will be marketed and sold and have identified a target audience for their services and products. Similarly, they will undertake activities to finance their activities.
+[18] In disallowing the Appellant’s ITC claims on the grounds that UPI had not carried on a commercial activity during the Relevant Periods, the Minister relied, inter alia, on the following assumptions of fact: (i) the Appellant had no target industry, clients or expectation of receiving any revenue; (ii) the Appellant took no steps to market a product for sale; and, (iii) the Appellant has not reported any income or expenses on its T2 income tax returns.[9]
+[19] The evidence presented by the Appellant falls well short of demonstrating that any of the aforementioned steps have been undertaken by Mr. Christie on behalf of the Appellant before and during the Relevant Period. In my opinion, Mr. Christie’s actions and activities appear to lie within the personal realm. His actions, at best, amount to exploring how things of a personal interest to him may one day be carried on by UPI as a business.
+[20] I am also of the opinion that the expenses submitted by the Appellant in support of its ITCs are personal expenses of Mr. Christie.[10] The Minister assumed that this was the case in disallowing the Appellant’s ITC claims.[11] The Appellant has failed to demonstrate that the Minister’s assumption of fact in this regard is incorrect. A registrant cannot claim ITCs in respect of the personal expense of its sole officer and shareholder.[12]
+[21] For all of these reasons, the Appellant’s appeal is dismissed.
+Signed at Ottawa, Canada, this 16th day of January 2024.
+“Robert J. Hogan”
+Hogan J.
+CITATION:
+2024 TCC 7
+COURT FILE NO.:
+2022-848(GST)I
+STYLE OF CAUSE:
+Un1que Productions Inc. v. His Majesty the King
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+November 6, 2023
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Robert J. Hogan
+DATE OF JUDGMENT:
+January 16, 2024
+APPEARANCES:
+Agent for the Appellant:
+Sean Christie
+Counsel for the Respondent:
+Christopher VanBerkum
+Craig Maw
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Blank / En Blanc
+Firm:
+Blank / En Blanc
+For the Respondent:
+Shalene Curtis-Micallef Deputy Attorney General of Canada Ottawa, Canada
+[1] Excise Tax Act, RSC, 1985, c E-15, as amended.
+[2] Transcript of Proceedings (November 6, 2023), at 12‑28.
+[3] Transcript of Proceedings (November 6, 2023), at 57‑63.
+[4] Subsection 248(1) of the Income Tax Act, R.S.C., 1985, c. 1 (5th Supp.) as amended.
+[5] [2002] 2 S.C.R. 645, 2002 SCC 46 [Stewart].
+[6] This concept is relevant under the ETA only for individuals.
+[7] [1978] 1 S.C.R. 480 [Moldowan].
+[8] Supra note 4 at para 55.
+[9] Reply to the Notice of Appeal at 3.
+[10] Transcript of Proceedings (November 6, 2023), at 29 lines 26‑28, at 34 lines 14‑21. Both the Appellant and the Respondent produced the same six invoices submitted by the Appellant to justify its ITC claims. The receipts were from Canada Post for unidentified parcels; Washland for dry cleaning services; Walmart for laundry detergent and other items; the Scarborough Passport Center for a set of Visa photos for the U.S.; Cuccina Moda for unidentified items; Urban Planet for shoes, denim and graphic t‑shirts; and, Jewellery City which appears to be for jewellery for $395 paid in cash. All of these purchases appear to be for goods of a personal nature.
+[11] Reply to the Notice of Appeal at 3.
+[12] Under sections 169, 141 and 141.01, ITCs cannot be claimed by a corporation in respect of the personal expenses of its shareholder/owner.

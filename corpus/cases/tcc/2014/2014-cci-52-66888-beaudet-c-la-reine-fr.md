@@ -1,0 +1,392 @@
+---
+title: "Beaudet c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/66888/index.do"
+last_modified: "2014-02-14"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2014 CCI 52"
+citation2: ""
+neutral_citation: "2014 CCI 52"
+decision_date: "2014-02-14"
+language: "fr"
+item_id: "66888"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5960
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T16:08:03.104000+00:00"
+cases_cited_count: 3
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "25754ea66a8cd661f81bc020364c9d258c41eb06c1dfabd19a6b6282e2a402c8"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Beaudet c. La Reine
+
+- Citation: 2014 CCI 52
+- Decision date: 2014-02-14
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5960, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Beaudet c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2014-02-14
+Référence neutre
+2014 CCI 52
+Numéro de dossier
+2011-3600(GST)G
+Juges et Officiers taxateurs
+Lucie Lamarre
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2011-3600(GST)G
+ENTRE :
+Beaudet Claude et Saucier Alain,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu les 24 et 25 octobre 2013, à Montréal (Québec).
+Devant : L'honorable juge Lucie Lamarre
+Comparutions :
+Avocat de l'appelante :
+Me Louis-Frédérick Côté
+Avocate de l'intimée :
+Me Nadja Chatelois
+____________________________________________________________________
+JUGEMENT
+L’appel est accueilli et la cotisation est renvoyée au ministre pour nouvelle cotisation en tenant pour acquis que la juste valeur marchande de chaque immeuble relativement à laquelle l’appelante devait établir une autocotisation aux fins du paragraphe 191(3) de la Loi sur la taxe d’accise s’établit comme suit :
+6300, rue de l’Aster 1er juin 2006 4 772 612 $
+6400, rue de l’Aster 1er juin 2007 4 907 324 $
+6305, rue de l’Aster 1er juin 2008 5 309 008 $
+6405, rue de l’Aster 1er juin 2009 5 377 459 $
+L’appelante a droit à ses dépens selon le tarif B des Règles de la Cour canadienne de l’impôt (procédure générale) (Règles), de même qu’à un montant de 300 $ par jour pour les services rendus par son témoin expert en préparant son rapport et en témoignant devant la cour, aux termes du paragraphe 5(2) du tarif A des Règles.
+Signé à Ottawa, Canada, ce 14e jour de février 2014.
+« Lucie Lamarre »
+Juge Lamarre
+Référence : 2014 CCI 52
+Date : 20140214
+Dossier : 2011-3600(GST)G
+ENTRE :
+Beaudet Claude et Saucier Alain,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+La juge Lamarre
+[1] L’appelante est une société en participation formée de deux associés, monsieur Claude Beaudet, évaluateur agréé, et monsieur Alain Saucier, actuaire. Cette société exploite une entreprise qui consiste à construire des immeubles d’habitation à logements multiples résidentiels à des fins locatives. Au cours de la période s’échelonnant du 1er avril 2006 au 30 juin 2009, elle a construit quatre immeubles, tous situés sur un seul terrain acquis par elle en 2003 et régis par une convention de copropriété signée en 2008, portant les numéros municipaux 6300, 6400, 6305 et 6405, rue de l’Aster, Québec. Ce projet connu sous le nom « Les Jardins de l’Aster » a été construit en quatre phases, soit un immeuble par année. Puisque ces immeubles ont été construits par l’appelante, qui en est devenue propriétaire dans le cadre de ses activités commerciales (soit la location d’unités de logement), elle est réputée avoir payé à titre d’acquéreur et perçu à titre de fournisseur la taxe relative à la fourniture de ces immeubles, calculée sur la juste valeur marchande (JVM) de chaque immeuble le jour où les travaux ont été achevés en grande partie ou, s’il est postérieur, le jour où elle a transféré la possession de l’immeuble d’habitation ou d’une habitation de celui-ci à un locataire. Il s’agit d’une autocotisation par le constructeur pour la fourniture à soi-même d’un immeuble d’habitation à logements multiples, aux termes du paragraphe 191(3) de la Loi sur la taxe d’accise (LTA). Cette disposition législative se lit comme suit :
+191(3) Fourniture à soi-même d’un immeuble d’habitation à logements multiples — Pour l’application de la présente partie, lorsque les conditions suivantes sont réunies :
+a) la construction ou les rénovations majeures d’un immeuble d’habitation à logements multiples sont achevées en grande partie,
+b) le constructeur, selon le cas :
+(i) transfère à une personne, qui n’est pas l’acheteur en vertu du contrat de vente visant l’immeuble, la possession ou l’utilisation d’une habitation de celui-ci aux termes d’un bail, d’une licence ou d’un accord semblable conclu en vue de l’occupation de l’habitation à titre résidentiel,
+(i.1) transfère à une personne la possession ou l’utilisation d’une habitation de l’immeuble aux termes d’une convention prévoyant :
+(A) d’une part, la fourniture par vente de tout ou partie du bâtiment faisant partie de l’immeuble,
+(B) d’autre part, la fourniture par bail du fonds faisant partie de l’immeuble ou la fourniture d’un tel bail par cession,
+(ii) étant un particulier, occupe lui-même à titre résidentiel une habitation de l’immeuble,
+c) le constructeur, la personne ou tout particulier qui a conclu avec celle-ci un bail, une licence ou un accord semblable visant une habitation de l’immeuble est le premier à occuper une telle habitation à titre résidentiel après que les travaux sont achevés en grande partie,
+le constructeur est réputé :
+d) avoir effectué et reçu, par vente, la fourniture taxable de l’immeuble le jour où les travaux sont achevés en grande partie ou, s’il est postérieur, le jour où la possession ou l’utilisation de l’habitation est transférée à la personne ou l’habitation est occupée par lui;
+e) avoir payé à titre d’acquéreur et perçu à titre de fournisseur, au dernier en date de ces jours, la taxe relative à la fourniture, calculée sur la juste valeur marchande de l’immeuble ce jour-là.
+I Question en litige
+[2] La question en litige porte sur la valeur marchande de chacun de ces immeubles aux dates respectives où les premières unités d’habitation ont été occupées par les premiers locataires, à savoir :
+6300, rue de l’Aster 1er juin 2006
+6400, rue de l’Aster 1er juin 2007
+6305, rue de l’Aster 1er juin 2008
+6405, rue de l’Aster 1er juin 2009
+(Voir rapports d’expert, pièce A-2, page 3 et pièce I-1, page 3.)
+[3] L’appelante est d’opinion que cette valeur marchande, dans un contexte d’autocotisation, correspond aux coûts de construction (pièce A-2, page 52).
+[4] L’intimée a plutôt retenu la valeur établie selon la méthode de comparaison (ventes comparables) et la méthode du revenu (valeur à partir des revenus que l’immeuble peut générer) (pièce I-1, page 69).
+[5] Ainsi, les valeurs respectives pour chacun des immeubles retenues par chacun des experts sont les suivantes (pièce A-2, page 53, et pièce I-1, page 71) :
+Valeur établie
+Appelante
+Intimée
+6300 de l’Aster
+1er juin 2006
+4 450 000 $
+5 054 000 $
+6400 de l’Aster
+1er juin 2007
+4 550 000 $
+5 524 000 $
+6305 de l’Aster
+1er juin 2008
+4 900 000 $
+5 859 000 $
+6405 de l’Aster
+1er juin 2009
+5 150 000 $
+6 335 000 $
+II Faits ressortis en preuve
+[6] Les deux associés se qualifient d’investisseurs immobiliers. Depuis 1984, ils achètent des terrains sur lesquels ils font construire des immeubles à logements à des fins locatives. En 1989, ils ont créé leur compagnie, Beaudet Saucier Inc., qui agit comme entrepreneur en construction. À ce jour, ils ont construit 25 immeubles pour un total de 1400 logements. Depuis l’instauration de la taxe sur les produits et services (TPS) en 1991, ils se sont toujours « autocotisés » sur la base des coûts de construction. Ceci n’a jamais été remis en question par les autorités gouvernementales jusqu’en juillet 2010, alors que l’Agence du revenu du Québec (ARQ) a adopté une position différente pour la période en litige. Selon le vérificateur, Alain Tremblay, le service d’évaluation de l’ARQ n’avait jamais procédé auparavant à une évaluation spécifique. Ce n’est qu’en 2010 que ceci a été fait.
+[7] Selon monsieur Beaudet, lui-même évaluateur agréé, la valeur de la contrepartie aux fins de l’autocotisation est le montant qu’un investisseur est prêt à payer pour acquérir l’immeuble en vue d’exploiter une entreprise de location des logements de cet immeuble. Il considère que cette valeur correspond aux coûts de construction. Sont, par ailleurs, inclus dans les coûts de construction le profit du constructeur sur la main-d’œuvre et les frais de mobilisation de chantier (les frais fixes, tels les roulottes, installations électriques temporaires, équipements).
+[8] Selon lui, le succès ou le fiasco financier qui peut en résulter par la suite n’est pas une composante dont on doit tenir compte. Il explique que, pour l’ARQ, la valeur aux fins de l’autocotisation est la juste valeur marchande de l’immeuble déjà en exploitation sur un marché secondaire (avec un historique de revenus de location et de frais d’exploitation de même qu’avec un financement en place). Monsieur Beaudet est plutôt d’avis qu’il faut évaluer l’immeuble dans un marché primaire (soit le prix de revient de l’immeuble, qui comprend le prix du terrain et le coût de construction, au jour un). Tant qu’il n’y a pas d’historique, il soutient qu’on ne peut établir avec exactitude la rentabilité éventuelle, et c’est pourquoi, selon lui, on ne peut évaluer l’immeuble dans un marché secondaire aux fins de l’autocotisation.
+[9] Par ailleurs, monsieur Beaudet a expliqué que l’appelante a cru bon d’ajuster les coûts réels à la baisse pour tenir compte des problèmes inhabituels reliés à des tests de sol dont les résultats étaient défavorables quant à la capacité portante du sol, engendrant des coûts additionnels exceptionnels pour l’excavation et l’utilisation plus importante de béton et d’acier.
+[10] De même, il y a eu dépassement anormal des coûts puisque le premier immeuble a dû être construit sur une période comprimée de cinq mois par suite du défaut de l’entreprise qui devait confectionner les bâtiments en usine. Il y a eu aussi des problèmes imprévus avec l’insonorisation inadéquate entre les unités de logement de même qu’avec l’infiltration d’eau par le toit. Tout ceci a engendré des coûts supplémentaires non escomptés qui, selon lui, ne devraient pas être pris en compte dans l’établissement de la valeur des immeubles aux fins de l’autocotisation. Monsieur Beaudet a également fait allusion au fait qu’il y avait un certain pourcentage de l’espace de stationnement qui ne pouvait être loué à cause de son utilisation aux fins de l’entretien des immeubles. Finalement, la piscine pour les quatre immeubles a été construite seulement en 2008 et n’a été ouverte qu’en 2009.
+III Témoignages des experts
+A. Témoignage de l’expert de l’appelante
+[11] Monsieur Jérôme Lampron, évaluateur agréé, a témoigné à titre d’expert indépendant pour l’appelante. Il a en quelque sorte repris les propos de monsieur Beaudet selon lesquels, dans un contexte d’autocotisation, il faut évaluer l’immeuble qui est encore vide et qui n’est pas encore exploité (ce qu’il qualifie, comme monsieur Beaudet, de marché primaire par opposition au marché secondaire, qui est celui des immeubles locatifs déjà sur le marché). Dans ce contexte, bien qu’il ait analysé trois méthodes d’évaluation, il a retenu la méthode du coût comme étant la plus appropriée.
+(1) Méthode du coût
+[12] Monsieur Lampron a expliqué que la façon la plus fiable d’évaluer un immeuble tout juste construit et non encore mis sur le marché de la location, c’est d’établir sa valeur à partir des coûts de construction. Il établit le coût à partir des coûts réels de production, soit le prix de revient du terrain, des composantes physiques du bâtiment, de la main-d’œuvre et du profit du constructeur (qui correspond au montant total demandé par l’entrepreneur en construction à l’appelante pour la livraison de l’immeuble avant que celle-ci n’en commence l’exploitation).
+[13] Il a établi ces coûts selon les factures, contrats et registres comptables, lesquels ont été vérifiés deux fois plutôt qu’une lors de la préparation de son rapport. Par ailleurs, il a ajouté aux coûts de construction le coût du chargé de projet engagé par l’appelante pour mener à terme la finition des immeubles, car ce coût n’avait pas été comptabilisé initialement dans le coût du projet du constructeur.
+[14] La valeur marchande du terrain a été établie selon le coût réel (prix d’acquisition de 245 000 $, auquel s’ajoutent les différents coûts rattachés au développement du site pour l’ensemble du projet depuis son acquisition : pièce A-2, pages 20-21) et vérifiée par la méthode de comparaison en utilisant des transactions sur des terrains vacants, et en comparant ainsi le taux unitaire au pied carré. Puisque les quatre immeubles ont été construits en quatre phases sur quatre ans sur un seul terrain, chaque immeuble détenant une quote-part de 25 pour 100 en vertu d’une déclaration de copropriété, monsieur Lampron a attribué 25 pour 100 du coût du terrain établi à chacun des immeubles. Ainsi, monsieur Lampron a comptabilisé la valeur réelle du coût du terrain à 1 391 862 $, qu’il a divisé en quatre pour chaque phase, donnant ainsi au terrain une valeur de 350 000 $ par immeuble (pièce A‑2, pages 21 à 24). Il a conclu que ce montant donne une valeur de 5,26 $ au pied carré, ce qui reflète tout à fait, selon lui, le prix de vente au pied carré de terrains comparables. Il a également déterminé que, si on considère le prix établi par logement auquel il arrive de 5 374 $, cela se situe dans la marge du taux du marché par unité pour un projet comparable (entre 5 000 $ et 6 000 $ l’unité) (pièce A-2, page 23).
+[15] En ce qui concerne les bâtiments, tel que mentionné plus haut, l’expert a retenu les coûts réels engagés pour la réalisation du projet puisqu’il s’agissait de bâtiments neufs. Il a, par ailleurs, abondé dans le sens de monsieur Beaudet pour ce qui est de l’ajustement de ces coûts à la baisse afin de tenir compte de coûts de construction excédentaires qui ne devraient pas, selon lui, être pris en compte pour établir la valeur marchande du bâtiment.
+[16] Ainsi, il a constaté des coûts de main-d’œuvre anormalement élevés pour la construction des trois premiers immeubles. Il a comparé le nombre d’heures par logement qui est généralement requis dans la construction d’un immeuble locatif résidentiel (soit environ 165 heures/logement) aux heures compilées ici (soit 256 heures/logement pour la phase I, 205 heures/logement pour la phase II et 218 heures/logement pour la phase III). Comme l’avait expliqué monsieur Beaudet, ce dépassement est attribuable au fait qu’initialement le premier immeuble devait être construit en usine et qu’il dut finalement être construit par un entrepreneur en cinq mois (nécessitant ainsi une main-d’œuvre supplémentaire). Quant aux deux immeubles suivants, le surcoût était attribuable à une mauvaise gestion de l’entrepreneur responsable. Pour la phase IV, le promoteur a changé l’équipe d’employés sur le chantier et la construction a été réalisée selon le nombre d’heures standard (pièce A-2, page 27).
+[17] Le deuxième ajustement à la baisse concerne les coûts supplémentaires reliés à la capacité portante du terrain. Par comparaison avec un projet de construction semblable, mais avec une capacité portante adéquate, l’expert a estimé qu’il y avait eu des dépassements de coûts dus à un usage plus important de béton et d’acier et des coûts additionnels pour la mise en place des fondations. Il a attribué une désuétude (dépréciation) de 102 000 $ à déduire du coût de construction pour chaque phase (pièce A-2, page 28).
+[18] Le troisième ajustement a trait à la mauvaise insonorisation entre les unités de logement de même qu’à l’infiltration d’eau par la toiture, auxquelles avait fait référence monsieur Beaudet. Il a calculé une désuétude fonctionnelle à ce titre de 179 000 $ par bâtiment.
+[19] L’expert en est arrivé à un coût de remplacement déprécié qu’il a retenu pour établir la valeur finale de chaque immeuble (incluant la valeur du terrain) selon la méthode du coût, et qu’il a retenu aux fins de l’appel devant notre cour, soit les montants inscrits au paragraphe 5 de mes motifs (voir pièce A-2, page 30).
+(2) Méthode de comparaison
+[20] Monsieur Lampron n’a pas retenu la méthode de comparaison, car il n’a retracé aucune vente comparable sur le marché primaire. En prenant des ventes sur le marché secondaire, il a jugé qu’il y avait trop d’ajustements à faire, ce qui fait en sorte que le résultat devient difficilement fiable. Ces ajustements consistent à retrancher de la valeur de l’immeuble sur le marché secondaire le profit du promoteur (estimé à 5 pour 100 du prix de revient d’un projet), de même que les dépenses de promotion rattachées au démarrage du projet (publicité, frais de bureau, frais de salaires et de livraison des unités, et pertes de loyer qu’un investisseur peut normalement anticiper) (pièce A-2, pages 35 et 36).
+(3) Méthode du revenu
+[21] Quant à la méthode du revenu, il ne l’a pas non plus retenue, car celle-ci consiste à établir la valeur d’un immeuble à partir du revenu net escompté actualisé selon un taux global d’actualisation (TGA). Or, ce taux est établi en se basant sur des ventes comparables. Comme pour la méthode de comparaison, l’expert n’a pas trouvé des ventes comparables dans un marché primaire, mais a dû se rabattre sur des ventes dans un marché secondaire. Le TGA a donc été établi selon les ventes effectuées dans un marché secondaire, ce qui, a-t-il répété, n’est pas adéquat dans un contexte d’autocotisation. Il a conclu que cette approche était trop indirecte (transcription, volume 1, page 134, pièce A-2, page 52). Il a toutefois quand même fait l’exercice d’établir la valeur selon cette méthode (pièce A-2, page 50). Je reviendrai sur son approche lorsque j’analyserai celle adoptée par l’expert de l’intimée, en faisant ressortir les différences.
+B. Témoignage de l’expert de l’intimée
+[22] Monsieur Jacques Flynn, évaluateur agréé, a été mandaté par l’ARQ, au cours de l’année 2011, pour faire l’évaluation des quatre immeubles en question aux fins de l’autocotisation. Il a procédé à l’évaluation selon trois méthodes, soit la méthode du coût, la méthode de comparaison et la méthode du revenu. Ce sont les indications obtenues selon ces deux dernières méthodes qu’il dit avoir retenues au final (pièce I-1, page 69).
+(1) Méthode du coût
+[23] D’entrée de jeu, monsieur Flynn a expliqué que les dépassements de coûts qui se produisent pour différentes raisons lors de la construction d’un immeuble ont un impact sur le coût de revient pour l’entrepreneur, mais n’ont pas nécessairement une influence sur la valeur de l’immeuble pour un acheteur potentiel (transcription, volume 1, pages 165-167).
+[24] Par ailleurs, il a souligné qu’il fallait prendre garde de vérifier ce sur quoi la main-d’œuvre avait travaillé avant d’avancer qu’il y avait eu un coût supplémentaire de main-d’œuvre par unité de logement, comme le soutenait l’expert de l’appelante. Il soutient que ce coût de main-d’œuvre supplémentaire pourrait très bien se rapporter à la construction de stationnements supplémentaires ou de la piscine ou au gazonnement du terrain. Il a également mentionné que, même si la piscine a été construite en fin de projet, elle faisait partie du plan global de promotion du projet et qu’il fallait en tenir compte dès le début dans l’évaluation de la phase I (transcription, volume 1, pages 170-171).
+[25] Monsieur Flynn a d’abord analysé la méthode du coût (retenue par l’expert de l’appelante) pour établir la valeur du terrain et des bâtiments aux différentes dates mentionnées plus haut aux fins de l’autocotisation.
+[26] Quant au terrain, il a relevé le fait que l’appelante l’a payé 245 000 $ selon le contrat de vente signé le 19 août 2003 comme suite à une offre d’achat remontant à 1992 (pièce I-2). Il a calculé que ceci représentait un prix de 1,17 $ du pied carré, soit la valeur établie en 1992.
+[27] Aux fins de l’autocotisation, monsieur Flynn a fait l’exercice de réévaluer le terrain aux dates précises mentionnées plus haut, soit au 1er juin des années 2006, 2007, 2008 et 2009.
+[28] Pour ce faire, il a analysé 26 transactions intervenues entre 2003 et 2009 sur des terrains vacants qui ont servi à la construction d’immeubles à logements multiples. L’expert de l’appelant avait analysé 10 ventes de terrains similaires. Monsieur Flynn a constaté que le taux unitaire au pied carré était monté à 6,75 $ en 2007.
+[29] Toutefois, contrairement à monsieur Lampron (l’expert de l’appelante), monsieur Flynn a préféré faire une évaluation par logement (selon le nombre de logements prévus dans chacun des projets) plutôt qu’une évaluation au pied carré. Monsieur Lampron avait expliqué qu’il n’avait pas retenu la valeur à l’unité de logement car la densité (c.-à-d. le nombre de logements, qui pouvait différer pour la même superficie de terrain) était trop variable. Monsieur Flynn a tout simplement ignoré ce facteur en tenant pour acquis que tous les terrains retenus étaient comparables et que les unités qui ont été bâties sur ces terrains étaient de même grandeur (transcription, volume 2, page 40).
+[30] Monsieur Flynn a donc établi la valeur du terrain selon une valeur par unité de logement variant entre 6 500 $ et 8 000 $ entre la phase I et la phase IV, pour une valeur totale du terrain passant de 435 500 $ pour la phase I à 512 000 $ pour la phase IV (pièce I-1, pages 20 à 23).
+[31] Pour établir la valeur des bâtiments selon la méthode du coût, monsieur Flynn s’est fondé sur la méthode des unités posées, plutôt que sur les coûts réels comme l’avait fait monsieur Lampron. La méthode choisie par monsieur Flynn consiste à estimer le coût de remplacement par unité posée en se basant sur un répertoire de coûts unitaires. Monsieur Flynn a choisi le manuel américain Marshall & Swift, qui offre une estimation des coûts de remplacement avec des tables de conversion applicables aux différentes provinces canadiennes. Monsieur Lampron avait rejeté cette approche puisque les bâtiments venaient d’être construits à la date d’évaluation et il n’y avait pas lieu de recourir à cette méthode alternative. Il avait expliqué qu’un tel manuel était utile pour estimer le coût de remplacement de vieux immeubles, mais qu’il était loin d’être précis. Monsieur Flynn a mentionné que, n’ayant pas en main les coûts réels que possédaient l’appelante et monsieur Lampron, il a eu recours à ce manuel. En contre-interrogatoire, il a été démontré que l’estimation des coûts dans ce manuel semble loin des prix réels dans la province de Québec, lesquels seraient beaucoup moins élevés que ceux du manuel.
+[32] Par ailleurs, monsieur Flynn a attribué une désuétude de 5 pour 100 du coût de remplacement pour la phase I, de 2 pour 100 pour la phase II et de 1 pour 100 pour la phase III pour tenir compte des dépassements de coûts reliés aux problèmes d’insonorisation et de toiture. Il a reconnu également, en contre-interrogatoire, qu’il n’avait toutefois fait aucune analyse du sol. Il a ajouté que le problème de sol était connu de l’appelante avant le début de la construction et elle devait savoir que cela occasionnerait des surcoûts. Selon lui, il ne s’agissait pas d’un coût extraordinaire puisque l’appelante a décidé d’aller de l’avant avec la construction en toute connaissance de cause (transcription volume 2, pages 24-26).
+[33] Il en arrive finalement à une évaluation totale (incluant le terrain) selon la méthode du coût calculé par la méthode des unités posées (basée sur Marshall & Swift) (pièce I-1, page 32), que je reproduis ci-après en la comparant avec celle obtenue par l’expert de l’appelante (pièce A-2, page 30):
+Appelante
+Intimée
+6300 de l’Aster
+4 450 000 $
+5 125 657 $
+6400 de l’Aster
+4 550 000 $
+5 469 903 $
+6305 de l’Aster
+4 900 000 $
+5 987 045 $
+6405 de l’Aster
+5 150 000 $
+5 947 701 $
+[34] Monsieur Flynn a par ailleurs vérifié la valeur des bâtiments selon la méthode du coût utilisée par l’expert de l’appelante (pièce I-1, page 34 et pièce A‑2, page 30). Il arrive à une évaluation pour les bâtiments plus élevée que celle obtenue par l’appelante. Il a tenu compte, pour ce faire, des frais de financement, des frais de promotion et des frais de livraison des unités de même que du salaire des deux associés, qui, selon lui, sont des frais indirects engagés avant la date de l’autocotisation et qui peuvent être inclus dans le coût de revient du mandataire (transcription, volume 1, pages 209 à 214). Monsieur Lampron (l’expert de l’appelante) n’avait pas inclus tous ces frais dans son calcul (pièce A-2, pages 25 et 30).
+[35] Monsieur Flynn a finalement procédé à l’application de la méthode de comparaison des coûts dans le but de vérifier si la valeur estimée selon la méthode Marshall & Swift était raisonnable. Il explique que, pour la première année, la valeur qu’il a obtenue pour le bâtiment se situe autour de 47 $ le pied carré alors que la valeur établie par l’appelante est plutôt de 40 $ à 42 $ le pied carré (transcription, volume 1, page 220). Selon les données du marché qu’il a retracées de façon confidentielle dans d’autres dossiers traités par l’ARQ (et donc non accessibles à l’appelante), les indicateurs varient entre 58 $ et 93 $ le pied carré (pièce I-1, page 35 et transcription, volume 2, pages 77 à 82). Il conclut donc que la valeur à laquelle il est arrivé selon la méthode du coût se rapproche plus du prix qu’un acheteur aurait payé à un entrepreneur général pour les immeubles en question que ne le fait le prix auquel est arrivé l’expert de l’appelante, et ce, même s’il concède que les prix sur le marché qu’il a retenus ne se rapportent pas nécessairement à des immeubles identiques (transcription, volume 1, page 221)[1].
+(2) Méthode de comparaison
+[36] Selon l’aveu même de monsieur Flynn, cette méthode n’est pas adéquate ici, mais peut être utile pour vérifier la valeur obtenue par l’analyse faite selon les deux autres méthodes. Comme cette méthode consiste à faire l’étude des ventes récentes de propriétés similaires, autant que possible, sur le marché, cela donne un indice de la valeur sur le marché.
+[37] La plupart des comparables qui ont été utilisés ici sont des immeubles plus anciens, sans stationnement intérieur, sans ascenseur et sans piscine. L’indicateur qui ressort de ces comparables est donc faible (transcription, volume 2, page 106).
+[38] Monsieur Flynn arrive à des valeurs, au moyen de la méthode de comparaison (pièce I-1, page 57), montrant des différences d’entre 100 000 $ et 300 000 $ environ par comparaison avec les résultats obtenus selon la méthode du coût, ce qui n’est pas un écart important, dit-il.
+(3) Méthode du revenu
+[39] Selon les experts, avec cette méthode, il faut trouver le prix que paierait un investisseur pour un immeuble, compte tenu du revenu net et du taux de rendement qu’il anticipe recevoir sur son capital investi (pièce I-1, page 58, pièce A-2, page 41).
+[40] Il faut d’abord établir le revenu brut potentiel des immeubles. Les deux experts l’ont estimé en fonction des listes de prélocation fournies par l’appelante. Il correspond aux revenus projetés avant la livraison des unités (pièce A-2, pages 41 et 44-47; pièce I-1, page 58). Monsieur Flynn reconnait avoir légèrement surestimé les revenus de stationnement, car il n’avait pas les données exactes.
+[41] Une réserve pour inoccupation et mauvaises créances a ensuite été calculée à autour de 3 pour 100 par chaque expert.
+[42] Par la suite, le revenu brut effectif (RBE) ainsi établi doit être réduit des dépenses d’exploitation annuelles pour établir le revenu net de l’immeuble. Selon monsieur Flynn, certaines dépenses, tels la conciergerie, l’entretien et les réparations, doivent être normalisées selon des normes fiables (que l’on retrouve par exemple auprès de la Société canadienne d'hypothèques et de logement (SCHL)).
+[43] On constate en gros que l’expert de l’appelante arrive à un montant de dépenses correspondant à 44 pour 100 du revenu brut effectif en comparaison de 37 pour 100 pour l’expert de l’intimée (pièce A-2, page 45 et pièce I-1, page 66). Monsieur Flynn a dit que, puisqu’il n’avait pas les états des résultats de l’appelante, il s’est basé sur les dépenses de 2009 qu’il avait en main et qu’il a reportées aux années antérieures tout simplement. Il mentionne que les dépenses réelles de 2009, qu’il n’a pas normalisées ni actualisées, sont probablement plus élevées que ce qu’elles devraient être pour les années antérieures (transcription, volume 1, page 250). Par ailleurs, monsieur Flynn a expliqué que le surplus des dépenses pour l’appelante pouvait être attribuable au poste « salaires », qui ne doit pas, selon lui, être pris en compte aux fins de cet exercice (transcription, volume 1, pages 252 et 253). Selon lui, si les associés ont décidé de faire la gestion de leur immeuble eux-mêmes, cela ne doit pas se refléter dans la valeur de l’immeuble. Il juge qu’il en aurait coûté moins cher à l’appelante de donner à contrat la gestion de l’immeuble. C'est pourquoi ce poste doit être normalisé. L’expert de l’appelante, en tenant compte des salaires et de la gestion, a attribué 10 pour 100 du revenu brut effectif à ces dépenses alors que monsieur Flynn a normalisé ce poste à 5 pour 100 (transcription, volume 1, pages 256–259, pièce I-1, page 66 et pièce A-2, pages 44‑47).
+[44] Dans son rapport, l’expert de l’appelante, monsieur Lampron, a expliqué que cette dépense de salaires a été normalisée « à partir de l’écart entre la dépense réelle assumée pour les dépenses de location, le soutien administratif, la publicité, la gestion, etc., et des frais de gestion standard (4,5 % du RBE) généralement assumé [sic] dans une bâtisse comparable ». Il ajoute que « [c]ette dépense plus élevée permet notamment de louer des logements à des taux de location plus élevés qu’au sein d’immeubles comparables » (pièce A-2, page 42, Salaires). Pour la dépense d’entretien et réparation, plus élevée que le montant retenu par monsieur Flynn, monsieur Lampron explique qu’il a conservé les dépenses réelles puisque l’immeuble à l’étude offre beaucoup plus de services que les autres immeubles locatifs du secteur (pièce A-2, page 42, Entretien et réparations).
+[45] Quant au TGA que l’on applique au revenu net de l’immeuble pour en capitaliser sa valeur, monsieur Flynn a retenu un taux en peu plus élevé que monsieur Lampron, ce qui a pour effet de diminuer la valeur (transcription, volume 1, page 249).
+[46] Finalement, l’expert de l’intimée, monsieur Flynn a appliqué un manque à gagner de 23 000 $ et de 25 000 $ pour les deux derniers immeubles seulement alors que l’expert de l’appelante a considéré des pertes de loyer variant entre 131 500 $ et 137 000 $ par année (pièce I-1, page 66 et pièce A-2, page 50). Selon les indications obtenues par monsieur Flynn, les immeubles étaient pratiquement entièrement loués à la date d’autocotisation. C’est pourquoi il n’a pas considéré de manque à gagner pour les deux premiers immeubles et a accordé un petit montant à ce titre pour les deux autres. Il a reconnu en contre-interrogatoire, en regardant la « pré-liste de location » à l’annexe C de son rapport (pièce I-1), qu’au 1er juin 2006 il y avait 41 logements sur 67 qui n’étaient pas loués, 21 logements sur 64 non loués au 1er juin 2008 et 23 logements sur 64 non loués au 1er juin 2009. Il a dit que c’était la raison pour laquelle il avait considéré un manque à gagner pour les deux dernières phases (transcription, volume 2, pages 131 à 134).
+[47] Une autre différence importante avec le rapport de monsieur Lampron est le fait que monsieur Flynn n’a pas retranché de montant pour le profit du promoteur. Selon lui, ce profit est réalisé quand l’immeuble est plein. Le travail de promotion a donc, à son avis, été pratiquement achevé au moment de l’autocotisation et il n’y a pas de raison de ne pas tenir compte de ce profit du promoteur.
+[48] Monsieur Flynn croit qu’il n’y pas lieu de traiter ainsi les dépenses de promotion (publicité, frais de bureau, salaires et frais de livraison) retranchées par l’appelante (pièce A-2, page 50). Ces dépenses sont déjà incluses dans le prix demandé aux locataires, selon le principe d’anticipation des revenus (transcription volume 1, page 265). C’est là la principale différence, selon lui, entre le résultat obtenu par monsieur Lampron et celui auquel il arrive lui-même, soit le traitement des dépenses de promotion (transcription, volume 1, page 266).
+[49] Quant aux dépenses pour l’insonorisation et la toiture, il en a tenu compte dans le poste « réserve immeuble » dans une proportion de 2,5 pour 100 (pièce I-1, page 66).
+[50] Monsieur Flynn a par ailleurs dit qu’il n’avait jamais vu dans la doctrine la distinction faite par monsieur Lampron entre le marché primaire et le marché secondaire (transcription, volume 1, page 265). Il mentionne toutefois à la page 36 de son rapport (pièce I-1), en parlant de la méthode de comparaison, qu’« il est rare que l’évaluateur puisse relever des ventes d’immeubles neufs d’importance issues du marché primaire ». Il a également expliqué en contre-interrogatoire qu’on parle d’un marché primaire lorsqu’il y a une vente entre un constructeur et un acheteur, et qu’en pareil cas on cherche à déterminer quel serait le prix minimum qu’un entrepreneur serait prêt à vendre (transcription volume 2, pages 75-76).
+(4) Corrélation
+[51] Monsieur Flynn a conclu que l’ensemble des trois méthodes donnait pratiquement le même indicateur, à 100 000 $ près, pour les trois premiers immeubles. Ce n’est que pour le quatrième immeuble que l’évaluation par la méthode du revenu donne un écart considérable de 300 000 $ (plus élevé) par rapport à la valeur établie selon la méthode du coût (soit un écart de 5 pour 100). Le coût de production n’a pas vraiment changé, mais le marché a bondi suite à la chute des taux hypothécaires. Il dit avoir retenu la méthode du revenu précisément pour quantifier cet écart, qui représente le profit du promoteur (transcription, volume 1, page 268, ligne 26 et volume 2, pages 45 et 46). Toutefois, dans son rapport, il semble arriver à une évaluation légèrement différente pour les deux premiers immeubles, et indique qu’il a retenu les indications obtenues selon la méthode de comparaison et la méthode du revenu. Les résultats qu’il a retenus au final (pièce I-1, page 69) sont ceux que l’on retrouve au paragraphe 5 de mes motifs.
+[52] Par ailleurs, monsieur Flynn a déposé en preuve un rapport d’évaluation dressé pour le compte de l’institution financière de l’appelante en juillet 2005 aux fins de financement (pièce I-4). On évaluait la valeur marchande de l’immeuble (phase I) à ce moment à 5 800 000 $ (pièce I-4, page 3) et l’appelante a obtenu une hypothèque de 5 440 000 $ (pièce I-4, onglet 2).
+IV Analyse
+[53] Les parties s’entendent sur le fait que la seule question en litige est de déterminer la juste valeur marchande des quatre immeubles construits aux dates retenues pour l’autocotisation, soit le 1er juin des années 2006, 2007, 2008 et 2009.
+[54] L’expression « juste valeur marchande » est définie au paragraphe 123(1) de la LTA comme suit :
+Section I DÉfinitions et interprÉtation
+123. (1) Les définitions qui suivent s’appliquent à l’article 121, à la présente partie et aux annexes V à X.
+« juste valeur marchande » Juste valeur marchande d’un bien ou d’un service fourni à une personne, abstraction faite de la taxe exclue de la contrepartie de la fourniture en application de l’article 154.
+[55] Les deux experts ont fait référence à l’énoncé de politique P-165R, « juste valeur marchande aux fins de la partie IX de la Loi sur la taxe d’accise », publié par l’Agence du revenu du Canada (ARC), qui, sous la rubrique « Juste valeur marchande », décrit la position du ministre ainsi : « En règle générale, la position du Ministère [en l’occurrence, Revenu Québec] est que la juste valeur marchande représente le prix le plus élevé, exprimé en argent ou en valeur en argent, qui peut être obtenu sur un marché libre et sans restrictions entre des parties bien renseignées, informées et prudentes agissant sans lien de dépendance, aucune des parties n’étant contrainte à transiger » (pièce A-2, page 5, pièce I-1, page 3).
+[56] Les deux experts divergent quant à la démarche d’évaluation pour estimer la juste valeur marchande en l’instance. Pour l’expert de l’appelante, la valeur, dans le cas d’une autocotisation, correspond à celle qui serait établie dans une entente contractuelle fictive portant sur un édifice substantiellement terminé et prêt à recevoir ses premiers occupants. À la date d’évaluation définie par la LTA, la concrétisation de la rentabilité du projet demeure une expectative. Monsieur Lampron considère que la juste valeur marchande dans un contexte d’autocotisation correspond au prix d’un bien sur le marché primaire, soit la valeur établie en fonction des coûts de production, c.-à-d. le prix de revient du terrain, des composantes du bâtiment, de la main-d’œuvre et du profit du constructeur.
+[57] Monsieur Lampron ajoute que le profit du promoteur ne doit pas entrer en ligne de compte ici dans l’évaluation puisque ce qu’on évalue, c’est l’immeuble (incluant le terrain) en tant que tel et non l’entreprise qui est exploitée, soit l’entreprise de location résidentielle, qui est soumise aux forces du marché secondaire (pièce A-2, pages 5-6).
+[58] De son côté, l’expert de l’intimée ne fait pas de distinction entre les marchés primaire et secondaire. Il considère qu’il est faux de dire que le coût de production d’un bien est uniquement la somme des composantes physiques qui s’y rattachent. Il est d’avis que le bien à évaluer est un immeuble vendu avec des revenus qui y sont attachés par bail. Pour lui les baux font partie de la vente de l’immeuble et toutes les activités de location et de gestion donnent une valeur ajoutée à l’ensemble des éléments qui composent le bien (pièce I-1, page 70). Il inclut donc le profit du promoteur dans son évaluation.
+[59] Ainsi, et comme il a été amplement expliqué, l’expert de l’appelante a retenu la méthode du coût selon les coûts réels ajustés. L’expert de l’intimée a souligné qu’il fallait établir le profit du promoteur par la méthode de comparaison ou du revenu, pour ensuite venir l’ajouter à la valeur établie par le coût. Il a mentionné que, pour les trois premiers immeubles, il arrivait à peu près au même résultat par toutes les méthodes d’évaluation. Ce n’est que pour le quatrième immeuble que la valeur estimée en fonction des revenus était plus élevée que la valeur estimée par le coût, d’environ 5 pour cent, et c’est pourquoi il a finalement retenu la méthode du revenu.
+A. Méthode retenue par la Cour aux fins de l’autocotisation : méthode du coût
+[60] À mon avis, puisque l’expert de l’intimée intègre de toute façon le profit du promoteur dans la valeur qu’il estime, peu importe la méthode qu’il utilise, je crois que la méthode du coût peut très bien être retenue et que la décision à prendre est d’établir quelles sont les composantes à retenir en utilisant cette méthode pour en arriver à la valeur qui fera l’objet de l’autocotisation. La méthode d’évaluation par le coût est d’ailleurs celle qui a été généralement retenue par notre cour aux fins de l’autocotisation (voir Desjardins c. Canada, 2010 CCI 521, [2010] A.C.I. no 401 (QL), [2010] G.S.T.C. 147; 9103-9438 Québec Inc. c. Canada, 2004 CCI 466, [2004] A.C.I. no 361 (QL), [2005] G.S.T.C. 68; Charleswood Legion Non-Profit Housing Inc. c. Canada, [1998] A.C.I. no 503 (QL), [1998] G.S.T.C. 65). Par ailleurs, notre cour est libre d’accepter ou de rejeter, en totalité ou en partie, les opinions offertes à propos de l’évaluation des biens à évaluer et peut en estimer elle-même la valeur en tenant compte de la preuve acceptable dont elle dispose (Petro-Canada c. Canada, 2004 CAF 158, [2004] A.C.F. no 734 (QL), 2004 CarswellNat 4267, paragraphe 48).
+[61] La méthode du coût exige d’établir la valeur du terrain d’une part et des bâtiments d’autre part.
+(1) Terrain
+[62] L’appelante a évalué le terrain selon le coût total relié au développement du site pour les quatre phases. Elle arrive à une valeur de 1 391 862 $, ce qui donne un taux unitaire de 5,26 $ le pied carré, et un prix par unité de 5 374 $.
+[63] Cette valeur a été répartie également pour chacune des phases, donnant ainsi une valeur pour le terrain de 350 000 $ par phase.
+[64] L’intimée a décidé de procéder par comparaison des ventes de terrains vacants qui ont servi à la construction d’immeubles à logements multiples de différents gabarits. Elle est arrivée à une valeur globale de près de 1,9 million de dollars, soit une valeur variant entre 6 $ et 7,40 $ le pied carré et un prix par unité variant de 6 500 $ à 8 000 $. L’expert de l’intimée a reconnu qu’il n’avait pas tenu compte de la densité en faisant ses comparaisons, élément qui peut faire varier de façon importante le prix par unité (le prix par unité variera indéniablement selon le nombre d’unités construites sur un même terrain).
+[65] Je suis d’accord avec l’appelante qu’il est plus juste de comparer à un prix au pied carré.
+[66] Par ailleurs, je suis d’accord avec l’intimée que le prix payé par l’appelante ne correspondait pas tout à fait à la valeur réelle puisqu’elle avait négocié son prix d’achat plusieurs années auparavant. Je constate, par contre, que la valeur attribuée au terrain par l’évaluateur recruté par l’institution financière aux fins de l’octroi d’un prêt hypothécaire en 2005 était de 1 463 000 $, soit 5,50 $ le pied carré (pièce I-4, page 3).
+[67] Je serais donc d’avis d’attribuer la même valeur de 1 463 000 $ au terrain (5,50 $ le pied carré), et de répartir cette valeur sur quatre ans comme l’a fait l’appelante. J’arrive donc à une valeur pour le terrain de 365 750 $ à inclure dans le coût de la propriété pour chacune des phases.
+(2) Évaluation des bâtiments
+a) Méthode utilisée dans l’évaluation par le coût
+[68] Pour les bâtiments, la première différence entre les experts est la méthode utilisée dans l’évaluation par le coût. Du côté de l’appelante, on a pris les coûts réels. Pour l’intimée, on a retenu une méthode estimative des coûts selon le manuel Marshall & Swift. Je suis d’accord avec l’appelante que, puisque l’on évalue des immeubles qui sont neufs à la date d’évaluation, il n’est pas nécessaire de recourir à un manuel de référence que l’on utilise pour des immeubles anciens. De plus, l’appelante a signalé des différences importantes entre les coûts estimés de certaines composantes des bâtiments dans ce manuel et les coûts réels.
+[69] Je retiendrai donc la méthode du coût réel. Chacun des experts a apporté des ajustements aux coûts réels, que je vais maintenant analyser (pièce A-2, page 30 et pièce I-1, page 34). Notre cour a accepté le principe que l’évaluation par le coût peut être assujettie à une baisse dans les cas de dépassements de coûts de construction, ou de problèmes particuliers quant à la contamination du sol, ou d’erreurs de conception ou de construction (Desjardins, précitée, paragraphes 33‑34; Charleswood Legion, précitée, paragraphe 47).
+b) Ajustements de l’appelante
+(i) Main d’œuvre
+[70] Le premier ajustement effectué par l’appelante concerne la main-d’œuvre. Aucun tel ajustement n’a été apporté par l’intimée. Dans son rapport, l’expert de l’intimée a tenu pour acquis que les immeubles avaient été construits en sections usinées (pièce I-1, page 12). Il a reconnu en cour qu’il n’était pas au courant de ce que l’appelante n’avait pu procéder ainsi et avait dû recourir à un autre entrepreneur, faisant en sorte que le premier immeuble avait dû être construit de façon accélérée sur une période de cinq mois. Je suis d’accord avec l’appelante que, dans ce contexte, les coûts de main-d’œuvre ont été plus élevés que prévus et qu’il faut en tenir compte. Quant aux deux phases suivantes, l’appelante a également fait un ajustement en invoquant un excès d’heures de travail par rapport aux normes dans l’industrie. Ici, je suis plutôt de l’avis de l’intimée : la preuve n’établit pas clairement les raisons invoquées par l’appelante. L’expert de l’appelante n’a pas réellement apporté de preuve pour appuyer son assertion quant au nombre standard de 165 heures par logement consacré dans l’industrie. De plus, les deux associés sont dans la construction d’immeubles locatifs depuis plusieurs années et je doute qu’ils n’aient pas gardé un contrôle sur les heures facturées au cours des phases II et III et qu’ils aient attendu la phase IV pour redresser la situation. Finalement, aux fins d’évaluation, il serait étonnant que l’appelante ait accepté de vendre à un prix moindre que son coût réel, sauf des circonstances spécifiques comme ce fut le cas pour la première phase.
+[71] J’accepte donc l’ajustement pour la main-d’œuvre pour la première phase seulement. L’appelante a pris en compte un écart de 91 heures par logement au taux horaire de 50 $ exigé par l’entrepreneur. L’expert a calculé cet écart en se basant sur un nombre standard de 165 heures par logement. Comme je suis d’avis que la preuve n’a pas été faite sur ce nombre, je serais d’avis de considérer un écart par rapport au nombre d’heures de travail en moyenne consacrées aux autres phases. Un écart de 60 heures à 50 $ de l’heure, soit un ajustement de 200 000 $ pour 67 logements, pour la Phase I me semblerait donc plus approprié.
+(ii) Capacité portante
+[72] Le deuxième ajustement effectué par l’appelante a trait à la capacité portante. Compte tenu d’une étude géotechnique réalisée deux ans après l’achat, laquelle a démontré des conditions de sol de très faible qualité, l’appelante a engagé des frais supplémentaires pour la mise en place des fondations et pour un surdimensionnement imprévu (pièce A-2, page 28). L’expert de l’intimée, dans son rapport, a indiqué qu’il n’avait tenu compte d’aucune analyse de sol et il a ainsi considéré la qualité du sol et du compactage du sol comme adéquate (pièce I-1, page 6). L’intimée n’a donc fait aucun ajustement à ce titre.
+[73] Dans ce cas-ci, l’expert de l’appelante a comparé les dépenses avec celles d’un autre projet de gabarit semblable réalisé par le même promoteur dans une zone avec une capacité portante plus favorable. Je suis d’accord pour apporter l’ajustement proposé par l’appelante, qui est de déduire du coût réel 102 000 $ pour chaque phase.
+(iii) Désuétude fonctionnelle : toiture et insonorisation
+[74] Le troisième ajustement apporté par l’expert de l’appelante consiste à réduire le coût d’un montant accordé pour une désuétude fonctionnelle pour les problèmes reliés à la toiture et à l’insonorisation. Pour le toit, monsieur Lampron a retenu le coût réel pour régler le problème d’isolation (11 000 $ par immeuble). Pour l’insonorisation, les problèmes semblent avoir été causés par le fait que la construction ait été faite en se fiant aux plans établis pour l’assemblage en usine alors que, dans les faits, cet assemblage a eu lieu sur l’emplacement actuel de l’immeuble. Monsieur Lampron a donc calculé l’ajustement selon la soumission reçue d’un entrepreneur pour faire les correctifs nécessaires (168 000 $ par immeuble) (pièce A-2, pages 29 et 30). L’expert de l’intimée, n’ayant pas les coûts réels en main, a choisi d’appliquer une désuétude combinée de 5 pour 100 pour le premier immeuble (243 000 $), de 2 pour cent pour le deuxième immeuble (101 000 $), de 1 pour 100 pour le troisième (55 000 $) et aucune pour le quatrième immeuble, en invoquant que les problèmes auraient dû être réglés au moment d’entamer la phase IV (pièce I-1, pages 30 et 32 à 34). Puisque monsieur Flynn reconnaît, en accordant une désuétude, que l’existence des problèmes reliés au toit et à l’insonorisation peut affecter la valeur et comme il n’avait pas les montants exacts, alors que monsieur Lampron s’est appuyé sur les vrais chiffres, je vais accepter la désuétude fonctionnelle calculée par l’appelante sur chaque immeuble.
+c) Ajustements de l’intimée
+(i) Frais de financement
+[75] L’intimée a rajouté des frais de financement de 1,5 pour 100 du total des coûts. Aucuns tels frais n’ont été retenus par l’appelante, sans aucune explication. Dans le Traité de l’évaluation foncière de Jean-Guy Desjardins, Éditions Wilson & Lafleur, Montréal, 1992, auquel il a été fait référence au cours de l’audience et dont un extrait a été déposé en preuve sous la cote I-3, celui-ci dit, aux pages 180 à 182, que, lorsque l’on évalue un bien par la méthode du coût, les coûts sont composés de trois éléments, soit les coûts directs, les coûts indirects et le profit de l’entrepreneur. On indique à la page 181 que le coût de financement pour l’achat du terrain peut être pris en compte dans les coûts indirects. Dans l’ouvrage Évaluation immobilière, Principes, concepts et pratiques de Dominique Achour, Éditions Agence d’Arc, Sillery, 1992 (extraits déposés sous la cote A-3), à la page 82, on inclut dans les coûts indirects les frais d’intérêt sur le financement de la construction également. À la lecture du contrat d’achat du terrain (pièce I-2), il n’y a aucune allusion à un financement pour l’achat du terrain et aucune preuve n’a été faite à ce sujet. Par contre, l’appelante a obtenu un prêt de 5 440 000 $ au mois d’avril 2006 relié au financement du premier immeuble en cause (pièce I-4, onglet 2). Je suis donc d’accord avec l’intimée pour rajouter des frais de financement. Toutefois, j’appliquerais le taux de 1,5 pour 100 aux coûts réels totaux des bâtiments, selon les chiffres de l’appelante que l’on retrouve dans l’évaluation des immeubles par le coût, à la pièce A-2, page 30.
+(ii) Frais de promotion, de publicité et de gestion de projet et profit de l’entrepreneur
+[76] Finalement, l’intimée a augmenté le coût de revient des bâtiments d’un montant estimé de 30 000 $ par immeuble pour la promotion et la publicité, de même que d’un montant de frais correspondant à 5 pour 100 du total des coûts pour tenir compte des frais de gestion du projet normalement exigés par l’entrepreneur général (ici l’appelante, qui, elle, n’a calculé aucun montant à ce titre). Ces frais additionnels font partie du coût du promoteur, que l’appelante n’a pas jugé bon d’inclure aux fins de l’évaluation aux fins d’autocotisation.
+[77] À ce stade, l’expert de l’intimée considère que la méthode du coût est pratiquement identique à la méthode du revenu. Il considère que la valeur des immeubles, même en utilisant la méthode du coût, doit tenir compte des revenus de loyer rattachés à chaque immeuble et ainsi, que le coût doit être augmenté des dépenses engagées par l’appelante, en tant que promoteur, pour rendre le projet viable à terme. Ainsi, comme les associés ont mis de leur temps dans le projet et engagé des frais pour la promotion et pour la signature des baux, ces frais indirects font partie, selon lui, du coût du projet à la date d’autocotisation. L’appelante de son côté soutient que, dans un marché primaire, on ne doit pas tenir compte de ces coûts, qui se rattachent plutôt à une évaluation d’une entreprise en exploitation. Au moment de l’autocotisation, dit-elle, l’immeuble est encore vide et on ne peut juger de la performance locative et du montant des dépenses que cela occasionnera pour chaque immeuble.
+[78] L’expert de l’intimée, monsieur Flynn, a mentionné en cour que les deux associés s’étaient versé des salaires de 100 000 $ au cours des deux premières années, mais un salaire minime au cours des deux dernières années (transcription, volume 1, pages 211‑212). Lui-même a normalisé la dépense reliée à la gestion en indiquant des frais de gestion variant de 238 136 $ à 263 695 $ au cours des quatre années (pièce I-1, page 34).
+[79] Dans le Traité de l’évaluation foncière de Jean-Guy Desjardins, cité plus haut, celui-ci semble faire une distinction entre les coûts indirects et le profit de l’entrepreneur. Il inclut dans les coûts indirects, entre autres, les frais de publicité et ceux reliés à la location et à la vente, de même que les frais d’administration de l’entrepreneur. Ceux-ci peuvent être exprimés en un pourcentage des coûts directs. Quant au profit de l’entrepreneur, il souligne que celui-ci varie, entre autres, selon les circonstances économiques et qu’il est essentiel pour l’évaluateur de vérifier au préalable les conditions du marché afin de s’assurer de l’existence d’un tel profit de l’entrepreneur. À ce sujet, il fait référence, dans une note en bas de page, au passage suivant dans l’ouvrage Real Estate Appraising in Canada, The Appraisal Institute of Canada, 3e édition, 1987, pages 158 et 159 :
+35. Real Estate appraisal in Canada, The Appraisal Institute of Canada, 3e édition, 1987, pages 158 et 159.
+Entrepreneurial Profit
+It is a common mistake to assume that the cost approach sets the upper limit of value as based on the principle of substitution, although sometimes true in the residential market, the cost approach result is often far below the actual market value when applied to other classes of property. This occurs when a sale is made of an income property where the leasing of that property by the developer has created an addition to so-called hard costs which cannot be found by summation of land value and construction costs. Nonetheless, it is quite apparent from the price paid by an informed purchaser that such a phenomenon is a function of the market place. Under conditions of perfect competition, value cannot exceed the cost of producing a product for long. Entrepreneurs would soon enter the market and partake in the large profits produced. The principle of competition dictates that such a flood would result in the lowering of prices. Real estate, however, does not operate under ideal conditions and, hence, value may exceed costs.
+There are four primary reasons why real estate fails to conform to perfect competition. First, some sites are unique or limited in number either because of the physical qualities of the area or because other sites cannot be made available. Second, zoning laws may limit the areas of competing uses. Third, license laws, regulating agencies or clauses in leases may prevent the establishment of competing units. Fourth, the restrictions may temporarily prevent new competing construction. Communities have, for example, declined to issue building permits for home or apartment construction due to crowded schools.
+Such barriers to free competition require time and effort to overcome. The ability of a developer to do so, coordinate a parcel of real estate and arrange a proper lease on it, requires a payment which should be recognized as a cost. It is recognized in the market place by purchasers and should logically be considered by appraisers when applying the cost approach.
+Over-compensating, however, is not the solution. Care must be taken not to readily accept entrepreneurial profit as inherent in most real property. It can be recognized in cases where the cost approach results in a very low value indication when compared to the results of other approaches. If there is evidence of a possible entrepreneurial profit, it should be listed separately rather than being apportioned between land and building values.
+[80] Je retiens de ceci que, dans un marché compétitif idéal, le critère de substitution permet de vérifier que l’utilisateur rationnel ne paye pas plus cher pour un immeuble que ce qu’il devrait payer pour un immeuble identique et substituable (voir également l’ouvrage Évaluation immobilière, précité, de Dominique Achour, page 26). Toutefois, ce marché compétitif idéal peut être affecté pour diverses raisons, telle la construction de l’immeuble sur un site unique ou dans une région faisant l’objet d’un zonage particulier ou réglementée par diverses restrictions limitant la construction de logements dans le secteur. Dans ce cas, la valeur marchande pourrait excéder le coût de construction. On met toutefois l’évaluateur en garde de faire attention de ne pas intégrer le profit de l’entrepreneur de façon inhérente au coût de la propriété.
+[81] À mon avis, la preuve n’a pas été faite devant moi que les divers éléments pouvant atténuer les conditions d’un marché compétitif idéal, relatés ci-dessus, étaient présents ici (pas de preuve de règlement de zonage spécifique ou de restrictions quelconques). Au contraire, le site de construction s’est plutôt révélé problématique suite à l’étude de sol réalisée après l’achat du terrain par l’appelante. De plus, l’intimée a reconnu que ce n’est que pour la dernière phase, en 2009, que son expert établit une valeur sensiblement plus élevée de l’immeuble, en tenant compte du profit de l’entrepreneur. L’expert a expliqué ceci par la chute des taux hypothécaires à ce moment-là. J’estime que ce profit estimatif ne doit pas être pris en compte ici aux fins de l’autocotisation puisque, même si le quatrième immeuble a été construit dans une année où une hausse de la valeur des immeubles pouvait arriver, cet immeuble faisait partie d’un plan global conçu au début de la construction du premier immeuble en 2006. Il était très difficile à ce moment de prévoir la baisse des taux hypothécaires en 2009. De plus, la preuve a révélé que 35 pour 100 des logements n’étaient toujours pas loués au moment où l’immeuble était prêt à être habité en 2009.
+[82] Je conclus donc que, puisqu’il s’agit de la construction d’un complexe global de quatre immeubles, l’on doit appliquer la même méthode d’évaluation pour chacun des immeubles aux dates d’autocotisation respectives. Dans les circonstances, j’estime qu’il est justifié d’appliquer le critère de substitution mentionné plus haut et d’établir l’évaluation selon la méthode des coûts sans tenir compte du profit du promoteur.
+[83] Puisque je crois comprendre de la littérature que les frais indirects incluent les frais de promotion et de publicité, de même que certains frais d’administration, et que ces frais semblent distincts de ce que l’on qualifie de profit de l’entrepreneur, je serais d’avis de tenir compte d’un certain montant pour les frais indirects aux fins d’établir la valeur des immeubles. La preuve a révélé que l’appelante a déboursé environ 170 000 $ en publicité, de même que des frais de salaires et de bureau d’environ 120 000 $, par immeuble (pièce A-2, page 50). L’intimée a rajouté au total environ 270 000 $ à ce titre (incluant le profit du promoteur) pour les deux premiers immeubles et 290 000 $ pour les deux derniers (pièce I-1, page 34). L’expert de l’intimée a reconnu que les frais de publicité réellement engagés par l’appelante étaient trop élevés pour être retenus aux fins de l’évaluation (il avait lui-même attribué 30 000 $ par immeuble) (transcription, volume 1, page 269, volume 2, page 72). Au final, j’estime juste d’augmenter le coût total des immeubles d’un montant de 150 000 $ pour chacun d’eux pour tenir compte des frais indirects.
+V Conclusion
+[84] Si l’on reprend le tableau de l’expert de l’appelante que l’on retrouve à la pièce A-2, page 30, la valeur finale pour chacune des phases selon la méthode du coût, que j’ai retenue, avec les ajustements que j’ai acceptés ci-dessus (et qui sont soulignés dans le tableau), est modifiée de la façon suivante :
+Méthode du coût – Valeur finale retenue par la Cour
+Phase I
+Phase II
+Phase III
+Phase IV
+Date d’évaluation
+1er juin 2006
+1er juin 2007
+1er juin 2008
+1er juin 2009
+Coût réel des bâtiments
+4 667 845 $
+4 603 522 $
+4 999 269 $
+5 066 709 $
+Frais de financement (1,5%)
+70 017 $
+69 052 $
+74 989 $
+76 000 $
+Coût total
+4 737 862 $
+4 672 574 $
+5 074 258 $
+5 142 709 $
+Ajustement du coût réel :
+Main d’œuvre
+(200 000 $)
+0 $
+0 $
+0 $
+Capacité portante
+(102 000 $)
+(102 000 $)
+(102 000 $)
+(102 000 $)
+Publicité & frais de gestion
+150 000 $
+150 000 $
+150 000 $
+150 000 $
+Coût réel ajusté
+4 585 862 $
+4 720 574 $
+5 122 258 $
+5 190 709 $
+Détérioration physique :
+Physique curable
+0 $
+0 $
+0 $
+0 $
+Physique incurable
+0 $
+0 $
+0 $
+0 $
+Coût déprécié physiquement
+4 585 862 $
+4 720 574 $
+5 122 258 $
+5 190 709 $
+Désuétudes :
+Fonctionnelle
+Toiture
+(11 000$)
+(11 000$)
+(11 000$)
+(11 000$)
+Insonorisation
+(168 000 $)
+(168 000 $)
+(168 000 $)
+(168 000 $)
+Économique
+0 $
+0 $
+0 $
+0 $
+Coût de remplacement déprécié
+4 406 862 $
+4 541 574 $
+4 943 258 $
+5 011 709 $
+Valeur marchande du terrain
+365 750 $
+365 750 $
+365 750 $
+365 750 $
+Valeur finale selon la Cour
+4 772 612 $
+4 907 324 $
+5 309 008 $
+5 377 459 $
+[85] Je note que la valeur du prêt hypothécaire obtenu par l’appelante pour financer le premier immeuble s’élevait à 5 440 000 $. Toutefois, ce prêt était garanti pour un montant de 800 000 $ par un autre immeuble détenu par l’appelante (pièce I-4, onglet 2, page 3, article 5.2), ce qui réduit la valeur attribuable à notre immeuble à un montant de 4 640 000 $. De plus, l’évaluation municipale attribuée au premier immeuble au moment de l’obtention de son financement s’élevait à 4 616 455 $ (pièce I-4, onglet 1, page 13). Finalement, la valeur de 5 800 000 $ retenue par l’évaluateur de l’institution financière en 2005 tenait pour acquis que le bâtiment était entièrement usiné, qu’il n’y avait aucun problème de contamination du sol, que le degré d’insonorisation était satisfaisant et que tous les baux étaient signés (pièce I-4, onglet 1, pages 3, 4 et 16). La preuve a révélé que ceci n’était pas le cas. Dans les circonstances, la valeur finale à laquelle j’arrive en conciliant les ajustements apportés par les deux experts m’apparaît raisonnable.
+VI Décision
+[86] L’appel est accueilli et la cotisation est renvoyée au ministre pour nouvelle cotisation en tenant pour acquis que la juste valeur marchande de chaque immeuble relativement à laquelle l’appelante devait établir une autocotisation aux fins du paragraphe 191(3) de la LTA s’établit comme suit :
+6300, rue de l’Aster 1er juin 2006 4 772 612 $
+6400, rue de l’Aster 1er juin 2007 4 907 324 $
+6305, rue de l’Aster 1er juin 2008 5 309 008 $
+6405, rue de l’Aster 1er juin 2009 5 377 459 $
+[87] L’appelante a droit à ses dépens selon le tarif B des Règles de la Cour canadienne de l’impôt (procédure générale) (Règles), de même qu’à un montant de 300 $ par jour pour les services rendus par son témoin expert en préparant son rapport et en témoignant devant la cour, aux termes du paragraphe 5(2) du tarif A des Règles.
+Signé à Ottawa, Canada, ce 14e jour de février 2014.
+« Lucie Lamarre »
+Juge Lamarre
+RÉFÉRENCE : 2014 CCI 52
+Nº DU DOSSIER DE LA COUR : 2011-3600(GST)G
+INTITULÉ DE LA CAUSE : Beaudet Claude et Saucier Alain c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATE DE L’AUDIENCE : Les 24 et 25 octobre 2013
+MOTIFS DU JUGEMENT PAR : L'honorable juge Lucie Lamarre
+DATE DU JUGEMENT : Le 14 février 2014
+COMPARUTIONS :
+Avocat de l'appelante :
+Me Louis-Frédérick Côté
+Avocate de l'intimée :
+Me Nadja Chatelois
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelante :
+Nom : Me Louis-Frédérick Côté
+Cabinet : Spiegel Sohmer inc.
+Montréal (Québec)
+Pour l’intimée : William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Puisque l'expert de l'intimée s'est appuyé sur des données confidentielles non accessibles à l'appelante, je ne retiendrai pas cette partie de son témoignage aux fins de mon analyse.

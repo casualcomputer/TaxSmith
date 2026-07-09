@@ -1,0 +1,192 @@
+---
+title: "Parthiban c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/223888/index.do"
+last_modified: "2017-03-02"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2017 CCI 30"
+citation2: ""
+neutral_citation: "2017 CCI 30"
+decision_date: "2017-03-02"
+language: "fr"
+item_id: "223888"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2261
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T17:35:38.306000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "cb25fad3667fb2e0b18478640a3759b6c3e6c4e5877b180e599a78faf1560992"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Parthiban c. La Reine
+
+- Citation: 2017 CCI 30
+- Decision date: 2017-03-02
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2261, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Parthiban c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2017-03-02
+Référence neutre
+2017 CCI 30
+Numéro de dossier
+2014-3307(GST)I
+Juges et Officiers taxateurs
+Patrick J. Boyle
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2014-3307(GST)I
+ENTRE :
+JEYAKODY PARTHIBAN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 15 février 2017, à Toronto (Ontario).
+Devant : L’honorable juge Patrick Boyle
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimée
+Me Hillary Adams
+JUGEMENT
+Pour les motifs du jugement ci-joints, l’appel relatif à la cotisation établie au titre de la Loi sur la taxe d’accise, dont l’avis est daté du 19 juin 2013, est accueilli et l’affaire est renvoyée au ministre du Revenu national pour nouvel examen et nouvelle cotisation, étant entendu que l’appelant a droit au remboursement pour habitation neuve.
+Les dépens, d’un montant de 250 $, sont adjugés à l’appelant.
+Signé à Ottawa, Canada, ce 2e jour de mars 2017.
+« Patrick Boyle »
+Juge Boyle
+Référence : 2017 CCI 30
+Date : 20170302
+Dossier : 2014-3307(GST)I
+ENTRE :
+JEYAKODY PARTHIBAN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Boyle
+[1] Le présent appel, interjeté sous le régime de la procédure informelle de la Cour, a trait à la demande de remboursement de la TPS/TVH pour habitation neuve que M. Parthiban a présentée pour sa nouvelle maison familiale, située à Markham (Ontario).
+Aperçu
+[2] L’audience a principalement porté sur deux questions : (i) l’exigence relative au remboursement pour habitation neuve qui est énoncée à l’alinéa 254(2)b) de la Loi sur la taxe d’accise, à savoir qu’au moment où l’appelant a acquis la maison en décembre 2011, celle-ci devait servir, à sa famille et à lui, de lieu de résidence habituelle, et (ii) l’exigence connexe énoncée à l’alinéa 254(2)g), à savoir que l’appelant et sa famille étaient les premières personnes à occuper la maison à titre résidentiel après la conclusion de l’achat en décembre 2012.
+[3] L’intimée s’est dite convaincue à l’audience que l’ensemble de la preuve montrait que l’appelant, son épouse et leurs jeunes enfants avaient occupé en tout temps la maison et que la seule autre personne à l’occuper était le frère de l’épouse de l’appelant, qui a vécu avec la famille, et a fait partie de celle-ci, pendant toute la période pertinente.
+[4] Il restait donc à la Cour à régler seulement la première question, soit celle de savoir si, en décembre 2011, quand il avait conclu le contrat d’achat et de vente de la maison, M. Parthiban avait l’intention qu’elle serve de lieu de résidence habituelle à sa famille.
+[5] À la suite de la clôture de la preuve, l’intimée a également convenu, à juste titre, qu’il ressortait de l’ensemble de la preuve que l’appelant avait acquis la maison dans le but de s’en servir comme seul lieu de résidence de sa famille et que, depuis qu’il l’avait achetée, elle avait toujours servi à cette fin. La maison n’a jamais été mise en vente ou en location, et elle n’a jamais été laissée vacante.
+[6] La demande de remboursement pour habitation neuve de l’appelant a été refusée, car, comme l’indique la lettre rédigée à cet effet par l’Agence du revenu du Canada (l’« ARC »), [traduction] « aux fins du remboursement, votre maison au Canada ne peut être considérée que comme un lieu de résidence secondaire étant donné que le statut que vous avez au Canada est celui d’un visiteur ».
+[7] L’avis de confirmation par lequel l’ARC a rejeté l’opposition de l’appelant conclut lui aussi que la maison de Markham est un lieu de résidence secondaire, car l’appelant continue de résider au Royaume-Uni.
+[8] Telle est la position qui a été maintenue à l’audience, malgré la preuve.
+[9] La position de l’intimée est erronée. La loi indique clairement que le droit de l’appelant au remboursement dépend de la qualification de la maison en tant que lieu de résidence, et non de son statut de résident ou de non-résident. C’est également ce qui ressort des propres publications de l’ARC portant sur le remboursement pour habitation neuve, y compris l’interprétation technique qui a été fournie à l’appelant au moment où il a acheté la maison. Il semble que des fonctionnaires de l’ARC, aux stades de l’examen et de l’opposition, ont cherché à interpréter le texte de manière à refuser le remboursement que demandait l’appelant, parce qu’ils croyaient que son épouse et lui n’étaient pas des immigrants ou des résidents légitimes. À cela s’ajoute le fait que le ministère de la Justice a affecté un avocat spécialisé en droit de l’immigration à l’audience tenue devant la Cour canadienne de l’impôt.
+Les faits
+[10] L’appelant, son épouse et son beau-frère ont tous trois témoigné. Leur témoignage a été cohérent en tout temps.
+[11] L’appelant et son épouse, citoyens et titulaires de passeports du Royaume-Uni, ont déménagé au Canada en 2011. Leurs trois enfants sont nés au Canada; l’aîné est né à la fin de 2011.
+[12] Avant de s’installer au Canada, l’appelant et son épouse ont vendu la maison qu’ils possédaient au Royaume-Uni et ils ont mis en entreposage la totalité de leurs effets personnels. Ceux-ci ont été expédiés au Canada après leur arrivée.
+[13] Une fois qu’ils sont arrivés au Canada, ils ont acheté une automobile et l’appelant a obtenu un permis de conduire de l’Ontario.
+[14] Au Royaume-Uni, l’appelant et son épouse possédaient et exploitaient un dépanneur situé dans des locaux loués. Avant de déménager au Canada, ils ont pris les dispositions nécessaires pour qu’une personne de l’endroit gère les activités quotidiennes du dépanneur. Ils en sont toujours propriétaires. Ce fait, combiné aux autres sources de revenu que l’appelant tire de ses activités indépendantes de consultation en génie logiciel, des activités qu’il mène par Internet et par Skype, procure à la famille un revenu suffisant depuis ses six dernières années de vie au Canada.
+[15] L’appelant a voyagé de temps à autre à l’extérieur du pays pour des visites familiales ainsi que pour des vacances, parfois en compagnie de son épouse ou de son épouse et de leurs enfants. Ces séjours ont varié d’un congé d’une semaine en Jamaïque à une période de quelques semaines à un mois, principalement au Royaume-Uni pour rendre visite à de la famille, ainsi qu’au Sri Lanka pour se rendre au chevet d’un parent malade. D’après la preuve, l’absence la plus longue du Canada a peut-être duré un mois et demi en tout. Je conclus que l’appelant et sa famille ont vécu au Canada, comme le ferait une famille caractéristique, dans leur maison de Markham pendant une période de dix à dix mois et demi chaque année depuis la conclusion de l’achat, en décembre 2012, de la maison de Markham.
+[16] Quand ils rendaient visite à de la famille au Royaume-Uni, ils séjournaient habituellement, sinon toujours, dans la maison d’un frère ou d’une sœur ou dans la maison d’un autre membre de leur famille élargie. Il est évident qu’il n’y a pas la moindre preuve, ni même le moindre soupçon, que l’appelant ou son épouse a, à un moment quelconque, possédé ou loué un autre lieu de résidence, ou a eu par ailleurs à sa disposition un autre lieu de résidence, à quelque endroit que ce soit dans le monde.
+Les dispositions législatives applicables
+[17] Les exigences que comporte la Loi sur la taxe d’accise au sujet du remboursement pour habitation neuve, à savoir que l’acheteur doit occuper le lieu de résidence pour lui-même ou pour sa famille, sont les suivantes :
+254(2) Le ministre verse un remboursement à un particulier dans le cas où, à la fois :
+254(2) Where
+[…]
+. . .
+b) au moment où le particulier devient responsable ou assume une responsabilité aux termes du contrat de vente de l’immeuble ou du logement conclu entre le constructeur et le particulier, celui-ci acquiert l’immeuble ou le logement pour qu’il lui serve de lieu de résidence habituelle ou serve ainsi à son proche;
+(b) at the time the particular individual becomes liable or assumes liability under an agreement of purchase and sale of the complex or unit entered into between the builder and the particular individual, the particular individual is acquiring the complex or unit for use as the primary place of residence of the particular individual or a relation of the particular individual,
+[…]
+. . . and
+g) selon le cas :
+(g) either
+(i) le premier particulier à occuper l’immeuble ou le logement à titre résidentiel, à un moment après que les travaux sont achevés en grande partie, est :
+(i) the first individual to occupy the complex or unit as a place of residence at any time after substantial completion of the construction or renovation is
+(A) dans le cas de l’immeuble, le particulier ou son proche,
+[…]
+(A) in the case of a single unit residential complex, the particular individual or a relation of the particular individual, and
+. . .
+the Minister shall . . . pay a rebate to the particular individual . . .
+[EN BLANC]
+[Non souligné dans l’original.]
+[18] Il ressort clairement du texte de la loi que l’exigence à remplir pour avoir droit au remboursement pour habitation neuve consiste à se demander si le logement a été occupé en tant que lieu de résidence. Cela est nettement distinct de la question du statut de résident de l’acheteur au Canada aux fins du droit fiscal, ce qui est une qualification du statut de la personne, ou de la question de savoir si l’acheteur est légalement présent ou résident au Canada aux fins du droit de l’immigration, ce qui concerne le statut et les droits de la personne. Les dispositions législatives en matière de remboursement pour habitation neuve m’obligent à qualifier la maison de lieu de résidence ou pas, et non la personne qui la possède. À l’évidence, une personne ne peut pas être un « lieu de résidence » ou, en anglais, un « place of residence ».
+[19] Il convient aussi de signaler que, dans la version française de la loi, les mots « lieu de résidence habituelle » sont utilisés pour « primary place of residence ». En français, l’emploi du mot « habituel » n’introduit aucune notion de classement, d’ordre ou de numérotation que l’on pourrait associer à certains usages ordinaires du mot « primary » en anglais. La version française indique de manière encore plus claire et sûre que l’emploi, en anglais, du mot « primary », pour qualifier le « place of residence » ne donne pas à penser que le remboursement pour habitation neuve n’est offert qu’à ceux qui ont également au moins une deuxième maison, elle aussi servant de lieu de résidence.
+[20] L’exigence selon laquelle la maison doit être le lieu de résidence habituelle n’est énoncée qu’à l’alinéa 254(2)b), et non à l’alinéa g). C’est-à-dire que la seule exigence c’est qu’au moment où l’on convient d’acheter une maison, celle-ci doit servir de lieu de résidence habituelle. Les mots « habituelle » et « primary » ne figurent pas à l’alinéa g).
+Analyse
+[21] Comme il a été mentionné plus tôt, la lettre par laquelle l’ARC a refusé la demande de remboursement est fondée sur le fait que la maison de l’appelant au Canada ne peut être considérée que comme un lieu de résidence secondaire car le statut qu’avait l’appelant au Canada, quand il a convenu de l’acheter et quand il y a emménagé, était celui d’un visiteur. Dans sa lettre, l’ARC fait ensuite immédiatement référence, à titre d’appui, à l’analyse qui est faite du « lieu de résidence habituelle/primary place of residence » dans le guide RC4028 de l’ARC, intitulé Remboursement de la TPS/TVH pour habitations neuves [1] .
+[22] Au moment de la conclusion de l’achat, en décembre 2012, l’appelant a demandé au Groupe des décisions en matière de TPS/TVH de l’ARC, à Ottawa, qu’il se prononce sur la question. En janvier 2013, il a reçu en réponse une interprétation technique, dans laquelle on peut lire ce qui suit :
+[traduction]
+Le « lieu de résidence habituelle » d’une personne est généralement le lieu de résidence où la personne habite de façon permanente. Un seul lieu de résidence peut être le lieu de résidence habituelle d’une personne à n’importe quel moment donné. Si une personne a plus d’un lieu de résidence, voici quelques-uns des facteurs qui sont pris en compte pour déterminer si le lieu de résidence peut être considéré comme le lieu de résidence habituelle […] [2]
+Cela concorde tout à fait avec la loi et il n’y a pas de confusion entre un bâtiment considéré comme un lieu de résidence et le pays de résidence du propriétaire [3] . L’interprétation technique informe également l’appelant, avec raison, que [traduction] « [l]a question de savoir si l’acheteur est un non-résident ou pas n’a aucune incidence sur l’admissibilité au remboursement pour habitation neuve ou sur sa cession au constructeur ».
+[23] Dans son argumentation, l’intimée a confirmé que, au vu de la preuve, la maison de Markham avait été achetée dans le seul but de servir de lieu de résidence pour la famille et qu’elle n’avait toujours servi qu’à cette fin. Cependant, elle a maintenu sa position selon laquelle cette maison, l’unique lieu de résidence de la famille, ne pouvait pas être son lieu de résidence habituelle aux fins du remboursement pour habitation neuve si l’appelant et son épouse n’avaient pas légalement le statut de résident au Canada en décembre 2011, ce qui leur aurait permis de rester au Canada jusqu’à ce qu’ils concluent l’achat en décembre 2012. Le fait que leur fils aîné soit un citoyen canadien né en octobre ou en novembre 2012 et le fait qu’il ait emménagé dans la nouvelle maison avec eux en décembre 2012 n’était malheureusement pas utile parce qu’il n’avait pas encore été conçu en décembre 2011, date de la conclusion du contrat d’achat de la maison.
+[24] En décembre 2011, l’appelant et son épouse avaient pleinement l’intention d’avoir une famille. Ils avaient essayé de le faire, sans succès toutefois, pendant un certain temps avant la naissance de leur fils aîné. La preuve indique très clairement qu’ils achetaient cette maison dans l’intention de s’en servir comme seul lieu de résidence pour eux-mêmes, ainsi que pour les enfants qu’ils avaient l’intention, et qu’ils essayaient fort, d’avoir. Étant donné que leur premier enfant était un citoyen canadien qui était né au Canada et pour lequel il n’y avait aucune difficulté sur le plan de l’immigration, je ne suis pas sûr de la raison pour laquelle il pouvait subsister un problème après le mois de décembre 2012.
+[25] Je ne vois franchement pas comment une maison située à Markham et occupée par une famille en tant que seul lieu de résidence, sans le moindre soupçon de preuve quant à la possibilité qu’une autre maison soit un autre lieu de résidence, peut être qualifiée de lieu de résidence secondaire ou de lieu autre que leur lieu de résidence habituelle. Si je suis la seule personne à posséder une maison, j’en suis le seul propriétaire et je n’en suis pas copropriétaire. Si une règle de droit dépendait de la question de savoir si j’étais le principal propriétaire de la maison, certains pourraient considérer que cette règle de droit ne s’appliquerait implicitement que dans le cas d’une copropriété, dans laquelle il y aurait au moins deux copropriétaires inégaux. Cependant, pour ce qui est du remboursement pour habitation neuve, je ne puis conclure que l’emploi des mots « lieu de résidence habituelle » exige qu’un appelant ait plus d’une maison comme lieu de résidence avant que l’on puisse dire qu’il possède une maison qui constitue un lieu de résidence habituelle. Si je suis le seul à écrire un examen, même si j’échoue, je sais que je me classerai premier et, même si j’obtiens un excellent résultat, je sais que je me classerai dernier, mais je ne puis, d’aucune façon, me classer deuxième ou me situer à tout autre rang. Si je suis le seul à faire une course à pied, j’arriverai premier et je serai le vainqueur même si je finissais quelques secondes avant le délai maximal alloué et, même si j’arrivais dernier, je ne pourrais pas arriver deuxième.
+[26] Comment le seul lieu de résidence d’une famille peut-il être son lieu de résidence secondaire? Comment ce lieu de résidence peut-il être autre chose que son lieu de résidence habituelle? Il s’agit de l’unique lieu de résidence de cette famille 100 % du temps. S’il ne s’agit pas du lieu de résidence habituelle de cette famille pour les raisons qu’ont invoquées l’ARC et le ministère de la Justice, rares sont les Canadiens qui auront droit au remboursement pour habitation neuve. Seuls ceux qui possèdent plus d’une maison le pourront. Il n’est pas nécessaire d’en dire plus.
+[27] Comment les fonctionnaires de l’ARC, à Summerside et à Scarborough, interprètent-ils l’énoncé de politique, le guide et l’interprétation technique que l’Administration centrale de l’ARC à Ottawa a écrits?
+[28] L’intimée peut avoir ses doutes, ses soupçons et ses préoccupations, tout comme la Cour, mais celle-ci est une cour de justice et ses décisions judiciaires reposent sur les éléments de preuve qui lui sont fournis. Ni la loi ni la preuve n’étayent la position de l’intimée.
+[29] Le statut d’immigrant de l’appelant et de son épouse, en tant que non-citoyens du Canada, n’est tout simplement pas pertinent pour ce qui est du remboursement pour habitation neuve. Je reconnais qu’en ce qui concerne le témoignage de l’appelant, les commentaires qu’il a faits avec prudence sur son statut d’immigrant peuvent susciter des questions de crédibilité et d’importance. Cela n’est pas surprenant pour une personne qui se trouve dans cette situation. Mais cela n’a aucun lien avec les faits qu’il me faut trancher, ni avec le droit qu’il me faut appliquer.
+[30] La preuve incontestable est que le contribuable et son épouse sont arrivés au Canada en 2011 et ont présenté leurs passeports du Royaume-Uni pour qu’ils soient estampillés en vue de leur admission et qu’ils ont compris que cela les autorisait à rester six mois au Canada. L’appelant et son épouse ont cru qu’ils pouvaient quitter le pays pendant un certain temps avant l’expiration du délai de six mois et, ensuite, revenir et présenter leurs passeports du Royaume-Uni, les faire estampiller une fois de plus et avoir droit à un autre délai de six mois. J’ignore si cette façon de voir les choses est erronée, car on ne m’a présenté aucune disposition législative qui indique le contraire. L’appelant a présenté à la Cour et à l’intimée le passeport que détenait son épouse pendant la période pertinente, de même que son propre passeport à jour. Selon l’appelant, on n’a jamais posé de questions sur leur situation et on ne leur a pas refusé l’entrée au pays, et ils n’ont pas non plus été l’objet d’une ordonnance de renvoi ou d’une autre mesure. Cela a fonctionné pour l’appelant et son épouse. Selon la preuve, on ne leur a jamais demandé au moment de leur retour au pays quand ils étaient venus au Canada la dernière fois. Après plusieurs années, ils voulaient tous régulariser leur statut d’immigrant au Canada, souhaitant devenir résidents permanents ou immigrants reçus. L’appelant a une demande de visa d’étudiant en instance et il détient une fiche de visiteur en cours de validité délivrée par Citoyenneté et Immigration qui l’autorise à rester au pays à titre de visiteur jusqu’à la fin de la présente année civile [4] . Son épouse a une demande de permis de travail en instance et elle aussi détient une fiche de visiteur appropriée, qui l’autorise à vivre au Canada, mais non à y travailler. Leurs fiches de visiteur ont été déposées en preuve.
+[31] Que l’appelant et son épouse aient compris à tort ou à raison qu’ils avaient le droit de rester six mois de plus à titre de visiteurs au Canada après avoir quitté le pays pendant une période d’une semaine ou plus, il ressort clairement de la preuve que, en fait, cela a fonctionné pour eux. Aucune preuve n’indique le contraire [5] . J’ignore si l’interprétation ou la conception de l’appelant quant à sa situation est exacte, car l’intimée ne m’a renvoyé à aucune disposition législative à l’appui de son explication, mais elle était d’avis que le détenteur d’un passeport du Royaume-Uni n’avait pas le droit de rester au Canada plus de 182,5 jours au cours de toute période de 365 jours. En fait, l’intimée n’était pas sûre qu’il s’agissait là d’une exigence législative et cela n’était pas indiqué dans un guide de politique de Citoyenneté et Immigration Canada.
+[32] La capacité que j’ai de considérer que la maison était destinée à servir de lieu de résidence habituelle à l’époque où il a été convenu de l’acheter dépend du fait de savoir si l’appelant et sa famille avaient l’intention de se servir de cette maison comme lieu de résidence. Elle ne dépend pas du fait de savoir si l’appelant ou sa famille auraient pu être l’objet d’une mesure de renvoi, d’une arrestation, d’une expulsion, voire d’un renvoi vers une installation étrangère. Elle dépend plutôt du fait de savoir si la famille avait bel et bien l’intention d’occuper la maison en tant que lieu de résidence de la famille et si elle l’a effectivement occupée. Il n’est pas non plus exigé que l’intention qu’avait la famille de se servir de la maison comme lieu de résidence habituelle en décembre 2011 constituait un projet avisé, exempt de risque et sensible pour la famille; il suffit qu’il s’agissait là de l’utilisation que la famille envisageait. Il n’est pas pertinent pour leur droit à un remboursement pour habitation neuve que leur projet de vivre effectivement toute l’année au Canada à titre de visiteurs pendant une période qui incluait la date de conclusion de l’achat de la maison était peut-être risqué, vu qu’ils n’auraient peut-être pas eu autant de succès qu’ils en ont eu pour ce qui était de la régularisation de leur statut personnel d’immigrant si celui-ci avait été mis en doute ou contesté. Il importe peu que les risques associés à ce qu’ils croyaient et à ce qu’ils projetaient étaient à ce point élevés que l’intimée, ou des personnes à son service, ne se seraient peut-être pas senties à l’aise s’il s’était agi d’elles; il n’est pas question d’elles. C’est l’usage prévu par cet appelant particulier et sa famille que je dois évaluer et il ne fait aucun doute qu’ils avaient l’intention d’acquérir la maison de Markham comme seul lieu de résidence et qu’ils s’en sont servis comme telle depuis la conclusion de la vente, même si leur respect des règles de l’immigration a peut-être été un peu vague ou si leur statut d’immigrant a pu faire en sorte que l’usage qu’ils prévoyaient faire de la maison était un projet risqué qui ne leur aurait peut-être pas permis de procéder à l’achat sans problème. En fait, au vu de la preuve, ils ont atteint leur objectif. Ils ont conclu l’achat de la maison pendant qu’elle était en construction et ils y ont emménagé sans délai.
+Conclusion
+[33] L’appel de l’appelant est accueilli, car l’achat de la maison de Markham répond aux exigences relatives au remboursement pour habitation neuve. Il est ordonné à l’ARC d’établir une nouvelle cotisation en conséquence. J’accorde des dépens fixes d’un montant total de 250 $ à l’appelant, qui a eu gain de cause dans le présent appel, sous le régime de la procédure informelle.
+Signé à Ottawa, Canada, ce 2e jour de mars 2017.
+« Patrick Boyle »
+Juge Boyle
+RÉFÉRENCE :
+2017 CCI 30
+No DU DOSSIER DE LA COUR :
+2014-3307(GST)I
+INTITULÉ :
+JEYAKODY PARTHIBAN c. LA REINE
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+Le 15 février 2017
+MOTIFS DU JUGEMENT :
+L’honorable juge Patrick Boyle
+DATE DU JUGEMENT :
+Le 2 mars 2017
+COMPARUTIONS :
+[EN BLANC]
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimée :
+Me Hillary Adams
+AVOCATS INSCRITS AU DOSSIER :
+[EN BLANC]
+Pour l’appelant :
+[EN BLANC]
+Cabinet :
+[EN BLANC]
+Pour l’intimée :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Je ne suis pas sûr de ce que le guide RC4028 disait en 2013 quand la lettre a été écrite, mais dans sa version la plus récente, il est évident que l’analyse à laquelle il est fait référence n’étaye pas du tout le fait ou ne donne aucunement à penser que ce n’est pas la maison qui doit pouvoir être qualifiée de lieu de résidence répondant aux exigences, mais que c’est le statut d’immigrant ou le statut de résident, aux fins du droit fiscal ou du droit de l’immigration, de l’acheteur ou du demandeur du remboursement qu’il faut déterminer et qualifier. Plus précisément, le paragraphe applicable indique ceci : « Remarque — Si vous achetez ou construisez une habitation neuve au Canada, mais que votre lieu de résidence habituelle demeure à l’extérieur du Canada, votre habitation au Canada serait considérée comme un lieu de résidence secondaire et ne serait pas admissible au remboursement pour habitations neuves. » En anglais, cela se lit comme suit : « Note — If you buy or build a new house in Canada but your primary place of residence remains outside Canada, then your house in Canada would be a secondary place of residence and would not qualify for the new housing rebate. » Il s’agit là des mêmes termes que l’on trouve dans la loi et ils se rapportent au lieu d’habitation, et non à une personne. Voir Remboursement de la TPS/TVH pour habitations neuves, Agence du revenu du Canada, guide RC4028(F) Rév. 10/16, page 8 (arc.gc.ca/tpstvh), et GST/HST New Housing Rebate, Canada Revenue Agency, Guide RC4028(E) Rev. 10/16, page 7 (cra.gc.ca/gsthst).
+[2] Pièce A-2.
+[3] L’interprétation technique indique ensuite (pièce A‑2) : [traduction] « Pour plus de renseignements sur la manière de déterminer si un lieu de résidence est un lieu de résidence habituelle, veuillez consulter l’énoncé de politique sur la TPS/TVH [P-228], Résidence habituelle ». Cet énoncé de politique (publié le 30 mars 1999 et mis à jour la dernière fois le 16 mai 2000) concorde également avec le libellé de la loi, comme l’indique le passage suivant : « Une résidence habituelle peut être différenciée d’une résidence secondaire puisque les termes « habituel » et « secondaire » ont chacun un sens précis. […] Il s’ensuit que lorsqu’un particulier a plus d’une résidence […] » L’énoncé de politique indique plus loin : « Les lignes directrices qui précèdent et les critères particuliers énumérés ci-après sont des facteurs qui servent à déterminer si une maison constitue la résidence habituelle d’une personne. […] Si un particulier […] possède […] plus d’une résidence et continue à les occuper, les facteurs suivants peuvent indiquer quelle résidence est la résidence principale […] ».
+[4] L’appelant a obtenu cette fiche de visiteur après l’expiration de celle qui était en vigueur jusqu’à la fin de 2016.
+[5] Dans l’avis de confirmation, il est indiqué, sans source toutefois, que leur visa de visiteur d’une durée de six mois a été refusé à quelques reprises.

@@ -1,0 +1,374 @@
+---
+title: "Les Centres Jeunesse des Laurentides Et Al v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28453/index.do"
+last_modified: "2004-10-27"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 TCC 709"
+citation2: ""
+neutral_citation: "2004 TCC 709"
+decision_date: "2004-10-27"
+language: "en"
+item_id: "28453"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1186
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T18:53:26.064000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "3f66f2e52215371ecd5423fdbe55b86bd66a8d2f5fdd3e47b62636fa6aad76c7"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Les Centres Jeunesse des Laurentides Et Al v. The Queen
+
+- Citation: 2004 TCC 709
+- Decision date: 2004-10-27
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1186, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Les Centres Jeunesse des Laurentides Et Al v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-10-27
+Neutral citation
+2004 TCC 709
+File numbers
+2001-3392(GST)G
+Judges and Taxing Officers
+Lucie Lamarre
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2001-3392(GST)G
+BETWEEN:
+LES CENTRES JEUNESSE DES LAURENTIDES,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard on common evidence with the appeals of Centre jeunesse de l'Estrie (2001-4061(GST)G), Les Centres jeunesse de la Montérégie (2002‑345(GST)G), Centre jeunesse de l'Abitibi Témiscamingue (2002-1843(GST)G) and Centre jeunesse Gaspésie/Les Îles (2002-1845(GST)G) on April 7, 2004, at Montréal, Quebec.
+Before: The Honourable Justice Lucie Lamarre
+Appearances:
+Counsel for the Appellant:
+Michael Kaylor
+Counsel for the Respondent:
+Benoit Denis
+JUDGMENT
+The appeal from the assessment established under Part IX of the Excise Tax Act, notice of which is dated November 16, 2001, and numbered 032G0108590, for the period from September 12, 1999, to December 4, 1999, is dismissed with costs.
+Signed at Ottawa, Canada, this 27th day of October 2004.
+“Lucie Lamarre”
+Lamarre J.
+Translation certified true
+on this 1st day of February 2005
+Aveta Graham, Translator
+Docket: 2001-4061(GST)G
+BETWEEN:
+CENTRE JEUNESSE DE L'ESTRIE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard on common evidence with the appeals of Les Centres jeunesse des Laurentides (2001-3392(GST)G), Les Centres jeunesse de la Montérégie (2002‑345(GST)G), Centre jeunesse de l'Abitibi Témiscamingue (2002‑1843(GST)G) and Centre jeunesse Gaspésie/Les Îles (2002-1845(GST)G) on April 7, 2004, at Montréal, Quebec.
+Before: The Honourable Justice Lucie Lamarre
+Appearances:
+Counsel for the Appellant:
+Michael Kaylor
+Counsel for the Respondent:
+Benoit Denis
+JUDGMENT
+The appeal from the assessment established under Part IX of the Excise Tax Act, notice of which is dated April 6, 2000, for the period from October 1, 1999, to December 31, 1999, is dismissed with costs.
+Signed at Ottawa, Canada, this 27th day of October 2004.
+“Lucie Lamarre”
+Lamarre J.
+Translation certified true
+on this 1st day of February 2005
+Aveta Graham, Translator
+Docket: 2002-345(GST)G
+BETWEEN:
+LES CENTRES JEUNESSE DE LA MONTÉRÉGIE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard on common evidence with the appeals of Les Centres jeunesse des Laurentides (2001-3392(GST)G), Centre jeunesse de l'Estrie (2001-4061(GST)G), Centre jeunesse de l'Abitibi Témiscamingue (2002-1843(GST)G) and Centre jeunesse Gaspésie/Les Îles (2002-1845(GST)G) on April 7, 2004, at Montréal, Quebec.
+Before: The Honourable Justice Lucie Lamarre
+Appearances:
+Counsel for the Appellant:
+Michael Kaylor
+Counsel for the Respondent:
+Benoit Denis
+JUDGMENT
+The appeal from the assessment established under Part IX of the Excise Tax Act, notice of which is dated April 5, 2001, for the period from June 18, 2000, to September 9, 2000, is dismissed with costs.
+Signed at Ottawa, Canada, this 27th day of October 2004.
+“Lucie Lamarre”
+Lamarre J.
+Translation certified true
+on this 1st day of February 2005
+Aveta Graham, Translator
+Docket: 2002-1843(GST)G
+BETWEEN:
+CENTRE JEUNESSE DE L'ABITIBI TÉMISCAMINGUE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard on common evidence with the appeals of Les Centres jeunesse des Laurentides (2001-3392(GST)G), Centre jeunesse de l'Estrie (2001-4061(GST)G), Les Centres jeunesse de la Montérégie (2002-345(GST)G) and Centre jeunesse Gaspésie/Les Îles (2002-1845(GST)G) on April 7, 2004, at Montréal, Quebec.
+Before: The Honourable Justice Lucie Lamarre
+Appearances:
+Counsel for the Appellant:
+Michael Kaylor
+Counsel for the Respondent:
+Benoit Denis
+JUDGMENT
+The appeal from the assessment established under Part IX of the Excise Tax Act, notice of which is dated June 11, 2002, and numbered 22GG0500406, for the period from April 1, 1999, to September 30, 1999, is dismissed with costs.
+Signed at Ottawa, Canada, this 27th day of October 2004.
+“Lucie Lamarre”
+Lamarre J.
+Translation certified true
+on this 1st day of February 2005
+Aveta Graham, Translator
+Docket: 2002-1845(GST)G
+BETWEEN:
+CENTRE JEUNESSE GASPÉSIE/LES ÎLES,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard on common evidence with the appeals of Les Centres jeunesse des Laurentides (2001-3392(GST)G), Centre jeunesse de l'Estrie (2001-4061(GST)G), Les Centres jeunesse de la Montérégie (2002-345(GST)G) and Centre jeunesse de l'Abitibi Témiscamingue (2002-1843(GST)G) on April 7, 2004,
+at Montréal, Quebec.
+Before: The Honourable Justice Lucie Lamarre
+Appearances:
+Counsel for the Appellant:
+Michael Kaylor
+Counsel for the Respondent:
+Benoit Denis
+JUDGMENT
+The appeal from the assessment established under Part IX of the Excise Tax Act, notice of which is dated June 22, 2001, and numbered 0254127, for the period from April 1, 1999, to September 30, 1999, is dismissed with costs.
+Signed at Ottawa, Canada, this 27th day of October 2004.
+“Lucie Lamarre”
+Lamarre J.
+Translation certified true
+on this 1st day of February 2005
+Aveta Graham, Translator
+Citation: 2004TCC709
+Date: 20041027
+Dockets: 2001-3392(GST)G
+2001-4061(GST)G
+2002-345(GST)G
+2002-1843(GST)G
+2002-1845(GST)G
+BETWEEN:
+LES CENTRES JEUNESSE DES LAURENTIDES,
+CENTRE JEUNESSE DE L'ESTRIE,
+LES CENTRES JEUNESSE DE LA MONTÉRÉGIE,
+CENTRE JEUNESSE DE L'ABITIBI TÉMISCAMINGUE,
+CENTRE JEUNESSE GASPÉSIE/LES ÎLES,
+Appellants,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Lamarre J.
+[1] These are appeals from the assessments established by the Minister of National Revenue (“Minister”) under sections 174 and 259 of the Excise Tax Act (“ETA”) through which the Appellants were denied a partial rebate of a tax deemed paid, according to them, on the allowance they paid to foster families taking charge of children in difficulty, under the Act respecting health and social services, R.S.Q., c. S‑4.2 (“AHSS”) and the related Regulation, R.R.Q. c. S‑4.2, r. 0.001 (“Regulation”).
+[2] Section 174 of the ETA provides that a charity that pays an allowance to a volunteer for supplies all or substantially all of which are taxable supplies of property or services acquired in Canada by the volunteer in relation to activities engaged in by the charity is deemed to have received a supply of the property or service. Also, under the same conditions, any consumption or use of the property or service by the volunteer is deemed to be consumption or use by the charity and not by the volunteer, and the charity is also deemed to have paid, at the time the allowance is paid, tax in respect of the supply on a percentage of the allowance. Subsection 259(3) of the ETA provides that a charity can claim partial rebate of the non-creditable tax charged in respect of property or a service.
+[3] It is under those two provisions of the ETA that the Appellants (which are charities within the meaning of the ETA) are claiming a partial rebate of the tax, which they say they are deemed to have paid, on the portion of the allowance paid to foster families (who are volunteers within the meaning of the ETA) and which was related to the taxable supplies acquired with that allowance.
+[4] Those provisions of the ETA read as follows:
+174. Travel and other allowances — For the purposes of this Part, where
+(a) a person pays an allowance
+(i) to an employee of the person,
+(ii) where the person is a partnership, to a member of the partnership, or
+(iii) where the person is a charity or a public institution, to a volunteer who gives services to the charity or institution
+for
+(iv) supplies all or substantially all of which are taxable supplies (other than zero‑rated supplies) of property or services acquired in Canada by the employee, member or volunteer in relation to activities engaged in by the person, or
+(v) the use in Canada, in relation to activities engaged in by the person, of a motor vehicle,
+(b) an amount in respect of the allowance is deductible in computing the income of the person for a taxation year of the person for the purposes of the Income Tax Act, or would have been so deductible if the person were a taxpayer under that Act and the activity were a business,
+(c) in the case of an allowance to which subparagraph 6(1)(b)(v), (vi), (vii) or (vii.1) of that Act would apply
+(i) if the allowance were a reasonable allowance for the purposes of that subparagraph, and
+(ii) where the person is a partnership and the allowance is paid to a member of the partnership, if the member were an employee of the partnership, or, where the person is a charity or a public institution and the allowance is paid to a volunteer, if the volunteer were an employee of the charity or institution,
+the person considered, at the time the allowance was paid, that the allowance would be a reasonable allowance for those purposes and it is reasonable for the person to have considered, at that time, that the allowance would be a reasonable allowance for those purposes,
+the following rules apply:
+(d) the person is deemed to have received a supply of the property or service,
+(e) any consumption or use of the property or service by the employee, member or volunteer is deemed to be consumption or use by the person and not by the employee, member or volunteer, and
+(f) the person is deemed to have paid, at the time the allowance is paid, tax in respect of the supply equal to the amount determined by the formula
+A x B
+where
+A is the amount of the allowance, and
+B is
+(i) 15/115 where
+(A) all or substantially all of the supplies for which the allowance is paid were made in participating provinces, or
+(B) the allowance is paid for the use of the motor vehicle in participating provinces, and
+(ii) in any other case, 7/107.
+174. Indemnités pour déplacement et autres — Pour l'application de la présente partie, une personne est réputée avoir reçu la fourniture d'un bien ou d'un service dans le cas où, à la fois :
+a) la personne verse une indemnité à l'un de ses salariés, à l'un de ses associés si elle est une société de personnes ou à l'un de ses bénévoles si elle est un organisme de bienfaisance ou une institution publique :
+(i) soit pour des fournitures dont la totalité, ou presque, sont des fournitures taxables, sauf des fournitures détaxées, de biens ou de services que le salarié, l'associé ou le bénévole a acquis au Canada relativement à des activités qu'elle exerce,
+(ii) soit pour utilisation au Canada d'un véhicule à moteur relativement à des activités qu'elle exerce;
+b) un montant au titre de l'indemnité est déductible dans le calcul du revenu de la personne pour une année d'imposition en application de la Loi de l'impôt sur le revenu, ou le serait si elle était un contribuable aux termes de cette loi et l'activité, une entreprise;
+c) lorsque l'indemnité constitue une allocation à laquelle les sous-alinéas 6(1)b)(v), (vi), (vii) ou (vii.1) de la Loi de l'impôt sur le revenu s'appliqueraient si l'indemnité était une allocation raisonnable aux fins de ces sous-alinéas, les conditions suivantes sont remplies :
+(i) dans le cas où la personne est une société de personnes et où l'indemnité est versée à l'un de ses associés, ces sous-alinéas s'appliqueraient si l'associé était un salarié de la société,
+(ii) si la personne est un organisme de bienfaisance ou une institution publique et que l'indemnité est versée à l'un de ses bénévoles, ces sous-alinéas s'appliqueraient si le bénévole était un salarié de la personne,
+(iii) la personne considère, au moment du versement de l'indemnité, que celle-ci est une allocation raisonnable aux fins de ces sous-alinéas,
+(iv) il est raisonnable que la personne l'ait considérée ainsi à ce moment.
+De plus :
+d) toute consommation ou utilisation du bien ou du service par le salarié, l'associé ou le bénévole est réputée effectuée par la personne et non par l'un de ceux-ci;
+e) la personne est réputée avoir payé, au moment du versement de l'indemnité et relativement à la fourniture, une taxe égale au résultat du calcul suivant :
+A x B
+où
+A représente le montant de l'indemnité,
+B :
+(i) 15/115 si, selon le cas :
+(A) la totalité, ou presque, des fournitures relativement auxquelles l'indemnité est versée ont été effectuées dans les provinces participantes,
+(B) l'indemnité est versée en vue de l'utilisation du véhicule à moteur dans les provinces participantes,
+(ii) dans les autres cas, 7/107.
+259(3) Rebate for persons other than designated municipalities [Public service body rebate] — Where a person (other than a listed financial institution, a registrant prescribed for the purposes of subsection 188(5) and a person designated to be a municipality for the purposes of this section) is, on the last day of a claim period of the person or of the person's fiscal year that includes that claim period, a selected public service body, charity or qualifying non‑profit organization, the Minister shall, subject to subsections (4.1), (4.2) and (5), pay a rebate to the person equal to the prescribed percentage of the non‑creditable tax charged in respect of property or a service (other than a prescribed property or service) for the claim period.
+259(3) Remboursement aux personnes autres que des municipalités désignées — Sous réserve des paragraphes (4.1), (4.2) et (5), le ministre rembourse la personne (sauf une personne désignée comme municipalité pour l'application du présent article, un inscrit visé par règlement pris en application du paragraphe 188(5) ou une institution financière désignée) qui, le dernier jour de sa période de demande ou de son exercice qui comprend cette période, est un organisme de bienfaisance ou un organisme à but non lucratif admissible. Le montant remboursable est égal au pourcentage réglementaire de la taxe exigée non admise au crédit relativement à un bien ou à un service, sauf un bien ou un service visés par règlement, pour la période de demande.
+Issue
+[5] The only issue is whether the allowance paid by the Appellants to the foster families meets the criterion of section 174 of the ETA, namely, whether the allowance in question was paid to the foster families for supplies all or substantially all of which are taxable supplies of property or services acquired in Canada by the volunteer in relation to activities engaged in by the Appellants.
+Facts
+[6] Before more clearly explaining the issue raised by the parties in the case at bar, it is useful at this stage to explain the Appellants’ roles. They are responsible, under the AHSS, for using the services of family-type resources such as foster families, to place children who are in difficulty. The Appellants receive a grant from the provincial government for their operation and pay, with that grant, basic compensation to the foster families. That basic compensation is set by Quebec’s Ministère de la Santé et des Services Sociaux based on the classification of services offered by the foster families and the rates of compensation applicable to each type of service. The classification of services offered by foster families is itself based on the degree of support and assistance required by the children. Thus, foster families are entitled, for the services they offer, to a daily basic compensation set by regulation and which varies depending on the age of the children (see sections 303, 304 and 314 of the AHSS and section 4 of the Regulation). To be entitled to that basic compensation, the foster family must have obtained the placement of the child or children and must indicate the number of days in the month where the child (or children) are present in the foster family. Other than that information, no vouchers are required.
+[7] Section 6 of the Regulation provides that foster families may also be entitled, in addition to the basic compensation, to special compensation to help maintain and foster the quality of services offered to the children. However, that special compensation requires prior authorization and the presentation of vouchers. Thus, for example, a foster family is entitled to special compensation for the purchase of clothing for the child, based on the child’s age, as established in section 19 of the Regulation. Similarly, the foster family may be entitled to a reimbursement of costs related to the child’s sports and cultural activities, education, bussing or other expense set out in the Regulation (section 20 et seq. of the Regulation).
+[8] At the hearing, Richard Caron, director of financial and technical resources and chief accountant of one of the Appellants, Les centres de jeunesse des Laurentides, referred to the Interpretation Guide Respecting the Contract, its General Rules and Appendices: Foster Families (“Guide”), prepared by the Ministère de la Santé et des Services Sociaux in collaboration with various organizations including the Association des centres de services sociaux du Québec and the Fédération des familles d'accueil du Québec (Exhibit A‑1, Tab 2). The preamble indicates that the Guide is designed to ensure that contracts between a foster family taking charge of children and a social service centre are uniformly applied.
+[9] With respect to the allowances for compensation granted to foster families taking charge of children, the Guide indicates that the social services centres will ensure that the basic compensation (called the basic scale in the Guide) is used to help cover certain expenses. Accordingly, it is suggested in the Guide that a percentage of the basic scale paid to foster families with respect to child beneficiaries be applied to various expenses for clothing, recreational activities, spending money, education and transportation. It is also indicated that it is incumbent on each social service centre to inform the foster families in their territory of the amounts to be allocated, according to the basic scale paid, to the different categories of expenses mentioned above. It is even suggested that those amounts be recorded on compensation cheque stubs. When another method of payment is used, frequent reminders of the recommended use is suggested. However, in the Guide it is recognized that foster families must be informed that the amounts indicated with regard to various types of expenses are provided as “an indication only and must not be construed as rights or obligations.” (see the Interpretation Guide, Exhibit A-1, Tab 2, Basic Scale Pertaining to Children: suggested percentages to be allocated to certain support measures (“basic scale”), p. 1).
+[10] Therefore, according to the basic scale, it is suggested that families devote 18% to clothing for children up to the age of 4 and 15% for children between the ages of 5 and 18. For recreational activities and spending money, it is suggested that 4% of the basic scale be allocated for children up to the age of 4 and 7% for children between the ages of 5 and 17. The Guide also sets out a percentage to be devoted to education. Finally, the Guide states that a provincial table indicating the amounts to be devoted to different categories of expenses is sent to the social services centres each time the basic scales are indexed. The application of the suggested percentages to the basic scale in January 1999 was submitted into evidence under Exhibit R-1, Tab 4, page 4. I understand that the social service centres send this indexed document to the foster families. Those percentages correspond to those suggested in the Guide.
+[11] During his testimony, Richard Caron explained that those percentages were only suggestions and that the foster families could not be required to follow that scale. No receipts are required to verify whether the foster families spent the basic compensation on the types of expenses suggested in the proportion recommended in the basic scale. Mr. Caron said that the youth centres (which are, as I understand, social service centres within the meaning of the AHSS) do not control the foster families’ spending but assume that the basic compensation is used wisely.
+[12] Furthermore, a report submitted in May 2000 to the Quebec Minister for Health, Social Services and Youth Protection by a working group on the policy for placements in foster families, and which analyzed the policy for placements in family-type resources (“Cloutier Report”) was submitted into evidence as Exhibit A-2. At page 71 of the Report, it is indicated that, out of the basic compensation, the foster family should set aside a certain amount for clothing, recreational activities, spending money and education, those amounts varying depending on the age of the children. It is also indicated that those different amounts set aside correspond to what is generally called an “itemized scale.” In the Report, it is noted that once those budgetary items are taken care of, the balance of the basic compensation is normally used to pay the costs incurred by the foster family to feed, wash and house the children, as well as for expenses related to the child’s integration into the normal family life and thereby avoiding his or her exclusion through, for example, outings to the cinema, restaurants, public transportation and Christmas and birthday presents. The Report indicates that foster families taking charge of children are the only ones that pay the costs associated with the itemized scale out of their basic compensation. In the case of foster families taking charge of elderly persons or adults with a physical or intellectual disability, the costs associated with the itemized scale are not attributed to the basic scale but covered by independent budgets. The Cloutier Report refers to an iniquity that must be corrected. Accordingly, at page 72, the Report recommends that the Ministère de la Santé et des Services Sociaux unblock the necessary funds so that the costs associated with the itemized scale can be covered by a budget independent of the basic scale given to the foster family.
+Development of the issue
+[13] Counsel for the Appellants maintains that the basic compensation paid to the foster families must be subdivided into several distinct categories based on the percentage of the basic scale allocated to each of the suggested expenses. In his view, although the basic compensation is paid to the foster families in a single monthly payment, it must be kept in mind that in reality the Appellants do not pay only one allowance to the foster families but rather several allowances under the AHSS. If that is the case, the percentage of the basic scale allocated to clothing, recreational activities and spending money would constitute a separate allowance for each type of expense. Thus, each allowance paid to the foster families for supplies all or substantially all of which are taxable supplies within the meaning of section 174 of the ETA would make the Appellants entitled to a partial rebate of the tax paid by the foster families on those taxable supplies (clothing, recreational activities and spending money).
+[14] Counsel for the Respondent feels that the basic allowance paid to the foster families is not divisible. It is not a question of several allowances but rather just one. Consequently, since, according to the evidence, the percentage of the basic allowance to be allocated to the taxable supplies (clothing, recreational activities and spending money) only represents 22% of the basic allowance during the periods in question, it cannot be said that the basic allowance was used to acquire supplies all or substantially all of which are taxable supplies of property or services within the meaning of section 174 of the ETA. As one of the criterion of section 174 was not met, counsel for the Respondent maintains that the Appellants cannot be deemed to have paid the tax on the part of the allowance to be allocated to the taxable supplies in question and they are therefore not eligible for the partial rebate of the tax under section 259 of the ETA.
+[15] The parties agree that the only issue is whether the basic allowance is divisible and whether it can be deemed that the Appellants paid several allowances instead of just one to the foster families.
+Parties’ arguments
+[16] In support of his argument that the Appellants paid several allowances and not just one, counsel for the Appellants refers to the analysis of the word “allowance” in Gagnon v. The Queen, [1986] 1 S.C.R. 264. It should be noted that the term “allowance” is used in the English version of section 174 while the word “indemnité” is used in the French version. In Gagnon, the Court defined the term “allowance” within the meaning of paragraph 60(b) of the Income Tax Act (“ITA”) or “allocation” in the French version. The Supreme Court of Canada summarized the requirements of paragraph 60(b) as follows in paragraph 4:
+4 This provision thus makes the deduction authorized by it subject to four conditions. First, the amount paid by the taxpayer has to be paid pursuant to a decree, order or judgment of a competent tribunal or pursuant to a written agreement. Second, the amount paid has to be paid as alimony or other allowance payable for the maintenance of the recipient, children of the marriage or both the recipient and children of the marriage. Third, the amount has to be paid on a periodic basis. Fourth, at the time the payment was made and throughout the remainder of the year, the taxpayer had to be living apart from, and be separated pursuant to a divorce, judicial separation or written separation agreement from, his spouse or former spouse to whom he was required to make the payment.
+[17] The Supreme Court of Canada then analyzed the term “allowance” (“allocation” in French) at paragraphs 21 to 23, 26 to 30 and 38 as follows:
+VI--Definition of "allowance"
+21 According to the definition in Pascoe, for a sum of money to be regarded as an "allowance" it must meet three conditions: (1) the amount must be limited and predetermined; (2) the amount must be paid to enable the recipient to discharge a certain type of expense; (3) the amount must be at the complete disposition of the recipient, who is not required to account for it to anyone.
+22 The first two conditions may be understood by inference from s. 60(b) of the Income Tax Act. The amount must be limited and predetermined in accordance with the judgment, order or written agreement setting it. It must be paid to enable the recipient to discharge a certain type of expense, namely an expense incurred for the maintenance of the recipient.
+23 But what is the reason for the Pascoe judgment imposing the third condition, which clearly cannot be inferred from s. 60(b)?
+...
+26 It is important to specify what is meant in requiring that, to be an allowance, an amount must be "at the complete disposition of the recipient".
+27 According to Pascoe, this condition means that the recipient must be able to apply this amount to certain types of expense, but at her discretion and without being required to account for it.
+28 However, the condition could also mean that the recipient must be able to dispose of the amount completely, and that, provided she benefits from it, it is not relevant that she has to account for it and that she cannot apply it to certain types of expense at her complete discretion.
+29 It seems to me, with respect, that the second interpretation is the correct one, in light of the earlier decisions which Pascoe appears to have misinterpreted.
+30 What matters is not the way in which a taxpayer may dispose of, or be required to dispose of, the amounts he receives, but rather the fact of whether he can dispose of them or not.
+...
+38 Seen in this context, the third condition imposed by Pascoe must be corrected: for an amount to be an allowance within the meaning of s. 60(b) of the Income Tax Act, the recipient must be able to dispose of it completely for his own benefit, regardless of the restrictions imposed on him as to the way in which he disposes of it and benefits from it.
+[18] Counsel for the Appellants feels that the percentage of the basic scale to be allocated to the taxable supplies (clothing, recreational activities and spending money) meets the requirements cited by the Supreme Court of Canada in Gagnon to be considered an allowance (“allocation”). In fact, he says that the percentage of the basic scale (1) is limited and predetermined; (2) is paid to enable foster families to discharge a certain type of expense; and (3) the foster families are able to dispose of it completely for their own benefit, regardless of the restrictions imposed on them as to the way in which they dispose of it and benefit from it.
+[19] Furthermore, counsel for the Appellants also referred to the GST Policy Statement P-075, Allowances and Reimbursements, on the meaning of the term “allowance” for the purposes of section 174 of the ETA. That Policy Statement is cited in an administrative decision rendered by the Direction des lois sur les taxes, le recouvrement et l’administration [translation] (Administrative Decision 00-0109892 – Allowances for monthly expenses – Employees assigned to projects outside their regular place of work, dated March 29, 2001, which can be found in Tab 6 of the Appellants’ book of authorities). That administrative decision indicates that, according to the Policy Statement P-075, an allowance paid by an employer to the employee must include the following characteristics: it must be a predetermined amount and it must be paid to enable the employee to discharge a certain type of expense. The administrative decision also indicates that in order to establish if an amount was predetermined for a certain type of expense in particular, it is necessary to refer to the employer’s administrative documents (policy on allowances, memorandums, etc.). In the specific case submitted for review in the abovementioned administrative decision, the following is stated:
+[translation]
+Our understanding of the facts are as follows. A company (“the Registrant”) pays expense allowances to its employees assigned to projects outside their regular place of work. In that regard, the amounts are determined by the Registrant to cover, during a given period which is normally one month, three types of expenses, namely, accommodation, transportation and meals. The transportation part of the allowance is determined based on the number of kilometres between the employee’s regular place of work and his or her assignment. As the accommodations are rented for several months, the rental of those accommodations is generally an exempt supply. The meals paid by the Registrant are the meals taken in restaurants while the employee is outside the regular place of work. All employees assigned to a given project receive the same allowances, as long as the assignment period is the same.
+To obtain an allowance, the employee must produce an expense report. In most cases, when they fill out the report the employees only indicate a total amount that covers all of the costs for accommodations, transportation and meals.
+...
+You asked us the following:
+h when the employee only indicates a single total amount on his or her expense report for an “assignment allowance,” should it be considered that, for the purposes of section 174 of the federal Act and section 211 of the Act, the Registrant only paid one allowance rather than three separate allowances for meals, accommodations and transportation?
+h if only one “assignment allowance” was paid to cover the three types of expenses (meal, accommodation, transportation), could the Registrant obtain ITCs and ITRs with regard to that allowance?
+...
+Thus, in response to your first question, it is our view that although the expense report produced by an employee of the Registrant only indicates an overall amount for the “assignment allowance,” it cannot be concluded that, for the purposes of section 174 of the federal Act, the employer only paid one allowance. To answer that question, it is necessary to first refer to the Registrant’s administrative documents to determine if an amount was predetermined for each of the three types of expenses and if those amounts possess the other characteristics of an allowance. In order for an employer to be able to claim an ITC with respect to the allowance paid to an employee, the requirements of section 174 of the federal Act must be met. In the case at bar, it is our view that although only one payment was made, the Registrant must be considered to have paid three separate allowances for meals, accommodation and transportation. Accordingly, the Registrant may claim an ITC with respect to each of the allowances that meet the requirements set out in section 174 of the federal Act and apply the 7/107 factor to the amount of the allowance.
+Question 2:
+In response to your second question, we are of the view that if the analysis of the administrative documents established that the Registrant only paid one allowance rather than three, the Registrant would not be entitled to the ITC. In fact, since the supply of long-term accommodations is an exempt supply, one of the requirements of section 174 of the federal Act would not have been met because all or substantially all (90%) of the allowance would not have been paid for the taxable supplies.
+The preceding comments constitute our general opinion on the subject of your letter. Our interpretation could differ if proposed or future amendments were made to the Excise Tax Act. These comments are not decisions and, in accordance with the guidelines in the GST/HST Memoranda Series section 1.4, they do not have the effect of binding the Department with regard to a given situation.
+[20] Counsel for the Appellants argues that the fact that Appellants issued only one cheque or made only one monthly electronic deposit for the foster families does not change the fact that they paid several allowances which are all grouped together in one payment (in that regard, see section 9 of the Interpretation Bulletin TVQ. 211-4/R1 at Tab 4 of the Appellants’ book of authorities).
+[21] Counsel for the Appellants also suggests that denying the Appellants the right to the partial rebate would violate the principle that double taxation must be avoided. He refers to a comment cited by the Federal Court of Appeal in London Life Insurance Co. v. Canada, [2000] F.C.J. No. 2121 (Q.L.), at paragraph 35, which reads as follows:
+¶ 35 ... David M. Sherman, author of the Canada GST Service, noted in his editorial comment on the Tax Court decision in this case:
+[A]llowing the ITCs [in this case] is appropriate on policy grounds. Otherwise the GST gets "locked in" and becomes unrecoverable merely because the payment flows through an entity that makes exempt supplies. If the landlord has paid for the improvements directly, or London Life paid for them as the landlord's agent, the ITCs would clearly have been allowed.
+[22] In that decision, London Life leased commercial office space for its regional sales offices. Under the terms of its leases, London Life received a certain amount in tenant improvement allowances from its landlords. London Life collected the Goods and Services Tax (“GST”) from the landlords. Then, in accordance with the terms of its leases, London Life undertook leasehold improvements to the leased premises. As it acquired various construction property and services, it paid GST to its contractors and suppliers. London Life then claimed input tax credits (“ITC”) as an offset to the GST it was required to remit to the Minister in respect of the tenant improvement allowances that it had received. The Minister disallowed the ITC claim on the ground that London Life was engaged in the business of supplying “financial services” (exempt supplies), which did not constitute “commercial activity” giving rise to entitlement to ITCs. The Federal Court of Appeal agreed to allow London Life the ITCs primarily on the ground that double taxation would be imposed in respect of the same items if London Life was not entitled to those ITCs. The Court stated the following at paragraph 35:
+¶ 35 Allowing ITCs in this case is consistent with the principle underlying the Act that double taxation ought to be avoided. GST is payable on the tenant improvement allowances received by London Life as consideration for improving the leased premises. If ITCs are not allowed with respect to GST paid in relation to the construction inputs for the leasehold improvements as an offset to the GST payable on the tenant improvement allowances, double taxation will be imposed in respect of the same items.
+[23] Just as David M. Sherman pointed it out in his comments on London Life Insurance Co., counsel for the Appellants states that the Appellants should not be adversely affected by the fact that the taxable supplies were acquired directly by the foster families. He states that if those taxable supplies had been acquired directly by the Appellants, they would have been entitled to the rebate.
+[24] Counsel for the Respondent submits that the foster families were not required to use the basic allowance for the recommended purposes according to the suggested percentages. In his view, it is not a question of several allowances. Furthermore, the Regulation (section 4) sets out the amount of a single allowance to be paid to the foster families. The Regulation does not provide for any breakdown of the items making up the basic allowance. The youth centres’ internal documents that suggest the use of the allowance for certain purposes were not drawn from the AHSS or the Regulation. They are merely suggestions. There are no requirements as to how to spend the basic allowance. The foster families only have to justify the number of children and their presence during the month to be entitled to that overall basic allowance. Counsel for the Respondent concludes that nothing is provided for in the AHSS or the Regulation for the subdivision of the allowance. The foster families receive one single allowance and it was not shown that the allowance was used to acquire supplies all or substantially all of which are taxable supplies of property or services, as required by section 174 of the ETA.
+Analysis
+[25] With respect to the double taxation argument raised by counsel for the Appellants, I will say right now that I do not accept that argument. Section 174 specifically provides that the taxable supplies will be deemed consumed or used by the charity if certain conditions are met. I find it difficult to see how the Appellants can get around the application of section 174 by submitting that if they had acquired the taxable supplies directly, they would have been entitled to a rebate. If that was the case, we would not have to deal with the interpretation of section 174 because it simply would not apply. In addition, I am not of the view that there was double taxation in the current case. The tax was only paid once. The foster families pay the tax when they acquire the taxable services. No tax was imposed on the Appellants for the allowance that they paid to the foster families to acquire the taxable supplies in part. Therefore, there was no double payment of the tax as was the case in London Life Insurance Co., supra. In fact, in that case, the tenant, London Life, deducted the tax on the allowances that it received from the owner for the purpose of making leasehold improvements, and then itself paid a tax on the leasehold improvements that it made with those allowances. It is clearly not the same situation here and it is not a case of double taxation. Moreover, section 313 of the AHSS specifically provides that “activities and services provided by a family-type resource are deemed not to be a commercial enterprise or a means to make profit.” In any case, since the foster families do not operate a commercial activity, they are not entitled to the ITCs (section 169 of the ETA). Consequently, it cannot be said that the tax gets “locked in” and becomes unrecoverable because it is paid by the foster families. To quote David M. Sherman, allowing the ITCs is appropriate on policy grounds. In the present case, those policy grounds do not allow the recovery of the tax other than through the application of section 174. I therefore do not accept the double taxation argument raised by counsel for the Appellants.
+[26] As to the issue of the divisibility of the allowance, to support his theory counsel for the Appellants relies primarily on the definition of the word “allowance” found in Gagnon, supra. In his book of authorities, he also produced some court decisions rendered under the ITA dealing with the concept of an allowance and which I will look at later. However, I would like to note that although the term “allowance” used in the English version of section 174 of the ETA is the same as that which was analyzed by the above-mentioned case law, the term “indemnité” used in the French version of section 174 of the ETA does not correspond to the term “allocation” used in the French version of the provisions of the ITA at issue in those decisions. Also, the analysis of the terms “allowance” and “allocation” is cited by the Supreme Court of Canada in Gagnon, supra, in the specific context of paragraph 60(b) of the ITA, which is, in my view, more restrictive than section 174 of the ETA. In fact, the paragraph 60(b) requirement that the amount be paid pursuant to a decree, order or judgment of a competent tribunal or pursuant to a written agreement does not exist in section 174.
+[27] That being said, the French version of the above-mentioned Policy Statement (P-075) issued on July 22, 1993, deals with the meaning of the term “indemnité” for the purposes of section 174 of the ETA. The Policy Statement indicates that an “indemnité” must have the following characteristics, namely: the amount must be predetermined and it must be paid to enable the recipient to discharge a certain type of expense. Also, the amount must be at the complete disposition of the recipient, who is not required to account for it. Thus, that Policy Statement seems to give the term “indemnité” the same meaning that the courts have generally given the term “allocation.” Furthermore, Policy Statement P-075R dated July 6, 2004, which replaces Policy Statement P-075, indicates that for the purposes of sections 174 and 259 of the ETA in particular, the term “indemnité” has the same meaning as the term “allocation” for the purposes of the ITA. I also note that counsel for the Respondent did not address the possible difference between the two terms.
+[28] Furthermore, if we refer to the common meaning of the word “indemnité,” which is defined in Le Nouveau Petit Robert (1994 edition) as follows:
+1. Ce qui est attribué à qqn en réparation d'un dommage, d'un préjudice, ou de la perte d'un droit. ⇒ compensation, dédommagement, dommage (dommages‑intérêts), indemnisation, vx récompense, réparation. [...] 2. Ce qui est attribué en compensation de certains frais. ⇒ allocation, défraiement.
+[translation] 1. That which is granted to someone in reparation of damage, harm or loss of a right. ⇒ compensation, restitution, damages, indemnification, vb recompense, reparation. … 2. That which is granted in compensation of certain costs. ⇒ allowance, payment of expenses.
+[29] Thus, although “indemnité” can refer to a more general concept that includes compensation for damages, that term also refers to a more specific concept, meaning the compensation of certain costs, which can also be defined as an “allocation.” Accordingly, the concept of “indemnité” would include the concept of “allocation.” This seems even more apparent after reading paragraph 174(c) which states “lorsque l'indemnité constitue une allocation à laquelle les sous‑alinéas 6(1)b)(v), (vi), (vii) ou (vii.1) de la LIR s'appliqueraient si l'indemnité était une allocation raisonnable aux fins de ces sous-alinéas, les conditions suivantes sont remplies ...” [in the case of an allowance to which subparagraph 6(1)(b)(v), (vi), (vii) or (vii.1) of that Act would apply (i) if the allowance were a reasonable allowance for the purposes of that subparagraph, and … the following rules apply … ]” It is interesting to note that the English version of paragraph 174(c) simply repeats the word “allowance” without making any distinction like in the French version.
+[30] When interpreting the two versions of bilingual legislation that do not appear to be identical, it is necessary to find the meaning common to both versions. R. Sullivan in his book Sullivan and Driedger on the Construction of Statutes, (4th Ed.) explains the following:
+The basic rule governing the interpretation of bilingual legislation is known as the shared or common meaning rule. Where the two versions of bilingual legislation do not say the same thing, the meaning that is shared by both ought to be adopted unless that meaning is for some reason unacceptable.
+__________________
+1 (Butterworths: Markham 2002), p. 80.
+[31] Moreover, as P. A. Côté states in The Interpretation of Legislation in Canada, 3rd edition:
+But the task of interpretation is not completed by deciding upon the meaning shared by the two versions. This interpretive hypothesis must be verified with reference to the statute's context as a whole. The shared meaning must be compatible with the intention of the legislature, as determined by the ordinary rules of interpretation. 2
+_____________
+2 (Toronto: Carswell, 2000), p. 328.
+[32] It is also interesting to note that section 211 of the Act respecting the Québec sales tax (“AQST”), which is the counterpart to section 174 of the ETA, uses the word “allocation” and not “indemnité.”
+[33] In view of the above, it can certainly be said that the legislature would consider that an “indemnité” encompassed an “allocation.” It may also have been a reference to an “indemnité” in the compensatory sense of the term, i.e. a reimbursement of costs. However, such a case would not be covered by the issue that concerns us because the basic compensation is paid without any verification as to the way in which foster families use that money. Thus, it is not a question of the reimbursement of costs actually incurred. That basic compensation as such is an allowance, which is not contested by any of the parties. What is contested is whether that allowance can be divided into several allowances. I will therefore consider the question so raised in light of the tests developed by the courts in order to determine if this basic allowance can be divided into several separate allowances.
+[34] In MacDonald v. Canada, [1994] F.C.J. No. 378 (Q.L.), cited by counsel for the Appellants, Linden J.A. of the Federal Court of Appeal summarizes the courts’ approach as to the meaning to give the concept of an allowance. The issue in this case was to determine whether a housing subsidy received by the taxpayer constituted a taxable allowance within the meaning of paragraph 6(1)(b) of the ITA. After recognizing that Gagnon, supra, analyzed the concept of an allowance within the limited context of paragraph 56(1)(b) [and paragraph 60(b)] of the ITA, and that paragraph 6(1)(b) referred to a broader concept of an allowance (as is the case, in my opinion, in section 174 of the ETA), Linden J.A. first referred to certain common sense aspects of the concept of an allowance mentioned by the courts. He cited Ransom v. M.N.R., 67 DTC 5235, where the Exchequer Court stated that an allowance implies an amount paid in respect of some possible expense without any obligation to account (page 5243). Linden J.A., while approving of that approach, added that an allowance could be defined as “an arbitrary amount in that the allowance is not normally calculated to cover a specific expense.” (MacDonald, supra, paragraph 9). After also citing The Queen v. Pascoe, 75 DTC 5427 (F.C.A.) and Gagnon, supra, Linden J.A. finally accepted that the general principal defining an “allowance” for the purposes of paragraph 6(1)(b) of the ITA, is composed of three elements. He states the following in that regard:
+... First, an allowance is an arbitrary amount in that it is a predetermined sum set without specific reference to any actual expense or cost. … [H]owever, the amount of the allowance may be set through a process of projected or average expenses or costs. Second, … an allowance will usually be for a specific purpose. Third, an allowance is in the discretion of the recipient in that the recipient need not account for the expenditure of the funds towards an actual expense or cost. [MacDonald, supra, paragraph 14.]
+[35] That definition, inter alia, was cited by Noël J. in Beauport (Ville) v. Canada, [2001] F.C.J. No. 949 (Q.L.).
+[36] In the case at bar, counsel for the Appellants maintains that the portion of the basic allowance to be allocated to clothing, recreational activities and spending money is a predetermined amount for a certain type of expense and is at the complete disposition of the recipients (the foster families).
+[37] I do not agree with that claim. It is the amount of the basic allowance that is predetermined under the AHSS and the Regulation. Those legislative and regulatory provisions do not provide for the division of the basic allowance. Counsel for the Appellants relies on certain administrative documents ( the Guide and the basic scale as well as the Cloutier Report), to argue that the basic allowance is divided into several predetermined amounts. In those various documents, it is suggested that foster families apply a certain portion of the basic compensation to different categories of expenses including clothing, recreational activities and spending money. Counsel for the Appellants referred to Rosenberg v. Canada, [2003] F.C.J. No. 1427 (Q.L.), to state that it is not necessary for the exact dollar amount to be specified in the document providing for the payment of the compensation in order for it to be said that the amount is predetermined. The Federal Court of Appeal stated the following at paragraph 9:
+... Amounts payable can be said to be both predetermined and limited if the agreement defines the enumerated expenses in respect of which they are paid to the recipient in a way that renders the amounts certain. To require that an agreement specify the exact amount would put parties to the expense and inconvenience of having continually to amend the agreement whenever the expenses to be covered increased or decreased.
+[38] It is important to note that to conclude that an amount is predetermined, it is necessary to be able to define the expenses listed with regard to which those amounts must be paid to the recipient in a way that makes those amounts certain. In the instant case, as much as the amount of the basic compensation is certain under the legislation and applicable regulations, there is no certainty created by the administrative documents as to the allocation of that basic compensation to different types of expenses.
+[39] Foster families are paid a basic allowance so that they can respond to the child’s needs and afford the child living conditions fostering a parent-child relationship. That is what is reflected in section 312 of the AHSS, which reads as follows:
+312. One or two persons receiving in their home a maximum of nine children in difficulty entrusted to them by a public institution in order to respond to their needs and afford them living conditions fostering a parent-child relationship in a family-like environment may be recognized as a foster family.
+[40] Therefore, neither the AHSS or the Regulation impose specific expenses on foster families. Their legal responsibility is limited to responding to the children’s needs. Although the administrative documents suggest a manner in which to spend the basic compensation for the children, foster families are in no way bound by those suggestions. They are only suggestions and it cannot be said that the percentage suggested for this or that expense is a predetermined amount to discharge a certain type of expense that renders the amount corresponding to the suggested percentage an allowance in itself.
+[41] As seen earlier in MacDonald, the concept of an allowance refers to a predetermined sum set without specific reference to any actual expense which is intended for a specific purpose and which is in the discretion of the recipient in that the recipient need not account for the expenditure of the funds towards an actual expense or cost. Accordingly, as the concept of an allowance implies that it is not necessary to account for the expenses incurred to anyone, it is difficult to argue in the same breath that an allowance is divisible and can be allocated to several specific expenses.[3] That is why, in my opinion, the concept of an allowance does not permit divisibility.
+[42] Furthermore, the Regulation specifically provides, in addition to the basic compensation, special compensation for the purchase of clothing or for the reimbursement of costs related to the child’s sports and cultural activities. Foster families can therefore be reimbursed directly for costs related to those different types of expenses if they obtain prior authorization and present vouchers. I infer from this that although it was suggested that foster families pay some of those expenses with the basic compensation,[4] that basic compensation does not have to be divided up and is not necessarily for the purpose of allowing foster families to discharge the type of expenses specified in the administrative documents.
+[43] I therefore consider that the basic allowance, which itself is an allowance within the meaning of the ETA, cannot be divided into several allowances. The Appellants seem to accept that only 22% of the basic allowance would in theory be used to acquire taxable supplies by the foster families. It therefore cannot be said that the Appellants paid an allowance for the supplies all or substantially all of which are taxable supplies.
+[44] As that condition of section 174 of the ETA was not met, the Appellants are not therefore deemed to have paid a tax on the allowances that they paid during the period in question and they are not entitled to the partial rebate of the tax under subsection 259(3) of the ETA.
+[45] For those reasons, the appeals are dismissed with costs.
+Signed at Ottawa, Canada, this 27th day of October 2004.
+“Lucie Lamarre”
+Lamarre J.
+Translation certified true
+on this 1st day of February 2005
+Aveta Graham, Translator
+CITATION:
+2004TCC709
+COURT FILE NOS.:
+2001-3392(GST)G, 2001‑4061(GST)G, 2002-345(GST)G, 2002-1843(GST)G, 2002-1845(GST)G
+STYLE OF CAUSE:
+Les Centres jeunesse des Laurentides,
+Centre jeunesse de l'Estrie,
+Les Centres jeunesse de la Montérégie,
+Centre jeunesse de l'Abitibi Témiscamingue,
+Centre jeunesse Gaspésie/Les Îles v. Her Majesty the Queen
+PLACE OF HEARING:
+Montréal, Quebec
+DATE OF HEARING:
+April 7, 2004
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Lucie Lamarre
+DATE OF JUDGMENT:
+October 27, 2004
+APPEARANCES :
+Counsel for the Appellant:
+Michael Kaylor
+Counsel for the Respondent:
+Benoit Denis
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Michael Kaylor
+Firm:
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada
+[3] It is true that Gagnon, cited by the Appellants, broadened the concept of allocation to encompass the amounts paid to a recipient when the amounts received are not at the complete disposition of the recipient insofar as the recipient may use those amounts to his or her benefit. However, as pointed out by Linden J.A. in MacDonald, supra, Gagnon dealt with an allowance related to the deductibility, under paragraph 60(b) of the ITA, of amounts paid for the maintenance of a spouse or child. The provisions of paragraph 60(b) as they read at the time were later amended by the addition of subscection 56(12) of the ITA. Subsection 56(12) specified that an allowance for the maintenance of a spouse or child must be at the complete disposition of the recipient. Subsection 56(12) therefore contradicted the broader definition of allowance established in Gagnon. Subsection 56(12) was later repealed and replaced with the definition of “support amount” in subsection 56.1(4) of the ITA. That subsection defines support amount as a periodic allowance for the maintenance, inter alia, of the recipient and children of the recipient, and the recipient has discretion as to the use of the amount.
+[4] Incidentally, I note that this approach was denounced by the Cloutier Report, which pointed out an iniquity in that regard in comparison with other groups contemplated by the AHSS.

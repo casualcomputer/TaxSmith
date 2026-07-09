@@ -1,0 +1,210 @@
+---
+title: "Morin v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29026/index.do"
+last_modified: "2009-01-22"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 TCC 46"
+citation2: ""
+neutral_citation: "2009 TCC 46"
+decision_date: "2009-01-22"
+language: "en"
+item_id: "29026"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6835
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T01:40:17.232000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "3b9d6e40ba3a7d9fd14f0dcd8383ea9370e2e5fad6d1f047de8e70e8c5333296"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Morin v. M.N.R.
+
+- Citation: 2009 TCC 46
+- Decision date: 2009-01-22
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6835, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Morin v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2009-01-22
+Neutral citation
+2009 TCC 46
+File numbers
+2008-46(EI)
+Judges and Taxing Officers
+Robert James Hogan
+Subjects
+Employment Insurance Act
+Decision Content
+Dockets: 2008-46(EI)
+2008-628(EI)
+BETWEEN:
+CLAUDE MORIN,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeals heard on common evidence on October 22, 2008,
+at Chicoutimi, Quebec.
+Before: The Honourable Justice Robert J. Hogan
+Appearances:
+Counsel for the Appellant:
+Pierre Hébert
+Counsel for the Respondent:
+Marie-Claude Landry
+JUDGMENT
+The appeals are dismissed and the decisions made by the Minister of National Revenue on July 12, 2007, for the periods from January 15 to April 6, 2001, from February 25 to May 31, 2002, from February 24 to May 16, 2003, from June 28 to September 3, 2004, and from November 28, 2005, to February 17, 2006, and on November 26, 2007, for the period from January 22 to April 27, 2007, under the Employment Insurance Act are confirmed, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 22nd day of January 2009.
+“Robert J. Hogan”
+Hogan J.
+Translation certified true
+on this 11th day of March 2009.
+Daniela Possamai, Translator
+Citation: 2009 TCC 46
+Date: 20090122
+Dockets: 2008-46(EI)
+2008-628(EI)
+BETWEEN:
+CLAUDE MORIN,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Hogan J.
+[1] The Appellant has appealed from the decisions by the Minister of National Revenue (the Minister) in cases 2008-46(EI) and 2008-628(EI) that his employment with Entreprises de Construction Gaston Morin (1979) Ltée (the Payor) from January 15 to April 6, 2001, from February 25 to March 31, 2002, from February 24 to May 16, 2003, from June 28 to September 3, 2004, from November 28, 2005, to February 17, 2006, and from January 22 to April 27, 2007, was not insurable. The two cases were heard on common evidence.
+[2] The Minister based his decisions on the fact that the Appellant’s employment was excluded from insurable employment as the Minister concluded that the Appellant and the Payor would not have entered into a substantially similar contract of employment if they had been dealing with each other at arm’s length. The Minister came to that conclusion by assuming the following facts set out in the Reply to the Notice of Appeal:
+2008-46(EI)
+8.(a) during the periods in issue, Gaston Morin was the sole shareholder of the Payor; (admitted)
+(b) the Appellant is Gaston Morin’s brother; (admitted)
+(c) the Appellant was related to a person who controlled the Payor. (admitted)
+2008-628(EI)
+7.(c) the Payor hired about 20 employees for snow removal; (admitted)
+(d) twelve or so employees were responsible for snow removal at the Chibougamau Park and were paid a fixed salary; (admitted)
+(e) the other workers performed snow removal duties in areas identified by the Payor and were paid between $12 and $16 per hour based on experience; (admitted)
+(f) in 2003, the Appellant loaned $35,000 to the Payor, without repayment terms and, during the period in issue, that amount was still owed to him; (admitted)
+(g) during the period in issue, the Appellant mainly performed snow removal services for the Ste-Jeanne-D’Arc parish and some for the St-Augustin and Péribonka parishes; (admitted)
+(h) the Appellant also carried out some maintenance work on the Payor’s machinery and, in April, he placed the machinery in working order; (admitted)
+(i) as part of his work duties, the Appellant used the Payor’s machinery, namely a truck and a grader; (admitted)
+(j) unlike the other employees of the Payor, the Appellant was not required to enter or record his working hours on a time sheet; (admitted)
+(k) during the work period, that is, 14 consecutive weeks, the Appellant claims that he always put in 45 hours of work regardless of snowfalls; (admitted)
+(l) he received a fixed salary of $720 per week, that is, 45 hours at $16 per hour; (admitted)
+(m) he was paid weekly by cheque; (admitted)
+(n) since May 9, 2004, the Appellant had been operating his own snow removal business; (admitted)
+(o) the snow removal contract with the Municipality of Ste-Jeanne-D’Arc was in the Appellant’s name; (admitted)
+(p) the Appellant claims that he was a nominee for the Payor on the contract because his brother was the town’s mayor and that his name could not officially appear on the contract; (admitted)
+(q) one of the clauses in the contract binding the Appellant to the Municipality of Ste‑Jeanne‑D’Arc stated as follows:
+[TRANSLATION]
+“the Contractor undertakes, on penalty of cancellation of the Contract, not to assign or otherwise transfer in whole or in part this Contract to a subcontractor or any other persons without the express and written consent (resolution) of the Municipality of Ste-Jeanne-D’Arc.”; (admitted)
+(r) the Appellant began working for the Payor on January 22, 2007, whereas, according to Environment Canada, the town received 56.3 cm of snow in December 2006 and 55 cm prior to January 22, 2007; (ignored)
+(s) the Appellant claims that he always worked 45 hours per week, whereas, according to Environment Canada, the town received 29 cm of snow in February, 49 cm in March and 16 cm in April 2007; (ignored)
+(t) the period during which the Appellant was hired to perform snow removal duties does not correspond with the period of snowfall in the region. (ignored)
+[3] The Appellant called two witnesses and he himself testified.
+[4] His niece, Louise Morin, explained to the Court that she was the Payor’s executive director and that she had filled that position since 2000. She was responsible for all of the company’s financial and administrative aspects. She was also in charge of six to eight office employees. One of her brothers, Michel Morin, was responsible for the management of operations and her other brother, Jean Morin, was responsible for activities related to the Payor’s mechanical repairs. Ms. Morin explained that her father, Gaston Morin, handed over the administration of the Payor to his three children in 2000. Prior to that date, the Appellant was the sole director of the Payor.
+[5] The Payor had sales of about $6 to $7 million in the years corresponding to the periods in question. The company earned a gross revenue of approximately $2.5 million from snow-clearing operations on roads. The company could also earn $2 to $7 million per year from transporting cut timber and preparing forest roads. The company transported timber for an affiliated company that operated a sawmill until that company was sold in 2005.
+[6] Ms. Morin explained to the Court that the company had 200 to 250 employees of which about 30 were assigned to snow removal.
+[7] She testified that the Appellant performed snow removal in the winter and related work as he did not have a licence for road construction. He did however have a Class 3 licence which allowed him to drive a snowplow and the Payor’s other rolling stock.
+[8] Ms. Morin testified that Dany Gaudreault was the foreman responsible for supervising the Appellant’s activities. Mr. Gaudreault was responsible for determining the Appellant’s duties, work location and working hours. She said she could not recall having met with the Appellant to establish his salary.
+[9] Ms. Morin testified that she asked the Appellant to loan the Payor $35,000. She explained that the sawmill business was experiencing severe financial difficulties following the decline in the price of lumber as a result of the imposition of heavy duties by the American government. A cash flow problem led her to ask the Appellant to loan the Payor money.
+[10] She told the Court that it was not the first time the Appellant had loaned money to the Payor. When she was put in charge of the Payor’s financial and administrative aspects, she noticed that the company had a debt of $30,020. That amount bore an interest rate of 6%. To reimburse the Appellant’s loan, the Payor agreed to pay for goods and services purchased by the Appellant.
+[11] Mr. Hébert, counsel for the Appellant, asked Ms. Morin to explain in her own words a snow removal contract signed by the Appellant and the Municipality of Ste-Jeanne-D’Arc. The contract at Exhibit A-3 was filed in evidence. Ms. Morin testified that her father was the mayor of the Municipality of Ste‑Jeanne‑D’Arc and that the conflict of interest rules prevented the contract from being granted directly to the Payor. Ms. Morin’s father, as mayor, therefore decided to conclude the contract directly with the Appellant. The Appellant concluded an identical subcontract with the Payor.
+[12] Mr. Hébert filed cheques and invoices in a bundle as Exhibit A-4. Those cheques and invoices relate to the year 2007 and are proof that, when the Municipality of Ste-Jeanne-D’Arc issued a cheque registered to the Appellant, he issued an identical cheque to the Payor.
+[13] Ms. Morin said she recalled that the Appellant mainly drove a snowplow for the Municipality of Ste-Jeanne-D’Arc, but that Dany Gaudreault was more familiar with those activities. She explained that Dany Gaudreault was also allowed to drive a snowplow on the Municipality’s roads, as was Henry Morin.
+[14] Finally, Ms. Morin testified that the Appellant did not fill out time sheets, did not punch in and out and did not record his hours. However, according to Ms. Morin, Dany Gaudreault instructed the payroll department to pay the Appellant a salary for his weekly working hours.
+[15] On cross-examination, Ms. Landry, counsel for the Respondent, asked Ms. Morin several questions. First, she asked her if the Appellant’s duties mainly consisted in performing snow removal services. Ms. Morin answered “yes.”
+[16] She asked the witness to specify the hours worked by the Appellant. Ms. Morin explained that the Appellant worked 40 to 45 hours per week. Counsel for the Respondent asked Ms. Morin to explain how work time was managed during severe storms. Ms. Morin stated that she did not know in detail and suggested that Ms. Landry direct that question to Dany Gaudreault who was aware of the operation of snow removal activities.
+[17] Counsel for the Respondent asked the witness to explain why the Appellant’s employment never lasted more than three months. Ms. Morin answered that she did not know why. Ms. Landry asked why the Appellant did not work during severe storm periods. Ms. Morin did not specifically answer that question.
+[18] Ms. Landry also asked the witness to explain why the Appellant worked during the period of June 28 to September 3, 2004, and to explain his duties. The witness indicated that the Appellant knew how to do gravel work for bank stabilization and other similar work, but repeated that counsel should direct the question directly to Dany Gaudreault.
+[19] Counsel for the Respondent questioned the witness about the handwritten pages from the Payor’s accounting records and filed as Exhibit I-1. Ms. Morin explained that the first pages represented the balances owing to the Appellant in 2000 when she took over the administration of the company. Shown in the column [TRANSLATION] “description” were the purchases made by the Appellant under the heading [TRANSLATION] “debits.” Those purchases reduced the loan balance. She explained that the loan obtained by her father, Gaston Morin, on behalf of the Payor, bore an interest of 6% and that there was no written document establishing the terms and conditions of the loan.
+[20] Ms. Landry asked the witness to explain the other record sheets filed in a bundle. Those sheets indicated in the column [TRANSLATION] “hours paid” that the Appellant had been paid for 50 hours of work per week during the periods in question. No hours were entered in the column [TRANSLATION] “hours worked.” The number entered for the beginning of the period starting January 20, 2001, in the column “hours banked” was 600. That number was reduced to zero based on the number of hours paid for the weeks from the period of January 20 to April 7, 2001. Ms. Landry asked the witness whether the Appellant had hours credited to him as if they had been banked. The witness responded “no” and said she did not know why the number of banked hours entered in the record for the start of the Appellant’s period of employment was 600. She also did not know why the balance of the hours banked had been reduced to zero when the Appellant was subsequently paid for the period from January 20 to April 7, 2001. Moreover, the witness did not know why no hours were entered in the column “hours worked,” but were rather entered in the column “hours paid.”
+[21] On cross-examination, Ms. Morin explained that the $35,000 loan she obtained on behalf of the Payor from the Appellant was not subject to any terms and conditions of repayment and that the two parties did not agree on the payment of interest. She explained that her father was not aware of the loan when she obtained it but that she informed him later. She indicated that her father delegated the responsibility for financial operations to her and that, therefore, she was not required to seek authorization from him to obtain the loan on behalf of the company.
+[22] Ms. Landry asked the witness to look at Exhibit I-4, which was a letter attesting to the Appellant’s hospitalization during three periods, from October 11 to October 16, 2000, from November 17 to November 24, 2000, and from April 3 to April 4, 2001. A second letter filed in a bundle indicated that the Appellant had been hospitalized from October 16 to November 2, 2000, at the acute care unit, including a stay in the intensive care unit from October 16 to October 19, 2000. Ms. Landry asked Ms. Morin to explain how the Appellant could have worked during the period from January 15 to April 6, 2001, after having suffered serious injuries for which he was hospitalized until November 24, 2000, and for which he was again hospitalized on April 3 and 4, 2001, owing to serious lung infections. The witness replied that if the Appellant was paid it was because he worked.
+[23] Dany Gaudreault was called. The witness explained that he had been a foreman for the Payor for 15 years.
+[24] Mr. Gaudreault testified that the Appellant mainly worked on the roads of the Municipality of Ste-Jeanne-D’Arc and that he may have at times been required to work elsewhere. The Appellant was able to start in the middle of the winter season because he was also in charge of snow removal activities in the Municipality of St-Augustin. The Appellant replaced Mr. Gaudreault in the middle of the winter season when he was required to start planning for the summer season.
+[25] Mr. Gaudreault testified that he wrote down the hours the Appellant worked in a notebook he kept in his pocket. He indicated to the Court that he had destroyed the notebook, which explains why it was not adduced in evidence. He explained that Ms. Morin determined the number of hours the Appellant had to work which was about 40 to 50 hours per week. He recalled that it was Ms. Morin who set the Appellant’s salary. The witness indicated that he was only responsible for the Appellant’s working hours, work location and work schedule.
+[26] He testified that the Appellant was also capable of performing mechanical maintenance on equipment that was in a barn situated near his property. The Appellant telephoned him at the beginning and end of his shift to inform him of the hours worked.
+[27] Counsel for the Appellant questioned the witness about the fact that the Appellant did not work during the winter of 2004 and rather worked from June 28 to September 3, 2004. The witness explained that since it had been a mild winter, he alone was sufficient for the task of snow removal. He testified that Gaston Morin wanted the Payor’s employees to take care of stable repairs and the preparation of gravel roads. Mr. Gaudreault entrusted that work to the Appellant.
+[28] During the examination in chief, the Appellant recounted that he began working for the Payor in 1963. He was quickly promoted to the position of foreman and then held the position of chief executive officer of the Payor until the end of 1999. At the time, his brother had told him that he wanted his own children to take over the company’s management and activities. The Appellant testified having asked Dany Gaudreault if he required his services in January 2001. He explained that his main duties were to drive a snowplow, spread sand on roads and perform mechanical repairs. He stated that, more often than not, it was Mr. Gaudreault who called him to ask him to do snow removal. Other employees could call him when Mr. Gaudreault was absent.
+[29] The Appellant explained the causes that led to his hospitalization on several occasions in 2000 and in 2001. He testified that he broke several ribs in a fall in October 2000. He did not receive employment insurance benefits during the first period of his hospitalization. He returned to work for the Payor during the period from January 15 to April 6, 2001, as he was able to work. Toward the end of that period, he noticed a new pain in his ribs, so he went to Montréal where he was hospitalized again, as an acute abscess had formed following a surgical intervention. The witness then explained the duties performed within the Payor during the periods he claims having been employed with the company. He explained to the Court that he found himself without benefits and work during several periods.
+[30] He testified that he first loaned $23,000 to the company on July 6, 1993, and that when his niece took control of the company’s finances, that amount rose to $30,000. The loan bore interest of 6%. The Payor reimbursed the loan by paying for purchases made by the Appellant.
+[31] On cross-examination, the witness explained that he started doing snow removal later in the winter season because he and Dany Gaudreault could handle the snow removal work for the Municipality of Ste‑Jeanne‑D’Arc on their own. Counsel for the Respondent asked why, for each employment period, he only worked the number of weeks required to qualify for benefits. He replied that his workweeks were established by Mr. Gaudreault. Counsel for the Respondent asked the Appellant to review the excerpt from the accounting records filed as Exhibit I-1 and to explain why 600 hours had been entered as being banked by him at the beginning of 2001. The only explanation he offered is that it was probably an accounting error made by the Payor.
+[32] Counsel for the Respondent asked the witness why he prematurely ended his interview with the investigating officer from Human Resources Development Canada (HRDC, now Human Resources and Social Development Canada). He explained that he was afraid he would make a mistake and that he did not recall the exact dates of his hospitalization. He was afraid that the investigating officer would mislead him. As a result, he refused to continue the interview and sign the declaration.
+[33] Counsel for the Respondent called Réal Couture to testify. Mr. Couture held the position of major investigations specialist with HRDC during the periods in question. He explained to the Court that he was charged with the responsibility of conducting a thorough investigation of the Payor. With the help of the Royal Canadian Mounted Police, he proceeded to seize important documents from the Payor. After verifying the seized documents, he found that about 180 employees had committed statutory infractions. In most cases, the employees were called to work during periods over which they received benefits. They did not receive any pay for their working hours, but the hours were credited to them as banked hours. Those hours were paid and claimed as hours worked during the periods in which they did not receive benefits.
+[34] Mr. Couture explained the circumstances of the intereview with the Appellant. The purpose of the meeting was to find out the facts that would allow the Minister to decide the Appellant’s case. He explained that in the beginning the Appellant cooperated and answered the questions posed to him. Later in the meeting, the Appellant adopted a belligerent attitude by stating that things were going to get unpleasant. The Appellant then asked Mr. Couture whether he would answer the questions posed if he were in his place. Mr. Couture replied that he would answer the questions if he had nothing to hide. It was at that point that the Appellant smiled and ended the interview.
+[35] Counsel for the Respondent filed in evidence Exhibit I-6 prepared by Mr. Couture. That exhibit indicated that the Appellant only worked during the number of weeks that were necessary to qualify for benefits. He subsequently stopped working and was entitled to receive benefits for long periods of time. According to the investigating officer, that behaviour indicated that the worker was in collusion with the company to meet the minimum requirements prescribed by law, or at least in appearance. The investigating officer explained that he examined in detail the accounting records of the Payor as well as Exhibit I-1. He sought in vain the rationale behind the number of 600 hours being indicated as hours banked by the Appellant at the start of the 2001 period. He found no explanation for those banked hours but suspected that they had been credited to him by the Payor, in consideration of the loans that the Appellant made to the Payor, so as to make him eligible for employment insurance.
+[36] Lyne Courcy, the Canada Revenue Agency (CRA) appeals officer, provided the reasons that led her to conclude that the Appellant’s employment was not insurable. First, she explained that she doubted that the Appellant had actually worked during the periods in question. She found it astonishing that the Appellant was able to resume his duties at the Payor in January 2001 after having suffered serious injuries at the end of 2000. Second, the Appellant, unlike all the other company employees, was not required to justify the number of hours worked, and the Payor did not note the hours he worked and did not follow up on the issue. Ms. Courcy testified that the Payor agreed not to monitor the hours the Appellant worked only because he was related to the Payor’s shareholder and management. Finally, she explained that all the other workers performed their duties during periods of heavy snowfalls whereas the Appellant was only called to work once the periods of high precipitation ended. For these reasons, Ms. Courcy concluded that the Appellant’s employment was not insurable on the grounds that the terms and conditions of his employment were not similar to those of a person dealing with the Payor at arm’s length.
+I. The parties’ positions
+[37] Counsel for the Appellant argues that the Appellant’s case is different from that of the other employees of the Payor who allegedly committed infractions in collaboration with the latter. In the other cases, the workers banked working hours during the period in which they received employment insurance benefits and they received remuneration for those hours when they were no longer eligible for benefits. Counsel for the Appellant first argues that Ms. Couture did not provide any evidence that the hours indicated as being banked in the Appellant’s case were hours credited to him so as to be used later. Second, he submits that the Minister should not have taken into account the loan in rendering his decision. He argues that three witnesses, including the Appellant, stated that the Appellant did indeed work for the company during the periods in question and that he earned a salary of $16 per hour which was comparable to that of the other company employees. He submits that the infractions allegedly committed by the other workers, who have nothing to do with his client’s case, unduly influenced the Minister’s decision. He stated that the Minister based his decision on impressions or suspicions and not on the relevant facts of the terms and conditions of his client’s employment.
+[38] Counsel for the Respondent submits that the Appellant, by his actions, is responsible for the negative decisions made in his case. On the one hand, the Appellant refused to co-operate during the investigation. On the other, Ms. Landry argues that, if the Appellant’s work was so important, he would have worked during the periods of heavy snowfall. If he did not work, it is because his work was not important and the terms and conditions of his employment were established just to make him eligible for employment insurance benefits. The other company employees performed snow removal duties during snowstorms. The Appellant rather worked when the weather was milder. Counsel highly doubts that the Appellant worked during the entire period indicated and that he was able to resume his duties at the company after his hospitalization in 2000.
+[39] Furthermore, Counsel for the Respondent argued that all the other unrelated company employees were required to account for the hours they worked on behalf of the company and that those hours were entered in the company’s records. Mr. Gaudreault’s notebook was disposed of. The Appellant stated that he noted his hours himself and that he entered them in a notebook he kept at home which he did not see fit to adduce in evidence. Counsel for the Respondent submits that the mere fact of not having to record his hours distinguishes the Appellant from the employees who were dealing with the Payor at arm’s length. She submits that the Minister’s decision was neither unreasonable nor whimsical, but that it was based on the fact that the terms and conditions of the Appellant’s employment were not similar to those of the other company employees.
+II. Analysis
+[40] In reaching his determination, the Minister relied on paragraphs 5(2)(i) and 5(3)(b) of the Employment Insurance Act, which read as follows:
+5(2) Insurable employment does not include
+. . .
+(i) employment if the employer and employee are not dealing with each other at arm’s length.
+5(3) For the purposes of paragraph (2)(i),
+. . .
+(b) if the employer is, within the meaning of that Act, related to the employee, they are deemed to deal with each other at arm’s length if the Minister of National Revenue is satisfied that, having regard to all the circumstances of the employment, including the remuneration paid, the terms and conditions, the duration and the nature and importance of the work performed, it is reasonable to conclude that they would have entered into a substantially similar contract of employment if they had been dealing with each other at arm’s length.
+[41] The Appellant admitted that he was related to the Payor. He however disputes the Minister’s decision that, having regard to all the circumstances of the employment, including the terms and conditions, it is not reasonable to conclude that the Appellant and the Payor would have entered into a substantially similar contract of employment if they had been dealing with each other at arm’s length.
+[42] During the submissions, counsel for the Respondent aptly summarized the state of the law on that issue. She cited, inter alia, the decision of the Federal Court of Appeal in Légaré v. Canada, [1999] F.C.J. No. 878 (QL), where the issue was fully discussed. Marceau J.A. rendered his decision on behalf of the two other judges and stated as follows at paragraph 4 of the decision:
+4 The Act requires the Minister to make a determination based on his own conviction drawn from a review of the file. The wording used introduces a form of subjective element, and while this has been called a discretionary power of the Minister, this characterization should not obscure the fact that the exercise of this power must clearly be completely and exclusively based on an objective appreciation of known or inferred facts. And the Minister's determination is subject to review. In fact, the Act confers the power of review on the Tax Court of Canada on the basis of what is discovered in an inquiry carried out in the presence of all interested parties. The Court is not mandated to make the same kind of determination as the Minister and thus cannot purely and simply substitute its assessment for that of the Minister: that falls under the Minister's so-called discretionary power. However, the Court must verify whether the facts inferred or relied on by the Minister are real and were correctly assessed having regard to the context in which they occurred, and after doing so, it must decide whether the conclusion with which the Minister was "satisfied" still seems reasonable.
+She also cited paragraph 5 of the judgment rendered by Richard C.J. of the Federal Court of Appeal, concurred in by Létourneau and Noël JJ.A., in Denis v. Canada, 2004 FCJ 26:
+5 The function of the Tax Court of Canada judge in an appeal from a determination by the Minister on the exclusion provisions contained in subsections 5(2) and (3) of the Act is to inquire into all the facts with the parties and the witnesses called for the first time to testify under oath, and to consider whether the Minister's conclusion still seems reasonable. However, the judge should not substitute his or her own opinion for that of the Minister when there are no new facts and there is no basis for thinking that the facts were misunderstood (see Pérusse v. Canada (Minister of National Revenue - M.N.R.), [2000] F.C.J. No. 310, March 20, 2000).
+[43] My understanding of this case is that the role of the Tax Court of Canada is to conduct a trial at which both parties may adduce evidence as to the terms and conditions of the Appellant’s employment and the terms and conditions of employment of persons unrelated to the Payor with a view to establishing the whether the Minister’s decision was reasonable in the circumstances. The Court must dispose of the matter on the basis of all the evidence having regard to the credibility of the witnesses.
+[44] In that regard, the Court did not find Ms. Morin’s testimony credible. On several occasions, she tried to avoid answering the questions by asking counsel for the Respondent to pose those same questions to Dany Gaudreault. In my view, Ms. Morin was aware of the terms and conditions of the Appellant’s employment, but she refused to testify in a truthful manner. Also, I must draw a negative inference from the fact that Ms. Morin was directly involved in the infractions committed by about 180 other employees of the Payor. It stands to reason that the practice of banking hours to pay them when beneficiaries are no longer eligible to receive benefits is a false practice which is indicative of a certain reckless disregard for enforcement of the Act on the part of the witness. Furthermore, I note the contradictions between Ms. Morin’s testimony and that of Dany Gaudreault. Mr. Gaudreault testified that he called Ms. Morin to inform her of the hours worked by the Appellant. Ms. Morin however testified that Mr. Gaudreault reported the hours directly to the payroll department. She was unable to provide any credible explanation to justify why the Appellant’s working hours were not indicated in the company books, unlike what was done in the case of all the other company employees. Her sole explanation is that the Appellant was not an employee like the others as he was once the company’s chief executive officer and that he was related to her family. Compared to the other employees, he had more freedom to act.
+[45] It is those very facts that the Minister alleges against the Appellant. All of the company’s employees were subject to monitoring of hours worked, except for the Appellant. In my opinion, that in itself is sufficient to conclude that the terms and conditions of the Appellant’s employment were not similar to those of the other employees. No explanation was provided for the banked hours that were credited to the Appellant at the start of the 2001 period. Ms. Morin explained that it had to be an error on the part of the accountant who is no longer employed with the company. The Court must ask itself the following question: why did the Appellant or his counsel not deem it appropriate to ask the accountant to testify?
+[46] I note that the company applied for an input tax credit on the purchases of personal goods and services made by the Appellant. That practice is obviously indicative of an utter and reckless disregard for the enforcement of tax laws on the part of the company.
+[47] As for the Appellant’s testimony, the Court did not find it credible either. The Appellant was content to read the handwritten notes he prepared and did not testify in a truthful manner. His conduct during his interview with Mr. Couture indicates that he had something to hide.
+[48] The Court has already noted the contradictions between the testimony of Dany Gaudreault and that of Louise Morin. The Court doubts that Mr. Gaudreault determined the hours worked by the Appellant and that he monitored his hours.
+[49] Accordingly, the Court finds that the Minister’s decision in the circumstances was reasonable and the appeals are dismissed.
+Signed at Ottawa, Canada, this 22nd day of January 2009.
+“Robert J. Hogan”
+Hogan J.
+Translation certified true
+on this 11th day of March 2009.
+Daniela Possamai, Translator
+CITATION: 2009 TCC 46
+COURT FILE NOS.: 2008-46(EI), 2008-628(EI)
+STYLE OF CAUSE: CLAUDE MORIN v. M.N.R.
+PLACE OF HEARING: Chicoutimi, Quebec
+DATE OF HEARING: October 22, 2008
+REASONS FOR JUDGMENT BY: The Honourable Justice Robert J. Hogan
+DATE OF JUDGMENT: January 22, 2009
+APPEARANCES:
+Counsel for the Appellant:
+Pierre Hébert
+Counsel for the Respondent:
+Marie-Claude Landry
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Pierre Hébert
+Firm: Simard, Boivin, Lemieux, Counsel
+Dolbeau-Mistassini, Quebec
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

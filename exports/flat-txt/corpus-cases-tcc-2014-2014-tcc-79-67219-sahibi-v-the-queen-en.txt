@@ -1,0 +1,120 @@
+Title: Sahibi v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/67219/index.do
+Corpus path: corpus/cases/tcc/2014/2014-tcc-79-67219-sahibi-v-the-queen-en.md
+Document type: case_law
+Last modified: 2014-03-11
+
+# Sahibi v. The Queen
+
+- Citation: 2014 TCC 79
+- Decision date: 2014-03-11
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5310, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Sahibi v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2014-03-11
+Neutral citation
+2014 TCC 79
+File numbers
+2013-3290(GST)APP
+Judges and Taxing Officers
+Kathleen T. Lyons
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2013-3290(GST)APP
+BETWEEN:
+AMANULLAH SAHIBI,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Application for extension of time heard
+on February 12, 2014 at Toronto, Ontario.
+Before: The Honourable Justice K. Lyons
+Appearances:
+For the Applicant:
+The Applicant himself
+Counsel for the Respondent:
+Stephen Oakey
+____________________________________________________________________
+ORDER
+The application for an extension of time to object filed pursuant to the Excise Tax Act is dismissed, in accordance with the attached Reasons for Order.
+Signed at Vancouver, British Columbia, this 11th day of March 2014.
+"K. Lyons"
+Lyons J.
+Citation: 2014 TCC 79
+Date: 20140311
+Docket: 2013-3290(GST)APP
+BETWEEN:
+AMANULLAH SAHIBI,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Lyons J.
+[1] This is an application for an Order for an extension of time to object to reassessments made under the Excise Tax Act (the “Act”). This application is made pursuant to section 304 of the Act from the decision by the Minister of National Revenue (the “Minister”) refusing to grant the applicant an extension of the time to file notices of objection.
+[2] The notices of reassessment were made on March 9, 2011 and April 12, 2011 for the reporting periods from January 1, 2006 to December 31, 2006, and from January 1, 2007 to December 31, 2007, respectively (“2006” and “2007” and collectively the “Periods”).
+[3] The applicant admitted that he did not file notices of objection (“Objections”) to the reassessments for the Periods within the ninety days stipulated in subsection 301(1.1) of the Act.
+[4] The applicant made an application to the Minister to extend the time for filing the Objections. The application is dated July 23, 2012, and was received by the Minister on July 25, 2012.
+[5] On August 24, 2012, the Minister notified the applicant that his application was refused because it had not been filed within one year after the expiration of the ninety-day time limit for objecting (“one year and ninety-day time limit”), from the date of each reassessment, as required under section 303 of the Act.
+[6] On August 29, 2013, the applicant filed with the Registrar of this Court an application to extend the time for filing Objections.
+[7] The applicant contends that he filed an application with the Minister within the one year and ninety-day time limit.
+[8] The respondent argued that no application to extend the time to object was filed with the Minister until July 23, 2012. Since that is beyond the one year and ninety days from the date of each reassessment for the Periods, the applicant has failed to meet the mandatory time limit in paragraph 303(7)(a), therefore the Court has no jurisdiction to grant an application under section 304 of the Act.
+[9] Subsection 301(1.1) of the Act grants to a person within ninety days, after the day the assessment is sent to the person by the Minister, the right to file an objection with the Minister with respect to the assessment.
+[10] If an objection is not filed within the ninety days, section 303 of the Act enables a person to make an application to the Minister to extend the time for filing an objection within the one year and ninety-day time limit for objecting.
+[11] Paragraph 303(7)(a) of the Act lists the first condition a person must meet to obtain an extension. It states:
+(7) When order to be made - No application shall be granted under this section unless
+(a) the application is made within one year after the expiration of the time otherwise limited by this Part for objecting …
+[12] If the Minister refuses to grant the application, as in the present situation, section 304 enables a person to apply to this Court for an order to grant an application for an extension of time to accept a late-filed objection.
+[13] However, paragraph 304(5)(a) of the Act does not permit this Court to grant an application unless the application previously filed with the Minister had been made within one year after the expiration of the ninety-day time limit for objecting, as required by paragraph 303(7)(a) of the Act.
+[14] The applicant testified that the primary reason he did not file Objections within the ninety days after the reassessments (deadlines expiring on June 7, 2011 for 2006 and July 11, 2011 for 2007) is that he was misinformed by accountants and he could not afford to pay the accountants in advance. They told him it was unnecessary to object to the goods and services tax (“GST”) reassessments for the Periods until after his income tax objections for 2006 and 2007 had been resolved. His said that his other reason for not objecting within the ninety-day timeframe was his belief that the same official at the Canada Revenue Agency (“CRA”) should have dealt with both the income tax and GST matters.
+[15] At some point, the applicant became aware that he was beyond the ninety‑day period for objecting.
+[16] The applicant testified that he had filed a notice of objection form (“Form”) with the CRA indicating his intention to object to the Periods. He estimated that it was filed possibly four or six weeks before July 23, 2012 but he was unsure.
+[17] During a subsequent call with the CRA, he discovered that the Form had not been received and it took him some time to obtain another form. The other form is dated July 23, 2012 and was tendered as evidence by the respondent at the hearing showing it was signed by the applicant and received by the CRA on July 25, 2012 (“July 23, 2012 application”). The applicant stated on the July 23, 2012 application that it was an application to extend the time to object to the GST for the Periods, and because of financial difficulties he was unable to hire a tax lawyer.
+[18] On August 24, 2012, the Minister notified the applicant that he could not grant the extension as the July 23, 2012 application was beyond the one year and ninety-day time limit after the date of each reassessment for 2006 and 2007.
+[19] In an affidavit of May Chui, an Officer in the Toronto office of the CRA, filed on behalf of the respondent, Ms. Chui states that she has charge of the appropriate CRA records and has knowledge of the CRA practices, and with respect to the applicant’s application for an extension of time to object to the GST for the Periods she states:
+11. After a careful examination and search of the Agency’s records, I have been unable to find that the Applicant made applications for extension of time to object with respect to the Periods to the Minister within 1 year and 90 days of the dates of the reassessments.
+[20] During cross-examination, the applicant acknowledged that in filing his July 23, 2012 application with the Minister, and subsequently filing his August 29, 2013 application with the Court, he did not make any reference to filing the Form with the CRA in the weeks preceding his July 23, 2012 application made to the Minister. On a question put to him by respondent’s counsel, the applicant said he did not think he needed to mention that he had filed the Form and made a mistake in not referring to that in either application. He also acknowledged that the Form merely stated his intention to object to the GST without providing any reasons.
+[21] With respect to 2006 (the one year and ninety-day time limit having expired on June 6, 2012), even if the Form had been sent to the CRA according to the applicant’s estimate that he had sent it four to six weeks before filing the July 23, 2012 application, and even if his intent to object could be construed as an application, the Form would have still been beyond the one year and ninety-day time limit from the date of the March 9, 2011 reassessment.
+[22] With respect to 2007 (the one year and ninety-day time limit having expired on July 10, 2012), for the reasons that follow I have difficulty with the reliability of the applicant’s evidence as it relates to sending the Form. Other than his statement during his testimony that the Form was filed with the CRA, the applicant provided no documentary evidence to corroborate his testimony such as providing a copy of the Form. That alone would not have been fatal to the application.
+[23] However, that in tandem with the following factors leads me to conclude that no Form was sent within the one year and ninety-day time limit based on the evidence. During his testimony he estimated, as previously noted, when he thought he sent the Form but then went on to say he was unsure. In completing the Form, he said he made a very brief statement expressing a mere intention to object without providing any reasons. He also said that he had tried to hire accountants, but in his July 23, 2012 application he stated he was unable to hire a tax lawyer. The applicant failed to identify in the July 23, 2012 application to the Minister, and the subsequent application to the Court, any reference to having previously sent the Form to the CRA. I note that it appears to have taken the applicant a considerable period of time to bring the application to this Court after the Minister made his decision. One would have expected the applicant to have taken a less casual approach to his affairs than he took as illustrated in the various matters outlined.
+[24] I find that the evidence in the affidavit of Ms. Chui to be more reliable and prefer her evidence over the applicant’s. I therefore find that the July 23, 2012 application was the only application filed with respect to the Periods, which was made beyond the one year and ninety-day time limit stipulated in paragraph 303(7)(a) of the Act. Therefore, no application could have been granted by the Minister nor can be granted by this Court under section 304.
+[25] In argument, counsel for the respondent cited and relied on factors in Ellenton v Canada, 2010 TCC 441, [2010] TCJ No. 352 (QL) in support of the respondent’s position. He also relied on a series of Federal Court of Appeal decisions, referenced in Ellenton, which mandate that there must be strict compliance with the statutory time limits for filing objections and appeals under the Act and similar provisions in the Income Tax Act. Pereira v Canada, 2008 DTC 6709 (FCA), and Canada v Carlson, 2002 DTC 6893 (FCA) were two of the most recent decisions on point.
+[26] As such, this Court has no jurisdiction and cannot grant the application as the applicant has missed the time limit established in the legislation.
+[27] For these reasons, I conclude that the application to extend the time to object made to this Court under section 304, filed on August 29, 2013, cannot succeed as the applicant failed to comply with paragraph 303(7)(a) of the Act when he filed his application with the Minister beyond the one year and ninety-day time limit from the date of each reassessment for the Periods.
+[28] My finding is as stated above. However, I observe that it appears that the Court would have no jurisdiction, in any event, because the applicant also failed to bring the application to the Court (filed on August 29, 2013), within the thirty days after the Minister made his decision (on August 24, 2012) as required by subsection 304(1) of the Act. This is apparent from a copy of the registered letter, dated August 24, 2012, sent to the applicant by the Minister, and is attached to the application the applicant filed with the Court; the decision is also referenced in a letter from the CRA, dated May 9, 2013, to the applicant that was filed as evidence at the hearing. This point was not argued at the hearing.
+[29] The application is dismissed.
+Signed at Vancouver, British Columbia, this 11th day of March 2014.
+"K. Lyons"
+Lyons J.
+CITATION: 2014 TCC 79
+COURT FILE NO.: 2013-3290(GST)APP
+STYLE OF CAUSE: AMANULLAH SAHIBI and
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: February 12, 2014
+REASONS FOR ORDER BY: The Honourable Justice K. Lyons
+DATE OF ORDER: March 11, 2014
+APPEARANCES:
+For the Applicant:
+The Applicant himself
+Counsel for the Respondent:
+Stephen Oakey
+COUNSEL OF RECORD:
+For the Applicant:
+Name: n\a
+Firm:
+For the Respondent: William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

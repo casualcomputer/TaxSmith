@@ -1,0 +1,223 @@
+---
+title: "Lyon v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/310824/index.do"
+last_modified: "2018-05-08"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2018 TCC 89"
+citation2: ""
+neutral_citation: "2018 TCC 89"
+decision_date: "2018-05-08"
+language: "en"
+item_id: "310824"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4695
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T11:48:14.982000+00:00"
+cases_cited_count: 6
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "d8a8f923202dfcf25485bf58b83d68c1399b9a7e63c3ca801852bbe4bea98355"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Lyon v. The Queen
+
+- Citation: 2018 TCC 89
+- Decision date: 2018-05-08
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4695, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Lyon v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2018-05-08
+Neutral citation
+2018 TCC 89
+File numbers
+2017-10(EI), 2017-9(CPP)
+Judges and Taxing Officers
+Guy R. Smith
+Subjects
+Canada Pension Plan
+Employment Insurance Act
+Decision Content
+Dockets: 2017-9(CPP)
+2017-10(EI)
+BETWEEN:
+KEARSTEN M. LYON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on November 28 and December 5, 2017, at Toronto, Ontario.
+Before: The Honourable Justice Guy R. Smith
+Appearances:
+Counsel for the Appellant:
+Jordan Reiner
+Counsel for the Respondent:
+Kieran Lidhar
+JUDGMENT
+In accordance with the attached Reasons for Judgment, the appeals are allowed on the basis that the Appellant was engaged in pensionable and insurable employment under the provisions of subsections 6(1) and 5(1) of the Canada Pension Plan and the Employment Insurance Act, respectively.
+Signed at Ottawa, Canada, this 8th day of May 2018.
+“Guy Smith”
+Smith J.
+Citation: 2018 TCC 89
+Date: 20180508
+Dockets: 2017-9(CPP) 2017-10(EI)
+BETWEEN:
+KEARSTEN M. LYON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Smith J.
+I. INTRODUCTION
+[1] This is an appeal by Kearsten M. Lyons (the “Appellant”) from a decision of the Minister of National Revenue (the “Minister”) dated December 1, 2016 establishing that she was not engaged in pensionable employment within the meaning of paragraph 6(1)(a) of the Canada Pension Plan, R.S.C. 1985, c. C‑8 or in insurable employment within the meaning of paragraph 5(1)(a) of the Employment Insurance Act, R.S.C. 1985, c. 23.
+[2] The issue in this appeal is whether the Appellant was engaged in a contract for services or a contract of services with Peter Tzakas, (the “Payer”) during the period from January 1, 2015 to June 18, 2016.
+II. BACKGROUND FACTS
+[3] The Payer is a licensed chiropractor who operates a multi‑disciplinary health care clinic providing chiropractic services, physiotherapy services, massage therapy, acupuncture, Pilates and naturopathic medicine. It is known as Kinetica Health Group (“Kinetica”).
+[4] The Appellant joined Kinetica in 2008 and initially worked as a receptionist and office administrator. Her tasks included typical clerical work, billings, returning client calls and e-mails, as well as appointment bookings and light cleaning of the premises.
+[5] There was no written agreement between the parties but they signed a confidentiality agreement at the commencement of the relationship. It is dated August 21, 2008.
+[6] Commencing in 2010, the Appellant assumed additional responsibilities. After some training, she was able to work as a chiropractic and physiotherapy assistant, also described as a rehabilitation aide and, sometime later, as a Certified Pilates Instructor.
+[7] As a chiropractic or physiotherapy assistant, she would assist patients with their exercise routines as established by the referring chiropractor or physiotherapist. Although she had some latitude with respect to the actual exercises, she was subject to over‑sight by the referring professional.
+[8] For instance, as a licensed physiotherapy assistant, she was subject to the rules and regulations as established by the College of Physiotherapists. In particular, according to the “Standard for Professional Practise: Physiotherapists Working with Physiotherapists Assistants” (Exhibit A‑3), it was clear that the clinician remained responsible for the patient’s care and had to “provide a level of supervision suitable for the patient’s condition, the clinical environment, the abilities of the physiotherapists assistant and any other relevant factor”. She was clearly in a subordinate position. If there were difficulties, she had to seek instructions from the referring health professional.
+[9] Similar rules applied to her services as a chiropractic assistant, but she had more flexibility for the Pilates sessions, given her accreditation as an instructor. Since this was not considered a medical service, she was not subject to over-sight by the referring health professional, if any.
+[10] From 2008 until January 1, 2016, the Appellant was remunerated as an independent contractor. She was initially paid on an hourly basis at the rate of $15.00 per hour for her services as a receptionist, office assistant or administrator. As she trained, developed and acquired skills as a chiropractic and physiotherapy assistant, a fee structure was established and she was paid a set percentage of the fees charged to patients for the exercise routines (60% in the case of chiropractic services and 40% for physiotherapy services). She was paid a higher percentage for Pilates sessions.
+[11] All staff members at Kenetica, including the Appellant (but excluding the health professionals) were paid based on a timesheet referred to as the “pay sheet” that computed the hours worked. The Payer had authority to adjust the timesheet if he disagreed with the information it contained.
+[12] In 2016, after hiring an accountant to deal with the late filings of her income taxes, the Appellant was advised that she should have been billing for GST. Based on this advice, the Appellant applied for a GST number and filed a voluntary disclosure form with the Canada Revenue Agency (“CRA”) with respect to the unremitted GST.
+[13] She raised the matter with the Payer and informed him that she would have to bill Kenetica retroactively for the outstanding GST. In April 2016, it was mutually agreed that the Appellant (along with other staff at the clinic) would become an employee of Kenetica retroactive to January 1, 2016, with all the necessary source deductions, including EI and CPP, being made and remitted. However, this arrangement did not last long, as there was a falling out that resulted in the Appellant being terminated from her employment effective June 18, 2016.
+[14] The Appellant now denies that she was working as an independent contractor and claims that she had been working as an employee or pursuant to a contract of services since the beginning of the working relationship in 2008.
+III. THE LAW AND ANALYSIS
+[15] The applicable test to determine whether an individual is rendering services as an employee or as an independent contractor, was expressed as a two‑step process whereby the Court must first consider the subjective intent of each party to the working relationship and secondly, analyse the actual working relationship in order to ascertain whether, when viewed objectively, it is consistent with that intention: 1392644 Ontario Inc. o/a Connor Homes v. Minister of National Revenue, 2013 FCA 85 (“Conner Homes”).
+[16] This test was articulated as follows:
+[33] As a result, Royal Winnipeg Ballet stands for the proposition that what must first be considered is whether there is a mutual understanding or common intention between the parties regarding their relationship. Where such a common intention is found, be it as independent contractor or employee, the test set out in Wiebe Door is then to be applied by considering the relevant factors in light of that mutual intent for the purpose of determining if, on balance, the relevant facts support and are consistent with the common intent (…)
+i) Common intention of the parties
+[17] This factor proved to be decisive in the decision of the Royal Winnipeg Ballet v. Minister of National Revenue, 2006 FCA 87 (“Royal Winnipeg Ballet”), where the common understanding of the parties was that the ballet dancers were independent contractors:
+[63] What is unusual in this case is that there is no written agreement that purports to characterize the legal relationship between the dancers and the RWB, but at the same time there is no dispute between the parties as to what they believe that relationship to be. The evidence is that the RWB, the CAEA and the dancers all believed that the dancers were self‑employed, and that they acted accordingly. The dispute as to the legal relationship between the dancers and the RWB arises because a third party (the Minister), who has a legitimate interest in a correct determination of that legal relationship, wishes to assert that the evidence of the parties as to their common understanding should be disregarded because it is not consistent with the objective facts.
+[64] In these circumstances, it seems to me wrong in principle to set aside, as worthy of no weight, the uncontradicted evidence of the parties as to their common understanding of their legal relationship, even if that evidence cannot be conclusive. The Judge should have considered the Wiebe Door factors in the light of this uncontradicted evidence and asked himself whether, on balance, the facts were consistent with the conclusion that the dancers were self‑employed, as the parties understood to be the case, or were more consistent with the conclusion that the dancers were employees. Failing to take that approach led the Judge to an incorrect conclusion.
+(My Emphasis.)
+[18] In the earlier decision of Wolf v. The Queen, 2002 FCA 96, a significant amount of emphasis was placed on the fact that the worker in question (“a mechanical engineer specializing in aerospace”) regarded himself as an independent contractor. The Court expressed the view that the express intent of the parties should generally prevail in ascertaining whether the relationship is one of employer-employee or an independent contractor. The Court indicated that:
+[120] In our day and age, when a worker decides to keep his freedom to come in and out of a contract almost at will, when the hiring person wants to have no liability towards a worker other than the price of work and when the terms of the contract and its performance reflect those intentions, the contract should generally be characterized as a contract for services. If specific factors have to be identified, I would name lack of job security, disregard for employee-type benefits, freedom of choice and mobility concerns.
+[19] In this instance, both the stated intention of the parties and how they legally classified their working relationship, has changed radically over time. When the Appellant started working at Kenetica, she performed tasks that were clerical and administrative in nature and she, along with other staff members, were paid on an hourly basis. Since both parties agreed that she was an independent contractor, there were no source deductions for income taxes, CPP or EI.
+[20] As the Appellant’s role changed over time, and as she acquired her skills as a rehabilitative aide and later, offered Pilates sessions, the same legal relationship was maintained and she continued to be paid as an independent contractor.
+[21] From the evidence, it is apparent that until 2016, the Appellant believed that she was an independent contractor. This is evident from the fact that she registered for GST purposes, attempted to invoice the Payer for GST on a retroactive basis and filed a voluntary disclosure form with the CRA for the unremitted GST, all on the recommendation of her accountant.
+[22] The Respondent argues that the change in status, from independent contractor to employee, retroactive to January 1, 2016, should be viewed with some suspicion as it was a mere accommodation by the Payer, intended to alleviate the Appellant’s apparent financial hardship arising from the fact that she was obliged to remit GST that she had not in fact collected.
+[23] The Respondent maintains that there was a common intention from the beginning that the Appellant was to be an independent contractor and that, notwithstanding the accommodation in 2016, if the Court concludes that such a mutual intention was not present, it should disregard the first part of the Connor Homes test and look at the objective reality of the relationship.
+[24] The Appellant maintains that the common intention for 2016 was clearly that she was to be an employee retroactive to January 1, 2016 and that there is no reason for the Court to conclude otherwise. She argues that this was more than just an accommodation for her benefit since the status of all clerical and administrative staff members was also changed at that time.
+[25] In the end, it is apparent that the Appellant believed, at least initially, that she was an independent contractor from the beginning of the relationship, until December 31, 2015.
+[26] Whether that belief reflected the objective reality of the relationship, must now be addressed by the Court. A similar analysis must be conducted for 2016.
+ii) Objective reality of the working relationship
+[27] As noted by Mainville J.A. in Connor Homes, supra, (para. 40), “… the subjective intent of the parties cannot trump the objective reality of the relationship as ascertained through objective facts”. The Court must therefore consider and review that objective reality.
+[28] At the outset of this analysis, it is important to consider that the Courts have established that no single objective test is determinative when it comes to establishing whether an individual is an employee or an independent contractor. In 671122 Ontario Ltd. v. Sagaz Industries Canada Inc., 2001 SCC 59 (“Sagaz Industries”), Major J. explained it as follows:
+46 In my opinion, there is no one conclusive test which can be universally applied to determine whether a person is an employee or an independent contractor. Lord Denning stated in Stevenson Jordan, supra, that it may be impossible to give a precise definition of the distinction (p. 111) and, similarly, Fleming observed that “no single test seems to yield an invariably clear and acceptable answer to the many variables of ever changing employment relations . . .” (p. 416). Further, I agree with MacGuigan J.A. in Wiebe Door, at p. 563, citing Atiyah, supra, at p. 38, that what must always occur is a search for the total relationship of the parties:
+[I]t is exceedingly doubtful whether the search for a formula in the nature of a single test for identifying a contract of service any longer serves a useful purpose.... The most that can profitably be done is to examine all the possible factors which have been referred to in these cases as bearing on the nature of the relationship between the parties concerned. Clearly not all of these factors will be relevant in all cases, or have the same weight in all cases. Equally clearly no magic formula can be propounded for determining which factors should, in any given case, be treated as the determining ones.
+47 Although there is no universal test to determine whether a person is an employee or an independent contractor, I agree with MacGuigan J.A. that a persuasive approach to the issue is that taken by Cooke J. in Market Investigations, supra. The central question is whether the person who has been engaged to perform the services is performing them as a person in business on his own account. In making this determination, the level of control the employer has over the worker’s activities will always be a factor. However, other factors to consider include whether the worker provides his or her own equipment, whether the worker hires his or her own helpers, the degree of financial risk taken by the worker, the degree of responsibility for investment and management held by the worker, and the worker’s opportunity for profit in the performance of his or her tasks.
+48 It bears repeating that the above factors constitute a non-exhaustive list, and there is no set formula as to their application. The relative weight of each will depend on the particular facts and circumstances of the case.
+(My Emphasis.)
+[29] In other words, the Court must take a multifaceted approach where a number of factors are to be weighed and considered. The most influential of these factors, as described by the Supreme Court of Canada in Sagaz Industries, supra, (para. 47), are the factors established by the Federal Court of Appeal in Wiebe Door Services Ltd., v. Minister of National Revenue, [1986] 3 F.C. 553 (“Wiebe Door”). The so‑called Wiebe Door factors represent an amalgam of several different independent tests that had been applied throughout the jurisprudence and they are:
+(a) Degree or absence of control, exercised by the alleged employer;
+(b) Ownership of tools;
+(c) Chance of profit and risks of loss or liability;
+(d) Integration of the alleged employees work into the alleged employers business.
+[30] As explained by Major J. in Sagaz Industries, supra, (para. 47), the principal purpose of the objective analysis of these factors is ultimately to answer the question whether the individual who performs the services is doing so as an employee or “is performing them as a person in business on his own account?”
+(a) Degree or absence of control, exercised by the alleged employer
+[31] For the period under appeal, it is not disputed that the Appellant continued to provide reception and administrative services for the clinic, that she worked as a chiropractic and physiotherapy assistant, as required based on in-house referrals. She was also a Certified Pilates Instructor.
+[32] With the exception of the Pilates sessions, all of the services described above were supervised either directly by the Payer or by the referring health professional. She had no discretion as to how those services were to be offered. She followed an exercise routine established by the health professional.
+[33] While the exercise routine could be described loosely as a “lower‑back protocol”, for example, it was nonetheless subject to supervision. With time, it is apparent that the Appellant was able to operate in a highly autonomous fashion when she performed those services.
+[34] The Respondent argues that the Appellant also had a high degree of discretion over her working hours and yet there was no suggestion that she was ever expected to work a 37.5 or 40 hours work week. She worked as a receptionist as required and as a rehabilitation aide based on referrals. If there were time-slots that remained unfilled, there was no reason for her to remain at the clinic. If she had only one appointment in a particular morning or afternoon, she could ask that the patient be rescheduled.
+[35] However, despite this apparent autonomy, there were still some restrictions placed on her.
+[36] In particular, she was prevented from seeing Kenetica patients at her home studio and was required to operate exclusively under the Kenetica brand name when seeing Kenetica clients. Although the Respondent pointed out that she was not prevented from seeking out clients to see at her home studio or to work at other clinics, I find that this is not highly relevant to the analysis as we are concerned with the degree of control exercised over her while she was working at Kenetica or seeing Kenetica patients.
+[37] I find that the emails presented as evidence by the Appellant and the Respondent both paint the picture of a very casual and permissive work culture at Kenetica, at least with respect to the Appellant.
+[38] However, in my view, a more relaxed working arrangement does not necessarily preclude an employment relationship from being found. It is certainly within the prerogative of business owners to have a working environment where a greater degree of freedom and autonomy is allowed. This is especially true for highly skilled workers, which the Appellant would certainly qualify as since she possessed “skills far beyond the ability of their employer to direct”: Wiebe Doors, supra, (para. 9).
+[39] I find that the degree of autonomy demonstrated by the Appellant is at least partially a by-product of the nature of the job that she performed, and does not prevent an employment relationship from existing.
+[40] I also find that this relaxed culture existed with the consent of Dr. Tzakas who, as the owner of the clinic, still retained ultimate authority. He appears to have had the ability to put major restrictions on how the Appellant conducted her work at Kenetica, as is evident from her being denied permission to see Kenetica patients at her home studio. Although he does not appear to have been consulted for minor changes like rescheduling appointments, the evidence suggests that Dr. Tzakas was consulted when she proposed to make changes to the price packages or rates charged for the Pilates sessions.
+[41] Dr. Tzakas also had control in an economic sense, with him providing the facilities and most if not all of the tools used by the Appellant. Apart from a few personal acquaintances, the clinic appears to have provided almost all of the Appellant’s patients. I find that there is little if any evidence to suggest that the Appellant established an independent Pilates business using her home studio, although she might have expressed an intention of doing so prior to the period under appeal.
+[42] An important component of economic control is also controlling the amount of remuneration received. By this measure, we know that Ms. Lyon was paid by filling out a timesheet every week (where she was listed as “staff”), which listed the number of clients she saw, as well as the source of the referral for those clients. Dr. Tzakas admitted during his testimony that these timesheets were submitted to him, and that he had the ability to modify them if necessary. While it is apparent that the Appellant was proactive in establishing the rates for her Pilates sessions and creating promotional packages, she did so by consulting Dr. Tzakas.
+[43] In light of all these considerations, I find that the level of control exercised by the Payer over the Appellant is more consistent with her being in a contract of services.
+(b) Ownership of tools
+[44] It is conceded that save for a few items, the tools used by the Appellant were owned by Kenetica. The Respondent argues that the overhead portion of her billings included “rent” for the equipment that was used. I note that no details were provided and no evidence was presented as to the precise breakdown of any costs specifically associated with such equipment.
+[45] On the few occasions, where the Appellant purchased new exercise equipment at a trade show, for example, it is not disputed that she was reimbursed by the Payer. I attach little importance to the fact that she may have recommended the purchase of new equipment or that she may have encouraged staff members, by sending emails, to try the new equipment for “free”, under her supervision. Such initiatives would in the end benefit both her and the Payer’s business.
+[46] On balance, I find that the Payer not only owned the equipment but that any costs associated with the equipment was simply part of the overhead costs of running the clinic. There was no actual rent.
+[47] This finding is consistent with the suggestion that the Appellant was an employee.
+(c) Chance of profit and risk of loss and liability
+[48] When it comes to assessing whether the Appellant had an actual risk of profit and loss, we know that she did not receive a fixed salary from Kenetica. For clerical work, office administration or cleaning, she was paid an hourly rate (with no indication of how many hours she might work in a typical week) and once she qualified as a rehabilitative assistant and later, obtained her certification as a Pilates instructor, she was paid a percentage of the fees charged to the patients in direct relation to her services.
+[49] It appears that, apart from the hourly rate noted above, the Appellant’s earnings were primarily a function of the success of Kinetica as a health clinic, the flow of patients and the number of referrals she received. I would not view this as akin to the risks borne by a sole proprietor in business for themselves.
+[50] The Appellant did not make any sort of capital investment in Kenetica though she did assume the cost of educational training to obtain her Pilates certification. She assumed the cost of other training as well. But she did so to be able to provide a broader array of services and perhaps receive a greater number of referrals from within the clinic.
+[51] I find that a typical employee might decide to take evening courses or pursue college training to increase her chances of a promotion within a business or organization. But the fact that an employee, both driven and ambitious, seeks to take steps to advance her career and ultimately to improve her financial situation, does not necessarily mean that she is a self-employed or an independent contractor.
+[52] The evidence indicates that the Appellant had a high degree of input into what price the clinic would charge for her Pilates session, including the “package deals” where a client would receive a discount for ordering a set number of sessions as a way to get them to purchase more sessions with her.
+[53] The Respondent argues that this high level of input is indicative of an independent contractor status.
+[54] I find that this factor is inconclusive. Dr. Tzakas was a chiropractor, most likely with limited knowledge of the market for Pilates. He relied on the Appellant for that knowledge and, as the business owner, was prepared to listen to the advice given. Ultimately, he had the final say.
+[55] In the end, it could be argued that the risks borne by the Appellant were no different than those borne by ordinary salaried or commissioned employees whose fortunes will always, at least in part, be tied to the overall success and financial health of the business as well as their ability to generate business for themselves through sales and commissions.
+[56] We can surmise that referrals to the Appellant would vary in frequency, but we do not know to what extent this was an actual risk borne by her in practice. The client base within the clinic seems to have been fairly well diversified. The Appellant was neither expected nor required to actively seek out clients since they were provided to her by the clinic in a regular and predictable fashion through referrals.
+[57] If there had been no referral system in place and the Appellant was wholly reliant on her own personal efforts and entrepreneurial skills to obtain patients, then that would have been a different situation.
+[58] Kenetica handled all her bookings through an online scheduling system as well as billings and payment issues on her behalf. Her services as a rehabilitation assistant were billed using the medical license numbers of the appropriate health professional. The clinic also invoiced patients for her Pilates sessions which, as a non-medical service, included GST that was charged by the clinic.
+[59] As the owner of Kenetica, Dr. Tzakas also admitted that he was responsible for any mishaps or liability issues. There was no suggestion that the Appellant was in any way responsible or that she was required to maintain any type of insurance coverage.
+[60] The Respondent relied on the decision of Callingwood Physiotherapy Ltd. v. Minister of National Revenue, 2002 CarswellNat 316, which found that chiropractors who were remunerated by the clinic based on a split‑fee arrangement (with them receiving 60% of the billings) were independent contractors.
+[61] However, it appears that the services offered by the clinic to the chiropractors were limited to the provision of an unfurnished room, invoicing and collection of fees. In this instance, there was a nexus between the health professionals and services offered by the Appellant since she was required to be supervised. As an “assistant” or “rehabilitative aide”, she was in a subordinate position and her services were an integral part of the services offered by Kenetica as a health clinic.
+[62] The Appellant relied on the decision of Coathup v. Minister of National Revenue, 2017 TCC 54, (“Coathup”) where the Tax Court of Canada ruled that teachers who taught private students at a music academy were employees. The arrangement between the school and the teachers was a split‑fee, where on an hourly rate of $46 charged, $36 was paid to the teacher and $10 went to the overhead costs of the school. The teacher’s income was determined based on the number of students they saw, with their income decreasing if they lost students. In spite of this, the Court concluded that the teachers had no chance of profit or loss in the true sense of that expression, as they were not required to invest money in order to earn income and the only way for them to increase their earnings, was to work more hours, which the Court found “does not amount to a chance of profit.” (para. 55).
+[63] Analogous to the situation in Coathup, the Appellant had no real ability to increase her earnings at Kenetica beyond seeing more clients and continuing to up-grade her skills, as she did throughout her time there. She might have had the ability to open her own clinic offering Pilates, for example, but her ability to do so is not relevant to this analysis since she in fact did not do so.
+[64] The recent decision of the Tax Court of Canada in 766743 Ontario Limited / Soben Mgmt. Ltd., v. Minister of National Revenue, 2014 TCC 133 involved the services of a dental hygienist. The Court reviewed the Wiebe Doors factors and concluded that “the factual objective reality reveals much greater indicia of employment than that of an independent contractor in business on her own account.”(para. 29).
+[65] I similarly conclude that this factor weighs in favour of the Appellant being an employee.
+(d) Integration of the alleged employees work into the alleged employers business
+[66] Applying this factor, it is evident that whether the Appellant was attending to her clerical duties or acting as a rehabilitative assistant for the health professionals, she was fully integrated within the clinic. She could not have gone out and “hung out her shingle” for those services.
+[67] As noted above, it is acknowledged that she had wide latitude with respect to her Pilates sessions, but in the end the Court must conclude that these were ancillary to the health services offered by the clinic, whose owner retained ultimate say as to what could be done. The fact that the Appellant had the liberty of growing her business based from her home studio or elsewhere, is not relevant since she chose not to do so, likely because the full panoply of services offered by her were better suited to the regular flow of patient referrals within the clinic. This appears to have suited the Payer.
+[68] It is also apparent that the Appellant worked firmly under the umbrella of the Kenetica brand, including using business cards provided by the clinic. She was referred to as “staff” and attended office functions and parties, for example. In fact, Dr. Tzakas conceded that to the outside world, she would have been perceived as being an employee of Kenetica.
+[69] As a result, I find that this factor suggests that the Appellant was an employee.
+IV. CONCLUSION
+[70] This appeal concerns the years 2015 and 2016. However, the entire history of the working relationship between the Appellant and Dr. Tzakas is relevant in so far as there appears be no correlation between the express intention of the parties about what their legal relationship would be and the actual underlying reality of that relationship.
+[71] It appears likely that the Appellant was lead to believe that she could be an independent contractor if she agreed and chose to do so, even as she was assuming clerical and administrative duties and paid at an hourly rate at the commencement of the working relationship in 2008.
+[72] The implication of this analysis is that even as the relationship progressed and the Appellant assumed greater responsibilities as a rehabilitative assistant and later, as a Certified Pilates Instructor, the express intention of the parties as to the nature of their relationship was fundamentally flawed from the beginning and should be disregarded in favour of the objective factors noted above.
+[73] Having completed an analysis of the evidence in light of the Wiebe Door factors, the Court concludes that the Appellant was employed under a contract of services during the relevant period. For that reason, the appeals must be allowed.
+Signed at Ottawa, Canada, this 8th day of May 2018.
+“Guy Smith”
+Smith J.
+CITATION:
+2018 TCC 89
+COURT FILE NOS:
+2017-9(CPP) 2017-10(EI)
+STYLE OF CAUSE:
+KEARSTEN M. LYON v. HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+November 28 and December 5, 2017
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Guy R. Smith
+DATE OF JUDGMENT:
+May 8, 2018
+APPEARANCES:
+Counsel for the Appellant:
+Jordan Reiner
+Counsel for the Respondent:
+Kieran Lidhar
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Jordan Reiner
+Firm:
+Lecker and Associates
+Toronto, Ontario
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada

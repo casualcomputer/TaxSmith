@@ -1,0 +1,200 @@
+---
+title: "Furma v. Human Resources"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/25953/index.do"
+last_modified: "2004-03-19"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 TCC 229"
+citation2: ""
+neutral_citation: "2004 TCC 229"
+decision_date: "2004-03-19"
+language: "en"
+item_id: "25953"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3720
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T19:41:01.563000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "05f69d73c9cce1e9e3c8e5fe63d25c3de7ea0cd5cd2d07aca6e08c5d1ce71218"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Furma v. Human Resources
+
+- Citation: 2004 TCC 229
+- Decision date: 2004-03-19
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3720, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Furma v. Human Resources
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-03-19
+Neutral citation
+2004 TCC 229
+File numbers
+2002-4497(OAS)
+Judges and Taxing Officers
+Eric A. Bowie
+Subjects
+Old Age Security Act
+Decision Content
+iN THE mATTER OF A REFERENCE UNDER SUBSECTION 28(2) OF THE OLD AGE SECURITY ACT, r.s.C. 1985 C. o – 9, AS AMENDED
+Docket: 2002-4497(OAS)
+BETWEEN:
+BALJINDER FURMA,
+Appellant,
+and
+THE MINISTER OF HUMAN RESOURCES DEVELOPMENT CANADA,
+Respondent.
+____________________________________________________________________
+Reference heard on common evidence with the reference of Mukhtiar Furma (2002‑4498(OAS)) on December 15, 2003, at Toronto, Ontario,
+By: The Honourable Justice E.A. Bowie
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+John Grant
+____________________________________________________________________
+DECISION
+WHereas a question as to the application of section 126.01 of the Income Tax Act to the income of Baljinder Furma for the taxation year 2000 has been referred to this Court by a Canada Pension Plan – Old Age Security Tribunal;
+AND having heard the evidence of Baljinder Furma and read the exhibits filed;
+AND having heard the Appellant and counsel for the Respondent;
+IT IS THE DECISION OF THIS COURT that Baljinder Furma was required by the provisions of subsection 126.01(4) of the Income Tax Act to include $855 in his income for the 2000 taxation year, and the Commissioner of Review Tribunals shall be so advised.
+Signed at Ottawa, Canada, this 19th day of March, 2004.
+"E.A. Bowie"
+Bowie J.
+iN THE mATTER OF A REFERENCE UNDER SUBSECTION 28(2) OF THE OLD AGE SECURITY ACT, r.s.C. 1985 C. o – 9, AS AMENDED
+Docket: 2002-4498(OAS)
+BETWEEN:
+MUKHTIAR FURMA,
+Appellant,
+and
+THE MINISTER OF HUMAN RESOURCES DEVELOPMENT CANADA,
+Respondent.
+____________________________________________________________________
+Reference heard on common evidence with the reference of Baljinder Furma (2002‑4497(OAS)) on December 15, 2003, at Toronto, Ontario,
+By: The Honourable Justice E.A. Bowie
+Appearances:
+Agent for the Appellant:
+Baljinder Furma
+Counsel for the Respondent:
+John Grant
+____________________________________________________________________
+DECISION
+WHereas a question as to the application of section 126.01 of the Income Tax Act to the income of Mukhtiar Furma for the taxation year 2000 has been referred to this Court by a Canada Pension Plan – Old Age Security Tribunal;
+AND having heard the evidence of Baljinder Furma and read the exhibits filed;
+AND having heard the agent for the Appellant and counsel for the Respondent;
+IT IS THE DECISION OF THIS COURT that Mukhtiar Furma was required by the provisions of subsection 126.01(4) of the Income Tax Act to include $1,200 in her income for the 2000 taxation year, and the Commissioner of Review Tribunals shall be so advised.
+Signed at Ottawa, Canada, this 19th day of March, 2004.
+"E.A. Bowie"
+Bowie J.
+iN THE mATTER OF A REFERENCE UNDER SUBSECTION 28(2) OF THE OLD AGE SECURITY ACT, r.s.C. 1985 C. o – 9, AS AMENDED
+Citation: 2004TCC229
+Date: 20040319
+Docket: 2002-4497(OAS)
+BETWEEN:
+BALJINDER FURMA,
+Appellant,
+and
+THE MINISTER OF HUMAN RESOURCES DEVELOPMENT CANADA,
+Respondent,
+Docket: 2002-4498(OAS)
+AND BETWEEN:
+MUKHTIAR FURMA,
+Appellant,
+and
+THE MINISTER OF HUMAN RESOURCES DEVELOPMENT CANADA,
+Respondent.
+REASONS FOR DECISION
+Bowie J.
+[1] This matter is before me by way of a reference under subsection 28(2) of the Old Age Security Act[1] (OASA). That subsection provides that when a question as to the income of an applicant for benefits arises before a Review Tribunal, it shall refer the question to this Court. That is what has happened in these cases. The Appellants, who are married to each other, applied for the guaranteed income supplement under the OASA. The Minister refused their applications on the grounds that their combined incomes for the year 2000 exceeded the threshold amount beyond which no supplement is payable. It is common ground that their incomes only exceeded that threshold because certain registered retirement savings plan (RRSP) withdrawals were included in them. The Appellants say that these withdrawals should not have been included in the computation of their incomes. If they are correct, then they are entitled to the supplements for which they have applied. Their appeals were heard on common evidence, and Mr. Furma represented his wife as her agent.
+[2] The dispute arose in this way. The Appellants purchased a home in 1998. To do so, they both withdrew certain amounts from their RRSPs under the provisions of the Home Buyers Plan that are found in section 146.01 of the Income Tax Act (ITA). That section allows a taxpayer to withdraw an amount from an RRSP for the purpose of buying a home. Provided it is done in accordance with the very complex rules set out in that section, the withdrawal can be accomplished without adverse tax consequences. One of those rules is that the amount withdrawn must be repaid in 15 equal annual instalments, beginning in the second year following the year in which the withdrawal was made.[2] If that is done then the amount withdrawn does not become income of the taxpayer. This is found in subsection 146.01(3) of the ITA. Subsection 146.01(4) provides that to the extent that the amount withdrawn is not repaid according to this schedule, it is brought into income.
+[3] Mr. Furma argued that he and his wife ought not to be taxed on the amounts that were not repaid by them in the year 2000, because by that time they were more than 70 years of age and their RRSPs had matured, as paragraph 146(2)(b.4) of the ITA requires. Unfortunately, I am not able to agree with this submission. The Home Buyers Plan creates special problems for taxpayers who make a withdrawal to purchase a home when they are over age 55; those problems are exacerbated as age increases, because the taxpayer has fewer years in which to make repayment before the RRSP must mature and repayment becomes impossible.
+[4] The consequence of failure to repay a withdrawal under the Home Buyers Plan are found in subsection 146.01(4) of the ITA.
+(4) There shall be included in computing an individual's income for a particular taxation year included in a particular participation period of the individual the amount determined by the formula
+[(A - B - C) / (15 - D) - E
+where
+A is
+(a) where
+(i) the individual died or ceased to be resident in Canada in the particular year, or
+(ii) the completion date in respect of an eligible amount received by the individual was in the particular year
+nil, and
+(b) in any other case, the total of all eligible amounts received by the individual in preceding taxation years included in the particular period,
+B is
+(a) nil, if the completion date in respect of an eligible amount received by the individual was in the preceding taxation year, and
+(b) in any other case, the total of all amounts each of which is designated under subsection (3) by the individual for a preceding taxation year included in the particular period;
+C is the total of all amounts each of which is included under this subsection or subsection (5) in computing the individual's income for a preceding taxation year included in the particular period;
+D is the lesser of 14 and the number of taxation years of the individual ending in the period beginning
+(a) where the completion date in respect of an eligible amount received by the individual was before 1995, January 1, 1995, and
+(b) in any other case, January 1 of the first calendar year beginning after the completion date in respect of an eligible amount received by the individual
+and ending at the beginning of the particular year, and
+E is
+(a) if the completion date in respect of an eligible amount received by the individual was in the preceding taxation year, the total of all amounts each of which is designated under subsection (3) by the individual for the particular year or any preceding taxation year included in the particular period, and
+(b) in any other case, the amount designated under subsection (3) by the individual for the particular year.
+[5] The effect of this subsection, in general terms, is to provide that if the taxpayer fails to make the minimum repayment that is required in any year following a withdrawal, and prior to repayment being completed, then the amount that should have been, but was not, repaid is included in the taxpayer's income for that year. No exception is provided for a taxpayer whose RRSP matures before repayment has been completed. Mr. Furma is correct when he says that it was not possible for him and his wife to make repayment after their plans matured; however, that does not relieve them of the adverse consequences of subsection 146.01(4). Although the provisions of this subsection are drafted in language that defies comprehension, this result should not have come as a surprise to them. They each received a Home Buyers' Plan Statement of Account in December 1999.[3] These statements advised them of the minimum annual payments that they would have to make, beginning in 2000. There was a sheet of questions and answers headed 'General Information' attached to each of these statements, and it includes the following question and answer:
+What happens if you turn age 69 in 1999?
+You have until December 31, 1999 to make a repayment. Afterwards, each year, you will have to include in your income an amount equal to the amount that would have been your annual repayment. If you repay more than the required amount, this will reduce the amount you have to include in income in future years.
+[6] The amount of the withdrawal by Mukhtiar Furma is $18,006, and the withdrawal by Baljinder Furma is $12,831. In each case, there had been no repayments made, so the amounts that they are required to include in their income each year are:
+Mukhtiar Furma
+$18,006 ÷15
+$1,200
+Baljinder Furma
+$12,831 ÷15
+$855
+The Appellants, the Commissioner of Review Tribunals and the Minister shall be advised accordingly, pursuant to section 44 of the Old Age Security Regulations. As provided in section 45, there will be no Order as to costs.
+Signed at Ottawa, Canada, this 19th day of March, 2004.
+"E.A. Bowie"
+Bowie J.
+CITATION:
+2004TCC229
+COURT FILE NO.:
+2002-4497(OAS) and 2002-4498(OAS)
+STYLE OF CAUSE:
+Baljinder Furma and Mukhtiar Furma and The Minister of Human Resources Development Canada
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+December 15, 2003
+REASONS FOR DECISION BY:
+The Honourable Justice E.A. Bowie
+DATE OF DECISION:
+March 19, 2004
+APPEARANCES:
+Agent for the Appellants:
+Baljinder Furma
+Counsel for the Respondent:
+John Grant
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+N/A
+Firm:
+N/A
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] R. S. C. 1985 c. O-9, as amended.
+[2] Additional repayments may be made at the taxpayer's option.
+[3] Exhibits A-1 and A-2.

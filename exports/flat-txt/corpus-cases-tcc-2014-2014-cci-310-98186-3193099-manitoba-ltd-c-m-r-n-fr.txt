@@ -1,0 +1,213 @@
+Title: 3193099 Manitoba Ltd. c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/98186/index.do
+Corpus path: corpus/cases/tcc/2014/2014-cci-310-98186-3193099-manitoba-ltd-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2014-10-20
+
+# 3193099 Manitoba Ltd. c. M.R.N.
+
+- Citation: 2014 CCI 310
+- Decision date: 2014-10-20
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5213, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+3193099 Manitoba Ltd. c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2014-10-20
+Référence neutre
+2014 CCI 310
+Numéro de dossier
+2014-923(CPP), 2014-924(CPP), 2014-925(CPP)
+Juges et Officiers taxateurs
+Randall S. Bocock
+Sujets
+Régime de pensions du Canada
+Contenu de la décision
+Dossier : 2014-923(CPP)
+ENTRE :
+3193099 MANITOBA LTD.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 7 octobre 2014, à Winnipeg (Manitoba)
+Devant : L’honorable juge Randall S. Bocock
+Comparutions :
+Avocat de l’appelante :
+Me Jeff D. Pniowsky
+Représentante de l’intimé :
+Mme Haley Hrymak
+JUGEMENT MODIFIÉ
+CONFORMÉMENT aux motifs du jugement ci-joints, l’appel relatif à une cotisation établie en vertu du Régime de pensions du Canada pour l’année d’imposition 2012 est accueilli, compte tenu du fait que l’appelant, Jan Eissner, n’a pas exercé un emploi ouvrant droit à pension au sens du Régime de pensions du Canada pendant la période du 1er janvier au 31 décembre 2012.
+DE PLUS, à la demande de l’avocat de l’appelant à l’audience et avant la présentation de la totalité des éléments de preuve et des observations, l’appel de l’appelant Thomas Eissner a été retiré; il reste donc la cotisation établie par le ministre à l’égard de l’appelant, à titre d’employé exerçant un emploi ouvrant droit à pension.
+Signé à Vancouver (Colombie-Britannique), ce 31e jour d’octobre 2014.
+« R.S. Bocock »
+Juge Bocock
+Traduction certifiée conforme
+ce 21e jour de novembre 2014.
+M.-C. Gervais
+Dossier : 2014-924(CPP)
+ENTRE :
+JAN EISSNER,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 7 octobre 2014, à Winnipeg (Manitoba)
+Devant : L’honorable juge Randall S. Bocock
+Comparutions :
+Avocat de l’appelant :
+Me Jeff D. Pniowsky
+Représentante de l’intimé :
+Mme Haley Hrymak
+JUGEMENT MODIFIÉ
+CONFORMÉMENT aux motifs du jugement ci-joints, l’appel relatif à la décision rendue par le ministre en vertu du Régime de pensions du Canada pour la période du 1er janvier au 31 décembre 2012 est accueilli, compte tenu du fait que l’appelant n’a pas exercé un emploi ouvrant droit à pension au sens du Régime de pensions du Canada pendant la période du 1er janvier au 31 décembre 2012 seulement, et l’affaire est renvoyée au ministre du Revenu national pour nouvel examen et nouvelle cotisation.
+Signé à Vancouver (Colombie-Britannique), ce 31e jour d’octobre 2014.
+« R.S. Bocock »
+Juge Bocock
+Traduction certifiée conforme
+ce 21e jour de novembre 2014.
+M.-C. Gervais
+Dossier : 2014-925(CPP)
+ENTRE :
+THOMAS EISSNER,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 7 octobre 2014, à Winnipeg (Manitoba)
+Devant : L’honorable juge Randall S. Bocock
+Comparutions :
+Avocat de l’appelant :
+Me Jeff D. Pniowsky
+Représentante de l’intimé :
+Mme Haley Hrymak
+JUGEMENT MODIFIÉ
+CONFORMÉMENT à la demande de l’avocat de l’appelant à l’audience et avant la présentation de la totalité des éléments de preuve et des observations, l’appel de l’appelant a été retiré; il reste donc la décision établie par le ministre à l’égard de l’appelant, à titre d’employé exerçant un emploi ouvrant droit à pension.
+Signé à Vancouver (Colombie-Britannique), ce 31e jour d’octobre 2014.
+« R.S. Bocock »
+Juge Bocock
+Traduction certifiée conforme
+ce 21e jour de novembre 2014.
+M.-C. Gervais
+Référence : 2014 CCI 310
+Date : 20141020
+Dossier : 2014-923(CPP)
+ENTRE :
+3193099 MANITOBA LTD.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+Dossier : 2014-924(CPP)
+ET ENTRE
+JAN EISSNER,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+Dossier : 2014-925(CPP)
+ET ENTRE
+THOMAS EISSNER,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Appels entendus sur preuve commune
+Le juge Bocock
+I. Introduction [1] Le ministre a procédé à une détermination et a établi une cotisation à l’endroit de la société appelante, qui exerce ses activités sous le nom de Falcon Enterprises (« Falcon ») à titre d’employeur, de même qu’à l’endroit des deux autres appelants, les frères Jan et Thomas Eissner, à titre d’employés, relativement à deux périodes consécutives : du 1er janvier au 31 décembre 2011 (la « période de 2011 ») et du 1er janvier au 31 décembre 2012 (la « période de 2012 »).
+[2] À l’audience, l’avocat des appelants a retiré les appels relatifs aux cotisations établies à l’égard de la période de 2011 dans le cas de la totalité des appelants ainsi qu’à l’égard de la période de 2012 dans le cas de l’appelant Thomas Eissner, de même que l’effet coïncident d’un tel appel pour la période de 2012 de l’appelante, Falcon.
+[3] C’est donc dire que la seule question que doit trancher la Cour consiste à savoir si Jan Eissner était un employé ou un entrepreneur indépendant par rapport à Falcon pour la période de 2012.
+[4] La Cour est souvent saisie d’une telle question d’emploi ouvrant droit à pension au titre de du Régime de pensions du Canada, (L.R.C. 1985, ch. C‑8) (le « RPC »), notamment en ce qui concerne la définition d’un « emploi » au paragraphe 2(1) du RPC et de la référence qui est faite aux emplois ouvrant droit à pension à l’alinéa 6(1)a) de la loi :
+2. (1) « emploi » L’état d’employé prévu par un contrat de louage de services ou d’apprentissage, exprès ou tacite, y compris la période d’occupation d’une fonction.
+Emploi ouvrant droit à pension
+6. (1) Ouvrent droit à pension les emplois suivants :
+a) l’emploi au Canada qui n’est pas un emploi excepté;
+II. Les faits relatifs à Jan Eissner pour la période de 2012 [5] Falcon exerçait ses activités au sein de l’industrie pétrolière et gazière, dans le Sud-Ouest du Manitoba. Elle fournissait des services d’entretien, de maintenance et de réparation de puits de pétrole au moyen de son appareillage d’entretien.
+[6] Jan était de fait le directeur de l’exploitation de Falcon et, comme on le dit couramment, c’était lui qui [traduction] « tirait les ficelles ». L’intimé a reconnu cette situation lorsqu’il a admis les faits suivants dans la réponse : l’appelant (Jan) ne rendait de comptes à personne, n’était pas supervisé, contrôlait son propre horaire de travail et ses vacances et il fournissait des services de gestion et gérait les activités quotidiennes de Falcon.
+[7] Par ailleurs, l’intimé, en établissant sa cotisation à l’endroit de Jan et de Falcon pour la période de 2012, a énoncé un certain nombre d’hypothèses factuelles : Jan travaillait exclusivement pour Falcon, il ne pouvait pas confier des tâches à des sous-traitants ou embaucher des remplaçants, il ne facturait pas ses services à Falcon et il avait été embauché suivant une entente verbale.
+[8] À l’audience, la Cour a entendu les témoignages des autres appelants, soit Jan et son frère, Thomas. Un agent d’appel de l’Agence du revenu du Canada (l’« ARC ») a été brièvement contre-interrogé sur les antécédents de production des appelants et le rapport interne de l’ARC sur un appel (le « rapport CPT-110 »).
+[9] À part le rapport CPT-110, un certain nombre de documents pertinents ont été produits en preuve par les appelants : des factures pour la période de 2012, illustrant la relation contractuelle personnelle de Jan avec une autre entreprise de forages pétroliers (« Tundra »), une entente touchant la prestation de services conclue entre Falcon et Jan et datée du 1er janvier 2012, des factures d’honoraires de gestion remises par Jan à Falcon pour une période postérieure à celle de 2012, la déclaration de revenus T1 de Jan pour la période de 2012, laquelle faisait état d’un revenu d’emploi nul et d’un revenu d’entreprise seulement, des renseignements de l’ARC sur la TPS qui confirmaient les recettes de ventes de Jan et le montant de TPS payé sur ces dernières et, enfin, les déclarations de revenus de société T2 de Falcon, précisant que Jan était un entrepreneur indépendant.
+[10] L’entente, intitulée [traduction] « entente touchant la prestation de services », comportait les énoncés déclaratoires et descriptifs habituels à propos de l’intention des parties d’être des entrepreneurs indépendants, ainsi que des indemnisations relatives à l’impôt sur le revenu, aux cotisations au RPC et aux cotisations d’assurance-emploi. L’entente exigeait également que Jan perçoive et verse la TPS, ce qu’il a fait au cours de la période de 2012. Elle indiquait clairement aussi qu’il ne se créerait aucune relation entre les employés de Jan (même si, en fait, il n’y en avait aucun) et Falcon.
+[11] Au cours de la période de 2012, Jan a fourni des services à plusieurs autres entreprises. Dans ces cas, les seuls services que Jan fournissait étaient sa connaissance de l’industrie, sa capacité de gestion et ses compétences. Il y avait une preuve non contredite que la totalité du matériel, des fournitures et de l’appareillage d’entretien étaient fournis par les autres entreprises pétrolières quand Jan travaillait pour elles, et un exemple de cela était Tundra, à laquelle Jan a fourni de tels services directement et s’est vu rembourser ses dépenses. À titre de travailleur au service de Falcon, la situation, dans cette mesure, était sensiblement semblable pour Jan.
+[12] Pour ce qui est de la rémunération versée par Falcon, Jan recevait 3 500 $ aux deux semaines et aucune paye de vacances. Bien qu’aucune facture proprement dite pour la période de 2012 n’ait été produite en preuve, Jan a déclaré qu’au cours de cette période, elles avaient été présentées de la même façon que celles dont un exemple a été produit en preuve pour une période ultérieure. De plus, selon son entente touchant la prestation de services, Jan bénéficiait d’une assurance comportant des prestations d’assurance-maladie complémentaires, mais il lui incombait de déclarer sa propre situation au titre de l’indemnisation des accidents du travail.
+III. Le droit applicable [13] L’arrêt clé 10392644 Ontario Inc. s/n Connor Homes c Le ministre du Revenu national, 2013 CAF 85, a établi la jurisprudence cumulative actuelle qui régit le critère à appliquer et la méthodologie à suivre en général par le juge des faits lorsque ce dernier est aux prises avec la question « trompeusement simple » décrite, laquelle consiste à savoir si une personne « assure les services en question en tant que personne travaillant à son compte » : 1671122 Ontario Ltd. c. Sagaz Industries Canada Inc., 2001 CSC 59, au paragraphe 47. Dans l’arrêt Connor Homes, précité, la Cour d’appel fédérale expose une méthode en en deux étapes qu’il faut appliquer pour examiner la question, et elle mentionne ensuite, aux paragraphes 39 et 40 :
+[39] La première étape consiste à établir l’intention subjective de chacune des parties à la relation. On peut le faire soit d’après le contrat écrit qu’elles ont passé, soit d’après le comportement effectif de chacune d’elles, par exemple en examinant les factures des services rendus, et les points de savoir si la personne physique intéressée s’est enregistrée aux fins de la TPS et produit des déclarations d’impôt en tant que travailleur autonome.
+[40] La seconde étape consiste à établir si la réalité objective confirme l’intention subjective des parties. Comme le rappelait la juge Sharlow au paragraphe 9 de l’arrêt TBT Personnel Services Inc. c. Canada, 2011 CAF 256, 422 N.R. 366, « il est également nécessaire d’examiner les facteurs exposés dans Wiebe Door afin de déterminer si les faits concordent avec l’intention déclarée des parties ». Autrement dit, l’intention subjective des parties ne peut l’emporter sur la réalité de la relation telle qu’établie par les faits objectifs. À cette seconde étape, on peut aussi prendre en considération l’intention des parties, ainsi que les modalités du contrat, puisqu’elles influent sur leurs rapports. Ainsi qu’il est expliqué au paragraphe 64 de l’arrêt Royal Winnipeg Ballet, les facteurs applicables doivent être examinés « à la lumière de » l’intention des parties. Cela dit, cependant, la seconde étape est une analyse des faits pertinents aux fins d’établir si le critère des arrêts Wiebe Door et de Sagaz est, ou non, rempli, c’est‑à‑dire si la relation qu’ont nouée les parties est, sur le plan juridique, une relation de client à entrepreneur indépendant ou d’employeur à employé.
+[14] En résumé, TBT Personnel Services Inc. c Canada, 2011 CAF 256, et l’arrêt ultérieur Connor Homes consolident le processus en deux étapes qui permet de déterminer si un travailleur est une personne qui exerce ses activités à son propre compte. Premièrement, l’intention subjective des parties a-t-elle été établie par écrit ou par action? Deuxièmement, la réalité objective, fondée sur une analyse des facteurs énoncés dans l’arrêt Wiebe Door, confirme-t-elle ou rejette-t-elle l’intention subjective des parties?
+[15] Le contexte, dans l’affaire Connor Homes et, presque sans exception, dans toutes les autres affaires examinées et compatibles avec cet arrêt clé est celui de travailleurs sans lien de dépendance. Ce qui n’est pas le cas de l’affaire soumise à la Cour. Celle-ci a en main une preuve non contestée selon laquelle Jan était inextricablement lié à l’entreprise commerciale fondamentale de Falcon : les deux ont conclu par eux-mêmes l’entente avec Jan, il a fixé ses propres obligations, responsabilités et salaire, il contrôlait les profits de Falcon et il était responsable des décisions et des pertes commerciales de cette dernière.
+[16] Dans une affaire récente soumise à la Cour après l’arrêt Connor Homes, la juge Campbell a décrit, dans la décision AnMar Management Inc. c Ministre du Revenu national, 2012 CCI 15, le dilemme des sociétés fermées dans lesquelles le dirigeant est invariablement aussi un travailleur, et ce, dans le contexte du débat de longue date au sujet du statut d’employé par opposition à celui d’entrepreneur :
+[18] La notion de l’actionnaire/directeur qui est aussi l’employé de la société qu’il possède et contrôle présente certes des difficultés, mais l’existence d’un tel état de choses n’est pas impossible. La question est la suivante : qui, en pareilles circonstances, détient le contrôle?
+[17] La juge Campbell fait également référence aux observations suivantes du juge Bowman, plus tard juge en chef de la CCI :
+[19] Le juge Bowman le dit succinctement dans l’affaire Zupet, précitée, aux paragraphes 11 et 12, où il déclare :
+[11] Je penserais que même les avocats ayant l’habitude de jongler dans leur tête avec une variété de fictions juridiques qui ne ressemblent en rien à la réalité pourraient avoir quelque difficulté philosophique à accepter l’idée qu’une personne virtuelle dont le seul cerveau est celui d’une personne qui le possède exerce sur cette personne un degré de contrôle suffisant pour établir une relation de maître-serviteur.
+[12] Et pourtant, c’est exactement ce que les tribunaux ont fait.
+[20] Le juge Bowman, au paragraphe 13 de l’arrêt Zupet, poursuit en signalant les difficultés inhérentes à cette notion, et je cite :
+[13] […] Cela est un fait reconnu de réalité commerciale (ou, si l’on veut, d’irréalité commerciale). Quelqu’un peut vendre des produits à son entreprise ou en acheter d’elle ou encore louer des biens à son entreprise ou en louer d’elle. Et quelqu’un peut être l’employé de sa propre entreprise. Je comprends qu’il est généralement admis que l’accord des volontés soit un ingrédient essentiel dans un contrat. On pourrait se demander comment il peut y avoir accord des volontés lorsqu’il n’y a qu’une volonté) - en fait, il s’agit d’une identité ou d’une fusion de volontés. Il semble, toutefois, que cela ne préoccupe personne.
+[21] […] Encore une fois, le juge Bowman, au paragraphe 17 de la décision Zupet, a déclaré que les autres questions qui se posent sont les suivantes : les relations juridiques énoncées sont-elles authentiques et obligatoires et non un trompe-l’œil? deuxièmement, qu’ont fait les parties en réalité? avec quel genre de relation leur comportement est‑il le plus compatible? troisièmement et finalement, quel genre de relation les parties avaient-elles l’intention d’établir? Toutes ces questions se confondent les unes avec les autres et se chevauchent. Dans la majorité des cas, on doit les examiner toutes ensemble et y répondre en considérant le contexte que représentent tous les faits de l’affaire. Il importe, dans la plupart des cas, de prendre du recul et de regarder la situation dans son ensemble.
+[18] Suivant méthode à deux volets décrite dans l’arrêt Connor Homes, la Cour se penche maintenant sur l’entente touchant la prestation de services : exprime‑t‑elle clairement l’intention des parties? Il convient toutefois de se demander si l’intention dont fait état cette entente touchant la prestation de services doit être atténuée ou compter moins à cause de l’étroite relation entre les parties.
+[19] L’intimé a certainement établi la cotisation de l’appelant sur ce fondement et n’a eu de cesse d’invoquer devant la Cour des arguments en ce sens. Les principaux arguments de la représentante de l’intimé sont les suivants :
+a. bien que l’entente touchant la prestation de services fasse référence aux obligations constantes de Jan à l’égard des employés qu’il pourrait embaucher, il n’en a embauché aucun;
+b. l’intimé soutient que l’entente touchant la prestation de services ne concorde pas avec la réalité objective parce que le profit de Jan est très étroitement et inextricablement lié à celui de Falcon;
+c. selon l’entente touchant la prestation de services, il fallait établir des factures, mais aucune preuve documentaire applicable à la période de 2012 n’a été produite;
+d. l’entente touchant la prestation de services n’a pas été produite à l’étape de la décision rendue par l’ARC et il faudrait tirer de ce fait une inférence défavorable;
+e. aucune facture de dépenses n’a été produite;
+f. l’entente touchant la prestation de services a simplement officialisé une relation existante, qui n’a pas changé énormément, sinon du tout, au cours de la période de 2012 par rapport aux périodes antérieures;
+g. le compte de TPS utilisé par Jan pour verser les montants de TPS facturés sur les honoraires de services a été ouvert au départ avec un tiers (l’épouse de Jan) et à l’égard d’une fin commerciale initiale, soit l’agriculture.
+IV. L’analyse [20] L’entente touchant la prestation de services écrite qui existe a été signée par les deux parties, Falcon et Jan. Ce dernier a également conclu des ententes avec d’autres entreprises pétrolières et de forage au cours de la période de 2012. La preuve concernant ces autres bénéficiaires de services était complète et n’a pas été contestée : Jan n’avait vraisemblablement pas conclu d’entente écrite avec ces entreprises, mais, fait tout aussi important, les structures, les activités et les rapports entre les deux parties, tout comme entre Jan et Falcon, étaient tous authentiques et manifestes et ne constituaient pas un subterfuge.
+[21] Les actions de Jan et de Falcon ne sont pas incompatibles avec leur intention subjective. Les incohérences relevées par la représentante de l’intimé au sujet de l’entente touchant la prestation de services sont soit peu importantes, soit non contredites par la preuve pour ce qui est des relations ultimes entre les parties. Falcon fournissait les outils de travail, mais Jan a confirmé de manière factuelle et anecdotique que cela était conforme à ce qui se faisait habituellement dans l’ensemble de l’industrie des forages pétroliers dans le Sud-Ouest du Manitoba, et cela concordait avec la relation qu’il entretenait avec Tundra. Il convient également de signaler que Jan a bel et bien fourni à Falcon son ordinateur et, à l’occasion, un véhicule automobile. Quant au profit, non seulement le profit de Jan était-il lié à son travail et à ses connaissances, mais il lui était loisible de conclure des contrats directement avec d’autres entreprises et il l’a fait, et ce, à des conditions très semblables à celles qui étaient présentes dans la relation entretenue avec Falcon.
+[22] Pour ce qui est du contrôle, comme il a été mentionné plus tôt, l’intimé a reconnu que Jan l’exerçait et, en tout état de cause, la preuve produite à l’audience a été claire et évidente sur ce point : Jan exerçait un contrôle sur les services fixés d’un commun accord qu’il fournissait.
+[23] En résumé, l’intention était claire au départ et ne s’est pas révélée irréaliste au regard des facteurs énoncés dans l’arrêt Wiebe Door. Dans le pire des cas, l’examen de ces facteurs donne un résultat indistinct quant à l’existence d’une relation employeur-employé par opposition à une relation d’entrepreneur indépendant et, dans le meilleur des cas, il dénote que Jan exerçait des activités distinctes. Par conséquent, d’après un examen de la conduite [traduction] « dans le monde réel » de Jan et de Falcon au cours de la période de 2012, il n’y a rien qui montre par ailleurs que l’entente touchant la prestation de services ne reflétait pas de façon générale la réalité objective, à savoir que Jan et Falcon entretenaient une relation d’entrepreneur indépendant.
+[24] Pour les motifs qui précèdent, l’appel est accueilli compte tenu du fait que Jan et Falcon ont été engagés comme entrepreneurs indépendants au cours de la période de 2012. Ainsi qu’il est précisé au paragraphe 2 des présents motifs du jugement, le reste des appels a été retiré.
+Signé à Vancouver (Colombie-Britannique), ce 31e jour d’octobre 2014.
+« R.S. Bocock »
+Juge Bocock
+Traduction certifiée conforme
+ce 21e jour de novembre 2014.
+M.-C. Gervais
+RÉFÉRENCE
+2014 CCI 310
+NOS DES DOSSIERS DE LA COUR :
+2014-923(CPP)
+2014-924(CPP)
+2014-925(CPP)
+INTITULÉ :
+3193099 MANITOBA LTD.
+JAN EISSNER
+Thomas eissner
+ET LE MINISTRE DU REVENU NATIONAL
+LIEU DE L’AUDIENCE :
+Winnipeg (Manitoba)
+DATE DE L’AUDIENCE :
+Le 7 octobre 2014
+MOTIFS DU JUGEMENT :
+L’honorable juge Randall S. Bocock
+DATE DU JUGEMENT MODIFIÉ :
+Le 31 octobre 2014
+COMPARUTIONS :
+Avocat des appelants :
+Me Jeff D. Pniowsky
+Représentante de l’intimé :
+Mme Haley Hrymak
+AVOCATS INSCRITS AU DOSSIER :
+Pour les appelants :
+Nom :
+Jeff D. Pniowsky
+Cabinet :
+Thompson Dorman Sweatman LLP
+Pour l’intimé :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada

@@ -1,0 +1,249 @@
+---
+title: "Drapeau v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26828/index.do"
+last_modified: "2006-04-19"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 TCC 242"
+citation2: ""
+neutral_citation: "2006 TCC 242"
+decision_date: "2006-04-19"
+language: "en"
+item_id: "26828"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 699
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T22:08:50.572000+00:00"
+cases_cited_count: 1
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "903ac603e233f359d339e514a4d3ac56c24ec384e10c2be0de80ebfcf39ed89a"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Drapeau v. M.N.R.
+
+- Citation: 2006 TCC 242
+- Decision date: 2006-04-19
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 699, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Drapeau v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-04-19
+Neutral citation
+2006 TCC 242
+File numbers
+2005-3175(EI)
+Judges and Taxing Officers
+Louise Lamarre Proulx
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2005-3175(EI)
+BETWEEN:
+MICHEL DRAPEAU,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+MÉDIA-FX INC.,
+Intervener.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on March 20, 2006, at Montréal, Quebec.
+Before: The Honourable Justice Louise Lamarre Proulx
+Appearances:
+Counsel for the Appellant:
+Gilbert Nadon
+Counsel for the Respondent:
+Christina Ham
+Agent for the Intervener:
+Paul Ahad
+____________________________________________________________________
+JUDGMENT
+The appeal under subsection 103(1) of the Employment Insurance Act, concerning the decision of the Minister of National Revenue, is allowed, and the decision of the Minister is vacated.
+Signed at Ottawa, Canada, this 19th day of April 2006.
+"Louise Lamarre Proulx"
+Lamarre Proulx J.
+Translation certified true
+on this 18th day of July 2007
+Monica F. Chamberlain, Reviser
+Citation: 2006TCC242
+Date: 20060419
+Docket: 2005-3175(EI)
+BETWEEN:
+MICHEL DRAPEAU,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+MÉDIA-FX INC.,
+Intervener.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Lamarre Proulx J.
+[1] The Appellant is appealing the decision of the Minister of National Revenue (the "Minister") that he was not employed in insurable employment by Média‑FX Inc. ("Média‑FX") during the 2002 and 2003 taxation years.
+[2] The facts of this appeal are set out as follows at paragraphs 2 to 5 of the Reply to the Notice of Appeal (the "Reply"):
+[TRANSLATION]
+2. By Notices of Assessment dated November 6, 2004, the Respondent assessed Média‑FX Inc. (the payer) for unpaid Employment Insurance (EI) premiums in respect of the Appellant for 2002 and 2003.
+3. By letter dated August 3, 2005, the Respondent notified the payer and the Appellant that it had decided to cancel the assessments in issue on the basis that the Appellant's employment was not insurable.
+4. The Appellant is appealing from this decision by the Minister concerning the insurability of his employment during 2002 and 2003.
+5. In making his decision, the Minister determined, based on the following assumptions of fact, that the Appellant was not employed under a contract of service:
+(a) The payer incorporated in 1997.
+(b) The payer specializes in the production of multimedia shows (software for museums and others).
+(c) The payer’s main client was Idées au Cube, which received orders from museums for the production of multimedia shows.
+(d) The payer’s sole shareholder was Paul Ahad.
+(e) The payer employed two to four people.
+(f) The Appellant rendered services to the payer in 2000 and came back to work for the payer in 2001 and during the years in issue.
+(g) The Appellant is a composer, musician and performer, and he worked for the payer as a musical director.
+(h) The Appellant looked after the entire musical environment, and, as a sound technician, he did the sound design.
+(i) The Appellant rented a studio on the payer’s premises for $350 per month.
+(j) The Appellant did not need to keep specific work hours and could take vacations without notifying the payer in advance.
+(k) The only thing required by the payer was compliance with the client's schedule for the production entrusted to the Appellant.
+(l) The Appellant supplied his own equipment and had to assume certain expenses that were not reimbursed by the payer.
+(m) During the years in issue, the Appellant generally received $1,000 per week regardless of the hours actually worked.
+(n) Although the payer issued T4 slips in the Appellant's name for the years in issue, they were not sent to the appropriate tax centre.
+[3] The grounds of the appeal are set out as follows in the Notice of Appeal:
+[TRANSLATION]
+On the contrary, in this appeal, it will be established that there was indeed a relationship of subordination between the Appellant and his employer, that his employer voluntarily gave him T-4 slips as an employee at the end of each fiscal year, and that Média-FX negotiated all its turnkey contracts directly with third parties without his interference.
+Lastly, it will be shown that the Appellant had two roles within the business. The first role was that of musical director responsible for sound design and musical composition under his employer's supervision. The second role — a role that he played for several weeks during which the first role was unnecessary due to a lack of demand — was that of production casting director. In both cases, the employer always had the last word. Ultimately, all completed work was subject to the employer's approval.
+[4] The grounds of the Notice of Intervention are as follows:
+[TRANSLATION]
+1. Michel Drapeau only worked as an employee of Média‑FX on a sporadic basis. Média‑FX always made the source deductions when required, and then declared them and paid them to the governments concerned. The cheques issued to Michel Drapeau over a three-year period were verified in 2004 and 2005 by Revenue Canada and Revenu Québec auditors. . . . These cheques clearly showed and delineated the periods during which Michel Drapeau was an employee and the periods during which he was a contractor.
+2. It has already been shown and documented that Michel Drapeau's work on the Zoo de St‑Félicien project in his capacity as musical director responsible for sound design and musical composition was a genuine one-year contract which he had to perform for the fixed amount of $25,000, and that this contract was terminated by our own client, Idées au cube (the general contractor) because it was dissatisfied with the work done by Michel Drapeau.
+3. It has already been shown, and has already been documented by cheques issued to Michel Drapeau as well as other supporting documents, that when Média-FX's contract was terminated, it advanced $7,000 more to Michel Drapeau than the production schedule provided for. Michel Drapeau could not reimburse Média‑FX for the amounts overpaid . . . . In order to recoup our losses and avoid legal proceedings which Michel Drapeau was threatening to commence against us and our client and which could seriously harm our reputation as well as our client and all the project's stakeholders, we at Média‑FX had no choice but to assign him to similar duties on other projects of ours. Otherwise, we would have suffered a net loss of $12,000, plus our costs if Michel Drapeau had decided to sue, since it was clear that he was impecunious.
+. . .
+5. Média‑FX could neither manage nor coordinate Michel Drapeau's day‑to‑day activities as an employer would. There are various reasons for this:
+a. Although Michel Drapeau always rented a room on Média‑FX premises for use as a composition studio during the period in issue, he temporarily moved his equipment to a summer cottage that he rented in the Laurentians for several months, and only came back to Montréal on weekends when there was no one at the office. It was obviously impossible to exercise control over his work schedule. In fact, the client complained several times about this, because Mr. Drapeau was not available on short notice for last-minute production meetings, and it was hard to reach him by telephone or e‑mail because he had no cable or telephone service in his cottage and the cellular phone signal did not reach his cottage.
+b. During the period concerned, Michel Drapeau often left on vacations for North Carolina and Mexico without consulting us or asking us for permission. On one such occasion, we were notified only a few hours prior to his departure.
+c. During the period concerned, Michel Drapeau had other contracts with other clients, and Média‑FX was neither concerned nor bound in any way by these contracts, even through he was renting a studio on our business premises.
+d. No employer in an arm's length employer-employee relationship would have agreed to or tolerated the situations and events referred to above.
+[5] In his testimony, the Appellant explained that he is a composer and audio editor. He said that Média‑FX hired him in these capacities. He tendered Exhibit A‑1, the Records of Employment issued to him by Média‑FX for three periods of employment: January 31, 2000, to July 28, 2000, October 1, 2001, to March 29, 2002, and September 16, 2002, to April 18, 2003.
+[6] In his testimony, Mr. Ahad, the sole director of payer Média-FX, did not dispute the fact that Mr. Drapeau was an employee of Média‑FX during the first two periods of employment. He disputed the third period. He stressed that it was not he, but rather, the accountant of Média‑FX Inc., who signed that Record of Employment. The accountant was not called as a witness. It should be noted that he is a chartered accountant.
+[7] Exhibit A‑2 is a draft tax assessment dated December 20, 2004, which was sent to the Appellant by the Canada Customs and Revenue Agency (CCRA) and which pertains to the 2002 and 2003 taxation years. Upon reading the document, one can see that the Appellant reported his income as employment income. The CCRA does not contest this. The factors raised in the Reply, such as the studio and home office, are not contested in the draft assessment as being inconsistent with employee status. The only limitations imposed in respect of these factors pertain to the amounts deductible from employment income.
+[8] Exhibit A‑3 is a Quebec employment assistance subsidy granted to Média‑FX in connection with the Appellant for the period from October 1, 2001, to April 26, 2002. Mr. Ahad confirmed that Mr. Drapeau was an employee of Média‑FX at that time. As mentioned, Mr. Ahad claims that Mr. Drapeau was not an employee from September 16, 2002, to April 18, 2003.
+[9] Exhibit A‑4 is a copy of an e-mail message sent by the producer of Idées au cube to Paul Ahad on September 2, 2002. Mr. Ahad forwarded the message to the Appellant. The team list, attached to the message, includes Paul Ahad, who is listed as artistic director and set design creator. This document was adduced to show that Idées au cube did indeed grant the Zoo de St‑Félicien contract to Média‑FX, not to the Appellant.
+[10] Mr. Ahad confirmed this in his testimony and his Notice of Intervention. Média‑FX paid the Appellant.
+[11] The Appellant tendered the T4 slips (Exhibits A‑6 and A‑7) that Média‑FX issued to him for 2002 and 2003. The slip for 2002 states that the Appellant was paid $24,800 in employment income, that $2,848 in income tax was withheld, that the employee contributions to the Québec Pension Plan amounted to $1,069.91, and that the Employment Insurance premiums totalled $545.60. In 2003, the amounts for the same items were $16,000, $2,028, $738.72 and $336.
+[12] Later on, T4A slips (Exhibit A‑6) were issued for the years 2002 and 2003. The income is no longer entered as employment income on those slips. Rather, it is characterized as other income.
+[13] Exhibit A‑8 consists of two documents entitled "Declaration of Conditions of Employment". The first declaration covers the periods from January 1 to March 30, 2002, and September 15 to December 31, 2002. The second declaration covers the period from January 1 to May 16, 2003. The first declaration is dated October 7, 2003. The second is not dated. These declarations, which were completed for income tax purposes, were signed by Mr. Ahad personally.
+[14] Boxes 2, 6, 8 and 9 of the declarations read as follows:
+2. a) Did you normally require this employee to work away from your place of business or in different places?
+X yes
+no
+b) If yes, what was the employee's area of travel?
+Upper Laurentians
+X yes
+no
+6. a) Did you require this employee to pay other expenses for which the employee did not receive any allowance or repayment?
+X yes
+no
+b) If yes, indicate the type(s) of expense(s).
+Studio Rental
+8. Did you require this employee to be away for at least 12 hours from the municipality and metropolitan area (if there is one) of your business where the employee normally reported for work?
+X yes
+no
+9. a) Did you require the employee under a contract of employment to:
+· rent an office away from your place of business
+· pay for a substitute or assistant
+· pay for supplies that the employee used directly in his or her work
+X yes
+yes
+yes
+no
+X no
+X no
+b) Did you or will you repaid the employee for any of the expenses?
+X yes
+no
+c) If yes, indicate the type of expense and amount you did or will repay.
+yes
+X no
+[15] Exhibit A‑9 is a certification by Mr. Ahad dated January 15, 2003, and addressed to the Caisse populaire Desjardins. It confirms that Mr. Drapeau was an employee of Média‑FX. It states that his monthly gross salary was $4,000.
+[16] Mr. Ahad's explanation for this document was that Mr. Drapeau wished to purchase a car and that the certification was merely prepared as a favour to him.
+[17] In essence, the Appellant is saying that Média‑FX obtained and signed the contracts, and that he performed the contracts as an employee and was accountable to Mr. Ahad for his progress. He says that he was frequently in contact with Mr. Ahad when Mr. Ahad was at his office. Every project had a schedule, and he knew that Média‑FX, which paid him, considered it important that he comply with the schedules. He had no fixed schedule, but claims that he worked very regular hours. He says that he was generally the first to arrive and the last to leave.
+[18] Mr. Ahad, the Intervener's sole director, describes himself as a computerized special effects producer. He admits that the Appellant was his employee, except during the second part of 2002, which is the period of the contract concerning the Zoo de St-Félicien. When Mr. Ahad returned from a trip to Greece, the working relationship between Idées au cube and Mr. Drapeau deteriorated, and Idées au cube terminated its agreement with Média‑FX. Mr. Ahad explained that he had already paid Mr. Drapeau $12,000, and that Idées au cube did not want to pay him more than $5,000 for Mr. Drapeau's composition or sound editing services. To offset the shortfall, he asked Mr. Drapeau to work on the "Quebec All Dressed" project under the direction of Gregory Parks. Mr. Parks frequently did business with Média‑FX and even managed its affairs when Mr. Ahad was absent.
+[19] Exhibit I‑1 includes an estimate by the Appellant with respect to the work done for Idées au cube before it terminated its contract.
+Arguments
+[20] Counsel for the Appellant submits that there is no difference between the description of the working relationship at Média‑FX when the Appellant was its employee, and the description of that relationship when Média‑FX claims he was not its employee. The working conditions were essentially the same. In all the documents that Mr. Ahad wrote or filled out before the CCRA auditors arrived and asked him to pay the amounts deducted at the source, Mr. Ahad asserted that Mr. Drapeau was an employee of Média‑FX.
+[21] Counsel for the Respondent referred to the decision of Dussault J. of this Court in Lévesque v. Canada, [2005] T.C.J. No. 183 (QL), and in particular paragraph 25, where he sets out, as follows, the indicia of control identified by a Court of Québec judge:
+25 In the case at bar, was there a relationship of subordination between Ms. St‑Jules and Mr. Lévesque based on which it can be concluded that a contract of employment exists? Several indicia can be taken into account in ascertaining whether or not a relationship of subordination exists. In Seitz v. Entraide populaire de Lanaudière inc., Court of Québec (Civil Division), No. 705‑22‑002935-003, November 16, 2001, [2001] Q.J. No. 7635 (QL), Judge Monique Fradette provided a series of indicia that can help determine whether or not subordination exists. She discussed this as follows at paragraphs 60-62 of the judgment:
+60 In order for there to be an employment contract, the jurisprudence requires the existence of a right of supervision and immediate direction. The mere fact that a person provides general instructions about the way in which the work is performed, or reserves the right to supervise or inspect the work, is not sufficient to convert the agreement into an employment contract.
+61 A series of indicia developed by the jurisprudence enables courts to determine whether there is a relationship of subordination between the parties.
+62 The indicia of control include:
+- mandatory presence at a workplace
+- compliance with the work schedule
+- control over the employee's absences on vacations
+- submission of activity reports
+- control over the quantity and quality of work
+- imposition of the methods for performing the work
+- power to sanction the employee's performance
+- source deductions
+- benefits
+- employee status on income tax returns
+- exclusivity of services for the employer
+[22] In fact, the questions that she asked the Appellant on cross‑examination were of this nature; they pertained to activity reports, fixed schedule, and mandatory presence at a workplace.
+Analysis and conclusion
+[23] Articles 2085, 2098 and 2099 of the Civil Code of Québec read as follows:
+2085. A contract of employment is a contract by which a person, the employee, undertakes for a limited period to do work for remuneration, according to the instructions and under the direction or control of another person, the employer.
+2098. A contract of enterprise or for services is a contract by which a person, the contractor or the provider of services, as the case may be, undertakes to carry out physical or intellectual work for another person, the client or to provide a service, for a price which the client binds himself to pay.
+2099. The contractor or the provider of services is free to choose the means of performing the contract and no relationship of subordination exists between the contractor or the provider of services and the client in respect of such performance.
+[24] I refer to the first paragraph of the decision of the Federal Court of Appeal in D & J Driveway Inc. v. Canada (Minister of National Revenue – M.N.R.), [2003] F.C.J. No. 1784 (QL):
+The Court once again has to consider the difficult and elusive question of the insurability of employment. As is often the case, the question arises in a situation where the parties' intention is not set down in writing, and where it has not been determined, or was not the subject of questions to witnesses, at the hearing in the Tax Court of Canada.
+[25] The principle recently laid down by the Federal Court of Appeal is that the common intention of the parties is an important factor in determining the nature of a contract. See Wolf v. Canada, [2002] 4 F.C. 396 and Royal Winnipeg Ballet v. M.N.R., 2006 FCA 87. At the same time, the Federal Court of Appeal has always specified the aim of this intention must not be to unlawfully circumvent the law. The Respondent is not alleging this here.
+[26] The intention of the parties, expressed clearly in the various documents adduced in support of this appeal, is obvious: they wished to have a contract of employment. The assertion by one party that the relationship during the last period was a contract of enterprise is contradicted by the documents signed by that very party.
+[27] The indicia of control, which counsel for the Respondent referred to in order to determine whether a contract of employment is involved, are valid. However, in cases where an employee's creativity is required, these indicia cannot be the only consideration. As the Appellant stated, creativity is not necessarily turned on exclusively from 8:00 a.m. to 5:00 p.m. Nonetheless, the Appellant worked long hours in a room that was located on the same premises as Média‑FX's offices, and he met with Mr. Ahad daily when Mr. Ahad was at the office. As stated in the Declarations of Conditions of Employment issued by the payer for income tax purposes, Média-FX gave Mr. Drapeau permission to work elsewhere.
+[28] The source of the Appellant's income was Média‑FX, not Média-FX's clients. Média‑FX negotiated the contracts and had them performed by its employee, Mr. Drapeau. Clients paid Média‑FX in accordance with certain terms and conditions. Média‑FX paid Mr. Drapeau in accordance with other terms and conditions. The cost overruns that Mr. Ahad experienced clearly show that these different terms and conditions existed. Média-FX received fees and other payments from its clients for services rendered. Mr. Drapeau received a salary from Média‑FX.
+[29] Mr. Ahad had the ability to control the work performed by Mr. Drapeau. In fact, when the working relationship with his client Idées au cube soured, he was the one who steered Mr. Drapeau toward other work, namely the "Quebec All Dressed" project. This working relationship was based on Média‑FX's trust in an employee who worked in a creative field.
+[30] Remuneration was in the form of a salary. The payer directed the Appellant. The payer exercised control over the Appellant or had the power to exercise such control. The Appellant's conditions of employment were those of an employee under a contract of employment within the meaning of article 2085 of the Civil Code of Québec.
+[31] Consequently, the appeal must be allowed.
+Signed at Ottawa, Canada, this 19th day of April 2006.
+"Louise Lamarre Proulx"
+Lamarre Proulx J.
+Translation certified true
+on this 18th day of July 2007
+Monica F. Chamberlain, Reviser
+CITATION: 2006TCC242
+COURT FILE NO.: 2005-3175(EI)
+STYLE OF CAUSE: Michel Drapeau v. M.N.R. and Média-FX Inc.
+PLACE OF HEARING: Montréal, Quebec
+DATE OF HEARING: March 20, 2006
+REASONS FOR JUDGMENT BY: The Honourable Justice Louise Lamarre Proulx
+DATE OF JUDGMENT: April 19, 2006
+APPEARANCES:
+Counsel for the Appellant:
+Gilbert Nadon
+Counsel for the Respondent:
+Christina Ham
+Agent for the Intervener:
+Paul Ahad
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Gilbert Nadon
+Firm: Ouellet Nadon Cyr De Merchant Bernstein Cousineau Heap Palardy Gagnon Tremblay Leduc
+Montréal, Quebec
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

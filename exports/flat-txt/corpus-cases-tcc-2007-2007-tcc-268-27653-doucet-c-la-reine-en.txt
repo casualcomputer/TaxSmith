@@ -1,0 +1,356 @@
+Title: Doucet c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27653/index.do
+Corpus path: corpus/cases/tcc/2007/2007-tcc-268-27653-doucet-c-la-reine-en.md
+Document type: case_law
+Last modified: 2007-05-22
+
+# Doucet c. La Reine
+
+- Citation: 2007 TCC 268
+- Decision date: 2007-05-22
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 409, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Doucet c. La Reine
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-05-22
+Neutral citation
+2007 TCC 268
+File numbers
+2004-794(IT)G
+Judges and Taxing Officers
+Alain Tardif
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2004-794(IT)G
+BETWEEN:
+JOSETTE DOUCET,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on common evidence with the appeals of David Doucet (2004‑751(IT)I) and Jonathan Doucet (2004-755(IT)I)
+on February 22, 2007, at Rimouski, Quebec.
+Before: The Honourable Justice Alain Tardif
+Appearances:
+Counsel for the Appellant:
+Norman Ross
+Counsel for the Respondent:
+Marie-Claude Landry
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment, made under subsection 160(1) of the Income Tax Act, concerning the notice of assessment bearing number 19602 and dated December 4, 2002, is dismissed with one set of costs to the respondent, in accordance with the attached reasons for judgment.
+Signed at Ottawa, Canada, this 22nd day of May 2007.
+"Alain Tardif"
+Tardif J.
+Translation certified true
+on this 29th day of February 2008.
+Erich Klein, Revisor
+Docket: 2004-751(IT)I
+BETWEEN:
+DAVID DOUCET,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on common evidence with the appeals of Jonathan Doucet (2004-755(IT)I) and Josette Doucet (2004-794(IT)G)
+on February 22, 2007, at Rimouski, Quebec.
+Before: The Honourable Justice Alain Tardif
+Appearances:
+Counsel for the Appellant:
+Norman Ross
+Counsel for the Respondent:
+Marie-Claude Landry
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment, made under subsection 160(1) of the Income Tax Act, concerning the notice of assessment bearing number 19604 and dated December 4, 2002, is dismissed with one set of costs to the respondent, in accordance with the attached reasons for judgment.
+Signed at Ottawa, Canada, this 22nd day of May 2007.
+"Alain Tardif"
+Tardif J.
+Translation certified true
+on this 29th day of February 2008.
+Erich Klein, Revisor
+Docket: 2004-755(IT)I
+BETWEEN:
+JONATHAN DOUCET,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on common evidence with the appeals of David Doucet (2004-751(IT)I) and Josette Doucet (2004-794(IT)G)
+on February 22, 2007, at Rimouski, Quebec.
+Before: The Honourable Justice Alain Tardif
+Appearances:
+Counsel for the Appellant:
+Norman Ross
+Counsel for the Respondent:
+Marie-Claude Landry
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment, made under subsection 160(1) of the Income Tax Act, concerning the notice of assessment bearing number 19603 and dated December 4, 2002, is dismissed with one set of costs to the respondent, in accordance with the attached reasons for judgment.
+Signed at Ottawa, Canada, this 22nd day of May 2007.
+"Alain Tardif"
+Tardif J.
+Translation certified true
+on this 29th day of February 2008.
+Erich Klein, Revisor
+Citation: 2007TCC268
+Date: 20070522
+Dockets: 2004-794(IT)G
+2004-751(IT)I
+2004-755(IT)I
+BETWEEN:
+JOSETTE DOUCET,
+DAVID DOUCET,
+JONATHAN DOUCET,
+Appellants,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Tardif J.
+[1] These are appeals from assessments made under section 160 of the Income Tax Act (the "Act").
+[2] The issue in the appeal of Josette Doucette is whether that appellant is required to pay an amount of $15,000 in connection with an indirect transfer of property between Gilles Doucet, acting through Nicole Allard, and the said appellant. The issue in the appeals of Jonathan Doucet and David Doucet is whether those appellants are required to pay an amount of $10,000 in connection with an indirect transfer of property between Gilles Doucet, acting through Nicole Allard, and the said appellants.
+[3] At the beginning of the hearing, the appellants very clearly stated that only the matter of consideration was in dispute. In other words, the appellants submit that they did not in any way benefit from the transfers, the existence of which is admitted. Counsel for the appellants initially requested that each appeal proceed separately, but it was agreed, following the testimony of the appellant Josette Doucet, that it would be more practical to proceed with all three appeals on common evidence.
+[4] The three appellants testified, as did Gilles Doucet, the initial tax debtor, who brought about the fact situation giving rise to the application of section 160 of the Act.
+[5] In the case of Josette Doucet, file No. 2004-794(IT)G, the following facts and statements were relied on in making the assessments under appeal:
+[TRANSLATION]
+(a) On May 19, 1998, the Minister issued reassessments in respect of Gilles Doucet for the 1994, 1995 and 1996 taxation years, for which there was a tax debt of $59,353.27;
+(b) The Minister learned that on November 27, 1997, Gilles Doucet had transferred two immovables to his spouse Nicole Allard, namely:
+(i) a property located at 160 De la Cathédrale Street in Rimouski;
+(ii) a property located at 240 Tanguay Street in Rimouski;
+(c) According to the calculations and appraisals of the Minister, these property transfers gave rise to an estimated benefit of $150,000 for Gilles Doucet's spouse;
+(d) On March 23, 2001, the Minister issued an assessment holding Nicole Allard jointly and severally liable to pay an amount equal to her husband's tax debt for the 1994, 1995 and 1996 taxation years:
+Year
+Tax
+U.I. Premiums
+E.I. Premiums
+Penalties
+Interest
+Total
+1994
+$10,003.79
+$5,047.67
+$11,239.66
+$26,291.12
+1995
+$13,862.31
+$6,974.93
+$11,552.69
+$32,389.93
+1996
+$8,687.75
+$4,402.44
+$5,777.32
+$18,867.51
+$77,548.56
+(e) Nicole Allard did not contest this assessment dated March 23, 2001;
+(f) During the month of March 2001, Nicole Allard sold the two properties on De la Cathédrale and Tanguay streets in Rimouski;
+(g) Following the sale of the properties located on De la Cathédrale and Tanguay streets in Rimouski, Nicole Allard deposited the amount of $92,193 at the National Bank of Canada in Rimouski during the month of March 2001;
+(h) Two bank drafts in the amounts of $10,000 and $5,000 dated March 21, 2001, payable to the order of Nicole Allard, had as second endorser the appellant, who, on March 21, 2001, deposited them in part in accounts 30757 and 13304 that she had at the Caisse populaire de Rimouski;
+(i) The appellant is the sister-in-law daughter of Nicole Allard and the sister of Gilles Doucet;
+(j) The appellant did not give any consideration for the two bank drafts which she endorsed deposited in her bank accounts;
+(k) As at December 4, 2002, the Minister held the appellant jointly and severally liable up to the amount of $15,000 in respect of the tax debt of Gilles Doucet for the 1994, 1995 and 1996 taxation years.
+[6] In the case of David Doucet, file No. 2004-751(IT)I, the following facts and statements were relied on in making the assessments under appeal:
+[TRANSLATION]
+(a) On May 19, 1998, the Minister issued reassessments in respect of Gilles Doucet for the 1994, 1995 and 1996 taxation years, for which there was a tax debt of $59,353.27;
+(b) The Minister learned that on November 27, 1997, Gilles Doucet had transferred two immovables to his spouse, Nicole Allard, namely:
+(i) a property located at 160 De la Cathédrale Street in Rimouski;
+(ii) a property located at 240 Tanguay Street in Rimouski;
+(c) According to the calculations and appraisals of the Minister, these property transfers gave rise to an estimated benefit of $150,000 for Gilles Doucet's spouse;
+(d) On March 23, 2001, the Minister issued an assessment holding Nicole Allard jointly and severally liable to pay an amount equal to her husband's tax debt for the 1994, 1995 and 1996 taxation years:
+Year
+Tax
+U.I. Premiums
+E.I. Premiums
+Penalties
+Interest
+Total
+1994
+$10,003.79
+$5,047.67
+$11,239.66
+$26,291.12
+1995
+$13,862.31
+$6,974.93
+$11,552.69
+$32,389.93
+1996
+$8,687.75
+$4,402.44
+$5,777.32
+$18,867.51
+$77,548.56
+(e) During the month of March 2001, Nicole Allard sold the two properties;
+(f) Following the sale of the properties located on De la Cathédrale and Tanguay streets in Rimouski, Nicole Allard deposited the amount of $92,193 at the National Bank of Canada in Rimouski during the month of March 2001;
+(g) A bank draft in the amount of $10,000 dated March 13, 2001, payable to the order of Nicole Allard had as second endorser the appellant, who deposited it in his account number 31826 at the Caisse populaire de Rimouski, on May 22, 2001;
+(h) The appellant is the son of Nicole Allard and Gilles Doucet;
+(i) As at December 4, 2002, the Minister held the appellant jointly and severally liable up to the amount of $10,000 in respect of the tax debt of Gilles Doucet for the 1994, 1996 and 1996 taxation years.
+[7] In the case of Jonathan Doucet, file No. 2004-755(IT)I, the following facts and statements were relied on in making the assessments under appeal:
+[TRANSLATION]
+(a) On May 19, 1998, the Minister issued reassessments in respect of Gilles Doucet for the 1994, 1995 and 1996 taxation years, for which there was a tax debt of $59,353.27;
+(b) The Minister learned that on November 27, 1997, Gilles Doucet had transferred two immovables to his spouse, Nicole Allard, namely:
+(i) a property located at 160 De la Cathédrale Street in Rimouski;
+(ii) a property located at 240 Tanguay Street in Rimouski;
+(c) According to the calculations and appraisals of the Minister, these property transfers gave rise to an estimated benefit of $150,000 for Gilles Doucet's spouse;
+(d) On March 23, 2001, the Minister issued an assessment holding Nicole Allard jointly and severally liable to pay an amount equal to her husband's tax debt for the 1994, 1995 and 1996 taxation years:
+Year
+Tax
+U.I. Premiums
+E.I. Premiums
+Penalties
+Interest
+Total
+1994
+$10,003.79
+$5,047.67
+$11,239.66
+$26,291.12
+1995
+$13,862.31
+$6,974.93
+$11,552.69
+$32,389.93
+1996
+$8,687.75
+$4,402.44
+$5,777.32
+$18,867.51
+$77,548.56
+(e) During the month of March 2001, Nicole Allard sold the two properties;
+(f) Following the sale of the properties located on De la Cathédrale and Tanguay streets in Rimouski, Nicole Allard deposited the amount of $92,193 at the National Bank of Canada in Rimouski during the month of March 2001;
+(g) A bank draft in the amount of $10,000 dated March 13, 2001, payable to the order of Nicole Allard had as second endorser the appellant, who deposited it in his account number 103340 at the Caisse populaire de Rimouski on June 1, 2001;
+(h) The appellant is the son of Nicole Allard and Gilles Doucet;
+(i) As at December 4, 2002, the Minister held the appellant jointly and severally liable up to the amount of $10,000 in respect of the tax debt of Gilles Doucet for the 1994, 1995 and 1996 taxation years.
+[8] In answering questions from her counsel, the appellant Josette Doucet basically stated that she did not receive any benefit of any kind whatsoever as a result of the transfers on which the assessments were based.
+[9] She admitted having been a party to two transfers made by means of bank drafts, but added that she did not receive any benefit whatsoever.
+[10] The explanations given were as follows:
+· The appellant Josette Doucet stated that she followed very clear instructions regarding the use of the $10,000 corresponding to the first bank draft. She said that she handed over to her spouse $8,800; this, she explained, was in repayment of a debt created pursuant to the terms of a notarial deed dated June 28, 1990, when her spouse invested a little over $10,000 in order to eventually obtain an undivided share of the immovables referred to in the deed (Exhibit A-1).
+[11] As far as the balance of $1,200 was concerned, appellant Josette Doucet said she was instructed to deposit it in her personal account to pay off a line of credit used for someone else. These instructions were given not by Nicole Allard, to whom the bank draft was made out, but by Nicole Allard's spouse, Gilles Doucet.
+[12] As far as the other bank draft, in the amount of $5,000, was concerned, she stated that she repaid a debt of $3,000 owed by Gilles Doucet to his mother and handed the balance of $2,000 over to Gilles Doucet himself.
+[13] Josette Doucet's spouse, André Huppé, confirmed her testimony. He also gave his interpretation of the content of the notarial document. The explanations given did not correspond either to the content or to the letter of the document. He stated that he had always believed that his interpretation was the proper one and that, if it was not, in that case he had simply been taken in. I note that André Huppé is a trained engineer.
+[14] The evidence also showed that appellant Josette Doucet had received a power of attorney authorizing her to make transactions on her mother's bank account.
+File No. 2004-755(IT)I – Jonathan Doucet
+[15] Jonathan Doucet stated that he was young when the transfer of $10,000 took place. He seemed to be very surprised to see that he had signed a power of attorney authorizing access to his bank account. He said that he had complete confidence, even blind confidence, in his parents to the extent that he agreed to do what was asked of him without wondering about the consequences. He stated that he used the bank draft to make a payment of $5,000 to a certain Mr. Ross and handed the balance of $4,935 over to his father.
+File No. 2004-751(IT)I – David Doucet
+[16] David Doucet was also very young when he took part in the transfer of, once again, an amount of $10,000. He explained that he had just finished his studies and was very interested in purchasing a used automobile, which cost between $4,000 and $5,000. This appellant's testimony on this point was quite vague.
+[17] He stated that he had told his parents that he was interested in the automobile. They allegedly advanced him the money by means of a bank draft in the amount of $10,000. He then purchased the automobile in question and paid the balance to his parents in a number of instalments over a period of a few months.
+[18] Gilles Doucet also testified. In general, he confirmed what the appellants had stated. In light of his testimony, there is no doubt that he orchestrated all of the transactions.
+[19] Moreover, it appeared obvious to me from his demeanour, the way he expressed himself and the vocabulary he used that Gilles Doucet had used his spouse, who did not testify, for the obvious purpose of not paying his tax debt. He dreamed up all kinds of schemes to avoid facing his tax liabilities. I will restrict my comments on this, because, as counsel for the appellants rightly pointed out, this appeal does not concern Gilles Doucet in the least.
+[20] However, I consider his testimony helpful for the purpose of understanding that the appellants were clearly used as intermediaries, even as fronts, in transactions obviously designed to allow Gilles Doucet to evade taxes on assets worth significant amounts of money. Even so, such a scheme cannot prevent the application of the provisions of section 160 of the Act. In fact, that sort of agreement, if there ever was one, has no effect and therefore obviously cannot be set up against the respondent.
+[21] First of all, I think it is important to note that the appellants' position is unusual in that they admit the transfers. In fact, they admit having actually received the amounts, but hasten to add that this did not result in enrichment. In other words, they acknowledge that the transfers took place and add that they did not benefit from them in any way whatsoever.
+[22] Is this a valid or sufficient reason to conclude that section 160 of the Act does not apply? I do not think so, as the basis for applying section 160 of the Act is the transfer.
+[23] Because of the consequences it entails, a transfer is something very important. Indeed, a transfer is a juridical act the consequence of which is the transfer of the ownership of the property which is the subject of the transfer.
+[24] In other words, the transferred property changes patrimonies. The property leaves the patrimony of the transferor to become part of the patrimony of the transferee at the precise moment of the transfer.
+[25] Any property that has been transferred within the meaning of section 160 of the Act becomes the exclusive responsibility of the transferee the moment the property is transferred. In other words, from the time of the transfer, any dealings involving the transferred property are exclusively attributed to the transferee in the case of a transfer to which section 160 applies.
+[26] The appellants stated more than once through their counsel that their uncontradicted explanations, which were moreover confirmed by André Huppé and Gilles Doucet, must result in the appeals being allowed. They added that the respondent failed to prove certain points.
+[27] On the one hand, I think it is important to note that in this regard the burden of proof is on the appellants and not the respondent. On the other hand, to discharge the burden of proof, it is not sufficient to give just any type of explanation. It is absolutely essential that the explanations be reasonable, plausible, consistent and, above all else, relevant.
+[28] In this case, the appellants described a very unusual situation in which there was obviously no room for logic, so much so that I even wondered if the inconsistencies were not quite simply intended, indeed sought, with the obvious purpose of making the tax authorities lose track of the assets which were removed from the patrimony of the tax debtor, Gilles Doucet.
+[29] I cannot see any other reason, especially considering that the person who could have been in a position to provide some clarification, that is, the person in whose name the substantial bank drafts were drawn, did not testify.
+Analysis
+[30] Counsel for the appellants never disputed or denied the existence of the transfers; quite the contrary, the transfers were admitted and confirmed by the transferees. He essentially submitted that the transfers did not enrich the appellants or confer any benefit on them, that the appellants did not profit or benefit from the transfers.
+[31] Are such arguments, even if well-founded, sufficient to enable one to avoid the application of the Act? Accepting the appellants' submissions would mean that one need only prove that there was no enrichment to defeat any assessment that has section 160 of the Act as its legal basis.
+[32] Take for example the case of a person benefiting from a transfer of property consisting of a sum of $100,000. According to the reasoning of the appellants, it would be sufficient for that person to prove, in order to win the case and defeat an assessment issued under section 160 of the Act against that person as transferee, that he or she gambled and lost the whole amount at a casino. Putting it even more simply, it could be sufficient to prove that the money was purely and simply lost in the seconds following the transfer.
+[33] Parliament was more perceptive and, above all, more astute in enacting section 160 of the Act. In order to better understand the scope of this section, it is useful to refer to a number of decisions cited by the respondent. I refer in particular to the following decisions:
+· In Medland v. Canada, [1998] F.C.J. No. 708, Court file No. A‑18‑97, Desjardins J.A. wrote the following at paragraphs 14, 16 and 17:
+14 It is not disputed that the tax policy embodied in, or the object and spirit of subsection 160(1), is to prevent a taxpayer from transferring his property to his spouse in order to thwart the Minister's efforts to collect the money which is owned [sic] to him . . . .
+16 The word "property" in subsection 160(1) of the Act, which is defined as meaning "property of any kind", including "money" . . . .
+17 The word "transfer" is not defined in the Act . . . .
+· In Montreuil v. Canada, [1994] T.C.J. No. 418, Court file Nos. 91‑2684(IT)G, 91‑2685(IT)G, 91‑2686(IT)G and 91‑2687(IT)G, Judge Pierre Dussault wrote the following at paragraphs 21 and 22:
+21 I do not see here, or anywhere else in subsection 160(1), any expression or word that could lead one to believe that a person who transfers property must do so with the intention or goal of evading his tax obligations. As was pointed out by counsel for the respondent, Judge Thorson of the Exchequer Court, in his judgment in Fasken (supra), categorically refused to see such a requirement in an attribution rule worded in similar terms . . . .
+22 . . . The intent to avoid tax obligations is not a factor that is required by this provision.
+· In Williams v. Canada, [2000] T.C.J. No. 459, Judge Hamlyn wrote the following at paragraphs 11, 12 and 16:
+11 On the meaning of the word "transfer", I refer to the Exchequer Court decision in Fasken v. Minister of National Revenue, 49 D.T.C.491, in which Thorson, P. said at page 497:
+The word "transfer" is not a term of art and has not a technical meaning. It is not necessary to a transfer of property from a husband to his wife that it should be made in any particular form or that it should be made directly. All that is required is that the husband should so deal with the property as to divest himself of it and vest it in his wife, that is to say, pass the property from himself to her. The means by which he accomplishes this result, whether direct or circuitous, may properly be called a transfer.
+12 Since the Appellant received money in her bank account, it is difficult to conclude that no transfer occurred unless the Appellant was acting as agent for Ronald Williams and from the evidence I cannot come to that conclusion. In White v. The Queen, 96 D.T.C. 1552, a decision which bares [sic] similarities to the case at bar, I rejected the argument that there was no transfer to the Appellant. In White, supra, the Appellant submitted that the amounts deposited in a personal checking account was [sic] for the purpose of paying for her husband's business and personal bills as well as for certain living expenses for his family. In dismissing the Appellant's argument and appeal, I stated at page 1554 . . . .
+16 In this appeal, the spouse directed ETI to make all cheques on account of his salary from Cable and Broom payable to the Appellant. The assigned amount was deposited to the Appellant's account. The assigned amount was paid by the Appellant for the support of the Appellant and expenses associated with the Georgian Bay cottage and the urban Etobicoke home. Once transferred, the Appellant exercised complete control and discretion over the funds. The Appellant's spouse made no third party household expenses payments.
+[Emphasis added.]
+· In Sinnott v. Canada, [1996] T.C.J. No. 424, Judge Sobier wrote the following at paragraphs 15, 17, 18 and 19:
+15 Dealing with the question of the actual transfers in White (supra), Judge Hamlyn said at page 2940:
+In this case, the effect was the deposits once transferred from Lewis G. White's control to the appellant's personal checking account meant those deposits were not subject to Revenue Canada seizure. The appellant exercised full control over the funds deposited. . . .
+The moneys that were paid to Revenue Canada during this period of time apparently related to current debts and, from the evidence, appear to be outside the pre-existing identified Revenue Canada debt.
+The appellant argues that the money could not be spent at her discretion and had to be used to pay for her husband's business and personal bills as well as to pay for such expenses as food. I do not accept the appellant's assertion. Moreover, this argument does not aid the appellant's thesis to the effect there was no transfer under subsection 160(1) of the Act. Whatever agreement the parties may have had between them, in the absence of any proven grounds to bring the matter outside subsection 160(1) of the Act, has no bearing whatsoever on the Minister or any other third party to the transfer. That some of the money had to have been used to support the appellant's husband's affairs only lends credence to the view that the transfer was designed to evade the payment of outstanding taxes.
+In summary, I conclude from the evidence, the personal checking account of the appellant was set up to avoid the potential seizure of funds by Revenue Canada. The nature and character of the transfers were absolute vesting control in the appellant and without contractual consideration.
+As all the deposits were transfers within the meaning of subsection 160(1) of the Act, the appellant is jointly and severally liable to pay the amount of $20,143 which Lewis G. White is liable to pay and which he transferred to the appellant.
+. . .
+17 While I do not believe the Appellant and her husband intended to set up her account for the purpose of avoiding potential seizure, the transfers had that effect. The monies were hers once she deposited the cheques.
+18 I am inclined to agree with the reasons of Judge Hamlyn in White and I adopt them. Once the cheques were deposited into her account, the transfer took place. The monies were hers to do with what she wished. Counsel for the Appellant conceded that once she had the money, she could have purchased a mink coat.
+19 . . . At the time the transfers were made, no consideration was given.
+[Emphasis added.]
+[34] In the present case, Gilles Doucet was always the one in control of things. His spouse, who did not testify, only carried out his instructions. Moreover, Gilles Doucet's attitude and also his vocabulary and, in general, the language he used confirm this interpretation. The following excerpts are to my mind very revealing of the role played by Gilles Doucet. As regards the appellants, they were indeed parties to the transfers giving rise to the assessments under appeal.
+[TRANSLATION]
+. . .
+A. Yes, yes. Gilles and Nicole came to give me . . . She told me this is your $10,000; they told me it's your $10,000 that you invested in the years . . . at the beginning of the nineties.
+THE COURT:
+Q. But why didn't he simply make it out to you?
+A. That's the way they wanted to repay me; like that, Your Honour. It was a draft that was cashable, all I had to do was deposit it and I would then have $10,000 in my account.
+. . .
+A. Well, I received . . . my father came with a bank draft, Gilles Doucet. A bank draft that was to be in the name of Nicole Allard, and he asked me to deposit it in my account and to then write a cheque for $5,000 to Bertrand Ross. It was at my father's request; he wanted me to write a cheque to Bertrand Ross for $5,000.
+After that, I think it was maybe a couple of weeks later, I couldn't give you an exact date, I paid back the remaining $5,000 in full to my father, Gilles, that I had deposited in my account, from that bank draft. I think it was maybe $4,900 . . . I think it was $4,935; $65 was missing.
+. . .
+EXHIBIT I-1-C-6-B: Statement of Account
+Q. So, your last repayment?
+A. Yes, the last . . .
+Q. I guess.
+A. Yes, the last repayment was made on the seventeenth of January. There is a withdrawal of $3,600. And of that I had repaid $1,200 that was missing because . . . and the $3,600 withdrawal is because I went on a trip; I withdrew a lot more money and part of it was to be used to pay back my father.
+Q. So, you now have nothing left of the $10,000?
+A. No.
+. . .
+[35] From the time of the transfer of the amounts in question, the appellants had full control over that money. What they decided to do with it, or the fact that they obeyed instructions, takes nothing away from the fact that they were entirely free to do whatever they wished with the amounts transferred. Even if it was only for a short period, legally speaking they became, in relation to third parties, including the respondent, the absolute owners of the amounts transferred, and that is enough for section 160 of the Act to be applicable.
+[36] The control that Gilles Doucet or his wife may have had over the amounts deposited in the appellants' accounts did not give them a property right in something of which they had legally divested themselves through the transfer.
+[37] In one of these cases, there was a power of attorney of which the appellant concerned was apparently unaware. Such a power of attorney had nothing to do with ownership. It merely conferred a basic power of administration upon the attorney.
+[38] Ms. Allard, in whose name the bank drafts were drawn, legally divested herself of the amounts specified in the drafts when those amounts were transferred to the appellants' accounts, without any consideration.
+[39] The appellants do not seem to make any distinction between the consideration mentioned in section 160 of the Act and enrichment. The appellants claim there was no enrichment, but have utterly failed to address an absolutely fundamental aspect: the consideration.
+[40] In this case, the appellants claim that there was a gratuitous transfer, or even a transfer of convenience, and that, accordingly, they cannot be subject to an assessment under section 160 of the Act.
+[41] To adopt the appellants' interpretation would have the effect of completely obscuring one of the basic elements regarding the scope of section 160 of the Act. Moreover, this same reasoning would also have the effect of raising as an issue the moment at which ownership was transferred. Property that is transferred immediately becomes the property of the transferee, who at the same time acquires all the powers associated with the use of this property.
+[42] In addition, the interpretation put forward by the appellant Josette Doucet completely disregards the reality that transferred property moves from one patrimony to another one.
+[43] In no case is it useful or necessary to determine whether the transferee was enriched or even impoverished in the weeks or moments following a transfer of property. The point in time at which enrichment is assessed is the precise moment of the transfer.
+[44] Accordingly, it is of little importance whether, within seconds or fractions of seconds of a transfer, the transferee decided to divest himself of the property or a part of the property obtained by that transfer. Liability under section 160 of the Act is assessed at the time of the transfer, even if the property transferred was part of the transferee's patrimony for only a fraction of a second.
+[45] To claim and indeed to prove that the transferee was not enriched following the transfer is neither a sufficient nor, for that matter, a relevant basis for excluding the application of section 160.
+[46] A very important distinction must be made. Indeed, it would have been quite different if the evidence had shown that the property transferred had no value. In that case, there would obviously not have been any enrichment of the transferee's patrimony.
+[47] In this case, not only did the property transferred have value, but there was no doubt about its precise value, as that property was the proceeds of a bank draft that was equivalent to cash.
+[48] For all these reasons, the appeals are dismissed. The respondent will be entitled to one set of costs.
+Signed at Ottawa, Canada, this 22nd day of May 2007.
+"Alain Tardif"
+Tardif J.
+Translation certified true
+on this 29th day of February 2008.
+Erich Klein, Revisor
+CITATION: 2007TCC268
+COURT FILE NOS.: 2004-794(IT)G, 2004-751(IT)I,
+and 2004-755(IT)I
+STYLES OF CAUSE: Josette Doucet v. Her Majesty the Queen
+David Doucet v. Her Majesty the Queen
+Jonathan Doucet v. Her Majesty the Queen
+PLACE OF HEARING: Rimouski, Quebec
+DATE OF HEARING: February 22, 2007
+REASONS FOR JUDGMENT BY: The Honourable Justice Alain Tardif
+DATE OF JUDGMENT: May 22, 2007
+APPEARANCES:
+Counsel for the Appellants:
+Norman Ross
+Counsel for the Respondent:
+Marie-Claude Landry
+COUNSEL OF RECORD:
+For the Appellants:
+Name: Norman Ross
+Firm: Ross & Associés, Avocats
+City: Rimouski, Quebec
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

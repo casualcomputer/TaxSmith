@@ -1,0 +1,132 @@
+---
+title: "Brauer v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/31008/index.do"
+last_modified: "2012-11-02"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2012 TCC 382"
+citation2: ""
+neutral_citation: "2012 TCC 382"
+decision_date: "2012-11-02"
+language: "en"
+item_id: "31008"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4890
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T08:03:39.336000+00:00"
+cases_cited_count: 2
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "308f357d5311ce458397d74db7cc06fa3161a301a32ef3765e58c8ac46951c2a"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Brauer v. The Queen
+
+- Citation: 2012 TCC 382
+- Decision date: 2012-11-02
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4890, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Brauer v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2012-11-02
+Neutral citation
+2012 TCC 382
+File numbers
+2010-3697(IT)G
+Judges and Taxing Officers
+Randall S. Bocock
+Subjects
+Income Tax Act
+Decision Content
+Citation: 2012 TCC 382
+Date: 20130219
+Dockets: 2010-3697(IT)G
+2010-3489(GST)I
+BETWEEN:
+RENATE BRAUER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+AMENDED REASONS FOR JUDGMENT
+Bocock J.
+[1] These two matters involve the assessment of a taxpayer for vicarious liability in respect of funds transferred to her bank account over an 18 month period by the taxpayer’s son. It involves two appeals because the liability is for both income tax and goods and services tax arrears confirmed in the Respondent’s Reply, in both matters, to be the aggregate sum of $55,529.21 (the “Arrears”).
+[2] For each respective and concordant section of each Act to apply, namely subsection 160(1) of the Income Tax Act and subsection 325(1) of the Excise Tax Act (collectively the “Acts”), the following elements must exist:
+a) the parties must not be dealing at arm’s length;
+b) the transferor must be liable for the Arrears to the Minister;
+c) there must be a transfer of property; and
+d) consideration less than fair market value of the transferred property shall not have been paid, tendered or otherwise conveyed by the transferee to the transferor.
+I. Facts
+[3] The Appellant lives in Toronto, Ontario and her son lives in Winnipeg, Manitoba. The son, the tax debtor, was subject to enforcement proceedings undertaken by Minister, in respect of the Arrears. The Appellant testified that she knew that such proceedings limited her son’s ability to have and utilize a bank account for his financial dealings. Both she and her son testified that the utilization of a payroll cheque cashing business would generate cheque cashing fees and otherwise reduce the amount of the son’s take-home pay.
+[4] Accordingly, at the son’s request, the Appellant provided her son with her multi-branch service and debit card for her bank account. The card permitted her son to access the account for deposits and withdrawals. Over 18 months the son deposited his pay cheques and subsequently withdrew amounts almost identical to the full value of the deposits.
+[5] With respect to the appeals, the Appellant concedes that the Arrears are owing and that the taxpayer and the Appellant, as mother and son, are not dealing at arm’s length. Therefore the two issues in dispute remain whether there was a legal transfer of the funds and whether there was legal consideration paid by the mother to the son for the property transfer.
+A. Appellant’s Position
+[6] On the issue of transfer, the Appellant states that no transfer occurred because of the existance of an understanding between the Appellant and her that all monies would be preserved for the son as the fruit of his labours and never were, nor were ever intended to be, the property of the Appellant. The Respondent did not dispute this and attributed the scheme to parental love and concern by the Appellant for her son. The Appellant’s inaction, non-utilization and lack of perception of any entitlement to the funds, in the mind of the Appellant and her counsel, mean that there was no transfer within the meaning of the applicable sections of the Acts.
+[7] On the issue of consideration, the Appellant contends that the understanding and intention not to access the funds deposited into her account constituted consideration of a valuable nature. The Appellant received no net benefit and therefore could not be vicariously liable on a common sense basis since there was no attempt to have her permanently shield or use the money and moreover the money would revert back to the son for his benefit or presumably the benefit of his creditors.
+B. Respondent’s Position
+[8] The Respondent called no evidence. Instead counsel relied, inter alia, upon the case of Livingston v. Canada, 2008 FCA 89, 2008 DTC 6233, as clear authority that the transfer had taken place and thereby established the third element necessary to invoke the respective sections of the Acts. The case stands for authority that no agreement existed establishing the ownership, legal or beneficial, of the transfer assets simply by inaction or passivity. Specifically at paragraphs 21, 22 and 24 of Livingston the Court states [with emphasis added]:
+21 The deposit of funds into another person’s account constitutes a transfer of property. To make the point more emphatically, the deposit of funds by Ms. Davies into the account of the respondent permitted the respondent to withdraw those funds herself anytime. The property transferred was the right to require the bank to release all the funds to the respondent. The value of the right was the total value of the funds.
+22 In addition, there is a transfer of property for the purposes of section 160 even when beneficial ownership has not been transferred. Subsection 160(1) applies to any transfer of property -- “by means of a trust or by any other means whatever”. Thus, subsection 160(1) categorizes a transfer to a trust as a transfer of property. Certainly, even where the transferor is the beneficiary under the trust, nevertheless, legal title has been transferred to the trustee. Obviously, this constitutes a transfer of property for the purposes of subsection 160(1) which, after all, is designed, inter alia, to prevent the transferor from hiding his or her assets, including behind the veil of a trust, in order to prevent the CRA from attaching the asset. Therefore it is unnecessary to consider the respondent’s argument that beneficial title to the funds remained with Ms. Davies.
+[…]
+24 The trial judge emphasized in his reasons that the respondent ultimately received no monetary benefit. The respondent argues that this is a critical factor in considering whether there has been a transfer of property. In my opinion it is irrelevant whether or not the respondent ultimately received a “benefit.” It does not matter that the funds went back to Ms. Davies. The respondent certainly received property at the time of transfer which is the relevant time for the purposes of subsection 160(1). That the money happened to go back to Ms. Davies in the end is not sufficient to reverse the triggering of the provision. As was stated by this Court in Heavyside, supra at paragraph 9:
+Once the conditions of subsection 160(1) are met... the transferee becomes personally liable to pay the tax determined under that subsection ... That liability arises at the moment of the transfer ... and is joint and several with that of the transferor. The Minister may “at any time” thereafter assess the transferee (subsection 160(2)) and the transferee’s joint liability will only disappear with a payment made by her or by the transferor in accordance with subsection 160(3)).
+[9] The Federal Court of Appeal has clearly stated that a transfer occurs at the point of deposit for the purposes of subsection 160(1).
+[10] On the issue of consideration the Court was directed to paragraphs 27 and 28 of the same decision.
+[27] Under subsection 160(1), a transferee of property will be liable to the CRA to the extent that the fair market value of the consideration given for the property falls short of the fair market value of that property. The very purpose of subsection 160(1) is to preserve the value of the existing assets in the taxpayer for collection by the CRA. Where those assets are entirely divested, subsection 160(1) provides that the CRA’s rights to those assets can be exercised against the transferee of the property. However, subsection 160(1) will not apply where an amount equivalent in value to the original property transferred was given to the transferor at the time of transfer: that is, fair market value consideration. This is because after such a transaction, the CRA has not been prejudiced as a creditor. Applying such principles to the case at bar, it is clear that the transaction between Ms. Davies and the respondent left Ms. Davies without anything equivalent to the property transferred that could be collected by the CRA, and thus there couldn't possibly be consideration.
+[28] The Tax Court Judge erred in law by failing to conduct any analysis of the fair market value of the consideration. He simply concluded that it was “adequate.” I fail to see how the fair market value of the consideration, if any did exist, would be equivalent to the funds deposited. Why would Ms. Davies give an amount of money to the respondent in consideration for the ability to withdraw the money, when the respondent retains the power to take the money? No prudent, arm's length purchaser not motivated by the prospect of evading collection of their tax debt would pay the full value of funds in exchange for the right of access that Ms. Davies received. There was no evidence on which the Tax Court Judge could conclude that what was provided by the respondent was equal to the fair market value of the money put into the account.
+In the absence of tangible consideration or value, adequate consideration for the purposes of subsection 160(1) may be not implied or imputed.
+II. Analysis and Decision
+[11] The Appellant is a dutiful and concerned parent. Factually, the Court finds that she knew of the Canada Revenue Agency (the “CRA”) debit and enforcement proceedings in respect of the Arrears (which fact was admitted on examination for discovery and confirmed by the Appellant during cross-examination). She permitted her son to have her bank card in order to utilize her account for the joint purposes of cashing his payroll cheques in order to prevent accessibility to such funds by the CRA as creditor and in order to avoid incurring cheque cashing fees.
+[12] Her inaction with respect to the money does not defeat the notion of a transfer. Livingston is clear authority on this point. At the time of transfer, relinquishment of dominion and control by the son to the Appellant occurred. The Appellant, should she have chosen, had the legal right and power to (a) present herself at the branch, (b) revoke the old bank card, and (c) withdraw the money. The fact she did not is exactly provided for in the facts of Livingston which constitutes clear authority that notwithstanding such inaction, a transfer has nonetheless occurred.
+[13] Similarly the suggestion that the understanding contributed to a genuine business transaction is not legally sufficient. Inaction cannot provide evidence of an agreement to defeat the section nor provide evidence of consideration on the Appellant’s part. Her possibly laudatory maternal act coupled with her mere moral obligation not to access the funds does not create a recognizable legal prohibition from doing do. To constitute legal consideration for the purposes of the subsection, an enforceable obligation which has value must be created and tendered by her to her son. In this case such consideration did not legally exist. The absence of any consideration under subsection 160(1) of the Income Tax Act and the concordant subsection 325(1) of the Excise Tax Act provides the final component permitting the Minister’s assessment.
+[14] While it may perhaps be incongruous at first glance to determine why the Appellant should have to repay monies received by her son, utilized by her son and to which the Appellant gained no net benefit; nonetheless, the conditions necessary for the invocation of the subsections of the Acts as refined by established case law, have been satisfied and, accordingly, the appeals are dismissed.
+These Amended Reasons for Judgment are issued in substitution of the Reasons for Judgment dated November 2, 2012 in order to correct the words and figures underscored in paragraph 8 hereof.
+Signed at Ottawa, Canada, this 19th day of February 2013.
+“R.S. Bocock”
+Bocock J.
+CITATION: 2012 TCC 382
+COURT FILE NOS.: 2010-3697(IT)G
+2010-3489(GST)I
+STYLE OF CAUSE: RENATE BRAUER AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: October 18, 2012
+AMENDED REASONS
+FOR JUDGMENT BY: The Honourable Mr. Justice Randall Bocock
+DATE OF AMENDED
+JUDGMENT: November 29, 2012
+DATE OF AMENDED
+REASONS FOR JUDGMENT: February 19, 2013
+APPEARANCES:
+Counsel for the Appellant:
+Dale Barrett
+Counsel for the Respondent:
+Darren Prevost
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Dale Barrett
+Firm: Barrett Tax Law
+Vaughan, Ontario
+For the Respondent: William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

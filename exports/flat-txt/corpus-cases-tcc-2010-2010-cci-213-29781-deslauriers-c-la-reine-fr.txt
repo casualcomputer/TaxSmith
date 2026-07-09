@@ -1,0 +1,122 @@
+Title: Deslauriers c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29781/index.do
+Corpus path: corpus/cases/tcc/2010/2010-cci-213-29781-deslauriers-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2010-05-03
+
+# Deslauriers c. La Reine
+
+- Citation: 2010 CCI 213
+- Decision date: 2010-05-03
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6558, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Deslauriers c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2010-05-03
+Référence neutre
+2010 CCI 213
+Numéro de dossier
+2009-2836(IT)I
+Juges et Officiers taxateurs
+Robert James Hogan
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2009-2836(IT)I
+ENTRE :
+ROBERT DESLAURIERS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 11 mars 2010, à Sherbrooke (Québec).
+Devant : L'honorable juge Robert J. Hogan
+Comparutions :
+Pour l'appelant :
+L’appelant lui-même
+Avocate de l'intimée :
+Me Anne-Marie Desgens
+____________________________________________________________________
+JUGEMENT
+L’appel de la nouvelle cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2002 est accueilli, sans dépens, et la nouvelle cotisation est annulée, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 3e jour de mai 2010.
+« Robert J. Hogan »
+Juge Hogan
+Référence : 2010 CCI 213
+Date : 20100503
+Dossier : 2009-2836(IT)I
+ENTRE :
+ROBERT DESLAURIERS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Hogan
+INTRODUCTION
+[1] L’appelant interjette appel d’une nouvelle cotisation établie par le ministre du Revenu national (le « ministre ») à l’égard de l’année d’imposition 2002.
+[2] Le 27 mars 2003, le ministre a établi relativement à l’appelant un avis de cotisation pour l’année d’imposition 2002. Par sa nouvelle cotisation du 4 octobre 2007 pour l’année d’imposition en question, le ministre a ajouté au revenu de l’appelant un montant de 19 025 $ à titre d’avantage conféré à un actionnaire et lui a imposé, en vertu du paragraphe 163(2) de la Loi de l’impôt sur le revenu (la « LIR »), une pénalité s’élevant à 2 116 $.
+[3] Les questions en litige sont de savoir :
+a) si le ministre pouvait procéder à une nouvelle cotisation après l’expiration de la période normale de nouvelle cotisation;
+b) si le ministre avait raison d’ajouter aux revenus de l’appelant pour l’année d’imposition 2002 un montant de 19 025 $ à titre d’avantage conféré à un actionnaire;
+c) si le ministre avait raison d’appliquer, conformément au paragraphe 163(2) de la LIR, une pénalité de 2 116 $ au revenu non déclaré.
+[4] Pour établir la nouvelle cotisation et imposer la pénalité à l’égard de l’année d’imposition 2002, le ministre s’est fondé sur les faits suivants énoncés dans la réponse à l’avis d’appel :
+a) En produisant sa déclaration de revenus pour l’année d’imposition 2002, l’appelant a déclaré un revenu d’emploi de 15 600 $ provenant de « Équipements de Bureau de Sherbrooke Inc. » (EBS);
+b) durant la période en litige, l’appelant était actionnaire, administrateur et gérant de (EBS), dont l’activité principale consistait à la vente et location d’équipements de bureau ainsi qu’à la reproduction de photocopies;
+c) la société (EBS), qui a été constituée le 22 décembre 1993, est inopérante depuis avril 2005;
+d) son capital-actions est réparti comme suit : l’appelant (44 %), M. Claude Robichaud (22 %) et Les Immeubles Rocendel Inc. (22 %);
+e) suite à une vérification, le vérificateur a constaté que la société (EBS) avait effectué 2 chèques à « 9121-3982 Québec Inc. », exploitée sous la raison sociale Matériaux et Équipements [sic] M.P. Inc., pour l’achat supposé de photocopieurs;
+f) les chèques datés du 6 novembre 2002 et du 5 décembre 2002 au montant de 8 051,75 $ et 10 973,39 $ respectivement ont été signés par l’appelant;
+g) les faits colligés par le vérificateur ont démontré que la société « Matériaux et Équipement M.P. Inc. » n’avait aucune activité commerciale véritable et que son actionnaire, M. Marc Prince, émettait des factures d’accommodement;
+· M. Prince a confirmé qu’aucun service n’a été rendu par sa société;
+· les chèques ont été encaissés dans un centre d’encaissement « Agence Arylo »;
+· il recevait une commission de 300 $ à 500 $ par chèque encaissé.
+h) l’appelant a refusé de fournir au vérificateur les livres, registres et pièces justificatives visant (EBS) pour l’année sous vérification;
+i) le ou vers le mois de juin 2007, une nouvelle cotisation a été établie à (EBS) pour l’année d’imposition 2002 afin de refuser la dépense relative à l’achat de photocopieurs;
+j) le vérificateur a été dans l’impossibilité de vérifier les comptes bancaires de l’appelant qui a refusé de soumettre ses relevés ainsi que l’autorisation bancaire requise.
+[5] Kenneth Eryou, vérificateur de l’Agence du revenu du Canada, était la seule personne à témoigner pour l’intimée. Le vérificateur a témoigné qu’au début de 2006, une de ses collègues lui avait mentionné que la société Matériaux et Équipement M.P. inc. (« M.P. inc. ») avait présenté une série de fausses factures à diverses sociétés, dont Équipements de Bureau de Sherbrooke inc. (« EBS »). Le président de M.P. inc. recevait des chèques en échange des fausses factures et les encaissait au centre d’encaissement Agence Arylo, touchant une commission de 300 $ à 500 $ par chèque. Il remettait ensuite la somme reçue, nette de commission, au représentant de la société qui lui avait remis le chèque en question. Une photocopie des deux chèques émis par EBS à l’ordre de M.P. inc. a été faite par l’Agence Arylo avant que ceux-ci ne soient encaissés. Les photocopies des rectos de ces deux chèques ont été produites sous la cote I-15. Les chèques portent le nom de l’appelant à la ligne de signature.
+[6] Le vérificateur a dit n’avoir visité que l’endroit indiqué comme l’établissement de M.P. inc. Il a pu constater que cet endroit était une habitation non propice à l’exploitation d’une entreprise. Ses vérifications ont permis au vérificateur de constater que l’entreprise M.P. inc. n’avait aucune activité commerciale sauf celle de dresser de fausses factures en contrepartie des commissions versées.
+[7] Le vérificateur a conclu qu’EBS n’avait pas acheté de photocopieurs à M.D. inc. À la suite de sa vérification, il a établi une nouvelle cotisation à l’endroit d’EBS, refusant à celle-ci la déduction de dépenses d’un montant de 19 025 $.
+[8] Le vérificateur a effectué sa vérification auprès des dirigeants et des actionnaires d’EBS. Il a communiqué avec Claude Robichaud, un actionnaire important d’EBS, ainsi qu’avec l’appelant et Pascal Paré, le comptable de cette société. À la suite de ses communications avec M. Robichaud, le vérificateur a conclu que l’appelant gérait seul les opérations quotidiennes d’EBS, et que M. Robichaud avait plutôt le statut d’actionnaire passif. Il prétend que l’appelant s’est montré peu coopérant lors de la vérification et que ce manque de coopération lui permettait d’inférer que l’appelant avait quelque chose à cacher. D’autre part, puisque le nom de l’appelant apparaissait sur les deux chèques en question, le vérificateur a conclu que M. Prince a remis à l’appelant l’argent comptant reçu lors de l’encaissement, net de sa commission. L’appelant aurait alors utilisé cette somme à des fins personnelles.
+[9] L’appelant a présenté une tout autre version des faits. Il a témoigné que c’est M. Robichaud qui a communiqué avec lui pour l’inciter à se lancer avec ce dernier dans une entreprise de vente, d’entretien et de réparation de photocopieurs dans la région de l’Estrie. À cette époque, l’appelant travaillait pour la société Canon à titre de représentant commercial dans la région de l’Estrie. Selon l’appelant, M. Robichaud était le propriétaire d’un centre commercial situé à Fleurimont près de Sherbrooke. Il y avait un local inoccupé au centre commercial qu’EBS a loué à titre d’établissement commercial principal. L’appelant a indiqué que M. Robichaud s’est nommé président d’EBS dans l’acte constitutif de celle-ci et a nommé l’appelant secrétaire à son insu. Selon l’appelant, M. Robichaud détenait 33,01 % des actions ordinaires d’EBS en 2002. Pour sa part, l’appelant en détenait 42,72 %. Toutefois, selon l’appelant, M. Robichaud contrôlait EBS et avait le droit de le faire puisqu’il gérait Les Immeubles Rocendel inc. (« Immeubles Rocendel »), qui détenait 15,53 % des actions ordinaires d’EBS. M. Robichaud contrôlait donc, directement et indirectement, 48,54 % des actions ordinaires d’EBS. M. Robichaud aurait également exigé qu’EBS engage son comptable, M. Paré. Selon l’appelant, M. Paré est très proche de son oncle, M. Robichaud, et agissait comme comptable de toutes les autres sociétés de celui-ci.
+[10] L’appelant a témoigné que M. Paré visitait l’établissement d’EBS toutes les deux semaines et apportait chez lui tous les documents comptables. Selon l’appelant, tous les registres comptables de la société étaient sous la garde de M. Robichaud ou de M. Paré au siège social d’EBS, au 1996, rue Prospect, à Sherbrooke, où se trouvaient également le bureau de M. Paré et celui de M. Robichaud.
+[11] L’appelant a témoigné qu’il avait expliqué au vérificateur qu’il n’avait pas les documents comptables d’EBS en sa possession, qu’il n’avait que les documents qu’il a fournis au vérificateur lors de leur réunion. L’appelant a envoyé une copie de ses lettres aux deux actionnaires d’EBS, aux Immeubles Rocendel et à son administrateur-gérant, M. Robichaud, ainsi qu’aux conjoints, le cas échéant, de ces personnes, et au comptable, M. Paré.
+[12] L’appelant a indiqué, lors de son témoignage, que M. Robichaud prenait toutes les décisions d’EBS. En ce qui concerne l’administration de cette société, il a mentionné que M. Robichaud décidait seul qui serait embauché chez EBS et il déterminait les conditions d’emploi et la description de travail des employés d’EBS. L’appelant a témoigné qu’il ne pouvait pas signer des chèques d’EBS sans l’approbation de M. Robichaud. Si l’appelant devait signer des chèques, ceux-ci étaient préparés par le comptable, selon les directives de M. Robichaud. L’appelant a produit sous la cote A-1 une lettre signée par M. Robichaud, adressée à la Banque Nationale du Canada, indiquant à cette dernière qu’EBS avait transféré toutes ses opérations bancaires à la Caisse populaire Desjardins de la Saint-François. L’appelant prétend que cette lettre confirme que M. Robichaud contrôlait les opérations financières d’EBS. En contre‑interrogatoire, l’appelant a déclaré qu’il n’a pas signé les chèques produits sous la cote I-15 et que la signature sur ces chèques ne ressemble pas à la sienne.
+ANALYSE
+[13] Pour déterminer si le ministre pouvait valablement établir une nouvelle cotisation à l’endroit de l’appelant, il me faut maintenant considérer le sous-alinéa 152(4)a)(i) de la LIR, qui est rédigé comme suit :
+(i) soit a fait une présentation erronée des faits, par négligence, inattention ou omission volontaire, ou a commis quelque fraude en produisant la déclaration ou en fournissant quelque renseignement sous le régime de la présente loi.
+[14] Cette disposition permet au ministre d’établir une nouvelle cotisation à tout moment après l’expiration de la période normale de cotisation si le contribuable a fait une présentation erronée des faits par négligence, inattention ou omission volontaire, ou a commis quelque fraude en produisant sa déclaration de revenus. Il incombe à l’intimée de faire la preuve à cet égard.
+[15] J’estime que l’intimée n’a pas réussi à faire, selon la prépondérance des probabilités, la preuve d’un état de choses permettant au ministre de se prévaloir de l’exception prévue au sous-alinéa 152(4)a)(i) de la LIR. L’intimée n’a pas appelé M. Prince à la barre des témoins. Toutefois, elle a tenté de le faire témoigner par preuve par ouï-dire. Le vérificateur prétend que M. Prince a encaissé les chèques en question et qu’il a établi des factures de complaisance en contrepartie des commissions prélevées sur les sommes provenant des chèques encaissés. Voilà ce qui est énoncé au paragraphe 7g) de la réponse à l’avis d’appel. Par contre, nous ne savons pas qui a remis le chèque à M. Prince ni à qui M. Prince a remis les sommes reçues lors de l’encaissement des chèques. S’agissait-il de l’appelant, comme le présume le ministre, de M. Robichaud ou de quelqu’un d’autre? Bien qu’il soit vrai qu’en matière de procédure informelle le juge a le pouvoir d’admettre une preuve par ouï‑dire, j’estime qu’une telle preuve est inadmissible en l’espèce puisque son admission priverait l’appelant de son droit de contre-interroger M. Prince et de mettre en doute ses affirmations. Quelqu’un qui avoue avoir établi des factures de complaisance mérite d’être entendu directement par la Cour. De même, l’intimée n’a pas appelé M. Robichaud ni M. Paré à la barre des témoins. Néanmoins, le vérificateur a conclu que l’appelant était le gérant des opérations d’EBS en se fiant à ce qui était ressorti de ses conversations avec ces deux personnes. L’appelant a présenté une tout autre version des faits en prétendant que M. Robichaud était celui qui dirigeait EBS. Le témoignage de l’appelant est corroboré en partie par le fait que le siège social d’EBS est situé à la même adresse que le bureau de M. Robichaud et de M. Paré. La pièce A-1 démontre que M. Robichaud s’occupait des opérations bancaires d’EBS. La Cour aurait aimé entendre M. Robichaud témoigner sur le rôle qu’il avait joué dans l’établissement et la gestion d’EBS. Par conséquent, je ne crois pas que la preuve soumise justifie la conclusion selon laquelle les conditions requises pour établir une cotisation à l’endroit de l’appelant au-delà de la période normale de cotisation sont remplies en l’espèce.
+CONCLUSION
+[16] L’appel est accueilli et la cotisation est annulée en raison des motifs mentionnés ci-devant.
+Signé à Ottawa, Canada, ce 3e jour de mai 2010.
+« Robert J. Hogan »
+Juge Hogan
+RÉFÉRENCE : 2010 CCI 213
+Nº DU DOSSIER DE LA COUR : 2009-2836(IT)I
+INTITULÉ DE LA CAUSE : ROBERT DESLAURIERS c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Sherbrooke (Québec)
+DATE DE L’AUDIENCE : Le 11 mars 2010
+MOTIFS DU JUGEMENT PAR : L'honorable juge Robert J. Hogan
+DATE DU JUGEMENT : Le 3 mai 2010
+COMPARUTIONS :
+Pour l'appelant :
+L’appelant lui-même
+Avocate de l'intimée :
+Me Anne-Marie Desgens
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelant :
+Nom :
+Cabinet :
+Pour l’intimée : Myles J. Kirvin
+Sous-procureur général du Canada
+Ottawa, Canada

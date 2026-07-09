@@ -1,0 +1,713 @@
+---
+title: "Hilderman c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/482874/index.do"
+last_modified: "2020-07-23"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2020 CCI 58"
+citation2: ""
+neutral_citation: "2020 CCI 58"
+decision_date: "2020-07-23"
+language: "fr"
+item_id: "482874"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4594
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2023-07-24T07:01:21.218000+00:00"
+cases_cited_count: 8
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "453990d8833367e31b6cb308325682dd02737d2a15d00de9bb02e95f8e3c6453"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Hilderman c. La Reine
+
+- Citation: 2020 CCI 58
+- Decision date: 2020-07-23
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4594, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Hilderman c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2020-07-23
+Référence neutre
+2020 CCI 58
+Numéro de dossier
+2014-4116(IT)G
+Juges et Officiers taxateurs
+Randall S. Bocock
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2014-4116(IT)G
+ENTRE :
+GREGORY HILDERMAN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu les 5 et 6 novembre 2018 et le 2 mai 2019 à Calgary (Alberta)
+Devant : L’honorable juge Randall S. Bocock
+Comparutions :
+Avocats de l’appelant :
+Me Norman D. Anderson
+Me Rami Pandher
+Avocats de l’intimée :
+Me Margaret McCabe
+Me Allan Mason
+JUGEMENT
+ATTENDU QUE la Cour a rendu, en date des présentes, ses motifs du jugement ci-joints.
+LA COUR ORDONNE :
+L’appel interjeté à l’encontre des nouvelles cotisations établies en application de la Loi de l’impôt sur le revenu (la Loi) pour les années d’imposition 2007, 2008 et 2009 est accueilli uniquement concernant ce qui suit :
+a) pour l’année d’imposition 2007, l’appelant a engagé des frais de publicité et de promotion supplémentaires de 49 759 $, des frais de bureau supplémentaires de 19 066 $ et des frais supplémentaires afférents à un véhicule à moteur de 10 285 $;
+b) pour l’année d’imposition 2008, l’appelant a engagé des frais de publicité et de promotion supplémentaires de 16 579 $, des frais de bureau supplémentaires de 15 925 $ et des frais de téléphone supplémentaires de 2 465 $.
+2. Les avantages aux actionnaires, conférés à un actionnaire aux termes du paragraphe 15(1) de la Loi, ayant fait l’objet d’une nouvelle cotisation établie à l’égard de l’appelant sont réduits de 46 500 $ et de 13 200 $ pour les années d’imposition 2007 et 2008, respectivement; ces sommes doivent plutôt faire l’objet d’une nouvelle cotisation en fonction des revenus d’emploi reçus par l’appelant de la part de Jonathan Financial Inc., conformément au paragraphe 6(1) de la Loi.
+3. Les dépens engagés inutilement pour la journée d’audience réservée aux observations finales, à savoir le 2 mai 2019, sont fixés à 3 500 $ et sont payables à l’intimée par l’appelant, Gregory Hilderman.
+4. En outre, et compte tenu des concessions faites par l’intimée avant la présentation de ses observations, un mémoire de dépens est accordé à l’intimée et est taxé à l’encontre de l’appelant, Gregory Hilderman, conformément au tarif applicable à titre provisoire, sous réserve du droit de chaque partie de présenter des observations écrites à ce sujet dans un délai de 30 jours à compter de la date du présent jugement. Si ces observations sont reçues, la Cour les examinera et pourrait modifier sa décision sur les dépens adjugés de façon provisoire, faute de quoi les dépens adjugés de façon provisoire deviendront définitifs.
+Signé à Ottawa, Canada, ce 23e jour de juillet 2020.
+« R.S. Bocock »
+Le juge Bocock
+Traduction certifiée conforme
+ce 30e jour d'octobre 2020.
+François Brunet, réviseur
+Dossier : 2014-4407(IT)G
+ENTRE :
+JONATHAN FINANCIAL INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu les 5 et 6 novembre 2018 et le 2 mai 2019 à Calgary (Alberta)
+Devant : L’honorable juge Randall S. Bocock
+Comparutions :
+Avocats de l’appelant :
+Me Norman D. Anderson
+Me Rami Pandher
+Avocats de l’intimée :
+Me Margaret McCabe
+Me Allan Mason
+JUGEMENT
+ATTENDU QUE la Cour a rendu, en date des présentes, ses motifs du jugement ci-joints.
+LA COUR ORDONNE :
+L’appel interjeté à l’encontre des nouvelles cotisations établies en application de la Loi de l’impôt sur le revenu pour les années d’imposition 2007 et 2008 est accueilli uniquement concernant ce qui suit :
+a) pour l’année d’imposition 2007, l’appelante a engagé des frais de publicité et de promotion supplémentaires de 40 705 $ et des frais de bureau supplémentaires de 21 502 $;
+b) pour l’année d’imposition 2008, l’appelante a engagé des frais de publicité et de promotion supplémentaires de 62 257 $, des frais de bureau supplémentaires de 17 386 $ et versé des primes supplémentaires de 267 621 $ à diverses parties.
+2. Compte tenu des concessions faites par l’intimée avant la présentation de ses observations, un mémoire de dépens est accordé à l’intimée et est taxé à l’encontre de l’appelant, Gregory Hilderman, conformément au tarif applicable à titre provisoire, sous réserve du droit de chaque partie de présenter des observations écrites à ce sujet dans un délai de 30 jours à compter de la date du présent jugement. Si ces observations sont reçues, la Cour les examinera et pourrait modifier sa décision sur les dépens adjugés de façon provisoire, faute de quoi les dépens adjugés de façon provisoire deviendront définitifs.
+Signé à Ottawa, Canada, ce 23e jour de juillet 2020.
+« R.S. Bocock »
+Le juge Bocock
+Traduction certifiée conforme
+ce 30e jour d'octobre 2020.
+François Brunet, réviseur
+Référence : 2020 CCI 58
+Date : 20200723
+Dossier : 2014-4116(IT)G
+ENTRE :
+GREGORY HILDERMAN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Dossier : 2014-4407(IT)G
+ET ENTRE :
+JONATHAN FINANCIAL INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS COMMUNS DU JUGEMENT
+Le juge Bocock
+I. Introduction
+[1] Les présents appels concernent une dette fiscale aux termes de la Loi de l’impôt sur le revenu (la Loi) à l’égard de l’impôt dans deux catégories : les dépenses d’entreprise refusées (dépenses refusées) et les revenus non déclarés (revenus non déclarés). Ces appels portent en outre sur deux bases d’imposition supplémentaires : une nouvelle cotisation établie au-delà de la période de cotisation normale (la question de la prescription) et les pénalités pour faux énoncé du paragraphe 163(2) (les pénalités). En ce qui concerne la durée, les cotisations couvrent trois années d’imposition, à savoir les années 2007, 2008 et 2009, et concernent deux contribuables liés : une société, Jonathan Financial Inc. (JFI) et son unique administrateur, dirigeant principal et actionnaire contrôlant, Gregory Hilderman (GH). Les bases de l’établissement des cotisations à l’encontre de GH concernent des avantages et des revenus imposables de parties liées conférés par JFI, des revenus non déclarés sur le feuillet T4 (les revenus T4) et des pénalités.
+[2] Les dépenses refusées relatives à JFI couvrent les années d’imposition 2007 et 2008 et les catégories de dépenses qui suivent : les frais de publicité et de promotion, les frais de bureau, les primes, les frais afférents à des véhicules à moteur, les frais d’intérêts et les frais de téléphone.
+[3] Puis, chacune de ces dépenses refusées a une incidence sur la nouvelle cotisation établie à l’égard de la dette fiscale de GH aux termes du paragraphe 15(1) de la Loi, si elle devait constituer un avantage conféré aux actionnaires ou, subsidiairement, aux termes du paragraphe 6(1), si elle devait constituer des avantages ou des revenus pour les employés ou aux termes du paragraphe 15(5) si elle devait constituer des avantages liés au droit d’usage d’une automobile. En outre, une prime d’assurance-vie payée par JFI en 2007, des revenus T4 non déclarés et des frais d’intérêts refusés en 2008 reportés à 2009 complètent la nouvelle cotisation établie à l’égard de l’obligation fiscale de GH.
+[4] Tout au long de l’appel, l’effet de cet avantage conféré à un actionnaire par rapport à la qualification des revenus ou avantages de l’emploi à l’égard de GH relativement aux revenus ayant fait l’objet d’une nouvelle cotisation et des dépenses refusées a toujours été controversé. Les deux parties ont fait des concessions au cours du procès, mais n’ont pas réussi à s’entendre sur la question de savoir si les dépenses refusées restantes ou les revenus ayant fait l’objet d’une nouvelle cotisation, concédés ou non, devaient être des avantages conférés aux actionnaires (paragraphe 15(1)) ou des revenus d’emploi (paragraphe 6(1)). Ce n’est qu’après une description de la structure, des activités et des faits en l’espèce qu’une description de ce qui demeure en litige sera possible.
+II. Faits
+[5] Les appels sont fondés essentiellement sur les faits. Les parties ont déposé un exposé conjoint des faits partiel. Un grand nombre d’autres faits sont demeurés en litige. Il a fallu que deux témoins témoignent pendant deux jours : GH et le vérificateur de l’ARC qui a effectué l’audit au cours de l’établissement des nouvelles cotisations. L’historique de l’établissement compliqué de cotisations et de nouvelles cotisations, la somme en litige au cours des périodes pertinentes précédant le procès et les concessions des parties sont présentés dans l’exposé conjoint des faits partiel. Aux annexes A et B figurent la meilleure approximation et un résumé des nouvelles cotisations pour les années d’imposition, les deux contribuables et les catégories supprimées de l’exposé conjoint des faits partiel. Les annexes comprennent également les concessions faites par les parties après la présentation de la preuve.
+[6] Aux fins de cohérence avec les présents motifs, la Cour expose les extraits suivants de l’exposé conjoint des faits partiel :
+(i) [traduction] GH gagne sa vie dans le domaine des assurances, de la planification financière, de la planification successorale et des placements. Il contrôle et possède, directement ou indirectement, sa société albertaine, JFI;
+(ii) JFI, par l’intermédiaire de laquelle GH exerce principalement ses activités, est une société d’assurance, de planification financière et de planification successorale. Dirigée par GH, JFI vend des produits financiers à ses clients, y compris des polices d’assurance-vie, et assure des conseils en matière de planification financière, ainsi que des conseils financiers. La famille de GH, et les dépenses qu’elle aurait engagées, occupent une place importante dans l’appel;
+(iii) JFI a fait l’objet d’une nouvelle cotisation établie par le ministre du Revenu national (le ministre) à l’égard des années d’imposition 2007 et 2008. GH a fait l’objet d’une nouvelle cotisation établie par le ministre pour les années d’imposition 2007, 2008 et 2009 (collectivement, la période pertinente);
+(iv) GH était marié à S. au cours des années visées par l’appel. Avant ce mariage, il était marié à J. au cours de la période pertinente. GH a eu six enfants, âgés de 2 à 23 ans (en 2007). Un des enfants de GH est né d’une autre mère, L.A.;
+(v) Un enfant en bas âge, W, est lourdement handicapé par une polymicrogyrie perisylvienne bilatérale, nécessitant des soins constants.
+[7] JFI avait des ententes avec PPI Financial Group et Walton International Group Inc. et était agréée en tant que courtier officiel pour la vente de produits financiers d’assurance pour Walton International Group Inc.
+[8] JFI vendait des produits financiers et des polices d’assurance-vie pour Walton International Group Inc. et PPI Financial Group. JFI a reçu un certain pourcentage des primes provenant de la vente de ces produits financiers et de ces polices d’assurance et touche une commission lorsque ses agents vendent une nouvelle police d’assurance ou un placement. Walton International Group Inc. et PPI Financial Group étaient les principales sources de revenus de JFI.
+[9] JFI a versé des frais de consultation et de gestion à K.T. International Holdings Ltd. K.T. International Holdings Ltd. a versé des revenus figurant sur un T4 à GH.
+[10] Dans la plupart des provinces canadiennes, GH a exercé ses activités par l’intermédiaire de JFI. Toutefois, dans certaines provinces (comme le Nouveau-Brunswick et le Québec) GH devait exercer ses activités commerciales à titre de propriétaire unique. JFI a gagné des revenus grâce aux commissions perçues sur les ventes d’assurance. GH était le seul employé de JFI à qui il incombait de gagner les revenus de la société.
+[11] Bien que JFI exerçait aussi ses activités sous la dénomination sociale G2 Financial Group Inc. (une société constituée en personne morale) dans plusieurs provinces différentes (y compris en Ontario sous le nom de Jonathan Financial Inc., également appelée G2 Financial Group),
+[12] GH était la tête dirigeante de JFI. GH examinait toutes les dépenses de JFI, tenait un journal des dépenses de l’entreprise et était le seul signataire des chèques émis par JFI.
+[13] Le reste des faits a été rassemblé à partir des témoignages lors de l’audience. JFI a déclaré et déduit de ses revenus les montants payés pour des frais personnels (frais personnels). Voici ce que comprenaient ces frais :
+a) des vacances pour la famille Hilderman à Hawaï;
+b) des frais de déplacement de membres de la famille pour rendre visite aux Hilderman à Calgary;
+c) des vêtements pour Mme Hildeman et des vêtements et des jouets pour les enfants Hilderman;
+d) des bijoux et des articles personnels pour Mme Hildeman, y compris des sommes apparemment dépensées pour l’achat d’articles vestimentaires en fourrure;
+e) l’entretien des pelouses et le service ménager de la résidence familiale des Hilderman;
+f) des dépenses alimentaires et de soins liées aux animaux de compagnie de la famille;
+g) des frais de garde d’enfant pour W.
+[14] JFI a demandé une déduction au titre des primes versées à des personnes qui n’étaient pas des employées de JFI et a déclaré avoir versé des montants d’argent à deux des enfants adultes de GH au titre d’un régime de participation des employés aux bénéfices (RPEB). Les deux enfants adultes de GH n’occupaient que des emplois pendant l’été au sein de JFI au cours des années en cause. JFI n’a pas déclaré de bénéfices au cours des années où les montants du RPEB ont été déduits.
+[15] Les montants des intérêts de prêts déclarés par GH semblent provenir d’une série de prêts accordés par GH à Jordan Energy et à JFI en 2008 et en 2009, d’un prêt hypothécaire accordé avec son épouse relativement à un chalet à Kimberley, en Colombie-Britannique, et de l’achat d’actions d’une société appelée Resverlogix. D’après les documents de prêts, GH et son épouse étaient redevables des prêts. GH n’a déclaré aucun revenu d’intérêts reçu ou à recevoir dans sa déclaration pour ces années.
+[16] De même, les bénéfices de JFI provenaient principalement des produits d’assurance et de placement vendus grâce aux efforts de GH. Les clients achetant ces produits étaient principalement des médecins. Ces médecins ont suivi une formation médicale continue (FMC). Les séances de FMC étaient un bassin de clients potentiels pour GH. Elles se tenaient par l’intermédiaire de CME@Sea; les médecins participaient aux FMC sur des bateaux de croisière. Ainsi, certaines dépenses relatives à ces croisières ont été engagées par JFI pour que GH puisse assister à des colloques, donner des conférences et vendre des produits financiers pour JFI.
+[17] Les biographies de conférenciers et des ordres du jour de CME@Sea ont été produits par GH lors de l’audience. Les références, l’expertise et les séances de GH ont été décrites en détail. Sa note biographique est rédigée ainsi :
+[traduction]
+Gestion de patrimoine – M. Greg Hilderman
+Greg est associé au sein de G2 Financial depuis 12 ans et offre un service de planification financière complète depuis 23 ans. Il est planificateur financier agréé, assureur-vie agréé et consultant financier agréé. Ces 15 dernières années, il s’est spécialisé dans la planification de la retraite, la planification fiscale et la planification successorale. Greg a beaucoup contribué à remodeler la façon dont de nombreux groupes de médecins sont rémunérés, en mettant l’accent sur l’amélioration de leur mode de vie actuel et futur. Parmi les groupes avec lesquels il a travaillé figurent des néonatologistes, des radiologues, des chirurgiens thoraciques, des neurologues et des oncologues d’Alberta et de Colombie-Britannique.
+[18] En 2008, sa liste de thèmes était la suivante :
+[traduction]
+Gestion de patrimoine – M. Greg Hilderman
+– Nouvelles tendances à prendre en compte dans la structuration des pratiques professionnelles
+– Investissement des sociétés
+– Avantages des abris fiscaux et des reports d’impôt par rapport à l’épargne
+– Discussion sur les différents abris fiscaux existants
+– Examen des stratégies d’investissement actuelles et au 21e siècle
+[19] À l’occasion d’une croisière promotionnelle en 2007, GH a donné les deux conférences suivantes :
+[traduction]
+Lundi 3 septembre 2007
+De 9 h 45 à 10 h 35 – La santé financière d’un médecin au 21e siècle
+Greg Hilderman
+Greg se penchera sur l’incidence de la fiscalité sur un médecin et son cabinet.
+De 10 h 35 à 10 h 45 – Séance de questions et réponses
+Jeudi 6 septembre 2007
+De 9 h 45 à 10 h 35 – Dr Dollar ou Dr Sen$
+Greg Hilderman
+Greg comparera la situation financière d’un médecin constitué en société à celle d’un médecin non constitué en société.
+[20] À partir des ordres du jour de CME@Sea présentés en preuve, GH semble avoir été l’un des deux seuls conseillers non médicaux et non scientifiques auprès d’entreprises, en placement ou en fiscalité présents lors des croisières de FMC.
+III. QUESTIONS EN LITIGE, LE DROIT EN GÉNÉRAL ET QUESTIONS PRÉLIMINAIRES
+a) Questions en litige
+[21] En l’espèce, la Cour est saisie des questions en litige suivantes :
+a) Le ministre a-t-il refusé à juste titre les dépenses déclarées par JFI aux termes de l’article 18 de la Loi parce que ces sommes ont été payées au titre de frais personnels et n’ont donc pas été engagées en vue de tirer un revenu?
+b) Le ministre a-t-il inclus à juste titre les dépenses refusées aux avantages conférés aux actionnaires ou à des tiers aux termes des paragraphes 15(1) et 56(2) de la Loi?
+c) Le ministre a-t-il refusé à juste titre les sommes déclarées à l’égard des intérêts par GH comme ne relevant pas de l’alinéa 20(1)c) de la Loi?
+d) Le ministre a-t-il établi à juste titre la cotisation pour l’année d’imposition 2007 de JFI en application du paragraphe 152(4) de la Loi, au motif que JFI a fait une présentation erronée des faits en produisant sa déclaration d’impôt pour l’année sous le régime de ce paragraphe?
+e) Le ministre a-t-il évalué à juste titre les pénalités de JFI et de GH aux termes du paragraphe 163(2) de la Loi?
+b) Le droit
+i) Frais personnels
+[22] Dans la déclaration de leurs bénéfices, les entreprises sont autorisées à déduire certains frais engagés dans le but de tirer et produire des revenus d’entreprise aux termes de l’article 9 de la Loi. Toutefois, conformément aux alinéas 18(1)a) et 18(1)h) de la Loi, les entreprises ne sont pas autorisées à déduire le montant des frais personnels ou de subsistance de leurs actionnaires.
+[23] La Cour suprême du Canada a confirmé que les dépenses d’entreprise font nécessairement partie du calcul du bénéfice d’une entreprise : Symes c. Canada, [1993] 4 RCS 695, 1993 CarswellNat H178, au paragraphe 40. En outre, l’approche des « principes bien reconnus de la pratique courante des affaires » mentionnée par la Cour suprême exclut la déduction des sommes qui n’ont pas pour objet de tirer un revenu. La dépense ne doit être autorisée que si elle a pour objet de permettre au contribuable de tirer ou de produire un revenu.
+[24] Plus précisément, pour déterminer si l’objet de la dépense, qui semble être de nature personnelle, est de tirer ou de produire un revenu de l’entreprise, la Cour suprême s’est exprimée ainsi dans l’arrêt Symes :
+73. En conséquence, à la réflexion, on n’a proposé aucun critère qui améliorerait ou modifierait sensiblement un critère reposant directement sur le libellé de l’al. 18(1)a). L’analyse nous ramène à la source, et je peux simplement me poser la question suivante : l’appelante a‑t‑elle engagé des frais de garde d’enfants en vue de tirer un revenu de l’entreprise ou de faire produire un revenu à l’entreprise?
+74. Comme dans d’autres domaines du droit, lorsqu’il faut établir l’objet ou l’intention des actes, on ne doit pas supposer que les tribunaux se fonderont seulement, en répondant à cette question, sur les déclarations du contribuable, ex post facto ou autrement, quant à l’objet subjectif d’une dépense donnée. Ils examineront plutôt comment l’objet se manifeste objectivement, et l’objet est en définitive une question de fait à trancher en tenant compte de toutes les circonstances. C’est pourquoi il n’est pas possible de formuler une liste fixe de circonstances qui permettront de prouver d’une façon objective que le contribuable visait à tirer un revenu ou à faire produire un revenu. [Non souligné dans l’original.]
+[25] Comme indiqué, JFI a également versé des sommes de participation aux bénéfices à deux des enfants de GH. Ces sommes faisaient partie des dépenses refusées. Aux termes de l’article 144 de la Loi, l'employeur peut avoir le droit de déduire les sommes versées aux employés dans le cadre d’un régime fiduciaire établi à titre de régime de participation des employés aux bénéfices (RPEB) pour partager les bénéfices de l’entreprise en guise d’incitatif pour les employés qui ont permis à l’entreprise de réaliser des bénéfices.
+[26] Trois conditions jouent pour que l’employeur contribuable ait le droit de déduire les paiements RPEB : J.R. Saint & Associates Insurance Agencies Ltd. c. M.R.N., 2010 CCI 168, au paragraphe 13. Ce sont les suivantes :
+a) les versements doivent être calculés en fonction des bénéfices de l’entreprise;
+b) les versements doivent être remis à un fiduciaire dans le cadre de l’arrangement de RPEB;
+c) la fiducie RPEB doit répartir les versements entre les employés bénéficiaires aux termes de la fiducie.
+ii) Qualification des avantages aux actionnaires ou à des tiers
+[27] Le paragraphe 15(1) de la Loi ajoute au revenu de l’actionnaire l’avantage conféré à celui-ci du fait de sa qualité d’actionnaire en vertu de ce qui suit :
+15 (1) La valeur de l’avantage qu’une société confère, à un moment donné, à son actionnaire, à un associé d’une société de personnes qui compte parmi ses actionnaires ou à son actionnaire pressenti est incluse dans le calcul du revenu de l’actionnaire, de l’associé ou de l’actionnaire pressenti, selon le cas, pour son année d’imposition qui comprend ce moment [...]
+[28] Pour que la valeur d’un avantage soit incluse dans le revenu de l’actionnaire en application du paragraphe 15(1), l’avantage doit être conféré au su ou avec le consentement de l’actionnaire, ou dans des circonstances où l’actionnaire aurait dû savoir qu’il recevait un avantage : Chopp c. La Reine, [1995] 2 CTC 2946, 1995 CarswellNat 627(CCI), au paragraphe 17; confirmé par 1997 DTC 6014, 1997 CarswellNat 1768.
+[29] Dans la décision Chopp, la Cour canadienne de l’impôt, pour déterminer si un avantage conféré à un actionnaire existe, a fait les observations suivantes destinées à guider les juridictions saisies de cette question :
+Au paragraphe 15(1), il est question de biens attribués à un actionnaire ou devant servir à son profit et d’un avantage accordé à un actionnaire par une compagnie. À titre de seul actionnaire de la compagnie, l’appelant peut soit s’approprier, soit mettre de côté à des fins particulières un élément de valeur appartenant à la compagnie ou, à titre de dirigeant de la compagnie, être responsable de l’octroi d’un avantage, tout en consentant, à titre personnel, à accepter cet avantage ou à l’adapter à ses propres besoins.
+[30] Pour déterminer si l’actionnaire a reçu un avantage aux termes du paragraphe 56(2), la Cour doit tenir compte de quatre conditions préalables : Piersanti c. La Reine, 2013 CCI 226, au paragraphe 50 :
+a) le décaissement doit être fait à une autre personne que l’actionnaire;
+b) le décaissement doit être fait suivant les instructions ou avec l’accord de l’actionnaire;
+c) le décaissement doit être fait au profit de l’actionnaire ou à titre d’avantage que l’actionnaire désire voir accorder à une autre personne;
+d) le décaissement serait inclus dans le revenu de l’actionnaire s’il l’avait lui‑même reçu.
+[31] Le critère de déductibilité d’une dépense d’employé appropriée consiste à rechercher si la dépense avait été payée par une société à son actionnaire s’il n’avait pas été actionnaire. Autrement dit, la société aurait-elle engagé ces dépenses pour un employé clé sans lien de dépendance en sa qualité d’employé plutôt qu’en sa qualité d’actionnaire? : Spicy Sports Inc. c. La Reine, 2004 CCI 463, au paragraphe 9. Une analyse plus approfondie de la Loi concernant cette qualification figure aux paragraphes 82 à 89 ci-dessous.
+iii) Frais d’intérêts
+[32] L’alinéa 20(1)c) de la Loi prévoit la déduction des frais d’intérêt à condition que deux conditions générales soient réunies :
+a) le contribuable doit être en mesure de rattacher les intérêts versés à titre d’obligation légale pour l’utilisation de l’argent emprunté;
+b) le contribuable doit être en mesure de démontrer que l’utilisation des biens empruntés avait un but admissible aux termes de la loi, conformément au raisonnement de la Cour suprême du Canada dans l’arrêt Shell Canada Ltée c. Canada, [1999] 3 RCS 622, mais lorsque la structure et les rapports juridiques par le contribuable ont été établis, ils doivent être respectés.
+[33] Il incombe au contribuable de rattacher les fonds empruntés à une fin admissible : Bronfman Trust c. La Reine, [1987] 1 RCS 32, au paragraphe 51. Il faut donc établir un lien avec l’emprunt, ce qui nécessite la preuve du capital emprunté et du taux d’intérêt appliqué pour l’emprunt, pour déterminer le montant admissible, et l’utilisation actuelle des fonds.
+[34] Le contribuable doit également établir une utilisation admissible des fonds pour tirer un revenu : Scragg c. Canada (Procureur général), 2009 CAF 180, au paragraphe 11.
+[35] Il ne suffit pas de démontrer que l’argent emprunté a été prêté à une société pour établir une utilisation admissible des fonds empruntés. Les fonds doivent être retracés jusqu’à la société afin de déterminer l’utilisation finale des fonds par la société et si cette utilisation est admissible.
+iv) Cotisations frappées de prescription
+[36] Pour établir une nouvelle cotisation à l’égard d’une année d’imposition par ailleurs prescrite, le ministre doit d’abord prouver que JFI a fait une présentation erronée des faits en produisant sa déclaration de revenus pour l’année prescrite. Deuxièmement, le ministre doit ensuite prouver, selon la prépondérance des probabilités, que cette présentation erronée est imputable à une négligence, une inattention ou une omission volontaire : Nesbitt c. La Reine, (1996) ACF no 19 (C.F. 1re inst.), au paragraphe 10; Séguin Boyer c. La Reine, 2008 CCI 88, au paragraphe 16. L’alinéa 152(4)a) prévoit qu’une cotisation ou une nouvelle cotisation peut être établie après la période normale de nouvelle cotisation applicable au contribuable pour une année d’imposition seulement si le contribuable ou la personne produisant la déclaration a fait une présentation erronée par négligence, par inattention ou par omission volontaire, ou s’il a commis quelque fraude en produisant la déclaration.
+[37] La négligence est établie aux termes du sous-alinéa 152(4)a)(i) s’il est démontré que le contribuable n’a pas exercé une diligence raisonnable à l’égard d’une somme déclarée. Par exemple, dans la décision Venne v. Her Majesty the Queen, [1984] CTC 223 (C.F. 1re inst.), au paragraphe 16, la Cour a observé :
+[traduction]
+Je conclus qu’il suffit au ministre, pour invoquer son pouvoir en vertu de l’alinéa 152(4)a)(i) de la Loi, de démontrer la négligence du contribuable, à l’égard d’un ou plusieurs éléments de sa déclaration de revenus au titre d’une année donnée. Cette négligence est établie s’il est démontré que le contribuable n’a pas fait preuve de diligence raisonnable. C’est sûrement là le sens des termes « présentation erronée des faits, par négligence », en particulier avec d’autres motifs comme l’» inattention » ou l’» omission volontaire » qui font référence à un degré de négligence plus élevé ou à une inconduite délibérée. Sauf si ces termes étaient superflus dans cet article, hypothèse que je ne puis retenir, le mot « négligence » impose un critère moins strict de faute, semblable à celui qui est utilisé dans les autres domaines du droit, comme la responsabilité délictuelle. [Non souligné dans l’original.]
+[38] La jurisprudence s'est prononcée sur la signification de l’exercice d’une « diligence raisonnable ». Dans l’arrêt Regina Shoppers Mall v. R, [1991] 1 CTC 297, au paragraphe 18, la Cour d’appel fédérale a observé [traduction] « [l]e juge de première instance ne s’est pas trompé en affirmant que, lorsque la Loi n’est pas claire ou que la qualification des faits est incertaine, “le soin nécessaire doit correspondre à celui d’une personne sage et prudente [...] la déclaration doit être faite d’une façon que le contribuable croit véritablement appropriée” ».
+v) Pénalités au titre du paragraphe 163(2)
+[39] La faute lourde nécessaire justifiant une pénalité aux termes du paragraphe 163(2) est d’un ordre supérieur à celui requis pour permettre au ministre d’établir une nouvelle cotisation en dehors de la période normale de nouvelle cotisation aux termes du paragraphe 152(4) : Venne, précitée, à la note 30. En ce qui concerne les pénalités pour faute lourde, le paragraphe 163(3) impose au ministre le fardeau d’établir la faute lourde. Les appelants soutiennent que le ministre ne s’est pas acquitté de ce fardeau.
+[40] Même si le ministre parvient à passer outre l’année de prescription, deux éléments supplémentaires doivent être établis pour que les appelants soient passibles de pénalités pour faute lourde : i) un faux énoncé dans une déclaration, et ii) le fait d’avoir, sciemment ou dans des circonstances équivalant à faute lourde, fait ce faux énoncé ou d’y avoir participé, consenti ou acquiescé. En revanche, la faute lourde implique une faute plus lourde qu’un simple défaut de diligence raisonnable. La faute lourde implique un degré important de négligence qui corresponde à une action délibérée ou une indifférence au respect de la loi. Dans la décision Can-Am Realty Ltd. c. Canada, 94 DTC 6293, la Cour canadienne de l’impôt a défini le comportement qui serait nécessaire pour appuyer une décision de faute lourde comme un comportement [traduction] « exceptionnel » et [traduction] « manifeste ». De la même façon, dans la décision Farm Business Consultants Inc. c. La Reine, [1994] 2 CTC 2450 (CCI), le juge Bowman (tel était alors son titre) s’est exprimé ainsi :
+Une cour doit faire preuve d’une prudence extrême lorsqu’elle sanctionne l’imposition de pénalités prévues au paragraphe 163(2). Une conduite qui légitime l’établissement d’une nouvelle cotisation à l’égard d’une année frappée de prescription ne justifie pas d’office l’imposition d’une pénalité, et l’imposition systématique de pénalités, par le ministre, est une pratique qui est à déconseiller [...] Par ailleurs, quand une pénalité est imposée en vertu du paragraphe 163(2) même si une norme de preuve civile est exigée, lorsque la conduite d’un contribuable cadre avec deux hypothèses viables et raisonnables, l’une qui justifie la pénalité et l’autre pas, il convient d’accorder le bénéfice du doute au contribuable, et de supprimer la pénalité. [Non souligné dans l’original.]
+c) Questions préliminaires
+i) Changement d’avocat de la part des appelants
+[41] Après avoir reçu les observations, la Cour a convoqué une nouvelle audience comme prévu pour entendre les plaidoiries finales le 2 mai 2019. Une requête hors délai, déposée quelques jours avant cette date, visait à décharger l’avocat du requérant de son mandat, à nommer un nouvel avocat pour les observations finales et à ajourner l’audience des plaidoiries finales déjà prévue. L’avocat de l’intimée ne s’est pas opposé à la demande, sous réserve des dépens. Par conséquent, la Cour a rendu une ordonnance dont voici l’essentiel :
+[traduction]
+2. La requête des appelants aux termes de l’article 34 des Règles est accueillie, de sorte qu’il est mis fin par les présentes à la représentation du cabinet Anderson, James McCall comme avocats inscrits au dossier et le cabinet Field Law LLP, après avoir reçu son consentement pour agir en audience publique, est nommé avocat inscrit au dossier des deux appelants;
+3. L’audition des plaidoiries dans le présent appel est par les présentes suspendue;
+4. En lieu et place des plaidoiries, la Cour entendra et examinera les plaidoiries des avocats au moyen d’observations écrites selon le contenu et le calendrier ci-dessous :
+(i) les arguments principaux des appelants concernant la cotisation contestée à l’égard de l’obligation fiscale (arguments fiscaux) doivent être signifiés et déposés au plus tard le 28 juin 2019;
+(ii) les arguments fiscaux en réponse et les arguments principaux de l’intimée concernant les pénalités aux termes du paragraphe 163(2) et les cotisations prescrites aux termes du paragraphe 152(4) (arguments sur la pénalité et la prescription) doivent être signifiés et déposés au plus tard le 31 juillet 2019;
+(iii) les arguments fiscaux en réplique et les arguments sur la pénalité et la prescription en réponse des appelants doivent être signifiés et déposés au plus tard le 30 août 2019;
+(iv) les arguments en réplique des appelants sur la pénalité et la prescription doivent être signifiés et déposés au plus tard le 30 septembre 2019.
+5. Les dépens de la journée inutilement engagés en ce qui concerne le 2 mai 2019 sont adjugés à l’encontre des appelants et en faveur de l’intimée, et seront établis par la Cour, quelle que soit l’issue de la cause, par suite de la présentation des observations des avocats sur le montant d’argent, après le prononcé du jugement sur le fond.
+ii) Paragraphe 152(4) – années prescrites de JFI – 2007
+[42] La Cour résoudra rapidement cette question. La conclusion de la Cour concernant l’inattention ou l’omission volontaire de GH est fondée sur les témoignages et les aveux de GH. Un grand nombre des dépenses incluses et déduites par JFI, et en cause après concessions, étaient de nature personnelle. L’affirmation selon laquelle elles découlent d’une erreur de bonne foi manque de crédibilité eu égard au témoignage de GH. Ces faits entendus lors de l’audience sont notamment les suivants :
+i) Le mécontentement de GH lorsqu’il a appris que son comptable lui avait [traduction] « imputé de nouveau » des frais de garde d’enfants déduits par JFI.
+ii) GH était la personne qui soumettait les dépenses et décidait celles qui devaient être déduites. Plusieurs de ces dépenses ont ensuite été reconnues comme personnelles.
+iii) Les dépenses comprises aux fins de déduction étaient des dépenses en épicerie, jouets, restauration rapide et frais médicaux, toutes imputées à la carte de crédit de JFI et déduites sans modification, discernement ni exception.
+iv) GH a décrit comment il choisissait et mettait en évidence les dépenses que JFI devait déduire, beaucoup de ces dépenses étaient clairement personnelles.
+v) Au cours de l’audience, GH a décrit et justifié les efforts déployés pour payer les revenus d’emploi figurant sur le feuillet T4 du personnel chargé de la garde des enfants à même le compte de JFI.
+[43] En résumé, le processus de déduction de dépenses de GH à l’égard de JFI est le mieux décrit comme étant exploratoire et itératif, un véritable [traduction] « processus pour tâter le terrain ». Comme il ressort des nombreuses concessions de JFI, cette tactique a tout simplement échoué. Au mieux, lorsque ce n’était pas intentionnel, on ne prenait pas soin d’analyser, de déchiffrer et de séparer les dépenses personnelles des dépenses d’entreprise. En fait, lors de l’audience, il était clair que ce processus relèverait de la Cour dans de nombreux cas. En 2007, l’inclusion de ces dépenses constituait une présentation erronée des faits manifeste, tandis que la combinaison d’inattention, de négligence ou d’omission volontaire n’est toujours pas établie au vu des éléments de preuve dont la Cour est saisie.
+IV. ANALYSE ET DÉCISION
+a) Dépenses refusées de JFI
+[44] La méthode utilisée par la Cour pour décider quelles dépenses refuser lors de l’établissement de la nouvelle cotisation est la suivante : examiner la première nouvelle cotisation par année, la nature et la valeur des concessions de l’appelant et des concessions de l’intimée et, par conséquent, l’établissement de la nouvelle cotisation contestée concernant la nature et la valeur des montants pour l’ensemble de l’année d’imposition.
+(i) Analyse globale
+[45] Les concessions de l’intimée et des appelants après la présentation des éléments de preuve et les observations sur les dépenses et les primes étaient indiquées comme suit :
+1. Pour JFI
+[EN BLANC]
+2007
+2008
+Publicité et promotion
+445 798 $
+40 705 $
+66 689 $
+523 656 $
+62 257 $
+17 286 $
+Frais de bureau
+68 375 $
+21 502 $
+33 932 $
+75 511 $
+17 386 $
+20 196 $
+Prime payable
+[EN BLANC]
+[EN BLANC]
+[EN BLANC]
+519 472 $
+267 621 $
+[EN BLANC]
+Total
+514 173 $
+62 207 $
+100 621 $
+1 118 639 $
+347 263 $
+37 481 $
+Montant de la nouvelle cotisation
+Concessions de l’intimée
+Concessions de l’appelant
+Montant de la nouvelle cotisation
+Concessions de l’intimée
+Concessions de l’appelant
+2. Pour GH
+[EN BLANC]
+2007
+2008
+Publicité et promotion
+460 071 $
+49 759 $
+[EN BLANC]
+168 013 $
+16 579 $
+[EN BLANC]
+Frais de bureau
+74 943 $
+19 066 $
+[EN BLANC]
+24 896 $
+15 925 $
+[EN BLANC]
+Prime payable
+16 177 $
+10 285 $
+[EN BLANC]
+[EN BLANC]
+[EN BLANC]
+[EN BLANC]
+Total
+551 190,9 $
+79 110 $
+[EN BLANC]
+192 909 $
+32 503 $
+[EN BLANC]
+Montant de la nouvelle cotisation
+Concessions de l’intimée
+Concessions de l’appelant
+Montant de la nouvelle cotisation
+Concessions de l’intimée
+Concessions de l’appelant
+iii) Par types ou groupe
+Publicité et promotion
+2007
+Concessions de l’appelant
+[46] Concessions de l’appelant :
+a) frais de déplacement de la famille pour assister aux assemblées des actionnaires tenues à Hawaï en juillet 2006 et en janvier 2007;
+b) frais de nettoyage des tapis de sa résidence personnelle.
+Concessions de l’intimée
+[47] Nature des concessions de l’intimée :
+frais d’hôtel et d’hébergement de GH;
+frais approximatifs de croisière de GH;
+frais de déplacement de GH;
+honoraires et frais d’inscription à la conférence de tiers concernant la promotion de l’entreprise;
+dépenses accessoires liées au déplacement de GH.
+Analyse et décision
+[48] La qualification des dépenses encore controversée par l’intimée est celle que la Cour adopte. Sans exception, le solde des frais de bureau refusés concerne ce qui suit :
+frais d’habillement de divers membres de la famille;
+billets d’avion pour les membres de la famille;
+frais de croisière et d’hébergement pour les membres de la famille;
+frais de spa;
+jouets et articles de jardin;
+frais de restaurant pour les membres de la famille;
+alimentation et épicerie;
+loisirs;
+bijoux;
+matériaux de construction.
+[49] La justification avancée par GH, à tout le moins en ce qui concerne les frais de croisière de la famille est qu’un certain M. Goel [traduction] « a fortement encouragé les membres de ma famille à faire ces croisières ». Au-delà de cette affirmation, peu d’éléments de preuve objectifs ont été déposés. M. Goel n’a pas témoigné. Aucune directive, communication ni aucun contrat écrit où figure une clause ou une disposition d’une entente concernant la nécessité de la présence de la famille n’a été produit.
+[50] Au-delà des concessions de l’intimée, la Cour n’est pas disposée à approuver la déductibilité du solde des frais de publicité et de promotion refusés. Il s’agit de dépenses de nature personnelle à première vue. Il n'y a aucun élément de preuve crédible en sens contraire.
+2008
+Concessions de l’appelant
+[51] Comme en 2007, l’appelant a concédé des dépenses relatives aux frais d’assemblée des actionnaires pour les membres de la famille et au nettoyage de tapis à sa résidence.
+Concessions de l’intimée
+[52] De manière semblable à 2007, l’intimée a concédé que les frais de déplacement, d’hébergement et de promotion de GH étaient des dépenses d’entreprise déductibles.
+Analyse et décision
+[53] Il n’y a pas de différence significative entre 2007 et 2008. Les dépenses refusées et toujours en cause étaient de nature personnelle. Les appelants n’ont présenté aucune preuve distincte à l’égard des dépenses des deux années. L’intimée maintient sa thèse relativement à l’établissement de la nouvelle cotisation est maintenue, au-delà des concessions décrites.
+Frais de bureau
+2007
+Concessions de l’appelant
+[54] Les concessions de l’appelant se limitent aux dépenses d’aménagement paysager fait à la résidence personnelle de GH.
+Concessions de l’intimée
+[55] L’intimée a concédé que 50 % des dépenses engagées pour un condominium parfois utilisé pour le divertissement des clients et la promotion étaient déductibles. En outre, l’intimée a concédé 15 000 $ pour chaque année d’imposition en raison de l’usage commercial de la résidence personnelle de GH.
+Analyse et décision
+[56] Les frais de bureau, au-delà des concessions de l’intimée et des appelants, entrent dans la liste suivante de dépenses déclarées :
+les contraventions;
+les frais de garde d’enfants;
+l’entretien ménager et le nettoyage;
+les frais de consultation en physiothérapie;
+l’aménagement paysager;
+les vêtements et les services des grands magasins.
+[57] La justification avancée pour avoir emmené les membres de la famille en croisière ne porte pas sur les frais de bureau. GH a déclaré devant la Cour qu’il pensait que les frais de garde d’enfants devaient être déductibles parce qu’ils lui permettaient de gagner un revenu. Quelles que soient les dispositions qui peuvent exister pour une telle déductibilité des dépenses à titre personnel, il ne s’agit pas de dépenses d’entreprise de JFI. De plus, aucune preuve de l’emploi ou du statut professionnel de l’épouse de GH n’a été présentée. GH n’a pas indiqué dans son témoignage que son épouse n’était pas disponible s’occuper des enfants, sauf peut-être pendant les croisières qu’elle a dû effectuer. La plupart des dépenses se rapportent aux besoins particuliers d’un enfant. Là encore, il s’agissait de frais personnels bien qu’ils soient importants. D’autres dispositions de la Loi pourraient bien permettre la déductibilité et des crédits d’impôt pour ces dépenses. Toutefois, il ne s’agit pas de dépenses d’entreprise déductibles de JFI engagées dans le but de gagner ses revenus.
+2008
+Concessions
+[58] Les concessions faites par les deux parties ont été systématiquement appliquées à des types de dépenses de bureau semblables à celles de 2007 en 2008.
+Analyse et décision
+[59] Il n’y a pas de distinction entre 2007 et 2008 en ce qui concerne les frais de bureau, car aucune preuve distincte n’a été présentée par GH à l’égard des deux années. Ainsi, l’analyse pour 2007 s’applique à 2008.
+Primes
+2007
+[60] Aucune des parties n’a fait de concessions concernant les primes de l’année d’imposition 2007.
+Analyse et décision
+[61] Les primes refusées (à l’exclusion des montants du RPEB traités séparément ci-dessous) versées par JFI en 2007, extraites des registres de JFI, sont les suivantes :
+Avance à Moyra (Hilderman) 5 000 $ Advance à L. Amatt (Laela) 39 500 $
+[62] Lors de l’audience, aucune preuve n’a étayé le paiement versé à Moyra Hilderman, la fille de GH. De même, GH a admis que les paiements à Laela Amatt étaient destinés à couvrir des frais de garde d’enfants. Aucun des avocats des appelants n’ont indiqué dans leurs des observations que l’un ou l’autre de ces paiements était déductible par JFI en tant que dépense d’entreprise. Il n’y a aucun élément de fait permettant à notre Cour de conclure que ces paiements étaient des dépenses d’entreprise déductibles de JFI.
+2008
+Concessions de l’intimée
+[63] Dans la catégorie des primes, 267 620,99 $ ont été concédés par l’intimée pour 2008. Cette somme d’argent concernait des commissions d’aiguillage, des frais de gestion, des commissions, des honoraires de consultants et des salaires versés aux prestataires de services par JFI ou GH dans le cadre de leurs engagements commerciaux. Plus précisément, il s’agit des montants suivants :
+Date
+Bénéficiaire
+Montant arrondi
+[EN BLANC]
+Total
+_____________ 267 622 $
+Août 2008
+Cruise Connections
+81 159 $
+Décembre 2008
+Cruise Connections
+112 210 $
+Février 2009
+DBS Capital Management
+27 027 $
+Mars 2009
+DBS Capital Management
+5 000 $
+Dates multiples
+Kimberly Booth, conseils
+27 225 $
+Dates multiples
+May Concepcion
+15 000 $
+Analyse et décision
+[64] Les primes refusées suivantes (à l’exclusion des montants du RPEB) sont toujours controversées :
+Bénéficiaire Montant
+Joanell Skykora 20 314 $
+Maria Cunha 22 442 $
+Maria Cunha (versements fiscaux) 6 003 $
+Vanessa Cunha 800 $
+A. Hilderman 400 $
+LA Capital (Marinna) 1 850 $
+Stephanie Kratchmer 717 $
+Candice Cunningham 2 325 $
+Laela Amatt 72 000 $
+________
+Total 126 851 $
+[65] Aucune preuve n’a été présentée devant la Cour quant au fait que les bénéficiaires ci-dessus étaient employés par JFI, à l’exception de Maria Cunha et de Stephanie Kratchmer. Mme Kratchmer semble être la gestionnaire des fonds auxquels JFI a accès pour ses investissements dans des fonds communs de placement. En revanche, Maria Cunha était une infirmière personnelle pour le fils handicapé de GH. Elle a remplacé Joanell Skykora, également susmentionnée. Vanessa Cunha est la fille de Maria. Elle s’occupait également du fils de GH. Laela Amatt est la mère du fils de GH, dans la mi-vingtaine. Ces paiements représentaient des paiements indirects de pension alimentaire pour enfants. Selon les propres termes de GH, [traduction] « je les déduis comme s’il s’agissait d’une pension alimentaire ». Apparemment, Marinna (LA Capital) a été la secrétaire de quelqu’un au bureau de JFI à Toronto. Aucun témoignage n’a été fourni concernant les primes versées à A. Hilderman ou Candace Cunningham.
+[66] En général, la majeure partie des primes controversées versées par JFI ne s’approchent pas de paiements effectués dans le but de générer ou de tirer des revenus. Les observations de l’appelant n’ont guère étayé la thèse portant que ces dépenses étaient des dépenses appropriées de JFI. Les paiements à Marinna (LA Capital) et Stephanie Kratchmer se rapprochent un peu de cet objectif commercial. Cependant, à part les déclarations intéressées de GH, il n’y a pas de factures, d’ententes collatérales faisant référence à l’obligation de payer ou d’éléments de preuve émanant de tiers concernant ces paiements, ces montants ou la nature curieusement isolée du paiement. Somme toute, la Cour ne conjecturera pas, en fonction de la preuve, que les primes avaient un but commercial ou servaient à générer des revenus, en particulier compte tenu des circonstances dans lesquelles elles ont été encourues.
+Frais de téléphone
+2008
+[67] Les frais de téléphone refusés concernaient uniquement l’année d’imposition 2008. Tous les frais de téléphone relatifs au bureau d’affaires principal de Toronto ont été admis par le ministre. Au total, il y avait quatre lignes téléphoniques. GH se servait de deux de ces lignes téléphoniques. Son épouse se servait de la troisième ligne téléphonique et la quatrième ligne était au nom de JFI en Colombie-Britannique. Cette dernière ligne semble se rapporter à la propriété en Colombie-Britannique. La moitié des dépenses relatives à Rogers (forfait pour 4 utilisateurs) a été admise : à savoir 9 859 $ du total de 19 718 $.
+Analyse et décision
+[68] Bien qu’aucune ventilation entre les quatre utilisateurs n’ait été présentée, la Cour conclut raisonnablement que 50 % des frais de téléphone refusés étaient des dépenses d’entreprise parce qu’ils concernaient l’emplacement en Colombie-Britannique. Les 2 465 $ supplémentaires, dans l’ensemble, ont été engagés à des fins commerciales. Les efforts de GH pour le compte de JFI ont été menés en grande partie par téléphone, expliquant au moins à moitié la nécessité et l’utilisation du téléphone, ainsi que les dépenses connexes, lorsque GH se trouvait à cet emplacement.
+Commissions et prestations d’assurance
+[69] JFI a versé 500 $ par mois à la Banque Royale pour une police d’assurance-vie sur la vie de GH. Aucune copie de la police ou de la demande de couverture n’a été produite lors du procès.
+Analyse et décision
+[70] L’hypothèse du ministre selon laquelle la police a été émise en vertu d’une entente de garde au profit d’un enfant issu d’une autre relation est retenue. Ces dépenses étaient de nature personnelle et n’étaient pas engagées dans le but de générer des revenus. Aucun élément de preuve avancé par les appelants n’a remis en cause cette hypothèse.
+Véhicules à moteur
+2007
+[71] Deux voitures étaient louées par JFI à des fins fiscales, une Honda et une Toyota. Le ministre a évalué à 16 177 $ les frais pour droit d’usage à l’égard de GH pour 2007.
+Analyse et décision
+[72] L’intimée a concédé que 10 285 $ devraient être supprimés en tant qu’avantage aux termes du paragraphe 15(5) à l’encontre de GH en 2007. Ce montant concerne les frais à l’égard de la Toyota. L’intimée a concédé que ce véhicule était presque exclusivement utilisé à des fins commerciales. Les appelants n’ont présenté aucune autre observation ou aucun autre élément de preuve concernant d’autres frais ou avantages afférents aux véhicules à moteur. Par conséquent, la somme de 10 285 $ est l’étendue de l’allocation de dépenses.
+Revenus T4 non déclarés
+2008
+[73] GH n’a produit aucun élément de preuve ni fait aucune observation sur la question des revenus indiqués sur le feuillet T4 non déclarés. Les revenus du feuillet T4 ayant fait l’objet d’une nouvelle cotisation étaient de 48 578 $. Les sources de ces montants semblent être Walton International Group Inc., PPI Québec Inc. et PPI Partners.
+Analyse et décision
+[74] Purement en fonction des preuves, les hypothèses du ministre concernant ce poste de revenu non déclaré sont retenues. Il n’y a tout simplement aucune explication ou preuve présentée par les appelants quant à la raison pour laquelle ces montants n’ont pas été inclus dans le revenu de GH ou ont été déclarés d’une autre manière par un autre contribuable.
+Divers
+(i) Divers – paiements au titre du RPEB
+[75] JFI a signé une convention de fiducie datée de mars 2000 concernant le régime de participation des employés aux bénéfices (RPEB). Au titre de tels régimes, les bénéficiaires devaient être des personnes employées par l’employeur, JFI. Les employés doivent avoir accompli une année de service et avoir été entièrement employés depuis le début des activités de JFI pour que les montants soient versés au titre de ce régime. Aux termes du RPEB, des montants ont été versés aux enfants de GH pendant leur emploi d’été au sein de JFI. Indépendamment de cette question, dans le présent appel, il y a non-respect des exigences légales imposées pour de tels régimes de participation des employés, notamment :
+1. aucune preuve n’a été présentée à la Cour quant au fait que les versements effectués au titre du RPEB étaient liés à des bénéfices; en fait, JFI n’a pas produit de bénéfices au cours des années d’imposition 2007 et 2008;
+2. aucune preuve n’a été présentée à la Cour à l’égard d’un versement au titre du RPEB;
+3. aucune preuve n’a été présentée à la Cour à l’égard d’un paiement du fiduciaire en qualité de fiduciaire aux enfants de GH, les bénéficiaires.
+[76] Les paiements effectués ne sont pas admissibles selon les conditions nécessaires énoncées ci-dessus pour accorder une déduction au titre de prime ou de frais de personnel à JFI en tant que versements au titre du RPEB.
+b) Frais d’intérêts de GH
+[77] GH a déclaré des frais d’intérêts relatifs aux trois investissements : l’achat de la propriété de Kimberley, en Colombie-Britannique, un prêt à JFI prétendument à des fins commerciales et un prêt à une société pétrolière et gazière, Jordan Energy Inc. (JEI). Les frais d’intérêts s’élevaient respectivement à 119 249 $ et à 117 846 $ en 2008 et en 2009. Les éléments de preuve présentés à la Cour se composaient du témoignage de GH et d’une lettre narrative du comptable de GH décrivant les avances et leurs fins. De plus, une lettre d’opinion d’un géologue adressée à JEI exposait les perspectives d’extraction de gaz naturel sur le site de forage appartenant à JEI.
+[78] Des contrats de prêt d’une page entre JEI et JFI, d’une part, et GH et JFI, d’autre part, reflétaient les avances relatives aux prêts avancés pour lesquels la déduction des intérêts était demandée par GH. Dans quelques cas, il y a des chèques et des dépôts ainsi qu’un relevé bancaire générique dont on affirme qu’ils constituent une preuve des prêts. Une charge aux termes de la Land Titles Act (loi sur les titres de biens-fonds) en faveur de la Banque de Montréal comprend une hypothèque de 500 000 $ sur la propriété de Kimberley. À part cela, il n’y avait pas de registre des prêts aux actionnaires reflétant les avances de GH à JEI ou JFI. Les prêts à JFI et JEI avaient des taux d’intérêt variables référencés à un « taux préférentiel + 1 % ». L’hypothèque de la Banque de Montréal disposait d’un taux d’intérêt correspondant à un [traduction] « taux de MCP plus/-1 % par année, selon le cas ».
+[79] La Cour ne peut pas admettre la déduction des frais d’intérêts demandée pour les raisons suivantes :
+a. il n’y a pas de documents concernant le calcul des intérêts, tous les taux étaient référencés à des taux variables incorporés par renvoi dans les documents. Pour connaître, évaluer approximativement ou même supposer le montant des intérêts demandés à titre de déduction, GH doit préparer et présenter un calcul réel de ceux-ci au ministre ou à la Cour;
+b. l’objet de l’hypothèque sur la propriété de Kimberley, en Colombie-Britannique, aurait pu, tout compte fait, être une propriété récréative à usage personnel et non un investissement commercial ou immobilier. Aucune preuve n’a été produite pour indiquer son usage principal ou la raison de son acquisition;
+c. la perspective que JEI tire des revenus de placement dans les puits de gaz n’a été étayée par aucun élément de preuve;
+d. le prêt d’entreprise de GH à JFI n’est pas assorti des documents nécessaires pour prouver de manière fiable son objet, sa durée ou le coût réel du capital.
+Ainsi, les frais d’intérêts sont refusés.
+c) Qualification des dépenses refusées : avantages aux actionnaires ou aux employés
+i) Les thèses des parties
+[80] Des sommes considérables en 2007 et 2008 ne sont pas déductibles à titre de dépenses d’entreprise par JFI, bien que déclarées comme telles. La question reste de savoir si ces montants doivent être attribués à GH à titre d’avantage conféré à un actionnaire aux termes du paragraphe 15(1) ou à titre d’avantage conféré aux employés aux termes de l’alinéa 6(1)a) de la Loi. Les parties ont des thèses différentes sur cette question.
+[81] L’avocat de l’appelant soutient que la capacité de GH à être la principale [traduction] « force d’attraction de clients », le fournisseur de services clé et la cheville ouvrière de l’entreprise de JFI est convaincante. La Cour devrait donc conclure que chaque dépense refusée aurait autrement été payée, à juste titre, à GH en tant que revenus ou avantages liés à l’emploi. Pour être clair, [traduction] « autrement » signifie que chaque dépense n’aurait pas été déduite comme dépense d’entreprise de JFI.
+[82] Les critères juridiques sont clairement satisfaits selon les appelants. La Cour d’appel fédérale enseigne que le lien le plus ténu à la capacité de la fonction suffit pour faire échec à l’attribution à titre d’avantage aux actionnaires : T. Pellizzari c. M.R.N., [1987] 1 CTC 2106, au paragraphe 17; illustré davantage par Youngman c. Canada, [1990] 2 CTC 10, au paragraphe 18; Serrais v. Her Majesty the Queen, 2000 CAF 329, au paragraphe 17 et Singing Skies v. MNR, [1986] 2 CTC 2146 (CCI). En outre, lorsque l’expertise, l’expérience, la réputation et la renommée sont essentielles au succès de l’entreprise, sa capacité à verser des primes ou un salaire est limitée : Safety Boss Ltd. c. La Reine, 2000 DTC 1767, aux paragraphes 51 à 53. Dans une société unipersonnelle, les primes et les honoraires sont fonction de la valeur du chef de la direction et dictent ce qu’un employé sans lien de dépendance gagnerait autrement. Enfin, un tel mode de paiement était courant au cours de la période de 2007 à 2008; elle a été entreprise afin de réduire le revenu d’entreprise au plafond des petites entreprises en versant des primes et des salaires à hauteur d’un tel montant.
+[83] Les observations de l’intimée contredisent la qualification par les appelants de l’argument du plus petit lien ou de la plus petite connexion avec l’emploi. Dans le cas où les dépenses refusées, de par leur nature même, n’auraient pas été payées par un employeur à un employé, elles ne peuvent alors pas être qualifiées d’avantage lié à l’emploi. La décision quant à l’avantage à l’actionnaire et l’avantage lié à l’emploi ne peut être dissociée des actions de l’unique actionnaire contrôlant et administrateur. GH, par son contrôle sans entrave, a choisi de ne pas payer de primes salariales, mais plutôt de déduire les dépenses refusées des recettes d’entreprise de JFI et de ne jamais déclarer ou de s’attribuer un montant d’avantage ou de revenu lié à l’emploi. Il est interdit aux appelants de procéder à une planification fiscale rétroactive visant à réduire au minimum, ou du moins à atténuer, le montant de l’impôt lorsque leurs opérations initiales ont échoué : Bronfman Trust c. La Reine, [1987] 1 RCS 32, au paragraphe 53.
+ii) Résumé du témoignage de GH
+[84] Bien que GH et JFI préféreraient clairement que la majeure partie des dépenses refusées soient qualifiées d’avantages liés à l’emploi, en fonction des éléments de preuve, c’est impossible. Le témoignage de GH était sans équivoque. Les montants dépensés par JFI étaient, à son avis, déductibles par JFI parce que JFI et GH, à titre d’unique actionnaire contrôlant et contributeur principal, ne faisaient qu’un.
+[85] Le fondement factuel de cette conclusion est tiré du témoignage de GH lui-même. Il a complètement effacé les lignes de démarcation entre l’entreprise JFI et sa filiale et ses dépenses personnelles (y compris celles des membres de sa famille nucléaire, élargie et d’anciens membres de sa famille). Son utilisation universelle du pronom personnel « je » pour décrire toute entreprise de la société était frappante. Les services payés par JFI à l’aide-soignante [traduction] « qui prenait soin de mon fils [...] étaient le prix à payer pour que je puisse aller gagner ma vie ». En ce qui concerne le RPEB, GH a affirmé que [traduction] « [...] les personnes qui travaillaient à mon bureau étaient mon fils et ma fille [...] qui allaient tous les deux à l’université [...] à cette époque-là et qui travaillaient pour moi l’été ». À un certain point, GH a utilisé le pronom « nous », mais l’a défini comme [traduction] « le nous royal : JFI, G2 Financial et moi-même ». GH était également très sensible à sa qualité d’actionnaire, plus particulièrement en ce qui concerne les dépenses. Il a affirmé ce qui suit : [TRADUCTION] « j’avais l’impression que les actionnaires de la société pouvaient tenir deux assemblées des actionnaires par année [...] moi-même étant actionnaire de la société et ma fiducie familiale étant actionnaire de la société, je faisais généralement deux voyages par année [...] et je déduisais le coût ». De la même façon, GH a affirmé qu’il était [traduction] « la personne qui déterminait ce qui devait être soumis à titre personnel et ce qui devait être soumis à titre commercial ».
+[86] En concluant que la grande majorité des dépenses refusées doit être affectée aux avantages aux actionnaires, la Cour fait les observations finales suivantes. GH ne s’est attribué aucun revenu d’emploi provenant de JFI au cours des périodes concernées. La nature des dépenses refusées et déduites par JFI n’est pas dans l’ensemble celle des dépenses qu’un employeur raisonnable paierait autrement à l’avantage d’un employé sans lien de dépendance : frais de garde d’enfants, jardinage, frais de voyage en famille, vêtements personnels, épicerie, produits de beauté et produits de luxe pour énumérer certaines des dépenses dont la déduction est demandée. L’approche et les actions de GH à l’égard de ces fortes déductions n’étaient pas involontaires ou marginales; les sommes déduites et refusées étaient comptabilisées et calculées. GH avait la possibilité et le pouvoir de se verser un salaire ou de s’octroyer les avantages aux employés de JFI en 2007 et en 2008, il s’en est délibérément et méthodiquement abstenu et a évité de le faire. Au lieu de cela, il a payé toutes ces sommes à des tiers. En fonction des éléments de preuve présentés à la Cour, les hypothèses du ministre concernant les avantages conférés aux actionnaires n’ont pas été modifiées. GH ne souhaitait pas recevoir d’avantages liés à l’emploi en 2007 et en 2008 et ses décisions ne seront pas modifiées, sauf dans la mesure des concessions de l’intimée et des autres conclusions importantes de la Cour à cet égard ci-dessous.
+iii) Tout, rien ou entre les deux
+[87] La Cour a examiné les dépenses refusées afin de déterminer s’il convient de faire une exception à sa précédente conclusion à l’égard des avantages aux actionnaires. Dans son examen, ligne par ligne, des dépenses refusées, la Cour constate deux exceptions. Deux montants versés par JFI en 2007 et en 2008 seraient admissibles : 46 500 $ et 13 200 $, respectivement. Ces montants ont été versés directement à GH. Ils ont été versés à GH avant ses croisières de promotion commerciale à l’égard desquelles GH déployait des efforts pour générer des revenus pour JFI. Bien qu’ils constituent un avantage personnel, ils ont été reçus avant l’offre de services à titre d’employé plutôt qu’à titre de simple avantage versé à un tiers au profit d’un actionnaire de contrôle.
+d) Pénalités pour faux énoncé au titre du paragraphe 163(2)
+i) Ce que GH a fait et ce qu’il dit avoir fait
+[88] Comme pour la plupart des pénalités imposées aux termes du paragraphe 163(2), la teneur, l’approche et la présentation des éléments de preuve de l’appelant devant la Cour appuient et éclairent la décision de la Cour. Tout témoignage de ce type doit porter sur les antécédents et l’éducation, le degré et la notoriété des faux énoncés et le rôle du contribuable dans la survenance de ceux-ci.
+[89] Les antécédents et la formation de GH en matière fiscale ont été présentés en substance à la Cour par l’intermédiaire des éléments de preuve présentés par l’appelant. Les connaissances de GH sur les questions complexes d’intégration fiscale, les stratégies de déduction des petites entreprises et la structuration du mode de vie des entreprises et des particuliers sont apparues sous forme de preuve documentaire devant la Cour à partir de ses conférences sur ces sujets données lors de croisières promotionnelles. Il gagnait sa vie en recommandant des placements et en vendant des conseils qui concernaient ces mêmes sujets. Quant à la paternité des actions, GH a déterminé unilatéralement et exclusivement les dépenses que JFI devait déduire en tant que dépenses d’entreprise. Il a admis que certaines d’entre elles étaient manifestement personnelles. Cela ne l’a pas arrêté.
+[90] Le degré et la portée des inexactitudes, même après les concessions de l’intimée et les conclusions de la Cour, étaient manifestes et importants sur le plan quantitatif. En les arrondissant tout simplement, les cotisations confirmées de GH étaient supérieures à 400 000 $ et 300 000 $ pour 2007 et 2008, respectivement. Pour JFI, les cotisations confirmées étaient supérieures à 600 000 $ et 500 000 $ pour 2007 et 2008, respectivement. À tous égards, il s’agit de sommes très importantes. Ces sommes importantes sont le résultat des actes accomplis par GH. Dans certains cas, elles l’étaient en raison de la stratégie du « ballon d’essai ». Il est à noter que ces sommes comprenaient des dépenses en habillement, bijoux, jouets et articles de jardinage pour des résidences personnelles. Dans d’autres cas, elles ont été encourues par omission inexplicable : revenus de feuillets T4 de commissions perçues par GH en 2008. Dans d’autres cas encore, elles découlaient d’affirmations étranges, malavisées et formulées avec obstination : la déduction de frais de garde d’enfant et de versements de RPEB pour les enfants de GH. Ces décisions s’appliquaient à GH et à JFI. Dans certains cas, elles découlaient des actes délibérés de déduction de dépenses d’articles personnels et dans d’autres, des omissions de revenus et des conclusions de droit commodes non conformes aux connaissances professionnelles de GH dans le domaine.
+[91] En bref, les pénalités doivent être maintenues. Elles existent précisément pour cette sanction : certains contribuables avertis doivent comprendre que l’utilisation de structures d’entreprise pour masquer des déductions inappropriées et protéger les revenus personnels de l’impôt n’a pas le résultat escompté en définitive ou, du moins, ne devrait pas donner lieu à un tel résultat.
+V. Sommaire et dépens
+[92] En résumé, GH a droit aux dépenses supplémentaires concédées par l’intimée avant les observations pour les années d’imposition 2007 et 2008, comme décrites ci-dessus, et aux frais de téléphone supplémentaires de 2 465 $ pour 2008. Les 46 500 $ et de 13 200 $ doivent être alloués à GH à titre de revenus d’emploi plutôt que d’avantages aux actionnaires. Sinon, les montants concédés par l’intimée concernant JFI restent les seules réductions des nouvelles cotisations établies par le ministre pour les périodes concernées.
+[93] Les pénalités au titre du paragraphe 162(3) et les nouvelles cotisations prescrites ne sont pas modifiées.
+[94] Les dépens engagés pour le report demandé par GH la journée de l’audience, réservée aux observations finales, à savoir le 2 mai 2019, sont fixés à 3 500 $ et sont payables à l’intimée dans les 30 jours, sans qu’il soit nécessaire de présenter des observations supplémentaires. En outre, un mémoire de dépens dans la cause est accordé à l’intimée. Ce mémoire de dépens unique est imposé à l’égard de GH conformément au tarif applicable à titre provisoire, sous réserve du droit de chaque partie de présenter des observations écrites à ce sujet dans un délai de 30 jours à compter de la date du jugement. Si ces observations sont reçues, la Cour les examinera et pourrait modifier sa décision sur les dépens adjugés de façon provisoire, faute de quoi les dépens adjugés de façon provisoire deviendront définitifs.
+[95] La Cour reconnaît, étant donné la multitude, la variété et le caractère modique des dépenses, la qualification et les catégories des nouvelles cotisations et les autres questions liées aux concessions des parties en l’espèce, qu’il peut y avoir certaines omissions ou incertitudes arithmétiques et dans le calcul dans les présents motifs. S’il y en a, les parties doivent présenter de brèves observations conjointes à la Cour à ce sujet.
+Signé à Ottawa, Canada, ce 23e jour de juillet 2020.
+« R.S. Bocock »
+Le juge Bocock
+Traduction certifiée conforme
+ce 30e jour d'octobre 2020.
+François Brunet, réviseur
+ANNEXE A
+Comparaison des montants contestés entre l’exposé conjoint des faits convenus et les concessions cumulatives
+Point
+Solde avant l’audience
+Concession
+Solde maximal de la nouvelle cotisation en cause
+Contribuable : Jonathan Financial Inc. Année : 2007
+Total des dépenses refusées
+664 526,00 $
+I. Publicité et promotion
+445 798,00 $
+Intimée
+-40 705,35 $
+405 092,65 $
+Appelante
+66 688,73 $
+II. Frais de bureau
+68 375,00 $
+Résidence
+-15 000,00 $
+G2
+-6 501,72 $
+Bureau
+53 375,00 $
+46 873,28 $
+Appelante
+33 932,08 $
+III. Primes
+Hilderman
+5 000,00 $
+5 000,00 $
+L.A.
+39 500,00 $
+39 500,00 $
+RPEB
+103 500,00 $
+103 500,00 $
+IV. Véhicules
+2 353,00 $
+2 353,00 $
+V. Frais d’intérêts
+117 306,00 $
+117 306,00 $
+Totaux refusés résultants
+781 832,00 $
+62 207,07 $
+719 624,19 $
+Contribuable : Jonathan Financial Inc. Année : 2008
+Total des dépenses refusées
+1 128 665,00 $
+I. Publicité et promotion
+523 656,00 $
+Intimée
+-62 256,69 $
+461 399,31 $
+17 285,62 $
+II. Frais de bureau
+75 511,00 $
+Intimée
+-17 385,61 $
+58 125,39 $
+Appelante
+20 195,54 $
+III. Primes
+519 472,00 $
+Cruise connections, DBS, MC
+-267 620,99 $
+251 851,01 $
+IV. Frais de téléphone
+9 859,00 $
+9 859,00 $
+V. Frais afférents aux véhicules
+167,00 $
+167,00 $
+VI. Intérêts
+16 854,00 $
+16 854,00 $
+Totaux résultants
+1 145 519,00 $
+-347 263,29 $
+798 255,71 $
+ANNEXE B
+Comparaison des montants contestés entre l’exposé conjoint des faits convenus et les concessions cumulatives
+Point
+Solde avant l’audience
+Concession
+Solde maximal de la nouvelle cotisation en cause
+Contribuable : M. Hilderman Année : 2007
+Avantages au titre du paragraphe 15(1)
+650 902,00 $
+I. Publicité et promotion
+460 071,23 $
+Intimée
+-49 759,23 $
+410 312,72 $
+Appelante
+II. Frais de bureau
+74 942,63 $
+Intimée-G5
+-4 065,63 $
+Utilisation à domicile
+-15 000,00 $
+55 876,37 $
+Appelante
+III. Frais de téléphone
+6 506,00 $
+6 506,00 $
+Intimée
+Appelante
+IV. Frais afférents aux véhicules
+16 177,00 $
+Intimée
+-10 285,00 $
+5 892,00 $
+Appelante
+V. Avantage lié aux primes d’assurance-vie
+6 000,00 $
+6 000,00 $
+VI. Primes
+109 383,00 $
+109 383,00 $
+Totaux résultants
+673 079,93 $
+-79 109,86 $
+593 970,09 $
+Contribuable : M. Hilderman Année : 2008
+Avantages au titre du paragraphe 15(1)
+218 310,00 $
+Publicité et promotion
+168 013,00 $
+Intimée
+-16 578,86 $
+151 435,00 $
+Appelante
+Société (75)
+II. Frais de bureau
+24 896,00 $
+Intimée-G5
+-924,51 $
+Utilisation à domicile
+-15 000,00 $
+8 971,49 $
+Appelante
+III. Primes
+25 401,00 $
+25 401,00 $
+Revenus de Walton (revenus non déclarés)
+8 014,64 $
+8 014,64 $
+PPI Quebec (revenus non déclarés)
+34 519,00 $
+34 519,00 $
+PPI Partners (revenus non déclarés)
+6 044,00 $
+6 044,00 $
+IV. Frais d’intérêts
+119 249,00 $
+119 249,00 $
+V. Dépenses refusées
+Totaux résultants
+386 613,64 $
+-32 503,37 $
+353 634,13 $
+Contribuable : M. Hilderman Année : 2009
+Frais d’intérêts refusés
+117 846,00 $
+117 846,00 $
+Total
+117 846,00 $
+RÉFÉRENCE :
+2020 CCI 58
+Nº DU DOSSIER DE LA COUR :
+2014-4116(IT)G
+INTITULÉ :
+GREGORY HILDERMAN c. SA MAJESTÉ LA REINE; JONATHAN FINANCIAL INC. c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Calgary (Alberta)
+DATE DE L’AUDIENCE :
+Les 5 et 6 novembre 2018 et le 2 mai 2019
+MOTIFS DU JUGEMENT :
+L’honorable juge Randall S. Bocock
+DATE DU JUGEMENT :
+Le 23 juillet 2020
+COMPARUTIONS :
+Avocats des appelants :
+Me Norman D. Anderson
+Me Rami Pandher
+Avocats de l’intimée :
+Me Margaret McCabe Me Allan Mason
+AVOCATS INSCRITS AU DOSSIER :
+Pour les appelants :
+Nom :
+Me Norman D. Anderson Me Rami Pandher
+Cabinet :
+Anderson James McCall
+Avocats Field LLP Avocats
+Pour l’intimée :
+Nathalie G. Drouin Sous-procureure générale du Canada Ottawa, Canada

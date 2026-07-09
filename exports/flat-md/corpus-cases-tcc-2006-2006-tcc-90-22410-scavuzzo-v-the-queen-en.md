@@ -1,0 +1,251 @@
+---
+title: "Scavuzzo v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/22410/index.do"
+last_modified: "2006-02-14"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 TCC 90"
+citation2: ""
+neutral_citation: "2006 TCC 90"
+decision_date: "2006-02-14"
+language: "en"
+item_id: "22410"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2268
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T22:21:11.635000+00:00"
+cases_cited_count: 3
+cases_citing_count: 7
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "3a41b6b4ee8724f308d7c11b59ff204a9af6a58927e36be9947c192f4f87fbe2"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Scavuzzo v. The Queen
+
+- Citation: 2006 TCC 90
+- Decision date: 2006-02-14
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2268, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Scavuzzo v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-02-14
+Neutral citation
+2006 TCC 90
+File numbers
+2001-4533(IT)G
+Judges and Taxing Officers
+Donald G.H. Bowman
+Subjects
+Income Tax Act
+Decision Content
+Dockets: 2001-4533(IT)G
+2001-4534(GST)G
+BETWEEN:
+SANDRO (ALEX) SCAVUZZO,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeals heard together with the appeals of Jack Scavuzzo (2001-4535(IT)G) and (2001-4536(GST)G)), on April 27 and 28, 2004; November 22, 2004;
+July 11 to 13, 2005; August 3, 4, 5, 10, 11 and 12, 2005 and on
+January 30, 2006 at Toronto, Ontario.
+Before: The Honourable D.G.H. Bowman, Chief Justice
+Appearances:
+Counsel for the Appellant:
+Stevan Novoselac
+Counsel for the Respondent:
+Marie-Thérèse Boris
+JUDGMENT
+It is ordered that the appeals from the assessments made under section 227.1 of the Income Tax Act and section 323 of the Excise Tax Act be allowed and the assessments be vacated.
+The costs of the appellant and Jack Scavuzzo are fixed at $275,000 for both appellants and all four appeals.
+Signed at Ottawa, Canada, this 14th day of February 2006.
+"D.G.H. Bowman"
+Bowman, C.J.
+Dockets: 2001-4535(IT)G
+2001-4536(GST)G
+BETWEEN:
+JACK SCAVUZZO,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeals heard together with the appeals of Sandro Alex Scavuzzo (2001-4533(IT)G) and (2001-4534(GST)G)), on April 27 and 28, 2004; November 22, 2004; July 11 to 13, 2005; August 3, 4, 5, 10, 11 and 12, 2005 and on January 30, 2006 at Toronto, Ontario.
+Before: The Honourable D.G.H. Bowman, Chief Justice
+Appearances:
+Counsel for the Appellant:
+Stevan Novoselac
+Counsel for the Respondent:
+Marie-Thérèse Boris
+JUDGMENT
+It is ordered that the appeals from the assessments made under section 227.1 of the Income Tax Act and section 323 of the Excise Tax Act be allowed and the assessments be vacated.
+The costs of the appellant and Sandro (Alex) Scavuzzo are fixed at $275,000 for both appellants and all four appeals.
+Signed at Ottawa, Canada, this 14th day of February 2006.
+"D.G.H. Bowman"
+Bowman, C.J.
+Citation: 2006TCC90
+Date: 20060214
+Dockets: 2001-4533(IT)G
+2001-4534(GST)G
+BETWEEN:
+SANDRO (ALEX) SCAVUZZO,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+AND
+Dockets: 2001-4535(IT)G
+2001-4536(GST)G
+BETWEEN:
+JACK SCAVUZZO,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER WITH RESPECT TO COSTS
+Bowman, C.J.
+[1] At the conclusion of my reasons for judgment I stated that I would defer signing formal judgments pending receipt of representation on costs. The initial reason for believing that there should be a special provision for costs was that on the second day of trial the appellants' former counsel, Mr. Irving, decided that he had a conflict of interest and had to withdraw. This necessitated an adjournment. When the case resumed, the appellants' new counsel, Mr. Novoselac, moved to amend the notice of appeal to raise a number of new issues. This was opposed but I granted the motion to amend and stated that there was no prejudice to the Crown that was not compensable in costs. From this seemingly innocuous observation the question of costs has taken on a life of its own and the matter was argued at great length on January 30, 2006.
+[2] Essentially, counsel for the appellants seeks costs on a solicitor and client basis. Before I consider this request I should mention two or three relevant points:
+(1) "Solicitor and client costs are generally awarded only where there has been reprehensible, scandalous or outrageous conduct on the part of one of the parties." (Young v. Young, [1993] 4 S.C.R. 3 at 134).
+(2) Conduct that occurred before the commencement of the proceeding may be taken into account in the assessment of costs: Merchant v. The Queen, 98 DTC 1734; affd. 2001 DTC 5245 (F.C.A.). Bank of Nova Scotiav. Fraser, (2001), 12 C.C.E.L. (3d) 1 (F.C.A.). In Lau v. The Queen, [2004] 9 G.S.T.C. 5-3 (affd. F.C.A. [2004] G.S.T.C. 5), I awarded costs beyond the tariff based in part on the conduct of the collections officer prior to the matter coming to court.
+(3) The court has a very broad discretion in awarding costs. Section 147 of the Tax Court of Canada Rules (General Procedure) reads:
+General Principles
+147. (1) Subject to the provisions of the Act, the Court shall have full discretionary power over payment of the costs of all parties involved in any proceeding, the amount and allocation of those costs and determining the persons by whom they are to be paid.
+(2) Costs may be awarded to or against the Crown.
+(3) In exercising its discretionary power pursuant to subsection (1) the Court may consider,
+(a) the result of the proceeding,
+(b) the amounts in issue,
+(c) the importance of the issues,
+(d) any offer of settlement made in writing,
+(e) the volume of work,
+(f) the complexity of the issues,
+(g) the conduct of any party that tended to shorten or to lengthen unnecessarily the duration of the proceeding,
+(h) the denial or the neglect or refusal of any party to admit anything that should have been admitted,
+(i) whether any stage in the proceedings was,
+(i) improper, vexatious, or unnecessary, or
+(ii) taken through negligence, mistake or excessive caution,
+(j) any other matter relevant to the question of costs.
+(4) The Court may fix all or part of the costs with or without reference to Schedule II, Tariff B and, further, it may award a lump sum in lieu of or in addition to any taxed costs.
+(5) Notwithstanding any other provision in these rules, the Court has the discretionary power,
+(a) to award or refuse costs in respect of a particular issue or part of a proceeding,
+(b) to award a percentage of taxed costs or award taxed costs up to and for a particular stage of a proceeding, or
+(c) to award all or part of the costs on a solicitor and client basis.
+(6) The court may give directions to the taxing officer and, without limiting the generality of the foregoing, the Court in any particular proceeding may give directions,
+(a) respecting increases over the amounts specified for the items in Schedule II, Tariff B,
+(b) respecting services rendered or disbursements incurred that are not included in Schedule II, Tariff B, and
+(c) to permit the taxing officer to consider factors other than those specified in section 154 when the costs are taxed.
+(7) Any party may,
+(a) within thirty days after the party has knowledge of the judgment, or
+(b) after the Court has reached a conclusion as to the judgment to be pronounced, at the time of the return of the motion for judgment,
+whether or not the judgment included any direction concerning costs, apply to the Court to request that directions be given to the taxing officer respecting any matter referred to in this section or in sections 148 to 152 or that the Court reconsider its award of costs.
+[3] Counsel for the appellant has made a number of serious allegations about the conduct of the respondent. Basically the conduct alleged to be reprehensible is that of the Minister of National Revenue but counsel for the respondent has not escaped entirely. The allegations were contained in an overview which reads as follows:
+PART I - OVERVIEW
+1. Contrary to the respondent's duty of utmost good faith to the appellants, the respondent's conduct throughout these proceedings has been reprehensible. It is accordingly respectfully submitted that the appellant's ought not to be put to any expense for their substantial costs in these circumstances and that justice would be served only by a full indemnification for the appellants for all of their costs incurred.
+2. The respondent's reprehensible conduct has included:
+(a) raising admittedly unfounded and illegal underlying assessments against Resici Group Inc. ("Resici"), as the basis for the derivative assessments against the appellants;
+(b) making unfounded and unsubstantiated allegations of criminal conduct against the appellants;
+(c) failing to follow its own policy directive;
+(d) disregarding the central fact that the appellant, Jack Scavuzzo ("Jack") resigned as a director, more than two years before he was assessed;
+(e) pursuing assessments and collections deploying a full force, confusing and inconsistent shotgun approach;
+(f) obtaining and executing a jeopardy order using an affidavit that failed to disclose the fact of Jack's resignation and then failing to abide by the terms of the jeopardy order;
+(g) in the replies, pleading assumptions that were patently false and failing to plead true assumptions;
+(h) repeatedly and consistently deploying obstructionist tactics that would tend to hinder or defeat the pursuit of the just determination of these appeals on their merits;
+(i) rejecting the appellants' offer to settle, made as soon as adequate disclosure was belatedly provided only pursuant to Court order;
+(j) proposing in response to the appellants' offer to settle that the matters be resolved on a basis that included the respondent keeping all of the money and property seized from Jack pursuant to the tainted jeopardy order;
+(k) proceeding with the appeals notwithstanding a manifest absence of merit;
+(l) misapplying payments received from Resici;
+(m) continuing with the appeals, notwithstanding having apparently destroyed the documents supporting the respective assessments of 121 and 132 (which allegedly were used as the basis for the underlying assessments against Resici) and failing to disclose that deficiency until the eve of trial; and
+(n) unnecessarily lengthening the duration of the hearings.
+3. It is submitted that the facts are overwhelming to support the exercise of the Court's discretion to award costs in favour of the appellants on a solicitor and client basis.
+[4] Despite Mr. Novoselac's very forceful argument, I am not prepared to award costs on a solicitor client basis. The conduct of the Crown is not sufficiently reprehensible, scandalous or outrageous to justify such an award. The fees billed, up to December 31, 2005, including disbursements and GST, total $549,738. This includes $189,654.33 in "held costs" (ordinary hourly fees not billed until the successful disposition of the appeals) and a premium of $107,000.
+[5] I have not calculated what the party and party costs might be. They could be in the neighbourhood of $50,000.
+[6] I do, however, believe that, in light of a number of considerations which I shall mention below, the appellants, and in particular Mr. Jack Scavuzzo, are entitled to an increase in the costs awarded above the party and party costs provided by the tariff. I shall first however deal with the appellants' counsel's allegation of reprehensible conduct. I shall follow the paragraphs in the overview reproduced above:
+(a) The underlying assessments against Resici which formed the basis for the derivative assessments against the appellants were not "admittedly unfounded and illegal". They were, as found by this court, wrong and were set aside. Since no notices of objection were filed, it was not unreasonable for the collections branch to act on the assumption that they were not disputed and therefore to proceed with the derivative assessments. I do not recall any evidence where either counsel or a witness admitted that the assessments were "unfounded and illegal" although the assessor did admit that "joint assessments" were not in accordance with the Act.
+(b) There was no allegation of criminal conduct against the appellants. The basis of the statement that there were allegations of criminal conduct against the appellants was the somewhat questionable reasoning that since corporations may be subject to prosecution for failure to make remittances, directors may be prosecuted as well. The logic is fallacious. It has never been suggested that criminal prosecutions against either the corporations or the directors were being contemplated.
+(c) I must assume that the assessor believed, wrongly as it happens, that the departmental policy with respect to de facto directors was being adhered to. The fact that an official of the Canada Revenue Agency misapplies a departmental policy is no reason to award solicitor and client costs.
+(d) The failure to give effect to Jack Scavuzzo's resignation is a factor that I intend to take into account.
+(e) There are inconsistencies in the approach taken by the Minister but they are not so egregious as to warrant an award of solicitor and client costs. No doubt they added to the burden upon the appellants and I will factor them into my award of costs.
+(f) The jeopardy order was in my view high handed and oppressive and the failure to disclose to the judge that Jack had resigned is clearly a factor I shall take into account, although counsel for the respondent observed that no motion was made to set aside the jeopardy order.
+(g) There is an essential difference between pleading assumptions that are wrong and pleading that the Minister assumed facts that he in fact did not assume. Here the Minister assumed, wrongly, that Jack Scavuzzo was a director. The pleading was of a wrong assumption which the Minister acted on. The assumption was wrong, not the pleading. To plead that the Minister assumed a fact that he did not assume is reprehensible and should be sanctioned in costs. That is not what happened here.
+(h) This complaint is directed against counsel. I do not think Ms. Boris was obstructionist. She defended the government's position with her usual vigour but within the rules.
+(i) There was certainly an offer to settle by the appellants and it was rejected. If it had been accepted it would have obviated a lengthy and costly trial. There is no inflexible rule about the effect of an offer to settle. Paragraph 147(3)(d) of the Rules merely permits the court to take it into account. I propose to do so.
+(j) The counter offer was flawed but it was not reprehensible. A concession made in the context of a settlement negotiation can not be treated as an admission.
+(k) As it happens, the appellants won. It is however an overstatement to say that there was a "manifest absence of merit" in the respondent's case. For example, there was the question whether the Gaucher v. The Queen, 2000 DTC 6778, decision applied to directors' liability assessments. I strongly believe that it does, but other judges do not and the notices of appeal that were filed originally did not raise the question of the validity of the underlying assessments against Resici.
+(l) As it turns out the payments should have been applied against the liability of 1212726 Ontario Ltd. (121) and 1328156 Ontario Ltd. (132). Nonetheless, the collections officer was not aware at the time that the assessments against Resici would be held to be wrong. Indeed the assessments against Resici had not been challenged. Moreover, it is by no means clear that the rule that a debtor can direct the indebtedness to which a payment should be applied applies to payments made by a third party pursuant to a garnishee. Perhaps it does. The matter was not argued. A failure however to divine the correct answer to this arcane legal question does not warrant an extraordinary award of costs.
+(m) Where assessments are not objected to, one can hardly fault the CRA for destroying the files in accordance with its customary procedure. Moreover, the appellants were not prejudiced by the failure to find the 121 and 132 assessments and the case was not decided on this point.
+[7] It will be obvious that I do not intend to award solicitor and client costs. Nonetheless, a case has been made out for increased costs.
+[8] The appellants' costs are $549,738.45. This includes $326,566 which in turn includes held costs of $189,654 (billable amounts not billed currently but held pending a successful result) and $107,000 (a premium for success contemplated by the contingency fee agreement).
+[9] Among the factors that I am taking into account in awarding increased costs are the following:
+(a) The difficulty, complexity and importance of the cases. The cases were extremely complex from both a legal and a factual point of view. Among the legal issues that were dealt with were
+(i) the conflicting decisions in Zaborniak v. The Queen, 2004 TCC 560, and Gaucher, supra;
+(ii) the concept of corporate agency;
+(iii) the difficult question of de factodirectors;
+(iv) the novel concepts proposed by the Minister of "joint assessments" and "deemed employer".
+Moreover, the facts relating to the activities of Jack and Sandro were complex, as well as the commercial practice of incorporating separate employer companies.
+(b) The amount of money involved was substantial - over $2,000,000.
+(c) This was not one appellant dealing with one case. There were two appellants with two appeals each, in which there were multiple issues.
+(d) Following the withdrawal of the appellants' first counsel and the hotly contested amendment to the notices of appeal, extensive discoveries were required. Given the apparent reluctance of the Crown to produce anything more than it was strictly required to, I made an order for full disclosure under section 82 of the Rules. This yielded a veritable bonanza of material that was helpful to the appellants' case. Without this material the appellants would have been at a severe disadvantage. However, it required a great deal of time to review the newly produced documentation.
+(e) A jeopardy order was made against Mr. Scavuzzo based upon an affidavit that failed to disclose that he had resigned as a director. Jack's disability payments as well as a boat and other securities were seized and so far as I know the government has failed to disgorge this property. There can be no excuse for putting this elderly sick man through hell. I cannot express too strongly my disapproval of the government's behaviour.
+(f) An offer of settlement was made by which the appeals would be allowed, the assessments vacated and the appellants would receive partial reimbursement of their costs. This offer should have been accepted. The counter offer involved the government's hanging on to what they had seized but not pursuing any further collection action. Whatever may be the government's right to propose arbitrary resolutions of disputes the counter proposal had no factual or legal justification whatever.
+(g) If we total all of the fees (both billed costs and held costs) incurred after the June 30, 2005 bill (approximately when the offer of settlement was made), it comes to about $191,600. This does not include the $107,000 premium. If we add the premium it comes to about $300,000.
+[10] Taking all of these considerations into account, I am fixing the costs of the appellants at $275,000. This is a partial reimbursement of their expenses. It is based in part on the amounts involved, the complexity, difficulty and importance of the cases, the costs incurred from the time of making the offer of settlement, the extraordinary behaviour in obtaining the jeopardy order as well as the other factors I have outlined above. It is roughly 50% of the total amount billed. I am aware that some relief is available under paragraph 60(o) of the I.T.A. at least to the extent that the appeals relate to that Act.
+Signed at Ottawa, Canada, this 14th day of February 2006.
+"D.G.H. Bowman"
+Bowman, C.J.
+CITATION:
+2006TCC90
+COURT FILES NOS.:
+2001-4533(IT)G & 2001-4534(GST)G
+2001-4535(IT)G & 2001-4536(GST)G
+STYLE OF CAUSE:
+Sandro (Alex) Scavuzzo
+& Jack Scavuzzo v. Her Majesty the Queen
+PLACE OF HEARING:
+Toronto, Ontario
+DATES OF HEARING:
+April 27 and 28, 2004; November 22, 2004; July 11 to 13, 2005; August 3, 4, 5, 10, 11 and 12, 2005 and on January 30, 2006
+REASONS FOR ORDER WITH RESPECT TO COSTS:
+The Honourable D.G.H. Bowman
+Chief Justice
+DATE OF REASONS FOR ORDER:
+February 14, 2006
+APPEARANCES:
+Counsel for the Appellant:
+Stevan Novoselac
+Counsel for the Respondent:
+Marie-Thérèse Boris
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Stevan Novoselac
+Firm:
+Cassels, Brock & Blackwell
+Barristers & Solicitors
+Scotia Plaza
+40 King Street West
+Suite 2100
+Toronto, Ontario M5H 3C2
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

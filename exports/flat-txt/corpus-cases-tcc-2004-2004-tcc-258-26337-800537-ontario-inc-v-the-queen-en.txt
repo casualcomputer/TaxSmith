@@ -1,0 +1,331 @@
+Title: 800537 Ontario Inc. v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26337/index.do
+Corpus path: corpus/cases/tcc/2004/2004-tcc-258-26337-800537-ontario-inc-v-the-queen-en.md
+Document type: case_law
+Last modified: 2004-06-21
+
+# 800537 Ontario Inc. v. The Queen
+
+- Citation: 2004 TCC 258
+- Decision date: 2004-06-21
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3284, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+800537 Ontario Inc. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-06-21
+Neutral citation
+2004 TCC 258
+File numbers
+2001-3385(GST)G
+Judges and Taxing Officers
+Donald G.H. Bowman
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2001-3385(GST)G
+BETWEEN:
+800537 ONTARIO INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on November 3 to 7, 2003, on January 12 to 16, 2004 and
+on April 1 and 2, 2004 at London, Ontario.
+Before: The Honourable Associate Chief Justice D.G.H. Bowman
+Appearances:
+Counsel for the Appellant:
+Paul G. Vogel
+Robyn L. Marttila
+Counsel for the Respondent:
+Peter M. Kremer, Q.C.
+Charles M. Camirand
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under Part IX of the Excise Tax Act, notice of which is dated February 17, 1999 and bears number 08PDM0106388 for the period January 1, 1995 to December 31, 1996, is dismissed with costs.
+Signed at Toronto, Ontario, this 21st day of June 2004.
+"D.G.H. Bowman"
+Bowman, A.C.J.
+Citation: 2004TCC258
+Date: 20040621
+Docket: 2001-3385(GST)G
+BETWEEN:
+800537 ONTARIO INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+BOWMAN, A.C.J.
+[1] This appeal is from an assessment made under the Goods and Service Tax provisions of the Excise Tax Act ("ETA") for the period January 1, 1995 to December 31, 1996.
+[2] The following outline of the facts is taken from a partial Agreed Statement of Facts ("ASF"). Apart from this statement, there are many facts that are in dispute.
+[3] The appellant carried on business as an automobile dealership in Cambridge, Ontario under the name of Acura West ("AW"). In 1995 and 1996 Mr. Gregory Leon was its president and general manager, and was as well a 50% shareholder. Acura West was registered for the Goods and Services Tax ("GST") in 1990 and was required to file GST returns monthly.
+[4] In 1995 and 1996, AW sold automobiles to two United States corporations, Auto Enterprises Inc. ("AE") in Clawson, Michigan and World Imports USA Inc. ("WI"). AW sold 108 (or 104) automobiles to AE. There is some dispute whether four vehicles were sold directly to AE by AW or whether they were sold through a chain of domestic corporations. I shall deal with these four transactions (the "Nordren" transactions) later in these reasons. AW sold 18 vehicles to WI.
+[5] WI is located in New York State. It imports cars from Canada for resale in the United States and Europe. Its president is Claus Lukner. The other person with whom Mr. Leon dealt at WI was Jake Sydorowicz.
+[6] AE is a car dealer that has imported cars from Canada for resale in the United States for 18 years. It is owned and operated by Bill Luther and Phil Trupiano, who were responsible for purchasing and administration, respectively.
+[7] Mr. Leon met Mr. Lukner and Mr. Sydorowicz of WI at a car auction in Toronto in 1994 where they expressed an interest in purchasing cars from AW, particularly sports utility vehicles that were in high demand in the United States. Mr. Sydorowicz introduced Mr. Leon to AE and suggested that AE would be able to purchase a greater volume of vehicles from AW than WI.
+[8] The vehicles that were sold to the American purchasers were in short supply in the United States whereas they were more readily available in Canada. Moreover the prices were better in Canada. Canadian car manufacturers imposed restrictions on their dealers preventing them from selling to the United States. Therefore the sales were made through dealers such as AW to circumvent the restrictions.
+[9] Mr. Leon negotiated the sale price of the vehicles by telephone and fax. Once a price was agreed upon he would purchase the vehicle.
+[10] Paragraphs 15, 16, 17 and 18 of the ASF read: (footnotes omitted)
+15. Once the sale price was agreed upon, Mr. Leon manually completed two Acura West pre-printed three-copy sales forms. On one sales form, he recorded the words "USA EXPORT" in the box labelled GST on subtotal (hereafter the "USA EXPORT form"). On the other sales form, Mr. Leon recorded an amount in the box labelled GST on subtotal (hereafter the "GST form"). For example, the two forms prepared for a 1997 Ford F-350 Crew 4X4 bearing vehicle identification number 1FTJW36F7VEA18067 and attached as Appendix "A" hereto show the following details:
+USA EXPORT GST Form
+Form
+Total Sale Price $40,862.50 $38,185.00
+Administration fee $ 65.00 $65.00
+Net Difference $40,927.50 $38,250.00
+GST on Sub-Total USA EXPORT $2,677.50
+__________________________
+Balance Due $40,927.50 $40,927.50
+Final Balance Due $40,927.50 $40,927.50
+16. In addition to amounts related to the sale price, Mr. Leon recorded the same basic information on each of the two forms:
+a) name, address, telephone number and GST # of the dealer (pre-printed);
+b) name and address of the purchaser in the United States;
+c) year, make, model name, serial number, colour, and in some cases the distance travelled of the car.
+17. In the Vendor's Acceptance Box on the USA EXPORT form:
+a) Mr. Leon signed and dated as a representative of Acura West; and,
+b) Acura West's dealer and sales registration number were recorded.
+18. On the GST form, Mr. Leon stamped "Acura West, 759 Wonderland Road North" in the Vendor's Acceptance Box.
+Appendix A to the ASF reproduces as an example two invoices, one with GST and one without. They are as follows:
+[11] It is common ground that the export of vehicles from Canada to the United States purchasers is a zero-rated supply. The Canadian exporter has no obligation to collect GST from the foreign purchasers. If it does in fact collect GST from the purchasers they are entitled to apply for a refund. For reasons that I shall develop more fully below, it is in my view equally clear that a Canadian vendor who makes a zero-rated supply to a foreign purchaser but who nonetheless collects GST from that purchaser has an obligation to remit the amount of GST collected to the Government of Canada.
+[12] The narrow issue is whether the contract of sale is represented by the USA Export form, as alleged by the appellant, or the GST form, as alleged by the Minister. The controversy will be apparent from the difference in the statements made by AW and the American purchasers, as set out in paragraphs 19 to 23 of the ASF.
+19. Mr. Leon advised CCRA that he prepared the GST form at the request of the American purchasers to facilitate importation of the vehicles and avoid delays at the Canada-USA border, and that the vehicles could be impounded by US Customs for up to 90 days without proper documentation evidencing the amount of GST otherwise payable. In fact, the GST form was not needed for customs clearance purposes. (See paragraphs 25 to 30)
+20. Mr. Leon faxed a copy of the GST form to the American purchasers. Mr. Leon advised CCRA that he forwarded the yellow copies of the USA EXPORT form and the white copy of the GST form to World Imports and Auto Enterprises together with the proof of ownership, warranty, instruction manuals and keys in the cars when they were shipped. The white top copy and pink copy of the USA EXPORT form were placed with Acura West's business records. The yellow and pink copies of the GST form were kept in Mr. Leon's office.
+21. The American purchasers advised CCRA that:
+a) they were not aware of and did not receive the yellow copies of the USA EXPORT form from Acura West;
+b) the only form they received was the GST form; and,
+c) they never requested from Greg Leon or Acura West any form for customs clearance purposes as described above.
+22. The USA EXPORT forms became part of the sales files in Acura West's business records. Acura West's sales records indicated that no GST was collected on the sales to the American purchasers. Using the sales records, an employee of Acura West prepared and filed GST returns for the relevant periods. Acura West did not report nor remit any amounts as or on account of GST in respect of the sales to the American purchasers.
+23. Acura West calculated its revenues for income tax reporting purposes based on the sale price recorded in the USA EXPORT form.
+[13] WI and AE paid for the vehicles by bank draft and wire transfer respectively. AW did not release the vehicles to the purchasers until it received payment. The purchasers paid the cost of transporting the vehicles to the United States. Most vehicles sold to WI were delivered to a lot in Ontario by AW for pick up by a common carrier. Some were picked up at the business premises of AW. AE hired Pinder Transport, a common carrier, to haul the vehicles to the United States.
+[14] AW's position is that the GST form was prepared at the request of the purchasers to facilitate moving the vehicles across the border to the United States but that it did not represent the contract of sale between the parties. Rather, the position of AW is that the true contract of sale was evidenced by the USA Export form.
+[15] As stated above in paragraph 21 of the ASF, the American purchasers said that they never received the USA Export form and that the only form they received was the GST form (which Mr. Leon called a "border pass").
+[16] Paragraphs 25 to 34 of the ASF read as follows:
+25. Cars are not a controlled commodity when exported from Canada and no documentation is required and no checks are made by Canada Customs when cars are exported from Canada.
+26. Pinder Transport did not use or require any forms prepared by Acura West documenting the transactions with the American purchasers at any time during the shipment of the cars. Acura West released the vehicles to Pinder Transport at Acura West's dealership in London, Ontario for delivery to the purchaser, Auto Enterprises, at its business in Clawson, Michigan. At the time the vehicles were picked up, Pinder Transport provided Acura West with copies of transportation invoices listing each car by its vehicle identification number and showing the destination of the shipment as Auto Enterprises in Clawson, Michigan. The drivers for Pinder Transport completed an inward freight manifest, but otherwise received all the necessary US Customs documentation to facilitate importation of the cars into the United States from Auto Enterprises' customs broker.
+27. All of the cars were exported to the United States without modification or alteration, forthwith following pick-up by or release to the individual drivers, the attendant at the Toronto Auto Auction or Pinder Transport. Acura West had no involvement with the cars after they were picked up or released.
+28. Auto Enterprises used a customs broker to facilitate importation of the cars into the United States. The bookkeeper of Auto Enterprises used the information in the "Net Difference" box of the faxed copies of the GST forms to prepare pro forma invoices and DOT bonds, which were then forwarded to the customs broker when the cars were being shipped. The customs broker used this information to prepare the necessary US Customs declarations.
+29. The US Customs declaration requires a statement of the value of the goods being imported before tax together with a pro forma invoice verifying the declared value. US Customs is not interested in whether or not GST has been charged or collected in a sale by a Canadian vendor to a US purchaser.
+30. Other federal and state documentation concerning the importation of cars into the US was also prepared and submitted to US Customs by or on behalf of the American purchasers.
+GST Rebate Applications
+31. World Imports and Auto Enterprises on a monthly basis prepared and submitted General Applications for Rebates of Goods and Services Tax. The Applications included the cars purchased from Acura West between January 1995 and December 1996 and attached the white copy of the GST forms received from Acura West. CCRA issued rebates to the American purchasers for these amounts.
+32. World Imports and Auto Enterprises also purchased cars from other Canadian automobile dealers and received invoices from them recording GST. They submitted rebate applications for the GST recorded on these invoices. The preference of World Imports and Auto Enterprises was to purchase cars from Canadian automobile dealers on a GST-free basis.
+33. The American purchasers did not request nor receive from Acura West any refund or credit in respect of any of the amounts recorded in the box labeled GST on subtotal.
+34. In support of its December 1996 rebate claim, Auto Enterprises provided to CCRA a purchase invoice from another Canadian vendor (Nordren) with respect to four cars which Acura West's records indicate that it sold to Auto Enterprises. Acura West deposited a cheque from All Star Auto in respect of the sale of these four cars.
+[17] Attached to the ASF is a profit calculation for AW and AE.
+[18] The profit calculations are based upon two conflicting hypotheses. The first is that the price on the invoice is without GST, the second is that it is with GST or, to put it differently, the first is that the USA Export form governs, and the second is that the GST form governs.
+[19] If we use the example in the form reproduced above, if the USA Export form governs, the price (including the administration fee of $65.00) is $40,927.50. This amount would enter into AW's income and form part of the calculation of its profit. It would also form part of the purchaser's cost. If the GST form governs, only $38,250.00 would enter into AW's income and would form part of the purchaser's cost.
+[20] It is self-evident that the higher price on the USA Export form would increase AW's profit and reduce AE's profit, whereas the lower price on the GST form would reduce AW's profit and increase AE's profit. The differences are fairly dramatic as is obvious from an examination of Appendix B to the ASF. Exhibits A-4 and A-5 contain essentially the same information but with additional information. Although the parties agree substantially on the profit calculations they differ on two points:
+(a) AW's profit is calculated using a $150 "lot park" fee which is a flat amount charged against every vehicle to cover incidental costs (such for example as repairing a dent or scratch to the vehicle). CCRA does not admit that this is a cost. I do not propose to decide this minor issue in this case in the absence of further evidence and argument. Presumably if the $150 flat fee were disallowed the actual incidental costs would be deductible and the overall impact on AW's bottom line might be minimal.
+(b) CCRA takes the position that AE's expenses should be increased by expenses for transportation, speedometer replacement (from kilometres to miles), brokerage and custom fees, file fees and warranty insurance. CCRA may have a point, but I am not in a position to decide the issue in the absence of further evidence.
+[21] These differences do not alter the broad picture that the calculations are intended to convey. In general, if the USA Export form is used AW's profit per vehicle run from about CDN$1,500.00 to $3,000.00 or $4,000.00 and AE's profits run from a few hundred to upwards of US$1,500.00 with losses on 39 vehicles. AW's average profit for 1995 and 1996 using the USA Export form is CDN$2,882.00 and AE's average profit is US$310.00.
+[22] If the GST form is used, AW's average profit for 1995 and 1996 is CDN$684.00 and AE's is US$1,918.00. The average percentage profit for 1995 and 1996 if the USA Export form is used is 8.92% for AW and .89% for AE. If the GST form is used AW's average percentage profit is 2.54% and AE's is 8.94%.
+[23] What does all this prove? It proves that if the sales price from AW to AE is 7% higher, AW's profit is higher and AE's profit is correspondingly lower. If the price is 7% lower but GST is charged, AW must hand the GST over to the government and AE can claim a refund of it. The effect on their respective profits is obvious. One countervailing effect of the higher profits earned by AW as the result of treating the USA Export form as representing the true contract is that a higher amount is subjected to income tax. This point is of course irrelevant and in any event had little immediate impact on AW since it had loss carry-forwards in 1995 and 1996.
+[24] The conclusion that the appellant asks me to draw from the comparison of the profits under the two hypotheses is that AW would not have engaged in the enterprise of exporting vehicles to the United States for what the appellant sees as the relatively meagre profits produced by the respondent's position under which about 7% of the bottom-line amount charged is remitted to the government. I do not think that this consideration can weigh very heavily in the determination that must be made here. What the contract is between a vendor and a purchaser is something that requires a consensus between both parties. I could as readily have concluded that AE or WI would not have engaged in an enterprise that produced the rather small profit margin set out above that would result from the appellant's position. Indeed if I compare AW's and AE's profits using the two hypotheses, as set out in Appendix B to the ASF and Exhibits A-4 and A-5, I think that the profit calculation for both parties is more commercially realistic if we use the GST form hypothesis than if we use the USA Export form hypothesis. I say this for two reasons. The return to AE using the USA Export form hypothesis (.89%) is unrealistically low. It is clear from the evidence of Mr. Luther and Mr. Trupiano that AE was aiming at a profit of $1,000 to $2,000 per vehicle and would not have paid the price on the US export form.
+[25] Mr. Paul Antony was called by the respondent. He carried on the business of purchasing automobiles and exporting them to the United States. He testified that his profit was no less than $300 to $400 per vehicle but on average it was $750 to $800 per vehicle. This is in line with AW's profit using the GST form hypothesis. The $1,500 to $3,000 profit per vehicle which Mr. Leon said he was aiming for was, according to Mr. Antony, simply not available. In other words, the profits to AW using the GST form hypothesis were within the industry norm for this type of business.
+[26] I should mention briefly the evidence of the experts. The appellant called three experts: Mr. Michael Fenberg, Mr. James Hoare and Mr. Dennis DesRosiers. Mr. Fenberg testified on the profitability of the transactions for both the vendors and the purchasers.
+[27] Mr. Hoare is a chartered accountant and a principal in a forensic accounting firm in London, Ontario. In his testimony, he compared the gross profit of AW and AE on the two hypotheses of sales with and without GST based on Mr. Fenberg's analysis. In addition, he commented on the income tax implications to AW of selling the automobiles to purchasers in the United States with and without GST. Mr. DesRosiers described himself as an automotive analyst. His expertise lay more in the field of economics than accounting. His testimony had to do with the economic position of AW in the cross-border trade in automobiles.
+[28] He expressed the view that AW was in a strong negotiating position in relation to the American purchasers and could command the sort of mark-up and profit margin at which Mr. Leon said he was aiming. This conclusion is not supported by the evidence of the American purchasers or of Mr. Antony. Essentially, Mr. DesRosiers's evidence was intended to support the reasonableness of the conclusions expressed by the expert accounting witnesses which, in turn, was intended to support Mr. Leon's assertion that the real contract between AW and the American purchasers was without GST because only that would achieve the profits that he expected to achieve.
+[29] I do not question the expertise or experience of these witnesses although I think it is unrealistic to believe that the American purchasers would agree to a deal that would shift the profit so dramatically in favour of the Canadian vendors. That aside, I find this type of evidence of marginal relevance, at best. It is intended to support the plausibility of the assertion of the appellant of commercial goals which, in turn, was intended to bolster the position that the GST free hypothesis was more likely. Evidence of this sort does very little to tip the scales in either direction.
+[30] Before dealing with other questions of evidence there are a couple of matters that should be dealt with at this point. It is clear that the appellant provided the American purchasers with the GST form which indicated a lower sales price but one to which GST was added to bring it up to the same figure as that shown as the purchase price on the USA Export form. The purchasers used the GST forms to claim a rebate from the Government of Canada of the amounts shown as GST on the invoices and, obviously, the Government of Canada relied upon them in paying the rebates. It strikes me that this would have formed a strong case for a plea of estoppel: a statement of fact made by one person upon which another person has relied and acted upon to his or her detriment. The traditional definitions of estoppel by conduct are too well-known to bear repetition. Equally well established, however, is the principle that estoppels must be specifically pleaded. (See Odgers: On High Court Pleading and Practice, Twenty-Third Edition, 229). No allegation of estoppel was pleaded or mentioned in argument and so I shall not mention the point further.
+[31] The parties have agreed that the following are the issues to be determined:
+a) In determining its net tax under section 225 of the ETA, did Acura West fail to include amounts collected as or on account of GST in respect of its car sales to World Imports and Auto Enterprises? This question will be decided by determining if Acura West charged its American purchasers an amount as or on account of GST as part of the total sale price for the cars sold to them during 1995 and 1996. Otherwise, the parties agree that the transactions in issue are zero-rated or not taxable.
+b) If the Court determines that the answer is in the affirmative, was Acura West obliged to remit the amounts even if the supplies were zero-rated? The parties agree that the amounts were not reported or remitted to the Minister as required by sections 225 and 228 of the ETA.
+c) If the Court answers either question in the negative, the parties agree that the appeal should be allowed.
+d) Was the imposition of penalties and interest under section 280 ETA and penalties under section 285 ETA justified in the circumstances?
+[32] The appellant's position on the first point is that since it is acknowledged that the supplies in issue were zero-rated, regardless of whether the agreements between AW and the American purchasers did or did not include GST, there was no "tax payable" to be included in AW's net tax under section 225 of the ETA. Therefore, the Minister had no power to assess under section 296. Counsel for the appellant made the same argument at the opening of trial. I declined to deal with the matter at so early a stage but informed counsel that he was free to argue the point when the evidence was in.
+[33] Subsection 225(1), in English and French reads:
+225.(1) Net tax - Subject to this Subdivision, the net tax for a particular reporting period of a person is the positive or negative amount determined by the formula
+A - B
+where
+A is the total of
+(a) all amounts that became collectible and all other amounts collected by the person in the particular reporting period as or on account of tax under Division II, and
+(b) all amounts that are required under this Part to be added in determining the net tax of the person for the particular reporting period; and
+B is the total of
+(a) all amounts each of which is an input tax credit for the particular reporting period or a preceding reporting period of the person claimed by the person in the return under this Division filed by the person for the particular reporting period, and
+(b) all amounts each of which is an amount that may be deducted by the person under this Part in determining the net tax of the person for the particular reporting period and that is claimed by the person in the return under this Division filed by the person for the particular reporting period.
+225.(1) Taxe nette - Sous réserve des autres dispositions de la présente sous-section, la taxe nette pour une période de déclaration donnée d'une personne correspond au montant, positif ou négatif, obtenu par la formule suivante :
+A - B
+où :
+A représente le total des montants suivants :
+a) les montants devenus percevables et les autres montants perçus par la personne au cours de la période donnée au titre de la taxe prévue à la section II;
+b) les montants à ajouter aux termes de la présente partie dans le calcul de la taxe nette de la personne pour la période donnée;
+B le total des montants suivants :
+a) l'ensemble des montants dont chacun représente un crédit de taxe sur les intrants pour la période donnée ou une période de déclaration antérieure de la personne, que celle-ci a demandé dans la déclaration produite en application de la présente section pour la période donnée;
+b) l'ensemble des montants dont chacun représente un montant que la personne peut déduire en application de la présente partie dans le calcul de sa taxe nette pour la période donnée et qu'elle a indiqué dans la déclaration produite en application de la présente section pour cette période.
+Subsection 296(1), in English and French reads:
+296.(1) Assessments - The Minister may assess
+(a) the net tax of a person under Division V for a reporting period of the person,
+(b) any tax payable by a person under Division II, IV or IV.1,
+(c) any penalty or interest payable by a person under this Part,
+(d) any amount payable by a person under any of paragraphs 228(2.1)(b) and (2.3)(d) and section 230.1, and
+(e) any amount which a person is liable to pay or remit under subsection 177(1.1) or Subdivision a or b.1 of Division VII,
+and may reassess or make an additional assessment of tax, net tax, penalty, interest or an amount referred to in paragraph (d) or (e).
+296.(1) Cotisation - Le ministre peut établir une cotisation, une nouvelle cotisation ou une cotisation supplémentaire pour déterminer :
+a) la taxe nette d'une personne, prévue à la section V, pour une période de déclaration;
+b) la taxe payable par une personne en application des sections II, IV ou IV.1;
+c) les pénalités et intérêts payables par une personne en application de la présente partie;
+d) un montant payable par une personne en application des alinéas 228(2.1)b) ou (2.3)d) ou de l'article 230.1;
+e) un montant qu'une personne est tenue de payer ou de verser en vertu du paragraphe 177(1.1) ou des sous-sections a ou b.1 de la section VII.
+[34] Counsel developed the argument as follows. Subsection 165(1) imposes an obligation on a recipient of taxable supplies made in Canada to pay tax. Subsection 165(3) sets the tax on zero-rated supplies at 0%. Under subsection 221(1) a person who makes a taxable supply is obliged to collect the tax payable by the recipient. The definition of "tax" in subsection 123(1) is the "tax payable" under Part IX of the ETA. Under section 296, (set out above) the Minister may assess only the "tax payable". Amounts other than assessed "tax payable" may be the subject of an action by the Minister in the Federal Court.
+[35] Counsel further argues that since the obligation to pay and collect tax is limited to "tax payable" if no tax is payable, because the supply is zero-rated, there is no obligation to collect or remit tax.
+[36] Counsel relies upon a number of cases in this court in support of his position. In Ladas v. Canada, [2000] T.C.J. No. 499 (T.C.C.), it was held that there is no obligation to charge GST on zero-rated goods. I agree. Pro-Ex Trading Co. v. Canada, [2001], T.C.J. No. 598 (T.C.C.), holds that if there is no GST payable there is no obligation to remit even if the parties record payment of GST. That case did not, however, involve the supply of anything, taxable or not taxable. It involved the provision of security for loans.
+[37] In 2955-4201 Québec Inc. v. Canada, [2002], G.S.T.C. 39, (T.C.C.), all of the assets of an auto dealership were sold and an election under subsection 167(1) was filed so that no GST was payable. The price erroneously included an amount of GST paid by the vendor. The purchaser then claimed an ITC for that amount, or a rebate. No GST was payable or paid to the government. The court held that the purchaser could not look to the Minister for the amount paid to the vendor in error.
+[38] I do not think that that case or the other cases referred to by counsel for the appellant bear directly on the question here. Here, at least on one of the two conflicting theories about the invoices, AW was charging GST on the sale of automobiles to the American purchasers, who have claimed and received rebates based on the GST forms. The Minister has now assessed to recover the GST shown on those invoices which he paid to the purchasers. None of the cases involved this particular fact situation. If I conclude on the evidence that the "real" transaction between AW and the American purchasers was reflected in the GST form (the "border pass") it would follow that an amount was collected "as or on account of tax" and that amount must enter into the computation of net tax in the formula A - B and the amount arrived at with that formula is the amount that the Minister is entitled to assess under section 296.
+[39] Counsel for the appellant contends that since "tax" means "tax payable" and no tax is payable on zero-rated supplies, any amount collected, whatever it may be called by one or both parties, cannot be as or on account of tax. With respect, I think that this interpretation is unduly technical and leads to an unrealistic result. In the course of argument I put to counsel a couple of hypothetical fact situations to determine where that position might lead. Suppose a supplier mistakenly charges a purchaser for GST on a zero-rated supply, is the supplier entitled to keep the additional 7%? Is the purchaser entitled to apply for and receive a rebate under section 261 or is the purchaser left to pursue his remedies against the vendor? If the Minister gives a rebate to the purchaser of the tax collected, may the Minister assess the supplier to recover the amount collected in error or must he sue in the Federal Court as the appellant suggests? The second hypothetical question that I put to counsel was where a supplier mistakenly charges 9% for GST rather than 7%. Is the supplier entitled to keep the additional 2%? Is the Minister's only means to recover the amount an action in the Federal Court?
+[39] These questions answer themselves. VAT systems similar to Canada's GST regime are in place all over the world. Obviously, no system is perfect but ours seems to work reasonably well. It is inconceivable that where something as commonplace as the collection of too much tax by a supplier occurs there is no relatively simple remedy within the system. The short answer is that if the supplier calls an amount that is collected tax, the Minister is entitled to treat it as tax for the purposes of assessing net tax. Even if there were any doubt on this point - and I do not think there is - I would be guided by the words of Cameron J. in Trans-Canada Investment Corporation Ltd. v. M.N.R., [1953] Ex.C.R. 292 (aff'd 1956 S.C.R. 49) where he said at p. 299:
+I agree that it is possible to interpret the language of the section as requiring that the dividend must have been received directly from the paying corporation. But in my view, there is another interpretation that may be put upon it, an interpretation which I think is more consonant with the intention of Parliament as I deem it to be from the language itself.
+In Caledonian Railway v. North British Railway, (1881) 6 A.C. 114, Lord Selborne said at p. 122:
+The more literal construction of a statute ought not to prevail if it is opposed to the intentions of the Legislature as apparent by the statute, and if the words are sufficiently flexible to admit of some other construction by which the intention can be better effectuated.
+Again, in Shannon Realties v. St. Michel, [1924] A.C. 192, it was stated that if the words used are ambiguous, the Court should choose an interpretation which will be consistent with the smooth working of the system which the statute purports to be regulating.
+[40] Similarly, Cartwright J. (as he then was) in Highway Sawmills Limited v. M.N.R., [1966] S.C.R. 284 at 293, said:
+The answer to the question what tax is payable in any given circumstances depends, of course, upon the words of the legislation imposing it. Where the meaning of those words is difficult to ascertain it may be of assistance to consider which of two constructions contended for brings about a result which conforms to the apparent scheme of the legislation.
+[41] In my view if the GST form or "border pass" represents the true legal relationship between the parties, the Minister has the power under section 296 to assess the appellant for net tax taking into account the amounts shown on that document as GST even though the transaction was not taxable. This view is consistent with that expressed in Gastown Actors' Studio Ltd. v. R., [2000] G.S.T.C. 108. It is also consistent with the plain meaning of the words "as or on account of tax under Division II" (au titre de la taxe prévue à la section II). It is consistent as well with common sense, with the obvious intention of Parliament and with the smooth working of the system. The position that when a supplier collects too much GST it can keep it and can be forced to hand it over only if the Minister obtains judgment in the Federal Court, when we have a perfectly workable and efficient assessment régime within the ETA itself, appears to me, with respect, to place an artificial and unnecessary restriction on the system.
+[42] The second preliminary point relates to litigation in the states of Michigan and New York. It appears that following the issuance of the assessments involved here, AW sued AE in Michigan and WI in New York. A Michigan jury granted judgment in the US$317,366 in favour of AW against AE. This amount was the tax, interest and penalties assessed against AW by the CCRA.
+[43] Also, with respect to the 18 vehicles sold by AW to WI, a similar action was brought by AW against WI and a settlement was reached whereby WI was to pay AW US$37,500, an amount which included the GST, penalties and interest assessed against AW.
+[44] Counsel for the appellant argues that these judgments constitute a binding determination as between AW and AE or AW and WI that the contract between them did not include GST and that the Tax Court of Canada should give effect to those determinations. The contention is that since it has been determined in a forum that is appropriate to make binding determinations as between the parties, the tax consequences as determined in this court should be consistent with the judgments in the courts of Michigan and New York.
+[45] This raises an interesting question. AW's lawsuits against AE and WI were premised on the position that its damages were the GST, interest and penalties that it had to pay under the assessments. If it has recovered from the American purchasers as damages the full amount it had to pay under the assessments, why is it pursuing its appeal in this court? If, on the other hand, it is successful in this court and the assessments are vacated, has the very basis of its actions against the American purchasers not disappeared? Just what success in this court might do to its United States litigation is something upon which I need not speculate, nor am I required to resolve the seemingly contradictory positions.
+[46] I do not propose to treat the judgments in Michigan and New York as determining anything that is of assistance in this case. After the case in this court closed, counsel for the appellant very properly advised the court that by a court order dated May 21, 2004, United States District Judge Patrick J. Duggan of the United States District Court, Eastern District of Michigan, Southern Division, granted AE's motion for a new trial. That order may be subject to further review. Even if it were relevant, I cannot look to the Michigan jury verdict as a final and binding determination of the rights of the parties.
+[47] The New York judgment is equally unhelpful. It is a settlement. Litigants settle cases for a variety of reasons, usually to avoid the expense and uncertainty of litigation. Settlements of this sort do not represent a determination of legal rights as between the litigants.
+[48] I could write considerably more on this point but it would serve no purpose. The effect of a foreign jury verdict on a question that this court has to decide is a matter best left to another day. It is sufficient to say that I do not find the United States judgments of any assistance to me in deciding this case.
+[49] I turn then to the next question. The parties have set it out in their ASF as follows:
+a) In determining its Net Tax under section 225 of the ETA, did Acura West fail to include amounts collected as or on account of GST in respect of its car sales to World Imports and Auto Enterprises? This question will be decided by determining if Acura West charged its American purchasers an amount as or on account of GST as part of the total sale price for the cars sold to them during 1995 and 1996. Otherwise, the parties agree that the transactions in issue are zero-rated or not taxable.15
+15 CCRA is not prepared to admit this with respect to the four "Nordren" cars (VIN#s 18072-18075) or VIN # 43191 which Acura West sold to Oxford Dodge in London, Ontario. Acura West acknowledges thru a bookkeeping error at Acura West VIN #43191 sold to Oxford Dodge was a taxable supply.)
+[50] Put slightly differently, which invoice represents the real transaction between the parties: the GST form or the USA Export form? The former calculates GST on a lower amount, whereas the latter shows no GST. The total amount payable is the same on both.
+[51] We can start from one solid and irrefutable fact: AW provided AE and WI with the GST forms. Mr. Leon testified that he provided the GST form (the "border pass") to the purchasers solely to facilitate crossing the border and avoid lengthy delays. It is admitted that the GST forms were not used and were not needed in crossing the border. This admission is supported by the evidence of the drivers for Pinder Transport who transported the vehicles to the United States.
+[52] There are, therefore, two hypotheses: The first is that Mr. Leon provided the purchasers with only the GST forms, both by fax and the original white copies by courier. AE acknowledges this although neither Mr. Luther nor Mr. Trupiano saw the original white copy of the GST form. The yellow and pink copies of the GST form were kept by Mr. Leon.
+[53] The second hypothesis is that in addition to the faxed and original white copies of the GST forms, Mr. Leon also sent the purchasers the yellow copies of the USA Export forms in the vehicle, along with the keys, ownership and manual and other documents.
+[54] Mr. Leon testified that he sent the USA Export forms in the vehicles with the ownership as well as the white copy of the GST form. This is denied by the witnesses from AE and WI. On balance, I think the preponderance of the evidence establishes that the ownership and the original white copies of the GST forms were sent by courier to the purchasers. I do not think that it has been established that the USA Export forms were ever provided to the purchasers.
+[55] On the documents in Mr. Leon's possession were "negotiation notes" referring to AW's profit margin of 7%. Some of them purport to be addressed to "Bill" (presumably Bill Luther of AE). The wording of these notes seems artificial and contrived. Samples are collected in paragraph 30 of the appellant's written argument, as follows:
+Exhibit A-3
+Joint Book of
+Documents
+VIN
+#
+Page
+#
+Notation
+Volume IV
+43560
+81
+"35663.00 + 7% profit"
+46038
+152
+"our base cost as agreed plus my 7 pts
+mark-up - no GST per export agreement"
+47075
+179
+"send to Bill with our 7% margin as agreed profit"
+88448
+228
+"Bill 22,200 to you as cost - give me my 7 pts profit and we're ok"
+88452
+278
+"Bill we need $500 over margin plus 7% to do business"
+Volume V
+93834
+8
+"Bill, $1000 on top for cost base then I need our 7% profit on top"
+09571
+85
+"Bill how's 42500 cost to you plus my 7 pts profit"
+10404
+110
+"Take cost base @ 2700 over plus 7 pts profit margin as agreed"
+30593
+155
+"Bill, make cost on my end 38300 to you - plus our mark up as agreed (7%)
+Volume VI
+18074
+82
+"Add to our cost 37800 to you our usual 7 pts profit unless you feel generous today?"
+[56] If the existing deal was 7% over some figure such as cost, margin, or "base cost", why keep repeating the figures? I find these notes self-serving. There is nothing on them to indicate they were faxed to AE, the usual method of communicating a negotiation of price. No response is evident on any documents. Mr. Luther and Mr. Trupiano deny receiving these notes. Even where the negotiating notes appear in a document in AW's file and the same document is in AE's file, the notes are not on AE's copy.
+[57] An appellant who takes on the task of establishing that a document that it has itself prepared with the intention that it be acted upon by the customs officials is false has a very heavy burden. It was never made clear whether it was the US or Canadian customs officers whom it was intended to induce to believe that GST had been paid. As it happens, the customs officials were not misled because they did not see the documents. If the GST forms or border passes were false, the only people misled were the officials of CCRA who paid the rebates to the US purchasers. It is, I might say, a little dangerous to set up two contradictory sets of documents and allege that one is false and is to be used only to show to one group of government officials. It can hardly come as a surprise if the persons to whom the documents are given use them for a different purpose and show them to a different group of government officials, the CCRA, to obtain a rebate.
+[58] I found the evidence of Mr. Luther and Mr. Trupiano credible. They testified that they did not receive the invoices showing no GST payable. Moreover, as stated above, the respective profits of AW and AE appear to me to be more realistic if the contract between the parties was that the purchasers were paying GST (for which they could claim a rebate). I do not think they would have entered into these transactions with AW on the basis that the full price was that set out in the USA Export forms which Mr. Leon gave to AW's accounting department.
+[59] On the question whether an American purchaser would pay GST or not, I found Mr. Antony's evidence instructive. He said:
+Q. Now, when you sold cars to US wholesalers, did you sell GST in or zero rated?
+A. We did both ways.
+Q. And what would cause you to pick one as opposed to the other?
+A. If somebody wanted to pay us GST, we would reduce the price or our margin, reduce our margin on the car because you're not financing a GST refund. By that I mean that your GST comes back to you once every month or once every quarter, depending upon how you file or I guess yearly. And if you're filing monthly even and you're exporting volumes of cars, your refund can be at times a million dollars a month. So the more people paying you your GST, the more dollars you have to spin to buy more cars. So, therefore, if we charge GST on the car and we're paid GST, we would take less of a margin. If we're financing the GST refund for ourselves, we would charge accordingly.
+JUSTICE BOWMAN: I'm going to ask you to run that by me again because it's important enough I want to make sure I got my notes straight on it. You're talking about exports, are you?
+THE WITNESS: Yes.
+JUSTICE BOWMAN: And if somebody from the United States-
+THE WITNESS: Yes.
+JUSTICE BOWMAN: -- wanted to pay you GST.
+THE WITNESS: Yes.
+JUSTICE BOWMAN: You would charge them GST.
+THE WITNESS: Mm-hmm.
+JUSTICE BOWMAN: And you would then reduce your margin, by which you mean reduce your price prior to GST, right?
+THE WITNESS: Reduce the price, yes, reduce our profit.
+JUSTICE BOWMAN: Now, if, on the other hand, they didn't want to pay GST, then the price would be a little higher, would it?
+THE WITNESS: Yes.
+[60] I have concluded that the invoices showing that GST was charged are prima facie evidence that the contract between the parties was that GST would be charged and that prima facie case has not been rebutted.
+[61] Had there been some evidence by way of letters, faxes, or e-mails that the parties had agreed that the GST form (or "border pass") was to be used for the limited purpose of getting the vehicles across the border, I might have conceivably have had to reconsider my conclusion. There is, however, none. The evidence all points in the opposite direction.
+[62] Let us consider for a moment the possibility that Mr. Leon in fact sent both the GST form and the USA Export form to the American purchasers. This is not a conclusion that, on the evidence, I am prepared to accept, but if I did, I would still have to decide, on a balance of probabilities, which document it was more likely represented the true relationship between the parties. Certainly the GST form is more favourable to the purchasers as is evident both from the profit calculation and from the fact that they based their rebate claims on it. If this case were removed entirely from the Tax Court of Canada and I were faced solely with the task of deciding between the conflicting positions of AW on the one hand and AE and WI on the other, without the intervention of the Minister of National Revenue, how would I decide? First, there is no clear extrinsic evidence that the parties had agreed that the USA Export form represented the real relationship between the parties. Moreover, industry practice sheds no clear light. Sometimes, GST is charged American purchasers on zero-rated goods, sometimes it is not. Therefore, if it can be said that the production of two contradictory documents results in an ambiguity, I considered whether under the contra proferentem rule ambiguity must be resolved against the person who prepared the documents and put them forward. In this case it is AW and it would follow that the real contractual relationship between the parties is that set out in the GST document. I have concluded, however, that the contra proferentem rule is of no assistance. Neither document, considered individually, is ambiguous. The uncertainty arises only when the two documents are looked at together. I would be reluctant to base a conclusion on an ancient Latin maxim, contra proferentem,in these circumstances. Latin maxims are an aid to construction when all else fails and I think the better view is that the contra proferentem rule applies only where the ambiguity is evident in a single contract and not where there are two contradictory documents. I prefer to base my conclusion on the view that, even if both forms were sent to the purchasers, it is highly implausible that they would have agreed that the higher price, without GST (the USA Export form) was what they were paying.
+[63] The Nordren transactions differ somewhat from the others in that there is a question whether AW sold four vehicles directly to AE or whether they were sold to a domestic corporation and ultimately to AE. The position of AW is that four Ford F-350 crew cabs were sold and it was paid for them by AE in October 1997. The appellant's position has the virtue of relative simplicity. Again, we have the "border passes" with GST and the "sales invoices" (or USA Export forms) without GST. Also, we have a manufacturer's invoice on AW's files with the note "Hi Bill 41837 with all mark-up in - is it okay Greg." The same document is found on AE's file without the notation.
+[64] The respondent's position is more complex and involves a series of transactions some of which are difficult to explain or to fit into the picture. These transactions included a payment to AW by All Star Auto of the purchase price of the four vehicles. Four other entities are involved - All Star Auto, Oakville Motors, Fulton Auto and Nordren Auto Sales. No one has explained satisfactorily the reason for the involvement or interposition of these other domestic entities. However, whether they form part of the chain between AW and AE or not, the result is the same. If we ignore the intermediate entities and treat the sale as directly from AW to AE we have a sale pursuant to a form in which GST is charged which AW did not remit to the Receiver General. If we have a sale by AW to the first entity in the chain without GST being charged or remitted, in such case the Minister was entitled to assess AW for the GST.
+[65] My conclusion is, therefore, that the Minister was entitled to assess AW for the unremitted GST shown on the GST forms. The answers to the questions set out in paragraphs (a) and (b) of the issues to be decided in paragraph 36 of the ASF are yes in both cases.
+[66] So far as the penalties and interest under section 280 and the penalties under section 285 are concerned, I think they were justified. There was a deliberate deception in using the border passes for one purpose and the USA Export forms for the purposes of the GST returns. This production of two contradictory forms is in my view at least gross negligence.
+[67] I have recently had to consider penalties under section 285 (ETA) and 163(2) of the Income Tax Act. In Orly Automobiles Inc. v. The Queen, Docket 98-431(GST)G dated May 4, 2004, and in Klotz v. The Queen, 2004 DTC 2236, I quoted from the decision of this Court in Urpesz v. The Queen, [2001] 3 C.T.C. 2256 at 2559 to 2661
+As it happens, the authorities on this branch of the law are legion. One might start with the numerous pages under subsection 163(2) of the Act in the CCH Canadian Tax Reporter or the DeBoo Canada Tax Service. A recent case is Farm Business Consultants Inc. v. The Queen, 96 DTC 6085, in which the Federal Court of Appeal upheld a decision of this court (95 DTC 200). At pages 205-6 this court said:
+I am cognizant of the fact that subparagraph 152(4)(a)(i) has as its purpose the opening up of returns for statute-barred years where items of income, for a wide variety of reasons, are omitted or misstated, whereas subsection 163(2) is a penal provision and that in applying it if there is doubt as to the type of conduct to which the misrepresentation is attributable the benefit of that doubt should be given to the taxpayer. In Udell v. M.N.R., 70 DTC 6019 Cattanach, J. said at page 6025:
+There is no doubt that section 56(2) is a penal section. In construing a penal section there is the unimpeachable authority of Lord Esher in Tuck & Sons v. Priester, (1887) 19 Q.B.D. 629, to the effect that if the words of a penal section are capable of an interpretation that would, and one that would not, inflict the penalty, the latter must prevail. He said at page 638:
+We must be very careful in construing that section because it imposes a penalty. If there is a reasonable interpretation which will avoid the penalty in any particular case, we must adopt that construction.
+and at page 6026:
+I take it to be a clear rule of construction that in the imposition of a tax or a duty, and still more of a penalty if there be any fair and reasonable doubt the statute is to be construed so as to give the party sought to be charged the benefit of the doubt.
+See also Holley v. M.N.R., 89 DTC 366 at 369; De Graaf v. The Queen, 85 DTC 5280.
+A court must be extremely cautious in sanctioning the imposition of penalties under subsection 163(2). Conduct that warrants reopening a statute-barred year does not automatically justify a penalty and the routine imposition of penalties by the Minister is to be discouraged. Conduct of the type contemplated in paragraph 152(4)(a)(i) may in some circumstances also be used as the basis of a penalty under subsection 163(2), which involves the penalizing of conduct that requires a higher degree of reprehensibility. In such a case a court must, even in applying a civil standard of proof, scrutinize the evidence with great care and look for a higher degree of probability than would be expected where allegations of a less serious nature are sought to be established.3 Moreover, where a penalty is imposed under subsection 163(2) although a civil standard of proof is required, if a taxpayer's conduct is consistent with two viable and reasonable hypotheses, one justifying the penalty and one not, the benefit of the doubt must be given to the taxpayer and the penalty must be deleted.4 I think that in this case the required degree of probability has been established by the respondent, and that no hypothesis that is inconsistent with that advanced by the respondent is sustainable on the basis of the evidence adduced.
+_________________
+3 Cf. Continental Insurance Co. v. Dalton Cartage Co., [1982] 1 S.C.R. 164; 131 D.L.R. (3d) 599; 25 C.P.C. 72, per Laskin, C.J.C. at 168-171; D.L.R. 562-564; C.P.C. 75-77; Bater v. Bater, [1950] 2 All E.R. 458 at 459; Pallan et al. v. M.N.R., 90 DTC 1102 at 1106; W. Tatarchuk Estate v. M.N.R., [1993] 1 C.T.C. 2440 at 2443.
+4 This is not simply an extrapolation from the rule in Hodge's Case (1838) 2 Lewin 227; 168 E.R. 1136, applicable in criminal matters such, for example, as section 239 of the Income Tax Act where proof beyond reasonable doubt is required. It is merely an application of the principle that a penalty may be imposed only where the evidence clearly warrants it. If the evidence is consistent with both the state of mind justifying a penalty under subsection 163(2) and the absence thereof - I hesitate to use the words innocence or guilt in these circumstances - it would mean that the Crown's onus had not been satisfied.
+I have obtained great assistance in this matter from two decisions of Strayer J. in Venne v. The Queen, 84 DTC 6247 and De Graaf v. The Queen, 85 DTC 5280. None of the cases I have mentioned were referred to by counsel.
+At page 6256 in the Venne decision Strayer J. said:
+With respect to the possibility of gross negligence, I have with some difficulty come to the conclusion that this has not been established either. "Gross negligence" must be taken to involve greater neglect than simply a failure to use reasonable care. It must involve a high degree of negligence tantamount to intentional acting, an indifference as to whether the law is complied with or not. I do not find that high degree of negligence in connection with the misstatements of business income. To be sure, the plaintiff did not exercise the care of a reasonable man and, as I have noted earlier, should have at least reviewed his tax returns before signing them. A reasonable man in doing so, having regard to other information available to him, would have been led to believe that something was amiss and would have pursued the matter further with his bookkeeper.
+[68] It is not possible to find, on the evidence, an hypothesis that is inconsistent with the position advanced by the respondent. Based on the principles enunciated in the cases cited in the passage quoted above, I think the respondent has met the relatively heavy onus of justifying the penalty under section 285. The answer to the question in clause (d) of paragraph 36 of the ASF is therefore yes.
+[69] The appeal is dismissed with costs.
+Signed at Ottawa, Canada, this 21st day of June 2004.
+"D.G.H. Bowman"
+Bowman, A.C.J.
+CITATION:
+2004TCC258
+COURT FILE NO.:
+2001-3385(GST)G
+STYLE OF CAUSE:
+800537 Ontario Inc. and
+Her Majesty The Queen
+PLACE OF HEARING:
+London, Ontario
+DATES OF HEARING:
+November 3 to 7, 2003; January 12 to 16, 2004 and April 1 and 2, 2004
+REASONS FOR JUDGMENT BY:
+The Honourable D.G.H. Bowman,
+Associate Chief Justice
+DATE OF JUDGMENT AND
+REASONS FOR JUDGMENT:
+June 21, 2004
+APPEARANCES:
+Counsel for the Appellant:
+Paul G. Vogel
+Robyn L. Marttila
+Counsel for the Respondent:
+Peter M. Kremer, Q.C.
+Charles M. Camirand
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+COHEN HIGHLEY LLP
+Firm:
+11th Floor - One London Place
+255 Queens Avenue
+London, Ontario N6A 5R8
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,1071 @@
+---
+title: "Rio Tinto Alcan Inc. c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/146037/index.do"
+last_modified: "2016-07-15"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2016 CCI 172"
+citation2: ""
+neutral_citation: "2016 CCI 172"
+decision_date: "2016-07-15"
+language: "fr"
+item_id: "146037"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2920
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T16:57:08.355000+00:00"
+cases_cited_count: 14
+cases_citing_count: 5
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "f996b0b58aed90819432e484c33782c216cc8a4404161603051b9176905d1e62"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Rio Tinto Alcan Inc. c. La Reine
+
+- Citation: 2016 CCI 172
+- Decision date: 2016-07-15
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2920, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Rio Tinto Alcan Inc. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2016-07-15
+Référence neutre
+2016 CCI 172
+Numéro de dossier
+2012 4808(IT)G, 2013-3028(IT)G
+Juges et Officiers taxateurs
+Robert James Hogan
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2013-3028(IT)G
+ENTRE :
+RIO TINTO ALCAN INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Appel entendu sur preuve commune avec l’appel de
+Rio Tinto Alcan Inc. (2012‑4808(IT)G)
+les 19, 20, 21 et 22 octobre 2015,
+à Montréal (Québec).
+Devant : L’honorable juge Robert J. Hogan
+Comparutions :
+Avocats de l’appelante :
+Me Yves St‑Cyr
+Me Larry Nevsky
+Avocates de l’intimée :
+Me Susan Shaughnessy
+Me Nathalie Labbé
+JUGEMENT
+L’appel interjeté à l’encontre de la cotisation établie en vertu de la Loi de l’impôt sur le revenu (Canada) pour l’année d’imposition 2003 est accueilli, et l’affaire est renvoyée au ministre du Revenu national pour qu’il procède à un nouvel examen et établisse une nouvelle cotisation, conformément aux motifs du jugement ci‑joints.
+Les parties auront jusqu’au 8 septembre 2016 pour arriver à une entente sur les dépens, à défaut de quoi elles doivent déposer leurs observations écrites relatives aux dépens au plus tard le 9 septembre 2016. Ces observations ne doivent pas dépasser dix pages.
+Signé à Ottawa, Canada, ce 15e jour de juillet 2016.
+« Robert J. Hogan »
+Juge Hogan
+Dossier : 2012-4808(IT)G
+ENTRE :
+RIO TINTO ALCAN INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Appel entendu sur preuve commune avec l’appel de
+Rio Tinto Alcan Inc. (2013‑3028(IT)G)
+les 19, 20, 21 et 22 octobre 2015,
+à Montréal (Québec).
+Devant : L’honorable juge Robert J. Hogan
+Comparutions :
+Avocats de l’appelante :
+Me Yves St‑Cyr
+Me Larry Nevsky
+Avocates de l’intimée :
+Me Susan Shaughnessy
+Me Nathalie Labbé
+JUGEMENT
+En ce qui concerne la cotisation établie par le ministre du Revenu national relativement à l’année d’imposition 2007 de l’appelante, le jugement de la Cour est un jugement partiel puisque d’autres questions demeurent à être tranchées à la suite d’audiences ultérieures. Dans la mesure où après avoir tranché toutes les questions restant en litige, la Cour décidera que la cotisation établie pour l’année d’imposition 2007 de l’appelante doit être renvoyée pour nouvel examen et nouvelle cotisation, l’appelante aura droit aux déductions indiquées au paragraphe 210 des motifs du jugement ci‑joints dans le calcul de la perte autre qu’en capital se rapportant à son année d’imposition 2005 qu’elle a reportée et qu’elle a déduite dans le calcul de son revenu imposable pour son année d’imposition 2007, le tout conformément aux motifs du jugement ci‑joints.
+Les parties auront jusqu’au 8 septembre 2016 pour arriver à une entente sur les dépens, à défaut de quoi elles doivent déposer leurs observations écrites relatives aux dépens au plus tard le 9 septembre 2016. Ces observations ne doivent pas dépasser dix pages.
+Signé à Ottawa, Canada, ce 15e jour de juillet 2016.
+« Robert J. Hogan »
+Juge Hogan
+Référence : 2016 CCI 172
+Date : 20160715
+Dossiers : 2013‑3028(IT)G
+2012‑4808(IT)G
+ENTRE :
+RIO TINTO ALCAN INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT MODIFIÉS
+Ces motifs du jugement modifiés sont émis en remplacement des motifs du jugement signés le 15 juillet 2016.
+Le juge Hogan
+I. Aperçu [1] L’appelante, Rio Tinto Alcan Inc. (« Alcan »), a engagé des frais importants pour des services juridiques, des services de banque d’investissement et d’autres services (les « dépenses contestées ») dans le contexte, généralement parlant, de l’acquisition des actions de Pechiney SA (« Pechiney ») et de la scission par laquelle l’entreprise de produits laminés d’Alcan a été détachée en faveur de ses actionnaires (la « scission »). La scission a été opérée au moyen d’un transfert aux actionnaires d’Alcan, par l’intermédiaire de Novelis Inc. (« Novelis ») des actions d’Arcustarget Inc. (« Archer »), la société mère de l’entreprise de produits laminés. Lorsqu’elle a produit ses déclarations de revenus pour les années d’imposition relativement auxquelles les dépenses contestées ont été engagées, l’appelante a déduit une partie importante de celles-ci en vertu du paragraphe 9(1) et de divers alinéas du paragraphe 20(1) de la Loi de l’impôt sur le revenu (Canada)[1] (la « Loi »). En ce qui concerne la transaction Pechiney, le ministre du Revenu national (le « ministre ») a refusé les déductions demandées par l’appelante au motif que les dépenses étaient inextricablement liées à une transaction en capital et donc que les déductions prévues au paragraphe 20(1) de la Loi ne s’appliquaient pas. Pour ce qui est de l’opération Novelis, le ministre a refusé les déductions demandées par l’appelante, au motif que les dépenses avaient été engagées en vue de disposer des actions d’Archer et donc que les déductions prévues au paragraphe 20(1) de la Loi ne s’appliquaient pas. Selon le ministre, les dépenses en litige devraient être ajoutées au prix de base rajusté des actions de Pechiney ou déduites du produit de disposition des actions de Novelis[2], selon le cas.
+[2] Les nouvelles cotisations ont incité l’appelante à reconsidérer la position initiale qu’elle avait adoptée lors de la production de sa déclaration de revenus. L’appelante prétend maintenant que la totalité des dépenses contestées est déductible par l’effet conjugué du paragraphe 9(1) et des alinéas 20(1)e), bb) et cc) de la Loi. À titre subsidiaire, l’appelante soutient que les dépenses contestées qui ne sont pas déductibles en vertu des dispositions susmentionnées constituent des dépenses en capital admissibles.
+[3] L’appel interjeté par l’appelante à l’égard de la cotisation établie par le ministre relativement à son année d’imposition 2007 soulève plusieurs questions, dont une seule est traitée dans les présents motifs du jugement. Avant l’audience, les parties ont convenu, avec le consentement de la Cour, que seule la question de la déductibilité des dépenses que l’appelante a engagées relativement à l’opération Novelis pour son année d’imposition 2005 serait examinée à ce stade‑ci. Par conséquent, dans les présents motifs du jugement, la Cour se penche uniquement sur la question du montant de la perte autre qu’en capital qui peut être reportée par l’appelante de son année d’imposition 2005 et déduite dans le calcul de son revenu imposable pour l’année d’imposition 2007. Les autres questions seront tranchées ultérieurement, conformément à l’entente entre les parties.
+II. Les thèses des parties A. La thèse de l’appelante [4] Dans sa réponse aux observations écrites de l’intimée, l’appelante a fourni une ventilation des dépenses contestées et a indiqué les dispositions correspondantes de la Loi en vertu desquelles la déduction de chaque dépense contestée est demandée. Cette ventilation est reproduite ci‑après :
+[TRADUCTION]
+a) DÉPENSES CONTESTÉES (PECHINEY) – Total : 77 374 669 $
+SERVICES DE BANQUE D’INVESTISSEMENT
+Morgan Stanley
+Total : 26 051 194 $
+Selon Alcan :
+une déduction de 18 887 115 $ devrait être accordée en vertu du paragraphe 9(1) et
+une déduction de 7 164 079 $ devrait être accordée en vertu de l’alinéa 20(1)bb)
+une déduction de 26 051 194 $ devrait être accordée en vetu de l’alinéa 20(1)bb)
+toute partie du total qui n’est pas déductible en vertu du paragraphe 9(1) et/ou de l’alinéa 20(1)bb) devrait être déductible en vertu de l’alinéa 20(1)b)
+toute partie du total qui n’est pas déductible en vertu du paragraphe 9(1) et/ou de l’alinéa 20(1)bb) et/ou de l’alinéa 20(1)b) devrait être déductible en vertu de l’alinéa 20(1)e) jusqu’à concurrence de 2 605 119 $.
+Lazard Frères
+Total : 8 150 233 $
+Selon Alcan:
+une déduction de 5 297 652 $ devrait être accordée en vertu du paragraphe 9(1) et
+une déduction de 2 852 581 $ devrait être accordée en vertu de l’alinéa 20(1)bb)
+une déduction de 8 150 233 $ devrait être accordée en vertu de l’alinéa 20(1)bb)
+toute partie du total qui n’est pas déductible en vertu du paragraphe 9(1) et/ou de l’alinéa 20(1)bb) devrait être déductible en vertu de l’alinéa 20(1)b)
+toute partie du total qui n’est pas déductible en vertu du paragraphe 9(1) et/ou de l’alinéa 20(1)bb) et/ou de l’alinéa 20(1)b) devrait être déductible en vertu de l’alinéa 20(1)e) jusqu’à concurrence de 407 512 $.
+FRAIS DE PUBLICITÉ
+Publicis et Valmonde
+Total : 19 089 946 $
+Paragraphe 9(1) ou alinéa 20(1)b) :
+Total : 19 089 946 $
+DÉMARCHES AUPRÈS D’AGENCES GOUVERNEMENTALES
+Autorités de réglementation en matière de concurrence
+Freshfields Bruckhaus
+Total :
+4 954 777 $
+Alinéa 20(1)cc) ou 20(1)b) :
+4 954 777 $
+Sullivan Cromwell
+Total :
+2 566 609 $
+Alinéa 20(1)cc) ou 20(1)b) :
+2 566 609 $
+McMillan
+Total :
+552 186 $
+Alinéa 20(1)cc) ou 20(1)b) :
+552 186 $
+Divers autres cabinets d’avocats
+Total :
+432 810 $
+Alinéa 20(1)cc) ou 20(1)b) :
+432 810 $
+National Economic Res.
+Ass.
+Total :
+241 539 $
+Alinéa 20(1)cc) ou 20(1)b) :
+241 539 $
+Monitor Company Group
+Total :
+755 227 $
+Alinéa 20(1)cc) ou 20(1)b) :
+755 227 $
+Frontier Economics
+Total :
+177 349 $
+Alinéa 20(1)cc) ou 20(1)b) :
+177 349 $
+SCEHR [Patrick Rey]
+Total :
+10 008 $
+Alinéa 20(1)cc) ou 20(1)b) :
+10 008 $
+Federal Trade Commission
+(États-Unis)
+Total :
+392 112 $
+Alinéa 20(1)cc) ou 20(1)b) :
+392 112 $
+DÉMARCHES AUPRÈS D’AGENCES GOUVERNEMENTALES
+Organismes de réglementation des valeurs mobilières
+Sullivan Cromwell
+Total :
+6 801 202 $
+Alinéa 20(1)cc) ou 20(1)b) :
+6 801 202 $
+Darrois Villey
+Total :
+3 088 260 $
+Alinéa 20(1)cc) ou 20(1)b) :
+3 088 260 $
+PUBLICATION ET ENVOI DE RAPPORTS FINANCIERS
+PwC
+Total :
+1 104 875 $
+Paragraphe 9(1), sous‑alinéa 20(1)g)(iii),
+alinéa 20(1)e) ou 20(1)b) :
+1 104 875 $
+Bowne
+Total :
+868 736 $
+Paragraphe 9(1), sous‑alinéa 20(1)g)(iii),
+alinéa 20(1)e) ou 20(1)b) :
+868 736 $
+SEC
+Total :
+321 572 $
+Paragraphe 9(1), sous‑alinéa 20(1)g)(iii),
+alinéa 20(1)e) ou 20(1)b) :
+321 572 $
+Diverses autres autorités
+de réglementation
+Total :
+34 858 $
+Paragraphe 9(1), sous‑alinéa 20(1)g)(iii),
+alinéa 20(1)e) ou 20(1)b) :
+34 858 $
+AUTRES DÉPENSES DIVERSES
+Sullivan Cromwell
+Total :
+967 152 $
+Paragraphe 9(1) ou alinéa 20(1)b) :
+967 152 $
+Davis Polk et ADP
+Total :
+187 739 $
+Paragraphe 9(1) ou alinéa 20(1)b) :
+187 739 $
+Ogilvy Renault
+Total :
+20 054 $
+Paragraphe 9(1) ou alinéa 20(1)b) :
+20 054 $
+Divers petits fournisseurs –
+communication
+Total :
+152 180 $
+Paragraphe 9(1) ou alinéa 20(1)b) :
+152 180 $
+Ernst & Young
+Total :
+449 963 $
+Paragraphe 9(1) ou alinéa 20(1)b) :
+449 963 $
+Ritz‑Carlton Montréal
+Total :
+2 660 $
+Paragraphe 9(1) ou alinéa 20(1)b) :
+2 660 $
+Divers petits fournisseurs –
+autres
+Total :
+1 048 $
+Paragraphe 9(1) ou alinéa 20(1)b) :
+1 048 $
+b) DÉPENSES CONTESTÉES (NOVELIS) – Total : 19 759 339 $
+SERVICES DE BANQUE D’INVESTISSEMENT
+Morgan Stanley
+Total :
+296 863 $
+Paragraphe 9(1), alinéa 20(1)bb) ou 20(1)b) :
+296 863 $
+Lazard Frères
+Total :
+16 031 657 $
+Paragraphe 9(1), alinéa 20(1)bb) ou 20(1)b) :
+16 031 657 $
+PUBLICATION ET ENVOI DE RAPPORTS FINANCIERS
+PwC
+Total :
+1 803 192 $
+Paragraphe 9(1), sous‑alinéa 20(1)g)(iii) ou
+alinéa 20(1)b) :
+1 803 192 $
+Bowne
+Total :
+1 025 849 $
+Paragraphe 9(1), sous‑alinéa 20(1)g)(iii) ou
+alinéa 20(1)b) :
+1 025 849 $
+Ernst & Young
+Total :
+601 778 $
+Paragraphe 9(1), sous‑alinéa 20(1)g)(iii) ou
+alinéa 20(1)b) :
+601 778 $
+B. La thèse de l’intimée [5] En ce qui concerne l’opération Pechiney, l’intimée soutient que tous les frais payés aux divers fournisseurs de services sont de par leur nature des dépenses en capital et qu’ils devraient être ajoutés au prix de base rajusté des actions de Pechiney. Plus précisément, l’intimée fait valoir que les dépenses contestées ont été engagées relativement à l’acquisition des actions de Pechiney, ce qui a donné lieu à un avantage durable pour l’appelante. L’intimée prétend de surcroît qu’aucune des déductions prévues aux alinéas 20(1)bb), 20(1)cc) ou 20(1)g) de la Loi n’est applicable dans les circonstances.
+[6] Pour ce qui est de l’opération Novelis, l’intimée soutient que tous les frais payés aux divers fournisseurs de services sont des dépenses effectuées en vue de réaliser la disposition de l’entreprise de produits laminés et qu’ils devraient être déduits du produit de disposition des actions d’Archer[3] conformément à l’alinéa 40(1)a) de la Loi.
+III. Le contexte factuel et observations générales sur la crédibilité A. Le contexte factuel (1) Alcan [7] Pendant la période pertinente, Alcan était la société mère du groupe Alcan, un groupe de sociétés internationales exerçant des activités dans l’industrie de l’aluminium. Les actions d’Alcan étaient négociées sur divers marchés boursiers, dont ceux de Toronto, de New York et de Londres.
+[8] Les activités du groupe Alcan, exercées directement, et par l’intermédiaire de filiales, de coentreprises et de sociétés liées à travers le monde, comprenaient l’exploitation de mines de bauxite, le raffinage de l’alumine, la production de l’énergie électrique, la production et le recyclage de l’aluminium, ainsi que des activités liées à la recherche et à la technologie. Le groupe Alcan était un producteur de premier plan de métal de première fusion et produisait et vendait à l’échelle mondiale des produits laminés en aluminium. Alcan était une transformatrice de premier plan d’emballages flexibles en Europe et un des principaux fournisseurs mondiaux d’emballages pour les biens de consommation, ainsi que pour les industries pharmaceutiques et cosmétiques.
+[9] La maximisation de la valeur pour l’actionnaire était l’une des priorités d’affaires d’Alcan, et elle y arrivait en cherchant de nouvelles possibilités d’accroître les revenus, les profits et la valeur économique. Alcan avait une longue expérience de la réalisation d’acquisitions et d’opérations importantes visant ce but. Elle vendait ses produits à ses filiales et recevait de celles‑ci des frais de gestion et des dividendes.
+(2) L’acquisition de Pechiney [10] Alcan a initialement envisagé Pechiney comme partenaire potentielle au début des années 1990. En 1999, Alcan avait l’intention de fusionner avec les sociétés Pechiney et Alusuisse Lonza Group Ltd. (« Algroup »). Pechiney et Algroup étaient deux des plus grandes entreprises industrielles en France et en Suisse, et elles exerçaient leurs activités de base dans l’industrie de l’aluminium. Alcan a réussi à fusionner avec Algroup en 2000, mais Pechiney n’a pas été partie à cette fusion. Selon le témoignage de M. David McAusland, vice‑président directeur, fusions et acquisitions, et chef des services juridiques chez Alcan pendant la période pertinente, l’opération visant la société Pechiney avait échoué en raison de complications de nature sociale et réglementaire. En particulier, le groupe de travail en matière de fusions au sein de la Commission européenne, un organisme de réglementation de la concurrence, avait soulevé des préoccupations concernant le chevauchement concurrentiel de deux actifs importants en Europe : un laminoir allemand appartenant à Alcan et un laminoir français appartenant à Pechiney.
+[11] À la fin de 2002, la loi a été modifiée en France afin de permettre les offres publiques d’achat hostiles qui étaient assujetties à des approbations réglementaires. Avant cette modification, il était interdit en France de faire une offre publique d’achat hostile qui était assortie de conditions réglementaires. Compte tenu de cette modification réglementaire, Alcan a encore une fois envisagé la possibilité de réaliser une opération avec Pechiney.
+[12] Afin d’analyser les mérites et la faisabilité d’une opération éventuelle avec Pechiney, Alcan a retenu les services de deux banques d’investissement, à savoir Morgan Stanley & Co. Incorporated (« Morgan Stanley ») et Lazard Frères & Co. LLC (« Lazard Frères »). Ces deux maisons ont été chargées d’analyser la situation commerciale et financière des sociétés Alcan et Pechiney, ainsi que de préparer des modèles financiers d’une opération éventuelle. Morgan Stanley était la principale maison d’investissement qui aidait Alcan et elle a fait plusieurs présentations de son modèle financier au conseil d’administration d’Alcan (travaillant de concert avec Alcan dans certains cas) de décembre 2002 à juillet 2003. Lazard Frères a joué un rôle qui était en supplément du travail effectué par Morgan Stanley, et sa participation au processus a commencé après celle de Morgan Stanley. En particulier, étant donné que Lazard Frères était une maison française, elle avait les relations et l’expérience nécessaires pour aider à résoudre les problèmes pouvant surgir en France et pour aider dans l’analyse des marchés financiers français.
+[13] Le 2 juillet 2003, le conseil d’administration d’Alcan a approuvé une proposition d’offre d’achat du capital‑actions de Pechiney.
+[14] Le 7 juillet 2003, Alcan a déposé son offre initiale d’achat des titres de Pechiney au prix de 41 € l’action (60 p. 100 comptant et 40 p. 100 sous forme de nouvelles actions d’Alcan), l’offre était assujettie à trois conditions : (i) que les autorités américaines et européennes en matière de concurrence accordent les autorisations voulues; (ii) que le Ministère de l’Économie, des Finances et de l’Industrie française autorise l’opération proposée; et (iii) que plus de 50 p. 100 du capital‑actions et des droits de vote de Pechiney, calculés en tenant compte de la dilution, soient obtenus au plus tard à la date d’expiration de l’offre d’Alcan. Cette offre initiale a été rejetée par le conseil d’administration de Pechiney le 8 juillet 2003.
+[15] En juillet et en août 2003, les sociétés Alcan et Pechiney ont eu des discussions concernant l’offre initiale, et surtout relativement au prix offert par Alcan. Pendant cette période, Morgan Stanley et Lazard Frères ont réexaminé leur modèle financier respectif, en tenant compte plus particulièrement du prix.
+[16] Le 31 août 2003, à la demande de Pechiney, Alcan a présenté une offre modifiée dans laquelle les actions étaient évaluées à un prix maximal se situant entre 47 € et 48 € l’action. Le conseil d’administration de Pechiney a rejeté l’offre modifiée le même jour. Peu de temps après, les sociétés Pechiney et Alcan ont repris les pourparlers.
+[17] Le 12 septembre 2003, le conseil d’administration de Pechiney a recommandé l’acceptation d’une offre révisée de 47,5 € l’action plus une prime de 1 € en cas d’acquisition d’au moins 95 p. 100 des actions de Pechiney. L’offre révisée était assujettie à certaines conditions, notamment celle de l’obtention de l’autorisation du Conseil des marchés financiers (France) et celle de l’approbation des autorités américaines et européennes en matière de concurrence. Après obtention des approbations requises des autorités gouvernementales et réglementaires, l’offre révisée a été présentée aux actionnaires français et américains les 7 et 27 octobre 2003 respectivement. L’offre révisée expirait le 24 novembre 2003.
+[18] En date du 24 novembre 2003, Alcan avait obtenu l’acceptation de l’offre révisée pour en ce qui est de 92,21 p. 100 du capital‑actions et 93,55 p. 100 des droits de vote de Pechiney. Le 15 décembre 2003, Alcan a acquis les actions de Pechiney qui avaient été offertes avant l’expiration de l’offre.
+[19] Alcan a rouvert l’offre révisée pour la période allant du 9 au 23 décembre 2003 afin d’obtenir plus de 95 p. 100 des actions et des droits de vote de Pechiney. En date du 23 décembre 2003, Alcan avait obtenu l’acceptation de l’offre révisée pour ce qui est de 97,95 p. 100 du capital‑actions et 97,92 p. 100 des droits de vote de Pechiney. Le 6 février 2004, Alcan a acquis tous les titres de Pechiney qui avaient été offerts pendant la période de réouverture.
+[20] Dans le contexte de l’opération Pechiney, Alcan a retenu les services de conseillers professionnels, a engagé des frais pour la préparation, la publication et l’envoi de documents divers, et a engagé diverses autres dépenses. Ces dépenses sont décrites en détail ci‑après.
+a) Les banques d’investissement [21] De 2002 à 2004, Morgan Stanley et Lazard Frères ont, de façon indépendante, élaboré des modèles financiers au moyen desquels elles ont analysé diverses stratégies et possibilités d’expansion des activités d’Alcan. Ces maisons ont préparé des avis financiers et des avis concernant la valeur, ainsi que des analyses de l’industrie, du marché et des prix relativement à diverses possibilités qui s’offraient à Alcan et relativement à des dispositions financières pouvant être prises concernant Pechiney. Durant cette période, de nombreuses présentations ont été faites au conseil d’administration d’Alcan.
+[22] Le 1er juin 2003, Alcan a signé une lettre de mission de Morgan Stanley afin d’officialiser les modalités selon lesquelles Alcan retenait les services de Morgan Stanley. La lettre de mission confirme que Morgan Stanley était engagée à titre de conseillère financière. Les frais payables par Alcan étaient, selon la lettre de mission, [traduction] des « frais relatifs à l’annonce » de 3 750 000 $US et [traduction] des « frais relatifs à l’opération » conditionnels aux succès, d’un montant maximal de 21 600 000 $US. Les frais relatifs à l’annonce devaient être déduits des frais relatifs à l’opération en cas de la réalisation de l’opération. Si l’acquisition ne se concrétisait pas, des [traduction] « frais pour des services de conseil » de 100 000 $US par mois devaient être facturés à Alcan pour les services fournis par Morgan Stanley. Au final, Morgan Stanley a reçu un paiement de 26 051 194 $CAN pour ses services[4].
+[23] Alcan a signé une lettre de mission semblable de Lazard Frères le 4 juillet 2003 afin d’officialiser les modalités selon lesquelles Alcan retenait les services de Lazard Frères. La lettre de mission confirme que Lazard Frères était engagée à titre de conseillère financière. Les frais payables par Alcan étaient, selon la lettre de mission, 1 000 000 € payable à l’annonce de l’opération, 4 000 000 € payables à la réalisation de l’opération et 2 500 000 € payables dans les deux ans suivant l’annonce de l’opération. Les deuxième et troisième paiements étaient conditionnels à l’acquisition par Alcan de plus de 80 p. 100 des actions de Pechiney. Lazard Frères a reçu un paiement de 8 150 233 $CAN pour ses services[5].
+b) Les services de publicité [24] Alcan a retenu les services de Publicis Consultants (« Publicis »), une firme française qui offre des services de communications d’entreprise et de relations publiques, pour faire connaître Alcan en Europe et faire la promotion de l’acquisition proposée de Pechiney. L’offre publique d’achat hostile de Pechiney posait des défis d’ordre politique, étant donné que, comme l’a expliqué M. McAusland dans son témoignage, il y avait eu très peu d’offres publiques d’achat hostiles en France avant celle qu’a faite Alcan, et Pechiney était considérée comme un « fleuron », une des [traduction] « entreprises technologiques favorites », de la France. Alcan avait engagé Publicis notamment pour obtenir les services de M. Maurice Levy, le président‑directeur général de Publicis. Selon M. McAusland, M. Levy était un homme d’affaires très influent qui avait des relations en France. Grâce à l’aide de Publicis et de M. Levy, Alcan a été capable de renforcer sa réputation auprès du public français et des autorités françaises.
+[25] Plus précisément, Publicis a organisé des activités sociales et des conférences de presse, a publié l’offre d’Alcan de faire l’acquisition de Pechiney, amené des campagnes publicitaires et a acheté de l’espace publicitaire dans les journaux français, y compris ceux appartenant à la société Valmonde & Cie (« Valmonde »). Publicis a reçu un paiement de 18 983 316 $ pour ses services, et Valmonde a reçu un paiement de 106 630 $ pour de l’espace publicitaire.
+c) Les démarches auprès d’agences gouvernementales [26] Alcan a engagé plusieurs cabinets d’avocats et fournisseurs de services pour aider dans les démarches relatives aux lois antitrust et aux lois sur les valeurs mobilières, menées auprès d’agences gouvernementales dans divers ressorts partout dans le monde. Ces démarches étaient nécessaires pour aider les organismes gouvernementaux à comprendre les activités d’Alcan et pour obtenir l’autorisation d’émettre des actions d’Alcan dans le cadre de l’opération Pechiney.
+La réglementation sur les pratiques anticoncurrentielles [27] McMillan Binch Mendelsohn LLP (« McMillan ») a été engagée pour effectuer des démarches auprès d’organismes canadiens de réglementation en matière de pratiques anticoncurrentielles et pour superviser d’autres sociétés d’avocats qui faisaient des démarches semblables auprès d’organismes gouvernementaux de réglementation dans divers ressorts.
+[28] Freshfields Bruckhaus Deringer LLP (« Freshfields ») a fourni des services relativement à des démarches entreprises par Alcan auprès du groupe de travail en matière de fusions de la Commission européenne.
+[29] Sullivan & Cromwell LLP (« Sullivan Cromwell ») a fourni une aide juridique liée à des démarches auprès de diverses entités gouvernementales et, en particulier, auprès du département de la Justice des États‑Unis et auprès de la Federal Trade Commission.
+[30] Monitor Company Group, Frontier Economics, SCEHR (Patrick Rey) et National Economic Research Associates Inc. ont fourni des renseignements généraux et des données économiques concernant les activités d’Alcan afin d’appuyer les démarches faites auprès des diverses autorités de réglementation en matière de concurrence.
+[31] Au total, Alcan a engagé des dépenses de 10 082 617 $ relativement aux démarches effectuées auprès d’autorités de réglementation en matière de concurrence.
+Règlements sur les valeurs mobilières [32] Pour obtenir l’autorisation d’entreprendre l’opération Pechiney, Alcan était obligée, en tant qu’émettrice publique, de faire des démarches et de déposer des documents en conformité avec les règlements sur les valeurs mobilières.
+[33] Le cabinet Darrois Villey Maillot Brochier Avocats (« Darrois Villey ») a fourni son aide pour les démarches auprès d’organismes européens de réglementation des valeurs mobilières et auprès du ministère de la Défense de la France.
+[34] Sullivan Cromwell a fourni son aide pour les démarches auprès de la Securities and Exchange Commission des États‑Unis.
+[35] Darrois Villey et Sullivan Cromwell ont également fourni leur aide pour la préparation de documents qui devaient être déposés auprès des autorités de réglementation, tels que le formulaire S‑4, « la note d’information » et un prospectus. Le formulaire S‑4 est une déclaration d’enregistrement de l’offre publique d’échange faite aux actionnaires de Pechiney, lequel document a été déposé auprès de la Securities and Exchange Commission des États‑Unis. La « note d’information » est un document semblable pour l’organisme français de réglementation des valeurs mobilières, à savoir l’Autorité des marchés financiers.
+[36] Au total, Alcan a engagé une somme de 9 889 462 $ relativement à des démarches effectuées auprès d’organismes de réglementation des valeurs mobilières.
+d) La préparation, la publication et l’envoi de documents [37] Alcan a engagé des frais pour la préparation, la publication et l’envoi du formulaire S‑4, de la « note d’information » et du prospectus. Alcan a également payé des droits d’enregistrement des actions, des frais de transfert et des droits d’admission à la cote relativement à ces documents.
+[38] PricewaterhouseCoopers LLP (« PwC ») a apporté son aide relativement à la préparation et à l’envoi du formulaire S‑4 et de la « note d’information », aux dépôts effectués auprès de la United Kingdom Listing Authority, ainsi qu’aux modifications faites à un rapport annuel et à un rapport trimestriel.
+[39] Bowne Financial Print et Bowne International (« Bowne ») ont fourni des services d’impression, y compris la composition, le tirage d’épreuve, l’impression et la distribution, relativement au formulaire S‑4, à la « note d’information » et au prospectus.
+e) Autres dépenses diverses [40] Alcan a engagé d’autres dépenses diverses, y compris des frais de communication et de traduction, des honoraires pour des services juridiques fournis par Sullivan Cromwell et consistant en des conseils donnés de façon continue au conseil d’administration, des honoraires pour des services juridiques fournis par Ogilvy Renault LLP (« Ogilvy Renault »), des frais d’annulation exigés pas le Ritz‑Carlton Montréal et des honoraires pour des services de conseils concernant diverses questions fiscales fournis par Ernst & Young. Sous cette rubrique, l’appelante a également demandé la déduction de sommes payées à Davis Polk & Wardwell LLP (« Davis Polk ») et à ADP Investor Communication Services (« ADP »).
+(3) La scission Novelis [41] Je me penche maintenant sur les faits qui sous‑tendent la scission Novelis. Pendant qu’elle poursuivait l’opération Pechiney, Alcan était consciente du fait qu’elle aurait à dessaisir de certains éléments d’actif afin de satisfaire l’organisme européen de réglementation de la concurrence. Alcan a pris envers les organismes européen et américain de réglementation en matière de concurrence des engagements relatifs à deux exigences : l’organisme européen exigeait d’Alcan la séparation de la propriété d’un laminoir français (Neuf Brisach) et d’un laminoir allemand (Norf), alors que l’organisme américain exigeait d’Alcan la séparation de la propriété d’un laminoir situé à Oswego (New York) et à Ravenswood d’un laminoir situé en Virginie‑Occidentale.
+[42] Morgan Stanley a travaillé à l’élaboration d’un modèle financier pour examiner deux possibilités qui pouvaient permettre à Alcan de respecter ses engagements de nature réglementaire, soit : une scission portant sur les éléments d’actif dont Alcan se dessaisissait ou la vente des actions, détenues par Alcan, des entités qui acquerraient les éléments d’actif faisant l’objet du dessaisissement. Morgan Stanley a présenté son modèle financier au conseil d’administration d’Alcan.
+[43] Le 15 février 2004, une stratégie consistant à détacher la majeure partie des entreprises de produits laminés d’Alcan et à transférer ces entreprises à Archer a été présentée au conseil d’administration. Cette stratégie a été jugée le moyen le plus approprié de respecter les restrictions imposées par les autorités de réglementation en matière de concurrence tout en conservant la rentabilité pour les actionnaires d’Alcan et en augmentant la valeur pour l’actionnaire. De février 2004 à mai 2004, le conseil a examiné le projet de dessaisissement et les deux options pour sa réalisation.
+[44] Le 17 mai 2004, le conseil d’administration a approuvé l’annonce du dessaisissement. L’annonce publique du dessaisissement a été faite le 18 mai 2004. Dans son annonce publique, Alcan a déclaré que le laminoir allemand (Norf) et un laminoir américain (Oswego) seraient inclus dans Archer, alors qu’Alcan conserverait le laminoir français (Neuf Brisach) et un autre installation concernant un laminoir américain (Ravenswood).
+[45] Après l’annonce publique, plusieurs investisseurs ont indiqués qu’ils souhaitaient acquérir les entreprises de produits laminés d’Alcan. La direction d’Alcan a eu des discussions avec ces investisseurs potentiels. Le 23 novembre 2004, les meilleures offres ont été présentées au conseil d’administration.
+[46] Le conseil a également examiné une autre opération possible de scission, soit, plus précisément, une scission en faveur des actionnaires d’Alcan au moyen de ce que l’on appelle une transaction « papillon », de telle sorte que les actionnaires d’Alcan détiendraient les actions d’Archer par l’intermédiaire d’une nouvelle société, à savoir Novelis.
+[47] À la réunion du 23 novembre 2004, Morgan Stanley et Lazard Frères ont chacune fourni au conseil d’administration une attestation d’équité indiquant que la scission était l’option la plus avantageuse et était équitable pour les actionnaires d’Alcan. Le conseil a officiellement approuvé la scission lors de cette réunion.
+[48] Le 22 décembre 2004, Alcan a annoncé que ses actionnaires avaient voté en faveur du plan d’arrangement pour la scission touchant les entreprises de produits laminés groupés dans Archer.
+[49] Le plan d’arrangement a pris effet le 6 janvier 2005. Il s’est exécuté conformément à une décision anticipée de l’Agence du revenu du Canada (l’« ARC »)[6] obtenue par Alcan. Les étapes étaient notamment les suivantes :
+a) Alcan a restructuré son capital‑actions en modifiant ses statuts de manière à créer une nouvelle catégorie d’actions ordinaires et d’actions privilégiées et à autoriser l’émission de telles actions;
+b) les détenteurs existants des actions ordinaires d’Alcan ont échangé leurs actions ordinaires contre des actions de la nouvelle catégorie d’actions ordinaires et de la nouvelle catégorie d’actions privilégiées d’Alcan;
+c) les actionnaires d’Alcan ont transféré leurs actions privilégiées d’Alcan à Novelis en contrepartie d’actions de Novelis, et Alcan a transféré les actions d’Archer à Novelis en contrepartie d’actions privilégiées de Novelis;
+d) en contrepartie de billets à demande ne portant pas intérêt qui ont immédiatement été affectés à la compensation les uns des autres, les sociétés Alcan et Novelis ont chacune racheté les actions privilégiées de l’autre que chacune détenait.
+[50] Les actionnaires inscrits d’Alcan ont reçu une action ordinaire de Novelis pour cinq actions privilégiées d’Alcan qu’ils détenaient. Après la scission, les actions ordinaires de Novelis étaient cotées et négociées à la Bourse de Toronto ainsi qu’à la Bourse New York. Par suite de la scission, les actionnaires d’Alcan étaient devenus actionnaires de deux entités publiques, à savoir Alcan et Novelis, et Novelis a acquis, grâce à son acquisition des actions d’Archer, la presque totalité des entreprises de produits laminés détenues par Alcan avant son acquisition de Pechiney en 2003 ainsi que certaines entreprisse d’alumine et entreprises exerçant des activités se rapportant aux métaux de première fusion, situées au Brésil, de même que quatre laminoirs en Europe qu’Alcan avait acquis indirectement au moyen de l’opération Pechiney.
+a) Les banques d’investissement [51] Morgan Stanley était la conseillère financière principale en ce qui a trait au dessaisissement. De la fin 2003 jusqu’au 17 mai 2004, Morgan Stanley a donné à Alcan des conseils stratégiques au sujet des conséquences financières de diverses options de dessaisissement. Du 18 mai 2004 au 22 novembre 2004, Morgan Stanley a fourni à Alcan des conseils stratégiques concernant les conséquences financières des diverses possibilités qui existaient pour la disposition des actions d’Archer. Morgan Stanley a fourni une attestation d’équité relativement à la scission et, le 23 novembre 2004, elle a recommandé la scission comme la meilleure option en ce qui concerne le dessaisissement. À compter de ce moment, Morgan Stanley a continué de donner des conseils et des avis pour assurer la conformité aux lois en matière de valeurs mobilières et elle a participé directement à la finalisation de la scission. Les frais versés à Morgan Stanley étaient conditionnels à la finalisation de l’opération.
+[52] Lazard Frères était la conseillère secondaire qui fournissait des services financiers à l’égard du dessaisissement. Lazard Frères a fourni des conseils indépendants et des attestations d’équité indépendantes relativement aux mêmes questions que celles analysées par Morgan Stanley. Selon les témoignages de MM. McAusland et Healy, la société Lazard Frères s’occupait surtout de l’analyse d’une opération de vente alternative.
+b) La préparation, la publication et l’envoi de documents [53] La société Ernst & Young avait deux responsabilités principales en aidant Alcan dans sa restructuration en 2004. Tout d’abord, Ernst & Young a préparé des documents destinés aux actionnaires d’Alcan, afin que les choses se fassent en conformité avec les lois canadiennes et américaines applicables en matière de valeurs mobilières. Cette tâche consistait à examiner, à analyser et à préparer des états financiers pro forma à l’égard des entreprises de produits laminés d’Alcan pour les cinq années antérieures. Deuxièmement, Ernst & Young, appuyant le service fiscal interne d’Alcan, a examiné les incidences fiscales des diverses options de dessaisissement, a analysé les diverses possibilités de regroupement des actifs au sein d’Archer et a aidé à la préparation de la demande à l’ARC, d’une décision anticipée, qui a été présentée.
+[54] PwC appuyant le service interne de comptabilité d’Alcan, a effectué la vérification de divers états financiers.
+[55] Bowne a imprimé l’avis de la tenue de l’assemblée des actionnaires d’Alcan, la circulaire de la direction sollicitant des procurations relativement au plan d’arrangement, le prospectus d’admissibilité à titre d’émetteur assujetti, ainsi que le formulaire 10, lesquels documents contenaient tous des renseignements obligatoires qui on été envoyés aux actionnaires d’Alcan.
+B. Observations générales quant à la crédibilité [56] L’intimée n’a produit aucune preuve testimoniale. De plus, les procureurs de l’intimée ont posé peu de questions en contre-interrogatoire. Je présume que les procureurs de l’intimée avaient quant au litige une stratégie claire qui était fondée sur les objectifs bien définis de sa cliente. L’ARC a une politique de longue date selon laquelle les dépenses engagées dans le contexte d’une offre publique d’achat ou de la distribution d’immobilisations aux actionnaires d’une société sont des dépenses en capital. Je suppose qu’il s’agit là de la raison pour laquelle l’intimée a choisi, en général, de ne pas contester la répartition des dépenses contestées, proposée par l’appelante, entre dépenses courantes et dépenses en capital. De plus, je soupçonne que l’intimée craignait que, si elle contestait la ligne de la démarcation entre les dépenses courantes et les dépenses en capital, cela aurait pu ouvrir la voie à l’acceptation par la Cour d’une disjonction des dépenses fondée sur la distinction entre la phase de décision et la phase de mise en œuvre des deux opérations[7].
+[57] Cette stratégie a comme inconvénient qu’elle offre à l’appelante un moyen plus facile d’établir une preuve prima facie quant à la matrice factuelle (le « fardeau de la preuve ») à laquelle, selon elle, le droit doit être appliqué. Comme on le verra plus loin dans les présents motifs du jugement, cela a joué en faveur de l’appelante pour certaines des questions soulevées dans le présent appel. Cependant, à certains égards, la preuve de l’appelante est bien loin de satisfaisante.
+[58] Je donnerai maintenant mon impression globale de la preuve testimoniale présentée par les témoins de l’appelante.
+[59] J’ai trouvé que M. McAusland possédait une bonne connaissance des événements qui se sont déroulés pendant qu’il était employé comme cadre supérieur chez l’appelante. Il était un témoin fiable et crédible, en particulier quant à la vision, à la stratégie et à la structure de l’appelante relativement aux opérations Pechiney et Novelis. Il a fourni un aperçu clair des objectifs généraux de chaque opération. De son propre aveu, il n’avait pas de grandes connaissances en matière fiscale. À cet égard son témoignage ne peut donc pas remplacer de façon fiable le témoignage des conseillers fiscaux ayant, dans les faits travaillé sur les opérations. C’est la raison pour laquelle je conclus plus loin que l’appelante ne s’est pas acquittée de son fardeau de la preuve quant aux honoraires payés pour les services de conseils en matière fiscale. Enfin, M. McAusland n’a pas éclairé la Cour sur les travaux effectués par les vérificateurs de l’appelante relativement aux renseignements financiers présentés sur le formulaire S‑4, dans la « note d’information » et dans le prospectus qui devaient être déposés. Aucun témoignage n’a été donné sur la ventilation des coûts d’impression (dans le cas des documents publics) relatifs aux pages imprimées comportant des renseignements financiers et autres concernant, par exemple, les modalités de l’opération. Aucun représentant de PwC ou d’Ernst & Young n’a été appelé à témoigner sur les travaux effectués en ce qui concerne les renseignements financiers.
+[60] M. Miller était l’associé principal chez Sullivan Cromwell, le cabinet d’avocats transnational qui a joué un rôle de premier plan quant à l’opération Pechiney. Il semble que son cabinet a joué un rôle un peu moindre, bien que tout de même important, dans l’opération Novelis. J’ai trouvé qu’il était également un témoin crédible, fiable et bien informé.
+[61] M. Brian Healy a témoigné pour le compte de Morgan Stanley. M. Healy est un banquier d’affaires chez Morgan Stanley et il a pris part aux opérations Pechiney et Novelis. J’estime qu’il était lui aussi un témoin fiable et crédible.
+[62] Je ne peux pas en dire autant de M. Erik Maris, qui a travaillé sur les deux opérations pour le compte de Lazard Frères. Sur accord des parties, il a témoigné par vidéoconférence à partir de Paris. J’ai constaté que, pendant que l’avocat de l’appelante lisait les questions dans ses notes manuscrites, M. Maris tapait sur son téléphone intelligent, qui était à l’abri des regards sous la table. Il y jetait constamment des coups d’œil. Parfois, il se déplaçait dans la pièce. Contrairement à son homologue de chez Morgan Stanley, il m’a souvent donné l’impression que ses réponses avaient été préparées. Comme il faisait deux choses en même temps tout au long de son témoignage, il ne semble guère avoir eu l’occasion de réfléchir sérieusement aux questions qui lui étaient posées et de fournir des réponses détaillées. Fait révélateur, ses réponses aux questions de l’avocat étaient très brèves. Pour ces raisons, j’accorde moins de poids à son témoignage. Cela n’est pas tout à fait fatal pour l’appelante, étant donné que, dans certains cas, les éléments de preuve documentaire sont suffisants pour établir un fait crucial pour la cause de l’appelante.
+[63] M. Eric Giuily a été appelé à témoigner concernant l’objet de la stratégie de communication élaborée par Publicis. M. Giuily était le président et directuer général de Publicis pendant la période pertinente. M. Giuily et Publicis avaient été chargés de faire la promotion de la vision de l’appelante à l’égard de Pechiney. L’intimée a souligné des contradictions notables entre son témoignage, ses déclarations antérieures et la preuve documentaire. Pour les raisons exposées au paragraphe 118 des présents motifs du jugement, je partage l’avis de l’intimée selon lequel il faut n’accorder que peu de poids à son témoignage.
+[64] Enfin, l’appelante a appelé M. Jocelin Paradis à témoigner. À l’heure actuelle, il est vice‑président, fiscalité, chez l’appelante. Précédemment, il était employé de Rio Tinto. Il a commencé à s’impliquer dans les affaires d’Alcan après l’acquisition de celle-ci par Rio Tinto en 2007. Il n’a donc aucune connaissance contemporaine des opérations en cause dans le présent appel. Il n’a pas été appelé à témoigner pour faire profiter la Cour d’une telle connaissance. Dans le poste qu’il occupait, il a dû travailler à différentes vérifications et au règlement de dossiers, notamment de dossiers se rapportant aux opérations Pechiney et Novelis. On lui a demandé d’expliquer la façon dont les activités d’Alcan sont structurées. Plus particulièrement, on lui a demandé de fournir des renseignements sur les frais de gestion et les dividendes qu’Alcan reçoit de ses filiales. L’intimée ne s’est pas opposée à son témoignage sur ces faits, lesquels on peut constater par un simple examen des documents financiers et des documents de travail de l’appelante produits dans le cours normal des affaires. À cet égard, j’ai trouvé qu’il était un témoin fiable et crédible.
+IV. Les points en litige [65] Dans ses observations écrites, l’intimée énonce les points en litige de la manière suivante :
+[traduction]
+27. Dans l’appel no 2013‑3028(IT)G [qui porte sur l’opération Pechiney], les questions en litige sont les suivantes :
+a) L’appelante a‑t‑elle le droit de déduire dans le calcul de son revenu des dépenses s’élevant relatifs à 77 374 669 $ à des frais versés par Alcan à divers fournisseurs de services au cours de son année d’imposition 2003 […]?[8]
+b) Plus précisément, l’appelante a‑t‑elle le droit de déduire les sommes suivantes en vertu des dispositions de la Loi indiquées dans le tableau ci‑dessous?
+Fournisseur de services
+Somme dont la déduction est demandée dans l’avis d’appel
+Disposition de la Loi en vertu de laquelle la déduction est demandée dans l’avis d’appel
+Morgan Stanley
+18 887 115
+ou 26 051 194
+9(1) [et]
+20(1)bb)
+[ou 20(1)b)]
+Lazard Frères
+5 297 651
+ou 8 150 233
+9(1)
+[ou 20(1)b)]
+Publicis Consultants
+18 983 316
+9(1)
+[ou 20(1)b)]
+Valmonde & Cie
+106 630
+9(1)
+[ou 20(1)b)]
+Federal Trade Commission des États‑Unis
+392 112
+20(1)cc)
+[ou 20(1)b)]
+Freshfields [Bruckhaus]
+4 954 777
+20(1)cc)
+[ou 20(1)b)]
+McMillan Binch
+552 186
+20(1)cc)
+[ou 20(1)b)]
+Sullivan Cromwell
+967 152
+9 367 811
+9(1)
+20(1)cc)
+[ou 20(1)b)]
+Diverses questions
+antitrust (autres cabinets d’avocats)
+432 810
+20(1)cc)
+[ou 20(1)b)]
+Darrois Villey
+3 088 260
+20(1)cc)
+[ou 20(1)b)]
+National Economic Research [Ass.]
+241 539
+20(1)cc)
+[ou 20(1)b)]
+PricewaterhouseCoopers
+1 104 875*
+9(1) ou 20(1)g)(iii)
+[ou 20(1)b)] [9]
+Bowne (printing)
+868 736
+9(1) ou 20(1)g)(iii)
+[ou 20(1)b)] [10]
+Securities and Exchange Commission
+321 572*
+9(1) ou 20(1)g)(iii)
+[ou 20(1)b)] [11]
+Autres commissions des valeurs mobilières
+34 858*
+9(1) ou 20(1)g)(iii)
+[ou 20(1)b)] [12]
+Davis Polk & Wardwell
+et ADP
+188 119
+9(1) ou 20(1)g)(iii)
+[ou 20(1)b)]
+Frais de communication
+(divers petits fournisseurs)
+152 180
+9(1) [ou 20(1)b)]
+Ernst & Young
+449 963
+9(1) [ou 20(1)b)]
+[Ogilvy Renault]
+20 054
+91(1) [ou 20(1)b)]
+Monitor Company Gr.
+755 227
+9(1)
+20(1)cc)
+[ou 20(1)b)]
+Frontier Economics
+177 349
+9(1)
+20(1)cc)
+[ou 20(1)b)]
+SCEHR Patrick Rey
+10 008
+9(1)
+20(1)cc)
+[ou 20(1)b)]
+Déductions diverses (divers petits fournisseurs – autres)
+3 708
+9(1)
+[ou 20(1)b)]
+Sommes qui ne sont plus contestées par l’appelante*
+RBC
+140 892**
+Sullivan Cromwell
+1 873 562**
+* Une déduction totale de 131 397 $ a été accordée lors de l’établissement de la nouvelle cotisation, mais est encore demandée par l’appelante : 93 760 $ (PwC); 2 397 $ SEC; 34 858 $ (autres commissions des valeurs mobilières).
+** Voir la page 11, note 2 des observations écrites de l’appelante.
+c) Des dépenses s’élevant à 77 243 274 $ (79 389 124 $ - 2 014 454 $ - 131 397 $) engagées […] au cours de l’année d’imposition 2003 d’Alcan doivent‑elles être ajoutées au montant cumulatif des immobilisations admissibles de l’appelante;
+d) Des dépenses s’élevant à 77 243 274 $ doivent‑elles être ajoutées au « prix de base rajusté » des actions de Pechiney par le ministre? […]
+[…]
+29. Dans l’appel no 2012-4808(IT)G [qui porte sur l’opération Novelis], les questions à trancher sont les suivantes :
+a) L’appelante a‑t‑elle le droit de déduire les sommes suivantes en vertu des dispositions de la Loi indiquée dans le tableau :
+Fournisseur de services
+Somme dont la déduction est demandée par Alcan
+Dispositions de la Loi
+en vertu desquelles Alcan a demandé la déduction
+Bowne
+1 025 849 $
+[9(1) ou] 20(1)g)(iii)
+[ou 20(1)b)]
+Ernst & Young
+601 778 $
+9(1) [ou 20(1)g)(iii)
+ou 20(1)b)]
+PwC
+1 803 192 $
+9(1) [ou 20(1)g)(iii)
+ou 20(1)b)]
+Lazard Frères
+16 031 657 $
+[9(1) ou] 20(1)bb)
+[ou 20(1)b)]
+Morgan Stanley
+296 863 $
+9(1) et 20(1)bb)
+[ou 20(1)b)]
+Total
+19 759 339 $
+b) Les dépenses s’élevant à 19 759 339 $ ont‑elles été déduites à juste titre du produit de disposition des actions de Novelis conformément à l’alinéa 40(1)a) de la Loi?
+[66] Je souscris à la façon dont l’intimée a formulé les questions en litige, sous réserve des commentaires que je formule dans les notes de bas de page 8 à 12.
+V. Analyse (A) Dépenses courantes ou dépenses en capital (1) Principes généraux [67] L’appelante demande des déductions en vertu du paragraphe 9(1) de la Loi à l’égard de frais engagés relativement à des services de banque d’investissement, à des services de publicité, ainsi qu’à la publication et à l’envoi de documents, et à l’égard d’autres dépenses diverses. Le paragraphe 9(1) prévoit que le revenu qu’un contribuable tire d’une entreprise ou d’un bien est le « bénéfice » qu’il en tire pour l’année. De manière générale, le « bénéfice » s’entend de la différence entre le revenu et les dépenses engagées dans le but de gagner le revenu, à moins que la portée du terme ne soit autrement limitée par la Loi. Les alinéas 18(1)a) et b) sont deux exemples de dispositions qui limitent les déductions pouvant être demandées en vertu du paragraphe 9(1).
+[68] L’alinéa 18(1)a) de la Loi dispose qu’une dépense peut être déduite en vertu de l’article 9 seulement dans la mesure où elle a été engagée ou effectuée en vue de tirer un revenu d’une entreprise ou d’un bien.
+[69] Il semble que les parties s’entendent sur le fait que les dépenses contestées qui ont été engagées dans le contexte de l’opération Pechiney ne sont pas touchées par la restriction énoncée à l’alinéa 18(1)a). Toutefois, dans ses observations écrites, l’intimée ne concède pas ce point en ce qui a trait aux dépenses contestées qui ont été engagées dans le contexte de l’opération Novelis (les « dépenses contestées se rapportant à Novelis »). Cela étant dit, je souscris à l’observation de l’appelante selon laquelle cet argument n’a pas été soulevé de façon appropriée par l’intimée dans ses actes de procédure.
+[70] Au paragraphe 92 de sa réponse à l’avis d’appel modifié pour l’année d’imposition 2005, l’intimée se fonde expressément sur l’alinéa 18(1)a) de la Loi dans le cas d’autres dépenses, totalisant 1 459 233 $, qui ne font pas partie des dépenses contestées se rapportant à Novelis. Par contre, les hypothèses de fait du ministre ne mentionnent aucunement que le ministre a tenu pour acquis que les dépenses contestées se rapportant à Novelis n’avaient pas été engagées en vue de tirer un revenu d’une entreprise ou d’un bien. La réponse de l’intimée à l’avis d’appel modifié indique plutôt que le ministre a refusé à l’appelante la déduction à titre de dépenses courantes des dépenses contestées se rapportant à Novelis parce que le ministre a conclu qu’il s’agissait de dépenses en capital déductibles en vertu de l’alinéa 40(1)a) de la Loi[13]. Ainsi, l’intimée ne saurait faire valoir que les dépenses contestées se rapportant Novelis n’ont pas été engagées en vue de tirer un revenu d’une entreprise ou d’un bien aux termes de l’alinéa 18(1)a) de la Loi. Finalement, comme l’a fait remarquer le juge Abbott dans l’arrêt British Columbia Electric Company Limited[14], [traduction] « Comme le principal objet de toute entreprise commerciale est vraisemblablement de réaliser un profit, toute dépense faite « en vue de tirer un revenu » de l’entreprise entre dans le cadre de l’alinéa 12(1)a), qu’elle soit considérée comme une dépense au titre du revenu ou comme une dépense en capital »[15].
+[71] L’alinéa 18(1)b) de la Loi est d’une pertinence particulière pour l’issue de la présente affaire. L’alinéa 18(1)b) interdit la déduction de dépenses qui sont des dépenses en capital. L’intimée se fonde sur cette disposition pour faire valoir que les dépenses contestées ne sont pas déductibles à titre de dépenses courantes parce qu’elles ont été engagées relativement à l’opération Pechiney laquelle a été exécutée au titre du capital.
+[72] À l’inverse, l’appelante fait valoir que les dépenses contestées ont été engagées dans le cadre de ses activités commerciales ordinaires, et qu’elles ne l’ont pas été au titre du capital. Plus particulièrement, l’appelante soutient que les frais relatifs aux services de banque d’investissement qu’elle cherche à déduire en vertu du paragraphe 9(1) de la Loi sont des dépenses courantes puisqu’elles sont reliées au coût des conseils professionnels sur lesquels s’est fondé le conseil d’administration de l’appelante afin de décider si les opérations Pechiney et Novelis devaient être approuvées. Pour les besoins de mes motifs du jugement, j’appelle « dépenses liées à la surveillance » les frais pour les services qui ont aidé le conseil d’administration dans le processus décisionnel et dans l’exercice de sa fonction de surveillance. J’appelle « coûts d’exécution » les frais pour les services qui facilitent l’exécution d’une opération au titre capital.
+[73] Bien qu’il soit prévu à l’alinéa 18(1)b) de la Loi que les dépenses engagées ou effectuées « à titre de capital » ne sont pas déductibles, la Loi ne précise pas ce que signifie cette expression. Le législateur a plutôt laissé aux tribunaux le soin de définir les principes qui doivent être utilisés pour distinguer les dépenses en capital des dépenses courantes. Dans l’arrêt Johns‑Manville Canada Inc. c. La Reine[16], le juge Estey de la Cour suprême du Canada a donné un aperçu de la jurisprudence qui élucidait ces principes. Les points saillants de son examen de la jurisprudence méritent d’être pris en considération en l’espèce aux pages 56, 57 et 58 à 59 :
+[. . .]
+Cette Cour a eu à se prononcer au sujet de l’al. 12(1)b) dans l’arrêt Minister of National Revenue v. Algoma Central Railway, [1968] R.C.S. 447. Le juge Fauteux, alors juge puîné, affirme à la p. 449:
+[traduction] Le Parlement ne définit pas les expressions "dépense … de capital" ou "dépense à compte de capital". Comme il n’y a pas de critère législatif, appliquer ou non ces expressions à toutes dépenses particulières doit dépendre des circonstances propres à l’affaire. Nous ne pensons pas qu’un critère unique permet d’élaborer cette définition . . .
+À ce propos, la Cour dit qu’elle est d’accord avec l’arrêt du Conseil privé B.P. Australia Ltd. v. Commissioner of Taxation of the Commonwealth of Australia, [1966] A.C. 224. […] Après avoir examiné les différentes façons d’aborder le problème de la classification en droit et en comptabilité de la nature du déboursé, lord Pearce dit, aux pp. 264 et 265:
+[traduction] On ne peut pas trouver la solution du problème en appliquant un critère ou une description rigide. Elle doit découler de plusieurs aspects de l’ensemble des circonstances dont certaines peuvent aller dans un sens et d’autres dans un autre. Une considération peut se détacher si nettement qu’elle domine d’autres et de plus vagues indications dans le sens contraire. C’est une appréciation saine de toutes les caractéristiques directrices qui doit apporter la réponse finale. Bien que les catégories de dépenses de capital et de dépenses d’exploitation soient distinctes et facilement reconnaissables dans les cas clairs qui sont loin des cas limites, la distinction est souvent difficile à établir dans les cas limites; les considérations contradictoires peuvent engendrer une situation où la réponse tient à des facteurs de degré et d’insistance. Cette réponse
+« dépend de l’effet envisagé de la dépense d’un point de vue pratique et commercial plutôt que de la classification juridique des droits, s’il en est, garantis, employés ou épuisés en cours de route »:
+juge Dixon dans l’arrêt Hallstroms Pty. Ltd. v. Federal Commissioner of Taxation (1946) 72 C.L.R. 634, 648.
+[C’est moi qui souligne.]
+[…]
+À la page 647 de l’arrêt Hallstroms [. . .] le juge Dixon, tel était alors son titre, dit, à propos de la différence entre les dépenses de capital et les dépenses d’exploitation, que la distinction tient à la différence:
+[traduction] entre l’acquisition des moyens de production et leur usage; entre l’établissement ou l’extension de l’entreprise et son exploitation; entre les instruments de travail et l’exécution régulière des travaux …; entre une entreprise et l’effort soutenu de ceux qui en font partie.
+D’autres critères ont été adoptés dans d’autres systèmes fiscaux. En Australie également, dans l’arrêt de la Haute Cour Sun Newspapers Ltd. V. Federal Commissioner of Taxation (1938), 61 C.L.R. 337, le juge Dixon, s’exprimant au nom de la cour, énonce trois principes qui doivent s’appliquer à la caractérisation d’une dépense faite par le contribuable, aux fins de l’application de la loi fiscale. Il dit, à la p. 363:
+[traduction] À mon sens, il faut examiner trois aspects: a) la nature de l’avantage recherché (son caractère permanent peut alors entrer en ligne de compte), b) son utilisation, son importance ou la façon d’en jouir (comme pour le critère précédent, la fréquence de l’emploi peut représenter un élément à considérer) et c) les moyens adoptés pour l’obtenir; par exemple, des compensations ou des débours ont-ils été effectués périodiquement en contrepartie de l’utilisation ou de la jouissance et pour une durée proportionnée au paiement? Ou encore, existe-t-il une clause définitive pour en garantir à l’avenir l’utilisation ou la jouissance, ou un paiement final à cet effet?
+À la page précédente, le juge avait dit pour expliquer un autre aspect du critère:
+[traduction] ... il faut la considérer comme dépense d’exploitation si son objet la range dans la très grande catégorie des choses qui, dans l’ensemble, constituent la demande constante à laquelle il faut répondre à même les revenus d’une activité ou de son capital de roulement, mais il n’est pas nécessaire que la répétition de la chose se produise ou soit probable.
+[C’est moi qui souligne.]
+[74] En l’absence de lignes directrices législatives, les tribunaux ont élaboré au moins trois critères pour distinguer les dépenses en capital des dépenses courantes. Le premier critère permet de qualifier une dépense en fonction de la question de savoir si elle se répète ou s’il s’agit d’une dépense unique (le « critère de la dépense récurrente »). Selon ce critère, les dépenses récurrentes sont considérées comme des dépenses courantes. À l’inverse, si la dépense prend la forme d’une dépense unique, il s’agit probablement d’une dépense en capital.
+[75] Dans l’arrêt British Insulated and Helsby Cables v. Atherton[17] de la Chambre des lords, le vicomte Cave a précisé que le critère de la dépense récurrente ne sera pas déterminant dans tous les cas, affirmant [traduction] qu’« il est facile d’imaginer bon nombre de cas dans lesquels un paiement, bien que fait "une fois pour toutes" serait à juste titre déductible des recettes pour l’année »[18]. Les professeurs Hogg, Magee et Li formulent les commentaires suivants relativement aux lacunes du critère de la dépense récurrente, énoncé pour la première fois dans l’arrêt British Insulated :
+[traduction]
+Il a été dit, mais sans qu’on le propose comme critère concluant, qu’une [traduction] « dépense en capital est une dépense qui est faite une fois pour toutes et qu’une dépense au titre du revenu est une dépense qui se reproduit chaque année ». Si un paiement est une dépense unique, il s’agit généralement d’une dépense en capital, et s’il fait partie de multiples paiements périodiques faits de façon continue, il s’agit généralement d’une dépense courante. C’est ce qui ressort, par exemple, des faits des deux décisions examinées précédemment : dans l’affaire B.P. Australia Ltd. [v. Commissioner of Taxation of the Commonwealth of Australia, (1966)], la dépense courante était une dépense récurrente, alors que dans l’affaire Sun Newspapers Ltd. [v. Federal Commissioner of Taxation, (1938)], la dépense en capital ne l’était pas.
+Toutefois, le critère de la dépense récurrente ne pose tout simplement pas la bonne question. Il n’est pas toujours vrai qu’une dépense en capital est faite « une fois pour toutes », parce que bon nombre d’entreprises achètent de nouvelles immobilisations chaque année. Par exemple, les dépenses annuelles pour acheter de nouvelles machines, de nouveaux camions, etc. sont récurrentes, mais il s’agit de dépenses en capital parce que chacune procure à l’entreprise un avantage durable. Par contre, une dépense courante, qui procure à l’entreprise un avantage qui est épuisé dans l’année en cours, pourrait être de type inhabituel ou non récurrent. Une indemnité de départ versée à un employé de niveau supérieur lors de son congédiement en est un exemple. Malgré ses faiblesses en tant que critère, la distinction entre les dépenses récurrentes et les dépenses non récurrentes est donné qu’elle établit une utile, étant quand même ligne de démarcation très grossière, mais peut-être utilisable, entre les dépenses en capital qui peuvent, d’une manière réaliste, être capitalisées et celles qui ne peuvent l’être[19].
+[C’est moi qui souligne.]
+[76] Dans l’arrêt British Insulated, le vicomte Cave a proposé un critère additionnel axé sur l’effet de la dépense plutôt que sur sa forme; il a déclaré ce qui suit :
+[traduction]
+[…] lorsqu’une dépense est faite non seulement une fois pour toutes, mais dans le but de créer un bien ou un avantage qui profitera de façon durable à une entreprise, je crois qu’il y a de très bonnes raisons (en l’absence de circonstances spéciales menant à la conclusion contraire) de considérer une telle dépense comme étant juste à titre imputable non pas au revenu, mais au capital[20].
+Ainsi, si la dépense entraîne un avantage durable, elle devrait être traitée comme une dépense en capital (le « critère de l’avantage durable »). Par contre, si l’effet de la dépense ne se prolonge pas au-delà de l’année d’imposition au cours de laquelle elle a été engagée, une déduction au titre des dépenses courantes devrait être possible.
+[77] Le dernier critère est axé sur l’objet ou la justification sous-tendant la dépense. Ce critère est généralement attribué au juge Dixon, statuant dans l’affaire Sun Newspapers[21]. Selon ce critère, si une dépense est engagée relativement à quelque chose qui est lié au processus consistant à gagner un revenu, cela tend à indiquer qu’elle a été engagée au titre des dépenses courantes. À l’inverse, une dépense est une dépense en capital si elle est engagée dans le cadre de l’exécution proprement dite d’une opération qui a pour résultat l’acquisition d’une immobilisation ou encore la création, l’amélioration ou l’expansion de l’entreprise d’un contribuable[22].
+[78] Dans l’arrêt Ikea Ltd. c. Canada., la Cour suprême du Canada indique que l’objet sous-jacent d’une dépense doit être pris en considération dans le contexte de l’entreprise du contribuable[23]. Le juge Iacobucci a approuvé que par le juge de la Cour canadienne de l’impôt ait traité un paiement d’incitation à la location comme un revenu, étant donné que cette conclusion « reposait sur une analyse globale du rôle du [paiement] dans l’entreprise exploitée par Ikea, ainsi que des fins pour lesquelles ce paiement avait été négocié et obtenu »[24]. Dans l’arrêt Morguard Corporation c. Canada, la Cour d’appel fédérale a confirmé que le critère appliqué dans l’arrêt Ikea comportait l’examen de « l’objet commercial du paiement et [de] ses liens avec les activités commerciales du bénéficiaire »[25].
+[79] Compte tenu de ce qui précède, les dépenses peuvent être catégorisées en fonction de leur forme (dépense récurrente ou unique), de leur effet (avantage durable) ou de leur objet. Étant donné que des dépenses peuvent être engagées pour de nombreuses raisons, les tribunaux ont précisé que les critères susmentionnés doivent être appliqués au cas par cas. En d’autres termes, il n’y a pas de formule consacrée quant à leur application. Les tribunaux doivent adopter une approche fondée sur le bon sens, prenant en considération les circonstances et les faits particuliers entourant la dépense en question, ainsi que l’effet envisagé de la dépense d’un point de vue pratique et commercial.
+(2) Les dépenses engagées dans le cadre du processus de prise de décision ou de surveillance [80] L’appelante a présenté des observations dans lesquelles elle s’étendait sur la question de la déductibilité des frais engagés dans le cadre du processus de prise de décision ou de surveillance. Comme l’appelante le souligne, avec raison, la jurisprudence appuie la ligne de démarcation qu’elle a tracée entre les dépenses liées à la surveillance et les coûts d’exécution. Par exemple, dans la décision Bowater Power Co. c. M.R.N.[26], la Cour fédérale a conclu que les coûts des études techniques qui ont été menées pour décider de la faisabilité de la production de l’énergie sur certains sites étaient des dépenses courantes. En tranchant en faveur de Bowater, la Cour fédérale a fait remarquer ce qui suit à la page 443 CF, 5481 DTC :
+Je ne pense pas, certes, que du simple fait que la dépense a été effectuée dans le but de déterminer si on devait créer une immobilisation, elle doive toujours être considérée comme une dépense de capital et, partant, non déductible. En faisant une distinction entre un paiement de capital et un paiement au compte courant, il faut toujours tenir compte des réalités industrielles et commerciales en cause. Bien que la mise en valeur hydro-électrique, une fois devenue une entreprise ou un commerce réels, constitue une immobilisation de l’entreprise lui donnant naissance, quelque moyen raisonnable qui ait pu être pris pour découvrir si elle devait être créée ou non, peut encore provenir des activités courantes de l’entreprise comme faisant partie du souci quotidien de ses dirigeants dans la conduite bien ordonnée de la compagnie. En fait, je ne vois aucune différence de principe entre toutes ces situations.
+[C’est moi qui souligne.]
+[81] Le raisonnement de la Cour fédérale dans la décision Bowater se reflète dans celui qui a été adopté par l’appelante en l’espèce.
+[82] Dans la décision Wacky Wheatley’s TV & Stereo Ltd. c. M.R.N.[27], cette Cour a adopté un raisonnement analogue à celui de la Cour fédérale dans la décision Bowater. Dans l’affaire Wacky Wheatley’s, la contribuable avait engagé des frais de déplacement pour examiner la faisabilité de son plan d’expansion de son entreprise d’appareils audio en Australie. La Couronne a fait valoir qu’il fallait considérer que les frais de déplacement constituaient des dépenses en capital, car ils étaient potentiellement liés à la création d’une nouvelle structure d’entreprise en Australie. Le juge Brulé, en tranchant en faveur de la contribuable, a souligné ce qui suit à la page 579 DTC :
+[. . .]Robert Wheatley a déclaré dans sa déposition que Wacky Wheatley’s était « orienté vers le développement », qu’auparavant des débouchés dans divers marchés des États-Unis et du Canada avaient été étudiés et que parfois les projets à cet égard ont été mis à exécution. Pendant ses dix années d’activité, Wacky Wheatley’s s’est agrandi au point de compter huit magasins de détail; un développement plus poussé était aussi prévu.
+[…]
+Dans l’affaire en cause, la preuve démontre que le développement vers de nouveaux marchés constituait une préoccupation constante des appelants. Je suis d’avis que les dépenses en cause découlaient des activités courantes de chacun des appelants « comme faisant partie du souci quotidien de ses dirigeants dans la conduite bien ordonnée de la compagnie ».
+De nos jours, beaucoup d’entreprises dépensent de l’argent pour maintenir ou augmenter leur part du marché dans un climat de concurrence de plus en plus vif. C'est pourquoi plusieurs compagnies dépensent des sommes considérables à des fins de publicité, de promotion et d’études de marché. Les dépenses ici en cause sont faites, selon moi, dans une telle perspective. Ces sommes ont été dépensées pour établir la rentabilité du marché australien et faisaient partie des dépenses courantes des appelants. Cette caractérisation tient compte « des réalités industrielles et commerciales en cause ».
+[C’est moi qui souligne.]
+[83] L’appelante fait également valoir que l’ARC, a dans son bulletin d’interprétation IT‑475 intitulé « Dépenses pour la recherche et pour le développement de l’entreprise » donné son aval aux principes énoncés dans les décisions Bowater et Wacky Wheatley’s :
+3. Un contribuable peut poursuivre un programme permanent de recherche ayant pour but de maintenir ou d’améliorer la situation de son entreprise dans l’industrie. Les dépenses relatives à un tel programme de recherche sont traité[e]s comme des dépenses courantes qui sont déductibles du revenu dans les années où elles ont été engagées, nonobstant le fait qu’il arrive parfois qu’une acquisition de biens en immobilisations résulte de ce programme de recherche.
+[…]
+5. Les dépenses faites dans le cadre de l’entreprise ordinaire du contribuable pour des recherches visant à déterminer si un bien en immobilisations doit être créé ou acquis, mais qui ne sont pas directement reliées à la création ou à l’acquisition d’un bien en immobilisations, sont des dépenses d’opérations courantes qui sont déductibles dans l’année où elles sont engagées. Cependant, une fois prise la décision de procéder au projet en particulier, toutes les dépenses reliées directement à la création ou à l’acquisition d’un bien en immobilisations entrent dans le coût en capital de ce bien, à moins que ce bien ne soit pas créé ou acquis. Dans ce dernier cas, les honoraires d’architecte ou d’ingénieur et autres dépenses relatives à la création ou à l’acquisition envisagée d’un bien en immobilisations précis sont des dépenses en immobilisations admissibles (suivant la définition de l’alinéa 15(5)b)) et une déduction est permise en vertu de l’alinéa 20(1)b) de la Loi, pourvu que les dépenses soient engagées dans le cadre d’une entreprise exploitée par le contribuable. S’il n’y a pas d’entreprise au moment où les dépenses sont engagées, celles-ci ne sont pas déductibles.
+[C’est moi qui souligne.]
+[84] Dans les observations écrites qu’elle a présentées, l’appelante fait remarquer que les dépenses liées à la surveillance sont traitées au Royaume‑Uni comme des dépenses courantes à des fins d’imposition. Ce résultat est fondé sur l’article 75 de l’Income and Corporation Taxes Act 1988 (l’« ICTA »), qui prévoit que les [traduction] « dépenses de gestion » (« expenses of management ») sont déductibles à titre de dépenses courrantes, sans définir ce qu’il faut entendre par « dépenses de gestion ». Dans l’arrêt HM Inspector of Taxes v Camas Plc[28], la Cour d’appel a conclu que les frais payés pour les conseils d’un tiers dans le cadre du processus de prise de décision relativement à une acquisition potentielle étaient des [traduction] « dépenses de gestion », car les conseils [traduction] « […] étaient préparatoires à la prise de la décision d’acheter, et ne faisaient pas partie de l’exécution d’une acquisition déjà décidée »[29].
+[C’est moi qui souligne].
+[85] Quoique la Loi ne comporte pas de disposition analogue à celle de l’article 75 de l’ICTA, les décisions Bowater et Wacky Wheatley’s traduisent un raisonnement très similaire fondé sur les principes généraux énoncés dans la jurisprudence canadienne. La position de l’ARC concernant les dépenses engagées au titre de la recherche, exposée dans le bulletin d’interprétation IT‑475, est également semblable au raisonnement adopté par la Cour d’appel dans l’arrêt Camas.
+[86] L’intimée souligne à juste titre que l’appelante a acquis les actions de Pechiney pour les conserver à long terme dans le but d’obtenir un avantage durable. Il est reconnu de part et d’autre que les actions constituent des biens en immobilisation. Comme il a déjà été mentionné, l’intimée fait valoir que les dépenses contestées sont des dépenses en capital parce qu’elles ont été engagées dans le contexte de l’opération Pechiney. L’intimée invoque les décisions Neonex International Ltd. c. Canada.[30], Rona Inc. c. La Reine[31] et Firestone c. Canada[32] au soutien de son argument à cet égard.
+[87] Je fais remarquer que, dans les décisions invoquées par l’intimée, il n’est pas explicitement question du traitement fiscal de dépenses engagées pour des travaux effectués en vue d’aider les membres du conseil d’administration dans le processus de surveillance et de prise de décision. En outre, les arrêts Neonex et Firestone ont été rendus avant l’arrêt Ikea. L’arrêt Ikea met l’accent sur l’importance du critère de l’objet et sur la nécessité pour les tribunaux de procéder à un examen critique de l’objet sous-tendant une dépense dans le contexte de l’entreprise du contribuable. Ces derniers temps, les actionnaires exigent de plus en plus que les administrateurs surveillent davantage les activités des sociétés publiques. Dans le monde contemporain des sociétés, les actionnaires s’attendent à ce que les administrateurs exercent le même niveau de surveillance à l’égard des opérations importantes que celui qui est exercé par des investisseurs bien conseillés. Les actionnaires s’attendent à ce que les membres du conseil d’administration remettent en question les propositions qui leur sont présentées par la direction et à ce qu’ils demandent conseil à des professionnels indépendants pour les guider dans le processus décisionnel. Les actionnaires tiendront les administrateurs personnellement responsables si ceux-ci manquent à leur obligation de diligence à cet égard.
+[88] En termes simples, les dépenses liées à la surveillance sont des dépenses courantes parce qu’elles se rapportent à la gestion du processus générateur de revenus d’une société. Une saine gestion comprend l’affectation ou la réaffectation judicieuse du capital en vue de maximiser les revenus gagnés par la société. Une surveillance inefficace du processus d’affectation du capital peut avoir des conséquences catastrophiques, et donne souvent lieu à une diminution des revenus et du flux de trésorerie et, par conséquent, à l’anéantissement de la valeur actionnariale. Dans ce contexte, les dépenses liées à la surveillance sont engagées en vue de gagner des revenus. Les dépenses liées à la surveillance ne créent pas en elles-mêmes des avantages durables pour les contribuables. C’est plutôt l’exécution effective d’une opération en capital approuvée qui crée l’avantage durable. Dans ce contexte, la Cour doit examiner attentivement la preuve, en tenant dûment compte du fardeau de la preuve applicable, afin de s’assurer que les dépenses traitées par le contribuable comme des dépenses courantes se rapportent réellement à des conseils fournis au conseil d’administration pour l’aider dans le processus décisionnel entrepris dans le cadre de l’exercice de sa fonction de surveillance. Cela est à mettre en contraste avec les dépenses engagées dans le cadre de l’exécution d’une opération menant à l’acquisition d’un bien en immobilisation. Dans ce dernier contexte, la Cour doit examiner l’objet principal des travaux exécutés. Les travaux ont-ils été commandés principalement pour aider dans le processus de surveillance ou de gestion, ou étaient-ils principalement liés à l’exécution d’une transaction fait au titre du capital?
+[89] J’appliquerai maintenant ces principes à mon analyse de la position des parties et à mon examen de la preuve. En ce qui concerne les frais de services de conseils payés à Morgan Stanley et à Lazard Frères, mon examen portera sur la question de savoir si la preuve étaye l’affirmation de l’appelante selon laquelle ces frais étaient liés au processus de prise de décision et de surveillance.
+B. Y a‑t‑il des dépenses contestées qui sont déductibles à titre de dépenses courantes en vertu du paragraphe 9(1) de la Loi? (1) Les frais payés à Morgan Stanley et à Lazard Frères sont-ils déductibles à titre de dépenses courantes en vertu du paragraphe 9(1) de la Loi? a) Pechiney [90] L’appelante cherche à déduire en vertu du paragraphe 9(1) de la Loi, 18 887 115 $ sur le montant total de 26 051 194 $ qu’elle a payé à Morgan Stanley pour des services relatifs à l’opération Pechiney. Cela correspond à 72,5 p. 100 du montant total payé à Morgan Stanley. Ce pourcentage est fondé sur la ventilation suivante des frais fournie par Morgan Stanley dans une lettre datée du 18 juin 2004 :
+a) 30 p. 100 attribué aux services généraux de conseils rendus avant le 1er juin 2003;
+b) 25 p. 100 attribué aux efforts d’enquête et de diligence raisonnable déployés avant le 7 juillet 2003 (la date à laquelle l’offre a été rendue publique). Ces activités comprenaient notamment l’examen de renseignements financiers généraux, des analyses de marché, des analyses sectorielles ainsi que des analyses de la structure du capital afin d’évaluer l’opportunité d’effectuer l’opération;
+c) 10 p. 100 attribué à la fourniture à Alcan avant le 7 juillet 2003 (la date à laquelle l’offre a été rendue publique), d’un avis financier concernant le caractère équitable de la contrepartie;
+d) 7,5 p. 100 (ou la moitié du montant total de 15 p. 100) attribué à l’analyse relative aux offres modifiées et révisées[33].
+[91] La preuve démontre que Morgan Stanley avait une relation de longue date avec Alcan avant l’opération Pechiney. Ils avaient également participé à la tentative ratée d’Alcan de fusionner avec Pechiney en 1999. Ils ont commencé à travailler sur la proposition renouvelée d’Alcan relative à l’acquisition de Pechiney vers la fin de l’année 2002, soit environ six mois avant l’annonce publique de l’offre initiale le 7 juillet 2003[34]. Les témoignages non contredits de MM. McAusland et Healy confirment que Morgan Stanley a travaillé sur le modèle financier de l’opération et a rédigé des avis financiers et des avis d’évaluation, le tout ayant pour but de fournir au conseil d’administration de l’appelante ce qui fallait pour effectuer un examen critique de l’opération proposée, avant de l’approuver. Par exemple, le 13 décembre 2002, Morgan Stanley a préparé pour le conseil d’administration de l’appelante une présentation sur l’impact financier et sur les considérations de financement pertinentes à l’égard d’une opération possible avec Pechiney[35]. Des présentations similaires ont été faites entre le mois d’avril 2003 et le 2 juillet 2003, jour où l’opération a finalement été approuvée par le conseil d’administration d’Alcan[36].
+[92] Je constate que l’appelante a dépensé environ 2 605 119 $[37] pour l’attestation d’équité que Morgan Stanley a remise au conseil d’administration[38]. Cette attestation représentait le point culminant de l’analyse financière fournie aux administrateurs de l’appelante. L’attestation avait pour objet de documenter les considérations financières dont les administrateurs de l’appelante avaient tenu compte dans leur décision d’approuver la transaction.
+[93] La loi n’exige pas d’attestation d’équité. Les administrateurs de l’appelante auraient pu approuver l’opération en l’absence d’une telle attestation. L’objet de l’attestation était donc de documenter le fait que les administrateurs de l’appelante s’étaient acquittés de leurs obligations de surveillance en agissant après avoir obtenu toute l’information voulue. L’attestation d’équité est un élément de preuve qui peut être utilisée afin de démontrer que les administrateurs ont fait preuve de diligence raisonnable lorsqu’ils ont approuvé l’opération. Dans ce contexte, le travail consacré à l’attestation d’équité n’était pas, comme le prétend l’intimée, effectué dans le cadre de l’exécution effective de l’opération Pechiney.
+[94] L’intimée prétend que, d’après la preuve, l’appelante cherchait à acquérir Pechiney depuis l’échec de sa première tentative au moyen d’une fusion amicale à trois parties. L’appelante a attendu le moment opportun pour tenter à nouveau d’acquérir Pechiney. Selon l’intimée, l’appelante a simplement changé de tactique en s’adressant directement aux actionnaires de Pechiney par le moyen d’une offre publique d’achat hostile, laquelle avait pour effet de contourner toute opposition provenant de la direction de Pechiney.
+[95] Selon moi, la version des faits présentée par l’intimée et une simplification excessive de ce qui s’est produit. Les marchés changent rapidement. Des opérations peuvent avoir un effet relutif dans certaines conditions du marché, et non dans d’autres. La modélisation financière doit tenir compte des changements de contexte. Les taux d’intérêt, le coût global du capital, le prix des produits de base, les perspectives de croissance et les synergies prévues ne sont que quelques-uns des facteurs que le conseil d’administration doit examiner minutieusement avant de s’engager dans une acquisition. Un autre élément important dont il faut tenir compte est l’intérêt des diverses parties prenantes dans une opération. Certaines de celles-ci pourront tenter de bloquer une offre publique d’achat s’ils sont d’avis que l’acquisition va à l’encontre de leurs intérêts. Au moment de l’opération Pechiney, la France avait récemment modifié la loi applicable de manière à permettre les offres publiques d’achat hostiles qui étaient assujetties aux approbations réglementaires. Ayant à l’esprit ce contexte, je suppose que les actionnaires auraient facilement pu influencer les autorités publiques s’ils avaient estimé que l’offre de l’appelante avait une incidence défavorable sur leurs intérêts. Par exemple, on peut demander à l’offrant d’augmenter le prix offert ou de garantir le maintien des emplois ainsi qu’un certain niveau de dépenses en immobilisations afin de surmonter l’opposition. Compte tenu de l’ensemble de ces facteurs, un modèle financier contemporain doit être préparé, de manière à fournir au conseil d’administration les renseignements pertinents nécessaires pour déterminer les modalités qui pourraient rendre une opération avantageuse pour les actionnaires de la société.
+[96] La preuve démontre que c’est ce qui a été fait en l’espèce. Cela n’est pas surprenant. Les administrateurs doivent, dans le cadre du processus de surveillance, constamment se demander si les affaires qu’ils sont appelés à surveiller auront pour effet d’accroître ou de diminuer les revenus de la société. Compte tenu des nombreuses acquisitions faites par l’appelante avant son acquisition de Pechiney, l’examen minutieux des possibilités qui s’offraient à la société semble avoir été un souci constant des administrateurs de l’appelante, et était intrinsèquement lié au processus de génération de revenus.
+[97] Je soupçonne que le ministre n’aurait pas refusé la déduction des dépenses contestées si l’appelante avait simplement embauché des employés additionnels pour effectuer le travail de prestation de services de conseils qui a été effectué par Morgan Stanley et Lazard Frères. Le ministre n’aurait pas exigé que l’appelante suive la trace des salaires et des avantages sociaux de ces employés et qu’elle les rattache au travail exécuté relativement à l’analyse financière de l’opération Pechiney. Dans la présente affaire, rien ne donne à penser qu’une partie du salaire et des avantages sociaux et des jetons de présence versés à M. McAusland par l’appelante n’est pas déductible du fait qu’il s’agit de montants versés, à l’égard des opérations Pechiney et Novelis. Bien que les conseils fournis à l’interne coûtent souvent moins cher, ceux‑ci ne peuvent, de façon fiable, être substitués aux conseils fournis par un tiers indépendant. Une surveillance efficace nécessite des avis indépendants, de manière à ce que les conseils sur lesquels le conseil s’appuie pour approuver une dépense en capital ne soient pas faussés par des intérêts personnels. Mon opinion à ce sujet est appuyée par l’arrêt Pantorama Industries Inc. c. Canada.[39] de la Cour d’appel fédérale. Dans cette affaire, la contribuable avait envoyé un entrepreneur pour trouver des emplacements pour ses magasins et pour négocier en son nom les baux et les reconductions de bail. Le juge Noël (tel était alors son titre) statuant que les honoraires versés à l’entrepreneur constituaient des dépenses courantes, a conclu que « le fait que l’appelante ait décidé de sous-traiter cet aspect de son entreprise ne devrait avoir aucune incidence sur le traitement fiscal de cette dépense »[40].
+[98] Je conclus que l’appelante peut déduire les dépenses liées à la surveillance. La preuve démontre que les dépenses liées à la surveillance sont fréquentes et récurrentes pour cette contribuable. Plus important encore, les dépenses liées à la surveillance sont déductibles, parce qu’elles ont été engagées afin de faciliter la surveillance exercée par le conseil d’administration sur le processus de génération de revenus, ce qui comprend, comme il a été mentionné précédemment, la surveillance exercée sur l’affectation des capitaux. Une surveillance inefficace des administrateurs a un effet domino destructeur pour une société; elle mène à une mauvaise prise de décisions, laquelle conduit à de faibles revenus, ce qui entraîne ensuite un faible cours des actions. À cet égard, les dépenses liées à la surveillance engagées par l’appelante font partie de ses coûts d’exploitation annuels.
+[99] Je n’accepte toutefois pas à l’argument de l’appelante selon lequel les dépenses engagées pour le travail exécuté par Morgan Stanley relativement aux offres modifiées et révisées peuvent être qualifiées de dépenses courantes. La preuve révèle que, aux environs d’août 2003, l’appelante était en négociation avec le conseil d’administration de Pechiney au sujet des modalités d’une offre bonifiée. Ces négociations ont abouti à une hausse du prix offert pour les actions de Pechiney. Le conseil d’administration de l’appelante n’a pas adopté une nouvelle résolution pour approuver l’offre révisée. Je suppose que les conseillers juridiques de l’appelante ont conclu que la résolution initiale du conseil d’administration était rédigée en des termes assez larges pour autoriser toute modifications de l’offre de l’appelante. Considérée dans ce contexte, l’offre initiale serrait à créer un cadre pour des négociations qui ont mené à une offre plus favorable, dont le conseil d’administration de Pechiney a en fin de compte recommandé l’acceptation. Selon moi, le travail effectué par Morgan Stanley dans le contexte de négociations en cours était davantage lié à l’exécution de l’opération.
+[100] Compte tenu de tout ce qui précède, je conclus que l’appelante a le droit de déduire, à titre de dépense courante, 65 p. 100[41] des frais versés à Morgan Stanley pour les services de consultation fournis relativement à l’examen et à l’approbation de l’opération Pechiney par le conseil d’administration de l’appelante.
+[101] L’appelante demande aussi la déduction, en vertu du paragraphe 9(1) de la Loi, de 5 297 652 $ sur le montant total de 8 150 233 $ qu’elle a versé à Lazard Frères pour des services liés à l’opération Pechiney. Cela représente 65 p. 100 du montant total versé à Lazard Frères. À la demande de l’appelante, Lazard Frères a présenté une ventilation des frais liés aux divers services qu’elle avait fournis relativement à l’opération Pechiney[42]. Trente‑cinq pour cent des frais que l’appelante a versés à Lazard Frères étaient attribués à des conseils professionnels fournis au conseil d’administration de l’appelante sur la question de savoir s’il devait approuver, et selon quelles modalités, une offre visant la totalité des actions de Pechiney. La preuve démontre que le travail de Lazard Frères comprenait du travail d’évaluation et la modélisation des possibles synergies qui pourraient résulter de l’opération[43]. À l’audience, M. Maris a témoigné que Lazard Frères avait commencé à travailler pour Alcan sur l’opération Pechiney 18 mois avant que l’opération soit annoncée publiquement en juillet 2003[44]. Pour les motifs exposés précédemment, je suis convaincu que les frais versés pour l’accomplissement de ce travail sont déductibles à titre de dépenses courantes.
+[102] Pour les motifs aussi exposés précédemment, je ne partage pas l’opinion de l’appelante selon laquelle les frais exigés par Lazard Frères pour le travail qu’elle avait effectué relativement à la négociation et à la révision de l’offre de l’appelante sont déductibles à titre de dépenses courantes. Par conséquent, seulement 35 p. 100 des frais versés à Lazard Frères pour des conseils fournis relativement à l’opération Pechiney sont déductibles en vertu du paragraphe 9(1) de la Loi[45].
+b) Novelis [103] L’appelante prétend que son conseil d’administration a retenu les services des sociétés Morgan Stanley et Lazard Frères pour qu’elles fournissent des conseills quant à celui des scénarios de dessaisissement qui serait le plus favorable pour ses actionnaires. Par conséquent, soutient l’appelante, ces dépenses ont été engagées relativement aux fonctions de prise de décisions et de surveillance du conseil d’administration plutôt que dans le contexte de l’exécution de la scission.
+[104] M. Maris a déclaré dans son témoignage que Lazard Frères avait commencé son travail de consultation relativement à l’opération Novelis immédiatement après la conclusion de l’opération Pechiney. Lazard Frères a reçu le mandat d’effectuer l’analyse et la modélisation financières pour deux opérations possibles. Son témoignage à cet égard n’a pas été contesté par l’intimée dans son contre‑interrogatoire ou ses observations écrites[46]. D’un côté, on demandait à Lazard Frères de fournir au conseil d’administration de l’appelante des conseils sur les considérations financières qui étaient pertinentes dans le contexte d’une vente pure et simple de Novelis. En même temps, Lazard Frères devait donner au conseil d’administration des conseils sue les considérations financières qui étaient pertinentes relativement à une scission touchant Novelis.
+[105] Pour s’acquitter de ses mandats, Lazard Frères a suivi un processus double d’un examen financier et consultation[47]. En ce qui a trait à l’option de vente pure et simple, Lazard Frères a recommandé à l’appelante de solliciter des expressions d’intérêt auprès de sociétés de capital‑investissement ainsi que d’acheteurs institutionnels et stratégiques. Lazard Frères a organisé le processus d’expression d’intérêt afin d’établir la justesse des conseils financiers qu’elle a finalement donnés au conseil d’administration de l’appelante pour lui permettre de faire un choix entre les deux options. Une deuxième équipe travaillait à la modélisation financière de la scission.
+[106] La preuve démontre que le processus de prestation de services de conseils financiers relativement à l’opération Novelis s’est déroulé sur une longue période en raison des complexités résultant de l’examen simultané des deux options. Pour cette raison, l’attestation d’équité a été remise au conseil d’administration le 23 novembre 2004. Le conseil d’administration a officiellement approuvé la scission lors de cette même réunion[48], et la scission a été finalisée le 6 janvier 2005[49].
+[107] Je souscris à l’observation de l’appelante selon laquelle la preuve démontre qu’essentiellement tout le travail exécuté par Lazard Frères relativement à l’opération Novelis se rapportait à des conseils de nature financière fournis dans le cadre du processus de surveillance. Je constate que, sur les 389 jours au total qu’elle a consacrés à l’opération Novelis, Lazard Frères en a passé approximativement 345 à travailler sur cette opération avant que celle-ci ne soit définitivement approuvée. Cela représente 88,69 p. 100 du nombre total de jours que Lazard Frères a consacrés à la prestation de services de conseils relativement à l’opération. En l’absence de preuve contraire, je conclus que 88,69 p. 100 du montant total de 16 031 657 $ dont l’appelante demande la déduction pour son année d’imposition 2005 est déductible à titre de dépense courante[50].
+[108] En ce qui concerne l’opération Novelis, Morgan Stanley a aussi fourni des conseils stratégiques se rapportant aux deux possibilités de dessaisissement. Comme l’a indiqué M. Healy dans son témoignage au procès, Morgan Stanley a accompli son travail du 1er octobre 2003 au 5 janvier 2005[51]. L’appelante a demandé, pour son année d’imposition 2004, laquelle était prescrite au moment du début de la vérification relative à cette transaction, la déduction d’une partie importante des frais versés à Morgan Stanley relativement à l’opération Novelis. Par conséquent, le ministre n’a pas refusé la déduction des frais versés à Morgan Stanley réclamée par l’appelante pour 2004.
+[109] L’appelante cherche à déduire le montant de 296 863 $[52] qu’elle a versé à Morgan Stanley, lequel montant se rapporte à des dépenses remboursables engagées relativement à la scission Novelis. La Cour ne dispose pas d’une preuve suffisante pour conclure que ces dépenses ont été engagées à l’égard de conseils fournis aux administrateurs de l’appelante relativement à leur fonction de surveillance. La facture faisant état de ce montant n’explique pas la nature de ces dépenses et des services auxquelles elles se rapportent. Les témoignages de MM. Healy et McAusland ne nous éclairent pas davantage à cet égard. Cela étant, l’appelante ne s’est pas acquittée de son fardeau de la preuve en ce qui concerne cette dépense.
+(2) Les frais versés à Valmonde et à Publicis sont-ils déductibles à titre de dépenses courantes en vertu du paragraphe 9(1) de la Loi? [110] L’appelante a retenu les services de Publicis afin qu’elle s’occupe de sa stratégie de communication dans le but d’appuyer son offre publique d’achat hostile de Pechiney. L’appelante a officialisé sa relation avec Publicis le 11 juin 2003[53], soit quelques semaines avant l’approbation de l’opération Pechiney par le conseil d’administration de l’appelante le 2 juillet 2003.
+[111] L’appelante a versé une somme totale de 18 983 316 $ à Publicis. L’appelante a soutenu que 50 p. 100 des frais avaient été engagés pour faire la promotion de la marque d’Alcan, alors que les 50 p. 100 restants l’avaient été pour obtenir l’appui des actionnaires de Pechiney à l’égard de son offre d’achat. Initialement, l’appelante a déduit 9 491 658 $ à titre de dépenses courantes du fait que les frais pour les services de conseils en matière de communication étaient des frais de publicité engagés afin d’accroître le bénéfice que l’appelante tirait de ses activités commerciales. Le reste des frais a été ajouté au prix de base rajusté des actions de Pechiney. L’appelante affirme maintenant que le plein montant est déductible à titre de dépense courante parce que le principe général de la déductibilité devrait s’appliquer aux frais de publicité. L’appelante prétend également que les services de promotion et de publicité fournis par Publicis avaient notamment pour objet la création d’un marché pour les actions de son capital‑actions qu’elle a émises en contrepartie partielle des actions de Pechiney.
+[112] En toute déférence, je ne souscris pas à l’argument de l’appelante selon laquel ces dépenses ont été engagées afin d’accroître les bénéfices de l’entreprise ou afin de régler un problème d’affaires qui se posait. Compte tenu de la preuve qui m’a été présentée, je conclus que l’objet sous‑tendant les frais payés à Publicis était celui de faciliter l’exécution sans accroc de l’acquisition de Pechiney. La preuve révèle qu’il s’agissait de la première offre publique d’achat hostile visant une société qui était perçue comme un joyau national de la France. L’appelante avait donc des motifs de croire que son offre d’achat pourrait se heurter à une résistance ferme de la part des parties intéressées qui seraient touchées par la transaction. Il était primordial que l’appelante élabore une stratégie de communication pour répondre aux préoccupations légitimes des parties intéressées et pour empêcher que le processus décisionnel devienne trop politisé. Si on s’était enlisé dans un bourbier politique, cela aurait pu occasionner l’échec coûteux de l’opération.
+[113] La preuve révèle que l’appelante a retenu les services de Publicis notamment pour obtenir les services de M. Levy et de M. Giuily. Il ressort de la preuve que M. Giuily avait des relations dans le monde politique français. Comme le révèle une lettre confirmant son mandat, que Publicis Consultants a envoyée à Alcan, M. Giuily avait déjà travaillé au ministère de l’Intérieur de la France. Par conséquent, il était extrêmement bien placé pour faire du lobbying auprès des décideurs politiques et influencer leurs points de vue sur l’opération Pechiney. Il est de notoriété publique que les opposants à une offre publique d’achat hostile invoqueront divers facteurs pour justifier leur opposition à l’offre, y compris le spectre de la perte d’emplois, des baisses des dépenses en capital, le démantèlement de l’infrastructure du siège social, l’incidence sur les fournisseurs locaux, ainsi que la diminution des recettes fiscales sur les plans local et national. Si les électeurs sont préoccupés, leurs élus le seront également. L’appelante a dû faire la promotion d’une vision positive de son projet visant Pechiney. Publicis avait reçu comme mandat d’élaborer et de mettre en œuvre une stratégie visant à vaincre l’opposition naturelle prévue à l’offre de l’appelante. Publicis a exécuté ce mandat en présentant l’appelante comme une société qui gérerait bien les opérations de Pechiney.
+[114] Tout ce qui précède est confirmé par la preuve. Comme l’intimée le souligne, le mandat confié à Publicis a été correctement énoncé dans la lettre de mission, laquelle est ainsi libellée :
+Lors de nos récentes réunions, vous avez bien voulu nous faire part de votre souhait de nous confier une mission d’assistance et de conseil sur la définition et la mise en œuvre de votre communication et de vos relations publiques, dans le cadre de l’opération boursière que vous étudiez actuellement (Projet Blue)[54].
+[115] Le « Projet Blue » est le projet d’acquisition de Pechiney. M. McAusland a reconnu en contre-interrogatoire que Publicis avait été engagé pour [traduction] « inspirer confiance au public en ce qui concerne la gestion que ferait Alcan des actifs de Pechiney »[55].
+[116] L’intimée a attiré l’attention de la Cour sur le témoignage suivant qu’avait donné M. McAusland au cours de son interrogatoire préalable :
+[traduction]
+Donc, avoir de la publicité dans laquelle il y aurait probablement eu — mais là où je veux en revenir, c’est que faire de la publicité portant seulement sur Alcan, sans faire aucune mention de l’opération Pechiney, vous savez, ce ne serait pas nécessairement sensé. On présente Alcan comme entreprise citoyenne, comme société crédible comme gérante de l’entreprise, plutôt que d’insister sur le montant payé pour la société. Donc, il y a la promotion de l’offre, de valeur de l’offre, du fait qu’il est souhaitable, sur le plan financier, d’accepter l’offre parce qu’il s’agit d’une bonne affaire. Ça, c’est une chose. Puis, présentation d’Alcan comme étant une bonne gérante et une excellente entreprise citoyenne et propriétaire, c’est une autre chose. Mais, la deuxième chose, la gérante, est également liée à l’offre de Pechiney, mais pas à l’aspect financier ni au fait qu’il s’agit d’une bonne affaire pour les actionnaires; c’est l’aspect gérance et le fait que le public devrait avoir confiance en Alcan comme bonne gérante de ces actifs incroyablement importants. (Tel que lu.)[56]
+[C’est moi qui souligne.]
+[117] Il ressort de la preuve que Publicis a été engagée pour promouvoir une vision positive de l’opération, et ce, dans le but de gagner la confiance des différentes parties intéressées touchées par une acquisition de Pechiney.
+[118] Comme je l’ai mentionné dans mes observations quant à la crédibilité, il y avait un certain nombre de contradictions dans le témoignage de M. Giuily. Celui‑ci avait établi une ventilation des frais payés à Publicis pour appuyer une répartition qui militait en faveur de leur traitement comme des dépenses courantes; toutefois, comme l’intimée l’a également souligné, à juste titre, dans ses observations écrites, les factures sur lesquelles M. Giuily s’est fondé pour faire sa répartition des frais payés à Publicis n’étayent pas son point de vue[57].
+[119] Compte tenu de la preuve dont je suis saisi, je conclus que la dépense relative à la stratégie de communication, et donc les frais payés à Publicis, avait comme but sous‑jacent l’exécution de l’opération Pechiney. L’appelante n’a soumis aucun élément de preuve crédible indiquant que la stratégie de communication avait été entreprise relativement à son entreprise. Je fais remarquer que l’appelante ne vendait pas ses produits directement au public. Ses produits manufacturés sont vendus à des distributeurs et à d’autres manufacturiers. Aucun élément de preuve ne démontre que les consommateurs de produits contenant de l’aluminium provenant de l’appelante ont été visés par la stratégie de communication qui a été élaborée. De plus, l’appelante n’a présenté aucun élément de preuve démontrant que les dépenses en question auraient été engagées s’il n’y avait pas eu l’opération Pechiney. Par conséquent, je conclus que le montant total des frais payés à Publicis constitue une dépense en capital, puisque ce montant a été déboursé afin de faciliter l’exécution de l’opération Pechiney.
+[120] L’appelante cherchait également à déduire la somme de 106 630 $ qui a été versée à Valmonde pour des services accessoires qu’elle avait fournis afin d’aider l’appelante dans sa stratégie de communication. Pour les motifs exposés ci‑dessus, je conclus que ces services ont été fournis à l’appelante dans le cadre de l’exécution de son offre publique d’achat et ne sont donc pas déductibles en vertu du paragraphe 9(1) de la Loi.
+(3) Les autres dépenses diverses engagées par l’appelante dans le cadre de l’opération Pechiney sont-elles déductibles en vertu du paragraphe 9(1) de la Loi? [121] L’appelante demande la déduction d’un montant totalisant 1 780 796 $ relativement à des dépenses diverses qui, selon elle, sont des dépenses courantes engagées dans le cadre de son entreprise.
+[122] L’appelante demande la déduction, à titre de dépense courante, d’une somme totalisant 967 152 $ qui a été versée à Sullivan Cromwell, au motif que la dépense a été engagée pour des conseils fournis au conseil d’administration concernant les obligations fiduciaires du conseil[58]. En outre, la description des services fait mention [traduction] « [d’]autres conseils et services juridiques », y compris des conseils concernant les obligations fiduciaires. La facture elle‑même fait mention de travail effectué relativement à l’opération Pechiney. Compte tenu du fait qu’une grande partie des frais avait trait au loyer et étant donné que M. Miller a présenté très peu d’éléments de preuve concernant ces frais, je conclus que l’appelante ne s’est pas acquittée du fardeau qui lui incombait de prouver que les sommes sont déductibles à titre de dépense courante. Pour ces motifs, je conclus que ces sommes doivent également être capitalisées.
+[123] L’appelante demande la déduction d’une somme totale de 20 054 $ qui a été versée au cabinet d’avocats alors appelé Ogilvy Renault, au motif qu’Ogilvy Renault a aidé le conseil d’administration et les dirigeants à remplir les obligations juridiques liées à leurs fonctions. En faisant sa demande, l’appelante s’est appuyée sur une facture provenant d’Ogilvy Renault qui décrit brièvement les services fournis[59]. La facture ne me permet pas de voir si les honoraires se rapportaient à des conseils donnés dans le cadre du processus de surveillance ou s’ils étaient liés à des coûts d’exécution. La majorité des descriptions figurant sur la facture indiquent que les services se rapportaient à la préparation et à la rédaction du [traduction] « Manuel de l’opération visant le projet JEDI ». L’appelante a également invoqué les témoignages de M. McAusland et de M. Miller. M. McAusland a déclaré dans son témoignage que les conseils d’Ogilvy Renault avaient trait à des questions générales de droit des sociétés, telles que l’émission de valeurs mobilières et les exigences en matière d’enregistrement en ce qui concerne l’opération Pechiney. M. Miller a témoigné que Sullivan Cromwell avait secondé Ogilvy Renault dans la prestation de services de conseils au conseil d’administration, mais je ne peux dégager de cette déclaration la nature précise des services fournis par Ogilvy Renault. Dans l’ensemble, les témoignages concernant les services fournis par Ogilvy Renault étaient vagues. Pour ces motifs, je conclus que la somme versée à Ogilvy Renault était une dépense en capital.
+[124] L’appelante demande la déduction d’une somme totalisant 449 963 $ qui a été versée à Ernst & Young, au motif que cette dépense a été engagée pour des conseils fiscaux. L’appelante n’a appelé personne chez Ernst & Young à venir expliquer le résumé détaillé de la facture. Je tire une conclusion défavorable de ce fait. Je suis incapable d’établir, à partir des descriptions figurant sur la facture, si les conseils fiscaux ont trait à la structuration de l’opération Pechiney antérieurement à son exécution ou postérieurement à celle‑ci, ou à d’autres questions. Je présume que les services rendus par Ernst & Young avaient trait à des conseils en matière de structuration fiscale relatifs à l’exécution de l’opération et aux opérations de réorganisation postérieures à l’opération. Compte tenu de cela, je conclus que l’appelante ne s'est pas acquittée de son fardeau de prouver que le montant de 449 963 $ est déductible à titre de dépense courante.
+[125] L’appelante demande la déduction d’une somme totalisant 187 739 $ qui a été versée à Davis Polk et à ADP. Elle a présenté des factures établies par Davis Polk et ADP comme preuve à l’appui de sa demande. La facture provenant de Davis Polk indique que les services de conseils avaient trait à la relation entre l’appelante et Morgan Stanley, au rôle de Morgan Stanley dans l’opération et aux obligations de l’appelante aux termes règlements américains en matière de valeurs mobilières[60]. La seule description figurant sur la facture d’ADP indique que les services se rapportaient à [traduction] « 66 positions d’actionnaire pour Pechiney dans la réorganisation[61] ». L’appelante ne s’est pas acquittée de son fardeau de la preuve relativement à ce montant. Par conséquent, je conclus que les conseils juridiques avaient trait à l’exécution de l’opération Pechiney et que la dépense a été engagée au titre du capital.
+[126] L’appelante demande la déduction d’une somme de 152 180 $ décrite comme représentant des frais de communication, au motif que ces frais se rapportaient à des téléconférences, à des services de traduction et à d’autres services de communication. L’examen des factures auquel j’ai procédé indique que ces dépenses ont été engagées dans le cadre de la stratégie de communication de l’appelante en vue de l’exécution de l’opération Pechiney. Pour les motifs exposés aux paragraphes 110 à 120 des présents motifs, je suis d’avis que ces dépenses sont des dépenses en capital.
+[127] L’appelante demande également la déduction d’une somme de 2 660 $ qui a été versée au Ritz‑Carlton Montréal au titre de frais d’annulation. Il semble que cette dépense se rapportait à l’exécution de l’opération. Par conséquent, il s’agit d’une dépense en capital.
+[128] Enfin, l’appelante demande la déduction d’une somme de 1 048 $ qui a été versée à divers petits fournisseurs. Aucun élément de preuve n’a été produit relativement à ce montant. La déduction de cette somme à titre de dépense courante, demandée par l’appelante, est donc refusée.
+[129] Pour tous ces motifs, je conclus que les dépenses diverses s’élevant à un montant total de 1 780 796 $ ne sont pas déductibles à titre de dépenses courantes. Il s’agit de dépenses en capital.
+(4) Les dépenses contestées qui ont été engagées pour publier et envoyer des documents dans le cadre de l’opération Pechiney ou de l’opération Novelis sont-elles déductibles en vertu du paragraphe 9(1) ou du sous‑alinéa 20(1)g)(iii) de la Loi? [130] L’appelante prétend que les dépenses totalisant 2 517 780 $ qui ont été engagées relativement à la publication et à l’envoi de documents destinés aux actionnaires de Pechiney sont déductibles en vertu du paragraphe 9(1) ou, encore, en vertu du sous‑aliéna 20(1)g)(iii) de la Loi. En toute déférence, je ne partage pas cet avis.
+[131] L’argument de l’appelante est fondé sur la conclusion tirée par cette Cour dans la décision Boulangerie St‑Augustin Inc. c. La Reine [62]. Dans cette affaire, la contribuable était une société cible dont les actionnaires s’étaient fait demander de remettre leurs actions dans le cadre d’offres publiques d’achat. La contribuable a prétendu qu’elle était tenue (selon l’article 134 de la Loi sur les valeurs mobilières[63] et selon la Loi sur les compagnies[64] du Québec) d’envoyer des circulaires d’information à ses actionnaires. Par conséquent, les frais engagés pour préparer les circulaires devraient être déductibles à titre de dépense courante.
+[132] Le juge Archambault a conclu que l’obligation de tenir les actionnaires au courant était semblable à l’obligation de la contribuable aux termes de la Loi sur les compagnies, de fournir les états financiers de la société aux actionnaires. Il a souligné que « les gens d’affaires considèrent ces dépenses comme des dépenses nécessaires à l’exploitation de leur entreprise et qu’elles sont déductibles comme dépenses générales d’administration »[65].
+[133] Toutefois, l’affaire Boulangerie St‑Augustin peut être distinguée d’avec la présente espèce. Bien que la contribuable dans cette affaire‑là fût tenue de par la loi d’envoyer les circulaires d’information, il s’agissait d’une société cible qui envoyait des circulaires à ses propres actionnaires. En l’espèce, l’appelante était tenue de par la loi de produire des formulaires comme le formulaire S‑4, lesquels s’apparentent à un prospectus. Ces documents étaient destinés aux actionnaires de Pechiney. Ils contiennent des renseignements considérés comme pertinents en ce qui concerne la décision des actionnaires d’accepter ou de rejeter l’offre de l’appelante[66]. L’appelante était tenue de fournir ces renseignements aux actionnaires de Pechiney dans le cadre de l’exécution de son offre publique d’achat de Pechiney. La préparation et la remise des documents représentait une étape essentielle de la réalisation de l’acquisition de Pechiney par l’appelante. Par conséquent, les dépenses relatives à la préparation et au dépôt de ces documents étaient des dépenses en capital.
+[134] Dans la décision Boulangerie St‑Augustin, le juge Archambault a formulé des commentaires qui peuvent nous guider dans l’application du sous-alinéa 20(1)g)(iii) de la Loi en particulier. Pour que des frais soient déductibles en vertu de cette disposition, les rapports annuels y visés doivent être de nature financière. L’appelante soutient que les rapports qui devaient être déposés auprès des autorités de réglementation et fournis aux actionnaires de Pechiney étaient de nature financière puis qu’ils renfermaient notamment des données financières historiques et des états financiers pro forma. Étant donné que, selon la loi, les actionnaires de Pechiney avaient droit à ces renseignements, ces dépenses devraient également être déductibles en vertu du sous‑alinéa 20(1)g)(iii) de la Loi.
+[135] Je suis d’avis que la demande de déduction en vertu du sous‑alinéa 20(1)g)(iii) de la Loi faite par l’appelante doit également être rejetée. En bref, l’appelante ne s’est pas acquittée de son fardeau de la preuve. Elle n’a appelé à témoigner personne qui avait fourni des services liés à la présentation des renseignements financiers. La Cour n’est pas en mesure de voir si ces dépenses ont été engagées dans le but précis de publier des renseignements financiers et de les envoyer aux actionnaires de l’appelante ou aux actionnaires de Pechiney. Les documents contenaient beaucoup plus que des renseignements financiers.
+[136] J’arrive à la même conclusion en ce qui concerne les frais, appelés par l’appelante frais de [traduction] « Publication et envoi de rapports financiers et autres frais professionnels », se rapportant à la scission Novelis. Ces dépenses sont manifestement des dépenses en capital. La circulaire de la direction et le plan d’arrangement ont été envoyés aux actionnaires de l’appelante afin de leur donner les renseignements pertinents dont ils avaient besoin pour approuver ou rejeter la scission. L’appelante ne s'est pas acquittée de son fardeau de la preuve relativement à la déductibilité des frais en question en vertu du sous‑alinéa 20(1)g)(iii) de la Loi. Par exemple, les frais de publication n’ont pas été reportés entre les pages contenant des renseignements financiers et celles renfermant d’autres renseignements, tels que les modalités du plan d’arrangement et les renseignements non financiers relatifs à Novelis. Enfin, personne de chez PwC ou Ernst & Young n’a été appelé pour expliquer le travail fait par ces cabinets et la ventilation de leurs honoraires.
+C. Y a‑t‑il parmi les dépenses contestées des dépenses en capital déductibles en totalité ou en partie en vertu du paragraphe 20(1) de la Loi? (1) Les frais payés à Morgan Stanley et à Lazard Frères sont‑ils déductibles en vertu de l’alinéa 20(1)bb) de la Loi? [137] L’appelante fait valoir que les sommes versées à Morgan Stanley et à Lazard Frères relativement aux opérations Pechiney et Novelis seraient également déductibles en vertu de l’alinéa 20(1)bb) de la Loi.
+[138] Les versions française et anglaise de l’alinéa 20(1)bb) sont ainsi libellées :
+bb) une somme, autre qu'une commission, qui, à la fois :
+(bb) an amount, other than a commission, that
+(i) est versée par le contribuable au cours de l'année à une personne ou à une société de personnes dont l'activité d'entreprise principale consiste :
+(i) is paid by the taxpayer in the year to a person or partnership the principal business of which
+(A) soit à donner des avis sur l'opportunité d'acheter ou de vendre certaines actions ou valeurs mobilières,
+(A) is advising others as to the advisability of purchasing or selling specific shares or securities, or
+(B) soit, entre autres choses, à assurer des services relatifs à l'administration ou à la gestion d'actions ou de valeurs mobilières,
+(B) includes the provision of services in respect of the administration or management of shares or securities, and
+(ii) est versée :
+(ii) is paid for
+(A) soit pour obtenir un avis sur l'opportunité d'acheter ou de vendre certaines actions ou valeurs mobilières du contribuable,
+(A) advice as to the advisability of purchasing or selling a specific share or security of the taxpayer, or
+(B) soit pour la prestation de services relativement à l'administration ou à la gestion d'actions ou de valeurs mobilières du contribuable.
+(B) services in respect of the administration or management of shares or securities of the taxpayer.
+[139] Comme les parties l’ont convenu dans leurs observations écrites[67], les sommes versées à Morgan Stanley et à Lazard Frères par l’appelante ne sont déductibles en vertu de la disposition ci‑dessus que s’il est satisfait à trois conditions :
+a) les sommes versées ne sont pas des commissions;
+b) les sommes ont été versées afin d’obtenir un avis sur l'opportunité d'acheter ou de vendre certaines actions;
+c) les sommes ont été versées à une personne dont l'activité d'entreprise principale consiste à donner des avis sur l'opportunité d'acheter ou de vendre certaines actions.
+[140] L’intimée fait valoir que la première et la deuxième conditions énoncées à l’alinéa 20(1)bb) n’ont été remplies dans le cas de ni l’une ni l’autre opération. L’intimée n’a pas contesté la troisième condition[68]. De toute façon, compte tenu de la preuve dans son ensemble, il est incontestable que l’activité d’entreprise principale de Morgan Stanley et de Lazard Frères consiste à donner des avis sur l'opportunité d'acheter ou de vendre des actions ou des valeurs mobilières.
+a) Pechiney [141] L’intimée prétend que la première et la deuxième condition n’ont pas été remplies parce que l’appelante a versé des « commissions » pour obtenir des avis relatifs à l’acquisition de Pechiney plutôt que des avis sur l'opportunité d'acheter ou de vendre certaines actions de l’appelante[69].
+(i) Les sommes versées à Morgan Stanley et à Lazard Frères étaient‑elles des commissions? [142] Je constate que le mot « commission » n’est pas défini dans la Loi; toutefois, les tribunaux se sont penchés sur le sens de ce mot dans d’autres contextes fiscaux.
+[143] L’approche moderne en matière d’interprétation des lois est décrite par la Cour suprême du Canada dans l’arrêt Hypothèques Trustco Canada c. Canada[70]. Cette approche comporte une analyse textuelle, contextuelle et téléologique, et, plus précisément, elle considère le sens ordinaire et grammatical d’une disposition, en fonction de son contexte global, de l’objet du texte législatif et de l’intention du législateur. De plus, un objectif important dans l’interprétation de la Loi est d’assurer l’uniformité, la prévisibilité et l’équité[71].
+[144] Dans l’arrêt Hypothèques Trustco Canada, la Cour suprême a aussi donné les indications suivantes concernant l’utilisation de l’approche moderne en matière d’interprétation des lois :
+10 […] Lorsque le libellé d’une disposition est précis et non équivoque, le sens ordinaire des mots joue un rôle primordial dans le processus d’interprétation. Par contre, lorsque les mots utilisés peuvent avoir plus d’un sens raisonnable, leur sens ordinaire joue un rôle moins important. L’incidence relative du sens ordinaire, du contexte et de l’objet sur le processus d’interprétation peut varier, mais les tribunaux doivent, dans tous les cas, chercher à interpréter les dispositions d’une loi comme formant un tout harmonieux[72].
+[145] Dans leurs observations écrites, les deux parties invoquent relativement à la signification du mot « commission » des passages différents de la décision rendue par cette Cour dans l’affaire ITA Travel Agency Ltd.[73]. Cette décision portait sur la question de savoir si des sommes reçues de transporteurs aériens étaient des commissions et donc[74] la contrepartie de fournitures taxables sur lesquelles la TPS devait être payée. Ma collègue la juge Lamarre (tel était alors son titre) a arrêté son attestation sur le sens ordinaire du mot « commission » et a cité les définitions suivantes :
+[34] Le Concise Oxford Dictionary (Oxford, presses de l’Université Oxford, 1990) définit le mot anglais « commission » (commission) comme désignant un pourcentage versé à un mandataire sur les profits tirés de produits ou autres éléments vendus ou d’occasions d’affaires obtenues. D’après cette définition, quelque chose doit effectivement être versé à quelqu’un pour qu’un montant constitue une commission, et le montant doit être exprimé en pourcentage.
+[35] Dans le Black's Law Dictionary (St. Paul, Minnesota, West Publishing Co., 1990), la définition du mot anglais « commission » se lit comme suit :
+[traduction]
+Récompense, rémunération ou rétribution qu’un mandataire, vendeur, exécuteur testamentaire, syndic, séquestre, facteur, courtier ou dépositaire se voit verser en pourcentage du montant de ses transactions ou en pourcentage du profit qui va au mandant. Weiner v. Swales, 217 Md. 123, à la p. 141 A.2d 749, à la p. 750. Honoraires qu’un mandataire ou employé se voit verser pour avoir fait une transaction ou rendu un service. Fryar v. Currin, App., 280 S.C. 241, à la p. 312, S.E. 2d 16, à la p. 18. Rémunération qu’un administrateur ou autre fiduciaire se voit verser pour avoir rempli fidèlement ses devoirs.
+[36] Il ressort de cette définition qu’une commission implique le paiement effectif d’une somme d’argent calculée en pourcentage du montant d’une transaction ou en pourcentage du profit qui va au mandant.
+[...]
+[38] Dans le jugement Consolboard Inc. c. MacMillan Bloedel C.F. 1ère inst., no T-388-74, 6 avril 1982 (1982), 63 C.P.R. (2d) 1, [modifié par 74 C.P.R. (2d) 199, mais pas relativement à la question examinée ici], le juge Cattanach, de la section de première instance de la Cour fédérale, a traité de la signification des mots « commission » et « rabais ». Dans cette cause, la défenderesse, soit l’usine productrice, expédiait ses produits à une filiale chargée des ventes, qui entreposait le produit fini, puis le vendait aux commerçants. Cette filiale recevait en compensation de ses efforts un pourcentage prédéterminé du prix auquel le produit était vendu au consommateur, et cela représentait la base de ses revenus et de son bénéfice éventuel. Elle vendait en outre directement des voitures à des consommateurs, et ces voitures étaient directement envoyées de l’usine aux consommateurs, par divers moyens de transport. Pour avoir réalisé la vente, elle recevait une allocation représentant 5 p. 100 du prix auquel la voiture avait été vendue au consommateur. Au cours des témoignages et de l’argumentation, cette allocation était appelée un « rabais » ou une « commission ». Le juge Cattanach, de la section de première instance de la Cour fédérale, a défini comme suit les mots « commission » et « rabais » aux pages 56 et 57 ((1982) 63 C.P.R. (2d) 1 : à la page 22) :
+... Ces mots ne peuvent être des termes de l’art utilisé dans un sens commercial et ils ne sont pas non plus des mots techniques d’un art ou d’une science quelconque. Par conséquent, il faut leur donner le sens qu’ils ont dans le langage courant.
+Dans le domaine commercial, une commission est un pourcentage du prix d’un produit versé pour indemniser les efforts de l’agent ou de toute personne du genre qui effectue des transactions pour le compte d’une autre.
+Également dans le domaine commercial, un rabais accordé lors de la vente d’un article de commerce est une diminution ou une déduction de la valeur nominale ou du prix dudit article.
+Le nœud de la controverse consiste à déterminer si l’allocation versée à la filiale chargée des ventes constitue une « commission » ou un « rabais ».
+S’il s’agit d’une commission, c’est alors une dépense d’exploitation de l’usine pouvant légitimement être déduite du revenu.
+Par contre, s’il s’agit d’un rabais, ce montant ne fait alors [pas] partie du prix exigé du consommateur et doit être déduit du revenu net à l’usine.
+[C’est moi qui souligne.]
+[146] Compte tenu de ce qui précède, le mot « commission » signifie une somme d’argent calculée en fonction d’un pourcentage du prix auquel un produit a été vendu ou un pourcentage du profit tiré d’une opération par le mandant. L’appelante s’appuie sur cette définition pour prétendre que les frais versés à Morgan Stanley et à Lazard Frères dans le cadre de l’opération Pechiney ne sont pas des commissions parce que les sommes n’ont pas été fixées en fonction d’un pourcentage du chiffre des ventes ou du volume des ventes; il s’agit plutôt d’honoraires fixes. Entre outre, l’appelante fait état d’éléments de preuve indiquant que Morgan Stanley et Lazard Frères ont fourni leurs services à titre d’entrepreneurs indépendants, et non pas à titre de mandataires de l’appelante.
+[147] Je souscris à l’argument de l’appelante selon lequel les frais payés à Morgan Stanley et à Lazard Frères relativement à l’opération Pechiney n’ont pas été fixés en fonction d’un pourcentage du chiffre des ventes ou du volume des ventes. Dans les deux cas, le montant des frais était fixe. Bien que les frais relatifs aux services de conseils aient dépendu, pour partie, de l’acquisition par l’appelante d’un certain nombre d’actions de Pechiney, la somme versée avait néanmoins été fixée avant la conclusion de l’opération.
+[148] L’intimée, par contre, invoque le paragraphe 41 de la même décision pour soutenir que le mot « commission » peut être interprété comme comprenant une somme forfaitaire ou des honoraires fixes :
+[41] Deux caractéristiques semblent donc définir ce qu’est une commission. Premièrement, une commission est une somme effectivement versée à quelqu’un ou portée à son crédit. Cela n’inclut pas des paiements ou crédits artificiels, théoriques ou fictifs. J’estime qu’une inscription comptable ne peut être une commission. Deuxièmement, une commission est habituellement un pourcentage ou, s’il s’agit d’une somme forfaitaire, celle-ci doit au moins être proportionnelle au travail accompli ou à la valeur de l’article vendu. [...]
+[149] Examen fait de la décision ITA Travel, il semble que la juge Lamarre s’est fiée à sa compréhension de la ratio decidendi de l’arrêt Campbell v. National Trust Co. Ltd.[75], qu’elle voyait comme appuyant la proposition selon laquelle le mot « commission » peut comprendre une somme forfaitaire ou une somme fixe :
+[37] Dans l’affaire Campbell v. National Trust Co. Ltd., [1931] 1 W.W.R. 465, lord Russell, du Conseil privé, a défini comme suit le mot anglais « commission », à la page 471 :
+[traduction]
+La convention verbale entre M. Campbell et M. Wallberg prévoyait le paiement d’« une commission », mais il n’y avait aucune indication quant au montant de celle-ci ou quant à la manière dont ce montant devait être déterminé. La preuve n’indique pas non plus qu’il existait une coutume applicable au cas présent et par rapport à laquelle le montant de la commission pourrait être déterminé. Dans ces circonstances, le contrat ne peut que vouloir dire que M. Campbell a droit à une somme forfaitaire à titre de rémunération pour les services qu’il a rendus en présentant M. Clarke. Le fait que fréquemment, voire ordinairement, une commission prend la forme d’un pourcentage ne s’oppose pas à ce point de vue. Le mot « commission » peut tout à fait à juste titre, d’un point de vue tant juridique que commercial, être utilisé pour désigner une somme forfaitaire ne représentant aucun pourcentage de quoi que ce soit, comme dans le cas d’une entente prévoyant le paiement d’une commission de 500 livres sterling, par exemple.
+[C’est moi qui souligne.]
+[150] Il ressort de l’extrait ci‑dessus que la Cour a interprété le mot « commission » en tenant compte du contexte global de l’entente des parties. Dans l’arrêt Campbell, le Conseil privé a constaté que les parties voulaient qu’une « commission » soit versée, mais sans préciser de quelle manière elle devait être déterminée. Pour cette raison, le Conseil privé a conclu que les parties avaient prévu le paiement d’une somme forfaitaire. Par contre, le contexte dans lequel le mot « commission » est utilisé dans la Loi ne milite pas en faveur d’un sans autre que le sens ordinaire de ce mot.
+[151] L’appelante m’a renvoyé également à l’arrêt Ministre du Revenu national c. Yonge‑Eglinton Building Ltd.[76] Dans cet arrêt, il était question de la portée de l’alinéa 11(1)cb) de la Loi, qui était ainsi libellé à l’époque :
+11. (1) Par dérogation aux alinéas a), b) et h) du paragraphe (1) de l’article 12, les montants suivants peuvent être déduits dans le calcul du revenu d’un contribuable pour une année d’imposition :
+[…]
+cb) une dépense engagée dans l’année,
+(i) à l’occasion de l’émission ou de la vente d’actions du capital social du contribuable, ou
+(ii) à l’occasion d’emprunt d’argent utilisé par le contribuable pour gagner un revenu provenant d’une entreprise ou de biens (autre que de l’argent employé par le contribuable en vue d’acquérir des biens dont le revenu serait exempté),
+mais sans comprendre aucun montant à l’égard
+(iii) d’une commission ou d’un boni payé ou payable à une personne à qui les actions ont été émises ou vendues ou de qui l’argent a été emprunté, ou pour ou concernant des services rendus par une personne comme vendeur, agent ou négociant en valeurs au cours de l’émission ou de la vente des actions ou de l’emprunt de l’argent, ou
+(iv) d’un montant payé ou payable à titre ou au titre du principal de la dette contractée au cours de l’emprunt de la somme d’argent, ou à titre ou au titre d’intérêt.
+[152] Dans l’arrêt Young‑Eglinton Building, le juge Thurlow a dégagé le sens du mot « commission » en se référant au Shorter Oxford Dictionary, qui définit une commission comme étant une [traduction] « rémunération proportionnelle au travail effectué à titre de mandataire »[77]. Le juge Thurlow a fait remarquer qu’une définition similaire figure dans le Living Webster Encyclopedic Dictionary. L’appelante s’appuie sur cet arrêt et sur des extraits de la décision ITA Travel pour prétendre qu’une somme doit être versée à un mandataire pour qu’elle constitue une commission. Bien qu’il ne soit pas nécessaire que je me prononce sur cette question précise pour trancher le présent litige, je suis convaincu que la preuve établit que Morgan Stanley et Lazard Frères n’ont pas agi à titre de mandataires de l’appelante.
+[153] En définitive, je conclus que les sommes versées à Morgan Stanley et à Lazard Frères relativement à l’opération Pechiney n’étaient pas des commissions.
+(ii) Avis sur l’opportunité d’acheter ou de vendre certaines actions ou services relatifs à l'administration ou à la gestion d’actions. [154] En ce qui concerne la deuxième condition mentionnée au paragraphe 139 ci‑dessus, l’intimée, se fondant sur les principes d’interprétation des lois bilingues, soutient que la signification des expressions « specific share » et « certaines actions » qui figurent à la division 20(1)bb)(i)(A) exclut les avis donnés relativement à l’acquisition d’une entité dans son ensemble.
+[155] Dans l’arrêt R. c. Daoust[78], le juge Bastarache s’est référé à des décisions qui élucident les principes qui devraient être utilisés dans un contexte d’interprétation des lois bilingues. Après avoir examiné la jurisprudence, il a approuvé une démarche en deux étapes :
+26 […]
+Je souligne de nouveau la démarche en deux étapes proposée par le professeur Côté dans son ouvrage Interprétation des lois (3e éd. 1999), p. 410, servant à résoudre les antinomies découlant de divergences entre les deux versions d’un texte législatif :
+… sauf disposition légale contraire, toute divergence entre les deux versions officielles d’un texte législatif est résolue en dégageant, si c’est possible, le sens qui est commun aux deux versions. Si cela n’est pas possible, ou si le sens commun ainsi dégagé paraît contraire à l’intention du législateur révélée par recours aux règles ordinaires d’interprétation, on doit entendre le texte dans le sens qu’indiquent ces règles.
+27 Il y a donc une démarche précise à suivre pour l’interprétation des lois bilingues. La première étape consiste à déterminer s’il y a antinomie. Si les deux versions sont absolument et irréductiblement inconciliables, il faut alors s’en remettre aux autres principes d’interprétation : voir Côté, op. cit., p. 413. Rappelons qu’il faut alors favoriser une interprétation téléologique et contextuelle : voir, par exemple, Bell ExpressVu Limited Partnership c. Rex, [2002] 2 R.C.S. 559, 2002 CSC 42, par. 26; Chieu c. Canada (Ministre de la Citoyenneté et de l’Immigration), [2002] 1 R.C.S. 84, 2002 CSC 3, par. 27; R. c. Sharpe, [2001] 1 R.C.S. 45, 2001 CSC 2, par. 33.
+28 Il faut vérifier s’il y a ambiguïté, c’est-à-dire si une ou les deux versions de la loi sont « raisonnablement susceptible[s] de donner lieu à plus d’une interprétation » : Bell ExpressVu, précité, par. 29. S’il y a ambiguïté dans une version de la disposition et pas dans l’autre, il faut tenter de concilier les deux versions, c’est-à-dire chercher le sens qui est commun aux deux versions : Côté, op. cit., p. 413. Le sens commun favorisera la version qui n’est pas ambiguë, la version qui est claire : Côté, op. cit., p. 413-414; voir Goodyear Tire and Rubber Co. of Canada c. T. Eaton Co., [1956] R.C.S. 610, p. 614; Kwiatkowsky c. Ministre de l’Emploi et de l’Immigration, [1982] 2 R.C.S. 856, p. 863.
+29 Si aucune des deux versions n’est ambiguë, ou si elles le sont toutes deux, le sens commun favorisera normalement la version la plus restrictive : Gravel c. Cité de St-Léonard, [1978] 1 R.C.S. 660, p. 669; Pfizer Co. c. Sous-ministre du Revenu national pour les douanes et l’accise, [1977] 1 R.C.S. 456, p. 464-465. Le professeur Côté illustre ce point comme suit, à la p. 414 :
+Dans un troisième type de situation, l’une des deux versions a un sens plus large que l’autre, elle renvoie à un concept d’une plus grande extension. Le sens commun aux deux versions est alors celui du texte ayant le sens le plus restreint.
+30 La deuxième étape consiste à vérifier si le sens commun ou dominant est conforme à l’intention législative suivant les règles ordinaires d’interprétation : Côté, op. cit., p. 415-416. Sont pertinents à cette étape les propos du juge Lamer dans Slaight Communications Inc. c. Davidson, [1989] 1 R.C.S. 1038, p. 1071 :
+Il faut donc, dans un premier temps, tenter de concilier ces deux versions. Pour ce faire il faut tenter de dégager des textes le sens qui est commun aux deux versions et vérifier si celui-ci semble conciliable avec l’objet et l’économie générale du Code.
+31 Rappelons finalement que certains principes d’interprétation sont seulement applicables en cas d’ambiguïté d’un texte législatif. Comme le précisait le juge Iacobucci dans l’affaire Bell ExpressVu, précitée, par. 28 : « D’autres principes d’interprétation – telles l’interprétation stricte des lois pénales et la présomption de respect des “valeurs de la Charte”– ne s’appliquent que si le sens d’une disposition est ambigu. »
+[156] Selon ces sources, lorsqu’il y a divergence entre les deux versions du même texte législatif, les principes d’interprétation des lois bilingues nous guident vers une interprétation qui dégage le sens qui est commun aux deux versions. Toutefois ce sens commun doit être conforme à l’intention du législateur.
+[157] Je suis d’accord avec l’appelante quant à l’interprétation du mot anglais « specific ». Dans le contexte de l’alinéa 20(1)bb), le mot « specific » sous‑entend que l’avis doit avoir trait à l’achat ou à la vente d’actions ou de valeurs mobilières bien précises. Par exemple, des honoraires fixes facturés pour une recommandation d’achat d’actions ordinaires d’une société nommée seraient déductibles en vertu de cette disposition.
+[158] Le mot anglais « specific » se traduit en français par le mot « spécifique ». L’expression française « certaines actions » se traduit en anglais par les mots « some shares ». Le mot anglais « specific » et le mot français « certaines » n’ont pas le même sens. Le mot anglais « specific » est plus restrictif.
+[159] Se fondant sur la version française, l’intimée prétend que « toutes les actions » de Pechiney ne correspondent pas à « certaines actions » ou à « some shares ». Selon l’intimée, c’est ce sens qui doit être privilégié. En toute déférence, je n’accepte pas l’interprétation de l’intimée. Comme je l’ai déjà souligné, les principes d’interprétation des lois bilingues exigent que nous dégagions le sens commun ou, s’il n’y a aucun sens commun, que nous cherchions celui des deux sens qui est le plus restrictif. Or, ce que propose l’intimée a pour résultat une interprétation qui ne retient que la version française de la disposition. Plus important encore, l’analyse présentée par l’intimée dans ses observations écrites ne reflète pas l’intention du législateur. Le contexte dans lequel les mots se trouvent donne à penser que le législateur a utilisé les expressions « specific shares » et « certaines actions » afin d’exclure les avis de nature générale en matière de placements comme, par exemple, une recommandation à un investisseur de placer 10 p. 100 de ses économies devraient être investies dans des actions privilégiées. En résumé, le libellé et le contexte de la disposition donnent à penser que le législateur voulait que l’on puisse bénéficier d’une déduction lorsque l’avis en matière de placements est clair et concerne les actions d’un émetteur précis.
+[160] Enfin, l’expression française « certaines actions » ne sous-entend pas que l’avis qui est donné doit porter sur moins que la totalité des actions d’une entité donnée. Toutes les actions d’une entité donnée représentent « certaines actions » en ce sens qu’il existe d’autres actions d’autres entités que le contribuable pourrait acheter. Selon moi, pour que l’interprétation de l’intimée l’emporte, la version française de la disposition devrait être ainsi libellée :
+Soit pour obtenir un avis sur l’opportunité d’acheter ou de vendre seulement certaines actions ou valeurs mobilières d’une société donnée.
+[C’est moi qui souligne.]
+Des modifications correspondantes devraient aussi être apportées à la version anglaise de la disposition. Or, il n’appartient certainement pas à la Cour de modifier le libellé d’une disposition législative.
+(iii) Les services rendus après l’approbation de l’opération visant Pechiney [161] L’intimée prétend subsidiairement que les frais payés par l’appelante pour les services fournis par Morgan Stanley et Lazard Frères après l’approbation par le conseil d’administration, le 2 juillet 2003, de l’opération Pechiney ne sont pas déductibles en vertu de l’alinéa 20(1)bb) de la Loi. L’intimée soutient qu’après cette date les frais pour des services de conseils n’avaient pas été engagés pour des « avis sur l’opportunité » d’acheter des actions de Pechiney.
+[162] Je conviens que les éléments de preuve présentés par l’appelante doivent être soumis à l’analyse afin de déterminer si les dépenses ont effectivement été engagées pour des avis sur l’opportunité d’acheter les actions de Pechiney. Comme le révèle la lettre de Morgan Stanley datée du 18 juin 2004[79], 30 p. 100 du travail effectué par Morgan Stanley consistait en la prestation de services généraux de conseils, 25 p. 100 était lié à l’analyse de l’opération et 10 p. 100 se rapportait à la préparation et à la fourniture de l’attestation d’équité. Ce travail répond au critère de la fourniture d’avis sur l’opportunité d’acheter ou de vendre certaines actions. Le reste du travail effectué, soit 35 p. 100, ne répond pas à ce critère parce qu’il s’agit de travail accompli pour faciliter l’exécution de l’opération.
+[163] La même analyse s’applique à Lazard Frères en ce qui concerne l’opération Pechiney. Comme le révèle la lettre de Lazard Frères datée du 22 juin 2004[80], 35 p. 100 des frais facturés se rapportaient à des avis professionnels [traduction] « sur l’opportunité d’acheter les actions de Pechiney, et à quelles conditions, y compris du travail d’évaluation et la modélisation du prix et des synergies pouvant résulter de l’acquisition[81] ». Cependant, le reste des frais, soit 65 p. 100, n’avait rien à voir avec des avis sur l’opportunité d’acheter certaines actions.
+[164] Compte tenu de tout ce qui précède, si ma conclusion est erronée sur la première question et que les frais de conseils en matière de placements fournis relativement à l’opération Pechiney, dont j’ai accordé la déduction en vertu du paragraphe 9(1) de la Loi, sont des dépenses en capital, l’appelante pourrait déduire les mêmes sommes en vertu de l’alinéa 20(1)bb) de la Loi et rien de plus.
+b) Novelis [165] En ce qui concerne l’opération Novelis, et plus particulièrement les frais payés à Lazard Frères relativement à cette opération, l’intimée fait valoir que la première et la deuxième condition ne sont pas remplies, parce que l’appelante a payé une commission pour des avis sur la disposition de sa division de produits laminés plats plutôt que sur l’opportunité d’acheter ou de vendre certaines actions de l’appelante[82].
+[166] Pour commencer, j’analyserai le deuxième argument de l’intimée, à savoir celui selon lequel les frais payés à Lazard Frères n’ont pas été versés pour des avis sur l’opportunité d’acheter ou de vendre certaines actions de l’appelante ni pour l’administration ou la gestion de certaines actions de l’appelante. Comme il a été mentionné, l’intimée est d’avis que les frais ont été payés pour la disposition de la division des produits laminés plats d’Alcan au moyen de l’opération de scission.
+[167] En toute déférence, je n’accepte pas l’argument de l’intimée, étant donné que la lettre de mission qu’ont signée l’appelante et Lazard Frères ne se borne pas à la question de la disposition de la division des produits laminés plats. L’introduction de cette lettre est ainsi libellée :
+[traduction]
+À la suite des discussions que nous avons eues récemment, nous sommes heureux de conclure cette entente aux termes de laquelle Lazard Frères (Lazard) aidera Alcan Inc. (Alcan) à titre de conseillère financière relativement à (i) l’acquisition possible par Alcan de Corus Aluminium, en tout ou en partie (une « opération visant Corus »), et (ii) la maximisation de la valeur pour les actionnaires d’Alcan au moyen du dessaisissement prévu de ses activités de laminage d’aluminium (la « société de laminage »), laquelle opération pourra prendre la forme d’une scission‑dissolution ou d’une scission portant sur la société de laminage ou, encore, d’une vente d’actifs ou de titres de capitaux propres ou d’autres intérêts détenus dans la société de laminage ou bien d’une autre opération similaire (une « opération visant la société de laminage » ; une telle opération est une opération visant Corus étant appelées,ensemble, les « opérations », et individuellement, une « opération »).
+[C’est moi qui souligne.]
+[168] Bien que l’appelante ait en fin de compte choisi d’effectuer l’opération de scission, les frais payés à Lazard Frères couvraient aussi le travail accompli relativement à l’opération alternative de vente. À l’appui de cet argument, l’appelante a présenté des lettres[83] envoyées à des acheteurs potentiels par Lazard Frères. Donc, je ne souscris pas à la thèse de l’intimée selon laquelle Lazard Frères ne fournissait pas d’avis sur l’opportunité de vendre certaines actions ou valeurs mobilières de l’appelante.
+[169] En outre, l’intimée commet une erreur grave en cherchant à définir l’opération de scission uniquement en fonction de sa substance. Selon la preuve, particulièrement la décision anticipée rendue par la Direction des décisions en impôt de l’ARC[84], aux paragraphes 41 à 44, l’appelante a en fait vendu les actions d’Archer à Novelis en contrepartie d’actions privilégiées (les « actions privilégiées de roulement »). L’appelante a produit un choix conjoint avec Novelis, en vertu du paragraphe 85(1), afin que l’article 85 s’applique au transfert des actions d’Archer à Novelis. La somme convenue dans le choix, qui est devenue le produit de disposition de l’appelante, semble correspondre au prix de base rajusté, pour l’appelante, des actions d’Archer[85].
+[170] Lorsqu’il a établi la nouvelle cotisation à l’égard de l’appelante relativement à l’opération Novelis, le ministre a considéré les frais payés à Lazard Frères comme une somme déductible du produit de disposition parce qu’il ne s’agissait pas de dépenses courantes ou de « commissions » au sens de la Loi. Le ministre n’a pas établi la cotisation en se fondant sur la substance de la série d’opérations exécutées pour effectuer la scission. Le ministre a déterminé que l’appelante était en droit de déduire les frais payés à Lazard Frères du produit de disposition réalisé dans le cadre de la vente d’Archer à Novelis. Par conséquent, je suis convaincu que l’appelante a reçu des avis quant à l’opportunité de vendre les actions d’Archer à des sociétés de capital‑investissement ou à des investisseurs stratégiques, ou, comme on a décidé en fin de compte, à Novelis en contrepartie d’actions privilégiées de cette dernière, lesquelles ont par la suite été rachetées.
+[171] J’aborde maintenant la question de savoir si la somme versée à Lazard Frères est une commission. La lettre de mission qu’ont signée l’appelante et Lazard Frères fournit une base différente pour l’établissement des frais relatifs à l’opération Novelis. La clause pertinente est libellée en ces termes :
+[traduction]
+5. Frais et dépenses
+En contrepartie des services fournis, Alcan versera à Lazard les sommes suivantes :
+a) une somme de 2 000 000 $US payable au premier des jours suivants : (i) le jour de la conclusion d’une opération visant la société de laminage ou (ii) le 30 juin 2005 (les frais pour services de conseils), et pouvant être portée en réduction des frais à verser selon de l’alinéa b) ci‑dessous;
+b) une somme payable à la conclusion d’une opération visant la société de laminage (les frais de succès relatif à une opération visant la société de laminage), selon ce qui est indiqué dans le tableau ci‑dessous, calculée en fonction de la différence, si elle est positive, entre (i) la valeur totale de l’opération visant la société de laminage (selon la définition ci‑dessous) et (ii) la valeur de base de l’entreprise de la société de laminage (selon la définition ci‑dessous) :
+Valeur totale de l’opération visant la société de laminage (VTOSL)
+Frais de succès relatifs à une opération visant la société de laminage
+VBE < VTOSL< VBE + 200 M$US
+1,50 p. 100 (VTOSL – VBE)
+VBE + 200 M$US < VTOSL < VBE + 300 M$US
+1,75 p. 100 (VTOSL – VBE)
+VBE + 300 M$US < VTOSL < VBE + 400 M$US
+2,00 p. 100 (VTOSL – VBE)
+VBE + 400 M$US < VTOSL < VBE + 500 M$US
+2,25 p. 100 (VTOSL – VBE)
+VBE + 500 M$US < VTOSL
+10 M$US + 3 p. 100 (VTOSL – (VBE + 500 M$ US))
+c) une somme de 500 000 $US payables au moment de l’annonce d’une opération visant Corus (c.-à-d., l’approbation par le conseil de surveillance de Corus d’une opération visant Corus) et pouvant être portée en réduction des frais à verser selon l’alinéa d) ci‑dessous;
+d) une somme de 3 000 000 $ US payables à la conclusion d’une opération visant Corus (les frais de succès relatifs à une opération visant Corus).
+Dans tous les cas, la somme des frais de succès relatifs à une opération visant Corus et des frais de succès relatif à une opération visant la société de laminage ne doit pas être supérieure à 15 000 000 $US.
+[172] L’intimée prétend que les « frais de succès relatifs à une opération visant la société de laminage » correspondaient à un pourcentage croissant de la différence entre la VTOSL et la VBE. Cet argument repose sur le témoignage de M. Maris. Il a déclaré que la valeur totale de l’opération visant la société de laminage était la valeur de l’opération et que Lazard Frères chercherait à obtenir une valeur plus élevée, parce que cela aurait une incidence sur les frais qu’elle recevrait conformément à la lettre de mission. Par conséquent, l’intimée fait valoir que les de succès relatifs à une opération visant la société de laminage qui ont été payés à Lazard Frères devraient être considérés comme une commission.
+[173] Les frais payés à Lazard Frères n’ont pas été déterminés en fonction de la somme reçue par l’appelante relativement à la vente d’Archer, selon ce qui est décrit ci‑dessus, c’est‑à‑dire la valeur des actions privilégiées de roulement. En bref, les frais payables à Lazard Frères n’avaient rien à voir avec la contrepartie reçue par l’appelante. De plus, Lazard Frères n’a pas agi à titre de mandataire de l’appelante en fournissant des avis relativement à la scission et à l’opération alternative de vente. Par conséquent, la somme versée à Lazard Frères relativement à l’opération Novelis n’était pas une commission.
+[174] En conformité avec l’analyse que j’ai faite dans le contexte de l’opération Pechiney, je conclus que les services fournis par Lazard Frères avant l’approbation de la scission par le conseil d’administration se rapportent à des avis obtenus relativement à l’opportunité de vendre certaines actions de l’appelante. Cela étant, si ma conclusion est erronée sur la première question et que la somme versée à Lazard Frères relativement à l’opération Novelis, dont j’ai accordé la déduction en vertu du paragraphe 9(1) de la Loi, est une dépense en capital, l’appelante pourrait déduire la même somme en vertu de l’alinéa 20(1)bb) de la Loi, et rien de plus.
+[175] En ce qui concerne la déduction des frais à payés à Morgan Stanley relativement à l’opération Novelis, que demande l’appelante, je maintiens mon opinion que je ne dispose pas de suffisamment d’éléments de preuve pour établir si cette dépense a été engagée relativement à l’obtention d’avis sur l’opportunité de vendre certaines actions de l’appelante. Par conséquent, la déduction demandée par l’appelante, de la somme de 296 863 $ versée à Morgan Stanley ne peut être accordée en vertu de l’alinéa 20(1)bb).
+(2) Les frais déduits par l’appelante pour les démarches faites auprès d’autorités gouvernementales sont-ils déductibles en vertu de l’alinéa 20(1)cc) de la Loi? [176] L’appelante demande une déduction totale de 19 972 079 $ en vertu de l’alinéa 20(1)cc) de la Loi, alléguant que cette somme avait été engagée pour faire des démarches concernant l’entreprise de l’appelante auprès d’autorités gouvernementales[86]. L’alinéa 20(1)cc) de la Loi est ainsi libellé :
+20(1) Malgré les alinéas 18(1)a), b) et h), sont déductibles dans le calcul du revenu tiré par un contribuable d’une entreprise ou d’un bien pour une année d’imposition celles des sommes suivantes qui se rapportent entièrement à cette source de revenus ou la partie des sommes suivantes qu’il est raisonnable de considérer comme s’y rapportant :
+20.(1) Notwithstanding paragraphs 18(1)(a), 18(1)(b) and 18(1)(h), in computing a taxpayer’s income for a taxation year from a business or property, there may be deducted such of the following amounts as are wholly applicable to that source or such part of the following amounts as may reasonably be regarded as applicable thereto
+Frais de démarches
+Expenses of representation
+cc) une somme payée par le contribuable au cours de l’année au titre des frais qu’il a engagés pour effectuer les démarches concernant une entreprise exploitée par lui :
+(cc) an amount paid by the taxpayer in the year as or on account of expenses incurred by the taxpayer in making any representation relating to a business carried on by the taxpayer,
+(i) auprès du gouvernement d’un pays, d’une province ou d’un État ou auprès d’un organisme municipal ou public remplissant des fonctions gouvernementales au Canada,
+(i) to the government of a country, province or state or to a municipal or public body performing a function of government in Canada, or
+(ii) auprès d’une agence d’un gouvernement ou d’un organisme municipal ou public, visés au sous-alinéa (i), qui était autorisé à édicter des règles ou des règlements concernant l’entreprise exploitée par le contribuable,
+(ii) to an agency of a government or of a municipal or public body referred to in subparagraph 20(1)(cc)(i) that had authority to make rules, regulations or by-laws relating to the business carried on by the taxpayer,
+y compris les démarches faites en vue d’obtenir une licence, un permis, une concession ou une marque de commerce pour cette entreprise;
+including any representation for the purpose of obtaining a licence, permit, franchise or trade-mark relating to the business carried on by the taxpayer;
+[C’est moi qui souligne.]
+[177] L’intimée prétend que les frais dont l’appelante demande de la déduction ne sont pas déductibles en vertu de cette disposition parce que les démarches ne se rapportaient pas à des questions liées à l’entreprise de l’appelante. D’après l’intimée, les démarches se rapportaient à des questions liées aux entreprises des filiales de l’appelante et à l’acquisition de Pechiney[87]. Les démarches ne concernaient rien qui pouvait avoir une incidence sur l’entreprise de l’appelante.
+[178] En toute déférence, je n’accepte pas l’analyse de l’intimée. Le fait que les démarches étaient nécessitée par l’acquisition de Pechiney n’exclut pas qu’elles fussent liées à l’entreprise de l’appelante. À mon avis, l’opération Pechiney a directement amélioré l’entreprise de l’appelante, puisque celle‑ci a utilisé les actions de Pechiney dans l’exploitation de son entreprise. Il ressort de la preuve que l’appelante, après avoir fait l’acquisition de nouvelles entités comme Pechiney, a rapidement gagné des revenus tirés de ventes à ces entités, de frais de gestion, d’autres frais d’administration et de dividendes[88]. Bien que les dividendes soient généralement considérés comme un revenu tiré d’un bien, une telle qualification n’est pas inconciliable avec une conclusion que l’appelante a utilisé les actions de Pechiney dans l’exploitation d’une entreprise. En fait, la Loi reconnaît expressément que des actions peuvent être utilisées dans une entreprise dont le but est de gagner un revenu de dividendes. La définition de l’expression « entreprise de placement déterminée » figurant au paragraphe 125(7) de la Loi repose sur cette notion. La partie pertinente de cette définition est ainsi libellée :
+125(7) […] « entreprise de placement déterminée » Entreprise […] dont le but principal est de tirer un revenu de biens, notamment des intérêts, des dividendes, des loyers et des redevances. […]
+[C’est moi qui souligne.]
+[179] Avant l’adoption de cette définition, le revenu tiré de biens par un minimum d’activité était considéré dans la jurisprudence comme un revenu tiré d’une entreprise exploitée activement pour l’application de la déduction accordée aux petites entreprises. Par exemple, dans l’arrêt Canadian Marconi c. Canada.[89], la Cour suprême du Canada a conclu que la contribuable exploitait une entreprise lorsqu’elle avait utilisé l’excédent de trésorerie provenant de son entreprise d’électronique pour acheter des placements. En dehors du contexte d’une « entreprise de placement déterminée », les facteurs considérés par la Cour suprême dans l’arrêt Marconi sont encore pertinents.
+[180] Bien que des actions puissent être utilisées dans l’exploitation d’une entreprise, il ne s’ensuit pas dire que ces actions aient moins le caractère d’immobilisations que l’usine, le matériel ou les biens de location utilisés dans une entreprise dans le but de gagner un revenu. Pour résumer, les frais engagés pour des services qui sont directement liés à une opération sur capitaux propres sont des dépenses en capital. De même, les actions sont des immobilisations. Cela n’exclut pas pour autant que les actions de Pechiney aient été utilisées par l’appelante dans l’exploitation d’une entreprise.
+[181] Je suis également en désaccord avec l’intimée quant à son argument selon lequel les démarches faites auprès d’autorités gouvernementales se rapportaient aux entreprises des filiales de l’appelante, et non à l’entreprise de l’appelante. L’entreprise de l’appelante comprenait des activités générant des revenus qui étaient exercées au moyen d’une structure mondiale de filiales et d’entités liées. Il ressort de la preuve que l’appelante vendait de l’alumine et d’autres produits partiellement manufacturés à des filiales de distribution et de fabrication partout dans le monde. Elle vendait aussi ses produits à des distributeurs et à des fabricants indépendants. J’infère de la preuve que les autorités de réglementation auraient facilement pu influer sur les opérations exécutées par l’appelante à l’étranger. Il est très difficile de chiffrer ce type de risque parce qu’il touche sur les revenus futurs et peut entraîner des frais juridiques importants. Je suppose que les administrateurs de l’appelante n’auraient pas voulu autoriser l’opération Pechiney s’il n’avait pas été satisfait aux exigences réglementaires. La preuve révèle aussi que les administrateurs avaient approuvé l’opération Novelis seulement après qu’elle eut été structurée pour donner suite notamment aux engagements en matière de concurrence pris par l’appelante dans le contexte de l’opération Pechiney. L’appelante n’aurait pas pu se permettre d’agir autrement.
+[182] J’examinerai maintenant la preuve concernant la ventilation des frais payés aux fournisseurs de services afin de déterminer si les services se rapportent effectivement à des démarches faites auprès d’autorités gouvernementales.
+[183] L’appelante demande une déduction totale de 9 367 811 $CAD au titre de services fournis par Sullivan Cromwell. M. Miller était l’associé responsable du mandat de l’appelante[90]. Dans sa lettre datée du 23 juin 2004[91], M. Miller a mentionné que 75 p. 100 des services fournis par Sullivan Cromwell, pour lesquels la somme de 9 648 833 $US converti à 12 490 415 $CAD a été facturée à l’appelante, avaient trait à des démarches faites auprès du gouvernement pour le compte de l’appelante, soit :
+• des démarches relatives à la réglementation des valeurs mobilières aux États‑Unis (20 p. 100);
+• des démarches auprès des autorités françaises de réglementation des valeurs mobilières et des prises de contrôle (35 p. 100);
+• des démarches relatives aux questions antitrust aux États‑Unis (20 p. 100)[92].
+[184] Le témoignage de M. Miller n’a pas été contredit par l’intimée. Comme je l’ai dit dans mes observations sur la crédibilité, j’ai trouvé qu’il était un témoin fiable et crédible. Par conséquent, selon la répartition qu’a faite M. Miller[93], de la somme de 9 367 811 $CAD est déductible en vertu de l’alinéa 20(1)cc) de la Loi.
+[185] L’appelante a aussi déduit la somme de 4 954 777 $ en vertu de l’alinéa 20(1)cc) de la Loi pour les services fournis par Freshfields. Au paragraphe 178 de ses observations écrites, l’intimée admet que cette somme a été payée pour des conseils en matière de droit européen de la concurrence. Le seul argument de l’intimée est que les dépenses ont été engagées à l’égard de l’acquisition de Pechiney. Compte tenu de la preuve[94], je suis tout aussi convaincu que le travail se rapportait à des démarches en matière de droit de la concurrence faites pour le compte de l’appelante auprès d’autorités gouvernementales européennes. Par conséquent, la totalité de la somme est déductible en vertu de l’alinéa 20(1)cc) de la Loi.
+[186] L’appelante a versé à Darrois Villey la somme de 3 088 260 $, qu’elle a déduite en vertu de l’alinéa 20(1)cc). Sur la foi du témoignage de M. McAusland, je suis convaincu que cette somme se rapportait à des démarches faites auprès d’agences gouvernementales en Europe et auprès du ministère de la Défense de la France en vue d’obtenir les approbations réglementaires requises relativement à l’opération et relativement à l’entreprise de l’appelante. Par conséquent, la totalité de la somme est déductible en vertu de à l’alinéa 20(1)cc) de la Loi.
+[187] L’appelante a aussi déduit 1 618 648 $[95] au total au titre des frais payés à McMillan, à la Federal Trade Commission, à National Economic Research et à d’autres cabinets d’avocats dans divers ressorts. Sur la foi des témoignages de MM. McAusland et Miller, et de la preuve documentaire, je suis convaincu que ces sommes se rapportent à des services relatifs aux démarches faites auprès d’autorités gouvernementales par l’appelante relativement à des questions de conformité à la réglementation et d’approbation réglementaire. Par conséquent, la totalité de la somme est déductible en vertu de l’alinéa 20(1)cc) de la Loi.
+[188] L’appelante a versé 755 227 $ à Monitor Company Group, 177 349 $ à Frontier Economics et 10 008 $ à SCEHR Patrick Rey, pour un total de 942 584 $, dont l’appelante a demandé la déduction en vertu de l’alinéa 20(1)cc) de la Loi. L’intimée fait valoir que ces sommes ne sont pas déductibles, étant donné qu’elles se rapportent à l’acquisition de Pechiney. M. McAusland a témoigné qu’il s’agit de frais [traduction] « relatifs au soutien fourni en ce qui concerne le dépôt de documents auprès des autorités réglementaires[96] ». Le témoignage de M. Miller allait dans le même sens. Par conséquent, je suis convaincu que les sommes en question se rapportent à des services liés aux démarches faites par l’appelante en ce qui concerne la conformité à la réglementation. La somme dont la déduction est demandée est déductible en totalité en vertu de l’alinéa 20(1)cc) de la Loi.
+[189] En résumé, compte tenu de tout ce qui précède, l’appelante a le droit de déduire des sommes de 7 025 858 $ et de 10 604 26 $US en vertu de l’alinéa 20(1)cc) de la Loi.
+(3) Y a‑t‑il des dépenses contestées qui sont déductibles en vertu de l’alinéa 20(1)e) de la Loi? [190] Aux paragraphes 490 à 530 de ses observations écrites, l’appelante soutient à titre subsidiaire qu’une partie des dépenses contestées engagées relativement à l’opération Pechiney sont déductibles en vertu de à l’alinéa 20(1)e) de la Loi parce que l’appelante a aussi émis des actions de son capital‑actions en faveur des actionnaires de Pechiney. L’appelante cherche à déduire les frais d’impression des documents de placement à l’intention des actionnaires de Pechiney, 10 p. 100 des frais payés à Morgan Stanley, 5 p. 100 des frais payés à Lazard Frères et 5 p. 100 des honoraires versés à Sullivan Cromwell.
+[191] L’intimée soutient que cet argument n’a été soulevé ni dans l’avis d’opposition ni dans l’avis d’appel et que, par conséquent le paragraphe 169(2.1) de la Loi (la « règle relative aux grandes sociétés »),[97] vient empêcher l’appelante de le soulever maintenant. Dans l’avis d’opposition, l’appelante a inclus l’alinéa 20(1)e) parmi les dispositions qu’elle invoquait, mais elle n’a fait aucune référence à cet alinéa dans les motifs qu’elle a exposés à l’appui de sa thèse. Il ressort des actes de procédure que les seules dépenses dont l’appelante a expressément demandé la déduction en vertu de l’alinéa 20(1)e) étaient des frais qui s’élevaient au total à 2 104 454 $, somme composée de 1 873 562 $ payés à Sullivan Cromwell et de 140 892 $ payés à RBC, dont le ministre avait accordé la déduction[98]. De même, dans son avis d’appel, l’appelante a mentionné l’alinéa 20(1)e) comme l’une des dispositions sur lesquelles elle se fondait, mais elle n’a pas fait mention de cet alinéa dans ses motifs à l’appui de sa thèse.
+[192] Le paragraphe 169(2.1) de la Loi dispose :
+169(2.1) Malgré les paragraphes (1) et (2), la société qui était une grande société au cours d’une année d’imposition, au sens du paragraphe 225.1(8) et qui signifie un avis d’opposition à une cotisation établie en vertu de la présente partie pour l’année ne peut interjeter appel devant la Cour canadienne de l’impôt pour faire annuler ou modifier la cotisation qu’à l’égard des questions suivantes :
+a) une question relativement à laquelle elle s’est conformée au paragraphe 165(1.11) dans l’avis, mais seulement à l’égard du redressement, tel qu’il est exposé dans l’avis, qu’elle demande relativement à cette question;
+b) une question visée au paragraphe 165(1.14), dans le cas où elle n’a pas, à cause du paragraphe 165(7), signifier [sic] d’avis d’opposition à la cotisation qui a donné lieu à la question.
+Les parties s’entendent pour dire que l’appelante est une grande société. Par conséquent, dans son avis d’opposition, l’appelante était tenue de se conformer au paragraphe 165(1.11) de la Loi pour chaque question à l’égard de laquelle elle voulait interjeter appel devant la Cour. Le paragraphe 165(1.11) de la Loi dispose :
+165(1.11) Dans le cas où une société qui était une grande société au cours d’une année d’imposition, au sens du paragraphe 225.1(8), s’oppose à une cotisation établie en vertu de la présente partie pour l’année, l’avis d’opposition doit, à la fois :
+a) donner une description suffisante de chaque question à trancher;
+b) préciser, pour chaque question, le redressement demandé, sous la forme du montant qui représente la modification d’un solde, au sens du paragraphe 152(4.4), ou d’un solde de dépenses ou autres montants non déduits applicable à la société;
+c) fournir, pour chaque question, les motifs et les faits sur lesquels se fonde la société.
+[193] L’appelante soutient qu’elle s’est conformée au paragraphe 169(2.1) de la Loi parce qu’elle a soulevé, dans son avis d’opposition, la question suivante [traduction] « Les dépenses déduites sont-elles déductibles dans le calcul des revenus d’Alcan pour la période? » et qu’elle s’est fondée sur divers alinéas du paragraphe 20(1) de la Loi dans les motifs exposés à l’appui de sa thèse[99].
+[194] Comme l’intimée le fait remarquer à juste titre, la règle relative aux grandes sociétés vise à permettre à la Couronne de connaître à l’étape de l’opposition la nature du litige fiscal et le montant en cause[100]. Dans l’arrêt La Reine c. Potash Corp. of Saskatchewan Inc.[101], la Cour d’appel fédérale nous guide sur en ce qui concerne l’exigence d’une description suffisante de chaque question à trancher, qui est prévue à l’alinéa 165(1.11)a) :
+22 […] Contrairement à ce que le juge a dit, une grande société n’est pas tenue de décrire la question « de façon précise », mais elle est tenue de donner une description « suffisante ». Or, ce qui est suffisant diffère d’un cas à l’autre et dépend du degré de précision nécessaire pour permettre au ministre de connaître chaque question à trancher.
+[…]
+24 Contrairement à ce qu’a dit le juge, il n’aurait pas été suffisant de se contenter de dire que c’était la question de la détermination de la « déduction relative aux ressources » ou des « bénéfices relatifs à des ressources » qui était en litige sans préciser les éléments particuliers qui devaient être déterminés par le ministre ou par la Cour de l’impôt. Une description aussi générale aurait pour effet de rendre inutiles les Règles relatives aux grandes sociétés et irait à l’encontre de leur objet.
+[C’est moi qui souligne.]
+[195] Dans l’arrêt Bakorp Management Ltd. c. La Reine.[102], la Cour d’appel fédérale a réitéré la nécessité d’un certain degré de précision dans la formulation de chacune des questions, déclarant qu’« [u]ne question ou un énoncé général au sujet d’un montant à établir selon la Loi qui ne permettrait pas au ministre de savoir ce qui est véritablement en litige ne constituera pas une description suffisante de la question »[103].
+[196] Dans l’affaire Devon Canada Corp. c. La Reine., la Cour d’appel fédérale a eu l’occasion d’examiner, dans le contexte d’une déduction demandée en vertu du paragraphe 9(1) ou des alinéas 20(1)b) ou e) de la Loi si la contribuable satisfaisait aux exigences établies au paragraphe 165(1.11). Les observations de la Cour d’appel fédérale nous éclairent sur ce qui constituerait une description suffisante des questions qui expliquerait d’une manière suffisante la nature du litige fiscal dans ce contexte :
+21 […] En l’espèce, la nature du litige fiscal est liée à une déduction particulière qui a été demandée par les sociétés que Devon a remplacées. La Loi est un régime légal. Pour qu’on puisse demander une déduction dans le calcul du revenu ou du revenu imposable, il doit exister dans la Loi une disposition qui permet cette déduction. Par conséquent, il me semblerait que la nature du litige dans le présent contexte est liée à la déduction particulière que demande le contribuable […]
+[…]
+25 Devon aurait pu ajouter dans son avis d’opposition des arguments subsidiaires qui seraient incompatibles avec sa thèse initiale. […] Toutefois, comme ce n’est pas ce qu’a fait Devon, à mon avis, l’argument qu’elle a soulevé dans son avis d’opposition initial, selon lequel les paiements de renonciations étaient déductibles en vertu de l’article 9 de la Loi (et n’avaient donc pas été faits à titre de capital), ne peut être considéré comme s’il incluait les arguments subsidiaires et incompatibles au sujet des alinéas 20(1)b) et 20(1)e) de la Loi. Lorsque Devon demandait, pour AXL et pour Numac, une déduction en application de l’alinéa 20(1)b) ou de l’alinéa 20(1)e) de la Loi, elle soulevait de nouvelles questions. Chacun de ces alinéas s’applique à des montants payés qui sont à titre de capital et chacun établit des conditions qui doivent être remplies pour que s’appliquent leurs dispositions. Par conséquent, la nature de ces demandes est différente parce que les nouvelles déductions demandées reposent sur une prémisse différente (paiements faits à titre de capital par comparaison à une dépense courante) et sur des dispositions légales différentes assorties chacune de ses propres conditions.
+[C’est moi qui souligne.]
+Il semble donc que, dans le contexte de la déductibilité des dépenses, chacune des dispositions législatives sur lesquelles le contribuable se fonde pour prétendre qu’il a droit à la déduction qu’il demande peut faire naître une question distincte de manière à changer la nature du litige fiscal. En l’espèce, l’appelante cherche à obtenir une déduction en vertu de l’alinéa 20(1)e) et, ce faisant, soulève une nouvelle question.
+[197] En l’espèce, la formulation par l’appelante de la question en litige ‑ [TRADUCTION] « Les dépenses déduites sont-elles déductibles dans le calcul des revenus d’Alcan pour la période[…]? » ‑ est tout simplement trop générale pour qu’elle puisse constituer une description suffisante permettant au ministre de savoir ce qui est véritablement en litige. Comme dans l’affaire Bakorp, « [c]ette description de la question n’indique rien sur la question à trancher pour régler le litige »[104]. Il n’y a aucune indication des éléments particuliers entrant dans le calcul de la déduction[105].
+[198] L’appelante prétend que, puisqu’elle a invoqué l’argument subsidiaire selon lequel certains alinéas du paragraphe 20(1) pourraient s’appliquer de manière à ce que la déduction des dépenses contestées soit permise, l’ajout de l’alinéa 20(1)e) comme motif additionnel n’a pas changé la nature de la question en litige. Au paragraphe 218 de sa réponse aux observations écrites de l’intimée, elle déclare ceci : [traduction] « Alcan a toujours soutenu que les dépenses sont déductibles; elle n’invoque l’alinéa 20(1)e) de la Loi que comme motif à l’appui relativement à cette question. » L’appelante poursuit en déclarant, au paragraphe 219 de sa réponse : [traduction] « Alcan a toujours prétendu qu’il se pouvait que les dispositions du paragraphe 20(1) de la Loi soient applicables et elle ne change pas la nature de ses revendications ni n’ajoute une nouvelle question litigieuse. » Cela implique que, ayant fait valoir l’applicabilité du paragraphe 20(1) de la Loi, l’appelante pourrait invoquer dans sa plaidoirie l’un ou l’autre des alinéas de ce paragraphe. En toute déférence, je ne suis pas du même avis. Telle qu’elle a été formulée par l’appelante, la question ratisse trop large quant à la gamme de déductions auxquelles l’appelante pourrait prétendre avoir droit. Si la thèse de l’appelante est exacte, le ministre aurait à deviner lesquels des nombreux alinéas du paragraphe 20(1) pourraient s’appliquer à la situation de l’appelante. Je ne crois pas que ce résultat soit compatible avec l’objet sous‑jacent de la règle relative aux grandes sociétés. Citer l’alinéa 20(1)e) dans l’avis d’opposition, sans plus ne constitue pas une description suffisante de la question du droit de déduire en vertu de cet alinéa les dépenses contestées.
+[199] Même si l’appelante a donné une description suffisante de la question, elle n’a pas rempli la condition énoncée à l’alinéa 165(1.11)c), qui exige qu’une grande société fournisse, pour chaque question, les motifs et les faits sur lesquels elle se fonde. Il ressort de l’arrêt Bakorp que la simple mention d’une disposition en tant que disposition sur laquelle on s’appuie ne précise pas l’argument juridique fondé sur cette disposition que l’on avance[106]. Comme je l’ai fait remarquer, l’appelante a mentionné l’alinéa 20(1)e) comme faisant partie des dispositions sur lesquelles elle se fondait, mais sans donner de raisons. En revanche, l’appelante s’est expressément référée aux alinéas 20(1)g), bb) et cc) de la Loi dans ses motifs à l’appui de sa thèse et a précisé lesquelles des dépenses contestées elle demandait la déduction en vertu de ces dispositions et pourquoi. Par conséquent, l’appelante n’a pas respecté les exigences du paragraphe 165(1.11) de la Loi.
+[200] Indépendamment de la règle relative aux grandes sociétés, rien que l’équité procédurale commande qu’il ne soit pas permis à l’appelante de soulever une telle question à ce stade avancé de l’instance[107]. L’appelante n’a jamais avisé l’intimée qu’elle soulèverait cette question. Il va donc sans dire qu’au cours de l’interrogatoire préalable l’intimée n’a pas posé des questions en vue de connaître la preuve que pourrait présenter l’appelante relativement à l’alinéa 20(1)e). En outre, l’appelante n’a pas soulevé cet argument à l’audience. Je souligne que ni une ni l’autre partie n’a fait de déclaration préliminaire. Par conséquent, l’intimée a eu connaissance de cet argument pour la première fois lorsque l’appelante l’a avancé dans ses observations écrites, qu’elle a déposées de nombreuses semaines après l’audience. La preuve était alors close. Ce serait une injustice manifeste que de permettre à l’appelante de soulever cet argument à ce stade avancé de l’instance.
+[201] Si ma conclusion est erronée sur les points ci-dessus, je conclus également que l’appelante ne s’est pas acquittée de son fardeau de la preuve en ce qui concerne les sommes qui seraient déductibles en vertu de à l’alinéa 20(1)e) de la Loi. L’offre faite par l’appelante dans le contexte de l’opération Pechiney consistait en de l’argent comptant et des actions. L’élément « argent comptant » était plus important que l’élément « actions ». L’appelante n’a pas dit ce sur quoi elle s’était fondée pour répartir les frais d’impression entre, d’une part, les documents et les renseignements qui devaient être communiqués relativement à la contrepartie autre qu’en actions et, d’autre part, les documents et les renseignements concernant la contrepartie en actions. De même, l’appelante n’a présenté aucun élément de preuve pour justifier une répartition des frais payés aux fournisseurs de services (Morgan Stanley, Lazard Frères et Sullivan Cromwell) entre les services requis relativement à la contrepartie en actions et ceux requis relativement à la contrepartie autre qu’en actions. Aucune preuve prima facie n’étaye la répartition que l’appelante propose maintenant pour la première fois dans ses observations écrites. Par conséquent, aucune déduction n’est accordée en vertu de l’alinéa 20(1)e) de la Loi.
+(4) Y a‑t‑il des dépenses contestées qui sont des dépenses en capital admissibles déductibles en vertu de l’alinéa 20(1)b) de la Loi? [202] L’appelante fait valoir en dernier lieu que, dans la mesure où les dépenses contestées sont considérées comme des dépenses en capital qui ne sont pas déductibles en vertu des dispositions précises dont il est traité plus haut dans les présents motifs, elles sont des « dépenses en capital admissibles » donnant droit à une déduction en vertu de l’alinéa 20(1)b) de la Loi.
+[203] L’appelante s’appuie sur l’analyse du juge Hershfield dans la décision Potash Corporation of Saskatchewan Inc. c. La Reine[108] pour soutenir que les dépenses doivent être traitées comme des dépenses en capital admissibles. L’appelante fait valoir que cette décision établit le principe selon lequel des frais engagés pour améliorer la viabilité économique et financière d’une entreprise peuvent se rapporter à l’entreprise du contribuable et ne faire donc pas partie du coût en capital de l’élément d’actif[109].
+[204] Tout d’abord, pour ce qui est de l’opération Pechiney, les faits sous‑jacents sont très différents de ceux considérés dans l’affaire Potash. En l’espèce, comme l’intimée l’a indiqué dans ses observations écrites[110], l’appelante a utilisé activement la partie « capital » des dépenses contestées pour exécuter l’opération au moyen de laquelle elle a fait l’acquisition des actions de Pechiney. Contrairement à ce qui a été le cas dans l’affaire Potash, les fonds n’ont pas servi à améliorer la situation fiscale de l’appelante sur le plan internationale. Il s’agissait de coûts d’exécution, définis précédemment dans les présents motifs.
+[205] En ce qui concerne l’opération Novelis, l’appelante exagère lorsqu’elle affirme qu’elle a effectué la scission pour respecter ses engagements en matière de concurrence. Or, la scission touchait une entreprise de beaucoup plus grande envergure que les usines aux États‑Unis et en Europe que les autorités de réglementation en matière de concurrence voyaient comme opérant une diminution sensible de la concurrence. Je ne crois pas que l’appelante ait effectué la scission simplement pour tenir ses engagements en matière concurrence, comme elle l’a indiqué dans ses observations écrites. Considérée dans son ensemble, la preuve montre que l’appelante voulait augmenter la valeur pour les actionnaires au moyen de la scission, laquelle a eu pour effet que les actionnaires de l’appelante détenaient des actions dans deux sociétés ouvertes distinctes dont la valeur était supérieure à la valeur des actions de l’appelante avant la scission. À mon avis, les principes élucidés dans Potash ne doivent pas s’appliquer en dehors des faits et des circonstances de cette affaire‑là.
+[206] La définition de l’expression « dépense en capital admissible » exclut expressément les dépenses décrites aux alinéas a) à f) de la définition, qui se trouve au paragraphe 14(5) de la Loi. Le sous‑alinéa f)(iii) de la définition exclut expressément « une somme représentant tout ou partie du coût » d’une action. Les dépenses contestées relativement auxquelles j’ai conclu qu’elles sont des dépenses en capital qui ne sont pas déductibles en vertu de dispositions précises du paragraphe 20(1) font partie du coût des actions de Pechiney pour l’appelante, de la même façon que la contrepartie versée aux actionnaires de Pechiney fait partie du coût des actions pour l’appelante.
+[207] Un raisonnement légèrement différent s’applique aux dépenses contestées relatives à Novelis. En bref, l’appelante n’exploite pas une entreprise consistant à disposer de ses filiales en faveur de ses actionnaires dans le cadre d’une réorganisation de sociétés effectuée au titre du capital. Les dépenses en question n’ont pas été engagées à l’égard d’une entreprise de la contribuable. Par conséquent, l’alinéa 20(1)b) de la Loi ne s’applique, dans le cas de l’appelante à ni l’une ni l’autre opération.
+VI. Conclusion [208] Compte tenu de tout ce qui précède, pour ce qui est de l’opération Pechiney, la cotisation établie par le ministre pour l’année d’imposition 2003 de l’appelante sera renvoyée au ministre pour nouvel examen et nouvelle cotisation pour que soit accordée la déduction des sommes suivantes au taux de change applicable, s’il y a lieu :
+DÉPENSES CONTESTÉES (PECHINEY)
+Fournisseur de services
+Somme déductible
+Disposition correspondante
+Banques d’investissement
+Morgan Stanley
+16 933 276 $
+9(1) ou 20(1)bb)
+Lazard Frères
+2 852 582 $
+9(1) ou 20(1)bb)
+Frais de publicité
+Publicis et Valmonde
+0 $
+s.o.
+Démarches auprès des agences gouvernementales
+Freshfields Bruckhaus
+4 954 777 $
+20(1)cc)
+Sullivan Cromwell
+9 367 811 $
+20(1)cc)
+McMillan
+552 186 $
+20(1)cc)
+Divers autres cabinets d’avocats
+432 810 $
+20(1)cc)
+National Economic Res. Ass.
+241 539 $
+20(1)cc)
+Monitor Company Group
+755 227 $
+20(1)cc)
+Frontier Economics
+177 349 $
+20(1)cc)
+SCEHR Patrick Rey
+10 008 $
+20(1)cc)
+Federal Trade Commission
+392 112 $
+20(1)cc)
+Darrois Villey
+3 088 260 $
+20(1)cc)
+Publication et envoi de documents
+PwC
+0 $
+s.o.
+Bowne
+0 $
+s.o.
+SEC
+0 $
+s.o.
+Divers autres organismes de réglementation
+0 $
+s.o.
+Autres dépenses diverses
+Sullivan Cromwell
+0 $
+s.o.
+Davis Polk et ADP
+0 $
+s.o.
+Ogilvy Renault
+0 $
+s.o.
+Divers petits fournisseurs - communication
+0 $
+s.o.
+Ernst & Young
+0 $
+s.o.
+Ritz‑Carlton Montréal
+0 $
+s.o.
+Divers petits fournisseurs - autres
+0 $
+s.o.
+[209] Le reste des dépenses contestées relatives à l’opération Pechiney seront ajoutées au prix de base rajusté des actions de Pechiney.
+[210] En ce qui concerne la cotisation établie par le ministre du Revenu national à l’égard de l’année d’imposition 2007 de l’appelante, le jugement de la Cour est un jugement partiel parce que d’autres questions demeurent à être tranchées à la suite d’audiences futures. Dans la mesure où après la tenue d’audiences portant sur les autres questions, la Cour décidera que la cotisation établie pour l’année d’imposition 2007 de l’appelante doit être renvoyée pour nouvel examen et nouvelle cotisation, l’appelante aura droit aux déductions indiquées dans le tableau ci‑dessous dans le calcul de la perte autre qu’en capital se rapportant à son année d’imposition 2005 qu’elle a reportée et qu’elle a déduite dans le calcul de son revenu imposable pour son année d’imposition 2007, le tout conformément aux présents motifs du jugement :
+DÉPENSES CONTESTÉES (NOVELIS)
+Fournisseur de services
+Somme déductible
+Disposition correspondante
+Banques d’investissement
+Morgan Stanley
+0 $
+s.o.
+Lazard Frères
+14 218 477 $
+9(1) ou 20(1)bb)
+Publication et envoi de documents
+PwC
+0 $
+s.o.
+Bowne
+0 $
+s.o.
+Ernst & Young
+0 $
+s.o.
+[211] Le reste des dépenses, non indiquées ci-dessus, doivent être déduites du produit de disposition des actions d’Archer conformément à l’alinéa 40(1)a) de la Loi.
+Signé à Ottawa, Canada, ce 20e jour d’octobre 2016.
+« Robert J. Hogan »
+Juge Hogan
+RÉFÉRENCE :
+2016 CCI 172
+NOS DES DOSSIERS DE LA COUR :
+2013-3028(IT)G, 2012-4808(IT)G
+INTITULÉ DE LA CAUSE :
+RIO TINTO ALCAN INC. c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Montréal (Québec)
+DATES DE L’AUDIENCE :
+Les 19, 20, 21 et 22 octobre 2015
+MOTIFS DU JUGEMENT PAR :
+L’honorable juge Robert J. Hogan
+DATE DU JUGEMENT :
+Le 15 juillet 2016
+COMPARUTIONS :
+Avocats de l’appelante :
+Me Yves St-Cyr
+Me Larry Nevsky
+Avocates de l’intimée :
+Me Susan Shaughnessy
+Me Nathalie Labbé
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Yves St-Cyr
+Cabinet :
+Dentons Canada LLP
+Toronto (Ontario)
+Pour l’intimée :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] L.R.C. 1985, ch. 1 (5e suppl.).
+[2] Au paragraphe 4 des observations écrites de l’intimée, celle‑ci avance que les dépenses de Novelis devraient être déduites du produit de disposition des actions de Novelis. Selon la Cour, à supposer que la thèse de l’intimée soit bien fondée, les dépenses liées à la transaction Novelis seraient déductibles dans le calcul du produit de disposition des actions d’Archer ayant été transférées à Novelis en contrepartie des actions de celle‑ci qui ont par la suite été rachetées.
+[3] Note 2 ci-dessus.
+[4] Pièce A‑21.
+[5] Pièce A‑32.
+[6] Pièce A‑350.
+[7] Il convient de mentionner, par souci de précision, que l’intimée a fréquemment contesté, dans les faits, la répartition qu’a faite l’appelante dans le cas de la déduction, vertu de dispositions particulières du paragraphe 20(1) de la Loi, de la partie en capital des dépenses contestées.
+[8] L’intimée soutient que les frais ont été engagés relativement à l’acquisition des actions de Pechiney. À mon avis, il est plus juste de dire que ces frais ont été engagés dans le contexte général de l’opération Pechiney.
+[9] L’appelante a aussi fait valoir que ces sommes étaient déductibles en vertu de l’alinéa 20(1)e). Pour les motifs exposés plus loin, je conclus que cette disposition n’a pas été dûment invoquée par l’appelante.
+[10] Idem.
+[11] Idem.
+[12] Idem.
+[13] Paragraphe 90 de la réponse de l’intimée à l’avis d’appel modifié.
+[14] British Columbia Electric Railway Company Limited v The Minister of National Revenue, [1958] R.C.S. 133 à la page 137. L’alinéa 12(1)a) est presque identique à l’alinéa 18(1)a) aux paragraphes 178 à 181 ci‑dessous, je traite de la façon dont l’opération Pechiney a permis à l’appelante d’Accroître son revenu d’entreprise.
+[15] Ibid.
+[16] [1985] 2 R.C.S. 46.
+[17] [1926] A.C. 205; 10 T.C. 155
+[18] Ibid.
+[19] Peter W. Hogg, Joanne E. Magee et Jinyan Li, Principles of Canadian Income Tax Law, 8e éd. Toronto, Carswell, 2013, section 9.2(a)(ii) (« Capital expenditure » défini aux pages 274 et 275.
+[20] British Insulated, précité note 18, aux pages 213 et 214 A.C. (192 et 193 T.C.).
+[21] (1938), 61 C.L.R. 337.
+[22]Canada Starch Co. v. Minister of National Revenue,[1989] 1 R.C.É. 96, aux pages 101 et 102, [1968] C.T.C. 466, aux pages 471 et 472.
+[23] Ikea Ltd. c Canada, [1998] 1 R.C.S. 196.
+[24] Ibid, au par. 28.
+[25] Morguard Corporation c. Canada, 2012 CAF 306, au par. 16.
+[26] [1997] C.F. 421, 71 DTC 5469.
+[27] [1987] A.C.I. n°811(2L), 87 DTC 576.
+[28] HM Inspector of Taxes v. Camas Plc, [2004] EWCA Civ 541 (« Camas »). Les dépenses jugées admissibles en tant que déductions au titre du revenu se rapportaient à des conseils financiers, juridiques et comptables. Camas, au paragraphe 33.
+[29] Ibid., au paragraphe 33 des motifs du jugement de lord juge Carnwath.
+[30] Neonex International Ltd. c.Canada., [1978] A.C.F. n°514(QL), [1978] C.T.C. 485 (CAF).
+[31] Rona Inc. c. La Reine, 2003 CCI 121.
+[32] Firestone c. Canada, [1987] 3 C.F. 220, 87 DTC 5237 (CAF).
+[33] Pièce A-20.
+[34] M. Brian Healy a témoigné à l’audience concernant la relation entre les activités de banque d’investissement de Morgan Stanley, dont il fait partie, et Alcan. Il a également déclaré que Morgan Stanley avait officiellement commencé à travailler sur l’opération visant Pechiney à la fin de l’année 2002. Tanscription du mardi 20 octobre 2015, à partir de la page 103.
+[35] Pièce A-207.
+[36] Pièces A-209 à A-212, A-216, A-217, A-224 et A-226.
+[37] 10 p. 100 de 26 051 194 $.
+[38] Pièces A-20 et A-21.
+[39] 2005 CAF 135, [2006] 1 R.C.F. 561.
+[40] Ibid., au paragraphe 25.
+[41] Le montant déductible en vertu du paragraphe 9(1) de la Loi s’élève donc à 16 933 276 $.
+[42] Pièce A-33.
+[43] Point 1, pièce A-33.
+[44] Transcription, 22 octobre 2015, aux pages 7 et 8.
+[45] Cela donne 2 852 581,55 $ (35 p. 100 de 8 150 233 $).
+[46] Dans ses observations écrites, au paragraphe 194, à la page 76, l’intimée décrit le mandat de Lazard Frères dans le cas de l’opération Novelis comme concernant [traduction] « une autre opération possible, soit la vente des actifs plutôt que l’exécution d’une scission ».
+[47] Transcription, 22 octobre 2015, à la page 22.
+[48] Observations écrites de l’appelante, au paragraphe 168.
+[49] Observations écrites de l’appelante, au paragraphe 171.
+[50] Cela donne 14 218 476,59 $ (16 031 657 x 88,69 p. 100) de déductibles en vertu du paragraphe 9(1) de la Loi.
+[51] Transcription de l’audience, 20 octobre 2015, aux pages 132 à 136.
+[52] Morgan Stanley a demandé, en tout, 8 253 794,52 $ pour l’opération Novelis, d’après la facture (pièce A‑47) datée du 25 janvier 2005 établie par Morgan Stanley. Ce montant comprend des dépenses remboursables de 296 863 $.
+[53] Pièce A-58.
+[54] Ibid. Premier paragraphe de la lettre.
+[55] Transcription de l’audience, 20 octobre 2015, contre‑interrogatoire de M. David McAusland, page 70, lignes 23 à 28.
+[56] Transcription de l’audience 20 octobre 2015, contre-interrogatoire de M. David McAusland, de la page 72, ligne 27, à la page 74, ligne 7 (tiré textuellement de la transcription à l’interrogatoire préalable).
+[57] Fais miennes les conclusions de l’intimée sur la preuve, qui figurent aux paragraphes 129 à 139 de ses observations écrites.
+[58] L’appelante indique que ce montant a été établi en [traduction] « prenant le montant qui figure à la pièce A‑81 et en appliquant le pourcentage qui figure à la pièce A-80 » (observations écrites de l’appelante, au paragraphe 141). Le paragraphe 7 de la pièce A‑80, qui est une lettre dans laquelle Sullivan Cromwell fournit la ventilation de ses honoraires, mentionne que 5 p. 100 des services fournis par Sullivan Cromwell se rapportaient à [traduction] « [d’]autres conseils et services juridiques », y compris des conseils donnés au conseil d’administration concernant les obligations fiduciaires et les responsabilités relatives à l’opération. Cette lettre indique également que le montant total des honoraires facturés par Sullivan Cromwell pour ses services était de 9,45 millions de dollars américains. Par conséquent, il semble que c’est à tort que l’appelante demande une déduction de 967 152 $. La déduction demandée devrait plutôt être équivalent, en dollars canadiens de 5 p. 100 de 9 367 811 $US.
+[59] Pièce A-130.
+[60] Pièce A-122.
+[61] Pièce A-120.
+[62] 95 DTC 56 (CCI); conf. par 97 DTC 5012 (CAF).
+[63] L.R.Q., c. V‑1.1.
+[64] Paragraphe 98(2) de la Loi sur les compagnies, L.R.Q., c. C-38.
+[65] Précité, note 64, à la page 64.
+[66] Je fais remarquer que, dans la première offre de l’appelante, les actionnaires de Pechiney se sont fait offrir des actions d’Alcan; ils étaient donc d’éventuels investisseurs dans l’appelante.
+[67] Observations écrites de l’appelante, au paragraphe 402, à la page 115, et observations écrites de l’intimée, au paragraphe 89, aux pages 38 et 39.
+[68] Observations écrites de l’appelante, au paragraphe 35, à la page 17, et au paragraphe 404, à la page 116; observations écrites de l’intimée, au paragraphe 90, à la page 39.
+[69] Observations écrites de l’intimée, au paragraphe 90, à la page 39.
+[70] 2005 CSC 54, [2005] 2 R.C.S. 601.
+[71] Ibid., aux paragraphes 10, 11 et 12.
+[72] Ibid., au paragraphe 10.
+[73] [2000] A.C.I n°866 (QL), [2001] G.S.T.C. 5, confirmé par 2002 CAF 200, [2002] G.S.T.C. 58(CAF).
+[74] Je souligne que le mot « contrepartie » est de portée beaucoup plus large que le concept de « commission ».
+[75] [1931] 1 W.W.R. 465, cité au paragraphe 37 des motifs de la juge Lamarre dans ITA Travel.
+[76] [1974] 1 C.F. 637 (CAF).
+[77] Ibid., à la page 645.
+[78] 2004 CSC 6, [2004] 1 R.C.S 217.
+[79] Lettre de Morgan Stanley adressée à Alcan et datée du 18 juin 2004, pièce A‑20, aux pages 913 à 915.
+[80] Lettre de Lazard Frères adressée à Alcan et datée du 22 juin 2004, pièce A-33, à la page 985.
+[81] Ibid.
+[82] Observations écrites de l’intimée, aux paragraphes 203 et 205, aux pages 79 et 80.
+[83] Lettres envoyées à des acheteurs potentiels par Lazard Frères et toutes, sauf une, datées du 27 août 2004, pièce A-22.
+[84] Décision anticipée en matière d’impôt sur le revenu relativement à la scission Novelis, datée du 15 décembre 2004, pièce A-350. À l’audience, on n’a présenté aucun élément de preuve donnant à penser que la scission n’avait pas été effectuée conformément à la description qui en était donnée dans la décision anticipée.
+[85] Ibid., au paragraphe 45.
+[86] Frais engagés – Pechiney, pièce A-362.
+[87] Observations écrites de l’intimée, aux paragraphes 169 et 170, aux pages 67 et 68.
+[88] Pièces A-357 à A-359. À l’audience, deux tableaux (pièces A-364 et A‑365) ont aussi été présentés en preuve. La pièce A‑364 porte sur les frais de gestion et les dividendes reçus de filiales étrangères ou versés à des filiales étrangères pour les années d’imposition 2003 à 2007, selon les feuillets T106 qui ont été produits par Alcan. La pièce A‑365 porte également sur les mêmes frais de gestion et les dividendes, mais pour les années d’imposition 2008 à 2014.
+[89] Canadian Marconi c. Canada, [1986] 2 R.C.S. 522, 86 DTC 6526.
+[90] Interrogatoire de M. Scott Miller, transcription de l’audience, jeudi 22 octobre 2015, à la page 70, lignes 15 à 21.
+[91] Lettre de Sullivan Cromwell LLP à Alcan Inc., signée par Scott D. Miller et donnant une ventilation générale des services fournis à Alcan relativement à l’opération Pechiney, pièce A-80.
+[92] Ibid.
+[93] Cela comprend les services soulignés dans les trois points énumérés au paragraphe 183 ci-dessus.
+[94] Factures établies par Freshfields Bruckhaus Deringer, pièces A-76 et A-77.
+[95] Cette somme représente un total de 552 186 $ pour les services fournis par McMillan Binch LLP, de 392 112 $ payé par la Federal Trade Commission, de 241 539 $ payés à National Economic Research Associates Inc. et de 432 810 $ payés à d’autres cabinets d’avocats.
+[96] Contre-interrogatoire de M. David McAusland, transcription de l’audience, mardi 20 octobre 2015, à la page 85, lignes 9 à 16.
+[97] Observations écrites de l’intimée, aux paragraphes 227 et 228, à la page 86.
+[98] Avis d’appel de l’appelante dans le dossier 2013-3028(IT)G, à la page 10.
+[99] Avis d’opposition de l’appelante, pièce A-337, à la page 6613.
+[100] Devon Canada Corp. c. La Reine., 2015 CAF 214, au paragraphe 21.
+[101] LA Reine c. Potash Corp. of Saskatchewan Inc., 2003 CAF 471.
+[102] Bakorp Management Ltd. c. La Reine., 2014 CAF 104.
+[103] Ibid., au paragraphe 28.
+[104] Ibid., au paragraphe 33.
+[105] Ibid., au paragraphe 32.
+[106] Ibid., aux paragraphes 39 et 42.
+[107] Voir le paragraphe 70, où j’ai rejeté l’argument de la Couronne fondé sur l’alinéa 18(1)a) pour une raison similaire en me basant sur un argument fort convaincant avancé par l’avocat de l’appelante. L’expression « ce qui vaut pour l’un vaut aussi pour l’autre » s’applique en l’espèce, des cas de la Couronne et de la contribuable étant cependant reconnue.
+[108] 2011 CCI 2013, 2011 DTC 1163.
+[109] Observations écrites de l’appelante, au paragraphe 519, à la page 146.
+[110] Observations écrites de l’intimée, au paragraphe 223, à la page 85.

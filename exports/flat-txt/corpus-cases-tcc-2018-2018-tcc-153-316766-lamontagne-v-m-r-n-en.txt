@@ -1,0 +1,281 @@
+Title: Lamontagne v. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/316766/index.do
+Corpus path: corpus/cases/tcc/2018/2018-tcc-153-316766-lamontagne-v-m-r-n-en.md
+Document type: case_law
+Last modified: 2018-07-25
+
+# Lamontagne v. M.R.N.
+
+- Citation: 2018 TCC 153
+- Decision date: 2018-07-25
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4966, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Lamontagne v. M.R.N.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2018-07-25
+Neutral citation
+2018 TCC 153
+File numbers
+2011-3612(EI)
+Judges and Taxing Officers
+Johanne D’Auray
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2011-3612(EI)
+BETWEEN:
+GINETTE LAMONTAGNE,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+SUN LIFE FINANCIAL DISTRIBUTORS (CANADA) INC.,
+Intervener.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard on January 7, 2015, November 2, 2015, September 30, 2016, and March 13, 14 and 15, 2018, in Montréal, Quebec.
+Before: The Honourable Justice Johanne D’Auray
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Sara Jahanbakhsh
+Counsel for the Intervener:
+Luc Deshaies
+JUDGMENT
+The appeal under subsection 103(1) of the Employment Insurance Act is dismissed, and the decision rendered by the Minister of National Revenue on August 22, 2011, is upheld.
+Signed at Montréal, Quebec, this 25th day of July 2018.
+“Johanne D’Auray”
+D’Auray J.
+Citation: 2018 TCC 153
+Date: 20180725
+Docket: 2011-3612(EI)
+BETWEEN:
+GINETTE LAMONTAGNE,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+SUN LIFE FINANCIAL DISTRIBUTORS (CANADA) INC.,
+Intervener.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+D’Auray J.
+I. INTRODUCTION
+[1] This is an appeal filed by Ginette Lamontagne (the Appellant) from a decision in which the Minister of National Revenue (the Minister) concluded that the Appellant was not employed in insurable employment under the Employment Insurance Act, S.C. 1996, c. 23 (the EIA or the Act) at the payor company, Sun Life Financial Distributors (Canada) Inc. (Sun Life), during the period from October 1, 2008, to October 8, 2009. Sun Life intervened in this appeal to support the Minister’s position.
+II. BACKGROUND
+[2] Sun Life is an insurance company offering life, accident and health insurance, as well as mutual funds. These products are made available through its advisors.
+[3] In January 2004, the Appellant initiated the process through the company Clarica Financial Services Inc. (which became Sun Life in 2006) to obtain her advisor’s licence from the Autorité des marchés financiers (AMF).
+[4] After completing training and a three-month internship with Sun Life, the Appellant obtained her advisor’s licence. On June 6, 2004, the Appellant signed a contract [1] with Sun Life under which she agreed to sell insurance policies and products from companies affiliated with Sun Life. The Appellant became a member of the team at Sun Life’s financial centre in Brossard (Financial Centre).
+[5] The terms of the contract signed by the Appellant included the following:
+[translation] ARTICLE 2
+ADVISOR’S ROLE
+2.1. Role on behalf: The Advisor is responsible for engaging in the following activities on the Company’s behalf:
+2.1.1 soliciting and obtaining policy applications;
+2.1.2 presenting the offerings of the Company or its affiliates to clients and encouraging them to become clients of the Company or its affiliates;
+2.1.3 assuming responsibility for servicing personal policies, policies assigned and policy replacements not transitioned;
+2.1.4 acting as the Company’s agent concerning all aspects of the marketing and distribution of policies among the public.
+2.2 Performance of activities: Advisors are authorized to perform their activities in any lawful manner they deem appropriate subject to ongoing compliance with the provisions of this contract. Subject to the terms set out herein, they may carry out the activities described in paragraph 2.1 in the places and manners and at the times they deem appropriate.
+2.3 Independent contractor: The Company and the Advisor are independent contractors. This contract in no way creates any form of employer-employee or master-servant relationship between the parties.
+[6] On November 9, 2006, the Appellant signed a second contract authorizing her to sell the investment funds of Sun Life and its affiliates. [2] The clauses of this contract were similar to those cited above. [3]
+[7] On October 8, 2009, Sun Life terminated the contracts between it and the Appellant by presenting her a letter signed by Jean Paquet, general manager of the Brossard Financial Centre, and John Lanni, regional vice-president, effective October 22, 2009.
+[8] The parties disagreed as to the nature of the contracts between the Appellant and Sun Life. The Appellant claimed that she was an employee of Sun Life, whereas the latter claimed that the Appellant was self-employed.
+[9] The Appellant filed a complaint in this regard with the Commission des relations du travail and initiated proceedings against Sun Life before the Superior Court of Québec for termination in bad faith and abusive termination of her contract of employment seeking damages in the amount of $3.7 million. Both entities considered the Appellant’s status, and both ruled that the Appellant was self-employed. [4]
+[10] The Appellant testified at the hearing of this appeal, while John Lanni, regional vice-president of Sun Life, and Jean Paquet, general manager of Sun Life’s Brossard Financial Centre during the year in dispute, testified on behalf of Sun Life. The Respondent called as a witness Elio Palladini, appeals officer for the Canada Pension Plan and Employment Insurance Program.
+III. ISSUE
+[11] Did the Appellant hold insurable employment within the meaning of paragraph 5(1)(a) of the EIA during the period from October 1, 2008, to October 9, 2009, while she was working for Sun Life?
+IV. POSITIONS OF THE PARTIES
+[12] The Appellant maintains that she was an employee of Sun Life and that the parties were consequently bound by a contract of employment. According to the Appellant, a relationship of subordination existed between her and Sun Life. The Appellant argues that Sun Life exercised control over her work in that it supervised her, dictating the manner in which she was to perform her work and reprimanding her on occasion.
+[13] The Appellant argues further that she was required to go to the Financial Centre, required to attend Sun Life training sessions and required to follow a specific schedule. Moreover, the Appellant argues that she was required to work exclusively for Sun Life.
+[14] The Respondent and Sun Life argue that the Appellant was self-employed. As such, the two contracts signed by the Appellant and Sun Life reflect the intention of the parties that the Appellant perform her role as an advisor as a self-employed worker. Sun Life argues further that the facts show that no relationship of subordination ever existed between it and the Appellant.
+V. ANALYSIS
+A. Insurable employment according to 5(1)(a) of the EIA
+(1) Applicable legislation and legal principles
+[15] Within the meaning of the EIA, insurable employment is defined as follows:
+Meaning of insurable employment
+5 (1) Subject to subsection (2), insurable employment is
+a) employment in Canada by one or more employers, under any express or implied contract of service or apprenticeship, written or oral, whether the earnings of the employed person are received from the employer or some other person and whether the earnings are calculated by time or by the piece, or partly by time and partly by the piece, or otherwise;
+. . .
+[16] Paragraph 5(1)(a) of the EIA does not set out what constitutes a “contract of employment.” In light of the principle of complementarity in section 8.1 of the Interpretation Act (R.S.C. [1985], c. I-21), the Court must consequently use the rules of right of ownership and private rights of the province of Quebec, the province in which the dispute arose. In the present case, the provisions of the Civil Code of Québec (C.C.Q.) are applicable in determining whether the services provided by the Appellant to Sun Life corresponded to a contract of employment or to a contract of enterprise or for services. [5]
+[17] The relevant provisions of the C.C.Q. concerning the contract of employment and the contract of enterprise or for services are as follows:
+CHAPTER VII
+CONTRACT OF EMPLOYMENT
+2085. A contract of employment is a contract by which a person, the employee, undertakes, for a limited time and for remuneration, to do work under the direction or control of another person, the employer.
+. . .
+CHAPTER VIII
+CONTRACT OF ENTERPRISE OR FOR SERVICES
+DIVISION I
+NATURE AND SCOPE OF THE CONTRACT
+2098. A contract of enterprise or for services is a contract by which a person, the contractor or the provider of services, as the case may be, undertakes to another person, the client, to carry out physical or intellectual work or to supply a service, for a price which the client binds himself to pay to him.
+2099. The contractor or the provider of services is free to choose the means of performing the contract and, with respect to such performance, no relationship of subordination exists between the contractor or the provider of services and the client.
+[18] Quebec civil law defines the characteristic constituent elements of a contract of employment. Under Quebec law, a contract of employment within the meaning of the C.C.Q. exists where there is the performance of work, remuneration and a relationship of subordination. [6] In common law, these are the criteria established in the case law with a view to deciding whether a contract of employment exists.
+[19] This being the case, the discussion as to whether, under civil law, the Court may use the criteria established in the case law in common law to determine whether a contract of employment exists is closed. The Federal Court of Appeal ruled on this issue in Le Livreur Plus Inc. v. Canada [7] and Grimard v. Canada. [8]
+[20] In Grimard, Létourneau J.A. observed that the criteria established in common law for determining the existence of either a contract of employment or a contract of enterprise or for services may be used in civil law as indicia in determining whether a relationship of subordination exists between employer and employee. Justice Létourneau writes that while the conceptual approaches of the two legal systems differ, the criteria used in civil law to determine whether an element of control or a relationship of subordination exists are essentially the same as those used in common law to determine whether a contract of employment exists:
+[43] In short, in my opinion there is no antinomy between the principles of Quebec civil law and the so‑called common law criteria used to characterize the legal nature of a work relationship between two parties. In determining legal subordination, that is to say, the control over work that is required under Quebec civil law for a contract of employment to exist, a court does not err in taking into consideration as indicators of supervision the other criteria used under the common law, that is to say, the ownership of the tools, the chance of profit, the risk of loss, and integration into the business.
+[21] In his work entitled Le droit du travail du Québec, [9] author Robert Gagnon sets out the criteria for analysis in civil law for determining whether a contract of employment exists. The criteria that he proposes for consideration are essentially the same as those established in the case law in common law: [10]
+[translation] 92 – Concept – Historically, civil law initially established a so-called strict, or classical, concept of legal subordination that was used as a test for applying the principle of a principal’s civil liability for injury caused by the fault of his subordinates in the performance of their duties (s. 1054 C.C.L.C.; s. 1463 C.C.Q.). This classical legal subordination was characterized by the employer’s immediate control over the nature and the terms and conditions of the employee’s performance of the work. Over time, it subsequently became more flexible, shifting toward the notion of legal subordination in the broad sense. The diversification and specialization of occupations and work techniques have, in this regard, frequently made it unrealistic to expect employers to be able to immediately dictate or even supervise the performance of work. Subordination has consequently come to be assimilated with the attribution of power to the person henceforth recognized as the employer to determine the work to be performed and to supervise and control its performance. Reversing the perspective, the worker accepts to be integrated into the employer’s business to have the latter benefit from his work. In practice, one looks for a number of indicia of supervision that may, however, vary depending on the context: compulsory attendance at a workplace, the fairly regular assignment of work, imposition of rules of conduct or behaviour, requirement of activity reports, control over the quantity or quality of the work done, ownership of tools, chance of profit, risk of loss and so on. Work in the home does not preclude this sort of integration into the business.
+[Emphasis added.]
+[22] However, before examining the aforementioned criteria, the Court must first analyze the contracts signed by the Appellant and Sun Life to determine whether their intention was to enter into contracts of employment of contracts of enterprise or for services. [11]
+[23] The intentions of the parties concerning the contracts do not, on their own, determine the nature of the contracts; the Court must ask whether the intentions of the parties concerning the contracts are consistent with the facts, that is, with the behaviour of the parties. If the facts show that the intentions of the parties are not consistent with the behaviour of the parties, then the nature of the contracts is determined based on factual reality rather than on the claims of the parties to the contracts. In Grimard, [12] Létourneau J.A. of the Federal Court of Appeal noted the following in this regard:
+[33] As important as it may be, the intention of the parties is not the only determining factor in characterizing a contract: see D & J Driveway Inc. v. M.N.R., 2003 FCA 453; Dynamex Canada Inc. v. Canada, 2003 FCA 248. In fact, the behaviour of the parties in performing the contract must concretely reflect this mutual intention or else the contract will be characterized on the basis of actual facts and not on what the parties claim.
+[Emphasis added.]
+[24] As such, after establishing the intention of the parties to the contract, analysis of the factual framework is used to determine not only whether the behaviour of the parties is consistent with the contract but also whether this behaviour creates a relationship of subordination: does the employer control the person providing the services? As I have noted previously, the criteria established in the case law for determining whether a relationship of subordination exists between employer and employee are control, supervision, fairly regular attendance at a workplace, the fairly regular assignment of work, imposition of rules of conduct or behaviour, requirement of activity reports, ownership of tools, chance of profit, risk of loss and integration into the business.
+[25] In this regard, the relevance and emphasis associated with each criterion varies depending on the factual context.
+(2) Application of these principles to the facts of this appeal
+a) Intentions of the parties
+[26] The Appellant signed two contracts with Sun Life. Clearly, the intentions of the Appellant and Sun Life upon signing these contracts was for the Appellant to perform her duties in her role as advisor as an “independent contractor.” Paragraph 2.3 of the contract signed by the Appellant on June 16, 2004, [13] leaves no doubt, nor does the contract signed on November 9, 2006: [14]
+Contract of June 16, 2004, paragraph 2.3: [translation] Independent contractor: The Company and the Advisor are independent contractors. This contract in no way creates any form of employer-employee or master-servant relationship between the parties.
+Contract of November 9, 2004, paragraph 2c: [translation] The Company and the Advisor are independent contractors. This contract in no way creates any form of employer-employee or master-servant relationship between the parties.
+[27] In light of the clear language in both contracts, I find that the intention of the parties was to create contracts between the Appellant and Sun Life under which the Appellant performed her duties in her role as advisor as an “independent contractor.”
+[28] This being the case, after determining the intentions of the parties to the contracts, the Court must examine whether the intentions of the parties are consistent with the behaviour of the parties. This consequently requires analysis of all facts in the record.
+b) 2008 and 2009 income tax returns
+[29] In calculating her income for the 2008 and 2009 tax years, [15] the Appellant declared the income she earned as an advisor at Sun Life as business income. In keeping with this, she deducted expenses that she incurred as an advisor in order to earn this business income. [16] For income tax purposes, the Appellant consequently classified herself as an “independent contractor,” that is, as self-employed.
+[30] On cross-examination, the Appellant acknowledged that her contracts with Sun Life stipulated that she was working as an “independent contractor.” However, she states that she did not read the contracts before signing them and was pressured to sign them quickly. [17] The Appellant is an intelligent person, making it surprising that she would not read the contracts before signing them. Moreover, insofar as she classified herself as an independent contractor on her income tax returns, I find it reasonable to doubt the Appellant’s credibility in this respect.
+[31] These facts support the existence of self-employment contracts.
+c) Degree of control and relationship of subordination
+[32] The Appellant argues that she was supervised and that her work was controlled by Sun Life and that as such, an employer-employee relationship, or relationship of subordination, existed between her and Sun Life. I will consequently examine the criteria I have listed in these reasons to determine whether a relationship of subordination existed between Sun Life and the Appellant.
+(i) Place of work and work schedule
+[33] The Appellant claims that Sun Life required her presence at the Financial Centre between 8:30 a.m. and 4:30 p.m. She claims further that Sun Life required its advisors to work a minimum number of hours per week.
+[34] The evidence does not confirm the Appellant’s version. To the contrary, the evidence shows that the Appellant did not have to be present at the Financial Centre every day between 8:30 a.m. and 4:30 p.m. During the period in dispute, the Appellant worked at home because she did not have an office at the Financial Centre. The Appellant went to the Financial Centre to pick up cheques to distribute to her clients and to sign documents or have documents signed. The Appellant also went to the Financial Centre to attend training sessions. Depending on the circumstances, the Appellant might go the Financial Centre two to three times a week, sometimes more and sometimes less often. The evidence shows that Sun Life did not require the Appellant to be present at the Financial Centre every day from 8:30 a.m. to 4:30 p.m. as she claims.
+[35] At the hearing, the Appellant denied working at home. According to her, all work was performed on clients’ premises. The evidence for the period in dispute is clear: the Appellant chose not to rent a work space at the Financial Centre, preferring instead to work at home. On her income tax returns for the 2008 and 2009 tax years, the Appellant claimed business-use-of-home expenses in this regard. At line 9945, the Appellant’s accountant noted “Business-use of home income taxes.” [18] Additionally, the Appellant testified that when Sun Life terminated her contracts, she had to return to Sun Life all documents concerning clients that she had at her home. Based on this evidence, I find it difficult to understand why the Appellant is arguing that she had to be present at the Financial Centre and that she did not work at home.
+[36] The Appellant also argues that Sun Life required her to work at least 40 to 55 hours and that she had to make a certain number of calls each day. The evidence shows that at meetings, Sun Life recommends that its advisors call 20 to 25 potential clients each day in order to build their business and to work 40 to 55 hours a week to achieve a certain level of success; however, these are only recommendations. In reality, Sun Life had no way of verifying how many hours the Appellant worked. The evidence shows that the Appellant enjoyed a high degree of latitude in this regard. During her testimony, the Appellant stated in this regard that she [translation] never reported to anyone at Sun Life concerning how many hours she worked. [19] Moreover, the Appellant was responsible for scheduling her own meetings with clients. She also set her own working hours, whether days, evenings or weekends, without reporting whatsoever to Sun Life in this regard.
+[37] The Appellant also claims that she had to take her vacation in July and that she had to get prior authorization from the Financial Centre’s general manager, Mr. Paquet. [20] The evidence does not show that the Appellant had to obtain authorization from Mr. Paquet before taking vacation or that the advisors had to take their vacations in July. What the evidence shows is that the Financial Centre management did not have to approve advisor vacation time. However, in the interest of maintaining service to clients, the Financial Centre management did ask advisors to inform them when they would be away for an extended period and to advise management of the name of the advisor covering for their absence. I am of the opinion that this request from Sun Life does not show that a relationship of subordination existed between the Appellant and Sun Life. Sun Life’s request was a matter of courtesy in the context of a professional relationship.
+[38] Sun Life consequently did not control the hours the Appellant had to work or when she chose to see her clients, and the Appellant did not have to get her vacation time approved. She was also free to either work at home or rent space at the Financial Centre as she wished.
+(ii) Licensing and licence ownership
+[39] The Appellant claims that Sun Life controlled the licence issued in her name in that her advisor’s licence from the AMF was arranged through Sun Life.
+[40] The AMF is the entity that oversees financial markets in Quebec and protects the public. Advisors are governed by An Act respecting the Autorité des marchés financiers, CQLR, c. A-33.2 and An Act respecting the distribution of financial products and services, RSQ, c. D.92 (“Distribution Act”), as evidenced by the testimony of Mr. Lanni.
+[41] Under the legislation, to obtain a licence from the AMF, advisors must be attached to a legal person in the form of a body corporate. The Appellant’s licence thus had to necessarily be “attached” to Sun Life. If the Appellant ceased selling Sun Life products, then Sun Life had to ensure that her licence was rescinded. In my opinion, this cannot constitute an element of control, because it exists due to legal requirements.
+(iii) Mandatory meetings and training sessions
+[42] The Appellant also claims that she had to take part in training sessions dictated by Sun Life as well as attend sales meetings. According to her, any absences or late arrivals on her part were noted and documented.
+[43] However, the Appellant acknowledges that in order to remain licensed, advisors are required by the AMF to complete 40 professional development units (“PDUs”) every two years.
+[44] The evidence shows that Sun Life offers its advisors numerous optional training sessions on a range of topics. However, it is AMF requirements that advisors must meet with respect to PDUs. Sun Life reports to the AMF concerning the training completed by each advisor, hence the importance of tracking the attendance of participants. Based on Mr. Lanni’s testimony, advisors are free to choose any form of training they like as long as it is recognized by the AMF. Additionally, if advisors decide to take part in training that is not offered through Sun Life, they must advise their general manager for purposes of tracking PDUs and reporting to the AMF. [21]
+[45] Meanwhile, based on Mr. Lanni’s and Mr. Paquet’s testimony, Sun Life frequently arranges meetings among its advisors so they can share information concerning various work strategies, foster a motivating environment and promote team spirit. These meetings are optional, although the Financial Centre management provides certain encouragement to advisors to take part. On cross-examination, the Appellant admitted that she did not take part in some of these meetings. [22]
+(iv) Supervision of work by Sun Life
+[46] The Appellant claims that the members of the Financial Centre management controlled all work she performed as an advisor for Sun Life. She indicates that she had to maintain a log of all calls made to potential clients and report on all contacts she had made with them. [23] According to the Appellant, everything had to be approved by management. [24] She says that she was reprimanded by the Financial Centre management. However, the Appellant has been unable to provide evidence in this regard. During cross-examination, the Appellant stated that she did not recall whether she had been reprimanded for not attending a training session for which she had registered.
+[47] Mr. Lanni, meanwhile, denies asking advisors to maintain call logs. He also denies supervising the calls made by advisors to their clients. The only reports that the Appellant had to submit to Sun Life were logs of incoming calls during weeks when she was on call. Those calls are documented so that Sun Life can follow up where appropriate, as advisors are not obliged to take on all clients to whose calls they respond during on-call weeks. The evidence shows further that on-call weeks are optional.
+[48] Mr. Lanni admits, however, that during training, Sun Life instructs future financial advisors on recruitment methods and proposes an approach for getting prospective clients to agree to appointments. The purpose of this training is simply to assist future advisors in building their new business. [25] Advisors are not obliged to use the approach suggested by Sun Life.
+[49] Mr. Lanni noted that advisors may ask for support but are not otherwise told how they must go about their work. Advisors are free to choose the methods that work for them for building a client base.
+[50] The Appellant also argues that the general manager, Mr. Paquet, [translation] “pressured her to draw up a business plan in order to set sales objectives for the coming year.” The Appellant admits that she submitted a business plan in 2006, because the Financial Centre’s former general manager, Mr. Boucher, had prepared it for her. The Appellant admits that she never prepared business plans in subsequent years despite Mr. Paquet’s requests to do so. [26] Nothing in the evidence indicates that the Appellant was subject to any consequences in this regard.
+[51] At the hearing, the Appellant clearly did not make a distinction between control in relation to performance of the work and control in relation to the result and the quality of the product. What I understood from the evidence was that Sun Life management met with the Appellant to point out errors in certain contracts executed by the Appellant, which the Appellant denies. That debate is not before this Court. However, a giver of work, in this case, Sun Life, needs to confirm the quality of the work, particularly in the sale of insurance contracts, which is a specialized and regulated field. This does not mean that a relationship of subordination exists. In Le Livreur Plus Inc, [27] Létourneau J.A. of the Federal Court of Appeal reiterates that:
+[19] . . . It is indeed rare for a person to give out work and not to ensure that the work is performed in accordance with his or her requirements and at the locations agreed upon. Monitoring the result must not be confused with controlling the worker.
+[52] The evidence also shows that during the period in dispute, the Appellant hired another person to assist her. She maintains that Sun Life controlled this hiring process, as Sun Life required that the selected applicant undergo a criminal background check. Sun Life also required that the selected applicant sign a confidentiality agreement governing client information. The Appellant argues consequently that the contract of employment was between her assistant and Sun Life. [28]
+[53] In an industry where client information is confidential, it is reasonable for Sun Life to ensure that someone who will have access to client records does not have a criminal background and that this person agrees to uphold the confidentiality of client information. Contrary to what the Appellant claims, this does not mean that a contract of employment existed between Sun Life and the assistant hired by the Appellant. The contract was between the Appellant and the assistant, who was paid by the Appellant. Moreover, as established by Gendreau J.A. of the Court of Appeal of Quebec in Dicom Express Inc. c Paiement, [29] a person cannot be both employer and employee in relation to the performance of the same work:
+[29] . . . [translation] in my opinion, there is antimony between the status of employee and that of employer. One cannot be someone’s employee and someone else’s employer in relation to the performance of the same work, as the nature of the control involved in an employee’s legal subordination to an employer cannot be satisfied through this division.
+[54] The Appellant argues further that it was Sun Life that set the prices of insurance contracts and billed clients and that the Appellant was required to use Sun Life’s forms. The insurance industry is regulated, and I find it normal for Sun Life to bill clients and for the Appellant to have to use its forms to ensure that contracts comply with regulations and that pricing is uniform. Additionally, in contracting with Sun Life, clients can depend on Sun Life to honour their insurance contracts. I disagree with the Appellant that these elements led to the existence of a relationship of subordination between the Appellant and Sun Life.
+[55] Taking all of the facts together, I find that Sun Life did not control the Appellant’s work.
+d) Ownership of work tools
+[56] The main tools used by the Appellant in performing her work as an advisor were a computer, a vehicle to travel to her clients’ premises, a cellular telephone and a fax machine. All of these items were owned by the Appellant. Although it was preferable that the Appellant purchase a computer through Sun Life to ensure compatibility with the software used by Sun Life, the Appellant was not obliged to buy a computer from Sun Life. The evidence shows that when Sun Life terminated the contractual relationship between it and the Appellant, Sun Life removed all software belonging to it and returned the computer to the Appellant.
+[57] Her workplace was her home, this being where she kept her client records and performed her work when she was not visiting a client.
+[58] The Appellant had to pay for office supplies, stationery and so on. However, Mr. Lanni indicated that Sun Life covered the cost of certain promotional forms and transaction documents. Sun Life also supplies a limited number of business cards and forms to new advisors, but advisors then have to pay for additional stock of these items.
+[59] All of the evidence shows that the Appellant was responsible for purchasing her work tools. In addition, she claimed expenses related to her work tools on her income tax returns. As a result, the criterion of ownership of work tools is consistent with the intention of the parties to be governed by a contract of enterprise or for services.
+e) Chance of profit and risk of loss
+[60] In her role as an advisor, the Appellant was paid entirely on a commission basis. Her income was directly related to her performance, that is, her sales of Sun Life products.
+[61] There were three ways for the Appellant to build her client base: by picking up clients from Sun Life’s inventory (transitioned business), by seeking new clients on her own, or by working on-call weeks.
+[62] The evidence shows that the Appellant took business risks, which resulted in either profit or loss. For example, she could buy from Sun Life a portion of its inventory of business transitioned from advisors no longer working for Sun Life. To gain access to these so-called “orphan clients,” the Appellant had to buy out the value of the contracts and then repay this value over a period of 10 years. In each case, the Appellant had to assess the risk of the transaction. A transaction could have a positive outcome when orphan clients kept their insurance contracts with Sun Life. However, if orphan clients cancelled their contracts, advisors had to continue repaying the value of the contracts over 10 years and incur a financial loss. [30] The evidence shows that the Appellant purchased certain blocks of inventory and collected commissions (commissions on release or CORe).
+[63] These facts are consistent with the intention of the parties to the contracts, this being for the Appellant to be an independent contractor. The Appellant managed her business on her own, and her commissions depended on the contracts signed regardless of the hours she worked. This is, in and of itself, a business risk. Moreover, transactions concerning transitioned contracts could generate either a profit or a loss.
+f) Integration
+[64] The degree of integration of a worker into a business is to be assessed from the worker’s perspective rather than that of the business. [31]
+[65] The contracts between the Appellant and Sun Life provided that she could sell only the products of Sun Life and its affiliates. This is common practice in the insurance industry.
+[66] The Appellant argues that she was integrated into Sun Life in that she could not work for any other insurance company. The contracts between Sun Life and the Appellant included an exclusivity clause. In Dicom Express Inc., [32] Justice Gendreau stated that an exclusivity clause is related to financial dependence but does not mean that a contract of employment exists or that there is legal subordination. In a unanimous judgment, Justice Gendreau wrote as follows:
+[15] [...] [translation] What constitutes the distinction between a contract of employment and a contract for services is the characteristic whereby the performance of the employee’s work is subject to an employer’s control and supervision.
+[16] The criterion of legal subordination is difficult to define but must not in any case be confused with economic dependence. Being bound to a sole client that imposes certain duties and obligations in terms of standards of quality of service, sets the price of the product or dictates certain advertising standards does not necessarily mean the existence of legal subordination.
+[67] The evidence shows that the Appellant was not an integral part of Sun Life. She operated her own business. The exclusivity clause is related to financial dependence; it does not necessarily serve in characterizing a contract of employment. Together, the facts entered into evidence show that the contractual relationship between the parties was as stipulated in the contracts.
+[68] Moreover, the Appellant did not work based out of the Financial Centre but instead out of her home. She did not have to follow the recommendations provided by the Financial Centre management in performing her duties. The evidence shows that the sole obligations binding the Appellant related to the regulatory framework.
+[69] Together, the facts show that the Appellant was bound to Sun Life by contracts for services. As a result, the Appellant was not employed in insurable employment within the meaning of the EIA.
+B. Principle of judicial comity
+[70] I reviewed the two decisions handed down concerning the nature of the contract between the Appellant and Sun Life. The first was rendered on June 14, 2011, by administrative judge Alain Turcotte of the Commission des relations du travail. The second was rendered on June 5, 2018, by Justice Stephen W. Hamilton of the Superior Court of Québec.
+[71] Both ruled that the Appellant was self-employed.
+[72] While these decisions do not constitute a precedent binding the Court, the Court must show deference nevertheless to decisions handed down by tribunals in other jurisdictions concerning similar matters and involving the same parties.
+[73] Moreover, in making its determination on the matter, the Federal Court of Appeal confirmed the words of Justice Angers in Congiu v. Canada [33] when he reiterated the principle of judicial comity. The trial judge stated as follows on the issue:
+14 [translation] It is generally accepted that this Court shows deference to decisions handed down by the Court of Québec except in the presence of any of the exceptional circumstances described in paragraph 62 of Almrei v. Canada (Citizenship and Immigration), 2007 FC 1025:
+1. The existence of a different factual matrix or evidentiary basis between the two cases;
+2. Where the issue to be decided is different;
+3. Where the previous condition failed to consider legislation or binding authorities that would have produced a different result, i.e., was manifestly wrong; and
+4. The decision it followed would create an injustice.
+[74] Evidently, this principle applies to judgments of the Superior Court of Québec such as the judgment rendered in the Appellant’s case. [34] This decision was appealed by Sun Life concerning matters other than the characterization of the contract of employment.
+[75] In his decision, Hamilton J. of the Superior Court of Québec addresses the same issue as in this appeal, that is, determining whether the Appellant was an employee or self-employed. Justice Hamilton’s decision was rendered on January 5, 2018. At the continuation of the hearing in March 2018, the Respondent and the Intervener raised the principle of judicial comity only during their arguments. Following a six-day hearing, I decided to conduct an analysis of the facts and the law in the matter, although from a legal standpoint, I could have based my judgment simply on the principle of judicial comity.
+[76] After my analysis of the facts in this case, I find that during the period in dispute, the Appellant was self-employed.
+VI. CONCLUSION
+[77] For all of these reasons, I find that the Appellant was not employed in insurable employment at Sun Life during the period in dispute, or between October 1, 2008, and October 9, 2009.
+[78] Consequently, the appeal is dismissed.
+Signed at Montréal, Quebec, this 25th day of July 2018.
+“Johanne D’Auray”
+D’Auray J.
+CITATION:
+2018 TCC 153
+COURT FILE NO.:
+2011-3612(EI)
+STYLE OF CAUSE:
+GINETTE LAMONTAGNE v. M.N.R. and SUN LIFE FINANCIAL DISTRIBUTORS (CANADA) INC.
+PLACE OF HEARING:
+Montréal, Quebec
+DATE OF HEARING:
+January 7, 2015, November 2, 2015, September 30, 2016, and March 13, 14 and 15, 2018
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Johanne D’Auray
+DATE OF JUDGMENT:
+July 25, 2018
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Sara Jahanbakhsh
+Counsel for the Intervener:
+Luc Deshaies
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+[BLANK]
+Firm:
+[BLANK]
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada
+For the Intervener:
+Luc Deshaies
+Gowling Lafleur Henderson
+LLP
+[1] Exhibit I-1.
+[2] Exhibit I-2.
+[3] Exhibit I-2, Art. 2.
+[4] Lamontagne c Distribution Financière Sun Life (Canada) Inc., 2011 QCCRT 0277 and Lamontagne c Distribution Financière Sun Life (Canada) inc., 2018 QCCS 6.
+[5] NCJ Educational Services Limited v. Canada (National Revenue), 2009 FCA 131, paragraphs 49 and 50.
+[6] 9041-6868 Québec Inc. v. Minister of National Revenue, 2005 FCA 334 and NCJ Educational Services Limited, supra, note 5.
+[7] Le Livreur Plus Inc. v. Canada (Minister of National Revenue), 2004 FCA 68.
+[8] Grimard v. Canada, 2009 FCA 47.
+[9] Robert P. Gagnon, Le droit du travail du Québec, 5th Ed., Cowansville QC, Les Éditions Yvon Blais Inc., 2003.
+[10] 1392644 Ontario Inc. (Connor Homes) v. Canada (National Revenue), 2013 FCA 85, para 41.
+[11] Grimard, supra, note 8; Connor Homes, note 10.
+[12] Grimard, supra, note 8.
+[13] Exhibit I-1.
+[14] Exhibit I-2.
+[15] Exhibits I-4 and I-5.
+[16] Exhibit INT-5, tabs 2008 and 2009.
+[17] Transcript, hearing of January 7, 2015, p. 32, and transcript, hearing of September 30, 2016, pp. 30 and 31.
+[18] See exhibit INT-5, income tax returns, 2008 and 2009 tax years.
+[19] Transcript, hearing of September 30, 2016, p. 118.
+[20] Transcript, hearing of January 7, 2015, p. 159.
+[21] See Mr. Lanni’s testimony in this regard. Transcript, hearing of September 30, 2016, p. 233.
+[22] Transcript, hearing of September 30, 2016, p. 131.
+[23] Transcript, hearing of November 2, 2015, pp. 71 and 72.
+[24] Id.
+[25] Transcript, hearing of September 30, 2016, p. 254.
+[26] Transcript, hearing of November 2, 2016, p. 62.
+[27] Le Livreur Plus Inc., supra, note 7.
+[28] Transcript, hearing of January 7, 2015, p. 81.
+[29] Dicom Express Inc. v. Paiement, 2009 QCCA 611.
+[30] See Mr. Lanni’s testimony in this regard; transcript, hearing of September 30, 2016, pp. 223 to 226.
+[31] Le Livreur Plus Inc., supra, note 7, para 38.
+[32] Dicom Express Inc., supra, note 30.
+[33] Congiu v. Canada, 2014 FCA 73.
+[34] Lamontagne c. Distribution financière Sun Life (Canada) Inc., supra, note 4, para 30.

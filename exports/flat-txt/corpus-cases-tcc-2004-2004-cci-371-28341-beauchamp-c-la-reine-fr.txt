@@ -1,0 +1,292 @@
+Title: Beauchamp c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28341/index.do
+Corpus path: corpus/cases/tcc/2004/2004-cci-371-28341-beauchamp-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2004-05-14
+
+# Beauchamp c. La Reine
+
+- Citation: 2004 CCI 371
+- Decision date: 2004-05-14
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1926, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Beauchamp c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-05-14
+Référence neutre
+2004 CCI 371
+Numéro de dossier
+2003-1383(IT)I
+Juges et Officiers taxateurs
+Alain Tardif
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2003-1383(IT)I
+ENTRE :
+JACQUES BEAUCHAMP,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 19 avril 2004, à Baie-Comeau (Québec)
+Devant : L'honorable juge Alain Tardif
+Comparutions :
+Avocat de l'appelant :
+Me Yves Langlois
+Avocate de l'intimée :
+Me Julie David
+____________________________________________________________________
+JUGEMENT
+L'appel de la cotisation établie en vertu de la Loi de l'impôt sur le revenu pour l'année d'imposition 1998 est rejeté, sans frais.
+Signé à Ottawa, Canada, ce 14e jour de mai 2004.
+« Alain Tardif »
+Juge Tardif
+Référence : 2004CCI371
+Date : 20040514
+Dossier : 2003-1383(IT)I
+ENTRE :
+JACQUES BEAUCHAMP,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Tardif
+[1] Il s'agit d'un appel relatif à l'année d'imposition 1998. L'appelant a introduit son appel au moyen du texte suivant :
+Dans une lettre du 15 mars 1999, André Pruneault C.A., nous informe que la mise de fonds de 20 000 $ dans 2759063 Canada Inc. pourra être réclamée à titre de perte de placement dans une petite entreprise à 75 % du montant perdu.
+Château Cornwall :
+Une entente verbale a été conclue le 16 juillet 1999 pour les dossiers 1993-94-95 et 1998. Pour le montant de 8 000 $. Le montant a été payé mais l'entente n'a pas été respectée de la part de Revenu Canada.
+[2] Dans sa réponse, l'intimée a fait valoir que la cotisation avait été établie en tenant pour acquis les faits suivants :
+CHÂTEAU CORNWALL
+a) Château Cornwall Limited Partnership est une société en commandite (ci‑après, la « société en commandite »);
+b) la société en commandite a été créée en vertu d'une entente datée du 15 avril 1988 et modifiée en date du 1er décembre 1988;
+c) Château Cornwall General Partner Ltd. est le commandité (ci-après, le « commandité ») de la société en commandite et administre la société en commandite;
+d) le commandité est détenu à 100 % par Château Cornwall Inc.;
+e) le commandité et Château Cornwall Inc. sont liés et ne transigent donc pas à distance;
+f) le projet de la société en commandite était l'acquisition, le développement et l'exploitation d'un centre pour personnes âgées (ci-après, le « projet immobilier »);
+g) selon les formules de souscription signées en décembre 1988:
+i) chaque investisseur devait souscrire à un minimum de trois unités du projet à un prix d'achat de 150 000 $;
+ii) chaque investisseur devait payer 40 476 $ en argent;
+iii) chaque investisseur devait signer avec la société en commandite, une garantie de prise en charge, au prorata de leur participation [109 524 $ (36 508 $ par unité x 3 unités)], des prêts hypothécaires;
+h) l'appelant a acheté 3 unités des 252 unités de la société en commandite;
+i) il y a eu deux ententes de garantie de prise en charge de prêts hypothécaires :
+i) une première entente en date du 30 décembre 1988 :
+A) cette entente indiquait que chacun des quatre-vingt-quatre associés devait signer la prise en charge de prêts hypothécaires, au prorata de sa participation, soit 109 524 $;
+B) cette entente était entre les souscripteurs et la société en commandite, et accordait le pouvoir au commandité d'exécuter à une date ultérieure le contenu de l'entente;
+C) selon la garantie de prise en charge des prêts hypothécaires, les souscripteurs (investisseurs) convenaient de façon absolue et inconditionnelle de payer sur demande à la société en commandite ou à quiconque qu'elle autorise, la totalité de leur participation dans les prêts hypothécaires de premier et second rangs [maximum 36 508 $ par unité (36 508 $ x 3 = 109 524 $)] avec les intérêts et autres frais qui seront engendrés;
+D) la garantie de prise en charge de prêts hypothécaires ne devait être exécutée qu'à la demande de la société en commandite, en cas de défaut de paiement de la part de cette dernière;
+ii) une seconde entente datée du 1er août 1989 :
+A) cette entente était signée entre les souscripteurs, la banque Toronto‑Dominion, le commandité et la société en commandite;
+B) cette entente concerne un emprunt n'excédant pas 9 200 000 $ (109 524 $ x 84 sociétaires);
+C) cet emprunt serait garanti, entre autres, par une hypothèque de premier rang transigée auprès de la Banque Toronto-Dominion, sur la propriété;
+D) selon la clause 1 de l'entente, les souscripteurs (investisseurs) convenaient de façon absolue et inconditionnelle de payer à la Banque, à titre de débiteur principal et non comme caution, le montant principal pris en charge ainsi que les intérêts et autres frais engagés; cette obligation était limitée à une somme de 36 508 $ par unité;
+E) selon les paragraphes 7, 8, 9, 10 de cette entente, la Banque conservait le droit de poursuivre la société en commandite à titre de créancier principal selon le contrat de prêt;
+F) le coût total du projet serait donc financé comme suit :
+Contribution en argent
+3 400 000 $
+Hypothèque de 1er rang
+Avec la Banque
+Toronto-Dominion
+4 000 000 $
+Prêts du promoteur
+($1,7M+$3,5M)
+5 200 000 $
+TOTAL
+12 600 000 $
+j) vers juillet 1996, la Banque Toronto-Dominion s'est adressée aux investisseurs afin qu'ils effectuent les paiements prévus aux contrats de prêts;
+k) suite à cette demande, les souscripteurs (investisseurs) n'ont effectué aucun paiement à la Banque Toronto-Dominion;
+l) suivant les termes de la formule de souscription de décembre 1988, l'appelant s'était engagé à souscrire une somme de 109 524 $ dans la société en commandite par le biais de la prise en charge d'une hypothèque au montant de 109 524 $;
+m) or, la prise en charge d'une hypothèque par l'appelant envers la Banque fut limitée au montant de 52 857 $;
+n) une somme de 56 667 $ était due à la société en commandite par l'appelant;
+o) l'appelant a mentionné au représentant du Ministre, qu'il avait investi un montant supplémentaire de 10 000 $ via sa marge de crédit avec la Caisse populaire;
+p) en aucun temps, l'appelant n'a pu prouver avoir investi ce montant additionnel dans la société en commandite;
+q) le Ministre a accordé à l'appelant les montants suivants à titre de pertes nettes de société en commandite pour les années 1988 à 1995, relativement à la société en commandite Château Cornwall Limited Partnership :
+Année
+(Pertes nettes
+de société en
+commandite)
+1988
+( 3 384 $)
+1989
+( 5 088 $)
+1990
+(16 869 $)
+1991
+(33 189 $)
+1992
+(26 727 $)
+1993
+(11 499 $)
+1994
+( 9 012 $)
+1995
+( 2 052 $)
+r) en fonction de ce qui précède, le Ministre a diminué le solde de la fraction à risque de l'intérêt de l'appelant dans la société en commandite du solde d'hypothèque pris en charge mais non avancée d'une somme de 56 667 $, pour l'année d'imposition 1996 (voir l'annexe II jointe à la présente réponse);
+s) le solde de la fraction à risque de l'intérêt de l'appelant dans la société en commandite a donc été réduit à zéro pour l'année 1996;
+t) la fraction à risque de l'intérêt de l'appelant dans la société en commandite étant réduite à zéro, l'appelant ne peut donc réclamer de pertes relativement à son investissement dans la société en commandite pour l'année d'imposition 1996;
+u) au stade des oppositions, l'appelant a présenté de la documentation prouvant des investissements de 1 500 $ pour l'année d'imposition 1996 et de 2 000 $ pour l'année d'imposition 1997;
+v) le Ministre a donc accordé des montants additionnels de 1 500 $ en 1996 et 2 000 $ en 1997, à titre de pertes nettes de société en commandite;
+w) en aucun temps, l'appelant n'a pu prouver avoir investi des montants additionnels dans la société en commandite, autres que ceux déjà considérés par le Ministre pour ses années d'imposition 1988 à 1997;
+x) compte tenu de ce qui précède, le Ministre a refusé de déduire le montant de 13 308 $ réclamé par l'appelant au titre de perte nette de société en commandite pour l'année d'imposition 1996;
+y) l'appelant ne conteste pas le montant de 12 668 $ réclamé par celui-ci pour son année d'imposition 1997 à titre de perte nette de société en commandite, et refusé par le Ministre;
+z) de plus, un jugement a été rendu en date du 7 mai 2003, par l'Honorable juge François Angers, dans la cause « JACQUES BEAUCHAMP – CAUSE: 2001‑4537(IT)I pour les années d'imposition 1996 et 1997 » refusant le montant de 13 308 $ réclamé par l'appelant à titre de perte nette de société en commandite pour l'année d'imposition 1996, selon les motifs suivants :
+« L'appelant a seulement réussi à établir que son versement de 10 000 $ fait en 1996 est allé au remboursement de la dette de la société en commandite qu'il avait garantie à la Caisse populaire de Notre‑Dame‑du‑Chemin en 1994. Selon la preuve présentée, il est donc plus que probable qu'il a reçu le crédit de ce montant en 1994. Le juge Angers cite : Je ne peux donc pas conclure que l'appelant a placé un montant supplémentaire de 10 000 $ en 1996 dans la société en commandite. Le ministre a donc correctement calculé la fraction à risque de l'intérêt de l'appelant dans ladite société pour l'année d'imposition 1996 et ainsi avait raison de refuser le montant de 13 308 $ réclamé par l'appelant à titre de perte nette pour la même année d'imposition. L'appel est donc rejeté et la cotisation du ministre est confirmée. »
+[3] Tous ces faits ont fait l'objet d'une admission générale par le procureur de l'appelant.
+[4] Quant aux autres faits tenus pour acquis par l'intimée et non admis par l'appelant, il s'agit des faits suivants :
+aa) en aucun temps, l'appelant n'a pu prouver avoir investi des montants additionnels dans la société en commandite, dans l'année d'imposition 1998;
+bb) en fonction de ce qui précède, le Ministre a diminué le solde de la fraction à risque de l'intérêt de l'appelant dans la société en commandite du solde d'hypothèque pris en charge mais non avancée d'une somme de 56 667 $, pour l'année d'imposition 1998 (voir l'annexe II jointe à la présente réponse);
+cc) le solde de la fraction à risque de l'intérêt de l'appelant dans la société en commandite a donc été réduit à zéro pour l'année 1998;
+dd) la fraction à risque de l'intérêt de l'appelant dans la société en commandite étant réduite à zéro, l'appelant ne peut donc réclamer de pertes relativement à son investissement dans la société en commandite, pour l'année d'imposition 1998;
+PERTE AU TITRE DE PLACEMENT D'ENTREPRISE
+ee) dans sa déclaration de revenus pour l'année d'imposition 1998, l'appelant a réclamé une perte au titre d'un placement d'entreprise déductible de 15 000 $ (20 000 $ x 75 %);
+ff) cette perte serait le résultat de :
+i) la disposition présumée à 0 $ d'actions de la société 2759063 Canada Inc., ces actions ayant un prix de base rajusté (ci-après, le « PBR ») de 100 $;
+ii) et d'une créance de la société 2759063 Canada Inc. dont le PBR serait de 19 900 $;
+suite à la cessation des opérations de cette société;
+gg) la société 2759063 Canada Inc. n'était pas une société exploitant une petite entreprise car les actifs de cette société servaient à gagner du revenu de placement; les seuls actifs de la société étaient des actions et des prêts d'argent à la société Château Cornwall Inc.;
+hh) la société Château Cornwall Inc. n'était pas une société exploitant une petite entreprise car la totalité ou presque de la juste valeur marchande de ses actifs n'était pas utilisée afin de gagner du revenu d'entreprise;
+ii) les actifs de Château Cornwall Inc. servaient aussi à gagner du revenu de placement car ses actifs ont servi à prêter des fonds à la société en commandite Château Cornwall Limited Partnership et cette société en commandite n'était pas une société exploitant une petite entreprise, celle-ci était plutôt un regroupement de personnes qui apportait des fonds afin de réaliser un projet en commun;
+jj) l'appelant ne peut réclamer le montant de 15 000 $ (20 000 $ x 75 %) comme perte au titre de placement d'entreprise déductible pour son année d'imposition 1998;
+kk) conséquemment, le Ministre a accordé ce montant de 15 000 $ (20 000 $ x 75 %) à titre de perte nette en capital pour l'année d'imposition 1998.
+[5] Au soutien de son appel, l'appelant a essentiellement fait valoir deux arguments. Il a d'abord prétendu que l'intimée, par l'intermédiaire de madame Yolaine Couturier, et son représentant, un fiscaliste de Québec du nom d'André Côté, ont conclu une transaction au sens de l'article 2631 du Code civil du Québec (« C.c.Q. »).
+[6] L'appelant a affirmé avoir parlé avec madame Couturier et avoir, lui aussi, compris qu'un règlement avait été conclu. Selon l'appelant, le règlement prévoyait le paiement d'une somme de 8 000 $ au moyen de huit chèques de 1 000 $ chacun en règlement complet et final de sa dette fiscale.
+[7] Au soutien de ses prétentions, il a déposé les pièces A-1 et A-2 dont les textes sont reproduits ici :
+Pièce A-1
+Forestville, le 16 juillet 1999
+Revenu Canada
+2251 Boul. De la Centrale
+Jonquière Qc.
+G7S 5J1
+À qui de droit,
+Suite à la conversation téléphonique de mon comptable M. André Côté avec Madame Yolaine Couturier du bureau de Québec, je vous fais parvenir huit (8) chèques de mille (1,000) dollars suite à l'entente prise le 16 juillet 1999.
+Solde dû :
+13 649,38 $
+Amendement pour 1998 :
+6 000,00 $
+Solde :
+7 649,38 $
+Espérant le tout conforme, je vous prie d'accepter mes salutations les plus sincères.
+Jacques Beauchamp
+9 8e avenue c.p. 116
+Forestville Qc
+G0T 1E0
+Pièce A-2
+Forestville, le 27 décembre 2001
+Agence des Douanes et du Revenu du Canada
+Centre Fiscal de Jonquière
+2251 boul. René Lévesque
+Jonquière (Québec)
+G7S 5J1
+À qui de droit,
+ci-joint les T5013 de 1998 qui n'avaient pas été inclus lors de ma déclaration de 1998. Pourriez-vous s.v.p. apporter les correctifs nécessaires. Merci
+Jacques Beauchamp
+9 8e avenue
+Forestville (Québec)
+G0T 1E0
+[8] Il a aussi fait valoir comme second argument qu'il avait perdu 20 000 $ après avoir investi dans la société 2759063 Canada Inc., déclarant ainsi une perte au titre d'un placement d'entreprise.
+[9] Ce sont là les seuls arguments soulevés par l'appelant. Il n'a pas fait témoigner le fiscaliste dont il avait retenu les services et qui avait parlé avec madame Couturier.
+[10] Lors du contre-interrogatoire de madame Couturier, l'appelant a surtout essayé de lui faire avouer qu'une transaction avait été conclue en règlement de la cotisation.
+[11] Madame Couturier a expliqué la nature de ses fonctions à l'époque où elle se souvient avoir eu au moins une conversation téléphonique avec l'appelant et une avec son représentant. À l'époque, soit au mois de juillet 1999, elle était agente d'aide aux renseignements. En cette qualité, elle répondait au téléphone et donnait des renseignements aux contribuables relativement à leur dossier.
+[12] Elle était également autorisée à conclure des ententes de paiement. Au début, il s'agissait de petits montants. Au moment des conversations téléphoniques avec l'appelant et son représentant, elle avait le pouvoir de conclure des ententes de paiement dans les dossiers où la dette fiscale se situait entre 3 000 $ et 50 000 $. Dans ces cas-là, la période d'échelonnement ne pouvait pas dépasser huit mois.
+[13] En l'espèce, comme il s'agissait d'un dossier où le montant en cause était dans les limites permises, elle a conclu l'entente de paiement.
+[14] Parallèlement à l'entente relative aux paiements, il fut également question qu'une déclaration modifiée serait produite de manière à ce qu'elle fasse l'objet d'une nouvelle analyse et, éventuellement, qu'elle produise un résultat à l'avantage de l'appelant; il devenait ainsi possible que l'entente de paiement, dépendamment du résultat de l'analyse, coïncide avec un règlement total de la dette fiscale.
+[15] Malgré les nombreuses tentatives de faire reconnaître par madame Couturier qu'elle avait bel et bien conclu d'un règlement avec l'appelant, ou son représentant Côté, ou qu'elle avait pu donner l'impression qu'il s'agissait d'un règlement, elle n'a jamais rien affirmé qui soit de nature à établir qu'une transaction avait été conclue ou même à laisser entendre qu'il en était ainsi.
+[16] Les réponses fournies par madame Couturier ont été claires et précises et ne laissaient place à aucune équivoque; elle comprenait très bien les subtilités et surtout les limites de sa compétence dans les dossiers où elle intervenait.
+[17] Bien au fait de l'étendue et des limites de son travail, elle a aussi expliqué qu'elle n'avait ni l'autorisation ni la compétence pour analyser et évaluer le bien‑fondé d'une cotisation ou pour prendre une décision à cet égard. Ne recevant jamais de document, elle n'avait pas à faire l'analyse d'aucun dossier; d'ailleurs elle n'avait pas l'autorité pour ce faire.
+[18] Quant au contenu des conversations téléphoniques, tant avec l'appelant qu'avec son représentant, elle a admis avoir possiblement dit que l'éventuel résultat de l'analyse de la déclaration modifiée pourrait avoir des conséquences sur la dette fiscale, rien de plus. Elle a ajouté cependant qu'elle n'avait rien à voir avec le traitement de la déclaration modifiée.
+[19] L'appelant s'appuie sur l'article 2163 du C.c.Q. pour prétendre que madame Couturier a lié l'intimée par son attitude et comportement de telle manière que la dette fiscale a été éteinte. L'article 2163 du C.c.Q. se lit comme suit :
+2163. Celui qui a laissé croire qu'une personne était son mandataire est tenu, comme s'il y avait eu mandat, envers le tiers qui a contracté de bonne foi avec celle-ci, à moins qu'il n'ait pris des mesures appropriées pour prévenir l'erreur dans des circonstances qui la rendaient prévisible.
+[20] Pour disposer de l'argument de l'appelant, il m'apparaît utile de faire un rappel de certains extraits de décisions pertinentes.
+[21] L'appelant voudrait bénéficier de la théorie de la préclusion résultant de certains comportements de personnes en situation d'autorité; cette théorie a été traitée sous tous les angles par la jurisprudence. En d'autres termes, peut-on appliquer en l'espèce la théorie d'estoppel?
+[22] La Cour suprême du Canada, dans Canadian Superior Oil Ltd c. Paddon‑Hughes Development Co., [1970] R.C.S. 932, réitère les conditions requises afin d'appliquer la théorie de la préclusion résultant du comportement :
+Je n'ai pas l'intention de pousser plus avant l'étude de cet aspect de l'affaire puisque, en tout cas, je suis d'accord avec les conclusions concordantes des tribunaux d'instance inférieure qu'une fin de non‑recevoir n'a pas été prouvée. Dans leur plaidoirie, les appelantes ont fait état des principes de droit énoncés dans Greenwood v. Martins Bank [1933] A.C. 51, à la p. 57 :
+[TRADUCTION] Les facteurs essentiels pour fonder une fin de non-recevoir sont, je pense, les suivants :
+(1) Une affirmation, ou une conduite y équivalant, qui a pour but d'inciter la personne à qui elle est faite à adopter une certaine ligne de conduite.
+(2) Une action ou une omission résultant de l'affirmation, en paroles ou en actes, de la part de la personne à qui l'affirmation est faite.
+(3) Un préjudice causé à cette personne en conséquence de cette action ou omission. (Je souligne.)
+[23] À la lumière de cette décision, il appert que l'intention constitue une dimension fort importante dans l'application de la théorie de la préclusion résultant du comportement. En d'autres termes, l'intention d'exprimer une ligne de conduite constitue un fondement de la doctrine de « l'estoppel by representation ».
+[24] En l'espèce, il n'y a eu aucune preuve directe ou même secondaire de la présence d'une intention. D'ailleurs, il s'agit là d'une dimension complètement absente de la preuve.
+[25] Les tribunaux ont également énoncé à plusieurs reprises qu'une erreur de droit ne saurait lier la Couronne. Dans Guerriero c. Canada IN RE la Loi de 1971 sur l'assurance-emploi, [1987] A.C.I. no 821, l'honorable juge Miller de cette Cour a rejeté l'appel du contribuable au motif que ce dernier ne s'était pas déchargé du fardeau de la preuve et qu'une erreur de droit ne pouvait lier la Couronne. Le juge Miller s'est référé au passage suivant de l'arrêt Blackmore :
+Dans l'arrêt Blackmore c. M.R.N., NR 519, le savant juge a statué ainsi sur cette question:
+« En droit, je suis tenu de dire qu'en dépit de toute erreur ou de tout avis erroné donné par le personnel de la Commission, celle-ci est tenue d'appliquer les dispositions de la Loi de 1971 sur l'assurance‑chômage. Cela a été jugé à maintes reprises par les juges-arbitres. Il existe un principe bien établi selon lequel on ne peut opposer de fin de non-recevoir lorsque les conditions de la loi n'ont pas été respectées. Autrement dit, on ne peut opposer de fin de non-recevoir à la Couronne et de plus, toutes les fins de non‑recevoir sont assujetties au principe général selon lequel elles ne peuvent renverser le droit du pays. »
+[26] L'honorable juge Cattanach, dans Stickel v. M.N.R., [1972] C.F. 672 (Q.L.), résume bien l'état du droit sur cette question :
+69. En bref, les fins de non-recevoir sont soumises à une règle générale: elles ne peuvent aller à l'encontre des lois d'application générale.
+[27] Dans l'affaire Goldstein c. Canada, [1995] A.C.I. no 170 (Q.L.), l'honorable juge Bowman devait examiner l'exactitude en droit de l'interprétation donnée à l'alinéa 146(1)c) de la Loi, de même que répondre à la question de la préclusion. Cette décision du juge Bowman est l'une des principales décisions abordant la question de la préclusion en matière fiscale. Le juge Bowman y a affirmé ce qui suit :
+La préclusion n'est plus simplement une règle de preuve. C'est une règle de droit positif. Lord Denning en parle comme d'un « principe de justice et d'équité ».
+On dit parfois que la préclusion n'est pas recevable contre la Couronne. Cette affirmation n'est pas exacte et semble provenir d'une mauvaise application du terme préclusion. Le principe de la préclusion lie la Couronne, tout comme d'autres principes de droit. La préclusion du fait du comportement, telle qu'elle s'applique à la Couronne, comprend des déclarations de faits de fonctionnaires de la Couronne sur lesquelles le sujet s'est fondé et en fonction desquelles il a agi, à son détriment. La doctrine n'a aucune application lorsqu'une interprétation particulière d'une loi a été communiquée à un sujet par un fonctionnaire de l'État, que le sujet s'est fondé sur cette interprétation à son détriment et que le gouvernement a ensuite retiré ou modifié l'interprétation. Dans un tel cas, un contribuable cherche parfois à invoquer la doctrine de la préclusion. Ce n'est pas approprié, non pas parce que ces déclarations donnent lieu à une préclusion qui ne lie pas la Couronne, mais plutôt parce qu'aucune préclusion ne peut se poser lorsque de telles déclarations ne sont pas conformes au droit. Bien que la préclusion soit maintenant un principe de droit positif, elle prend son origine dans le droit de la preuve et, en tant que telle, se rapporte aux déclarations de faits. Elle n'a aucun rôle à jouer lorsque des questions d'interprétation du droit sont en cause, car la préclusion ne peut déroger au droit.
+La question de l'interprétation de l'alinéa 146(1)c) est une question de droit, et je dois la trancher conformément au droit tel que je le comprends. Je ne saurais éviter cette obligation parce que le ministère du Revenu national peut avoir adopté antérieurement une interprétation différente de celle qu'il avance maintenant. La question n'est pas de savoir si la Couronne est liée par une interprétation antérieure sur laquelle un contribuable s'est fondé. Il est plus exact de dire que les tribunaux, qui sont tenus de trancher les litiges conformément au droit, ne sont pas liés par des déclarations, opinions ou aveux relatifs au droit de la part des parties.
+[28] Dans Hawkes c. Canada, [1995] A.C.I. no 1507 (Q.L.), le juge Margeson cite un passage de l'ouvrage intitulé « Phipson On Evidence » qui se lit comme suit : [TRADUCTION] « Les préclusions de toutes sortes, néanmoins, sont assujetties à une règle générale : elles ne sauraient l'emporter sur les lois du pays. Ainsi, lorsqu'une formalité particulière est exigée par la loi, aucune préclusion ne remédiera au problème ».
+[29] Dans l'affaire Holitzki c. Canada, [1998] A.C.I. no 1146, au paragraphe 7, (Q.L.), le juge Rowe expliquait que « [l]e droit est clair : la préclusion ne permet pas de passer outre à une disposition législative, en l'espèce, la Loi de l'impôt sur le revenu ».
+[30] Le juge en chef adjoint Bowman, dans Moulton c. Canada, [2002], A.C.I. no 80, au paragraphe 11 (Q.L.), affirmait récemment :
+L'appelant fait valoir avec beaucoup de conviction qu'il devrait avoir le droit de se fier aux conseils fournis par l'ACDR, lesquels conseils il a suivis de bonne foi. Je reconnais que le résultat peut sembler légèrement difficile à avaler pour les contribuables qui demandent des conseils aux fonctionnaires et s'attendent à ce que ces derniers soient en mesure de les conseiller correctement. Malheureusement, ces fonctionnaires ne sont pas infaillibles, et un juge ne peut être lié par les interprétations erronées du ministère. Toute autre conclusion aboutirait à un manque de cohérence et à de la confusion.
+[31] Puisque la présente cause a été entendue au Québec, il importe de mentionner les affaires Alameda Holdings Inc. c. Canada, [1999] A.C.I. no 839 (Q.L.) et Houde c. Canada, [2001] A.C.I. no 130 (Q.L.). Il se dégage de ces décisions que la théorie de la préclusion résultant du comportement ne trouve pas application dans les litiges entendus devant les tribunaux de la province de Québec. Par ailleurs, au Québec, la fin de non‑recevoir a sensiblement le même effet que la préclusion résultant du comportement, mais elle prend ses assises sur l'article 1457 du C.c.Q. Au paragraphe 70 de l'affaire Alameda holdings Inc., précitée, l'honorable juge Dussault, sur cette question, s'exprimait comme suit :
+L'avocat de l'appelante a invoqué la doctrine de l'estoppel et celle des fins de non‑recevoir. Selon lui, les caractéristiques et les conditions d'application de ces deux institutions sont semblables tout comme devraient l'être leurs effets. Selon moi, il s'agit d'une simplification abusive. J'estime que la doctrine de l'estoppel ne peut être invoquée dans la présente affaire et que c'est le Code civil du Québec qui s'applique. Dans l'affaire Soucisse (précitée), le juge Beetz de la Cour suprême du Canada distingue les deux concepts tout en reconnaissant qu'il y a souvent eu confusion entre les deux et l'utilisation des deux vocables. Il se réfère notamment à l'opinion du J. Mignault dans l'affaire Grace and Company (précitée) selon laquelle le concept d'estoppel tel qu'il est appliqué dans le système anglais est inconnu en droit civil. Toutefois, il y reconnaît expressément l'existence des fins de non-recevoir en droit civil et que l'un des fondements possibles d'une fin de non-recevoir puisse être le comportement fautif d'une partie par référence aux articles 1053 et suivants du Code civil du Bas Canada (actuels articles 1457 et suivants du Code civil du Québec).
+[32] Étant donné que la théorie de la préclusion ne peut pas s'appliquer aux dossiers provenant du Québec, il y a lieu de regarder le dossier sous l'angle de l'article 1457 du C.c.Q. qui se lit comme suit :
+1457. Toute personne a le devoir de respecter les règles de conduite qui, suivant les circonstances, les usages ou la loi, s'imposent à elle, de manière à ne pas causer de préjudice à autrui.
+Elle est, lorsqu'elle est douée de raison et qu'elle manque à ce devoir, responsable du préjudice qu'elle cause par cette faute à autrui et tenue de réparer ce préjudice, qu'il soit corporel, moral ou matériel.
+Elle est aussi tenue, en certains cas, de réparer le préjudice causé à autrui par le fait ou la faute d'une autre personne ou par le fait des biens qu'elle a sous sa garde.
+[33] Le témoignage et le contre-interrogatoire de madame Couturier ne permettent pas de conclure à un quelconque comportement fautif ou même négligent de sa part; bien au contraire, la preuve a clairement établi qu'elle connaissait parfaitement bien les paramètres de sa responsabilité et qu'en aucune façon a‑t‑elle outre passé ses pouvoirs ou même donné une telle impression.
+[34] Quant au second argument, l'appelant n'a ni expliqué, ni justifié ses prétentions à l'effet qu'il avait droit à une perte au titre d'un placement d'entreprise déductible de 20 000 $.
+[35] L'intimée, sur cette question, a fait témoigner le vérificateur Claude Goulet. Ce dernier a expliqué que la perte déclarée par l'appelant n'était pas admissible puisque le montant n'avait pas été investi dans une société exploitant une petite entreprise étant donné que les actifs de la société ayant bénéficié de l'investissement de 20 000 $ de l'appelant servait essentiellement à gagner du revenu de placement. La preuve a d'ailleurs démontré que les actifs de la société 2759063 Canada Inc. étaient des actions et des prêts d'argent à la société Château Cornwall Inc.
+[36] Les seuls revenus escomptés étaient des revenus de biens soit, plus précisément, de l'intérêt sur un ou des prêts consentis.
+Analyse
+[37] Une cotisation en matière d'impôt sur le revenu est présumée bien fondée. Lorsqu'il interjette un appel, le contribuable qui en conteste le bien-fondé assume le fardeau de la preuve requise pour l'annuler ou la modifier.
+L'argument de la transaction
+[38] L'article 2631 du Code civil du Québec se lit comme suit :
+2631. La transaction est le contrat par lequel les parties préviennent une contestation à naître, terminent un procès ou règlent les difficultés qui surviennent lors de l'exécution d'un jugement, au moyen de concessions ou de réserves réciproques.
+[39] Faire preuve d'une transaction est plus qu'une question de perception; il doit y avoir des éléments fiables permettant de tirer des conclusions raisonnables. Autrement, il suffirait de prétendre qu'une transaction a été conclu pour se libérer ainsi de ses obligations au niveau de la preuve.
+[40] Pour qu'une transaction soit conclue, certains éléments sont essentiels. Dans un premier temps, les parties à une transaction doivent avoir le pouvoir et la compétence pour transiger. Il doit y avoir un objet clairement défini et déterminé, faute de quoi, il ne s'agit pas d'une transaction mais d'une négociation.
+[41] Le montant du règlement, le mode de paiement et la garantie de paiement sont des éléments tout aussi essentiels. En l'espèce, l'appelant voudrait que le tribunal fasse abstraction dans son analyse de l'écrit qu'il a lui-même préparé et qui, à sa face même, contredit ses prétentions; en effet, le montant est incertain et, d'autre part, l'écrit prévoit une donnée dont l'issue est également incertaine, soit le résultat de l'analyse de la déclaration modifiée.
+[42] Madame Couturier, une personne intelligente et articulée, connaît bien l'étendue et les limites de son travail; il aurait été très surprenant qu'elle ait donné des indications de la nature de celles alléguées par l'appelant.
+[43] Même si la différence entre une entente de paiement et un règlement dans le sens d'une transaction peut sembler ténue, madame Couturier comprenait très bien la différence fondamentale entre les deux scénarios; bien plus, elle a soumis un exemple pertinent qui ne laisse aucun doute quant à sa capacité de faire la distinction. Son témoignage clair et précis est d'ailleurs en tout point conforme à l'écrit signé par l'appelant (pièce A-1) ci-avant reproduit.
+[44] N'y est-il pas fait mention du solde dû de 13 649,38 $? N'y est-il pas fait mention de la modification pour 1998 et, finalement, d'un solde de 7 649,38 $?
+[45] Cet écrit signé par l'appelant confirme en tous points les affirmations de madame Couturier à l'effet que le résultat de l'analyse de la déclaration modifiée pourrait éventuellement signifier que la dette fiscale serait pratiquement éteinte.
+[46] Il découle de l'étude et de l'analyse de la déclaration modifiée que l'Agence des douanes et du revenu du Canada n'a pas accepté l'interprétation de l'appelant. Par conséquent, le crédit anticipé de 6 000 $ n'a jamais vu le jour et la dette fiscale est demeurée la même, soit 13 649,38 $ au mois de juillet 1999.
+[47] Le 8 000 $ payé au moyen de huit chèques de 1 000 $ chacun a alors été, avec raison d'ailleurs, traité comme un acompte sur le montant d'impôt dû, ce qui correspond aux explications données par madame Couturier et à l'écrit signé par l'appelant lui-même.
+[48] Quant à la perte au titre de placement d'entreprise au montant de 20 000 $ déclarée par l'appelant, il n'a soumis aucune preuve pour la justifier. De son côté, l'intimée a expliqué pourquoi la perte avait été refusée à ce titre et acceptée comme perte nette en capital pour l'année d'imposition 1998.
+[49] A cet égard, le témoignage de monsieur Claude Goulet a été déterminant; il a indiqué avoir analysé le dossier et constaté, sans difficulté aucune, que la société ayant profité de l'investissement de 20 000 $ de l'appelant ne répondait pas aux exigences requises pour être considérée comme une « société exploitant une petite entreprise ».
+[50] Le vérificateur a effectivement constaté que la société concernée utilisait ses actifs non pas pour gagner du revenu d'entreprise mais essentiellement pour recevoir des revenus générés par un bien.
+[51] Ce sont là les deux seuls éléments soulevés par l'appelant à qui incombait de démontrer que la cotisation, qui bénéficie d'une présomption de validité, n'était pas justifiée en droit. Après avoir analysé la preuve soumise, je conclus que l'appelant n'a pas démontré le bien-fondé de ses prétentions quant à la cotisation contestée.
+[52] L'appel est conséquemment rejeté. Le tout sans frais.
+Signé à Ottawa, Canada, ce 14e jour de mai 2004.
+« Alain Tardif »
+Juge Tardif
+RÉFÉRENCE :
+2004CCI371
+No DU DOSSIER DE LA COUR :
+2003-1383(IT)I
+INTITULÉ DE LA CAUSE :
+Jacques Beauchamp c. Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+Baie-Comeau (Québec)
+DATE DE L'AUDIENCE :
+Le 19 avril 2004
+MOTIFS DE JUGEMENT PAR :
+L'honorable juge Alain Tardif
+DATE DU JUGEMENT :
+Le 14 mai 2004
+COMPARUTIONS :
+Pour l'appelant :
+Me Yves Langlois
+Pour l'intimée :
+Me Julie David
+AVOCAT INSCRIT AU DOSSIER:
+Pour l'appelant :
+Nom :
+Me Yves Langlois, avocat
+Ville :
+Baie-Comeau (Québec)
+Pour l'intimée :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

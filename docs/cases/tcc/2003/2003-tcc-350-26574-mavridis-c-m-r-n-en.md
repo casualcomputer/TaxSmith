@@ -1,0 +1,161 @@
+---
+title: "Mavridis c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26574/index.do"
+last_modified: "2003-05-20"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 TCC 350"
+citation2: ""
+neutral_citation: "2003 TCC 350"
+decision_date: "2003-05-20"
+language: "en"
+item_id: "26574"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3582
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T18:08:51.265000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "a8bb12658233fe98efbe0c612e5b4af882a35e627bce7b4cc4106d7d53e13693"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Mavridis c. M.R.N.
+
+- Citation: 2003 TCC 350
+- Decision date: 2003-05-20
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3582, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Mavridis c. M.R.N.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-05-20
+Neutral citation
+2003 TCC 350
+File numbers
+2002-4696(EI)
+Judges and Taxing Officers
+Lucie Lamarre
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2002-4696(EI)
+BETWEEN:
+DOTYRO MAVRIDIS,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+A. SCHONBEK & CO. LTD.,
+Intervenor.
+____________________________________________________________________
+Appeal heard on May 15, 2003 at Ottawa, Ontario
+Before: The Honourable Judge Lucie Lamarre
+Appearances:
+For the Appellant:
+The appellant herself
+Counsel for the Respondent:
+Nicolas Simard
+For the Intervenor:
+No one appeared.
+____________________________________________________________________
+[OFFICIAL ENGLISH TRANSLATION]
+JUDGMENT
+The appeal brought under subsection 103(1) of the Employment Insurance Act is dismissed and, given the exclusion from insurable earnings of an amount of $3,500 received by the appellant as severance pay, the Minister's November 25, 2002 decision, concerning the appeal brought before him under section 91 of that Act, is confirmed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 20th day of May 2003.
+"Lucie Lamarre"
+J.T.C.C.
+Translation certified true
+on this 28th day of January 2004.
+Carol Edgar, Translator
+Citation: 2003TCC350
+Date: 20030520
+Docket: 2002-4696(EI)
+BETWEEN:
+DOTYRO MAVRIDIS,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+A. SCHONBEK & CO. LTD.,
+Intervenor.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Lamarre, J. T.C.C.
+[1] The appellant was dismissed by her employer ("the intervenor") on March 2, 2001 after having worked for it for a little more than four years. The appellant immediately filed a complaint with Quebec's Commission des normes du travail, following which an agreement was reached with the intervenor under which the intervenor agreed to pay to the appellant severance pay in the amount of $3,500. After that time the appellant never worked for the intervenor again.
+[2] The appellant began receiving employment insurance benefits following the March 2, 2001 loss of her job. Her employment insurance benefits were calculated on the basis of her insurable earnings (not including the severance pay in the amount of $3,500). The appellant stated that her employment insurance was cut off after 31 weeks but that she had been told that she was eligible for 52 weeks. This point will have to be clarified with the competent authorities at the Canada Customs and Revenue Agency since it is not the subject of the dispute before me and I do not have the detailed calculation of the employment insurance benefits for which the appellant was eligible. The appellant is now on social assistance.
+[3] On June 1, 2001, the appellant received from the intervenor a cheque in the amount of $1,939.43, representing the net amount of the $3,500 pay after source deductions, the details of which are set out in Exhibit I-2 as follows:
+[TRANSLATION]
+Severance pay
+$3,500.00
+Less
+Repayment of Employment Insurance overpayment
+122.00
+Balance
+$3,378.00
+Less
+Provincial income tax
+( 678.30)
+Federal income tax
+( 544.79)
+Employment Insurance premium
+( 76.01)
+Quebec Pension Plan ("QPP") premium
+( 139.47)
+Net amount
+$1,939.43
+[4] When the appellant stopped receiving her employment insurance benefits, she asked the competent authorities about the insurability of the severance pay in the amount of $3,500. She was first told that this amount should have been included in her insurable earnings, and she was sent a cheque for approximately $2,000. Human Resources Development Canada then requested repayment of this amount, paid out in error. According to the monthly statements adduced as Exhibit A-1, the appellant was asked to repay a balance of $2,034 on September 1, 2002; that balance became nil on November 24, 2002, then went back up to $2,034 on December 29, 2002 and January 27, 2003, and returned to nil on February 27, 2003.
+[5] The least that can be said is that there was confusion at Human Resources Development Canada, which led to confusion for the appellant as well.
+[6] One thing is clear, however. The severance pay in the amount of $3,500 should not have been included in the calculation of insurable earnings, under sections 1 and 2 of the Insurable Earnings and Collection of Premiums Regulations, which read as follows:
+Insurable Earnings and Collection of Premiums Regulations
+INTERPRETATION
+1.(1) The definitions in this subsection apply in these Regulations.
+[...]
+"retiring allowance" means an amount received by a person
+(a) on or after retirement of the person from an office or employment in recognition of the person's long service, or
+(b) in respect of a loss of an office or employment of the person, whether or not received as, on account or in lieu of payment of, damages or pursuant to an order or judgment of a competent tribunal. (allocation de retraite)
+[...]
+PART I
+INSURABLE EARNINGS
+Earnings from Insurable Employment
+2.(1) For the purposes of the definition "insurable earnings" in subsection 2(1) of the Act and for the purposes of these Regulations, the total amount of earnings that an insured person has from insurable employment is
+(a) the total of all amounts, whether wholly or partly pecuniary, received or enjoyed by the insured person that are paid to the person by the person's employer in respect of that employment, and
+(b) the amount of any gratuities that the insured person is required to declare to the person's employer under provincial legislation.
+(2) For the purposes of this Part, the total amount of earnings that an insured person has from insurable employment includes the portion of any amount of such earnings that remains unpaid because of the employer's bankruptcy, receivership, impending receivership or non-payment of remuneration for which the person has filed a complaint with the federal or provincial labour authorities, except for any unpaid amount that is in respect of overtime or that would have been paid by reason of termination of the employment.
+(3) For the purposes of subsections (1) and (2), "earnings" does not include
+[...]
+(b) a retiring allowance;
+[7] It is clear that the severance pay in the amount of $3,500 received by the appellant after her dismissal corresponds to the definition of retiring allowance and that such a retiring allowance is excluded from insurable earnings. The appeal is therefore dismissed on this point.
+[8] On the other hand, it is also clear that the employer should not have deducted an Employment Insurance premium from the severance pay, since the severance pay did not constitute insurable earnings.[1] The appellant is eligible for a refund of this amount under section 96 of the Employment Insurance Act. As well, I strongly recommend that the respondent review the appellant's case in order to verify:
+1. why the appellant stopped receiving employment insurance benefits after 31 weeks when she had been told that she was eligible for 52 weeks;
+2. why the monthly statements vary from one period to another; and
+3. if necessary, whether a set-off needs to be made between the amounts owed by the appellant to Human Resources Development Canada and vice versa.
+Signed at Ottawa, Canada, this 20th day of May 2003.
+"Lucie Lamarre"
+J.T.C.C.
+Translation certified true
+on this 28th day of January 2004.
+Carol Edgar, Translator
+[1] The appellant asked whether the same was true for the QPP premium. This question will have to be directed to the competent authorities since it does not fall within this Court's jurisdiction.

@@ -1,0 +1,181 @@
+Title: Laforest Marketing Internationals Inc. v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/365064/index.do
+Corpus path: corpus/cases/tcc/2019/2019-tcc-45-365064-laforest-marketing-internationals-inc-v-the-queen-en.md
+Document type: case_law
+Last modified: 2019-03-04
+
+# Laforest Marketing Internationals Inc. v. The Queen
+
+- Citation: 2019 TCC 45
+- Decision date: 2019-03-04
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4306, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Laforest Marketing Internationals Inc. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2019-03-04
+Neutral citation
+2019 TCC 45
+File numbers
+2017-3334(IT)I
+Judges and Taxing Officers
+Jean Gilles Lebel
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2017-3334(IT)I
+BETWEEN:
+LAFOREST MARKETING INTERNATIONALS INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard on December 5, 2018, at Montréal, Quebec.
+Before: The Honourable Justice J.G. Lebel
+Appearances:
+Representative of the Appellant:
+Mr. Yves Hamelin
+Counsel for the Respondent:
+Mr. Gabriel Girouard
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act for the year ending June 30, 2015 is dismissed.
+Signed at Hamilton, Canada, this 4th day of March 2019.
+“Jean-Gilles Lebel”
+Lebel J.
+Citation: 2019 TCC 45
+Date: March 4, 2019
+Docket: 2017-3334(IT)I
+BETWEEN:
+LAFOREST MARKETING INTERNATIONALS INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Lebel J.
+I. Introduction
+[1] This appeal under the informal procedure arises from a notice of assessment issued on July 27, 2016, for the taxation year ending June 30, 2015. The Appellant filed a notice of objection on September 29, 2016. On August 11, 2017, before the Minister had notified the Appellant of his decision, the Appellant appealed to the Tax Court of Canada.
+II. Overview
+[2] Laforest Marketing Internationals Inc. (hereinafter the “Appellant”) was founded in 2002 and operates a company that provides consulting services to Quebec SMEs.
+[3] Ms. Martine Laforest is the company’s president and principal shareholder. She has a Bachelor of Business Administration.
+[4] The Appellant’s fiscal year ends June 30.
+[5] In 2015, the Appellant applied for a tax credit for expenses resulting from a scientific research and experimental development (hereinafter “SR&ED”) project for a Spray Catcher water mist collector innovation (hereinafter “Spray Catcher”), carried out during the period from July 1, 2014 to June 30, 2015.
+[6] The Spray Catcher project involved developing a product to catch the water when spraying the leaves of indoor plants. A number of prototypes were developed with different geometric shapes in order to address several constraints, namely resistance, flexibility, weight, ease of handling, materials, and ease of storage.
+[7] The amount of expenses claimed was $27,661, and the SR&ED tax credit was $7,043.
+[8] On May 25, 2016, the Minister sent a technical review report and the audit results to the Appellant. (Mr. Jonathan Assouline, Research and Technology Advisor, did the technical review). The Minister decided that the project did not fit the definition of SR&ED under subsection 248(1) of the Income Tax Act (hereinafter the “ITA”).
+III. The issues
+[9] The issues are as follows:
+a) Is the Respondent justified in disallowing the SR&ED expenses claimed by the Appellant for the SR&ED project submitted for fiscal year ending June 30, 2015?
+b) Specifically, can the project carried out by the Appellant during the fiscal year in question and for which it claimed SR&ED credits be included as an SR&ED project under sections 37 and 248 of the Act?
+IV. Evidence at the hearing
+[10] Ms. Laforest explained the details of the expenses for subcontractors contained in Exhibit A-1, Tab 13, as well as the details of the expenses for the materials contained in Exhibit A-1, Tab 14. Basically, she wanted an instrument to catch the water from the plants so that it would not end up on the floor and furniture.
+[11] The technical problems were ease of use, 20-second assembly, adapting to multiple plants, aesthetics and easy storage.
+[12] Photos of various prototypes appear in Exhibit A-1, Tabs 7 and 9. Further to the A-7 prototype (exhibit A-7), the decision was made to conduct an initial test bed with users in Ottawa and Mirabel. The users responded that the product was cumbersome, hard to store and install, and not aesthetically pleasing.
+[13] She therefore consulted with Genia Design, which had developed a new concept: one where the plant lover moves towards the plant. Ms. Laforest therefore submitted prototypes B.
+[14] She started looking for appropriate materials and therefore turned to polyethylene plastic. Polyethylene is available in rolls and sheets. She chose the one in rolls for her project. She then made two prototypes with rolled polyethylene for her project: one with medium-density polyethylene and the other with high-density polyethylene.
+[15] A second testbed was conducted with both prototypes. The users reported that the medium-density prototype would break, that it needed a handle, and that the corners were rounded.
+[16] Following that testbed, Ms. Laforest moved to the manufacturing stage, and she then encountered a problem that she describes as technical, namely the fact that she wanted the Spray Catchers to have a lifespan of at least two years, but according to the specialists consulted, the rolled polyethylene that she had chosen would break before two years.
+[17] Therefore, Ms. Laforest chose to use polypropylene plastic, which was available only in sheets with a thickness of 23 mm.
+[18] A firm was then asked to develop a matrix. Ms. Laforest used the services of an initial supplier for doing the production with a press, but the folds were unsatisfactory. So she looked for another supplier that used a rolling method. Ms. Laforest described this as the first problem. The second problem was plastic welding.
+[19] She therefore realized that she had to come up with a new way to weld the plastic to get the necessary results. Therefore, she did some research with various companies and consulted a composite materials teacher at the Saint-Jérôme CEGEP because she did not have the knowledge required. She was able to find a company, Repaco, that developed a new piece of equipment, a mini-press, to be able to do the desired plastic welding. Repaco applied for SR&ED for that equipment. Ms. Laforest was present for 80% of the development of that equipment.
+[20] A great deal of research was required with multiple suppliers regarding the handle of the Spray Catcher.
+[21] As for technological learning, Ms. Laforest testified that:
+[TRANSLATION]
+Wow! I learned a lot of things. I learned… well, first, the whole world of plastics, the properties of some plastics compared to others -- that’s one thing. The other thing, I also learned in the market that, in terms of welding plastic of this thickness, it seemed non-existent. Yet, I did some research and it seemed non-existent, which means I’m happy to have developed, along with my manufacturer, some accessories enabling me to do that welding. I also learned about plastics in rolls versus plastics in sheets, the manufacturing process for those plastic sheets, that they have different properties, so I learned that, and I learned from one supplier that, they didn’t know the other supplier, so that required me to get my head around all that, and then put together all that information to be able to make more informed choices about the material to use.
+This means that I’d say my learning had a great deal to do with manufacturing processes, choices, the choice of materials.”
+[22] According to her, she did not use focus groups, but testbeds.
+[23] She applied for a patent for that product.
+[24] In cross-examination, she described the technological advancement as follows:
+[TRANSLATION]
+“Well, the technological advancement, there is definitely the scientific vocabulary, which I was not familiar with, but for me, the technological advancement here, first, there was the accessory developed for catching the water spray, which didn’t exist on the market, neither in Canada, the United States, nor Europe, nor in the research that had been done by the law firm regarding the patent that I had commissioned.
+And then after that, well, there were technological advancements with respect to the various roadblocks, the various technical problems encountered throughout the research-and-development process, as I was mentioning early with respect to the welding, the selecting of materials that were selected.”
+[25] She stated that she had created an Excel document that described the steps, dates and results of this project, but did not list all of them.
+[26] She had only one call with the composite materials teacher at the Saint-Jérôme CEGEP.
+[27] Two-roll thermoforming was used as a cutting method.
+[28] She did not include the expenses involving the manufacturer Repaco because they had not charged her anything.
+[29] She confirmed that no statistics or data analyses were done during the two testbeds. The users were not selected for their expertise.
+[30] Lastly, Mr. Assouline, a research and technology adviser for the CRA, covered this. According to him, in the report prepared by the firm Services HLP, there was simply limited scientific knowledge, not scientific certainty.
+[31] According to him, the CRA had asked for the video and photos, but received only photos from the Appellant. The Appellant testified that it had submitted a video, but I do not accept that testimony.
+[32] Mr. Assouline met with Ms. Laforest on March 30, 2016. Ms. Laforest told him that the tests had been recruited by marketing firms with the aim of evaluating products under development. According to her, the testbeds had a commercial objective, not a technological one.
+[33] The documents consulted during the audit were those indicated in the table on page 5 of the RTA report by the CRA.
+[34] Mr. Assouline testified that the decision made was that the project did not fit the definition of SR&ED under subsection 248(1) ITA. He explains his decision:
+[TRANSLATION]
+Therefore, they are not changing the characteristics of the materials used; they are not changing the scientific or technological capabilities of either the methods or processes used. They are using existing processes and are looking for the right processes, the right combination of those processes, and the right modulation of those materials and processes in order to have a product that meets a number of specific, unique needs.
+[35] He confirmed that the conventional method was used for the Appellant’s application, in which an applicant reports all overhead costs, as opposed to the alternative method of 55% of direct wages incurred.
+[36] Neither the Appellant nor the CEGEP teacher received any salaries in this project.
+[37] Mr. Malenfant, the financial reviewer for the CRA who handled this matter, presented the financial review report. He testified that some of the costs that were supposed to be overhead costs were claimed as materials; so the cost of materials was supposed to be $2,355. The amount was reduced to zero because, in his opinion, this was not an SR&ED project.
+[38] He testified that, even if the project had been considered an SR&ED project, some expenses would have been disallowed because they fell under marketing expenses, namely the expenses that are ineligible spending further to the FR’s review at Exhibit I-1, Tab 12.
+[39] In cross-examination, he confirmed that the Appellant used the conventional method in its application. Eligible expenses are those that are incremental and directly related to the SR&ED project.
+V. Analysis of the law
+[40] SR&ED is defined in subsection 248(1) of the ITA as follows:
+Scientific research and experimental development systematic investigation or search that is carried out in a field of science or technology by means of experiment or analysis and that is
+(a) basic research, namely, work undertaken for the advancement of scientific knowledge without a specific practical application in view,
+(b) applied research, namely, work undertaken for the advancement of scientific knowledge with a specific practical application in view, or
+(c) experimental development, namely, work undertaken for the purpose of achieving technological advancement for the purpose of creating new, or improving existing, materials, devices, products or processes, including incremental improvements thereto,
+and, in applying this definition in respect of a taxpayer, includes
+(d) work undertaken by or on behalf of the taxpayer with respect to engineering, design, operations research, mathematical analysis, computer programming, data collection, testing or psychological research, where the work is commensurate with the needs, and directly in support, of work described in paragraph (a), (b), or (c) that is undertaken in Canada by or on behalf of the taxpayer,
+but does not include work with respect to
+(e) market research or sales promotion,
+(f) quality control or routine testing of materials, devices, products or processes,
+(g) research in the social sciences or the humanities,
+(h) prospecting, exploring or drilling for, or producing, minerals, petroleum or natural gas,
+(i) the commercial production of a new or improved material, device or product or the commercial use of a new or improved process,
+(j) style changes, or
+(k) routine data collection (activités de recherche scientifique et de développement expérimental)
+[41] The criteria used for determining whether experimental development activities are SR&ED were established in the leading case Northwest Hydraulic v. The Queen in Information Circular IC86-4R3.
+[42] The following five questions must be answered in the affirmative:
+(1) Was there a scientific or technological uncertainty?
+(2) Did the effort involve formulating hypotheses specifically aimed at reducing or eliminating that uncertainty?
+(3) Was the overall approach adopted consistent with a systematic investigation or search, including formulating and testing the hypotheses by means of experiment or analysis?
+(4) Was the overall approach undertaken for the purpose of achieving a scientific or a technological advancement?
+(5) Was a record of the hypotheses tested and the results kept as the work progressed?
+[43] It should be noted that the criteria are cumulative and therefore, if the Appellant fails to meet one criterion positively, the project cannot be an SR&ED project. Therefore, it is unnecessary to look at or analyze the other criteria.
+VI. Technological uncertainty
+[44] The decision Jentel Manufacturing Ltd. v. Canada, 2012 DTC 5031 [at 6682], 2011 FCA 355 is similar in terms of the facts in this case because the taxpayer used different types of plastic and processes to improve his product, which was a plastic storage system. The taxpayer used common techniques and routine procedures. The court dismissed the taxpayer’s appeal.
+[45] In general, it is expert evidence submitted by both parties that helps the judge determine what constitutes a routine procedure or common technical study, by helping the judge grasp the technical data before analyzing it. In this case, the Appellant did not call any experts; therefore, it is difficult to determine whether the process is new to the industry. The mere fact that a product does not exist does not necessarily make it possible to claim that developing it involves technological uncertainty.
+[46] The Respondent considers that common techniques in the industry were used by the Appellant. The Appellant submits, however, that the tests were intended to create a new technology and not simply to implement already known methods.
+[47] It is not enough for information to be unknown to the taxpayer; it must be unknown to the field in general. It is possible for a product or process to exist already and for a technological uncertainty to persist. However, it is instead the application of common methods that matters in analyzing SR&ED activity. It is therefore necessary to decide whether the technique developed by the Appellant was similar to one in the manufacturing of similar products for which the process was accessible and whether the adaptations made result solely from techniques commonly used in the industry.
+[48] According to the Appellant’s testimony, projects already known about in the industry were used. She did a lot of research with specialists to learn about the types of plastic available and how to weld, but ultimately, she used plastic that already existed and known welding methods. Although she claims that, along with Repaco, she developed a new mini-press for welding, in my opinion, that could not be considered either because, first of all, Repaco did everything for free, and so there is no expense claimed in connection with that. Second, Repaco claimed the expenses for its own project. There was no evidence, except Ms. Laforest's testimony, demonstrating that the mini-press was actually a new process. The mini-press may indeed be new to Repaco, but another company was already using it; the evidence is not conclusive on this point.
+[49] The relevant exclusions from subsection 248(1) include market research and sales promotion.
+[50] Having considered all the evidence brought in this appeal, I am not satisfied on a balance of probabilities that the project is an SR&ED project because it does not meet the criteria established by the case law. In my opinion, the project was a trial-and-error type of commercial development project.
+Signed at Hamilton, Canada, this 4th day of March 2019.
+“Jean-Gilles Lebel”
+Lebel J.
+CITATION:
+2019 TCC 45
+COURT FILE NO.:
+2017-334(IT)I
+STYLE OF CAUSE:
+LAFOREST MARKETING INTERNATIONALS INC. AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Montréal, Quebec
+DATE OF HEARING:
+December 5, 2018
+REASONS FOR JUDGMENT BY:
+The Honourable Justice J.G. Lebel
+DATE OF JUDGMENT:
+March 4, 2019
+APPEARANCES:
+Representative of the Appellant:
+Mr. Yves Hamelin
+Counsel for the Respondent:
+Mr. Gabriel Girouard
+SOLICITORS OF RECORD:
+For the Appellant:
+Name:
+[BLANK]
+Firm:
+[BLANK]
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada

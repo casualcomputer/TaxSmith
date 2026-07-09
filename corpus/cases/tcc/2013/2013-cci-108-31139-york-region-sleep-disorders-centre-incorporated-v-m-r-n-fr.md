@@ -1,0 +1,246 @@
+---
+title: "York Region Sleep Disorders Centre Incorporated v. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/31139/index.do"
+last_modified: "2013-04-16"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2013 CCI 108"
+citation2: ""
+neutral_citation: "2013 CCI 108"
+decision_date: "2013-04-16"
+language: "fr"
+item_id: "31139"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4757
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T15:22:46.035000+00:00"
+cases_cited_count: 4
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "54bd9f060f7f58b61a602abc8437843b1bef8d8262ea809266766d71e84cf968"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# York Region Sleep Disorders Centre Incorporated v. M.R.N.
+
+- Citation: 2013 CCI 108
+- Decision date: 2013-04-16
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4757, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+York Region Sleep Disorders Centre Incorporated v. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2013-04-16
+Référence neutre
+2013 CCI 108
+Numéro de dossier
+2011-4111(CPP), 2011-4112(EI)
+Juges et Officiers taxateurs
+Randall S. Bocock
+Sujets
+Régime de pensions du Canada
+Contenu de la décision
+Dossiers : 2011-4111(CPP)
+2011-4112(EI)
+ENTRE :
+YORK REGION SLEEP DISORDERS
+CENTRE INCORPORATED,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels entendus le 31 janvier et le 1er février 2013, à Toronto (Ontario)
+Devant : L’honorable juge Randall Bocock
+Comparutions :
+Avocate de l’appelante :
+Me Christine Ashton
+Avocates de l’intimé :
+Me Lindsay Beelen
+Me Roxanne Wong
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté en vertu de l’article 28 du Régime de pensions du Canada (le « Régime ») est rejeté, et la décision du ministre du Revenu national concernant l’appel porté devant lui en vertu de l’article 27 du Régime est confirmée.
+L’appel interjeté en vertu du paragraphe 103(1) de la Loi sur l’assurance‑emploi (la « Loi ») est rejeté, et la décision rendue par le ministre du Revenu national au sujet de l’appel porté devant lui en vertu de l’article 91 de la Loi est confirmée.
+Signé à Ottawa, Canada, ce 16e jour d’avril 2013.
+« R.S. Bocock »
+Juge Bocock
+Traduction certifiée conforme
+ce 5e jour de juin 2013.
+Marie-Christine Gervais, traductrice
+Référence : 2013 CCI 108
+Date : 20130416
+Dossiers : 2011-4111(CPP)
+2011-4112(EI)
+ENTRE :
+YORK REGION SLEEP DISORDERS
+CENTRE INCORPORATED,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Bocock
+I. La nature de l’appel
+[1] Dans le cadre de ces deux appels, l’un interjeté au titre de la Loi sur l’assurance‑emploi (la « Loi ») et, l’autre, au titre du Régime de pensions du Canada (le « Régime »), la Cour doit à nouveau se prononcer sur une question qui lui a bien souvent été soumise, soit celle de savoir si les fournisseurs de soins de santé auxiliaires sont des employés ou des entrepreneurs indépendants.
+II. Les faits
+a) Le résumé des faits admis
+[2] Les faits pertinents suivants ne sont pas contestés :
+i) l’appelante est une entreprise à but lucratif qui exploite un centre de traitement, d’analyse et de surveillance des troubles du sommeil (la « clinique du sommeil »).
+ii) les activités de surveillance sont notamment des études contrôlées des patients pendant leur sommeil et l’enregistrement de diverses données recueillies au moyen d’électroencéphalogrammes et d’électrocardiogrammes, ainsi que des signes vitaux et d’autres données connexes (les « études sur le sommeil »).
+iii) l’analyse effectuée par la suite, séparément des études sur le sommeil, permet de compiler, de noter et de définir les données au moyen d’analyses de données et d’analyses statistiques normalisées (la « notation »).
+iv) les technologues en polysomnographie (les « technologues ») sont formés pour mener des études sur le sommeil et effectuer la notation en tant que spécialistes du sommeil (les « spécialistes du sommeil »).
+v) les spécialistes du sommeil peuvent obtenir un agrément professionnel supplémentaire en matière de prestation de soins de santé en poursuivant leurs études, en suivant des formations et en renouvelant leur agrément de façon périodique, ce qui permet aux étudiants ayant rempli les conditions nécessaires de devenir des technologues en polysomnographie agréés (les « technologues agréés »).
+vi) les neuf travailleurs en cause (les « travailleurs ») à la clinique du sommeil étaient des technologues (ou des « spécialistes du sommeil »).
+vii) six des travailleurs étaient des technologues agréés.
+viii) le ministre a apprécié les faits relatifs à un échantillon de cinq travailleurs et a conclu que les travailleurs de l’échantillon étaient des employés et que leur emploi était assurable en vertu de l’alinéa 5(1)a) de la Loi et ouvrait droit à pension en vertu de l’alinéa 6(1)a) du Régime, pour les années d’imposition 2008 et 2009 (la « période pertinente »).
+ix) la clinique du sommeil est un établissement de santé indépendant régi par les lois provinciales, qui exigent la nomination de personnes désignées et la création et la mise sur pied de certains comités afin de garantir la qualité des traitements et le respect des normes professionnelles.
+x) la clinique du sommeil est supervisée, d’un point de vue professionnel, par l’Ordre des médecins et chirurgiens de l’Ontario (l’« Ordre »), qui exige le respect d’un guide de normes.
+xi) pour garantir le respect du guide de normes, la clinique a établi un manuel de procédures et de politiques (le « manuel ») et demande que tout son personnel (dont les travailleurs) s’y conforme.
+xii) tous les membres du personnel qui exercent leurs fonctions conformément aux lois, aux guides de normes et au manuel sont considérés comme des membres du personnel technique et relèvent du directeur médical et conseiller en matière de qualité (le « directeur médical ») ainsi que du gestionnaire / directeur technique (« directeur technique ») de la clinique. Les travailleurs n’ont pas de contrat écrit.
+xiii) les travailleurs font tous moins d’heures par semaine que les travailleurs à temps plein. Ceux qui travaillent à temps plein sont considérés et traités comme des employés par l’appelante (les « employés à temps plein »).
+b) Les témoignages à l’audience
+[3] Deux personnes ont témoigné pour le compte de l’appelante : M. Ilya Dumov, le directeur technique, et M. Haris Sabanadzovic, un travailleur à la clinique. Pour l’intimé, M. Elvin Mopera et M. Yan Fai Chow, tous deux travailleurs, ont témoigné en tant que témoins opposés.
+[4] Bien que certains témoignages aient comporté de légères différences à l’audience, en règle générale, les témoignages concordaient. Tous les témoins ont été formels quant à l’intention des parties : bien que celle‑ci n’ait pas fait l’objet d’une entente écrite, la relation professionnelle qui existait entre les travailleurs et l’employeur était une relation d’entrepreneur indépendant et non pas une relation employeur‑employé. Parallèlement, il ressort de la preuve que, dans d’autres cliniques du sommeil, les travailleurs étaient traités à fois comme des employés et comme des entrepreneurs indépendants.
+[5] De plus, les conclusions de fait que j’ai tirées des témoignages, qui sont indiquées par les titres de rubrique ci‑dessous (en fonction des titres que les avocates ont utilisés au cours des interrogatoires et des contre-interrogatoires, qui correspondent au critère à quatre volets mentionné ci‑après) peuvent être résumées ainsi.
+i) Le contrôle
+a) L’établissement des heures de travail
+[6] Les travailleurs faisaient part de leurs préférences quant à l’horaire de travail pour les postes de nuit et de jour à faire pour mener les études sur le sommeil et effectuer la notation. En général, les études sur le sommeil étaient faites pendant la nuit, du fait de la nature humaine. Parfois, des études sur le sommeil étaient menées le jour pour les patients qui travaillaient par poste. Lorsqu’un travailleur travaillait le jour, c’était pour mener une étude sur le sommeil pour un patient souffrant de troubles du sommeil graves (par exemple, lorsqu’un patient souffrait d’apnée du sommeil, pour laquelle il devait être traité de toute urgence, ou d’un trouble semblable). La notation pouvait être effectuée n’importe quand. Dans les faits, la plupart des travailleurs avaient toujours le même horaire de travail (établi en fonction de leurs préférences). Si un patient de la clinique du sommeil annulait son rendez‑vous dans la soirée ou ne se présentait pas à son rendez‑vous, les travailleurs pouvaient décider lesquels d’entre eux rentreraient à la maison. S’il y avait des employés à temps plein à la clinique, ils restaient là et exécutaient les tâches administratives que l’appelante leur assignait. Les travailleurs devaient assister aux réunions mensuelles du personnel où il était question des mises à jour des politiques, des changements de personnel et des procédures.
+b) Le remboursement des dépenses
+[7] Règle générale, tous les travailleurs supportaient la totalité des dépenses liées à la prestation de leurs services, alors que les employés à temps plein recevaient certaines allocations : on leur fournissait entre autres des uniformes. Il arrivait que l’appelante donne gratuitement de la formation médicale continue aux travailleurs.
+c) Le paiement des travailleurs
+[8] Généralement, les travailleurs étaient payés selon une formule directement liée à un montant uniforme calculé en fonction d’un poste de travail fixe par soir pour les études sur le sommeil. La notation était payée à la pièce. Chaque mois, les travailleurs remplissaient un document servant à la fois de facture et de feuille de temps (les « factures-feuilles de temps »). Pendant la période pertinente, pour remplir le document, les travailleurs devaient remplir les sections intitulées [traduction] « Nom de l’employé », [traduction] « Heures », [traduction] « Taux horaire » et [traduction] « Total ». Les factures-feuilles de temps étaient approuvées par le directeur technique. De temps à autre, pendant la période pertinente, les travailleurs et les employés à temps plein utilisaient les mêmes factures-feuilles de temps. Certains éléments de preuve donnaient à penser que les travailleurs demandaient parfois qu’on leur verse une indemnité de vacances. Au cours d’années subséquentes, après la période pertinente, les factures sont devenues plus précises et faisaient état de chiffres concernant les études sur le sommeil, et les renseignements figurant sous la colonne [traduction] « Taux horaire » étaient incomplets.
+d) La supervision
+[9] Lorsqu’un travailleur avait besoin de renseignements, il s’adressait au directeur technique ou au médecin responsable. Cela était conforme aux normes professionnelles et au manuel. En dernier ressort, en cas de problème, aucune mesure disciplinaire n’était prise, mais le travailleur était avisé. Si le problème persistait, il était tout simplement mis fin au contrat du travailleur. La clinique du sommeil n’a jamais mis fin au contrat d’un travailleur ou renvoyé un employé à temps plein ni infligé des sanctions disciplinaires à ceux‑ci. Généralement, que les études sur le sommeil ou la notation soient effectuées par un travailleur ou un employé à temps plein, tous les rapports finals devaient être approuvés et signés par un médecin. Les travailleurs ne refusaient jamais du travail. La principale raison pour laquelle les travailleurs travaillaient à temps partiel était la possibilité d’obtenir du travail d’autres cliniques et centres du sommeil, ce que certains ont fait. Les travailleurs ne prenaient jamais de dispositions directement avec un patient pour la tenue d’études sur le sommeil. Les travailleurs étaient évalués chaque année. Les augmentations ou les discussions à ce sujet découlaient de ces examens annuels.
+ii) La capacité d’embaucher des personnes pour remplacer les travailleurs
+[10] Si un travailleur devait annuler une étude sur le sommeil prévue à l’horaire, il communiquait avec la clinique du sommeil. Aucun élément de preuve ne permet de donner à penser que les travailleurs se remplaçaient l’un l’autre, soit en communiquant directement entre eux, soit en concluant un contrat de sous‑traitance avec un autre spécialiste du sommeil. Le directeur technique a confirmé que l’appelante jugeait inacceptable qu’un travailleur se fasse directement remplacer par un autre spécialiste du sommeil et que cela ne s’était pas produit.
+iii) Les instruments de travail
+[11] Mis à part les uniformes des travailleurs (tenues portées par le personnel médical), tous les autres instruments de travail, soit les ordinateurs, les logiciels et l’équipement médical, étaient fournis par l’appelante. Les travailleurs ne pouvaient pas avoir accès aux logiciels ou aux fichiers de données à distance et ils ne l’ont pas fait. Aucuns frais n’étaient exigés des travailleurs pour l’utilisation, la location ou la réparation de l’équipement ou bien pour l’utilisation des locaux.
+iv) Les risques de perte et l’investissement
+[12] Selon tous les témoignages, aucun travailleur n’assumait quelque responsabilité que ce soit pour ce qui est de l’investissement, des risques financiers ou des activités opérationnelles en ce qui concerne l’exploitation de la clinique du sommeil ou les activités des travailleurs exercées à la clinique. Aucun d’eux n’avait investi de capitaux ou prêté de l’argent relativement à une entreprise connexe ou à la clinique du sommeil.
+v) La possibilité de profit
+[13] Aucun des travailleurs ayant témoigné n’avait son propre nom commercial, ainsi qu’un numéro d’identification d’entreprise et des cartes professionnelles ou bien n’a fait référence à des activités faisant la promotion de ses compétences. Dans l’ensemble, il ressort des témoignages que la seule possibilité de profit des travailleurs découlait de leur capacité de travailler pour d’autres fournisseurs de services dans le domaine, parce qu’ils ne travaillaient pas à temps plein pour la clinique du sommeil.
+III. Les observations des avocates et les hypothèses du ministre
+[14] Même si elles ne sont pas toujours très utiles dans les affaires comme celle‑ci, il convient de répéter certaines des hypothèses du ministre figurant dans les réponses pour les deux dossiers. Les passages suivants sont pertinents :
+[traduction]
+Le contrôle
+r) chaque mois, les travailleurs indiquaient à l’appelante les nuits où ils étaient prêts à travailler à la clinique du sommeil;
+s) l’appelante établissait un horaire de travail mensuel pour la clinique;
+t) l’appelante ne garantissait pas aux travailleurs un certain nombre de postes par mois;
+u) la plupart des travailleurs effectuaient de huit à dix nuits par mois à la clinique du sommeil de l’appelante;
+v) chaque poste était de dix heures;
+w) habituellement, les travailleurs n’étaient pas supervisés directement lorsqu’ils surveillaient des patients lors des études menées sur le sommeil;
+x) les travailleurs étaient supervisés par le [directeur technique] de l’appelante, qui coordonnait le travail qu’ils accomplissaient;
+y) l’appelante donnait de la formation aux travailleurs quant à la façon d’exercer leurs fonctions;
+z) les travailleurs étaient tenus de se conformer aux politiques, aux procédures et aux protocoles de l’appelante;
+aa) l’appelante avait des procédures de contrôle de la qualité pour s’assurer que les travailleurs effectuaient leur travail correctement;
+bb) les études de sommeil étaient examinées par l’appelante, et on demandait aux travailleurs d’apporter les corrections nécessaires;
+cc) les travailleurs préparaient des rapports détaillés, conformément aux politiques et aux procédures établies par l’appelante;
+dd) l’appelante formait les travailleurs quant à l’utilisation de ses logiciels;
+ee) les rapports d’études sur le sommeil préparés par les travailleurs étaient signés par les médecins;
+La fourniture des instruments de travail et du matériel
+ff) les travailleurs accomplissaient habituellement leurs fonctions dans les locaux de l’appelante;
+gg) l’appelante fournissait gratuitement aux travailleurs les instruments de travail et le matériel dont ils avaient besoin pour mener les études sur le sommeil, dont un électromyogramme, un électroencéphalogramme, un électrooculogramme, un électrocardiogramme, une sonde nasale de débit d’air, du matériel audio‑vidéo et des microphones pour enregistrer les ronflements;
+hh) les travailleurs ne fournissaient pas les instruments de travail ni le matériel nécessaires pour effectuer le travail;
+La sous-traitance et l’embauche d’assistants
+ii) les travailleurs devaient fournir leurs services en personne;
+jj) les travailleurs ne pouvaient pas sous-traiter leur travail ou embaucher des assistants;
+kk) les travailleurs devaient trouver une personne pour les remplacer s’ils ne pouvaient pas effectuer un poste prévu à l’horaire;
+ll) les personnes qui remplaçaient les travailleurs étaient approuvées et payées par l’appelante;
+La possibilité de profit et les risques de perte
+mm) les travailleurs étaient payés à l’heure;
+nn) les taux de salaire étaient fixés par l’appelante et variaient de 18 $ à 25 $ l’heure, selon l’expérience du travailleur;
+oo) les travailleurs consignaient les heures de travail qu’ils faisaient chaque poste dans un document qui servait à la fois de facture et de feuille de temps, lequel document avait été créé par l’appelante;
+pp) les travailleurs étaient les payés les 15e et 30e jours de chaque mois;
+qq) l’appelante n’offrait aucun avantage aux travailleurs;
+rr) les travailleurs ne supportaient pas personnellement de dépenses lorsqu’ils fournissaient leurs services à l’appelante;
+ss) certains travailleurs fournissaient des services semblables à d’autres cliniques du sommeil pour lesquels ils touchaient un revenu d’emploi et recevaient des feuillets T4;
+L’intention
+tt) les travailleurs n’avaient pas leurs propres clients; les clients étaient ceux de l’appelante;
+uu) aucun des travailleurs, à l’exception de Mohammad Ali et de Haris Sabanadzovic, n’avait un numéro d’entreprise qui lui avait été attribué par l’Agence du revenu du Canada;
+vv) aucun des travailleurs ne se comportait comme s’il avait une entreprise enregistrée;
+ww) les travailleurs ne géraient pas leur propre personnel;
+xx) la plupart des travailleurs déclaraient la rémunération qui leur avait été versée par l’appelante à titre de revenu d’entreprise dans leur déclaration de revenu des particuliers;
+Les autres renseignements pertinents
+yy) l’appelante considérait que les spécialistes du sommeil qui fournissaient leurs services à temps plein sur une base régulière étaient des employés de la clinique du sommeil.
+a) Le résumé des arguments des avocates des parties
+[15] On pouvait clairement constater que les faits concordaient, mais les observations formulées par les avocates quant au poids à accorder aux faits, à l’application de ces faits et à leur interprétation étaient, en revanche, totalement opposées.
+i) L’appelante
+[16] En général, l’avocate de l’appelante a soutenu qu’il fallait mettre l’accent sur l’intention directe clairement exprimée par les parties, laquelle est étayée par les témoignages directs, selon lesquels il s’agissait d’une entente conclue entre un entrepreneur indépendant et celui qui reçoit les services. Cette entente était quant à elle constatée dans le contrat d’entreprise tacite, mais néanmoins clair. Il ne faut pas faire abstraction de cette intention claire, mais il faut l’examiner en fonction des actions de certains des travailleurs, qui ont toujours qualifié les paiements de revenu d’entreprise et qui ont cherché à obtenir du travail ailleurs sans le consentement de la clinique du sommeil, ainsi qu’en fonction de la méthode et du fondement utilisés pour le calcul des paiements.
+ii) L’intimé
+[17] L’intimé a affirmé qu’on ne pouvait tout simplement pas dire que les travailleurs exploitaient une entreprise pour leur propre compte. La seule entreprise qu’il y avait était celle de la clinique. La seule différence qui existait entre les travailleurs et les employés à la clinique était le fait que les premiers travaillaient pour la clinique à temps partiel et, les derniers, à temps plein. En outre, l’intention n’était pas claire, mais confuse en l’espèce, étant donné qu’il n’y avait pas de contrat écrit ou d’autres éléments de preuve objectifs. Il faut donc analyser les facteurs du critère à quatre volets. Une telle analyse permettrait de révéler que la seule et unique différence qu’il y a entre les travailleurs et les employés à temps plein de la clinique est le nombre d’heures de travail.
+IV. Analyse
+a) Analyse des décisions faisant autorité
+[18] La conciliation de la notion de l’intention commune en ce qui concerne la relation entre le travailleur et celui qui reçoit les services avec le critère à quatre volets énoncé dans l’arrêt Wiebe Door Services Ltd. v. The Minister of National Revenue, 87 DTC 5025, a récemment très bien été exposée dans l’arrêt TBT Personnel Services Inc. c. Canada, 2011 CAF 256, 343 DLR (4th) 100, rendu par la Cour d’appel fédérale. Les décisions faisant autorités invoquées par les avocates des deux parties sont citées dans l’arrêt TBT Personnel Services Inc.
+[19] Les passages suivants de l’arrêt TBT Personnel Services Inc., qui traitent directement de l’ordre des étapes à suivre par le juge de première instance pour apprécier l’intention commune par rapport au critère à quatre volets, sont particulièrement utiles :
+9 Dans les arrêts Wolf c. Canada, 2002 CAF 96, [2002] 4 C.F. 396 (C.A.), et Royal Winnipeg Ballet c. Canada (Ministre du Revenu national - M.N.R.) 2006 CAF 87, [2007] 1 R.C.F. 35, la Cour a ajouté que lorsqu’il est établi que les parties avaient l’intention commune d’établir une relation juridique entre elles, il est nécessaire de tenir compte de cette preuve, mais il est également nécessaire d’examiner les facteurs exposés dans Wiebe Door afin de déterminer si les faits concordent avec l’intention déclarée des parties.
+[…]
+35 De telles clauses d’intention sont pertinentes, mais elles ne sont pas déterminantes. Les facteurs énoncés dans l’arrêt Wiebe Door doivent également être examinés afin de déterminer si l’intention des parties contractantes qui semble découler des clauses d’intention se concilie avec les autres modalités du contrat et avec la relation contractuelle qui existait véritablement entre les parties. […]
+[20] La Cour canadienne de l’impôt a rendu de nombreuses décisions il y a de cela plusieurs dizaines d’années concernant divers fournisseurs de soins de santé auxiliaires ou professionnels paramédicaux sur la question de savoir si les travailleurs en cause sont des employés ou des entrepreneurs indépendants. Les avocates des deux parties ont cité de nombreuses décisions de ce genre portant sur des hygiénistes dentaires et d’autres portant sur des diététistes, des travailleurs sociaux et des assistants juridiques. En raison de leur nombre considérable et du fait que l’issue de ces affaires dépend des circonstances propres à chacune d’elles, la Cour privilégie l’affaire TBT Personnel Services Inc., une décision plus récente ayant force obligatoire, dans laquelle un résumé du droit applicable est fait et où l’on indique la démarche à suivre. Sa conciliation de l’intention avec le critère à quatre volets règle, clarifie et exprime bien la démarche analytique générale que doit suivre une cour de première instance pour trancher cette question maintenant quelque peu classique.
+[21] Je me fonde aussi sur la décision 3868478 Canada Inc. c. Ministre du Revenu national, 2006 CCI 444, [2006] A.C.I. no 334, où le juge en chef Bowman a relaté dans ses motifs la quantité et la variété de décisions rendues concernant les hygiénistes dentaires et a déclaré fermement qu’aucune de ces décisions n’établissait un précédent sur la question, étant donné que les faits différaient d’un cas à l’autre :
+20 J’ai examiné ce point plus longuement que je ne l’aurais fait autrement en raison des opinions apparemment divergentes qu’ont émises les membres de la présente cour en ce qui touche les hygiénistes dentaires, en particulier quant au rôle que joue le critère relatif à l’intégration. Chaque situation est un cas d’espèce. […]
+[22] Conformément au point de vue exprimé par l’ancien juge en chef concernant la valeur jurisprudentielle de jugements reposant sur un examen factuel extrêmement pointu, la Cour canadienne de l’impôt a volontairement laissé de côté la décision définitive rendue dans l’affaire 3868478 Canada Inc. Par conséquent, les faits de la présente affaire (qui comprennent notamment l’intention des parties), analysés dans le contexte du critère à quatre volets, permettront à la Cour de trancher la question en litige.
+b) Analyse des intentions qui se dégagent des relations de fait
+[23] La question qui subsiste est de savoir si une analyse des facteurs révèle, ou même maintient, l’intention des parties en l’espèce, compte tenu des rapports juridiques qu’il y avait dans les faits. La réponse à cette question, quoique peut‑être plus importante, s’avère un peu plus difficile à trouver dans des cas comme celui‑ci où il n’y a pas d’entente écrite.
+[24] Pour ce qui est de la question du contrôle, la supervision n’est pas vraiment un facteur clair en raison de la coexistence des obligations professionnelles et réglementaires qui s’appliqueraient dans tous les cas. Toutefois, le fait que les travailleurs devaient assister aux réunions du personnel et qu’ils devaient remplir les factures-feuilles de temps fournies par l’appelante (présentées à l’audience de façon sommaire, à titre d’échantillon seulement), ainsi que la teneur générale de leur relation avec l’appelante – qui est caractérisée par l’ensemble des activités relatives à l’établissement de l’horaire de travail et au versement des paiements, par le fait que les travailleurs ne pouvaient pas effectuer des analyses professionnelles des résultats obtenus lors des études sur le sommeil à distance et par le fait que les travailleurs n’avaient pas à supporter de dépenses d’entreprise et qu’il ne faisaient pas l’objet d’une supervision directe lorsqu’il étaient sur les lieux de travail –, indiquent l’existence d’une relation employeur-employée plutôt qu’une relation d’entrepreneur indépendant.
+[25] Comme c’est le cas pour la plupart des postes occupés par des fournisseurs de soins de santé auxiliaires et des professionnels dans le domaine médical, la question des instruments de travail n’est pas particulièrement déterminante. Cependant, le fait que les travailleurs n’avaient pas à payer un loyer ou des frais d’utilisation, qu’ils n’étaient pas tenus de réparer le matériel qu’ils empruntaient ou utilisaient et qu’ils ne pouvaient pas effectuer des travaux de notation sur leur propre ordinateur donne à penser qu’il y avait une relation employeur‑employé.
+[26] Pour ce qui est de l’embauche de remplaçants, les travailleurs ne pouvaient pas embaucher directement des remplaçants ou donner leur travail en sous‑traitance à un professionnel qualifié et payer ces personnes à leur gré. Subsidiairement, aucun élément de preuve n’a été présenté quant à l’existence d’une liste de sous‑traitants approuvés préalablement avec lesquels les travailleurs pouvaient communiquer sans l’approbation de l’appelante pour se faire remplacer en tant que spécialistes du sommeil.
+[27] En ce qui concerne les risques assumés par les travailleurs, aucun des éléments de preuve présentés ne donne à penser qu’il y a eu investissement financier, paiement d’indemnités ou responsabilité directe de la part des travailleurs, étant donné qu’il semble qu’il n’y avait pas de relation directe entre le professionnel et le patient, et qu’il n’existait ni responsabilité ni lien directs. De tels faits montrent l’existence d’une relation employeur‑employé.
+[28] Pour ce qui est de la possibilité de profit, mis à part le fait que les travailleurs pouvaient effectuer plus d’heures de travail et ainsi augmenter leurs revenus (que ce soit en travaillant pour l’appelante ou pour une autre entité œuvrant dans le domaine des troubles du sommeil), il n’y avait pas de coûts à réduire, de profits à maximiser ni d’occasions à saisir. En bref, la proportion des profits et de pertes par rapport aux efforts déployés par les travailleurs ne pouvait pas être modifiée par l’opération des coûts variables, les taux de rémunération pour la sous‑traitance, l’amélioration des services ou l’innovation. Dans les faits, compte tenu de la preuve, tous les avantages, le cas échéant, auraient été tirés exclusivement par l’entreprise de l’appelante. En fait, seule l’appelante contrôlait et modifiait ces moyens de production (en l’espèce, les services) liés à la prestation de services qui constituaient l’entreprise ou une partie de celle‑ci, lesquels services étaient fournis lors des études sur le sommeil ou de la notation ou relativement à ces activités. Ces moyens étaient les variables essentielles de l’entreprise qui se traduisaient par des profits ou des pertes dans la présente affaire. Les travailleurs n’avaient pas la possibilité d’exploiter ces moyens pour en tirer un avantage ou un gain.
+V. Résumé et décision
+[29] L’appelante et les travailleurs ont toujours affirmé clairement dans leur témoignage direct qu’ils avaient une intention commune, soit celle d’établir et de maintenir une relation d’entrepreneur indépendant. Cependant, peu importe comment on interprète cette intention subjective affirmée catégoriquement par les parties quant à leur relation, la réalité opérationnelle, traduite par les conclusions de fait objectives, doit appuyer, ou à tout le moins compléter, une telle intention.
+[30] En l’espèce, les conclusions de fait tirées par la Cour reflètent une relation opérationnelle qui :
+i) ne réfute pas de manière significative, ou ne réfute aucunement, les hypothèses de fait du ministre;
+ii) n’étaye pas, sur le plan des faits, l’assertion selon laquelle il y avait une intention subjective commune, soit celle que des entreprises étaient exploitées indépendamment de celle de l’appelante;
+iii) n’établit pas la présence d’une activité ou d’une entreprise qui pourrait de quelque manière être décrite comme une entreprise distincte, accessoire, ou même secondaire (par rapport à celle de la clinique du sommeil), appartenant à un travailleur ou exploitée par une telle personne.
+[31] Compte tenu des conclusions de fait appliquées au critère à quatre volets, ces trois conclusions m’amènent instinctivement à conclure que, dans l’ensemble, les travailleurs étaient des employés à temps partiel aux termes d’un contrat de louage de services et qu’ils n’étaient pas des entrepreneurs indépendants travaillant pour leur propre compte.
+[32] Les appels sont donc rejetés.
+Signé à Ottawa, Canada, ce 16e jour d’avril 2013.
+« R.S. Bocock »
+Juge Bocock
+Traduction certifiée conforme
+ce 5e jour de juin 2013.
+Marie-Christine Gervais, traductrice
+RÉFÉRENCE : 2013 CCI 108
+NOS DES DOSSIERS DE LA COUR : 2011-4111(CPP)
+2011-4112(EI)
+INTITULÉ : YORK REGION SLEEP DISORDERS CENTRE INCORPORATED c. M.R.N.
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATES DE L’AUDIENCE : Le 31 janvier et le 1er février 2013
+MOTIFS DU JUGEMENT : L’honorable juge Randall Bocock
+DATE DU JUGEMENT: Le 16 avril 2013
+COMPARUTIONS :
+Avocate de l’appelante :
+Me Christine Ashton
+Avocates de l’intimé :
+Me Lindsay Beelen
+Me Roxanne Wong
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom : Christine Ashton
+Cabinet : Wilson Vukelich LLP
+Markham (Ontario)
+Pour l’intimé : William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada

@@ -1,0 +1,151 @@
+Title: Wilson c. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28010/index.do
+Corpus path: corpus/cases/tcc/2003/2003-cci-459-28010-wilson-c-m-n-r-fr.md
+Document type: case_law
+Last modified: 2003-07-08
+
+# Wilson c. M.N.R.
+
+- Citation: 2003 CCI 459
+- Decision date: 2003-07-08
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1695, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Wilson c. M.N.R.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-07-08
+Référence neutre
+2003 CCI 459
+Numéro de dossier
+2002-4120(IT)APP
+Juges et Officiers taxateurs
+Leslie M. Little
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+DOSSIER : 2002-4120(IT)APP
+ENTRE :
+LE Dr ROBERT J. WILSON,
+requérant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Demande entendue le 1er mai 2003 à Windsor (Ontario)
+Devant : L’honorable juge L.M. Little
+Comparutions :
+Avocat du requérant :
+Me David M. McNevin
+Avocat de l’intimée :
+Me Roger Leclaire
+____________________________________________________________________
+ORDONNANCE
+Vu la demande visant à obtenir une ordonnance de prorogation du délai imparti pour signifier un avis d’opposition à la cotisation d’impôt sur le revenu établie pour les années d’imposition 1989, 1990 et 1991;
+Et après avoir entendu les prétentions des parties;
+La demande est rejetée conformément aux motifs d’ordonnance ci‑joints.
+Signé à Vancouver (Colombie‑Britannique), ce 8e jour de juillet 2003.
+« L.M. Little »
+Juge Little
+Traduction certifiée conforme
+ce 18e jour de mars 2009.
+Christian Laroche , LL.B.
+Réviseur
+Référence : 2003CCI459
+Date : 20030708
+Dossier : 2002-4120(IT)APP
+ENTRE :
+LE Dr ROBERT J. WILSON,
+requérant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE
+Le juge Little
+A. LES FAITS
+[1] Le requérant est un médecin agréé, spécialisé en médecine interne, qui exerce sa pratique dans la ville de Windsor.
+[2] En décembre 1989, sur l’avis d’un ami et conseiller financier, le requérant a investi la somme de 36 900 $ dans une société connue sous le nom de Mainstream Productions 89‑25 (ci‑après la « Société »).
+[3] La Société se livrait à la commercialisation et à la production de musique populaire. Des unités de la Société avaient été vendues et commercialisées par une entité connue sous le nom d’Advanced Business Opportunities (ci‑après « Advanced »).
+[4] Lors du calcul de son impôt à payer, pour les années d’imposition 1989, 1990 et 1991, le requérant a réclamé des déductions pour l’achat d’unités de la Société.
+[5] Le 14 juillet 1993, le ministre du Revenu national (le « ministre ») a émis des avis de nouvelles cotisations pour les années d’imposition 1989, 1990 et 1991 du requérant. Dans ces nouvelles cotisations, le ministre a rejeté les montants réclamés par le requérant relativement à son investissement dans la Société.
+[6] Le requérant a déposé des avis d’opposition aux nouvelles cotisations. Les avis d’opposition ont été suspendus en attendant le résultat de la cause type William King c. Canada, [1995] A.C.I. No 92 (l’« affaire William King »), devant la Cour canadienne de l’impôt.
+[7] Le 25 juillet 1995, la Cour canadienne de l’impôt a rejeté l’appel dans l’affaire William King.
+[8] La décision de la Cour canadienne de l’impôt a été portée en appel devant la Cour d’appel fédérale. Par jugement du 17 janvier 2001, la Cour d’appel fédérale a rejeté l’appel dans l’affaire William King.
+[9] Par lettre du 22 août 2001, le ministre a informé le requérant que, par suite de la décision rendue par la Cour d’appel fédérale dans l’affaire William King, ses avis de nouvelles cotisations seraient ratifiés.
+[10] Le 3 octobre 2001, le ministre a émis un avis de ratification pour les années d’imposition 1989, 1990 et 1991 du requérant.
+[11] Sur réception de l’avis de ratification, le requérant a retenu les services de Me David McNevin, avocat. Le requérant a demandé à Me McNevin de le conseiller relativement à sa situation fiscale des années d’imposition 1989, 1990 et 1991 à la lumière de la décision rendue par la Cour d’appel fédérale dans l’affaire William King.
+[12] Dans un affidavit du 28 octobre 2002, Me McNevin a déclaré que, au début novembre 2001, il avait averti le requérant du fait qu’un appel devant la Cour canadienne de l’impôt aurait peu de chance d’aboutir vu la décision rendue dans l’affaire William King.
+[13] Le requérant a accepté l’avis de Me McNevin et n’a pas déposé d’avis d’appel devant la Cour canadienne de l’impôt dans les délais prévus par la Loi de l’impôt sur le revenu (la « Loi »).
+[14] Me McNevin a avisé le requérant que, puisqu’un résultat positif était peu probable en cas d’appel devant la Cour canadienne de l’impôt, il pourrait obtenir une réduction de ses impôts à payer en déposant une demande en vertu de la disposition d’équité prévue par la Loi.
+[15] Le requérant a accepté les conseils de Me McNevin et, vers le 15 mars 2002 ou à cette date, Me McNevin a présenté une demande en vertu de la disposition d’équité aux fonctionnaires de l’Agence des douanes et du revenu du Canada (« ADRC »), à Windsor.
+[16] Au cours du mois de juin 2002, Me McNevin a eu connaissance de la décision de la Cour suprême du Canada dans l’arrêt Brian J. Stewart v. the Queen, 2002 DTC 6969.
+[17] Me McNevin a cherché à obtenir l’opinion d’un avocat fiscaliste pour étudier la situation fiscale du requérant par rapport aux conclusions de l’affaire Stewart. En septembre 2002, Me McNevin a été informé par un fiscaliste qu’aux termes de la décision rendue par la Cour suprême dans l’affaire Stewart, les chances de succès du requérant, relativement à son obligation fiscale, s’étaient grandement améliorées.
+[18] Me McNevin a représenté le requérant devant la Cour de l’impôt à Windsor, en Ontario, le 1er mai 2003. Me McNevin a soutenu que, compte tenu des circonstances énoncées ci‑dessus, le requérant devrait avoir droit à une prorogation du délai pour déposer des avis d’appel devant la Cour canadienne de l’impôt.
+B. LE POINT EN LITIGE
+[19] La Cour devrait‑elle accorder au requérant une prorogation du délai, conformément au paragraphe 167(1) de la Loi?
+C. ANALYSE
+[20] Le paragraphe 167(1) de la Loi se lit comme suit :
+Le contribuable qui n’a pas interjeté appel en application de l’article 169 dans le délai imparti peut présenter à la Cour canadienne de l’impôt une demande de prorogation du délai pour interjeter appel. La Cour peut faire droit à la demande et imposer les conditions qu’elle estime justes.
+[21] Le paragraphe 167(5) de la Loi se lit comme suit :
+Il n’est fait droit à la demande que si les conditions suivantes sont réunies :
+a) la demande a été présentée dans l’année suivant l’expiration du délai imparti en vertu de l’article 169 pour interjeter appel;
+b) le contribuable démontre ce qui suit :
+(i) dans le délai par ailleurs imparti pour interjeter appel, il n’a pu ni agir ni charger quelqu’un d’agir en son nom, ou il avait véritablement l’intention d’interjeter appel,
+(ii) compte tenu des raisons indiquées dans la demande et des circonstances de l’espèce, il est juste et équitable de faire droit à la demande,
+(iii) la demande a été présentée dès que les circonstances le permettaient,
+(iv) l’appel est raisonnablement fondé.
+[22] Il faut remarquer que le paragraphe 167(5) ne prévoit d’ordonnance de prorogation aux termes de l’alinéa 167(5)b) que si le contribuable démontre que, dans le délai imparti en vertu de l’article 169, il avait véritablement l’intention d’interjeter appel.
+[23] Dans le cas présent, le délai au cours duquel le requérant aurait dû déposer un avis d’appel auprès de la Cour canadienne de l’impôt était de 90 jours à compter du 3 octobre 2001, soit quelque temps avant le 2 janvier 2002.
+[24] Au cours de la période courant du 3 octobre 2001 au 2 janvier 2002, Me McNevin a avisé le requérant qu’un résultat positif en appel devant la Cour canadienne de l’impôt était peu probable et que la meilleure démarche pour réduire ses impôts à payer était de faire une demande en vertu de la disposition d’équité de
+la Loi. Le requérant a accepté cet avis et a demandé à Me McNevin, son avocat, de déposer une demande en vertu de la disposition d’équité de
+la Loi. Cette demande a été faite par Me McNevin pour le requérant le 15 mars 2002.
+[25] D’après la preuve contenue dans l’affidavit de Me McNevin et déposée devant la Cour, j’ai conclu que le requérant avait abandonné son droit d’interjeter appel devant la Cour canadienne de l’impôt. En d’autres termes, le requérant n’avait pas véritablement l’intention de faire appel dans les délais impartis par la Loi (soit du 3 octobre 2001 au 2 janvier 2002).
+[26] Puisque le requérant avait abandonné son intention d’interjeter appel devant la Cour canadienne de l’impôt, il ne peut bénéficier d’une prorogation du délai pour interjeter appel aux termes du paragraphe 167(5) de la Loi.
+[27] Au cours de l’audience, il a été dit que des fonctionnaires de l’ADRC avaient « perdu » le dossier du requérant ou des dossiers connexes pendant environ deux ans. Dans ces circonstances, il semble que les intérêts calculés au requérant sur ses impôts à payer devraient être annulés par le ministre pour les deux années au cours desquelles les dossiers ont été perdus, conformément à la disposition d’équité contenue dans la Loi.
+[28] La demande est rejetée.
+Signé à Vancouver (Colombie‑Britannique), ce 8e jour de juillet 2003.
+« L.M. Little »
+Juge Little
+Traduction certifiée conforme
+ce 18e jour de mars 2009.
+Christian Laroche , LL.B.
+Réviseur
+RÉFÉRENCE :
+2003CCI459
+No DU DOSSIER DE LA COUR :
+2002-4120(IT)APP
+INTITULÉ :
+Dr Robert J. Wilson et
+Sa Majesté La Reine
+LIEU DE L’AUDIENCE :
+Windsor (Ontario)
+DATE DE L’AUDIENCE :
+Le 1er mai 2003
+MOTIFS DU JUGEMENT :
+L’honorable juge L.M. Little
+DATE DU JUGEMENT :
+Le 8 juillet 2003
+COMPARUTIONS :
+Avocat du requérant :
+Me David M. McNevin
+Avocat de l’intimée :
+Me Roger Leclaire
+AVOCATS INSCRITS AU DOSSIER :
+Pour le requérant :
+Nom :
+David M. McNevin
+Cabinet :
+Ducharme Fox
+Windsor (Ontario)
+Pour l’intimée :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

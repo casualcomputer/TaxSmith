@@ -1,0 +1,196 @@
+Title: Giusti v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30184/index.do
+Corpus path: corpus/cases/tcc/2011/2011-tcc-62-30184-giusti-v-the-queen-en.md
+Document type: case_law
+Last modified: 2011-02-01
+
+# Giusti v. The Queen
+
+- Citation: 2011 TCC 62
+- Decision date: 2011-02-01
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7737, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Giusti v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2011-02-01
+Neutral citation
+2011 TCC 62
+File numbers
+2010-2795(IT)I
+Judges and Taxing Officers
+Georgette Anne Sheridan
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2010-2795(IT)I
+BETWEEN:
+ROMANO A. GIUSTI,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on January 25, 2011, at Vancouver, British Columbia
+Before: The Honourable Justice G. A. Sheridan
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Zachary Froese
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act for the 2007 taxation year is dismissed in accordance with the attached Reasons for Judgment.
+Signed at Vancouver, British Columbia, this 1st day of February, 2011.
+“G. A. Sheridan”
+Sheridan J.
+Citation: 2011TCC62
+Date: 20110201
+Docket: 2010-2795(IT)I
+BETWEEN:
+ROMANO A. GIUSTI,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Sheridan J.
+[1] The issue in this appeal is whether the proceeds of the sale of a condo owned by the Appellant, Romano Giusti, are on account of capital or income. The Minister of National Revenue reassessed on the basis that in disposing of the property located at 988 Richards Street in Vancouver (“Richards Street Condo”), the Appellant was engaged in the business of selling it and added profits of $30,831 to his 2007 income.
+[2] The Appellant had the onus of proving wrong the assumptions upon which the reassessment was based. For the reasons set out below, I am not persuaded by his evidence and the appeal must be dismissed.
+Facts
+[3] In making the reassessment, the Minister made the following assumptions of fact:
+a) since 2004, the Appellant was a real estate salesman earning commission income;
+b) as a real estate agent, the Appellant had knowledge and expertise in the real estate market;
+c) the Appellant was involved in the purchase and the sale of condominium properties located in the Vancouver BC area as follows:
+Address
+Purchase
+Date
+Sold
+Date
+Purchase
+Price
+Mortgage
+Selling
+Price
+Gross
+Profit
+#201-330 E 7th Vanc
+Nov./94
+Oct./01
+403-3199 Willow St. Vanc
+Nov./01
+May/02
+1220 Braeside, West Vanc
+Nov./02
+Aug./03
+304-1888 York Ave. Vanc
+Apr. 28/05
+Sept. 6/06
+255,750
+187,000
+375,000
+119,250
+1001-1005 Beach Ave. Vanc
+Oct. 16/06
+Dec. 20/06
+368,582
+230,000
+380,000
+11,418
+308-988 Richards St. Vanc
+Nov. 7/07
+Jun. 6/07
+410,900
+280,000
+499,000
+88,100
+603-1188 Quebec St. Vanc
+Jan. 31/07
+577,150
+438,750
+706-1188 Quebec St. Vanc
+Jan. 2008
+Aug. 14/08
+640,000
+825,000
+185,000
+d) the Appellant lived in the properties before he sold them;
+e) in filing his returns for the 2006 and 2007 taxation years, the Appellant did not report the sale of any of the properties sold in the 2006 or 2007 taxation years;
+Richards Property
+f) the Richards Property was purchased on assignment in April, 2006;
+g) the purchase of the Richards Property was completed in November 2006;
+h) the Richards Property was listed for sale on March 30, 2007;
+i) the Richards Property was held by the Appellant for seven months;
+j) the Appellant did not ordinarily inhabit the Richards Property;
+k) the Richards Property was not the Appellant’s principal residence;
+l) the Appellant did not purchase the Richards Property for the purpose of making it his principal residence;
+m) the Appellant purchased the Richards Property for the purpose of reselling it;
+n) the Appellant received business income from the sale of the Richards Property calculated as follows:
+Proceeds
+$499,000.00
+Less: Purchase price:
+$423,952.00
+Other expenses:
+44,217.00
+$468,169.00
+Business income
+$ 30,831.00
+o) the Appellant failed to report business income of $30,831.00 earned from the sale of the Richards Property in his 2007 taxation year (the “2007 Business Income”).
+[4] The Appellant represented himself and was the only witness to testify. He took issue, in particular, with paragraphs 11(j), (k), (l) and (m) of the Reply to the Notice of Appeal. His evidence was that he purchased the Richards Street Condo as his personal residence with the intention of making it his permanent home. He explained that he sold the property some seven months after moving in because it did not live up to his expectations. His concerns arose soon after purchasing the property, in June, 2006, when he became aware of media reports regarding litigation between the developer and the marketer of the Richards Street Condo. He put in evidence articles that he had found on the internet describing their legal battles[1].
+[5] When he finally moved into the condo in November 2006, he was distressed to discover that there were no condominium bylaws in place, there were street noises from a nearby ambulance depot and bars, the building itself was noisy and full of irresponsible renters and pets who made nuisances of themselves, and his parking space turned out to be too small to accommodate his vehicle. He also discovered that the condo had not been properly finished: the baseboards were poorly made and ill-fitting, the carpet was frayed, and the faucets were leaking. A carpenter before he became a realtor in 2004 and doubting that the developer would remedy the problems, the Appellant undertook the repairs of these deficiencies himself.
+[6] All of this convinced the Appellant that he had got himself into a bad deal and early on, he began to plan his exit strategy.
+[7] The Appellant also addressed the assumed facts in paragraph 11(c) showing the history of his ownership and sale between 1994 and 2008 of eight Vancouver properties. This evidence will be dealt with in detail below.
+Analysis
+[8] In his thorough review of the case law, counsel for the Respondent relied on the test established in Happy Valley Farms Ltd. v. Minister of National Revenue[2] for determining whether a sale is an adventure in the nature of trade or on account of capital. Briefly paraphrased, the following considerations emerge from the Happy Valley Farms decision:
+1. the nature of the property sold;
+2. the length of the period of ownership of the property;
+3. the frequency or number of other similar transactions by the taxpayer;
+4. the work expended to make the property more marketable or to attract purchasers;
+5. the circumstances responsible for the sale of the property; and
+6. the taxpayer’s motive or intention at the time he acquired the property.
+[9] Counsel for the Respondent argued that when analyzed in accordance with these factors, the evidence showed that the proceeds generated by the sale of the Richards Street Condo were business income. For the reasons set out below, the Appellant had failed to persuade me otherwise.
+[10] Looking first at the nature of the property, I agree with counsel for the Respondent that this factor is non-determinative; by its very nature, a condo may be either a capital asset or inventory in a business.
+[11] Turning, then, to length of ownership, when coupled with the frequency and number of other similar real estate transactions, the short duration of the Appellant’s ownership of the Richards Street Condo supports the conclusion that it was an item of inventory. Having committed to the purchase of the property in April 2006, the Appellant took possession in November 2006 and a scant seven months later, he had sold it. Such a short period of ownership is typical of his other property holdings: as shown in paragraph 11(c) of the Reply to the Notice of Appeal, between October 1997 and August 2008, the Appellant bought and sold eight properties in Vancouver. The first, a condo on East 7th Street he held for seven years; it clearly falls outside of the pattern of the subsequent transactions. As for the seventh property, 603-1188 Quebec Street, while shown in the assumptions as not having been sold, the Appellant testified that indeed, it too had been sold, approximately a year after its purchase in disappointing circumstances. Leaving aside, then, the East 7th Street condo, in the space of seven years, the Appellant acquired and disposed of seven properties in which he lived for 6, 9, 16, 2, 7, 12 and 8 months, respectively, making for an average duration of 8.5 months in each property. Absent convincing evidence to the contrary, that pattern is consistent with the activities of someone engaged in the business of “flipping houses”.
+[12] The Appellant attempted to justify his activities: he sold the first property on Willow Street, he said, because he wanted to be closer to downtown. However, his stated intention was not borne out by his actions as the next property he purchased, a house on Braeside, was in West Vancouver, even farther from downtown than the condo he had left. His reason for selling the Braeside house was that after he and his girlfriend broke up, he found the West Vancouver suburbs dull and lonely. So he purchased the York Avenue condo in the downtown area; it was sold some 16 months later because the building was old and the condo had water leakage problems. Oddly, at the same time he was selling that property the Appellant, in his capacity as a real estate agent, was helping his parents with the purchase of another condo in the same building. I found unpersuasive the Appellant’s explanation that his parents’ condo did not have water leakage problems because of its different “exposure”. In any case, he preferred to be in a new building and that was what attracted him to the property in question, the Richards Street Condo. It was promoted as a two-storey loft in the downtown core. A friend of his had purchased a unit there and on paper, at least, it seemed very promising. After selling the Richards Street Condo (for the reasons considered in greater detail below), he bought a one-bedroom condo, #603-1188 Quebec Street; a year later, it was sold and he had purchased another unit in the same building, #706. The Appellant said he moved from #603 to #706 because the latter had a better view and an extra bedroom which meant he could have a roommate to help out with the mortgage payments. He did not explain why after effecting such improvements he then sold #706 some eight months later.
+[13] Considered against that background, I found equally unconvincing the Appellant’s reasons for his seven-month sojourn at the Richards Street Condo. The articles documenting the litigation between the developer and the marketer of the Richards Street Condo did not greatly assist the Appellant as it is not at all clear to me that he was aware of them in the summer of 2006; even if he were, I doubt that they influenced his decision to abandon what he said had always been his plan, to make the Richards Street Condo his permanent home.
+[14] It also strikes me as odd that any prospective buyer but, more particularly, the Appellant, who was a real estate agent by profession and an experienced condo owner, would purchase a unit in a condominium without first checking into the status of its bylaws. His explanation was that, to the extent he thought about it at all, he believed that because the building was still under construction the bylaws would not yet have been drafted. Even at the hearing, he seemed puzzled as to why examining the bylaws or inquiring into their existence would be a matter of concern. I find this attitude difficult to reconcile with his other testimony blaming the lack of bylaws for the problems caused by unrestricted renters and pets. It seems likely to me that the reason the Appellant was not particularly interested in the bylaws was that he knew when he purchased the Richards Street Condo that he would be selling it soon and the rules and regulations would be of no real consequence to him.
+[15] The Appellant’s other reasons for selling the Richards Street Condo had to do with the noise levels in the area and in the building. I accept his evidence that he could not have known until he moved in that the windows would be of lower quality than specified and that more noise infiltrated the building than he had anticipated. However, I do not find convincing his story that he did not expect the neighbourhood itself to be so noisy. While he may not have been aware of the ambulance depot, it strikes me as unlikely that the Appellant, a real estate agent, would not have been familiar with the character of Richards Street which, apparently, has many bars and night spots. Even if he did not know the area, I find it hard to believe that if he intended to make the Richards Street Condo his permanent residence, he would not, at the very least, have walked the neighbourhood to see if it was conducive to his lifestyle – especially given his earlier testimony that he had fled the quiet of suburbia for the more active downtown area.
+[16] Finally, there is the question of the shoddy workmanship the Appellant discovered upon moving into the Richards Street Condo in November 2006. Certainly, he would not be the first to buy a condo from a floor plan and be disappointed with the final product. Such a discovery could well be a reason for wanting to get rid of the property. However, the Appellant’s evidence in this regard must be weighed against what motivated him to correct such deficiencies. That is considered under the next factor, whether the work expended on the Richards Street Condo was done to make it more marketable and to attract buyers.
+[17] The Appellant said that he had made the improvements to the Richards Street Condo deficiencies for his own sake: as a carpenter, he was bothered by the sloppy work on the baseboards; as one who suffers from allergies, he wanted to replace the carpet with hardwood flooring. There was insufficient tile in the bathroom to adequately protect the drywall. That all makes sense as far as it goes. In his direct evidence, the Appellant gave me to understand that as soon as he moved in he set to work on remedying these defaults in construction. On cross-examination, however, it became clear that such work really began after the Richards Street Condo had been listed with one of the Appellant’s co-workers sometime in early 2007. Its description was posted on the Vancouver Multiple Listing Service[3] and in February 2007, an open house was held to promote its sale. The Appellant’s memory of all this was a little foggy but in any event, it did not sell as quickly as he had hoped. Interestingly, invoices from a tiling company[4] and Home Depot[5] show that the materials for the improvements were purchased the following month from which it follows that the work could not have commenced until roughly mid‑March. The condo then sold at the beginning of April. In my view, it seems more likely that the Appellant made the improvements to the Richards Street Condo, not for his own benefit but rather, to enhance his chances of realizing his original intention of selling as soon as possible at a profit.
+[18] This brings us to the circumstances of the sale. As counsel for the Respondent pointed out, the present matter was not a case of an unsolicited offer to purchase which incited the owner to change his original intention of holding the property over the long term. Here, almost from the moment he moved in, the Appellant actively promoted the sale of the Richards Street Condo by listing it with an agent, advertising it and spreading the word to his colleagues that it was on the market. The improvements that he made to it were intended to maximize its potential for resale.
+[19] Finally, what was the Appellant’s intention when he acquired the Richards Street Condo? When all of the evidence above is considered together, I am satisfied on a balance of probabilities that the Appellant purchased the property with a view to immediate resale. I agree with him that any buyer is going to have in the back of his mind the prospect of selling at a profit; that hope is not enough in itself to turn a capital asset into inventory. But here, I regret to say that I am simply not persuaded that the Appellant ever intended to acquire the Richards Street Condo as a permanent residence.
+[20] For the reasons set out above, the Appellant has not satisfied his evidentiary burden of proving wrong the basis of the Minister’s reassessment; accordingly, the appeal of the 2007 taxation year is dismissed.
+Signed at Vancouver, British Columbia, this 1st day of February, 2011.
+“G. A. Sheridan”
+Sheridan J.
+CITATION: 2011TCC62
+COURT FILE NO.: 2010-2795(IT)I
+STYLE OF CAUSE: ROMANO A. GIUSTI AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Vancouver, British Columbia
+DATE OF HEARING: January 25, 2011
+REASONS FOR JUDGMENT BY: The Honourable Justice G. A. Sheridan
+DATE OF JUDGMENT: February 1, 2011
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Zachary Froese
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Exhibit A-1.
+[2] [1986] 2 C.T.C. 259. (F.C.T.D), as adopted by the Federal Court of Appeal in Isaaks v. Canada, [2003] 4 C.T.C. 183. (F.C.A.).
+[3] Exhibit R-1.
+[4] Exhibit R-2.
+[5] Exhibit R-3.

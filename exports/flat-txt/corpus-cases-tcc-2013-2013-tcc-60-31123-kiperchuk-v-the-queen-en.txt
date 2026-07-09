@@ -1,0 +1,215 @@
+Title: Kiperchuk v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/31123/index.do
+Corpus path: corpus/cases/tcc/2013/2013-tcc-60-31123-kiperchuk-v-the-queen-en.md
+Document type: case_law
+Last modified: 2013-03-22
+
+# Kiperchuk v. The Queen
+
+- Citation: 2013 TCC 60
+- Decision date: 2013-03-22
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4772, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Kiperchuk v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2013-03-22
+Neutral citation
+2013 TCC 60
+File numbers
+2011-749(IT)G
+Judges and Taxing Officers
+Lucie Lamarre
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2011-749(IT)G
+BETWEEN:
+Patricia Kiperchuk,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on January 14, 2013, at Ottawa, Ontario.
+Before: The Honourable Justice Lucie Lamarre
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Ryan Hall
+____________________________________________________________________
+JUDGMENT
+The appeal is allowed and the assessment dated June 18, 2009 made under section 160 of the Income Tax Act is vacated, with costs to the appellant.
+Signed at Ottawa, Canada, this 22nd day of March 2013.
+“Lucie Lamarre”
+Lamarre J.
+Citation: 2013 TCC 60
+Date: 20130322
+Docket: 2011-749(IT)G
+BETWEEN:
+Patricia Kiperchuk,
+Appellant,
+And
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Lamarre J.
+[1] This is an appeal from an assessment made by Minister of National Revenue (Minister) under section 160 of the Income Tax Act (ITA). The assessment is dated June 18, 2009 and the appellant was thereby assessed for an amount of $122,947.88 (Exhibit A-4). At the hearing, counsel for the respondent stated that the amount at issue was now reduced to $75,135.
+[2] The parties filed a partial agreed statement of facts (Exhibit A-1), which is reproduced hereunder:
+Partial agreed statement of facts
+For the purposes of this proceeding and in addition to any evidence that may be adduced at the hearing, the appellant and the respondent agree to the following facts:
+1. the appellant’s spouse was Mr. David G. Kiperchuck [sic] (hereinafter referred to as “Mr. Kiperchuk”);
+2. Mr. Kiperchuk had a RRSP policy, account number 560-06149-10, of which CIBC Wood Gundy was the Trustee (“the RRSP”);
+3. the appellant was a designated beneficiary of Mr. Kiperchuk’s RRSP;
+4. Mr. Kiperchuk made the appellant a designated beneficiary of the RRSP in 1990;
+5. in 1996, the appellant and Mr. Kiperchuk separated due to a marital breakdown;
+6. the appellant petitioned for divorce, and, in the course of those proceedings, Mr. Kiperchuk was ordered not to dissipate any of his property and to irrevocably designate the appellant as the beneficiary of his life insurance;
+7. Mr. Kiperchuk died on or about December 10, 2002, at the age of 51, without a will;
+8. the Appellant made an application to probate court and was appointed the executrix of the estate;
+9. at the time of Mr. Kiperchuk’s death, he and the Appellant were still separated but not yet divorced;
+10. at the time of Mr. Kiperchuk’s death, he was liable under the Act to pay amounts with respect to his 1994, 1995, 1996, 1997, 1998, 1999, 2000 and 2001 taxation years totalling no less than $437,811.65;
+11. as a result of Mr. Kiperchuk’s death, the appellant became entitled to the RRSP;
+12. as of December 10, 2002, approximately $75,135 was available to be withdrawn form the RRSP by the appellant;
+13. on January 30, 2004, the appellant withdrew $75,306.27 from the RRSP;
+14. the fair market value of the funds withdrawn was $75,306.27; and
+15. aside from the contributions made by the appellant as a joint contributor to the finances of the marriage until 1996, the appellant neither paid nor gave anything specifically for the Property.
+16. The appellant and the respondent agree to file copies of the following documents with the Court as exhibits for the purposes of this proceeding:
+A1 – this Partial Agreed Statement of Facts
+A2 – Schedule A – copy of the RRSP application dated March 12, 1990
+A3 – Schedule B – copy of assessment under section 160 dated June 18, 2009
+A4 – Schedule C – copy of notice of objection dated November 9, 2009
+A5 – Schedule D – copy of order of Justice Metivier of the Ontario Court (General Division) in the divorce proceedings dated December 17, 1997
+A6 – Schedule E – copy of order of Justice Rutherford of the Ontario Court (General Division) in the divorce proceedings dated January 16, 1998
+A7 – Schedule F – copy of order of Justice J. Bell of the Ontario Court (General Division) in the divorce proceedings dated June 8, 1998
+Agreed to by the appellant at Ottawa, Ontario, this 7th day of January, 2013.
+Patricia Kiperchuk
+Agreed to by respondent at Ottawa, Ontario, this 7th day of January, 2013.
+Ryan R. Hall
+[3] The Minister assessed the appellant on the basis that her former spouse had transferred property (the proceeds of his RRSP) to her for no consideration on his death in December 2002, that is, at a time when he was liable under the ITA to pay with respect to his 1994 through 2001 taxation years amounts totalling no less than $437,811.56.
+[4] In her notice of appeal, the appellant opposed that assessment. She argued that an RRSP with a named beneficiary does not form part of a deceased’s estate and, consequently, creditors of the estate cannot make a claim against RRSP proceeds that are in the hands of the designated beneficiary. To support that position she relied on the decision of the Ontario Court of Appeal in Amherst Crane Rentals Ltd. v. Perring, (2004), 241 D.L.R. (4th)176 at 180-81 (paragraphs 3‑7) and 185-87 (paragraphs 20-25) (leave to appeal refused, [2004] S.C.C.A. No. 430 (QL)).
+[5] She also argued that the proceeds of RRSPs vest in the designated beneficiary on the death of the owner of the RRSPs by virtue of the application of section 53 of the Succession Law Reform Act, R.S.O. 1990, c. S-26, which has the effect of removing the proceeds of an RRSP from the estate of the owner of the RRSP. As a result, she argued, there was no transfer of property for the purposes of section 160 of the ITA.
+Relevant Statutory Provisions
+Income Tax Act
+160(1) Tax liability re property transferred not at arm’s length. Where a person has, on or after May 1, 1951, transferred property, either directly or indirectly, by means of a trust or by any other means whatever, to
+(a) the person’s spouse or common-law partner or a person who has since become the person’s spouse or common- law partner,
+(b) a person who was under 18 years of age, or
+(c) a person with whom the person was not dealing at arm’s length,
+the following rules apply:
+(d) the transferee and transferor are jointly and severally liable to pay a part of the transferor’s tax under this Part for each taxation year equal to the amount by which the tax for the year is greater than it would have been if it were not for the operation of sections 74.1 to 75.1 of this Act and section 74 of the Income Tax Act, chapter 148 of the Revised Statutes of Canada, 1952, in respect of any income from, or gain from the disposition of, the property so transferred or property substituted therefor, and
+(e) the transferee and transferor are jointly and severally liable to pay under this Act an amount equal to the lesser of
+(i) the amount, if any, by which the fair market value of the property at the time it was transferred exceeds the fair market value at that time of the consideration given for the property, and
+(ii) the total of all amounts each of which is an amount that the transferor is liable to pay under this Act in or in respect of the taxation year in which the property was transferred or any preceding taxation year,
+but nothing in this subsection shall be deemed to limit the liability of the transferor under any other provision of this Act.
+. . .
+160(2) Assessment. The Minister may at any time assess a taxpayer in respect of any amount payable because of this section and the provisions of this Division apply, with any modifications that the circumstances require, in respect of an assessment made under this section as though it had been made under section 152.
+. . .
+160(4) Special rules re transfer of property to spouse or common-law partner.
+Notwithstanding subsection 160(1), where at any time a taxpayer has transferred property to the taxpayer’s spouse or common-law partner pursuant to a decree, order or judgment of a competent tribunal or pursuant to a written separation agreement and, at that time, the taxpayer and the spouse or common-law partner were separated and living apart as a result of the breakdown of their marriage or common-law partnership, the following rules apply:
+(a) in respect of property so transferred after February 15, 1984,
+(i) the spouse or common-law partner shall not be liable under subsection 160(1) to pay any amount with respect to any income from, or gain from the disposition of, the property so transferred or property substituted therefore, and
+(ii) for the purposes of paragraph 160(1)(e), the fair market value of the property at the time it was transferred shall be deemed to be nil, and
+(b) in respect of property so transferred before February 16, 1984, where the spouse or common-law partner would, but for this paragraph, be liable to pay an amount under this Act by virtue of subsection 160(1), the spouse’s or common-law partner’s liability in respect of that amount shall be deemed to have been discharged on February 16, 1984,
+but nothing in this subsection shall operate to reduce the taxpayer’s liability under any other provision of this Act.
+248(1) Definitions. In this Act,
+. . .
+“property” means property of any kind whatever whether real or personal or corporeal or incorporeal and, without restricting the generality of the foregoing, includes
+(a) a right of any kind whatever, a share or a chose in action,
+(b) unless a contrary intention is evident, money,
+(c) a timber resource property, and
+(d) the work in progress of a business that is a profession;
+251(1) Arm’s length. For the purposes of this Act,
+(a) related persons shall be deemed not to deal with each other at arm’s length;
+(b) a taxpayer and a personal trust (other than a trust described in any of paragraphs (a) to (e.1) of the definition “trust” in subsection 108(1)) are deemed not to deal with each other at arm’s length if the taxpayer, or any person not dealing at arm’s length with the taxpayer, would be beneficially interested in the trust if subsection 248(25) were read without reference to subclauses 248(25)(b)(iii)(A)(II) to (IV); and
+(c) where paragraph (b) does not apply, it is a question of fact whether persons not related to each other are at a particular time dealing with each other at arm’s length.
+251(2) Definition of “related persons”. For the purpose of this Act, “related persons”, or persons related to each other, are
+(a) individuals connected by blood relationship, marriage or common-law partnership or adoption;
+Succession Law Reform Act
+PART III
+DESIGNATION OF BENEFICIARIES OF INTEREST IN FUNDS OR PLANS
+Definitions, Part III
+50. In this Part,
+“participant” means a person who is entitled to designate another person to receive a benefit payable under a plan on the participant’s death; (“participant”)
+“plan” means,
+(a) a pension, retirement, welfare or profit-sharing fund, trust, scheme, contract or arrangement or a fund, trust, scheme, contract or arrangement for other benefits for employees, former employees, directors, former directors, agents or former agents of an employer or their dependants or beneficiaries,
+(b) a fund, trust, scheme, contract or arrangement for the payment of a periodic sum for life or for a fixed or variable term, or
+(c) a fund, trust, scheme, contract or arrangement of a class that is prescribed for the purposes of this Part by a regulation made under section 53.1,
+and includes a retirement savings plan, a retirement income fund and a home ownership savings plan as defined in the Income Tax Act (Canada) and an Ontario home ownership savings plan under the Ontario Home Ownership Savings Plan Act. (“régime”) R.S.O. 1990, c. S.26, s. 50; 1994, c. 27, s. 63 (4).
+. . .
+Payment and enforcement
+53. Where a participant in a plan has designated a person to receive a benefit under the plan on the death of the participant,
+(a) the person administering the plan is discharged on paying the benefit to the person designated under the latest designation made in accordance with the terms of the plan, in the absence of actual notice of a subsequent designation or revocation made under section 51 but not in accordance with the terms of the plan; and
+(b) the person designated may enforce payment of the benefit payable to him under the plan but the person administering the plan may set up any defence that he could have set up against the participant or his or her personal representative. R.S.O. 1990, c. S.26, s. 53.
+[6] In Amherst Crane Rentals Ltd., supra, at paragraphs 2, 3, 4 and 22, the Ontario Court of appeal acquiesced in the proposition that by means of section 53 the legislature had excluded RRSPs from the estates of their owners.
+Additional Facts
+[7] According to the appellant, her former husband decided to purchase an RRSP in 1990. At that time, he was not indebted to the CRA. She was the designated beneficiary.
+[8] After their separation in 1996, the appellant filed a motion before the Ontario Court (General Division) requesting, among other things, an interim order requiring her former husband to designate her as the irrevocable beneficiary of his life insurance policies and death benefits (Notice of Motion, Exhibit A-9, Tab 0, paragraph 7) and restraining her former husband from dissipating, depleting, selling, moving, giving away or loaning any property, personal or otherwise, belonging to him until further order of the court or agreement between the parties (paragraph 12).
+[9] On December 17, 1997, Metivier J. of the Ontario Court (General Division) issued an order “for the relief (interim-interim) . . . set out in para 12 of the notice of motion”. She decided to adjourn the hearing of the remainder of the motion (see handwritten order attached to the notice of motion, Exhibit A-9, Tab 0, and Exhibit A‑5).
+[10] On January 16, 1998, Rutherford J. of the Ontario Court (General Division) continued Metivier J.’s order, except to the extent necessary to allow the former husband to make certain mortgage payments (Exhibit A-6, paragraph 3).
+[11] By order dated June 8, 1998, Bell J. of the Ontario Court (General Division) continued the order granted by Metivier J. restraining the former husband from dissipating his property. She further ordered, however, that if there was any change in circumstances before trial (including the crystallization of the amount owed by the former husband to Revenue Canada for income tax and goods and services tax), the former husband could renew his request to have the non-depletion order vacated. The court also ordered that, until the trial, each party was to designate the other as irrevocable beneficiary of his or her life insurance (Exhibit A-7, paragraphs 10 and 11).
+[12] There were no other court orders. At the time of the death of the former husband, the appellant and he were still not divorced and were still legally married. The appellant testified that they never completed the divorce proceedings due to a lack of cooperation from her former husband, who did not comply with the court orders that were issued.
+Analysis
+[13] In The Queen v. Livingston, 2008 FCA 89, 2008 DTC 6233, 2008 CarswellNat 564, the Federal Court of Appeal summarized as follows at paragraph 17 the criteria to be applied when considering subsection 160(1):
+17 In light of the clear meaning of the words of subsection 160(1), the criteria to apply when considering subsection 160(1) are self-evident:
+1) The transferor must be liable to pay tax under the Act at the time of transfer;
+2) There must be a transfer of property, either directly or indirectly, by means of a trust or by any other means whatever;
+3) The transferee must either be:
+i. The transferor's spouse or common-law partner at the time of transfer or a person who has since become the person's spouse or common-law partner;
+ii. A person who was under 18 years of age at the time of transfer; or
+iii. A person with whom the transferor was not dealing at arm's length.
+4) The fair market value of the property transferred must exceed the fair market value of the consideration given by the transferee.
+[14] There is no question that David Kiperchuk (the former husband) was liable to pay tax under the ITA at the time of his death (paragraph 10 of the partial agreed statement of facts).
+[15] The issues before me are 1) whether there was a transfer of property, either directly or indirectly, by means of a trust or by any other means whatever and, if so, when that transfer occurred, and 2) whether the transferor and transferee were dealing with each other at arm’s length within the meaning of subsection 160(1)[1].
+[16] The meaning of the term transfer was expounded in Fasken Estate v. Minister of National Revenue, [1948] Ex. C.R. 580, at page 592, [1948] C.T.C. 265, at page 279, in a passage that has subsequently been cited by courts (Yates v. The Queen, 2009 FCA 50, Tétrault v. The Queen, 2004 TCC 332). It is defined as follows:
+The word "transfer" is not a term of art and has not a technical meaning. It is not necessary to a transfer of property from a husband to his wife that it should be made in any particular form or that it should be made directly. All that is required is that the husband should so deal with the property as to divest himself of it and vest it in his wife, that is to say, pass the property from himself to her. The means by which he accomplishes this result, whether direct or circuitous, may properly be called a transfer.
+[17] The word “transfer” was given a very broad definition. To repeat the terms used in Fasken Estate, “all that is required is that the husband should so deal with the property as to divest himself of it and vest it in his wife, that is to say, pass the property from himself to her”.
+[18] In Montreuil v. R., 1994 CarswellNat 1522, [1996] 1 C.T.C. 2182, Judge Dussault of this Court, as he then was, concluded that the word “transfer” included the act of giving property under a will, and that the term “property” included a right to property (the term “property” being defined in subsection 248(1) of the ITA as “a right of any kind whatever”). Thus, Judge Dussault said (at paragraph 37 CarswellNat, pages 2198-99 C.T.C.), as of the moment of death, there was a transfer to the appellants of a right to claim the legacy amount provided for in the deceased’s will.
+[19] In Fasken Estate, supra, it was held that the property transferred to Mrs. Fasken was the right to receive under a declaration of trust a portion of the interest on certain indebtedness, and that that property passed to her from her husband, who had previously owned the whole of the indebtedness out of which the right to receive a specified portion of the interest on it was carved. The time of the transfer was the date of execution of the documents conferring the right to receive the property (pages 592-93, 597-98 and 598-600 Ex. C.R.; pages 279-80, 283-84 and 285-86 C.T.C.)
+[20] Thus, the respondent concluded — rightly, in my view — in the present case that, because the appellant was the designated beneficiary of the RRSP owned by her former husband, there was a transfer of property which took place at the time of his death. From that moment, the appellant had a right to claim the RRSP to which she had become entitled as the designated beneficiary.
+[21] I therefore agree with the respondent that the words “directly or indirectly, by means of a trust or by any other means whatever” used in subsection 160(1) are language broad enough to capture the passing of an entitlement to an RRSP from one person to another by way of a designation.
+[22] However, as stated in Amherst Crane Rentals, supra, the proceeds of the RRSP did not form part of the former husband’s estate but devolved directly to the appellant (paragraphs 3 and 4). In Homer v. The Queen, 2009 TCC 219, it was held that upon the properties at issue vesting indefeasibly in the various taxpayers by virtue of the Devolution of Estates Act of New Brunswick, the transfer also occurred, at that same moment (paragraph 20).
+[23] In Homer, Angers J. of this Court concluded that the transferor arguably could have been the testator, but definitely was not the estate (paragraphs 22 and 23). In my view, the same applies here.
+[24] The question, therefore, is whether the transferor and transferee were dealing with each other at arm’s length.
+[25] Assuming that the transferor is the former husband, he was not related to the appellant by marriage at the time she became entitled to the RRSP. Indeed, the status of marriage is ended by death or by a decree absolute of divorce (Kindl Estate, Re 1982 CarswellOnt 340, paragraph 10 (Ontario Supreme Court)).
+[26] Therefore, the appellant was not related by marriage to her former husband at the time of the transfer as she was then no longer his spouse (paragraphs 251(1)(a) and 251(2)(a) of the ITA). Nor was she deemed not to have dealt at arm’s length with her former husband under paragraph 251(1)(b) of the ITA, as the RRSP did not devolve to her through the estate.
+[27] Finally, there remains the question whether the appellant was in fact, for the purposes of paragraph 251(1)(c) of ITA, related to her former husband on the basis of circumstances existing at a particular time. The respondent argued that the relevant particular time was the time at which the appellant was designated as the beneficiary of the RRSP, that is, in 1990, at which time she was married to her former husband. The respondent relied on the conclusion reached by Angers J. in Homer at paragraph 25.
+[28] I have difficulty adopting here that same conclusion, which, moreover, was not really elaborated upon by Angers J. On close examination, it can be seen that the relevant portion of subsection 160(1) states that “where a person has . . . transferred property, either directly or indirectly, by . . . any . . . means whatever, to (a) the person’s spouse or . . . a person who has since become the person’s spouse . . . (c) a person with whom the person was not dealing at arm’s length, the following rules apply:
+. . .
+(e) the transferee and transferor are jointly and severally liable to pay under this Act an amount equal to the lesser of
+(i) the amount, if any, by which the fair market value of the property at the time it was transferred exceeds the fair market value at that time of the consideration given for the property, and
+(ii) the total of all amounts each of which is an amount that the transferor is liable to pay under this Act in or in respect of the taxation year in which the property was transferred or any proceeding taxation year”.
+[29] There is nothing in the wording of that subsection that relates the relationship between the transferor and the transferee to any moment other than that of the transfer of the property (or a moment after the transfer in a case where the transferee has since become the transferor’s spouse). The subsection refers throughout to the act of transferring and the time of the transfer, without specifying that other moments in time, previous to the transfer, could be contemplated for the purpose of its application to the transferee.
+[30] Further, in Livingston, supra, the Federal Court of Appeal stated as one of the applicable criteria that the transferee must be one of the following: the transferor’s spouse at the time of the transfer, a person who was under 18 years of age at the time of the transfer, or a person with whom the transferor was not dealing at arm’s length (paragraph 17).
+[31] In the present context, I conclude that the appellant was not the transferor’s spouse, nor was she a person with whom the transferor was not dealing at arm’s length at the time of the transfer.
+[32] I therefore conclude that not all of the criteria in section 160 have been met and that section 160 is not applicable.
+[33] The appeal is allowed and the assessment dated June 18, 2009 made under section 160 of the ITA is vacated, with costs to the appellant.
+Signed at Ottawa, Canada, this 22nd day of March 2013.
+“Lucie Lamarre”
+Lamarre J.
+CITATION: 2013 TCC 60
+COURT FILE NO.: 2011-749(IT)G
+STYLE OF CAUSE: Patricia Kiperchuk v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Ottawa, Ontario
+DATE OF HEARING: January 14, 2013
+REASONS FOR JUDGMENT BY: The Honourable Justice Lucie Lamarre
+DATE OF JUDGMENT: March 22, 2013
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Ryan Hall
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Considering the explicit terms of section 160 and the criteria to be met for its application, as summarized in Livingston, the first argument raised by the appellant, in paragraph 4 above, is untenable. Indeed, if the criteria are met, the transferee is in those circumstances directly liable for the transferor's debt at the time of the transfer.

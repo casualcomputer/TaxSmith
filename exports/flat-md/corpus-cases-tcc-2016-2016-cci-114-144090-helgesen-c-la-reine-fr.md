@@ -1,0 +1,233 @@
+---
+title: "Helgesen c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/144090/index.do"
+last_modified: "2016-05-05"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2016 CCI 114"
+citation2: ""
+neutral_citation: "2016 CCI 114"
+decision_date: "2016-05-05"
+language: "fr"
+item_id: "144090"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3075
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T17:03:11.973000+00:00"
+cases_cited_count: 2
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "e358205d052949e562bd85cf62bf7b3ac65f113ffda9ee59fd9c559b86a6fcbc"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Helgesen c. La Reine
+
+- Citation: 2016 CCI 114
+- Decision date: 2016-05-05
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3075, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Helgesen c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2016-05-05
+Référence neutre
+2016 CCI 114
+Numéro de dossier
+2013-1957(IT)G
+Juges et Officiers taxateurs
+Sylvain Ouimet
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2013-1957(IT)G
+ENTRE :
+Thomas Helgesen,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 9 décembre 2015, à Grande Prairie (Alberta).
+Devant : L'honorable juge Sylvain Ouimet
+Comparutions :
+Avocat de l'appelant :
+Me Neil T. Mather
+Avocat de l'intimée :
+Me Gregory Perlinski
+JUGEMENT
+L'appel interjeté à l'encontre de la nouvelle cotisation établie en vertu de la Loi de l'impôt sur le revenu, dont l'avis est daté du 27 février 2013 et porte le numéro 2121082, est rejeté avec dépens.
+Signé à Ottawa, Canada, ce 5e jour de mai 2016.
+« Sylvain Ouimet »
+Le juge Ouimet
+Référence : 2016 CCI 114
+Date : 20160505
+Dossier : 2013-1957(IT)G
+ENTRE :
+Thomas Helgesen,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Ouimet
+INTRODUCTION [1] L'appelant interjette appel d'une cotisation établie à son égard au titre de sa responsabilité en tant qu'administrateur en application de l'article 227.1 de la Loi de l'impôt sur le revenu (la « LIR »). Le ministre du Revenu national (le « ministre ») a établi une cotisation à l'encontre de l'appelant en sa qualité d'administrateur de la société 1072519 Alberta Ltd. (la « société ») au titre de l'impôt et des retenues à la source non versés en vertu de la LIR, du Régime de pensions du Canada (le « RPC »), de la Loi sur l'assurance‑emploi (la « LAE ») et de la loi albertaine intitulée Alberta Personal Income Tax Act (Loi de l'impôt sur le revenu des particuliers de l'Alberta).
+LA QUESTION EN LITIGE [2] La question en litige est la suivante :
+L'appelant est‑il responsable, en sa qualité d'administrateur de la société, de l'impôt et des retenues à la source non versés, y compris les intérêts et les pénalités s'y rapportant, s'élevant à 111 482,41 $?
+[3] Pour répondre à cette question, j'analyserai si l'appelant a agi avec le degré de soin, de diligence et d'habileté pour prévenir le défaut de versement de la société qu'une personne raisonnablement prudente aurait exercé dans des circonstances comparables.
+LES DISPOSITIONS LÉGALES pertinentes [4] Voici les principales dispositions pertinentes de la LIR :
+153(1) Retenue — Toute personne qui verse au cours d'une année d'imposition l'un des montants suivants :
+a) un traitement, un salaire ou autre rémunération, à l'exception des sommes visées aux paragraphes 115(2.3) ou 212(5.1);
+[...]
+doit en déduire ou en retenir la somme fixée selon les modalités réglementaires et doit, au moment fixé par règlement, remettre cette somme au receveur général au titre de l'impôt du bénéficiaire ou du dépositaire pour l'année en vertu de la présente partie ou de la partie XI.3. Toutefois, lorsque la personne est visée par règlement à ce moment, la somme est versée au compte du receveur général dans une institution financière désignée.
+[...]
+227(4) Montant détenu en fiducie — Toute personne qui déduit ou retient un montant en vertu de la présente loi est réputée, malgré toute autre garantie au sens du paragraphe 224(1.3) le concernant, le détenir en fiducie pour Sa Majesté, séparé de ses propres biens et des biens détenus par son créancier garanti au sens de ce paragraphe qui, en l'absence de la garantie, seraient ceux de la personne, et en vue de le verser à Sa Majesté selon les modalités et dans le délai prévus par la présente loi.
+[...]
+227.1(1) Responsabilité des administrateurs pour défaut d'effectuer les retenues — Lorsqu'une société a omis de déduire ou de retenir une somme, tel que prévu aux paragraphes 135(3) ou 135.1(7) ou aux articles 153 ou 215, ou a omis de verser cette somme ou a omis de payer un montant d'impôt en vertu de la partie VII ou VIII pour une année d'imposition, les administrateurs de la société, au moment où celle-ci était tenue de déduire, de retenir, de verser ou de payer la somme, sont solidairement responsables, avec la société, du paiement de cette somme, y compris les intérêts et les pénalités s'y rapportant.
+[...]
+(3) Idem — Un administrateur n'est pas responsable de l'omission visée au paragraphe (1) lorsqu'il a agi avec le degré de soin, de diligence et d'habileté pour prévenir le manquement qu'une personne raisonnablement prudente aurait exercé dans des circonstances comparables[1].
+[5] Voici les principales dispositions pertinentes du RPC :
+21(1) Montant devant être déduit et remis par l'employeur — Tout employeur payant une rémunération à un employé à son service, à une date quelconque, dans un emploi ouvrant droit à pension est tenu d'en déduire, à titre de cotisations de l'employé ou au titre de ces cotisations pour l'année au cours de laquelle la rémunération à l'égard de l'emploi ouvrant droit à pension est payée à cet employé, le montant déterminé conformément à des règles prescrites; l'employeur remet au receveur général, à la date prescrite, ce montant ainsi que le montant qui est prescrit à l'égard des cotisations qu'il est tenu de verser selon la présente loi. De plus, lorsque l'employeur est une personne prescrite à la date prescrite, le montant est versé au compte du receveur général dans une « institution financière » (au sens du paragraphe 190(1) de la Loi de l'impôt sur le revenu, compte non tenu des alinéas d) et e) de la définition de cette expression).
+[...]
+21.1(1) Responsabilité des administrateurs — En cas d'omission par un employeur personne morale de verser ou de déduire un montant de la manière et au moment prévus au paragraphe 21(1), les personnes qui en étaient les administrateurs à la date de l'omission sont solidairement responsables envers Sa Majesté du paiement de ce montant ainsi que des intérêts et pénalités qui s'y rapportent.
+(2) Application de la Loi de l'impôt sur le revenu — Les paragraphes 227.1(2) à (7) de la Loi de l'impôt sur le revenu s'appliquent, compte tenu des adaptations de circonstance, à l'administrateur d'une personne morale visée au paragraphe (1)[2].
+[6] Voici les principales dispositions pertinentes de la LAE :
+82(1) Retenue et paiement des cotisations — L'employeur qui paie une rétribution à une personne exerçant à son service un emploi assurable est tenu de retenir sur cette rétribution, au titre de la cotisation ouvrière payable par cet assuré en vertu de l'article 67 pour toute période à l'égard de laquelle cette rétribution est payée, un montant déterminé conformément à une mesure d'ordre réglementaire et de le verser au receveur général avec la cotisation patronale correspondante payable en vertu de l'article 68, au moment et de la manière prévus par règlement.
+[...]
+83(1) Responsabilité des administrateurs — Dans les cas où un employeur qui est une personne morale omet de verser ou de déduire un montant de la manière et au moment prévus au paragraphe 82(1), les administrateurs de la personne morale au moment de l'omission et la personne morale sont solidairement responsables envers Sa Majesté de ce montant ainsi que des intérêts et pénalités qui s'y rapportent.
+(2) Application de la Loi de l'impôt sur le revenu — Les paragraphes 227.1(2) à (7) de la Loi de l'impôt sur le revenu s'appliquent, avec les adaptations nécessaires, à l'administrateur de la personne morale[3].
+[7] Voici la principale disposition pertinente de la loi Alberta Personal Income Tax Act :
+[TRADUCTION]
+77. Responsabilité des administrateurs — L'article 227.1 de la loi fédérale s'applique pour les besoins de la présente loi[4].
+[8] Voici la principale disposition pertinente de l'accord de perception fiscale entre le Canada et l'Alberta :
+4.7(1) Les actions en justice engagées par ou contre l'État relativement à une mesure fiscale administrée par le Canada conformément au présent accord sont menées par le Canada pour le compte de la province :
+a) sous le même nom que si elles étaient engagées en vertu des dispositions correspondantes de la loi fédérale[5];
+[...]
+LES FAITS pertinents [9] Thomas Helgesen a témoigné au procès. L'intimée a fait témoigner Everett Gene Pyle (« M. Pyle ») et un représentant de l'ARC, Jon David Hill.
+A. Aveux [10] Au procès, l'appelant a reconnu certaines des hypothèses de fait du ministre au paragraphe 15 de la réponse de l'intimée à l'avis d'appel. Les hypothèses de fait reconnues sont les suivantes :
+[TRADUCTION]
+a) La société 1072519 Alberta Ltd. (la « société ») a été constituée le 22 octobre 2003;
+b) Au moment de la constitution en personne morale, l'appelant est devenu administrateur de la société et actionnaire à 50 %;
+c) L'autre administrateur et actionnaire de la société était Gene Pyle (« M. Pyle »), dont l'épouse Pauline Pyle (« Mme Pyle ») était la commis‑comptable de la société;
+d) La société exploitait une franchise (la « franchise ») d'O.K. Tire Stores Inc.;
+e) La société exploitait sa franchise de vente de pneus et de services d'entretien automobile sous le nom commercial O.K. Tire & Auto Service (Fairview) depuis le 2 février 2004, nom qu'elle a enregistré le 18 mars 2004;
+f) L'appelant était l'unique administrateur et actionnaire de la société 736000 Alberta Ltd., laquelle était propriétaire d'un immeuble commercial qu'elle louait à la société pour exploiter son entreprise;
+g) En 2004, l'appelant a prêté à Gene et à Pauline Pyle les sommes suivantes :
+DATE
+MONTANT
+12 janvier 2004
+5 000 $
+27 janvier 2004
+5 000 $
+17 février 2004
+25 000 $
+Total
+35 000 $
+h) L'appelant s'acquittait des tâches et des responsabilités habituelles d'un administrateur à l'égard de la société, notamment payer et garantir personnellement les dettes de la société comme suit :
+i) le 27 janvier 2004, l'appelant a fourni des fonds personnels pour payer les redevances de franchisage de 5 001 $ au nom de la société;
+ii) le 28 janvier 2004, l'appelant a signé une garantie personnelle pour l'exploitation de l'entreprise de la société à l'égard d'une politique de paiement conclue entre O.K. Tire Stores Inc. et la société;
+iii) le 20 février 2004, l'appelant a signé avec M. Pyle, au nom de la société, un contrat de sûreté en garantie du prix d'achat intervenu entre O.K. Tire Stores Inc. et la société;
+iv) le 12 janvier 2004, la société a ouvert un compte bancaire à la Common Wealth Credit Union et une autorisation de découvert a été accordée sur ce compte le 17 mai 2004;
+v) vers le 20 mai 2004, l'appelant a signé une garantie personnelle de 40 000 $ prévoyant une responsabilité solidaire avec la société relativement au compte bancaire de cette dernière;
+i) Depuis la constitution en société, les décisions courantes de la société incombaient à l'autre administrateur, M. Pyle, et à son épouse, laquelle était responsable de toute la comptabilité de la société;
+[...]
+k) À partir du 4 janvier 2008, la société a omis de verser les retenues à la source et la TPS et elle s'est vu imposer des intérêts et des pénalités s'y rapportant, comme l'indique l'annexe « A » de la présente réponse;
+l) Vers le 19 février 2008, le ministre a informé l'appelant que la société devait 111 046,31 $ en retenues à la source et en TPS non versées et qu'il pourrait être personnellement responsable de cette créance (la « créance initiale »);
+[...]
+r) Vers le 28 janvier 2010, l'appelant a prêté 55 000 $ à M. et Mme Pyle, mais :
+[...]
+iii) l'appelant n'a pas choisi de verser ce montant directement au ministre en paiement de la créance impayée;
+[...]
+cc) L'appelant est demeuré administrateur de la société lorsque la cotisation de 184 801,88 $ a été établie vers le 31 octobre 2011.
+B. Le contexte [11] L'appelant est un homme d'affaires chevronné qui a détenu plusieurs entreprises et biens‑fonds à Fairview (Alberta) et dans la région environnante. De 1993 à 2005, l'appelant était propriétaire et administrateur de Russell Helgesen Contracting, également appelée HCL National ou HCL (« Helgesen Contracting »). Helgesen Contracting comptait environ 150 employés. La participation de l'appelant dans Helgesen Contracting consistait notamment à donner des directives aux comptables et à participer aux opérations bancaires. L'appelant possédait et exploitait également une société à dénomination numérique distincte qui louait du matériel à Helgesen Contracting.
+[12] De 2005 à 2011, en plus de la société et de 736000 Alberta Ltd., l'appelant participait à une société de débroussaillage et aux sociétés Clear Prairie Open Camp, Fairview Classic Collision et Clear Prairie Gravel.
+[13] L'entreprise actuelle de l'appelant est Clear Prairie Gravel, entreprise qu'il exploite depuis cinq ou six ans. Cette entreprise compte, en tout temps, de deux à sept employés.
+C. La société [14] En l'an 2000, l'appelant a fait l'acquisition d'un immeuble commercial par l'intermédiaire de 736000 Alberta Ltd., une société qu'il possédait et exploitait. L'immeuble a été vide pendant les deux premières années suivant son acquisition, soit de 2000 à 2002. À cette époque, l'appelant a fait la connaissance de M. Pyle par l'intermédiaire d'un représentant d'O.K. Tire. Lorsque le représentant a appris que l'appelant possédait un immeuble commercial, il lui a demandé s'il aimerait y abriter une franchise d'O.K. Tire. L'appelant était intéressé, mais M. Pyle n'avait ni le crédit ni les fonds pour exploiter l'entreprise. Ainsi, 1072519 Alberta Ltd. a été constituée le 22 octobre 2003. L'appelant est devenu actionnaire à 50 % et administrateur de la société. Les activités de la société consistaient à exploiter une franchise d'O.K. Tire à Fairview, en Alberta (l'« entreprise »). M. Pyle était le seul autre administrateur et actionnaire de la société.
+[15] Depuis la constitution de la société, les décisions courantes incombaient à M. Pyle. M. Pyle était le propriétaire gérant de l'entreprise et Mme Pyle était commis‑comptable et préposée. L'appelant a déclaré dans son témoignage que son rôle dans l'entreprise se limitait à celui d'administrateur externe. L'appelant avait versé des fonds et aidé à établir l'entreprise, car M. Pyle n'avait ni le crédit ni les fonds nécessaires. L'appelant a versé 35 000 $ sous la forme d'un prêt de l'actionnaire. Les 35 000 $ se ventilent comme suit : un paiement de 5 000 $ effectué le 12 janvier 2004, un paiement de 5 000 $ (pour couvrir les frais initiaux de franchise) effectué le 27 janvier 2004[6], et un paiement de 25 000 $ effectué le 17 février 2004.
+[16] Le 12 janvier 2004, la société a ouvert un compte bancaire à la Common Wealth Credit Union. L'appelant a donné une garantie personnelle au franchiseur O.K. Tire sous la forme d'une politique de paiement le 28 janvier 2004 et d'un contrat de sûreté en garantie du prix d'achat le 20 février 2004[7]. Le 20 mai 2004, afin d'obtenir une marge de crédit, il a consenti une autre garantie de 40 000 $ à la Common Wealth Credit Union, comme le confirme une lettre du 25 septembre 2008 de la coopérative de crédit à l'ARC. L'appelant détenait le pouvoir de signature à l'égard du compte bancaire de la société. Cependant, il a témoigné qu'il n'avait jamais fait de chèque, car il considérait qu'il aurait été inapproprié de le faire puisque la société [TRADUCTION] « n'était pas mon entreprise ».
+Analyse [17] En vertu de l'article 227.1 de la LIR, de l'article 21.1 du RPC et de l'article 83 de la LAE, lorsque l'employeur est une personne morale, les administrateurs de la société sont solidairement responsables en cas d'omission de la société de verser les montants visés au paragraphe 153(1) de la LIR, au paragraphe 21(1) du RPC et au paragraphe 82(1) de la LAE.
+[18] Le paragraphe 21.1(2) du RPC, le paragraphe 83(2) de la LAE et l'article 77 de la loi Alberta Personal Income Tax Act disposent que l'article 227.1 de la LIR s'applique à l'administrateur d'une telle personne morale.
+[19] Le paragraphe 227.1(3) de la LIR prévoit un moyen de défense pour un administrateur. Dans l'arrêt Buckingham c. Canada[8], la Cour d'appel fédérale (la « C.A.F. ») a fait une analyse détaillée de l'application du paragraphe 227.1(3) de la LIR.
+[20] Dans l'arrêt Buckingham, la C.A.F. a déclaré que le paragraphe 227.1(3) de la LIR ne prévoit pas une obligation générale de diligence pour l'administrateur d'une société, mais plutôt un moyen de défense visant la responsabilité précise prévue au paragraphe 227.1(1)[9]. Pour invoquer ce moyen de défense, l'administrateur doit établir qu'il a agi avec le degré de soin, de diligence et d'habileté requis pour prévenir le manquement de verser les montants en question. Le paragraphe 227.1(3) de la LIR renvoie au degré de soin, de diligence et d'habileté « qu'une personne raisonnablement prudente aurait exercé dans des circonstances comparables »[10].
+[21] La C.A.F. a aussi déclaré que le fait de renvoyer dans ce paragraphe à une personne raisonnablement prudente indique clairement que le critère est objectif et que, par conséquent, la norme de soin, de diligence et d'habileté exigée au paragraphe 227.1(3) de la LIR est une norme objective, comme l'a énoncé la Cour suprême du Canada dans Magasins à rayons Peoples inc. (Syndic de) c. Wise, 2004 CSC 68, [2004] 3 R.C.S. 461[11].
+[22] En outre, une personne nommée administrateur doit activement s'acquitter des devoirs qui s'attachent à sa fonction. Elle doit démontrer qu'elle s'est préoccupée des versements requis afin de prévenir le défaut de la société de verser les montants visés[12]. Il ne lui sera pas permis de se défendre contre une allégation de malfaisance dans l'exécution de ses obligations en invoquant son inaction[13].
+[23] Selon la preuve qui m'a été présentée, je conclus que l'appelant n'a pas agi comme une personne raisonnablement prudente aurait agi dans des circonstances comparables afin de prévenir le défaut de versement de la société.
+[24] Avant le 19 février 2008, M. Pyle avait informé l'appelant que l'entreprise se portait bien, alors qu'en réalité celle‑ci avait omis de verser les montants dus à l'ARC et qu'elle éprouvait des difficultés financières.
+[25] Le 19 février 2008, l'appelant a reçu une lettre de l'ARC l'informant que la société accusait des arriérés dans ses versements de TPS et de retenues à la source. L'appelant avait conclu une entente avec l'ARC selon laquelle il n'était pas responsable des défauts de versement avant le 19 février 2008. À partir de cette date, il était donc bien au courant de ce défaut.
+[26] À la suite de la réception de cette lettre, il s'est préoccupé du défaut de versement de la société. Il a parlé à M. et Mme Pyle du problème et de la nécessité de faire preuve de diligence relativement aux versements. Il s'est présenté à l'entreprise tous les deux ou trois mois pour vérifier la situation. Cependant, ce faisant, il n'a pas exercé le degré de soin, de diligence et d'habileté qu'une personne raisonnablement prudente aurait exercé dans des circonstances comparables. Cela n'était tout simplement pas suffisant dans les circonstances.
+[27] Dans ces circonstances, je pense qu'une personne raisonnablement prudente aurait cherché à savoir si les versements étaient faits à l'ARC. L'appelant a continué à s'en remettre à M. Pyle pour s'assurer que les versements étaient à jour, en dépit du fait qu'il connaissait les piètres résultats financiers de la société. L'appelant n'a pas lui‑même vérifié auprès de l'ARC pour s'assurer que les versements étaient effectués et il ne s'est pas méfié des confirmations de M. et Mme Pyle selon lesquelles ils s'occupaient des versements. L'appelant détenait le pouvoir de signature à l'égard du compte bancaire de la société et il aurait pu vérifier la situation et prendre les mesures nécessaires pour s'assurer que la créance envers l'ARC était remboursée, en effectuant lui-même les versements et en vérifiant la situation quant aux versements futurs requis.
+[28] L'appelant a continué à permettre à M. Pyle et à son épouse de prendre les décisions courantes concernant la société. Il a choisi de ne pas examiner les documents de la société, sauf à l'occasion le document de fin d'exercice. L'appelant a témoigné qu'il embaucherait quelqu'un pour effectuer ces vérifications en son nom; cependant, il ne l'a jamais fait.
+[29] L'appelant a également décidé de se fier à M. et Mme Pyle en dépit du fait que, le 16 juillet 2008, le 18 juillet 2008 et le 27 août 2008, il avait reçu des lettres de l'ARC indiquant que les retenues à la source devaient toujours être versées et que l'ARC envisageait d'établir une cotisation à son égard en vertu de l'article 227.1 de la LIR[14]. L'appelant aurait pu communiquer directement avec l'ARC ou simplement demander à M. Pyle de présenter des preuves de paiement. L'appelant s'est plutôt fié à la parole de M. Pyle. Je crois qu'une personne raisonnablement prudente n'aurait pas agi de cette façon.
+[30] L'appelant a témoigné que, vers le 28 janvier 2010, il a renoncé à 55 000 $ en arriérés de loyer. Il a déclaré l'avoir fait afin que l'entreprise puisse payer l'ARC. L'appelant a en fait remis un chèque de 55 000 $ à l'entreprise. Le chèque a été déposé au compte bancaire de l'entreprise le 28 janvier 2010. Le même jour, l'entreprise a fait un chèque de 54 897 $ à 736000 Alberta Ltd[15]. Les deux transactions ont été effectuées le même jour et, dans son témoignage, l'appelant a expliqué que cela avait été fait à des fins comptables et fiscales. De toute évidence, le montant n'a pas été versé à l'ARC.
+[31] Ce n'est que le 27 janvier 2011, alors qu'il était administrateur de la société, que l'appelant a écrit à l'ARC pour expliquer que M. et Mme Pyle l'avaient induit en erreur sur l'état des versements[16]. L'appelant ne peut pas invoquer la malfaisance de M. et Mme Pyle comme moyen de défense en ce qui concerne son manquement à ses obligations.
+Conclusion [32] Compte tenu des faits qui m'ont été présentés, je conclus que l'appelant n'a pas prouvé qu'à titre d'administrateur de la société, il a agi avec le degré de soin, de diligence et d'habileté nécessaire pour prévenir le défaut de versement de la société. L'appelant n'a pas agi avec le degré de soin, de diligence et d'habileté pour prévenir le manquement qu'une personne raisonnablement prudente aurait exercé dans des circonstances comparables. Par conséquent, les conditions pour invoquer le moyen de défense fondé sur la diligence raisonnable prévu au paragraphe 227.1(3) de la LIR ne sont pas satisfaites et l'appelant est responsable, en vertu de l'article 227.1 de la LIR, des retenues à la source et des taxes qui n'ont pas été versées, y compris les intérêts et les pénalités s'y rapportant, s'élevant à 111 482,41 $.
+[33] Pour ces motifs, l'appel est rejeté avec dépens.
+Signé à Ottawa, Canada, ce 5e jour de mai 2016.
+« Sylvain Ouimet »
+Le juge Ouimet
+RÉFÉRENCE :
+2016 CCI 114
+No DU DOSSIER DE LA COUR :
+2013-1957(IT)G
+INTITULÉ :
+Thomas Helgesen c. SA MAJESTÉ LA REINE
+LIEU DE L'AUDIENCE :
+Grande Prairie (Alberta)
+DATE DE L'AUDIENCE :
+Le 9 décembre 2015
+MOTIFS DU JUGEMENT :
+L'honorable juge Sylvain Ouimet
+DATE DU JUGEMENT :
+Le 5 mai 2016
+COMPARUTIONS :
+Avocat de l'appelant :
+Me Neil T. Mather
+Avocat de l'intimée :
+Me Gregory Perlinski
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelant :
+Nom :
+Me Neil T. Mather
+Cabinet :
+Neil T. Mather Professional Corporation
+Edmonton (Alberta)
+Pour l'intimée :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Loi de l'impôt sur le revenu, L.R.C. 1985, ch. 1 (5e suppl.), articles 153, 227 et 227.1.
+[2] Régime de pensions du Canada, L.R.C. 1985, ch. C‑8, articles 21 et 21.1.
+[3] Loi sur l'assurance‑emploi, L.C. 1996, ch. 23, articles 82 et 83.
+[4] Alberta Personal Income Tax Act, R.S.A. 2000, ch. A‑30, article 77.
+[5] Accord de perception fiscale entre le gouvernement du Canada et le gouvernement de la province de l'Alberta, 8 mars 2005, C.P. 2004‑1324, O.C. 112/2005, http://www.qp.alberta.ca/documents/orders/Orders_in_Council/2005/305/2005_112.html (Alb.).
+[6] Le paiement était en fait de 5 001 $; voir le recueil de documents de l'intimée, pièce R‑3, onglet 24b.
+[7] Recueil de documents de l'intimée, pièce R‑1, onglet 19; pièce R‑3, onglet 24a.
+[8] Buckingham c. Canada, 2011 CAF 142, [2013] 1 R.C.F. 86.
+[9] Ibid., au paragraphe 33.
+[10] Ibid., au paragraphe 35.
+[11] Ibid., aux paragraphes 35 et 37.
+[12] Ibid., au paragraphe 40.
+[13] Ibid., au paragraphe 38; Kevin Patrick McGuinness, Canadian Business Corporations Law, 2e édition (Markham (Ontario), LexisNexis, 2007), au paragraphe 11.9.
+[14] Recueil de documents de l'intimée, pièce R‑6, onglet 14; pièce R‑7, onglet 15; pièce R‑8, onglet 16.
+[15] Pièce R-9.
+[16] Pièce A-1.

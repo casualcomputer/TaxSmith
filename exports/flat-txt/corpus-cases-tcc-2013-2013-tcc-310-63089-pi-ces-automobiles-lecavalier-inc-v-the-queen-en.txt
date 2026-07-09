@@ -1,0 +1,448 @@
+Title: Pièces automobiles Lecavalier Inc. v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/63089/index.do
+Corpus path: corpus/cases/tcc/2013/2013-tcc-310-63089-pi-ces-automobiles-lecavalier-inc-v-the-queen-en.md
+Document type: case_law
+Last modified: 2013-10-02
+
+# Pièces automobiles Lecavalier Inc. v. The Queen
+
+- Citation: 2013 TCC 310
+- Decision date: 2013-10-02
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6086, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Pièces automobiles Lecavalier Inc. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2013-10-02
+Neutral citation
+2013 TCC 310
+File numbers
+2011-952(IT)G
+Judges and Taxing Officers
+Paul Bédard
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2011-952(IT)G
+BETWEEN:
+PIÈCES AUTOMOBILES LECAVALIER INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on February 12 and 13, 2013, at Montreal, Quebec.
+Before: The Honourable Justice Paul Bédard
+Appearances:
+Counsel for the appellant:
+Louis Tassé
+Marie-Claude Marcil
+Counsel for the respondent:
+Natalie Goulard
+____________________________________________________________________
+JUDGMENT
+The appeals from the reassessments made under the Income Tax Act for the 2002, 2004 and 2005 taxation years are dismissed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 2nd day of October 2013.
+“Paul Bédard”
+Bédard J.
+Translation certified true
+on this 23rd day of April 2014.
+Erich Klein, Revisor
+Citation: 2013 TCC 310
+Date: 20140328
+Docket: 2011-952(IT)G
+BETWEEN:
+PIÈCES AUTOMOBILES LECAVALIER INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+AMENDED REASONS FOR JUDGMENT
+Bédard J.
+[1] This is a reassessment for the appellant’s 2002, 2004 and 2005 taxation years. The Minister of National Revenue (Minister) applied the general anti-avoidance rule (GAAR) found in section 245 of the Income Tax Act, R.S.C. 1985), c. 1 (5th Supp.) (ITA) to a series of transactions involving the purchase of shares in Greenleaf Canada Acquisitions Inc. (Greenleaf) by the appellant.
+[2] In December 2002, 3929761 Canada Inc. (which subsequently became the appellant) purchased from Ford U.S. all of the shares of its subsidiary Greenleaf in consideration of $1 and the assumption of a debt of $9,742,007 owed by Greenleaf to its parent company, Ford U.S. The amount of the debt owed by Greenleaf to Ford U.S. had been previously reduced from $24,369,439 to $9,465,163 by Ford U.S. as it had injected funds into Greenleaf by subscribing for additional common shares for a total of $14,843,596 and, on the same day, Greenleaf paid those funds to Ford U.S. as payment of part of the principal and the interest owing on the debt. In carrying out those transactions prior to the sale of its subsidiary’s shares, 3929761 Canada Inc. acquired the debt of Ford U.S. for an amount exceeding 80% of the principal amount of the debt at the time of acquisition. If 3929761 Canada Inc. had proceeded with the acquisition of the shares and the debt of Greenleaf without previously reducing the debt, subparagraph 80.01(6)(a)(ii) would have applied such that the debt would have been characterized as a “specified obligation”. This specified obligation would then have been considered a parked obligation under subsection 80.01(7) and the debt forgiveness scheme would have applied to the transaction under subsection 80.01(8). This would have resulted in the loss of the various tax consequences with respect to Greenleaf and in the immediate inclusion of $5,700,000 in the appellant’s income.[1]
+[3] In determining the tax consequences that are reasonable in the circumstances in accordance with subsection 245(5) of the ITA, the Minister considered that the appellant had realized a gain of $14,944,275 on a forgiveness of debt and that this gain had to be subject to the rules under section 80 of the ITA. The Minister has therefore adjusted the tax consequences for the appellant for 2012 as follows:
+Changes made pursuant to section 80
+2002 taxation year
+Reduction of balance of non-capital losses (subs. 80(3))
+$414,964
+Reduction with respect to UCC (subs. 80(5))
+$2,462,028
+Reduction of CEC (subs. 80(7): ¾ x $71,773 = $53,830)
+$53,830
+Half of the balance (subs. 80(13): ½ x $11,995,510 = $5,997,755)
+$5,997,755
+Less deduction allowed at the appellant’s request: (s. 61.3)
+($5,997,755)
+[4] After making the changes to the tax consequences with respect to Greenleaf pursuant to section 80 of the ITA, the Minister made certain adjustments to the appellant’s taxable income for the 2002, 2004 and 2005 taxation years.
+Issues
+[5] In order for the GAAR to apply, the following conditions must be met:
+(i) there must be a tax benefit resulting from a transaction or a series of transactions;
+(ii) the transaction must be an avoidance transaction in the sense that it cannot reasonably be said to have been undertaken or arranged primarily for a bona fide purpose; and
+(iii) the avoidance transaction from which the tax benefit arises must be abusive in the sense that it cannot reasonably be concluded that obtaining the tax benefit would be consistent with the object, spirit or purpose of the provisions relied upon by the taxpayer.
+[6] In this case, the appellant acknowledges that it obtained a tax benefit. The issue therefore is whether the tax benefit results from an avoidance transaction or a series of avoidance transactions, and if so, whether the avoidance transaction or series of avoidance transactions directly or indirectly results in abuse.
+[7] The appellant submits that the purchase of the shares of Greenleaf by 3929761 Canada Inc. is not part of the same series of transactions as the avoidance transactions identified by the respondent because the transactions in the series were imposed by Ford U.S. The appellant also submits that the avoidance transactions identified by the respondent were entered into for bona fide purposes, that is to say, the American tax and economic considerations of Ford U.S. The appellant submits that the purchase transaction was one in which the vendor had created a structure without any regard for the tax consequences for the Canadian purchaser. Moreover, the appellant submits that there was no abusive tax avoidance because the transaction was not contrary to the object, spirit and purpose of section 80 of the ITA.
+The context prior to the purchase of the shares
+[8] Pièces Automobiles Lecavalier was originally a family-owned company of which Roger Fugère Senior had been the shareholder and director since the early 1980s. His sons, including Roger Fugère Junior (Mr. Fugère), all played an important role in the company.
+[9] In 1993, following an estate freeze, the four children of Roger Fugère Senior became shareholders in the company. Mr. Fugère was acting at that time as director and chief executive officer.
+[10] In 1999, Ford U.S., in conjunction with the implementation of a restructuring plan for its operations, purchased a number of automobile parts recycling centres in North America. On November 1, 2000, Ford U.S, through its subsidiary Greenleaf, purchased the shares of Gestion Phirobec Inc., the parent company of Pièces Automobiles Lecavalier, for approximately $18,600,000. Following the purchase, Mr. Fugère kept his position of chief executive officer at Pièces Automobiles Lecavalier.
+[11] Over the course of the restructuring of Ford U.S., Greenleaf acquired several companies operating in the same field. From January 1 to May 1, 2001, the following companies were amalgamated with Greenleaf or wound up into Greenleaf: Plazek Auto Recycler Ltd., Cumberland Motor Sales Ltd., Cumberland Auto Parts Ltd. and Les entreprises Jules Harbec Inc.
+[12] On May 1, 2001, Pièces Automobiles Lecavalier and Gestion Phirobec Inc. amalgamated and the company resulting from the merger was thereupon wound up into Greenleaf and dissolved. Ford U.S. then continued all of its automobile parts recycling operations in Canada through Greenleaf.
+The process whereby 3929761 Canada Inc. purchased the shares of Greenleaf
+[13] In April 2002, following a change of leadership, Ford U.S. took steps to cease its automobile recycling activities. Mr. Fugère saw this as an opportunity to buy back from Ford U.S. the Quebec division of Greenleaf, which at the time included several amalgamated corporations, including Pièces Automobiles Lecavalier.
+[14] In September 2002, Ford U.S. held 13,050,001 common shares of Greenleaf. Greenleaf also owed Ford U.S. $24,369,439, which amount Ford U.S. had granted as advances.
+[15] According to the testimony of Mr. Fugère, a first meeting was held between him and the representatives of Ford U.S. in April 2002. At that meeting, Mr. Fugère purportedly stated that he only wished to purchase the assets related to the recycling activities in Quebec. He also purportedly told the representatives of Ford U.S. that he did not wish to acquire the shares of Greenleaf as he was not interested in that subsidiary’s Ontario assets. Also according to him, Ford U.S. indicated instead at that time its firm intention to divest itself of all its Canadian activities in that field by selling the shares of Greenleaf. On July 25, 2002, Mr. Fugère said, he sent Ford U.S. an offer to purchase all of the shares of Greenleaf and the debt owed Ford U.S. by Greenleaf in consideration of $7,750,000. The offer was apparently refused by Ford U.S.
+[16] On August 22, 2002, Mr. Fugère sent Ford U.S. a second offer, again to purchase the shares of Greenleaf and the debt owed by Greenleaf. The offer contemplated two payment scenarios. According to Mr. Fugère, those offers were also rejected.
+[17] Around September 23, 2002, following a number of negotiating sessions, Mr. Fugère and Ford U.S. allegedly agreed on the purchase price for the shares of Greenleaf. The parties reached an agreement in principle whereby a company to be created, 3929761 Canada Inc. (which would eventually become the appellant, Pièces Automobiles Lecavalier), would acquire all of the shares of Greenleaf and the debt of $24,369,439 for $9,742,008.
+The purchase of the shares of Greenleaf
+[18] Following the agreement in principle, the following transactions occurred. The transactions were characterized by the parties as being [Translation] “debt clean-up”:
+On October 15, 2002, there was a subscription by Ford U.S. for 1,000,000 additional common shares of Greenleaf for a paid consideration of $14,843,596. Ford U.S. now held a total of 14,050,001 shares in Greenleaf.
+On October 15, 2002, there was a bank transfer of $14,944,302 to Ford U.S. as repayment of the advances, which amount consisted of $12,250,000 in principal and $2,694,301 in interest. At that time, the total debt balance was reduced from $24,369,439 to $9,465,163.
+[19] On December 2, 2002, Ford U.S. sold all of the shares of Greenleaf to 3929761 Canada Inc. in consideration of $1. At the same time, Ford U.S. sold to 3929761 Canada Inc. for a consideration of $9,742,007 the Greenleaf debt of $9,750,000[2] that it held. The total consideration paid for all the shares and the debt was $9,742,008, being the amount negotiated on or about September 23, 2002.
+General anti-avoidance rule (GAAR)
+[20] The analytical framework that applies to the general anti-avoidance rule found in section 245 of the ITA was set out by the Supreme Court of Canada in Canada Trustco Mortgage Co. v. Canada[3] and confirmed in Lipson v. Canada[4] and Copthorne Holdings v. Canada.[5] Subject to the possible application of the GAAR, taxpayers are entitled to choose to conduct business or plan their affairs in such a way as to minimize their tax liability, this being in accordance with the principle stated in Commissioners of Inland Revenue v. Duke of Westminster.[6]
+[21] The GAAR is a legal mechanism whereby Parliament has given the courts the unusual task of going behind the words of the legislation to determine the object, spirit or purpose of the provision or provisions relied upon by the taxpayer.[7] It must be remembered, however, that the GAAR is a “provision of last resort”[8] that may be invoked by the Minister if he believes that the taxpayer’s transactions are not in accord with the object, spirit, rationale or purpose of the provisions relied upon and thus thwart them or constitute an abuse thereof.[9]
+The existence of a tax benefit
+[22] The first requirement for the application of the GAAR is that of the existence of a tax benefit. The burden is usually on the taxpayer to refute the Minister’s assumption of the existence of such a benefit.[10] As mentioned earlier, the appellant acknowledges that it obtained a tax benefit, namely, the retention of tax consequences that would have otherwise been reduced pursuant to section 80 of the ITA. We must therefore go on to the second requirement for the application of the GAAR.
+Avoidance transaction: legal framework
+[23] The second requirement for the application of the GAAR, as stated in Trustco,[11] is that the transaction giving rise to the tax benefit be an avoidance transaction within the meaning of subsection 245(3) of the ITA:
+(3) An avoidance transaction means any transaction
+(a) that, but for this section, would result, directly or indirectly, in a tax benefit, unless the transaction may reasonably be considered to have been undertaken or arranged primarily for bona fide purposes other than to obtain the tax benefit; or
+(b) that is part of a series of transactions, which series, but for this section, would result, directly or indirectly, in a tax benefit, unless the transaction may reasonably be considered to have been undertaken or arranged primarily for bona fide purposes other than to obtain the tax benefit.
+[24] The function of this requirement is to remove from the ambit of the GAAR transactions or series of transactions that may reasonably be considered to have been undertaken or arranged primarily for one or more non-tax purposes.[12] It is up to the taxpayer to refute the Minister’s claim or challenge the Minister’s factual assumption by showing that a bona fide non-tax purpose primarily drove the transaction.[13] Since the determination of the existence of an avoidance transaction involves a decision as to the facts, the burden of proof is the same as in any tax proceeding where the taxpayer disputes the Minister’s assessment: proof on the balance of probabilities.[14]
+[25] Where, as here, the Minister assumes that the tax benefit resulted from a series of transactions rather than a single transaction, it is necessary to (1) determine if there is a series, which transactions make up the series, and whether the tax benefit resulted from the series,[15] and (2) determine if any transaction in the alleged series constitutes an avoidance transaction.[16] A series of transactions that results directly or indirectly in a tax benefit will be characterized as an avoidance transaction, unless each transaction in the series may reasonably be considered to have been undertaken or arranged primarily for bona fide purposes other than to obtain the tax benefit.[17] Finally, the person who undertakes or arranges the avoidance transaction need not be the one who obtains the tax benefit.[18]
+Avoidance transaction: analysis
+[26] The Minister argues that the two debt clean-up transactions undertaken on October 15, 2002, namely, the share subscription by Ford U.S. and the use by Greenleaf of the amount of the subscription to repay part of the debt, are avoidance transactions as they had no bona fide purpose and had only been executed in order to obtain a tax benefit, i.e., the retention of tax consequences. Together with the sale of the shares, these transactions constitute, according to the Minister, the series of transactions that resulted in that tax benefit.
+[27] For its part, the appellant submits that the purchase of the shares of Greenleaf by 3929761 Canada Inc. was not part of the same series of transactions as the two debt clean-up transactions because those two transactions were imposed by Ford U.S., without regard to the appellant’s motives.
+[28] With respect to the bona fide purpose of the transactions alleged to have been avoidance transactions, the appellant submits that they were entered into for reasons specific to Ford U.S. as well as for U.S. tax reasons. The appellant submits that these were bona fide purposes.
+The existence of a series of transactions
+[29] In Copthorne, the Supreme Court of Canada confirmed the position taken in Trustco with respect to the series of transactions concept. That position was itself based on the majority opinion of the Federal Court of Appeal judges in OSFC. In the determination of the existence of a series of transactions, the starting point is to be found in the English common law, under whose definition of a series “each transaction in the series [is] pre-ordained to produce a final result”.[19] Subsection 248(10) of the ITA broadens this definition by providing that “related transactions” completed “in contemplation of” or because of the series shall be deemed to form part of the series:
+Series of transactions
+248(10) For the purposes of this Act, where there is a reference to a series of transactions or events, the series shall be deemed to include any related transactions or events completed in contemplation of the series.
+[30] The appellant submits that the debt clean-up transactions did not form part of the same series of transactions as the purchase of the shares because they were transactions that had been unilaterally imposed by Ford U.S. The appellant asserted that the two debt clean-up transactions, namely, the subscription for shares of the capital stock and the repayment of the loan, had been imposed by Ford U.S. once the sale price was determined and hence constituted a series that was distinct from the purchase of the shares of Greenleaf by 3929761 Canada Inc.
+[31] There were, according to the appellant, two separate series of transactions, each having been undertaken by different parties. I believe that this is the first time that this Court has considered the existence of a series of transactions from this perspective. It is therefore necessary to determine whether the two debt clean-up transactions, which resulted in the tax benefit, may be viewed as “related transactions” undertaken because of the purchase of the shares and thus as constituting a series of transactions.
+[32] The appellant’s evidence in that regard was essentially based on the testimony of Mr. Fugère and Mr. Lacombe. Mr. Lacombe is a tax accountant and has been working for the Fugère family since the early 1990s. The appellant also filed, as Exhibit A‑2,[20] a two-page document indicating the different stages of the debt clean-up transactions that had to be completed prior to the purchase of the shares. According to Mr. Fugère’s testimony, the various transactions shown in that document had been imposed by Ford U.S., without any possibility of compromise. The document was apparently sent by fax a few days after the agreement in principle, that is, between September 23 and September 30, 2002. Also, according to those witnesses, the aforementioned stages of the transactions were never discussed or negotiated between the parties.
+[33] At the outset, I must admit that the appellant has not satisfied me that Ford U.S. had imposed the debt clean-up transactions. Even though Messrs. Fugère and Lacombe testified to that effect, it would have been desirable, even necessary in this case, that a representative of Ford U.S. testify that Ford U.S had indeed unilaterally structured the transaction. When asked to comment on the absence of a representative of Ford U.S. on the stand, counsel for the appellant explained this absence by a lack of co-operation on the part of Ford U.S.
+[34] Moreover, the document filed as Exhibit A‑2 is the only documentary evidence that Ford U.S. had imposed the debt clean-up transactions. While the document may have come from Ford U.S. and although its introduction in evidence was not challenged, I consider, for the following reasons, that the probative value of that document is relatively low. It is an undated, unsigned two-page document allegedly sent by fax. The document shows a series of transactions and stages presented in a [Translation] “bare-bones” format. I would be surprised if a company of the reputation and size of Ford U.S. had undertaken a transaction of more than 9 million dollars and dictated its various stages by faxing to its future purchaser a two-page document that I would call a [Translation] “draft”. Such a suggestion strikes me as lacking credibility, especially since the documentary evidence shows that American and Canadian tax specialists were called upon to work on this complex transaction.[21] Thus, in light of the evidence submitted at the hearing and having regard to the absence of certain evidence that should have been produced, I am not satisfied that the transactions in question were imposed by Ford U.S. as contended by the appellant. That said, even if the transactions had been imposed by Ford U.S., I believe that the debt clean-up and the purchase of the shares formed part of the same series of transactions for the reasons that follow. Mr. Fugère testified that 3929761 Canada Inc. had wished, at the beginning of the negotiation process, to acquire the assets of Greenleaf. However, Ford U.S. allegedly indicated at that point its firm intention to sell its shares in order to realize its latent capital loss[22] with respect to the shares. Furthermore, to realize that loss, Mr. Lacombe testified, Ford U.S. absolutely had to undertake the debt clean-up transactions. This entire portion of the testimony constitutes hearsay. However, even if I were to accept this portion of the testimony, I would arrive at the conclusion that Ford U.S. undertook the debt clean-up transactions in order to be able to realize its capital loss by selling the shares of Greenleaf to 3929761 Canada Inc. Ford U.S. wanted to sell its shares in order to realize its latent capital loss, which would only have been available if the debt clean-up had been carried out. Thus, had Ford U.S. not performed the debt clean-up, it would not have been able to benefit from its capital loss. In such a situation, it would have been a matter of indifference to Ford U.S. whether it was the shares or the assets of its subsidiary that were sold. Can it therefore be said that the debt clean-up transactions, which resulted in the tax benefit, may be considered “related transactions” undertaken because of the purchase by 3929761 Canada Inc. of the shares of Greenleaf? It seems to me that the answer is obvious.
+[35] To conclude on this point, I am of the view that the debt clean-up transactions and the sale of the shares of Greenleaf formed part of the same series of transactions, on the one hand because the debt clean-up had been carried out because of the purchase of the shares and on the other hand because I am not satisfied that the clean-up transactions were imposed by Ford U.S.
+Whether any transaction in the alleged series constitutes an avoidance transaction
+[36] The determination of whether a transaction is undertaken primarily for a non‑tax purpose must be made objectively on the basis of all of the evidence available to the court.[23] At this stage, the burden of proof is still on the taxpayer, who must prove the existence of a bona fide non-tax purpose.[24]
+[37] As the Supreme Court stated in Trustco, the Tax Court of Canada judge must weigh the evidence to determine whether it is reasonable to conclude that the transaction was not undertaken or arranged primarily for a non-tax purpose. Thus the possibility of different interpretations of the events must be objectively considered.[25]
+[38] If at least one of the transactions forming part of the series of transactions constitutes an avoidance transaction, then the tax benefit that results from the series may be denied under the GAAR. Conversely, if each transaction in the series was undertaken primarily for bona fide non-tax purposes, the GAAR cannot be applied to deny the resulting tax benefit. Finally, I note that there may be a tax motive behind a transaction without it necessarily being inferred that the tax motive is the primary reason for the transaction.
+[39] The appellant submits that the debt clean-up transactions were entered into for reasons specific to Ford U.S. as well as for U.S. tax reasons. The appellant submits that those are bona fide purposes.
+[40] The respondent submits that the subscription for additional shares by Ford U.S. and the use by Greenleaf of the subscription amount to repay part of the debt owed to Ford U.S. constitute avoidance transactions as they had no bona fide purpose. Also according to the respondent, the sole purpose of these transactions was to preserve the tax consequences with respect to Greenleaf by preventing the application of the debt forgiveness rules of sections 80 and 80.01 of the ITA.
+[41] From a reading of paragraph 245(3)(b) and the definition of “tax benefit” in subsection 245(1), I note that [Translation] “purely American” tax motivations are in themselves bona fide purposes. Indeed, although obtaining a tax benefit is not considered a bona fide purpose, the definition of tax benefit refers to the “reduction, avoidance or deferral of tax . . . payable under this Act”, which is a specific reference to the ITA:
+245(1)
+“tax benefit” means a reduction, avoidance or deferral of tax or other amount payable under this Act or an increase in a refund of tax or other amount under this Act, and includes a reduction, avoidance or deferral of tax or other amount that would be payable under this Act but for a tax treaty or an increase in a refund of tax or other amount under this Act as a result of a tax treaty.
+245 (3) An avoidance transaction means any transaction
+. . .
+(b) that is part of a series of transactions, which series, but for this section, would result, directly or indirectly, in a tax benefit, unless the transaction may reasonably be considered to have been undertaken or arranged primarily for bona fide purposes other than to obtain the tax benefit.
+(Emphasis added.)
+[42] Thus, if it is reasonable to consider that the transaction was undertaken primarily for bona fide purposes, being in this case American tax motivations and reasons specific to Ford U.S., the debt clean-up transactions cannot be characterized as avoidance transactions.
+[43] The evidence submitted by the appellant on this issue consisted essentially of the testimony of Mr. Lacombe and Brian Nerney. Mr. Lacombe testified that the debt clean-up transactions had been imposed by Ford U.S. for U.S. accounting and tax reasons and so that Ford U.S. could benefit from its capital loss when it disposed of the Greenleaf shares. Mr. Lacombe is a Canadian tax accountant. He was not designated by the Court as an expert on Canadian tax, much less as an expert on U.S. tax. Furthermore, having him so recognized does not appear to have been contemplated by counsel for the appellant. With respect, I cannot accept that part of his testimony pertaining to the U.S. tax consequences for Ford U.S. The appellant could have and should have called as a witness an expert on American tax in order to present the various impacts of the debt clean-up transactions. Moreover, Mr. Lacombe admitted to turning to a Canadian tax professional specializing in U.S. taxation to provide him with information in that regard. However, the appellant did not think it useful to call that person as a witness, stating that it was a matter of cost. The Court has no judicial knowledge of the law of the United States and is not required to make findings with respect to its application to certain transactions in a Canadian context. Accordingly, I cannot accept this aspect of Mr. Lacombe’s testimony.
+[44] Brian Nerney was subpoenaed by the appellant to testify about his role in similar transactions which had occurred in the United States. More specifically, he had apparently been a director and shareholder of Greenleaf U.S., an automobile recycling company purchased by Ford U.S. during the restructuring of its operations.
+[45] Essentially, his testimony was that Ford U.S. had imposed on him a transaction similar to that which is in question here. According to him, the transaction was so structured for the sole purpose of enabling Ford U.S. to benefit from a latent capital loss on the sale of the shares, as the extinguishing of a debt between parties not at arm’s length prevented the loss from being realized.
+[46] It is important to note that Mr. Nerney was not qualified as an expert witness. His testimony is hearsay and, while it is interesting, its probative value is still very limited.
+[47] The appellant did not think it useful or was unable to have a representative of Ford U.S. testify concerning the internal reasons that would have led Ford U.S. to structure the debt clean-up transactions as it did. Nor did the appellant deem it useful to call an expert in U.S. law to inform the Court regarding the U.S. tax consequences of those transactions. The respondent is asking me to draw a negative inference from this, which I am willing to do for the reasons set out hereunder.
+Negative inference
+[48] In civil matters, the general rule respecting adverse inferences from the failure to call a witness goes back to Blatch v. Archer,[26] a decision in which, at page 65, Lord Mansfield stated the following:
+It is certainly a maxim that all evidence is to be weighed according to the proof which it was in the power of the one side to have produced, and in the power of the other to have contradicted.
+[49] And in The Law of Evidence in Civil Cases (John Sopinka and Sidney N. Lederman, Toronto. Butterworths, 1974), the authors explain at pages 535-36:
+The application of this maxim has led to a well-recognized rule that the failure of a party or a witness to give evidence, which it was in the power of the party or witness to give and by which the facts might have been elucidated, justifies the court in drawing the inference that the evidence of the party or witness would have been unfavourable to the party to whom the failure was attributed.
+(Emphasis added.)
+[50] This principle was reiterated by the Supreme Court of Canada in 1970 in Lévesque v. Comeau:[27]
+This is not all. Appellant Lola Levesque's expert examined her for the first time more than a year after the accident, and after she had consulted several doctors and undergone different examinations in the meantime. She alone could bring before the Court the evidence of those facts and she failed to do it. In my opinion, the rule to be applied in such circumstances is that a Court must presume that such evidence would adversely affect her case. The fact that those witnesses all live in Montreal does not make the rule any less applicable. Appellant Lola Levesque should, if necessary, have applied for a rogatory commission. Under the circumstances, her testimony and that of her husband respecting her good state of health before the accident could properly be considered insufficient evidence for the purpose of excluding the other possible causes of the deafness.
+(Emphasis added.)
+[51] This excerpt from Lévesque v. Comeau has often been accompanied, in recent case law,[28] by the following comments of James H. Chadbourn, ed., Wigmore on Evidence, vol. 2 (Boston: Little, Brown & Company, 1979), at page 192:
+. . . The failure to bring before the tribunal some circumstance, document, or witness, when either the party himself or his opponent claims that the facts would thereby be elucidated, serves to indicate, as the most natural inference, that the party fears to do so; and this fear is some evidence that the circumstance or document or witness, if brought, would have exposed facts unfavorable to the party. These inferences, to be sure, cannot fairly be made except upon certain conditions; and they are also open always to explanation by circumstances which make some other hypothesis a more natural one than the party’s fear of exposure. But the propriety of such an inference in general is not doubted.
+(Emphasis added.)
+[52] The Supreme Court recently reminded us of this principle in R. v. Jolivet.[29] Although this is a criminal law judgment, the Court made some interesting remarks regarding the application of this principle in civil matters. For instance, the party against whom the adverse inference is sought may provide a satisfactory explanation of the reasons for the failure to call the witness.[30] The Court further noted that one must be precise about the exact nature of the adverse inference sought to be drawn. Quoting Sopinka,[31] the Court points out that the failure to call evidence may, depending on the circumstances, amount “to an implied admission that the evidence of the absent witness would be contrary to the party’s case, or at least would not support it.”[32]
+[53] Again in Jolivet,[33] the Supreme Court also states that the circumstances in which trial counsel decides not to call a particular witness may restrict the nature of the appropriate adverse inference. For example, one may decide against calling a witness because the point has been adequately covered by another witness, or because an honest witness may have a poor demeanour, or on account of other factors unrelated to the truth of the testimony.[34]
+[54] In Downey v. Canada,[35] the appellant was party to a sale between persons not at arm’s length and had to show that unrelated parties would have concluded the transaction at a similar price. The Tax Court Judge determined that the appellant had failed to provide sufficient evidence to refute the Minister’s assumptions: he did not call the co-contractor as a witness to provide evidence on the circumstances of the transaction and the determination of the price. That decision was affirmed by the Federal Court of Appeal.[36]
+[55] In Teelucksingh v. Canada,[37] at paragraph 81, Justice Miller stated that, for a negative inference to be drawn, there must be a vacuum in the evidence.
+[56] In order to draw a negative inference with respect to the absence of a witness, the trial judge must first be dissatisfied with the evidence before the court or, at least, have a real doubt as to its content. Where the trial judge has misgivings or expresses some doubt regarding the evidence and where the only person able to provide additional evidence or to corroborate that already submitted does not testify, a negative inference may be drawn from that absence unless it can be explained by plausible and credible circumstances. In that regard, the judge must consider whether the circumstances that led trial counsel not to call a particular witness may restrict the nature of the appropriate adverse inference.
+[57] In the present appeal, the appellant is attempting to show that the debt clean-up transactions were imposed by Ford U.S. for its own U.S. tax and U.S. financial purposes. The appellant’s evidence to that end is based on the testimony of Mr. Fugère and Mr. Lacombe. Their testimony is self-serving and constitutes to a great extent hearsay. Some aspects of it are also dubious or implausible in light of the facts. In addition, the appellant submitted inadequate documentary evidence to which no great probative value can be given. Thus, there was clearly a vacuum in the evidence.
+[58] Only a representative of Ford U.S. would have been able to corroborate the testimony of Mr. Fugère and Mr. Lacombe. The appellant submits that, owing to the lack of cooperation by Ford U.S., the Court was unable to have the benefit of the testimony of such a representative. As stated by Justice Archambault in Morley,[38] the Act and rules of practice provide for various means to ensure the attendance of a witness at the hearing.
+[59] In addition, the appellant did not find it necessary to call an expert who could have enlightened the Court as to the U.S. tax consequences the debt clean-up transactions would have had, which consequences could have constituted bona fide purposes. Counsel for the appellant stated that the cost involved was what led to the decision not to call such a witness. I note, however, that the appellant had Mr. Nerney come from Texas to testify for about five minutes in total on subjects that were on their very face hearsay and which were of no assistance to the Court.
+[60] Evidence of the terms and conditions of the sale was essential if the appellant wished to meet its burden with respect to the existence of avoidance transactions. Considering as well that it was the appellant that had the burden of disproving the existence of such a transaction, I have no hesitation in drawing a negative inference from the absence of testimony by a representative of Ford U.S. The importance of such testimony and the absence of explanations and justifications that would have been credible in the circumstances support that inference.
+Finding on the series of avoidance transactions
+[61] In conclusion, since the determination whether a transaction was undertaken primarily for a non-tax purpose is to be made objectively in light of all of the evidence presented to the Court, I am of the view that the appellant has failed to establish on a balance of probabilities that the debt clean-up transactions had been undertaken primarily for non-tax purposes.
+[62] It is clear that the transactions had tax purposes. The appellant, however, had the burden of proving that there were non-tax purposes, and that the transactions had been undertaken primarily for those purposes. That was not done. U.S. tax considerations and internal considerations, whether accounting, economic or otherwise, can in some cases constitute bona fide non-tax purposes. Here, the evidence does not enable me to draw that conclusion. Accordingly, I find that both debt clean-up transactions constituted avoidance transactions which resulted in a tax benefit, namely, the preservation of tax consequences.
+[63] Before moving on to the third stage of the analysis, I would like to make the following comments. The appellant repeatedly claimed that the tax aspects of the transaction were never considered until Ford U.S. sent the document describing the transactions to be undertaken. Mr. Fugère and Mr. Lacombe both testified that it was only when the transactions were imposed by Ford U.S., around September 30, 2002, that they asked themselves about the tax consequences of the purchase of the shares and the debt. It is unclear from the evidence submitted whether that argument was in relation to the existence of a series of transactions or whether it related to the avoidance transactions per se. In light of the analysis conducted in the preceding paragraphs, it is not necessary for me to entertain such an argument. I have already found that there was a series of transactions that included two avoidance transactions. Nevertheless, since the appellant has stressed this aspect, I believe it is important to address this part of its argument.
+[64] Mr. Fugère and Mr. Lacombe testified that the negotiations pertaining to the purchase of the shares of Greenleaf by 3929761 Canada Inc. had begun in March 2002. According to their testimony, it was not until the end of September 2002, when Ford U.S. sent the document imposing the various transactions, that they considered the tax consequences of the purchase. I understand from their testimony that a period of approximately six months had elapsed between the start of the negotiations and the implementation of the transaction structure and that, prior to that, the tax aspects of the transaction had never been considered. While the testimony of Mr. Fugère and Mr. Lacombe were consistent, they failed to persuade me.
+[65] Mr. Lacombe is an experienced tax accountant. He is a consultant and has been a close advisor to the Fugère family since the early 1990s. He explained at length his various coaching roles in the estate freeze relating to Pièces Automobiles Lecavalier, in the sale to Ford in 1999 and in the purchase at issue here. At all stages of the transaction that led to the purchase of the shares of Greenleaf, he was Mr. Fugère’s advisor.
+[66] Mr. Lacombe was aware of the existence of the $24,000,000 debt owed by Greenleaf to Ford U.S., as he had had access to the internal financial statements of Greenleaf. Although he claimed he was unaware of the nature of the debt, it seems unlikely to me that an experienced tax specialist would not automatically have thought to seek further information when he knew that 3929761 Canada Inc. was going to acquire the shares and debt of Greenleaf for $9,750,000. It seems to me that such a situation would have raised the alarm with any tax specialist with regard to the application of the debt forgiveness rules in sections 80 and 80.01 of the ITA.
+[67] In conclusion, the appellant did not persuade me that the tax consequences were never considered prior to receiving the fax indicating the transactions that were to follow. It seems to me that the tax consequences were too significant and contemporary for no one to be concerned about them. If the transaction had been undertaken in the manner suggested in the final letter of offer, there would have been an inclusion in the appellant’s income of $5,700,000 in addition to the loss of the tax consequences. By proceeding with the debt clean-up, that possibility was avoided. From a purely Canadian perspective, neither way of proceeding had any impact on Ford U.S. However, for the appellant, there was a very real and immediate problem. Although this analysis is not essential to the determination at the second stage, I believe that it confirms my findings as to the existence of a series of transactions and the absence of bona fide purposes with respect to the debt clean-up transactions.
+Abusive tax avoidance
+[68] The GAAR can only be applied to deny a tax benefit where the Court finds that the abusive nature of the transaction is clear.[39] Subsection 245(4) of the ITA states as follows:
+245(4) Subsection (2) applies to a transaction only if it may reasonably be considered that the transaction
+(a) would, if this Act were read without reference to this section, result directly or indirectly in a misuse of the provisions of any one or more of
+(i) this Act,
+(ii) the Income Tax Regulations,
+(iii) the Income Tax Application Rules,
+(iv) a tax treaty, or
+(v) any other enactment that is relevant in computing tax or any other amount payable by or refundable to a person under this Act or in determining any amount that is relevant for the purposes of that computation; or
+(b) would result directly or indirectly in an abuse having regard to those provisions, other than this section, read as a whole.
+[69] In order to determine whether a transaction is an abuse or misuse of the Act, a court must first determine “the object, spirit or purpose of the provisions [of the ITA] that are relied on for the tax benefit, having regard to the scheme of the Act, the relevant provisions and permissible extrinsic aids.”[40] The object, spirit or purpose can be identified by taking a unified textual, contextual and purposive approach to statutory interpretation.[41]
+[70] Second, a court must consider whether the transaction falls within or frustrates the identified purpose.[42] As stated by Justice LeBel in Lipson, at paragraph 34, the abusive nature of a transaction that is part of a series will only become apparent in the context of that series and of the overall result that is achieved. Thus, where it is part of a series, the transaction must be considered in the context of the series in order for a determination to be made as to whether abusive tax avoidance has occurred.
+[71] The Court must find abusive tax avoidance in one of the following three circumstances: (1) where the transaction achieves an outcome the statutory provision was intended to prevent; (2) where the transaction defeats the underlying rationale of the provision; or (3) where the transaction circumvents the provision in a manner that frustrates or defeats its object, spirit or purpose.[43] It is possible that these considerations may overlap as they are not independent of one another. The Minister must clearly demonstrate that the avoidance transaction is an abuse of the Act, and the benefit of the doubt is given to the taxpayer.
+[72] The respondent submits that the avoidance transactions frustrated and circumvented the object, spirit and purpose of section 80 of the ITA in general. The respondent contends that, when a debtor benefits from a forgiveness of debt, it is the equivalent of income as there is an increase in the debtor’s net worth. In other words, the debtor’s economic power is increased by the amount of the forgiven debt. Moreover, where its debt is extinguished and the debtor has deducted expenses from its income, the expenses so deducted did not, in theory, cost the debtor anything.
+[73] The respondent submits that, if the debt had not been forgiven in part through the injection of capital and the subsequent repayment just before the sale, the debt parking rules would have applied. In other words, had the shares been sold for $9,750,000 when Greenleaf’s debt was more than $24,000,000, section 80.01 of the ITA with respect to debt parking would have applied and a forgiveness of debt would have been deemed to have taken place.
+[74] Finally, the respondent submits that paragraph 80(2)(g) of the ITA sets out the scheme that is applicable when shares of the capital stock of a corporation are issued as consideration for the settlement of a debt. According to the respondent, that is a provision which establishes an automatically applicable mechanism whereby the amount paid in satisfaction of the debt is deemed to be equal to the fair market value (FMV) of the shares. According to the respondent, the object of paragraph 80(2)(g) of the ITA is to have section 80 of the ITA apply where a debt is converted to equity and the shares thus issued have a fair market value that is less than the principal amount of the debt. Thus, in the case of an exchange of a debt for shares that are worth nothing or that have a lower fair market value, the debt forgiveness rules must be applied.
+[75] For its part, the appellant submits that sections 80 et seq. of the ITA are series of very clear rules, and that, since these rules are detailed and comprehensive, it is difficult to demonstrate the existence of an underlying policy that would go beyond what the legislation already provides.
+[76] The appellant also submits that there are two aspects to the tax policy underlying the section 80 scheme in the ITA. On the one hand, there is the increase in the debtor’s economic power which results from the debt forgiveness, and on the other hand, there is the deduction by the creditor of the loss on the bad debt. Thus, according to the appellant, since there was no deduction of the bad debt loss of Ford U.S. following the debt forgiveness, there was no abuse of the spirit, object and purpose of the ITA.
+[77] Finally, the appellant states that by undertaking the debt clean-up transactions, Ford U.S. simply put itself in the same situation it would have been in had it decided to capitalize its interest in Greenleaf rather than resorting to a combination of loans and shares. In that sense, there could not have been any abuse.
+[78] It should be noted that the appellant did not make any submissions on the object, spirit and purpose of paragraph 80(2)(g) of the ITA or section 80.01 of the ITA.
+Textual, contextual and purposive analysis
+[79] The three provisions of the ITA which were abused or misused according to the respondent are sections 80 and 80.01[44] in general and paragraph 80(2)(g).
+The object, spirit and purpose of the section 80 scheme
+The wording of the section 80 scheme
+[80] Where an assessment is issued on the basis of the GAAR, the text of the provision that generates the tax benefit will not specifically preclude that benefit. If the tax benefit was prohibited by the text, on reassessing the taxpayer, the Minister would only have to rely on the text and the GAAR would become superfluous. However, this does not mean that the text is irrelevant. In a GAAR assessment the text is considered to see if it sheds light on what the provision was intended to do.[45]
+[81] Sections 80 to 80.04 of the ITA set out a complex scheme of rules that apply where a commercial obligation[46] is settled or extinguished for an amount less than the lesser of the amount of the principal or the amount for which the obligation was issued.[47] Essentially, this scheme provides that the amount that the debtor will not have to repay (the forgiven amount) will reduce some of that debtor’s balances and tax consequences.
+[82] Rather than reproduce those provisions in detail (they take up about twenty pages in the ITA), I will first set out their structure. I will then analyze in more detail the relevant provisions referred to by the parties.
+I. Subsection 80(1) provides definitions that apply to section 80. The fundamental concepts are those of “forgiven amount” and “commercial obligation”.
+II. Subsection 80(2) states the set of rules that apply where there is debt forgiveness. It addresses, for instance, obligations that are settled or extinguished otherwise than by way of a bequest or inheritance,[48] or debts extinguished as consideration for shares.[49] It also deals with the order in which the subsequent subsections apply,[50] and the order in which obligations settled at the same time are treated as having been settled.[51]
+III. Subsections 80(3) to (18) form the substance of the rules that apply when there is debt forgiveness. Essentially, those subsections specify to what extent and in what order the “forgiven amount” will apply to reduce the debtor’s various tax consequences and balances. As for subsection 80(13), it provides for the inclusion of the balance when the forgiven amount is greater than the reduced tax accounts.
+IV. Section 80.01 sets out, among other things, the rules that apply to debt parking and the circumstances in which they apply.
+V. Section 80.02 sets out special rules that apply when a debtor issues distress preferred shares.
+VI. Section 80.03 states the circumstances under which a capital gain may be realized following the application of subsections 80(9), (10) or (11).
+VII. Section 80.04 sets out the terms and conditions under which a debtor may transfer the unused fraction of a forgiven amount to an eligible corporation or eligible partnership.
+[83] As noted above, section 80 sets out the tax consequences for a debtor whose commercial obligation has been forgiven. Subsection 80(1) of the ITA provides the following definitions of “commercial obligation”, “commercial debt obligation” and “forgiven amount”:
+S. 80(1) “commercial obligation” issued by a debtor means
+(a) a commercial debt obligation issued by the debtor, or
+(b) a distress preferred share issued by the debtor;
+S. 80(1) “commercial debt obligation” issued by a debtor means a debt obligation issued by the debtor
+(a) where interest was paid or payable by the debtor in respect of it pursuant to a legal obligation, or
+(b) if interest had been paid or payable by the debtor in respect of it pursuant to a legal obligation,
+an amount in respect of the interest was or would have been deductible in computing the debtor’s income, taxable income or taxable income earned in Canada, as the case may be, if this Act were read without reference to subsections 15.1(2) and 15.2(2), paragraph 18(1)(g), subsections 18(2), (3.1) and (4) and section 21;
+S. 80(1) “forgiven amount” at any time in respect of a commercial obligation issued by a debtor is the amount determined by the formula
+A – B
+where
+A
+is the lesser of the amount for which the obligation was issued and the principal amount of the obligation, and
+B
+is the total of
+(a) the amount, if any, paid at that time in satisfaction of the principal amount of the obligation,
+(b) the amount, if any, included under paragraph 6(1)(a) or subsection 15(1) in computing the income of any person because of the settlement of the obligation at that time,
+(c) the amount, if any, deducted at that time under paragraph 18(9.3)(f) in computing the forgiven amount in respect of the obligation,
+(d) the capital gain, if any, of the debtor resulting from the application of subsection 39(3) to the purchase at that time of the obligation by the debtor,
+(e) such portion of the principal amount of the obligation as relates to an amount renounced under subsection 66(10), (10.1), (10.2) or (10.3) by the debtor,
+(f) any portion of the principal amount of the obligation that is included in the amount determined for A, B, C or D in subsection 79(3) in respect of the debtor for the taxation year of the debtor that includes that time or for a preceding taxation year,
+(g) the total of all amounts each of which is a forgiven amount at a previous time that the obligation was deemed by subsection 80.01(8) or (9) to have been settled,
+(h) such portion of the principal amount of the obligation as can reasonably be considered to have been included under section 80.4 in computing the debtor’s income for a taxation year that includes that time or for a preceding taxation year,
+(i) where the debtor is a bankrupt at that time, the principal amount of the obligation,
+(j) such portion of the principal amount of the obligation as represents the principal amount of an excluded obligation,
+(k) where the debtor is a partnership and the obligation was, since the later of the creation of the partnership or the issue of the obligation, always payable to a member of the partnership actively engaged, on a regular, continuous and substantial basis, in those activities of the partnership that are other than the financing of the partnership business, the principal amount of the obligation, and
+(l) the amount, if any, given at or before that time by the debtor to another person as consideration for the assumption by the other person of the obligation.
+[84] Under the section 80 scheme in the ITA, a debtor realizes a gain on the settlement of a debt when an amount has been forgiven by the debtor’s creditor. The forgiven amount then reduces, pursuant to subsections 80(3) to 80(7) of the ITA, the following tax consequences:
+• Non-capital losses;[52]
+• Capital losses;[53]
+• Balance of the various UCCs;[54]
+• Balance of the CEC.[55]
+[85] Then, pursuant to subsections 80(8) to 80(12) of the ITA, the remaining unapplied portion of the forgiven amount reduces, in the following order:
+• Certain resource expenditures;[56]
+• The adjusted cost bases of certain capital properties;[57]
+• The adjusted cost bases of certain shares and debts;[58]
+• The adjusted cost bases of certain shares, debts and partnership interests;[59]
+• Current year capital losses.[60]
+[86] If there is still a balance, the amount referred to in subsection 80(13) of the ITA must be included in the debtor’s income, subject to a possible balance transfer to a corporation related to the debtor under section 80.04 of the ITA.
+Context of the section 80 scheme
+[87] The consideration of the context of sections 80 et seq. involves an examination of other sections of the ITA, as well as of permissible extrinsic aids.[61] The appellant submits that the provisions allowing a creditor to avail itself of a deduction for bad debt must be read as being part of the context of section 80 of the ITA. Thus, according to the appellant, the object, spirit and purpose of section 80 of the ITA would be twofold in the sense that they would include both the enrichment of the debtor and the deduction by the creditor of the forgiven debt.
+[88] For the debtor, a gain on the settlement of a debt would be “current” or “capital” in nature depending on whether the debt is of a “capital” nature or is related to the taxpayer’s day-to-day transactions. When the forgiven debt is “current” in nature and the basic rules for computing profits require that an amount be included in computing income for the taxation year under section 9 of the ITA, section 80 of the ITA will not apply.[62] Only when the debt is of a “capital” nature will its forgiveness result in the application of section 80 of the ITA for the debtor.
+[89] Similarly, the tax treatment of a bad debt for the creditor will follow the same logic. If the debt is of a current nature, the creditor will, in certain very specific circumstances, be able to deduct it from income pursuant to paragraph 20(1)(p) of the ITA. However, if the debt is of a capital nature, the creditor will also, under certain terms and conditions, be able to deduct it from income under section 39 or section 50 of the ITA, subject to subparagraph 40(2)(g)(ii) of the ITA.
+[90] The sections allowing a creditor to deduct his or her loss on a debt are found either in Subdivision b (Income or Loss from a Business or Property) or in Subdivision c (Taxable Capital Gains and Allowable Capital Losses). As for section 80 of the ITA, it is found in Subdivision f (Rules Relating to Computation of Income).
+[91] The sections allowing a creditor to deduct a bad debt apply in very specific situations; they apply independently and in a much broader context than that in which section 80 of the ITA applies. Furthermore, the scheme presented by section 80 of the ITA sets out, independently, the consequences for a debtor of the forgiveness of a commercial obligation. In my view, there is no symmetry between the two schemes. Paragraph 20(1)(p), section 50 and subsection 39(1) of the ITA specify how creditors can deduct a bad debt in certain instances (including cases in which there is debt forgiveness). Thus, it is possible that a given legal situation will result in the simultaneous application of both schemes. I do not believe, however, that the aforementioned provisions and the principles flowing therefrom are part of the context, spirit and purpose of section 80 of the ITA.
+Purpose of the section 80 scheme
+[92] This last step of the analysis advocated by the Supreme Court seeks to ascertain what outcome Parliament intended a provision or provisions to achieve, amidst the myriad of purposes promoted by the Act.[63] Prior to tax reform in 1972, gains on debt forgiveness were not taxed because they were considered as gains of a capital nature. It is in the Report of the Royal Commission on Taxation (Carter Report) that the recommendations which formed the basis of the introduction of the debt forgiveness rules in section 80 of the ITA can be found.
+[93] At pages 528-29 of volume 3 of the Report, the Commission wrote as follows:
+We believe that when a debt is cancelled the debtor has, in effect, received income. For, as the cancellation of liabilities increases a person's net assets, his economic power is increased by the amount of the debt cancelled. Where a debtor who is in business has one or more of his debts cancelled, he has claimed expenses or has recorded assets which in fact will have cost him nothing. Income in prior years has, therefore, been understated, and it appears only reasonable to require an offsetting adjustment in the current year. Because such an adjustment will usually only arise when there is a loss, it will serve to reduce the loss rather than to create taxable income.
+[94] In terms of the symmetry between the scheme applicable to a debtor and that applicable to a creditor, the Commission wrote as follows at page 529:
+We are not recommending that the borrower should necessarily be considered to have received income at the time the lender merely writes off all or some portion of the debt. Although to regard income as arising to one party at the time the expense was recorded by the other party has the virtue of consistency, such treatment would not be practical in this case, and in fact may not be theoretically correct, because the borrower might still regard his obligation as a liability that he intended to meet.
+[95] Following the establishment of the debt forgiveness scheme, substantial changes were introduced in sections 80 et seq.[64] of the ITA. According to the Supplementary Information and Notices of Ways and Means Motions on the Budget of February 22, 1994,[65] the budget proposed a number of changes to the debt settlement rules. Those changes pertained, for instance, to the inclusion in income of the undeducted parked amount balance, to the debt parking rules or to distress preferred shares.
+[96] It is only in the preamble to the “Debt Forgiveness and Foreclosures” section of that document, at page 36, that reference is made to the creditor:
+The rationale for section 80 is that debt enables a debtor to acquire property or make expenditures that give rise to deductions in computing income. To the extent that debt is forgiven, the cost of the expenditures has not been borne by the debtor and should therefore not be recognized for tax purposes. Moreover, given that creditors are generally able for income tax purposes to recognize losses arising from lending funds that are not repaid, it is reasonable that corresponding gains to debtors be recognized for income tax purposes.
+(Emphasis added.)
+[97] In the Explanatory Notes to Draft Legislation on Debt Forgiveness and Foreclosures,[66] there is no reference to symmetry of the schemes. The Explanatory Notes of February 1995[67] that followed the passage of the bill are also silent on this issue.
+[98] The Explanatory Notes of 2012 relating to sections 80-80.04[68] read as follows:
+Sections 80 to 80.04 of the Act set out the rules that apply when an obligation is settled or extinguished for less than its principal amount or the amount for which it was issued. When such a commercial debt obligation is settled or extinguished, it gives rise to a “forgiven amount” as defined in subsection 80(1). A forgiven amount in respect of a commercial debt obligation issued by a debtor is required to be applied against certain tax pools of the debtor, in a specified order, as provided in subsections 80(3) to (12). In general, subsection 80(13) requires that one half of any remaining unapplied portion of the forgiven amount be included in computing the debtor’s income, unless it can be transferred to another taxpayer under section 80.04.
+The judicial treatment of section 80
+[99] In Carma Developers Ltd. v. Canada,[69] at paragraph 23, Judge Bowman, as he then was, stated with respect to section 80 of the ITA:
+. . . The effect of section 80 is to ascribe certain specific tax consequences to a formal and binding forgiveness or reduction of debt. . . . It is presumably based on the rather sensible assumption that business indebtedness is incurred to pay expenses laid out in the computation of losses or to pay for depreciable or other property used in the business and when those debts are forgiven or reduced this fact should be reflected in some manner in the computation of income or taxable income by the reduction of such losses or the cost of capital properties. . . .
+[100] In Jabin Investments Ltd v. Canada,[70] the Federal Court of Appeal confirmed the findings of the trial judge with respect to the application of the GAAR in section 80 of the ITA in a context where the debt was not legally extinguished. The Court states at paragraph 4 that it is not satisfied that there is a clear and unambiguous policy that debts that are not legally extinguished are to be treated as if they were. The Court upholds, however, the trial judge’s conclusion that the “the policy intended by Parliament was to impose tax consequences [only] where a debt was legally extinguished”.[71] Although that judgment only deals with whether a debt was legally extinguished or not, it is relevant insofar as there is recognition that the scheme set out in section 80 of the ITA may have one or more underlying policies that extend beyond that of taxing debtors on income each time a debt is forgiven them.
+Conclusion on the object, spirit and purpose of the section 80 scheme in the ITA
+[101] As stated above, the appellant submits that the object, spirit and purpose of the scheme set out in section 80 et seq. of the ITA is twofold. On the one hand, there is the reduction in the tax consequences and the inclusion of the economic gain by the debtor and, on the other hand, there is the deduction of the loss on the bad debt by the creditor. With respect, the analysis does not allow me to arrive at such a conclusion.
+[102] The textual, contextual and purposive analysis shows a scheme which applies only to debtors of a settled or extinguished debt whose amount is less than the lesser of the principal amount and the amount for which the obligation was issued. The appellant’s position on the duality of the object, spirit and purpose is primarily based on the supplementary information and notices of ways and means motions document of February 22, 1994, where it is mentioned for the first time that creditors are generally able to recognize losses arising from lending funds that are not repaid. However, this simple statement alone does not support a conclusion that the object, spirit and purpose of section 80 of the ITA have the scope that the appellant would give them.
+[103] I find that the object, spirit and purpose of this section are to ensure that the tax consequences for debtors who benefited from a gain on the forgiveness of a debt, and who also benefited from expenses or deductions, are adjusted accordingly.
+Object, spirit and purpose of subsections 80.01(6), (7) and (8) of the ITA
+[104] Subsections 80.01(6), (7) and (8) of the ITA read as follows:
+(6) For the purpose of subsection (7), an obligation issued by a debtor is, at a particular time, a specified obligation of the debtor where
+(a) at any previous time (other than a time before the last time, if any, the obligation became a parked obligation before the particular time),
+(i) a person who owned the obligation
+(A) dealt at arm’s length with the debtor, and
+(B) where the debtor is a corporation, did not have a significant interest in the debtor, or
+(ii) the obligation was acquired by the holder of the obligation from another person who was, at the time of that acquisition, not related to the holder or related to the holder only because of paragraph 251(5)(b); or
+(b) the obligation is deemed by subsection 50(1) to be reacquired at the particular time.
+Parked obligation
+(7) For the purposes of this subsection and subsections (6), (8) and (10),
+(a) an obligation issued by a debtor is a “parked obligation” at any time where at that time
+(i) the obligation is a specified obligation of the debtor, and
+(ii) the holder of the obligation
+(A) does not deal at arm’s length with the debtor, or
+(B) where the debtor is a corporation and the holder acquired the obligation after July 12, 1994 (otherwise than pursuant to an agreement in writing entered into on or before July 12, 1994), has a significant interest in the debtor; and
+(b) an obligation that is, at any time, acquired or reacquired in circumstances to which subparagraph 6(a)(ii) or paragraph 6(b) applies shall, if the obligation is a parked obligation immediately after that time, be deemed to have become a parked obligation at that time.
+(8) Where at any particular time after February 21, 1994 a commercial debt obligation that was issued by a debtor becomes a parked obligation (otherwise than pursuant to an agreement in writing entered into before February 22, 1994) and the specified cost at the particular time to the holder of the obligation is less than 80% of the principal amount of the obligation, for the purpose of applying the provisions of this Act to the debtor
+(a) the obligation shall be deemed to have been settled at the particular time; and
+(b) the forgiven amount at the particular time in respect of the obligation shall be determined as if the debtor had paid an amount at the particular time in satisfaction of the principal amount of the obligation equal to that specified cost.
+[105] Subsections (6) and (7) must be read together. Essentially, subsection (7) sets out the necessary conditions for an obligation to be characterized as a parked obligation. One of those conditions is that the obligation must be a specified obligation under subsection (6). Under subparagraph 80.01(6)(a)(i), a specified obligation is an obligation of a person who at a particular time owned the obligation and dealt at arm’s length with the debtor or, where the debtor is a corporation, did not have a significant interest in the debtor. Also, under subparagraph 80.01(6)(a)(ii), a specified obligation may be an obligation acquired by the holder of the obligation from a person who was, at the time of that acquisition, not related to the holder.
+[106] Subsection (8) creates a presumption whereby a parked obligation whose cost to its holder is less than 80% of the principal amount of the obligation shall be deemed to have been settled. The effect of that presumption is to trigger the application of the debt parking rules found in section 80 of the ITA.
+Context of subsections 80.01(6), (7) and (8) of the ITA
+[107] The context of section 80.01 is relatively simple. This section creates a set of presumptions that, in certain specific circumstances, result in a debt settlement and, accordingly, in the application of section 80. Thus, the purpose of section 80.01 is to bring within the purview of section 80 certain specific situations that would not otherwise be covered by section 80 itself.
+[108] For instance, with respect to mergers and wind-ups, subsections 80.01 (3), (4) and (5) presume that there will be a debt settlement upon the occurrence of certain events. As regards dispositions of debts to unrelated third parties or between persons not dealing with each other at arm’s length, it is subsections 80.01 (6), (7) and (8) that provide for the application of the debt parking scheme.
+Purpose of subsections 80.01(6), (7) and (8) of the ITA
+[109] Extrinsic documents show quite clearly Parliament’s intention in passing in 1995 the statutory amendments relating to debt parking.
+[110] For instance, according to the Supplementary Information and Notices of Ways and Means Motions on the Budget tabled in the House of Commons on February 22, 1994, by the Minister of Finance (at page 37):
+Third, an amendment is proposed to address “debt parking” transactions. These transactions involve debt owed by a debtor to a financial institution or other unrelated creditor. Instead of forgiving all or part of the debt, the unrelated creditor typically sells the debt at a substantial discount to a person with whom the debtor does not deal at arm’s length at the time of the sale (or at a subsequent time after there has been a change of control of the debtor). Once sold to the new creditor, there is an incentive for the new creditor to leave the debt outstanding indefinitely because of the application of the rules in section 80. It is proposed to treat such “parked” debt . . . as if it were settled for an amount equal to the cost of the debt to the new creditor.
+(Emphasis added.)
+[111] It is also apparent from the Draft Legislation on Debt Forgiveness and Foreclosures ,[72] at page 82, that
+Subsection 80.01(8) contains a rule that is designed to counter the “parking” of a commercial debt obligation. In general terms, it can apply where an obligation originally issued by a debtor to one creditor is transferred, directly or indirectly, to another creditor who is related to the debtor or is a specified shareholder of the debtor. . . .
+[112] And it is apparent, at page 83, that:
+. . . subsection 80.01(8) provides a de minimis rule which provides that the above rules do not apply to an obligation issued by a debtor unless the specified cost to the current creditor of the obligation is less than 80% of its principal amount.
+[113] A review of these documents shows that Parliament proposed certain changes in 1994 so that the scheme applicable to debt forgiveness could no longer be circumvented by carrying out certain transactions aimed at “parking” debts, primarily between persons not dealing with each other at arm’s length. However, Parliament did provide a de minimis exception according to which this scheme would not apply where such debt was acquired for an amount greater than 80% of its principal amount.
+Conclusion on the object, spirit and purpose of subsections 80.01(6), (7) and (8) of the ITA
+[114] In passing these statutory amendments in 1995, Parliament intended to prevent taxpayers from disposing of an obligation in circumstances that could be assimilated to those of debt forgiveness but which fell outside the purview of the section 80 scheme. More specifically, the textual, contextual and purposive analysis leads to me conclude that the object, spirit and purpose of subsections 80.01(6), (7) and (8) is to ensure that certain dispositions of debt which amount in substance to debt forgiveness are treated in the same manner as “classic” debt forgiveness under section 80.
+Object, spirit and purpose of paragraph 80(2)(g) of the ITA
+[115] The appellant did not make any submissions on the abuse of the object, spirit and purpose of paragraph 80(2)(g). This is not, however, crucial as at this stage the onus is on the respondent to demonstrate that there has been an abuse of the object, spirit and purpose of the provisions relied upon.
+[116] Paragraph 80(2)(g) reads as follows:
+80 (2) For the purposes of this section,
+(g) where a corporation issues a share (other than an excluded security) to a person as consideration for the settlement of a debt issued by the corporation and payable to the person, the amount paid in satisfaction of the debt because of the issue of the share is deemed to be equal to the fair market value of the share at the time it was issued.
+[117] Paragraph 80(2)(g) provides for a situation in which a debtor corporation issues new shares of its capital stock as consideration for the settlement of the debt by the creditor. In such a situation, the amount paid in satisfaction of the debt is deemed to be equal to the FMV of the shares at the time they were issued. The amount paid in satisfaction of the debt is the key element of “B” in the definition of “forgiven amount”. Thus, the amount forgiven for the purposes of reducing tax consequences would be equal to the principal amount of the debt less the FMV of the shares at the time they were issued.
+Context of paragraph 80(2)(g)
+[118] The contextual analysis prompts us to look at the various provisions around which paragraph 80(2)(g) revolves. The set of rules contained in the various paragraphs of subsection 80(2) are rules of automatic application that set out presumptions governing debt forgiveness. Specifically, paragraph 80(2)(g) establishes a presumption that, where a debt is settled as consideration for shares, the amount paid for the debt forgiveness is equal to the FMV of the shares issued as consideration.
+Purpose of paragraph 80(2)(g)
+[119] As stated earlier, the analysis of the purpose of the provisions relied upon seeks to ascertain the outcome sought by Parliament at the time of their enactment.[73] From the wording of paragraph 80(2)(g) and from the context of section 80, it is fairly easy to discern Parliament’s intention in adopting this rule. A debtor whose debt has been forgiven for an amount less than its principal receives an economic benefit. Parliament sought to restore balance in this situation by introducing the section 80 scheme, which provides for a reduction in certain tax balances and, ultimately, inclusion in income. To prevent taxpayers from easily circumventing this general scheme through “corporate manipulations”, Parliament introduced certain measures to address specific situations,[74] one of these measures being paragraph 80(2)(g). That paragraph addresses situations where the creditor and the debtor would have an interest in transforming the debt into capital stock, for example for the purpose of writing off a liability for the debtor. In such a situation, the debt forgiven as consideration for the shares would be presumed to have been forgiven for an amount equal to the FMV of the shares issued. Thus, if the shares issued as consideration for the settlement have no value, the amount paid in satisfaction of the debt will be nil. The smaller the amount paid and the higher the forgiven amount to be applied to reduce the balances and tax consequences, the more important it is to prevent taxpayers from circumventing the debt forgiveness rules by issuing shares.
+Conclusion on the object, spirit and purpose of the ITA’s paragraph 80(2)(g) scheme
+[120] The textual, contextual and purposive analysis leads me to conclude that the object, spirit and purpose of paragraph 80(2)(g) is to ensure, where a debt is settled in exchange for shares, that the debt forgiveness rules apply through the taking into account of the value of the shares issued. Parliament did not intend that the debt forgiveness rules could be circumvented by transforming a debt into shares of lesser value. Parliament wanted the forgiven amount to reflect the FMV of the underlying shares.
+Was there a misuse or abuse of the provisions of the ITA?
+[121] First of all, the purpose of the scheme set out in section 80 is to ensure that the tax consequences for debtors who have benefited from a gain on the forgiveness of a debt, and who have also had the benefit of expenses or deductions, are adjusted accordingly. Moreover, as stated earlier, in adopting section 80.01 of the ITA, Parliament intended to prevent taxpayers from disposing of an obligation in circumstances that can be assimilated to those of debt forgiveness while escaping the application of the ITA’s section 80 scheme.
+[122] The appellant was running a deficit and owed Ford U.S. over $24,000,000. If the series of avoidance transactions had not occurred immediately before the sale, the shares and the debt of approximately $24,000,000 would have been sold for $9,750,000. Under paragraph 80.01(6)(b), at that time the debt would have become a specified obligation. Under subsection 80.01(7), this specified obligation would have been characterized as a parked obligation and, since it would have been acquired for less than 80% of its principal amount, it would have been considered under subsection 80.01(8) as a forgiveness of debt pursuant to section 80. Consequently, all of the appellant’s tax balances would have been reduced and the appellant would have had to include in its income for 2002 an amount of $5,000,700 pursuant to subsection 80(13).
+[123] By injecting “temporary” capital, the appellant artificially reduced the debt in order to benefit from the de minimis exception and thus avoid the application of the debt parking rules. In addition, by proceeding in that fashion, the appellant was able to benefit from a loan of over $24,000,000 and discharge its obligation to pay approximately $14,000,000 while still being able to benefit from expenses and deductions in relation to this loan.
+[124] Thus, by undertaking the avoidance transactions, the appellant clearly circumvented the application of sections 80 and 80.01 in a manner that frustrated or defeated the object, spirit or purpose of those provisions. Therefore, the debt clean-up transactions were clearly abusive avoidance transactions and, in that respect, the application of the GAAR is justified.
+[125] If there was no misuse or abuse of sections 80 and 80.01, the application of the GAAR would still be justified as the avoidance transactions are also abusive with respect to paragraph 80(2)(g). Although I mentioned it earlier, it is important to point out that, for some unknown reason, the appellant did not make any submissions with regard to that paragraph.
+[126] The object, spirit and purpose of paragraph 80(2)(g) are to ensure that, where a debt is settled in exchange for shares, the debt forgiveness rules apply through the taking into account of the true value of the shares issued. If the newly issued shares are of little value, the forgiven amount will be low and the tax consequences will be reduced to a greater degree. By enacting that paragraph, Parliament intended to prevent taxpayers from transforming a debt into shares with little value and from thereby avoiding the application of the debt forgiveness rules.
+[127] Here, since the issuance of the shares was followed by the repayment of capital and interest, the FMV of the shares was high at the time of their issuance but their real value decreased immediately after the repayment. It is true that, without the GAAR, paragraph 80(2)(g) would not trigger the application of the debt forgiveness rules. By proceeding in two stages rather than directly converting debt into shares, the appellant circumvented the application of paragraph 80(2)(g) and thus avoided a gain on debt forgiveness. It appears clear to me that the two avoidance transactions that led to the tax benefit were aimed at circumventing the application of the provision in a manner that frustrated or defeated the object, spirit and purpose of that provision. From the perspective of paragraph 80(2)(g), the debt clean-up transactions were therefore abusive avoidance transactions.
+[128] The appellant stated that ultimately there was no misuse or abuse because, by undertaking the debt clean-up transactions, Ford U.S. simply put itself in the same position as it would have been in had it decided to capitalize its interest in Greenleaf rather than resorting to a combination of loans and shares. With respect, such a proposition cannot be accepted. The funding vehicle chosen by the parent company, whether it be capitalization or loans, comes with its own set of advantages and drawbacks. It is a choice made, one would hope, with full knowledge of the situation, and the taxpayer must live with the tax and financial consequences of that choice.
+[129] In summary, I find that the debt clean-up transactions were not carried out in conformity with the object, spirit and purpose of the debt forgiveness and debt parking provisions and that, in that sense, they resulted in tax avoidance that constituted an abuse with regard to sections 80 and 80.01, or in the alternative, paragraph 80(2)(g).
+[130] For these reasons, I dismiss the appeals with costs.
+Signed at Ottawa, Canada, this 28th day of March 2014.
+These amended reasons for judgment are being issued to replace the reasons for judgment dated October 2, 2013.
+“Paul Bédard”
+Bédard J.
+Translation certified true
+on this 23rd day of April 2014.
+Erich Klein, Revisor
+CITATION: 2013 TCC 310
+COURT FILE NO.: 2011-952(IT)G
+STYLE OF CAUSE: PIÈCES AUTOMOBILES LECAVALIER INC. v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Montreal, Quebec
+DATE OF HEARING: February 12 and 13, 2013
+AMENDED REASONS
+FOR JUDGMENT BY: The Honourable Justice Paul Bédard
+DATE OF JUDGMENT: March 28, 2014
+APPEARANCES:
+Counsel for the appellant:
+Louis Tassé
+Marie-Claude Marcil
+Counsel for the respondent:
+Natalie Goulard
+COUNSEL OF RECORD:
+For the appellant:
+Name: Louis Tassé
+Marie-Claude Marcil
+Firm: Couzin Taylor LLP
+Montreal, Quebec
+For the respondent: William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Under subsection 80(13) of the ITA.
+[2] The amount of the debt as of December 2 was $9,750,000, which included the principal amount of $9,465,163 as of November 15 plus accrued interest.
+[3] Canada Trustco Mortgage Co. v. Canada, 2005 SCC 54 (Trustco).
+[4] Lipson v. Canada, [2009] S.C.J. No. 1 (Lipson).
+[5] Copthorne Holdings Ltd. v. Canada, [2011] S.C.J. No. 63 (Copthorne).
+[6] Commissioners of Inland Revenue v. Duke of Westminster, [1936] A.C. 1. (Duke of Westminster).
+[7] See Copthorne, supra, note 5, at para. 66.
+[8] See Trustco, supra, note 3, at para. 21.
+[9] See Copthorne, supra, note 5, at paras. 66 and 109.
+[10] See Trustco, supra, note 3, at paras. 63 to 65.
+[11] See Trustco, supra, note 3, at para. 21.
+[12] See Trustco, supra, note 3, at para. 21.
+[13] See Trustco, supra, note 3, at para. 63.
+[14] See in this regard Hickman Motors Ltd. v. Canada, [1997] 2 S.C.R. 336, at para. 92.
+[15] See Copthorne, supra, note 5, at para. 40.
+[16] See Copthorne, supra, note 5, at para. 41.
+[17] See Trustco, supra, note 3, at para. 22.
+[18] OSFC Holdings Ltd. v. Canada, [2001] F.C.J. No. 1381, at para. 41 (OSFC).
+[19] See OSFC, supra, note 18, at para. 24.
+[20] Tab 18 in the appellant’s list of additional documents.
+[21] See letter dated October 9, 2002, filed as Exhibit A-2, tab 23, containing the following: “Pursuant to our various telephone discussions with the tax experts at Ford Canada and their tax advisors”.
+[22] In U.S. tax law.
+[23] See Copthorne, supra, note 7, at para. 59, and Trustco, supra, note 3, at paras. 28 and 29.
+[24] See Copthorne, at para. 63, and Trustco, at paras. 63 to 66.
+[25] See Trustco, at para. 29.
+[26] Blatch v. Archer, (1774), 1 Cowp. 63, 98 E.R. 969.
+[27] Lévesque v. Comeau, [1970] S.C.R. 1010, at pp. 1012-1013 (Lévesque v. Comeau).
+[28] Milliken & Co. v. Interface Flooring Systems (Canada) Inc., [2000] F.C.J. No. 129, at paras. 11 and 12. See also Apotex Inc. v. Merck & Co., 2011 FCA 363.
+[29] R. v. Jolivet, 2000 SCC 29 (Jolivet).
+[30] Ibid., at para. 26.
+[31] Sopinka, Lederman & Bryant, The Law of Evidence in Canada, 2nd ed., Butterworths, at p. 297 (Sopinka).
+[32] See Jolivet, supra, note 29, at para. 28.
+[33] Ibid.
+[34] Ibid.
+[35] Downey v. Canada, 2005 TCC 810.
+[36] Downey v. Canada, 2006 FCA 353.
+[37] Teelucksingh v. Canada, 2011 TCC 22, [2011] 2 C.T.C. 2441.
+[38] Morley v. Canada, 2004 TCC 280. Affirmed on appeal 2006 FCA 171.
+[39] See Copthorne, supra, note 5, at para. 68.
+[40] See Trustco, supra, note 3, at para. 55, and Copthorne, supra, note 5, at para. 69.
+[41] See Trustco, at para. 57; Lipson, supra, note 4, at para. 26; and Copthorne, at para. 70.
+[42] See Copthorne, at para. 71, and Trustco, at para. 44.
+[43] See Trustco, at para. 45, and Copthorne, at para. 72.
+[44] More specifically, subsections 80.01(6) to (8).
+[45] See Copthorne, supra, note 5, at para. 88.
+[46] See subsection 80(1) “commercial obligation”.
+[47] See subsection 80(1) “forgiven amount”.
+[48] See paragraph 80(2)(a).
+[49] See paragraph 80(2)(g).
+[50] See paragraph 80(2)(c).
+[51] See paragraph 80(2)(i).
+[52] See subsection 80(3).
+[53] See subsection 80(4).
+[54] See subsection 80(5).
+[55] See subsection 80(7).
+[56] See subsection 80(8).
+[57] See subsection 80(9).
+[58] See subsection 80(10).
+[59] See subsection 80(11).
+[60] See subsection 80(12).
+[61] See Trustco, supra, note 3, at para. 55 and Copthorne, supra, note 5, at para. 91.
+[62] Indeed, paragraph (d) of the definition of “excluded obligation” in subsection 80(1) of the ITA provides that this section does not apply to obligations that would, if the ITA were read without reference to section 80, be included in computing the debtor’s income.
+[63] See Copthorne, supra, note 5, at para.113.
+[64] These changes were introduced in 1995.
+[65] Department of Finance Canada, Supplementary Information and Notices of Ways and Means Motions on the Budget. Tabled in the House of Commons by the Honourable Paul Martin, P.C., M.P., Minister of Finance, February 22, 1994.
+[66] Department of Finance Canada, Draft Legislation on Debt Forgiveness and Foreclosures, Explanatory Notes. Published by the Honourable Paul Martin, P.C., M.P., Minister of Finance, July 1994.
+[67] Explanatory Notes, Income Tax Act, sections 80-80.04. February 1995.
+[68] Explanatory Notes, Income Tax Act, sections 80-80.04. October 24, 2012.
+[69] Carma Developers Ltd. v. Canada, [1996] T.C.J. No. 428.
+[70] Jabin Investments Ltd v. Canada, [2002] F.C.J. No. 1819.
+[71] Jabin Investments Ltd v. Canada, [2001] T.C.J. No. 766, at para. 46.
+[72] Department of Finance Canada, Draft Legislation on Debt Forgiveness and Foreclosures published by the Honourable Paul Martin, P.C., M.P., Minister of Finance, July 1994.
+[73] See Copthorne, supra, note 5, at para. 113.
+[74] The various paragraphs of subsection 80(2) are examples of this, as is the scheme in subsections 80.01(3), (4) and (5).

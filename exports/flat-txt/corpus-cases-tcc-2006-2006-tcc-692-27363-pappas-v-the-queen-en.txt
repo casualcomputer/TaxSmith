@@ -1,0 +1,125 @@
+Title: Pappas v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27363/index.do
+Corpus path: corpus/cases/tcc/2006/2006-tcc-692-27363-pappas-v-the-queen-en.md
+Document type: case_law
+Last modified: 2006-12-20
+
+# Pappas v. The Queen
+
+- Citation: 2006 TCC 692
+- Decision date: 2006-12-20
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 185, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Pappas v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-12-20
+Neutral citation
+2006 TCC 692
+File numbers
+2006-812(GST)I
+Judges and Taxing Officers
+Campbell J. Miller
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2006-812(GST)I
+BETWEEN:
+JACQUELINE AND THEODORE PAPPAS,
+Appellants,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on November 6, 2006, at Vancouver, British Columbia, by
+The Honourable Justice Campbell J. Miller
+Appearances:
+Agent for the Appellants:
+Theodore Pappas
+Counsel for the Respondent:
+Pavanjit Mahil
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Excise Tax Act, notice of which is dated April 19, 2005, and bears number 11BU0503775, for the period January 1, 2001 to December 31, 2002, is allowed and the matter is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the penalties are waived.
+Signed at Ottawa, Canada, this 20th day of December 2006.
+"Campbell J. Miller"
+Miller J.
+Citation: 2006TCC692
+Date: 20061220
+Docket: 2006-812(GST)I
+BETWEEN:
+JACQUELINE AND THEODORE PAPPAS,
+Appellants,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+[1] Mr. Theodore Pappas appeals, by way of the informal procedure, the assessment of the Minister of National Revenue (the Minister) of additional net goods and services tax (GST) for the period January 1, 2001 to December 31, 2002 of $20,562.88, plus penalties of $4,516.55 and interest of $2,002.66. His main objection is summarized in the following two passages from an Amended Notice of Appeal:
+We also believe and protest that under our rights and freedoms afforded us by our Charter of Rights that our government cannot and should not continue to force its citizens of conscience and religious conviction to be citizen tax collectors. It is unconscionable to many that in order to have a business license, citizens are forced to become something considered sinful in the eyes of God. I might also add that all Canadians in business are forced to be tax collectors without compensation and have to subsidize the collection of these taxes, as well as the policing and enforcing of the law in the collection of these taxes under threat of prosecution and persecution. We protest this issue on behalf of all Canadians in business.
+...
+My contention is this:
+a. I have never wanted to be a citizen tax collector.
+b. I have no freedom of choice in this matter. I cannot exercise my God given right of free will as guaranteed to me through the supremacy of God and the observance of God's law.
+c. I cannot have a business license without being forced against my conscientious will to be a tax collector.
+d. As a conscientious Christian I must abide by Christ's teaching at The Sermon on the Mount: when asked by a tax collector, "Lord what must I do to be saved?" the response was thus: "Ye cannot serve God and mammon" Matt. VI/24
+e. Yet it would appear the position of the C.C.R.A. is that civil rights are incidental to the service of mammon and this is an affront to God and country. "Mammon, the god or prince of this world, that is, the god and prince of usurers and penny fathers" (please read "niggards" or "penurious persons") (quotation by Nash).
+[2] Mr. Pappas also challenged the correctness of the assessment on the basis that he never was fully informed by Canada Revenue Agency (CRA), subsequent to changes to the Excise Tax Act (the Act) in 1997, as to how to properly calculate GST owing. He maintains that he calculated and remitted GST in accordance with advice received from CRA. I reject Mr. Pappas' challenge of the constitutionality of the GST legislation. I also find the assessment of the Minister for GST is correct, but in the circumstances no penalty is warranted.
+Facts
+[3] Mr. Pappas is an auctioneer and an evaluator of art works and other assets. He indicated that when GST legislation was first introduced, he simply would charge GST on the sale price of the item sold by auction, accept the proceeds in trust for the vendor, and then remit an amount to the vendor, having deducted the commission and the GST on such commission. He retained the GST and commission to offset input tax credits (ITCs), according to Mr. Pappas. New rules were introduced in 1997, specifically subsection 177(1.2) of the Act. Despite requests to CRA, Mr. Pappas maintains that he has never received written clarification as to how to properly apply the new rules to his business. Considerable testimony was given as to the complexities of transactions run through the Internet. As during the relevant period, there was little activity in that regard, this evidence is not crucial to the particular assessment. I will not therefore go over it.
+[4] Mr. Pappas diligently filed his GST returns monthly throughout 2001 and 2002. As he believed the impact of the new rules was negatively affecting income, he instituted a buyer's premium, as well as continuing to charge a vendor's commission on auctioned items. This further complicated the GST treatment in Mr. Pappas' view. He suggested the interpretation of the rules was continually morphing.
+[5] Mr. Pappas acknowledged that he has been verbally advised by CRA, since 2002, that he is required to remit 7% of all commissions, both vendor's and purchaser's, to the Government of Canada. He did not do this throughout 2001 and 2002, but deducted the GST on commissions from the net GST he remitted to CRA. Exhibits R-1 and R-2 are summaries of the live auctions held throughout the relevant period. Handwritten notes on the exhibits explain exactly how the Appellants calculated the GST, including the deduction of GST on commissions and premiums. It is the total of the GST on these commissions and premiums ($20,562.28) that is at issue before me.
+[6] CRA accepted the accuracy of the Pappas' monthly figures, but assessed on the basis that the full amount of GST charged should have been remitted, with no withholding of GST charged on the commissions and premiums.
+Analysis
+[7] I will deal first with Mr. Pappas' constitutional challenge. The constitutionality of the legislation for GST has been upheld by the Supreme Court of Canada in Reference re: Goods and Services Tax (GST) (Can.).[1] The Supreme Court of Canada specifically addressed the issue of the collection of GST, the root of Mr. Pappas' concern with the legislation. It upheld the constitutionality of the Excise Tax Act generally and specifically, sections 123, 221 and 240, whereby every vendor of a taxable supply is appointed an agent of the Crown in right of Canadafor purposes of the collection and remittance of GST. The Supreme Court of Canada went on to hold there is no right of a supplier to compensation for acting as the Crown's agent (subject only to a one-time transitional credit for small businesses).
+[8] Chief Justice Bowman has addressed a taxpayer's similar concern that having to serve as the Government's collection agent constitutes cruel and unusual treatment, contrary to the Canadian Charter of Rights and Freedoms (the Charter). Chief Justice Bowman stated in Villa Ridge Construction Ltd. v. Canada:[2]
+I do not think that the requirement that taxpayers collect and remit GST, or for that matter perform any of the other administrative tasks that our self-assessing system requires be done under the Excise Tax Act or the Income Tax Act constitutes cruel and unusual treatment as I understand those words. No doubt many of these unpaid administrative duties are time consuming, exasperating and onerous. That is not, however, an unduly heavy price to pay for living under a self-assessing fiscal regime. It may well be that some people regard the requirement to pay tax as cruel. Whatever merit there may be in this view it is, however, certainly not unusual.
+[9] While I am prepared to rely on these cases as authority for the constitutionality of the Excise Tax Act, I wish to address Mr. Pappas' more specific concerns. His allegations that the legislation is contrary to the Charter stem from a conviction that the Charter, by its preamble that Canada is founded upon principles that recognize the supremacy of God, is subject to certain biblical strictures. In this regard, he argues that it is sinful in the eyes of God to be a tax collector; therefore, any legislation forcing citizens to be such is contrary to the Charter. I do not accept Mr. Pappas' argument. An introductory statement in the Charter recognizing Canada is founded upon principles that recognize the supremacy of God is not an invitation to superimpose passages from the Bible onto the country's legislation. This would create at best, confusion, and at worst, chaos. Mr. Pappas is attempting to elevate the Charter preamble to the status of an overriding statement of law akin to a specific section of the legislation. He is in effect arguing there is a higher law, the law of God, which is being breached by provisions of the Excise Tax Act. That law, he suggests, is incorporated into our Charter. With respect, it is not.
+[10] While it may be a fascinating philosophical exercise to consider exactly what the Charter drafters had in mind by "principles that recognize the supremacy of God", it is not an exercise I find necessary to pursue in this judgment.[3] I simply conclude the preamble does not have the effect Mr. Pappas suggests it has.
+[11] A secondary position to be gleaned from Mr. Pappas' argument is that his section 2 Charter right of freedom of religion has been violated by forcing him to be a tax collector. While I may entertain some doubts as to the true Christian dogma regarding tax collectors,[4] I will for purposes of this decision accept that Mr. Pappas' religious belief re: tax collectors is well founded; that is, it is contrary to his religious belief to be a tax collector. I refer to the decision of Justice Muldoon in O'Sullivan. He was dealing with a claim by an Appellant that his section 2 Charter rights were infringed by requiring him to pay tax which was to be used to finance abortions. Justice Muldoon wrote at page 126:
+... So, subject to the secular strictures expressed in section 1 of the Charter, everyone is free to entertain, openly to declare, and to practise through worship or outward manifestation freely accepted or chosen religious beliefs without hinderance or reprisal: and the State is bound to defend this freedom along with the other rights and freedoms guaranteed by and in the Charter. Does legal compulsion to pay taxes some of which to support abortions mean State coercion which infringes freedom of religion and conscience? It probably does, but in any event, given the rights of legal opposition in a free and democratic society it is no doubt justified in terms of section 1, which, as noted above imposes secular limitations on the freedom.
+[12] As it has been established that the imposition of GST is not unconstitutional, the issue is limited to whether the system for collecting tax pursuant to the Excise Tax Act is a reasonable limit prescribed by law justified in a free and democratic society, as set out in section 1 of the Charter. I believe that it is. The alternative to not relying on third parties to handle the collection of GST would have to be some procedure whereby the consumer remits directly. Impractical, cumbersome, costly - any number of adjectives might be used to describe such a system. The ability of the Government to collect GST on an efficient basis is a valid objective. I am satisfied that a reasonable person would find the Government of Canada is justified in infringing Mr. Pappas' rights by instituting such a collection system to meet that objective.
+[13] I will deal now with the correctness of the assessment itself. First, Mr. Pappas maintains he has never received written confirmation from CRA, since the 1997 legislative amendments, clarifying the correct GST treatment of items sold by auction. Mr. Pappas provided no correspondence from him to CRA during the period in question, seeking such clarification. He did acknowledge that he has since been told the law requires he remit all GST collected on auction sales. I accept Mr. Pappas may have been confused by the legislative changes, but I have not been convinced by his testimony that he received advice from CRA advising that he should withhold and not remit GST on commissions. Even had he received such advice, the law is clear that Mr. Pappas could not rely on the doctrine of estoppel to hold CRA to its incorrect advice. It is for this Court to determine the correctness of the assessment based on the law and the facts before me: it is not telephone advice of CRA officials that is determinative.
+[14] What then does the Excise Tax Act require of Mr. and Mrs. Pappas vis-à-vis the supplies made in 2001 and 2002? Firstly, I should make it clear that notwithstanding considerable evidence regarding electronic sales, the assessment in issue relates to the live auctions in 2001 and 2002. The Appellants' summaries (Exhibits R-1 and R-2) of auctions during that period illustrate exactly how they collected and remitted the GST. It is clear that they collected, but did not remit, the GST on commissions and premiums.
+[15] Subsection 177(1.2) of the Act reads as follows:
+Where a registrant (in this subsection referred to as the "auctioneer"), acting as auctioneer and agent for another person (in this subsection referred to as the "principal") in the course of a commercial activity of the auctioneer, makes on behalf of the principal a supply by auction of tangible personal property to a recipient, the supply is deemed, for the purposes of this Part, to be a taxable supply made by the auctioneer and not by the principal and the auctioneer is deemed, for the purposes of this Part other than section 180, not to have made a supply to the principal of services relating to the supply of the property to the recipient.
+This provision came into force in 1997, several years before the years in question. The section requires the auctioneer to charge the GST on the full-selling price, which includes the premium and commission. Once collected, the auctioneer, like any other supplier, is required to determine the net tax owing and, where positive, to remit such net tax (subsection 228(2)).
+[16] Mr. Pappas appears to suggest there is some ambiguity in the latter part of subsection 177(1.2), which deems the supplier not to have made a supply to the principal of services. He reads this as relieving him from collecting and remitting any GST on commissions to the principal. Yet, what Mr. Pappas did in 2001 and 2002 was collect the GST on the commission, but not remit that amount. This is contrary to any interpretation of subsection 177(1.2). Had he not charged GST on the commission portion of the sale price, he may have put himself in a stronger position to make his argument, but in that case, he would have run afoul of the Act by not charging GST on the "consideration". For example, if a bidder bids $1,000 and pays $1,000, that is the consideration, notwithstanding that Mr. Pappas sees the $1,000 as containing a $100 commission owed to him from the principal. It would be contrary to the Act to collect only 7% of $900. In conclusion, I find the Minister correctly assessed Mr. and Mrs. Pappas for the net tax owing.
+[17] With respect to penalties, it is well established that an Appellant can be relieved of penalties if the Court is satisfied the taxpayer exercised due diligence in attempting to comply with the requirements of the Act. See Pillar Oilfields Projects Ltd. v. Canada.[5] As I pointed out in Calistar Construction Services Ltd. v. The Queen,[6] the due diligence test is met if a reasonable person would have committed the same error under the same circumstances. Unlike Calistar where the principal did not make any inquiry of a professional accountant or of CRA, Mr. Pappas testified, and I believe him, that he did contact CRA on several occasions. After those contacts he reported GST in the way that he did. As I indicated earlier, I am not convinced he was advised specifically to do that, but I am equally unconvinced that he was provided a crystal clear response until some time after 2002. The Respondent argues that Mr. Pappas could have and should have consulted a GST professional, especially given the complexities entering the electronic auctioneering business, and also given legislative amendments. While this would have been a most prudent course to follow, it is not unreasonable for a taxpayer to believe he can go straight to the horse's mouth - CRA - to seek clarification.
+[18] This is a close call in an informal procedure case with respect to penalties. I am prepared to give Mr. Pappas the benefit of the doubt. In contacting CRA, he exercised due diligence in attempting to comply with the requirements of the Excise Tax Act. I allow the appeal with respect to penalties only, and refer the matter back to the Minister on that basis.
+Signed at Ottawa, Canada, this 20th day of December 2006.
+"Campbell J. Miller"
+Miller J.
+CITATION: 2006TCC692
+COURT FILE NO.: 2006-812(GST)I
+STYLE OF CAUSE: Jacqueline and Theodore Pappas and
+Her Majesty The Queen
+PLACE OF HEARING: Vancouver, British Columbia
+DATE OF HEARING: November 6, 2006
+REASONS FOR JUDGMENT BY: The Honourable Justice Campbell J. Miller
+DATE OF JUDGMENT: December 20, 2006
+APPEARANCES:
+Agent for the Appellants:
+Theodore Pappas
+Counsel for the Respondent:
+Pavanjit Mahil
+COUNSEL OF RECORD:
+For the Appellants:
+Name: N/A
+Firm: N/A
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] [1992] 2 S.C.R. 445.
+[2] [2000] T.C.J. No. 599.
+[3] For an interesting discussion in this regard see Justice Muldoon's comments in G. O'Sullivan v. M.N.R. (No. 2), [1992] 2 C.T.C. 117 at page 125 where he concludes:
+The preamble to the Charter provides an important element in defining Canada, but recognition of the supremacy of God, emplaced in the supreme law of Canada, goes no further than this: it prevents the Canadian state from becoming officially atheistic. It does not make Canada a theocracy because of the enormous variety of beliefs of how God (apparently the very same deity for Jews, Christians and Muslims) wants people to behave generally and to worship in particular. The preamble's recognition of the supremacy of God, then, does not prevent Canada from being a secular state.
+[4] "Render unto Caesar the things which are Caesar's, and unto to God the things that are God's." Mark 12:13-17.
+[5] [1993] T.C.J. No. 764.
+[6] 2004TCC451 (TCC).

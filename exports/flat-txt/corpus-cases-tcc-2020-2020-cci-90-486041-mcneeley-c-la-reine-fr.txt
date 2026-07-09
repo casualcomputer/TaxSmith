@@ -1,0 +1,279 @@
+Title: McNeeley c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/486041/index.do
+Corpus path: corpus/cases/tcc/2020/2020-cci-90-486041-mcneeley-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2020-09-29
+
+# McNeeley c. La Reine
+
+- Citation: 2020 CCI 90
+- Decision date: 2020-09-29
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4567, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+McNeeley c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2020-09-29
+Référence neutre
+2020 CCI 90
+Numéro de dossier
+2016-5407(IT)G, 2017-4712(IT)G, 2018-1458(IT)G
+Juges et Officiers taxateurs
+Bruce Russell
+Sujets
+Loi de l'impôt sur le revenu
+Notes
+Contenu de la décision
+Dossier : 2016-5407(IT)G
+ENTRE :
+MATHEW MCNEELEY,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu sur preuve commune avec les appels de
+Kenneth Chapman (2017-4712(IT)G) et de John A. Baker (2018‑1458(IT)G), les 20 et 21 novembre 2019, à Hamilton (Ontario)
+Devant : L’honorable juge B. Russell
+Comparutions :
+Avocat de l’appelant :
+Me Salvatore Mirandola
+Avocate de l’intimée :
+Me Lindsay Tohn
+JUGEMENT
+L’appel à l’encontre de la nouvelle cotisation de l’appelant établie le 11 avril 2016 pour son année d’imposition 2012 en application de la Loi de l’impôt sur le revenu est rejeté avec dépens en faveur de l’intimée fixés à 5 000 $, payables par l’appelant dans les 30 jours de la date de délivrance du présent jugement.
+Signé à Ottawa, Canada, ce 29e jour de septembre 2020.
+« B. Russell »
+Le juge Russell
+Traduction certifiée conforme
+ce 28e jour de février 2021
+Mario Lagacé, jurilinguiste
+Dossier : 2017-4712(IT)G
+ENTRE :
+KENNETH CHAPMAN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu sur preuve commune avec les appels de
+Mathew McNeeley (2016-5407(IT)G) et de John A. Baker (2018‑1458(IT)G), les 20 et 21 novembre 2019, à Hamilton (Ontario)
+Devant : L’honorable juge B. Russell
+Comparutions :
+Avocat de l’appelant :
+Me Salvatore Mirandola
+Avocate de l’intimée :
+Me Lindsay Tohn
+JUGEMENT
+L’appel à l’encontre de la nouvelle cotisation de l’appelant établie le 5 mai 2016 pour son année d’imposition 2012 en application de la Loi de l’impôt sur le revenu est rejeté avec dépens en faveur de l’intimée fixés à 5 000 $, payables par l’appelant dans les 30 jours de la date de délivrance du présent jugement.
+Signé à Ottawa, Canada, ce 29e jour de septembre 2020.
+« B. Russell »
+Le juge Russell
+Traduction certifiée conforme
+ce 28e jour de février 2021
+Mario Lagacé, jurilinguiste
+Dossier : 2018-1458(IT)G
+ENTRE :
+JOHN A. BAKER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu sur preuve commune avec les appels de
+Mathew McNeeley (2016-5407(IT)G) et de Kenneth Chapman (2017‑4712(IT)G), les 20 et 21 novembre 2019, à Hamilton (Ontario)
+Devant : L’honorable juge B. Russell
+Comparutions :
+Avocat de l’appelant :
+Me Salvatore Mirandola
+Avocate de l’intimée :
+Me Lindsay Tohn
+JUGEMENT
+L’appel à l’encontre de la nouvelle cotisation de l’appelant établie le 6 mai 2016 pour son année d’imposition 2012 en application de la Loi de l’impôt sur le revenu est rejeté avec dépens en faveur de l’intimée fixés à 8 000 $, payables par l’appelant dans les 30 jours de la date de délivrance du présent jugement.
+Signé à Ottawa, Canada, ce 29e jour de septembre 2020.
+« B. Russell »
+Le juge Russell
+Traduction certifiée conforme
+ce 28e jour de février 2021
+Mario Lagacé, jurilinguiste
+Référence : 2020 CCI 90
+Date : 20200929
+Dossier : 2016-5407(IT)G
+ENTRE :
+MATHEW MCNEELEY,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée;
+Dossier : 2017-4712(IT)G
+ET ENTRE :
+KENNETH CHAPMAN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée;
+Dossier : 2018-1458(IT)G
+ET ENTRE :
+JOHN A. BAKER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Russell
+[1] Les présents motifs du jugement traitent en partie de la mesure législative relative au « régime de prestations aux employés » prévu dans la Loi de l’impôt sur le revenu (la LIR) fédérale et sur laquelle peu de décisions ont été rendues. Sauf indication contraire, les renvois à des dispositions législatives sont des renvois aux dispositions de la LIR.
+I. Nouvelles cotisations et questions en litige :
+[2] Les trois appelants, M. McNeeley, M. Chapman et M. Baker, interjettent appel de leur nouvelle cotisation respective à l’égard de l’année d’imposition 2012 établie aux termes de la LIR par le ministre du Revenu national (le ministre) le 11 avril 2016, le 5 mai 2016 et le 6 mai 2016. Chacune de ces trois nouvelles cotisations représente la conclusion du ministre selon laquelle l’appelant visé a reçu des actions d’entreprises d’une fiducie constituant un régime de prestations aux employés, tel que prévu par la LIR. Par conséquent, selon le ministre, chaque appelant aurait dû déclarer la juste valeur marchande des actions reçues à titre de revenu tiré d’une charge ou d’un emploi, conformément à l’alinéa 6(1)g). Les appelants ont plutôt déclaré la juste valeur marchande totale des actions reçues comme étant une distribution de capital d’une fiducie, aux termes de l’article 107.
+[3] Les appelants font valoir que les nouvelles cotisations faisant l’objet de l’appel sont erronées, pour le motif que la fiducie distribuant les actions était une « fiducie visée » au sens de l’article 4800.1 du Règlement de l’impôt sur le revenu (l’article 4800.1 du Règlement). Ils affirment que les règles d’interprétation des lois exigent que les dispositions de la LIR relatives aux fiducies visées aient préséance sur les dispositions relatives aux régimes de prestations aux employés régis par une fiducie.
+[4] Les parties soulèvent les questions suivantes :
+a) Est-ce que la fiducie en l’espèce constitue un régime de prestations aux employés?
+b) Est-ce que la fiducie en l’espèce constitue une fiducie visée?
+c) Si la fiducie en l’espèce est à la fois un régime de prestations aux employés et une fiducie visée, est-ce que les règles de la LIR relatives aux fiducies visées ont préséance sur les règles relatives aux régimes de prestations aux employés régis par une fiducie?
+d) Subsidiairement, est-ce que les règles de la LIR relatives aux régimes de prestations aux employés régis par une fiducie sont inapplicables à l’égard des deux distributions d’actions reçues par M. Baker, au motif que l’alinéa 6(1)a) ne s’applique pas à son cas?
+II. La preuve :
+[5] Les trois appels ont été entendus sur preuve commune constituée d’un « exposé conjoint des faits partiel », de plusieurs pièces documentaires et du témoignage de M. Baker.
+[6] Les éléments de preuve ont démontré les faits essentiels suivants (tirés largement de l’exposé conjoint partiel des faits) :
+En 1999, M. Baker a fondé une entreprise de logiciel d’apprentissage. Cette entreprise a été constituée en société en 2000 et exerce actuellement ses activités sous le nom de D2L Corporation (D2L). Pendant toute la période pertinente, les appelants étaient employés de D2L. Également pendant toute la période pertinente, M. Baker était le président et directeur général de D2L et, jusqu’en 2006, il en était l’unique actionnaire;
+À la fin de 2005, la mère de M. Baker, Mme Baker, a donné 210 $ pour l’institution d’une fiducie nommée Desire2Learn Employee Stock Trust (la fiducie en l’espèce), conformément aux conditions d’un accord de fiducie (l’accord de fiducie) signé par elle à titre de constituante et par les trois fiduciaires de la fiducie en l’espèce, dont l’un était M. Baker;
+Le préambule de la convention de fiducie dispose que la fiducie en l’espèce est créée [TRADUCTION] « [...] à l’intention de certains employés de [D2L] et de ses filiales ». Les bénéficiaires de la fiducie en l’espèce devaient être des employés à temps plein de D2L nommés sur une liste jointe à la convention de fiducie, ainsi que tout autre employé désigné par les administrateurs de D2L dans une annexe distincte de la convention de fiducie (article 1.1).
+L’objectif de la fiducie en l’espèce était d’acquérir des titres de D2L et de les détenir au bénéfice des bénéficiaires (article 3.1). Les fiduciaires de la fiducie en l’espèce devaient attribuer et distribuer les actions de la fiducie en l’espèce à un ou plusieurs bénéficiaires, [TRADUCTION] « de la façon et en proportion déterminée par les fiduciaires, à leur entière discrétion » (articles 2.6, 4.1, 4.2, 4.3, 4.6). Aucune action détenue par la fiducie en l’espèce ne pouvait être attribuée à une personne n’étant pas employée de D2L à une date désignée (article 4.3). Toutes les décisions des fiduciaires étaient prises [TRADUCTION] « à leur entière discrétion »;
+Le 1er janvier 2006, la fiducie en l’espèce a souscrit 2 950 actions ordinaires de catégorie B de D2L, à leur juste valeur marchande globale de 10 $. M. Baker a vendu ses actions de D2L à sa société en propriété exclusive, 2089785 Ontario Inc. (208Co);
+Le 2 janvier 2011, D2L Holdings Inc. (société mère de D2L) a été constituée, et D2L est devenue une filiale en propriété exclusive de la société mère. La fiducie en l’espèce a échangé ses 2 950 actions ordinaires de catégorie B de D2L pour un nombre équivalant d’actions ordinaires de catégorie B de la société mère de D2L;
+Le 13 août 2012, la convention de fiducie a été modifiée pour disposer que la fiducie en l’espèce était créée à l’intention de certains employés [TRADUCTION] « de [la société mère de D2L] et de ses filiales »;
+Le 20 août 2012, M. Baker a constitué la société 2339351 Ontario Inc. (233Co). Le 23 août 2012, il a vendu une partie de ses actions de 208 Co à 233Co, contre 1000 actions ordinaires de 233Co et a choisi de faire cette vente conformément au paragraphe 85(1);
+Le 24 août 2012, la société mère de D2L a fusionné avec 208Co, et la société fusionnée a conservé le nom de D2L Holdings Inc. (D2L Holdings fusionnée). Lors de la fusion, les 2 950 actions ordinaires de catégorie B de la société mère de D2L détenues par la fiducie en l’espèce ont été échangées notamment contre 3 705 344 actions ordinaires de catégorie B sans droit de vote de D2L Holdings fusionnée (les actions de catégorie B);
+Le 24 août 2012, alors que chaque action de catégorie B avait une juste valeur marchande de 8,415 $, la fiducie en l’espèce a distribué 3 356 415 actions de catégorie B à divers bénéficiaires, dont 2 317 109 actions à M. Baker et 71 772,18 actions à M. Chapman;
+Conformément au paragraphe 107(2.001), la fiducie en l’espèce a fait le choix d’appliquer le paragraphe 107(2.1) pour la distribution des actions de catégorie B du 24 août 2012 aux bénéficiaires, à l’exception de M. Baker. La fiducie en l’espèce a déclaré un gain en capital imposable de 50 % de la juste valeur marchande des actions de catégorie B distribuées aux bénéficiaires, à l’exception de M. Baker, puisque le prix de base rajusté des actions de catégorie B était nominal;
+La fiducie en l’espèce a fait sa déclaration en tenant compte du fait le paragraphe 107(2) s’appliquait de façon à ce que M. Baker soit réputé avoir reçu sa distribution de 2 317 209 actions de catégorie B du 24 août 2012 à leur prix de base nominal rajusté;
+Le 24 août 2012, les bénéficiaires de la fiducie en l’espèce ayant reçu leurs actions de catégorie B à cette date (à l’exception de M. Baker), ils ont vendu leurs 1 039 306 actions de catégorie B à 233CO, contre une somme globale de 8 745 760 $. Ce même jour, M. Baker a vendu ses 2 317 109 actions de catégorie B à 233Co en contrepartie d’actions de 233Co dont la juste valeur marchande globale était équivalente à celle des actions de catégorie B transférées. Il n’a pas déclaré de gain sur cette vente, puisque le choix prévu au paragraphe 85(1) a été fait sur le formulaire prescrit;
+Le 15 octobre 2012, alors que chaque action de catégorie B avait une juste valeur marchande de 8,415 $, la fiducie en l’espèce a distribué ses 348 929 actions de catégorie B restantes à 227 bénéficiaires, dont 707,66 actions à M. McNeeley et 50 384,96 actions à M. Baker;
+Conformément au paragraphe 107(2.001), la fiducie en l’espèce a fait le choix d’appliquer le paragraphe 107(2.1) à la distribution des actions de catégorie B du 15 octobre 2012. La fiducie en l’espèce a ainsi déclaré un gain en capital imposable équivalant à 50 % de la juste valeur marchande des actions de catégorie B distribuées à cette date, en tenant compte du fait que le prix de base rajusté des actions de catégorie B était nominal;
+Le 15 octobre 2012, M. Baker a vendu ses 50 384,96 actions de catégorie B à 233Co, pour une contrepartie de 423 991 $. Ce même jour, les 226 autres bénéficiaires, à l’exception de M. Baker, comprenant M. McNeeley mais à l’exclusion de M. Chapman, ont vendu leurs 298 544,04 actions de catégorie B à 233Co pour la somme de 2 512 248 $.
+III. Discussion :
+A. La fiducie en l’espèce est-elle un « régime de prestations aux employés »?
+[7] L’intimée allègue que la fiducie en l’espèce constitue un régime de prestations aux employés. À l’audience, l’avocat des appelants n’a pas explicitement concédé ce point. La définition de « régime de prestations aux employés », prévue au paragraphe 248(1), dispose des éléments pertinents suivants :
+« régime de prestations aux employés » Mécanisme dans le cadre duquel des cotisations sont versées à une personne (appelée « dépositaire » dans la présente loi) par un employeur ou par toute autre personne avec qui celui-ci a un lien de dépendance et en vertu duquel un ou plusieurs paiements sont à faire à des employés ou anciens employés de l’employeur ou à des personnes qui ont un lien de dépendance avec l’un de ces employés ou anciens employés, ou au profit de ces employés, anciens employés ou personnes, sauf s’il s’agit d’un paiement qui n’aurait pas à être inclus dans le calcul du revenu du bénéficiaire ou d’un employé ou ancien employé si l’article 6 s’appliquait compte non tenu de son sous-alinéa (1)a)(ii) ni de son alinéa (1)g). Ne fait pas partie d’un régime de prestations aux employés toute partie du mécanisme qui est : [(a)...(b)...(c)...(c.1)...(c.2)...(d)...(e)].
+[8] Les parties conviennent qu’aucun des alinéas a) à e) de cette définition n’est applicable aux trois présents appels.
+[9] La définition de régime de prestations aux employés fait référence aux alinéas 6(1)a) et 6(1)g), qui disposent essentiellement de ce qui suit :
+6 (1) Sont à inclure dans le calcul du revenu d’un contribuable tiré, pour une année d’imposition, d’une charge ou d’un emploi, ceux des éléments suivants qui sont applicables :
+a) (valeur des avantages) la valeur de la pension, du logement et de tout autre avantage que reçoit ou dont jouit le contribuable, ou une personne avec laquelle il a un lien de dépendance, au cours de l’année au titre, dans le cadre ou en raison de la charge ou de l’emploi du contribuable, à l’exception des avantages suivants :
+(ii) ceux qui découlent d’une convention de retraite, d’un régime de prestations aux employés ou d’une fiducie d’employés […]
+g) (prestations d’un régime de prestations aux employés) le total des sommes dont chacune représente un montant reçu par lui au cours de l’année dans le cadre d’un régime de prestations aux employés ou de la disposition d’une participation dans un tel régime, à l’exclusion de la partie de ce montant qui constitue :
+[10] L’origine du concept du régime de prestations aux employés est expliquée dans le Bulletin d’interprétation IT-502 de l’Agence du revenu du Canada, publié le 28 mars 1985 (archivé en 1995), au paragraphe 1 :
+Avant 1980, certains régimes existants [communément appelés régimes de rémunération différés] permettaient à un employé et à un employeur de s’entendre pour différer le paiement d’une partie ou de la totalité de la rémunération de l’employé en plaçant la rémunération en question sous la garde d’une tierce partie. L’employé n’avait pas le droit d’obtenir immédiatement cette rémunération et, pour cette raison, la rémunération était considérée comme différée jusqu’à ce qu’elle soit versée à l’employé par la tierce partie, tandis que l’employeur avait droit à une déduction dans le calcul de son revenu pour l’année du versement à la tierce partie. Ces régimes (...) n’étaient pas assujettis aux dispositions de la Section G de la [LIR] qui régit les régimes de participation différée et autres arrangements spéciaux relatifs aux revenus. [Les régimes de prestations aux employés] (...) qui ont été adopté[s], applicables aux années d’imposition 1979 et suivantes, afin de faire concorder le moment où l’employeur fait une déduction de son revenu avec celui où l’employé inclut la rémunération différée dans son revenu.
+[11] Ainsi, dans le contexte de l’existence de plusieurs types de régimes de rémunération différée employeur/employé, le législateur a instauré l’outil législatif qu’est le régime de prestations aux employés afin de faire temporairement concorder la déduction du revenu de l’employeur à l’inclusion au revenu de l’employé. Par conséquent, le sous-alinéa 6(1)a)ii) libère les employés de l’obligation d’avoir, conformément à l’alinéa 6(1)a), à inclure une somme à leurs revenus lorsque leur employeur fait une contribution dans un régime de prestations aux employés. L’alinéa 6(1)b) exige ensuite que la juste valeur marchande de toutes les sommes reçues par les employés dans le cadre d’un régime de prestations aux employés ou de la disposition d’une participation dans un tel régime soit déclarée à titre de revenu tiré d’une charge ou d’un emploi (sous réserve d’exceptions prévues par la LIR).
+[12] Dans un même ordre d’idée, l’alinéa 18(1)o) refuse aux employeurs la déduction au moment de la contribution. Toutefois, en vertu de l’article 32.1, les employeurs peuvent, dans les limites prescrites, demander cette déduction au moment où le régime de prestations aux employés fait un paiement ou une distribution aux employés bénéficiaires. La déduction est assujettie à l’inclusion au revenu des employés de la contribution faite au régime de prestations aux employés. L’article 32.1 prévoit des règles précises pour atteindre ce résultat et pour veiller à ce que la déduction possible pour l’employeur se limite aux contributions faites pour ses propres employés ou anciens employés. En vertu de l’alinéa 12(1)n.1), l’employeur doit inclure dans le revenu imposable d’une année toute somme qu’il pourrait avoir reçue pendant cette même année au titre d’un régime de prestations aux employés.
+[13] En outre, je veux préciser brièvement qu’il existe peu de jurisprudence sur les régimes de prestations aux employés. Dans la décision Crighton v. MNR, 91 DTC 511 (CCI), le juge Watson a examiné la question de savoir si une somme payée par l’ancien employeur du contribuable appelant dans une fiducie établie au bénéfice de l’appelant était imposable à titre d’allocation de retraite à l’égard de l’année où le paiement a été versé à la fiducie, ou si la fiducie constituait plutôt un régime de prestations aux employés, et que la somme serait donc imposable ultérieurement, lorsque cette somme serait prélevée de la fiducie. La Cour a décrit la définition de régime de prestations aux employés (au paragraphe 13) comme étant [TRADUCTION] « très large ». Constatant que le montant du paiement de l’employeur à la fiducie avait été longuement négocié avec l’ancien employé (dans le contexte d’une réclamation pour un congédiement abusif possible) et que la somme convenue serait uniquement payable à l’ancien employé à une date future, la Cour a conclu que cette fiducie s’inscrivait dans la définition large de régime de prestations aux employés. Par conséquent, la somme visée ne serait imposable qu’au cours de l’année de son versement. Si la Cour avait décidé que la fiducie n’était pas un régime de prestations aux employés, la somme à payer aurait été jugée imposable pour l’employé au cours de l’année où le paiement aurait été fait à la fiducie, à titre d’allocation de retraite, d’avantage au sens de l’alinéa 6(1)a) ou de paiement indirect prévu par le paragraphe 56(2).
+[14] Enfin, en ce qui a trait au contexte général des régimes de prestations aux employés, dans la décision Canada c. Chrysler Canada Ltd., [1991] A.C.F. no 921 (QL), 91 DTC 5526 (CF 1re inst.), le juge Strayer a conclu qu’un régime d’actionnariat des salariés mis en place par Chrysler pour ses employés s’inscrivait dans la définition de régime de prestations aux employés prévue au paragraphe 248(1), ainsi que dans les exigences prévues au paragraphe 7(1) pour constituer une convention d’options d’achat d’actions. Ultérieurement, dans la décision Canada c. Chrysler Canada Ltd., [1992] A.C.F. no 361 (QL), 92 DTC 6346 (CF 1re inst.), le juge Strayer a conclu que le paragraphe 7(1) portant sur la convention d’actions était plus précis que la définition relativement large régissant le régime de prestations aux employés. La Cour a donc conclu que le régime d’actionnariat des salariés était une convention d’options d’achat d’actions et non un régime de prestations aux employés, avec les différents attributs fiscaux qui s’y rattachent.
+[15] Dans les appels en instance, l’intimée exprime ainsi (mémoire, au paragraphe 65) de quelle façon la première partie de la définition de l’expression « régime de prestations aux employés » – s’arrêtant à la parenthèse commençant par les mots [« sauf s’il s’agit d’un paiement [...] »] – s’applique à l’égard de la fiducie :
+[TRADUCTION]
+[65] [I]l s’agit d’un mécanisme (la fiducie [d’actionnariat des employés] en l’espèce) aux termes duquel les contributions sont versées (contribution initiale de 210 $) par une personne (Mme Baker) avec laquelle l’employeur (D2L) a un lien de dépendance (Mme Baker était un proche parent de l’unique actionnaire de D2L) à une autre personne (les fiduciaires) et aux termes duquel un ou plusieurs paiements seront faits (paiements en revenus ou en biens de la fiducie [d’actionnariat des employés] en l’espèce) à des employés ou des anciens employés de l’employeur (D2L) ou à leur bénéfice (les bénéficiaires).
+[16] Les appelants ne contestent pas cette analyse, jusqu’à la partie de la définition commençant par « sauf s’il s’agit d’un paiement [...]». Des trois appelants, seul M. Baker fait valoir que le libellé de cette partie de la définition permet d’exclure ses deux distributions d’actions de la fiducie de la définition de paiements au titre d’un régime de prestations aux employés. Il s’agit de la dernière question en litige examinée dans le cadre du présent appel.
+[17] Toutefois, puisque cela fait également partie de la définition donnée au régime de prestations aux employés, j’examinerai ici l’interprétation à donner à cette partie accessoire de la définition. Elle se lit ainsi : « [...] sauf s’il s’agit d’un paiement qui n’aurait pas à être inclus dans le calcul du revenu du bénéficiaire ou d’un employé ou ancien employé si l’article 6 s’appliquait compte non tenu de son sous-alinéa (1)a)(ii) ni de son alinéa (1)g). »
+[18] Ce passage renvoie à la fois au sous-alinéa 6(1)a)(ii) et à l’alinéa 6(1)g) décrits précédemment. Le sous-alinéa 6(1)a)(ii) permet d’exclure du calcul du revenu ou des charges imposables prévu par l’alinéa 6(1)a) le paiement au titre d’un régime de prestations aux employés. L’alinéa 6(1)g) prévoit que les montants reçus dans le cadre d’un régime de prestations aux employés (à l’exception des montants prévus aux sous-alinéas (i) à (iv), qui ne s’appliquent pas aux présents appels) constituent des revenus tirés d’une charge ou d’un emploi (et sont donc imposables au sens de l’alinéa 6(1)g)).
+[19] Les appelants allèguent (mémoire, au paragraphe 15) que le libellé de la partie accessoire [TRADUCTION] « signifie que les règles relatives au régime de prestations des employés ne s’appliquent qu’aux paiements qui seraient imposables aux termes de l’article 6 à titre de revenu tiré d’une charge ou d’un emploi ». Cette interprétation correspond de façon générale à la déclaration du ministre figurant dans le document de l’Agence du revenu du Canada, intitulé CRA views, no 5-8438 (13 septembre 1989), selon laquelle [TRADUCTION] « [p]ar suite de l’examen de nos dossiers, nous avons conclu que cette partie accessoire de la définition est une disposition de « sécurité » conçue pour veiller à ce que, si certains paiements qui seraient ordinairement non imposables deviendraient imposables en application de la définition du régime de prestations aux employés, cette disposition aurait pour effet de rétablir le statut non imposable de ces paiements. »
+[20] L’intimée, pour sa part, fait valoir l’interprétation suivante de cette partie accessoire (mémoire, au paragraphe 89) :
+[TRADUCTION]
+La partie accessoire de la disposition, lorsqu’elle s’applique, a pour effet d’exclure la totalité d’un mécanisme de la définition de l’expression « régime de prestations aux employés ». Cette partie accessoire fait partie de la définition d’un régime de prestations aux employés et l’exclusion des paiements fait partie des éléments à considérer pour établir si un mécanisme constitue un régime de prestations aux employés. Elle ne prévoit pas la disjonction d’un mécanisme ou de paiements reçus ou en application d’un mécanisme.
+[21] Je n’admets pas cette dernière interprétation. Je suis d’avis que le libellé de cette partie accessoire désigne une exception relative aux paiements et non à l’ensemble des mécanismes. Ce libellé vise à préciser que la portée de la définition d’un régime de prestations aux employés n’inclut pas les paiements qui, sans les dispositions du sous-alinéa 6(1)a)(ii) et de l’alinéa 6(1)g), ne devraient pas être inclus dans le calcul du revenu imposable du destinataire.
+[22] Si le législateur avait souhaité que ce mécanisme soit du type « tout ou rien », on peut croire qu’il aurait commencé sa partie accessoire par des mots comme « sauf s’il s’agit d’un mécanisme » et non par « sauf s’il s’agit d’un paiement ». Je conclus que la définition de l’expression « régime de prestations aux employés » prévoit une exception qui exclut les paiements qui n’auraient pas été imposables, n’eût été le sous-alinéa 6(1)a)(ii) et l’alinéa 6(1)g).
+[23] Il est important de noter que les appelants ne contestent pas que les transferts respectifs des actions de catégorie B de la fiducie à M. McNeeley et à M. Chapman constituaient, au sens de la définition du régime de prestations aux employés, « un ou plusieurs paiements [...] à des employés [...] de l’employeur [...] au profit de ces employés [...] »
+[24] Je conclus que la fiducie dont il est question dans les trois présents appels est un régime de prestations aux employés.
+B. La fiducie en l’espèce est-elle une fiducie visée?
+[25] Les appelants font valoir que la fiducie en l’espèce est une « fiducie visée » au sens de l’article 4800.1 du Règlement. Les alinéas a), b) et c) de cette définition désignent trois types de fiducies visées, soit les fiducies établies pour détenir des droits dans des actions d’un employeur, les fiducies établies pour garantir des dettes et les fiducies permettant l’exercice d’un droit de vote. Le seul type de fiducie visée pertinent pour les présents appels est celui décrit à l’alinéa a), soit les fiducies établies pour détenir des actions d’un employeur. L’article 4800.1 et l’alinéa a) du Règlement disposent de ce qui suit :
+4800.1 [Fiducies visées] Les fiducies ci-après sont visées pour l’application de l’alinéa 107(1)a) et des paragraphes 107(1.1), (2) et (4.1) de la Loi :
+a) la fiducie maintenue principalement au profit d’employés d’une société ou de deux ou plusieurs sociétés qui ont entre elles un lien de dépendance, dans le cas où l’un des principaux objets de la fiducie consiste à détenir des droits dans des actions du capital-actions de la société ou des sociétés ou de toute société qui a un lien de dépendance avec ces sociétés;
+[26] Ce libellé précise dès le début que le terme « fiducie visée » est défini « pour l’application de l’alinéa 107(1)a) et des paragraphes 107(1.1), (2) et (4.1) de la LIR (...) ». Chacune des quatre dispositions énumérées fait partie de l’article 107 précité.
+[27] Les appelants affirment que la fiducie en l’espèce est une fiducie visée et renvoient à la définition de l’alinéa a) de l’article 4800.1 du Règlement précité. Tout d’abord, la fiducie est-elle, aux termes de l’alinéa a), une « fiducie maintenue principalement au profit d’employés d’une société ou de deux ou plusieurs sociétés qui ont entre elles un lien de dépendance »? La réponse est oui (bien qu’il serait possible d’argumenter que la fiducie en l’espèce n’a pas été créée « principalement », mais plutôt uniquement au profit d’employés d’une ou de plusieurs sociétés qui ont entre elles un lien de dépendance). Deuxièmement, une fois de plus aux termes de l’alinéa a), est-ce que « l’un des principaux objets de la fiducie » en l’espèce consistait à « [...] détenir des droits dans des actions du capital-actions de la société ou des sociétés [de l’employeur] »? La réponse à cette question est également affirmative.
+[28] Il semble ressortir du mémoire des appelants que, selon leur analyse, la fiducie en l’espèce est une fiducie visée. Toutefois, l’alinéa a) en lui-même n’englobe pas la totalité de la définition de « fiducie visée ». Comme il a été mentionné, le libellé de la définition prévue à l’article 4800.1 du Règlement énonce clairement que le terme « fiducies visées » est défini pour l’application des quatre dispositions précisées de l’article 107.
+[29] J’examinerai maintenant la définition de fiducie en l’espèce prévue aux alinéas 108(1)a) et 108(1)a.1). Ces dispositions sont rédigées ainsi :
+108(1) Les définitions qui suivent s’appliquent à la présente sous-section [sous-section K, englobant les articles 104 à 108 de la Loi]. [...] Fiducie Sont comprises parmi les fiducies tant la fiducie non testamentaire que la fiducie testamentaire; le terme ne vise toutefois pas [...] aux articles 105 à 107 :
+a) [...] un régime de prestations aux employés [...],
+a.1) la fiducie (sauf celle visée aux alinéas a) ou d), celle à laquelle les paragraphes 7(2) ou (6) s’appliquent et celle qui est visée par règlement pour l’application du paragraphe 107(2)) dont la totalité ou la presque totalité des biens sont détenus en vue d’assurer des prestations à des particuliers auxquels des prestations sont assurées dans le cadre ou au titre de la charge ou de l’emploi actuel ou ancien d’un particulier;
+[30] La définition de « fiducie » de l’alinéa a) du paragraphe 108(1) précise que toute mention de « fiducie » à l’article 107 n’inclut pas un régime de prestations aux employés. On retrouve des renvois à la « fiducie » aux paragraphes 107(2) et 107(2.1) exposés ci-après, qui reflètent les règles suivies par les appelants pour les distributions de biens (actions) de la fiducie en l’espèce. Les paragraphes 107(2) et 107(2.1) sont ainsi rédigés :
+107(2) Distribution par une fiducie personnelle – Sous réserve des paragraphes (2.001), (2.002) et (4) à (5), les règles ci-après s’appliquent dans le cas où, à un moment donné, une fiducie personnelle ou une fiducie visée par règlement effectue, au profit d’un contribuable bénéficiaire, une distribution (qui ne constitue pas un fait lié à la conversion d’une EIPD-fiducie) de ses biens qui donne lieu à la disposition de la totalité ou d’une partie de la participation du contribuable au capital de la fiducie [...]
+107(2.1) Autres distributions – Lorsque, à un moment donné, une fiducie effectue, au profit d’un de ses bénéficiaires, une distribution de biens qui donnerait lieu à la disposition de la totalité ou d’une partie de la participation du bénéficiaire au capital de la fiducie [...] s’il était fait abstraction des alinéas h) et i) de la définition de « disposition » au paragraphe 248(1)
+[31] Puisque la définition de « fiducie » de l’alinéa 108(1)a) exclut les fiducies de régime de prestations aux employés de tous les renvois à une « fiducie » figurant à l’article 107, et qu’en même temps, certaines dispositions de l’article 107 constituent le fondement législatif des fiducies visées, il semble qu’un régime de prestations aux employés ne peut pas être également une fiducie visée. Plus précisément, puisque la fiducie en l’espèce est un régime de prestations aux employés, elle ne peut pas être également une fiducie visée.
+[32] Toutefois, les appelants soutiennent que l’alinéa a.1) de la définition de « fiducie » précitée introduit une ambiguïté qui renverse la conclusion selon laquelle un régime de prestations aux employés ne peut pas également être une fiducie visée. Leur argument se fonde d’abord sur l’hypothèse que la fiducie en l’espèce est à la fois un régime de prestations aux employés et une fiducie visée (mémoire, au paragraphe 38). Ils affirment que [TRADUCTION] « [s]i on présume que la fiducie en l’espèce est à la fois un régime de prestations aux employés et une fiducie visée [...] »
+[33] C’est cette prémisse que j’ai déjà rejetée. Comme je l’ai mentionné, les appelants font valoir que la fiducie en l’espèce est une fiducie visée, uniquement en fonction du libellé de l’alinéa a) de l’article 4800.1 du Règlement, qui définit l’expression « fiducie visée ». Ils ont omis de tenir compte du libellé introductif de cette définition, soit que l’expression « fiducie visée » est définie « pour l’application de l’alinéa 107(1)a) et des paragraphes 107(1.1), (2) et (4.1) de la Loi [...] ».
+[34] Les appelants affirment qu’il existe une ambiguïté (mémoire, au paragraphe 38), car, bien que l’alinéa a) du paragraphe 108(1) définissant le terme « fiducie » semble exclure la fiducie en l’espèce du statut de « fiducie » pour l’application de l’article 107, l’alinéa a.1) ne semble pas exclure les fiducies visées décrites au paragraphe 107(2) de cette même définition. (Il faut noter qu’il n’y a pas de mention du paragraphe 107(2.1) dans ce contexte.)
+[35] Les appelants concluent en affirmant qu’en [TRADUCTION] « d’autres mots, si la fiducie en question est une fiducie visée [ce qu’ils ont déjà tenu pour acquis, comme il a été mentionné, au même paragraphe 38 de leur mémoire] le statut de « fiducie » pour l’application de l’article 107 est rétablit à l’alinéa a.1). » Ils font valoir que les alinéas a) et a.1) sont incompatibles en soi, ce qui entraîne une ambiguïté nécessitant de faire appel aux principes d’interprétation des lois, qui indiquent que les règles des fiducies visées prévues à l’article 107 ont préséance sur les règles conflictuelles relatives au régime de prestations aux employés prévues à l’article 6.
+[36] Je ne constate aucune ambiguïté. Comme je l’ai mentionné, l’alinéa a) du paragraphe 108(1), qui définit le terme « fiducie », dispose que le terme « fiducie » figurant notamment à l’article 107 ne comprend pas les fiducies de régimes de prestations aux employés, c’est-à-dire les fiducies régies par un régime de prestations aux employés. L’alinéa a.1) dispose que le terme « fiducie » figurant à l’article 107 ne comprend pas une fiducie dont la totalité ou la presque totalité des biens sont détenus en vue d’assurer des prestations à des particuliers dans le cadre ou au titre de la charge ou de l’emploi actuel ou ancien d’un particulier. Mais de cette exclusion généralement exprimée à l’alinéa a.1), on écarte notamment « la fiducie [...] visée [...] pour l’application du paragraphe 107(2) ». À mon avis, si on note les premiers mots de la définition de « fiducie », cela signifie manifestement que le mot « fiducie » figurant notamment à l’article 107 comprend en effet « la fiducie [...] visée [...] pour l’application du paragraphe 107(2) ».
+[37] Ce passage de l’alinéa a.1) fait partie d’une exclusion d’une exclusion. Certainement, une fiducie visée pour l’application du paragraphe 107(2) peut exister en soi. Toutefois, il demeure que, si une fiducie est un régime de prestations aux employés, elle ne peut pas également être une fiducie visée. Cette situation découle de l’alinéa 108(1)a) précité, excluant les fiducies de régime de prestations aux employés des renvois à la « fiducie » de l’article 107 et également du fait qu’au sens de l’article 4800.1 du Règlement, le concept de « fiducies visées » n’existe que pour l’application de l’une ou l’autre des quatre dispositions précisées à l’article 107.
+[38] J’ajoute qu’à l’égard de la définition de « fiducie » au paragraphe 108(1), de manière superflue peut-être, l’inclusion de l’exclusion prévue à l’alinéa a) notamment des régimes de prestations aux employés dans l’exclusion de l’alinéa a.1) de sa propre exclusion formulée généralement, ne soulève pas d’incohérence. Toutefois, en ce qui concerne l’exclusion de cette exclusion formulée généralement, on pourrait penser que l’exclusion formulée généralement comprend les régimes de prestations aux employés, ce qui soulève la question de savoir pourquoi l’exclusion du régime de prestations aux employés prévue à l’alinéa a) n’était pas suffisante en soi.
+[39] Enfin, les appelants allèguent (mémoire, aux paragraphes 41 à 46) que, dans son argumentaire, l’intimée [TRADUCTION] « présume que les règles [relatives au régime de prestations aux employés] ont préséance sur les règles relatives aux fiducies visées ». Ce n’est pas ce que je retiens des observations de l’intimée, et quoi qu’il en soit, mon analyse en l’espèce ne se fonde pas sur l’une de ces hypothèses.
+[40] Au motif de ce qui précède, je conclus que ni l’alinéa a.1) du paragraphe 108(1) prévoyant la définition de « fiducie », ni aucune des hypothèses favorisant les règles relatives aux régimes de prestations aux employés par rapport aux règles relatives aux fiducies visées, n’ont d’incidence sur ma conclusion selon laquelle la fiducie en l’espèce est une fiducie de régime de prestations aux employés et que, par conséquent, elle n’est pas et ne peut pas être une fiducie visée.
+[41] Ma conclusion aurait été différente si j’avais abordé cette analyse dans l’ordre inverse, soit en examinant d’abord si la fiducie en l’espèce était une fiducie visée, puis s’il s’agissait d’une fiducie de régime de prestations aux employés. J’ai suivi l’ordre des questions en litige choisi par les parties.
+C. Si la fiducie en l’espèce est une fiducie visée, les règles relatives aux fiducies visées ont-elles préséance sur les règles relatives aux régimes de prestations aux employés régis par une fiducie?
+[42] Comme j’ai conclu que la fiducie en l’espèce est un régime de prestations aux employés et non une fiducie visée, la prémisse de cette question en litige n’est pas fondée. Par conséquent, dans les présents appels, les règles relatives aux fiducies visées prévues dans la LIR ne s’appliquent pas et n’ont pas préséance sur les règles relatives aux régimes de prestations aux employés qui y sont prévues.
+D. Subsidiairement, est-ce que les règles de la LIR relatives aux régimes de prestations aux employés régis par une fiducie sont inapplicables à l’égard des deux distributions d’actions reçues par M. Baker, au motif que l’alinéa 6(1)a) de la LIR ne s’applique pas à son cas?
+[43] Il est allégué, uniquement dans l’appel de M. Baker, que les deux distributions d’actions qu’il a reçues de la fiducie en l’espèce n’étaient pas des paiements au titre du régime de prestations aux employés, en raison de l’exclusion prévue par la partie accessoire du paragraphe 248(1), qui définit la notion de régime de prestations aux employés, qui a été précédemment examinée. Selon le libellé de l’exclusion, il est allégué que, si l’article 6 de la LIR devait être interprété de façon à omettre le sous-alinéa 6(1)a)(ii) et l’alinéa 6(1)g), les deux distributions reçues par M. Baker ne seraient pas imposables, et ne constitueraient donc pas des paiements au titre du régime de prestations aux employés.
+[44] L’avocat a expliqué que, s’il faut interpréter l’article 6 de façon à omettre les deux dispositions de l’article 6 susmentionnées, la seule disposition restante qui pourrait faire en sorte que ces distributions sont imposables est l’alinéa 6(1)a). Aucune des parties n’a repéré d’autres dispositions de la LIR qui pourraient être applicables. L’alinéa 6(1)a) est rédigé de façon large, et prévoit essentiellement ce qui suit :
+Sont à inclure dans le calcul du revenu d’un contribuable tiré, pour une année d’imposition, d’une charge ou d’un emploi, ceux des éléments suivants qui sont applicables [...] la valeur de [...] tout autre avantage que reçoit ou dont jouit le contribuable [...] au cours de l’année au titre, dans le cadre ou en raison de la charge ou de l’emploi du contribuable [...]. [Non souligné dans l’original.]
+[45] Comme je l’ai mentionné, à toutes les périodes pertinentes, M. Baker était dirigeant de la société en activité, D2L, puisqu’il en était le président et directeur général (et il en était de même pour la société mère de D2L). Il était également, à toutes les périodes pertinentes, un des trois fiduciaires de la fiducie en l’espèce. Il n’y a aucune preuve que les deux décisions des fiduciaires (en août et octobre 2012) relatives au nombre d’actions de catégorie B distribuées à M. Baker n’étaient pas unanimes.
+[46] En 2012, les fiduciaires de la fiducie en l’espèce ont décidé du nombre d’actions de catégorie B de la fiducie en l’espèce à distribuer à chaque employé. Dans son témoignage, M. Baker a indiqué que, pour tous les employés, à l’exception de lui-même, la décision des fiduciaires a été prise en fonction de critères d’emploi, comme la durée d’emploi, le salaire et la contribution de l’employé. M. Baker a déposé en preuve une feuille de calcul qu’il a personnellement préparée pour aider les fiduciaires dans leur processus décisionnel. On retrouve sur cette feuille les noms des employés, y compris son propre nom, qui étaient admissibles à recevoir des actions de catégorie B. On y voit que chacun de ces employés, à l’exception de lui-même, a été évalué en fonction des trois critères d’emploi précités.
+[47] Il a témoigné que les deux décisions de 2012 des fiduciaires à l’égard du nombre d’actions de catégorie B à lui distribuer étaient uniquement fondées sur le fait qu’il devrait recevoir environ 70 % du total des actions de catégorie B distribuées par la fiducie en l’espèce. Il fait valoir que ce critère n’était pas lié à l’emploi et que, par conséquent, l’alinéa 6(1)a) ne s’applique pas. En d’autres termes, les avantages constitués d’actions de catégorie B n’ont pas été reçus, aux termes de l’alinéa 6(1)a), « [...] dans le cadre ou en raison de » son emploi chez D2L. Il n’existerait aucune note ni aucun procès-verbal des délibérations des fiduciaires lorsqu’ils ont décidé des distributions d’actions de catégorie B que ferait la fiducie en l’espèce.
+[48] Il n’y a pas de document ni d’élément de preuve de vive voix corroborant l’intention des fiduciaires d’attribuer à M. Baker environ 70 % des actions de catégorie B après distribution de la fiducie en l’espèce (sans tenir compte de la part de 20 % d’actions détenues par les investisseurs externes). Quoi qu’il en soit, il s’agit du pourcentage général d’actions de catégorie B qui lui ont été distribuées.
+[49] Il n’empêche qu’il n’y a aucun élément de preuve corroborant le témoignage de M. Baker, qui affirme que le seul facteur que les fiduciaires ont pris en considération lorsqu’ils ont fixé le nombre d’actions de catégorie B à lui attribuer reposait sur le fait qu’il est le fondateur de l’entreprise. Selon la thèse de M. Baker, aucun des fiduciaires n’a en outre ou subsidiairement tenu compte de ses 12 ans de service (de 2000 à 2012) comme principal employé de D2L (président et directeur général). C’est pendant ces douze années que les activités de D2L ont connu une grande croissance et que les actions de catégorie B de D2L ont atteint une valeur de plusieurs millions de dollars. Ce sont ces mêmes actions de catégorie B que les fiduciaires ont décidé de distribuer à leur gré en 2012 aux employés admissibles de D2L, y compris les trois appelants.
+[50] Il est utile de noter qu’aucun des deux autres fiduciaires de la fiducie en l’espèce n’a été appelé à témoigner notamment pour confirmer le témoignage de M. Baker relativement au processus décisionnel concernant sa situation et pour être contre-interrogé. Lors de l’audience, j’ai demandé si les autres fiduciaires seraient appelés à témoigner, et la réponse a été négative, sans explication.
+[51] Je ne peux pas retenir l’argument de M. Baker. Avec respect, son témoignage était intéressé. Je dois donc présumer, en l’absence de témoignage d’un des deux autres fiduciaires ayant participé au processus décisionnel concernant M. Baker, qu’il aurait été possible que j’entende un témoignage ne correspondant pas au témoignage présenté par M. Baker concernant ses souvenirs ou sa connaissance. Ainsi, les éléments de preuve qui m’ont été présentés n’établissent pas qu’en prenant leur décision unanime de 2012 concernant la distribution des actions de catégorie B à M. Baker, aucun des trois fiduciaires n’a tenu compte, explicitement ou tacitement, et de façon générale ou précise, de la contribution de M. Baker au cours des douze années précédentes comme dirigeant de D2L.
+[52] Par conséquent, je conclus que les éléments de preuve sont insuffisants pour soutenir la thèse de M. Baker selon laquelle, en raison de l’exclusion prévue par la partie accessoire de la définition de l’expression « régime de prestations aux employés », l’alinéa 6(1)a) ne s’applique pas aux deux distributions qu’il a reçues et que ces deux distributions ne sont donc pas imposables sur son revenu.
+[53] Cette conclusion est suffisante pour mettre un terme à mon examen sur cette question. Je souhaite toutefois ajouter de courtes observations.
+[54] Comme je l’ai mentionné précédemment, les modalités de la convention de fiducie prévoyant la création de la fiducie en l’espèce prévoient explicitement (au point d’en être redondant) que la fiducie en l’espèce est constituée au profit des employés de la société mère de D2L et de ses filiales. Le terme [TRADUCTION] « employé » figure d’ailleurs dans le nom de la fiducie : « Desire2Learn Employee Stock Trust ». En outre, la convention de fiducie donne aux fiduciaires de la fiducie en l’espèce une [TRADUCTION] « entière discrétion » pour la détermination du nombre d’actions de catégorie B de la fiducie en l’espèce à distribuer à chaque employé ou bénéficiaire. L’expression « entière discrétion » indique que ces décisions ne sont assujetties à aucune restriction, comme des restrictions relatives à des éléments liés à l’emploi par exemple.
+[55] Dans l’arrêt Blanchard c. Canada, [1995] A.C.F. no 1045 (CAF), au paragraphe 4 (QL), le juge Linden a examiné le passage [d’une version antérieure] de l’alinéa 6(1)a) « [...] reçoit [...] au titre, dans l’occupation ou en vertu d’une charge ou d’un emploi [...] ». Il a noté que, dans l’arrêt Nowegijick c. La Reine, [1983] 1 RCS 29, au paragraphe 39, la Cour suprême du Canada, sous la plume du juge Dickson, a expliqué que les mots de l’alinéa 6(1)a) « [au titre de] » « ont la portée la plus large possible » et que « [p]armi toutes les expressions qui servent à exprimer un lien quelconque entre deux sujets connexes, c’est probablement l’expression « [au titre de] » qui est la plus large ». Le juge Linden souligne ensuite que ces commentaires de la Cour suprême « sont pertinents aux fins de l’interprétation de l’alinéa 6(1)a) ». Plus précisément, il ajoute que « [l]e législateur a ajouté à l’expression “ à titre de ” les expressions “ dans l’occupation de ” et “ en vertu de ” pour souligner qu’il suffit d’un lien très ténu avec l’emploi pour que l’article s’applique ». [Non souligné dans l’original]
+[56] D’un point de vue logique et raisonnable, il semble inattaquable que, par le seul fait d’être employé de D2L, M. Baker (et cela s’applique également à M. McNeeley et M. Chapman) a reçu son avantage constitué d’actions de catégorie B de la fiducie en l’espèce qui a été expressément créée au profit des employés. Par conséquent, en vertu de l’alinéa 6(1)a), il a reçu cet avantage « au titre » de cet emploi. La fiducie en l’espèce n’aurait pas pu lui accorder des actions de catégorie B s’il n’avait pas été un employé de D2L, même s’il était également le fondateur de cette entreprise.
+[57] Citant la décision Phaneuf, succession c. Canada, [1977] A.C.F. no 261 (QL), 78 DTC 6001 (C.F. 1re inst.), M. Baker fait valoir que le seul fait d’être un membre d’un bassin d’employés admissibles à recevoir un avantage est insuffisant pour l’application de l’alinéa 6(1)a). Dans la décision Phaneuf, le testament du principal actionnaire défunt de la société employeur autorisait les employés à acheter, à leur valeur nominale, des actions de la société employeur se trouvant dans sa succession (l’avantage étant le prix inférieur à la juste valeur marchande des actions). La Cour a fédérale a conclu que le fait que seuls ces employés pouvaient être bénéficiaires de l’avantage qui en découlait ne déclenchait pas l’application de l’alinéa 6(1)a), l’avantage tiré par les employés étant seulement un don testamentaire.
+[58] Il faut distinguer la décision Phaneuf des appels en l’espèce au motif que, dans cette décision, la société employeur n’était pas la source de l’avantage. L’avantage tirait plutôt sa source d’un leg testamentaire offert par le principal actionnaire de la société employeur. C’est la raison pour laquelle la Cour fédérale a conclu que l’avantage était un don plutôt qu’un avantage au sens de l’alinéa 6(1)a). En revanche, dans les appels en l’espèce, l’employeur est l’acteur principal. La fiducie en l’espèce est la source de l’avantage. Elle a été créée précisément comme mécanisme permettant à la société employeur de détenir et, ultimement, de distribuer aux bénéficiaires de la fiducie en l’espèce des titres d’actions émis par la société employeur.
+[59] M. Baker cite également l’arrêt La Reine c. Savage, [1983] 2 RCS 428, à la page 441, à l’appui de la thèse selon laquelle les « considérations qui n’ont rien à voir avec l’emploi [du contribuable] » sont des avantages qui ne sont pas visés par l’alinéa 6(1)a). À la lecture attentive de cet arrêt, il semble que la Cour suprême a utilisé cette phrase à la fin d’un paragraphe décrivant la thèse de la Couronne et la façon dont la Couronne distinguait l’affaire en cause de la décision Phaneuf. La Cour suprême aborde précisément cette question et tranche l’affaire Savage en tenant compte du fait que l’avantage visé en l’espèce était une « récompense » non imposable, au sens de l’alinéa 56(1)n).
+[60] Quoi qu’il en soit pour l’arrêt Savage, le libellé large de l’alinéa 6(1)a) exige uniquement l’existence d’un lien ténu entre l’avantage et l’emploi. Cela n’écarte pas les avantages reçus lorsqu’il existe, en plus du lien exigé entre l’avantage et l’emploi, des considérations qui n’ont rien à voir avec l’emploi.
+[61] Dans les présents appels, la convention de fiducie est excessivement claire relativement au fait que les bénéficiaires de la fiducie en l’espèce ne peuvent être que des employés de cet employeur, tout en disposant que les fiduciaires peuvent exercer leur « entière discrétion » à l’égard du nombre d’actions de catégorie B distribuées à chaque employé. Ce libellé exprime clairement le fait que les fiduciaires ne sont pas limités aux éléments liés à l’emploi. Ils pouvaient tenir compte, par exemple, du fait qu’un employé était également un membre actif de sa collectivité ou qu’il était le fondateur de l’entreprise, sans sacrifier l’exigence centrale prévue par l’alinéa 6(1)a) de l’existence d’un lien minimal entre l’emploi et l’avantage. Au risque de me répéter, ce lien était déjà satisfait pour M. Baker et les deux autres appelants, uniquement du fait que l’avantage constitué des actions de catégorie B n’était accessible qu’aux employés admissibles de la société mère de D2L et de ses filiales.
+IV. Conclusion :
+[62] Par conséquent, ces trois appels des nouvelles cotisations à l’égard de l’année d’imposition 2012 des appelants sont rejetés avec dépens en faveur de l’intimée, fixés à 18 000 $, solidairement entre les appelants, M. McNeeley et M. Chapman devant payer 5 000 $ chacun et M. Baker devant payer 8 000 $ (en raison de sa question en litige supplémentaire), dans les 30 jours de la date de délivrance de leur jugement respectif.
+Signé à Ottawa, Canada, ce 29e jour de septembre 2020.
+« B. Russell »
+Le juge Russell
+Traduction certifiée conforme
+ce 28e jour de février 2021
+Mario Lagacé, jurilinguiste
+RÉFÉRENCE :
+2020 CCI 90
+NOS DES DOSSIERS DE LA COUR :
+2016-5407(IT)G
+2017-4712(IT)G
+2018-1458(IT)G
+INTITULÉS :
+MATHEW MCNEELEY c. SA MAJESTÉ LA REINE
+KENNETH CHAPMAN c. SA MAJESTÉ LA REINE et
+JOHN A. BAKER c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Hamilton (Ontario)
+DATE DE L’AUDIENCE :
+Les 20 et 21 novembre 2019
+MOTIFS DU JUGEMENT :
+L’honorable juge B. Russell
+DATE DU JUGEMENT :
+Le 29 septembre 2020
+COMPARUTIONS :
+Avocat des appelants :
+Me Salvatore Mirandola
+Avocate de l’intimée :
+Me Lindsay Tohn
+AVOCATS INSCRITS AU DOSSIER :
+Pour les appelants :
+Nom :
+Me Salvatore Mirandola
+Cabinet :
+McCarthy Tétrault S.E.N.C.R.L., s.r.l.
+Toronto (Ontario)
+Pour l’intimée :
+Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa, Canada

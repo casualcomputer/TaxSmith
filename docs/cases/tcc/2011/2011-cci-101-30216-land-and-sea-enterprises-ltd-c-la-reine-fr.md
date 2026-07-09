@@ -1,0 +1,200 @@
+---
+title: "Land and Sea Enterprises Ltd. c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30216/index.do"
+last_modified: "2011-02-16"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2011 CCI 101"
+citation2: ""
+neutral_citation: "2011 CCI 101"
+decision_date: "2011-02-16"
+language: "fr"
+item_id: "30216"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7766
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T14:06:29.867000+00:00"
+cases_cited_count: 2
+cases_citing_count: 4
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "b5edc8bd6e54985766023ed0236757910cb84c308a59a742ff2f4187b76ea6ad"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Land and Sea Enterprises Ltd. c. La Reine
+
+- Citation: 2011 CCI 101
+- Decision date: 2011-02-16
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7766, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Land and Sea Enterprises Ltd. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2011-02-16
+Référence neutre
+2011 CCI 101
+Numéro de dossier
+2010-2580(GST)I
+Juges et Officiers taxateurs
+Diane Campbell
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2010-2580(GST)I
+ENTRE :
+LAND AND SEA ENTERPRISES LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 13 janvier 2011, à Charlottetown (Île‑du‑Prince‑Édouard).
+Devant : L’honorable juge Diane Campbell
+Comparutions :
+Représentant de l’appelante :
+M. J. Gerald Arsenault
+Avocat de l’intimée :
+Me Toks C. Omisade
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’encontre de la cotisation établie en vertu de la partie IX de la Loi sur la taxe d’accise relativement à l’avis de cotisation daté du 23 mai 2007 pour la période du 1er mai 2004 au 30 avril 2005 est accueilli sans dépens, compte tenu de ce qui suit :
+L’appelante peut déduire des crédits de taxe sur les intrants relativement au montant total des factures numéros 9726, 9873 et 9829, selon les motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 16e jour de février 2011.
+« Diane Campbell »
+Juge Campbell
+Traduction certifiée conforme
+ce 30e jour de mars 2011.
+Nathalie Gadbois, LL. L., LL. B.
+Référence : 2011 CCI 101
+Date : Le 16 février 2011
+Dossier : 2010-2580(GST)I
+ENTRE :
+LAND AND SEA ENTERPRISES LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Campbell
+[1] Il s’agit d’un appel interjeté à l’encontre d’une cotisation établie en vertu de la Loi sur la taxe d’accise (la « Loi ») pour la période du 1er mai 2004 au 30 avril 2005. À la suite d’une vérification menée à l’égard de l’appelante, le ministre du Revenu national (le « ministre ») a refusé des crédits de taxe sur les intrants (les « CTI ») de 9 358,76 $. La question en litige est de savoir si l’appelante a le droit de demander les CTI.
+[2] La société appelante a été constituée en personne morale en 1991, sous le nom de Troy Construction Limited. Ses activités initiales incluaient des travaux de plongée, du soudage sur pipeline et de la peinture de stationnements et d’intersections. Vers 2006 ou 2007, la société a changé son nom, ses activités étant maintenant orientées vers l’exploitation agricole.
+[3] Kimball Johnston est le seul administrateur et dirigeant de la société. Dans son témoignage, il a affirmé que, pendant la période visée par l’appel, la société avait amorcé un processus de transition de ses activités afin de devenir une entreprise agricole axée sur les chevaux, offrant notamment des services de pension, d’élevage, et de vente de chevaux, des services de reproduction, ainsi que des services d’élevage et d’entraînement de poulains de moins d’un an. Par conséquent, l’appelante soutient que les coûts liés aux CTI demandés ont été engagés pendant la transition des activités de la société vers une entreprise agricole axée sur les chevaux. Outre ces activités, la société appelante était propriétaire d’un bateau de pêche, qu’elle louait à M. Johnston, qui l’utilisait pour ses propres activités de pêche commerciale du homard. Le permis de pêche au homard est au nom de M. Johnston. L’appelante a également soutenu que M. Johnston agissait à titre de mandataire de la société lorsqu’il engageait des frais en son nom propre.
+[4] Les CTI demandés par l’appelante portent sur les points suivants :
+1) la construction d’une nouvelle grange;
+2) l’achat d’un tracteur;
+3) les fournitures agricoles;
+4) le relevé de services juridiques relatif à l’achat d’une terre;
+5) 50 p. 100 des CTI ayant trait aux dépenses relatives au carburant, aux services publics et aux services téléphoniques;
+6) 50 p. 100 des CTI ayant trait aux repas.
+[5] Selon l’intimée, l’appelante n’a pas droit aux CTI demandés pour ce qui est de la nouvelle grange parce que, si l’appelante l’a acquise pendant la période visée par l’appel afin d’améliorer son immobilisation, elle n’a pas utilisé la grange dans le cadre de ses activités commerciales immédiatement après l’avoir acquise. Subsidiairement, l’intimée affirme que la nouvelle grange n’était pas destinée à être utilisée ou fournie dans le cadre des activités commerciales de l’appelante. Pour ce qui est des autres points, l’intimée soutient que le tracteur n’a pas été acheté pour être utilisé principalement dans le cadre des activités commerciales de l’appelante et que le reste des éléments constituent des dépenses personnelles de M. Johnston et de son épouse.
+[6] Pour obtenir des CTI, l’appelante doit établir qu’elle a acquis les biens et les services en question pour consommation, utilisation ou fourniture dans le cadre de ses activités commerciales, aux termes du paragraphe 169(1) de la Loi. Le paragraphe est ainsi libellé :
+169(1) Règle générale Sous réserve des autres dispositions de la présente partie, un crédit de taxe sur les intrants d’une personne, pour sa période de déclaration au cours de laquelle elle est un inscrit, relativement à un bien ou à un service qu’elle acquiert, importe ou transfère dans une province participante, correspond au résultat du calcul suivant si, au cours de cette période, la taxe relative à la fourniture, à l’importation ou au transfert devient payable par la personne ou est payée par elle sans qu’elle soit devenue payable :
+A × B
+où :
+A représente la taxe relative à la fourniture, à l’importation ou au transfert, selon le cas, qui, au cours de la période de déclaration, devient payable par la personne ou est payée par elle sans qu’elle soit devenue payable;
+B :
+a) dans le cas où la taxe est réputée, par le paragraphe 202(4), avoir été payée relativement au bien le dernier jour d’une année d’imposition de la personne, le pourcentage que représente l’utilisation que la personne faisait du bien dans le cadre de ses activités commerciales au cours de cette année par rapport à l’utilisation totale qu’elle en faisait alors dans le cadre de ses activités commerciales et de ses entreprises;
+b) dans le cas où le bien ou le service est acquis, importé ou transféré dans la province, selon le cas, par la personne pour utilisation dans le cadre d’améliorations apportées à une de ses immobilisations, le pourcentage qui représente la mesure dans laquelle la personne utilisait l’immobilisation dans le cadre de ses activités commerciales immédiatement après sa dernière acquisition ou importation de tout ou partie de l’immobilisation;
+c) dans les autres cas, le pourcentage qui représente la mesure dans laquelle la personne a acquis ou importé le bien ou le service, ou l’a transféré dans la province, selon le cas, pour consommation, utilisation ou fourniture dans le cadre de ses activités commerciales.
+[7] Le paragraphe 169(4) de la Loi réfère aux documents ainsi qu’aux renseignements qu’un inscrit doit fournir à l’appui d’une demande de CTI.
+Le paragraphe 169(4) de la Loi est ainsi libellé :
+(4) Documents L’inscrit peut demander un crédit de taxe sur les intrants pour une période de déclaration si, avant de produire la déclaration à cette fin :
+a) il obtient les renseignements suffisants pour établir le montant du crédit, y compris les renseignements visés par règlement;
+b) dans le cas où le crédit se rapporte à un bien ou un service qui lui est fourni dans des circonstances où il est tenu d’indiquer la taxe payable relativement à la fourniture dans une déclaration présentée au ministre aux termes de la présente partie, il indique la taxe dans une déclaration produite aux termes de la présente partie.
+[8] Les renseignements prescrits sont entièrement exposés dans le Règlement sur les renseignements nécessaires à une demande de crédit de taxe sur les intrants (TPS/TVQ), DORS/91-45 (le « Règlement »), à l’article 3.
+[9] L’expression activité commerciale est défini au paragraphe 123(1) de la Loi, qui prévoit que :
+« activité commerciale » Constituent des activités commerciales exercées par une personne :
+a) l’exploitation d’une entreprise (à l’exception d’une entreprise exploitée sans attente raisonnable de profit par un particulier, une fiducie personnelle ou une société de personnes dont l’ensemble des associés sont des particuliers), sauf dans la mesure où l’entreprise comporte la réalisation par la personne de fournitures exonérées;
+b) les projets à risque et les affaires de caractère commercial (à l’exception de quelque projet ou affaire qu’entreprend, sans attente raisonnable de profit, un particulier, une fiducie personnelle ou une société de personnes dont l’ensemble des associés sont des particuliers), sauf dans la mesure où le projet ou l’affaire comporte la réalisation par la personne de fournitures exonérées;
+c) la réalisation de fournitures, sauf des fournitures exonérées, d’immeubles appartenant à la personne, y compris les actes qu’elle accomplit dans le cadre ou à l’occasion des fournitures.
+Analyse
+[10] Pour obtenir des CTI, l’appelante doit répondre aux trois conditions prévues au paragraphe 169(1) :
+1) la personne qui fait la demande/l’appelante doit avoir acquis la fourniture;
+2) la taxe sur les produits et services (la « TPS » doit être payable ou avoir été payée par la personne qui fait la demande/l’appelante à l’égard de la fourniture;
+3) la personne qui fait la demande/l’appelante doit avoir acquis la fourniture pour consommation ou utilisation dans le cadre de ses activités commerciales.
+(General Motors du Canada Ltd. c. La Reine, 2008 CCI 117, au paragraphe 30, [2008] A.C.I. no 80 [General Motors]).
+[11] En plus d’acquérir la fourniture en tant qu’inscrit aux fins de la TPS, la personne qui fait la demande doit répondre aux deux autres conditions pour obtenir des CTI. Les motifs de la décision que j’ai rendue dans l’affaire General Motors vont dans le même sens que ceux de la juge Woods dans Y.S.I.’s Yacht Sales International Ltd. c. La Reine, 2007 CCI 306, [2007] A.C.I. no 187, dans laquelle, au paragraphe 57, elle a conclu que le droit de demander des CTI revient à juste titre à la personne tenue de payer la contrepartie aux termes d’une convention et non à la personne qui pourrait avoir payé la contrepartie. En outre, la fourniture doit avoir été acquise pour utilisation ou fourniture dans le cours des activités commerciales de l’inscrit.
+[12] Le montant le plus important demandé par l’appelante se rapporte à la nouvelle grange. La question en litige dans le présent appel est de savoir si, pendant la période en litige, l’appelante menait des activités commerciales dans le cadre des différentes opérations relatives à l’élevage de chevaux. D’après la preuve, il ne fait aucun doute que l’appelante exerce actuellement des activités commerciales d’élevage de chevaux. Mais l’appelante exerçait‑elle ces activités commerciales, même pendant le démarrage de l’entreprise, durant la période en litige? Dans la décision Gartry c. La Reine, [1994] A.C.I. no 240, 94 D.T.C. 1947, l’ancien juge en chef Bowman a exprimé l’opinion suivante à la page 1949 sur la détermination du moment où une entreprise débute :
+[…] Pour ce qui est de la détermination du moment où une entreprise débute, il n’est pas réaliste de dire que c’est au moment où l’on commence à tirer de l’argent du commerce ou de la fabrication d’un bien ou de la prestation d’un service ou, à l’autre extrême, que c’est au moment où l’on a pour la première fois eu l’intention de lancer l’entreprise. Chaque cas dépend des faits qui lui sont propres, mais, lorsqu’un contribuable a pris des mesures importantes, des mesures essentielles pour exploiter l’entreprise, il est juste de conclure que l’entreprise avait démarré. […]
+[13] Dans la décision Kaye c. La Reine, [1998] A.C.I. no 265, 98 D.T.C. 1659, l’ancien juge en chef Bowman, traitant à nouveau de la détermination du moment précis où une entreprise débute, a fait les commentaires suivants aux paragraphes 4, 5 et 7 :
+[4] […] C’est le caractère commercial de l’entreprise, révélé par sa structure, qui en fait une entreprise. L’intention subjective de faire de l’argent entre certes en ligne de compte, mais ce n’est pas le facteur déterminant, bien que l’absence d’une telle intention puisse nuire à l’assertion qu’une activité est une entreprise.
+[5] On ne peut considérer le caractère raisonnable de l’attente de profit de façon isolée. Il faut se demander : « Est-ce qu’une personne raisonnable qui examine une activité en particulier et applique des normes courantes de gestion d’entreprise affirmerait qu’il s’agit bien d’une entreprise? » Pour répondre à la question, la personne raisonnable fictive examinerait entre autres choses la structure du capital, les connaissances du participant et le temps consacré à l’activité. Elle évaluerait également si la personne qui prétend exploiter une entreprise a procédé de façon ordonnée et méthodique, de la manière dont une personne en affaires procéderait normalement.
+[…]
+[7] En fin de compte, les choses se résument à évaluer, en faisant preuve de sens pratique, l’ensemble des facteurs, en accordant à chacun l’importance qui convient dans le contexte global. Bien entendu, on ne doit pas faire fi de la vision et de l’imagination de l’entrepreneur, mais ce sont là deux aspects qui sont difficiles à évaluer à prime abord. En d’autres termes, si vous voulez qu’on vous traite comme un homme d’affaires, agissez en homme d’affaires.
+[14] Il est clair qu’une activité peut être considérée comme une activité commerciale bien avant qu’elle ne soit rentable. Il s’agira toujours d’une question de fait. Les dépenses donnant droit à des CTI à l’étape de démarrage d’une activité commerciale peuvent être admissibles à condition que l’intention de démarrer une entreprise soit indiquée clairement et que des étapes fondamentales aient été suivies et des mesures essentielles mises en place.
+[15] Compte tenu de l’ensemble de la preuve, je suis d’avis que des activités commerciales étaient exercées pendant l’étape de démarrage. Toutefois, la question en litige est de savoir si, pendant l’étape de démarrage, les activités commerciales étaient exercées par l’appelante ou par M. Johnston. En l’espèce, l’appelante n’avait la propriété légale d’aucun des chevaux pendant la période en litige. Le terrain sur lequel la nouvelle grange a été construite appartenait à M. Johnston et à son épouse pendant cette période. Même si un contrat de location avait été conclu relativement à un bâtiment séparé abritant un atelier, il n’existait aucune entente relativement à la grange pour la période en litige. La majorité des factures relatives à la construction de la grange étaient au nom de Kimball Johnston et non à celui de l’appelante.
+[16] L’un des obstacles qui empêchent l’appelante d’avoir droit à des CTI pendant la période visée consiste en l’incapacité de M. Johnston de séparer ses propres activités de celles de l’appelante et de tenir les registres adéquats. En tant que propriétaire unique de la société appelante, M. Johnston considérait comme interchangeables ses propres activités commerciales et celles de la société appelante, omettant ainsi de reconnaître l’importance juridique de l’appelante comme entité distincte. On ne peut faire abstraction de la personnalité morale et considérer l’entité et ses actionnaires comme un tout que lorsqu’il est clairement évident que les circonstances l’exigent. Dans la décision La Reine c. Jennings, [1994] A.C.F. no 953, 94 D.T.C. 6507, le juge Robertson, à la page 6508, cite le juge Wilson dans l’arrêt de la Cour suprême Kosmopoulos c. Constitution Insurance Co., [1987] 1 R.C.S. 2, aux pages 10-11 :
+Aucune règle uniforme n’a été appliquée à la question de savoir dans quelles circonstances un tribunal peut déroger à ce principe en « faisant abstraction de la personnalité morale » et en considérant la société comme un simple « mandataire » ou « instrument » de son actionnaire majoritaire ou de sa société mère. En mettant les choses au mieux, tout ce qu’on peut dire est que le principe des « entités distinctes » n’est pas appliqué lorsqu’il entraînerait un résultat [traduction] « trop nettement en conflit avec la justice, la commodité ou les intérêts du fisc. » [...]
+Il y a un argument convaincant selon lequel [traduction] « quiconque choisit de profiter des avantages qu’offre la constitution en société doit aussi en supporter les inconvénients, de sorte que, si jamais on doit faire abstraction de la personnalité morale, ce ne doit être que dans l’intérêt de tiers à qui, sans cela, ce choix porterait préjudice. » [...] Un avocat compétent a conseillé à M. Kosmopoulos de constituer son entreprise en société afin de protéger ses biens personnels et rien dans la preuve n’indique que sa décision de profiter des avantages qu’offre la constitution en société n’était pas sincère. Ayant opté pour les avantages de la constitution en société, il ne devrait pas lui être permis de se soustraire à ses désavantages. Il ne devrait pas lui être loisible de « jouer sur les deux tableaux » en même temps.
+[Non souligné dans l’original.]
+[17] L’importance de la tenue appropriée de documents relatifs à la propriété est reconnue dans la Loi et plus précisément dans le Règlement, selon lequel dls CTI seront refusés si la personne qui les demande ne respecte pas les exigences documentaires. M. Johnston a justifié le fait que de nombreuses factures pour la grange étaient à son nom par le fait qu’il œuvrait dans le petit milieu des affaires de l’Île‑du‑Prince‑Édouard où il jouit d’une certaine notoriété, ce qui explique pourquoi le nom de la société et le sien ont été inscrits de façon interchangeable sur les factures. Cependant, cela ne le soustrait pas à l’obligation d’assurer une tenue appropriée des registres ni de veiller à ce que les activités commerciales de l’appelante et ses propres activités commerciales ne soient pas enchevêtrées au hasard.
+[18] Compte tenu des éléments de preuve dont je dispose, je dois conclure qu’il n’existe aucune circonstance contraignante permettant de passer outre le principe juridique bien établi de l’existence d’une personnalité morale juridique distincte et de considérer l’appelante et M. Johnston comme une seule entité. M. Johnston possède une vaste expérience dans le milieu des affaires. Au départ, l’appelante a été constituée en personne morale en 1991 sous le nom Troy Construction Ltd. Elle a participé à plusieurs entreprises commerciales sur une période de quatorze à quinze ans. M. Johnston mène personnellement des activités dans l’industrie de la pêche et il est un inscrit aux fins de la TPS qui aurait présenté une demande de CTI à l’égard de ses propres activités. M. Johnston devrait savoir ce qu’est la tenue appropriée de registres. Outre les quelques factures qui étaient au nom de l’appelante, aucune autre preuve documentaire n’a été soumise au soutien des arguments de l’appelante selon lesquels elle menait des activités axées sur les chevaux pendant la période visée par l’appel. Les chevaux n’ont été transférés à la société qu’en 2007. Aucune preuve ne démontre que l’appelante a réellement acquis des biens ou des services (à l’exception du nombre restreint de factures) pendant la période en litige. M. Johnston a fait les déclarations suivantes au sujet de l’enregistrement des chevaux :
+[traduction]
+[M. Johnston] R. Vous pouvez acheter un cheval à votre nom, monsieur, et il est ensuite enregistré à votre nom par l’American Quarter Horse Association, et je peux acheter ce cheval, l’inscrire dans mes livres et le revendre, ce qui constituerait une transaction faite par l’intermédiaire de ma société. Toutefois, l’American Quarter Horse Association n’exige pas que j’inscrive cette transaction à mon nom, ni au nom de l’utilisateur final. L’American Quarter Horse Association exige que la transaction soit à votre nom seulement si le cheval participe à un concours hippique.
+[Me Omisade] Q. 106 Donc, les chevaux ont‑ils été achetés par vous ou par votre épouse?
+[M. Johnston] R. Je suppose que c’est moi qui les ai achetés.
+(transcription, page 54, ligne 16, à la page 55, ligne 4)
+Compte tenu de cette preuve, l’enregistrement d’un cheval est lié à sa participation à un concours hippique et non à son propriétaire. M. Johnston reconnaît qu’en ce qui concerne l’achat d’un cheval, la transaction serait ou pourrait être inscrite [traduction] « dans [ses] livres », ce qui, à mon avis, signifie les registres de l’appelante. Toutefois, aucune preuve documentaire n’a été produite pour donner à penser que des achats ou des ventes ont été inscrits dans les registres de l’appelante pendant la période visée par l’appel. Dans son témoignage, M. Johnston a aussi affirmé qu’il avait un prêt d’actionnaire pour les chevaux en question, mais, une fois de plus, aucune preuve documentaire n’a été produite pour soutenir l’existence d’un tel prêt et aucun chèque payé fait par la société appelante à M. Johnston n’a été produit en ce qui concerne un remboursement.
+[19] Pour ce qui est de l’argument de l’appelante voulant que M. Johnston ait agit à titre de mandataire de l’appelante dans le cadre de l’achat des éléments en question, même si une telle relation de mandataire pourrait être reconnue à juste titre dans certaines circonstances, je ne crois pas que les circonstances en l’espèce le permettent. M. Johnston propriétaire unique de la société et, s’il agissait à titre de mandataire de l’appelante, il était chargé de veiller à ce que les documents adéquats des tiers montrent que les achats avaient été effectuées dans le cadre des activités de l’appelante. L’article 29 de la Companies Act, R.S.P.E.I. 1988, ch. C‑14, permet aux sociétés d’adopter des règlements afin de nommer des mandataires. Cependant, aucun règlement de ce genre n’a été produit en preuve.
+[20] Il est clair que la société appelante existait juridiquement durant la période en litige. Il est également clair que les activités commerciales d’élevage de chevaux, de concours hippique et de pension étaient en cours d’élaboration et à l’étape de démarrage. Cependant, il n’est pas aussi facile de déterminer si, pendant la période visée, ces activités constituaient les initiatives commerciales de l’appelante ou celles de M. Johnston. Il n’y avait aucune démarcation tranchée entre les activités de la société appelante et les activités commerciales de M. Johnston pendant cette période. Cependant, même si, après la vérification, il semble que ces activités soient clairement devenues celles de l’appelante. Toutefois, pour la période en litige, la preuve ne permet pas de conclure que ces activités de démarrage étaient celles de l’appelante. Compte tenu de ces faits, je suis disposée à permettre à l’appelante de demander des CTI pour les éléments suivants :
+A) Nouvelle grange
+Facture no 9726, 9873 et 9829 de Quality Truss (pour les montants de 17 050,45 $, 192,60 $ et de 588,50 $, respectivement) toutes envoyées à Troy Construction Ltd..
+Pour ce qui est des autres factures, le « relevé de compte » daté du 30 avril 2005 fait par Schurman Building Supplies et envoyé à Troy Construction Ltd. ne contient aucun renseignement requis par le Règlement et, plus précisément, ne contient aucune description des fournitures, comme l’exige le sous‑alinéa 3c)(iv) du Règlement. Les factures restantes sont adressées à Kimball Johnston, et aucune preuve ne démontre que l’appelante a remboursé M. Johnston pour l’un ou l’autre de ces montants.
+B) Tracteur
+L’appelante a acheté le tracteur en août 2004. D’après
+M. Johnston, il a utilisé le tracteur non seulement pour des activités d’entreprise, mais aussi pour ses propres activités de pêche commerciale. Comme c’était le cas pour la nouvelle grange, il n’existait aucune démarcation tranchée entre ces activités, et aucune preuve n’a été produite à l’appui de la demande de CTI. M. Johnston a simplement donné des exemples d’utilisation du tracteur qu’il a résumée comme étant [traduction] « toutes les autres tâches à effectuer sur la ferme ». (transcription, page 72, lignes 2 et 3). Je ne suis toujours pas convaincue, compte tenu de la preuve, que le tracteur était utilisé « principalement » dans le cadre des activités commerciales de l’appelante, aux termes du paragraphe 199(2) de la Loi et ce, en partie à cause de l’enchevêtrement des activités pendant la période en litige.
+C) Fournitures agricoles
+Ces montants ont été payés au nom de M. Johnston. Aucune preuve documentaire n’a été produite pour démontrer que l’appelante était propriétaire d’un seul des chevaux pendant la période en litige. En fait, la preuve tend à démontrer que les chevaux n’ont pas été transférés à l’appelante avant 2007. Par conséquent, il s’agit de dépenses personnelles de M. Johnston.
+D) Relevé de services juridiques
+Ce relevé est relatif aux frais juridiques payés par M. Johnston et son épouse pour l’achat d’une propriété en leur nom. Il s’agit clairement de dépenses personnelles.
+E) Carburant, services publics et services téléphoniques
+Les dépenses relatives aux services publics et aux services téléphoniques sont des dépenses personnelles, car aucune preuve n’a été produite pour démontrer que ces montants se rapportent uniquement aux activités de l’appelante. De plus, selon le témoignage de la vérificatrice, le montant déboursé pour les services publics ayant trait à une propriété située au Nouveau‑Brunswick. Pour prouver les dépenses en carburant, l’appelante a fait valoir qu’elle était propriétaire d’un camion diesel d’une tonne en plus d’un bateau à son usage exclusif et que M. Johnston et son épouse étaient propriétaires de véhicules à essence. Selon des relevés de VISA, les dépenses en carburant ont été supportées personnellement par M. Johnston; celui‑ci a déclaré que ces dépenses avaient toutes était faites pour le camion diesel. Aucune facture n’a été fournie à la vérificatrice et, puisque l’appelante avait demandé 100 p. 100 des dépenses en carburant pour le véhicule de l’appelante mais qu’elle n’avait pas tenu de livre de bord, la vérificatrice a accordé une déduction de 50 p. 100 des dépenses au titre d’activités commerciales. À l’exception du témoignage la preuve produite par M. Johnston selon lequel le camion en question était utilisé uniquement par l’appelante, je n’ai aucun document (ou facture), ni aucune preuve suffisante démontrant que ce camion était utilisé quotidiennement. Le fardeau de l’appelante est d’autant plus lourd lorsque 100 p. 100 des dépenses liées à l’utilisation d’un véhicule est déduit en tant que dépense d’entreprise, en plus du fait qu’en l’espèce, les activités personnelles et commerciales sont enchevêtrées.
+F) Repas
+L’appelante n’a présenté aucune demande à cet égard. Par conséquent, je ne me prononcerai pas sur les conclusions du ministre.
+[21] L’appel est accueilli sans dépens et l’appelante a le droit de demander des CTI relativement au montant total des factures numéro 9726, 9873 et 9829.
+Signé à Ottawa, Canada, ce 16e jour de février 2011.
+« Diane Campbell »
+Juge Campbell
+Traduction certifiée conforme
+ce 30e jour de mars 2011.
+Nathalie Gadbois, LL. L., LL. B.
+RÉFÉRENCE : 2011 CCI 101
+No DU DOSSIER DE LA COUR : 2010-2580(GST)I
+INTITULÉ : LAND AND SEA ENTERPRISES LTD. c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Charlottetown (Île-du-Prince-Édouard)
+DATE DE L’AUDIENCE : Le 13 janvier 2011
+MOTIFS DU JUGEMENT : L’honorable juge Diane Campbell
+DATE DU JUGEMENT : Le 16 février 2011
+COMPARUTIONS :
+Représentant de l’appelante :
+J. Gerald Arsenault
+Avocat de l’intimée :
+Me Toks C. Omisade
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Cabinet :
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada

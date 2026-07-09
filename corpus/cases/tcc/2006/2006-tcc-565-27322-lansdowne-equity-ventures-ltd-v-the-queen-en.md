@@ -1,0 +1,181 @@
+---
+title: "Lansdowne Equity Ventures Ltd. v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27322/index.do"
+last_modified: "2006-10-18"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 TCC 565"
+citation2: ""
+neutral_citation: "2006 TCC 565"
+decision_date: "2006-10-18"
+language: "en"
+item_id: "27322"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 862
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T21:40:38.103000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "fe61825d018ab779ea0eecb1eb5b004454d23b491a12894e674f8f8f1eec1515"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Lansdowne Equity Ventures Ltd. v. The Queen
+
+- Citation: 2006 TCC 565
+- Decision date: 2006-10-18
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 862, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Lansdowne Equity Ventures Ltd. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-10-18
+Neutral citation
+2006 TCC 565
+File numbers
+2005-322(IT)G
+Judges and Taxing Officers
+Ronald D. Bell
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2005-322(IT)G
+BETWEEN:
+LANSDOWNE EQUITY VENTURES LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on October 4, 2006, at Calgary, Alberta
+Before: The Honourable Justice R.D. Bell
+Appearances:
+Counsel for the Appellant:
+H. George McKenzie Q.C.
+Counsel for the Respondent:
+John O'Callaghan
+____________________________________________________________________
+JUDGMENT
+The appeals from the reassessments made under the Income Tax Act for the 1999 and 2000 taxation years are allowed and the reassessments are referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the Reasons for Judgment.
+An award of costs is deferred as provided in the Reasons.
+Signed at Ottawa, Canada, this 18th day of October, 2006.
+"R.D. Bell"
+Bell J.
+Citation:2006TCC565
+Date:20061018
+Docket: 2005-322(IT)G
+BETWEEN:
+LANSDOWNE EQUITY VENTURES LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Bell, J.
+[1] The Appellant, carrying on business of operating 12 mobile home parks having approximately 1700 dirt or gravel mobile home pads, owns approximately 1100 mobile homes leased as residential dwelling units. They all have wood frames with steel carriages, axles, wheels, trailer hitches, brakes and emergency lights.
+[2] For its 1999 and 2000 taxation years, the Appellant claimed capital cost allowance ("CCA") at the rate of 30% in respect of the mobile homes on the basis that they were trailers under class 10 of Schedule II to the Income Tax Regulations. That class includes
+Property not included in any other class that is ... a trailer, including a trailer designed to be hauled on both highways and railway tracks.
+The Minister of National Revenue disallowed those claims and reassessed the Appellant for both years on the basis that each such unit was, within the meaning of class 1 of Schedule II:
+a building or other structure, or part of it, including any component parts such as electric wiring, plumbing, sprinkler systems, air-conditioning equipment, heating equipment, lighting fixtures, elevators and escalators
+the CCA rate being 4%.
+[3] The issue to be decided is in which class of Schedule II the mobile homes are includible, namely:
+Class 10 as above described with 30% CCA
+Class 1 as above described with 4% CCA
+Class 6 (10%) as property not included in any other class that is
+... a building of ... frame, ... construction, including component parts such as electric wiring, plumbing, sprinkler systems, air- conditioning equipment, heating equipment, lighting fixtures, elevators and escalators, if the building ... has no footings or any other base support below ground level, ...
+OR
+Class 8 (20%), being:
+Property not included in Class 1 ... that is
+... a tangible capital property that is not included in another class
+in Schedule II excepting certain totally unrelated things.
+[4] Appellant's counsel referred to the CSA Standard Vehicle Equipment Requirements for Mobile Homes and Recreational Vehicles covering requirements for
+trailer couplings and hitches, vehicular lighting, glazing materials, tires and rims, and brake systems but does not include requirements for motorized homes.
+It defines "Vehicle" to mean a
+mobile home, recreational vehicle, or vehicle equipped with a slide-in or chassis-mounted camper.
+His point was that these mobile homes are regulated by construction standards that apply to trailers, there being no distinction between mobile homes and trailers. He referred to the vehicular lighting standards and the brake standards, which applied to mobile homes and trailers.
+Counsel referred also to a document entitled Vehicular Requirements for Mobile Homes prepared by the Canadian Standards Association. He noted the distinction in the definition section between a mobile home,
+a transportable, single - or multiple-section single family dwelling
+at time of manufacture and a modular home which referred to
+a complete dwelling built in a factory for transport to the site for installation.
+[5] Counsel submitted, with reference to further standards requirements, that mobile homes are built to a trailer standard and not to a house standard and are capable of being moved. He referred to photographs of the units showing that they still retain the trailer hitches, and he stated that some are moved on occasion and none are permanently attached to foundations.
+[6] Counsel then referred to the different classes with the concluding submission that the units were trailers, were not buildings or structures and, if they were none of the foregoing, they would fall into class 8, the "catchall" class with a CCA rate of 20%.
+[7] Respecting class 10, he said that the word "trailer" is not defined and is not qualified as to purpose or how often it is moved but that it is simply a trailer. He submitted that the plain, ordinary meaning of the word "trailer" is "trailer". He stated that the word "trailer" is defined in the Shorter Oxford English Dictionary,
+fifth edition, Volume 2 as, inter alia:
+Any of various vehicles designed to be drawn along or towed by another,
+and
+... trailer camp, trailer court ... trailer home ... trailer house ... N. AMER.: a mobile home ...
+[8] Counsel also referred to the Dictionary of Canadian Law which defines "trailer" as
+A vehicle so designed that it may be attached to or drawn by a motor vehicle and intended to transport property or persons and includes any trailer that is designed, constructed and equipped as a dwelling place, living abode or sleeping place, either permanently or temporarily. ... A trailer, a semi-trailer or a mobile home which is used, or intended to be used, as a dwelling, office or commercial or industrial establishment and which has not become an immoveable.
+He then submitted that because the units in question were simply sitting on blocks, they have not become immoveable.
+[9] Counsel referred to Dubreuil Brothers Ltd. v. M.N.R. 78 DTC 1584, which found trailers to fall into class 8 of Schedule II. Mr. Cardin, the Tax Review Board member, stated that:
+... it would appear that the only question to be determined is "when is a trailer not a trailer"
+and then discussed the posed question.
+Appellant's counsel submitted that the Board's reasoning was faulty, essentially because if an object is a trailer it remains as a trailer.
+[10] Counsel also referred to British Columbia Forest Products Ltd. v. M.N.R. 71 DTC 5178 and, in anticipation of Respondent's argument, made reference to Lord Denning's statement in Cardiff Rating Authority v. Guest, Keen Baldwin's Iron & Steel Co. Ltd., namely:
+A structure is something which is constructed, but not everything which is constructed is a structure. A ship, for instance, is constructed, but is not a structure. A structure is something of substantial size which is built up from component parts and intended to remain permanently on a permanent foundation. ...
+[11] He also referred the Court to Alberta Agricultural Development Corp. v. Corey Livestock Ltd. [1992] 4 W.W.R. 571, which determined that a mobile home was not a structure. The mobile home rested on concrete supporting beams by its own weight. It was connected to the available utilities and was skirted by concrete blocks.
+[12] Counsel then referred to Farm Credit Corp. v. Klassen, Alberta Judgments: [1989] A.J. No. 109 in which a mortgage contained the following provision:
+AND IT IS HEREBY DECLARED and agreed that all erections, buildings and improvements, fixed or otherwise now on or hereafter put upon the said premises are and shall (in addition to other fixtures thereon) become fixtures and a part of the realty and form a part of this security.
+The Court, saying that:
+The mobile home rests unaffixed and unattached on concrete beams and, hence, retains the mobility which its name describes
+concluded that the mobile home was not an erection, building or improvement.
+[13] In Marshallv. Consol (District) [1983] M.J. No 54, the land in question was owned by the plaintiff and used as a trailer park on which were situated mobile homes, the property of others. The Court concluded, with respect to whether mobile homes were personalty or realty that:
+Mobile homes are exactly that, mobile, and in my view must be considered personal property just as are cars, trucks, equipment or other property of that genre. The fact that mobile homes may have sewer, water or electrical connections is more in the nature of the users' convenience. ... in my view they are not buildings or structures.
+[14] Counsel referred also to R. v. Springman [1964] SCR 267.
+[15] Appellant's submission concluded with the simple statement that mobile homes are trailers, and not buildings or structures and that if they were none of those, they would fall into class 8 of Schedule II to the Income Tax Regulations.
+[16] Respondent's counsel argued that the mobile homes fell within class 1 in that they were structures. He conceded that they were not buildings. He referred to the Dubreuil Brothers Ltd. case, adopting Mr. Cardin's statement that the question to be determined was "when is a trailer not a trailer". It is difficult to comprehend why counsel argued that a mobile home was a "building" within class 6 having regard to the concession respecting class 1.
+[17] I do not regard that as an appropriate question to ask in this case, the appropriate question being whether the mobile home is a trailer. In Dubreuil Brothers Ltd. the Board member said:
+Both parties to the appeal agree that the subject properties are structures or buildings which are not permanently fixed to the land; which are capable of being hauled and moved on their own wheels and which can also serve as dwellings.
+There is no such agreement in this case.
+[18] Class 10 refers to property not included in any other class that is
+a trailer, including a trailer designed to be hauled on both highways and railway tracks.
+[19] I refer to clauses 5 and 6 of the Statement of Agreed Facts which provide that:
+5. All of the mobile homes have wood frames, with steel carriages, axles, wheels, trailer hitches, brakes and emergency lights.
+6. The interior and exterior of the mobile homes are designed in such a way that the mobile home can be towed on a public road to a location, or moved from one mobile home park to another, as required.
+In my view, these mobile homes are, in the ordinary sense of the word, trailers.
+The units in question are clearly not "buildings", they having been built as mobile homes. They are not, for the reasons above described, "structures". They are, therefore, not includible in class 1 or in class 6. I conclude that they are trailers on the ground that, within the meaning of class 10 of Schedule II, each unit is property that is:
+... a trailer, including a trailer designed to be hauled on both highways and railway tracks
+entitled to the CCA rate of 30%.
+[20] At counsels' request I leave it to counsel to arrange a telephone conference respecting costs.
+Signed at Ottawa, Canada, this 18th day of October, 2006.
+"R.D. Bell"
+Bell J.
+CITATION: 2006TCC565
+COURT FILE NO.: 2005-322(IT)G
+STYLE OF CAUSE: LANSDOWNE EQUITY VENTURES LTD. AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Calgary, Alberta
+DATE OF HEARING: October 4, 2006
+REASONS FOR JUDGMENT BY: The Honourable Justice R.D. Bell
+DATE OF JUDGMENT: October 18th, 2006
+APPEARANCES:
+Counsel for the Appellant:
+H. George McKenzie Q.C.
+Counsel for the Respondent:
+John O'Callaghan
+COUNSEL OF RECORD:
+For the Appellant:
+Name: H. George McKenzie Q.C.
+Firm: Felesky, Flynn LLP
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

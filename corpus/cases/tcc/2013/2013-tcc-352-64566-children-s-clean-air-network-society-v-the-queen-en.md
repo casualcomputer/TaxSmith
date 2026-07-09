@@ -1,0 +1,251 @@
+---
+title: "Children's Clean Air Network Society v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/64566/index.do"
+last_modified: "2013-11-01"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2013 TCC 352"
+citation2: ""
+neutral_citation: "2013 TCC 352"
+decision_date: "2013-11-01"
+language: "en"
+item_id: "64566"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5942
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T08:46:03.278000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "57eda44c32a835eee7d4df926142a1d0074346d7f129e631159492b0492b2151"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Children's Clean Air Network Society v. The Queen
+
+- Citation: 2013 TCC 352
+- Decision date: 2013-11-01
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5942, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Children's Clean Air Network Society v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2013-11-01
+Neutral citation
+2013 TCC 352
+File numbers
+2013-2296(GST)I
+Judges and Taxing Officers
+Campbell J. Miller
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2013-2296(GST)I
+BETWEEN:
+THE CHILDREN'S CLEAN AIR NETWORK SOCIETY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on October 24, 2013, at Halifax, Nova Scotia
+By: The Honourable Justice Campbell J. Miller
+Appearances:
+Agent for the Appellant:
+Norman Collins
+Counsel for the Respondent:
+Melanie Petrunia
+____________________________________________________________________
+JUDGMENT
+The Appeals from the assessments made under the Excise Tax Act for the periods April 25, 2009 to April 30, 2009 and May 1, 2009 to April 30, 2010, are allowed and the assessments are referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the Appellant, during these periods, is entitled to claim Input Tax Credits of 30% of the tax paid by the Appellant for goods and services acquired by the Appellant in its sponsorship programs.
+The Appeals from the assessments made under the Excise Tax Act for the periods May 1, 2010 to April 30, 2011 and May 1, 2011 to April 30, 2012 are dismissed.
+Signed at Ottawa, Canada, this 1st day of November 2013.
+"Campbell J. Miller"
+C. Miller J.
+Citation: 2013 TCC 352
+Date: 20131101
+Docket: 2013-2296(GST)I
+BETWEEN:
+THE CHILDREN'S CLEAN AIR NETWORK SOCIETY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+C. Miller J.
+[1] The Children’s Clean Air Network Society ("CCAN") appeals assessments under Part IX of the Excise Tax Act (the "Act") for four periods covering April 25, 2009 to April 30, 2009, May 1, 2009 to April 30, 2010, May 1, 2010 to April 30, 2011, and May 1, 2011 to April 30, 2012. For the first two periods CCAN operated as a Not-For-Profit Organization ("NPO"), while for the last two periods it operated as a registered charity, having registered as such effective July 31, 2010. CCAN filed its Goods and Service Tax ("GST") returns on the basis it collected and remitted Harmonized Sales Tax ("HST") on funding it received from sponsors: it also claimed Input Tax Credits ("ITC"). The Minister of National Revenue (the "Minister") assessed on the basis that CCAN collected HST in error, was not entitled to ITC’s as it carried on no commercial activity, but the Canada Revenue Agency ("CRA") did allow the public service body rebate for the periods that CCAN was a charity.
+FACTS
+[2] CCAN commenced its activity in 2009 as a NPO and operated as such until obtaining registered charity status in July 2010. The following is taken from its website:
+The Children’s Clean Air Network is a network of like-minded partners promoting "IDLE-FREE for our kids". Their goal is to help "North America turn off its tailpipe" – reducing needless vehicle emissions, ultimately saving billions of dollars in fuel and cutting millions of tons of greenhouse gas.
+…
+Partner organizations include schools, businesses, media outlets, and health and environment organizations.
+Needless vehicle emissions impact the health and future of children and are a significant waste of resources. The Children’s Clean Air Network seeks to inspire the public and empower children to be heard on this issue.
+…
+Mission
+To reduce greenhouse gas and improve air quality by reducing vehicle emissions.
+Vision
+Excess vehicle emissions will become as socially unacceptable as second hand smoke.
+Purpose
+To empower kids to transform driver behavior. Kids need a voice on climate change and poor air quality.
+Strategy
+To partner with business, schools and media to inspire through simple and consistent messaging.
+[3] Mr. Collins, the former secretary-treasurer, testified on behalf of the Appellant and described in more detail its operations. According to Mr. Collins, CCAN obtained funds from donations or sponsorships. Donations were just that, monies received from donors for the general benefit and good purposes of the organization, used at CCAN’s sole discretion. Sponsorships involved funds received from a business with a specific project identified for the funds, the project providing some degree of advertising for the sponsor as part of the project. So, for example, MicMac Mall would agree to sponsor a school event where CCAN would use the sponsors’ monies to acquire signage, posters, tailgate magnetic stickers etc., and make a presentation at the school regarding IDLE-FREE. Mr. Collins produced one of the tailgate magnets (approximately 8¨ x 4¨) which displayed in large letters: "IDLE-FREE For our kids." and in smaller letters CCAN and MICMAC MALL.
+[4] Using the MicMac Mall example, CCAN would account for the $4,000 received from this sponsor as $3,478 funding and $522 GST. CCAN would purchase goods (for example the magnets, signs, banners etc.) for $3,642 including $420 HST and would realize a margin, as Mr. Collins called it, of $358.00. CCAN would then claim an ITC of the $420 and would remit $122 to the CRA. It filed on this basis for three periods and this filing was accepted.
+[5] In March 2012, CCAN realized the charity was not living up to expectations and took appropriate steps to wind up, including donating most of the balance of its funds, which it anticipated by way of receiving a GST refund (based on the previous acceptance of three years worth of HST filings). However, CRA commenced a review in August 2012 and ultimately determined that CCAN had been incorrectly filing and assessed prior periods denying the ITC’s, though for the latter two periods allowed the public service body rebate to CCAN as a charity.
+POSITIONS
+[6] The Respondent’s position is that CCAN collected and remitted the tax in error as the supply was not a taxable supply, as it was not made in the course of commercial activity as required by the definition of commercial activity in section 123 of the Act, and is not eligible for ITC’s. Further, if found to be engaged in a commercial activity, section 135 of the Act would have applied to CCAN, again rendering the collection of tax incorrect as no supply would have been made. The fact is tax was collected and remitted on sponsorship monies both while a NPO and a charity. The issue is whether CCAN is entitled to any ITC’s either as a NPO or as a charity.
+[7] The Appellant argues that it was engaged in a commercial activity and therefore appropriately collected tax and should consequently be allowed ITC’s. It also made a fairness argument that by assessing CCAN denying the ITC’s, the charity is being more harshly treated than a for-profit business and the CRA is getting an unfair windfall.
+ANALYSIS
+[8] I will look at the situation at the two different stages of the CCAN, both as a NPO and as a charity. I have set out the pertinent provisions of the Act in Appendix A.
+[9] The first issue to determine is whether the tax collected and remitted by CCAN was done so in error. The CRA claims so because the CCAN did not make a taxable supply, as it was not made in the course of a commercial activity as required by the definition of taxable supply. I am going to sidestep this issue for the moment as I find section 135 of the Act applies to the sponsorship arrangement entered into between CCAN and its sponsors. The effect of this is to deem CCAN not to have made any supply.
+[10] CCAN supplied to its sponsors the service of advertising as part of a campaign to meet its objective of the reduction of car idling: the advertising was in the form of the sponsor’s name on CCAN campaign materials. I find that the sponsor’s sole use was to publicize its business. The situation therefore falls squarely within section 135 of the Act. No supply was made and therefore no tax should have been collected either as a NPO or a charity.
+[11] The fact is tax was collected. Is CCAN entitled, either initially as a NPO, or subsequently as a charity to claim ITC’s?
+[12] Firstly, dealing with the NPO, this is where the concept of commercial activity becomes important, as to a claim for ITC’s. To claim ITC’s the goods acquired by CCAN while a NPO must have been acquired for "consumption, use or supply in the course of commercial activities" and then only to the extent (percentage wise) of such use. Using the tailgate magnets as an example, they were bought to hand out at CCAN’s IDLE FREE campaign at a school. These magnets have the sponsor’s name on them. Were they used or consumed in the course of CCAN’s commercial activity? This begs the question as to what was CCAN’s commercial activity.
+[13] The CRA argues CCAN had no commercial activity, yet CCAN charged a sponsor not just the cost of supplies for the IDLE FREE campaign but built in something extra, which Mr. Collins called margin. If its commercial activity was selling advertising, then buying the tailgate magnets with a sponsor’s name on them can be readily viewed as being consumed as part of that commercial activity.
+[14] The Respondent relies on the case of Saskatchewan Pesticide Container Management Assn. v R.,[1] where Justice Margeson, in denying there was any commercial activity, appeared to emphasize:
+1. As a Not for Profit Organization it was not out to make money.
+2. There was no business plan.
+3. No fees were ever charged.
+4. Steps to sell goods were preparatory only.
+5. The result of the appellant’s actions was to meet their stated objective of a clean environment.
+[15] It appears Justice Margeson concludes that as a NPO, by its very objects and purpose, it is not out to make money and therefore cannot be engaged in commercial activity. I disagree. There is no reasonable expectation of profit test in the definition of commercial activity that would preclude a NPO from carrying on a commercial activity. Justice Margeson’s reliance on the other factors mentioned above hold more sway, but they are not reflective of the situation before me.
+[16] Mr. Collins advised that CCAN did have a business plan, it did charge the sponsors a fee beyond simply recuperating costs, and, while it was all to further their NPO noble cause, this is not of itself sufficient to deny a commercial activity. CCAN had something of value a sponsor was prepared to buy – publicity. This is commercial in nature.
+[17] The trickier question is to what extent (percentage wise) was the product on which CCAN paid GST used by CCAN in the commercial activity. Staying with the example of the tailgate magnet with the sponsor’s name on it, was the purpose of the activity of handing out these tailgate magnets to give the sponsor advertising or to promote the good cause of IDLE FREE? Clearly it was both.
+[18] How does one put a percentage on the commercial use versus what I will call the charitable use? From a common sense perspective, CCAN’s mission, its purpose was a charitable cause, and the commercial sponsor arrangement was a way to accommodate this purpose. I find the majority of the use, therefore, of the supplies was non-commercial. This is an Informal Procedure case and I see no need, on balance, to recall the Parties to attempt to justify what a minority percentage of commercial use should be. I simply find a reasonable percentage to be 30%.
+[19] I turn now to the period during which CCAN operated as a charity. As such, it would have been required to account for the sales tax under the mandatory regime of section 225.1 of the Act. Pursuant to subparagraph 225.1(A)(b.1) of the Act, net tax includes all tax collected by mistake. There is no ability to claim ITC’s to offset that tax under the mandatory regime. The silver lining is that CCAN, as a charity, is eligible for a rebate pursuant to section 259 of the Act, which the CRA has provided.
+[20] CCAN argued that fairness should preclude the CRA from assessing as it has. Firstly, because the CRA accepted returns as filed for three years, leading CCAN to believe it was filing correctly. CCAN argues that it is now unfair to go back and say they were collecting tax incorrectly. Pursuant to section 298 of the Act, the Minister has four years to assess. Further, section 299 of the Act reads as follows:
+(1) The Minister is not bound by any return, application or information provided by or on behalf of any person and may make an assessment, notwithstanding any return, application or information so provided or that no return, application or information has been provided.
+(2) Liability under this Part to pay or remit any tax, penalty, interest or other amount is not affected by an incorrect or incomplete assessment or by the fact that no assessment has been made.
+(3) An assessment, subject to being vacated on an objection or appeal under this Part and subject to a reassessment, shall be deemed to be valid and binding.
+(3.1) Where a person (referred to in this subsection as the “body”) that is not an individual or a corporation is assessed in respect of any matter,
+(a) the assessment is not invalid only because one or more other persons (each of which is referred to in this subsection as a “representative”) who are liable for obligations of the body did not receive a notice of the assessment;
+(b) the assessment is binding on each representative of the body, subject to a reassessment of the body and the rights of the body to object to or appeal from the assessment under this Part; and
+(c) an assessment of a representative in respect of the same matter is binding on the representative subject only to a reassessment of the representative and the rights of the representative to object to or appeal from the assessment of the representative under this Part on the grounds that the representative is not a person who is liable to pay or remit an amount to which the assessment of the body relates, the body has been reassessed in respect of that matter or the assessment of the body in respect of that matter has been vacated.
+(4) An assessment shall, subject to being reassessed or vacated as a result of an objection or appeal under this Part, be deemed to be valid and binding, notwithstanding any error, defect or omission therein or in any proceeding under this Part relating thereto.
+(5) An appeal from an assessment shall not be allowed by reasons only of an irregularity, informality, omission or error on the part of any person in the observation of any directory provision of this Part.
+[21] The Minister has acted within the constraints set out in the Act. The Minister is not subject to any estoppel argument.
+[22] Secondly, CCAN maintains that the treatment, as assessed, puts the charity in a worse position than had it been a for profit enterprise, as well as providing the CRA with a windfall. With respect, I disagree. What Mr. Collins appears to ignore in his analysis is the fact that a business serves as a conduit of the tax; it is not the end user. The charity as neither fish nor fowl, not wholly conduit nor end user, is given something of a compromise approach under the regime set out in section 225.1 of the Act. It is not appropriate in any fairness argument to compare the charity and the commercial business.
+[23] In summary, the Appeal is allowed for the two periods during which CCAN operated as a NPO and the matter is referred back to the Minister for reconsideration and reassessment on the basis that during these periods CCAN is entitled to claim ITC’s of 30% of the tax paid by CCAN for goods and services acquired by it for use in its sponsorship programs.
+Signed at Ottawa, Canada, this 1st day of November 2013.
+"Campbell J. Miller"
+C. Miller J.
+APPENDIX A
+Section 123:
+“supply” means, subject to sections 133 and 134, the provision of property or a service in any manner, including sale, transfer, barter, exchange, licence, rental, lease, gift or disposition;
+…
+“taxable supply” means a supply that is made in the course of a commercial activity;
+…
+“commercial activity” of a person means
+(a) a business carried on by the person (other than a business carried on without a reasonable expectation of profit by an individual, a personal trust or a partnership, all of the members of which are individuals), except to the extent to which the business involves the making of exempt supplies by the person,
+(b) an adventure or concern of the person in the nature of trade (other than an adventure or concern engaged in without a reasonable expectation of profit by an individual, a personal trust or a partnership, all of the members of which are individuals), except to the extent to which the adventure or concern involves the making of exempt supplies by the person, and
+(c) the making of a supply (other than an exempt supply) by the person of real property of the person, including anything done by the person in the course of or in connection with the making of the supply;
+135. For the purposes of this Part, where a public sector body makes
+(a) a supply of a service, or
+(b) a supply by way of licence of the use of a copyright, trade-mark, trade-name or other similar property of the body,
+to a person who is the sponsor of an activity of the body for use by the person exclusively in publicizing the person’s business, the supply by the body of the service or the use of the property shall be deemed not to be a supply, except where it may reasonably be regarded that the consideration for the supply is primarily for a service of advertising by means of radio or television or in a newspaper, magazine or other publication published periodically or for a prescribed service.
+…
+165. (1) Subject to this Part, every recipient of a taxable supply made in Canada shall pay to Her Majesty in right of Canada tax in respect of the supply calculated at the rate of 5% on the value of the consideration for the supply.
+(2) Subject to this Part, every recipient of a taxable supply made in a participating province shall pay to Her Majesty in right of Canada, in addition to the tax imposed by subsection (1), tax in respect of the supply calculated at the tax rate for that province on the value of the consideration for the supply.
+(3) The tax rate in respect of a taxable supply that is a zero‑rated supply is 0%.
+(4) Subsection (2) does not apply to a supply of property or a service made in the Nova Scotia offshore area or the Newfoundland offshore area unless the supplier makes the supply in the course of an offshore activity or the recipient of the supply acquires the property or service for consumption, use or supply in the course of an offshore activity.
+…
+169. (1) Subject to this Part, where a person acquires or imports property or a service or brings it into a participating province and, during a reporting period of the person during which the person is a registrant, tax in respect of the supply, importation or bringing in becomes payable by the person or is paid by the person without having become payable, the amount determined by the following formula is an input tax credit of the person in respect of the property or service for the period:
+A × B
+where
+A
+is the tax in respect of the supply, importation or bringing in, as the case may be, that becomes payable by the person during the reporting period or that is paid by the person during the period without having become payable; and
+B
+is
+(a) where the tax is deemed under subsection 202(4) to have been paid in respect of the property on the last day of a taxation year of the person, the extent (expressed as a percentage of the total use of the property in the course of commercial activities and businesses of the person during that taxation year) to which the person used the property in the course of commercial activities of the person during that taxation year,
+(b) where the property or service is acquired, imported or brought into the province, as the case may be, by the person for use in improving capital property of the person, the extent (expressed as a percentage) to which the person was using the capital property in the course of commercial activities of the person immediately after the capital property or a portion thereof was last acquired or imported by the person, and
+(c) in any other case, the extent (expressed as a percentage) to which the person acquired or imported the property or service or brought it into the participating province, as the case may be, for consumption, use or supply in the course of commercial activities of the person.
+…
+221. (1) Every person who makes a taxable supply shall, as agent of Her Majesty in right of Canada, collect the tax under Division II payable by the recipient in respect of the supply.
+…
+(4) In subsection (3), “continuous outbound freight movement” and “shipper” have the same meanings as in Part VII of Schedule VI.
+…
+225.1 (1) In this section, “specified supply” means a taxable supply other than
+(a) a supply by way of sale of real property or capital property;
+(b) a supply deemed under section 175.1 or 181.1 or subsection 183(5) or (6) to have been made;
+(c) a supply to which subsection 172(2) or 173(1) applies; and
+(d) a supply deemed under subsection 177(1) or (1.2) to have been made by an agent.
+(2) Subject to subsection (7), the net tax for a particular reporting period of a charity that is a registrant is equal to the positive or negative amount determined by the formula
+A - B
+where
+A
+is the total of
+(a) 60% of the total of all amounts, each of which is an amount collectible by the charity that, in the particular reporting period, became collectible or was collected before having become collectible, by the charity as or on account of tax in respect of specified supplies made by the charity,
+(b) the total of all amounts that became collectible and all other amounts collected by the charity in the particular reporting period as or on account of tax in respect of
+(i) supplies by way of sale of capital property or real property made by the charity,
+(ii) supplies by the charity to which subsection 172(2) or 173(1) applies, and
+(iii) supplies made on behalf of another person for whom the charity acts as agent and
+(A) that are deemed under subsection 177(1) or (1.2) to have been made by the charity and not by the other person, or
+(B) in respect of which the charity has made an election under subsection 177(1.1),
+(b.1) the total of all amounts each of which is an amount not included in paragraph (b) that was collected from a person by the charity in the particular reporting period as or on account of tax in circumstances in which the amount was not payable by the person, whether the amount was paid by the person by mistake or otherwise,
+(c) the total of all amounts each of which is an amount in respect of supplies of real property or capital property made by way of sale by or to the charity that is required under subsection 231(3) or 232(3) to be added in determining the net tax for the particular reporting period, and
+(d) the amount required under subsection 238.1(4) to be added in determining the net tax for the particular reporting period; and
+B
+is the total of
+(a) all input tax credits of the charity for the particular reporting period and preceding reporting periods in respect of
+(i) real property acquired by the charity by way of purchase,
+(ii) personal property acquired, imported or brought into a participating province by the charity for use as capital property of the charity,
+(iii) improvements to real property or capital property of the charity,
+(iv) tangible personal property (other than property referred to in subparagraph (ii) or (iii)) that is acquired, imported or brought into a participating province by the charity for the purpose of supply by way of sale and is
+(A) supplied by a person acting as agent for the charity in circumstances in which subsection 177(1.1) applies, or
+(B) deemed by subsection 177(1.2) to have been supplied by an auctioneer acting as agent for the charity, and
+(v) tangible personal property (other than property referred to in subparagraph (ii) or (iii)) deemed under paragraph 180(e) to have been acquired by the charity and under subsection 177(1) or (1.2) to have been supplied by the charity
+that are claimed in the return under this Division filed for the particular reporting period,
+(b) 60% of the total of all amounts in respect of specified supplies that may be deducted under subsection 232(3) in respect of adjustments, refunds or credits given by the charity under subsection 232(2), or that may be deducted under subsection 234(2) or (3), in determining the net tax for the particular reporting period and that are claimed in the return under this Division filed for that reporting period,
+(b.1) [Repealed, 2007, c. 18, s. 26]
+(b.2) the total of all amounts that may, in determining the net tax for the particular reporting period, be deducted under subsection 232(3) in respect of adjustments, refunds or credits given by the charity under subsection 232(1) in respect of specified supplies and that are claimed in the return under this Division filed for that reporting period,
+(c) the total of all amounts in respect of supplies of real property or capital property made by way of sale by the charity that may be deducted by the charity under subsection 231(1) or 232(3) or section 234 in determining the net tax for the particular reporting period and are claimed in the return under this Division filed for that reporting period, and
+(d) the total of all amounts each of which is an input tax credit (other than an input tax credit referred to in paragraph (a)) of the charity, for a preceding reporting period in respect of which this subsection did not apply for the purpose of determining the net tax of the charity, that the charity was entitled to include in determining its net tax for that preceding reporting period and that is claimed in the return under this Division filed for the particular reporting period.
+…
+(6) Where a charity that makes supplies outside Canada, or zero-rated supplies, in the ordinary course of a business or all or substantially all of whose supplies are taxable supplies elects not to determine its net tax in accordance with subsection (2), that subsection does not apply in respect of any reporting period of the charity during which the election is in effect.
+(7) An election under subsection (6) by a charity shall
+(a) be filed in prescribed manner with the Minister in prescribed form containing prescribed information;
+(b) set out the day the election is to become effective, which day shall be the first day of a reporting period of the charity;
+(c) remain in effect until a revocation of the election becomes effective; and
+(d) be filed
+(i) where the first reporting period of the charity in which the election is in effect is a fiscal year of the charity, on or before the first day of the second fiscal quarter of that year or such later day as the Minister may determine on application of the charity, and
+(ii) in any other case, on or before the day on or before which the return of the charity is required to be filed under this Division for the first reporting period of the charity in which the election is in effect or on such later day as the Minister may determine on application of the charity.
+(8) An election under subsection (6) by a charity may be revoked, effective on the first day of a reporting period of the charity, provided that that day is not earlier than one year after the election became effective and a notice of revocation of the election in prescribed form containing prescribed information is filed in prescribed manner with the Minister on or before the day on or before which the return under this Division is required to be filed for the last reporting period of the charity in which the election is in effect.
+CITATION: 2013 TCC 352
+COURT FILE NO.: 2013-2296(GST)I
+STYLE OF CAUSE: THE CHILDREN'S CLEAN AIR NETWORK SOCIETY AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Halifax, Nova Scotia
+DATE OF HEARING: October 24, 2013
+REASONS FOR JUDGMENT BY: The Honourable Justice Campbell J. Miller
+DATE OF JUDGMENT: November 1, 2013
+APPEARANCES:
+Agent for the Appellant:
+Norman Collins
+Counsel for the Respondent:
+Melanie Petrunia
+COUNSEL OF RECORD:
+For the Appellant: n/a
+Name:
+Firm:
+For the Respondent: William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] [1999] G.S.T.C 115, 2000 G.T.C. 697.

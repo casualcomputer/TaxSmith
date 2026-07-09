@@ -1,0 +1,346 @@
+Title: Saini v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/465643/index.do
+Corpus path: corpus/cases/tcc/2020/2020-tcc-38-465643-saini-v-the-queen-en.md
+Document type: case_law
+Last modified: 2020-03-13
+
+# Saini v. The Queen
+
+- Citation: 2020 TCC 38
+- Decision date: 2020-03-13
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4579, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Saini v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2020-03-13
+Neutral citation
+2020 TCC 38
+File numbers
+2016-1836(IT)G
+Judges and Taxing Officers
+Randall S. Bocock
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2016-1836(IT)G
+BETWEEN:
+GURPAL SAINI,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on January 21, 2020, at Toronto, Ontario
+Before: The Honourable Mr. Justice Randall S. Bocock
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Dominique Gallant
+JUDGMENT
+WHEREAS the Court has on this date published its Reasons for Judgment attached.
+NOW THEREFORE THIS COURT ORDERS THAT:
+The appeal from reassessments made under the Income Tax Act concerning the 2009, 2010 and 2011 taxation years is dismissed;
+Costs in accordance with the applicable Tariff are preliminarily awarded to the Respondent subject to the right of either party to make written submissions thereon within 30 days of the date of this judgment, whereupon the Court shall consider such submissions and may vary its provisional cost award, failing which this provisional cost award shall become final.
+Signed at Toronto, Ontario, this 13th day of March 2020.
+“R.S. Bocock”
+Bocock J.
+Citation: 2020 TCC 38
+Date: 20200313
+Docket: 2016-1836(IT)G
+BETWEEN:
+GURPAL SAINI,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Bocock J.
+I. INTRODUCTION
+a) Nature of Appeal
+[1] The Appellant, Gurpal Saini (“Mr. Saini”) was reassessed arbitrarily by the Minister under subsection 152(7) of the Income Tax Act, RSC 1985, c.1, as amended (the “Act”). The reassessment concerned his 2009, 2010 and 2011 taxation years (the “appeal years”). The Minister asserts Mr. Saini received the following amounts of undeclared income, in the form of shareholder benefits, from 2174045 Ontario Limited (the “Corporation”):
+Year
+2009
+2010
+2011
+Undeclared Income
+$121,936
+$88,929
+$64,116
+[2] In addition, the Minister reassessed taxation years 2009 and 2010 beyond the normal reassessment period asserting misrepresentation arising from carelessness, neglect or wilful default.
+[3] False statement penalties under subsection 163(2) were also imposed for all appeal years.
+[4] In his appeal, Mr. Saini contests the methodology undertaken in the assessment and the calculations made in arriving at the alleged undeclared income.
+b) Reported Income
+[5] Mr. Saini worked as a consultant for Gaap Consulting and Van der Graaf Motors. He recorded salary partially identified on T4A Slips as follows:
+Year
+2009
+2010
+2011
+Amount of declared Income
+$17,230
+$5,167
+$10,000
+c) The Root of the Alternative Assessment: the Gas Station
+[6] The Minister’s alternative assessment is rooted in the ownership and operation of a gas station. It requires some explanation. Mr. Saini’s evidence at trial concerning the arrangement is based upon Mr. Saini’s oral testimony. However, there are some documents referenced in these reasons. From these sources, the Court gleans the following facts.
+[7] In the summer of 2008, Mr. Saini was approached by two acquaintances, a Mr. Aggarwal and a Mr. Pahuja. Mr. Aggarwal and Mr. Pahuja appear to have been secured creditors in possession of a gas station in Brighton, Ontario (the “gas station”). At some point in the spring of 2008, Mr. Aggarwal and Mr. Pahuja had transferred the ownership and operation of the gas station to one Mr. Soma Shekhar. Mr. Shekhar could not operate the gas station because of its location some distance from his residence and family.
+[8] In May 2008, Mr. Saini through a corporation, 2174045 Ontario Inc. (the “Corporation”), executed an agreement of purchase and sale (“APS”) to acquire the land, buildings and other assets comprising the gas station for a stated purchase price of $300,000.
+[9] Mr. Shekhar was the incorporator and first director of the Corporation. Although he was originally intended by Mr. Aggarwal and Mr. Pahuja to “run the show”, Mr. Shekhar removed himself from any officer or shareholder role before the end of summer 2008. He did remain a director during the appeal years. On September 8, 2008, Mr. Shekhar transferred all of the shares in the Corporation to Mr. Saini.
+[10] Mr. Saini too lived a long distance from the gas station. He required someone to “manage” the gas station. He provided support and contributions for longer term operations to the gas station. Day to day operations fell to a new hire, a recent immigrant from India, a Mr. Sharma.
+[11] Some documents were provided to the Court; however, aside from the clear conveyance of the land and buildings by Mr. Aggarwal and Mr. Pahuja to the Corporation under the APS and the shares in the Corporation by Mr. Shekhar to Mr. Saini, little else seems plain and obvious. The arrangements, documentation and objectives regarding Mr. Saini’s acquisition of the gas station. To supplement, Mr. Saini offered the following explanations of his role in the business arrangement concerning the gas station, which were foggy at best:
+(i) Despite the express terms of the APS, Mr. Aggarwal and Mr. Pahuja did not actually receive any cash on closing as consideration for the sale of the land and buildings; they instead conveyed it for nominal consideration because the Corporation and Mr. Saini assumed all liabilities;
+(ii) Mr. Aggarwal and Mr. Pahuja simply asked Mr. Saini to execute the APS, notwithstanding he had no interest in the Corporation at the time;
+(iii) When Mr. Saini signed the APS, he was none of an officer, director or shareholder of the Corporation; this occurred subsequently;
+(iv) The Corporation was simply “in the names” of Mr. Saini and Mr. Shekhar for convenience.
+[12] Mr. Saini testified that the gas station barely “broke even” from the beginning. Mr. Sharma was being paid, but beyond that there was little surplus cash.
+[13] By late 2010 and early 2011, the gas station was in dire financial straits. There were environmental issues related to the lands and buildings. The business never made a profit. Ultimately in 2011, the business closed, Mr. Aggarwal passed away and the lands and buildings are barriered and shuttered to this day. At some point during that process, Mr. Saini simply abandoned his interest and “walked away” from the gas station.
+[14] During the appeal years, in addition to the other engagements and unrelated to the gas station, Mr. Saini also worked for Lotus Loans and Mortgages on a commission basis as a mortgage referral source to Lotus. Mr. Pahuja owned Lotus Loans. Mr. Shekhar also worked there. Mr. Saini recorded no income from Lotus commissions during the appeal years since he asserts he earned none during that period.
+d) Alternative Assessment
+[15] The Minister reassessed Mr. Saini by utilizing a net worth assessment (“NWA”). The CRA auditor who testified at the trial did not perform the audit and reassessment. Instead, she reviewed the file and working papers of the CRA auditor presently on leave. The NWA was validated and verified at the time of assessment by using an indirect verification of income, liabilities and other expenditures.
+[16] As to sources of income attributed to the NWA, deposits into bank accounts, shareholder loans owing from the Corporation reflected in the financial statements and other recorded investments were each utilized to create the opening baseline value for assets in January 2009 as a starting point for the appeal years. Liabilities representing credit card, bank and other debts were deducted in the NWA. The amount expended on personal expenses and family source deductions were added. Tax refunds and refundable tax credits were subtracted on the basis of their “tax paid” status. The resulting balance in each year was then subtracted from declared income to arrive at unreported income. Opening and continuing shareholder loan balances were taken from the balance sheet of the Corporation for years when they were available and attached to the corporate tax returns: 2008 and 2009. Since no financial statements were attached to the 2010 and 2011 years, it was assumed no alteration to shareholder loan balances from 2010 was made. No financial statements for 2010 and 2011 were produced at trial. On this basis, the amounts of shareholder loans were assumed to be:
+Tax Year
+2008 (baseline)
+2009
+2010
+2011
+Amount of loans due to shareholder
+$13,045
+$104,397
+$104,397
+$104,397
+[17] Upon cross-examination, Mr. Saini confirmed that the following components of the NWA schedules attached to the reply and otherwise produced at trial were correct, or at least materially accurate:
+a) the detail list and account balances of his family’s 14 bank accounts;
+b) the list of enumerated liabilities, primarily credit card debt; of note, there was an implicit disagreement concerning “friendly debt” advanced for the purposes of the gas station which goes to the heart of Mr. Saini’s challenge to the quantum of unreported income;
+c) deductions at source, income tax refunds to his wife and certain refundable tax credits;
+d) the amounts of declared income for himself, his wife and another wage earner in the household; and
+e) amounts of all personal expenditures with the exception of miscellaneous amounts; Mr. Saini maintained such amounts were overstated.
+[18] With the exception of the asserted friendly debt, Mr. Saini did not offer alternative or countervailing documentation or calculations concerning:
+(i) Corporation financial statements for the missing years 2010 and 2011;
+(ii) statement of liabilities;
+(iii) a shareholder advances ledger;
+(iv) loan agreements, promissory notes or debt ledgers;
+(v) paid commission statements or invoices; or
+(vi) books or records of the Corporation.
+[19] As to accounting for income declared, Mr. Saini was vague. He indicated that “we knew pretty much” what family income was from the Gaap commissions and Van der Graaf Motor repairs and sales. It was on the basis of that estimate which Mr. Saini relayed his income to his accountant to prepare the tax returns. He conceded that he did not “really keep records much”. Neither his personal accountant nor the Corporations’ accountant testified.
+[20] Factually, the critical, material issue in dispute concerns the issue of loans by friends and relations, “friendly creditors”, to Mr. Saini. To the extent amounts were loans to Mr. Saini, they would not be income to him from various sources, but obligations of him to various creditors. Mr. Saini described the loans in testimony referable to certain evidence described in shortened form in the chart below:
+ALLEGED LOANS AND ADVANCES
+Item
+Year
+Amount
+Asserted Lender
+Asserted Recipient
+PhotocopyEvidence
+Express Purpose of advance per Mr. Saini
+1.
+June 25, 2008
+$22,000
+Mr. Aggarwal
+The Corporation
+Deposit Slip reflecting $15,000 and $7,000
+Loans from Mr. Aggarwal to Corporation; deposited by Mr. Soma. No indication how Mr. Aggarwal characterized the advance.
+2.
+June 25, 2008
+$5,000
+Mr. Aggarwal
+The Corporation
+Deposit Slip
+Another advance from Mr. Aggarwal; deposited by Mr. Soma. No indication of how Mr. Aggarwal characterized the advance.
+3.
+September 12, 2008
+$45,000
+1487102 Ontario Inc.
+The Corporation
+Cheque and Deposit Slip
+Loan to Corporation cash flow; related to the purchase of the gas station.
+4.
+September 30, 2008
+$30,000
+Mr. Aggarwal
+The Corporation
+Deposit Slip
+Advance from the original seller, Mr. Aggarwal, to the Corporation; no indication of how advance was characterized by Corporation.
+5.
+June 30, 2009
+$2,000
+Mr. Aggarwal
+The Corporation
+Cheque
+Re: Brighton
+From Mr. Aggarwal’s business, “Service Station Accounting”; uncertain of purpose, possibly roof repair.
+6.
+June 30, 2009
+$2,000
+Mr. Saini
+The Corporation
+Cheque
+Re: “Esso Brighton” on cheque
+Advance by Mr. Saini to Corporation; purpose of advance uncertain.
+7.
+June 30, 2009
+$2,000
+Mr. Pahuja
+The Corporation
+Cheque
+Advance by Mr. Pahuja to Corporation; no indication how Mr. Pahuja characterized the advance.
+8.
+February 11, 2010
+$10,000
+Kamal Hira
+Mr. Saini
+Cheque, Bank Statement and Re: loan account
+Cheque from Mr. Hira to Corporation.
+9.
+February 16, 2010
+$76,212
+Mr. Saini as Bank Draft Purchaser from the Corporation’s bank account
+Noik and Associates
+Bank Draft
+This advance related to an execution against Mr. Saini as a judgment debtor, advanced from a friend, in India and paid to creditors’ lawyers to release execution.
+10.
+March 10, 2010
+$50,000
+GRD Trading
+Mr. Saini
+Cashier’s Cheque and Bank Statement
+Loan from mortgage proceeds arranged by Mr. Pahuja is the likely source of these moneys.
+11.
+December 10, 2010
+$20,000
+The Corporation
+Mr. Saini and spouse
+Cheque and Bank Statement
+This cheque reflacted an underlying loan from the Corporation initially advanced by Mr. Aggarwal, a father figure. Mr. Saini simply signed documents as requested and directed.
+12.
+January 5, 2011
+$1,500
+Maingate Financial
+Mr. Saini
+Cheque and Bank Statement
+Loan to pay insurance as a mortgage agent.
+13.
+September 15, 2011
+$6,540
+Numbered Co. Ontario Inc.
+Mr. Saini
+Cheque and Bank Statement
+This was likely a loan from Mr. V. Sharma to Mr. Saini, although Mr. Pahuja was also involved.
+[21] The amounts advanced were reflected solely by the documents described above and the recollections of Mr. Saini. Mr. Saini explained the absence of any loan documentation in the following way: If the lender does not require written loan documents, then why would the borrower care?
+II. THE LAW AND ISSUES
+a) The NWA Process
+(i) The statute
+[22] Subsection 152(7) provides as follows:
+152 (7) The Minister is not bound by a return or information supplied by or on behalf of a taxpayer and, in making an assessment, may, notwithstanding a return or information so supplied or if no return has been filed, assess the tax payable under this Part.
+(ii) Case law
+[23] In the case of Golden v. HMQ, 2009 TCC 396, Justice Boyle explained the NWA process and basis for taxpayer challenge as follows:
+Net Worth Assessments
+[11] In the case of a net worth assessment, it is open to the taxpayer to attack whether the net worth assessment is needed or the most appropriate method of computing the taxpayer’s income from any source […] If the taxpayer does attack whether a net worth assessment is needed or necessity the most appropriate, a taxpayer would need to prove to the satisfaction of the Court with what evidence there is, what records there are and other credible evidence, what the income of the taxpayer is from the source or sources in question […]
+[12] The alternative is for the taxpayer to challenge specific aspects of the net worth assessment calculations […]
+[15] Taxpayers who do not keep proper records, do financial reporting, file tax returns or do other tax reporting are not entitled to have the CRA or the Court take on the obligation to reconstruct the most favorable scenario for the transactions that is not inconsistent with the evidence, such as it exists, gathered by the Crown, and submitted to the Court by the taxpayer. In most all circumstances, this would amount to retroactive tax planning.
+[21] Taxpayers are perfectly entitled to commingle business and personal cash by using a single bank account. As is evident in this case, this can give rise to any number of evidentiary and tracking problems if inadequate records are maintained, timely financial and tax reporting does not occur and the CRA comes asking.
+[22] Taxpayers should not put themselves in this position where they are stuck with the imprecision inherent in the limitations of the net worth assessment method. When they do the task remains to ascertain or estimate the best we can the unreported income from the source or sources. Avoidable, identifiable, inappropriate injustices should not be upheld. […]
+[24] To summarize, the taxpayer may challenge the need for a NWA (necessity). Secondly, the question of methodology may be contested (“methodology”). Lastly, the taxpayer may challenge the quantum of the reassessment based upon errors; avoidable, identifiable and inappropriate errors should be reversed (“patent errors”). However, the evidence to rebut the necessity, methodology and/or patent errors must come from the taxpayer, since by the nature of the NWA, the Minister’s assumptions of the taxpayer’s unreported income are front and centre to the reassessment flowing from the NWA.
+b) Assessment beyond the normal reassessment period
+(i) The statute
+[25] Section 152(4) provides as follows:
+152.(4) The Minister may at any time make an assessment, reassessment or additional assessment of tax for a taxation year, interest or penalties, if any, payable under this Part by a taxpayer or notify in writing any person by whom a return of income for a taxation year has been filed that no tax is payable for the year, except that an assessment, reassessment or additional assessment may be made after the taxpayer’s normal reassessment period in respect of the year only if
+(a) the taxpayer or person filing the return
+(i) has made any misrepresentation that is attributable to neglect, carelessness or wilful default or has committed any fraud in filing the return or in supplying any information under this Act, […]
+[26] There are two conditions: there first must be a misrepresentation, and secondly, it muse arise from neglect, carelessness or wilful default.
+(ii) Case law
+[27] In the context of NWAs, the Federal Court of Appeal has offered the following in Lacroix v. HMQ, 2008 FCA 241 [Lacroix]:
+[…] Did the Minister discharge the burden of proof on him under subparagraph 152(4)(a)(i) and subsection 163(2) before, first, making a reassessment beyond the statutory period and, second, assessing a penalty against the taxpayer?
+[26] Although the Minister has the benefit of the assumptions of fact underlying the reassessment, he does not enjoy any similar advantage with regard to proving the facts justifying a reassessment beyond the statutory period, or those facts justifying the assessment of a penalty for the taxpayer’s misconduct in filing his tax return. The Minister is undeniably required to adduce facts justifying these exceptional measures.
+[27] In Richard Boileau v. M.N.R., 89 D.T.C. 247, Judge Lamarre Proulx stated as follows, at page 250:
+Indeed, the Appellant was unable to contradict the basic elements of the net worth assessments. However, in my view, this is not sufficient for discharging the burden of proof which lies on the Minister. To decide otherwise would be to remove any purpose to subsection 163(3) by reverting the Minister’s burden of proof back onto the Appellant.
+c) False Statement Penalties
+(i) Statute
+[28] Subsection 163(2) of the Act provides as follows:
+163 (2) Every person who, knowingly, or under circumstances amounting to gross negligence, has made or has participated in, assented to or acquiesced in the making of, a false statement or omission in a return, form, certificate, statement or answer (in this section referred to as a “return”) filed or made in respect of a taxation year for the purposes of this Act, is liable to a penalty of the greater of $100 and 50% of the total of
+(ii) Case law
+[29] Penalties under subsection 163(2) carry a higher trigger for imposition than the statute barred misrepresentation threshold. In Lacroix, this distinction was expressed as follows:
+[28] In a similar vein, in Farm Business Consultants Inc. v. Her Majesty the Queen, [1994] 2 C.T.C. 2450, 95 D.T.C. 200, Judge Bowman wrote the following at paragraph 27:
+27 A court must be extremely cautious in sanctioning the imposition of penalties under subsection 163(2). Conduct that warrants reopening a statute-barred year does not automatically justify a penalty and the routine imposition of penalties by the Minister is to be discouraged […] Moreover, where a penalty is imposed under subsection 163(2) although a civil standard of proof is required, if a taxpayer’s conduct is consistent with two viable and reasonable hypotheses, one justifying the penalty and one not, the benefit of the doubt must be given to the taxpayer and the penalty must be deleted […]
+[29] This last passage highlights the dialectic specific to certain reassessments made using the net worth method. In the case at bar, the Minister found undeclared income and asked the taxpayer to justify it. The taxpayer provided an explanation that neither the Minister nor the Tax Court of Canada found to be credible. Accordingly, there is no viable and reasonable hypothesis that could lead the decision-maker to give the taxpayer the benefit of the doubt. The only hypothesis offered was deemed not to be credible.
+(iii) Issues
+[30] This issues before the Court are broadly:
+a) Was the NWA necessary, was the methodology fair and is the NWA, on balance, correct?
+b) For the 2009 and 2010 appeal years, is the Minister entitled to assess beyond the normal reassessment period?
+c) Are the 163(2) false statement penalties supportable?
+III. ANALYSIS
+a) The NWA
+[31] A review of the evidence concerning necessity, methodology and patent errors of the NWA is required.
+(i) Necessity
+[32] There simply were no books or records to allow the Minister to approach understanding Mr. Saini’s original reporting of employment, commissions or business income. No background information existed as to how Mr. Saini calculated his personal income for the appeal years. The Corporation, in which Mr. Saini was the sole shareholder and a director of record, neither maintained nor could produce books and records. Further, it failed to produce financial statements for two of the three years (2010 and 2011) it was in operation, but for which it attempted to file tax returns. The Minister had little alternative but to undertake a NWA and reassess under subsection 152(7) of the Act.
+(ii) Methodology
+[33] Mr. Saini did not propose an alternative method for conducting the NWA. The method utilized was an approximated source calculation of income, verified and validated by a bank deposit and withdrawal analysis contrasted against an observed lifestyle. A calculation of baseline assets, liabilities and personal expenditures were quantified, analysed and normalized. Once the accumulation of assets and incurrence of expenses were determined to be inconsistent with income reported, the full analysis was undertaken. It remained unassailed by Mr. Saini in evidence.
+[34] Quite apart from Mr. Saini’s basic assertion that the method was incorrect and the returns of income were accurate, no alternative methodology was advanced.
+(iii) Calculations and Accuracy of NWA
+[35] On cross-examination, Mr. Saini admitted several things:
+At best, his income in any given year was an estimate;
+The keeping and retention of financial records concerning sources of income, the gas station or expenses related to anything was not undertaken; and
+Any information provided by way of documentary evidence of friendly debt was obtained after the fact from third party financial institutions because, as Mr. Saini asserted, the lenders of the money did not require documentation.
+a. Assets
+[36] Mr. Saini confirmed that the NWA statement of assets was generally accurate. He admitted that he had (with his spouse) not less than 14 bank accounts in the appeal years. Mr. Saini and his wife, in whose name the family home was solely held, had no mortgage against the property.
+b. Liabilities (save and except friendly debt)
+[37] Similarly, Mr. Saini confirmed, with the exception of the asserted loans from friendly creditors, that the statement of liabilities was correct. Further, Mr. Saini maintained no shareholder’s loan account ledger or record.
+c. Adjustments and Personal Expenditure
+[38] Lastly, Mr. Saini confirmed that the personal expenditures within the NWA were as assumed by the Minister, subject to minor anomalies related to loan interest.
+d. Friendly Debt
+[39] Mr. Saini confirmed on cross-examination that he received from the corporation the amounts of $20,000 on December 10, 2010, $50,000 on May 13, 2010 and did not report those amounts as his income or reflect them as loans to or from the Corporation.
+[40] As regards the balance of the amounts asserted to be received by Mr. Saini and then advanced as loans to the Corporation there is little credible, consistent or formative evidence to support the claim these amounts were loans. Moreover, each instance is inconsistent with the other. The summary of the evidence in the final column of the chart above stands in stark contrast to the Minister’s consistent and methodical analysis of the assets, liabilities and personal expenditures. In fact, one is left with the view that these friendly debt amounts were only traceable by Mr. Saini after the fact because of his review of the Minister’s NWA rather than any records independently held or retained by him.
+[41] Generally, even if the amounts of the loans are correct and were made as asserted, by virtue of the following analysis, they do not materially impact the NWA and the resulting liability for tax arising. On a case by case basis, the Court observes the following plausible reasons why the existence of such loans do not impugn the conclusions of the Minister concerning personal NWA against Mr. Saini.
+(i) Advances in Items 1 through 4
+[42] These amounts predate the establishment of the baseline for Mr. Saini’s NWA. The shareholder advances balance which would have reflected this amount was $13,045 in the relevant financial statement of the Corporation. As such, it is assumed the Corporation accounted for these advances in the financial statements contained in the T2 corporate tax returns signed and filed by Mr. Saini. They are the Corporation’s documents certified by him.
+(ii) Advances in Items 8, 10, 12 and 13 contra items 9 and 11
+[43] According to Mr. Saini, he received loans personally from various friendly creditors reflected in Items 8, 10, 12 and 13 for the following respective amounts: $10,000, $50,000, $1,500 and $6,540. For the purposes of its analysis below, the Court suspends for a moment the absence of any recognizable documentation characterizing the amounts as personal loans to Mr. Saini.
+[44] These advances, assuming they are loans to Mr. Saini, total some $68,000. They would decrease the NWA by that amount. However, Mr. Saini received $76,212.30 and $20,000 from the Corporation in February and December of 2010.
+[45] In any event, the advances from the Corporation would have increased Mr. Saini’s NWA by some $96,200. By any count, the reconciliation of both amounts ($68,000 in loans and $96,200 in Corporation advances) works to the benefit of Mr. Saini because they understate his personal NWA. Assuming the Court should rely simply on bank drafts and cheques to reach a conclusion, as Mr. Saini suggests, the Minister may have missed a further $28,000 of net undeclared income in 2010 and 2011. For completeness, Item 6 for $2,000 allegedly advanced by Mr. Saini to the Corporation does not materially narrow this gap.
+(iii) Advances in Items 5 and 7
+[46] These amounts were not loans to Mr. Saini, but rather the Corporation. The Corporation was not reassessed and its net worth was not assessed by the Minister under subsection 152(7). These amounts are irrelevant to Mr. Saini’s NWA.
+[47] For these reasons, the evidence before the Court supports, on balance, the Minister’s NWA rather than Mr. Saini’s contrary oral assertions and photocopies of cheques and bank account statements.
+b) Statute Barred Assessments
+[48] The Minister has established, on balance, Mr. Saini’s misrepresentation in the 2009 and 2010 taxation years. Mr. Saini’s testimony was that he retained no records to assess his income, but was “more or less” aware of the amounts of his income. This is not an acceptable method for calculating and reporting income. He offered up that he would sign 20 to 30 blank cheques in advance related to his affairs. Transfers between the Corporation and Mr. Saini were nor properly documented in any year, although according to Mr. Saini, these occurred frequently for substantial sums. Similarly, advances from third parties to either of them were not reflected through loan agreements, promissory notes or anything characterizing the advances. On balance, a taxpayer cannot “guestimate” income, fail to reflect shareholder advances and loans and execute cheques in blank while he simultaneously asserts there is no misrepresentation arising from carelessness, neglect and/or wilful default. Mr. Saini’s estimate of income was not correct. Picking a number is careless and neglectful. The Minister was entitled to open the 2009 and 2010 taxation years beyond the normal reassessment period.
+c) Penalties
+[49] Similarly, the subsection 163(2) penalties for gross negligence, if not knowing misstatement, must stand.
+[50] Mr. Saini was not necessarily a person familiar with specific provisions under the Act. He was however, according to his testimony, at some point, a mortgage broker, mortgage referral agent and involved in various other commercial enterprises as an agent and consultant in commercial matters. As such, he would have been exposed to and understood the need for financial record keeping, especially in the context of loans, mortgages, banking and registered title. His understatement of income was material: not less than six times, and in one case 17 times, more than his declared income. While he used accountants, there was no suggestion of their failure to review documents or information he provided. They simply did not receive much from him. Generally, he simply estimated his income. By his own testimony this would have been a cumulative number derived from four to five sources: some business, some commissions and some other income. He signed both his tax returns and the Corporations’. The fact remains, no source or its quantum of income was known with certainty.
+[51] Certain facts are unavoidable in this appeal. Mr. Saini was the sole shareholder in the gas station; his vague, uninformed and consistent failure to keep any reliable records is a hallmark reflecting a standard of gross negligence. With this backdrop, Mr. Saini signed and filed his tax returns. Taxpayers, and particularly those in business, have an obligation to keep reliable books and records: section 230 of the Act. Failure to do so is simply the entry ticket to the pathway of gross negligence. It is the definition of indifference as to compliance with a prime statutory requirement under the lead taxing statute in this country. That lack of concern and regard for compliance with the Act, is the very root cause of this NWA, reassessment beyond the normal reassessment period the imposition of the penalties.
+IV. SUMMARY AND COSTS
+[52] For the reasons above, the appeal is dismissed. Costs in accordance with the applicable Tariff are preliminarily awarded to the Respondent subject to the right of either party to make written submissions thereon within 30 days of the date of the judgment, whereupon the Court shall consider such submissions and may vary its provisional cost award, failing which this provisional cost award shall become final.
+Signed at Toronto, Ontario, this 13th day of March 2020.
+“R.S. Bocock”
+Bocock J.
+CITATION:
+2020 TCC 38
+COURT FILE NO.:
+2016-1836(IT)G
+STYLE OF CAUSE:
+GURPAL SAINI AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+January 21, 2020
+REASONS FOR JUDGMENT BY:
+The Honourable Mr. Justice Randall S. Bocock
+DATE OF JUDGMENT:
+March 13, 2020
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Dominique Gallant
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+blank
+Firm:
+blank
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada

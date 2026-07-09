@@ -1,0 +1,134 @@
+Title: Guenette c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27693/index.do
+Corpus path: corpus/cases/tcc/2004/2004-cci-111-27693-guenette-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2004-02-12
+
+# Guenette c. La Reine
+
+- Citation: 2004 CCI 111
+- Decision date: 2004-02-12
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 512, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Guenette c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-02-12
+Référence neutre
+2004 CCI 111
+Numéro de dossier
+2003-1869(IT)I
+Juges et Officiers taxateurs
+Lucie Lamarre
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2003-1869(IT)I
+ENTRE :
+JOHN P. GUENETTE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 23 octobre 2003 à Ottawa (Ontario)
+Devant : L’honorable juge Lucie Lamarre
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimée :
+Me Justine Malone
+____________________________________________________________________
+JUGEMENT
+L’appel de la cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2000 est rejeté.
+Signé à Ottawa, Canada, ce 12e jour du mois de février 2004.
+« Lucie Lamarre »
+Juge Lamarre
+Traduction certifiée conforme
+ce 29 jour d’avril 2005.
+Colette Dupuis-Beaulne, traductrice
+Référence : 2004TCC111
+Date : 20040212
+Dossier : 2003-1869(IT)I
+ENTRE :
+JOHN P. GUENETTE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La Juge Lamarre
+[1] Le présent appel est interjeté sous le régime de la procédure informelle à l’encontre d’une cotisation établie par le ministre du Revenu national (le « ministre») en vertu de la Loi de l’impôt sur le revenu (la « Loi ») pour l’année d’imposition 2000. Dans le calcul de son revenu pour l’année visée, l’appelant a demandé une déduction de 33 352 $ à titre de frais judiciaires. Pour refuser cette déduction, le ministre s’est fondé sur les faits suivants énoncés au paragraphe 7 de la réponse à l’avis d’appel (la « réponse ») :
+[TRADUCTION]
+a) au cours de l’année d’imposition 1996, l’appelant était un fonctionnaire au service du gouvernement du Canada (l’« employeur »); admis
+b) en 1996, l’appelant a fait une demande auprès de la Commission de la fonction publique alléguant une inconduite de la part de l’employeur et soulevant d’autres préoccupations; admis
+c) en 1998, l’appelant et Joanna Gualtieri (les « codemandeurs ») on entamé une action en justice contre l’Employeur; admis
+d) l’action en justice mentionnée à l’alinéa 7c) ci-dessus demandait l’attribution de dommages-intérêts, notamment pour le salaire passé et actuel et les prestations de pension de retraite perdues par suite, entre autres choses, d’inconduite, de harcèlement et d’abus de pouvoir de la part de l’employeur; admis
+e) vers la fin de l’année 1999, l’appelant a commencé à recevoir des « prestations d’assurance-emploi » de la « Sun Life Assurance Company of Canada » (l’« assureur »), et il a reçu un montant total de 12 298,00 $ en 1999 et de 89 894,00 $ en 2000; admis
+f) les codemandeurs ont pris un avocat dans le cadre de l’action en justice entamée contre l’employeur, comme cela est indiqué à l’annexe « A » ci-jointe;
+g) l’appelant n’a pas démontré qu’il a eu gain de cause devant les tribunaux pour ce qui est d’établir que l’employeur lui devait un montant à titre de salaire ou de traitement;
+h) le montant de « prestations d’assurance-emploi » mentionné à l’alinéa 6e) ci-dessus a été payé à l’appelant par l’assureur et non par l’employeur;
+i) l’appelant n’a pas démontré qu’il a engagé des frais judiciaires de 33 352,00 $ comme il l’a indiqué dans le calcul de son revenu pour l’année d’imposition 2000.
+[2] L’annexe A jointe à la Réponse et dont il est question à l’alinéa 7f) ci-dessus n’est pas reproduite dans le présent document parce qu’elle indique les frais judiciaires engagés par l’appelant en 2000 et que l’avocate de l’intimée a concédé au cours de son contre-interrogatoire lors du procès que l’appelant a démontré dans les faits qu’il a payé en 2000 un montant de 33 352 $ à titre de frais judiciaires, contrairement à ce qui est énoncé à l’alinéa 7i) de la réponse (voir la page 53 de la transcription).
+[3] Concernant l’alinéa 7g) ci-dessus, l’appelant a indiqué dans son témoignage que la demande déposée devant la Cour supérieure de justice de l’Ontario n’a pas encore été entendue quant à son bien-fondé. L’avocate de l’intimée concède cependant que, pour autant que l’appelant montre que sa demande vise le recouvrement du salaire ou du traitement qui lui est dû par son employeur, ou l’établissement d’un droit à ceux-ci, il n’est pas nécessaire qu’il ait gain de cause dans ce litige pour pouvoir déduire les frais judiciaires conformément à l’alinéa 8(1)b) de la Loi. À cet égard, l’avocate de l’intimée souscrit aux décisions rendues dans les affaires Loo c. La Reine, 2003 CarswellNat 887 (C.C.I.), et Fortin c. La Reine, 2001 CarswellNat 3309 (C.C.I.) (voir la page 90 de la transcription).
+[4] L’intimée soutient cependant que les frais judiciaires en cause ont été engagés pour établir le droit à des dommages-intérêts, et qu’ils ne sont donc pas déductibles en vertu de l’alinéa 8(1)b) ou de l’alinéa 60o.1) de la Loi, qui traitent de la déduction des frais judiciaires. Ces dispositions se lisent comme suit pour l’année d’imposition visée :
+Article 8 : Éléments déductibles.
+(1) Sont déductibles dans le calcul du revenu d'un contribuable tiré, pour une année d'imposition, d'une charge ou d'un emploi ceux des éléments suivants qui se rapportent entièrement à cette source de revenus, ou la partie des éléments suivants qu'il est raisonnable de considérer comme s'y rapportant :
+[…]
+48(1)b)3
+b) Frais judiciaires d’un employé – les sommes payées par le contribuable au cours de l'année au titre des frais judiciaires ou extrajudiciaires qu'il a engagés pour recouvrer le traitement ou salaire qui lui est dû par son employeur ou ancien employeur ou pour établir un droit à ceux-ci.
+Article 60 : Autres déductions.
+Peuvent être déduites dans le calcul du revenu d'un contribuable pour une année d'imposition les sommes suivantes qui sont appropriées :
+[…]
+460o.1)3
+60o.1) – Frais judiciaires et extrajudiciaires – l'excédent éventuel du moins élevé des montants suivants :
+(i) le total des frais judiciaires ou extrajudiciaires, sauf ceux se rapportant au règlement ou au partage de biens découlant du mariage ou de son échec, payés par le contribuable au cours de l'année ou de l'une des sept années d'imposition précédentes pour recouvrer l'un des montants suivants ou pour établir un droit à ceux-ci :
+(A) une prestation prévue par quelque régime ou caisse de pensions, sauf une prestation prévue par le régime institué par le Régime de pensions du Canada ou un régime provincial de pensions, au sens de l'article 3 de cette loi, en raison de l'emploi du contribuable ou d'un particulier décédé auquel le contribuable était apparenté ou dont il était une personne à charge ou le représentant légal,
+(B) une allocation de retraite du contribuable ou d'un particulier décédé auquel le contribuable était apparenté ou dont il était une personne à charge ou le représentant légal,
+(ii) l'excédent éventuel du total des montants dont chacun représente :
+(A) soit un montant visé à la division (i)(A) ou (B) au titre duquel les frais judiciaires et extrajudiciaires visés au sous-alinéa (i) ont été payés, reçu après 1985 et inclus dans le calcul du revenu du contribuable pour l'année ou pour une année d'imposition antérieure,
+(B) soit un montant inclus en application de l'alinéa 56(1)l.1) dans le calcul du revenu du contribuable pour l'année ou pour une année d'imposition antérieure,
+sur le total des montants dont chacun représente un montant déduit en application de l'alinéa j), j.01), j.1) ou j.2) dans le calcul du revenu du contribuable pour l'année ou pour une année d'imposition antérieure, dans la mesure où il est raisonnable de considérer que ce montant est déductible en raison de la réception d'un montant visé à la division (A),
+sur :
+(iii) la fraction du total visé au sous-alinéa (i) quant au contribuable qu'il est raisonnable de considérer comme déductible en application du présent alinéa dans le calcul du revenu du contribuable pour une année d'imposition antérieure;
+[5] Le terme « allocation de retraite » est défini comme suit au paragraphe 248(1) :
+« allocation de retraite » Somme, sauf une prestation de retraite ou de pension, une somme reçue en raison du décès d'un employé ou un avantage visé au sous-alinéa 6(1)a)(iv), reçue par un contribuable ou, après son décès, par une personne qui était à sa charge ou qui lui était apparentée, ou par un représentant légal du contribuable :
+a) soit en reconnaissance de longs états de service du contribuable au moment où il prend sa retraite d'une charge ou d'un emploi ou par la suite;
+b) soit à l'égard de la perte par le contribuable d'une charge ou d'un emploi, qu'elle ait été reçue ou non à titre de dommages ou conformément à une ordonnance ou sur jugement d'un tribunal compétent.
+La question
+[6] La question est de savoir si les frais judiciaires demandés par l’appelant ont été engagés pour recouvrer le salaire ou le traitement dû par son employeur, une prestation prévue par un régime ou une caisse de pensions ou une allocation de retraite, ou pour établir un droit à ceux-ci.
+Les faits
+[7] Selon le témoignage de l’appelant et les motifs du jugement déposés par la Cour supérieure de justice de l’Ontario et par la Cour d’appel de l’Ontario sur une requête en jugement sommaire (pièce R-4), les antécédents de l’appelant peuvent se résumer comme suit. L’appelant est un employé du ministère des Affaires étrangères et du Commerce international. Il a commencé son service à la Direction générale des biens de ce ministère en 1982. Il a occupé plusieurs postes depuis ce moment jusqu’en avril 1998, lorsqu’un congé lui a été accordé suivant une directive du Conseil du Trésor. Au début de l’année 1996, l’appelant avait déposé auprès de la Direction des enquêtes de la Commission de la fonction publique (la « CFP ») une plainte pour harcèlement et abus de pouvoir contre deux de ses superviseurs. L’enquête de la CFP a abouti à la conclusion que les plaintes contre l’un des superviseurs n’étaient pas fondées, tandis que les plaintes contre l’autre superviseur étaient partiellement fondées. Par la suite, en juin 1998, l’appelant et Joanna Gualtieri (aussi fonctionnaire à la fonction publique fédérale et employée du ministère des Affaires étrangères et du Commerce international) ont déposé une plainte à la Cour de l’Ontario (Division générale) contre le procureur général du Canada, le ministre des Affaires étrangères et huit cadres supérieurs du gouvernement, réclamant chacun un montant de 3 millions de dollars au titre de dommages-intérêts généraux et de la perte de revenus de pension. Ils ont aussi demandé conjointement une somme de 30 millions de dollars au titre de dommages-intérêts punitifs, exemplaires et majorés, à consacrer à l’établissement d’une organisation de défense des droits à but non lucratif, ayant pour mandat de représenter tous les employés de l’État et de protéger les droits de ceux-ci, en particulier en ce qui concerne les questions d’abus de pouvoir et de harcèlement et les principes d’intégrité (voir les pièces R‑2 et R‑3). Les demandeurs ont allégué que leurs supérieurs avaient pris des mesures punitives à leur endroit lorsqu’ils se sont plaints de ce qu’ils estimaient être de la mauvaise gestion et du gaspillage de l’argent des contribuables. Les défendeurs ont opposé aux demandeurs une requête en jugement sommaire, fondée sur le fait que les tribunaux n’avaient pas compétence en ce qui concerne la présente affaire. Les défendeurs ont fait valoir que les deux employés ne pouvaient pas engager une action au civil contre le gouvernement, le ministre des Affaires étrangères et les cadres supérieurs, parce qu’ils étaient tenus de se conformer à la procédure de règlement des griefs établie par la Loi sur les relations de travail dans la fonction publique (la « LRTFP ») et à la convention collective entre le Conseil du Trésor et le syndicat, l’Alliance de la Fonction publique du Canada
+(l’« AFPC »). La Cour supérieure de justice de l’Ontario a accueilli la requête le 22 septembre 2000 et a rejeté l’action engagée contre tous les défendeurs.
+[8] Les demandeurs ont interjeté appel du jugement, et, le 8 août 2002, leur appel a été acceuilli par la Cour d’appel de l’Ontario, qui a conclu que les tribunaux avaient bel et bien la compétence pour entendre l’action engagée par les demandeurs et rendre une décision. Leur demande n’a pas encore été entendue quant au fond. Les dépens pour la requête en jugement sommaire, fixés à 25 000 $ plus les débours et la TPS, de même que les dépens pour l’appel (fixés à 25 000 $, en incluant les débours et la TPS), ont été adjugés aux demandeurs (voir les motifs de jugement de la Cour d’appel de l’Ontario, pièce R‑4).
+[9] L’appelant a dit dans son témoignage que le premier montant de 25 000 $ a été payé directement à son avocat (ce montant n’étant pas inclus dans le montant de 33 352 $ dont il est question dans la présente affaire). Le second montant de 25 000 $ a été déposé dans le compte de fiducie de l’avocat de l’appelant en attendant la résolution du différend opposant l’appelant et l’autre demandeur, Mme Gualtieri, concernant le partage de cette somme entre eux. Apparemment, il y a un désaccord sur le montant que chacun a payé en ce qui concerne la demande. En conséquence, l’appelant n’a pas encore eu le remboursement de sa part de frais judiciaires.
+[10] L’appelant a reçu la totalité de son salaire jusqu’au mois de juin 1998 lorsqu’il a cessé de travailler, après que son employeur lui ait accordé un congé payé pour raisons médicales. L’appelant, qui a souffert d’une dépression nerveuse et d’une dégradation physique et dont, selon lui, la carrière au sein de la fonction publique a été complètement ruinée, avait eu droit par la suite à des prestations d’invalidité dans le cadre d’un contrat collectif d’assurance, qui lui ont été versées par la Sun Life Assurance Company of Canada (« Sun Life »). En effet, il a reçu des montants bruts de 12 298 $ vers la fin de 1999 et de 89 894 $ en 2000 respectivement[1].
+[11] Le 30 novembre 2000, Sun Life a demandé à l’appelant de signer un formulaire de reconnaissance de subrogation par lequel il accepte de rembourser à Sun Life 75 % des montants recouvrés de son employeur (y compris les dommages-intérêts généraux et les dommages-intérêts pour la perte de revenu) moins les frais judiciaires engagés en vue de ce recouvrement, jusqu’à un maximum équivalant aux montants qui lui ont été versés en vertu de la police d’assurance (pièce A‑2).
+[12] L’appelant a indiqué qu’il n’était pas informé des droits de subrogation de Sun Life au moment où il a déposé sa déclaration en juin 1998. À ce moment, son avocat lui a conseillé de demander des dommages-intérêts généraux englobant le tout, parce que les dommages-intérêts ne seraient pas imposables. L’appelant a indiqué dans son témoignage que lorsqu’il a déposé la demande, il ne s’était pas beaucoup préoccupé de déterminer le type de dommages-intérêts. Au procès, il a dit qu’il poursuivait l’employeur pour la perte de salaire à partir du moment où il avait cessé de travailler pour cause d’invalidité, pour la perte de salaires futurs et pour la perte de la capacité de réaliser des gains futurs en raison de la blessure morale qui lui a été infligée par ses supérieurs hiérarchiques. Il a néanmoins admis qu’il ne serait pas dans son intérêt d’obtenir une somme de 3 M$ au titre de la perte de salaires plutôt qu’une somme similaire au titre de dommages-intérêts, étant donné que la première somme serait considérée comme un revenu imposable, alors que la deuxième somme ne le serait probablement pas.
+Analyse
+[13] La question est de savoir si les frais judiciaires payés par l’appelant en 2000 concernant l’action en justice engagée devant la Cour supérieure de justice de l’Ontario sont déductibles en vertu de la Loi.
+[14] L’appelant était et est encore – même s’il a cessé de travailler en juin 1998 – un employé du gouvernement du Canada, et il a droit à des prestations d’invalidité. Par conséquent, les dispositions du paragraphe 8(2) de la Loi s’appliquent; ces dispositions limitent les éléments déductibles du revenu tiré d’une charge ou d’un emploi à ceux qui sont expressément énumérés à l’article 8. Au sens de l’alinéa 8(1)b), seuls les frais judiciaires engagés par le contribuable pour recouvrer un salaire ou un traitement dû par l’employeur à l’employé, ou pour établir un droit à ceux-ci, sont déductibles. Dans la déclaration de son action en justice, l’appelant demande des dommages-intérêts généraux et des dommages-intérêts punitifs et au titre de la perte de revenus de pension. Il n’y a aucune mention d’une demande relative à l’établissement d’un droit au salaire ou au traitement qui lui est dû par son employeur. Dans son témoignage, l’appelant a admis que son avocat lui avait conseillé de demander des dommages-intérêts généraux parce que, s’il avait gain de cause, les montants reçus au titre des dommages-intérêts généraux ne seraient pas imposables.
+[15] L’appelant a aussi admis que l’employeur lui avait payé la totalité de son salaire jusqu’à la date à laquelle il a cessé de travailler. Aucun salaire n’était dû à l’appelant pour des services rendus.
+[16] L’appelant a indiqué dans son témoignage qu’il a demandé des dommages-intérêts en guise de compensation pour la perte de la capacité de réaliser des gains futurs à la suite de la dépression nerveuse et de la dégradation physique causées, selon la déclaration de son action en justice, par les mesures prises par son employeur. Les dommages-intérêts demandés ne se rapportent pas à la perte de l’emploi, puisqu’il est encore un employé du gouvernement du Canada. Les dommages-intérêts demandés sont plutôt une compensation de la perte de carrière. La demande porte sur le fait qu’il n’est pas capable de continuer à gagner un revenu d’emploi comme il le faisait lorsqu’il exerçait ses fonctions au ministère des Affaires étrangères et du Commerce international. Il ne s’agit pas d’une demande concernant un salaire dû, et celle-ci ne peut pas entraîner le recouvrement d’un salaire ou d’un traitement que son employeur lui doit. L’action en justice vise à obtenir des dommages-intérêts en compensation de la perte de revenus futurs et, à ce titre, les frais judiciaires qui s’y rapportent ne sont pas visés par l’alinéa 8(1)b) de la Loi (voir Blagdon c. La Reine, 2002 CarswellNat 260 (C.C.I.), confirmé par la décision 2003 C.A.F. 269).
+[17] L’appelant a en outre dit que, s’il a gain de cause, il devra rembourser à la compagnie d’assurance une partie des prestations d’invalidité qu’il a reçues après qu’il a cessé de travailler. Il a par conséquent fait valoir que les dommages-intérêts demandés à son employeur sont en réalité destinés à servir de compensation pour les prestations d’invalidité et que les frais judiciaires engagés à cet effet devraient être déductibles de son revenu, conformément à l’alinéa 8(1)b).
+[18] Tout d’abord, les prestations d’invalidité versées par une compagnie d’assurance à un employé pendant que celui-ci ne travaille pas ne sont pas un salaire ou traitement dû par un employeur, du fait que l’employé n’a rendu aucun service à l’employeur au cours de la période visée (voir les décisions Fortin et Loo précitées) et, à mon sens, elles ne sont pas visées par l’alinéa 8(1)b) de la Loi tel qu’il était libellé pour l’année d’imposition 2000.
+[19] Ensuite, l’appelant n’a pas eu à engager des frais judiciaires pour recevoir les prestations d’invalidité. Il était couvert par un régime d’assurance contracté par son employeur. Si l’employé a choisi d’engager une action en justice contre son employeur, ce n’est pas parce qu’il réclame le droit de recevoir des prestations d’invalidité. Il reçoit déjà ces prestations. Même s’il n’avait pas engagé son action pour obtenir des dommages-intérêts généraux, il n’aurait pas engagé de frais judiciaires en vue d’obtenir des prestations d’invalidité. Par conséquent, même si l’appelant doit effectuer un remboursement à la compagnie d’assurance s’il obtient gain de cause dans son action en justice, les frais judiciaires ont été en réalité engagés en vue d’obtenir des dommages-intérêts, et ces frais ne sont pas visés par l’alinéa 8(1)b) de la Loi. Dans ce sens, on peut établir une différence entre la présente affaire et l’affaire O'Donovan c. Canada, [2001] A.C.I. no, 137 (Q.L.) à laquelle l’appelant fait référence. Dans l’affaire O'Donovan, le contribuable a payé des frais judiciaires pour recouvrer un revenu sous le régime du plan de remplacement du salaire de son employeur, dans le cadre duquel le contribuable avait payé une partie des primes. La Cour a conclu que le montant en cause n’était pas un revenu provenant d’une charge ou d’un emploi au sens du paragraphe 8(2) de la Loi, et que les frais judiciaires n’avaient pas été engagés pour recouvrer un salaire ou un traitement dû au contribuable par son employeur, ou pour établir un droit à ceux-ci, au sens de l’alinéa 8(1)b). La Cour a estimé que les frais judiciaires avaient été engagés pour obtenir le paiement d’un revenu auquel le contribuable avait droit et, en se basant sur la décision de la Cour suprême du Canada dans l’affaire Gladys Evans c. M.R.N., 60 DTC 1047, a confirmé que ces frais étaient déductibles à juste titre. Cependant, il est clair que ce n’est pas le cas dans la présente affaire, étant donné que la demande de dommages-intérêts introduite par l’appelant n’est pas une demande visant à obtenir le paiement d’un montant qui lui était dû par son employeur.
+[20] Enfin, est-il possible de dire que les frais judiciaires engagés par l’appelant sont déductibles en vertu de l’alinéa 60o.1) de la Loi? Pour que ces frais soient déductibles en vertu de cette disposition législative, l’appelant doit prouver qu’ils ont été engagés en vue de recouvrer une allocation de retraite ou une prestation prévue par un régime ou une caisse de pensions, ou pour établir un droit à ceux-ci. Une allocation de retraite est définie comme étant un montant reçu dans le cadre de la perte d’une charge ou d’un emploi. Dans la présente affaire, l’appelant est encore un employé; il n’a pas perdu son emploi. De plus, dans l’affaire Ahmad c. La Reine, 2002 CarswellNat 2429 (C.C.I.), il a été décidé que les dommages-intérêts demandés par une personne à titre de compensation pour le tort qui lui a été fait en la privant de la possibilité de travailler dans son domaine d’expertise ne constituent pas une allocation de retraite.
+[21] Cependant, la déclaration de l’appelant fait référence non seulement aux dommages-intérêts, mais aussi à une demande pour la perte de revenus de pension. Si l’appelant a gain de cause sur ce point devant la Cour supérieure de justice de l’Ontario, il pourra peut-être déduire les frais judiciaires applicables à cette partie de la demande dans l’année où la somme allouée pour les revenus de pension est incluse dans le revenu, pourvu que ladite somme soit incluse dans le revenu dans les sept ans suivant le paiement des frais judiciaires. En effet, dans ce cas, les frais judiciaires seraient déductibles en vertu des dispositions de la division 60o.1)(i)(A) et du sous-alinéa 60o.1)(ii), qui limitent la déduction des frais judiciaires au montant de la prestation prévue par un régime ou une caisse de pensions inclus dans le revenu pour l’année, et le contribuable pourrait reporter la déduction des frais judiciaires payés au cours d’une année donnée pour les sept prochaines années (voir aussi l’affaire Fortin précitée). Mais, pour l’année 2000, les frais judiciaires ne sont manifestement pas déductibles en vertu de l’alinéa 60o.1) de la Loi.
+[22] Pour ces motifs, l’appel est rejeté.
+Signé à Ottawa, Canada, ce 12e jour de février 2004.
+« Lucie Lamarre »
+Juge Lamarre
+Traduction certifiée conforme
+ce 29e jour d’avril 2005.
+Colette Dupuis-Beaulne, traductrice
+[1] Je remarque qu’aux alinéas 7e) et h) de la réponse, le ministre parle de « prestations d’assurance-emploi », mais la preuve a montré clairement que l’appelant avait droit à des « prestations d’invalidité » et non à des « prestations d’assurance-emploi ».

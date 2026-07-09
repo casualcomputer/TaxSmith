@@ -1,0 +1,464 @@
+---
+title: "National Bank Life Insurance Company v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27559/index.do"
+last_modified: "2005-07-07"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 TCC 425"
+citation2: ""
+neutral_citation: "2005 TCC 425"
+decision_date: "2005-07-07"
+language: "en"
+item_id: "27559"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 121
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T20:35:12.570000+00:00"
+cases_cited_count: 0
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "0bd2795cc99b54fc5fb0b7149f363b261bc2ff9f05991908f8aac43d5a64e75a"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# National Bank Life Insurance Company v. The Queen
+
+- Citation: 2005 TCC 425
+- Decision date: 2005-07-07
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 121, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+National Bank Life Insurance Company v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-07-07
+Neutral citation
+2005 TCC 425
+File numbers
+2004-128(GST)I
+Judges and Taxing Officers
+Lucie Lamarre
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Dockets: 2004-128(GST)I
+2002-4863(GST)G
+BETWEEN:
+NATIONAL BANK LIFE INSURANCE COMPANY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeals heard on October 12, 2004, at Montréal, Quebec.
+Before: The Honourable Justice Lucie Lamarre
+Appearances:
+Counsel for the Appellant:
+Richard Généreux
+Counsel for the Respondent:
+Gérald Danis
+____________________________________________________________________
+JUDGMENT
+The appeals from the assessments made under Part IX of the Excise Tax Act (ETA) in Docket No. 2004-128(GST)I, the first notice of which is dated January 10, 2003, and pertains to the period of January 1, 2001 to December 31, 2001, and the second notice of which is dated June 10, 2003, and pertains to the period of January 1, 2002 to December 31, 2002, are dismissed.
+The appeal from the assessment made under Part IX of the ETA in File No. 2002-4863(GST)G, notice of which is dated September 18, 2001, and pertains to the period of January 1, 2000 to December 31, 2000, is dismissed with costs.
+Signed at Ottawa, Canada, this 7th day of July 2005.
+"Lucie Lamarre"
+Lamarre J.
+Translation certified true
+on this 9th day of January 2006.
+Garth McLeod, Translator
+Citation: 2005TCC425
+Date: 20050707
+Dockets: 2004-128(GST)I
+2002-4863(GST)G
+BETWEEN:
+NATIONAL BANK LIFE INSURANCE COMPANY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Lamarre J.
+[1] The Appellant is appealing assessments under the Excise Tax Act (ETA) in which the Minister of National Revenue ("Minister") denied it input tax credits (ITCs) for the years 2000 through 2002. The parties summarized the facts and set out the issues in a partial agreement on the facts. That agreement reads as follows:
+[TRANSLATION]
+1. The Appellant claimed input tax credits from the Minister of National Revenue (hereinafter"the Minister") for the following years:
+In Docket No. 2002-4863(GST)G
+1998
+$76,872 *
+1999
+$109,645 *
+2000
+$140,667
+In Docket No. 2004-128(GST)I
+2001
+$177,499
+2002
+$147,368
+2. In a Notice of Assessment dated September 18, 2001, the Minister denied the Appellant $327,183.80 in input tax credits for the years 1998 to 2000* as well as a tax refund in the amount of $24,276.42 as shown in the Notice of Assessment dated Septembet 18, 2001 (Tab 1 of the parties' record.)
+3. In a Notice of Assessment dated January 10, 2003, and pertaining to the 2001 taxation year, the Minister denied the Appellant $177,499 in input tax credits as well as an adjustment of net tax in respect of which the Appellant is entitled to a $3,608.20 tax refund as shown in the Notice of Assessment dated January 10, 2003 (Tab 2 of the parties' record.)
+4. In a Notice of Assessment dated June 10, 2003, and pertaining to the 2002 taxation year, the Minister denied the Appellant $154,847 in input tax credits as well as an adjustment of net tax in respect of which the Appellant is entitled to a $2,790.47 tax refund as shown in the Notice of Assessment dated June 10, 2003 (Tab 3 of the parties' record.)
+5. The Appellant served Notices of Objection on the Minister with regard to the assessments in issue, specifically
+Period
+Date
+1998 to 2000
+November 9, 2001
+2001
+April 2, 2003
+2002
+August 8, 2003
+(The Notices of Objection are at Tab 4 of the parties' record.)
+6. In the notifications of confirmation below, the Minister confirmed the assessments in issue. Essentially, the ground invoked by the Minister was that [TRANSLATION] "the supply of a financial service related to an insurance policy is only zero-rated if each and every condition in section 2 of Part IX of Schedule VI of the Excise Tax Act is met."
+Period
+Date
+1998 to 2000
+October 9, 2002
+2001
+October 23, 2003
+2002
+November 17, 2003
+7. The Appellant uses reinsurance in its operations in order to limit its risk with regard to products that it offers to its insureds.
+8. The products that the Appellant offers to its insured are essentially group life or health insurance policies.
+9. Reinsurance is obtained from a number of reinsurers, which bear a major share (up to 90%) of the risk. However, reinsurance does not free the Appellant from its obligations to the insurance policyholders.
+10. While this aspect was not audited, the parties acknowledge, for the purposes of the hearing, that the policyholders are individuals who reside in Canada.
+11. The Appellant's primary reinsurers include RGA and Natcan Insurance Company Limited (hereinafter "NATCAN").
+12. NATCAN is a non-resident of Canada and was a wholly owned subsidiary of National Bank of Canada during the periods in issue.
+13. The reinsurance services that NATCAN provided to the Appellant constitute a "financial service" within the meaning of subsection 123(1) of the Excise Tax Act.
+14. The Appellant is a "financial institution" within the meaning of the Excise Tax Act;
+15. Other reinsurance contracts were entered into by the Appellant and NATCAN, including contracts dated October 31, 1996 and April 12, 1999. (Tab 5 of the parties' record.)
+16. The Appellant's supply of services to NATCAN is a "financial service" within the meaning of subsection 123(1) of the Excise Tax Act.
+17. In computing its income, the Appellant included, under the heading "reinsurers' fee", the amounts that it received from NATCAN pursuant to the contracts attached at Tab 5, as shown by the audited financial statements of the Appellant for the following years:
+December 31, 1999
+Tab 6
+December 31, 2000
+Tab 7
+December 31, 2001
+Tab 8
+December 31, 2002
+Tab 9
+18. The Appellant's supply of services to NATCAN is not related to an insurance policy that
+(a) At the time that it came into force, was issued in respect of a non-resident individual;
+(b) relates to non-resident individuals who are insured under the policy;
+(c) relates to real property situated outside Canada; or
+(d) relates to risks that are ordinarily situated outside Canada.
+19. Although the Respondent is contesting it, the Appellant's calculation method for the purposes of its input tax credit claim is based on a percentage of the GST paid on certain operating expenses of the Appellant. This percentage is based on the amount of premiums borne by NATCAN divided by the amount of gross premiums issued, as shown by the tables for the years in issue (attached jointly Tab 10 of the parties' record).
+20. The amount of the operating expenses and the amount of GST paid by the Appellant in respect of these expenses were not audited, but, for the purposes of this hearing, the Respondent is not contesting them. The breakdown of the various expense items and the amount of GST paid by the Appellant for the years in issue are attached jointly atTab 11 of the parties' record.
+ISSUES
+21. Are the supplies by the Appellant to NATCAN exempt supplies within the meaning of Part VII of Schedule V, or, rather, zero-rated supplies within the meaning of Part IX of Schedule VI of the Excise Tax Act?
+22. In the alternative, is the method used by the Appellant to determine its input tax credits fair and reasonable within the meaning of subsection 141.01(5) of the Excise Tax Act?
+[2] It is also helpful to reproduce the parts of the reinsurance contracts relevant to this issue referred to in paragraph 15 of the partial agreement on the facts. The contract dated October 31, 1996, stipulates, inter alia, as follows:
+REINSURANCE AGREEMENT # 3
+between
+NATIONAL BANK LIFE INSURANCE COMPANY
+(hereinafter called the "Company")
+and
+NATCAN INSURANCE COMPANY LIMITED
+(hereinafter called the "Reinsurer")
+In witness of the Agreement hereinafter set forth, the Company and the Reinsurer have hereunto affixed their signatures.
+. . .
+1. SCOPE OF THE AGREEMENT
+This Agreement applies to National Bank Life Insurance company risks under the Company's policies 70003-70004 including life benefits, which are accepted by the Company in accordance with its normal underwriting rules at premium rates and on policies forms filed with the Reinsurer at the date of this Agreement and from time to time.
+Such risks shall be reinsured with the Reinsurer and such reinsurance shall be ceded on an automatic basis as herein provided.
+2. EFFECTIVE DATE
+All of the risks shall be reinsured on and after January 1st, 1996.
+3. POLICY CONDITIONS
+The current general and special policy conditions and premium schedules of the Company applying to the business covered by this Agreement shall form an integral part of this Agreement. Any additions or alterations to any of these conditions or schedules shall be reported in writing to the Reinsurer without delay.
+4. REINSURER'S SHARE
+The Company agrees to cede to the Reinsurer 90% of the first $150,000 in coverage under the Company's policies on a coinsurance basis and the Reinsurer agrees to accept these risks.
+5. COMMENCEMENT AND TERMINATION OF LIABILITY
+On and after the Effective Date of this Agreement, the liability of the Reinsurer shall commence and terminate simultaneously with that of the Company.
+The liability of the Reinsurer shall commence on the Effective Date of this Agreement for any liability of the Company that commenced prior to the Effective Date of this Agreement, and that had not been settled as of the date of this Agreement, whether reported or not.
+. . .
+7. REINSURANCE PREMIUMS
+7.1 For all certificates, the Reinsurer shall receive a reinsurance premium which shall be the Reinsurer's Share of the Company's regular monthly premium due and received on or after the Effective Date of this Agreement for the Reinsurer's share of each risk.
+. . .
+7.4 The Reinsurer shall reimburse the Company for its share of any premium refunded to an Insured Borrower by the Company.
+. . .
+8. EXPENSES
+The Reinsurer shall grant an expense allowance to the Company expressed as a percentage of reinsurance premiums which recognizes the expense ratio incurred by the Company. The expense allowance will not exceed 35% of:
+a) the reinsurance premiums stated in section 7.1 above
+b) less any premium refund according to 7.4 above
+This expense allowance includes premium taxes.
+. . .
+9. MONTHLY STATEMENT
+At the end of each month, the Company will produce a statement showing for the month:
+a) Reinsurance premiums due in accordance with provision 7;
+b) Reinsurance expense allowances applicable in accordance with provision 8;
+c) Claims paid during the month;
+d) Net reinsurance payment (amount due) for the month.
+The Company (Reinsurer) will pay to the Reinsurer (Company) any positive (negative) reinsurance payment before the end of the following month.
+In the event of late payment by either party for any reason, interest on the overdue amount will be added to the amount otherwise due. This interest will be calculated at an annual rate of 3% over the then current prime rate of the National Bank of Canada from the due date of the overdue amount to the date of payment.
+10. QUARTERLY REPORT
+Within 30 days from the end of each quarter, or as soon thereafter as reasonably possible, the Company shall prepare and send to the Reinsurer a quarterly report containing information satisfactory to the Reinsurer for the maintenance of proper records and appropriate actuarial reserves (including the assumptions and methods) in respect of the Reinsurer's Share of the risks.
+11. LETTER OF CREDIT
+The Reinsurer agrees to provide the Company with an irrevocable Letter of Credit in favour of the Company drawn on a bank acceptable to the Company in an amount equal to 120% of the Company's statutory reserves and provisions on the reinsured risks at the most recent annual valuation date.
+The Reinsurer agrees to renew such Letter of Credit at least 30 days before its expiry.
+The Company shall be entitled to draw down the Letter of Credit if the Reinsurer fails to make payment in timely fashion of claims or any other amounts due to the Company under this Agreement or if the Reinsurer commits a financial breach of this Agreement.
+Before drawing down the Letter of Credit, the Company will notify the Reinsurer of its intention to do so and provide a delay of at least fourteen days for the Reinsurer to pay the amount due or remedy the breach, provided however that no such delay shall extend beyond the day one week prior to the expiration date of the current Letter of Credit.
+If the Letter of Credit is drawn down in accordance with this provision, this Agreement shall immediately and automatically terminate without any further notice being necessary. The Reinsurer remains liable for all claims and is entitled to all premiums up to the date of termination. The reinsured proportion of reserves and provisions of the Company shall be reimbursed by the Reinsurer on termination, plus any claim handling expenses applicable. The proceeds of the Letter of Credit shall be treated as a payment on account pending final settlement of all amounts owing between the parties.
+12. SETTLEMENT OF CLAIMS
+The Company shall report promptly to the Reinsurer information respecting any claim received which is covered by this Agreement. The claim made upon the Company shall be accepted by the Reinsurer as a claim upon it for the Reinsurer's Share on the date the claim is incurred. The proofs of claim accepted by the Company shall be taken as sufficient by the Reinsurer.
+Except as provided herein, the Reinsurer shall abide by the claim as it shall be settled by the Company, with or without contest.
+Any suit or claim may be contested, compromised or settled for a reduced amount by the Company and the Reinsurer shall participate in any reduction. Any such reduction shall be shared by the Company and the Reinsurer in proportion to the net sum at risk of the Company and the Reinsurer at the time the claim occurred. The same proportion of any special expenses incurred by the Company (excluding the routine cost of claim investigation and the salary of its full-time employees) in defending or contesting any claim shall be paid by the Reinsurer. The Company shall promptly notify the Reinsurer of any suit or proceeding in court respecting any claims, furnish the dETAils thereof on request, and shall furnish an itemized statement of the expenses incurred thereby.
+13. REDUCTIONS (INCLUDING TERMINATIONS)
+If there is any decrease in the amount of any risk covered by this Agreement the amount of reinsurance shall be decreased in the same proportion.
+. . .
+16. ACCESS TO RECORDS
+The Reinsurer shall have the right, at any reasonable time, to inspect at the principal office of the Company all books and documents relating to reinsurance under this Agreement.
+Upon request, the Company shall furnish the Reinsurer with copies of its files.
+. . .
+18. PARTIES TO AGREEMENT
+This is an Agreement of indemnity reinsurance solely between the Company and the Reinsurer. The acceptance of reinsurance by the Reinsurer under this Agreement shall not create any right of legal relation between the Reinsurer and the Policyholder or any of the Insured Borrowers under the Company's policies.
+. . .
+21. GOVERNING LAW
+This Agreement shall be interpreted in accordance with the law of the Province of Quebec.
+[3] The same parties signed another contract,
+"Reinsurance Agreement #5", on April 12, 1999. Its terms are generally the same as those of the October 31, 1996, contract, with a few exceptions. For example, section 1 of the new contract refers to different policy numbers and section 2 states that the effective date of the reinsurance is December 7, 1998. The following sections are also changed:
+REINSURANCE AGREEMENT # 5
+between
+NATIONAL BANK LIFE INSURANCE COMPANY
+(hereinafter called the "Company")
+and
+NATCAN INSURANCE COMPANY LIMITED
+(hereinafter called the "Reinsurer")
+. . .
+4. REINSURER'S SHARE
+The Company agrees to cede to the Reinsurer 90% of the first $150,000 of life insurance coverage and 100% in excess of $150,000 of life insurance coverage under the Company's policies on a coinsurance basis and the Reinsurer agrees to accept these risks. The Company agrees to cede 100% of dismemberment coverage and the Reinsurer agrees to accept these risks.
+. . .
+7. REINSURANCE PREMIUMS
+7.1 For all certificates, the Reinsurer shall receive a reinsurance premium which shall be the Reinsurer's Share of the Company's regular monthly premium due and received on or after the Effective Date of this Agreement for the Reinsurer's share of each risk.
+7.2 The Reinsurer shall reimburse the Company for its share of any premium refunded to an Insured Borrower by the Company.
+8. EXPENSES
+The Reinsurer shall grant an expense allowance to the Company expressed as a percentage of reinsurance premiums which recognizes the expense ratio incurred by the Company. The expense allowance will not exceed 35% of:
+a) the reinsurance premiums stated in section 7.1 above
+b) less any premium refund according to 7.2 above
+This expense allowance includes premium taxes. The expense allowance percentages will be revised each year in order to reflect the current level of expenses incurred by the Company.
+[4] Georges Ferland, the Appellant's Vice-President, Actuarial Services, explained the role of Natcan Insurance Company Limited ("Natcan") in relation to the Appellant. Natcan reinsures life insurance sold by the Appellant on the loans that National Bank of Canada advances to its Canadian customers. Natcan reinsures 90% of any life insurance policies taken out on loans of $150,000 or less. Consequently, the Appellant bears only 10% of the risk, while Natcan bears 90% of the risk. Since December 7, 1998, in cases involving more than $150,000 in life insurance coverage, Natcan has assumed 100% of the risk (see section 4 of Reinsurance Agreement #5 signed on April 12, 1999).
+[5] Since the Appellant continues to be responsible for the entire administration of the insurance files, it asks for an allowance from Natcan, and this allowance is deducted from the share of insurance premiums that Natcan would normally be given. Thus, Natcan receives 90% of the insurance premiums (since it assumes 90% of the risk) - or 100% if it assumes 100% of the risk - from which an amount is deducted corresponding to 26% of the premiums that the Appellant transfers to Natcan (the contract provides that the Appellant may demand up to 35% of the premiums thereby transferred to Natcan.) This means that the Appellant gives Natcan the difference, i.e. 64% of the premiums (or 74% if Natcan assumes 100% of the risk) once per month. The amount of net premiums paid to Natcan can be adjusted based on the insurance claims made over the course of the month.
+[6] Mr. Ferland added that the Appellant employs roughly 100 persons to look after the entire administration of insurance on mortgage loans.
+[7] According to Mr. Ferland, the Appellant is rendering a service to Natcan because it is selecting the risk before granting insurance and establishing the insurance premiums. Since Natcan contributes to the payment of claims, the Appellant submits that the entire administration of the insurance is being done not only for itself, but for Natcan as well, in exchange for compensation equal to 26% of the premiums transferred.
+[8] This explains the Appellant's position that it was supplying a financial service to Natcan. Normally, supplies of financial services are exempt supplies which do not qualify for ITCs. However, certain exports of financial services become zero-rated supplies that qualify for ITCs if they meet the requirements of Part IX of Schedule VI of the ETA. Since Natcan is not a resident of Canada, the Appellant was of the view that the supply of services to Natcan (including the portion of the entire administration of the insurance policies that was attributable to Natcan) constituted a zero-rated supply within the meaning of Part IX of Schedule VI of the ETA.
+[9] The Appellant therefore claimed ITCs based on a percentage of the cost of all administrative services that it performed during the period in issue. Since the Appellant could not itemize which services were supplied to one reinsurer and which services were supplied to another, it calculated the percentage applicable to Natcan by dividing the amount of the premiums which Natcan reinsured by the total amount of premiums that the Appellant charged insured persons during a year. For example, in 1999, Natcan received 64.77% of the total gross premiums collected by the Appellant (i.e. 64.77% of the total premiums obtained from members of the public insured by the Appellant). Thus, in 1999, the proportion of ITCs claimed by the Appellant was 64.77% of the GST paid on all its operating expenses (being the costs of underwriting, registration, collection of premiums on policies, settlement of claims, and various other financial services, that is to say, all expenses normally assumed by the primary insurer), considering that it was claiming these ITCs on zero-rated activities. This method was used for all the years in question.
+Issue
+[10] The issue, then, is whether the Appellant's supply of financial services to Natcan is an exempt supply (on which ITCs cannot be claimed) under section 1 of Part VII of Schedule V or, rather, a zero-rated supply (for which ITCs can be claimed) by operation of Part IX of Schedule VI of the ETA.
+Statutory provisions
+DEFINITIONS AND INTERPRETATION
+123. Definitions. - (1) In section 121, this Part and Schedules V to X,
+"commercial activity" of a person means:
+(a) a business carried on by the person (other than a business carried on without a reasonable expectation of profit by an individual, a personal trust or a partnership, all of the members of which are individuals), except to the extent to which the business involves the making of exempt supplies by the person;
+(b) an adventure or concern of the person in the nature of trade (other than an adventure or concern engaged in without a reasonable expectation of profit by an individual, a personal trust or a partnership, all of the members of which are individuals), except to the extent to which the adventure or concern involves the making of exempt supplies by the person; and
+(c) the making of a supply (other than an exempt supply) by the person of real property of the person, including anything done by the person in the course of or in connection with the making of the supply;
+"exempt supply" means a supply included in Schedule V;
+"financial institution", at any time, means a person who is at that time a financial institution under section 149;
+"financial instrument" means
+(a) a debt security,
+(b) an equity security,
+(c) an insurance policy,
+(d) an interest in a partnership, a trust or the estate of a deceased individual, or any right in respect of such an interest,
+(e) a precious metal,
+(f) an option or a contract for the future supply of a commodity, where the option or contract is traded on a recognized commodity exchange,
+(g) a prescribed instrument,
+(h) a guarantee, an acceptance or an indemnity in respect of anything described in paragraph (a), (b), (d), (e) or (g), or
+(i) an option or a contract for the future supply of money or anything described in any of paragraphs (a) to (h);
+"financial service" means
+.[ . . ]
+(f.1) the payment or receipt of an amount in full or partial satisfaction of a claim arising under an insurance policy;
+[. . .]
+(l) the agreeing to provide, or the arranging for, a service referred to in any of paragraphs (a) to (i), or
+[. . .]
+"insurance policy" means
+(a) a policy or contract of insurance (other than a warranty in respect of the quality, fitness or performance of tangible property, where the warranty is supplied to a person who acquires the property otherwise than for resale) that is issued by an insurer, including
+(i) a policy of reinsurance issued by an insurer,
+[. . .]
+"insurer" means a person who is licensed or otherwise authorized under the laws of Canada or a province to carry on in Canada an insurance business or under the laws of another jurisdiction to carry on in that other jurisdiction an insurance business;
+"person" means an individual, a partnership, a corporation, the estate of a deceased individual, a trust, or a body that is a society, union, club, association, commission or other organization of any kind;
+"recipient" of a supply of property or a service means
+(a) where consideration for the supply is payable under an agreement for the supply, the person who is liable under the agreement to pay that consideration;
+(b) where paragraph (a) does not apply and consideration is payable for the supply, the person who is liable to pay that consideration, and
+(c) where no consideration is payable for the supply,
+(i) in the case of a supply of property by way of sale, the person to whom the property is delivered or made available,
+(ii) in the case of a supply of property otherwise than by way of sale, the person to whom possession or use of the property is given or made available, and
+(iii) in the case of a supply of a service, the person to whom the service is rendered
+"service" means anything other than
+(a) property,
+(b) money, and
+(c) anything that is supplied to an employer by a person who is or agrees to become an employee of the employer in the course of or in relation to the office or employment of that person;
+"supply" means, subject to sections 133 and 134, the provision of property or a service in any manner, including sale, transfer, barter, exchange, licence, rental, lease, gift or disposition;
+"zero-rated supply" means a supply included in Schedule VI
+[. . .]
+Financial institutions
+149. Financial institutions. (1) For the purposes of this Part, a person is a financial institution throughout a particular taxation year of the person if
+(a) the person is
+[. . .]
+(v) an insurer or any other person whose principal business is providing insurance under insurance policies
+[. . .]
+at any time in the particular year;
+Subdivision b
+Input tax credits
+169. General rule for credits. Subject to this Part, where a person acquires or imports property or a service or brings it into a participating province and, during a reporting period of the person during which the person is a registrant, tax in respect of the supply, importation or bringing in becomes payable by the person or is paid by the person without having become payable, the amount determined by the following formula is an input tax credit of the person in respect of the property or service for the period:
+A x B
+where
+A is the tax in respect of the supply, importation or bringing in, as the case may be, that becomes payable by the person during the reporting period or that is paid by the person during the period without having become payable; and
+B is
+[. . .]
+(c) in any other case, the extent (expressed as a percentage) to which the person acquired or imported the property or service or brought it into the participating province, as the case may be, for consumption, use or supply in the course of commercial activities of the person.
+[. . .]
+SCHEDULE V
+EXEMPT SUPPLIES
+[. . .]
+PART VII
+FINANCIAL SERVICES
+1. A supply of a financial service that is not included in Part IX of Schedule VI.
+[. . .]
+SCHEDULE VI
+ZERO-RATED SUPPLIES
+[. . .]
+PART IX
+FINANCIAL SERVICES
+1. A supply of a financial service (other than a supply that is included in section 2) made by a financial institution to a non-resident person, except where the service relates to
+(a) a debt that arises from
+(i) the deposit of funds in Canada, where the instrument issued as evidence of the deposit is a negotiable instrument, or
+(ii) the lending of money that is primarily for use in Canada;
+(b) a debt for all or part of the consideration for a supply of real property that is situated in Canada;
+(c) a debt for all or part of the consideration for a supply of personal property that is for use primarily in Canada;
+(d) a debt for all or part of the consideration for a supply of a service that is to be performed primarily in Canada; or
+(e) a financial instrument (other than an insurance policy or a precious mETAl) acquired, otherwise than directly from a non-resident issuer, by the financial institution acting as a principal.
+2. A supply made by a financial institution of a financial service that relates to an insurance policy issued by the institution (other than a service that relates to investments made by the institution), to the extent that
+(a) where the policy is a life or accident and sickness insurance policy (other than a group policy), it is issued in respect of an individual who at the time the policy becomes effective, is a non-resident individual;
+(b) where the policy is a group life or accident and sickness insurance policy, it relates to non-resident individuals who are insured under the policy;
+(c) where the policy is a policy in respect of real property, it relates to property situated outside Canada; and
+(d) s'agissant d'un autre type de police, la police concerne des risques qui sont habituellement situés à l'étranger.
+3. A supply of a financial service that is the supply of precious metals where the supply is made by the refiner thereof or by the person on whose behalf the precious metals were refined.
+The parties' submissions
+[11] The Respondent submits that the Appellant is not entitled to the ITCs claimed, because they are related to a supply of financial services that is an exempt supply within the meaning of section 1 of Part VII of Schedule V of the ETA. Under section 169 of the ETA, no exempt supply qualifies for ITCs because a supply can only qualify if it was made as part of a commercial activity. The making of an exempt supply is specifically excluded from all commercial activity by virtue of section 123 of the ETA.
+[12] The Respondent is of the view that the financial services related to insurance policies will only qualify for ITCs if something causes them to be zero-rated under section 2 of Part IX of Schedule VI of the ETA. In the partial agreement on the facts, the parties have admitted that the Appellant's supply of services to Natcan is not related to an insurance policy contemplated in section 2 of Part IX of Schedule VI of the ETA. Consequently, the supply cannot be zero-rated and remains exempt by virtue of section 1 of Part VII of Schedule V of the ETA.
+[13] In the alternative, the Respondent submits that even if the Appellant's supply of services to Natcan could be considered zero-rated, the ITCs claimed were not established based on the actual amount of ITCs related to services supplied to Natcan. According to the Respondent, the Appellant calculated the ITCs based on a portion of its operating expenses as whole, even though, in the Respondent's submission, the services that the Appellant provides to Natcan are much more limited. The services provided under the reinsurance policies are, it is submitted, limited solely to the transfer of insurance policies. In the Respondent's view, the expenses related to administrative services in general are rendered to the insurance policy beneficiaries, not to Natcan.
+[14] The Appellant, for its part, submits that even if the supply of the services is not included in section 2 of Part IX of Schedule VI of the ETA, it can be seen, by scrutinizing section 1 of that Part word by word, that the supply is nonetheless zero-rated within the meaning of section 1. The Appellant submits that when it subcontracted reinsurance to Natcan, it agreed to supply financial services that include all administrative services related to the issuance of insurance policies to a non-resident person, namely Natcan. According to the Appellant, the services rendered to Natcan under the reinsurance contract meet the general conditions set out in section 1 of Part IX of Schedule VI, thereby making them a zero-rated supply that qualifies for ITCs.
+[15] In addition, the Appellant submits that the method employed to calculate the ITCs, which is based on the percentage that the premiums reinsured by Natcan represent in relation to the total gross premiums received by the Appellant, is a reasonable method under the circumstances. In fact, the Respondent is not so much contesting the calculation of the percentage as she is contesting the expenses utilized in establishing the total amount of tax paid. The Appellant submits that all the operating expenses must be taken into account. In its alternative argument, the Respondent submits that only expenses related to the transfer of insurance policies must be taken into account. However, the Respondent does not precisely quantify these expenses, since she submits that it is up to the Appellant to make this allocation.
+Analysis
+[16] The principal point at issue is whether the financial services that the Appellant provides in relation to the insurance policies that it issues ceased to be exempt supplies, and became zero-rated supplies as a result of the Appellant's decision to subcontract reinsurance to its foreign subsidiary, Natcan.
+[17] As a general rule, financial services related to the issuance of insurance policies are exempt supplies. Indeed, a "financial service" includes "the payment or receipt of an amount in full or partial satisfaction of a claim arising under an insurance policy" or "the agreeing to provide, or the arranging for," such a service (see the definition of "financial service" in paragraphs 123(f.1) and (l) of the ETA).
+[18] The parties are not contesting the fact that the services for which the Appellant is now claiming ITCs are financial services within the meaning of the ETA.
+[19] In addition, section 1 of Part VII of Schedule V of the ETA expressly provides that a supply of a financial service that is not included in Part IX of Schedule VI of the ETA is an exempt supply.
+[20] This raises the question whether the services rendered by the Appellant as part of the reinsurance contract with Natcan are included in Part IX of Schedule VI of the ETA. It is helpful to note from the outset that while both parties admit that the Appellant rendered financial services to Natcan, there is no consensus on the specific services that the Appellant rendered to Natcan.
+[21] The Appellant submits that all the administrative services that it performs when it issues insurance policies are services that it renders to Natcan, and that Natcan's share of those services is the same as its share of the risk. However, the Respondent believes that these services are rendered to the beneficiaries of the insurance policies, because they are triggered by the issuance of the policies, whether the policies are reinsured or not. According to the Respondent, the services tied to the transfer of a portion of the risk associated with the policies are limited. Specifically, the Respondent suggests that, on a reading of the contract between the Appellant and Natcan, these services are limited to the production of monthly statements (section 9) and quarterly reports (section 10) or the obligation to report to Natcan regarding the existence and approval of a claim (section 12).
+[22] On this point, it is my opinion that the administrative services rendered to Natcan are not limited to those alleged by the Respondent. Indeed, Natcan pays the Appellant 26% of the premiums transferred to it, and, according to section 8 of the contract, this amount corresponds to a percentage of the Appellant's general costs (it "recognizes the expense ratio incurred by the [Appellant] Company"). If an insured makes a claim, the proofs of claim accepted by the Appellant must be taken as sufficient by Natcan, and Natcan must abide by the settlement agreed upon by the Appellant and the insured (section 12 of the contract).
+[23] In this context, since Natcan must bear a major share of a claim, it is, in a sense, mandating the Appellant to perform all the administrative services necessary to ensure that an initial selection is made before the insurance policy is issued, and to ensure that the claim is well founded. The cost of these services, which must, at bottom, be assumed by the Appellant in its capacity as the primary insurer (the term used by the Respondent), is shared with Natcan, which pays 26% of the transferred premiums as a royalty.
+[24] This having been said, we must now determine whether these services are included in Part IX of Schedule VI, which would make them zero-rated supplies that would therefore qualify for ITCs.
+[25] It is important to state that if a financial service is not specifically zero-rated by Part IX of Schedule VI, it is automatically exempt by virtue of section 1 of Part VII of Schedule V.
+[26] The Explanatory Notes for the May 1990 bill state as follows with respect to financial services:
+PART IX
+FINANCIAL SERVICES
+Technical Notes (May 1990)
+Financial services [Bill C-62 (S.C. 1990, c. 45)] - This Part describes the circumstances in which a financial service is zero-rated. A financial service is exempt unless it is explicitly included in this Part. "Financial services" and other related terms are defined in subsection 123(1) of the Act. A financial institution is eligible to claim an input tax credit in respect of purchases to the extent they relate to services described in this Part.
+(French version)
+Services financiers [Projet de loi C-62 (L.C. 1990, ch. 45)] - Cette partie énumère les conditions requises pour qu'un service financier soit détaxé. Un service financier est exonéré à moins d'être nommément inclus dans cette partie. Le paragraphe 123(1) de la loi définit les services financiers et les termes connexes. Une institution financière est admissible au crédit de taxe sur intrants relativement à des acquisitions par vente dans la mesure où ces acquisitions sont afférentes aux services décrits dans cette partie.
+[Emphasis added.]
+[27] The Explanatory Notes for the February 1993 bill state, in part, as follows with regard to the amendment enacted to exclude from zero-rated supplies (in certain cases) a supply of a financial service made to a non-resident individual and related to a financial instrument:
+Technical Notes (February 1993)
+Section 1 of Part IX of Schedule VI provides for the zero-rating of certain exports of financial services other than certain insurance services. Paragraph (e) of that section currently excludes from the zero-rated supplies a supply of a financial service related to the buying or selling of securities as a principal, other than in the capacity of an underwriter. The amended paragraph (e) excludes a supply of a financial service related to a financial instrument (other than an insurance policy or a precious metal) if the financial instrument is not acquired directly from a non-resident issuer by a financial institution acting as principal.
+This amendment was announced in the November 5, 1991, press release and applies to financial services supplied after that date.
+(French version}
+Art. 1e) [Fourniture d'un service financier effectué au profit d'une personne non résidante]
+Effets financiers de personnes non résidantes [Projet de loi C-112 (L.C. 1993, ch. 27)] - L'article 1 de la partie IX de l'annexe VI prévoit la détaxation de certaines exportations de services financiers autres que certains services d'assurance. L'alinéa 1e) exclut actuellement des fournitures détaxées la fourniture d'un service financier lié à l'achat ou à la vente de valeurs mobilières à titre de mandant, autrement qu'à titre de souscripteur. L'alinéa 1e) modifié exclut la fourniture d'un service financier lié à un effet financier (autre qu'une police d'assurance ou métal précieux) si l'effet financier n'est pas acquis directement d'une société émettrice non résidante par une institution financière mandatée à cette fin.
+Cette modification a été annoncée dans le communiqué du 5 novembre 1991 et s'applique aux services financiers fournis après cette date.
+[28] Specifically, a supply of a financial service may be zero-rated by operation of section 1 of Part IX of Schedule VI. That section zero-rates
+[a] supply of a financial service (other than a supply that is included in section 2) made by a financial institution to a non-resident person, except where the service relates to
+[. . .]
+(e) a financial instrument (other than an insurance policy or a precious metal) acquired, otherwise than directly from a non-resident issuer, by the financial institution acting as a principal.
+The French version provides:
+Partie IX
+Services financiers
+[l]a fourniture d'un service financier, à l'exception d'une fourniture figurant à l'article 2, effectuée par une institution financière au profit d'une personne non résidante, sauf s'il est lié à
+[. . .]
+(e) un effet financier, sauf une police d'assurance ou un métal précieux, acquis, autrement que directement d'un émetteur non-résident, par l'institution financière agissant à titre de mandant.
+[29] A "supply that is included in section 2" is, as the preamble to section 2 states, "[a] supply made by a financial institution (other than a service that relates to an insurance policy issued by the institution)." Such a supply will be zero-rated if, "where the policy is a life . . . insurance policy . . . it is issued in respect of an individual who at the time the policy becomes effective, is a non-resident individual; (b) where the policy is a group life . . . insurance policy, it relates to non-resident individuals who are insured under the policy; (c) where the policy is a policy in respect of real property, it relates to property situated outside Canada; and (d) where the policy is a policy of any other kind, it relates to the risks that are ordinarily situated outside Canada."
+[30] The French version of section 2 reads as follows:
+2. La fourniture par une institution financière d'un service financier lié à une police d'assurance établie par l'institution, à l'exception d'un service lié aux placements de l'institution, dans la mesure où :
+a) s'agissant d'une police d'assurance-vie, d'assurance-accident ou d'assurance-maladie (sauf une police collective), la police est établie au titre d'un particulier qui, au moment de l'entrée en vigueur de la police, est un particulier non résidant;
+b) s'agissant d'une police collective d'assurance-vie, d'assurance-accident ou d'assurance-maladie, la police concerne des particuliers non résidants qui sont assurés aux termes de la police;
+c) s'agissant d'une police visant un immeuble, la police concerne un immeuble situé à l'étranger;
+d) s'agissant d'un autre type de police, la police concerne des risques qui sont habituellement situés à l'étranger.
+[31] The Appellant submits that if the financial service related to an insurance policy is not included in the two cases set out in paragraphs 2(a) through (d), then the financial service rendered to a non-resident by the financial institution automatically falls under section 1, paragraph (e) of which expressly provides that an insurance policy is not a financial instrument that is excluded from the zero-rated financial supplies referred to in section 1.
+[32] The Respondent, for her part, submits that since section 1 excludes a supply that is included in section 2, and a financial service related to an insurance policy is one such supply, therefore any financial service related to such an insurance policy that is not specifically zero-rated by section 2 remains an exempt supply.
+[33] I must acknowledge from the outset that these provisions are not drafted clearly. Under the circumstances, I believe that the Explanatory Notes concerning the bill that instituted these provisions are helpful in determining the general intention of Parliament. In Canadian Master Tax Guide, 56th ed. (CCH Canadian Limited, 2001), the following is stated at paragraph 835:
+¶ 835. Technical notes and explanations
+Recently, technical notes have been issued by the Department of Finance to explain new legislation. Although the impact of the technical notes on judicial decisions has yet to be determined, they should at least establish the general or broad intention of Parliament in respect of a particular issue.
+[34] Professor Pierre-André Côté also recommends the use of such explanatory notes in interpreting enactments:[1]
+In our opinion, the courts should accept references to explanatory notes accompanying a bill in the same way and for the same reasons that they take into consideration the views of legal scholars. An explanatory note is a valid opinion about the statute being interpreted. The judge retains discretion to accord the weight justified by the circumstances. If the enactment's meaning is plain, the notes will have little weight. But if it is ambiguous, the notes may either suggest a possible interpretation or confirm the conclusions that the judge has inferred from other sources.
+In addition, technical notes were considered statutory interpretation tools in Ast Estate v. Canada, [1997] F.C.J. No. 267 (C.A.) (QL), at paragraph 27:
+Administrative interpretations such as technical notes are not binding on the courts, but they are entitled to weight, and may constitute an important factor in the interpretation of statutes.[2] Technical notes are widely accepted by the courts as aids to statutory interpretation.[3] The interpretive weight of technical notes is particularly great where, at the time an amendment was before it, the legislature was aware of a particular administrative interpretation of the amendment, and nonetheless enacted it. . . .
+[35] According to the Explanatory Notes referred to above, Part IX of Schedule VI describes the circumstances in which a financial service is zero-rated. It specifies that such a service is an exempt supply unless the supply is explicitly ("nommément") included in Part IX.
+[36] I cannot agree with the Appellant's contention that financial services related to an insurance policy are explicitly (or "nommément") included in section 1 of Part IX. Rather, they appear to be excluded in the preamble when it specifies "other than a supply that is included in section 2." Section 1 excludes "a supply that is included in section 2" and in my opinion, this exclusion covers financial services related to an insurance policy and provided by a financial institution, as specified in the preamble of section 2. If the insurance policy is referred to in paragraphs (a) through (d) of section 2, a supply of these financial services will be zero-rated. Otherwise, it will constitute an exempt supply, since such financial services are not, in my view, included in section 1.
+[37] In my opinion, the fact that an insurance policy is not included in a "financial instrument" in paragraph 1(e) must not serve to alter the preamble to section 1, which excludes any supply included in section 2 (i.e. the supply of a financial service related to an insurance policy). I believe that insurance policies are excluded from the financial instruments contemplated in paragraph 1(e) in order to remain consistent with the preamble. Indeed, since, as a general rule, a financial instrument includes an insurance policy (see the definition of "financial instrument" in section 123 of the ETA), the exclusion of such a policy from the definition of "financial instrument" for the purposes of applying section 1 confirms, in my view, that financial services related to insurance policies are excluded from the scope of section 1, and that only financial services related to insurance policies included in section 2 can be zero-rated.
+[38] In my opinion, this interpretation is more consistent with the general intent of the ETA. Indeed, it is clear that Parliament intended to exempt financial services from the ETA when it introduced section 1 of Part VII of Schedule V. The only financial services that can be zero-rated are the ones that are set out in Part IX of Schedule VI, and they constitute the exception. Thus, normally, any financial service related to the issuance of insurance policies the beneficiaries of which are Canadian residents is exempt. If the Appellant had subcontracted reinsurance to a Canadian company, none of the services for which the Appellant now claims ITCs would be zero-rated. It is not logical to conclude that the same services rendered in connection with the issuance of insurance policies to Canadian beneficiaries would become zero-rated merely because the Appellant decided to have a part of the risk borne by its foreign subsidiary.
+[39] In my opinion, this would run counter to Parliament's intent. In essence, the Appellant issues insurance policies for Canadian resident beneficiaries. These beneficiaries have no knowledge of the reinsurance contract and are in no way parties to it. The contract is between only the Appellant and Natcan. Ultimately, it is the Appellant that will be responsible for paying claims to the insured Canadian residents.
+[40] In my opinion, the interpretation of section 1 that the Appellant advocates, which is that any financial service related to an insurance policy not included in paragraphs 2(a) through 2(d) automatically falls under section 1, is not a valid one. These two provisions are exceptions. When an exception is involved, clarity is necessary. I refer once again to the following principle of interpretation articulated by Professor P.A. Côté and cited by the Quebec Court of Appeal in Pétro-Canada Inc. c. Ville de Montréal-Est, [2003] Q.J. No. 7894 (QL):
+Justice Gonthier rightly expressed the principle under discussion here when he wrote that "when the legislature makes a rule and lists certain exceptions, the lat[t]er must be regarded as exhaustive and so strictly construed. [Communauté urbaine de Québec v. Corp. Notre-Dame de Bon-Secours, [1994] 3 S.C.R. 3, at p. 18.] It is noteworthy that what is of concern here is the non-extension of exceptional provisions and not their restrictive interpretation. . . . The principle is that exceptions should not be extended; where there is doubt, the general rule is favoured over the exception.[4]
+[41] Section 1 is not a general statutory provision. Rather, it sets out an exception. Specifically, in order to be zero-rated, a financial service must be explicitly ("nommément") included in sections 1 and 2. In my opinion, the mere fact that the Appellant had to stretch the two sections in every which way in order to attempt to convince me of its argument simply shows that the financial services in question are not specifically zero-rated by Part IX of Schedule VI.
+[42] Upon reading the provisions in issue, the position that the Appellant is attempting to defend is far from convincing, and, when in doubt, the general rule must be favoured. In this instance, the general rule is that financial services related to insurance policies are exempt supplies.
+[43] I therefore conclude that the Appellant has not shown that the financial services for which it is claiming ITCs were zero-rated supplies within the meaning of the ETA. Since they are not zero-rated supplies, these financial services constitute exempt supplies, which do not qualify for ITCs under the ETA. Consequently, the assessments under appeal are well-founded.
+Decision
+[44] The appeals in File No. 2004-128(GST)I are dismissed and the general procedure appeal in File No. 2002-4863(GST)G is dismissed with costs.
+Signed at Ottawa, Canada, this 7th day of July 2005.
+"Lucie Lamarre"
+Lamarre J
+Translation certified true
+On this 9th day of January 1006
+Garth McLeod, Translator
+.
+CITATION:
+2005TCC425
+COURT FILE NOS.:
+2002-4863(GST)G
+2004-128(GST)I
+STYLE OF CAUSE :
+National Bank Life Insurance Company and The Queen
+PLACE OF HEARING:
+Montréal, Quebec
+DATE OF HEARING:
+October 12, 2004
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Lucie Lamarre
+DATE OF JUDGMENT:
+July 7, 2005
+APPEARANCES:
+Counsel for the Appellant:
+Richard Généreux
+Counsel for the Respondent:
+Gérald Danis
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Richard Généreux
+Firm:
+Généreux, Côté, Avocats
+Montréal, Quebec
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+* The partial agreement on the facts refers to the years 1998 to 2000. However, the assessment dated September 18, 2001, which is under appeal, and to which reference is made in Exhibit A-1, tab 1, pertains solely to the year 2000.
+[1] Pierre-André Côté, The Interpretation of Legislation in Canada, 3d ed. (Scarborough: Carswell, 2000), at p. 433.
+[2] Mattabi Mines Ltd. v. Ontario (M.R.), [1988] 2 S.C.R. 175, at p. 195; Nowegijick v. R., [1983] 1 S.C.R. 29, at p. 37; Bryden v. Employment and Immigration Commission, [1982] 1 S.C.R. 443, at p. 450.
+[3] See, e.g. Maritime Telegraph and Telephone Company v. The Queen, [1992] 1 C.T.C. 264 (F.C.A.); Glaxo Wellcome Inc. v. The Queen, [1996] 1 C.T.C. 2904 (T.C.C.).
+[4] Pierre-André Côté, supra, note 1, at p. 502. (The Quebec Court of Appeal quotes from the French version of the book.)

@@ -1,0 +1,158 @@
+Title: Belkin v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26640/index.do
+Corpus path: corpus/cases/tcc/2005/2005-tcc-785-26640-belkin-v-the-queen-en.md
+Document type: case_law
+Last modified: 2005-12-07
+
+# Belkin v. The Queen
+
+- Citation: 2005 TCC 785
+- Decision date: 2005-12-07
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3648, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Belkin v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-12-07
+Neutral citation
+2005 TCC 785
+File numbers
+2005-924(IT)I
+Judges and Taxing Officers
+Louise Lamarre Proulx
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2005-924(IT)I
+BETWEEN:
+ALAN BELKIN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on August 17, 2005, at Montreal, Québec.
+Before: The Honourable Justice Louise Lamarre Proulx
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Suzanne Morin
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 2001 taxation year is allowed and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 7th day of December 2005.
+"Louise Lamarre Proulx"
+Lamarre Proulx, J.
+Citation: 2005TCC785
+Date: 20051207
+Docket: 2005-924(IT)I
+BETWEEN:
+ALAN BELKIN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Lamarre Proulx J.
+[1] This is an appeal by way of the informal procedure concerning the 2001 taxation year.
+[2] The issue is about the meaning of a "musical instrument" in paragraph 8(1)(p) of the Income Tax Act (the "Act") which reads as follows:
+8(1) Deductions allowed. In computing a taxpayer's income for a taxation year from an office or employment, there may be deducted such of the following amounts as are wholly applicable to that source or such part of the following amounts as may reasonably be regarded as applicable thereto:
+...
+(p) where the taxpayer was employed in the year as a musician and as a term of the employment was required to provide a musical instrument for a period in the year, an amount (not exceeding the taxpayer's income for the year from the employment, computed without reference to this paragraph) equal to the total of
+(i) amounts expended by the taxpayer before the end of the year for the maintenance, rental or insurance of the instrument for that period, except to the extent that the amounts are otherwise deducted in computing the taxpayer's income for any taxation year, and
+(ii) such part, if any, of the capital cost to the taxpayer of the instrument as is allowed by regulation;
+[3] The Appellant has claimed a capital cost allowance in the amount of $2,088 on a computer as an expense in computing his income from employment.
+[4] To establish the assessment, the Minister of National Revenue (the "Minister"), relied on the assumptions of fact described at paragraph 6 of the Reply to the notice of appeal (the "Reply") as follows:
+a) The appellant is a professional musician and is employed as a professor of music at the University of Montréal (hereinafter the "employer").
+b) His employment functions include the research in the field of music and for this the appellant specializes his research on the composition and playing of music on computer.
+c) The form T2200, Declaration of Conditions of Employment, completed by the employer and submitted by the appellant, discloses the following:
+i) That between January, 2001 and December 2001, the appellant completes some of the conditions of his employment at his residence;
+ii) the appellant is not reimbursed for expenses;
+iii) That the appellant did not receive any reimbursement for the "frais de recherche en simulation informatique";
+iv) Required that the appellant is to provide a part of his residence and supplies that are needed, for which he will not be reimbursed.
+d) In order to complete the research in computer simulations the appellant purchased a Macintosh PC 200.
+e) The computer simulation research that occupied the appellant was to compose and play back by computer his compositions.
+f) The employer, aside from requiring the appellant to provide part of his residence for his functions, provides the appellant with an office and computer at the university itself.
+g) The Macintosh PC200 computer is a general use computer that can be used for other functions such as word processing and email aside from the production and composition of music.
+h) The Macintosh PC200 is a computer and cannot be considered a musical instrument.
+[5] The Appellant explained that he is a composer and a professor of music at the Université de Montréal (the "University"). He has been a permanent professor in the Faculty of Music since 1982. In 2001, he became a tenured professor.
+[6] The Appellant stated that for the courses that he teaches on composition, harmony, counterpoint and orchestration, the use of a computer is required.
+[7] In 1982, when the Appellant completed his doctoral program at the Juilliard School in New York, studies on the use of computers were entirely out of the question. Now, however, the Juilliard School has laboratories for computer simulation of an orchestra.
+[8] The Appellant affirmed that nowadays the use of a computer is in many cases an essential part of musical creation. Computers are also very often used to reproduce sounds on stages and in films.
+[9] He admitted as mentioned in the Reply that the University has its own computers. However, if the Appellant did not have his own computer at home, he would be unable to teach, since he could not teach what he did not practice.
+[10] In 2001, the Appellant had only one computer. He used it for things other than music. Now he has several computers, two of which he uses solely for composition or musical creation.
+[11] The Appellant explained that teaching is an important component of a university professor's functions, but a professor must also devote a significant portion of his time to research, which, in the Appellant's case, is centred on composition and orchestration with a computer.
+[12] The Appellant filed as Exhibit A-1 a list of his publications since 1988, namely:
+· "From Unchained Melody to 76 Trombones", article in Keyboard magazine.
+· "Orchestration, Perception, and Musical Time", article in Computer Music Journal.
+· "Midi Chamber Music", article in Musicworks.
+· "L'usage de l'ordinateur dans l'enseignement musical", article in Revue de l'éducation musicale au Québec.
+· "Music Notation Software", article in Computer Music Journal.
+[13] The Appellant also acts as an advisor to companies producing music software. He considers this activity to be part of the research component of his work for the University.
+[14] He has written an on-line text entitled "Improving Orchestral Simulation through Musical Knowledge". This was produced by counsel for the Respondent as part of Exhibit I-2. One can read:
+Computer simulation of the orchestra has now reached a new stage: Brute force memory and computing speed are now adequate for high quality work. However, as the quality, variety and size of available sample libraries increase, the main limitations have become musical:
+· lack of skill in selecting and controlling the many available sounds
+· inadequate knowledge about acoustic instruments
+· inadequate knowledge about musical performance
+· lack of easy to use, sufficiently refined control interfaces
+...
+Orchestral simulation
+Recent advances in computer technology have made possible fairly realistic simulation of the orchestra. Such simulation is very common in film music, and can be used as a valuable pedagogical tool, since rarely does a student have sufficient access to real ensembles as needed, to try out every idea. Also, simulation permits learning from mistakes more easily than with real ensemble, where the sheer work of regenerating and printing corrected parts makes the immediate tryout of alternative versions impossible.
+Arguments
+[15] The Appellant stated that his activities of teaching, publishing and consulting on musical composition and orchestration could not be carried on without him owning a computer.
+[16] The Appellant submitted that professionals in the field of music who create film scores or produce electroacoustic music use computers to perform their work.
+[17] Some sounds can only be produced with the use of a computer. A computer that is used for musical purposes is different from a computer that is used as a word processor. The computer may create sounds. It may do for musical purposes what a computer cannot do for literary works.
+[18] A number of softwares currently in use replace synthesizers. Fewer and fewer synthesizers are being used nowadays, as synthesizers take the form of software installed in a computer.
+[19] Counsel for the Respondent stated that it was essentially a matter of interpretation of the Act.
+[20] Counsel referred to the work of Pierre-André Côté, The Interpretation of Legislation in Canada, 3rd ed. (Scarborough: Carswell, 2000) and more particularly at page 261:
+...
+As it is presumed that the legislature wishes to be understood by the citizen, the law is deemed to have been drafted in accordance with the rules of language in common use.
+In particular, Parliament is presumed to use words in the same sense as would the "man in the street". ...
+[21] Counsel also referred to paragraph 12 of the Federal Court of Appeal's decision in Shaklee Canada Inc. v. Canada, [1995] F.C.J. No. 1670 (QL).
+12 Like the Trial Judge, however, I am not convinced that the definition of food has evolved, even for the younger members of Canadian society, to the extent that it includes vitamins, minerals and fibre. True, first impressions of the meaning of the words should not be embraced without reflection. But some first impressions become lasting impressions. In this case, therefore, the word food, as it is used in the legislation, does not include the appellant's products.
+[22] Counsel referred to the Webster's Ninth New Collegiate Dictionary, 1985, which defines a musical instrument as a device used to produce music, and to The Canadian Oxford Dictionary, 1998, which defines it as a device for producing musical sounds by vibration, wind, percussion. In Le Petit Robert, 2002, the synthesizer is named as a contemporary musical instrument.
+[23] She argues that it is the ordinary meaning of the words, that is, the meaning a reasonable person would understand them to have, that should prevail. She argued that musical instruments and computers constitute two separate and exclusive categories.
+[24] Counsel for the Respondent confirmed by letter immediately after the hearing of this matter that the Minister agrees that the Appellant as a professor of music is a musician within the meaning of paragraph 8(1)(p) of the Act.
+Analysis and conclusion
+[25] The Minister agrees that the Appellant, as a professor of music, is employed as a musician. However, he cannot agree that the musical instrument that the Appellant is required to provide as a term of his employment, may be a computer.
+[26] It appears rather evident that a computer cannot be considered a musical instrument if we begin the analysis by comparing traditional musical instruments such as a piano, violin or harp with a computer.
+[27] However, a statute can apply to situations which did not exist when it was enacted, if justified by its aim and compatible with its wording. I refer to the work of the author Côté, above, at page 269:
+But merely because the meaning of legislation at the time of its enactment must be respected in no way suggests that the statute's effect is confined to material or social facts or events then existing. It is necessary to distinguish the meaning of a term from the things that may be included in its ambit.
+...
+Not only can a statute apply to situations which did not exist when it was enacted, it can also govern phenomena which were virtually unimaginable at the time. If justified by its aim, and compatible with its wording, a statute can apply to inventions subsequent to its enactment. ...
+[28] I believe that, for the purpose of giving effect to the legislative provision of paragraph 8(1)(p) of the Act, we have to look at the matter from a musician's perspective. What is the musician's tool to teach music, to create musical works, to reproduce musical sounds and even to produce sounds that a traditional music instrument cannot produce?
+[29] I am told by the Appellant and I believe him that a computer has become essential for these purposes.
+[30] Playing a musical instrument ordinarily demands from the artist dexterity, feeling and intelligence. The same cannot be said to hold entirely true where a computer is being used, although not entirely wrong. Dexterity is not needed although feeling and intelligence are when musical creation and production require the use of a computer.
+[31] In my view, the evidence has shown that times have evolved. This was revealed by the evolution of the type of courses taught at the Juilliard School as mentioned by the Appellant. In the field of music, a computer may now be used for artistic and creative purposes.
+[32] My conclusion is that for the person who is employed as a musician and as a term of his employment is required to provide a computer for teaching musical subjects such as composition and orchestration, a computer is within the meaning of a musical instrument.
+[33] The appeal is therefore allowed.
+Signed at Ottawa, Canada, this 7th day of December 2005.
+"Louise Lamarre Proulx"
+Lamarre Proulx, J.
+CITATION: 2005TCC785
+COURT FILE NO.: 2005-924(IT)I
+STYLE OF CAUSE: ALAN BELKIN AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Montreal, Québec
+DATE OF HEARING: August 17, 2005
+REASONS FOR JUDGEMENT BY: The Honourable Justice Louise Lamarre Proulx
+DATE OF JUDGMENT: December 7, 2005
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Suzanne Morin
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Ontario

@@ -1,0 +1,148 @@
+Title: 1000025074 Ontario Inc. v. The King
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/521316/index.do
+Corpus path: corpus/cases/tcc/2024/2024-tcc-110-521316-1000025074-ontario-inc-v-the-king-en.md
+Document type: case_law
+Last modified: 2024-08-20
+
+# 1000025074 Ontario Inc. v. The King
+
+- Citation: 2024 TCC 110
+- Decision date: 2024-08-20
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5725, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+1000025074 Ontario Inc. v. The King
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2024-08-20
+Neutral citation
+2024 TCC 110
+File numbers
+2023-1836(GST)I
+Judges and Taxing Officers
+Scott Bodie
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2023-1836(GST)I
+BETWEEN:
+1000025074 ONTARIO INC.,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+Appeal heard on May 28, 2024, at Toronto, Ontario
+Before: The Honourable Justice Scott Bodie
+Appearances:
+Agent for the Appellant:
+Hafeez Imran
+Counsel for the Respondent:
+Bryant Godkin
+JUDGMENT
+The appeal of the assessment under the Excise Tax Act for the Appellant’s reporting period from November 12, 2021 to December 31, 2021 is dismissed, without costs.
+Signed at Ottawa, Canada, this 20th day of August 2024.
+“J. Scott Bodie”
+Bodie J.
+Citation: 2024 TCC 110
+Date: 20240820
+Docket: 2023-1836(GST)I
+BETWEEN:
+1000025074 ONTARIO INC.,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+REASONS FOR JUDGMENT
+Bodie J.
+[1] The Appellant is a corporation which was incorporated under the laws of the province of Ontario. Its sole shareholder and director is Hafeez Imran. Mr. Imran works fulltime with a Canadian national bank. In March 2020, he started working part time as a realtor and formed the Appellant in November, 2021 as a personal real estate corporation (“PREC”).
+[2] In October 2018, Mr. Imran purchased a 2018 Honda Pilot (the “Pilot”) and in May 2021, he and his wife, Farnaz Imran purchased a 2021 Sportsmen recreational vehicle (the “RV”, and together with the Pilot, collectively referred to herein as the “Vehicles”). The Appellant claimed input tax credits (“ITCs”) in the aggregate amount of $8,873.67 related to the Goods and Services Tax/ Harmonized Sales Tax (“GST/HST”) on the purchases of the Vehicles for the Appellant’s reporting period commencing November 12, 2021 and ending December 31, 2021. The Minister of National Revenue (the “Minister”) denied this claim.
+[3] The sole issue in this appeal is whether the Appellant is entitled to ITCs in respect of the Vehicles.
+[4] For the reasons that follow, the appeal is dismissed.
+[5] It is the Appellant’s position that it is entitled to claim ITCs in respect of the Vehicles because the Vehicles were primarily used, or available for use, in the course of the Appellant’s commercial activities. It is the Appellant’s further position that as a result of its status as a PREC, of which Mr. Imran is the sole shareholder and director, any assets in Mr. Imran’s name should also be considered to be assets of the Appellant.
+Statutory Requirements [6] The general rule for determining whether a person is entitled to ITCs is found in subsection 169(1) of the Excise Tax Act (“ETA”), the relevant portions of which read as follows:
+169. (1) General rule for [input tax credits] Subject this Part, where a person acquires or imports property or a service or brings it into a participating province and, during a reporting period of the person during which the person is a registrant, tax in respect of the supply, importation or bringing in becomes payable by the person or is paid by the person without having become payable, the amount determined by the following formula is an input tax credit of the person in respect of the property or service for the period:
+A x B
+where
+A is the tax in respect of the supply, importation or bringing in, as the case may be, that becomes payable by the person during the reporting period or that is paid by the person during the period without having become payable; and
+B is
+[…]
+(c) in any other case, the extent (expressed as a percentage) to which the person acquired or imported the property or service or brought it into the participating province, as the case may be, for consumption, use or supply in the course of commercial activities of the person.
+[7] Accordingly, in order to be entitled to claim ITCs in the context of this appeal, the following conditions must be met:
+(a)the Appellant must have acquired the Vehicles;
+(b)the GST/HST in respect of the Vehicles must be payable or must have been paid by the Appellant; and
+(c)the Appellant must have acquired the Vehicles in the course of its commercial activities.
+[8] I will examine each of these conditions in the context of this appeal in turn.
+Did the Appellant acquire the Vehicles? [9] It is clear from the evidence that the Appellant did not acquire the Vehicles. The evidence showed that both Vehicles were acquired from the applicable dealer by Mr. Imran, in the case of the Pilot and by Mr. Imran and his spouse, in the case of the RV, before the Appellant was incorporated.
+[10] A Used Motor Vehicle Purchase Agreement dated October 27, 2018 between Mr. Imran, as buyer and Whitby Oshawa Honda was introduced into evidence by the Appellant to show the purchase of the Pilot (the “Pilot Purchase Agreement”). Similarly, the Appellant introduced into evidence a Vehicle Purchase Agreement dated May 21, 2021 in which Mr. Imran and his spouse were labelled as purchaser, to show the purchase of the RV (the “RV Purchase Agreement”).
+[11] The only witness who appeared in this appeal was Mr. Imran, as the director of the Appellant. He testified that the Appellant was incorporated in November, 2021.
+[12] Further, on cross examination, Mr. Imran testified that neither of the Vehicles were ever transferred to the Appellant. He also testified that the insurance for the Pilot is in his name and that both the plates and the insurance for the RV are in his name. Mr. Imran testified that he financed the purchase of the Vehicles himself.
+[13] No bill of sale showing a transfer of the Vehicles to the Appellant was introduced into evidence. Moreover, no evidence of a trust agreement or of an agency agreement, either written or oral with respect to the Vehicles between Mr. Imran and/or his spouse and the Appellant was introduced into evidence. There also was no evidence introduced which might indicate that either the Pilot Purchase Agreement or the RV Purchase Agreement were assigned to the Appellant after the date of its incorporation.
+[14] Accordingly, because the Vehicles were purchased from the applicable dealer prior to the time that the Appellant was incorporated and, similar to decisions of this Court in 550285 Alberta Ltd v Queen, [1998] G.S.T.C. 99 (TCC) and Technogold Imports Inc. v the Queen, [1998] G.S.T.C. 31 (TCC), the Appellant’s name is not found on a sales agreement, bill of sale, vehicle registration, proof of insurance, trust agreement, agency agreement or assignment agreement, I cannot find that the Appellant acquired the Vehicles, as required by subsection 169(1) of the ETA.
+Was the GST/HST payable or paid by the Appellant? [15] With respect to the issue of whether the GST/HST in respect of the Vehicles was payable by the Appellant, Justice Woods noted in Y.S.I.’s Yacht Sales International Ltd. v Her Majesty The Queen, 2007 TCC 306 (“Y.S.I”) that the starting point for the analysis is the general charging provision in section 165 of the ETA which provides that the GST/HST is “payable” by the “recipient” of the supply. Therefore in order to answer the question of whether the GST/HST was payable by the Appellant in this case, it is necessary to determine whether the Appellant was the recipient of the supply of the Vehicles.
+[16] The term “recipient” is defined in subsection 123(1) of the ETA as follows:
+“recipient” of a supply of property or a service means
+(a) where consideration for the supply is payable under an agreement for the supply, the person who is liable under that agreement to pay that consideration,
+(b) where paragraph (a) does not apply and consideration is payable for the supply, the person who is liable to pay that consideration, and
+(c) where no consideration is payable for the supply,
+(i) in the case of a supply of property by way of sale, the person to whom the property is delivered or made available,
+(ii) in the case of a supply of property otherwise than by way of sale, the person to whom possession or use of the property is given or made available, and
+(iii) in the case of a supply of a service, the person to whom the service is rendered,
+and any reference to a person to whom a supply is made shall be read as a reference to the recipient of the supply.
+[17] According to the evidence, the supply of the Pilot was made under the Pilot Purchase Agreement and the supply of the RV was made under the RV Purchase Agreement. No other evidence of any other supply of either of the Vehicles was introduced into evidence. The Appellant was not liable to pay the consideration in respect of the supply of the Pilot under the Pilot Purchase Agreement. Nor was the Appellant liable to pay the consideration in respect of the RV under the RV Purchase Agreement. Both Agreements were made before the Appellant was incorporated.
+[18] As Justice Woods said in Y.S.I., at paragraph 57:
+The bottom line is this: A person is not a recipient under the Excise Tax Act unless they are liable to pay the consideration under the agreement. In this case Platinum was not liable to pay the consideration under the agreements with the suppliers.
+[19] Similarly, the Appellant was not liable to pay the consideration under the agreements with either of the suppliers of the Vehicles. Therefore the Appellant was not the recipient of the Vehicles for purposes of the ETA and accordingly the GST/HST in respect of the Vehicles was not payable by the Appellant.
+[20] In regard to the issue of whether the GST/HST was paid by the Appellant, on cross-examination, Mr. Imran testified that he financed the payment of the GST/HST in respect of the Vehicles himself. Accordingly, the GST/HST was not paid by the Appellant.
+Were the Vehicles acquired by the Appellant in the course of its commercial activities? [21] In regard to the issue of whether the Appellant acquired the Vehicles in the course of its commercial activities, Mr. Imran testified that the Vehicles were used or were available for use in the course of a real estate business. However, in order for Appellant to be successful in claiming ITCs in the circumstances which are the subject of this appeal, it is not enough that the Vehicles are used or are available for use in the course of a real estate business. In order for the Appellant to be successful, it must show that it acquired the Vehicles in the course of its commercial activities. For the reasons set out above, the Appellant failed to clear this first hurdle. It did not acquire the Vehicles.
+[22] Accordingly, the Appellant does not meet the statutory requirements necessary to successfully claim ITCs in respect of the purchase of the Vehicles. It did not acquire the Vehicles in the course of commercial activities, or otherwise. The GST/HST with respect to the Vehicles was not payable by the Appellant. Such GST/HST was not paid by the Appellant.
+Is this a special circumstance because of the Appellant’s status as a PREC?
+[23] However, it was the Appellant’s position that it was not necessary for it to specifically acquire the Vehicles in order for it to be able to claim ITCs. The Appellant argued that because of the Appellant’s status as a PREC, of which Mr. Imran is the sole director and shareholder, this is a special circumstance and the Vehicles’ use should be considered as if they were purchased under the Appellant’s name.
+[24] As a first observation, I note that the Appellant did not address how this position could be sustained in respect of the RV which was purchased by both himself and his spouse, who is neither a shareholder nor a director of the Appellant. Leaving that matter aside, I cannot agree with the Appellant’s position that when considering the use of assets purchased by the sole shareholder and director of a PREC incorporated under the laws of Ontario, such assets can be considered the assets of such corporation.
+[25] On October 1, 2020, Ontario Regulation 536/20: Personal Real Estate Corporations (the “Regulations”) came into force. The Regulations set out a number of conditions under which realtors in Ontario could, for the first time, form PRECs, for use in conjunction with certain specified activities such as the buying, selling, listing and advertising of real estate. Among the conditions which must be met is found in section 2.1. of the Regulations which provides that a PREC must be incorporated or continued under the Business Corporations Act (Ontario) (“BCA”).
+[26] Neither the Regulations nor the BCA provide that a PREC should be treated differently from any other corporation incorporated or continued under the BCA, with respect to the distinction between a corporation and its shareholders. A corporation incorporated under Canadian law is a distinct legal entity from its shareholders. This is a well established principle of Canadian corporate law and has been followed many times by Canadian courts. For example, in Jerdar Enterprises Inc v Canada [1994] 2 G.S.T.C. 54 at paragraph 7, Associate Chief Justice Christie said, “It has been determined by numerous judicial authorities that in law a corporation and its shareholders are separate and distinct legal entities.” It follows that there must be a separation between the assets and liabilities of a corporation and those of its shareholders. In considering the legal implications of the separate personality of a corporation from its shareholders, Kevin P. McGuinness wrote in Canadian Business Corporations Law, 3rd ed Vol. 1 (Toronto: Lexis Nexis Canada Inc., 2017) at 449 “In view of their separate personality, it is of the utmost importance to mark, observe and maintain clearly the distinction between the assets and liabilities of the corporation and those it its sharesholders.” In Envision Credit Union v R, 2013 SCC 48 at paragraph 57 Justice Rothstein confirmed that, “It is a basic rule of company law that shareholders do not own the assets of the company.”
+[27] I also note that this traditional view of the distinction between corporations and its shareholders and its applicability to PRECs, is consistent with the guidance provided by the Ontario Real Estate Association (“OREA”) to its relators. In its guide titled “A Guide to Personal Real Estate Corporations for Ontario Realtors” OREA states as follows at page 15:
+Forming a corporation requires additional administrative tasks for your real estate business that can result in additional operating costs. It is important to remember that PRECs are a separate entity from you as a real estate professional, which means that you are required to file a separate income tax return for your corporation.
+[28] In Land & Sea Enterprises Ltd. v R, 2011 TCC 101 at paragraph 16, this Court stated that piercing the corporate veil to treat a corporation and its shareholders as one, will only be done in the clearest of compelling circumstances. Accordingly, in that case, the taxpayer’s ITCs were denied as the taxpayer and its shareholders were separate and distinct.
+[29] In Kosmopoulos v Constitution Insurance Co. of Canada, 1987 CanLII (SCC) at pages 10-11, the Supreme Court of Canada made it clear that a person who chooses to incorporate, must accept both the benefits and the burdens of incorporation, stating the following:
+There is a persuasive argument that “those who have chosen the benefits of incorporation must bear the corresponding burdens, so that if the veil is to be lifted at all that should only be done in the interests of third parties who would otherwise suffer as a result of that choice”... Mr. Kosmopoulos was advised by a competent solicitor to incorporate his business in order to protect his personal assets and there is nothing in the evidence to indicate that his decision to secure the benefits of incorporation was not a genuine one. Having chosen to receive the benefits of incorporation, he should not be allowed to escape its burdens. He should not be permitted to “blow hot and cold” at the same time.
+[30] On cross-examination, Mr. Imran testified that he chose to incorporate the Appellant on the advice of his accountant for the purpose of attaining certain long term advantages.
+[31] In the absence of a specific exception in the BCA for a PREC from the well established legal principle that a corporation and its shareholders are distinct legal entities, such principle must apply to PRECs as they do to all other corporate entities formed under Canadian law. There are no clearly compelling circumstances in this case for piercing the corporate veil.
+Disposition
+[32] Accordingly, the Appellant did not meet the requirements of the ETA necessary to successfully claim ITCs in respect of the Vehicles. It did not acquire the Vehicles. The GST/HST in respect of the Vehicles was not payable by the Appellant. Nor was such GST/HST paid by the Appellant. Moreover, there is no legal basis on which the Vehicles could be considered assets of the Appellant because of the Appellant’s status as a PREC.
+[33] This appeal is dismissed, without costs.
+Signed at Ottawa, Canada, this 20th day of August 2024.
+“J. Scott Bodie”
+Bodie J.
+CITATION:
+2024 TCC 110
+COURT FILE NO.:
+2023-1836(GST)I
+STYLE OF CAUSE:
+1000025074 ONTARIO INC. v. HIS MAJESTY THE KING
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+May 28, 2024
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Scott Bodie
+DATE OF JUDGMENT:
+August 20, 2024
+APPEARANCES:
+Agent for the Appellant:
+Hafeez Imran
+Counsel for the Respondent:
+Bryant Godkin
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+BLANK
+Firm:
+BLANK
+For the Respondent:
+Shalene Curtis-Micallef Deputy Attorney General of Canada Ottawa, Canada

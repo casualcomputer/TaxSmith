@@ -1,0 +1,218 @@
+---
+title: "Krauss v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29536/index.do"
+last_modified: "2009-11-19"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 TCC 597"
+citation2: ""
+neutral_citation: "2009 TCC 597"
+decision_date: "2009-11-19"
+language: "en"
+item_id: "29536"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6354
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T00:44:39.121000+00:00"
+cases_cited_count: 3
+cases_citing_count: 5
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "b88d83d081cb00f01cfc0be642cf9203f441ef03f3b3b45dcd8cc9a19baf5802"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Krauss v. The Queen
+
+- Citation: 2009 TCC 597
+- Decision date: 2009-11-19
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6354, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Krauss v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2009-11-19
+Neutral citation
+2009 TCC 597
+File numbers
+2006-3858(IT)G
+Judges and Taxing Officers
+Cameron Hugh McArthur
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2006-3858(IT)G
+BETWEEN:
+KATO KRAUSS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on March 26 and 27, 2009, at Toronto, Ontario.
+By: The Honourable Justice C.H. McArthur
+Appearances:
+Counsel for the Appellant:
+Colin Campbell
+Brent Pidborochynski
+Counsel for the Respondent:
+Jenny Mboutsiadis
+____________________________________________________________________
+JUDGMENT
+Whereas at the commencement of the hearing, the Appellant withdrew her appeal for the 1993 taxation year.
+The appeals from reassessments made under the Income Tax Act for the 1992, 1993 and 1994 taxation years are dismissed, with costs.
+Signed at Ottawa, Canada, this 19th day of November, 2009.
+“C.H. McArthur”
+McArthur J.
+Citation: 2009 TCC 597
+Date: 20091119
+Docket: 2006-3858(IT)G
+BETWEEN:
+KATO KRAUSS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+McArthur J.
+[1] These appeals are from reassessments by the Minister of National Revenue of the Appellant’s 1992 and 1994 taxation years. She withdrew her appeal for the 1993 taxation year.
+[2] Mrs. Krauss is an 82 year old survivor of the Holocaust and has been a Canadian citizen since the 1950s. She did not appear at the hearing. The only witness was her son Larry Krauss (Larry) who has managed her affairs for many years. He is an able tax lawyer, real property manager and developer[1] in the City of Toronto and other locations. He used his legal taxation expertise to aggressively arrange his mother’s finances presenting complex facts and issues.
+[3] These issues include the following:
+(i) Whether the appeals should be dismissed because the Appellant was not personally present at trial.
+(ii) Whether the loss of $70,831 on the disposition of 5175 Yonge Street in 1992 was a capital loss or a non-capital loss.
+(iii) Whether the rebate of commission of $24,906 by the Brewers Joint Venture is a deductible expense for the Appellant in 1992 under paragraph 18(1)(a) of the Income Tax Act.
+(iv) The appropriate allocation of income of $63,360 in 1994 from the Krauss Partnership to the Appellant.
+[4] I permitted Larry to testify on his mother’s behalf despite the objection of counsel for the Respondent. She cited the recent decision in Luciano v. The Queen,[2] which appeal was dismissed for want of prosecution and delay. In contrast, the present case was aggressively prosecuted through the Appellant’s son and counsel. To dismiss these appeals because the Appellant did not and perhaps could not appear would be a serious miscarriage of justice. No doubt her son and counsel were the most qualified persons to present the appeals. While she is probably an excellent property manager, from a reading part of her discovery transcript, the highly technical tax and estate planning presented was beyond not only her reach, but that of all who do not work in the area of taxation.
+[5] Briefly stated, subsection 30(1) of the Tax Court of Canada Rules (General Procedure) and subsection 17.1(1) of the Tax Court of Canada Act combined with subsection 140(1) of the Rules clearly allow a taxpayer to “appear” through counsel.
+(ii) 5175 Yonge (1992 taxation year)
+[6] I will deal with one fact situation and issue at a time, commencing with the 5175 Yonge Street property. Simply put, the Appellant purchased a part interest in a property in 1987 for $163,921 and sold it in 1992 for $93,090. The issue is whether the loss was on account of capital or income.
+[7] In greater detail, the Appellant acquired a 20% interest in the property in June 1987, together with Larry who acquired a 40% interest, and George Halasi who acquired the remaining 40% interest, indirectly through a corporation. The building on the property consisted of a main-floor commercial space and two or more apartments above. The vendor ran a hardware store in the commercial space and remained as a tenant until 1989. Larry testified that the property was acquired with the intention of assembling all of the properties on the same block to develop the entire block. In January 1992, during the collapse of real estate values during the real estate recession of the early 1990s, the Appellant sold her share in the property to her corporation Kraussco Investments Limited (Kraussco)[3] in consideration of Kraussco assuming its 20% share of the mortgage which at the time of disposition was $93,090.
+[8] From 1989 through the disposition of 5175 Yonge Street, the commercial space was leased, short-term, to various tenants. From the time of acquisition, the property lost money. Larry explained that the original purchase price paid for the property reflected its development value resulting in interest payments on the mortgage greater than the rents on the undeveloped property could support. I have no doubt that the property was acquired with a development intention, yet the Appellant claimed capital deductions for the years up to disposition. Given the overall tax planning aggressiveness, this is not surprising.
+[9] In light of her current position, the Appellant now states that the capital cost deductions were taken in error. At the time of the disposition, the Appellant had an undepreciated capital cost in the property of $163,921 resulting in a loss of $70,831. The Appellant’s share of the original cost of the property was $186,500 which would have given rise to a loss of $93,410 had no depreciation been taken. The Appellant continues to this day to indirectly own an interest in 5175 Yonge Street through Kraussco. Larry testified that the other properties on the block have been recently acquired, or are soon to be acquired, completing the assembly of the block for development purposes. She disposed of the property to Kraussco solely for the purpose of triggering a tax loss. Whether the loss is on account of income or capital is primarily a question of fact. As stated, I accept Larry’s evidence to the effect that his mother has a limited grasp of the facts and that he has made most of the relevant decisions on her behalf, and is the best source to provide evidence.
+[10]It is obvious that 5175 Yonge Street was acquired with the intent to develop it after acquiring abutting property. This intent could be consistent with either inventory or capital, and depends on what the intent was once the entire block of land was ready to be developed or in fact developed. If the Appellant intended to rent it on the long term, then it may be treated as capital property, buy if she intended to flip it after development then it is inventory property. For the reasons that follow I believe that, at the time of the disposition, it was capital property in the hands of the Appellant.
+[11]Predominately, the determination of whether a taxpayer is dealing in inventory or capital takes place at the time of the disposition. After the property is disposed of, all its dealings can be advanced to determine whether the taxpayer was a trader or investor. The sale to the corporation in fact terminated the Appellant’s dealings with 5175 Yonge Street, and the question whether she was dealing with it as inventory or capital can be examined with the evidence between 1987 and 1992. Her intentions over the long term are inconclusive because she still owns it indirectly through Kraussco. From either perspective, the conclusion that the sale was a disposition on capital account is the better view.
+[12]The only evidence of her use of 5175 Yonge Street between June 1987 and January 1992 was to lease it. This use is consistent with it being capital in nature. The disposition did not constitute the “flipping” of inventory, but was retention of it in a wholly-owned corporation. On balance, the objective evidence of the use of the property during her direct ownership of 20% leans toward the conclusion that the sale was on capital account.
+[13] It was not sold as inventory, but to trigger a tax loss. It has been the Appellant’s history to retain rental property, as evidenced by her retention and management of townhouses originally purchased by her husband (now deceased), many years ago. Since the intention of the Appellant’s disposition was to keep 5175 Yonge Street until it can ultimately be dealt with in the future, the intention was not one of trading in inventory property. The loss incurred is on account of capital and the loss (artificially created) is nil under subparagraph 40(2)(g)(i) of the Income Tax Act (Act) which reads in part for the present purpose as follows:
+40(2) Notwithstanding subsection (1),
+(a) subparagraph (1)(a)(iii) does not apply to permit a taxpayer to claim any amount under that subparagraph in computing a gain for a taxation year if
+(b) …
+(g) a taxpayer’s loss if any, from the disposition of a property to the extent that it is
+(i) a superficial loss,
+(ii) …
+I have no doubt that a superficial loss was created. During the Appellant’s direct and indirect ownership, the only use of the property was to lease it to tenants, albeit at a loss. The only use of it to this day has been as a capital asset.
+[14]Finally, this result is also supported by logic. The Appellant has done nothing more than change the form of her ownership of the property by disposing of it to Kraussco. The Appellant’s pre-5175 Yonge Street disposition intention may be the same as Kraussco’s post-5175 Yonge Street disposition intention (which intention would be derived by the Appellant’s guiding mind in any event). It was not an adventure in the nature of trade. The Appellant’s appeal claiming $70,831 as a business loss is dismissed.
+(iii) Brewers Joint Venture
+[15]The Brewers Joint Venture was one of the promoters and developers of a condominium development at 2727 Yonge Street in the Lawrence Park area of Toronto. The Yonge-Blythwood Limited Partnership was established to carry out the condominium development. However, in order to comply with Ontario securities law requirements relating to the sale of the units in the condominium, the services of a limited market dealer were required. Elkay Consultants Inc., a limited market dealer wholly owned and managed by Larry, was retained for this purpose. Elkay was to market the units in the Blythwood Limited Partnership to the public and provide certain other services for a commission. Elkay subcontracted the provision of the marketing services to two individuals, namely Messrs. Gilbert and Taub, for a fee equal to the fee payable to Elkay for these services.
+[16]The facts are intricate. Very simply put, in 1990 the Appellant included $70,091 in her income as being her share of an account receivable with respect to marketing services provided to Blythwood Limited Partnership. In 1992 this account receivable was reduced by $24,906. The Minister disallowed her claimed deduction of $24,906 in her 1992 income tax year on the basis that it was not an expense incurred to gain or produce income.
+[17]The Appellant states that the amount receivable by her in the 1990 taxation year with respect to marketing services provided to the Blythwood Limited Partnership was income from a business or property and that the rebate in the 1992 taxation year of a portion of such receivable was properly deductible by her in computing her income from a business or property in such taxation year.
+[18]The Respondent submits that neither the Joint Venture nor the Appellant provided services to Blythwood Limited Partnership, nor were they owed a payment from Blythwood Limited Partnership. Any payment, if any, was owed to Elkay Consultants. Further, the Appellant admitted that all of her time from 1988 to 1994 was occupied with renting out her rental property.
+Analysis
+[19]The facts are largely undisputed and neither party cites any authority for their respective positions, although counsel for the Appellant did assert that there is “ample authority” for the Appellant’s position without directing this Court to any such authorities.
+[20]In 1990, Elkay Consultants assigned an account receivable in the amount of $198,617 to the Brewers Joint Venture, and in that year, the account receivable was taken into income by members of the Brewers Joint Venture. In 1992, upon settling the account receivable, some $70,571 was rebated and the Brewers Joint Venture actually only received $128,046. Between 1990 and 1992, therefore, the members of the Brewers Joint Venture accrued inclusions of $198,617 but only actually received $128,046.
+[21]In the Brewers Joint Venture the Appellant owned a 35.29% interest and Larry owned a 46% interest.
+[22]Unlike the case of 5175 Yonge Street, the issue with respect to the Brewers Joint Venture does not obviously turn on the intention of the Appellant. In any event, I believe the $70,571 was not appropriately deductible by the Brewers Joint Venture or its members.
+[23]The testimony of Larry was to the effect that Elkay Consultants was structured to satisfy applicable securities laws and to have no taxable income. This was carried out with respect to the commission income by entering into back‑to‑back agreements with Yonge‑Blythwood and Messrs. Gilbert and Taub, as I already mentioned. By entering into the back-to-back agreements Elkay Consultants would have offsetting inclusions and deductions and thus no taxable income.
+[24]In the real estate market of the early 1990s, however, Messrs. Gilbert and Taub were unable to sell all of the limited partnership interests, and were disentitled to part of their commission. Upon the sale of interests to the Brewers Joint Venture, Elkay Consultants nevertheless became entitled to a fee from Yonge‑Blythwood. In order to reduce Elkay Consultants’ taxable income to zero, it purported to assign the commission fee receivable to the Brewers Joint Venture.
+[25]There was no evidence or suggestion that the Brewers Joint Venture performed any services for the payment from Elkay Consultants as a subcontractor akin to Messrs. Gilbert and Taub, or otherwise. In fact, the testimony of Larry and the documentary evidence indicates that the payment to the Brewers Joint Venture was not made pursuant to any formal agreement but was only reflected in the books of the Brewers Joint Venture.
+[26]On the evidence, it is inescapable that the $198,617 account receivable was income to Elkay Consultants and not of the Brewers Joint Venture or the Appellant. Although it is arguably logical to allow the $70,571 deduction to maintain the symmetry of the Appellant’s treatment of the original $198,617, the Minister must assess according to law. In other words, the Minister must not, and this Court must not, perpetuate an error in a future year in order to arrive at a result consistent with a prior year in which a taxpayer erred. See Coastal Construction and Excavating Ltd. v. R.[4] where Bowman J. stated:
+"The Minister is obliged to assess in accordance with the law. If he assesses a prior year incorrectly and that year becomes statute-barred this will prevent his reassessing tax for that year, but it does not prevent his correcting the error in a year that is not statute-barred..."
+[27]The correct result would seem to be for the Appellant to not have included her share of the $198,617 in income in 1990 and for Elkay Consultants to have included it in its income. Since the Appellant should never have had an inclusion in 1990, there is no basis for a deduction in 1992 in respect of the rebate.
+(iv) Amount to be included in income from the Partnership
+The Partnership and Estate Freeze
+[28]The Partnership was formed on December 31, 1992 pursuant to a Partnership Agreement between Kraussco, Larry, the Appellant and the Krauss Family Trust to effect an estate freeze whereby future growth in the property transferred to the Partnership would accrue to the beneficiaries of the Krauss Family Trust.
+[29]The Appellant and Larry each transferred and conveyed to the Partnership a 50% undivided interest in the properties located at 1421-25 and 1429 Yonge Street on a tax-deferred basis pursuant to subsection 97(2) of the Act. For the purposes of subsection 97(2), the properties were treated as capital property. The Partnership assumed all liabilities of the transferors in respect of the properties.
+[30]They were each issued 1,252,000 redeemable Class A units and credited with a capital contribution of $1,252,000, representing the fair market value of the Yonge Street properties at the time less the assumed liabilities. The Partnership Agreement contained a price adjustment clause in respect of the redemption value of the Class A units issued for the Yonge Street properties in the event that the fair market value of the properties was redetermined, inter alia, by any tax authority.
+[31]Kraussco and Larry also transferred to the Partnership an interest in Hudson Movers Co-Tenancy for a respective capital contribution of $182,303 and $233,722 and were issued 182,303 and 233,722 redeemable Class B units. The Partnership Agreement contained a similar price adjustment clause in respect of the redemption value of the Class B units for the Hudson property. On January 1, 1993, Larry transferred additional interest in the Hudson property and was issued additional 233,722 Class B units.
+[32]Effective January 2, 1993, the Partnership issued 100 Class C units to the Krauss Family Trust for cash consideration of $100 paid by the Trust. The funds came from gifts to Larry’s eldest son by relatives on his birthday, and not from the Appellant. The Preferred return reflected the expected commercial rate of return on the properties. The income or loss on the property was allocated proportionately to the unit holders.
+[33]In the 1994 taxation year, the Partnership made $343,431 on the Yonge Street properties. In accordance to the Partnership Agreement, the Appellant and Larry received $108,355 return on their Class A units. The balance of $126,721 was allocated to the Trust. In the reassessment, the Minister added to the income of the Appellant 50% of the amount allocated to the Trust, or $63,360.
+Respondent’s Position
+[34]The Partnership structure is basically income-splitting. The Respondent submits that based on the capital contributions, the Appellant directly or indirectly holds about 50% of the interest in the Partnership because she is the sole owner of Kraussco as well.
+[35]The Respondent submits that because the Appellant had invested 50% of the capital into the Partnership and is responsible for 50% of the conduct of the Partnership in accordance with the Partnership Agreement, the Minister appropriately allocated 50% of the Partnership income to her. Further, the only reason an estate freeze conducted through a corporation receives a different tax treatment under the Act is because the Act permits it. However, there is no provision in the Act to allow an estate freeze through a partnership.
+[36]The Respondent adds that subsections 103(1) and 103(1.1) of the Act operate to prohibit the use of partnerships to conduct estate freezes. The Respondent relies on 103(1), 103(1.1) and 74.1(2) to support the Minister’s decision to reallocate the Partnership income in the way it did. These provisions read as follows:
+103(1) Where the members of a partnership have agreed to share income or loss of the partnership and the principal reason for the agreement may reasonably be considered to be a reduction or postponement of tax payable, the share of each member of the partnership in the income or loss is the amount that is reasonable having regard to all the circumstances, including the proportions in which members have agreed to share profits and losses.
+103(1.1) Where two or more members of a partnership who are not dealing at arm’s length agree to share any income or loss of the partnership and such share is not reasonable in the circumstances, having regard to the capital invested or work performed by its members or such other facts that may be relevant, the share shall be deemed to be the amount that is reasonable in the circumstances.
+74.1(2) If any individual has transferred or lent property directly or indirectly by means of a trust or any other means to or for the benefit of a minor who does not deal with the individual at arm’s length, income or loss from the property is deemed to be income or loss to the individual. Where that provision applies, subsection 74.3(1) applies to determine the income of the minors to be attributed to the related individual. Paragraph 74.5(1)(a) provides, however that the provisions of subsection 74.1(2) do not apply to income derived from property transferred where the fair market value of the transferred property does not exceed the fair market value of the property received by the transferor.
+Appellant’s Position
+[37]The amount included in her income was calculated in accordance with the Partnership Agreement and is therefore properly included in her income pursuant to paragraph 96(1)(a) of the Act. The interest of the Trust in the Partnership was acquired in the course of an estate freeze and that such a transaction, properly constituted, does not attract the operation of either subsections 103(1) or (1.1) or the operation of the attribution rule in subsection 74.1(2).
+[38]The issuance of Preferred Class A and B units to the Appellant, to Larry and to Kraussco reflecting the fair market value of the properties transferred and the issuance of “growth” Class C units to the Trust for nominal consideration comply with the Act and in each case, met or exceeded the requirements of the Respondent for a freeze share in an estate freeze using a corporation, the only difference here being that the freeze was carried out through a partnership and not through a corporation.
+[39]According to the Appellant, subsection 103(1) requires the allocation of income among members of a partnership to be reasonable having regard to all the circumstances. The Appellant submits that, and this is really the core of her case, because the fair market value of the Class A units of the Partnership she received in exchange for her interest in the Yonge properties was equal to the fair market value of such interest, there was no transfer of value from her to the Trust or to any other person, and that the allocation of the Partnership income put in place on the establishment of the Partnership was reasonable in the circumstances. The Appellant further submits that, by the same reasoning, other anti-avoidance provisions like subsection 103(1.1) and 74.1(2) should have no application.
+[40]The Appellant submits that the price adjustment clause in the Partnership Agreement ensured that, if challenged, the value of the Class A units would reflect the fair market value of the properties at the time of their transfer. The Respondent has made no assumption about the valuation of the properties nor has he assessed on the basis of the price adjustment mechanism in the Partnership Agreement, she has met any onus that she bears with respect to such valuation.
+[41]In essence, the Appellant’s position is that the underlying estate freezing transaction is not abusive under the Respondent’s assessing policy. The real issue before the Court is not whether there has been an abuse of the Act but whether the technical provisions of the Act have been complied.
+[42]I believe that lot of rhetoric boils down to whether the share of the Appellant, in 1994, was “reasonable in the circumstances” as set out in subsection 103(1.1). If I find it is not reasonable, then the Appellant’s “share shall be deemed to be the amount that is reasonable” (subsection 103(1.1)).
+[43]I begin from the premise that structured properly, a partnership can replace a typical estate freeze through a corporation. I find the Krauss Partnership departs from a typical estate freeze with respect to the redemption of the preferred units and the allocation of losses. Setting that aside, I turn to the appropriate amount of the Appellant’s income. A second distinguishing factor is the treatment of partnership losses.
+[44]Basically, paragraphs 64 and 65 of the Partnership Agreement provided that all losses in respect of the 1421-29 Yonge Street properties are to be allocated to the Class A units, regardless of when they are incurred and whether income had previously been allocated to the Class C units. Further, the Class A units are required to fund cash requirements in relation to the ongoing operation of the 1421‑29 Yonge Street properties. This requirement is particularly not in accord with a typical estate freeze when coupled with the fact that the Appellant could not unilaterally have her Class A units redeemed. If Larry did not cooperate to effect a redemption, the Appellant could be required to contribute additional capital to the Krauss Partnership without the ability to opt out by forcing a redemption. Further, the Appellant’s allocation of income and entitlement to distributions would appear to be unchanged following such a capital contribution.
+[45]The direct consequence of these deviations from a typical estate freeze is to reduce the value of the limited partnership interest held by the Appellant in the Krauss Partnership. This is not inconsistent with the equality between the $1.00 redemption value per unit and the fair market value of the 1421-29 Yonge Street properties at the time of the contribution. A redemption would require a joint vote of the Appellant and Larry
+[46]The second distinguishing feature of the Krauss Partnership from a typical estate freeze is with respect to its treatment of partnership losses. Counsel for the Appellant placed emphasis on the adjustment clause pursuant to which the Class A units would have their redemption value adjusted retroactively to reflect any revision to the fair market value of the 1421-29 Yonge Street properties. The relevant part of that clause of the Partnership Agreement provides as follows::
+… in the event that at any time in the future the Minister of National Revenue, any duly authorized official of Revenue Canada (Taxation), any provincial taxing authority, any court of competent jurisdiction, or the parties themselves makes(s) a determination to which the parties acquiesce or from which there is no further right to object or appeal, that the fair market value of the [1421-29 Yonge properties] … received by the Partnership as consideration for the issuance of the Class A Units is greater than or less than the sum obtained when the number of Class A Units issued in consideration for the [1421-29 Yonge properties] is multiplied by the Class A Redemption Amount, then the Class A Redemption Amount shall be adjusted nunc pro tunc … so that the number of Class A Units issued in consideration for the [1421-29 Yonge properties] multiplied by the Adjusted Class A Redemption Amount is equal to the fair market value of the [1421-29 Yonge properties] …
+[47]This price adjustment clause provides a mechanism to ensure through adjustments that the redemption amount of the Class A units will be equal to the fair market value of the 1421-29 Yonge Street properties at the time of their contribution to the Krauss Partnership. Even assuming that the redemption amount of the Class A units is equal to the fair market value of the 1421-29 Yonge Street properties at the time of the contribution, or that the price adjustment clause does what it is supposed to do, the fair market value of the Class A units would not equal the fair market value of the 1421-29 Yonge Street properties if the lack of unilateral redemption and future capital requirements detract from the value of the Class A units.
+[48]The Partnership does not replicate the economics of a typical estate freeze. There is a more fundamental flaw in the tax planning purporting to divert $126,721 of income in a year to a partner whose only contribution was $100.
+[49]Subsection 74.1(2) provides, in summary, (i) that when an individual transfers property directly or indirectly by means of a trust or by any other means whatever; and (ii) that when the transferee or debtor be a non-arm's length person under the age of 18, generally the transferor of the property will be attributed the income or loss from the transferred property (or property substituted for that property) until the person has attained the age of 18.
+[50]The beneficiaries of the Krauss Family Trust are Larry’s wife and his two children born in 1992 and 1994. The Respondent could not plead subsection 74.1(1) of the Act in order to attribute from Larry’s wife to the Appellant. At best, subsection 74.1(2) is applicable to the Appellant's share of two‑thirds of the income allocated to the Krauss Family Trust.
+[51]In Romkey et al. v. The Queen,[5] which involved a factual scenario similar to the instant case, the Federal Court of Appeal interpreted subsection 74.1(2) of the Act as follows.
+It seems to me that by causing the Class "B" shares to be issued to the trusts the appellants effectively forewent the right to receive an increased measure of any future dividends declared and paid by the Company. As Linden, J.A. put it …
+By this transfer of property to his wife, he [the taxpayer] divested himself of certain rights to receive dividends should they be declared. Hence, when the dividends were paid to the wife in 1982, that was income from the transferred property and was rightly attributable to the taxpayer.[6]
+This dictum directly applies to the instant appeals. With respect to the 1421‑29 Yonge Street properties, the Appellant has foregone the right to receive an increased measure of any future rental or other income beyond the preferred return on the Class A units.
+[52]The Krauss Family Trust paid approximately $100 to receive the right to all income from the 1421-29 Yonge Street properties in excess of the preferred returns to the Class A and Class B units. The theory purporting to support estate freezes generally is that the common equity has no value at the time of its issue because the preferred equity carries a fixed value equal to 100% of the freezing vehicle's assets at such time. The Class C units did not have a nominal value at the time of their issue because they carried valuable rights, namely, the right to participate in income and no obligation to suffer losses. Those rights were transferred before the admission of the Class C unit holders.
+[53]The Appellant cites a family law decision of the Ontario Court of Justice[7] for the proposition that there is no gift in an estate freeze. Our facts are that the Family Trust received rights to income in 1994, which income was ultimately in the amount of $126,721, in exchange for a $100 capital investment made effective January 2, 1993. The fair market value of the Class C units was not nominal.
+[54]The fact that the income allocated to the Class C units may have come from a lease termination payment rather than rents, does not change this result. In exchange for $100, the Class C units were still granted rights to all income in respect of the 1421-29 Yonge Street properties above the preferred return payable on the Class A units. Lease termination payments in respect of retail space on Yonge Street in Toronto are not uncommon and are valuable.
+[55]Unique to the Partnership attempt to establish an estate freeze, subsection 103(1.1) of the Act will further allocate the Appellant's share of the income allocated to the Krauss Family Trust in respect of Larry ’s wife. This subsection would also allocate that income allocated in respect of Larry’s children, overlapping the application of subsection 74.1(2) of the Act in the partnership context.
+[56]The elements of subsection 103(1.1) include: (i) that members of a partnership not be dealing at arm's length; (ii) that such members agree to a given allocation of income or loss; (iii) that the allocation to any member is not reasonable in the circumstances having regard to the capital invested in or work performed for the partnership. The consequence of failing under subsection 103(1.1) of the Act is that the allocation of income or loss to a member whose allocation is unreasonable will be deemed to be the amount that is reasonable in the circumstances.
+[57]The Appellant does not challenge the first two elements. The Appellant relies on its assertion that the Class A units received by the Appellant had a value equal to the fair market value of her share of the 1421-1429 Yonge Street properties, and the price adjustment clause, to argue that the allocation to the Krauss Family Trust must be reasonable in the circumstances.[8] As discussed above, the value of the Class A units would have been adversely impacted by the lack of unilateral redemption option by the Appellant and the future capital requirement of Class A Unit holders. But that is not obviously the correct enquiry. Subsection 103(1.1) of the Act asks whether the share of "any" member of the partnership is not reasonable. The Class C units were issued in exchange for $100, or 0.000034% of the capital of the Krauss Partnership. Further, there is no evidence that the Krauss Family Trust performed any work for the Krauss Partnership. In 1994, the Class C units were allocated $126,721. This represents 126,721% annual return on investment for the 1994 taxation year. Additionally, as noted above, the Class C units had complete downside protection. Quite simply, an investment in real estate with no risk of loss that yields a 126,721% return is beyond unreasonable. It is delusive to the point of absurdity, and betrays something more than aggressive of tax planning. One wonders how such facts made it all the way to trial. To the extent that authority is required for the proposition that an allocation constituting a 126,721% risk-free return is unreasonable, one can point to Zalesky v. The Queen[9] which held that a requirement to bear losses can support an increased allocation. Here the Krauss Family Trust would never, even after years in which it was allocated income, have to bear losses. Thus, the only factors that could support an allocation to the Krauss Family Trust are its capital contributions and services provided. In each case there was none. Additional authority is found in Fillion v. The Queen[10] which held that "reasonableness" for purposes of subsection 103(1.1) of the Act requires at a minimum that the allocations reflect reality. Here there was simply no reality in allocating $126,721 to the Krauss Family Trust some two years following a $100 investment.
+[58]Counsel for the Appellant focused his argument on scholarly articles musing about the ability to effect an estate freeze through a partnership. Had the focus been on the facts of the instant case, and possibly the unique provisions applicable to partnerships, one assumes that the Appellant would have cut her losses at an earlier stage of the process. Whether an estate freeze can be effected through a partnership in the abstract does not need to be answered. I believe that to the extent an estate freeze can be effected through a corporate vehicle, if the same economics can be replicated through a partnership, that an estate freeze could be effected through a partnership.
+[59]In conclusion, under subsection 74.1(2) of the Act the rights of the Krauss Family Trust to income from the 1421-29 Yonge Street properties is a transfer from the Appellant and Mr. Krauss (each a transferor of 50% of such rights). Income generated by the portion of the transferred rights benefiting the two children beneficiaries of the Krauss Family Trust is attributed to the Appellant. The $100 capital contribution by the Krauss Family Trust is too trivial to account for. This amounts to 50% of the income allocated to the Krauss Family Trust multiplied by the two children beneficiaries' interest in the trust.
+[60]In addition, the allocation to the Krauss Family Trust under the Krauss Partnership agreement was not reasonable in the circumstances. Under subsection 103(1.1) of the Act in respect of the income relating to the 1421‑29 Yonge Street properties, the Class A units are to be allocated their pro rata share of such income purported to be allocated to the Class C units under the Krauss Partnership agreement. The deviations could reduce the Appellant’s equity and are contrary to a typical estate freeze.
+[61]For these reasons, the appeals are dismissed, with costs.
+Signed at Ottawa, Canada, this 19th day of November, 2009.
+“C.H. McArthur”
+McArthur J.
+CITATION: 2009 TCC 597
+COURT FILE NO.: 2006-3858(IT)G
+STYLE OF CAUSE: KATO KRAUSS and
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: March 26 and 27, 2009
+REASONS FOR JUDGMENT BY: The Honourable Justice C.H. McArthur
+DATE OF JUDGMENT: November 19, 2009
+APPEARANCES:
+Counsel for the Appellant:
+Colin Campbell
+Brent Pidborochynski
+Counsel for the Respondent:
+Jenny Mboutsiadis
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Colin Campbell
+Brent Pidborochynski
+Firm: Davies Ward Phillips Vineberg LLP
+Toronto, Ontario
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] He created tax advantage investments for himself and others through Syndicat Management Inc. which manages about 2.5 million square feet of real estate.
+[2] 2007 TCC 230.
+[3] Larry also sold his 40% interest in the 5175 Yonge Street property at or around the same time as the Appellant to a corporate-purchaser wholly-owned by himself.
+[4] [1996] 3 C.T.C. 2845 (TCC).
+[5] 2000 DTC 6047 (FCA) aff'g 97 DTC 719 (TCC).
+[6] Ibid. at para. 21 citing The Queen v. Kieboom, 92 DTC 6382 (FCA).
+[7] Karakatsanis v. Gerogiou, (1991), 33 R.F.L. (3d) 263 (Ont. Gen. Div.).
+[8] Appellant's written argument at para. 4.16.
+[9] [2000] 4 C.T.C. 2126 (TCC).
+[10] 2004 DTC 2667.

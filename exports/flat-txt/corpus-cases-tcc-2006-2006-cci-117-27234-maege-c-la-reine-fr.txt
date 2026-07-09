@@ -1,0 +1,243 @@
+Title: Maege c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27234/index.do
+Corpus path: corpus/cases/tcc/2006/2006-cci-117-27234-maege-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2006-04-28
+
+# Maege c. La Reine
+
+- Citation: 2006 CCI 117
+- Decision date: 2006-04-28
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 840, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Maege c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-04-28
+Référence neutre
+2006 CCI 117
+Numéro de dossier
+2002-2332(IT)G
+Juges et Officiers taxateurs
+Gerald J. Rip
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2002-2332(IT)G
+ENTRE :
+NORMA MAEGE,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appels entendus sur preuve commune avec l'appel de
+Lazar Jevremovic (2002-2450(IT)G) le 1er décembre 2005, à Montréal (Québec).
+Devant : L'honorable juge Gerald J. Rip
+Comparutions :
+Avocat de l'appelante :
+Me Serge Fournier
+Avocate de l'intimée :
+Me Anne-Marie Boutin
+____________________________________________________________________
+JUGEMENT MODIFIÉ
+ATTENDU que dans le jugement et les motifs du jugement aux paragraphes [3] et [45] en date du 24 mars 2006 une erreur s'est glissée dans le montant alloué à titre de déduction pour gain en capital lequel aurait dû être de 35 700$ ;
+Par conséquent, les motifs du jugement sont modifiés ainsi que le jugement qui se lit comme suit :
+Les appels à l'encontre des cotisations établies en vertu de la Loi de l'impôt sur le revenu pour les années d'imposition 1990 et 1991 sont rejetés.
+L'appel à l'encontre de la cotisation établie en vertu de la Loi de l'impôt sur le revenu pour l'année d'imposition 1992 est acceuilli, et la cotisation est déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation en tenant compte du fait que l'appelante a droit à une déduction pour gains en capital de 35 700 $.
+L'intimée a droit aux dépens, qui seront taxés selon un seul mémoire de frais pour ces appels et pour celui de Lazar Jevremovic et sa Majesté la Reine (2002-2450(IT)G).
+Ce jugement est émis en substition du jugement en date du 24 mars 2006.
+Les autres despositions du jugement et des motifs du jugement démeurent en vigueur.
+Signé à Ottawa, Canada, ce 28e jour de avril 2006.
+« Gerald J. Rip »
+Juge Rip
+Dossier : 2002-2450(IT)G
+ENTRE :
+LAZAR JEVREMOVIC,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu sur preuve commune avec les appels de
+Norma Maege (2002-2332(IT)G) le 1er décembre 2005, à Montréal (Québec).
+Devant : L'honorable juge Gerald J. Rip
+Comparutions :
+Avocat de l'appelant :
+Me Serge Fournier
+Avocate de l'intimée :
+Me Anne-Marie Boutin
+____________________________________________________________________
+JUGEMENT MODIFIÉ
+ATTENDU que dans les motifs du jugement aux paragraphes [3] et [45] en date du 24 mars 2006 une erreur s'est glissée dans le montant alloué à titre de déduction pour gain en capital lequel aurait dû être de 35 700$ ;
+Par conséquent, les motifs du jugement sont modifiés
+L'appel de la cotisation établie en vertu de la Loi de l'impôt sur le revenu pour l'année d'imposition 1990 est rejeté.
+L'intimée a droit aux dépens, qui seront taxés selon un seul mémoire de frais pour cet appel et pour ceux de Norma Maege et sa Majesté la Reine (2002-2332(IT)G).
+Ce jugement est émis en substition du jugement en date du 24 mars 2006.
+Les autres despositions du jugement et des motifs du jugement démeurent en vigueur.
+Signé à Ottawa, Canada, ce 28e jour de avril 2006.
+« Gerald J. Rip »
+Juge Rip
+Référence : 2006CCI117
+Date : 20060428
+Dossier : 2002-2332(IT)G
+ENTRE :
+NORMA MAEGE,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+ET ENTRE :
+Dossier : 2002-2450(IT)G
+LAZAR JEVREMOVIC,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Motifs du jugement MODIFIÉS
+Le juge Rip
+[1] Norma Maege et Lazar Jevremovic interjettent appel à l'encontre de cotisations d'impôt sur le revenu établies par le ministre du Revenu national (le « ministre » ) dans lesquelles celui-ci a refusé leurs demandes de crédits d'impôt à l'investissement et de déduction de pertes d'entreprise résultant de leur participation dans une société de personnes exploitée sous la raison sociale « société de recherche technologique Botanical / Botanical Technologies Research and Development » ( « Botanical Technologies » ). Toutefois, à l'étape de l'opposition, la cotisation a été ratifiée pour le motif, entre autres, que la société de personnes était un trompe-l'oeil et que les appelants n'avaient droit à aucune des déductions demandées relativement à la société de personnes. De plus, les biens appartenant à la société de personnes étaient un abri fiscal, et personne n'avait produit auprès du ministre le formulaire prescrit contenant notamment le numéro d'inscription de l'abri fiscal. Dans la présente affaire, l'intimée prétend qu'en vertu du paragraphe 237.1(6) de la Loi de l'impôt sur le revenu (la « Loi » ), aucun montant au titre de la société de personnes ne peut être déduit ou demandé par les appelants. Il incombait à l'intimée de prouver l'existence d'un trompe-l'oeil et de montrer que la société de personnes était un abri fiscal.
+[2] Les appels de Mme Maege portent sur des cotisations établies pour 1990, 1991 et 1992. M. Jevremovic interjette appel d'une cotisation établie pour 1990, même s'il a également investi des capitaux dans la société de personnes en 1991 et en 1992. Les appels ont été entendus ensemble sur preuve commune.
+[3] Au début de l'audience, l'avocate de l'intimée m'a avisé que l'intimée convenait maintenant que Mme Maege avait bien droit à la déduction de 35 700 $ pour gains en capital qu'elle avait demandée pour 1992, déduction qui avait initialement été refusée.
+[4] De plus, les avocats avaient limité les questions à trancher à une seule, soit celle de savoir si la société de personnes était un abri fiscal ou non. Si je conclus que la société de personnes était bien un abri fiscal, les appels seront rejetés, et les appelants abandonneront toutes leurs autres demandes, sauf celle de Mme Maege relativement à la déduction pour gains en capital.
+[5] Pour les années en cause, la définition du terme « abri fiscal » donnée au paragraphe 237.1(1) de la Loi et se lisait comme suit :
+Bien pour lequel il est raisonnable de considérer, à la lumière de déclarations ou annonces faites ou envisagées en rapport avec ce bien, que, si une personne acquérait une part dans ce bien, le montant visé à l'alinéa a) excéderait le montant visé à l'alinéa b) à la fin d'une année d'imposition donnée se terminant dans les quatre ans après cette acquisition :
+a) le total des montants dont chacun représenterait :
+(i) une perte qui est annoncée comme étant déductible dans le calcul du revenu, au titre de cette part, et qui pourrait être subie par la personne ou attribuée à celle-ci pour l'année donnée ou pour une année d'imposition antérieure, ou
+(ii) un montant qui est annoncé comme étant déductible dans le calcul du revenu ou du revenu imposable, au titre de cette part, et qui pourrait être engagé par la personne ou attribué à celle-ci pour l'année donnée ou pour une année d'imposition antérieure, à l'exclusion d'un montant inclus dans le calcul d'une perte visée au sous-alinéa (i);
+b) l'excédent éventuel du coût de cette part pour la personne à la fin de l'année donnée sur la valeur totale des avantages visés par règlement que la personne ou toute personne avec laquelle elle a un lien de dépendance pourrait recevoir, directement ou indirectement, au titre de cette part.
+Les actions accréditives et les biens visés par règlement ne sont toutefois pas considérés comme des abris fiscaux.
+"tax shelter" means any property in respect of which it may reasonably be considered having regard to statements or representations made or proposed to be made in connection with the property that, if a person were to acquire an interest in the property, at the end of any particular taxation year ending within 4 years after the day on which the interest is acquired,
+(a) the aggregate of all amounts each of which is
+(i) a loss represented to be deductible in computing income in respect of the interest in the property and expected to be incurred by or allocated to the person for the particular year or any preceding taxation year, or
+(ii) any other amount represented to be deductible in computing income or taxable income in respect of the interest in the property and expected to be incurred by or allocated to the person for the particular year or any preceding taxation year, other than any amount included in computing a loss described in subparagraph (i),
+would exceed
+(b) the amount, if any, by which
+(i) the cost to the person of the interest in the property at the end of the particular year,
+would exceed
+(ii) the aggregate of all amounts each of which is the amount of any prescribed benefit that is expected to be received or enjoyed directly or indirectly in respect of the interest in the property, by the person or a person with whom the person does not deal at arm's length
+but does not include property that is a flow-through share or a prescribed property.
+[6] Ce qu'est un avantage visé par règlement est décrit au paragraphe 231(6) du Règlement de l'impôt sur le revenu (le « Règlement » ). Voici les parties du paragraphe 231(6) qui s'appliquent aux présents appels :
+(6) Pour l'application de l'alinéa b) de la définition d' « abri fiscal » au paragraphe 237.1(1) de la Loi, l'avantage à recevoir au titre d'une part dans un abri fiscal est un montant que, compte tenu des déclarations ou annonces faites au sujet de cet abri fiscal, la personne qui acquiert cette part - appelée « l'acheteur » au présent paragraphe - ou une personne avec laquelle l'acheteur a un lien de dépendance peut raisonnablement s'attendre à recevoir ou à avoir à sa disposition, ce qui a pour conséquence de réduire l'effet d'une perte que l'acheteur pourrait subir en acquérant ou en détenant cette part ou encore en en disposant. Sont notamment des avantages :
+a) [...]
+b) le montant que l'acheteur ou une personne avec laquelle il a un lien de dépendance a à un moment donné le droit de recevoir ou d'avoir à sa disposition, directement ou indirectement :
+(i) soit à titre d'aide fournie par un gouvernement, une municipalité ou un autre organisme public, sous forme de prime, de subvention, de prêt à remboursement conditionnel, de déduction d'impôt ou d'allocation de placement ou sous toute autre forme, [...]
+(6) For the purposes of paragraph (b) of the definition "tax shelter" in subsection 237.1(1) of the Act, "prescribed benefit" in relation to a tax shelter means any amount that may reasonably be expected, having regard to statements or representations made in respect of the tax shelter, to be received by or made available to a person (in this subsection referred to as "the purchaser") who acquires an interest in the tax shelter, or a person with whom the purchaser does not deal at arm's length, which receipt or availability would have the effect of reducing the impact of any loss that the purchaser may sustain by virtue of acquiring, holding or disposing of the interest in the tax shelter, and includes such an amount.
+(a) [...]
+(b) that the purchaser or a person with whom the purchaser does not deal at arm's length is entitled at any time to receive, directly or indirectly, or to have available
+(i) as a form of assistance from a government, municipality or other public authority, whether as a grant, subsidy, forgiveable loan, deduction from tax or investment allowance, or as any other form of assistance, or [...]
+[7] M. Jevremovic est ingénieur chimiste et se possède une expertise particulière dans le traitement de l'eau et le génie de l'environnement. Mme Maege est experte-comptable et détient le titre professionnel de comptable en management accréditée ( « CMA » ) et une maîtrise en administration des affaires. Elle a investi dans Botanical Technologies de 1989 à 1992.
+[8] M. Jevremovic avait rencontré par hasard M. Nelson, homme d'affaires et mari de Mme Maege, et les deux hommes ont appris à bien se connaître pendant la période où M. Jevremovic louait un bureau dans l'immeuble où se trouvait la compagnie Thermactive de M. Nelson. Selon Mme Maege, M. Jevremovic avait plus tard été engagé par M. Nelson pour fournir de l'aide dans le cadre de l'ingénierie de technologies en matière d'énergie solaire et de conservation de l'environnement, et ce, par rapport à des technologies relatives aux serres que les compagnies de M. Nelson étaient en train de concevoir.
+[9] Vers la fin de 1990, M. Nelson avait proposé à M. Jevremovic qu'il se joigne à Botanical Technologies en tant qu'associé. Dans le cadre de ses recherches, Botanical Technologies travaillait en collaboration avec un certain nombre d'organismes, y compris Agriculture Canada et l'École polytechnique, et il semblerait que certains de ses projets comprenaient des innovations en matière de biotechnologie qui pourraient être employées avantageusement avec des technologies brevetées relatives aux serres conçues par Thermactive (M. Nelson n'a pas témoigné). Le financement de Botanical Technologies provenait de sources fédérales, provinciales et privées.
+[10] Comme premier projet, Botanical Technologies avait entrepris l'élaboration d'une substance qu'elle appelait « anthrocynanin » , qui était un colorant organique dérivé de plantes et pouvant être utilisé dans la coloration des aliments et dans les cosmétiques. M. Jevremovic a témoigné qu'il croyait qu'il y avait un fort marché potentiel pour les produits que Botanical Technologies mettrait au point et qu'il y avait donc de bonnes possibilités de réaliser des bénéfices à moyen ou à long terme, ce qui correspondait aux estimations contenues dans le plan d'affaires. L'opinion de M. Jevremovic a été dans une certaine mesure appuyée par le témoignage de Mme Maege selon lequel certains colorants synthétiques avaient été interdits par le gouvernement à peu près au moment où Botanical Technologies avait commencé à élaborer l' « anthrocynanin » , ce qui voulait dire qu'il y avait un marché potentiel pour des produits de remplacement convenables. M. Jevremovic a indiqué que tous les associés savaient que l'investissement comportait des risques inhérents, mais ne doutaient pas du potentiel de gains que présenterait la recherche au fil du temps. De plus, il a signalé qu'il s'intéressait vivement à la recherche scientifique qui se faisait et qu'il avait de l'expertise dans le domaine, ce qui l'avait également attiré vers la société de personnes, et Mme Maege a dit partager cet intérêt.
+[11] M. Jevremovic a dit dans son témoignage qu'il était compréhensible que Botanical Technologies subisse des pertes au cours des deux ou trois premières années de son projet « anthrocynanin » , étant donné qu'il s'agissait de l'étape de la « recherche » et qu'il était normal de subir des pertes à cette étape. Toutefois, après deux ans de travail, les chercheurs n'arrivaient pas à surmonter certains problèmes techniques et, par conséquent, les associés ont reporté la sollicitation de clients éventuels. Les problèmes techniques ont plus tard été réglés, mais, en 1992, les sources de financement pour le projet ont commencé à se tarir, ce qui a mené à l'abandon du projet.
+[12] Le 28 décembre 1990, M. Jevremovic avait investi 10 000 $ dansBotanical Technologies et il a ensuite demandé la déduction d'une perte d'entreprise nette de 10 000 $, un crédit d'impôt à l'investissement de 1 480 $ et un crédit d'impôt du Québec de 3 614 $. Le 31 décembre 1991, il avait investi 15 000 $. Il a demandé la déduction d'une perte d'entreprise de 15 000 $ pour l'année et a reçu un crédit d'impôt à l'investissement de 1 428 $ et un crédit d'impôt du Québec de 6 574 $. Mme Maege avait fait un premier investissement de 20 000 $ le 28 décembre 1989 et a ensuite investi 15 000 $ le 28 décembre 1990, 22 500 $ le 27 décembre 1991 et 13 235 $ le 30 décembre 1992. Elle a demandé la déduction de pertes correspondant au montant des investissements ainsi que sa part correspondante des crédits d'impôt (il semblerait que les crédits dont elle a bénéficié s'élevaient à 3 170 $ et 4 149 $ pour l'année d'imposition 1989, à 2 215 $ et 5 408 $ pour l'année d'imposition 1990, à 2 142 $ et 9 861 $ pour l'année d'imposition 1991 et à 1 860 $ et 4 832 $ pour l'année d'imposition 1992).
+[13] Pour ce qui est du moment des investissements, M. Jevremovic a dit qu'en 1990 il avait attendu de recevoir une indemnité de cessation d'emploi pour faire un investissement et qu'en 1991 il avait attendu jusqu'à la fin de l'année pour des raisons de flux de trésorerie. Lorsqu'on a demandé à Mme Maege des explications au sujet du fait qu'ils investissaient dans la société de personnes tard dans l'année, elle a déclaré que c'était la façon de faire normale pour la société de personnes. Apparemment, les dépenses engagées par Botanical Technologies, y compris les salaires des chercheurs et des techniciens, étaient supportées par une compagnie « soeur » , Thermagro, pendant l'année et que, vers la fin de l'année, un « appel de fonds » était fait pour amener les gens à investir dans Botanical Technologies afin qu'elle puisse rembourser ces « dettes » . Il semblerait que, de façon générale, les gens achetaient leurs intérêts dans Botanical Technologies au moyen de paiements de 10 % en espèces et d'un billet à ordre pour le solde, mais M. Jevremovic croit avoir payé la totalité de ses investissements par chèque, sans billet à ordre.
+[14] Selon Mme Maege, la répartition des bénéfices et des pertes de la société de personnes était faite au prorata de la participation ou de l'apport de l'associé pour l'année. Les associés qui n'investissaient aucun argent dans une année donnée ne tiraient pas d'avantage fiscal de la société de personnes pour l'année en question. Mme Maege a corroboré le témoignage de M. Jevremovic concernat l'attente de pertes à court terme et de profits à moyen ou à long terme.
+[15] Lorsqu'on lui a demandé si elle avait fait des « déclarations ou annonces » relativement aux pertes et aux crédits dont pouvaient se prévaloir des investisseurs comme M. Jevremovic, Mme Maege a confirmé qu'elle en avait fait; elle avait la responsabilité d'expliquer aux associés la façon dont les choses se dérouleraient sur le plan financier, y compris la possibilité de crédits d'impôt pour des activités de recherche scientifique et de développement expérimental. Des preuves documentaires sous la forme de notices d'offre pour les années d'imposition en cause ont été présentées pour confirmer que les investisseurs avaient été avisés par écrit de la possibilité de bénéficier de pertes déductibles et de crédits d'impôt s'ils acquéraient une participation dans la société de personnes.
+[16] Mme Maege a été interrogée au préalable par l'avocate de l'intimée. L'avocate lui a posé des questions au sujet de la notice d'offre :
+[TRADUCTION]
+Q. [30] Il est indiqué ce qui suit au dernier paragraphe de la première page :
+« Qu'il y avait, comme considération accessoire, la possibilité de déduire les pertes fiscales et d'obtenir un crédit d'impôt à l'investissement. »
+R. Oui.
+Q. [31] L'investisseur était au courant de cela, les investisseurs étaient-ils au courant de cela lorsqu'ils ont investi les fonds?
+R. Oui, ils avaient la possibilité d'obtenir un crédit d'impôt et une déduction fiscale, ce qui les aiderait à faire leurs investissements et qui couvrirait une partie du coût de leur investissement [...]
+[17] À l'audience, Mme Maege a indiqué que ces réponses n'étaient peut-être pas tout à fait exactes et qu'elle n'était pas certaine de ce que les investisseurs comprenaient au sujet des pertes et des crédits au moment où ils avaient investi dans la société de personnes.
+[18] Plus tard, l'avocate a posé des questions à Mme Maege au sujet de la façon dont les apports des associés seraient dépensés par la société de personnes :
+[TRADUCTION]
+Q. [194] Est-ce que c'était prévu dès le début que cent pour cent (100 %) des investissements seraient dépensés dans chaque année?
+R. Oui, c'était ce qu'on prévoyait.
+Q. [195] Et cela aurait forcément créé une perte d'entreprise?
+R. Oui.
+Q. [196] Est-ce que c'était clair dès le début que chaque associé aurait...
+R. En effet, c'était à cela qu'on s'attendait, on s'y attendait comme...conféré par la loi selon ce que nous croyions comprendre.
+Q. [197] Alors ils s'attendaient à obtenir une déduction fiscale de cent pour cent (100 %) de leur investissement pour l'année en question?
+R. C'est exact.
+Q. [198] Ils pensaient aussi bénéficier du crédit d'impôt à l'investissement relativement à leur investissement; c'est bien cela?
+R. Oui.
+[19] Mme Yolaine Gendron, vérificatrice pour l'Agence du revenu du Canada ( « ARC » ) et chargée des dossiers des appelants à l'étape des appels, a témoigné qu'elle avait conclu que la société de personnes était un abri fiscal étant donné que les appelants s'attendaient dès le début à obtenir chaque année des crédits d'impôt et la déduction de leurs coûts d'investissement annuels. Elle avait aussi tenu compte du fait que, chaque année, les investissements étaient faits vers la fin de l'année, que les pertes déduites équivalaient aux montants investis et que les crédits d'impôt étaient accordés aux associés proportionnellement au capital que chacun avait investi.
+[20] Mme Gendron avait examiné la documentation annexée aux déclarations de revenus des appelants, y compris les rapprochements relatifs au compte capital de chaque associé et les déclarations de renseignements de la société de personnes pour diverses années. En 1989, la totalité des capitaux investis, à savoir 100 000 $, montant qui correspondait à des frais de sous-traitance, équivalait à la perte de revenus subie par la société de personnes. En 1989, Mme Maege avait une participation de 20 % dans la société de personnes, étant donné qu'elle avait investi 20 000 $.
+[21] Mme Maege était la personne-ressource avec qui l'ARC ou son prédécesseur, Revenu Canada, devait communiquer pour obtenir des renseignements au sujet de la société de personnes.
+[22] La demande de déduction de dépenses de recherche scientifique et de développement expérimental ( « RS & DE » ) qu'a faite la société de personnes pour 1989 comprenait un total de 100 000 $ au titre de dépenses courantes et de dépenses en capital, dont 79 254 $ constituaient des dépenses admissibles aux fins du crédit d'impôt à l'investissement et 20 746 $ correspondaient à des montants d'aide gouvernementale et non gouvernementale et à des paiements contractuels au titre de dépenses de recherche et de développement ( « R & D » ).
+[23] Par conséquent, dans ses déclarations de revenus fédérales pour la province de Québec pour 1989, Mme Maege a déduit en vertu de l'article 37 de la Loi une perte nette de 20 000 $ résultant de sa participation dans la société de personnes et a demandé un crédit d'impôt à l'investissement fédéral pour la RS & DE de 3 170,16 $ ainsi qu'un crédit d'impôt du Québec à l'égard des salaires de 4 149,20 $. Des demandes semblables ont été faites par les autres associés en fonction de leurs intérêts dans la société de personnes. Un formulaire T5013, État des revenus d'une société de personnes a en conséquence été établi pour chaque associé.
+[24] Selon Mme Gendron, l'administration fiscale n'a pas établi de nouvelle cotisation à l'égard de Mme Maege pour 1989 parce que l'année était frappée de prescription. Mme Gendron a produit et passé en revue des documents semblables pour les années 1990, 1991 et 1992. En 1990, la société de personnes avait eu des revenus de 7 020 $, et ce montant a été réparti entre les associés en fonction de leurs intérêts dans la société de personnes; cependant, la perte a été répartie proportionnellement en fonction de l'apport de capitaux de chaque associé pour 1990.
+[25] À titre d'exemple, en 1990, la société de personnes avait gagné des revenus bruts de 7 020 $ et subi une perte nette de 70 000 $ (les frais de sous-traitance s'élevaient à 77 020 $). En 1990, le total des investissements de capitaux faits par tous les associés était de 70 000 $. Mme Maege avait investi 15 000 $, soit 21,4 % du total, et M. Jevremovic avait investi 10 000 $, soit 14,3 % du total. La partie de la perte qui leur a été attribuée était de 21,4 % et de 14,3 % respectivement. Les crédits d'impôt ont aussi été accordés en fonction des capitaux investis durant l'année. Cependant, lorsque les revenus de 7 020 $ ont été répartis, un montant de 1 404 $ a été attribué à Mme Maege et un montant de 140 $ a été attribué à M. Jevremovic, montants qui correspondaient au pourcentage de leurs intérêts respectifs dans la société de personnes. Mme Maege avait une participation de 20 % dans la société de personnes à la fin de 1990 (elle détenait 23 parts). M. Jevremovic avait une participation de 2 % dans la société de personnes à la fin de 1990 (il détenait 2 parts). Les mêmes principes de répartition des pertes, des crédits d'impôt et des revenus ont aussi été appliqués en 1991 et en 1992[1].
+[26] L'argument principal de l'avocat des appelants était que la réponse à la question de savoir s'il existait un abri fiscal dépend de l'interprétation du début de la définition du terme « abri fiscal » figurant au paragraphe 237.1(1) :
+Bien pour lequel il est raisonnable de considérer, à la lumière de déclarations ou annonces faites ou envisagées en rapport avec ce bien, [...]
+[...] property in respect of which it may reasonably be considered having regard to statements or representations made or proposed to be made in connection with the property [...]
+[27] L'avocat des appelants a fait remarquer que la définition du terme « abri fiscal » contient l'expression « raisonnable de considérer » et a soutenu qu'il n'était pas nécessairement raisonnable de s'attendre à ce que les associés jouissent d'avantages fiscaux sous la forme d'un abri fiscal compte tenu des faits de la présente affaire. Selon lui, il faudrait qu'un critère du caractère raisonnable soit appliqué de manière à déterminer la mesure dans laquelle des annonces ont été faites : le fait de dire qu'un associé se verra attribuer une partie des pertes et des crédits constitue-t-il une annonce? Ou bien faut-il aller plus loin et informer l'associé éventuel de la possibilité de jouir d'avantages disproportionnés pour un niveau d'investissement donné? Selon les appelants, des déclarations selon lesquelles les associés d'une entreprise partageront les pertes et les crédits ne pourraient pas être considérées comme des « déclarations ou annonces » au sens du paragraphe 237.1(1).
+[28] L'avocat des appelants a souligné que, lorsque Mme Maege avait acquis des intérêts dans la société de personnes, elle connaissait le droit aussi bien qu'un avocat-fiscaliste et que, par conséquent, aucune déclaration ou annonce ne lui avait été faite ni n'était nécessaire pour la convaincre de faire l'investissement. Elle avait peut-être fait des annonces à d'autres personnes, mais elle n'avait jamais été informée par qui que ce soit des avantages fiscaux que présentait l'investissement. Selon ce raisonnement, on ne conlurait pas qu'une personne avertie, versée dans le droit fiscal et dans les affaires, a participé à un abri fiscal parce que cette personne n'avait pas besoin d'une explication détaillée du plan d'investissement, tandis qu'une personne moins avertie, qui avait besoin d'une explication détaillée du plan, serait considérée comme ayant participé à un abri fiscal. L'avocat a dit que je devrais considérer l'intention du contribuable : les personnes en question auraient-elles investi s'il n'y avait pas d'avantage fiscal? Il prétend que oui en l'espèce. L'avocat a fait valoir qu'il s'agit ici d'une situation bien différente de celle où des investisseurs passifs placent aveuglément des fonds pour saisir une possibilité d'investissement qu'ils ne comprennent peut-être pas. Au moment d'investir dans la société de personnes, Mme Maege n'agissait pas suivant les déclarations ou les annonces de qui que ce soit. Pour sa part, M. Jevremovic, en faisant son placement, était motivé par son expérience en sciences et par l'espoir de réaliser des bénéfices.
+[29] En ce qui concerne la participation de M. Jevremovic, l'avocat de celui-ci a affirmé que personne n'avait jamais explicitement dit à M. Jevremovic qu'il jouirait d'avantages fiscaux prenant la forme d'un abri fiscal. M. Jevremovic avait décidé de participer au projet parce qu'il aimait cette entreprise - il s'intéressait aux aspects scientifiques de l'entreprise - et parce qu'il estimait qu'il y avait des possibilités d'en tirer des revenus, et non en raison de pertes et de crédits. Il ne considérait pas cela comme un abri fiscal.
+Analyse
+[30] En ce qui concerne les aspects financiers d'un investissement et la question de savoir s'il s'agit d'un abri fiscal ou non, nous pouvons réduire les dispositions qui décrivent en quoi consiste un « abri fiscal » à une équation bien simple : un abri fiscal pourrait exister si A > (B - C), où A représente le total des montants déduits dans le calcul du revenu (y compris les pertes), B représente le montant de l'investissement ou le coût et C représente le montant des avantages visés par règlement reçus (dans ce cas-ci, il s'agit de crédits d'impôt). Par exemple, si on appliquait l'équation à l'année d'imposition 1990 de M. Jevremovic, le calcul serait le suivant : 10 000 > (10 000 - 5 094), ce qui irait dans le sens d'une conclusion selon laquelle il y avait un abri fiscal au sens de l'article 237.1.
+[31] L'avocat des appelants a accordé beaucoup d'importance à l'expression « déclarations ou annonces » contenue dans la définition du terme « abri fiscal » et à la conclusion correspondante selon laquelle un contribuable avisé ne serait pas visé par la disposition tandis qu'un contribuable moins avisé le serait. C'est un argument original, mais indéfendable. Il ne donne pas assez de poids à l'expression « à la lumière de » en français et à l'expression « having regard to » en anglais, expressions qui précèdent « déclarations ou annonces » en français et « statements or representations » en anglais. La politique administrative en vigueur à l'époque, contenue dans la circulaire d'information 89-4, était la suivante :
+[...] La définition d'un abri fiscal dépend entièrement des conclusions qu'on peut raisonnablement tirer des annonces faites à l'égard du bien. Il pourra s'agir d'annonces écrites, comme des brochures et des annonces publicitaires, ou d'annonces verbales, comme des renseignements transmis en public ou en privé, ou au cours de réunions de promotion de vente. [...]
+The definition of what constitutes a tax shelter depends entirely on the reasonable inferences to be drawn from representations made in connection with the property. Representations would include written representations such as those contained in sales brochures or advertisements and verbal representations such as those made in public or private information or sales meetings. [...]
+[32] Selon le Shorter Oxford English Dictionary[2], le terme « regard » veut dire « to take notice of, bestow attention or notice upon; to give heed to; to look to, consider, [or] take into account » .
+[33] Selon Le petit Robert[3], le terme « lumière » veut dire : « [c]e qui rend clair, fournit une explication. V. clarté, éclaircissement [...] [é]tat de ce qui est visible, évident pour tous. V. évidence [...] (cf. Au grand jour) [...].
+[34] Pris isolément, le terme « lumière » contenu dans la définition d' « abri fiscal » et le terme « regard » contenu dans la définition de « tax shelter » peuvent difficilement être considérés comme étant de nature impérative.
+[35] La Cour supérieure de justice de l'Ontario a eu l'occasion de se pencher sur le sens de l'expression anglaise « have regard to » dans l'affaire Concerned Citizens of King (Township) v. King (Township)[4] :
+[TRADUCTION]
+Le sens de l'expression « have regard to » se situe quelque part entre l'idée de « en prendre connaissance pour ensuite ne pas en tenir compte » et l'idée de « suivre servilement et rigidement » .
+[36] Si le législateur fédéral avait voulu que l'expression « déclarations ou annonces » soit l'élément essentiel et déterminant d'un abri fiscal, il n'aurait pas employé des termes aussi équivoques que « à la lumière de » ou « having regard to » relativement aux expressions « déclarations ou annonces » et « statements or representations » . Dans la décision Fédération des Caisses Populaires Desjardins de Montréal et de L'Ouest-du-Québec c. La Reine[5], la juge Lamarre a bien résumé un principe fondamental d'interprétation des lois, soit celui selon lequel il est présumé que le législateur dit ce qu'il veut dire et veut dire ce qu'il dit :
+En réponse à ce premier argument de l'appelante, je soulignerai simplement le principe bien établi de l'effet utile en matière d'interprétation des lois, voulant que chaque mot utilisé dans la législation ait sa raison d'être. P.-A. Côté, dans son recueil sur l'Interprétation des lois, 2e éd., écrit ceci à la page 259 :
+En lisant un texte de loi, on doit en outre présumer que chaque terme, chaque phrase, chaque alinéa, chaque paragraphe ont été rédigés délibérément en vue de produire quelque effet. Le législateur est économe de ses paroles: il ne « parle pas pour ne rien dire » .
+In response to this first argument by the appellant, I will simply refer to the well-established rule of effectivity in statutory interpretation, which dictates that there be a reason for each word used in a statute. In The Interpretation of Legislation in Canada, 2nd ed., P.-A. Côté writes the following at page 232:
+It must also be assumed that each term, each sentence and each paragraph have been deliberately drafted with a specific result in mind. Parliament chooses its words carefully: it does not speak gratuitously.
+[37] Pour ce qui est des abris fiscaux en particulier, le juge Dussault a dit ce qui suit au paragraphe 13 de la décision Maya Inc.c. La Reine, 2003 CCI 502, 2003 DTC 947 (anglais : 2004 DTC 2001) :
+[...] dans la définition, la relation établie entre le montant déductible dans les quatre ans de l'acquisition d'une part dans un bien et le coût de cette part diminué de la valeur totale des avantages visés par règlement est avant tout en fonction des « déclarations ou d'annonces faites ou envisagées » , c'est-à-dire en fonction de ce qui est proposé à l'investisseur.
+[...] In the definition, the relationship established between the amount deductible within four years from the acquisition of an interest in a property and the cost of that interest reduced by the total value of the prescribed benefits is mainly based on the "statements or representations made or proposed to be made", that is, on the basis of what is proposed to the investor.
+[38] Le législateur a employé les termes équivoques « à la lumière de » et « having regard to » relativement aux expressions « déclarations ou annonces » et « statements or representations » . Nous devons présumer qu'il a fait cela pour une raison. Compte tenu de ce qui précède, le fait que des « déclarations ou annonces [aient été] faites ou envisagées » ou que des « statements or representations [were] made or proposed to be made » pourrait servir d'indicateur de l'existence d'un abri fiscal, mais l'absence de déclarations ou d'annonces explicites au sujet de la possibilité d'investissement n'est pas un point déterminant. Il faut trancher chaque cas en fonction de ses faits particuliers.
+[39] Il semblerait aussi, que dans le contexte de la définition du terme « abri fiscal » , il n'est pas nécessaire qu'une « annonce » prenne la forme d'une assertion écrite ou verbale explicite, mais elle peut comprendre un élément moral ou intellectuel et semble comprendre les annonces faites à soi-même. Le Shorter Oxford English Dictionary[6]donne la définition suivante du terme « representation » ( « annonce » en français) :
+[TRADUCTION]
+Action de communiquer un fait, etc. à d'autres par le discours; éxposé ou rapport, spécialement celui ayant pour but d'influer sur l'opinion ou les actions d'une personne; action de présenter à l'esprit ou à l'imagination; image ainsi présentée; idée ou concept conçus clairement.
+[40] Le rôle de l'élément moral lorsqu'il s'agit de déterminer si un contribuable participe à un abri fiscal est renforcé davantage par les définitions des mots anglais « propose » ou « proposal » , qui semblent inclure les intentions personnelles. Toujours selon le Shorter Oxford English Dictionary[7], le terme « propose » peut vouloir dire ce qui suit :
+[TRADUCTION]
+Soumettre pour examen; présenter à l'esprit; énoncer, avancer; présenter à l'esprit de qqn comme une chose à laquelle il faut s'attendre; soumettre à l'approbation de qqn; présenter à son propre esprit comme une chose que l'on va faire; projeter, se proposer de, avoir l'intention.
+[41] Les termes « déclarations » et « annonces » semblent renfermer la notion de la communication au public. Dans la définition de « annonce » contenue dans Le Petit Robert, il est indiqué ce qui suit : « action d'annoncer, de faire savoir qqch. au public, verbalement ou par écrit » . Dans le même ordre d'idées, il est indiqué ce qui suit dans la définition de « déclaration » contenue dans Le Petit Robert : « action de déclarer; discours ou écrit par lequel on déclare » . Le terme « déclarer » est défini comme étant l'action de « faire connaître [...] d'une façon expresse, manifeste » . Toutefois, le terme « envisager » est défini en partie comme suit dans Le Petit Robert :
+[...] Examiner par la pensée. V. considérer [...] Prendre en considération, avoir en vue. [...] V. penser (à). Prévoir, imaginer comme possible. Envisager toutes les éventualités.
+Dans la disposition en question ici, en français comme en anglais, les « déclarations » et « annonces » peuvent être considérées ou envisagées même si elles ne sont pas faites.
+[42] La question de savoir s'il existe un abri fiscal au sens du paragraphe 237.1(1) doit en dernière analyse être tranchée en fonction du caractère raisonnable. Comme le juge Bowman (tel était alors son titre) l'a dit dans l'affaire Tsiantoulas c. Canada, [1994] A.C.I. no 984 (QL), paragraphe 11 :
+Le caractère raisonnable est une question de fait et il requiert que l'on fasse preuve de jugement et de bon sens.
+[43] Dans la présente affaire, il est clair que Mme Maege est une personne avertie ayant des qualifications professionnelles. Elle a établi la structure de la société de personnes et informé les investisseurs des possibilités de profit et des conséquences financières de pertes, conséquences comprenant notamment des déductions dans le calcul du revenu et l'obtention de crédits d'impôt. M. Jevremovic est également très instruit et a l'expérience des affaires.
+[44] Les appelants savaient que d'autres investissements seraient déduits intégralement dans le calcul de leur revenu chaque année. Pour ce qui est de la question de savoir s'ils comprenaient les pertes, les déductions et les crédits qui résulteraient de leurs investissements, le témoignage de Mme Maege est douteux étant donné qu'à l'audience elle a contredit des déclarations qu'elle avait faites lors de son interrogatoire préalable. Cependant, compte tenu des témoignages de Mme Maege et de M. Jevremovic et compte tenu du fait que ces deux personnes sont très averties, il est raisonnable de conclure qu'ils connaissaient l'ampleur des avantages fiscaux dont ils jouiraient pour les années pendant lesquelles la société de personnes exerçait des activités. Ils savaient que la totalité de leurs investissements serait déduite dans le calcul de leur revenu pour les années d'imposition en question et connaissaient les crédits d'impôt dont ils pouvaient se prévaloir. Des déclarations ont été faites ou envisagées relativement aux biens de la société de personnes. Il s'agissait de déclarations selon lesquelles les appelants, s'ils acquéraient des intérêts dans la société de personnes, à la fin d'une année d'imposition donnée se terminant dans les quatre ans après l'acquisition, bénéficieraient de pertes déductibles et d'autres déductions dans le calcul de leur revenu ou revenu imposable et obtiendraient des crédits d'impôt supérieurs au montant de leur investissement. Le fait que Mme Maege ne se soit pas fait de déclaration à elle-même au sujet de Botanical Technologies n'est pas pertinent. Elle s'attendait à ce que des conséquences fiscales avantageuses découlent de ses investissements dans la société de personnes. M. Jevremovic savait lui aussi que l'investissement était un abri fiscal.
+[45] Les appels de Mme Maege pour les années 1990 et 1991 et l'appel de M. Jevremovic pour l'année 1990 sont rejetés. L'appel de Mme Maege pour l'année 1992 est acceuilli et l'affaire est déférée au ministre dans l'unique but de faire en sorte que soit accordée à Mme Maege une déduction pour gains en capital de 35 700 $, le tout avec dépens à l'intimée.
+Signé à Ottawa, Canada, ce 28e jour de avril 2006.
+« Gerald J. Rip »
+Juge Rip
+RÉFÉRENCE : 2006CCI117
+NOS DES DOSSIERS : 2002-2332(IT)G et 2002-2450(IT)G
+INTITULÉ DE LA CAUSE : Norma Maege c. Sa Majesté la Reine et Lazar Jevremovic c. Sa Majesté la Reine
+LIEU DE L'AUDIENCE : Montréal (Québec)
+DATE DE L'AUDIENCE : Le 1er décembre 2005
+MOTIFS DU JUGEMENT
+MODIFIÉS PAR: L'honorable juge Gerald J. Rip
+DATE DU JUGEMENT
+MODIFIÉ : Le 28 avril 2006
+COMPARUTIONS :
+Avocat des appelants :
+Me Serge Fournier
+Avocate de l'intimée :
+Me Anne-Marie Boutin
+AVOCATS INSCRITS AU DOSSIER :
+Pour les appelants :
+Nom : Me Serge Fournier
+Cabinet : Brouillette Charpentier Fortin
+Montréal (Québec)
+Pour l'intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Mme Gendron avait préparé pour l'audience des annexes pour les années de 1989 à 1992 inclusivement, faisant état des montants investis, des revenus, des dépenses de R & D, des pertes indiquées pour la réclamation des crédits d'impôt du Québec et des crédits d'impôt fédéraux demandés pour la société de personnes et pour chaque associé. Les annexes étaient appuyées par des pièces produites lors de l'audience.
+[2] 3e éd. vol. II, Oxford Clarendon Press.
+[3] Le Petit Robert : Dictionnaire alphabétique et analogique de la langue française, Montréal, DICOROBERT Inc., 1993.
+[4] [2000] O.J. no 3517 (QL), paragraphe 19.
+[5] 99 DTC 1275 (anglais : 2000 DTC 1585) paragraphe 46.
+[6] Précité, note 2.
+[7] Précité, note 2.

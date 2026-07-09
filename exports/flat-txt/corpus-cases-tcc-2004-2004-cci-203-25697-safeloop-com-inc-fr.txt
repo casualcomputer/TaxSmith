@@ -1,0 +1,87 @@
+Title: Safeloop.Com Inc.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25697/index.do
+Corpus path: corpus/cases/tcc/2004/2004-cci-203-25697-safeloop-com-inc-fr.md
+Document type: case_law
+Last modified: 2004-03-05
+
+# Safeloop.Com Inc.
+
+- Citation: 2004 CCI 203
+- Decision date: 2004-03-05
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3790, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Safeloop.Com Inc.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-03-05
+Référence neutre
+2004 CCI 203
+Numéro de dossier
+2003-3282(GST)I
+Juges et Officiers taxateurs
+Louise Lamarre Proulx
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2003-3282(GST)I
+ENTRE :
+SAFELOOP.COM INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu à Montréal (Québec), le 23 février 2004
+et jugement rendu oralement le 24 février 2004.
+Devant : L’honorable Louise Lamarre Proulx
+Comparutions :
+Représentant de l’appelante :
+M. A.M. Butler
+Avocat de l’intimée :
+Me Claude Lamoureux
+____________________________________________________________________
+JUGEMENT
+L’appel de la cotisation relative à la taxe sur les produits et services établie conformément à la Loi sur la taxe d’accise (la « Loi »), dont l’avis est daté du 20 juin 2003 et porte le numéro 04BP‑118940139, est accueilli, sans qu’aucuns dépens ne soient adjugés, et la cotisation est renvoyée au ministre du Revenu national pour nouvel examen et nouvelle cotisation compte tenu de ce qui a été admis au paragraphe 10 de la réponse à l’avis d’appel, à savoir que l’appelante devrait avoir droit à un montant additionnel de 11,79 $ au titre du crédit de taxe sur les intrants.
+L’appelante n’a droit à aucune autre réparation.
+Signé à Ottawa, Canada, ce 5e jour de mars 2004.
+« Louise Lamarre Proulx »
+Juge Lamarre Proulx
+Traduction certifiée conforme
+ce 1er jour d’avril 2005.
+Jacques Deschênes, traducteur
+Référence : 2004CCI203
+Date : 20040305
+Dossier : 2003-3282(GST)I
+ENTRE :
+SAFELOOP.COM INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Lamarre Proulx
+[1] Il s’agit d’un appel interjeté sous le régime de la procédure informelle à l’égard d’une nouvelle cotisation établie par le ministre du Revenu national (le « ministre ») conformément à la Loi sur la taxe d’accise (la « Loi »). L’avis de nouvelle cotisation porte le numéro 04BP‑118940139; il est daté du 20 juin 2003. La période visée par la nouvelle cotisation s’étend du 31 mars 2000 au 30 mars 2002.
+[2] La question en litige porte sur les renseignements dont le ministre peut avoir besoin aux fins du calcul du crédit de taxe sur les intrants (le « CTI ») conformément à l’article 169 de la Loi.
+[3] M. A.M. Butler, secrétaire général de l’appelante, représentait l’appelante dans cette affaire. Il a expliqué que l’appelante exploitait une entreprise de programmation par ordinateur. Il a produit sous la cote A‑1 les factures d’un entrepreneur se rapportant à des services professionnels que celui‑ci avait rendus. La taxe sur les produits et services (la « TPS ») était exigée, le montant s’élevant à 1 350 $ en tout. Toutefois, aucun numéro d’inscription ne figurait sur les factures. Aucune preuve n’a été présentée en vue de montrer qu’il existait un numéro d’inscription valide au moment de la facturation.
+[4] M. Abbey Katiriga Sirivar, agent des appels, a témoigné pour l’intimée. Il a produit sous la cote R‑1 un document de travail dénombrant les déductions demandées par l’appelante aux fins de la détermination du CIT. Les montants afférents au CTI ont en partie été rejetés parce que certaines déductions n’étaient pas accompagnées de pièces justificatives, parce que certaines dépenses n’avaient pas été engagées par l’appelante et, dans un autre cas, parce que le fournisseur des services n’était pas titulaire d’un numéro d’inscription.
+Argumentation et conclusion
+[5] L’avocat de l’intimée a mentionné diverses décisions judiciaires : San Clara Holdings c. Canada, [1994] A.C.I. no 1208, Metro Exteriors Ltd. c. Canada, [1995] A.C.I. no 1302 et Rapid Transit Courrier Ltd. c. Canada, [2000] A.C.I. no 465. Il a dans tous les cas été statué que, pour que l’acquéreur d’un service puisse demander un CTI à l’égard du service acquis, le fournisseur du service doit être inscrit.
+[6] Le représentant de l’appelante a semblé soutenir à un moment donné que le Règlement sur les renseignements nécessaires à une demande de crédit de taxe sur les intrants était ultra vires, ou qu’il ne relevait pas du pouvoir de réglementation conféré par la Loi. À un autre moment, il a semblé soutenir que le montant de la taxe nette qui avait fait l’objet d’une nouvelle cotisation n’était pas exact.
+[7] En ce qui concerne les arguments que l’appelante a invoqués au sujet de la validité du Règlement, je suis convaincue que le Règlement relevait du pouvoir de réglementation conféré au gouverneur en conseil à l’article 277 de la Loi. Quant au montant de la taxe nette qui a fait l’objet d’une nouvelle cotisation, l’appelante n’a soumis aucun élément de preuve contraire.
+[8] Le seul élément de preuve que l’appelante a produit était la pièce A‑1, composée des factures relatives aux services de programmation. Aucun numéro d’inscription ne figurait sur ces factures. La jurisprudence est fort claire et les dispositions de la Loi et du Règlement ne sont pas ambiguës : des pièces justificatives doivent être obtenues et les renseignements doivent contenir, entre autres choses, le numéro d’inscription du fournisseur. L’article 286 de la Loi, qui prévoit que les registres nécessaires doivent être tenus, est également pertinent.
+[9] L’appel est accueilli pour ce qui est de ce qui a été admis au paragraphe 10 de la réponse à l’avis d’appel; la nouvelle cotisation visée par l’appel est par ailleurs maintenue.
+Signé à Ottawa, Canada, ce 5e jour de mars 2004.
+« Louise Lamarre Proulx »
+Juge Lamarre Proulx
+Traduction certifiée conforme
+ce 1er jour d’avril 2005.
+Jacques Deschênes, traducteur

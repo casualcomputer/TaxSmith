@@ -1,0 +1,240 @@
+Title: Massicolli c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30973/index.do
+Corpus path: corpus/cases/tcc/2012/2012-cci-344-30973-massicolli-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2012-10-01
+
+# Massicolli c. La Reine
+
+- Citation: 2012 CCI 344
+- Decision date: 2012-10-01
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4817, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Massicolli c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2012-10-01
+Référence neutre
+2012 CCI 344
+Numéro de dossier
+2009-2575(IT)G
+Juges et Officiers taxateurs
+Brent Paris
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2009-2575(IT)G
+ENTRE :
+CARLO MASSICOLLI,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appels entendus le 21 septembre 2011, à Montréal (Québec).
+Devant : L'honorable juge B. Paris
+Comparutions :
+Avocats de l'appelant :
+Me Serge Racine
+Me David Champagne
+Avocat de l'intimée :
+Me Mounes Ayadi
+____________________________________________________________________
+JUGEMENT
+Les appels interjetés à l’encontre des nouvelles cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 2002, 2003 et 2004 sont accueillis en partie avec dépens à l’intimée et les cotisation sont déférées au ministre du Revenu national pour nouvel examen et nouvelles cotisations en tenant pour acquis que l’appelant a droit aux déductions additionnelles suivantes pour les frais de véhicule :
+2002
+2 786,38 $
+2003
+4 849,57 $
+2004
+4 502,76 $
+et ce, pour tenir compte des rajustements aux déductions pour frais de véhicule consenties par l’intimée.
+Signé à Sherbrooke, Québec, ce 1er jour d’octobre 2012.
+« B.Paris »
+Juge Paris
+Référence : 2012 CCI 344
+Date : 20121001
+Dossier : 2009-2575(IT)G
+ENTRE :
+CARLO MASSICOLLI,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Paris
+[1] Il s’agit d’un appel interjeté à l’égard de nouvelles cotisations établies pour les années d’imposition 2002, 2003 et 2004. En établissant ces cotisations, le ministre du Revenu national (le « ministre ») a refusé des déductions demandées par l’appelant à titre de dépenses d’emploi, soit :
+Description
+2002
+2003
+2004
+Frais de recherche
+s/o
+134 697 $
+152 199 $
+Paiement de redevances
+s/o
+19 222 $
+32 952 $
+Salaire à une adjointe
+19 181 $
+9 522 $
+s/o
+Frais de véhicule à moteur
+12 726 $
+8 448 $
+12 896 $
+[2] À l’audience devant cette Cour, les parties se sont entendues sur le montant des déductions relatives aux frais de véhicule auxquelles l’appelant avait droit pour les trois années en cause, soit :
+2002
+2 786,38 $
+2003
+4 849,57 $
+2004
+4 502,76 $
+[3] L’appelant, pour sa part, ne conteste plus le refus des paiements de redevances.
+[4] Les questions qui restent en litige alors sont de savoir si l’appelant avait droit aux déductions pour les frais de recherche en 2003 et 2004 et pour le salaire versé à une adjointe en 2002 et 2003.
+[5] En ce qui concerne les frais de recherche, il faut déterminer si ces dépenses étaient raisonnables dans les circonstances, en vertu de l’article 67 de la Loi de l’impôt sur le revenu (la « LIR ») qui se lit comme suit :
+Dans le calcul du revenu, aucune déduction ne peut être faite relativement à une dépense à l'égard de laquelle une somme est déductible par ailleurs en vertu de la présente loi, sauf dans la mesure où cette dépense était raisonnable dans les circonstances.
+[6] Quant au salaire versé par l’appelant à sa conjointe, il faut décider si l’appelant était tenu, en vertu de son contrat d’emploi, d’engager ces dépenses qui sont visées au sous-alinéa 8(1)(i)ii) et au paragraphe 8(10) de la LIR qui se lisent comme suit :
+8 (1) Sont déductibles dans le calcul du revenu d'un contribuable tiré, pour une année d'imposition, d'une charge ou d'un emploi ceux des éléments suivants qui se rapportent entièrement à cette source de revenus, ou la partie des éléments suivants qu'il est raisonnable de considérer comme s'y rapportant :
+[…]
+i) Cotisations et autres dépenses liées à l'exercice des fonctions -- dans la mesure où il n'a pas été remboursé et n'a pas le droit d'être remboursé à cet égard, les sommes payées par le contribuable au cours de l'année au titre :
+[…]
+(ii) du loyer de bureau ou du salaire d'un adjoint ou remplaçant que le contrat d'emploi du cadre ou de l'employé l'obligeait à payer,
+[…]
+(10) Attestation de l'employeur -- Un contribuable ne peut déduire un montant pour une année d'imposition en application des alinéas (1)c), f), h) ou h.1) ou des sous-alinéas (1)i)(ii) ou (iii) que s'il joint à sa déclaration de revenu pour l'année un formulaire prescrit, signé par son employeur, qui atteste que les conditions énoncées à la disposition applicable ont été remplies quant au contribuable au cours de l'année.
+[7] À l’audience, seul l’appelant a été appelé à témoigner.
+Faits
+[8] L’appelant a exercé la profession de courtier en valeurs mobilières auprès de la Financière Banque Nationale (« FBN ») du 1er janvier 2002 au 1er octobre 2004, puis auprès de Valeurs mobilières Desjardins (« VMD ») pour le reste de l’année d’imposition 2004.
+[9] Durant ces années, l’appelant a reçu 100 % de sa rémunération sous forme de revenus de commissions, soit 374 477 $ pour l’année d’imposition 2002, 463 510 $ pour l’année d’imposition 2003 et 376 262 $ pour l’année d’imposition 2004.
+[10] À partir de mai 2003, l’appelant s’est associé en affaires avec Mark Auger, un autre conseiller en placements chez FBN. Ils appelaient leur association Auger-Massicolli et, dans ces motifs, je les appellerai « les associés ».
+[11] L’appelant affirme avoir connu un succès considérable en affaires au cours des années 2003 et 2004. Il figurait dans le Top 50 des courtiers de la FBN en termes d’actifs gérés pour les années 2003 et 2004 sur un total d’environ 800 courtiers. Il explique qu’il était important pour lui et M. Auger de faire partie de ce Top 50 pour bénéficier de la visibilité que confère une telle situation. Ils étaient donc soucieux d’atteindre, voire même de dépasser, leurs objectifs en termes d’actifs gérés dans le but de faire partie de ce Top 50 de courtiers. La gestion d’actifs qui représente selon l’appelant environ 80 % des revenus de la FBN.
+[12] La preuve démontre que l’appelant a effectivement connu une progression et a dépassé les objectifs qu’il s’était fixés en 2003. Le rapport de rendement de la FBN de mai 2003 indique que le niveau d’actifs gérés de l’appelant, qui était antérieurement de 70 604 172 $ avait atteint, au moment de la production du rapport, 123 733 248 $, ce qui est largement au‑delà de l’objectif de 80 $M que l’appelant s’était fixé.
+Frais de recherche
+[13] Le plan d’affaires des associés comprenait notamment des communications hebdomadaires avec leurs clients. Cette idée était inspirée d’une session de travail que les associés ont suivie avec une firme américaine (Top Producer) lors de laquelle il était démontré que, plus le courtier établit de contacts avec ses clients, plus les chances de conserver sa clientèle et d’obtenir des noms de clients potentiels sont grandes. Il s’agit de meilleures pratiques que les associés tenaient d’adopter.
+[14] Une façon choisie par les associés d’établir des contacts avec leurs clients était de leur envoyer par la poste des renseignements de nature économique, tels que des rapports de recherche financière ou des articles de journaux et de magazines spécialisés.
+[15] Selon l’appelant, les entreprises de courtage, tant la FBN que VMD, offrent un service d’information à leurs courtiers. Ce service fournit des rapports de recherche que les courtiers peuvent envoyer aux clients. Pourtant, selon l’appelant, le service qu’offrent les entreprises de courtage vise à mousser les produits des institutions financières et les documents qu’elles préparent ont une teneur publicitaire. Cette affirmation serait confirmée par une politique écrite de la FBN :
+« Compte tenu de l’effort de marketing déployé par la compagnie pour la préparation de documents à caractère publicitaire pour notre clientèle de détail, il n’apparaît pas opportun de défrayer le coût des envois massifs («mailing») qu’un conseiller en placement pourrait effectuer à sa clientèle. »
+[16] Quant au coût, l’appelant a expliqué que le premier rapport de recherche financier de la FBN était fourni gratuitement à chacun des courtiers et que tout rapport supplémentaire coûtait 20 $.
+[17] Or, compte tenu de la nature de l’information et du coût de ces services, les associés ont préféré recourir aux services de la société Placements Sydwood Inc. (« Sydwood ») pour obtenir le matériel qu’ils pourraient inclure dans les envois à leurs clients.
+[18] Les actions de Sydwood sont détenues à 50 % par les sociétés contrôlées par M. Auger et à 50 % par une société contrôlée par la Fiducie familiale Massicolli. M. Auger et l’appelant sont également les administrateurs de Sydwood. Les seules employées de Sydwood sont l’épouse de l’appelant, Mme Lafleur, et l’épouse de M. Auger, Mme Wood.
+[19] L’appelant affirme avoir fait affaires avec la compagnie Sydwood pour obtenir de l’information sur divers domaines d’intérêt pour sa clientèle. Sydwood fournissait quant à elle une information indépendante, dans des champs d’activités précis relatifs aux intérêts de leur clientèle du moment. Il s’agissait donc d’un produit adapté à l’investissement de chacun des clients contrairement au produit qu’offrait la FBN.
+[20] Selon la procédure habituelle, l’appelant travaillait davantage avec les clients et ciblait leurs besoins d’information. Il en informait ensuite son associé et demandait à ce que de l’information soit produite sur des sujets d’intérêt particulier. Les associés pouvaient également procéder à une consultation pour se mettre d’accord sur la teneur de la commande qui serait faite auprès de Sydwood. M. Auger se chargeait ensuite de passer la commande chez Sydwood.
+[21] Une fois la demande reçue, les employées effectuaient des recherches sur le domaine ou le sujet donné. Leurs tâches consistaient ainsi à scruter les magazines et les journaux spécialisés, tels que Barron’s, The Economist ou le Financial Post, La Presse, ou The Gazette pour en tirer tous les articles pertinents sur un sujet donné. L’appelant a dit que, s’il était possible de trouver plusieurs articles qui pouvaient intéresser le client, ils les enverraient tous au client.
+[22] Les envois aux clients se faisaient par le service interne chez la FBN, et le coût des envois était facturé aux courtiers par la suite.
+[23] La tarification de Sydwood est fixe : peu importe le volume de travail accompli par la société, elle reçoit chaque mois un montant égal à 0.15 % (15 points de base) du total des actifs générés des deux associés.
+[24] En se basant sur des informations fournies par une certaine Mme Chartier, l’appelant a affirmé que la décision quant à la tarification aurait été prise par M. Auger avant même son association à Sydwood. Aucun détail concernant le rôle de Mme Chartier dans les affaires de Sydwood n’a été fourni à la Cour. L’appelant a expliqué également que les 15 points de base auraient été établis en se fiant aux frais que facturent des cabinets de comptables qui offrent ce service‑là tant aux USA qu’au Canada. L’appelant a affirmé que la compagnie Infinity, par exemple, boîte qui appartient à Ernst and Young, facture le même genre de services pour 15 à 40 points de base. L’appelant a admis ne pas avoir mentionné ce comparatif avec ces autres compagnies à l’interrogatoire préalable.
+[25] Par ailleurs, selon l’appelant, il a toujours soutenu dans ses communications précédentes avec l’ARC et le procureur de l’intimée que les associés faisaient affaire avec Sydwood parce qu’aucune autre compagnie ne fournissait ce même service.
+[26] La part de l’appelant des frais de recherche payés à Sydwood était de l’ordre de 134 697 $ pour les mois de mai à décembre 2003 et de 152 199 $ pour toute l’année 2004.
+[27] Sydwood a versé à Mme Lafleur un salaire de 16 666 $ pour la période de mai à décembre en 2003 et de 24 999 $ en 2004 et un salaire à Mme Wood de 24 999 $ pour chacune des deux années.
+Salaire d’une adjointe
+[28] Au sujet de la dépense de salaire d’une adjointe, l’appelant a déclaré s’être affairé à bâtir sa propre clientèle au cours de la période d’août 2001 à mai 2003 et que c’est dans ce contexte que les services de Mme Lafleur lui étaient utiles. Il aurait agi comme conseiller en placements depuis 1993, mais aurait occupé de 1996 à 2000 le poste de directeur de succursale de la FBN à Pointe-Claire et n’aurait fait alors aucun placement d’affaires. Il a recommencé en 2000 lorsqu’il s’est associé à Michel Lamarre. Cette association a pris fin en août 2001 et il a dû à ce moment bâtir sa propre clientèle. En mai 2003, il s’est associé à nouveau, cette fois à Mark Auger.
+[29] Mme Lafleur, la conjointe de l’appelant, a travaillé au sein de la FBN jusqu’en 2000. Elle effectuait alors principalement des tâches de nature administrative, telles que des suivis téléphoniques, du classement, des photocopies de documents, mais aussi des envois de prospection. En 2000, Mme Lafleur a été congédiée par la FBN au motif que la FBN n’approuvait pas que deux conjoints travaillent dans le même bureau.
+[30] De janvier 2002 à mai 2003, l’appelant a engagé Mme Lafleur comme adjointe personnelle.
+[31] Le salaire de 19 181 $ qu’il lui a versé en 2002 était semblable au salaire qu’elle recevait lorsqu’elle travaillait pour le compte de la FBN. Le salaire de 9 522 $ versé en 2003 a été calculé au prorata puisque Mme Lafleur a été congédiée à la fin avril 2003 et a été engagée le mois suivant par Sydwood.
+[32] L’appelant a affirmé avoir retenu les services de Mme Lafleur dans le but d’atteindre les objectifs d’affaires qu’il s’était fixés. Elle lui fournissait un appui additionnel pour favoriser le développement d’affaires. Ses responsabilités comprenaient la confection de listes de clients potentiels, les envois postaux, les suivis téléphoniques, le classement et l’archivage de dossiers qu’il tenait pour les clients potentiels. Ayant été formée auparavant par la FBN, Mme Lafleur avait développé une certaine expertise en matière financière lui permettant de comprendre les directives qui lui étaient données.
+[33] Selon l’appelant, la prospection qu’effectuait Mme Lafleur était destinée à bâtir sa clientèle. Elle pouvait également effectuer de la recherche dans les journaux sur des domaines particuliers dans le but de faire des envois postaux de prospection. Cette prospection permettait à l’appelant de s’entretenir avec des clients potentiels. En mai 2003, une fois à l’emploi de Sydwood, Mme Lafleur a également effectué de la recherche, mais cette fois dans le but de conserver la clientèle établie/.
+[34] Durant ces années 2002 et 2003, l’appelant avait à sa disposition des adjointes qui lui étaient fournies par la FBN. Il a expliqué en contre-interrogatoire que, durant ces années, la FBN mettait trois adjointes à la disposition de l’appelant et d’un autre conseiller en placement. La moitié du salaire des adjointes et leur bonus étaient payés par les associés alors que l’autre moitié du salaire était payé par la FBN. Ces trois adjointes effectuaient en 2002‑2003 les tâches que Mme Lafleur effectuait lorsqu’elle travaillait auparavant à la FBN.
+[35] Par ailleurs, l’appelant a admis que la FBN n’exigeait pas qu’il embauche à ses propres frais une adjointe supplémentaire; elle le permettait. L’appelant n’avait pas de contrat écrit avec la FBN. Il a fourni en preuve le formulaire T2200 sur lequel la FBN indique que la décision est à la discrétion du conseiller. À son avis, la FBN ne peut obliger les courtiers à engager une adjointe car les courtiers ont tous des modèles d’affaires différents et c’est la raison pour laquelle le formulaire T2200 qui est un formulaire général envoyé à tous les courtiers, porte la mention « à la discrétion ».
+Thèse de l’appelant
+Frais de recherche
+[36] Dans son argumentation, le procureur de l’appelant a soutenu que la Cour, dans le cadre de la détermination du caractère raisonnable ou non de la dépense, ne doit pas prendre en considération le fait que la société Sydwood était liée à ses actionnaires. À ce sujet, il a cité la décision du juge Archambault dans Bertomeu c. R. [1]:
+22 […] Il faut souligner également qu'à l'article 67 il n'est pas question de personnes liées, même si le fait qu'il s'agit de personnes liées a constitué un des facteurs dont a tenu compte le vérificateur du ministre dans l'application de cet article 67.
+[37] Il a affirmé que la société Sydwood était connue du service de la conformité de la FBN et que l’encadrement réglementaire était respecté. Il en a conclu que le service de recherche utilisé par l’appelant était en lien avec le type d’activité qu’il avait exercé au sein de l’institution durant les années 2003 et 2004.
+[38] Faisant référence à la décision dans Bertomeu, le procureur de l’appelant a abordé le principe d’intégration et a tenté d’établir qu’au bout du compte, étant donné la redistribution par voie de dividendes, l’appelant n’épargnait aucun impôt. Or, la preuve ne nous permet pas d’en venir à une telle conclusion.
+[39] Le procureur de l’appelant a ensuite cité l’arrêt Gabco Ltd. c. Le Ministre du Revenu national[2] dans lequel le juge Cattanach de la Cour de l’Échiquier a interprété l’expression « raisonnable dans les circonstances » au sens de l’article 67 :
+[TRADUCTION]
+Il s'agit non pas que le ministre ou notre Cour substitue son jugement [à celui du contribuable] lorsqu'il s'agit de déterminer ce qu'est un paiement raisonnable, mais plutôt que le ministre ou la Cour arrive à la conclusion qu'aucun homme d'affaires raisonnable ne se serait engagé par contrat à verser une telle somme en n'ayant à l'esprit que les intérêts commerciaux de l'appelante.
+[40] Le procureur de l’appelant a affirmé que, selon la jurisprudence, la Cour ne peut se mettre dans les souliers du contribuable et remettre en question son jugement d’affaires. C’est l’utilité du matériel pour le contribuable qu’il faut évaluer. Aussi, dans ce cas-ci, il y aurait un lien entre le revenu de l’appelant et le service associé à la déduction demandée.
+[41] Le procureur de l’appelant soutient que la communication d’informations entre Sydwood et les associés prend la forme d’un abonnement étant donné le taux fixe mensuel de 15 points de base. Cette information permet aux associés de conserver une proximité d’affaires avec leurs clients en leur donnant la possibilité de fournir de l’information à leurs clients et d’ainsi conserver et possiblement d’augmenter les actifs qu’ils gèrent.
+[42] D’ailleurs, la raison première pour laquelle l’appelant aurait décidé de s’associer à M. Auger et d’avoir recours aux services de Sydwood était d’accroître sa prospérité par le truchement d’une meilleure gestion de sa clientèle et d’un accroissement qualitatif des actifs qu’il gérait.
+[43] Le procureur de l’appelant a ajouté que l’expression « raisonnable dans les circonstances » figurant à l’article 67 vise à exclure une dépense engagée par un contribuable motivé par des raisons autres que des raisons d’affaires, telles que des versements de salaires à des membres de sa famille. Ainsi, même une mauvaise appréciation commerciale ne devrait pas être prise en compte pour juger du caractère raisonnable d’une dépense. C’est ce qui ressort de la décision de la juge Woods dans la décision Ankrah c. La Reine[3] :
+34 Dans l'article 67, même si l'expression « raisonnable dans les circonstances » est large, je ne crois pas qu'elle devrait être appliquée pour réduire des dépenses en raison d'une mauvaise appréciation commerciale. L'article 67 s'applique couramment pour réduire le montant des dépenses lorsque le contribuable est poussé en partie par quelque chose d'autre que des raisons d'affaires, comme le versement de salaires à des membres de sa famille. […]
+[44] Le procureur de l’appelant a soutenu également que la nature de l’entreprise doit être pris en compte dans le cadre de l’analyse de l’article 67, citant à l’appui la décision Nielsen Development Co. Ltd. c. R., 2009 CCI 160.
+[45] Il a affirmé que, selon le contexte du travail qu’effectuait l’appelant, il était logique pour celui‑ci d’encourir les frais liés à la recherche puisque cette recherche conférait une valeur ajoutée à ses services. Ces services qui se distinguaient des services qu’offrait la FBN, permettaient aux associés d’établir une relations plus étroite avec leurs clients.
+[46] Le procureur de l’appelant a ajouté que les dépenses correspondantes de Mark Auger ont fait l’objet d’une vérification et ont été acceptées par l’ARC. Sydwood a aussi été fait l’objet d’une vérification et a été qualifiée d’entreprise de prestation de services personnels.
+Dépense de salaire
+[47] Le procureur de l’appelant s’appuie sur la décision de cette Cour dans l’affaire Schnurr c. La Reine[4], où le juge en chef adjoint Bowman (tel était alors son titre) a conclu que le contribuable avait le droit de déduire la dépense de salaire versé à sa conjointe en raison du fait qu’il y avait une obligation implicite dans son contrat d’emploi d’embaucher une adjointe et de lui payer un salaire. Au sujet de cette obligation, le juge a dit :
+9. […] Toutefois, la relation existant entre Nesbitt Thomson et M. Schnurr laissait implicitement entendre que, pour recruter le nombre de clients auquel s’attendait Nesbitt Thomson, M. Schnurr était obligé d’embaucher quelqu’un pour fournir le type de services que sa femme fournissait.
+[48] En l’espèce, le procureur de l’appelant affirme que son client avait une obligation implicite d’embaucher et de payer une adjointe, et que la FBN a accepté que sa conjointe travaille pour le compte de l’appelant.
+[49] Le procureur de l’appelante a admis que la FBN n’exigeait pas formellement de l’appelant qu’il embauche une adjointe supplémentaire et que le formulaire T2200 laissait à la discrétion de M. Massicolli la décision d’engager une adjointe ou non. Or, la preuve a démontré que la FBN avait été mise au courant que l’appelant engageait une adjointe supplémentaire et que cette pratique répondait aux initiatives d’affaires de l’appelant.
+[50] L’appelant n’avait pas de contrat d’emploi écrit avec la FBN. La relation d’affaires se serait donc établie au fil des années entre les parties de façon tacite.
+[51] Ainsi, une fois que Mme Lafleur a été congédiée de la FBN, elle a continué à faire le travail de développement des affaires qu’elle y faisait à partir de chez elle. Il s’agissait d’un service qui n’était pas offert par le service à la clientèle de FBN, ni par Sydwood.
+Analyse
+Frais de recherche
+[52] Il est clair que, dans le cas de l’article 67 de la LIR, la Cour ne peut pas substituer son jugement à celui de l’appelant afin de déterminer si les frais de recherche sont raisonnables ou non. La Cour doit procéder à une analyse objective de la dépense, en tenant compte des intérêts commerciaux de l’appelant. C’est ce qui ressort de l’arrêt Gabco, précité, où le juge Cattanach a énoncé le critère pour l’application du prédécesseur de l’article 67, tel que cité par l’appelant précédemment.
+[53] Ce critère a été adopté par la Cour d’appel fédérale dans l’arrêt Petro‑Canada c. Sa Majesté la Reine[5], quant à l’application de l’article 67 actuel.
+[54] La Cour d’appel fédérale a aussi examiné l’article 67 dans l’arrêt Mohammad v. R. [6], (1997),où il était question de la déductibilité des intérêts payés par le contribuable. La Cour a dit, au paragraphe 28 de cette décision :
+[28] Quand on évalue le caractère raisonnable d'une dépense, on mesure ce caractère raisonnable en termes de grandeur ou de quantum. Bien qu'une telle décision puisse faire intervenir un élément d'appréciation subjective de la part du juge des faits, il faut toujours rechercher un élément objectif. Quand on traite des dépenses d'intérêts, la tâche peut être objectivée assez facilement. Par exemple, le ministre aurait pu contester le montant des intérêts payés sur le prêt de 25 000 $, si le contribuable avait accepté de payer des intérêts excédant les taux du marché. Le caractère raisonnable des frais d'intérêts peut donc être mesuré objectivement, c'est-à-dire par rapport aux taux du marché. [...]
+[55] Il incombait donc à l’appelant d’établir, selon les normes objectives, que les frais de recherche étaient raisonnables. L’auteur Krishna, dans son œuvre, “The Fundamentals of Income Tax Law[7]” disait que l’on détermine la raisonnabilité d’une dépense [TRADUCTION] « en comparant la dépense en question aux montants payés dans des circonstances similaires par des entreprises comparables ».
+[56] En l’espèce, l’appelant a tenté de démontrer que les montants qu’il a payés à Sydwood étaient inférieurs à ce qu’il aurait payé s’il avait acheté les rapports de la FBN à 20 $ l’unité à envoyer à ses clients. L’appelant a aussi suggéré que le matériel qu’il envoyait à ses clients était d’une qualité supérieure aux rapports de la FBN.
+[57] À mon avis, il n’y a pas suffisamment de preuve devant la Cour pour en venir è cette conclusion.
+[58] Tout d’abord, l’appelant n’a produit aucun rapport de la FBN pour pouvoir le comparer aux articles de journaux et de magazines qui lui ont été fournis par Sydwood. Sans pouvoir comparer les produits respectifs, il est impossible d’aborder la question de la valeur des produits ou des services respectifs.
+[59] Une autre allégation, soit que les frais de recherche revenaient à moins cher que l’achat des rapports de la FBN, n’était pas appuyé par la preuve non plus. Pour pouvoir tirer une conclusion à ce sujet, il faudrait connaître le nombre d’envois faits par l’appelant qui ont inclus des articles trouvés par Sydwood.
+[60] L’appelant a estimé qu’il faisait en moyenne 500 envois d’articles trouvés par Sydwood à ses clients par semaine et que les frais hebdomadaires pour bénéficier du service de la FBN auraient été de l’ordre de 10 000 $ (au prix de 20 $ le rapport). Pourtant, les documents produits par l’appelant ne comprenaient que deux registres d’envois postaux aux clients et ces registres indiquaient l’envoi de 227 articles le 2 septembre 2003 et de 43 articles le 25 septembre 2003, respectivement. Cette preuve ne suffit pas à établir que l’appelant faisait des envois hebdomadaires ou qu’il envoyait les articles à autant de clients à la fois qu’il l’a affirmé.
+[61] L’appelant a aussi prétendu que le coût du service fourni par Sydwood était comparable au coût des services semblables offerts par les cabinets comptables au Canada et aux États-Unis. Il a mentionné en particulier la compagnie Infinity, qui appartiendrait à Ernst & Young. Selon l’appelant, Infinity facture le même genre de service au coût de 15 à 40 points de base. Pourtant, ces informations n’ont pas été corroborées; aucun détail de ces services supposément semblables n’a été présenté. Par conséquent, il n’a pas été démontré que les services de Sydwood ressemblaient à ceux d’Infinity.
+[62] Je suis d’accord avec l’avocat de l’intimée que le seul élément révélateur de la valeur des services de Sydwood qui ressort de la preuve est le fait que Sydwood versait des salaires annuels de 24 999 $ aux conjointes de l’appelant et de M. Auger pour faire les recherches chez Sydwood. Elles étaient les deux seules employées de Sydwood et l’appelant a admis qu’aucune expertise n’était nécessaire pour effectuer le travail de recherche. Leur tâche consistait en grande partie à scruter quotidiennement les magazines et journaux spécialisés pour en ressortir de l’information pertinente à caractère économique à la demande de l’appelant et de M. Auger.
+[63] Alors, les frais encourus à Sydwood pour fournir les services de recherche n’étaient que de 50 000 $ par année, ce que l’appelant, en tant qu’administrateur de Sydwood, aurait sûrement su. Ce montant couvrait les services rendus par Sydwood tant à M. Auger qu’à l’appelant.
+[64] En plus des salaires, Sydwood aurait apparemment engagé des frais de bureaux qui se trouvaient dans la résidence de M. Auger et de sa conjointe, et les frais d’abonnement à des magazines et à des journaux. Toutefois, il me semble évident que les dépenses engagées par Sydwood étaient bien inférieures aux montants facturés pour la recherche. L’appelant n’a fourni aucune explication permettant de justifier sa décision de payer à Sydwood un montant nettement excessif par rapport au coût de ses services. Cette décision ne peut pas à mon avis s’expliquer en tenant compte des intérêts commerciaux de l’appelant. L’appelant n’a pas démontré qu’il y avait des facteurs commerciaux qui entraient en jeu autres que le prix et la qualité des services de recherche rendus par Sydwood qui étaient en fait les mêmes services qu’ont rendus Mme Lafleur et Mme Wood à Sydwood. Rien dans la preuve ne suggère que l’interposition de la société Sydwood ajoutait une survaleur à ses services. En l’absence d’une telle explication, il n’a pas été démontré que cette décision résultait de l’exercice de son jugement commercial, et le refus du ministre de permettre la déduction de la dépense ne peut être caractérisé comme une substitution par le ministre de son jugement à celui de l’appelant.
+[65] Sur cette première question, l’appelant ne s’est pas acquitté du fardeau qui lui appartenait de prouver que les frais de recherche étaient raisonnables dans les circonstances.
+Salaire d’une adjointe
+[66] Il ressort de la jurisprudence que l’obligation d’embaucher et de payer le salaire d’une adjointe, au sens du sous-alinéa 8(1)i)(ii) de la LIR, peut être implicite, et le caractère essentiel de la dépense suffit à conclure à l’obligation implicite d’embaucher et de rémunérer une adjointe.
+[67] Dans la décision Schnurr, citée par l’avocat de l’appelant, cette Cour a établi qu’il n’est pas nécessaire que l’obligation d’embaucher une adjointe et de payer son salaire soit explicite. L’obligation peut se dégager implicitement de la relation entre l’employeur et l’employé.
+[68] Ce principe de l’exigence implicite a été repris dans les décisions Sauvé c. R.[8], Vickers c. R.[9] et Morgan c. R[10].
+[69] Pourtant, il est important de noter qu’il ne suffit pas que le contrat d’emploi autorise le contribuable à engager et à payer le salaire d’une adjointe. Il doit l’exiger. Dans la décision Morgan, précitée, le juge Bowie a insisté sur le sens du terme « obligeait » au sous‑alinéa 8(1)i)(ii):
+Le verbe « obliger » figurant dans la version française de la Loi et le verbe « to require » employé dans la version anglaise sont tous deux nécessairement impératifs.
+[70] Dans la décision Morgan, le juge Bowie n’a pu conclure à l’existence implicite de l’obligation, l’appelant ayant témoigné que son contrat d’emploi l’autorisait, mais ne l’obligeait pas, à embaucher et à rémunérer une adjointe.
+[71] En l’espèce, l’appelant a témoigné expressément que la FBN n’exigeait pas qu’il embauche et rémunère une adjointe; ce choix était laissé à sa discrétion. La décision Morgan est claire à cet effet : le verbe « obliger » au sous‑alinéa 8(1)i)(ii) est impératif.
+[72] Il me semble également clair que l’embauche d’une adjointe n’était pas essentielle à l’accomplissement de ses fonctions liées à son emploi. La décision d’embaucher Mme Lafleur comme adjointe relevait davantage d’un choix ou d’une préférence que d’une nécessité.
+[73] L’appelant a témoigné que Mme Lafleur lui était particulièrement utile dans un contexte où il s’affairait à se constituer une clientèle. Alors qu’elle se chargeait de la prospection, il pouvait entretenir les relations avec les clients existants. Sa pratique aurait été peut-être plus difficile ou moins efficace sans l’aide de Mme Lafleur, mais l’appelant n’a présenté aucune preuve tendant à démontrer qu’elle était essentielle à l’accomplissement de ses fonctions de courtier ou que ses tâches n’auraient pas pu être accomplies par les adjointes que la FBN mettait à sa disposition.
+[74] D’autre part, il est évident que les formulaires T2200 présentés en preuve sont contradictoires. À la question concernant l’exigence d’embaucher une adjointe, l’employeur a répondu « oui » et a indiqué la mention « à sa discrétion ». Vu cette contradiction, je ne peux accorder aucun poids aux formulaires. De toute façon, le formulaire T2200 ne constitue qu’une preuve prima facie (voir Schnurr et Morgan) et le témoignage de l’appelant lui-même suffit pour réfuter l’allégation que la FBN exigeait l’embauche d’une adjointe.
+[75] Finalement, le fait que le ministre a permis à M. Auger de déduire la totalité de sa part des montants payés à Sydwood en 2003 et 2004 n’est pas pertinente ici. La question du caractère raisonnable est une question de fait (voir Petro‑Canada au paragraphe 64), et doit être décidée selon la preuve produite à l’audition. De plus, l’intimée n’est pas liée par le traitement accordé à M. Auger. La question de cotisations incohérences a été abordée par la Cour d’appel fédérale dans l’arrêt Hawkes c. R.[11], où le juge Strayer a écrit :
+7 J’aimerais souligner tout d’abord que la présente Cour n’a pas d’excuse d’aucune manière les cotisations incohérentes ou les renseignements contradictoires fournis aux contribuables, comme cela est Presque admis en l’espèce. Autant que possible, cette conduite doit à n’en pas douter être évitée pour que les contribuables perçoivent comme juste, équitable et raisonnable dans son application le système auquel on s’attend qu’ils collaborent volontairement..
+8 Toutefois, c’est une toute autre chose que d’affirmer que le ministre est toujours lié par ses propres erreurs. Je ne crois pas qu’il s’agisse d’une règle établie en droit.
+9 La présente Cour a récemment eu l’occasion d’étudier le droit relatif aux cotisations incohérentes dans le cas d’un même contribuable et dans le cas de contribuables différents. Dans Ludmer et al. c. La reine, la Cour a étudié la jurisprudence antérieure et confirmé le principe selon lequel il incombe au ministre d’établir des cotisations, et, au besoin, de nouvelles cotisations, à l’égard des déclarations de revenu des contribuables de sorte d’appliquer correctement le droit aux faits. Si un contribuable n’est pas d’accord avec une cotisation donnée, il a le droit d’interjeter appel à la Cour canadienne de l’impôt, où le droit et les faits peuvent être examinés en détail, et de se pourvoir éventuellement devant la présente Cour. Ainsi, le fait que le ministre a établi à l’égard de la déclaration de revenu d’un contribuable une cotisation différente de celle qu’il a établie à l’égard d’une autre déclaration, ou le fait qu’il a établi des cotisations différentes à l’égard de deux contribuables participant à des activités similaires, ne prouvent pas que l’une des cotisations est inexacte. Il s’agit d’une question à trancher en appel.
+[76] Il en résulte que l’appelant n’a pas le droit de déduire le salaire payé à sa conjointe en 2002 et 2003 dans le calcul de son revenu d’emploi.
+Disposition
+[77] Pour tous ces motifs, les appels seront accueillis en partie seulement pour tenir compte des rajustements aux déductions pour frais de véhicule consenties par l’intimée. Comme l’intimée a obtenu en grande partie gain de cause, elle aura droit à ses dépens.
+Signé à Sherbrooke, Québec, ce 1er jour d’octobre 2012.
+“B. Paris"
+Juge Paris
+RÉFÉRENCE : 2012 CCI 344
+Nº DU DOSSIER DE LA COUR : 2009-2575(IT)G
+INTITULÉ DE LA CAUSE : CARLO MASSICOLLI ET SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATE DE L’AUDIENCE : le 21 septembre 2011
+MOTIFS DU JUGEMENT PAR : L'honorable juge B. Paris
+DATE DU JUGEMENT : le 1er octobre 2012
+COMPARUTIONS :
+Avocat de l'appelant :
+Me Serge Racine
+Me David Champagne
+Avocat de l'intimée :
+Me Mounes Ayadi
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelant:
+Nom : Me Serge Racine
+Me David Champagne
+Cabinet : Séguin Racine
+Laval (Québec)
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] 2006 CCI 85.
+[2] [1968] 2 Ex. C.R. 511, 68 DTC 5210.
+[3] 2003 CCI 413
+[4] 2004 CCI 684.
+[5] 2004 CAF 158 au paragraphe 62.
+[6] [1998] 1 C.F. 165
+[7] 2009 (Carswell Toronto) à la page 286.
+[8] 2006 CCI 528.
+[9] 2004 CCI 678.
+[10] 2007 CCI 475.
+[11] 97 D.T.C. 5060.

@@ -1,0 +1,381 @@
+---
+title: "9231-3303 Québec Inc. c. Le Roi"
+source: "https://norma.lexum.com/tcc-cci/decisions/fr/item/521541/index.do"
+last_modified: "2025-11-26"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2025 CCI 174"
+citation2: ""
+neutral_citation: "2025 CCI 174"
+decision_date: "2025-11-26"
+language: "fr"
+item_id: "521541"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5597
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2025-12-03T09:02:02.248000+00:00"
+cases_cited_count: 36
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "f6e0ebf599a22e1a5d7c726eeb259ae4ef38f20b36894b5bdd90f6a53d66523c"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# 9231-3303 Québec Inc. c. Le Roi
+
+- Citation: 2025 CCI 174
+- Decision date: 2025-11-26
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5597, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+9231-3303 Québec Inc. c. Le Roi
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2025-11-26
+Référence neutre
+2025 CCI 174
+Numéro de dossier
+2021-2024(GST)G
+Juges et Officiers taxateurs
+Dominique Lafleur
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2021-2024(GST)G
+ENTRE :
+9231-3303 QUÉBEC INC.,
+appelante,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+Requête présentée par voie d’observations écrites, à Ottawa (Ontario)
+Devant : L’honorable juge Dominique Lafleur
+Comparutions :
+Avocat de l’appelante :
+Me Jean-François Goulet
+Avocat de l’intimée :
+Me Julien Vailles
+Me Nadja Chatelois
+ORDONNANCE
+VU l’avis de requête de l’intimé (la « requête ») du 12 août 2025 afin d’obtenir une ordonnance radiant l’avis d’appel amendé incluant une réplique déposé le 5 août 2025 (l’« avis d’appel amendé »), ou subsidiairement, radiant certaines allégations contenues à l’avis d’appel amendé conformément aux principes contenus aux articles 45 et 53, ainsi qu’aux paragraphes 100(1) et 111(2) des Règles de la Cour canadienne de l’impôt (procédure générale) (les « Règles »), à savoir :
+i) les paragraphes 11, 13, 14, 16, 35, 36, 37, 38, 39, 44 et 86 de l’avis d’appel amendé, de même que les intertitres « Dommages et Réplique » et « Réplique » entre les paragraphes 40 et 41 de l’avis d’appel amendé conformément aux principes de l’article 45 des Règles;
+ii) les paragraphes 19, 20, 21, 22 et 31 de l’avis d’appel amendé conformément aux alinéas 53(1)a) et d) des Règles;
+iii) les paragraphes 17, 18, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 77 et 78 de l’avis d’appel amendé conformément aux principes de l’article 111(2) des Règles;
+iv) les paragraphes 31, 32, 77 et 78 de l’avis d’appel amendé conformément aux alinéas 53(1)b) et c) des Règles et aux principes de l’alinéa 100(1) des Règles;
+v) les paragraphes 12, 41,42, 43, 44, 77, 78, 79, 80, 82, 83, 84 et 88 de l’avis d’appel amendé ainsi que les intertitres « Dommages et Réplique » entre les paragraphes 40 et 41, « Dommages » entre les paragraphes 76 et 77 de l’avis d’appel amendé conformément aux alinéas 53(1)b), c) et d) des Règles;
+vi) les paragraphes 54, 55, 56, 57 et 58 de l’avis d’appel amendé et l’intertitre « Nouveau système de vérification » entre les paragraphes 53 et 54 de l’avis d’appel amendé conformément aux alinéas 53(1)a) et b) des Règles;
+vii) le paragraphe 88 de l’avis d’appel amendé conformément aux alinéas 53(1)c) et d) des Règles;
+viii) le paragraphe 90 de l’avis d’appel amendé conformément aux alinéas 53(1)b) et d) des Règles; et
+ix) le paragraphe 84 ainsi que la conclusion intitulée « ORDONNER le remboursement de toutes les sommes versées par l’Appelante à l’intimé en vertu de P-1 » de l’avis d’appel amendé conformément aux alinéas 53(1)c) et d) des Règles.
+VU les documents déposés au dossier et la demande que la requête soit tranchée sur dossier sans comparution des parties;
+ET VU les observations écrites des parties;
+LA COUR ORDONNE CE QUI SUIT :
+1. Pour les motifs ci-joints :
+a) La requête de l’intimé est accueillie en partie et des dépens sous forme d’une somme globale de 1 000 $ sont adjugés à l’intimé pour la requête, payables immédiatement, quelle que soit l’issue de la cause;
+b) Les paragraphes suivants de l’avis d’appel amendé ainsi que les intertitres et conclusion suivants doivent être radiés :
+(i) les paragraphes 11, 12, 13, 14, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 35, 36, 37, 38, 39, 41, 42, 43, 44, 54, 55, 56, 57, 58, 77, 78, 79, 80, 82, 83, 84, 86, 88 et 90;
+(ii) les intertitres « Dommages et Réplique » et « Réplique » entre les paragraphes 40 et 41;
+(iii) l’intertitre « Nouveau système de vérification » entre les paragraphes 53 et 54;
+(iv) l’intertitre « Dommages » entre les paragraphes 76 et 77; et
+(v) la conclusion intitulée « ORDONNER le remboursement de toutes les sommes versées par l’Appelante à l’intimé en vertu de P-1 »;
+c) Vu les lacunes très importantes de l’avis d’appel amendé, l’avis d’appel amendé est radié dans son intégralité;
+d) Au plus tard le 9 janvier 2026, l’appelante doit déposer et signifier un nouvel avis d’appel amendé conforme à la formule 21(1)a) (Avis d’appel – Procédure générale) des Règles, afin de se conformer à l’alinéa 21(1)a) des Règles. Plus particulièrement, l’appelante doit décrire les faits pertinents invoqués et doit clairement décrire les questions soulevées et la cotisation faisant l’objet de l’appel. Également, le nouvel avis d’appel amendé ne doit contenir aucun des allégués qui sont radiés selon les présents motifs joints à la présente ordonnance;
+e) Si le nouvel avis d’appel amendé contient l’un ou l’autre des allégués ci-dessus qui ont été radiés de l’avis d’appel amendé, l’appel sera automatiquement rejeté, sans que l’intimé n’ai à produire de requête;
+2. Au plus tard 60 jours après que le nouvel avis d’appel amendé lui a été signifié, l’intimé doit déposer et signifier une réponse au nouvel avis d’appel amendé, le cas échéant;
+3. Les parties doivent déposer un nouvel échéancier pour fixer les prochaines étapes de cet appel au plus tard le 31 mars 2026.
+Signé ce 26e jour de novembre 2025.
+« Dominique Lafleur »
+Juge Lafleur
+Référence : 2025 CCI 174
+Date : 20251126
+Dossier : 2021-2024(GST)G
+ENTRE :
+9231-3303 QUÉBEC INC.,
+appelante,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+MOTIFS DE L’ORDONNANCE
+Juge Lafleur
+I. La requête [1] L’intimé a déposé un avis de requête (la « requête ») du 12 août 2025 afin d’obtenir une ordonnance visant à radier l’avis d’appel amendé incluant une réplique déposé le 5 août 2025 (l’« avis d’appel amendé »), ou subsidiairement, radiant certaines allégations contenues à l’avis d’appel amendé conformément aux principes contenus aux articles 45 et 53, ainsi qu’aux paragraphes 100(1) et 111(2) des Règles de la Cour canadienne de l’impôt (procédure générale) (les « Règles »), à savoir :
+i) les paragraphes 11, 13, 14, 16, 35, 36, 37, 38, 39, 44 et 86 de l’avis d’appel amendé, de même que les intertitres « Dommages et Réplique » et « Réplique » entre les paragraphes 40 et 41 de l’avis d’appel amendé conformément aux principes de l’article 45 des Règles;
+ii) les paragraphes 19, 20, 21, 22 et 31 de l’avis d’appel amendé conformément aux alinéas 53(1)a) et d) des Règles;
+iii) les paragraphes 17, 18, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 77 et 78 de l’avis d’appel amendé conformément aux principes de l’article 111(2) des Règles;
+iv) les paragraphes 31, 32, 77 et 78 de l’avis d’appel amendé conformément aux alinéas 53(1)b) et c) des Règles et aux principes de l’alinéa 100(1) des Règles;
+v) les paragraphes 12, 41,42, 43, 44, 77, 78, 79, 80, 82, 83, 84 et 88 de l’avis d’appel amendé ainsi que les intertitres « Dommages et Réplique » entre les paragraphes 40 et 41, « Dommages » entre les paragraphes 76 et 77 de l’avis d’appel amendé conformément aux alinéas 53(1)b), c) et d) des Règles;
+vi) les paragraphes 54, 55, 56, 57 et 58 de l’avis d’appel amendé et l’intertitre « Nouveau système de vérification » entre les paragraphes 53 et 54 de l’avis d’appel amendé conformément aux alinéas 53(1)a) et b) des Règles;
+vii) le paragraphe 88 de l’avis d’appel amendé conformément aux alinéas 53(1)c) et d) des Règles;
+viii) le paragraphe 90 de l’avis d’appel amendé conformément aux alinéas 53(1)b) et d) des Règles; et
+ix) le paragraphe 84 ainsi que la conclusion intitulée « ORDONNER le remboursement de toutes les sommes versées par l’Appelante à l’intimé en vertu de P-1 » de l’avis d’appel amendé conformément aux alinéas 53(1)c) et d) des Règles.
+II. Conclusion [2] La requête est accueillie en partie. Des dépens sous forme d’une somme globale de 1 000 $ sont adjugés à l’intimé pour la requête, payables immédiatement, quelle que soit l’issue de la cause.
+[3] L’avis d’appel amendé est radié dans son intégralité, vu l’ampleur des lacunes de l’avis d’appel amendé, puisque tous les paragraphes suivants de l’avis d’appel amendé ainsi que les intertitres et conclusion suivants doivent être radiés :
+a) les paragraphes 11, 12, 13, 14, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 35, 36, 37, 38, 39, 41, 42, 43, 44, 54, 55, 56, 57, 58, 77, 78, 79, 80, 82, 83, 84, 86, 88 et 90;
+b) les intertitres « Dommages et Réplique » et « Réplique » entre les paragraphes 40 et 41;
+c) l’intertitre « Nouveau système de vérification » entre les paragraphes 53 et 54;
+d) l’intertitre « Dommages » entre les paragraphes 76 et 77; et
+e) la conclusion intitulée « ORDONNER le remboursement de toutes les sommes versées par l’Appelante à l’intimé en vertu de P-1 ».
+[4] Au plus tard 60 jours suivant la date de la présente ordonnance, l’appelante doit déposer et signifier un nouvel avis d’appel amendé conforme à la formule 21(1)a) (Avis d’appel – Procédure générale) des Règles, afin de se conformer à l’alinéa 21(1)a) des Règles. Plus particulièrement, l’appelante doit décrire les faits pertinents invoqués et doit clairement décrire les questions soulevées et la cotisation faisant l’objet de l’appel.
+[5] Le nouvel avis d’appel amendé ne doit contenir aucun des allégués qui sont radiés selon les présents motifs. Si le nouvel avis d’appel amendé contient l’un ou l’autre des allégués ci-dessus qui ont été radiés de l’avis d’appel amendé, l’appel sera automatiquement rejeté, sans que l’intimé n’ai à produire de requête.
+III. Faits et historique de l’appel logé à la Cour [6] L’appelante en appelle de la cotisation établie en vertu de la Partie IX de la Loi sur la taxe d’accise (LRC (1985), c. E-15 (la « LTA »)) par le ministre du Revenu national (le « ministre ») par l’entremise de l’Agence du revenu du Québec, dont l’avis est daté du 5 octobre 2020, pour les périodes comprises entre le 1er octobre 2012 et le 30 juin 2019.
+[7] Selon cette cotisation, des rajustements aux calculs de la taxe nette déclarée par l’appelante totalisant 322 382,60 $ ont été effectués. Ces rajustements concernent des crédits de taxe sur intrants demandés par l’appelante qui ont été refusés par le ministre au motif qu’ils ont été obtenus sans droit. Également, le ministre a imposé des pénalités totalisant 80 595,57 $ selon l’article 285 de la LTA et des intérêts totalisant 98 405,67 $ selon l’article 280.
+[8] Le 12 août 2021, un avis d’appel a été déposé à la Cour.
+[9] Le 25 août 2022, la Cour a émis une ordonnance d’échéancier pour établir les étapes du dossier.
+[10] Par suite de la tenue d’une audience de justification le 2 novembre 2023, la Cour a émis le 30 janvier 2024 une seconde ordonnance d’échéancier fixant les étapes du dossier.
+[11] Une première demande de modification des échéanciers a été faite par l’appelante vers le 25 octobre 2024, afin d’obtenir une prorogation du délai pour l’exécution des engagements pris aux interrogatoires préalables, qui devaient être terminés au plus tard le 3 juin 2024. Par lettre datée du 4 décembre 2024, la Cour a avisé l’appelante qu’elle devait procéder par voie de requête et déclaration sous serment, puisque l’échéancier était caduc, le tout conformément à la Directive sur la procédure No 14.
+[12] Le 30 janvier 2024, l’appelante a procédé par voie de requête en bonne et due forme demandant une modification de l’échéancier.
+[13] Par la suite, la Cour a émis une troisième ordonnance d’échéancier datée du 7 mars 2025, ordonnant à l’appelante de signifier et déposer un avis d’appel amendé au plus tard le 15 mars 2025. Également, la Cour a ordonné que l’interrogatoire au préalable soit complété au plus tard le 15 avril 2025, que les engagements soient remplis au plus tard le 16 juin 2025 et que les parties communiquent avec la Cour au plus tard le 15 août 2025 pour fixer l’audition de l’appel.
+[14] Alors que l’appelante devait signifier et déposer un avis d’appel amendé au plus tard le 15 mars 2025, ce n’est que le 5 août 2025 que l’avis d’appel amendé a été signifié et déposé à la Cour. Aucune requête accompagnée de déclaration sous serment demandant une prorogation de délai pour signifier et déposer cet avis d’appel amendé n’a été produite comme le prévoit la Directive sur la procédure No 14, bien que le délai fixé pour signifier et déposer un avis d’appel amendé était expiré depuis quasiment 5 mois.
+IV. Positions des parties [15] L’intimé demande la radiation de l’avis d’appel amendé au motif que l’appelante n’a pas demandé par voie de requête, accompagnée d’une déclaration sous serment, une prorogation du délai pour signifier et produire l’avis d’appel amendé conformément à la Directive sur la procédure No 14. Selon l’intimé, puisque le délai fixé par la Cour pour signifier et produire l’avis d’appel amendé était expiré, l’appelante devait se conformer à cette Directive.
+[16] Subsidiairement, l’intimé demande la radiation de certains paragraphes de l’avis d’appel amendé, au motif que ces paragraphes peuvent compromettre ou retarder l’instruction équitable de l’appel, qu’ils sont scandaleux, frivoles ou vexatoires, qu’ils constituent un recours abusif à la Cour et qu’ils ne révèlent aucun moyen raisonnable d’appel, conformément au paragraphe 53(1) des Règles.
+[17] Selon l’appelante, elle a déposé un avis d’appel amendé dès que les circonstances le lui ont permis, citant les vacances du temps des fêtes, les vacances estivales, de même que les diverses obligations personnelles et professionnelles de son procureur faisant en sorte que l’appelante était dans l’impossibilité en fait d’agir pour signifier et produire un avis d’appel amendé au plus tard le 15 mars 2025.
+[18] Également, bien que la signification et la production de l’avis d’appel amendé ont été faites sans respecter l’échéancier fixé par la Cour, l’appelante prétend que l’intimé n’a pas été pris par surprise, sachant depuis longtemps que l’appelante avait l’intention de produire un tel avis d’appel amendé. De plus, l’appelante prétend que l’affaire n’a pas encore été fixée pour audition et qu’il demeure d’autres étapes à franchir avant que le dossier ne soit prêt pour audition au mérite.
+[19] Finalement, selon l’appelante, l’avis d’appel amendé n’est aucunement scandaleux, frivole ou vexatoire et c’est à tort que l’intimé peut prétendre que l’avis d’appel amendé ne révèle aucun moyen raisonnable d’appel. Ainsi, selon l’appelante, la Cour doit accepter l’avis d’appel amendé, puisque cela ne risque aucunement de compromettre ou de retarder l’instruction équitable de l’appel.
+V. Les principes généraux applicables aux actes de procédure à la Cour et leur radiation A. Format des avis d’appel [20] Conformément à l’article 17.2 de la Loi sur la Cour canadienne de l’impôt, L.R.C. (1985), ch. T-2 (la « Loi sur la CCI »), toute personne voulant interjeter appel devant la Cour selon la procédure générale doit déposer un acte introductif d’instance établi selon les Règles et le modèle prévu par ces Règles, en plus de payer les droits applicables.
+[21] Les dispositions pertinentes des Règles sont les suivantes :
+21 (1) Dépôt — Toute instance régie par la procédure générale prévue dans la Loi s’introduit par dépôt au greffe d’un acte introductif d’instance établi selon l’une des formules suivantes :
+a) formule 21(1)a) en cas d’appel formé contre une cotisation établie en application de la Loi de l’impôt sur le revenu [...]
+[...]
+48 Règles applicables à l’avis d’appel — L’avis d’appel doit se conformer aux formules 21(1)a), d), e) ou f).
+21 (1) Filing — Every proceeding to which the general procedure in the Act applies shall be instituted by filing an originating document in the Registry
+(a) in Form 21(1)(a) in the case of an appeal from an assessment under the Income Tax Act [...]
+[...]
+48 Rules of Pleadings — Applicable to Notice of Appeal — Every notice of appeal shall be in Form 21(1)(a), (d), (e) or (f).
+[22] La formule 21(1)a) s’applique aux fins d’un appel en vertu de la Loi et est reproduite ci-dessous :
+[23] Comme la Cour l’a déclaré dans la décision Kondur c. La Reine, 2015 CCI 318 (au par. 19) :
+Selon la procédure générale, l’avis d’appel, ou toute version modifiée de celui-ci, doit obligatoirement contenir tous les renseignements prescrits à la formule 21(1)a) [...] Il ne s’agit pas que d’une simple formalité. Ces exigences visent à s’assurer que les points en litige sont définis de façon appropriée pour la communication préalable et l’instruction, de façon à ce que l’intimée sache à quels arguments elle doit répondre : Bibby c. La Reine, 2009 CCI 588.
+B. Principes des actes de procédure [24] L’objet des actes de procédure est « de définir les questions faisant l’objet du litige entre les parties aux fins de production, de communication préalable ainsi qu’en prévision du procès » (voir Zelinski c. La Reine, 2001 CanLII 406 (C.C.I.) [Zelinski], par. 4 (conf. par 2002 CAF 330); voir aussi Beima c. Canada, 2016 CAF 205, [Beima] (par. 17), et Husky Oil Operations Limited c. La Reine, 2019 CCI 136 [Husky Oil] (par. 11)).
+[25] Les actes de procédure doivent contenir un exposé concis des faits pertinents sur lesquels se fonde une partie. La Cour d’appel fédérale dans la décision Beima (au par. 17), a cité avec approbation les paragraphes 4 et 5 de la décision de notre Cour dans Zelinski (aux par. 4-5) :
+4. [...] Les faits pertinents sont ceux qui, dans l’éventualité où ils sont établis au cours du procès, concourront à démontrer que la partie ayant déposé l’acte de procédure a droit au redressement demandé. [...]
+5. Le principe applicable est formulé ainsi par Holmsted et Watson :
+[traduction]
+Il s’agit de la grande règle en matière d’actes de procédure; toutes les autres règles sont essentiellement des règles accessoires ou des réserves à cette règle de base selon laquelle le plaideur doit exposer les faits pertinents sur lesquels il fonde sa demande ou sa défense. La règle comporte quatre composantes distinctes : (1) chaque acte de procédure doit exposer des faits et non pas simplement des conclusions de droit; (2) il doit exposer les faits pertinents et ne pas contenir de faits dénués de pertinence; (3) il doit exposer des faits, non les éléments de preuve qui serviront à étayer ces faits; (4) il doit exposer les faits avec concision.
+[Non souligné dans l’original.]
+[26] Les actes de procédures doivent être concis. Il faut éviter la répétition, puisque les actes de procédure ne doivent contenir que les faits pertinents sur lesquels est fondée la demande ou la défense, et qui donnent un aperçu de la cause (Strother c. La Reine, 2011 CCI 251 [Strother], par. 39 et 40).
+[27] Il est également important que les actes de procédure soient équilibrés et qu’ils fassent preuve d’une certaine équité (Canadian Imperial Bank of Commerce v. The Queen, 2011 TCC 568 [CIBC CCI], par. 38).
+C. Radiation des actes de procédure [28] Le pouvoir de radier en tout ou en partie un acte de procédure est prévu à l’article 53 des Règles. Cet article est libellé ainsi :
+53 (1) La Cour peut, de son propre chef ou à la demande d’une partie, radier un acte de procédure ou tout autre document ou en supprimer des passages, en tout ou en partie, avec ou sans autorisation de le modifier parce que l’acte ou le document :
+a) peut compromettre ou retarder l’instruction équitable de l’appel;
+b) est scandaleux, frivole ou vexatoire;
+c) constitue un recours abusif à la Cour;
+d) ne révèle aucun moyen raisonnable d’appel ou de contestation de l’appel.
+(2) Aucune preuve n’est admissible à l’égard d’une demande présentée en vertu de l’alinéa (1)d).
+(3) À la demande de l’intimé, la Cour peut casser un appel si :
+a) elle n’a pas compétence sur l’objet de l’appel;
+b) une condition préalable pour interjeter appel n’a pas été satisfaite;
+c) l’appelant n’a pas la capacité juridique d’introduire ou de continuer l’instance.
+53 (1) The Court may, on its own initiative or on application by a party, strike out or expunge all or part of a pleading or other document with or without leave to amend, on the ground that the pleading or other document
+(a) may prejudice or delay the fair hearing of the appeal;
+(b) is scandalous, frivolous or vexatious;
+(c) is an abuse of the process of the Court; or
+(d) discloses no reasonable grounds for appeal or opposing the appeal.
+(2) No evidence is admissible on an application under paragraph (1)(d).
+(3) On application by the respondent, the Court may quash an appeal if
+(a) the Court has no jurisdiction over the subject matter of the appeal;
+(b) a condition precedent to instituting an appeal has not been met; or
+(c) the appellant is without legal capacity to commence or continue the proceeding.
+[29] Dans l’arrêt R. c. Imperial Tobacco Canada, 2011 CSC 42, la Cour suprême du Canada a établi les principes en matière de radiation d’une demande en justice. Selon la Cour suprême du Canada, la requête en radiation ne doit pas être accueillie à la légère et représente « une importante mesure de gouverne judiciaire essentielle à l’efficacité et à l’équité des procès » et « permet d’élaguer les litiges en écartant les demandes vaines et en assurant l’instruction des demandes susceptibles d’être accueillies » (par. 19).
+[30] Ainsi, le critère développé par la Cour suprême pour la radiation d’une demande en justice est le suivant (au par. 21) :
+[...] Le tribunal doit plutôt se demander si, dans l’hypothèse où les faits allégués seraient avérés, il est raisonnablement possible que l’action soit accueillie. L’approche doit être généreuse et permettre, dans la mesure du possible, l’instruction de toute demande inédite, mais soutenable.
+[31] À mon avis, ces principes s’appliquent autant dans le cas de radiation d’un acte de procédure que dans le cas où une partie cherche à faire radier certains passages d’un acte de procédure.
+[32] Le critère pour accueillir une requête en radiation est rigoureux. La Cour ne doit radier tout ou partie d’un acte de procédure que s’il est évident et manifeste, notamment, qu’il ne révèle aucun moyen raisonnable d’appel et que l’appel n’a aucune chance d’être accueilli (Main Rehabilitation Co. Ltd. c. La Reine, 2004 CAF 403, au par. 3).
+[33] Afin de déterminer si tout ou partie d’un acte de procédure doit être radié, les faits exposés dans l’acte sont tenus pour avérés. La Cour n’entend aucun témoignage. Comme l’a précisé notre Cour dans l’affaire 881751 Ontario Limited c. La Reine, Roy c. La Reine, 2021 CCI 9 [881751 Ontario] (au par. 15) :
+[...] L’approche de la Cour doit être généreuse et permettre, dans la mesure du possible, l’instruction de toute demande inédite, mais défendable. Ce n’est pas la mission du juge des requêtes de décider si un argument mérite d’être examiné, ou d’en arriver à une conclusion concernant une question litigieuse sur l’interprétation de la loi. Par conséquent, pour qu’une requête en radiation puisse être accueillie, l’irrégularité ou la non-pertinence doit être évidente et manifeste au premier coup d’œil.
+[34] Également, pour que la Cour refuse l’autorisation de modifier un acte de procédure, il faut que les passages ne puissent être corrigés par une modification (Collins c. La Reine, 2011 CAF 140, au par. 26, et Simon c. Canada, 2011 CAF 6, au par. 8 [Simon]).
+[35] Dans la décision Sentinel Hill Productions (1999) Corporation c. La Reine, 2007 CCI 742 [Sentinel Hill], la Cour a énoncé les principes bien établis à appliquer dans le cadre d’une requête en radiation en vertu de l’article 53 des Règles (au par. 4) :
+[4] [...] La question a été examinée dans de nombreuses décisions de la Cour et de la Cour d’appel fédérale. Il n’est pas nécessaire de les citer toutes étant donné que les principes sont bien établis.
+a) Les faits allégués dans l’acte de procédure contesté doivent être considérés comme exacts sous réserve des limites énoncées dans l’arrêt Operation Dismantle Inc. c. Canada, [1985] 1 R.C.S. 441, à la page 455. Il n’est pas loisible à la partie qui attaque un acte de procédure en vertu de l’article 53 des Règles de contester des assertions de fait.
+b) Pour qu’un acte de procédure soit radié, en tout ou en partie, en vertu de l’article 53 des Règles, il doit être évident et manifeste que la position qui est prise n’a aucune chance de succès. Il s’agit d’un critère rigoureux et il faut faire preuve d’énormément de prudence en exerçant le pouvoir conféré en matière de radiation d’un acte de procédure.
+c) Le juge des requêtes doit éviter d’usurper les fonctions du juge du procès en tirant des conclusions de fait ou en se prononçant sur la pertinence. Il faut laisser de telles questions à l’appréciation du juge qui entend la preuve.
+[36] Plus récemment, dans l’arrêt Ereiser c. Canada, 2013 CAF 20 [Ereiser], la Cour d’appel fédérale a réitéré ces principes bien établis :
+[17] Le critère relatif à la radiation d’actes de procédure n’est pas controversé entre les parties. Se prononçant pour la Cour suprême du Canada par l’arrêt R. c. Imperial Tobacco Canada Ltée, 2011 CSC 42, au paragraphe 17, [2011] 3 R.C.S. 45, la juge en chef McLachlin l’a explicité de nouveau :
+[…] l’action ne sera rejetée que s’il est évident et manifeste, dans l’hypothèse où les faits allégués seraient avérés, que la déclaration ne révèle aucune cause d’action raisonnable : Succession Odhavji c. Woodhouse, 2003 CSC 69, [2003] 3 R.C.S. 263, par. 15; Hunt c. Carey Canada Inc., [1990] 2 R.C.S. 959, p. 980. Autrement dit, la demande doit n’avoir aucune possibilité raisonnable d’être accueillie. Sinon, il faut lui laisser suivre son cours : voir généralement Syl Apps Secure Treatment Centre c. B.D., 2007 CSC 38, [2007] 3 R.C.S. 83; Succession Odhavji; Hunt; Procureur général du Canada c. Inuit Tapirisat of Canada, [1980] 2 R.C.S. 735.
+[37] De plus, notre Cour a récemment repris ces principes dans la décision Lark Investments c. Le Roi, 2024 CCI 30 (aux par. 23-28).
+[38] En ce qui concerne les motifs pour la radiation d’un acte de procédure tel qu’indiqué à l’article 53 des Règles, la jurisprudence a indiqué ce qui suit.
+[39] Un acte de procédure peut compromettre ou retarder l’instruction équitable de l’appel s’il est manifeste et évident que l’acte de procédure allégué n’est pas pertinent quant aux questions à trancher.
+[40] La jurisprudence enseigne également que les actes de procédure qui exposent des faits non pertinents et inappropriés ou qui révèlent des lacunes si importantes qu’ils ne constituent pas un motif d’appel peuvent être radiés parce qu’ils compromettraient la bonne instruction de l’appel (Gauthier (Gisborn) c. La Reine, 2006 CCI 290, au par. 7).
+[41] Comme il est indiqué dans la décision Heron c. La Reine, 2017 CCI 71 (conf. par 2017 CAF 229) :
+[12] Lorsqu’une partie déclare que les allégations ne sont pas pertinentes, le « manque de pertinence ne doit faire aucun doute et, pour ainsi dire, doit sauter aux yeux. Il ne suffit pas que, après moult arguments, il puisse sembler qu’elles ne peuvent être défendues.
+[42] De plus, un acte de procédure est considéré comme frivole ou vexatoire lorsqu’il « comport[e] des erreurs à un point où l[e] défend[eur] ne [peut] savoir comment répondre à la demande. De plus, la Cour serait incapable de diriger ou de gérer l’instance » (Simon, par. 9). Il doit être réservé aux affirmations clairement et manifestement insensées (Sentinel Hill, par. 11).
+[43] Les actes de procédure peuvent également être radiés s’ils ont été déposés « pour teinter l’affaire, ou simplement parce qu’ils sont provocateurs » (Mudge c. La Reine, 2020 CCI 77 [Mudge], par. 20).
+[44] Également, la jurisprudence a établi que les actes de procédures scandaleux « sont des actes de procédure qui sont offensants, ne renvoient pas aux questions en litige et sont abusifs ou préjudiciables » (Mudge, au par. 20).
+[45] En outre, un acte de procédure est considéré comme frivole si, dans l’hypothèse où les faits allégués dans l’acte de procédure sont avérés, il est évident et manifeste que le recours ne peut être accueilli; par exemple, lorsque la « demande ne relève pas de la compétence du tribunal devant lequel elle est présentée, la demande sera radiée pour le motif qu’elle est frivole, étant donné qu’il n’existe aucune cause d’action valable ou qu’elle constitue un abus de procédure » (Canada c. Roitman, 2006 CAF 266, par. 15).
+[46] Un acte de procédure peut aussi être considéré comme un recours abusif à la Cour lorsqu’il est injuste envers une partie ou qu’il est susceptible de discréditer l’administration de la justice (Toronto (Ville) c. S.C.F.P., section locale 79, 2003 CSC 63, par. 35 à 45). Comme l’a déclaré la Cour dans la décision Marine Atlantic Inc. c. La Reine, 2016 CCI 46 :
+[47] Afin que la conduite d’une partie constitue un recours abusif à la procédure, cette dernière doit avoir refusé de collaborer ou de respecter les règles ou les ordonnances de la cour de façon à causer des retards et un préjudice. Dans l’arrêt Yacyshyn c. Canada, [1999] 1 C.T.C. 139 (CAF), la Cour d’appel fédérale a affirmé que l’ordonnance de la Cour visant à radier les actes de procédure est fondée sur la conduite de la contribuable, qui, dans ce cas, avait « entraîné des retards et causé un préjudice » équivalant à un recours abusif à la procédure.
+D. Les mesures pour corriger des actes de procédure non conformes [47] Les actes de procédure non conformes aux principes énoncés ci-dessus constituent une irrégularité au sens de l’article 7 des Règles et n’emportent pas la nullité de l’instance.
+[48] L’article 7 des Règles se lit ainsi :
+7 L’inobservation des présentes règles constitue une irrégularité et n’est pas cause de nullité de l’instance ni d’une mesure prise, d’un document donné ou d’une directive rendue dans le cadre de celle-ci. La Cour peut :
+a) soit autoriser les modifications ou accorder les conclusions recherchées, à des conditions appropriées, afin d’assurer une résolution équitable des véritables questions en litige;
+b) soit annuler l’instance ou une mesure prise, un document donné ou une directive rendue dans le cadre de celle-ci, en tout ou en partie, seulement si cela est nécessaire dans l’intérêt de la justice.
+7 A failure to comply with these rules is an irregularity and does not render a proceeding or a step, document or direction in a proceeding a nullity, and the Court,
+(a) may grant all necessary amendments or other relief, on such terms as are just, to secure the just determination of the real matters in dispute, or
+(b) only where and as necessary in the interests of justice, may set aside the proceeding or a step, document or direction in the proceeding in whole or in part.
+[49] Lorsque les lacunes d’un acte de procédure sont importantes, manquent de précision ou sont vagues, la mesure appropriée consiste à écarter l’acte de procédure et à permettre le dépôt d’un nouvel acte de procédure qui satisfait aux exigences énoncées dans les Règles. Comme l’a déclaré la Cour, cela « ne concerne pas la radiation d’actes de procédure déficients, mais plutôt la radiation d’actes de procédure susceptibles de préjudicier sensiblement au déroulement du procès » (935475 Ontario Ltd c. La Reine, 2009 CCI 196, par. 34).
+[50] La Cour peut autoriser toutes les modifications ou mesures nécessaires pour assurer une résolution équitable des véritables questions en litige.
+[51] Comme l’a récemment réitéré la Cour d’appel fédérale dans Polarsat Inc. c. Canada, 2023 CAF 247 :
+[3] Il est bien établi — et la Cour de l'impôt a expressément renvoyé à ce principe directeur au paragraphe 53 de sa décision — que la Cour devrait autoriser la modification d'un acte de procédure si : (i) la modification aide le tribunal à trancher les véritables questions en litige, (ii) la modification ne cause pas à l'autre partie une injustice que des dépens ne pourraient compenser, (iii) la modification sert les intérêts de la justice (El Ad Ontario Trust c. Le Roi, 2023 CAF 231 au para. 4 (El Ad Ontario), qui renvoie à R. c. Pomeroy Acquireco Ltd., 2021 CAF 187 au para. 4 (Pomeroy)).
+[52] Également, comme l’a déclaré la Cour dans la décision Zelinski, « [d]e façon générale, il convient que la modification d’un acte de procédure soit autorisée, dans la mesure où cela n’est pas préjudiciable à l’autre partie – qui n’a pas droit à une contrepartie sous forme de dépens ou sous une autre forme –, les Règles visant à assurer, dans la mesure du possible, un procès équitable portant sur les vraies questions en litige entre les parties » (par. 4).
+[53] Pour radier un acte de procédure sans autorisation de le modifier, la lacune doit être impossible à corriger par une modification (Simon, par. 8). De plus, la Cour fédérale enseigne que, pour radier une demande sans autorisation de la modifier, il ne doit pas y avoir la « moindre trace » d’une cause d’action légitime (Riabko c. Canada, [1999] A.F.F. no 1289 (QL), 1999 CanLII 8627 [Riabko], par. 8).
+[54] J’appliquerai maintenant ces principes à l’examen de la requête présentée par l’intimé.
+VI. Analyse A. Radiation de l’avis d’appel amendé [55] L’intimé demande la radiation de l’avis d’appel amendé dans son intégralité pour le motif que l’appelante n’a pas présenté de demande de prorogation du délai pour déposer l’avis d’appel amendé par voie de requête accompagnée d’une déclaration assermentée conformément à la Directive sur la procédure No 14, puisque le délai fixé par ordonnance de la Cour pour ce faire était expiré.
+[56] La Cour ne peut accorder la demande de l’intimé de radier l’avis d’appel amendé pour le motif que l’appelante n’a pas respecté la Directive sur la procédure No 14.
+[57] En effet, la jurisprudence est constante en ce qu’un acte de procédure ne doit être radié dans son intégralité que s’il est manifestement futile, que les positions avancées n’ont aucune chance de succès, et qu’il est évident et manifeste, notamment, qu’il ne révèle aucun moyen raisonnable d’appel.
+[58] Par conséquent, pour qu’une requête en radiation puisse être accueillie, l’irrégularité ou la non-pertinence doit être évidente et manifeste au premier coup d’œil.
+[59] Également, tel que l’enseigne la Cour d’appel fédérale dans Riabko (supra) (au par. 8), pour radier une demande sans autorisation de la modifier, il ne doit pas y avoir la « moindre trace » d’une cause d’action légitime, ce qui n’est pas le cas en l’espèce.
+[60] Bien que plusieurs paragraphes et intertitres de l’avis d’appel amendé doivent être radiés, pour les motifs mentionnés dans la section ci-dessous, l’avis d’appel amendé n’est pas futile et ne rencontre pas le critère selon lequel il n’a aucune chance de succès et ne relève d’aucun moyen raisonnable d’appel.
+[61] Toutefois, compte tenu des lacunes très importantes de l’avis d’appel amendé, la mesure appropriée consiste à écarter l’avis d’appel amendé et permettre le dépôt d’un nouvel avis d’appel amendé qui satisfait aux exigences énoncées dans les Règles.
+[62] L’appelante doit donc se conformer à l’article 17.2 de la Loi sur la CCI et déposer un nouvel avis d’appel amendé établi selon les Règles, en respectant la formule 21(1)a).
+B. Dépens à l’intimé [63] Des dépens de 1 000 $ sous forme de somme globale sont payables immédiatement à l’intimé pour cette requête, quelle que soit l’issue de la cause, compte tenu des faits suivants.
+[64] Tout d’abord, l’avocat de l’appelante n’a pas respecté la Directive sur la procédure No 14, alors qu’il connaissait l’existence de cette Directive. En effet, l’avocat de l’appelante avait été avisé auparavant de cette Directive par le greffe de la Cour lorsqu’il avait demandé la modification des échéanciers fixés par la Cour au cours du mois d’octobre 2024, alors que le délai fixé pour l’exécution des engagements pris aux interrogatoires préalables était expiré au moment du dépôt de sa demande. Il ne peut donc pas plaider l’ignorance.
+[65] Également, l’avocat de l’appelante n’a pas respecté les échéanciers fixés par la Cour pour déposer un avis d’appel amendé, qui devait être déposé au plus tard le 15 mars 2025. En effet, l’avis d’appel amendé n’a été déposé auprès de la Cour que le 5 aout 2025, sans requête accompagnée de déclaration assermentée.
+[66] Ce n’est que dans le cadre des observations écrites produites par l’avocat de l’appelante dans le cadre de cette requête que ce dernier prétend que l’appelante aurait été dans l’impossibilité en fait d’agir plus tôt. Ainsi, selon les prétentions de l’appelante, l’avis d’appel amendé aurait été déposé dès que les circonstances le permettaient, citant les vacances du temps des fêtes, les vacances estivales, de même que les diverses obligations personnelles et professionnelles de l’avocat de l’appelante, faisant en sorte que l’appelante ainsi que son avocat étaient dans l’impossibilité en fait d’agir pour signifier et produire un avis d’appel amendé au plus tard le 15 mars 2025, tel qu’ordonné par la Cour. L’appelante prétend également que l’intimé n’a pas été pris par surprise, sachant depuis longtemps qu’elle avait l’intention de produire un tel avis d’appel amendé. De plus, l’appelante prétend que l’affaire n’a pas encore été fixée pour audition et qu’il demeure d’autres étapes à franchir avant que le dossier ne soit prêt pour audition au mérite.
+[67] Les raisons invoquées par l’appelante ainsi que son avocat pour justifier le retard à déposer un avis d’appel amendé démontrent une désinvolture inappropriée et une indifférence complète quant au respect des ordonnances de la Cour. Également, l’appelante ne s’est pas excusée d’avoir contrevenu à une ordonnance de la Cour. Son comportement fait en sorte de prolonger indument tout le processus de cet appel. Pour ces motifs, je conclus donc que des dépens sous une forme globale de 1 000 $ doivent être payés immédiatement à l’intimé.
+C. Radiation de certains paragraphes de l’avis d’appel amendé (1) Les paragraphes 11, 13, 14, 16, 35, 36, 37, 38, 39, 44 et 86 de l’avis d’appel amendé, de même que les intertitres « Dommages et Réplique » et « Réplique » entre les paragraphes 40 et 41 de l’avis d’appel amendé [68] Selon l’intimé, ces paragraphes doivent être radiés puisqu’ils constituent une réplique à la réponse à l’avis d’appel. Un avis d’appel amendé n’est pas l’acte de procédure approprié pour produire une réplique à la réponse à l’avis d’appel.
+[69] L’intimé note également que les actes de procédure sont clos depuis le 24 mars 2022, puisque l’appelante n’a pas déposé de réplique dans le délai de 30 jours du dépôt de la réponse à l’avis d’appel (article 45 des Règles), ce délai expirant le 28 mars 2022.
+[70] Selon l’intimé, en incorporant des éléments de réplique dans un avis d’appel amendé, l’appelante contourne les exigences et délais obligatoires prévus aux articles 45 et 50 des Règles.
+[71] Également, l’intimé demande à la Cour de considérer le paragraphe 50(2) des Règles qui prévoit qu’un appelant qui ne dépose pas de réplique est réputé nier les faits allégués dans la réponse à l’avis d’appel.
+[72] L’appelante soumet que bien que l’avis d’appel modifié fasse effectivement référence à certains allégués de la réponse à l’avis d’appel, ceci a été fait pour assurer une cohésion entre les actes de procédures au dossier de la Cour. L’appelante rappelle également que l’intimé est au courant de l’intention de l’appelante de produire un avis d’appel modifié, depuis au moins le 12 mars 2025 (date de l’ordonnance de la Cour permettant le dépôt d’un avis d’appel amendé), ou même depuis le 8 janvier 2025 (date à laquelle l’appelante a demandé l’autorisation de produire un avis d’appel amendé). L’appelante soumet également que les articles 7 et 9 des Règles devraient recevoir application.
+(a) Discussion [73] Pour les raisons suivantes, les paragraphes 11, 13, 14, 16, 35, 36, 37, 38, 39, 44 et 86 de l’avis d’appel amendé, de même que les intertitres « Dommages et Réplique » et « Réplique » entre les paragraphes 40 et 41 de l’avis d’appel amendé doivent être radiés, sans possibilité d’amender.
+[74] Les Règles prévoient spécifiquement ce que doit contenir un avis d’appel. Un avis d’appel, étant l’acte de procédure introductive d’instance (article 21 des Règles), ne peut référer au contenu de la réponse à l’avis d’appel, puisque la réponse à l’avis d’appel est déposée après le dépôt de l’avis d’appel (article 44 des Règles). Ces règles s’appliquent également lorsque la Cour permet le dépôt d’un avis d’appel amendé, et ce, après qu’une réponse à l’avis d’appel a été produite.
+[75] Si l’appelante avait l’intention de produire une réplique à la réponse à l’avis d’appel, elle pouvait le faire en respectant les dispositions des Règles, et plus particulièrement, l’article 45 des Règles quant au délai pour le faire ainsi que l’article 50 des Règles quant au format. Ces dispositions se lisent ainsi :
+45 La réplique doit être déposée et signifiée, le cas échéant, dans les trente jours qui suivent la signification de la réponse à l’avis d’appel. (Formule 45)
+50 (1) La réplique indique :
+a) les faits nouveaux allégués dans la réponse à l’avis d’appel et qui sont admis;
+b) les faits nouveaux allégués dans la réponse à l’avis d’appel et qui sont niés;
+c) les faits nouveaux allégués dans la réponse à l’avis d’appel, que l’appelant ne connaît pas et qu’il n’admet pas;
+d) tous les faits pertinents allégués dans la réponse à l’avis d’appel qui n’avaient pas été allégués dans l’avis d’appel;
+e) toutes autres dispositions législatives invoquées;
+f) tous autres moyens sur lesquels l’appelant entend se fonder.
+45 An answer, if any, shall be filed and served within thirty days after service of the reply. (Form 45)
+50 (1) Every answer shall state,
+(a) the new facts raised in the reply that are admitted,
+(b) the new facts raised in the reply that are denied,
+(c) the new facts raised in the reply of which the appellant has no knowledge and puts in issue,
+(d) any facts material to the facts pleaded in the reply which have not already been pleaded in the notice of appeal,
+(e) any further statutory provisions relied on, and
+(f) any other reasons the appellant intends to rely on.
+[76] Les paragraphes tenant lieu de réplique que l’on retrouve à l’avis d’appel amendé ne respectent aucunement l’article 50 des Règles.
+[77] L’appelant prétend que d’avoir ajouté ces paragraphes ne fait qu’assurer une cohésion entre les procédures déjà produites au dossier de la Cour. De plus, l’appelant prétend que s’il n’avait pas agi ainsi, le cadre procédural du présent appel serait complètement décousu.
+[78] La Cour ne peut souscrire aux arguments de l’appelante et ce, pour plusieurs raisons.
+[79] Tout d’abord, au niveau des délais, la Cour a permis le dépôt d’un avis d’appel amendé au plus tard le 15 mars 2025, mais n’a pas permis le dépôt d’une réplique. Les actes de procédure sont clos depuis le 28 mars 2022. En effet, l’article 46 des Règles prévoit que les actes de procédure sont clos soit lorsque l’appelant a déposé et produit sa réplique ou que le délai de 30 jours pour déposer une réplique est expiré. Ainsi, sans autorisation de la Cour, l’appelante ne pouvait déposer une réplique à la réponse à l’avis d’appel le 5 aout 2025.
+[80] Également, souscrire aux arguments de l’appelante donnerait lieu à des actes de procédure incohérents, aussi complexes et frustrants que l’avis d’appel amendé dont il est question dans la présente requête.
+[81] La Cour veut aussi préciser que le fait que l’intimé ne peut avoir été pris par surprise par le dépôt de l’avis d’appel amendé n’est pas pertinent. Les Règles de la Cour existent pour être respectées. Une partie peut toujours demander l’autorisation de la Cour pour être relevée d’un défaut, mais le fait que l’autre partie n’a pas été prise par surprise n’est pas pertinent pour cette question.
+[82] La Cour est d’accord avec l’intimé.
+[83] Les paragraphes 11, 13, 14, 16, 35, 36, 37, 38, 39, 44 et 86 de l’avis d’appel amendé, de même que les intertitres « Dommages et Réplique » et « Réplique » entre les paragraphes 40 et 41 de l’avis d’appel amendé doivent être radiés puisque l’avis d’appel amendé n’est pas l’acte de procédure approprié pour répliquer à la réponse à l’avis d’appel.
+[84] En l’espèce, ce n’est pas un cas pour lequel la Cour devrait dispenser de l’observation des Règles dans l’intérêt de la justice (article 9 des Règles). Également, l’appelante ne peut plaider l’article 7 alléguant que la réplique doit faire partie de son avis d’appel amendé pour résoudre équitablement le litige.
+(2) Les paragraphes 19, 20, 21, 22 et 31 de l’avis d’appel amendé [85] L’intimé demande la radiation des paragraphes 19, 20, 21, 22 et 31 de l’avis d’appel amendé conformément aux alinéas 53(1)a) et d) des Règles, puisque ces paragraphes constituent des arguments que l’appelante entend invoquer lors de l’audition au fond.
+[86] L’appelant soumet que ces paragraphes ne sont aucunement de nature argumentative, n’étant qu’au plus contextuels et annonciateurs des intentions actuelles de l’appelante relativement à l’audition au mérite de l’appel.
+(a) Discussion [87] La Cour ne peut souscrire aux arguments de l’appelante. Comme le soumet l’intimé, les paragraphes 19, 20, 21, 22 et 31 de l’avis d’appel amendé doivent être radiés conformément aux alinéas 53(1)a) et d) des Règles, puisque ces paragraphes constituent des arguments que l’appelante entend invoquer lors de l’audition de l’appel au fond.
+[88] Comme indiqué dans l’affaire Beima ci-dessus, les allégations dans un acte de procédure doivent être des faits pertinents, ce qui excluent les éléments de preuve qui serviront à étayer ces faits. Il n’est donc pas approprié pour l’appelante d’inclure ces paragraphes dans l’avis d’appel amendé, et ceux-ci sont radiés conformément aux alinéas 53(1)a) et d) des Règles.
+(3) Les paragraphes 17, 18, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 77 et 78 de l’avis d’appel amendé [89] Les paragraphes 17, 18, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 77 et 78 de l’avis d’appel amendé contiennent des références aux interrogatoires préalables menés par l’appelante dans ce dossier. Certains de ces paragraphes réfèrent même aux pages des diverses transcriptions des interrogatoires.
+[90] Selon l’intimé, ces paragraphes doivent être radiés puisqu’ils violent l’engagement implicite de confidentialité des interrogatoires préalables, lequel principe est applicable devant cette Cour (Canada c. Fio Corporation, 2015 CAF 236 [Fio Corporation], au par. 12; CAE Inc. c. R, 2025 CCI 9 [CAE], au par. 39).
+[91] Conformément au paragraphe 111(2) des Règles, le contenu des interrogatoires préalables demeure confidentiel, jusqu’à la production des transcriptions, le cas échéant.
+[92] L’appelante prétend que ces allégations sont des déclarations effectuées par diverses personnes quant aux faits de l’appel et constituent des faits pertinents directement en lien avec les hypothèses de faits retenues par le ministre pour émettre la cotisation en litige. Également, l’appelante prétend ne pas produire tout ou une partie des transcriptions par l’entremise de l’avis d’appel amendé, mais elle ne fait qu’alléguer que les déclarations ont été faites, et que ces déclarations se rapportent directement aux hypothèses de fait retenues par le ministre.
+(a) Discussion [93] Pour les raisons suivantes, les paragraphes 17, 18, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 77 et 78 de l’avis d’appel amendé sont radiés, conformément à l’alinéa 53(1)(b).
+[94] La Cour ne peut retenir les arguments de l’appelante. À la lecture même des paragraphes mentionnés ci-dessus, il est clair que l’appelante réfère aux interrogatoires préalables des vérificateurs de l’Agence du revenu du Québec. La jurisprudence a établi le principe de l’engagement implicite de confidentialité des interrogatoires préalables, qui demeurent confidentiels jusqu’à la tenue du procès.
+[95] Ainsi, le paragraphe 111(2) des Règles se lit ainsi :
+111 (1) Il incombe à la partie qui a l’intention de renvoyer à une déposition faite lors d’un interrogatoire d’en produire une transcription pour dépôt auprès de la Cour.
+(2) Le dépôt de la copie d’une transcription destinée à être utilisée par la Cour au cours d’une audience n’a lieu qu’au moment où une partie s’y réfère lors d’une audience, et le juge présidant ne peut en lire que les extraits auxquels il est ainsi fait référence.
+111 (1) It is the responsibility of a party who intends to refer to evidence given on an examination to have a copy of the transcript of the examination available for filing with the Court.
+(2) A copy of a transcript for the use of the Court at hearing shall not be filed until a party refers to it at hearing, and the presiding judge may read only the portions to which a party refers.
+[96] Dans le cas où l’appelante veut utiliser l’interrogatoire au préalable à l’audience, elle aura la possibilité de le faire à l’audition de l’appel, conformément au paragraphe 100(1) des Règles qui prévoit ce qui suit :
+100 (1) Une partie peut, à l’audience, consigner comme élément de sa preuve, après avoir présenté toute sa preuve principale, un extrait de l’interrogatoire préalable :
+a) de la partie opposée;
+b) d’une personne interrogée au préalable au nom, à la place ou en plus de la partie opposée, sauf directive contraire du juge,
+si la preuve est par ailleurs admissible et indépendamment du fait que cette partie ou que cette personne ait déjà témoigné.
+100 (1) At the hearing, a party may read into evidence as part of that party’s own case, after that party has adduced all of that party’s other evidence in chief, any part of the evidence given on the examination for discovery of
+(a) the adverse party, or
+(b) a person examined for discovery on behalf of or in place of, or in addition to the adverse party, unless the judge directs otherwise,
+if the evidence is otherwise admissible, whether the party or person has already given evidence or not.
+[97] La Cour d’appel fédérale a bien établi que la règle de l’engagement implicite s’applique aux parties devant la Cour (Fio Corporation, au par. 12). Ainsi, le contenu des interrogatoires préalables ne peut aucunement être divulgué dans l’avis d’appel amendé.
+[98] Il faut également tenir compte du processus des litiges devant cette Cour. Les étapes avant la tenue de l’audition au fond se déroulent selon un certain ordre dans le temps; ainsi, dans un premier temps, les actes de procédures sont déposés en Cour. Par la suite, les parties conviennent d’un échéancier qui habituellement inclut la liste des documents, la tenue des interrogatoires au préalable et le respect des engagements, et par la suite, l’appel est fixé pour audition. Il est tout à fait inapproprié que l’avis d’appel amendé réfère au contenu (en tout ou en partie) des interrogatoires préalables.
+(4) Les paragraphes 31, 32, 77 et 78 de l’avis d’appel amendé [99] L’intimé demande la radiation des paragraphes 31, 32, 77 et 78 de l’avis d’appel amendé conformément aux alinéas 53(1)b) et c) des Règles, compte tenu des principes de l’alinéa 100(1) des Règles.
+[100] Selon l’intimé, en référant aux interrogatoires préalables menés par l’intimé, l’appelante viole le principe de l’engagement implicite de confidentialité des interrogatoires préalables. Également, l’appelante ne respecte pas le droit de l’intimé de produire ou non les transcriptions en question.
+[101] Selon l’appelante, les références aux interrogatoires préalables retrouvées à ces paragraphes ne sont que contextuelles et ne réfèrent pas au contenu des interrogatoires préalables. Il n’y a donc pas de raison de demander la radiation de ces paragraphes.
+(a) Discussion [102] Pour les motifs énoncés dans la section précédente concernant l’application du principe de l’engagement implicite de confidentialité des interrogatoires préalables et compte tenu qu’il revient à l’intimé de décider s’il produira ou non lesdits interrogatoires, les paragraphes 31, 32, 77 et 78 de l’avis d’appel amendé sont radiés conformément aux alinéas 53(1)b) et c) des Règles.
+[103] Le paragraphe 100(1) des Règles prévoit le mécanisme par lequel une partie peut référer à l’interrogatoire préalable de l’autre partie et faire en sorte que cela fasse partie de sa preuve. Il n’est pas permis à une partie de référer aux interrogatoires au préalable de son propre représentant, et encore moins, d’en faire mention dans le cadre d’un avis d’appel amendé.
+(5) Les paragraphes 12, 41,42, 43, 44, 77, 78, 79, 80, 82, 83, 84 et 88 de l’avis d’appel amendé ainsi que les intertitres « Dommages et Réplique » entre les paragraphes 40 et 41, « Dommages » entre les paragraphes 76 et 77 de l’avis d’appel amendé [104] Selon l’intimé, les paragraphes 12, 41,42, 43, 44, 77, 78, 79, 80, 82, 83, 84 et 88 de l’avis d’appel amendé ainsi que les intertitres « Dommages et Réplique » entre les paragraphes 40 et 41, « Dommages » entre les paragraphes 76 et 77 de l’avis d’appel amendé doivent être radiés selon les alinéas 53(1)(b), (c) et (d), puisque ce sont des allégations sans pertinence pour l’appel devant la Cour. Ces paragraphes font état des agissements des représentants des autorités fiscales, et soulèvent les conséquences sur l’appelante. L’intimé réfère aux nombreuses décisions constantes des tribunaux sur le sujet, et j’y reviendrai ci-dessous.
+[105] Quant à l’appelante, elle prétend que ces allégations ne visent qu’à mettre en contexte les faits pertinents au présent appel, en illustrant le contexte dans lequel l’avis de cotisation en litige a été émis, le contexte de la vérification et les conséquences des actes des représentants des autorités fiscales sur l’appelante. Ainsi, ces paragraphes ne devraient pas être radiés.
+(a) Discussion [106] Pour les raisons suivantes, les paragraphes 12, 41,42, 43, 44, 77, 78, 79, 80, 82, 83, 84 et 88 de l’avis d’appel amendé ainsi que les intertitres « Dommages et Réplique » entre les paragraphes 40 et 41, « Dommages » entre les paragraphes 76 et 77 de l’avis d’appel amendé doivent être radiés, puisqu’ils ne sont pas pertinents pour trancher le débat devant la Cour. Ces allégations doivent être radiées parce qu’elles sont frivoles, elles constituent un recours abusif à la Cour et ne révèlent aucun moyen raisonnable d’appel.
+[107] Il est bien établi par la législation et par la jurisprudence que la compétence de la Cour est de déterminer la validité et le bien-fondé de la cotisation, et non le processus qui a servi à l’établir. Ainsi, notre Cour doit déterminer la validité et le bien-fondé de la cotisation en fonction des dispositions applicables de la LTA et des faits donnant lieu à l’obligation du contribuable prévu par la LTA.
+[108] La compétence de la Cour est définie par la loi. Le paragraphe 12(1) de la Loi sur la CCI se lit comme suit :
+12(1) Compétence — La Cour a compétence exclusive pour entendre les renvois et les appels portés devant elle sur les questions découlant de l’application du Régime de pensions du Canada, de la Loi sur l’exportation et l’importation de biens culturels, de la partie IX de la Loi sur la taxe d’accise, de la Loi sur la sécurité de la vieillesse, de la Loi de l’impôt sur les revenus pétroliers, de la partie V.1 de la Loi sur les douanes, de la Loi de l’impôt sur le revenu, de la Loi sur l’assurance-emploi, de la Loi sur le droit pour la sécurité des passagers du transport aérien, de la Loi de 2001 sur l’accise, de la Loi de 2006 sur les droits d’exportation de produits de bois d’œuvre, de la Loi sur les restrictions applicables aux promoteurs du crédit d’impôt pour personnes handicapées, de la partie 1 de la Loi sur la tarification de la pollution causée par les gaz à effet de serre, de la Loi sur la taxe sur les logements sous-utilisés et de la Loi sur la taxe sur certains biens de luxe, dans la mesure où ces lois prévoient un droit de renvoi ou d’appel devant elle.
+12(1) Jurisdiction — The Court has exclusive original jurisdiction to hear and determine references and appeals to the Court on matters arising under the Canada Pension Plan, the Cultural Property Export and Import Act, Part IX of the Excise Tax Act, the Old Age Security Act, the Petroleum and Gas Revenue Tax Act, Part V.1 of the Customs Act, the Income Tax Act, the Employment Insurance Act, the Air Travellers Security Charge Act, the Excise Act, 2001, the Softwood Lumber Products Export Charge Act, 2006, the Disability Tax Credit Promoters Restrictions Act, Part 1 of the Greenhouse Gas Pollution Pricing Act, the Underused Housing Tax Act and the Select Luxury Items Tax Act when references or appeals to the Court are provided for in those Acts.
+[109] Dans l’arrêt Canada (Revenu national) c. JP Morgan Asset Management (Canada) Inc., 2013 CAF 250, la Cour d’appel fédérale a conclu que (au par. 83) :
+En appel, la Cour canadienne de l’impôt n’a pas compétence pour annuler une cotisation établie sur la base d’une conduite fautive du ministre, tel un abus de pouvoir ou un manquement à l’équité, ayant donné lieu à la cotisation [...]. Si une cotisation est bien-fondée au regard des faits et du droit, le contribuable doit payer l’impôt. [...]
+[110] De même, dans l’arrêt Ereiser, la Cour d’appel fédérale a déclaré ce qui suit :
+[31] [L]a mission de la Cour canadienne de l’impôt lors d’un appel dirigé contre une cotisation d’impôt sur le revenu consistait à déterminer la validité et le bien‐fondé de la cotisation en fonction des dispositions applicables de la Loi de l’impôt sur le revenu et des faits donnant lieu à l’obligation du contribuable prévue par la loi. En toute logique, la conduite du fonctionnaire du fisc qui autorise l’établissement d’une cotisation n’est pas pertinente pour déterminer cette obligation prévue par la loi. [...]
+[Non souligné dans l’original.]
+[111] Ces principes établis de longue date ont été récemment confirmés par la Cour suprême du Canada dans l’arrêt Iris Technologies Inc. c. Canada (Procureur général), 2024 CSC 24.
+[112] En outre, le paragraphe 309(1) de la LTA prévoit que la Cour peut trancher un appel d’une cotisation soit en le rejetant ou soit en l’accueillant et en annulant la cotisation, ou en la renvoyant au ministre pour nouvel examen et nouvelle cotisation.
+[113] C’est donc à bon droit que l’intimé demande la radiation des paragraphes 12, 41,42, 43, 44, 77, 78, 79, 80, 82, 83, 84 et 88 de l’avis d’appel amendé ainsi que les intertitres « Dommages et Réplique » entre les paragraphes 40 et 41, « Dommages » entre les paragraphes 76 et 77 de l’avis d’appel amendé.
+[114] Tout d’abord, comme l’indique la jurisprudence, pour radier un acte de procédure, « ...l’irrégularité ou la non-pertinence doit être évidente et manifeste au premier coup d’œil » (881751 Ontario, supra, au par. 15).
+[115] Puisque la conduite des représentants des autorités fiscales n’est pas pertinente pour déterminer la validité et le bien-fondé de la cotisation en litige, les paragraphes susmentionnés de l’avis d’appel amendé ne sont aucunement pertinents.
+[116] Ainsi, conformément aux alinéas 53(1)(b), (c) et (d) des Règles, la Cour ordonne la radiation de ces paragraphes.
+(6) Les paragraphes 54, 55, 56, 57 et 58 de l’avis d’appel amendé et l’intertitre « Nouveau système de vérification » entre les paragraphes 53 et 54 de l’avis d’appel amendé [117] Selon l’intimé, les paragraphes 54, 55, 56, 57 et 58 de l’avis d’appel amendé et l’intertitre « Nouveau système de vérification » entre les paragraphes 53 et 54 de l’avis d’appel amendé doivent être radiés conformément aux alinéas 53(1)a) et b) des Règles, puisque ces paragraphes ne contiennent aucun fait susceptible d’aider la Cour à statuer sur la validité de la cotisation en litige. Ces paragraphes sont argumentatifs et n’ont aucune pertinence pour trancher le présent appel.
+[118] Selon l’appelante, ces paragraphes sont pertinents puisque des pénalités ont été imposées dans ce dossier. La Cour devra se pencher sur les outils que l’Agence du Revenu du Québec mettait à la disposition des contribuables pour la période en litige.
+(a) Discussion [119] Pour les motifs suivants, les paragraphes 54, 55, 56, 57 et 58 de l’avis d’appel amendé et l’intertitre « Nouveau système de vérification » entre les paragraphes 53 et 54 de l’avis d’appel amendé doivent être radiés conformément aux alinéas 53(1)(a) et (b) des Règles, puisqu’ils ne font état d’aucun fait susceptible d’aider la Cour à trancher le débat et sont argumentatifs.
+(7) Le paragraphe 88 de l’avis d’appel amendé [120] Selon l’intimé, le paragraphe 88 de l’avis d’appel amendé demandant que la Cour annule les intérêts puisqu’il s’agirait d’un cas d’abus par l’intimé doit être radié conformément aux alinéas 53(1)c) et d) des Règles, puisque la Cour n’a pas compétence pour accorder une réparation sous forme d’annulation des intérêts, peu importe qu’il y ait eu préjudice ou non.
+[121] Selon l’appelante, le paragraphe 88 ne devrait pas être radié puisque la demande d’annulation des intérêts ne fait pas référence à une annulation des intérêts indépendamment des droits.
+(a) Discussion [122] Pour les motifs suivants, le paragraphe 88 de l’avis d’appel amendé doit être radié.
+[123] Comme indiqué ci-dessus, la compétence de la Cour vise à déterminer la validité et le bien-fondé d’une cotisation.
+[124] C’est à bon droit que l’intimé demande la radiation des passages de l’avis d’appel amendé concernant les intérêts. En effet, l’appelante ne prétend pas que le calcul des intérêts est erroné ou que les intérêts ne sont pas exigibles conformément aux dispositions de la LTA, mais plutôt que les intérêts doivent être annulés puisqu’il s’agirait d’un cas d’abus par l’intimé. Toutefois, le pouvoir de réduire ou d’annuler les intérêts est conféré au ministre conformément à l’article 281.1 de la LTA (qui est l’équivalent du paragraphe 220(3.1) de la Loi de l’impôt sur le revenu). Ce pouvoir est discrétionnaire et est assujetti au contrôle exclusif de la Cour fédérale, et non de notre Cour (Loi sur les Cours fédérales (L.R.C. (1985), ch. F 7.), articles 18 et 18.1, et Canada (Revenu national) c. JP Morgan Asset Management (Canada) Inc., 2013 CAF 250, au par. 90).
+[125] La jurisprudence est unanime pour dire que le pouvoir d’annuler les intérêts est dévolu au ministre et que notre Cour ne peut ordonner au ministre d’exercer son pouvoir discrétionnaire en vertu de l’article 281.1 de la LTA (Raby c. La Reine, 2006 CCI 406, au par. 51, Madore c. La Reine, [1998] A.C.I. no 236 (QL), au par. 18, Duchaine c. R., 2015 CCI 245, au par. 36; Moledina c. R., 2007 CCI 354, aux par. 6, 7 et 8).
+[126] Puisque la Cour n’a pas le pouvoir d’accorder la réparation visée par le paragraphe 88 de l’avis d’appel amendé, ce paragraphe doit donc être radié conformément aux alinéas 53(1)c) et d) des Règles.
+(8) Le paragraphe 90 de l’avis d’appel amendé [127] L’intimé demande la radiation du paragraphe 90 de l’avis d’appel amendé conformément aux alinéas 53(1)b) et d) des Règles, puisque le paragraphe 90 est identique au paragraphe 10.
+[128] L’appelante n’a fait aucune observation à ce sujet.
+(a) Discussion [129] Le paragraphe 90 de l’avis d’appel amendé doit être radié conformément aux alinéas 53(1)b) et d) de Règles, puisqu’il est identique au paragraphe 10. Le paragraphe 90 est donc inutile, puisque redondant (Strother c. R., 2011 CCI 251, par. 20 et 39-45).
+(9) Le paragraphe 84 ainsi que la conclusion intitulée « ORDONNER le remboursement de toutes les sommes versées par l’Appelante à l’intimé en vertu de P-1 » de l’avis d’appel amendé [130] L’intimé allègue que le paragraphe 84 de l’avis d’appel amendé demandant le remboursement des sommes versées par anticipation, de même que la conclusion intitulée « ORDONNER le remboursement de toutes les sommes versées par l’Appelante à l’intimé en vertu de P-1 » de l’avis d’appel amendé doivent être radiés conformément aux alinéas 53(1)c) et d) des Règles. Selon l’intimé, la Cour n’a pas compétence pour accorder cette conclusion recherchée par l’appelante.
+[131] Selon l’appelante, les prétentions de l’intimé ne sont pas fondées puisqu’advenant que la Cour accueille l’appel en totalité ou en partie, et qu’il en résulte une annulation de la cotisation en litige, l’intimé devra nécessairement rembourser, en totalité ou en partie, les sommes versées par anticipation par l’appelante. Conséquemment, ce paragraphe et cette conclusion ne peuvent compromettre ou retarder l’instruction équitable de l’appel.
+(a) Discussion [132] Pour les motifs suivants, le paragraphe 84 et la conclusion intitulée « ORDONNER le remboursement de toutes les sommes versées par l’Appelante à l’intimé en vertu de P-1 » de l’avis d’appel amendé doivent être radiés conformément aux alinéas 53(1)c) et d) des Règles.
+[133] La Cour n’a pas compétence d’ordonner le remboursement de sommes versées par anticipation par l’appelante.
+[134] Comme indiqué ci-dessus, le paragraphe 309(1) de la LTA prévoit que la Cour peut trancher un appel d’une cotisation soit en le rejetant ou soit en l’accueillant et en annulant la cotisation, ou en la renvoyant au ministre pour nouvel examen et nouvelle cotisation. Le paragraphe 309(1) de la LTA n’indique pas que la Cour peut ordonner un remboursement de sommes payées par anticipation.
+[135] La jurisprudence de cette Cour et de la Cour d’appel fédérale mentionnée ci-dessus est aussi à l’effet que la compétence de la Cour est de statuer sur la validité et le bien-fondé d’une cotisation. Ainsi, la Cour ne peut accorder cette conclusion, puisque cela excède outrepasse sa compétence (Metrobec Inc. c. R., 2018 CCI 115, par. 53).
+Signé ce 26e jour de novembre 2025.
+« Dominique Lafleur »
+Juge Lafleur
+RÉFÉRENCE :
+2025 CCI 174
+Nº DU DOSSIER DE LA COUR :
+2021-2024(GST)G
+INTITULÉ DE LA CAUSE :
+9231-3303 QUÉBEC INC. c. SA MAJESTÉ LE ROI
+DATE DE DÉPÔT DES OBSERVATIONS ÉCRITES :
+Le 14 août 2025 et le 15 octobre 2025
+MOTIFS DE L’ORDONNANCE PAR :
+L’honorable juge Dominique Lafleur
+DATE DE L’ORDONNANCE :
+Le 26 novembre 2025
+COMPARUTIONS :
+Avocat de l’appelante :
+Me Jean-François Goulet
+Avocat de l’intimée :
+Me Julien Vailles
+Me Nadja Chatelois
+AVOCAT INSCRIT AU DOSSIER :
+Pour l’appelante :
+Nom :
+Me Jean-François Goulet
+Cabinet :
+Goulet Brière S.N.
+Pour l’intimé :
+Shalene Curtis-Micallef
+Sous-procureure générale du Canada
+Ottawa (Canada)

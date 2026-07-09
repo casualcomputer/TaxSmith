@@ -1,0 +1,170 @@
+Title: Arevian v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29822/index.do
+Corpus path: corpus/cases/tcc/2008/2008-tcc-327-29822-arevian-v-the-queen-en.md
+Document type: case_law
+Last modified: 2008-10-07
+
+# Arevian v. The Queen
+
+- Citation: 2008 TCC 327
+- Decision date: 2008-10-07
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6565, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Arevian v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-10-07
+Neutral citation
+2008 TCC 327
+File numbers
+2006-3031(GST)I
+Judges and Taxing Officers
+Paul Bédard
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2006-3031(GST)I
+BETWEEN:
+HAGOP AREVIAN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on January 18, 2008, at Montreal, Quebec.
+Before: The Honourable Justice Paul Bédard
+Appearances:
+Counsel for the Appellant:
+Patrick Claude Caron
+Counsel for the Respondent:
+Martine Bergeron
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment of goods and services tax made under Part IX of the Excise Tax Act, the notice of which is dated July 21, 2004, and bears the number PM-11523, is dismissed, without costs, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 7th day of October 2008.
+« Paul Bédard »
+Bédard J.
+Citation: 2008 TCC 327
+Date: 20081007
+Docket: 2006-3031(GST)I
+BETWEEN:
+HAGOP AREVIAN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Bédard J.
+[1] This is an appeal from an assessment (the notice of which is dated July 21, 2004, and bears the number PM‑11523) made against the appellant under subsection 323(1) of the Excise Tax Act (the "ETA"). At issue is whether, as a director of 2757141 Canada Inc. (the "Corporation"), the appellant is solidarily liable, together with the Corporation, to pay $174,001.06, that is, the amount of net tax the Corporation failed to remit and interest and penalties. It should be immediately pointed out that the evidence showed the following:
+i) the Corporation made an assignment of its property on August 30, 2002 (Exhibit A‑4, page 47);
+ii) the claims in bankruptcy (Exhibit I‑2) were made by Michel Hachey, a collection agent with the Ministère du Revenu du Québec acting for the Minister of National Revenue of Canada (the "Minister"), within six months of the date of bankruptcy in accordance with the conditions prescribed in paragraph 323(2)(b) of the ETA.
+[2] The appellant testified that:
+i) in 1989, he met Donald Boutara and Louis Fleischer, who came to an agreement with him to set up a textile business, that is, the Corporation;
+ii) Mr. Fleischer acted as a passive director of the Corporation, but took an interest in the various aspects of its management;
+iii) during the years 1993 and 1995, the Corporation experienced some difficulties because of two bankruptcies which complicated its day-to-day management, for which the appellant was responsible;
+iv) in order to enable the Corporation to temporarily resolve its cash-flow problem, the appellant had the Corporation delay payment of several amounts of goods and services tax (GST) owing for the period from July 31, 1993, to April 30, 1997; (It should be pointed out immediately that when the audit carried out by the Minister ended with the issuing of reassessments against the Corporation on August 22, 1999, the Corporation did not file a notice of objection respecting these reassessments, since the appellant acknowledged that the amounts claimed in these reassessments were accurate.)
+v) he always intended to remit the unpaid GST and QST as soon as possible, even after the Corporation went bankrupt;
+vi) a cardiac accident he suffered at the beginning of 2002 kept him away from the management of the Corporation’s activities for a period of four months;
+vii) after his convalescence, he noted a deterioration in his relationship with Mr. Fleischer and Mr. Boutara, the other two directors of the Corporation; relations with them became increasingly strained;
+viii) on June 17, 2002, he purchased airplane tickets (Exhibit A-4, Tab 8) for a family trip to Italy; the trip was scheduled for July 18, 2002, to August 2, 2002;
+ix) in July 2002, Mr. Boutara informed him that the Corporation wanted to remove him from his duties, particularly as a director; to that end, on July 9, 2002, he received, by bailiff, a notice to appear at a special meeting of the Corporation’s shareholders (Exhibit A-4, Tab 3); he thereupon instructed his counsel to inform Mr. Boutara and Mr. Fleischer that he would not be at the meeting on July 30, 2002, because of his trip and to ask them to act accordingly; on Friday, July 12, 2002, he received a fax from Mr. Fleischer (Exhibit A-4, Tab 5) indicating that the meeting would take place without him; the appellant added that after he had received the fax, he retrieved his personal belongings that were on the Corporation’s premises;
+x) on August 4, 2002, upon his return from vacation, he found that the locks at the Corporation’s premises had been changed so that he could no longer enter;
+xi) prior to July 12, 2002, he had reached various agreements with the Minister, and the Corporation had thus paid 12 instalments of $2,800 (Exhibit A-4, page 45) totalling $33,600, 12 instalments of $1,000 totalling $12,000, eight instalments of $3,000 totalling $24,000, and finally two instalments of $4,000 totalling $8,000, for a grand total of $77,600; the last payment was cashed on August 28, 2002.
+[3] Essentially, the testimony of Michel Hachey, the tax collection agent who made the assessment against the appellant, was that all available sources of information indicated that the appellant had ceased to be a director on July 30, 2002. He also explained that he sent the appellant a questionnaire concerning his participation in the Corporation’s activities, which the appellant returned (Exhibit I-1), indicating that he had ceased to be a director on July 30, 2002. Mr. Hachey added that the appellant attached to the questionnaire a copy of the minutes of a special meeting of the Corporation’s shareholders held on July 30, 2002, at which the appellant had been removed from his director's position (Exhibit I-1). Lastly, he stated that the appellant had confirmed in a letter that he had been removed from office on July 30, 2002 (Exhibit I-1).
+Analysis and conclusion
+[4] Section 323 of the ETA reads as follows:
+Liability of directors
+323. (1) If a corporation fails to remit an amount of net tax as required under subsection 228(2) or (2.3) or to pay an amount as required under section 230.1 that was paid to, or was applied to the liability of, the corporation as a net tax refund, the directors of the corporation at the time the corporation was required to remit or pay, as the case may be, the amount are jointly and severally, or solidarily, liable, together with the corporation, to pay the amount and any interest on, or penalties relating to, the amount.
+Limitations
+(2) A director of a corporation is not liable under subsection (1) unless
+(a) a certificate for the amount of the corporation’s liability referred to in that subsection has been registered in the Federal Court under section 316 and execution for that amount has been returned unsatisfied in whole or in part;
+(b) the corporation has commenced liquidation or dissolution proceedings or has been dissolved and a claim for the amount of the corporation’s liability referred to in subsection (1) has been proved within six months after the earlier of the date of commencement of the proceedings and the date of dissolution; or
+(c) the corporation has made an assignment or a bankruptcy order has been made against it under the Bankruptcy and Insolvency Act and a claim for the amount of the corporation’s liability referred to in subsection (1) has been proved within six months after the date of the assignment or bankruptcy order.
+Diligence
+(3) A director of a corporation is not liable for a failure under subsection (1) where the director exercised the degree of care, diligence and skill to prevent the failure that a reasonably prudent person would have exercised in comparable circumstances.
+Assessment
+(4) The Minister may assess any person for any amount payable by the person under this section and, where the Minister sends a notice of assessment, sections 296 to 311 apply, with such modifications as the circumstances require.
+Time limit
+(5) An assessment under subsection (4) of any amount payable by a person who is a director of a corporation shall not be made more than two years after the person last ceased to be a director of the corporation.
+Amount recoverable
+(6) Where execution referred to in paragraph (2)(a) has issued, the amount recoverable from a director is the amount remaining unsatisfied after execution.
+Preference
+(7) Where a director of a corporation pays an amount in respect of a corporation’s liability referred to in subsection (1) that is proved in liquidation, dissolution or bankruptcy proceedings, the director is entitled to any preference that Her Majesty in right of Canada would have been entitled to had the amount not been so paid and, where a certificate that relates to the amount has been registered, the director is entitled to an assignment of the certificate to the extent of the director’s payment, which assignment the Minister is empowered to make.
+Contribution
+(8) A director who satisfies a claim under this section is entitled to contribution from the other directors who were liable for the claim.
+[5] According to the provisions of subsection 323(3) of the ETA, a director is not liable if he or she shows that he or she exercised the degree of care, diligence and skill to prevent the failure that a reasonably prudent person would have exercised in comparable circumstances. The appellant’s testimony as a whole reveals that the appellant acknowledges his liability regarding the Corporation’s failure to remit the net tax owing to the respondent. I note that the appellant even stated in his testimony that the amounts owing to the respondent did not appear in the Corporation’s financial statements and that he knew full well that not recording these amounts owing was not consistent with generally accepted accounting principles. The fact that he subsequently tried to pay the amounts owing to the respondent does not, in my opinion, enable him to exonerate himself from liability, as this Court has ruled on many occasions. The liability of a director is not determined in light of what the director did to remedy the situation after the periods at issue, but rather in light of what the director did to prevent the failure.
+[6] In fact, the appellant primarily relied on the defence that the assessment made on July 21, 2004, was statute-barred pursuant to subsection 323(5) of the ETA because it had been made more than two years after he had last ceased to be a director. In short, the appellant’s counsel argued that his client could not be found to have tax liability because the appellant had in actuality, according to uncontradicted evidence, last ceased to be a director on July 12, 2002, that is, more than two years prior to the time when the notice of assessment was sent to him. In this regard, the appellant’s counsel submitted that the uncontradicted evidence revealed that, as of July 12, 2002, his client had lost all real control over the Corporation’s activities, both because he was out of the country and because he had been clearly informed of his removal from his position as a director of the Corporation, which establishes the Corporation’s subjective intention to strip the appellant of any powers as a director as of his departure on July 12, 2002. The appellant’s counsel submitted that the uncontradicted evidence shows in that respect that, as of July 12, 2002, his client was no longer in a position to act in the name of or on behalf of the Corporation, since the Corporation’s board of directors had three members and the majority of shares were held by the partners who wanted him removed and who refused to postpone the special shareholders’ meeting despite the fact that his client would be away on holiday. The appellant’s counsel argued that the tax liability provided for in the ETA pertains to a director who can be called the directing mind of a particular corporation and in determining such liability account must be taken of the specific circumstances of each case—a company’s incorporating legislation can be looked to as an interpretive tool—and liability is not to be assessed strictly where there are specific facts that could militate in favour of a more flexible approach, as the Court has sometimes recognized. The relevant portion of the written submissions of the appellant’s counsel regarding subsection 323(5) of the ETA is worth quoting: [1]
+[TRANSLATION]
+. . . Subsection 323(5) of this Act provides that such an assessment is statute-barred two years after the director last ceased to be a director of the corporation.
+In view of this provision, it would seem appropriate to take into account the circumstances specific to each case, since Parliament has chosen to use the term "last" in conjunction with the expression "ceased to be a director".
+Contrary to what the Minister’s counsel may claim, the term "last" contains both a subjective and an objective component, which allows one to consider the precise point in time when a director ceased in actuality to act as a director, that is, "to be" a director. Such a position is supported by a decision subsequent to Kalef v. The Queen, 96 DTC 6132 (Tab 4 of the Book of Authorities filed by the appellant Hagop Arevian).
+It is submitted that Kalef, a decision rendered on March 1, 1996, was reversed by subsequent decisions of the Federal Court of Appeal and the Tax Court of Canada that, notwithstanding the strictness of the test proposed in Kalef, allow account to be taken of the circumstances specific to a case, and more particularly, even in the case of a de jure director (a director listed on the corporation’s register).
+To begin with, the appellant submits that reference to Kalef should be qualified first as regards its scope, given that paragraph 10 of that decision specifies that looking to the company’s incorporating legislation may provide some guidance in interpreting the Income Tax Act, which does not define the term director or establish specific criteria for determining at what time a person ceases to be a director. The Federal Court of Appeal indicated at paragraph 10 of its decision: "The Income Tax Act neither defines the term director, nor establishes any criteria for when a person ceases to hold such position. Given the silence of the Income Tax Act, it only makes sense to look to the company’s incorporating legislation for guidance." [Emphasis added.]
+The Appellant submits that federal incorporating legislation defines the scope of the term "director", as will be seen below.
+After its decision in Kalef, the Federal Court of Appeal, in Canada v. Corsano, [1999] 3 F.C. 173, on a question concerning the liability of a corporation’s directors, qualified to some extent the intent of incorporating legislation when it comes to defining the concept of director. As Mr. Justice Létourneau indicated at page 2 of the decision reproduced at Tab 7 of the Book of Authorities, [TRANSLATION] "[t]he statutory law is to be looked at "for guidance". It is certainly not exclusive and determinative, especially where the issue is whether a person ostensibly acted as a director and therefore was a de facto or acting director (an issue generally governed by common law principles). That Parliament intended to give a broad and unrestricted meaning to the word "director" in subsection 227.1(1) is evidenced by the nature of the obligation put on the corporation and its directors, the nature of the debt owed by the corporation and the nature of the relationship between the corporation, the directors, the employees and the Crown".
+At paragraph 12 of that decision, the Court clarified the extent of the liability of a director respecting whom an assessment has been made under subsection 227.1(1) of the Income Tax Act, a provision that is in every way similar to subsection 323(1) of the Excise Tax Act.
+The Court stated the following:
+12 I should reiterate here that what is in issue through subsection 227.1(1) of the Act is the liability of the directors of a company, as directing minds of that company, for their own failure to prevent the prohibited act . . . ." [Emphasis added.]
+Essentially, the concept of director therefore seems to refer to the notion of the "directing mind" of a corporation.
+It thus seems reasonable to infer that a director’s liability expires two years after the time when an individual "last" ceased to be one of the components of the corporation’s directing mind. Support for this assertion can be found in the incorporating legislation. Since subsection 323(5) refers directly to the concept of last ceasing to be a director, we believe it is appropriate to refer to section 102 of the Canada Business Corporations Act, R.S.C. (1985), c. 44:
+Duty to manage or supervise management
+102(1) Subject to any unanimous shareholder agreement, the directors shall manage, or supervise the management of, the business and affairs of a corporation.
+We note that the concept of director, even in incorporating legislation, refers to the idea of management.
+Thus, the appellant submits that, in order to act as a director, a person must actually be in a position to bind the corporation, or act as a directing mind.
+In addition, notwithstanding the Federal Court of Appeal decision in Kalef indicating that the incorporating legislation should be looked to for guidance in assigning a meaning to the concept of director, it is important to emphasize that certain decisions handed down after Kalef exempt from all tax liability, on the basis of certain circumstances, the de jure director of a corporation whose name appeared as a director in the corporate records but who did not in actuality act as such in any way. In other words, in certain specific circumstances, the case law departs from the concept of director as found in the incorporating legislation in situations where, in actuality, the individual sought to be held liable as a director did not act as such or so acted under external constraints beyond his control.
+While the Minister’s counsel could argue that the Tax Court of Canada decision to which we are referring deals not with the issue of when a person "last ceased to be a director", but rather with the assessment of the level of diligence of a particular individual, the fact remains that this decision essentially holds that the liability of a director, even one who is listed on a corporation’s register, cannot be engaged when the director in question did not in any way carry out the duties specific to the management of a particular corporation as a directing mind.
+According to the research carried out by the Appellant, no decision has formally considered the matter of the precise meaning of the concept of last being a director as opposed to the concept of ceasing to be a director.
+Mr. Justice Angers of the Tax Court of Canada handed down a decision dated March 24, 2003, in Bousquet v. The Queen. That was a case in which, the appellant, Tessier, was a de jure director, acting as a nominee on behalf of a third party. That decision, which is provided at Tab 5 in the Book of Authorities, reads as follows at paragraph 17:
+17. The testimony of the appellant Michel Tessier at the examination for discovery (the transcript was produced in evidence) and at trial clearly shows that on September 16, 1996, he purchased the only issued share of 9041 for the sole purpose of renting the new bar that had been built on the lower level of Paulin Plamondon's building. He never operated 9041 and was not aware of the company's commercial activities after his purchase or of the transactions in which 9041 was involved with Paulin Plamondon. In fact, he did not sign any document that would have disclosed the activities of 9041 to him. He was the manager of the bar on the upper floor and acted in this capacity until his departure in May 1997 when he realized that he would never reach an agreement with Paulin Plamondon on the terms of a lease. Michel Tessier's credibility was not in issue at trial and I accept his version of the facts. He did not appear to understand the nature of the role of "figurehead" that he had apparently been assigned. The admission by Paulin Plamondon, even though he is not credible, seems to confirm the fact that the appellant Michel Tessier was not a director within the meaning of subsection 227.1(1) and, consequently, he cannot be held liable for the payment of the deductions that the company 9041 failed to make during its operation. Although generally speaking, one should refer to the companies act that applies to 9041 to determine whether a person does or does not have director status, I find in the case at bar that Michel Tessier in fact did not take part in the activities of 9041 so as to engage his liability within the meaning of subsection 227.1(1) of the Act. His appeal is therefore allowed, with costs. [Emphasis added.]
+This passage is interesting in more ways than one. First, it provides a basis for affirming that the concept of director, as referred to in section 323 of the Excise Tax Act (which essentially reproduces the wording of section 227.1 of the Income Tax Act), implies that it is necessary to determine whether an individual indeed is, and in actuality possesses the attributes of, a directing mind of the corporation, rather than relying on a strict and legalistic application of the incorporating legislation used to supplement the Act, which is silent in this regard.
+Second, this same passage, which deals with the liability of a de jure director, clearly indicates that, notwithstanding the test proposed by the Court of Appeal in Kalef, it is appropriate to take into account the specific circumstances of a particular case that support the position that incorporating legislation must be used to guide the court in determining whether a person should be considered a director of a corporation.
+The Appellant wishes to stress the fact that paragraph 17 of Bousquet may be read in such a way as to exempt from any tax liability a de jure director of a corporation who, in actuality, had neither real nor formal power over the management of the corporation’s affairs.
+Subsection 5 of section 323 ETA specifies that a person cannot be assessed where more than two years have elapsed following the time when he last ceased to be a director.
+It is submitted that subsection 5 of section 323 of the Excise Tax Act is a collection provision which refers to the concept of director as described and qualified in paragraph 17 of the decision handed down by Judge Angers in Bousquet v. The Queen.
+It is submitted that it is necessary to take into account the circumstances specific to each case, having regard particularly to the ability of the individual sought to be held liable as a director to intervene or act on behalf of a particular corporation.
+[7] In my opinion, subsection 323(5) of the ETA indicates that what the Court must determine is the time when the appellant ceased to be a director and not the time when he ceased to act as a director. Although the actions of a person may be relevant in determining whether the person was a de facto director of a corporation and during what specific period of time, the case is different when it comes to determining the starting point of the time allowed for undertaking procedures against the director. The judgments to which the appellant’s counsel referred the Court (Corsano[2] and Silcoff[3]) are in fact cases in which the courts had to determine whether the persons to whom the assessments pertained were de facto directors, which explains the analysis of their actions. I am of the opinion that, for the purposes of subsection 323(5) of the ETA, the provisions of the statute under which the Corporation was incorporated, namely, the Canada Business Corporations Act, should be consulted to determine when a de jure director ceased to be a director. That is what the Federal Court of Appeal held in The Queen v. Kalef, 96 DTC 6132, as follows:
+The Income Tax Act neither defines the term director, nor establishes any criteria for when a person ceases to hold such a position. Given the silence of the Income Tax Act, it only makes sense to look to the company's incorporating legislation for guidance. . . .
+[8] Section 108 of the Canada Business Corporations Act states the following:
+108(1) A director of a corporation ceases to hold office when the director
+a) dies or resigns;
+b) is removed in accordance with section 109; or
+c) becomes disqualified under subsection 105(1).
+(2) A resignation of a director becomes effective at the time a written resignation is sent to the corporation, or at the time specified in the resignation, whichever is later.
+[9] In the case at bar, the appellant ceased to be a director because of his removal pursuant to a decision made by the corporation’s shareholders present at a special meeting held on July 30, 2002. For there to have been a resolution on such a removal on July 30, 2002, the appellant must necessarily have still been holding the office of director and not have submitted his resignation. The fact that he had ceased to act as a director (if indeed he had) in the days leading up to the shareholders’ meeting at which he was removed does not alter his status as director within the meaning of the Canada Business Corporations Act.
+[10] The provisions of the companies Acts with regard to the liability of directors for unpaid wages are similar. Thus, subsection 119(3) of the Canada Business Corporations Act provides that a director must be sued for those wages within two years after that person ceased to be a director. In response to defences based on the minimal involvement or the lack of involvement of certain directors in making the corporation’s decisions, the courts have ruled that a director can be held liable whether or not that director actively participated in the corporation’s management.[4] This case law supports to some extent the respondent’s position that the actions of a director prior to his or her resignation or removal are not relevant for the purposes of determining the starting point of the two-year time period prescribed in subsection 323(5) of the ETA. In short, this case law supports the respondent’s position that it is the date of resignation or removal that alone must be considered in determining the starting point of that two-year time period.
+[11] As for the question as to whether estoppel applies here, I do not see the relevance of discussing it in view of my decision.
+[12] For these reasons the appeal is dismissed.
+Signed at Ottawa, Canada, this 7th day of October 2008.
+« Paul Bédard »
+Bédard J.
+CITATION: 2008 TCC 327
+COURT FILE NO.: 2006-3031(GST)I
+STYLE OF CAUSE: Hagop Arevian v. Her Majesty the Queen
+PLACE OF HEARING: Montreal, Quebec
+DATE OF HEARING: June 18, 2008
+REASONS FOR JUDGMENT BY: The Honourable Justice Paul Bédard
+DATE OF JUDGMENT: October 7, 2008
+APPEARANCES:
+Counsel for the Appellant:
+Patrick Claude Caron
+Counsel for the Respondent:
+Martine Bergeron
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Patrick Claude Caron
+Firm: Caron Avocats
+Montreal, Quebec
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] See pages 8 and following of the appellant’s arguments.
+[2] Canada v. Corsano, [1999] 3 F.C. 173, [1999] 2 C.T.C. 395, 172 D.L.R. (4th) 708, 240 N.R. 151, 99 DTC 5658, 1999 CarswellNat 417 (F.C.A.).
+[3] Silcoff c. Québec (Sous-ministre du Revenu), [1998] R.D.F.Q. 159, 1998 CarswellQue 690.
+[4] Champagne c. Amiri (2004), J.E. 94-836 (C.A.Q.).

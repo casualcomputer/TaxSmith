@@ -1,0 +1,203 @@
+---
+title: "Kim v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/303972/index.do"
+last_modified: "2017-12-07"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2017 TCC 246"
+citation2: ""
+neutral_citation: "2017 TCC 246"
+decision_date: "2017-12-07"
+language: "en"
+item_id: "303972"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7859
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T11:04:46.585000+00:00"
+cases_cited_count: 10
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "1b82528cca4b76ce7a8b84cd50f3343330fbc02f6a9ab783d13624692a0310f7"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Kim v. The Queen
+
+- Citation: 2017 TCC 246
+- Decision date: 2017-12-07
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7859, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Kim v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2017-12-07
+Neutral citation
+2017 TCC 246
+File numbers
+2011-4095(IT)G, 2012-4057(IT)G
+Judges and Taxing Officers
+Guy R. Smith
+Subjects
+Income Tax Act
+Decision Content
+Dockets: 2011-4095(IT)G
+2012-4057(IT)G
+BETWEEN:
+YONGWOO KIM,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeals heard on common evidence on
+November 29, 2017, at Toronto, Ontario.
+Before: The Honourable Justice Guy R. Smith
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Peter Swanstrom
+Rishma Bhimji
+JUDGMENT
+The appeals from the reassessment made under the Income Tax Act for the 2009 and 2010 taxation years are hereby dismissed, with costs to the Respondent fixed in the amount of $5,000 payable within 60 days from the date hereof, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 7th day of December 2017.
+“Guy Smith”
+Smith J.
+Citation: 2017 TCC 246
+Date: 20171207
+Dockets: 2011-4095(IT)G
+2012-4057(IT)G
+BETWEEN:
+YONGWOO KIM,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Smith J.
+[1] Yongwoo Kim, the appellant (“Appellant”), in these proceedings, appeals from notices of assessment for the 2009 and 2010 taxation years. The Minister of National Revenue (the “Minister”) denied business losses (as well as loss carry‑backs for the 2006, 2007 and 2008 taxation years) and imposed gross negligence penalties pursuant to subsection 163(2) of the Income Tax Act (the “ITA”).
+[2] The issues are whether the Appellant was entitled to claim business losses for the years in question and if not, whether the Minister was entitled to impose gross negligence penalties.
+Background facts [3] The Appellant testified on his own behalf although, as will be seen below, he also called a second witness. He testified in Korean with the assistance of an interpreter but indicated that he was able to read English.
+[4] The Appellant insisted from the beginning that the issue before the Court was whether the Crown was able to provide evidence to support the gross negligence penalties. He repeatedly called upon the Crown to produce this evidence. According to him, there were no other issues.
+[5] During the relevant period, he was employed by Bombardier Inc. He described his duties as “quantity assurance” but otherwise refused to answer questions about his training or educational background as he viewed these matters as private and not relevant to the proceedings. He also refused to answer several other questions during cross‑examination repeatedly asking the Respondent “Why do you ask that?” and expressing a concern that the Crown was trying to trick him into making admissions.
+[6] It was apparent to the Court that the Appellant was an intelligent individual, able to understand and articulate certain complex concepts. But he also appeared to be working from a script. He attempted to read his answers delivered in response to written examinations for discovery. He often repeated his understanding of certain provisions of the ITA but generally ignored the reality of his own personal situation. He was argumentative and in the end, was not a very credible witness.
+DSC Lifestyle Services and Fiscal Arbitrators [7] Prior to the taxation years in question, the Appellant had filed his income tax returns using a software program. However, in 2009 he attended a seminar organized by DSC Lifestyle Services (“DSC”), an organization associated with tax preparers known as “Fiscal Arbitrators”. It was apparent from the Appellant’s testimony that he had been lead to believe the following basic concepts:
+1. Employment income is linked to an artificial legal entity created by the State (most often associated with a social insurance number) but it was possible to distinguish between that legal entity and a human being or “person”;
+2. The Appellant, and indeed all Canadian taxpayers who received employment income, were free as “persons” to operate a business and to claim business expenses to reduce the fictional legal entity’s taxable income.
+[8] When asked to describe his business, the Appellant referred to the definition of “business”, as set out in subsection 248(1) of the ITA, which reads as follows:
+“business” includes a profession, calling, trade, manufacture or undertaking of any kind whatever and, except for the purposes of paragraph 18(2)(c), section 54.2, subsection 95(1) and paragraph 110.6(14)(f), an adventure or concern in the nature of trade but does not include an office or employment; (commerce)
+[9] The Appellant pointed to the words an “undertaking of any kind whatever” and explained that it could be anything. He suggested that there was no need to be involved in any specific business activities. As the proceedings progressed, he simply referred to his “undertaking whatever”. Asked if he had any books and records, receipts or invoices, or any other documentary evidence to support the existence of his business, he pointed to the “Statement of Business or Professional Activities” (Form T2125) filed with his 2009 and 2010 tax returns as the best evidence available to prove this. He insisted that this document spoke for itself and that there was no need to provide additional evidence.
+[10] As a result of his understanding that he could legally separate his so‑called fictional legal entity from his “person”, he referred to employment income as having been received by him as agent for a principal, being his “person”. This was consistent with the fact that he signed his tax returns using the word “per” followed by his signature. In later correspondence, he added the words “authorized representative”.
+The 2009 tax return [11] In his 2009 tax return, the Appellant reported employment income of $81,568 and claimed a net business loss of ($265,374) resulting in total income of ($174,806). A Form T2125 was included, describing his main product or service as “agent”. He declared gross business income of $96,250 and expenses of $352,625 described as “amounts to principal from agent”, resulting in the loss of ($256,374).
+[12] He explained that his gross business income of $96,250 was in fact payment received by him for his labour, somehow relating this to the employment income received from Bombardier. He also included a Request for a Loss Carryback, claiming non‑capital losses of $53,295, $56,968 and $65,552 for the 2006, 2007 and 2008 taxation years, respectively. The refund claimed for 2009 was $21,051.
+[13] Following an exchange of correspondence and request for additional information and supporting documentation by the Canada Revenue Agency (“CRA”), the Appellant responded that “all information received by CRA was certified as correct, complete and fully discloses all income” and that “as the taxpayer is a fictional entity, it cannot misrepresent or make any false statements or have intent and therefore any penalty or action under subsection 163(2) of the ITA is a nullity and void ab initio”.
+[14] In his response to CRA of December 3, 2010, he claimed that:
+The Certified facts are that YONGWOO KIM and the Social Insurance Number attached to YONGWOO KIM and identified as the taxpayer are both fictional entities owned by the Crown in right of CANADA or province thereof. Therefore as the tax payer is a fictional entity as stated above, it cannot misrepresent or make any false statement or have intent and therefore any penalty or action under Subsection 163(2) of the ITA is a nullity.
+Notwithstanding the Income Tax Act of Canada, and in particular subsection 152(7), the facts are that all information provided on and with the original income tax return filed, has been certified to be correct, complete and true by the HOMO Ingenuus principal for the fictional entity styled as the name YONGWOO KIM, which, of necessity, is the principal’s agent. As such, the principal is entitled to be compensated for labour in providing the means through which its agent, YONGWOO KIM conducts all manner of commerce to the benefit of its owner, the Crown in right of CANADA or any province thereof, pursuant to the Principal’s fee schedule.
+[15] A Notice of Assessment eventually followed on March 8, 2011, denying that the Appellant operated a business as defined in subsection 248(1) of the ITA; denying that the Appellant had incurred expenses of $352,625 for the purposes of earning income as required by paragraph 18(1)(a) of the ITA or that he was entitled to claim a net business loss pursuant to subsection 9(2) of the ITA. The Minister also imposed gross negligence penalties of $50,396 (including the provincial penalty) pursuant to subsection 163(2) of the ITA.
+The 2010 tax return [16] In his 2010 tax return, the Appellant reported employment income of $85,568 and claimed a business loss of ($114,848) resulting in a total income of ($29,280).
+[17] The Appellant also included a T5 Summary of investment income of $114,848 signed by him as “authorized representative”. This amount was somehow supported by a number of T5 Slips purportedly issued by a number of well‑known entities including The Bank of Nova Scotia, Industrial Alliance, Enbridge, etc. Only the slips purportedly issued by The Bank of Nova Scotia contained a dollar amount, with the notation “tax withheld… unclaimed proceeds of disposition account”. All slips referred to “section 85.1”, though it was not apparent if this referred to the ITA. The amount of $114,848 was then claimed as an interest expense on the Form T2125 to ostensibly support the claim for a business loss of ($114,848). The main product and service was again described on the form as “agent”.
+[18] These calculations resulted in a claim for a refund of $21,837. The signature line contained the notation “Certified under bppa.me/wg6EeYRqE7a9ZAHgX6mF”, which the Appellant could not explain.
+[19] During cross‑examinations, the Appellant was unable to explain why his expenses for 2010 consisted of interest charges. He explained that the various T5 slips had been prepared by DSC. As with the 2009 return, he understood that his tax returns had been prepared and reviewed by Fiscal Arbitrators, although in both cases, the tax preparer box had not been completed.
+[20] Following a request for additional information by CRA, the Appellant responded with similarly worded letters which he acknowledged had been prepared by the Fiscal Arbitrators. He maintained however that he had read the draft responses to CRA, that he understood them and that, where required, he had signed and mailed them.
+[21] In a Notice of Assessment dated February 13, 2012, the Minister denied the net business loss and imposed gross negligence penalties of $17,478 (including the provincial penalty) pursuant to subsection 163(2) of the ITA.
+The Second Witness [22] The second witness introduced himself a Lawrence (Larry) Watts, one of the founders and organizers of Fiscal Arbitrators.
+[23] In his examination of this witness, the Appellant referred to a list of type‑written questions which he initially tried to read in English but eventually asked the interpreter to put the questions to Mr. Watts.
+[24] Asked if he had any reason to doubt that DSC had not followed the instructions of Fiscal Arbitrators, Mr. Watts indicated that he had no reason to doubt that.
+[25] Asked to tell the Court whether he had any reason to believe that the tax return filed by the Appellant contained a “false statement or omission”, Mr. Watts responded that there were none and that the returns were accurate.
+[26] In the cross‑examinations that followed, Mr. Watts acknowledged that he had helped the Appellant in the preparation of the questions prior to the hearing. He was also asked if he had a criminal record and whether he had been found guilty of fraud in connection with his activities involving Fiscal Arbitrators. He responded in the affirmative. It follows that this Court must conclude that his testimony is inherently unreliable.
+The Law The existence of a business [27] Subsection 248(1) of the ITA defines a business to be “a profession, calling, trade or manufacture or undertaking of any kind whatever” including “an adventure in the nature of trade but does not include an office or employment”. It is trite law that a business must include the notion of profit and while it may include an “undertaking of any kind whatever”, as argued by the Appellant, it must also be a discernable commercial activity involving the provision of goods or services for a profit. A business cannot exist in the abstract.
+[28] Subsection 3(1) of the ITA deals with the computation of income and provides that a taxpayer shall determine his or her income for a taxation year by identifying “a source” forming the basis for “the taxpayer’s income for the year from each office, employment, business or property” (My Emphasis). If the profit motive is absent, then it can logically be concluded that the alleged business activity is either a hobby or a personal endeavour, possibly having philanthropic objectives: Stewart v. The Queen, [2002] 2 SRC 645.
+[29] The notion of profit is further emphasized in subsection 9(2) of the ITA dealing with the computation of income from a business, which provides that “a taxpayer’s income for a taxation year from a business ... is the taxpayer’s profit from that business … for the year”. The notions of business and profit are inextricably linked. A taxpayer must therefore be able to demonstrate that his activities were undertaken with a view to realizing a profit.
+[30] The notion of profit is further addressed in paragraph 18(1)(a) of the ITA which provides that in computing a taxpayer’s income from a business, an outlay or expense shall not be deductible “except to the extent that it was made or incurred … for the purpose of gaining or producing income from the business or property”. This is further emphasized by the specific exclusion in paragraph 18(1)(h) of the ITA of “personal or living expenses of the taxpayer”.
+[31] I will add that subsection 248(1) of the ITA also includes a definition of “taxpayer” and specifies that it “includes any person whether or not liable to pay tax”. The word “person” is also defined as “any word or expression descriptive of a person …”. Common sense dictates that the words “taxpayer” and “person” can be used interchangeably and that the word “person” includes a natural person or human being. There is no distinction: Bydeley v. The Queen, 2012 TCC 142, Pomerleau v. Canada (Revenue Agency), 2017 ABQB 123, par. 61‑63.
+[32] In the end, a taxpayer, whether he views himself as a person, a natural personal or a human being, can operate a business as a source of income.
+The gross negligence penalties [33] Subsection 163(2) of the ITA establishes the basis for the imposition of gross negligence penalties:
+(2) False statements or omissions Every person who, knowingly, or under circumstances amounting to gross negligence, has made or has participated in, assented to or acquiesced in the making of, a false statement or omission in a return, form, certificate, statement or answer (in this section referred to as a “return”) filed or made in respect of a taxation year for the purposes of this Act, is liable to a penalty of the greater of $100 and 50% of the total of (…)
+[34] However, subsection 163(3) of the ITA provides that the onus is on the Minister to establish the facts justifying the assessment of gross negligence penalties. In other words, the Minister must prove 1) that the taxpayer made a false statement or omission in his tax return and 2) that such false statement or omission was either made knowingly or under circumstances amounting to gross negligence.
+[35] Whether a taxpayer has made a false statement or omission involves a primarily factual analysis. If it is not admitted, then the Minister will have to adduce evidence to convince the Court on a balance of probabilities.
+[36] The next step involves determining whether the taxpayer did so “knowingly” or “under circumstances amounting to gross negligence”. This too involves a factual analysis but as will be seen, it actually involves a question of mixed law and fact. As indicated in Wynter v. The Queen, 2017 FCA 195, par. 11, the use of the word “or” suggests that the Minister must prove one or the other. Rennie J.A. explained:
+[13] A taxpayer is wilfully blind in circumstances where the taxpayer becomes aware of the need for inquiry but declines to make the inquiry because the taxpayer does not want to know, or studiously avoids, the truth. The concept is one of deliberate ignorance: R. v. Briscoe, 2010 SCC 13 at paras. 23-24, [2010] 1 S.C.R. 411 (Briscoe); Sansregret at para. 24. In these circumstances, the doctrine of wilful blindness imputes knowledge to a taxpayer: Briscoe at para. 21. Wilful blindness is the doctrine or mechanism by which the knowledge requirement under subsection 163(2) is met.
+(…)
+[16] In sum, the law will impute knowledge to a taxpayer who, in circumstances that suggest inquiry should be made, chooses not to do so. The knowledge requirement is satisfied through the choice of the taxpayer not to inquire, not through a positive finding of an intention to cheat.
+[37] Therefore “knowingly” includes “deliberate ignorance” or intentionally turning a blind eye to certain facts or circumstances that the taxpayer knows to be false. But this notion is not to be confused with gross negligence, as further explained by Rennie J.A.:
+[18] Gross negligence is distinct from wilful blindness. It arises where the taxpayer's conduct is found to fall markedly below what would be expected of a reasonable taxpayer. Simply put, if the wilfully blind taxpayer knew better, the grossly negligent taxpayer ought to have known better.
+[19] Gross negligence requires a higher degree of neglect than a mere failure to take reasonable care. It is a marked or significant departure from what would be expected. It is more than carelessness or misstatements. The point is captured in the decision of this Court in Zsoldos v. Canada (Attorney General), 2004 FCA 338 at para. 21, 2004 D.T.C. 6672:
+In assessing the penalties for gross negligence, the Minister must prove a high degree of negligence, one that is tantamount to intentional acting or an indifference as to whether the law is complied with or not. (See Venne v. R. (1984), 84 D.T.C. 6247 (Fed. T.D.), at 6256.)
+[38] As further clarified in paragraph 20, “what is at issue under subsection 163(2) is a penalty, which may be imposed either by a finding of knowledge or a finding of gross negligence”. As observed at paragraph 23, the trial judge used the terms wilful blindness and gross negligence interchangeably. This is not surprising since earlier cases have indeed tended to blur the two concepts. In Villeneuve v. Canada, 2004 FCA 20, the Federal Court of Appeal found that gross negligence could include wilful blindness. At paragraph 6 of that decision Létourneau J.A. make the following observation:
+With respect, I think the judge failed to consider the concept of gross negligence that may result from the wrongdoer's willful blindness. Even a wrongful intent, which often takes the form of knowledge of one or more of the ingredients of the alleged act, may be established through proof of willful blindness. In such cases the wrongdoer, while he may not have actual knowledge of the alleged ingredient, will be deemed to have that knowledge.
+[39] In Torres v. The Queen, 2013 TCC 380, several taxpayers had similarly been duped by Fiscal Arbitrators and lead to believe that they could deduct fictional business losses. Miller J. reviewed the case law involving gross negligence and the concept of wilful blindness and (at paragraph 65), suggested a list of factors to be considered including 1) the education and experience of the taxpayer, 2) circumstances that would suggest the need or suspicion for an inquiry, 3) the magnitude of the advantage or omission, 4) the blatantness of the false statement or omission and how readily detectable it was, 5) the lack of acknowledgment by the tax preparer in the form itself, 6) unusual requests made by the tax preparer, 7) the tax preparer being previously unknown to the taxpayer, 8) incomprehensible explanations by the tax preparer, 9) the taxpayer makes no enquiry of third parties or the CRA itself. In summary, the Court must consider the individual circumstances of each appellant.
+[40] One of the appellants in Torres, supra, appealed to the Federal Court of Appeal in Strachan v. The Queen, 2015 FCA 60. Dawson J.A. dismissed the appeal indicating that:
+[2] (…) The facts giving rise to the imposition of the penalty were that the appellant, at the behest of an unscrupulous tax preparer, claimed a fictitious business loss in an amount sufficient to generate a complete refund of all taxes paid by the appellant in respect of her employment income.
+(…)
+[4] (…) Gross negligence may be established where a taxpayer is willfully blind to the relevant facts in circumstances where the taxpayer becomes aware of the need for some inquiry but declines to make the inquiry because the taxpayer does not want to know the truth (Canada (Attorney General) v. Villeneuve, 2004 FCA 20, 327 N.R. 186, at paragraph 6; Panini v. Canada, 2006 FCA 224, [2006] F.C.J. No. 955, at paragraphs 41-43).
+(…)
+[6] (…) No palpable and overriding error has been shown in the Judge's finding of mixed fact and law that given the numerous "warning" signs, the appellant was required to make further inquiries of her tax preparer, an independent advisor or the Canada Revenue Agency itself before signing her tax return. Nor has any palpable and overriding error been shown in the Judge's conclusion that the circumstances precluded a defence that, based upon the wrongful representations of her tax preparer, the appellant believed that what she was doing was permissible.
+Analysis and conclusion [41] Did the Appellant operate a business? Clearly he did not. As noted above, the definition of “business” in subsection 248(1) of the ITA includes an “undertaking of any kind whatever”. Indeed, a business can be anything but it must also be something, as long as the activity is undertaken with a profit motive. It cannot simply exist in the abstract or in some form of virtual reality.
+[42] The Appellant has suggested that he was entitled to operate a business as a person or human being, distinct from what he referred to as the fictional entity attached to his social insurance number. It is plain an obvious that a person or human being can operate a business under Canadian law but there is no distinction between that person and the individual who has a social insurance number and earns employment income.
+[43] It follows that the suggestion by the Appellant that income was received or that business expenses were incurred as agent for a principal, is completely nonsensical. In this instance, the Appellant, the agent and the principal were clearly one and the same.
+[44] The Appellant claimed business expenses of $352,625 for 2009 and $114,848 for 2010 and yet was unable to provide one scintilla of evidence. In the end, the Court must conclude that the business income and expenses were entirely fictitious. They were simply fabricated (with the assistance of the Fiscal Arbitrators) for the purpose of generating a tax refund. Had CRA not refused to process the subject returns, the Appellant would have received tax refunds in excess of $100,000 for the 2006 to 2010 taxation years.
+[45] Did the Appellant make a false statement or omission? According to the fresh Notice of Appeal filed with respect to both taxation years, each of the tax returns “was filed and was correct and complete and contained no false information”. This is consistent with the position taken by the Appellant in correspondence to the CRA, as noted above, that all information in his tax returns had been “certified to be correct, complete and true”.
+[46] During cross‑examinations, the Appellant admitted that he had filed the tax returns for the 2009 and 2010 taxation years, including the Statement of Business Activities and Request for Loss Carryback. He recognized his signature even though he had added the expressions “per” or “authorized representative”.
+[47] Since I have already concluded that the Appellant did not carry on a business and did not incur the business expenses in question, it logically follows that the Court must also find that he knowingly made a false statement in his tax returns.
+[48] Even if the Court considers for a moment that the Appellant mistakenly believed that he had a business, which defies credulity, he must have known that he had not in fact incurred the business expenses in question. There is little doubt that he was motivated by a desire to avoid paying income taxes and by the prospect of receiving a substantial tax refund.
+[49] Turning to the language used in Wynter, supra, the Appellant either knew or was deliberately ignorant according to the doctrine of wilful blindness. In other words, he either knew of the false statement or such knowledge is imputed to him. If he had a suspicion, which he must have had, “he deliberately chose not to make enquiries in order to avoid verifying that which might be such an inconvenient truth” (par. 17).
+[50] Referring to the various factors set out by Miller J., in Torres, supra, notably 1) the Appellant’s general level of intelligence, 2) the magnitude of the advantage as compared to tax refunds received in previous years, 3) the blatantness of the false statement, 4) the lack of former knowledge of the tax preparer, 5) the incomprehensible and nonsensical explanations made by the tax preparer, 6) the failure to make enquiries of third parties, an accountant or the CRA. These factors taken together suggest that the Appellant was either wilfully blind or grossly negligent in the preparation of his tax returns.
+[51] On that basis, I find that the Respondent has met the burden set out in subsection 163(3) of the ITA and I conclude that the Appellant knowingly or in circumstances amounting to gross negligence made a false statement in his 2009 and 2010 tax returns. As a result, the Minister is entitled to the gross negligence penalties.
+[52] What can be said about the testimony of Mr. Watts who, unbeknownst to the Court at the time of the hearing, had been found guilty by a jury of fraud in connection with his activities with Fiscal Arbitrators, as reported at 2016 ONSC 4843. On June 6, 2016, he was sentenced to six years in jail and ordered to pay a fine of $149,129. The trial judge indicated that:
+[1] Following a twenty-three-day jury trial, Lawrence Watts was found guilty of one count of fraud, in an amount exceeding $5,000, contrary to section 380(1)(a) of the Criminal Code. The charge arose from the preparation, by the offender, of one or more income tax returns for 241 Canadian taxpayers. In each case, a non-existent business loss, of a non-existent business, was reported which had the effect of extinguishing the taxpayer’s tax liability for the then current, and three previous years. This resulted in a claim for a refund of all of the tax paid in the three previous years, and of the money withheld at source by their employers for the then current year. The taxpayers who testified at trial gave evidence that they had not carried on a business, or incurred the losses reported on their returns, had not suggested to Watts that they had incurred losses, and did not know where the numbers on their returns had come from.
+[2] The total amount of federal tax revenue that would have been lost had all of the returns been assessed as filed was $10,507,131, based upon the reporting of $64,253,889 of non-existent losses. However, at some point, Canada Revenue Agency caught on to the scheme and began to disallow the refund claims. The actual amount paid out in federal tax refunds, or otherwise credited to the taxpayers’ federal tax accounts, was $2,750,288.
+[3] In preparing the tax returns, Mr. Watts used the business name “Fiscal Arbitrators”. For his services, the taxpayers were charged twenty per cent of the tax refunds, or credits, received from CRA. Documents seized from Watts’ office showed projected revenue of $1,902,227.
+[53] Despite the foregoing, Mr. Watts was happy to step forward as a witness for the Appellant and repeat his mantra that each and every Canadian was entitled to claim business losses to eliminate income tax they might have paid on their employment income. Having acknowledged that he had been involved in the preparation of the Appellant’s tax returns, he was asked by the Appellant if he could point to a false statement or omission in the tax returns. Mr. Watts responded by assuring the Court that there were none. As indicated above, his testimony is inherently unreliable and of no probative value whatsoever. In any event, his responses go to the heart of the issues that must be determined by this Court and not by Mr. Watts.
+[54] At the conclusion of the hearing, the Appellant was advised that the appeals would be dismissed with written reasons to follow. The Respondent made submissions on costs and in particular informed the Court that several decisions of the Tax Court of Canada and Federal Court of Appeal included in the Respondent’s Book of Authorities, had been provided to the Appellant in May 2017. He nonetheless chose to proceed with these appeals.
+[55] For all the foregoing reasons, the appeals are dismissed with costs to the Respondent fixed in the amount of $5,000 payable within 60 days from the date hereof.
+Signed at Ottawa, Canada, this 7th day of December 2017.
+“Guy Smith”
+Smith J.
+CITATION:
+2017 TCC 246
+COURT FILE NOS.:
+2011-4095(IT)G
+2012-4057(IT)G
+STYLE OF CAUSE:
+YONGWOO KIM v. HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+November 29, 2017
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Guy R. Smith
+DATE OF JUDGMENT:
+December 7, 2017
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Peter Swanstrom
+Rishma Bhimji
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada

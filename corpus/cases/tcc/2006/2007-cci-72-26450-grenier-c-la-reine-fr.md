@@ -1,0 +1,115 @@
+---
+title: "Grenier c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26450/index.do"
+last_modified: "2006-07-28"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 CCI 72"
+citation2: ""
+neutral_citation: "2007 CCI 72"
+decision_date: "2006-07-28"
+language: "fr"
+item_id: "26450"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3135
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T23:51:37.867000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "df0390ae3fc95a92b03588330d96c6b911563f18a670f8fb4db2c8bb65e422dd"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Grenier c. La Reine
+
+- Citation: 2007 CCI 72
+- Decision date: 2006-07-28
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3135, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Grenier c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-07-28
+Référence neutre
+2007 CCI 72
+Numéro de dossier
+2006-329(IT)I
+Juges et Officiers taxateurs
+Pierre Archambault
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Référence : 2007CCI72
+Date : 20070412
+Dossier : 2006-329(IT)I
+ENTRE :
+JESSIE GRENIER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+(Prononcés oralement à l'audience le 28 juillet 2006
+à Montréal (Québec) et modifiés pour plus de clarté et de précision.)
+Le juge Archambault
+[1] M. Jessie Grenier interjette appel de la cotisation d'impôt sur le revenu établie par le ministre du Revenu national (ministre) à l'égard de l'année d'imposition 2003. Par cette cotisation, le ministre a ajouté aux revenus de M. Grenier un revenu additionnel de 14 579 $ tiré d'un emploi. Dans son avis d'appel, M. Grenier soutient que le ministre a transformé en salaire son indemnité pour frais de déplacement.
+[2] Pour établir ses cotisations, le ministre a tenu pour acquis les faits suivants[1] :
+a) Au cours de l'année en litige, l'appelant a joué au hockey pour les équipes les Vikings de Trois-Rivières et Les Prédateurs de Granby; (admis)
+b) Il a reçu la somme de 5 359 $ de la société 9128-7730 Québec Inc. (les Vikings de Trois-Rivières) et 9 220 $ de la part de la société « Les Prédateurs de Granby Inc. » ; (admis)
+c) Ces sommes ont été reçues par l'appelant au titre d'allocation pour frais de déplacements sur la base de 42 ¢ le kilomètre parcouru; (admis)
+d) Le Ministre a déterminé que le kilométrage accompli par l'appelant entre sa résidence et son lieu de travail n'était pas effectué dans le cadre de son emploi; (admis)
+e) Les dépenses réclamées par l'appelant sont des frais personnels de celui-ci; (nié)
+f) L'appelant ne tenait pas de registre de ses déplacements; (nié)
+g) L'appelant n'a pas démontré qu'il devait se déplacer dans le cadre de son emploi. (nié)
+[3] Selon les témoignages de M. Grenier et de M. James Leinhos, qui se sont décrits tous les deux comme des étudiants, M. Grenier jouait dans une ligue de hockey en 2003 sans recevoir de salaire pour ses services. Tout ce qu'il a reçu des équipes de hockey a été l'indemnité pour frais de déplacement. Selon l'ensemble de la preuve qui m'a été présentée[2], le montant de cette indemnité représentait approximativement le montant des dépenses que les joueurs de hockey devaient engager pour participer aux activités des équipes (matches et entraînement). Ces dépenses comprenaient non seulement les frais de déplacement, mais également les frais d'équipement (y compris les bâtons). Cela a été le cas pour les dépenses que M. Grenier a engagées en jouant pour les Prédateurs de Granby. M. Grenier a estimé que lorsqu'il a joué pour les Vikings de Trois-Rivières, ses dépenses ont été supérieures de 804 $ à l'indemnité reçue. Je n'ai aucune raison de douter de la crédibilité du témoignage de M. Grenier, bien qu'il eût été plus prudent d'avoir des pièces justificatives pour établir ses dépenses, notamment le coût des bâtons de hockey et leur nombre.
+[4] L'indemnité en cause ne représente donc pas un salaire déguisé et, par conséquent, je ne crois pas qu'il existait un contrat de travail entre M. Grenier et les deux équipes de hockey, puisqu'il manquait un des trois éléments essentiels à l'existence d'un tel contrat, soit la rémunération des services rendus. Voici ce qu'édicte l'article 2085 du Code civil du Québec :
+2085 Le contrat de travail est celui par lequel une personne, le salarié, s'oblige, pour un temps limité et moyennant rémunération, à effectuer un travail sous la direction ou le contrôle d'une autre personne, l'employeur.
+[Je souligne.]
+[5] À mon avis, l'activité de M. Grenier en 2003 n'a constitué qu'une simple activité récréative pour laquelle on lui a remboursé des dépenses. Il n'existait donc pas de source de revenu, notamment un emploi. Les articles 5 et 6 de la Loi de l'impôt sur le revenu n'ont ainsi aucune application ici.
+[6] Pour tous ces motifs, l'appel de M. Grenier doit être accueilli et la cotisation doit être renvoyée au ministre pour nouvel examen et nouvelle cotisation en tenant pour acquis que le montant de 14 579 $ ajouté aux revenus d'emploi de M. Grenier ne constituait pas un tel revenu.
+Signé à Ottawa, Canada, ce 12e jour d'avril 2007.
+« Pierre Archambault »
+Juge Archambault
+RÉFÉRENCE : 2007CCI72
+N º DU DOSSIER DE LA COUR : 2006-329(IT)I
+INTITULÉ DE LA CAUSE : JESSIE GRENIER c. LA REINE
+LIEU DE L'AUDIENCE : Montréal (Québec)
+DATE DE L'AUDIENCE : le 28 juillet 2006
+MOTIFS DU JUGEMENT PAR : 'honorable juge Pierre Archambault
+DATE DU JUGEMENT : le 3 août 2006
+DATE DES MOTIFS
+DU JUGEMENT : le 12 avril 2007
+COMPARUTIONS :
+Pour l'appelant :
+l'appelant lui-même
+Représentante de l'intimée:
+Chantal Roberge (stagiaire en droit)
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelant :
+Nom :
+Cabinet :
+Pour l'intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Il faut noter que le ministre n'a pas tenu pour acquis explicitement qu'il existait un contrat de travail au sens de l'article 2085 du Code civil du Québec entre M. Grenier et les deux équipes de hockey.
+[2] Y compris les pièces A-1 à A-8.

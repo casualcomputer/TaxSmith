@@ -1,0 +1,245 @@
+---
+title: "Gestion Réjean Masson Inc. c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26500/index.do"
+last_modified: "2005-07-15"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 CCI 445"
+citation2: ""
+neutral_citation: "2005 CCI 445"
+decision_date: "2005-07-15"
+language: "fr"
+item_id: "26500"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3248
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T22:45:40.491000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "049e7cb22dfe996329c532b363131b4406d2a5b64b1ec9feb72b476e2a53b943"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Gestion Réjean Masson Inc. c. M.R.N.
+
+- Citation: 2005 CCI 445
+- Decision date: 2005-07-15
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3248, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Gestion Réjean Masson Inc. c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-07-15
+Référence neutre
+2005 CCI 445
+Numéro de dossier
+2004-3105(EI)
+Juges et Officiers taxateurs
+Louise Lamarre Proulx
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2004-3105(EI)
+ENTRE :
+GESTION RÉJEAN MASSON INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+CHANTAL MASSON,
+JACINTHE MASSON,
+ANDRÉ ST-PIERRE,
+intervenants.
+____________________________________________________________________
+Appel entendu le 22 mars 2005 à Montréal (Québec)
+Devant : L'honorable juge Louise Lamarre Proulx
+Comparutions :
+Représentant de l'appelante :
+Alain Savoie
+Avocat de l'intimé :
+Me Simon Petit
+Représentant des intervenants :
+Alain Savoie
+____________________________________________________________________
+JUGEMENT
+L'appel de la décision rendue par le Ministre du revenu national en vertu de la Loi sur l'assurance-emploi, pour la période du 1er janvier 2002 au 6 juin 2003, est accordé et la décision du ministre est infirmée selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 15e jour de juillet 2005.
+« Louise Lamarre Proulx »
+Juge Lamarre Proulx
+Référence : 2005CCI445
+Date : 20050715
+Dossier : 2004-3105(EI)
+ENTRE :
+GESTION RÉJEAN MASSON INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+CHANTAL MASSON,
+JACINTHE MASSON,
+ANDRÉ ST-PIERRE,
+intervenant.
+MOTIFS DU JUGEMENT
+La juge Lamarre Proulx
+[1] L'appelante en appelle des décisions du ministre du Revenu national (le « Ministre » ) concernant monsieur André St-Pierre et mesdames Chantal Masson et Jacinthe Masson voulant que ces derniers aient exercé un emploi assurable du 1er janvier 2002 au 6 juin 2003.
+[2] Les faits sur lesquels le Ministre s'est fondé pour rendre ces décisions sont décrits aux paragraphes 5, 6 et 7 de la Réponse à l'avis d'appel (la « Réponse » ) :
+a) l'appelante a été constitué en société le 31 janvier 1980;
+b) l'appelante exploitait un magasin d'alimentation sous la bannière Métro, au Cap-de-la-Madeleine;
+c) l'appelante embauchait environ 80 employés;
+d) en 2002, l'appelante avait un chiffre d'affaires d'environ 11 millions de dollars;
+e) l'appelante embauchait trois gérants, soit Philippe H. Lambert, gérant de l'épicerie, François Charel, gérant des viandes et André Beaudoin, gérant des fruits et légumes;
+f) le 26 mars 2004, dans une déclaration à un représentant de l'intimé, Jacinthe Masson déclarait que les gérants de secteur étaient responsables d'embaucher et de congédier les employés de leur secteur;
+g) les travailleurs rendaient des services à l'année longue pour l'appelante;
+h) chacun des travailleurs avaient des tâches définies;
+i) les tâches de Chantal Masson pouvaient se résumer ainsi :
+- s'occuper de la paie
+- s'occuper des assurances collectives
+- remplir les formulaires d'analyse des gérants
+- offrir le service de prise de commande téléphonique
+j) les tâches de Jacinthe Masson pouvaient se résumer ainsi :
+- s'occuper de la facturation, comptes à payer et à recevoir
+- faire les entrées à l'ordinateur des ventes de l'appelante
+- effectuer les dépôts
+- effectuer la conciliation bancaire
+k) les tâches de André St-Pierre pouvaient se résumer ainsi :
+- gérer le personnel
+- préparer les budgets
+- changer les logiciels informatiques
+- acheter l'équipement
+- s'occuper de la formation
+l) les travailleurs avaient un horaire variable durant la semaine;
+m) le 4 juin 2003, dans une déclaration à un représentant de l'intimé, Jacinthe Masson déclarait que sa charge de travail l'occupait amplement 40 heures par semaine;
+n) les travailleurs étaient inscrits au journal des salaires de l'appelante pour des semaines de travail de 40 heures mais ils pouvaient travailler jusqu'à 60 heures par semaine;
+o) les travailleurs travaillaient dans les locaux de l'appelante;
+p) les travailleurs égaient rémunérés 675 $ fixe par semaine;
+q) les travailleurs étaient payés par dépôt direct;
+r) l'appelante avait le pouvoir de contrôler le travail des travailleurs;
+s) l'appelante contrôlait les conditions d'emploi des travailleurs;
+t) tout le matériel et l'équipement dont se servait les travailleurs appartenaient à l'appelante;
+u) le travailleur André St-Pierre, s'il utilisait son automobile dans le cadre de ses fonctions, voyaient ses dépenses remboursées par l'appelante;
+v) les travailleurs n'avaient aucun risque financier dans l'exécution de leurs tâches pour l'appelante;
+w) les tâches des travailleurs étaient intégrées aux activités de l'appelante.
+6. L'appelante et les travailleurs sont des personnes liées au sens de la Loi de l'impôt sur le revenu car :
+a) les actionnaires avec droit de vote de l'appelante étaient :
+Réjean Masson
+51 % des actions
+Jacinthe Masson
+25 % des actions
+Chantal Masson
+19 % des actions
+André St-Pierre
+5 % des actions
+b) Réjean Masson est le père de Jacinthe Masson et de Chantal Masson;
+c) André St-Pierre est le conjoint de Chantal Masson;
+d) les travailleurs font partie d'un groupe lié qui contrôle l'appelante;
+7. Le ministre a déterminé aussi que l'appelante et les travailleurs étaient réputés ne pas avoir de lien de dépendance entre eux dans le cadre de cet emploi car il a été convaincu qu'il était raisonnable de conclure que l'appelante et les travailleurs auraient conclu entre eux un contrat de travail à peu près semblable s'ils n'avaient pas eu de lien de dépendance, compte tenu des circonstances suivantes :
+a) les travailleurs n'avaient pas déboursé d'argent pour les actions de l'appelante;
+b) en 1991, Réjean Masson avait fait une donation d'une partie de ses actions aux trois travailleurs;
+c) la rémunération des travailleurs était fixée par l'appelante;
+d) le gérant de l'épicerie, Philippe H. Lambert avait un salaire supérieur aux travailleurs, soit 802 $ brut par semaine;
+e) les heures de travail des travailleurs étaient variables et elles tenaient compte de la nature de l'entreprise de l'appelante;
+f) Réjean Masson se rendait quotidiennement au magasin et il examinait régulièrement les rapports financiers;
+g) les travailleurs devaient rendre des comptes à l'appelante sur les résultats obtenus;
+h) les travailleurs travaillaient à l'année longue pour l'appelante;
+i) les décisions importantes de l'appelante étaient prises par tous les actionnaires.hantal Masson
+[3] Au début de l'audience, le représentant de l'appelante a admis les alinéas 5 a) à 5 l), 5 p), 5 q), 5 t), 5 u) et 5 w). Il a nié les alinéas 5 m) à 5 o), 5 r) et 5 s). Il a admis le paragraphe 6 en totalité. Il a admis les alinéas 7 a), 7 b), 7 d) et 7 h) et a nié les alinéas 7 c), 7e), 7f), 7g) et 7 i).
+[4] Monsieur André St-Pierre et madame Jacinthe Masson ont témoigné pour la partie appelante.
+[5] Monsieur André St-Pierre et madame Chantal Masson sont mariés depuis 1979. En 1987, ils ont commencé à travailler pour le magasin d'alimentation du père de madame Masson, monsieur Réjean Masson.
+[6] En 1990, ce dernier s'est à peu près retiré de la gestion du magasin et monsieur St-Pierre en est devenu le directeur général. Ainsi, en 1995, monsieur St-Pierre a pris la décision d'agrandir le magasin, sans vraiment de consultation avec monsieur Masson. Depuis le 1er février 2004, lui et son épouse, par l'intermédiaire de Gestion Chambray Inc., dont ils sont actionnaires, sont propriétaires de 75,1 p. 100 des actions de l'appelante.
+[7] Monsieur St-Pierre et madame Chantal Masson ont cautionné sur leur maison privée un emprunt de l'appelante au montant de 480 000 $ ainsi que la marge de crédit pour une somme de 225 000 $.
+[8] Monsieur St-Pierre explique que son horaire de travail est varié. Ses semaines sont habituellement des semaines de 80 heures, mais il peut également faire des semaines de 30 heures. Il n'a pas d'horaire à respecter contrairement aux employés qui eux poinçonnent un horodateur.
+[9] En 2001, il a dû subir une opération du coeur. Sa femme a alors pris la relève. Comme il ne recevait pas son plein salaire, il a obtenu la différence par une assurance privée sur le salaire.
+[10] Le montant des salaires est déterminé collectivement entre sa femme Chantal, sa belle-soeur, Jacinthe et lui-même. Je cite à l'égard des salaires les passages pertinents du rapport de l'agent des appels déposé comme pièce A-3 :
+Rétribution :
+Le salaire d'André St-Pierre était de 744 $ brut par semaine en l'année 2002, puis il a diminué de 9 %, étant révisé à 675 $ brut afin d'éviter de la chicane avec les autres actionnaires Chantal et Jacinthe Masson qui recevaient 675 $ brut par semaine. Quant à l'actionnaire majoritaire Réjean Masson son salaire était de 480 $ brut par semaine.
+De plus, à titre comparatif, un échantillonage du livre des salaires pour l'année 2003 indique que le salaire brut du gérant d'épicerie, Philippe H Lambert était de 802 $ brut par semaine pour 40 heures, celui du gérant des viandes, François Charel était de 630 $ brut par semaine et celui du gérant des fruits et légumes, André Beaudoin, était de 602 $ brut par semaine.
+Puisqu'ils étaient actionnaires, il leur revenait de fixer eux-mêmes leur salaire et il avait été déterminé selon la capacité de payer de la compagnie. Le salaire était versé par la méthode du dépôt direct.
+André St-Pierre recevait toujours le même salaire indépendamment du nombre d'heures travaillées (toujours supérieur à 40 heures, jusqu'à 75 heures par semaine, malgré que le livre des salaires en indique 40), ce qui se pratique couramment lorsqu'un travailleur est également actionnaire, car on ne compte pas les heures travaillées pour assurer le succès de l'entreprise.
+Donc le salaire d'André St-Pierre est raisonnable compte tenu des faits ci-haut mentionnés.
+Rétribution :
+Le salaire de Chantal Masson était de 675 $ brut par semaine pour une semaine de travail de 40 à 45 heures par semaine selon les besoins du payeur, malgré le fait qu'elle figurait au livre des salaires pour 40 heures. L'actionnaire Jacinthe Masson recevait 675 $ brut par semaine ainsi que l'actionnaire André St-Pierre (suite à une diminution en 2002 afin d'éviter de la chicane). Quant à l'actionnaire majoritaire Réjean Masson son salaire était de 480 $ brut par semaine.
+De plus, à titre comparatif, un échantillonage du livre des salaires pour l'année 2003 indique que le salaire brut du gérant d'épicerie, Philippe H Lambert était de 802 $ brut par semaine pour 40 heures, celui du gérant des viandes, François Charel était de 630 $ brut par semaine et celui du gérant des fruits et légumes, André Beaudoin, était de 602 $ brut par semaine.
+Puisqu'ils étaient actionnaires, il leur revenait de fixer eux-mêmes leur salaire et il avait été déterminé selon la capacité de payer de la compagnie. Le salaire était versé par la méthode du dépôt direct.
+Donc le salaire de Chantal Masson est raisonnable compte tenu des faits ci-haut mentionnés.
+[...]
+Rétribution :
+Le salaire de Jacinthe Masson était de 675 $ brut par semaine pour une semaine de travail de 15 à 20 heures par semaine selon les besoins du payeur, malgré le fait qu'elle figurait au livre des salaires pour 40 heures. L'actionnaire Chantal Masson recevait 675 $ brut par semaine ainsi que l'actionnaire André St-Pierre (suite à une diminution en 2002 afin d'éviter de la chicane). Quant à l'actionnaire majoritaire Réjean Masson son salaire était de 480 $ brut par semaine.
+De plus, à titre comparatif, un échantillonage du livre des salaires pour l'année 2003 indique que le salaire brut du gérant d'épicerie, Philippe H Lambert était de 802 $ brut par semaine pour 40 heures, celui du gérant des viandes, François Charel était de 630 $ brut par semaine et celui du gérant des fruits et légumes, André Beaudoin, était de 602 $ brut par semaine.
+Puisqu'ils étaient actionnaires, il leur revenait de fixer eux-mêmes leur salaire et il avait été déterminé selon la capacité de payer de la compagnie. Le salaire était versé par la méthode du dépôt direct.
+Donc le salaire de Jacinthe Masson est raisonnable compte tenu des faits ci-haut mentionnés.
+[11] Monsieur St-Pierre mentionne qu'en 2004, il s'était octroyé un boni d'environ 10 000 $.
+[12] Il prend habituellement une ou deux semaines de vacances. C'est la même chose pour Chantal Masson alors que les employés cadres ont droit à quatre semaines de vacances.
+[13] Il amène régulièrement du travail de bureau à la maison. Ainsi, c'est chez lui qu'il élabore les budgets. Il a un ordinateur portable qu'il transporte chez lui et qu'il branche sur son ordinateur de magasin. Il peut ainsi contrôler les fluctuations des réfrigérateurs et toutes autres choses essentielles à un magasin d'alimentation.
+[14] Contrairement aux autres employés, comme le gérant de l'épicerie, celui de la boucherie et celui des fruits et légumes, les appelants ne comptabilisent pas leurs heures supplémentaires.
+[15] En ce qui concerne Jacinthe Masson, elle peut travailler parfois deux jours par semaine ou parfois cinq jours. Ses heures ne sont pas contrôlées. Elle travaille environ de 15 à 20 heures par semaine.
+[16] Madame Chantal Masson s'est décrite comme la directrice adjointe. Elle s'occupe des paies, des réclamations de la Commission de la santé et de la sécurité du travail et de l'analyse des inventaires de chacun des départements. L'horaire de son travail est à sa convenance. Elle est autonome. Elle peut faire, dans une semaine, 20 heures, 45 heures ou 60 heures; ce n'est jamais pareil. C'est selon ses besoins à elle et selon les besoins de l'entreprise. Ainsi, s'il y a une convention collective à négocier, elle travaille plus d'heures.
+[17] Elle pratique des sports comme le golf et a suivi des cours. Elle a trois enfants qui ont maintenant 21, 17 et 13 ans. Elle est signataire des chèques de l'entreprise. La signature peut se faire que par une seule personne.
+[18] Elle confirme que c'est André St-Pierre qui prend les décisions importantes.
+[19] Elle mentionne que, si elle cessait son travail auprès de l'appelante, elle ne serait pas remplacée et qu'André assumerait la totalité des tâches.
+[20] Le représentant des intervenants fait valoir qu'il s'agit d'une entreprise familiale et que les différentes modalités de travail ne suivent pas les règles du marché normal du travail en ce qui concerne les montants des salaires, le cautionnement des dettes possibles de l'entreprise et les vacances réduites. Le montant de rémunération est fondé sur les décisions personnelles des travailleurs. Les conditions d'emploi des travailleurs sont déterminées par les travailleurs eux-mêmes.
+[21] L'avocat de l'intimé se réfère à la jurisprudence sur le respect à accorder à l'exercice du pouvoir discrétionnaire du Ministre prévu à l'alinéa 5(3)b) de la Loi et notamment à la décision de la Cour d'appel fédérale dans Miller c. Canada, 2002 A.C.F. no 1498, paragraphes 3 et 4 :
+À la première étape, le juge de la Cour de l'impôt doit évaluer la légalité de la décision du ministre. Ce faisant, il doit faire preuve de retenue judiciaire à l'égard de la décision du ministre sauf s'il conclut que le ministre a exercé son pouvoir discrétionnaire d'une manière qui est contraire à la loi. Pour évaluer si le ministre a exercé son pouvoir discrétionnaire de manière correcte, le juge de la Cour de l'impôt n'est pas tenu de faire preuve de retenue judiciaire à l'égard des conclusions de fait tirées par le ministre, mais doit tenir compte des faits qui ont été portés à son attention au cours de l'audition de l'appel.
+Le juge de la Cour de l'impôt ne peut passer à la deuxième étape de l'analyse et examiner le bien-fondé de la décision du ministre que si l'un des motifs d'intervention suivants est établi : le ministre : (i) a agi de mauvaise foi ou dans un but ou un mobile illicites; (ii) n'a pas tenu compte de toutes les circonstances pertinentes, comme l'exige expressément le sous-alinéa 3(2)c)(ii); (iii) a tenu compte d'un facteur non pertinent [Voir Note 1 ci-dessous]. Par conséquent, "ce n'est que lorsque la décision du ministre n'est pas raisonnablement fondée sur la preuve que l'intervention de la Cour de l'impôt est justifiée"
+Conclusion
+[22] Je crois que ce qu'il faut retirer des propos de la Cour d'appel fédérale ci-dessus, c'est que lorsque la décision du Ministre n'est pas raisonnablement fondée sur la preuve, l'intervention de cette Cour est justifiée.
+[23] Avec égard, je suis d'avis qu'il n'est pas raisonnable de conclure, selon la preuve, que les appelants auraient eu des modalités d'emploi à peu près semblables s'il n'y avait pas eu entre eux et l'employeur un lien de dépendance, pour les raisons qui suivent.
+[24] Il n'est pas selon les normes du marché du travail que trois travailleurs aient des salaires égaux pour des tâches de travail très dissemblables. Ces tâches de travail diffèrent quant aux nombres d'heures consacrées, quant à l'importance du travail et quant aux garanties prises en charge.
+[25] Il ne paraît pas non plus normal que ce soit les travailleurs eux-mêmes qui déterminent leur montant de rémunération ainsi que leurs heures de travail.
+[26] En conséquence, l'appel est accordé.
+Signé à Ottawa, Canada, ce 15e jour de juillet 2005.
+« Louise Lamarre Proulx »
+Juge Lamarre Proulx
+RÉFÉRENCE :
+2005CCI445
+No DU DOSSIER DE LA COUR :
+2004-3105(EI)
+INTITULÉ DE LA CAUSE :
+Gestion Réjean Masson Inc. et le ministre du Revenu national et
+Chantal Masson,
+Jacinthe Masson,
+André St-Pierre,
+LIEU DE L'AUDIENCE :
+Montréal (Québec)
+DATE DE L'AUDIENCE :
+le 22 mars 2005
+MOTIFS DE JUGEMENT PAR :
+l'hon. juge Louise Lamarre Proulx
+DATE DU JUGEMENT :
+le 15 juillet 2005
+COMPARUTIONS :
+Représentant de l'appelante :
+Alain Savoie
+Avocat de l'intimé :
+Me Simon Petit
+Représentant des intervenants :
+Alain Savoie
+AVOCAT INSCRIT AU DOSSIER:
+Pour l'appelante :
+Nom :
+Étude :
+Pour l'intimé :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

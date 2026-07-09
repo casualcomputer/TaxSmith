@@ -1,0 +1,96 @@
+Title: Scavuzzo v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27488/index.do
+Corpus path: corpus/cases/tcc/2006/2006-tcc-181-27488-scavuzzo-v-the-queen-en.md
+Document type: case_law
+Last modified: 2006-03-17
+
+# Scavuzzo v. The Queen
+
+- Citation: 2006 TCC 181
+- Decision date: 2006-03-17
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 47, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Scavuzzo v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-03-17
+Neutral citation
+2006 TCC 181
+File numbers
+2001-4533(IT)G
+Judges and Taxing Officers
+Donald G.H. Bowman
+Subjects
+Income Tax Act
+Decision Content
+Citation: 2006TCC181
+Date: 20060317
+Dockets: 2001-4533(IT)G
+2001-4534(GST)G
+BETWEEN:
+SANDRO (ALEX) SCAVUZZO,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+AND
+Dockets: 2001-4535(IT)G
+2001-4536(GST)G
+BETWEEN:
+JACK SCAVUZZO,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+SUPPLEMENTAL REASONS FOR ORDER
+WITH RESPECT TO COSTS
+Bowman, C.J.
+[1] After my award of costs of $275,000 in these appeals, counsel for the appellants moved for reconsideration of the award. Essentially, Mr. Novoselac asks that I consider the fact that additional legal fees were incurred from January 1, 2006 up to and including the hearing relating to costs. Counsel states that the additional costs, including disbursements and GST from January 1 to January 30, 2006 was $47,534.22.
+[2] In fact, at the hearing, costs for that period were requested. I was aware that additional legal costs had been incurred after January 1, 2006. In the circumstances I am not prepared to award additional costs. Ms. Boris argues that my award was "very generous". I shall not comment on this observation. Others may judge its correctness. Generosity or miserliness in the awarding of costs lie, like beauty, in the eye of the beholder. I was simply trying to determine a figure that was fair in all the circumstances.
+[3] Counsel for the appellant also argues that additional costs should be awarded because of the Minister's delay in repaying the amounts that were seized or garnished. This is regrettable but it is not a reason for awarding additional costs beyond the amount I already have. In fact, I mentioned the government's conduct in this regard in subparagraph 9(e) of my previous reasons.
+[4] I am, therefore, not persuaded that an increase in the amount of costs awarded is justified.
+[5] The motion is dismissed without costs.
+Signed at Ottawa, Canada, this 17th day of March 2006.
+"D.G.H. Bowman"
+Bowman, C.J.
+CITATION:
+2006TCC181
+COURT FILES NOS.:
+2001-4533(IT)G & 2001-4534(GST)G
+2001-4535(IT)G & 2001-4536(GST)G
+STYLE OF CAUSE:
+Sandro (Alex) Scavuzzo
+& Jack Scavuzzo v. Her Majesty the Queen
+BASED ON WRITTEN SUBMISSIONS OF THE PARTIES
+SUPPLEMENTAL REASONS FOR ORDER WITH RESPECT TO COSTS:
+The Honourable D.G.H. Bowman
+Chief Justice
+DATE OF SUPPLEMENTAL REASONS FOR ORDER:
+March 17, 2006
+APPEARANCES:
+Counsel for the Appellant:
+Stevan Novoselac
+Counsel for the Respondent:
+Marie-Thérèse Boris
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Stevan Novoselac
+Firm:
+Cassels, Brock & Blackwell
+Barristers & Solicitors
+Scotia Plaza
+40 King Street West
+Suite 2100
+Toronto, Ontario M5H 3C2
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

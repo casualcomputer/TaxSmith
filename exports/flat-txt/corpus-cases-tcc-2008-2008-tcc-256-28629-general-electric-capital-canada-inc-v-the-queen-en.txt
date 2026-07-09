@@ -1,0 +1,204 @@
+Title: General Electric Capital Canada Inc. v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28629/index.do
+Corpus path: corpus/cases/tcc/2008/2008-tcc-256-28629-general-electric-capital-canada-inc-v-the-queen-en.md
+Document type: case_law
+Last modified: 2008-04-30
+
+# General Electric Capital Canada Inc. v. The Queen
+
+- Citation: 2008 TCC 256
+- Decision date: 2008-04-30
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1161, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+General Electric Capital Canada Inc. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-04-30
+Neutral citation
+2008 TCC 256
+File numbers
+2006-1385(IT)G
+Judges and Taxing Officers
+Gerald J. Rip
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2006-1385(IT)G
+2006-1386(IT)G
+BETWEEN:
+GENERAL ELECTRIC CAPITAL CANADA INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Motion heard on January 8, 2008, at Toronto, Ontario
+Before: The Honourable Gerald J. Rip, Associate Chief Justice
+Appearances:
+Counsel for the Appellant:
+Joseph M. Steiner and Neil Paris
+Counsel for the Respondent:
+Naomi Goldstein and Craig Maw
+____________________________________________________________________
+ORDER
+Upon motion made by counsel for the respondent for an order compelling the appellant to answer questions put to it at the examination for discovery of the appellant's nominee, David Daubaras, which the nominee refused to answer on the basis the information was privileged;
+And upon reading the affidavits of Karen Hodges, Richard D'Avino and Francesca Del Rizzo, filed;
+And upon hearing what was alleged by the parties;
+The motion is dismissed. Costs will be in the cause.
+Signed at Ottawa, Canada, this 30th day of April 2008.
+"Gerald J. Rip"
+Rip A.C.J.
+Citation: 2008TCC256
+Date: 20080430
+Docket: 2006-1385(IT)G
+2006-1386(IT)G
+BETWEEN:
+GENERAL ELECTRIC CAPITAL CANADA INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Rip, A.C.J.
+[1] Her Majesty the Queen, the respondent, has made a motion compelling the appellant General Electric Capital Canada Inc. ("GECC") to answer questions put to it at the examination for discovery of the appellant's nominee, David Daubaras, which Mr. Daubaras refused to answer on the basis the answers were privileged. The respondent submits that the questions that were posed to Mr. Daubaras were relevant to the material issues in these appeals and that the appellant has not provided sufficient particulars to enable respondent to determine whether the privilege claim is proper.
+[2] The motion is with respect to appeals filed by GECC. The issue in the appeals is whether for the taxation years 1996 and 1997, subsection 69(2) of the Income Tax Act ("Act") applies, and for taxation years 1998, 1999 and 2000, whether subsection 247(2) of the Act applies, to disallow the deduction of guarantee fees paid by GECC to GE Capital, a non-arm's length United States corporation, in computing its income for its respective taxation years. Appeals similar to these appeals are sometimes referred to as transfer pricing cases. (I refer to the aforementioned appeals as "Part I" appeals.) A second issue is whether the Minister of National Revenue ("Minister") correctly determined that Part XIII withholding tax was required to be remitted by GECC in respect of the guarantee fees in issue, or any portion thereof, paid in the taxation years in issue. (I refer to the latter appeals as "Part XIII" appeals.)
+[3] At the outset of the hearing of the motion counsel advised me that the respondent had prepared and served on the appellant amended replies to notices of appeal. The amended replies had not yet been filed with the Registry of the Court but the parties agreed that the hearing of the motion should proceed on the basis that the amended replies were part of the Court record.
+[4] There are seven questions objected to by the appellant. They are questions 28, 38, 39, 136, 137, 598 and 599 (Mr. Noble is counsel for the respondent, asking the questions; Mr. Meghji is counsel for the appellant):
+26. Q. How have you informed yourself as to the reasons for starting to charge the fee?
+A. A number of ways. I've had discussions with Mr. Parke; and Mr. Jeff Werner, who is the senior vice president and treasurer of GE Capital in the United States; the assistant treasurer, a fellow named James Tremante; Rick D'Avino, who is vice president and senior counsel. And I've read the documents that we've produced and that the auditors have produced for this case, and based on those discussions with those various individuals and the documents I read, I've informed myself about the matter.
+27. Q. So it would be correct that the requirement or the decision to introduce the fee was something that was initiated by GE Capital Corporation, not by the Appellant. Would that be correct?
+A. They were the ones, yes, GE Capital Corporation was the entity that started the project to work on implementing a charge for the fee, yes.
+28. Q. You've mentioned it was the decision of Mr. Parke based on certain advice that he received and the amount of the fee was based on certain advice or input that he received from another group within General Electric Capital Corporation, but I'm not sure I understood your answer in terms of what the reason for introducing the fee was. What concern was it intended to address?
+MR. MEGHJI: He can't answer that question. We're going to take the position – Mr. Daubaras indicated to you in the answer he gave you that the decision by Mr. Parke to introduce a fee was based upon advice he received from the VP of tax or the tax counsel, and if he answers your question, he would be communicating to you what that legal advice was. So we're going to assert a privilege in terms of the advice and the information that led Mr. Parke to the decision to charge a fee and, as for the amount, he got that advice from treasury and I suspect that you may ask some questions about that.
+. . .
+38. BY MR. NOBLE: Q. All right. Could I also ask for an undertaking that you review the relevant files, both your own and those of the GE group, which shed light on the nature of this transfer pricing concern and, to the extent that you can produce material that explains what the concern was which motivated the introduction of the fee, produce non-privileged material?
+MR. MEGHJI: Again, I'll take that under advisement. But when I consider my position, may I ask you this question, Mr. Noble? It's been on my mind. We have now got an amended pleading from you in which you have withdrawn the allegations of motive respecting this. You alleged in your first draft that – I can take you to the paragraph, but the paragraph dealing with the 247(2)(b) purpose was tax, et cetera. You have now withdrawn that allegation. So if we are not in that section, of what possible relevance does this go to? Because as I understand the dispute between us now, it simply boils down to is this an arm's length price.
+MR. NOBLE: And whether this is an arm's length price imports, certainly for purposes of 1996 and 1997, a concept of reasonableness, and I would submit that the concept of reasonableness is also implicit in the later year analysis as well when one turns to apply section 247. Reasonableness is an extremely broad notion and I think that evidence as to the reasons for the introduction of a guarantee fee could be relevant in assessing whether the fee is a reasonable amount.
+MR. MEGHJI: We'll take that under advisement. Thank you for your help there.
+39. BY MR. NOBLE: Q. Since I'm on this point, you may want to take this under advisement as well, but Mr. Daubaras mentioned a number of personnel within the GE group who were involved in the decision to introduce the fee, and to the extent those individuals have records which could shed light on the reasons for the introduction of the fee, could I ask for an undertaking that those people be contacted and any records that they have dealing with the reasons for the introduction of the fee be produced, subject to any privilege claims you may wish to assert.
+MR. MEGHJI: I'll take that under advisement as well.
+. . .
+136. BY MR. NOBLE: Q. Is it the Appellant's position that all other documents that have been found that have some bearing on the reasons for introducing the fee, other than what has been produced in the Appellant's list of documents, are subject to privilege and, therefore, are not producible?
+MR. MEGHJI: Are you basically asking me if we have produced all of the documents that talk about the reasons? Is that what your question is?
+MR. NOBLE: Yes, subject to ones that may be privileged.
+MR. MEGHJI: I'll take that under advisement as to whether I will respond to that question.
+137. BY MR. NOBLE: Q. I'd also like to be provided with a list of the documents which do touch upon the reasons for the decision to introduce the fee which you say are or may be subject to privilege, as well as a description of the nature of the document (the author, the addressee, the date) such that I can assess the privilege claim.
+MR. MEGHJI: We'll take that under advisement.
+. . .
+598. BY MR. NOBLE: Q. Of course, and I asked yesterday for particulars of the various documents or conversations or other communications in respect of which the privilege claim is to be asserted such that I can assess the merits of the claim, and just to supplement what I asked for yesterday in case I wasn't clear or complete, I would like to know what the identity of any individuals who were copied on the communications was. For example, if there's a communication in respect of which privilege is asserted which was copied to some third party such that the privilege may have been waived, I'd like to know who those third parties were and in what capacity. . . .
+MR. MEGHJI: That's a fair undertaking, or I'll take that under advisement, but what I'm going to do is I'm not going to disclose to you everyone who may have been copied on it, but I will do this. I will undertake to advise you if there were any third parties who were communicated on it, because I don't think I have an obligation to tell you who in the company may have received that legal advice. If it's a third party, that goes to waiver, but if it's someone within the company, it doesn't go to waiver, and it's irrelevant to your determination of whether – I don't think we should be obligated to give you little pieces of information so you might try to spend the time trying to figure out what that advice might be. I think, as you are well aware, privilege is jealously guarded. So if your question is, give me an undertaking to tell me under oath whether that information was communicated to a third party, I think that's a fair undertaking.
+599. BY MR. NOBLE: Q. I would include third parties as persons or entities other than the immediate addressee of the communication and whether they're with the GE corporate group or outside of GE altogether.
+MR. MEGHJI: So your position is that if Mr. D'Avino provided the advice to Mr. Parke and copied the CEO of the company on it, that's a third party. That's your position.
+MR. NOBLE: As I'm using that term in this exchange of questions.
+MR. MEGHJI: I can tell you right now that we will respond to you by saying that ain't no third party.
+MR. NOBLE: I have your position, then, and I thank you for expressing it.
+MR. MEGHJI: That's fine.
+[5] The motion was supported by affidavits of Karen Hodges, a paralegal in the Toronto Regional Office of the Department of Justice. The original affidavit was sworn November 30, 2007, a supplementary affidavit was taken on December 13, 2007. Ms. Hodges reviews correspondence between counsel for the parties describing undertakings, answers as well as refusals to answer questions as well as refusal to provide a listing of material in respect to which privilege was asserted, among other things.
+[6] Attached as an exhibit to the supplementary affidavit of Ms. Hodges is a copy of a letter from counsel for the respondent dated June 11, 2007. In that letter the respondent's counsel declares that the line of questioning with respect to the reasons for the guarantee fee is relevant, in addition to reasons declared during discovery, "as it is capable of eliciting the factual contact within which (1) the reasonableness of the amount of the fee can be assessed, and (2) the extent to which the terms and conditions of the guarantee arrangement differed from those that would have been made between person's dealing at arm's length, can be assessed. The first point is referred in paragraphs 20(1)(i) and (ii) of the Reply, and the second point is referenced in subparagraph 20(b)(i) of the Reply".
+[7] The appellant filed affidavits by Richard D'Avino and Francesca Del Rizzo in opposition to the respondent's motion. Mr. D'Avino is a Vice-President and Senior Tax Counsel at General Electric Company in the United States and Senior Vice-President and Senior Tax Counsel of General Electric Capital Corporation Inc. ("GE Capital"), the parent of GECC. Mr. D'Avino is an active member of the District of Columbia Bar and an inactive member of the Pennsylvania Bar. He is responsible for providing legal advice to GE Capital on matters of tax compliance and planning, including international tax matters such as transfer pricing issues.
+[8] Because the grounds for dismissing the respondent's motion are not based on any particular facts set out in his affidavit, I do not intend to deal in any length with Mr. D'Avino's affidavit. His affidavit is directed to support the claim of privilege of documents and whether documents created or considered by a person who was not a member of the bar, although a law graduate, are subject to privilege.
+[9] Mr. D'Avino understood that GE Capital had originally guaranteed all of GECC's commercial paper and short-term debt programs without any charge. This raised the question of "whether the practice of not charging for explicit credit support violated the arm's length terms required under transfer-pricing rules". He and his staff co-ordinated an inquiry into the arm's length issue to provide an opinion to the Chief Financial Officer of GE Capital, the person to whom Mr. D'Avino reported. A guarantee fee was instituted in 1995. The amount of the fee was determined by GE Capital's treasury department.
+[10] Ms. Del Rizzo, a legal assistant at the firm of Osler, Hoskin and Harcourt LLP, counsel for the appellant, attached as exhibits to her affidavit copies of replies to undertakings by the appellant and confirmation of appellant counsel's refusal to produce other items.
+[11] Appellant's counsel delivered to me a binder of copies of the disputed documents for review. A covering letter without the copies of documents was copied to respondent's counsel.
+PLEADINGS
+[12] In reviewing the documents I have given considerable weight to the contents of the pleadings in the notices of appeal and amended replies to the
+notices of appeal. In Fink v. Canada,[1] Bonner J. noted with approval the following passage from Holmested and Watson, Ontario Civil Procedure:
+It is a cardinal rule that discovery is limited by the pleadings. Discovery must be relevant to the issues as they appear on the record: Playfair v. Cormack (1913), 4 O.W.N. 817 (H.C.); Jackson v. Belzburg, [1981] 6 W.W.R. 273 (B.C.C.A.). The party examining has no right to go beyond the case as pleaded and to interrogate concerning a case which he has not attempted to make by his pleadings.
+[13] The nub of the motion is the Attorney General's amended replies to the notices of appeal. The amended reply to the notice of appeal for taxation years 1998 to 2000, inclusive, apparently addressed matters that were the subject of a Demand for Particulars by the appellant. In the original replies the Attorney General relied on paragraphs 247(2)(a) and (b) of the Act. In the amended replies, the Attorney General withdrew all references to paragraph 247(2)(b) and facts and allegations relying on that provision. Paragraphs 247(2)(a) and (b) read as follows:
+(2) Where a taxpayer or a partnership and a non-resident person with whom the taxpayer or the partnership, or a member of the partnership, does not deal at arm's length (or a partnership of which the non-resident person is a member) are participants in a transaction or a series of transactions and
+(2) Lorsqu'un contribuable ou une société de personnes et une personne non‑résidente avec laquelle le contribuable ou la société de personnes, ou un associé de cette dernière, a un lien de dépendance, ou une société de personnes dont la personne non‑résidente est un associé, prennent part à une opération ou à une série d'opérations et que, selon le cas:
+(a) the terms or conditions made or imposed, in respect of the transaction or series, between any of the participants in the transaction or series differ from those that would have been made between persons dealing at arm's length, or
+a) les modalités conclues ou imposées, relativement à l'opération ou à la série, entre des participants à l'opération ou à la série diffèrent de celles qui auraient été conclues entre personnes sans lien de dépendance,
+(b) the transaction or series
+b) les faits suivants se vérifient relativement à l'opération ou à la série:
+(i) would not have been entered into between persons dealing at arm's length, and
+(i) elle n'aurait pas été conclue entre personnes sans lien de dépendance,
+(ii) can reasonably be considered not to have been entered into primarily for bona fide purposes other than to obtain a tax benefit,
+(ii) il est raisonnable de considérer qu'elle n'a pas été principalement conclue pour des objets véritables, si ce n'est l'obtention d'un avantage fiscal,
+any amounts that, but for this section . . . would be determined for the purposes of this Act in respect of the taxpayer . . . for a taxation year . . . shall be adjusted . . .
+Les montants qui, se ce n'était le present article […] seraient determines pour l'application de la présente loi quant au contribuable […] pour une année d'imposition […] font l'objet d'un redressement […]
+[14] In assessing taxation years 1996 and 1997 the Minister applied subsection 69(2) of the Act:
+Where a taxpayer has paid or agreed to pay to a non‑resident person with whom the taxpayer was not dealing at arm's length as price, rental, royalty or other payment for or for the use or reproduction of any property, or as consideration for the carriage of goods or passengers or for other services, an amount greater than the amount (in this subsection referred to as "the reasonable amount") that would have been reasonable in the circumstances if the non‑resident person and the taxpayer had been dealing at arm's length, the reasonable amount shall, for the purpose of computing the taxpayer's income under this Part, be deemed to have been the amount that was paid or is payable therefor.
+Lorsqu'un contribuable a payé ou est convenu de payer à une personne non‑résidente avec qui il avait un lien de dépendance, soit à titre de prix, loyer, redevance ou autre paiement pour un bien ou pour l'usage ou la reproduction d'un bien, soit en contrepartie du transport de marchandises ou de voyageurs ou d'autres services, une somme supérieure au montant qui aurait été raisonnable dans les circonstances si la personne non-résidente et le contribuable n'avaient eu aucun lien de dépendance, ce montant raisonnable est réputé, pour le calcul du revenu du contribuable en vertu de la présente partie, correspondre à la somme ainsi payée ou payable.
+[15] Motive is not referred to in subsection 69(2). Subsection 69(2) and any facts relating to it are not issues in this motion.
+Provisions Withdrawn By Respondent
+[16] The provision that was struck from both Part I and Part XIII replies to the notices of appeal and does not appear in the amended replies is the following paragraph:
+Other Material Facts
+19. It can reasonably be considered that the guarantee fee arrangements at issue were not entered into primarily for bona fide purposes other than to obtain tax benefits.
+[17] The provisions also struck from the Part I reply to the notice of appeal are:
+B. Issues To Be Decided
+20. The issues are as follows:
+. . .
+b) in respect of the Appellant's 1998, 1999 and 2000 taxation years, whether subsection 247(2) of the Act was correctly applied to increase the Appellant's income by the full amount of the guarantee fees that were deducted, and:[2]
+. . .
+(ii) whether the guarantee arrangements entered into between GE Capital and the Appellant would not have been entered into between persons dealing at arm's length, within the meaning of paragraph 247(2)(b) of the Act;
+(iii) whether the guarantee arrangements entered into between GE Capital and the Appellant can reasonably be considered not to have been entered into primarily for bona fide purposes other than to obtain tax benefits within the meaning of paragraph 247(2)(b) of the Act; . . .
+[18] The issues to be decided according to paragraph 20 of the Part I amended reply to the notice of appeal are:
+20. . . .
+a) in respect of the Appellant's 1996 and 1997 taxation years,
+i) whether the payment of any guarantee fees by the Appellant to GE Capital would have been considered reasonable in the circumstances, had the Appellant and GE Capital been dealing at arm's length within the meaning of subsection 69(2) of the Act;
+ii) what amount of guaranteed fees, if any, were reasonable in the circumstances;
+b) in respect of the Appellant's 1998, 1999 and 2000 taxation years, whether subsection 247(2) of the Act was correctly applied to increase the Appellant's income by the full amount of the guarantee fees that were deducted, and:
+(i) whether the terms or conditions made or imposed differed from those that would have been made between persons dealing at arm's length, within the meaning of paragraph 247(2)(a) of the Act; and
+(ii) if the Minister was not correct in increasing the Appellant's income by the full amount of fees that were deducted, what was the correct amount of the adjustment to be made pursuant to subsection 247(2) of the Act.
+[19] The issues to be decided according to the Part XIII amended reply to the notice of appeal are:
+a) whether the Minister correctly denied the deduction, or any portion thereof, in respect of the guarantee fee amounts in issue by the Appellant to GE Capital, in respect of the Appellant's 1996 and 1997 taxation years pursuant to subsection 69(2) of the Act, and in respect of the Appellant's 1998, 1999, and 2000 taxation years, pursuant to subsection 247(2) of the Act; and
+b) whether the Minister correctly determined that Part XIII withholding tax at the rate of 5% was required to be remitted by the Appellant in respect of the guarantee fees in issue, or in respect of any portion thereof, for the Appellant's 1996, 1997, 1998, 1999, and 2000 taxation years.
+[20] Respondent's counsel argued that paragraphs 18, 20 and 21 of the notices of appeal constituted a waiver of privilege. Respondent's counsel argues that the appellant has made the motivation for the introduction of the guarantee fee an issue in paragraph 21 of the amended replies, and therefore has waived solicitor/client privilege with respect to matters relating to that motivation, including reliance on legal advice. These paragraphs read:
+18. GE Capital unconditionally and irrevocably guaranteed all payments due under all Debt Securities issued by the Appellant after 1988 (the "Financial Guarantees").
+. . .
+20. In 1995, GE Capital began charging the Appellant a fee for the Financial Guarantees. These guarantee fees were phased in so that no fee was payable with respect to Debt Securities issued by the Appellant prior to the implementation of the guarantee fees.
+21. The Appellant and GE Capital formalised the guarantee fees in written legal agreements ("Guarantee Fee Agreements"). Pursuant to the Guarantee Fee Agreements, GE Capital agreed to guarantee the Appellant's Debt Securities in order to induce investors to purchase them. The Appellant, in turn, agreed to pay a fee to GE Capital equal to 1% (or 100 basis points) per annum of the principal amount of the Debt Securities outstanding during a year.
+[21] In counsel's view paragraph 21 deals with the guarantee fee and that speaks to the motive of the appellant in introducing the guarantee fee. She also refers to the recitals of a Guarantee Agreement between GECC and GE Capital which read, in part:
+WHEREAS, in order to induce . . . the holders of the Notes . . . to purchase the Notes GE Capital has agreed to issue one or more guarantees in favour of each of the Beneficiaries . . .
+AND WHEREAS the subsidiary has agreed to pay an annual fee to GE Capital in respect of the Guarantees,
+and the Guarantee Agreement provides for a fee equal to one per cent per annum times the principal amount of the Notes outstanding.
+[22] Counsel may also be referring to the following excerpt from the examination for discovery of Mr. Daubaras on May 1, 2007:
+135. BY MR. NOBLE: Q. All right. The suggestion has been made that these two pages of handwritten notes may have some relationship with the decision to introduce the guarantee fee and mention has also been made that searches have been done of a number of files for information. Is it the Appellant's position that these are the only two pages of documents that have been found in the searches that have been done that may have some bearing on the decision to implement the fee?
+MR. MEGHJI: No, that's not the Appellant's position. The Appellant's position is there may be documents that are privileged, for example.
+136. BY MR. NOBLE: Q. Is it the Appellant's position that all other documents that have been found that some have bearing on the reasons for introducing the fee, other than what has been produced in the Appellant's list of documents, are subject to privilege and, therefore, are not producible?
+MR. MEGHJI: Are you basically asking me if we have produced all of the documents that talk about the reasons? Is that what your question is?
+MR. NOBLE: Yes, subject to ones that may be privileged.
+MR. MEGHJI: I'll take that under advisement as to whether I will respond to that question.
+137. BY MR. NOBLE: Q. I'd also like to be provided with a list of the documents which do touch upon the reasons for the decisions to introduce the fee which you say are or may be subject to privilege, as well as a description of the nature of the document (the author, the addressee, the date) such that I can assess the privilege claim.
+MR. MEGHJI: We'll take that under advisement.
+[23] I cannot find any evidence of a waiver of privilege in the materials presented to me. No question of motive is raised in paragraphs 18, 19 and 20 of the notices of appeal. The exchange between counsel during discovery is not a waiver of privilege by the appellant. I have no idea what is written on the "two pages of handwritten notes" referred to by Mr. Noble. As far as paragraph 21 and the recitals of the Guarantee Agreement are concerned, they merely state that as between the parties to the guarantee and loan are concerned, GE Capital guarantees the debt for a fee so as to induce persons to lend money to GECC, no more, no less.
+[24] Respondent's counsel stated that "the reasons for the introduction of the guarantee fee could be relevant in assessing whether the fee's a reasonable amount". No substantial submissions were made by respondent's counsel on this point and I have difficulty understanding how, in the circumstances at bar, motive may affect reasonableness.
+[25] Once the Minister withdrew reference in the replies to paragraph 247(2)(b) the appeals for 1998, 1999 and 2000 are to be decided on basis of paragraph 247(2)(a) of the Act. Thus the question of motive disappears in the appeals for 1998, 1999 and 2000. Motive was never an issue for the earlier years; subsection 69(2) does not refer to any motive for the transaction. The Part XIII appeals are related to the Part I appeals. The basic issue, therefore, is whether the terms and conditions of the guarantee fees agreed to by the appellant and GE Capital differ from those that would have been made by GECC and a person with whom it dealt with at arm's length. Motivation for the guarantee fee is not an issue in these appeals and motivation should not be canvassed by the Crown.
+[26] Any documents or information as to the reason for introducing the fee (Questions 28, 39, 136 and 137), motivation for the introduction of the fee (Question 38) or persons involved in advising or deciding to introduce a fee are not relevant. The respondent, however, may obtain information on how the amount of the guarantee fee was determined.
+[27] With respect to Questions 598 and 599, the respondent is not entitled to the various documents or communications in respect of the privilege claimed and the names of persons who originated the documents or to whom they were sent or copied. I have determined the documents are irrelevant; the need to know the names of persons attached to these documents is not necessary. In any event in preparing lists of documents for trial, the parties proceeded by way of Rule 81 of the Tax Court of Canada Rules (General Procedure) (Partial Disclosure) which does not require a party to list its privileged documents. It is Rule 82, Full Disclosure, that requires a party to list documents for which it claims privilege and the grounds for the claim. In Shell Canada v. The Queen, [3] Christie A.C.J., as he then was, opined that:
+. . . the words "and that are not privileged" in this subsection relate only to the reference to section 82 because section 81 simply does not envisage the listing of documents by the person producing the list in respect of which that person will seek to make a claim of privilege.
+The respondent, having elected to proceed by way of Rule 81, cannot in the present motion accomplish what is provided for in Rule 82.
+[28] The motion is dismissed. Costs will be in the cause.
+Signed at Ottawa, Canada, this 30th day of April 2008.
+"Gerald J. Rip"
+Rip A.C.J.
+CITATION: 2008TCC256
+COURT FILE NO.: 2006-1385(IT)G
+STYLE OF CAUSE: GENERAL ELECTRIC CAPITAL CANADA INC. v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: January 8, 2008
+REASONS FOR JUDGMENT BY: The Honourable Gerald J. Rip, Associate Chief Justice
+DATE OF JUDGMENT: April 30, 2008
+APPEARANCES:
+Counsel for the Appellant:
+Joseph M. Steiner and Neil Paris
+Counsel for the Respondent:
+Naomi Goldstein and Craig Maw
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Joseph M. Steiner and Neil Paris
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] [2002] T.C.J. No. 712 at para. 13.
+[2] Words in italics continue in the amended reply to the notices of appeal.
+[3] See Shell Canada Limited v. The Queen, 97 DTC 258 at p. 260, per Christie A.C.J.

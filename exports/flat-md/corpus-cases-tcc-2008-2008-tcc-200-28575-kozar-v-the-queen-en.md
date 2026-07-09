@@ -1,0 +1,185 @@
+---
+title: "Kozar v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28575/index.do"
+last_modified: "2008-04-08"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 TCC 200"
+citation2: ""
+neutral_citation: "2008 TCC 200"
+decision_date: "2008-04-08"
+language: "en"
+item_id: "28575"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1057
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T00:22:13.609000+00:00"
+cases_cited_count: 4
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "f3cdf38a2799fa7bc6ebc6c054fb3a15b4d9394250de7350871487214f526d8d"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Kozar v. The Queen
+
+- Citation: 2008 TCC 200
+- Decision date: 2008-04-08
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1057, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Kozar v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-04-08
+Neutral citation
+2008 TCC 200
+File numbers
+2007-3727(IT)G
+Judges and Taxing Officers
+Wyman W. Webb
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2007-3727(IT)G
+BETWEEN:
+SANDY KOZAR,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Motion heard on March 19, 2008 at Windsor, Ontario.
+Before: The Honourable Justice Wyman W. Webb
+Appearances:
+Counsel for the Appellant:
+John R. Mill
+Counsel for the Respondent:
+Josée Tremblay
+____________________________________________________________________
+ORDER
+The motion of the Appellant for an Order directing the Respondent to provide particulars is allowed in part, and the Respondent is ordered:
+(a) to provide details of any convictions of the Appellant in relation to any of the alleged illegal activities (which could include a guilty plea) or, alternatively, to delete all references to “illegal” in describing the activities that the Respondent is alleging the Appellant was carrying on; and
+(b) to provide further particulars with respect to the alleged source (or sources) of income of the Appellant and in particular:
+(i) clarification of the assumptions related to the Appellant and her spouse being involved in the programming and selling of satellite receivers, and in particular whether the allegation is that they were in partnership or carrying on a joint venture;
+(ii) the identity of the sole proprietor and if the Appellant was not the sole proprietor, the connection of the Appellant to the sole proprietor;
+(iii) particulars of the corporation and the connection of the Appellant to the corporation;
+(iv) the amount of the remuneration paid to the Appellant by cash and cheques; and
+(v) what is the alleged source of income and if more than one source of income is alleged, what are the alleged sources of income.
+The costs of this Motion shall be in the cause.
+Signed at Halifax, Nova Scotia, this 8th day of April 2008.
+“Wyman W. Webb”
+Webb J.
+Citation: 2008TCC200
+Date: 20080408
+Docket: 2007-3727(IT)G
+BETWEEN:
+SANDY KOZAR,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Webb J.
+[1] The Appellant has been assessed taxes under the Income Tax Act (“Act”) based on a net worth analysis that had been completed. The Appellant has also been assessed penalties under subsection 163(2) of the Act. A Notice of Appeal was filed and a Reply was filed by the Respondent. The Appellant then served a Demand for Particulars, but only received a limited response. As a result, the Appellant has brought a motion to ask for an Order directing that the Respondent provide the particulars in accordance with the Demand for Particulars that had been served. The Demand for Particulars requests particulars related to seven different paragraphs of the Reply. There are nineteen separate paragraphs that ask for particulars and some paragraphs contain more than one request. There is a great deal of duplication and overlapping of requests in the Demand for Particulars.
+[2] In the case of Zelinski v. R., (2002 DTC 1204, [2002] 1 C.T.C. 2422 (T.C.C.), affirmed by the Federal Court of Appeal, 2002 DTC 7395, [2003] 1 C.T.C. 53), Justice Bowie stated that:
+4 The purpose of pleadings is to define the issues in dispute between the parties for the purposes of production, discovery and trial. What is required of a party pleading is to set forth a concise statement of the material facts upon which she relies. Material facts are those facts which, if established at the trial, will tend to show that the party pleading is entitled to the relief sought. Amendments to pleadings should generally be permitted, so long as that can be done without causing prejudice to the opposing party that cannot be compensated by an award of costs or other terms, as the purpose of the Rules is to ensure, so far as possible, a fair trial of the real issues in dispute between the parties.
+5 The applicable principle is stated in Holmsted and Watson:*
+This is the rule of pleading: all of the other pleading rules are essentially corollaries or qualifications to this basic rule that the pleader must state the material facts relied upon for his or her claim or defence. The rule involves four separate elements: (1) every pleading must state facts, not mere conclusions of law; (2) it must state material facts and not include facts which are immaterial; (3) it must state facts and not the evidence by which they are to be proved; (4) it must state facts concisely in a summary form.
+[3] Counsel for the Appellant referred to the decision of Justice Bowie in Gardner v. The Queen, [2001] 4 C.T.C. 2868, 2001 DTC 915. In this case Justice Bowie made the following comments in relation to pleadings when the issue relates to the reassessment of a tax return after the normal reassessment period:
+5 The correct principle to be applied to the Respondent's pleading in an income tax appeal from a reassessment made after the normal reassessment period has expired is to be found in the following passage from the judgment of Cameron J. in Minister of National Revenue v. Taylor:
+After giving the matter the most careful consideration, I have come to the conclusion that in every appeal, whether to the Tax Appeal Board or to this Court, regarding a re-assessment made after the statutory period of limitation has expired and which is based on fraud or misrepresentation, the burden of proof lies on the Minister to first establish to the satisfaction of the Court that the taxpayer (or person filing the return) has 'made any misrepresentation or committed any fraud in filing the return or in supplying any information under this Act' unless the taxpayer in the pleadings or in his Notice of Appeal (or, if he be a respondent in this Court, in his reply to the Notice of Appeal) or at the hearing of the appeal has admitted such misrepresentation or fraud. In reassessing after the lapse of the statutory period for so doing, the Minister must be taken to have alleged misrepresentation or fraud and, if so, he must prove it.
+…
+6 The requirement to plead the misrepresentation specifically is found stated this way in Odgers' Principles of Pleading and Practice, Twenty-second Ed., at page 100:
+Each party must state his whole case. He must plead all facts on which he intends to rely, otherwise he cannot strictly give any evidence of them at the trial.
+In this Court it has been put this way by Bowman J., as he then was, in Ver v. Canada:
+Finally, the Reply to the Notice of Appeal is inadequate in a case of this type. Bald assertions that the Minister "assumed" a misrepresentation are inappropriate where the Minister must prove a misrepresentation. The precise misrepresentation alleged to have been made must be set out with particularity in the reply and proved with specificity. Three essential components must be alleged in pleading misrepresentation:
+(i) the representation;
+(ii) the fact of its having been made; and
+(iii) its falsity.
+7 The function of particulars was considered by the Federal Court of Appeal in Gulf Canada Limited v. The Tug Mary Mackin. Heald J.A. with whom Mahoney J.A. concurred, said there:
+The principles governing an application of this kind were well stated by Sheppard J.A. in the case of Anglo-Canadian Timber Products Ltd. v. British Columbia Electric Company Limited, [(1960), 31 W.W.R. 604 (B.C.C.A.).] where he stated at pages 605 and 606:
+Hence it appears that an examination for discovery follows upon the issues having been previously defined by the pleadings and the purpose of such discovery is to prove or disprove the issues so defined, by a cross-examination on the facts relevant to such issues.
+On the other hand the purpose of particulars is to require a party to clarify the issues he has tried to raise by his pleading, so that the opposite party may be able to prepare for trial, by examination for discovery and otherwise. The purpose of particulars was stated in Thorp v. Holdsworth (1876)3 Ch D 637, 45 LJ Ch 406, by Jessel, M.R. at p. 639, as follows:
+The whole object of pleadings is to bring the parties to an issue, and the meaning of the rules of Order XIX, was to prevent the issue being enlarged, which would prevent either party from knowing when the cause came on for trial, what the real point to be discussed and decided was. In fact, the whole meaning of the system is to narrow the parties to definite issues, and thereby to diminish expense and delay, especially as regards the amount of testimony required on either side at the hearing.
+That purpose of particulars was stated in Spedding v. Fitzpatrick (1888) 38 Ch 410, 58 LJ Ch 139, by Cotton, L.J. at p. 413, as follows:
+The object of particulars is to enable the party asking for them to know what case he has to meet at the trial, and so to save unnecessary expense, and avoid allowing parties to be taken by surprise.
+Also the particulars operate as a pleading to the extent that "They tie the hands of the party, and he cannot without leave go into any matters not included" (Annual Practice, 1960, p. 460) and they may be amended only by leave of the court (Annual Practice, 1960, p. 461).
+When pleadings are so vaguely drawn that the opposing party cannot tell what are the facts in issue or, in the words of Cotton, L.J. in Spedding v. Fitzpatrick, supra, "what case he has to meet," then in such circumstances the particulars serve to define the issue so that the opposite party may know what are the facts in issue. In such instances the party demanding particulars is in effect asking what is the issue which the draftsman intended to raise and it is quite apparent that for such a purpose an examination for discovery is no substitute in that it presupposes the issues have been properly defined.
+This case was cited with approval in a later decision of the British Columbia Court of Appeal in the case of Cansulex Limited v. Perry et al., [1982] B.C.J. No. 369, [Judgment dated March 18, 1982, British Columbia Court of Appeal, file C785837, not reported.] In that case, Lambert J.A. referred to the Anglo-Canadian Timber decision as being one of the decisions which "... delineate the difference between what is properly the subject matter of a Demand for Particulars and what is more properly the subject-matter of a Demand for Discovery of material that should be obtained on an Examination for Discovery". (See, page 8 of the reasons of Lambert J.A.) Mr. Justice Lambert added:
+At the heart of the distinction between the two lies the question whether the material demanded is intended to, and does, delineate the issues between the parties, or whether it requests material relating to the way in which the issues will be proved.
+He then went on at pages 10 and 11 of his reasons to enumerate with approval the function of particulars as set out in the White Book dealing with the English Practice. The Supreme Court Practice, 1982, Vol. 1, page 318 details this function as follows:
+(1 to inform the other side of the nature of the case they have to meet as distinguished from the mode in which that case is to be proved ....
+(2 to prevent the other side from being taken by surprise at the trial
+(3 to enable the other side to know what evidence they ought to be prepared with and to prepare for trial ....
+(4 to limit the generality of the pleadings ....
+(5 to limit and decide the issues to be tried, and as to which discovery is required ....
+(6 to tie the hands of the party so that he cannot without leave go into any matters not included ....
+Because Rule 408(1) [Federal Court Rules, C.R.C., c. 663] requiring "... a precise statement of the material facts on which the party pleading relies" and Rule 415 permitting applications for further and better particulars of allegations in a pleading are substantially similar to the corresponding sections in the English Rules, I think the above quoted six functions of particulars should apply equally to an application such as the present one under our Rules.
+This judgment was subsequently applied in this Court by Judge Garon, as he then was, in Duquette et. al. v. The Queen.
+8 Although the word "precise" does not appear in the text of this Court's Rule 49, there does need to be a precise statement of an alleged misrepresentation, as Judge Bowman made clear in Ver. In my view, the Federal Court jurisprudence dealing with the requirement for particularity applies equally to appeals in this Court, at least in those cases where the Minister has reassessed outside the normal reassessment period on the basis of an alleged misrepresentation. The Respondent therefore must give particulars of the alleged misrepresentation to enable the Appellant to decide whether to deliver an Answer, and to define the issues for discovery in a way that will permit the Appellant to know the case she has to meet in respect of misrepresentation, and to prevent the Respondent from using vague allegations of misrepresentation to justify a fishing expedition on discovery.
+[4] This case was confirmed on appeal by the Federal Court of Appeal (2002 FCA 195).
+[5] In this case, the Demand for Particulars relates to the 2001 taxation year, which was assessed after the normal reassessment period had expired. The Respondent has the onus of proof with respect to the establishment of the facts related to the right to reassess after the expiration of the normal reassessment period and with respect to the penalties imposed under subsection 163(2) of the Act. How the Respondent will prove those facts is a matter of evidence and can be explored at discovery and is not a matter for further particulars. The issue is whether the Respondent has set out the relevant facts with sufficient clarity so that the Appellant can determine the issue in dispute and the facts on which the Respondent will be relying (and has the onus to prove) to justify the reassessment after the expiration of the normal reassessment period and the assessment of penalties, not the means by which the Respondent will attempt to prove such facts.
+[6] The first demand, in my opinion, is clearly within the realm of seeking information on how the Respondent will prove a particular fact rather than further delineating the issues. The Respondent had stated that the Appellant and her spouse were involved in certain activities. The first demand was for the facts on which the Respondent had based the assumption that the Appellant had a spouse. The fact in issue is that the Appellant had a spouse. How the Respondent would prove that (which would be the facts on which the Minister based this assumption) is a matter of evidence not a matter for further particulars in the pleadings. It is clear in the Reply that the Minister assumed that the Appellant had a spouse and therefore, if the Appellant disagrees with this, the Appellant knows the position of the Respondent on this issue.
+[7] The remaining parts of the Demand for Particulars, in my opinion, can be summarized as three areas:
+1. A demand for further particulars of the alleged illegal activities which were described in Reply as the “illegal programming and selling of satellite receivers” and as the “illegal programming of satellite receivers’ cards”;
+2. A demand for further particulars of the alleged source of income; and
+3. A demand for further particulars of the alleged misrepresentations.
+[8] At the hearing it was acknowledged by counsel for the Respondent that the reference to the illegal activities should not have been stated as such and either particulars of any convictions of an offence or any guilty pleas entered by the Appellant in relation to any charges made against her will be provided or, alternatively, all references to “illegal” will be deleted from the Reply. To describe the activities as “illegal” if there has not been any hearing on the matter to determine whether the activity was illegal, is to effectively convict the Appellant of an offence without having any hearing on the matter. Whether the activities were illegal activities is not a matter that can be determined by this Court as this Court does not have jurisdiction over the Radiocommunication Act, R.S.C. 1985, c. R-2.
+[9] With respect to the second matter, further particulars should be provided with respect to the source of income. The net worth schedule is attached to the Reply, which provides the schedule of the numbers that were used. However, paragraphs 13 (a), (b) and (f) of the Reply state as follows:
+a) in all relevant years, the Appellant and her spouse were involved in the illegal programming and selling of satellite receivers;
+b) the business started as a sole proprietorship by the name of “Pirate Satellite Receivers” and was incorporated on October 24, 2001;
+…
+f) the Appellant was remunerated for her involvement with the business by cash and cheques.
+[10] The first paragraph implies or suggests that there was a partnership or joint venture between the Appellant and her spouse. The second paragraph describes the business as a sole proprietorship but does not indicate the identity of the sole proprietor. The Appellant’s connection to the corporation is also not described. Paragraph f) states that the Appellant was remunerated by cash or cheques which suggests that her source of income was employment income. Why would her remuneration by cash or cheques be relevant if she was the sole proprietor? The Appellant’s alleged source of income is not clear and the Respondent should provide further particulars with respect to the alleged source of income of the Appellant.
+[11] With respect to the demand for further particulars related to the alleged misrepresentation, paragraph 15 of the Reply clearly states that the Respondent is taking the position that the Appellant knowingly understated her taxable income for 2001 and 2002. Since paragraph 13 g) of the Reply sets out the amounts of $220,595 for 2001 and $135,488 for 2002 as the amounts by which the Appellant understated her taxable income (which amounts correspond to the amounts set out in Schedule III to the Reply), it seems clear to me that the Respondent is basing both the right to reassess after the normal reassessment period has expired and the assessment of penalties under subsection 163(2) of the Act on the assertion by the Respondent that the Appellant knowingly understated her income by the amounts of $220,595 in 2001 and $135,388 in 2002. How the Respondent will prove that the Appellant knowingly understated her income is a matter of evidence not a matter for further particulars.
+[12] By stating that the Appellant “knowingly understated her taxable income for the 2001 and 2002 taxation years” and by providing the amounts, the Respondent has, in my opinion, made more than a “bald assertion” of a misrepresentation and has provided the representation (the understated income), the fact that it was made and its falsity. Therefore no further particulars related to the misrepresentation, other than those related to the source of income, are required.
+[13] The motion of the Appellant for an Order directing the Respondent to provide particulars is allowed in part, and the Respondent is ordered:
+(a) to provide details of any convictions of the Appellant in relation to any of the alleged illegal activities (which could include a guilty plea) or, alternatively, to delete all references to “illegal” in describing the activities that the Respondent is alleging the Appellant was carrying on; and
+(b) to provide further particulars with respect to the alleged source (or sources) of income of the Appellant and in particular:
+(i) clarification of the assumptions related to the Appellant and her spouse being involved in the programming and selling of satellite receivers, and in particular whether the allegation is that they were in partnership or carrying on a joint venture;
+(ii) the identity of the sole proprietor and if the Appellant was not the sole proprietor, the connection of the Appellant to the sole proprietor;
+(iii) particulars of the corporation and the connection of the Appellant to the corporation;
+(iv) the amount of the remuneration paid to the Appellant by cash and cheques; and
+(v) what is the alleged source of income and if more than one source of income is alleged, what are the alleged sources of income.
+[14] The costs of this Motion shall be in the cause.
+Signed at Halifax, Nova Scotia, this 8th day of April 2008.
+“Wyman W. Webb”
+Webb J.
+CITATION: 2008TCC200
+COURT FILE NO.: 2007-3727(IT)G
+STYLE OF CAUSE: SANDY KOZAR AND THE QUEEN
+PLACE OF HEARING: Windsor, Ontario
+DATE OF HEARING: March 19, 2008
+REASONS FOR JUDGEMENT BY: The Honourable Justice Wyman W. Webb
+DATE OF JUDGMENT: April 8, 2008
+APPEARANCES:
+Counsel for the Appellant:
+John R. Mill
+Counsel for the Respondent:
+Josée Tremblay
+COUNSEL OF RECORD:
+For the Appellant:
+Name: John R. Mill
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,189 @@
+---
+title: "Rioux c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27649/index.do"
+last_modified: "2007-05-02"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 TCC 128"
+citation2: ""
+neutral_citation: "2007 TCC 128"
+decision_date: "2007-05-02"
+language: "en"
+item_id: "27649"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 405
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T23:09:18.534000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "02003bb5b64affcf33e9fb98aff1d2b1861436b0adfdd10d59516ddbe21becf2"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Rioux c. La Reine
+
+- Citation: 2007 TCC 128
+- Decision date: 2007-05-02
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 405, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Rioux c. La Reine
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-05-02
+Neutral citation
+2007 TCC 128
+File numbers
+2006-477(IT)I
+Judges and Taxing Officers
+Alain Tardif
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2006-477(IT)I
+BETWEEN:
+FRÉDÉRIC RIOUX,
+Appellant,
+and
+HER MAJESTY THE QUEEN
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on February 21, 2007, at Rimouski, Quebec
+Before: The Honourable Justice Alain Tardif
+Appearances:
+Counsel for the Appellant:
+Édouard Côté
+Counsel for the Respondent:
+Claude Lamoureux
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessments made under the Income Tax Act for the 2001 and 2002 taxation years is dismissed, with costs to the Respondent, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 2nd day of May 2007.
+"Alain Tardif"
+Tardif J.
+Translation certified true
+on this 31st day of August 2007.
+Francie Gow, Translator
+Citation: 2007CCI128
+Date: 20070502
+Docket: 2006-477(IT)I
+BETWEEN:
+FRÉDÉRIC RIOUX,
+Appellant,
+and
+HER MAJESTY THE QUEEN
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Tardif J.
+[1] This is an appeal for the 2001 and 2002 taxation years under the Income Tax Act (the Act).
+[2] For the 2001 taxation year, the Respondent increased the taxable income of the business operated by the Appellant by $25,974.
+[3] For the 2002 taxation year, the Minister of National Revenue (the Minister) added the amount of $22,550 in shareholder benefits to the Appellant.
+[4] The Minister also added $1,822.03 in penalties for the 2001 taxation year and $1,626.16 for the 2002 taxation year.
+[5] The issues are the following:
+a) to determine whether the amount of $25,974 was correctly added to the Appellant's taxable income as additional business income for the 2001 taxation year;
+b) to determine whether the amount of $22,550, considered a benefit conferred upon the Appellant in his capacity as a shareholder of company 9111‑4934 Québec Inc., was correctly included in the Appellant's taxable income for the 2002 taxation year;
+c) to determine whether the assessment of a penalty for gross negligence against the Appellant for the 2001 and 2002 taxation years was justified.
+[6] In making and confirming the assessments and penalties for the 2001 and 2002 taxation years, the Minister of National Revenue (the Minister) relied on the a number of assumptions of fact, the following of which were admitted by the Appellant:
+6. On May 9, 2005, the Appellant served on the Minister a notice of objection against the reassessments dated March 10, 2005, for the 2001 and 2002 taxation years.
+7. On January 10, 2006, the Minister, in response to the Appellant's notice of objection for the 2001 and 2002 taxation years, confirmed the reassessments dated March 10, 2005.
+8. . . .
+a) The Appellant, for the 2001 taxation year, reported that he operated two sole proprietorships, one a restaurant and the other a computer supplies and repair store, in addition to being the sole shareholder of start-up company "9111‑4934 Québec Inc.";
+b) The Appellant operated his restaurant under the name "Restaurant Jasmin" and his computer supplies and repair store under the name "Électro-Matique Reg'd.";
+c) The Appellant, for the 2002 taxation year, reported that he operated a business, namely, a computer supplies and repair store, and that he was the sole shareholder of the company "9111‑4934 Québec Inc.";
+d) The economic activity of the company "9111‑4934 Québec Inc." consisted in selling and repairing computer equipment.
+[7] However, the Appellant denied the following facts:
+e) As part of an audit of the books and records of the sole proprietorship "Électro-matique Reg'd.", the Minister, after adding up the sales invoices and taking into account the amounts submitted by the Department of Economic and Regional Development as part of the "Connecting Families to the Internet" program, adjusted the total sales to an amount of $58,033 for the 2001 taxation year;
+f) The Minister included, in calculating the income of the Appellant for the 2001 taxation year, additional income of $25,974, equivalent to the difference between the $58,033 in adjusted total sales and the $32,058 in sales reported with respect to the sole proprietorship "Électro-matique Reg'd.";
+g) The audit of the books and records of the company "9111‑4934 Québec Inc." for the fiscal year beginning on December 11, 2001, and ending on February 28, 2002, led to the discovery of $22,550 in faked invoices, allegedly paid in cash, that had been claimed as website design expenditures for the company in question;
+h) the invoices referred to in the preceding paragraph were considered fabricated because the subcontractors either denied having received the money or denied having worked on the development of the website; the Minister determined that the Appellant had appropriated the amount of $22,550 for personal purposes.
+[8] The Appellant testified that he had been in business since he was 17 years old. He maintained that he had little or no knowledge of accounting, so he hired an accountant to handle his business accounts.
+[9] He quickly created a second and then a third company. He would throw all items and documents related to sales and expenditures haphazardly into a folder that he would submit to his accountant.
+[10] The accountant allegedly performed incomplete and inadequate work. To explain the absence of accounting records, deposit slips and bank statements, the Appellant blamed his accountant, a certain Gagnon, for never having explained to him what to do or how. The Appellant also blamed this accountant, who did not testify, for never having told him or taught him anything, for failing to make recommendations, and for leaving him completely in the dark.
+[11] For the 2001 taxation year, the auditor added $25,974 to the Appellant's income. The Appellant then had his accounts verified by a different accountant, who produced an operating statement that listed income of $59,617.07, an amount higher than that calculated by the auditor. However, the expenditures were also much higher, with the result that the difference between revenues and expenditures, initially established at $13,613 by the first accountant, was now $9,962.03, representing a reduction of $3,651.08.
+[12] The Appellant, who works in the computer industry, did not use any software to organize his accounts, which are clearly an incoherent mess.
+[13] In a tone that left no room for discussion, the Appellant arrogantly maintained that he had hidden nothing, that he had reported everything and that everything was in order. He claimed that the errors, inconsistencies, points of confusion and multiple contradictions were the fault of either his first accountant or the auditor who had not done his job properly.
+[14] He acknowledged that the firm that had verified his operating statement may have made errors but added that that was unimportant. The only thing that mattered was that he had not hidden anything and that he had reported everything, and anybody tempted to claim otherwise was wrong.
+[15] Credibility is therefore a key factor in dealing with this appeal.
+[16] The Appellant has portrayed himself as an innocent victim of all those who have been involved in his accounting.
+[17] For the 2001 fiscal year, the Government of Quebec created a program called "Connecting Families to the Internet" for families of limited means. Under this financial assistance program, any family meeting certain criteria could receive a $500 subsidy to buy a computer costing at least $1200 and to subscribe to a network to have access to the Internet.
+[18] The $500 grant was payable to the computer vendor. If the family met the criteria, it obtained a "voucher" that it could present to the vendor when purchasing the desired computer and having it connected it to the Internet. The vendor credited the $500 at the time of purchase, took the voucher and claimed $500 from the Government of Quebec.
+[19] The Appellant explained that certain families had already acquired a computer at the time the program was created. Using falsified documents, the Appellant would claim the subsidy with the complicity of the beneficiaries of the voucher. The Appellant said he would reimburse $400 to the holder of the voucher and retain $100 as a commission for his complicity.
+[20] In other cases, he carried out fictitious sales of old computers that he accepted as a deposit for the non-subsidized portion. He also dealt in used computers, integrating this business with his sales of subsidized computers.
+[21] To explain and even justify his fraudulent dealings, the Appellant testified in a condescending manner that the people to whom he gave $400 in return for their vouchers were generally poor people on welfare who could not afford to buy themselves a computer. The Appellant almost seemed to expect the Court to congratulate him for his sympathy and generosity toward the poor. One thing is certain: everything was arranged so that he could benefit from the maximum number of vouchers available.
+[22] Not one beneficiary of this arrangement came to testify in support of the Appellant's claims regarding his generosity. Did he really retain only $100 in every case? The Court doubts this strongly.
+[23] For the 2002 taxation year, the assessment indicates that the Appellant appropriated $22,550. For this part of his appeal, the Appellant explained, once again, that the Government of Quebec had created a program to subsidize small and medium enterprises.
+[24] In this case, the assistance program involved reimbursing 40% of an investment, to a maximum of $40,000, in the creation of a website that would enable interested businesses to engage in more rapid and up-to-date development. The program offered a refundable tax credit of up to $40,000 for an investment of up to $100,000.
+[25] To take advantage of the new program, the Appellant created a new company and hired a certain number of people. The employment contract or agreement promised compensation that varied based on the amount obtained under the subsidization program.
+[26] Three of those people testified. They stated that they had lied and that the documents they had signed were not genuine. It seemed clear to me that these people felt uncomfortable testifying. One thing is certain: they did not have the skills necessary to create a website for the business created and run by the Appellant.
+[27] In other words, the bigger the subsidy, the more money the employees were to receive.
+[28] The Appellant testified that he had claimed 40% of the $86,712 he had supposedly spent on the creation of a website. He received a cheque for $18,906, as more than half of his invoices were rejected.
+[29] The Appellant admitted that he had indeed, in his own words, engaged in a [TRANSLATION] "shifting of invoices".
+[30] In other words, he used invoices that had absolutely no connection with the application for subsidization. The tax officials did seem to demonstrate a certain amount of clairvoyance in rejecting half of his support documents as irrelevant. What amazes me is that the Appellant nevertheless received $18,906. Moreover, there is no evidence that the website ever became operational.
+[31] Alongside these facts that undermine the credibility of the Appellant's testimony, there exist a number of additional facts bearing out the Appellant's lack of reliability. These facts are as follows:
+· a very large number of cash transactions;
+· the Appellant's admission that he had forged several signatures (four or five);
+· the lack of accounting records;
+· the lack of deposit slips;
+· the lack of bank statements;
+· the falsification of several documents in order to obtain benefits to which he was not entitled;
+· his admission that his accounts were a complete mess.
+[32] The Appellant's evidence can be summarized as follows: I lied regularly, constantly and routinely throughout the operation of various businesses, I invented documents, I forged signatures, I produced false and deceptive documents, I used phoney bills and I usually dealt in cash. Despite all this, I swear under oath that my income tax returns are honest, that I owe absolutely no taxes and that the penalties are unjustified. My good faith cannot be called into question; you have to believe me; I have nothing to feel guilty about. If anything is amiss, it is the fault of the accountant, the auditor, or the young people who testified that they had lied, but it is certainly not my fault.
+[33] The Appellant has not discharged his burden of proof; I am completely disregarding his testimony, which has no credibility whatsoever. Let me point out that he signed a statement in which he substantially modified the initial figures regarding his income, placing the full blame on his accountant.
+[34] The Respondent pointed out the multiple anomalies, inconsistencies and points of confusion that seemed to indicate that Frédéric Rioux's real revenues were much higher than those indicated in the assessment under appeal.
+[35] As for the justification for the penalties, it has been demonstrated on a balance of probabilities that the Appellant is an unscrupulous person who is capable of lying while looking you right in the eye.
+[36] He did not hesitate to forge signatures or falsify documents to obtain financial benefits.
+[37] Several transactions were conducted in cash. The unavailability of supporting documentation was clearly intentional, given that the Appellant dealt primarily in cash.
+[38] The late Chief Judge Couture of this Court clearly described the test for deciding the justifiability of the penalty set out in subsection 163(2) of the Act in Roland Morin v. The Minister of National Revenue, 88 DTC 1592:
+To escape the penalties provided in subsection 163(2) of the Act, it is necessary, in my opinion, that the taxpayer's attitude and general behaviour be such that no doubt can seriously be entertained as to his good faith and credibility throughout the entire period covered by the assessment, from 1978 to 1981.
+[39] The facts are more than sufficient to support a finding that the Appellant did not hesitate to lie or use false and misleading documents for his own ends.
+[40] I find that his testimony lacks credibility entirely, and I am fully convinced that he deliberately lied and consciously provided false and misleading documents when filing his income tax returns for the 2001 and 2002 taxation years.
+[41] According to the Appellant, any errors, inconsistencies or irregularities were attributable to his accountants or even the auditor, but he was never to blame. He bordered on indecency with his claims that if he did lie, falsify and alter documents and create phoney invoices in order to participate in various scams, it was all in the name of helping disadvantaged families or poor students who had no resources. In other words, the Appellant, a true exploiter of the system and of disadvantaged individuals, had the audacity and the arrogance to claim that he himself had been exploited and abused, an aberration of the highest order. To conclude, I am fully satisfied that the assessments made following the audit understate the real situation.
+[42] The evidence also demonstrates that the witnesses summoned by the Respondent were called upon by the Appellant to prepare their testimonies, which strikes me as being at the outer limits of ethical conduct, again demonstrating that the Appellant is an unscrupulous man, prepared to do anything to get out of paying his taxes.
+[43] I dismiss the appeal without hesitation and confirm the validity of the assessments. As for the penalties, they are fully justified. The whole with costs to the Respondent.
+Signed at Ottawa, Canada, this 9th day of March 2007.
+"Alain Tardif"
+Tardif J.
+Translation certified true
+on this 31st day of August 2007.
+Francie Gow, Translator
+CITATION: 2007CCI128
+COURT FILE NO.: 2006-477(IT)I
+STYLE OF CAUSE: Frédéric Rioux v. Her Majesty the Queen
+PLACE OF HEARING: Rimouski, Quebec
+DATE OF HEARING: February 21, 2007
+REASONS FOR JUDGMENT BY: The Honourable Justice Alain Tardif
+DATE OF JUDGMENT: March 9, 2007
+APPEARANCES:
+Counsel for the Appellant:
+Édouard Côté
+Counsel for the Respondent:
+Claude Lamoureux
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Édouard Côté
+Firm: Guay Côté Avocats
+City: Rimouski, Quebec
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

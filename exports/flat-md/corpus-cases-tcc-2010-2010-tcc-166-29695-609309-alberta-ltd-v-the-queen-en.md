@@ -1,0 +1,190 @@
+---
+title: "609309 Alberta Ltd. v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29695/index.do"
+last_modified: "2010-03-19"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 TCC 166"
+citation2: ""
+neutral_citation: "2010 TCC 166"
+decision_date: "2010-03-19"
+language: "en"
+item_id: "29695"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6200
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T02:31:41.563000+00:00"
+cases_cited_count: 11
+cases_citing_count: 4
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "c58e71e2f05e20a6deb9ef1fef51c084df83708ecaeefd0012cf162b71a808ad"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# 609309 Alberta Ltd. v. The Queen
+
+- Citation: 2010 TCC 166
+- Decision date: 2010-03-19
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6200, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+609309 Alberta Ltd. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-03-19
+Neutral citation
+2010 TCC 166
+File numbers
+2004-24(IT)G
+Judges and Taxing Officers
+Patrick J. Boyle
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2004-24(IT)G
+BETWEEN:
+609309 ALBERTA LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeal of
+Stan Nance (2004-25(IT)G) on March 9, 2010, at Edmonton, Alberta.
+Before: The Honourable Justice Patrick Boyle
+Appearances:
+Counsel for the appellant:
+Gordon D. Beck
+Counsel for the respondent:
+Chang Du
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessments made under the Income Tax Act with respect to the appellant’s 1998 and 1999 taxation years is dismissed, with costs, in accordance with the Reasons for Judgment attached hereto.
+Signed at Ottawa, Canada, this 19th day of March 2010.
+"Patrick Boyle"
+Boyle J.
+Docket: 2004-25(IT)G
+BETWEEN:
+STAN NANCE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeal of
+609309 Alberta Ltd. (2004-24(IT)G) on March 9, 2010, at Edmonton, Alberta.
+Before: The Honourable Justice Patrick Boyle
+Appearances:
+Counsel for the appellant:
+Gordon D. Beck
+Counsel for the respondent:
+Chang Du
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessments made under the Income Tax Act with respect to the appellant’s 1998 and 1999 taxation years is dismissed, with costs, in accordance with the Reasons for Judgment attached hereto.
+Signed at Ottawa, Canada, this 19th day of March 2010.
+"Patrick Boyle"
+Boyle J.
+Citation: 2010 TCC 166
+Date: 20100319
+Dockets: 2004-24(IT)G
+2004-25(IT)G
+BETWEEN:
+609309 ALBERTA LTD.,
+STAN NANCE,
+Appellants,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Boyle J.
+[1] These appeals were heard together on common evidence. Mr. Nance and his former common‑law spouse were the sole shareholders of the corporate appellant in the relevant years, 1998 and 1999.
+I. Issues
+[2] The issues in this case involve (i) whether 609309 Alberta Ltd. (“609309”) was a “personal services business” and Mr. Nance its “incorporated employee” under subsection 125(7) of the Income Tax Act (the “Act”); (ii) whether some of 609309’s expenditures were properly disallowed because of the personal services business restrictions in paragraph 18(1)(p), because they were not laid out to earn income as required by paragraph 18(1)(a), because they were personal or living expenses described in paragraph 18(1)(h), or because they were unreasonable; (iii) whether Mr. Nance received an amount as a tax‑free special worksite board and lodging allowance described in subsection 6(6); and (iv) whether management fees accrued by 609309 in 1999 were incurred as deductible business expenses and, if so, whether they were caught by the 180‑day requirements of subsection 78(4).
+II. Facts
+[3] Mr. Nance is an experienced and successful ironworker. In his early years he was involved in a number of structural steel projects including high rises, bridges, oil sands plants and heavy machinery. He had worked in Alberta, Saskatchewan, British Columbia and Hawaii on significant projects. By the years in question he was largely involved in a supervisory role in construction management and through the 1990’s had worked in this capacity on several major projects of Canada’s large petroleum and chemical companies.
+[4] In 1993 and 1994 he was employed by Spantec Constructors Ltd. (“Spantec”), a Canadian industrial contractor, to work on the Genesee power plant west of Edmonton. In early 1994 Spantec decided to close its Calgary office. Spantec sent Mr. Nance a letter in April 1994 confirming it would no longer be providing him with full‑time employment. The letter went on that Spantec intended to continue to have Mr. Nance working for it on an hourly basis and would also cover his associated employment expenses. The letter closes with a further reference to providing him with employment in the future.
+[5] Mr. Nance testified that he had a related conversation with the Spantec officer who signed the letter at about the same time in which he was told Spantec wanted to continue to use him on a contract basis.
+[6] Based upon the letter and the conversation, Mr. Nance testified that he decided it would make sense to work through a corporation. He then formed 609309 with himself and his then common‑law spouse as equal shareholders and continued working as a contractor from there.
+[7] For contracts booked through 609309, Mr. Nance provided all of the revenue generating services to clients. His then common‑law spouse attended to the necessary books, payroll, banking, liaising with accountants and running errands. 609309 did not have any other employees. 609309 provided the services of Mr. Nance for construction management as well as some building construction work. Mr. Nance did not do all of his work through the corporation and he continued to be employed directly when working through his union.
+[8] Mr. Nance and his spouse lived in Eckville. His spouse ran a hair salon in town. They also jointly owned three modest rental properties and a quarter section of land.
+[9] In November 1997, Spantec and 609309 entered into a contract titled Personal Services Contract which provided that 609309 would provide the personal services of Mr. Nance as Steel Superintendent to Spantec. The work was at the Nova Chemicals Cogeneration Plant in Joffre Alberta. Joffre is near the city of Red Deer which has a population of 90,000 and is Alberta’s third largest city. According to the evidence of both sides, Joffre is less than an hour’s drive from Eckville. Surprisingly, no one could or would tell me or agree on the driving distance and no one asked Mr. Nance either how far the Joffre worksite was from his home or how long it took him to drive even though he drove it regularly in the years in question.
+[10] The Personal Services Contract provided that 609309 would receive forty‑four dollars per hour worked by Mr. Nance and there were no overtime rates. Spantec was obligated to provide professional liability insurance coverage as well as comprehensive general liability insurance coverage for the services of Mr. Nance provided by 609309. The contract included an express agreement by Spantec and 609309 that they were independent contractors and required that Mr. Nance be an employee of 609309. Under the terms of the Personal Services Contract Spantec provided a pickup truck for Mr. Nance’s work and reimbursed all related fuel and maintenance charges. He was also allowed to use the pickup truck to drive to and from work whether he was staying at his Eckville home or at his summer trailer.
+[11] In November 1998, the 1997 Personal Services Contract was either replaced or extended with an unsigned one page Project/Agreement Contract because, in Mr. Nance’s words, the prior purchase order ran out. This document provided that 609309 would provide Mr. Nance’s supervisory services on the same project at the same hourly rates. This document provided that the billed hours were to match the crew hours and that additional hours to complete paperwork etc. was not to be billed. It also set the work hours as Monday to Thursday, 10 hours per day. It provided that expenses would be paid to Mr. Nance not 609309, and would be billed on Spantec’s expense claim paper. It further provided that the living out allowance and expenses, or LOA, was also to be submitted on Spantec expense claim forms. It is clear from the evidence that Spantec’s employee expense claim forms were used for these purposes by Mr. Nance and Spantec.
+[12] While neither agreement provided for the terms of the LOA, Mr. Nance received a seventy‑five‑dollar per day allowance directly from Spantec as a LOA. Mr. Spantec said he was only entitled to receive it for days worked, however as detailed below, I find that, and it is clear from the documentary evidence submitted by the Crown that, he put in signed Spantec employee expense claims and received LOAs for many more days than he worked. This is evidenced by the 609309 invoices to Spantec and corroborating daily timesheets submitted at the same time.
+[13] Neither Mr. Nance nor 609309 reported the LOA amounts for income tax purposes.
+[14] I must begin by commenting on the quantity and quality of the appellants’ evidence.
+[15] I received extremely little corroborating evidence to support Mr. Nance’s testimony. Neither his former common‑law spouse nor anyone from Spantec testified. There were no supporting documents of any kind entered to justify any of the expenses deducted as having been incurred nor confirming the property or services acquired. There was no evidence of any nature led by the appellants to explain, much less substantiate, the accrued management fees. There was no corroborating evidence of Mr. Nance’s testimony that 609309 had other clients than Spantec during the period 1998 and 1999 and whether or not 609309 reported the income. I heard no evidence of what was done in the home office, no details of what Mr. Nance’s supervisory services involved, or what the numerous motor vehicles other than the one provided by Spantec were used for. Similarly I did not hear any evidence if or how expenses for his Eckville home, such as cleaning services, utilities, and the home computer, were allocated to the home office.
+[16] Mr. Nance testified in a most general fashion. There is certainly nothing wrong with being a man of few words. However, I found Mr. Nance to be, at critical times, evasive and not forthcoming. Specifically, when he was challenged in cross‑examination about his testimony that he really did not report to anyone conflicting greatly with his answers on discovery that he reported on a regular or daily basis to a named Project Manager, he retorted simply “Well, everybody has to report to somebody”. Another example was when in cross‑examination he was asked about the express reference to employment with Spantec in its April 1994 letter to him and that it did not suggest the use of a consulting corporation but spoke of working on an hourly contract basis, he replied to the effect that “I guess you can read it anyway you want”. In the circumstances, absent clear corroborating uncontradicted written evidence, I cannot accept Mr. Nance’s testimony alone on any of the issues in dispute as sufficient to discharge the onus on the appellants to satisfy me on a balance of probabilities.
+[17] Specifically, I find that the only client 609309 had in the period in question was Spantec. I accept the evidence put in by the respondent that substantially all of the reported revenues of 609309 were accounted for by amounts billed to and received from Spantec. Mr. Nance’s evidence to the contrary was wishful.
+[18] I also find Mr. Nance’s decision to establish 609309 and provide his services through it was neither at the request nor suggestion of Spantec.
+[19] Mr. Nance’s testimony was most inconsistent as to when he worked and as to when he commuted daily to and from his Eckville home to Joffre or to and from his holiday trailer by the river during the summer months. Mr. Nance did not have a place to stay at the Joffre worksite where he was only provided a work cubicle and a pickup truck. He testified he could remember staying on occasion at a motel or hotel in Blackfalds near Joffre though I was not given a name of an establishment, a reason for the occasion, much less an invoice or credit card statement. The evidence is such that there was nowhere else for me to think Mr. Nance could have slept most every night but in his own bed in Eckville or in his summer trailer by the river. Specifically, I find that Mr. Nance did in fact commute daily from either his home or trailer to his worksite in Joffre and did not incur any board or lodging expenses in Joffre or thereabouts on all but the rarest occasions. I further find that Mr. Nance did not work at the Joffre worksite everyday including most weekends. I find he worked his contracted forty hours per week or thereabouts consistent with the written agreement, and the invoice and timesheet in evidence. I find that he nonetheless put in for and received a seventy‑five‑dollar daily LOA for each day of the year whether he worked it or not except for an approximately two‑week period over Christmas and New Years. I assume this reflected the understanding he and 609309 had with Spantec regarding the LOA.
+III. Personal Services Business
+[20] A personal services business is defined in subsection 125(7) of the Act and, in a case such as this, requires me to determine if, but for the existence of 609309, Mr. Nance would reasonably be regarded as an employee of Spantec.
+[21] The determination of whether an individual is an employee or independent contractor includes considerations of (i) the intent of the parties; (ii) control over the work; (iii) ownership of tools; (iv) chance of profit/risk of loss; and (v) the business integration, association or entrepreneur criteria. None of these considerations govern, and the relative weight and relevance of each will depend upon the facts of a particular case and the context of the issue involved. Leading authorities on this include 671122 Ontario Ltd. v. Sagaz Industries Canada Inc., 2001 SCC 59, [2001] 2 S.C.R. 983, in the Supreme Court of Canada, Wiebe Door Services Ltd. v. M.N.R., 87 DTC 5025, and Royal Winnipeg Ballet v. M.N.R., 2006 FCA 87, 2006 DTC 6323, in the Federal Court of Appeal and Lang et al. v. M.N.R., 2007 TCC 547, 2007 DTC 1754, in this Court.
+[22] Appellants’ counsel relies strongly upon the intention of the parties in this case as evidenced by the terms of the Personal Services Contract entered into between 609309 and Spantec. He points out that several judgments of this Court have focused on the importance of this consideration since the Federal Court of Appeal’s decision in Royal Winnipeg Ballet.
+[23] In the context of a personal services business determination, the intention of the parties is not a helpful or relevant test for at least three reasons. Firstly, the section is an anti‑avoidance provision aimed at denying the reduced small business corporate tax rate and associated tax deferral to certain corporations’ businesses. The sought‑after reduced rate and tax deferral could not be achieved to begin with unless the parties intended an independent contractor relationship. The anti‑avoidance nature of the personal services business restrictions are discussed at length by Sharlow J.A. in Dynamic Industries Ltd. v. The Queen, 2005 FCA 211, 2005 DTC 5293. Since the service provider in a personal services business is by definition a corporation, there is no employment alternative. Thirdly, the wording of subsection 125(7) definition requires a court to ignore the actual relationship and reasonably guess what the parties would have done had they done otherwise. Both of these considerations cause me to conclude that a subsection 125(7) personal services business determination is quite different from the ordinary Employment Insurance, Canada Pension Plan and income tax determination of whether the known, real and actual relationship between a worker and a payor constitutes employment or an independent contractor relationship. In this regard, I agree with the V.A. Miller J. when she said in 1166787 Ontario Limited v. The Queen, 2008 TCC 93, 2008 DTC 2722, that she did not think intent is a relevant consideration in a case involving a personal services business determination under subsection 125(7). I also note that McArthur J. did not consider the parties’ intentions in making his personal services business determination in 758997 Alberta Ltd. v. The Queen, 2004 TCC 755, 2004 DTC 3669, against the taxpayer in a case involving an industrial piping designer and drafter working at the same Nova Chemicals Cogeneration site in Joffre. The Federal Court of Appeal in Dynamic Industries did not consider the parties’ intentions in making its personal services business determination.
+[24] In any event, there is little helpful evidence in this case to assist me in determining what Spantec and Mr. Nance would have intended had they decided to contract directly. Mr. Nance’s testimony was that he believed Spantec wanted to deal with a corporation not with him directly. No one from Spantec testified. The Personal Services Contract makes it clear that Spantec required Mr. Nance to be an employee of 609309; it would not be acceptable to Spantec for Mr. Nance to be an independent contractor of 609309, he had to be an employee. I can infer that each of Spantec and 609309 intended the relationship between them to be an independent contractor relationship but than there was little alternative since a corporation cannot be an employee. Both prior to the years in question and after the years in question, Spantec obtained Mr. Nance’s services directly as an employee for similar supervisory construction management work. There may well have been real business considerations for Spantec requiring Mr. Nance to be an employee of 609309 if not an employee of theirs in order to ensure appropriate workers’ compensation was obtained and was paid for only once and by the appropriate party, that Spantec’s insurance for general liability as well as professional liability extended to Mr. Nance as an unnamed insured, and similar reasons. In the face of the ambiguous direction in which what little helpful evidence I have of intention in this case leads, I conclude that the parties’ intentions are not helpful in making a determination one way or the other in this case.
+[25] With respect to the ownership of tools, 609309 provided the laptop used by Mr. Nance in his work and Spantec provided the pickup truck and workspace. No other tools were needed. I note Mr. Nance used the Spantec provided truck for driving to and from work. This consideration does not lead me in one direction over the other and is therefore not particularly helpful in this case.
+[26] The opportunity for profit of Mr. Nance and 609309 was limited to forty‑four dollars per hour worked by Mr. Nance plus the additional seventy‑five‑dollar daily LOA. All related expenses, including insurance, were borne by Spantec except for workers’ compensation. The only risk of loss to Mr. Nance and 609309 was getting caught up in a potential insolvency of Spantec or its client Nova Chemicals, neither of which were possibilities according to the evidence.
+[27] With respect to control, I must find that the extent of control that Spantec had and needed over the services provided by Mr. Nance were such that a proper characterization of his services, had he contracted directly with Spantec, would have been one of employment. There is a significant degree of control evidenced by what documents were in evidence. However, I make this finding primarily based upon Mr. Nance’s entirely inconsistent testimony on this very issue at trial compared with his answers under oath on discovery.
+[28] It is inconceivable that even Spantec’s most senior representative on the site would not be reporting regularly, directly or indirectly, to an overall project overseer. The structural steel work is but one component of a working cogeneration plant. I infer from Mr. Nance’s nonsensical denial of his earlier answer on discovery that, if truth were told, the degree of reporting required was, at least in Mr. Nance’s mind, sufficient to cause him at the very least a significant risk of being an employee.
+[29] Overall, it is simply hard to see how a worker on these contracted financial terms with Spantec could be said to be truly in business for himself.
+[30] I am not satisfied on the evidence put forward that it is more likely than not that, had Mr. Nance and Spantec contracted directly for his services, the contract would have been such as to characterize Mr. Nance as an independent contractor of Spantec. Thus, the reassessments do not have to be amended to characterize the business of 609309 as other than a personal services business.
+IV. Disallowed Expenses
+[31] I am not satisfied that any of the disallowed expenses should be allowed. The allowable expenses of a personal services business are subject to the restrictions of paragraph 18(1)(p) and, as discussed by the Federal Court of Appeal in Dynamic Industries, this can result in otherwise deductible business expenses not being deductible at the corporate level notwithstanding that the denied deduction may also be included in a shareholder’s income.
+[32] In any event, the evidence in this case is insufficient to satisfy me on a balance of probabilities that the expenses claimed were actually incurred by 609309 and related to its business. There was a lack of documentary evidence and a complete absence of explanatory testimony. Mr. Nance’s testimony is that he honestly did not know how the business expenses were compiled.
+[33] Appellants’ counsel relies on the fact that most of the amount of expenses in question was added to Mr. Nance’s income as a shareholder benefit. In his submission only one‑half should have been so included since Mr. Nance’s former common‑law spouse was also a fifty‑percent shareholder. I do not have sufficient credible evidence to allow me to conclude that it is likely that the expenses benefited Mr. Nance’s former spouse as much as they benefited him or that it is incorrect to have otherwise allocated all of the benefit to him.
+[34] Appellants’ counsel also points out that all of the disallowed expenses reflected as shareholder benefit amounts could have been payable by 609309 to Mr. Nance as additional remuneration and employee benefits and therefore deductible under the restrictive personal services business provisions of paragraph 18(1)(p). He refers to 758997 Alberta in support of such an outcome. I do not need to even consider the approach taken by McArthur J. in that case since it is clear that, while he was dealing with a somewhat similar personal services business arrangement, the quality of the oral and evidentiary record for him was markedly different. I should add that it is not clear to me that a proper consideration of the Federal Court of Appeal’s comments in Dynamic Industries would allow me to follow the result in the earlier 758997 Alberta decision in any event.
+V. LOA/Special Worksite
+[35] The LOA amounts received by Mr. Nance directly from Spantec are not eligible for the subsection 6(6) tax‑free treatment of reasonable board and lodging allowance and benefits at special worksites or remote worksites.
+[36] Subsection 6(6) only applies to an allowance received by an employee. Mr. Nance was not an employee of Spantec; he was an employee of 609309. Spantec paid the LOA directly to Mr. Nance. Neither 609309 nor Mr. Nance accounted for the LOA for bookkeeping, accounting, tax or other purposes. It is not clear that subsection 6(6) could apply to the LOA paid by Spantec to Mr. Nance.
+[37] Subsection 6(6) requires that a qualifying allowance be in respect of expenses the taxpayer has incurred for board and lodging at the special worksite and that it be reasonable. In this case Mr. Nance was sleeping in his own bed almost every night. He did not use the LOA amounts for board and lodging at or near the worksite. Also, he was paid the LOA for days he neither worked at the Joffre site nor stayed there or nearby. This went well beyond a checkout allowance for those weekends where an employee returns home occasionally for family or other personal reasons when not working. Neither of the two requirements is met.
+[38] A special worksite must be such as the taxpayer could not reasonably be expected to have returned home daily because of the distance. In this case, Mr. Nance did return home almost daily, not on occasion for family or other reasons. This requirement therefore is not met.
+[39] Subsection 6(6) only applies if the taxpayer was required by his duties to be away from home or at a special worksite or remote location for 36 hours or longer. In this case, Mr. Nance worked ten‑hour shifts at a site less than an hour’s drive from his home. It cannot be said that this required him to be away 36 hours.
+[40] I have great difficulty seeing that a fifty‑four‑minute drive over public roads through the city of Red Deer or its outskirts could be sufficiently distant to meet either of these last two requirements.
+VI. Management Fees
+[41] The evidence with respect to the disallowed management fees deducted by 609309 is no better than the evidence with respect to its other disallowed expenses. I have no evidence that it was in fact ever payable or paid, to whom it was paid, or what if any services were provided. There was no agreement, invoice, cancelled cheque or anything else. Mr. Nance’s testimony was that he was only made aware of the issue in the last few days and does not know to whom it was paid. The evidence is not sufficient to satisfy me on a balance of probabilities that the expense was incurred for purposes of 609309’s business.
+[42] I can add that since the business of 609309 was a personal services business, it would not be deductible under paragraph 18(1)(p) unless it was remuneration paid to Mr. Nance. In that case, there is no evidence that it was in fact paid within the 180‑day period mandated by subsection 78(4).
+[43] The taxpayers’ appeals are dismissed. The Crown is entitled to costs in each appeal in accordance with the Tariff. Since the hearing of the appeals was joined on common evidence, there will be only one set of costs for the hearing date. Since the hearing went past 6:00 p.m. in the evening at the request of the parties and with the gracious consent of Court staff, costs for the hearing shall be computed as if it were a hearing of one and a half days.
+Signed at Ottawa, Canada, this 19th day of March 2010.
+"Patrick Boyle"
+Boyle J.
+CITATION: 2010 TCC 166
+COURT FILE NOS.: 2004-24(IT)G & 2004-25(IT)G
+STYLE OF CAUSE: 609309 ALBERTA LTD. ET AL. v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Edmonton, Alberta
+DATE OF HEARING: March 9, 2010
+REASONS FOR JUDGMENT BY: The Honourable Justice Patrick Boyle
+DATE OF JUDGMENT: March 19, 2010
+APPEARANCES:
+Counsel for the appellants:
+Gordon D. Beck
+Counsel for the respondent:
+Chang Du
+COUNSEL OF RECORD:
+For the appellants:
+Name: Gordon D. Beck
+Firm: Henning Byrne Barristers and Solicitors
+Edmonton, Alberta
+For the respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,195 @@
+---
+title: "Kjarsgaard v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27422/index.do"
+last_modified: "2006-12-12"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 CCI 632"
+citation2: ""
+neutral_citation: "2006 CCI 632"
+decision_date: "2006-12-12"
+language: "fr"
+item_id: "27422"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 244
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T23:29:11.335000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "5f8a85781679fd7abd3f2333d304ccf59d788d691655e99d97d1e162eff485cc"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Kjarsgaard v. The Queen
+
+- Citation: 2006 CCI 632
+- Decision date: 2006-12-12
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 244, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Kjarsgaard v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-12-12
+Référence neutre
+2006 CCI 632
+Numéro de dossier
+2005-118(IT)G
+Juges et Officiers taxateurs
+Theodore E. Margeson
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2005-118(IT)G
+ENTRE :
+KARL W. KJARSGAARD,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu à Ottawa, Canada, le 24 octobre 2006.
+Devant : L’honorable juge T.E. Margeson
+Comparutions :
+Avocate de l’appelant :
+Me Frances M. Viele
+Avocate de l’intimée :
+Me Justine Malone
+____________________________________________________________________
+JUGEMENT
+Les appels des nouvelles cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 2001, 2002 et 2003 sont accueillis et les affaires sont renvoyées au ministre du Revenu national pour nouvelle cotisation et nouvel examen en tenant compte du fait que l’appelant a droit de déduire en vertu des dispositions de l’alinéa 60o) de la Loi le montant de 1 600 $ qu’il a payé pour la préparation de l’opposition.
+En ce qui a trait à la question des dépens, comme l’intimée a obtenu gain de cause en grande partie dans le présent appel, elle a droit à 80 p. 100 de ses dépens taxés.
+Aucuns dépens ne sont adjugés à l’appelant.
+Signé à New Glasgow (Nouvelle‑Écosse), ce 12e jour de décembre 2006.
+« T.E. Margeson »
+Juge Margeson
+Traduction certifiée conforme
+ce 29e jour de février 2008.
+Erich Klein, réviseur
+Référence : 2006CCI632
+Date : 20061212
+Dossier : 2005-118(IT)G
+ENTRE :
+KARL W. KJARSGAARD,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Margeson
+[1] L'appel vise des cotisations établies par le ministre du Revenu national (le « ministre ») à l’égard des années d'imposition 2001, 2002 et 2003 de l'appelant. Pour ces années, le ministre a refusé les demandes de déduction des versements de pension alimentaire effectués par l’appelant. Le ministre a également refusé la demande de déduction de 550 $, au titre des frais d'opposition, pour l’année d’imposition 2003.
+[2] Dans l’avis d’appel modifié, l’appelant a réduit la déduction demandée au titre des versements de pension alimentaire au profit de son ex-épouse à 70 p. 100 du montant indiqué dans l’avis d’appel initial.
+[3] À l’audience, l’appelant a également modifié sa demande de déduction relative aux frais d'opposition en l'augmentant à 1 600 $.
+Questions en litige
+[4] La question à trancher est de savoir si l’appelant a droit à la déduction d’un montant quelconque au titre de la pension alimentaire versée au profit de son ex‑épouse pour les années visées par l’appel et s’il a droit de déduire le débours de 1 600 $ qu'il prétend avoir fait relativement à des frais engagés pour la préparation, la présentation et la poursuite d’une opposition visant une cotisation à l’égard de l’impôt et des intérêts.
+Preuve
+[5] L’appelant, Karl W. Kjarsgaard, a déclaré dans son témoignage qu’il avait divorcé en 1993. Il n’est pas actuellement marié. Il a deux fils, Jonathan et Daniel. Au moment du divorce en 1993, son ex‑épouse a obtenu la garde des enfants. Lui et son ex‑épouse ont continué de vivre à Bellingham, dans l’État de Washington, mais sous des toits distincts. Le témoin a reconnu le jugement de dissolution du mariage prononcé par la Cour supérieure de l’État de Washington en date du 3 août 1993. En vertu de ce jugement, l’appelant était tenu de verser des aliments de 2 000 $ au profit de son ex-épouse et de 800 $ pour les enfants. Il a affirmé que le versement de la pension alimentaire au profit de son ex-épouse devait cesser en cas de décès ou de remariage de celle-ci. Il devait continuer de verser la pension alimentaire pour les enfants jusqu’à la fin de leurs études secondaires. Il a fait les versements requis.
+[6] En 1997, il s’est vu imposer une diminution de salaire par son employeur. Cette situation a entraîné ce qu’il a appelé une [TRADUCTION] « crise de liquidités ». Il a obtenu une ordonnance judiciaire en 1998 réduisant la pension alimentaire de l’ex-épouse et des enfants. L’ordonnance a réduit la pension alimentaire des enfants et, au dire de l’appelant, il payait 1 400 $US par mois en 2001 : 1 000 $ pour l’épouse et 400 $ pour l’enfant. À ce moment‑là, le fils aîné avait terminé ses études secondaires. L’appelant a payé ces montants tous les mois et les a déduits dans sa déclaration de revenu. Les déductions demandées ont été refusées et il a dit ne pas savoir pourquoi.
+[7] En 2004, l’appelant a donné suite à cette affaire et, par l’intermédiaire de son avocat aux États‑Unis, il a réussi à obtenir du même tribunal que celui qui avait prononcé le jugement de divorce une ordonnance clarifiant les ordonnances antérieures. Il était ordonné comme suit :
+[TRADUCTION]
+1. tous les montants versés par Karl Kjarsgaard à Holly S. Kjarsgaard depuis le 26 mars 1998 jusqu’à aujourd’hui ont été faits suivant les proportions de 70 p. 100 pour l’épouse et de 30 p. 100 pour les enfants, selon le jugement de dissolution de 1993;
+2. tous les versements futurs que fera Karl Kjarsgaard à Holly Kjarsgaard seront dans les proportions de 70 p. 100 pour l’épouse et de 30 p. 100 pour les enfants, selon le jugement de dissolution de 1993.
+L’ordonnance a été signée par le juge et acceptée par Holly Kjarsgaard et par Robert J. Och, l’avocat de l’appelant, au nom de celui-ci.
+[8] Au contre‑interrogatoire, on a renvoyé l'appelant à l’ordonnance du 26 mars 1998 qui lui enjoignait de verser 1 200 $ par mois comme pension alimentaire pour son ex-épouse pour la période de septembre 1997 au 31 décembre 1998, et 800 $ par mois pour la pension alimentaire des enfants.
+[9] Cette ordonnance prévoyait également que, à compter du 1er janvier 1999, le père paierait 1 400 $ par mois en pension alimentaire pour enfants jusqu’à ce qu’il y ait modification de cette pension ou que le paiement en soit terminé. Il a dit que c’était ce montant de 1 400 $ qu’il voulait déduire.
+[10] Il demandait une déduction correspondant à 70 p. 100 de ce montant conformément à l’ordonnance clarifiant les ordonnances antérieures qui a été prononcée le 30 janvier 2004.
+[11] Il a identifié le document produit sous la cote R‑1 comme étant l’opposition à la cotisation établie à l’égard de l’année d’imposition 2001, laquelle avait été déposée par son comptable. Il n’indiquait pas la raison pour laquelle il demandait cette déduction et ne mentionnait pas la répartition dans une proportion de 70 à 30. Lorsqu’on lui a demandé à quel moment il en a été question pour la première fois, il a répondu que c’était en janvier 2003 lorsqu’il s’est rendu compte que sa déclaration de revenu de 2001 faisait problème. Il n’a pu expliquer pourquoi l'opposition ne faisait pas état de la répartition.
+[12] En ce qui a trait à la déduction des frais, il a affirmé avoir payé 1 600 $ pour la préparation et le dépôt de l’opposition. Il ne savait pas quand il avait payé cette somme, mais il l’avait payée en deux versements. Il croyait que le montant payé était assez élevé mais qu’il était justifié puisque la personne à qui il avait fait appel était un expert. Lorsqu’on lui a demandé pourquoi il aurait payé 70 p. 100 pour son ex-épouse et seulement 30 p. 100 pour les enfants, l’appelant a répondu : [TRADUCTION] « j’estimais que cette répartition était appropriée ».
+[13] Au réinterrogatoire, il a dit qu’il ne savait rien au sujet de la rencontre au bureau des comptables. Ils le représentaient. Il leur a seulement donné l’information et il n’en a pas discuté davantage avec eux. En réponse à la question de savoir s’il avait vu les déclarations de revenu, il a dit qu’il avait simplement regardé s’il avait un remboursement ou s’il avait un montant à payer. Il a signé la déclaration de revenu de 2001. Il n'a pas signé celle de 2002 ni celle de 2003.
+[14] Holly Kjarsgaard a témoigné qu’elle était aux études et qu’elle était l’ex‑épouse de l’appelant. Ils ont divorcé en 1993. Elle connaissait bien le document figurant à l’onglet 6, à savoir le jugement de dissolution du 3 août 1993, et elle a affirmé qu’en vertu de ce jugement l’appelant avait eu à payer 2 000 $ en pension alimentaire pour elle et 800 $ en pension alimentaire pour les enfants. Elle a dit avoir reçu ces paiements.
+[15] En 1998, conformément à l’ordonnance figurant à l’onglet 6, ces paiements ont été réduits. Elle était dans la salle d'audience le 26 mars 1998 et elle a entendu le juge prononcer l’ordonnance. On lui a demandé de se reporter à la pièce figurant à l’onglet 8, à savoir l’ordonnance clarifiant les ordonnances antérieures prononcée le 30 janvier 2004. Elle a dit que tous les versements devaient être partagés suivant les proportions de 70 p. 100 pour sa propre pension alimentaire et de 30 p. 100 pour celle des enfants, en fonction du jugement de 1993.
+[16] Au contre‑interrogatoire, on lui a demandé de se reporter à l’ordonnance du 26 mars 1998 et à l’ordonnance de paiement d’un montant de 1 400 $ par mois. Elle a cependant mentionné qu’une répartition avait été établie en 1993. Elle a reconnu que le document lui semblait étrange. Elle ne savait pas pourquoi le juge avait réduit la pension alimentaire pour les enfants de 800 $ à 400 $ par mois.
+[17] En 1993, au moment du divorce, elle voulait retourner aux études. Elle voulait obtenir une pension alimentaire pour elle et vivre avec son enfant. Elle ne savait pas combien de temps il lui faudrait pour faire ses études.
+Arguments présentés au nom de l’appelant
+[18] L'avocate de l’appelant a affirmé que, dans l’ordonnance du 3 août 1993, au paragraphe 3.9, le juge Nichols avait ordonné le paiement d’aliments pour l’épouse et les enfants. La pension au profit de l’ex-épouse correspondait à 70 p. 100 du paiement total et celle au profit des enfants, à 30 p. 100. Le tribunal a enjoint à l’appelant de payer un montant de 2 800 $.
+[19] En raison de difficultés financières, l’appelant a demandé une réduction du montant versé, qui lui a été accordée par le juge Nichols. Cette demande n’avait rien à voir avec le niveau de scolarité de l’épouse, parce que l’appelant s'attendait à ce qu'il ait à payer des aliments, mais il voulait en faire réduire le montant. Cette demande a été présentée en 1998. Antérieurement, il y avait le jugement de 1993. Tous ces documents peuvent être interprétés de manière à permettre à l’appelant d’obtenir la déduction demandée. En outre, l’ordonnance clarifiant les ordonnances antérieures, qui est datée du 30 janvier 2004, devrait dûment être prise en compte, tout comme le reste des documents.
+[20] L’avocate était disposée à reconnaître que le document daté du 26 mars 1998, qui imposait le versement d’un montant de 1 200 $ par mois en pension alimentaire au profit de l’ex-épouse pour la période allant de septembre 1997 au 31 décembre 1998, posait un problème pour son argumentation. Elle a reconnu que le document était rédigé dans des termes clairs, mais elle a soutenu que l’ex-épouse avait affirmé que le juge avait ordonné de vive voix la réduction des paiements de moitié le 26 mars 1998.
+[21] Les avocats ne lui avaient pas envoyé de copie de cette ordonnance et elle a dû s'adresser ultérieurement au tribunal pour en obtenir une. Le juge a également indiqué que le montant de 1 400 $ était réparti en des montants de 1 000 $ et de 400 $. Il n'a pas ordonné le versement d'une pension alimentaire pour enfants de 1 400 $. Si tel avait été le cas, l’appelant aurait payé un montant moindre que celui de 1 400 $ qu’il versait. L'appelant a toujours été conséquent dans ses actions: 1 000 $ pour l’épouse et 400 $ pour l'enfant. Il a continué de faire le versement de 1 400 $ jusqu’à la fin de 2003 et par la suite.
+[22] Ce n’est qu’en janvier 2003 qu’il a reçu un avis de nouvelle cotisation daté du 27 janvier 2003. Comme cet avis le préoccupait, il s’est rendu aux États‑Unis pour consulter son avocat. Ils sont retournés devant le même juge pour régler la question. L’ordonnance de 2004 reflète la modification et indique une parfaite compréhension de la situation antérieure.
+[23] Cela a considérablement modifié les obligations qu’il avait envers son ex‑épouse et ses enfants. Ce serait une erreur que de considérer l’ordonnance figurant à l’onglet 7 sans tenir compte de celle présentée à l’onglet 8. Ne pas considérer l’ordonnance de 2004 comme une ordonnance de rectification serait une erreur. C'était également une entente entre les parties, laquelle a été signée par l’avocat de l’appelant au nom de ce dernier et par son ex‑épouse. Il s’agissait d’une entente écrite qui devait s’appliquer non seulement pour l’avenir mais aussi rétroactivement.
+[24] L'avocate a invoqué le bulletin d’interprétation en matière d’impôt sur le revenu IT‑530(R) à l’appui de sa position. Le ministère exigeait simplement une bonne compréhension de tous les termes du document. L’avocate a soutenu que l’appel devrait être accueilli et que l'appelant devrait se voir accorder à la déduction demandée parce que, s’il s’agit d’un accord écrit, il n’y a rien qui empêche cette déduction.
+[25] Deuxièmement, le document constitue manifestement une ordonnance de paiement des montants en question visée par les dispositions du paragraphe 56.1(4) de la Loi de l’impôt sur le revenu. La déduction devrait être accordée pour les années 2001, 2002 et 2003, conformément à la réponse modifiée.
+[26] L’appelant devrait avoir droit à la déduction des frais de 1 600 $. Il a déclaré sous serment, devant la Cour, qu’il avait payé le montant de 1 600 $ conformément à la lettre de Mintz & Partners LLP, figurant à l’onglet 9. Ce document renvoyait à l’état de compte mais n’en mentionnait pas le montant. L’état de compte faisait effectivement mention de la préparation de l’avis d’opposition à l’égard de l’année d’imposition 2001. Cette lettre précisait que la facture avait été acquittée en entier.
+[27] Ce montant peut être déduit en vertu de l’alinéa 60o) de la Loi. L'avocate a fait valoir que l’appelant avait payé les montants indiqués au paragraphe 4 de la réponse modifiée et avait payé les frais de 1 600 $, soit la somme correspondant à la modification apportée devant la Cour.
+[28] La déduction de 1 600 $ demandée pour les frais n’est pas excessive. Si elle n’accorde pas les 1 600 $, la Cour devrait accorder la déduction d’un montant raisonnable. L’avocate de l’appelant n’a pas précisé sur quoi on pourrait se fonder pour établir le caractère raisonnable. Elle n’a pas demandé de déduction pour les frais de garde d’enfants.
+Arguments présentés au nom de l’intimée
+[29] Dans son argumentation, l’avocate de l’intimée a affirmé que l’appelant avait initialement demandé la déduction des montants entiers qu’il aurait payés et qu’il demandait maintenant la déduction de 70 p. 100 seulement au titre de la pension alimentaire de son ex-épouse.
+[30] La question que la Cour doit trancher est celle de savoir si le montant de 1 000 $US a été payé comme pension alimentaire pour l’ex-épouse. Si tel est le cas, ce montant est déductible. Dans le cas contraire, il n'est pas déductible à l’égard des années en question.
+[31] L’avocate a soutenu que les paiements faits l’ont été en vertu de l’ordonnance de 1998, prononcée par le juge Nichols, et non en vertu du jugement de 1993 ou de l'ordonnance de 2004. En 2001, 2002 et 2003, le montant de 1 400 $US a été payé en vertu de l’ordonnance de 1998. Cette ordonnance énonce bien clairement que le montant de 1 400 $ par mois devait être payé à titre de pension alimentaire pour enfants. Il est fait mention, au paragraphe 2, de la pension alimentaire pour l’ex-épouse. Il y est question de son paiement jusqu’à la date du 31 décembre 1998. Les pensions au profit de l’ex-épouse et au profit des enfants sont toujours traitées dans des paragraphes distincts, comme on l’a fait dans le jugement de 1993. L'ordonnance de 1998 ne comporte aucune ambiguïté. Elle est l’ordonnance la plus claire. Elle est moins susceptible de renfermer des ambiguïtés.
+[32] Dans l’ordonnance de 2004, le juge semble interpréter l’ordonnance qu’il a lui‑même rendue antérieurement. Aucune importance ne devrait y être accordée. Elle a été prononcée à la suite d’initiatives prises par l’appelant parce que Revenu Canada lui avait refusé les déductions demandées. Cette ordonnance a été prononcée après coup. Elle contredit clairement l’ordonnance de 1998. Elle est incompatible avec celle-ci. C'est l’ordonnance de 1998 que la Cour doit interpréter.
+[33] Il ne s’agit pas d’une ordonnance de rectification, mais plutôt d’une ordonnance par consentement et le juge ne se serait pas interrogé sur sa teneur. La Cour doit interpréter l’ordonnance de 1998 en tenant compte de son sens clair. À propos de l’ordonnance de 2004, l’avocate a fait remarquer que le juge n’y fait pas référence à des paragraphes particuliers de l’ordonnance de 1998 et qu’elle est en conséquence ambiguë. Par conséquent, on ne peut se fier à cette ordonnance; elle ne constitue qu’une opinion. De plus, Il ne s’agit pas d’une ordonnance de rectification.
+[34] Il s’agit seulement de l’opinion du juge quant à savoir comment l’ordonnance antérieure doit être interprétée. Il n’y est pas dit que le paragraphe 3 de l’ordonnance initiale était erroné. De plus, il y est dit qu’elle est fondée sur l’ordonnance initiale et ce n’est pas le cas.
+[35] Il a été fait état de la question des pourcentages pour la première fois dans cette ordonnance et il n'en avait pas été question dans l'ordonnance de 1998.
+[36] L’ordonnance de 2004 établit seulement une répartition. Il ne s’agit pas d’une ordonnance. Mais, dans le cas contraire, il ne saurait s’agir d’une ordonnance envisagée par la Loi parce qu'elle ne prévoit pas de paiement ni ne crée d’obligation de payer un montant. Cette ordonnance n’était pas en vigueur en 2001, en 2002 et en 2003.
+[37] Il est également possible que ce que le juge a dit en 2004 ne corresponde pas à ce qu’il avait dit ou voulu dire en 1998. L’ordonnance elle‑même constitue la meilleure preuve de ce qu’elle signifie. Son libellé est clair et non équivoque.
+[38] L’avocate a invoqué l’affaire Nagel c. La Reine, 2003 CCI 769, où le juge Bowie a déclaré ce qui suit :
+L’appelant et son ex‑conjointe ont tous deux témoigné à propos de ce qui a été dit devant la Cour afin de tenter de qualifier le paiement. Je ne considère pas ces témoignages comme utiles. Les modalités de l’ordonnance doivent être prises en compte conformément à son libellé. Si des motifs écrits accompagnent l’ordonnance, on peut s’y référer pour aider l’interprétation, mais un témoignage oral portant sur ce qu’un juge ou toute autre personne a déclaré ne peut être utilisé.
+[39] L’ordonnance de vérification va complètement à l’encontre de l’ordonnance initiale. En l’espèce, il n’y a pas d’ordonnance de pension alimentaire au profit de l’ex-épouse et aucun montant n’est déductible en vertu des paragraphes 56.1(4) et 60.1(4) et de l’alinéa (60)b) de la Loi.
+[40] L’avocate de l’intimée a de plus invoqué l'affaire Njenga c. Canada, [1996] A.C.F. no 1218 (QL), 96 DTC 6593, relativement au fardeau de la preuve. Dans cette affaire, il a été déclaré ce qui suit :
+Le système fiscal est fondé sur l’autocontrôle. Il est d’intérêt public que la charge de prouver le fondement des déductions et des réclamations repose sur le contribuable. Le juge de la Cour de l’impôt a statué que les personnes comme la requérante doivent être en mesure de produire toutes les informations et justifications permettant d’appuyer les réclamations qu’elles font. Nous sommes d’accord avec cette conclusion. Mme Njenga, à titre de contribuable, a la responsabilité de justifier ses affaires personnelles d’une manière raisonnable. Des reçus écrits par elle‑même et des allégations sans preuve ne sont pas suffisants.
+Cette décision s’applique à la présente affaire relativement à la déduction du montant de 1 600 $ au titre des frais payés pour la préparation et le dépôt de l’opposition. Il a été affirmé que le montant de 1 600 $ semblait être excessif, à première vue, pour la préparation d’une opposition. Il est probable que le souvenir de l’appelant était incorrect et ne constituait donc pas une preuve selon la prépondérance des probabilités.
+[41] La preuve n’indique aucun autre montant qui pourrait être raisonnable. Par conséquent, aucun autre montant ne pourrait être raisonnable. L’appel devrait être rejeté relativement à ces frais également.
+[42] En contre‑preuve, l’avocate de l’appelant a dit que la décision Njenga, au paragraphe 3, ne s’appliquait pas. Il s’agissait là d’un cas où une contribuable conservait ses propres reçus, ce qui n’est pas le cas en l’espèce. Dans la présente affaire, il est connu que l’appelant a déposé une opposition. Il n’a pas eu d’hésitation quant au montant payé. Il a affirmé avoir fait deux versements aux comptables qui ont préparé l’opposition et les avoir faits avec sa carte de crédit. Ce serait sévère que de refuser la déduction du montant en question. Il a affirmé devant la Cour que son avocat lui avait dit qu’il pouvait demander la déduction de ce montant dans sa déclaration de revenu.
+[43] À propos de l’argument de l’avocate de l’intimée concernant l’ordonnance du juge, elle a dit qu’il serait difficile de croire qu’un juge se contenterait de rendre une ordonnance sans savoir ce qu’il fait, juste pour donner satisfaction aux parties. Au cours de la période visée, les montants ont changé parce que l’un des enfants a atteint l’âge de la majorité. L’avocate a posé la question suivante :
+L’ordonnance de 2004 a-t‑elle force exécutoire?
+Elle a répondu qu’elle avait force exécutoire parce que l’appelant était tenu de faire les paiements pour son ex-épouse et l’enfant.
+[44] L’avocate a exprimé l'avis qu’il y avait une troisième interprétation possible. Dans l'ordonnance de 2004, la Cour a décidé peut-être de revenir au jugement de 1993, qui prévoyait une pension alimentaire de 2 000 $ au profit de l’ex-épouse, et d’appliquer l’ordonnance de 2004 attribuant 30 p. 100 du montant à l’enfant et 70 p. 100 à l’ex-épouse. Selon le jugement de 1993, un montant de 400 $ devait être payé à titre de pension alimentaire pour l’enfant et le reste constituait la pension alimentaire de l’ex-épouse.
+[45] L’avocate a émis l'avis que l’ordonnance avait force exécutoire comme un accord. Mais, s’il ne s’agit pas d’un accord à l’égard de la période précédente ou s’il ne s’agit pas d’une ordonnance à l’égard de la période précédente, il s’agit d’un accord à l'égard des années à venir, à partir de 2004, et les montants pourront être déduits en vertu des paragraphes 61(14) et 56.1(4) et de l’alinéa 60b) de la Loi, pour les années 2004 et suivantes.
+Analyse et décision
+[46] Comme les deux avocates l’ont indiqué, le problème le plus important auquel se heurte l’appelant en l’espèce est l’ordonnance du 26 mars 1998. Comme l’a fait valoir l’avocate de l’intimée, cette ordonnance semble en soi être claire et non équivoque. Elle va complètement à l’encontre de la position avancée par l’appelant.
+[47] Pour souscrire à l’argument de l’appelant, la Cour devrait ne pas tenir compte du sens clair de l’ordonnance du 26 mars 1998 et conclure que ce sens clair a été écarté par une autre ordonnance, prononcée après coup, qui n’explique pas vraiment en quoi l’ordonnance du 26 mars 1998 était ambiguë, non voulue ou trompeuse. De plus, l’appelant prie la Cour de donner effet rétroactivement à un accord conclu environ cinq ans après l’ordonnance de 1998 pour tenter de la clarifier alors qu’elle n’a pas besoin de l’être.
+[48] L’avocate de l’intimée a avancé un argument très juste en disant que l’appelant a commencé à déduire les versements en 2001 et l'a fait aussi en 2002 et en 2003, mais non en vertu de l’ordonnance de 1998. Elle a indiqué que cette ordonnance énonce clairement quels versements étaient faits au titre de la pension alimentaire pour enfants. Le paragraphe 2 parle de la pension alimentaire versée jusque-là au profit de l’ex-épouse. Il est tout de même révélateur que l’ordonnance traite des aliments pour l’ex-épouse et de la pension alimentaire pour enfants dans des paragraphes distincts et qu’elle emprunte la forme du jugement de 1993 également. L'ordonnance de 1998 ne comporte aucune ambiguïté et elle est en soi claire quant à son sens.
+[49] La Cour ne peut se prononcer sur la question de savoir pourquoi l’ordonnance de 2004 a été accordée, mais il est évident qu’il s’agit d’une ordonnance par consentement et elle est ambiguë. Cette ordonnance ne renvoie à aucun paragraphe particulier de l’ordonnance de 1998 ni ne précise d’aucune manière pourquoi il était nécessaire de la clarifier. L’avocate de l’intimée a fait valoir que ce n’était peut‑être rien d’autre qu’une opinion qui faisait suite à un accord intervenu entre les parties et qu'on ne peut s'y fier. Le témoignage de l’ex‑épouse de l’appelant n’est guère utile pour interpréter l’ordonnance de 1998 qui, tel qu’il a été mentionné, est en soi claire et non équivoque.
+[50] L’appel relatif aux déductions au titre de la pension alimentaire de l’ex‑épouse dans les années en question est rejeté. La nouvelle cotisation établie par le ministre est confirmée à cet égard.
+[51] En ce qui a trait à la déduction du montant de 1 600 $, même si la preuve de son paiement n’est pas très substantielle, il existe certains éléments sur lesquels la Cour peut s’appuyer. La Cour dispose de la preuve de l’appelant lui‑même, qui a pu être observé, qui a été contre-interrogé, et dont le témoignage semblait franc, conforme aux faits et relativement précis. Il a dit avoir payé le montant de 1 600 $ en deux versements et la Cour accepte son témoignage à cet égard.
+[52] En outre, cette preuve est corroborée dans une certaine mesure par le fait qu’il avait une lettre dans laquelle ses représentants, qui avaient préparé l’opposition, reconnaissaient que l’appelant avait acquitté le compte en entier et qu’ils agissaient pour son compte auprès de Revenu Canada. Il est vrai que le document ne fait pas état du montant précis et la Cour tient compte de l’argument de l’avocate de l’intimée suivant lequel le montant semble excessif. Néanmoins, tout bien considéré, la Cour est convaincue que l’appelant a payé le montant de 1 600 $ pour faire préparer l’opposition et qu’il a droit à la déduction de ce montant en vertu des dispositions de l’alinéa 60o) de la Loi.
+[53] En ce qui a trait à l’argument de l’avocate de l’appelant, suivant lequel l’ordonnance du 30 janvier 2004 constitue un accord entre les parties quant à la pension alimentaire à verser après cette date à l’ex‑épouse, la Cour n’a aucune difficulté à conclure qu’il s’agit d’un accord. Toutefois, cette conclusion n’est pas pertinente quant à la question principale en l’espèce et, en tout état de cause, l’accord ne peut s’appliquer rétroactivement mais seulement après le 30 janvier 2004.
+[54] Quant à la question des dépens, vu le succès limité de l’appelant et le succès substantiel de l’intimée dans la présente action, l'intimée aura droit à 80 p. 100 de ses dépens taxés. Aucuns dépens ne seront adjugés à l’appelant.
+Signé à New Glasgow (Nouvelle‑Écosse), ce 12e jour de décembre 2006.
+« T.E. Margeson »
+Juge Margeson
+Traduction certifiée conforme
+ce 29e jour de février 2008.
+Erich Klein, réviseur
+RÉFÉRENCE : 2006CCI632
+NO DU DOSSIER DE LA COUR : 2006-118(IT)G
+INTITULÉ DE LA CAUSE : KARL W. KJARSGAARD
+c.
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Ottawa (Ontario)
+DATE DE L’AUDIENCE : Le 24 octobre 2006
+MOTIFS DU JUGEMENT PAR: L’honorable juge T.E. Margeson
+DATE DU JUGEMENT : Le 12 décembre 2006
+COMPARUTIONS :
+Avocate de l’appelant :
+Me Frances M. Viele
+Avocate de l’intimée :
+Me Justine Malone
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom : Me Frances M. Viele
+Cabinet : Binavince & Associates
+Pour l’intimée : John H. Sims, c.r.
+Sous‑procureur général du Canada
+Ottawa, Canada

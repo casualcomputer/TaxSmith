@@ -1,0 +1,291 @@
+Title: Bishara v. The King
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/520965/index.do
+Corpus path: corpus/cases/tcc/2022/2022-tcc-105-520965-bishara-v-the-king-en.md
+Document type: case_law
+Last modified: 2022-09-16
+
+# Bishara v. The King
+
+- Citation: 2022 TCC 105
+- Decision date: 2022-09-16
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4491, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Bishara v. The King
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2022-09-16
+Neutral citation
+2022 TCC 105
+File numbers
+2018-4620(GST)G, 2018-4622(GST)G
+Judges and Taxing Officers
+Guy R. Smith
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2018-4620(GST)G
+BETWEEN:
+MARC BISHARA,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard on common evidence
+on September 27, 2021, at Montréal, Quebec.
+Before: The Honourable Justice Guy R. Smith
+Appearances:
+Counsel for the Appellants:
+Vanessa Gregorio
+Counsel for the Respondent:
+Antoine Lamarre
+JUDGMENT
+The appeal from the assessment made on October 26, 2017, under the Excise Tax Act for the periods from May 1, 2012, to December 31, 2012, inclusive, is dismissed with costs, in accordance with the attached reasons for judgment. This Court awards costs of $2,500.
+Signed at Ottawa, Canada, this 16th day of September 2022.
+“Guy R. Smith”
+Smith J.
+Translation certified true
+on this 19th day of September 2024.
+Melissa Paquette
+Docket: 2018-4622(GST)G
+BETWEEN:
+CARL BISHARA,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard on common evidence
+on September 27, 2021, at Montréal, Quebec.
+Before: The Honourable Justice Guy R. Smith
+Appearances:
+Counsel for the Appellants:
+Vanessa Gregorio
+Counsel for the Respondent:
+Antoine Lamarre
+JUDGMENT
+The appeal from the assessment made on October 26, 2017, under the Excise Tax Act for the periods from May 1, 2012, to December 31, 2012, inclusive, is dismissed with costs, in accordance with the attached reasons for judgment. This Court awards costs of $2,500.
+Signed at Ottawa, Canada, this 16th day of September 2022.
+“Guy R. Smith”
+Smith J.
+Translation certified true
+on this 19th day of September 2024.
+Melissa Paquette
+Citation: 2022 TCC 105
+Date: 20220916
+Docket: 2018-4620(GST)G
+BETWEEN:
+MARC BISHARA,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+AND BETWEEN:
+Docket: 2018-4622(GST)G
+CARL BISHARA,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Smith J.
+I. Overview
+[1] Marc Bishara and Carl Bishara are appealing an assessment made against them as directors of TricomCanada Inc. (“Tricom”), under subsection 323(1) of the Excise Tax Act, R.S.C. 1985, c. E‑15 (the “ETA”). These appeals were heard together on common evidence.
+[2] The Minister of National Revenue (the “Minister”) made the assessment on October 26, 2017, to hold the appellants jointly and severally liable for Tricom’s tax debt for the periods from May 1, 2012, to December 31, 2012, inclusive.
+[3] The appellants rely on subsection 323(5) of the ETA and state that the assessment is invalid because it was made more than two years after they resigned as directors.
+[4] In the alternative, the appellants cite subsection 323(3) of the ETA in the Notice of Appeal and assert that they had always acted with the degree of care, diligence and skill required by the legislation. However, they did not produce any evidence in that respect and, in their preliminary remarks, stated that they were relying solely on subsection 323(5).
+[5] Therefore, the only issue is whether the appellants should be held jointly and severally liable for Tricom’s tax debt under subsection 323(1) of the ETA.
+[6] For the reasons set out below, the appeal must be dismissed, with costs, on the grounds that the appellants were directors of Tricom when the assessment was made on October 26, 2017.
+II. Minister’s assumptions of fact
+[7] The Minister assumed that the appellants are cousins and were the sole shareholders and directors of Tricom since its incorporation on March 19, 2012.
+[8] The Minister assumed that at all relevant times, Tricom declared the appellants to be its directors and the appellants declared themselves to be directors of Tricom.
+[9] The Minister assumed that on April 8, 2013, Tricom was assessed [translation] “$1,276,738 in duties, penalties and interest to reduce the input tax credits that it deducted in computing its net tax in respect of false scrap gold invoices” for the periods at issue.
+[10] The Minister then assumed that Tricom objected to the assessment and appealed to this Court in file no. 2013-4655(GST)G, that Justice Hogan dismissed the appeal on January 11, 2016 (2016 TCC 8), and that the Federal Court of Appeal subsequently dismissed the appeal with costs on May 4, 2017 (2017 FCA 95).
+[11] The Minister assumed that at the time the assessment was made in this case, Tricom’s debt was $1,237,453 in duties, penalties and interest.
+III. Summary of relevant evidence and testimony
+[12] There were three witnesses: Foti Karkavilas, a collections advisor for complex cases at Revenu Québec, and the two appellants.
+(i) Foti Karkavilas’s testimony
+[13] The appellants called Foti Karkavilas as the first witness.
+[14] He is a Revenu Québec collections officer and was assigned the Tricom case in the spring of 2017. He continued the recovery efforts undertaken by his predecessors, but the remedies against Tricom had been exhausted.
+[15] At the time the assessment at issue was made, the amount of the tax debt was approximately $1.2 million. He was not aware of any seizures or cash receipts that could have reduced this amount.
+[16] The final decision to tax the appellants was made toward the end of August 2017.
+[17] The respondent chose not to recall this witness.
+(ii) Marc Bishara’s testimony
+[18] Marc Bishara (“MB”) described himself as a businessman who has been active since 2004 in various businesses, his main business being operating pharmacies, in addition to the wholesaling of pharmaceutical products, dry cleaning, real estate and, through Tricom, buying and selling scrap gold.
+[19] Carl Bishara (“CB”) was associated with him in these commercial activities.
+[20] Tricom was a registrant under the ETA and filed monthly GST/QST returns. It claimed refunds, but Revenu Québec refused to recognize the validity of the inputs. Tricom was taxed on April 8, 2013, for the GST/QST payable on its sales, but the inputs were denied.
+[21] Tricom objected to the assessment and the matter was appealed. The hearing was held in early 2015. This Court rendered its judgment on January 11, 2016.
+[22] MB stated that he was a director of Tricom when it was incorporated in 2012, but that he resigned on August 15, 2015. At that time, the corporation had been inactive since the beginning of 2013.
+[23] However, MB stayed on as a shareholder because he hoped that the appeal from the assessment would be allowed and that he would recover his investment.
+[24] After MB resigned on August 15, 2015, Anastasios Leventis (“Leventis”) was appointed sole director. However, in January 2017, Leventis was shot and killed in front of his building in Toronto.
+[25] MB attempted to demonstrate that Leventis had expressed an interest in Tricom’s activities, but the respondent objected, calling this hearsay.
+[26] This Court noted the respondent’s objection without ruling on it.
+[27] MB then attempted to introduce into evidence a letter of resignation that he had prepared himself. He had also prepared an identical version to be signed by CB. Once the letters were signed, the appellants made photocopies of them and gave the originals to Leventis.
+[28] MB’s and CB’s letters read as follows:
+Re: Resignation
+With this letter please be advised that as of this day and effective immediately, I resign as a director of Tricomcanada Inc.
+I ask you to properly register the resignation in the Minute Book of the company, and see to the filings of all relevant documents with the “Registraire des Entreprises du Québec” [enterprise register].
+[29] The respondent objected to having the letter introduced into evidence, stating that it was not addressed to anyone, that there was no evidence of it being sent to Tricom, and that it was simply testimony.
+[30] This Court again noted the objection without ruling on it.
+[31] MB then attempted to show that Tricom’s minute book was given to Leventis when he was appointed director. The respondent objected because MB had stated during discovery, which took place in November 2019, that he had given the minute book to Martin Raymond.
+[32] The respondent relies on rule 98 of the Tax Court of Canada Rules (General Procedure) (SOR/90‑688a) (“rule 98”).
+[33] During discovery, MB stated the following:
+I don’t even know where the minute book is. To be honest, I don’t know if it was with Basil at one point and Martin, Martin being another counsel from another firm, and it was floating around. Maybe Tasso took it afterward. To be honest, I have no idea where it is at this point.
+[34] MB attempted to explain that during discovery, he was not sure where the minute book was, but that his corporate attorney had it in 2013. After examination for discovery, he contacted Mr. Raymond, but Mr. Raymond did not have the minute book and did not recall MB’s resignation or the appointment of Leventis. MB therefore came to the conclusion that Leventis had taken Tricom’s minute book.
+[35] Counsel for the appellants argues that MB’s evidence is not necessarily contradictory because he answered that “Tasso” might have taken the minute book. This answer does not rule out the possibility that he had given the minute book to Leventis and that he was attempting to clarify his answer.
+[36] This Court again noted the objection without ruling on it.
+[37] MB stated that between the date of his resignation and the date of the assessment at issue, he did not receive any correspondence as a director of Tricom and took no action to that effect.
+[38] MB acknowledged the 2019 excerpt from the Quebec Registre des entreprises, which indicates that he is a director. According to him, the register is not accurate, and he only became aware of it after he received the assessment at issue in this case. At the time, he was surprised to find that he was still registered given that Leventis was supposed to make the change. He immediately contacted Mr. Fournier to find out whether a change could be made.
+[39] During cross-examination, MB acknowledged that he had stated during discovery that “[they] had given the letters to the lawyer, and we had resigned officially”. He stated, however, that Leventis was given the original letter and that the lawyer was given a copy.
+[40] He acknowledged that his letter of resignation was signed in an office at the back of the pharmacy that they owned. He acknowledged that only he and CB were present when the two letters were signed.
+[41] He also acknowledged that when they resigned, Tricom had no tangible or intangible assets and the latest financial statements were from 2013.
+[42] He had no recollection of a Tricom shareholder resolution to elect Leventis as a director, explaining “[w]e appointed him. I mean, [we] specifically said ‘You’re the new director’ … it was clear between [us] that he’s the new director.”
+[43] MB then acknowledged that when he became aware that Leventis had died in January 2017, he did not take any action as a Tricom shareholder to replace him and appoint a new director.
+[44] MB acknowledged that counsel representing Tricom in the appeal heard by Justice Hogan between January and June 2015 was Basil Angelopoulos and that as a Tricom director, he had empowered him to do so.
+[45] MB then acknowledged a letter from Mr. Angelopoulos. The letter was dated February 4, 2015, and addressed to Revenu Québec, Direction générale de Recouvrement [collections branch]. In this letter, he asked the Minister not to initiate collection proceedings against the directors before Justice Hogan rendered his final decision.
+[46] Mr. Angelopoulos stated the following, among other things:
+[translation]
+Since the hearing in this case will resume before the TCC on May 11, 2015, we strongly suggest that you postpone your intention to assess the taxpayer for a few months (i.e. until the TCC renders a judgment) and that you reassess this intention based on the findings of the judgment.
+Since the taxpayer is still a director of the corporation, the issue of the two-year limitation period does not arise, and consequently, the Minister will not suffer any harm while awaiting the outcome of the case before the TCC.
+…
+For the reasons stated above, we are of the opinion that the Minister’s decision to personally assess the taxpayer should be postponed and reassessed in light of the judgment rendered by the TCC in file no. 2013-4655(GST)G.
+[47] MB indicated that the content of the letter was accurate but that he did not ask Mr. Angelopoulos to send it. He maintained that he first saw the letter some time before this appeal began.
+(iii) Carl Bishara’s testimony
+[48] Carl Bishara (“CB”) stated that he was associated with MB in several commercial activities and that they founded Tricom in 2012 to take advantage of surging gold prices.
+[49] However, Tricom ceased its operations after eight months because the industry was very chaotic. They then lost interest given the problems related to GST/QST refunds.
+[50] He met Leventis, or “Tasso”, in a gym in the early 1990s but did not see him very much after that period.
+[51] He stated that Leventis had attempted to start a business of buying and selling scrap gold but was not successful. He expressed an interest in Tricom’s business. The respondent objected, stating that this was hearsay.
+[52] They explained to Leventis how Tricom operated and offered him their “resources”, including the contact information of certain gold buyers and an account with Brinks. He was given this information “[because] he was taking over as a director [of Tricom]”. CB acknowledged that Leventis had no experience in the industry and that it was a very difficult market to enter.
+[53] CB recognized his signature on the letter of resignation, which he also signed in the office at the back of their pharmacy. He stated that MB prepared the letter, which was identical to his. He kept a copy and gave the original to MB.
+[54] The respondent further objected to having the letter introduced into evidence, stating that it was not addressed to anyone and that it was testimonial evidence that essentially says [translation] “I have resigned”.
+[55] This Court noted the respondent’s objection without ruling on it.
+[56] When CB received the Notice of Assessment at issue, he stated that he was very surprised because he is no longer a director. He and MB immediately contacted Mr. Fournier, who produced a statement from the Registraire des entreprises.
+[57] According to CB, he did not exercise any functions as a director after August 2015 and never introduced himself as a director to anyone.
+[58] Finally, CB stated that Revenu Québec seized some of Tricom’s Royal Bank of Canada accounts. However, these seizures were made before the Minister made the assessment at issue.
+[59] During cross-examination, CB acknowledged that he stated during discovery that he had personally delivered his original letter of resignation to his counsel, either Mr. Angelopoulos or Mr. Raymond, because he often went to their law firm for meetings.
+[60] CB then acknowledged his answer to the question “[D]o you know when [Anastasios Leventis] was appointed?”, and he had answered, “No, I don’t.”
+[61] CB acknowledged that he did not sign a resolution to appoint Leventis as a director and that, given that CB had signed his letter of resignation, they had simply appointed Leventis as a director. He acknowledged that he did not take any steps to appoint a new director after Leventis’s death in January 2017.
+IV. Applicable law and positions of the parties
+[62] The assessment at issue was made under subsection 323(1) of the ETA, but the appellants rely on subsection 323(5) and claim that the assessment was statute-barred because more than two years had elapsed since they had resigned as directors. At paragraph 12 of the Notice of Appeal, they state that [translation] “the corporate documents are very clear, precise, and binding”.
+[63] They maintain that the letter that they attempted to introduce into evidence met the requirements of the applicable legislation as the letter bore their signature and the effective date, and it was delivered to Tricom by Leventis, who was the new director. Leventis was supposed to update the Registre des entreprises but did not.
+[64] Section 142 of the Business Corporations Act, CQLR c. S‑31.1 (the “BCA”) states that “[a] director ceases to hold office when he or she becomes disqualified from being a director of a corporation, resigns or is removed from office” and that “[t]he resignation of a director becomes effective at the time the director’s written resignation is received by the corporation, or at the time specified in the resignation, whichever is later” (emphasis added).
+[65] Furthermore, Quebec’s Act respecting the legal publicity of enterprises, CQLR c. P‑44.1 (the “ARLPE”) requires that the enterprise be registered and that the registration include the name and domicile of each director.
+[66] Section 98 of the ARLPE provides that the following information filed with the Registraire des entreprises “may be set up against third persons from the time it is recorded in the statement of information and is proof of its content for the benefit of third persons in good faith”, including “the names and domiciles of the directors”.
+[67] The appellants claim that they were “third persons in good faith”.
+[68] They rely on Québec (Commission de la construction) c. Marin, 2005 CanLII 50228 (QC CQ) (“Marin”), in which the respondent challenged an assessment on the grounds that she had resigned as a director of the debtor company. The court noted that the resignation had been accepted by resolution of the board of directors on the same day but that the company had never produced the statement of change.
+[69] The applicant argued that a resignation by a director who was not registered in the Central Enterprise Database could not be used against her.
+[70] However, the court found that the ARLPE creates a presumption that the information relating to each company is true and is proof of its contents in favour of third persons in good faith, but that this is a rebuttable presumption. The court noted that persons whose names are erroneously entered or left in the company’s records can be third persons in good faith.
+[71] The court found that the respondent had resigned from her position and that she no longer exercised any functions within the company. The court further found that the evidence was [translation] “sufficiently compelling to rebut the presumption that the information in the Central Enterprise Database was valid” (at para. 21).
+[72] The analysis of the applicable law in Marin, and in particular of section 98 of the ARLPE, was taken up by this Court in Singh Sandhu v. The Queen, 2009 TCC 175 (“Sandhu”), in which Justice Jorré found that there was no evidence that the appellant had agreed to be a director and that there was an error in the initial declaration. He therefore found that the appellant was not a director.
+[73] In The Estate of Bela Miklosi v. The Queen, 2004 TCC 253 (“Miklosi”), the appellants claimed that the father, deceased at the time of the appeal, had submitted his resignation to his son, the company’s chair, more than two years before receiving the assessment made under subsection 323(1) of the ETA.
+[74] Justice Paris was of the opinion that section 62 of An Act respecting the legal publicity of sole proprietorships, partnerships and legal persons (now section 98 of the ARLPE) sets out a presumption that is rebuttable and that a director is entitled to provide evidence in support of the date of his or her resignation. However, he found that the appellant failed to rebut the presumption contained in the applicable legislation or the Minister’s presumption as it appeared in the reply to the notice of appeal (at para. 24).
+[75] Similarly, in Commission de la construction du Québec c. Légaré, 1998 CanLII 10989 (QC CQ), the court noted that a person cannot be designated as a director without his or her express consent under article 338 of the Civil Code of Québec, chapter CCQ-1991 (the “CCQ”).
+[76] The court further held that the presumption created by the ARLPE was not [translation] “irrebuttable” (at para. 21) and that [translation] “a director who has expressed his or her desire to withdraw his or her consent … by submitting a written notice of resignation to the company loses the title of director simply by providing this notice. Following this, the duty to notify the competent authorities of this resignation lies not with the former director, but with the company” (at para. 30). The court found that the [translation] “statutory presumption raised against them was rebutted” (at para. 35).
+[77] In this case, the respondent assumed that the appellants had been, and had never ceased to be, directors since Tricom was incorporated in 2012. She maintained that the letter at issue was not valid.
+[78] The respondent acknowledged that a director may be a “third person in good faith” for the purposes of section 98 of the ARLPE and that he or she may attempt to contradict the information recorded in the Registre des entreprises. However, the respondent argues that the letter of resignation that the appellants attempted to introduce into evidence does not mention a recipient and that the letter was not sworn or countersigned by a witness. It is therefore essentially testimony. The respondent acknowledged that a director who is registered in the Registre des entreprises can provide evidence of his or her resignation, but the evidence must be admissible and probative.
+[79] The respondent argues that the resignation was “a juridical act” and points to articles 2811 and 2860 of the CCQ, which set out the following:
+Means of proof
+2811. A fact or juridical act may be proved by a writing, by testimony, by presumption, by admission or by the production of real evidence, according to the rules set forth in this Book and in the manner provided in the Code of Civil Procedure (chapter C‑25.01) or in any other Act.
+…
+2860. A juridical act set forth in a writing or the content of a writing shall be proved by the production of the original or a copy which legally stands in lieu of it.
+However, where a party acting in good faith and with diligence is unable to produce the original of a writing or a copy which legally stands in lieu of it, proof may be made by any means.
+[80] The respondent argues that the letter of resignation at issue is a unilateral statement and that there is nothing, except the testimony of the two appellants, that indicates with certainty that the letter was given or delivered to Tricom. She further argues that the evidence that the original letter was given to Leventis is inadmissible under rule 98 because they had stated during discovery that the original had been given to their counsel.
+[81] The respondent also states that because the appellants chose to remain shareholders of Tricom, it is not credible that they did not take steps to verify whether the change had been made in the Registraire des entreprises. Nor did they do so after Leventis died in January 2017.
+[82] According to the respondent, there is no evidence that the appellants had contacted Revenu Québec to provide notice of their resignation, a subject that Mr. Angelopoulos had raised in his February 14, 2015 letter.
+[83] The respondent argues that Justice Hogan’s decision was rendered on January 11, 2016, and that the appeal to the Federal Court of Appeal was heard on May 4, 2017, which was after the date of Leventis’s death. According to the respondent, the appellants were the only persons who represented Tricom in these proceedings as directors.
+[84] The respondent is asking the Court to draw a negative inference from the absence of Mr. Angelopoulos, Mr. Raymond and Mr. Fournier, who represented Tricom and the appellants during the years at issue and who could have testified to confirm that they knew about the appellants’ resignation in August 2015.
+[85] The respondent is also asking the Court to draw a negative inference from the fact that the appellants, as of 2019, were still listed, and are probably still currently listed, in the Registre des entreprises as the two sole directors of Tricom.
+[86] The respondent cites Canada v. Chriss, 2016 FCA 236 (“Chriss”). The situation in that case is similar because two directors had requested that a law firm prepare a letter of resignation for them, but the letter had remained on file and had never been signed. The appellants in that case claimed that they believed they had resigned, but the Federal Court of Appeal stated the following:
+[19] A director’s belief that they have resigned has no correspondence or connection to the underlying purposes of subsection 121(2) of the OBCA and its emphasis on an objectively verifiable communication of a resignation to the corporation. To allow a subjective intention to suddenly spring to life, when, in the affairs of the corporation, or in the interests of the director, it is convenient to do so, would significantly undermine corporate governance. A reasonable belief that one has resigned must hew much closer to the requirements for an actual effective resignation. In addition, there was no communication of the resignation to the corporation. The draft letters never left the solicitor’s office. The requirement that the resignations be received by the corporation cannot be ignored.
+[Emphasis added.]
+[87] Similarly, in Mueller v. The Queen, 2018 TCC 260 (“Mueller”), Justice Bocock, citing Chriss, stated that for a director to resign, a “manifest de facto resignation” must occur and that the standard of evidence “is elevated beyond belief” (at para. 11).
+[88] Also, in Dufault Hattem v. The Queen, 2008 TCC 32, the appellant claimed to have resigned as a director, but this Court stated the following:
+[29] In my opinion, in the instant case the very genuineness of the appellant’s resignation in March 2002 has not been proven. The lawyer who supposedly drafted it did not testify or produce any letter or document contemporaneous with the alleged resignation. In fact, that lawyer’s name appears only once in the evidence tendered, and that is in the power of attorney signed in 2005.
+…
+[31] If a director resigns from the board of a corporation that is a tax debtor, and wishes the resignation to be a juridical act that is valid as against the Minister, then, according to the Quebec Companies Act, that director must notify the Minister of his resignation in the course of the exchanges of correspondence regarding the corporation’s tax debt and the liability of its directors. I do not think that statutes of the other provinces or the federal Act concerning companies are any different in this respect.
+[Emphasis added.]
+[89] The respondent therefore reiterates that there is no evidence that the alleged resignation was communicated to the corporation, that an amended return was sent to the Registraire des entreprises, or that a notice was sent to the Canada Revenue Agency or to Revenu Québec. Thus, for the purposes of the tax authorities, the only valid piece of information is that the appellants were still Tricom directors.
+[90] Finally, the respondent argues that the appellants did not provide evidence of their resignation. On the contrary, they adopted [translation] “a clearly and accommodatingly casual approach to ensure that the two-year deadline would never go away”.
+[91] In reply, the appellants state that the letter of resignation was not only [translation] “a unilateral act”, but also [translation] “a juridical act”, and that they had made this demonstration through their [translation] “testimony”, which meets the requirements of article 2811 of the CCQ.
+[92] The appellants add that they no longer have the original letter of resignation that was given to Leventis, but that they had [translation] “introduced a reliable copy into evidence”, stating that it was a [translation] “photocopy”. They state that the Court could use the testimony to contradict the Registre des entreprises. They further state that in light of Leventis’s death, an exception to the hearsay rule should apply to their testimony because it is [translation] “necessary and reliable”.
+V. ANALYSIS
+[93] As the appellants acknowledged, this is largely an issue of fact and credibility. However, this Court is of the opinion that the appellants did not provide candid and frank testimony, that the narration of the facts was unpersuasive and that there were inconsistencies in their testimony.
+[94] To begin with, this Court is of the opinion that the letter that each appellant attempted to introduce into evidence is inadmissible as it is not addressed to Tricom and there is no evidence that it was sent to Tricom.
+[95] As the Federal Court of Appeal explained in Chriss, the purpose of the legislation is to ensure “objectively verifiable communication”, and “[t]he requirement that the resignations be received by the corporation cannot be ignored” (at para. 19).
+[96] Section 142 of the BCA also states that a resignation becomes effective “at the time the director’s written resignation is received” and not on the date of signature.
+[97] This Court must find that receipt of the written notice by the corporation is an essential criterion that must be “objectively verifiable” and “manifest de facto” (Chriss and Mueller), which is not the case here.
+[98] In the alternative, if this Court accepts that the letters of resignation were validly sent and received by Tricom, it is of the opinion that the appellants are nevertheless bound by the answer provided during the examinations for discovery, namely that the original letter was given to their counsel. They also stated that they had a long-standing practice of giving corporate documents to their counsel. As it was found prior to the hearing in this case that the answer provided during discovery [translation] “was inaccurate or incomplete” or [translation] “was no longer accurate and complete”, the appellants were required under rule 98 to “forthwith provide the information in writing to every other party”, which they made no attempt to do. Because the testimonial evidence stating that they gave the original letter to Leventis is rather favourable to them, the letter can be admitted into evidence only with leave of this Court.
+[99] Rule 98 provides the following:
+Information Subsequently Obtained
+98(1) Where a party has been examined for discovery or a person has been examined for discovery on behalf or in place of, or in addition to the party, and the party subsequently discovers that the answer to a question on the examination:
+(a) was incorrect or incomplete when made, or
+(b) is no longer correct and complete,
+the party shall forthwith provide the information in writing to every other party.
+(2) Where a party provides information in writing under subsection (1),
+(a) the adverse party may require that the information be verified by affidavit of the party or be the subject of further examination for discovery, and
+(b) the writing may be treated at a hearing as if it formed part of the original examination of the person examined.
+(3) Where a party has failed to comply with subsection (1) or a requirement under paragraph (2)(a), and the information subsequently discovered is,
+(a) favourable to that party’s case, the party may not introduce the information at the hearing, except with leave of the judge, or
+(b) not favourable to that party’s case, the Court may give such direction as is just.
+[Emphasis added.]
+[100] The application of rule 98 was reviewed in Kallis v. The Queen, 2021 TCC 58, in which Justice Wong refused to admit the contradictory evidence (at para. 9). However, in Sydney Mines Firemen’s Club v. The Queen, 2011 TCC 403 (at paras. 17–19 and 21–22), Justice Campbell held that it was best to admit the contradictory statement into evidence because it was in her “discretion to assign the appropriate weight, if any, to the evidence” (at para. 21). In other words, contradictory evidence may be admitted, but it is up to the court to determine the probative value to be given to each piece of evidence.
+[101] Therefore, if this Court accepts the contradictory evidence (i.e. that the original letters of resignation were given to Leventis), it must ask itself whether this evidence has probative value. This Court first notes that the appellants said one thing during discovery and another at the hearing. They therefore contradicted one another, which clearly undermines their credibility and leads this Court to believe that this is a baseless story.
+[102] This Court must find that the letter of resignation was prepared for the purposes of this dispute and that neither the original nor a copy was sent to Mr. Raymond or Mr. Angelopoulos. The appellants’ testimony on this issue was not corroborated by an independent third party, and this Court must draw a negative inference from the fact that this counsel did not testify at the hearing.
+[103] This Court must find that it is unlikely that the original letter of resignation was delivered to Leventis. The appellants state that if Leventis had not agreed to assume the role of director, they would not have resigned. However, there is no evidence that Leventis [translation] “agreed” to act as a director, and there is no written or documentary evidence to support this assertion. There is only the self-serving testimony of the appellants.
+[104] This Court must find that the story about the appointment of Leventis as a director is implausible. In the end, even if this Court accepts that the original letter of resignation was given to Leventis, he was a third person who had no legal connection to the corporation. This cannot constitute an “objectively verifiable communication” of the resignation to the corporation, according to Chriss.
+[105] Also, as the respondent argues, the appellants’ testimony that Leventis [translation] “agreed” to become a director is an out-of-court statement adduced into evidence to establish the truth of the facts it contains. It is therefore inadmissible hearsay, unless an exception applies.
+[106] Article 2870 of the CCQ sets out the following:
+2870. A statement made by a person who does not appear as a witness, concerning facts to which he could have legally testified, is admissible as testimony on application and after notice is given to the adverse party, provided the court authorizes it.
+The court shall, however, ascertain that it is impossible for the declarant to appear as a witness, or that it is unreasonable to require him to do so, and that the reliability of the statement is sufficiently guaranteed by the circumstances in which it is made.
+[Emphasis added.]
+[107] This Court must therefore consider whether “the statement is sufficiently guaranteed” or whether, under the common law rule, the out-of-court statement meets the tests of necessity and reliability: Royal Victoria Hospital et al. v. Morrow, [1974] S.C.R. 501.
+[108] Because Leventis is deceased, the test of “necessity” is met. However, there are many reasons why this Court is not satisfied that the test of reliability has been met, including the appellants’ unreliable testimony and the absence of a document signed by Leventis, in particular the consent required under article 338 of the CCQ.
+[109] The appellants acknowledged that they did not sign a shareholder resolution to confirm that Leventis was appointed as a director. According to their testimony, they simply declared that he was the new director, which cannot meet the requirements of the legislation. Section 110 of the BCA states that “[t]he directors are elected by the shareholders”. But there must also be a written resolution, which is not the case here.
+[110] Then there is the whole debate on whether Tricom’s minute book was actually given to Leventis. Only Mr. Raymond could have explained why he had the minute book in 2013 but no longer had it when the appellants contacted him after discovery. He did not testify, and so this Court must draw a negative inference.
+VI. Conclusion
+[111] In conclusion, this Court must find that the alleged resignation of the appellants as directors of Tricom was not valid in fact and in law.
+[112] Contrary to the conclusion in Marin, which the appellants rely on, this Court is of the opinion that the appellants’ evidence was not [translation] “sufficiently compelling to rebut the presumption that the information in the Central Enterprise Database was valid” (at para. 21). That is, the appellants are still directors because they do not have to rebut the presumption in section 98 of the ARLPE.
+[113] Consequently, this Court finds that the appellants were directors of Tricom when the assessment was made on October 26, 2017.
+[114] The appeals are therefore dismissed, with costs of $2,500 for each appellant.
+Signed at Ottawa, Canada, this 16th day of September 2022.
+“Guy R. Smith”
+Smith J.
+Translation certified true
+on this 19th day of September 2024.
+Melissa Paquette
+CITATION:
+2022 TCC 105
+COURT FILE NOS.:
+2018-4620(GST)G
+2018-4622(GST)G
+STYLES OF CAUSE:
+MARC BISHARA AND HIS MAJESTY THE KING CARL BISHARA AND HIS MAJESTY THE KING
+PLACE OF HEARING:
+Montréal, Quebec
+DATE OF HEARING:
+September 27, 2021
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Guy R. Smith
+DATE OF JUDGMENT:
+September 16, 2022
+APPEARANCES:
+Counsel for the Appellants:
+Vanessa Gregorio
+Counsel for the Respondent:
+Antoine Lamarre
+COUNSEL OF RECORD:
+For the Appellants:
+Name:
+Vanessa Gregorio
+Firm:
+BCF L.L.P.
+For the Respondent:
+François Daigle Deputy Attorney General of Canada Ottawa, Canada

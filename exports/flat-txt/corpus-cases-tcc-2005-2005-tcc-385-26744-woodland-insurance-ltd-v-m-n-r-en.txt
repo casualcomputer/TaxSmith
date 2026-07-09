@@ -1,0 +1,132 @@
+Title: Woodland Insurance Ltd. v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26744/index.do
+Corpus path: corpus/cases/tcc/2005/2005-tcc-385-26744-woodland-insurance-ltd-v-m-n-r-en.md
+Document type: case_law
+Last modified: 2005-06-17
+
+# Woodland Insurance Ltd. v. M.N.R.
+
+- Citation: 2005 TCC 385
+- Decision date: 2005-06-17
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3459, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Woodland Insurance Ltd. v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-06-17
+Neutral citation
+2005 TCC 385
+File numbers
+2004-2983(EI)
+Judges and Taxing Officers
+Eric A. Bowie
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2004-2983(EI)
+2004-2984(CPP)
+BETWEEN:
+WOODLAND INSURANCE LTD.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+CHRISTOPHER McCURDY,
+Intervenor.
+____________________________________________________________________
+Appeals heard on February 22, 2005, at London, Ontario,
+By: The Honourable Justice E.A. Bowie
+Appearances:
+Counsel for the Appellant:
+Christian F. Specht
+Counsel for the Respondent:
+Charles M. Camirand
+For the Intervenor:
+The Intervenor himself
+____________________________________________________________________
+JUDGMENT
+The appeals pursuant to subsection 103(1) of the Employment Insurance Act and section 28 of the Canada Pension Plan are dismissed and the decision of the Minister of National Revenue on the appeals made to him under section 91 of the Act and under section 27 of the Plan is confirmed.
+Signed at Ottawa, Canada, this 17th day of June, 2005.
+"E.A. Bowie"
+Bowie J.
+Citation: 2005TCC385
+Date: 20050617
+Docket: 2004-2983(EI), 2004-2984(CPP)
+BETWEEN:
+WOODLAND INSURANCE LTD.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+CHRISTOPER McCURDY,
+Intervenor.
+REASONS FOR JUDGMENT
+BowieJ.
+[1] The Appellant (Woodland) is a corporation that is licensed and carries on business as an insurance brokerage under the Insurance Act of Ontario. Chris McCurdy worked for it as a salesperson between December 1, 2001 and November 28, 2003. After his employment was terminated, Human Resources Development Canada requested a ruling under section 90 of the Employment Insurance Act[1] (the Act) and section 26.1 of the Canada Pension Plan[2] (the Plan) to ascertain whether his employment was insurable and pensionable. The ruling was that he was employed under a contract of service, and that the employment was therefore insurable under the Act and pensionable under the Plan. This ruling was appealed to the Minister under section 91 of the Act and section 27 of the Plan. The Minister confirmed the ruling on April 27, 2004. For the reasons that follow, I am of the view that he was right to do so.
+[2] The business of Woodland is selling and servicing general insurance policies. Steven Specht gave evidence. He is a director of the company and during the period in question he was the person managing the business on a day-to-day basis. Mr. McCurdy and a Mr. Stan Sawicki were salespeople, and together with a receptionist they made up the staff. Mr. Specht has been an insurance broker for more than 20 years, and he supervises the business of the brokerage and the individual brokers who work for it. He signed contracts with Mr. Sawicki and Mr. McCurdy on behalf of Woodland. I shall have more to say later about the specifics of the written contract between the Appellant and Mr. McCurdy.
+[3] Mr. Sawicki gave evidence for the Appellant. At the relevant time he made his living principally as a life insurance agent. He testified that he wanted to be able to offer general insurance products to his life insurance clients, and for that reason he joined Woodland on a part-time basis. The majority of his time continued to be devoted to the sale of life insurance. Both he and Mr. Specht testified at some length about the working relationship between Mr. Sawicki and Woodland. A book of documents entered into evidence by agreement of the parties contained the written contracts entered into by Woodland with Mr. Sawicki and Mr. McCurdy. They appear to be in the same printed form. As I understand it, the Appellant led this evidence on the theory that by showing Mr. Sawicki to be working under a contract for services it could establish that that was also the relationship under which Mr. McCurdy worked for Woodland. There is no validity to that proposition. The circumstances of Mr. Sawicki and Mr. McCurdy were quite different. Mr. McCurdy was engaged to sell general insurance for the Appellant on a fulltime basis; Mr. Sawicki devoted a small part of his time to selling general insurance to an existing client base quite unrelated to the business of Woodland, while carrying on separately his principal occupation as a life insurance agent. The evidence was that the terms of the written contract were not enforced between Woodland and Mr. Sawicki, and it may well be that on an analysis of their relationship it would prove to be a contract for services. That, however, is not at all probative of the nature of the contractual relationship between Mr. McCurdy and Woodland; that must be determined on its own facts.
+[4] I turn now to the terms of Mr. McCurdy's contract. As I have said, there is a written agreement. It is on a form prepared, apparently by a lawyer, for Woodland's use with all its salespeople. It describes Mr. McCurdy as "the 'employee'", but Mr. Specht testified that this was an error on the lawyer's part. A few lines below it recites:
+AND WHEREAS the Company wishes to continue to retain the services of the Producer [Mr. McCurdy] as its representative, as an independent contractor, and the parties wish to enter into this agreement to confirm the terms of retainer.
+Somewhat inconsistently, under the heading Challenge to Status we find this paragraph:
+16.1 To the extent that the Producer [Mr. McCurdy] is deemed to be an employee under the Employment Standards Act, the Producer [Mr. McCurdy] acknowledges and agrees that the portion of commissions to which he is entitled is broken down as 92.4 percent for payment of services, 3.7 percent for holiday pay and 3.9 percent for vacation pay. The Company covenants and agrees that the Producer [Mr. McCurdy] shall be entitled to two weeks vacation only (with addition unpaid leaves of absence as agreed) and shall not work on holidays.
+This, of course, is recognition on the part of the Appellant of two truisms: one is that the Appellant and its salespeople cannot contract out of social benefit legislation, and the other is that the relationship between them is a matter that is governed by the general law of the province of Ontario[3] as it has been established in numerous decisions, culminating in the decision of the Supreme Court of Canada in 671122 Ontario Ltd. v. Sagaz Industries Canada Inc.[4]
+[5] I do not consider that the recital that I have reproduced above is of any assistance in this matter. The other provisions of that agreement are, however, as they go a long way towards defining the rights and obligations that govern their relationship. I do not propose to reproduce the contract in its entirety. Paragraphs 4.1 to 4.8 specify in considerable detail the obligations of Mr. McCurdy, and they require him to work fulltime for the Appellant, to produce evidence of illness as required if he is not able to work, and to comply with "all administrative procedures". He is required to pay all his own expenses, and is responsible for bad debts arising out of the accounts handled by him. The provision for vacations in paragraph 7.1 reads:
+7.1 It is the expectation and intention of the parties that the Producer [Mr. McCurdy] will take suitable annual vacations of up to four weeks per year, in addition to the usual public holidays, provided that any vacation or absence from the office premises is not to exceed 30 consecutive days and further provided that the Producer [Mr. McCurdy] is not, as an independent contractor, entitled to holiday pay.
+[6] The "book of business", which means the customer lists of both existing customers of the agency and those developed by Mr. McCurdy, is made the sole property of the Appellant. There is an elaborate non-competition clause set out in the agreement. Mr Specht testified that the terms of the agreement were not enforced; Mr. McCurdy did not deny that, but he did say that he felt obliged to, and did, attempt to comply with its provisions. In any event, what is significant for the purposes of these appeals is that the Appellant was entitled to exercise very close control and supervision over Mr. McCurdy in the course of his work, not only as to what he did but also as to the manner in which he did it. This certainly militates in favour of the conclusion that Mr. McCurdy was an employee rather than an independent contractor.
+[7] As with all salespeople paid by commission, Mr. McCurdy's income depended to a considerable extent on the time and effort that he expended. It also was affected by the level of his expenses, and by the extent to which customers failed to make payment of their accounts, because defaults were, under the terms of the contract, to be charged to him. All these factors favour the conclusion that he was an entrepreneur rather than a servant. This is offset to a substantial degree, however, by the fact that when he attracted new clients they became clients of the Appellant, not his. He testified that after his termination by the Appellant he went to work for another agency, and when he wrote insurance for former clients, he had to be careful to have a written record that they had approached him to buy insurance. The business relationships that he established while working for the Appellant were largely for its long-term benefit, not his own.
+[8] I do not consider the ownership of tools to be a very significant factor in this case. The Appellant used his automobile, of course, but he made no investment in tools specifically for the purpose of doing the work. He used a computer and office space that were provided by the Appellant. To the extent that this is a factor at all it is supportive of a conclusion that the contract was a contract of service.
+[9] The inclusion in the written contract of language intended to establish that the contract is one for services rather than of service is not a factor to which I would give any weight. This is not a case like Moose Jaw Kinsmen Flying Fins v. M.N.R.[5] where both parties for good reason wanted the relationship to be that of an independent contractor. In this case the words were inserted by the Appellant's lawyers, presumably to avoid the need for the Appellant to make contributions under the Canada Pension Plan, to avoid paying Employment Insurance Act premiums and to avoid the requirements of the Employment Standards Act. The contract was not actually signed until about a year after Mr. McCurdy started to work for the Appellant, and by that time the relationship had been established. There was no evidence to suggest that its nature was fundamentally changed by the written document, although that is what I would have to conclude if I were to give effect to the contractual language that purports to cast Mr. McCurdy in the role of an independent contractor. It is true that the employee contributed to the Plan as though self-employed, but I infer that he did this because his employer told him he must. As a junior employee he was hardly in a position to make an issue of it. His employment with the Appellant did not last very long; I am sure that it would have been much shorter if he had not done as Mr. Specht told him he must.
+[10] I should add this. There was a good deal of evidence at the trial about disputes of various kinds between Mr. Specht and Mr. McCurdy. One involved an unpaid premium on a policy Mr. McCurdy had sold, and that may have been the incident that finally led to the termination of their relationship; another involved a break-in and theft at the Appellant's business premises. Yet another was concerned with the fact that the Appellant built a deck during the time that he worked for the Appellant. In my view none of this evidence was probative of anything relevant. It did, however, reveal a certain level of hostility between Mr. Specht and Mr. McCurdy, and I have weighed the evidence of each of them carefully with this in mind. There is little direct conflict in their evidence as to matters that are material, but to the extent that there is I prefer the evidence of Mr. McCurdy. It was given dispassionately and had the ring of truth about it. I had the definite impression that whenever it was possible to do so, Mr. Specht cast his evidence in a way that would reflect badly on Mr. McCurdy.
+[11] Applying the well known four in one test approved by the Supreme Court of Canada in Sagaz,[6] I have concluded that the contract was one of service. The same result flows from asking the question that was formulated by Cooke J. in Market Investigations Ltd. v. Minister of Social Security[7] and later approved by the Privy Council,[8] as well as by the Supreme Court of Canada in Sagaz: "Is the person who has engaged himself to perform these services performing them as a person in business on his own account?". The facts before me lead inexorably to a negative answer.
+[12] The appeals are dismissed.
+Signed at Ottawa, Canada, this 17th day of June, 2005.
+"E.A.Bowie"
+Bowie J.
+CITATION:
+2005TCC385
+COURT FILE NOS:
+2004-2983(EI), 2004-2984(CPP)
+STYLE OF CAUSE:
+Woodland Insurance Ltd. and The Minister of National Revenue and Christopher McCurdy
+PLACE OF HEARING:
+London, Ontario
+DATE OF HEARING:
+February 22, 2005
+REASONS FOR JUDGMENT BY:
+The Honourable Justice E.A. Bowie
+DATE OF JUDGMENT:
+June 17, 2005
+APPEARANCES:
+Counsel for the Appellant:
+Christian F. Specht
+Counsel for the Respondent:
+Charles M. Camirand
+For the Intervenor:
+The Intervenor himself
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Christian F. Specht
+Firm:
+Christian F. Specht
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] S.C. 1996, c. 23.
+[2] R.S.C. 1985, c. C-8.
+[3] c.f. Civil Code of Quebec, L.Q. 1991, c. 64, Art. 2085 and 2098.
+[4] [2001] 2 S.C.R. 983.
+[5] [1988] 2 C.T.C. 2377 (F.C.A.).
+[6] supra.
+[7] [1968] 3 All E.R. 732 at 737-738.
+[8] Lee Ting Sang Chung Chi-Keung,[1990] 2 A.C. 374.

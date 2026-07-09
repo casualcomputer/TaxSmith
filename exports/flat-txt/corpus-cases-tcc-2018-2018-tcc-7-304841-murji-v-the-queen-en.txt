@@ -1,0 +1,384 @@
+Title: Murji v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/304841/index.do
+Corpus path: corpus/cases/tcc/2018/2018-tcc-7-304841-murji-v-the-queen-en.md
+Document type: case_law
+Last modified: 2018-01-09
+
+# Murji v. The Queen
+
+- Citation: 2018 TCC 7
+- Decision date: 2018-01-09
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7284, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Murji v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2018-01-09
+Neutral citation
+2018 TCC 7
+File numbers
+2015-2200(IT)I, 2015-2355(IT)G
+Judges and Taxing Officers
+Réal Favreau
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2015-2355(IT)G
+BETWEEN:
+AL-KARIM MURJI,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on common evidence with the appeals of Karima Murji (2015-2200(IT)I) and Wahid Khan (2015-3038(IT)I), on June 23, 2017, at Toronto, Ontario.
+Before: The Honourable Justice Réal Favreau
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+April Tate
+JUDGMENT
+The appeal from the reassessment dated May 16, 2011, made under the Income Tax Act by the Minister of National Revenue in respect of the appellant’s 2009 taxation year, is dismissed with costs in accordance with the attached reasons for judgment.
+Signed at Ottawa, Canada, this 9th day of January 2018.
+“Réal Favreau”
+Favreau J.
+Docket: 2015-2200(IT)I
+BETWEEN:
+KARIMA MURJI,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on common evidence with the appeals of Al−Karim Murji (2015-2355(IT)G) and Wahid Khan (2015-3038(IT)I) on June 23, 2017, at Toronto, Ontario.
+Before: The Honourable Justice Réal Favreau
+Appearances:
+Agent for the Appellant:
+Swarn Kumar Bahl
+Counsel for the Respondent:
+April Tate
+JUDGMENT
+The appeal from the reassessment dated May 16, 2011, made under the Income Tax Act by the Minister of National Revenue in respect of the appellant’s 2009 taxation year, is dismissed in accordance with the attached reasons for judgment.
+Signed at Ottawa, Canada, this 9th day of January 2018.
+“Réal Favreau”
+Favreau J.
+Docket: 2015-3038(IT)I
+BETWEEN:
+WAHID KHAN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on common evidence with the appeals of Al−Karim Murji (2015-2355(IT)G) and Karima Murji (2015−2200(IT)I), on June 23, 2017, at Toronto, Ontario.
+Before: The Honourable Justice Réal Favreau
+Appearances:
+Agent for the Appellant:
+Swarn Kumar Bahl
+Counsel for the Respondent:
+April Tate
+JUDGMENT
+The appeal from the reassessment dated March 29, 2012, made under the Income Tax Act by the Minister of National Revenue in respect of the appellant’s 2009 taxation year, is dismissed in accordance with the attached reasons for judgment.
+Signed at Ottawa, Canada, this 9th day of January 2018.
+“Réal Favreau”
+Favreau J.
+Citation: 2018 TCC 7
+Date: 20180109
+Dockets: 2015-2355(IT)G,
+2015-2200(IT)I, 2015-3038(IT)I
+BETWEEN:
+AL-KARIM MURJI,
+KARIMA MURJI,
+WAHID KHAN,
+(collectively referred to as the “Appellants”)
+Appellants,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Favreau J.
+[1] These appeals heard on common evidence are against reassessments dated May 16, 2011 in the case of Al-Karim Murji and Karima Murji and March 29, 2012 in the case of Wahid Khan, made under the Income Tax Act, R.S.C. 1985 c. 1 (5th supp.), as amended (the “Act”), by the Minister of National Revenue in respect of the appellants’ 2009 taxation year.
+[2] In filing his income tax return for the 2009 taxation year, Al-Karim Murji claimed a charitable donation of $100,358, transferred a donation deduction of $22,763 to his spouse, Karima Murji and carried forward a donation deduction of $20,879 to future taxation years. The claim was based on an initial receipt of $144,000 from a registered charity called “On Guard for Humanity”, consisting of cash in the amount of $18,000 and gifts in-kind of shares valued at $126,000.
+[3] By way of the reassessment dated May 16, 2011, the Minister reduced the donation deduction of Al-Karim Murji from $100,358 to $1,800 and disallowed the amount of $20,879 donation deduction to be carried forward to future taxation years.
+[4] In filing her income tax return for the 2009 taxation year, Karima Murji claimed a donation deduction of $22,763 which was transferred from her husband.
+[5] By way of the reassessment dated May 16, 2011, the Minister disallowed the donation deduction of $22,763.
+[6] In filing his income tax return for the 2009 taxation year, Wahid Khan claimed charitable donations he made to a registered charity called “Pilgrim Feast Tabernacle” which consisted of $7,000 in cash and $42,000 as gifts in-kind of shares valued at $42,000, of which $40,689 was claimed in 2009 and $8,311 was carried forward to future taxation years.
+[7] By way of the reassessment dated March 29, 2012, the Minister reduced the donation tax deduction from $40,689 to $700 and disallowed the $8,311 donation tax deduction carried forward to future taxation years.
+[8] In determining the tax liability of Al-Karim Murji, the Minister relied on the following assumptions of fact:
+a) in the ten years prior to the 2009 taxation year, the appellant’s charitable donations totaled $82,780; $80,155 of which was disallowed by the Canada Revenue Agency and is under objection. The $80,155 is associated with donations claimed in 2007 and 2008 in the amounts of $35,044 and $45,111, respectively, which were related to the appellant’s participation in the Global Learning Gifting Initiative donation program;
+Strategic Gifting Group
+b) Strategic Gifting Group (“Strategic”) was a sole proprietorship owned by Abraham Herbert Grossman (aka Al Grossman);
+c) between October, 2009 and February, 2011, Strategic ran an arrangement that was promoted to allow a participant to claim in his or her tax return, a charitable donation of four to twelve dollars for every dollar that he or she contributed (the “Strategic Scheme”);
+d) Strategic and/or its promoters promoted that a participant who was an Ontario resident would receive a return of approximately 46.41%;
+e) the Minister did not issue a tax shelter identification number in respect of Strategic;
+f) the appellant did not provide a tax shelter identification number with respect to the amounts claimed as a result of his participation in the Strategic Scheme and he did not file a form T5004;
+g) the Strategic Scheme generally operated as follows:
+i) a participating taxpayer would make a cash payment to a participating charity (a ‘Cash Payment”);
+ii) a fictitious non-resident philanthropist would match the taxpayer’s donation, and donate shares in Dixon Perrot & Champion Inc. (“Dixon”) to the taxpayer;
+iii) during the material time, Dixon was a Canadian corporation incorporated in Ontario and listed on the Open Market of the Frankfurt Stock Exchange;
+iv) the taxpayer would donate the shares of Dixon to the charity to which he or she made the Cash payment;
+v) the stated fair market value of the Dixon shares would be four to twelve times the value of the taxpayer’s Cash Payment;
+vi) if the taxpayer chose not to donate the Dixon shares to a participating charity, the shares would be subject to a compulsory hold period of five years;
+vii) the charity would issue the taxpayer a donation receipt for the Cash Payment and for the predetermined, false value of the Dixon shares;
+viii) the charity would return 90% of the taxpayer’s Cash Payment to Strategic in payment of Strategic’s fees;
+h) Dixon had negative retained earnings in the years ended October 31, 2007, 2008, 2009 and 2010;
+i) Dixon made its first public share offering on the Open Market of the Frankfurt Stock Exchange on May 20, 2008;
+j) the Open Market of the Frankfurt Stock Exchange is not a designated stock exchange;
+k) there was no market for the Dixon shares and they had no value;
+l) Strategic received $332,620 from the Strategic Scheme;
+The appellant’s participation in the Strategic Scheme
+m) the appellant entered into the following predetermined series of transactions in the 2009 taxation year:
+i) the appellant paid $18,000 to the Charity;
+ii) on December 23, 2009, the appellant purported to donate Dixon shares to the Charity;
+iii) on December 31, 2009, the Charity issued the appellant a donation receipt in the amount of $144,000 for the 2009 taxation year, which represented a Cash Payment in the amount of $18,000 and the purported fair market value of $126,000 for Dixon shares;
+iv) from the $144,000 donation receipt issued, the appellant claimed $100,358 as a charitable gift to the Charity in the 2009 taxation year, transferred $22,763 to his spouse, and claimed $20,879 to carry forward for future taxation years;
+n) on December 23, 2009, the Dixon shares that the appellant purported to donate to the Charity had no value;
+o) of the appellant’s $18,000 Cash Payment, the Charity was required to pay, and did pay, $16,200 to Strategic in respect of Strategic’s fees (the “Fee Portion”);
+p) on March 16, 2011, the Charity cancelled the donation receipt in the amount of $144,000 and issued a new donation receipt to the appellant in the amount of $1,800, representing the net cash amount donated by the appellant;
+[9] To justify the reassessment dated May 16, 2011, the Deputy Attorney General of Canada further stated that:
+a) the Minister’s assumption that the appellant paid $18,000 to the Charity is incorrect. He states that the appellant paid $18,000 to Strategic (the “Participation Fee”);
+b) in exchange for his $18,000 Participation Fee, the appellant signed the back of a Dixon share certificate;
+c) Strategic electronically deposited the appellant’s Participation Fee into the Charity’s bank account, then invoiced the Charity for 90% of the Participation Fee;
+d) Strategic represented to the Charity that a transfer agent, Select Fidelity Transfer Services Ltd., was in possession of the Dixon share certificate and would transfer the Dixon shares to the Charity;
+e) Select Fidelity Transfer Services Ltd. was not a reporting issuer in Ontario and was not a member of the Securities Transfer Association of Canada;
+f) Christine Hewitt represented to the Charity that she was the president of Dixon;
+g) Ms. Hewitt was a person authorized to file documents on behalf of Dixon pursuant to the Corporations Information Act (Ontario);
+h) Ms. Hewitt was also the president and director of Z2A Corp. (“Z2A”);
+i) in 2008, Z2A participated in a similar donation arrangement run by Innovative Gifting Inc.;
+j) the Innovative Gifting Inc. program operated as follows:
+i) Innovative Gifting Inc. was incorporated in Ontario on September 8, 2008 as Strategic Gifting Inc.;
+ii) Strategic Gifting Inc. changed its name to Innovative Gifting Inc. (“Innovative”) on September 10, 2008;
+iii) a participating taxpayer would make a cash payment to a participating charity;
+iv) a fictitious non-resident Swiss philanthropist would match the participant’s donation and donate shares in RCT Global Networks Inc. (“RCT”) to the participant;
+v) RCT was an Ontario corporation that was listed on the Open Market of the Frankfurt Stock Exchange in June, 2008;
+vi) RCT issued share options to Mobiliare Argenti Ltd. (“Mobiliaire”);
+vii) Z2A purchased the RCT shares from Mobiliare;
+viii) Z2A sold the RCT shares to Innovative;
+ix) participating charities entered into contracts with Innovative pursuant to which the charities were charged a fund-raising fee equal to 90% of the cash donations made by the participants;
+x) Z2A and Ms. Hewitt issued RCT share certificates in the names of the participants;
+xi) participating charities issued to the participating taxpayers donation receipts for their cash donations and for the predetermined, false value of the RCT shares;
+xii) there was no market for the RCT shares and they had no value;
+k) from its participation in the Strategic Scheme, the Charity issued donation receipts with respect to the Dixon shares in the amount of $513,200;
+l) from its participation in the Strategic Scheme, the Charity received Cash Payments totaling $80,900, paid $67,680 to Strategic in fees, and withheld $3,600 in fees to Strategic pending delivery documentation and shares; and
+m) charities participating in the Strategic Scheme issued donation receipts totaling $2.2 million.
+[10] In determining the tax liability of Karima Murji for the 2009 taxation year, the Minister relied on the following assumptions of fact:
+a) The Appellant’s spouse paid $18,000 to the Charity in 2009;
+b) The Appellant’s spouse received a receipt from the Charity recording a donation of $144,000;
+c) The balance of the amount claimed on the receipt was for an alleged donation of tradable securities;
+d) The fair market value of the securities was seven times the value of the cash donation;
+e) The securities had no value and were unsaleable;
+f) The details of the securities allegedly donated was not included on the receipt;
+g) The amount paid by the Appellant’s spouse was part of an unregistered gifting tax arrangement, which had no tax shelter identification number;
+h) The Charity retained 10% of the amount paid by the Appellant’s spouse;
+i) The remaining 90% of the amount paid by the Appellant’s spouse to the Charity was paid to a promoter;
+j) The Charity subsequently reissued a receipt to the Appellant’s spouse for the 2009 year for the 10% of the cash donation;
+k) The initial receipt issued to the Appellant’s spouse was not valid;
+l) The Appellant’s spouse did not donate an amount of more than $1,800 to the Charity in the 2009 year;
+m) There was no available amount to transfer to the Appellant.
+[11] In determining the tax liability of Wahid Khan for the 2009 taxation year, the Minister relied on the following assumptions of fact:
+a) prior to the 2009 taxation year, the appellant had never claimed a deduction for charitable donations;
+Strategic Gifting Group
+b) Strategic Gifting Group (“Strategic”) was a sole proprietorship owned by Abraham Herbert Grossman (aka Al Grossman);
+c) between October 2009 and February, 2011, Strategic ran an arrangement that was promoted to allow a participant to claim in his or her tax return, a charitable donation of four to twelve dollars for every dollar that he or she contributed (the “Strategic Scheme”);
+d) Strategic and/or its promoters promoted that a participant who was an Ontario resident would receive a return of approximately 46.41%;
+e) the Minister did not issue a tax shelter identification number in respect of Strategic;
+f) the appellant did not provide a tax shelter identification number with respect to the amounts claimed as a result of his participation in the Strategic Scheme and he did not file a form T5004;
+g) the Strategic Scheme generally operated as follows:
+i) a participating taxpayer would make a cash payment to a participating charity (a ‘Cash Payment”);
+ii) a fictitious non-resident philanthropist would match the taxpayer’s donation, and donate shares in Dixon Perrot & Champion Inc. (“Dixon”) to the taxpayer;
+iii) during the material time, Dixon was a Canadian corporation incorporated in Ontario and listed on the Open Market of the Frankfurt Stock Exchange;
+iv) the taxpayer would donate the shares of Dixon to the charity to which he or she made the Cash payment;
+v) the stated fair market value of the Dixon shares would be four to twelve times the value of the taxpayer’s Cash Payment;
+vi) if the taxpayer chose not to donate the Dixon shares to a participating charity, the shares would be subject to a compulsory hold period of five years;
+vii) the charity would issue the taxpayer a donation receipt for the Cash Payment and for the predetermined, false value of the Dixon shares;
+viii) the charity would return 90% of the taxpayer’s Cash Payment to Strategic in payment of Strategic’s fees;
+h) Dixon had negative retained earnings in the years ended October 31, 2007, 2008, 2009 and 2010;
+i) Dixon made its first public share offering on the Open Market of the Frankfurt Stock Exchange on May 20, 2008;
+j) the Open Market of the Frankfurt Stock Exchange is not a designated stock exchange;
+k) there was no market for the Dixon shares and they had no value;
+l) Strategic received $332,620 from the Strategic Scheme;
+The appellant’s participation in the Strategic Scheme
+m) the appellant entered into the following predetermined series of transactions in the 2009 taxation year:
+i) the appellant paid $7,000 to the Charity;
+ii) on December 31, 2009, the appellant purported to donate Dixon shares to the Charity;
+iii) on December 31, 2009, the Charity issued the appellant a donation receipt in the amount of $49,000 for the 2009 taxation year, which represented a Cash Payment in the amount of $7,000 and the purported fair market value of $42,000 for Dixon shares;
+iv) from the $49,000 donation receipt issued, the appellant claimed $40,689 as a charitable gift to the Charity in the 2009 taxation year, and claimed $8,311 to carry forward for future taxation years;
+n) on December 31, 2009, the Dixon shares that the appellant purported to donate to the Charity had no value;
+o) of the appellant’s $7,000 Cash Payment, the Charity was required to pay, and did pay, $6,300 to Strategic in respect of Strategic’s fees (the “Fee Portion”);
+p) on June 8, 2011, the Charity cancelled the donation receipt in the amount of $49,000 and issued a new donation receipt to the appellant in the amount of $700, representing the net cash amount donated by the appellant;
+[12] To justify the reassessment dated March 29, 2012, the Deputy Attorney General of Canada further states that:
+a) the Minister’s assumption that the appellant paid $18,000 to Charity is incorrect. He states that the appellant paid $7,000 to Strategic (the “Participation Fee”);
+b) in exchange for his $7,000 Participation Fee, the appellant signed the back of a Dixon share certificate;
+c) Strategic emailed the Charity the appellant’s name, address and the information to include on the donation receipt for the appellant.
+d) the Charity generated a donation receipt for the appellant and delivered it, along with donation receipts for other taxpayers participating in the Strategic Scheme, to Strategic;
+e) Strategic sent the donation receipt to the appellant;
+f) Strategic deposited the appellant’s Participation Fee into the Charity’s bank account, then invoiced the Charity for 90% of the Participation Fee
+g) Select Fidelity Transfer Services Ltd. was purportedly the transfer agent with respect to the Dixon shares;
+h) Select Fidelity Transfer Services Ltd. was not a reporting issuer in Ontario and was not a member of the Securities Transfer Association of Canada;
+i) from its participation in the Strategic Scheme, the Charity issued donation receipts with respect to the Dixon shares in the amount of $1,036,000;
+j) from its participation in the Strategic Scheme, the Charity received Cash Payments totalling $158,500, paid approximately $142,650 to Strategic in fees, and retained $15,850; and
+k) charities participating in the Strategic Scheme issued donation receipts totalling $2.2 million.
+[13] Pursuant to the Tax Court of Canada’s Order dated February 2, 2016, rendered in the context of a pre-trial case management conference call, counsel for the respondent served the appellants with affidavits from:
+(a) Mr. Alberto de Sousa Costa, President and Chief Executive Officer of On Guard for Humanity (“On Guard”), sworn on March 10, 2016 with exhibits A to OO attached thereto;
+(b) Ms. Chionyeduc Opia-Evans, the Executive Director of Pilgrim Feast Tabernacle (“Pilgrim”), sworn on March 17, 2016 with exhibits A to S attached thereto;
+(c) Ms. Bette Ann Speers, a Canada Revenue Agency (“CRA”) chartered business valuator, affirmed on April 8, 2016 with exhibit A attached thereto;
+(d) Mr. James Moon, President and Chief Executive Officer of All Group Financial Services Inc. (“All Group”), a stockbroker, affirmed on April 1, 2016 with exhibits A to J attached thereto; and
+(e) Mr. Edmund Teelucksingh, formerly a mutual fund salesperson with GP Wealth Management Corporation, affirmed on April 8, 2016 with Exhibit A attached thereto.
+[14] The appellants were given an opportunity to cross-examine the affiants. These affidavits were filed and counsel for the respondent relied on these affidavits in the hearing of the appeals pursuant to section 122 of the Tax Court of Canada Rules (General Procedure).
+[15] Mr. Murji testified at the hearing. He explained that he donated the share certificate of Dixon Perrot & Champion Inc. (“Dixon”) to On Guard who accepted the transfer of shares and issued a tax receipt. He said that the onus was on On Guard to determine the value of the shares. Mr. Murji does not maintain that the shares had a value but he alleged that On Guard should not have issued a tax receipt if the shares had no value.
+[16] During cross-examination of Mr. Murji, counsel for the respondent filed on consent, a book of documents in relation to the appeals of Mr. Murji and his spouse (Exhibit R-1). Mr. Murji also confirmed that he has seen the affidavits of Mr. Alberto de Sousa Costa, Mr. James Moon and Ms. Bette Ann Speers.
+[17] Mr. Murji stated that he made a donation of $144,000 (e.g. $18,000 in cash and $126,000 in shares) to On Guard three or four days before the end of the year. He said that his donation was tax-motivated and that he knew nothing about On Guard and its charitable activities. He simply checked the CRA website to ensure that On Guard was a registered charity.
+[18] Mr. Murji confirmed that the ratio of shares to cash was seven to one in the case of his 2009 donation and the said ratio could vary from four to one to eight to one depending on the time of the year when the donation is made.
+[19] Mr. Murji explained that the Dixon shares were given to him by a non-resident philanthropist who wanted to make a donation to On Guard. The Dixon shares were traded on the Frankfurt Stock Exchange.
+[20] Mr. Murji also confirmed that he made his donation by sending a $18,000 cheque to Strategic Gifting Group (‘SGG”) which processed his donation and took care of the required documentation including the gifted share certificate and the Deed of Gift of Securities Transfer Authorization form.
+[21] Mr. Murji stated that he has never seen the invoice from SGG dated December 24, 2009 to On Guard by way of which a charge of $16,200 was made in respect of Mr. Murji’s donation of $18,000.
+[22] Mr. Murji recognized having received a letter from On Guard dated March 16, 2011 (read 2010 as the exact year) whereby he was informed that his tax receipt in the amount of $144,000 issued on December 31, 2009 was revoked and replaced by a tax receipt of $1,800 representing the net cash value of the cash component of his donation made through SGG less their fees of $16,200 charged to On Guard. This letter was followed by a letter dated April 26, 2010 from the CRA which referred to the revoked tax receipt of $1,800 and to an adjustment from $100,358 to $1,800 to his charitable donation claim in 2009 and that his unclaimed amount from the tax receipt has been reduced to nil. As a result of those letters, Mr. Murji did not file an amended tax return for 2009 and simply filed his notice of objection and his notice of appeal to this Court.
+[23] In his tax return for 2009, Mr. Murji reported a taxable income of $144,322.96, claimed donation tax credits of $100,358, transferred donation tax credits in the amount of $22,763 to his spouse and carried forward donation tax credits in the amount of $20,879.
+[24] After Mr. Murji’s testimony, Mr. Gary Huenemoeder was called at bar. He is a team leader of the CRA’s charities audit group located in Kitchener, Ontario. Mr. Huenemoeder was involved in many files similar to this one with SGG, one of them being Innovative Gifting Inc. which became IGI on September 10, 2008.
+[25] Mr. Huenemoeder referred the Court to the settlement agreement that intervened in March 2011 between the staff of the Ontario Securities Commission and Innovative Gifting Inc. and Terence Lushington which described the IGI’s charity gifting program that was in operation between September 2008 and January 2009 inclusively.
+[26] Mr. Huenemoeder also referred the Court to a decision of the Ontario Superior Court of Justice dated May 18, 2010 by which Innovative Gifting Inc. was ordered to return to three registered charities 90% of the fees it demanded for the cash donated because the agreements in that respect were against public policy and were accordingly void and voidable.
+[27] The witness also referred the Court to the promotional material used by SGG to attract clients. Contrary to what the material say, there was no non-resident philanthropist who wanted to give shares to Canadian registered charities.
+[28] The sole proprietor of SGG, Mr. Abraham Herbert Grossman, was sentenced in 2011 to 57 months in prison for various securities offences and fraud and on August 13, 2012, was sentenced to an additional six-month term for trading in securities (the shares of Dixon) without being registered with the Ontario Securities Commission. In the agreed statement of facts referenced to in the latter Court decision, it is mentioned that SGG delivered the Dixon shares to the donors and provided information to the donors that they could then donate these shares to a charity and get a tax receipt between four to twelve times the value of the cash donation. SGG received $332,620 and tax receipts in the amount of $2.2 million were issued. Some of these receipts have been revoked and receipts for the true amount received by the charities (10% of the cash donation) were reissued. The shares of Dixon may have no market but SGG stated to donors that the shares were trading for a value between .40 and 1.27 euro.
+[29] Mr. Huenemoeder also explained the role played by Mr. Edmund Ancil Teelucksingh between September and December 2009 by selling, recommending, referring or facilitating the sale of shares of Dixon, an investment that was not approved for sale by him as a mutual fund salesperson with GP Wealth Management Corporation, a member of the Mutual Fund Dealers Association of Canada, to 30 clients and 17 other individuals.
+[30] Mr. Teelucksingh admitted his misconduct in the disciplinary proceeding against him in respect of which the Reasons for Decision were rendered on August 8, 2013.
+[31] When cross-examined by Mr. Murji, Mr. Huenemoeder explained that there are about 60 000 charities registered for tax purposes and approximately 1,800 to 2,100 of them are audited annually which represents between .75% to 1% of all charities. Complaints from the public are the origins of about 40% of the audits. CRA does not necessarily seek to revoke the registration of the charities being audited and its mandate is normally limited to checking the reasonableness of the fees imposed by the promoters in order to collect the funds. The CRA has issues with organizations which impose a fee of 25% or more of the donations. Charities are required by the Act to use all or substantially all of the funds they receive to charitable activities. Mr. Huenemoeder confirmed that On Guard has been audited since the beginning of its operations and that it uses the majority of its cash on legitimate charitable activities.
+[32] Mr. Wahid Khan also testified at the hearing. He explained that he made his donation to Pilgrim, a registered charity which seems to support a good cause. His primary motivation was the tax benefit, a good return on investment (180% in his case).
+[33] When cross-examined, Mr. Khan explained that he heard from someone at work that Pilgrim was providing medicine to sick African children. Counsel for the respondent pointed out to him that at paragraph 3 of his affidavit, Ms. Chionyeduc Opia-Evans, the executive director of Pilgrim, described the charitable activities of Pilgrim in the following terms: the Charity runs a food bank, provides wellness programs for seniors, helps new immigrant seniors, provides seminars and after school programs for youths aged seven to thirteen. Mr. Khan explained that he has not seen that affidavit although it was sent to his agent in April 2017.
+[34] Mr. Khan could not recall if and when he received the Dixon share certificate, if he signed it and to whom he sent it. He also stated that he had no clue of the value of the Dixon shares that he donated to Pilgrim and he did not make an attempt to determine the value of the said shares.
+[35] Mr. Khan confirmed that his tax return for 2009 showed a taxable income of $78,374 and a total eligible amount of charitable donations of $49,000 and a net federal tax of nil. Mr. Khan filed with his 2009 tax return, a tax receipt from Pilgrim showing a cash donation of $7,000 and a stock donation valued at $42,000, for a total donation amount of $49,000. Mr. Khan also confirmed that he had not made any donation in the ten preceding years.
+[36] Mr. Khan confirmed that a new receipt dated June 6, 2011 was issued to him by Pilgrim showing an eligible amount of gift of $700 in replacement of the original receipt which became null and void. After the testimony of Mr. Khan, Mr. Huenemoeder was called at bar again to explain that the new receipt from Pilgrim was issued because Pilgrim was charged a fee of $6,300 by SGG in respect of the $7,000 cash donation made by Mr. Khan. A copy of such invoice was included as Exhibit E in the affidavit of Ms. Chionyeduc Opia-Evans.
+[37] The issues to be decided in the appeal of Mr. Murji are:
+(a) whether the appellant transferred Dixon shares to On Guard in December 2009;
+(b) whether the appellant transferred an amount in excess of $1,800 to On Guard in December 2009:
+(c) if the appellant did transfer Dixon shares and an amount in excess of $1,800 to On Guard in December 2009, whether the appellant made a charitable gift in making the transfers; and
+(d) if the appellant made a charitable gift of Dixon shares to On Guard, how many Dixon shares did the appellant donate and what was the fair market value of the Dixon shares on December 23, 2009?
+[38] The issue to be decided in the appeal of Ms. Karima Murji is whether the Minister correctly disallowed the charitable donation non-refundable tax credit of $22,763 claimed in the 2009 taxation year?
+[39] The issues to be decided in the appeal of Mr. Wahid Khan are:
+(a) whether the appellant transferred Dixon shares to Pilgrim in December 2009;
+(b) whether the appellant transferred an amount in excess of $700 to Pilgrim in December 2009;
+(c) if the appellant did transfer Dixon shares in excess of $700 to Pilgrim in December 2009, whether the appellant made a charitable gift in making the transfers; and
+(d) if the appellant made a charitable gift of Dixon shares to Pilgrim, what was the fair market value of the Dixon shares on December 31, 2009?
+Legislative Provisions
+[40] The provisions of the Act that are relevant for these appeals are paragraph 118.1(2)(a), subsection 237.1(1) (definitions of “gifting arrangement: and “tax shelter”), subsections 237.1(2), (3), (4) and (6), subsection 248(1) (definition of “designated stock exchange”) and sections 3500 (definition of “official receipt”) and subsection 3501(1) of the Income Tax Regulations (the “Regulations”). They read as follows:
+118.1(2) Proof of gift. A gift shall not be included in the total charitable gifts, total Crown gifts, total cultural gifts or total ecological gifts of an individual unless the making of the gift is proven by filing with the Minister
+(a) a receipt for the gift that contains prescribed information;
+. . .
+237.1(1) Definitions
+“gifting arrangement” − means any arrangement under which it may reasonably be considered, having regard to statements or representations made or proposed to be made in connection with the arrangement, that if a person were to enter into the arrangement, the person would
+(a) make a gift to a qualified donee, or a contribution referred to in subsection 127(4.1), of property acquired by the person under the arrangement; or
+(b) incur a limited-recourse debt, determined under subsection 143.2(6.1), that can reasonably be considered to relate to a gift to a qualified donee or a monetary contribution referred to in subsection 127(4.1).
+“tax shelter” – means
+(a) a gifting arrangement described by paragraph (b) of the definition “gifting arrangement”; and
+(b) a gifting arrangement described by paragraph (a) of the definition “gifting arrangement”, or a property (including any right to income) other than a flow-through share or a prescribed property, in respect of which it can reasonably be considered, having regard to statements or representations made or proposed to be made in connection with the gifting arrangement or the property, that, if a person were to enter into the gifting arrangement or acquire an interest in the property, at the end of a particular taxation year that ends within four years after the day on which the gifting arrangement is entered into or the interest is acquired,
+(i) the total of all amounts each of which is
+(A) an amount, or a loss in the case of a partnership interest, represented to be deductible in computing the person's income for the particular year or any preceding taxation year in respect of the gifting arrangement or the interest in the property (including, if the property is a right to income, an amount or loss in respect of that right that is stated or represented to be so deductible), or
+(B) any other amount stated or represented to be deemed under this Act to be paid on account of the person's tax payable, or to be deductible in computing the person's income, taxable income or tax payable under this Act, for the particular year or any preceding taxation year in respect of the gifting arrangement or the interest in the property, other than an amount so stated or represented that is included in computing a loss described in clause (A)
+would equal or exceed
+(ii) the amount, if any, by which
+(A) the cost to the person of the property acquired under the gifting arrangement, or of the interest in the property at the end of the particular year, determined without reference to section 143.2,
+would exceed
+(B) total of all amounts each of which is the amount of any prescribed benefit that is expected to be received or enjoyed, directly or indirectly, in respect of the property acquired under the gifting arrangement, or of the interest in the property, by the person or another person with whom the person does not deal at arm's length.
+237.1(2) Application. A promoter in respect of a tax shelter shall apply to the Minister in prescribed form for an identification number for the tax shelter unless an identification number therefor has previously been applied for.
+237.1(3) Identification. On receipt of an application under subsection (2) for an identification number for a tax shelter, together with prescribed information and an undertaking satisfactory to the Minister that books and records in respect of the tax shelter will be kept and retained at a place in Canada that is satisfactory to the Minister, the Minister shall issue an identification number for the tax shelter.
+237.1(4) Sales prohibited. No person shall, whether as a principal or an agent, sell or issue, or accept a contribution towards the acquisition of, an interest in a tax shelter before the Minister has issued an identification number for the tax shelter.
+237.1(6) Deductions and claims disallowed. No amount may be deducted or claimed by a person in respect of a tax shelter unless the person files with the Minister a prescribed form containing prescribed information, including the identification number for the tax shelter
+248(1) Definitions
+“designated stock exchange” designated stock exchange means a stock exchange or that part of a stock exchange, for which a designation by the Minister of Finance under section 262 is in effect;
+Regulations
+3500. Interpretation. In this Part,
+“official receipt” means a receipt for the purposes of subsection 110.1(2) or (3) or 118.1(2), (6) or (7) of the Act, containing information as required by section 3501 or 3502.
+3501(1) Every official receipt issued by a registered organization shall contain a statement that it is an official receipt for income tax purposes, and shall show clearly, in such a manner that it cannot readily be altered,
+(a) the name and address in Canada of the organization as recorded with the Minister;
+(b) the registration number assigned by the Minister to the organization;
+(c) the serial number of the receipt;
+(d) the place or locality where the receipt was issued;
+(e) where the gift is a cash donation, the day on which or the year during which the donation was received;
+(e.1) where the donation is a gift of property other than cash
+(i) the day on which the donation was received,
+(ii) a brief description of the property, and
+(iii) the name and address of the appraiser of the property if an appraisal is done;
+(f) the day on which the receipt was issued where that day differs from the day referred to in paragraph (e) or (e.1);
+(g) the name and address of the donor including, in the case of an individual, the individual's first name and initial;
+(h) the amount that is
+(i) the amount of a cash donation, or
+(ii) where the donation is a gift of property other than cash, the amount that is the fair market value of the property at the time that the gift was made;
+(i) the signature, as provided in subsection (2) or (3), of a responsible individual who has been authorized by the organization to acknowledge donations; and
+(j) the name and Internet website of the Canada Revenue Agency.
+Analysis
+[41] The evidence from the appellants’ testimonies and documents and other relevant circumstances clearly suggest the appellants did not have an intention to impoverish themselves but, rather, to profit from their participation in the program promoted by SGG.
+Definition of a gift
+[42] Under section 118.1 of the Act, a taxpayer can claim a tax credit for gifts made to registered charities in order to offset his or her income tax payable for a year.
+[43] The definition of what constitutes a “gift” is not found in the Act, but jurisprudence has established that a “gift” is “a voluntary transfer of property owned by the donor to a donee, in return for which no benefit or consideration flows to the donor (see Friedberg v. R., 1991 CarswellNat 669 (FCA) and affirmed by the Supreme Court of Canada, 1993 CarswellNat 959).
+[44] The three requisite elements of a gift are:
+(a) there must be a voluntary transfer of property;
+(b) the property must be owned by the donor; and
+(c) there must be no benefit or consideration to the donor, which means that the donor must have “donative intent”. It is well established in law that in order to have a donative intent, a donor must intend to impoverish himself or “grow poorer” from making the gift (see Mariano v. R., 2015 CarswellNat 5133 (TCC – General Procedure), paragraph 19).
+[45] The subjective intention of the taxpayer must be considered but his or her stated intention is not determinative and must be based in objective reality. A taxpayer who intends to enrich himself by making use of an inflated donation receipt does not intend to impoverish himself or herself.
+[46] Jurisprudence has established that “a benefit received in return for making a gift will vitiate the gift, whether the benefit comes from the donee or another person” (See Kossow v. R., 2013 CarswellNat 4557 (FCA) paragraph 25) and that false documents that allow a taxpayer to obtain a profit can constitute a benefit that vitiate a gift (see Berg v. R., 2014 FCA 25).
+No Donative Intent
+[47] Mr. Murji and Mr. Khan had no donative intent as they did not intend to impoverish themselves.
+[48] In exchange for making a cash donation of $18,000 to On Guard through SGG, Mr. Murji received a share certificate with a multiplier of seven and he received a tax receipt for his cash donation and for the donation of the shares. Mr. Murji participated in the arrangement in order to enrich himself.
+[49] Prior to 2009, Mr. Murji claimed charitable donations of $80,155 with respect to his participation in the Global Learning Gifting Initiative donation program, which was disallowed by the CRA. Other than this, in the ten years prior to 2009, Mr. Murji claimed charitable donations totaling $2,625. In the circumstances, it is unrealistic to think that, in 2009, Mr. Murji would have donated to On Guard $322 less than his total taxable income for the year.
+[50] Similarly, Mr. Khan did not intend to impoverish himself. He paid $7,000 to either SGG or one of SGG’s promoters in order to obtain a tax receipt in the amount of $49,000.
+[51] In the ten years prior to 2009, Mr. Khan did not claim any charitable donation. In the circumstances, it is totally unrealistic to think that in 2009, he would have donated more than 60% of his taxable income for the year to a charity that he did not know.
+[52] By making gifts of cash to On Guard and to Pilgrim, respectively, Mr. Murji and Mr. Khan acted as “investors”. They each received a significant benefit by doing so, which vitiates any cash gift they may have made. Mr. Murji’s benefit was the receipt of the Dixon share certificate that was falsely valued at $126,000 and enabled him to receive a 221% return on his investment of $18,000. Mr. Khan’s benefit was the receipt of the Dixon share certificate that was falsely valued at $42,000 and enabled him to receive a 180% return on his investment of $7,000.
+The Donation Amounts are Limited to the Replaced Donation Receipts
+[53] Mr. Murji and Mr. Khan are not entitled to claim amounts greater than the amounts specified on their replaced donation receipts.
+[54] Pursuant to subsection 118.1(2) of the Act, an eligible amount of a gift is not to be included in a taxpayer’s total charitable gifts unless the making of the gift is evidenced by a receipt that contains the information specified in the Regulations. Paragraph 3501(1)(h)(i) of the Regulations requires a receipt specifying the amount of the cash donation.
+[55] These requirements are mandatory. A receipt that incorrectly sets out the amount of a cash donation is deemed to be spoiled which means that the donor is precluded from claiming a tax credit with respect to the donation (see R. v. Castro, 2015 CarswellNat 5180 (FCA)).
+[56] Mr. Murji did not transfer $18,000 to On Guard. He paid $18,000 to SGG as consideration for participating in the gifting arrangement. SGG transferred only $1,800 to On Guard by depositing $18,000 in On Guard’s bank account and invoicing On Guard for $16,200. On Guard cancelled Mr. Murji’s donation receipt in the amount of $144,000 and reissued a replacement receipt in the amount of $1,800. The Minister’s reassessment allowed the amount of $1,800.
+[57] Mr. Khan did not transfer $7,000 to Pilgrim. He paid $7,000 to SGG as consideration for participating in the gifting arrangement. SGG transferred only $700 to Pilgrim by depositing $7,000 into Pilgrim’s bank account and invoicing Pilgrim for $6,300. Pilgrim cancelled Mr. Khan’s donation receipt in the amount of $49,000 and reissued a replacement receipt in the amount of $700. The Minister’s reassessment allowed the amount of $700.
+The Dixon shares had no fair market value
+[58] The testimony and documentary evidence support the conclusion that the Dixon shares had no fair market value. Ms. Speers gave her expert opinion that the fair market value of the Dixon shares was nominal. Mr. Moon stated that All Group made a determination that the Dixon shares had no value. Mr. Huenemoeder testified that after considering a number of factors, the CRA concluded that the Dixon shares had no value. Mr. de Sousa Costa testified as to On Guard’s unsuccessful efforts to sell the Dixon shares through three brokerage firms, how he tried unsuccessfully, to obtain information directly from Dixon and how he tried unsuccessfully to create a market for the Dixon shares. Ms. Opia-Evans also testified as to Pilgrim’s unsuccessful efforts to sell the Dixon shares through three brokerage firms.
+[59] As per an agreed statement of facts filed in the Ontario Court of Justice in the matter of R. v. Grossman, the presiding judge found as a matter of fact that the Dixon shares had no market.
+[60] The appellants did not provide any evidence as to the value of the Dixon shares.
+The gifting arrangement offered by Strategic Gifting Group was an unregistered tax shelter
+[61] Pursuant to the Act, a tax shelter includes a gifting arrangement that is promoted as an arrangement under which a taxpayer acquires property, gives the property to a charity and claims a deduction from his income in an amount that exceeds his cost to acquire the property.
+[62] Section 237.1 of the Act sets out the requirements for promoters and participants in tax shelters. A promoter in respect of a tax shelter shall apply to the Minister in prescribed form for an identification number for the tax shelter. Before accepting consideration in respect of a tax shelter, a promoter must have received an identification number in respect of the tax shelter. The promoter shall then make reasonable efforts to provide to participants with the tax shelter identification number. In order to be able to deduct or claim an amount in respect of a tax shelter, the participant must file with the Minister a prescribed form containing prescribed information including the identification number of the tax shelter.
+[63] The promotional materials of SGG set out that participants make donations to a charity, acquire shares from a non-resident philanthropist and give the shares to the charity. By doing so, the participants could claim deductions in their income tax returns of four to twelve times the amount of their cash donation and obtain inflated tax credits. Clearly, the gifting arrangement offered by SGG qualified as a tax shelter as defined in the Act.
+[64] Considering the fact that the gifting arrangement offered by SGG was an unregistered tax shelter and that Mr. Murji and Mr. Khan did not file the prescribed form, no amount may be claimed by them with respect to the gifting arrangement of SGG, including the amounts allowed by the Minister.
+[65] Since the Court cannot increase the amounts of tax reassessed, the reassessments must stay as they are.
+Conclusion
+[66] As Mr. Murji and Mr. Khan have not met their burden of proving that they made charitable gifts to On Guard and to Pilgrim respectively and did not provide any evidence that the value of the Dixon shares was in excess of nil, they have not met their burden of proving that the Minister’s reassessments are incorrect. Furthermore, the Minister correctly disallowed the non-refundable tax credit of $22,763 claimed by Ms. Murji in her tax return for the 2009 taxation year.
+[67] For all these reasons, the appeal of Mr. Murji is dismissed with costs and the appeals of Ms. Murji and Mr. Kahn are dismissed without costs.
+Signed at Ottawa, Canada, this 9th day of January 2018.
+“Réal Favreau”
+Favreau J.
+CITATION:
+2018 TCC 7
+COURT FILE NOS.:
+2015-2355(IT)G, 2015-2200(IT)I,
+2015-2200(IT)I
+STYLES OF CAUSE:
+Al-Karim Murji and HMQ
+Karima Murji and HMQ
+Wahid Khan and HMQ
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+June 23, 2017
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Réal Favreau
+DATE OF JUDGMENT:
+January 9, 2018
+APPEARANCES:
+For the Appellant Al−Karim Murji:
+The Appellant himself
+Agent for the Appellants
+Karima Murji and Wahid Khan:
+Counsel for the Respondent:
+Swarn Kumar Bahl
+April Tate
+COUNSEL OF RECORD:
+For the Appellants:
+Name:
+Firm:
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,170 @@
+---
+title: "Ahansaz c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28180/index.do"
+last_modified: "2007-11-29"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 CCI 568"
+citation2: ""
+neutral_citation: "2007 CCI 568"
+decision_date: "2007-11-29"
+language: "fr"
+item_id: "28180"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1961
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T09:03:29.048000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "8d0d163c55601db05f965fb81a3691a517939e50dce9cfc6073a44fdb1c682ae"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Ahansaz c. La Reine
+
+- Citation: 2007 CCI 568
+- Decision date: 2007-11-29
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1961, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Ahansaz c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-11-29
+Référence neutre
+2007 CCI 568
+Numéro de dossier
+2007-1957(IT)I
+Juges et Officiers taxateurs
+Louise Lamarre Proulx
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2007-1957(IT)I
+ENTRE :
+SIMA AHANSAZ,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appels entendus le 18 septembre 2007, à Montréal (Québec).
+Devant : L'honorable juge Louise Lamarre Proulx
+Comparutions :
+Représentant de l'appelante :
+Mohammad Hassan Sattari
+Avocat de l'intimée :
+Me Jean Lavigne
+____________________________________________________________________
+JUGEMENT
+Les appels des déterminations de prestations fiscales canadiennes pour enfants, établies en vertu de la Loi de l'impôt sur le revenu relativement aux années de base 2003 à 2005, sont rejetés selon les motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 29e jour de novembre 2007.
+« Louise Lamarre Proulx »
+Juge Lamarre Proulx
+Référence : 2007CCI568
+Date : 20071129
+Dossier : 2007-1957(IT)I
+ENTRE :
+SIMA AHANSAZ,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+La juge Lamarre Proulx
+[1] Il s'agit d'appels de nouvelles déterminations de prestation fiscale canadienne pour enfants pour les années de base 2003 à 2005. À l'égard de ces années de base, le ministre du Revenu national (le « Ministre ») a déterminé que l'appelante avait reçu en trop les montants respectifs de 5 222 $, 5 680 $ et 2 572 $. La période en question est de juillet 2004 à novembre 2006.
+[2] Pour établir ces nouvelles déterminations, le Ministre s'est appuyé sur les faits décrits au paragraphe 5 de la Réponse à l'avis d'appel (la « Réponse »), comme suit :
+a) l'appelante et son conjoint, M. Mohammad Hassan Sattari ont quatre enfants, Azita née le 28 avril 1991, Nazila née le 6 octobre 1993, Amin né le 29 septembre 1999 et Mehran né le 22 avril 2003;
+b) Pour les périodes en litige, l'appelante et son conjoint résidaient au Canada conformément à des permis de travail ou d'étude;
+c) À aucun moment au cours des périodes en litige, ni l'appelante ni son conjoint n'avait un statut de résident permanent au Canada, ni n'était une personne protégée ou réfugiée au sens de la loi sur l'immigration et la protection des régugiés.
+[3] L'avis d'appel invoque comme motifs d'appel le statut de citoyens canadiens de trois des enfants de l'appelante et de son conjoint et l'argument que l'appelante et son conjoint font partie d'une catégorie précisée dans le Règlement sur les catégories d'immigrants précisées pour des motifs d'ordre humanitaire, pris en en application de la Loi sur l'immigration, au sens de l'alinéa e)(iv) fr la définition de « particulier admissible » à l'article 122.6 de la Loi de l'impôt sur le revenu (la « Loi »).
+[4] Il est utile de se référer immédiatement à cette définition de « particulier admissible » à l'article 122.6 de la Loi, pour les fins de la prestation fiscale canadienne pour enfants. La partie pertinente se lit comme suit :
+« particulier admissible » S'agissant, à un moment donné, du particulier admissible à l'égard d'une personne à charge admissible, personne qui répond aux conditions suivantes à ce moment :
+a) elle réside avec la personne à charge;
+b) elle est la personne -- père ou mère de la personne à charge -- qui assume principalement la responsabilité pour le soin et l'éducation de cette dernière;
+c) elle réside au Canada ou, si elle est l'époux ou conjoint de fait visé d'une personne qui est réputée, par le paragraphe 250(1), résider au Canada tout au long de l'année d'imposition qui comprend ce moment, y a résidé au cours d'une année d'imposition antérieure;
+d) elle n'est pas visée aux alinéas 149(1)a) ou b);
+e) elle est, ou son époux ou conjoint de fait visé est, soit citoyen canadien, soit :
+(i) résident permanent au sens du paragraphe 2(1) de la Loi sur l'immigration et la protection des réfugiés,
+(ii) résident temporaire ou titulaire d'un permis de séjour temporaire visés par la Loi sur l'immigration et la protection des réfugiés ayant résidé au Canada durant la période de 18 mois précédant ce moment,
+(iii) personne protégée au titre de la Loi sur l'immigration et la protection des réfugiés.
+(iv) quelqu'un qui fait partie d'une catégorie précisée dans le Règlement sur les catégories d'immigrants précisées pour des motifs d'ordre humanitaire pris en application de la Loi sur l'immigration.
+...
+[5] Il est admis que ni l'appelante ni son mari ne sont citoyens canadiens. À l'époque en litige, il est également admis qu'ils n'étaient pas résidents permanents au sens du paragraphe 2(1) de la Loi sur l'immigration et la protection des réfugiés.
+[6] Nous avons vu dans la définition de « particulier admissible » que si la mère ou le père de la personne à charge admissible est un résident temporaire en vertu de la Loi sur l'immigration et la protection des réfugiés, il devient un « particulier admissible » après 18 mois de résidence au Canada.
+[7] Or, la Réponse mentionne comme un fait que pour les périodes en litige, l'appelante et son conjoint, résidaient au Canada conformément à des permis de travail ou d'étude.
+[8] Normalement, selon la Loi sur l'immigration et la protection des réfugiés, ces permis d'étude et de travail vont de pair avec le statut de résident temporaire. C'est d'ailleurs ainsi que s'est exprimée madame Carole Lahaie, agent d'immigration à Citoyenneté et Immigration Canada, le témoin de l'intimée. Aussi longtemps que le permis d'étude de monsieur Sattari a été prolongé, il était un résident temporaire.
+[9] Cependant, selon la chronologie des événements présentée par le témoin de l'intimée, monsieur Sattari, le conjoint de l'appelante n'avait plus de permis d'étude à l'époque en litige. Le 27 avril 2004, il s'est vu refuser de façon définitive ce permis. Il n'avait déjà plus, depuis le 17 juin 2003, de permis de travail.
+[10] Après certaines démarches, monsieur Sattari a obtenu un permis de travail en date du 10 octobre 2006, mais les circonstances d'émission de ce permis ne lui ont pas conféré un statut de résident temporaire, selon l'article 202 du Règlement sur l'immigration.
+[11] Les faits pris en compte par le Ministre tels que décrits à l'alinéa 5 b) de la Réponse sont donc erronés. Or, les faits pris en compte lors de la cotisation sont importants. Dès que l'avocat de l'intimée se rend compte qu'ils sont inexacts, il devrait en proposer la correction, tant pour l'utilité de l'appelant que celle du juge.
+[12] La description erronée des faits en ce qui concerne l'émission des permis d'étude et de travail ne semble toutefois pas avoir dérangé l'appelante. Les motifs d'appel ne reprennent pas cette admission des faits. Vu ceci et vu la décision de la Cour d'appel fédérale dans Hammil c. Canada, [2005] A.C.F. no 1197 (QL), je n'en parlerai plus sauf pour réitérer l'importance de corriger les descriptions de fait erronées d'une réponse à l'avis d'appel quand le représentant de l'intimée le constate ou, pourrait le constater, vu qu'il s'agit du témoignage et des documents de son propre témoin. Dans un cas comme celui de l'appelante, il aurait été aussi utile d'avoir dans la Réponse un énoncé de l'historique de la qualité de résidents temporaires des conjoints.
+[13] La Cour d'appel fédérale s'est ainsi exprimée aux paragraphes 29 et 31 de la décision dans Hammil :
+29 Plus précisément, l'appelant fait valoir que le juge de la CCI était lié par les faits tels qu'ils avaient été admis, même si une preuve contraire a été produite au procès. Il invoque à l'appui de cette thèse : Sopinka, The Law of Evidence in Canada, 2e éd., Butterworths, 2004, à la page 1051; Urquhart c. Butterfield (1887), 37 Ch.D. 357, aux pages 369 et 374; et Copp c. Clancy (1957), 16 D.L.R. (2d) 415, à la page 425.
+...
+31 L'issue d'un appel interjeté contre une cotisation établie sous le régime de la Loi ne dépend pas de la volonté des parties. Les deniers publics sont en jeu, et la législation donne à la Cour canadienne de l'impôt le mandat de confirmer ou modifier une telle cotisation en première instance sur la base des faits, prouvés ou admis. C'est pourquoi, si la Cour, placée devant un fait formellement admis, ne cherchera pas en général plus loin, les parties ne peuvent par convention dicter l'issue d'un appel en matière fiscale. La Cour canadienne de l'impôt n'est pas liée par la reconnaissance d'une allégation que des éléments de preuve régulièrement produits révèlent être contraire aux faits.
+[14] Je reviens donc au débat qui a eu lieu. M. Mohammad Hassan Sattari, conjoint de l'appelante, l'a représentée à l'audience. Il a témoigné. Il a produit, comme pièce A‑1, un document intitulé « Confirmation de résidence permanente ». Au point 19, il est noté « CH1 ». Selon monsieur Sattari, cette note voulait dire conditions humanitaires, ce qui est admis.
+[15] Selon monsieur Sattari, il s'ensuit qu'il fait partie d'une catégorie d'immigrants comprise dans le Règlement sur les catégories d'immigrants précisées pour des motifs d'ordre humanitaires pris en application de la Loi sur l'immigration au sens du sous‑alinéa e)(iv) de la définition de « particulier admissible ».
+[16] Il a produit également à cet égard une lettre d'un agent d'immigration en date du 24 novembre 2005.
+[17] Il s'est référé aux deux premiers paragraphes :
+...
+Premièrement, les facteurs d'ordre humanitaire sont évalués pour décider s'il y a lieu de vous dispenser de l'obligation d'obtenir un visa de résident permanent avant de venir au Canada [L11(1)]. Le 24 novembre 2004, les circonstances de votre demande ont été examinées. Il nous fait plaisir de vous informer qu'il y a suffisamment de motifs humanitaires et que la dispense est accordée.
+Deuxièmement, vous et les membres de votre famille, s'il y a lieu, devez satisfaire à toutes les autres exigences statutaires de la Loi sur l'immigration et la protection des réfugiés (LIPR)[L21], par exemple, les exigences ayant trait à la visite médicale, à la sécurité et au passeport, l'obtention d'un « Certificat de sélection du Québec » (CSQ) et/ou les dispositions concernant votre prise en charge. Conformément à l'Accord Canada/Québec, notre décision d'approuver votre demande de dispense sera transmise au Ministère des Relations avec les Citoyens et de l'Immigration (MRCI). Les représentants du MRCI vous contacteront pour une évaluation de votre situation.
+[18] Madame Carole Lahaie, tel que déjà mentionné, a produit à l'égard de l'appelante et de son conjoint, monsieur Sattari, la chronologie des permis de visiteur, des visas de résidents temporaires, des permis d'étude et de travail de 1992 au 27 avril 2004, date où il y a eu un refus de prorogation des permis. À partir de cette dernière date, l'appelante et son conjoint, n'étaient plus des résidents temporaires.
+[19] Le 11 mai 2004, il y a un rapport d'interdiction. Le 20 mai 2004, une mesure d'exclusion est prise. Le même jour, l'appelante et son mari se font offrir la possibilité de présenter une demande de sursis au renvoi, car ils sont éligibles à l'évaluation des risques de retour. Le 16 décembre 2004, la mesure d'exclusion devient exécutable. Le 5 janvier 2005, ils demandent de présenter une demande de résidence permanente pour considérations humanitaires (CH). Le 24 novembre 2005, cette demande est approuvée en principe. Le 4 juillet 2007, ils obtiennent la qualité de résidents permanents.
+[20] Madame Lahaie explique que l'expression « conditions humanitaires » dans ce contexte réfère au fait que la personne peut présenter sa demande de résident permanent à partir du Canada plutôt que de lui faire l’obligation de se rendre dans un pays étranger pour faire sa demande. En effet, selon les dispositions réglementaires, cette demande devrait se faire hors du Canada.
+[21] C’est ainsi que doivent se comprendre les deux premiers paragraphes de la lettre du 24 novembre 2005. Le troisième avant dernier paragraphe confirme cette interprétation :
+...
+Vous avez été dispensé, en partie, en raison des difficultés indues auxquelles vous feriez face si vous deviez quitter le Canada et présenter une demande à l’extérieur du pays, tel que requis habituellement. Si vous quittez le Canada, rien ne garantit que vous serez admis de nouveau afin de poursuivre la présente demande.
+[22] Madame Lahaie explique que le sous‑alinéa e)(iv) de la définition de « particulier admissible » réfère à des catégories d’immigrants demandeurs de visas à l’extérieur du Canada. Selon elle, il s’agit de cas traités avant l’arrivée au Canada.
+Analyse et conclusion
+[23] Il est à noter en premier lieu que le Règlement sur les catégories d’immigrants précisées pour des motifs d’ordre humanitaire a été abrogé en date du 28 juin 2002. Voir les articles 364 et 365 du Règlement sur l’immigration. C’est également le 28 juin 2002 que la Loi sur l’immigration a été abrogée et remplacée par la Loi sur l’immigration et la protection des réfugiés.
+[24] Je reprends maintenant le premier argument de monsieur Sattari voulant que trois de ses enfants soient citoyens canadiens. Cela n’a malheureusement pas d’influence sur la qualité de « particulier admissible » du père ou de la mère au sens de la Loi.
+[25] En ce qui concerne l’argument principal, soit, que lui et son épouse fassent partie de la catégorie des immigrants compris dans le Règlement sur les catégories d’immigrants précisées pour des motifs d’ordre humanitaire pris en application de la Loi sur l’immigration au sens du sous‑alinéa e)(iv) de la définition de « particulier admissible », nous avons appris que ce règlement ne s’appliquait qu’à des personnes à l’extérieur du Canada.
+[26] De plus, vu que ce règlement a été abrogé en date du 28 juin 2002, tel que ci‑dessus mentionné, il n’était pas en vigueur au moment des événements en litige soit juillet 2004 à novembre 2006. Si la mention a été conservée à la définition de « particulier admissible », il faut penser que c’est dans le but de conserver les droits, à la prestation fiscale canadienne pour enfants, des personnes qui auraient été admises au Canada sous cette égide.
+[27] L’expression « conditions humanitaires » utilisée au certificat de résidence permanente et dans la lettre du 24 novembre 2005 réfère nécessairement à la permission accordée à l’appelante et son conjoint de faire leur demande de résident permanent à partir du Canada et non hors du Canada, permission accordée en vertu du pouvoir discrétionnaire du Ministre responsable en vertu du paragraphe 25(1) de la Loi sur l’immigration et la protection des réfugiés.
+[28] En effet, l’article 11 du Règlement sur l’immigration prévoit que la demande de visa de résident permanent se fait à l’extérieur du Canada. Cependant le susdit paragraphe 25(1) permet au ministre ou à son agent de lever tout ou partie des obligations applicables s’il estime que des circonstances d’ordre humanitaires relatives à l’étranger, compte tenu de l’intérêt supérieur de l’enfant directement touché, le justifient. Ce paragraphe se lit comme suit :
+25(1) Le ministre doit, sur demande d’un étranger interdit de territoire ou qui ne se conforme pas à la présente loi, et peut, de sa propre initiative, étudier le cas de cet étranger et peut lui octroyer le statut de résident permanent ou lever tout ou partie des critères et obligations applicables, s’il estime que des circonstances d’ordre humanitaire relatives à l’étranger – compte tenu de l’intérêt supérieur de l’enfant directement touché – ou l’intérêt public le justifient.
+[29] L’article 68 du Règlement sur l’immigration permet dans ces circonstances l’octroi du statut de résident permanent même si le demandeur est au Canada.
+[30] C’est dans ce sens, selon la preuve présentée tant par monsieur Sattari que par l’intimée, que l’expression conditions humanitaires a été utilisée relativement à la confirmation de statut de résident permanent de monsieur Sattari.
+[31] Ni l’appelante ni son conjoint n’étaient un particulier admissible au sens des divers sous‑alinéa de l’alinéa e) de cette définition à l’article 122.6 de la Loi. En conséquence, les appels doivent être rejetés.
+Signé à Ottawa, Canada, ce 29e jour de novembre 2007.
+« Louise Lamarre Proulx »
+Juge Lamarre Proulx
+RÉFÉRENCE : 2007CCI568
+Nº DU DOSSIER DE LA COUR : 2007-1957(IT)I
+INTITULÉ DE LA CAUSE : SIMA AHANSAZ c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATE DE L’AUDIENCE : le 18 septembre 2007
+MOTIFS DU JUGEMENT PAR : L'honorable juge Louise Lamarre Proulx
+DATE DU JUGEMENT : le 29 novembre 2007
+COMPARUTIONS :
+Représentant de l'appelante :
+Mohammad Hassan Sattari
+Avocat de l'intimée :
+Me Jean Lavigne
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelante:
+Nom :
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

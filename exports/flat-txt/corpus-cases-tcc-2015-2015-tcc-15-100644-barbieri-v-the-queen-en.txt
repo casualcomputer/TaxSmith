@@ -1,0 +1,178 @@
+Title: Barbieri v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/100644/index.do
+Corpus path: corpus/cases/tcc/2015/2015-tcc-15-100644-barbieri-v-the-queen-en.md
+Document type: case_law
+Last modified: 2015-01-22
+
+# Barbieri v. The Queen
+
+- Citation: 2015 TCC 15
+- Decision date: 2015-01-22
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2799, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Barbieri v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2015-01-22
+Neutral citation
+2015 TCC 15
+File numbers
+2013-2046(GST)I, 2013-2049(IT)G
+Judges and Taxing Officers
+David E. Graham
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2013-2046(GST)I
+BETWEEN:
+JOHN BARBIERI,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard together with the
+Appeal of John Barbieri, 2013-2049(IT)G
+on December 11, 2014, at Vancouver, British Columbia.
+Before: The Honourable Justice David E. Graham
+Appearances:
+For the Appellant:
+The Appellant Himself
+Counsel for the Respondent:
+Robin S. Whittaker
+JUDGMENT
+The Appeal of the assessment of the Appellant’s reporting periods from January 1, 2007 to December 31, 2008 is allowed without costs and the matter referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the amount of unremitted GST should be recalculated in accordance with the adjustments made to the calculation of the Appellant’s unreported income in Appeal 2013-2049(IT)G provided that the net tax assessed for any reporting period shall not be increased above that already assessed for that reporting period.
+Signed at Ottawa, Canada, this 22nd day of January 2015.
+“David E. Graham”
+Graham J.
+Docket: 2013-2049(IT)G
+BETWEEN:
+JOHN BARBIERI,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard together with the
+Appeal of John Barbieri, 2013-2046(GST)I
+on December 11, 2014, at Vancouver, British Columbia.
+Before: The Honourable Justice David E. Graham
+Appearances:
+For the Appellant:
+The Appellant Himself
+Counsel for the Respondent:
+Robin S. Whittaker
+JUDGMENT
+The Appeal of the reassessments of the Appellant’s 2006, 2007 and 2008 taxation years is allowed without costs and the matter referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the Appellant’s taxable income as determined by the net worth calculation will be adjusted on the following basis provided that the taxable income for any year shall not be increased above that already reassessed for that year:
+(i) the Burnaby, Mission and Maple Ridge properties will be removed from the assets portion of the net worth calculation;
+(ii) the bank accounts that the Appellant held jointly with Marco Barbieri will be removed from the assets portion of the net worth calculation;
+(iii) the mortgages related to the Burnaby, Mission and Maple Ridge properties will be removed from the liabilities portion of the net worth calculation;
+(iv) the personal expenditures portion of the net worth calculation for the Appellant’s 2006 taxation year will be increased by $11,698.04; and
+(v) the personal expenditures portion of the net worth calculation for the Appellant’s 2007 and 2008 taxation years will be reduced by $21,741.22 and $6,645.13, respectively.
+Signed at Ottawa, Canada, this 22nd day of January 2015.
+“David E. Graham”
+Graham J.
+Citation: 2015 TCC 15
+Date: 20150122
+Dockets: 2013-2046(GST)I
+2013-2049(IT)G
+BETWEEN:
+JOHN BARBIERI,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Graham J.
+[1] The Minister of National Revenue reassessed John Barbieri’s 2006, 2007 and 2008 taxation years and assessed his GST reporting periods from January 1, 2007 to December 31, 2008 using the net worth method. Mr. Barbieri has appealed the results of those reassessments and that assessment.
+Issues Raised by the Appellant: [2] Mr. Barbieri raised issues concerning:
+(a) approximately $80,000 in cash held by him in a safety deposit box;
+(b) an $18,000 gift that he made to his son, Marco Barbieri;
+(c) a $20,000 loan that he made to his ex-girlfriend;
+(d) $40,000 that he borrowed from his brother;
+(e) the valuation of a property located in Surrey;
+(f) the valuation of a property located in Port Moody;
+(g) the amount of personal expenditures included in the net worth calculation;
+(h) whether his 2006, 2007 and 2008 taxation years were statute barred; and
+(i) the ownership of three residential properties.
+Safety Deposit Box [3] Mr. Barbieri testified that, on December 31, 2005 he held approximately $40,000 in cash in a safety deposit box[1] and that that cash increased throughout the years in question (due to his success betting on horse races) such that, by December 31, 2005, he held approximately $80,000 in cash in the safety deposit box. Mr. Barbieri clearly testified that, once he deposited cash to the safety deposit box, he did not remove it.
+[4] Even if I were to accept Mr. Barbieri’s testimony at face value, no adjustment to the net worth calculation would be required. The $40,000 in cash held on December 31, 2005 was held continuously until at least December 31, 2008. Thus, adding it as an asset would have no effect on Mr. Barbieri’s change in net worth from year to year. The additional $40,000 deposited to the safety deposit box during the years in question should have been added to Mr. Barbieri’s assets when it was deposited but the resulting increase in unreported income would have been completely offset by a corresponding adjustment made to account for the fact that the income had come from a non-taxable source. Furthermore, since, once deposited, that additional $40,000 was held continuously until at least December 31, 2008, adding it as an asset would have had no ongoing effect on Mr. Barbieri’s change in net worth.
+[5] If any change were required as a result of Mr. Barbieri’s testimony it would have been to increase Mr. Barbieri’s personal expenditures in the net worth calculation by the amount of money that he spent making bets since, by his own admission, those funds did not come from the safety deposit box. The Respondent did not pursue an upwards adjustment of the net worth calculation in respect of this issue.
+$18,000 Gift to Marco [6] The Minister recorded an $18,000 loan that the Minister believed Mr. Barbieri made to Marco in 2008 as an asset that Mr. Barbieri acquired in his 2008 taxation year. Mr. Barbieri acknowledges that he transferred $18,000 to Marco but submits that it was a gift, not a loan. Whether the money was a loan or a gift makes no difference to the amount of Mr. Barbieri’s unreported income. If it was a gift, the result would simply be to remove the $18,000 from the assets section of the net worth calculation and add it to the personal expenditures section. Accordingly, no change in the net worth calculation is required as a result of this issue.
+$20,000 Loan to Ex-Girlfriend [7] The Minister recorded a $20,000 loan that Mr. Barbieri made to his ex‑girlfriend as an asset that he had acquired in his 2008 taxation year. Mr. Barbieri acknowledges making the loan. However, he argues that, because his girlfriend declared bankruptcy in 2010, the loan was worthless by the time the audit was conducted and thus should not have been included in the net worth calculation. A net worth calculation does not require the determination of the fair market value of an asset either when the asset is acquired or at any time thereafter including the time that the audit was conducted. All that is necessary is to determine the adjusted cost base of the asset. In Mr. Barbieri’s case, the adjusted cost base of the loan was $20,000. Accordingly, no change in the net worth calculation is required as a result of this issue.
+$40,000 Loan From Brother [8] Mr. Barbieri testified that he borrowed $20,000 from his brother in 2004 and a further $20,000 in 2005. Although his testimony on the point was somewhat vague, it appears that he began repaying the first loan in 2004 and the second loan in 2005 and that both loans were repaid in full sometime between 2005 and 2008. These loans and their repayment were not reflected in the net worth calculation.
+[9] Even if I were to accept Mr. Barbieri’s evidence regarding these loans, it would not help him. I would have to add the outstanding value of the loans as a liability on December 31, 2005 and then reduce the amount of that liability as the loans were repaid over the course of the years in question. Doing so would increase the amount of Mr. Barbieri’s unreported income, not decrease it. The Crown did not pursue an upwards adjustment in the net worth calculation as a result of this issue. Accordingly, no change in the net worth calculation is required as a result of this issue.
+Valuation of Surrey Property [10] At the end of 2005, Mr. Barbieri owned a property in Surrey, British Columbia. He disposed of the property in 2006 at a profit and reported the capital gain on this tax return. The Minister included the property as an opening asset in the net worth calculation. The Minister listed the property at its adjusted cost base. Mr. Barbieri argues that the property should have been listed at its fair market value. Mr. Barbieri also submits that he already reported the gain when he filed his tax return so he should not be taxed on it again.
+[11] Mr. Barbieri’s concerns are unfounded. As set out above, in a net worth calculation, assets are listed at their adjusted cost base, not their fair market value. Thus, the Minister correctly listed the Surrey property at its adjusted cost base.
+[12] Furthermore, Mr. Barbieri is only being taxed once in respect of the Surrey property. Net worth calculations are designed to determine unreported income. A key step in that determination is the deduction of the income already reported by the taxpayer. In Mr. Barbieri’s case, the Minister deducted the income that Mr. Barbieri already declared and accounted for the fact that Mr. Barbieri was only taxable on 50% of his capital gain on the property. Accordingly, no change in the net worth calculation is required as a result of this issue.
+Valuation of Port Moody Property [13] Mr. Barbieri owned a property in Port Moody, British Columbia throughout the period in question. He expressed concerns that the property was listed in the net worth calculation at too low a value. I explained to Mr. Barbieri that the determination of unreported income in a net worth assessment is not affected by the value of any asset that is owned throughout the period. He appeared to accept that explanation but, in the interests of completeness, I am reiterating the point here. No change in the net worth calculation is required as a result of this issue.
+Personal Expenditures [14] At the beginning of trial Mr. Barbieri stated that he disputed the amounts that the Minister had included in the net worth calculation as personal expenditures. Mr. Barbieri did not provide any specific details as to which amounts in particular he disputed. The Appeals Officer testified on behalf of the Respondent. She explained how Mr. Barbieri’s personal expenditures had been determined. I am satisfied with the methodology that was employed. Absent any explanation (either legal or evidentiary) as to why this methodology used by the Minister was incorrect, I find no reason to vary the personal expenditures other than as described below in respect of mortgage interest.
+Ownership of Residential Properties [15] The legal titles to a property located in Mission, British Columbia and another property located in Maple Ridge, British Columbia show that Mr. Barbieri owned the properties in joint tenancy with Marco in the years in question. Mr. Barbieri is also listed as a joint tenant on Marco’s home in Burnaby, British Columbia. Mr. Barbieri is a co-borrower on the mortgages on all three of these properties.
+[16] The Minister prepared the net worth calculation on the basis that the beneficial ownership of these three properties was the same as their legal title. Thus the Minister included 50% of the adjusted cost base of the properties in the assets section of the net worth calculation and 50% of the mortgages in the liabilities section. The Minister also included 50% of the balances of various joint bank accounts that Mr. Barbieri held with Marco related to the properties in the assets section of the net worth calculation and included various payments related to the properties in the personal expenditures section of the net worth calculation.
+[17] Mr. Barbieri testified that he held his interest in these properties in trust for Marco and that the only reason that he was on title and was a co-borrower was that the banks would not lend money to Marco alone. Mr. Barbieri admits that he funded the down payments on the properties and paid various expenses relating to the properties including various mortgage payments. He submits that he made these payments because he wanted to help Marco to establish himself financially, not because he was a beneficial owner. Marco reported all of the rental income from the Mission and Maple Ridge properties on his tax returns. Mr. Barbieri testified that, when the properties were ultimately sold, Marco reported the relevant capital gains and received all of the proceeds. Trust deeds indicating that Mr. Barbieri held his interest in the properties in trust for Marco were entered into evidence for all three properties.
+[18] The question that I must determine is whether Mr. Barbieri was misleading the banks into believing that he was a beneficial owner of the properties or whether he was trying to mislead the Minister into believing that he was not a beneficial owner of the properties. The evidence is capable of supporting either conclusion. I take little comfort from the fact that Marco reported the rental income on the Mission and Maple Ridge properties as he had no other income to speak of in the years in question and thus the cost of his reporting the rental income was relatively minor.
+[19] Marco was not called as a witness. Counsel for the Respondent asked me to draw an adverse inference from that fact. I am not willing to do so. Mr. Barbieri’s 2006, 2007 and 2008 taxation years are statute barred unless the Respondent can demonstrate that Mr. Barbieri made a misrepresentation. The onus to show the misrepresentation is on the Respondent. Therefore, if the Respondent believed that Marco would have provided evidence that contradicted Mr. Barbieri’s evidence, it is the Respondent, not Mr. Barbieri, who should have called Marco as a witness.
+[20] Based on all of the foregoing, I am not satisfied that the Respondent has shown that Mr. Barbieri made a misrepresentation in failing to report rental income from the Mission and Maple Ridge properties or in claiming that he was not a beneficial owner of those properties.
+[21] I want to be clear. I have not made a finding of fact that Mr. Barbieri holds these properties in trust for Marco. I have merely concluded that the Respondent has not met its onus of showing that Mr. Barbieri was a joint beneficial owner of these properties. The effect is the same for the purposes of this Appeal, but Mr. Barbieri would be wise not to rely on my decision in this Appeal when dealing with these properties in the future.
+[22] A number of adjustments need to be made to the net worth assessment as a result of my conclusion that the Respondent has not met its onus. Some of these adjustments will have little effect on the ultimate determination of unreported income. The following are the adjustments:
+(a) The Burnaby, Mission and Maple Ridge properties must be removed from the assets portion of the net worth calculation.
+(b) The bank accounts that Mr. Barbieri held jointly with Marco must be removed from the assets portion of the net worth calculation[2].
+(c) The mortgages related to the Burnaby, Mission and Maple Ridge properties must be removed from the liabilities portion of the net worth calculation.
+(d) The $36,000 down payment that Mr. Barbieri made in respect of the Mission property must be added to the personal expenditures portion of the net worth calculation in his 2006 taxation year in accordance with his testimony that he gifted that amount to Marco.
+(e) The $13,554.75, $10,914.14 and $1,560.47 in expenditures made in 2006, 2007 and 2008 respectively from the joint bank account with an account number ending in 4103 (the “4103 Account”) must be removed from Mr. Barbieri’s personal expenditures.
+(f) The $3,258.21 and $2,355.97 in mortgage interest paid in 2006 and 2007 respectively from the 4103 Account in respect of the Burnaby property must be removed from Mr. Barbieri’s personal expenditures.
+(g) The $1,991.18 and $3,303.04 in mortgage interest paid in 2006 and 2007 respectively from the 4103 Account in respect of the Mission property must be removed from Mr. Barbieri’s personal expenditures.
+(h) During submissions, counsel for the Respondent conceded that the personal expenditures in Mr. Barbieri’s 2006, 2007 and 2008 taxation years should be reduced by mortgage interest payments totalling $12,149.08, $14,581.38 and $13,991.66 respectively in respect of the Mission, Maple Ridge and Port Moody properties to account for the fact that those payments were in respect of rental properties and were thus business expenses, not personal expenses. In light of my conclusion as to whether the Respondent has met the onus of showing that Mr. Barbieri had a beneficial interest in the Mission and Maple Ridge properties, that concession is no longer valid in respect of those properties. The concession would now only apply to a reduction of $5,497.82, $5,168.07 and $5,084.66 in respect of the Port Moody property in 2006, 2007 and 2008 respectively.
+[23] While there should also be an adjustment in the Minister’s favour in respect of certain principal payments that Mr. Barbieri made on the mortgages on one or more of the Burnaby, Mission and Maple Ridge properties, counsel for the Respondent indicated during submissions that the Respondent would not be pursuing that adjustment if I ruled in Mr. Barbieri’s favour.
+[24] During submissions, I raised a concern with counsel for the Respondent that some of the GST assessed against Mr. Barbieri appeared to relate to the exempt supply of residential rent since the Mission and Maple Ridge properties were both residential rental properties. Counsel agreed that, to the extent the unreported income was residential rental income, GST should not apply. In light of my conclusion that the Respondent has not proven that Mr. Barbieri had an interest in the Mission or Maple Ridge properties, there is no need to account for any exempt supplies in the GST assessment[3].
+Statute Barred Years [25] I have addressed the statute barred years as they relate to the Burnaby, Mission and Maple Ridge properties. The net worth calculation shows adjustments in excess of those related to the properties. I find that the Respondent has demonstrated that the remaining unexplained income is sufficiently significant for me to conclude that Mr. Barbieri made misrepresentations in reporting his income and that those misrepresentations were attributable to carelessness, neglect or wilful default.
+Conclusion [26] Based on all of the foregoing:
+(a) the Appeal in respect of the income tax reassessments is allowed and the matter referred back to the Minister for reconsideration and reassessment on the basis that the Appellant’s taxable income as determined by the net worth calculation will be adjusted on the following basis provided that the taxable income for any year shall not be increased above that already reassessed in respect of that year:
+(i) the Burnaby, Mission and Maple Ridge properties will be removed from the assets portion of the net worth calculation;
+(ii) the bank accounts that Mr. Barbieri held jointly with Marco will be removed from the assets portion of the net worth calculation;
+(iii) the mortgages related to the Burnaby, Mission and Maple Ridge properties will be removed from the liabilities portion of the net worth calculation;
+(iv) the personal expenditures portion of the net worth calculation for his 2006 taxation year will be increased by $11,698.04[4]; and
+(v) the personal expenditures portion of the net worth calculation for his 2007 and 2008 taxation years will be reduced by $21,741.22[5] and $6,645.13[6] respectively; and
+(b) the Appeal in respect of the GST assessment is allowed and the matter referred back to the Minister for reconsideration and reassessment on the basis that the amount of unremitted GST should be recalculated in accordance with the adjustments made to the calculation of Mr. Barbieri’s unreported income provided that the net tax assessed for any reporting period shall not be increased above that already assessed for that reporting period.
+Costs [27] Given the parties’ mixed success and in light of the Respondent’s decision not to pursue a number of upwards adjustments that should have been made to Mr. Barbieri’s income, I will not be awarding costs.
+Signed at Ottawa, Canada, this 22nd day of January 2015.
+“David E. Graham”
+Graham J.
+CITATION:
+2015 TCC 15
+COURT FILE NOS.:
+2013-2046(GST)I; 2013-2049(IT)G
+STYLE OF CAUSE:
+JOHN BARBIERI AND HMQ
+PLACE OF HEARING:
+Vancouver, British Columbia
+DATE OF HEARING:
+December 11, 2014
+REASONS FOR JUDGMENT BY:
+The Honourable Justice David E. Graham
+DATE OF JUDGMENT:
+January 22, 2015
+APPEARANCES:
+For the Appellant:
+The Appellant Himself
+Counsel for the Respondent:
+Robin S. Whittaker
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] $20,000 from gifts made to Marco during his childhood on special occasions and $20,000 from betting on horse races.
+[2] At trial, the Respondent had conceded that a $9,000 reduction should be made to one of these accounts in the 2008 taxation year. This concession is now moot.
+[3] The rental income already reported by Mr. Barbieri in respect of the Port Moody property was not included in the GST assessment so no adjustment is necessary.
+[4] $36,000.00 in down payment on the Mission property - $13,554.75 in expenditures from the 4103 Account - $3,258.21 in mortgage interest in respect of the Burnaby property - $1,991.18 in mortgage interest in respect of the Mission property - $5,497.82 in interest in respect of the Port Moody property.
+[5] $10,914.14 in expenditures from the 4103 Account + $2,355.97 in mortgage interest in respect of the Burnaby property + $3,303.04 in mortgage interest in respect of the Mission property + $5,168.07 in interest in respect of the Port Moody property.
+[6] $1,560.47 in expenditures from the 4103 Account + $5,084.66 in respect of the Port Moody property.

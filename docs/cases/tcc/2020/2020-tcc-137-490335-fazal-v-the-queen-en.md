@@ -1,0 +1,164 @@
+---
+title: "Fazal v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/490335/index.do"
+last_modified: "2020-12-16"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2020 TCC 137"
+citation2: ""
+neutral_citation: "2020 TCC 137"
+decision_date: "2020-12-16"
+language: "en"
+item_id: "490335"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4658
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2023-07-24T05:59:13.543000+00:00"
+cases_cited_count: 2
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "f91e4f9f4bb6b409d1cee6cdad266d6a58595639d3cc5b8dfad3035249b66e45"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Fazal v. The Queen
+
+- Citation: 2020 TCC 137
+- Decision date: 2020-12-16
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4658, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Fazal v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2020-12-16
+Neutral citation
+2020 TCC 137
+File numbers
+2019-1980(GST)I
+Judges and Taxing Officers
+Robert N. Fournier
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2019-1980(GST)I
+BETWEEN:
+NAZMA FAZAL,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on October 15, 2020, at Hamilton, Ontario
+Before: The Honourable Robert N. Fournier, Deputy Judge
+Appearances:
+Agent for the Appellant:
+Selman Qadri
+Counsel for the Respondent:
+Acinkoj Magok
+JUDGMENT
+For the attached reasons for judgment, the appeal from the assessment of Goods and Services Tax made under the Excise Tax Act, notice of which is dated April 20, 2018, for the reporting periods from January 1, 2011 to December 31, 2016 is allowed in part without costs, with respect to the three “periods in issue” from January 1st, 2011 ending December 31st, 2013 inclusively.
+The appeal is dismissed without cost for the “period in issue” from January 1st, 2014 to December 31st, 2014, albeit with a recommendation that the Minister exercise his discretion, with a view of affording the Appellant relief as a “small supplier”, provided he deems fit and appropriate to do so.
+With respect to the last two “periods in issue” beginning January 1st, 2015 and ending December 31st, 2016 inclusively, the appeal is also dismissed without costs. Consequently, the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment of net tax liability, and failure to file penalties, instalment interest and arrears interest, deemed appropriate in light of this judgment.
+Signed at Ottawa, Canada, this 16th day of December 2020.
+“Robert R. Fournier”
+Fournier D.J.
+Citation: 2020 TCC 137
+Date: 20201216
+Docket: 2019-1980(GST)I
+BETWEEN:
+NAZMA FAZAL,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Fournier D.J.
+[1] This appeal is in respect of an assessment under the Excise Tax Act, R.S.C. 1985. C. E-15 as amended (the “Act”) for the reporting periods from January 1, 2011 to December 31, 2016 (periods in issue) by virtue of a Notice of Assessment dated April 20, 2018. The Appellant objects asserting her GST registration was effectively cancelled in 2009. Based on the factual context upon which I will elaborate later, her perspective was that there was no obligation on her part to file GST/HST returns for the periods in issue. Nevertheless, on March 16th, 2016, it appears she did file nil returns for the reporting periods ending December 31st, 2011, 2012, 2013, 2014 and 2015. On February 28th, 2017, she filed a nil GST/HST return for the period ending December 31st, 2016.
+[2] In reply, the Attorney General of Canada (“AGC”) among its assumptions maintains the Appellant did not cancel her GST registration, alleging she remained a GST/HST registrant since March 19, 2009. Furthermore, it was alleged that during the said “periods in issue”, she made sales totalling no less than $205,519, a sum which was taxable at the rate of 13%. Finally, the AGC submits she did not incur or claim Input Tax Credits (“ITCs”) during the said “periods in issue”.
+I. Factual Context
+[3] A review of the factual context, informing the actions taken by the Appellant and leading up to these proceedings is essential. First to testify in that regard, was Selman Qadri, agent for the Appellant but also her husband, which explains his intimate knowledge of his wife’s business. He confirmed that both resided in British Columbia in 2009. For his part, he worked essentially from home as an Engineer, employed by Shelly Automation, a diversified company headquartered in North York, Ontario with offices in several parts of Canada. He also assisted the Appellant, who for her part had established a sole proprietorship known as Varx Technology. This enterprise manufactured building panels, the exact nature of these construction products being of little particular relevance for our purposes.
+[4] Selman Qadri provided much of the factual background, with his evidence later corroborated by his wife Nazma Fazal (Appellant) who testified after him. For what it’s worth, both presented as honest and reliable witnesses in my view. Of particular significance, is that in the month of February 2009, the entity known as Varx Technology was registered in British Columbia (BC Registry Services) and assigned GST/HST Registration # 81830 4099 RT0001. Interestingly enough, only a short time later in September 2009, for some reason the Appellant decided to transition from this sole proprietorship, and to incorporate her enterprise and carry on business under the name of Varx Technology Incorporated.
+[5] According to the Appellant, there were numerous telephone conversations between her and BC Registry Services, during which she expressed her intention to operate under this corporate entity only. Allegedly, she was assured the “sole proprietorship would be closed” such that from September 2009 onwards, she purported to do business as the sole director, officer and shareholder of Varx Technology Incorporated, albeit with some assistance from her husband. Though an actual date was not adduced in evidence, clearly the corporate entity was registered in British Columbia and assigned Registration # 84747 3865 RT0001. Exhibit #1 depicting a Statement of Account dated September 22nd, 2010, issued by their Ministry of Finance, showing a balance owing of $377.13, is proof of that.
+[6] As such and on the testimony of Selman Qadri and Nazma Fazal, both were left with the impression that a previous GST/HST Registration # 81830 4099 RT0001 issued to the similarly named proprietorship Varx Technology, had effectively been subsumed if not actually cancelled. Of course, this explains both their initial and consequent course of action in respect of Varx Technology Incorporated, once they relocated to the Toronto area. From a layperson’s perspective, such assumptions on their part struck me as reasonable and well-intentioned. However, on that note, I should point out that reliance on those conversations with BC Registries officials does not assist the Appellant in her plight for relief. Based on the rationale expressed by this Court in Deschamps c. R. [1] the fact an employee from that agency may have misled the Appellant, does not constitute a valid reason to allow an appeal. The law as enacted by Parliament must be applied, not a public servant’s interpretation of it.
+[7] In any event, the Appellant’s consolidation plan did not come to fruition as promptly as she had hoped. Wittingly or not, for quite a while she continued to be a GST/HST registrant from March 19th, 2009. For a time in fact, she was a “double registrant” assigned two separate GST/HST Registrations. The first was in respect of her sole proprietorship, the other associated with a similarly named corporate entity. Nazma Fazal testified that from September 2009, she continued to operate as Varx Technology Incorporated. Reading in between the lines, I surmise that her business venture(s) were not exactly a resounding success.
+[8] Nevertheless on or about September 22nd, 2010, British Columbia’s Minister of Finance issued a Notice of Assessment in respect of Varx Technology Incorporated # 84747 3865 BT0001 mailing it to an address in Surrey, BC. Filed as Exhibit #1, this statement showing a balance owed of $377.13, was paid within a month of notification. Incidentally, that would lend support for the Appellant’s belief that an original registration number assigned to the sole proprietorship had indeed been subsumed or replaced by the subsequent one assigned to her corporate entity. From that point on, the factual context becomes somewhat more complex.
+[9] For whatever reason, the Appellant and her husband evidently decided to abandon their British Columbia enterprise(s) and moved back to the Toronto area. Essentially, Varx Technology Incorporated and/or Varx Technology became dormant! Both testified that shortly after their arrival in a suburb of Toronto in July 2011, they contacted an accounting firm, by the name of Micro or Micron Management Certified Accountants. Their instructions were to prepare what “paperwork” was necessary to dissolve Varx Technology Incorporated, file returns, settle any outstanding taxes and close all related business accounts. I presume those ventures were no longer viable!
+[10] From that point on, the evidence confirms the Appellant began providing “secretarial and administrative services” for her husband, with compensation under the umbrella of a T2200. It is also evident she declared these proceeds in her tax returns for the periods in issue! The Respondent acknowledged so much in reply as well as the nil GST/HST returns filed for the periods in issue. Specifically, in its “assumptions of facts”, though it acknowledged she was providing “bookkeeping, payroll and related services”, it maintained she was a registrant with Registration # 81830 4099 RT0001, originally assigned to Varx Technology.
+[11] After relocating to the Toronto area, the Appellant followed through on her intention to terminate and dissolve all of her Varx Technology business initiatives in Surrey B.C. Husband Selman Qadri continued with his work at Shelly Automation, earning a salary and commission. Thereafter, they relied on their accountants to complete the task of wrapping up these earlier business initiatives. However assiduous their accounting firm might have been, both Selman Qadri and Nazma Fazal conceded, they might have followed up on their progress a little more diligently. Finally, four years later CRA writing from Surrey, BC, forwarded a “Pending Cancellation Notice” dated September 5th, 2014 and filed as Exhibit #2.
+[12] It confirmed the approval of the Appellant’s request to cancel her GST/HST registration in respect of Varx Technology Incorporated, effective July 31st, 2014. It is noteworthy that this notice was mailed to the Appellant’s address in Milton, ON. Clearly, the Minister and its agents knew exactly where she lived and worked! The Appellant testified that ultimately in March of 2016, she received a notice that $88.18 was owed, for the period 2009-03-19 to 2009- 12-31, an amount she paid promptly in April of 2016, this time, in respect of Varx Technology. As such, the Appellant could not be faulted for believing that the Varx Technology business was being wrapped up. However, it was not until after November 20th, 2018, that she received notification as evidenced in Exhibit #3, of a “pending cancellation notice” effective December 31, 2017 for the GST/HST Registration of Varx Technology.
+[13] Again, this latter notice was mailed to the Appellant’s address in Milton, ON. This in respect of a sole proprietorship she had hoped to shed as of September 2009. Coincidentally enough, that notice came from the Canada Revenue Agency in Summerside, Prince Edward Island, not Surrey, BC. It seems the Minister was recognizing her change of address, if not her substantial change in circumstances. That said, by Notice of Assessment dated April 20th, 2018, the Minister of National Revenue assessed the Appellant’s net tax liability for the “periods of issue”, in the amount of $26,717.47 plus failure to file penalties, installment interest and arrears interest as detailed in Schedule “A” attached and forming part of the “Reply” herein.
+[14] Adding salt to injury, days later BC Registry Services forwarded a certificate of “dissolution of sole proprietorship registration”, dated April 25, 2018, showing a retroactive date of dissolution effective December 31st, 2009. Filed as Exhibit #4, this too was mailed to her address in Milton, ON. It appears that even BC Registry Services knew where the Appellant worked and resided! Ironically, after the latter saw fit to dissolve the Varx Technology proprietorship effective December 31, 2009, months later, CRA based in Summerside, PE took up their role in this comedy of errors, purporting to finally cancel that same legal entity’s registration effective December 31, 2017. The notion of retroactive cancellations was of some initial concern to me, but I found comfort in Hamilton Hunt Co. v. Canada, where this Court gave effect to a retroactive status application. [2]
+[15] The conundrum as I perceive it is, how the Minister can reconcile the fact that a sole proprietorship dissolved as of December 31, 2009, could be recognized as the legitimate holder of a GST/HST registration number, from its issuance date, until its official cancellation effective December 31, 2017. Given these circumstances, it is little wonder this Appellant filed a Notice of Objection on May 29th, 2018. For his part by Notice of Confirmation dated March 1st, 2019, the Minister confirmed the assessment. And so, here we are and obviously, the only way this case could have found its way into our Court, is that the Minister saw fit to associate the Appellant’s revenue generated as a service provider to her husband, with a historical GST/HST registration number, issued to her sole proprietorship Varx Technology. But for that dubious association, it appears she qualified as a “small supplier” at least for a time.
+II. Analysis
+[16] In this case the Minister’s assessment is firstly based on the assumption the Appellant was a “registrant” with GS/HST Registration # 81830 4099 RT0001. To be clear that was the number initially assigned in 2009 by BC Registry Services to the Appellant’s impugned sole proprietorship, known as Varx Technology. I should not have to point out, that this is the same registration number, which presumably was subsumed or replaced, upon the incorporation of the Appellant’s enterprise, similarly named Varx Technology Incorporated, and assigned its own GST/HST Registration # 84747 3865 RT0001. That transition was effected in complete transparency with the full knowledge of all agencies. All were aware the Appellant’s previous “business activities” entailed the exploitation of technology and manufacturing of construction panels. Clearly, this had nothing to do with “secretarial and administrative services”.
+[17] In respect to her latter services, it remains a mystery to me, why the Minister would arbitrarily look to the Appellant as a “registrant”, by virtue of her historical association with a defunct sole proprietorship with a recently cancelled GST/HST Registration number. Why not target her, by virtue of her association with Varx Technology Incorporated. Perhaps it was just simply the most convenient option. More significantly, why label her as a “registrant” in respect of earnings generated in a different sector of the economy, in a different field of endeavor and an entirely different region of the country, than that which was disclosed, in her original BC application for registration. Surely when she first filled out that application form, she disclosed her “major business activity” in the context of Varx Technology with sufficient detail, as not to be confused with an independent provider of “secretarial and administrative services” operating in Ontario years later. For what it is worth, the definition of “registrant” in the Act is almost cryptic, suggesting simply, that it means a “person who is registered or has to be registered”.
+[18] All of this to say that in my view, what a “registrant” does to generate revenue matters, in fact it is largely, what defines her status. Surely, the need to elaborate on one’s “major business activity” is not simply an academic exercise of little or no significance, other than the fact, this information may be useful for statistical purposes. If the nature of the business activity is of no consequence, then why are suppliers carrying on a “taxi business” subject to special provisions in section 240 (1.1) of the Act. If the “nature of activities engaged in” is of so little consequence, why does section 129(3) authorize the Minister to recognize a “person separate” from an initial registration for “small supplier status”. This in the context of paragraph a) which reads: “the branch or division can be separately identified by reference to its location or the nature of activities engaged in”
+[19] In arriving at that conclusion, I am aware there are those who adhere to the notion that a “registrant”, is a “registrant” in all and any endeavour, until “cancellation” does them part, pursuant to section 242(2) of the Act. To a certain extent that is, the interpretation contemplated in the Act. For in order to qualify as a “small supplier” the Appellant firstly, has to establish she was not a “registrant”. Secondly, she has to account for the total amount of all revenues from her worldwide taxable supplies from all businesses and establish these were less than $30,000. Where appropriate, this calculation should include the revenues of her “associates”. Here presumably, is where the Minister purports to derive his authority to assess her, by assuming that Varx Technology (a previous registrant) was still an “associate”.
+[20] Perhaps the time has come to address that elephant in the room. The proposition that a “legal person” once designated or associated with a “registrant”, dissolved later albeit retroactively, is still responsible to collect and remit taxes based on historical GST/HST registration numbers concerns me. Particularly so when the impugned supply was generated by the Appellant in an unrelated endeavour, as an independent provider of “secretarial and administrative services”. I cannot imagine legislators enacting a statute with such a coercive purpose in mind. To interpret its provisions in such fashion in my view constitutes an ultra vires exercise of authority.
+[21] In the context of this case, the best we can say of the Minister’s position is that the Appellant was a “registrant” in name only. But for the apparent lack of diligence on the part of various agencies in authority, this Appellant would have seen her application for cancellation and dissolution processed in a more timely fashion. In the circumstances, it was but by virtue of an unending bureaucratic delay, that she remained but “technically speaking”, a “registrant”. Meanwhile as the process followed its tedious course, the Appellant made profound changes in respect of her business activities. Firstly, she abandoned and disassociated herself from all technology and manufacturing processes, exploited before in right of Varx Technology or Varx Technology Incorporated. She moved clear across the country to the Toronto area and embarked upon an entirely new and unrelated career.
+[22] She made no secret of the fact she was providing “secretarial, administrative and other related services”. She promptly reported her earnings, filing income tax returns with Canada Revenue Agency and paid income taxes. She did so under her name and not in right of some defunct sole proprietorship or as a shareholder of Varx Technology Incorporated. Essentially, over the three fiscal years from January 2011 to December 31, 2013, she operated as a “small supplier” with no obligation to apply for GST/HST registration. But for a “de minimis” overage of $250 in 2014, she might have qualified as such again. When pressed, she humoured the Minister with “nil GST/HST returns” in respect of Varx Technology. I will elaborate on that later.
+[23] In this instance, it is evident the Minister associated the name of Nazma Fazal with historical GST/HST registration numbers assigned to defunct ventures known as Varx Technology and Varx Technology Incorporated respectively. Common sense alone dictates these past ventures were totally irrelevant and unrelated to her current business activities. Oblivious to that reality, it seems the Minister opted for a convenient path of least resistance and assessed her, leaving her to her own devices to extricate herself from this administrative nightmare. At this juncture, allow me to reiterate - a “registrant” is not so flippantly defined. What’s in a name you may ask? Not to mock Shakespeare’s famous quote but in the context of the GST/HST regime, a “registrant” is much more than a number. What a “registrant” does matters!
+[24] To be clear, I appreciate the Appellant would remain a “registrant” within the meaning of the law, in respect of any business activity conducted in the field of technology and manufacturing, in association with Varx Technology Incorporated or its predecessor sole proprietorship. However, having abandoned those initiatives and moved across the country, she took steps to dissolve those ventures and to cancel all related GST/HST registrations. In terms of her new business initiatives providing “secretarial and administrative services” for her husband, in my opinion, she was not a “registrant” within the meaning of the law. As such she should have been allowed to carry on business in her new field of endeavour, without a registration number, provided she qualified as a “small supplier” of goods or services.
+[25] In passing, the factual finding upon which I base my ruling in this instance is that the Appellant was not a “registrant within the meaning of the law”. This clearly distinguishes her case from that reported in Dion c. R. [3] cited by the Respondent in support of its position. In that case, the appellant operated a hairdressing business on a scale involving as many as five employees for years. In 1991 upon application for registration, a second number was assigned to her business. In time, she reduced the scope of her activities, such that her income was less than $30,000. Her recollection was that she cancelled her registration and received confirmation by telephone to that effect. After much confusion and absent proof of cancellation, she was denied relief under s. 166 of the Act, given she was a “registrant”. Distinguishing that case from ours is that the “nature of her business activity” remained the same, albeit on a smaller scale and she was still a “registrant” within the meaning the law.
+[26] This brings us back full circle to the Minister’s assessment and the actual figures relied upon in the Respondent’s Reply, depicted in Schedule “A”. Incidentally, the Appellant took no exception as to the accuracy of those so-called “sales figures”. It appears the Appellant generated revenues totalling $23,400 in fiscal 2011, $25,632 in fiscal 2012, $28,779 in fiscal 2013, and $30,250 in fiscal 2014. Up to this point and but for a minimal overage of $250 for fiscal 2014, given these sales did not exceed $30,000, it appears the Appellant might have qualified as a “small supplier” pursuant to the provisions of section 148(1)(b) of the Act.
+[27] Of course, that status could only be afforded to her, if she was not already a “registrant” or alternatively an “associate” of another legal person, where either one of them, was saddled with GST/HST Registration # 81830 4099 RT0001. In this instance, it is not entirely evident whether the Minister purported to assessed Nazma Fazal as a “registrant” in her own right, or as associate of Varx Technology, a now defunct sole proprietorship, effective December 31, 2009. In my view, given my ruling as to what constitutes a “registrant” in this instance, it matters not either way.
+[28] For the foregoing reasons, I find that Nazma Fazal at best was a “registrant” in name only but not so, within the meaning of the law, insofar as we are concerned in these circumstances. If on the other hand, the Minister was relying on her association with Varx Technology, that entity was defunct albeit retroactively as of December 31, 2019, something in fairness, the Minister might not have been aware of at the time of his assessment on April 20th, 2018. As I intimated before, I find it hard to reconcile the notion that somehow a GST/HST registration number could survive the dissolution of its assigned holder. Based on what my math teachers in primary school taught me, zero times any given number yields the inevitable result of zero! As such if Varx Technology did not exist, association with that entity was impossible! There being no association between Varx Technology and the impugned revenues generated by the Appellant, for a time she was now a “small supplier”.
+[29] This brings us to the remaining “sales figures” of $48,618 for fiscal 2015 and $48,840 for fiscal 2016 respectively. In respect of those two “periods in issue”, I find the Minister was justified in his assessment. However, in that regard the Appellant’s liability does not arise from any previous “registrant” status nor any alleged “association”, with her defunct Varx Technology enterprises. Given her supply for those periods exceeded the $30,000 threshold, which previously afforded her “small supplier” status, now the provisions of the Act deemed her a “registrant” within the meaning of the law. Having exceeded the said limit, she was obligated, to register in her own right for a registration number and thereafter, required to collect and remit tax on the revenues generated.
+[30] When informed of this $30,000 threshold at trial, and the consequences of exceeding it, the Appellant explained she had not been advised of that contingency by her financial advisers. It is settled law that a taxpayer cannot shield herself from the provisions of the law, by blaming her financial advisers. There is a string of cases articulating that rationale. [4] It is trite to say as well, that this forum is not a court of equity with jurisdiction to review the Minister’s discretionary decisions. In respect of the period January 1st to December 31, 2014, where I noted a “de minimis” overage of $250, I invite the Minister to exercise his discretion with a view of affording the Appellant some clemency. Perhaps he could see his way to allowing her “small supplier status” pursuant to section 148(1)(b) of the Act.
+III. Disposition
+[31] For those reasons, the appeal of assessment of goods and services tax made in this case under the Act is allowed without costs, with regards to “periods in issue” beginning January 1st, 2011 and ending December 31st, 2013 inclusively. As pertains to the “period in issue” from January 1st, 2014 to December 31st, 2014 the appeal is dismissed without costs, albeit with a recommendation that the Minister exercise his discretion, with a view of affording the Appellant relief as a “small supplier”, provided he deems fit and appropriate to do so.
+32] With respect to the “periods in issue” from January 1st, 2015 to December 31st, 2016, the appeal is also dismissed without costs. Consequently, the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment of net tax liability, and failure to file penalties, instalment interest and arrears interest, deemed appropriate in light of this judgment.
+Signed at Ottawa, Canada, this 16th day of December 2020.
+“Robert R. Fournier”
+Fournier D.J.
+CITATION:
+2020 TCC 137
+COURT FILE NO.:
+2019-1980(GST)I
+STYLE OF CAUSE:
+NAZMA FAZAL AND HER MAJESTY THE QUEEN,
+PLACE OF HEARING:
+Hamilton, Ontario
+DATE OF HEARING:
+October 15, 2020
+REASONS FOR JUDGMENT BY:
+The Honourable Robert N. Fournier, Deputy Judge
+DATE OF JUDGMENT:
+December 16, 2020
+APPEARANCES:
+Agent for the Appellant:
+Selman Qadri
+Counsel for the Respondent:
+Acinkoj Magok
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+N/A
+Firm:
+N/A
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Deschamps c. R. 2014 TCC 181; [2014] G.S.T.C. 77; 2014 CCI 181 at para 5
+[2] See Hamilton Hunt Co. v. Canada [1999] T.C.J. No 860 at para 5
+[3] Dion c. R. [2002] G.S.T.C. 96 2004 G.T.C. 95 [2003] G.S.T.C. 181 (Tax Court of Canada) Informal.
+[4] Nesbitt v. The Queen 96 D.T.C. 6045; College Park Motors Ltd. V. R. [2009] T.C.J. No 316 at para 13.

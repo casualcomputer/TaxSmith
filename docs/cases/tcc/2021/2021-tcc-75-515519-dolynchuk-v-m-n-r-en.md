@@ -1,0 +1,294 @@
+---
+title: "Dolynchuk v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/515519/index.do"
+last_modified: "2021-11-04"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2021 TCC 75"
+citation2: ""
+neutral_citation: "2021 TCC 75"
+decision_date: "2021-11-04"
+language: "en"
+item_id: "515519"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4473
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2023-12-01T11:18:23.719000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "a70cf571e193b209e9820d201dbbcb013e0da71c9050fcbb2b293e77396c742b"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Dolynchuk v. M.N.R.
+
+- Citation: 2021 TCC 75
+- Decision date: 2021-11-04
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4473, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Dolynchuk v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2021-11-04
+Neutral citation
+2021 TCC 75
+File numbers
+2019-3219(EI)
+Judges and Taxing Officers
+Randall S. Bocock
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2019-3219(EI)
+BETWEEN:
+BRITTANY DOLYNCHUK,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+Appeal heard on October 5, 2021, at Winnipeg, Manitoba
+Before: The Honourable Mr. Justice Randall S. Bocock
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Darren Grunau
+JUDGMENT
+WHEREAS the Court has on this date published its reasons for judgment in this appeal;
+NOW THEREFORE the appeal from the decision dated May 30, 2019 made by the Minister of National Revenue (the “Minister”) under the Employment Insurance Act, SC., 1996, c.23, for the reporting period from May 13, 2018 to October 26, 2018, is dismissed, without costs.
+Signed at Ottawa, Canada, this 4th day of November, 2021.
+“R.S. Bocock”
+Bocock J.
+Citation: 2021TCC75
+Date: 20211104
+Docket: 2019-3219(EI)
+BETWEEN:
+BRITTANY DOLYNCHUK,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGMENT
+Bocock J.
+I. INTRODUCTION
+[1] This is an appeal of the Minister’s decision to disallow the claim of the Appellant (“Ms. Dolynchuk”) for Employment Insurance (“EI”) otherwise payable to her under the Employment Insurance Act, SC 1996, c.23, (the “EI Act”).
+[2] The denial followed a ruling on insurability concerning employment spanning May 13, 2018 to October 26, 2018 (the “Period”). Broadly, the Minister’s decided that the earnings earned by Ms. Dolynchuk as an employee were not insurable because:
+i) The employer and employee were not dealing with each other at arms length;
+ii) The circumstances of employment were not typical of arm’s length parties; and,
+iii) In the circumstances of the employment, Ms. Dolynchuk and the employer, if arm’s length, would not enter into such a contract of employment.
+[3] This is an often litigated question before the Tax Court. Generally, employees are excluded from accruing insurable earnings when employed by non-arm’s length employers (the “exclusion”). Excepted from the exclusion are situations, where, having regard to the circumstances of the specific employment arrangement, is it reasonable to conclude that arm’s length parties would enter into a similar contract (the “exception”). In short, there is an arm’s length analogy forming an exception to the non-arm’s length exclusion.
+[4] Any acceptable exception for non-arm’s length parties depends upon the facts and circumstances of the arrangement. The question is, do they fit within the reasonable corridor within which arm’s length parties would conclude an employment contract? Outside that corridor, such arrangements are too lenient or too onerous on the employer and/or employee. If too lenient on the employee, an arm’s length employer would not hire. If too onerous, no employee would accept. An unreasonable arrangement may contain terms and conditions which are both too lenient and too onerous.
+[5] The question before the Court and its consequent task is to verify where the Minister properly considered the objective facts of the working relationship, to determine whether there are relevant new or unconsidered facts and assess based upon those tasks, whether the Minister’s decision remains reasonable.
+II. FACTS
+[6] After hearing the testimony of Ms. Dolynchuk, the Court determines the following facts are relevant in the circumstances of her employment relative to remuneration, terms and conditions, and the duration and the nature and importance of the work performed.
+[7] On May 13, 2018, Ms. Dolynchuk began work with Fox Plumbing and Heating Inc. (“Fox Plumbing”). Her common law spouse, Derek Fox (“Derek”), owned one-half of the controlling shares of Fox Plumbing. On October 26, 2018, Ms. Dolynchuk ended her paid employment with Fox Plumbing. Two days later, she gave birth to a son. During the first three months of the Period, her position with Fox Plumbing was not her only job. Until July 27, 2018, she also worked for Club Monaco as a senior seller of clothing.
+[8] During the over-lapping period, Ms. Dolynchuk’s actual hours of service provided to both employers are summarized below as calculated within bi-weekly periods:
+Period Ending
+Fox Plumbing
+Club Monaco
+Total (rounded)
+May 26, 2018
+110
+29.93
+140
+June 9, 2018
+80
+25.05
+105
+June 23, 2018
+80
+25.95
+106
+July 7, 2018
+80
+43.82
+124
+July 27, 2018
+80
+13.54
+94
+Aug 8, 2018
+80
+4.85
+85
+[9] Ms. Dolynchuk disputed whether the record of employment (“ROE”) with Club Monaco accurately reflected hours actually work. She suggested the ROE included “banked” vacation time saved and then allocated by some formula to insurable earnings and insurable hours.
+[10] Health issues impacted Ms. Dolynchuk employment choices. Ms. Dolynchuk suffers from a thyroid condition and experienced what might be called a difficult pregnancy, the later stages of which spanned the Period culminating in delivery on October 28, 2018. Ms. Dolynchuk left Club Monaco because of these complications. That job involved much standing, interaction and the need to maintain a sales oriented demeanour.
+[11] By contrast, the job at Fox Plumbing generally included bookkeeping, clerical and office manager duties. The office was located in the basement of the joint residence of Derek and Ms. Dolynchuk. Her hours of work were flexible: Ms. Dolynchuk set and worked her own schedule, rarely beginning before mid-day. The specific tasks included assembling data for payroll, receivables, payables, invoicing and the like. Pricing, selling and quoting were not part of her job. For all such tasks, Ms. Dolynchuk was paid $24 an hour until August when the rate of pay increased to $30. No one performed such a job for Fox Plumbing prior or after the Period, until Ms. Dolynchuk returned to the position approximately one year later in November 2019. Ms. Dolynchuk was officially paid on a monthly basis. The actual payment of her wages occurred monthly on a consistent basis for the months of May, June and July (more or less). In the usual fashion, payment was made after the full month’s wages were accrued and owing. This changed in August, September and October as detailed in the chart below. The accrual of wages and their actual (pre) payment followed the corresponding pattern for the Period:
+CHART 5(a).1
+Month
+Next Monthly Pay per Payroll Sheet
+Total Amount Paid
+Dates Paid (2018)
+Rate of Pay/ Hour
+Total Hours
+Total Regular Pay
+May 2018
+2,992.89
+2,992.89
+June 9:
+2,992.89
+24
+160
+3,840.00
+June 2018
+2,992.89
+2,992.89
+June 29:
+2,992.89
+24
+160
+3,840.00
+July 2018
+2,992.89
+2,992.89
+July 31: August 3:
+2,000
+992.89
+24
+160
+3,840.00
+August 2018
+3,592.89
+3,592.89
+August 7: August 29: August 31: August 31:
+600
+1,000 1,000
+992.89
+30
+160
+4,783.58
+September 2018
+3,300.00
+3,300.00
+September 12: September 18: September 21:
+1,100
+300
+2,000
+30
+160
+4,318.71
+October 2018
+2,500.00
+2,500.00
+September 25: October 3: October 11:
+1,000
+500
+1,000
+30
+104
+3,127.60
+[12] Ms. Dolynchuk indicated that her pay was monthly from the outset, but at some point was “not working for me”.
+[13] Ms. Dolynchuk’s recorded hours on her ROE for the Period at Fox Plumbing were consistently 35.52 insurable hours and $988 for insurable earnings for each and every, one-week pay period from May 13 to October 28, 2018. Ms. Dolynchuk testified that other workers received pay advances from time to time upon a specific request to Derek, “… sometimes for $100 if needed”.
+[14] She also testified that her ROE was completed by Derek without her help and the constant amount of time formulaically allocated for each week and insurable earnings was imposed upon Fox Plumbing by virtue of the CRA’s on-line template and Ms. Dolynchuk’s “monthly irregular” pay cycle.
+[15] Other employees were paid in bi-weekly or weekly pay cycles and were required to submit time sheets on the Monday following the completion of the pay period. Ms. Dolynchuk’s time sheets were not submitted, but an illustrative aid reflecting each pre-printed calendar month with handwritten numbers for each day on undated, unidentified, anonymous, proforma calendar sheets was instead submitted in argument to Court. Ms. Dolynchuk suggested these were entirely reflective of time sheets, had she completed them.
+[16] Ms. Dolynchuk was paid an “average” of one week’s wages in advance of commencing her official employment with Fox Plumbing on May 13, 2018 (the “make-up payment”). Ms. Dolynchuk asserted this “average wage” related to emergent assistance provided by her to Fox Plumbing because of a “computer crash” in early May, which necessitated her provision of the assistance. This massive loss of data became an impetus for Ms. Dolynchuk’s hire although it quickly transformed into the longer term position described above. No one replaced Ms. Dolynchuk in October, 2018 because Derek loss 2 or 3 workers, decided to do most work himself, re-located for job purposes to Northern Manitoba and decided to do all the office work during the “slow period” of November 2018 to October 2019.
+[17] The monthly payroll sheets reflected a consistent hourly rate of pay across each month based upon the number of aggregate hours. However, the product of the number of hours of 160, 160, 104 for each of August, September and October, respectively, each contained mathematical errors. The product did not equal the multiplication of the rate of pay and hours worked in each of those months. Ms. Dolynchuk acknowledged the errors, but failed to explain how or why they arose.
+[18] Ms. Dolynchuk filed, as required, an application for EI benefits corresponding to her parental leave period following October 2018. In the application, she stated the rate of pay was 24.70 per hour. In the application she also wrote, in error by her testimony, that she was “performing duties for the employer without pay” after ceasing to be an employee on October 26, 2018. In the EI application itself, she reported her hourly insurable earnings of $988.00 for each week. Presumably, this was done to coincide with the formulaic ROE.
+III. THE LAW
+a) The Statutory Regime
+[19] Sub-section 5(1) of the EI Act provides for a definition of sorts of insurable employment where it states (with deliberate omissions of immaterial words to this appeal):
+5(1) Subject to subsection (2), insurable employment is
+(a) employment in Canada […] under any express or implied contract of service or apprenticeship, written or oral, […]
+[20] Accordingly, the legal issue as stated at the outset is whether any worker is an employee under contract (or service or apprenticeship) or a contractor retained for a specific service under a fixed or variable priced contract. There is no dispute on this point: Ms. Dolynchuk was an employee.
+[21] An exclusion exists within the EI Act, which provides that notwithstanding the existence of an express or implied contract of service (i.e. that of employment), no one shall be deemed to be an employee by virtue of subsection 5(2). That subsection states:
+5(2) Insurable employment does not include
+[…]
+(i) employment if the employer and employee are not dealing with each other at arm’s length.
+[22] From a policy perspective this subsection, which necessities the exception below, is often described as seeking to prevent non-arm’s length parties from establishing unrealistic or unreasonable positions within closely held family companies which afford subsequent unwarranted claims for EI benefits. Therefore, in order to preserve EI benefits for bona fide family employees, Parliament enacted the exception to the exclusion under sub-paragraph 5(3)(b). This provides as follows (again with appropriate immaterial deletions):
+5(3)(b) if the employer is, related to the employee, they are deemed to deal with each other at arm’s length if the Minister of National Revenue is satisfied that, having regard to all the circumstances of the employment, including the remuneration paid, the terms and conditions, the duration and the nature and importance of the work performed, it is reasonable to conclude that they would have entered into a substantially similar contract of employment if they had been dealing with each other at arm’s length.
+b) Authorities
+[23] The leading authority on the issue is Francine Légaré v. the Minister of National Revenue, 1999 CarswellNat 1458 (FCA). Specifically that decision of the Federal Court of Appeal provides as follows:
+4. The Act requires the Minister to make a determination based on his own conviction drawn from a review of the file. The wording used introduces a form of subjective element, and while this has been called a discretionary power of the Minister, this characterization should not obscure the fact that the exercise of this power must clearly be completely and exclusively based on an objective appreciation of known or inferred facts. And the Minister's determination is subject to review. In fact, the Act confers the power of review on the Tax Court of Canada on the basis of what is discovered in an inquiry carried out in the presence of all interested parties. The Court is not mandated to make the same kind of determination as the Minister and thus cannot purely and simply substitute its assessment for that of the Minister: that falls under the Minister's so-called discretionary power. However, the Court must verify whether the facts inferred or relied on by the Minister are real and were correctly assessed having regard to the context in which they occurred, and after doing so, it must decide whether the conclusion with which the Minister was "satisfied" still seems reasonable.
+[24] Within this Court, Justice Sommerfeldt provided a summary of the implications of this authority in Lalande v. MNR, 2016 TCC 33 when he stated:
+[31] The following principles are derived from the cases referred to above:
+(a) When reviewing a conclusion of the Minister in the context of paragraph 5(3)(b) of the EIA, this Court is to verify the facts inferred or relied on by the Minister, in order to confirm that those facts are real and were correctly assessed by the Minister.
+(b) After investigating all the facts, this Court must decide whether the Minister’s conclusion seems reasonable.
+(c) The EIA requires this Court to show some deference to the Minister’s initial assessment.
+(d) When there are no new facts and there is nothing to indicate that the known facts were misunderstood by the Minister, this Court is not to substitute its opinion for that of the Minister.
+[25] Restated, the issue before this Court is whether the relationship of employment, having regard to all the circumstances of the employment – remuneration, terms, duration and nature of the work – would have been entered into by arm’s length parties. Simply, does the employment relationship fall with the reasonable corridor unrelated parties would willingly occupy. To assess this, the Court will analyze the facts relied upon by the Minister, investigate any further or misinterpreted facts and be somewhat deferential to the Minister’s initial assessment, as required. Lastly, to the extent there are no new facts or misinterpreted ones, the Court is required to endorse the decision of the Minister and dismiss the appeal.
+IV. MS. DOLYNCHUK’S SUBMISSIONS
+[26] Ms. Dolynchuk disagrees with the Minister’s facts and assessment in certain critical areas. These assertions and submissions may be summarized as follows:
+a) There were no services performed before or after the Period. The services provided and recompensed by the catch-up payment were insignificant and not measurable. No “price could be put on this as a wage”. The catch-up payment was effectively a way of resetting the clock prior to the commencement of measurable and valuable services. No services at all were performed after the Period by Ms. Dolynchuk until her return to paid work in November 2019;
+b) No one else was hired before or after the Period because of the coincidental needs and demands of Fox Plumbing. Prior to the Period, the business was not as busy, the computer had not yet crashed and office services were not needed. After the Period, in Winnipeg at least, business had dwindled and Derek, himself, took over the existing contracts in Northern Manitoba’s indigenous communities;
+c) Formal timesheets were not required. Nothing should be inferred from the absence of formal timesheets. The time was consistently 40 hours a week “more or less”, as reflected in the remuneration. Such a consistent amount of time, provided throughout the day and week, would not be any better reflected in formal time sheets;
+d) The advances or prepayments in August, September and October represented a change in pay cycle and period. The monthly pay cycle was not sufficient for Ms. Dolynchuk. Other employees were paid on a weekly or bi-weekly basis. Further, other employees were also paid advances which was common practice in the business; and,
+e) In short, each of the Minister’s critical conclusions of wages paid in advance or not otherwise corresponding to wages owing, the improper and inconsistent record of hours and periods and the provision of employment services before and after the Period is inaccurate.
+V. THE MINISTER’S FINDINGS OF FACT AND RATIONALE
+[27] The Court now analyzes the factors above:
+a) Verification of facts the Minister inferred or upon which she relied
+[28] There were over 34 assumptions of fact in the Minister’s reply, all of which corresponded to the factual statements contained in the May 30, 2019 decision. Of these, only 7 were contested by Ms. Dolynchuk before the Court. These assumptions related to the following consolidated, general issues:
+i) Whether similar employer would or would not access unrestricted have set her own schedule and hours or had access to the office space in the residence;
+ii) The provision of services without pay before and after the Period and while on parental leave; and,
+iii) Payment before accrual of time for services, pay increase, and payment based upon cash flow or profitability.
+[29] While the Court will analyze each one of the above three issues distinctly below, the Court identifies that the balance of the Minister’s assumptions were not challenged or were otherwise determined by the Court, on balance, to be accurate and correct.
+[30] Specifically, the Court observes and notes below its findings and confirmations from the evidence in the facts section above:
+i) The mathematical errors in the product of monthly hours and rate of pay;
+ii) The payment of irregular amounts on account of wages in August, September and October, increasingly in advance of the expending and accrual of such services;
+iii) The coincidence of Ms. Dolynchuk’s employment and hours with Fox Plumbing after the cessation of employment with Club Monaco; she precisely achieved 26 weeks of employment otherwise required to collect EI benefits during parental leave; and,
+iv) The increase of pay arising coincidentally after her cessation of employment with Club Monaco.
+b) Does the Minister’s conclusion seem reasonable
+[31] Most assumptions made remain unaltered after the hearing of evidence and the notes, observations and conclusions drawn by the Court. Based upon the consistent assumptions and the balanced interpretation of the facts, the Minister’s initial decision is reasonable.
+c) New facts or ministerial misunderstandings?
+[32] The evidence presented at the trial did not assist Ms. Dolynchuk with her assertion of Ministerial error, oversight or exaggeration.
+[33] No single document submitted which reflected hours actually worked, the correspondent payment with pay periods or the credible hours worked at two jobs by an unwell expectant mother, consistently accorded with any other. Pay calculations were incorrect. The ROE for Fox Plumbing was prepared without due regard to the reality of worked hours. The EI application contained errors, one critical to the assessment of work supplied without pay. There were no pay sheets, where other employees had them. As the Period wore on, payment of wages became more erratic, reflecting odd amounts increasingly detached from services actually performed or from a legal obligation to pay by Fox Plumbing.
+[34] By comparison, certain services were provided before and after the Period. Although slight and perhaps not considerable, they bear the tell tale hallmark of a non-arms length relationship, never present in third party arms length arrangements.
+[35] As to Ms. Dolynchuk’s submissions, the Court departs from her interpretation.
+[36] She did provide services before her “official” start for employment. Hence the “reset” payment to purify the record. Some services, indicative of a non-arm’s length relationship, were performed after the Period. Ms. Dolynchuk stated she was present when Derek was struggling with the ROE. She observed and described in detail the challenge with the CRA’s website. This is not arm’s length.
+[37] The coincidental hiring of Ms. Dolynchuk after May 2018 and her termination two days before the birth of her child, again reflect a choreographed or, at least, a syncopated, coincidental meshing of Ms. Dolynchuk’s personal needs into what is normally a reciprocal needs based hiring and termination of employment relationship. The Club Monaco cessation adds to the coincidence.
+[38] Formal timesheets were required for other employees, but not Ms. Dolynchuk. This is indicative of a favoured or special relationship, not otherwise afforded to arm’s length employees.
+[39] Perhaps the most apparent outlier of normal arm’s length circumstances are the irregular, advanced and de-linked pays during August, September and October. While, as Ms. Dolynchuk stated, other arm’s length employees “occasionally” received advances of “$100 or so”, they did not receive pay from Fox Plumbing for an entire month on irregular dates, unconnected to usual pay dates and fully in advance of sufficiently accrued hours.
+VI. CONCLUSION
+[40] For the reasons stated, the Court finds that, in the circumstances, the arrangement between Ms. Dolynchuk and Fox Plumbing was outside the acceptable corridor normally occupied by arm’s length employees and employers. The Minister reasonably identified this in her finding, there are no contrary or new facts which are inconsistent with that initial decision and the Court will therefore not set aside the decision. The appeal is dismissed.
+[41] As is normal and usual in such appeals, there shall be no award of costs.
+Signed at Ottawa, Canada, this 4th day of November, 2021.
+“R.S. Bocock”
+Bocock J.
+CITATION:
+2021TCC75
+COURT FILE NO.:
+2019-3219(EI)
+STYLE OF CAUSE:
+BRITTANY DOLYNCHUK AND THE MINISTER OF NATIONAL REVENUE
+PLACE OF HEARING:
+Winnipeg, Manitoba
+DATE OF HEARING:
+October 5, 2021
+REASONS FOR JUDGMENT BY:
+The Honourable Mr. Justice Randall S. Bocock
+DATE OF JUDGMENT:
+November 4, 2021
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Darren Grunau
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Blank
+Firm:
+Blank
+For the Respondent:
+François Daigle
+Deputy Attorney General of Canada
+Ottawa, Canada

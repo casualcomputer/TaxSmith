@@ -1,0 +1,701 @@
+---
+title: "Azrak c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28622/index.do"
+last_modified: "2008-04-28"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 CCI 217"
+citation2: ""
+neutral_citation: "2008 CCI 217"
+decision_date: "2008-04-28"
+language: "fr"
+item_id: "28622"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1154
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T10:51:24.820000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "d72436ea54581017c7661a3ccaec3c7cbbe183d32a4a0796e9c02acd67b38f33"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Azrak c. La Reine
+
+- Citation: 2008 CCI 217
+- Decision date: 2008-04-28
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1154, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Azrak c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-04-28
+Référence neutre
+2008 CCI 217
+Numéro de dossier
+2007-3116(IT)I
+Juges et Officiers taxateurs
+Paul Bédard
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2007-3116(IT)I
+ENTRE :
+JOSEPH AZRAK,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 14 mars 2008, à Montréal (Québec)
+Devant : L'honorable juge Paul Bédard
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocat de l'intimée :
+Me Alain Gareau
+____________________________________________________________________
+JUGEMENT
+L’appel des nouvelles cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 2003 et 2004 est rejeté, selon les motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 28e jour d'avril 2008.
+« Paul Bédard »
+Juge Bédard
+Référence : 2008CCI217
+Date : 20080428
+Dossier : 2007-3116(IT)I
+ENTRE :
+JOSEPH AZRAK,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Bédard
+[1] La question en litige est relativement simple : il s’agit de déterminer si les pertes découlant de la disposition d’actions cotées en bourse pouvaient être déduites dans le calcul du revenu de l’appelant à titre de pertes d’entreprise. S’agissait-il en l’espèce de pertes d’entreprise ou de pertes en capital?
+[2] En produisant ses déclarations de revenus, l’appelant a déduit des pertes d’entreprise de 23 840 $ pour l’année d’imposition 2003 et de 29 671 $ pour l’année d’imposition 2004.
+[3] Par avis de nouvelle cotisation datés du 18 décembre 2006, le ministre du Revenu national (le « Ministre ») a annulé les pertes d’entreprise déduites pour les années d’imposition 2003 et 2004 et enregistré dans le dossier de l’appelant une perte en capital de 23 840 $ pour l’année d’imposition 2003 et de 23 417 $ pour l’année d’imposition 2004.
+[4] Le ou vers le 2 février 2007, l’appelant a signifié au Ministre un avis d’opposition à l’encontre des nouvelles cotisations du 18 décembre 2006 pour les années d’imposition 2003 et 2004.
+[5] Le 20 juin 2007, le Ministre a ratifié, pour les années d’imposition 2003 et 2004, les nouvelles cotisations du 18 décembre 2006.
+[6] Le 3 juillet 2007, l’appelant a interjeté appel auprès de la Cour pour faire annuler les nouvelles cotisations du 18 décembre 2006 concernant les années d’imposition 2003 et 2004.
+[7] Pour établir et ratifier les nouvelles cotisations à l’égard des années d’imposition 2003 et 2004, le Ministre a tenu pour acquis les mêmes hypothèses, à savoir :
+a) Au cours des années en litige, l’appelant occupait un emploi auprès de la société Hani Autos Inc; (admis)
+b) Ses revenus d’emploi s’élevaient à 52 850 $ pour l’année d’imposition 2003 et à 79 875 $ pour l’année d’imposition 2004; (admis)
+c) L’appelant n’a pas de formation professionnelle dans le domaine des valeurs mobilières; (nié)
+d) Au cours de l’année d’imposition 2003, l’appelant a réalisé trois transactions de valeurs mobilières, lesquelles ont résulté en une perte de 23 839 $; (nié)
+e) Au cours de l’année d’imposition 2004, l’appelant a réalisé 15 transactions de valeurs mobilières, lesquelles ont résulté en une perte de 23 417 $; (admis)
+f) Au cours de l’année d’imposition 2000, l’appelant a réalisé un profit lors de la disposition de valeurs mobilières et ce gain a été cotisé par l’intimée en tant que gain en capital. (admis)
+[8] Les achats et ventes d’actions réalisés par l’appelant ainsi que leur prix, et les dates d’achats et de ventes pour l’année 2000 sont décrits à l’annexe « A » jointe aux présents motifs.
+[9] Les achats et ventes d’actions réalisés par l’appelant ainsi que leur prix, et les dates d’achats et de ventes pour l’année 2001 sont décrits à l’annexe « B » jointe aux présents motifs.
+[10] Les achats et ventes d’actions réalisés par l’appelant ainsi que leur prix, et les dates d’achats et de ventes pour l’année 2002 sont décrits à l’annexe « C » jointe aux présents motifs.
+[11] Les achats et ventes d’actions réalisés par l’appelant ainsi que leur prix, et les dates d’achats et de ventes pour l’année 2003 sont décrits à l’annexe « D » jointe aux présents motifs.
+[12] Les achats et ventes d’actions réalisés par l’appelant ainsi que leur prix, et les dates d’achats et de ventes pour l’année 2004 sont décrits à l’annexe « E » jointe aux présents motifs.
+[13] Il ressort ainsi de la preuve que l’appelant a acheté des actions cotées en bourse pour un montant de 188 071 $, de 408 584 $, de 188 346 $, de 44 671 $ et de 117 016 $ en 2000, 2001, 2002, 2003 et 2004 respectivement. Il ressort par ailleurs de la preuve que l’appelant a vendu des actions cotées en bourse pour un montant de 200 623 $, de 414 143 $, de 159 761 $, de 19 522 $ et de 93 040 $ en 2000, 2001, 2002, 2003 et 2004 respectivement.
+[14] L’appelant a témoigné que :
+a) il avait travaillé pendant les années 2003 et 2004, à titre d’employé, environ 40 heures par semaine;
+b) lui et les membres de sa famille avaient consacré environ 80 heures par semaine pendant les années en question à l’étude du marché des valeurs mobilières et à la recherche d’occasions d’achat;
+c) pendant les années d’imposition 2000 et 2001, il avait réalisé, lors de la disposition d’actions cotées en bourse, des profits de 12 589 $ et de 8 393 $ respectivement, profits qu’il avait traités comme des gains en capital dans ses déclarations de revenus pour ces mêmes années;
+d) pendant l’année d’imposition 2002, il avait réalisé lors de la disposition d’actions cotées en bourse, une perte de 28 586 $, perte qu’il avait traitée comme une perte en capital dans sa déclaration de revenus pour cette même année;
+e) en 1999, il avait exploité activement une entreprise d’achat et de vente de bijoux et une entreprise d’investissement dans le marché boursier. Le 26 avril 1999, à titre de personne physique exploitant une entreprise individuelle, l’appelant avait produit une déclaration d’immatriculation (pièce A-3) à l’effet qu’il exploitait ces deux entreprises. L’appelant a expliqué qu’en 2000 il avait cessé d’exploiter activement son entreprise d’investissement dans le marché boursier parce que les actions cotées en bourse « étaient alors à leur sommet » et que c’est pour cette raison qu’il avait produit le 4 juin 2000 auprès de l’Inspecteur général des institutions financières une déclaration de radiation de son entreprise d’investissement (pièce A-6). L’appelant a ajouté qu’il avait recommencé à exploiter activement son entreprise d’investissement en décembre 2003 et que c’est pour cette raison qu’il avait produit à nouveau en avril 2004 (pièce A-11) une déclaration d’immatriculation à l’effet qu’il avait recommencé à exploiter son entreprise d’investissement.
+[15] Je souligne par ailleurs que le témoignage de l’appelant était, tout compte fait, silencieux à l’égard de ses connaissances et de sa formation dans le domaine des valeurs mobilières, de sa stratégie de placement et de ses outils de recherche.
+Position de l’appelant
+[16] L’appelant a soutenu que les profits et les pertes réalisés en 2000, 2001 et 2002 sur la disposition de ses actions cotées en bourse pendant ces années avaient été traitées comme des gains et des pertes en capital parce qu’il n’avait pas exploité d’entreprise de placement pendant ces années comme en faisait foi les déclarations d’immatriculation qu’il avait produites. Par ailleurs, il soutient que les pertes réalisées en 2003 et 2004 sur la disposition de ses actions cotées en bourse pendant ces mêmes années doivent être considérées comme des gains et des pertes d’entreprise puisqu’il avait exploité une entreprise de placement pendant ces années comme en faisant foi la déclaration d’immatriculation qu’il avait produite.
+Analyse et conclusion
+[17] De façon générale, le résultat d'une opération est un gain (ou une perte) en capital dans la mesure où il y a une compatibilité avec la notion de placement, c'est-à-dire lorsqu'il s'agit de la disposition d'un bien acquis dans la perspective d'un rendement financier (c.-à-d. pour tirer un revenu de biens ou d'une entreprise) ou encore pour des fins personnelles. Au contraire, le résultat d'une opération est considéré comme un revenu (ou une perte) d'entreprise lorsque l'opération s'apparente à la notion d'entreprise, de commerce, de spéculation ou encore à une affaire ou un projet de caractère commercial.
+[18] En l'absence de définitions données dans les lois, plusieurs critères ont donc dû être élaborés par les tribunaux dans leur effort de caractériser un gain ou une perte résultant d'un travail particulier. On doit se rappeler cependant qu'un critère pris isolement n'est pas nécessairement suffisant ou déterminant et qu'il faut donc dans chaque cas examiner toutes les circonstances dans lesquelles a eu lieu une opération. Parmi les critères ou éléments les plus souvent utilisés, on peut signaler les suivants :
+i) l'intention véritable du contribuable, telle que manifestée par sa conduite et telle que démontrée par les circonstances dans lesquelles ont eu lieu les opérations;
+ii) le temps écoulé entre l'achat et la vente;
+iii) la répétition d'opérations semblables (un historique d'achats et de ventes intensifs de valeurs mobilières);
+iv) la nature des valeurs mobilières (sont-elles de nature spéculative?);
+v) est-ce que les opérations sont semblables à celles que ferait un courtier en valeurs mobilières ou encore sont-elles faites de la même façon? En ce sens, est-ce que le contribuable consacre une partie importante de son temps à l'étude du marché des valeurs mobilières et à la recherche d'occasions d'achat? Est-ce que les valeurs mobilières sont principalement achetées sur marge ou financées par d'autres genres de dettes?
+[19] L’appelant doit d’abord comprendre que la production d’une déclaration d’immatriculation à l’effet qu’il exploite une entreprise de placement ne lui assure aucunement que les profits et pertes résultant de la disposition de valeurs mobilières dans une année donnée sont pour autant, aux fins de la Loi, des gains ou des pertes d’entreprise, selon le cas, dans cette même année. La déclaration d’immatriculation est un élément dont il faut tenir compte dans notre analyse. Toutefois, je suis d’avis que cet élément n’est aucunement déterminant. La production par l’appelant de déclarations d’immatriculation à l’effet qu’il avait exploité en 1999, 2003 et 2004 une entreprise de placement et qu’il avait cessé d’exploiter cette même entreprise en 2000, 2001 et 2002 est d’autant moins déterminante en l’espèce que les opérations étaient plus nombreuses et leur valeur en termes monétaires plus élevée dans les années où la déclaration d’immatriculation est à l’effet qu’il avait cessé d’exploiter son entreprise de placement.
+[20] L’appelant achetait des actions cotées en bourse (comme le font des milliers de canadiens) pour faire un profit. Toutefois, rien dans la preuve soumise n’indique que les opérations de l’appelant s’apparentaient à la notion d’entreprise et de commerce, de spéculation ou encore à une affaire ou un projet à caractère commercial. En l’espèce, les valeurs mobilières transigées n’étaient pas de nature spéculative. Les opérations étaient peu nombreuses (aucun achat en 2003, 14 en 2004, une vente en 2003 et 12 ventes en 2004). Les actions vendues en 2003 étaient détenues depuis environ deux ans. Le fait que la période de détention des actions était généralement plus courte en 2004 n’est pas en soi déterminant quant à la nature des pertes subies par l’appelant. L’appelant n’a soumis aucune preuve démontrant que ses opérations étaient semblables à celles d’un commerçant ou d’un courtier et qu’elles étaient faites de la même façon.
+[21] Pour ces motifs, l’appel est rejeté.
+Signé à Ottawa, Canada, ce 28e jour d'avril 2008.
+« Paul Bédard »
+Juge Bédard
+ANNEXE « A »
+I. RAPPORT 2000
+DATE
+D’ACHAT
+TITRE
+PARTS
+ACHAT
+DATE DE
+VENTE
+VENTE
+PROFIT
+PERTE
+30 NOV 00
+BBD,B
+500
+11485.50
+08 DEC 00
+11970.50
+485.00
+18 SEP 00
+INVT
+1450
+2210.27
+19 SEP 00
+3168.07
+957.80 CA
+02 NOV 00
+INVT
+4000
+3331.60
+08 NOV 00
+3777.45
+445.85 US
+04 OCT 00
+LU
+450
+13754.35
+11 OCT 00
+14932.65
+1178.30 US
+30 OCT 00
+LU
+700
+14160.60
+03 NOV 00
+15840.11
+1679.51 US
+08 NOV 00
+WCOM
+800
+14329
+08 NOV 00
+14470.16
+140.81 US
+14 NOV 00
+WCOM
+1000
+16279.35
+17 NOV 00
+16970.08
+690.73 US
+24 NOV 00
+WCOM
+1250
+19172.85
+6 DEC 00
+20273.97
+1101.12 US
+8 DEC 00
+WCOM
+1250
+18319.10
+11 DEC 00
+19336.50
+1017.40 US
+12 DEC 00
+WCOM
+1250
+18475.35
+14 DEC 00
+19727.92 US
+1251.77 US
+TOTAL
+TOTAL
+CANADIEN
+US
+TAUX ÉCHANGE 1.4852 x
+1442.80 CA
+7505.49 US
+TOTAL
+EN CANADIEN
+12589.95
+Symboles
+Compagnies
+Activités
+BBD,B
+Bombardier
+Aéronautiques
+INVT
+InvestAmerica
+Réseau Télécommunication
+LU
+Lucent Technologies
+Télécommunication
+WCOM
+Worldcom
+Téléphonique et Télécommunication
+ANNEXE « B »
+I. RAPPORT 2001
+DATE
+D’ACHAT
+TITRE
+PARTS
+ACHAT
+DATE DE
+VENTE
+VENTE
+PROFIT
+PERTE
+20 DEC 00
+BBD,B
+520
+11703.50
+02 JAN 01
+12216.50
+513.00
+05 JAN 01
+BBD,B
+550
+12129.5
+22 JAN 01
+12730.5
+601
+8 MAR 01
+BBD,B
+650
+12932
+08 MAR 01
+13039.50
+103.5
+27 SEP 01
+BBD,B
+1000
+13479
+27 SEP 01
+13541
+62
+23 OCT 01
+BBD,B
+1000
+11289
+23 OCT 01
+1139
+102
+02 NOV 01
+BBD,B
+2000
+21060
+8 NOV 01
+21060
+502
+10 JUL 01
+ERICY
+1000
+4879.35 US
+2 AOU 01
+5070.48 US
+191.13 US
+07 SEP 01
+ERICY
+1000
+4229 US
+22 OCT 01
+4420.85 US
+191.85 US
+22 JAN 01
+QQQ
+750
+48780.6 US
+23 JAN 01
+4982.78 US
+402.18 US
+06 JUL 01
+QQQ
+250
+11434.35 US
+10 JUL 01
+11220.27 US
+<214.10> US
+05 JAN 01
+WCOM
+1450
+21431.35 US
+27 DEC 00
+21431.35 US
+1452.16 US
+16 JAN 01
+WCOM
+1000
+21216.85 US
+17 JAN 01
+21344.93 US
+128.08 US
+25 MAI 01
+WCOM
+750
+13304.35 US
+25 MAI 01
+13775.18 US
+470.83 US
+5 JUI 01
+WCOM
+750
+13266.85 US
+6 JUI 01
+13312.70 US
+45.85 US
+27 JUL 01
+WCOM
+1000
+13529.35 US
+31 JUL 01
+13970.18 US
+440.78 US
+14 AOU 01
+WCOM
+1000
+13379
+16 AOU 01
+13620.5 US
+241.54 US
+30 AOU 01
+WCOM
+1000
+13289 US
+30 AOU 01
+13370.65 US
+80.55 US
+31 AOU 01
+WCOM
+1000
+13120 US
+10 SEP 01
+13220.55 US
+91.55 US
+29 OCT 01
+WCOM
+1000
+12074 US
+29 OCT 01
+12120.59 US
+46.59 US
+21 DEC 01
+NT
+1000
+11925.1
+31 DEC 01
+12031
+106 US
+14 JUI 01
+AVA
+37
+DIVIDENT
+14 JUIN 01
+529.33
+529.33 US
+TOTAL
+TAUX US 1.5484 x 4204.32
+CA
+CA
+1883.50
+6509.96
+8393.46
+Symboles
+Compagnies
+Activités
+BBD,B
+Bombardier
+Aéronautiques
+ERICY
+Ericsson Téléphone
+Téléphones
+QQQ
+Nasdaq 100 shares
+Top 100 cie pour la technologie
+WCOM
+Worldcom
+Téléphonique et Télécommunication
+NT
+Nortel Networks
+Télécommunication
+AVA
+Avaya
+Équipement Télécom
+ANNEXE « C »
+I. RAPPORT 2002
+DATE
+D’ACHAT
+TITRE
+PARTS
+ACHAT
+DATE DE
+VENTE
+VENTE
+PROFIT
+PERTE
+14 JAN 02
+BMO
+1000
+36229
+14 JAN 02
+36301
+72
+16 JAN 02
+BMO
+1000
+36069
+27 JAN 02
+36371
+302
+12 FEV 02
+QQQ
+700
+24839 US
+13 FEV 02
+24897.6 US
+58.62 US
+04 JAN 02
+WCOM
+1000
+14109 US
+7 JAN 02
+14250.78 US
+141.78 US
+14 JAN 02
+WCOM
+2000
+26298 US
+7 FEV 02
+16239 US
+<10058> US
+12 AVR 02
+WCOM
+1500
+8670 US
+5 JUL 02
+85.98 US
+<8584.02> US
+TOTAL
+TAUX US 1.5704 x
+<18642> US
+<29275> CA
+688.70 CA
+PERTE EN 2002
+<28586> CA
+ANNEXE « D »
+I. RAPPORT 2003
+DATE
+D’ACHAT
+TITRE
+PARTS
+ACHAT
+DATE DE
+VENTE
+VENTE
+PROFIT
+PERTE
+7 MAR 00
+SIKG
+1500
+1154.50
+FAILLITE
+—
+<1154.5>
+29 SEP 00
+ITMS
+3500
+3039.50
+FAILLITE
+—
+<3039.5>
+24 JAN 01
+QQQ
+400
+26985.59 US
+11 DEC 03
+13015.34 US
+<19646>
+Taux 1.5095
+TOTAL
+<23840.52>
+Symboles
+Compagnies
+Activités
+SIKG
+Sigmen Gold
+Exploitation d’or
+ITMS
+Micro-Tempus
+Équipement de logiciels
+QQQ
+Nasdaq 100 shares
+Top 100 cie de la technologie
+ANNEXE « E »
+I. RAPPORT 2004
+DATE
+D’ACHAT
+TITRE
+PARTS
+ACHAT
+DATE DE
+VENTE
+VENTE
+PROFIT
+PERTE
+12 JAN 04
+NT
+1000
+7379
+13 JAN 04
+7821
+442
+13 JAN 04
+NT
+1000
+7819
+14 JAN 04
+7921
+102
+21 JAN 04
+NT
+1000
+8949
+21 JAN 04
+8971
+22
+26 JAN 04
+NT
+1000
+8479
+26 JAN 04
+8621
+142
+27 JAN 04
+NT
+1000
+8379
+28 JAN 04
+8521
+142
+5 FÉV 04
+NT
+1000
+11209
+10 JUI 04
+5351
+<5858>
+27 MAI 04
+QQQ
+600
+21209 US
+28 MAI 04
+21246.5 US
+37.5 US
+28 NOV 04
+QQQ
+350
+13679 US
+30 NOV 04
+13708 US
+29.17 US
+14 NOV 04
+UBS
+3000
+80705
+19 OCT 04
+232
+<7838.5>
+25 MAR 00
+SGI
+1650
+5170
+6 DEC 04
+162.40
+<5007.6>
+14 MAR 00
+GEM
+850
+837
+24 DEC 04
+0
+<837>
+28 NOV 00
+INVT
+2900
+2141.95 US
+23 DEC 04
+0
+<2414.95> US
+Taux 1.542
+<3723.85> CA
+7 MAR 00
+SIKGOLD
+1500
+1154.50
+DEC 04
+FAILLITE
+<1154.50>
+6 MAR 00
+VENGOLD
+260
+1078.5
+DEC 04
+FAILLITE
+<1078.5>
+TOTAL
+9528
+<25497>
+GRAND TOTAL
+<24544> CA
+Symboles
+Compagnies
+Activités
+NT
+Nortel Networks
+Télécommunication
+QQQ
+Nasdaq 100 shares
+Top 100 cie dans la technologie
+UBS
+Unique Broadband
+Fibre optique
+INVT
+InvestAmerica
+Réseau Télécommunication
+SIKG
+Sigmen Gold
+Exploitation d’or
+VENG
+VenGold
+Exploitation d’or
+SGI
+Signalgene
+Biomédical
+GEM
+Nortern Financial
+Annonces sur Internet
+RÉFÉRENCE : 2008CCI217
+Nº DU DOSSIER DE LA COUR : 2007-3116(IT)I
+INTITULÉ DE LA CAUSE : JOSEPH AZRAK ET SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATE DE L’AUDIENCE : le 14 mars 2008
+MOTIFS DU JUGEMENT PAR : L'honorable juge Paul Bédard
+DATE DU JUGEMENT : le 28 avril 2008
+COMPARUTIONS :
+Pour l'appelant :
+L'appelant lui-même
+Avocat de l'intimée :
+Me Alain Gareau
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelant:
+Nom :
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

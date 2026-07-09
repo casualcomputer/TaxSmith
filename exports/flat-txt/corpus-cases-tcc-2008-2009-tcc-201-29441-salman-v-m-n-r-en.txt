@@ -1,0 +1,177 @@
+Title: Salman v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29441/index.do
+Corpus path: corpus/cases/tcc/2008/2009-tcc-201-29441-salman-v-m-n-r-en.md
+Document type: case_law
+Last modified: 2008-11-25
+
+# Salman v. M.N.R.
+
+- Citation: 2009 TCC 201
+- Decision date: 2008-11-25
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6932, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Salman v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-11-25
+Neutral citation
+2009 TCC 201
+File numbers
+2008-1413(EI)
+Judges and Taxing Officers
+Norris Weisman
+Subjects
+Employment Insurance Act
+Decision Content
+Citation: 2009 TCC 201
+Docket: 2008-1413(EI);
+2008-1414(CPP)
+BETWEEN:
+ALLA SALMAN,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+CERTIFICATION OF TRANSCRIPT OF
+REASONS FOR JUDGMENT
+Let the attached certified transcript of my Reasons for Judgment delivered orally from the Bench at
+Toronto ,
+Ontario
+, on November 25, 2008, be filed.
+“N. Weisman”
+Weisman D.J.
+Signed in
+Toronto ,
+Ontario
+, this 24th day of April 2009.
+Court File Nos. 2008-1413(EI)
+2008-1414(CPP)
+TAX COURT OF CANADA
+BETWEEN:
+ALLA SALMAN
+Appellant
+- and -
+THE MINISTER OF NATIONAL REVENUE
+Respondent
+* * * * *
+ORAL REASONS
+HEARD BEFORE JUSTICE WEISMAN
+in the Courts Administration Service,
+Federal Judicial Centre,
+180 Queen Street West
+,
+Toronto
+,
+Ontario
+on Tuesday, November 25th, 2008
+* * * * *
+APPEARANCES:
+Mr. S. Harvey Starkman, Q.C. for the Appellant
+Mr. Thang Trieu for the Respondent
+Also Present:
+Mr. D.W. Burtnick Court Registrar
+A.S.A.P. Reporting Services Inc. © (2009)
+Suite
+1105 ,
+200 Elgin Street
+Suite 1800
+,
+130 King Street West
+Ottawa ,
+Ontario
+K2P 1L5
+Toronto ,
+Ontario
+M5X 1E3
+(613) 564-2727 (416) 861-8720
+(ii)
+INDEX
+PAGE
+Decision with Reasons 1
+* * * * *
+Toronto
+,
+Ontario
+--- Upon commencing the Decision with Reasons on
+Tuesday, November 25, 2008.
+JUSTICE WEISMAN: I have heard two appeals today against decisions by the respondent Minister of National Revenue that Ms. Karen Jermey was in insurable and pensionable employment while working with the appellant dentist from the first day of January 2004, to the 31st day of December 2006, a period of some three years.
+The appellant contends that Ms. Jermey was an independent contractor working under a contract for services during the period under review and that the appellant is accordingly not responsible for Canada Pension Plan contributions and Employment Insurance premiums.
+In order to resolve this key question, which has been variously described in the jurisprudence as fundamental, central, and key, the total relationship of the parties and the combined force of the whole scheme of operations must be considered. To this end, the evidence in this matter is to be subjected to the four-in-one test laid down as guidelines by Lord Wright in Montreal City v. Montreal Locomotive Works Ltd., [1947] 1 D.L.R. 161, and adopted by Justice McGuigan in Wiebe Door Services, which is (1986), 87 D.T.C. 5025 in the Federal Court of Appeal.
+The four guidelines are the payer's control over the worker; whether the worker or the payer owns the tools that are acquired to fulfill the worker's function; the worker's chance of profit; and the worker's risk of loss in his or her dealings with the payer.
+Turning first to the control criterion, I find the evidence in this regard points conclusively to Ms. Jermey being an employee in her working relationship with Ms. Salman. The evidence is clear that the doctor had the right to tell the hygienist not only what to do but how to do it, and that signifies that the worker was an employee. The evidence is that Ms. Jermey could perform her services only by written order from Dr. Salman, or on her express permission such as in the case of the taking of x-rays. Under the Dental Hygienist Act, the doctor had the right to direct her hygienist to, using her words, "concentrate on that area", and again, she says, "yes, I gave her directions on occasion about scaling."
+The jurisprudence says that when you are dealing with non-standard expert workers, whose supervisor does not have the expertise to tell them how to do a job, it suffices if they have the power to tell them what job to do. But in this case, we have the unusual situation of an expert worker whose payer is even more qualified than she is, and therefore the doctor was in a position to tell Ms. Jermey not only what to do, but how to do it. That buttresses the conclusion that Ms. Jermey was one an employee.
+I also find that this particular worker was not independent as to her time. She was not free to come and go as she chose. She is expected to honour appointments that were arranged for her by the doctor. She had to give advance notice of absences or vacations and otherwise, so that Dr. Salman could rebook patients or find a replacement hygienist. Also, she had to perform her service personally, which is indicative of a relationship of a contract of service. And also, she was in a subordinate relationship
+vis-à-vis Dr.
+Salman, which is an important consideration that has been imported from the Québec Civil Code, specifically article 2099, which talks about employees being in a subordinate relationship as opposed to an independent relation with their employers.
+Finally, from a common sense point of view, it stands to reason that while working in Dr. Salman's office and treating the doctor's patients that Ms. Jermey would be subject to the doctor's direction and control.
+So far as tools are concerned, I find those equally point in the direction of Ms. Jermey being an employee. While she provided her own smock, Dr. Salman provided everything else: tools, scales, an office, a chair, floss, gloves, masks, and even the little gifts given after the procedure, such as toothbrushes, which were purchased by the doctor. As counsel for the respondent Minister indicated, the ownership of tools is an element of control, on the theory that if the tools belong to the doctor then she has the right to control how they are to be used.
+So far as a chance of profit is concerned, I can see no chance of profit for Ms. Jermey in her working relationship with Dr. Salman. The cases talk about the ability to profit by sound management, and throughout these proceedings I have been trying to see if there is any way that Ms. Jermey could profit by sound management.
+Well, she was paid by the hour, as opposed to being on commission, and it is very difficult to profit when you are paid by the hour in the circumstances that Ms. Jermey was.
+Now, I am quick to point to the case of electricians and plumbers who are paid by the hour, and yet they are independent contractors and can profit, but their hourly rate is established by taking their fixed and variable expenses and making sure that their hourly rate exceeds those expenses, and produces a profit. That is a far different situation from what we find Ms. Jermey in. She is simply getting paid by the hour, and she has no business revenue or business expenses. It is true that the longer the hours she worked the more money she could make, but again, that is just an increase in earnings. It is not profit, and the authority for that proposition is a case called Hennick v. M.N.R., [1995] F.C.J. No. 294, in the Federal Court of Appeal. Again, if she worked quickly, she could see more patients during the day, but again, that is more income, not more profit.
+And where she is required to do or perform her services personally, she is not in a position to profit by subcontracting out the work at a lesser rate than the doctor agreed to give her and keep the difference as profit.
+Which brings me to risk of loss. With minimal expenses for membership in dental hygienist associations, licence fees which include insurance, coming to less than a $1,000 a year, it is hard to find a risk of loss. She was even paid for missed appointments during the day, and while counsel for the appellant posed the hypothetical example of all patients not showing up, and therefore there being a wasted day and risk of loss for the hygienist, the evidence is that that never occurred. So you have a theoretical risk of loss, but not a real risk of loss.
+To repeat, it might be different if she worked on a commission basis as opposed to an hourly rate, but that is not the fact situation before me.
+So the risk of loss factor, or criterion, also indicates that she was an employee.
+As far as the intention of the parties is concerned, it is really not necessary for me to delve into that, because the Federal Court of Appeal in Royal Winnipeg Ballet v. M.N.R., 2006 FCA 87 has said that the intention of the parties lessens in importance as the Wiebe Door four‑in‑one factors gain in conclusiveness. And in this case, I find that all four conclusively point to Ms. Jermey being an employee.
+Conversely, if the four-in-one factors are inconclusive, that the intention of the parties gains in weight and as then Chief Justice Bowman says in Lang et al. v. M.N.R., [2007] DTC 1754, a judge ignores intention at his or her peril.
+But while not being obligated on the facts before me to delve into the issue of intent, in fairness to the appellant, and in the interest of the appellant understanding why I have decided as I have, I would like to address three different points with reference to intention.
+Counsel for the appellant read an oft-quoted passage from Wolf v. Canada, [2002] F.C.J. No. 375, which is reproduced in Justice Bowman's decision in Lang. It is to be found on page 13, at paragraph 120 of the Wolf decision:
+"In our day and age, when a worker decides to keep his freedom to come in and out of a contract almost at will, when the hiring person wants to have no liability towards a worker other than the price of work and when the terms of the contract and its performance reflect those intentions, the contract should generally be characterised as a contract for services."
+The most important words from my point of view in that quotation are: "when the terms of the contract and its performance reflect those intentions". In the case before me, it is quite clear that the terms of the contract and its performance do not reflect the intention that the worker was to be an independent contractor.
+It has often occurred to me in these cases that from a common sense point of view I have some sympathy for the appellant, for surely, surely, the worker in this case, having at the same time worked for another dentist and being able to compare the way she was treated, surely she would come to the conclusion that there was a considerable difference between Dr. Appleby, who made all the usual source deductions from her gross pay, namely Canada Pension Plan, Unemployment Insurance and income tax deducted at source, and gave her a T4 slip at the end of the year, as opposed to Dr. Salman, who made no such deductions. And one would think in those circumstances she knew that she was being treated as an independent contractor. She acquiesced in that, and I would go so far that from a common sense point of view, one would think that it took a certain amount of effrontery on her part to nevertheless claim that she was an employee, and make application for a benefit under the Employment Insurance Act.
+The problem with that common sense point of view is that it is not the law. The law is that the parties before the Court have limited ability to characterize their relationship in a binding way because the characterization of their relationship is a matter of law, and it is a matter of law rather than of agreement because it affects third parties. The ways in which third parties are affected is set out by the Supreme Court of Canada in 671122 Ontario Ltd. v. Sagaz Industries Canada Inc., [2001] 2 S.C.R. 983, and I will not attempt to reproduce them word for word, but they do talk about it affecting vicarious liability. In other words, if in law a worker is an employee, then he has the ability if he is negligent to vicariously impose that liability upon his employer; whereas if you have a principal-and-agent relationship, an independent contractor cannot so obligate his principal vicariously. And it also affects various forms of employment legislation, contractual rights, et cetera.
+The third facet of intent that I would like to discuss briefly is that there is a case called Combined Insurance Co. of America v. M.N.R., [2007] F.C.J. No. 124, which says that if one files his or her income tax return on the basis of their being an independent contractor, that that is a clear expression of intent to be an independent contractor.
+That is not applicable in the matter before me, because the dental hygienist involved in this case did not file her income tax return as a business person or independent contractor. She did not deduct her automobile, her professional development courses or her conventions. The sole deduction that we heard was for professional fees.
+In this matter before me, wherein the issue is, was Karen Jermey an independent contractor during the relevant period in her working relationship with Dr. Salman, or was she employee, the burden is upon the appellant to demolish the assumptions as set out in the Minister's reply to the appellant's notice of appeal. I have gone over the assumptions, and I find that the appellant has failed to demolish the assumptions, with the exemption of 11(o), which says “there were Other Hygienists working in the Appellant's business”. I have not heard that that was established on the evidence.
+Eleven (r) says “the Worker did not provide anything”. The appellant has established that the worker provided her own smock. And 11 (t) says “the Worker did not incur any expenses in the performance of her duties”, and the evidence is that she incurred a few, as I have already said before, there is a smock, there is licence fees, there is memberships in associations, and professional development courses.
+Aside from that, the balance of the Minister's assumptions are more than adequate to support the Minister's determination, and I say that because there is a case called Jencan Ltd. v. M.N.R., [1977] F.C.J. No. 876 in the Federal Court of Appeal that says even though some of the Minister's assumptions are demolished, if the balance are sufficient to support the Minister's decision, then the Minister's decision can stand.
+I have heard no new facts at the trial, and I have heard nothing to indicate that the Minister misapplied or misinterpreted the evidence that was known, which leads me to the conclusion that the Minister's decision was objectively reasonable. I can find no business that Karen Jermey was in on her own account. In the result, the two appeals will be dismissed and the decisions of the Minister will be confirmed.
+The last thing I would like to say is that I thought the submissions of counsel for the Minister, Mr. Trieu, were nothing short of excellent.
+--- Whereupon the Decision with Reasons concluded.
+I HEREBY CERTIFY THAT I have, to the best
+of my skills and abilities, accurately transcribed the foregoing proceeding.
+Catherine Keenan, Computer-Aided Transcription
+CITATION:
+2009 TCC 201
+COURT FILE NOS.:
+2008-1413(EI)
+2008-1414(CPP)
+STYLE OF CAUSE:
+Alla Salman
+and The Minister of National Revenue
+PLACE OF HEARING:
+Toronto
+,
+Ontario
+DATE OF HEARING:
+November 25, 2008
+REASONS FOR JUDGMENT BY:
+The Honourable
+N. Weisman , Deputy Judge
+DATE OF ORAL JUDGMENT:
+November 25, 2008
+APPEARANCES:
+Counsel for the Appellant:
+S. Harvey Starkman, Q.C.
+Counsel for the Respondent:
+Thang Trieu
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+S. Harvey Starkman, Q.C.
+Firm:
+Basman, Smith LLP
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of
+Canada
+Ottawa
+,
+Canada

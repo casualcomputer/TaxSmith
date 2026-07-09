@@ -1,0 +1,113 @@
+Title: Brousseau c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27389/index.do
+Corpus path: corpus/cases/tcc/2006/2006-cci-646-27389-brousseau-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2006-09-26
+
+# Brousseau c. La Reine
+
+- Citation: 2006 CCI 646
+- Decision date: 2006-09-26
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 146, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Brousseau c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-09-26
+Référence neutre
+2006 CCI 646
+Numéro de dossier
+2006-1345(IT)I
+Juges et Officiers taxateurs
+Lucie Lamarre
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Référence : 2006CCI646
+Date : 20061206
+Dossier : 2006-1345(IT)I
+ENTRE :
+BERNARD BROUSSEAU,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+La juge Lamarre
+[1] L'appelant en appelle d'une cotisation par laquelle le ministre du Revenu national a ajouté dans le calcul de son revenu pour l'année d'imposition 2004 une somme de 11 886 $ à titre de revenus de placements, selon le feuillet T-5 que lui a remis la compagnie d'assurance-vie Standard Life. L'appelant avait souscrit le 24 avril 1984, à une police d'assurance-vie pour un montant de 135 000 $ pour un terme de 20 ans. Cette police venait à échéance le 24 avril 2004 et l'appelant s'est alors prévalu de la clause de garantie de remboursement de primes. Selon cette clause, l'appelant avait droit au remboursement à échéance de la totalité des primes annuelles payées sans intérêt. La Standard Life lui a donc versé, au cours de l'année 2004, un montant de 14 983 $. Dans le cas de l'appelant, le montant des primes payées (16 120,91 $) s'avère plus élevé que le montant du remboursement des primes (14 983 $), puisqu'il avait opté pour un mode de paiement mensuel, et le montant d'une prime mensuelle est plus élevé que celui d'une prime annuelle car un tel mode de paiement requiert de l'administration additionnelle.
+[2] Dans une lettre adressée à l'appelant le 11 novembre 2005, (laquelle a été déposée par l'appelant sous la pièce A-1), madame Isabelle Bicari, analyste chez Standard Life, expliquait à l'appelant que le versement fait en vertu de la garantie de remboursement des primes constitue une disposition de la police aux termes du paragraphe 148(1) et de l'alinéa 56(1)j) de la Loi de l'impôt sur le revenu ( « Loi » ). Elle détaillait le calcul du montant imposable comme suit :
+Montant de disposition (Remboursement des primes) :
+14 983,00 $
+Moins coût de base rajusté :
+- 3 097,00 $
+Montant imposable :
+11 886,00 $
+Le coût de base rajusté a été calculé comme suit :
+Total des primes payées :
+16 120,91 $
+Moins le coût net d'assurance pure *:
+- 13 023,91 $
+Coût de base rajusté :
+3 097,00 $
+* Le coût net d'assurance pure est calculé au 31 décembre de chaque année et déduit du coût de base rajusté conformément au règlement 308 de l'impôt sur le revenu.
+[3] L'appelant conteste ce calcul en soutenant que l'on ne devrait pas tenir compte du coût net d'assurance pure dans le coût de base rajusté.
+[4] L'alinéa 56(1)j) et les passages pertinents du paragraphe 148(1) de la Loi se lisent comme suit :
+Sous-section d - Autres sources de revenu
+ARTICLE 56: Sommes à inclure dans le revenu de l'année.
+(1) Sans préjudice de la portée générale de l'article 3, sont à inclure dans le calcul du revenu d'un contribuable pour une année d'imposition:
+[...]
+j) Produit d'une police d'assurance-vie - toutes sommes qui, en vertu du paragraphe 148(1) ou (1.1), doivent être incluses dans le calcul du revenu du contribuable pour l'année.
+Polices d'assurance-vie
+ARTICLE 148: Calcul du revenu du titulaire d'une police.
+(1) Dans le calcul du revenu du titulaire d'une police d'assurance pour une année d'imposition, il faut inclure, à l'égard de la disposition d'un intérêt dans une police d'assurance-vie [...]
+l'excédent éventuel du produit de disposition de son intérêt dans la police que le titulaire, le bénéficiaire ou le cessionnaire a acquis le droit de recevoir au cours de l'année sur le coût de base rajusté, pour le titulaire de la police, de cet intérêt immédiatement avant la disposition.
+[5] Le terme « disposition » est défini entre autres comme suit au paragraphe 148(9) de la Loi :
+« disposition » En ce qui concerne des intérêts dans une police d'assurance-vie, sont compris dans la disposition :
+[...]
+c) la dissolution de ces intérêts en raison de l'échéance de la police;
+[6] Le « produit de disposition » est défini au paragraphe 148(9) de la Loi comme étant le montant que le titulaire, bénéficiaire ou cessionnaire de la police a le droit de recevoir lors de la disposition de la police (ici, le montant est de 14 983 $). Le « coût de base rajusté » est aussi défini au paragraphe 148(9). Les passages pertinents se lisent comme suit :
+« coût de base rajusté » Le coût de base rajusté des intérêts que possède un titulaire dans une police d'assurance-vie, à un moment donné, correspond au montant déterminé selon la formule suivante :
+(A + B + C + D + E + F + G + G.1) - (H + I + J + K + L)
+où :
+A représente le total des montants dont chacun est le coût d'un intérêt qu'il a acquis dans la police avant ce moment, à l'exclusion d'un montant visé aux éléments B ou E [l'exclusion n'est pas applicable ici];
+[...]
+L:
+a) dans le cas d'un intérêt dans une police d'assurance-vie (autre qu'un contrat de rente) qui a été acquis pour la dernière fois après le 1er décembre 1982 par le titulaire de la police, le total des sommes dont chacune est le coût net de l'assurance pure défini par règlement et déterminé par l'émetteur de la police conformément au règlement, à l'égard de l'intérêt immédiatement avant la fin de l'année civile se terminant au cours d'une année d'imposition commençant après le 31 mai 1985 et avant ce moment;
+[7] Selon cette définition, le coût de base rajusté de l'intérêt que l'appelant a acquis dans la police selon (A) est 16 120,91 $ (soit le total des primes qu'il a payées pendant 20 ans), duquel on doit déduire, selon (L), le coût net de l'assurance pure défini par l'article 308 du Règlement de l'impôt sur le revenu ( « Règlement » ). La partie pertinente de ce Règlement se lit comme suit :
+308. (1) Pour l'application du sous-alinéa 20(1)e.2)(ii) et de l'alinéa a) de l'élément L de la définition de « coût de base rajusté » au paragraphe 148(9) de la Loi, le coût net de l'assurance pure pour une année, relativement à l'intérêt d'un contribuable dans une police d'assurance-vie, correspond au produit de la multiplication de la probabilité, déterminée d'après les taux de mortalité établis dans les tables de mortalité de 1969-1975 publiées dans le volume XVI des Délibérations de l'Institut canadien des actuaires ou d'après le paragraphe (1.1), qu'une personne présentant les mêmes caractéristiques que celle dont la vie est assurée décède au cours de l'année, par l'excédent :
+a) de la prestation de décès relative à la participation du contribuable à la fin de l'année
+sur
+b) le fonds accumulé (déterminé sans égard aux avances sur police non remboursées) relatif à la participation du contribuable dans la police à la fin de l'année, ou la valeur de rachat de cette participation à la fin de l'année, suivant la méthode normalement utilisée par l'assureur sur la vie pour le calcul du coût net de l'assurance pure.
+[8] Selon monsieur Maurice Marchand, consultant partiel pour Standard Life, qui a été appelé comme témoin par l'intimée, le coût net de l'assurance pure est un calcul actuariel et a été établi, dans le cas en l'espèce, à 13 023,91 $. L'appelant soutient que l'on ne doit pas déduire le coût net de l'assurance pure du total des primes payées pour établir le coût de base rajusté, car selon lui, sa police ne contient pas les facteurs requis à l'article 308 du Règlement, pour que l'on puisse faire ce calcul (par exemple, sa police ne prévoit pas de fonds accumulé relatif à sa participation).
+[9] Le témoignage de monsieur Marchand ne me permet pas de conclure dans ce sens puisqu'il n'a pas eu à répondre précisément sur ce point. De plus, je ne vois rien dans la police d'assurance-vie en question qui indiquerait qu'il n'y a pas lieu de calculer le coût net d'assurance-vie lors du remboursement des primes à échéance.
+[10] Je suis d'avis que l'appelant n'a pas démontré que le calcul du montant imposable effectué par la Standard Life était erroné. Je suis donc d'avis de rejeter l'appel.
+Signé à Ottawa, Canada, ce 6e jour de décembre 2006.
+« Lucie Lamarre »
+Juge Lamarre
+RÉFÉRENCE : 2006CCI646
+N º DU DOSSIER DE LA COUR : 2006-1345(IT)I
+INTITULÉ DE LA CAUSE : BERNARD BROUSSEAU ET LA REINE
+LIEU DE L'AUDIENCE : Montréal (Québec)
+DATE DE L'AUDIENCE : le 26 septembre 2006
+MOTIFS DE JUGEMENT PAR : L'honorable juge Lucie Lamarre
+DATE DU JUGEMENT : le 5 octobre 2006
+MOTIFS SIGNÉS : le 6 décembre 2006
+COMPARUTIONS :
+Pour l'appelant :
+L'appelant lui-même
+Avocate de l'intimée :
+Me Nathalie Lessard
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelant:
+Nom :
+Cabinet :
+Pour l'intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

@@ -1,0 +1,208 @@
+---
+title: "Samotus v. The King"
+source: "https://norma.lexum.com/tcc-cci/decisions/en/item/521473/index.do"
+last_modified: "2025-07-30"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2025 TCC 104"
+citation2: ""
+neutral_citation: "2025 TCC 104"
+decision_date: "2025-07-30"
+language: "en"
+item_id: "521473"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5403
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2025-11-08T09:05:20.110000+00:00"
+cases_cited_count: 23
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "9c74eb304a6a08af9fb2235aece08826b299718665c3bf3a8ea9459799b7d2b8"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Samotus v. The King
+
+- Citation: 2025 TCC 104
+- Decision date: 2025-07-30
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5403, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Samotus v. The King
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2025-07-30
+Neutral citation
+2025 TCC 104
+File numbers
+2021-470(IT)I
+Judges and Taxing Officers
+John Sorensen
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2021-470(IT)I
+BETWEEN:
+SAIDINA SAMOTUS,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+Appeal heard on July 2, 2025, at Toronto, Ontario
+Before: The Honourable Justice John A. Sorensen
+Appearances:
+Agent for the Appellant:
+Anthony Samotus
+Counsel for the Respondent:
+Tiffany Santos
+JUDGMENT
+The appeals of the 2016, 2017 and 2018 taxation years are dismissed, with costs in the cause.
+Signed this 30th day of July 2025.
+“J. A. Sorensen”
+Sorensen J.
+Citation: 2025 TCC 104
+Date: 20250730
+Docket: 2021-470(IT)I
+BETWEEN:
+SAIDINA SAMOTUS,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+REASONS FOR JUDGMENT
+Sorensen J.
+I. Introduction [1] The appellant worked for Holt Renfrew from 1994 to 2019 as a Designated Sales Associate, or DSA, and in her 2016, 2017 and 2018 taxation years (the “Taxation Years”)[1] she deducted the cost of luxury clothing and home office expenses. The issue is whether she was required to incur those expenses as a condition of employment.
+[2] The respondent says she did not incur the expenses, and if she did then they were: not deductible under s. 8 of the Income Tax Act (the “Act”);[2] not reasonable; or personal expenditures.
+[3] Upon being audited, the appellant sought a Form T2200 “Declaration of Conditions of Employment” from Holt Renfrew for each of the Taxation Years. Obtaining a T2200 is a statutory condition for deducting certain employment expenses, and Holt Renfrew refused to provide any.
+[4] As noted, the issue is whether the appellant was required, as a condition of employment, to incur the expenses. The answer is no. Further, the limitation on deducting home office expenses in s. 8(13) would apply.
+II. Relevant Provisions and Form T2200 [5] The reply was drafted by a Canada Revenue Agency (“CRA”) officer, and certain provisions that were referenced were clearly irrelevant, namely, s. 8(1)(h), 8(1)(h.1), 8(4), 9, 230(1) and 231.2. I have considered s. 8(1), (2), (10), and (13).
+[6] Employment-related deductions are circumscribed by s. 8(2), which confirms that no deductions from a taxpayer’s income from an office or employment may be taken except as permitted by s. 8. Section 8 is a complete code for employment expense deductions.
+[7] Subsection 8(10) restricts deductions under s. 8(1)(c), (f), (h), (h.1) or (i)(ii) and (iii) unless the employer confirms compliance with the relevant provisions, in prescribed form. Although s. 8(10) requires the prescribed T2200 form to be filed with a return, it waives that requirement, while specifying that the taxpayer must keep it in case the CRA asks for it.[3] The mandatory language to “keep it”, read together with the administrative exception from filing the form with a return, means that a taxpayer should obtain a T2200 contemporaneously with preparing their return (as opposed to the form being created during an audit).[4] Obtaining the form at the same time as preparing a return of income makes sense, since employment expense deductions are included in a return and should be supportable. Further, the language of s. 8(10) requires obtaining a T2200 to include with a return of income, so seeking the T2200 before filing is consistent with the Act.
+[8] Subsection 8(13) limits the deduction of home office expenses unless the home office is the place where the taxpayer principally performs their duties, or the space is used exclusively for work and on a regular and continuous basis for meeting customers or other persons related to work.
+[9] The appellant claimed clothing and home office expenses in the Taxation Years. Neither the appellant nor her agent directed me to any part of s. 8 that might support her filing position. I reviewed s. 8 and sought the respondent’s views, to seek to situate the analysis within the section. Paragraph 8(1)(f)[5] showed potential, as did s. 8(1)(i)(iii).[6] Both of those provisions are referenced by s. 8(10), so a T2200 would be required. Each of s. 8(1)(f) and 8(1)(i)(iii) include, among other things, the criterion that the subject expenditures must be required to be incurred under an employment contract.
+III. Appellant’s Evidence [10] The appellant’s husband, a certified management accountant, acted as her agent. He was bright and capable, however, his desire to help often included leading questions despite frequent warnings. For a layperson, the temptation to lead a witness is probably irresistible at times. While I do not wish to be critical of his good-natured efforts, I disregarded evidence elicited by the agent’s leading questions in direct examination. I have instead relied on the appellant’s own words on direct and in cross-examination, the documents to which I was directed, and the pleadings.
+[11] The appellant was credible and forthright. When she did not know something, she said so and did not attempt to obfuscate or engage in prolix meandering.
+[12] No past or present officer or employee from Holt Renfrew was called to testify, but the appellant’s email correspondence with management people was put in as evidence. In the Informal Procedure, the Court is not bound by technical rules of evidence, pursuant to s. 18.15(3) of the Tax Court of Canada Act.[7] However, evidence law should not be treated as non-existent. Therefore, I considered the admissibility of the email correspondence. In my view, the email correspondence was reliable and relevant. More to the point, it would be admissible under the ordinary rules of evidence because it constituted admissions against interest, which is one of the categorical exceptions to the prohibition on admitting hearsay.
+[13] I accept the following facts as true, based on the documents in evidence and the portions of testimony that were properly elicited:
+The appellant was a Specialist DSA brand ambassador for a time including the Taxation Years. This program as described in the documents entered in evidence by the appellant, was an arrangement whereby an employee is devoted to a particular brand. She was a Judith and Charles brand specialist.
+During the time including the Taxation Years, the appellant received a clothing allowance of $2,000 per season, and there are two seasons per year in the fashion world. She was able to purchase regularly priced items at half price, so the retail price equivalent of her annual clothing reimbursement was $8,000, assuming she bought full price items (apparently, she could also buy items that were on sale with a further one-third price reduction, but the new stock was never on sale at the start of the season, so there was little incentive to purchase sale items since they would be out-of-date).
+The appellant was partly compensated by way of commissions on sales.
+The appellant was reimbursed for bona fide employment-related expenses, including monthly cell phone costs, taxi costs, and meals and accommodation if travelling for work, for example, to seasonal product knowledge events. That said, in 2018 Holt Renfrew moved to a different model for managing cell phone costs.
+The appellant did not have a written employment agreement.
+The Holt Renfrew Dress Code required a well-groomed and businesslike appearance to establish credibility with customers.
+The appellant was expected to be entrepreneurial, competitive and self-motivated, and to deliver extraordinary customer service.
+Promoting the brands by wearing their products was important to achieving sales targets, and the appellant achieved Silver Elite status for five consecutive years.[8] In 2018, Elite status meant having at least $1M of sales at the 50 Bloor St., Toronto location.
+The appellant worked unpaid hours at home to keep up with client matters, making calls and dealing with reports. Once she answered a call in the middle of the night about delivering a belt before a client’s 7 am flight.
+There was no contractual requirement that the appellant work after regular working hours, and overtime was subject to pre-approval.
+The appellant never used her working space at home to meet any clients.
+The appellant believed that purchasing and wearing additional high-end clothing for work would help her achieve greater commission income.
+Working conditions at the Bloor St., Toronto location for salespeople tended to cause wear and tear on clothing.
+The Judith and Charles relationship wound up in 2019, so the appellant was let go from Holt Renfrew.
+T2200s were requested in CRA letters sent to the appellant in November 2019.
+The appellant then sought from Holt Renfrew the required T2200s which they refused to provide because, in their view, she was not required to incur expenses as a condition of employment.
+The appellant was told that company policy was against issuing T2200 forms to employees and further, if they were to issue her T2200s, they would not affirm any obligation to incur employment expenses.
+[14] For reasons further discussed below, there was an absence of evidence to confirm that the disputed expenses were, in fact, incurred.
+IV. No Requirement to Incur Employment Expenses [15] As mentioned above, neither the appellant nor her agent directed me to any part of s. 8 that might support the appellant’s filing position in the Taxation Years. To recap: I considered the two provisions that may have potentially assisted the appellant, namely, s. 8(1)(f) and (i)(iii). Both of those provisions are referenced by s. 8(10), so a T2200 would be required if the CRA asked for it. Both provisions mandate that to be deductible, amounts paid by the employee must be required to be paid by them under their employment contract. Pursuant to the case law discussed below, the requirement may be an express or implied condition of employment.
+[16] Turning to the specifics of whether incurring employment expenses was required, the appellant said the Specialist DSA program obligated her to wear vendors’ brands, to achieve and exceed sales criteria. The Specialist DSA program document included, among other things, expectations to meet sales targets; demonstrate entrepreneurial initiative and leadership, and; deploy their merchandise allowance to wear and promote the products they represent. In the appellant’s opinion, she had to purchase additional clothing at her own expense, which she said she wore exclusively for work, because the allowance was inadequate. However, the Specialist DSA program document that was entered into evidence did not support that notion. The Specialist DSA program document spoke to compensation, benefits, training, incentives and discipline, and generally the employment relationship. It spoke to a merchandise allowance, and sales expectations. What it did not do is expressly require an employee to go into their own pocket to fund high-end clothing as a condition of working for Holt Renfrew or as a Specialist DSA.
+[17] A copy of the Dress Code dating to 1994, well outside the relevant taxation years but contemporaneous with the appellant’s start-date, was entered into evidence. Nothing in the Dress Code referred to a requirement to purchase clothing, but rather that clothes be clean, fresh and co-ordinated, and that sporty jeans and casual corduroy were not acceptable. The Dress Code indicated that running shoes, sport sandals and slippers were not professional, and that hair should be clean, neat and not “extreme”.
+[18] Documents included in her own book of documents and put to the appellant in her cross-examination included email correspondence between her and members of management of Holt Renfrew. An email from a Divisional VP of People was identified by the appellant, and the gist was that Holt Renfrew denied that she was required to incur expenses as a condition of her employment. The Divisional VP of People said she was affirming prior advice from their payroll manager, that there was no requirement for her to buy clothes as a condition of employment at Holt Renfrew. The email further affirmed that while Holt Renfrew would be willing to complete a T2200 form, that form would include answers denying any obligation to incur employment-related expenses. Other email correspondence included in the email chain further affirmed that Holt Renfrew does not issue T2200 forms because employees are not required to pay their own expenses as a condition of employment.
+[19] In the past, there was some friction in the case law in situations where the taxpayer incurred expenses in excess of their reimbursement allowance, as is the case in this appeal if the expenses were incurred. In Price,[9] the Tax Review Board expressed the view that accepting an allowance tended to establish an agreement between the parties that expenses may be contained within that limit, and further cast doubt on whether a deduction may be claimed for excess expenses when an allowance is unreasonably low. However, in Rozen,[10] the agreed reimbursement policy of the employer did not limit the appellant’s claim for additional automobile expenses. The better view is that it is a question of fact whether an employer and employee intended that an allowance be the extent of employment expenses that would be incurred. In this case, there is no basis to conclude that Holt Renfrew intended that the appellant should incur any expenses greater than the allowance.
+[20] While there was no express criterion requiring that the appellant incur employment expenses, that does not end the matter. The Court may consider whether incurring employment expenses was an implicit criterion of employment, and the appellant’s agent spent time in argument seeking to persuade me that the circumstances of the appellant’s sales job amounted to implied terms.
+[21] In some cases, the Courts have considered whether implied employment terms can be found where the employee may be exposed to an adverse performance evaluation or any disciplinary[11] or other action[12] for failing to take certain steps and incur related expenses. There was no evidence in this case concerning the appellant’s attire that would support an implicit requirement argument based on any adverse steps that Holt Renfrew may have taken or threatened. Certainly, the appellant’s termination had nothing to do with attire, but rather the conclusion of the Judith and Charles arrangement.[13]
+[22] In Tulman, [14] the Court held that even if there was no express written contractual requirement to incur expenses, a tacit understanding between the employer and employee may be sufficient. A tacit understanding would be something implied from the employer-employee relationship,[15] taking into account the need to incur expenses,[16] and the requirement should be understood as necessary to fulfill the employment arrangement.[17]
+[23] Finding an implied term requiring an employee to incur their own expenses is, of course, a fact-finding exercise rooted in evidence. Even if an employer and employee gave evidence of a tacit understanding, that understanding would still have to be objectively considered.[18] In any case, a tacit understanding as to an implied employment condition cannot be found for the appellant in the case at bar. A tacit understanding means that both she and Holt Renfrew would agree that, despite the lack of an express contractual term, they mutually understood that there was an implied term involving expenses. Holt Renfrew’s unequivocal rejection of any agreement undermines the appellant’s argument as to an implied condition of employment. Further, no implicit or tacit agreement can be conjured from the appellant’s interpretation of the policy documents that were entered as evidence in this appeal.
+[24] Tulman also distinguished between “permitted” and “required”,[19] which is a salient distinction in Mrs. Samotus’ case. In Tulman, the taxpayer chose to incur expenses to earn more income, but exercising free will is different than being obligated. The conclusion in Verrier was similar: at paragraph 11, the Court held that the way Mr. Verrier did his job was a matter of his own discretion. While the means he deployed resulted in sales and commission income, the employer merely expected the appellant to service his clientele and the means for so doing were up to the appellant.[20] Similarly, it may have been smart for Mrs. Samotus to choose to incur expenses on her own account, over and above her allowance, to help her earn more commissions. But again, making a smart economic choice and being contractually obligated (even implicitly) are different. If she incurred expenses with some nexus to her job, then the appellant exercised her own free will and judgment, unencumbered by any precondition of employment.
+[25] The foregoing conclusion, affirming that there was no express or implied term of employment that required the appellant to incur the disputed expenses is determinative. However, the appellant’s agent spent time at the hearing seeking to establish that Holt Renfrew behaved unreasonably and in bad faith when it withheld the T2200s. I will deal with those arguments too, although they were not persuasive.
+[26] As I understood him, the appellant’s agent essentially argued that the CRA’s assessing and confirming positions were merely based on a failure to file Form T2200, and that any T2200 filing would cure the problem. However, that view is wrong. Having a T2200 is a requirement but the statutory conditions for deductibility must still be met,[21] and a mistaken T2200 is not binding: a T2200 is prima facie evidence of a state of affairs, but it is not conclusive or determinative.[22]
+[27] To elaborate on this failed argument, the T2200 form asks whether an employee incurred expenses that were reimbursed. The appellant incurred expenses that were reimbursed, ergo, the argument went, she should have been supplied with T2200 forms for the Taxation Years. Considerable time at the hearing was spent on the reimbursement of cell phone expenses to demonstrate that the appellant was reimbursed for some expenses. This line of argument fails because, like most CRA forms, the T2200 connects reasonably understandable questions to statutory requirements, and a question about reimbursement likely concerns whether taxable benefits are present and reported. The potential for at least one positive answer to a tangential question on the T2200 did not create an obligation on Holt Renfrew to give the appellant T2200s in this case, and giving the CRA T2200s is not a silver bullet solution in an audit or appeal. The important fact is that Holt Renfrew specifically refused to provide T2200s because they do not require employees to go in their own pockets for employment expenses and thus, as a matter of policy, they do not issue T2200s. Further, Holt Renfrew affirmed that if it provided a T2200, it would include unhelpful information. Therefore, simply obtaining any kind of T2200 on any basis, which would include negative responses, would not have assisted the appellant’s case.[23]
+[28] As noted above, any provisions in s. 8 that might have any potential to support the appellant’s clothing expense claims are referenced by s. 8(10), so a T2200 was required, and T2200s for the Taxation Years were requested and not supplied. However, there is a exception upon which the appellant relied: in exceptional circumstances an otherwise qualifying claim may be allowed if the employer either unreasonably refused, was unable to provide a T2200[24] or was operating in bad faith.[25] This Court framed the exception as a rule of interpretation in Chao,[26] stating that the maxim of “the law does not require the impossible” may apply, but that the taxpayer must meet a high standard and make the efforts that a careful, diligent person who is aware of their legal obligations would make.
+[29] In Chao, diligence required the taxpayer to seek to obtain a completed T2200 in time for the due date of the taxpayer’s return.[27] This level of diligence accords with the language on the T2200 form and the expectation, outlined above, that employment expense deductions included in the computation of income on a return should be supportable.[28] Scrambling to obtain multiple years of T2200 filings, years after the taxpayer’s returns were filed, does not meet the diligence standard under Chao. Obtaining a T2200 before filing a return of income for a year also serves as an immediate check for employment expenses: if a taxpayer could not obtain a T2200 in “year one” then they would be on notice that there is a problem. A taxpayer is not behaving diligently if they turn their mind to obtaining T2200s years after-the-fact, and only when being audited. Mrs. Samotus did not meet the diligence threshold.
+[30] In terms of whether Holt Renfrew unreasonably refused or was unable to provide the appellant with T2200s, I conclude they were neither. The company existed at the time of the request, so it was technically “able” to provide T2200s, but their refusal was also reasonable and, in fact, correct, insofar as there was no express or implied term of the appellant’s employment that required her to incur clothing or home office expenses. The appellant’s agent attempted to cast doubt on Holt Renfrew’s good faith and reasonableness, calling out typographical errors in some of the email correspondence with Holt Renfrew, including misspelling the appellant’s name and calling Form T2200 a “T200”. He also pointed out, based on printouts of LinkedIn profiles, that the management figures who sent some of the email messages had left the company. This was meant to insinuate that Holt Renfrew was inhospitable, I think. Respectfully, these assertions fell far short of the goal of establishing that Holt Renfrew was behaving unreasonably or in bad faith and, again, in my view Holt Renfrew was correct.
+[31] Any reliance on s. 8(1)(f) as a basis to support the appellant’s filing position fails because, among other criteria, it requires that the taxpayer be obligated to pay their own expenses pursuant to a contract of employment. That criterion was not met for factual reasons set out above.
+[32] Any reliance on s. 8(1)(i)(iii) fails. Subparagraph 8(1)(i)(iii) allows a deduction for the cost of supplies that were consumed directly in the performance of the duties of office or employment, that the officer or employee was required by their contract of employment to supply and pay for. The appellant’s evidence was that the luxury clothing she said she bought for work on her own account was essentially used up or depleted by wear and tear. While that may be true, s. 8(1)(i) does not save her: here again, incurring the cost must be required by a contract of employment and for reasons set out elsewhere, such expenditure was not expressly or implicitly required. The specific home office expenses that might have been incurred and deducted under this provision were not enumerated, but their deductibility is denied for the same reason.
+V. Subsection 8(13) Further Confirms Denial of Home Office Expenses [33] As noted above, s. 8(13) limits deductions for home office expenditures, unless the home office is a place where a taxpayer principally performs their duties or is used exclusively for work and on a regular and continuous basis for meeting customers or other persons related to work. Subsection 8(13) operates notwithstanding s. 8(1)(f) and (i), which were discussed above.
+[34] No evidence was led that would allow the appellant to avoid the limitations imposed by s. 8(13). She did not principally perform her duties from home, nor did she use the space regularly for meeting customers or others in the ordinary course of her work. Therefore, any claimed home office expenses are also denied based on s. 8(13).
+VI. Were the Expenses Incurred? [35] At the hearing I asked the appellant’s agent to take me to a document outlining the breakdown of expenses as between clothing and home office, and no such document was found or provided. The respondent’s counsel directed me to a set of documents in the respondent’s book of documents that appeared to be composed of CRA working papers and perhaps excerpts from a T1 return. The documents were not proven, and were not especially legible, although they seem to indicate that the appellant’s 2018 employment expense deductions were mostly composed of home office expenses, which was inconsistent with what Mrs. Samotus’ agent told me when I asked about the breakdown between categories of expense. If her 2018 employment expenses were mostly composed of home office expenses, as per the document in the respondent’s book, that would also contradict her testimony that she incurred limited home office expenses. However, as noted, the CRA working papers and T1 excerpts were not entered into evidence so I cannot put any weight on the discrepancies with the appellant’s evidence.
+[36] I repeatedly asked the appellant’s agent to take me to source documents in the appellant’s book of documents that would help establish that the contested expenses were, in fact, incurred. The apex of the appellant’s argument regarding source documents was that they were all given to the CRA. That was unsatisfactory, and the record was accordingly too sparse to make a positive finding that the subject expenses were incurred.
+[37] I am cognizant of the case law that holds that failing to maintain books and records pursuant to s. 230 does not mean that expenses were not incurred and that deductions must therefore be denied. However, where there is a lack of documentary evidence the claims must be substantiated some other way, and I was not satisfied that the expenses were sufficiently supported by testimony. Again, the appellant and her agent could not break out the alleged clothing expenses from amounts claimed for the home office for all of the Taxation Years, which should not have been difficult, and “some degree of precision regarding the type and amount of the expenditures claimed is required […]”.[29]
+[38] When the Court sets Informal Procedure matters down for a hearing, the notification specifies that appellants should bring five copies of all relevant documents to support their appeal. The appellant in this case was duly notified and saying that the documents were given to the CRA was not sufficient.
+[39] If my analysis of s. 8 was mistaken, then the appeal would also fail because the appellant did not prove that the expenses were incurred.
+VII. Personal vs. Business Use of the Clothing [40] Not that anything turns on this point, given the analysis above, but the appellant gave evidence regarding the personal versus business use of the clothing items. Her evidence was that she purchased and used high-end clothes for work only, and that wear and tear throughout a sales season depleted the items. In her evidence, she explained that her workdays involved regularly going up flights of stairs and into an attic storeroom, and that it was possible to hitch clothes on edges in the storeroom and on the metal staircases. It was also possible to slip on the metal staircase. Damaged clothes could not be reused. Further, she said that clothes would not be reusable year-over-year because styles change, and she would need to remain current.
+[41] Assuming that the clothing expenses were in fact incurred, it is not unreasonable to conclude that the clothing could have been depleted through regular use within a season or two, based on the facts of this case. I am, of course, cognizant of the holdings in Desgagné[30] in which the cost of clothing was said to be intrinsically personal, and the cost would only be deductible in limited situations. But limited situations do arise (see again Fardeau, in which clothing expenses were deductible).
+[42] Further, while the appellant’s case fails on various grounds, I also appreciate that she believed that purchasing additional luxury clothing beyond her work allowance may have been helpful to generate greater commissions. And if the expenses were incurred then maybe they did help her. But there is much more to the deductibility analysis, even if the income-earning purpose test in s. 8(1)(f) is met, as explained above.
+[43] Finally, the respondent’s counsel contended that the expenses, if incurred, were not reasonable. I will refrain from that point for two reasons. First, I was not persuaded that there was a basis for a separate, self-standing reasonability argument on the facts, and second, it is unnecessary to generate any more obiter dicta to support a further alternative basis for dismissing the appeal.
+[44] The time and effort of Mr. Samotus and counsel for the respondent were appreciated.
+Signed this 30th day of July 2029.
+“J. A. Sorensen”
+Sorensen J.
+CITATION:
+2025 TCC 104
+COURT FILE NO.:
+2021-470(IT)I
+STYLE OF CAUSE:
+SAIDINA SAMOTUS AND HIS MAJESTY THE KING
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+July 2, 2025
+REASONS FOR JUDGMENT BY:
+The Honourable Justice John A. Sorensen
+DATE OF JUDGMENT:
+July 30, 2025
+APPEARANCES:
+Agent for the Appellant:
+Anthony Samotus
+Counsel for the Respondent:
+Tiffany Santos
+COUNSEL OF RECORD:
+For the Respondent:
+Shalene Curtis-Micallef Deputy Attorney General of Canada Ottawa, Canada
+[1] The Minister of National Revenue (the “Minister”) reassessed the appellant’s Taxation Years by notices of reassessment dated January 23, 2020. She filed notices of objection, and the Minister confirmed the reassessments by a notice dated December 11, 2020, leading to the appeal.
+[2] Statutory references are to the Act unless otherwise noted.
+[3] See Leith v The Queen, 2015 TCC 314, at paras. 5 to 8, referencing the Minister’s power to waive compliance under s. 220(2.1).
+[4] Meberatu v The Queen, 2017 TCC 211, at para. 15.
+[5] The heading for s. 8(1)(f) describes the provision as dealing with the sales expenses of a commission employee. There is no need to engage in a scholarly discussion of the role of headings in statutory interpretation for the purposes of these reasons for judgment – the heading was just a pointer to a provision that might be relevant.
+Separately, I am cognizant that s. 8(1)(f) includes an income earning purpose test. However, I did not find it necessary to consider this test since the appellant’s case failed primarily on the basis that the expenses were not required to be incurred as a condition of employment. That said, as alluded to near the end of these reasons, the appellant’s clothing expenses (if incurred) may have contributed to her ability to earn commission income, even if incurring the expenses was not required by Holt Renfrew.
+[6] The CRA’s archived guidance suggests that a deduction for supplies under s. 8(1)(i)(iii) would not include special clothing worn by an employee in the performance of their duties (see archived bulletin IT352R2, dated August 26, 1994, at paragraph 10). CRA guidance is, of course, not law and not binding. While some Tax Appeal Board decisions run counter, I prefer the reasoning of Bowman ACJTC (as he then was) in Fardeau v R, docket no. 1999-2399(IT)I (“Fardeau”), in which, based on the facts, clothing items were indeed supplies consumed in the performance of the duties of office or employment.
+[7] RSC 1985, c. T-2.
+[8] The years that she achieved this elite sales status were not completely clear, but likely included the Taxation Years.
+[9] Price v MNR, 80 DTC 1311.
+[10] Rozen v R, 85 DTC 5611 (“Rozen”).
+[11] The source of this consideration is appellate case law. In Hoedel v. Her Majesty The Queen, 86 DTC 6535, the Federal Court of Appeal stated: “I am unable to agree with the view of the trial judge that since non-compliance with this condition would not result in disciplinary action, it was, in reality, only a minor matter and therefore not a condition of employment. The evidence is all to the contrary. Sergeant Forbes said that non-compliance with the provision would likely result in a bad work performance evaluation which could affect a member's future in the police force for years to come. This is surely a very serious matter with highly undesirable consequences for the employee concerned. When this evidence is coupled with the evidence summarized supra relating to the importance of the dog accompanying the member at all times, I fail to see how it is possible to conclude that the condition in issue is not a 'requirement' of the appellant's duties of employment. … if an employee's failure to carry out a task can result in an unfavourable assessment by his employer, it would seem to me that such a circumstance is compelling evidence that the task in issue is a duty of employment.”
+[12] The source of this consideration is also appellate case law. In The Queen v Cival, [1983] 2 FC 830, the Federal Court of Appeal stated: “… Mr. Cival was not contractually bound to use his car in doing his job and to pay the expenses involved: if at any time during 1977 he had refused to use his car for this purpose, he would not have been suable by his employer for breach of contract.”
+[13] The risk of termination was a key factor in Rozen, as referenced at para. 7. In that case, the appellant was an accountant whose bookkeeping and audit work was primarily conducted at client sites. He was expected to use his own vehicle in order to project the appropriate level of professionalism but received only partial mileage reimbursements. The personnel manager from the accounting firm gave evidence that supported the appellant’s position that he was impliedly required to drive his own car but would not be made whole on his expenses. The scenario is Rozen is materially different from Mrs. Samotus case. Termination risk was also an untenable basis for deducting interest on a loan taken out to purchase a rental property in Malik v MNR, 89 DTC 5141. In that case, the appellant was a licensed life insurance salesman who borrowed to buy a rental property, incurred a loss on its disposition and was obligated to pay interest on the remaining portion of the loan that was not paid off by sale proceeds. He argued that a condition of his license was to remain in good financial standing, so the obligation to pay interest on debt was in a sense a precondition to earn commission income from life insurance sales. The argument failed because of a lack of connection between the interest obligation and the source of income, being employment. See also Verrier v MNR, 90 DTC 6202 (“Verrier”) and Peters v MNR, 86 DTC 1662.
+[14] Tulman v The Queen (“Tulman”), 2014 TCC 140, at para. 30.
+[15] Massicolli v The Queen, 2012 TCC 344 (“Massicolli”), at para. 67; Schnurr v The Queen, 2004 TCC 684 (“Schnurr”), at paras. 9 and 10; and Blott v The Queen, 2018 TCC 1 (Blott’), paras. 15 to 17
+[16] Sauvé v The Queen, 2006 TCC 528, at para. 33.
+[17] Verrier, at paragraph 9.
+[18] Urquhart v Canada, 2016 FCA 76, at para. 7.
+[19] The following might be an overly fine point, but it would be insufficient if an employer merely “authorized” rather than required an expense to be incurred (see Massicolli, at paragraph 69).
+[20] See also Karda v The Queen, 2005 TCC 564 (aff’d 2006 FCA 238), in which a commission salesperson who voluntarily incurred expenses may have been economically smart, but he was not required to incur the expenses, so they were not deductible.
+[21] See Fitzgerald v R, 2009 TCC 321, at para. 20.
+[22] Vickers v R, 2011 TCC 2, at paras. 14 and 15, referencing Schnurr. See also Le Bouthillier c La Reine, 2019 TCC 176, at para. 35 (aff’d 2021 FCA 119). This Court’s decision in Aboud Schofield c Le Roi, 2022 TCC 142 (“Aboud Schofield”) can be reconciled to cases in which a T2200 was evidence but not determinative. Notwithstanding the comments regarding the T2200 at para. 30 of Aboud Schofield the reasons cited a number of bases that supported the appellant’s position. Further, at para. 33 of Aboud Schofield, the Court supports it’s reasoning with reference to the viva voce evidence from the representative of the employer. The risk of dismissal for underperformance and the general provision that the appellant had to incur her own expenses also contribute to the result in Aboud Schofield.
+[23] In this regard, see Blott, at para. 18.
+[24] Brochu v The Queen, 2010 TCC 274, at para. 11.
+[25] Kreuz v The Queen, 2012 TCC 238, at para. 76.
+[26] Chao v The Queen, 2018 TCC 72 (“Chao”), at paras. 89 to 96. See also Kelly Richardson v The Queen, 2018 TCC 135, at para. 8.
+[27] Chao, at para. 101.
+[28] Ibid, at para. 102.
+[29] Cirone v The Queen, 2010 TCC 137, at para 14.
+[30] Desgagné v The Queen, 2012 TCC 63, at paras. 22 and 23. See also Rupprecht v The Queen, 2007 TCC 191 (aff’d 2009 FCA 314).

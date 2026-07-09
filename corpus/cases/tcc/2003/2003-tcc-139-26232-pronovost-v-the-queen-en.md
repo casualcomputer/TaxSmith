@@ -1,0 +1,184 @@
+---
+title: "Pronovost v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26232/index.do"
+last_modified: "2003-03-18"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 TCC 139"
+citation2: ""
+neutral_citation: "2003 TCC 139"
+decision_date: "2003-03-18"
+language: "en"
+item_id: "26232"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4029
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T18:26:35.187000+00:00"
+cases_cited_count: 0
+cases_citing_count: 3
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "c98544dc2783b87d722f401ad893a555c7e05eec9ef421ac46b8137d772b43f3"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Pronovost v. The Queen
+
+- Citation: 2003 TCC 139
+- Decision date: 2003-03-18
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4029, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Pronovost v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-03-18
+Neutral citation
+2003 TCC 139
+File numbers
+2002-1504(IT)I
+Judges and Taxing Officers
+Donald G.H. Bowman
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2002-1504(IT)I
+BETWEEN:
+DENIS H. PRONOVOST,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on March 12, 2003 at Timmins, Ontario
+Before: The Honourable D.G.H. Bowman, Associate Chief Judge
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Carole Benoit
+____________________________________________________________________
+JUDGMENT
+It is ordered that the appeals from assessments made under the Income Tax Act for the 1999 and 2000 taxation years be allowed and the assessments be referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that
+(a) the appellant's Dodge Ram truck is automotive equipment within class 10 of Schedule II to the Income Tax Regulations and is not a passenger vehicle within class 10.1 and the appellant's claim for capital cost allowance on the truck is not restricted by reason of paragraph 13(7)(g) of the Income Tax Act;
+(b) the appellant is entitled to deduct in computing income for 1999 and 2000 as part of his automobile expenses the amounts of $4,136 and $2,550 respectively in respect of gasoline expenses;
+.../2
+(c) the appellant's claim for a rebate under subsection 253(1) of the Excise Tax Act should be recalculated to take into account the above adjustments.
+The appellant is entitled to his costs, if any, in accordance with the tariff.
+Signed at Ottawa, Canada, this 18th day of March 2003.
+"D.G.H. Bowman"
+A.C.J.
+Citation: 2003TCC139
+Date: 20030318
+Docket: 2002-1504(IT)I
+BETWEEN:
+DENIS H. PRONOVOST,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Bowman, A.C.J.
+[1] These appeals from assessments for the appellant's 1999 and 2000 taxation years involve essentially two issues.
+(a) Whether the appellant's 1998 Dodge Ram truck which he purchased in early 1999 is an "automobile" and a "passenger vehicle" as defined in section 248 of the Income Tax Act and is therefore an asset in class 10.1 of Schedule II to the Income Tax Regulations or is "automotive equipment" within class 10.
+(b) Whether the Minister of National Revenue was correct in reducing the appellant's claim to deduct the cost of fuel used in his truck from $5,024.84 to $2,400 in 1999 and $3,089.65 to $1,600 in 2000.
+[2] There was another minor issue raised in the reply about the inclusion of $293 and $213 in the appellant's income for 1999 and 2000 respectively. No evidence was adduced on this point and I express no conclusion.
+[3] The other issue identified in the reply is the amount of rebate to which the appellant is entitled pursuant to subsection 253(1) of the Excise Tax Act. The resolution of this issue will depend upon the resolution of the two principal issues. There is otherwise no issue about the appellant's entitlement to a deduction under section 8 as employment expense with respect to automobile costs and capital cost allowance ("CCA").
+[4] The appellant in the years in question was employed by Norbord Industries Inc. as a compliance co-ordinator. This is a supervisory position and required that he train employees both in the office and in the bush as well as travelling extensively in the bush. To perform these duties he required a safe four wheel drive vehicle.
+[5] In the spring of 1999 he purchased a 1998 Dodge Ram truck for $37,054 net of applicable taxes. Subsequent to the purchase he was promoted to the position of compliance co-ordinator and he used his truck in performing those duties although he very fairly admitted that when he bought it, it was not for the purpose of his work as a compliance co-ordinator. As it happens, however, it was used for this purpose from the time of his promotion until about August of 2000 when his employer supplied him with a truck to use in his work.
+[6] The appellant's truck was used to carry tools, spill kits, first aid kits and all of the other paraphernalia that are required for the type of work done by the appellant for a forestry company.
+[7] The appellant also owns a van which he and his wife used for personal purposes with their family.
+[8] Before I come to the narrow point that must be decided I should describe briefly the statutory background.
+[9] The appellant claimed CCA on the truck in the amount of $6,326.02 and $10,214.22 in 1999 and 2000 respectively based on a capital cost of the truck acquired in 1999. The half-year rule was applied to the CCA on the truck in 1999. In both years on the CCA schedule under "class" he wrote 10.1. This was, I think, inadvertent. If the truck is in class 10.1 rather than class 10 (i.e. is a "passenger vehicle" as defined in subsection 248(1) of the Income Tax Act) the maximum cost in 1999 that can be claimed for CCA purposes is $26,000 plus GST and PST.
+[10] Class 10 reads in part
+Class 10 - (30 per cent)
+Property not included in any other class that is
+(a) automotive equipment ...
+[11] Class 10.1 reads
+Class 10.1 - (30 per cent)
+Property that would otherwise be included in Class 10 that is a passenger vehicle, the cost of which to the taxpayer exceeds $20,000 or such other amount as may be prescribed for the purposes of subsection 13(2) of the Act.
+[12] Subsection 7307(1) of the Regulations prescribes, for 1999, $26,000 for the purposes of subsection 13(2).
+[13] Paragraph 13(7)(g) of the Income Tax Act provides that for the purpose of various provisions of the Income Tax Act involving the computation of CCA
+(g) where the cost to a taxpayer of a passenger vehicle exceeds $20,000 or such other amount as may be prescribed, the capital cost to the taxpayer of the vehicle shall be deemed to be $20,000 or that other prescribed amount, as the case may be.
+[14] Therefore, by this somewhat circuitous route, I come to the point: is the appellant's 1998 Dodge Ram four wheel drive truck a passenger vehicle?
+[15] Passenger vehicle and automobile are defined in section 248 as follows.
+"passenger vehicle" means an automobile acquired after June 17, 1987 (other than an automobile acquired after that date pursuant to an obligation in writing entered into before June 18, 1987) and an automobile leased under a lease entered into, extended or renewed after June 17, 1987.
+"automobile" means
+(a) a motor vehicle that is designed or adapted primarily to carry individuals on highways and streets and that has a seating capacity for not more than the driver and 8 passengers,
+but does not include
+(b) an ambulance,
+(c) a motor vehicle acquired primarily for use as a taxi, a bus used in a business of transporting passengers or a hearse used in the course of a business of arranging or managing funerals,
+(d) except for the purposes of section 6, a motor vehicle acquired to be sold, rented or leased in the course of carrying on a business of selling, renting or leasing motor vehicles or a motor vehicle used for the purpose of transporting passengers in the course of carrying on a business of arranging or managing funerals, and
+(e) a motor vehicle of a type commonly called a van or pick-up truck or a similar vehicle
+(i) that has a seating capacity for not more than the drive and 2 passengers and that, in the taxation year in which it is acquired, is used primarily for the transportation of goods or equipment in the course of gaining or producing income, or
+(ii) the use of which, in the taxation year in which it is acquired, is all or substantially all for the transportation of goods, equipment or passengers in the course of gaining or producing income.
+[16] The appellant's truck has an extended cab, that is to say, it has a second row of seats which would allow five or six people to be seated in the truck. Therefore if it is to be excluded from the definition of automobile it must fall within the exception in subparagraph (e)(ii). It is certainly a pick-up truck or a similar vehicle. It does not meet the criterion in subparagraph (i) because of its seating capacity for more than the driver and two passengers.
+[17] Therefore if it is to fall under subparagraph (ii) its use must be, in 1999, "all or substantially all for the transportation of goods, equipment or passengers in the course of gaining or producing income".
+[18] Certainly in the course of the appellant's work the truck was used for the transportation of goods, equipment or passengers in the course of gaining or producing income. The question is whether that use was "all or substantially all" of its use.
+[19] In Ruhl (W.) v. Canada, [1998] G.S.T.C. 4, and in Lim (J.H.) v. Canada, [2000] G.S.T.C. 1, the meaning of "substantial" or "substantially all" was considered. In Ruhl it was observed that they are terms of some elasticity and that "an unsatisfactory medium for carrying the idea of some ascertainable proportion of the whole. They do not require a strictly proportional or quantitative determination".
+[20] The 90% rule used by the CCRA has no statutory basis although it may be necessary that some sort of rigid criterion be applied administratively. That does not mean that the court must follow it. The 90% rule, even if it had some basis in law, is itself defective because it leaves unanswered the question "90% of what? time? mileage? number or weight of passengers or goods carried?"
+[21] Here I have no hesitation in finding that the truck was used "substantially for the transportation of goods, equipment or passengers in the course of earning income". The equipment was kept in the truck at all times even when the appellant was going to and from work. The evidence is clear that during the period from the spring of 1999 to August of 2000 the truck was used, for almost nothing else but the appellant's work. The personal use was minimal. The appellant and his wife used the van for that purpose.
+[22] There is I think another reason. One of the assumptions pleaded in the reply to the notice of appeal was that
+(h) the total kilometers driven by the Appellant during the 1999 and 2000 taxation years were 12,000 and 8,000 and the kilometers driven with respect to business use included in the above amounts were 11,490 and 7,082 respectively.
+[23] These figures were taken from the return except that the figure of 7,082 km for 2000 was a slight reduction from that declared based on a letter from the employer. Counsel for the respondent argued that I should not rely upon the assumption and I should conclude the figure was high. Perhaps it is a little high, but I cannot say by how much and in any event it is an assumption and a judicial admission and it has not been repudiated or demolished by the respondent. The Crown has benefited for upwards of half a century from the ability to plead assumptions and countless appellants have come to grief by their apparent inability to meet "the onus of demolishing the Minister's assumptions". It may be a source of some gratification to taxpayers to know that occasionally they can win a case because the respondent is stuck with what the Minister assumed.
+[24] The other issue is the gas expenses incurred by the appellant. He claimed $5,024.84 and $3,089.65 in each of the years. He was allowed $2,400 and $1,600.
+[25] Counsel said that the appellant produced no vouchers to the assessor. He produced in court some samples of weekly statements that he received from Cochrane Co-Operative TIM-BR Mart where he purchased all the gas for which he claimed. He said that his claim was based upon the weekly statements. I suspect his claim is reasonably accurate. His wife is a bookkeeper and she is the one who submitted the claims and prepared the income tax returns. I find his evidence on this point however somewhat incomplete. It was unfortunate that his wife was unable to testify or that he did not bring in all of the weekly statements. It is true that in the informal procedure we have to stretch the rules of evidence somewhat but they are not infinitely elastic.
+[26] What I am prepared to do is to use the Crown's own methodology i.e. the number of kilometres driven in the course of earning his income (11,490 and 7,082 for 1999 and 2000 respectively) multiplied by a reasonable rate per kilometre. For the purposes of paragraph 18(1)(r) a prescribed rate is set in paragraph 7306 of the Regulations. I think we may assume that the roughly 31 ¢ per kilometre prescribed for the purpose of paragraph 18(1)(r) is the bottom limit of reasonableness. Indeed in 1999 and 2000 judges (and I presume public servants) were being paid 38 ¢ and 40 ¢ per kilometre. I am also aware that the appellant's truck is driven on gravel roads, in the bush, and sometimes on the highway. The appellant testified it gets about 12 to 18 miles per gallon, sometimes as high as 20 on the highway. It is an eight cylinder four wheel drive gas guzzler.
+[27] I think 36 ¢ per kilometre is reasonable using the Department's own methodology. Therefore his gas expense for 1999 and 2000 works out to $4,136 and $2,550 respectively.
+[28] The rebate under subsection 253(1) of the Excise Tax Act is a function of the above calculations and will have to be adjusted accordingly.
+[29] The appeals are there therefore allowed and the assessments for 1999 and 2000 are referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that
+(a) the appellant's Dodge Ram truck is automotive equipment within class 10 of Schedule II to the Income Tax Regulations and is not a passenger vehicle within class 10.1 and the appellant's claim for capital cost allowance on the truck is not restricted by reason of paragraph 13(7)(g) of the Income Tax Act;
+(b) the appellant is entitled to deduct in computing income for 1999 and 2000 as part of his automobile expenses the amounts of $4,136 and $2,550 respectively in respect of gasoline expenses;
+(c) the appellant's claim for a rebate under subsection 253(1) of the Excise Tax Act should be recalculated to take into account the above adjustments.
+[30] The appellant is entitled to his costs, if any, in accordance with the tariff.
+Signed at Ottawa, Canada, this 18th day of March 2003.
+"D.G.H. Bowman"
+A.C.J.
+CITATION:
+2003TCC139
+COURT FILE NO.:
+2002-1504(IT)I
+STYLE OF CAUSE:
+Between Denis H. Pronovost
+and Her Majesty The Queen
+PLACE OF HEARING:
+Timmins, Ontario
+DATE OF HEARING:
+March 12, 2003
+REASONS FOR JUDGMENT BY:
+The Honourable D.G.H. Bowman
+Associate Chief Judge
+DATE OF JUDGMENT:
+March 18, 2003
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Carole Benoit
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+--
+Firm:
+--
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

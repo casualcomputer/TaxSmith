@@ -1,0 +1,183 @@
+---
+title: "City Cab (Brantford-Darling St) Limited c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29196/index.do"
+last_modified: "2009-04-23"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 CCI 218"
+citation2: ""
+neutral_citation: "2009 CCI 218"
+decision_date: "2009-04-23"
+language: "fr"
+item_id: "29196"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6692
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T11:57:19.956000+00:00"
+cases_cited_count: 3
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "bb79da0f4175b17de7a327fe87f763258ae5e6633fe90b687d03c20573b8f24e"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# City Cab (Brantford-Darling St) Limited c. M.R.N.
+
+- Citation: 2009 CCI 218
+- Decision date: 2009-04-23
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6692, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+City Cab (Brantford-Darling St) Limited c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2009-04-23
+Référence neutre
+2009 CCI 218
+Numéro de dossier
+2006-1655(CPP)
+Juges et Officiers taxateurs
+Eric A. Bowie
+Sujets
+Régime de pensions du Canada
+Contenu de la décision
+Dossier : 2006-1655(CPP)
+ENTRE :
+CITY CAB (BRANTFORD-DARLING ST.) LIMITED,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+THOMAS ARMSTRONG,
+intervenant.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels entendus le 21 juin 2007, à London (Ontario)
+Devant : L’honorable juge E.A. Bowie
+Comparutions :
+Avocate de l’appelante :
+Me Rebecca L. Grima
+Avocat de l’intimé :
+Me Andrew Miller
+____________________________________________________________________
+JUGEMENT
+Les appels formés en vertu de l’article 28 du Régime de pensions du Canada à l’encontre de cotisations datées du 6 décembre 2005, pour les années d’imposition 2002, 2003 et 2004, sont accueillis et les cotisations sont annulées.
+Signé à Ottawa, Canada, ce 23e jour d’avril 2009.
+« E.A. Bowie »
+Juge Bowie
+Traduction certifiée conforme
+ce 8e jour de juin 2009
+Christian Laroche, LL.B.
+Réviseur
+Référence : 2009 CCI 218
+Date : 20090423
+Dossier : 2006-1655(CPP)
+ENTRE :
+CITY CAB (BRANTFORD-DARLING ST.) LIMITED,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+THOMAS ARMSTRONG,
+intervenant.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Bowie
+[1] Les présents appels se rapportent à des cotisations établies en application de l’article 22 du Régime de pensions du Canada[1] (le Régime) le 6 décembre 2005, pour les années 2002, 2003 et 2004, à la suite d’appels infructueux déposés à l’encontre desdites cotisations auprès du ministre du Revenu national en vertu de l’article 27.1. Encore une fois, se pose la question de savoir si des chauffeurs de taxi occupent un emploi ouvrant droit à pension, selon la définition de cette expression dans le Régime. La Cour a récemment tranché trois cas de cette nature[2], concluant dans chacun d’eux que les chauffeurs n’étaient pas engagés en vertu d’un contrat exprès ou tacite de louage de services, et n’entraient donc pas dans ce que le Régime définit comme un emploi ouvrant droit à pension. L’intimé dit que les faits dont il s’agit ici doivent être distingués des espèces antérieures, et que l’appelante et ses chauffeurs devraient être traités différemment d’après le Régime. Pour les motifs qui suivent, je ne partage pas ce point de vue.
+[2] L’intervenant, Thomas Armstrong, a retiré son intervention au début du procès. Il a toutefois témoigné pour l’intimé.
+[3] L’appelante exploite un service de taxis dans la ville de Brantford, en Ontario. Elle est propriétaire de 26 taxis, exploités par 75 chauffeurs. Sept taxis appartenant à des chauffeurs indépendants font également partie de sa flotte, les chauffeurs lui payant une redevance hebdomadaire pour le droit d’utiliser le nom de la compagnie et pour le service de répartition. Il y a un personnel administratif de 10 personnes dont les fonctions ne comprennent pas la conduite des véhicules. Seul le statut des chauffeurs des véhicules appartenant à l’appelante est en cause ici, et seul nous intéresse le Régime, étant donné que le fait de conduire un taxi est explicitement considéré comme un « emploi assurable » par l’alinéa 6e) du Règlement sur l'assurance-emploi[3].
+[4] Fred Sayle et son frère sont propriétaires de la société appelante, et Fred gère cette société depuis 35 années. Il a décrit avec force détails les activités de la société. Il a été un témoin impressionnant, et j’accepte sa déposition dans son intégralité, sans hésitation. Une bonne part des dépositions de tous les témoins a effleuré des aspects concernant la relation entre la direction de la société et les chauffeurs. Dans une certaine mesure, la relation ressort des documents, mais, pour l’essentiel, elle n’est pas écrite, prenant plutôt la forme d’une entente tacite entre les parties. La déposition de M. Sayle et celle d’un autre témoin divergent, mais je préfère celle de M. Sayle, d’une part en raison des 35 années qu’il a passées au cœur des activités de l’entreprise, et d’autre part parce que son témoignage a été franc et sincère.
+[5] Comme toutes les villes, Brantford applique un règlement municipal régissant l’industrie du taxi. Le règlement porte sur des aspects tels que la délivrance des permis et les prix des courses. Il oblige l’appelante à détenir un permis d’entreprise de taxis, chaque véhicule utilisé comme taxi devant être autorisé en tant que tel et chaque chauffeur devant détenir un permis de chauffeur de taxi. L’appelante paie un droit pour son permis d’entreprise de taxis et pour les permis des véhicules dont elle est propriétaire. Chacun des chauffeurs doit se procurer et payer son propre permis de chauffeur de taxi.
+[6] L’appelante est propriétaire du système de répartition, qui comprend un ordinateur central situé au siège de l’entreprise, et des terminaux individuels installés dans chacun des véhicules. Les chauffeurs qui sont de service s’enregistrent pour faire savoir à l’ordinateur qu’ils sont disposés à recevoir des clients. Aux fins du système, la ville est répartie en 10 zones, et un chauffeur qui est enregistré peut voir sur son terminal dans quelle zone se trouve chacun des autres chauffeurs. Il peut aussi voir les endroits où se trouvent les clients en attente d’un taxi. Lorsqu’un client appelle un taxi, le répartiteur introduit l’appel dans le système et l’ordinateur attribue automatiquement le client au premier chauffeur situé dans cette zone. Il y a eu certaines contradictions dans la preuve concernant le droit d’un chauffeur de refuser un appel qui lui est attribué, sans doute parce que cela se produit rarement, de telle sorte que la preuve produite par les témoins reposait en grande partie sur des suppositions. Les chauffeurs ne reçoivent pas de directives sur les endroits où ils doivent se trouver lorsqu’ils sont de service. Ils sont libres de se déplacer dans la ville comme ils le souhaitent et d’attendre à tout endroit de leur choix.
+[7] Les sommes que les chauffeurs reçoivent des clients sont fixées par le règlement municipal et déterminées par le compteur installé dans le véhicule. Le compteur, tout comme le terminal et le véhicule dans lequel ils sont installés, appartient à l’appelante. La rémunération du chauffeur représente 40 p. 100 des sommes perçues; les 60 p. 100 restants reviennent à l’appelante. Sur cette part de 60 p. 100, l’appelante paie le carburant, l’entretien et les réparations du véhicule, ainsi que des choses mineures telles que les lavages du véhicule et le liquide lave-glace. Elle paie aussi la taxe sur les produits et services applicable aux sommes brutes perçues, les primes d’assurance-emploi, les primes de la Commission de la sécurité professionnelle et de l’assurance contre les accidents du travail (CSPAAT), enfin les indemnités de vacances des chauffeurs. À la fin de chaque journée, les chauffeurs doivent remettre au personnel administratif de l’appelante leur registre de la journée, indiquant les sommes qu’ils ont perçues, et, avec le registre, le numéraire et les récépissés de cartes de crédit représentant les 60 p. 100 revenant à l’appelante, après déductions des achats en espèces faits par les chauffeurs et se rapportant à des articles dont l’appelante a la responsabilité.
+[8] Les terminaux se trouvant dans les véhicules tiennent lieu de terminaux pour cartes de crédit, et les chauffeurs peuvent obtenir un numéro d’autorisation pour les courses qui sont payées par carte de crédit. S’ils ne le font pas et que la compagnie de carte de crédit n’honore pas la somme portée sur la carte, la perte est alors supportée par le chauffeur. Pareillement, toute perte résultant d’un vol, d’une négligence ou du non-paiement de la course par un passager est assumée par le chauffeur, non par l’appelante. Les chauffeurs ne peuvent accepter des chèques qu’à leurs propres risques; s’ils le font et que le chèque n’est pas honoré, alors c’est le chauffeur qui subit la perte. L’appelante ne reçoit aucune part des pourboires versés aux chauffeurs. Elle ne retient aucune somme au titre de l’impôt sur le revenu ou de l’assurance-emploi. En fait, elle ne peut rien retenir, puisqu’elle n’effectue aucun paiement aux chauffeurs.
+[9] Une bonne part des témoignages et des arguments a porté sur la pièce A-2, appelée communément le Livre rouge. Il s’agit d’un guide de 69 pages remis par l’appelante à chacun de ses chauffeurs. Le guide traite de la plupart des situations pouvant survenir durant la journée d’un chauffeur qui conduit un taxi pour l’appelante, ce qui va des accidents ([traduction] « les chauffeurs pourraient être tenus de payer des dommages-intérêts s’ils sont impliqués dans des accidents multiples (avec responsabilité) ») à la conduite en saison hivernale ([traduction] « si vous êtes embourbés dans la neige et que vous ne parvenez pas à vous en sortir par un va-et-vient modéré du véhicule, DEMANDEZ DE L’AIDE »). Comme l’on pouvait s’y attendre pour un document aussi complet, il est rédigé sur un ton quelque peu impératif, mais dans une grande mesure c’est un document de consultation. Certaines de ses parties ne font rien d’autre qu’informer les chauffeurs de l’incidence du règlement municipal sur leur métier, par exemple l’obligation pour les chauffeurs de consigner chaque course sur une feuille de route. D’autres parties sont simplement une codification du bon sens :
+[traduction]
+Si la distance qu’il vous faut pour faire un arrêt complet dépasse la distance à laquelle vous avez une vision claire, alors vous roulez plus vite que ce que permettent vos phares[4].
+Les 25 dernières pages ne sont qu’un guide de l’utilisateur pour le système informatisé de répartition.
+[10] L’avocat de l’intimé a fait valoir avec force que le Livre rouge est la preuve convaincante que l’appelante a le droit d’exercer sur ses chauffeurs un niveau de contrôle relativement élevé. Selon moi, le document, dans sa teneur générale, ne signifie pas qu’un contrôle est exercé sur les travailleurs comme s’il s’agissait d’un contrôle exercé sur un subordonné, mais plutôt que l’appelante a à cœur la protection de ses intérêts financiers. Une bonne partie du document concerne les précautions à prendre pour éviter des dommages ou une usure excessive aux véhicules, ainsi que la protection et le renforcement de l’image de marque et de la réputation de l’entreprise de l’appelante. Ainsi, 11 des 69 pages sont consacrées au sujet intitulé Conduite préventive, et elles constitueraient un manuel utile à quiconque gagne sa vie en conduisant un véhicule. Son objet est manifestement d’éliminer ou de minimiser les accidents, ainsi que les coûts évidents qui en résulteraient pour l’appelante, quel qu’en soit le responsable.
+[11] La Cour suprême du Canada a récemment réexaminé, dans l’arrêt Sagaz[5], le critère de common law qu’il convient d’appliquer pour faire la distinction entre un employé et un entrepreneur indépendant. Elle a réaffirmé que les cours de justice doivent considérer attentivement toute la preuve et « déterminer quelle relation globale les parties entretiennent entre elles »[6]. Le juge Major, rédigeant l’arrêt unanime de la Cour, concluait ainsi son examen du droit :
+47 Bien qu’aucun critère universel ne permette de déterminer si une personne est un employé ou un entrepreneur indépendant, je conviens avec le juge MacGuigan que la démarche suivie par le juge Cooke dans la décision Market Investigations, précitée, est convaincante. La question centrale est de savoir si la personne qui a été engagée pour fournir les services les fournit en tant que personne travaillant à son compte. Pour répondre à cette question, il faut toujours prendre en considération le degré de contrôle que l’employeur exerce sur les activités du travailleur. Cependant, il faut aussi se demander, notamment, si le travailleur fournit son propre outillage, s’il engage lui-même ses assistants, quelle est l’étendue de ses risques financiers, jusqu’à quel point il est responsable des mises de fonds et de la gestion et jusqu’à quel point il peut tirer profit de l’exécution de ses tâches.
+48 Ces facteurs, il est bon de le répéter, ne sont pas exhaustifs et il n’y a pas de manière préétablie de les appliquer. Leur importance relative respective dépend des circonstances et des faits particuliers de l’affaire.
+[12] Dans une communication écrite très fouillée, l’avocat de l’intimé a tenté de faire une distinction entre la présente espèce, d’une part, et les affaires Algoma et 1022239 Ontario Inc., d’autre part, qui toutes deux concernaient des entreprises de taxi exerçant leurs activités à Sault-Sainte-Marie, en Ontario. Les méthodes générales d’exploitation de toutes ces entreprises sont très semblables, mais l’intimée fait valoir que, dans la présente affaire, l’entreprise concernée intervient davantage dans la manière dont le travail est fait, les chauffeurs sont moins concernés par les questions d’investissement et de gestion, et ils n’ont en réalité aucune possibilité de réaliser un bénéfice au plein sens du terme, ou de subir une perte. Il dit aussi que les chauffeurs, dans la présente affaire, sont pleinement intégrés dans les activités de l’appelante. J’examinerai les diverses distinctions que l’avocat de l’intimé cherche à établir, mais d’abord je voudrais faire quelques observations sur les témoins appelés par chacune des parties.
+[13] Outre M. Sayle, l’appelante a appelé Veronica Thrasher à témoigner. Mme Thrasher a d’abord travaillé comme chauffeuse pour l’appelante durant environ huit ans. En 2003, elle est devenue préposée aux appels et, en 2004, répartitrice. Patricia Kish a débuté comme chauffeuse chez l’appelante en 1980. Elle a aussi travaillé dans ses bureaux comme préposée aux appels, et, depuis, elle est devenue formatrice. Elle a travaillé à la formation des chauffeurs à la fois sur la route et dans l’utilisation du système informatique. Robert Hover a travaillé durant 20 ans comme chauffeur de taxi. Durant les quatre premières années, il travaillait pour son père; au cours des 16 dernières années, il a travaillé pour l’appelante, de 6 heures à 18 heures, du lundi au vendredi. L’intimé a appelé quatre des chauffeurs de l’appelante. John Hume avait été chauffeur pour City Cab durant 25 ans. Thomas Armstrong, Randy Craig et William Denholm avaient tous été chauffeurs pour City Cab durant des périodes qui n’ont pas été précisées. Les quatre derniers témoins n’ont pas été cohérents dans leurs dépositions. Par exemple, M. Craig a dit qu’il se considérait comme un employé, alors que M. Denholm se voyait comme un travailleur autonome. Comme il s’agit là d’une question mixte de droit et de fait, leurs opinions ont peu de poids, mais il est révélateur qu’elles soient diamétralement opposées sur cet aspect. Une bonne part de leurs dépositions a porté sur ce qui, d’après eux, constituait les modalités de leur emploi et les modalités de l’emploi des autres chauffeurs de City Cab. Selon moi, M. Sayle était le mieux placer pour témoigner sur la question, pour les raisons que j’ai déjà indiquées. Quant aux autres témoins, c’est Mme Thrasher et Mme Kish qui avaient le plus d’expérience, en raison des divers postes qu’elles avaient occupés. Plus précisément, leur expérience de répartitrice et de formatrice respectivement, outre le fait qu’elles avaient été chauffeuses, les rendait, plus que les autres témoins, susceptibles d’avoir une bonne compréhension de la relation non écrite entre l’entreprise et ses chauffeurs.
+[14] Me Miller fait valoir que l’appelante, dans la présente affaire, pouvait exercer, et exerçait effectivement, un contrôle plus large sur les chauffeurs dans l’accomplissement de leurs tâches que ce n’était le cas pour les deux entreprises de taxi de Sault-Sainte-Marie. Il en veut pour preuve le Livre rouge. Comme je l’ai dit au paragraphe 8 ci-dessus, je crois que le Livre rouge, considéré dans sa globalité, est censé constituer pour les chauffeurs, en particulier les chauffeurs sans expérience, une référence utile, qui sera pour eux une mine de conseils sur les nombreux aspects de leur métier, et qui en même temps les aidera à éviter tout comportement susceptible de préjudicier à leurs propres intérêts, de même qu’à ceux de l’appelante. On peut dire la même chose de la formation dispensée aux chauffeurs. Sans doute est-il vrai que l’appelante offre davantage de formation à ses chauffeurs que les appelantes de Sault-Sainte-Marie, du moins à ceux de ses nouveaux chauffeurs qui en ont besoin davantage que d’autres, mais cette formation vise à les rendre plus aptes à exercer leur métier et plus aptes à éviter les difficultés.
+[15] Il y a des différences dans la manière dont les quarts sont organisés, par rapport aux affaires précédentes, mais je ne crois pas que ces différences changent quelque chose dans le présent litige. Je suis d’avis que les chauffeurs de City Cab étaient tout à fait libres d’organiser leurs quarts comme ils l’entendaient, de prendre des vacances ou des congés quand ils le voulaient, ou de prendre des pauses durant leurs quarts quand ils le voulaient. Leurs quarts étaient enregistrés par M. Sayle, et ils étaient d’une durée fixe régulière (encore que pas tous de la même durée), mais les chauffeurs qui ont témoigné m’ont indiqué clairement que leurs quarts étaient fixés comme ils l’entendaient et que, pensaient-ils, ils pouvaient les modifier s’ils le souhaitaient. Ils pouvaient prendre des pauses en sortant tout simplement du système informatique, mais, pour des raisons opérationnelles, il était entendu qu’ils devaient en faire la demande au répartiteur avant de sortir du système. On ne leur interdisait jamais de prendre une pause, mais parfois ils étaient priés de la reporter durant une période particulièrement active.
+[16] La mesure dans laquelle les chauffeurs étaient autorisés à se servir de leur véhicule pour leur usage personnel n’est pas non plus selon moi une distinction importante. Manifestement, les chauffeurs de City Cab pouvaient, sans obtenir d’autorisation, et sans qu’il leur en coûte rien, se servir des véhicules de l’appelante à des fins personnelles durant leurs quarts, pour s’occuper de leurs propres affaires dans les limites de la ville. Ils ne pouvaient pas le faire en dehors de leurs quarts, mais cela ne surprendra personne. La liberté pour un chauffeur de taxi de pouvoir conduire son véhicule comme il l’entend ne doit pas être confondue avec le libre accès à ce véhicule en dehors des heures de travail et à des fins personnelles. Les chauffeurs pouvaient aussi se servir de leurs véhicules à des fins personnelles en dehors de la ville, mais, s’ils le faisaient, ils devaient assumer financièrement cette utilisation.
+[17] Les chauffeurs de l’appelante étaient libres de se constituer leur propre clientèle et donc d’augmenter leurs recettes. Si un client appelait et insistait pour avoir tel ou tel chauffeur, et si le chauffeur en question exécutait déjà une course, alors le client pouvait soit accepter un autre chauffeur, soit attendre que le chauffeur qu’il avait demandé soit libre. Les répartiteurs de l’entreprise donnaient satisfaction aux clients qui voulaient avoir un chauffeur en particulier, sous réserve uniquement des nécessités du service. Les chauffeurs étaient libres eux aussi de refuser des clients, dans la mesure où ils ne le faisaient pas d’une manière répétitive et sans raison. Encore une fois, ce sont les nécessités du service qui primaient, étant donné que, si elle voulait prospérer, l’appelante devait être attentive aux besoins du public.
+[18] Il n’y a aucune raison de faire, entre les présents appels et ceux des entreprises de Sault-Sainte-Marie, une distinction fondée sur l’aptitude du système informatisé de répartition à voir où se trouve tel ou tel chauffeur à tel ou tel moment, ou sur la vitesse à laquelle les chauffeurs se déplacent, ou sur la nécessité pour les chauffeurs d’entrer dans le système ou d’en sortir au début et à la fin de leurs quarts. Le témoignage de M. Sayle me convainc que le système de répartition a été acheté, et qu’il est utilisé, uniquement pour permettre à l’appelante, au moyen de sa flotte de taxis, d’offrir le meilleur service de taxi possible aux habitants de Brantford. Les chauffeurs devaient entrer dans le système et en sortir, et l’appelante pouvait savoir à tout moment où se trouvaient ses véhicules, mais cela faisait partie des nécessités du service fourni par l’appelante. M. Sayle a dit que le système informatique n’était pas utilisé pour surveiller la vitesse à laquelle les véhicules se déplaçaient, et que lui-même ne croyait pas que le système pouvait le faire avec exactitude. C’était une fonction du système qu’il ne voulait pas, mais qui faisait partie intégrante du système. La fonction de repérage géographique était nécessaire et servait à aider les chauffeurs à se conformer à l’obligation que leur faisait le règlement municipal d’emprunter l’itinéraire le plus court possible.
+[19] Les chauffeurs doivent s’assurer de la propreté des véhicules, à l’intérieur comme à l’extérieur. Le règlement municipal et le bon sens l’exigent. Le nettoyage est payé par l’entreprise, et les chauffeurs doivent soit se charger du nettoyage, auquel cas ils sont payés pour le faire, soit amener le véhicule dans un garage pour qu’il soit nettoyé aux frais de l’entreprise. Les chauffeurs doivent aussi s’assurer que l’intérieur des véhicules est en ordre et nettoyer tout déversement dès qu’il survient. L’entreprise assume les frais de carburant, mais les chauffeurs doivent s’assurer de remplir le réservoir lorsque c’est nécessaire, ainsi qu’à la fin de leur quart. Il s’agit là aussi, simplement, des nécessités du service; le règlement municipal prévoit qu’un taxi doit [traduction] « pouvoir se prêter à une utilisation comme taxi ». Il est raisonnable de présumer que, si ces tâches ne sont pas attribuées et accomplies méthodiquement, alors l’entreprise de l’appelante en souffrira, tout comme les activités du chauffeur concerné. C’est vrai également pour la consigne selon laquelle les chauffeurs doivent être propres et habillés convenablement lorsqu’ils sont de service. Pareillement, les consignes d’après lesquelles les chauffeurs doivent se stationner à des endroits visibles et s’abstenir de tout dégât ne constituent pas un contrôle exercé sur les chauffeurs, mais sont plutôt des conseils judicieux dont l’objet est de les aider à maximiser leurs gains ainsi que le bénéfice de l’entreprise.
+[20] L’intimé fait valoir que les chauffeurs n’avaient pas le droit d’engager des remplaçants. Le témoignage de M. Sayle établit clairement que les chauffeurs avaient ce droit, à la condition que le remplaçant dispose d’un permis valide de chauffeur de taxi, qu’il soit couvert par la police d’assurance de l’appelante et qu’il soit inscrit dans le système informatique. Ces trois exigences sont évidemment des exigences opérationnelles raisonnables. L’appelante ne pourrait pas laisser des chauffeurs sans permis ou sans assurance conduire ses véhicules, et ces chauffeurs ne pourraient pas s’enregistrer sur le système de répartition s’ils n’étaient pas saisis dans le système au moyen d’un nom d’entrée en communication et d’un mot de passe. L’arrangement financier conclu entre un chauffeur et son remplaçant n’importait pas à l’appelante, dans la mesure où elle recevait à la fin du quart les 60 p. 100 des recettes auxquels elle avait droit.
+[21] Des sanctions disciplinaires pouvaient être imposées aux chauffeurs s’ils contrevenaient au code vestimentaire, s’ils fumaient ou buvaient en service ou s’ils négligeaient de remettre à l’appelante 60 p. 100 de leurs recettes. Au fil des ans, le nombre de cas où des sanctions ont été imposées a été faible, et la même politique s’applique aux chauffeurs indépendants et aux chauffeurs des véhicules appartenant à l’entreprise. Toute sanction du genre, qu’il s’agisse d’une suspension ou d’un renvoi, était appliquée rarement et visait à décourager les comportements susceptibles de nuire à l’entreprise, qu’ils soient le fait d’un chauffeur indépendant ou d’un chauffeur de l’entreprise.
+[22] La responsabilité de l’investissement et de la gestion est l’un des éléments du critère en quatre volets qui a été formulé par la Cour d'appel fédérale dans l’arrêt Wiebe Door Services Ltd. c. Canada[7]. Dans la présente affaire, les chauffeurs n’ont pas investi, ou très peu. Les principaux biens qu’ils utilisent sont les véhicules et le système informatique. L’intimé ne prétend pas que les chauffeurs qui sont propriétaires de leurs véhicules travaillent à leur propre compte, bien que le fait d’être propriétaire du véhicule soit l’élément distinctif le plus important entre les deux groupes de chauffeurs. Le fond de cet aspect de l’analyse consiste à faire la distinction entre ceux qui gagnent un salaire et les entrepreneurs. Bon nombre d’entrepreneurs louent les biens qu’ils utilisent dans leurs activités, au lieu d’en être propriétaires. En l’espèce, les chauffeurs ne sont pas propriétaires des véhicules qu’ils conduisent, mais les frais d’investissement et les frais d’exploitation entraînés par ces véhicules sont supportés par l’appelante sur les 60 p. 100 de recettes brutes que les chauffeurs lui remettent à la fin de chaque quart. Sur le plan économique, une partie des recettes brutes des chauffeurs servent à assumer les frais en question.
+[23] Les perspectives de bénéfice et les risques de perte, selon les expressions employées à l’origine par W. O. Douglas[8], et plus tard par lord Wright[9], constituent un élément du critère en quatre volets, mais cet élément ne doit pas être nécessairement appliqué d’une manière technique, comme le voudrait l’intimé. Encore une fois, cet élément du critère a pour objet de faire la distinction entre celui qui travaille pour l’entreprise d’une autre personne et celui qui travaille à son propre compte. C’est cette distinction qui avait conduit le juge Cooke à exprimer le critère de cette façon dans la décision Market Investigations[10] :
+[traduction]
+[…] le critère fondamental à appliquer est celui-ci : « la personne dont il s’agit travaille-t-elle à son propre compte? Si la réponse à cette question est affirmative, alors nous avons affaire à un contrat d’entreprise. Si la réponse est négative, alors nous avons affaire à un contrat de louage de services.
+Cet énoncé de la question a été explicitement entériné par la Cour d'appel fédérale dans l’arrêt Wiebe Door, et par la Cour suprême du Canada dans l’arrêt Sagaz. Ici, les chauffeurs ne se distinguent pas, sur bien des points, des chauffeurs indépendants qui sont propriétaires de leurs véhicules. Les deux groupes peuvent recourir aux mêmes services d’appel et de répartition. Tous deux peuvent recourir de la même façon aux logotypes, aux enseignes et aux cartes de visite de l’entreprise. Tous deux travaillent de la même façon et dans la même zone géographique. L’unique différence importante est le fait que les chauffeurs indépendants sont propriétaires de leurs véhicules et de leurs permis, qu’ils paient eux-mêmes l’essence et les autres frais d’exploitation de leurs véhicules et qu’ils paient un droit hebdomadaire fixe à l’appelante, alors que les chauffeurs de l’entreprise ne sont pas propriétaires des véhicules ou des permis de taxi, et ne paient pas l’essence et les autres frais d’exploitation, mais plutôt versent à l’appelante un pourcentage de leurs recettes brutes. Il n’est pas contesté que les chauffeurs indépendants travaillent à leur propre compte. Je ne crois pas que le fait d’assumer les frais d’utilisation du véhicule et du permis qui l’accompagne, par le biais du pourcentage versé à l’appelante plutôt que par le fait d’être directement propriétaire du véhicule, constitue une distinction qui permette de conclure que les chauffeurs des véhicules appartenant à l’entreprise sont des employés.
+[24] Il a été établi qu’un chauffeur expérimenté qui utilise à bon escient le système informatique peut gagner beaucoup plus qu’un autre qui ne l’utilise pas. Le fait de se trouver au bon endroit au bon moment peut donner à un chauffeur la possibilité d’augmenter sensiblement ses recettes brutes, et donc son revenu, durant un quart. Les risques de perte ne sont pas considérables, quel que soit le groupe considéré. Il s’agit principalement de la possibilité pour le chauffeur de perdre des billets, du coût possible d’un accident dont il est responsable, ou encore du refus de payer d’un client. Tous ces cas sont plutôt rares, et les deux groupes y sont exposés. Les chauffeurs indépendants ont investi dans leur véhicule, mais leur police d’assurance minimiserait pour eux le risque de perte.
+[25] L’avocat de l’intimé fait valoir que le niveau d’intégration des chauffeurs de l’entreprise dans les activités de l’appelante permet d’affirmer qu’ils sont des employés, non des entrepreneurs. Je ne partage pas cet avis, car la mesure dans laquelle les deux groupes de chauffeurs sont intégrés dans l’entreprise de City Cab ne présente guère de différences entre les deux groupes. Un client qui appelle un taxi, ou qui hèle un taxi dans la rue, ne sera pas en mesure de dire si le chauffeur exploite son propre taxi ou un taxi appartenant à l’appelante. Le critère de l’intégration n’est pas utile dans la présente affaire.
+[26] Il ne s’agit pas ici d’une affaire assimilable à l’affaire Royal Winnipeg Ballet c. Canada[11], où il existait un terrain d’entente sur la relation des parties. Deux des chauffeurs appelés à témoigner par l’intimé ont été priés de dire s’ils se considéraient comme des chauffeurs travaillant à leur propre compte. M. Craig a dit qu’il se considérait comme un employé. M. Denholm pensait qu’il travaillait à son propre compte. M. Sayle a dit qu’il avait toujours considéré les chauffeurs comme des travailleurs autonomes. L’avocat de l’intimé a aussi accordé beaucoup d’importance au fait que l’appelante versait à ses chauffeurs une indemnité de vacances de 5 p. 100, payait les primes de la CSPAAT et versait la TPS sur les recettes brutes des chauffeurs. M. Sayle a expliqué que les autorités provinciales l’avaient obligé à payer des indemnités de vacances et qu’il avait décidé, pour des raisons pratiques, d’accepter cela plutôt que de s’engager dans une contestation. L’obligation légale de verser les primes de la CSPAAT est loin d’être établie, mais l’on peut comprendre que l’entreprise ne soit guère tentée d’en faire un sujet de discorde. M. Sayle a expliqué que, si les chauffeurs devaient être tenus eux-mêmes de rendre compte de la TPS, cela compliquerait les choses pour ceux qui ne sont pas inscrits à la TPS. Afin que la TPS soit payée comme elle le devait, le prix des courses était rajusté pour en tenir compte, et l’entreprise en prenait la responsabilité. Il pourrait s’agir là d’une vue erronée de la manière dont la partie IX de la Loi sur la taxe d'accise[12] est censée s’appliquer, mais cet aspect n’est pas déterminant pour la question que je dois trancher.
+[27] La preuve me convainc que la réponse à donner à la question du juge Cooke est la suivante : « oui, ces chauffeurs travaillent à leur propre compte ». Dans la décision Pemberton Taxi Ltd. c. M.R.N.[13], un contexte factuel très semblable, le juge Bonner écrivait ce qui suit :
+[traduction]
+[…] l’arrangement conclu entre l’appelante et ses chauffeurs était essentiellement un arrangement prévoyant la location des véhicules, en échange d’une part des recettes tirées de l’exploitation du véhicule par le chauffeur qui louait le véhicule.
+Puis il concluait que le chauffeur travaillait à son propre compte. Il n’en va pas différemment dans la présente affaire. Les appels seront donc accueillis et les cotisations annulées.
+Signé à Ottawa, Canada, ce 23e jour d’avril 2009.
+« E.A. Bowie »
+Juge Bowie
+Traduction certifiée conforme
+ce 8e jour de juin 2009
+Christian Laroche, LL.B.
+Réviseur
+RÉFÉRENCE : 2009 CCI 218
+N° DU DOSSIER DE LA COUR : 2006-1655(CPP)
+INTITULÉ : CITY CAB (BRANTFORD-DARLING ST.) LIMITED et
+LE MINISTRE DU REVENU NATIONAL et THOMAS ARMSTRONG
+LIEU DE L’AUDIENCE : London (Ontario)
+DATE DE L’AUDIENCE : Le 21 juin 2007
+MOTIFS DU JUGEMENT : L’honorable juge E.A. Bowie
+DATE DU JUGEMENT : Le 23 avril 2009
+COMPARUTIONS :
+Avocate de l’appelante :
+Me Rebecca L. Grima
+Avocat de l’intimé :
+Me Andrew Miller
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom : Rebecca L. Grima
+Cabinet : Giffen & Partners
+Pour l’intimé : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] L.R.C. 1985, ch. C-8, et modifications.
+[2] Pemberton Taxi Ltd. c. M.R.N., 2003 CCI 462; 1022239 Ontario Inc. c. M.R.N., 2004 CCI 615; Algoma Taxicab Management Ltd c. M.R.N., 2006 CCI 71.
+[3] DORS/96-332, et modifications.
+[4] Livre rouge, pièce A-2, page 35.
+[5] 671122 Ontario Ltd. c. Sagaz Industries Canada Inc., [2001] 2 R.C.S. 983.
+[6] Ibid., paragraphe 46.
+[7] [1986] 3 C.F. 553.
+[8] « Vicarious liability and Administration of Risk I » (1928-9), 38 Yale L.J. 584.
+[9] Montreal v. Montreal Locomotive Works Ltd., [1947] 1 D.L.R. 161, page 169.
+[10] Market Investigations, Ltd v. Minister of Social Security, [1968] 3 All E.R. 732 (Q.B.D.), pages 737 et 738.
+[11] [2007] 1 C.F. 35.
+[12] L.R.C. 1985, ch. E-15, et modifications.
+[13] Supra, note 2.

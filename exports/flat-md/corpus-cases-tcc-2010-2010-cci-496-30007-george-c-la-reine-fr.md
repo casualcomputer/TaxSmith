@@ -1,0 +1,155 @@
+---
+title: "George c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30007/index.do"
+last_modified: "2010-10-06"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 CCI 496"
+citation2: ""
+neutral_citation: "2010 CCI 496"
+decision_date: "2010-10-06"
+language: "fr"
+item_id: "30007"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7678
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T12:33:44.789000+00:00"
+cases_cited_count: 2
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "4b2aa61cbfb8c7e738d1dcce98b2186574b6dd77ed7e45fc6b62a76f306ff78e"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# George c. La Reine
+
+- Citation: 2010 CCI 496
+- Decision date: 2010-10-06
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7678, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+George c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2010-10-06
+Référence neutre
+2010 CCI 496
+Numéro de dossier
+2010-844(IT)I
+Juges et Officiers taxateurs
+Judith Woods
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2010-844(IT)I
+ENTRE :
+MICHAEL GEORGE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 30 septembre 2010 à Fredericton (Nouveau‑Brunswick).
+Devant : L’honorable juge Judith Woods
+Comparutions :
+Pour l’appelant :
+L’appelant lui‑même
+Avocat de l’intimée :
+Me Jan Jensen
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’encontre d’une cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2007 est rejeté.
+Signé à Ottawa, Canada, ce 6e jour d’octobre 2010.
+« J. M. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 29e jour de novembre 2010.
+Espérance Mabushi, M.A.Trad. Jur.
+Référence : 2010 CCI 496
+Date : 20101006
+Dossier : 2010-844(IT)I
+ENTRE :
+MICHAEL GEORGE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+La juge Woods
+[1] La question en litige dans le présent appel consiste à savoir si l’appelant, Michael George, a le droit de déduire les frais de garde d’enfants pour son enfant atteint d’une invalidité grave en application du paragraphe 63(1) de la Loi de l’impôt sur le revenu (la « Loi »).
+[2] Au cours de l’année d’imposition 2007, l’appelant a engagé des frais s’élevant à 19 109 $ à titre de rémunération pour la garde d’enfants. Dans sa déclaration de revenu, l’appelant a déduit une partie de ce montant, soit 10 000 $, en application du paragraphe 63(1) de la Loi, ce qui représente le montant maximal accordé au titre de cette disposition. Le solde de cette dépense, soit 9 109 $, a été déduit du revenu à titre de frais de préposé aux soins, aux fins du crédit d’impôt pour frais médicaux.
+[3] Le ministre du Revenu national (le « ministre ») a refusé la déduction demandée au titre du paragraphe 63 de la Loi compte tenu du fait que la déduction ne peut être accordée qu’au conjoint ayant le revenu le moins élevé.
+[4] L’appelant reconnaît qu’il est bien le conjoint qui avait le revenu le plus élevé au cours de l’année en cause, mais il soutient que le ministre fait une interprétation trop stricte de la loi. Il a résumé ses motifs dans une argumentation soigneusement présentée, dont voici un extrait :
+[traduction]
+7. Toutefois, je démontrerai que cet argument est :
+(i) Trop simpliste et constitue une interprétation trop stricte de la DFGE lorsqu’il s’agit des complexités relatives au soutien d’un enfant atteint d’une invalidité grave et prolongée;
+(ii) Inopérant, car il concerne un enfant qui a besoin de soins vingt‑quatre heures sur vingt‑quatre;
+(iii) Punitif et déraisonnable lorsque la personne assumant les frais d’entretien de l’enfant ne dispose pas de moyens financiers suffisants pour prendre en charge les frais occasionnés par les soins nécessaires à un enfant atteint d’une telle invalidité;
+(iv) Contraire à l’objectif des dispositions législatives en matière de frais de garde d’enfants, lequel objectif est d’accorder un allégement fiscal aux contribuables tout en atteignant une équité horizontale au sein du régime fiscal.
+[5] Bien que la situation de l’appelant suscite beaucoup de compassion, je ne peux pas conclure qu’il a droit à l’allègement fiscal qu’il demande. En vertu du paragraphe 63(2) de la Loi, la déduction prévue à l’article 63(1) de la Loi ne peut pas être accordée si le contribuable a un revenu plus élevé que celui de son conjoint pour l’année d’imposition en cause. Certaines exceptions sont prévues, mais aucune n’est applicable en l’espèce.
+[6] Le refus de la déduction au conjoint ayant le revenu le plus élevé est prévu par une formule qui n’est pas facile à comprendre. Toutefois, il ressort clairement de la formule que la déduction est refusée au conjoint ayant le revenu le plus élevé, ainsi qu’il a été jugé dans Stone v. The Queen, 2003 CAF 268, 2003 DTC 5493.
+[7] Le paragraphe 63(2) de la Loi est ainsi libellé :
+63(2) Dans le cas où le revenu, pour une année d’imposition, d’un contribuable qui a un enfant admissible pour l’année dépasse le revenu, pour cette année, d’une personne assumant les frais d’entretien de l’enfant (les deux revenus étant censément calculés sans le présent article et les alinéas 60v.1) et w)), le montant que le contribuable peut déduire en application du paragraphe (1) pour l’année au titre des frais de garde d’enfants ne peut dépasser le moins élevé des montants suivants :
+a) le montant qu’il pourrait, sans le présent paragraphe, déduire pour l’année en vertu du paragraphe (1);
+b) le montant obtenu par la formule suivante :
+A × C
+où :
+A représente le total des montants représentant chacun le montant périodique de frais de garde d’enfants pour un enfant admissible du contribuable pour l’année,
+[…]
+C la somme des nombres suivants :
+(i) le nombre de semaines de l’année au cours desquelles les frais de garde d’enfants ont été engagés et tout au long desquelles la personne assumant les frais d’entretien était :
+(A) soit un étudiant qui fréquente un établissement d’enseignement agréé ou une école secondaire et y est inscrit à un programme d’une durée d’au moins trois semaines consécutives, aux cours ou aux travaux duquel chaque étudiant doit consacrer au moins dix heures par semaine,
+(B) soit une personne qu’un médecin en titre atteste être quelqu’un qui, selon le cas :
+(I) a été dans l’incapacité de s’occuper de ses enfants en raison de l’infirmité mentale ou physique qu’elle a et de l’obligation, tout au long d’une période d’au moins deux semaines de l’année, de garder le lit, de demeurer dans un fauteuil roulant ou d’effectuer un séjour dans un hôpital, un asile ou tout autre établissement semblable,
+(II) a été au cours de l’année et sera vraisemblablement, pendant une longue période indéfinie, dans l’incapacité de s’occuper de ses enfants en raison de l’infirmité mentale ou physique qu’elle a,
+(C) soit une personne qui a été détenue dans une prison ou dans un établissement semblable tout au long d’une période d’au moins deux semaines de l’année,
+(D) soit une personne qui, pour cause d’échec de son mariage ou union de fait, vit séparée du contribuable à la fin de l’année et pendant une période d’au moins 90 jours ayant commencé au cours de l’année,
+(ii) le nombre de mois de l’année (sauf un mois qui comprend tout ou partie d’une semaine comprise dans le nombre de semaines visé au sous-alinéa (i)), dont chacun est un mois au cours duquel les frais de garde d’enfants ont été engagés et la personne assumant les frais d’entretien était un étudiant qui fréquente un établissement d’enseignement agréé ou une école secondaire et y est inscrit à un programme d’une durée d’au moins trois semaines consécutives, au cours duquel chaque étudiant doit consacrer au moins douze heures par mois.
+[8] L’appelant demande que soit faite une interprétation de l’article 63 de la Loi, lequel article accorde un meilleur allègement fiscal aux familles qui s’occupent des enfants atteints d’une invalidité grave. Ledit allègement est l’expression d’un souhait sur le plan des principes, mais il n’est pas prévu à l’article 63 de la Loi. Pour accorder l’allègement demandé, je devrais faire abstraction de la restriction législative prévue au paragraphe 63(2) de la Loi. Le législateur a prévu de restreindre la déduction au conjoint ayant le revenu le moins élevé, et cette prérogative appartient au législateur.
+[9] L’appel est rejeté.
+Signé à Ottawa, Canada, ce 6e jour d’octobre 2010.
+« J. M. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 29e jour de novembre 2010.
+Espérance Mabushi, M.A.Trad. Jur.
+RÉFÉRENCE : 2010 CCI 496
+NO DU DOSSIER DE LA COUR : 2010-844(IT)I
+INTITULÉ : MICHAEL GEORGE
+c.
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Fredericton (Nouveau‑Brunswick)
+DATE DE L’AUDIENCE : Le 30 septembre 2010
+MOTIFS DU JUGEMENT : L’honorable juge J. M. Woods
+DATE DU JUGEMENT : Le 6 octobre 2010
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui‑même
+Avocat de l’intimée :
+Me Jan Jensen
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom : s/o
+Cabinet :
+Pour l’intimée : Myles J. Kirvan
+Sous‑procureur général du Canada
+Ottawa, Canada

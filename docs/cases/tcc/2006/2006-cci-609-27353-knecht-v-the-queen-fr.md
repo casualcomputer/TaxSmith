@@ -1,0 +1,172 @@
+---
+title: "Knecht v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27353/index.do"
+last_modified: "2006-11-14"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 CCI 609"
+citation2: ""
+neutral_citation: "2006 CCI 609"
+decision_date: "2006-11-14"
+language: "fr"
+item_id: "27353"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 175
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T23:33:50.974000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "4c5f372da6c86fd5c50956aab193074c26a2e0b813fff79656442518fbddb01e"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Knecht v. The Queen
+
+- Citation: 2006 CCI 609
+- Decision date: 2006-11-14
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 175, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Knecht v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-11-14
+Référence neutre
+2006 CCI 609
+Numéro de dossier
+2004-3873(GST)I
+Juges et Officiers taxateurs
+David W. Beaubier
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2004-3873(GST)I
+ENTRE :
+RANDY D. KNECHT,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 2 novembre 2006 à Kelowna (Colombie-Britannique).
+Devant : L’honorable juge D.W. Beaubier
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimée :
+Me Selena Sit
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’égard de la cotisation établie en application de la Loi sur la taxe d’accise, dont l’avis de cotisation relatif à un tiers est daté du 10 juin 2003 et porte le numéro A101366, est rejeté conformément aux motifs du jugement ci‑joints.
+Signé à OTTAWA, Canada, ce 14e jour de novembre 2006.
+« D.W. Beaubier »
+Juge Beaubier
+Traduction certifiée conforme
+Claude Leclerc, LL.B., trad. a.
+Référence : 2006CCI609
+Date : 20061114
+Dossier : 2004-3873(GST)I
+ENTRE :
+RANDY D. KNECHT,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Beaubier
+[1] Le présent appel interjeté dans le cadre de la procédure informelle a été entendu à Kelowna (Colombie‑Britannique), le 2 novembre 2006. L’appelant a témoigné à l’audience. L’intimée a appelé Hannah Chesher, l’agente de recouvrement responsable du dossier, ainsi que John McWhirter, l’agent des appels responsable du dossier, à témoigner.
+[2] Les paragraphes 6 à 14, inclusivement, de la réponse à l’avis d’appel énoncent les questions en litige. Ils sont rédigés ainsi :
+[TRADUCTION]
+6. Par un avis de cotisation relatif à un tiers portant le numéro A101366 et daté du 10 juin 2003, le ministre a établi à l’égard de l’appelant une cotisation fondée sur le paragraphe 323(1) de la Loi sur la taxe d’accise, L.R.C. (1985), ch. E‑15, et ses modifications (la « Loi »). Cette cotisation vise une somme de 70 505,63 $, soit la taxe nette sur les produits et services (« TPS »), l’intérêt et les pénalités, comme il est précisé dans l’annexe « A » ci‑jointe, par suite de l’omission de la société de remettre la taxe nette, et ce, en contravention du paragraphe 228(2) de la Loi.
+7. Le 4 septembre 2003, l’appelant a produit un avis d’opposition.
+8. Par un avis de décision daté du 25 juin 2004, le ministre a ratifié la cotisation.
+9. Lorsqu’il a établi puis ratifié la cotisation, le ministre s’est appuyé sur les mêmes hypothèses de fait, à savoir :
+a) les activités commerciales de la société intéressaient la vente de véhicules neufs et d’occasion;
+b) la société est inscrite sous le régime de la partie IX de la Loi depuis le 1er janvier 1991 et son numéro d’inscrit aux fins de la TPS est le 102813474RT;
+c) la société était tenue de produire des déclarations de TPS tous les mois;
+d) à tous les moments pertinents, la société a effectué des fournitures taxables;
+e) à tous les moments pertinents, la société a perçu ou était tenue de percevoir de la TPS au taux habituel de 7 pour 100 sur les fournitures taxables;
+f) la société n’a pas produit ses déclarations de TPS dans les délais impartis pour les périodes se terminant le 30 novembre 1998 et le 31 décembre 1998 et pour la période du 28 février 1999 au 30 juin 1999;
+g) le prêt consenti par GMAC pour financer le véhicule de la société a été rappelé en totalité en janvier 1999;
+h) la société a produit ses déclarations de TPS pour les périodes du 1er novembre 1998 au 30 juin 1999, comme il est précisé dans l’annexe B ci‑jointe;
+i) la société a continué d’exploiter son entreprise, mais à un moindre degré, jusqu’à la fin de 1999;
+j) la société a omis de remettre la taxe nette pour les périodes du 1er novembre 1998 au 28 février 1999 et du 1er avril 1999 au 30 juin 1999;
+k) le 28 avril 1999, un certificat faisant état d’un montant de 36 911,89 $ au titre de la TPS exigible, de la pénalité et des intérêts, imposés à la société, a été déposée à la Cour fédérale du Canada;
+l) le 30 septembre 1999, un bref de saisie‑exécution a été délivré relativement au certificat du 28 avril 1999 et il a été retourné non exécuté le 31 août 2000;
+m) le 1er octobre 1999, un certificat faisant état d’un montant supplémentaire 22 436,65 $ au titre de la TPS exigible, de la pénalité et des intérêts imposés à la société, a été déposé à la Cour fédérale du Canada;
+n) le 1er octobre 1999, un bref de saisie‑exécution a été délivré relativement au certificat du 1er octobre 1999 et il a été retourné non exécuté le 31 août 2000;
+o) à tous les moments pertinents, l’appelant était un actionnaire et un administrateur de la société;
+p) l’appelant possède de l’expérience dans le domaine de la concession d’automobiles;
+q) l’appelant participait activement à l’exploitation de l’entreprise;
+r) à tous les moments pertinents, l’appelant, à titre d’administrateur de la société, savait que cette dernière devait exiger, percevoir et remettre la TPS sur les fournitures taxables;
+s) l’appelant savait que la société était en difficulté financière au début de 1999;
+t) à tous les moments pertinents, l’appelant connaissait, ou aurait dû connaître, les responsabilités qui incombent à un administrateur, l’obligation de percevoir et de remettre la TPS ainsi que la responsabilité prévue par la loi qu’il assume à titre d’administrateur par suite du défaut de la société de remettre la TPS;
+u) l’appelant n’a pas agi avec autant de soin, de diligence et de compétence pour prévenir le manquement, par la société, de remettre la somme due que ne l’aurait fait une personne raisonnablement prudente dans les mêmes circonstances.
+B. LA QUESTION EN LITIGE
+10. La Cour doit se demander si l’appelant est responsable du défaut, par la société, de remettre au receveur général la taxe nette due ainsi que les pénalités et les intérêts connexes.
+C. LES DISPOSITIONS LÉGISLATIVES INVOQUÉES
+11. Il invoque les articles 123, 165, 221, 222, 225, 228, 280, 296 et 323 de la Loi.
+D. LES MOYENS INVOQUÉS ET LES RÉPARATIONS DEMANDÉES
+12. Il soutient que le ministre a à bon droit établi une cotisation à l’égard de l’appelant en application de l’article 323 de la Loi par suite du défaut de la société, contrairement aux dispositions du paragraphe 228(2) de la Loi, de remettre au receveur général le montant de taxe nette ainsi que les pénalités et les intérêts connexes.
+13. Il soutient en outre que l’appelant n’a pas agi avec autant de soin, de diligence et de compétence pour prévenir le manquement, par la société, de remettre la somme due que ne l’aurait fait une personne raisonnablement prudente dans les mêmes circonstances.
+14. Il demande que l’appel soit rejeté.
+Aucune des hypothèses énoncées au paragraphe 9 n’a été réfutée.
+[3] L’appelant est devenu le directeur de l’exploitation de Ken Taylor Motors Ltd. (la société), un concessionnaire GM situé à Revelstoke, en Colombie‑Britannique, après le décès de son père au milieu de 1996. Le 26 novembre 1999, il a signé une lettre de démission comme administrateur de la société (pièce A‑3), mais sans la remettre à qui que ce soit; le document est simplement demeuré dans une chemise dans son bureau. Le 10 août 2001, la société a été dissoute sous le régime de la Business Corporations Act de la Colombie‑Britannique. Par conséquent, en droit, l’appelant est demeuré administrateur de la société jusqu’au 10 août 2001. Le 10 juin 2003, l’appelant, à titre d’administrateur de la société, a fait l’objet d’une cotisation fondée sur sa responsabilité de tierce partie pour la TPS, les intérêts et les pénalités s’élevant à 70 505,63 $ dus par la société.
+[4] L’appelant agissait comme l’administrateur « interne » de la société et comme directeur de l’exploitation. Tous les gestionnaires de même que l’aide‑comptable et contrôleuse, Annita May, rendaient compte à l’appelant et ce dernier veillait à la gestion quotidienne de la société. Annita May avait le pouvoir de signer les chèques, tout comme l’appelant. Toutefois, en janvier 1999, l’appelant a révoqué le pouvoir de signature des chèques d’Annita May après que la banque eut refusé d’honorer un certain nombre de chèques, y compris deux chèques faits à l’ordre de General Motors Acceptance (« GMAC »). En conséquence, le 15 janvier 1999, GMAC a envoyé deux représentants aux bureaux de la société à Revelstoke. Ils y sont demeurés jusqu’à ce que la société ait vendu suffisamment de véhicules pour payer GMAC, soit vers le 4 février 1999. GMAC a conservé tous les paiements faits au titre des ventes, y compris le montant de TPS relatif à chacune des opérations (soit une somme totale de 14 191,03 $) pour les appliquer au remboursement de son propre prêt, après quoi GMAC libérait les véhicules vendus. Un grand nombre de ces véhicules ont été vendus à perte et un grand nombre ont été vendus à d’autres concessionnaires situés en Colombie‑Britannique. En janvier 1999, l’appelant a demandé à GM de trouver un acheteur pour la concession.
+[5] Au même moment, les comptables agréés de la société conseillaient à l’appelant de régler les sommes que la société devait aux employés et de payer la totalité des taxes et des retenues, y compris la TPS, puisqu’il était personnellement responsable de leur paiement. Mais la société n’était pas capable de continuer à exercer ses activités jusqu’à ce que ses éléments d’actif puissent être vendus et de payer en même temps les retenues salariales et la TPS.
+[6] Selon la Cour, il ressort clairement de l’ensemble de la preuve que la situation de la trésorerie de la société était médiocre au moment du décès du père de l’appelant en 1996. M. Knecht a néanmoins continué d’exploiter la société.
+[7] Dans son témoignage, M. Knecht a déclaré que, en novembre 1998, la situation financière de la société s’est à ce point détériorée qu’il a obtenu, non sans difficulté, un découvert « à court terme » à la Banque Royale. L’appelant et la société savaient donc clairement en novembre 1998, que leur situation n’était pas saine. Malgré cela, M. Knecht a omis de faire preuve d’une plus grande rigueur dans l’exploitation de la société et de vérifier le compte de TPS et le compte des retenues salariales des employés. En particulier, il a autorisé l’aide‑comptable et contrôleuse à continuer d’émettre des chèques de la société et de payer les comptes à son entière discrétion. La Cour estime que l’appelant a fait preuve de négligence en novembre 1998 et par la suite lorsqu’il a omis de vérifier et de s’assurer que la TPS était payée ou, du reste, lorsqu’il a omis d’exercer activement un contrôle sur les opérations commerciales de la société en novembre 1998.
+[8] M. Knecht a permis à Annita May de payer les divers comptes selon ce qu’elle jugeait approprié (y compris une dette de 32 000 $ que la société avait envers elle), et ce, jusqu’en janvier 1999. M. Knecht a tenté de justifier son omission par le fait qu’il était occupé à régler des questions liées à la succession de son père et qu’il n’avait pas porté attention aux affaires de la société. Or, à titre de président, d’administrateur et de directeur de l’exploitation, il avait la responsabilité de gérer la société et de payer les comptes de celle‑ci. Plus particulièrement, le compte de TPS constituait un compte en fiducie en faveur du gouvernement du Canada et non pas une simple dette. À la lumière de la preuve présentée à la Cour, M. Knecht a omis de superviser activement les paiements effectués par la société, et ce, dès 1996, lorsque son père est décédé.
+[9] À partir de janvier 1998 et jusqu’au moment de la perte de la concession GM, l’appelant était le mandant du concessionnaire pour GM et à partir du décès de son père au milieu de 1996, l’appelant agissait comme directeur de l’exploitation de la société. Après que la banque eut refusé d’honorer les chèques de la société en janvier 1999, l’appelant a quand même continué de payer les factures d’exploitation, comme l’assurance, l’électricité, le téléphone et le service de la paye, pour que le commerce reste ouvert et qu’il puisse vendre une société en exploitation. C’est donc en connaissance de cause qu’il décidait qui allait être payé. Mais il a reconnu qu’une fois les véhicules partis en février 1999, tout ce qui restait à la société tenait à ses éléments d’actifs. La plupart des membres du personnel ont alors été mis à pied et des indemnités de départ ont donc été versées.
+[10] La société a mis son immeuble à vendre en 1999 au prix de la valeur d’expertise, c’est-à-dire 150 000 $. En septembre 1999, elle a accepté une offre d’achat faite relativement à cet immeuble. Le témoignage de l’appelant est plutôt vague en ce qui concerne la façon dont le produit de la vente a été distribué. Une somme de 92 000 $ a été payée aux créanciers garantis ayant un privilège sur l’immeuble, mais le véritable prix de vente et le produit net de celle‑ci n’ont pas été précisés. Selon l’appelant, l’Agence du revenu du Canada (l’« ARC ») aurait dû saisir sur le produit de la vente les sommes que la société lui devait au titre de la TPS, mais elle ne l’a pas fait. L’appelant n’a pas réussi à expliquer pourquoi la société a fait défaut de payer l’ARC et de verser le montant qu’elle lui devait dans son compte de TPS.
+[11] Le 17 novembre 1999, le shérif a saisi les éléments d’actif de la société, notamment des comptes créditeurs d’environ 70 000 $, selon les documents comptables. Le 26 novembre 1999, après des semaines de négociation, GM a accepté la démission de la société à titre de concessionnaire, ce qui a permis à cette dernière de retourner les pièces GM et ainsi d’obtenir un remboursement. En février 2000, le reste des éléments d’actif de la société ont été vendus aux enchères.
+[12] L’appelant était contrarié du fait qu’une saisie effectuée par l’ARC auprès de la Banque Royale aurait dû permettre de recouvrer une somme de 32 770,04 $, mais que cette mesure a échoué par suite d’une signification irrégulière le 29 juillet 1999. Il estimait en outre que l’ARC aurait dû prendre des mesures plus rigoureuses contre d’autres créanciers de la société. Cependant, la Cour est d’avis que cet argument appelle deux réponses, la seconde étant prépondérante :
+1. La société aurait dû elle‑même faire preuve d’une plus grande rigueur pour recouvrer ses créances lorsqu’elle en avait encore la possibilité.
+2. Quelles que soient les présumées omissions de l’ARC, celles‑ci ne peuvent servir à justifier la société et l’appelant, en qualité de directeur de l’exploitation, de ne pas avoir recouvré et payé la TPS comme cela devait être fait et comme les comptables agréés avaient avisé l’appelant de le faire.
+[13] De l’avis de la Cour, l’appelant, à titre de directeur de l’exploitation, avait l’obligation de prévenir le manquement, par la société, de remette la TPS, et ce, depuis le moment où il est devenu le directeur de l’exploitation au décès de son père en juin 1996. Il a omis de superviser Annita May, la contrôleuse, et cela est devenu évident pour tous, y compris lui‑même, en janvier 1999. En novembre 1998, il a clairement été mis au courant de la situation précaire de la trésorerie de la société lorsqu’il a dû négocier un découvert « à court terme » avec la banque. À partir de ce moment, il était manifestement au fait des problèmes qu’éprouvait la société et, en janvier 1999, les comptables agréés de cette dernière l’ont averti qu’il était personnellement responsable de la TPS.
+[14] L’appelant avait l’obligation de prévenir le manquement de remise de la TPS. Il avait le contrôle de la société et, antérieurement à janvier 1999, il a fait preuve de négligence en omettant de prévenir ce manquement. Il est manifeste que l’appelant, depuis novembre 1998, a fait preuve de négligence en omettant de prévenir le manquement, par la société, de remettre la TPS alors qu’une personne raisonnablement prudente aurait veillé à ce que cette TPS soit payée. À partir de janvier 1999, il a délibérément choisi de payer en priorité des comptes autres que la TPS. Pour toutes ces raisons, l’appel est rejeté.
+Signé à OTTAWA, Canada, ce 14e jour de novembre 2006.
+« D.W. Beaubier »
+Juge Beaubier
+Traduction certifiée conforme
+Claude Leclerc, LL.B., trad. a.
+RÉFÉRENCE : 2006CCI609
+NO DU DOSSIER DE LA COUR : 2004-3873(GST)I
+INTITULÉ DE LA CAUSE : Randy D. Knecht c. La Reine
+LIEU DE L’AUDIENCE : Kelowna (Colombie‑Britannique)
+DATE DE L’AUDIENCE : Le 2 novembre 2006
+MOTIFS DU JUGEMENT PAR : L’honorable D.W. Beaubier
+DATE DU JUGEMENT : Le 14 novembre 2006
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimée :
+Me Selena Sit
+AVOCAT(E) INSCRIT(E) AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

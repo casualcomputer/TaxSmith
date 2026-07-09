@@ -1,0 +1,197 @@
+---
+title: "Free v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/350959/index.do"
+last_modified: "2018-11-28"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2018 TCC 238"
+citation2: ""
+neutral_citation: "2018 TCC 238"
+decision_date: "2018-11-28"
+language: "en"
+item_id: "350959"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4985
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T11:33:14.385000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "92e5e8e7c69a2f8f48e1e5fdec705c3db72b18716cde37de893b569384d0f0eb"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Free v. The Queen
+
+- Citation: 2018 TCC 238
+- Decision date: 2018-11-28
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4985, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Free v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2018-11-28
+Neutral citation
+2018 TCC 238
+File numbers
+2016-625(IT)I
+Judges and Taxing Officers
+Réal Favreau
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2016-625(IT)I
+BETWEEN:
+DAVID FREE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on May 3, 2018, at Hamilton, Ontario.
+Before: The Honourable Justice Réal Favreau
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Laura Rhodes
+JUDGMENT
+The appeal from the Minister of National Revenue’s reassessment dated December 3, 2015 under the Income Tax Act, concerning the appellant’s 2007 taxation year is dismissed, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 28th day of November 2018.
+“Réal Favreau”
+Favreau J.
+Citation: 2018 TCC 238
+Date: 20181128
+Docket: 2016-625(IT)I
+BETWEEN:
+DAVID FREE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Favreau J.
+[1] This is an appeal from a reassessment dated December 3, 2015, made by the Minister of National Revenue (the “Minister”) under the Income Tax Act, R.S.C. 1985, c. 1 (5th Supp.), as amended (the “ITA”) concerning the appellant’s 2007 taxation year.
+[2] The appellant failed to file his income tax return for 2007.
+[3] The Minister assessed the appellant for 2007 pursuant to subsection 152(7) of the ITA on the basis that he had received employment income of $82,646, a lump sum payment in the form of other income in the amount of $187,500 from the Corporation of the Municipality of Meaford (“Meaford”) and pension contribution of $16,685. The notice of assessment is dated December 7, 2009.
+[4] The appellant opposed the assessment by filing his notice of objection on August 25, 2010.
+[5] By a letter dated September 23, 2015, the Minister varied the assessment by allowing a contribution of $45,879 to a Registered Retirement Savings Plan (“RRSP”), $5,462 for legal expenses and $3,849 for medical expenses but denied the appellant’s claimed gross business income of $3,140 and net business loss of $29,731.
+[6] The Minister further reviewed the appellant’s claim for a loss carry-back of $56,769 resulting in the amount being allowed and a notice of reassessment was issued on December 3, 2015.
+[7] The appellant filed his notice of appeal with respect to the denied net business loss of $29,731 on April 28, 2016 after this Court granted the appellant an extension of time to appeal his 2007 taxation year.
+[8] The respondent filed a reply to the notice of appeal on July 8, 2016.
+[9] The appellant previously appealed to this Court his denied business expenses for the 2005 and 2006 taxation years and the Court dismissed these appeals on November 7, 2014 (Court file number 2010-309(IT)G).
+[10] In determining the appellant’s tax liability for the 2007 taxation year, the Minister relied on the following assumptions of fact:
+. . .
+b) the Appellant was full time employee of the Municipality of Meaford (“Employer”) for the 2005, 2006, and 2007 tax years;
+c) the Appellant received gross employment income of $60,416, $92,700 and $82,646 for the tax years, 2005, 2006, and 2007, respectively;
+d) the Appellant was reimbursed for travel at a per kilometre rate, telephone, office supplies and other expenses, and sub-consultants by his Employer;
+e) the Appellant claimed self-employment business activities income of $3,140, from Automotive Contract Employees Inc. (“Automotive”) for the 2007 tax year;
+f) the Appellant did not receive any self-employment business income from Automotive for the 2007 tax year;
+g) the Appellant claimed business expenses of $32,871.16 for the 2007 tax year;
+h) the Appellant did not incur business expenses of $32,871.16 (“Denied Business Expenses”) in relation to self-employed business activities in the 2007 tax year;
+i) the Denied Business Expenses of $32,871.16 claimed in relation to self-employment business expenses, if incurred, were the personal expenses of the Appellant;
+j) the Appellant claimed net business loss of $29,731.16 for the 2007 tax year;
+k) the Appellant did not incur any net business loss of $29,731.16 in the 2007 tax year as shown in the chart below:
+Item
+Amount
+Gross business income
+Less: GST & PST or HST
+Gross business income net of GST & PST or HST
+Advertising
+Business tax, fees
+Delivery
+Insurance
+Professional
+Meals and entertainment
+Motor vehicle
+Office
+Supplies
+Telephone and utilities
+CCA
+Total expenses
+$ 3,328.00
+$ 188.40
+$ 3,140.00
+$ 1,276.00
+$ 1,589.00
+$ 1,579.00
+$ 2,873.00
+$ 750.00
+$ 1,436.50
+$ 1,697.77
+$ 3,120.00
+$ 1,459.00
+$ 15,931.00
+$ 31,711.27
+$ 1,159.89
+$ 32,871.16
+Claimed net business loss
+$ 29,731.16
+[11] The appellant testified at the hearing. He is a certified engineering technologist (Civil/Municipal) and a certified management accountant who, from March 21, 2005 to May 31, 2007, worked for Meaford as Treasurer/Chief Financial Officer at the beginning and later on as Chief Administrative Officer and Treasurer. The appellant’s status for tax purposes while in the position of Treasurer and Chief Administrative Officer of Meaford has been considered by this Court (Court file number 2010-309(IT)G) and Justice Valerie A. Miller came to the conclusion that the appellant was an employee of Meaford.
+[12] The appellant stated that he has been in business under the name of D R Free & Associates since 1988 providing engineering services in the area of environmental engineering, waste systems design, site planning, municipal planning and other management consulting services. His business is a sole proprietorship and is registered for Goods and Services Tax purposes.
+[13] The appellant confirmed that he claimed professional business income of $3,140 from Automotive Contract Employees Inc. for the 2007 taxation year, which was made up of two invoices dated October 30, 2007 and November 26, 2007. This income represents the only income not originating from Meaford during 2007 and only 4% of his total income for the year (excluding the $187,500 lump sum payment from Meaford).
+[14] The appellant also confirmed that he claimed in his statement of professional activity business expenses totaling $32,871.16 for a net business loss of $29,731.16. The appellant explained that the business expenses that he incurred in 2007 were not related to the work that he performed for Meaford because he was reimbursed by Meaford for his travel expenses at a per kilometre rate, telephone, office supplies and other expenses. However, he did not provide a summary listing of receipts for the expenses claimed on his T2032 Statement of Professional Activities for the 2007 taxation year and the receipts of expenses that he provided in bulk were not segregated from the expenses incurred for Meaford which were reimbursed.
+[15] The appellant stated at the beginning of his testimony that the expenses incurred from January to May 2007 were for Meaford. Thereafter, he stated that an allocation of the expenses claimed has been made based on his timesheets that he did not have with him at the hearing and, finally, he suggested to check his invoices made out to Meaford to identify the expenses charged to Meaford. The appellant recognized that the business expense receipts were not submitted in an organized manner.
+[16] During cross-examination of the appellant, counsel for the respondent asked him questions concerning various expenses claimed. Some expenditures were personal in nature, some were purely for entertainment or for prior years and were submitted by mistake, some were travel expenditures incurred by the appellant including travel with his wife for a job interview he had in New Glasgow, Nova Scotia and some were for golf fees, advertising, entertaining clients or potential clients without record of whom he entertained. Furthermore, some expenses were clearly unreasonable such as telephone and utilities in the amount of $15,931 and $ 3,120 for the use of 1,100 square feet of his house (four rooms and the garage representing four out of eleven rooms) which he used as an office.
+[17] During cross-examination, the appellant admitted that he had no business plan and that he did not recall if his business had ever been profitable. Counsel for the respondent pointed out to him that in 2004 and in some years in the 1990s, he reported a net business income but that in 2001, 2005, 2006 and from 2008 to 2015, he reported a net business loss in each of these years.
+[18] The issues to be decided in this appeal are:
+(a) whether the appellant is entitled to include $3,328 of gross business income for the 2007 taxation year; and
+(b) whether the appellant is entitled to deduct business expenses for the 2007 taxation year, and if so, how much?
+Analysis and Conclusion
+[19] In Stewart v. Canada, [2002] 2 S.C.R. 645, the Supreme Court of Canada established the following test to determine whether or not a taxpayer has a source of income:
+60 In summary, the issue of whether or not a taxpayer has a source of income is to be determined by looking at the commerciality of the activity in question. Where the activity contains no personal element and is clearly commercial, no further inquiry is necessary. Where the activity could be classified as a personal pursuit, then it must be determined whether or not the activity is being carried on in a sufficiently commercial manner to constitute a source of income.
+[20] At paragraph 54 of the same decision, the Supreme Court of Canada made this additional comment concerning the source of income assessment:
+It should also be noted that the source of income assessment is not a purely subjective inquiry. Although in order for an activity to be classified as commercial in nature, the taxpayer must have the subjective intention to profit, in addition, as stated in Moldowan, this determination should be made by looking at a variety of objective factors. Thus, in expanded form, the first stage of the above test can be restated as follows: "Does the taxpayer intend to carry on an activity for profit and is there evidence to support that intention?" This requires the taxpayer to establish that his or her predominant intention is to make a profit from the activity and that the activity has been carried out in accordance with objective standards of businesslike behaviour.
+[21] In this case, I believe that there is a material personal element in the activities carried on by the appellant and in the expenses that he claimed. For example, personal cellphone calls were mixed in the total telephone expenses claimed. He claimed expenses for the use of an office at home when an office was provided to him by Meaford for the period from January to May 2007 during which time, he was a full-time employee of Meaford and was not required by his employer to maintain such an office at home. No receipts were provided for the delivery and professional liability insurance expenses that he claimed. Golf club dining expenses were claimed without any record showing the names of the clients or potential clients he entertained.
+[22] Based on the evidence before me, I am also convinced that the appellant did not conduct his activities in a commercial manner for profit. His expressed intention was to make a profit and as a Certified Management Accountant, he certainly had the capacity of generating business profits but that did not materialized. He had no business plan at all and had many unprofitable years since 2000 particularly from 2005 to 2015.
+[23] The appellant has not met his burden of proof that he conducted his business activities in a commercial manner with a view to make a profit and he has not demolished the adverse assumptions made by the Minister in this regard.
+[24] The books and records maintained by the appellant were inadequate to allow his business expenses to be determined in respect of his 2007 taxation year. The appellant did not submit a summary of his receipts with his 2007 tax return and there was no segregation of the receipts. No computer program has been used to properly identify the expenses incurred for Meaford, himself or for his self-employed business purposes.
+[25] For all the foregoing reasons, the appeal is dismissed.
+Signed at Ottawa, Canada, this 28th day of November 2018.
+“Réal Favreau”
+Favreau J.
+CITATION:
+2018 TCC 238
+COURT FILE NO.:
+2016-625(IT)I
+STYLE OF CAUSE:
+DAVID FREE AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Hamilton, Ontario
+DATE OF HEARING:
+May 3, 2018
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Réal Favreau
+DATE OF JUDGMENT:
+November 28, 2018
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Laura Rhodes
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada

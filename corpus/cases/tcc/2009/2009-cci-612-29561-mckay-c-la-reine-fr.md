@@ -1,0 +1,269 @@
+---
+title: "McKay c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29561/index.do"
+last_modified: "2009-12-07"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 CCI 612"
+citation2: ""
+neutral_citation: "2009 CCI 612"
+decision_date: "2009-12-07"
+language: "fr"
+item_id: "29561"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6318
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T11:19:21.356000+00:00"
+cases_cited_count: 1
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "3fb4b55fd847e56af01c09436ea4f24aacffc7ff2d8959afcbc23737f863bc35"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# McKay c. La Reine
+
+- Citation: 2009 CCI 612
+- Decision date: 2009-12-07
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6318, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+McKay c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2009-12-07
+Référence neutre
+2009 CCI 612
+Numéro de dossier
+2009-1271(IT)I
+Juges et Officiers taxateurs
+Wyman W. Webb
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2009-1271(IT)I
+ENTRE :
+MILES D. McKAY,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels entendus le 18 novembre 2009, à Winnipeg (Manitoba).
+Devant : L’honorable juge Wyman W. Webb
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimée :
+Me Penny Piper
+____________________________________________________________________
+JUGEMENT
+Les appels des nouvelles cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 2004 et 2005 sont accueillis sans dépens, et l’affaire est renvoyée au ministre du Revenu national pour nouvel examen et nouvelles cotisations compte tenu du fait :
+a) que le revenu d’emploi de l’appelant pour l’année 2004 est réduit d’un montant de 558 $;
+b) que le revenu d’emploi de l’appelant pour l’année 2005 est réduit d’un montant de 572 $;
+c) qu’un montant, à déterminer conformément à l’alinéa d), doit être ajouté à la fraction non amortie du coût en capital d’un bien de la catégorie 10.1 établie à l’égard du camion, en ce qui concerne la taxe sur les produits et services et la taxe de vente provinciale (le « montant de la taxe de vente ») relativement à l’acquisition de ce camion par l’appelant, en 2005, compte tenu d’un coût de 30 000 $ avant l’application des taxes de vente (soit l’élément B de la formule énoncée à l’alinéa 7307(1)b) du Règlement de l’impôt sur le revenu);
+d) que l’appelant et l’intimée détermineront le montant de la taxe de vente. Si les parties n’arrivent pas à s’entendre sur le calcul du montant de la taxe de vente dans les 90 jours suivant la date de la présente décision, l’une ou l’autre partie aura le droit de présenter une requête en vue de faire trancher par la Cour toute question se rapportant au calcul du montant de la taxe de vente. Si les parties n’arrivent pas à s’entendre sur le calcul du montant de la taxe de vente et que ni l’une ni l’autre partie ne présente de requête en vue de faire trancher toute question se rapportant au calcul de ce montant dans les 90 jours suivant la date de la présente décision, le montant de la taxe de vente sera fixé à 4 560 $.
+L’appelant a confirmé qu’il n’interjette pas appel de la nouvelle cotisation concernant son année d’imposition 2006.
+Signé à Ottawa (Ontario), ce 7e jour de décembre 2009.
+« Wyman W. Webb »
+Juge Webb
+Traduction certifiée conforme
+ce 4e jour de février 2010.
+Marie-Christine Gervais, traductrice
+Référence : 2009 CCI 612
+Date : 20091207
+Dossier : 2009-1271(IT)I
+ENTRE :
+MILES D. McKAY,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Webb
+[1] Deux questions sont ici en litige :
+1. Quel montant, le cas échéant, l’appelant a‑t‑il le droit de déduire au titre des frais de repas dans le calcul de son revenu d’emploi pour les années 2004 et 2005?
+2. L’appelant a‑t‑il le droit d’inclure un montant au titre de la taxe sur les produits et services (« TPS ») et de la taxe de vente provinciale (« TVP ») dans le coût en capital du camion qu’il a acheté en 2005, pour déterminer la fraction non amortie du coût en capital d’un bien de la catégorie 10.1 relativement à l’acquisition du camion (en plus des 30 000 $ qui ont été ajoutés à cette catégorie 10.1 à l’égard de l’achat du camion)?
+[2] À la première page de l’avis d’appel, l’appelant a déclaré que l’appel portait sur les années 2004, 2005 et 2006, mais dans l’exposé des faits et motifs pertinents, seules des questions se rapportant aux années 2004 et 2005 ont été soulevées. L’intimée avait présenté une requête en vue de faire annuler l’appel concernant l’année 2006 compte tenu du fait que l’appelant n’avait pas déposé d’avis d’opposition à l’égard de la nouvelle cotisation concernant son année d’imposition 2006. Au début de l’audience, l’appelant a confirmé avoir uniquement interjeté appel des nouvelles cotisations concernant ses années d’imposition 2004 et 2005 et l’audience s’est donc poursuivie compte tenu du fait que seules les nouvelles cotisations concernant les années d’imposition 2004 et 2005 étaient visées par l’appel et que les seules questions se rapportant à ces nouvelles cotisations étaient celles dont il est ci‑dessus fait mention.
+[3] L’appelant travaillait comme arpenteur pour Maple Leaf Construction Ltd., une société établie à Winnipeg. Il y avait au sein de la société une division qui s’occupait de projets à Winnipeg, ainsi qu’une division rurale qui s’occupait de projets partout au Manitoba, en Saskatchewan et dans le Nord‑Ouest de l’Ontario.
+[4] L’appelant travaillait au sein de la division rurale de Maple Leaf Construction Ltd. En 2004 et 2005, il a travaillé sur des chantiers partout au Manitoba et dans le Nord‑Ouest de l’Ontario. L’appelant a indiqué que le chantier le plus près de chez lui et du bureau de la société, à Winnipeg, où il a travaillé au cours de ces deux années‑là était situé à environ 1,5 heure, en voiture. L’appelant travaillait sur divers chantiers au cours de la saison de la construction, qui allait de la mi‑mai au mois de novembre. Il effectuait de longues heures au cours de la saison de la construction. Dans le calcul de son revenu d’emploi pour les années 2004 et 2005, il a demandé une déduction au titre des frais de repas pour les jours où il travaillait sur divers chantiers.
+[5] Selon la position prise par l’intimée, la déduction des frais de repas doit être refusée, et ce, pour deux motifs :
+1. Les fonctions de l’appelant ne l’obligeaient pas à être absent de Winnipeg durant une période d’au moins douze heures;
+2. L’appelant n’a pas établi qu’il avait dépensé le montant qu’il avait déduit pour les repas.
+[6] L’alinéa 8(1)h) et le paragraphe 8(4) de la Loi de l’impôt sur le revenu (la « Loi ») prévoient ce qui suit :
+8(1) Sont déductibles dans le calcul du revenu d’un contribuable tiré, pour une année d’imposition, d’une charge ou d’un emploi ceux des éléments suivants qui se rapportent entièrement à cette source de revenus, ou la partie des éléments suivants qu’il est raisonnable de considérer comme s’y rapportant :
+[…]
+h) lorsque le contribuable, au cours de l’année, à la fois :
+(i) a été habituellement tenu d’exercer les fonctions de son emploi ailleurs qu’au lieu d’affaires de son employeur ou à différents endroits,
+(ii) a été tenu, en vertu de son contrat d’emploi, d’acquitter les frais de déplacement qu’il a engagés pour l’accomplissement des fonctions de sa charge ou de son emploi,
+les sommes qu’il a dépensées pendant l’année (sauf les frais afférents à un véhicule à moteur) pour se déplacer dans l’exercice des fonctions de son emploi, sauf s’il a, selon le cas :
+(iii) reçu une allocation pour frais de déplacement qui, par l’effet des sous‑alinéas 6(1)b)(v), (vi) ou (vii), n’est pas incluse dans le calcul de son revenu pour l’année,
+(iv) demandé une déduction pour l’année en application des alinéas e), f) ou g);
+[…]
+8(4) La somme dépensée par un cadre ou un employé pour son repas ne peut être incluse dans le calcul du montant d’une déduction en vertu de l’alinéa (1)f) ou h) que si le repas a été pris au cours d’une période où les fonctions de ce cadre ou de cet employé l’obligeaient à être absent, durant une période d’au moins douze heures, de la municipalité dans laquelle était situé l’établissement de l’employeur où il se présentait habituellement pour son travail et à être absent, le cas échéant, de la région métropolitaine où cet établissement était situé.
+[7] En l’espèce, l’appelant était habituellement tenu d’exercer ses fonctions d’arpenteur ailleurs qu’au lieu d’affaires de son employeur et à différents endroits et il était également tenu, en vertu de son contrat d’emploi, d’acquitter les frais de déplacement qu’il avait engagés pour l’accomplissement des fonctions de son emploi. L’appelant a déclaré qu’il recevait une allocation quotidienne de 15 $ pour les repas lorsqu’il était tenu de travailler ailleurs qu’au bureau. Toutefois, le montant total qui a été versé à l’appelant au titre de l’allocation de repas s’élevait à 2 754 $ pour l’année 2004 et à 3 094 $ pour l’année 2005. Ni l’un ni l’autre de ces montants ne produit un nombre pair s’il est divisé par 15 $. En produisant sa déclaration de revenus pour l’année 2004, l’appelant a demandé une déduction pour les repas qu’il avait payés pour 153 jours et, pour l’année 2005, une déduction pour les repas qu’il avait payés pour 171 jours. Il semble logique qu’il s’agissait du nombre total de jours où l’appelant avait travaillé ailleurs qu’au bureau et pour lesquels il avait reçu une allocation de repas. Si l’on divise 2 754 $ par 153 jours et 3 094 $ par 171 jours, on obtient exactement 18 $ par jour pour l’année 2004 et 18,09 $ par jour pour l’année 2005. Je suppose que l’appelant a simplement commis une erreur en disant que l’allocation de repas était de 15 $ par jour et que le montant réellement payé s’élevait à 18 $ par jour.
+[8] Une allocation de repas de 18 $ par jour ne semble pas raisonnable (cela ne représenterait que six dollars par repas pour trois repas par jour) pour les jours où l’appelant a enregistré au moins 12 heures de travail sur un chantier ou pour les jours où les fonctions de son emploi l’obligeaient par ailleurs à être absent de Winnipeg durant au moins douze heures. Par conséquent, l’allocation versée pour ces jours‑là ne serait pas une allocation de déplacement n’ayant pas été incluse, à cause des sous‑alinéas 6(1)b)(v), (vi) ou (vii), dans le calcul du revenu de l’appelant pour l’année.
+[9] La question en litige dans ce cas‑ci se rapportait aux exigences du paragraphe 8(4) de la Loi, et en particulier, il s’agissait de savoir si les fonctions de l’appelant l’obligeaient à être absent de Winnipeg durant au moins douze heures. L’appelant a produit des copies de ses feuilles de temps pour les années 2004 et 2005. Selon ces feuilles, il y a plusieurs jours où l’appelant a travaillé durant au moins douze heures ailleurs qu’à Winnipeg. L’appelant a travaillé à divers endroits, notamment Thompson, Flin Flon, Brandon, Swan Lake et Dauphin. L’avocate de l’intimée a reconnu ne pas avoir d’argument à présenter au sujet des exigences du paragraphe 8(4) de la Loi en ce qui concerne les jours où l’appelant avait travaillé durant au moins douze heures sur un chantier, ailleurs qu’à Winnipeg.
+[10] En 2004, l’appelant a travaillé 111 jours durant au moins douze heures ailleurs qu’à Winnipeg. À la suite d’un examen des feuilles de temps de l’année 2004, les parties ont demandé de prendre une pause en vue d’examiner les feuilles de temps de l’année 2005. Après la pause, les parties ont indiqué, pour chaque mois, le nombre de jours où l’appelant avait travaillé durant au moins douze heures sur un chantier, ailleurs qu’à Winnipeg, et le nombre total de ces jours pour l’année 2005. Toutefois, le nombre total de jours pour l’année 2005 que les parties ont indiqué ne correspond pas au nombre de jours calculés si on additionne le nombre de jours pour chaque mois. J’ai donc examiné les feuilles de temps de l’année 2005. J’ai calculé 81 jours en tout pour l’année 2005. Le nombre total de jours mentionné par les parties s’élevait à 79, mais la somme cumulée des jours, pour chaque mois, mentionnée par les parties était de 83 jours. L’un des jours que j’ai inclus comme jour où l’appelant avait travaillé durant au moins douze heures sur un chantier, ailleurs qu’à Winnipeg, avait été inclus par les parties dans la catégorie des [traduction] « jours contestés ». Je conclus que, pour l’année 2005, l’appelant a travaillé durant 81 jours au moins douze heures sur un chantier.
+[11] En 2004 et en 2005, il y avait également des jours additionnels où l’appelant avait enregistré moins de 12 heures de travail sur un chantier, mais qui étaient également des jours où l’appelant avait travaillé sur un chantier ailleurs qu’à Winnipeg et où il ne retournait pas chez lui après le travail. Il passait la nuit dans un hôtel. L’endroit le plus près était situé à Brandon (Manitoba). L’appelant a indiqué que Brandon (Manitoba) était située à deux heures et demie en voiture de Winnipeg. Il passait la nuit à Brandon étant donné qu’il devait être sur le chantier tôt le matin (au lever du soleil). Il me semble qu’il serait raisonnable de rester à Brandon (ou à des endroits encore plus éloignés) plutôt que de conduire pendant deux heures et demie (ou plus) le soir, après une longue journée de travail, et d’avoir ensuite à conduire pendant deux heures et demie (ou plus) afin de retourner à cet endroit le lendemain matin, avant le lever du soleil. Il me semble que les jours où il passait la nuit au lieu de travail parce que ce lieu était trop éloigné pour retourner en voiture à Winnipeg étaient néanmoins des jours où ses fonctions (lesquelles devaient être exercées à ces endroits) l’obligeaient à être absent de Winnipeg durant au moins douze heures. Ces jours additionnels (qui sont ci‑dessus désignés comme étant les [traduction] « jours contestés) devraient donc faire partie des jours, pour les années 2004 et 2005, où les fonctions de l’appelant obligeaient celui‑ci à être absent de Winnipeg durant au moins douze heures.
+[12] En 2004, il y avait 13 jours additionnels et en 2005 il y en avait 46 (compte tenu du seul [traduction] « jour contesté » que j’ai inclus en déterminant qu’en 2005, il y avait 81 jours où l’appelant avait travaillé pendant au moins douze heures au lieu de travail). Par conséquent, en 2004, il y avait en tout 124 jours où les fonctions de l’appelant obligeaient celui‑ci à être absent de Winnipeg durant au moins douze heures et, en 2005, il y en avait 127.
+[13] La seconde question soulevée par l’intimée était que l’appelant n’avait pas de reçus pour les repas qu’il avait achetés pendant ses absences. La disposition qui permet la déduction des frais de déplacement engagés par un employé est l’alinéa 8(1)h) de la Loi. Cette disposition prévoit que la somme qui peut être déduite est la somme que le contribuable a dépensée au cours de l’année. Comme il n’y a pas de reçus, la question est donc de savoir quelle est la somme, le cas échéant, que l’appelant a dépensée pour les repas en 2004 et en 2005 selon ce que celui‑ci a établi.
+[14] Dans la décision Lesnick c. La Reine, 2008 CCI 522, j’ai examiné les décisions rendues par la Cour suprême du Canada dans les affaires The Continental Insurance Company c. Dalton Cartage Company Limited, [1982] 1 R.C.S. 164, et Hickman Motors Limited c. La Reine, [1997] 2 R.C.S. 336, ainsi que par la Chambre des lords dans les affaires In re Doherty, [2008] UKHL 33, et In re B (Children), [2008] UKHL 35. Comme je l’ai dit dans la décision Lesnick, la conclusion à laquelle je suis arrivé, compte tenu de ces décisions, est la suivante :
+[16] Il me semble que ces décisions sont compatibles les unes avec les autres et que la question, dans une affaire civile (ce qui comprend le présent appel), sera de savoir si la preuve présentée est suffisante pour convaincre le juge des faits, selon la prépondérance des probabilités, que la personne qui a la charge de la preuve a établi ce qu’elle était obligée d’établir. En analysant la preuve qui a été présentée, la probabilité ou l’absence de probabilité de l’événement qui est en cause est un facteur pouvant être pris en considération. Plus l’événement est improbable, plus la preuve devra être forte. À l’inverse, il me semble également qu’une personne peut être en mesure d’établir, selon la prépondérance des probabilités, qu’un événement fort probable s’est produit en se fondant sur une preuve plus faible que celle qui est nécessaire pour établir qu’un événement improbable s’est produit.
+[15] Il me semble qu’en ce qui concerne les jours où il était absent de Winnipeg durant au moins douze heures, il est fort probable que l’appelant ait pris des repas et que ces repas aient été achetés au restaurant. Par conséquent, il me semble que l’appelant a fort probablement dépensé de l’argent pour acheter ses repas au restaurant. L’appelant cherché à déduire 15 $ par repas et trois repas par jour. Il a soumis un certain nombre de menus différents de restaurants, à divers endroits; il me semble qu’un montant de 15 $ par repas est raisonnable. Je conclus donc que l’appelant a dépensé 15 $ par repas et qu’il a pris trois repas par jour à chacune des dates susmentionnées.
+[16] L’appelant a calculé sa déduction ainsi (en utilisant 153 jours en 2004 et 171 jours en 2005) :
+2004
+15 $ / repas x 3 repas / jour x 153 jours :
+6 885 $
+Moins : Allocation versée par l’employeur :
+(2 754 $)
+Montant net :
+4 131 $
+Montant demandé (50 p. 100 du montant net) :
+2 065 $
+2005
+15 $ / repas x 3 repas / jour x 171 jours :
+7 695 $
+Moins : Allocation versée par l’employeur :
+(3 094 $)
+Montant net :
+4 601 $
+Montant demandé (50 p. 100 du montant net) :
+2 300 $
+[17] L’appelant avait indirectement inclus un montant dans son revenu au titre de l’allocation de repas en réduisant le montant des frais de repas demandé. Toutefois, telle n’est pas, selon moi, la méthode à employer pour déterminer le montant qui est déductible ou pour déterminer l’effet net sur le revenu d’emploi de l’appelant. Le fait de réduire de 50 p. 100 la différence entre le coût d’un repas et l’allocation versée donne à penser que les dispositions de l’article 67.1 de la Loi s’appliquent à ce montant. Toutefois, il semble clair, selon moi, que les dispositions de l’article 67.1 de la Loi s’appliquent uniquement aux montants payés et non à l’allocation reçue.
+[18] Le paragraphe 67.1(1) de la Loi prévoit ce qui suit :
+67.1 (1) Pour l’application de la présente loi, sauf des articles 62, 63 et 118.01 et 118.2, un montant payé ou payable pour des aliments, des boissons ou des divertissements pris par des personnes est réputé correspondre à 50 % du moins élevé du montant réellement payé ou payable et du montant qui serait raisonnable dans les circonstances.
+[19] Selon cette disposition, le montant payé pour les repas est réputé représenter 50 p. 100 du montant réellement payé (à supposer que le montant payé soit raisonnable). Cette disposition ne limite pas le montant inclus au titre d’une allocation de repas à 50 p. 100 du montant reçu. Il existe certaines exceptions aux restrictions imposées au paragraphe 67.1(1) de la Loi. Toutefois, aucune de ces exceptions ne s’applique en l’espèce. L’exception prévue à l’alinéa 67.1(2)d) se rapporte à un montant payé à une personne qui est à inclure dans le calcul du revenu d’un contribuable en raison de l’application de l’article 6, mais cette disposition ne s’applique pas, parce que le paragraphe 67.1(1) de la Loi s’applique uniquement aux montants payés et que les montants que l’appelant a payés au restaurant ne seraient pas inclus dans le revenu des restaurants à cause de l’article 6 (mais seraient inclus dans le revenu d’entreprise des restaurants). Cette exception s’applique probablement à l’employeur qui verse une allocation de repas qui est incluse dans le revenu de l’employé.
+[20] L’allocation de repas serait incluse dans le revenu de l’appelant conformément à l’alinéa 6(1)b) de la Loi, qui prévoit notamment ce qui suit :
+6. (1) Sont à inclure dans le calcul du revenu d’un contribuable tiré, pour une année d’imposition, d’une charge ou d’un emploi, ceux des éléments suivants qui sont applicables :
+[…]
+b) les sommes qu’il a reçues au cours de l’année à titre d’allocations pour frais personnels ou de subsistance ou à titre d’allocations à toute autre fin, sauf :
+[…]
+(vii) les allocations raisonnables pour frais de déplacement, à l’exception des allocations pour l’usage d’un véhicule à moteur, qu’un employé – dont l’emploi n’est pas lié à la vente de biens ou à la négociation de contrats pour son employeur – a reçues de son employeur pour voyager, dans l’accomplissement des fonctions de sa charge ou de son emploi, à l’extérieur :
+(A) de la municipalité où était situé l’établissement de l’employeur dans lequel l’employé travaillait habituellement ou auquel il adressait ordinairement ses rapports,
+(B) en outre, le cas échéant, de la région métropolitaine où était situé cet établissement, […]
+[21] Il semble clair qu’étant donné que l’allocation de repas de 18 $ par jour qui est payée par l’employeur de l’appelant n’était pas une allocation raisonnable pour les jours où les fonctions de l’appelant obligeaient celui‑ci à être absent de Winnipeg durant au moins douze heures, le montant total de cette allocation serait inclus dans le revenu de l’appelant. Si l’allocation avait été un montant raisonnable, étant donné qu’elle s’appliquait aux mêmes repas que ceux pour lesquels l’appelant demandait une déduction, le montant ne serait pas inclus dans le revenu de l’appelant et l’appelant n’aurait pas le droit de demander une déduction pour les frais de repas.
+[22] Toutefois, l’allocation de repas était payée non seulement les jours où les fonctions de l’appelant obligeaient celui‑ci à être absent de Winnipeg durant au moins douze heures, mais aussi les jours où l’appelant travaillait ailleurs qu’au bureau durant moins de douze heures. L’appelant a reçu l’allocation pour plus de 124 jours en 2004 et pour plus de 127 jours en 2005. L’appelant a fondé sa demande de déduction sur 153 jours pour les repas pris en 2004, et sur 171 jours pour les repas pris en 2005, et comme il en a ci‑dessus été fait mention, il a probablement reçu l’allocation de repas pour 153 jours en 2004 et pour 171 jours en 2005.
+[23] Le montant quotidien de 18 $ qui était payé à titre d’allocation de repas était peut‑être bien raisonnable pour les jours où les fonctions de l’appelant n’obligeaient pas celui‑ci à être absent de Winnipeg durant au moins douze heures. Les dispositions du sous‑alinéa 6(1)b)(vii) de la Loi prévoyant que certaines allocations sont à exclure du revenu ne sont pas comparables aux conditions imposées au paragraphe 84(4) de la Loi. Le sous‑alinéa 6(1)b)(vii) de la Loi n’exige pas, pour que l’allocation ne soit pas incluse dans le revenu, que les fonctions de l’employé obligent celui‑ci à être absent durant au moins douze heures.
+[24] Dans la réponse, il n’est pas allégué que le montant payé pour les jours où les fonctions de l’appelant n’obligeaient pas celui‑ci à être absent de Winnipeg durant au moins douze heures n’était pas un montant raisonnable. Il me semble qu’il est possible de faire une distinction entre l’allocation payée pour ces jours‑là et l’allocation payée pour les autres jours. L’allocation quotidienne de 18 $ versée pour les jours où les fonctions de l’emploi de l’appelant n’obligeaient pas celui‑ci à être absent de Winnipeg durant au moins douze heures ne sera pas incluse dans le revenu de l’appelant en vertu du sous‑alinéa 6(1)b)(vii) de la Loi. L’allocation quotidienne de 18 $ versée pour les jours où les fonctions de l’appelant obligeaient celui‑ci à être absent de Winnipeg durant au moins douze heurs sera incluse dans le revenu de l’appelant et l’appelant aura droit à une déduction, sous réserve des dispositions du paragraphe 67.1(1) de la Loi, pour les frais de repas engagés ces jours‑là.
+[25] Par conséquent, le revenu d’emploi de l’appelant pour les années 2004 et 2005 sera réduit des montants suivants :
+2004
+Montant de l’allocation de repas payée pour l24 jours
+(18 $ x 124) :
+2 232 $
+Montant dépensé par l’appelant pour des repas pendant 124 jours : 124 jours x 3 repas / jour x 15 $ / repas = 5 580 $
+Montant réputé avoir été payé pour les repas : (50 % du montant payé – par. 67.1(1)) :
+(2 790 $)
+Réduction nette du revenu d’emploi :
+(558 $)
+2005
+Montant de l’allocation de repas payée pour l27 jours
+(18 $ x 127) :
+2 286 $
+Montant dépensé par l’appelant pour des repas pendant 127 jours : 127 jours x 3 repas / jour x 15 $ / repas = 5 715 $
+Montant réputé avoir été payé pour les repas : (50 % du montant payé – par. 67.1(1)) :
+(2 858 $)
+Réduction nette du revenu d’emploi :
+(572 $)
+[26] Le plein montant de l’allocation reçue est inclus dans le revenu (alinéa 6(1)b) de la Loi), mais le montant que l’appelant a payé pour ses repas est, conformément au paragraphe 67.1(1) de la Loi, réputé représenter 50 p. 100 du montant réellement payé (étant donné que ce montant est raisonnable).
+[27] L’autre question qui a été soulevée dans les présents appels se rapporte au montant qui devrait être ajouté à titre de coût en capital du camion acquis en 2005, dans le calcul de la fraction non amortie du coût en capital pour l’appelant d’un bien de la catégorie 10.1 qui a été établie pour le camion. L’alinéa 1101(1af) du Règlement de l’impôt sur le revenu (le « Règlement ») prévoit qu’une catégorie distincte est prescrite pour chaque bien compris dans la catégorie 10.1 de l’annexe II de ce règlement. L’alinéa 13(7)g) de la Loi prévoit ce qui suit :
+13(7) Sous réserve du paragraphe 70(13), les règles suivantes s’appliquent dans le cadre des alinéas 8(1)j) et p), du présent article, de l’article 20 et des dispositions réglementaires prises pour l’application de l’alinéa 20(1)a) :
+[…]
+g) si le coût d’une voiture de tourisme pour un contribuable est supérieur à 20 000 $ ou à tout autre montant fixé par règlement, le coût en capital de la voiture pour le contribuable est réputé être 20 000 $ ou cet autre montant, selon le cas; […]
+[28] L’appelant a reconnu que cette restriction s’appliquait au montant qui pouvait être inclus pour le coût du camion. La question qui se pose en l’espèce se rapporte à l’interprétation du paragraphe 7307(1) du Règlement, qui prévoit notamment ce qui suit :
+7307. (1) Les montants suivants sont fixés pour l’application du paragraphe 13(2), de l’alinéa 13(7)g), du sous‑alinéa 13(7)h)(iii), [...] :
+[…]
+b) en ce qui concerne une automobile acquise après 1990 ou louée aux termes d’un bail conclu après 1990, le montant obtenu par la formule suivante :
+A + B
+où
+A représente :
+[...]
+(v) 30 000 $, si elle a été acquise après 2000 ou louée aux termes d’un bail conclu après 2000,
+B la somme qui aurait été payable au titre des taxes de vente fédérale et provinciale sur l’acquisition de l’automobile si elle avait été acquise à un coût, avant ces taxes, égal à l’élément A :
+(i) au moment de l’acquisition, si elle a été acquise,
+(ii) au moment de la conclusion du bail, si elle a été louée.
+[29] Il s’agit de savoir si un montant doit être inclus dans l’élément B de la formule énoncée à l’alinéa 7307(1)b) ci‑dessus. Le véhicule a été acheté chez Winnipeg Dodge Chrysler Jeep (Pointe West Automark) le 11 juin 2005. Le véhicule coûtait 40 358 $ et un crédit de 5 750 $ a été accordé pour le véhicule qui avait été remis en échange. Aucun montant n’a été payé au titre de la TPS ou de la TVP lors de l’achat.
+[30] Le nom de l’appelant, à titre d’acquéreur, est dactylographié, mais le nom de la femme de l’appelant a été ajouté à la main à titre de coacquéreur. La femme de l’appelant est une Indienne selon la définition donnée dans la Loi sur les Indiens pour l’application de cette loi, mais l’appelant n’est pas un Indien. Bien que l’appelant ne soit pas un Indien selon la définition donnée dans la Loi sur les Indiens pour l’application de cette loi, le concessionnaire a apparemment traité l’achat au complet comme s’il était visé par l’exemption de taxation prévue à l’article 87 de la Loi sur les Indiens et il n’a perçu aucun montant au titre de la TPS ou de la TVP.
+[31] Les paragraphes 87(1) et (2) de la Loi sur les Indiens prévoient ce qui suit :
+87. (1) Nonobstant toute autre loi fédérale ou provinciale, mais sous réserve de l’article 83 et de l’article 5 de la Loi sur la gestion financière et statistique des premières nations, les biens suivants sont exemptés de taxation :
+a) le droit d’un Indien ou d’une bande sur une réserve ou des terres cédées;
+b) les biens meubles d’un Indien ou d’une bande situés sur une réserve.
+(2) Nul Indien ou bande n’est assujetti à une taxation concernant la propriété, l’occupation, la possession ou l’usage d’un bien mentionné aux alinéas (1)a) ou b) ni autrement soumis à une taxation quant à l’un de ces biens.
+[32] L’exemption de taxation ne s’applique qu’aux biens meubles d’un Indien, tel que ce terme est défini dans la Loi sur les Indiens. Le camion, s’il a été acheté par l’appelant, ne serait pas exempté étant donné que l’appelant n’est pas un Indien au sens de la Loi sur les Indiens. Si l’appelant n’a pas acheté le camion, sur quoi peut‑il se fonder pour ajouter 30 000 $ à la fraction non amortie du coût en capital d’un bien de la catégorie 10.1 à l’égard de cet achat? La définition de l’expression « fraction non amortie du coût en capital » au paragraphe 13(21) prévoit notamment ce qui suit :
+« fraction non amortie du coût en capital » S’agissant de la fraction non amortie du coût en capital existant à un moment donné pour un contribuable, relativement à des biens amortissables d’une catégorie prescrite, le montant calculé selon la formule suivante:
+(A + B + C + D + D.1) –
+(E + E.1 + F + G + H + I + J + K)
+où :
+A représente le total des sommes dont chacune est le coût en capital que le contribuable a supporté pour chaque bien amortissable de cette catégorie acquis avant ce moment;
+[33] Le montant qui serait inclus dans l’élément A de la formule susmentionnée est le coût en capital du camion pour l’appelant. Si l’appelant n’a acquis aucun droit sur le camion (sa femme ayant probablement acquis le camion), une catégorie 10.1 distincte ne serait pas établie pour l’appelant à l’égard de l’acquisition du camion et aucun montant ne serait ajouté à la fraction non amortie du coût en capital du bien amortissable de cette catégorie, mais l’achat du camion satisferait du moins à la condition énoncée à l’article 87 de la Loi sur les Indiens, selon laquelle le camion est un bien meuble d’un Indien selon la définition de la Loi sur les Indiens.
+[34] Toutefois, cela n’est pas étayé par les faits dans ce cas‑ci, ni par la position prise par l’Agence du revenu du Canada (l’« ARC »). Dans la réponse, il est déclaré que l’appelant et son épouse ont acquis le camion. Il est également déclaré, à titre d’hypothèse, que :
+[traduction]
+t) aucun montant n’était à payer au titre de la TPS ou de la TVP à l’égard de l’achat du camion en 2005;
+[35] La question de savoir si la TPS ou la TVP était à payer serait une question de droit ou une question mixte de fait et de droit. Il est uniquement possible de trancher la question de savoir si la TPS ou la TVP était à payer en examinant les exigences de la Loi sur les Indiens, les décisions applicables des divers tribunaux et les faits se rapportant à l’achat. Selon moi, la question de savoir si la TPS ou la TVP était à payer n’est pas une bonne hypothèse. Il ne semble pas non plus exister de fondement permettant de conclure que toute acquisition d’un droit sur le camion par l’appelant donnerait droit à l’exemption de taxation prévue par la Loi sur les Indiens.
+[36] Il semble, selon l’annexe D jointe à la réponse, que l’appelant n’ait pas inclus le coût du nouveau camion en tant qu’ajout à la catégorie 10.1, en 2005 (cependant, l’appelant semble avoir, au 1er janvier 2005, pour la fraction non amortie du coût en capital, un solde d’ouverture qui excède le solde de fermeture au 31 décembre 2004, et ce, même si une catégorie distincte est prescrite pour chaque véhicule qui est inclus dans la catégorie 10.1). L’annexe D indique également les montants admis par le vérificateur et par l’agent des appels, à l’ARC, et montre qu’un montant de 30 000 $ a été ajouté au coût des ajouts à la catégorie 10.1 pour l’année 2005. Au paragraphe 20 de la réponse, l’intimée déclare également ce qui suit :
+[traduction]
+20. […] le montant, quant au calcul du coût du camion conformément au paragraphe 7307(1) du Règlement de l’impôt sur le revenu (le « Règlement »), est limité à 30 000 $.
+[37] Il me semble donc que l’appelant a fait l’objet d’une nouvelle cotisation compte tenu du fait que c’était lui (et non sa femme) qui avait acquis le camion. Si l’appelant a acquis le camion, l’allégation selon laquelle l’achat était exempté de la TPS et de la TVP par suite de la Loi sur les Indiens ou compte tenu de quelque autre fondement mentionné par l’appelant ou par l’intimée serait dénuée du fondement.
+[38] Selon moi, le camion appartenait clairement à l’appelant. L’appelant voyageait énormément dans le cadre de son travail, et il travaillait sur des chantiers de construction, où un camion était probablement le véhicule par excellence à utiliser. Le camion a été acquis le 11 juin 2005. Selon les feuilles de temps, l’appelant a effectué cinq heures de travail pour le projet Sunset Mall, à Brandon, le 11 juin. Il a acquis le camion avant de se rendre à Brandon ou il l’a acquis à son retour. De toute façon, l’inscription suivante indique 13 heures de travail au même endroit, le 13 juin. Il me semble donc que le camion a été utilisé peu de temps après qu’il eut été acheté afin de permettre à l’appelant de se rendre au chantier, à Brandon.
+[39] Il me semble que c’est l’appelant qui a acquis le camion et que cela est conforme au fondement de la nouvelle cotisation. La position prise par l’avocate de l’intimée n’était pas claire, pour ce qui est de la question de savoir si l’appelant avait acquis le camion. L’avocate semble avoir soutenu qu’étant donné qu’aucune TPS ou TVP n’avait été payée lorsque le camion avait été acquis, aucune TPS ou TVP ne serait à payer si le camion avait été acquis pour un montant de 30 000 $, indépendamment de la question de savoir si c’était l’appelant qui avait acquis le camion et, dans l’affirmative, si la TPS et la TVP auraient alors été à payer. Toutefois, comme il en a ci‑dessus été fait mention, le vérificateur ou l’agent des appels, à l’ARC, avait supposé que c’était l’appelant (et non sa femme) qui avait acquis le camion (ou du moins un droit justifiant l’ajout d’un montant de 30 000 $ à la catégorie 10.1). Comme il en a ci‑dessus été fait mention, si l’appelant avait acquis le camion, l’appelant aurait été redevable de la TPS et de la TVP lors de l’acquisition du camion.
+[40] Il est possible que le camion ait été acquis par l’épouse de l’appelant et que celle‑ci ait ensuite transféré son droit à l’appelant. (Aucun élément de preuve ne donnait à penser qu’il en était ainsi; il s’agit simplement d’une conclusion logique visant à tenter de concilier la position selon laquelle aucune taxe de vente n’a été payée lors de l’acquisition du camion et le fait que l’appelant est celui qui a le droit de demander une déduction pour amortissement à l’égard du camion.) Toutefois, étant donné :
+a) qu’il s’était écoulé fort peu de temps entre le moment où le camion avait été acheté et le moment où l’appelant avait utilisé le camion pour se rendre à son lieu de travail (et qu’il l’a utilisé continuellement pour se rendre à divers lieux de travail par la suite);
+b) que l’on a ajouté le nom de la femme de l’appelant à titre de coacquéreur en écrivant son nom à la main dans le contrat;
+c) que, dans son avis d’appel, l’appelant a décrit la question se rapportant au camion en ces termes :
+[traduction]
+Montant contesté admis pour la DPA relative à mon véhicule pour l’année 2005, [Non souligné dans l’original.]
+il me semble que l’appelant a fort probablement acquis le camion de Winnipeg Dodge Chrysler Jeep le 11 juin 2005 et que tout droit acquis par sa femme par suite de l’ajout de son nom à titre de coacquéreur dans le contrat était uniquement un droit symbolique.
+[41] Par conséquent, il ne semble exister aucun fondement permettant de conclure qu’aucune taxe de vente n’était à payer par l’appelant lorsque le véhicule a été acquis du concessionnaire. Par conséquent, en déterminant la fraction non amortie du coût en capital, pour l’appelant, de la catégorie 10.1 établie à l’égard du camion, un montant aurait dû être ajouté au titre de la TPS et de la TVP qui auraient été à payer par l’appelant s’il avait acquis le véhicule du concessionnaire, au coût de 30 000 $. Ni l’appelant ni l’intimée n’ont présenté d’observations au sujet du montant qui aurait dû être ajouté au titre de la TPS et de la TVP. Dans son avis d’appel, l’appelant déclare que le montant devrait être de 4 560 $, mais il n’a pas pu expliquer comment ce montant avait été calculé. L’appelant avait déclaré que le taux applicable à la TPS, lors de l’achat, était de 6 p. 100, mais le taux a été réduit de 7 à 6 p. 100 le 1er juillet 2006 seulement. Ni l’une ni l’autre partie n’a pu dire avec certitude quel était le taux de la TVP au Manitoba en 2005. Aucune observation n’a été soumise au sujet de la question de savoir si l’échange devait influer sur le montant de la TPS et de la TVP qui aurait été inclus dans l’élément B de la formule énoncée à l’alinéa 7307(1)b) du Règlement et, dans l’affirmative, comment cela influerait sur la détermination de ce montant. Les parties m’ont demandé d’examiner uniquement la question de savoir si un montant devait être inclus dans l’élément B de la formule énoncée à l’alinéa 7307(1)b) du Règlement et elles ont déclaré que, s’il était conclu qu’un montant devait être inclus, elles détermineraient le montant approprié.
+[42] Je conclus qu’un montant aurait dû être inclus dans l’élément B de la formule énoncée à l’alinéa 7307(1)b) du Règlement étant donné qu’un montant aurait été à payer au titre de la TPS et de la TVP si l’appelant avait acquis le véhicule au coût de 30 000 $. Si les parties n’arrivent pas à s’entendre sur le montant qui doit être ajouté pour ces taxes dans les 90 jours suivant la date de la présente décision, l’une ou l’autre des parties aura le droit de présenter une requête en vue de faire trancher par la Cour toute question se rapportant au calcul du montant de ces taxes. Si les parties n’arrivent pas à s’entendre sur le montant de ces taxes et que ni l’une ni l’autre partie ne présente de requête en vue de faire trancher la question dans les 90 jours suivant la date de la présente décision, le montant de ces taxes sera fixé à 4 560 $.
+[43] Par conséquent, les appels sont accueillis sans dépens, et l’affaire est renvoyée au ministre du Revenu national pour nouvel examen et nouvelles cotisations compte tenu du fait :
+a) que le revenu d’emploi de l’appelant pour l’année 2004 est réduit d’un montant de 558 $;
+b) que le revenu d’emploi de l’appelant pour l’année 2005 est réduit d’un montant de 572 $;
+c) qu’un montant, à déterminer conformément à l’alinéa d), doit être ajouté à la fraction non amortie du coût en capital d’un bien de la catégorie 10.1 établie à l’égard du camion, en ce qui concerne la TPS et la TVP (le « montant de la taxe de vente ») relativement à l’acquisition de ce camion par l’appelant, en 2005, compte tenu d’un coût de 30 000 $ avant l’application des taxes de vente (soit l’élément B de la formule énoncée à l’alinéa 7307(1)b) du Règlement);
+d) que l’appelant et l’intimée détermineront le montant de la taxe de vente. Si les parties n’arrivent pas à s’entendre sur le calcul du montant de la taxe de vente dans les 90 jours suivant la date de la présente décision, l’une ou l’autre partie aura le droit de présenter une requête en vue de faire trancher par la Cour toute question se rapportant au calcul du montant de la taxe de vente. Si les parties n’arrivent pas à s’entendre sur le calcul du montant de la taxe de vente et que ni l’une ni l’autre partie ne présente de requête en vue de faire trancher toute question se rapportant au calcul de ce montant dans les 90 jours suivant la date de la présente décision, le montant de la taxe de vente sera fixé à 4 560 $.
+Signé à Ottawa (Ontario), ce 7e jour de décembre 2009.
+« Wyman W. Webb »
+Juge Webb
+Traduction certifiée conforme
+ce 4e jour de février 2010.
+Marie-Christine Gervais, traductrice
+RÉFÉRENCE : 2009 CCI 612
+No DU DOSSIER DE LA COUR : 2009-1271(IT)I
+INTITULÉ : MILES D. McKAY
+c.
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Winnipeg (Manitoba)
+DATE DE L’AUDIENCE : Le 18 novembre 2009
+MOTIFS DU JUGEMENT : L’honorable juge Wyman W. Webb
+DATE DU JUGEMENT : Le 7 décembre 2009
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimée :
+Me Penny Piper
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

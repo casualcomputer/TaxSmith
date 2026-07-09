@@ -1,0 +1,159 @@
+---
+title: "Sinclair v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29939/index.do"
+last_modified: "2010-08-13"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 TCC 418"
+citation2: ""
+neutral_citation: "2010 TCC 418"
+decision_date: "2010-08-13"
+language: "en"
+item_id: "29939"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6485
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T02:06:13.569000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "d741b2f621177318be40124deb54f2834bb52d42bd7f1754be4c1e7f7bf97e3b"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Sinclair v. The Queen
+
+- Citation: 2010 TCC 418
+- Decision date: 2010-08-13
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6485, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Sinclair v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-08-13
+Neutral citation
+2010 TCC 418
+File numbers
+2010-34(IT)I
+Judges and Taxing Officers
+Valerie A. Miller
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2010-34(IT)I
+BETWEEN:
+BRIAN G. SINCLAIR,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on July 8, 2010, at Toronto, Ontario
+Before: The Honourable Justice Valerie Miller
+Appearances:
+Agent for the Appellant:
+Greg M. Leclair
+Counsel for the Respondent:
+Diana Aird
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act for the 2004, 2005 and 2006 years is dismissed in accordance with the attached Reasons for Judgment.
+Signed at Halifax, Nova Scotia, this 13th day of August 2010.
+“V.A. Miller”
+V.A. Miller, J.
+Citation: 2010TCC418
+Date: 20100813
+Docket: 2010-34(IT)I
+BETWEEN:
+BRIAN G. SINCLAIR,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+V.A. Miller, J.
+[1] The Appellant has appealed the reassessment of his 2004, 2005 and 2006 taxation years. The issue in this appeal is whether the Appellant’s theatrical endeavours constitute a source of income.
+[2] During the years under appeal, the Appellant reported business income, expenses, business loss and employment income as follows:
+2004
+2005
+2006
+Business Income
+$ 723.50
+$ 826.00
+$ 1,015.00
+Expenses
+35,461.12
+39,436.37
+42,523.55
+Business Loss
+($34,737.62)
+($38,610.37)
+($41,508.55)
+Employment
+Income
+$ 76,569
+$ 79,899
+$ 80,886
+[3] The Appellant stated that he is an actor, playwright and producer. He took a three year acting course from the National Theatre School of Canada. He graduated in 1970. After his graduation, the Appellant worked with various groups as an actor but sometime in the 1970’s he had to resort to another profession “to support his acting”. This profession was teaching which the Appellant described as a subsidy to support his acting endeavours.
+[4] During the years under appeal, the Appellant was employed full-time as a teacher with the Simcoe County District School Board where he taught Dramatic Arts and English.
+[5] The Appellant described the various endeavours he undertook to further his acting, writing and producing career.
+(a) In 1997, he wrote a one person play about the life of Vincent van Gogh which he was going to produce but the actor who was to play van Gogh walked out at the last minute. The Appellant “revived his own acting” and played the show in Buffalo. He earned $2,000. He intended to take the play on the road but, for reasons not explained to the court, was not able to carry his plans to fruition.
+(b) In 1999, he created a show which he called “Love Letters”. The actress who performed with him became ill and the show has not been performed since. He was not sure how much money he made from this show.
+(c) In 2001, he wrote a three act play with respect to the 1916 Irish Easter Rebellion. He made $400 from this play. He found that he could not pack all the equipment into his trailer which was needed to take this play on the road. Therefore, he produced a sound record of the play on a CD. Fifty copies of this CD were sold but the Appellant received nothing from the sales. He now hopes that as the 100th anniversary of this rebellion approaches, there will be a demand for the CD from the Irish diaspora.
+(d) He has three scripts at home which he has mailed to every theatre in the United States and Canada but, as yet, he has not received any positive responses.
+(e) In 2003 or 2004, he started to write plays about Ernest Hemmingway. He performed in these plays in Key West, Cuba and Spain. He received no money for his performance in Key West but received lots of publicity; in Spain, his expenses of approximately $3,000 were paid for him.
+[6] The Appellant explained that, during the period under appeal, he did not expect to earn income from his endeavours as that was the time during which he was writing his plays on Ernest Hemmingway. He did everything necessary to research, develop and create plays of high artistic calibre that would garner future income.
+[7] Some of the expenses claimed by the Appellant were for advertising, interest on his lines of credit, maintenance and repairs, meals and entertainment, motor vehicle, rent and storage and travel. In 2004, he purchased a new vehicle which was used to transport the props he used in his play. He rented a theatre in Key West so that he could perform his play.
+[8] The losses claimed by the Appellant are deductible only if the Appellant had a source of income. The Supreme Court of Canada, in Stewart v. R., 2002 SCC 46, summarized the test to be used to determine whether there is a source of income. At paragraph 60 it stated:
+In summary, the issue of whether or not a taxpayer has a source of income is to be determined by looking at the commerciality of the activity in question. Where the activity contains no personal element and is clearly commercial, no further inquiry is necessary. Where the activity could be classified as a personal pursuit, then it must be determined whether or not the activity is being carried on in a sufficiently commercial manner to constitute a source of income.
+[9] If the activity is clearly commercial in nature, there is no need to analyze the taxpayer’s business decisions[1]. In such cases, a source of income automatically exists. However, to determine if a source of income exists, it is not enough that the taxpayer has a subjective intent to make a profit. The determination is made by looking at a variety of objective factors. As stated at paragraph 54 of Stewart:
+This requires the taxpayer to establish that his or her predominant intention is to make a profit from the activity and that the activity has been carried out in accordance with objective standards of businesslike behaviour.
+[10] In this case, there was no commerciality or businesslike behaviour. The evidence showed that, when the Appellant traveled to Key West to perform his play on Ernest Hemingway, he was donating his time. He received no money for his endeavours. The ticket sales for his performances benefited the Key West Art & Historical Society. When counsel for the Respondent questioned the Appellant about this, he stated that “he would love to charge, but there is no one who would pay me”. However, the Appellant paid for a technician to accompany him to Key West; he paid for all of the technician’s expenses and for the meal expenses of people who assisted him in Key West. He stated that anytime he considered himself to be at work, he claimed the expenses associated with that time.
+[11] Although the Appellant received no money from his performances in Key West, he continued to attend the Hemingway Festivals and incur the expenses associated with his travel and his performances.
+[12] During cross examination, it became apparent that the Appellant did not earn any income from his artistic pursuits in 2004, 2005 and 2006. All amounts reported as income were expenses that were paid for him i.e., in-kind receipts.
+[13] At the audit stage of this appeal, the Appellant prepared a Business Plan. He projected that, in 2008, he would earn $10,000 and he would have expenses of $8,641. He stated that his plans did not come to fruition but he did have the best of intentions.
+[14] There was a total absence of businesslike conduct that one would expect if this were a profit-seeking endeavour. The Appellant has not demonstrated that he had a source of income. In fact, he has not shown that he even had the subjective intention to make a profit. He has demonstrated that he is more concerned with doing research than he is with selling a product.
+[15] The appeal is dismissed.
+Signed at Halifax, Nova Scotia, this 13th day of August 2010.
+“V.A. Miller”
+V.A. Miller, J.
+CITATION: 2010TCC418
+COURT FILE NO.: 2010-34(IT)I
+STYLE OF CAUSE: BRIAN G. SINCLAIR AND
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: July 8, 2010
+REASONS FOR JUDGMENT BY: The Honourable Justice Valerie Miller
+DATE OF JUDGMENT: August 13, 2010
+APPEARANCES:
+Agent for the Appellant:
+Greg M. Leclair
+Counsel for the Respondent:
+Diana Aird
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: Myles J. Kirvan,
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Stewart v. R., 2002 SCC 46 at paragraph 53

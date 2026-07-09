@@ -1,0 +1,132 @@
+---
+title: "Marche du Faubourg Ste-Julie Inc. c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28113/index.do"
+last_modified: "2003-09-16"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 CCI 641"
+citation2: ""
+neutral_citation: "2003 CCI 641"
+decision_date: "2003-09-16"
+language: "fr"
+item_id: "28113"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1633
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T18:45:16.842000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "e375c44fecdac3acba78d26c8065d68aa9b594f54537d667fbf91a29be6ba621"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Marche du Faubourg Ste-Julie Inc. c. M.R.N.
+
+- Citation: 2003 CCI 641
+- Decision date: 2003-09-16
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1633, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Marche du Faubourg Ste-Julie Inc. c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-09-16
+Référence neutre
+2003 CCI 641
+Numéro de dossier
+2002-4710(EI)
+Juges et Officiers taxateurs
+Pierre R. Dussault
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2002-4710(EI)
+ENTRE :
+MARCHÉ DU FAUBOURG STE-JULIE INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+_______________________________________________________________
+Comparutions :
+Représentant de l'appelante :
+Alain Savoie
+Avocate de l'intimé :
+Me Marie-Claude Landry
+_______________________________________________________________
+Je demande que les motifs de la décision prononcés à l'audience à la Cour canadienne de l'impôt, 500 Place d'Armes, Montréal (Québec), le 12 août 2003 et révisés le 16 septembre 2003 soient déposés.
+Signé à Ottawa, Canada, ce 16e jour de septembre 2003.
+« P. R. Dussault »
+Juge Dussault
+Référence : 2003CCI641
+Date : 20030916
+Dossier : 2002-4710(EI)
+ENTRE :
+MARCHÉ DU FAUBOURG STE-JULIE INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+________________________________________________________
+Motifs prononcés oralement à l'audience à la Cour canadienne de l'impôt,
+500 Place d'Armes, Montréal (Québec),
+le 12 août 2003 et révisés le 16 septembre 2003
+MOTIFS DU JUGEMENT
+Le juge P. R. Dussault
+[1] Je vais commencer par vous donner ma décision et ensuite je vais l'expliquer parce que je pense qu'il y a beaucoup de mises au point à faire lesquelles sont assez importantes.
+[2] Alors, ma décision, c'est d'accueillir l'appel. Les motifs sont essentiellement ceux qui ont été énoncés par monsieur Savoie, je ne répéterai pas tout ce qu'il a dit. Mais je pense qu'il est important de remettre les choses dans leur juste perspective. Alors, je prends d'abord la Loi sur l'assurance-emploi. L'alinéa 5(1)a) nous dit :
+Sous réserve du paragraphe 2), est un emploi assurable :
+a) l'emploi exercé au Canada pour un ou plusieurs employeurs, aux termes d'un contrat de louage de services ou d'apprentissage exprès ou tacite, écrit ou verbal, que l'employé reçoive sa rémunération de l'employeur ou d'une autre personne et que la rémunération soit calculée soit au temps, soit aux pièces, soit en partie au temps et en partie aux pièces, soit de toute autre manière;
+[3] Ce que vise 5(1)a), c'est l'emploi qui est exercé aux termes d'un contrat de louage de services.
+[4] C'est admis dans le présent cas. Alors, je ne vois en aucune façon comment les critères qui ont été énoncés par Me Landry concernant le contrôle ou le pouvoir de contrôle, la propriété des outils, les chances de profit, les risques de perte et l'intégration à l'entreprise, je ne vois absolument pas en quoi cela peut être pertinent pour les fins du litige que j'avais à décider.
+[5] Ces quatre critères ou quatre grands critères ou l'ensemble de ces critères comme on a dit dans la décision de Weibe Door et qui ont été repris par la suite dans plusieurs autres décisions, ces critères sont destinés à établir si on est face à un contrat de louage de services ou si on est face à un contrat d'entreprise, c'est-à-dire une personne qui travaille à son propre compte.
+[6] Cela n'a rien à voir dans notre contexte, puisque c'est admis qu'il y a un contrat de louage de services au point de départ. Messieurs Éric et Richard Raymond sont des employés, il n'y a personne qui a contesté cela à date. Alors, les critères énoncés par Me Landry ne sont absolument pas pertinents, tout comme toute la jurisprudence concernant le pouvoir de contrôle. Cela n'a rien à voir avec notre sujet.
+[7] Je passe au paragraphe 2) et à l'alinéa i) de la Loi sur l'assurance‑emploi. 5(2)i) nous dit :
+N'est pas un emploi assurable :
+i) l'emploi dans le cadre duquel l'employeur et l'employé ont entre eux un lien de dépendance.
+[8] Donc, au point de départ, même s'il s'agit d'un contrat de louage de services, au point de départ, il y a exclusion d'un emploi quand l'employeur et l'employé ont entre eux un lien de dépendance. Je passe à 5(3) :
+Pour l'application de l'alinéa 2i) : a)...
+5(3)a) donc :
+la question de savoir si des personnes ont entre elles un lien de dépendance est déterminée conformément à la Loi de l'impôt sur le revenu;
+[9] À la Loi de l'impôt sur le revenu pour ceux qui la connaissent, c'est l'article 251. Et l'article 251 comporte, le paragraphe (1) comporte les alinéas suivants. On dit au point de départ :
+des personnes liées sont réputées avoir entre elles un lien de dépendance;
+[10] Il s'agira de savoir si ici les personnes sont liées. Je vous fais tout le raisonnement, parce que je trouve qu'il y a eu tellement de confusion que je veux éclaircir les choses.
+[11] Et on dit, la question, maintenant en c) là, mais c'est un amendement récent :
+la question de savoir...
+[12] c'est-à-dire qu'il y a une autre disposition mais qui n'est pas applicable ici :
+la question de savoir si des personnes non liées entre elles n'ont aucun lien de dépendance à un moment donné est une question de fait.
+[13] Donc, il y a une présomption absolue que des personnes liées ont un lien de dépendance, c'est ce qui est important.
+[14] Ce n'est pas monsieur Roger Raymond qui est l'employeur ici. C'est Marché du Faubourg Ste‑Julie inc. Or, si on examine dans la Loi de l'impôt sur le revenu à la suite de 251(1), dans quelle situation les personnes sont-elles liées? Bien, les personnes sont liées premièrement, si un particulier contrôle une société par actions, les personnes sont liées. Donc, monsieur Roger Raymond est lié à Marché du Faubourg Ste-Julie inc. Ses deux fils sont liés à lui par le sang. Comme monsieur Roger Raymond est lié à la société, évidemment, les deux fils se trouvent être aussi liés à la société par le fait même, la société qui est l'employeur. À ce moment, on est dans une situation de personnes qui ont un lien de dépendance parce qu'elles sont liées entre elles, c'est-à-dire les deux fils et Marché du Faubourg Ste-Julie inc. qui est l'employeur. J'espère que cela, c'est clair pour tout le monde. Je pense que ça l'était d'un côté mais que cela ne l'était pas tout à fait de l'autre.
+[15] À partir de là, je passe à (3)b), 5(3)b) donc, on nous dit :
+L'employeur et l'employé, lorsqu'ils sont des personnes liées au sens de cette loi...
+[16] Donc au sens de la Loi de l'impôt sur le revenu, ce qu'on vient de constater,
+... sont réputées ne pas avoir de lien de dépendance si le ministre du Revenu national est convaincu qu'il est raisonnable de conclure, compte tenu de toutes les circonstances, notamment la rétribution versée, les modalités d'emploi ainsi que la durée, la nature et l'importance du travail accompli, qu'ils auraient conclu entre eux un contrat de travail à peu près semblable s'ils n'avaient pas eu de lien de dépendance.
+[17] Alors, c'est là-dessus que doit porter l'exercice de la discrétion ministérielle essentiellement. C'est là-dessus que ça aurait dû porter. Comme cela a porté sur d'autres choses, sur les quatre critères comme vous m'avez dit, Me Landry, évidemment, le ministre, ou le fonctionnaire ne connaît pas trop bien la Loi.
+[18] En ce qui concerne cet alinéa, il n'y a rien, absolument rien dans la réponse à l'avis d'appel, dans les faits tenus pour acquis par le ministre, qui indique quels sont véritablement les éléments dont on a tenu compte pour en arriver à la conclusion que messieurs Éric et Richard Raymond auraient conclu avec Marché du Faubourg Ste‑Julie inc. un contrat de travail à peu près semblable s'il n'y avait pas eu de lien de dépendance avec cette société. La réponse à l'avis d'appel, je l'ai dit dès le départ, n'indique absolument pas sur quoi le ministre s'est basé, de telle sorte qu'il m'apparaît totalement inapproprié de mettre sur le dos de l'appelante le fardeau de démontrer que le ministre n'a pas exercé sa discrétion selon les principes applicables en la matière. C'est-à-dire de démontrer qu'il n'a pas examiné tous les éléments pertinents ou qu'il a ignoré des éléments qui étaient pertinents. Mais même si on voulait mettre ce fardeau-là sur le dos de l'appelante, je crois que la preuve a démontré que manifestement on n'a pas tenu compte de plusieurs choses parce qu'il est évident que c'est la relation de ces deux employés, le fait qu'ils soient liés à la société qui fait que leurs conditions soient si différentes de celles des autres employés, notamment des autres gérants. C'est justement dû à ce lien de dépendance, qui vient du fait qu'ils sont liés, que les conditions de travail sont différentes.
+[19] Qu'on parle des tâches, qu'on parle des responsabilités qui leur sont données, de la rémunération, du salaire et du bonus, (il faut tenir compte des deux éléments) de l'horaire de travail, des congés de maladie, des avantages dont ils bénéficient, des cours, des congrès, des voyages, de l'utilisation de cartes de crédit, toutes ces conditions-là, je n'ai à peu près rien vu dans la preuve que j'ai entendue aujourd'hui qui fait en sorte que les conditions de travail de ces deux personnes sont semblables à celles des autres gérants dans le même magasin.
+[20] On peut parler aussi des garanties qui ont été données par ces personnes-là, de l'assurance-vie, somme toute, je ne suis pas pour répéter toute la preuve que j'ai entendue aujourd'hui. À mon avis, il y a à peu près rien de semblable.
+[21] Donc, pourquoi ont-ils, eux, ces conditions-là qui sont fort différentes de celles des autres employés? Bien, c'est dû au lien de dépendance effectivement, ce lien de dépendance venant du fait qu'ils sont liés à la société.
+[22] Pour ce qui est du reste, comme je l'ai dit, cela n'a absolument aucune pertinence puisqu'il est établi au point de départ que ces personnes étaient employés, c'est-à-dire qu'elles étaient liés par un contrat de louage de services.
+[23] Alors, je pense que j'ai résumé à peu près les motifs de ma décision.
+Signé à Ottawa, Canada, ce 16e jour de septembre 2003.
+« P. R. Dussault »
+Juge Dussault

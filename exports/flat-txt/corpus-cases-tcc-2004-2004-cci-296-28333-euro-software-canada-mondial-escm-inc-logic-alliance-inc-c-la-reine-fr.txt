@@ -1,0 +1,151 @@
+Title: Euro Software Canada Mondial(ESCM)Inc. Logic Alliance Inc. c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28333/index.do
+Corpus path: corpus/cases/tcc/2004/2004-cci-296-28333-euro-software-canada-mondial-escm-inc-logic-alliance-inc-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2004-04-29
+
+# Euro Software Canada Mondial(ESCM)Inc. Logic Alliance Inc. c. La Reine
+
+- Citation: 2004 CCI 296
+- Decision date: 2004-04-29
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1852, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Euro Software Canada Mondial(ESCM)Inc. Logic Alliance Inc. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-04-29
+Référence neutre
+2004 CCI 296
+Numéro de dossier
+2003-4609(IT)I
+Juges et Officiers taxateurs
+Alain Tardif
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2003-4609(IT)APP
+ENTRE :
+EURO SOFTWARE CANADA MONDIAL (ESCM) INC.,
+requérante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Demande entendue sur preuve commune avec la demande de
+Logic Alliance Inc. (2003-4610(IT)APP)
+le 6 avril 2004 à Québec (Québec)
+Devant : L'honorable juge Alain Tardif
+Comparutions :
+Représentant de la requérante :
+Marcel Lachance
+Avocate de l'intimée :
+Me Stéphanie Côté
+____________________________________________________________________
+ORDONNANCE
+Il s'agit d'une demande dont le but est d'obtenir une ordonnance prolongeant le délai d'appel relativement aux cotisations établies en vertu de la Loi de l'impôt sur le revenu pour les années d'imposition 1996 et 1997;
+La demande est accueillie pour les motifs ci-joints; la Cour ordonne que le délai dans lequel l'appel peut être interjeté soit prolongé jusqu'à la date de la présente ordonnance et que l'avis d'appel accompagnant la demande soit considéré comme un avis d'appel valide; l'intimée disposera d'un délai de 60 jours à compter de la date de la présente ordonnance pour produire sa Réponse à l'avis d'appel.
+Signée à Ottawa, Canada, ce 29e jour d'avril 2004.
+« Alain Tardif »
+Juge Tardif
+Dossier : 2003-4610(IT)APP
+ENTRE :
+LOGIC ALLIANCE INC.,
+requérante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Demande entendue sur preuve commune avec la demande de
+Euro Software Canada Mondial (ESCM) Inc. (2003-4609(IT)APP)
+le 6 avril 2004 à Québec (Québec)
+Devant : L'honorable juge Alain Tardif
+Comparutions :
+Représentant de la requérante :
+Marcel Lachance
+Avocate de l'intimée :
+Me Stéphanie Côté
+____________________________________________________________________
+ORDONNANCE
+Il s'agit d'une demande dont le but est d'obtenir une ordonnance prolongeant le délai d'appel relativement à une cotisation établie en vertu de la Loi de l'impôt sur le revenu pour l'année d'imposition 1996;
+La demande est accueillie pour les motifs ci-joints; la Cour ordonne que le délai dans lequel l'appel peut être interjeté soit prolongé jusqu'à la date de la présente ordonnance et que l'avis d'appel accompagnant la demande soit considéré comme un avis d'appel valide; l'intimée disposera d'un délai de 60 jours à compter de la date de la présente ordonnance pour produire sa Réponse à l'avis d'appel.
+Signée à Ottawa, Canada, ce 29e jour d'avril 2004.
+« Alain Tardif »
+Juge Tardif
+Référence : 2004CCI296
+Date : 20040429
+Dossiers : 2003-4609(IT)APP
+2003-4610(IT)APP
+ENTRE :
+EURO SOFTWARE CANADA MONDIAL (ESCM) INC.,
+LOGIC ALLIANCE INC.,
+requérantes,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DE L'ORDONNANCE
+Le juge Tardif
+[1] Il s'agit d'une demande de prorogation de délai de l'appel présentée par le représentant du contribuable. La requête concerne une cotisation pour l'année d'imposition 1996.
+[2] Depuis plusieurs années, le contribuable confiait tous ses dossiers relatifs à la fiscalité à monsieur Marcel Lachance, son représentant dans la présente instance.
+[3] À l'appui de la demande de prorogation de délai, monsieur Lachance a expliqué avoir subi deux interventions chirurgicales nécessitant deux séjours à l'hôpital et une longue convalescence.
+[4] Même s'il exploitait son entreprise à même sa résidence, il a invoqué des raisons de santé et préoccupations inhérentes, pour expliquer qu'il n'avait pas été en mesure de déposer l'avis d'appel dans le délai de 90 jours.
+[5] Il a mentionné avoir exprimé clairement aux différents intervenants lors des discussions dans le cadre de l'opposition l'intention du contribuable de produire éventuellement un avis d'appel devant la Cour canadienne de l'impôt dans l'éventualité d'une cotisation confirmée lors de l'opposition.
+[6] Cette intention de loger un appel devant la Cour canadienne de l'impôt s'infère également de la présentation de la demande de prorogation.
+[7] Le législateur a prévu la possibilité d'interjeter appel d'une cotisation en dehors du délai de 90 jours, le tout évidemment assujetti à certaines conditions décrites à l'article 167 :
+167(1) Le contribuable qui n'a pas interjeté appel en application de l'article 169 dans le délai imparti peut présenter à la Cour canadienne de l'impôt une demande de prorogation du délai pour interjeter appel. La Cour peut faire droit à la demande et imposer les conditions qu'elle estime justes.
+(2) La demande doit indiquer les raisons pour lesquelles l'appel n'a pas été interjeté dans le délai imparti.
+(3) La demande, accompagnée de trois exemplaires de l'avis d'appel, est déposée en trois exemplaires au greffe de la Cour canadienne de l'impôt ou est envoyée en trois exemplaires au greffe de la Cour par courrier recommandé.
+(4) La Cour canadienne de l'impôt envoie une copie de la demande au bureau du sous-procureur général du Canada.
+(5) Il n'est fait droit à la demande que si les conditions suivantes sont réunies :
+a) la demande a été présentée dans l'année suivant l'expiration du délai imparti en vertu de l'article 169 pour interjeter appel;
+b) le contribuable démontre ce qui suit :
+(i) dans le délai par ailleurs imparti pour interjeter appel, il n'a pu ni agir ni charger quelqu'un d'agir en son nom, ou il avait véritablement l'intention d'interjeter appel,
+(ii) compte tenu des raisons indiquées dans la demande et des circonstances de l'espèce, il est juste et équitable de faire droit à la demande, (iii) la demande a été présentée dès que les circonstances le permettaient, (iv) l'appel est raisonnablement fondé.
+[8] Décider si effectivement, une demande est bien fondée ou non sous-entend une analyse et appréciation des faits soumis. Ces faits peuvent être interprétés d'une manière permissive ou restrictive.
+[9] À titre d'exemple, une approche restrictive serait celle qui exigerait la preuve irréfutable, tel un écrit daté avec la preuve de la réception par l'agence que le contribuable avait bel et bien l'intention d'interjeter appel, et cela, dans le délai de 90 jours.
+[10] D'une part, une telle approche est contraire à l'esprit de la Loi et, d'autre part, aurait un effet tout à fait ridicule puisque l'avis ou la dénonciation de son intention de déposer un avis d'appel pourrait alors constituer être un véritable avis d'appel d'où il aurait été inutile de prévoir la possibilité de déposer un avis d'appel après le délai de 90 jours.
+[11] Si le législateur a prévu qu'un appel pourrait être déposé après expiration du délai de 90 jours, il m'apparaît essentiel qu'il puisse exister des situations ou circonstances où ce droit peut être accordé. Souscrire aux arguments de l'intimée aurait pour effet d'empêcher tout contribuable d'obtenir le droit d'interjeter appel après l'expiration du délai de 90 jours.
+[12] La prudence est requise pour l'appréciation des motifs soumis par l'intimée à l'encontre d'une demande pour permission d'obtenir un délai, puisqu'il s'agit d'une façon indirecte d'obtenir une confirmation du bien-fondé de la cotisation et ainsi, priver le contribuable du droit de s'exprimer quant au fond de son dossier. Le droit de contester le bien-fondé d'une cotisation est fondamental, et toute initiative visant à faire perdre ce droit doit être évaluée avec circonspection.
+[13] Lorsqu'une requête pour obtenir une permission pour déposer un avis d'appel en dehors du délai de 90 jours prend ses assises sur des motifs sérieux et raisonnables, je crois qu'elle doit être accueillie, et ce, contrairement aux demandes frivoles dont le principal objectif est essentiellement de gagner du temps.
+[14] En l'espèce, le contribuable s'en remettait au professionnalisme de son comptable depuis longtemps. Il n'avait aucune raison de se méfier ou de suspecter les faits et gestes de ce dernier dans le cadre du mandat qu'il lui avait confié.
+[15] Ce dernier a d'ailleurs été à la hauteur de la confiance du contribuable, puisque la relation d'affaires existait depuis déjà plusieurs années. Monsieur Lachance a été affligé par un grave problème de santé qui l'a totalement empêché d'agir. Il n'a pas tenté de se dérober; il a assumé la totale responsabilité du retard à produire son avis d'appel dans le délai imparti de 90 jours.
+[16] Les motifs à l'appui cette demande me sont apparus sérieux et valables pour expliquer et justifier le retard. Quant à l'intention de faire appel devant la Cour canadienne de l'impôt, encore là, l'analyse des faits et gestes ne laissent aucun doute quant à l'intention du contribuable de déposer un appel.
+[17] Il ne s'agit aucunement d'une requête s'appuyant sur des motifs frivoles dans le but de gagner du temps.
+[18] L'intimée, essentiellement, a voulu, par sa contestation de la demande de prorogation de délai, obtenir la confirmation du bien-fondé de la cotisation sans avoir à soumettre d'arguments, quant au fond de la cotisation.
+[19] La demande est accueillie et la Cour ordonne que le délai dans lequel l'appel peut être interjeté soit prolongé jusqu'à la date de la présente ordonnance et que l'avis d'appel accompagnant la demande soit considérée comme un avis d'appel valide; l'intimée disposera d'un délai de 60 jours à compter de la date de la présente ordonnance pour produire sa Réponse à l'avis d'appel.
+Signée à Ottawa, Canada, ce 29e jour d'avril 2004.
+« Alain Tardif »
+Juge Tardif
+RÉFÉRENCE :
+2004CCI296
+No DU DOSSIER DE LA COUR :
+2003-4609 (IT) APP et
+2003-4610(IT)APP
+INTITULÉS DES CAUSES :
+Euro Software Canada Mondial (ESCM) Inc.
+v. Sa Majesté la Reine
+Logic Alliance Inc v. Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+Québec (Québec)
+DATE DE L'AUDIENCE :
+Le 6 avril 2004
+MOTIFS DE L'ORDONNANCE PAR :
+L'honorable Juge Alain Tardif
+DATE DE L'ORDONNANCE :
+Le 29 avril 2004
+COMPARUTIONS :
+Pour des requérantes :
+Marcel Lachance
+Pour l'intimée :
+Me Stéphanie Côté
+AVOCAT(E) INSCRIT(E) AU DOSSIER:
+Pour l'intimée :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

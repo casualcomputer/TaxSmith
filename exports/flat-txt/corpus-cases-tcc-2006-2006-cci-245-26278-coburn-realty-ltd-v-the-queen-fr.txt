@@ -1,0 +1,160 @@
+Title: Coburn Realty Ltd. v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26278/index.do
+Corpus path: corpus/cases/tcc/2006/2006-cci-245-26278-coburn-realty-ltd-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2006-04-25
+
+# Coburn Realty Ltd. v. The Queen
+
+- Citation: 2006 CCI 245
+- Decision date: 2006-04-25
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4009, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Coburn Realty Ltd. v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-04-25
+Référence neutre
+2006 CCI 245
+Numéro de dossier
+2005-3896(GST)I
+Juges et Officiers taxateurs
+Donald G.H. Bowman
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2005-3896(GST)I
+ENTRE :
+COBURN REALTY LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 6 avril 2006, à Ottawa (Ontario).
+Devant : L'honorable juge en chef D.G.H. Bowman
+Comparutions :
+Avocate de l'appelante :
+Me Shelley J. Kamin
+Avocate de l'intimée :
+Me Amy Kendell
+____________________________________________________________________
+JUGEMENT
+L'appel à l'encontre de la cotisation établie en vertu de la Loi sur la taxe d'accise, dont l'avis est daté du 26 juillet 2005 et porte le numéro 04BP-041270833232, est rejeté.
+Signé à Ottawa (Ontario) ce 25e jour d'avril 2006.
+« D.G.H. Bowman »
+Juge en chef Bowman
+Traduction certifiée conforme
+ce 14e jour de juillet 2006.
+Nathalie Boudreau, traductrice
+Référence : 2006CCI245
+Date : 20060425
+Dossier : 2005-3896(GST)I
+ENTRE :
+COBURN REALTY LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge en chef Bowman
+[1] Il s'agit d'un appel à l'encontre d'une cotisation établie en vertu de la Loi sur la taxe d'accise (la « Loi » ) dans laquelle le ministre du Revenu national (le « ministre » ) a refusé, dans le calcul de la taxe nette de l'appelante aux fins de la taxe sur les produits et services ( « TPS » ) payable, l'inclusion de crédits de taxe sur les intrants (les « CTI » ) relatifs à un bateau, plus précisément à un yacht de croisière de 36 pieds de marque Sea Ray Sundancer, que l'appelante a acheté de Hutchinson's Boat Works Inc. (ci-après « Hutchinson's » ) à Alexandria Bay (New York). Le prix du bateau était de 325 479 $US, montant qui a été payé en partie au moyen d'une reprise par le vendeur d'un yacht de croisière de 29 pieds de marque Sea Ray Amberjack. Ces chiffres sont tirés de la commande de l'acheteur, qui se trouve à l'onglet 2 de la pièce A-1. Ils ne correspondent pas aux chiffres contenus dans l'avis d'appel. Compte tenu de ma conclusion, il n'est pas nécessaire que j'essaie de rapprocher les chiffres. Un montant de TPS de 21 883,12 $ a été payé à l'importation du bateau.
+[2] Il y a deux questions en litige :
+a) il faut d'abord déterminer qui était le propriétaire du bateau lorsque la TPS a été payée;
+b) s'il est déterminé que l'appelante en était la propriétaire, il faut déterminer si elle a droit à un CTI relativement à la TPS payée au motif que le bateau avait été « acquis, importé ou transféré, selon le cas, en vue d'être utilisé principalement dans le cadre [des] activités commerciales de [l'appelante] » , comme l'exige le paragraphe 199(2) de la Loi.
+[3] L'appelante est une agence immobilière disposant de dix bureaux dans l'Est ontarien. Les paragraphes 2, 3 et 4 de l'avis d'appel (qui exposent les faits que l'intimée n'a pas admis) sont ainsi libellés :
+[traduction]
+2. les revenus de l'appelante proviennent de la fourniture d'immeubles, à savoir de la vente et de l'achat de maisons, de chalets, de terrains riverains, de terrains vagues et d'autres biens dans la région d'Ottawa et dans la région qu'il est convenu d'appeler la « région du chalet » de l'Est ontarien, plus particulièrement dans les régions de Rideau Lakes et du Saint-Laurent. L'appelante cherche actuellement à étendre ses activités commerciales jusqu'à la région des Mille-îles et à exploiter le marché immobilier de plaisance lucratif et prestigieux de cette région.
+3. L'appelante dispose de dix bureaux dont neuf se trouvent dans un rayon de dix kilomètres d'un important cours d'eau, et dont cinq se trouvent dans des collectivités riveraines. Le fait d'avoir des bureaux dans des collectivités riveraines fait partie du plan stratégique de l'appelante visant à être connue comme une agence immobilière se spécialisant dans le marché de plaisance et des résidences secondaires situées dans des secteurs riverains de l'Est ontarien.
+4. Environ 70 agents immobiliers à commission, qui sont engagés en tant qu'entrepreneurs indépendants, exercent des activités commerciales pour l'appelante. Ces agents immobiliers à commission pourraient, à n'importe quel moment, cesser de travailler pour l'appelante et travailler pour des agences immobilières concurrentes. De façon générale, le taux de mobilité des agents à commission est élevé et leur loyauté envers les sociétés pour lesquelles ils travaillent est faible.
+À mon avis, ces énoncés sont essentiellement exacts.
+[4] Je me penche d'abord sur le premier point en litige, soit celui de l'identité du propriétaire du bateau. Je souscris à l'avis de l'appelante sur ce point. Le bateau a été acheté et immatriculé au nom de John H. Coburn, président et unique actionnaire de l'appelante, les fonds nécessaires pour acheter le bateau ont été empruntés par M. Coburn et son épouse, Mardi Friesz, et le nom de M. Coburn figure sur la police d'assurance maritime. Il est indiqué sur le permis d'embarcation de plaisance que M. Coburn est le propriétaire de l'embarcation. Ces faits semblent appuyer la conclusion selon laquelle M. Coburn était le propriétaire de l'embarcation. Toutefois, d'autres faits font fortement pencher la balance en faveur d'une conclusion contraire. Le 23 juin 2003, soit le jour où le vendeur l'a mis en possession du bateau en Ontario, M. Coburn a signé une déclaration de fiducie indiquant qu'il détenait le bateau en fiducie pour le compte de l'appelante. L'appelante a payé le solde du prix d'achat ainsi que la TPS. Dans les livres de l'appelante, le bateau est inscrit comme étant un élément d'actif et le montant payé par M. Coburn est inscrit comme étant un montant prêté par celui-ci.
+[5] À la lumière de tous ces faits, je suis convaincu que le bateau appartient à l'appelante depuis le début de cette affaire et que M. Coburn en est le fiduciaire pour le compte de l'appelante.
+[6] Je me penche maintenant sur la question plus difficile qui est de savoir si le bateau a été acquis, importé ou transféré « en vue d'être utilisé principalement dans le cadre [des] activités commerciales de [l'appelante] » . Les paragraphes 199(2) et 199(3) de la Loi sont ainsi libellés :
+(2) Les règles suivantes s'appliquent à l'inscrit qui acquiert, importe ou transfère dans une province participante un bien meuble à utiliser comme immobilisation :
+a) la taxe payable par lui relativement à l'acquisition, à l'importation ou au transfert du bien n'est incluse dans le calcul de son crédit de taxe sur les intrants pour une période de déclaration que si le bien est acquis, importé ou transféré, selon le cas, en vue d'être utilisé principalement dans le cadre de ses activités commerciales;
+b) pour l'application de la présente partie, il est réputé avoir acquis, importé ou transféré le bien pour l'utiliser exclusivement dans le cadre de ses activités commerciales s'il l'a acquis, importé ou transféré, selon le cas, pour l'utiliser principalement dans ce cadre.
+(3) Pour l'application de la présente partie, l'inscrit qui a acquis ou importé un bien meuble la dernière fois en vue de l'utiliser comme immobilisation mais non principalement dans le cadre de ses activités commerciales et qui commence, à un moment donné, à l'utiliser comme immobilisation principalement dans le cadre de ses activités commerciales est réputé, sauf s'il devient un inscrit à ce moment :
+a) avoir reçu, au moment donné, une fourniture du bien par vente;
+b) avoir payé, au moment donné et relativement à la fourniture, sauf s'il s'agit d'une fourniture exonérée, une taxe égale à la teneur en taxe du bien à ce moment.
+[7] Au début du procès, l'avocate de l'intimée a présenté une requête en modification de l'avis d'appel pour y ajouter le paragraphe suivant :
+[traduction]
+15. Subsidiairement, il avance que les crédits de taxe sur les intrants demandés par l'appelante pour la taxe payée relativement au bateau devraient être limités à un montant raisonnable dans les circonstances, eu égard à la nature des activités commerciales de l'appelante, conformément au paragraphe 170(2) de la Loi.
+[8] L'avocate de l'appelante s'est opposée à la requête, et je l'ai rejetée pour le motif qu'il serait inéquitable pour l'appelante qu'une affirmation liée à la question factuelle du caractère raisonnable du montant soit énoncée le matin même du procès. J'estime, avec recul, que si j'avais, avec le consentement de l'avocate de l'appelante, accueilli la requête, j'aurais peut-être disposé d'une certaine marge de manoeuvre pour accorder à l'appelante un allègement partiel.
+[9] L'extrait du paragraphe 199(2) où il est indiqué « [...] en vue d'être utilisé principalement dans le cadre de ses activités commerciales » renferme des notions de but ou d'intention. La version anglaise de la disposition est compatible avec cette interprétation :
+« [...] for use primarily in commercial activities [...]. »
+[10] Les énoncés que fait le contribuable de ses buts et de ses intentions ne sont pas nécessairement et toujours le fondement le plus fiable sur lequel une question de ce genre peut être tranchée. L'utilisation réelle du bien constitue souvent la meilleure preuve du but de l'acquisition. Dans la décision 510628 Ontario Limited v. The Queen, 2000 GTC 877, il est indiqué ce qui suit :
+[11] Il y a lieu de noter que l'expression « en vue d'être utilisé [...] » nécessite la détermination de l'objet de l'acquisition, non de l'utilisation réelle. Néanmoins, je crois qu'en pratique, si un bien est utilisé en fait principalement à des fins commerciales, il est raisonnable d'inférer qu'il a été acquis à ces fins.
+[11] Je me penche donc sur l'utilisation réelle du bateau. M. Coburn a témoigné que le bateau était utilisé pour recevoir des clients et récompenser ses vendeurs. Il a fait savoir que l'appelante cherchait à étendre ses activités à l'exploitation du marché immobilier de la région du chalet. J'accepte le fait qu'il voulait étendre les activités commerciales de l'appelante, mais je ne suis pas convaincu que le bateau était utilisé ou qu'il avait été acquis en vue d'être utilisé principalement dans le cadre des activités commerciales de l'appelante. Bien que j'estime que le bateau avait probablement été utilisé à des fins commerciales de temps à autre, les éléments de preuve relatifs à l'utilisation réelle du bateau n'appuient pas la conclusion selon laquelle il a été acquis en vue d'être utilisé principalement dans le cadre des activités commerciales de l'appelante.
+[12] En règle générale, il est considéré que le terme « principalement » équivaut à une proportion de plus de 50 %. Toutefois, le problème qui se pose est celui de savoir à quoi il faut appliquer le 51 %. Faut-il l'appliquer à la durée de l'utilisation du bateau, au nombre de sorties en bateau, à la distance parcourue, au nombre de passagers, à la durée du voyage, à la valeur des affaires conclues ou au nombre de visites de terrains qui pourraient être vendus? Tous ces facteurs peuvent être pertinents et ils permettent de constater qu'il est difficile d'appliquer un critère mécanique à la situation. Il s'agit, en fin de compte, d'une question de jugement et de bon sens.
+[13] L'appelante a présenté en preuve un certain nombre de pages qu'elle décrit comme étant un registre qu'elle a établi à la fin de la saison suivant les conseils de son comptable. M. Coburn a dit que le registre a été [traduction] « reconstitué » , mais cela n'est pas exact. Si une chose a été « reconstituée » , il va de soi qu'elle existait déjà et pouvait être « reconstituée » . Il est impossible de reconstituer quelque chose qui n'existait pas. Il est plus juste de dire que le registre a été établi ex post facto ou après coup.
+[14] Voici les entrées contenues dans le registre établi par M. Coburn :
+[traduction]
+Le 23 juin 2003 Équipage de Hutchinson's Boat Works. Livraison du bateau à Rockport (Ontario).
+Le 26 juin 2003 Sauf indication contraire, l'équipage était toujours composé deJohn Coburn. Invités : Mardi Friesz (épouse de M. John Coburn) et un vendeur de l'appelante.
+Le 27 juin 2003 Invités : André Gagnon (consultant en immobilier). Pam Coburn (soeur de John) et Mardi Friesz.
+Le 28 juin 2003 André Gagnon, Pam Coburn, Mardi Friesz.
+Voyage à Kingston (Ontario).
+Les 29 et 30 juin et le
+1er juillet 2003 Mêmes invités que le 28 juin, plus Dianne et Ron Phillips et Ian et Sheila McCurdy. Dianne Phillips était vendeuse, et Ian et Sheila McCurdy étaient des clients de Dianne Phillips. Nora et Garth Durrell étaient des voisins. Ken Goodfellow était entraîneur.
+Le 2 juillet 2003 Invités : Mardi Friesz, Pam Coburn et André Gagnon.
+Le 3 juillet 2003 Mêmes invités que le 2 juillet.
+Les 4, 5 et 6 juillet 2003 Visites d'un jour dans la région de Rockport. Invités : Mardi Friesz et Peter Friesz (parent de Mardi) et un ami.
+Les 11 et 12 juillet 2003 Installation du logiciel de navigation.
+Le 22 juillet 2003 Croisière de six jours. Seuls John Coburn et son épouse, Mardi Friesz, étaient à bord du bateau.
+Les 9, 10 et 11 août 2003 En plus de l'épouse de M. Coburn, Mardi Friesz, les invités étaient Nora et Garth Durrell, les voisins de M. Coburn.
+Les 22 et 23 août 2003 Les invités étaient André Gagnon et ses invités et Jean Malouin et ses invités.
+Les 29 et 30 août 2003 Ron et Dianne Phillips ainsi que Mardi Friesz. Le commentaire figurant sur cette page du registre était [traduction] « nous jetons l'ancre avec ces plaisanciers expérimentés. Nous avons parlé affaires, navigation et retraite ?? Qui faisait marcher qui? On revient à la charge demain » .
+Les 6 et 7 sept. 2003 Entretien général.
+Les 19, 20 et 21 sept. 2003 Invités : Mardi Friesz, Earl Villeneuve et son invité.
+[15] En résumé, il me semble que ce bateau très cher était utilisé principalement pour recevoir la famille et les amis. Il y avait peut-être un élément commercial, mais des clients n'étaient à bord qu'au cours de trois voyages et, sur les quelque 70 agents qui travaillaient pour l'appelante, il n'y en a qu'environ quatre qui ont été invités sur le bateau, le passager le plus fréquent étant Mardi Friesz, l'épouse de M. Coburn.
+[16] Bien que j'accepte le fait que l'accomplissement d'un but commercial puisse comprendre un élément de plaisance, comme c'était sans doute le cas dans la présente affaire, je ne pense pas que la preuve présentée en l'espèce, y compris le registre établi après la fin de la saison, permet d'établir que le bateau avait été acquis dans le but central d'être utilisé principalement dans le cadre des activités commerciales de l'appelante. Aucun élément de preuve ne démontre que les agents qui gagnaient beaucoup d'argent étaient récompensés par une croisière en bateau ou que le bateau servait à accueillir d'éventuels clients ou à montrer à ceux-ci des chalets ou des maisons le long du fleuve St. Laurent.
+[17] Dans l'éventualité où l'utilisation du bateau à des fins commerciales accroît au point où il peut être affirmé que cette utilisation constitue l'utilisation principale du bateau, l'appelante pourra obtenir un certain allègement dans une année ultérieure en vertu du paragraphe 199(3) de la Loi. Ce n'était pas le cas en 2003. Il aurait fallu que la preuve soit plus convaincante et exhaustive que celle qui a été présentée.
+[18] L'appel est rejeté.
+Signé à Ottawa, Canada, ce 25e jour d'avril 2006.
+« D.G.H. Bowman »
+Juge en chef Bowman
+Traduction certifiée conforme
+ce 14e jour de juillet 2006.
+Nathalie Boudreau, traductrice
+RÉFÉRENCE :
+2006CCI245
+NO DU DOSSIER :
+2005-3896(GST)I
+INTITULÉ :
+Coburn Realty Ltd. et Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+Ottawa (Ontario)
+DATE DE L'AUDIENCE :
+Le 6 avril 2006
+MOTIFS DU JUGEMENT PAR :
+L'honorable D.G.H. Bowman, juge en chef
+DATE DU JUGEMENT ET DES MOTIFS DU JUGEMENT :
+Le 25 avril 2006
+COMPARUTIONS :
+Avocate de l'appelante :
+Me Shelley J. Kamin
+Avocate de l'intimée :
+Me Amy Kendell
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelante :
+Nom :
+Me Shelley J. Kamin
+Cabinet :
+Avocate et notaire
+70, rue Gloucester
+Ottawa (Ontario)
+K2P 0A2
+Pour l'intimée :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

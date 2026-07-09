@@ -1,0 +1,146 @@
+Title: H.B. Barton Trucking Ltd. c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29421/index.do
+Corpus path: corpus/cases/tcc/2009/2009-cci-472-29421-h-b-barton-trucking-ltd-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2009-09-17
+
+# H.B. Barton Trucking Ltd. c. La Reine
+
+- Citation: 2009 CCI 472
+- Decision date: 2009-09-17
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6973, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+H.B. Barton Trucking Ltd. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2009-09-17
+Référence neutre
+2009 CCI 472
+Numéro de dossier
+2007-4015(IT)G
+Juges et Officiers taxateurs
+Valerie A. Miller
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2007-4015(IT)G
+ENTRE :
+H.B. BARTON TRUCKING LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle]
+____________________________________________________________________
+Requête entendue par voie de conférence téléphonique le 17 septembre 2009, à Ottawa, Canada.
+Par : L’honorable juge Valerie Miller
+Avocat de l’appelante :
+Me D. Andrew Rouse
+Avocats de l’intimée :
+Me John Bodurtha
+Me Devon Peavoy
+Me Jan Jensen
+____________________________________________________________________
+ORDONNANCE
+Vu la requête présentée par l’appelante pour obtenir une ordonnance accordant des dépens dépassant ce qui est prévu au tarif des Règles de la Cour canadienne de l’impôt (procédure générale);
+Vu les observations des avocats de l’appelante et de l’intimée;
+La requête est rejetée et chaque partie devra assumer ses propres dépens relativement à la présente requête.
+Signé à Ottawa, Canada, ce 18e jour de septembre 2009.
+« V.A. Miller »
+Juge V.A. Miller
+Traduction certifiée conforme
+ce 3e jour de novembre 2009.
+Jean-François Leclerc-Sirois, LL.B, M.A.Trad.Jur.
+Référence : 2009 CCI 472
+Date : 20090918
+Dossier : 2007-4015(IT)G
+ENTRE :
+H.B. BARTON TRUCKING LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle]
+MOTIFS DE L’ORDONNANCE
+La juge V.A. Miller
+[1] L’appelante a présenté une requête pour obtenir une ordonnance accordant des dépens dépassant ce qui est prévu au tarif des Règles de la Cour canadienne de l’impôt (procédure générale) (les « Règles »).
+[2] L’appelante a fondé sa requête sur les arguments suivants :
+a) Le 19 septembre 20008, l’appelante a fait une offre de règlement à l’intimée, offre que cette dernière a rejetée. L’appel a été accueilli, et le résultat est identique à celui qu’aurait donné l’offre de règlement de l’appelante.
+b) La somme en cause dans le litige dépassait 138 000 $, une somme considérable pour l’appelante.
+c) La question en litige avait une très grande importance pour l’appelante et pour l’industrie forestière canadienne dans son ensemble.
+d) Si l’intimée avait accepté l’offre de règlement de l’appelante, le procès n’aurait pas été nécessaire.
+e) L’appelante a abandonné toutes les autres questions qu’elle avait soulevées dans son avis d’appel, ce qui a permis d’abréger l’instance.
+[3] L’adjudication des dépens est régie par l’article 147 des Règles. Le paragraphe 147(1) confère à la Cour le pouvoir discrétionnaire de fixer les frais et les dépens et de décider quelles parties doivent les supporter. Le paragraphe 147(3) énonce certains facteurs dont la Cour peut tenir compte dans l’exercice de ce pouvoir discrétionnaire. Le passage pertinent de l’article 147 des Règles est ainsi rédigé :
+147(1) Règles générales – La Cour peut fixer les frais et dépens, les répartir et désigner les personnes qui doivent les supporter.
+(2) Des dépens peuvent être adjugés à la Couronne ou contre elle.
+(3) En exerçant sa discrétion conformément au paragraphe (1), la Cour peut tenir compte :
+a) du résultat de l’instance;
+b) des sommes en cause;
+c) de l’importance des questions en litige;
+d) de toute offre de règlement présentée par écrit;
+e) de la charge de travail;
+f) de la complexité des questions en litige;
+g) de la conduite d’une partie qui aurait abrégé ou prolongé inutilement la durée de l’instance;
+h) de la dénégation d’un fait par une partie ou de sa négligence ou de son refus de l’admettre, lorsque ce fait aurait dû être admis;
+i) de la question de savoir si une étape de l’instance,
+(i) était inappropriée, vexatoire ou inutile,
+(ii) a été accomplie de manière négligente, par erreur ou avec trop de circonspection;
+j) de toute autre question pouvant influer sur la détermination des dépens.
+(4) La Cour peut fixer la totalité ou partie des dépens en tenant compte ou non du tarif B de l’annexe II et peut adjuger une somme globale au lieu ou en sus des dépens taxés.
+(5) Nonobstant toute autre disposition des présentes règles, la Cour peut, à sa discrétion :
+a) adjuger ou refuser d’adjuger les dépens à l’égard d’une question ou d’une partie de l’instance particulière;
+b) adjuger l’ensemble ou un pourcentage des dépens taxés jusqu’à et y compris une certaine étape de l’instance;
+c) adjuger la totalité ou partie des dépens sur une base procureur-client.
+[…]
+[4] Dans les motifs du jugement que j’ai rendu dans le présent litige, j’ai tenu compte de l’issue de la cause et j’ai accordé les dépens à l’appelante.
+[5] Lorsqu’elle adjuge les dépens, la Cour doit exercer son pouvoir discrétionnaire en suivant des principes appropriés et non pas de manière arbitraire. Par exemple, le simple fait qu’une affaire soit nouvelle, unique en son genre, complexe ou difficile ou qu’elle porte sur une somme importante n’est pas nécessairement une raison de s’écarter de ce que prévoit le tarif[1].
+[6] J’ose croire que, dans tout appel relatif à l’impôt ou aux taxes, la somme en litige a de l’importance pour le contribuable. En l’espèce, la somme en litige, quoique importante pour l’appelante, ne représente pas un montant d’argent considérable.
+[7] La question sur laquelle portait l’appel était peut‑être nouvelle, mais elle n’était ni complexe ni difficile à trancher. L’audition de l’appel n’a duré qu’une demi‑journée, et la plus grande part de cette période a été consacrée à la présentation des observations orales.
+[8] La question en litige était nouvelle. Cependant, compte tenu des circonstances, le rejet de l’offre de règlement ne justifie pas l’adjudication de dépens dépassant ce qui est prévu au tarif.
+[9] La requête est rejetée. Chaque partie devra assumer ses propres dépens relativement à la présente requête.
+Signé à Ottawa, Canada, ce 18e jour de septembre 2009.
+« V.A. Miller »
+Juge V.A. Miller
+Traduction certifiée conforme
+ce 3e jour de novembre 2009.
+Jean-François Leclerc-Sirois, LL.B, M.A.Trad.Jur.
+RÉFÉRENCE :
+2009 CCI 472
+No DU DOSSIER DE LA COUR :
+2007-4015(IT)G
+INTITULÉ :
+H.B. Barton Trucking Ltd. et
+Sa Majesté la Reine
+LIEU DE L’AUDIENCE :
+Ottawa, Canada
+DATE DE L’AUDIENCE :
+Le 17 septembre 2009
+MOTIFS DE L’ORDONNANCE :
+L’honorable juge Valerie Miller
+DATE DE L’ORDONNANCE :
+Le 18 septembre 2009
+COMPARUTIONS :
+Avocat de l’appelante :
+Me Andrew Rouse
+Avocats de l’intimée :
+Me John Bodurtha
+Me Devon Peavoy
+Me Jan Jensen
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+D. Andrew Rouse
+Cabinet :
+Mockler, Peters, Oley, Rouse
+Pour l’intimée :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Alemu v. R., [1999] 3 C.T.C. 2024.

@@ -1,0 +1,230 @@
+---
+title: "Marcotte v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30963/index.do"
+last_modified: "2012-09-27"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2012 TCC 336"
+citation2: ""
+neutral_citation: "2012 TCC 336"
+decision_date: "2012-09-27"
+language: "en"
+item_id: "30963"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4837
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T08:09:23.012000+00:00"
+cases_cited_count: 2
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "f92098adee171b7ef9eba94796edde42cfc5104642c66a390f38a3c8ddd175bd"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Marcotte v. The Queen
+
+- Citation: 2012 TCC 336
+- Decision date: 2012-09-27
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4837, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Marcotte v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2012-09-27
+Neutral citation
+2012 TCC 336
+File numbers
+2008-3789(GST)G
+Judges and Taxing Officers
+Gerald J. Rip
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2008-3789(GST)G
+BETWEEN:
+DANIEL MARCOTTE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on May 17, 2012 at Ottawa, Ontario.
+Before: the Honourable Chief Judge Gerald J. Rip
+Appearances:
+Counsel for the Appellant:
+Jean Faullem
+Counsel for the Respondent:
+Gérald Danis
+____________________________________________________________________
+AMENDED JUDGMENT
+The judgment and the reasons for judgment of this Court issued on September 27, 2012 have been amended to remove all references to docket 2010‑1210(GST)G from the first page of the judgment, from the first page of the reasons for judgment and from the counsel page.
+The appeals of the assessments made under Part IX of the Excise Tax Act (ETA), two notices of which are dated October 17, 2007, and a third notice dated October 23, 2007, issued under numbers PH2007‑091, PH2007‑092 and PH2007‑096, covering the periods of April 1, 2004 to March 31, 2005, April 1, 2005 to March 31, 2006, and April 1, 2006 to December 31, 2006 are allowed, and the assessments are referred back to the Minister of National Revenue (Minister) for reconsideration and reassessment on the assumption that the Appellant is not jointly and severally liable with 3634451 Canada Inc. for all of the amounts that the latter is required to pay to the Minister, up to the benefit received, under section 325 of the ETA.
+The parties are to send written submissions to the Court regarding the awarding of costs in these appeals no later than October 25, 2012.
+This amended judgment is issued to replace the judgment of this Court issued on September 27, 2012.
+Signed at Ottawa, Canada, this 5th day of November 2012.
+"Gerald J. Rip"
+Rip, C.J.T.C.C.
+[OFFICIAL ENGLISH TRANSLATION]
+Citation: 2012 TCC 336
+Date: 20121105
+Docket: 2008-3789(GST)G
+BETWEEN:
+DANIEL MARCOTTE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+AMENDED REASONS FOR JUDGMENT
+Rip, C.J.T.C.C.
+[1] These are the appeals of Daniel Marcotte (Appellant) of the assessments issued under section 325 of the Excise Tax Act (ETA). Two notices of assessment dated October 17, 2007 and a third one dated October 23, 2007 cover the periods from April 1, 2004 to March 31, 2005, April 1, 2005 to March 31, 2006, and April 1, 2006 to December 31, 2006.
+[2] Mr. Marcotte is the sole director and shareholder of the corporation 3634451 Canada Inc. (hereinafter "JORA"), which specializes in the construction of buildings consisting of 3 to 14 rental housing or condo-type units.
+[3] In the fall of 2003, the Appellant informed Mr. Picard, an employee of the Ministère du Revenu du Québec (hereinafter "Revenu Québec"), about a particular issue, namely that he was building five rental income buildings on his behalf, on behalf of JORA and, I understand, on behalf of his brother Guy Marcotte and Gail Maloney, a JORA employee, on adjacent lands. At the time, the Appellant foresaw certain difficulties fulfilling his self-assessment obligations, in accordance with the ETA, due to the fact that the buildings were clearly going to be ready on different dates. In addition, since the five buildings had been built on adjacent sites, it was difficult, even impossible, to divide up the construction costs per building.
+[4] The evidence submitted shows that negotiations had taken place between Mr. Marcotte, Ms. Maloney and Mr. Picard. Moreover, it appears from a letter from Mr. Marcotte to Mr. Picard dated January 19, 2004 that Mr. Marcotte and Ms. Maloney were acting as representatives of JORA at the time and not on their own behalf.
+[5] According to the Appellant, he had then agreed with Mr. Picard to treat the five buildings in question as a housing complex. According to the agreement, the self-assessments for those five buildings were all to be done by January 31, 2004.
+[6] On January 28, 2004, the "GST New Residential Rental Property Rebate" forms for the five buildings in question were sent to Revenu Québec. The GST and QST rebates, jointly, amounted to $858,678.66.
+[7] After the forms were sent, the Appellant instructed Revenu Québec to retain the input tax credits to which he was entitled to act as a set-off. Those credits amounted to $349,162.91.
+[8] On August 18, 2004, JORA issued a cheque to Revenu Québec in the amount of $500,000 to pay off the balance, to within a few thousand dollars. That cheque was cashed by Revenu Québec on August 19, 2004.
+[9] After dividing the amount of the cheque into two portions of $250,000 each, intended as GST and QST, Revenu Québec applied the entire amount of the cheque received against the balance of JORA's account.
+[10] During the 2005 and 2006 taxation years, three dividends were paid by JORA to the Appellant, as follows:
+— on March 31, 2005
+$100,000
+— on March 31, 2006
+$100,000
+— on December 31, 2006
+$200,000
+[11] The Appellant’s attorney acknowledged that, for the purposes of the appeal, the three dividends paid by JORA had been paid to a non-arm's length party.
+[12] On March 31, 2007, Revenu Québec showed an amount of $53,691.14 standing to the credit of JORA with respect to its GST balance.
+[13] In the summer of 2007, the Appellant expressed the view that the $500,000 payment remitted on August 18, 2004 should not have been applied by Revenu Québec exclusively against JORA's tax liabilities, but that part of the payment should have instead been applied against the tax liabilities of Gale Maloney, Guy Marcotte, the Appellant's brother, and the Appellant personally.
+[14] Thus, after being urged by his brother and Ms. Maloney, the Appellant initiated negotiations in October 2007 with Revenu Québec to modify the apportionment of the cheque cashed on August 19, 2004.
+[15] Following the discussions in October 2007, the apportionment accepted by the Appellant and made by Revenu Québec on December 17, 2007 was as follows:
+Gale Maloney
+$ 61,852.79
+Daniel Marcotte
+$285,975.38
+Guy Marcotte
+$ 38,564.21
+3634451 Canada inc. (JORA)
+$113,607.62
+[16] Following the new apportionment of the $500,000 cheque in December 2007, Revenu Québec then made a retroactive adjustment to JORA's GST balance. Based on the view that JORA's tax liability had, accordingly, never been paid in full following the August 18, 2004 payment, Revenu Québec then determined that, as at the date when the three aforementioned dividends were issued, JORA was indebted to the Respondent for the following amounts:
+— as at March 31, 2005
+$146,642.92
+— as at March 31, 2006
+$150,516.51
+— as at December 31, 2006
+$161,785.12
+[17] Therefore, on October 17, 2007, Revenu Québec issued two assessment notices to the Appellant for $46,612.41 and $45,642.61 respectively, in accordance with section 325 of the ETA. A third assessment notice was issued to the Appellant on October 23, 2007 for $89,949.17, again under section 325 of the ETA.
+[18] The Respondent based the assessments at issue on the following presumptions and factual findings:
+a) When each dividend was paid to the Appellant by JORA, the Appellant was not at arm's length with JORA;
+b) For the period from April 1, 2004 to March 31, 2005, even though JORA was indebted to the Respondent for an amount exceeding that sum, it paid the Appellant an amount of $100,000 as a common dividend;
+c) Given that JORA's debt under paragraph b) comes from two sources, namely, one debt owed to the provincial Crown and another owed to the Respondent, the benefit received by the Appellant was established in the same proportion as the amount that the JORA corporation owed the Respondent through application of the ETA, such that the Appellant was assessed for an amount of $46,612.41;
+d) For the period from April 1, 2005 to March 31, 2006, even though JORA was indebted to the Respondent for an amount exceeding that sum, it paid the Appellant an amount of $100,000 as a common dividend;
+e) Given that JORA's debt under paragraph d) comes from two sources, namely, one debt owed to the provincial Crown and another owed to the Respondent, the benefit received by the Appellant was established in the same proportion as the amount that the JORA corporation owed the Respondent through application of the ETA, such that the Appellant was assessed for the amount of $45,642.61;
+f) For the period from April 1, 2006 to December 31, 2006, even though JORA was indebted to the Respondent for an amount exceeding that sum, it paid the Appellant an amount of $200,000 as a common dividend;
+g) Given that JORA's debt under paragraph f) comes from two sources, namely, one debt owed to the provincial Crown and another owed to the Respondent, the benefit received by the Appellant was established in the same proportion as the amount that the JORA corporation owed the Respondent through application of the ETA, such that the Appellant was assessed for the amount of $89,949.17.
+Issue
+[19] The only real issue in these appeals, with respect to the three notices of assessment issued under section 325 of the ETA, involves determining whether, at the time that each of the three aforementioned dividends was paid to the Appellant, JORA was liable for an amount under the ETA for the reporting period that includes the time of the transfer or for the prior reporting periods.
+[20] Initially, the issue identified in the written submissions revolved around the matter of whether a salary in the form of a dividend could be assessed under section 325 of the ETA. The Appellant contended that the work he performed for his company was sufficient consideration. However, that argument was abandoned at the hearing. The two parties then stated that the only remaining issue was the one described in paragraph 19 herein.
+Appellant's claims
+[21] The Appellant is of the opinion that, if it had not been for the agreement negotiated between the parties in October 2007 authorizing a new apportionment of the $500,000 paid by JORA in August 2004, the Respondent would in no way have been able to claim that, when each of the three dividends was paid to the Appellant, JORA was liable for an amount under the ETA for the reporting period that includes the time of the transfer or for the prior reporting periods.
+[22] The Appellant points out that, on March 31, 2007, Revenu Québec showed an amount of $53,691.14 standing to the credit of JORA with respect to its GST balance. JORA had that positive balance until the amounts arising from the new apportionment in October 2007 were redistributed, which was done on December 17, 2007.
+[23] The Appellant therefore maintains that no amount of money was owed by JORA to the Respondent until the time when the Minister carried out the new apportionment, i.e. in December 2007. Thus, the Appellant claims that no amount of money was owed by JORA to the Respondent at the time when the dividends were paid to the Appellant in March 2005, March 2006 and December 2006.
+Respondent's claims
+[24] The Respondent first points out that it was specifically on the Appellant's prompting that a new apportionment of the $500,000 payment was accepted in October 2007 and carried out in December of the same year.
+[25] The Respondent also stresses that there had never been a true final and irrevocable payment of JORA's debt. The Respondent is of the opinion that the evidence, in the form of an admission by the Appellant, shows that the $500,000 payment had never been made exclusively for the purpose of paying off JORA's debt, in that one part of it should instead have been applied against the tax liabilities of Gale Maloney, Guy Marcotte and the Appellant personally.
+[26] The Respondent believes that the evidence shows that JORA's intention on August 18, 2004 was not to pay off its tax liabilities.
+[27] The Respondent therefore maintains that, when the dividends were issued, JORA's tax liability was $146,642.92 on March 31, 2005, $150,516.51 on March 31, 2006, and $161,785.12 on December 31, 2006 and that, consequently, the notices of assessment of October 17, 2007 and October 23, 2007 for $46,612.41, $45,642.61 and $89,949.17, respectively, are in keeping with section 325 of the ETA.
+Analysis
+[28] Subsection 325(2) of the ETA enables the taxation authorities to assess a transferee in respect of any amount payable by reason of section 325. Subsection 325(1) sets out the circumstances in which it may be applied. It is worded as follows:
+325.(1) Where at any time a person transfers property, either directly or indirectly, by means of a trust or by any other means, to
+(a) the transferor’s spouse or common-law partner or an individual who has since become the transferor’s spouse or common-law partner,
+(b) an individual who was under eighteen years of age, or
+(c) another person with whom the transferor was not dealing at arm’s length,
+the transferee and transferor are jointly and severally liable to pay under this Part an amount equal to the lesser of
+(d) the amount determined by the formula
+A - B
+where
+A is the amount, if any, by which the fair market value of the property at that time exceeds the fair market value at that time of the consideration given by the transferee for the transfer of the property, and
+B is the amount, if any, by which the amount assessed the transferee under subsection 160(2) of the Income Tax Act in respect of the property exceeds the amount paid by the transferor in respect of the amount so assessed, and
+(e) the total of all amounts each of which is
+(i) an amount that the transferor is liable to pay or remit under this Part for the reporting period of the transferor that includes that time or any preceding reporting period of the transferor, or
+(ii) interest or penalty for which the transferor is liable as of that time,
+but nothing in this subsection limits the liability of the transferor under any provision of this Part.
+325(1) La personne qui transfère un bien, directement ou indirectement, par le biais d'une fiducie ou par tout autre moyen, à son époux ou conjoint de fait, ou à un particulier qui l'est devenu depuis, à un particulier de moins de 18 ans ou à une personne avec laquelle elle a un lien de dépendance, est solidairement tenue, avec le cessionnaire, de payer en application de la présente partie le moins élevé des montants suivants:
+a) résultat du calcul suivant:
+A - B
+où :
+A représente l'excédent éventuel de la juste valeur marchande du bien au moment du transfert sur la juste valeur marchande, à ce moment, de la contrepartie payée par le cessionnaire pour le transfert du bien,
+B l'excédent éventuel du montant de la cotisation établie à l'égard du cessionnaire en application du paragraphe 160(2) de la Loi de l'impôt sur le revenu relativement au bien sur la somme payée par le cédant relativement à ce montant;
+b) le total des montants représentant chacun :
+(i) le montant dont le cédant est redevable en vertu de la présente partie pour sa période de déclaration qui comprend le moment du transfert ou pour ses périodes de déclaration antérieures,
+(ii) les intérêts ou les pénalités dont le cédant est redevable à ce moment.
+Toutefois, le présent paragraphe ne limite en rien la responsabilité du cédant découlant d'une autre disposition de la présente partie.
+[29] The constituent elements of section 325 of the ETA are similar to those found in section 160 of the Income Tax Act. The transferor must first and foremost have a tax liability at the time of the transfer.
+[30] As my colleague Judge Angers indicated in Michel Beauchamp v. The Minister of National Revenue, 2008 TCC 420, at paragraph 12, the tax liability for the purpose of section 325 is "the amount that the transferor owes under the ETA for the reporting period in which the transfer took place and for the prior reporting periods of the transferor." The ETA also provides for monthly and quarterly reporting periods.
+[31] However, in the present case, JORA had no liability under the ETA for its reporting periods including the dates that the dividends were issued, or for its prior reporting periods. In fact, JORA did not become liable to pay any amount under the ETA until the date when the negotiations for the new application of the $500,000 payment began, which was in October 2007.
+[32] In my view, part of the solution to the issue at hand is found in the Civil Code of Québec (hereinafter the "CCQ"). The relevant sections are worded as follows:
+1564 Where the debt consists of a sum of money, the debtor is released by paying the nominal amount due in money which is legal tender at the time of payment.
+He is also released by remitting the amount due by money order, by cheque made to the order of the creditor and certified by a financial institution carrying on business in Québec, or by any other instrument of payment offering the same guarantees to the creditor, or, if the creditor is in a position to accept it, by means of a credit card or a transfer of funds to an account of the creditor in a financial institution.
+1564 Le débiteur d'une somme d'argent est libéré par la remise au créancier de la somme nominale prévue, en monnaie ayant cours légal lors du paiement.
+Il est aussi libéré par la remise de la somme prévue au moyen d'un mandat postal, d'un chèque fait à l'ordre du créancier et certifié par un établissement financier exerçant son activité au Québec ou d'un autre effet de paiement offrant les mêmes garanties au créancier, ou, encore, si le créancier est en mesure de l'accepter, au moyen d'une carte de crédit ou d'un virement de fonds à un compte que détient le créancier dans un établissement financier.
+1568. A debtor who pays his debt is entitled to an acquittance and to the turning over of the original title of the obligation.
+1568. Le débiteur qui paie a droit à une quittance et à la remise du titre original de l'obligation.
+1671. Obligations are extinguished not only by the causes of extinction contemplated in other provisions of this Code, such as payment, the expiry of an extinctive term, novation or prescription, but also by compensation, confusion, release, impossibility of performance or discharge of the debtor.
+1671. Outre les autres causes d'extinction prévues ailleurs dans ce code, tels le paiement, l'arrivée d'un terme extinctif, la novation ou la prescription, l'obligation est éteinte par la compensation, par la confusion, par la remise, par l'impossibilité de l'exécuter ou, encore, par la libération du débiteur.
+[33] Among the facts in this case, the $500,000 cheque issued on August 18, 2004 by JORA to Revenu Québec was not accompanied by any specific instructions regarding how the payment should be applied. It was a cheque from JORA. In the negotiations between Mr. Marcotte and Mr. Picard in 2004, Mr. Marcotte was acting as a representative of JORA and not on his own behalf or on behalf of his brother or Gail Maloney.
+[34] On August 19, 2004, when the cheque was cashed, Revenu Québec applied the entire amounts received against JORA's tax liabilities.
+[35] Revenu Québec then issued a statement of account showing an amount of $53,691.14 to the credit of JORA with respect to its GST balance.
+[36] It was not until the summer of 2007 that the Appellant, after receiving the assessments at issue, expressed dissatisfaction regarding how the $500,000 were originally apportioned in 2004. For three years, nobody questioned the fact that the payment in 2004 was a payment from JORA.
+[37] However, as indicated in the first paragraph of section 1564 of the CCQ, the debtor of a sum of money is released by paying the creditor the nominal amount due.
+[38] When the Appellant first expressed dissatisfaction regarding the apportionment of the $500,000, in the summer of 2007, he had to be considered as having already implicitly agreed to a release regarding the payment's initial apportionment.
+[39] In Trudel v. National Bank of Canada, 2006 QCCS 1172, the Superior Court of Québec states, firstly, that section 1568 of the CCQ is a generality for any form of liability and, secondly, that a release given by a creditor does not necessarily have to take a certain form. (See paragraphs 28 and 29.)
+[40] The statement of account issued by Revenu Québec clearly indicated JORA's new GST balance and unequivocally showed the use of the amounts received. That statement of account was very definitely available to the Appellant, who could have challenged Revenu Québec's apportionment, if he had seen fit to do so. However, the Appellant instead chose to remain silent for more than three years.
+[41] As a result, the updating of JORA's file with respect to GST inevitably amounted to a release, within the meaning of the CCQ, made by Revenu Québec. The Appellant's extended silence, as JORA's sole shareholder and director, had to be perceived as implied acceptance of the release.
+[42] Since payment is a cause for release from debt specifically provided for in the CCQ, JORA's tax liabilities were extinguished following the cashing of the cheque in August 2004.
+[43] The fact that discussions undertaken in the fall of 2007 gave rise to a new apportionment of the funds in no way changes the fact that, when the dividends were paid, JORA's tax liability was indeed extinguished. The change in the payment's application as subsequently granted by Revenu Québec could have given rise to a new tax liability, but that "new liability" started to accrue in the fall of 2007, which was when the parties reached an agreement.
+[44] Therefore, I am of the opinion that, when JORA paid the dividends to the Appellant in March 2005, March 2006 and December 2006, it was not liable for an amount under the ETA for its reporting period that includes the time of the transfer or for its previous reporting periods.
+[45] The notices of assessment issued under section 325 of the ETA were therefore unfounded, and the appeals are allowed without costs. The parties are required to provide the Court with written submissions regarding the awarding of costs in these appeals by October 25, 2012.
+[46] The outcome of this judgment may seem unfair for the taxation authorities. After all, the Appellant's success is attributable to the acceptance, by the taxation authorities and by the Appellant himself, of JORA's entire 2004 payment being applied to the balance of JORA's account. However, three years later, Revenu Québec restructured the payment to the Appellant's advantage and to JORA's detriment, without JORA's apparent approval.
+Signed at Ottawa, Canada, this 5th day of November 2012.
+“Gerald J. Rip”
+Rip, C.J.T.C.C.
+CITATION: 2012 TCC 336
+COURT FILE NO.: 2008-3789(GST)G
+STYLE OF CAUSE: DANIEL MARCOTTE v.
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: Ottawa, Ontario
+DATE OF HEARING: May 17, 2012
+REASONS FOR JUDGMENT BY: The Honourable Chief Judge Gerald J. Rip
+DATE OF AMENDED JUDGMENT: November 5, 2012
+APPEARANCES:
+Counsel for the Appellant:
+Jean Faullem
+Counsel for the Respondent:
+Gérald Danis
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Jean Faullem
+Firm: Noël & Associés, LLP
+Gatineau, Quebec
+For the Respondent: William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

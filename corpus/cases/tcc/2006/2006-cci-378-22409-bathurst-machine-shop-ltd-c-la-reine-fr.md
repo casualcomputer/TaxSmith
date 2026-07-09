@@ -1,0 +1,188 @@
+---
+title: "Bathurst Machine Shop Ltd. c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/22409/index.do"
+last_modified: "2006-06-30"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 CCI 378"
+citation2: ""
+neutral_citation: "2006 CCI 378"
+decision_date: "2006-06-30"
+language: "fr"
+item_id: "22409"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2267
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T08:30:05.897000+00:00"
+cases_cited_count: 0
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "dabca27d36ff00de4e14a8c90c7b5ff519d8f47603905773b207a8bdffa83436"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Bathurst Machine Shop Ltd. c. La Reine
+
+- Citation: 2006 CCI 378
+- Decision date: 2006-06-30
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2267, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Bathurst Machine Shop Ltd. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-06-30
+Référence neutre
+2006 CCI 378
+Numéro de dossier
+2003-106(IT)G
+Juges et Officiers taxateurs
+Eric A. Bowie
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossiers : 2003-106(IT)G, 2003-107(IT)G
+2003-110(IT)G, 2003-111(IT)G
+2003-112(IT)G
+ENTRE :
+BATHURST MACHINE SHOP LTD.,
+MANDATE ERECTORS & WELDING LTD.,
+KENNETH PITRE, LEOPOLD THERIAULT
+et GERALD PITRE,
+appelants,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Requêtes entendues le 20 juin 2006, à Fredericton (Nouveau-Brunswick).
+Devant : L'honorable juge E. A. Bowie
+Comparutions :
+Avocat des appelants :
+Me David R. Oley
+Avocats de l'intimée :
+Mes Cecil Woon et Ted R. Sawa
+____________________________________________________________________
+ORDONNANCE
+Vu les requêtes présentées par l'avocat des appelants afin d'obtenir des ordonnances en vertu du paragraphe 93(3) des Règles de la Cour canadienne de l'impôt (procédure générale) portant que :
+1. l'intimée doit désigner M. John Landry comme personne à être interrogée au préalable;
+2. l'intimée doit donner suite aux engagements nos 55, 56, 57 et 58 pris lors de l'interrogatoire préalable de Mme Claudette Miller qui a eu lieu du 17 au 20 janvier 2005;
+Et vu la documentation déposée dans la présente affaire;
+Et vu les observations des avocats des parties;
+La Cour ordonne :
+1. les requêtes visant à obtenir une ordonnance enjoignant à l'intimée de désigner M. John Landry comme personne à être interrogée au préalable sont rejetées;
+2. l'intimée est tenue de répondre aux questions visées par les engagements nos 55, 56, 57 et 58 pris lors de l'interrogatoire préalable de Mme Claudette Miller qui a eu lieu du 17 au 20 janvier 2005;
+3. l'intimée a droit à un mémoire de dépens relatif aux requêtes, qui suivra l'issue de l'affaire.
+Signé à Ottawa, Canada, ce 30e jour de juin 2006.
+« E. A. Bowie »
+Le juge Bowie
+Traduction certifiée conforme
+ce 8e jour de décembre 2006.
+Yves Bellefeuille, réviseur
+Référence : 2006CCI378
+Date : 20060630
+Dossiers : 2003-106(IT)G, 2003-107(IT)G
+2003-110(IT)G, 2003-111(IT)G
+et 2003-112(IT)G
+ENTRE :
+BATHURST MACHINE SHOP LTD.,
+MANDATE ERECTORS & WELDING LTD.,
+KENNETH PITRE, LEOPOLD THERIAULT
+et GERALD PITRE,
+appelants,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L'ORDONNANCE
+Le juge Bowie
+[1] Les appelants présentent des requêtes en vue d'obtenir des ordonnances portant que [TRADUCTION] « [...] M. John Landry [...] doit être désigné par l'intimée, Sa Majesté la Reine, comme personne à être interrogée au préalable pour les présents appels en matière fiscale » et enjoignant à l'intimée de répondre à quatre questions visées par les engagements pris du 17 au 20 janvier 2005 lors de l'interrogatoire préalable de Claudette Miller, qui a été choisie par l'intimée pour être interrogée au préalable. Après l'interrogatoire préalable de Mme Miller, l'avocat de l'intimée a eu des doutes sur quatre des nombreuses questions ayant donné lieu à des engagements; plutôt que de donner des réponses à ces questions, il a adopté la position selon laquelle celles-ci ne se rapportaient pas aux points en litige devant la Cour et a omis de s'acquitter des engagements pris. Lors de l'audience tenue devant moi, l'avocat de l'intimée a concédé ce deuxième point et a renouvelé son engagement de répondre aux quatre questions. Il avait clairement raison de le faire; une fois qu'un engagement inconditionnel est pris, il est trop tard pour refuser de s'en acquitter pour des motifs de pertinence : voir Towne v. Miller[1]. Les appelants ont le droit de recevoir des réponses à ces quatre questions, et une ordonnance en ce sens sera rendue. Pour les motifs qui suivent, je suis d'avis que les autres requêtes présentées par les appelants doivent être rejetées. Mes motifs seront brefs parce qu'une bonne partie de l'argumentation que j'ai entendue sera forcément répétée lorsque les appelants contesteront l'admissibilité de certains éléments de preuve à l'audience.
+[2] Les nouvelles cotisations d'impôt sur le revenu qui sont en appel en l'espèce remontent à l'année d'imposition 1989. Elles découlent d'enquêtes entamées par des fonctionnaires de Revenu Canada Impôt[2] il y a presque 15 ans. Les enquêtes ont été entreprises par suite d'un appel téléphonique reçu par M. John Landry, un fonctionnaire de Revenu Canada. En plus de M. Landry, plusieurs autres employés de Revenu Canada, y compris Mme Miller, ont participé aux enquêtes en question. Les appelants prétendent que les enquêtes ont été menées d'une façon qui est incompatible avec l'article 8 de la Charte canadienne des droits et libertés et ils soutiendront certainement au procès qu'une grande partie des éléments de preuve qui vont, selon eux, être présentés par l'intimée devrait être écartée pour ce motif. Au moment où Me Oley défendait cet argument avec son dynamisme habituel, aucune décision judiciaire n'avait été rendue relativement à l'article 8 et aux éléments de preuve concernés.
+[3] C'est dans ce contexte que Me Mockler, avocat principal des appelants, a expressément demandé aux avocats de l'intimée, au moyen d'une lettre datée du 10 décembre 2004, que le sous-procureur général du Canada désigne M. Landry comme personne à être interrogée au préalable au nom de la Couronne conformément au paragraphe 93(3) des Règles. L'intimée a refusé de désigner M. Landry pour représenter la Couronne et a plutôt désigné Mme Miller. L'avocat des appelants a interrogé au préalable Mme Miller pendant quatre jours en janvier 2005 et encore une fois le 13 mars 2006. Selon les avocats de l'intimée, on a posé 2 410 questions à Mme Miller, et 112 engagements ont été pris lors de son interrogatoire préalable. Les appelants ne contestent pas ces chiffres. Ils contestent cependant que Mme Miller ait été suffisamment prête pour être interrogée au préalable et qu'elle ait donné des réponses adéquates aux questions qui lui avaient été posées. En fait, Me Oley a dit que Mme Miller n'avait été choisie comme personne à être interrogée au préalable que pour [TRADUCTION] « jeter un voile » entre M. Landry et l'avocat des appelants.
+[4] Cela dit, après avoir examiné le dossier qui m'a été présenté, je ne peux pas affirmer que les appelants se sont vu refuser un interrogatoire préalable satisfaisant de l'intimée. Bon nombre des réponses qui sont aujourd'hui contestées pour le motif qu'elles sont incomplètes ou inutiles auraient pu faire l'objet d'engagements supplémentaires, mais cela n'a pas été le cas. L'avocat qui accepte une réponse sans poser de questions de suivi ou demander que la personne s'engage à fournir une réponse exhaustive ne peut pas plus tard se plaindre que la réponse donnée était insatisfaisante.
+[5] À mon avis, le principe qui s'applique a été correctement énoncé par la juge Swinton dans la décision Baylis Estate v. Attorney General of Canada[3], aux paragraphes 9 et 10, où elle a formulé les commentaires suivants :
+[TRADUCTION]
+[9] Pour qu'une ordonnance prescrivant la tenue d'un interrogatoire préalable d'un autre représentant d'une société soit rendue, la partie requérante doit montrer qu'elle ne peut pas autrement faire l'interrogatoire préalable auquel elle a droit. L'un des objets de l'interrogatoire préalable est d'obtenir de l'information sur les allégations qu'il faut réfuter. Un deuxième objet de l'interrogatoire préalable est d'obtenir des aveux de la partie opposée. Il n'est pas suffisant d'invoquer comme motif que la personne que la partie requérante voudrait interroger au préalable pourrait être un témoin important au procès pour que la tenue d'un interrogatoire préalable supplémentaire soit ordonnée. Il ne peut être ordonné qu'un autre représentant soit interrogé au préalable que si le représentant déjà désigné ne peut pas ou ne veut pas s'informer de façon satisfaisante sur la question. [Jurisprudence omise.]
+[10] Par conséquent, le fait que M. Wilson ait dû prendre des engagements pour répondre aux questions relatives au rapport Glen ne suffit pas pour conclure qu'un autre représentant devrait être interrogé au préalable étant donné qu'il est inévitable qu'un représentant de la Couronne ou d'une société soit incapable de répondre à toutes les questions posées lors de l'interrogatoire préalable. Le processus habituel à suivre est de prendre un engagement d'obtenir l'information des bonnes sources, ce qui a été fait en l'espèce.
+À ma connaissance, à l'exception des quatre engagements qui font l'objet des présentes requêtes, tous les autres engagements ont été respectés. Il y a toutefois plusieurs réponses à l'égard desquelles il aurait pu être utile de faire un suivi, ce qui n'a pas été fait. Après avoir examiné le dossier, je suis toutefois convaincu que les appelants ont eu la possibilité de faire un interrogatoire préalable satisfaisant de l'intimée. Ce que les appelants cherchent véritablement à obtenir par les présentes requêtes est la possibilité de recueillir le témoignage de M. Landry, qui sera sans doute un témoin important à une étape ultérieure de la présente affaire. L'obtention de ce genre de témoignage ne fait pas partie des démarches visées par la procédure. Comme le juge Stayer l'a affirmé dans la décision Champion Truck Bodies Ltd. c. La Reine du chef du Canada[4] :
+L'interrogatoire [préalable] vise à faire connaître non pas le témoignage que produira la personne interrogée mais plutôt les faits qui sont pertinents aux procédures et que l'autre partie connaît.
+Il n'est pas nécessaire de tenir d'autres interrogatoires préalables dans la présente affaire; ce qui est nécessaire, c'est de la faire avancer pour que le litige soit résolu sur le fond sans plus tarder.
+[6] Il y a un autre motif de rejeter les requêtes visant à faire désigner M. Landry comme représentant de la Couronne. Il se trouve au paragraphe 93(3) des Règles, qui est ainsi libellé :
+93(3) Lorsque la Couronne est la partie interrogée, le sous-procureur général du Canada doit choisir un officier, un fonctionnaire ou un employé bien informé qui sera interrogé en son nom; toutefois, si la partie interrogatrice n'est pas satisfaite de cette personne, elle peut demander à la Cour de nommer une autre personne.
+Monsieur Landry a pris sa retraite le 1er avril 2006; il n'est donc plus « un officier, un fonctionnaire ou un employé » de la Couronne. Je devrais peut-être signaler que la nouvelle de la retraite de M. Landry a surpris les avocats des deux parties. Il avait été muté à Hamilton (Ontario) il y a un certain temps et il semblerait qu'il était en congé de quelque sorte de l'automne 2005 jusqu'à ce qu'il prenne sa retraite en avril. Les avocats des appelants n'avaient fait aucune enquête au sujet de la retraite éventuelle de M. Landry; s'ils avaient fait une telle enquête, ils auraient peut-être présenté les requêtes plus tôt. Maître Oley n'a pas non plus essayé de reprocher aux avocats de l'intimée de ne pas avoir fait une telle enquête; comme il l'a dit, [TRADUCTION] « ce genre de chose arrive » .
+[7] Maître Oley a toutefois adopté la position selon laquelle le départ à la retraite de M. Landry n'empêche pas la Cour de nommer celui-ci comme « une autre personne » pouvant être interrogée au nom de la Couronne. Il allègue que les derniers mots du paragraphe 93(3) des Règles ne sont pas limités par ceux qui les précèdent, que si je suis convaincu qu'il convient de nommer une deuxième personne pouvant être interrogée au préalable, je ne suis pas tenu de nommer un officier, un fonctionnaire ou un employé, et que je peux nommer toute autre personne compétente bien informée des points en litige.
+[8] Maître Woon avance que la question a été réglée par la Cour suprême du Canada dans l'arrêt R. c. CAE Industries Ltd.[5] Dans cet arrêt, la Cour suprême a infirmé un jugement de la Cour d'appel fédérale dans lequel cette dernière enjoignait à la Couronne de citer l'honorable James Richardson, un ancien ministre de la Couronne, à comparaître à un interrogatoire préalable, en affirmant que l'expression « fonctionnaire d'un ministère ou département ou [...] tout autre fonctionnaire de la Couronne » ne visait pas M. Richardson, même s'il était ministre au moment où l'ordonnance de la Cour d'appel avait été rendue, parce que :
+[...] cette expression ne peut viser qu'un fonctionnaire en poste au moment de l'interrogatoire préalable, et cela, parce que les aveux seraient ordinairement interprétés comme liant la Couronne quant aux questions soulevées dans le litige[6].
+Le libellé de l'article 465 des Règles de la Cour fédérale qui étaient en vigueur à l'époque pertinente était cependant très différent de celui du paragraphe 93(3) des Règles. La partie pertinente était rédigée en ces termes :
+465(1) Aux fins de la présente Règle, on peut procéder à l'interrogatoire préalable d'une partie, tel que ci-après prévu dans cette Règle,
+[...]
+c) si la partie est la Couronne, en interrogeant un officier ministériel ou autre officier de la Couronne désigné par le procureur général du Canada ou le sous-procureur général du Canada ou par ordonnance de la Cour [...]
+L'expression qu'invoque M. Oley, à savoir « une autre personne » , est manifestement absente.
+[9] Est-ce que cela mène à un résultat différent? Je ne crois pas.
+[10] Il est bien établi en common law que, selon la prérogative royale, la Couronne jouit d'une immunité en ce qui concerne les interrogatoires préalables[7]. Il s'ensuit que le droit d'interroger la Couronne au préalable est délimité par la loi qui abolit cette prérogative. Dans les présentes, la prérogative est abolie par l'article 20 de la Loi sur la Cour canadienne de l'impôt[8] dont la partie pertinente est ainsi libellée :
+20(1) Sous réserve de leur approbation par le gouverneur en conseil, les règles concernant la pratique et la procédure devant la Cour sont établies par le comité des règles.
+(1.1) Sans qu'il soit porté atteinte à l'application générale de ce qui précède, le comité des règles peut prendre des règles sur les objets suivants :
+a) les interrogatoires préalables oraux des agents de Sa Majesté du chef du Canada;
+b) la production de documents, la communication de leur teneur ainsi que la fourniture de copies de documents, par Sa Majesté du chef du Canada;
+20(1) Subject to the approval of the Governor in Council, rules for regulating the pleadings, practice and procedure in the Court shall be made by the rules committee.
+(1.1) Without limiting the generality of the foregoing, the rules committee may make rules
+(a) for oral examinations for discovery of officers of Her Majesty in right of Canada;
+(b) for discovery and production, and supplying of copies, of documents by Her Majesty in right of Canada;
+Il est évident que le législateur avait pour intention de faire en sorte que Sa Majesté puisse être soumise aux interrogatoires préalables dans les affaires entendues par la Cour, mais qu'elle soit représentée par « des agents de Sa Majesté » ( « officers of Her Majesty » ) lors de ces interrogatoires. Prise isolément, l'expression « une autre personne » pourrait en fait permettre l'interprétation proposée par Me Oley. Dans le contexte de la loi habilitante, par contre, l'expression ne peut viser qu'un autre agent de Sa Majesté. La justification de cette interprétation se trouve implicitement dans l'extrait des motifs du juge en chef Laskin dans l'arrêt CAE que j'ai reproduit ci-dessus. On ne s'attend guère à ce que la Couronne, en abandonnant l'immunité dont elle jouit en ce qui concerne les interrogatoires préalables, accepte d'être liée au procès par des aveux de fait de personnes qui ne sont pas « des agents de Sa Majesté » .
+[11] Je dois interpréter le paragraphe 93(3) des Règles d'une façon qui est compatible avec les pouvoirs conférés par le législateur au comité des règles : voir McKay v. The Queen[9].Pour ce faire, je dois considérer l'expression « une autre personne » comme étant limitée par l'expression qui la précède, à savoir « [...] un officier, un fonctionnaire ou un employé bien informé [...] » . L'article 20 ne confère pas au comité des règles le pouvoir d'établir une règle qui ferait en sorte que la Couronne soit liée par des réponses données en interrogatoire préalable par une personne qui n'est pas un agent, au moins dans un sens large, de Sa Majesté du chef du Canada.
+[12] Les demandes visant à enjoindre à l'intimée de désigner M. John Landry comme personne à être interrogée au préalable sont rejetées. La Cour ordonne que l'intimée donne aux appelants des réponses faisant suite aux engagements nos 55,
+56, 57 et 58 pris lors de l'interrogatoire préalable de Mme Miller. Un mémoire de dépens des requêtes sera accordé à l'intimée suivant l'issue de l'affaire.
+Signé à Ottawa, Canada, ce 30e jour de juin 2006.
+« E. A. Bowie »
+Le juge Bowie
+Traduction certifiée conforme
+ce 8e jour de décembre 2006.
+Yves Bellefeuille, réviseur
+RÉFÉRENCE : 2006CCI378
+NOS DES DOSSIERS : 2003-106(IT)G, 2003-107(IT)G,
+2003-110(IT)G, 2003-111(IT)G,
+2003-112(IT)G
+INTITULÉ : BATHURST MACHINE SHOP LTD., MANDATE ERECTORS & WELDING LTD., KENNETH PITRE, LEOPOLD THERIAULT & GERALD PITRE et SA MAJESTÉ LA REINE
+LIEU DE L'AUDIENCE : Fredericton (Nouveau-Brunswick)
+DATE DE L'AUDIENCE : Le 20 juin 2006
+MOTIFS DU JUGEMENT PAR : L'honorable juge E.A. Bowie
+DATE DE L'ORDONNANCE : Le 30 juin 2006
+COMPARUTIONS :
+Avocat des appelants :
+Me David R. Oley
+Avocats de l'intimée :
+Mes Cecil Woon et Ted R. Sawa
+AVOCATS INSCRITS AU DOSSIER :
+Pour les appelants :
+Nom : Me David R. Oley
+Cabinet : Mockler Peters Oley Rouse & Williams
+Pour l'intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] (2001), 56 O.R. (3d) 177 (C.S.J.). Voir également Beverly G. Smith, Professional Conduct for Lawyers and Judges, Fredericton, Maritime Law Book Ltd., 1998, au chapitre 9, paragraphes 40 et suivants.
+[2] Depuis lors, l'organisme a été nommé l'Agence des douanes et du revenu du Canada et, plus récemment, l'Agence du revenu du Canada. Par souci de commodité, je vais le nommer Revenu Canada tout au long de mes motifs.
+[3] no 94-CQ-55739, 30 juin 2000, [2000] O.J. No. 2531; autorisation d'appel refusée le 7 novembre 2000 par no M26091, [2000] O.J. No. 4931.
+[4] [1986] 3 C.F. 245, à la p. 247.
+[5] [1977] 2 R.C.S. 566.
+[6] Le juge en chef Laskin, p. 567, rédigeant les motifs de la décision unanime de la Cour.
+[7] P. W. Hogg et P. J. Monahan, Liability of the Crown, 3e éd., Toronto, Carswell, 2000, à la p. 65.
+[8] R.S.C. 1985, ch. T-2.
+[9] [1965] R.C.S. 798.

@@ -1,0 +1,179 @@
+---
+title: "Sheffield International Corporation c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29368/index.do"
+last_modified: "2009-08-28"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 CCI 421"
+citation2: ""
+neutral_citation: "2009 CCI 421"
+decision_date: "2009-08-28"
+language: "fr"
+item_id: "29368"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6920
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T11:38:28.427000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "052530fff95af20d285dd265d1878c73305d101d4de89c428c6e0cfa0633c487"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Sheffield International Corporation c. La Reine
+
+- Citation: 2009 CCI 421
+- Decision date: 2009-08-28
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6920, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Sheffield International Corporation c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2009-08-28
+Référence neutre
+2009 CCI 421
+Numéro de dossier
+2008-3277(GST)I
+Juges et Officiers taxateurs
+Gerald J. Rip
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2008-3277(GST)I
+ENTRE :
+SHEFFIELD INTERNATIONAL CORPORATION,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Requête entendue sur la base d'observations écrites
+Devant : L'honorable juge en chef Gerald J. Rip
+Comparutions :
+Représentant de l'appelante :
+M. Peter Eickmeier
+Avocate de l'intimée :
+Me Diana Aird
+____________________________________________________________________
+ORDONNANCE
+Après lecture de l'avis de requête que l'intimée a déposé en vue d'obtenir une ordonnance de la Cour portant que le présent appel doit être entendu en vertu des Règles de la Cour canadienne de l'impôt (procédure générale);
+Et après lecture des observations de l'avocate de l'intimée et du représentant de l'appelante;
+LA COUR ORDONNE :
+1. Conformément à l'article 18.3002 de la Loi sur la Cour canadienne de l'impôt, les dispositions des articles 17.1, 17.2 et 17.4 à 17.8 de cette loi s'appliquent au présent appel.
+2. L'appelante doit déposer un avis d'appel conformément aux articles 48 et 51 des Règles ainsi qu’à la formule 21(1)a) des Règles dans les 60 jours suivant la date de la présente ordonnance.
+3. L'intimée doit déposer une réponse modifiée à l'avis d'appel conformément à l'article 49 des Règles dans les 60 jours suivant la réception de l'avis d'appel modifié.
+4. La demande que l'intimée a faite pour que l'appelante soit représentée par un avocat conformément à l'article 17.1 de la Loi sur la Cour canadienne de l'impôt est ajournée sine die.
+Aucuns dépens ne sont adjugés.
+Signé à Ottawa, Canada, ce 28e jour d'août 2009.
+« G.J. Rip »
+Juge en chef G.J. Rip
+Traduction certifiée conforme
+ce 8e jour d’octobre 2009.
+David Aubry, LL.B.
+Réviseur
+Référence : 2009CCI421
+Date : 20090828
+Dossier : 2008-3277(GST)G
+ENTRE :
+SHEFFIELD INTERNATIONAL CORPORATION,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L'ORDONNANCE
+Le juge en chef Rip
+[1] L'intimée a présenté une demande en vue d'obtenir, conformément au paragraphe 18.3002(1) de la Loi sur la Cour canadienne de l'impôt (la « LCCI »), une ordonnance portant que le présent appel, qui a été interjeté en vertu des dispositions relatives à la procédure informelle des Règles de la Cour canadienne de l'impôt concernant la Loi sur la taxe d'accise (la « Loi »), doit être entendu sous le régime de la procédure générale et que l'appelante doit être représentée par un avocat conformément à l'article 17.1 de la LCCI et à l'article 30 des Règles de la Cour canadienne de l'impôt (procédure générale) (les « Règles »). La demande a été présentée plus de soixante jours après la transmission de l'avis d'appel par le greffe de la Cour au ministre du Revenu national : paragraphe 18.3002(2) de la LCCI.
+[2] À la demande de l'intimée, la demande a été tranchée, conformément à l'article 69 des Règles, sur la base des observations écrites des parties et sans comparution de celles-ci.
+[3] Les motifs sur lesquels la demande est fondée sont notamment les suivants :
+a) le montant en litige n'est pas inférieur à 8 000 000 $; il excède donc 7 000 $, de sorte qu'aucune ordonnance concernant les frais n'est justifiée en vertu du paragraphe 18.3002(3) de la LCCI;
+b) il est raisonnable de faire droit à la demande, conformément à l'alinéa 18.3002(2)a) de la LCCI.
+[4] Les passages pertinents de l'article 18.3002 de la LCCI sont libellés comme suit :
+(1) Sur demande du procureur général du Canada, la Cour doit ordonner l'application des articles 17.1, 17.2 et 17.4 à 17.8 à l'appel auquel les articles 18.3003 et 18.3007 à 18.302 s'appliqueraient par ailleurs.
+(1) Where the Attorney General of Canada so requests, the Court shall order that sections 17.1, 17.2 and 17.4 to 17.8 apply in respect of an appeal in respect of which sections 18.3003 and 18.3007 to 18.302 would otherwise apply.
+(2) La demande doit être présentée dans les soixante jours suivant la transmission de l'avis d'appel par le greffe de la Cour au ministre du Revenu national ou après l'expiration de ce délai dans les cas suivants :
+a) la Cour est convaincue que le procureur général du Canada a pris connaissance de renseignements tels qu'il est justifié de présenter la demande après l'expiration de ce délai, ou que la demande est par ailleurs raisonnable dans les circonstances;
+[...]
+(2) A request under subsection (1) shall not be made after sixty days after the day the Registry of the Court transmits to the Minister of National Revenue the notice of appeal unless
+(a) the Court is satisfied that the Attorney General of Canada became aware of information that justifies the making of the request after the sixty days had elapsed or that the request is otherwise reasonable in the circumstances; or
+….
+(3) Dans le cas d'une ordonnance rendue aux termes du paragraphe (1), la Cour doit ordonner que les frais entraînés pour la personne qui a interjeté appel soient payés par Sa Majesté du chef du Canada, si les conditions suivantes sont réunies :
+[…]
+c) dans le cas d’un appel interjeté en vertu de la partie IX de la Loi sur la taxe d’accise, le montant en litige n’excède pas 7 000 $ et le total des fournitures pour l’exercice précédent de la personne n’excède pas 1 000 000 $.
+(3) The Court shall, on making an order under subsection (1), order that all reasonable and proper costs of the person who has brought the appeal be borne by Her Majesty in right of Canada where
+…
+(c) in the case of an appeal under Part IX of the Excise Tax Act, the amount in dispute does not exceed $7,000 and the aggregate of supplies for the prior fiscal year of the person did not exceed $1,000,000.
+[5] L'appelante a interjeté appel, en vertu de la partie IX de la Loi sur la taxe d'accise, d'une cotisation dans laquelle le ministre estimait qu'elle n'exerçait pas d'activité commerciale et rejetait la demande de crédits de taxe sur les intrants qui avait été présentée, pour la somme de 5 194 127,13 $. Le ministre a également établi des pénalités en vertu du paragraphe 280(1) et de l'article 285 de la Loi.
+[6] À l'heure actuelle, l'appelante est représentée par l'un de ses dirigeants, M. Peter Eickmeier, qui n'est pas avocat.
+[7] Par l'entremise de son représentant, l'appelante soutient qu'il n'est pas nécessaire de procéder à un interrogatoire préalable puisque le seul fait requis pour établir l'exercice d'une activité commerciale a été admis comme suit par l'intimée au paragraphe 5 de la réponse à l'avis d'appel :
+[traduction]
+En ce qui concerne l'alinéa 6c), il admet que l'appelante a frauduleusement demandé et reçu des remboursements au titre de la TPS.
+[8] L'appelante ajoute notamment ce qui suit :
+[traduction]
+5. Pour demander et recevoir frauduleusement des remboursements au titre de la TPS, trois éléments doivent être présents : (1) avoir reçu des remboursements au titre de la TPS; (2) avoir fait quelque chose pour obtenir les remboursements au titre de la TPS (à défaut de quoi, les remboursements ne peuvent pas avoir été reçus frauduleusement); (3) avoir commis un acte illégal.
+6. Ces trois éléments sont admis par l'intimée.
+7. Le deuxième élément – faire quelque chose pour obtenir les remboursements au titre de la TPS – constitue une activité, et cela est donc visé par la définition du mot « entreprise » figurant au paragraphe 123(1) de la Loi sur la taxe d'accise [...]
+[9] À vrai dire, je ne comprends pas l'argument de l'appelante. L'intimée n'a pas admis que l'appelante exerçait une activité commerciale.
+[10] J'ai lu l'avis d'appel de l'appelante. Il laisse fortement à désirer. Les faits pertinents, dans la mesure où ils existent, se perdent dans la multitude de détails non pertinents, d'arguments et d'arguments prévus. Il est difficile pour le lecteur de comprendre de quoi il en ressort.
+[11] Il s'agit d'une affaire à laquelle il ne convient pas d'appliquer la procédure informelle; l'appel devrait être entendu sous le régime de la procédure générale. Le montant de la taxe, y compris les pénalités, est élevé et un interrogatoire préalable est essentiel afin d'obtenir les renseignements pertinents nécessaires et de clarifier les faits en litige. La question qui est en litige n'est pas simple et chaque partie devrait avoir le droit d'interroger l'autre partie au préalable. Dans le présent appel, l'intimée a le droit d'obtenir des réponses précises au sujet des allégations qui sont faites dans l'avis d'appel. Bien sûr, l'appelante aura également le droit de procéder à un interrogatoire préalable.
+[12] L'appelante affirme également qu'il n'est pas nécessaire qu'elle soit représentée par un avocat puisque M. Eickmeier [traduction] « comprend parfaitement bien toutes les questions qui se posent dans l'affaire ». L'appelante fait une distinction entre la situation dans laquelle elle se trouve et celle qui prévalait dans l'affaire New Haven Development Ltd. c. Canada[1].
+[13] Dans les observations écrites qu'il a soumises pour le compte de l'appelante, M. Eickmeier déclare avoir obtenu son diplôme de la Faculté de droit Osgoode Hall (1969) et avoir été admis au barreau (1971). Dans cet affidavit, M. Eickmeier déclare avoir pratiqué le droit en Ontario de 1971 à 1980 et avoir acquis, depuis lors, [traduction] « énormément d'expérience » en matière contentieuse. Il parle d'un litige, à Buffalo (New York), de 1996 à l'an 2000, ainsi que de [traduction] « plusieurs poursuites » en Ontario au cours de la même période. Il affirme s'être également [traduction] « occupé » avec succès d'une affaire de taxe d'accise devant le Tribunal canadien du commerce extérieur et avoir comparu pour son propre compte devant la Section de première instance de la Cour fédérale et devant la Cour d'appel fédérale.
+[14] Si l'avis d'appel montre que M. Eickmeier [traduction] « comprend parfaitement bien toutes les questions qui se posent dans l'affaire » comme il l'affirme, sa capacité d'agir à titre de représentant sous le régime de la procédure générale causerait préjudice à l'appelante elle‑même. Il serait préférable que l'appelante soit représentée par un avocat à l'instruction de l'appel, préférablement un avocat habile dans l'art de la rédaction qui est en mesure de modifier l'avis d'appel et qui s'y connaît en matière de défense des droits. Je ne dispose d'aucun élément de preuve indépendant montrant que M. Eickmeier possède pareilles compétences.
+[15] Dans l'affidavit qu'il a déposé à l'appui de la présente demande, Henry Pao, agent des litiges à l'ARC, déclare croire que M. Eickmeier sera probablement obligé de témoigner à l'instruction étant donné qu'il semble être la seule personne qui possède une connaissance directe des faits ici en cause. M. Eickmeier confirme qu'il sera le principal témoin de l'appelante.
+[16] Les questions qui se posent dans le présent appel sont sérieuses et, selon les actes de procédure, elles risquent d'être complexes, même si M. Eickmeier affirme que la question est simple. De plus, le montant en jeu est élevé. Un profane qui est apparemment intéressé dans l'issue du présent appel n'est pas une personne qui, idéalement, devrait agir à titre de représentant de l'appelante.
+[17] Bien qu'il soit peut‑être nécessaire d'ordonner à l'appelante d'être représentée par un avocat, je reporte la question à une date ultérieure. Une telle ordonnance est peut‑être prématurée. Je remets la question à plus tard en me fondant principalement sur les représentations que M. Eickmeier a faites au sujet de ses antécédents juridiques et de ses prétendues compétences en matière contentieuse ainsi que sur l'incapacité apparente de l'appelante de payer un avocat. Toutefois, étant donné le contenu de l'avis d'appel, je crains que ces représentations soient peut‑être fort exagérées et optimistes. S'il semble que la conduite de l'appel par M. Eickmeier, notamment en ce qui concerne les questions interlocutoires et les interrogatoires préalables, nuise aux intérêts de l'appelante ou qu'elle ne soit pas appropriée ou encore qu'elle omette d'établir le degré de compétence que M. Eickmeier affirme posséder, je reconsidérerai la question de la représentation de l'appelante par un avocat. Il est important que l'appelante, comme toute autre partie qui comparaît devant la Cour de l'impôt, soit représentée d'une façon compétente à l'instruction.
+[18] Pour ces motifs :
+a) Conformément à l'article 18.3002 de la Loi sur la Cour canadienne de l'impôt, les dispositions des articles 17.1, 17.2 et 17.4 à 17.8 de cette loi s'appliquent au présent appel;
+b) L'appelante doit déposer un avis d'appel conformément aux articles 48 et 51 des Règles ainsi qu’à la formule 21(1)a) des Règles dans les 60 jours suivant la date de la présente ordonnance;
+(c) L'intimée doit déposer une réponse modifiée à l'avis d'appel conformément à l'article 49 des Règles dans les 60 jours suivant la réception de l'avis d'appel modifié;
+(d) La demande que l'intimée a faite pour que l'appelante soit représentée par un avocat conformément à l'article 17.1 de la Loi sur la Cour canadienne de l'impôt est ajournée sine die.
+[19] Aucuns dépens ne sont adjugés.
+Signé à Ottawa, Canada, ce 28e jour d'août 2009.
+« G.J. Rip »
+Juge en chef G.J. Rip
+Traduction certifiée conforme
+ce 8e jour d’octobre 2009.
+David Aubry, LL.B.
+Réviseur
+RÉFÉRENCE : 2009CCI421
+No DU DOSSIER DE LA COUR : 2008-3277(GST)G
+INTITULÉ : Sheffield International Corporation
+c.
+Sa Majesté la Reine
+AUDIENCE : Sur la base d'observations écrites
+MOTIFS DE L'ORDONNANCE : L’honorable juge en chef Gerald J. Rip
+DATE DE L'ORDONNANCE : Le 28 août 2009
+COMPARUTIONS :
+Représentant de l'appelante :
+M. Peter Eickmeier
+Avocate de l’intimée :
+Me Diana Aird
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] [2006] A.C.I. no 227, 2006 CCI 328.

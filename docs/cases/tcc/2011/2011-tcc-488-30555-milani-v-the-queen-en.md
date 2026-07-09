@@ -1,0 +1,382 @@
+---
+title: "Milani v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30555/index.do"
+last_modified: "2011-10-19"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2011 TCC 488"
+citation2: ""
+neutral_citation: "2011 TCC 488"
+decision_date: "2011-10-19"
+language: "en"
+item_id: "30555"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7296
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T07:13:13.060000+00:00"
+cases_cited_count: 7
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "7a2fa2798f39cb673ff33197d283d5b78ffe5b941b4c45b309c206528cd26260"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Milani v. The Queen
+
+- Citation: 2011 TCC 488
+- Decision date: 2011-10-19
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7296, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Milani v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2011-10-19
+Neutral citation
+2011 TCC 488
+File numbers
+2009-3609(GST)I
+Judges and Taxing Officers
+Alain Tardif
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Dockets: 2009-3609(GST)I
+2009-3610(GST)I
+2009-3611(GST)I
+BETWEEN:
+FRANÇOIS MILANI,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeals heard on common evidence on August 16, 2011,
+at Montréal, Quebec
+Before: The Honourable Justice Alain Tardif
+Appearances:
+Counsel for the appellant:
+Pierre Blain
+Counsel for the respondent:
+Danny Galarneau
+____________________________________________________________________
+JUDGMENT
+The appeals from the Goods and Services Tax assessments made under subsection 323(1) of the Excise Tax Act, notices of which are dated January 8, 2009, and bearing the numbers PM-14735 and PM-14731, and dated September 4, 2008, and bearing the number PM‑14399, are dismissed, with costs to the respondent, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 19th day of October 2011.
+"Alain Tardif"
+Tardif J.
+Translation certified true
+On this 22nd day of November 2011
+Monica F. Chamberlain, Reviser
+Citation: 2011 TCC 488
+Date: 20111019
+Docket: 2009-3609(GST)I
+2009-3610(GST)I
+2009-3611(GST)I
+BETWEEN:
+FRANÇOIS MILANI,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Tardif J.
+[1] First of all, the parties agreed that the three appeals, bearing docket numbers 2009-3609(GST)I, 2009-3610(GST)I and 2009-3611(GST)I, would be heard on common evidence.
+[2] It was also agreed that the only issue was whether the resignation of the director François Milani (the appellant), dated April 1, 2006, could be set up against the respondent; if so, the appellant submits that the assessments under appeal were barred by a limitation period, and must therefore be vacated.
+[3] The appellant called the notary as a witness. The notary testified that he prepared certain documents related to the resignations, such as the minutes and inherent records, and that he filled out the forms necessary to register everything with Quebec's enterprise registrar.
+[4] The notary asserted that he prepared the documents in question at the request of Juan Carlo Massironi, whom he knew personally, with little or no information or knowledge about the activities of the corporations affected by the resignations.
+[5] An important and specific detail should be noted: Mr. Massironi, who the evidence suggests was an important and perhaps even strategic player, did not testify. He did not attend the hearing.
+[6] The notary's testimony was essentially about the documents signed by the appellant, who was in the courtroom. This Court did not admit into evidence the private writings signed by persons who were not at the hearing, since this would have prevented any possibility of cross-examination.
+[7] The notary tried, quite unconvincingly, to explain why there were two different versions of certain documents that had the same purpose, particularly the amending declaration, despite the fact that the documents were very important. The differences involved the contents of the documents, and sometimes even the signatures.
+[8] The registration of that document was similarly controversial. According to the notary, it was prepared and signed on April 1, 2006, and sent to the Quebec enterprise registrar much later; based on the date stamp, it was received and registered on January 9, 2007.
+[9] The notary claims to have sent in the documents around October or November. He said that he was taken aback with respect to the date on the stamp, thereby insinuating that there were processing delays of some sort. This suspicion is surprising, especially since the notary stated and admitted that he had deliberately held on to certain documents because his fees had not been paid, even though the resulting date-related issues might have financial and other repercussions far out of proportion to the amount of his fees. The amount of his unpaid fees was not discussed, but it appears that the assessments total a few million dollars. Since the notary must know when his fees were paid, he could have provided that information to provide a better idea of when the famous documents were likely sent in .
+[10] The appellant testified second, claiming in clear and categorical terms that he formally resigned on April 1, 2006, as the notary had stated earlier.
+[11] Apart from this resignation date, his testimony was vague and confusing, even to the point of denying certain admissions made by his tax lawyer.
+[12] His memory became very selective when it came to explaining his involvement in the companies' affairs after April 1, 2006. He always came back to the explanation that, following his resignation as director on April 1, 2006, Mr. Massironi had asked him to continue taking care of what he characterized as customer service. A few times, he cited youth and inexperience as excuses for unclear or contradictory statements.
+[13] He said that he accepted the specific and circumscribed mandate given by Mr. Massironi because most of the complaints or concerns involved customers whom he had personally served, and for whom he felt responsible.
+[14] It would have been interesting to hear the account of Mr. Massironi, who gave the mandate. The appellant endlessly repeated that anything he did after April 1, 2006, was routine and unimportant.
+[15] When asked to explain his signature on several documents after his April 1, 2006, resignation, the appellant stated that these were isolated, unimportant actions that were taken upon the express request of Mr. Massironi, or out of ignorance and lack of experience.
+[16] Faced with another document, he said that a digit was not a five, which would correspond to May and would be subsequent to his alleged resignation, but, rather, a three, which meant that the signature was affixed in March, prior to his resignation.
+[17] The respondent clearly prepared her impeachment of the witness's credibility well. She showed that, following his resignation, the appellant alone signed several cheques, for amounts totalling at least $1,000,000, on the company's behalf. He had the power to sign cheques for the three companies, without a countersignature, subsequent to April 1, 2006.
+[18] The appellant admitted that he signed several notarial documents as a director after April 2006.
+[19] He admitted that he signed, and recognized his signature on, several documents bearing dates subsequent to April 1, 2006.
+[20] On several occasions, the appellant asserted that these were routine or secondary matters. As for the fact that his signature alone was sufficient on cheques for very substantial amounts, he repeated that this needs to be seen in context, because the operations of the companies of which he was director were substantially in excess of a few million dollars. The commercial magnitude of the business generated by the three companies to which the appellant refers in inviting the court to consider the context is very difficult to reconcile with the ignorance, youth and lack of experience to which he also refers to account for certain inconsistencies.
+[21] The appellant's position is very easy to summarize. He claims that he formally resigned as director of the three assessed companies, that is to say, the companies in docket numbers 2009-3609(GST)I, 2009-3610(GST)I and 2009‑3611(GST)I.
+[22] Citing subsection 323(1) of the Excise Tax Act (ETA), he submits that the assessments under subsection 323(1) are barred by a limitation period, and must therefore be vacated.
+Name of file
+Docket number
+Company name
+Assessment number
+Date of assessment
+François Milani
+2009-3609(GST)I
+6090532 Canada Inc.
+PM-14735
+January 8, 2009
+François Milani
+2009-3610(GST)I
+Construction Sopra inc.
+PM-14731
+January 8, 2009
+François Milani
+2009-3611(GST)I
+Construction Spazio Inc.
+PM-14399
+September 4, 2008
+[23] The appellant submits that his resignation alone, effective April 1, 2006, is sufficient to defeat the assessments. He adds that any follow-ups or repercussions, as far as the reporting or registration of his resignation are concerned, were not his responsibility. The appellant further submits that the ensuing regulatory and documentary requirements, such as record-keeping and notices, were no longer his responsibility because, from the moment of his resignation onward, he no longer had any authority over the management of the corporations concerned, and other people were responsible for registering his resignation with the competent authorities.
+[24] As for the many things done after April 1, 2006, the appellant repeatedly submitted that they were essentially immaterial details in the ordinary course of business, which did not put the essence of his resignation in doubt or in issue.
+[25] The evidence, consisting essentially in the testimony of two witnesses, namely, the appellant himself and the notary who prepared the three resignation documents, has established on a balance of probabilities that the appellant participated in and unambiguously contributed to administration and management, and, more specifically, to the affairs of the companies, not only on day-to-day matters, but also on very important acts closely tied to the three companies' vocations.
+[26] Faced with this obvious reality, the appellant admitted that he was a de facto director of the companies, thereby deferring the effective date of the resignations from the date given — that is, April 1, 2006 — to January 9, 2007.
+[27] In conclusion, the appellant submits that even though it is conceded that he continued to act as de facto director, the assessments concerning the companies that benefited from this de facto management are nonetheless void, because more than two years elapsed between the last actions taken as director and the assessments. The appellant asserts that the date that the notices of change were received was November 16, 2006. He says that the delay between that date and January 9, 2007, the date of the stamp, cannot be attributed to him. He vigorously asserts that the respondent has been unable to clearly show concrete acts, other than acts established by the numerous documents, which include cheques and notarial deeds.
+[28] For her part, the respondent submits that the April 2006 resignations are not true resignations, and that the only date that should be taken into account is January 9, 2007, for all three companies, because that is the date that a third party became aware of the amending declaration with Quebec's enterprise registrar .
+Analysis
+[29] Section 323 of the ETA makes the director of a company liable for the GST collected by the company, unless one of the following defences can be made out:
+a. the notice of assessment was issued more than two years after the director ceased to be a director; or
+b. the person exercised care, diligence and skill as a director.
+[30] In the case at bar, the appellant only raised the argument concerning the limitation period.
+[31] The appellant never raised the defence of care, diligence and skill, and cannot rely on it.
+[32] Given the importance of the credibility of the evidence that has been adduced, it seems appropriate to reproduce an excerpt from the decision of Justice Lamarre in Tehrani v. R,[1] which was affirmed on appeal[2] (2007 FCA 12):
+13 In my view, the documents presented at trial by the appellant constitute self-serving post facto evidence, and they should, if they really existed in 1998, have been disclosed as soon as they were requested by the trustee or by the CCRA.
+14 I am not convinced that the appellant truly resigned on September 29, 1998. As the sole letter of resignation left was signed in 2001, the assessment made pursuant to section 227.1 of the Act on August 28, 2002, was made within the time limit prescribed in subsection 227.1(4). Since there was no other argument put forward by the appellant, he is jointly and severally liable with the corporation for a debt owed to the Minister in the amount of $114,655.
+[33] On the same question of credibility, Justice V.A. Miller wrote as follows:
+23 In assessing credibility I can consider inconsistencies or weaknesses in the evidence of witnesses, including internal inconsistencies (that is, whether the testimony changed while on the stand or from that given at discovery), prior inconsistent statements, and external inconsistencies (that is, whether the evidence of the witness is inconsistent with independent evidence which has been accepted by me). Second, I can assess the attitude and demeanour of the witness. Third, I can assess whether the witness has a motive to fabricate evidence or to mislead the court. Finally, I can consider the overall sense of the evidence. That is, when common sense is applied to the testimony, does it suggest that the evidence is impossible or highly improbable.[3]
+Analysis of the Act
+[34] Section 323 of the ETA holds the director of a corporation solidarily liable with the corporation for the remittance of tax that has been collected:
+323. (1) If a corporation fails to remit an amount of net tax as required under subsection 228(2) or (2.3) or to pay an amount as required under section 230.1 that was paid to, or was applied to the liability of, the corporation as a net tax refund, the directors of the corporation at the time the corporation was required to remit or pay, as the case may be, the amount are jointly and severally, or solidarily, liable, together with the corporation, to pay the amount and any interest on, or penalties relating to, the amount.
+[35] The ETA contains two defences on which a director can rely: diligence, which is referred to in subsection 323(3) of the ETA, and a limitation period, which is established by subsection 323(5):
+(3) A director of a corporation is not liable for a failure under subsection (1) where the director exercised the degree of care, diligence and skill to prevent the failure that a reasonably prudent person would have exercised in comparable circumstances.
+(5) An assessment under subsection (4) of any amount payable by a person who is a director of a corporation shall not be made more than two years after the person last ceased to be a director of the corporation.
+It should be noted that subsection 323(5) of the ETA bars the assessment of a director on the basis of personal liability two years after he or she "last ceased to be a director of the corporation."
+Limitation period
+[36] Subsection 323(5) of the ETA is similar to subsection 227.1(4) of the Income Tax Act, and the case law and scholarly writing draw on the interpretation of each provision in order to interpret the other provision.
+[37] According to the case law, in order to ascertain the point when the person ceased to be a director, one must look to the law under which the company was incorporated. In Kalef v. R.,[4] the Court of Appeal stated:
+10 The Income Tax Act neither defines the term director, nor establishes any criteria for when a person ceases to hold such a position. Given the silence of the Income Tax Act, it only makes sense to look to the company's incorporating legislation for guidance. . .[5]
+[38] The instant appeal involves one company incorporated under federal legislation, the Canada Business Corporations Act (CBCA),[6] and two companies incorporated under a former Quebec statute, the Companies Act,[7] so the definition of the office of director and the methods of resignation from that office must be analysed under both statutes.
+CBCA: 6090532 Canada Inc.
+[39] The CBCA, under which 6090532 Canada Inc. was incorporated, defines a director as follows:
+2. (1) In this Act,
+…
+"director", "directors" and "board of directors"
+"director" means a person occupying the position of director by whatever name called and "directors" and "board of directors" includes a single director;
+[40] Under the CBCA, a director's office can end as follows:
+108. (1) A director of a corporation ceases to hold office when the director
+(a) dies or resigns;
+. . .
+With respect to the effective date of a resignation, subsection 108(2) provides:
+108. (2) A resignation of a director becomes effective at the time a written resignation is sent to the corporation, or at the time specified in the resignation, whichever is later.
+Thus, in order to be valid, a resignation must be in writing.
+[41] In order to protect third parties, the CBCA provides that a corporation affected by a resignation or by any change must notify the Director of the change within 15 days after the change is made:
+Notice of change of director or director's address
+113. (1) A corporation shall, within fifteen days after
+(a) a change is made among its directors, or
+(b) it receives a notice of change of address of a director referred to in subsection (1.1),
+send to the Director a notice, in the form that the Director fixes, setting out the change, and the Director shall file the notice.
+Interested persons, such as a director who has tendered his resignation, may ask a court for an order compelling the corporation to send such a notice:
+(2) Any interested person, or the Director, may apply to a court for an order to require a corporation to comply with subsection (1), and the court may so order and make any further order it thinks fit.
+[42] The appellant tendered Exhibit A-1-2, a letter of resignation dated April 1, 2006, but, based on the notary's testimony, no notice was sent by 6090532 Canada Inc. until November.
+[43] The authenticity of the document, especially in relation to the date, is not very credible.
+[44] The appellant did not commence the procedures set out in the statute to compel the corporation to send the notice of change of director; on the contrary, he continued to sign documents, including notarial contracts and cheques, on the corporation's behalf. The reality is that he continued to act as a director. In fact, during the discussions and negotiations with the respondent's representatives, the resignation of April 1, 2006, was never mentioned. It is important to recall that the corporation had the benefit of a tax specialist's advice. After categorically asserting that he did nothing of significance after April 1, 2006, he was forced to acknowledge his signature on cheques for substantial amounts, having had full authority to sign such cheques as well as notarial deeds and other documents.
+[45] He argued that these were small occasional mandates given to him by Mr. Massironi. Mr. Massironi did not come before this Court to testify.
+[46] In her recent decision in Campbell,[8] Justice Campbell wrote as follows:
+22 Taxpayers, who have not strictly adhered to specific requirements for resignation as a director under the provincial corporate legislation, have nevertheless been held to be personally liable because they did not validly resign. (Zwierschke v. M.N.R., [1991] 2 C.T.C. 2783, 92 D.T.C. 1003 (T.C.C.), and Shepherd v. The Queen, 2008 D.T.C. 4284.)
+[47] It is also very interesting to consider excerpts from the decision of Justice Bell in Netupsky:[9]
+24 In Hattem v. The Queen, 2008 TCC 32, [2008] T.C.J. No. 17, Lamarre‑Proulx J. concluded that a resignation would not be valid unless corporate requirements for notification of a change of directors were observed. Appellant counsel relied on the decision in Netupsky v. The Queen, [2003] G.S.T.C. 15, and submitted that those remarks in Hattem were obiter. Counsel submitted that, following Netupsky, a director's letter of resignation will not be invalid simply because filing did not occur with the appropriate governmental office. In particular, this would not be required in the present appeal pursuant to the wording of section 178 of the Newfoundland and Labrador Corporations Act.
+25 The Hattem case was decided under the Quebec Companies Act, R.S.Q., c. C-38, on the basis that a document will not be valid against third parties if it is not filed with the provincial corporate registry.
+26 The Newfoundland Corporations Act relevant to this appeal contains provisions similar to those contained in the Quebec Companies Act. At paragraphs 31 and 32 of the Hattem decision the following comments were made:
+31 If a director resigns from the board of a corporation that is a tax debtor, and wishes the resignation to be a juridical act that is valid as against the Minister, then, according to the Quebec Companies Act, that director must notify the Minister of his resignation in the course of the exchanges of correspondence regarding the corporation's tax debt and the liability of its directors. I do not think that statutes of the other provinces or the federal Act concerning companies are any different in this regard.
+32 According to the evidence adduced, it appears that it was Mr. Hattem who discussed the corporation's debt with the Minister's employees, both for himself and for the appellant. As indicated earlier, when the employees told him that they were contemplating an assessment against him under section 323 of the Act, he pointed out that he had resigned from his position as director. He sent them a copy of the amending declaration filed with the enterprise registrar on February 19, 2002. The employees accepted this and so informed him on July 21, 2005. They continued their proceedings against the appellant. It must be recalled that the appellant had signed on June 2, 2005 a power of attorney authorizing her lawyer to discuss the corporation's affairs with Revenu Québec. The assessment against her is dated August 31, 2005.
+27 Following the Hattem decision, the Appellant's resignation would be invalid as he failed to send notice to the corporate registry. In addition, the Appellant did not remember sending one. Although a copy of the letter was found on the corporate registry file of another company, Rent-Alls Ltd., this only added further questions to the issue of the authenticity of this letter of resignation.
+28 Although sending this letter to the corporate registry may not have been detrimental as suggested by the Appellant, I find it troubling that, even though it was found in another corporate registry file belonging to Rent-Alls Ltd., it bore no registration stamp affixing a date of registration and document number. Ultimately there was no evidence that addressed the important question of how it found its way to the corporate file belonging to another company owned by the Appellant.
+29 In Moll v. The Queen, 2008 TCC 234, 2008 D.T.C. 3420, V.A. Miller J. held that the director's resignation in that case was invalid because there were questions of authenticity. The taxpayer in Moll had submitted only photocopies, failed to inform the Minister of his resignation until the appeal and continued to act as a director.
+30 Remembering that the onus is upon the Appellant to adduce evidence in support of the authenticity of the letter of resignation, I must conclude that he has not done so and that, consequently, he did not resign from CRL on December 31, 2000. There were some inconsistencies in evidence with the discoveries and with the Appellant's prior recollection of events. During cross‑examination, the Appellant contradicted statements made during the discoveries as to where the letter of resignation was kept and how it had surfaced. There was also some doubt raised as to whether the letter was actually written on December 31, 2000. The Appellant never informed third-party creditors of his resignation nor did he inform CRA until August 2006 despite it being clearly in his interest to do so.
+[48] Justice Campbell concludes her analysis as follows:
+31 Even if I had concluded that the Appellant had validly resigned on December 31, 2000, I believe that, as the Respondent suggested, he remained a de facto director of CRL after December 31, 2000. He never informed third‑party creditors or CRA that he had resigned. He never informed CRA during the pre-assessment proposal in 2004 that contained standard questions as to whether he continued to act as a director nor did he advise CRA during meetings in 2005.
+Construction Sopra and Construction Spazio
+[49] Construction Sopra (Sopra) and Construction Spazio (Spazio) were governed by the Quebec Companies Act, which provided:
+123.76. Notwithstanding the expiry of his term, a director remains in office until he is re-elected, replaced, or removed.
+A director may resign from office by giving notice to that effect.
+It should be noted that the Companies Act has no requirements concerning the form of a notice of resignation, unlike the CBCA, which states that a resignation must be in writing.
+[50] Like the CBCA, the Companies Act requires a company to issue an amending declaration in the event of a change of directors, which occurs, for example, if a director resigns. And like the CBCA, it enables a director who has tendered a resignation to compel the company to comply with it:
+123.81. Within 15 days after a change is made to the composition of the board of directors, the company must give a notice of a change by filing a declaration to that effect in accordance with the Act respecting the legal publicity of enterprises (chapter P-44.1).
+On the motion of any person concerned or the enterprise registrar, the court may require a company to comply with this section, and take any other appropriate measure that it thinks fit.
+[51] According to the notary's testimony, an amending declaration was prepared for Spazio on April 1, 2006,[10] but was only sent out in November or December 2006. It should also be noted that the appellant undertook no efforts to compel Spazio to send out this amending declaration. The appellant argues that, following his resignation on April 1, 2006, he did not have the authority to ask or force the company to register his resignation by means of the appropriate notices to the enterprise registrar. However, he had the authority to sign cheques, notarial deeds, and all manner of documents based on which a third party could believe that he was still a director of the companies concerned. Moreover, he only raised the resignation at the objection stage.
+[52] No amending declaration was produced for Construction Sopra; the only things produced were a letter of resignation and a resolution signed by the appellant.
+[53] The Act respecting the legal publicity of sole proprietorships, partnerships and legal persons (ALP), which was replaced by another statute on February 14, 2011, but was in force during the period in question, provides:
+62. The information relating to each registrant is proof of its contents in favour of third persons in good faith from the date on which it is entered in the statement of information. Third persons may submit any proof to refute the information contained in a declaration or in a document transferred to the enterprise registrar under section 72, 72.1 or 73.
+That information shall include:
+…
+(6) the names and domiciles of the directors, with an entry indicating the position held by each;
+…
+82. Information relating to a registrant may be set up against third persons from the time it is entered in the statement of information. Third persons may submit any proof to refute the information contained in a declaration or in a document transferred to the enterprise registrar under section 72, 72.1 or 73.
+That information shall include:
+…
+(6) the names and domiciles of the directors, with an entry indicating the position held by each;
+[54] The evidence adduced by the appellant does not convincingly refute the registration, especially since the appellant continued to sign the cheques and notarial deeds in the course of business.
+[55] The following analysis by Judge Landry of the Court of Québec on the effect of a resignation on a director's liability under the Income Tax Act was cited by the respondent. Although the decisions of that court are not binding on the Tax Court of Canada, the analysis of the legislation that Judge Landry provides is both interesting and on point:
+[translation]
+[43] In Quebec, the director of a company governed by the Companies Act[5] can resign "orally", which means that there is no obligation to put his resignation in writing.
+123.76 Notwithstanding the expiry of his term, a director remains in office until he is re-elected, replaced, or removed.
+A director may resign from office by giving notice to that effect.
+123.81 Within 15 days after a change is made to the composition of the board of directors, the company must give a notice of a change by filing a declaration to that effect in accordance with the Act respecting the legal publicity of sole proprietorships, partnerships and legal persons (chapter P‑45).
+On the motion of any person concerned or the enterprise registrar, the court may require a company to comply with this section, and take any other appropriate measure that it thinks fit.
+(Emphasis added.)
+[44] This is different from the Canada Business Corporations Act (CBCA)[6] which requires a "written resignation":
+108. (1) Ceasing to hold office – A director of a corporation ceases to hold office when the director
+(a) dies or resigns;
+(b) is removed in accordance with section 109; or
+(c) becomes disqualified under subsection 105(1).
+(2) Effective date of resignation – A resignation of a director becomes effective at the time a written resignation is sent to the corporation, or at the time specified in the resignation, whichever is later.
+113. (1) Notice of change of director or director’s address – A corporation shall, within fifteen days after
+(a) a change is made among its directors, or
+(b) it receives a notice of change of address of a director referred to in subsection (1.1).
+(Emphasis added).
+[45] In addition, the Act respecting the legal publicity of sole proprietorships, partnerships and legal persons (ALP)[7] provides as follows:
+62. The information relating to each registrant is proof of its contents in favour of third persons in good faith from the date on which it is entered in the statement of information. Third persons may submit any proof to refute the information contained in a declaration or in a document transferred to the enterprise registrar under section 72, 72.1 or 73.
+82. Information relating to a registrant may be set up against third persons from the time it is entered in the statement of information. Third persons may submit any proof to refute the information contained in a declaration or in a document transferred to the enterprise registrar under section 72, 72.1 or 73.
+That information shall include:
+…
+(6) the names and domiciles of the directors, with an entry indicating the position held by each;
+[46] This raises the following question: Can a resignation that has not been the subject of a change to the appropriate government register be set up against the Minister of Revenue of Quebec on the basis of the limitation period contemplated by the second paragraph of section 24.0.2 of the Act respecting the Ministère du Revenu? Or does section 82 of the ALP delay the effective date of a director's resignation until the moment an amendment is entered in the enterprise registrar's records?
+[47] It is settled law[8] that the obligation to have a resignation (or other information) entered in the register is not incumbent on the resigning director; rather, it is incumbent on the company itself. Failure to register cannot be set up against a director with a view to "setting aside" his resignation if he did indeed resign and the resignation was in good faith.[9]
+[48] This leads Martel and Martel to the following conclusion on the subject, in their treatise entitled La compagnie au Québec:[10]
+21-197 Directors may resign from the board at any time. There is no set formula for tendering such a resignation, and Part I of the Companies Act contains no rules on the subject. In practice, for evidentiary reasons, it is better to tender one's resignation in writing, but this is not essential: a director may tender his resignation orally at a meeting of the board, and have the resignation entered in the minutes of the meeting. In the absence of contrary stipulations in the company's by‑laws, an effective resignation is not conditional on the company's acceptance: it is sufficient that it be duly received by the company, for example through its president. Once tendered, the resignation cannot be withdrawn without the company's consent.
+. . .
+21-202 It should also be noted that it is in the resigning director's interest to ensure that the notice of change of directors, reporting his resignation, is duly filed in Québec or in Ottawa, because there is a legal presumption that a person who is designated as a director in the most recent notice sent to the enterprise registrar or the Director, holds the office of director. Nonetheless, this presumption can be rebutted, and only third parties in good faith can rely on it.
+21-207 As for Part IA of the Companies Act, the legislator was content to declare that a director "may resign from office by giving notice to that effect." Presumably this notice, whether in writing (preferable for proof) or not, is sufficient to give effect to the resignation, and that the board's acceptance is not required. And presumably, though this is not specified, the resignation cannot be retroactive.
+[49] Therefore, the court must decide whether a director has truly resigned based on the evidence adduced at the hearing.
+[50] In this regard, it should be borne in mind that the appellant has the onus of proving his resignation, and, when it is in issue, the date thereof, given the presumption that an assessment is valid.[11]
+[Emphasis added.]
+[51] An analysis of the case law regarding resignations, resulting from litigation against directors in their personal capacity, reveals a wide variety of situations.[12]
+[5] R.S.C. 1985, 5th Supp, c. 1.
+[6] R.S.C. 1985, c. C-44.
+[7] R.S.Q., c. P-45.
+[8] Migneault v. Inspecteur général des Institutions financières, J.E. 93-1229 (C.Q.); C.C.Q. v. Légaré, J.E. 98‑1575 (C.Q.); Aikens v. St-Pierre J.E. 97-1827 (C.Q.); Gagnon v. S.M.R.Q., [2004] R.D.F.Q 360 (C.Q.); Commission de la construction du Québec v. Raymond, J.E. 2001-951 (C.Q.); C.C.Q. v. Mathieu DTE 2005T-193 (C.Q.); C.C.Q. v. Marceau-Morin B.E. 2006 BE-272 (C.Q.); Girard v. S.M.R.Q., [2008] R.D.F.Q. 251 (C.Q.).
+[9] Supra, note 8.
+[10] Maurice Martel and Paul Martel, La compagnie au Québec, vol. 1, Les aspects juridiques (Montréal: Wilson & Lafleur, 2010).
+[11] Johnson v. M.N.R. [1948] S.C.R. 486; St‑Georges v. S.M.R.Q., D.F.Q.E. 2007 F-113 (C.A.); Distributeurs Clé D'or Inc. v. S.M.R.Q., D.F.Q.E. 88F-20 (C.A.); Québec (Sous-ministre du Revenu) v. Dupuis, J.E. 96‑1883 (C.A.); Capobianco v. S.M.R.Q., J.E. 2007-1837 (C.A.);
+[12] Ouahidi v. S.M.R.Q., D.F.Q.E. 2008F-103 (C.Q.); Laplante v. S.M.R.Q., D.F.Q.E. 2008F-85 (C.Q.); Lehoux v. S.M.R.Q., D.F.Q.E. 2008F-6 (C.Q.); Gilbert v. S.M.R.Q., D.F.Q.E. 2008F-68 (C.Q.); Vachon v. S.M.R.Q., J.E. 2009‑1326 (C.Q.)
+[13] Exhibit D-10.
+[14] In this regard, see Ouahidi v. S.M.R.Q. D.F.Q.E. 2008F‑103 (C.Q.); Laplante v. S.M.R.Q. D.F.Q.E. 2008F-85 (C.Q.); C.C.Q. v. Couture J.E. 93-1180 (C.Q.);
+[15] Martel and Martel, supra, note 10.
+It should be noted that the edition of La compagnie au Québec[11] cited by Judge Landry is the most recent one, and it is more up to date than the Act referred to by Justice Proulx in Hattem, cited at paragraph 56.
+[56] The Business Corporations Act (BCA), which, since February 14, 2011, has applied to corporations incorporated in Quebec, requires a written letter of resignation, as the CBCA already has:. Section 142 of the BCA reads:
+142. A director ceases to hold office when he or she becomes disqualified from being a director of a corporation, resigns or is removed from office.
+The resignation of a director becomes effective at the time the director's written resignation is received by the corporation, or at the time specified in the resignation, whichever is later.
+[57] The Act respecting the legal publicity of enterprises (LPA), which replaced the Act respecting the legal publicity of sole proprietorships, partnerships and legal persons on February 14, 2011, provides as follows with respect to the publicity of rights and the ability to set up registered information against third parties:
+33. Unless an exemption established by regulation of the Minister applies, the registration declaration must state:
+. . .
+[Second paragraph] The declaration must also state, if applicable:
+. . .
+(2) the names and domiciles of the directors, and the positions they hold or, if all powers have been withdrawn from the board of directors by a unanimous shareholder agreement entered into in accordance with the laws of Québec or a Canadian jurisdiction other than Québec, the names and domiciles of the shareholders or third persons having assumed those powers;
+. . .
+41. The registrant must update the information required by sections 33 to 35 to be contained in the register concerning the registrant by filing an updating declaration within 30 days after the date on which any change occurs, unless a shorter period is prescribed by law.
+. . .
+98. The following information relating to a registrant may be set up against third persons from the time it is recorded in the statement of information and is proof of its content for the benefit of third persons in good faith:
+. . .
+(6) the names and domiciles of the directors and the positions they hold or, if all powers have been withdrawn from the board of directors by a unanimous shareholder agreement entered into in accordance with the laws of Québec or a Canadian jurisdiction other than Québec, the names and domiciles of the shareholders or third persons having assumed those powers;
+(7) the date of entry into office and, if applicable, the date of cessation of office of the persons referred to in subparagraphs 6 and 10;
+. . .
+Third persons may submit any proof to refute information contained in a document filed with the registrar or transferred under an agreement entered into under section 117 or 118.
+The content of section 98 is very clear. The provision is an essential measure to notify all third parties, including the respondent. The information involved is highly pertinent and must be updated regularly. Under the second paragraph of section 98, third parties "may submit any proof to refute information contained in a document filed with the registrar."
+De facto director
+[58] Even if a person has tendered a statutory resignation in proper form, the fact that the person continues to act as a director prevents him from availing himself of subsection 323(5) because he can be considered a de facto director in such a case. In this regard, it is helpful to cite Justice Proulx in Hattem,[12] where he quotes from Paul Martel:
+33 A person who holds himself out to third parties as a director becomes by virtue thereof a de facto director. I quote author Paul Martel in Précis de droit sur les compagnies au Québec, 1st ed. (Montréal: Wilson & Lafleur, Martel Ltée, 2000), at pages 465 and 489:[13]
+[translation]
+. . .
+As the name suggests, a de facto director will be considered a director where, in effect, he usurps the position by engaging in acts that are normally reserved for directors, such as participating in meetings of the board of directors, signing resolutions of the board, making or taking part in management or disposition decisions, giving instructions on behalf of the company, holding himself out to third parties as a director, etc. . . .
+. . .
+A director who resigns, but in fact continues to act, and hold himself out to third parties, as a director of the company, risks being considered a de facto director despite that resignation, and, as such, remaining subject to the responsibilities that the law imposes on directors.
+It should be emphasized, moreover, that resigning directors would do well to ensure that the notice of change of directors form indicating their resignation is duly filed in Quebec City or Ottawa because of the statutory presumption that persons designated as directors in the notice most recently filed with the Inspector General or Director actually hold that position: (QCA, s. 123.31(2) and (3); CBCA, s. 253(2); ALP, s. 62(6). This presumption is, however, rebuttable, and can only be relied upon by third parties who are in good faith.
+. . .
+34 The evidence shows that the appellant continued to hold herself out as a director to the Minister's employees until June 2, 2005. Neither she nor her husband notified the Minister of her purported resignation. Even if this resignation had occurred on the date alleged, the appellant would nonetheless have remained a de facto director. The resignation could not have been set up against the Minister, who was unaware of it until the notice of objection. However, on the basis of the evidence in the instant case, it is my opinion that the resignation did not take place on March 22, 2002.
+[59] According to the case law, a person cannot have ceased being a director if he acted as a de facto director during the period in question.[14] This rule is so fundamental that it can negate all the effects and benefits of a proper resignation.
+[60] This is obviously a clear provision that is very easy to understand. The resignation must be genuine, and the evidence of its genuineness must be decisive, reliable and credible.
+Care, diligence and skill
+[61] In addition to providing a limitation defence, the ETA enables appellants to argue in their defence that they acted as a prudent and diligent director (subsection 323(3) of the ETA). In the case at bar, the appellant essentially raised the limitation issue; he did not submit any evidence in connection with the defence of care, diligence and skill.
+[62] Consequently, there is no reason to assess the evidence from this perspective.
+[63] It appears that the appellant in the case at bar even used the tax collected as a mandatary to pay the company's debts.
+[64] It must be borne in mind that the appellant bears the onus of proof. In order to discharge this onus, the appellant chose to testify and to call the notary who allegedly prepared the text of the resignation from all three companies as a witness.
+[65] His testimony was characterized by discomfort, and, more importantly, by glaring contradictions for which no reasonable or even credible explanations were provided.
+[66] The notary even admitted his responsibility for an undue delay in filing a very important document, namely, the amending declaration dated April 1, 2006, but sent in October, November or perhaps even December 2006. As for the appellant, he stated that it was sent on November 16, even though the stamp on the document says January 9, 2007. The notary said that the delay was due to the non-payment of his fees.
+[67] Since the stamp affixed by the enterprise registrar bears the received date of January 9, 2007, the notary stated that he might have sent out everything in November but was unable to provide a clear date, even though the payment of his fees is quite possibly a helpful reference point.
+[68] The proof, which was up to the appellant to make, consisted in the testimony of two non credible witnesses, testimony that was full of holes, confusing, and contradicted by documents. The quality of both witnesses' testimony was discredited by the following elements, among others:
+a. the notary's obvious discomfort;
+b. contradictions between the assertions and the contents of several documents;
+c. the absence of highly material witnesses;
+d. the fact that resignations of April 1, 2006, were never raised before the objection was filed;
+e. the fact that the resignations were never raised at meetings with the collections officer;
+f. the admission of a de facto directorship in relation to managerial acts during a period subsequent to April 1, 2006;
+g. the appellant and notary's selective memory;
+h. the notary's outlandish explanation for the delay in submitting an amending declaration that was very important and above all very consequential; and
+i. the appellant's self-serving testimony.
+[69] Proof of a resignation that forms the basis for contesting an assessment needs to be consistent, plausible and, especially, credible. In the case at bar, three resignations were supposedly signed on the same date for three different companies.
+[70] Assuming that the dates of the signatures on the resignations were true, the appellant knew, and should have known, that he, or someone else, would have to intervene often in order to carry out very important duties. Thus, reasonable and, above all, plausible, explanations, needed to be provided. Companies that carry out transactions worth millions of dollars must be able to survive the resignation of their directors.
+[71] I am referring, among other things, to the numerous notarial deeds, the signing of numerous cheques for substantial amounts, and all the paperwork that the management and administration of such companies required. For a business involved in the construction of condominiums, the payment of the various stakeholders' accounts and the sale of condominiums are hardly unimportant, secondary or insignificant duties; rather, they are juridical acts that lie at the very core of the business's activities and are closely tied to management and to fundamental operations directly related to the vocation of the businesses in question.
+[72] The evidence disclosed no concrete actions validating the appellant's claim. Moreover, no witnesses gave testimony to confirm the supposed resignation. How can one explain the fact that an experienced businessman who manages millions of dollars was so inconsistent on a fundamental issue, namely, a resignation that was followed by continued conduct suggesting that the resignation never took place?
+[73] The answer is very simple. This was essentially a resignation of convenience or accommodation, the stated date of which is neither credible nor validated by reliable and decisive evidence: the two witnesses who attested to the resignations are not credible, and decisive documentary evidence totally discredits the nature of the resignations supposedly tendered on April 1, 2006.
+[74] It is undoubtedly a retroactive date intended to get out of his obligations. In fact, the appellant admitted through his counsel that the resignation did not have any effect with regard to certain actions. In a sense, he argued that the resignations were proper and legally valid for certain periods but not for others. A resignation is not a carte blanche that allows the person who has supposedly resigned to use it when his various choices make it necessary. A resignation is a juridical act that must meet requirements for its existence, its conformity and its effects as against third parties.
+[75] The appellant's evidence in support of the three appeals essentially rests on his testimony and that of the notary. I believe absolutely nothing they said. Moreover, no one else testified in support of the incomplete, patched-together evidence. It was important to show that the facts were consistent with the resignations. It would have been interesting to hear the bank manager, the customers, the subcontractors, etc.
+[76] I must dispose of appeals based on the available evidence. And the evidence, which the appellant was responsible for providing, does not support these appeals, because the facts show that he continued to act de facto after April 1, 2006, the alleged date of the resignations. Moreover, the evidence as to the April 1 date is not a reliable and credible foundation. Rather, the evidence shows that the document was drawn up much later in order to avoid the tax liability. How else to explain the fact that the appellant, who had the advice of a tax specialist, did not bring the appellant's April 1, 2006 resignation to the respondent's attention? He did so upon the objection to the assessment, which came much later.
+[77] For all these reasons, the appeals are dismissed, with one set of costs to the respondent.
+Signed at Ottawa, Canada, this 19th day of October 2011.
+"Alain Tardif"
+Tardif J.
+Translation certified true
+On this 22nd day of November 2011
+Monica F. Chamberlain, Reviser
+CITATION: 2011 TCC 488
+COURT FILE NOS.: 2009-3609(GST)I
+2009-3610(GST)I
+2009-3611(GST)I
+STYLE OF CAUSE: FRANÇOIS MILANI v.
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: Montréal, Quebec
+DATE OF HEARING: August 16, 2011
+REASONS FOR JUDGMENT BY: The Honourable Justice Alain Tardif
+DATE OF JUDGMENT: October 19, 2011
+APPEARANCES:
+Counsel for the appellant:
+Pierre Blain
+Counsel for the respondent:
+Danny Galarneau
+COUNSEL OF RECORD:
+For the appellant:
+Name: Pierre Blain
+Longueuil, Quebec
+For the respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Tehrani v. R., 2006 TCC 131.
+[2] Tehrani v. R., 2007 FCA 12.
+[3] Nichols v. The Queen., 2009 TCC 334, at para. 23.
+[4] Kalef v. Canada, [1996] F.C.J. No. 269, 194 N.R. 39, 39 C.B.R. (3d) 1, [1996] 2 C.T.C. 1.
+[5] Ibid. at para. 10.
+[6] Canada Business Corporations Act, R.S.C. 1985, c. C-44.
+[7] Companies Act, R.S.Q., c. C-38.
+[8] Campbell v. R.., 2010 TCC 100, 2010 D.T.C. 1090.
+[9] Netupsky v. R., [2003] G.S.T.C. 15 (T.C.C.), docket 2000-4608(GST)G, January 21, 2002.
+[10] Transcript of hearing, at page 30.
+[11] Maurice Martel and Paul Martel, La compagnie au Québec, vol. 1, Les aspects juridiques (Montréal: Wilson & Lafleur, 2010).
+[12] Hattem v. Canada, 2008 TCC 32, [2008] G.S.T.C. 12, [2008] T.C.J. No. 17.
+[13] More recent editions of Martel have been published. Unfortunately, all the copies in the Court's library are out on loan.
+[14] Sandhu v. R., 2009 TCC 175, at para. 47.

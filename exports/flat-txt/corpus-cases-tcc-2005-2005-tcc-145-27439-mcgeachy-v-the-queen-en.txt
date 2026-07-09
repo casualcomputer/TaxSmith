@@ -1,0 +1,172 @@
+Title: McGeachy v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27439/index.do
+Corpus path: corpus/cases/tcc/2005/2005-tcc-145-27439-mcgeachy-v-the-queen-en.md
+Document type: case_law
+Last modified: 2005-02-21
+
+# McGeachy v. The Queen
+
+- Citation: 2005 TCC 145
+- Decision date: 2005-02-21
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 195, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+McGeachy v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-02-21
+Neutral citation
+2005 TCC 145
+File numbers
+2003-4349(IT)I
+Judges and Taxing Officers
+Alexander A. Sarchuk
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2003-4349(IT)I
+BETWEEN:
+NEIL W. McGEACHY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+and
+LAURAL CASTRON McGEACHY,
+Third Party.
+____________________________________________________________________
+Appeals heard on July 28, 2004, at Toronto, Ontario, by
+The Honourable Justice A.A. Sarchuk
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Nimanthika Kaneira
+For the Third Party:
+The Third Party herself
+____________________________________________________________________
+JUDGMENT ON A DETERMINATION OF QUESTIONS
+UNDER SECTION 174 OF THE INCOME TAX ACT
+By Order dated May 21, 2004, Laural Castron McGeachy was added as a Third Party to the appeal of Neil W. McGeachy for the purpose of determining the following questions:
+1. What amounts are deductible by Neil W. McGeachy in calculating Neil’s income for the 2000, 2001 and 2002 taxation years pursuant to paragraph 60(b) of the Income Tax Act?
+2. What amounts paid by Neil W. McGeachy to Laural Castron McGeachy in the 2000, 2001 and 2002 taxation years are includable in computing Laural’s income pursuant to paragraph 56(1)(b) of the Act?
+Upon hearing the evidence of the Appellant and the Third Party; and upon hearing submissions from all three parties;
+It is determined that:
+(a) The answer to question 1 is that the amounts deductible by Neil W. McGeachy in computing his income for the 2000, 2001 and 2002 taxation years are $20,700, $0 and $10,000, respectively; and
+(b) The answer to question 2 is the amounts of $20,700, $0 and $10,000 paid by Neil to Laural Castron McGeachy in the 2000, 2001 and 2002 taxation years, respectively, are includable in computing her income.
+The appeals from assessments of tax made under the Income Tax Act for the 2000, 2001 and 2002 taxation years are dismissed.
+Signed at Ottawa, Canada, this 21st day of February, 2005.
+"A.A. Sarchuk"
+Sarchuk J.
+Citation: 2005TCC145
+Date: 20050221
+Docket: 2003-4349(IT)I
+BETWEEN:
+NEIL W. McGEACHY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+and
+LAURAL CASTRON McGEACHY,
+Third Party.
+REASONS FOR JUDGMENT
+Sarchuk J.
+[1] On April 20, 2004, the Minister of National Revenue made an application pursuant to section 174 of the Income Tax Act joining Laural Castron McGeachy as a party to the appeals of Neil W. McGeachy for the determination of questions in respect of the:
+(a) Notice of Reassessment, Notification of Confirmation and Notice of Reassessment, respectively, all dated November 3, 2003, in respect of Neil's 2000, 2001 and 2002 taxation years, respectively; and
+(b) A proposed reassessment in respect of the 2000, 2001 and 2002 taxation years of Laural to be determined in relation to the answers provided to the questions in issue.
+On May 21, 2004, an Order was made by Garon C.J. joining Laural Castron McGeachy as a party to the appeals of Neil W. McGeachy.
+[2] The questions in respect of which a determination is sought are:
+(a) What amounts are deductible by Neil in calculating his income for the 2000, 2001 and 2002 taxation years pursuant to paragraph 60(b) of the Act?
+(b) What amounts paid by Neil to Laural in the 2000, 2001 and 2002 taxation years are includable in computing Laural’s income pursuant to paragraph 56(1)(b) of the Act?
+[3] History of the Assessments/Reassessments
+(a) In computing income for the 2000, 3001 and 2002 taxation years, Neil claimed a deduction for support payments in the amounts of $28,463, $23,288 and $25,056, respectively;
+(b) By Notice of Reassessment, the Minister disallowed the deduction of $28,463 in the 2000 taxation year. The Minister later reassessed for that year to allow a deduction of $20,700;
+(c) By Notice of Assessment dated October 28, 2002, the Minister disallowed the deduction of $23,288 claimed by Neil for the 2001 taxation year;
+(d) By Notice of Assessment dated September 9, 2003, the Minister disallowed the $25,056 claimed by Neil as a deduction for the 2002 taxation year. The Minister subsequently reassessed him and allowed a deduction in the amount of $10,000 for spousal support;
+(e) In calculating her income for the 2000, 2001 and 2002 taxation years, Laural included support payments in the amounts of $20,700, $0 and $10,000, respectively, and was assessed by the Minister as filed for those three taxation years, respectively.
+Facts
+[4] At all relevant times, the Appellant and his former spouse, lived separate and apart due to a marriage breakdown. They are the parents of four children, Jana, Kristin, David and Diane. Pursuant to a separation agreement dated May 26, 1993,[1] the children were to reside with Laural and, commencing July 1, 1994, the Appellant was required to pay to Laural child support of $625 per month for each child, for a total of $2,500 per month, indexed annually. Support of each child would terminate if child ceased to reside fulltime with the wife; reached 18 years of age and ceased to be in fulltime attendance at an educational institution; child becomes 21 years of age; or the child marries. The agreement specified that if any child were to leave the residence of the Appellant's former spouse, the child support would be reduced by 25% per child. In September 2000 one of the children, David, commenced residing with Neil and continued to live with him at all relevant times.
+[5] On February 7, 2002, a Court Order was issued by Justice Eberhard of the Ontario Superior Court of Justice (the "First Order").[2] It provided that:
+3. Effective September 1, 2000, the Applicant[3] is no longer liable to pay child support to the Respondent, pursuant to the terms of the Separation Agreement, for the child David, as David has been living with the Applicant since that time and continues to live with him. Therefore, the amount of support payable by him to the Respondent pursuant to the terms of the Separation Agreement is set out in paragraph 4 below.
+4. From September 1, 2000 and on the first of each month after that, the Applicant will pay child support to the Respondent in the amount of $1,939.50 being the amount found to be payable pursuant to the terms of the Separation Agreement, which sum is recognized to be deductible to the Applicant and to be included in the income of the Respondent because there is no variation of the Separation Agreement made pursuant to this Order.
+5. Effective September 1, 2000 and on the first of each month after that, the Respondent will pay child support to the Applicant for the child David in the amount of $468 per month based on her income noted above and the Child Support Guidelines.
+6. When the two figures noted in paragraphs 4 and 5 are set off against each other, the result is the Applicant will be paying child support to the Respondent in the net amount of $1,471.50 per month, being the amount he owes to the Respondent less the amount she owes to him.
+7. The Court therefore orders that the Applicant pay child support to the Respondent in the amount of $1,471.50 per month commencing on September 1, 2000. The child support so ordered will continue taxable to the Respondent and deductible to the Applicant.
+[6] On August 22, 2002, a further Order was issued by Justice Stong of the Ontario Superior Court of Justice (the "Second Order").[4] This Order provided:
+1. This Court finds, pursuant to the Child Support Guidelines, the income of the Respondent, Laural Castron McGeachy is $71,500 and the income of the Applicant, Neil McGeachy, is $70,000.
+2. As a result of the finding in paragraph one of this order, this Court orders that neither party pay support to the other as child support based on the finding of this Court that each party has the care and control of two of the four children of the marriage ...
+3. The Applicant, Neil McGeachy will pay to the Respondent, Laural Castron McGeachy, the sum of $2,500 per month commencing retroactively on August 1, 2001 and payable on the first of each month thereafter.
+4. The support payments referred to in paragraph 3 remain payable until and including the sixth month after the last child living in the residence of the Respondent Laural Castron McGeachy finishes his or her formal education, at which time payments to the Respondent by the Applicant for spousal support will terminate.
+[7] The Appellant sought a stay of this judgment pending the determination of an appeal and on October 1, 2002, the Ontario Court of Appeal ordered that:
+10(a) the judgment for retroactive spousal support is hereby stayed pending the determination of the appeal or further order of this court;
+10(b) …
+10(c) the motion with respect to the ongoing support payments is dismissed;[5]
+A further Order was issued by the Ontario Court of Appeal on October 7, 2003, (the "Third Order")[6] which set out the following:
+1. THIS COURT ORDERS THAT the Order of Stong J. requiring the Appellant to pay spousal support is set aside;
+2. …
+3. THIS COURT ORDERS THAT the Respondent shall repay to the Appellant the spousal support that she received from September 1, 2002 to October 1, 2003 in the sum of $35,000 pursuant to the Order of Stong J., without interest;
+[8] The Respondent’s position is that in accordance with the separation agreement the Appellant was required to pay Laural child support of $2,587 per month for the 2000 taxation year. The First Order changed the commencement date of the separation agreement and accordingly, he was properly assessed to allow a deduction for $20,700[7] for the 2000 taxation year in accordance with subsection 56.1(4) and paragraph 60(b) of the Act. On the same basis, he was properly assessed to disallow any deduction for child support for the 2001 taxation year. The Endorsement of Justice Stong required Neil to pay spousal support to Laural in the amount of $2,500 per month, which he did from September 2002 to December 2002. In accordance with paragraph 60(b) of the Act, he was properly assessed to allow a deduction of $10,000 for the 2002 taxation year.[8]
+[9] In his submission to the Court, the Appellant made reference to subparagraph 56.1(4)(b)(ii) which defines the term “commencement day” and argued that there was no variation to the separation agreement whatsoever, and that the Order of Eberhard J. “complies directly, specifically and totally with that separation agreement”. He maintained that the payments with respect to the three children in Laural’s custody were to be made in accordance with the separation agreement, that the amount per child did not change from what had been set out in the separation agreement and that the deduction of David from the total amount payable under the separation agreement was in complete accord with the terms thereof. None of these changes, he said, constituted a variation of the child support amounts payable to the recipient, Laural. Furthermore, the Appellant argued that there was no change to the separation agreement in that there was no change in the “dollars per child support levels”. He further noted that if there had been a change, the Court Order of Eberhard J. should have directed him to continue payment for the remaining three children pursuant to the “Child Support Tax Tables” and “that would have triggered a commencement day, it would have been a change …”. Thus, since Eberhard J. specifically did not use those tables other than in relation to the payment from Laural with respect to David, the judge “did not vary the amount per child, and she did not vary the separation agreement in any way”, the Appellant maintains the assessment was wrong.
+[10] The Appellant further argued that September 2000 could not possibly be a commencement day “because of the retroactive positions and the fact that there were no payments made and the fact that Justice Stong threw out or quashed that entire Order". In the alternative, if there was in fact a commencement day, "it would have to be August 22, 2002 because that was the first Order in which there was a change to the separation agreement which change arose as a result of the introduction of a spousal report into the equation". This submission has no merit.
+Conclusion
+[11] Subsection 56.1(4) contains the relevant definitions which apply to section 60. “Commencement day” at any time in an agreement or order means:
+56.1(4) The definitions in this subsection apply in this section and section 56.
+“commencement day” at any time of an agreement or order means
+(a) …
+(b) where the agreement or order is made before May 1997, the day, if any, that is after April 1997 and is the earliest of
+(i) …
+(ii) where the agreement or order is varied after April 1997 to change the child support amounts payable to the recipient, the day on which the first payment of the varied amount is required to be made,
+With respect to this subsection, I refer to a comment of Bowman A.C.J. in Kovarik v. The Queen,[9]
+15 The cardinal rule in interpreting statutes is the plain words rule. Numerous aids to construction has been developed: see Glaxo Wellcome Inc. v. The Queen, 96 DTC 1159, (aff’d 98 DTC 6638 (F.C.A.), leave to appeal to S.C.C. denied). But these aids to interpretation are not necessary if the words are clear. The definition of “commencement day” in subsection 56.1(4) is not difficult to understand. Whether the February 12, 1998 agreement is a new agreement or simply a variation of the 1990 agreement it clearly changes the child support payments from $900 per month to $450 per month. I do not see how the plain words of the definition can be avoided, however sophisticated the rules of statutory interpretation one may choose to use may be.
+The provisions of the Income Tax Act are clear and unequivocal and the effect of a change to the support amounts payable, the commencement day will be the day on which the first payment of the varied amount is required to be made. The Order in issue in these appeals was made by Eberhard J. on February 7, 2002. Notwithstanding the language used in this Order, it is clear that there was in fact a variation to the child support amounts payable in that the Court ordered Laural to pay support payments to the Appellant in the amount of $468 per month based on her income and the Child Support Guidelines and that this amount was offset against the amount the Appellant would have paid under the separation agreement in respect of the remaining three children. As a result, a new commencement day was triggered thereby, in this case September 1, 2000. As to the Appellant's submissions regarding the commencement day, paragraphs 4 and 5 of the “First Order” unequivocally set September 1, 2000 as the commencement day for the respective payments. Given the provisions of subsection 56.1(4)(b), it is not possible to reach a conclusion that there was no variation of the separation agreement as a result of the February 7, 2002 Order.
+[12] Accordingly, the amounts deductible by Neil W. McGeachy in computing his income for the 2000, 2001 and 2002 taxation years pursuant to paragraph 60(b) of the Income Tax Act are $20,700, $0 and $10,000, respectively, and the amounts of $20,700, $0 and $10,000 paid by Neil to Laural in the 2000, 2001 and 2002 taxation years, respectively, are includable in computing her income in those years.
+Signed at Ottawa, Canada, this 21st day of February, 2004.
+"A.A. Sarchuk"
+Sarchuk J.
+CITATION:
+2005TCC145
+COURT FILE NO.:
+2003-4349(IT)I
+STYLE OF CAUSE:
+Neil W. McGeachy and Her Majesty the Queen and Laural Castron McGeachy
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+July 28, 2004
+REASONS FOR JUDGMENT BY:
+The Honourable Justice A.A. Sarchuk
+DATE OF JUDGMENT:
+February 21, 2005
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Nimanthika Kaneira
+For the Third Party:
+The Third Party herself
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+N/A
+Firm:
+N/A
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Exhibit A-1.
+[2] Exhibit A-2.
+[3] Neil W. McGeachy.
+[4] Exhibit A-3.
+[5] Exhibit A-4.
+[6] Exhibit A-5.
+[7] $2,587 per month for the period January 1 to August 30 inclusive.
+[8] This position was adopted in full by the Third Party, Laural.
+[9] 2001 DTC 3716.

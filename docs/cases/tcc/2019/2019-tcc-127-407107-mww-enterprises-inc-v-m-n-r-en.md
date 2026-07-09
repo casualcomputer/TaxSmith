@@ -1,0 +1,545 @@
+---
+title: "MWW Enterprises Inc. v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/407107/index.do"
+last_modified: "2019-05-31"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2019 TCC 127"
+citation2: ""
+neutral_citation: "2019 TCC 127"
+decision_date: "2019-05-31"
+language: "en"
+item_id: "407107"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4375
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T12:10:48.348000+00:00"
+cases_cited_count: 9
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "dbeb8154c23740c8f4fed76ed59b2940f32ab9d60f0a1fb4cd2dbf67bf7ec5be"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# MWW Enterprises Inc. v. M.N.R.
+
+- Citation: 2019 TCC 127
+- Decision date: 2019-05-31
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4375, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+MWW Enterprises Inc. v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2019-05-31
+Neutral citation
+2019 TCC 127
+File numbers
+2016-2743(EI)
+Judges and Taxing Officers
+Lucie Lamarre
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2016-2743(EI)
+BETWEEN:
+MWW ENTERPRISES INC.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+Appeal heard on June 12 and 13, 2018, at Montreal, Quebec
+Before: The Honourable Associate Chief Justice Lucie Lamarre
+Appearances:
+Counsel for the Appellant:
+Julie Forest
+Wendy Sfeir
+Counsel for the Respondent:
+Marilou Bordeleau
+JUDGMENT
+The appeal of the decisions by the Canada Revenue Agency (CRA) regarding the insurability of 11 workers who had worked on the appellant’s television production Look Kool during the period from May 13 to September 19, 2014, is allowed and the CRA’s decisions are vacated for the following nine workers, who did not hold insurable employment: Angela Depalma, Inga Sibiga, Jean-François Noël, Claude Babin, Olivier Barbès-Morin, Claudine Bailey, Éric Déry, Dominic Remiro and Peter Weir.
+With regard to the other two workers, Paul Dufresne-Laroche and Emma Lacroix, the appeal is dismissed and the CRA’s decisions are upheld since these two workers held insurable employment.
+Signed at Ottawa, Canada, this 31st day of May 2019.
+“Lucie Lamarre”
+Lamarre A.C.J.
+Citation: 2019 TCC 127
+Date: 20190531
+Docket: 2016-2743(EI)
+BETWEEN:
+MWW ENTERPRISES INC.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGMENT
+Lamarre A.C.J.
+[1] Following a request for a ruling on the insurability of 44 workers who worked on the appellant’s television production Look Kool in 2014, the Canada Revenue Agency (CRA) concluded that the 44 workers held insurable employment within the meaning of paragraph 5(1)(a) of the Employment Insurance Act (EIA). To draw this conclusion, the CRA took a sample of 11 workers who had worked on the production during the period between May 13 and September 19, 2014. The appellant is appealing the decisions made regarding those 11 workers, as it considers them rather to be independent contractors.
+[2] The appellant produced the television series Look Kool in 2014 for the broadcasters TVO and TFO in English and French. It set up two production teams for the series and hired the 44 workers in question.
+[3] The 11 workers at issue here were hired as an associate producer (Angela Depalma), production coordinator (Inga Sibiga), production assistant (Paul Dufresne-Laroche, Emma Lacroix, Dominic Remiro, Peter Weir), assistant director (Jean-François Noël), gaffer (Claude Babin), assistant cameraman (Olivier Barbès-Morin), costumer/dresser (Claudine Bailey) and grip (Éric Déry). They all testified at the hearing except Peter Weir.
+[4] Blaine Gillis (the appellant’s business manager) and Jonathan Finkelstein (the executive producer) also testified for the appellant. Luc Falardeau, the CRA appeals officer, testified for the respondent.
+Facts admitted by the parties
+[5] It is admitted by the parties in the Notice of Appeal (paragraphs 43, 44 and 48) and the Reply to the Notice of Appeal (Reply) (paragraph 2) that the appellant signed a contract of engagement with each of the workers. Some of them were members of the Alliance québécoise des techniciens de l’image et du son (AQTIS), and in those cases the appellant used the contract of engagement provided by AQTIS, to which it added a rider specifying that the worker was being hired as an independent contractor. For the other workers, who were not members of a relevant artists’ or technicians’ association, the appellant prepared an agreement called a Deal Memo. That agreement set out, among other things, the length of the contract and the remuneration agreed on by the parties for the services rendered. With regard to the associate producer, she signed an agreement specific to her position.
+[6] It is also admitted that every AQTIS member could have refused to sign the agreement if the conditions offered did not meet the worker’s expectations or if he or she was simply not available during the production period (Notice of Appeal, paragraph 47; Reply, paragraph 2).
+[7] Five of the workers in question were members of AQTIS, and the other six were not members of any artists’ association (Notice of Appeal, paragraph 62; Reply, paragraph 2).
+[8] Of the six workers not members of any association, five had signed a Deal Memo: Inga Sibiga and Dominic Remiro, who each worked 2 days; Emma Lacroix, who worked 7 days; Peter Weir, who worked 14 days; and Paul Dufresne‑Laroche, who worked 49 days. According to the Notice of Appeal, all five of these workers considered themselves to be independent contractors when signing the Deal Memo, but the respondent acknowledges this only for Inga Sibiga, Peter Weir and Paul Dufresne‑Laroche (Notice of Appeal, paragraphs 62 to 70; Reply, paragraphs 2, 12 and 13).
+[9] The respondent also admits that the contract of engagement between the appellant and the workers applied strictly for the purposes of the Look Kool production, which was done over a defined period of time, and that both the appellant and the workers agreed that the latter were being hired as independent contractors (under a “contract for services”) (Notice of Appeal, paragraphs 75 and 78; Reply, paragraph 2).
+[10] The appellant relies on the Act respecting the professional status and conditions of engagement of performing, recording and film artists (CQLR, c.S‑32.1) (APS), and the respondent acknowledges that this statute allows artists’ associations to receive recognition thereunder, thus making it possible for them to negotiate with a producer or a producers’ association a collective agreement on behalf of the artists, on the minimum conditions for the engagement of those artists (Notice of Appeal, paragraphs 22-23; Reply, paragraphs 2-3).
+[11] The respondent also acknowledges that AQTIS, which was formed when the Association des professionnelles et des professionnels de la vidéo du Québec (APVQ) merged with the Syndicat des techniciens du cinéma et de la vidéo du Québec (STCVQ), represents artists and technicians in certain sectors of the television and film industry. In addition, a collective agreement, known as the video agreement, was adopted for all positions recognized as those of artists under the APS (Notice of Appeal, paragraphs 25-26; Reply, paragraph 2).
+[12] Both parties acknowledge that the characterization of the workers’ contractual relationship should be looked at through the lens of Quebec civil law in the present case. The respondent refers only to the applicable provisions of the Civil Code of Québec (CCQ) with respect to the definition of a contract of employment (art. 2085 CCQ) and a contract of enterprise or for services (art. 2098 and 2099 CCQ). The appellant adds that the issue must be analyzed within the Quebec socio-legal context, which includes not only the CCQ but also specific legislation and the agreements described above that govern the relationships between producers and artists.
+Facts brought out at the hearing
+First witness: Blaine Gillis, the business manager at MWW
+[13] Mr. Gillis oversees all of the company’s accounting and finances and everybody’s contracts and remuneration.
+[14] The show for which the workers at issue are employed is an educational show for children that is broadcast in Ontario.
+[15] The show involves an in-studio component and filming is also done outside.
+[16] All workers are hired as independent contractors.
+[17] Mr. Gillis did not contract with the workers individually.
+[18] The line producer is in charge of the budget for the show and hires the crew. She negotiates all deals to bring the show in on budget (which includes negotiating remuneration). She was not in Court to testify because she is retired and lives out of the country.
+[19] Recruitment is done through recommendation and through AQTIS.
+[20] All workers come to the show with already acquired knowledge and skills.
+[21] There is negotiation and when a contract is agreed upon it goes to the production accountant, then Mr. Gillis sees it.
+[22] There was never any suggestion by the unions that there was an issue with the independent contractor status. That status is non-negotiable.
+[23] The following applied for AQTIS members:
+1) They had to fill out timesheets.
+2) Some rented their equipment to the appellant (e.g., sound equipment belonging to the worker was rented out to the appellant).
+3) The appellant paid their expenses and for items such as safety shoes.
+4) Some large equipment was rented by the appellant for the use of the workers.
+5) Small equipment was brought by the workers.
+[24] The appellant was required by the broadcaster to have civil liability insurance and had to be registered with the Commission de la santé et de la sécurité du travail.
+[25] Mr. Gillis said that he had received no grievances, no calls, and no complaints from any worker.
+Cross-examination,
+[26] In cross-examination, Mr. Gillis stated that he rarely went on the set.
+[27] The line producer was responsible for replacements. The appellant’s approval was needed for any replacement.
+[28] Mr. Gillis paid the bills when he received them (e.g., for costumes or cameras).
+[29] The line producer reported to the executive producer.
+Second witness: Jonathan Finkelstein, the executive producer
+[30] Mr. Finkelstein sells television programs to broadcasters (the clients) and obtains the financing to pay the licence fee.
+[31] The production team is led by the line producer. It is composed of the actors, the writers, the creative producers, the director of photography, the video editors and the off-line editors.
+[32] The client has approval rights regarding the production team.
+[33] The executive producer will engage the top artists approved by the client and the line producer will fill the other positions.
+[34] The line producer is responsible for keeping the project on time and on budget and deals with any problems (e.g., those relating to the replacement process). She recruits the key players, who are the top few people, who come with their own team of people (e.g., the line producer will recruit the director of photography, who will in turn recruit people for his own department).
+[35] The production manager makes sure that vacant positions get filled. Usually crew members suggest their own replacement, but the production manager may recruit directly through AQTIS.
+[36] The people recruited sign a Deal Memo in which they agree to work as independent contractors for a stipulated period of time.
+[37] They are considered as independent contractors because they are generally incorporated, they sometimes charge goods and services tax (GST), they can work for different producers at the same time and they have multiple clients or work for very short periods of time. No one ever asked to change this state of affairs and it had never been an issue until now.
+[38] Mr. Finkelstein, as executive producer, does not have any relationship with crew members. His dealings are with the top people.
+[39] The workers bring their own skills to their employment; they know what they have to do. The appellant does not pay for training.
+[40] The appellant is a member of the Association québécoise de la production médiatique, which negotiates on behalf of all producers. It gives access to the best, already trained professionals, who can work on the best productions.
+[41] The appellant does not own the equipment. It is paid for through the production budget. The major expenses are for sound, lighting, cameras, lenses, tripods, wardrobe and make-up.
+[42] Sometimes, the worker will rent his own equipment to the appellant. Labour and equipment are billed for separately. The appellant will pay for equipment supplied by the worker. It is a daily rate.
+[43] As for remuneration, Mr. Finkelstein said that the contract terms are negotiated for all workers (those terms being the minimums under the AQTIS agreements).
+[44] With respect to the nature of the work, the script dictates the final outcome of the project. The script is divided into scenes. The workers read the script and they know what they have to do. There is a lot of creativity involved. The workers are not told how to perform their tasks. They know the artistic product and the end result to be attained. (For example, the gaffer (electrician) will position the lighting so as to achieve the vision of the director of photography: he knows what has to be done; the woman in charge of costumes will work with the creative producer; the director of photography works with the director and the producer: he possesses the requisite technical and artistic skills and understands the tone and the mood of the project.)
+[45] As for schedules, there are call sheets which tell everyone where he or she has to be and when. Everyone is part of a team and has a role that is very well defined in the television industry. Television is a collaborative medium. At paragraph 55 of its Notice of Appeal, which is admitted by the respondent (Reply, paragraph 2), the appellant states that the workers had to arrive on the set at the times determined by the appellant and that, as members of a team, they had an obligation to be present at the scheduled time so that the project could be completed in an orderly, efficient and timely manner and within budget.
+Cross-examination
+[46] In cross-examination, the evidence set out hereunder was elicited.
+[47] Mr. Finkelstein is a majority shareholder of the appellant.
+[48] His tasks consisted of developing ideas, bringing them to market, financing the projects and seeing to it that clients were satisfied.
+[49] He goes on the set only at the beginning of shooting. He speaks with no one other that the director and the stage director.
+[50] With respect to replacements, the appellant pays any substitutes because it pays the workers in every position in the production, but it will not pay the absent person.
+[51] As for the riders to AQTIS contracts stating that the workers are independent contractors, nobody is forced to sign them. If a worker does not want to sign the rider, the appellant would have to decide whether to hire that person or not.
+[52] Regarding overtime, whether the appellant will pay it or not depends on the agreement (if it is an AQTIS agreement, the appellant will pay it; if there is no agreement, payment of overtime would depend on individual negotiations).
+[53] As far as costumes are concerned, the person hired has the creative role but she does not have the final say. She will seek to know if she is on the right track, as they are working on a restricted budget.
+Third witness: Olivier Barbès-Morin
+[54] Mr. Barbès-Morin was the assistant cameraman on the production of Looking Kool in 2014. His testimony revealed the following.
+[55] Duties: He had to prepare the equipment to enable the cameraman to do his work. He verified that the cameras worked properly and placed the cameras in the places indicated. The scene could sometimes change, as decided by the director, and Mr. Barbès-Morin had to make adjustments to the cameras. He saw to it that the equipment was the best it could be (he was not the one who ensured that scenes were filmed correctly, contrary to what was stated in the CPP/EI decision, Exhibit A-1, Tab 1).
+[56] Training: It was not really necessary. He “learned on the job.” He had good knowledge of photography.
+[57] AQTIS member: He took the AQTIS 101 course. AQTIS is the union that represents sound and image workers. The course sets out the minimum work conditions for TV productions and informs workers about TV and film collective agreements. One generally has to be an AQTIS member to work under an AQTIS contract, but this is not always mandatory.
+[58] Mr. Barbès-Morin was recruited for the Look Kool production by a director of photography with whom he had worked as an assistant in a previous production by Apartment 11 (which is a company associated with the appellant).
+[59] Schedule: He had to work a 10-hour day with a one-hour break in the middle of the day.
+[60] Contract: The dates were determined by the production according to Mr. Barbès-Morin’s availability. If he was not available on a given day, he would have been replaced either by someone he recommended or by a replacement they had found themselves. He said that he could potentially have broken a contract. He did not work exclusively with the producer. He could take on other contracts elsewhere.
+[61] Supervision: It is the director of photography who provides the guidelines. The director of photography and the director decide on the shots and the artistic design. As an assistant, he was not directly involved in choosing cameras or lighting. This is done at the pre‑production stage. Once he has received the instructions from the director of photography, he knows what he has to do.
+[62] Remuneration: He received more than the AQTIS basic rate. Therefore, he believes that he negotiated his remuneration. He reported business income for tax purposes and he has a GST number.
+[63] Rider: He considers himself to be a freelancer (independent contractor).
+[64] Tools: He brings his own basic tools, i.e., an assistant’s kit (screwdriver, pliers).
+Cross-examination
+[65] Mr. Barbès-Morin’s services were provided on the shooting location (schoolyard, parking lot or studio).
+[66] He had worked for that company several times, the first time being in 2010 and the last time in 2015-2016.
+[67] Time sheets: For AQTIS productions, the time sheets show the time spent shooting and on breaks, and they are sent to the production for remuneration purposes.
+[68] Replacement: He never had to be replaced.
+[69] Remuneration: He was paid $32.50 per hour instead of $30 per hour in 2014.
+[70] Mr. Barbès-Morin has no business card and no business name in the enterprise register.
+[71] Reported income: For 2013, T4 income of $5,644; for 2014, T4 income of $2,062, gross business income of $37,424 and net business income of $27,128; for 2015, T4 income of $2,406, gross business income of $44,165 and net business income of $34,358. He explained that some production companies issue T4s, but most issue T4As for the same kind of work (TV photography).
+Fourth witness: Angela Depalma
+[72] Ms. Depalma is an associate producer and an assistant director.
+[73] Mr. Gillis said in his testimony that her main tasks were to schedule various programs for everyone on the computer, that she provided her own computer and that it was her decision whether she would work at the office or from home.
+[74] Ms. Depalma is not an AQTIS member.
+[75] Her duties are described in Schedule A to the associate producer agreement (Exhibit A-1, Tab 2). Among other things, she had to assemble all information from the production team and make sure that everybody required for the production was hired; she read the script and ensured that all items needed were on the set.
+[76] She applied for her position as a result of a LinkedIn job posting.
+[77] She also ran, with her husband, a videotaping photography company that they had started in 2003, but this was only an occasional pursuit (Exhibit R-1, Tab 4, page 5 of 12, paragraph 36). She now holds full-time employment elsewhere. She has worked in television production since 1998.
+[78] She performed her work both at home in the evenings using her own computer and outside on the set.
+[79] During the day, she worked at the appellant’s office because it facilitated matters. At the office, the computer, telephone, desk and printer were provided. She had access there to the shooting scripts.
+[80] As regards her status, she had to answer that she was an independent contractor. She could have worked for someone else, depending on the time frame, but in 2014 she did not work for other producers. She is not sure where the fine line is to be drawn between employee and independent contractor status (Exhibit R-1, Tab 4, page 5 of 12, paragraph 35).
+[81] With respect to her contract, she negotiated it and signed as a freelance; she charged GST.
+[82] With regard to time schedule, she had no particular schedule, but she had to go through the script and had to perform her tasks in a certain order. There were always deadlines.
+[83] The basic guidelines were that she had to make sure that no one did overtime so that they could stay within budget. The producer and the members of the cast collectively saw to it that they finished on time.
+Cross-examination
+[84] Ms. Depalma had discussions with the producer on a daily basis regarding what was required, the intentions for the shoot, the issues anticipated, the deadline standards and the quality of the work.
+[85] All issues were submitted to the producer and to the field director, Jean‑Louis Côté. The producer-director always had the last say.
+[86] Ms. Depalma stated that her period of work was from June to September 2014.
+[87] Her work schedule was such that during the preproduction stage she worked at the office during regular office hours. During production, she worked on set and continued working at home. She imposed on herself a certain number of hours of work, but no one really checked on her (in preproduction, she worked 40 hours). Because the producer was her primary contact, she tried to be present during the same time frame as the producer (their desks were near each other).
+[88] For 2014 she reported income consisting of $2,230 in employment income, $12,850 in employment insurance benefits and $22,420 in gross and net business income (she claimed no expenses) (Exhibit R-1, Tab 4 X).
+[89] She was employed full time by other producers before 2014.
+[90] As regards GST, she registered in 1999 but only activated her account in 2012, as she was an employee prior to 2012.
+[91] When it happened that she was going to be absent, she emailed the producer and the line producer and recommended someone on the team to replace her.
+[92] As for an assistant, she never asked for one and the matter was never discussed.
+[93] Her contract was filed as Exhibit R-1, Tab 4 J. The contract required that she provide her services in person (paragraph 2.1) and that she follow instructions (paragraph 2.4). It stipulated a probation period of eight weeks (paragraph 2.5) and provided for withholdings from remuneration (paragraph 3.2).
+[94] An invoice was filed as Exhibit R-1, Tab 4 L; it shows that Ms. Depalma billed under her own name.
+Fifth witness: Jean-François Noël
+[95] Mr. Noël was an assistant director, and he was referred by someone from a production company.
+[96] He provided the following information on the points below:
+· Contracts (length): He signed an initial contract with respect to shooting dates (8‑9 days) and a second contract for shooting preparation dates (14 days), both on a lump sum remuneration basis (Exhibit A-1, Tab 3). Those were pre‑arranged dates on which he had to be available. If he could not be available for some of the dates, he was replaced or he simply did not get the contract.
+· Duties: He had to provide the schedule, ensure that the required number of children was found, make arrangements regarding equipment so that everything would be ready for the day of the shoot, prepare a call sheet, do the shoot breakdown, then break down each scene. He also took care of lunch so as to be in compliance with the collective agreement. He spoke to the director of photography and the director. He reported to the production manager.
+[97] Mr. Noël worked on the appellant’s premises in order to participate in meetings, and he also did a small amount of work from home.
+[98] He worked with Angela, who held the same position as he on the anglophone side.
+[99] Experience: In 2014, he had three years’ experience. He has also worked on other productions.
+[100] Training: He did not receive any.
+[101] He was an AQTIS member.
+[102] Status: His employment status is not important to him. He accepts the payer’s choice (Report, Exhibit R-1, Tab 4, pages 7 and 8 of 12, paragraphs 67-79). There was no discussion or negotiation regarding the contract. According to him, it is easier to say that a cameraman is an independent contractor. For an assistant director, the case is less clear. Where the contract is short term, it is easier to say that you are independent. It is simpler to say that you are a contract worker. If it had been a longer–term contract, it would have been different.
+[103] Mr. Noël had a GST number in 2014.
+[104] 2012-2013: He was an assistant director (on set) and a coordinator (at the office) for another production company as a self-employed worker.
+[105] He did not provide any equipment.
+[106] If, after he had signed the contract, a better one presented itself, he could technically have broken the first contract, but that is not done (if you want other contracts in the future). But he could always try to find a replacement for himself.
+[107] Other contracts in 2014: Mr. Noël took on contracts with small production companies and worked directly for certain clients. He cannot have two AQTIS contracts at the same time. He could sign another contract, as a director of photography, for example, and rent his equipment without being present himself. But, as assistant director, his presence is necessary since he must keep things running on time.
+[108] Schedule: There was no specific schedule except for meetings. However, everything must be done for the shoot. AQTIS contracts are based on hours: after a certain number of hours, time and a half or double time must be paid. That is why one must be on the same page as the director and adjust to what he wants, while staying within budget (if the director wants more cameras, cuts have to be made elsewhere).
+Cross-examination
+[109] The production manager supervises the financial aspects. She manages the budget (e.g., if time and a half must be paid). She could fire Mr. Noël if he was really incompetent. She can come on set, but this is a rather rare occurence. Mr. Noël is also in contact with the director, but the production manager has the final say on whether they will do a scene that is going to be more expensive.
+[110] Meetings: Meetings are planned by the coordinator and the production manager. Mr. Noël is not necessarily required to attend a meeting if it does not concern him. However, if content is discussed, he has to be informed. He attended most meetings. Preparatory meetings are important because there is a tripartite management structure.
+[111] Mr. Noël did not make budget decisions, but if he was asked for too much set-up time, he would ask that a choice be made among time, content and money.
+[112] He reported to the production manager, but he worked for the director.
+[113] Number of hours: During production, Mr. Noël worked more than 10 hours; in pre‑production, he worked from 9 a.m. to 6 p.m.
+[114] Tools: A computer, photocopier, desk, telephone and paper were provided by the appellant at the office. If he incurred any expenses, he was reimbursed.
+[115] Time sheets (Exhibit R-1, Tab 4 O): They were filled out by the coordinator. She entered the hours using the information provided by the assistant director. Here, 11 hours is indicated, as specified in the contract. Overtime was very rare, but Mr. Noël was entitled to it under the AQTIS contract. The time sheets were based on the agreements.
+[116] Mr. Noël had neither business cards nor a website in 2014.
+[117] Replacement: He would have needed the production manager’s approval for any replacement.
+[118] Reported income (Exhibit R-1, Tab 4 DD): His 2013 T4 showed $31,662, earned as a coordinator; his 2014 T4 showed $8,905, which he earned as a cameraman and assistant cameraman for MediaRanch (TV company), which had hired him as an employee; he also had gross and net business income of $27,715 and $17,152 respectively in 2014; his 2015 T4 showed income of $35,903, which he earned as an assistant director (performing the same duties as here).
+[119] Status (employee vs. contractor): He accepts the payer’s choice in this regard. Usually, when he signs contracts with production companies, they assume that he is a freelance, but he does not mind being either an employee or a contractor. For him the difference is in the length of the contract.
+[120] Replacement: Replacing him must be done through AQTIS. It is more difficult for an assistant director to have himself replaced, but it can be done.
+Sixth witness: Ms. Inga Sibiga
+[121] Ms. Sibiga was a production coordinator.
+[122] She signed a Deal Memo as an independent contractor for the period from February 13, 2014 to March 19, 2014. She worked two days in that period.
+[123] She provided her services to others for eight years, also as an independent contractor, in the capacities of an assistant director or a production assistant.
+[124] Her duties consisted of planning and arranging the shoot, creating call sheets and explaining when and where the crew had to be present.
+[125] With regard to tools, she provided her own computer and her phone.
+[126] She worked from home and obtained a GST number in mid-2014 after having worked for the appellant.
+[127] She declared business income in 2014.
+[128] Since March 2018, she has been an employee in post-production, which is something different.
+Cross-examination
+[129] Ms. Sibiga worked for Apartment 11 (related to the appellant) in 2012 and 2013 as a production coordinator and an assistant director.
+[130] As for her schedule, it was not really nine-to-five. She had to create the schedule in time for the shoot. That took her two days.
+[131] As assistant director, she had to be on the set at specific hours.
+[132] With regard to tools, if working at the office she used the computer that was there. But she incurred expenses in using her own phone and computer because she worked from home for this particular project.
+[133] Her duties involved consulting the producer and the director. The project was a collective undertaking. She organized the shoot and obtained whatever was necessary for the shoot.
+[134] Regarding hours, she had no assigned hours, but she worked long hours.
+[135] She has no official business name.
+Re-examination
+[136] Ms. Sibiga provided the following clarifications concerning the tasks associated with various jobs.
+[137] An assistant director’s duties involve creating a schedule and managing the set.
+[138] A production assistant’s duties consist of working on the set and helping with everything (driving actors, cleaning, costumes).
+[139] A production coordinator (Ms. Sibiga’s job here) coordinates the shoots, secures locations and organizes everything in order that all will be ready for the shooting.
+Seventh witness: Mr. Dominic Remiro
+[140] Mr. Remiro was a production assistant.
+[141] He signed a Deal Memo for the period from July 18, 2014 to July 21, 2014 as an independent contractor.
+[142] He had just finished school.
+[143] He was not a member of AQTIS.
+[144] Mr. Remiro worked for other producers in 2014 and 2015. He was looking to make a name for himself in the industry.
+[145] Duties: His work consisted in supporting others working on the set. He was a jack of all trades (he could just as easily well have installed lighting as sign release forms). In this case, he followed a production assistant.
+[146] Requests came from the floor manager, assistant director or director of photography.
+[147] Remuneration: He did not negotiate his remuneration. For 2014, he reported no employment income. He did not charge GST in 2014. He began doing so in 2016.
+[148] If Mr. Remiro had been offered another contract elsewhere with better conditions, he would have found a replacement for himself after discussing it with the producer, but, ideally, he would have tried to perform the two contracts concurrently.
+Cross-examination
+[149] Duties: Mr. Remiro had to go to the warehouse, load the truck, deliver the equipment, and then be available to help the film crew. He also had to take care of food, then return to unload the truck at the warehouse.
+[150] The equipment belongs to the company.
+[151] This was one of his first contracts. He was replacing someone because he was there for only two days. It was the assistant producer who explained to him what he had to do, but this assistant producer was not his superior. They both performed the same tasks.
+[152] The coordinator was the one who told him to go to the warehouse, where he crossed paths with the other production assistant.
+[153] Schedule: He was alone during the day; he had no specific schedule. He had to start his day at a specific time, and his lunch break was around noon.
+[154] Remuneration: Mr. Remiro was paid a lump sum per day. The number of hours could vary.
+[155] Tools: A walkie-talkie was provided to him by the production.
+[156] Experience: He knew how to load and unload a truck (he had done an internship on a set while at school).
+[157] Replacement: Any replacement had to be approved by the company and was paid by the company.
+[158] He would not have accepted a second contract at the same time as this one without consulting the company first.
+[159] Expenses: Certain expenses (gasoline) were paid out of the company’s petty cash. Otherwise, he kept the receipt for reimbursement.
+[160] His tasks were assigned by the director and the production manager. He could be asked to redo them if they were not satisfied with his work.
+[161] His reported T4 income was $3,984 for 2014, possibly earned as a production assistant, and $3,185 for 2015, earned as a production assistant (Exhibit R-1, Tab 4 Y).
+Re-examination
+[162] 2015: Mr. Remiro reported gross business income of $35,927 and net business income of $25,572 that he earned as a sound mixer and also as a production assistant.
+[163] 2014: He reported gross business income of $8,678 and net business income of $5,755; 90% of that income was earned by him as a production assistant.
+Eighth witness: Paul Dufresne-Laroche
+[164] Mr. Dufresne-Laroche was a production assistant.
+[165] He signed a Deal Memo on May 13, 2014, for an indeterminate period.
+[166] He did not provide services elsewhere.
+[167] He first stated that he had worked a total of 7 days spread out over a month. Then he said that he had worked 40-50 days. At paragraph 69 of the Notice of Appeal, it is stated (and admitted by the respondent at paragraph 2 of her Reply) that he worked 49 days, negotiated his daily remuneration and considered himself to be an independent contractor.
+[168] Duties: He helped move the operations office. He drove the equipment truck. He took care of the food. He took everything back at the end of the day. He also went to get specific accessories. The production coordinator, the director and others on the set told him what to do and how to do it properly. It was training for him.
+[169] He was still a student. It was his first job in the field in which he was studying (film).
+[170] He was called back to work for them again the following summer in 2015.
+[171] As a production assistant, he held the lowest position in the hierarchy, and he had to do whatever was asked of him.
+[172] If he had been offered a better contract elsewhere, he would have accepted it and would have said that he was no longer available.
+[173] Schedule: The production coordinator told him what time he had to be there and what he had to do (she explained to him how things worked on the set).
+[174] In 2014, he issued invoices, and that is why he considered himself to be an independent contractor. He claimed no expenses. He filled out a table with the number of hours and the rate.
+[175] He had to be at work for 8 a.m. to load the truck and then proceed to the shooting location.
+[176] According to him, the other production assistants had the same employment conditions.
+[177] He was not an AQTIS member.
+[178] In 2015, he negotiated a higher salary, but not a different status. He did not know the differences between an employee and an independent contractor.
+Cross-examination
+[179] Billing: Mr. Dufresne-Laroche indicated his hours worked without attaching time sheets.
+[180] The vehicle used for transportation was provided by the company.
+[181] Remuneration: He was paid $75 per half-day (less than 5 hours) and $150 per day (over 5 hours). That is entry-level remuneration.
+[182] Status: His status was not important to him. He could also have agreed to be an employee. What mattered to him was that it was paid work. It was the person who hired him who spoke to him about his independent contractor status.
+[183] Reported income (Exhibit R-1, Tab 4 Z): He reported professional income in 2014 of $7,725 (and claimed no expenses).
+Ninth witness: Claude Babin (respondent’s witness)
+[184] Mr. Babin was the gaffer.
+[185] He signed two employment contracts; one in August and one in September.
+[186] He worked between three weeks and a month.
+[187] He went to the recording studio according to the schedule that had been prepared.
+[188] He worked in collaboration with the director of photography responsible for the image. It is the director of photography who decides on the image and the reflection. He positions the lights and controls their intensity in accordance with the wishes of the director of photography. He knows what he has to do.
+[189] Schedule: He was guaranteed a minimum of 10 hours. The schedule is that of the production. Everyone works together. The schedule provided for the day is based on the planned schedule for the scenes.
+[190] Reported income (Exhibit R-1, Tab 1 H): For 2014 he reported $42,243 in T4 income and $3,328 in employment insurance; For 2015 he reported $38,003 in T4 income and professional income of $6,075 (no expenses were claimed).
+[191] Status: He complies with the producer’s wishes, but he does not consider himself to be in business. If he is asked to bill, he has no choice but to do so. He is not registered for GST purposes.
+[192] He signed an AQTIS contract of engagement which provided for RRSP deductions and deductions for the AQTIS group insurance plan and for union dues (income tax deductions were not mentioned in the contract). He signed a rider to the contract, which stated that he was an independent contractor.
+[193] Time sheets under the AQTIS contract: He fills in the boxes for his hours, which he approves by initialling. If the hours are inaccurate, he goes through AQTIS, which represents him.
+[194] Tools: He provided a pair of gloves and some small tools.
+Cross-examination
+[195] Mr. Babin received six T4 slips for 2014, but none from the appellant (Exhibit R-1, Tab 1 E). The income of $8,136 that he may have received from the appellant does not appear in his reported income, but it would be surprising that he did not report it. In 2015, there was business income. According to Mr. Babin, that income was from commercials done with producers who had not signed an agreement with AQTIS.
+[196] In his view, it is not possible for an AQTIS member to be hired as an independent contractor (he has not, however, taken the AQTIS 101 course). He is an AQTIS member because he was already a member of the predecessor association. He works for independent producers who produce television content. With respect to the rider to his AQTIS contract that he signed, pursuant to which he is considered to be an independent contractor (Exhibit A-1, Tab 7), he says that he signed it without looking at it. It was in English, and he put his trust in the producer.
+[197] He worked with the appellant in subsequent years and did not know whether he had received T4A slips.
+[198] He does not work on an exclusive services basis. He can work for more than one producer in the same week.
+[199] When he signs a contract, he can be absent for up to 10% of the time, and the producer will replace him with someone Mr. Babin finds himself, if the director of photography agrees. If he cannot find anyone to replace him, he will honour his contract.
+[200] Before accepting a contract, he considers his availability and the pay being offered.
+[201] He was offered $35 per hour. That is the market rate. He could not have been offered less. It is difficult to negotiate with this producer. The following year, he obtained an hourly rate of $36.
+Tenth witness: Claudine Bailey (respondent’s witness)
+[202] Ms. Bailey was a dresser.
+[203] Duties: At the production meeting, she learns about the various characters. She takes note of what the director wants. He may give advice or make specific requests. She researches the costumes and gets them approved by the director or producer. She prepares the costumes for the shoot and dresses the cast the morning before the shoot.
+[204] The costumes were from Radio-Canada’s costume shop. The production covered the cost of the costumes, and Ms. Bailey did not know the details of the agreement between Radio-Canada and the producer.
+[205] Remuneration: She was offered an hourly rate of $25, and she accepted it. She was guaranteed a minimum of 10 hours per day.
+[206] Her period of work was from August 11 to September 5, 2014.
+[207] Status: She was surprised that she did not receive a T4 slip, and it was when she asked for one that she learned that she was considered an independent contractor. She has always been an employee elsewhere (she had previously been with Radio-Canada for 12 years, until 2015, and she has now been working for the same production company for three years).
+[208] Schedule: Costumes have to be ready for the shoot. The shoot schedule must be respected. She must arrive on the set before the start of shooting and stay until the end in order to make adjustments as needed during the shoot.
+[209] She signed a rider to the AQTIS contract on September 2, 2014 (Exhibit R‑1, Tab 2 D). She signed it without any pressure, but she did not consider herself to be an independent contractor.
+[210] Reported income (Exhibit R-1, Tab 2 H): For 2014 she reported T4 income of $14,779 and business income of $6,439 (she claimed no expenses).
+[211] She does not have her own business.
+Cross-examination
+[212] Ms. Bailey was not a permanent employee of Radio-Canada; she was available to provide services, and she was entitled to membership in AQTIS and to work under an AQTIS contract. She provided her services to various producers.
+[213] Schedule: During the preparation period, she worked from 9 a.m. to 5 p.m. The schedule was tight. She communicated with the director. Her time sheets show 9 hours of work per day, but she was paid for 10 hours (the minimum guaranteed by her AQTIS contract) (Exhibit R-1, Tab 2 E).
+[214] She chose 10 or so costumes at the costume shop and could buy items elsewhere. She had the initiative with respect to costume design.
+[215] If she had been offered a more lucrative contract elsewhere after she had signed her contract, she would not have accepted a second contract unless it was a particularly lucrative one, in which case, she would have asked the producer to break her contract, but would not have asked to have herself replaced.
+[216] Ms. Bailey would not have taken other contracts for the same days. She was not looking for other contracts because this one took up a lot of her time.
+[217] Tools: Everything was provided, except that she brought her own pins and a small kit (scissors, thread, double-sided tape). If seams had to be redone, the seamstress would do them.
+[218] She has had no other contracts with the appellant.
+Eleventh witness: Éric Déry
+[219] Mr. Déry was a grip. He had worked in that field since 2010‑2011. He had a workplace accident in 2015 and can no longer do that job.
+[220] He transported the materials required for the purpose of building the set. He returned the materials to the warehouse when the shoot was finished.
+[221] Tools: He provided his own drill and hammer.
+[222] AQTIS employment contract: He signed the first contract on August 6 and the second on September 5 (two contracts for one day each).
+[223] Duties: His team leader asks him if he is available. He is the first link in the chain. When the set is assembled, the production team arrives and Mr. Déry leaves. He returns to take the set down when everything is finished.
+[224] He can work for several production companies, but for only one at a time.
+Cross-examination
+[225] Mr. Déry signed a contract in English without knowing what he was signing (he does not understand English).
+[226] He was asked to prepare an invoice.
+[227] He worked seven days per week. Normally, the companies he works for send him T4 slips. He does not like working for companies that ask him to bill them. He considers himself to be an employee, not an independent contractor.
+[228] Rate of remuneration: This was not decided by him.
+[229] The hours and his pay were written on sheets given out after the work was finished.
+[230] Marco Proulx was the team leader.
+Twelfth witness: Emma Lacroix (respondent’s witness)
+[231] Ms. Lacroix was a production assistant for seven days.
+[232] She took care of the children during the shoot.
+[233] She was hired by the producer.
+[234] She looked after the needs of everyone, but of no one in particular. The assistant director, the director and the producer gave her tasks to perform.
+[235] She was a student in script writing.
+[236] Remuneration: She was informed of the rate and of the way she would be paid.
+[237] She prepared an invoice (Exhibit R-1, Tab 4 F).
+[238] Schedule: She had to be present from a certain time and had to leave work at times specified in the schedule provided on the time sheet.
+[239] She considered herself to be an employee.
+Cross-examination
+[240] Ms. Lacroix signed a Deal Memo (period from July 3 to July 23, 2014) (Exhibit A-1, Tab 10). She took what she was offered because she wanted to work.
+[241] Ms. Lacroix worked under the supervision of, and reported to, the production manager, who asked her to perform certain tasks.
+[242] In 2013, she was a production assistant for another production, but that was the only other time. She was in that instance paid at an hourly rate every other week (with no invoices). She was an employee doing the same work as in the present case.
+[243] One day, she was not available and she was replaced. She did not suggest anyone to replace her.
+Thirteenth witness: Luc Falardeau (respondent’s witness)
+[244] Mr. Falardeau is an appeals officer with the CRA.
+[245] He spoke to an AQTIS representative, Gabriel Tremblay Chaput, who told him that the workers could choose to work as employees or as independent contractors.
+[246] He considered the following factors in determining that the workers were employees:
+· The control that the payer had over the worker;
+· Whether the services rendered benefited the payer or the worker;
+· Chance of profit or risk of financial loss for the worker (expenses, subcontracting);
+· Remuneration: AQTIS parameters; whether the workers were confined within a specific framework;
+· Intention;
+· Case-by-case analysis of each worker.
+Analysis
+I Deference with regard to the Minister’s initial assessment of the facts
+[247] The respondent stressed the fact that the Tax Court of Canada must show deference regarding the assessment of the facts made by the Minister in determining the insurability of the employment at issue herein. I do not agree with this position. Under subsection 104(1) of EIA, the Tax Court of Canada has broad authority to decide any question of fact or law necessary to be decided in the course of an appeal under section 103 of the EIA, such as the question before it in this case. Other than with regard to the allegations of fact stated in the Reply to the Notice of Appeal, which must be taken as pleaded if the appellant has not proven their inaccuracy, the Court does not have to show deference to the Minister with respect to the assessment of facts in a case where the Minister determines whether employment is insurable under paragraph 5(1)(a) of EIA. Giving deference to the Minister’s assessment of the facts in all employment insurance cases before this Court would, in my view, result in stripping it of the powers and jurisdiction vested in it by the EIA.
+[248] Subsection 104(1) and paragraph 5(1)(a) of the EIA read as follows:
+104(1) The Tax Court of Canada and the Minister have authority to decide any question of fact or law necessary to be decided in the course of an appeal under section 91 or 103 or to reconsider an assessment under section 92 and to decide whether a person may be or is affected by the decision or assessment.
+104 (1) La Cour canadienne de l’impôt et le ministre ont le pouvoir de décider toute question de fait ou de droit qu’il est nécessaire de décider pour rendre une décision au titre de l’article 91 ou 103 ou pour reconsidérer une évaluation qui doit l’être au titre de l’article 92, ainsi que de décider si une personne est ou peut être concernée par la décision ou l’évaluation.
+------------------------------
+5(1) Subject to subsection (2), insurable employment is
+(a) employment in Canada by one or more employers, under any express or implied contract of service or apprenticeship, written or oral, whether the earnings of the employed person are received from the employer or some other person and whether the earnings are calculated by time or by the piece, or partly by time and partly by the piece, or otherwise;
+------------------------------
+5 (1) Sous réserve du paragraphe (2), est un emploi assurable :
+a) l’emploi exercé au Canada pour un ou plusieurs employeurs, aux termes d’un contrat de louage de services ou d’apprentissage exprès ou tacite, écrit ou verbal, que l’employé reçoive sa rémunération de l’employeur ou d’une autre personne et que la rémunération soit calculée soit au temps ou aux pièces, soit en partie au temps et en partie aux pièces, soit de toute autre manière.
+[249] In support of her position the respondent relies on Le Livreur Plus, [1] which, surprisingly, refers to a multitude of judgments, including Légaré [2] and Pérusse [3] of the Federal Court of Appeal, all of which deal with paragraph 5(3)(b) of the EIA, not paragraph 5(1)(a):
+[12] As already mentioned, the Minister assumed in support of his decision the existence of a number of facts obtained by inquiry from workers and the business he considered to be the employer. Those facts are taken as proven. It is for the person objecting to the Minister's decision to refute them.
+[13] The function of a Tax Court of Canada judge hearing an appeal from the Minister's decision is to verify the existence and accuracy of those facts and the assessment of them by the Minister or his officials, and after doing so, to decide in light of that whether the Minister's decision still seems to be reasonable: Légaré v. Canada (Minister of National Revenue—M.N.R.), [1999] F.C.J. No. 878; Pérusse v. Canada (Minister of National Revenue—M.N.R.), [2000] F.C.J. No. 310; Massignani v. Canada (Minister of National Revenue—M.N.R.), 2003 FCA 172; Bélanger v. Canada (Minister of National Revenue—M.N.R.), 2003 FCA 455. In fact, certain material facts relied on by the Minister may be refuted, or the view taken of them may not stand up to judicial review, so that because of their importance the apparent reasonableness of the Minister's decision will be completely destroyed or seriously undermined.
+[14] In exercising this function the judge must accord the Minister a certain measure of deference, as to the initial assessment, and cannot simply substitute his own opinion for that of the Minister unless there are new facts or evidence that the known facts were misunderstood or wrongly assessed: Pérusse v. Canada (Minister of National Revenue—M.N.R.), supra, paragraph 15.
+[15] The judge must make a legal analysis of the facts alleged by the Minister to determine whether they support the conclusion drawn by the latter from them. By this I mean that he must indicate how and why these facts establish, or tend to establish, the existence of a contract of employment rather than a contract of enterprise between the parties.
+------------------------------
+[250] I am of the view that the deference in question in Pérusse, to which the Court refers in Le Livreur Plus, is the deference that must be given by the Court, on judicial review, in the analysis regarding the existence of an arm’s length relationship between the worker and the employer under paragraph 5(3)(b) of the EIA, formerly subparagraph 3(2)(c)(ii) of the Unemployment Insurance Act (UIA). [4] Indeed, under paragraph 5(3)(b) of the EIA, and former subparagraph 3(2)(c)(ii) of the UIA, the minister is specifically empowered to exercise his or her discretion to determine whether it is reasonable to conclude that an employer who is related to an employee is dealing with the employee at arm’s length. Furthermore, in Le Livreur Plus, the Federal Court of Appeal does not explain on what basis deference should apply in all employment insurance cases. I base my reasoning in particular on Justice Marceau’s statement in Légaré [5] giving deference specifically to the analysis of the arm’s length relationship in employment insurance:
+2 In this matter, the Court has before it two applications for judicial review against two judgments by a judge of the Tax Court of Canada in related cases heard on the basis of common evidence which raise yet again the problems of interpretation and application of the saving provision, subparagraph 3(2)(c)(ii). I say yet again because since its passage in 1990, several decisions of the Tax Court of Canada and several judgments of this Court have already considered what workable meaning could be given to subparagraph 3(2)(c)(ii). In reading the text, the problems it poses beyond its deficient wording are immediately obvious, problems which essentially involve the nature of the role conferred on the Minister, the scope of the Minister's determination and, by extension, the extent of the Tax Court of Canada's general power of review in the context of an appeal under sections 70 et seq. of the Act.
+3 While the applicable principles for resolving these problems have frequently been discussed, judging by the number of disputes raised and opinions expressed, the statement of these principles has apparently not always been completely understood. For the purposes of the applications before us, we wish to restate the guidelines which can be drawn from this long line of authority, in terms which may perhaps make our findings more meaningful.
+4 The Act requires the Minister to make a determination based on his own conviction drawn from a review of the file. The wording used introduces a form of subjective element, and while this has been called a discretionary power of the Minister, this characterization should not obscure the fact that the exercise of this power must clearly be completely and exclusively based on an objective appreciation of known or inferred facts. And the Minister's determination is subject to review. In fact, the Act confers the power of review on the Tax Court of Canada on the basis of what is discovered in an inquiry carried out in the presence of all interested parties. The Court is not mandated to make the same kind of determination as the Minister and thus cannot purely and simply substitute its assessment for that of the Minister: that falls under the Minister's so-called discretionary power. However, the Court must verify whether the facts inferred or relied on by the Minister are real and were correctly assessed having regard to the context in which they occurred, and after doing so, it must decide whether the conclusion with which the Minister was “satisfied” still seems reasonable.
+[Emphasis added.]
+------------------------------
+[251] Paragraph 5(3)(b) of the EIA reads as follows:
+if the employer is, within the meaning of that Act [the Income Tax Act], related to the employee, they are deemed to deal with each other at arm’s length if the Minister of National Revenue is satisfied that, having regard to all the circumstances of the employment, including the remuneration paid, the terms and conditions, the duration and the nature and importance of the work performed, it is reasonable to conclude that they would have entered into a substantially similar contract of employment if they had been dealing with each other at arm’s length.
+[Emphasis added.]
+------------------------------
+l’employeur et l’employé, lorsqu’ils sont des personnes liées au sens de cette loi, sont réputés ne pas avoir de lien de dépendance si le ministre du Revenu national est convaincu qu’il est raisonnable de conclure, compte tenu de toutes les circonstances, notamment la rétribution versée, les modalités d’emploi ainsi que la durée, la nature et l’importance du travail accompli, qu’ils auraient conclu entre eux un contrat de travail à peu près semblable s’ils n’avaient pas eu de lien de dépendance.
+[Emphasis added.]
+[252] Subparagraph 3(2)(c)(ii) of the Unemployment Insurance Act stated:
+(ii) where the employer is, within the meaning of that Act [the Income Tax Act] , related to the employee, they shall be deemed to deal with each other at arm’s length if the Minister of National Revenue is satisfied that, having regard to all the circumstances of the employment, including the remuneration paid, the terms and conditions, the duration and the nature and importance of the work performed, it is reasonable to conclude that they would have entered into a substantially similar contract of employment if they had been dealing with each other at arm’s length;
+[Emphasis added.]
+------------------------------
+l’employeur et l’employé, lorsqu’ils sont des personnes liées entre elles, au sens de cette loi, étant réputés ne pas avoir de lien de dépendance si le ministre du Revenu national est convaincu qu’il est raisonnable de conclure, compte tenu de toutes les circonstances, notamment la rétribution versée, les modalités d’emploi ainsi que la durée, la nature et l’importance du travail accompli, qu’ils auraient conclu entre eux un contrat de travail à peu près semblable s’ils n’avaient pas eu un lien de dépendance.
+[Emphasis added.]
+[253] The words if the Minister of National Revenue is satisfied that used in paragraph 5(3)(b) of the EIA (which are not found in paragraph 5(1)(a) of the EIA) clearly and explicitly indicate that Parliament is granting the Minister an administrative discretion to determine whether there is an arm’s length relationship in the context of employment insurance. As mentioned by the Federal Court of Appeal in Légaré at paragraph 4, the wording used in former subparagraph 3(2)(c)(ii) of the UIA (now paragraph 5(3)(b) of the EIA), introduces a discretionary power of the Minister that is subject to review by the Tax Court of Canada (TCC). However, in conducting its review, the TCC is not mandated to make the same kind of determination as the Minister and thus cannot purely and simply substitute its assessment for that of the Minister: that falls under the Minister’s so-called discretionary power; hence the deference to be given to the Minister’s decision under this particular provision. In the insurability of employment analysis under paragraph 5(1)(a) of the EIA, such discretion is not granted to the Minister. Under paragraph 104(1) of the EIA, both the TCC and the Minister have authority to decide whether employment is insurable or not. In the circumstances, I am of the opinion that I am not required to show the Minister the same deference with regard to the assessment of the facts in the insurability of employment analysis under paragraph 5(1)(a) of the EIA.
+II Contractual relationship between the appellant and the eleven workers involved in this case
+[254] Quebec civil law defines the elements required for a contract of employment (employer/employee) or a contract of enterprise (contractual worker). Under article 2085 CCQ, for a contract of employment to exist, there must be work, remuneration and a relationship of subordination. Under article 2099 CCQ, for a contract of enterprise to exist, there must not be a relationship of subordination between the contractor and the client with respect to the performance of the contract. Moreover, in the definition, the Quebec legislature adds that the contractor is free to choose the means of performing the contract.
+[255] Thus, the concept of control is an essential element of the contract of employment. This concept of subordination or control brings into play indicia of supervision that are called points of reference. These indicia of supervision include the integration of the worker into the business, the chance of profit and risk of loss, as well as ownership of the tools (Grimard v. Canada, 2009 FCA 47, [2009] 4 F.C.R. 592, paras. 37 to 42).
+[256] Moreover, in 1392644 Ontario Inc., O/A Connor Homes v. The Minister of National Revenue 2013 FCA 85, the Federal Court of Appeal states that the parties’ express intention is an essential element to consider where there is indeed a common intention (para. 33). However, it must be acknowledged that the parties are not always in equal bargaining positions and that, in that context, the parties’ legal status cannot be determined solely on the basis of their stated intent. This determination must also be grounded in a verifiable objective reality (paras. 35 and 37).
+[257] The first step is therefore to determine the subjective intent of each party in the relationship (this can be deduced from the actual behaviour of the parties, i.e., by considering whether there were invoices for the services rendered, whether the provider was registered for GST purposes and whether the provider filed income tax returns as an independent contractor) (Connor Homes, para. 39).
+[258] The second step is to determine whether the objective reality confirms the parties’ subjective intent. In other words, do the terms and conditions of the contract, in light of the various applicable factors, accurately reflect the legal characterization of their relationship by the parties (Connor Homes, paras. 40 to 42)
+Intent of the parties
+[259] The appellant submits that under article 1426 CCQ, in interpreting a contract, the nature of the contract, the circumstances in which it was formed, the interpretation the parties have already given it or which it may have received, and usage are all taken into account.
+[260] The appellant refers to the socio-legal context surrounding the television production industry, namely the specific legislation, as well as usage in the industry, to argue that the workers in this case are governed by a special regime that gives them a hybrid status. Thus, the appellant submits that these workers have the freedom to offer their services as independent contractors or as employees, without either type of relationship affecting their right to benefit from the minimum conditions and the protections and benefits provided for in the collective agreement negotiated by their artists’ association with the association of producers in the sector in question (Appellant’s Written Submissions, para. 198).
+[261] The appellant does not question the statements made by AQTIS representative Gabriel Tremblay Chaput that it was the members’ choice to determine their status themselves. The Appellant submits moreover that this shows that the producer cannot impose a particular status under the collective agreement and that the workers freely decided to sign the rider that accompanied the AQTIS contract and which stated that their status was that of independent contractor (Appellant’s Written Submissions, paras. 201-202).
+[262] I mentioned at the beginning of my reasons that the respondent admitted that both the appellant and the workers had agreed that the workers were being hired as independent contractors (under a “contract for services”) (Notice of Appeal, para. 75; Reply, para. 2).
+[263] The respondent also admitted that each of the AQTIS members could have refused to sign the agreement if the conditions offered did not meet the worker’s expectations or if the worker simply was not available during the production period (Notice of Appeal, para. 47, Reply, para. 2).
+[264] As regards the workers who signed a Deal Memo, the respondent admitted that three of them, namely Inga Sibiga, Peter Weir and Paul Dufresne-Laroche, considered themselves to be independent contractors when they signed the Deal Memo (Notice of Appeal, paras. 62 to 70; Reply, paras. 2, 12, 13).
+[265] The evidence also showed, from the appellant’s perspective, that the entire budget was planned in advance, that they tried to avoid having the workers do overtime to perform their tasks, and that everything had been designed so that the employees would be hired as independent contractors. In the producer’s view, this was perfectly legal and authorized by the various statutes and rules that apply in the television production industry. Moreover, the AQTIS representative questioned by Mr. Falardeau, the CRA appeals officer, confirmed that the members of AQTIS had the choice of working as an employee or as an independent contractor.
+[266] With respect to the workers, the evidence showed that some considered themselves to be independent contractors while others did not really understand the distinction between the two: what mattered for them was being able to work. Others said that since it was a short-term contract they did not really consider themselves to be employees. With the exception of one or two workers, they all reported the remuneration received from the appellant as professional or business income.
+[267] In my opinion, it can be concluded from the behaviour of each party to the contract, as well as from the respondent’s admissions, that the subjective intent was that their contractual relationship be considered as one in which independent contractors hired themselves out to work in the appellant’s television production.
+[268] The second step is to determine whether the objective reality confirms the parties’ subjective intent. In other words, do the terms and conditions of the contract, in light of the various applicable factors, accurately reflect the legal characterization of their relationship by the parties (Connor Homes, paras. 40 to 42).
+Legal characterization of the contract
+[269] It is now well recognized that the legal characterization of a contract must be determined on the basis of the actual overall relationship between the parties in an ever-evolving work world (Wolf v. Canada, [2002] 4 F.C. 396 (FCA)). The degree of control, the ownership of work tools, the chance of profit and risk of loss, and integration are all indicia that can be used as points of reference when characterizing the contractual relationship (Le Livreur Plus, supra).
+[270] In Attorney General of Canada v. Productions Petit Bonhomme Inc., 2004 FCA 54, aff’g. [2002] T.C.J. No. 595 (QL); 2002 CanLII 864 (TCC), it was held that workers in the field of television program production did not hold insurable employment within the meaning of paragraph 5(1)(a) of the EIA. The workers in question were camera operators, sound recordists, switchers, unit managers, boom operators, makeup artists, props persons, grips, electricians, directors of photography and video recorder operators.
+[271] At trial, Judge Angers, in considering the issue of control, stated the following at paragraphs 94 and 95:
+Control
+[94] Control is an important factor in determining whether there is a contract of service or a contract for services in a given case. In Gallant v. M.N.R., [1986] F.C.J. No. 330, the Federal Court of Appeal points out that the distinguishing feature of a contract of service is not the control actually exercised by the employer over its employee, but the power the employer has to control the way the employee performs his duties.
+[95] These appeals involve producers of television programs who, to achieve their objective, must bring together a group of participants who each have their own knowledge, know-how, talent and creativity. These producers therefore call upon various APVQ [which became the AQTIS] members and workers whose positions are included in the defined representative cases and whose services are required in order to produce these programs. Although the script is certainly created in advance by the producers and writers, the finished product will be the result of the talent, know-how and creativity contributed by each person at each stage of the production.
+[Underlined text added.]
+[272] In that case, the evidence showed that all workers could negotiate their hourly wage rate.
+[273] As for the number of hours worked, Judge Angers found that there was no control exercised with regard to those hours since, under the collective agreement between the Association des producteurs de films et de télévision au Québec and the APVQ (Association des professionnels de la video du Québec) (now AQTIS), a minimum of 10 hours per day was guaranteed. The workers had to show up in the morning at the location where the filming was to take place. The signed contracts included a “mutual understanding” clause that allowed the workers to have someone replace them if they were not available on a given day of filming. In some cases, workers could find their own replacement; in others, it was the producer who would find the replacement. The producer paid the replacement worker (paras. 83, 96, 107).
+[274] As for each person’s work, it was described as being part of a team effort, the purpose of which was to produce a television show within a tight deadline. Everyone had to adhere to the filming schedule in accordance with to the filming plan, whether on the set or not. Judge Angers concluded as follows at paragraph 104:
+[104] All these features of each person’s involvement in the production of the programs in question support the conclusion that a production of this type is the result of the ideas, talent, creativity, and know-how brought by all to the performance of their respective duties, which they carry out under the control of the producer in terms of how their work is to be done. Everything takes place in an atmosphere of collaboration among professionals. Thus, the situation of the workers in these appeals is more like that of self-employed workers.
+[275] Judge Angers then considered the fact that certain workers needed tools to perform their work while others used equipment that was made available to them by the producer. There was no real chance of profit or risk of loss, as the workers were guaranteed a fixed remuneration. As for integration, Judge Angers took into account the fact that the collective agreement governing the workers who were members of the APVQ (now AQTIS) gave freelance workers the freedom to bargain individually. Under that agreement, workers were entitled to have themselves replaced, if necessary, and even to choose their own replacements. This allowed each worker to be hired by other production companies, which gave the workers a freedom of action that made them independent (para. 107). Judge Angers came to the same conclusion for the workers who were not members of the APVQ, as most signed the same standard form contract provided for in the collective agreement. All the workers were therefore considered to be self-employed workers.
+[276] The Federal Court of Appeal affirmed the trial decision, noting that the case involved a hybrid contract situation, where certain factors favoured the existence of a contract of employment (art. 2085 CCQ), and others the existence of a contract of enterprise (art. 2098 CCQ). The Court stated the following:
+[5] Thus, for example, the agreement concluded between the Association des producteurs de film et de télévision du Québec (the APFTQ), the Association québécoise de l’industrie du disque, du spectacle et de la vidéo (the ADISQ) and the Association des professionnels(les) de la vidéo du Québec (the APVQ) is in many respects similar to the type of collective agreement that usually governs relations between an employer and an employee. However, it differs in other respects, including the freedom of the workers in question to individually negotiate their daily pay and to have themselves replaced when necessary under a so-called “goodwill” rule, the producer’s obligation to take into account other commitments the worker may have contracted with other producers before setting the production date, its non-application to technicians providing their services through a commercial corporation and the right of either party to cancel the contract without penalty.
+[6] In view inter alia of the provisions of the Quebec Act respecting the Professional Status and Conditions of Engagement of Performing, Recording and Film Artists (R.S.Q., c. S-32.1) and the federal Status of the Artist Act (S.C. 1992, c. 33) and in view of the certification orders made by the authorities in question, it appears that legislatures and producers and workers in the performing, recording and film field do not hesitate to regard workers in those fields as independent contractors.
+[7] Pursuant to the opinions issued by this Court in Wolf v. Canada, [2002] 4 F.C. 396 (F.C.A.), the legal nature of a contract must be determined in accordance with the actual overall relationship of the parties in a constantly changing working world. The workers here are alert free-lancers who go from one producer to another and from one production to another, sometimes on a daily basis. In these circumstances, it is entirely possible to conclude that the working relationships do not have the degree of continuity, loyalty, security, subordination and integration generally associated with a contract of employment.
+[277] The respondent refers to this Court’s decision in Bernier v. Canada (Minister of National Revenue-M.N.R.), 2011 TCC 99, [2011] T.C.J. No. 81 (QL), to support the argument that the workers in question in the present case should be treated in a similar manner to that in which the two workers in Bernier were treated. In that case, one of the workers had been hired primarily as technical director and secondarily as assistant cameraman for a children’s television program produced by a production company controlled by Jonathan Finkelstein. The other worker had been hired as camera assistant for another film production company, specializing in feature-length and short author’s films. The Court concluded that the two workers held insurable employment.
+[278] I agree with the appellant that Bernier cannot be used as a basis for setting aside the conclusions that this Court and the Federal Court of Appeal reached in Productions Petit Bonhomme. For one thing, Bernier was not appealed, and the decision of the Federal Court of Appeal in Productions Petit Bonhomme is still a leading case. Moreover, I do not believe that it can be argued that Productions Petit Bonhomme should be disregarded simply because it predates 9041-6868 Québec Inc. v. Minister of National Revenue, 2005 FCA 334 (which the trial judge in Bernier refers to as the Tambeau case at paragraph 71 of his reasons). In Tambeau, the Federal Court of Appeal criticized the trial judge for not addressing the CCQ provisions and only considering the common law rules as stated in Wiebe Door Services Ltd. v. M.N.R., [1986] 3 F.C. 553 and 671122 Ontario Ltd. v. Sagaz Industries Canada Inc., [2001] 2 S.C.R. 983, to determine whether Mr. Tambeau held insurable employment within the meaning of paragraph 5(1)(a) of the EIA. The Federal Court of Appeal ruled that it is the CCQ that determines which rules apply to a contract entered into in the province of Quebec (para. 7).
+[279] In Productions Petit Bonhomme, however, the trial judge, in his analysis, had indeed considered articles 2085 to 2100 CCQ in establishing the contractual relationship between the parties. In doing so, he ruled that control was an important element in determining whether the workers in question had been hired under a contract of service or of enterprise. He concluded on the issue of control that the situation of the workers was more like that of self-employed workers (para. 104). As noted above, the Federal Court of Appeal confirmed this finding. While it is true that the Court had also considered the principles stated in Sagaz and Wiebe Door, the Federal Court of Appeal clearly established in Wolf v. Canada, supra, and later in Le Livreur Plus, supra, that the criteria considered in these common law decisions may also be considered in the context of Quebec law. I therefore do not believe we can query (as the trial judge seems to suggest in Bernier [6] ) whether the result would have been the same in Productions Petit Bonhomme if the trial judge had applied the subordination test as the sole test in accordance with the CCQ provisions.
+[280] Additionally, in Bernier, the parties had not clearly described in their written agreement the nature of that agreement. They had not specified whether it was a contract of employment or a contract for services. In Bernier, the judge summarized the facts as follows: both workers were supervised by the production director, director or floor manager and, in the case of the camera assistant, by the cameraman. They received instructions concerning the job they had to do, where they were to do it and the schedule they were to follow, as evidenced by the “call sheets” distributed every day during the production period. Neither of them could take time off without a serious reason, and they had to inform the producer beforehand. Their mealtimes were determined by their director. The workers could not have anyone replace them unless they had the payer’s authorization. The trial judge found that mandatory presence at a work place, the regular assignment of work, the requirement of activity reports and the fact that most of the tools required for the production were provided by the production companies were all indicia that supported the view that the payer exerciced a right of direction or control over the workers. The judge did recognize, however, that a short-term contract might suggest that a worker was not subject to the direction and control of the payer (para. 74).
+[281] Contrary to the finding of both this Court and the Federal Court of Appeal in Productions Petit Bonhomme, the trial judge in Bernier found that the fact that the two workers were integrated into a team to perform their work was a strong indicator of supervision, which eliminated, or at least reduced considerably, the possibility that the technical director and the camera assistant had the freedom to choose the means of performance. According to the judge in Bernier, the fact that a worker was part of a film crew implied inherent subordination and accordingly showed that the worker was required to perform services under the direction or control of the payer (paras. 68-69).
+[282] In contrast, in Royal Winnipeg Ballet v. M.N.R., 2006 FCA 87, [2007] 1 F.C.R. 35, the majority in the Federal Court of Appeal found that dancers engaged by the Royal Winnipeg Ballet for a series of ballets to be staged during a carefully planned season of performances were independent contractors, considering that everyone, including the dancers’ bargaining agent, had agreed that the dancers in question were independent contractors. The evidence showed that the rehearsal and performance of a ballet were the product of an artistic collaboration in which there were a number of participants, in addition to the dancers.
+[283] It now remains for me to analyze the evidence in light of the various legal principles that apply to the legal characterization of the contract between the workers and the appellant in the present case. This characterization will be done by viewing the matter through the prism of the workers’ overall relationship, taking into consideration various points of reference, which may vary from one worker to another. I am of the opinion that certain indicia, such as the chance of profit and risk of loss, which may be unfavourable to the appellant, do not carry, as in Productions Petit Bonhomme, sufficient weight in the specific circumstances of television production to change the conclusion I will reach with regard to each worker.
+[284] Moreover, in view of the evidence, I am of the opinion that the workers who were hired through AQTIS benefited from similar provisions to those that seemed to exist in Productions Petit Bonhomme with regard to the minimum conditions of employment (filming schedule to be followed, guaranteed minimum number of hours and time sheets completed by the production coordinator, and the right to negotiate the hourly rate, either individually or through AQTIS by virtue of the application of the rate negotiated by that organization). Since, with regard to television industry workers, Productions Petit Bonhomme has so far not been called into question by a court of appeal, I shall base my analysis of the contractual relationship of each of the workers on the facts that are specific to each, while at the same time respecting the doctrine of stare decisis in this area.
+[285] Angela Depalma: She was the associate producer and signed a specific agreement in which she acknowledged that she would be providing her services as an independent contractor for $260 per day “for partial weeks of service” (Associate Producer Agreement, Exhibit A-1, Tab 2). After collecting information from the production team, she was to ensure that all positions were filled and that everything was in place on the set for filming. She could work from home and did not have a specific schedule, but she preferred to work at the appellant’s office so as to have easier access to the filming scripts, and she arranged to be present at the same time as the producer and director in order to fully understand what was expected from the production. She said herself that she was not supervised. She has worked in television production since 1998. When she had to be away, she recommended someone to replace her.
+[286] In my opinion, even though she said in her testimony that she did not really know where the fine line between a contract of enterprise and a contract of employment was to be drawn, she did know enough to register for GST in 2012 and to report business income of $22,420 in 2014. While the contract she signed states that she was to provide the services personally, in accordance with the guidelines given by her immediate superior, and that she was subject to a probation period, her testimony and that of Mr. Gillis was that she had the expertise and latitude to perform her work in a manner that met the production’s goals, without any actual supervision. In this sense, I find that her situation is more like that in Wolf, where the Federal Court of Appeal found that it was dealing with a worker who had chosen to offer his services as an independent contractor and who provided such services as a self-employed worker. I also note that in Wolf the worker had signed a one-year contract whereby his personal professional services were being made available to the payer, that the payer could terminate the contract if Mr. Wolf did not provide his services in a workmanlike and professional manner, and that, although he could choose his hours of work, he was expected to be present during normal working hours.
+[287] I am therefore of the opinion that Angela Depalma was not an employee of the appellant during the period at issue.
+[288] Inga Sibiga: Ms. Sibiga was production coordinator and signed a “Deal Memo” with the appellant. The Respondent admitted that she considered herself to be an independent contractor. She worked for two days, largely from home, and her duties were similar to Angela Depalma’s. Thus, she had to plan the schedules of all the participants in the production and ensure that all the required materials were on the set at the appropriate time. At the time she provided her services to the appellant, she had always been self-employed. She reported her income on that basis in 2014. Although she did not have a schedule to follow, she had to be on the set during the hours required for filming. In my opinion, this circumstance alone does not alter the fact that she can be considered an independent contractor. The situation would be the same for anyone involved in the production, whether as an employee or as an independent professional (Royal Winnipeg Ballet, supra).
+[289] It is therefore my opinion that Ms. Sibiga was not an employee of the appellant during the period at issue.
+[290] Jean-François Noël: Mr. Noël was an assistant director, and his duties were the same as Angela Depalma’s, but for the French production. He was a member of AQTIS and signed the rider to the AQTIS contract, wherein it is stated that he was employed as an independent contractor. Considering the short duration of his contract, he felt it was justified that he not be considered an employee. He thought of himself as a freelancer. While his presence as assistant director was necessary, he suggested that he could, with the approval of the director, have found a replacement for himself if he got another contract somewhere else at the same time. Indeed, he did work for other production companies during 2014.
+[291] As for his schedule, he testified that there was nothing specific, except as regards the meetings he had to attend and the times when filming was taking place. For 2014 he reported employment and business income.
+[292] Although Mr. Noël stated that he had worked for other producers as an employee, it is my view that the work he performed for the appellant could just as well be considered as work by an independent contractor, that, as in Wolf, this worker offered his services as a person working for himself, and that the characterization by the parties of their relationship must be given significant weight (Wolf, para. 122). It is therefore my opinion that Mr. Noël was not an employee of the Appellant during the period at issue.
+[293] Claude Babin: Mr. Babin was the gaffer and, as a member of AQTIS, signed two employment contracts with a rider stating that he was providing his services as an independent contractor. He worked for a short period. He provided his services in collaboration with the photography director. He knew what he had to do and worked according to the schedule planned for the scenes, without any supervision as such.
+[294] Although he said that he did not consider himself to be in business, he also said he did not work exclusively for the appellant and could work for more than one producer in a week.
+[295] He also explained that as a member of AQTIS he can get away 10% of the time and have himself replaced, with the approval of the photography director.
+[296] It seems that he did not report the income from the appellant.
+[297] In my opinion, here again we have a case where the legal criteria point in both directions. This worker was a professional who offered his services to several producers, who was not under any specific supervision and who worked in collaboration with the photography director. Although he stated that he had signed the rider without looking at it, he also said that he put his trust in the producer.
+[298] In my opinion, this worker, like the workers in Productions Petit Bonhomme, was an independent contractor.
+[299] Olivier Barbès-Morin: Mr. Barbès-Morin was an assistant cameraman. He also signed, as a member of AQTIS, a contract with a rider stating that he was providing his services as an independent contractor. He said that he considered himself to be a freelancer. As for the work, once he knew what the photography director’s guidelines were, he knew what he had to do. He did not work exclusively for the appellant and could take multiple contracts elsewhere. He followed the schedule negotiated by AQTIS and was paid at a higher hourly rate than that imposed by AQTIS, submitting for remuneration purposes AQTIS time sheets. He reported his income from the appellant as business income for 2014. He did not need to have himself replaced.
+[300] I am of the view that this worker, like the workers in Productions Petit Bonhomme and Wolf, is an independent contractor.
+[301] Claudine Bailey: Ms. Bailey was a dresser (costumer) and a freelance member of AQTIS. She signed two AQTIS contracts with a rider stating that she was providing her services as an independent contractor. She chose the costumes and then had them approved by the director. She followed the filming schedule, and her costumes had to be ready for the filming. As an AQTIS member, she was paid for a minimum number of hours and did not incur any expenses as such. She reported her income as business income when she realized she would not be receiving a T4 for her work.
+[302] She admitted that she was not pressured into signing the contracts, but said she did not consider herself to be an independent contractor because she had been an employee when doing the same work in the past for Radio-Canada. She did mention, however, that she had only had part-time employment at Radio-Canada and that she had the right to offer her services to different producers. She also said that she was accountable, but at the same time she added that she had the initiative with respect to costume design.
+[303] In my opinion, her contractual agreement is no different than that of Claude Babin, who said he did not consider himself to be in business but still agreed to sign the AQTIS agreement. Ms. Bailey stated clearly that no pressure was exerted on her. I am of the view that Ms. Bailey was an independent contractor.
+[304] Éric Déry: Mr. Déry was a grip and signed, as a member of AQTIS, two contracts of one day each containing a rider stating that he was providing his services as an independent contractor. He said that he signed these contracts without knowing what he was signing and that he considered himself to be an employee.
+[305] However, he also said that he worked seven days a week for several production companies. His work was to transport the materials required for building the set. He would return to take everything down once the filming was completed.
+[306] He was guaranteed remuneration for 10 hours per day, as negotiated by AQTIS, and his hours worked and remuneration were recorded on AQTIS work sheets. He was paid upon receipt of an invoice.
+[307] In my opinion, he was an independent contractor. He was not under any real supervision, worked only two days and was subject to the same conditions as the other members of AQTIS. The AQTIS representative noted that the workers were free to be hired either as employees or as independent contractors.
+[308] Paul Dufresne-Laroche: Mr. Dufresne-Laroche was a production assistant and he signed a Deal Memo which set his remuneration without specifying any fixed work period. The respondent admitted that Mr. Dufresne-Laroche considered himself to be an independent contractor. He so considered himself because he had to issue invoices. The fact of the matter is, however, that he did not know the difference between an employee and an independent contractor.
+[309] He was a student, and this was his first job in the field. He worked 49 days and did what the production coordinator or the others on the set told him to do. He had no expenses. He reported his income as professional income.
+[310] I note that nowhere in the Deal Memo is it stated that this worker was being hired as an independent contractor (Exhibit A-1, Tab 9). In my opinion, the situation is therefore different for this worker.
+[311] Here we have a worker with no experience, who specifically said that he was under the supervision of the production coordinator, who was learning and who worked according to a specific schedule for a longer period of time. It would appear that he did not agree in writing to independent contractor status. I therefore find that he was not an independent contractor, but rather held insurable employment in the circumstances.
+[312] Dominic Remiro: Mr. Remiro was also a production assistant. He likewise signed a Deal Memo — but for a period of two days — which established his daily remuneration. He was hired to replace someone and he considered himself to be an independent contrractor.
+[313] He had just completed his studies in communications (television) and had already worked on other contracts for production companies. In the present case, he worked long hours for two days on set.
+[314] He met the requests of the floor manager, the assistant director and the photography director. He did not have a schedule as such, but had to arrive at a specific time in the morning. He indicated that thereafter he was under no direct supervision as he was alone during the day. However, he could have been asked to redo his work if it was unsatisfactory.
+[315] He reported both employment income and business income.
+[316] Here too, I note that the Deal Memo contains no clauses dealing with the status of the worker. However, unlike Paul Dufresne-Laroche, this worker reported business income and had experience in the field when he was hired. I am therefore of the opinion that it was with full awareness that this worker considered himself to be an independent contractor. Moreover, he only worked for two days. Although he had to be on set at a specific time in the morning, he carried out his duties without very much supervision. He worked long hours during those two days for a lump-sum amount. He was in a way a loser from a financial standpoint because the lump-sum remuneration he received was not advantageous considering the number of hours he worked. In my opinion, this is a hybrid case, and I am of the view that, as in Wolf, weight should be given to both parties’ intention. I therefore consider this worker to have been an independent contractor.
+[317] Emma Lacroix: Ms. Lacroix was a production assistant and signed a Deal Memo that was for a period of seven days and which set her daily remuneration. She was a student in screen writing and was hired to take care of children during the filming. She considered herself to be an employee. She had a specific work schedule and said she worked under the supervision of the production director.
+[318] Here again, there is nothing in the Deal Memo to indicate that the worker was hired as an independent contractor. I also note that she reported her income as employment income (Exhibit R-1, Tabs 4 F and 4 EE). It is therefore my opinion that her case is more akin to that of Paul Dufresne-Laroche and that she held insurable employment.
+[319] Peter Weir: Mr. Weir did not testify. He was hired as a production assistant. According to the pleadings, he signed a Deal Memo for a period of 14 days, and the respondent admitted that he considered himself to be an independent contractor. He reported total income of $800 for 2014 without specifying the nature of this income (Exhibit R-1, Tab 4 AA).
+[320] No explanation was given for the absence of this witness, but considering the respondent’s admission and in the absence of additional evidence regarding him, I will accept the parties’ characterization of Mr. Weir as an independent contractor.
+[321] The appeals are therefore allowed for all the workers, except Paul Dufresne‑Laroche and Emma Lacroix, who I consider to have been employees for the period at issue.
+Signed at Ottawa, Canada, this 31st day of May 2019.
+“Lucie Lamarre”
+Lamarre A.C.J.
+CITATION:
+2019 TCC 127
+COURT FILE NO.:
+2016-2743(EI)
+STYLE OF CAUSE:
+MWW ENTERPRISES INC. v. THE MINISTER OF NATIONAL REVENUE
+PLACE OF HEARING:
+Montreal, Quebec
+DATE OF HEARING:
+WRITTEN SUBMISSIONS:
+APPELLANT:
+RESPONDENT:
+APPELLANT’S REBUTTAL:
+June 12 and 13, 2018
+June 22, 2018
+July 11, 2018
+July 18, 2018
+REASONS FOR JUDGMENT BY:
+The Honourable Associate Chief Justice Lucie Lamarre
+DATE OF JUDGMENT:
+May 31, 2019
+APPEARANCES:
+Counsel for the Appellant:
+Julie Forest
+Wendy Sfeir
+Counsel for the Respondent:
+Marilou Bordeleau
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Julie Forest
+Wendy Sfeir
+Firm:
+Robinson Sheppard Shapiro
+Montreal, Quebec
+For the Respondent:
+David Lametti
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Le Livreur Plus v. Minister of National Revenue, 2004 FCA 68, paras. 12-15.
+[2] Légaré v. Minister of National Revenue, 1999 CarswellNat 1458.
+[3] Pérusse v. Minister of National Revenue, 2000 CarswellNat 3348.
+[4] Unemployment Insurance Act, R.S.C. 1985, c. U-1.
+[5] Légaré v. Minister of National Revenue, supra, paras. 2-4.
+[6] at paragraph 56 where he cites, as part of a lenghty excerpt, footnote 119 from his article entitled "Contract of Employment: Why Wiebe Door Services Ltd. Does Not Apply in Quebec and What Should Replace It", in The Harmonization of Federal Legislation With Quebec Civil Law and Canadian Bijuralism, Second Collection of Studies in Tax Law (2005), APFF, Department of Justice Canada

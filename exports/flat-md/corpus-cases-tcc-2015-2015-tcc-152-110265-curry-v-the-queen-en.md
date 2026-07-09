@@ -1,0 +1,170 @@
+---
+title: "Curry v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/110265/index.do"
+last_modified: "2015-06-18"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2015 TCC 152"
+citation2: ""
+neutral_citation: "2015 TCC 152"
+decision_date: "2015-06-18"
+language: "en"
+item_id: "110265"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2650
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T10:18:49.875000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "2d115db42e0dbc06eed6afa51e7206960b629a5517b4136d964e2b1ae46e4ed9"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Curry v. The Queen
+
+- Citation: 2015 TCC 152
+- Decision date: 2015-06-18
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2650, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Curry v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2015-06-18
+Neutral citation
+2015 TCC 152
+File numbers
+2014-3099(IT)I
+Judges and Taxing Officers
+Valerie A. Miller
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2014-3099(IT)I
+BETWEEN:
+CALVIN E. CURRY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on May 29, 2015, at Hamilton, Ontario
+Before: The Honourable Justice Valerie Miller
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Devon E. Peavoy
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act for the Appellant’s 2011 and 2012 taxation years is dismissed.
+Signed at Ottawa, Canada, this 18th day of June 2015.
+“V.A. Miller”
+V.A. Miller J.
+Citation: 2015TCC152
+Date: 20150618
+Docket: 2014-3099(IT)I
+BETWEEN:
+CALVIN E. CURRY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+V.A. Miller J.
+[1] The issue in this appeal is whether the Appellant is entitled to claim the tax credits for a Wholly Dependent Person and the Child Amount (the “Tax Credits”) with respect to his daughter in his 2011 and 2012 taxation years. The Appellant did not claim the Tax Credits in the 2011 taxation year but he did claim them in the 2012 taxation year.
+[2] The witnesses at the hearing were the Appellant and his former spouse, Genevieve Morris.
+[3] The Appellant and Genevieve Morris have a child M.C. (the “Child”) who was born in 2000.
+[4] The Appellant and his former spouse have been living separate and apart since at least September 2002. On November 21, 2002 the Ontario Court of Justice issued an Order granting them joint custody of their Child. In that Order, the Appellant was directed that he “shall pay child support in the amount of $296.00 per month”. The amount of child support which the Appellant had to pay was calculated by deducting the former spouse’s contribution to child support from that payable by the Appellant.
+[5] Following the November 2002 Order, the Appellant and/or his former spouse made applications to the Ontario Court of Justice on several occasions. The following Orders were issued as a result of those applications:
+a) On June 15, 2010, the former spouse was given sole custody of the Child and the Appellant was given access on various terms. There was no mention of child support in the Order and the child support continued to be payable in accordance with the Order dated November 21, 2002.
+b) On January 4, 2012, the Appellant was again given joint custody of the Child. According to the Order the Appellant’s payments for child support were in arrears.
+c) On April 10, 2012, the Appellant was ordered to pay ongoing child support in the amount of $247.98 monthly commencing on January 1, 2012 based on his income of $30,199.
+d) On June 3, 2013, the Appellant was ordered to pay child support in the amount of $88 monthly commencing July 1, 2012 “based on an offsetting 2012 incomes”.
+e) The June 3, 2013 Order was amended on September 23, 2013 to reflect that the commencement date for child support of $88 should have been July 1, 2013.
+[6] The Appellant stated that he had claimed an amount for an eligible dependent in his 2002 income tax return. However, his claim was disallowed. In a letter dated November 13, 2003, an officer from the Canada Revenue Agency (“CRA”) explained that the Appellant could not make the claim for his daughter because he was required to make support payments for her.
+[7] I gather that the Appellant made enquires to the CRA about his eligibility for the Canada Child Tax Benefit (“CCTB”) for the period from July 2011 to present. The Appellant submitted a letter which he had received from the CRA and which explained that he had to send them various documents so that his eligibility for the CCTB and GST/HST credit could be determined. However, there was no evidence that a determination was ever made and the only issue in the appeal before me concerned the Tax Credits.
+[8] Genevieve Morris testified that she had originally claimed and received the Tax Credits for the Child for 2011 and 2012. However, by letter dated April 29, 2014 from the CRA, she was informed that both she and “another individual” met the conditions for claiming the Tax Credits under paragraphs 118(1)(b) and (b.1) with respect to her daughter. The letter further advised that paragraph 118(4)(c) of the Income Tax Act (“ITA”) provided that not more than one individual is entitled to claim the Tax Credits with respect to the same dependant. The letter concluded that where there are two or more individuals who are otherwise entitled to make such a claim and they fail to agree as to who will make the claim, no such claim will be allowed to either or any of them.
+[9] The Appellant refused to agree that he and Genevieve Morris could claim the Tax Credits in alternate years.
+[10] On June 12, 2014, Genevieve Morris was reassessed for her 2011 taxation year to disallow her claim for the tax credits for a Wholly Dependent Person and the Child Amount. She was allowed to claim the Tax Credits for the 2012 taxation year.
+[11] The relevant subsections of the ITA are as follows:
+118. (1) For the purpose of computing the tax payable under this Part by an individual for a taxation year,
+Wholly dependent person
+(b) in the case of an individual who does not claim a deduction for the year because of paragraph 118(1)(a) and who, at any time in the year,
+(i) is
+(A) a person who is unmarried and who does not live in a common-law partnership, or
+(B) a person who is married or in a common-law partnership, who neither supported nor lived with their spouse or common law-partner and who is not supported by that spouse or common-law partner, and
+(ii) whether alone or jointly with one or more other persons, maintains a self-contained domestic establishment (in which the individual lives) and actually supports in that establishment a person who, at that time, is
+(A) except in the case of a child of the individual, resident in Canada,
+(B) wholly dependent for support on the individual, or the individual and the other person or persons, as the case may be,
+(C) related to the individual, and
+(D) except in the case of a parent or grandparent of the individual, either under 18 years of age or so dependent by reason of mental or physical infirmity,
+an amount equal to the total of
+Child amount
+(b.1) if
+(i) a child, who is under the age of 18 years at the end of the taxation year, of the individual ordinarily resides throughout the taxation year with the individual together with another parent of the child, the total of
+(A) $2,131 for each such child, and
+(B) $2,000 for each such child who, by reason of mental or physical infirmity, is likely to be, for a long and continuous period of indefinite duration, dependent on others for significantly more assistance in attending to the child’s personal needs and care, when compared to children of the same age, or
+(ii) except where subparagraph (i) applies, the individual may deduct an amount under paragraph (b) in respect of the individual’s child who is under the age of 18 years at the end of the taxation year, or could deduct such an amount in respect of that child if paragraph (4)(a) and the reference in paragraph (4)(b) to “or the same domestic establishment” did not apply to the individual for the taxation year and if the child had no income for the year, the total of
+(4) For the purposes of subsection 118(1), the following rules apply:
+b) not more than one individual is entitled to a deduction under subsection (1) because of paragraph (b) of the description of B in that subsection for a taxation year in respect of the same person or the same domestic establishment and where two or more individuals otherwise entitled to such a deduction fail to agree as to the individual by whom the deduction may be made, no such deduction for the year shall be allowed to either or any of them;
+(b.1) not more than one individual is entitled to a deduction under subsection (1) because of paragraph (b.1) of the description of B in that subsection for a taxation year in respect of the same child and where two or more individuals otherwise entitled to such a deduction fail to agree as to the individual by whom the deduction may be made, no such deduction for the year shall be allowed to either or any of them;
+(5) No amount may be deducted under subsection (1) in computing an individual’s tax payable under this Part for a taxation year in respect of a person where the individual is required to pay a support amount (within the meaning assigned by subsection 56.1(4)) to the individual’s spouse or common-law partner or former spouse or common-law partner in respect of the person and the individual
+[12] It was the Appellant’s position that both he and his former spouse had to pay child support. He should be allowed to claim his daughter as a dependent in 2011 and 2012 because his former spouse had claimed and received the Tax Credits in previous years.
+[13] I disagree with the Appellant. He was not eligible to claim the Tax Credits for his daughter in the years in issue because he had to pay child support in both 2011 and 2012. Only the former spouse was eligible to receive the Tax Credits in 2011 and 2012.
+[14] The assumptions made by the Minister of National Revenue (“Minister”) were incorrect. In the Reply, the Minister incorrectly assumed that the Order dated November 21, 2002 required the Appellant and his former spouse to pay child support to each other. As a consequence, the Minister also incorrectly assumed that the Appellant and his former spouse were both eligible to claim the Tax Credits for the 2011 taxation year.
+[15] The child support payments for 2011 were made in accordance with the Order dated November 21, 2002 and those paid in 2012 were made in accordance with the Order dated April 10, 2012.
+[16] Paragraph 17 in the November 21, 2002 Order addressed the amount of the child support that the Appellant had to pay. It read:
+17. Commencing September, 2002, the Applicant/father shall pay child support in the amount of $296.00 per month, payable on September 1, 2002, based on the sharing of time between the parties. This is calculated on the Applicant/father’s income of $45,200.00 at $389.00 per month, and less the Respondent/mother’s contribution of $93.00 per month based on he (sic) income of $11,700.00.
+[17] According to this paragraph, both parents are required to contribute to the Child’s maintenance but once the former spouse’s contribution is set-off against the Appellant’s contribution, only the Appellant had to pay a support amount: Verones v R, 2013 FCA 69. It is clear from the wording of the Order that only the Appellant had to pay a support amount for 2011.
+[18] Paragraph 2 of the Order dated April 10, 2012 reads:
+2. Calvin Curry shall pay ongoing child support for the child… born October 22, 2000 in the amount of $247.98 per month commencing January 1, 2012, based on a 2011 line 150 income of $30,199.00.
+[19] In 2012, the Appellant was required to pay child support and he was not eligible to claim the Tax Credits.
+[20] The former spouse should not have been reassessed to claw back the Tax Credits which she had claimed in 2011. The appeal is dismissed.
+Signed at Ottawa, Canada, this 18th day of June 2015.
+“V.A. Miller”
+V.A. Miller J.
+CITATION:
+2015TCC152
+COURT FILE NO.:
+2014-3099(IT)I
+STYLE OF CAUSE:
+CALVIN E. CURRY AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Hamilton, Ontario
+DATE OF HEARING:
+May 29, 2015
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Valerie Miller
+DATE OF JUDGMENT:
+June 18, 2015
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Devon E. Peavoy
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

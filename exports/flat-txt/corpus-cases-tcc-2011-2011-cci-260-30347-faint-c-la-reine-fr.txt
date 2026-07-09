@@ -1,0 +1,138 @@
+Title: Faint c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30347/index.do
+Corpus path: corpus/cases/tcc/2011/2011-cci-260-30347-faint-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2011-05-11
+
+# Faint c. La Reine
+
+- Citation: 2011 CCI 260
+- Decision date: 2011-05-11
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7964, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Faint c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2011-05-11
+Référence neutre
+2011 CCI 260
+Numéro de dossier
+2009-2230(IT)I
+Juges et Officiers taxateurs
+Theodore E. Margeson
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2009-2230(IT)I
+ENTRE :
+CAROL-ANNE FAINT,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 4 avril 2011 à Kamloops (Colombie‑Britannique).
+Devant : L’honorable juge T.E. Margeson
+Comparutions :
+Pour l’appelante :
+L’appelante elle‑même
+Avocate de l’intimée :
+Me Holly Popenia
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’encontre de la nouvelle cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2007 est rejeté, et la nouvelle cotisation établie par le ministre du Revenu national est confirmée.
+Signé à Ottawa, Canada, ce 11e jour de mai 2011.
+« T.E. Margeson »
+Juge Margeson
+Traduction certifiée conforme
+ce 22e jour de juin 2011.
+Espérance Mabushi, M.A.Trad. Jur.
+Référence : 2011 CCI 260
+Date : 20110511
+Dossier : 2009-2230(IT)I
+ENTRE :
+CAROL-ANNE FAINT,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Margeson
+[1] Au cours de l’année d’imposition 2007, l’appelante a demandé un crédit d’impôt pour frais de scolarité de 14 023,26 $, un crédit d’impôt pour études de 3 960 $ et un crédit pour manuels de niveau postsecondaire de 645 $. Le ministre du Revenu national (le « ministre ») a refusé les crédits demandés. La contribuable interjette le présent appel à l’encontre de cette décision.
+La preuve
+[2] Dans son témoignage, l’appelante a confirmé toutes les hypothèses de fait établies par le ministre et énoncées dans la réponse à l’avis d’appel, à l’exception de l’hypothèse contenue au paragraphe 8f). Elle a soutenu que l’Université de Phoenix (« Phoenix ») et l’Université Northcentral (« Northcentral ») étaient des « établissements d’enseignement agréés » au sens du paragraphe 118.6(1) de la Loi de l’impôt sur le revenu (la « Loi »).
+[3] Au cours de l’année d’imposition 2007, l’appelante s’est inscrite à des cours en ligne de ces deux universités situées aux États‑Unis d’Amérique (les « É.‑U. »). Northcentral n’a pas de campus au Canada. Phoenix avait un campus à Vancouver, en Colombie‑Britannique, en 2007, mais ce campus n’offrait pas les cours que l’appelante souhaitait suivre.
+[4] L’appelante a confirmé que tous les cours qu’elle avait suivis étaient d’une durée inférieure à 13 semaines. Elle a déclaré qu’aucune université au Canada n’offrait des cours d’une durée de 13 semaines. En outre, elle ne pouvait pas obtenir, au Canada, les diplômes qu’elle recherchait. Elle ne pouvait pas fréquenter une université pour une période de deux à trois ans à la fois.
+[5] Lors du contre‑interrogatoire, l’appelante a déclaré qu’elle résidait au Canada et que tous les cours qu’elle avait suivis étaient des cours « en ligne ». Lorsqu’elle avait besoin d’un soutien en ligne, elle l’obtenait par l’entremise des campus aux É.‑U. Elle a terminé ses études au campus de Phoenix.
+Les arguments présentés pour le compte de l’intimée
+[6] L’avocate de l’intimée a soutenu qu’en l’espèce, il n’y a qu’un seul point en litige, à savoir si l’appelante a le droit de demander un crédit pour frais de scolarité, un crédit d’impôt pour études et un crédit pour manuels scolaires. Elle a conclu que l’appelante n’avait droit à aucun de ces crédits.
+[7] La première question est de savoir si Phoenix est un établissement d’enseignement situé au Canada, du fait qu’elle avait un campus au Canada pendant l’année en question. Il faut tenir compte des dispositions de l’alinéa 118.5(1)a) de la Loi à cet égard.
+[8] Phoenix n’est pas un établissement d’enseignement situé au Canada selon cette disposition; elle serait donc assujettie aux critères énoncés à l’alinéa 118.5(1)b) de la Loi et serait considérée comme une université étrangère.
+[9] Si Phoenix est un établissement d’enseignement situé au Canada, elle n’est pas un établissement d’enseignement agréé pour l’application des paragraphes 118.6(2) et (2.1) de la Loi, et l’appelante n’a donc pas droit au crédit d’impôt pour études ou au crédit pour manuels scolaires.
+[10] L’avocate de l’intimée a renvoyé à la décision Cammidge c. Sa Majesté la Reine, 2011 CCI 172, [2011] A.C.I. no 132 (QL), où la Cour a conclu que l’Université de Phoenix était un établissement d’enseignement situé au Canada, en se fondant sur le fait que l’université avait des campus au Canada assujettis aux lois du Canada, et que les cours suivis par l’appelante étaient suivis au Canada par le truchement d’une institution qui avait des établissements situés au « Canada » à l’époque pertinente.
+[11] L’opinion de l’avocate de l’intimée est que cette explication ne justifie pas l’existence d’un lien suffisant avec les campus de Phoenix situés au Canada, pour pouvoir conclure que l’appelante était inscrite à un établissement d’enseignement situé au Canada.
+[12] En l’espèce, l’appelante n’avait pas de lien quelconque avec le campus de Phoenix situé au Canada. Les cours suivis par l’appelante n’étaient pas offerts au campus situé au Canada. Elle s’était inscrite par le truchement du campus de Phoenix. Elle avait payé ses frais de scolarité en dollars américains au campus de Phoenix. Ses examens étaient notés par des professeurs situés aux É.‑U., et elle a terminé ses études au campus de Phoenix.
+[13] L’avocate de l’intimée s’est fondée sur la décision du juge Mogan rendue dans Gilbert v. Canada, [1999] 2 C.T.C. 2127, où il a été déclaré que la mesure législative est plus restrictive à l’alinéa 118.5(1)b) qu’à l’alinéa a) et où il a été avancé que cette différence se justifiait « de manière à assurer un certain contrôle quant au genre de frais de scolarité payés à des établissements situés à l’étranger et à l’égard desquels la personne qui paie les frais ou le parent aura droit à un crédit d’impôt ».
+[14] L’avocate de l’intimée a soutenu que Phoenix n’était pas un établissement d’enseignement agréé pour l’application des paragraphes 118.6(2) et (2.1) de la Loi et que l’appelante n’était donc pas admissible au crédit d’impôt pour études ou au crédit pour manuels scolaires qu’elle demandait. Phoenix n’est pas agréée par les provinces en vertu de la Loi fédérale sur les prêts aux étudiants ni en vertu de la Loi fédérale sur l’aide financière aux étudiants, et n’est donc pas un établissement d’enseignement agréé au sens de ces dispositions.
+[15] Pour avoir droit au crédit d’impôt pour frais de scolarité lorsqu’il fréquente une université étrangère, le particulier doit fréquenter une université à plein temps et être inscrit à des cours d’une durée minimale de 13 semaines.
+[16] Les paragraphes 118.6(2) et (2.1) de la Loi exigent que, lorsque l’université est située à l’étranger, les cours doivent être d’une durée minimale de 13 semaines consécutives. L’avocate de l’intimée a invoqué la décision Ferre c. Canada, 2010 CCI 593, 2011 D.T.C. 1405, à l’appui de son argument selon lequel les cours en soi doivent être d’une durée minimale de 13 semaines, et non l’ensemble du programme. De même, elle a cité avec approbation la décision du juge Bowie rendue dans Fayle c. Canada, 2005 CCI 71, [2005] 1 C.T.C. 2840, à l’appui de son argument.
+[17] L’appel doit être rejeté.
+Les arguments présentés pour le compte de l’appelante
+[18] L’appelante a déclaré qu’elle avait suivi les cours aux É.‑U. parce qu’ils n’étaient pas offerts au Canada. Elle s’est fondée sur Robinson c. Canada, 2006 CCI 664, 2007 D.T.C. 348, pour étayer son argument selon lequel elle devrait avoir droit au crédit d’impôt pour frais de scolarité, même pour ses cours dont la durée était inférieure à 13 semaines.
+[19] L’appelante a déclaré qu’elle avait fréquenté au Canada le Centre Chan de l’Université de la Colombie‑Britannique en vue d’obtenir son diplôme de Phoenix, qui a aussi un campus au Canada. Elle [traduction] « faisait partie de cette famille de diplômés du Canada, [lesquels sont] donc étroitement liés au Canada ».
+[20] L’appelante a également soutenu qu’il s’agissait d’un établissement d’enseignement agréé. Elle suivait un programme continu. Il n’y a jamais eu d’interruption dans ses études, [traduction] « c’était un flux continu de cours ». Elle s’était inscrite à un programme conduisant à un diplôme, et non à un seul cours.
+[21] L’appel doit être accueilli.
+Analyse et décision
+[22] La Cour est convaincue qu’en l’espèce, l’avocate de l’intimée a qualifié avec justesse les points en litige, et ces points sont aussi correctement mentionnés dans la réponse à l’avis d’appel.
+[23] La question qui se trouve au cœur du litige est de savoir si les deux universités en question étaient situées au Canada ou à l’étranger. Il n’y a pas de véritable contestation quant aux faits qui touchent à cette question. Il est énoncé dans la réponse à l’avis d’appel que Northcentral est située aux É.‑U. et qu’elle n’a pas de campus au Canada. Cet argument n’a été réfuté par aucune preuve présentée à la Cour. Rien dans la preuve ne permet, d’une manière ou d’une autre, de faire un lien entre cette université et le Canada. La Cour est convaincue que Northcentral était une université située à l’étranger.
+[24] Pendant l’année en question, en ce qui concerne cette université, l’appelante ne fréquentait pas un établissement d’enseignement tel qu’il est décrit au paragraphe 118.5(1) de la Loi, et elle n’a pas droit au crédit d’impôt pour frais de scolarité prévu à ce paragraphe.
+[25] En ce qui concerne Phoenix, le seul lien avec le Canada est la preuve de l’existence d’un campus de cette université situé au Canada au cours de l’année en question. Toutefois, l’appelante n’a suivi aucun cours à ce campus, elle n’a eu aucun examen établi ou noté pour elle par le campus, elle n’a payé aucuns frais de scolarité au campus, n’y a suivi aucun cours et n’a reçu de ce campus aucune instruction ni aucun soutien technique.
+[26] Dans ces circonstances, la Cour ne peut pas conclure à l’existence de quelque facteur de rattachement établi qui lui permettrait de décider que Phoenix était un établissement situé au Canada selon l’alinéa 118.5(1)a) de la Loi.
+[27] Les facteurs que mentionne l’appelante dans son argument ne révèlent l’existence d’aucun lien suffisant avec le campus de Vancouver qui pourrait convaincre la Cour de tirer une conclusion différente.
+[28] L’appelante a soutenu que la décision rendue dans Robinson, précitée, était en tout point conforme à l’espèce et déterminante quant à la question dont la Cour est saisie. La Cour est d’une toute autre opinion.
+[29] Cela amène la Cour à examiner l’alinéa 118.5(1)b) et les paragraphes 118.6(1), (2) et (2.1) de la Loi.
+[30] L’alinéa 118.5(1)b) de la Loi exige que l’étudiant fréquente une université située à l’étranger, où il suit des cours d’une durée minimale de 13 semaines.
+[31] Le paragraphe 118.6(1) de la Loi définit un établissement d’enseignement agréé pour les fins de la déduction prévue aux paragraphes 118.6(2) et (2.1) de la Loi. Ces dispositions exigent que le particulier soit inscrit à des cours d’une durée minimale de 13 semaines.
+[32] L’appelante soutient que cette exigence porte sur la durée de l’ensemble du programme qu’elle a suivi, et non simplement aux cours au sein de l’ensemble d’un programme. Malheureusement pour l’appelante, tel n’est pas l’état du droit actuel.
+[33] Le juge Paris s’est penché sur cette question dans Ferre, précitée, où il a conclu que l’intention du législateur était « de faire référence à des cours particuliers s’insérant dans un programme d’études, plutôt qu’à l’ensemble du programme [...] »
+[34] De même, le juge Bowie, dans Ali c. Canada, 2004 CCI 726, [2005] 1 C.T.C. 2230, est arrivé à la même conclusion, bien qu’il ait reconnu le fait que l’appelant dans cette affaire, tout comme les autres étudiants, se trouvait dans une situation qui semblait en être une de désavantage non intentionnel.
+[35] À la lumière de la décision précitée selon laquelle Phoenix n’est pas un établissement d’enseignement situé au Canada, il n’est pas nécessaire pour la Cour d’examiner les dispositions du paragraphe 118.6(1) de la Loi, mais elle l’a fait et elle a conclu que Phoenix n’est pas un établissement d’enseignement agréé pour l’application des paragraphes 118.6(2) et (2.1) de la Loi; l’appelante n’est donc pas admissible au crédit d’impôt pour études ou au crédit pour manuels scolaires.
+[36] En fin de compte, la Cour conclut que l’appelante n’a pas droit aux crédits qu’elle demande.
+[37] L’appel est rejeté et la cotisation établie par le ministre est confirmée.
+[38] La Cour est consciente des obstacles que l’appelante a dû franchir pour poursuivre ses études universitaires et de la raison pour laquelle l’appelante estime que le système est injuste à l’égard d’étudiants comme elle. Toutefois, ainsi que l’a affirmé le juge Bowie dans Ali, précitée, « [c]e point relève toutefois de l’organe exécutif et non de la Cour ».
+Signé à Ottawa, Canada, ce 11e jour de mai 2011.
+« T.E. Margeson »
+Juge Margeson
+Traduction certifiée conforme
+ce 22e jour de juin 2011.
+Espérance Mabushi, M.A.Trad. Jur.
+RÉFÉRENCE : 2011 CCI 260
+No DU DOSSIER DE LA COUR : 2009-2230(IT)I
+INTITULÉ : CAROL-ANNE FAINT
+c.
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Kamloops (Colombie-Britannique)
+DATE DE L’AUDIENCE : Le 4 avril 2011
+MOTIFS DU JUGEMENT : L’honorable juge T.E. Margeson
+DATE DU JUGEMENT : Le 11 mai 2011
+COMPARUTIONS :
+Pour l’appelante :
+L’appelante elle-même
+Avocate de l’intimée :
+Me Holly Popenia
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom : s/o
+Cabinet :
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada

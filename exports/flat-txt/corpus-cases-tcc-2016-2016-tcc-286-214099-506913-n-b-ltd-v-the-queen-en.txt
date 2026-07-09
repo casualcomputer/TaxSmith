@@ -1,0 +1,207 @@
+Title: 506913 N.B. Ltd. v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/214099/index.do
+Corpus path: corpus/cases/tcc/2016/2016-tcc-286-214099-506913-n-b-ltd-v-the-queen-en.md
+Document type: case_law
+Last modified: 2016-12-14
+
+# 506913 N.B. Ltd. v. The Queen
+
+- Citation: 2016 TCC 286
+- Decision date: 2016-12-14
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2951, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+506913 N.B. Ltd. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2016-12-14
+Neutral citation
+2016 TCC 286
+File numbers
+2003-3382(GST)G, 2003-3383(GST)G
+Judges and Taxing Officers
+Patrick J. Boyle
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2003-3382(GST)G
+BETWEEN:
+506913 N.B. LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+and
+Docket: 2003-3383(GST)G
+BETWEEN:
+CAMBRIDGE LEASING LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Motion determined by written submissions.
+By: The Honourable Justice Patrick Boyle
+Participants:
+Counsel for the Appellants:
+E.J. Mockler, Q.C.
+Bruce R. Phillips
+Lee McKeigan-Dempsey
+Counsel for the Respondent:
+John P. Bodurtha
+ORDER
+Upon motion made by the Appellants on March 31, 2016 for an order:
+1. compelling the Respondent to reattend examinations for discovery by the Appellants at its own expense and to answer the questions set out in Appendix A of the motion (the “Impugned Discovery Questions”) as well as any proper questions arising from its answers;
+2. compelling the Respondent to pay the Appellants’ costs of the motion;
+Upon submissions made by the Appellants on May 31, 2016 in support of their motion;
+Upon submissions made by the Respondent on June 14, 2016 in reply to the Appellants’ motion;
+Upon submissions made by the Appellants on June 21, 2016 in answer to the Respondent’s reply to their motion;
+And upon the Court reviewing the said motion and all submissions filed;
+The Court grants the motion, in accordance with the attached reasons for order, and orders the Respondent to:
+1. answer all refused questions;
+2. reattend examination for discovery at its expense to respond to the questions and to any further questions arising from the answers to the refused questions;
+3. pay to the Appellants their costs of preparing for and attending to the further discovery on a substantial indemnity basis; and
+4. pay to the Appellants one set of costs on this motion.
+Signed at Ottawa, Canada, this 14th day of December 2016.
+“Patrick Boyle”
+Boyle J.
+Citation: 2016 TCC 286
+Date: 20161214
+Docket: 2003-3382(GST)G
+BETWEEN:
+506913 N.B. LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+and
+Docket: 2003-3383(GST)G
+BETWEEN:
+CAMBRIDGE LEASING LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Boyle J.
+[1] The Appellants have brought a motion to turn a number of the refusals by the Respondent at the further examination for discovery in respect of the Respondent’s further amended replies.
+[2] These appeals were filed in 2003. They involve GST/HST issues for periods in 1998 through 2000. Broadly speaking, the notices of appeal describe the issues raised as relating to the application of the HST to (i) the Appellants’ “export sales” of automobiles, and (ii) the Appellants’ sale of automobiles “to Indians on reserves”.
+[3] Amended notices of appeal and replies were filed in 2010. In 2015, the Respondent was permitted by the Court to file further amended replies. The Court also provided that the Appellants were granted leave to conduct further discoveries “with respect to” (per the Order) or “regarding” (per the Reasons) the amendments in the Respondent’s further amended replies.
+The Respondent’s Amendments [4] The Respondent’s further amended reply in the Cambridge Leasing Ltd. (“Cambridge”) appeal added, among other things, the following new paragraphs:
+16. In determining the Appellant’s net tax for the period under appeal the Minister relies on the following additional facts:
+a) The Appellant was involved in a scheme to enable it to claim ITCs;
+b) the transactions referred to in subparagraph 13(d) above were not bona fide business transactions;
+c) the wholesale dealer sales contracts used for the purchase and sale of motor vehicles were prepared to facilitate the scheme;
+d) the information in the contracts did not represent genuine business transactions;
+e) the invoices were prepared to facilitate the scheme;
+f) the information in the invoices did not represent genuine business transactions;
+g) the information enabling the amount of the ITCs to be determined did not represent genuine transactions; and
+h) the Appellant’s supporting documentation that purported to support the Appellant’s entitlement to ITCs was for an amount no more than $436,281.15 as detailed in the attached Schedule A forming part of this Further Amended Reply.
+. . .
+20. He further submits that the Appellant was not entitled to ITCs as the information in the Appellant’s supporting documentation in respect of claimed ITCs did not represent genuine transactions.
+21. The contracts were contracts of accommodation, that is, contracts prepared to facilitate the scheme and give an appearance that genuine transactions occurred.
+22. The invoices were prepared to facilitate the scheme and give an appearance that genuine transactions occurred.
+23. The information contained in the contracts, invoices, and other supporting documentation did not represent genuine transactions and was used in the scheme enabling the Appellant to claim ITCs. The Appellant was therefore not entitled to ITCs pursuant to subsections 169(1) and 169(4) of the Act and section 3 of the Regulations.
+[5] The Respondent’s further amended reply in the 506913 N.B. Ltd. (“506913”) appeal included in paragraph 18 and paragraphs 28 through 31 virtually identical new paragraphs to these in Cambridge.
+The Rules [6] Rule 107(3) of the Tax Court of Canada Rules (General Procedure) provides as follows:
+107(3) A ruling on the propriety of a question that is objected to and not answered may be obtained on motion to the Court.
+107(3) La Cour peut, à la suite d’une requête, décider du bien-fondé d’une question qui a fait l’objet d’une objection et à laquelle il n’a pas été répondu.
+[7] Rule 95(1) sets out the scope of questioning upon examination for discovery as follows:
+95(1) A person examined for discovery shall answer, to the best of that person’s knowledge, information and belief, any proper question relevant to any matter in issue in the proceeding or to any matter made discoverable by subsection (3) and no question may be objected to on the ground that
+95(1) La personne interrogée au préalable répond, soit au mieux de sa connaissance directe, soit des renseignements qu’elle tient pour véridiques, aux questions pertinentes à une question en litige ou aux questions qui peuvent, aux termes du paragraphe (3), faire l’objet de l’interrogatoire préalable. Elle ne peut refuser de répondre pour les motifs suivants :
+(a) the information sought is evidence or hearsay,
+a) le renseignement demandé est un élément de preuve ou du ouï-dire;
+(b) the question constitutes cross-examination, unless the question is directed solely to the credibility of the witness, or
+b) la question constitue un contre-interrogatoire, à moins qu’elle ne vise uniquement la crédibilité du témoin;
+(c) the question constitutes cross-examination on the affidavit of documents of the party being examined.
+c) la question constitue un contre-interrogatoire sur la déclaration sous serment de documents déposée par la partie interrogée.
+[8] Upon a proper reading of both the English and French versions of Rule 95(1), I believe the use of both the word “proper” and the word “relevant” in the English version should not really be considered anything much more than a drafting slip, compliments of the mythical Department of Legal Redundancies Department. Rule 95(1) in French clearly only expresses a relevancy test by the use of the concept of “pertinence”. Further, Rule 107(3) only calls upon the Court to decide the “propriety” of refused questions and, in French, clearly deals with propriety (bien‑fondé) as a separate concept to relevance (pertinence).
+[9] Specifically, for these reasons, I respectfully decline to adopt paragraphs 53 through 58 in Stanfield v. The Queen, 2007 TCC 480, to the extent it views “proper” and “relevant” as separate requirements. To paraphrase what was written by Associate Chief Justice Christie (as he then was) of this Court in 569437 Ontario Inc. v. Canada, [1994] T.C.J. No. 531 (QL), and quoted with emphasis by him in Shell Canada Ltd. v. Canada, [1996] T.C.J. No. 1313 (QL):
+. . . the standard for propriety of a question . . . is whether the information solicited by a question may be relevant to the matters which at the discovery stage are in issue on the basis of pleadings filed by the parties.
+Considerations to Turning Refusals [10] The scope of questioning on discovery has been fully canvassed in this Court and in the Federal Court of Appeal. No less than three accomplished jurists who went on to become Chief Justices of this Court have addressed this in detail and consistently. In Baxter v. The Queen, 2004 TCC 636, Associate Chief Justice Bowman (as he then was) described the scope of examinations for discovery in paragraphs 12 and 13. In Shell Canada, above, Associate Chief Justice Christie describes the scope of examination for discovery in paragraph 9. Most recently, Chief Justice Rossiter reviewed and summarized discovery principles in Canadian Imperial Bank of Commerce v. The Queen, 2015 TCC 280, in paragraphs 14 through 18, 270, 271, 362 and 363. In Canada v. Lehigh Cement Limited, 2011 FCA 120, Justice Dawson, writing for the Federal Court of Appeal, considered the scope of discovery in our Court at paragraphs 24, 29, 30, 34, 37, 40 and 44.
+[11] These four cases, along with the cases referred to therein, have established the following:
+(a) The general principles applicable to questions on discovery do not provide a magic formula applicable to all situations.
+(b) The scope of questioning permitted on discovery is defined by the pleadings of the parties. These pleadings set out the facts, issues and positions which are all proper matters for discovery. A questioning party needs only be able to satisfy the motions judge that the information sought may be relevant to such a matter, construing the pleadings with fair latitude and in the factual and procedural context of the particular case.
+(c) The threshold level of relevancy upon discovery is quite low and is not likely difficult to meet in light of the goal of discovery — openness — and its purpose of fairly, reasonably and expeditiously moving appeals forward to a hearing.
+(d) Relevancy at this stage is extremely broad and must be generously, broadly and liberally construed. Very wide latitude should be given to permit the fullest inquiry as to all matters which can reasonably be considered to possibly affect the issues between the parties. This has been described as a semblance of relevancy, which I take to mean the question need only reasonably appear to possibly be relevant.
+(e) A question is relevant if it may lead to a train of inquiry which may directly or indirectly advance the party’s own case or damage that of the other party.
+(f) Only questions concerning matters that are clearly or completely irrelevant should be rejected at the discovery stage. Where there is doubt about the relevancy of a question, the principal goal of openness favours requiring the question to be answered.
+(g) A motions judge should permit questions that are broadly related to the matters/issues in dispute. Touching the matters in question suffices.
+(h) A motions judge should not fetter the discretion of the judge who will preside at trial and will be required and best able to decide relevancy as part of the admissibility of the evidence into the record in the context of the evidence as a whole. An inadvertent error by a motions judge determining relevancy at discovery may lead to serious problems or even injustice at trial. It is the trial judge’s determination that attains deference. Trial judges rightly give very little deference to a motions judge’s determination. Discovery and the admitting of evidence are distinctly different aspects of an appeal.
+(i) A motions judge should not second‑guess counsel conducting a discovery by minutely examining each question. A question can be relevant at the discovery stage even if, considered in isolation, it may seem irrelevant. The relevance of a question may be tied to other evidence not before the motions judge.
+(j) It is permitted to ask questions to ascertain the other party’s legal position.
+(k) It is not a valid objection that the examining party already knows the answer to the question. I do not read this as allowing counsel to repeat endlessly what is a substantively identical question at the same examination. That a question may be similar to one already asked does not make it substantively identical. Words and phrases may mean different things to different people. Different words and phrases have different meanings.
+(l) It is not a valid objection that the other party will no longer be relying upon a particular provision, position or characterization.
+(m) The Court will not automatically disallow a question as not relevant merely because it concerns matters outside the fiscal periods in issue in the appeal.
+(n) Motions judges should not permit questions that are patently irrelevant questions, abusive questions, questions designed to embarrass or harass the person or party, questions designed to delay the process, or questions forming part of fishing expeditions of vague and far-reaching scope.
+(o) A relevant question may be disallowed if answering it would constitute undue hardship on the other party.
+(p) The above summary is not exhaustive.
+Analysis and Conclusions [12] With respect to matters (whether issues, facts, evidence, law, arguments, theories or positions, etc.) that were first introduced by the Respondent in its further amended replies, it is clear and obvious that the Appellants were not able to question the Respondent about them at the initial examination for discovery completed before the Respondent produced the further amended replies. This Court gave to the Appellants their full rights to discover the Respondent with respect to each, any and all such matters. With respect to each, any and all such matters, the Appellants are entitled to conduct as full and complete an examination for discovery as they would have been at the initial discovery, had these matters already been set out in the Respondent’s pleadings.
+[13] In this case, it is clear from the 2015 order of this Court that there is no limitation imposed on the scope of discovery with respect to such new matters reflecting either (i) that there had already been an examination for discovery, (ii) that any of these newly raised matters were similar to or related to other matters already pleaded by the Respondent, or (iii) otherwise. I see no reason whatsoever to impose any such limitation or restriction on the scope of questioning on court‑ordered further discovery at this stage on a motion.
+[14] I can only conclude that the Respondent would not have sought leave of this Court to file its further amended replies if the Respondent believed that the requested distinct and specific amendments were not necessary as they were kind of, almost, mostly, pretty much already addressed in its existing replies. In that light, I find that the Respondent requiring this entire motion be brought to be quite cheeky. The principal reason given for refusing to answer questions at the discovery was that the questions were not related to the amendments.[1]
+[15] In deciding this motion, I will therefore simply be determining whether or not each of the questions that the Respondent refused to answer was relevant, as that term is applied at the discovery stage and described above, to any of the newly raised matters in the further amended replies.
+[16] I will also be considering the other reasons put forward by the Respondent on this motion for refusing to answer particular questions.
+Repetitive or Overlapping Questions [17] Where an examination is resumed after a lengthy adjournment, or where further additional examination is permitted or ordered, a reasonable degree of what may appear to be repetitive or overlapping questions will be allowed with respect to questions of a basic introductory or refresher nature. This allows counsel to situate the person being discovered and to contextualize forthcoming questions.
+[18] When significant and substantive amendments to the discovered party’s pleadings have been made, as in this case, counsel will be allowed to ask questions concerning the impact those amendments might have on the overall position of the discovered party. This is particularly so where, as here, there is overlap between the new and old positions set out in the pleadings.
+[19] Otherwise, identical questions will have to be answered with respect to all new matters raised in the amended pleadings, including how the new answer may differ from the prior answer in respect of old matters previously pleaded and examined on.
+[20] None of the questions refused on the basis of having been answered in a previous examination appear to clearly go beyond this scope, nor do they appear to be so extensive as to be abusive, and for those reasons each of them must be answered.
+Abuse [21] The Respondent’s statement that the alleged repetitive nature of certain questions constituted abuse was not developed or made out in the facts or reasons put forward by the Respondent in its motion materials before me. Abuse is a serious matter. If a party claims abuse, that party should take that allegation seriously since it expects this Court to take it seriously.
+Relevance [22] Each of the questions refused on the basis of irrelevance satisfies me that it is relevant to, and relates to or is with respect to, the amendments made by the Respondent in its further amended replies. No questions should have been refused on the basis that they were not related to, or in respect of, those amendments. The questions should have been answered or, in appropriate circumstances, undertakings to answer given.
+[23] Asking if the Respondent’s position is that the alleged scheme in which the Appellants were engaged began prior to the taxation periods in issue in these appeals in which the Appellants conducted similar activities is relevant. What could be more basic than asking what a pleaded scheme was comprised of and when it began?
+Documents not on List of Documents [24] Each of the questions refused on this ground appears to be in respect of a particular document of an Appellant that was taken on audit or later seized, or an affidavit of the Respondent with respect to such documents prepared for and used in a criminal proceeding against a third party in respect of specific transactions very much in issue in these appeals. These documents had not been returned or provided to the Appellants by the Respondent until shortly before the additional discovery and were not available to the Appellants at the earlier discoveries. Since the further discovery, the Appellants have revised their lists of documents.
+[25] If a question is based upon or concerns a document that has a semblance of relevance, that question should be answered, or the appropriate undertaking made. If this is extensive, and appears to be an ambush, any refusal should be accompanied by an undertaking to reconvene to answer questions on such documents following an adjournment to permit their review. This is even more clear where the documents were prepared by, or obtained by, the party being discovered.
+Criminal Prosecutions of Third Parties [26] The Respondent maintains that questions relating to third party criminal proceedings are, for that reason, not relevant. It appears that the third parties were prosecuted in respect of some transactions that the Respondent’s pleadings claim to be ineffective misleading schemes and that the Appellants’ documents were made available by the Canada Revenue Agency to the prosecution. That is sufficient to satisfy the relevance threshold at discovery. These questions must be answered.
+Questions of Law [27] Certain questions were refused on the basis that they were legal questions or were legal in nature. This was not developed further by the Respondent in its written submissions.
+[28] Question 855 would be asking for a conclusion of law if it simply asked if title passed to the cars. However, the question is prefaced with language that focusses on the question of why the Respondent thinks this was a scheme of other than genuine business transactions. That contextualization qualifies the question and makes it relevant to the new issue raised by the Respondent about schemes, mala fides and non-genuine information and transactions. Whether or not the fact that title did or did not pass was or was not a consideration of the Respondent is an appropriate question.
+[29] Asking what facts were considered in arriving at a legal conclusion pleaded by the questioned party is entirely appropriate. Asking which part of a provision pleaded by the questioned party was relied on is not asking for a conclusion of law, nor is asking the basis on which the requirement of a provision of the Excise Tax Act pleaded by the party questioned was satisfied.
+[30] None of the questions refused because they were legal questions or legal in nature seek a legal opinion nor seek a legal conclusion and, for that reason, each of these must be answered.
+Disposition [31] All the refused questions are to be answered.
+[32] The Respondent’s designate is to reattend examination for discovery at its expense to respond to the refused questions within 60 days and to respond promptly to any further questions arising from the answers to the refused questions.
+[33] The Appellants are entitled to their costs of preparing for and attending to the further discovery on a substantial indemnity basis.[2] If the parties cannot agree on the amount, they may each file submissions not exceeding six pages in length within 30 days.
+[34] These are appeals that, in Dickensian language, drag their weary length before the Court. There have been several case management and motions judges involved in the more than thirteen years these appeals have been before this Court. A previous case management judge ordered that no further motions or other proceedings could be brought before the Court in these appeals prior to the hearing of the appeals. The Respondent’s motions to amend its replies were brought just before the deadline imposed on further motions. These appeals can be expected to proceed promptly to a hearing — and it would be best if the parties make that happen themselves.
+[35] The Appellants are entitled to one set of costs on this motion.
+Signed at Ottawa, Canada, this 14th day of December 2016.
+“Patrick Boyle”
+Boyle J.
+CITATION:
+2016 TCC 286
+COURT FILE NOS.:
+2003-3382(GST)G
+2003-3383(GST)G
+STYLE OF CAUSE:
+506913 N.B. LTD.,
+CAMBRIDGE LEASING LTD.,
+v. THE QUEEN
+REASONS FOR ORDER BY:
+The Honourable Justice Patrick Boyle
+DATE OF ORDER:
+December 14, 2016
+PARTICIPANTS:
+Counsel for the Appellants:
+E.J. Mockler, Q.C.
+Bruce R. Phillips
+Lee McKeigan-Dempsey
+Counsel for the Respondent:
+John P. Bodurtha
+COUNSEL OF RECORD:
+For the Appellants:
+E.J. Mockler, Q.C.
+Kevin C. Toner
+Bruce R. Phillips
+Lee McKeigan-Dempsey
+Firms:
+E.J. Mockler Professional Corporation
+Fredericton, NB
+Ellsworth Johnson Phillips
+Moncton, NB
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] In its written submissions, this position of the Respondent merged with the relevance requirement to be questions were properly refused if they were not relevant to the amendments.
+[2] The Appellants have asked for costs on a solicitor‑client basis. The circumstances requiring this motion do not meet the high threshold for solicitor‑client costs. Nor am I satisfied they would be appropriate in any event.

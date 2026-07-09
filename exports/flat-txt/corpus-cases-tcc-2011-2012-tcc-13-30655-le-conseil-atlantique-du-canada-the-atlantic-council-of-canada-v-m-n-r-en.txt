@@ -1,0 +1,321 @@
+Title: Le Conseil Atlantique du Canada -The Atlantic Council of Canada v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30655/index.do
+Corpus path: corpus/cases/tcc/2011/2012-tcc-13-30655-le-conseil-atlantique-du-canada-the-atlantic-council-of-canada-v-m-n-r-en.md
+Document type: case_law
+Last modified: 2011-12-22
+
+# Le Conseil Atlantique du Canada -The Atlantic Council of Canada v. M.N.R.
+
+- Citation: 2012 TCC 13
+- Decision date: 2011-12-22
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7212, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Le Conseil Atlantique du Canada -The Atlantic Council of Canada v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2011-12-22
+Neutral citation
+2012 TCC 13
+File numbers
+2010-2905(EI), 2010-2933(CPP)
+Judges and Taxing Officers
+Johanne D’Auray
+Subjects
+Employment Insurance Act
+Decision Content
+Citation: 2012 TCC 13
+Date: 20120109
+Docket: 2010-2905(EI)
+BETWEEN:
+LE CONSEIL ATLANTIQUE DU CANADA –
+THE ATLANTIC COUNCIL OF CANADA,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+AND BETWEEN: Docket: 2010-2933(CPP)
+LE CONSEIL ATLANTIQUE DU CANADA –
+THE ATLANTIC COUNCIL OF CANADA,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+AMENDED REASONS FOR JUDGMENT
+D'Auray J.
+[1] The appellant is a charitable organisation, its objects and purposes are :
+to advance education and other purposes beneficial to the community in connection with Canada’s external affairs and Canadian participation in the Atlantic Institute and the Atlantic Treaty Association.
+[2] The goal of the Atlantic Institute (AI) is to facilitate the exchange of ideas on military, economic, political and cultural issues on both side of the Atlantic. The Atlantic Treaty Association (ATA) seeks to foster a better understanding of NATO issues.
+[3] Ms. Luisa Sargsyan joined the appellant in July 2007 under the Security and Defence Forum Internship Program (SDF Internship Program). She left the appellant in October 2008.
+[4] The questions that I have to decide on these appeals is whether Ms. Sargsyan was employed in insurable employment with the appellant within the meaning of paragraph 5(1)(a) of the Employment Insurance Act (EIA) and in pensionable employment within the meaning of paragraph 6(1)(a) of the Canada Pension Plan (CPP) during the period from January 1, 2008 to September 30, 2008.
+[5] By agreement of the parties, the appeals under the EIA and the CPP were heard on common evidence.
+Facts
+[6] Two witnesses testified on these appeals namely, Ms. Julie Lindhout and Ms. Luisa Sargsyan. Their testimony differed on several important points, making it necessary for me to review the facts in detail.
+[7] Ms. Lindhout is the president of the appellant and testified on its behalf.
+[8] She stated that the appellant is a non-governmental organization, registered as a charitable organization. It was incorporated on March 7, 1966.
+[9] She explained that the appellant is a small organization, relying on part-time and contract staff as well as volunteers. At the time of the hearing, there were five volunteers and interns. The budget of the appellant varies from year to year; it is usually around $125,000.
+[10] The appellant’s activities include issuing newsletters on issues relating to Canada’s external affairs, national defence, security and NATO; organizing round tables on issues of interest to the appellant; and in 2007 hosting the 53rd General Assembly of the ATA. In partnership with other organizations, the appellant also gives seminars on NATO issues to students both in and outside of Canada.
+[11] Ms. Lindhout explained that Ms. Sargsyan joined the appellant as an intern under the SDF Internship Program in July 2007. She stayed one year under the Program. Upon Ms. Sargsyan’s request, her stay was subsequently extended for three months under a Bank of Nova Scotia scholarship. She left the appellant in October 2008. All the evidence given by the parties on these appeals related to the SDF Internship Program There was no evidence that either the nature of the relationship or the work changed under the Bank of Nova Scotia scholarship.
+[12] The SDF Internship Program is intended to provide relevant work experience opportunities for recent MA graduates with a background in security and defence. I have set out below a description of the Program that was filed by the appellant, under Exhibit A-1, Tab 2.
+DND Policy Group Defence and Academic Programs
+The security and Defence Forum (SDF)
+SDF Internship Program
+Objective: The SDF Internship Program is intended to promote relevant work experience opportunities for recent MA graduates with a background in security and defence, which will complement their studies. The internship provides for a year-long placement in a research or related position in a Canadian organization, excluding universities and government. Placements in Canadian government offices outside Canada (e.g., embassies, NATO, international organizations) may also be considered.
+Relevant Fields: Internships related to current and future Canadian security and defence issues and their political, international, historical, social, military, industrial and economic dimensions are encouraged. Applicants must clearly explain in their proposal the relationship between their work plans and Canadian security and defence issues. Work in the pure or applied sciences is ineligible.
+Application must demonstrate relevance to contemporary Canadian security and defence issues. These include, but are not limited to:
+· Failed or failing states
+· Terrorism
+· Weapons of Mass Destruction
+· Regional flashpoints
+· Canadian Forces Transformation, including integrated and unified approaches to operations
+· The Defence of Canada
+· Canada-United States defence relations
+· The Canadian Forces’ international role
+· The integrated Defence, Diplomacy and Development (“3D”) approach to conflict and post-conflict situations
+· Defence procurement and management
+· National Defence’s support to other government departments and agencies
+· The Selection Committee will not consider incomplete applications, handwritten applications/ references or applications that do not adhere to length and font requirements. It is the candidate’s responsibility to ensure that the application is complete.
+Value: Internships are valued at up to $35,000 for twelve months, pro-rated for shorter periods of time. Participating organisations are encouraged to supplement this amount with additional funds.
+Number: Up to four internships are available. The Department of National Defence reserves the right to change the final number and value of internship awarded depending upon the level of response and the quality of applications for this program and others within the Security and Defence Forum.
+Duration: Maximum of 12 months. The award may not be renewed.
+Tenability: Internships are tenable with a range of security and defence related institutions. More than one application may be made. Students must obtain proof of agreement from their respective supporting organizations before submitting an application to the Association of Universities and Colleges of Canada (AUCC). Universities and government departments or agencies in Canada are excluded. A list of potential organizations and organizations who have hosted internships in the past is available at Annex A.[1]
+Conditions: All applicants must be Canadian citizen or permanent residents at the time of application and hold a Master’s degree before taking up the award. On completion of the internship, one copy of the thesis, or a reasonably detailed account of the research undertaken, must be submitted to the Directorate of Public Policy, Department of National Defence, no later than 1 October 2001. Publications, papers, theses or unpublished conference presentations submitted must include an executive summary of at least one paragraph but no greater than two pages. Acceptance of Security and Defence Forum funding implies permission to circulate candidate’s work within the Department of National Defence. Successful applicants will agree to the use of their names and/or images for inclusion in Security and Defence Forum promotional material.
+Adjudication: Following the receipt of the complete application package by the AUCC, a sub-committee of the Security and Defence Forum’s independent Selection Committee will evaluate all applications on the basis of academic merit. The selection Committee of the Security and Defence Forum will then consider based on academic merit, contribution to the Security and Defence Forum, and overall merit and relevance to Canadian security and defence, as indicated in the “Fields of Study” section. Decisions are final and are not open to appeal.
+Application Deadline: February 1, 2006. Due to the need to allow sufficient time for processing and reviewing applications, applications will not be sent out after January 23, 2006.
+Application Forms
+Or contact:
+Canadian Awards Program
+Association of Universities and Colleges of Canada
+350 Albert Street, Suite 600
+Ottawa, Ontario
+K1R 1B1
+Telephone: (613) 563-1236
+Facsimile: (613) 563-9745
+E-Mail: awards@aucc.ca
+Internet: www.aucc.ca/dnd.html
+[My emphasis]
+[13] Ms. Lindhout explained that from 2006 to 2010, the SDF Internship Program was administered by the Association of Universities and Colleges of Canada (AUCC). Before 2006, it was administered directly by the Department of National Defence (DND) and in 2010, the DND resumed administration of the Program.
+[14] In order to qualify for an internship under the SDF Internship Program, an applicant has to find an organization that is willing to act as a host. In December 2006, Ms. Sargsyan called Ms. Lindhout to see if the appellant would be ready to act as host for her under the Program. Ms. Lindhout testified that Ms. Sargsyan appeared quite interested in having the appellant serve as her host organization, indicating that she wished to learn how a non-governmental organization worked.
+[15] On January 10, 2007, Ms. Lindhout, on behalf of the appellant, wrote a letter to the AUCC, stating that the appellant would be pleased to accept Ms. Sargsyan as an intern under the SDF Internship Program. The letter is marked as Exhibit A-1, Tab 5.
+[16] On May 29, 2007, Ms. Sargsyan was informed by the AUCC that she had been selected as recipient for the scholarship awarded by the DND under the SDF Internship Program for the 2007-2008 academic year. On June 11, 2007, Ms. Sargsyan signed the award acceptance form. I am reproducing the letter sent by the AUCC to Ms. Sargsyan and the award acceptance form signed by Ms. Sargsyan.
+Association of Universities Association des universités
+and Colleges of Canada et collèges du Canada
+May 29, 2007 AUCC ID.: xxxxxxxxxxxx
+Ms. Luisa Sargsyan
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxx
+CANADA
+Dear Ms. Luisa Sargsyan,
+Subject : Department of National Defence – The Security and Defence Forum (SDF) Internship : INTERNSHIP
+Congratulations! I am pleased to inform you that you have been selected as a recipient for the above-noted scholarship for the 2007-2008 academic year. The details of your scholarship are as follows:
+Maximum Tenure of Award: 1 year, non-renewable.
+Conditions of your award:
+On completion of the internship, one copy of a thesis or reasonably detailed account of any research undertaken and of your year’s experience must be submitted to the AUCC who will in turn forward it to DND no later than October 1, 2008.
+Proposed Institution: Atlantic Council of Canada.
+Payment information:
+Payment type Payment Period Amount Currency Payable to
+General Sept-Dec $17,500 (CDN) Institution
+General Jan-Apr $17,500 (CDN) Institution
+Report/Thesis Sep-Apr $ 0 (CDN) **NO PAYMENT
+Please note the following:
+These funds are disbursed in two instalments, first in September and the second in January. Note: Your second instalment in January will be conditional upon receipt (to AUCC) of a report of your accomplishments during your first semester/work year and a workplan for the next semester. If you withdraw from your program, you must repay the scholarship.
+As scholarship funds are considered taxable income, you will receive a T4A each year.
+Your payment(s) will be processed upon receipt of a signed copy of the Award Acceptance Form attached and the required documentation noted above.
+I wish you all the best with your studies this year.
+Sincerely,
+(s) G Kerr
+Ginette Kerr
+Program Officer
+Higher Education Scholarships
+600-350 Albert Ottawa ON Canada K1R 1B1
+Phone/ Tél. : (613) 563-1236 Fax/Téléc. : (613) 563-9745
+www.aucc.ca
+[My emphasis]
+*********************************
+Association of Universities Association des universités
+and Colleges of Canada et collèges du Canada
+AWARD ACCEPTANCE FORM
+May 29, 2007
+AUCC ID.: xxxxxxxxxxx
+Ms. Luisa Sargsyan
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxx
+CANADA
+SCHOLARSHIP PROGRAM : Department of National Defence – The Security and Defence Forum (SDF) Internship : INTERNSHIP
+PROPOSED INSTITUTION: Atlantic Council of Canada
+Please indicate below your student number (if known), your Social Insurance Number (required for income tax purposes), and the institution you will be attending if it is different from the one noted above. This form must be signed and returned to the Association of Universities and Colleges of Canada at the address below no later than July 27, 2007.
+Student Number N/A
+Social Insurance Number XXXXXXXXXXX
+Institution Atlantic Council of Canada
+(ACC)
+I, Luisa Sargsyan / /decline (circle one) the above noted scholarship.
+(print your name)
+My proof of registration: _____ is attached ___ will be forwarded at a later date
+Signature Luisa Sargsyan Date June 11, 2007
+600-350 Albert Ottawa ON Canada K1R 1B1
+Phone/ Tél.: (613) 563-1236 Fax/Téléc.: (613) 563-9745
+www.aucc.ca
+[17] Ms. Sargsyan commenced her internship with the appellant in July 2007 instead of August. Ms. Lindhout testified that Ms. Sargsyan had asked to start early; she told Ms. Lindhout that she was unhappy with her job in Montreal. Ms. Lindhout agreed that she could start in July.
+[18] The scholarship of $35,000 was given by the AUCC to the appellant in two instalments of $17,500.
+[19] The appellant did not follow the payment schedule set out in the letter sent to Ms. Sargsyan by the AUCC, namely one instalment of $17,500 to be paid in September and a second instalment of $17,500 to be paid in January. Instead, the appellant paid Ms. Sargsyan monthly instalments of $2,900 except for the final monthly instalment, which was $3,200. Ms. Lindhout testified that the appellant adopted this payment schedule because in the past, interns had indicated a preference for monthly payments and the DND had paid interns in this manner when it administrated the SDF Internship Program.
+[20] In order for Ms. Sargsyan to receive the second instalment of $17,500 via the appellant, the SDF Internship Program required that she submits a report of her accomplishments during her first semester/work year and a work plan for the next semester. Another condition of the Program required Ms. Sargsyan to submit, at the completion of the internship, a thesis or a reasonably detailed account of any research undertaken during her internship. Both the interim report and the final report had to be submitted to the AUCC. The AUCC was to forward the final report to the DND by no later than October 1, 2008. There was no requirement that either report be submitted to the appellant.
+[21] Ms. Lindhout testified that she never saw the initial work plan, the mid-year work plan or the final report prepared by Ms. Sargsyan under the SDF Internship Program. They were all sent directly by Ms. Sargsyan to the AUCC.
+[22] Ms. Lindhout testified that she told Ms. Sargsyan that no deductions would be taken at source from the monthly instalments and that Ms. Sargsyan stated that she was fine with this.
+[23] Ms. Lindhout stated that Ms. Sargsyan did not have fixed hours of work. She said, however, that Ms. Sargsyan was usually at the office between 9.00 am and 5.00 pm. There were no attendance records and no one at the appellant kept track of her time. She used an office computer; however when she was away from the office the computer was used by other interns. There were more interns and volunteers than the appellant had computers.
+[24] Ms. Lindhout testified that Ms. Sargsyan, as an intern for the appellant, was given different tasks that were consistent with the objectives of the SDF Internship Program, namely:
+- she was the editor-in-chief of the appellant’s corporate newsletter, and wrote some articles with respect to defence matters for the newsletter: see Exhibit A‑1, Tab 11. All the interns had the opportunity to write in the newsletter;
+- she prepared minutes at some of the round tables on issues of security and defence. Interns were not required to attend these round tables but Ms. Sargsyan chose to do so. The understanding was that if interns attended they had to prepare a report;
+- she prepared the minutes for the Executive Committee meeting over a six month period. According to Ms. Lindhout, her attendance at the Executive Committee was a way for her to learn about the governance of a non-governmental organization;
+- she participated in the appellant’s graduate essay contest on Afghanistan, although Ms. Lindhout stated that Ms. Sargsyan’s role was limited to putting the notice for the competition on the appellant’s web site;
+- she did some administrative work such as answering the phone, but this was very rare occurring only when the administrative assistant was absent.
+[25] Ms. Lindhout stated that Ms. Sargsyan’s major project as an intern was to put in place a newsletter that would bring attention to events taking place in different parts of the world. The newsletter would provide objective analyses of current events in the Middle East, Africa and throughout the Euro-Atlantic world on a variety of topics related to politics, economics, security and NATO. The newsletter was named “In Focus Transatlantic” (In Focus). The newsletter was Ms. Sargsyan’s idea and Ms. Lindhout approved its publication under the name of the appellant.
+[26] Ms. Lindhout stated that she thought that the In Focus newsletter was a good project for Ms. Sargsyan since the topics dealt in the In Focus newsletter were in line with the SDF Internship Program. Ms. Sargsyan produced 10 or 11 editions of In Focus. The In Focus letter was distributed to DND.
+[27] Ms. Lindhout also stated that although the In Focus newsletter was a very good idea, it was the type of newsletter the appellant would not normally publish as it did not have sufficient resources.
+[28] When asked why In Focus continued being produced after Ms. Sargsyan left, Ms. Lindhout answered that the interns who joined the appellant after Ms. Sargsyan showed an interest in continuing to publish it. Ms. Lindhout stated that she would not hesitate to stop publishing In Focus if interns lost interest in working on it.
+[29] Ms. Lindhout also testified that, Ms. Sargsyan attended some conferences under the SDF Internship Program, namely:
+- the 53rd General Assembly of the ATA, hosted by the appellant, from October 31 to November 2nd, 2007 in Ottawa. According to Ms. Lindhout, Ms. Sargsyan’s work for that conference consisted of researching background material for participants, and assisting with the delegation list and the registration of delegates. She also attended the conference. Most of Ms. Sargsyan expenses for the conference were paid by the DND, with the appellant covering the cost of some meals;
+- the Department of National Defence Security and Defence Forum in Ottawa on March 4, 2008. Ms. Lindhout testified that Ms. Sargsyan was invited by the DND which paid all her expenses;
+- a conference on April 30, 2008 in Toronto, where international, peace and security issues were discussed. Ms. Sargsyan prepared a report for publication. The conference was organised by the appellant;
+- the Young Atlanticist Summit in Bucharest organised by the ATA. The ATA funded most of Ms. Sargsyan’s expenses for the Summit with the appellant paying a small part.
+[30] In cross-examination, Ms. Lindhout stated that she did not tell Ms. Sargsyan what to write or even what type of direction to take in her writing. Ms. Lindhout testified that she reviewed Ms. Sargsyan’s work. This was particularly so when Ms. Sargsyan was writing on behalf of the appellant as the appellant’s Board of Directors expected her to do so. She stated that she provided her comments to Ms. Sargsyan in an academic style of supervision. She added that Ms. Sargsyan was under the SDF Internship Program in order to learn and get some practical experience.
+[31] Ms. Lindhout stated that Ms. Sargsyan set her own deadlines for publishing In Focus as well as the appellant’s newsletter. Ms. Lindhout’s only concern was that deadlines chosen be met for publication purposes.
+[32] Ms. Lindhout stated that Ms. Sargsyan was away from the office for approximately eight and one half weeks[2] : one week to visit her sister in New Jersey; one week off before the Summit in Bucharest; one week in Italy; three and one-half weeks to join her fiancee in California at Christmas (the appellant’s office was closed for two of these weeks). Ms. Lindhout’s stated that she would have not authorized as much time away from the office if Ms. Sargsyan had been an employee of the appellant.
+[33] Knowing that the SDF Internship Program was only for a year, on January 21, 2008, Ms. Sargsyan wrote to Ms. Lindhout and Ms. Lindhout’s colleague, Mr. McKenna, stating that she had a strong interest in applying for the Junior Fellowship Program with the new Canadian International Council (CIC). She asked if they could review a research proposal she had prepared for the CIC and if they would provide her with letters of recommendation.
+[34] Ms. Lindhout provided comments on the research proposal and provided her with a letter of recommendation supporting her application with the CIC.
+[35] Near the end of the SDF Internship Program in August 2008, Ms. Sargsyan had not yet found a place to work. According to Ms. Lindhout, Ms. Sargsyan was in great despair, she had not found a job and she had not been chosen for the CIC Junior Fellowship Program. Ms. Sargsyan asked Ms. Lindhout if she could stay on with the appellant in order to give her a chance to develop more possibilities to find another job.
+[36] The appellant had no funds to keep Ms. Sargsyan once the SDF Internship Program ended. In order to accommodate Ms. Sargsyan, Ms. Lindhout looked into obtaining the Bank of Nova Scotia scholarship of $10,000 for her. The scholarship had not yet been awarded. Ms. Lindhout went to the appellant’s Board of Directors and asked that the scholarship be given to Ms. Sargsyan. The Board accepted Ms. Lindhout’s request and Ms. Sargsyan was able to stay with the appellant for three additional months.
+[37] After leaving the appellant at the beginning of October 2008, Ms. Sargsyan took a position with the Ministry of College and Universities of Ontario on a research contract, which ended in March 2009.
+[38] Ms. Lindhout testified that Ms. Sargsyan called her (it would have been around March 27, 2009) and asked if the appellant could prepare a record of employment (ROE) indicating that she had 12 insurable hours. Ms. Lindhout signed such a ROE on March 27, 2009: see Exhibit A-1, Tab-13. Ms. Sargsyan did not tell Ms. Lindhout why she wanted the ROE to indicate 12 hours.
+[39] On April 2, 2009, Ms. Sargsyan wrote an e-mail to Ms. Lindhout asking her to amend the ROE to indicate her total insurable hours (1855) and total insurable earnings ($ 20,800) with the appellant: see Exhibit A-1, Tab 14.
+[40] At that point, Ms. Lindhout realized that if she were to provide Ms. Sargsyan with an amended ROE as requested by Ms. Sargsyan, she would have to advise the appellant’s Board of Directors, as it would go against the past practices of the appellant.
+[41] She therefore sent a revised ROE indicating 1,855 hours, representing 15 months at 35 hours per week, as the total insurable hours and 0 as the total insurable earnings with a note indicating that :
+[…] Although she worked a regular 35 hours per week, no deductions were made because her position was an internship funded as a scholarship by the Department of National Defence for 12 months and by Scotia Bank for another 3 months. The money was provided to the Atlantic Council of Canada to be paid out to Ms. Sargsyan on monthly basis.
+[42] The appellant prepared a T4A in respect of Ms. Sargsyan indicating other income in the amount of $26,000 for the 2008 taxation year and $17,400 for the 2007 taxation year: see Exhibit A-1, Tab-9. On April 6, 2009, Ms. Sargsyan requested that the T4A be amended by the appellant to indicate that the Box 38 income was from a scholarship: see Exhibit A-1, tab-17.
+[43] Ms. Sargsyan testified on behalf of the respondent.
+[44] Ms. Sargsyan has a Masters in International Security from the University of Denver. She stated that she applied under the SDF Internship Program in 2007. In order to qualify for the SDF Internship Program, she had to ensure that a host organisation was ready to accept her as an intern for twelve months. The aim of the internship was to promote relevant work experience which would complement her studies.
+[45] With respect to her work during her internship with appellant, Ms. Sargsyan’s testimony was largely similar to that of Ms. Lindhout. There were however slight differences in her description of the tasks she performed and the time spent on those tasks. Ms. Sargsyan also stated that all the work she did was in relation to the appellant’s activities. By way of example she mentioned:
+- she did the project costing and prepared the web message for a graduate essay contest on Afghanistan and chose the three best essays;
+- her work as editor-in-chief, for the corporate and the In Focus newsletters;
+- her work on the 53rd General Assembly of the ATA Conference;
+- her work on different conferences;
+- administrative tasks for the appellant.
+[46] With respect to the In Focus newsletter, Ms. Sargsyan confirmed that it was her main project as an intern for the appellant and that it was her idea to produce it. She testified that she did not own the copyright for In Focus, it was owned by the appellant.
+[47] She stated that before starting a project she needed Ms. Lindhout’s blessing and every thing she did had to be run by Ms. Lindhout.
+[48] She testified Ms. Lindhout was her supervisor. She stated that she was expected to be at work from 9:00 am to 5:00 pm, that she had to work at the appellant’s office premises, and that she had to ask the permission to be away from the office.
+[49] She agreed with Ms. Lindhout’s testimony regarding the time she was away from the office but stated that she had asked permission to be away. She stated that she had stayed a week longer than expected in California at Christmas because she had had an ear infection and she could not fly until she was better.
+[50] She stated that in order to perform her work she used the desk, telephone, computer and faxes of the appellant. She stated that she had her own laptop but she never used it for her work with the appellant.
+[51] She stated that she did not choose to be paid on a monthly basis. This method of payment was determined by the appellant. She also stated that she did not have a GST number and did not claim expenses in her returns for the 2007 and 2008 taxation years. She stated that she did not know what a T4A was and that she never discussed the issue of source deductions with Ms. Lindhout or anyone else from the appellant.
+[52] With respect to her application for the CIC Junior Fellowship, she stated that she prepared her application and research proposal on her own time and not on the SDF Internship Program’s time.
+[53] In cross-examination, she explained that she moved to Canada in 2006, and had worked in Montreal as an office manager for International Jewellery before joining the appellant. She explained that she did not mention that working experience in her curriculum vitae submitted to the appellant as she customized her resume as needed.
+[54] She testified that she worked as an employee for International Jewellery and that she was aware that source deductions were made from her gross salary and that a T4 was issued by International Jewellery in respect of her employment.
+[55] When questioned about the contract that she had signed with the AUCC, which stated that she was accepting a scholarship in the amount of $35,000 and that a T4A would be issued, she answered that although it was a scholarship, she considered herself to be an employee.
+[56] When questioned as to why she had asked Ms. Lindhout to amend her T4A to include the word “scholarship” in Box 38, she answered that her accountant had told her to do so.
+[57] She stated that after leaving the appellant, she worked for the Ministry of College and Universities of Ontario. Her contract with the Ministry ended in March 2009. She then applied to Services Canada for employment insurance benefits, but could not receive any as she was short 11 insurable hours. She had accumulated 899 insurable hours but needed 910.
+[58] When asked whether it was because she needed 11 additional hours to qualify for employment insurance benefits that she had asked Ms. Lindhout in late March 2009 to prepare a ROE indicating 12 hours of insurable earnings, she stated that she did not know anything about employment insurance.
+Position of the appellant
+[59] The appellant argues that the intentions of the parties were clear. Ms. Sargsyan accepted the offer made by the AUCC by signing the acceptance form on June 11, 2007. The contract stated that Ms. Sargsyan would receive $35,000 for the scholarship SDF Internship Program sponsored by the DND: see Exhibit A-1, Tab-6. It also stated that she would receive a T4A each year.
+[60] One of the conditions of the contract was that Ms. Sargsyan had to report her accomplishments to the AUCC to receive her second instalment of $17,500. She also had to prepare a detailed account of any research undertaken or a copy of a thesis at the end of the internship.
+[61] The appellant stated that such reports were not given to nor reviewed by it. The appellant did not know what Ms. Sargsyan reported with respect to her experience. If she had been an employee of the appellant, the appellant would have insisted on seeing the reports prepared by Ms. Sargsyan before they were forwarded to the AUCC.
+[62] The appellant’s counsel noted that the appellant did not keep any of the $35,000 scholarship moneys. The entire amount was remitted to Ms. Sargsyan. In his view, the appellant acted as host for the SDF Internship Program in order for Ms. Sargsyan to obtain relevant work experience. He submits that it was a scholarship and that accordingly that there was no contract of employment between the appellant and Ms. Sargsyan.
+[63] The appellant pointed out that most of Ms. Sargsyan conference expenses were paid for by either the DND or by other organisations, with only a small portion being paid by the appellant. In the view of the appellant this was another factor indicating that she was not an employee.
+[64] With respect to control, the appellant’s counsel argued that if Ms. Sargsyan had been an employee, she would have not taken so much time away from the office and would not have attended conferences that did not directly benefit the appellant.
+[65] On control, the appellant’s counsel also argued that Ms. Sargsyan was given considerable flexibility in choosing the type of the work she did. She initiated and put in place the In Focus newsletter which was in line with the SDF Internship Program.
+[66] Counsel submitted that Ms. Sargsyan in her testimony had attempted to re‑characterize the relationship between the appellant and herself. An example of this was when she asked Ms. Lindhout to prepare a record of employment for 12 hours in order for her to qualify for employment insurance.
+[67] Counsel stated that because the evidence of Ms. Lindhout and Ms. Sargsyan was contradictory on numerous points, the issue of credibility was determinative in these appeals.
+[68] In the alternative, counsel argued that if I were to conclude that Ms. Sargsyan was an employee, she would not be in ‘’insurable employment‘’ under the EIA but would instead be in excepted employment pursuant to paragraph 5(2)(a) of the EIA and would not be in pensionable employment pursuant to paragraph 6(2)(b) of the CPP.
+Position of the Respondent
+[69] The respondent argued that Ms. Sargsyan was employed under a contract of service while working for the appellant.
+[70] Counsel for the respondent argued that there was no common understanding as to the intentions of the parties. In any event, he argued that if I were to find that the intention between the parties was not to form a contract of services, such intention was not supported by the facts. In the respondent’s view, it is irrelevant what the funding was called, whether internship, scholarship or fellowship. What matters are the facts surrounding the relationship between the appellant and Ms. Sargsyan.
+[71] The respondent submits that the appellant exercised a high degree of control over Ms. Sargsyan. She had to be at the office from 9:00 am to 5:00 pm. She was under the direct supervision of Ms. Lindhout: see Exhibit R-1, Tab 1.
+[72] The work she performed was for the benefit of the appellant: she worked on the essay contest, contributed to the corporate and the In Focus newsletters, attended and worked at conferences, and performed administration tasks.
+[73] She used the computer and the office supplies of the appellant.
+[74] She did not pay her own expenses and could not have made a profit from her endeavours.
+[75] The method of payment was determined by the appellant. The appellant decided to pay Ms. Sargsyan on a monthly basis, instead of in two instalments of $17,500 as prescribed by the SDF Internship Program.
+[76] Ms. Sargsyan continued to work for the appellant after her internship under the SDF Internship Program ended.
+[77] With respect to the test to determine whether a contract is one of services or one for services, counsel referred the Court to Wiebe Door Services Ltd. v. M.N.R., [1986] 3 F.C. 553 and 671122 Ontario Ltd. v. Sagaz Industries Canada Inc., 2001 SCC 59. He also referred the Court to National Capital Outaouais Ski Team v. Canada, 2008 FCA 132 and Mondo-Tech Inc. v. Canada, 2003 CAF 62, as examples of cases dealing with similar government programs where an employer‑employee relationship was found to exist.
+Analysis
+[78] These appeals require me to determine whether Ms. Sargsyan was an employee of the appellant. If I find that she was, then it follows that she was employed in insurable employment within the meaning of paragraph 5(1)(a) of the EIA and in pensionable employment within the meaning of paragraph 6(1)(a) of the CPP.
+[79] The law is not at issue in these appeals. The test for determining the existence of an employee-employer relationship has long been settled. In 671122 Ontario Ltd. v. Sagaz Industries Canada, Justice Major for the Supreme Court of Canada adopted the principles enunciated Justice MacGuigan in Wiebe Door, by stating at paragraph 47:
+47 Although there is no universal test to determine whether a person is an employee or an independent contractor, I agree with MacGuigan J.A. that a persuasive approach to the issue is that taken by Cooke J. in Market Investigations, supra. The central question is whether the person who has been engaged to perform the services is performing them as a person in business on his own account. In making this determination, the level of control the employer has over the worker's activities will always be a factor. However, other factors to consider include whether the worker provides his or her own equipment, whether the worker hires his or her own helpers, the degree of financial risk taken by the worker, the degree of responsibility for investment and management held by the worker, and the worker's opportunity for profit in the performance of his or her tasks.
+[80] The nature of the relationship between the appellant and Ms. Sargsyan was the subject of detailed and at times conflicting testimony from Ms. Sargsyan and Ms. Lindhout. Some of the conflicts in the evidence are on vital points. In assessing the evidence of the witnesses, I am mindful of the caution articulated by the British Columbia Court of Appeal in Faryna v. Chorny, [1952] 2 D.L.R. 354 at page 359, that a Court must consider the truth of the story of a witness in the context of the surrounding circumstances. In the words of that Court:
+In short, the real test of the truth of the story of a witness in such a case must be its harmony with the preponderance of the probabilities which a practical and informed person would readily recognize as reasonable in that place and in those conditions.
+[81] In my view, Ms. Lindhout’s was the more credible witness. She was a solid witness, her answers both in examination-in-chief and on cross-examination were precise and to the point. On the other hand, Ms. Sargsyan was at times evasive in cross-examination; she did not respond directly to the questions that she was asked. More importantly, I find that Ms. Lindhout’s testimony was more consistent with the surrounding circumstances, including the written record.
+[82] The written record supports Ms. Lindhout’s evidence. The aim of the SDF Internship Program was to promote relevant work experience and to complement the studies of interns. The scholarship under the SDF Internship Program was granted by the AUCC and not the appellant. The appellant served as a host under the program.
+[83] The contract between the AUCC and Ms. Sargsyan clearly refers to a scholarship arrangement and indicates that a T4A will be sent to Ms. Sargsyan at the end of each taxation year. Under the contract, Ms. Sargsyan had to report to the AUCC, and not to the appellant, on her accomplishments with the appellant in order to receive the $35,000 scholarship. The contract also contained a clause requiring Ms. Sargsyan to repay the scholarship to the AUCC if she withdrew from the Program.
+[84] By signing the contract on June 11, 2007, Ms. Sargsyan therefore knew that the $35,000 was being paid to her as a scholarship. She also knew that the appellant was simply serving as the host organization.
+[85] Despite this written contract, Ms. Sargsyan maintained that she was an employee of the appellant.
+[86] Ms. Sargsyan testified that she was directly supervised by Ms. Lindhout, and that she could not do anything without Ms. Lindhout’s approval. She stated that she had to work at the appellant’s office premises and that her hours of work were 9:00 am to 5:00 pm. She also said that she needed to advise Ms. Lindhout in order to take time away from the office.
+[87] Mrs. Lindhout on the other hand testified that she supervised Ms. Sargsyan in an academic style. She reviewed the material prepared by Ms. Sargsyan that was to be published under the appellant’s name. She added however, that she never told Ms. Sargsyan what subjects to write on or how to write it. She was mainly interested in the end product. Ms. Sargsyan set her own deadlines, which she met.
+[88] Ms. Lindhout further stated that Ms. Sargsyan did not have to work at the appellant’s premises, and that she did not monitor Ms. Sargsyan’s hours. No attendance records were kept.
+[89] Ms. Sargsyan also pointed out that all the work that she did was for the benefit of the appellant: she assisted in preparing conferences, worked on both the corporate and the In Focus newsletters. In her view, she did not derive any academic benefit from her time with the appellant.
+[90] Ms. Lindhout’s testimony differed from that of Ms. Sargsyan on this point. In her view, the SDF Internship Program was for the benefit of Ms. Sargsyan. She stated that the goal of the SDF internship Program was to give interns a practical learning experience so that they could later apply for a policy position or for a PhD.
+[91] I am satisfied that Ms. Lindhout’s characterization of the work and the supervision exercised is the more accurate. While there is no doubt that the appellant did derive some benefit from having Ms. Sargsyan working in the office, I find that the principal goal of the scholarship was to assist Ms. Sargsyan in her development. Recognizing that she was not an employee, the appellant afforded Ms. Sargsyan a fair degree of independence and flexibility in what she did.
+[92] In addition, I do not find Ms. Sargsyan’s testimony surrounding employment insurance and her explanation for requesting an amended ROE to be credible. It appears that she was trying to re-characterize her relationship with the appellant after the fact in order to qualify for employment benefits.
+[93] Ms. Lindhout testified that she told Ms. Sargsyan that the appellant would not make any source deductions from the scholarship funds and Ms. Sargsyan indicated that she was fine with that.
+[94] Ms. Sargsyan on the other hand testified that she never spoke about the issue of source deductions with anyone at the appellant and believed as a result that she was an employee. She also claimed that she was not familiar with the Employment Insurance system.
+[95] However, prior to accepting the SDF Internship Program scholarship, Ms. Sargsyan had worked for almost a year as an employee for International Jewellery, where her salary was subject to source deductions. It is difficult to accept that she did not notice that no source deductions were being made from her scholarship payments.
+[96] When questioned on why she had asked Ms. Lindhout to amend her T4A to indicate that the $35,000 was received by her as a scholarship, she answered that it was on the advice of her accountant.
+[97] However, at almost the same time she asked Ms. Lindhout to include reference to the scholarship on her T4A, she also asked Ms. Lindhout to prepare a ROE showing 12 hours of insurable earnings. When questioned on cross-examination why she had asked Ms. Lindhout to prepare a ROE indicating 12 hours, she did not directly respond but again claimed that she was not familiar with the employment insurance system. However, it seems logical to conclude that she knew at that point that she needed 11 hours to qualify for employment insurance benefits.
+[98] When Service Canada later told Ms. Sargsyan that the period of employment shown on the ROE did not match her insurable hours, Ms. Sargsyan asked the appellant for another ROE to reflect her actual number of hours at the appellant. This was again consistent with her effort to obtain employment insurance benefits and showed at least a passing familiarity with the employment insurance system.
+[99] I therefore do not believe that Ms. Sargsyan did not know what she was doing when she asked Ms. Lindhout to prepare the first and the second ROE. She was trying to qualify for benefits and to do so she had to re-characterize her relationship with the appellant from that of an intern on a scholarship to that of an employee.
+[100] The respondent relied on the case of Mondo-Tech International Inc. (Mondo-Tech) v. Canada, 2003 FCA 62 where an intern was found to be in an employee relationship. However, the facts in that case are distinguishable.
+[101] In Mondo-Tech, the company Mondo-Tech made a proposal to CIDA for a grant to carry out an international youth internship project. Under the agreement between CIDA and Mondo-Tech, the latter was responsible for the implementation and the management of the project. Mondo-Tech was also responsible for finding an organization to sponsor the project. Métalec was a client of Mondo-Tech. It was in the business of manufacturing steel doors and was interested in selling its products in South America. Métalec became the sponsor for the project. A tripartite agreement was signed by Mondo-Tech, Métalec and the worker. The agreement was for an international project management internship in Uruguay. The agreement provided that the worker would work in Montreal and then in Uruguay and conduct research and development by contacting different businesses and visiting different sites to promote the products of Métalec. Métalec was referred to as the sponsor and was responsible for providing the training and office tools.
+[102] Mondo-Tech could terminate the employment of the worker at any time, solely at its discretion. The Federal Court of Appeal found that the worker was an employee of Mondo-Tech.
+[103] In my view, the decision in Mondo–Tech does not assist the respondent. In the present appeals:
+- it was Ms. Sargsyan who applied for the scholarship, she was responsible for finding a host corporation. On the other hand, Mondo‑Tech made a proposal to CIDA, and was responsible for finding a host corporation;
+- the AUCC was responsible for the administration and management of the SDF Internship Program. Mondo–Tech was responsible for the administration and management of the agreement;
+- the agreement was between Ms. Sargsyan and the AUCC, the appellant was not party to it. Mondo-Tech was party to two agreements, one with CIDA and another with the worker and Métalec;
+- the written reports prepared by Ms. Sargsyan during her internship had to be submitted to the AUCC not to the appellant. In Mondo-Tech the reports prepared by the worker had to be submitted to Mondo-Tech;
+- pursuant to the contract, if Ms. Sargsyan were to withdraw from the SDF Internship Program, she had to reimburse the AUCC not the appellant. In Mondo-Tech, if the worker left the internship, the amounts he had received had to be refunded to Mondo‑Tech.
+[104] In some respect, Métalec as the sponsor was in the same position of the appellant as a host.
+[105] In my view, it is more instructive to read the decision of Justice Lamarre‑Proulx in Université de Montreal v. Ministre du Revenu national, 2005 TCC 499 where she dealt with the question of whether a worker who had received a scholarship was under a contract of services. At paragraphs 28 and 31 of her reasons for judgment she states:
+28 […] On rare occasions, it is possible for a scholarship to be considered a salary. There must be special circumstances involving a relationship of subordination under an employment contract. In the case at bar, no employment contract was signed. A candidate asked to participate in a master’s program and his application was accepted. Admission to the master’s program entails a scholarship. That scholarship is in the nature of financial assistance to enhance research skill and the quality of research, and is not in the nature of a salary under an employment contract.
+31 The program, as both the Appellant’s witnesses and the Intervener described it, is designed to provide an internship at a pharmaceutical company for the purpose of obtaining practical experience as part of university studies. The various obligations that were described are the obligations of professors and students, not employers and employees.
+[106] The same is true in the present appeal. Ms. Sargsyan applied under the SDF Internship Program. The program was funded by the DND and administered by the AUCC. The acceptance form and the contract in respect of the scholarship were between AUCC and Ms. Sargsyan. The scholarship was awarded to Ms. Sargsyan so that she could gain relevant work experience in order to assist her to find a policy position or to pursue a PhD. The appellant simply served as a host organisation. Despite Ms. Sargsyan testimony, I am of the view that in light of the documentary evidence and the evidence presented at trial that there was no contract of services between the appellant and the Ms. Sargsyan.
+[107] Viewing the facts through the lens of the factors enunciated in Wiebe Door, does not change my conclusion.
+Control
+[108] I have already dealt with the control factor at paragraphs 86 to 91 of my reasons.
+Tools
+[109] Ms. Sargsyan used the computer and the office equipment provided by the appellant. When she was away from the office, the computer was used by other interns and volunteers, as they were more people than computers.
+Degree of financial risk taken
+[110] Ms. Sargsyan did not take any financial risk. For that matter, the appellant did not incur any expense in hosting an intern either. The appellant gave the entire scholarship of $35,000 paid by the DND via the AUCC to Ms. Sargsyan. Most of Ms. Sargsyan’s conference expenses during the SDF Internship Program were paid by other organisations, with the appellant only covering a small part of these expenses.
+Integration test
+[111] Ms. Sargsyan knew that she was at the appellant for a set amount of time to gain practical experience relating to her studies. The SDF Internship Program was principally designed to benefit her, not the host organization.
+[112] Lord Wright remarked in Montreal Locomotive[3], that the four tests should be combined and integrated in order to seek out the meaning of the whole transaction. Looking at the entire transaction, I conclude that the amounts Ms. Sargsyan received were in the nature of a scholarship or financial assistance and were not remuneration for services provided.
+[113] As I have stated earlier I am of the view that when Ms. Sargsyan accepted the funding for the scholarship, she knew that the relationship between the appellant and her was not one of employee-employer.
+[114] In light of my conclusion, I do not find it necessary to analyse the alternative argument of the appellant that Ms. Sargsyan was in excepted employment pursuant to paragraphs 5(2)(a) of the EIA and 6(2)(b) of the CPP.
+[115] The appeals are allowed.
+Signed at Ottawa, Canada, this 9th day of January 2012.
+“Johanne D’Auray”
+D'Auray J.
+CITATION: 2012 TCC 13
+COURT FILE NO.: 2010-2905(EI) and 2010-2933(CPP)
+STYLE OF CAUSE: LE CONSEIL ATLANTIQUE DU CANADA - THE ATLANTIC COUNCIL OF CANADA v. THE MINISTER OF NATIONAL REVENUE
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: August 23, 2011
+AMENDED REASONS
+FOR JUDGMENT BY: The Honourable Justice Johanne D'Auray
+DATE OF THE AMENDED
+REASONS FOR JUDGMENT: January 9, 2012
+APPEARANCES:
+Counsel for the Appellant:
+Harry R. Burkman
+Counsel for the Respondent:
+Tony Cheung
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Harry R. Burkman
+Firm: Law Office of Larry R. Burkman
+Toronto, Ontario
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] The appellant was listed as a potential organization under Annex A.
+[2] I have difficulty understanding how Ms. Lindhout arrived at 8½ weeks, unless she was including the time spent at conferences. In any event, it does not have an impact on my decision.
+[3] Montreal (City) v. Montreal Locomotive Works Ltd. [1946] 3 W.W.R. 748.

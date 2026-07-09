@@ -1,0 +1,195 @@
+---
+title: "Morton c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/67217/index.do"
+last_modified: "2014-03-07"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2014 CCI 72"
+citation2: ""
+neutral_citation: "2014 CCI 72"
+decision_date: "2014-03-07"
+language: "fr"
+item_id: "67217"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5308
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T16:05:24.327000+00:00"
+cases_cited_count: 3
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "a7f2f21938b4eb13fb704c6a9385fb88cb9f72abe73dbaa439bf82b34c2d4ecf"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Morton c. La Reine
+
+- Citation: 2014 CCI 72
+- Decision date: 2014-03-07
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5308, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Morton c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2014-03-07
+Référence neutre
+2014 CCI 72
+Numéro de dossier
+2013-2685(IT)I
+Juges et Officiers taxateurs
+Randall S. Bocock
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2013-2685(IT)I
+ENTRE :
+EDWIN MORTON,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 11 décembre 2013, à Ottawa (Ontario).
+Devant : L’honorable juge Randall S. Bocock
+Comparutions :
+Avocat de l’appelant :
+Me Gregory Sanders
+Avocat de l’intimée :
+Me Ryan Gellings
+____________________________________________________________________
+JUGEMENT
+Conformément aux motifs du jugement ci‑joints, les appels relatifs aux années d’imposition 1998, 1999, 2000 et 2001 sont rejetés et, en conséquence, les pénalités imposées par le ministre à l’égard de ces années sont maintenues.
+Signé à Toronto (Ontario), ce 7e jour de mars 2014.
+« R.S. Bocock »
+Juge Bocock
+Traduction certifiée conforme
+ce 15e jour d’avril 2014.
+C. Laroche
+Référence : 2014CCI72
+Date : 20140307
+Dossier : 2013-2685(IT)I
+ENTRE :
+EDWIN MORTON,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Bocock
+I. La nature de l’appel
+[1] En vertu du paragraphe 163(2) de la Loi de l’impôt sur le revenu (la « Loi »), le ministre du Revenu national (le « ministre ») peut imposer une pénalité au contribuable qui commet une faute lourde ou fait sciemment un faux énoncé dans une déclaration, un formulaire, un certificat ou une réponse produit pour une année d’imposition.
+[2] L’appelant, M. Morton, a produit ses déclarations de revenus pour les années 1998, 1999, 2000 et 2001 (les « années en cause »); pour chacune de ces années, il a acquitté les impôts calculés sur des revenus imposables de 105 677,00 $, 118 529,00 $, 198 530,00 $ et 151 107,00 $, respectivement. Le ministre avait établi de nouvelles cotisations pour ces déclarations de revenus telles qu’elles avaient été produites. Les périodes normales de nouvelle cotisation avaient expiré, mais en 2008, le contribuable avait présenté à l’Agence du revenu du Canada (l’« ARC ») des demandes de redressement de T1 (les « demandes ») fondées sur le paragraphe 152(4.2) de la Loi.
+[3] M. Morton demandait le redressement des revenus qu’il avait antérieurement déclarés et qui avaient fait l’objet de cotisations, de manière à y inclure, pour chaque année visée, les revenus et dépenses d’entreprise suivants :
+[traduction]
+Demande de redressement d’une TI – Formulaire T1‑ADJ F (08)
+Année
+d’imposition
+Autres revenus additionnels désignés dans les demandes comme [traduction] « Sommes additionnelles perçues à titre de mandataire du mandant »
+Autres dépenses additionnelles désignés dans les demandes comme [traduction]
+« Sommes additionnelles versées au mandant à titre de mandataire »
+Revenu net rajusté
+(perte)
+1998
+25 689,00 $
+(124 664,00 $)
+(98 975,00 $)
+1999
+26 777,00 $
+(159 518,00 $)
+(132 741,00 $)
+2000
+29 584,00 $
+(247 449,00 $)
+(217 865,00 $)
+2001
+28 654,00 $
+(186 509,00 $)
+(157 853,00 $)
+[4] Si le ministre avait appliqué chacun des montants figurant dans la dernière colonne du tableau qui précède aux revenus imposables inscrits dans les déclarations de revenus produites antérieurement, cela aurait entraîné le remboursement intégral de tous les impôts précédemment retenus à la source sur les revenus de l’appelant. Les demandes, si on y avait donné suite, auraient permis à l’appelant de toucher un remboursement total de plus de 202 000,00 $. Cela n’a pas été le cas. Le ministre a rejeté les demandes, puis calculé et imposé des pénalités (les « pénalités »). Les parties se sont entendues dès l’ouverture de l’audience sur les montants de ces pénalités, établis à 12 999,42 $, 16 365,84 $, 28 215 $ et 17 732,97 $ pour chacune des années en cause. M. Morton fait appel en vue d’obtenir l’annulation de ces pénalités.
+II. Le témoignage
+[5] M. Morton a admis – ou, du moins, a-t-il déclaré lors de son témoignage – qu’aucun document ne permettait de faire la preuve des revenus, dépenses et pertes inscrits dans les demandes. Il a en outre confirmé, dans son témoignage, qu’il savait, au moment de présenter les demandes, qu’il n’avait ni touché les revenus déclarés ni engagé les dépenses réclamées. L’appelant a ainsi expliqué ces actes accomplis en connaissance de cause : stress lié à des problèmes financiers, échec du mariage et impossibilité de consulter les livres et registres de son entreprise en 2007 et 2008, quelques années après la production des déclarations de revenus. Par conséquent, M. Morton a soumis les demandes sans procéder à un examen minutieux, tout en sachant que les montants par ailleurs considérables qui y figuraient étaient fictifs. Il a déclaré avoir fait cela pour amorcer le processus de demande en espérant ensuite produire les montants exacts et les justificatifs. Il n’a jamais pensé que l’ARC examinerait les demandes et qu’elle pourrait se fier à ce qui y était inscrit. Au contraire, il s’est dit que l’ARC lui demanderait d’abord des documents à l’appui. S’il arrivait à retrouver ces documents, il pourrait alors s’y fier pour faire les rajustements appropriés dans ses demandes. S’il ne trouvait pas ces documents ou si ces derniers n’existaient pas, alors il renoncerait aux demandes.
+III. Le résumé des observations de l’appelant
+[6] L’avocat de l’appelant a fait valoir ce qui suit au soutien de la demande d’annulation des pénalités :
+(i) la nouvelle cotisation est frappée de prescription, puisque, dans les faits, il n’y pas a eu, comme l’exige le paragraphe 152(4) de la Loi, présentation erronée des faits dans la déclaration produite, mais simplement fourniture de renseignements sous le régime de la Loi et, en l’absence de fraude, le simple fait de fournir des renseignements au ministre ne permet pas l’établissement d’une nouvelle cotisation après l’expiration de la période normale pour ce faire;
+(ii) le ministre n’a pas versé de remboursement à l’appelant au titre des demandes fictives, ni délivré d’avis de nouvelle cotisation reconnaissant qu’un tel avantage était dû à l’appelant au titre de ces demandes;
+(iii) en tout état de cause, il n’y a pas eu faute lourde devant entraîner une pénalité, puisque la Demande de rajustement d’une T1 n’est pas une déclaration, un formulaire ou un certificat visé au paragraphe 162(3) de la Loi;
+(iv) l’ARC a publié divers documents d’orientation, circulaires d’interprétation et décisions anticipées dans lesquels on peut lire que l’imposition de pénalités ne peut se faire qu’à l’égard des déclarations de revenus, et non dans le cadre d’une vérification ou d’une demande de rajustement postérieure à un délai de prescription.
+IV. Analyse et décision
+[7] Avant de procéder à une analyse point par point de la preuve à la lumière des observations de l’appelant, la Cour conclut, en se basant, au regard des faits, sur les aveux et le témoignage de M. Morton, que celui‑ci a sciemment et intentionnellement fourni de faux renseignements dans les demandes, et ce, sans s’en remettre à un conseiller ou une autre personne. Il a déduit des sommes considérables à titre de dépenses fictives pour les années en cause. Bien qu’un constat de faute lourde puisse suffire, la Cour juge que M. Morton a voulu se servir des dispositions du paragraphe 152(4.2) et des demandes afin de redresser ses déclarations de revenus en faisant sciemment de tels faux énoncés. En outre, il n’a présenté aucun document tendant à prouver qu’il souffrait, comme il l’a affirmé, d’un stress suffisamment grave pour mitiger ou expliquer le constat de faute lourde (Rohani c R, 2009 CCI 88).
+[8] Compte tenu de ce qui précède, les pénalités doivent être maintenues, à moins que les arguments juridiques présentés par l’appelant ne soient retenus. Or, pour les motifs exposés ci-dessous, la Cour rejette ces arguments, ainsi que l’appel, et elle maintient les pénalités.
+a) Il n’y a pas eu présentation erronée des faits en produisant une déclaration ou fraude en fournissant de l’information (paragraphe 152(4))
+[9] En ce qui a trait à l’argument selon lequel il n’y aurait pas eu présentation erronée de faits ou fraude en produisant une déclaration de revenus comme l’exige le paragraphe 152(4) de la Loi, les conclusions de fait auxquelles arrive la Cour ne permettent tout simplement pas d’étayer une telle affirmation. L’appelant est un ingénieur de systèmes électroniques formé en Angleterre; il est membre en règle de la profession au Canada et détient un titre professionnel similaire au Royaume-Uni. Selon ses propres dires, il fait l’analyse de systèmes à un haut niveau et supervise leur conception du début jusqu’à la fin. À l’inverse, son témoignage selon lequel il n’était pas conscient de l’objet, du but et des conséquences relatifs à la production des demandes va à l’encontre de certains faits évidents à l’effet contraire. Premièrement, M. Morton a toujours produit ses déclarations de revenus, y compris celles des années en cause, en faisant preuve de minutie et d’exactitude. Deuxièmement, il a eu d’inexplicables prémonitions concernant des revenus, des dépenses et de possibles pertes non déclarés, prémonitions qui se sont présentées, comme par hasard, à une époque où il n’avait plus accès aux justificatifs allégués, plutôt qu’au cours des six à huit années précédentes, où il était en possession de ces dossiers et avait produit des déclarations de revenus exactes. Troisièmement, il savait exactement quel formulaire il devait utiliser pour présenter les demandes et n’a apparemment eu besoin d’aucune aide. Ces éléments contrastent avec l’incertitude, la naïveté et l’ignorance caractérisant, à l’en croire, une démarche par ailleurs entreprise sciemment sans renseignements justificatifs ainsi qu’avec la communication au ministre de son malheur allégué (la perte de ses dossiers) à l’approche imminente du délai de prescription de dix ans prévu au paragraphe 152(4.2).
+[10] Du point de vue des faits, la Cour conclut que M. Morton avait besoin d’argent et que le dépôt des demandes fictives constituait une solution pratique et rapide qu’il pensait vraisemblablement, au départ, pouvoir mettre en œuvre impunément. Vu le niveau d’instruction de l’appelant, la remarquable mémoire dont il a fait preuve en témoignage, son cheminement professionnel et les dates précises de ses promotions, le fait qu’il s’est toujours conformé à ses obligations par le passé et qu’il a, par la suite, été inexplicablement frappé d’incompréhension, la Cour estime que les demandes de redressement de T1 ont présenté de manière non seulement erronée, mais considérablement erronée, et à première vue frauduleuse, les revenus et dépenses supposés de M. Morton pour les années en cause. Elles ont été produites, sans avoir été sollicitées, à titre de « renseignements » fournis sous le régime de la Loi. Les chiffres extraordinaires qui y figurent ont été créés de toutes pièces et présentés au ministre avec l’unique intention d’obtenir par la ruse le remboursement de toutes les sommes précédemment retenues et correspondant aux impôts payés. Compte tenu de cette conclusion de fait, la confusion qu’aurait éprouvée M. Morton par la suite paraît, tout compte fait, purement invraisemblable.
+[11] Puisque la Cour a conclu, à partir des faits, que l’appelant avait commis une fraude en fournissant des renseignements sous le régime de la Loi, il lui faut à l’évidence écarter l’argument avancé par son avocat, à savoir que la présentation erronée, mais innocente, de faits lors de la fourniture de renseignements n’est pas une base suffisante pour autoriser l’établissement d’une nouvelle cotisation après l’expiration de la période normale de cotisation. Quelles que soient les conclusions de droit que l’on puisse tirer de la décision Ross c Sa Majesté la Reine, 2013 CCI 333, jamais une telle remarque incidente ne pourrait être interprétée comme indiquant que le ministre n’est pas autorisé à exercer son droit de procéder à une nouvelle cotisation au-delà de la période normale pour ce faire en présence d’une déclaration inexacte dont les faits permettent de constater la nature frauduleuse. De la même façon, la décision College Park Motors c Sa Majesté la Reine, 2009 CCI 409, qui a été invoquée, est inapplicable. De plus, M. Morton a voulu obtenir la réouverture des années en cause et il a expressément demandé le réexamen de ses revenus imposables après l’expiration de la période normale de nouvelle cotisation. Il a demandé au ministre de tenir compte des nombres fictifs à l’égard d’années d’imposition qui étaient par ailleurs à l’abri des nouvelles cotisations. Il est difficile d’imaginer un contexte plus éloigné de celui des affaires Ross et College Park Motors, qui portaient sur des erreurs innocentes effectuées dans la présentation des faits et découvertes à l’occasion d’une vérification ou d’une enquête de l’ARC.
+b) L’absence de remboursement ou de nouvelle cotisation fondés sur la demande exclut la possibilité d’imposer une pénalité
+[12] L’argument voulant que le ministre ne soit pas autorisé à imposer des pénalités du fait qu’il ne s’est pas fondé sur la demande pour émettre un remboursement ou établir une nouvelle cotisation omet d’accorder l’importance qui est due à l’intention et aux attentes du contribuable en cause et de tous les contribuables qui présentent une demande de redressement d’une T1 sous le régime de la Loi, ainsi qu’au sens ordinaire des paragraphes 152(4) et 152(4.2).
+[13] La disposition législative (paragraphe 152(4.2)), qui permet au contribuable de présenter une demande et de solliciter une nouvelle détermination, suit immédiatement celle prévoyant le droit du ministre d’établir de nouvelles cotisations après la fin de la période normale de nouvelle cotisation. Le paragraphe 152(4.2) accorde au contribuable un délai supplémentaire pour demander au ministre de procéder à une nouvelle détermination, délai qui se prolonge au-delà de la période pendant laquelle le ministre peut y procéder unilatéralement. En temps normal, le ministre dispose de trois ans pour établir une nouvelle cotisation, alors que le contribuable dispose de 10 ans pour demander un redressement, bien que le ministre puisse, à sa discrétion, refuser de procéder à la nouvelle détermination.
+[14] Les dispositions applicables du paragraphe 152(4.2) sont les suivantes :
+(4.2) Malgré les paragraphes (4), (4.1) et (5), pour déterminer, à un moment donné après la fin de la période normale de nouvelle cotisation applicable à un contribuable — particulier, autre qu’une fiducie, ou fiducie testamentaire — pour une année d’imposition le remboursement auquel le contribuable a droit à ce moment pour l’année ou la réduction d’un montant payable par le contribuable pour l’année en vertu de la présente partie, le ministre peut, si le contribuable demande pareille détermination au plus tard le jour qui suit de dix années civiles la fin de cette année d’imposition, à la fois :
+a) établir de nouvelles cotisations concernant l’impôt, les intérêts ou les pénalités payables par le contribuable pour l’année en vertu de la présente partie;
+b) déterminer de nouveau l’impôt qui est réputé, par les paragraphes 120(2) ou (2.2), 122.5(3), 122.51(2), 122.7(2) ou (3), 127.1(1), 127.41(3) ou 210.2(3) ou (4), avoir été payé au titre de l’impôt payable par le contribuable en vertu de la présente partie pour l’année ou qui est réputé, par le paragraphe 122.61(1), être un paiement en trop au titre des sommes dont le contribuable est redevable en vertu de la présente partie pour l’année.
+[15] Quiconque présente une demande de redressement s’attend à ce que le ministre l’étudie avec sérieux, qu’il rouvre l’année d’imposition concernée et donne quelque suite à la demande. Dans l’exercice du pouvoir discrétionnaire qui lui est conféré, le ministre peut établir de nouvelles cotisations concernant l’impôt, les intérêts ou les pénalités (alinéa 4.2a)) et déterminer de nouveau l’impôt payable (alinéa 4.2b)). D’un point de vue juridique, il est absurde de prétendre que le défaut d’établir un avis de nouvelle cotisation ou de verser un remboursement fait obstacle à l’imposition d’une pénalité. En effet, si c’était le cas, le ministre pourrait, par exemple, imposer des pénalités si l’ARC, en se fondant sur la demande, établissait une nouvelle cotisation, immédiatement suivie d’une nouvelle cotisation supplémentaire annulant la précédente. La situation pourrait être « régularisée » en l’espace d’une journée, voire de quelques minutes. La Cour peut seulement s’imaginer l’ampleur de l’indignation des contribuables et de leurs avocats si le ministre agissait avec une telle duplicité dans le seul dessein de paraître s’être fondé sur une demande de redressement d’une T1 effrontément fabriquée.
+[16] Par ailleurs, si l’effet conjugué des paragraphes 152(4.2) et 163(2) était d’interdire l’imposition d’une pénalité à moins qu’il ne soit indiqué dans un avis de nouvelle cotisation que le ministre s’est fondé sur une déclaration inexacte et frauduleuse, l’absurdité qui en résulterait serait tout aussi manifeste. Si la condition préalable que pose le paragraphe 154(2) à l’établissement d’une nouvelle cotisation est remplie (soit, en l’espèce, l’existence d’une déclaration inexacte et frauduleuse), la période de nouvelle cotisation n’est assujettie à aucune limite de temps. Dans le présent appel, sur la base des faits, le ministre pourrait établir une nouvelle cotisation dès demain et la révoquer le surlendemain au moyen d’une autre nouvelle cotisation par laquelle il imposerait au demeurant les pénalités. Au lieu de cela, le ministre a vu clair dans le jeu de l’appelant et a imposé d’un seul coup les pénalités.
+[17] De plus, l’examen du cadre et de la finalité de l’article permet de constater qu’en vertu de ses dispositions, le ministre peut, « pour déterminer […] le remboursement […] ou la réduction d’un montant payable, […] établir de nouvelles cotisations concernant l’impôt, les intérêts ou les pénalités payables par le contribuable pour l’année » (non souligné dans l’original). En clair, le ministre, pour déterminer le remboursement visé par la demande, a rejeté la demande et imposé une pénalité, mais les deux mesures se rapportaient à la détermination du montant d’un remboursement réclamé par le contribuable lors du dépôt de ses demandes. L’alinéa 152(4.2)a), reproduit ci‑dessus, fait référence aux pénalités et, dans son sens manifeste, il ne limite pas l’intervention du ministre à la « réduction » d’un montant payable : il peut aussi « établir de nouvelles cotisations » concernant l’impôt, les intérêts et les pénalités.
+c) La demande de redressement d’une T1 n’est pas une « déclaration » au sens du paragraphe 163(2)
+[18] L’avocat de l’appelant soutient par ailleurs que le paragraphe 163(2) ne s’applique pas, parce que les demandes présentées par l’appelant ne sont pas des « déclarations » au sens de ce paragraphe et, plus généralement, de la Loi. De plus, il fait valoir que la demande de redressement d’une T1 n’est pas une « déclaration », puisque les mots « formulaire », « certificat », « état » et « réponse » ont des sens bien précis dans le contexte du paragraphe 163(2) de la Loi et que, par définition, ils ne visent pas la demande de redressement d’une T1.
+[19] Voyons d’abord ce que dit véritablement ce paragraphe :
+163(2) Toute personne qui, sciemment ou dans des circonstances équivalant à faute lourde, fait un faux énoncé ou une omission dans une déclaration, un formulaire, un certificat, un état ou une réponse (appelé « déclaration » au présent article) rempli, produit ou présenté, selon le cas, pour une année d’imposition pour l’application de la présente loi, ou y participe, y consent ou y acquiesce est passible d’une pénalité égale, sans être inférieure à 100 $, à 50 % du total des montants suivants :
+a) l’excédent éventuel du montant visé au sous-alinéa (i) sur le montant visé au sous-alinéa (ii) :
+(i) l’excédent éventuel de l’impôt qui serait payable par cette personne pour l’année en vertu de la présente loi sur les sommes qui seraient réputées par les paragraphes 120(2) et (2.2) payées au titre de l’impôt de la personne pour l’année, s’il était ajouté au revenu imposable déclaré par cette personne dans la déclaration pour l’année la partie de son revenu déclaré en moins pour l’année qu’il est raisonnable d’attribuer au faux énoncé ou à l’omission et si son impôt payable pour l’année était calculé en soustrayant des déductions de l’impôt payable par ailleurs par cette personne pour l’année, la partie de ces déductions qu’il est raisonnable d’attribuer au faux énoncé ou à l’omission,
+(ii) l’excédent éventuel de l’impôt qui aurait été payable par cette personne pour l’année en vertu de la présente loi sur les sommes qui auraient été réputées par les paragraphes 120(2) et (2.2) payées au titre de l’impôt de la personne pour l’année, si l’impôt payable pour l’année avait fait l’objet d’une cotisation établie d’après les renseignements indiqués dans la déclaration pour l’année;
+[20] Un bref examen du paragraphe suffit pour comprendre que l’argument est dénué de logique et de sens. Concernant la finalité et le cadre du régime, il s’agit d’offrir au contribuable un moyen simple et efficace, par le truchement des demandes de redressement de T1, pour demander à « modifier » sa déclaration sans avoir à produire en entier une déclaration modifiée s’il souhaite présenter une demande dans le cadre du paragraphe 152(4.2) ou si le délai prévu pour ce faire a expiré.
+[21] En fait, la demande de redressement d’une T1 est très semblable à la déclaration de revenus T1, tant sur le plan de la forme que du fond. Elle suit sensiblement le même format, ses rubriques sont numérotées et, qui plus est, le contribuable doit attester « que les renseignements donnés dans ce formulaire et dans les documents annexés sont, à [s]a connaissance, exacts et complets ».
+[22] Le contribuable n’est pas tenu par la Loi de recourir à ce « formulaire », mais celui-ci constitue un moyen rapide, pratique et accepté de demander une détermination au titre du paragraphe 152(4.2) de la Loi. On ne peut prétendre, en s’appuyant sur le droit, que le ministre – par l’entremise de l’ARC –, les contribuables et la Cour ne doivent pas considérer cette « demande » comme un « formulaire » qui renferme des « états » et se clôt sur un « certificat » et qui constitue le point de départ du processus menant à l’obtention d’une détermination sous le régime du paragraphe 152(4.2), et éventuellement à l’application des dispositions de large portée du paragraphe 163(2). Cela revient à ignorer le texte de loi lui‑même, mais aussi la finalité et le cadre des deux articles et du régime de production volontaire des déclarations de revenus consacré par la Loi. En outre, quant au paragraphe 163(2) même, l’emploi des mots « au présent article » nous indique que ces termes recouvrent ici leur sens ordinaire et qu’ils sont assimilés à une « déclaration », ce qui a pour effet d’écarter le sens qui leur est attribué ailleurs dans la Loi par d’autres définitions particulières.
+[23] À l’évidence, la demande de redressement d’une T1 et les renseignements qui y figurent et dont le contribuable a attesté l’exactitude constituent une « déclaration » au sens de la définition enchâssée dans le paragraphe 163(2) de la Loi. Dans le présent appel, si l’on excepte le nom et l’adresse du contribuable, tous les renseignements figurant dans un tel « formulaire », « certificat » ou « état » (regroupés dans ce paragraphe sous le terme « déclaration ») ont été sciemment, unilatéralement et faussement fournis dans le seul but de générer un remboursement et de réduire l’impôt par ailleurs valablement établi et à payer. Lorsqu’ils sont considérés à la lumière des déclarations inexactes et frauduleuses de l’appelante, le sens ordinaire du paragraphe 163(2), son contexte et le but qu’il remplit dans le cadre de la Loi appellent l’imposition de pénalités.
+d) Les bulletins d’interprétation et décisions anticipées de l’ARC
+[24] Enfin, l’avocat de l’appelant signale qu’une certaine circulaire d’information (IC07‑1 Dispositions d’allègement pour les contribuables) ainsi que des documents d’interprétation technique de l’ARC (2010‑035651117 et 2009‑034429117) donnent à la Cour des précisions utiles quant au fait qu’il n’est pas permis d’imposer des pénalités relativement aux demandes de redressement d’une T1. La circulaire d’information IC071, en particulier en son paragraphe 74 auquel l’avocat renvoie, énonce qu’en général, l’ARC n’acceptera pas de demande de rajustement visant une année d’imposition frappée de prescription d’un particulier dans le cas où le rajustement résulterait en une augmentation des impôts, des intérêts ou des pénalités quant aux déclarations frappées de prescription d’autres particuliers et qui ne peuvent pas faire l’objet d’une nouvelle cotisation. Même si le libellé était sans équivoque (c.-à-d. si le terme « en général » était absent), la règle ne s’appliquerait pas en l’espèce, puisqu’aucun autre contribuable n’est concerné. Quant aux décisions anticipées qui ont été invoquées, l’une concerne les vérifications entreprises par l’ARC et l’autre, la méthode de calcul des pénalités. Même en supposant que la Cour puisse être liée par ces textes, il n’y a aucune analogie possible entre les deux situations décrites et la présente affaire.
+[25] Par conséquent, l’appel est rejeté et les pénalités sont maintenues. Aucuns dépens ne seront adjugés.
+Signé à Toronto (Ontario), ce 7e jour de mars 2014.
+« R.S. Bocock »
+Juge Bocock
+Traduction certifiée conforme
+ce 15e jour d’avril 2014.
+C. Laroche
+RÉFÉRENCE : 2014TCC72
+NO DU DOSSIER DE LA COUR : 2013-2685(IT)I
+INTITULÉ : EDWIN MORTON ET
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Ottawa (Ontario)
+DATE DE L’AUDIENCE : Le 11 décembre 2013
+MOTIFS DU JUGEMENT : L’honorable juge Randall S. Bocock
+DATE DU JUGEMENT : Le 7 mars 2014
+COMPARUTIONS :
+Avocat de l’appelant :
+Me Gregory Sanders
+Avocat de l’intimée :
+Me Ryan Gellings
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom : Gregory Sanders
+Cabinet : Perley-Robertson, Hill & McDougall,
+s.e.n.c.r.l., sr.l.
+Ottawa, Ontario
+Pour l’intimée : William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada

@@ -1,0 +1,157 @@
+---
+title: "Lessard c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28568/index.do"
+last_modified: "2008-03-27"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 TCC 174"
+citation2: ""
+neutral_citation: "2008 TCC 174"
+decision_date: "2008-03-27"
+language: "en"
+item_id: "28568"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1101
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T00:24:17.685000+00:00"
+cases_cited_count: 2
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "1ec40969c7789a70dc14d74bb7db9790cde0192c622ab7ae4f24285c71f1861c"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Lessard c. La Reine
+
+- Citation: 2008 TCC 174
+- Decision date: 2008-03-27
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1101, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Lessard c. La Reine
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-03-27
+Neutral citation
+2008 TCC 174
+File numbers
+2007-3002(IT)I
+Judges and Taxing Officers
+Réal Favreau
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2007-3002(IT)I
+BETWEEN:
+PATRICK LESSARD,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on March 17, 2008, at Shawinigan, Quebec.
+Before: The Honourable Justice Réal Favreau
+Appearances
+Counsel for the Appellant:
+Pierre Spain
+Counsel for the Respondent:
+Justine Malone
+____________________________________________________________________
+JUDGMENT
+The appeal from the notices of redetermination dated October 20, 2006, in which the Minister of National Revenue denied the Appellant the Canada Child Tax Benefit for the month of June 2006 and the period of July through September 2006 in relation to the 2004 and 2005 base years, is dismissed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 27th day of March 2008.
+“Réal Favreau”
+Favreau J.
+Citation: 2008TCC174
+Date: 20080327
+Docket: 2007-3002(IT)I
+BETWEEN:
+PATRICK LESSARD,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Favreau J.
+[1] This is an appeal from the notices of redetermination dated October 20, 2006, respecting the Canada Child Tax Benefit for the 2004 and 2005 base years.
+[2] The issue is whether the Minister of National Revenue (the "Minister") was correct in determining that the Appellant was not the parent who primarily fulfilled the responsibility for the care and upbringing of his child, Mathieu, in June 2006 for the 2004 base year and in July through September 2006 for the 2005 base year.
+[3] On or around February 5, 2007, the Appellant filed with the Minister a Notice of Objection to the notices of redetermination dated October 20, 2006, for the 2004 and 2005 base years.
+[4] On June 1, 2007, the Minister confirmed the notices of redetermination dated October 20, 2006, for the 2004 and 2005 base years.
+[5] To make and confirm the redeterminations for the 2004 and 2005 base years, the Minister relied on the following assumptions of fact:
+[TRANSLATION]
+(a) the Appellant and Nathalie Filiatreault were spouses and they had three children together, including Mathieu, born on October 23, 1990;
+(b) Mathieu resided with the Appellant until the month of May 2006, when he moved into his mother’s home;
+(c) in October 2006, Mathieu went back to live with the Appellant;
+(d) during the periods at issue, Mathieu was residing primarily with his mother;
+(e) the Minister determined that, during the periods at issue, Ms. Filiatreault was the person primarily responsible for the care and upbringing of Mathieu.
+[6] Under the terms of a judgment of the Superior Court of Quebec dated February 21, 2006,[1] giving executory force to an agreement duly signed by the parties (the "judgment"), the Appellant had sole custody of Mathieu and $1,574 per year in support was payable by the mother effective January 1, 2006.
+Appellant’s testimony
+[7] The Appellant stated that Mathieu had lived with him continuously from the start of 2002 through April 2006, except for a period of one and one half years that he spent in a facility for young offenders in 2004–05. He admitted having asked Mathieu’s mother to take Mathieu back, as he had not known how to handle him any longer. He acknowledged that Mathieu’s mother had agreed to take him back into her home and that Mathieu had moved in with her in May 2006. According to the Appellant, the move had not been successful and Mathieu had stayed with his mother only about 30 days in total during the periods at issue. He maintained that, during the periods concerned, Mathieu had often slept at his place because he had been working in Nicolet and his friends lived in Nicolet.
+Mother’s testimony
+[8] The mother confirmed that her son had moved his personal effects into her home, bringing his clothing, CDs, video player, television and schoolbooks. She also indicated that she had set up a room with a seating area for Mathieu in the basement of her home and had enrolled Mathieu at Jean-Nicolet Secondary School for the 2006 school year. According to a letter from the principal of that school dated April 16, 2007,[2] it had been agreed that Mathieu would do his school work at home and that he or his mother would contact the school to hand in his work and take his tests and exams. This letter was further to an earlier letter, dated November 6, 2006,[3] in which the same school principal had confirmed that Mathieu was enrolled at the school and was living at 18 Haut‑de‑la‑Rivière, St‑François‑du‑Lac, which is his mother’s address. The mother admitted that her son had not done his school work. She stated that, following her son’s move into her home, she had taken some steps to obtain legal custody of Mathieu and terminate the support paid to the father for Mathieu. However, everything had come to a halt on October 5, when Mathieu had left his mother’s home to go back to live with his father. Following that move, the mother had advised the Minister to cease paying her the tax benefit for Mathieu.
+Appellant’s position
+[9] Counsel for the Appellant submitted that, in June 2006 and July through October 2006, Mathieu had merely been visiting his mother and had stayed with her on a trial basis for only about 30 days, as his client had had sole custody of Mathieu since February 21, 2006, under a judgment. Counsel for the Appellant argued that the letter dated November 6, 2006, from the school principal had been sent to accommodate the mother, since Mathieu had no longer been residing with his mother on November 6, 2006.
+Analysis and conclusion
+[10] Under paragraph (a) of the definition of “eligible individual” in section 122.6 of the Income Tax Act (the "Act"), an eligible individual is a person who resides with the dependant.
+[11] The term “reside” as used in the definition of “eligible individual” in section 122.6 of the Act means [TRANSLATION] “to ordinarily live in the same home.” The question to be addressed is this: was Mathieu ordinarily living in his mother’s home in June 2006 and from July through September 2006?
+[12] The Appellant admitted that Mathieu had moved in with his mother in May 2006. Mathieu thus resided with his mother beginning in May 2006. Mathieu’s mother admitted that Mathieu had gone back to live with his father in October 2006. Based on the facts and admissions of the parties, I find that Mathieu resided with his mother during the periods at issue.
+[13] However, the Appellant alleged that Mathieu had not ordinarily resided with his mother except for a period of about 30 days. No evidence was adduced in this regard, and the Appellant and Mathieu’s mother gave conflicting testimony concerning the frequency and length of Mathieu’s visits with his father while he was residing with his mother.
+[14] Given that Mathieu definitely moved in with his mother and his mother set up a room for him in the basement of her residence, that Mathieu’s mother enrolled him in school, and that his mother took steps to have changes made to the sole custody of Mathieu and to the support paid to the father, I find that the Appellant was not the eligible individual, as Mathieu was not residing with his father during the periods at issue. Accordingly, the Appellant was not entitled to the Canada Child Tax Benefit during the periods at issue, even though he had sole custody of Mathieu.
+[15] The fact of having sole custody of a child under an agreement or judgment does not automatically entitle an individual to receive the child tax benefit. In Landry, Bédard J. of this Court stated the following in this regard:
+I also note that the fact of having sole custody of a child under an agreement or judgment does not automatically entitle one to the Child Tax Benefit. That is simply not a determinant factor. In no way does a separation agreement or similar judgment bind the Minister, nor does it confer tax rights on a parent with whom the child is not residing and who is not responsible for the child.[4]
+Moreover, in Matte, the Federal Court of Appeal stated the following:
+We are therefore of the view that the Tax Court Judge erred here in finding as a matter of law that the applicant mother, the non-custodial parent, could not be eligible for the child tax benefit for the month of August, 1998 as requested, because her former partner was at other times of the year the "eligible individual.[5]
+[16] With respect to the letters from the school principal, what I understand is that they are relevant only insofar as they confirm that Mathieu was enrolled at the school, a fact that the Appellant acknowledged, even though he did not believe that the enrolment would be successful. The mother’s credibility cannot be impugned on the basis that she asked for the letters after the Minister had raised questions concerning her entitlement to the benefit or on the basis that the letters are inaccurate as to Mathieu’s place of residence and the period of residence with his mother. It is important to remember that Mathieu’s mother promptly asked the Minister to cease payment of the benefit after Mathieu moved out in October 2006.
+[17] For these reasons, the appeal is dismissed without costs.
+Signed at Ottawa, Canada, this 27th day of March 2008.
+“Réal Favreau”
+Favreau J.
+Translation certified true
+on this 6th day of May 2008.
+Carole Chamberlin, Translator
+CITATION: 2008TCC174
+COURT FILE NO.: 2007-3002(IT)I
+STYLE OF CAUSE: PATRICK LESSARD AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Shawinigan, Quebec
+DATE OF HEARING: March 17, 2008
+REASONS FOR JUDGMENT BY: The Honourable Justice Réal Favreau
+DATE OF JUDGMENT: March 27, 2008
+APPEARANCES:
+Counsel for the Appellant:
+Pierre Spain
+Counsel for the Respondent:
+Justine Malone
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Pierre Spain
+Firm: Biron, Spain
+Avocats
+Trois-Rivières
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] See Exhibit A-1.
+[2] See Exhibit I-1.
+[3] See Exhibit I-2.
+[4] Landry v. Canada, 2007 TCC 355, paragraph 13.
+[5] Matte v. Canada, 2003 FCA 19, paragraph 12.

@@ -1,0 +1,240 @@
+Title: Spunt v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28035/index.do
+Corpus path: corpus/cases/tcc/2007/2007-tcc-571-28035-spunt-v-the-queen-en.md
+Document type: case_law
+Last modified: 2007-06-27
+
+# Spunt v. The Queen
+
+- Citation: 2007 TCC 571
+- Decision date: 2007-06-27
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1621, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Spunt v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-06-27
+Neutral citation
+2007 TCC 571
+File numbers
+2007-206(IT)I
+Judges and Taxing Officers
+Paul Bédard
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2007-206(IT)I
+BETWEEN:
+PETER S. SPUNT,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on June 27, 2007, at Montreal, Quebec.
+Before: The Honourable Justice Paul Bédard
+Appearances:
+For the Appellant:
+The Appellant himself
+Agent for the Respondent:
+Isabelle Pipon (student-at-law)
+____________________________________________________________________
+JUDGMENT
+The appeal from a reassessment made under the Income Tax Act for the 2000 taxation year is dismissed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 12th day of October 2007.
+"Paul Bédard"
+Bédard J.
+Citation: 2007TCC571
+Date: 20071012
+Docket: 2007-206(IT)I
+BETWEEN:
+PETER S. SPUNT,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Bédard J.
+[1] This is an appeal under the informal procedure from the reassessment issued by the Minister of National Revenue (the "Minister") in accordance with the Income Tax Act (the "Act") for the appellant’s 2000 taxation year.
+[2] The only point at issue is the assessment of a penalty under subsection 163(2) of the Act and the interest on that penalty.
+[3] The facts on which the Minister relied in making the reassessment are set out in paragraphs 6, 7 and 8 of the Reply to the Notice of Appeal, as follows:
+6. In order to establish the reassessment, and the confirmation, the Minister relied on the following same assumptions of fact:
+a) The Appellant in filing his income tax return for the 2000 taxation year failed to include the taxable capital gains realized in the taxation year in relation to his investment activities;
+b) Following an audit, by way of submitted documentation from the Appellant, Revenue Quebec determined that the appellant realized the following gains on dispositions in his investment portfolio:
+INVESTMENT
+DATE OF
+DISPOSAL
+# of
+UNITS
+PROCEEDS
+ADJUSTED
+COST BASE
+CAPITAL
+GAIN
+Royal Balanced
+Fund
+4-Feb-00
+3839
+$40,471.00
+$30,000.00
+$10,741.00
+Bombardier Inc.-
+CL B Sub-VTG
+10-Jan-00
+300
+$9,082.00
+$8,385.00
+$697.00
+Pepsico Inc.
+14-Feb-00
+310
+$15,254.00
+$12,689.00
+$2,565.00
+Loblaw
+Companies Ltd
+08-Jun-00
+900
+$ 39,570.00
+$29,285.00
+$10,285.00
+Loblaw
+Companies Ltd.
+05-Jun-00
+108
+$ 4,722.00
+$3,482.00
+$1,240.00
+Total
+$109,099.00
+$83,841.00
+$25,258.00
+c) In applying the inclusion rate of 71.1975% for the 2000 taxation year, the Appellant's taxable capital gain was $17,983;
+7. In underreporting his revenues in the amount of $17,983 for the 2000 taxation year the Appellant made a misrepresentation that was attributable to neglect, carelessness or wilful default as;
+a) The Appellant knows he has to declare all his revenues and he did not do so;
+b) The Appellant did declare his dispositions in prior years so he was aware that such has to be included in reporting his income;
+c) The Appellant's sources of revenues, for the taxation year, include dividends and interest from investment sources;
+d) The Appellant maintains an active portfolio of investments;
+e) The Appellant is knowledgeable of the fiscal implications of reporting his revenues;
+f) The Appellant knows his revenues received and cannot plead ignorance in not reporting the capital gains for the dispositions;
+g) Following the reassessment by Revenue Quebec the Appellant did not inform the Minister of amendments that would be required to his Federal income tax return for the taxation year;
+h) The income tax return was prepared for the Appellant by an agent based upon the information provided by him to the agent;
+i) The unreported taxable capital gain represents 21% of the total revenue for the taxation year.
+8. In failing to report the revenues in the amount of $17,983 the Appellant knowingly or under circumstances amounting to gross negligence, in carrying out a duty or obligation imposed under the Act, made or participated in assented to or acquiesced in the making of a false statement or omission in the income tax return filed in respect to the Appellant's 2000 taxation year, as a result of which the tax that would have been payable assessed on the information provided in the Appellant's tax return in respect of the year was less than the tax in fact payable in respect of that year by the amount of $4,182.48 and the Appellant is liable for a penalty in the amount of $2,091.24 as:
+a) The Appellant knows he has to declare all his revenues and he did not do so;
+b) The Appellant did declare his dispositions in prior years so he was aware that such has to be included in reporting his income;
+c) The Appellant maintains an active portfolio of investments;
+d) The Appellant's sources of revenues, for the taxation year, include dividends and interest from investment sources;
+e) The Appellant is knowledgeable of the fiscal implications of reporting his revenues;
+f) The Appellant knows his revenues received and cannot plead ignorance in not reporting the capital gains for the dispositions;
+g) Following the reassessment by Revenue Quebec the Appellant did not inform the Minister of amendments that would be required to his Federal income tax return for the taxation year;
+h) The income tax return was prepared for the Appellant by an agent based upon the information provided by him to the agent;
+i) The unreported taxable capital gain represents 21% of the total revenue for the taxation year.
+[4] The notice of appeal reads as follows:
+NOTICE OF APPEAL Re: Notice of Objection – Income Tax Return for 2000
+Dears Sirs:
+Further to the Notification of Confirmation by the Minister dated at Laval on November 2, 2006 to the above Notice of Objection, I wish to file this appeal with the Tax Court of Canada using the Informal Procedure. I am therefore writing you this letter to request the cancellation and waiver of the arrears interest of $2589.44 and penalties of $2,091.24.
+I have included a check in the amount of $100 with this Notice of Appeal payable to the Receiver General of Canada in the amount of $100 which I trust will be reimbursed if my appeal is allowed by the Court.
+First, I wish to point out that I did NOT knowingly, or under circumstances amounting to gross negligence, make an omission in my return of income in respect of the 2000 taxation year, under subsection 163(2) as I will explain below.
+After living at our residence at 113 Ryan Street in Dollard Des Ormeaux for over fifteen (15) years as of 2001, we were moving to a new residence that was under construction at the time. Therefore all of our possessions, including files and papers were being packed slowly from April 2001-September 2001 in order to be put in storage for 6 months: from October 2001-March 2002, when the new house would be finally ready. This is where we live now – 41 Edgewood St., DD0, QC, H9A 3K6. This information can be confirmed by my addresses on my submitted tax forms.
+We lived in temporary quarters from October 2001-March 2002, totaling six months of displacement. Therefore, it is possible that some trading slips/trading summaries (Nesbitt Burns and RBC Action Direct) were lost in this process or in fact never received. I normally, by routine course, submit all of my documents to my accountant, namely DesRosiers Lombardi, for tax forms preparation. Similarly, I never declared any capital losses for the same reason.
+In the case of the Royal Balanced Fund, where the gain was $10,471, which was a long term (5-year) bank deposit which was purchased in October, 1996, there was NO paperwork issued by RBC reflecting the gain and therefore, there was nothing to give to my accountant. As this money continued to be reinvested and was NOT spent on purchased goods, the gain, although made was never noticed or realized by me.
+January 10, 2007
+Tax Court of Canada
+These are the explainable reasons for not having submitted the required documentation in April, 2001 for the 2000 tax period. Additionally, as this was not realized at the time, for the reasons mentioned, it was impossible to realize that this had taken place subsequently at a later date until it was pointed out by the audit made by the Minister of Revenue Quebec.
+This situation was not done intentionally and to the best of by knowledge is the first and only occurrence of its type and I am 56 years old and have been filing tax reports for over 40 years. That is why I am contesting both the taxes and the interest owed in connection with this appeal but at least the penalties associated thereof.
+I trust that the following factors will be considered when determining whether the Court will cancel or waive the penalty:
+(a) I have a 40+ years of history of compliance with my tax obligations;
+(b) I have never knowingly allowed a balance to exist upon which arrears interest has accrued;
+(c) I have exercised a reasonable amount of care and have not been negligent or careless in conducting my affairs under the self-assessment system until this event and;
+(d) I acted quickly to remedy any delay or omission as I did pay the full amount of this reassessment prior to the due date of March 16th, 2006.
+Therefore, I am appealing for leniency in this case and respectfully request on a one-time only basis exoneration of any arrears interest and associated penalties and that they be waived, as this situation was due to circumstances beyond my control, and I trust that these amounts will be refunded to me. Certainly the Fairness Provisions provide, you the Court, the discretion in certain situations to cancel and waive the penalties and interest. I believe that this is such a situation in that, as explained above, the arrears interest and at the very least the penalties should be forgiven as they resulted from circumstances beyond my control.
+Thank you in advance for your anticipated serious consideration of this appeal.
+Sincerely,
+Peter S. Spunt
+President
+[5] The witnesses in this case were, for the appellant, the appellant himself, and for the respondent, Diane Charette.
+[6] In his testimony, the appellant reiterated the reasons stated in his notice of appeal for not having declared all his income.
+[7] We also learnt from the appellant's testimony that:
+(i) He has a degree in political science from McGill University and a post-graduate diploma in management from the same university.
+(ii) During the 2000 taxation year, he was operating a business called Soluworks International Inc., whose core activity was solving marketing and sales problems of pharmaceutical companies.
+(iii) He has a history of over forty years of compliance with his tax obligations. The appellant also said that he is fifty-six years old, has been happily married for thirty-two years, has two adult children, and that he has no debt and no criminal record. In short, the appellant depicted himself as an honest man.
+(iv) In the year 2000 in particular, that is, the year he was preparing to move into a new residence, he was not paying much attention to the trading summaries sent by his broker, Nesbitt Burns. Indeed, the appellant said that the statements were "stacked up in many cases, even unopened because it wasn't important at the time."[1] The appellant also repeated that he received no statement reflecting the capital gain on his Royal Balanced Fund.
+(v) He was not aware of the tax implications of his investment in the Royal Balanced Fund nor did he inquire of his accountant regarding those tax implications.
+(vi) For each year (including 2000), he simply took his T4 slip and other tax information, which he had sorted and put in folders, and delivered it to his accountant, who prepared his personal tax return. The appellant testified that the same accountant had been preparing his personal tax return for several years. The appellant also said that in April 2001 he went to his accountant's office to sign his income tax return for the 2000 taxation year, which that had been prepared by his accountant. The appellant said that he did not look at his 2000 tax return other than to see whether he owed money and to determine his RRSP contribution for the 2001 taxation year. The appellant's testimony in this regard is worth citing.[2]
+[120] Q. O.K. Do you usually check your tax returns before signing them?
+A. I go to the accountant's office . . .
+[121] Q. Yes.
+A. . . . and there's usually a summary letter and they tell me what basically I have to pay. I put confidence in them, I do a quick, very quick review and I look at what my upcoming RRSP opportunity is. Those are the things I pay attention, how much do I owe and what's my RRSP opportunity. That's kind of globally what I look at. And I immediately on the spot write the checks so I don't really contest how much I owe or how much I don't owe. I leave that to my accountant.
+[122] Q. Do you make sure that all the information is accurate, complete and true?
+A. All . . . I'd say most, I look at the big numbers, like my revenue relative to T4.
+[123] Q. O.K.
+A. Because that's normally the greatest percentage of what I earn is my income, now, my income does not historically come from investment gains . . .
+[124] Q. Yes.
+A. . . . that's for sure.
+(vii) Following the reassessment by Revenue Quebec, the appellant did not inform the Minister of amendments that were required to his federal tax return for the 2000 taxation year because he was not advised to do so by his accountant. The appellant's testimony in this regard is also worth citing.[3]
+[145] Q. Did you contact anyone from the Canada Revenue Agency to amend your income tax return for the year 2000 when you . . . after the audit of Revenue Quebec?
+A. I missed the first part of your question. Did I . . .
+[146] Q. Did you contact anyone from the Canada Revenue Agency . . .
+A. No.
+[147] Q. Did you make an amendment to your 2000 income tax return, the federal part?
+A. No.
+HIS LORDSHIP:
+[148] Q. Why didn't you?
+A. I didn't know that I needed to do that. I didn't . . .
+[149] Q. But you were aware at that time that you didn't declare all of your income, of course.
+A. Yes.
+[150] Q. So why didn't you?
+A. I sent that document, honestly, to my accountant, the same accountant that I had and I wasn't advised that I needed to take any action, and I wasn't looking to circumvent any action. I said, what do I do with this. And I sent it to Lombardi Desrosiers, because whenever I get these things in I immediately fax them to them with a handwritten note and I . . .
+[151] Q. But they didn't advise you that you had to . . .
+A. No.
+[152] Q. . . .file . . .
+A. No.
+[153] Q. . . . an amended income tax return . . .
+A. No.
+[154] Q. . . . for your 2000. . .
+A. No, as a matter of fact, I'm going to point something out. My . . . in the last year, my father passed away. . .
+[8] As noted above, the only issue in this case is whether the assessment of a penalty under subsection 163(2) of the Act with respect to the unreported capital gain is valid.
+[9] In Venne v. R., [1984] C.T.C. 223, 84 DTC 6247 (F.C.T.D.), Strayer J. made the following comment on the meaning of gross negligence for the purposes of assessing penalties under subsection 163(2) of the Act:
+. . . Gross negligence must be taken to involve greater neglect than simply a failure to use reasonable care. It must involve a high degree of negligence tantamount to intentional acting, an indifference as to whether the law is complied with or not . . .
+[10] In DeCosta v. The Queen, 2005 DTC 1436 (T.C.C., informal procedure), Bowman C.J. dealt with the decision in Udell v. Minister of National Revenue, [1969] C.T.C. 704, 70 DTC 6019 (F.C.T.D.) and two decisions by Judge Rip (as he then was), and made the following comments:
+[9] I have no difficulty in reconciling the decision of Cattanach, J. with those of Rip J. They each depend on a finding of fact by the court with respect to the degree of involvement of the taxpayers. The question in every case is, leaving aside the question of wilfulness, which is not suggested here,
+(a) "was the taxpayer negligent in making a misstatement or omission in the return?" and
+(b) "was the negligence so great as to justify the use of the somewhat pejorative epithet "gross"?"
+This is, I believe, consistent with the principle enunciated by Strayer, J. in Venne v. The Queen, 84 DTC 6247.
+. . .
+[11] In drawing the line between "ordinary" negligence or neglect and "gross" negligence a number of factors have to be considered. One of course is the magnitude of the omission in relation to the income declared. Another is the opportunity the taxpayer had to detect the error. Another is the taxpayer's education and apparent intelligence. No single factor predominates. Each must be assigned its proper weight in the context of the overall picture that emerges from the evidence.
+[12] What do we have here? A highly intelligent man who declares $30,000 in employment income and fails to declare gross sales of about $134,000 and net profits of $54,000. While of course his accountant must bear some responsibility I do not think it can be said that the appellant can nonchalantly sign his return and turn a blind eye to the omission of an amount that is almost twice as much as that which he declared. So cavalier an attitude goes beyond simple carelessness.
+[Emphasis added.]
+[11] In this case, I am of the opinion that the appellant did not wilfully make an omission in his 2000 tax return. However, I am of the view that the appellant’s negligence was so great as to justify the use of the somewhat pejorative epithet "gross". In this case, the omission was significant. Only the income from employment was reported. The unreported taxable gain represents 21% of total revenue for the 2000 taxation year. The proceeds of disposition of the shares and of the Royal Balanced Fund ($109,099) were substantial. The investments could not have been sold without the appellant’s consent. The appellant did declare his dispositions in prior years, so he was aware that such items had to be included in reporting his income. The appellant is a well-educated and intelligent man and is knowledgeable of the fiscal implications of reporting his income. I can understand the appellant’s reasons for not having submitted to his accountant all the documents related to the transactions for the 2000 taxation year. But any quick review of the line items (related to investment income) in his 2000 tax return, which he signed in April 2001, would have shown that no capital gain was reported. The omission in his 2000 tax return should have been sufficiently obvious that a man of the appellant’s education, experience and intellect should have noticed. In my view, the appellant’s failure to detect the omission when he signed his 2000 tax return was more than simple carelessness. The appellant's attitude when examining his tax return for that year before signing it was, in my view, so cavalier that it went beyond simple carelessness. The fact that, following the reassessment by Revenu Québec, the appellant did not inform the Minister of amendments that would be required to his 2000 tax income return also reflects his gross negligence. While the appellant’s accountant must bear some responsibility for not informing the appellant that he had an obligation to produce an amended tax return for his 2000 taxation year, I do believe that the appellant cannot exculpate himself in this regard by the fact that he blindly entrusted his tax affairs to an accountant without even asking him about the federal tax consequences of his omission. Again, the appellant’s attitude was so cavalier that it went beyond simple carelessness.
+[12] As a result, the appeal is dismissed.
+Signed at Ottawa, Canada, this 12th day of October 2007.
+"Paul Bédard"
+Bédard J.
+CITATION: 2007TCC571
+COURT FILE NO.: 2007-206(IT)I
+STYLE OF CAUSE: Peter S. Spunt v. Her Majesty the Queen
+PLACE OF HEARING: Montreal, Quebec
+DATE OF HEARING: June 27, 2007
+REASONS FOR JUDGMENT BY: The Honourable Justice Paul Bédard
+DATE OF JUDGMENT: October 12, 2007
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Agent for the Respondent:
+Isabelle Pipon (student-at-law)
+COUNSEL OF RECORD:
+For the Appellant:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] See paragraph 86 of the transcript.
+[2] See paragraphs 120 to 124 of the transcript.
+[3] Paragraphs 145 to 154 of the transcript.

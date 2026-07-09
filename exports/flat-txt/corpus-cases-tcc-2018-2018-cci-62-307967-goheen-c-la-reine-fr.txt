@@ -1,0 +1,330 @@
+Title: Goheen c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/307967/index.do
+Corpus path: corpus/cases/tcc/2018/2018-cci-62-307967-goheen-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2018-03-26
+
+# Goheen c. La Reine
+
+- Citation: 2018 CCI 62
+- Decision date: 2018-03-26
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7539, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Goheen c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2018-03-26
+Référence neutre
+2018 CCI 62
+Numéro de dossier
+2008-851(IT)G
+Juges et Officiers taxateurs
+Kathleen T. Lyons
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2008-851(IT)G
+ENTRE :
+RON GOHEEN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Le présent appel est distinct de l’appel de Doug Jensen – 2008-285(IT)G, tous deux entendus les 1er, 2, 3 et 4 mai 2017
+à Vancouver (Colombie-Britannique)
+Devant : L’honorable juge Lyons
+Comparutions :
+Avocats de l’appelant :
+Me Alistair G. Campbell
+Me Michelle Moriartey
+Avocats de l’intimée :
+Me Robert Carvalho
+Me Ron Wilhelm
+Me Geraldine Chen
+JUGEMENT
+Les appels interjetés à l’encontre des nouvelles cotisations établies sous le régime de la Loi de l’impôt sur le revenu pour les années d’imposition 2002 et 2003 sont rejetés.
+L’intimée a droit aux dépens, calculés conformément au tarif. Ceux-ci sont payables dans les trente jours suivant la date de la présente décision.
+Signé à Ottawa, Canada, ce 26e jour de mars 2018.
+« K. Lyons »
+La juge Lyons
+Traduction certifiée conforme
+ce 15e jour de novembre 2018.
+Elisabeth Ross, jurilinguiste
+Référence : 2018 CCI 62
+Date : 20180326
+Dossier : 2008-851(IT)G
+ENTRE :
+RON GOHEEN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Lyons
+[1] Ron Goheen, l’appelant, interjette appel de la nouvelle cotisation établie par le ministre du Revenu national sous le régime de la Loi de l’impôt sur le revenu à l’égard des années d’imposition 2000, 2001, 2002 et 2003 (les « années pertinentes »). L’appelant a demandé des déductions au titre de crédits d’impôt (les « déductions ») en fonction de la somme totale de 46 667 $ CA ou de 30 000 $ US (la « somme ») qu’il a versée à Global Institute (« Global ») en 2000 et qui, à ses dires, est un don de bienfaisance. Le ministre a refusé la déduction au motif que la somme ne constituait pas un don au sens de l’article 118.1; par conséquent, l’appelant n’a pas droit à la déduction visée au paragraphe 118.1(3) de la Loi de l’impôt sur le revenu. Le ministre a également imposé une pénalité pour faute lourde relativement à la déduction demandée.
+[2] Dans les présents motifs, tous les renvois à des dispositions sont des renvois à la Loi de l’impôt sur le revenu.
+I. Les questions en litige
+[3] Les questions en litige dans le présent appel sont les suivantes :
+a. La somme versée par l’appelant à Global constituait-elle un « don » au sens du paragraphe 118.1(1)?
+b. Le ministre a-t-il imposé à bon droit une pénalité pour faute lourde en vertu du paragraphe 163(2)?
+[4] L’appelant a témoigné pour son propre compte et Wilma Goheen, son épouse, a témoigné pour lui (les « Goheen »). David Letkeman, un vérificateur de l’Agence du revenu du Canada (l’« ARC »), a été appelé à témoigner pour le compte de l’intimée pour donner des renseignements généraux concernant Global Prosperity et Global [1] . L’appelant a soulevé diverses objections. En fin de compte, l’intimée a choisi de ne pas se fonder sur le témoignage de M. Letkeman.
+II. Les faits
+Le contexte
+[5] En 2000 et en 2001, l’appelant travaillait comme livreur de produits de viande. À un certain moment en 2001 et en 2002, il a reçu des prestations d’assurance-emploi. Le revenu net des Goheen pour les années pertinentes était le suivant :
+Revenu net ($ CA)
+[EN BLANC]
+Appelant
+Wilma Goheen
+2000
+33 148 $
+27 331 $
+2001
+35 273 $
+26 798 $
+2002
+19 482 $
+30 728 $
+2003
+41 849 $
+49 204 $
+Total
+129 752 $
+134 061 $
+[6] Les Goheen ont deux fils.
+Global
+[7] Duncan Goheen, le frère de l’appelant, rendait visite à l’appelant deux ou trois fois par année du milieu des années 1980 jusqu’en 2004. L’appelant a pour la première fois eu connaissance de l’existence de Global et du fait qu’elle était constituée en société à la fin des années 1980, mais il ne savait pas depuis quand elle existait. Duncan Goheen était cofondateur et coordonnateur de Global. Global a obtenu le statut d’organisme de bienfaisance enregistré visé à l’alinéa 149(1)f) de la Loi de l’impôt sur le revenu.
+[8] Duncan Goheen a dit à l’appelant qu’il avait participé à des collectes de fonds et à l’évaluation de projets au Canada et dans des pays du tiers-monde et qu’il effectuait ou projetait d’effectuer des ouvrages de bienfaisance, comme purifier l’eau dans différents pays (pauvres) ou aider les gens à s’aider eux-mêmes (le « projet »). L’appelant savait que son frère était un adepte de la guérison pranique, mais ne savait pas si Global avait aussi quelque chose à voir avec cette pratique.
+[9] À part son épouse et son frère, l’appelant n’a consulté personne avant de verser la somme à Global et il n’avait pour information que les dires de son frère.
+La somme (30 000 $ US) versée à Global
+[10] En 2000, l’appelant a conclu avec Global une entente selon laquelle il verserait la somme et obtiendrait un reçu pour don de bienfaisance. Les Goheen savaient que, si l’appelant recevait quoi que ce soit ou si on lui promettait quoi que ce soit en échange, il serait inapproprié pour l’appelant de demander un crédit d’impôt pour don de bienfaisance dans sa déclaration de revenus puisqu’il n’aurait pas fait un don véritable.
+[11] La somme, 30 000 $ US (ce qui équivaut à 46 667 $ CA), a été payée à Global en deux versements, un de 10 000 $ US et l’autre de 20 000 $ US (les « paiements »). Lors de l’interrogatoire préalable, on a demandé à l’appelant : [traduction] « Comment en êtes-vous venu à faire don de 30 000 $ US à [Global]? » Il a répondu qu’il n’arrivait pas à se rappeler s’il avait proposé de faire le don ou si son frère le lui avait demandé. Au procès, il a témoigné que son frère lui avait adressé des demandes et avait sollicité le don. Il a également affirmé que Global a fait monter la pression vers l’année 2000. Wilma Goheen a affirmé qu’en 2000, Duncan Goheen s’est montré plus persistant, bien qu’elle ne sache pas pourquoi, à demander que les Goheen fassent un don et qu’il tentait de collecter plus d’argent pour commencer la réalisation du projet. Elle estimait qu’il était louable de donner la somme et qu’il y avait des bienfaits à ce que Global recueille des fonds pour le projet.
+[12] Puisque son revenu net en 2000 était trop faible, à 33 148 $ CA, l’appelant, dans ses déclarations de revenus, a demandé la déduction totale de 46 667 $ CA pour don de bienfaisance en tranches : 14 732 $ CA en 2000, 15 444 $ CA en 2001, 5 919 $ CA en 2002 et 10 572 $ CA en 2003. Dans le reste des présents motifs, toutes les sommes sont exprimées en dollars américains, sauf indication contraire.
+[13] Les Goheen ont signé le même formulaire de don pour chaque paiement fait à Global (les « formulaires ») [2] . Ces formulaires portent la même date que les chèques utilisés pour faire les paiements. Ils comportent chacun cette déclaration : [traduction] « Je demande par la présente que le don […] soit retenu pour une période d’au moins 10 ans. » Selon les Goheen, cela voulait dire que Global ne pourrait utiliser la somme pendant une période de dix ans, que cette somme serait déposée dans un fonds de dotation, mais que Global pourrait utiliser les intérêts produits par la somme.
+Le compte en dollars américains de la Banque de Montréal
+[14] Un compte en dollars américains de la Banque de Montréal au nom de Wilma Goheen et d’un des fils des Goheen, Gregory, servait à l’envoi d’argent américain aux enfants des Goheen qui fréquentaient l’école aux États-Unis (le « compte »). Le compte servait au paiement des frais de scolarité et autres dépenses d’études. Les Goheen ont témoigné qu’ils y avaient initialement déposé une somme importante dans laquelle ils puisaient pour payer les dépenses liées aux études. Le compte a également été utilisé pour effectuer les paiements à Global parce qu’il s’agissait du seul compte en dollars américains des Goheen.
+Les paiements
+[15] Les fonds dans le compte étaient insuffisants pour couvrir les paiements à Global. Les paiements ont été faits au moyen de chèques signés par Wilma Goheen. Le premier chèque, de 10 000 $, est daté du 15 octobre 2000. Le deuxième chèque, de 20 000 $, est daté du 15 novembre 2000. L’appelant a expliqué que les paiements ont été effectués ainsi parce que la somme n’était alors pas disponible.
+[16] À l’interrogatoire préalable, l’appelant a dit ne pas savoir pourquoi il avait choisi de faire un paiement de 10 000 $. Au procès, lorsqu’il a été question du montant du don, l’appelant a déclaré que le montant de 10 000 $ était [traduction] « probablement ce qu’ils pouvaient se permettre ». Il ne semblait pas non plus y avoir de raison particulière pour laquelle l’autre paiement à Global était de 20 000 $.
+Le paiement de 10 000 $ à Global
+[17] Le chèque à Global du 15 octobre 2000 a été tiré sur le compte. Il est représenté par l’inscription portant le code « CK » du 7 novembre 2000 [3] . La provenance des fonds le couvrant était déjà connue le 15 octobre 2000, étant donné que Wilma Goheen s’était adressée à son père, Karl Kutschenreiter. Il avait accepté de lui prêter 10 000 $ avant que Wilma Goheen fasse le chèque à Global; il ne lui a pas demandé pourquoi elle avait besoin d’emprunter les fonds. Il détenait un compte conjoint avec son épouse, Juliana Kutschenreiter (le « compte conjoint »), qui était un compte bancaire aux États-Unis, sur lequel il a tiré les chèques faits à sa fille [4] .
+[18] Les relevés du compte bancaire de Wilma Goheen font état d’un dépôt du client, indiqué par le code « CD », de 10 000 $, le 31 octobre 2000, qui couvre le chèque de 10 000 $ à Global [5] .
+[19] À l’interrogatoire préalable, l’appelant s’est engagé à fournir des copies du chèque de 10 000 $ de M. Kutschenreiter ayant servi à couvrir le chèque de 10 000 $ à Global. Toutefois, il a produit un chèque de 5 000 $ daté du 31 octobre 2000 uniquement payable à Wilma Goheen et tiré par son père sur le compte conjoint [6] . En particulier, il n’y a pas, à la date du 31 octobre 2001, d’inscription « CD » dans les relevés de comptes bancaires qui attesteraient le dépôt du chèque de 5 000 $, mais l’appelant a reconnu qu’il est représenté par l’inscription portant le code « CD » de 10 000 $ le 31 octobre à la pièce A-2. Avant d’émettre le chèque de 5 000 $, M. Kutschenreiter ne savait pas qu’il donnerait encore 20 000 $ à Wilma Goheen.
+[20] En ce qui concerne l’autre portion de 5 000 $ dont était composé le dépôt de 10 000 $ du 31 octobre 2000, l’appelant a déclaré que [traduction] « la seule autre possibilité à laquelle nous pouvons penser est qu’il s’agissait de 5 000 dollars américains en argent comptant provenant de M. Kutschenreiter ». En contre-interrogatoire, il a admis qu’il aurait pu s’agir d’argent comptant venant de lui-même ou de son épouse.
+[21] Lors de son interrogatoire principal, Wilma Goheen a initialement affirmé que l’autre portion de 5 000 $ était de l’argent comptant, mais elle a reconnu que le bordereau de dépôt, daté du 21 octobre 2000, pièce R-2, qu’elle a paraphé, était le bordereau de dépôt qui se rapportait à l’inscription portant le code « CD » de 10 000 $ du 31 octobre 2000, à la pièce A-2. Elle a admis que le bordereau de dépôt indiquait que le dépôt était composé de deux chèques de 5 000 $ chacun et non d’un chèque et d’argent comptant. Elle a ensuite affirmé que le dépôt du client de 10 000 $ aurait pu être composé de deux chèques. L’autre chèque de 5 000 $ n’a pas été déposé en preuve. Les explications de l’appelant ne sont pas convaincantes et manquent de crédibilité.
+Le paiement de 20 000 $ à Global
+[22] Le chèque de 20 000 $ du 15 novembre 2000 à Global a été tiré sur le compte de Wilma Goheen et est indiqué par l’inscription portant le code « CK », datée du 21 novembre 2000, dans les relevés du compte bancaire [7] .
+[23] Un chèque de 20 000 $, daté du 17 novembre 2000, payable à Wilma Goheen et signé par M. Kutschenreiter, tiré sur le compte conjoint, a été déposé dans le compte de Wilma Goheen, comme l’indique le code « CD », le 17 novembre 2000, pour couvrir le chèque qu’avait fait Wilma Goheen à Global [8] .
+[24] Les Goheen affirment que M. Kutschenreiter n’a pas été informé que les sommes de 10 000 $ et de 20 000 $ devaient être données à Global, qu’il ne savait pas que l’argent qu’il avait prêté aux Goheen allait servir à cette fin et qu’il n’avait rien à voir avec Global. En contre-interrogatoire, Wilma Goheen a affirmé qu’elle n’avait pas demandé à ses parents de faire de don parce qu’elle savait qu’ils ne souhaiteraient pas s’écarter de leurs pratiques d’investissement habituelles et que son père ne voulait pas faire affaire avec Duncan Goheen [9] .
+Le remboursement des paiements
+[25] Les Goheen affirment qu’ils ont emprunté les fonds à M. Kutschenreiter pour pouvoir donner la somme et qu’ils ont ensuite remboursé cet emprunt.
+[26] En interrogatoire principal, l’appelant a expliqué que son épouse et lui avaient [traduction] « très peu de dettes à ce moment-là » et qu’ils ne voulaient pas prendre l’argent de leurs investissements pour faire le premier don de 10 000 $. Les Goheen ont tous les deux témoigné que les 20 000 $ étaient un prêt, qu’aucun intérêt n’a été exigé ou payé sur le prêt et que le prêt a été remboursé au complet. L’appelant a affirmé qu’après le deuxième emprunt de 20 000 $, son épouse et lui ont commencé à rembourser 1 000 $ par mois à M. Kutschenreiter, par chèques pour les premiers mois puis en argent comptant. En contre-interrogatoire, quand il a été interrogé sur la déclaration qu’il a faite selon laquelle ils avaient « très peu de dettes » quand le don a été fait, l’appelant a répondu qu’il supposait qu’il parlait des dettes à part les dettes envers M. Kutschenreiter.
+[27] Quand on a demandé à Wilma Goheen si son époux et elle effectuaient déjà des paiements de 1 000 $ à son père au moment où la somme a été payée et s’ils effectuaient des paiements mensuels de 1 000 $ par chèque à son père depuis janvier 2000, elle a répondu par la négative à ces deux questions. Toutefois, on a ensuite porté à son attention une série de chèques, destinés à son père, signés par elles le 4e jour de chaque mois à compter du 4 janvier 2000, de 1 000 $ chacun, mais elle a affirmé qu’elle ne savait pas ce que ces chèques représentaient [10] . L’appelant a été rappelé à témoigner sur cette question. Il ne savait pas non plus ce que les chèques représentaient, mais il a déclaré que son épouse et lui avaient fait régulièrement des emprunts à M. Kutschenreiter. Il était leur [traduction] « banque personnelle » et l’entente était qu’ils lui rembourseraient 1 000 $ par mois. Il n’existe aucun document concernant le remboursement.
+Le dépôt de 30 000 $ - 30 janvier 2001
+[28] Le 30 janvier 2001, environ deux mois et demi après le versement de la somme à Global, 30 000 $ ont été déposés (le « dépôt ») dans le même compte que celui duquel provenait la somme. Le code « CD » dans les relevés des comptes bancaires le 20 janvier 2001 indique un dépôt du client de 30 000 $ [11] .
+[29] Quand on lui a demandé, à l’interrogatoire préalable en 2010, s’il y avait eu un dépôt de 30 000 $ dans le compte en janvier 2001, l’appelant a répondu : [traduction] « Je ne m’en souviens pas. » À part le relevé du compte bancaire comportant l’inscription, aucun document n’a été présenté concernant le dépôt. Au procès, l’appelant a témoigné que le dépôt était un chèque de 30 000 $ de M. Kutschenreiter. À l’interrogatoire préalable, quand on lui a demandé ce que représentait l’inscription « CD » de 30 000 $ du 30 janvier 2001, l’appelant n’avait pas répondu qu’il s’agissait d’un chèque de M. Kutschenreiter. Il avait répondu qu’il s’agissait d’un [traduction] « CPG qui arrivait à échéance et était réinvesti tous les 59 jours ». Il n’a pas divulgué la provenance des 30 000 $ ayant servi à l’achat de ce dépôt à terme.
+[30] Bien qu’une lettre de la banque, datée du 20 octobre 2005, indique que le chèque du dépôt de 30 000 $, ainsi que deux autres chèques étaient introuvables, ces deux autres chèques ont été trouvés et produits en preuve au procès [12] . Toutefois, le chèque du dépôt lié à l’inscription « CD » de 30 000 $ du 30 janvier 2001 n’a pas pu être trouvé, et l’appelant n’a pas fourni d’explication crédible.
+[31] L’inscription suivante sur le relevé du compte bancaire, datée du 30 janvier 2001, porte le code « OM » et est de 30 000 $. La référence « TOR 2369-9950238 » renvoie à un dépôt à terme. Ce dépôt à terme était reconduit tous les 59 jours. Quand on lui a demandé, à l’interrogatoire préalable, des documents concernant cette inscription dans le relevé, l’appelant a répondu qu’il n’existait aucun document concernant le dépôt à terme. Le dépôt à terme était au nom de Wilma Goheen et de son père, et les intérêts gagnés sur ce dépôt à terme étaient déposés dans le compte d’où a été tirée la somme.
+[32] Dans le relevé, le code « IN », qui représente les intérêts gagnés sur le dépôt à terme, apparaît chaque jour où le dépôt à terme était reconduit. En 2001, des intérêts de 235,19 $ le 30 mars, de 197,26 $ le 29 mai, de 145,45 $ le 27 juillet et de 130,93 $ le 24 septembre ont été portés au crédit du compte.
+[33] Des inscriptions portant le code « FX », à compter du 27 novembre 2000, figurent dans la pièce A-2. Du 31 décembre 1999 au 27 novembre 2000, il n’y a pas de telles inscriptions (ce type d’inscription a commencé à apparaître après que l’appelant a fait les paiements à Global). On trouve de telles inscriptions le 16 janvier 2001, le 5 février 2001, le 13 mars 2001, le 26 mars 2001, le 23 avril 2001 et le 28 mai 2001. On a demandé à l’appelant lors de l’interrogatoire préalable ce à quoi renvoyaient les inscriptions portant le code « FX ». Il a répondu qu’il ne s’en souvenait pas et qu’il ne pouvait pas non plus affirmer avec certitude qu’il s’agissait de transferts d’un autre compte.
+[34] Du 31 décembre 1999 jusqu’au dépôt du chèque de 10 000 $ le 31 octobre 2000, aucune somme n’a été portée au crédit du compte, sauf 2 $ d’intérêts tous les mois. Le solde, qui s’élevait à 9 300 $ au début, a diminué en raison des chèques qui ont été tirés sur le compte.
+[35] Selon l’appelant, le dépôt du 30 janvier 2001, les inscriptions portant le code « IN » et celles portant le code « FX » ne sont qu’une simple coïncidence; il prétend que tout cela a eu lieu indépendamment et n’a absolument rien à avoir avec ses paiements à Global. L’appelant a nié que ces inscriptions représentaient le rendement sur ses paiements à Global et a nié qu’on lui avait promis cela en échange de la somme. Selon l’appelant, M. Kutschenreiter voulait rapporter 30 000 $ au Canada pour les placer dans un dépôt à terme en dollars américains. Selon lui, c’est un hasard qu’il ait versé la somme à Global au moment où son beau-père souhaitait investir dans un dépôt à terme de 30 000 $ US en passant par le compte de Wilma Goheen pour que les intérêts soient portés au crédit de ce compte.
+[36] Wilma Goheen a témoigné n’avoir obtenu de Global qu’un reçu et une plaque de remerciement pour le don. Elle a affirmé qu’elle et son époux n’ont pas reçu de Global d’argent qui aurait été déposé dans un quelconque compte de banque qu’elle aurait détenu personnellement ou conjointement avec des membres de sa famille et qu’elle n’a pas non plus reçu de Global d’intérêts ou de biens relativement à la somme. Je considère que les témoignages de l’appelant et de Wilma Goheen ne sont pas crédibles, par conséquent je les rejette.
+Les chèques à Duncan Goheen en 2002
+[37] L’appelant a témoigné qu’il n’a pas emprunté d’argent à son frère de 2000 à 2002. Les 10 et 25 septembre 2002, l’appelant a émis deux chèques certifiés de 16 000 $ chacun, tirés sur un compte qu’il détient conjointement avec Wilma Goheen à la Dundalk Credit Union. L’appelant a admis que les deux chèques étaient libellés et payables à Duncan Goheen. Les relevés des comptes bancaires confirment que le chèque du 25 septembre a été émis à « Duncan Goheen » et qu’un dépôt de 16 000 $ a été fait dans ce compte le 10 septembre 2002. Ni les chèques ni les inscriptions n’ont été expliqués.
+[38] L’appelant est devenu, et est toujours, actionnaire de Groen Brothers Aviation Inc. parce que Duncan Goheen lui avait dit qu’il s’agissait d’une entreprise intéressante avec des gens intéressants. L’appelant ne sait pas si son frère ou Global détenaient aussi des actions et ne connaît pas d’autres actionnaires. Il reconnaît avoir entendu le nom Simeon Capital Incorporated, mais seulement en lien avec Duncan Goheen. Il se souvient d’avoir emmené son frère en voiture à des réunions de Simeon Capital tenues à Toronto. Les Goheen sont devenus actionnaires de la Landmark Capital Corporation pendant l’exercice 2003-2004.
+[39] Dans son avis d’appel, l’appelant a seulement fait valoir les [traduction] « faits importants » suivants :
+[traduction]
+1. L’appelant est et était un résident du Canada.
+2. L’appelant a appris l’existence de Global Institute (Global), un organisme de bienfaisance enregistré au sens de l’article 248 de la Loi de l’impôt sur le revenu.
+3. Global faisait des œuvres de bienfaisance afin de réduire la pauvreté dans les régions peu développées.
+4. L’appelant a fait un don de bienfaisance à Global, il a obtenu un reçu pour don de bienfaisance pour la somme versée et il a réclamé un crédit d’impôt pour le don de bienfaisance dans la déclaration de revenus qu’il a présentée au ministre.
+5. Le ministre a refusé d’accorder le crédit pour don de bienfaisance.
+[40] Dans sa réponse, l’intimée a reconnu les faits présentés aux paragraphes 1 à 5 de l’avis d’appel sauf ceux énoncés au paragraphe 3, dont elle ne reconnaît pas la véracité en ce qui concerne les années 2000, 2001, 2002 et 2003, et celui énoncé au paragraphe 4 selon lequel [traduction] « [l]’appelant a fait un don de bienfaisance à Global ». Elle a également avancé des hypothèses de fait, dont une grande partie se trouve aux alinéas 18f) à nn), sous les intertitres [traduction] « L’organisme de bienfaisance », [traduction] « Le stratagème de l’organisme de bienfaisance », [traduction] « Le flux financier », [traduction] « Omnicorp et Omnicorp Group » et [traduction] « Les manquements d’Omnicorp » (les « hypothèses »). De ces hypothèses, l’appelant a admis en entier seulement celles se trouvant aux alinéas 18g) et h) et en partie seulement celles se trouvant aux alinéas 18j), 18l) et 18s) [13] .
+III. Le droit
+« Dons » à l’article 118.1 :
+[41] Pour que le particulier puisse avoir droit au crédit d’impôt prévu à l’article 118.1, la somme réclamée doit être un « don ».
+[42] Les dispositions pertinentes sont les paragraphes 118.1(3) et (1), et elles sont rédigées ainsi :
+118.1 (3) Un particulier peut déduire dans le calcul de son impôt payable en vertu de la présente partie pour une année d’imposition un montant qui ne dépasse pas le montant calculé selon la formule suivante :
+(A × B) + [C × (D - B)]
+où :
+[…]
+B [représente] le moins élevé de 200 $ et du total des dons du particulier pour l’année;
+118.1 (1) Les définitions qui suivent s’appliquent au présent article.
+« total des dons » S’agissant du total des dons d’un particulier pour une année d’imposition, le total des montants suivants :
+a) le moins élevé des montants suivants :
+(i) le total des dons de bienfaisance du particulier pour l’année […]
+[…]
+« total des dons de bienfaisance » Quant à un particulier pour une année d’imposition, le total des montants [des dons] qu’il a fait[s] au cours de l’année ou d’une des cinq années d’imposition précédentes […] aux entités suivantes […]
+a) organismes de bienfaisance enregistrés;
+IV. Les thèses des parties
+[43] La thèse de l’appelant relativement à la première question est qu’il avait une intention libérale au moment où il a fait les paiements à Global et, puisqu’il n’avait pas l’intention de recevoir quoi que ce soit en échange du versement de la somme et ne s’y attendait pas non plus, qu’il s’agit d’un [traduction] « don véritable » fait pour aider Global à se constituer un fonds de dotation qui produirait des revenus servant à financer les activités de bienfaisance de Global. De plus, l’appelant soutient que la règle générale ne devrait pas s’appliquer et qu’il incombe à l’intimée de prouver les hypothèses contestées étant donné qu’elles ne relèvent pas des connaissances (directes) personnelles de l’appelant et entrent dans le champ des connaissances particulières du ministre.
+[44] La thèse de l’intimée est que la somme n’était pas un « don » parce que l’appelant avait conclu une entente avec Global selon laquelle il verserait la somme en échange de quoi, et c’était là son intention et son attente, il obtiendrait un reçu pour don de bienfaisance de la part de Global et en tirerait un avantage important en touchant un rendement sur la somme, qui a été donnée dans un but d’investissement et non dans intention libérale.
+V. Discussion
+Le fardeau
+[45] Dans les litiges fiscaux, sauf exception, le contribuable doit prouver les faits contestés et réfuter les hypothèses de fait contestées fondant la cotisation contestée. Généralement, les hypothèses sur lesquelles le ministre fonde la cotisation, telles qu’elles ont été plaidées, sont considérées comme vraies à moins qu’elles ne soient réfutées par l’appelant [14] . Le fardeau initial de « démolir » ces hypothèses incombe à l’appelant, qui y arrivera en présentant au moins une preuve suffisante à première vue [15] . Si l’appelant démolit ces hypothèses, selon la prépondérance des probabilités, le fardeau est alors renversé et il incombe alors à l’intimée de réfuter la preuve suffisante à première vue et de prouver ses hypothèses [16] .
+[46] Dans l’arrêt House, la Cour d’appel fédérale a souscrit à l’opinion selon laquelle « [u]ne preuve prima facie est celle qui est “étayée par des éléments de preuve qui créent un tel degré de probabilité en sa faveur que la Cour doit l’accepter si elle y ajoute foi, à moins qu’elle ne soit contredite ou que le contraire ne soit prouvé […]” » [17] .
+[47] Des exceptions à la règle générale et le renversement du fardeau de la preuve pour qu’il incombe à l’intimée peuvent se justifier dans des circonstances exceptionnelles où les hypothèses de fait alléguées relèvent de la connaissance unique, exclusive ou particulière de la Couronne [18] . Toutefois, un tel renversement du fardeau de la preuve pour qu’il repose sur l’intimée ne doit pas être opéré à la légère ou arbitrairement.
+La définition de « don »
+[48] En vertu du paragraphe 118.1(3), le contribuable peut demander une déduction au titre du crédit d’impôt calculée en fonction du « total des dons » que ce contribuable a faits cette année-là à des organismes de bienfaisance enregistrés. L’expression « total des dons », au sens du paragraphe 118.1(1), signifie le « total des dons de bienfaisance » pour l’année, comme on l’a vu plus haut.
+[49] Le terme « don » n’est pas défini dans la Loi de l’impôt sur le revenu. Pour les besoins de l’impôt sur le revenu, la jurisprudence a établi qu’« un don est le transfert volontaire du bien d’un donateur à un donataire, en échange duquel le donateur ne reçoit pas d’avantage ni de contrepartie » [19] . Cependant, les avantages fiscaux découlant d’un don ne sont pas normalement considérés comme des « avantages » qui auraient pour effet de vicier le don, car faire cela signifierait que les donateurs ne pourraient jamais bénéficier des déductions relatives aux dons de bienfaisance.
+[50] Par conséquent, les conditions pour qu’il y ait don sont les suivantes : (1) il y a eu transfert volontaire de biens de la part du donateur; (2) le donateur possédait les biens immédiatement avant le transfert; (3) le donateur n’a pas reçu d’avantages non fiscaux découlant du don.
+[51] Par la suite, la Cour d’appel fédérale a clarifié la troisième condition énoncée dans l’arrêt Friedberg selon laquelle l’attente ou l’espoir d’un avantage tangible par le donateur est suffisant pour vicier un don par ailleurs valide [20] . La troisième condition, selon laquelle le donateur ne doit pas recevoir d’avantage, peut également être exprimée par la question de savoir si le donateur avait une intention libérale au moment où il a fait le don [21] . Par conséquent, la question en litige dans le présent appel consiste à déterminer si l’appelant avait une intention libérale quand il a effectué les paiements à Global.
+L’intention libérale
+[52] L’intention du donateur est différente de sa motivation; une personne peut faire un don en ayant pour motivation principale l’obtention d’avantages fiscaux, mais en ayant tout de même l’intention requise de donner à des fins de bienfaisance [22] .
+[53] Pour qu’il y ait intention libérale, le donateur doit être conscient, au moment de faire le don, qu’il ne recevra aucune contrepartie sauf un avantage purement moral et il doit avoir voulu s’appauvrir du don de telle sorte qu’il ne tirera aucun avantage de l’appauvrissement [23] .
+[54] L’avantage ou l’attente ne doit pas nécessairement venir du donataire et peut être fourni au donateur par des tiers au moyen d’un arrangement interdépendant; il y a encore manquement à la condition selon laquelle le donateur ne doit recevoir aucun avantage si l’avantage fourni par les tiers fait partie de l’arrangement [24] .
+L’appelant avait-il une intention libérale ?
+[55] L’appelant a reconnu une partie des hypothèses à l’alinéa 18s) de la réponse, à savoir qu’il avait conclu un marché avec Global selon lequel il avait l’intention de verser la somme à Global et s’attendait à recevoir un reçu pour don de bienfaisance. Il a ensuite fait valoir qu’étant donné qu’il ne s’attendait pas à recevoir quoi que ce soit en contrepartie, il avait une intention libérale, et par conséquent qu’il avait ainsi établi une preuve suffisante à première vue démolissant les autres hypothèses fondamentales à l’alinéa 18s) de la réponse. Selon ces hypothèses, dans le cadre des ententes de l’appelant avec Global et Omnicorp Inc. (« Omnicorp »), après le paiement de la somme à Global par l’appelant, Global transférerait la somme à Omnicorp pour qu’elle soit placée dans un compte de transition ou dans un fonds d’investissement au nom de Global, qui produirait 35 % d’intérêt par année, et Global surveillerait le placement de la somme au nom de l’appelant. Global toucherait 10 % et l’appelant 25 % en intérêts annuellement pendant cinq ans, par un de trois moyens [25] . Par la suite, l’appelant ne recevrait plus d’intérêts et Global aurait la libre jouissance de la somme.
+[56] En contre-interrogatoire, l’appelant a affirmé qu’il ne savait pas si tous les paiements reçus par Global de 2000 à 2002 avaient été envoyés à Omnicorp, a nié qu’il avait une entente avec Omnicorp et a nié qu’il ne s’était pas renseigné sur le fonds parce qu’il savait qu’il récupérerait ses 30 000 $ de toute façon. Il avait entendu les noms de Sheldon Foss et de Frank Sputek, qui ont également effectué des paiements à Global. Il avait lu la transcription de leur interrogatoire préalable avant son propre interrogatoire préalable. À part ces deux personnes, l’appelant ne pouvait nommer personne d’autre qui avait fourni des fonds à Global.
+[57] Wilma Goheen a témoigné qu’elle n’avait jamais entendu parler de Global Prosperity, d’Omnicorp, de Solara Ventures ou de Nelson Bayford. L’appelant a également affirmé qu’il ne savait pas si Global était une cliente d’Omnicorp, mais qu’il savait que son frère avait suivi des [traduction] « séminaires financiers » au Mexique. Les Goheen n’ont assisté à aucun séminaire ni à aucune conférence.
+[58] Puisque l’appelant a versé la somme à Global et allègue qu’il s’agissait d’un don de bienfaisance fait dans une intention libérale, il lui incombe, à mon avis, de prouver les faits qu’il allègue et de réfuter les hypothèses de fait contestées concernant le programme de Global, ses œuvres de bienfaisance, l’opération concernant la somme et les ententes, y compris l’implication d’Omnicorp, pour démontrer qu’il avait une intention libérale [26] . Je tire une conclusion défavorable du fait qu’il n’a pas cité à comparaître Duncan Goheen, qui aurait possiblement été en mesure de confirmer la version des faits de l’appelant.
+[59] Bien que l’appelant ait témoigné qu’il avait payé la somme à Global dans une intention libérale et qu’il ne s’attendait pas à recevoir d’avantage et n’en a pas reçu, j’estime que le témoignage des Goheen manque de cohésion, contient trop d’incohérences flagrantes et n’est pas crédible. À mon avis, leur version des faits est invraisemblable et intrinsèquement improbable à la lumière des circonstances relatives à l’intention libérale de l’appelant. Plusieurs facteurs m’ont amenée à tirer cette conclusion et celle portant que la version des faits des Goheen manque de crédibilité, dont les suivants :
+- La somme est exceptionnellement importante et l’appelant a affirmé dans son témoignage qu’il ignorait comment le montant du don avait été établi.
+- De 1987 à 1999, l’appelant n’a jamais réclamé de crédit d’impôt pour don de bienfaisance, et il en va de même pour Wilma Goheen de 1988 à 2002 [27] .
+- Wilma Goheen a dit avoir emprunté 30 000 $ à son père pour donner la somme à Global. Il est fort improbable, compte tenu de la situation financière des Goheen, qu’ils aient été en mesure de donner la somme comme ils l’ont soutenu. En 2000, le revenu net de l’appelant était de 33 148 $ CA et le revenu net réuni des Goheen s’élevait à la modeste somme de 60 000 $ CA, et, pourtant, la somme versée à Global valait 46 667 $ CA. La somme représente environ 75 % du revenu net du ménage, et les Goheen avaient deux fils aux études. Je ne suis pas convaincue que l’appelant avait les moyens de faire un don d’un montant si élevé, et il ne me semble pas non plus plausible qu’il ait emprunté de l’argent pour faire un don étant donné que les Goheen empruntaient régulièrement.
+- Le fait que l’appelant se soit reposé uniquement sur les dires de son frère concernant Global et ses activités, sans avoir fait d’enquête indépendante ou de vérification indépendante ni avoir examiné la documentation, révèle un manque de diligence raisonnable. Il ne se rappelle pas avoir vu d’états financiers de Global ou de documents promotionnels, et il ne pouvait pas dire s’il avait consulté le site Web. Rien dans son passé ne semble montrer qu’il avait des liens avec le type de causes auxquelles semblait se consacrer Global ou qu’il s’y intéressait.
+- Il est révélateur que l’appelant ait affirmé dans son témoignage que, bien qu’il ait présumé que Marilee Goheen, l’épouse de Duncan Goheen, était impliquée, il ne savait pas si elle avait quelque chose à voir avec Global, même si c’était elle qui avait signé le reçu au nom de Global.
+- Les Goheen semblaient indifférents à ce qu’on avait fait de la somme. Ils savaient que la somme avait été déposée dans un fonds de dotation pendant dix ans, mais ils n’ont pas posé de question à Duncan Goheen à ce sujet, ni d’ailleurs sur la façon dont les fonds produiraient des profits ou dont ils seraient investis. Les Goheen n’ont pas non plus discuté avec Duncan Goheen de la somme ni de ce qu’il en ferait pendant dix ans. L’explication de Wilma Goheen était que, de la façon qu’ils voyaient sans doute les choses, ils avaient donné la somme à Duncan Goheen pour aider les pays du tiers-monde. Elle a ajouté qu’elle se souvenait, après avoir vu une transcription de l’interrogatoire préalable, qu’ils avaient signé un document disant que l’argent serait placé pendant cinq ou dix ans dans un fonds de dotation, et qu’elle ne comprenait pas comment tout cela fonctionnait, mais s’était dit que ça irait puisque Duncan Goheen savait où cela devait aller [28] .
+- Bien que Wilma Goheen ait dit avoir vu un avantage à faire don de la somme, aucun suivi des activités de Global n’a été fait après le versement de la somme. Les Goheen ont tous les deux témoigné qu’ils ignoraient ce qui était advenu du fonds de dotation et de la somme.
+- Leur témoignage contenait de nombreuses divergences et incohérences. Par exemple, les formulaires portaient les noms de Wilma et de Ron Goheen. L’appelant n’a pas été en mesure de l’expliquer, mais il a néanmoins soutenu qu’il avait été le seul à faire un don et que l’intention n’était pas que son épouse donne 5 000 $ du paiement de 10 000 $. Toutefois, le reçu no 60861 émis par Global le 15 novembre 2000 indique qu’il s’agit d’un [traduction] « reçu officiel pour l’impôt sur le revenu » et que la somme de 46 593,30 $ CA a été reçue de [traduction] « Ron et Wilma Goheen » [29] . En ce qui concerne le reçu pour le paiement de 10 000 $, l’appelant a affirmé, lors de l’interrogatoire préalable, qu’il n’avait pas demandé de reçu et n’était pas en mesure de produire de reçu à ce moment-là. Pourtant, le reçu no 60861 regroupe les deux paiements et la date coïncide avec la date du deuxième formulaire de don.
+- Un autre exemple est le fait que, bien que les Goheen aient témoigné que la somme était un prêt de 30 000 $ sans intérêts de M. Kutschenreiter, ils ont admis que la somme de 5 000 $ en espèces provenait possiblement de l’appelant ou de son épouse. Tant le témoignage de l’appelant et que celui de Wilma Goheen comportaient des contradictions, y compris par rapport aux réponses données dans les interrogatoires préalables. Les témoignages de l’appelant et de Wilma Goheen étaient parfois incompatibles. Ni l’un ni l’autre des Goheen n’a fourni d’explication crédible sur la provenance des 10 000 $ couvrant le premier paiement fait à Global ni sur la façon dont cette somme a été obtenue, à savoir en deux chèques, par dépôt bancaire ou en espèces. L’autre chèque de 5 000 $ n’a pas été produit. Ces exemples sont présentés en détail aux paragraphes 19 à 21, 27 et 29 des présents motifs.
+- Les Goheen ont tous deux témoigné que les formulaires avaient été remplis par Wilma Goheen. Toutefois, à l’interrogatoire préalable, l’appelant a soutenu qu’il les avait remplis mais qu’ils avaient tous les deux effectué les paiements, même si l’argent de ceux-ci provenait du compte de Wilma Goheen et de leurs fils. Aucune des inscriptions dans les relevés de ce compte bancaire ne se rapporte à l’appelant.
+- Aucun document ou chèque n’a été produit en preuve concernant le remboursement allégué d’une quelconque partie de la somme, aucune inscription dans un quelconque relevé de compte bancaire n’atteste le remboursement, et aucune raison n’a été donnée pour expliquer pourquoi aucun des chèques de 1 000 $ qui auraient servi au remboursement allégué n’a été produit en preuve.
+- L’appelant a témoigné que le compte américain de Wilma Goheen avait été utilisé parce que M. Kutschenreiter n’en avait pas. Il n’a pas pu expliquer comment il se faisait que M. Kutschenreiter ait tiré deux chèques en dollars américains sur son compte américain.
+- Comme je l’ai constaté aux paragraphes 28 à 30 des présents motifs, l’appelant n’a pas été en mesure d’expliquer adéquatement le dépôt fait le 30 janvier 2001 dans le compte et il n’a pas été en mesure de produire le chèque qu’aurait fait M. Kutschenreiter relativement à ce dépôt.
+- Enfin, il y a peu de renseignements et de documents à l’égard du dépôt à terme et des inscriptions connexes inexpliquées concernant les intérêts déposés dans le compte et les inscriptions portant le code « FX ».
+[60] La situation de l’appelant ressemble de manière frappante à celle de l’appelant dans la décision Webb c. Canada, [2005] 2 C.T.C. 2006. Dans cette affaire, M. Webb niait avoir reçu quoi que ce soit en échange d’un paiement exceptionnellement important, il avait peu d’antécédents en ce qui concernait des dons, il n’avait pas effectué de vérification préalable, et aucun représentant de l’organisme de bienfaisance n’avait été appelé à témoigner sur la transaction, les activités de l’organisme ou le don. Un tel témoin aurait été en mesure de fournir des éléments de preuve importants et aurait pu réfuter l’allégation selon laquelle on avait promis quelque chose à M. Webb en échange du don. Le juge Bowie a déclaré ce qui suit :
+14. Malgré le manque de preuve concluante, je conclus que M. Webb a reçu un tel remboursement, ou du moins a écrit son chèque et l’a donné à M. MacPherson dans la perspective de recevoir un tel remboursement. […] il est foncièrement improbable qu’une personne qui n’a presque pas fait de dons de bienfaisance pendant plus de dix ans fasse tout à coup, dans une même année, un don aussi important que le don en cause ici, soit un don d’un montant quasi équivalent à son revenu net d’impôt pour l’année [30] […]
+[61] Dans le même ordre d’idées, je conclus qu’il y a suffisamment d’éléments de preuve pour montrer que l’appelant a donné la somme à Global parce qu’il avait l’intention de recevoir et s’attendait à recevoir non seulement une déduction au titre du crédit d’impôt pour don de bienfaisance, mais encore, après le versement des paiements Global, le remboursement de la somme donnée à Global. Je tire une conclusion défavorable de l’omission de l’appelant de fournir le chèque à l’origine du dépôt fait dans le compte de Wilma Goheen deux mois et demi après que l’appelant a donné la somme à Global. J’en conclus qu’il s’agit d’un remboursement de la somme.
+[62] D’après la preuve détaillée que j’ai exposée, l’appelant n’a pas prouvé, par une preuve convaincante, qu’il a versé la somme dans une intention libérale; il n’a donc pas établi de preuve suffisante à première vue. Je conclus que la somme versée à Global en 2000 ne constitue pas un don au sens de l’article 118.1 de la Loi de l’impôt sur le revenu étant donné que l’appelant s’attendait alors à récupérer la somme. Par conséquent, l’appelant n’a pas droit aux déductions demandées pour les années pertinentes.
+Les hypothèses contestées
+[63] En plus d’affirmer qu’il a démoli certaines hypothèses, l’appelant soutient qu’il n’a pas à réfuter les hypothèses contestées puisque l’intimée avait l’obligation positive de produire les éléments de preuve pour prouver les hypothèses contestées. L’essentiel de son argumentation veut qu’il ne lui incombât pas de démolir les hypothèses contestées puisqu’elles ne relevaient pas de ses [traduction] « connaissances personnelles » mais plutôt des [traduction] « connaissances particulières » du ministre à l’appui de la théorie de l’intimée au sujet d’un stratagème de bienfaisance impliquant Global, l’appelant, Omnicorp et Solara.
+[64] Bien qu’à strictement parler la précision soit inutile compte tenu de la conclusion que j’ai tirée, j’estime que les observations de l’appelant au sujet du fardeau de la preuve et du renversement du fardeau de la preuve relativement aux hypothèses contestées sont erronées. Les observations quant aux [traduction] « connaissances personnelles » et aux [traduction] « connaissances particulières » du ministre ne sont pas les bons principes à appliquer. La Cour d’appel fédérale enseigne que le renversement du fardeau peut être justifié, dans des circonstances exceptionnelles, lorsque le ministre a une connaissance unique, exclusive ou particulière des hypothèses de fait sur lesquelles la cotisation est fondée. On ne peut pas affirmer que c’est le cas en l’espèce. Le frère de l’appelant, Duncan Goheen, a joué un rôle crucial. L’appelant aurait pu prendre connaissance des renseignements que possédait son frère en l’appelant à témoigner, voire en lui signifiant un subpoena au besoin. À mon avis, il incombait à l’appelant de réfuter la grande majorité des hypothèses contestées étant donné qu’elles ne relevaient pas de la connaissance unique, exclusive ou particulière du ministre, ce qui aurait justifié le renversement du fardeau de la preuve.
+La pénalité prévue au paragraphe 163(2)
+[65] En ce qui concerne la deuxième question en litige, sur la pénalité prévue au paragraphe 163(2), les contribuables peuvent être assujettis à des pénalités pour faute lourde pour avoir, sciemment ou dans des circonstances équivalant à faute lourde, fait de faux énoncés dans leurs déclarations de revenus. La disposition est rédigée ainsi :
+163 (2) Toute personne qui, sciemment ou dans des circonstances équivalant à faute lourde, fait un faux énoncé ou une omission dans une déclaration, un formulaire, un certificat, un état ou une réponse (appelé « déclaration » au présent article) rempli, produit ou présenté, selon le cas, pour une année d’imposition pour l’application de la présente loi, ou y participe, y consent ou y acquiesce est passible d’une […]
+[66] Il incombe au ministre d’établir les faits justifiant l’imposition d’une pénalité au titre du paragraphe 163(2) [31] .
+[67] La thèse de l’appelant est que, comme il avait droit à la déduction au titre du crédit d’impôt et qu’il n’a pas, sciemment ou dans des circonstances équivalant à faute lourde, fait de faux énoncés dans ses déclarations de revenus et n’y pas participé, le rajustement d’impôt à payer et les nouvelles cotisations devraient être annulés et la pénalité, infirmée.
+[68] Dans la décision Venne, la Cour a conclu que la « “faute lourde” doit être interprétée comme un cas de négligence plus grave qu’un simple défaut de prudence raisonnable. Il doit y avoir un degré important de négligence qui corresponde à une action délibérée, une indifférence au respect de la Loi [32] . » Ainsi, « le fait qu’une personne n’a pas fait preuve d’une diligence raisonnable ne veut pas pour autant dire qu’elle a commis une faute lourde. La faute lourde dénote une faute beaucoup plus grave, une insouciance répréhensible [33] . »
+[69] En demandant la déduction dans sa déclaration de revenus, l’appelant doit avoir fait preuve d’une négligence d’un degré tel qu’elle correspond à une action délibérée et dénote une insouciance répréhensible.
+[70] Il faut prendre en considération la situation personnelle du contribuable dans l’établissement de la pénalité pour faute lourde, notamment l’importance du faux énoncé dans la déclaration de revenus, la faculté du contribuable de découvrir le faux énoncé et la connaissance qu’est censé avoir le contribuable des principes de base de l’impôt compte tenu de son niveau d’instruction et de son intelligence apparente [34] .
+[71] En 2000 et en 2001, l’appelant travaillait comme livreur de produits de viande. À un moment en 2001, il a touché des prestations d’assurance-emploi, ce qui s’est poursuivi jusqu’en 2002.
+[72] Les revenus nets de l’appelant et la proportion des déductions demandées par rapport à ces revenus pendant les années pertinentes sont les suivants :
+[EN BLANC]
+[EN BLANC]
+Revenus nets
+Déductions
+Proportion des
+déductions par rapport aux revenus nets
+[EN BLANC]
+2000
+33 148 $
+14 732 $
+44 %
+[EN BLANC]
+2001
+35 273 $
+15 444 $
+44 %
+[EN BLANC]
+2002
+19 482 $
+5 919 $
+30 %
+[EN BLANC]
+2003
+41 849 $
+10 572 $
+25 %
+Total
+[EN BLANC]
+129 752 $
+46 667 $
+36 %
+[73] Les revenus nets de Wilma Goheen étaient de 27 331 $, de 26 798 $, de 30 728 $ et de 49 204 $ durant les années d’imposition 2000, 2001, 2002 et 2003 respectivement. Les Goheen avaient deux fils qui fréquentaient l’école aux États-Unis.
+[74] Je conclus que l’appelant était parfaitement au courant de la situation et, puisqu’il savait qu’il n’avait pas fait de « don » à Global mais en a néanmoins demandé la déduction, je conclus que l’appelant a sciemment falsifié ses déclarations de revenus pour les années 2000, 2001, 2002 et 2003 et qu’il est passible des pénalités prévues au paragraphe 163(2) de la Loi de l’impôt sur le revenu.
+[75] L’appel est rejeté.
+[76] Les dépens sont adjugés à l’intimée conformément au tarif. Les dépens sont payables dans les 30 jours suivant la date de la présente décision.
+Signé à Ottawa, Canada, ce 26e jour de mars 2018.
+« K. Lyons »
+La juge Lyons
+Traduction certifiée conforme
+ce 15e jour de novembre 2018.
+Elisabeth Ross, jurilinguiste
+RÉFÉRENCE :
+2018 CCI 62
+No DU DOSSIER DE LA COUR :
+2008-851(IT)G
+INTITULÉ :
+GOHEEN et SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Vancouver (Colombie-Britannique)
+DATE DE L’AUDIENCE :
+1er, 2, 3 et 4 mai 2017
+MOTIFS DU JUGEMENT :
+L’honorable juge K. Lyons
+DATE DU JUGEMENT :
+Le 26 mars 2018
+COMPARUTIONS :
+Avocats de l’appelant :
+Me Alistair G. Campbell
+Me Michelle Moriartey
+Avocats de l’intimée :
+Me Robert Carvalho
+Me Ron Wilhelm
+Me Geraldine Chen
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Noms :
+Me Alistair G. Campbell
+Me Michelle Moriartey
+Cabinet :
+Legacy Tax & Trust Lawyers
+Vancouver (Colombie-Britannique)
+Pour l’intimée :
+Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa, Canada
+[1] Les appels de l’appelant et de Doug Jensen (numéro du dossier de la Cour 2008-285(IT)G) sont distincts et ils ont été entendus au cours de la même semaine, à des dates différentes. À l’origine, ces appels faisaient partie d’un groupe plus large d’appels faisant l’objet d’une gestion d’instance; le témoignage de M. Letkeman devait être une preuve commune.
+[2] Pièces A-7 et A-9.
+[3] Pièces A-3 et A-2.
+[4] Pièces A-1 et A-4.
+[5] Pièce A-2.
+[6] Pièce A-1.
+[7] Pièces A-5 et A-2.
+[8] Pièces A-4, A-2 et A-5.
+[9] Transcription de l’audience, page 177.
+[10] Pièce R-1.
+[11] Pièces A-1 et A-2.
+[12] Pièces A-4 et A-1, les chèques de 20 000 $ et de 5 000 $ de M. Kutschenreiter à Wilma Goheen.
+[13] Les hypothèses et une partie des observations des parties étaient communes aux appels de l’appelant et de Doug Jensen.
+[14] Transocean Offshore Ltd. c. Canada, 2005 CAF 104, au paragraphe 35 [Transocean].
+[15] House c. Canada, 2011CAF 234, aux paragraphes 30 et 31 [House], renvoyant à Hickman Motors Ltd. c. Canada, [1997] 2 R.C.S. 336, au paragraphe 28 [Hickman Motors], Johnston v. Minister of National Revenue, [1948] R.C.S. 486, et Orly Automobiles Inc. c. Canada, 2005 CAF 425, [2005] A.C.F. no 2116 (QL).
+[16] Hickman Motors, précité à la note 16. La juge l’Heureux-Dubé n’a pas défini l’expression « preuve prima facie » dans ses motifs minoritaires. Si le sens usuel était utilisé, on n’a pas expliqué pourquoi la norme de la preuve prima facie (ou norme de la preuve suffisante à première vue) s’applique pour déterminer si les hypothèses du ministre ont été démolies ou comment cette norme (fardeau de la preuve) concorde avec la charge de persuasion.
+[17] House, précité à la note 16, au paragraphe 57, citant Amiante Spec Inc. c. Canada, 2009 CAF 139, au paragraphe 23, [2009] A.C.F. no 603 (QL). Les appels en matière d’impôt voient s’appliquer, en ce qui concerne le fardeau de la preuve et la charge de persuasion, des normes différentes de celles d’autres types d’actions civiles. Plus récemment, dans l’arrêt Samardi c. Canada, 2017 CAF 131, le juge Webb a fait observer, entre autres choses, que la preuve prima facie, ou preuve suffisante à première vue, ne peut être une norme de preuve moins exigeante que celle de la preuve selon la prépondérance des probabilités et a dissipé l’ambiguïté qui, à son avis, obscurcissait le sens de l’expression « preuve prima facie ». Le juge Woods et le juge Stratas, toutefois, ont conclu qu’il n’était pas nécessaire de définir l’expression « preuve prima facie » pour trancher l’appel. Dans l’arrêt Succession de Vine c. Canada, 2015 CAF 125, au paragraphe 25, bien qu’il s’agît de la charge de persuasion applicable à l’établissement d’une présentation erronée des faits par négligence, inattention ou omission volontaire, la Cour a conclu à l’unanimité qu’il n’y avait pas de renversement du fardeau de la preuve.
+[18] Transocean, précité à la note 15, au paragraphe 35, Anchor Pointe Energy Ltd. c. Canada, 2007 CAF 188, aux paragraphes 35 et 36. Voir aussi Mignardi c. Canada, 2013 CCI 67, au paragraphe 41, [2013] A.C.I. no 66 (QL).
+[19] Friedberg c. Canada (CAF), [1992] 1 C.T.C. 1, au paragraphe 4 [Friedberg]. Voir aussi Berg c. Canada, 2014 CAF 25, au paragraphe 23.
+[20] Woolner c. R., [1999] A.C.F. no 1615, au paragraphe 7 (QL), (C.A.F.).
+[21] Par exemple, McPherson c. Canada, 2006 CCI 648.
+[22] Marcoux-Côté c. Canada, [2001] 4 C.T.C. 54, aux paragraphes 8 à 10 (C.A.F.) ; Coleman c. Canada, 2010 CCI 109, au paragraphe 57 [Coleman]; Backman c. Canada, 2001 CSC 10, [2001] 1 R.C.S. 367, au paragraphe 22. Comme l’explique la Cour suprême du Canada, « [l]a motivation est ce qui pousse la personne à agir, alors que l’intention est l’objectif ou la fin que vise l’acte qui a été accompli ».
+[23] Mariano c. Canada, 2015 CCI 244, aux paragraphes 17 à 20 et 22, citant Canada c. Burns, 88 D.T.C. 6101 (C.F.P.I.), conf. 90 D.T.C. 6335 (C.A.F.), et Berg c. Canada, 2014 CAF 25. Dans la décision Coleman, précitée à la note 22, la Cour a conclu que le donateur n’avait pas respecté l’exigence d’absence d’avantage. Premièrement, il doit y avoir pour le donateur un avantage ou l’attente d’un avantage autre qu’un avantage purement moral; la Cour d’appel fédérale a par la suite confirmé qu’il n’est pas nécessaire que l’avantage conféré au donateur soit fondé sur une obligation légale. Deuxièmement, il doit y avoir un lien étroit entre le don et l’avantage.
+[24] Maréchaux c. Canada, 2010 CAF 287, au paragraphe 7.
+[25] Directement, indirectement par l’intermédiaire d’une société commerciale internationale dont l’appelant était propriétaire ou au moyen de cartes de débit ou de crédit fournies par Omnicorp.
+[26] Webb c. Canada, 2004 CCI 619 [Webb].
+[27] Wilma Goheen a réclamé 72 $ en 1987 et 40 $ en 2003 pour des dons sans rapport avec Global.
+[28] Transcription de l’audience, page 178. Peu avant l’audience, elle a lu la transcription de l’interrogatoire préalable de son époux.
+[29] Pièce A-6.
+[30] Webb, précitée à la note 26, au paragraphe 14.
+[31] Le paragraphe 163(3) ne s’applique pas de manière à dispenser le contribuable du fardeau de démontrer que la cotisation établie par le ministre était erronée.
+[32] Venne c. Canada (Ministre du Revenu national – M.R.N.), [1984] C.T.C. 223 (C.F.P.I.).
+[33] Klotz c. Canada, 2004 CCI 147, au paragraphe 68. Les motifs sont du juge en chef adjoint Bowman, tel était alors son titre.
+[34] DeCosta c. Canada, 2005 CCI 545, au paragraphe 11.

@@ -1,0 +1,200 @@
+Title: St-Denis c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/31195/index.do
+Corpus path: corpus/cases/tcc/2013/2013-cci-179-31195-st-denis-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2013-06-06
+
+# St-Denis c. La Reine
+
+- Citation: 2013 CCI 179
+- Decision date: 2013-06-06
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5034, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+St-Denis c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2013-06-06
+Référence neutre
+2013 CCI 179
+Numéro de dossier
+2009-3541(GST)G
+Juges et Officiers taxateurs
+Gerald J. Rip
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2009-3541(GST)G
+ENTRE :
+ÉRIC ST-DENIS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 4 décembre 2012 et
+le 18 mars 2013, à Montréal (Québec).
+Devant : L'honorable Gerald J. Rip, juge en chef
+Comparutions :
+Avocat de l'appelant :
+Me Guy Matte
+Avocat de l'intimée :
+Me Danny Galarneau
+____________________________________________________________________
+JUGEMENT
+L’appel de la cotisation établie en vertu de l'article 325 de la Partie IX de la Loi sur la taxe d’accise dont l’avis est daté du 12 mars 2008 et porte le numéro BR‑07‑1481 est rejeté. Les frais encourus relativement à l’audience du 4 décembre 2012 seront assumés par l’appelant. L'intimée est cependant responsable des frais encourus par l'appelant à l'égard de la préparation et de l'audition de la requête en réouverture d’audience du 26 février 2013 et de la réouverture d'enquête du 18 mars 2013.
+Signé à Ottawa, Canada, ce 6e jour de juin 2013.
+« Gerald J. Rip »
+Juge en chef Rip
+Référence : 2013 CCI 179
+Date : 20130606
+Dossier : 2009-3541(GST)G
+ENTRE :
+ÉRIC ST-DENIS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge en chef Rip
+[1] La question en litige dans cet appel consiste à déterminer si la cotisation émise à l’encontre d'Éric St‑Denis en vertu de l'article 325 de la Loi sur la taxe d'accise (« LTA ») est bien fondée.
+[2] Le 14 décembre 2007, trois actes de vente sont intervenus devant le notaire Pierre Audet par lesquels l’appelant et sa mère, Mme Cousineau, ont acquis trois immeubles dont 9161‑4727 Québec Inc. (le « Vendeur ») était propriétaire :
+a) L’appelant a fait l’acquisition de la propriété située au 404 rue Éllice pour un prix de 300 000 $.
+b) Mme Cousineau a fait l’acquisition de la propriété située au 400 rue Éllice pour un prix de 175 000 $.
+c) Mme Cousineau a fait l’acquisition de la propriété située au 396 rue Éllice pour un prix de 1 $.
+[3] Selon l’appelant, c’est lui, et non Mme Cousineau, qui devait devenir propriétaire de la propriété située au 396 rue Éllice (la « Propriété »).
+[4] Le 13 septembre 2007, l’appelant avait signé une promesse d’achat en vertu de laquelle il s’engageait à acquérir le 404 rue Éllice pour un montant de 300 000 $ (la « Promesse d’Achat »). En vertu de la clause 8.1 de la Promesse d’Achat, le Vendeur s’engageait à « vendre pour un dollar la propriété au 396 rue Éllice [la Propriété] ».
+[5] Le notaire Audet a reconnu lors de l’audience que l’acte de vente du 14 décembre 2007 concernant la Propriété (l’« Acte de Vente ») est erroné quant à l’identité de l’acquéreur de la Propriété. L’appelant et son père, témoin lors des négociations entre l’appelant et le Vendeur et lors de la signature de l’Acte de Vente, ont témoigné au même effet. Le notaire Audet admet être responsable de cette erreur.
+[6] Toujours selon l’appelant, c’est à la réception des avis de taxes sur droit de mutation de la Ville de Salaberry-de-Valleyfield, datés du 11 janvier 2008, que Mme Cousineau et lui ont pris connaissance de l’erreur contenue à l’Acte de Vente. L’appelant prétend en avoir avisé le notaire Audet aussitôt.
+[7] Afin de rectifier la situation, l’appelant et Mme Cousineau ont signé le 22 janvier 2008 un acte de cession préparé par le notaire Audet par lequel Mme Cousineau cédait la Propriété à l’appelant pour 1 $ (l’« Acte de Cession »).
+[8] En date du 22 janvier 2008, Mme Cousineau était redevable d’une somme de 170 364,97 $ pour des périodes de trois trimestres non consécutifs commençant le 1er octobre 2004 et se terminant le 31 décembre 2006, en vertu du paragraphe 228(2) de la LTA.
+[9] Par conséquent, le ministère du Revenu du Québec (« Revenu Québec ») a émis l’avis de cotisation portant le numéro BR‑07‑1481, daté du 12 mars 2008, au montant de 55 754,10 $, à l’encontre de l’appelant en application de l’article 325 de la LTA (l’ « Avis de Cotisation »).
+[10] Le 22 avril 2008, par acte intervenu devant le notaire Audet, l’appelant, Mme Cousineau et le Vendeur ont reconnu que le 14 décembre 2007, la Propriété aurait dû être vendue par le Vendeur à l’appelant, et non à Mme Cousineau (l’« Acte de Rectification »).
+Prétentions de l’appelant
+[11] Résumée à sa plus simple expression, la position de l’appelant est à l’effet que l’article 325 de la LTA ne trouve pas application dans le présent appel puisqu’il n’y a pas eu de transfert d’un bien entre personnes ayant un lien de dépendance. Au fil de l’instance, de nombreux arguments ont été avancés par l’appelant afin de soutenir cette position.
+[12] Tout d’abord, l’appelant affirme que le transfert de la Propriété du Vendeur à Mme Cousineau par l’Acte de Vente résulte d’une erreur à la fois du notaire Audet et des parties à l’Acte de Vente. L’appelant prétend que les éléments suivants militent en faveur de la reconnaissance de cette erreur : (1) le témoignage de l’appelant, du père de l’appelant et du notaire Audet à cet effet, (2) l’existence de la clause 8.1 contenue à la Promesse d’Achat selon laquelle « [l]e Vendeur s’engage à vendre pour un dollar la propriété au 396 rue Éllice [la Propriété] », et (3) une comparaison des prix de vente de la Propriété et des propriétés situées au 400 et 404 rue Éllice et des valeurs indiquées aux avis de taxes sur droits de mutation de ces mêmes immeubles.
+[13] Dans sa réplique aux représentations écrites de l’intimée, l’appelant précise qu’il ne prétend pas contredire ce que le notaire Audet avait pour mission de constater dans l’acte authentique que constitue l’Acte de Vente. L’appelant plaide plutôt l’erreur de consentement quant à l’Acte de Cession entre Mme Cousineau et l’Appelant.
+[14] L’appelant prétend que l’Acte de Cession a été préparé par erreur par le notaire Audet dans le but d’éviter le paiement de droits de mutation et que cet acte n’était pas conforme aux intentions de l’appelant. Par conséquent, l’appelant s’appuie sur les articles 1399, 1400, 1407 et 1422 du Code civil du Québec (le « C.c.Q. »)[1] pour affirmer qu’il peut validement demander la nullité de l’Acte de Cession, auquel cas ce dernier est réputé ne jamais avoir existé. Conséquemment, l’Avis de Cotisation devrait être annulé puisque l’Acte de Cession sur lequel il repose a été annulé. L’appelant prétend ainsi qu’il ne lui était pas requis de procéder par inscription de faux pour obtenir l’annulation de l’Acte de Cession.
+[15] L’appelant affirme que l’intimée se doit de cotiser l’appelant en fonction des opérations réelles et prétend, par conséquent, que l’intimée est tenue de se conformer à l’Acte de Rectification. En effet, l’appelant avance que l’Acte de Rectification a eu pour effet de rétablir les faits quant à l’achat de la Propriété, pour que l’acquéreur de cette dernière soit l’appelant, et non Mme Cousineau, en conformité avec la Promesse d’Achat. Cela revient à demander que l’Acte de Rectification se voit attribuer les effets suivants : (1) annulation rétroactive de l’Acte de Cession, et (2) rectification de l’Acte de Vente. En d’autres mots, l’appelant prétend que puisque sa mère, le Vendeur et lui-même ont reconnu par l’Acte de Rectification que la Propriété appartenait à l’appelant depuis le 14 décembre 2007, soit la date de la signature de l’Acte de Vente, la Propriété était alors passée directement du patrimoine du Vendeur à celui de l’appelant.
+[16] L’appelant souligne également que l’Acte de Vente et l’Acte de Cession n’étaient pas des contre-lettres ou des simulations et que le Ministre ne peut donc pas bénéficier de la protection pour les tiers de bonne foi prévue à l’article 1452 C.c.Q.[2] L’appelant fait également valoir que Mme Cousineau n’a jamais fait valoir aux autorités fiscales qu’elle était la propriétaire de la Propriété et que les revenus locatifs de la Propriété ont été inclus dans les déclarations de revenus de l’appelant.
+[17] De façon alternative, l’appelant prétend que l’Acte de Cession constitue une transaction au sens de l’article 2631 C.c.Q.[3], soit un contrat par lequel les parties préviennent une contestation à naître. Ainsi, l’appelant soutient que l’Acte de Cession lui a permis de recouvrir les droits lui appartenant déjà sur la Propriété et qu’il visait à faire en sorte qu’aucune poursuite ne soit intentée par l’appelant. L’appelant conclut de ce fait que la contrepartie qu’il a versée pour l’acquisition de la Propriété est plus élevée que 1 $.
+Prétentions de l’intimée
+[18] L’intimée avance les arguments suivants afin de soutenir sa position selon laquelle l’Acte de Cession a résulté en un transfert de la Propriété entre Mme Cousineau et l’appelant en date du 22 janvier 2008 pour une contrepartie inférieure à sa juste valeur marchande.
+[19] L’intimée soumet que l’Acte de Vente et l’Acte de Cession sont des actes authentiques. Par conséquent, ces actes font preuve, à l’égard de tous, des actes juridiques qu’ils renferment et des déclarations des parties qui s’y rapportent directement. Sans inscription de faux, l’appelant ne peut contredire l’Acte de Vente et l’Acte de Cession (art. 2821 C.c.Q. [4]).
+[20] Le Ministre s’appuie sur l’affaire Leclerc c. Sa Majesté la Reine, [2001] A.C.I. no 422 (QL), aux paras. 26-27, pour affirmer que la rédaction et la signature d’un nouveau contrat tel que l’Acte de Rectification ne changent pas la réalité fiscale créée par l’Acte de Vente et l’Acte de Cession.
+[21] L’intimée souligne que l’Acte de Vente est tout à fait compatible avec le texte de la Promesse d’Achat, compte tenu des relations entre l’appelant et Mme Cousineau. Cependant, aucune preuve n’a été faite à cet égard lors de l’audience. L’intimée avance également que rien dans l’Acte de Cession ne fait état de la prétendue erreur ayant supposément été commise lors de la signature de l’Acte de Vente.
+[22] Puisque l’Acte de Rectification est postérieur à la date de la cotisation en litige, l’intimée affirme qu’il ne lui est pas opposable.
+[23] L’intimée déclare également que madame Louise Cousineau s’est comportée comme la véritable propriétaire de la Propriété, notamment en percevant les loyers provenant de la location de la Propriété et en faisant parvenir un avis d’expulsion au locataire.
+[24] S’appuyant sur le rôle d’évaluation daté du 11 mars 2008, l’intimée prétend que la juste valeur marchande de la Propriété était de 161 400 $ à la signature de l’Acte de Cession. Par conséquent, l’intimée soutient que Mme Cousineau a transféré la Propriété à l’appelant pour une contrepartie inférieure de 161 399 $ à sa juste valeur marchande. Ainsi, l’intimée est d’avis que l’appelant est solidairement tenu de payer le montant dont Mme Cousineau était redevable en vertu de la LTA pour les périodes visées.
+Analyse
+[25] Tel que déterminé par la Cour d’appel fédérale dans les affaires Raphael c. Canada, 2002 CAF 23, au para. 4 et La Reine c. Livingston, 2008 CAF 89, au para. 17, quatre conditions doivent être réunies pour que le paragraphe 160(1) de la Loi de l’impôt sur le revenu (la « LIR »), la disposition homologue au paragraphe 325(1) de la LTA, s’applique :
+(i) un transfert de biens a eu lieu;
+(ii) l'auteur et le bénéficiaire du transfert ont un lien de dépendance;
+(iii) le cessionnaire n’a pas donné une contrepartie suffisante à l'auteur du transfert; et
+(iv) l'auteur du transfert a une obligation fiscale impayée au moment du transfert.
+[26] La première condition a été soulevée par l’appelant dans son avis d’appel et la troisième condition a été brièvement abordée par l’appelant dans ses soumissions écrites. Ces deux conditions seront abordées tour à tour.
+Existence d’un transfert
+[27] Dans le présent appel, la Propriété semble avoir fait l’objet de deux transferts :
+a) Le 14 décembre 2007, en vertu de l’Acte de Vente, Mme Cousineau a fait l’acquisition de la Propriété auprès du Vendeur pour un prix de 1 $;
+b) Le 22 janvier 2008, par l’Acte de Cession, l’appelant a fait l’acquisition de la Propriété auprès de Mme Cousineau pour un prix de 1 $.
+[28] Puisque l’Acte de Vente et l’Acte de Cession sont deux actes authentiques, ceux‑ci constituent à première vue des transferts valides. En effet, un acte de vente notarié dûment enregistré constitue un transfert valide puisqu’il s’agit, en vertu des articles 2814 et 2819 C.c.Q.[5], d’un acte authentique faisant preuve complète, à l'égard de tous, de l'acte juridique qu'il renferme et des déclarations des parties qui s'y rapportent directement (Voir Romar c. Canada, [2012] A.C.I. no 97 (QL), au para. 28, confirmée par la Cour d’appel fédérale dans [2013] A.C.F. no 74 (QL), demande d’autorisation d’appel à la Cour suprême soumise à la Cour le 6 mai 2013).
+[29] L’appelant affirme que le transfert de la Propriété du Vendeur à Mme Cousineau par l’Acte de Vente résulte d’une erreur à la fois du notaire Audet et des parties à l’Acte de Vente. En effet, l’appelant prétend que c’est lui, et non Mme Cousineau, qui devait devenir propriétaire de la Propriété.
+[30] L’appelant mentionne qu’une comparaison des prix de vente de la Propriété et des propriétés situées au 400 et 404 rue Éllice et des valeurs indiquées aux avis de taxes sur droits de mutation de ces mêmes immeubles permet de constater que le transfert de la Propriété du Vendeur à Mme Cousineau par l’Acte de Vente était une erreur. En effet, il ne serait pas logique que l’appelant ait acquis l’immeuble situé au 404 Éllice, ayant une valeur de 142 350 $ selon l’avis de taxes sur droits de mutation, pour 300 000 $, alors que Mme Cousineau aurait acquis la Propriété en plus de l’immeuble situé au 400 Éllice, dont la valeur cumulative est de 238 940 $ selon les avis de taxes sur droits de mutation, pour 175 000 $. Bien qu’à première vue cet argument semble convaincant, aucune preuve n’a été faite quant à la provenance des fonds ayant servi à acquérir les trois immeubles. Si l’appelant m’avait fait la preuve que c’est lui qui a fourni les fonds et/ou qu’il était le débiteur hypothécaire, par exemple, j’aurais été plus à même d’accepter cet argument. Cela n’a malheureusement pas été fait.
+[31] De plus, plusieurs éléments de preuve permettent de douter de la véracité de l’affirmation de l’appelant selon laquelle l’identité de l’acquéreur à l’Acte de Vente était erronée. Premièrement, bien que le notaire Audet ait reconnu l’existence d’une erreur à l’Acte de Vente, il a toutefois affirmé avoir fait une lecture explicative de l’Acte de Vente et avoir agi « dans les règles de l’art » lors de la signature des différents actes de vente intervenus devant lui le 14 décembre 2007. Aux dires de l’appelant, son père, le Vendeur, Mme Cousineau et lui-même étaient présents chez le notaire Audet au moment de la signature des actes de vente le 14 décembre 2007. Il est difficile de croire qu’aucun de ces individus n’ait remarqué l’existence d’une erreur si flagrante.
+[32] Deuxièmement, il semblerait que Mme Cousineau se soit comportée en réelle propriétaire de la Propriété jusqu’à la signature de l’Acte de Cession. Plus précisément, l’appelant a reconnu qu’un avis d’expulsion adressé au locataire de la Propriété avait été rédigé par Mme Cousineau. Également, la preuve a été faite que les chèques de loyer des mois de décembre 2007 et janvier 2008 ont été encaissés par Mme Cousineau. Le témoignage de l’appelant à cet égard est que sa mère et lui avaient choisi d’agir ainsi puisqu’ils avaient réalisé qu’une erreur avait été commise à l’Acte de Vente et que cette erreur faisait en sorte que seule Mme Cousineau était habilitée à agir en tant que propriétaire de la Propriété. Ainsi, l’appelant a affirmé que Mme Cousineau avait encaissé les chèques et lui avait ensuite donné l’argent, et que c’est lui qui avait inclus les revenus locatifs à ses déclarations de revenus. Trois commentaires méritent d’être faits à cet égard.
+[33] Tout d’abord, l’appelant n’a fait aucune preuve du remboursement des loyers par sa mère et le relevé de compte de Mme Cousineau ne fait pas mention d’un retrait des mêmes montants que ceux indiqués aux chèques de loyer ayant été déposés dans son compte. Ensuite, la déclaration de revenus de l’appelant pour 2007 n’a été pas déposée en preuve et le fait que l’appelant ait inclus des revenus locatifs à sa déclaration de revenus pour 2008, datée du 29 avril 2010, ne lui est guère d’une grande aide puisque cette déclaration de revenus été préparée bien après que l’appelant ait été cotisé en vertu de l’article 325 de la LTA. Finalement, l’ordre chronologique des évènements semble problématique. Selon la preuve au dossier, les chèques pour le loyer de décembre 2007 et janvier 2008 ont été encaissés par Mme Cousineau le 5 décembre 2007 et le 8 janvier 2008 respectivement. Ces dates soulèvent plusieurs questions puisque l’appelant a mentionné avoir réalisé l’existence de l’erreur à l’Acte de Vente lors de la réception des avis de taxes sur droit de mutation. Or, ces avis sont datés du 11 janvier 2008, soit après que Mme Cousineau ait encaissé les chèques de loyer pour décembre 2007 et janvier 2008. De plus, il semblerait que le chèque de loyer pour décembre ait été encaissé avant même que l’Acte de Vente ne soit signé puisque ce dernier est daté 14 décembre 2007. Bref, une analyse de la chronologie des évènements mine la crédibilité de l’appelant.
+[34] Troisièmement, l’intimée souligne avec justesse dans sa réponse à l’avis d’appel que rien dans l’Acte de Cession ne fait état d’une erreur survenue à l’Acte de Vente. Ce n’est qu’à l’Acte de Rectification, rédigé suite à la réception de l’Avis de Cotisation, qu’il est fait mention de l’existence d’une erreur.
+[35] Quatrièmement, une lettre a été rédigée le 6 mars 2008 par Me Martin Couillard, le représentant de l’appelant à l’époque, afin de demander à l’agente de gestion des créances en charge de la créance de Mme Cousineau auprès de Revenu Québec d’accorder une mainlevée de la demande formelle de paiement et tierce saisie adressée au locataire de la Propriété. Or, cette lettre ne fait aucune mention de l’existence de la prétendue erreur. Le passage pertinent de cette lettre se lit plutôt comme suit : « À cet effet, notre client nous avise qu’il est propriétaire de l’immeuble situé au 396, rue Ellice à Valleyfield [la Propriété] depuis le 22 janvier 2008. »
+[36] Bref, ces éléments me font douter de la véracité des prétentions de l’appelant selon lesquelles une erreur a été commise lors de l’Acte de Vente. Même si j’avais tort et que l’acquisition par Mme Cousineau de la Propriété résultait d’une réelle erreur, il aurait été nécessaire pour l’appelant de procéder par inscription de faux afin de contredire l’identité de l’acquéreur indiquée à l’Acte de Vente puisqu’il s’agit d’un fait que l’officier public avait mission de constater (art. 2821 du C.c.Q.). Cela est d’ailleurs reconnu par l’appelant, qui tente plutôt d’obtenir l’annulation de l’Acte de Cession en raison d’un vice de consentement. En effet, l’appelant s’appuie sur les articles 1399, 1400, 1407 et 1422 du C.c.Q. pour demander la nullité de l’Acte de Cession en raison d’une erreur. Conséquemment, l’appelant prétend que l’Avis de Cotisation devrait être annulé puisque l’Acte de Cession sur lequel il repose est réputé ne jamais avoir existé.
+[37] Pour que cet argument soit accepté, l’appelant avait le fardeau de la preuve de démontrer d’une part, qu’il s’agit bien d’une erreur excusable et d’autre part, que cette erreur a été déterminante à son consentement (Beaudoin et Jobin, Les obligations, 6e édition, 2005, Éditions Yvon Blais, au para. 231). Or, absolument aucune preuve n’a été faite quant à l’existence même d’une erreur viciant le consentement à l’Acte de Cession, cet argument n’ayant été énoncé clairement que dans les soumissions écrites de l’appelant. L’appelant et son notaire ont tous deux témoigné à l’effet qu’une erreur a été commise quant à l’identité de l’acheteur indiquée à l’Acte de Vente, mais ils n’ont pas mentionné l’existence d’une erreur de consentement à l’Acte de Cession. Il convient également de souligner que l’Acte de Rectification ne contient aucune mention de l’existence d’une erreur à l’Acte de Cession. Il y est simplement mentionné que l’acte est rédigé afin « de rectifier et de préciser les transferts de titre qui ont été publiés concernant l’immeuble ci-après décrit ». Ainsi, rien ne permet de conclure que le consentement de l’appelant à l’Acte de Cession était vicié, d’autant plus que j’en suis venu à la conclusion que l’identité de l’acquéreur indiquée à l’Acte de Vente n’était pas erronée.
+[38] Finalement, l’appelant affirme dans ses soumissions écrites que l’Acte de Rectification « a pour effet d’annuler rétroactivement l’[Acte de Cession] et de placer les parties impliquées […] dans la même situation qui existait avant l’[A]cte de [C]ession et après signature des offres d’achat acceptées[…] ». L’appelant cite de nombreuses décisions ayant récemment permis la rectification de documents afin de soutenir ses prétentions selon lesquelles l’intimée doit se conformer à ce qui est contenu à l’Acte de Rectification. Avec égards, la position de l’appelant ne saurait être acceptée. La compétence de se livrer à la rectification de documents revient aux cours supérieures des provinces dans le cadre d’une requête en jugement déclaratoire, et non aux cours fédérales. De plus, la rectification est permise lorsqu’il s’agit d’actes sous seing privé. Or, l’Acte de Vente et l’Acte de Cession sont des actes authentiques nécessitant le recours à l’inscription de faux si l’appelant souhaite en modifier le contenu.
+[39] La nécessité de procéder par inscription de faux afin de contredire les modalités d’un transfert constaté par acte notarié a d’ailleurs été reconnue en matière fiscale dans l’affaire Giguère c. Canada, [1992] A.C.I. no 400 (QL). Similairement au présent appel, l’appelant dans cette affaire s’appuyait notamment sur un document postérieurement signé devant notaire afin de faire valoir qu’un contrat de vente notarié ne représentait pas la réalité de la transaction intervenue entre lui et sa mère. Plus précisément, l’appelant tentait de démontrer que la vente par sa mère d’un immeuble avait été faite à lui et son frère, et non à lui uniquement tel que le stipulait l’acte de vente. L’ancien juge en chef Couture avait refusé cette preuve notamment en raison du fait que l’appelant n’avait pris aucune procédure en inscription de faux.
+[40] L’affaire Leclerc c. Canada, précitée, présente également d’importantes similarités avec le présent appel. Dans cette affaire, le juge Dussault a refusé qu’un élément essentiel d’un acte notarié soit modifié par un acte notarié subséquent. L’appelante et son mari avaient signé un acte notarié intitulé « Rectification et quittance » visant à modifier la considération indiquée à l’acte notarié original afin de refléter ce qu’ils affirmaient être l’intention véritable des parties à l’époque. Le juge Dussault a déclaré qu’il aurait fallu procéder par inscription de faux, faute de quoi la contrepartie indiquée à l’acte notarié original ne pouvait être modifiée (au para. 28).
+[41] Bref, l’Acte de Rectification ne saurait se voir attribuer les effets rétroactifs que l’appelant souhaite lui conférer. La Propriété a donc effectivement fait l’objet d’un transfert entre Mme Cousineau et l’appelante lors de la signature de l’Acte de Cession, le 22 février 2008.
+Valeur de la contrepartie payée par l’appelant
+[42] De façon subsidiaire, l’appelant allègue que l’Acte de Cession constitue une transaction telle que définie à l’article 2631 du C.c.Q., soit un contrat par lequel les parties préviennent une contestation à naître. L’appelant avance que la valeur de la contrepartie n’est pas de 1 $, tel que stipulé à l’Acte de Rectification, mais plutôt égale à la juste valeur marchande de la Propriété puisqu’en signant l’Acte de Cession, l’appelant réglait à l’amiable l’erreur qui s’était produite à l’Acte de Vente et renonçait à exercer ses droits sur la Propriété à l’encontre du Vendeur et de Mme Cousineau. Puisque j’ai conclu que l’identité de l’acquéreur indiquée à l’Acte de Vente n’était pas erronée, cet argument ne saurait être retenu. De plus, tel que discuté précédemment, le juge Dussault dans l’affaire Leclerc c. Canada, précitée, a refusé que la considération apparaissant dans un acte notarié ne soit modifiée à l’extérieur d’une procédure en inscription de faux.
+Juste valeur marchande de la Propriété
+[43] Afin d’établir la juste valeur marchande de la Propriété au moment du transfert, le Ministre s’est basé sur le rôle d’évaluation municipale en date du 11 mars 2008. Selon ce document, la valeur uniformisée de la Propriété pour le rôle triennal 2008‑2010 est de 161 400 $.
+[44] Il est bien établi que l’évaluation municipale, bien que pertinente dans l’évaluation de la juste valeur marchande d’une propriété, n’est pas représentative, à elle seule, de la juste valeur marchande de cette propriété. C’est en effet la conclusion à laquelle en sont venus les juges Campbell et Webb dans les affaires Truong c. Canada, 2011 D.T.C. 1275, au para. 27 et Somers c. Canada, [2008] A.C.I. no 217 (QL), au para. 38, respectivement. Cependant, l’évaluation des impôts fonciers peut être acceptée comme faisant partie d’une d’un certain nombre d’indicateurs de la juste valeur marchande d’un bien (Truong, précitée, au para. 27).
+[45] Or, l’appelant n’a avancé aucune preuve afin de se décharger du fardeau qu’il avait de démontrer que l’évaluation de la juste valeur marchande de la Propriété faite par l’intimée est erronée (Voir, par exemple, Truong, précitée, au para. 27 et Côté-Sicé c. Canada, [1999] A.C.I. no 1363 (QL), au para. 8). Par conséquent, je dois accepter la position du Ministre selon laquelle la juste valeur marchande de la Propriété au moment du transfert était de 161 400 $.
+Conclusion
+[46] Pour toutes ces raisons, l’appel est rejeté et la cotisation, maintenue.
+[47] L’avocat de l’intimée a fait défaut de comparaître au procès ordonné le 4 décembre 2012. Le 28 février 2013, j’ai accueilli une requête de la part de l’intimée visant à obtenir une suspension du délibéré et une réouverture d’enquête afin de permettre à l’intimée d’administrer sa preuve. J’ai toutefois condamné l’intimée à payer les frais encourus par l'appelant à l'égard de la préparation et de l'audition de la requête en réouverture d’audience du 26 février 2013 et de la réouverture d'enquête du 18 mars 2013. Les frais encourus relativement à l’audience du 4 décembre 2012 seront assumés par l’appelant.
+Signé à Ottawa, Canada, ce 6e jour de juin 2013.
+« Gerald J. Rip »
+Juge en chef Rip
+RÉFÉRENCE : 2013 CCI 179
+Nº DU DOSSIER DE LA COUR : 2009-3541(GST)G
+INTITULÉ DE LA CAUSE : ÉRIC ST-DENIS c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATE DE L’AUDIENCE : le 4 décembre 2012 et le 18 mars 2013
+MOTIFS DU JUGEMENT PAR : L'honorable Gerald J. Rip, juge en chef
+DATE DU JUGEMENT : le 6 juin 2013
+COMPARUTIONS :
+Avocat de l'appelant :
+Me Guy Matte
+Avocat de l'intimée :
+Me Danny Galarneau
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelant:
+Nom : Me Guy Matte
+Cabinet : Me Fiscalex Inc.
+Montréal (Québec)
+Pour l’intimée : William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Les articles 1399, 1400, 1407 et 1422 C.c.Q. se lisent comme suit :
+1399. Le consentement doit être libre et éclairé.
+Il peut être vicié par l'erreur, la crainte ou la lésion.
+1399. Consent may be given only in a free and enlightened manner.
+It may be vitiated by error, fear or lesion.
+1400. L'erreur vicie le consentement des parties ou de l'une d'elles lorsqu'elle porte sur la nature du contrat, sur l'objet de la prestation ou, encore, sur tout élément essentiel qui a déterminé le consentement.
+L'erreur inexcusable ne constitue pas un vice de consentement.
+1400. Error vitiates consent of the parties or of one of them where it relates to the nature of the contract, the object of the prestation or anything that was essential in determining that consent.
+An inexcusable error does not constitute a defect of consent.
+1407. Celui dont le consentement est vicié a le droit de demander la nullité du contrat; en cas d'erreur provoquée par le dol, de crainte ou de lésion, il peut demander, outre la nullité, des dommages-intérêts ou encore, s'il préfère que le contrat soit maintenu, demander une réduction de son obligation équivalente aux dommages-intérêts qu'il eût été justifié de réclamer.
+1407. A person whose consent is vitiated has the right to apply for annulment of the contract; in the case of error occasioned by fraud, of fear or of lesion, he may, in addition to annulment, also claim damages or, where he prefers that the contract be maintained, apply for a reduction of his obligation equivalent to the damages he would be justified in claiming.
+1422. Le contrat frappé de nullité est réputé n'avoir jamais existé.
+Chacune des parties est, dans ce cas, tenue de restituer à l'autre les prestations qu'elle a reçues.
+1422. A contract that is null is deemed never to have existed.
+In such a case, each party is bound to restore to the other the prestations he has received.
+[2] L’article 1452 C.c.Q. se lit comme suit :
+1452. Les tiers de bonne foi peuvent, selon leur intérêt, se prévaloir du contrat apparent ou de la contre-lettre, mais s'il survient entre eux un conflit d'intérêts, celui qui se prévaut du contrat apparent est préféré.
+1452. Third persons in good faith may, according to their interest, avail themselves of the apparent contract or the counter letter; however, where conflicts of interest arise between them, preference is given to the person who avails himself of the apparent contract.
+[3] L’article 2631 C.c.Q se lit comme suit :
+2631. La transaction est le contrat par lequel les parties préviennent une contestation à naître, terminent un procès ou règlent les difficultés qui surviennent lors de l'exécution d'un jugement, au moyen de concessions ou de réserves réciproques.
+Elle est indivisible quant à son objet.
+2631. Transaction is a contract by which the parties prevent a future contestation, put an end to a lawsuit or settle difficulties arising in the execution of a judgment, by way of mutual concessions or reservations.
+A transaction is indivisible as to its object.
+[4] L’article 2821 C.c.Q se lit comme suit :
+2821. L'inscription de faux n'est nécessaire que pour contredire les énonciations dans l'acte authentique des faits que l'officier public avait mission de constater.
+Elle n'est pas requise pour contester la qualité de l'officier public et des témoins ou la signature de l'officier public.
+2821. Improbation is necessary only to contradict the recital in the authentic act of the facts which the public officer had the task of observing.
+Improbation is not required to contest the quality of the public officer or witnesses or the signature of the public officer.
+[5] Les articles 2814 et 2819 C.c.Q se lisent comme suit :
+2814. Sont authentiques, notamment les documents suivants, s'ils respectent les exigences de la loi:
+1° Les documents officiels du Parlement du Canada et du Parlement du Québec;
+2° Les documents officiels émanant du gouvernement du Canada ou du Québec, tels les lettres patentes, les décrets et les proclamations;
+3° Les registres des tribunaux judiciaires ayant juridiction au Québec;
+4° Les registres et les documents officiels émanant des municipalités et des autres personnes morales de droit public constituées par une loi du Québec;
+5° Les registres à caractère public dont la loi requiert la tenue par des officiers publics;
+6° L'acte notarié;
+7° Le procès-verbal de bornage.
+2814. The following documents in particular are authentic if they conform to the requirements of law:
+1° official documents of the Parliament of Canada or the Parliament of Québec;
+2° official documents issued by the government of Canada or of Québec, such as letters patent, orders and proclamations;
+3° records of the courts of justice having jurisdiction in Québec;
+4° records of and official documents issued by municipalities and other legal persons established in the public interest by an Act of Québec;
+5° public records required by law to be kept by public officers;
+6° notarial acts;
+7° minutes of determination of boundaries.
+2819. L'acte notarié, pour être authentique, doit être signé par toutes les parties; il fait alors preuve, à l'égard de tous, de l'acte juridique qu'il renferme et des déclarations des parties qui s'y rapportent directement.
+Lorsque les parties ne peuvent pas signer, leur déclaration ou consentement doit être reçu en présence d'un témoin qui signe. Ne peuvent servir de témoins, les mineurs, les majeurs inaptes à consentir, de même que les personnes qui ont un intérêt dans l'acte.
+2819. To be authentic, a notarial act shall be signed by all the parties; it then makes proof against all persons of the juridical act which it sets forth and of those declarations of the parties which directly relate to the act.
+Where the parties are unable to sign, their declaration or consent shall be given before a witness who signs. Minors, persons of full age who are unable to give consent and persons who have an interest in the act may not be witnesses

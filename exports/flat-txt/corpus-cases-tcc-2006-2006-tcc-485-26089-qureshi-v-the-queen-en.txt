@@ -1,0 +1,177 @@
+Title: Qureshi v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26089/index.do
+Corpus path: corpus/cases/tcc/2006/2006-tcc-485-26089-qureshi-v-the-queen-en.md
+Document type: case_law
+Last modified: 2006-09-07
+
+# Qureshi v. The Queen
+
+- Citation: 2006 TCC 485
+- Decision date: 2006-09-07
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4150, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Qureshi v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-09-07
+Neutral citation
+2006 TCC 485
+File numbers
+2006-78(GST)I
+Judges and Taxing Officers
+Donald G.H. Bowman
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2006-78(GST)I
+BETWEEN:
+SUSAN MARTHA QURESHI,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on August 24, 2006, at Kitchener, Ontario.
+Before: The Honourable D.G.H. Bowman, Chief Justice
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Amy Kendell
+___________________________________________________________________
+AMENDED JUDGMENT
+This judgment is issued in substitution for the Judgment signed on September 7, 2006;
+The appeal from the assessment made under the Excise Tax Act, notice of which is dated November 26, 2004 and bear number 04299503012370005, is allowed and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment to allow the appellant a GST rebate of $8,750.
+There will be no order for costs.
+Signed at Ottawa, Canada, this 2nd day of October 2006.
+"D.G.H. Bowman"
+Bowman, C.J.
+Citation: 2006TCC485
+Date: 20061002
+Docket: 2006-78(GST)I
+BETWEEN:
+SUSAN MARTHA QURESHI,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+AMENDED REASONS FOR JUDGMENT
+(These Reasons for Judgment are issued in substitution for the
+Reasons for Judgment signed on September 7, 2006)
+Bowman, C.J.
+[1] This appeal is from an assessment of Goods and Services Tax (“GST”) by which the Minister of National Revenue denied a claim made by the appellant in the amount of $8,750 as a new housing rebate. The appellant, in her rebate claim, stated that the property had a fair market value (“fmv”) of $350,000. The assessment and confirmation were based upon the view that the property had a fmv in excess of $450,000.
+[2] Under section 256 of the Excise Tax Act (“ETA”), where an owner constructs or substantially renovates his or her home, a GST rebate is available up to $8,750. If the fmv at the date of substantial completion is $450,000 or more, no rebate is permitted. If the fmv of the house is $350,000 or less the full rebate of $8,750 or 36% of the GST paid whichever is lesser is available. Where the fmv is between $350,000 and $450,000 the rebate varies in accordance with a formula.
+[3] The assumptions on which the assessment was based and confirmed are set out in paragraph 10 of the Reply to the Notice of Appeal as follows:
+10. In so assessing and confirming the Appellant’s Rebate assessment, the Minister made the following assumptions of facts:
+a) The Appellant constructed a new home located at the civic address 610 Riverview Drive, Listowel, Ontario;
+b) The greater part of the house was constructed by a general contractor, Rozendal Construction Ltd.;
+c) The property has a rectangular configuration of 80 feet by 125 feet;
+d) The property backs onto a tributary of the Maitland River;
+e) The construction of the house was started on or about April 20, 2004;
+f) The Appellant occupied the home as of September 17, 2004;
+g) The house was complete or substantially complete as of September 10, 2004;
+h) The most appropriate method to be used to value the Property is the Cost Approach;
+i) The cost to develop the property, not including GST, is $497,899.59;
+j) The housing unit is a two storey home with over 3,364 square footage of living space; and
+k) The Minister appraised the FMV of the Property as of September 17, 2004 at $500,000.00.
+[4] The original assessment appears to have been based solely on the fact that the cost to the appellant of the house was $497,000 i.e. $96,000 for the lot plus $401,000 construction costs. The appellant does not dispute this cost but argues that this is not the best indication of fmv.
+[5] The respondent contends that the best indicator of fmv is cost and relies upon a decision of Taylor J. in Timber Lodge Ltd. v. The Queen, [1994] G.S.T.C. 73 and Angers J. in 9103‑9438 Québec Inc. v. The Queen, [2004] G.S.T.C. 95.
+[6] It is true that cost has sometimes been used as a basis for determining fmv, both in the above cases and in cases under the Cultural Property Export and Import Act, such as Aikman v. R., [2000] 2 C.T.C. 2211 aff’d’; [2002] 2 C.TC. 147 or Maréchal v. The Queen, 2004 DTC 3227, aff’d 2005 DTC 5223. However, where the cost of a piece of property is indicative of fmv it is in cases where the cost is the price at which a property is bought in an arm’s length sale. The cost of constructing or reproducing a property is not a reliable basis for determining fmv where, as here, there is a market to which one may look.
+[7] The valuation of property, as was noted in Gold Coast Selection Trust Ld. v. Humphrey, [1948] A.C. 459, is an art not a science. One must bring to bear many factors in determining what sort of a deal would be struck between arm’s length parties. It is not a mechanical process of looking at the cost and ignoring all other factors, including common sense and the market.
+[8] The appellant had appraisals prepared but I did not permit her to put them in evidence without calling the appraisers to be cross-examined. (See 1036705 Ontario Ltd. v. R., [2000] G.S.T.C. 73.) The appellant did put in numerous comparables from the town of Listowel where the property is situated. She made very generous adjustments to arrive at her fmv of $350,000.
+[9] The respondent’s expert in my view started with the construction cost of $497,000 and then used comparables from a town 55 kilometers distant, Shakespeare, Ontario in the touristed area near Stratford and made adjustments to justify a market valuation that was close to that arrived at by using the construction cost.
+[10] There is simply no justification for using cost or replacement cost as a measure of valuing when there is a market in which comparables are available. Cost or replacement cost do not indicate fmv where we are dealing with a home that is being constructed to a homeowner’s specifications. If one buys a fully constructed house in the open market the price paid will generally be an indication of fmv.
+[11] The respondent’s appraiser, Mr. Ron Duda, took three comparables, two in Shakespeare and one in Millbank. He said his best comparable was at 4029 North Hill Drive in Shakespeare, Perth County, which sold for $354,900. His discussion of his three comparables is as follows:
+3.3.1.Analysis and Conclusions
+An analysis of the comparables sales has been undertaken with a view to making adjustments to their prices to account for differences including, real property rights conveyed, financing terms, conditions of sale, change in market conditions, location, and physical characteristics. In this appraisal, a relative comparison has been performed. This is an analysis without recourse to quantification. The comparable sales have been analyzed to determine whether their characteristics are inferior, superior or equal to those of the subject property. A ranking analysis has then been undertaken whereby the comparable sales are ranked in ascending order and the relative position of the subject selected and placed in the array.
+No adjustment for differences for the property rights conveyed is necessary to any of the comparable sales. All the properties were sold with typical financing, so no adjustment for this element of comparison is required. All the sales were typically motivated and were exposed to the market on MLS from 58 to 177 days prior to selling. No adjustments for conditions of sale are required.
+The three comparable sales sold close to the effective date. The furthest removed was Sale 1 which sold 5 months prior to the effective date. Sale 3 sold less than 2 months after the effective date. All three sales are considered to be current to the effective date and no adjustment to their sale prices was required.
+The sales prices range between $340,000 and $424,500. The three sales can be described in terms of their adjusted prices per square foot for ease of comparison as follows.
+Sale 1 price per square foot: $120
+Sale 2 price per square foot: $111
+Sale 3 price per square foot: $174
+Now the relative comparison will identify which characteristics in these properties are inferior, superior or equal to those of the subject property.
+Sale 1 is on a somewhat larger lot but with equivalent utility to the subject’s 0.23 acres. Its location in a subdivision without a view of the river or other similar amenity is inferior to the subject, which has a river view. This is the most significant difference between the two properties. Although in good condition, the house was 6 years old when it sold whereas the subject is new. This house has a triple garage whereas the subject has a double garage. Its basement is finished while the subject’s is only partially finished. Despite some superior characteristics of the house over the subject, overall this property is somewhat inferior to the subject due mainly to the subject’s superior location. The subject would likely command a price in excess of the $120 per square foot indicated by this sale.
+Sale 2 is also on a larger lot than the subject but has equivalent utility. The recently rebuilt house was finished with good quality materials. The house had no garage and only a small partial basement. As in Sale 1, the location of this property is inferior to the subject which overlooks the Maitland River. Overall this property is inferior to the subject which would indicate it would command a price well in excess of the $111 per square foot indicated by this sale.
+Sale 3 is the least comparable of the three sales analyzed. Being a bungalow its construction costs are higher than for a 2 storey home. This is reflected in its relatively high per square foot price of $174. It’s lot has similar utility to the subject. The house was 10 years old when sold which renders it inferior to the subject. Overall the price per square foot of the house is a rate much higher than would be expected for the subject.
+A value indication for the subject can now be concluded by arranging the sales in an array relative to the subject. Sales 1 and 2 are considered to be inferior to the subject. The subject’s estimated value must therefore be above the highest price indicated by these two sales, in this case, above $120 per square foot. Sale 3 indicates a price per square foot well above what would be expected for the subject, so its value must be below $174 per square foot.
+Sale
+Price
+Per Sq. Ft.
+Overall Comparability
+2
+$111
+inferior
+1
+$120
+inferior
+SUBJECT
+3
+$174
+superior
+The market value of the subject would lie between the inferior Comparable Sales 2 and 1 at $120 per square foot, and the superior Comparable Sale 3 at $174 per square foot. It is reasonable to conclude that the subject’s value would favour the lower end of the range because of the economies of scale accomplished in construction a 2 storey residence as opposed to a bungalow such as Comparable Sale 3. A range of value for the subject is estimated at between $130 and $150 per square foot. The house has a gross floor area of 3,364 square feet.
+In view of the comparable data presented, it is my opinion that the estimated fair market value of the subject property as indicated by the Direct Comparison Approach, as of September 17, 2004, was in the range of, $440,000 to $490,000, net of GST.
+[12] The simple fact of the matter is that Mr. Duda chose to rely upon no comparables in Listowel, a quiet little rural town in south western Ontario about 60 kilometers north west of Kitchener, even though there were many sales found by Ms. Qureshi. He found no house in Listowel that had ever sold for $500,000 and yet he concluded that the appellant would have been able to sell the house for that price. The notion that the appellant could have got anywhere near $500,000 on a sale of the property flies in the face of common sense. I quote in full Ms. Qureshi’s comment on Mr. Duda’s report:
+Dear sir;
+RE: Objection 0501-1131-4324 Ref#: New Housing Rebate
+This letter is to provide your office with further comments and supporting documentation regarding the appraisal report completed and signed by Mr. Ron Duda on May 4, 2005.
+I received your letter dated May 31, 2005 on June 7, 2005. Thank you very much for the opportunity to provide further comments on the fact that your decision will now be based on Mr. Duda’s appraisal report that concludes the retrospective fair market value of the property at 610 Riverview Drive is $500,000.00.
+To facilitate your understanding of the faults with this appraisal value I will provide a map, some demographic statistics and a similar comparison chart for comparable properties as used by Mr. Duda in his report. All of this is at no cost to you.
+Construction of the new home at 610 Riverview Drive was completed September 15, 2004 and the original GST rebate application was submitted on October 14, 2004. The response from your office that disallowed the GST rebate was sent in December. I submitted a Notice of Objection and included supporting documentation of a professional appraisal of fair market value of the property inspected on December 14, 2004. That appraisal placed the Fair Market Value at $310,000.00.
+Background information for this property appraisal is relevant. Because Mr. Duda is from Hamilton he is probably unaware of these facts.
+Comparable properties 1 and 3, used by Mr. Duda in his analysis, are both located in Shakespeare. Shakespeare is a small town that is located 15km East of Stratford, Ontario and only 40km West of Kitchener/Waterloo, Ontario. Listowel is located 55 km North West of Stratford and 60 km West of Kitchener/Waterloo. Please refer to the map provided as Appendix 1 to review the location of Listowel. In terms of location and proximity to larger centers, the following towns offer more comparable market value for analysis because the market conditions better approximate the subject property in Listowel: Palmerston, Brussels, Mitchell.
+Appendix 2 is a summary of the demographics of the towns used by Mr. Duda and the towns that I am suggesting would be more comparable to Listowel. Please note that Millbank and Shakespeare, used by Mr. Duda in his analysis are included in Perth East consensus data. I have highlighted the statistics that are relevant in my arguments.
+I also would like you to review the specific details regarding the factors used by Mr. Duda in his analysis for the comparable property adjustments. While reviewing his numbers I found it very difficult to believe that the adjustment factors he was applying in his analysis are, in fact, applicable to small, rural towns located over 40 minutes away from larger centers.
+Mr. Duda’s note in his final estimate of value misstates that the subject lot was purchased in September 2002 for $45,000. The lot was actually purchased September 2003 for $96,000.
+Appendix 3 is the comparable properties chart and unlike Mr. Duda’s analysis, I have used 8 comparable properties that have sold within the last year to conclude that the fair market value of the subject property located at 610 Riverview Drive does not exceed 310,000.00.
+I would greatly appreciate the opportunity to meet with you to review these comments and determine what further details you may require to substantiate these arguments. I will be calling you on Tuesday, June 28, 2005 to arrange a meeting at your convenience.
+Sincerely,
+[13] I turn now to Ms. Qureshi’s eight comparables. Five of them are in Listowel, one in Alma, one in Mitchell and one in Brussels. The selling prices range from $185,000 to $340,000 which, on the most generous adjustments, put their comparable prices to a range of $235,550 to $352,500. The Alma property at $352,500 had a huge lot of 565 x 313 or about four acres. This would amply compensate for the fact that it is not on the river.
+[14] The conclusion that I have reached is that the appellant has overwhelmingly demonstrated that the fmv of the appellant’s property had, on September 17, 2003, a fmv that was not in excess of $350,000. The Crown’s position that the construction cost plus the cost of the lot totalling $497,000 is indicative of fmv is, in my view, wrong. It does not follow that, just because a person chooses to spend $497,000 on a house in a town where no house has sold for more than $300,000, the house has a fmv of $500,000.
+[15] The judicial definition of fmv that has traditionally been accepted by the courts in Canada is that of Cattanach J. in Henderson Estate and Bank of New York v. M.N.R., 73 DTC 5471 at page 5476:
+The statute does not define the expression "fair market value", but the expression has been defined in many different ways depending generally on the subject matter which the person seeking to define it had in mind. I do not think it necessary to attempt an exact definition of the expression as used in the statute other than to say that the words must be construed in accordance with the common understanding of them. That common understanding I take to mean the highest price an asset might reasonably be expected to bring if sold by the owner in the normal method applicable to the asset in question in the ordinary course of business in a market not exposed to any undue stresses and composed of willing buyers and sellers dealing at arm's length and under no compulsion to buy or sell. I would add that the foregoing understanding as I have expressed it in a general way includes what I conceive to be the essential element which is an open and unrestricted market in which the price is hammered out between willing and informed buyers and sellers on the anvil of supply and demand. These definitions are equally applicable to "fair market value" and "market value" and it is doubtful if the use of the word "fair" adds anything to the words "market value".
+[16] He then refers to the "most useful guide to the meaning of the words 'fair market value'" in the Dominion Succession Duty Act contained in the judgment of Mignault J. in Untermyer Estate v. Attorney General for British Columbia, [1929] S.C.R. 84, where he said at page 91:
+We were favoured by counsel with several suggested definitions of the words "fair market value". The dominant word here is evidently "value", in determining which the price that can be secured on the market -- if there be a market for the property (and there is a market for shares listed on the stock exchange) -- is the best guide.
+[17] The emphasis is of course on the market. If there is a market it is to that market that one must turn. The comparables used by the respondent’s expert to rationalize and bolster a fmv that is close to cost do not have the effect of supporting a realistic fmv of $500,000 in the market as it existed in Listowel at that time.
+[18] The appeal is allowed and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment to allow the appellant a GST rebate of $8,750. There will be no order for costs.
+Signed at Ottawa, Canada, this 2nd day of October 2006.
+“D.G.H. Bowman”
+Bowman, C.J.
+CITATION:
+2006TCC485
+COURT FILE NO:
+2006-78(GST)I
+STYLE OF CAUSE:
+Susan Martha Qureshi and
+Her Majesty The Queen
+PLACE OF HEARING:
+Kitchener, Ontario
+DATE OF HEARING:
+August 24, 2006
+REASONS FOR JUDGMENT BY:
+The Honourable D.G.H. Bowman, Chief Justice
+DATE OF JUDGMENT AND REASONS FOR JUDGMENT:
+September 7, 2006
+DATE OF AMENDED JUDGMENT October 2, 2006
+AND AMENDED REASONS FOR
+JUDGMENT:
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Amy Kendell
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

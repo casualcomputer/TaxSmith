@@ -1,0 +1,230 @@
+---
+title: "Deschenes c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26922/index.do"
+last_modified: "2004-04-13"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 CCI 234"
+citation2: ""
+neutral_citation: "2004 CCI 234"
+decision_date: "2004-04-13"
+language: "fr"
+item_id: "26922"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 728
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T20:36:10.404000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "5db4aea8594d3905963d14819dd9ac169c3ce6be614b3894760c7db3ba8e5b90"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Deschenes c. M.R.N.
+
+- Citation: 2004 CCI 234
+- Decision date: 2004-04-13
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 728, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Deschenes c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-04-13
+Référence neutre
+2004 CCI 234
+Numéro de dossier
+2003-1308(EI)
+Juges et Officiers taxateurs
+Sylvio J. Savoie
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2003-1308(EI)
+ENTRE :
+GILLES DESCHÊNES,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+____________________________________________________________________
+Appel entendu le 28 novembre 2003 à Québec (Québec)
+Devant : L'honorable S.J. Savoie, juge suppléant
+Comparutions :
+Avocat de l'appelant :
+Me Jérôme Carrier
+Avocate de l'intimé :
+Me Stéphanie Côté
+____________________________________________________________________
+JUGEMENT
+L'appel est rejeté et la décision rendue par le Ministre est confirmée selon les motifs du jugement ci-joint.
+Signé à Grand-Barachois (Nouveau-Brunswick), ce 13e jour d'avril 2004.
+« S.J. Savoie »
+Juge suppléant Savoie
+Référence : 2004CCI234
+Date : 20040413
+Dossier : 2003-1308(EI)
+ENTRE :
+GILLES DESCHÊNES,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+MOTIFS DU JUGEMENT
+Le juge suppléant Savoie
+[1] Cet appel a été entendu à Québec (Québec), le 28 novembre 2003.
+[2] Il s'agit de déterminer si l'appelant avait exercé un emploi assurable pour les périodes du 23 septembre 1997 au 4 septembre 1998, du 8 mai au 4 septembre 1999, du 13 septembre 1999 au 8 septembre 2000, du 1er mai au 10 mai 2001 et du 1er mai au 1er septembre 2002, lorsqu'au service de Claudette Lévesque exploitant le Café L'Essentiel enr., le « payeur » , au sens de la Loi sur l'assurance-emploi (la « Loi » ).
+[3] Le 7 janvier 2003, le ministre du Revenu national (le « Ministre » ) a informé l'appelant de sa décision selon laquelle cet emploi, pour les périodes en litige, n'était pas assurable parce qu'un contrat de travail semblable n'aurait pas été conclu s'il n'y avait pas eu de lien de dépendance entre lui et le payeur.
+[4] À l'audition, la procureure du Ministre a présenté à la Cour un avis de requête visant à obtenir la permission de déposer une réponse modifiée à l'avis d'appel, conformément au paragraphe 18.16(1) de la Loi sur la Cour canadienne de l'impôt et au paragraphe 27(4) des Règles de la Cour canadienne de l'impôt.
+[5] La requête du Ministre a été accordée par la Cour.
+[6] Le Ministre, par ailleurs, a informé l'appelant que cet emploi n'était pas assurable parce qu'il ne rencontrait pas les exigences d'un contrat de louage de services et qu'il n'existait pas de relation employeur-employé entre lui et le payeur.
+[7] En rendant sa décision, le Ministre s'est fondé sur les hypothèses de fait suivantes lesquelles ont été admises ou niées par l'appelant :
+a) le 17 août 1994, Claudette Lévesque a enregistré la raison sociale « Café L'Essentiel enr. » ; (admis)
+b) Claudette Lévesque est la seule propriétaire de la raison sociale; (admis)
+c) Claudette Lévesque est la conjointe de l'appelant; (admis)
+d) le payeur exploitait à Trois-Pistoles, un restaurant spécialisé en cuisine végétarienne qui pouvait accueillir jusqu'à 50 personnes réparties dans 2 salles; (admis)
+e) le payeur exploitait l'entreprise du 1er mai au 1er septembre de chaque année; (admis)
+f) les heures d'ouverture du restaurant étaient de 8 h 00 à 22 h 00, 7 jours par semaine; (à parfaire)
+g) depuis 1995, l'appelant était gérant-serveur; (à parfaire)
+h) selon l'appelant, ses tâches consistaient à la tenue des livres comptables du payeur, à préparer les chèques et à faire les dépôts, à placer les commandes, à préparer les horaires des employés et à s'occuper des réparations et de l'entretien de locaux du payeur; (à parfaire)
+i) l'appelant recevait une prétendue rémunération de 10 $ de l'heures en plus de ses pourboires; (à parfaire)
+j) le 7 octobre 2002, dans une déclaration assermentée à Développement ressources humaines Canada l'appelant déclarait « qu'en 2000, je n'ai pas reçu toutes mes payes parce que le fonds de roulement du commerce ne le permettait pas » ; (nié)
+k) en 2000, le payeur devait un montant de 1 489,17 $ à l'appelant comme prétendue rémunération non payée qui n'était toujours pas payée en novembre 2002; (nié)
+l) en 2001, le payeur émettait 3 prétendus chèques de salaire à l'appelant alors qu'il ne travaillait pas; (nié)
+m) l'appelant n'encaissait pas toujours ses chèques de paie au fur et à mesure de leur émission par le payeur; (nié)
+n) l'appelant n'était pas toujours rémunéré pour ses services; (nié)
+o) l'appelant rendait des services au payeur en dehors des périodes en litige, sans être inscrit au journal des salaires du payeur; (nié)
+p) ce faisant, il bénéficiait des pleines prestations d'assurance-emploi auxquelles il n'aurait normalement pas eu droit; (nié)
+q) le 7 octobre 2002, dans une déclaration assermentée à Développement ressources humaines Canada l'appelant déclarait : « En tant que gérant, je suis autonome, mais on prend les décisions ensemble. » ; (nié)
+r) le payeur ne supervisait pas le travail de l'appelant; (nié)
+s) l'appelant et le payeur prenaient les décisions ensemble concernant l'entreprise; (nié)
+t) l'appelant était le seul propriétaire de l'immeuble qui abritait le restaurant et 4 logements; (admis)
+u) l'appelant ne facturait pas de loyer au payeur pour les 8 mois de septembre à avril, alors que le restaurant n'était pas exploité activement; (nié)
+v) en 2001, le payeur n'a pas versé de loyer à l'appelant; (nié)
+w) en 2001, l'appelant a personnellement payé pour l'agrandissement de la cuisine du payeur; (nié)
+x) l'appelant utilisait sa marge de crédit personnelle pour financer le payeur; (nié)
+y) l'appelant contrôlait l'administration du restaurant et il s'assurait personnellement de la disponibilité des fonds nécessaires au roulement de l'entreprise; (nié)
+z) l'appelant avait un risque de perte financière dans l'entreprise du payeur; (nié)
+aa) l'appelant exploitait l'entreprise conjointement avec le payeur. (nié)
+[8] L'appelant demande à cette Cour de renverser la décision rendue par le Ministre à l'effet que l'emploi qu'il occupait auprès du payeur n'est pas assurable puisqu'il était lié à ce dernier par un lien de dépendance, mais aussi parce qu'il n'existait pas de contrat de louage de services.
+[9] Il convient donc d'examiner l'essentiel de la preuve orale entendue et la preuve documentaire produite à l'audition pour déterminer d'abord comment l'intimé est arrivé à sa décision relativement au lien de dépendance.
+[10] Le texte pertinent de la Loi qui doit servir de guide au Ministre ainsi qu'à la Cour pour déterminer l'assurabilité est reproduit ci-dessous comme suit :
+5.(2) N'est pas un emploi assurable :
+[...]
+i) l'emploi dans le cadre duquel l'employeur et l'employé ont entre eux un lien de dépendance.
+[...]
+(3) Pour l'application de l'alinéa (2)i) :
+a) la question de savoir si des personnes ont entre elles un lien de dépendance est déterminée conformément à la Loi de l'impôt sur le revenu;
+b) l'employeur et l'employé, lorsqu'ils sont des personnes liées au sens de cette loi, sont réputés ne pas avoir de lien de dépendance si le ministre du Revenu national est convaincu qu'il est raisonnable de conclure, compte tenu de toutes les circonstances, notamment la rétribution versée, les modalités d'emploi ainsi que la durée, la nature et l'importance du travail accompli, qu'ils auraient conclu entre eux un contrat de travail à peu près semblable s'ils n'avaient pas eu de lien de dépendance.
+[11] Il convient donc d'examiner les circonstances entourant l'emploi de l'appelant sous les critères établis à l'alinéa 5(3)b) de la Loi, c'est-à-dire, la rétribution versée, les modalités d'emploi ainsi que la durée, la nature et l'importance du travail accompli.
+Rétribution versée
+[12] De 1998 à 2001, l'appelant a été rémunéré 10 $ l'heure en plus de ses pourboires. En 2000, à partir du 28 mai, il a encaissé ses chèques de paye un mois et plus après leur émission. Du 13 août 2000 au 10 septembre 2000, cinq chèques de paye totalisant 1 506,20 $ net n'ont pas été transigés au compte bancaire du payeur et l'appelant confirme que le payeur lui doit toujours la somme de 1 489,17 $.
+[13] En 2001, l'appelant a travaillé du 1er mai au 10 mai. Au cours de cette période, deux chèques de paye sont émis pour chacune des semaines, un chèque pour du travail d'aménagement et un chèque pour le travail de serveur le soir. Selon le livre des salaires l'appelant ajoute à son salaire des pourboires pour son travail de jour, alors qu'il fait des réparations au restaurant, ainsi que pour celui du soir. En outre, au cours de la deuxième semaine de mai 2001, l'appelant s'est rendu à Ottawa et s'est donc absenté de la région durant deux à trois jours. Cependant, au livre des salaires, l'appelant s'est ajouté des pourboires à son salaire de jour comme de soir.
+[14] Suite à son accident de travail du 11 mai 2001, trois chèques de salaire ont été émis à l'appelant et selon le livre des salaires, 100 $ de pourboires ont été ajoutés à sa rémunération hebdomadaire de 400 $, alors qu'il ne travaillait pas. Ces trois chèques, émis en mai 2001, ont été encaissés par l'appelant à partir du 23 juillet 2001, alors que ses prestations de la Commission de la santé et de la sécurité du travail (CSST) totalisant 1 965,59 $ sont déposées au compte bancaire du payeur le 25 juillet 2001. Ce montant incluait également d'autres sommes que le restaurant lui avait avancées mais qu'il n'avait pas inscrites au livre des salaires du payeur.
+[15] En 2002, les chèques de paye de l'appelant sont encaissés régulièrement et déposés à la marge de crédit # 18956, que le couple utilise pour payer l'hypothèque sur leur résidence acquise en juillet 2002. Cependant, le chèque de paye pour la période du 11 août 2002 de 256,88 $ n'avait toujours pas été encaissé au 9 octobre 2002.
+[16] En outre, le redressement de paye de vacances exigé par la Commission des normes du travail en 2002 a été versé aux employés au début de mai 2002. Le chèque de 460,09 $ a été émis le 17 mai 2002, mais l'appelant ne l'a encaissé que le 12 novembre 2002.
+[17] Ces circonstances ont fait dire au Ministre que :
+1. Un travailleur non-lié encaisserait ses chèques de salaire au fur et à mesure qu'ils sont émis par son employeur;
+2. Un travailleur non-lié n'accepterait pas de ne pas êtrerémunéré durant cinq semaines sans en informer la Commission des normes du travail; et
+3. Un employeur non-lié ne verserait pas à son employé les pourboires versés par les clients pour du travail d'aménagement de ses locaux, ni pour du temps de voyage.
+Modalités d'emploi
+[18] De 1995 à 1999, l'appelant travaillait comme gérant-serveur et aide-cuisinier alors que depuis 2000, il travaille uniquement en qualité de gérant-serveur.
+[19] En tant que gérant, l'appelant s'occupait de toute la tenue de livres du restaurant, soit le grand livre (registre des revenus et dépenses informatisé depuis 2001), le livre des salaires (portant sur les trois employés en cuisine et trois serveurs incluant lui-même) les remises gouvernementales mensuelles de DAS, TPS et TVQ, il préparait les chèques pour payer les factures, faisait les dépôts du restaurant, placait les commandes et s'occupait des horaires des deux autres serveurs. Il s'occupait également de l'administration et de la conciliation du compte bancaire du restaurant # 17400 et des diverses marges de crédit, qu'il détenait conjointement avec sa conjointe, Claudette Lévesque.
+[20] Ces marges de crédit ont été utilisées pour financer le début des opérations du restaurant, à chaque année, ainsi que pour renflouer le manque de liquidité du restaurant, à savoir la marge de crédit # 18956, utilisée de 1998 à 2002 et # 370704 marge de crédit d'Orsainville, utilisée en 2002 pour avancer les fonds nécessaires pour débuter les opérations du restaurant.
+[21] Depuis l'ouverture du restaurant, les deux conjoints ont toujours procédé ainsi, ils utilisaient leurs marges de crédit conjointes personnelles pour avancer des fonds au restaurant. C'est l'appelant qui effectuait les différentes démarches afin de faire avancer les fonds de leurs marges de crédit personnelles au compte bancaire du restaurant et lorsque le restaurant avait assez de liquidité il remboursait les différentes marges de crédit.
+[22] En 2002, et, à ce jour, la marge de crédit # 370704 n'a pas été entièrement remboursée par le restaurant, et à ce jour, puisque la Commission des normes du travail a obligé le payeur à rectifier les vacances payées aux employés, soit 6 % au lieu de 4 %. Le payeur doit donc à cette marge 2 500 $ selon les livrets bancaires.
+[23] Comme serveur, de 1998 à 2000, l'horaire de l'appelant était de 16 h à minuit, cinq soirs par semaine totalisant les 40 heures reportées au livre des salaires; en 2002 son horaire était de 20 h à minuit, quatre soirs par semaine totalisant les 16 heures au livre des salaires, et ses trois dernières semaines de 17 h à minuit et deux heures sur l'heure du dîner totalisant les 30 heures au livre des salaires.
+[24] Le restaurant fermait ses portes à 23 h et l'appelant faisait le ménage après la fermeture, balançait la caisse et préparait les dépôts. Il effectuait la comptabilité du restaurant et la gestion des différents comptes bancaires à sa résidence. Ces tâches nécessitaient un minimum de cinq heures par semaine et n'étaient pas reflétées au livre des salaires du payeur. L'appelant justifiait ce fait pas le cumul d'heures. Si, par exemple, le travail de comptabilité lui demandait plus de temps, il pouvait, accumuler dix heures et le reprendre en temps non travaillé au restaurant.
+[25] En 2001, l'appelant a subi un accident de travail le 11 mai et il n'a pas repris le travail après cet accident. Claudette Lévesque se serait occupée de toute la comptabilité du restaurant et de la gestion des différents comptes bancaires et marges de crédit, tâches qui lui ont été enseignées par l'appelant en 2001. Comme la comptabilité du payeur est informatisée depuis 2001, le démarrage informatique s'est fait, soit avant le début d'emploi de l'appelant, soit après son accident de travail, impliquant des heures de travail de l'appelant, non reportées au livre des salaires du payeur. Du 1er au 10 mai 2001, l'appelant a fait des réparations au restaurant comme décaper les planchers, refait l'intérieur des réfrigérateurs, les grillages, peinturer, etc. Il effectuait ces travaux le jour et le soir il était à son poste de serveur. De plus, au cours de la deuxième semaine de mai 2001, il s'est rendu chez sa soeur à Ottawa, voyage de deux à trois jours, puisque cette dernière avait des choses à lui donner pour le restaurant. Il a calculé son temps de voyage, l'aller et le retour, de même que son temps à Ottawa comme du temps travaillé.
+[26] Cependant, au cours de ces deux semaines, l'appelant se payait deux salaires au restaurant, un pour du travail de réparation au restaurant le jour totalisant 40 heures de travail, et le soir comme serveur totalisant 40 heures de travail. Or, il s'est absenté de deux à trois jours à Ottawa. Il ne pouvait donc pas travailler comme serveur le soir.
+[27] Il est important de signaler que depuis 1996, l'appelant est le propriétaire de l'immeuble logeant le restaurant. Le restaurant y occupe le rez-de-chaussée ainsi qu'une place de rangement au sous-sol, deux logements occupent le deuxième étage et deux autres logements occupent une partie du sous-sol. Les locataires des logements paient un loyer mensuel, à l'année, selon la dimension du logement. Depuis 1996, l'appelant ne perçoit aucun loyer mensuel du payeur sauf durant les mois où le restaurant est en opération, soit les mois de mai, juin, juillet et août.
+[28] Devant ces observations, on peut se demander si :
+1. Un travailleur non-lié aurait utilisé sa marge de crédit personnelle pour financer le début des opérations de son employeur et serait rémunéré, en tout temps, selon son temps et ses efforts;
+2. Un propriétaire non-lié percevrait un loyer mensuel à l'année pour l'espace qu'occupe le restaurant, à l'année, dans son immeuble.
+Durée de l'emploi
+[29] L'appelant a révélé qu'il ne travaillait pas avant l'ouverture du restaurant ni après sa fermeture. En 1998 et en 2001, des travaux d'agrandissement ont été effectués au restaurant, avant son ouverture annuelle. Même si l'appelant affirme qu'il n'apportait son aide qu'en allant commander les matériaux, ce temps n'a pas été inscrit au livre des salaires.
+[30] En outre, les écritures au grand livre en 2000, les transactions au compte bancaire du restaurant et aux marges de crédit du couple, démontrent des activités en mars et avril, avant l'ouverture du restaurant en mai, ainsi qu'en septembre et octobre, après la fermeture du restaurant, impliquant des services non rémunérés rendus par l'appelant.
+Nature et importance du travail
+[31] L'appelant a affirmé qu'il n'a pas été supervisé par Claudette Lévesque, comme gérant du restaurant, et ce fait a été confirmé par le reste de la preuve. L'appelant affirme qu'il est autonome mais que lui et sa conjointe prennent les décisions ensemble. Claudette Lévesque, la propriétaire du restaurant, ne sait pas pourquoi elle ne possède pas de marge de crédit exclusivement pour le restaurant. En outre, elle ne peut expliquer non plus pourquoi elle n'a pas associé son conjoint au commerce, de façon officielle, compte tenu de son implication personnelle et financière.
+[32] Ceci porte à conclure que :
+1. Un travailleur non-lié n'aurait pas eu toute la latitude laissée à l'appelant pour la gestion du compte bancaire utilisé par le restaurant; et
+2. Quand on considère l'implication personnelle et financière de l'appelant dans l'entreprise, nous sommes portés à conclure qu'il s'agit d'un commerce exploité en partenariat plutôt que par un employeur et son employé.
+[33] Les circonstances entourant l'emploi de l'appelant, analysées sous ces différents critères, portent à la conclusion inévitable qu'un contrat de travail à peu près semblable n'aurait pas été conclu entre lui et son employeur si ceux-ci n'avaient pas eu entre eux un lien de dépendance. Le Ministre s'est également penché sur l'analyse des circonstances de l'emploi de l'appelant sous l'alinéa 5(1)a) de la Loi. Dans son analyse, il s'est appliqué à étudier l'emploi de l'appelant sous les critères établis dans l'arrêt Wiebe Door Services Ltd. c. M.R.N., [1986] 3 C.F. 553, dans le but de déterminer s'il existait entre le payeur et l'appelant un contrat de louage de services. Les critères sont les suivants :
+1. Le degré de contrôle exercé par le payeur sur le travail du travailleur;
+2. La propriété des outils;
+3. Les chances de profit ou les risques de perte; et
+4. L'intégration du travail de l'employé dans l'entreprise du payeur.
+Contrôle
+[34] L'appelant contrôle l'administration du restaurant et s'assure de la disponibilité des fonds nécessaires à son roulement et il participe aux prises de décisions. Donc, de ce fait, le payeur ne pourrait pas, à toutes fins pratiques, procéder à son congédiement sans mettre en péril la survie même de son entreprise.
+[35] Il a été établi que les tâches de comptabilité de gestion des différents comptes bancaires utilisés pour le restaurant étaient effectuées à la résidence de l'appelant par lui et n'étaient pas reflétées au livre des salaires du payeur. Il accumulait ainsi du temps qu'il reprenait en temps non travaillé au restaurant. Dans les faits, le temps et les efforts de l'appelant n'étaient pas contrôlés par le payeur. Le lien de subordination est entravé et le pouvoir de contrôle du payeur est inexistant.
+Propriété des outils
+[36] Les outils et les équipements utilisés par l'appelant dans son travail étaient fournis par le payeur. Cependant, il faut noter que l'appelant fournissait la place d'affaire, l'immeuble où était situé l'entreprise du payeur et acceptait qu'aucun loyer ne lui soit versé, par le payeur, durant les huit mois pendant lesquels le restaurant était fermé.
+Chances de profit ou risques de perte
+[37] En 1996, l'appelant a acheté l'édifice à logements, qui abritait déjà le restaurant, pour une somme de 100 000 $. Il est l'unique propriétaire de l'édifice. Pour réaliser son achat, l'appelant a emprunté 25 000 $ de son frère et il a contracté, personnellement, un emprunt hypothécaire commercial de 75 000 $, qu'il rembourse par versements mensuels de 776,59 $.
+[38] Gilles Deschênes et Claudette Lévesque étaient propriétaires, depuis 14 ans, d'un autre immeuble locatif, situé à Orsainville. À la vente de cet immeuble, en juillet 2002, un montant de 18 353 $ a été remboursé au frère de l'appelant par les sommes qui avaient été déposées, lors de la vente, au compte conjoint du couple # 18956. Dans l'édifice situé au 332, rue Jean Rioux à Trois-Pistoles, le restaurant occupe le premier plancher ainsi qu'une place de rangement au sous-sol et quatre logements occupent le deuxième plancher et une partie du sous-sol. Les locataires des quatre logements paient un loyer mensuel à l'année selon la grandeur du logement totalisant des revenus mensuels de 1 200 $, soit 14 400 $ annuellement. Depuis 1996, Gilles Deschênes perçoit un loyer mensuel du restaurant seulement durant ses mois d'opération, soit de mai à août.
+[39] En 1998 et 1999 l'appelant demandait au restaurant un loyer de 400 $ pour chacun des quatre mois d'opération, en 2000, 575 $ par mois d'opération, en 2001, 775 $ (ce montant n'a pas été retrouvé au compte bancaire du restaurant) par mois d'opération et en 2002, 805 $ par mois d'opération. Le loyer du restaurant a augmenté en 2001 puisque la cuisine du restaurant a été agrandie pour une valeur de 4 000 $ et c'est l'appelant, à titre de propriétaire de l'immeuble qui a payé ces rénovations.
+[40] Selon l'appelant, même si le loyer n'est perçu du restaurant que durant quatre mois, cela équivaut à un loyer annuel puisqu'il ne pourrait pas louer le local occupé par le restaurant à un autre commerce. Ainsi en 2000, si le loyer perçu du restaurant totalise 2 200 $, cela équivaut à un loyer mensuel de 185 $. Si l'on compare le loyer demandé au restaurant à celui qu'il perçoit des autres locataires, on ne peut que conclure que l'appelant subissait une perte de loyer d'au moins 4 000 $ par année à laquelle s'ajoutent les dépenses qu'il assume à l'année, par l'occupation du premier plancher par le restaurant.
+[41] Ainsi, en tant que propriétaire de l'immeuble logeant Café L'Essentiel enr., Gilles Deschênes assumait les dépenses de taxes municipales, d'entretien et de réparations, d'eau chaude pour l'édifice en entier incluant le restaurant, de chauffage des deux logements au sous-sol qui contribuent à chauffer le restaurant lorsque ce dernier n'est pas en opération, ainsi que l'électricité du premier plancher lorsque le restaurant n'est pas en opération.
+[42] Outre le risque de perte attribuable à son statut de propriétaire et les salaires non versés en 2000 totalisant 1 506,20 $, l'utilisation des marges de crédit conjointes détenues par le couple pour financer le début des opérations du restaurant démontre un autre risque important de perte encourue par l'appelant.
+[43] Ainsi, du 29 février 2000 au 9 juin 2002, un montant de 2 777,55 $ est viré de la marge de crédit du couple # 18956 au compte bancaire du restaurant # 17400 et les avances au restaurant sont remboursées entre le 8 mai 2000 au 28 août 2000 totalisant 2 900 $.
+[44] Du 12 mars 2001 au 23 avril 2001, un montant de 1 350 $ est viré de la marge de crédit du couple # 18956 au compte bancaire du restaurant # 17400 et les avances au restaurant sont remboursées entre le 26 juin 2001 au 13 août 2001, totalisant 1 900 $, soit 550 $ de plus que les sommes avancées par la marge de crédit.
+[45] Du 22 avril 2002 au 9 mai 2002, un montant de 4 000 $ est viré de la marge de crédit du couple # 370704 au compte bancaire du restaurant # 17400 et des avances au restaurant sont remboursées entre le 15 juillet 2002 au 26 août 2002, totalisant 1 500 $, soit 2 500 $ de moins que les sommes avancées par la marge de crédit, et que le payeur n'a pas encore remboursées.
+[46] Il est donc établi que l'appelant supportait une partie du risque lié à l'exploitation du Café L'Essentiel enr.
+Intégration
+[47] L'analyse de l'emploi de l'appelant dans toutes ces circonstances et sa relation avec le payeur portent à la conclusion que l'entreprise est plutôt un partenariat qu'une situation où interviennent un employeur avec son employé, c'est-à-dire une relation employeur-employé où le travail de l'employé est intégré à l'entreprise du payeur, ce qui n'est pas le cas dans l'affaire sous étude.
+[48] Après son analyse, le Ministre a conclu que les parties, c'est-à-dire le payeur et l'appelant n'étaient pas liés par un contrat de louage de services, et que l'emploi du travailleur n'était pas assurable. De l'avis de cette Cour, c'est à bon droit que le Ministre en a conclu ainsi.
+[49] Cette Cour est d'avis que la détermination du Ministre, après son analyse de l'emploi de l'appelant selon les alinéas 5(1)a) et 5(3)b) de la Loi a été faite dans la légalité et selon les principes statués dans les arrêts prononcés par la Cour d'appel fédérale, c'est-à-dire, Canada (Procureur général) c. Jencan Ltd. (C.A.), [1998] 1 C.F. 187, et Légaré c. Canada (ministre du Revenu national - M.R.N.), [1999] A.C.F. no 878.
+[50] Cette Cour conclut que l'emploi exercé par l'appelant n'était pas assurable, pendant les périodes en litige, puisqu'il existait un lien de dépendance entre l'appelant et le payeur conformément aux dispositions de l'alinéa 5(2)i) de la Loi et des articles 251 et 252 de la Loi de l'impôt sur le revenu. En outre, cette Cour doit conclure que l'appelant n'occupait pas un emploi assurable pendant les périodes en litige, puisque, pendant ces périodes, cet emploi ne rencontrait pas les exigences d'un véritable contrat de louage de services.
+[51] En conséquence, l'appel est rejeté et la décision rendue par le Ministre est confirmée.
+Signé à Grand-Barachois (Nouveau-Brunswick), ce 13e jour d'avril 2004.
+« S.J. Savoie »
+Juge suppléant Savoie
+RÉFÉRENCE :
+2004CCI234
+No DU DOSSIER DE LA COUR :
+2003-1308(EI)
+INTITULÉ DE LA CAUSE :
+Gilles Deschênes et M.R.N.
+LIEU DE L'AUDIENCE :
+Québec (Québec)
+DATE DE L'AUDIENCE :
+Le 28 novembre 2003
+MOTIFS DE JUGEMENT PAR :
+L'honorable S.J. Savoie, juge suppléant
+DATE DU JUGEMENT :
+Le 13 avril 2004
+COMPARUTIONS :
+Pour l'appelant :
+Me Jérôme Carrier
+Pour l'intimé :
+Me Stéphanie Côté
+AVOCAT(E) INSCRIT(E) AU DOSSIER:
+Pour l'appelant :
+Nom :
+Me Jérôme Carrier
+Étude :
+Rochon, Belzile, Carrier, Auger
+Québec (Québec)
+Pour l'intimé :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

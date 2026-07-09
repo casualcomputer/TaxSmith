@@ -1,0 +1,194 @@
+Title: Dumont c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30483/index.do
+Corpus path: corpus/cases/tcc/2011/2011-cci-385-30483-dumont-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2011-08-26
+
+# Dumont c. M.R.N.
+
+- Citation: 2011 CCI 385
+- Decision date: 2011-08-26
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7282, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Dumont c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2011-08-26
+Référence neutre
+2011 CCI 385
+Numéro de dossier
+2007-3141(EI)
+Juges et Officiers taxateurs
+Réal Favreau
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2007-3141(EI)
+ENTRE :
+MICHAËL DUMONT,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+____________________________________________________________________
+Appel entendu sur preuve commune avec l’appel de Monica Turcotte (2007‑3041 (EI)), le 14 décembre 2010, à Rimouski (Québec).
+Devant : L’honorable juge Réal Favreau
+Comparutions :
+Avocate de l’appelant :
+Me Nancy Lajoie
+Avocate de l’intimé :
+Me Geneviève Lecours
+____________________________________________________________________
+JUGEMENT MODIFIÉ
+L’appel de la décision du ministre du Revenu national en vertu de la Loi sur l’assurance emploi concernant l’assurabilité de l’emploi de l’appelant auprès de madame Monica Turcotte, opérant un commerce sous la raison sociale de « Bar Le Villageois 2004 Enr. », pour la période du 29 août au 9 septembre 2005, est rejeté et la décision du ministre est confirmée selon les motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 6e jour de septembre 2011.
+« Réal Favreau »
+Juge Favreau
+Dossier : 2007-3041(EI)
+ENTRE :
+MONICA TURCOTTE,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+____________________________________________________________________
+Appel entendu sur preuve commune avec l’appel de Michaël Dumont (2007‑3141 (EI)), le 14 décembre 2010, à Rimouski (Québec).
+Devant : L’honorable juge Réal Favreau
+Comparutions :
+Avocate de l’appelante :
+Me Nancy Lajoie
+Avocate de l’intimé :
+Me Geneviève Lecours
+____________________________________________________________________
+JUGEMENT MODIFIÉ
+L’appel de la décision du ministre du Revenu national en vertu de la Loi sur l’assurance‑emploi concernant l’assurabilité de l’emploi de monsieur Michaël Dumont auprès de l’appelante, opérant un commerce sous la raison sociale de « Bar Le Villageois 2004 Enr. », pour la période du 29 août au 9 septembre 2005, est rejeté et la décision du ministre est confirmée selon les motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 6e jour de septembre2011.
+« Réal Favreau »
+Juge Favreau
+Référence : 2011 CCI 385
+Date : 20110826
+Dossiers : 2007-3141(EI)
+2007-3041(EI)
+ENTRE :
+MICHAËL DUMONT,
+MONICA TURCOTTE,
+appelants,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+MOTIFS DU JUGEMENT
+Le juge Favreau
+[1] Il s’agit d’appels entendus sur preuve commune à l’encontre d’une décision du ministre du Revenu national (le « ministre ») en vertu de la Loi sur l’assurance‑emploi, L.C. 1996, ch. 23, telle que modifiée (la « Loi ») concernant l’assurabilité de l'emploi de monsieur Michaël Dumont (le « travailleur ») auprès de madame Monica Turcotte, opérant un commerce sous la raison sociale de « Bar Le Villageois 2004 Enr. » (la « payeuse ») pour la période du 29 août au 9 septembre 2005, (la « période »).
+[2] Le travailleur et la payeuse sont des personnes liées au sens de la Loi de l’impôt sur le revenu, L.R.C. (1985) ch. 1 (5e suppl.), telle que modifiée (la « LIR ») du fait qu’au cours de la période, le travailleur était le conjoint de fait de madame Monica Turcotte. Comme des personnes liées sont, en vertu de l’alinéa 251(1)a) de la LIR, réputées avoir entre elles un lien de dépendance, le travailleur a un lien de dépendance avec madame Monica Turcotte en tant que conjointe de fait et en tant que seule propriétaire du commerce qu’elle exploite sous la raison sociale de « Bar Le Villageois 2004 Enr. ».
+[3] Par une lettre datée du 21 mars 2007, le ministre a informé le travailleur que son emploi auprès de la payeuse pour la période n’était pas assurable parce que le ministre était convaincu qu’il n’était pas raisonnable de conclure que le travailleur et la payeuse auraient conclu entre eux un contrat de travail à peu près semblable s’ils n’avaient pas eu de lien de dépendance. En rendant sa décision, le ministre s’est appuyé sur l’alinéa 5(2)i) et le paragraphe 5(3) de la Loi en tenant compte des faits et des hypothèses suivants énoncés au paragraphe 6 de la Réponse à l’avis d’appel déposée à l’égard de l’appel de monsieur Michaël Dumont :
+a) la payeuse est propriétaire d’un commerce qu’elle a immatriculé le 27 août 2004; (admis)
+b) la payeuse a acquis le commerce du syndic suite à la faillite de l’ancien propriétaire du bar; (admis)
+c) l’entreprise de la payeuse est un bar offrant le service de boissons et de bronzage (une table de bronzage); (admis)
+d) le commerce est localisé dans une bâtisse de 2 étages : le bar est situé au rez‑de‑chaussée alors qu’à l’étage il y a 4 chambres dont une dans laquelle on a installé la table de bronzage; (admis, sauf qu’il y avait 5 chambres à l’étage)
+e) depuis le début de l’exploitation du commerce, la payeuse ne louait aucune des chambres; (admis, jusqu’aux rénovations en août 2005)
+f) la payeuse a contracté un emprunt de 62 000 $ pour l’acquisition du commerce qui a été endossé par M. Gilles Dumont, père de l’appelant; (admis)
+g) en 2004, il y a eu jusqu’à 7 employés inscrits au registre des salaires de la payeuse; (ignoré)
+h) sauf durant la période en litige (12 jours), le travailleur n’était pas inscrit au registre des salaires de la payeuse; (admis)
+i) le travailleur rendait des services à un autre employeur et, suite à la perte de son emploi, il s’est retrouvé avec un manque d’heures de travail pour lui permettre de se qualifier à recevoir des prestations de chômage; (nié tel que rédigé)
+j) la payeuse prétend avoir embauché l’appelant et lui avoir confié des tâches pour lui permettre d’accumuler les heures assurables manquantes; (nié)
+k) selon la version de la payeuse, l’appelant aurait effectué les travaux suivants :
+- installé un comptoir dans la cuisine,
+- fait de l’entretien et de la peinture au 2ième étage dans les chambres, salle de bain et salon de bronzage,
+- arraché un tapis, monté des caisses de bière de la cave, classé des vieilles affaires, remisé dans le garage et fait des commissions;
+(admis, avec en plus le nettoyage d’un poêle commercial)
+l) l’appelant a précisé qu’il avait fait plusieurs tâches et précisé qu’il avait consacré une vingtaine d’heures (sur un total de 80) pour nettoyer une cuisinière au propane alors que la payeuse n’en a jamais parlé); (admis)
+m) la payeuse n’offrait pas de repas au bar et ne louait pas ses chambres du 2ième étage; (nié)
+n) la payeuse a mentionné que le travailleur faisait environ 40 heures par semaine alors que ce dernier a mentionné qu’il avait fait environ 60 heures par semaine durant les 2 semaines de la période en litige; (admis)
+o) tous les employés de la payeuse devaient enregistrer leurs heures de travail alors que l’appelant ne l’a pas fait; (admis parce que le travailleur n’était pas payé à l’heure)
+p) durant l’année 2005, la payeuse se versait un salaire (prélèvement) de 450 $ par semaine sauf durant les 2 semaines prétendument travaillées par l’appelant; (ignoré)
+q) la payeuse a émit 2 chèques de paie au nom de l’appelant au montant de 469,25 $ et de 489,44 $ qui ont été annulés et corrigés à 19,25 $ et 39,44 $, soit après avoir déduit 450 $ par semaine des chèques initiaux; (admis)
+r) la payeuse a prétendu avoir déduit 450 $ par semaine des chèques initiaux fait [sic] au nom de l’appelant car elle lui aurait fait des avances de 450 $, à 2 reprises sans qu’aucune preuve n’existe à cet effet; (admis)
+s) la payeuse a mentionné qu’elle n’avait retiré aucun salaire durant ces 2 semaines car elle n’avait pas les moyens de verser 2 salaires de 450 $ durant les 2 semaines de la période en litige; (ignoré)
+t) l’appelante a mentionné qu’il n’avait aucune implication dans l’entreprise de la payeuse alors qu’il a cautionné un contrat de crédit‑bail pour l’achat du lit de bronzage et qu’en 2004 et 2005, il a signé la majorité des factures des fournisseurs de la payeuse; (nié tel que rédigé, pas la majorité ex. bière, alcool à la S.A.Q.)
+u) l’appelant prétend n’avoir rendu aucun service sans rémunération à la payeuse avant ou après la période en litige alors que plusieurs documents qu’il a signés au nom de la payeuse prouvent le contraire; (nié)
+v) de plus, au moins 2 chèques ont été émis au nom de l’appelant à titre de « commissions » soit le 23 septembre 2004 pour 246,27 $ et le 21 février 2005 pour 100 $ alors que ces montants n’ont pas été inscrits au registre des salaires; (nié tel que rédigé)
+w) les modalités de l’emploi de l’appelant ne correspondent pas au véritable besoin de main d’œuvre de la payeuse mais plutôt au besoin de l’appelant à se qualifier pour recevoir des prestations de chômage; (nié)
+x) les tâches effectuées par l’appelant n’étaient pas essentielles aux opérations de l’appelante; il s’agissait de tâches accessoires que la payeuse n’aurait pas confiées à un travailleur sans lien de dépendance. (nié)
+[4] L’alinéa 6 i) de la Réponse à l’avis d’appel a été nié tel que rédigé parce que des services à un autre employeur ont été rendus par le travailleur dans le cadre de sa recherche d’un nouvel emploi.
+[5] L’alinéa 6 j) a été nié parce que la payeuse n’avait pas l’argent nécessaire pour faire effectuer les rénovations des pièces à l’étage afin de louer les chambres et la salle de conférence.
+[6] L’alinéa 6 m) a été nié parce que la payeuse offrait de la restauration rapide.
+[7] L’alinéa 6 t) a été admis pour la caution du contrat de crédit‑bail pour l’achat du lit de bronzage mais nié, parce qu’en 2004 et 2005, le travailleur n’a pas signé la majorité des factures des fournisseurs de la payeuse. Il l’a fait pour les achats de bière et les achats d’alcool à la S.A.Q.
+[8] L’alinéa 6 u) a été nié sans explications.
+[9] L’alinéa 6 v) a été nié tel que rédigé parce que ces chèques ont été remis au travailleur à titre de remboursement de dépenses; le chèque au montant de 246,27 $ était pour l’achat d’alcool à la S.A.Q. alors que celui de 100 $ était pour l’achat d’une table de poker.
+[10] L’alinéa 6 w) a été nié parce que le travailleur cherchait véritablement un autre emploi.
+[11] L’alinéa 6 x) a été nié parce que les tâches effectuées par le travailleur avaient pour but de permettre la location des chambres, des douches et du lit de bronzage.
+[12] Monsieur Michaël Dumont a témoigné à l’audience. Il a été déclaré invalide à 100 % suite à un accident de motocyclette survenu le 17 juin 2010 à Gatineau. Lors de l’audience, il n’était plus le conjoint de fait de Monica Turcotte et il a confirmé avoir vendu sa part de la résidence familiale à Monica Turcotte à l’été 2007. D’après son témoignage, Monica Turcotte a acquis le bar en septembre 2004 sans son intervention tant au niveau de l’acquisition qu’au niveau du financement. Selon lui, il n’était pas directement impliqué dans l’exploitation du bar, mais il lui arrivait de rendre des services comme effectuer les dépôts à la banque, surveiller la caisse pendant que Monica Turcotte devait s’absenter et effectuer des achats de bière auprès de fournisseurs, des achats d’alcool à la S.A.Q et des achats d’articles à la quincaillerie. Il a également reconnu avoir signé des accusés réception de fournitures au bar. Il n’était pas rémunéré pour ces services.
+[13] Le travailleur a confirmé qu’après avoir prématurément perdu son emploi chez Aqua Biochem à la fin du mois d’août 2005, il a travaillé deux semaines pour la payeuse à effectuer des travaux d’entretien. Sa rémunération était calculée sur une base forfaitaire de 40 heures par semaine à un taux de 16 $ l’heure. Selon le T‑4 émis au travailleur par le Bar Le Villageois 2004 Enr. pour l’année 2005, ce dernier aurait gagné la somme de 1 312,46 $ pour 80 heures travaillées.
+[14] Monsieur Gilles Dumont, le père de Michaël Dumont, a également témoigné à l’audience. Il a dit connaître Monica Turcotte depuis les années 1998-1999 alors qu’elle travaillait avec sa fille dans un bar à Trois-Pistoles. Elle était l’amie de sa fille et il a reconnu avoir endossé l’emprunt hypothécaire contracté par Monica Turcotte auprès de la Caisse Populaire Desjardins lorsqu’elle a fait l’acquisition du bar. À l’audience, il s’est présenté comme étant un entrepreneur général qui était propriétaire d’un hôtel Days Inn à Ste‑Hélène de Bagotville. Il a confirmé savoir que son fils, Michaël, a travaillé pour Monica Turcotte à l’été 2005 pendant quelques semaines. Il a dit qu’il avait offert à son fils de venir travailler avec lui pendant 2 à 3 semaines pour repeindre des chambres et changer des tapis mais que ce dernier avait préféré travailler pour Monica Turcotte et de demeurer avec elle à l’Isle Verte. Il a de plus confirmé que son épouse, madame Line Boucher, s’occupait de classer les papiers du bar et de préparer les rapports mensuels et les projets d’états financiers. Les déclarations de revenu et les états financiers du bar étaient par contre préparés par un comptable agréé. Finalement, Monsieur Gilles Dumont a expliqué qu’il a fourni à la payeuse des rouleaux de tapis usagés provenant de l’hôtel et que c’était la raison pour laquelle cette dernière n’était pas en mesure de produire des factures d’achat de tapis.
+[15] Monica Turcotte n’était pas présente à l’audience et personne ne l’a assignée à témoigner. Par contre, comme elle était également représentée par l'avocate de l'appelant, il a été convenu que la preuve obtenue dans le dossier de l'appelant soit versée dans son propre dossier. Ses déclarations statutaires datées du 4 et 7 juillet 2006 ont été déposées comme pièces I‑1 et I‑2. Dans ces déclarations, la payeuse a confirmé qu’elle ne servait pas de repas au bar et qu’elle avait embauché le travailleur pour le dépanner. Sur ce dernier point, voici comment elle s’est exprimée :
+« Je peux vous dire que suite à la cessation de son emploi, Michaël a fait des efforts pour se trouver du travail sans succès et que nous n’avions pas les moyens de vivre avec mon seul revenu, donc j’ai fait rentrer Michaël pour lui permettre d’avoir suffisamment d’heures assurables pour s’assurer d’un revenu d’assurance-emploi . . . »
+Elle a qualifié le travail du travailleur comme étant des travaux d’entretien sur une base occasionnelle. Dans sa description des travaux exécutés par le travailleur, elle n’a pas fait mention au dégraissage de la cuisinière. Elle a reconnu que, pendant les deux semaines de travail du travailleur, elle ne s’est pas prise de salaire car elle ne pouvait verser deux salaires de 450 $ par semaine. Lorsque confrontée aux changements de numéros sur les talons de chèque et aux deux déductions de 450 $ par semaine sur les paies du travailleur, elle ne se rappelait plus des modalités de l’entente prise avec le travailleur au sujet de son salaire. Après avoir consulté sa comptable, madame Line Boucher, elle a expliqué que les montants déduits des paies du travailleur étaient des avances qui lui avaient été versées. Enfin, elle a estimé à 5 % le temps consacré par Michaël à effectuer des commissions pour le commerce.
+[16] Monsieur Paul Dessureault, un agent d’enquête aux ressources humaines de Services Canada, a témoigné à l’audience. Son implication dans le dossier du travailleur a résulté du fait que ce dernier ne s’est pas présenté à une entrevue avec un agent alors qu’il était sous prestations. Il a raconté comment s’était déroulée sa première rencontre avec le travailleur, le 4 avril 2006. Il a pris la version des faits du travailleur avant d’avoir débuté son enquête. La déclaration du travailleur du 4 avril 2006 a été produite comme pièce I‑12. Le travailleur a déclaré que ses heures n’étaient pas contrôlées car il était payé sur une base hebdomadaire. Il a affirmé avoir travaillé 60 heures par semaine alors que les relevés d’emploi n’indiquaient que 40 heures par semaine. Le travailleur a de plus confirmé que, normalement, il travaillait chez Aqua Biochem jusqu’à la fin du mois d’octobre. En 2005, il a été licencié prématurément de sorte qu’il lui manquait des heures pour être admissible aux prestations.
+[17] Dans le cadre de son enquête, l’enquêteur a constaté que les chèques de paye du travailleur (chèque no 403 au montant de 669 $ et chèque no 408 au montant de 672 $) n’ont pas été produits. Les talons de chèques du bar montrent que les numéros des chèques faits à l’ordre du travailleur ont été changés (chèques no 415 et no 416 plutôt que chèques no 403 et no 408). Les chèques no 403 et no 408 ne correspondaient pas au relevé virtuel de la Caisse Populaire Desjardins et les chèques no 415 et no 416 ont été encaissés le même jour. Selon l’enquêteur, il y a incohérence dans les numéros des chèques et dans les montants versés.
+[18] L’enquêteur n’a pas cru que le travailleur a réellement effectué les travaux d’entretien et de rénovations au bar parce que, pendant la période, il n’y avait pas de factures d’achat de matériaux. Les achats de matériaux remontaient à plus de six mois avant la période. De plus, les factures produites montraient que des travaux de peinture avait été effectués en 2004 alors que des travaux de plomberie avaient été effectués en février 2005.
+[19] Finalement, l’enquêteur a constaté qu’il y avait des divergences quant au nombre d’heures travaillées et des divergences quant à la nature des travaux exécutés. Selon lui, la payeuse n’a jamais mentionné le dégraissage de la cuisinière et elle a affirmé ne pas servir de repas au bar. Selon ses calculs, il manquait 6.5 heures au travailleur pour qu’il puisse être admissible aux prestations.
+[20] Monsieur Roger Dufresne, agent des appels à l’Agence du revenu du Canada, a témoigné à l’audience. Son rapport a été produit comme pièce I ‑24. Il a pris connaissance des déclarations statutaires et des documents fournis par la payeuse et il a réalisé des entrevues téléphoniques séparées avec le travailleur et la payeuse le 27 février 2007. Il a conclu que l’emploi du travailleur auprès de la payeuse n’était pas un emploi assurable pour les motifs suivants :
+a) Rétribution
+i) Selon le registre des salaires, le travailleur a reçu deux paies brutes de 639,60 $ et de 672,86 $ alors que le registre des heures travaillées ne contenait aucun détail sur le nombre d’heures de travail du travailleur contrairement aux autres salariés.
+ii) Les numéros de chèque inscrits aux registres de paie ne correspondaient pas aux paies versées au travailleur. L’examen des documents démontre que le travailleur aurait reçu deux avances de 450 $ chacune, plus deux chèques de 39,44 $ et de 19,25 $. Il n’y a pas de preuve que ces avances ont réellement été consenties, ce qui laisse des doutes sur le véritable versement des paies inscrites au journal salaire.
+iii) Selon la version du travailleur, il a nettoyé une cuisinière pendant environ 15 à 20 heures. Ce travail a coûté plus de 300 $ en rémunération alors que la payeuse n'y a pas fait mention dans sa déclaration et n’avait pas besoin de cet équipement pour opérer.
+iv) En septembre 2004 et en février 2005, la payeuse a émis deux chèques au nom du travailleur portant la mention « commissions ». Selon les parties, ces paiements n’étaient pas du salaire, ce qui démontre que le travailleur avait déjà rendu des services au payeur sans rémunération.
+b) Modalités de l’emploi
+Les 80 heures d’emploi inscrites au relevé d’emploi ne visait qu’à qualifier le travailleur aux prestations d’assurance‑emploi. Les modalités de l’emploi ne correspondaient pas au véritable besoin de main d’œuvre de la payeuse mais plutôt à des modalités d’emploi modelées au lien de dépendance entre les parties.
+c) Durée de l’emploi
+i) La durée de l’emploi ne correspondait pas à la réalité. Les nombreux documents signés par le travailleur entre octobre 2004 et décembre 2005 démontrent que le travailleur était très impliqué dans les opérations du bar contrairement aux affirmations du travailleur et de la payeuse qui prétendaient le contraire.
+ii) La durée de l’emploi sous étude était strictement liée au lien de dépendance puisqu’une personne sans lien de dépendance n’aurait pas rendu de services sur une période aussi longue sans recevoir de salaire.
+d) Nature et importance du travail accompli
+i) Les fonctions du travailleur n’étaient pas essentielles aux opérations de la payeuse. Il s’agissait de tâches accessoires exécutées dans le cadre du maintien à l’emploi afin d’obtenir des prestations d’assurance‑emploi.
+ii) La signature du travailleur au contrat de location du lit de bronzage démontre bien que le lien financier entre les parties dépassait largement la rétribution inscrite au registre des salaires qui est strictement liée à leurs liens de dépendance.
+Analyse
+[21] L’alinéa 5(2)i) et le paragraphe 5(3) de la Loi sont rédigés comme suit :
+5(2)i) Restriction
+(2) N'est pas un emploi assurable :
+[. . .]
+i. l'emploi dans le cadre duquel l'employeur et l'employé ont entre eux un lien de dépendance.
+Personnes liées
+(3) Pour l'application de l'alinéa (2)i) :
+a. la question de savoir si des personnes ont entre elles un lien de dépendance est déterminée conformément à la Loi de l'impôt sur le revenu;
+b. l'employeur et l'employé, lorsqu'ils sont des personnes liées au sens de cette loi, sont réputés ne pas avoir de lien de dépendance si le ministre du Revenu national est convaincu qu'il est raisonnable de conclure, compte tenu de toutes les circonstances, notamment la rétribution versée, les modalités d'emploi ainsi que la durée, la nature et l'importance du travail accompli, qu'ils auraient conclu entre eux un contrat de travail à peu près semblable s'ils n'avaient pas eu de lien de dépendance.
+[22] Le juge en chef Richard de la Cour d’appel fédérale a expliqué, dans l’arrêt Francine Denis c. Canada (ministre du Revenu national – M.R.N.), 2004 CAF 26, le rôle du juge de la Cour canadienne de l’impôt dans un appel d’une détermination du ministre sur les dispositions d’exclusion contenues aux paragraphes 5(2) et (3) de la Loi.
+[5] Le rôle du juge de la Cour canadienne de l'impôt dans un appel d'une détermination du ministre sur les dispositions d'exclusion contenues aux paragraphes 5(2) et (3) de la Loi est de s'enquérir de tous les faits auprès des parties et les témoins appelés pour la première fois à s'expliquer sous serment et de se demander si la conclusion du ministre paraît toujours raisonnable. Toutefois, le juge ne doit pas substituer sa propre opinion à celle du ministre lorsqu'il n'y a pas de faits nouveaux et que rien ne permet de penser que les faits connus ont été mal perçus (voir Pérusse c. Canada (ministre du Revenu national – M.R.N.), [2000] A.C.F. no 310, 10 mars 2000).
+[23] À la lumière de la preuve testimoniale et documentaire concernant notamment la rétribution versée, les modalités de l’emploi ainsi que la durée, la nature et l’importance du travail accompli pendant la période d’emploi en litige, il m’apparaît raisonnable de conclure que la conclusion dont le ministre était convaincu était raisonnable dans les circonstances. Les faits supposés ou retenus par le ministre ont été appréciés correctement en tenant compte du contexte où ils sont survenus. Il n’y a pas de faits significatifs pour changer la décision du ministre.
+[24] Le contexte du dossier en est un où il y a eu un arrangement entre le travailleur et la payeuse dans le seul but de permettre à ce dernier de pouvoir bénéficier des prestations d’assurance-emploi.
+[25] Le registre des heures travaillées ne contenait aucun détail sur le nombre d’heures de travail du travailleur contrairement aux autres salariés.
+[26] Les numéros de chèques inscrits aux registres de paie ne correspondaient pas aux paies versées au travailleur. Les chèques no 404 et no 408 n’ont pas été mis en preuve et ont été remplacés par deux petits chèques pour tenir compte de deux avances de 450 $ antérieurement consenties au travailleur. Aucune preuve concernant ces avances n’a été fournie. Dans une de ses déclarations, la payeuse a admis ne plus se rappeler de l’entente conclue avec le travailleur pour le versement de son salaire.
+[27] Les déclarations et témoignages des parties comportent des divergences concernant notamment la fourniture de repas au bar, la nature des travaux effectués par le travailleur et le dégraissage de la cuisinière. Les tâches exécutées par le travailleur n’étaient pas essentielles aux activités du commerce. Aucune facture pour les travaux exécutés au cours de la période n’a été produite si ce n’est d’une facture pour l’achat d’ampoules électriques. Les factures produites étaient de plusieurs mois antérieures à la période et plusieurs étaient relatives à des travaux exécutés de septembre 2004 à avril 2005 (plomberie et peinture).
+[28] Le travailleur était impliqué dans les opérations au bar et rendait des services sans rémunération. Il effectuait des dépôts d’argent à la Caisse Populaire Desjardins, il signait des factures des fournisseurs de la payeuse et il faisait des commissions pour le commerce. Il était de plus impliqué dans la gestion du bar comme en fait foi le cautionnement d’un contrat de crédit‑bail pour l’achat du lit de bronzage.
+[29] Compte tenu de ce qui précède, les conditions de travail du travailleur n’auraient pas été semblables si le travailleur et la payeuse n’avaient pas eu entre eux de lien de dépendance.
+[30] En conséquence, les appels sont rejetés et la décision du ministre est confirmée.
+Signé à Ottawa, Canada, ce 26e jour d’août 2011.
+« Réal Favreau »
+Juge Favreau
+RÉFÉRENCE : 2011 CCI 385
+Nos DES DOSSIERS DE LA COUR : 2007-3141(EI) et 2007-3041(EI)
+INTITULÉS DES CAUSES : Michaël Dumont c. M.R.N.
+Monica Turcotte c. M.R.N.
+LIEU DE L’AUDIENCE : Rimouski (Québec)
+DATE DE L’AUDIENCE : Le 14 décembre 2010
+MOTIFS DU JUGEMENT PAR : L’honorable juge Réal Favreau
+DATE DU JUGEMENT : Le 26 août 2011
+DATE DU JUGEMENT MODIFIÉ : Le 6 septembre 2011
+COMPARUTIONS :
+Avocate des appelants :
+Me Nancy Lajoie
+Avocate de l’intimé :
+Me Geneviève Lecours
+AVOCATS INSCRITS AU DOSSIER :
+Avocate des appelants : Me Nancy Lajoie
+Cabinet : Rioux, Bossé, Massé, Moreau
+Rivière-du-Loup (Québec)
+Pour l’intimé : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada

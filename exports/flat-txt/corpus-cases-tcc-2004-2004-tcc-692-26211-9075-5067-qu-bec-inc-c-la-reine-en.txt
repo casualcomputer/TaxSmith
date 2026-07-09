@@ -1,0 +1,304 @@
+Title: 9075-5067 Québec Inc. c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26211/index.do
+Corpus path: corpus/cases/tcc/2004/2004-tcc-692-26211-9075-5067-qu-bec-inc-c-la-reine-en.md
+Document type: case_law
+Last modified: 2004-10-14
+
+# 9075-5067 Québec Inc. c. La Reine
+
+- Citation: 2004 TCC 692
+- Decision date: 2004-10-14
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3942, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+9075-5067 Québec Inc. c. La Reine
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-10-14
+Neutral citation
+2004 TCC 692
+File numbers
+2001-2889(IT)G
+Judges and Taxing Officers
+Alban Garon
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2001-2889(IT)G
+BETWEEN:
+9075-5067 QUÉBEC INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeals heard on March 29 and March 30, 2004, at Montréal, Quebec
+Before: The Honourable Chief Justice Alban Garon
+Appearances:
+Counsel for the Appellant:
+Jacques Sylvestre, Jr.
+Counsel for the Respondent:
+Valérie Tardif
+____________________________________________________________________
+JUDGMENT
+The appeals from the assessments made under the Income Tax Act in respect of the 1997 and 1998 taxation years are allowed, with costs, and the assessments are referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the price of the transaction of December 29, 1993, must be broken down as follows into each of the asset categories listed below:
+Buildings
+$6,051,500
+Equipment and furniture
+$2,593,500
+Land
+$1,000,000
+Improvements – golf course
+$350,000
+Parking – telephone network
+$200,000
+Automotive
+$155,000
+TOTAL
+$10,350,000
+Signed at Ottawa, Canada, this 14th day of October 2004.
+"Alban Garon"
+Garon C.J.
+Translation certified true
+on this 12th day of March 2009.
+Brian McCordick, Translator
+Citation: 2004 TCC 692
+Date: 20041014
+Docket: 2001-2889(IT)G
+BETWEEN:
+9075-5067 QUÉBEC INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Garon C.J.
+[1] These are appeals from income tax assessments pertaining to the 1997 and 1998 taxation years. By these assessments, the Minister of National Revenue reduced the capital cost allowance claimed by the Appellant in respect of certain categories of assets that it owned. The amounts of those reductions were $333,508 for the 1997 taxation year and $270,439 for the 1998 taxation year.
+[2] The dispute is about the allocation of the selling price among the various components of the hotel complex which were the subject of a single transaction.
+[3] The transaction in question, between the Fédération des caisses populaires Desjardins de Québec and 2970‑8963 Québec Inc., dates back to December 29, 1993. In 1994, 2970‑8963 Québec Inc. became Manoir Richelieu Inc. as a result of a name change. In a second name change, which occurred in June 1998, the Appellant's name was substituted for the name Manoir Richelieu Inc. The sale in question covered all land, buildings, equipment, furniture and automotive assets, including the golf course. The selling price of the entire property was set at $10,350,000. This price was broken down only partly into various categories of property. Moreover, it is admitted that, for the seller, the Fédération des caisses populaires Desjardins de Québec, this was inventory property that had been acquired shortly beforehand from Raymond Malenfant and certain other persons ("the Malenfant group") under a judgment.
+[4] At the time of the transaction in issue, the property, known as Manoir Richelieu, was located partly in the village of Pointe-au-Pic and partly in the town of La Malbaie. The two municipalities merged to form the new town of La Malbaie-Pointe-au-Pic on February 15, 1995. The town, located on the North Shore of the St. Lawrence River, is roughly 150 km east of Québec. In 1993, the population of the two municipalities combined was roughly 5,000.
+[5] For the purposes of this dispute, the parties acknowledged that the $10,350,000 selling price included the following six categories of property:
+Land
+Improvements – golf course
+Buildings
+Parking – telephone network
+Equipment and furniture
+Automotive
+[6] In addition, at the hearing, the Appellant and the Respondent came to an agreement about the portion of the $10,350,000 selling price represented by three categories of property:
+Improvements – Golf course $350,000
+Parking – telephone network $200,000
+Automotive $155,000
+TOTAL $705,000
+[7] What remains to be done, therefore, is to break down the balance of the selling price, that is, $9,645,000 ($10,350,000 - $705,000), into the following other three categories of property: the land; the buildings; and the equipment and furniture, which together form a single category.
+[8] The parties essentially agreed that the first thing to be determined was the value of the land, and that the balance, after subtracting the value attributed to the land and to the three categories of property referred to in paragraph 6 of these reasons, would be divided between the other two asset categories, namely the buildings and the equipment and furniture.
+[9] Most of the evidence by far was about the value of the entire Manoir Richelieu complex as at December 29, 1993. The area of the land in issue is 169.12 hectares. The topography is a mixture of flat and hilly terrain. It is not disputed that the vast area of the land is divided, for municipal zoning purposes, into five parcels, which are listed below along with a description of the permitted use of each:
+Parcel 1
+09-C
+11.3 hectares
+commercial use
+Parcel 2
+08-H
+11.6 hectares
+residential use
+Parcel 3
+16-H
+1.3 hectares
+residential use
+Parcel 4
+04-F
+80.99 hectares
+forestry use
+Parcel 5
+03-REC
+63.93 hectares
+recreational use
+[10] Each party produced an expert witness. Claude Vanasse testified for the Appellant, and Gaston Laberge deposed for the Respondent. Both are highly experienced chartered appraisers.
+[11] Claude Vanasse began by explaining why the Appellant's position regarding the value of the Manoir Richelieu land changed, in the course of the proceeding, from $74,300 to $581,800. The amount of $74,300 was the municipal assessment of the Manoir Richelieu land in 1995. As we have seen, prior to the February 1995 merger, the Manoir Richelieu land was located in two municipalities. According to Mr. Vanasse, there was an error in the new municipality's computer system. The system indicated that the Manoir Richelieu land was worth $74,300, when it should actually have indicated that the land was worth $677,300 for the year 1995: $102,300 for the land located in the former municipality of La Malbaie, and $575,000 for the land located in the former municipality of Pointe‑au‑Pic.
+[12] Mr. Vanasse expressed the opinion that the Manoir Richelieu land must be appraised as a whole, and not by zone as the Respondent's expert suggests. Mr. Vanasse submits that one must always seek [TRANSLATION] "the best possible return on the land while remaining realistic and reasonable."[1] He does not think that it is realistic to build residences on lots 08‑H, 03‑REC and 16-H.
+[13] Mr. Vanasse listed certain factors that could influence the valuation of land: access to public roads, type of land use, local nuisances, available services, and access to surroundings. He also discussed factors related to surface area, configuration, roads, viability, and nature of the soil and subsoil. He said that 20% of the Manoir Richelieu land is unusable because it is inaccessible and its terrain is too steep.
+[14] The expert witness also noted that the prior and subsequent owners never tried to maximize their investment by developing a residential community on the parcels of land zoned for such use.
+[15] Even assuming that the currently vacant parcels were developed, he does not believe that the value of the Manoir Richelieu land as a whole would increase by reason of the principle of communicating vessels. In his view, an increase in the value of the residential portion of the Manoir Richelieu land would bring about an inevitable corresponding reduction of the value of the commercial portion of the land, due notably to the additional traffic generated by a new residential development.
+[16] All in all, Mr. Vanasse is of the opinion that the development of the land that is permitted to be used for residential purposes is not a realistic possibility and should have no bearing on the valuation of the Manoir Richelieu land. Even if the zoning of those parcels allows for residential use, Mr. Vanasse adds that their development remained conditional on the approval of the municipality concerned at the relevant time.
+[17] Mr. Vanasse is also convinced that the opening of the Casino de Charlevoix on June 24, 1994, had no impact on the value of the Manoir Richelieu land during the relevant period.
+[18] In order to determine the fair market value of the hotel complex's land, the Appellant's appraiser tabulated 11 transactions involving vacant land in the surrounding area. The transactions occurred between 1986 and 1993. Upon analysing these sales, he noticed that the unit price varied a great deal based on the area of the land concerned. He determined that transaction #9 was the most comparable sale. He arrived at a rate of $4,300 per hectare, and therefore, a value of $581,800 for the Manoir Richelieu land as a whole.
+[19] The Court learned from the testimony of Michel Côté, the Appellant's president at the time of the December 29, 2003, transaction, that the Appellant took possession of the Manoir Richelieu complex on January 31, 1994, and that the complex was reopened in May 1994. He also stated that the occupancy rate of the Manoir Richelieu was 17% in 1993, down from 30% in 2000.
+[20] Although Exhibit A-2 states, at page 2, that Manoir Richelieu had 391 rooms on December 29, 1993, Mr. Côté categorically asserts that this is incorrect, and that there were 373 rooms in the hotel complex at that time. There were also five cottages, which were never rented by the Appellant.
+[21] In his testimony, Mr. Côté stated that the Appellant did not intend to develop housing on the suitably‑zoned parcels of land. He specified that Manoir Richelieu is a resort, and that the Appellant had no intention of changing its nature by incorporating a residential community. Upon the arrival of the Casino de Charlevoix , the municipality's urban planning committee reluctantly agreed to make Des Falaises Road a one-way road. Given that reaction, Mr. Côté [TRANSLATION] "cannot even imagine" that it would be possible to create a housing development on Manoir Richelieu land.
+[22] Mr. Côté also specified that Manoir Richelieu was not connected to the municipality's sewer and water-main systems; it was not connected until 1997.
+[23] In his deposition, Mr. Côté stated that, on December 29, 1993, the date of the transaction, he was far from certain that Loto-Québec would be setting up a casino on Manoir Richelieu property. In fact, the Fédération des Caisses populaires Desjardins de Québec had rejected a first offer to purchase the Appellant, an offer that was conditional upon the opening of a casino at Manoir Richelieu. Mr. Côté argued that no final decision had been made on March 1, 1994. The Casino de Charlevoix finally opened its doors on June 24, 1994. However, Mr. Côté stated that the Appellant was counting on the arrival of a casino to draw more people to Manoir Richelieu. He admits that the purchase of Manoir Richelieu without the opening of a casino would have been a
+[TRANSLATION] "catastrophe".
+[24] With regard to the property, Mr. Côté noted that it was a [TRANSLATION] "large, huge enclosed piece of land". He went on to state:
+[TRANSLATION]
+There is a very small point of land that leads to Des Falaises Road, and all the traffic must go through there in order to get anywhere on the land.
+[Transcript of trial, March 29, 2004, page 168, lines 18-21.]
+He added the following:
+[TRANSLATION]
+This was such a concern that the Town even wrote to us, asking that we explain how many people we were expecting to have on the land when we added the casino. They were afraid for their residents.
+[Transcript of trial, March 29, 2004, page 168, lines 21-24.]
+[25] Mr. Côté explained how he proceeded to break down the selling price of the hotel complex in the December 29, 1993, transaction. As Exhibit A‑3 shows, he estimated the value of the equipment at $4,132,000. However, this calculation includes certain categories of assets which, following an agreement between the parties, were included under other headings, such as "automotive" and "parking – telephone network". He also provided explanations regarding the item in Exhibit A‑3 listed as [TRANSLATION] "rooms 373 x 9,000 = $3,357,000" and the related method used to calculate the value of the furniture.
+[26] At this stage, it would be helpful to consider the testimony of Gaston Laberge, the Respondent's appraiser.
+[27] Mr. Laberge is of the opinion that the land should be valued having regard to the uses and zoning of the different parcels of land. Based on this approach, the valuation of the Manoir Richelieu land is equal to the sum of the value of the various parcels of land on the property, provided it is reasonable to separate the whole into parts.
+[28] Thus, Mr. Laberge used the direct comparison approach to value the different parcels of the hotel complex's land. This approach involves the valuation of land based on similar sales. For comparison, Mr. Laberge used the selling prices of 60 parcels of land sold between 1984 and 1998. These parcels were located in the former municipalities of La Malbaie and Pointe-au-Pic. The transactions numbered 1 through 34 in the table contained in his report involve sales of land that is zoned residential, while the transactions numbered 35 through 60 involve sales of land that is zoned commercial.
+[29] For the purposes of valuating Parcel 1 of the Manoir Richelieu land, the Respondent's appraiser used two approaches.
+[30] As part of the first approach, the Respondent's appraiser, having noted that the median price of the commercial parcels (sales #35 to #60) is $23.00 per square metre, selected sales #52 to #55, the only sales between November 1990 and January 1993. The median price of these sales is $28.00 per square metre, which was reduced by 65% because of the enormous area of the Manoir Richelieu land relative to the comparator lands. Based on this first approach, Parcel 1 was valued at $1,107,400.
+[31] Mr. Laberge also considered another approach, and stated as follows at page 31 of his report:
+[TRANSLATION]
+Another approach should be considered based on sale #55, which involves land that is near the subject and has an area of 4179 square metres. It was acquired for the construction of a 76‑room hotel at a price of $175,000, hence a price of $2,300 per room.
+Since Manoir Richelieu has 405 guest rooms as well as conference rooms, restaurant service, tennis, a pool, a trail and other facilities, we believe that it would be logical and reasonable to use a figure of $2,300 plus roughly 20%, for a total of $2,800 per room.
+[32] Based on this second approach, the Respondent's appraiser valued Parcel 1 at $1,134,000. This is the approach that he used in his report.
+[33] Parcels 2 and 3 are vacant parcels that were zoned residential but had no municipal services. Mr. Laberge used sales #1 through #23 as comparators, because they occurred before December 1993. The analysis of these sales indicated that the value of the lands that were zoned residential and had services ranged from $8.00 to $13.00 per square metre, and that the value of the lands without services varied from $2.56 to $3.89 per square metre. Since transaction #19[2] was the sale most comparable to Parcels 2 and 3, and the price was $2.56 per square metre, Mr. Laberge estimated the value of Parcels 2 and 3 at $2.56 per square metre, for a total of $322,500.
+[34] According to Mr. Laberge, Parcel 4 is zoned for forestry use and includes [TRANSLATION] "a few lodges and summer cottages". Parcel 5 includes a golf course and some extra space for expansion. The best comparator by which to value Parcels 4 and 5 is sale #34, involving land zoned for agricultural use. The unit price is $0.40 per square metre. According to the Respondent, the value of Parcels 4 and 5 is $579,680.
+[35] Accordingly, the Respondent's appraiser valued Parcels 1,2, 3, 4 and 5 of the Manoir Richelieu land as follows, at page 32 of his report:
+Parcel 1 $1,134,000
+Parcels 2 and 3 $322,500
+Parcels 4 and 5 $579,680
+__________
+Total $2,036,180
+Rounded off $2,036,000
+[36] Canada Customs and Revenue Agency auditor Pierre Bouffard also testified for the Respondent.
+[37] Mr. Bouffard says that when he met with Mr. Côté on September 3, 1999, Mr. Côté told him that the value of the building was greater than $10,000,000 and that he would have liked to value the equipment at more than $4,000,000, but he did not do so on the advice of specialists with the firm of Samson & Bélair.
+Analysis
+[38] It is not disputed that, given the circumstances of the instant case, the selling price of the hotel complex must be broken down into six asset categories. See the decision of the Supreme Court of Canada in The Queen v. Golden, [1986] 1 S.C.R. 209, concerning the application of section 68 of the Income Tax Act.
+[39] As stated above, the selling price of the entire property, upon the transaction of December 29, 1993, was $10,350,000, and, at the hearing, the parties agreed on the following value for each of the asset categories set out below:
+Improvements – golf course
+$350,000
+Automotive
+$155,000
+Parking – telephone network
+$200,000
+TOTAL
+$705,000
+[40] Thus, the appropriate first step is to analyze the evidence regarding the valuation of all the parcels that were sold on December 29, 1993.
+[41] The Respondent submits that, for the Manoir Richelieu land to be put to optimal use, the residential lots located on Parcels 2 and 3 would have to be sold. In a discussion of these parcels at page 31 of his report, the Respondent's appraiser states that this part of the land [TRANSLATION] "has short-term development potential". I do not share that view. The development of a residential community using the lots located on Parcels 2 and 3 is not a realistic option. Manoir Richelieu is a resort, and most of its value actually depends on its wide-open spaces. The presence of housing on what is currently Manoir Richelieu property would cause that property to lose some of its resort quality, resulting in a corresponding loss of the value of the land. The scenario involving the development of a residential community is difficult to regard as realistic given that no parcel of land was sold during the 60 years preceding the transaction of December 29, 1993. Furthermore, no parcels of land were sold between that date and the hearing of the instant appeals. Thus, more than 10 years have elapsed since the transaction of December 29, 1993. Indeed, neither the Appellant, who was the owner until June 3, 1998, nor the subsequent owner, sold parcels of this immense hotel complex. It should also be noted that the complex is located in an area with a particularly small population base. And, as the evidence has shown, access to the public road network is limited.
+[42] Notwithstanding the foregoing comments, I believe that it would be helpful to examine some of the Respondent's evidence regarding the value of the land in issue.
+[43] As we have seen, the Respondent used two valuation methods for Parcel 1. Under the first method, the Respondent's appraiser began by valuing the portion of the land that was zoned commercial. In order to do so, he used four comparable sales: lots #52 to #55. Those lots are zoned commercial, and were sold between 1990 and 1993. The lots in transactions #52, #53 and #54 were sold in 1990 at prices ranging from $26.49 to $28.46 per square metre. As for the land in transaction #55, it was sold in 1993 at a price of $41.87 per square metre, for a total of $175,000. Since the Manoir Richelieu land is much bigger than the land in sales #52 to #55, and in light of the issue of access to public roads, the Respondent was of the view that the value of Parcel 1 of the complex should be adjusted downward by 65%, and she used a value of $28.00 per square metre to arrive at a total value of $1,107,400. The Respondent's appraiser's adjustment is so large that it raises the question whether the sales just mentioned can really be considered comparable to Parcel 1. Furthermore, the explanations given in support of this very substantial adjustment are so general that one might ask why the adjustment was not, say, 80% instead.
+[44] The Respondent then proposed another approach, in which Parcel 1 would be valued using only one comparable lot: the lot in sale #55. The land in question was sold in 1993 in anticipation of the construction of a hotel.[3] The Respondent's appraiser valued the land at $2,300 per room. The Respondent suggested that the value be increased by 20%, as explained above.
+[45] Since the evidence has established that Manoir Richelieu had 373 rooms, not 405 rooms, on December 29, 1993, the Respondent's appraiser, using this second valuation method, would have established the value of Parcel 1 at 373 x $2,800, for a total of $1,044,400, which is quite close to the value of $1,107,400 that resulted from the first method.
+[46] Although I am not convinced of the soundness of the reasoning adopted by the Respondent's appraiser in his report when he determines a value for the land based on a price per room, I am still attributing some importance to sale #55. I am doing so because it was the sale of a lot situated on Des Falaises Street in Pointe‑au-Pic on January 25, 1993. The land was purchased for the construction of a hotel. The selling price was $175,000. The land is only 4,179.14 square metres in area, whereas Parcel 1 of the complex in question has an area of 113,000 square metres and is therefore several times larger even when the unusable portion of roughly 20% of Parcel 1 is subtracted. Although a downward adjustment is indicated in order to take account of the very large size of Parcel 1, it seems clear to me that the value of Parcel 1 is at least six times higher than the value of the land involved in transaction #55. From my perspective, which is that the best use the Manoir Richelieu land does not involve fragmentation, the value of Parcel 1 should be increased by an amount equal to the value of Parcels 2, 3, 4 and 5 in order to determine the value of the entire Manoir Richelieu land. In other words, if, prior to December 29, 1993, the Appellant had owned only Parcel 1 of the land in issue, the Appellant would have had to pay a certain amount to acquire Parcels 2, 3, 4 and 5 for the purpose of increasing the resort aspect of its hotel complex. In this regard, I will not discuss the values attributed by the Respondent to Parcels 2, 3, 4 and 5, which total roughly $900,000, since I am of the opinion that the optimal use of all the Manoir Richelieu land in question in December 1993 should not involve fragmentation.
+[47] As for the Appellant's evidence, I believe that it would be interesting to consider transaction #9 from Mr. Vanasse's valuation report. The lot in question has an area of 34,872 hectares. As Mr. Vanasse noted, the property has characteristics similar to those of the Manoir Richelieu land, particularly in terms of the view of the river and proximity to it. The sale occurred on March 5, 1992, roughly two years before the sale of December 29, 1993. The price of transaction #9 was $147,000, of which $140,000 was for the land. The land in question was zoned agricultural. In the case of transaction #9, and of all the other transactions referred to in Mr. Vanasse's report, an authorization by the Commission de la protection du territoire agricole permitted a use other than agriculture during the relevant period. The lot in question is close to a golf course and is almost five times smaller than the land in issue. In estimating the value of the hotel complex's land, the Appellant's appraiser reduced the area of the land by 20% to account for its unusable portion. When this unusable portion is excluded, Manoir Richelieu is roughly four times bigger than the lot in transaction #9. However, the Appellant's appraiser did not take into account the fact that the municipality's zoning of the land involved in sale #9 remained agricultural, even though, from the standpoint of the aforesaid Commission, a use other than agriculture did not pose a problem. For the purposes of establishing a value for the entire Manoir Richelieu land, an upward adjustment is nevertheless necessary so as to take into account the fact that the land involved in transaction #9 was not commercial, and, moreover, the fact that the transaction took place roughly 22 months before the sale of December 29, 1993.
+[48] Consequently, for the purposes of determining the value of all the Manoir Richelieu land, I am mindful of the following factors:
+1. My remarks concerning sale #55 from the Respondent's appraiser's table in relation to the value of Parcel 1, to which I must add roughly 15% to account for the value of Parcels 2, 3, 4, 5, on the principle that the optimal use of the land as a whole does not involve its fragmentation. Based on these remarks, I would arrive at an amount of roughly $1,200,000.
+2. The comments concerning transaction #9 referred to in the Appellant's appraiser's report, taking into account, in particular, the upward adjustments, which I would set at 30%. From this standpoint, the value for all the Manoir Richelieu land would be slightly more than $700,000.
+[49] All things considered, I would establish the value of all the land on the property in issue at $1,000,000.
+[50] The selling price of $10,350,000 for the entire hotel complex must be reduced by the values that the parties assigned to the asset categories set out below, and by the value that I have just assigned to the land component of the property in issue:
+$10,350,000
+Improvements - golf course
+$350,000
+Telephone network - parking
+$200,000
+Automotive
+$155,000
+Land
+$1,000,000
+total subtracted - $1,705,000
+$8,645,000
+Thus, the amount of $8,645,000 must be broken down into the following two categories:
+Buildings Equipment and furniture
+[51] In dividing the portion of the selling price that remains ($8,645,000) between the above two categories, the Appellant would assign 60% to buildings, and 40% to equipment and furniture. The Appellant claims that these are the percentages that the parties used for the December 29, 1993, sale. In this regard, I refer to the clause of the contract of sale concerning the breakdown of the selling price:
+[TRANSLATION]
+BREAKDOWN OF
+SELLING PRICE
+Land: $74,300
+Rights to name and style,
+goodwill and telephone numbers $1
+Equipment and furniture $4,000,000
+Buildings $6,275,699
+Total $10,350,000
+[52] For her part, the Respondent submits that the percentages for these two asset categories should be based on the undepreciated value of the property in each category, as established in late 1992 by the Malenfant Group, the previous owner of the hotel complex. Based on the table constituting Exhibit I‑3, the undepreciated value of the "building" category accounted for 75% of the total undepreciated value of the property in the four asset categories set out in that list, and the undepreciated value of the "equipment and furniture" category accounted for 20% of that total. The following is an excerpt from Exhibit I‑3:
+[TRANSLATION]
+Proportions
+Buildings 0.75 $5,813,250
+Equipment and furniture 0.20 $1,550,200
+Automotive 0.02 $155,020
+Parking and phone networks 0.03 $232,530
+$7,751,000
+[53] After analyzing the evidence as a whole, and in particular the testimony of Mr. Côté regarding the condition of the equipment and furniture and the question of the percentage to be attributed to each of the two remaining asset categories in relation to the portion of the selling price not already assigned to the four asset categories referred to in paragraph 50 of these reasons; and having regard to the submissions made by the parties' counsel, I have concluded that assigning 70% to buildings and 30% to equipment and furniture is a fair allocation of the $8,645,000 balance of the December 29, 1993 selling price to the two remaining asset categories.
+[54] In light of the foregoing, I find that the $10,350,000 selling price must be broken down as follows into the hotel complex's various asset categories. Next to each asset category, I shall set out the relevant class of property from Schedule B of the Income Tax Regulations as well as the applicable depreciation rate under those Regulations:
+Class Rate
+Buildings
+$6,051,500
+3
+5%
+Equipment and furniture
+$2,593,500
+8
+20%
+Land
+$1,000,000
+Improvements - golf course
+$350,000
+17
+8%
+Parking - telephone network
+$200,000
+17
+8%
+Automotive
+$155,000
+10
+30%
+TOTAL
+$10,350,000
+[55] The appeals from the assessments made by the Minister of National Revenue for the 1997 and 1998 taxation years are allowed, with costs, and the assessments are referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the price of the transaction of December 29, 1993, must be broken down as follows into each of the asset categories listed below:
+Buildings
+$6,051,500
+Equipment and furniture
+$2,593,500
+Land
+$1,000,000
+Improvements - golf course
+$350,000
+Parking – telephone network
+$200,000
+Automotive
+$155,000
+TOTAL
+$10,350,000
+Signed at Ottawa, Canada, this 14th day of October 2004.
+"Alban Garon"
+Garon C.J.
+Translation certified true
+on this 12th day of March 2009.
+Brian McCordick, Translator
+CITATION:
+2004TCC692
+COURT FILE NO.:
+2001-2889(IT)G
+STYLE OF CAUSE:
+9075-5067 QUÉBEC INC.
+and Her Majesty the Queen
+PLACE OF HEARING:
+Montréal, Quebec
+DATE OF HEARING:
+March 29 and March 30, 2004
+REASONS FOR JUDGMENT BY:
+The Honourable Chief Justice
+Alban Garon
+DATE OF JUDGMENT:
+October 14, 2004
+APPEARANCES:
+For the Appellant:
+Jacques Sylvestre, Jr.
+For the Respondent:
+Valérie Tardif
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Sylvestre & Associés
+Firm:
+Saint-Hyacinthe, Quebec
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Transcript of trial, March 29, 2004, page 44, lines 14 and 15.
+[2] In his report, the appraiser refers to sale #18, but is actually referring to sale #19.
+[3] According to Mr. Côté, the land was purchased for a condominium building. However, in his words, they later [TRANSLATION] "turned it into a hotel."

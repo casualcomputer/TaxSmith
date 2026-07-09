@@ -1,0 +1,530 @@
+---
+title: "ARCHIVED - Corporations: Association and Control"
+source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it64r4-consolid/archived-corporations-association-control.html
+last_modified: 2017-11-07
+---
+# ARCHIVED - Corporations: Association and Control
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+[What the "Archived Content" notice means for interpretation bulletins](https://www.canada.ca/en/revenue-agency/services/forms-publications/what-archived-content-notice-means-interpretation-bulletins.html)
+
+NO.: **IT-64R4 (Consolidated)**
+
+DATE: See [*Bulletin Revisions*](#br) section
+
+SUBJECT: INCOME TAX ACT**Corporations: Association and Control**
+
+REFERENCE: Section 256 (also section 251)
+
+Latest Revision: ¶ 37
+
+**Notice to the reader:**
+
+- [Bulletins do not have the force of law](https://www.canada.ca/formspubs/pbs/tntc-eng.html).
+
+- This is an HTML version of the original document. It is also available in [other formats](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it64r4-consolid.html), including PDF (which is an exact rendition of the original).
+
+- This version is only available electronically.
+
+## Contents
+
+- *[Application](#P77_2614)*
+
+- *[Summary](#P79_2713)*
+
+- *[Discussion and Interpretation](#P93_4720)*
+
+    - [SOME BASIC RULES](#P94_4749)
+
+          - [Control of One Corporation by Another Corporation – Paragraph 256(1)(*a*)](#P95_4766) (¶ 1)
+
+          - [Control of Two Corporations by Same Person or Group of Persons – Paragraph 256(1)(*b*)](#P97_5183) (¶ 2)
+
+          - [Anti-Avoidance Provision – Subsection 256(2.1)](#P99_5519) (¶ 3)
+
+          - [Bankrupt Corporation Not Associated – Paragraph 128(1)*(f*)](#P101_6382) (¶ 4)
+
+          - [Corporations Can Be Related but Not Associated](#P103_6591) (¶ 5)
+
+          - [Dealings Between Corporations Not Required for Association](#P105_7194) (¶ 6)
+
+          - [Corporations With Different Taxation Years](#P107_7523) (¶ 7)
+
+          - [Two Corporations Associated With the Same Corporation – Subsection 256(2)](#P109_8712) (¶ 8)
+
+    - [EXCEPTIONS](#P111_9118)
+
+          - [Situations Involving an Indebtedness or Redeemable Shares Where Association Is Deemed Not to Occur – Subsection 256(3)](#P112_9128) (¶ 9)
+
+          - [Two Corporations Controlled by Same Executor, Liquidator of a Succession or Trustee – Subsection 256(4)](#P120_11066) (¶ 10)
+
+          - [Corporation Controlled by Corporate Trustee – Subsection 256(5)](#P122_11821) (¶ 11)
+
+          - [Situations Involving an Indebtedness or Redeemable Shares Where Control Is Deemed Not to Occur – Subsection 256(6)](#P124_12286) (¶ 12)
+
+    - [CONTROL](#P126_13596)
+
+          - [*De Jure* Control](#P127_13603)
+
+                  - *[The general test](#P128_13618)* (¶ 13)
+
+                  - *[Voting power to wind up the corporation](#P136_14884)* (¶ 14)
+
+                  - *[Beneficial owners of shares](#P138_15840)* (¶ 15)
+
+                  - *[Effect of casting vote](#P140_16208)* (¶ 16)
+
+                  - *[Indirect control](#P142_16964)* (¶ 17)
+
+                  - *[Effect of special provisions](#P144_17934)* (¶ 18)
+
+          - [*De Facto* Control – Subsection 256(5.1)](#P149_18933) (¶s 19-23)
+
+    - [GROUP OF PERSONS](#P163_23568)
+
+          - [Definition – Paragraph 256(1.2)(*a*)](#P164_23584) (¶ 24)
+
+          - [Application of Paragraph 256(1.2)(*a*)](#P166_24686) (¶ 25)
+
+          - [Simultaneous Control of a Corporation – Paragraph 256(1.2)(*b*)](#P168_25097) (¶ 26)
+
+    - [CONTROL OF TWO CORPORATIONS BY RELATED PERSONS OR RELATED GROUPS OF PERSONS – PARAGRAPHS 256(1)(c), (d) AND (e)](#P175_26240) (¶ 27)
+
+    - [ADDITIONAL RULES THAT CAN DETERMINE OWNERSHIP OF SHARES, OR CONTROL, OF A CORPORATION](#P213_30113)
+
+          - [Deemed Control by the Fair Market Value Test – Paragraph 256(1.2)(*c*)](#P214_30198) (¶ 28)
+
+          - [Deemed Ownership of Shares by the “Look-Through” Rules – Paragraphs 256(1.2)(*d*) to (*f*)](#P219_31175)
+
+                  - *[Introduction](#P220_31261)* (¶ 29)
+
+                  - *[Looking through a corporation – Paragraph 256(1.2)(d)](#P222_31625)* (¶ 30)
+
+                  - *[Looking through a partnership – Paragraph 256(1.2)(e)](#P230_32380)* (¶ 31)
+
+                  - *[Looking through a trust – Paragraph 256(1.2)(f)](#P237_33378)* (¶ 32)
+
+                  - *[Looking through a chain](#P253_36877)* (¶ 33)
+
+          - [Parent Deemed to Own Shares of Child – Subsection 256(1.3)](#P264_38323) (¶ 34)
+
+          - [Options or Rights – Subsection 256(1.4)](#P271_39797)
+
+                  - *[Effect of option](#P272_39836)* (¶ 35)
+
+                  - *[Convertible securities](#P277_41245)* (¶ 36)
+
+                  - *[Buy-sell agreements](#P279_42060)* (¶ 37)
+
+                  - *[Simultaneous control and deemed control](#P284_42555)* (¶ 38)
+
+          - [Simultaneous Control at Different Levels of a Corporate Chain – Subsections 256(6.1) and (6.2)](#P299_44747) (¶ 39)
+
+- *[Bulletin Revisions](#br)*
+
+## Application
+
+This bulletin cancels and replaces Interpretation Bulletin IT-64R3, dated March 9, 1992.
+
+## Summary
+
+This bulletin discusses provisions in the *Income Tax Act* that contain rules with respect to the association of corporations (the “association rules”). There are a number of provisions in the Act for which the association rules are relevant (e.g., those pertaining to the small business deduction); however, a discussion of such provisions is outside the scope of this bulletin.
+
+Section 256 contains the association rules. Subsections 256(1) and (2) provide the general rules with respect to whether one corporation is associated with another. Subsections 256(3), (4), (5) and (6) provide for certain exceptional circumstances under which the association of one corporation with another does not occur.
+
+The essential test in determining whether a corporation is associated with another relies on the control of the corporation that is exercised “directly or indirectly in any manner whatever.” This expression encompasses:
+
+- *de jure* control (i.e., control in law), the meaning of which has been determined by caselaw; and
+
+- *de facto* control (i.e., control in fact), as determined under subsection 256(5.1).
+
+There are a number of additional rules in section 256, including rules which:
+
+- provide or extend the meaning of certain terms and concepts, such as a “group of persons” and “control by a group of persons”;
+
+- can result in deemed control by means of a fair market value test;
+
+- can result in deemed ownership of shares by means of “look-through” rules;
+
+- can deem the shares of a child under 18 to be owned by the child's parent;
+
+- can result in deemed ownership of shares or control by means of options or rights; and
+
+- allow for simultaneous control by two or more persons or groups of persons.
+
+Any statement in this bulletin with respect to the question of whether corporations are associated with each other, or with respect to any rule that relates to that question, should implicitly be taken as meaning that such question or rule is being considered at a particular point in time, unless otherwise stated.
+
+## Discussion and Interpretation
+
+### SOME BASIC RULES
+
+### Control of One Corporation by Another Corporation – Paragraph 256(1)(a)
+
+**¶ 1.** Under paragraph 256(1)(*a*), two corporations are associated with each other if one of them is controlled, directly or indirectly in any manner whatever, by the other. (For a discussion of the meaning of “controlled” and the meaning of “controlled, directly or indirectly in any manner whatever,” see ¶s 13 to 18 and ¶s 19 to 23, respectively.)
+
+### Control of Two Corporations by Same Person or Group of Persons – Paragraph 256(1)(b)
+
+**¶ 2.** Under paragraph 256(1)(*b*), two corporations are associated with each other if they are both controlled, directly or indirectly in any manner whatever, by the same person or group of persons. (The meaning of “group of persons” is discussed in ¶ 24.)
+
+### Anti-Avoidance Provision – Subsection 256(2.1)
+
+**¶ 3.** Subsection 256(2.1) contains an anti-avoidance rule which deems two or more corporations to be associated with each other if one of the main reasons for the separate existence of those corporations is to reduce the amount of income taxes otherwise payable (or to increase the amount of refundable investment tax credits available under section 127.1). Subsection 256(2.1) could apply, for example, where two parts of what could reasonably be considered to be one business, such as the manufacturing and sales activities of a single business, are carried on by two corporations each of which is controlled by different persons. In such a case, if it is reasonable to conclude that the separate existence of the corporations is mainly tax-motivated, the corporations will be deemed to be associated with each other.
+
+### Bankrupt Corporation Not Associated – Paragraph 128(1)(f)
+
+**¶ 4.** Paragraph 128(1)(*f*) deems a corporation not to be associated with any other corporation in a taxation year ending in the period when it is bankrupt.
+
+### Corporations Can Be Related but Not Associated
+
+**¶ 5.** Two corporations can be “related persons” as defined in subsection 251(2) and still not be associated with each other under subsection 256(1). As an example, if 65 per cent of the voting shares of Corporation A are owned by Mr. A and 60 per cent of the voting shares of Corporation B are owned by his brother, Mr. B, the corporations are “related persons” pursuant to subparagraph 251(2)(*c*)(ii); however, the two corporations would not be associated with each other unless the cross-ownership test in paragraph 256(1)(*c*), as discussed in ¶ 27, were met.
+
+### Dealings Between Corporations Not Required for Association
+
+**¶ 6.** Two corporations may be associated with each other even if those corporations and their shareholders do not have any dealings with each other. Association depends solely upon the fulfilment of the control and share ownership requirements set out in subsection 256(1).
+
+### Corporations With Different Taxation Years
+
+**¶ 7.** If two corporations have taxation years ending at different times in the calendar year, such corporations are not associated with each other in a particular taxation year unless, on some day which is within that particular taxation year for each of them, they are associated with each other. For example, assume that Corporation A and Corporation B have year-ends of March 31 and September 30, respectively. If, on July 31, 2000, Corporation A acquires all the issued common shares of Corporation B, the two corporations would not be associated with each other in their respective 2000 taxation years. This is the case because the date when they first became associated with each other, although within the 2000 taxation year of Corporation B (assuming it retains its September 30 year-end after the acquisition of control), is not within the 2000 taxation year of Corporation A. If, however, the date when Corporation A acquired the shares of Corporation B was February 28, 2000, the two corporations would be associated with each other in their respective 2000 taxation years since that date is within the 2000 taxation year of each of them.
+
+### Two Corporations Associated With the Same Corporation – Subsection 256(2)
+
+**¶ 8.** If two otherwise unassociated corporations are associated with the same third corporation, subsection 256(2) deems the two corporations to be associated with each other. (There are exceptions—where subsection 256(2) will not apply for the purposes of the small business deduction. For further particulars, see subsection 256(2).)
+
+### EXCEPTIONS
+
+### Situations Involving an Indebtedness or Redeemable Shares Where Association Is Deemed Not to Occur – Subsection 256(3)
+
+**¶ 9.** Subsection 256(3) provides an exception, in particular circumstances, to the general rules that two corporations will be associated with each other when:
+
+- one corporation controls, directly or indirectly in any manner whatever, the other corporation (see ¶ 1); or
+
+- the two corporations are controlled, directly or indirectly in any manner whatever, by the same person (see ¶ 2).
+
+Pursuant to subsection 256(3), the two corporations will be deemed not to be associated with each other when such control exists for the purpose of safeguarding the rights or interests of the corporation that controls the other corporation or the person who controls the two corporations (referred to in this paragraph as the “controller”) in respect of:
+
+(a) any indebtedness owing to the controller; or
+
+(b) any redeemable shares owned by the controller in the controlled corporation (in this paragraph and in ¶ 12, “redeemable shares” means shares to be redeemed by the controlled corporation or shares to be purchased by a person or group of persons with whom the controller deals at arm's length).
+
+There must also be an enforceable agreement in place providing that control will pass, upon the occurrence of an event that is likely to occur, to a person or group with whom the controller was dealing at arm's length. An example of a situation where subsection 256(3) applies might be one involving a manufacturing corporation that has financed a dealer corporation and has retained control, directly or indirectly in any manner whatever, of that dealer corporation, until the manufacturing corporation has recovered its advances. Another example might be where a corporation lends money to another corporation or to a chief shareholder thereof and holds control, directly or indirectly in any manner whatever, of the corporation as security.
+
+### Two Corporations Controlled by Same Executor, Liquidator of a Succession or Trustee – Subsection 256(4)
+
+**¶ 10.** Subsection 256(4) ensures that when two or more corporations, not previously associated with each other, have come under the control of the same executor, liquidator of a succession or trustee (either a corporation or an individual) through the deaths of their respective controlling shareholders, the corporations will not, for that reason alone, become associated with each other. This relieving provision does not apply if the executor, liquidator or trustee acquired control of the corporations as a result of one or more estates or trusts created by the same individual or two or more individuals not dealing with each other at arm's length.
+
+### Corporation Controlled by Corporate Trustee – Subsection 256(5)
+
+**¶ 11.** Subsection 256(5) provides that, if one corporation— acting as a trustee—controls another corporation through a trust, the two corporations are deemed not to be associated with each other. This does not apply if a settlor of the trust controls or is a member of a related group that controls the corporation that is the trustee. (The term “related group” is defined in subsection 251(4)—see ¶ 27.)
+
+### Situations Involving an Indebtedness or Redeemable Shares Where Control Is Deemed Not to Occur – Subsection 256(6)
+
+**¶ 12.** As is the case with subsection 256(3) (see ¶ 9), subsection 256(6) deals with certain situations involving an indebtedness or redeemable shares. The rules in subsection 256(6) are similar to the rules in subsection 256(3), except that the controlled corporation is deemed not to be controlled by the person or partnership which controls, directly or indirectly in any manner whatever, the corporation (referred to in this paragraph as “the controller”) rather than deemed not to be associated (as is the case in subsection 256(3)) with the controller. Subsection 256(6) could apply, for example, where a manufacturing corporation establishes a dealership in another corporation and, under the terms of the financing arrangement, the operator or dealer will not acquire active control of the dealership corporation until certain financial obligations to the manufacturing corporation are met. In these circumstances, and assuming that the other requirements of subsection 256(6) are met, this subsection deems the dealership corporation not to be controlled by the manufacturing corporation, which results in the corporations not being associated with each other by reason of the arrangement.
+
+### CONTROL
+
+### De Jure Control
+
+#### The general test
+
+**¶ 13.** If the reference to control of a corporation is not accompanied by the words “directly or indirectly in any manner whatever,” such control means de jure control (i.e., control in law).
+
+The general test for *de jure* control was established by the Exchequer Court of Canada in *Buckerfield's Limited et al. v. MNR*, 64 DTC 5301, [1964] CTC 504, to be whether the shareholder enjoys “effective control” over the affairs and fortunes of the corporation, as manifested in the ownership of such a number of shares as carries with it the right to a majority of the votes in the election of the board of directors. The test in *Buckerfield's* was confirmed by the Supreme Court of Canada in *Duha Printers (Western) Ltd. v. The Queen*, 98 DTC 6334, [1998] 3 CTC 303. In *Duha Printers*, the court stated that in determining whether effective control exists, one must consider:
+
+(a) the corporation's governing statute;
+
+(b) the share register of the corporation; and
+
+(c) any specific or unique limitation on either the majority shareholder's power to control the election of the board or the board's power to manage the business and affairs of the company, as manifested in either:
+
+(i) the constating documents of the corporation; or
+
+(ii) any unanimous shareholder agreement.
+
+#### Voting power to wind up the corporation
+
+**¶ 14.** A refinement of the meaning of *de jure* control can be found in *Oakfield Developments (Toronto) Limited v. MNR,* 71 DTC 5175, [1971] CTC 283. In that case, an “inside group” of shareholders owned all the corporation's common shares and another group owned all the corporation's preferred shares with each group holding, in aggregate, an equal number of votes. The preferred shares were issued after the common shares and were entitled on winding up only to the amount paid to acquire the shares plus a 10% premium. The Supreme Court of Canada held in *Oakfield* that control of the corporation remained with the common shareholders who had the power to wind up the corporation and to receive all the capital and surplus except the fixed amount payable to the preferred shareholders. (See also the Supreme Court of Canada's decision in *The Queen v. Imperial General Properties Limited*, 85 DTC 5500, [1985] 2 CTC 299.)
+
+#### Beneficial owners of shares
+
+**¶ 15.** The owners of shares of a corporation are considered to be those persons who are the beneficial owners of such shares. This is the case even if the shares are registered in the corporation's share register in the name of another person or persons such as a nominee or bare trustee. (See also ¶ 32 concerning a share held by a trustee.)
+
+#### Effect of casting vote
+
+**¶ 16.** Where the voting shares of a corporation are divided evenly between two persons, the fact that the chairperson of a shareholder's meeting may have the right to cast a deciding vote does not give that person *de jure* control of the corporation where the deciding vote is conferred on that person as chairperson of the meeting and not by ownership of voting shares (see *Aaron's (Prince Albert) Ltd. et al. v. MNR,* also known as *Allied Business Supervisions Ltd. v. MNR*, 66 DTC 5244, [1966] CTC 330 (Ex.Ct.)—confirmed in *MNR v. Dworkin Furs (Pembroke) Ltd.,* 67 DTC 5035, [1967] CTC 50 (S.C.C.)). (However, the holding of a “casting vote” in the above circumstances may constitute *de facto* control as defined in subsection 256(5.1).)
+
+#### Indirect control
+
+**¶ 17.** It is possible for a person to have *de jure* control over a corporation without ownership of any of its shares if that person controls one or more other corporations which, singly or among them, have voting control of the first-mentioned corporation. For example, if Y controls Corporation A which in turn controls Corporation B, then Y also controls Corporation B. Similarly, if Corporation P controls Corporations M and N which, between them, own more than 50 per cent of the voting shares of Corporation X, then Corporation P controls Corporation X, and all four of the corporations are associated with each other. *See Vineland Quarries and Crushed Stone Limited v. MNR*, 66 DTC 5092, [1966] CTC 69 (affirmed from the bench without written reasons by the Supreme Court of Canada, 67 DTC 5283). (Depending on the facts in the particular situation, paragraph 256(1.2)*(d)* may also result in the corporations being associated with each other—see ¶ 30.)
+
+#### Effect of special provisions
+
+**¶ 18.** As indicated in ¶ 13, it is also necessary to take into consideration the following:
+
+- special provisions in the constating documents of a corporation, such as its letters patent, articles of incorporation or by-laws; or
+
+- unanimous shareholder agreements sanctioned by the relevant legislation.
+
+For example, the articles of incorporation of a corporation may provide that a motion put before a meeting of the shareholders will fail unless it receives the unanimous consent of all the owners of voting shares. In these circumstances, the person or persons holding the majority of the voting shares can be said to have *de jure* control over the corporation only if that person or persons own all the voting shares. (However, even if the majority shareholder or shareholders in the above example did not own all the voting shares, they could still be deemed to control the corporation by means of the fair market value test in paragraph 256(1.2)(*c*), as discussed in ¶ 28.)
+
+### De Facto Control – Subsection 256(5.1)
+
+**¶ 19.** If the reference to control of a corporation is accompanied by the words “directly or indirectly in any manner whatever,” such control encompasses both *de jure* control (as discussed in ¶s 13 to 18) and *de facto* control (i.e., control in fact). For the purposes of the Act, a corporation is considered by subsection 256(5.1) to be “controlled, directly or indirectly in any manner whatever,” where another corporation, person or group of persons (referred to in this paragraph, ¶s 20 and 25 as the “controller”) has any direct or indirect influence that, if exercised, would result in control in fact of the corporation.
+
+**¶ 20.** Subsection 256(5.1) further provides, however, that the corporation shall not be considered to be controlled, directly or indirectly in any manner whatever, by the controller where the corporation and the controller are dealing at arm's length and the controller's influence is derived from an agreement or arrangement such as a franchise, licence, lease, distribution, supply or management agreement—i.e., a business agreement or arrangement—the main purpose of which is to govern the relationship between the parties regarding the manner in which a business carried on by the corporation is to be conducted. Thus, for example, a franchise agreement or lease which provides to the franchiser or lessor a measure of control over the products sold by the corporation or the hours during which it conducts its business, would not by itself result in the franchiser or lessor having *de facto* control of the corporation.
+
+**¶ 21.** *De facto* control goes beyond *de jure* control and includes the ability to control “in fact” by any direct or indirect influence. *De facto* control may exist even without the ownership of any shares. It can take many forms, e.g., the ability of a person to change the board of directors or reverse its decisions, to make alternative decisions concerning the actions of the corporation in the short, medium or long term, to directly or indirectly terminate the corporation or its business, or to appropriate its profits and property. The existence of any such influence, even if it is not actually exercised, would be sufficient to result in *de facto* control.
+
+**¶ 22.** The moment when the influence must exist, for the purposes of the *de facto* control test, depends upon the context in which the notion of control is applied. For example, in the case of the small business deduction, where the status of “Canadian-controlled private corporation” (subsection 125(7)) must be maintained throughout the year, control will be examined for the whole year for which the deduction is claimed. In the case of the investment tax credit (section 127.1), the reference period will be restricted to the year in which the allowable expenses are incurred.
+
+**¶ 23.** Whether a person or group of persons can be said to have *de facto* control of a corporation, notwithstanding that they do not legally control more than 50 per cent of its voting shares, will depend on each factual situation. The following are some general factors that may be used in determining whether *de facto* control exists:
+
+(a) the percentage of ownership of voting shares (when such ownership is not more than 50 per cent) in relation to the holdings of other shareholders;
+
+(b) ownership of a large debt of a corporation which may become payable on demand (unless exempted by subsection 256(3) or (6)) or a substantial investment in retractable preferred shares;
+
+(c) shareholder agreements including the holding of a casting vote;
+
+(d) commercial or contractual relationships of the corporation, e.g., economic dependence on a single supplier or customer;
+
+(e) possession of a unique expertise that is required to operate the business; and
+
+(f) the influence that a family member, who is a shareholder, creditor, supplier, etc., of a corporation, may have over another family member who is a shareholder of the corporation.
+
+Although the degree of influence in (f) is always a question of fact, close family ties (between parents and children or between spouses) especially lend themselves to the development of significant influences. Generally, these persons must demonstrate their economic independence and autonomy before escaping presumptions of fact which apply to related persons. However, with respect to siblings, unless the facts indicate otherwise, generally one sibling would not be considered to have influence over another.
+
+In addition to the general factors described above, the composition of the board of directors and the control of day-to-day management and operation of the business would be considered.
+
+### GROUP OF PERSONS
+
+### Definition – Paragraph 256(1.2)(a)
+
+**¶ 24.** By virtue of paragraph 256(1.2)(*a*), the expression “group of persons” used in subsection 256(1) refers to any two or more persons each of whom owns shares of the capital stock of the corporation. Once it is established that a group of persons owns a majority of the voting shares of a corporation (even though one person in the group may alone control the corporation as discussed in ¶ 26) and that the same group also owns a majority of the voting shares of a second corporation, that fact is sufficient to make the two corporations associated with each other. This is the case whether or not other combinations of shareholders also could own a majority of voting shares in either corporation (see the Supreme Court of Canada's decision in *Vina-Rug (Canada) limited v. MNR*, 68 DTC 5021, [1968] CTC 1). Therefore, for the purposes of applying the provisions of subsection 256(1), any two or more persons, related or unrelated, may be identified as a group of persons, without considering whether the members of the group act in concert to control the corporation.
+
+### Application of Paragraph 256(1.2)(a)
+
+**¶ 25.** The existence of *de facto* control under subsection 256(5.1), as discussed in ¶s 19-23, does not require that the controller own any shares in the corporation being considered. Therefore, the definition of “group of persons” in paragraph 256(1.2)(*a*) is restricted in its application to subsections 256(1) to (5) and does not apply for the purposes of subsection 256(5.1).
+
+### Simultaneous Control of a Corporation – Paragraph 256(1.2)(b)
+
+**¶ 26.** Paragraph 256(1.2)(*b*) provides that a corporation can be considered to be controlled by a person or particular group of persons notwithstanding that the corporation is also controlled or deemed to be controlled by another person or group of persons. Thus, if Mr. X controls a corporation *de jure* and Mr. Y controls the same corporation *de facto*, the corporation is considered, by virtue of paragraph 256(1.2)(*b*), to be controlled by each of Mr. X and Mr. Y. Paragraph 256(1.2)(*b*) also provides that if a group of persons owns shares of the capital stock of a corporation, the fact that an individual member of the group, alone, owns enough shares to control the corporation will not alter the fact that the group also controls the corporation.
+
+***Example***
+
+Mr. A and Mr. B constitute a group that controls both Corporation A and Corporation B by virtue of paragraph 256(1.2)(*b*), even though each corporation is also controlled by one person. Therefore, the corporations are associated with each other under paragraph 256(1)(*b*) because they are controlled by the same group of persons.
+
+### CONTROL OF TWO CORPORATIONS BY RELATED PERSONS OR RELATED GROUPS OF PERSONS – PARAGRAPHS 256(1)(c), (d) AND (e)
+
+**¶ 27.** Paragraphs 256(1)(*c*), (*d*), and (*e*) contain rules that cause corporations to be associated with each other if they are controlled, directly or indirectly in any manner whatever, by related persons or related groups of persons and certain cross-ownership tests are met. For the meaning of “related persons”, see subsection 251(2). The term “related group” is defined in subsection 251(4) to mean a group of persons each member of which is related to every other member of the group.
+
+Two corporations are associated with each other under paragraph 256(1)(*c*) if the following conditions exist:
+
+- Each corporation is controlled, directly or indirectly in any manner whatever, by a person.
+
+- The person controlling one of the corporations is related to the person controlling the other corporation.
+
+- Either of those two persons owns at least 25 per cent of the issued shares of any class—other than a “specified class” (this term is discussed immediately after the final example in this paragraph)—of the capital stock of each corporation.
+
+***Example***
+
+Paragraph 256(1)(d) provides a rule that is similar to the above-mentioned rule under paragraph 256(1)(c). Under paragraph 256(1)(d), two corporations are associated with each other if the following conditions exist:
+
+- One of the corporations is controlled, directly or indirectly in any manner whatever, by a person.
+
+- That person:
+
+    - is related to each member of a group of persons which controls, directly or indirectly in any manner whatever, the other corporation; and
+
+    - owns at least 25 per cent of the issued shares of any class—other than a “specified class” (discussed below after the final example)—of the capital stock of that other corporation.
+
+***Example***
+
+Paragraph 256(1)(*e*) provides another similar rule to those discussed above. Under paragraph 256(1)(*e*), two corporations are associated with each other if the following conditions exist:
+
+- Each corporation is controlled, directly or indirectly in any manner whatever, by a related group.
+
+- Each member of one related group is related to all the members of the other related group.
+
+- One or more persons who are members of both related groups own, in total, at least 25 per cent of the issued shares of any class—other than a “specified class” (discussed below after the example)—of the capital stock of each corporation.
+
+***Example***
+
+Shares of a “specified class” as discussed above are defined in subsection 256(1.1) and must have all the following characteristics:
+
+(a) The shares are not convertible or exchangeable.
+
+(b) The shares are non-voting.
+
+(c) The dividends are calculated as a fixed amount or by reference to a fixed percentage of the fair market value of the consideration for which the shares were issued.
+
+(d) The annual dividend rate cannot in any event exceed the following:
+
+(i) where the shares were issued after 1983, the prescribed rate of interest at the time the shares were issued; and
+
+(ii) where the shares were issued before 1984, the rate of interest prescribed for the purposes of subsection 161(1) at the time the shares were issued.
+
+(e) The shares cannot be redeemed, cancelled or acquired for more than the fair market value of the consideration for which the shares were issued plus any unpaid dividends on such shares.
+
+The dividends on shares of a specified class need not be cumulative. Furthermore, if the dividends are cumulative, the fact that the shareholders forfeit their entitlement to a particular dividend—e.g., because of corporate law constraints or because of insufficient profits or cash flow— will not prevent the shares from qualifying as a specified class of shares.
+
+Since a share that is issued as a stock dividend is issued for no consideration, it cannot qualify as a share of a specified class because it cannot satisfy characteristic (e) above.
+
+### ADDITIONAL RULES THAT CAN DETERMINE OWNERSHIP OF SHARES, OR CONTROL, OF A CORPORATION
+
+### Deemed Control by the Fair Market Value Test – Paragraph 256(1.2)(c)
+
+**¶ 28.** For the purposes of the association rules in subsections 256(1) to (5), paragraph 256(1.2)(*c*) deems a person or group of persons to control a corporation where the person or group:
+
+(a) owns shares representing more than 50 per cent of the fair market value of all the issued and outstanding shares of the capital stock of a corporation; or
+
+(b) owns common shares representing more than 50 per cent of the fair market value of all the issued and outstanding common shares of the capital stock of the corporation.
+
+For purposes of making this valuation, paragraph 256(1.2)(*g*) provides that voting rights shall be ignored. As well, subsection 256(1.6) provides that shares described (and during the applicable time referred to) in paragraph (*e*) of the definition of “term preferred shares” in subsection 248(1), and shares of a “specified class” as defined in subsection 256(1.1) (see ¶ 27), shall be disregarded.
+
+### Deemed Ownership of Shares by the “Look-Through” Rules – Paragraphs 256(1.2)(d) to (f)
+
+#### Introduction
+
+**¶ 29.** Paragraphs 256(1.2)(*d*), (*e*), and (*f*) provide rules that apply to “look through” corporations, partnerships and trusts. The rules deem shares owned by a corporation, partnership or trust to be owned by the shareholders of the corporation (see ¶ 30), the members of the partnership (see ¶ 31) or beneficiaries of the trust (see ¶ 32), respectively.
+
+#### Looking through a corporation – Paragraph 256(1.2)(d)
+
+**¶ 30.** Where a corporation owns (or is deemed by subsection 256(1.2) to own) shares of a second corporation, paragraph 256(1.2)(*d*) deems those shares to be owned by any shareholder of the first corporation in proportion to the fair market value of their shareholding in the first corporation. In determining the fair market value of shares of a corporation for purposes of applying the look-through rules, all issued and outstanding shares of the capital stock of the corporation are deemed by paragraph 256(1.2)(*g*) to be non-voting.
+
+***Example***
+
+Paragraph 256(1.2)(*d*) deems Mr. A to own 25 per cent of Opco 2. As a result, Opco 1 and Opco 2 are associated with each other under paragraph 256(1)(*c*) (see ¶ 27).
+
+#### Looking through a partnership – Paragraph 256(1.2)(e)
+
+**¶ 31.** Similarly, where shares of a corporation are the property of (or are deemed by subsection 256(1.2) to be owned by) a partnership, paragraph 256(1.2)(*e*) looks through the partnership and deems the shares to be owned by the partnership's members in proportion to their respective income interests in the partnership. If both the income and loss of the partnership in a fiscal period are nil, so that a member's income interest cannot be determined, paragraph 256(1.2)(*e*) further provides that the member's proportionate income interest is to be determined as if the partnership had income of $1,000,000 in that period.
+
+***Example***
+
+Assuming Mr. A, B, C and D are equal partners in ABCD Partnership, each will be deemed by paragraph 256(1.2)(*e*) to own 10 per cent of the shares of Corporation B. Therefore, Corporation A and Corporation B will be associated with each other under paragraph 256(1)(*e*) because both corporations are controlled by Mr. A.
+
+#### Looking through a trust – Paragraph 256(1.2)(f)
+
+**¶ 32.** Paragraph 256(1.2)(*f*) provides the look-through rule for shares of a corporation that are owned (or deemed by subsection 256(1.2) to be owned) by a trust. It deems the shares to be owned by beneficiaries of the trust (and possibly also by a person from whom property was received by the trust). The percentage of the shares that a particular beneficiary is deemed to own depends on the type of trust. The general rules are as follows:
+
+(a) Where a beneficiary's share of income or capital of the trust is subject to any discretionary power (such a trust being referred to hereafter as a “discretionary” trust), each such beneficiary is deemed to own all the shares held by the trust.
+
+(b) Where the trust is not a discretionary trust, each beneficiary is deemed to own shares in proportion to the fair market value of that beneficiary's beneficial interest in the trust.
+
+(c) An exception to the rules in (a) and (b) occurs where:
+
+- the trust is a testamentary trust;
+
+- one or more of its beneficiaries (referred to hereafter as the “initial income beneficiaries”) are entitled to receive all the income of the trust before the date on which the death of one or all of them has occurred (the “distribution date”); and
+
+- prior to that date no other person (e.g., a beneficiary who is solely a capital beneficiary, or a person who will become an income beneficiary only upon the occurrence of the distribution date) can receive or obtain the use of the income or capital of the trust.
+
+If all these conditions exist, shares held by the trust are deemed to be owned only by the initial income beneficiaries before the distribution date. Whether any particular initial income beneficiary is deemed to own all, or only a proportion of, the shares will depend on whether the trust is discretionary or not discretionary as described in (a) and (b), respectively. After the distribution date, the rule in (a) or (b), as the case may be, applies with respect to all the beneficiaries, including those that are solely capital beneficiaries.
+
+(d) Where a trust is one referred to in subsection 75(2) of the Act, such as a “reversionary” trust, the person from whom property of the trust was received is also deemed to own the shares.
+
+The result of the application of paragraph 256(1.2)(*f*) is that more than one person can be deemed to own the same shares at the same time. In addition, paragraph 256(1.2)(*f*) does not negate the fact that the shares are actually held by the trustees of the trust. Thus, control of a corporation, the majority of whose voting shares are owned by a trust, will rest with the trustee or group of trustees that can bind the trust (see *MNR v. Consolidated Holding Company Limited,* 72 DTC 6007, [1972] CTC 18 (S.C.C.)).
+
+***Example***
+
+Since X's children are the beneficiaries of the discretionary trust, they are each deemed by subparagraph 256(1.2)(*f*)(ii) to own all of the shares of Corporation B that are owned by the trust. Therefore, since each one of X's children controls Corporation B, Corporation A and Corporation B are associated with each other under paragraph 256(1)(*c*) (see ¶ 27). Also, since X's uncle is the sole trustee of the trust, he will control Corporation B. Therefore, Corporation B and Corporation C will be associated with each other under paragraph 256(1)(*b*). Corporation A and Corporation C will also be associated with each other by virtue of subsection 256(2) (assuming one of the two exceptions described in ¶ 8 does not apply).
+
+#### Looking through a chain
+
+**¶ 33.** A person at the top of a chain can be deemed to own a proportion of the shares of a corporation at the bottom of the chain, by applying the rules in subsection 256(1.2) sequentially from one level of the chain to the next. Furthermore, there will be simultaneous ownership or deemed ownership of some shares (or some percentage of shares) of the corporation at the bottom of the chain by different individuals, corporations, partnerships or trusts at different levels of the chain.
+
+***Example***
+
+Corporation Y has only common shares, 95% of which are owned by Corporation X.
+
+Corporation X has only common shares, 95% of which are owned by Partnership AB. Under paragraph 256(1.2)(*d*), Partnership AB is deemed to own 90.25% (i.e., 95% × 95%) of the shares of Corporation Y.
+
+Trust A is a member of Partnership AB and is entitled to 90% of its income. Under paragraph 256(1.2)(*e*), Trust A is deemed to own 81.225% (i.e., 90% × 90.25%) of the shares of Corporation Y.
+
+Corporation A is the sole beneficiary of Trust A. Under paragraph 256(1.2)(*f*), Corporation A is deemed to own 81.225% (i.e., 100% × 81.225%) of the shares of Corporation Y.
+
+Corporation A has only common shares, 75% of which are owned by Mr. A. Under paragraph 256(1.2)(*d*), Mr. A is deemed to own 60.91875% (i.e., 75% × 81.225%) of the shares of Corporation Y.
+
+Therefore, in accordance with the principle discussed in ¶ 17, Mr. A has *de jure* control of Corporation Y.
+
+### Parent Deemed to Own Shares of Child – Subsection 256(1.3)
+
+**¶ 34.** Subsection 256(1.3) provides that shares of a corporation owned by a child under the age of 18 shall be deemed to be owned by a parent of the child for the purposes of determining whether the corporation is associated with any other corporation that is controlled, directly or indirectly in any manner whatever, by that parent or a group that includes that parent. An exception to subsection 256(1.3) is provided where the child manages the business and affairs of the corporation without a significant degree of influence by the parent.
+
+The following example illustrates the operation of the look-through rules in paragraph 256(1.2)(*f*) (see ¶ 32) in conjunction with the rules in subsection 256(1.3).
+
+***Example***
+
+Corporation A is controlled by Mr. X and Corporation B is controlled by an *inter vivos* trust for the benefit of his two children who are under 18 years of age. The children are income and capital beneficiaries of the trust. The provisions of paragraph 256(1.2)(*f*) will apply to deem the children to own the shares of Corporation B. Since the provisions of paragraph 256(1.2)(*f*) are applicable for the purposes of subsections 256(1) to (5), subsection 256(1.3) would then apply to deem Mr. X to own those shares deemed to be owned by the children and thus Corporation A and Corporation B would be associated with each other under paragraph 256(1)(*b*) because they are controlled by the same person, Mr. X.
+
+### Options or Rights – Subsection 256(1.4)
+
+#### Effect of option
+
+**¶ 35.** Subsection 256(1.4) provides two special rules, for the purposes of the association rules, which deem a person, or a partnership in which the person has an interest (the “partnership”), to own shares of a corporation in which the person or partnership holds certain options or rights.
+
+Under the first rule—which is in paragraph 256(1.4)(*a*)—if the person or partnership has a right, under a contract, in equity or otherwise, to acquire shares in a corporation or to control the voting rights of shares in a corporation, the shares are deemed to be issued and outstanding and to be owned by the person or partnership.
+
+Under the second rule—which is in paragraph 256(1.4)(*b*)—if the person or partnership has a right to cause a corporation to redeem, acquire or cancel shares of its capital stock owned by other shareholders, the person or partnership is deemed to have the same position in relation to control of the corporation and ownership of shares of its capital stock as if the shares were redeemed, acquired or cancelled by the corporation.
+
+Neither paragraph 256(1.4)(*a*) nor 256(1.4)(*b*) applies, however, with respect to a right that is not exercisable until the death, bankruptcy or permanent disability of an individual. For example, paragraph 256(1.4)(*a*) would not apply to a right that the person or partnership has under a survivorship agreement to acquire shares of a corporation.
+
+#### Convertible securities
+
+**¶ 36.** If bonds, debentures or preferred stock of a corporation are convertible into voting shares, subsection 256(1.4) may apply because of the “right” of the owners of those securities to make the conversion. However, whether it will be applied can depend upon their distribution. Thus, if such securities have been issued to the general public and have wide distribution, they may usually be ignored. However, if large numbers of them are concentrated in the hands of, say, four or five persons, the situation will be examined because they may be used as a device so that the real control of the corporation will not be apparent simply from an examination of the shareholdings. A similar situation can exist, also, when a person has a right in some other form to subscribe for voting shares.
+
+#### Buy-sell agreements
+
+**¶ 37.** Although the wording in subsection 256(1.4) may be broad enough to include almost any buy-sell agreement, this subsection will not normally be applied solely because of:
+
+- a “right of first refusal”; or
+
+- a “shotgun arrangement” (i.e. an arrangement under which a shareholder offers to purchase the shares of another shareholder and the other shareholder must either accept the offer or purchase the shares owned by the offering party)
+
+contained in a shareholder agreement.
+
+#### Simultaneous control and deemed control
+
+**¶ 38.** If subsection 256(1.4) does apply, it is possible for each of two separate and unrelated persons to be regarded, for the purposes of the Act, as having control of the same corporation at the same time. For example, one person could have control by means of direct ownership of shares and the other could have control as a result of the application of one of the rules in subsection 256(1.4). This provision prevents a person who really controls a corporation from giving the appearance of divesting control by “selling” the controlling shares to some other person while retaining an option to repurchase them.
+
+Subsection 256(1.4) does not deny that actual control is held by the person who holds it. If it did so, it would be possible for a person or other entity which controls a corporation to give the appearance of divesting itself of control by giving to some other person or other entity an option that will never be exercised.
+
+***Example***
+
+Mr. S has actual control of Corporations A and X.
+
+Mr. J, who controls Corporation Y, has an option to purchase from Mr. S, during his lifetime or from his estate, the controlling shares in Corporation A.
+
+In these circumstances, subsection 256(1.4) deems Mr. J to have control of Corporation A but does not deny Mr. S the actual control of it.
+
+As a result:
+
+- Corporations A and X are related (see subparagraph 251(2)(*c*)(i)) and are deemed not to deal with each other at arm's length (see paragraph 251(1)(*c*));
+
+- Corporations A and Y are related (see subparagraph 251(2)(*c*)(i)) and are deemed not to deal with each other at arm's length (see paragraph 251(1)(*a*));
+
+- Corporations X and Y are related (see subsection 251(3)) and are deemed not to deal with each other at arm's length (see paragraph 251(1)(*a*)); and
+
+- all three corporations are associated with each other under the provisions of section 256 (see ¶s 2 and 8).
+
+If, however, Mr. J's option had been exercisable only after Mr. S's death, bankruptcy or permanent disability, Mr. J would not be deemed to have control of Corporation A, because of the exceptions in subsection 256(1.4), in which case only Corporations A and X would be associated with each other.
+
+### Simultaneous Control at Different Levels of a Corporate Chain – Subsections 256(6.1) and (6.2)
+
+**¶ 39.** It is possible for there to be simultaneous ownership of the same shares of a corporation, or simultaneous control of the corporation, by different persons or groups of persons in the manner described in ¶ 26, 34 or 38.
+
+In addition, in a situation involving a corporate chain (e.g., where the shares of a corporation are held by one or more other corporations the shares of which, in turn, are held by one or more other corporations), there can be simultaneous ownership of the same shares of the corporation at the bottom of the chain by different entities at different levels of the chain in the manner described in ¶ 33. Furthermore, *de jure* control can exist at the top of the chain (see ¶ 17 and the reference therein to the *Vineland Quarries* case). However, in *Parthenon Investments Limited v. MNR*, 97 DTC 5343, [1997] 3 CTC 152, the Federal Court of Appeal held that a particular corporation at the bottom of a corporate chain was controlled by the corporation at the top of the chain and not by any intermediate corporation for the purposes of determining whether the particular corporation was a Canadian-controlled private corporation.
+
+Subsections 256(6.1) and (6.2), which took effect for taxation years beginning after November 1999, reverse the principle in the *Parthenon* case described above. Although subsections 256(6.1) and (6.2) apply for purposes of the association rules in section 256, the existing rules in subsection 256(1.2) are sufficient, in most cases, to establish control by one or more persons or groups of persons, thus ensuring the proper application of the association rules. However, in determining control of a corporation for the purposes of the association rules, subsection 256(1.2) and subsections 256(6.1) and (6.2) should be considered.
+
+## Bulletin Revisions
+
+Since the issuance of IT-64R4 on August 14, 2001, there has been no revision to ¶s 1 to 36 or ¶s 38 and 39.
+
+¶ 37 was modified to reflect the revised wording adopted in ¶ 17 of IT-419R2. ¶ 37 deals with subsection 256(1.4) which is almost identical to paragraph 251(5)(*b*) as discussed in ¶ 17 of IT-419R2. [October 13, 2004]

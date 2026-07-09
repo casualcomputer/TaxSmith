@@ -1,0 +1,187 @@
+Title: Johnson c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30613/index.do
+Corpus path: corpus/cases/tcc/2011/2011-cci-540-30613-johnson-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2011-11-24
+
+# Johnson c. La Reine
+
+- Citation: 2011 CCI 540
+- Decision date: 2011-11-24
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7136, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Johnson c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2011-11-24
+Référence neutre
+2011 CCI 540
+Numéro de dossier
+2009-3460(IT)G
+Juges et Officiers taxateurs
+Judith Woods
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2009-3460(IT)G
+ENTRE :
+DONNA M. JOHNSON,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu les 14 et 15 mars 2011, à Toronto (Ontario)
+Devant : L'honorable juge Judith Woods
+Comparutions :
+Avocat de l'appelante :
+Me Ryan Morris
+Avocate de l'intimée :
+Me Justine Malone
+JUGEMENT
+L'appel relatif aux cotisations établies au titre de la Loi de l'impôt sur le revenu pour les années d'imposition 2002 et 2003 est accueilli, et les cotisations sont déférées au ministre du Revenu national pour nouvel examen et nouvelles cotisations, au motif que les montants reçus d'Andrew Lech ne sont pas à inclure dans le revenu de l'appelante. Celle‑ci a droit à ses dépens.
+Signé à Ottawa (Ontario), ce 24e jour de novembre 2011.
+« J. M. Woods »
+Le juge Woods
+Traduction certifiée conforme
+ce 25e jour de janvier 2012.
+Yves Bellefeuille, réviseur
+Référence : 2011 CCI 540
+Date : 20111124
+Dossier : 2009-3460(IT)G
+ENTRE :
+DONNA M. JOHNSON,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Woods
+[1] Vers 1997, l'appelante, Donna Johnson, a commencé à faire des placements avec un certain Andrew Lech, et ses rendements ont été extraordinaires. Plusieurs années plus tard, on s'est toutefois rendu compte que M. Lech n'était pas le gourou de la bourse pour lequel il se faisait passer.
+[2] L'appelante a été victime d'une fraude pyramidale classique, pour laquelle M. Lech a été condamné à une longue peine d'emprisonnement. De nombreux investisseurs ont avancé des fonds à M. Lech, mais la majeure partie de cet argent n'a jamais été investie. M. Lech ne faisait que brasser les fonds entre les investisseurs. L'appelante a reçu à son insu des fonds obtenus d'autres personnes.
+[3] Au moins 237 autres investisseurs, des États‑Unis et du Canada, ont été impliqués dans cette fraude. Cent trente‑deux d'entre eux ont fait l'objet d'une vérification de l'Agence du revenu du Canada. Au moins 32 avaient reçu plus d'argent qu'ils n'en avaient investi (ci‑après appelés les « investisseurs gagnants »), mais de nombreux autres s'étaient sans aucun doute fait plumer (les « investisseurs perdants »).
+[4] L'appelante, qui faisait partie des investisseurs gagnants, a été l'objet de cotisations établies au titre de la Loi de l'impôt sur le revenu pour les gains réalisés grâce à la fraude. Pour les années d'imposition 2002 et 2003, ces cotisations ont porté sur le montant total qu'elle avait reçu de M. Lech, moins le montant qu'elle lui avait payé (les « rentrées nettes »). Ces montants, qui ne sont pas contestés, s'élèvent à 614 000 $ et à 702 000 $ pour les années d'imposition 2002 et 2003, respectivement.
+[5] Il y a deux questions à trancher dans le présent appel. Premièrement, les rentrées nettes constituent‑elles un revenu tiré d'une source pour l'application de l'alinéa 3a) de la Loi? Deuxièmement, les cotisations, qui ont été établies après la période normale de nouvelle cotisation, sont‑elles prescrites?
+Les faits
+[6] Pendant toute la période en cause, l'appelante a vécu à Peterborough (Ontario), où Andrew Lech avait grandi.
+[7] L'appelante a travaillé comme infirmière autorisée jusqu'aux années 1990. Elle aidait également son époux, qui était ministre baptiste. Depuis 1982, le couple dirigeait un ministère itinérant.
+[8] Vers 1997, l'une des bonnes amies de l'appelante, Liz Wakeford, lui a parlé d'une occasion de placement.
+[9] Mme Wakeford, qui avait de l'expérience dans le domaine immobilier, avait fait de fructueux placements grâce à M. Lech. Elle a offert d'agir comme intermédiaire de façon à ce que l'appelante puisse en faire de même.
+[10] L'appelante a été convaincue de participer. Elle n'avait jamais rencontré M. Lech, mais elle le connaissait à cause de ses liens avec l'église et d'autres activités à Peterborough. De plus, l'appelante avait confiance dans le jugement de Mme Wakeford en matière financière.
+[11] Les quelques premiers placements qui ont été faits par l'entremise de Mme Wakeford ont donné les résultats prévus.
+[12] Après quelques mois, M. Lech est entré directement en contact avec l'appelante. Il lui a parlé d'une stratégie d'opérations sur options et il lui a donné l'occasion d'y participer. Il a dit que l'argent serait investi dans des options et qu'il lui paierait le profit réalisé, moins une commission. L'appelante a été incitée à croire que les placements étaient sûrs et qu'il n'y avait aucun risque de perdre le capital.
+[13] Après que sa banque eut confirmé qu'il était possible de tirer d'intéressants profits d'opérations sur options, l'appelante a donné son accord et a remis à M. Lech un premier montant d'environ 10 000 $.
+[14] Le projet a bien fonctionné et l'appelante a commencé à faire affaire avec M. Lech de façon régulière, une fois par semaine ou à peu près.
+[15] Le système était simple. Pour chaque investissement censément fait, l'appelante remettait par chèque un montant de capital à M. Lech et, en même temps, celui‑ci lui remettait des chèques postdatés représentant le remboursement du capital étalé sur une période de huit à dix semaines, plus un élément de profit inclus dans le dernier chèque.
+[16] L'entente s'est poursuivie jusqu'au 10 avril 2003, date à laquelle la banque de M. Lech a commencé à avoir des soupçons et a décidé de bloquer son compte. L'appelante venait tout juste de remettre de l'argent à M. Lech et elle n'a pas pu encaisser les chèques qu'il lui avait faits.
+[17] La preuve n'indique pas quel est le rendement en pourcentage que l'appelante a réalisé grâce à cette fraude, mais celui‑ci a été considérable. Il semble que l'appelante, après une contribution initiale de 10 000 $ environ, a fini par obtenir des rendements de plus de 1 300 000 $ dans les années qui ont suivi.
+[18] Dans un exposé conjoint des faits qui a été déposé dans l'instance pénale engagée contre M. Lech, il est indiqué que, juste avant l'effondrement de la fraude, certains investisseurs s'étaient vu payer un rendement de 40 p. 100 sur trois mois.
+[19] M. Lech a déclaré à l'appelante et à d'autres investisseurs qu'il n'était pas nécessaire de déclarer les placements dans les déclarations de revenus. Il a dit qu'il gérait un vaste fonds en fiducie appartenant à sa famille et que l'argent des investisseurs y était intégré. L'impôt, disait‑il, avait déjà été payé.
+[20] En l'an 2000, l'appelante a demandé à M. Lech de confirmer cela par écrit. La déclaration suivante a été rédigée par l'appelante et signée par M. Lech :
+[TRADUCTION]
+Je, Andrew Lech, déclare et atteste que, pour tous les placements financés par Donna M. Johnson, tous les montants à payer pour les besoins de l'impôt sur le revenu sont et ont été payés par l'intermédiaire du compte de la fiducie familiale des Lech, dont je suis le gestionnaire financier. Il n'est pas nécessaire que Donna M. Johnson ou sa famille immédiate déclare des revenus de placement qui seront de nouveau imposés.
+[21] Selon un document semblable, établi par l'appelante et signé par M. Lech, l'argent de l'appelante était détenu en fiducie et, en cas de décès de M. Lech, il devait être remis à celle‑ci.
+[22] À part ces déclarations, M. Lech n'a fourni aucun autre document au sujet des placements. L'appelante tenait ses propres registres. L'explication de M. Lech à propos de l'intégration des fonds dans une fiducie familiale lui permettait vraisemblablement d'éviter d'avoir à fournir des documents, car la présumée fiducie était une affaire familiale privée.
+[23] Après le blocage de son compte bancaire en avril 2003, M. Lech a eu une réunion avec des investisseurs et leur a dit qu'ils ne pouvaient pas encaisser immédiatement leurs chèques à cause d'un léger problème administratif à la banque.
+[24] Vers cette époque, un groupe d'investisseurs a introduit un recours collectif contre M. Lech. L'appelante a eu connaissance du recours éventuel aux environs du mois de mai 2003 et elle a été interrogée par l'avocat du groupe en décembre 2003. Elle a également participé au recours.
+[25] Une enquête policière sur l'affaire a duré environ trois ans, et l'appelante a été interrogée par la police vers 2005. M. Lech a plaidé coupable en 2007.
+[26] Une vérification judiciaire des activités de M. Lech a permis de découvrir que les investisseurs avaient donné plus de 45 000 000 $. La quasi‑totalité des fonds n'avaient jamais été investis, mais avaient simplement été déplacés entre divers comptes bancaires et payés à d'autres investisseurs. M. Lech se faisait aider par des intermédiaires, qui faisaient affaire avec un grand nombre des investisseurs.
+[27] Une fois que le compte bancaire de M. Lech a été bloqué, l'appelante s'est dit que, grâce à ce qu'elle avait appris de lui, elle possédait les connaissances voulues pour reproduire sa stratégie d'opérations sur options. C'est ainsi qu'elle a commencé à acheter elle‑même des options en 2003. Ses placements ont été fructueux, semble‑t‑il, pendant un certain temps, mais, en 2008, elle a perdu la quasi‑totalité de ses économies.
+[28] Les investisseurs perdants auraient peut‑être pu avoir un droit d'action en restitution contre l'appelante, mais ils ne s'en sont jamais prévalus (Re Titan Investments Limited Partnership, 2005 ABQB 637, Den Haag Capital, LLC v. Correia, 2010 ONSC 5339).
+[29] L'appelante n'a pas fait état dans ses déclarations de revenus des placements qu'elle avait faits avec M. Lech. Elle a établi elle‑même sa déclaration pour l'année d'imposition 2002. Pour l'année d'imposition 2003, elle a retenu les services d'un comptable pour l'aider à déclarer ses propres activités en matière d'opérations sur options.
+[30] En contre‑interrogatoire, l'appelante a reconnu qu'elle ne se souvenait pas avoir mentionné les placements avec M. Lech au comptable. Elle a témoigné avoir eu confiance en M. Lech et avoir cru que l'impôt avait été payé par l'intermédiaire de la fiducie.
+Les rentrées nettes constituent-elles un revenu tiré d'une source?
+a) Les positions des parties
+[31] L'appelante prétend que les rentrées nettes ne sont pas assujetties à l'impôt, parce qu'il n'existe pas de source de revenu. Son avocat a fait référence au commentaire suivant du juge Noël, dans l'arrêt Hammill c. La Reine, 2005 CAF 252 :
+[28] Une affaire qui s'avère frauduleuse du début à la fin (ou, si l'on veut, une « arnaque ») ne peut donner naissance à une source de revenu du point de vue de la victime, et donc ne peut être considérée comme une entreprise, quelque définition qu'on donne de ce terme. [...]
+[32] Même si ce commentaire concerne une victime de fraude, l'avocat de l'appelante estime qu'il s'applique quand même à l'appelante, car elle a participé à son insu à une fraude.
+[33] L'intimée soutient que les rentrées nettes peuvent être qualifiées de revenu tiré d'une source, conformément aux principes décrits dans l'arrêt R. c. Cranswick, [1982] 1 C.F. 813 (C.A.F.). L'argument est résumé au paragraphe 20 des observations écrites de son avocate :
+[TRADUCTION]
+Dans le cas présent, la liste des facteurs pertinents qui est dressée dans Cranswick n'amène pas à conclure que les montants nets que l'appelante a reçus de M. Lech étaient des gains fortuits. L'appelante a fourni du capital à M. Lech et elle s'attendait à ce que cet argent génère un revenu. Elle a fait des efforts pour recevoir les paiements, elle s'attendait à recevoir ces paiements et les a recherchés, les paiements constituaient la contrepartie du capital qu'elle lui avait fourni, et les paiements ont été gagnés par suite de la poursuite de profit de la part de l'appelante et de M. Lech.
+b) Analyse
+[34] Aux termes de l'alinéa 3a) de la Loi, les contribuables sont assujettis à l'impôt sur le revenu tiré d'une source. Le texte de cette disposition est le suivant :
+3. Pour déterminer le revenu d'un contribuable pour une année d'imposition, pour l'application de la présente partie, les calculs suivants sont à effectuer :
+a) le calcul du total des sommes qui constituent chacune le revenu du contribuable pour l'année (autre qu'un gain en capital imposable résultant de la disposition d'un bien) dont la source se situe au Canada ou à l'étranger, y compris, sans que soit limitée la portée générale de ce qui précède, le revenu tiré de chaque charge, emploi, entreprise et bien;
+[...]
+[Non souligné dans l'original.]
+[35] La démarche qu'il convient de suivre pour appliquer cette disposition a été décrite par le juge LeDain, dans l'arrêt Cranswick, à la page 820 :
+[...] En l'absence d'une définition législative expresse qui élargisse la portée de la notion de revenu tiré d'une source spécifique, je me dois de conclure que le revenu provenant d'une source est celui qui est habituellement gagné au moyen de cette source ou que l'on s'attend habituellement à tirer de cette source. [...]
+[36] Le juge LeDain a également cité, en y souscrivant, une liste de critères pertinents que l'avocat de M. Cranswick (l'intimé) avait fournie. Cette liste est reproduite aux pages 818 et 819 de la décision :
+a) L'intimé ne possédait aucun droit d'action à l'égard de ce paiement;
+b) L'intimé n'a fait aucun effort soutenu pour obtenir ce paiement;
+c) L'intimé n'a ni recherché ni sollicité ce paiement de quelque façon que ce soit;
+d) L'intimé ne s'attendait pas à recevoir ce paiement ni expressément, ni selon l'usage;
+e) Il n'a nullement été prévu que ce paiement aurait une suite;
+f) Ce paiement ne venait pas d'une source habituelle de revenus pour l'intimé;
+g) Ce paiement ne constituait ni la contrepartie ni la reconnaissance de biens, de services ou de quoi que ce fût, fournis ou à fournir par l'intimé; il n'a pas été gagné par l'intimé par suite de quelque activité ou poursuite de profit, ni de quelque autre manière.
+[37] Il est difficile d'appliquer ces principes en l'espèce. D'une part, les rendements que l'appelante a réalisés présentent effectivement certaines caractéristiques d'un revenu tiré d'une source, en ce sens que l'appelante a fourni le capital à M. Lech et qu'elle a effectivement reçu quelque chose en retour. D'autre part, il y avait en réalité très peu de liens entre le capital et les rentrées nettes. Dans l'ensemble, je ne suis pas convaincue qu'il y ait un lien suffisant entre le capital et les rentrées nettes pour qu'il soit justifié de conclure que c'est le capital qui est la source.
+[38] Premièrement, rien n'a été véritablement gagné grâce au capital. L'appelante a pensé que le capital était investi, mais ce n'était pas vrai. Les rentrées nettes n'étaient rien de plus qu'un brassage d'argent entre participants innocents. La nature des rentrées nettes devrait refléter ce qu'elles étaient en réalité, et non pas simplement ce que l'appelante croyait qu'elles étaient.
+[39] De plus, les rentrées nettes n'étaient pas versées en règlement de l'entente que l'appelante avait conclue avec M. Lech. Cette entente consistait à payer à l'appelante les gains réalisés à la suite du placement de ses fonds. M. Lech n'avait aucune intention de respecter cette entente.
+[40] Pour arriver à cette conclusion, j'ai tenu compte du fait que l'entente conclue entre M. Lech et l'appelante n'était pas un emprunt. Le fait que M. Lech ait remis des chèques postdatés à l'appelante donne l'impression qu'il s'agissait d'une relation prêteur‑emprunteur, mais il a reconnu par écrit que l'entente était une fiducie. Au vu de cette documentation, je ne conclurais pas que l'entente était un emprunt.
+[41] La conclusion est également étayée par les critères énoncés dans Cranswick :
+a) L'appelante possédait‑elle un droit d'action contre M. Lech à l'égard des rentrées nettes? La réponse est non. L'appelante avait un droit juridique à ce que le capital soit investi en son nom. Elle n'avait pas un droit juridique aux rentrées nettes.
+b) L'appelante a‑t‑elle fait un effort soutenu pour obtenir les rentrées nettes? La réponse est non. L'appelante s'est efforcée de recevoir les rendements des placements et non des fonds obtenus frauduleusement.
+c) L'appelante a‑t‑elle recherché ou sollicité les paiements? La réponse est non. L'appelante n'a ni recherché ni sollicité des fonds obtenus frauduleusement.
+d) Était‑il prévu que les rentrées nettes auraient une suite? Des paiements ont été faits à l'appelante pendant un temps prolongé, mais celle‑ci n'était pas au courant de leur nature. La véritable nature des paiements n'était pas prévisible.
+e) M. Lech était‑il une source habituelle de revenus? Pour la même raison, M. Lech n'était pas une source habituelle de revenus. Il était une source habituelle de quelque chose, mais il ne s'agissait pas de revenus.
+f) Les montants ont‑ils été gagnés ou payés à titre de contrepartie? M. Lech n'aurait pas fait les paiements à l'appelante si elle ne lui avait pas fourni des fonds, mais je ne pense pas qu'on puisse dire avec raison que les rentrées nettes aient été gagnées ou payées en reconnaissance de cela. Il n'y avait pas d'entente de la part de M. Lech. Ce dernier n'a pas payé les rentrées nettes à titre de contrepartie.
+[42] J'aurais quelques autres observations à faire. Premièrement, j'ai conclu que l'entente entre M. Lech et l'appelante n'était pas un emprunt. Il est inutile que j'examine si, dans un tel cas, les rendements constitueraient un revenu. Cette question devrait être remise à plus tard.
+[43] Deuxièmement, l'intimée n'a pas laissé entendre que les rentrées nettes constituaient, pour l'appelante, un revenu d'entreprise. Il est admis qu'elle ne faisait pas partie de l'entreprise illégale que M. Lech exploitait.
+[44] Je ferais également un bref commentaire sur l'application possible du principe de la substitution, bien que les parties ne l'aient pas invoqué. Ce principe est généralement appliqué dans les cas où l'on paie à un contribuable un montant à la place d'un revenu en vertu d'un droit juridique : Schwartz c. Canada, [1996] 1 R.C.S. 254, au paragraphe 45. En l'espèce, le principe de la substitution ne s'applique pas, car l'appelante n'a pas été payée en vertu d'un droit juridique.
+[45] Pour ces motifs, j'ai conclu que les rentrées nettes ne constituent pas un revenu tiré d'une source.
+[46] Cela suffit pour trancher l'appel. Cependant, je vais aussi examiner brièvement si les cotisations seraient prescrites si les rentrées nettes constituaient un revenu tiré d'une source.
+Les cotisations sont‑elles prescrites?
+[47] L'appelante n'a pas fait état des rentrées nettes dans ses déclarations de revenus, et les cotisations qui s'y rapportent ont été établies au-delà de la période normale de nouvelle cotisation. Le ministre ne peut donc pas inclure ces rentrées dans le revenu de l'appelante, sauf si leur non‑déclaration est une présentation erronée faite par négligence, inattention ou omission volontaire.
+[48] Le texte de la disposition applicable, le sous‑alinéa 152(4)a)(i) de la Loi, est le suivant :
+152(4) Le ministre peut établir une cotisation, une nouvelle cotisation ou une cotisation supplémentaire concernant l'impôt pour une année d'imposition, ainsi que les intérêts ou les pénalités, qui sont payables par un contribuable en vertu de la présente partie ou donner avis par écrit qu'aucun impôt n'est payable pour l'année à toute personne qui a produit une déclaration de revenu pour une année d'imposition. Pareille cotisation ne peut être établie après l'expiration de la période normale de nouvelle cotisation applicable au contribuable pour l'année que dans les cas suivants :
+a) le contribuable ou la personne produisant la déclaration :
+(i) soit a fait une présentation erronée des faits, par négligence, inattention ou omission volontaire, ou a commis quelque fraude en produisant la déclaration ou en fournissant quelque renseignement sous le régime de la présente loi,
+[...]
+[49] Pour savoir s'il y a eu présentation erronée, il faut déterminer si une erreur a été commise dans les déclarations. Si les rentrées nettes peuvent être qualifiées de revenu, ce que l'on présume pour les besoins de la présente analyse, il y a eu présentation erronée par omission de déclarer ces rentrées.
+[50] L'appelante soutient qu'il ne peut pas y avoir de présentation erronée, parce que la question de savoir si les rentrées nettes sont un revenu ou non est discutable. Certes, la question est discutable, mais cela n'aide pas l'appelante. À l'époque pertinente, l'appelante ignorait que le stratagème était frauduleux. Elle pensait avoir tiré un revenu d'opérations sur options.
+[51] La question suivante consiste à savoir si la non‑inclusion de ces montants dans les déclarations était imputable à de la négligence, à une inattention ou à une omission volontaire.
+[52] Disons tout d'abord que l'obligation de déclarer convenablement son revenu est un fondement du régime fiscal. Les contribuables qui font preuve d'inattention en omettant de faire une déclaration appropriée ne bénéficient pas de la protection qu'offre la période ordinaire de prescription concernant les nouvelles cotisations.
+[53] La question centrale qui se pose ici est de savoir si l'appelante a fait preuve d'inattention en se fiant au dire de M. Lech selon lequel l'impôt avait été payé et il n'était pas nécessaire de déclarer le revenu.
+[54] À mon avis, il y a une différence cruciale entre les deux années d'imposition en cause.
+[55] À l'époque où la déclaration de revenus pour 2002 était à produire, le compte bancaire de M. Lech venait tout juste d'être bloqué. J'admets que jusqu'à ce moment‑là, l'appelante n'a pas fait preuve d'inattention en se fiant aux déclarations de M. Lech selon lesquelles il n'était pas nécessaire de déclarer les rendements des placements. Elle se fiait à M. Lech qui, au dire de tous, était fort convaincant, et elle avait l'appui de ses coinvestisseurs de Peterborough, qui croyaient la même chose.
+[56] À l'époque où il a fallu produire la déclaration de revenus pour 2003, la situation était très différente. À la fin de 2003, M. Lech n'était plus actif. La banque avait cessé d'encaisser ses chèques, un recours collectif était en préparation et l'appelante avait été interrogée par l'avocat qui représentait les investisseurs dans le recours collectif.
+[57] L'appelante a déclaré que le recours collectif, dont elle faisait partie, ne lui a pas fait comprendre qu'il s'agissait d'une fraude pure et simple. Les investisseurs n'intentaient une poursuite que pour ravoir leur argent. Elle continuait d'avoir confiance en M. Lech, a‑t‑elle déclaré, et ce n'est que quand la police l'a interrogée en 2005 ou en 2006 qu'elle a commencé à avoir des doutes. Comme elle l'a dit, M. Lech avait tenu les promesses qu'il lui avait faites dans le passé, et elle avait donc de bonnes raisons de lui faire confiance.
+[58] À mon avis, il était évident à ce stade qu'il y avait de sérieuses questions à se poser au sujet d'Andrew Lech. Le fait que l'appelante n'ait pas analysé avec plus de soin le comportement de M. Lech, y compris ses déclarations à propos de l'impôt, était de l'inattention. Si l'appelante avait agi de manière prudente à l'égard de l'obligation de déclarer son revenu comme il le fallait, elle aurait commencé à poser des questions bien plus tôt.
+[59] Je ferais également remarquer que l'appelante m'a fait l'impression d'être assez habile en affaires. Les deux confirmations écrites que l'appelante a rédigées pour que M. Lech les signe en sont un exemple. Il s'agit de documents relativement complexes.
+[60] Je conclus que la cotisation relative à l'année d'imposition 2003 n'est pas prescrite, contrairement à la cotisation relative à l'année d'imposition 2002.
+Conclusion
+[61] En définitive, l'appel relatif aux cotisations concernant les années d'imposition 2002 et 2003 est accueilli. L'appelante a droit à ses dépens.
+Signé à Ottawa (Ontario), ce 24e jour de novembre 2011.
+« J. M. Woods »
+Le juge Woods
+Traduction certifiée conforme
+ce 25e jour de janvier 2012.
+Yves Bellefeuille, réviseur
+RÉFÉRENCE : 2011 CCI 540
+NO DU DOSSIER DE LA COUR : 2009-3460(IT)G
+INTITULÉ : DONNA M. JOHNSON c. SA MAJESTÉ LA REINE
+LIEU DE L'AUDIENCE : Toronto (Ontario)
+DATES DE L'AUDIENCE : Les 14 et 15 mars 2011
+MOTIFS DU JUGEMENT : L'honorable juge J. M. Woods
+DATE DU JUGEMENT : Le 24 novembre 2011
+COMPARUTIONS :
+Avocat de l'appelante :
+Me Ryan Morris
+Avocate de l'intimée :
+Me Justine Malone
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelante :
+Nom : Ryan Morris
+Cabinet : McMillan S.E.N.C.R.L., s.r.l.
+Toronto (Ontario)
+Pour l'intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa (Ontario)

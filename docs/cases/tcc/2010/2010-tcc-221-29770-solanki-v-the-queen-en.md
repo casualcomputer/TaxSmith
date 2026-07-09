@@ -1,0 +1,154 @@
+---
+title: "Solanki v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29770/index.do"
+last_modified: "2010-04-23"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 TCC 221"
+citation2: ""
+neutral_citation: "2010 TCC 221"
+decision_date: "2010-04-23"
+language: "en"
+item_id: "29770"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6516
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T02:25:25.462000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "b90e46a0e5132b196ed859bd8fd4abd8ebb90f7f61e68c3f44bed3d0b968c967"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Solanki v. The Queen
+
+- Citation: 2010 TCC 221
+- Decision date: 2010-04-23
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6516, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Solanki v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-04-23
+Neutral citation
+2010 TCC 221
+File numbers
+2010-4(IT)I
+Judges and Taxing Officers
+Judith Woods
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2010-4(IT)I
+BETWEEN:
+ATUL A. SOLANKI,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on April 21, 2010 at Toronto, Ontario
+By: The Honourable Justice Judith Woods
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Khashayar Haghgouyan
+____________________________________________________________________
+JUDGMENT
+The appeals with respect to assessments made under the Income Tax Act for the 2002, 2003, 2004 and 2005 taxation years are quashed.
+The appeals with respect to assessments made under the Income Tax Act for the 2006 and 2007 taxation years are dismissed.
+Each party shall bear their own costs.
+Signed at Toronto, Ontario this 23rd day of April 2010.
+“J. M. Woods”
+Woods J.
+Citation: 2010 TCC 221
+Date: 20100423
+Docket: 2010-4(IT)I
+BETWEEN:
+ATUL A. SOLANKI,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Woods J.
+[1] The issue in this appeal is whether Mr. Atul Solanki, the appellant, is entitled to a personal credit in relation to the care of his elderly parents. The appeal relates to taxation years from 2002 to 2007, inclusive.
+[2] A personal credit in respect of the care of relatives is provided for in paragraph 118(1)(c.1) of the Income Tax Act. In general, the relevant part of the paragraph grants a personal credit in respect of the maintenance of parents over the age of 65 in circumstances where the parents live with the taxpayer in a residence maintained by the taxpayer.
+[3] Paragraph 118(1)(c.1) is reproduced below, with the relevant part emphasized:
+118(1) For the purpose of computing the tax payable under this Part by an individual for a taxation year, there may be deducted an amount determined by the formula
+A x B
+where
+A is the appropriate percentage for the year, and
+B is the total of,
+[…]
+(c.1) in the case of an individual who, at any time in the year alone or jointly with one or more persons, maintains a self-contained domestic establishment which is the ordinary place of residence of the individual and of a particular person
+(i) who has attained the age of 18 years before that time,
+(ii) who is
+(A) the individual's child or grandchild, or
+(B) resident in Canada and is the parent, grandparent, brother, sister, aunt, uncle, nephew or niece of the individual or of the individual's spouse or common-law partner, and
+(iii) who is
+(A) the individual's parent or grandparent and has attained the age of 65 years before that time, or
+(B) dependent on the individual because of the particular person's mental or physical infirmity,
+the amount determined by the formula
+$15,453 - D.1
+where
+D.1 is the greater of $11,953 and the particular person's income for the year,
+[4] Counsel for the respondent acknowledges that the circumstances are sympathetic, but submits that the appellant is not entitled to the credit because he did not reside with his parents in the relevant years.
+[5] Further, the respondent submits that the appeals for the 2002, 2003, 2004 and 2005 taxation years should be quashed on the basis that timely notices of objection were not served as required by subsection 169(1).
+[6] The facts are not in dispute.
+[7] In respect of the procedural issue, the appellant concedes that he did not file timely notices of objection for the 2002, 2003, 2004 and 2005 taxation years. He testified that he only became aware of the tax credit recently.
+[8] As for the facts relating to the credit itself, the appellant has maintained his elderly and infirm parents in a condominium since 2002. Prior to that time, the appellant lived in the condominium and his parents lived elsewhere. In 2002, the appellant and his family moved to a nearby residence and the appellant’s parents began to reside in the condominium. The appellant has paid and continues to pay all the expenses of the residence.
+[9] The appellant’s new home, where he lives with his immediate family and in-laws, is a two-story townhouse that is not suitable for his parents who are in poor health.
+[10] In addition to maintaining the condominium, the appellant takes care of his parents’ needs of day to day living, which are very substantial given their poor state of health.
+[11] The appellant also visits his parents on a daily basis, either after work or in the evening, to provide companionship and care.
+[12] It is obvious from the evidence that the appellant's parents require a great deal of assistance and that the appellant has made great sacrifices to provide this.
+[13] Unfortunately for the appellant, though, the legislation requires that his parents reside with him.
+[14] In light of the purpose of s. 118(1)(c.1), the residence requirement should be given a compassionate interpretation. However, I cannot reasonably interpret the provision so that the residence requirement is satisfied in this case.
+[15] It is clear from the evidence that the appellant and his parents did keep separate residences even though the appellant visited on a daily basis and occasionally slept there as required.
+[16] Parliament has required that the credit be given only where the parents actually reside with the taxpayer. The policy behind this is not clear, although ease of administration may be one factor.
+[17] The disallowance of the credit in this case is a harsh result. However, Parliament has provided for a residence requirement, and that is clearly their prerogative to do so.
+[18] The appeal will be dismissed on that basis. As for the taxation years from 2002 to 2005, the appeals for these years will be quashed because timely notices of objection were not served.
+Signed at Toronto, Ontario this 23rd day of April 2010.
+“J. M. Woods”
+Woods J.
+CITATION: 2010 TCC 221
+COURT FILE NO.: 2010-4(IT)I
+STYLE OF CAUSE: ATUL A. SOLANKI and
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: April 21, 2010
+REASONS FOR JUDGMENT BY: The Honourable Justice J. M. Woods
+DATE OF JUDGMENT: April 23, 2010
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Khashayar Haghgouyan
+COUNSEL OF RECORD:
+For the Appellant:
+Name: N/A
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada

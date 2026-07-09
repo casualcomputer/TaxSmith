@@ -1,0 +1,138 @@
+---
+title: "Welch c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30978/index.do"
+last_modified: "2012-10-05"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2012 CCI 350"
+citation2: ""
+neutral_citation: "2012 CCI 350"
+decision_date: "2012-10-05"
+language: "fr"
+item_id: "30978"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4793
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T14:21:57.817000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "1662a6048b2097d96c1252314ecc5f73b1ea2a37abdf1b3a08da37d67e534b24"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Welch c. La Reine
+
+- Citation: 2012 CCI 350
+- Decision date: 2012-10-05
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4793, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Welch c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2012-10-05
+Référence neutre
+2012 CCI 350
+Numéro de dossier
+2011-3330(IT)I
+Juges et Officiers taxateurs
+Wyman W. Webb
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2011-3330(IT)I
+ENTRE :
+VICKI ANNE WELCH,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 28 septembre 2012, à Hamilton (Ontario).
+Devant : L’honorable juge Wyman W. Webb
+Comparutions :
+Pour l’appelante :
+L’appelante elle‑même
+Avocat de l’intimée :
+Me Christopher M. Bartlett
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté par l’appelante est accueilli, sans frais, pour tenir compte du fait que le montant total qu’elle a reçu en 2009 à titre de pension alimentaire s’élevait à 11 200 $, et non à 12 000 $, et l’affaire est renvoyée au ministre du Revenu national pour nouvel examen et nouvelle cotisation, au motif que le montant total que l’appelante a reçu à titre de pension alimentaire en 2009 était de 11 200 $.
+Signé à Ottawa, Canada, ce 5e jour d’octobre 2012.
+« Wyman W. Webb »
+Juge Webb
+Traduction certifiée conforme
+ce 20e jour de novembre 2012.
+Alya Kaddour, traductrice
+Référence : 2012CCI350
+Date : 20121005
+Dossier : 2011-3330(IT)I
+ENTRE :
+VICKI ANNE WELCH,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Webb
+[1] En l’espèce, la question est de savoir si l’appelante devait inclure dans le calcul de son revenu pour 2009, aux fins de l’application de la Loi de l’impôt sur le revenu (la « Loi »), des montants qu’elle a reçus à titre de pension alimentaire pour conjoint, et ce, malgré le fait que son ex‑époux n’a pas demandé à déduire ces montants de son propre revenu et que l’appelante et son ex‑époux ont convenu qu’ils demanderaient à la Cour supérieure de justice de l’Ontario de rendre une ordonnance confirmant que l’appelante n’avait pas à inclure ces montants dans le calcul de son revenu aux fins de l’application de la Loi. Dans la nouvelle cotisation qui a été établie à l’égard de l’appelante, un montant de 12 000 $ a été inclus dans le calcul du revenu de celle‑ci à titre de pension alimentaire pour conjoint reçue en 2009. L’appelante a affirmé avoir examiné ses relevés bancaires et constaté que le montant total qu’elle a reçu en 2009 s’élevait à 11 200 $. L’avocat de l’intimée a convenu que le montant correct de la pension alimentaire versée à l’appelante pour 2009 devait être de 11 200 $, et non de 12 000 $.
+[2] Quand l’appelante et son ex‑époux se sont séparés, le montant de la pension alimentaire pour conjoint a été établi en fonction des gains de l’ex‑époux à l’époque de la séparation. Malheureusement, ce dernier a perdu son emploi et a ensuite pris du retard dans ses paiements. L’appelante et son ex‑époux ont convenu que celui‑ci ne déduirait pas de son revenu le montant qu’il avait payé à titre de pension alimentaire pour conjoint pour 2009 et que l’appelante n’inclurait pas ce montant dans le calcul de son revenu pour 2009, aux fins de l’application de la Loi. Cette entente devait avoir fait l’objet d’une ordonnance de la Cour supérieure de justice de l’Ontario à la fin du mois de mars 2010. Toutefois, l’avocat qui travaillait sur ce dossier n’a présenté l’ordonnance pour signature que quelque temps plus tard. Il m’apparaît que la question de savoir quand cette ordonnance a été signée importe peu. Une ordonnance rendue par la Cour supérieure de justice de l’Ontario ne peut pas modifier les exigences de la Loi, peu importe que cette ordonnance ait été signée en mars 2010 ou plus tard. Les parties ne peuvent pas non plus s’entendre entre elles pour changer ce qui doit par ailleurs être inclus dans le calcul du revenu de l’appelante en application de la Loi.
+[3] L’alinéa 56(1)b) de la Loi est ainsi rédigé :
+b) Le total des montants représentant chacun le résultat du calcul suivant :
+A – (B + C)
+où :
+A représente le total des montants représentant chacun une pension alimentaire que le contribuable a reçue après 1996 et avant la fin de l’année d’une personne donnée dont il vivait séparé au moment de la réception de la pension,
+B le total des montants représentant chacun une pension alimentaire pour enfants que la personne donnée était tenue de verser au contribuable aux termes d’un accord ou d’une ordonnance à la date d’exécution ou postérieurement et avant la fin de l’année relativement à une période ayant commencé à cette date ou postérieurement,
+C le total des montants représentant chacun une pension alimentaire que le contribuable a reçue de la personne donnée après 1996 et qu’il a incluse dans son revenu pour une année d’imposition antérieure;
+[4] Le terme « pension alimentaire » est défini au paragraphe 56.1(4) de la Loi de la manière suivante :
+« pension alimentaire » Montant payable ou à recevoir à titre d’allocation périodique pour subvenir aux besoins du bénéficiaire, d’enfants de celui-ci ou à la fois du bénéficiaire et de ces enfants, si le bénéficiaire peut utiliser le montant à sa discrétion et, selon le cas :
+a) le bénéficiaire est l’époux ou le conjoint de fait ou l’ex-époux ou l’ancien conjoint de fait du payeur et vit séparé de celui-ci pour cause d’échec de leur mariage ou union de fait et le montant est à recevoir aux termes de l’ordonnance d’un tribunal compétent ou d’un accord écrit;
+b) le payeur est légalement le père ou la mère d’un enfant du bénéficiaire et le montant est à recevoir aux termes de l’ordonnance d’un tribunal compétent rendue en conformité avec les lois d’une province.
+[5] Il est clair que l’appelante recevait une allocation périodique pour subvenir à ses besoins et qu’elle pouvait utiliser ce montant à sa discrétion. La définition de « pension alimentaire » et l’exigence selon laquelle les montants reçus à titre de pension alimentaire doivent être inclus dans le calcul du revenu du contribuable ne laissent pas aux particuliers le choix de décider s’ils incluront ces montants dans le calcul de leur revenu ou non. Si le montant que l’appelante a reçu lui a été versé à titre de pension alimentaire (et non de pension alimentaire pour enfants) comme la définit le paragraphe 56.1(4) de la Loi, l’appelante est tenue d’inclure ce montant dans le calcul de son revenu. Les particuliers ne peuvent pas s’entendre pour ne pas inclure de tels montants dans le calcul de leur revenu, pas plus qu’ils ne peuvent s’entendre pour ne pas inclure dans ce calcul d’autres montants qui doivent être pris en considération en application de la Loi. Seul le Parlement peut modifier l’exigence selon laquelle les montants reçus à titre de pension alimentaire doivent être inclus dans le calcul du revenu du contribuable; cela ne peut pas se faire au moyen d’un accord conclu entre l’appelante et son ex‑époux ou d’une ordonnance de la Cour supérieure de justice de l’Ontario (peu importe quand cette ordonnance a été signée).
+[6] Par conséquent, l’appel interjeté par l’appelante est accueilli, sans frais, pour tenir compte du fait que le montant total qu’elle a reçu en 2009 à titre de pension alimentaire s’élevait à 11 200 $, et non à 12 000 $, et l’affaire est renvoyée au ministre du Revenu national pour nouvel examen et nouvelle cotisation, au motif que le montant total que l’appelante a reçu à titre de pension alimentaire en 2009 était de 11 200 $.
+Signé à Ottawa, Canada, ce 5e jour d’octobre 2012.
+« Wyman W. Webb »
+Juge Webb
+Traduction certifiée conforme
+ce 20e jour de novembre 2012.
+Alya Kaddour, traductrice
+RÉFÉRENCE : 2012 CCI 350
+NO DU DOSSIER DE LA COUR : 2011-3330(IT)I
+INTITULÉ : Vicki Anne Welch c. Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Hamilton (Ontario)
+DATE DE L’AUDIENCE : Le 28 septembre 2012
+MOTIFS DU JUGEMENT : L’honorable juge Wyman W. Webb
+DATE DU JUGEMENT : Le 5 octobre 2012
+COMPARUTIONS :
+Pour l’appelante :
+L’appelante elle‑même
+Avocat de l’intimée :
+Me Christopher M. Bartlett
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Cabinet :
+Pour l’intimée : Myles J. Kirvan
+Sous‑procureur général du Canada
+Ottawa, Canada

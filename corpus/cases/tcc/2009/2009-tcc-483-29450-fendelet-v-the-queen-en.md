@@ -1,0 +1,160 @@
+---
+title: "Fendelet v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29450/index.do"
+last_modified: "2009-09-29"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 TCC 483"
+citation2: ""
+neutral_citation: "2009 TCC 483"
+decision_date: "2009-09-29"
+language: "en"
+item_id: "29450"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6941
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T00:54:49.691000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "10c91bc5d3f5bb2285781e411b44a9161d9b72f8139466e8c358832440487f67"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Fendelet v. The Queen
+
+- Citation: 2009 TCC 483
+- Decision date: 2009-09-29
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6941, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Fendelet v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2009-09-29
+Neutral citation
+2009 TCC 483
+File numbers
+2008-1936(IT)I
+Judges and Taxing Officers
+Judith Woods
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2008-1936(IT)I
+BETWEEN:
+DONNA FENDELET,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Motion heard on September 3 and 18, 2009 at Toronto, Ontario
+By: The Honourable Justice Judith Woods
+Appearances:
+Agent for the Appellant:
+Dan F. White
+Counsel for the Respondent:
+Jenny P. Mboutsiadis
+____________________________________________________________________
+ORDER
+UPON application by the respondent for an Order of this Court that this appeal be heard under the Tax Court of Canada Act (General Procedure);
+IT IS ORDERED THAT:
+1. Pursuant to section 18.3002 of the Tax Court of Canada Act, the provisions of sections 17.1 to 17.8 of that Act apply in respect of this appeal;
+2. The appellant shall file a notice of appeal in Form 21(1)(a) of the Rules within 60 days of the date of this Order; and
+3. The respondent shall file a reply to the notice of appeal in accordance with section 49 of the Rules within 60 days of the receipt of the above-referenced notice of appeal.
+Each party shall bear their own costs of this application.
+Signed at Ottawa, Canada this 29th day of September 2009.
+“J. M. Woods”
+Woods J.
+Citation: 2009 TCC 483
+Date: 20090929
+Docket: 2008-1936(IT)I
+BETWEEN:
+DONNA FENDELET,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Woods J.
+[1] The Attorney General of Canada has brought an application for an order that the Tax Court of Canada Rules (General Procedure) apply to this appeal.
+[2] The appeal relates to assessments issued under the Income Tax Act for the 1995, 1996 and 1997 taxation years.
+[3] In her notice of appeal, the appellant elected for the informal procedure to apply. It is questionable whether this election was valid for two of the three taxation years because it appears that the amounts at issue exceed the $12,000 limit provided for in section 18(1) of the Tax Court of Canada Act (the “TCCA”).
+[4] The appellant was represented at the hearing by Dan F. White of FDW Accounting.
+[5] The appellant objects to the respondent’s application. According to Mr. White, the appellant cannot afford a lawyer for this litigation and he stated that he is not charging any fees for his representation as an agent.
+[6] Further, Mr. White informed the Court that the appellant is willing to limit the amount at issue for each taxation year to $12,000.
+Discussion
+[7] The Attorney General brings the application pursuant to subsections 18.11(1) and (2) of the TCCA. These subsections provide:
+18.11 (1) The Court may order, on application of the Attorney General of Canada, that sections 17.1 to 17.8 apply in respect of an appeal referred to in section 18.
+(2) The Court shall grant an application under subsection (1) where
+(a) the outcome of the appeal is likely to affect
+(i) any other appeal of the appellant, or
+(ii) any other assessment or proposed assessment of the appellant, whether or not that assessment or proposed assessment relates to the same taxation year; and
+(b) the aggregate of all amounts
+(i) in issue in the appeal,
+(ii) likely to be affected in the other appeal referred to in subparagraph (a)(i), and
+(iii) likely to be affected in the other assessment or proposed assessment referred to in subparagraph (a)(ii),
+exceeds $12,000.
+[8] Counsel for the respondent, Ms. Mboutsiadis, submits that the Court is required pursuant to subsection 18.11(2) to grant the application. The question, then, is whether the two requirements of this provision are satisfied. Each will be discussed separately below.
+[9] The first requirement is in paragraph 18.11(2)(a). In essence it requires that the outcome of the appeal for one of the taxation years is likely to affect the outcome in the other appeals.
+[10] Ms. Mboutsiadis submits that the requirement is satisfied because the issues are the same for all taxation years, that is, whether a partnership called the Softcom Solutions Partnership carried on a computer software business and whether certain computer software was acquired to gain or produce income.
+[11] Although I was provided with very little factual background relating to the appeal, it does appear from the notice of confirmation and the notice of appeal that certain issues are common to all taxation years. Mr. White did not disagree with this.
+[12] The relevant parts of the notice of appeal read:
+Paragraph three of the Notice of Confirmation states that the Softcom Solutions Partnership failed to demonstrate that it carried on the computer software business with a reasonable expectation of profit:
+Paragraph four of the Notice of Confirmation states that the Softcom Solutions Partnership did not acquire the computer software to gain or produce income.
+Paragraph five of the Notice of Confirmation states that the computer software was not available for use during 1995, 1996 or 1997 taxation years.
+Paragraph six of the Notice of Confirmation states that the partnership did not deal at arm’s length with the vendor of the software.
+[13] I conclude, therefore, that the condition in s. 18.11(2)(a) of the TCCA is satisfied.
+[14] I now turn to the requirement in s. 18.11(2)(b). It requires that the aggregate of the following exceed $12,000: (1) the amounts at issue for one taxation year and, (2) the amounts likely to be affected for other taxation years.
+[15] Ms. Mboutsiadis submits that the amounts at issue are as follows: $13,935.75 for 1995, $16,844.13 for 1996, and $1,961.73 for 1997.
+[16] These amounts, even if limited to $12,000 for each year, would satisfy the requirement in s. 18.11(2)(b). Mr. White did not disagree with this.
+[17] As a result, I conclude that the two conditions in s. 18.11(2) are satisfied and that the Attorney General of Canada has the right to require that the general procedure apply.
+[18] I would also comment that it may be appropriate for the appeal to proceed under the general procedure in any event. The litigation appears to be relatively complex and discoveries would likely be helpful.
+[19] Further, I am informed that several other persons have similar appeals pending in respect of the same partnership. Mr. White indicated that the appellant’s circumstances are different from these other persons. This is a further reason that discoveries would be helpful.
+[20] On the other hand, I am sympathetic to the potential costs of this litigation relative to the amounts at issue. I note that Justice Bonner of this Court referred to this issue in a paper presented in 1991 at the British Columbia Tax Conference sponsored by the Canadian Tax Foundation. The relevant excerpt reads:
+[…] There is an exception to the general rule that it is the taxpayer who has, subject only to monetary limits, the choice whether the general or informal procedure is to apply. Section 18.11 authorizes the Court upon the application of the Attorney General to order that sections 17.1 to 17.8, that is to say the general procedure, shall apply. The Court is required to grant the application where the outcome of the appeal is likely to affect another appeal of the Appellant or another assessment of the Appellant or the issue is common to a group or class of persons. It is to be hoped that this will be used sparingly. After all if the Minister errs once by assessing tax at a dollar level which entitles the taxpayer to proceed informally that entitlement should not disappear simply because the Minister repeats his error in one or two assessments for subsequent years. Many people are of the view that the dollar limits are way too low. The Governor-in-council may raise the $7,000.00 and $14,000.00 limits to $12,000.00 and $24,000.00 respectively under section 18.27 of the Act, but there are many who think that those limits would still be too low. The legal work involved in representing an Appellant under the general procedure is usually considerable and expensive and it would be extremely unfortunate if it turns out that only the wealthy can afford to contest a tax assessment.
+[21] In light of this concern, I would suggest that if the appellant has questions relating to the correct procedure under the Rules, she may contact the hearings coordinator to request a conference call with a case management judge.
+[22] In the result, the application by the respondent will be granted. An order will be issued for the appeals of all three taxation years to be subject to the general procedure.
+[23] Each party shall bear their own costs in respect of this application.
+Signed at Ottawa, Canada this 29th day of September 2009.
+“J. M. Woods”
+Woods J.
+CITATION: 2009 TCC 483
+COURT FILE NO.: 2008-1936(IT)I
+STYLE OF CAUSE: DONNA FENDELET and
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATES OF HEARING: September 3 and 18, 2009
+REASONS FOR ORDER BY: The Honourable Justice J. M. Woods
+DATE OF ORDER: September 29, 2009
+APPEARANCES:
+Agent for the Appellant:
+Dan F. White
+Counsel for the Respondent:
+Jenny P. Mboutsiadis
+COUNSEL OF RECORD:
+For the Appellant:
+Name: N/A
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

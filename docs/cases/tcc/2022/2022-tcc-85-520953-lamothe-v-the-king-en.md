@@ -1,0 +1,214 @@
+---
+title: "Lamothe v. The King"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/520953/index.do"
+last_modified: "2022-07-27"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2022 TCC 85"
+citation2: ""
+neutral_citation: "2022 TCC 85"
+decision_date: "2022-07-27"
+language: "en"
+item_id: "520953"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4514
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2024-04-10T10:07:44.707000+00:00"
+cases_cited_count: 9
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "a11a108b72e955931cbcadd499359fe8f254ffaec1ed08caeea7460b1c96b063"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Lamothe v. The King
+
+- Citation: 2022 TCC 85
+- Decision date: 2022-07-27
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4514, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Lamothe v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2022-07-27
+Neutral citation
+2022 TCC 85
+File numbers
+2018-1918(GST)G
+Judges and Taxing Officers
+Gabrielle St-Hilaire
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2018-1918(GST)G
+BETWEEN:
+DAVID LAMOTHE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+___________________________________________________________________
+Appeal heard on February 16, 2022, at Montréal, Quebec
+Before: The Honourable Justice Gabrielle St-Hilaire
+Appearances:
+Counsel for the Appellant:
+Diane Lafond
+Counsel for the Respondent:
+Éric Labbé
+__________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under Part IX of the Excise Tax Act, the notice of which is dated November 7, 2016, and bears number F‑065245, is dismissed with costs in favour of the respondent, in accordance with the attached reasons for judgment.
+Signed at Ottawa, Canada, this 27th day of July 2022.
+“Gabrielle St-Hilaire”
+St-Hilaire J.
+Translation certified true
+on this 5th day of September.
+Melissa Paquette, Jurilinguist
+Citation: 2022 TCC 85
+Date: 20220727
+Docket: 2018-1918(GST)G
+BETWEEN:
+DAVID LAMOTHE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+St-Hilaire J.
+I. Introduction
+[1] The appellant, David Lamothe, is appealing from an assessment made by the Agence du revenu du Québec on behalf of the Minister of National Revenue (the “Minister”) under Part IX of the Excise Tax Act.[1] The Minister found the appellant liable for the tax debt of 9252‑5591 Québec Inc. (“9252”) with respect to amounts of net tax that it was required to remit for quarterly periods ending between June 30, 2012, and May 6, 2014, inclusive, namely, a total amount of $54,341.37.
+[2] 9252 was incorporated in February 2008 and was cancelled ex officio in 2017. At the time relevant to this case, 9252 had a majority shareholder, Alexandre Lamothe, who was also its director while his brother, the appellant, was identified as the president under the heading [translation] “Officers who are not members of the board of directors”[2] in the Quebec enterprise register.
+[3] 9252 ran a cleaning business. The appellant testified to knowing about this type of business. Indeed, he had been the director and majority or sole shareholder of a number of corporations operating cleaning businesses, including the following: 9225‑3897 Québec Inc.,[3] 9292‑4513 Québec Inc.[4] and 9205‑6381 Québec Inc.[5] He stated that his role in 9252 was to make bank deposits, find new clients for his brother and pay the subcontractors and employees. The appellant was adamant that he was not the director of 9252.
+II. Issue [4] The issue in this case is whether the appellant was a director at the time that 9252 was required to remit an amount of net tax payable by it and whether he could therefore be held jointly and severally liable to pay the amount owing.
+[5] In particular, I must determine whether, regardless of the fact that the appellant was not a duly elected director of 9252, he was still acting as a de facto director and could therefore be held liable for the amounts that 9252 failed to remit.
+III. Positions of the parties Appellant’s position
+[6] The appellant was not a de jure director of 9252. In addition, the appellant argues that the evidence does not support the conclusion that he was a de facto director of 9252. He states that he did not take any management actions on behalf of 9252, nor did he represent himself as a director. In his view, co‑signing to open a bank account, making bank deposits, signing cheques, finding clients and paying suppliers and employees are the actions of an officer and do not make him a de facto director of 9252. According to the appellant, this is a situation of one brother wanting to help the other. Therefore, he cannot be held liable for the amounts owed by 9252 in accordance with subsection 323(1) of the Act.
+[7] I note that notwithstanding the fact that subsection 323(3) of the Act sets out a diligence defence, the appellant confined his submissions to the issue of his capacity as a director.
+Position of the respondent
+[8] The respondent submits that the evidence shows that the appellant was a de facto director of 9252. The actions taken, that is, his involvement in the opening of the bank account and in banking activities, his signature on the cheques issued by 9252 and his relationship with the Chèque Express cashing centre, to name a few, are sufficient to find that he was a de facto director in the circumstances of this case. The respondent argues that these actions are sufficient in the circumstances given that 9252 is a shell, a corporation that does not have any assets, that does not carry out any business activities and that is presumed to be the issuer of false invoices; however, there are no management actions in the traditional sense.
+IV. Analysis [9] Subsection 323(1) of the Act imposes personal liability as well as joint and several liability on the directors of a corporation who have failed to remit amounts of net tax. In this case, the appellant does not dispute that 9252 failed to remit amounts of net tax as required by the Act. As is necessary pursuant to subsection 323(2), a certificate for the amount of 9252’s liability was registered in the Federal Court under section 316 of the Act.[6] Furthermore, as the nulla bona return shows, execution for the amount owing was returned unsatisfied by 9252.[7]
+[10] Subsection 323(1) of the Act provides as follows:
+If a corporation fails to remit an amount of net tax as required under subsection 228(2) or (2.3) or to pay an amount as required under section 230.1 that was paid to, or was applied to the liability of, the corporation as a net tax refund, the directors of the corporation at the time the corporation was required to remit or pay, as the case may be, the amount are jointly and severally, or solidarily, liable, together with the corporation, to pay the amount and any interest on, or penalties relating to, the amount.
+[11] I note that section 323 of the Act is similar to section 227.1 of the Income Tax Act (the “ITA”),[8] with the result that the case law dealing with section 227.1 of the ITA applies to section 323 of the Act without distinction.
+[12] In Canada v. Corsano,[9] which deals with section 227.1 of the ITA, the Federal Court of Appeal stated that by using the term “directors” without qualifications, “Parliament intended the word to cover all types of directors known to the law in company law, including, amongst others, de jure and de facto directors” (emphasis added). The same conclusion applies to section 323 of the Act. A person acting as a director without being elected to or eligible for a director position cannot escape the obligations imposed by the ITA or the Act.[10]
+[13] In this case, Alexandre Lamothe is the only person identified as a director of 9252 according to the statement of information of a legal person in the Quebec enterprise register dated October 30, 2017.[11] The respondent did not argue that the appellant was a de jure director during the relevant period or at any other time. The appellant can be held liable for the amounts owed by 9252 only if he was a de facto director. For the reasons that follow, I conclude that he was one.
+[14] The appellant testified that his brother, Alexandre Lamothe, had asked him to help him open a bank account because his credit report [translation] “was not good”. He therefore went to TD Bank with his brother, and they signed a business banking services agreement.[12] The appellant made the bank deposits for 9252 and helped his brother solicit business. He indicated that he paid subcontractors or employees, although he stated that he had no idea how many employees 9252 had.[13] The appellant claimed that he did what his brother asked him to do.
+[15] The appellant asserted that he was an employee and that he was paid by cheque. However, none of the cheques entered into evidence were made out to the appellant.[14] During his testimony, the appellant claimed that he did not recall how much income he earned as a 9252 employee.
+[16] Jayson Savard, who was a Revenu Québec auditor at the time relevant to this case, performed the audit of 9252. Mr. Savard explained how he carried out the audit. He stated that 9252 did not cooperate and that he did not have access to the financial statements or other documentation for 9252. In addition, from the time that the appellant and his brother were involved in 9252, that is, as of October 18, 2011, the corporation had not filed any income tax returns—just sales tax returns. Mr. Savard therefore proceeded by examining the amounts of the cheques cashed at TD Bank and the Chèque Express cashing centre.
+[17] According to a document dated September 9, 2011, and on the appellant’s recommendation, Alexandre Lamothe became client number 88 at the Chèque Express cashing centre. On October 19, 2011, Alexandre Lamothe signed a power of attorney authorizing the appellant to present cheques for cashing at Chèque Express.[15] Mr. Savard testified that 9252 cashed a total of $871,356 at the Chèque Express cashing centre and a total of $188,451 at TD Bank.[16] The appellant stated that he did not remember having cashed cheques at the Chèque Express cashing centre.
+[18] During his testimony, Mr. Savard stated that he was unable to confirm that 9252 had actually provided services. The address of 9252 was that of the accounting office; 9252 did not declare any employees and had no assets.[17] According to him, it was a shell. Mr. Savard indicated that during a conversation with the appellant, the appellant denied being the president of 9252 or having been involved in any way with that corporation.
+[19] In light of the information collected concerning the appellant’s actions and the absence of any other information about the actions taken by Alexandre Lamothe, Mr. Savard concluded that the appellant was a director of 9252.
+[20] Karen Lavoie, who was a Revenu Québec collection officer at the time relevant to this case, concluded, like Mr. Savard, that the appellant was a director of 9252. She focused on the appellant’s actions and on the fact that these were the only actions taken by 9252.
+[21] As mentioned above, at times, the appellant was a de jure director of other corporations. I heard testimony from Étienne Marcoux, who is now a unit head at Revenu Québec and who was an auditor at the time relevant to this case. He audited two of these corporations, namely, 9205‑6381 Québec Inc. (9205) and 9225‑3897 Québec Inc. (9225).
+[22] At times, the appellant was the sole shareholder and director of 9205. During his testimony, the appellant stated that he did not recall this corporation and that it did not sound familiar to him even after he was reminded that this corporation had previously run his business under the business name “Les entretiens ménagers David Lamothe”. On cross‑examination, in response to the question as to whether he had previously been in contact with an auditor in regard to 9205, he replied that he did not know. However, Mr. Marcoux had met with the appellant in the presence of his counsel during the audit of 9205. Mr. Marcoux testified that 9205 did not have a place of business, assets, employees or cleaning supplies purchases. He concluded that 9205 was a corporation that issued false invoices.
+[23] Mr. Marcoux testified that he audited 9225 at the same time as 9205. The appellant stated that he was the sole director and sole shareholder of 9225.[18] Mr. Marcoux testified that the appellant stated that he was a front man and that his sole role had been to cash and disburse cheques. During the audit, the appellant indicated that the only work undertaken for 9225 was to purchase sanitation products and make bank transactions. Mr. Marcoux testified that 9225 did not have any assets and had not declared any employees. He drew the same conclusion as that drawn for 9205, that is, that 9225 was a corporation that issued false invoices.
+[24] In numerous decisions, this Court has been called upon to decide on the tests that can be applied to determine whether a person is a de facto director. The following two tests have been established and applied repeatedly: (i) the person has usurped the duties of a director by taking actions that are normally reserved for directors; and (ii) the person has represented himself or herself to third parties as a director of the corporation.[19]
+[25] Counsel for the appellant argues that in order for the appellant to be considered a de facto director, there would have to have been evidence that he took management actions, in this case, evidence that he [translation] “managed the cleaning business, made management decisions . . . decided which contracts to enter into with clients . . . signed the resolutions as a director”.[20] In the absence of such evidence, she argues that the appellant cannot be considered as a de facto director. According to the appellant, the actions taken—opening a bank account, making bank transactions, signing cheques and soliciting business—are actions of an officer.
+[26] In support of her claims, counsel for the appellant cited Hay v. The Queen,[21] a decision in which this Court held that Mr. Hay was an officer, not a de facto director. He was responsible for the day‑to‑day operations of the corporation and had co‑signed cheques. In my view, there are important distinctions between the circumstances in Hay and those in this case. In Hay, two independent persons came to testify, stating that Mr. Hay was an employee, a manager of the premises who repaired equipment that needed fixing and who received his orders from Mr. Cohen. This Court found that Mr. Cohen was the one who made all the important decisions for the corporation, who negotiated and signed the major contracts and who had certified the resolution of the board of directors designating him as a person with signing authority for the corporation. In the present case, we do not have such testimony about the actions taken by the appellant and Alexandre Lamothe, and we do not have evidence of 9252’s activities, of the signing of major contracts or of such a resolution of the board of directors.
+[27] Counsel for the appellant cites Mosier v. The Queen[22] in support of her position that the appellant cannot be considered a de facto director because there is no evidence that he represented himself as a director. In my view, the question of whether a person has explicitly represented himself or herself to a third party as a director is a relevant factor depending on the circumstances, but it is not a determinative test. I find support for this view in McDonald v. The Queen[23] and Hartrell v. The Queen.[24]
+[28] In Hartrell, Justice Paris stated the following:
+However, in circumstances such as those in this case, where a corporation operates without having been properly organized and the only director of record plays no part in running the corporation, those persons who take it upon themselves to direct the affairs of the company may be held to be de facto directors, whether or not they have explicitly represented themselves as directors to any third party. The essential question is whether those individuals have, in fact, taken on the role of director of the corporation.[25]
+[29] Similarly, I am of the view that the evidence does not show that 9252 was properly organized, that the sole director played a part in running the corporation or that someone carried out the duties that one would expect to see performed by a director. Furthermore, in this case, the evidence does not show that 9252 carried out business activities because the auditor was unable to locate assets or conclude that there were employees who could have made it possible for 9252 to run a cleaning business. In these circumstances, the usual tests, such as the issue of whether a person has usurped the duties traditionally performed by a director or represented himself or herself as a director to third parties, are of little assistance. I adopt the comments of Justice Campbell, who stated the following in McDonald: “[T]here is no significant test to determine whether an individual is a de facto director that can be applied to every set of circumstances.”[26]
+[30] One must instead consider which actions were taken in the context of the activities of the business and determine whether, in the particular circumstances of this corporation, the person taking these actions exercised sufficient control over the corporation’s “affairs” to be held liable for the corporation’s obligations as a de facto director. I find that in this case, on the basis of the evidence adduced at the hearing, the actions taken by the appellant were the only actions taken by anyone on behalf of 9252. In these circumstances, I find that the appellant exercised sufficient control over the affairs of 9252 to be held liable as a de facto director for the unfulfilled obligations of 9252.
+[31] My understanding is that counsel for the appellant is contending that it was up to the respondent to prove that the appellant was a de facto director.[27] I note that it is the appellant who bears the burden of proof, that is, the burden of demolishing the respondent’s assumptions of fact. In Jefferson v. The Queen,[28] the Federal Court of Appeal indicated that the respondent is not required to call witnesses or tender his or her own evidence to support his or her position. Additionally, it is open to this Court to determine the validity of the assessment based on all the evidence tendered.[29] The onus was on the appellant to present evidence that 9252 ran cleaning operations and that someone else was making important decisions on behalf of the corporation, that is, negotiating major contracts, signing resolutions of the board of directors and so on.
+[32] Alexandre Lamothe was the person in the best position to support the testimony of the appellant and to explain to this Court that the appellant was not the person who was acting as director. Alexandre Lamothe was not called to testify. Counsel for the appellant lamented that there was no evidence before this Court showing that the appellant talked to suppliers, entered into contracts or managed the business. In response to the question as to where these contracts were, with which suppliers they were entered into, who signed them, where the resolutions of the board of directors giving the appellant the authority to take the actions that he took were, and who would have been able to provide this information, counsel for the appellant acknowledged that Alexandre Lamothe was indeed the one who could have provided such information. She suggested that the onus was on the respondent to prove that the director was not Alexandre Lamothe, but rather the appellant.
+[33] Counsel for the respondent is asking this Court to draw an adverse inference from the absence of testimony from Alexandre Lamothe, which could have supported the appellant’s statements by indicating that he was the director of 9252 and that he was the one who took the management actions for the business. I am of the opinion that these are appropriate circumstances in which to draw such an inference. As asserted by the Federal Court of Appeal in Deyab v. Canada,[30] citing an authority, an adverse inference can be drawn when a party fails, without explanation, to call a witness who would have knowledge of the facts and would be assumed to be willing to assist that party. The appellant stressed that everything that he had done in relation to 9252 had been to assist his brother. The appellant did not provide this Court with a satisfactory explanation of why his brother did not testify; his counsel stated that the appellant was under no obligation in that regard.
+[34] I note that the testimony of the appellant contains a number of inconsistencies and surprising statements, including the following, which can serve as examples:
+(a) The appellant testified that he knew nothing about 9205 even though this corporation had used the business name “Les entretiens ménagers David Lamothe” and he was its sole shareholder and director at times;
+(b) The appellant states that he paid the employees even though 9252 did not declare any employees to officials;
+(c) The appellant testified that he was an employee and that he was paid by cheque, but none of the cheques entered into evidence were made out to him;
+(d) The appellant testified that 9252 ran a cleaning business and that he would go sell its services to clients, whom he called from time to time to see if everything was going well; however, the auditor testified that the corporation’s place of business was an accounting office, and he was unable to locate any assets that could have made it possible to run such a business;
+(e) The appellant initially stated that he had paid for the Mercedes and that it was his car. After reviewing the exhibits, namely, a printout from Société de l’assurance automobile du Québec and the cheque issued by 9252 to Silver Star Mercedes, he acknowledged that the corporation had paid for the car, which belonged to his spouse, adding that he used the car for his brother’s company;
+(f) The appellant had power of attorney to cash cheques at the Chèque Express cashing centre. Alexandre Lamothe had opened an account at Chèque Express on the appellant’s recommendation and gave the appellant power of attorney to cash cheques. The 9252 corporation cashed more than $800,000 in cheques at Chèque Express. However, the appellant testified that he did not know about this;
+(g) On cross‑examination, the appellant indicated that 9205 did not sound familiar to him even though he was its sole shareholder and director. He testified that he did not know whether he had been in contact with an auditor of 9205; however, Mr. Marcoux had met with the appellant in the presence of his counsel during the audit of 9205; and
+(h) Even though he was a director and shareholder of 9225 and had testified that he did everything in the corporation, he claimed that he did not know that 9225 had been assessed for false invoices.
+[35] I find that the testimony of the appellant is not credible in a number of respects. His uncorroborated testimony about the business activities of 9252 and his role in this corporation is not credible. I conclude that the appellant has failed to establish that the Minister’s assumptions that the appellant performed director’s duties for 9252 and that he was a de facto director of 9252 during the relevant period are false.
+V. Conclusion
+[36] I conclude that the appellant was a de facto director of 9252. In these circumstances, the Minister rightly relied on section 323 of the Act to hold him liable for the amounts that 9252 failed to remit. The appeal is dismissed, with costs to the respondent.
+Signed at Ottawa, Canada, this 27th day of July 2022.
+“Gabrielle St-Hilaire”
+St-Hilaire J.
+Translation certified true
+on this 5th day of September.
+Melissa Paquette, Jurilinguist
+CITATION:
+2022 TCC 85
+COURT FILE NO.:
+2018-1918(GST)G
+STYLE OF CAUSE:
+DAVID LAMOTHE AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Montréal, Quebec
+DATE OF HEARING:
+February 16, 2022
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Gabrielle St‑Hilaire
+DATE OF JUDGMENT:
+July 27, 2022
+APPEARANCES:
+Counsel for the Appellant:
+Diane Lafond
+Counsel for the Respondent:
+Éric Labbé
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Diane Lafond
+Firm:
+390 Notre-Dame West
+Suite 400
+Montréal, Quebec
+H2Y 1T9
+For the Respondent:
+François Daigle Deputy Attorney General of Canada Ottawa, Canada
+[1] Excise Tax Act, R.S.C. 1985, c. E‑15 (the “Act”).
+[2] Transcript of the hearing at 76 (“Transcript”) and Exhibit I‑1, Tab 13, statement of information of a legal person in the Quebec enterprise register.
+[3] Transcript at 31–32, 40–41.
+[4] Transcript at 52 and Exhibit I‑1, Tab 12.
+[5] Transcript at 50 and Exhibit I‑3.
+[6] Exhibit I‑1, Tab 8.
+[7] Exhibit I‑1, Tab 7. See the Transcript at 153, testimony of Karen Lavoie, a collection officer at Revenu Québec.
+[8] Income Tax Act, R.S.C. 1985, c. 1 (5th Supp.) (the “ITA”).
+[9] Canada v. Corsano, [1999] 3 F.C. 173 (FCA) at para. 5.
+[10] See to this effect ibid at paras. 20–21.
+[11] Exhibit I‑1, Tab 13. According to the testimony of Jayson Savard, amendments were made to the statement of information of a legal person in the Quebec enterprise register on October 18, 2011, the date on which Alexandre Lamothe was added as shareholder and vice‑president and David Lamothe was added as president who was not a member of the board of directors. See the Transcript at 138 and 142; also see Exhibit I‑1, Tab 6 at section 6.2.1.2.
+[12] Exhibit I‑1, Tab 14.
+[13] Transcript at 17 and 69–70.
+[14] Exhibit I‑1, Tab 15. See Transcript at 140: Mr. Savard testified that he asked TD Bank to provide a copy of all the cheques issued by 9252.
+[15] Exhibit I‑1, Tab 16.
+[16] Transcript at 133–134. See also the auditor’s report, Exhibit I‑1, Tab 6.
+[17] The only asset located was a Mazda Protégé owned by 9252 between November 16, 2011, and February 13, 2013; see Exhibit I‑1, Tab 6.
+[18] Transcript at 40–41.
+[19] See, for example, Koskocan v. The Queen, 2016 TCC 277; McDonald v. The Queen, 2014 TCC 315 (“McDonald”); Scavuzzo v. The Queen, 2005 TCC 772; and Hay v. The Queen, 2004 TCC 51 (“Hay”).
+[20] Transcript at 182 et seq.
+[21] Hay, supra note 19.
+[22] [2001] G.S.T.C. 124 (TCC).
+[23] McDonald, supra note 19 at para. 26.
+[24] 2006 TCC 480 (“Hartrell”) at para. 27 (aff’d 2008 FCA 59).
+[25] Ibid.
+[26] McDonald, supra note 19 at para. 30.
+[27] See, for example, the Transcript at 182.
+[28] Jefferson v. The Queen, 2022 FCA 81 (“Jefferson”) at para. 27: “The respondent is not required to call witnesses or tender its own evidence to make its case. A similar argument was rejected by this Court in Laliberté; it was open to the Tax Court in that case to determine the value of the shareholder benefit received ‘based on all the evidence tendered, including the Crown’s cross‑examination of the [taxpayer’s] witnesses’: Laliberté at para 56. Similarly, it was open to the Tax Court to determine the value of the consideration the appellant gave for the cheques based on all the evidence tendered.”
+[29] See, to that effect, Laliberté v. Canada, 2020 FCA 97 at para. 56, cited in Jefferson, ibid.
+[30] 2020 FCA 222 at para. 46. The FCA cited Sopinka, Lederman & Bryant: The Law of Evidence in Canada, 5th edition (LexisNexis Canada Inc., 2018), at paras. 6.471–6.472.

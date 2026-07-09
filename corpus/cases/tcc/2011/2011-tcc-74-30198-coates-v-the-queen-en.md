@@ -1,0 +1,202 @@
+---
+title: "Coates v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30198/index.do"
+last_modified: "2011-02-08"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2011 TCC 74"
+citation2: ""
+neutral_citation: "2011 TCC 74"
+decision_date: "2011-02-08"
+language: "en"
+item_id: "30198"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7724
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T07:52:45.534000+00:00"
+cases_cited_count: 0
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "563719956fa385f8f99cd84ea7d55dd4ade7d0d3dc1585d04ca44e4aaedbe574"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Coates v. The Queen
+
+- Citation: 2011 TCC 74
+- Decision date: 2011-02-08
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7724, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Coates v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2011-02-08
+Neutral citation
+2011 TCC 74
+File numbers
+2009-2841(GST)I
+Judges and Taxing Officers
+Robert James Hogan
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2009-2841(GST)I
+BETWEEN:
+TODD COATES,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on November 23, 2010, at Moncton, New Brunswick.
+Before: The Honourable Justice Robert J. Hogan
+Appearances:
+Agent for the Appellant:
+Andrew Boudreau
+Counsel for the Respondent:
+Gregory B. King
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under Part IX of the Excise Tax Act for the period from January 1, 2002 to December 31, 2006, the notice of which is dated April 1, 2008, is allowed, without costs, and the assessment is vacated, in accordance with the attached reasons for judgment.
+Signed at Ottawa, Canada, this 8th day of February 2011.
+"Robert J. Hogan"
+Hogan J.
+Citation: 2011 TCC 74
+Date: 20110208
+Docket: 2009-2841(GST)I
+BETWEEN:
+TODD COATES,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Hogan J.
+I. Introduction
+[1] The Appellant, Todd Coates, built three houses in New Brunswick, moved into them and sold them in the years from 2000 to 2006. He also built the home that he currently resides in. He was assessed goods and services tax and harmonized sales tax (“GST/HST”) in respect of the construction of a house situated at 47 Parkin Street (the “Subject Property”) as a self-supplying builder.
+II. Factual Background
+[2] The evidence shows that the Appellant was an employee of a construction company when he built the four houses. Each of the houses was constructed almost entirely by the Appellant, who borrowed equipment belonging to his employer to carry out the work.
+[3] The Respondent alleges that, in determining the Appellant’s net tax for the period under appeal, the Minister of National Revenue (the “Minister”) relied on the following assumptions of fact:
+a) the Appellant was not a GST/HST registrant during the Period under Appeal;
+b) the Appellant was usually employed by a construction company (the “Construction Company”) and was familiar with the construction industry;
+c) the Appellant was laid off from the Construction Company for periods of time each year;
+d) between 2000 and 2004, the Appellant purchased a series of four lots on Parkin Street in Salisbury, New Brunswick;
+e) the lots were located at 27 Parkin Street, 51 Parkin Street, 42 Parkin Street, and 47 Parkin Street (the “Subject Property”);
+f) on each of the four lots, the Appellant built a house;
+g) each time the Appellant sold one of the Parkin Street properties, he began building the next house;
+h) before selling the 51 Parkin Street property, the Appellant purchased the lots at 42 Parkin Street and the Subject Property;
+i) the Appellant provided most of the labour to build the houses;
+j) the Appellant employed few contractors;
+k) the Appellant borrowed equipment from the Construction Company to build the houses;
+l) the Appellant was the first person to occupy each of the completed houses;
+m) the Appellant occupied the house at 27 Parkin Street in September, 2000 and sold that property in May of 2002;
+n) the Appellant occupied the house at 51 Parkin Street in the Fall of 2002 and sold that property in August of 2004;
+o) the Appellant occupied the house at the Subject Property in the Fall of 2004 and sold that property in September of 2006;
+p) the Appellant occupied the house at 42 Parkin Street in March of 2007;
+q) the Appellant obtained mortgages for each Parkin Street property in the following amounts:
+27 Parkin Street
+51 Parkin Street
+The Subject Property
+42 Parkin Street
+$75,000
+$106,500
+$120,000
+$120,000
+r) the Appellant received a New Housing Rebate for each house. The amount he received in relation to the Subject Property was $1,612.10;
+s) the Appellant profited on the sale of each property;
+t) the selling prices for the properties were:
+27 Parkin Street
+51 Parkin Street
+The Subject Property
+$114,500
+$145,500
+$170,000
+u) the FMV of the Subject Property when the Appellant began occupying that house was $127,500;
+v) the Appellant paid HST in the amount of $10,155.71 in relation to construction costs and HST in the amount of $2,250 in relation to buying the lot at the Subject Property;
+w) the Appellant registered a corporation on May 2, 2006 which attempted to claim input tax credits for building the house at 42 Parkin Street; and
+x) the Appellant’s corporation owns a different parcel of land intended for subdivision.
+[4] The Appellant testified that he built the subject property for the sole purpose of occupying it as his home. When he built the property he had two children. A third child arrived after the Subject Property was completed. I understood from his testimony that his employment was intermittent and that he had difficulty paying interest and other borrowing costs on personal debt and meeting other living expenses. He listed the Subject Property for sale 18 months after occupying it. He used the proceeds from the sale that took place six months later to repay debt, finance the purchase of the land on which he built his current home, and to pay personal living expenses.
+III. Issues
+[5] The issues in this case are:
+1. Whether the Appellant is a “builder” within the meaning of subsection 123(1) of the Excise Tax Act (the “Act”);
+2. If yes, whether the personal use exception set out in subsection 191(5) applies to the circumstances of the case.
+IV. Analysis
+Is the Appellant a “builder”?
+[6] In very general terms, the Act defines a “builder” as including a person who constructs a residential complex on real property that he owns. An individual is excluded from the definition if that individual carries on the construction otherwise than in the course of a business or an adventure or concern in the nature of trade. In other words, if an individual builds a home for purely personal reasons he will not be a builder.
+[7] The Appellant admits that he built the Subject Property on land that he owned but denies that it was built in the course of a business or an adventure or concern in the nature of trade.
+[8] The phrase “an adventure in the nature of a trade” has been considered in numerous income tax cases. The leading case concerning the question of what constitutes an adventure in the nature of trade is Happy Valley Farms Ltd. v. The Queen.[1] At pages 6423-24 of that decision, Rouleau J. of the Federal Court, Trial Division, sets forth six tests which the Court should consider in determining this question. The tests or criteria are as follows: the nature of the property sold, the length of ownership, the frequency or number of other similar transactions by the taxpayer, the work performed on or in connection with the property, the circumstances giving rise to the sale and, finally, motive.
+[9] Rouleau J. stated the following on the subject of motive:[2]
+While all of the above factors have been considered by the Courts, it is the last one, the question of motive or intention which has been most developed. That, in addition to consideration of the taxpayer's whole course of conduct while in possession of the asset, is what in the end generally influences the finding of the Court.
+This test has been carried one step further by Canadian Courts into what has generally been referred to as the "secondary intention" test. This has meant, in some cases, that even where it could be established that a taxpayer's main intention was investment, a gain on the sale of the asset would be held taxable as income if the court believed that, at the time of acquisition, the taxpayer had in mind the possibility of selling the asset if his investment project did not, for whatever reason, materialize. In Racine, Demers and Nolin v. Minister of National Revenue, 65 DTC 5098 (Ex. Ct.), Noel J. provided the following summary of the secondary intention test at p. 5103:
+... the fact alone that a person buying a property with the aim of using it as capital could be induced to resell it if a sufficiently high price were offered to him, is not sufficient to change an acquisition of capital into an adventure in the nature of trade. In fact, this is not what must be understood by a "secondary intention" if one wants to utilize this term.
+To give to a transaction which involves the acquisition of capital the double character of also being at the same time an adventure in the nature of trade, the purchaser must have in his mind, at the moment of the purchase, the possibility of reselling as an operating motivation for the acquisition; that is to say that he must have had in mind that upon a certain type of circumstances arising he had hopes of being able to resell it at a profit instead of using the thing purchased for purposes of capital. Generally speaking, a decision that such a motivation exists will have to be based on inferences flowing from circumstances surrounding the transaction rather than on direct evidence of what the purchaser had in mind.
+[10] The evidence before me reveals a clear pattern adopted by the Appellant of building a home, living in it for a period of time and reselling it at profit. He then starts the process over again. The evidence shows, at the very least, that the Appellant built the Subject Property with the secondary intention of selling it, if and when he needed money to pay his debts or support his family, in much the same way as he had done with the two properties that he had previously owned. This alone is sufficient for me to conclude that the Subject Property was constructed in the course of an adventure or concern in the nature of trade, thus making the Appellant a “builder” within the meaning of the Act.
+Does the exception in subsection 191(5) apply?
+[11] The relevant subsections of section 191 are:
+191(1) For the purposes of this Part, where
+(a) the construction or substantial renovation of a residential complex that is a single unit residential complex . . . is substantially completed,
+(b) the builder of the complex
+. . .
+(iii) where the builder is an individual, occupies the complex as a place of residence, and
+(c) the builder . . . is the first individual to occupy the complex as a place of residence after substantial completion of the construction or renovation,
+the builder shall be deemed
+(d) to have made and received, at the later of the time the construction or substantial renovation is substantially completed and the time . . . the complex is so occupied by the builder, a taxable supply by way of sale of the complex, and
+(e) to have paid as a recipient and to have collected as a supplier, at the later of those times, tax in respect of the supply calculated on the fair market value of the complex at the later of those times.
+. . .
+(5) Subsections (1) to (4) do not apply to a builder of a residential complex or an addition to a residential complex where
+(a) the builder is an individual;
+(b) at any time after the construction or renovation of the complex or addition is substantially completed, the complex is used primarily as a place of residence for the individual . . .
+(c) the complex is not used primarily for any other purpose between the time the construction or renovation is substantially completed and that time; and
+(d) the individual has not claimed an input tax credit in respect of the acquisition of or an improvement to the complex.
+[12] Subsection 191(1) is a “self-supply” rule that requires the GST/HST to be paid on new homes as soon as they are lived in. Where the “self-supply” rule applies, subsection 191(1) requires GST/HST to be imposed on the fair market value of the property. Subsection 191(5) operates as an exception to this rule.
+[13] It is important to note that the tests outlined in the Happy Valley Farms case have no bearing on the determination as to whether or not the exception in subsection 191(5) applies. I make this comment because counsel for the Respondent relies on a number of cases that, I believe, fail to acknowledge this.[3]
+[14] The wording of subsection 191(5) makes it clear that a different test must be applied. That provision requires that the property actually be used first by the individual (who is a builder as defined) as a place of residence. That involves a simple factual determination as to whether or not the property was used as a family home after it was substantially completed. A secondary intention to resell the property at a later date is irrelevant to the determination as to whether or not the exception applies.
+[15] By definition, an individual is a builder only if the property was built in the course of a business or an adventure in the nature of trade. If the home was constructed by the individual purely for personal reasons, the “self-supply” rule does not apply in the first instance. The exception only comes into play after an individual has been found to be a builder. Therefore, the exception cannot be interpreted as requiring that the property have been built only for purely personal reasons. This means that an individual can benefit from the exception even if he has the secondary intention, at the time of its construction, of reselling the property, provided he actually uses it as a place of residence after the construction is completed.
+[16] I recognize that this may lead to an incongruous result, with tax being avoided simply because an individual actually uses a residential construction or home as a place of residence and then, for example, decides to sell it at a later date. The enactment of a change of use rule requiring the payment of GST/HST after the home no longer serves as the builder’s place of residence would counter this type of tax planning or behaviour. Only Parliament can attend to that.
+[17] What does the evidence show with respect to the application or non‑application of the exception to the “self-supply” rule found in subsection 191(5)? The evidence shows that the Appellant and his family moved into the home before it was completed and lived in it for roughly 24 months after it was completed. There is no evidence to show that the Appellant listed the home for sale after it was substantially completed or showed it to prospective buyers. The property was not used as stock-in-trade or as a disposable asset. The use of the property was only changed later on when the Appellant ran out of money and needed to sell the home to meet his family’s living expenses. That occurred, at the earliest, 18 months after the Appellant occupied the property, when he first listed it for sale. He did use the home as a place of residence at a time after the construction was substantially completed, as required by paragraph 191(5)(b) of the Act. As required by paragraph 191(5)(c), the home was not used primarily for any other purpose between the time that the construction was substantially completed and the time that the Appellant occupied it as a place of residence. The Appellant was the individual who built the home. He did not claim an input tax credit in respect of the third-party costs. Therefore I am satisfied that all of the conditions have been met for the exception in subsection 191(5) to apply.
+V. Conclusion
+[18] For these reasons, the appeal is allowed and the assessment is vacated, without costs.
+Signed at Ottawa, Canada, this 8th day of February 2011.
+"Robert J. Hogan"
+Hogan J.
+CITATION: 2011 TCC 74
+COURT FILE NO.: 2009-2841(GST)I
+STYLE OF CAUSE: TODD COATES v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Moncton, New Brunswick
+DATE OF HEARING: November 23, 2010
+REASONS FOR JUDGMENT BY: The Honourable Justice Robert J. Hogan
+DATE OF JUDGMENT: February 8, 2011
+APPEARANCES:
+Agent for the Appellant:
+Andrew Boudreau
+Counsel for the Respondent:
+Gregory B. King
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] 86 DTC 6421.
+[2] Ibid., page 6424.
+[3] Strumecki v. Canada, 1996 CarswellNat 640; Genge v. Canada, 1996 CarswellNat 1028; Nagra v. R., 1997 CarswellNat 1397.

@@ -1,0 +1,139 @@
+---
+title: "Howard v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/25642/index.do"
+last_modified: "2004-01-20"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 TCC 69"
+citation2: ""
+neutral_citation: "2004 TCC 69"
+decision_date: "2004-01-20"
+language: "en"
+item_id: "25642"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3134
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T19:53:25.024000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "a4b7400dd76d41159cca9f4f5ca842f96d3dfe91cfb57aa6f9fbb0ead05b408c"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Howard v. The Queen
+
+- Citation: 2004 TCC 69
+- Decision date: 2004-01-20
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3134, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Howard v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-01-20
+Neutral citation
+2004 TCC 69
+File numbers
+2002-901(IT)I
+Judges and Taxing Officers
+Murray A. Mogan
+Subjects
+Income Tax Act
+Decision Content
+Citation: 2004TCC69
+Date: 20040120
+Docket: 2002-901(IT)I
+2002-1482(IT)I
+BETWEEN:
+BEVERLEY E. HOWARD,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+and
+JAMES DALTON,
+Third Party.
+____________________________________________________________________
+Counsel for the Appellant: Jennifer S. McPherson
+Counsel for the Respondent: John Shipley
+For the Third Party: The Third Party himself
+____________________________________________________________________
+REASONS FOR JUDGMENT
+(Delivered orally from the Bench on August 28, 2003
+at Charlottetown, Prince Edward Island)
+Mogan J.
+[1] This proceeding began when the Appellant filed a Notice of Appeal in respect of her 1999 taxation year which is Court File No. 2002-901. She later filed a separate Notice of Appeal in respect of her taxation years 1998 and 2000 which is Court File 2002-1482. The three years, 1998, 1999 and 2000 are before the Court in those two appeals. In each of those years, she received certain amounts by way of child support from her former husband. In her Notices of Appeal, she raised the question whether she was required to include in computing income the amounts she received as child support. Those amounts had been included in her income in assessments issued by Revenue Canada; and Beverley Howard is appealing from those assessments. She has elected the informal procedure.
+[2] After the appeals were commenced, the Minister of National Revenue brought an application to the Court under section 174 of the Income Tax Act asking the Court to answer the following question. Had the Appellant and her former husband, James Dalton, signed an Election in Form T1157 to change the child support payments and had they jointly elected for the Appellant not to include the child support payments in computing her income and for James Dalton not to deduct the child support payments in computing his income? The Minister's application was granted. As a result, James Dalton was added as a third party to the appeals of Beverley Howard for the taxation years 1998, 1999 and 2000. The appeals were called for hearing today. Both the Appellant and the Respondent were represented by counsel. James Dalton represented himself. There was extensive evidence. The Appellant testified on her own behalf. Her son David testified and Sharon Fortier, an enforcement officer with the Maintenance and Enforcement Program in Prince Edward Island, also testified. And finally, James Dalton testified.
+[3] The Appellant and James Dalton were married in 1977. They adopted two children, David who was born in August 1980, and Leigh who was born in April 1986. Each child was adopted as an infant of about 10½ months old. Some time around 1993, there were domestic problems in the marriage and a divorce proceeding was commenced in January 1994 in which Mr. Dalton was the Petitioner for divorce. The divorce was granted and so the Appellant and Mr. Dalton became former spouses following the granting of the divorce. They had a prior separation agreement before the divorce. Although we do not have the separation agreement or the divorce judgment in Court, it seems to be common ground among all three parties that, under the separation agreement and divorce judgment, there was a provision that Mr. Dalton would pay to the Appellant child support at the rate of $200 per child per month during whatever period they were dependent at home and perhaps in full-time attendance at school.
+[4] In any event, there was a legal obligation on Mr. Dalton to pay child support at the rate of $400 per month and that obligation was still in existence in the calendar year 1998. There were significant changes to the Income Tax Act taking effect on May 1, 1997 with respect to child support payments. Prior to that date, child support payments had been deductible to the payor and included in the income of the payee. The payor was usually the husband or father and the payee was usually the wife or mother.
+[5] As a result of the change in law, the old system continued to operate for separations and divorces which occurred before May 1, 1997 unless a particular event created a "commencement day" after April 30, 1997. In the circumstances of these appeals, the old system continued to operate for the Appellant and Mr. Dalton subject to an event which may have occurred in June 1998 and which is at the heart of these appeals. For those separations and divorces which occurred after April 30, 1997, the new regime took effect. Although complicated with much fine tuning, the bottom line is that payments identified as being for child support are not deductible to the payor and are not to be included in the income of the payee.
+[6] In the circumstances of this case, the divorce occurred under the old system but the child support payments continued past the statutory date of May 1, 1997. For that situation, there is a provision under the definition of commencement day which permits parties to elect to have the new system apply but they have to file a joint election. If a husband and wife were divorced in 1994 and had child support payments from one spouse to the other, they could file an election after May 1, 1997 to have the new system apply; and those amounts identified as child support would not be deductible to the payor and would not be included in the income of the payee.
+[7] The Appellant learned of this provision because she received a brochure in the mail sometime in 1997. According to her evidence, she decided that she would act on it. She prepared in her own handwriting a form which has been entered in evidence as Exhibit A-2. It is a Revenue Canada Form T1157 entitled Election for Child Support Payments. It has the name of the recipient who is Beverley Howard Dalton and the name of the payor who is James Dalton. Each has a telephone number and social insurance number. There are certain boxes to fill in which may or may not be relevant here, and then there is a place at the bottom of the page for each party to sign. The Appellant must have anticipated having a document like this signed at some time because, in August 1997, she filled in certain of the information required in the form in her own handwriting such as names, her telephone number and social insurance numbers. She did not write in the telephone number or social insurance number of her former husband because she did not know them. She signed the form and dated it August 15, 1997; and acknowledged in evidence that she in fact signed it on that date. The document apparently lay idle for many months.
+[8] Her evidence is that in the spring of 1998, her former husband asked if there could be a reduction in the child support payments. Apparently, he had been a full-time teacher but was going on some kind of disability which would have significantly reduced his income. There were also references in Court to the fact that the older child, David, was not in school full-time by the summer of 1998; and some reference to the fact that Leigh may or may not have been living with her mother at that time. I refer to those only as what I would call glancing references in Court. They were not the kind of facts which were probed or established as firmly proven, but were an indication that in the spring and summer of 1998, Mr. Dalton might have been seeking to have the child support payments reduced.
+[9] The Appellant told James Dalton that she would be willing to have the payments reduced if he was willing to sign the Election form from Revenue Canada which had been prepared by her. There is no evidence that he agreed to her condition or that there was any lengthy discussion on this question. Exhibit A-2 is an important document in this proceeding because it is the document on which the whole case stands or falls.
+[10] On June 13, 1998, Mr. Dalton came to the residence of the Appellant in a Bronco vehicle to pick up the daughter Leigh. Because of the shared custody or visitation rights of the parties, he was entitled to have visitation with his daughter and son and, apparently, there was an arrangement that Leigh would spend that evening with her father. The Appellant's evidence is that Mr. Dalton was out in the Bronco. She knew he was there because he had come to pick up Leigh. She also knew that there had been either discussions or communications between Mr. Dalton and the Maintenance Enforcement branch in Charlottetown concerning his desire to reduce the child support payments. She took the document out to the vehicle where Mr. Dalton was sitting and asked him if he would sign it. Their son David had gone out to the vehicle to visit with his father and he was sitting in the vehicle on the passenger side or else leaning in the window on the passenger side but, in any event, he was in conversation with the father. She asked Mr. Dalton to sign the form and presented him with the document and a pen. She stated that he signed the document sitting behind the steering wheel of the Bronco, placing the document on his knee for stability. She also stated that he filled in his telephone number and social insurance number because she did not know them. At that point, before or just after he signed, she filled in the other two boxes on the form. Box C states "This election will apply to child support payments starting on (a specific date)" and she entered January 2, 1998. Box D states "Enter the annual child support payments to be made under this agreement" and she filled in $4,800. That, in substance, is the evidence of the Appellant concerning the execution of Exhibit A-2 by her and her former husband.
+[11] Counsel for the Appellant produced in Court what she said was the original of Exhibit A-2 but no party asked to have it marked as an exhibit. I examined it and it certainly looked like the original of Exhibit A-2. The only difference between the photocopy (Exhibit A-2) and the original was different coloured pens used for some of the writing on the original. That difference tends to corroborate the Appellant's statement that Mr. Dalton signed the original of Exhibit A-2 because his telephone number, social insurance number and signature appear in blue pen writing while boxes C and D, the date of commencement and the amount, are written in what appears to be the same blue pen but by a different hand, which appears to be that of the Appellant.
+[12] The Appellant's evidence is corroborated by David who testified and stated that he recalls being in the vehicle that evening with his father. He recalls his mother bringing a document out to ask the father to sign it. His evidence is that he saw the piece of paper but he did not read the contents. The parents were talking about that piece of paper and the mother gave the paper to the father to sign and he signed it. When David was then asked what happened around that time or just after, he said the landlord came by and delivered an eviction notice to his mother. It was significant to David because they had lived in the same residence for many years since he and his sister were small children. The Appellant and Mr. Dalton also remember the landlord coming by and giving the eviction notice which was entered as Exhibit A-3. That notice gave the Appellant one month to vacate the premises because it states that she had to be out by July 13 which is exactly 30 days after the day when the meeting took place near the Bronco. Therefore, the arrival of the landlord to deliver the eviction notice was in the minds of the Appellant, David and Mr. Dalton; and it seemed to coincide with the three of them being at that Bronco vehicle at the same time in the early evening of June 13, 1998. In my view, that evidence is important.
+[13] Mr. Dalton testified that with respect to Exhibit A-2, he did not recall signing it. He did recall that he was seeking to reduce the support payments in the spring and summer of 1998 and he recalled being there when the eviction notice was served. He recalls being there to pick up his daughter Leigh and speaking with David. But he said he did not recall speaking to the Appellant about the reduction of support payments at that time. He was cross-examined by counsel for the Appellant with respect to Exhibit A-2 and she asked him whether he recalled signing it. He said, "Look, I don't recall, and that's it. It's a matter of recollection".
+[14] Counsel also put to him a Notice to Respondent from the divorce proceeding in which he was the Plaintiff and the Appellant was the Respondent. That notice was entered as Exhibit A-12. She brought to his attention where he appeared to be signing it on page 15 on January 20, 1994. He said, "I can't recall signing that". He did not deny it was his signature. He just said, "I don't recall that". She also put to him two letters which he wrote to Revenue Canada in connection with this proceeding, one dated September 29, 2002 and the other dated November 22, 2002. He signed one "James J. Dalton" and the other "James Dalton". He acknowledged those were his signatures but they mean nothing except that sometimes he would sign his name including a middle initial and sometimes he would sign it with just his first and last names. I do not attach much significance to that evidence but I would observe, in the absence of any expert evidence from a handwriting person who might be able to testify with regard to whether a particular document was in the handwriting of a designated person, that the signatures of the Appellant and the signatures of Mr. Dalton appear to be relatively consistent in all documents. In particular, the telephone numbers and the social insurance numbers for the Appellant and James Dalton on Exhibit A-2 are clearly, to the amateur eye, not written by the same hand.
+[15] The critical question is whether James Dalton signed Exhibit A-2. The evidence strongly supports a finding that he signed Exhibit A-2. There are three statements of particular significance. First is the unequivocal statement of the Appellant that he signed it. She was not cross-examined as to her being there, as to her presenting the document to him, and as to her bald statement that she saw him sign it, bracing the document on his knee. If there were a case to be made against the truth of those statements, she ought to have been closely questioned on them. She was not questioned at all.
+[16] Second is the unequivocal evidence of David with respect to signing. He said that he did not know what the document was; he had no idea as to its import; but that he did see his mother come to the driver's side of the car and hand a document to his father. There were some statements which passed between them; and he said that he saw his father sign a document.
+[17] And third, Mr. Dalton stated that he does not recall signing Exhibit A-2. He said that more than once. There is a big difference in a Court of law between a witness saying "I do not recall signing that document" and the same witness saying "I did not sign that document. I would not sign that document. That is not my signature". Those latter statements are sometimes heard in Court and any judge must give great weight to them because they are stronger than a bland statement of not recalling a signing event. Those latter statements were absent today. The most that Mr. Dalton said is "I don't recall signing it". I believe that he does not recall the signing event on June 13, 1998; but I find that he signed Exhibit A-2.
+[18] Perhaps Mr. Dalton thought that it was a document that was going to reduce his support payments. Perhaps he did not appreciate the significance of the document. Perhaps he was preoccupied with his conversation with David with whom he apparently had a somewhat difficult relationship. Mr. Dalton might have been under stress. He was going to lose full-time employment and go on a disability pension. He was perhaps, in his mind, being harassed by the Maintenance Enforcement people. There are many reasons why a person might look at a document dated five year ago and say "It looks like my signature, but I don't recall signing it". He made the same statement about the divorce proceeding but I would say that he signed the divorce document that initiated his divorce from the Appellant. He simply stated "That may be my signature, but I don't recall signing it".
+[19] A person like Mr. Dalton may say "I don't recall signing it" because at the time it did not ring a big bell with him. It rang a big bell with the Appellant. That is pretty obvious because she had signed her half of the document 8 or 10 months before in August 1997. She had this document waiting to find an opportune time for her former husband to sign it; and she said that the relationship between them was not strong. She did not even know his phone number. She also stated that he called her once when he was under the influence of alcohol and she said "Don't call me when you've been drinking". They did not have a good communication system.
+[20] Therefore, if she signed her half in August 1997, she was going to have to wait for an opportune time to get him to sign. In all the surrounding circumstances, June 1998 seems to have been an opportune time because there was correspondence between him and the Maintenance Enforcement people: those letters entered as Exhibit A-6 from Maintenance Enforcement and especially the letter of May 11, 1998 to Mr. Dalton kind of prodding him to do something about his arrears. And there is another letter on June 5 from Ms. Fortier of CCRA to Mr. Dalton (just eight days before June 13), so he is feeling pressure. There is another letter dated July 6 from Ms. Fortier and one dated July 10 from Mr. Dalton promising to make up the payments. Mr. Dalton did in fact make up the payments in arrears when he paid $1,600 on August 7, $1,000 on August 28, and $600 on August 31, for a total of $3,200 which is eight months of child support at $400 per month. He obviously was feeling the pressure and, within the month of August, he brought his payments up to date for 1998.
+[21] In my view, the evidence is strong that Mr. Dalton signed the joint election which is Exhibit A-2. I will not say overwhelming but it is strong. When a person says, "I don't recall signing it" but does not deny that it is his signature, nor deny that he would have signed it under any circumstance, and when we have the unequivocal, uncontradicted evidence of the Appellant and David that he did sign it, I do not have any choice but to find that he signed the document. I am satisfied that there was an Election (Exhibit A-2) signed by the Appellant in August 1997, and by James Dalton on June 13, 1998.
+[22] I have, therefore, answered the question in the reference put to the Court. I do not have to make any further determinations because certain income tax consequences will flow from that vis à vis the Appellant and James Dalton. That concludes my determination of the question before the Court.
+Signed at Ottawa, Canada, this 20th day of January, 2004.
+"M.A. Mogan"
+Mogan J.
+CITATION:
+2004TCC69
+COURT FILE NO.:
+2002-901(IT)I and 2002-1482(IT)I
+STYLE OF CAUSE:
+Beverley E. Howard and Her Majesty the Queen and James Dalton
+PLACE OF HEARING:
+Charlottetown, Prince Edward Island
+DATE OF HEARING:
+August 28, 2003
+REASONS FOR JUDGMENT BY:
+The Honourable Justice M.A. Mogan
+DATE OF JUDGMENT:
+September 12, 2003
+APPEARANCES:
+Counsel for the Appellant:
+Jennifer S. McPherson
+Counsel for the Respondent:
+For the Third Party
+John Shipley
+The Third Party himself
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Jennifer S. McPherson
+Firm:
+Stewart McKelvey Stirling Scales
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

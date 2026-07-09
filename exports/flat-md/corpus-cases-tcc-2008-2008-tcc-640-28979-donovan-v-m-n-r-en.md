@@ -1,0 +1,147 @@
+---
+title: "Donovan v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28979/index.do"
+last_modified: "2008-11-25"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 TCC 640"
+citation2: ""
+neutral_citation: "2008 TCC 640"
+decision_date: "2008-11-25"
+language: "en"
+item_id: "28979"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6789
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T23:36:19.662000+00:00"
+cases_cited_count: 2
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "eb8d99b6aa1358af26c507313c76148971e6a4e13db441a7893ac6b939ef2ec0"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Donovan v. M.N.R.
+
+- Citation: 2008 TCC 640
+- Decision date: 2008-11-25
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6789, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Donovan v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-11-25
+Neutral citation
+2008 TCC 640
+File numbers
+2008-1805(EI)
+Judges and Taxing Officers
+Wyman W. Webb
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2008-1805(EI)
+BETWEEN:
+TAMMY DONOVAN,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard on November 6, 2008, at Sydney, Nova Scotia.
+Before: The Honourable Justice Wyman W. Webb
+Appearances:
+Counsel for the Appellant:
+Carolyn MacAulay
+Counsel for the Respondent:
+Kendrick Douglas
+____________________________________________________________________
+JUDGMENT
+The Appellant’s appeal under the Employment Insurance Act ("Act") from the decision of the Respondent that the employment of the Appellant was not insurable employment within the meaning of section 5 of the Act during the period from July 16, 2007 to September 22, 2007 is allowed and the matter is referred back to the Minister of National Revenue for reconsideration on the basis that the employment of the Appellant during this period was insurable employment under section 5 of the Act.
+Signed at Vancouver, British Columbia, this 25th day of November 2008.
+“Wyman W. Webb”
+Webb J.
+Citation: 2008TCC640
+Date: 20081125
+Docket: 2008-1805(EI)
+BETWEEN:
+TAMMY DONOVAN,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGMENT
+Webb J.
+[1] The issue in this appeal is whether the decision of the Respondent that the employment of Tammy Donovan (the “Employee”) by her father, Hugh Ross Donovan (the “Employer”) during the period from July 16, 2007 to September 22, 2007 (the “period of employment”) was not insurable employment for purposes of the Employment Insurance Act ("Act") was reasonable.
+[2] Subsection 5(2) of the Act provides in part that:
+Insurable employment does not include
+...
+(i) employment if the employer and employee are not dealing with each other at arm's length.
+[3] Subsection 5(3) of the Act provides that:
+(3) For the purposes of paragraph (2)(i),
+(a) the question of whether persons are not dealing with each other at arm's length shall be determined in accordance with the Income Tax Act; and
+(b) if the employer is, within the meaning of that Act, related to the employee, they are deemed to deal with each other at arm's length if the Minister of National Revenue is satisfied that, having regard to all the circumstances of the employment, including the remuneration paid, the terms and conditions, the duration and the nature and importance of the work performed, it is reasonable to conclude that they would have entered into a substantially similar contract of employment if they had been dealing with each other at arm's length.
+[4] Since the Employer was the Employee’s father, the Employer was related to the Employee. As a result, the issue in this case is whether the decision of the Minister of National Revenue that the Employer and the Employee would not have entered into a substantially similar contract of employment for the period of employment if they would have been dealing with each other at arm's length, is reasonable.
+[5] In the case of Porter v. M.N.R. 2005 TCC 364, Justice Campbell of this Court reviewed the decisions of this Court and the Federal Court of Appeal in relation to the role of the Tax Court in appeals of this nature. In paragraph 13 of this decision Justice Campbell stated as follows:
+In summary, the function of this Court is to verify the existence and accuracy of the facts relied upon by the Minister, consider all of the facts in evidence before the Court, including any new facts, and to then assess whether the Minister's decision still seems "reasonable" in light of findings of fact by this Court. This assessment should accord a certain measure of deference to the Minister.
+[6] The Employer was carrying on business as a fisherman. He had his own boat that he used for lobster fishing. He would also fish for crabs but he would use another boat that was owned by someone else to catch crabs as they were caught in deeper water which required a larger boat. The lobster season ran from May 15, 2007 to July 15, 2007 and the crab season started shortly thereafter. The Employee’s employment began shortly after the lobster season ended and her employment ended when the tasks that she was hired to perform were completed. She worked on shore at the premises of the Employer which is where the boat was located after it was hauled from the water following the end of the lobster season.
+[7] The Employee’s duties included the preparation of lobster traps, repainting the buoys, repairing the bait bags and making new bait bags. As well, the Employee repaired the boat in that year. In addition to these duties, during the period of employment the Employee also added a four foot ledge at the back of the boat. Since this ledge was made of fibreglass, the work had to be done when the weather was warm. She worked approximately 10 hours per day for six days each week during the period of employment.
+[8] The appeals officer testified at the hearing. He stated that the main reasons why the Respondent determined that the Employer and the Employee would not have entered into a substantially similar contract of employment if they would have been dealing at arm’s length were:
+(a) The Employee was paid for the time that she travelled from her home to work and back and her common-law spouse (who was a crew member on the Employer’s lobster boat) was not paid for his time that he spent commuting to work; and
+(b) Based on the dates of invoices for supplies (and in particular the date of the invoice for fibreglass cloth), it appeared that work was done after the end of the period of employment.
+[9] The Employee was paid $750 per week. She lived in Dingwall, Nova Scotia and her father lived in Ingonish Beach, Nova Scotia. The travelling time one way from Dingwall to Ingonish Beach is approximately 45 minutes and she was paid for one hour of commuting time each way. Since the Employee was paid for travelling time, she was paid based on working 12 hours each day. Based on salary of $750 per week for 12 hours each day, six days per week, her hourly rate of pay would be $10.42. Based on salary of $750 per week for 10 hours each day, six days per week, her hourly rate of pay would be $12.50. Her compensation for travel time is equivalent to a 20% increase in pay for her actual hours of work.
+[10] The first issue raised by the appeals officer, was that the Employee was paid for the time that she spent commuting to work, while her common-law spouse, Dale Peter MacKinnon, was not paid for the time that he spent commuting to work. Dale Peter MacKinnon was one of the crew members on the Employer’s lobster boat. However, although Dale Peter MacKinnon was not paid for commuting time, he was provided with accommodations, and presumably breakfast, at the Employer's home. Since the Employer and his crew would leave the wharf at approximately 3:30 to 3:45 in the morning to start lobster fishing, Dale Peter MacKinnon would travel to the Employer’s premises the night before and stay overnight and then leave from his home in the morning. He was not charged for these accommodations or meals. Therefore while he was not compensated for commuting time, he received an additional benefit in the form of accommodation and presumably breakfast. Both the Employee and Dale Peter MacKinnon were paid $750 per week, but Dale Peter McKinnon's pay was later increased to $800 per week to compensate him for the additional cost of gas. It would appear that this pay increase did not take place until 2008.
+[11] The person to whom the Employee was being compared is (and was during the period of employment) the common‑law partner of the Employee and therefore is (and was during the period of employment) related to the Employer. It is not clear whether the accommodations (and presumably breakfast) were being provided by the Employer to Dale Peter MacKinnon because he was the common‑law partner of the Employee or because he was an employee. Because he was related to the Employee, it does not seem to me that, in any event, his terms and conditions of employment would provide a proper comparison for the purposes of determining whether the Employer and the Employee would have entered into a substantially similar contract of employment if they would have been dealing with each other at arm’s length.
+[12] In reviewing the amount paid to the Employee it seems to me that the place where the Employer is located is relevant. The Employer lives in a small remote community in the northern part of Cape Breton. As an illustration of the size of the community and its location, to purchase supplies the Employer would have to travel to the Victoria Co‑operative Fisheries Ltd. (“Victoria Co-op”) which was about 30 minutes away. If the supplies were not available there, he would then have to travel to either Cheticamp or to North Sydney or Sydney. The travel time to North Sydney or Sydney was an hour and a half to two hours one way.
+[13] The Employer described the available labour in his community as nonexistent. He indicated that most of the individuals who were able to work had left for Alberta. It does not seem unreasonable to me that to attract workers to a remote location that employers may have to compensate employees for travel time to such locations or provide other incentives. Since the work was only short term (approximately 10 weeks) it is not reasonable to expect any employee (whether dealing at arm’s length with the Employer or not) to move to the same community as the Employer. It does not seem unreasonable, that to attract workers to a remote location for short periods of employment, that employers may have to pay extra or provide other incentives. Therefore it does not seem unreasonable that the Employee should have been compensated for travel time.
+[14] As well since the Employee worked long days, the additional payment for travel time is a smaller percentage of her pay than it would have been if she only worked seven or eight hours per day. As noted above, the pay for travel time is equivalent to a 20% increase in pay for the hours that she was working. In Regular v. Minister of National Revenue, 2007 TCC 664, I stated that:
+When the Minister is evaluating whether the terms and conditions of an employment arrangement are “substantially similar” to those that would have been entered into if the parties had been dealing at arm’s length, it seems to me that the Minister should not adopt a more restrictive meaning of “substantially” than the CRA has adopted in interpreting “all or substantially all”.
+[15] While a 20% increase in pay would be a substantial increase based on an interpretation that “all or substantially all” means 90% or more, in my opinion, this increase must be examined in light of all of the circumstances of employment, which would include the location of the Employer. It does not seem to me that an increase of 20% in pay to compensate the Employee because the Employer is located in a remote community would result in the amount of pay being substantially different than if the Employer and Employee were dealing with each other at arm’s length. It does not seem to me that a premium of 10% (and perhaps more) would be an unreasonable amount to pay to an arm’s length employee to work in a remote community. If the amount of the premium that would have been paid to an arm’s length employee would have been 10%, the 20% paid to the Employee would have been substantially similar.
+[16] As a result it does not seem to me that the amount that the Employee was paid would have been substantially different if the Employer and the Employee would have been dealing with each other at arms’ length.
+[17] The Respondent did not otherwise question that the amount that the Appellant was paid for the duties that she performed was reasonable.
+[18] The other issue raised by the appeals officer was the duration of the work and in particular the fact that there were invoices dated after the date that the Employee ceased to work for the Employer.
+[19] Counsel for the Respondent referred to an invoice for the fibreglass cloth. The concern raised was that the date of the invoice was 11/10/07, which presumably is October 11, 2007. However this invoice was issued by Cape Bald Packers Limited to the Employer. The invoice indicated that fibreglass cloth with a quantity of 237 had been sold. There is also an invoice from Victoria Co-op to Cape Bald Packers Limited for the same amount of fibreglass cloth, and that invoice was dated September 22, 2007. The fiberglass cloth would have been purchased from the Victoria Co-op. Therefore it would appear that the Victoria Co‑op invoiced Cape Bald Packers Limited (which was the firm that bought the lobsters from the Employer) and in turn, Cape Bald Packers Limited invoiced the Employer. The Employer confirmed that this was how the process would work. When he needed supplies the bill for the supplies would be sent to the person to whom he would sell his lobsters. When the lobsters were delivered the amount billed for supplies was deducted from the amount payable to the Employer for the lobsters.
+[20] As well the Employer indicated that in this particular case he was allowed to take a roll of fibreglass cloth from the Victoria Co-op without paying for it at that time. The roll was weighed before he took it. After he used whatever he needed, he returned the roll to the Victoria Co-op, the roll was then weighed again and he was invoiced for the amount of fibreglass cloth that he had used. Therefore the invoice for the fibreglass cloth was not issued until after the work had been done. The date on the invoice from the Victoria Co-op coincides with the end of the period of employment for the Employee.
+[21] There were also invoices for other supplies such as paint, which were dated after the employment period. The Employer indicated that he would purchase supplies in advance for the following year. Since the main issue related to the invoices was related to the invoice for the fibreglass cloth, there is no reason to believe that the Employee worked after the end of the period of employment. Therefore as a result it does not seem that the duration of the contract as identified by the Respondent is a valid basis for finding that the terms and conditions of the contract would not been substantially similar if they would have been dealing with each other at arm’s length. It seems to me that the contract would not have been substantially different in duration if the Employer and the Employee would have been dealing with other at arm’s length.
+[22] As a result, I am unable to conclude that the Minister's decision still seems "reasonable" in light of the evidence that was presented and therefore the Employee’s appeal under the Act is allowed.
+Signed at Vancouver, British Columbia, this 25th day of November 2008.
+“Wyman W. Webb”
+Webb J.
+CITATION: 2008TCC640
+COURT FILE NO.: 2008-1805(EI)
+STYLE OF CAUSE: TAMMY DONOVAN v. M.N.R.
+PLACE OF HEARING: Sydney, Nova Scotia
+DATE OF HEARING: November 8, 2008
+REASONS FOR JUDGMENT BY: The Honourable Justice Wyman W. Webb
+DATE OF JUDGMENT: November 25, 2008
+APPEARANCES:
+Counsel for the Appellant:
+Carolyn MacAulay
+Counsel for the Respondent:
+Kendrick Douglas
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

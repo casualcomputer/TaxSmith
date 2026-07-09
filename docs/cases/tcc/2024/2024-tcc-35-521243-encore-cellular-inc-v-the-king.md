@@ -1,0 +1,443 @@
+---
+title: "Encore Cellular Inc. v. The King"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/521243/index.do"
+last_modified: "2024-03-14"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2024 TCC 35"
+citation2: ""
+neutral_citation: "2024 TCC 35"
+decision_date: "2024-03-14"
+language: "en"
+item_id: "521243"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5746
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2024-07-13T10:43:43.086000+00:00"
+cases_cited_count: 18
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "c24fa68579392ad634924a523decefa56fff468933e70ac949c3ac54ec56cd86"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Encore Cellular Inc. v. The King
+
+- Citation: 2024 TCC 35
+- Decision date: 2024-03-14
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5746, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Encore Cellular Inc. v. The King
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2024-03-14
+Neutral citation
+2024 TCC 35
+File numbers
+2018-2320(GST)G
+Judges and Taxing Officers
+Ronald MacPhee
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2018-2320(GST)G
+BETWEEN:
+ENCORE CELLULAR INC.,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+Appeal heard on November 27-29, 2023, at Toronto, Ontario
+Before: The Honourable Justice Ronald MacPhee
+Appearances:
+Counsel for the Appellant:
+Leigh Somerville Taylor
+Counsel for the Respondent:
+Khalid Tariq
+David Lasaga
+JUDGMENT
+UPON hearing the evidence and submissions of counsel for the appellant and counsel for the respondent;
+IN ACCORDANCE with the attached Reasons for Judgment (the “Reasons”) the appeal of the reassessments, which determined the appellant had underreported GST payable and over claimed ITC’s, and assessed gross negligence penalties, pertaining to the appellant’s reporting periods beginning on May 1, 2009 and ending on April 30, 2014, is dismissed. Costs are payable to the respondent.
+The parties shall have 60 days from the date of this judgment to agree on costs. If no agreement is reached the respondent shall have a further 30 days to submit written submissions on costs. The appellant shall have a further 30 days to provide written submissions in response to the respondent’s submissions. The written submissions of each party are not to exceed ten pages.
+Signed at Toronto, Ontario, this 14th day of March 2024.
+“R. MacPhee”
+MacPhee J.
+Citation: 2024 TCC 35
+Date: 20240314
+Docket: 2018-2320(GST)G
+BETWEEN:
+ENCORE CELLULAR INC.,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+REASONS FOR JUDGMENT
+MacPhee J.
+[1] Encore Cellular Inc. appeals the Minister’s reassessments, which determined the corporation had underreported GST payable and over claimed ITC’s during the reporting periods beginning on May 1, 2009 and ending on April 30, 2014 (the “Relevant Periods”). The reporting periods ending on April 30, 2010 and April 30, 2011 were statute-barred at the time of reassessment.
+[2] Because of the reassessments, the appellant’s net tax liability was increased by $646,000. Encore was also assessed for gross negligence penalties, which amount to approximately $162,000.
+I. ISSUES
+[3] There are four main issues on appeal. They are:
+(i) Whether the Minister correctly assessed additional GST/HST payable by the appellant; (ii) Whether the Minister correctly disallowed specific Input Tax Credits (“ITCs”) claimed; (iii) Whether the appellant is liable for a penalty pursuant to s. 285 of the Excise Tax Act (the “Act”)[1], and (iv) Whether the Minister was correct in relying upon ss. 298(4) of the Act, to reassess the statute-barred reporting periods ending on April 30, 2010 and April 30, 2011 (the “Statute-Barred Periods”).[2] II. FACTS
+[4] The appellant is a GST registrant, having been registered for GST since May 26, 2005. The appellant had annual reporting periods from May 1, 2009 until April 30, 2012 and quarterly reporting periods until April 30, 2014.
+[5] The Minister reassessed the appellant for the Relevant Periods on or about October 28, 2015 (the “Reassessment”). The appellant served the Minister with Notices of Objection on December 17, 2015 and on March 22, 2018.
+[6] The Minister determined that the appellant underreported GST/HST payable amounting to $114,032.56 in the relevant period. The Minister reached this conclusion based upon an analysis of the appellant’s general ledger, subsequent adjusting entries made to the general ledger by the appellant’s accountant, and an analysis of the appellant’s bank records.
+[7] A portion of the ITCs claimed by the appellant, amounting to $474,816, were denied by the Minister. At trial, the appellant agreed that ITCs were over claimed, but argued that they should be allowed a portion of the ITCs denied, totalling $182,622.
+[8] Further to the above paragraph, the appellant incorrectly claimed ITCs based upon a calculation of 13/113 of the value of the consideration identified as having been paid for goods (based on Encore’s accountant, Mr. Nasrullah’s review of the bank records).
+[9] The ITCs being litigated came from two main sources. The first source of claimed ITCs relates to certain import goods purchased from non-registrant, non resident suppliers. These ITCs were claimed in relation to amounts identified as paid from the appellant’s US fund bank account. The amount claimed by the appellant was $203,184. The Minister allowed $3,584.92 of this amount and denied the remaining claim for ITCs.
+[10] An additional $275,216.46 was claimed by the appellant and denied by the Minister. These claimed ITCs relate to invoices that were identified as RPW[3] and were paid to a foreign supplier[4].
+[11] Penalties were assessed. Overall, the Minister increased the appellant’s net tax for the Relevant Periods by $646,784 and imposed total penalties of $161,953.47.
+[12] Three witnesses testified at trial. They were, Mr. Tahir Bajwa, the sole shareholder and director of the appellant. Mr. Mark Hatfield, a retired CRA officer who worked on the audit of the appellant that lead to the reassessment before the Court, and Mr. Ganesh Timsina, a team leader with CRA who attempted to explain the reassessment. I will more fully describe their testimony in the body of the facts.
+A. Business of the Appellant
+[13] During the Relevant Periods, the appellant was in the business of selling cellphones, accessories, and providing unlocking services for cellphones. The appellant had three retail locations.
+[14] Tahir Bajwa is the sole shareholder, director and decision maker of the appellant. Mr. Bajwa is responsible for completing and filing the appellant’s GST/HST returns.
+[15] Mr. Bajwa has been involved in the purchasing and selling of mobile telephones for approximately 20 years.
+B. Discrepancies in the General Ledger
+[16] An audit of the appellant began on February 8, 2014. Shortly after the commencement of the audit, the accountant for the appellant, Mr. Nasrullah, made various adjusting entries in the general ledger of the appellant.
+[17] In particular, the appellant’s general ledger had the following correcting entries (this is the description provided in the g/l for the entries).
+To adjust HST account, 2011, HST account, $6431.66. 2012, HST account, $10,977.96. 2013, HST account, $25,719.78. I am making this adjustment as I feel these are actual HST payable and it -- and it should -- is not adjustment to today, is at 7:26 P.M.
+[18] These entries increased the GST/HST payable by $43,129.40.
+[19] An additional adjusting entry, increasing GST/HST payable by $38,744.92 was made on April 30th, 2014.
+[20] The Minister argued that these entries were correcting entries by the appellant’s accountant, to record GST/HST payable that was not included in the appellant’s GST/HST filings.
+[21] The Adjustments are not reflected in any of the appellant’s returns filed.[5] Mr. Bajwa offered no explanation for these adjustments (this is considered further in the below paragraphs).
+[22] Mr. Nasrullah did not testify at trial, despite the fact that he resides in Toronto, appears to be the only party able to answer many crucial questions, and still does work for Mr. Bajwa.
+C. Mr. Bajwa’s Testimony
+[23] Mr. Bajwa was born in Pakistan. After moving to and being educated in Germany, he moved to Canada with his family in 2000. He attended high school and college in Canada. He obtained an education in Business studies in both Germany and Canada.
+[24] He opened Encore Cellular in 2005. He began his business by buying mobile phone accessories (such as phone covers). This soon evolved into purchasing and selling cellular telephones and various other related products.
+[25] Specific to the issues in the litigation, Mr. Bajwa testified that when he bought the cellphones, the suppliers were outside of Canada. He testified that the price he paid to his suppliers was a landed price. As per his testimony, this meant he paid all costs for the telephones to the supplier when they arrived at his warehouse, including GST.
+[26] The evidence at trial did not support Mr. Bajwa’s claim of paying a landed price. Instances were provided in his testimony in which Encore Cellular Inc. paid additional fees upon receiving the goods in Canada. Also, no receipts or contracts or any other corroborating documents were provided that support the contention that a landed price was negotiated.
+[27] Overall, it was very hard to determine the terms and conditions of the purchase of the goods bought by the appellant. Many business records were missing. Mr. Bajwa testified that in numerous instances he agreed to the terms of buying products from his suppliers by way of a telephone call, and advanced funds based upon the call with his supplier. In these instances there were no records to support the details of his purchases (or if they occurred). The only evidence we have is money being sent by the appellant to the foreign supplier. I do not know how many times this occurred, but it does appear it was a significant amount.
+[28] Mr. Bajwa hired Mr. Nasrullah to prepare his GST returns. Mr. Nasrullah was at that time and still is a family friend. His accounting services were done at year end. At that time, the appellant provided Mr. Nasrullah with Encore’s bank statements. From these Mr. Nasrullah would prepare the appellant’s general ledgers. He would also prepare the GST filings. Mr. Bajwa testified that he relied upon the accountant’s work entirely to calculate and remit the proper GST amounts owing for the appellant.
+[29] Mr. Bajwa was clear in his testimony that he had no knowledge of the accounting practices of Encore.
+[30] Furthermore, the appellant did no bookkeeping on a daily, weekly or monthly basis. Rather the accounting was done at year end by Mr. Nasrullah.
+Q: Okay. Now, can you tell me, did you do any bookkeeping for Encore during the relevant period?
+A: No. I have no experience on bookkeeping.
+Q: You did no bookkeeping for Encore?
+A: No.
+Q: Who did the bookkeeping?
+A: No one.
+Q: No one did any bookkeeping for Encore?
+A: No.[6]
+[31] Concerning the general ledger, Mr. Bajwa testified that he did not understand the general ledger, and could offer no explanation as to its contents. Mr. Bajwa was clear that, even in preparing for trial, he did not ask Mr. Nasrullah, nor inform himself in any way, as to why the general ledger and the GST/HST filings were inconsistent.
+MR. TARIQ: Mr. Bajwa, if the general ledger and the tax return don't match, could you explain why they wouldn't match?
+A: I can't explain that because I'm not an accountant.[7]
+…
+And
+Q: Here, we have in the table below, the first entry, May 1st, 2009, to April 30th, 2010. You reported a GST collectible amount of $63,753.41. Do you see that?
+A: Yeah.
+Q: Why is that different from the amount that the ledger shows is collected, $69,117.09?
+A: I have no idea. That's answer for -- like, Mr. Nasrullah can answer that. I have no idea. I never have gone to ever from this ledger in my life after that (INDISCERNIBLE) presented to me.[8]
+…
+And
+Q: Mr. Nasrullah (sic), would you be able to answer any of the discrepancies in the ledger, between the ledger and the returns?
+A: I can't answer that about that ledger because I have no understanding about this ledger, so …[9]
+And
+Q: So, Mr. Bajwa, the Minister found these discrepancies. I've just walked you through the first period, which you were unable to account for. The rest of the -- the discrepancies for each of the period is listed below that in each subsequent row. Can you explain any of these discrepancies?
+A: No. I have no understanding about these things.
+Q: Did you ever ask your accountant why your tax returns don't match your general ledger?
+A: No.
+Q: You never asked?
+A: I never asked. I never knew what general ledger was (INDISCERNIBLE). I never knew that.
+Q: Did you ever seek clarification after the audit?
+A: I was asking him all the time, then he send it -- he say that I'm going to send it to CRA for adjustment or whatever. And after that is, like -- the whole thing start, and then nothing.[10]
+[32] Concerning the underreported GST, at the end of the trial, what I am left with are adjusting entries made by the accountant that seem to indicate that more GST should have been paid to the Minister than was in the appellant’s filings. Furthermore, pursuant to an audit of the general ledger and the bank records, a conclusion was reached by the Minister that the appellant underreported the amount of GST owing.
+[33] The appellant contests the Minister’s position that additional GST should have been paid, but offers absolutely no evidence as to why the general ledger appears to indicate more GST was owing than was remitted. On a more specific basis, no explanation at all was provided by the appellant as to why the adjusting entries were made to the general ledger by Mr. Nasrullah nor how they should be interpreted. Despite being assessed with a large amount of additional GST payable, the appellant has come to court, without Mr. Nasrullah, and uninformed as to the issues before the Court.
+[34] The appellant is therefore unsuccessful on the issue of underreported GST. Subject to my finding concerning the statue barred period of April 30, 2010 to April 30, 2011, this portion of the appeal is unsuccessful.
+D. Evidence of the Appellant Concerning the ITCs Claimed
+[35] In examination in chief, Mr. Bajwa referred to and described various invoices from suppliers outside of Canada. Unfortunately this was not very informative. The appellant at no point walked me through the entirety of a transaction.
+[36] Specifically no evidence was provided as to how much GST was paid when the purchased goods came into Canada.
+[37] Mr. Bajwa provided a sampling of invoices from various suppliers and also provided bank statements showing money being wired from a bank account to a specific supplier. The invoice never indicated GST being paid. Mr. Bajwa could not show me, or offer any evidence, as to what GST was remitted on goods when they came across the border. The appellant simply asked that I estimate the amount of GST paid to be 5% of the amount paid in the USA for the purchases.
+[38] The only time I was walked through the entirety of a transaction, it was done by the respondent in the cross examination of Mr. Bajwa. This was very detrimental to the appellant’s case. In that instance it showed the following:
+An initial purchase price for cell phones from a supplier in Michigan, indicating that the appellant paid $10,761.73 in US dollars on January 14, 2013. The ITC that would have been claimed on this purchase would have been 13/113 of the amount, which is $1237 US dollars.[11]
+When these cellular telephones were declared at the Canadian border, by a custom broker hired by the appellant, they were declared to be worth $322 Canadian. The actual amount of GST paid for the goods was $15.84.
+The proper amount to pay to bring the cellular telephones across the border would have been 5% of their value (which is in most cases the amount paid for the item).
+No explanation was offered by the appellant as to why the value of the purchased goods was undervalued at border.
+[39] This simply demonstrates the importance of 169(4) of the Act. It ensures that ITCs are limited to the amount of GST actually paid.
+E. Mark Hatfield’s Testimony
+[40] Mr. Hatfield is a retired CRA auditor who assisted in the audit of Encore. The appellant called him as a witness.
+[41] In this role he helped prepare several of the working papers relied upon by the Minister in their assessment. The appellant’s counsel called him to support one main proposition. That being, for the purpose of s.180 of the Act, the Minister was satisfied that GST was paid when the supplies in issue were brought into the country. The importance of this point will become obvious upon a review of the requirements of s. 180 of the Act. It should be further pointed out that Mr. Hatfield testified that he did not turn his mind to s. 180 at the time of audit.
+[42] Specifically the appellant relies upon the following testimony of Mr. Hatfield:
+Okay. Generally, goods would not come into Canada without HST or GST or HST. Being from Newfoundland, Labrador, it's HST, and probably here as well. But on commercial goods, the importation's generally five percent, and somebody has to pay tax at the border. Sir -- I mean, if tax is not paid, it's because of some other activity, not -- not normal course of business.[12]
+…
+And
+MS. TAYLOR: So you determined that no goods could come into Canada without the GST being paid on it.
+A: Correct. I wouldn't make a 100 percent statement to that effect, but that's the say it's supposed to work, yes.
+Q: And you, in fact, found with respect to the supplies made by the appellant that the customer is basically the importer, and the tax was paid at the border.
+A: I don't recall actually doing the test, but I do know in having reviewed my statement that I made that statement and I -- I certainly can't refute it.
+JUSTICE: What's -- what's the statement again? What -- what's your position that -- was GST paid on these transactions, or --
+A: Well, yeah, that HST was paid by the supplier, the non-registrant, non-resident, that they paid the tax on importation, and by extension, then, the -- the recipient of supply may be entitled to a input tax credit.
+Q: MS. TAYLOR: So, that directly contradicts the allegation that's immediately following that in the amended reply, that no GST, HST was paid on the importation of any goods corresponding to the US account invoices in excess of what was allowed by the Minister.
+A: Yes, what -- what I would have made as a statement is that there was no documentation provided that HST was paid on the importation.[13]
+[43] The appellant relies upon this statement for the proposition that the Minister accepted that evidence exists that is satisfactory to the Minister that the GST tax has been paid by the non resident supplier (a requirement of s. 180 of the Act).
+[44] The respondent denies that the Minister has accepted that GST has been paid and pleads, in paragraph 24 of their Amended Reply: The appellant failed to obtain documentation that contains the information prescribed by section 3 of the Regulations and failed to obtain satisfactory evidence as required by paragraph 180(c) of the Act.
+F. Ganesh Timsina’s Testimony
+[45] Mr. Timsina, a CRA employee, was the Appeals officer on the file. Much of his evidence came by way of cross-examination. Appellant’s counsel clearly hoped to refute the Minister’s various assessing positions through this witness. I do not find that happened. Various points in the examination were confusing. In these instances, either the witness was not understanding the appellant’s counsel’s questions or counsel was not understanding the answers provided. Overall, I did not find the evidence to be helpful for either side in making my decision.
+III. ISSUES
+[46] The remaining issues are:
+Did the Minister correctly disallow the appellant’s claimed ITCs?
+Does the appellant benefit from the deeming provisions of ss.178.8 or s.180 of the Act?
+Was GST paid on importation in relation to this amount?
+Has the registrant obtained sufficient evidence that will enable the amount of ITC to be determined?
+Was the Minister justified in assessing the appellant for the Statute-Barred Periods of April 30, 2010 to April 30, 2011?
+Did the Minister correctly assess the appellant for a penalty of $161,953.00 pursuant to section 285 of the Act?
+IV. ANALYSIS
+A. General Framework for ITCs
+[47] Subsection 225(1) provides that a taxpayer may deduct ITCs from their net tax calculation. Subsection 169(1) provides the general rule for qualifying for ITCs. ITCs are determined based on the product of 1) GST/HST paid or payable in a reporting period and 2) the extent to which the supplies are consumed, used or supplied in the course of the registrant’s “commercial activity”.[14] ITCs can be claimed against zero-rated supplies.[15]
+[48] Because these sections were relied upon by the appellant, I will provide analysis concerning s. 178.8 and s. 180 of the Act. Unfortunately for the appellant, my conclusions in this regard will not advance their case. This is because the appellant does not meet the requirement of ss. 169(4), in that the appellant has not, prior to claiming the ITC in their return, obtained sufficient evidence to enable the proper amount of the ITC to be determined.
+[49] The respondent has assumed, at paragraph 13(n) of the Amended Reply, that no GST/HST was paid by the foreign suppliers, nor was GST/HST paid on the importation of any goods corresponding to the US account invoices, in excess of what was allowed by the Minister. Even when considering the testimony of Mr. Hatfield, I do not find that this assumption has been destroyed.
+B. Paying GST/HST on Import and Sections 178.8 and 180
+[50] Sections 178.8 and 180 of the Act are special case provisions, which deem persons to have paid tax, potentially entitling them to qualify for ITCs.[16]
+[51] The pertinent text of s. 178.8 as it stood during the Relevant Periods is reproduced below:
+Definition of specified supply
+178.8 (1) In this section, specified supply means a supply of goods that
+(a) are, at any time after the supply is made, imported; or
+(b) have been imported in circumstances in which section 144 deems the supply to have been made outside Canada.
+Deemed importer of goods
+(2) Subject to subsections (4) and (7), if a recipient of a specified supply of goods made outside Canada does not, at any time before the release of the goods, supply the goods outside Canada and the recipient or any other person imported the goods for consumption, use or supply by the recipient (in this section referred to as the “constructive importer”), the constructive importer is deemed to have so imported the goods, and any amount paid or payable as or on account of tax on the goods under Division III in respect of the importation is deemed to have been paid or payable, as the case may be, by or on behalf of the constructive importer and not by or on behalf of any other person…[17]
+[52] Subsections 178.8(8) and (9) provide various exceptions to the application of 178.8(2). None of these exceptions appear to be relevant to this appeal except that when section 180 applies, subsection 178.8(2) does not apply.[18]
+[53] Section 178.8 is designed to provide relief in a circumstance where a non-resident sells a supply to a Canadian registrant whereby legal delivery occurs outside Canada, but the Canadian registrant does not import the supply into Canada.[19] In such a circumstance, the non-resident would be required to pay GST/HST on import, but the non-resident might not be able to qualify for ITCs. Section 178.8 provides the possibility of qualifying for an ITC to the Canadian purchaser by deeming the Canadian purchaser as having paid GST/HST on import to prevent double payment of GST/HST in what is effectively commercial activity.
+[54] I am unable to apply section 178.8 to deem the appellant to have paid tax on import. This section only deems tax to have been paid or payable to the extent that tax was in fact paid or payable on importation. As noted above, the respondent’s assumption that no GST/HST was paid upon importation stands.
+[55] Appellant’s counsel argues that I can calculate the GST/HST amount paid by accepting Mr. Nasrullah’s review of the bank statements, from which he calculated the amount paid to foreign suppliers. In order to get these foreign purchased goods into Canada, GST of 5% should have been paid at the border.
+[56] If I were to ignore the respondent’s assumption noted above, there is still too much uncertainty to accept the calculation proposed by the appellant. For one, I have no idea as to what the declared value of the goods purchased from the non resident was when they were brought into Canada. This greatly affects the GST paid. Other obvious uncertainties also exist. These include the fact that, in many instances, given the lack of invoices, no evidence has been lead as to the details concerning the relevant transactions when the appellant sent the funds to the U.S. supplier, such as what was purchased and how much was paid for each item.
+C. Section 180
+[57] The text of s.180 reads as follows:
+Receipt of property from non-resident
+180 For the purposes of determining an input tax credit of, or the amount of a rebate payable under section 259 or 260 to, a particular person, where a non-resident person who is not registered under Subdivision D of Division V
+(a) either
+(i) makes a supply of tangible personal property to the particular person and delivers the property, or makes it available, in Canada to the particular person before the property is used in Canada by or on behalf of the non-resident person, or
+(ii) where the particular person is a registrant, causes physical possession of tangible personal property to be transferred in Canada to the particular person in circumstances in which the particular person is acquiring physical possession of the property for the purpose of making a taxable supply of a commercial service in respect of the property to the non-resident person,
+(b) has paid tax under Division III in respect of the importation of the property or has paid tax in respect of a supply of the property deemed under subsection 179(1) to have been made by a registrant, and
+(c) provides to the particular person evidence, satisfactory to the Minister, that the tax has been paid,
+the particular person shall be deemed
+(d) to have paid, at the time the non-resident person paid that tax, tax in respect of a supply of the property to the particular person equal to that tax, and
+(e) in a case described in subparagraph (a)(ii), to have acquired the property for use exclusively in commercial activities of the particular person.[20]
+[58] As described in the technical notes, the purpose of s.180 is to prevent GST from being paid twice due to a non-resident in the billing chain having paid tax without being able to claim ITCs.
+[59] Section 180 provides relief where legal delivery occurs in Canada, but the non-resident pays GST/HST on import.
+[60] One important difference between subsection 178.8(2) and section 180 is that section 180, unlike subsection 178.8(2), requires evidence satisfactory to the Minister that the tax has been paid.
+[61] The CRA has provided that for the purposes of section 180:
+“Satisfactory proof includes a copy of Canada Border Services Agency (CBSA) Form B3-3, Canada Customs Coding Form, showing that the GST or the federal part of the HST was paid at the time of import.”[21]
+[62] It was clear, based on the evidence of Mr. Hatfield, as well as the working papers that were put in evidence, that s.180 was not considered at the audit or objection stage. The section was only added, in the amended Notice of Appeal, well into the litigation process (in fact the trial of this matter was adjourned, in part, to allow the appellant to amend pleadings and add this argument). The Minister clearly did not turn their mind to this provision until late in the litigation process.
+[63] Mr. Hatfield’s statement at trial does not bind the Minister. He did not state that he accepted, at audit, that “the non-resident provides the taxpayer with evidence that is satisfactory to the Minister that the tax has been paid.” He testified that he felt that the GST should have been paid at the border. He also testified that the issue was probably the lack of records.
+[64] Despite the able and creative submissions from appellant’s counsel, I do not find that the Minister concluded that evidence that is satisfactory to the Minister that the tax has been paid exists. The Amended Notice of Reply states the respondent’s position. The lack of records, or any evidence, concerning the transaction on which the ITCs are claimed supports their position. Even if it were in my authority, I would not override the Minister’s discretion on this point. I therefore find that section 180 does not apply.
+[65] If I am wrong, and section 180 does apply, I still am unable to allow the appeal and allow the ITCs the appellant seeks. This is because, as set out below, the appellant fails to meet the requirements of s. 169 of the Act.
+D. Requirements to Qualify for ITCs
+[66] As described above, the appellant admitted at the outset of trial that the ITCs claimed were incorrect. This error was a result of a flawed methodology. In determining the ITCs (in issue) the appellant used bank statements to identify purchases, and then applied a 13/113 calculation to determine the ITCs. Given that these ITCs relate to goods purchased from non-registrants in the United States, the only GST that would have been paid was 5%, incurred when importing the goods into Canada. This concession by the appellant reduced the input tax credit claim in issue at trial from the aggregate amount of $474,816 to $182,622.
+[67] As the appellant’s counsel stated in her submission, she comes to Tax Court with imperfect evidence. Some purchase invoices were put into evidence. The appellant in many instances purchased goods simply based on a telephone call. In these instances, no supporting documents exists.
+[68] The other documents that should have been presented at trial, or at least evidence of their content, would be the CBSA remittance forms, showing how much GST was paid when purchased items came over the border. But for one instance, these forms were not present. This lack of evidence makes it very difficult to find in the appellant’s favour.
+[69] The foreign supplier invoices in evidence did not show GST being paid. There is no documentation showing GST being paid, nor has evidence been provided of specific GST being paid that relates to an ITC claim. It is my conclusion, as I review the lack of evidence of this case, that I am unable to even allow a portion of the ITCs in issue.
+[70] For the reasons set out below, the lack of evidence from the appellant concerning the payment of GST by the non-registrants is fatal to their case.
+E. General Description Concerning Recovery of ITCs
+[71] Generally speaking, a business carrying on commercial activity can recover the GST or HST it incurs through ITCs. The effect is to make the transactions tax neutral.
+[72] As noted above, if either section 178.8 or section 180 applies, and the appellant is deemed to have paid the amount of tax paid or payable, the appellant would still need to meet specific evidentiary requirements to qualify for ITCs. These requirements are provided in the Act and in the ITC Regulations.[22] The relevant provisions for the purposes of determining the necessary documentation to qualify for ITCs are as follows:
+169 …
+Required documentation
+(4) A registrant may not claim an input tax credit for a reporting period unless, before filing the return in which the credit is claimed,
+(a) the registrant has obtained sufficient evidence in such form containing such information as will enable the amount of the input tax credit to be determined, including any such information as may be prescribed; and
+(b) where the credit is in respect of property or a service supplied to the registrant in circumstances in which the registrant is required to report the tax payable in respect of the supply in a return filed with the Minister under this Part, the registrant has so reported the tax in a return filed under this Part.”[23]
+In these Regulations,
+…
+supporting documentation means the form in which information prescribed by section 3 is contained, and includes
+(a) an invoice,
+(b) a receipt,
+(c) a credit-card receipt,
+(d) a debit note,
+(e) a book or ledger of account,
+(f) a written contract or agreement,
+(g) any record contained in a computerized or electronic retrieval or data storage system, and
+(h) any other document validly issued or signed by a registrant in respect of a supply made by the registrant in respect of which there is tax paid or payable;
+…
+Prescribed Information
+(3) For the purposes of paragraph 169(4)(a) of the Act, the following information is prescribed information:
+(a) where the total amount paid or payable shown on the supporting documentation in respect of the supply or, if the supporting documentation is in respect of more than one supply, the supplies, is less than $30,
+(i) the name of the supplier or the intermediary in respect of the supply, or the name under which the supplier or the intermediary does business,
+(ii) where an invoice is issued in respect of the supply or the supplies, the date of the invoice,
+(iii) where an invoice is not issued in respect of the supply or the supplies, the date on which there is tax paid or payable in respect thereof, and
+(iv) the total amount paid or payable for all of the supplies;
+(b) where the total amount paid or payable shown on the supporting documentation in respect of the supply or, if the supporting documentation is in respect of more than one supply, the supplies, is $30 or more and less than $150,
+(i) the name of the supplier or the intermediary in respect of the supply, or the name under which the supplier or the intermediary does business, and the registration number assigned under section 241 of the Act to the supplier or the intermediary, as the case may be,
+(ii) the information set out in subparagraphs (a)(ii) to (iv),
+(iii) where the amount paid or payable for the supply or the supplies does not include the amount of tax paid or payable in respect thereof,
+(A) the amount of tax paid or payable in respect of each supply or in respect of all of the supplies, or
+(B) where provincial sales tax is payable in respect of each taxable supply that is not a zero-rated supply and is not payable in respect of any exempt supply or zero-rated supply,
+(I) the total of the tax paid or payable under Division II of Part IX of the Act and the provincial sales tax paid or payable in respect of each taxable supply, and a statement to the effect that the total in respect of each taxable supply includes the tax paid or payable under that Division, or
+(II) the total of the tax paid or payable under Division II of Part IX of the Act and the provincial sales tax paid or payable in respect of all taxable supplies, and a statement to the effect that the total includes the tax paid or payable under that Division,
+(iv) where the amount paid or payable for the supply or the supplies includes the amount of tax paid or payable in respect thereof and one or more supplies are taxable supplies that are not zero-rated supplies,
+(A) a statement to the effect that tax is included in the amount paid or payable for each taxable supply,
+(B) the total (referred to in this paragraph as the “total tax rate”) of the rates at which tax was paid or payable in respect of each of the taxable supplies that is not a zero-rated supply, and
+(C) the amount paid or payable for each such supply or the total amount paid or payable for all such supplies to which the same total tax rate applies, and
+(v) where the status of two or more supplies is different, an indication of the status of each taxable supply that is not a zero-rated supply; and
+(c) where the total amount paid or payable shown on the supporting documentation in respect of the supply or, if the supporting documentation is in respect of more than one supply, the supplies, is $150 or more,
+(i) the information set out in paragraphs (a) and (b),
+(ii) the recipient’s name, the name under which the recipient does business or the name of the recipient’s duly authorized agent or representative,
+(iii) the terms of payment, and
+(iv) a description of each supply sufficient to identify it.[24]
+[73] Put succinctly, ss. 169(4) provides that an ITC cannot be successfully claimed unless the registrant has obtained sufficient evidence as will enable the amount of the ITC to be determined. That simply does not exist in this case.
+[74] I have come to this conclusion, even in light of reviewing the recent decision of Fiera Foods[25], wherein the following was stated concerning 169(4):
+[278] Reading the words of paragraph 169(4)(a) in their entire context and in their grammatical and ordinary sense, the paragraph prohibits a person from claiming an input tax credit unless the person has, prior to claiming the input tax credit in a return, obtained sufficient evidence in such form containing such information (including any prescribed information) as enables the amount of the input tax credit to be determined.
+[279] The clear focus of the paragraph is not the form of the evidence as such, which is unspecified, but the requirement that the evidence include the information necessary to determine the amount of the input tax credit. This information includes any information prescribed by the Information Regulations.
+[280] The French version of paragraph 169(4)(a) makes this point more succinctly when it states:
+(4) L’inscrit peut demander un crédit de taxe sur les intrants pour une période de déclaration si, avant de produire la déclaration à cette fin:
+a) il obtient les renseignements suffisants pour établir le montant du crédit, y compris les renseignements visés par règlement;
+[281] The French text simply requires that the person claiming the input tax credit obtain information (including prescribed information) sufficient to establish the amount of the input tax credit.[26]
+[75] Thus, the appellant must have obtained sufficient evidence to demonstrate the amount of ITCs claimed is correct. As noted above, that has not occurred in this matter.
+[76] What has been put in evidence is a portion of invoices. I have no indication as to what GST was paid to the Minister, if any, on these transactions. I do not accept that a review of the appellant’s bank statements indicating money being paid to non-registrant foreign sellers is sufficient to calculate the ITCs.
+[77] The only complete record I have of the transactions in issue, as described in paragraph 38 above, indicates that the appellant claimed far more ITCs than he was entitled to. This is on only one transaction. However, it does indicate the importance of sufficient evidence to determine the amount of ITCs the appellant is entitled to.
+[78] I therefore must deny the appeal concerning the ITCs.
+F. Was the Minister Entitled to Reassess the Appellant for the Statute-Barred Years?
+[79] Under the Act, the Minister generally cannot reassess a taxpayer more than four years after the later of 1) the date in which a taxpayer was required to file a return under section 238 or 2) the day the return was actually filed.[27] However, subsection 298(4) of the Act provides an exception for statute-barred years where the taxpayer filed a waiver with respect to the year, committed fraud in making its return or “made a misrepresentation that is attributable to the person’s neglect, carelessness or wilful default.”[28] The respondent admits that the reporting periods ending on April 30, 2010 and April 30, 2011 are statute-barred.[29]
+[80] The language in this provision is nearly identical to the equivalent provision in the Income Tax Act. Therefore, it is reasonable to apply the same broad principles in determining whether the Minister is justified in reassessing a taxpayer in a statute-barred year.
+[81] We must determine whether the appellant made a “misrepresentation attributable to … neglect, carelessness or wilful default.” The threshold to meet the misrepresentation requirement is low and it is generally met if a taxpayer made a false statement on their return.[30]
+[82] Citing Venne, the Court in Reluxicorp found that “[t]here will be negligence where the respondent establishes that the appellant did not exercise reasonable care.”[31] Similarly, “there will be carelessness if the person failed to make reasonable efforts to comply with the Act.”[32] In MF Electric, the Court cited Regina Shoppers for the principle “that the care that must be exercised must be that of a wise and prudent person and that the report must be made in a manner that the taxpayer truly believes to be correct.”[33] This standard is lower than what is required to establish gross negligence.[34]
+[83] Courts have consistently found that taxpayers cannot avoid being found negligent or careless merely because they relied on their accountant.[35]
+[84] The specific amounts in issue in the Statute-Barred Periods are:
+Period ending April 30, 2010
+- GST/HST remittable as filed $63,753.41
+- ITCs as filed $64,755.20;
+- Net tax as filed was negative $1,001.79.
+- As a result of the audit adjustments, which I accept were correct, an additional GST of $5,363.68 should have been remitted;
+- The over claim of ITCs was $6,379.79. There was an additional ITC audit adjustment of $2,069.77.
+- The total audit adjustment was $13,813.24.
+Period ending April 30, 2011
+- GST/HST remittable as filed $157,840
+- ITCs as filed $149,686;
+- Net tax as filed was $8,154.
+- As a result of the audit adjustments, which I accept were correct, an additional GST of $.25 should have been remitted;
+- The over claim of ITCs was calculated in two amounts $7,450.77 (from the US account), $9855.46 (from the RPW account) and an additional ITC adjustment of $10,977.71.
+- The total audit adjustment was $28,284.19.
+[85] I find that the appellant was, at a bare minimum, careless in the Statute-Barred Periods. I rely upon the following factors:
+i)No contemporaneous bookkeeping was performed. The methodology used by the appellant, involving a yearly calculation using bank statements, certainly would lead to an incorrect amount for both the GST/HST that had to be remitted as well as the ITCs claimed;
+ii)ITCs were claimed based on a 13/113 calculation which lead to a vast over claim;
+iii)No proper records were obtained to support the ITCs claimed.
+[86] Therefore I find that the appellant, in not keeping proper books and records, and using a methodology to calculate the ITCs that was plainly wrong, was negligent or careless. The Minister was therefore able to reopen the periods ending April 30, 2010 and April 30, 2011.
+G. Section 285 Penalty in the Amount of $161,953.00
+[87] Section 285 of the Act imposes penalties on taxpayers who “knowingly, or under circumstances amounting to gross negligence, makes or participates in, assents to or acquiesces in the making of a false statement or omissions in a return…” The quoted text and purpose of section 285 is nearly identical to the equivalent provision in the Income Tax Act and courts apply the same general principles under both provisions.[36] The appellant does not bear the burden to “demolish” the Minister’s assumptions for the purposes of penalties under section 285 of the Act.[37]
+[88] The “knowingly” or “gross negligence” requirements under section 285 are not conjunctive and the Minister may meet its onus by establishing either requirement.[38] The Tax Court in Fiera Foods found that “[a] ‘false statement’ is a statement in a return that is untrue and an ‘omission’ is something that is left out of a return.”[39] To apply a section 285 penalty, the Minister must establish that the appellant made the false statement 1) knowingly or in circumstances amounting to 2) gross negligence.
+(i) Gross Negligence
+[89] The FCA found that unreported taxable income “does not inevitably lead to a conclusion that a gross negligence penalty [or reopening a statute-barred year] is justified.”[40] However, if the taxpayer does not provide a reasonable explanation for the discrepancy then a trial judge “can draw the inference that the taxpayer was grossly negligent” if 1) such an inference is reasonable and 2) the evidence does “not allow for a different explanation.”[41]
+[90] The following principle from Venne was affirmed by the SCC in Guindon: “‘Gross negligence’ must be taken to involve greater neglect than simply a failure to use reasonable care. It must involve a high degree of negligence tantamount to intentional acting, an indifference to as to whether the law is complied with or not.”[42]
+[91] The burden “is closer to the criminal onus under the Criminal Code than it is to a balance of probabilities.”[43] The extent of a taxpayer’s knowledge of business and tax matters is a factor in determining if they were grossly negligent.[44]
+(ii) Knowingly
+[92] To meet the “knowingly” requirement, the Minister must establish that the taxpayer had “subjective knowledge” that it was making a false statement on a tax return. Because a taxpayer will typically not admit that it had knowledge that it was making a false statement, this requirement is often established by demonstrating that the taxpayer was either wilfully blind or that it ought to have known that the return contained false information. The Court in Torres outlined the following principles to apply in determining if a taxpayer was wilfully blind:
+a) Knowledge of a false statement can be imputed by wilful blindness.
+b) The concept of wilful blindness can be applied to gross negligence penalties pursuant to subsection 163(2) of the Act and it is appropriate to do so in the cases before me.
+c) In determining wilful blindness, consideration must be given to the education and experience of the taxpayer.
+d) To find wilful blindness there must be a need or a suspicion for an inquiry.
+e) Circumstances that would indicate a need for an inquiry prior to filing, or flashing red lights as I called it in the Bhatti decision, include the following:
+i) the magnitude of the advantage or omission;
+ii) the blatantness of the false statement and how readily detectable it is;
+iii) the lack of acknowledgment by the tax preparer who prepared the return in the return itself;
+iv) unusual requests made by the tax preparer;
+v) the tax preparer being previously unknown to the taxpayer;
+vi) incomprehensible explanations by the tax preparer;
+vii) whether others engaged the tax preparer or warned against doing so, or the taxpayer himself or herself expresses concern about telling others.
+f) The final requirement for wilful blindness is that the taxpayer makes no inquiry of the tax preparer to understand the return, nor makes any inquiry of a third party, nor the CRA itself.[45]
+[93] In determining whether penalties should apply, I cannot find any reason why any individual reporting period before me is distinct from another. Therefore, I will deal with all the reporting periods as one. I rely upon the following facts, to support my conclusion that penalties were properly assessed in this instance:
+The appellant admitted that they used an improper method to calculate GST. This lead to a trial admission by the appellant that ITCs were over claimed in the amount of $292,194 (see paragraph 66)[46] and an overall denial of ITCs in this decision amounting to $474,816;
+The appellant underreported GST/HST remittable for the periods in the amount of $114,032.56;
+Based upon the adjustments made to the appellant’s general ledger concerning the GST/HST payable, I find the appellant had knowledge that these amounts were underreported and did not correct these errors;
+The net tax adjustment of $646,784.27 is material, and relates directly to the appellant improperly claiming ITCs and underreporting GST/HST payable;
+Proper books and records were both not obtained (in many instances) or were not kept to support the GST/HST filings;
+Mr. Bajwa, the sole shareholder and president of the appellant, was an experienced businessperson, educated, and had the services of an accountant. Related to this finding, the appellant has been involved in the importing and exporting of goods for a number of years, and most likely has knowledge of the tax consequences of these transactions;
+I did not find Mr. Bajwa’s evidence concerning his lack of knowledge concerning the accounting of the appellant’s business, or its reporting requirements, to be credible;
+The evidence of Mr. Bajwa was that he made no inquiry of his accountant, who prepared his taxes, to understand his return, or his tax obligations. Furthermore no evidence was lead that he made any inquiries of third parties to inform himself;
+In the only instance of documentation showing the amount of GST paid in bringing goods into Canada, the appellant’s agent vastly understated the value of the goods as being $322 instead of $10,761.73 US;
+[94] Based on the above factors, I find that the appellant was either willfully blind or grossly negligent.
+[95] The appellant has relied upon a case, Bandula, for the proposition that the respondent has not properly plead the correctness of the computation of the penalty amount. Much the same as was found in Bandula, I am satisfied that the Minister sufficiently pleaded the subsection 163(2) penalties and indicated how and why same would apply. Further, any deficiency in those pleadings or failure to lead evidence ought not to have been reserved by the appellant until reply submissions.[47]
+V. CONCLUSION
+[96] Based upon the reasons set out above, the Appeal is denied in its entirety. Costs are payable by the appellant.
+Signed at Toronto, Ontario, this 14th day of March 2024.
+“R. MacPhee”
+MacPhee J.
+CITATION:
+2024 TCC 35
+COURT FILE NO.:
+2018-2320(GST)G
+STYLE OF CAUSE:
+ENCORE CELLULAR INC. AND HIS MAJESTY THE KING
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+November 27-29, 2023
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Ronald MacPhee
+DATE OF JUDGMENT:
+March 14, 2024
+APPEARANCES:
+Counsel for the Appellant:
+Leigh Somerville Taylor
+Counsel for the Respondent:
+Khalid Tariq
+David Lasaga
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Leigh Somerville Taylor
+Firm:
+Leigh Somerville Taylor Professional Corporation, Toronto, Canada
+For the Respondent:
+Shalene Curtis-Micallef Deputy Attorney General of Canada Ottawa, Canada
+[1] RSC 1985, c E-15.
+[2] I also note that the respondent’s Amended Reply to the appellant’s Notice of Appeal (at paragraph 14) plead that the Minister, in recording the audit adjustments relative to the Net Tax Variance in the Statement of Audit Adjustments for the Reporting periods, erroneously reversed the GST/HST variance and the ITC Variance for certain reporting periods. While it was discussed at the end of trial, this issue was not plead in the Amended Notice of Appeal, nor was a clear position taken by the appellant as to how it should affect my decision. Therefore, I will not consider it in my decision.
+[3] The meaning of the RPW designation was not known by either the appellant nor the respondent.
+[4] These are the denied ITCs put in issue at trial. The appellant previously conceded other ITCs in the relevant period were properly denied.
+[5] Reply at paras 16(d), (f) and (p).
+[6] Transcript, (November 27, 2023) at 162-163, lines 20-28 and 1-3.
+[7] Transcript, (November 27, 2023) at 176, lines 5-9.
+[8] Transcript, (November 28, 2023) at 14, lines 2-12
+[9] Transcript, (November 28, 2023) at 14, lines 23-28.
+[10] Transcript, (November 28, 2023) at 17-18, lines 15-28 and 1-6.
+[11] The value of the US dollar was very close to the value of the Canadian dollar in January 2013.
+[12] Transcript, (November 28, 2023) at 90, lines 5-12.
+[13] Transcript, (November 28, 2023) at 90-91, lines 19-28 and 1-21.
+[14] The Act supra note 1 at s 169(1).
+[15] Ibid.
+[16] Section 180 was amended in 2017 retroactive to July 22, 2016. The amendment to section 180 is minor and is not material to the appeal
+[17] The Act supra note 1 at ss. 178(1)-(2).
+[18] Ibid at s 178.8(9).
+[19] Canada, Department of Finance, Backgrounder to Department of Finance news release 2003-046, (Ottawa: Department of Finance, 2003), at Import Arrangements for Goods Supplied Outside Canada.
+[20] The Act supra note 1 at ss 178.8 and 180.
+[21] Canada, Canada Revenue Agency, Doing Business in Canada – GST/HST Information for Non-Residents (Guide RC 4027), (Canada Revenue Agency, 2022) at 12; also see Canada, Canada Revenue Agency, GST/HST Memorandum 3-3-1, Drop-Shipments (Canada Revenue Agency, June 2008) at para 73.
+[22] The Act supra note 1 at s 169(4); Input Tax Credit Information (GST/HST) Regulations, SOR/91-45 at ss 2-3 [ITC Regulations].
+[23] The Act supra note 1 at s 169(4).
+[24] ITC Regulations supra note 22 at ss 2-3.
+[25] Fiera Foods Company v The King, 2023 TCC 140 [Fiera Foods].
+[26] Ibid at paras 278-281.
+[27] The Act supra note 1 at s 298(1)(a).
+[28] The Act supra note 1 at s 298(4).
+[29] Notice of Appeal at para 2; Reply at para 2.
+[30] MF Electric Incorporated v His Majesty the King, 2023 TCC 60 at para 33 [MF Electric].
+[31] Reluxicorp Inc. c. R., 2011 TCC 336 at para 34 [Reluxicorp]; L Venne v The Queen, [1984] CTC 223, [1984] FCL No 314 (QL) [Venne].
+[32] Reluxicorp supra note 31 at para 34.
+[33] MF Electric supra note 30 at para 36; Regina Shoppers Mall Ltd. v R, 1991 CarswellNat 382, [1991] 1 C.T.C. 297 [Regina Shoppers] at para 7; this quote was also cited with approval in Mohammad Yadgar v His Majesty the King, 2023 TCC 104 at para 20 [Yadgar]; also see Gessner v The King, 2023 TCC 87 at para 45 [Gessner] where the Court cited the same principle from Regina Shoppers with approval.
+[34] Halls v The Queen, 2022 TCC 14 at para 57; Vocan Health Assessors Inc. v Her Majesty the Queen, 2021 TCC 49 at para 148 [Vocan Health].
+[35] MF Electric supra note 33 at para 35; Yadgar supra note 33 at paras 21-22; Venne supra note 31 at paras 17 and 19; Snowball v. R., 1996 CarswellNat 1309, [1996] 2 C.T.C. 2513, 97 D.T.C. 512 (T.C.C.) at para 18.
+[36] Income Tax Act, RSC 1985, c. 1 (5th Supp.), as amended [Income Tax Act]; Fiera Foods supra note 25 at para 334; Fourney v R, 2011 TCC 520 [Fourney] at paras 70-78; Alex Excavating Inc. v Canada, 1995 CarswellNat 47, [1995] G.S.T.C. 57 at para 64 [Alex Excavating].
+[37] Alex Excavating supra note 36 at para 64; Rexe v R, 2008 TCC 360 at para 37 [Rexe]; Vocan Health supra note 34 at para 147.
+[38] The FCA found that these requirements were disjunctive under subsection 162(2) of the Income Tax Act in Wynter v R, 2017 FCA 195 at para 11 [Wynter] and in Canada v Paletta, 2022 FCA 86 at para 66 [Paletta].
+[39] Fiera Foods supra note 25 at para 328.
+[40] Lacroix v R, 2008 FCA 241 at para 32 [Lacroix]; Deyab v Her Majesty the Queen, 2020 FCA 222 at paras 65-66 leave to appeal to SCC dismissed [Deyab]; Deyab was affirmed in the context of gross negligence penalties in Khanna v Canada, 2022 FCA 84 at paras 23-34.
+[41] Fourney supra note 36.
+[42] Venne supra note 31 at para 37; Guindon v Canada, 2015 SCC 41 at para 60 [Guindon]; Wynter supra note 38 at para 19; Paletta supra note 38 at para 67; Rexe supra note 92 at para 37; Vocan Health supra note 34 at para 148.
+[43] Lust v R, 2009 TCC 577 at para 23.
+[44] Venne supra note 31 at para 37
+[45] Torres v R, 2013 TCC 380 at para 65 [Torres].
+[46] An additional $81,874.32 was admitted by the appellant to be over claimed. This was not in issue at trial.
+[47] Sandor Bandula v. Her Majesty the Queen, 2013 TCC 282 at paragraph 29 [Bandula].

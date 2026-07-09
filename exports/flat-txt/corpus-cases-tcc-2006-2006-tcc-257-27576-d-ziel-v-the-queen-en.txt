@@ -1,0 +1,148 @@
+Title: Déziel v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27576/index.do
+Corpus path: corpus/cases/tcc/2006/2006-tcc-257-27576-d-ziel-v-the-queen-en.md
+Document type: case_law
+Last modified: 2006-05-04
+
+# Déziel v. The Queen
+
+- Citation: 2006 TCC 257
+- Decision date: 2006-05-04
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 71, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Déziel v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-05-04
+Neutral citation
+2006 TCC 257
+File numbers
+2005-3463(IT)I
+Judges and Taxing Officers
+Alain Tardif
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2005-3463(IT)I
+BETWEEN:
+JEAN DÉZIEL,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard April 18, 2006, at Québec, Quebec
+Before: The Honourable Justice Alain Tardif
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Martin Gentile
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment established under the Income Tax Act for the 2003 taxation year is allowed, without costs, and the reassessment is vacated, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 4th day of May 2006.
+"Alain Tardif"
+Tardif J.
+Translation certified true
+on this 18th day of May 2006.
+Elizabeth Tan, Translator
+Citation: 2006TCC257
+Date: 20060504
+Docket: 2005-3463(IT)I
+BETWEEN:
+JEAN DÉZIEL,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Tardif J.
+[1] This is an appeal from an assessment established under the Income Tax Act (the "Act") by the Minister of National Revenue (the "Minister") for the 2003 taxation year.
+[2] The issue is whether, for the 2003 taxation year, the Minister was right to add $2,490 as a taxable benefit regarding the use of a vehicle provided by the company "9092-2006 Québec inc." in the calculation of the Appellant's income.
+[3] To explain and justify the assessment, the Respondent relied on the following presumptions of fact:
+[translation]
+Background
+(a) during the period in question, the company "9092-2006 Québec inc." operated a business in the advertising field.;
+(b) the fiscal year of the company "9092-2006 Québec inc." for the period in question, ended on December 31, 2003;
+(c) during the period in question, the common shares of the company "9092-2006 Québec inc." were held by his spouse, Suzanne Beaudry;
+(d) during the period in question, the Appellant held positions as administrator and as employee with the company;
+(e) the business establishment of the company "9092-2006 Québec inc." is located at the same address as the Appellant;
+Taxable Benefits
+(f) the Minister found that for the 2003 taxation year, the Appellant gained a taxable benefit assessed at $2,490 from using a vehicle provided by the employer for personal use, according to the following data:
+(i) until August 23, 2003, the company "9092-2006 Québec inc." had a Dodge Caravan (2000), the value of which was registered at $15,023,
+(ii) on August 23, 2003, the company "9092-2006 Québec inc." acquired a new Dodge Caravan (2004), the cost of which was $31,223; the company paid part of the cost of the minivan by exchanging the Dodge Caravan (2000),
+(iii) during the fiscal year, the company "9092-2006 Québec inc." made the two vehicles available to the Appellant, according to the period of ownership,
+(iv) no record of the company "9092-2006 Québec inc." regarding the movements of the vehicles for the financial year ending December 31, 2003, was submitted for verification,
+(v) during the taxation year in question, the Appellant owned a Harley Davidson motorcycle (2003) and a collector's car from 1938,
+(vi) during the taxation year in question, the Appellant's spouse was the owner of a 2003 Subaru Outback,
+(vii) the Appellant also claimed that during the taxation year in question his daughter owned her own car,
+(viii) the personal distance driven was established at 6 000km/year, while the total and yearly distance of the vehicles was assessed at 27,600 km for the fiscal year ending December 31, 2003,
+(ix) the benefits related to using the vehicle provided by the employer are distributed as follows, according to the attached appendix:
+2003
+(a)
+right to use
+$2,470
+(b)
+operating costs
+$1,020
+$2,490.
+[4] In support of the proof, which was his burden, the Appellant presented rather circumstantial evidence.
+[5] With the cooperation of witness Benoît Robichaud, he described the nature of the commercial activities with which he was personally associated, for the company 9092-2006 Québec inc.
+[6] Mr. Robichaud explained that he knew the Appellant very well since the Appellant went to the company where he worked almost every day to place orders, and also to pick up deliveries of orders, since he was responsible for deliveries himself in the Québec City area.
+[7] The sales figures for the company 9092-2006 Québec inc. were around $500,000/year. It was a very dynamic company and client loyalty was excellent. The Appellant explained and described some of his initiatives that were designed to increase the company's sales figures.
+[8] He also explained the work he performed with the vehicle that is the object of the assessment. He was clearly dynamic and aggressive in his promotions of the company that owned the truck and his actions to satisfy the clients-an essential aspect to wanting to increase the company's income. He explained that the vehicle was used almost entirely and exclusively for the company.
+[9] He described the truck as being essentially a service vehicle, because of its type and also the layout and its exterior appearance, because of the writing on the outside. He unequivocally stated that he drove a maximum of around 100 kilometres a year, spread over ten or so outings, most of which were with regard to the purchasing or spreading of fertilizer at his residence. He also stated and repeated a number of times that the vehicle was not practical for his personal needs and was not in the least bit interesting.
+[10] Moreover, the company's place of business was at the same location as his family residence; he therefore did not need to use the vehicle to go to work and back.
+[11] He explained that for his personal needs, he had the use of his spouse's vehicle, a Subaru Outback, his daughter's car, a motorcycle, and also a transformed period vehicle with modern components that made it as functional and pleasant as a recent vehicle, and moreover it drew attention, which is an important element in the context of his work.
+[12] Jocelyn Tendland's testimony established that the 6,000 kilometres driven by the Appellant for personal use was decided rather arbitrarily. Mr. Tendland assumed that the vehicle in question was available to the Appellant; he set the number of kilometres driven for personal use in a very subjective way, since there was no genuine basis to his assessment.
+[13] It was from this availability that, for all intents and purposes, was a taxable benefit, that he tried to assess the value. Mr. Tendland stated that the data he consulted in carrying out his audit mandate was well compiled and flawless; in other words, the company's accounting records were well kept.
+[14] Despite many questions aimed at discovering the formula used to assess the portion defined as personal use, the witness was not able to explain it or give a clear and convincing description of it.
+[15] The explanations submitted were always that it was a highly likely percentage, and a marginal one at that, and the witness was even a little surprised that the Appellant questioned this addition to his income, considering how small the amount in question was.
+[16] The explanation given was reasonable, but was it enough to justify the basis of the assessment?
+[17] The Appellant was well prepared, and very strongly claimed that he used the vehicle for personal use in a very limited way; his assessment in terms of distance was around 100 kilometres.
+[18] As for the number of times per year, he stated it might have been ten or so times, adding that for each of the two figures, he had used his personal vehicle for professional purposes more often and for greater distances, without having claimed expenses for it.
+[19] He also insisted that he did not claim expenses for meals, representation, etc., and added that his accounting is beyond reproach and he always met all his fiscal responsibilities.
+[20] I must make a decision on this appeal using only the facts directly related to the commercial vehicle. The other aspects, such as the use of his personal vehicle for business purposes and not claiming meal expenses are not relevant.
+[21] The burden of proof was on the Appellant. In this regard, the best way to show use of a vehicle is without a doubt with a record or log book where the data registered is credible, reliable and beyond reproach.
+[22] This method allows for an interesting method, in that it allows for a mathematical and generally reliable assessment from which conclusions can be drawn, so long as the record is completed according to trade practices, and real entries are made at the relevant times.
+[23] Is it absolutely necessary, or is it possible to contest an assessment without such a record? Although it would be preferable to have such a record, it is possible to contest without one, in particular if the vehicle is used solely for commercial purposes. In such a case, the record might only be used to describe the personal use.
+[24] In this case, the Appellant's version is believable. He explained the facts using circumstantial evidence coherently and also reasonably.
+[25] The explanations given were that he drove at most 100 kilometres per year, which, in itself, would be unlikely if this was a comfortable vehicle, nice to drive, nice looking or an interesting model that would also have other characteristics in terms of power and accessories such as stereo system, navigation, handling, and so on. The evidence established that the vehicle whose use is at the basis of the assessment was a completely different vehicle, namely a service vehicle with all the related inconveniences.
+[26] In this case, it was a service vehicle in terms of the model and the interior set up. Moreover, it had writing on it and was of a colour that would attract the attention of potential clients. Overall, this vehicle was very different from one a driver would want to drive during his time off or for fun.
+[27] For all these reasons, I accept the version of the facts submitted by the Appellant, that he did not gain any taxable benefit from the personal use of the commercial vehicle used for his work.
+[28] The appeal is allowed and the reassessment is vacated.
+Signed at Ottawa, Canada, this 4th day of May 2006.
+"Alain Tardif"
+Tardif J.
+Translation certified true
+on this 18th day of May 2006.
+Elizabeth Tan, Translator
+CITATION : 2006TCC257
+COURT FILE No.: 2005-3463(IT)I
+STYLE OF CAUSE: Jean Déziel and Her Majesty the Queen
+PLACE OF HEARING: Québec, Quebec
+DATE OF HEARING: April 18, 2006
+REASONS FOR JUDGMENT BY: The Honourable Justice Alain Tardif
+DATE OF JUDGMENT: May 4, 2006
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Martin Gentile
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

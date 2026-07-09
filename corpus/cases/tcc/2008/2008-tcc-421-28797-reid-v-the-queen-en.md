@@ -1,0 +1,179 @@
+---
+title: "Reid v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28797/index.do"
+last_modified: "2008-07-30"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 TCC 421"
+citation2: ""
+neutral_citation: "2008 TCC 421"
+decision_date: "2008-07-30"
+language: "en"
+item_id: "28797"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1517
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T23:58:27.627000+00:00"
+cases_cited_count: 0
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "ae1b25bf70887da05269309d4184ddbebac658d920ac08ce252fff19649ba773"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Reid v. The Queen
+
+- Citation: 2008 TCC 421
+- Decision date: 2008-07-30
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1517, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Reid v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-07-30
+Neutral citation
+2008 TCC 421
+File numbers
+2007-4573(IT)I
+Judges and Taxing Officers
+Patrick J. Boyle
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2007-4573(IT)I
+BETWEEN:
+MICHAEL J. REID,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on May 2, 2008, at Toronto, Ontario.
+Before: The Honourable Justice Patrick Boyle
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Alexandra Humphrey
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 2006 taxation year is allowed in part. The Appellant’s assessment is varied in accordance with the Reasons for Judgment. The Appellant is entitled to costs fixed in the amount of $800 inclusive of the filing fee.
+Signed at Ottawa, Canada, this 30th day of July 2008.
+"Patrick Boyle"
+Boyle, J.
+Citation: 2008 TCC 421
+Date: 20080730
+Docket: 2007-4573(IT)I
+BETWEEN:
+MICHAEL J. REID,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Boyle, J.
+[1] Mr. Reid turned sixty in May 2006 and began collecting his Canada Pension Plan (“CPP”) pension. This appeal involves how contributions are assessed on self‑employment income for the year in which one reaches pensionable age.
+[2] Mr. Reid’s sixtieth birthday was May 17, 2006. In 2006, he did not earn any income which would be subject to CPP contributions before his birthday. He did earn income from self-employment in the latter half of the year, after he had turned sixty and after he had started receiving his CPP pension cheques. Mr. Reid applied for his CPP pension benefit prior to his birthday and received his first pension cheque in June. While there was no direct evidence of when the CPP application was approved, I find that in order for him to have received his first cheque in June his application, more likely than not, must have been approved prior to June.
+I. Law
+[3] Division B of Part I of the CPP deals with Calculation of Contributions. The relevant parts of sections 12 and 13 of the CPP, dealing with salary and wages and self-employed earnings respectively, are set out below:
+Amount of contributory salary and wages
+12(1) The amount of the contributory salary and wages of a person for a year is the person's income for the year from pensionable employment, computed in accordance with the Income Tax Act (read without reference to subsection 7(8) of that Act), plus any deductions for the year made in computing that income otherwise than under paragraph 8(1)(c) of that Act, but does not include any such income received by the person
+(a) before he reaches eighteen years of age;
+(b) during any month that is excluded from that person’s contributory period under this Act or under a provincial pension plan by reason of disability; or
+(c) after he reaches seventy years of age or after a retirement pension becomes payable to him under this Act or under a provincial pension plan.
+Amount of contributory self-employed earnings
+13(1) The amount of the contributory self-employed earnings of a person for a year is the amount of his self-employed earnings for the year except that, for a year in which he reaches eighteen or seventy years of age, in which a retirement pension becomes payable to him under this Act or under a provincial pension plan, in which his contributory period ends under this Act or under a provincial pension plan by reason of disability or in which a disability pension ceases to be payable to him under this Act or under a provincial pension plan, the amount of his contributory self-employed earnings is an amount equal to that proportion of the amount of his self-employed earnings for the year that the number of months in the year
+(a) after
+(i) he reaches eighteen years of age, or
+(ii) the disability pension ceases to be payable, or
+(b) before
+(i) he reaches seventy years of age,
+(ii) the retirement pension becomes payable, or
+(iii) the month following the month in which his contributory period ends under this Act or under a provincial pension plan by reason of disability,
+is of twelve.
+(2) Subject to subsection (1), the contributory self-employed earnings of a person do not include earnings with respect to any period described in paragraph 12(1)(a), (b) or (c).
+Montant des traitement et salaire cotisables
+12(1) Le montant des traitement et salaire cotisables d’une personne pour une année est le revenu qu’elle retire pour l’année d’un emploi ouvrant droit à pension, calculé en conformité avec la Loi de l’impôt sur le revenu (compte non tenu du paragraphe 7(8) de cette loi), plus les déductions pour l’année, faites en calculant ce revenu autrement que selon les dispositions de l’alinéa 8(1)c) de cette loi, mais ne comprend aucun revenu de cette nature reçu par cette personne :
+a) soit avant qu’elle atteigne l’âge de dix-huit ans;
+b) soit au cours de tout mois qui, en raison d’une invalidité, n’est pas inclus dans la période cotisable de cette personne conformément à la présente loi ou à un régime provincial de pensions;
+c) soit après avoir atteint l’âge de soixante-dix ans ou après qu’une pension de retraite lui soit devenue payable en vertu de la présente loi ou selon un régime provincial de pensions.
+Montant des gains cotisables des travailleurs autonomes
+13(1) Le montant des gains cotisables provenant du travail qu’une personne exécute pour son propre compte, pour une année, est le montant de ses gains provenant du travail qu’elle exécute pour son propre compte pour l’année sauf que, à l’égard d’une année au cours de laquelle elle atteint l’âge de dix-huit ou de soixante-dix ans, ou au cours de laquelle une pension de retraite lui devient payable en application de la présente loi ou selon un régime provincial de pensions, ou au cours de laquelle sa période cotisable prend fin en raison d’une invalidité aux termes de la présente loi ou selon un régime provincial de pensions, ou encore au cours de laquelle une pension d’invalidité cesse de lui être payable en vertu de la présente loi ou selon un régime provincial de pensions, le montant de ses gains cotisables provenant du travail qu’elle exécute pour son propre compte est un montant égal à la proportion du montant, pour l’année, de ses gains provenant d’un tel travail que représente, par rapport à douze, le nombre de mois dans l’année, qui, selon le cas :
+a) suivent :
+(i) soit le moment où elle atteint l’âge de dix-huit ans,
+(ii) soit le moment où cette pension d’invalidité cesse de lui être payable;
+b) précèdent :
+(i) soit le moment où elle atteint l’âge de soixante-dix ans,
+(ii) soit le moment où cette pension de retraite lui devient payable,
+(iii) soit le mois suivant le mois au cours duquel sa période cotisable prend fin conformément à la présente loi ou à un régime provincial de pensions en raison d’une invalidité.
+(2) Sous réserve du paragraphe (1), les gains cotisables d’une personne provenant du travail qu’elle exécute pour son propre compte ne comprennent pas les gains à l’égard de toute période décrite à l’alinéa 12(1)a), b) ou c).
+[4] Division A of Part II of the CPP deals with Benefits Payable. The relevant portion of section 44 provides:
+Benefits payable
+44(1) Subject to this Part,
+(a) a retirement pension shall be paid to a contributor who has reached sixty years of age;
+Prestations payables
+44(1) Sous réserve des autres dispositions de la présente partie :
+a) une pension de retraite doit être payée à un cotisant qui a atteint l’âge de soixante ans;
+II. Analysis
+[5] The general approach of the CPP is that, after a person begins to receive the CPP pension, he no longer has to make CPP contributions on his earnings from employment (section 12) or self-employment (section 13).
+[6] However in the case of income from self-employment, the general rule in subsection 13(2) is expressly subject to subsection 13(1). Subsection 13(1) provides a specific computation method to allocate income in the year a person begins to receive CPP payments as between (i) the period before his birthday which should be subject to CPP contributions and (ii) the period after his birthday which should not be subject to CPP contributions. This rule does not look to when in the year amounts were actually earned. Instead, it assumes income is earned evenly throughout the year. Specifically, it says that the amount of self-employment income on which CPP contributions shall be made in that transition year is that portion of the year’s income that the number of months before the pension became payable is of the twelve months in the year. How the month in which the pension becomes payable is treated for this purpose, and whether that month is the birthday month or the month the first cheque is received, is addressed later in these reasons.
+[7] It is Mr. Reid’s position that, because all of his self-employment income for 2006 was earned after his birthday and after he received his first CPP cheque, no CPP contribution should be payable in respect of it. CRA assessed him for approximately $600 of CPP on this income, apparently by applying the transitional allocation/computation method in subsection 13(1). Mr. Reid maintains that his position is supported by the correspondence and publications of CRA, which collects CPP contributions, and by Human Resources and Development Canada which administers the CPP.
+[8] In support of his position, Mr. Reid points to the fact that his 2006 Notice of Assessment says: “You do not have to make CPP contributions for any period you received Canada or Québec pension plan retirement or disability benefits.”
+[9] Mr. Reid also points to two letters he received from HRDC which include the following:
+You can no longer contribute
+From the month your retirement pension starts, you cannot contribute to the CPP anymore. If you start working or become self-employed while receiving your pension, you may use this letter to tell your employer or the CRA that you no longer have to contribute to CPP.
+[10] The HRDC website says, under Frequently Asked Questions:
+Do I have to contribute to the Canada Pension Plan?
+You do not make contributions if you are receiving a Canada Pension Plan, CPP disability, or CPP retirement pension. At age 70, you stop contributing even if you have not taken your retirement pension and are still working.
+[11] According to Mr. Reid, in addition to the HRDC letters, he has been advised of the correctness of his position by several HRDC officers in his discussions with them.
+[12] Mr. Reid’s position is most understandable given that the HRDC letters to him clearly say income earned after the month his retirement pension starts is not subject to CPP contributions. The paragraph specifically refers to self-employment income. Further, the letter encourages him to use the letter to tell CRA that he does not have to pay CPP. That is exactly what he has been doing.
+[13] Unfortunately for Mr. Reid ― and regardless of my sympathies for the position which CRA’s somewhat confusing assessment language, and HRDC’s simply incorrect information, places him ― the CPP legislation is clear that the allocation/computation method for the year of transition to retirement applies regardless of the fact that his income was not earned evenly throughout the year and regardless of the fact that all of his self-employment income in that year was earned after he began receiving his CPP pension payments. Tax and similar legislation, like the CPP, has to be able to take such “rough justice” approaches that accomplish their objective equitably in most circumstances in a practicable and administrable fashion, even though they may not be perfectly equitable in all particular individual circumstances.
+[14] I am bound to apply the law as it is written by Parliament and, when the legislation is clear, without regard to what government officials may have advised taxpayers what that law says. Earlier incorrect advice or incorrect positions do not prevent the Crown from wanting the law appropriately applied by this Court. Nor does it allow this Court to depart from the law.
+[15] I conclude that Mr. Reid’s 2006 self-employment income is subject to CPP contributions in accordance with subsection 13(1). I now need to turn to whether the Minister has properly applied that provision in assessing Mr. Reid for the amount in question. However, before addressing that issue, I want to apologize to Mr. Reid for the unfortunate position in which he has found himself on the first issue. Clearly, the only reason this issue came to court is because of the two government departments involved. The first sentence of CRA’s very poor choice of language in what appears to be its standard form used when Canadians start to collect CPP is wrong and it is not how CRA in fact assessed Mr. Reid the first year in which he collected CPP. It is clear from the quoted paragraph in the HRDC letters to Mr. Reid, which also appear to be standard form, that HRDC is simply wrong and compounds the problem by telling people to use the letter to tell CRA they should not pay CPP in exactly these circumstances. This was not a problem of Mr. Reid’s making. The fault lies with CRA and HRDC. I would have expected that by the time this got to court, I would be told CRA has fixed its language, that CRA has pointed out to, and persuaded, HRDC that its position is wrong, and that HRDC has revised its website information.
+[16] The second issue of whether CRA has properly applied subsection 13(1) arises because the language used does not itself make it clear how to treat the month in which the pension first becomes payable. In this case, CRA included the month of May in “the number of months in the year before the retirement pension becomes payable.”
+[17] The lack of clarity in the language used as regards what to do with the transition month itself is expressly addressed in the Interpretation Act. Section 28 of the Interpretation Act provides that where there is a reference to a period of time consisting of a number of months before a specified day, the period is calculated by counting backward from the specified day the number of months, without including the month in which that day falls. This was not referred to in argument. This language clearly applies when persons start to collect a CPP pension. (There is a somewhat similar provision in subsection 2(2) of the CPP which only deals with reaching a particular age which therefore does not apply in this case.)
+[18] The Crown pointed out that, in any event, subparagraph 13(1)(b)(ii) refers to the time the pension becomes “payable” and argued that Mr. Reid’s pension became payable in June, the month following his sixtieth birthday. The Crown points out that even though the Division heading and the marginal note for subsection 44(1) refers to Benefits Payable, the provision sets out when the pension is to be “paid”. I am unable to agree with the Crown’s argument on this point. The CPP is not clear or precise in its use of the terms paid and payable in the way that the Income Tax Act is. This is highlighted by the Crown’s written submissions on this argument. To look further than section 44 requires an analysis of other provisions that do not mesh any better with section 13 and would, on these facts, arrive at the same result in any event.
+[19] Mr. Reid’s contributory self-employed earnings for 2006 are four-twelfths of his 2006 income from self-employment, not five-twelfths. Mr. Reid’s assessment will be varied accordingly.
+[20] In the circumstances, even though Mr. Reid has not been entirely successful, I am awarding costs to him in the amount of $800 inclusive of the $100 filing fee.
+[21] Crown counsel volunteered that this may be an appropriate case for interest relief under the so-called Fairness provisions. I would have thought it might also be an appropriate case to at least consider a remission of the CPP contribution assessed as well. Clearly, the legislation has an unintended result in Mr. Reid’s particular circumstances since all of his self-employed income was earned after he turned sixty and began collecting his CPP pension. Further, Mr. Reid’s position, while not supported in law, was supported by both the CRA and HRDC correspondence. I am frankly surprised that any of the government departments involved allowed this matter to proceed to Court. I have no jurisdiction to decide the Fairness or remission order aspects and will leave them to those who do.
+Signed at Ottawa, Canada, this 30th day of July 2008.
+"Patrick Boyle"
+Boyle, J.
+CITATION: 2008 TCC 421
+COURT FILE NO.: 2007-4573(IT)I
+STYLE OF CAUSE: MICHAEL J. REID v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: May 2, 2008
+REASONS FOR JUDGMENT BY: The Honourable Justice Patrick Boyle
+DATE OF JUDGMENT: July 30, 2008
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Alexandra Humphrey
+COUNSEL OF RECORD:
+For the Appellant:
+Name: the Appellant himself
+Firm: n/a
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

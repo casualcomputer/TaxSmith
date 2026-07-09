@@ -1,0 +1,271 @@
+---
+title: "Mazerolle v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28283/index.do"
+last_modified: "2007-10-16"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 TCC 586"
+citation2: ""
+neutral_citation: "2007 TCC 586"
+decision_date: "2007-10-16"
+language: "en"
+item_id: "28283"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1867
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T22:37:34.211000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "e39df16c632ec21737452198ce0660efd5b922e4d507bbd188a21661040527d2"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Mazerolle v. M.N.R.
+
+- Citation: 2007 TCC 586
+- Decision date: 2007-10-16
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1867, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Mazerolle v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-10-16
+Neutral citation
+2007 TCC 586
+File numbers
+2003-2695(EI)
+Judges and Taxing Officers
+François M. Angers
+Subjects
+Employment Insurance Act
+Old Age Security Act
+Decision Content
+Docket: 2003-2695(EI)
+BETWEEN:
+GUY MAZEROLLE,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on September 6, 2007, at Bathurst, New Brunswick.
+Before: The Honourable Justice François Angers
+Appearances:
+Counsel for the Appellant:
+Basile Chiasson
+Counsel for the Respondent:
+Stéphanie Côté
+____________________________________________________________________
+JUDGMENT
+The appeal from the decision of the Minister of National Revenue that the Appellant was employed in employment with Les Entreprises J.G.M. Inc. that is excluded from insurable employment, within the meaning of subparagraph 5(2)(i) of the Employment Insurance Act, for the periods from December 13, 1999, to September 16, 2000, from October 16, 2000, to September 8, 2001, and from October 1, 2001, to August 23, 2002, is dismissed, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 16th day of October 2007.
+“François Angers”
+Angers J.
+Translation certified true
+on this 20th day of November 2007.
+Daniela Possamai, Translator
+Citation: 2007TCC586
+Date: 20071016
+Docket: 2003-2695(EI)
+BETWEEN:
+GUY MAZEROLLE,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Angers J.
+[1] This is an appeal from a decision of the Minister of National Revenue (the Minister) dated June 16, 2003, according to which the Appellant’s employment with Les Entreprises J.G.M. Inc. (the “payor”) during the periods from December 13, 1999, to September 16, 2000, from October 16, 2000, to September 8, 2001, and from October 1, 2001, to August 22, 2002, was not insurable employment within the meaning of the Employment Insurance Act (the Act) on the ground that the Appellant and the payor were not dealing with each other at arm’s length within the meaning of subparagraph 5(2)(i) of the Act.
+[2] In rendering his decision, the Minister relied on the following assumptions of fact which were all admitted by the Appellant with the exception of four. The assumptions admitted are as follows:
+[TRANSLATION]
+(a) the payor was incorporated on or around April 3, 1991;
+(b) the payor’s sole shareholder is Joanne Mazerolle, the Appellant’s wife;
+(c) the payor’s company is a “Batteries Experts” franchise selling and servicing batteries, alternators, generators, starters, alarm systems; the payor also provides underwater sandblasting and welding services;
+(d) the payor’s business operates year-round with peak seasons coinciding with the fishing seasons;
+(f) the payor’s gross sales for the years in issue were as follows:
+2000
+2001
+2002
+January
+$7,664.72
+$6,629.47
+$6,584.43
+February
+$17,284.45
+$4,922.45
+$5,709.68
+March
+$12,568.46
+$4,996.72
+$18,371.96
+April
+$14 354,05
+$17,059.69
+$31,186.27
+May
+$16,200.17
+$17,057.15
+$24,043.12
+June
+$7,412.40
+$10,440.87
+$7,972.16
+July
+$7,631.76
+$6,890.62
+$8,074.58
+August
+$15,045.81
+$18,131.02
+$10,726.80
+September
+$12,108.59
+$5,607.99
+$5,053.80
+October
+$12,574.05
+$5,357.52
+November
+$7,675.17
+$7,915.10
+December
+$3,859.17
+$7,202.05
+(g) the Appellant is an electrician and has a scuba licence;
+(h) the Appellant’s duties during the periods in issue consisted in managing operations: he specialized in identifying and repairing electrical faults with boats, he assigned tasks to other technicians, supervised the operation of the workshop, and was responsible for purchases, sales and repairs;
+(i) the Appellant received a weekly pay of $15.60 per hour for 50, 55 or 60 hours depending on the weeks;
+(j) during the years in issue, the Appellant was on the payor’s payroll every month during the following number of weeks:
+2000
+2001
+2002
+January
+1 week of 50 hours
+0 weeks
+0 weeks
+February
+2 weeks of 50 hours
+0 weeks
+0 weeks
+March
+4 weeks of 50 hours
+0 weeks
+1 week of 50 hours
+1 week of 60 hours
+April
+4 weeks of 50 hours
+1 week of 60 hours
+2 weeks of 50 hours
+1 week of 60 hours
+4 weeks of 60 hours
+May
+4 week of 60 hours
+4 weeks of 60 hours
+4 weeks of 60 hours
+June
+1 week of 50 hours
+1 week of 60 hours
+3 weeks of 60 hours
+2 weeks of 50 hours
+3 weeks of 60 hours
+2 weeks of 50 hours
+July
+0 weeks
+1 week of 60 hours
+1 week of 55 hours
+3 weeks of 50 hours
+August
+2 weeks of 60 hours
+1week of 60 hours
+1 week of 50 hours
+2 weeks of 50 hours
+September
+3 weeks of 60 hours
+1 week of 60 hours
+October
+1 week of 50 hours
+1 week of 60 hours
+1 week of 60 hours
+November
+1 week of 50 hours
+0 weeks
+December
+3 weeks of 50 hours
+1 week of 50 hours
+(n) the Appellant and the payor are related persons within the meaning of the Income Tax Act;
+(o) the Appellant and the payor do not deal with each other at arm’s length;
+[3] The assumptions denied are as follows:
+[TRANSLATION]
+(e) in all, 80% of the payor’s customers are fishermen for repairs on their boats;
+(k) the Appellant performed duties for the payor year-round even outside the weeks shown in the payroll record;
+(l) the Appellant was not paid for all his working hours;
+(m) the Appellant’s employment terminations did not actually correspond to a lack of work for the Appellant;
+[4] It is therefore admitted that the Appellant and the payor are related persons. The issue is whether the Minister properly exercised his discretion by concluding that, having regard to all the circumstances of the employment, including the remuneration paid, the terms and conditions, the duration and the nature and importance of the work performed, it was not reasonable to conclude that the Appellant and the payor would have entered into a substantially similar contract of employment if they had been dealing with each other at arm’s length.
+[5] The services rendered by the payor’s company are mainly ensured by two key employees, the Appellant and Jean Paul Paulin. On occasion, the payor called on other employees, but their role is not relevant to the resolution of this case. The peak period referred to in paragraph (d) of the Reply to the Notice of Appeal begins in May and ends in late September or early October. They are fishing periods and the great majority of the payor’s customers are fishermen. In addition to the peak period are a few weeks of preparations at the beginning of the season and repairs at the end of the season.
+[6] Jean Paul Paulin has been employed with the payor since the beginning of its operations. He works with the Appellant and both do the same work. He has a community college diploma in electronics and, during the first two periods in question, he was considered an apprentice. He does not know about the third year, but the payroll record indicates that he was still an apprentice. According to him, the Appellant’s wife, who owns the business, is responsible for administrative issues. He works five days per week and he is on call every weekend with the Appellant. Like the Appellant, he is not paid to be on call, but is paid if he performs work on the weekend. He normally works from eight a.m. to five p.m. on weekdays but he often works nights as well. He works alone, but during the season the Appellant works with him. He prepares estimates for the payor without the necessity of obtaining the payor’s approval. He gets paid every week based on the hours he worked. Like the Appellant, he submits his time sheet to the payor every week.
+[7] At the time of the hearing, he received $12.00 per hour for his services. However, in 2000, he was paid $8.50. A salary increase followed in subsequent years. If he uses his truck, the payor reimburses him for his fuel purchases. Over the past two or three years the payor has also been providing him with a credit card to fill up the payor’s truck. In addition, the payor provided him with a cellular telephone in case customers or the payor wanted to reach him. He considers the Appellant to be his boss when he is there, but his wife is the boss most of the time.
+[8] Joanne Mazerolle has been president and sole shareholder of the payor since its incorporation in 1991. She is also employed with the Caisse populaire de Shippagan as a service representative. The payor’s workshop is close to the Appellant’s and payor’s residence. The workshop is located in premises belonging to the Appellant and which the payor leases from Appellant. The price of the lease is not mentioned and the Appellant does not report any rental income in his income tax returns. However, the inventory, equipment and truck are the payor’s property. Loans were obtained by the payor to finance those purchases and it has a line of credit. Ms. Mazerolle herself was responsible for obtaining the payor’s loans for which she was the guarantor. She sometimes borrowed money from individuals to ensure the proper operation of the company. No details on those loans were disclosed.
+[9] Ms. Mazerolle confirmed that preparations take place in April and that the season begins in May and ends in late September and sometimes in October or November if parts have to be rebuilt and work needs to be completed. The Appellant manages the business and acts as a technician like Mr. Paulin. She testified that she herself is in charge of the bookkeeping and that she makes decisions as to whether it is necessary to hire or dismiss employees. Between 1995 and 2002 the payor had more than two employees. When asked who sets the wages, she replied [TRANSLATION] “I do.” She prepares and signs terminations of employment. She stated that the Appellant and Mr. Paulin prepare invoices but that she prepares the deposits and that Mr. Mazerolle also prepares them. According to Ms. Mazerolle, Mr. Paulin once had to prepare a deposit. She stated that the Appellant and Mr. Paulin are paid for each hour worked according to the time sheets.
+[10] In 2000, the payroll record indicated that Mr. Paulin’s work schedule varied between eight and 50 hours per weeks. I noticed that he rarely worked the same number of hours from one week to the next. As for the Appellant, he always worked 50 or 60 hours every week. The scenario was more or less similar in 1999, seeing as Mr. Paulin accumulated several half-hour periods of work and the Appellant retained the same pace of work of 50 and 60 hours per week. The same scenario repeated itself in 2001.
+[11] The Appellant has been working in this field for many years. He has training in what he calls electro-mechanics. In terms of training, he is trained in a third area and has many years’ experience. He held several jobs prior to working for the payor in 1991, including a seven-year employment with the Canadian Coast Guard. He confirmed that the peak period runs from May to the end of August, with the addition of one to two months for preparations at the beginning of the season and activities at the end of the season, namely rebuilding parts. He stated that in general he worked with Mr. Paulin and that they were paid for hours worked. From the very beginning, he received $15.00 per hour. His hourly rate never increased. He submitted time sheets like Mr. Paulin and prepared estimates and invoices. He indicated in a questionnaire that the business was open year-round. At the hearing, he stated that it depended on supply and demand. He stated that, during the cold season, [TRANSLATION] “we are closed and, if it is worth it, we open.”
+[12] The Respondent filed in evidence all the payor’s sales invoices for the three periods in question. The Appellant signed invoices on dates when his name did not appear in the payroll record. In 2000, there are 49 days during which the Appellant was not entered in the payroll record and he signed one or two invoices. There were 77 in 2001 and 35 in 2002. There are also invoices signed by Mr. Paulin on dates when his name was not shown in the payroll record. Among those invoices, there are some which indicate hours worked. The same is also true for the payor’s deposits. The Respondent introduced in evidence a series of deposit slips signed by the Appellant as the depositor for the periods in question when his name was not shown in the payroll record.
+[13] In 2000, the Appellant made deposits over 27 days when his name was not shown in the payroll record. In 2001, there were 43 days and in 2003, 14 days.
+[14] The Employment Insurance officer testified that she had a conversation with the Appellant and his wife in November 2002 about the invoices signed by the Appellant when he was not working. It was indicated at the time that Mr. Paulin’s hands were soiled and that the Appellant signed them for him. Ms. Mazerolle also explained that some parts that have to be rebuilt are tagged and repaired but that the invoice is prepared later, that is to say, the day the part is returned to the customer. As for the Appellant, he stated that each part that needed to be repaired or rebuilt had a tag bearing the date on which the part was brought in and the name of the customer. The tag indicated when and by whom the work was done. The invoice was prepared when the customer picked up the part. He pointed out that, at the customer’s request, some invoices are prepared in three phases, that is to say that the work is done prior to the dates appearing on the invoices, which would suggest that the work was done when the business was closed.
+[15] The Appellant’s task, in the case at bar, is to establish, on a balance of probabilities, that the Minister improperly exercised his discretionary power by deciding that, having regard to all the circumstances of the employment, the payor and the Appellant would not have entered into a substantially similar contract of employment if they had been dealing with each other at arm’s length.
+[16] The role exercised by the Minister and to be exercised by the Court was established by the Federal Court of Appeal in Légaré v. M.N.R. [1999] F.C.J. No. 878. Marceau J. stated as follows at paragraph 4:
+The Act requires the Minister to make a determination based on his own conviction drawn from a review of the file. The wording used introduces a form of subjective element, and while this has been called a discretionary power of the Minister, this characterization should not obscure the fact that the exercise of this power must clearly be completely and exclusively based on an objective appreciation of known or inferred facts. And the Minister’s determination is subject to review. In fact, the Act confers the power of review on the Tax Court of Canada on the basis of what is discovered in an inquiry carried out in the presence of all interested parties. The Court is not mandated to make the same kind of determination as the Minister and thus cannot purely and simply substitute its assessment for that of the Minister: that falls under the Minister’s so-called discretionary power. However, the Court must verify whether the facts inferred or relied on by the Minister are real and were correctly assessed having regard to the context in which they occurred, and after doing so, it must decide whether the conclusion with which the Minister was "satisfied" still seems reasonable.
+[17] The Federal Court of Appeal also reiterated its position in Pérusse v. M.N.R. (docket A-722-97). Marceau J., referring to the passage from Légaré cited above, added the following at paragraph 15:
+The function of an appellate judge is thus not simply to consider whether the Minister was right in concluding as he did based on the factual information which Commission inspectors were able to obtain and the interpretation he or his officers may have given to it. The judge's function is to investigate all the facts with the parties and witnesses called to testify under oath for the first time and to consider whether the Minister's conclusion, in this new light, still seems "reasonable" (the word used by Parliament). The Act requires the judge to show some deference towards the Minister's initial assessment and, as I was saying, directs him not simply to substitute his own opinion for that of the Minister when there are no new facts and there is nothing to indicate that the known facts were misunderstood. However, simply referring to the Minister's discretion is misleading.
+[18] Therefore, the question is whether it was reasonable, under the circumstances, for the Respondent to conclude that the Appellant and the payor would not have entered into a substantially similar contract of employment if they had been dealing with each other at arm’s length. Counsel for the Appellant strongly emphasized the fact that the Appellant and Mr. Paulin perform the exact same work, have the same responsibilities and the same terms and conditions of employment in that they are both paid by the hour, have the same schedule, that is from eight or nine a.m. to five p.m., are on call on weekends and not paid unless called in to work, fill out time sheets, prepare estimates and invoices, must obtain authorization before purchasing parts that cost more than $500, are reimbursed fuel expenses if they use their truck, use cellular telephones put at their disposal and work as a team.
+[19] However, the evidence shows that the hours worked each week are not the same for Mr. Paulin and the Appellant. During the periods in issue, the Appellant regularly worked 50- or 60-hour weeks. As for Mr. Paulin, his hours are virtually different every week, that is to say, 30.5, 40, 36, 39, 42, 35, 47.8, 43.5, 47.5, 34, 48 and 34.5 hours, in a single year. The payroll record also shows that they did not always work together during the periods in question. In 2000, there were only 17 weeks where one of them was working. It is therefore reasonable to question whether the Appellant actually filled out time sheets as claimed by the payor.
+[20] Where remuneration is concerned, it is true that the Appellant’s hourly rate is higher than that of Mr. Paulin. The discrepancy for the periods in question was approximately $6.00 per hour. The Appellant has many years’ experience and so a higher salary is justified. However, why has the Appellant not received a salary increase since 1991, whereas Mr. Paulin has received an increase almost every year? When asked who sets the wages, the payor’s representative replied [TRANSLATION] “I do.” It is therefore reasonable to question who ultimately sets the wages and why the Appellant’s salary was frozen and that of Mr. Paulin was not.
+[21] It is also necessary to question the duration of the Appellant’s employment. During peak periods, that is from May to September inclusively and in the few weeks before and after those periods, the Appellant did not work for about twelve weeks in 2000 and 2001 and for about eight weeks in 2002. It was during those periods and certain periods outside the fishing season that the Appellant made deposits and prepared invoices for the payor. The number of invoices and deposits made it possible for the Respondent to conclude, with reason, that there were far too many to accept the Appellant’s explanations for the invoices, tags and the date on which the work was performed and I approve the Respondent’s conclusion. Many of those invoices relate to the selling of products and they support the proposition that the Appellant was still on-site and that he rendered services even though he was not supposed to be on duty. The evidence put forward by the Appellant is insufficient and the Appellant failed to discharge the onus of proof on him.
+[22] The Minister’s decision appears reasonable to me under the circumstances.
+[23] The appeal is dismissed.
+Signed at Ottawa, Canada, this 16th day of October 2007.
+“François Angers”
+Angers J.
+Translation certified true
+on this 20th day of November 2007.
+Daniela Possamai, Translator
+CITATION: 2007TCC586
+COURT FILE NO.: 2003-2695(EI)
+STYLE OF CAUSE: Guy Mazerolle and M.N.R.
+PLACE OF HEARING: Bathurst, New Brunswick
+DATE OF HEARING: September 6, 2007
+REASONS FOR JUDGMENT BY: The Honourable Justice François Angers
+DATE OF JUDGMENT: October 16, 2007
+APPEARANCES:
+Counsel for the Appellant:
+Basile Chiasson
+Counsel for the Respondent:
+Stéphanie Côté
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Basile Chiasson
+Firm: Chiasson Roy
+City: Bathurst, New Brunswick
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

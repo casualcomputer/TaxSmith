@@ -1,0 +1,165 @@
+---
+title: "Taylor c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30044/index.do"
+last_modified: "2010-10-27"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 CCI 526"
+citation2: ""
+neutral_citation: "2010 CCI 526"
+decision_date: "2010-10-27"
+language: "fr"
+item_id: "30044"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7704
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T12:30:01.828000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "1f5a8a0dd8cacb65d842ba5e61f2f2a553d52309c140722744660aec1c338fcd"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Taylor c. La Reine
+
+- Citation: 2010 CCI 526
+- Decision date: 2010-10-27
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7704, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Taylor c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2010-10-27
+Référence neutre
+2010 CCI 526
+Numéro de dossier
+2010-1715(IT)I
+Juges et Officiers taxateurs
+Valerie A. Miller
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2010-1715(IT)I
+ENTRE :
+LOUISE TAYLOR,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu les 5 et 6 octobre 2010, à Toronto (Ontario)
+Devant : L’honorable juge Valerie Miller
+Comparutions :
+Représentant de l’appelante :
+M. Peter Davey
+Avocats de l’intimée :
+Me Christian Cheong
+Me Diana Aird
+____________________________________________________________________
+JUGEMENT
+L’appel relatif à l’année d’imposition 2006 est accueilli, et la nouvelle cotisation est renvoyée au ministre du Revenu national pour nouvel examen et nouvelle cotisation compte tenu du fait que l’appelante peut déduire des dépenses de 7 261,62 $.
+Signé à Ottawa, Canada, ce 27e jour d’octobre 2010.
+« V.A. Miller »
+Juge V.A. Miller
+Traduction certifiée conforme
+ce 23 jour de décembre 2010.
+Marie-Christine Gervais
+Référence : 2010 CCI 526
+Date : 20101027
+Dossier : 2010-1715(IT)I
+ENTRE :
+LOUISE TAYLOR,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+(Prononcés oralement à l’audience le 6 octobre 2010 à Toronto (Ontario))
+La juge V.A. Miller
+[1] Il s’agit de déterminer dans le présent appel si le ministre du Revenu national (le « ministre ») a eu raison de refuser la déduction de dépenses d’entreprise s’élevant à 20 131 $ pour l’année d’imposition 2006.
+[2] L’appelante exploite B & M Distribution Services (« B & M »), une entreprise à propriétaire unique. B & M distribue des boîtes et des cartons à gâteaux.
+[3] L’appelante ne s’est pas présentée à l’audition de son appel. Elle était représentée par son commis comptable, Peter Davey. Ce dernier a précisé qu’il avait été embauché par l’appelante en août 2006. Avant cette date, l’appelante faisait sa propre comptabilité en utilisant les relevés bancaires, de sorte qu’il a dû repartir à zéro pour monter les livres comptables. Je conclus d’après les éléments de preuve que l’appelante avait fondé son entreprise en 2005.
+[4] En 2006, l’appelante a déclaré des [traduction] « dépenses d’achat » de 197 520 $. Le ministre a refusé des dépenses d’achat de 14 771 $ qui ne s’accompagnaient d’aucune pièce justificative. Un montant de 1 813 $ a été refusé parce qu’il s’agissait d’une inscription portée en double dans les livres de l’appelante. Le ministre a aussi refusé la déduction d’une somme de 392 $ qui avait été comptabilisée comme une dépense de publicité mais qui correspondait en réalité au prix du cadeau de Noël fait par l’appelante à sa mère. Des frais relatifs à un véhicule à moteur et des frais de déplacement de 2 085,45 $ et de 934 $, respectivement, ont aussi été refusés. M. Davey a déclaré que les seuls montants qui étaient maintenant en litige étaient les suivants :
+a) trois factures de McNairn Packaging totalisant 3 169,87 $;
+b) cinq factures d’ERP qui s’élevaient à 7 542,07 $;
+c) le montant de 1 472,70 $.
+[5] M. Davey a expliqué que l’appelante réglait souvent ses achats au comptant. Elle avait remis une carte de débit à un de ses fournisseurs, qui s’en servait pour retirer le prix des marchandises achetées du compte bancaire de l’appelante. Le fournisseur arrondissait le montant qu’il retirait du compte de l’appelante, et c’est pourquoi les factures ne correspondent pas toujours parfaitement aux retraits effectués sur le compte bancaire.
+[6] Durant la période, l’appelante avait deux gros fournisseurs, McNairn Packaging (« McNairn ») et Les Emballages Rapide Plus B.L. Inc. (« ERP »).
+Les factures de McNairn
+[7] Le ministre a refusé les montants suivants comptabilisés par l’appelante à titre de dépenses d’achat. Ils ont été refusés parce que l’appelante n’a pu produire de factures ni de preuves de paiement pour montrer qu’elle avait réellement effectué ces dépenses.
+Description
+Montant
+Acquisitions de stocks – juillet
+6 300 $
+Acquisitions de stocks – mai
+2 900
+Acquisitions de stocks – juin
+2 600
+Achats au comptant
+1 500
+1 472
+[8] M. Davey a présenté trois factures envoyées par McNairn Packaging à B & M. Ces factures montraient que le prix total des achats s’élevait à 3 196,87 $ et qu’il avait été réglé au moyen d’un chèque daté de 30 jours après l’achat. Les produits avaient été expédiés à l’appelante les 7 et 8 juin. La pièce A2, soit le relevé bancaire de l’appelante pour la période ayant pris fin le 31 juillet 2006, montrait que le chèque no 150 de 3 169,87 $ avait été retourné avec l’inscription « sans provision » le 7 juillet. M. Davey a expliqué que ces factures avaient été payées au comptant. Il a déposé la pièce A4 à l’appui.
+[9] Le problème que j’ai face à la version de l’appelante, c’est que je ne sais pas si le montant de 3 196,87 $ fait partie des acquisitions de stocks pour juillet. Je n’ai aucune preuve montrant que ces 3 196,87 $ n’avaient pas déjà été acceptés par le ministre. Les factures montrent que les stocks ont été achetés en juin et non pas en juillet. La pièce A4 est le document produit par M. Davey pour B & M. Intitulé [traduction] « Détail des soldes fournisseurs », il énumère les sommes dues au fournisseur McNairn Packaging de même que la date et le mode de règlement de ces montants pour la période allant du 5 mai 2006 au 30 octobre 2008. Cette pièce montre que les 3 169,88 $ ont été réglés par un débit en faveur de McNairn le 14 juin 2006. La date inscrite à côté des factures sur la pièce A4 est le 26 juin 2006.
+[10] Il n’y a aucune preuve qui me permet de conclure que ces factures font partie des acquisitions de stocks de juillet qui ont refusées. De fait, même le témoignage de M. Davey n’était pas concluant; il a affirmé que le montant de 3 196,87 $ était peut-être compris dans les 6 300 $.
+Les factures d’ERP
+[11] La pièce A3 est constituée des factures relatives à l’achat de produits d’ERP :
+9 mars 2006 583,70 $
+2 mai 2006 2 129,17 $
+24 mai 2006 1 722,04 $
+16 août 2006 2 826,71 $
+25 janvier 2007 280,45 $
+M. Davey a expliqué que ces montants avaient été versés à ERP en espèces pour régler les achats effectués par l’appelante. Selon lui, ERP possédait la carte de débit de l’appelante. Il a également présenté une lettre datée du 4 octobre 2010 (pièce A5), où ERP confirmait que toutes ses factures envoyées à B & M avaient été réglées.
+[12] J’ai pris connaissance de la pièce R-1 et conclu que les montants figurant sur ces factures n’avaient pas déjà été acceptés par le ministre. Plus particulièrement, à l’onglet 4 se trouve une lettre provenant de l’agente des appels qui s’occupait du dossier. L’agente y énumère les factures présentées sous la cote A3 et déclare que [traduction] « si ces factures doivent être prises en considération en sus du montant demandé dans l’avis d’opposition, veuillez fournir une preuve du règlement de ces factures ». J’ai également conclu que ces dépenses avaient été effectuées et réglées par l’appelante en 2006.
+Le montant de 1 472 $
+[13] M. Davey a expliqué qu’il y avait un chèque de 1 560 $ inscrit dans les livres de l’appelante. Comme ce chèque n’a jamais été encaissé, il a fait une contre‑passation de 1 471,70 $, soit la valeur du chèque moins la TPS. Quand sa cliente a été l’objet d’une vérification, le montant de 1 471,70 $ en question a été refusé en tant qu’achat sans pièce justificative.
+[14] M. Davey n’a pu présenter aucun document attestant qu’il avait contrepassé ce chèque dans les livres comptables. De fait, il ne m’a montré aucun document qui me permettrait de conclure que ce chèque a existé ou qu’il avait effectué des contre‑passations quelconques.
+[15] Dans un appel, il incombe à l’appelante de montrer que la cotisation établie par le ministre est erronée. En l’espèce, l’appelante n’a pu donner aucune preuve fiable, par l’entremise de son représentant, indiquant que le montant de 1 472 $ représentait un chèque ayant été contrepassé dans ses registres. Si on ajoute la TPS à la somme de 1 472 $, le total obtenu n’est pas 1 560 $.
+[16] En conclusion, l’appel est accueilli et l’appelante peut déduire des dépenses de 7 261,62 $. Je n’ai pas accepté la déduction de 280,45 $, car il s’agissait d’une dépense effectuée en 2007.
+Signé à Ottawa, Canada, ce 27e jour d’octobre 2010.
+« V.A. Miller »
+Juge V.A. Miller
+Traduction certifiée conforme
+ce 23 jour de décembre 2010.
+Marie-Christine Gervais
+RÉFÉRENCE : 2010 CCI 526
+NO DU DOSSIER DE LA COUR : 2010-1715(IT)I
+INTITULÉ : LOUISE TAYLOR c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Les 5 et 6 octobre 2010
+MOTIFS DU JUGEMENT : L’honorable juge Valerie Miller
+DATE DU JUGEMENT : Le 27 octobre 2010
+COMPARUTIONS :
+Représentant de l’appelante :
+M. Peter Davey
+Avocats de l’intimée :
+Me Christian Cheong
+Me Diana Aird
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Cabinet :
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada

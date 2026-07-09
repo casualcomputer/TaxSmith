@@ -1,0 +1,173 @@
+---
+title: "Pelletier c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26546/index.do"
+last_modified: "2006-04-13"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 CCI 237"
+citation2: ""
+neutral_citation: "2006 CCI 237"
+decision_date: "2006-04-13"
+language: "fr"
+item_id: "26546"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3360
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T08:41:34.854000+00:00"
+cases_cited_count: 0
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "cae30c61585ff05ae880db71362b15a53eca2566129b2480920a4e8c3f354201"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Pelletier c. La Reine
+
+- Citation: 2006 CCI 237
+- Decision date: 2006-04-13
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3360, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Pelletier c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-04-13
+Référence neutre
+2006 CCI 237
+Numéro de dossier
+2005-3134(IT)I
+Juges et Officiers taxateurs
+Louise Lamarre Proulx
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2005-3134(IT)I
+ENTRE :
+JACQUES PELLETIER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 9 mars 2006, à Montréal (Québec)
+Devant : L'honorable juge Louise Lamarre Proulx
+Comparutions :
+Pour l'appelant :
+l'appelant lui-même
+Avocate de l'intimée :
+Me Nathalie Lessard
+____________________________________________________________________
+JUGEMENT
+L'appel de la cotisation établie en vertu de la Loi de l'impôt sur le revenu pour l'année d'imposition 2003 est rejeté, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 13e jour d'avril 2006.
+« Louise Lamarre Proulx »
+Juge Lamarre Proulx
+Référence : 2006CCI237
+Date : 20060413
+Dossier : 2005-3134(IT)I
+ENTRE :
+JACQUES PELLETIER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+La juge Lamarre Proulx
+[1] Il s'agit d'un appel d'une nouvelle cotisation établie à l'égard de l'année d'imposition 2003.
+[2] La question en litige est de savoir si une somme retirée d'un Régime enregistré d'épargne retraite ( « RÉER » ) doit être incluse dans le calcul du revenu de l'appelant bien que selon lui, une somme correspondante n'aurait pas été déduite dans le calcul de son revenu dans les années antérieures. Les dispositions de la Loi de l'impôt sur le revenu (la « Loi » ) en application sont les articles 56 et 146.
+[3] Les faits sur lesquels le ministre du Revenu national (le « Ministre » ) s'est appuyé pour établir sa nouvelle cotisation sont décrits au paragraphe 6 de la Réponse à l'avis d'appel (la « Réponse » ) comme suit :
+a) le ministre, suite au programme de rapprochement des feuillets de renseignements, a décelé un formulaire T4RSP qui renfermait les renseignements suivants :
+i)
+émetteur :
+Fonds de Solidarité des Travailleurs du Québec
+ii)
+bénéficiaire :
+appelant
+iii)
+contrat :
+AI242951013
+iv)
+retrait :
+5 851 $
+v)
+retenue d'impôt fédéral :
+585,11 $
+b) le ministre a donc procédé, par voie de nouvelle cotisation à l'égard de l'année d'imposition 2003, à l'ajout, dans le calcul de revenu total de l'appelant, d'une somme de 5 851 $ au titre de revenus provenant d'un RÉER, et à l'addition, dans le calcul du remboursement ou du solde dû, d'une somme de 585,11 $ au titre de retenues d'impôt fédéral;
+c) à l'étape des oppositions, l'appelant a fait valoir que le retrait correspondait à des cotisations à un RÉER non déduites dans le calcul de son revenu au cours de la période s'échelonnant de 1998 à 2003 pour la raison qu'elles excédaient le maximum déductible au titre des RÉER pour chacune des dites années;
+d) le ministre est d'avis qu'un retrait ou le remboursement de tout ou en partie de primes non déductibles versées à un RÉER est imposable dans les mains du bénéficiaire;
+e) par le biais de l'avis de cotisation, depuis l'année d'imposition 1999, l'appelant était informé annuellement qu'il n'avait droit à aucune déduction, dans le calcul de son revenu, au titre de cotisations versées à un RÉER;
+f) selon les registres du ministre, aucune contribution à un RÉER par l'appelant n'a été enregistrée pour les années d'imposition couvrant la période de 1999 à 2003.
+[4] Les faits de l'avis d'appel sont les suivants :
+- De 1998 à 2003 j'ai versé la somme de 7098.00$ au fond de Solidarité des travailleurs du Québec sans avoir droit à la déduction pour régimes enregistrés d'épargnes retraite pour les années précitées. La raison, c'est que depuis 1998, mon facteur d'équivalence est à son maximum, c.a.d. à 0$ de déduction.
+- Impôt payé sur argent (7 320.00$), pour cotisation versée au régime et impôt payé sur retrait du régime sans avoir eu le privilège d'obtenir la déduction à la ligne 208 de mon rapport d'impôt et ce depuis 1998.
+- De plus l'action du fond fut dévaluée et j'ai subi une perte de 1500.00$.
+- Également la somme de 5 851.00$ retirée, a servi à rembourser de l'impôt en retard.
+[5] Les faits de la Réponse ont été admis par l'appelant. En ce qui concerne ceux de l'Avis d'appel, certains documents ont été produits par l'appelant. L'intimée a aussi produit des déclarations de revenu pour les années antérieures montrant que les contributions excédentaires n'ont pas été déclarées et que pour au moins une année un retrait important aurait été fait et une déduction équivalente demandée. Quoi qu'il en soit, ce sont les faits de l'année 2003 qui importent.
+[6] Au cours de l'audience, l'appelant croyait avoir contribué à son REER au cours de l'année 2003. Mais il a confirmé par la suite, auprès de l'avocate de l'intimée, que contrairement à son souvenir, il a cessé de contribuer à son RÉER en décembre 2002. Il a bien fait au cours de l'année 2003 un retrait de son RÉER au montant de 5 851,14 $.
+[7] L'avocate de l'intimée s'est appuyée sur les décisions suivantes : Wilkinson c. La Reine, [2004] 1 C.T.C. 2201 (C.C.I.); St-Hilaire c. La Reine, [1997] 3 C.T.C. 2711 (C.C.I.); Carroll c. La Reine, 84 DTC 1616 (C.C.I.); et Howlett c. La Reine, 85 DTC 97 (C.C.I.). Elle fait valoir que les dispositions législatives qui s'appliquent dans le présent litige ne permettent pas la déduction des contributions excédentaires sauf dans les circonstances précises du paragraphe 146(8.2) de la Loi. De plus, elle fait valoir que les contributions excédentaires peuvent faire l'objet d'un Impôt frappant les excédents de contribution aux régimes de revenu différé en vertu de la Partie X.1 de la Loi. Ce qui montre l'intention de dissuasion du législateur à leur égard.
+Analyse et conclusion
+[8] L'alinéa 56(1)h), la définition de « prestation » au paragraphe 146(1), le paragraphe 146(8) et l'alinéa 146(8.2)c) de la Loi se lisent ainsi :
+56(1) Sommes à inclure dans le revenu de l'année - Sans préjudice de la portée générale de l'article 3, sont à inclure dans le calcul du revenu d'un contribuable pour une année d'imposition :
+...
+h) Régime enregistré d'épargne-retraite, etc. - toutes sommes relatives à un régime enregistré d'épargne-retraite ou à un fonds enregistré de revenu de retraite et qui doivent, en vertu de l'article 146, être incluses dans le calcul du revenu du contribuable pour l'année;
+146(1) Les définitions qui suivent s'appliquent au présent article :
+« prestation » Est comprise dans une prestation toute somme reçue dans le cadre d'un régime d'épargne-retraite, à l'exception :
+...
+146(8) Prestations imposables - Est inclus dans le calcul du revenu d'un contribuable pour une année d'imposition le total des montants qu'il a reçus au cours de l'année à titre de prestations dans le cadre de régimes enregistrés d'épargne-retraite, à l'exception des retraits exclus au sens des paragraphes 146.01(1) ou 146.02(1), et des montants qui sont inclus, en application de l'alinéa (12)b), dans le calcul de son revenu.
+146(8.2) Montant déductible - Dans le cas où, à la fois :
+...
+c) le contribuable ou son époux ou conjoint de fait reçoit le paiement au cours d'une année d'imposition donnée qui correspond :
+(i) soit à l'année où le contribuable a versé les primes,
+(ii) soit à l'année où un avis de cotisation est envoyé au contribuable pour l'année d'imposition visée au sous-alinéa (i),
+(iii) soit à l'année suivant celle visée au sous-alinéa (i) ou (ii);
+[9] Je cite un passage de la décision du juge Cardin dans Carroll, ci-dessus, à la page 8 de la traduction :
+Pour ces motifs, je dois conclure que le législateur avait certainement l'intention de soumettre à l'impôt toutes les sommes reçues ou retirées d'un fonds de retraite ou de pension, y compris un régime enregistré d'épargne-retraite, que les primes versées dans le régime ou le fonds aient déjà été déduites du revenu de l'appelant ou non. ...
+[10] La jurisprudence est constante. Quand une somme est reçue ou retirée dans le cadre d'un RÉER, il s'agit d'une prestation. Selon l'alinéa 56(1)h) et le paragraphe 146(8) de la Loi, une prestation provenant d'un RÉER doit être incluse dans le calcul du revenu.
+[11] Je cite les passages pertinents des Notes explicatives du ministère des Finances relatives à la Loi de l'impôt sur le revenu, 1ère édition, Thomson Carswell, aux pages 1205 et 1206 relativement au paragraphe 146(8.2) de la Loi :
+146(8.2)
+mai 1994, NE : Le paragraphe 146(8.2) est une disposition d'allégement qui prévoit une déduction au titre des montants distribués en vertu d'un REER ou d'un FERR et inclus dans le calcul du revenu d'un particulier lorsque ces montants sont liés à certaines primes non déduites prévues par le REER que le particulier a versées à son propre REER ou à celui de son conjoint.
+...
+juin 1992, NE : Le paragraphe 146(8.2) est une mesure d'assouplissement qui permet de déduire un montant au titre des paiements d'un REER ou d'un FERR inclus dans le calcul du revenu d'un particulier et se rapportant à des primes de REER non déduites que le particulier a versées à son REER ou à celui de son conjoint. Sous réserve de la règle anti-évitement énoncée aux alinéas 146(8.2)e) et f), le paragraphe permet le retrait, en franchise d'impôt et dans un délai déterminé, des primes de REER non déduites (habituellement des excédents de cotisation).
+[12] Le paragraphe 146(8.2) de la Loi est une disposition d'allégement. Mais ce n'est que dans les circonstances précises prévues à ce paragraphe 146(8.2) que le contribuable peut réclamer la déduction d'une prime excédentaire.
+[13] L'appelant n'a pas fait valoir qu'il pouvait utiliser à son avantage une des circonstances prévues à ce paragraphe. L'avocate de l'intimée aurait accepté de le faire relativement au sous-alinéa 146(8)c)(i) de la Loi si certaines primes versées en trop l'avaient été dans l'année du retrait en question soit l'année 2003. Ce n'était pas le cas. Toutes les primes excédentaires ont été versées dans les années antérieures à la réception de la prestation. Je ne vois pas d'autres circonstances pouvant être invoquées par l'appelant relativement au paraphe 146(8) de la Loi.
+[14] L'appel doit être rejeté.
+Signé à Ottawa, Canada, ce 13e jour d'avril 2006.
+« Louise Lamarre Proulx »
+Juge Lamarre Proulx
+RÉFÉRENCE : 2006CCI237
+N º DU DOSSIER DE LA COUR : 2005-3134(IT)I
+INTITULÉ DE LA CAUSE : JACQUES PELLETIER c. LA REINE
+LIEU DE L'AUDIENCE : Montréal (Québec)
+DATE DE L'AUDIENCE : le 9 mars 2006
+MOTIFS DU JUGEMENT PAR : L'honorable juge Louise Lamarre Proulx
+DATE DU JUGEMENT : le 13 avril 2006
+COMPARUTIONS :
+Pour l'appelant :
+l'appelant lui-même
+Avocate de l'intimée :
+Me Nathalie Lessard
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelant:
+Nom :
+Cabinet :
+Pour l'intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

@@ -1,0 +1,150 @@
+---
+title: "Rajagopala c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/520077/index.do"
+last_modified: "2022-01-14"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2022 CCI 8"
+citation2: ""
+neutral_citation: "2022 CCI 8"
+decision_date: "2022-01-14"
+language: "fr"
+item_id: "520077"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4434
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2023-12-01T12:10:23.583000+00:00"
+cases_cited_count: 3
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "b87e7142fa0b713e7aed084fc0f311409b18be178be1f087b7277af7334eaa91"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Rajagopala c. La Reine
+
+- Citation: 2022 CCI 8
+- Decision date: 2022-01-14
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4434, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Rajagopala c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2022-01-14
+Référence neutre
+2022 CCI 8
+Numéro de dossier
+2020-2213(IT)APP
+Juges et Officiers taxateurs
+Randall S. Bocock
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2020-2213(IT)APP
+ENTRE :
+HRISHIKESH PRABHU SWARGATHMADOM RAJAGOPALA,
+demandeur,
+et
+SA MAJESTÉ LA REINE,
+défenderesse.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Demande entendue le 15 décembre 2021, à Toronto (Ontario)
+Devant : L’honorable juge Randall S. Bocock
+Comparutions :
+Pour le demandeur :
+Le demandeur lui-même
+Avocat de la défenderesse :
+Me Eric Myles
+ORDONNANCE
+La demande de prorogation de délai concernant le dépôt d’un avis d’opposition aux nouvelles cotisations établies le 23 mars 2015 pour les années d’imposition 2011 et 2012 est rejetée parce que le demandeur n’a pas présenté de demande au ministre ni à notre Cour dans les délais prescrits par la Loi de l’impôt sur le revenu, LRC 1985, ch. 1, modifiée (la Loi).
+Signé à Ottawa, Canada, ce 14e jour de janvier 2022.
+« R.S. Bocock »
+Le juge Bocock
+Référence : 2022 CCI 8
+Date : 20220114
+Dossier : 2020-2213(IT)APP
+ENTRE :
+HRISHIKESH PRABHU SWARGATHMADOM RAJAGOPALA,
+demandeur,
+et
+SA MAJESTÉ LA REINE,
+défenderesse.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE
+Le juge Bocock
+[1] Le demandeur, M. Rajagopala, sollicite par la présente la prorogation de délai pour le dépôt d’un avis d’opposition relativement aux années d’imposition de 2011 et 2012. Aucun fait important n’est contesté. Comme nous le verrons plus loin, les circonstances suscitent une sympathie profonde à l’égard de M. Rajagopala.
+[2] La communication des présents motifs se fait par écrit en raison de l’établissement d’horaires fixes en après-midi pour les audiences devant la Cour de l’impôt dû à la COVID-19 et aussi de la suspension des audiences en personne due à la pandémie qui vient d’être renouvelée. Par conséquent, la Cour ne peut exposer les présents motifs en personne à M. Rajagopala, car sinon, elle contreviendrait à l’obligation de présenter ceux-ci dans un délai de 90 jours. C’est pourquoi la Cour présente les motifs de l’ordonnance qu’elle rend par écrit, contrairement aux pratiques établies.
+[3] M. Rajagopala a témoigné en l’espèce. Cet élément de preuve était crédible, fiable, sans ambiguïté. En effet, le contre-interrogatoire fut bref et complétait le témoignage principal.
+[4] À sa première entrée au Canada, M. Rajagopala a présenté un visa de travail temporaire pour la période allant du 24 mai 2011 au 24 novembre 2012. Au cours de cette période initiale, il a travaillé pour des clients canadiens de Tata Consultancy Services (« Tata »). Lors de cette même période, Tata lui versait une allocation de logement déterminée. M. Rajagopala a produit ses déclarations d’impôt au Canada pour les années 2011 et 2012. S’il a déclaré les revenus gagnés au Canada, il n’a pas déclaré d’allocation de logement, à l’instar des autres employés de Tata munis d’un visa de travail. Tata n’a pas émis de feuillets T4A aux employés de cette catégorie.
+[5] Le ministre a établi une nouvelle cotisation pour M. Rajagopala et d’autres employés de Tata en précisant que l’allocation de logement est imposable. Ces nouvelles cotisations ont été établies de 2014 à 2015. Contrairement aux autres employés de Tata, M. Rajagopala n’était plus au Canada, ayant quitté le pays en novembre 2012. C’est pourquoi les avis de nouvelle cotisation du 23 mars 2015 ont été envoyés à la dernière adresse de M. Rajagopala au Canada figurant au dossier de l’Agence du revenu du Canada. De 2013 à 2019, le demandeur a résidé à différents endroits en Inde, au Royaume-Uni et ailleurs dans le monde.
+[6] M. Rajagopala est revenu au Canada en 2019, sans plus quitter le pays. Ce n’est qu’après son retour qu’il a pris connaissance des nouvelles cotisations de 2015, laissées sans opposition, et de la dette qui découle de l’avantage imposable et des intérêts courus. Il a reçu en mai 2020 un avis précisant ces sommes. Il a alors décidé d’agir et d’exprimer son opposition aux nouvelles cotisations. Le point de vue du ministre ne s’est pas fait attendre : M. Rajagopala n’a plus la possibilité de s’opposer aux avis de nouvelle cotisation, le délai prévu pour ce faire étant dépassé depuis longtemps.
+[7] M. Rajagopala vivait des heures difficiles. Ses revenus s’approchaient du minimum vital. Il était seul à produire des revenus pour sa famille, dont son père âgé et malade vivant en Inde. Il n’a pas les moyens de payer sa dette fiscale. Il peine à subsister.
+[8] L’ironie en l’espèce est double. D’abord, il semble que le ministre ait examiné de nouveau l’avantage imposable que représente l’allocation de logement dans le cas d’autres employés de Tata qui, eux, s’étaient opposés à la nouvelle cotisation prenant en compte l’avantage imposable. Les résolutions favorables n’ont eu lieu que pour certains contribuables qui avaient signifié des avis d’opposition à temps. Ensuite, c’est le retour au Canada de M. Rajagopala, qui espérait un avenir meilleur, qui a fait contracter à celui-ci une dette fiscale sans lui donner la capacité légale de s’y opposer. Concrètement, sans ce retour au pays, il n’aurait pas porté son affaire devant la Cour.
+[9] L’envoi des avis de nouvelle cotisation est un fait constant. Selon la preuve présentée à la Cour, l’adresse à laquelle les avis ont été envoyés est la dernière adresse aux fins de signification figurant au dossier de M. Rajagopala. Les avis de nouvelle cotisation ont été présentés à la Cour et M. Rajagopala a vérifié l’adresse et s’accorde à dire que les avis ont sans doute été livrés à cette adresse. En fait, vu la quantité d’adresses à l’étranger à son actif de 2013 à 2019, il lui aurait été très difficile de toujours faire actualiser l’adresse figurant à son dossier.
+[10] La Loi de l’impôt sur le revenu, LRC 1985, ch. 1, modifiée (la Loi) précise clairement les seules circonstances lors desquelles notre Cour peut faire droit à une demande de prorogation du délai pour le dépôt d’un avis d’opposition. Elles ont deux composantes qui opèrent conjointement. Les demandeurs doivent satisfaire aux deux. L’alinéa 166.2(5)a) de la Loi constitue la première composante :
+Prorogation du délai par la Cour canadienne de l’impôt
+166.2(1) Le contribuable qui a présenté une demande en application de l’article 166.1 peut demander à la Cour canadienne de l’impôt d’y faire droit après :
+a) le rejet de la demande par le ministre;
+[…]
+Acceptation de la demande
+(5) Il n’est fait droit à la demande que si les conditions suivantes sont réunies :
+a) la demande a été présentée en application du paragraphe 166.1(1) dans l’année suivant l’expiration du délai par ailleurs imparti pour signifier un avis d’opposition ou présenter une requête; [...]
+[11] La jurisprudence portant sur l’article en question est sans équivoque. Le législateur prescrit que la Cour et le ministre (article 166.1) ne peuvent faire droit aux demandes de prorogation du délai qui sont présentées dans l’année suivant l’expiration du délai imparti pour signifier un avis d’opposition ou présenter une requête en ce sens et interdit même en ce cas l’examen des conditions applicables de l’alinéa 166.1(7)b) qui suit l’alinéa a) : voir la décision Riley c. La Reine, 2012 CCI 208, paragraphe 7, et l’arrêt Vo c. Canada, 2015 CAF 246, paragraphe 7. De même, l’envoi des avis de cotisation (nouvelle ou non) par le ministre à la dernière adresse figurant au dossier et non pas la réception des avis par le contribuable nous indique l’événement et la date qui importent : voir l’arrêt Rossi c. Canada, 2015 CAF 267, paragraphe 7, et la décision Denelzen c. Canada, CarswellNat 1911, paragraphe 6.
+[12] Pour conclure, malheureusement, il n’existe aucun fondement juridique ou factuel ni aucune combinaison des deux qui permette à notre Cour d’accueillir la demande lorsque les faits présentés sont limpides et irréfutables. L’appel n’est pas rejeté sur le fond, puisque la Cour n’a pu examiner le fond de l’affaire. Je dois appliquer les dispositions techniques de l’échéance précise et inéluctable visant le dépôt d’une demande de prorogation de délai. Par conséquent, la demande est rejetée, même si les circonstances en l’espèce inspirent la sympathie.
+[13] À cette étape, la Cour s’autorise à présenter deux solutions possibles, bien qu’imparfaites. C’est qu’il s’agit d’une affaire rare; en effet, l’opposition à une nouvelle cotisation devrait manifestement être accueillie sur le fond et la Cour ne peut prendre aucune mesure en raison d’une non-conformité technique. Elle espère que ses incitations douces et son soutien améliorent la situation. La Cour n’a évidemment pas le pouvoir de contraindre les parties.
+[14] Une première solution serait que le ministre décide volontairement d’établir une nouvelle cotisation avec l’assentiment du contribuable par l’application du paragraphe 152(4.2) de la Loi.
+[15] Ces dispositions font partie de la partie IV de la circulaire d’information IC07-1. M. Rajagopala devrait pour ce faire demander des renseignements et agir rapidement, s’il y consent, et rappeler le fait que la Cour ne pouvait pas examiner son appel sur le fond.
+[16] La deuxième solution plaira encore moins. Il s’agit d’une demande d’annulation des intérêts, prévue dans les Dispositions d’allègement pour les contribuables à la partie II de la même circulaire IC07-1.
+[17] La Cour n’offre pas par la présente de conseils juridiques ni de directives. Cependant, vu les restrictions en matière d’audience, elle fait part de ses observations qu’elle ferait de vive voix lors d’une audience en personne.
+[18] Pour résumer, la Cour ne peut accueillir la demande et ne l’accueillera pas. La demande est rejetée sans dépens. C’est avec espoir que la Cour suggère et se limite à suggérer à M. Rajagopala et au ministre d’envisager les solutions qu’elle propose dans les présents motifs.
+Signé à Ottawa, Canada, ce 14e jour de janvier 2022.
+« R.S. Bocock »
+Le juge Bocock
+RÉFÉRENCE :
+2022 CCI 8
+NO DU DOSSIER DE LA COUR :
+2020-2213(IT)APP
+INTITULÉ :
+HRISHIKESH PRABHU SWARGATHMADOM RAJAGOPALA c. LA REINE
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+Le 15 décembre 2021
+MOTIFS DE L’ORDONNANCE :
+L’honorable juge Randall S. Bocock
+DATE DE L’ORDONNANCE :
+Le 14 janvier 2022
+COMPARUTIONS :
+Pour le demandeur :
+Le demandeur lui-même
+Avocat de la défenderesse :
+Me Eric Myles
+AVOCATS INSCRITS AU DOSSIER :
+Pour le demandeur :
+Nom :
+[EN BLANC]
+Cabinet :
+[EN BLANC]
+Pour la défenderesse :
+François Daigle
+Sous-procureur général du Canada
+Ottawa, Canada

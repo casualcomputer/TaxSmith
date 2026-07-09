@@ -1,0 +1,101 @@
+---
+title: "Sitzer v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28545/index.do"
+last_modified: "2007-02-21"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 TCC 112"
+citation2: ""
+neutral_citation: "2007 TCC 112"
+decision_date: "2007-02-21"
+language: "en"
+item_id: "28545"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1078
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T23:22:19.979000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "f50e1d0fbf54d58179099882740f568e48dfd6ee5726c657b29465149847a705"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Sitzer v. The Queen
+
+- Citation: 2007 TCC 112
+- Decision date: 2007-02-21
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1078, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Sitzer v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-02-21
+Neutral citation
+2007 TCC 112
+File numbers
+2002-758(IT)G
+Judges and Taxing Officers
+Peter Dean Hamlyn
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2002-758(IT)G
+BETWEEN:
+WILLIAM SITZER,
+Appellant,
+And
+HER MAJESTY THE QUEEN,
+Respondent.
+CERTIFICATE OF COSTS
+I CERTIFY that I have taxed the party and party costs of the Appellant in this proceeding under the authority of subsection 153(1) of the Tax Court of Canada Rules (General Procedure) and I ALLOW THE SUM OF $550.00.
+Signed at Ottawa, Canada, this 21st day of February 2007.
+"Alan Ritchie"
+Taxing Officer
+Citation: 2007TCC112
+Docket: 2002-758(IT)G
+BETWEEN:
+WILLIAM SITZER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR TAXATION
+Ritchie, Alan, T.O., T.C.C.
+[1] This matter came on for hearing by way of a telephone conference call on Thursday, February 15, 2007. It follows a judgment of the Honourable Justice Miller of this Court dated September 23rd, 2005, in which the Appellant, being successful in his appeal, was awarded costs. The Appellant represented himself at the taxation, and the Respondent was represented by Mrs. Nimanthika Kaneira.
+FEES
+[2] The Bill of Costs included claims under Tariff B 1.(1) of the Tax Court of Canada Rules (General Procedure) (the "Rules") totalling $9,975 plus GST. The Appellant represented himself at the hearing before Justice Miller; however, he had been assisted throughout the conduct of the appeal prior to the hearing by his chartered accountants.
+[3] Tariff B 1.(1) reads as follows: “The following amounts may be allowed for the services of counsel:”. “Counsel” is defined in the Rules as every person who may practice in the Court under the Tax Court of Canada Act at 17.1(2):
+Every person who may practise as a barrister, advocate, attorney or solicitor in any of the provinces may so practise in the Court and is an officer of the Court.
+[4] Having represented himself, the Appellant is not entitled to claim fees for the services of counsel under Tariff B 1.(1). This was confirmed in Edgar v. R., [1994] 1 C.T.C. 2562, in which (then) Associate Chief Judge Christie disallowed fees claimed, and addressed the issue of who could be considered “counsel” before the Court as defined in the Act and Rules. His decision confirmed the above.
+DISBURSEMENTS
+[5] Counsel for the Respondent agreed to the $550 claimed for the Court filing fee for a Class C appeal.
+[6] The remainder of the disbursements claimed was for long distance charges, facsimile charges, courier charges and photocopies. These totaled $475. The Respondent had requested of the Appellant on several occasions receipts or invoices to substantiate these disbursements. At the taxation, the Appellant indicated that he could provide no such invoices or receipts.
+[7] The General Procedure Rules are clear with respect to substantiating claims. Subsection 157.(3), which (in part) sets out the Powers of Taxing Officer, reads as follows:
+(3) No disbursements other than fees paid to the Registry shall be taxed or allowed unless it is established that the disbursement was made or that the party is liable for it.
+[8] This was confirmed in Crompton v. R., [1998] 1 C.T.C. 2156, in which the Honourable Judge Hamlyn upheld a decision of the Registrar disallowing disbursements on the basis it had not been clearly substantiated that they were actually made.
+[9] I am disallowing the disbursements, other than the filing fee, as there is no documentation or evidence whatsoever to support them.
+CONCLUSION
+[10] It is clear that the Appellant incurred significant expenses in the conduct of his appeal, which was ultimately successful. However, he is only entitled to those costs provided for under the Tax Court of Canada Rules (General Procedure) and in this particular case the only amount on his Bill of Costs which I am in a position to allow is the $550 filing fee.
+Signed at Ottawa, Canada, this 21st day of February 2007.
+"Alan Ritchie"
+Taxing Officer

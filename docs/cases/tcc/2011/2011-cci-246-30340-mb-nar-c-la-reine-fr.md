@@ -1,0 +1,195 @@
+---
+title: "Mbénar c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30340/index.do"
+last_modified: "2011-05-06"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2011 CCI 246"
+citation2: ""
+neutral_citation: "2011 CCI 246"
+decision_date: "2011-05-06"
+language: "fr"
+item_id: "30340"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 8044
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T13:52:31.190000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "316c2239c4b325587f4d5187fa96afa4bd19f1bf77e4185fa605e25bae856d1b"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Mbénar c. La Reine
+
+- Citation: 2011 CCI 246
+- Decision date: 2011-05-06
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 8044, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Mbénar c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2011-05-06
+Référence neutre
+2011 CCI 246
+Numéro de dossier
+2010-2528(IT)I
+Juges et Officiers taxateurs
+Réal Favreau
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2010-2528(IT)I
+ENTRE :
+OUMAR MBÉNAR,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appels entendus le 14 février 2011, à Québec (Québec).
+Devant : L'honorable juge Réal Favreau
+Comparutions :
+Pour l'appelant :
+l'appelant lui-même
+Avocate de l'intimée :
+Me Marie-France Dompierre
+____________________________________________________________________
+JUGEMENT
+Les appels à l’encontre des nouvelles cotisations établies en vertu de la Loi de l’impôt sur le revenu en date du 10 novembre 2008 concernant les années d’imposition 2004, 2005 et 2006 sont rejetés selon les motifs du jugement ci‑joint.
+Signé à Ottawa, Canada, ce 6e jour de mai 2011.
+« Réal Favreau »
+Juge Favreau
+Référence : 2011 CCI 246
+Date : 20110506
+Dossier : 2010-2528(IT)I
+ENTRE :
+OUMAR MBÉNAR,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+MOTIFS DU JUGEMENT
+Le juge Favreau
+[1] Il s’agit d’appels, par voie de la procédure informelle, à l’encontre de nouvelles cotisations datées du 10 novembre 2008 établies en vertu de la Loi de l’impôt sur le revenu, L.R.C. (1985), ch. 1 (5e suppl.) telle que modifiée, concernant les années d’imposition 2004, 2005 et 2006 de l’appelant.
+[2] La question en litige consiste à déterminer si le ministre du Revenu national (le « ministre ») était justifié de considérer les montants de 53 821 $ pour l’année 2004, de 41 885 $ pour l’année 2005 et de 85 952 $ pour l’année 2006, que l’appelant a réclamés à titre de dépenses locatives, comme étant des dépenses de nature capitale.
+[3] Les nouvelles cotisations établies en date du 10 novembre 2008 apportaient les corrections suivantes :
+2004
+2005
+2006
+Pertes locatives déclarées
+(45 418 $)
+(38 239 $)
+(74 091 $)
+Dépenses d'entretien et réparations refusées
+44 899 $
+41 885 $
+85 952 $
+Dépenses d'honoraires professionnels refusées
+8 922 $
+–
+–
+Allocation du coût en capital accordée
+3 809 $
+3 646 $
+11 717 $
+Revenus locatifs révisés
+4 594 $
+0 $
+145 $
+[4] Pour établir et maintenir les nouvelles cotisations, le ministre s’est fondé sur les conclusions et hypothèses de fait suivantes, énoncées au paragraphe 6 de la réponse à l’avis d’appel :
+a) l’appelant est l’unique propriétaire de 2 immeubles locatifs situés au 2219, 2221 et 2225 ave Bardy et au 669-4ème Avenue, Limoilou Québec; (admis)
+b) le litige concerne exclusivement l’immeuble situé au coin des rues Bardy et La Fontaine acquis par l’appelant le 29 novembre 2002 au coût de 98 500 $; (admis)
+c) il s’agit d’un bâtiment construit en 1953 qui comporte 4 logements; (admis)
+d) il n’y a aucune utilisation personnelle de l’immeuble; (admis)
+e) les revenus locatifs bruts attribuables à l’immeuble s’élevait (sic) à 22 261 $ pour l’année 2004, à 22 085 $ pour l’année 2005 et à 25 860 $ pour l’année 2006; (admis pour 2005 et 2006)
+f) lors de son achat, l’immeuble présentait des vices majeurs dont la vétusté du système électrique, des fissures importantes qui empêchait l’isolation des chambres et provoquaient de l’humidité dans les locaux, une insonorisation défectueuse, des gardes de corps qui ne répondaient pas aux normes de sécurité et des portes et fenêtres vétustes et non hermétiques qui occasionnaient des pertes d’énergie; (nié)
+g) des travaux de réhabilitation complets ont dû être effectués entre les mois de septembre 2004 et novembre 2005, dont voici les principaux :
+· la réparation des fissures aux fondations;
+· la reconstruction du stationnement pour véhicules;
+· la démolition et le remblai de l’entrée du 2221 ave Bardy;
+· la démolition et la reconstruction de la distribution électrique et de la plomberie;
+· la démolition du système de chauffage existant;
+· la construction d’une salle mécanique, incluant une nouvelle entrée électrique et une nouvelle alimentation en eau;
+· les réparations à la toiture et au parement extérieur en maçonnerie;
+· le remplacement des portes et fenêtre existantes;
+· la réparation des balcons extérieurs;
+· les travaux de réaménagement intérieur;
+· la réparation des bris ou dommages au bâtiment existant résultant des travaux d’injection des fissures et des travaux de mécanique/électricité;
+(admis)
+h) pendant les travaux de rénovation, le logement du 2221 Ave Bardy a été libéré pour une période de 2 mois entre la fin septembre et le début novembre 2004. Les logements du 2225 Ave Bardy et du 1960 La Fontaine sont demeurés inoccupés durant toute la période des travaux. (nié)
+Seul l’occupant du 2219, dont le logement nécessitait des rénovations moins importantes, est demeuré dans son logement durant la durée des travaux; (admis)
+i) les travaux effectués étaient de 1.75 fois supérieurs au coût d’acquisition de l’immeuble; (ignoré)
+j) les montants de 44 899 $ pour l’année 2004, de 41 885 $ pour l’année 2005 et de 85 952 $ pour l’année 2006 réclamés par l’appelant au poste « entretien et réparation » ont été refusés puisqu’ils représentaient des dépenses de nature capitale; (admis)
+k) les honoraires de l’ingénieur‑conseil, de l’architecte et du notaire en ce qui concerne le prêt pour les travaux de rénovation, totalisant 8 922 $ pour l’année 2004 ont également été considérés de nature capitale; (admis)
+l) la vérificatrice a également réconcilié la cédule d’amortissement pour chacun des immeubles et a accordé à l’appelant les déductions suivantes à titre d’allocation du coût en capital : (admis)
+2004
+2005
+2006
+2219-2225 Bardy
+3 809 $
+2 543 $
+9 556 $
+669-4ème Avenue
+0 $
+1 103 $
+2 161 $
+Total
+3 809 $
+3 646 $
+11 717 $
+[5] Le paragraphe 6 f) de la réponse à l’avis d’appel a été nié parce que les défectuosités y relatives n’ont pas été constatées lors de l’achat mais plutôt dans l’année qui a suivi l’acquisition. Le paragraphe 6 h) de la réponse à l’avis d’appel a été nié parce que l’adresse du logement dont il est question à la première ligne n’était pas la bonne, il s’agissait plutôt du 2221, avenue Bardy. De plus, ledit logement a été libéré pendant 45 jours et non pas pendant deux mois. La deuxième phrase de ce même paragraphe 6 h) a été nié parce que ces deux logements ne sont pas demeurés inoccupés à cause des travaux mais plutôt parce que le locataire du 1960, La Fontaine a fourni, le 12 octobre 2004, un avis de résiliation de bail et que le locataire du 2225, avenue Bardy a été évincé le 15 novembre 2004 pour défaut de paiement du loyer.
+[6] L’appelant a témoigné à l’audience. Il a confirmé avoir acquis l’immeuble sans garantie légale et sans inspection si ce n’est que d'une inspection sommaire faite par l’agent d’immeuble. Il a dit qu’il avait parlé à des locataires qui lui auraient dit que l’immeuble était correct. Il a payé 98 500 $ pour l’immeuble alors que l’évaluation municipale était de 101 000 $. Au moment de l’acquisition, l’immeuble était entièrement loué. Il a également confirmé que les travaux de rénovation ont été effectués de septembre 2004 à juin 2005, soit près de deux ans après avoir fait l’acquisition de l’immeuble.
+[7] L’appelant a indiqué qu’il avait procédé par un appel d’offre et que le soumissionnaire retenu devait effectuer les travaux pour 110 000 $. L’appelant a dû supporter un coût additionnel de 45 000 $ à cause de problèmes aux fondations. Le même entrepreneur a réalisé tous les travaux sans changer la structure ni la surface habitable de l'immeuble.
+[8] L’immeuble en question, qui a été construit en 1953, était dans un état de vétusté avancé et était même dangereux pour la sécurité des locataires à cause des risques d’incendie. Le rapport d’expertise - mécanique et électricité de la firme d’ingénieurs Genium en date du 20 octobre 2003 (pièce I‑2) recommandait, entre autres choses, le remplacement complet de la distribution électrique existante, le remplacement de la fournaise à l’huile et du chauffe‑eau à l’huile et la réfection de l’entrée électrique. Il y avait également un problème d’humidité et de moisissure dans l’immeuble car les portes et fenêtres étaient souvent embuées. De plus, il y avait présence de rongeurs dans l’immeuble.
+[9] Suite aux travaux de rénovation, l’évaluation municipale de l’immeuble a augmenté pour atteindre 140 000 $ pour l’année 2006.
+Analyse
+[10] Il s’agit de savoir si les dépenses encourues par l’appelant pour effectuer les travaux de rénovations constituaient des dépenses de nature courante ou des dépenses de nature capitale. Il n’existe aucun critère précis pour déterminer si un débours est une dépense courante ou une dépense en capital . La question doit être tranchée en fonction des faits, des circonstances propres au contribuable et de la nature des dépenses concernées.
+[11] Dans l’arrêt Johns-Manville Can. Inc. v. The Queen, [1985] 2 R.C.S. 46, le juge Estey de la Cour suprême du Canada a cité l’extrait suivant tiré de l’arrêt British Insulated and Helsby Cables v. Atherton, [1926] A.C. 205, page 213 :
+[. . .] lorsqu'une dépense est faite non seulement une fois pour toutes, mais dans le but de créer un bien ou un avantage qui profite à une entreprise de façon durable, je crois que c'est un motif très valable (en l'absence de circonstances spéciales menant à une conclusion dans le sens opposé) pour considérer une telle dépense comme véritablement imputable non pas au revenu, mais au capital.
+[12] Selon la preuve, les dépenses qui ont été déduites par l'appelant se rapportaient à de gros travaux de rénovation à tous les niveaux de l'immeuble, à l'intérieur et à l'extérieur: fondations, isolation, toiture, portes et fenêtres, électricité, système de chauffage, plomberie, aire de stationnement, etc. En fait, il s'agissait d'une réhabilitation complète d'un immeuble qui était en décrépitude et dangereux pour les locataires.
+[13] Les dépenses dont il est ici question étaient importantes, près de 175 000 $ au total, par rapport au coût d'acquisition de l'immeuble de 98 500 $, soit 1,75 fois supérieures au coût d'acquisition. De telles dépenses ne peuvent d'aucune façon être considérées comme se rapportant à des réparations mineures ou à l'entretien régulier. Ces dépenses ont été engagées afin de conférer un avantage durable à la propriété pour que les logements puissent être en état d'être loués de façon sécuritaire.
+Conclusion
+[14] Pour ces raisons, je conclus que les nouvelles cotisations, établies par le ministre selon lesquelles les dépenses engagées par l'appelant étaient des dépenses de nature capitale, étaient bien fondées en fait et en droit.
+[15] Les appels sont donc rejetés.
+Signé à Ottawa, Canada, ce 6e jour de mai 2011.
+« Réal Favreau »
+Juge Favreau
+RÉFÉRENCE : 2011 CCI 246
+Nº DU DOSSIER DE LA COUR : 2010-2528(IT)I
+INTITULÉ DE LA CAUSE : Oumar Mbénar c. Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Québec (Québec)
+DATE DE L’AUDIENCE : le 14 février 2011
+MOTIFS DU JUGEMENT PAR : L'honorable juge Réal Favreau
+DATE DU JUGEMENT : le 6 mai 2011
+COMPARUTIONS :
+Pour l'appelant :
+l'appelant lui-même
+Avocate de l'intimée :
+Me Marie-France Dompierre
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelant:
+Nom :
+Cabinet :
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada

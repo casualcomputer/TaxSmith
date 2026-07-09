@@ -1,0 +1,326 @@
+---
+title: "Obonsawin v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29771/index.do"
+last_modified: "2010-04-27"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 TCC 222"
+citation2: ""
+neutral_citation: "2010 TCC 222"
+decision_date: "2010-04-27"
+language: "en"
+item_id: "29771"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6517
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T02:25:18.405000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "9c9b0907ce906fd6c5f5cbf1ca8c81f3f35475f4442922b39729718585356859"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Obonsawin v. The Queen
+
+- Citation: 2010 TCC 222
+- Decision date: 2010-04-27
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6517, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Obonsawin v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-04-27
+Neutral citation
+2010 TCC 222
+File numbers
+2000-4164(GST)G
+Judges and Taxing Officers
+Wyman W. Webb
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2000-4164(GST)G
+BETWEEN:
+ROGER OBONSAWIN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on September 29, 30, October 1, 2 and 5, 2009
+at Toronto, Ontario and on March 2, 2010 at Ottawa, Ontario
+Before: The Honourable Justice Wyman W. Webb
+Appearances:
+Counsel for the Appellant:
+Eric Lay
+Counsel for the Respondent:
+Gordon Bourgard
+Frédéric Morand
+____________________________________________________________________
+JUDGMENT
+The appeals from the assessments made under Part IX of the Excise Tax Act (the “ETA”) for the period February 1, 1991 to January 31, 1993 by Notice of Assessment No. 08GP0101951 dated May 12, 1995, and for the period February 1, 1993 to December 31, 1996 by Notice of Assessment No. 08GP2100602 dated August 20, 1998, are dismissed, with costs.
+Signed at Ottawa, Canada, this 27th day of April, 2010.
+“Wyman W. Webb”
+Webb, J.
+Citation: 2010TCC222
+Date: 20100427
+Docket: 2000-4164(GST)G
+BETWEEN:
+ROGER OBONSAWIN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Webb, J.
+[1] The Appellant is an Indian as defined in section 2 of the Indian Act. In carrying on his sole proprietorship business under the name “Native Leasing Services” (“NLS”), the Appellant did not collect (and did not remit) GST on the taxable supplies that he made in carrying on this business. There are two assessments of the Appellant that are in issue in this appeal. The first assessment (dated May 12, 1995) was for the period from February 1, 1991 to January 31, 1993 and the amount of GST that was assessed was $759,877. The second assessment (dated August 20, 1998) was for the period from February 1, 1993 to December 31, 1996 and the amount of GST that was assessed was $3,304,715. Interest and penalties were also assessed.
+[2] Counsel for the Appellant described the grounds for the appeal in his written submissions as follows:
+2. The grounds for his appeal are identical in respect of each of the tax years under consideration. They are:
+a. the GST assessed against the appellant constitutes a tax on the property of the appellant (a Status Indian) situated on a reserve, and/or a tax on him in respect of that property, contrary to s. 87 of the Indian Act, and the assessments are therefore void;
+b. Further, or in the alternative, the CRA chose to raise notional GST assessments against the appellant based on income reported for income tax purposes, notwithstanding that CRA had available to it complete financial records of Mr. Obonsawin’s sole proprietorship.
+[3] Subsections 87(1) and (2) of the Indian Act provided, during the period under appeal, as follows:
+87. (1) Notwithstanding any other Act of Parliament or any Act of the legislature of a province, but subject to section 83, the following property is exempt from taxation, namely,
+(a) the interest of an Indian or a band in reserve lands or surrendered lands; and
+(b) the personal property of an Indian or a band situated on a reserve.
+(2) No Indian or band is subject to taxation in respect of the ownership, occupation, possession or use of any property mentioned in paragraph (1)(a) or (b) or is otherwise subject to taxation in respect of any such property.
+[4] The business that the Appellant carried on as NLS was employee leasing. The Appellant would hire the staff of a client (whom the Appellant referred to as a placement organization) and then “lease” the employees back to the placement organization. The Appellant became the employer and was responsible for source deductions. The placement organizations would still retain control over the individual workers who would still report for work at the premises of the placement organization. The Appellant (or his employees) would also recruit employees at the request of placement organizations. Such individuals would also be employees of the Appellant and leased to the placement organization that made the request. The Appellant’s clients were native not-for-profit organizations but none of the Appellant’s clients were Indians or bands (as defined in the Indian Act). None of the placement organizations were located on any reserve. The Appellant was not arguing that GST should not apply because any of his clients were entitled to claim an exemption pursuant to section 87 of the Indian Act.
+[5] Prior to establishing NLS, the Appellant had formed a corporation, OI Employee Leasing Inc., to carry on the employee leasing business. This company carried on the business for approximately three years before the Appellant established NLS in 1991. The Appellant described the formation of NLS as follows:
+Q. You talked a little bit at the outset about the formulation of Native Leasing Services?
+A. Yes.
+Q. In 1991?
+A. Yes.
+Q. Can you tell me a little bit, to the extent you remember, about the circumstances of the formation of NLS, and I'm going to ask you why you formed NLS?
+A. Well, we'd been operating for a while, and then the Goods and Services Tax, the GST was applied. Indians were exempt from the manufacturing sales tax, and it replaced the manufacturing sales tax.
+So without any changes to the Indian Act, the government said you now have to pay the GST or collect the GST, and I didn't see myself as a tax collector for the GST and I refused to collect that from people that are just barely getting by and finally getting out of poverty.
+Q. That's helpful to talk about the history of the introduction of GST. Can you help us with how establishing Native Leasing Services fit into that concern and that insight you had?
+A. Well, we went to our employees[1], all of our employees, and gave them a choice that they could start paying the GST, and if they agreed to pay the GST, we would collect it ‑‑ and some of them did ‑‑ and remit it.
+And for those who wanted to exercise their aboriginal treaty rights, then we would not collect. We would honour their rights and not collect it, and that was our position.
+Q. Okay, I understand that, and that's helpful. And so this option you offered your employees, did that relate in some way to the formation of Native Leasing Services?
+A. Yes. Those employees that agreed to ‑‑ that they did not want us to collect the tax we put under Native Leasing Services. Those that wanted to pay it, we put under the OI Employee Leasing ‑‑ we left under OI Employee Leasing.
+[6] With the introduction of the GST in 1991, the Appellant created two streams – OI Employee Leasing Inc. would provide the services to those placement organizations from whom GST would be collected and NLS would provide services to those placement organizations from whom GST would not be collected. The decision of whether GST would be collected was not based on any provisions of the Excise Tax Act but only on whether the placement organizations wanted to pay GST.
+[7] OI Employee Leasing Inc. provided the same services to its clients as NLS did to its clients using the same staff as NLS. OI Employee Leasing Inc., however, did collect and remit the GST in relation to the amounts that were received (or receivable) for its services.
+[8] It is clear that the Appellant made a conscious choice to not collect and remit the GST in relation to the taxable supplies that were being made by him in carrying on business as NLS. There is no dispute that the supplies that were being made by him in carrying on business as NLS were taxable supplies, for the purposes of the Excise Tax Act, and that none of the supplies were zero rated supplies. In the Appellant’s Notice of Appeal, he had indicated that some of the supplies were exempt supplies for the purposes of the Excise Tax Act. At the commencement of the hearing counsel for the Appellant stated that the Appellant was no longer taking the position that some of the supplies were exempt supplies for the purposes of the Excise Tax Act and an Amended Notice of Appeal (which was the Amended Amended Amended Notice of Appeal) was filed in which the references to some of the supplies being exempt supplies for the purposes of the Excise Tax Act were deleted.
+[9] As noted by counsel for the Appellant, the first ground of appeal relates to section 87 of the Indian Act. Both the exemption from taxation on personal property provided in paragraph 87(1)(b) and the exemption provided to an Indian in subsection 87(2) in respect of personal property, are limited to taxation in relation to the personal property of an Indian situated on a reserve. Therefore the first questions that arise are:
+(a) is any personal property of the Appellant being taxed; or
+(b) is the Appellant being taxed in respect of the ownership, occupation, possession or use of any of his personal property or is otherwise being subjected to taxation in respect of any such property?
+[10] If the answer to either of these questions is yes, then the next question that must be answered is whether such personal property is situated on a reserve. If no personal property of the Appellant is being taxed and the Appellant is not being taxed in respect of the ownership, occupation, possession or use of any of his personal property and is not otherwise being subjected to taxation in respect of any such property, then the provisions of section 87 of the Indian Act do not apply.
+[11] Counsel for the Appellant, in his written submissions, stated that:
+97. the Crown has admitted in its pleadings that the services Obonsawin offers through his sole proprietorship constitute property for the purposes of this appeal.
+[12] There is no statement in the pleadings of the Crown that the Crown has admitted that services would be property for the purposes of the Indian Act. During oral argument, counsel for the Appellant acknowledged that he had overstated the Crown’s position. In any event it seems to me that this would be a question of law (or a mixed question of fact and law).
+[13] It seems clear that the Appellant was providing services. In the Amended Amended Amended Notice of Appeal, paragraph 4 provides that:
+4. Commencing in 1992 the Appellant entered into contracts (the “Service Contracts”) with numerous native organizations throughout Canada (the “Placement Organisations”) pursuant to which the Appellant provided various services to the Placement Organisations (the “Services”) on the terms expressed in the Service Contracts.
+[14] In the written arguments submitted on behalf of the Appellant, paragraphs 26 and 27 provide in part that:
+26. NLS is a sole proprietorship of Roger Obonsawin.
+27. It was formed in 1991 to provide employee leasing services to native organizations.
+[15] The typical Placement Agreement between NLS and a placement organization provided in Schedule “A” that:
+The placement organization agrees to the timely remittance of all fees applicable to the purchase of services described as follows: …
+[16] It is also clear that the administrative fee charged by NLS was a percentage of the amount payable for the services rendered.
+[17] It is clear that the Excise Tax Act draws a distinction between property and services. “Supply” and “service” are defined in section 123 of the Excise Tax Act as follows:
+“supply” means, subject to sections 133 and 134, the provision of property or a service in any manner, including sale, transfer, barter, exchange, licence, rental, lease, gift or disposition;
+“service” means anything other than
+(a) property,
+(b) money, and
+(c) anything that is supplied to an employer by a person who is or agrees to become an employee of the employer in the course of or in relation to the office or employment of that person;
+[18] During oral argument counsel for the Appellant was unable to refer to any cases that dealt with the issue of whether services could be property for the purposes of the Indian Act. At the conclusion of the oral argument, counsel for the Appellant indicated that he would submit additional written representations with respect to the issue of why services should be included as property for the purposes of the Indian Act.
+[19] In the supplemental written argument submitted by the counsel for the Appellant, he stated that:
+1. The essence of the contractual relationship between Obonsawin and a placement agency is that the placement agency agrees to pay for, and Obonsawin agrees to provide, services to the placement agency (which services are to be provided by Obonsawin’s employees).
+2. Obonsawin, pursuant to his agreements with his employees, has the contractual right to call upon them to perform those services, and it is these contractual rights of Obonsawin’s – as distinct from the services – that are the personal property of Obonsawin for purposes of s. 87.
+[20] It appears that the Appellant is abandoning his argument that services are property for the purposes of the Indian Act. His argument is now that the contractual right that the Appellant has with his employees is the property for the purposes of the Indian Act. Counsel for the Appellant cites two cases in support of this proposition – Phillips v. The Queen 2006 TCC 24, [2006] 2 C.N.L.R. 112, 2006 G.T.C. 171 and Metlakatla Ferry Service Ltd. v. The Queen in Right of British Columbia, [1987] 2 C.N.L.R. 95.
+[21] In Phillips the organizer of certain conferences had been assessed GST that the Crown was alleging he should have collected on registration fees charged to bands and band entities. The fees were paid so that individuals determined by the bands could attend conferences that were held off the reserve. In that case Justice Paris stated that:
+31 However, I believe that under the contract between the Appellant and his customers, the payment of the conference registration fees gave the latter a right to attend the conference at a future date. Although the conferences themselves would be the provision of a service, at the point in time when the bands or band entities made payments to the Appellant they acquired a right to the performance of a service in the future.
+32 The conference fees were paid by participants or (in this case) by their employers in order to attend the conferences or workshops put on by the Appellant on a scheduled day or days. The fees were set according to the particular workshops that the participant wished to attend and were paid in advance. According to the Appellant, the various Indian bands or band entities would often pay for more than one place at a conference and decide afterwards who would attend. Thus it appears that the right to attend the conference was transferable from one person to another. The registration forms provided that no refund would be given if a registrant did not attend and had not made a request for a refund more than a week prior to the conference. Therefore the payment was not conditional on receipt of the service.
+33 I find that, in this case at the time the supply was made, the supply consisted of a right to attend the conference.
+[22] In seems to me that there is a difference between a right to attend a conference and any right that the Appellant may have as the employer under his employment contract to “call upon [the employee] to perform … services”. It also seems to me that the Appellant was paid for services that were actually rendered and not for any right that he might have to “call upon [his employees] to perform … services”.
+[23] In Metlakatla Ferry Service Ltd. the British Columbia Court of Appeal held that the lease of a vessel and the payments made under the lease were personal property. In that case, the band was leasing a vessel and the tax, if applicable would have been payable by the band. It also seems to me that a distinction can be drawn between a lease or a right to use property (a vessel) and employment contracts. A person can enforce a lease of property if the owner of the property should refuse to allow the lessee access to the property but the employer does not have the right to force an individual to work if that person should choose to quit his or her job.
+[24] It does not seem to me that the Appellant had any significant property interest (if he had any property interest at all) in his employment contracts with his employees. As noted by Justice McIntyre in Reference Re Public Service Employee Relations Act (Alberta) [1987] 1 S.C.R. 313, 38 D.L.R. (4th) 161:
+175. … The second reason is simply that there is no analogy whatever between the cessation of work by a single employee and a strike conducted in accordance with modern labour legislation. The individual has, by reason of the cessation of work, either breached or terminated his contract of employment. It is true that the law will not compel the specific performance of the contract by ordering him back to work as this would reduce "the employee to a state tantamount to slavery" (I. Christie, Employment Law in Canada (1980), p. 268).
+[25] The Appellant would not have any right to force any employee to work who did not want to work. Any interest that the Appellant had in his contracts with his employees would not be a significant interest and would not be the reason his clients paid him. His clients paid him because services were rendered by his employees.
+[26] It seems to me that the Appellant was providing services to his clients and the reason that GST would be payable, subject to the arguments related to the Indian Act, is that these services were provided. The Appellant did not receive the payments from his clients because he was supplying property but because he was supplying services. The clients would submit payment in advance based on an estimate of the number of hours that the leased employees would work. The leased employees would complete time sheets to reflect the hours that they worked. Once the actual number of hours that the individuals had worked was determined, the amount payable, based on the actual hours worked would be reconciled with the payment based on the estimated hours and any difference would be adjusted in a subsequent payment. Although the agreements did not specify what would happen if no services were rendered and payment in advance had already been made, it seems to me that it was more likely than not that the client would have been entitled to a refund. I find that the Appellant’s right to payment (or his right to retain amounts paid in advance) was conditional on the services actually being rendered.
+[27] Therefore, unlike in Phillips where the payment was not conditional on receipt of a service, in this case the payments were conditional on providing services. If the Appellant (through his employees) did not provide services, the Appellant was not entitled to payment. The Appellant was providing services to his clients and it is the supply of these services that is subject to GST.
+[28] Section 133 of the Excise Tax Act provides that:
+133. For the purposes of this Part, where an agreement is entered into to provide property or a service,
+(a) the entering into of the agreement shall be deemed to be a supply of the property or service made at the time the agreement is entered into; and
+(b) the provision, if any, of property or a service under the agreement shall be deemed to be part of the supply referred to in paragraph (a) and not a separate supply.
+[29] When the Appellant entered into agreements with the various organizations to provide services (that would be provided by the employees of the Appellant), this would be deemed to be a supply of the service. This section does not convert services into property, as seemed to be suggested during the hearing.
+[30] Section 87 of the Indian Act only refers to property. This provision was implemented long before the Excise Tax Act imposed a tax on services. In Nowegijick v. The Queen, [1983] C.T.C. 20, [1983] 1 S.C.R. 29, [1983] 2 C.N.L.R. 89, 46 N.R. 41, 144 D.L.R. (3d) 193, 83 D.T.C. 5041, Justice Dickson (as he then was) writing on behalf of the Supreme Court of Canada stated that:
+25 It is legal lore that, to be valid, exemptions to tax laws should be clearly expressed. It seems to me, however, that treaties and statutes relating to Indians should be liberally construed and doubtful expressions resolved in favour of the Indian. If the statute contains language which can reasonably be construed to confer tax exemption that construction, in my view, is to be favoured over a more technical construction which might be available to deny exemption. In Jones v. Meehan, 175 US 1, it was held that “Indian treaties must be construed, not according to the technical meaning of their words, but in the sense in which they would naturally be understood by the Indians”.
+[31] It does not seem to me, however, that this case turns on whether the exemption in section 87 of the Indian Act can be interpreted as exempting a tax on services. It seems to me that even if the Appellant were clearly supplying property that he still would not succeed. Therefore it is not necessary to decide whether the exemption in section 87 of the Indian Act can be interpreted to include services[2].
+[32] The liability for tax under the Excise Tax Act is imposed by section 165 of that Act which, during the period under appeal, provided as follows:
+165. (1) Subject to this Part, every recipient of a taxable supply made in Canada shall pay to Her Majesty in right of Canada tax in respect of the supply calculated at the rate of 7% on the value of the consideration for the supply.
+[33] The rate of tax has since been reduced to 5% but the tax is still imposed on the recipient of the supply not on the person making the supply. The Appellant was the person making the supply of services - he was not the recipient of this supply. Therefore, he is not the person upon whom the tax was imposed.
+[34] Subsection 221(1) of the Excise Tax Act provides that:
+221. (1) Every person who makes a taxable supply shall, as agent of Her Majesty in right of Canada, collect the tax under Division II payable by the recipient in respect of the supply.
+[35] The Appellant, as the person who was making the taxable supplies, was obligated to collect the tax.
+[36] In his written submissions, counsel for the Appellant stated after the heading “The Minister’s Assessments Against Obonsawin Amount to Taxation Under s.87” that:
+108. The appellant’s submission is twofold:
+a. Requiring third parties to pay GST in respect of purchases of his property amounts to taxation of his property for purposes of s. 87(1)(a) of the Indian Act;
+b. Imposing liability on him to collect and remit GST amounts to both taxation of his property contrary to s. 87(1)(a) of the Indian Act, and to a tax in respect of the use of his property pursuant to s. 87(2) of the Indian Act.[3]
+[37] Counsel for the Appellant referred to the decision of Justice Bowie in Pictou v. The Queen, 2000 G.T.C. 826, [2000] G.S.T.C. 39. Justice Bowie held that individuals who were Indians for the purposes of the Indian Act and who operated stores on a reserve, were obligated to collect GST from their customers who were not Indians, as defined for the purposes of the Indian Act. In that case it was clear that property was being supplied. Justice Bowie stated that:
+45 I turn now to the arguments based upon the Indian Act. The Appellants' position is that the provisions of the Act in question impose a tax upon a retail merchant, because they require the merchant to collect and remit the GST exigible upon a retail sale, and, upon failing to do so, to remit an amount equal to the tax not collected. If this is so, then section 87 exempts an Indian from its operation.
+46 In my view this argument is effectively foreclosed by the judgment of the Supreme Court of Canada in Reference re Excise Tax Act (Canada).* That case began with a reference by the Lieutenant-Governor of Alberta to the Alberta Court of Appeal as to the constitutional validity of the Act. The third constitutional question posed reads:
+Having regard to s. 103 of the Constitution Act, 1867 and the common law, are suppliers entitled to charge and to collect from the Consolidated Revenue Fund of Canada all costs, charges and expenses incidental to collecting and paying a remittance under the GST Act?
+On the appeal from the Alberta Court of Appeal to the Supreme Court, the Attorney General of Alberta advanced the argument that the Act, by requiring vendors of taxable supplies to collect and remit the tax, imposed a forcible taking by the Crown of the property of the vendor, and so gave rise to a right in the vendor to be compensated under the principle in Manitoba Fisheries.* Lamer, C.J., for the majority of the Court, disposed of this argument, both as it applied to the administrative burden imposed on a retailer, and as to any amount the retailer might have to pay in respect of GST not collected. At pages 474-5 he said:
+...Alberta's suggestion that in collecting and remitting the GST the vendor of a taxable supply has had his property “taken” is difficult to understand. It is the purchaser, not the supplier, who is obliged to pay the GST. The supplier is simply the agent of the Crown in right of Canada for the purposes of collection. Even in those cases where the vendor is obliged to absorb the GST in order to maintain sales, the resulting reduction in revenue cannot reasonably be characterized as a “taking” of the supplier's property by the federal government. Were such reasoning to prevail, virtually any governmental policy which resulted directly or indirectly in the reduction of a supplier's revenue could be characterized as a “taking” of property which would give rise to a right to compensation. In truth, since no property of the supplier is “taken” by the imposition of the GST collection and remittance obligations, a right to compensation cannot be supported on this basis.
+Since there is no “taking” from the vendor by the operation of the statute, it cannot be said that there is a tax imposed on the vendor, because a tax by its very nature is an involuntary taking by the state of property of the subject. Section 87 of the Indian Act, therefore, cannot have any application.
+(* denotes footnotes that were inserted by Justice Bowie)
+[38] On the appeal from the decision of Justice Bowie to the Federal Court of Appeal (which was not successful), the argument related to section 87 of the Indian Act was not pursued. Counsel for the Appellant argued that the decision in Pictou should not be applied. He stated that:
+116. In the appellant’s respectful submission, however, the question of whether a “taking” arose on the facts of that case is plainly distinguishable from the question of whether 1) the assessment raised against this appellant amounts to a tax upon his personal property, or 2) the assessment raised against this appellant amounts to taxation in respect of the use (or ownership, occupation or possession) of his property.
+117. Expropriation jurisprudence is extremely far removed from the context of legislation aimed at the plight of aboriginal peoples of Canada. The principle enunciated in Nowegijick does not apply, obviously, and the Court in this case is faced with a statute, rather than common law construction.
+[39] The passage quoted by Justice Bowie from the decision of the Supreme Court of Canada in Reference re Excise Tax Act (Canada) (which is also cited as Reference re: Goods and Services Tax (GST)(Can.)), [1992] 2 S.C.R. 445, was in relation to the following constitutional question:
+3 Having regard to s. 103 of the Constitution Act, 1867 and the common law, are suppliers entitled to charge and to collect from the Consolidated Revenue Fund of Canada all costs, charges and expenses incidental to collecting and paying a remittance under the GST Act?
+[40] Chief Justice Lamer, writing on behalf of the majority of the Justices of the Supreme Court of Canada, described this question as follows:
+37 According to the Attorney General for Alberta, registered suppliers under the GST Act have the right to be reimbursed from the consolidated revenue fund of Canada for all expenses and charges incurred in collecting the GST. This argument is based on s. 103 of the Constitution Act, 1867, and on the common law of agency.
+[41] The conclusion of the Supreme Court of Canada was that the constitutional question as stated above must be answered in the negative. While this question was based on the common law of agency and was related to compensation, the Supreme Court of Canada also addressed the following question:
+4 Having regard to s. 125 of the Constitution Act, 1867,
+(a) is the imposition of obligations under the GST Act on the Government of Alberta as a supplier to collect and pay a remittance on a taxable supply that is Alberta property ultra vires the Parliament of Canada,
+(b) does the imposition of a remittance under the GST Act on a recipient from the Government of Alberta of a taxable supply that is Alberta property or that generates revenue to the Government of Alberta constitute taxation of Alberta property that is ultra vires the Parliament of Canada, and
+(c) does the imposition of a remittance that is computed under s. 154 of the GST Act on the basis of consideration for a taxable supply that includes an amount of provincial tax constitute taxation of Alberta property that is ultra vires the Parliament of Canada?
+[42] Chief Justice Lamer stated, in relation to this question, as follows:
+52 Section 125 of the Constitution Act, 1867 provides as follows:
+125. No Lands or Property belonging to Canada or any Province shall be liable to Taxation.
+…
+54 Canada does not contend that a province is liable to pay the GST as a purchaser of taxable supplies. Instead, it claims simply that the province is under an obligation to collect and remit the GST from purchasers of taxable supplies when the province acts as supplier. The Attorney General for Alberta's position is that this amounts to taxation of the property of the province.
+[43] This is the same position being taken by the parties in this case. The Respondent’s position is that the Appellant “is under an obligation to collect and remit the GST from purchasers of taxable supplies when the [Appellant] acts as supplier” and the Appellant is taking the position “that this amounts to taxation of the property of the” Appellant.
+[44] In determining that the obligations of the Province of Alberta to collect (and remit) GST on taxable supplies made by the province of Alberta of its property did not constitute a tax on the property of Alberta, Chief Justice Lamer stated, in part, that:
+58 The GST, in contrast, does not apply to exports. It applies to the domestic provision of taxable supplies, and it is the purchaser, rather than the supplier, which is liable to pay the tax. Indeed, the tax only becomes payable by virtue of transactions in which some property interest has left the supplier and become vested in the purchaser. Clearly, therefore, it is the purchaser, not the vendor, which is taxed.
+59 Nor can it plausibly be said that the imposition of the GST on sales of provincial property amounts to a tax on the fruits of provincial property in that, due to their liability to pay the GST, purchasers will purchase less of such property, resulting in lost sales and diminished revenues to the province. The fact that a federal tax renders provincial property less commercially attractive than it would be if the tax did not apply does not render that tax a tax upon provincial property. In Phillips v. City of Sault Ste. Marie, [1954] S.C.R. 404, this Court considered the case of a municipal tax levied on tenants of land owned by the Crown in right of Canada. The tax was assessed on the basis of the value of the premises occupied as assessed by the city. This Court found that the tax was not levied upon the land, but upon the occupants; the value of the land was simply the measure by which the liability of the occupants to pay the tax was to be assessed. Consequently, the tax did not violate s. 125 of the Constitution Act, 1867, notwithstanding that, de facto, its collection might lower the returns that the Crown in right of Canada could realize from rental of the land.
+60 Clearly, a practical consequence of the collection and remittance responsibilities imposed by the GST Act may result in a cost to the province, but neither the true aim and purpose of the scheme nor its incidental effects runs contrary to the spirit of s. 125. As the majority of this Court clearly stated in Reference re Exported Natural Gas Tax, supra, at pp. 1053-54, in order to violate s. 125 the impugned measure must in pith and substance constitute taxation. The possibility that the GST may have the effect of reducing provincial revenues from the sale of provincial property does not render the GST a "taxation" of provincial property. Nor does the calculation of the GST as a fraction of a price a portion of which is provincial tax amount to the federal taxation of provincial tax. Rather, the price paid for a taxable supply, including a component that is provincial tax, is the measure chosen by Parliament by which the liability of the purchaser to pay the GST is calculated.
+61 Since the obligation of a province to collect and remit the GST when it acts as supplier does not amount to a taxation of the province's property, s. 125 of the Constitution Act, 1867 has no application in these situations. Consequently, the fourth constitutional question must be answered in the negative.
+[45] Since “the obligation of a province to collect and remit the GST when it acts as supplier does not amount to a taxation of the province's property”, the obligation of the Appellant to collect and remit GST when he acts as a supplier does not amount to a taxation of his property. Since the obligation to collect the GST is the obligation to collect the GST from the third party purchasers, requiring the third parties to pay GST in respect of purchases of the property of the Appellant does not amount to taxation of his property.
+[46] The Appellant argued that:
+113. … s. 87(1)(a) of the Indian Act, on a plain reading, does not deal with the taxation of an Indian per se. Section 87(2), …, deals with tax imposed on the Indian, but s. 87(1) exempts the property of an Indian from taxation. The appellant submits that taxation of his property situated on a reserve, even in the context of a transaction where a purchaser acquires the primary tax liability, is subject to the exemption in that section.
+114. In this regard he relies of the principle enunciated in Nowegijick, concerning the interpretation of statutes dealing with native persons. In this instance, where the statute is silent concerning the identity of the primary taxpayer, that principle favours an interpretation of the Indian Act which enlarges and protects the exemption.
+[47] The Appellant’s argument is that anyone who purchases his property that is situated on the reserve should not have to pay GST in relation to the purchase of this property. If the Appellant were to succeed with this argument, then any person who would not qualify for an exemption from taxation under the Indian Act, could purchase the Appellant’s property without paying GST. This would effectively “enlarge” the exemption to include persons who were not intended to benefit from the Indian Act. It does not seem to me that this is the correct result.
+[48] Justice Gonthier, writing on behalf of the Supreme Court of Canada, stated in Williams v. The Queen, [1992] 1 S.C.R. 877 that:
+16 The question of the purpose of ss. 87, 89 and 90 has been thoroughly addressed by La Forest J. in the case of Mitchell v. Peguis Indian Band, [1990] 2 S.C.R. 85. La Forest J. expressed the view that the purpose of these sections was to preserve the entitlements of Indians to their reserve lands and to ensure that the use of their property on their reserve lands was not eroded by the ability of governments to tax, or creditors to seize. The corollary of this conclusion was that the purpose of the sections was not to confer a general economic benefit upon the Indians (at pp. 130-31):
+[49] Since the GST was not imposed on the Appellant but on the Appellant’s clients, the GST did not erode the Appellant’s property. The Appellant had the obligation to collect the GST from his clients and therefore the GST would have eroded his client’s property, not the Appellant’s property. Imposing the GST on the customers of the Appellant does not thwart the purpose of section 87 of the Indian Act.
+[50] As a result the Appellant cannot succeed in relation to his arguments related to paragraph 87(1)(b) of the Indian Act.
+[51] The Appellant also raised an argument related to subsection 87(2) of the Indian Act. This subsection provides that:
+(2) No Indian or band is subject to taxation in respect of the ownership, occupation, possession or use of any property mentioned in paragraph (1)(a) or (b) or is otherwise subject to taxation in respect of any such property.
+[52] In order for this provision to be applicable in this case, the Appellant would have to be subject to taxation. As noted by the Supreme Court of Canada in Reference Re: Goods and Services Tax (GST) (Can.):
+58 … it is the purchaser, rather than the supplier, which is liable to pay the tax. Indeed, the tax only becomes payable by virtue of transactions in which some property interest has left the supplier and become vested in the purchaser. Clearly, therefore, it is the purchaser, not the vendor, which is taxed.
+[53] Since the purchaser is liable to pay the tax, the Appellant, as the supplier, is not taxed and therefore subsection 87(2) of the Indian Act does not apply. Justice Bowie, as noted above, reached the same conclusion in Pictou.
+[54] In this case the Appellant clearly chose to not collect the GST. On December 20, 1990 (which was shortly before the GST was effective), the Appellant, as the principal of O.I. Employee Leasing Inc., wrote to Vince Hill, who was the Executive Director of the Niagara Regional Native Centre. In this letter (which the Appellant indicated was typical of the letters that he sent to clients around this time) the Appellant stated:
+We have recently been advised by our lawyers that our employee leasing service is subject to the new Goods and Services Tax (GST). Accordingly we would be required to add the tax to the entire invoice amount for our service.
+It is our understanding that some services have been exempted from the GST and are given a 0% rating. This means that they do not have to collect the GST from their clients when they provide a service.
+We feel that the lack of a similar exemption to Native businesses is completely unacceptable. It represents a dangerous precedent in relation to the Native community if it is allowed to proceed without amendment. This tax may very well open the door to further taxation of Indian people and the erosion of rights. In addition, it imposes an unfair burden on the non-profit sector at a time when they are already suffering from cutbacks in funding.
+As of January 1st, the federal government will be expecting you to pay the GST on our services. Some of our clients have informed us that they will not be paying the tax even though they may be liable for it. We will be initiating court action and are asking the Assembly of First Nations (AFN) to help us fight the tax. While this process is in place, we will not be collecting the tax from those clients who wish to withhold it.
+[55] As noted above, the Appellant commenced to carry on business as NLS for those clients who did not want to pay the GST. Clearly the Appellant knew that his clients were liable for the GST and that the GST was a tax that was being imposed on his clients. By the Appellant agreeing to not collect the tax he cannot shelter his clients from the application of the GST by claiming an exemption under section 87 of the Indian Act. If the Appellant were to succeed in this argument, then the Appellant could effectively pass on his exemption as an Indian under section 87 to any person who was not an Indian or a band (as defined in the Indian Act). As noted above, none of the clients of the Appellant were Indians or bands (as defined in the Indian Act).
+[56] The Appellant was assessed for the GST that he should have collected from his clients. Section 296 of the Excise Tax Act provides as follows:
+296. (1) The Minister may assess
+(a) the net tax of a person under Division V for a reporting period of the person,
+[57] Subsection 225(1) of the Excise Tax Act provides in part as follows:
+225. (1) Subject to this Subdivision, the net tax for a particular reporting period of a person is the positive or negative amount determined by the formula
+A – B
+where
+A is the total of
+(a) all amounts that became collectible and all other amounts collected by the person in the particular reporting period as or on account of tax under Division II, and
+(b) all amounts that are required under this Part to be added in determining the net tax of the person for the particular reporting period; and
+B is the total of
+(a) all amounts each of which is an input tax credit for the particular reporting period or a preceding reporting period of the person claimed by the person in the return under this Division filed by the person for the particular reporting period, and
+(b) all amounts each of which is an amount that may be deducted by the person under this Part in determining the net tax of the person for the particular reporting period and that is claimed by the person in the return under this Division filed by the person for the particular reporting period.
+[58] The Appellant was assessed for the GST amounts that became collectible by him. This does not mean that the Appellant is now being taxed. This is simply the consequence of the Appellant failing to collect the GST from his clients. If the Appellant would have collected the GST from his clients and remitted the GST (as O.I. Employee Leasing Inc. did) then he would not have been assessed. The Appellant is granted, as any supplier is granted, pursuant to section 224 of the Excise Tax Act, the right to recover from any recipient, the GST that has been remitted in respect of the supply made to that recipient, provided that the Appellant has satisfied the disclosure requirements as set out in subsection 223(1) of the Excise Tax Act.
+[59] In Tseshaht Indian Band v. British Columbia, 94 D.L.R. (4th) 97, 69 B.C.L.R. (2d) 1, the British Columbia Court of Appeal addressed the application of taxes imposed by the Province of British Columbia on tobacco and gasoline. The Tseshaht Band operated a store on the reserve. When the Band purchased cigarettes and gasoline it had to pay to the person from whom it purchased these products, an amount equal to the amount of tax that would be collected from consumers when they purchased the cigarettes and gasoline[4]. The applicable legislation for each product imposed the tax on the consumer. The majority of the British Columbia Court of Appeal held that the requirement of the Band to pay an amount equal to the tax that would ultimately be paid by the consumers when the cigarettes and gasoline were purchased, did not result in the Band paying a tax for the purposes of section 87 of the Indian Act.
+[60] As a result the Appellant cannot succeed in relation to his claim that the supply of his services results in a tax on him for the purposes of subsection 87(2) of the Indian Act.
+[61] In this case the Appellant was assessed an amount as determined by Revenue Canada (which later became the Canada Customs and Revenue Agency and then the Canada Revenue Agency) based on his sales or estimated sales. “CRA” will be used herein to refer to Revenue Canada, the Canada Customs and Revenue Agency and the Canada Revenue Agency. The Appellant did not file any GST returns and did not allow the CRA to audit his books and records. The Appellant did not introduce any evidence at the hearing to challenge the amount of the GST assessed (he was only challenging his liability for the payment of the amount). The Appellant also did not introduce any evidence in relation to any amounts that he might have been entitled to claim for input tax credits. The Appellant’s position was clear that he failed to collect the GST and both counsel for the Appellant and counsel for the Respondent submitted that, if GST was applicable, it was to be determined as 7% and not as 7/107 of the amount paid (or payable) as consideration for the services rendered.
+[62] The final ground as raised by the Appellant is that:
+… the CRA chose to raise notional GST assessments against the appellant based on income reported for income tax purposes, notwithstanding that CRA had available to it complete financial records of Mr. Obonsawin’s sole proprietorship
+[63] This is not consistent with the evidence presented at the hearing. During direct examination the Appellant testified as follows:
+Q. So let me just ask you, then. I mean, what was your position with respect to, at that time, disclosing financial statements to CRA? Did you have an objection to numbers going to CRA?
+A. Regarding the GST?
+Q. Well, I think, if I understand it, CRA was asking for certain numbers to be provided?
+A. Yes.
+Q. And they were provided at this meeting. And I was wondering, maybe you don't remember, but if you can recall what your position was, as the proprietor of Native Leasing Services, about providing financial data like this to CRA?
+A. Yes. Well, we were very concerned about providing that information because, as it states here, it really is ‑‑ to me, it really goes against the fiduciary obligation of the federal government, and to provide the information, I really wasn't ‑‑ I wasn't comfortable with it.
+There was a lot of discussion those days about the Indian Act and revising the Indian Act, and people were always concerned about revising the Indian Act, not that it doesn't need to be revised, but it needs to be revised with native input and this was done without native input.
+Q. Let me ask you this. Do you recall in the course of dealings with CRA in respect of disclosure of details of NLS's business?
+A. Yes, I remember the ‑‑ well, they wanted to audit our files ‑‑
+Q. Right.
+A. ‑‑ and come to our office, and we wouldn't agree to it.
+Q. And do you recall a lengthy exchange of correspondence?
+A. Yes. There was quite an exchange.
+[64] As noted by the Appellant there were a lot of letters written by each side and there were also meetings. The theme remained the same. The Appellant consistently maintained the position that he would not allow the CRA full access to his books and records. In effect he left the CRA with no alternative but to prepare an assessment based on the limited information that was provided by the Appellant. During cross examination the CRA auditor stated as follows:
+A. Well, we've asked your client over and over again if he'd like to provide the records ‑‑
+Q. Yes.
+A. ‑‑ so that we could perform our audit and actually get to a more complete, if we're going to call it that, assessment, and we're refused at every turn. So we used our next best alternative.
+[65] It is clear that certain financial information was not provided by the Appellant until after this appeal had commenced.
+[66] The Appellant argued that he did propose that he would allow a third party to review his records. However it is the role of the CRA to audit the documents to determine if there has been compliance with the Excise Tax Act. The authorization to conduct an audit under section 288 of the Excise Tax Act is given to an “authorized person” as defined in section 287 of the Excise Tax Act. An “authorized person” is a person who is authorized by the Minister. It is clear that the Appellant was not prepared to allow any person who was an “authorized person” as defined in section 287 of the Excise Tax Act to audit his books and records.
+[67] The Appellant also argued that he had offered to provide the financial information to the CRA prior to the litigation. However the offer was not unconditional. The Appellant’s proposal was that information would be provided but he would delete or redact “certain identifying information for clients and employees to preserve confidentiality and anonymity”[5].
+[68] The Appellant stated in his letter dated February 11, 1992 to Revenue Canada that:
+The clientele served by Native Leasing Services is predominately composed of native groups providing services to the Native Community, and mandated by Indian Governments of various descriptions. As such, these organizations are viewed by the Native Community as extensions of these Native Governments and, therefore, exempt from GST.
+[69] James Fyshe, who was the lawyer acting for the Appellant, stated in a letter to Revenue Canada dated February 22, 1993 that:
+As you know, Mr. Obonsawin supplies employees pursuant to placement agreements to various native agencies on and off reserve.
+[70] The proposal to provide information without the identifying information for clients and employees was not accepted by the CRA. Without the identifying information how could the CRA verify the accuracy of the Appellant’s claims that his clients were “extensions of Native Governments” or located on reserves? It seems to me that the Appellant had an obligation to collect the tax and an obligation to allow the CRA to audit his books and records. Providing information without revealing the identity of his clients is not providing CRA with the information that it needs to conduct an audit when the Appellant is claiming that he is not obligated to collect GST because of the identity or location of his clients.
+[71] The Appellant also argued that the Crown has a fiduciary duty to the Appellant. In Wewaykum Indian Band v. The Queen, [2002] S.C.J. No. 79, [2002] 4 S.C.R. 245, Justice Binnie writing on behalf of the Supreme Court of Canada stated that:
+80 This sui generis relationship had its positive aspects in protecting the interests of aboriginal peoples historically (recall, e.g., the reference in Royal Proclamation, 1763, R.S.C. 1985, App. II, No. 1, to the "great Frauds and Abuses [that] have been committed in purchasing Lands of the Indians" ), but the degree of economic, social and proprietary control and discretion asserted by the Crown also left aboriginal populations vulnerable to the risks of government misconduct or ineptitude. The importance of such discretionary control as a basic ingredient in a fiduciary relationship was underscored in Professor E. J. Weinrib's statement, quoted in Guerin, supra, at p. 384, that: "the hallmark of a fiduciary relation is that the relative legal positions are such that one party is at the mercy of the other's discretion." See also: Lac Minerals Ltd. v. International Corona Resources Ltd., [1989] 2 S.C.R. 574, per Sopinka J., at pp. 599-600; Hodgkinson v. Simms, [1994] 3 S.C.R. 377, per La Forest J., at p. 406; Frame v. Smith, [1987] 2 S.C.R. 99, per Wilson J., dissenting, at pp. 135-36. Somewhat associated with the ethical standards required of a fiduciary in the context of the Crown and Aboriginal peoples is the need to uphold the "honour of the Crown": R. v. Taylor (1981), 34 O.R. (2d) 360 (C.A.), per MacKinnon A.C.J.O., at p. 367, leave to appeal refused, [1981] 2 S.C.R. xi; Van der Peet, supra, per Lamer C.J., at para. 24; Marshall, supra, at paras. 49-51.
+81 But there are limits. The appellants seemed at times to invoke the "fiduciary duty" as a source of plenary Crown liability covering all aspects of the Crown-Indian band relationship. This overshoots the mark. The fiduciary duty imposed on the Crown does not exist at large but in relation to specific Indian interests. In this case we are dealing with land, which has generally played a central role in aboriginal economies and cultures. Land was also the subject matter of Ross River ("the lands [page287] occupied by the Band"), Blueberry River and Guerin (disposition of existing reserves). Fiduciary protection accorded to Crown dealings with aboriginal interests in land (including reserve creation) has not to date been recognized by this Court in relation to Indian interests other than land outside the framework of s. 35(1) of the Constitution Act, 1982.
+…
+83 I offer no comment about the correctness of the disposition of these particular cases on the facts, none of which are before us for decision, but I think it desirable for the Court to affirm the principle, already mentioned, that not all obligations existing between the parties to a fiduciary relationship are themselves fiduciary in nature (Lac Minerals, supra, at p. 597), and that this principle applies to the relationship between the Crown and aboriginal peoples. It is necessary, then, to focus on the particular obligation or interest that is the subject matter of the particular dispute and whether or not the Crown had assumed discretionary control in relation thereto sufficient to ground a fiduciary obligation.
+…
+85 I do not suggest that the existence of a public law duty necessarily excludes the creation of a fiduciary relationship. The latter, however, depends on identification of a cognizable Indian interest, and the Crown's undertaking of discretionary control in relation thereto in a way that invokes responsibility "in the nature of a private law duty", as discussed below.
+[72] In Nowegijick v. The Queen, [1983] C.T.C. 20, [1983] 1 S.C.R. 29, 144 D.L.R. (3d) 193, 83 D.T.C. 5041, Justice Dickson (as he then was) stated that:
+24 Indians are citizens and, in affairs of life not governed by treaties or the Indian Act, they are subject to all of the responsibilities, including payment of taxes, of other Canadian citizens.
+[73] Since, as noted above, in my opinion the provisions of the Indian Act do not apply to the application of GST to the services provided by the Appellant, the Appellant would have the same responsibility to comply with the audit requests of the CRA as would any other person carrying on business in Canada. It does not seem to me that the Crown had any fiduciary duty to the Appellant in relation to the obligation imposed on the Appellant to collect and remit GST in relation to the services that he was providing and to comply with the audit requests of the CRA. In order for the duties imposed by the Excise Tax Act to create a fiduciary relationship, there must be “a cognizable Indian interest, and the Crown’s undertaking of discretionary control in relation thereto in a way that invokes responsibility ‘in the nature of a private law duty’”. Since, as noted above, the provisions of the Indian Act do not apply to the application of GST to the services provided by the Appellant, there is no cognizable Indian interest of the Appellant, let alone any undertaking by the Crown as described by Justice Binnie. The fiduciary duty does not exist simply because the Appellant is an Indian, since as noted by Justice Binnie “[t]he fiduciary duty imposed on the Crown does not exist at large but in relation to specific Indian interests”.
+[74] The Appellant had also argued that the fiduciary duty jurisprudence should be used as an aid in determining whether the assessments should be vacated. Since, in my opinion, no fiduciary duty arises in this case, the jurisprudence does not assist the Appellant.
+[75] The Appellant, having failed to comply with the requests by the CRA to allow the CRA to conduct an audit, cannot now complain that a more accurate amount may have been determined if an audit would have been done. The Appellant could have raised the issue of the amount that the Appellant believed was his net tax for the periods under appeal (as an alternative argument) in his Notice of Appeal and led evidence at the hearing to challenge the accuracy of the amounts assessed but he chose to not do so.
+[76] The only evidence related to the accuracy of the amounts assessed for GST was provided by the auditor for the CRA. As part of his direct examination the following exchange took place:
+Q. Thank you, Mr. Brown. And in preparation for this litigation, were you made aware of source documentation that were provided to the Crown, to the respondent, by Mr. Obonsawin?
+A. Yes, I was.
+Q. What was those documents? What were those documents?
+A. It's my understanding that we became in contact or aware or provided with financial statements for those missing years, that a copy of a general ledger for certain years was obtained, and certain other sales or source‑type documents, contracts, were obtained.
+Q. And did you review the key information?
+A. Yes, I did. I did a quick synopsis on some; a more detailed type calculation on others.
+Q. And what did you conclude by reviewing the information?
+A. Well, I looked at the financial statements for 1994, '95, '96 and '97 and did a calculation, as assessment number 1 had been done, to see how close I was in using this methodology, and I will say that assessment number 1 is actually under‑valued compared to using the financial statement amounts.
+So I feel reasonably comfortable and confident that our method was correct.
+[77] Although the penalty is not specifically identified in the Reply as a penalty imposed pursuant to section 280 of the Excise Tax Act as it read during the periods under appeal, it appears that this is the penalty that was imposed. The Appellant did not raise any argument specifically related to the assessment of the penalty and in particular the Appellant did not raise any argument based on a due diligence defence to the assessment of the penalty[6]. In any event, as noted above, the Appellant made a conscious decision to not collect the GST in relation to the services provided to his clients when he was carrying on business as NLS and he was clearly aware of the provisions of the Excise Tax Act as evidenced by the letters that the Appellant wrote when the GST was introduced and by the fact that OI Employee Leasing Inc. did collect and remit GST on the services it was providing (which were the same services as the Appellant was providing through NLS, although to different clients). The conscious decision to not collect the GST would preclude the Appellant from relying on a due diligence defence in this case.
+[78] As a result the appeals are dismissed with costs.
+Signed at Ottawa, Canada, this 27th day of April, 2010.
+“Wyman W. Webb”
+Webb, J.
+CITATION: 2010TCC222
+COURT FILE NO.: 2000-4164(GST)G
+STYLE OF CAUSE: ROGER OBONSAWIN AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: September 29, 30, October 1, 2 and 5, 2009 and March 2, 2010
+REASONS FOR JUDGMENT BY: The Honourable Justice Wyman W. Webb
+DATE OF JUDGMENT: April 27, 2010
+APPEARANCES:
+Counsel for the Appellant:
+Eric Lay
+Counsel for the Respondent:
+Gordon Bourgard
+Frédéric Morand
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Eric Lay
+Firm: Eric Lay Law
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] The Appellant stated that he went to his employees to determine if they wanted to pay the GST. It seems to me that the Appellant meant to refer to his clients or placement organizations. The employees would not, in any event, be paying GST to NLS in relation to the provision of their employment services. The employees are not the recipient of the supply of employment services but are the provider of these services. As well the services provided by an employee in the course of his or her employment are excluded from the definition of “service” in section 123 of the Excise Tax Act and therefore the provision of such employment services is not subject to GST (or HST).
+[2] The Canada Revenue Agency has administratively extended the exemption provided under section 87 of the Indian Act to certain services. See B-039 — GST/HST Administrative Policy — Application of the GST/HST to Indians.
+[3] Since paragraph 87(1)(a) of the Indian Act refers to lands and paragraph 87(1)(b) of the Indian Act refers to personal property, it would appear that the references to paragraph 87(1)(a) of the Indian Act should be to paragraph 87(1)(b) of that Act.
+[4] The customers of the store included both Indians and non-Indians. The amount payable in relation to the gasoline tax reflected an estimate of the amount of gasoline that would be purchased by non-Indians. No amount was payable in relation to the estimated purchases of gasoline that would be made by Indians on the reserve. For the tobacco, the amount collected up front was determined as if all sales of tobacco were taxable and the Band would apply for a refund based on its sales of cigarettes to Indians on the reserve.
+[5] Paragraph 127 of the Written Submissions of the Appellant.
+[6] Justice Bowman (as he then was) found that the penalties imposed by section 280 of the Excise Tax Act (which have since been deleted from that Act) “are susceptible of being challenged where the taxpayer demonstrates due diligence” in Pillar Oilfield Projects Ltd. v. The Queen, [1993] G.S.T.C. 49.

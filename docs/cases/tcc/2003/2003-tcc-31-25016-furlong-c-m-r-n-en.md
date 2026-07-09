@@ -1,0 +1,176 @@
+---
+title: "Furlong c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/25016/index.do"
+last_modified: "2003-02-21"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 TCC 31"
+citation2: ""
+neutral_citation: "2003 TCC 31"
+decision_date: "2003-02-21"
+language: "en"
+item_id: "25016"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2523
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T18:31:53.129000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "d797870b2108bc99615c9ef45aadebc6d1efa910134645cbcb8eb03fc8559711"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Furlong c. M.R.N.
+
+- Citation: 2003 TCC 31
+- Decision date: 2003-02-21
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2523, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Furlong c. M.R.N.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-02-21
+Neutral citation
+2003 TCC 31
+File numbers
+2002-2909(EI)
+Judges and Taxing Officers
+Alain Tardif
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2002-2909(EI)
+BETWEEN:
+RAYMOND FURLONG,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+_______________________________________________________________
+Appeal heard on January 24, 2003, at Sherbrooke, Quebec
+Before: The Honourable Judge Alain Tardif
+Appearances:
+Agent for the Appellant:
+Bryan Furlong
+Counsel for the Respondent:
+Claude Lamoureux
+_______________________________________________________________
+JUDGMENT
+The appeal is dismissed and the Minister's decision is confirmed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 21st day of February 2003.
+"Alain Tardif"
+J.T.C.C.
+Translation certified true
+on this 14th day of April 2004.
+Sophie Debbané, Revisor
+Citation: 2003CCI31
+Date: 20030221
+Docket: 2002-2909(EI)
+BETWEEN:
+RAYMOND FURLONG,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Tardif, J.T.C.C.
+[1] This is an appeal from a decision dated April 24, 2002. By that decision, the respondent decided that the work performed by the appellant during the period from May 27 to October 13, 2001, was not insurable. The decision was based on the provisions of paragraph 5(2)(i) of the Employment Insurance Act (the "Act") and on paragraph 251(2)(a) and subparagraph 251(2)(b)(ii) of the Income Tax Act.
+[2] In support of the decision, the respondent assumed a number of facts that he set out in paragraph 5 of the Reply to the Notice of Appeal.
+[3] First, the appellant admitted the truth of the following facts:
+[TRANSLATION]
+(a) the payer was incorporated on April 18, 1990;
+(b) the sole shareholder of the payer was Nicole Boudreau Furlong;
+(c) the payer carried on no commercial activity before the year 2000;
+(d) on August 1, 2002, the payer accepted the appellant's and Bryan Furlong's bids for shares;
+(e) during the period at issue, the shareholders with voting shares of the payer, according to the share ledger, were
+Nicole Boudreau Furlong
+The appellant
+Bryan Furlong
+1 share
+1 share
+1 share
+(f) the appellant is the spouse of Nicole Boudreau Furlong and the father of Bryan Furlong;
+(g) on September 12, 2000, the payer registered the firm name of "Récif";
+(h) since 1990, Nicole Boudreau Furlong had personally operated a restaurant in Percé under the firm name of "Resto Café le Récif";
+(i) on January 23, 1996, the appellant and Nicole Boudreau Furlong had signed a lease, with an option to renew to March 31, 2016, on the building in which the restaurant is located;
+(j) on May 15, 2001, the appellant and Nicole Boudreau Furlong sublet and transferred the lease to the payer;
+(k) in their notice of sublease, the appellant and Nicole Boudreau stated to the tenant that they continued to be jointly and severally liable for the lease obligations;
+(l) on May 16, 2001, Nicole Boudreau Furlong transferred the furnishings and equipment of her restaurant to the payer for an amount of $9,000 in return for the payer's debt to her without repayment terms or payment of interest;
+(m) on July 13, 2000, the appellant and Nicole Boudreau Furlong had borrowed and mortgaged their residence for $20,000 for the operations of the restaurant;
+(n) on December 20, 2001, the appellant and Nicole Boudreau Furlong had mortgaged their residence for $40,000 for the operations of the restaurant;
+(o) the restaurant was opened from June 11 to October 13, 2001;
+(p) the restaurant was open 7 days a week, from 11:00 a.m. to 11:00 p.m.;
+(q) during the period at issue, the payer had 14 employees;
+(r) the appellant was the manager of the restaurant;
+(s) the appellant's duties consisted of managing the business, hiring employees, greeting patrons and handling the bookkeeping;
+(t) the appellant's hours of work were from 3:00 p.m. to 11:00 p.m.;
+(u) the appellant received a salary of $12 an hour and sometimes $8 an hour;
+(v) on October 18, 2001, the payer gave the appellant a Record of Employment for the period beginning on May 27, 2001, and ending on October 13, 2001, which indicated 1032 insurable hours and total insurable earnings of $9,384.96;
+(w) on February 25, 2002, in a statement to a representative of the respondent, the appellant said he had worked before May 27, 2001, doing finishing work for 5 or 6 hours a day, five days a week, for a month, without receiving wages from the payer;
+...
+(y) the appellant regularly made bank deposits and went to get fish outside his normal hours of work and without compensation or reimbursement of expenses;
+(z) the appellant rendered services to the payer without declared earnings before and during the period referred to on the Record of Employment;
+[4] The appellant however denied the truth of the following facts:
+(x) the appellant's Record of Employment is not consistent with reality with respect to the period worked by the appellant;
+(aa) the payer's payroll does not reflect reality with respect to the hours actually worked by the appellant;
+(bb) the weeks allegedly worked by the appellant do not match the weeks actually worked.
+[5] The appellant's testimony substantially repeated what transpired from the assumptions of fact supporting the decision. He stressed the fact that the Percé region is a very distinctive area in that the season is very short and its economic viability depends primarily on tourism and fishing.
+[6] He said that in Percé it is common for the employees in a business to perform a number of jobs for their employer without pay. For the appellant, such collaboration was essential to the survival of the business and the majority of the businesses.
+[7] The cross-examination brought out some inconsistencies, namely regarding the terms of compensation. Initially, the appellant had stated that he had been paid weekly, either in cash or by cheque.
+[8] The pay cheques deposited showed unmistakably that the appellant had been paid at the end of the period by a bundle of cheques, the majority of which bore numbers in sequence: all of this is furthermore confirmed by the date of their endorsement. For example, the cheques bearing numbers 219, 220, 221, 222, 223,224, 225, 226,227, 228, 229, 230, 231, 232 and 233 were endorsed on October 12, while the cheques numbered 55, 56 and 57 were cashed on July 30; the last two, numbered 243 and 244, were cashed on November 14.
+[9] This documentary evidence refutes the appellant's claims and quite clearly shows that the appellant was paid in a specific manner, certainly different from the manner in which the other employees were compensated. It is certainly not customary, even in the Gaspé region, for employees to be paid much later, even at the end of the period when the work was performed.
+[10] The accounting for the hours compensated was not very clear. Despite his duties as the person in charge of operations, the appellant received a salary lower than the salary of employees holding positions far less strategic for the business.
+[11] The Gaspé region is indeed a particular region, afflicted with a very difficult economic situation. Its economy is closely tied to fishing and tourism; these two activities have a limited duration in time, namely, from May to the end of September every year. Weather conditions can also have a significant impact on the bottom line.
+[12] This is a state of affairs known to all, and especially well known to the stakeholders involved. The governments moreover take this into account in various pieces of legislation. In fact, some Acts and regulations frequently take regional characteristics into account and provide for particular and generally more flexible measures that reflect the needs and concerns specific to certain regions of the country.
+[13] Like other areas of the country, the Gaspé region enjoys certain specific aspects in light of its particular needs.
+[14] In the case at bar, the appellant's basic argument has no foundation in law. Even if the concepts of solidarity, mutual assistance and unpaid services are strongly entrenched and more widespread in the Gaspé region than in the large urban centres, that does not mean that certain provisions of the Act must be excluded or disregarded in analysing a case.
+[15] Employment Insurance is a financial support program the objective of which is to assist specifically those who lose their jobs; it is not an economic support measure for businesses to relieve them of part of their payroll burden. Perhaps this should be otherwise, in which case Parliament will have to make provision for it.
+[16] In the case at bar, the facts adduced showed that the appellant had performed work that was unpaid but was required for the commercial operations of the business in which he held a third of the capital stock; this work should have been remunerated by the company who hired him as it would have been had a third person performed the same work.
+[17] The terms and conditions of the appellant's remuneration were quite distinctive in that he was obviously paid at the very end of the season. Although he was described as an essential employee, his remuneration was in no way consistent with the importance of his duties.
+[18] The decision that is the subject of this appeal arises from the application of paragraph 5(2)(i) of the Employment Insurance Act in view of the non-arm's length relationship, provided for in paragraph 251(2)(a) and subparagraph 251(2)(b)(ii) of the Income Tax Act.
+[19] The legal basis for the decision does not seem to have been understood by the appellant. This is shown by the submissions made at the hearing but also stated in his Notice of Appeal, as follows:
+[TRANSLATION]
+...
+To state that there is a non-arm's length relationship between the company and the applicant is incorrect. All the arguments raised to prove this non-arm's length relationship do not take account of the particular social and economic realities of a region like the Gaspé. We take the position that all of the working conditions of the applicant and the other members of the company can be explained by this distinctive situation. The applicant's working conditions would be the same notwithstanding the so-called non-arm's length relationship claimed by the Minister of National Revenue. The applicant's Employer operates a food service business in Percé, in the Gaspé. This region, one of the poorest in Quebec, is heavily dependent on the tourist industry. This is a factor that should have been taken into consideration in the analysis of the facts. The decision in JENCAN, [1998] 1 F.C. 187, states moreover that all relevant facts must be taken into account in a judgment. This interpretation extends, in our opinion, to the social and economic realities of a region.
+... He is surprised that the Fulongs [sic] performed a number of tasks without being remunerated. The reality is different in the Gaspé, and this way of doing things is unfortunately the standard for a number of wage earners. It is obvious that the officer and the Minister have no knowledge of the environment in which the employees in the tourism industry work. It is not uncommon to see employees donate their time without pay in order to get ready for the tourist season. This situation is also a reality at the end of the season.
+...
+[20] Paragraph 5(2)(i) of the Act gives the respondent a real discretion by which he must gather and analyse all relevant facts on the basis of the criteria provided for in that subsection, namely, the remuneration, the terms and conditions of employment and the nature and importance of the work performed.
+[21] When the agents of the respondent in charge of a case exercise this discretion properly, the effect is to oust the jurisdiction of this Court, which cannot then substitute itself for the respondent, reanalyse the relevant facts and thus vary a decision that resulted from serious and reasonable work.
+[22] There are many decisions of the Federal Court of Appeal affirming and reaffirming that the Tax Court of Canada could not vacate or vary a decision resulting from the application of paragraph 5(2)(i) of the Act, unless it is shown, on a preponderance of the evidence, the burden of which lies with the appellant, that:
+· By his agents, the respondent had clearly abused his discretion;
+· The respondent had acted illegally, arbitrarily or unreasonably; or
+· The respondent had given too much importance to some facts or had simply failed to take highly relevant facts into account.
+[23] The Court must first determine whether the respondent used his discretion properly. In the affirmative, the Court must confirm the soundness of the decision appealed from.
+[24] Conversely, if a preponderance of the evidence shows that the respondent did not act properly, the Court must then analyse all of the evidence from the angle of a trial de novo.
+[25] Louise Savard testified and explained the work she had performed before making the finding that she did. Her investigation and analysis were carefully done and very thorough. She took into account all of the relevant facts and made a reasonable assessment of them.
+[26] She placed importance on the fact, inter alia, that the appellant had been paid at the very end of the period, that his salary was questionable and that the duration of the employment in no way matched the pay period. The analysis was done according to the criteria laid down by Parliament and the findings made are by no means unreasonable.
+[27] As for the appellant, he essentially criticised the respondent for not taking into account the distinctive character of the Gaspé region. He maintained that the various inconsistencies were due to the accountant who did not testify on the pretext that this would have resulted in exorbitant expenses. The basis of the appellant's main argument, namely, that Ms. Savard should have taken into account the particularities of the Gaspé region has no basis in law.
+[28] The burden of proof lay with the appellant; there is no doubt that he did not discharge the burden; therefore, I have no authority to vary the decision and I must confirm that the decision is correct. The appeal must, accordingly, be dismissed.
+Signed at Ottawa, Canada, this 21st day of February 2003.
+"Alain Tardif"
+J.T.C.C.
+Translation certified true
+on this 14th day of April 2004.
+Sophie Debbané, Revisor

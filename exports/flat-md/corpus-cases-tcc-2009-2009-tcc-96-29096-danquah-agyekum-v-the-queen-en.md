@@ -1,0 +1,137 @@
+---
+title: "Danquah-Agyekum v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29096/index.do"
+last_modified: "2009-02-12"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 TCC 96"
+citation2: ""
+neutral_citation: "2009 TCC 96"
+decision_date: "2009-02-12"
+language: "en"
+item_id: "29096"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6659
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T01:34:33.799000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "04b2e2ff6a15b6d8871c5816ad35bcc0bb221150f27a4e6891e6f9f1121e3a03"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Danquah-Agyekum v. The Queen
+
+- Citation: 2009 TCC 96
+- Decision date: 2009-02-12
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6659, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Danquah-Agyekum v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2009-02-12
+Neutral citation
+2009 TCC 96
+File numbers
+2008-1851(IT)I
+Judges and Taxing Officers
+Patrick J. Boyle
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2008-1851(IT)I
+BETWEEN:
+SHIRLEY DANQUAH-AGYEKUM,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on February 3, 2009, at Toronto, Ontario.
+Before: The Honourable Justice Patrick Boyle
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Ian Theil
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessments made under the Income Tax Act with respect to the 2003 and 2004 taxation years is allowed in part and the matter is referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the reasons herein.
+It is further ordered that the filing fee in the amount of $100 be reimbursed to the Appellant.
+Signed at Ottawa, Canada, this 12th day of February 2009.
+"Patrick Boyle"
+Boyle J.
+Citation: 2009 TCC 96
+Date: 20090212
+Docket: 2008-1851(IT)I
+BETWEEN:
+SHIRLEY DANQUAH-AGYEKUM,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+(Delivered orally from the Bench on February 3, 2009, in Toronto, Ontario
+and modified for clarity and accuracy.)
+Boyle J.
+[1] Ms. Danquah-Agyekum is employed as a provincial probation officer. In addition, in the years in question, she owned a beauty supply business, Shaddai Beauty Supplies, which was largely run by her husband.
+[2] This appeal involves reassessments of her losses reported from that business in 2003 and 2004. The adjustments she is appealing are those relating to meals and entertainment expenses, the portion of business use of the vehicle, the cost of goods sold, and unreported sales.
+[3] The unreported sales issue is the significant one on which the parties have spent most of their time today.
+[4] In simple terms, it turns almost entirely on whether the Canada Revenue Agency ("CRA") is correct that she used cash from the cash sales of the business to pay for those business expenses paid for in cash or whether those cash purchases were paid with cash she borrowed from her brother’s Ghanaian cash remittance activities.
+[5] The taxpayer acknowledged that she does not have receipts for the meals and entertainment expenses in issue, and that she is therefore not pursuing that part of her claim. Her appeal will be dismissed as it relates to those expenses.
+[6] The taxpayer had also claimed business use of one of the two vehicles owned by her and her husband, at an estimated 50%. CRA adjusted that downwards to 25%. The taxpayer did not have sufficient credible evidence or any corroborating evidence of her estimate of 50% business use. She testified that her husband picked up supplies with the car at the beginning of each business day, and again at the close of business each day. I do not have any idea how much driving that involved. I also have to say that seems like an awful lot of activity for a business she said only had sales of around $100 a day. The appeal will be dismissed as it relates to the extent of business use of the automobile.
+[7] The taxpayer’s cost of goods sold was adjusted to reflect an overstatement in 2003 and an understatement in 2004, the net effect of which was a net overstatement of about $1,000 for the two-year period. I did not hear any evidence from the taxpayer on this point. The appeal will also be dismissed as it relates to these adjustments.
+[8] This leaves the issue of the reassessed, unreported cash sales. The CRA auditors assumed that those expenses of the business that were paid in cash were paid with cash generated by the business. They then added that to the sales of the business by credit card or cheque to determine its total sales revenue.
+[9] The taxpayer explained that in fact she largely used her brother’s money to pay cash expenses of the business and that he recorded that as a loan to her, which she has not repaid.
+[10] Her brother resides in Ghana and operates an export-import business. He travels to Canada on business and has need for Canadian currency when he is here. According to the taxpayer, she and her brother operate an overseas remittance operation for Canadians wanting to send money back to their families in Ghana.
+[11] The taxpayer introduced detailed evidence listing the names, amounts and dates of advances and deposits made with her in Canada. She testified that, as Canadian dollars were received, she would telephone her brother with confirmation and instructions on whom to advance Ghana currency, in cedis, to. She said her brother would advance the money in Ghana right away, but he would only collect the Canadian dollar deposits from her when he came to Canada, as that is when he needed the Canadian dollars to spend.
+[12] In the years in question, she said that instead she used the money to support her failing business so that when her brother came for it, she was indebted to him. She produced a loan acknowledgment document.
+[13] At the Appeals stage, the taxpayer sought to obtain written confirmation from each of the Canadians who advanced her money to be remitted to Ghana. She obtained a number of such testimonial confirmations, although a larger number of her mailed requests were returned to sender by the post office.
+[14] To the extent CRA could get telephone confirmation directly from those who signed testimonials, the adjustments were revised in the taxpayer’s favour on appeal. CRA Appeals appears to have been able to get telephone confirmation from all but two; one person had since died and the other had traded calls unsuccessfully with the appeals officer. There was no evidence that any false or misleading testimonials were given by the taxpayer to CRA Appeals, and so I will allow her appeal as it relates to those two advances, being the advance of $1,750 at page 141 of the joint exhibit book and the advance of $500 at page 145.
+[15] In preparation for this appeal, the taxpayer also obtained three further testimonial confirmations for $1,400 at page 258, $1,650 at page 259 and $1,000 at page 260. Consistent with how CRA Appeals was satisfied with amounts evidenced by confirmed testimonials, I am prepared to allow the appeal in respect of these three further amounts as well.
+[16] However, I must say I share to some extent the Crown’s doubts about the validity and genuineness of some of the evidence regarding the Ghanaian remittance activities. While it is a very plausible explanation for a non-business source of cash, based upon all of the evidence before me, I cannot say that, except as regards the five amounts I have just mentioned, I am satisfied on a balance of probabilities that such advances were made and were the source of the taxpayer’s cash used to pay business expenses. The remainder of her appeal regarding the unreported income adjustments will therefore be dismissed.
+[17] The remaining issue is that of the penalties assessed on the unreported income amounts. The Crown bears the onus on that issue. While the evidence of the taxpayer did not allow me to conclude the Ghanaian remittances were more likely than not advanced to her and used by her, I am also unable to conclude that they probably did not happen.
+[18] The evidence of the Ghanaian remittance activities is sufficiently credible to leave me concluding that the Crown has not been able to show that the cash used to pay cash expenses was more likely than not generated by the business’s own sales. Indeed, the Crown led very little evidence on the point.
+[19] The penalties can therefore not be upheld, except to the extent that the unreported sales adjustments exceeded the totals put forward by the taxpayer in the exhibits in respect of the Ghanaian remittance advances. I believe this will leave a penalty in respect of approximately $5,000 of unreported income in 2003.
+Signed at Ottawa, Canada, this 12th day of February 2009.
+"Patrick Boyle"
+Boyle J.
+CITATION: 2009 TCC 96
+COURT FILE NO.: 2008-1851(IT)I
+STYLE OF CAUSE: SHIRLEY DANQUAH-AGYEKUM v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: February 3, 2009
+REASONS FOR JUDGMENT BY: The Honourable Justice Patrick Boyle
+DATE OF JUDGMENT: February 12, 2009
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Ian Theil
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

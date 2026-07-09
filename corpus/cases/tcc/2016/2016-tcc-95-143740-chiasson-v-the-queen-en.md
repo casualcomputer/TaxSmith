@@ -1,0 +1,347 @@
+---
+title: "Chiasson v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/143740/index.do"
+last_modified: "2016-04-21"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2016 TCC 95"
+citation2: ""
+neutral_citation: "2016 TCC 95"
+decision_date: "2016-04-21"
+language: "en"
+item_id: "143740"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3128
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T10:53:01.232000+00:00"
+cases_cited_count: 0
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "f07a71a4062a48375dbda68c1da46b564a37ec8df1439cf39244730ccb172d66"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Chiasson v. The Queen
+
+- Citation: 2016 TCC 95
+- Decision date: 2016-04-21
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3128, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Chiasson v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2016-04-21
+Neutral citation
+2016 TCC 95
+File numbers
+2014-3217(IT)I
+Judges and Taxing Officers
+Réal Favreau
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2014-3217(IT)I
+BETWEEN:
+ANA MARIA CHIASSON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on October 6, 2015, at Montreal, Quebec.
+Before: The Honourable Justice Réal Favreau
+Appearances:
+Counsel for the Appellant:
+Mario Zuliani
+Counsel for the Respondent:
+Joanna Hill
+JUDGMENT
+The appeal from the reassessment dated March 16, 2006 made under the Income Tax Act in respect of the 2002 taxation year is dismissed in accordance with the attached reasons for judgment.
+Signed at Ottawa, Canada, this 21st day of April 2016.
+“Réal Favreau”
+Favreau J.
+Citation: 2016 TCC 95
+Date: 20160421
+Docket: 2014-3217(IT)I
+BETWEEN:
+ANA MARIA CHIASSON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Favreau J.
+[1] This is an appeal from a reassessment made by the Minister of National Revenue (the “Minister”) under the Income Tax Act, R.S.C. 1985 (5th supp.), c. 1, as amended (the “Act ”), dated March 16, 2006 concerning the appellant’s 2002 taxation year.
+[2] By way of the reassessment dated March 16, 2006, the Minister included $117,000 in the appellant’s income with respect to the use of funds from her Registered Retirement Savings Plan (“RRSP”) to purchase shares in Landmark Capital Partners Ltd. (“Landmark”), an investment which was not a qualified investment under the Act.
+[3] In determining the appellant’s tax liability for the 2002 taxation year, the Minister made the following assumptions of fact:
+The share purchase
+a) On Augut 28, 2001, the appellant entered into an agreement with Landmark Capital Partners Ltd. (“Landmark”) to purchase 150,000 Class B non-voting common shares at $1 per share for a total purchase price of $150,000;
+b) The appellant subsequently opened a self-directed RRSP account with Yorkton Securities, at a branch located in Kelowna, British Columbia, and on November 27, 2001, she transferred $117,139 of her existing RRSP funds to her Yorkton Securities RRSP account;
+c) On January 3, 2002, the appellant directed Yorkton Securities to purchase 117,000 Landmark shares at $1 per share for a total purchase price of $117,000 for her RRSP account;
+d) On January 4, 2002, Landmark issued 117,000 Class B non-voting shares to the appellant’s RRSP;
+Landmark
+e) Landmark was incorporated in Alberta on March 1, 2001;
+f) On March 1, 2001, Landmark issued 1000 Class A voting shares for $1 per share – 500 to Robert Keenan and 500 to William Adams, the sole directors and officers of Landmark;
+g) Between March 7, 2001 and September 4, 2002, Landmark issued 5,211,547 Class B non-voting common shares for $1 per share;
+h) Over 90% of the Class B shares were issued to RRSP and registered retirement income funds;
+i) Landmark purportedly used 80% of the net proceeds from the sale of the Class B shares to purchase 51% of the voting shares of Landmark Capital Inc., a company incorporated in Barbados (“Landmark Barbados”);
+j) Landmark purportedly purchased the shares from Swiss Imperial Trust Co. a company incorporated in Switzerland and owned by Nelson Bayford;
+k) As of December 31, 2001, Landmark recorded an investment in Landmark Barbados at a cost of $3,641,515;
+l) Between March and December 2001, Landmark transferred $3,641,999.99 as follows:
+i) $2 million to Brodie Morrice, Barrister & Solicitor;
+ii) $191,999.99 to Omnicorp;
+iii) $475,000 to Yorkton Securities;
+iv) $300,000 to Charismatic Industries Inc., a company also owned by Robert Keenan and William Adams;
+v) $300,000 to Gary Moore, Lawyer, in trust;
+vi) $375,000 to Landmark Barbados;
+m) The purported investment in Landmark Barbados represented over 90% of Landmark’s assets as of December 31, 2001 and as of January 15, 2002;
+n) In August and September 2002, Landmark transferred $485,023 to Gary Moore, Lawyer, in trust, purportedly to purchase additional Landmark Barbados shares;
+o) Landmark purportedly redeemed its shares in Landmark Barbados for $130,856 in September 2002;
+p) As of December 31, 2002, Landmark wrote down $3,395,680 of the Landmark Barbados investment;
+q) As of December 31, 2002, Landmark reported holding $963,866 in long term investments;
+r) Landmark had no employees in 2001 or 2002;
+s) Landmark’s only activities in 2001 were the purported purchase of Landmark Barbados shares and the purchase of $200,000 in marketable securities through Yorkton Securities;
+t) Landmark’s only activities in 2002 were the purported purchase and disposition of the Landmark Barbados shares, and the purchase of other long term investments;
+Landmark Barbados
+u) Landmark Barbados was incorporated in Barbados on July 6, 2001;
+v) Robert Keenan and William Adams are the directors of Landmark Barbados;
+w) Landmark Barbados received an International Business Licence from the Government of Barbados on August 21, 2001;
+x) Swiss Imperial Trust Co. purportedly held 100% of Landmark Barbados’ voting shares, purportedly acquired for the greater of US $250,000 or the minimum capital required under Barbados law;
+y) Landmark purportedly agreed to purchase 51% of the Landmark Barbados shares from Swiss Imperial Trust Co. for an amount equal to 80% of the net proceeds received from the sale of the Class B Landmark shares;
+z) Landmark Barbados did not carry on business in Canada or elsewhere;
+aa) Landmark Barbados had no employees;
+bb) Landmark Barbados’ International Business Licence expired at the end of 2002;
+The Global Prosperity RRSP Scheme
+cc) Landmark was a company used in an arrangement designed to allow for the tax-free withdrawal of RRSP funds (‘RRSP scheme”);
+dd) The RRSP scheme was an arrangement promoted by the Institute of Global Prosperity (“Global Prosperity’) and associated organizations, such as the Omnicorp Financial Group of Companies owned either wholly or in part by Nelson Bayford;
+ee) Under the RRSP scheme:
+i) a taxpayer entered into an agreement with the promoter to purchase shares in a company associated with the scheme;
+ii) the agreed purchase price was an amount in excess of the fair market value of the shares;
+iii) the taxpayer opened a self-directed RRSP with a company associated with the scheme;
+iv) the taxpayer converted part or all of an existing RRSP to cash within the self-directed plan;
+v) the taxpayer directed the RRSP trust to acquire the shares;
+vi) the excess funds were partly used to pay the promoters and other fees and the balance was placed in offshore investments;
+vii) the taxpayer could access the funds from the offshore investments using offshore debit or credit cards, or some other hard-to-trace facility;
+ff) The RRSP scheme included the use of Landmark share purchases to transfer funds offshore;
+gg) Between 2000 and 2002, Global Prosperity presented the RRSP scheme and other financial arrangements at a number of events;
+[4] The appellant works in the customer service department at Air Canada. After the death of her husband in 1991, she transferred the proceeds from her husband’s life insurance (approximately $100,000) to a self-directed savings plan with Financial Concept Group. Her financial advisor was Mr. Jean Piché who joined Assante Capital a few years later. Her RRSP investments were in balanced and diversified funds. On June 30, 1996, her account was worth $103,023.38 and on April 30, 2000, her total portfolio was worth $164,865.27.
+[5] Mrs. Chiasson confirmed that on August 28, 2001, she subscribed to 150,000 Class B shares of Landmark at a price of $1 per share. She said that she made that investment following the recommendation of Mr. Sam McLeod, a financial analyst with Yorkton Securities Inc. who specialized in investing in precious metal, oil and natural gas. She recognized that she did not conduct any due diligence concerning Landmark and she did not recall consulting her investment advisor concerning this risky investment in a private company. She was not aware of the activities carried on by Landmark and no information concerning Landmark was provided to her by Mr. McLeod or by Landmark’s representatives. She said that she signed the subscription agreement in the Montreal office of Yorkton Securities Inc.
+[6] Mrs. Chiasson confirmed that on October 31, 2001, she applied for membership in the Yorkton Securities Inc. Self-Directed Retirement Savings Plan (the “Plan”) and authorized a direct transfer of $150,000 from her RRSP to the Plan. The actual transfer was $117,139 and took place on November 27, 2001.
+[7] During her testimony, Mrs. Chiasson did not contest the fact that her Plan had acquired 117 000 Landmark shares at $1 per share for a total purchase price of $117,000 and that, Landmark’s records show that 117 000 Class B non-voting shares were issued to the appellant’s Plan by virtue of share certificate 050 dated January 4, 2002. However, she stated that she never received the share certificate issued by Landmark and that, at the time she made her investment, on November 1, 2001, the shares of Landmark qualified as a registered retirement savings plan investment.
+[8] Mrs. Chiasson finally stated that she was reassessed by the Canada Revenue Agency (the “CRA”) without ever being investigated or questioned regarding her particular situation. She never received any questionnaires from the CRA and she was not asked to provide any documents supporting the eligibility of her investment in Landmark.
+[9] At the beginning of the hearing, counsel for the respondent filed as Exhibit R-1, four volumes of the Respondent’s Book of Documents. Counsel for the appellant did not object to the filing of any of the documents. An analysis of this large number of documents convinced me that the appellant’s Plan had acquired the Landmark shares. The only disagreement appears to be the exact date on which the said shares were acquired.
+[10] Ms. Penelope Seeley, a tax avoidance officer with the CRA, testified at the hearing. She prepared a position paper to support the proposals and reassessments made with respect to the investment in Class B shares of Landmark, using funds from the appellant’s RRSP. Her findings were based on the CRA’s audits of Landmark and Landmark Capital Inc. (hereinafter referred to as “Landmark Barbados”).
+[11] Ms. Seeley explained that the CRA had to construct a balance sheet for Landmark as of January 15, 2002 to determine if the company was a “Small Business Corporation” for the purposes of the Act, when Mrs. Chiasson’s Plan acquired the Class B shares on January 4, 2002 and paid the purchase price of the shares. The necessary information for this process was gathered from Landmark’s account balances as of December 31, 2001, its year-end, and from its bank records from January 1 to January 15, 2002. This exercise was done for each investor who acquired Landmark’s class B shares (61 share certificates were issued to more than 50 investors for a total consideration of $5,211,547).
+[12] The balance sheet of Landmark on January 15, 2002 shows that 91% of the assets of the company ($3,641,515) was invested in shares of Landmark Barbados and 5% ($200,000) in marketable securities. On January 15, 2002, the share capital of Landmark consisted of 1,000 Class A shares and 4,216,047 Class B shares issued for a total consideration of $4,217,047. From January 1 to January 15, 2002, 117,000 Class B shares were issued for a consideration of $117,000. The 117,000 Class B shares were acquired by the appellant’s Plan.
+[13] During her testimony, Ms. Seeley referred to most of the documents contained in the respondent’s Book of Documents.
+[14] Landmark was incorporated on March 1, 2001 pursuant to the laws of the Province of Alberta as a non-distributing corporation. On the date of incorporation, Mr. Robert H. Keenan and Mr. William E. Adams were each issued 500 Class A voting common shares at $1 per share and were appointed directors of the company. On March 1, 2001 Mr. Robert H. Keenan was appointed President and Chief Executive Officer and Mr. William Adams was appointed Vice-President and Chief Financial Officer of the company. On the date of incorporation, Landmark offered Class B shares through two offering memorandums. One was for a private placement of 7,500,000 Class B non-voting shares at $1 per share with a minimum individual subscription of $100,000. This offering memorandum was included in the respondent’s Book of Documents but the other offering memorandum was not included. In the private placement offering memorandum, potential investors were informed that an investment in the company’s Class B shares should be considered as highly speculative due to the nature of the company’s business which consisted of investing in equities and acquiring interests in various joint venture projects. It was further stated that the company was at an early stage of development, had no history of earnings and had not paid any dividends. There was no market through which the Class B shares may be sold and there was no assurance that a market would develop. Nowhere in the private placement offering memorandum was it indicated that the Class B shares were a qualified investment for registered retirement savings plans.
+[15] On March 14, 2001, CRA assigned Landmark a business number, an account number for the corporation’s income tax and for the Goods and Services Tax/Harmonized Sales Tax which became effective on March 1, 2001. The description of the company’s major business activity was venture capital consulting.
+Landmark’s activities carried on in 2001 and 2002
+[16] During 2001, Landmark issued 4,266,047 Class B shares for a total consideration of $4,266,047 to less than 50 investors. Between January 4, 2002 and September 4, 2002, Landmark issued 945,500 Class B shares for a total consideration of $ 945,500 to eleven investors. Over 91% of the Class B shares of Landmark were acquired by registered retirement savings plans and registered retirement income funds.
+[17] As of December 31, 2001, the assets of Landmark were as follows:
+- cash: $42,296;
+- investment in Gowlings (the company’s law firm): $5,000;
+- investment in Landmark Barbados: $3,641,514; and
+- marketable securities: $200,000.
+[18] The funds recorded as investment in Landmark Barbados were transferred to the following entities:
+DATE
+AMOUNT
+Details of payment
+Investment in Landmark Capital Inc. (Barbados)
+March 21, 2001
+$ 191,999.99
+Bank transfer to Omnicorp
+$ 191,514.75
+June 5, 2001
+$ 1,000,000.00
+Cheque 0067 to Brodie Morris Barrister Solicitor
+$ 1,000,000.00
+June 27, 2001
+$ 137,500.00
+Yorkton Securities
+$ 137,500.00
+July 4, 2001
+$ 137,500.00
+Yorkton Securities Account 5A 3519A
+$ 137,500.00
+July 16, 2001
+$ 500,000.00
+Cheque 0096 to Brodie Morris
+$ 500,000.00
+Sept. 27, 2001
+$ 500,000.00
+Bank draft to Brodie Morris
+$ 500,000.00
+October 3, 2001
+$ 200,000.00
+Yorkton Securities, Special Warrants KT 5A3527-A
+$ 200,000.00
+October 3, 2001
+$ 300,000.00
+Charismatic Industries Inc.
+$ 300,000.00
+November 26, 2001
+$ 375,042.00
+Funds transferred to “Landmark Capital”
+$ 375,000.00
+December 14, 2001
+$ 300,000.00
+Gary Moore, Lawyer, In trust “SITSA” Agreement
+$ 300,000.00
+Totals
+$3,642,041.99
+$3,641,514.75
+Agreed to balance sheet
+[19] In 2001 and 2002, Landmark did not have a payroll account with CRA and did not claim an expense for salaries or wages. Landmark also did not report any revenue from the sale of goods or the provision of services in 2001 and 2002. The only income reported by Landmark was an amount of $17,107 in 2002 which was a reimbursement of expenses after all the Class B shares were issued to registered retirement savings plans and registered retirement income funds on September 5, 2002.
+[20] The tax returns of Landmark for the 2001 and 2002 taxation years were filed on August 13, 2004. Landmark claimed operating expenses in the amounts of $509,567 for 2001 and $352,218 for 2002.
+[21] The only activity that Landmark ever did in 2001 and 2002 was to issue Class B shares and used the net proceeds to invest in Landmark Barbados. As of December 31, 2001, the shares of Landmark Barbados represented 93% of its assets. As of January 15, 2002, that percentage went down to 91% as a result of the appellant’s share subscription and the acquisition by Landmark of marketable securities amounting to $ 200,000.
+Landmark Barbados
+[22] Landmark Capital Inc. was incorporated in Barbados on July 6, 2001 and received an International Business Company licence on August 21, 2001. The application for the licence provides the following information:
+• the business the company proposes to carry on: “to engage in equity investments in venture capital opportunities in the energy industry”.
+[23] The documentation, dated August 9, 2001, provided to the Royal Bank of Canada for the purpose of setting up a bank account in Barbados for Landmark Barbados indicates the following:
+• the shareholders of the Company are Landmark Capital Partners Ltd., Rob Keenan & Bill Adams (51%) and Swiss Imperial Trust & Nelson Bayford (49%);
+• the nature of business: venture capital energy firm.
+[24] The affidavits provided by Robert Keenan, William Adams and Nelson Bayford to the Royal Bank of Canada to open the bank account for Landmark Barbados indicates that:
+• Robert Keenan and William Adams were directors of the company; and
+• Nelson Bayford was not a director of the company.
+[25] The company’s list of officers and directors, addressed to the Royal Bank of Canada, indicates that Nelson Bayford, William Adams and Robert Keenan were directors and officers of the company.
+[26] The corporate tax returns submitted for Landmark Barbados on February 4, 2005 for the years ending December 31, 2001 and 2002, reported that the company was a resident of Barbados and that there was no income nor claim for expenses in either year.
+[27] The balance sheet of Landmark Barbados for the period ending December 31, 2001 reported $360,000 in cash, $15,000 in incorporation costs and $375,000 in share capital. The worksheet provided for the bank account of Landmark Barbados indicates that Landmark paid $375,000 to Landmark Barbados on November 26, 2001. Bank statements of Landmark supports that the cash was transferred from its bank account to Landmark Barbados. The bank records for Landmark Barbados support the fact that the company did not have any cash prior to the deposit by Landmark on November 26, 2001.
+[28] According to the agreement with Swiss Imperial Trust S.A., Landmark was to acquire the shares of Landmark Barbados from Swiss Imperial Trust S.A. with 80% of the proceeds of the sales of the Class B shares but the CRA was not provided with evidence that the Swiss Imperial Trust S.A. ever acquired shares of Landmark Barbados. The CRA has assumed that Swiss Imperial Trust S.A. did not acquire shares of Landmark Barbados as there was no cash in Landmark Barbados to support this assertion.
+[29] Landmark Barbados never had employees in Canada and never had a payroll account with the CRA.
+[30] Based on information provided by Mr. Keenan, the shares of Landmark Barbados held by both Swiss Imperial Trust S.A. and Landmark were redeemed on September 10, 2002. A bank statement of Landmark records a deposit of $130,856.39 on September 10, 2002. The balance sheet of Landmark Barbados reports the share capital was reduced from $375,000 as at December 31, 2001 to $15,000 as at December 31, 2002.
+[31] Landmark Barbados’ International Business Licence expired at the end of 2002.
+Legislative Framework
+[32] Class B Shares of Landmark were acquired by the Appellant’s Plan on January 4, 2002 and the issue in this appeal is to determine whether the shares were a “qualified investment” for that purpose.
+[33] Subsection 146(1) of the Act defines a “non-qualified investment” in relation to a trust governed by a registered retirement savings plan to mean “property acquired by the trust after 1971 that is not a qualified investment for the trust”.
+[34] The definition of “qualified investment” for registered retirement savings plans is found in subsection 146(1) of the Act and includes in paragraph (a) certain of the investments listed in the definition of “qualified investment” in section 204 of the Act. Paragraph 146(1)(a) of the definition of “qualified investment” reads as follows:
+“qualified investment” for a trust governed by a registered retirement savings plan means
+(a) an investment that would be described in any of paragraphs (a), (b), (d) and (f ) to (h) of the definition “qualified investment” in section 204 if the references in that definition to a trust were read as references to the trust governed by the registered retirement saving plan,
+[35] The investments listed in the definition of “qualified investment” in section 204 are:
+. . .
+(a) money (other than money the fair market value of which exceeds its stated value as legal tender in the country of issuance or money that is held for its numismatic value) and deposits (within the meaning assigned by the Canada Deposit Insurance Corporation Act or with a branch in Canada of a bank) of such money standing to the credit of the trust,
+(b) bonds, debentures, notes, mortgages, hypothecary claims or similar obligations described in clause 212(1)(b)(ii)(C), whether issued before, on or after April 15, 1966,
+. . .
+(d) shares listed on a prescribed stock exchange in Canada,
+. . .
+(f) guaranteed investment certificates issued by a trust company incorporated under the laws of Canada or of a province,
+(g) investment contracts described in subparagraph (b)(ii) of the definition “retirement savings plan” in subsection 146(1) and issued by a corporation approved by the Governor in Council for the purposes of that subparagraph,
+(h) shares listed on a prescribed stock exchange in a country other than Canada, and
+. . .
+[36] In addition, paragraph (d ) of the definition of “qualified investment” in subsection 146(1) of the Act includes “such other investments as may be prescribed by regulations of the Governor in Council made on the recommendation of the Minister of Finance”.
+[37] Paragraph 4900(6)(a) of the Income Tax Regulations (the “Regulations”) provides that “a share of the capital stock of an eligible corporation (within the meaning assigned by subsection 5100(1) . . .” is a property that is prescribed as a qualified investment for the purposes of paragraph (d) of the definition of “qualified investment” in subsection 146(1) of the Act.
+[38] According to paragraph 5100(1)(a) of the Regulations, an “eligible corporation” at any time, is as follows:
+(a) a particular corporation that is a taxable Canadian corporation all or substantially all of the property of which is at that time
+(i) used in a qualifying active business carried on by the particular corporation or by a corporation controlled by it,
+(ii) shares of the capital stock of one or more eligible corporations that are related to the particular corporation, or debt obligations issued by those eligible corporations, or
+(iii) any combination of the properties described in subparagraph (i) and (ii),
+. . .
+[39] Subsection 248(1) of the Act provides that the expression “taxable Canadian corporation” has the meaning assigned by subsection 89(1) of the Act. Subsection 89(1) defines a “taxable Canadian corporation” as follows:
+“taxable Canadian corporation” means a corporation that, at the time the expression is relevant,
+(a) was a Canadian corporation, and
+(b) was not, by reason of a statutory provision other than paragraph 149(1((t), exempt from tax under this Part;
+[40] Subsection 248(1) of the Act provides that the expression “Canadian corporation” has the meaning found in subsection 89(1) of the Act. Subsection 89(1) defines a “Canadian corporation” as follows:
+“Canadian corporation” at any time means a corporation that is resident in Canada at that time and was
+(a) incorporated in Canada, or
+(b) resident in Canada throughout the period that began on June 18, 1971 and that ends at that time,
+. . .
+[41] The definition of the expression “eligible corporation” in subsection 5100(1) of the Regulations refers to a taxable Canadian corporation “all or substantially all of the property of which” meaning 90% or more of the property:
+(i) was used in a qualifying active business carried on by the corporation, or by a corporation controlled by it;
+(ii) were shares or debt obligations of eligible corporations related to the particular corporation; or
+(iii) was a combination of those properties.
+[42] The expression “qualifying active business” is defined in subsection 5100(1) of the Regulations as follows:
+“qualifying active business”, at any time, means any business carried on primarily in Canada by a corporation, but does not include
+(a) a business (other than a business of leasing property other than real property) the principal purpose of which is to derive income from property (including interest, dividends, rent and royalties), or
+(b) a business of deriving gains from the disposition of property (other than property in the inventory of the business),
+and, for the purposes of this definition, a business carried on primarily in Canada by a corporation, at any time, includes a business carried on by the corporation if, at that time,
+(c) at least 50 per cent of the full time employees of the corporation and all corporations related thereto employed in respect of the business are employed in Canada, or
+(d) at least 50 per cent of the salaries and wages paid to employees of the corporation and all corporations related thereto employed in respect of the business are reasonably attributable to services rendered in Canada;
+[43] In addition to paragraph 4900(6)(a) of the Regulations, paragraph 4900(12)(a) of the Regulations provides, for the purposes of paragraph (d ) of the definition of 146(1) of the Act, that a property is prescribed as a qualified investment for a trust governed by a RRSP if, at the time the property was acquired by the trust:
+(a) the property was a share of the capital stock of a corporation (other than a cooperative corporation) that would, at that time or at the end of the last taxation year of the corporation ending before that time, be a small business corporation if the expression “Canadian-controlled private corporation’ in the definition “small business corporation’ in subsection 248(1) of the Act were read as “Canadian corporation (other than a corporation controlled at that time, directly or indirectly in any manner whatever, by one or more non-resident persons)”,
+[44] The definition of a “small business corporation” in subsection 248(1) of the Act reads as follows:
+“small business corporation” – at any any particular time, means, subject to subsection 110.6(15), a particular corporation that is a Canadian-controlled private corporation all or substantially all of the fair market value of the assets of which at that time is attributable to assets that are
+(a) used principally in an active business carried on primarily in Canada by the particular corporation or by a corporation related to it,
+(b) shares of the capital stock or indebtedness of one or more small business corporations that are at that time connected with the particular corporation (within the meaning of subsection 186(4) on the assumption that the small business corporation is at that time a “payer corporation” within the meaning of that subsection), or
+(c) assets described in paragraphs (a) and (b),
+including, for the purpose of paragraph 39(1)(c), a corporation that was at any time in the 12 months preceding that time a small business corporation, and, for the purpose of this definition, the fair market value of a net income stabilization account shall be deemed to be nil;
+. . .
+[45] The notion of “active business” is defined in subsection 248(1) of the Act as follows:
+“active business” in relation to any business carried on by a taxpayer resident in Canada, means any business carried on by the taxpayer other than a specified investment business or a personal services business;
+[46] Subsection 248(1) of the Act provides that the expression “specified investment business” has the meaning assigned by subsection 125(7) which reads as follows:
+“specified investment business” – carried on by a corporation in a taxation year means a business (other than a business carried on by a credit union or a business of leasing property other than real property) the principal purpose of which is to derive income (including interest, dividends, rents and royalties) from property but, except where the corporation was a prescribed labour-sponsored venture capital corporation at any time in the year, does not include a business carried on by the corporation in the year where
+(a) the corporation employs in the business throughout the year more than 5 full-time employees, or
+(b) any other corporation associated with the corporation provides, in the course of carrying on an active business, managerial, administrative, financial, maintenance or other similar services to the corporation in the year and the corporation could reasonably be expected to require more than 5 full-time employees if those services had not been provided;
+[47] Subsection 146(10) of the Act provides that “where at any time in a taxation year a trust governed by a registered retirement saving plan
+(a) acquires a non-qualified investment or
+(b) uses or permit to be used any property of the trust as security for a loan, the fair market value of
+(c) the non-qualified investment at the time it was acquired by the trust,or
+(d) the property used as security at the time it commenced to be so used.
+as the case may be, shall be included in computing the income for the year of the taxpayer who is the annuitant under the plan at that time.
+[48] For an acquisition of a non-qualified investment that occurred on or before March 22, 2011, subsection 146(6) of the Act provides that, where such an investment is disposed of, the annuitant may deduct in computing his income for the year of disposition the lesser of the proceed of disposition or the amount originally included in income. It should be noted that if a loss is incurred on the investment, the amount included in income will exceed the amount of the deduction.
+[49] It must be observed here that qualified investment requirements must be satisfied not only at the time of acquisition of the investment but throughout the entire period during which the investment is held in a registered retirement savings plan.
+Analysis
+[50] As Landmark Capital Partners Ltd. was incorporated in 2001 under the laws of the province of Alberta, was resident in Canada and was not exempt from tax under Part I of the Act means that it was a “Canadian corporation” and a “taxable Canadian corporation” for the purposes of the Act.
+[51] As the Class B shares of Landmark were not listed on a prescribed stock exchange in Canada, it is necessary to consider if the Class B shares were, at the year’s end of 2001, shares of an “eligible corporation” within the meaning of subsection 5100(1) of the Regulations.
+[52] For Landmark to qualify at any time as an “eligible corporation”, all or substantially all its property at that time must have been:
+(i) used in a “qualifying active business” which means, for this purpose, any business carried on by it, primarily in Canada, other than a business the principal purpose of which is to derive income from property (including interest, dividends rents and royalties, and business earning gains from the disposition of property (other than property in the inventory of the business);
+(ii) shares of the capital stock of one or more eligible corporations that are related to Landmark, or debt obligations issued by those eligible corporations; or
+(iii) a combination of the properties described in (i) and (ii).
+[53] As of December 31, 2001, the balance sheets of Landmark showed that the shares of Landmark Barbados represented over ninety-three percent of its assets. The principal purpose of the business carried on by Landmark in Canada was to derive income from property or from deriving gains from disposition of property. This means that Landmark did not use all or substantially all of its property in a “qualifying active business’ on December 31, 2001.
+[54] As an “eligible corporation” pursuant to subsection 5100(1) of the Regulations includes a “taxable Canadian corporation” where all or substantially all of its property is shares or debts issued by related eligible corporations, it is necessary to determine if the shares of Landmark Barbados were shares of a related eligible corporation.
+[55] As Landmark Capital Inc. was incorporated under the laws of Barbados, has received an International Business Licence from the Government of Barbados and has filed its tax returns for the 2001 and 2002 taxation years reporting that it was a resident of Barbados, it did not meet the definition of a “Canadian corporation” and, therefore, it was not an “eligible corporation”, as defined in subsection 5100(1) of the Regulations, and its shares were not shares of a related eligible corporation.
+[56] Based on the foregoing reasoning, Class B shares of Landmark were not a qualified investment for registered retirement savings plans for 2001 and the analysis made for 2001 is also applicable to 2002. Mrs. Chiasson’s Plan acquired the Class B shares of Landmark a few days after the beginning of 2002. Based on the reconstructed balance sheet of Landmark as of January 15, 2002, the company had 91% of its assets invested in shares of Landmark Barbados which was not a related eligible corporation in 2002 for the reasons given in paragraph 55 above. Furthermore, Landmark did not use all or substantially all of its assets in a “qualifying active business” in 2002.
+[57] Similarly, the Class B shares of Landmark did not constitute a qualified investment pursuant to subsection 4900(12) of the Regulations when they were acquired or on December 31, 2001 as they were not shares of a small business corporation. The fair market value of, all or substantially all, of its assets were not used principally in an active business carried on primarily in Canada. On December 31, 2001 and on January 4, 2002, more than 90% of the fair market value of its assets was shares in Landmark Barbados, cash and marketable securities. In these circumstances, the business carried on by Landmark was a “specified investment business”, the principal purpose of which was to derive income from property without having more than five full-time employees.
+[58] In light of the foregoing, it can be easily appreciated that the determination of whether or not a particular investment is a qualified investment for registered retirement savings plans is a complex and perilous exercise out of reach for the vast majority of Canadian taxpayers. In this particular instance, it was impossible for the appellant to make such a determination at the time of acquisition of the Class B shares of Landmark due to the lack of information available at that time concerning Landmark’s activities, such as financial statements, tax returns, bank statements and investments made in offshore corporations.
+[59] An investment in a new private start-up corporation such as Landmark is always problematic and risky. This is why it is highly recommended in such a case to seek an opinion from the trustee of the plan or from tax professionals confirming that the proposed investment is a qualified investment.
+[60] The appellant has not shown that the fair market value of the Class B shares issued from treasury was less than what she agreed to pay for. All the Class B shares of Landmark were issued at a price of $1 per share from March 7, 2001 to September 4, 2002.
+[61] The respondent recognized the fact that the appellant did not participate in what is called “a RRSP strip” as she did not receive any benefit or money as a result of the transfer of funds from her RRSP and the investment in Landmark Class B shares.
+[62] For all these reasons, the appeal is dismissed.
+Signed at Ottawa, Canada, this 21st day of April 2016.
+“Réal Favreau”
+Favreau J.
+CITATION:
+2016 TCC 95
+COURT FILE NO.:
+2014-3217(IT)I
+STYLE OF CAUSE:
+Ana Maria Chiasson and HMQ
+PLACE OF HEARING:
+Montreal, Quebec
+DATE OF HEARING:
+October 6, 2015
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Réal Favreau
+DATE OF JUDGMENT:
+April 21, 2016
+APPEARANCES:
+Counsel for the Appellant:
+Mario Zuliani
+Counsel for the Respondent:
+Joanna Hill
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Mario Zuliani
+Firm:
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

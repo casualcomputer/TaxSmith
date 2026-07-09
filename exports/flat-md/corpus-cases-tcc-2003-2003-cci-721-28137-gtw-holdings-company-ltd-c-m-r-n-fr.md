@@ -1,0 +1,191 @@
+---
+title: "GTW Holdings Company Ltd. c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28137/index.do"
+last_modified: "2003-10-15"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 CCI 721"
+citation2: ""
+neutral_citation: "2003 CCI 721"
+decision_date: "2003-10-15"
+language: "fr"
+item_id: "28137"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1656
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T18:39:22.711000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "a3c21af6087b254030bd8fb6ed890e2a63b89984c7e79872110d61e0cfd9d32f"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# GTW Holdings Company Ltd. c. M.R.N.
+
+- Citation: 2003 CCI 721
+- Decision date: 2003-10-15
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1656, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+GTW Holdings Company Ltd. c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-10-15
+Référence neutre
+2003 CCI 721
+Numéro de dossier
+2002-2008(EI)
+Juges et Officiers taxateurs
+David W. Beaubier
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Dossier : 2002‑2008(EI)
+ENTRE :
+GTW HOLDINGS COMPANY LTD.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+____________________________________________________________________
+Appel entendu le 3 octobre 2003 à Regina (Saskatchewan)
+Devant : L’honorable juge Beaubier
+Comparutions
+Avocat de l’appelante :
+Me Dwayne M. Anderson
+Avocat de l’intimé :
+Me Lyle Bouvier
+____________________________________________________________________
+JUGEMENT
+L’appel est accueilli et la décision du ministre est annulée conformément aux motifs du jugement ci‑joints.
+Les dépens autorisés en vertu de la Loi sur l’assurance‑emploi sont attribués à l’appelante.
+Signé à Saskatoon (Saskatchewan), ce 15e jour d’octobre 2003.
+« D. W. Beaubier »
+Juge Beaubier
+Traduction certifiée conforme
+ce 22e jour de janvier 2004.
+Liette Girard, traductrice
+Référence : 2003CCI721
+Date : 20031015
+Dossier : 2002‑2008(EI)
+ENTRE :
+GTW HOLDINGS COMPANY LTD.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+MOTIFS DU JUGEMENT
+Le juge Beaubier
+[1] Le présent appel a été entendu à Regina, en Saskatchewan, le 3 octobre 2003. Thurston Lindo a été l’unique témoin.
+[2] Une évaluation des primes d’assurance‑emploi pour toute l’année 1999 à l’égard de Thurston Lindo, de Greg Olenick et de Wanda Silzer et pour 2000 jusqu’au 18 septembre à l’égard de ces derniers ainsi que de Melissa Erickson et de Michelle Hugel est en litige.
+[3] Les paragraphes 6 à 9 inclusivement de la Réponse à l’avis d’appel sont ainsi rédigés :
+[Traduction]
+6. En réponse à l’appel, le ministre :
+a) a confirmé l’évaluation de l’année 1999 puisque Thurston Lindo, Greg Olenick et Wanda Silzer étaient employés en vertu d’un contrat de louage de services;
+b) a modifié l’évaluation pour l’année 2000 en réduisant de 1 076,15 $ les primes d’assurance‑emploi évaluées puisque Thurston Lindo et Greg Olenick contrôlaient plus de 40 p. 100 des actions avec droit de vote de l’appelante durant la période du 19 septembre 2000 au 31 décembre 2000;
+c) a par ailleurs confirmé l’évaluation pour l’année 2000 puisque Thurston Lindo, Greg Olenick, Wanda Silzer, Melissa Erickson et Michelle Hugel étaient employés en vertu d’un contrat de louage de services;
+d) a modifié l’évaluation pour l’année 2001 en réduisant de 1 474,97 $ les primes d’assurance‑emploi évaluées puisque Thurston Lindo et Greg Olenick contrôlaient plus de 40 p. 100 des actions avec droit de vote de l’appelante;
+e) a par ailleurs confirmé l’évaluation pour l’année 2001 puisque Melissa Erickson était employée en vertu d’un contrat de louage de services.
+7. En établissant ainsi les évaluations à l’égard de Thurston Lindo, de Greg Olenick, de Wanda Silzer (collectivement appelés « les travailleurs »), le ministre s’est fondé sur les hypothèses de fait suivantes :
+a) l’appelante possède et exploite une entreprise de coiffure;
+b) l’appelante a été constituée en 1998;
+c) le permis d’exploitation était au nom de l’appelante;
+d) les travailleurs étaient les administrateurs de la société de l’appelante;
+e) les travailleurs ont été embauchés comme coiffeurs, et ils devaient notamment offrir des services de coiffure, répondre au téléphone et travailler à la réception;
+f) l’argent était placé dans la caisse centrale de l’appelante;
+g) les travailleurs étaient payés toutes les semaines par chèque;
+h) l’appelante payait les travailleurs;
+i) les travailleurs rendaient des comptes aux administrateurs de l’appelante;
+j) les travailleurs étaient tenus de remplir des rapports;
+k) les clients sans rendez‑vous étaient accueillis par la personne qui était disponible;
+l) l’appelante a fourni les outils et l’équipement nécessaires, y compris un espace de travail complètement équipé, une caisse centrale et de l’équipement de nettoyage;
+m) les travailleurs fournissaient leurs propres outils personnels;
+n) les travailleurs payaient des frais hebdomadaires de location d’une chaise à l’appelante;
+o) l’appelante payait les frais d’exploitation, y compris le loyer, les services publics, l’assurance et l’entretien;
+p) l’appelante fournissait les fournitures, notamment les serviettes, le café, les articles en papier, le savon de ménage, la peinture, les ampoules électriques et les produits nettoyants;
+q) les travailleurs, en tant qu’administrateurs, devaient agir de façon conforme aux intérêts supérieurs de l’appelante;
+r) les travailleurs étaient employés en vertu d’un contrat de louage de services;
+s) les travailleurs n’étaient pas les propriétaires de l’entreprise ni ne l’exploitaient, il s’agissait de l’entreprise de l’appelante;
+t) les salaires versés par l’appelante aux travailleurs, pour la période du 1er janvier 1999 au 18 septembre 2000, sont indiqués en détail ci‑dessous :
+1999
+2000‑01‑01 au 2000‑09‑18
+Thurston Lindo
+45 193,80 $
+28 507,96 $
+Greg Olenick
+40 059,75 $
+30 808,96 $
+Wanda Silzer
+11 141,18 $
+8 029,45 $
+B. QUESTIONS À TRANCHER
+8. Il s’agit de savoir si les travailleurs ont été engagés en vertu d’un contrat de louage de services par l’appelante pour la période du 1er janvier 1999 au 18 septembre 2000.
+9. Si la Cour conclut que les travailleurs n’étaient pas employés en vertu d’un contrat de louage de services par l’appelante, ce qui n’est pas admis mais bien nié, la question subsidiaire à trancher est celle de savoir si les travailleurs occupaient des emplois assurables en vertu de l’alinéa 6d) du Règlement sur l’assurance‑emploi.
+[4] Les hypothèses de fait suivantes n’ont pas été réfutées par la preuve : 7b), c), d), f), m), n) et o).
+[5] Pour ce qui est des autres hypothèses :
+7a) Selon l’essentiel du témoignage de l’appelante, chaque coiffeur possède sa propre « chaise ». Rien dans la preuve n’indique si l’appelante possède réellement la chaise de chaque coiffeur, à l’exception du témoignage de M. Lindo. Par conséquent, la Cour conclut que les chaises étaient la propriété des coiffeurs. Ils possédaient chacun l’ensemble de leurs outils et de leur inventaire de lotions, etc., qu’ils utilisaient dans le cadre de leur travail et qu’ils vendaient à leurs clients. Ils versaient chacun 150 $ à l’appelante par semaine pour payer le loyer, l’électricité, le permis d’entreprise et l’eau. Le permis d’entreprise était la propriété de l’appelante et non des coiffeurs.
+7e) Tout le monde pouvait répondre au téléphone. Il n’y avait pas de clients sans rendez‑vous. Chaque coiffeur avait ses propres clients qui prenaient des rendez‑vous.
+7g), h) Chaque coiffeur payait les reçus à partir d’une caisse centrale et conservait une copie de chaque reçu. À la fin de chaque semaine, un montant de 150 $ était pris pour le loyer de l’appelante, et le coiffeur conservait le reste de ses reçus. Rien dans la preuve n’indique si cela était fait par chèque, mais selon M. Lindo, il semble que l’argent était simplement distribué parmi eux. L’appelante ne réalisait pas de profit et n’en avait pas l’intention.
+7i), j) Les travailleurs ne rendaient des comptes à personne.
+7k) C’est vrai, mais il n’y en avait pas. L’emplacement de l’appelante n’était pas favorable à l’arrivée de clients sans rendez‑cous. MM. Lindo et Olenick avaient travaillé ailleurs avant 1998 et « ATM », les initiales des prénoms des fondateurs, a été créé lorsqu’ils ont accepté des clients et ont démarré leur entreprise.
+7l) L’appelante ne fournissait que l’espace de travail, l’équipement de nettoyage et une caisse centrale.
+7p) Elles étaient payées à partir du montant de 150 $ versé par les coiffeurs chaque semaine.
+7q) Les travailleurs n’ont jamais agi en tant qu’« administrateurs ». Au contraire, ils agissaient et se considéraient comme des entrepreneurs indépendants.
+7r), s), t) Il s’agit de l’objet en litige.
+[6] La question en litige entre les parties réside dans l’alinéa 6d) du Règlement sur l’assurance‑emploi qui est ainsi rédigé :
+6. Sont inclus dans les emplois assurables, s'ils ne sont pas des emplois exclus conformément aux dispositions du présent règlement, les emplois suivants :
+[…]
+d) l'emploi exercé par une personne auprès d'un salon de barbier ou de coiffure, si :
+(i) d'une part, elle fournit des services qu'offre normalement un tel établissement,
+(ii) d'autre part, elle n'est pas le propriétaire ni l'exploitant de cet établissement;
+[7] L’argumentation de l’avocat de l’appelante portait en partie sur la question de savoir si chaque « chaise » constituait un « établissement ».
+[8] Le Black's Law Dictionary (septième édition) définit le mot « établissement » de la façon suivante :
+[Traduction]
+Une institution ou lieu d’affaires.
+De plus, le mot « entreprise » est défini ainsi :
+[Traduction]
+Une entreprise commerciale exploitée en vue d’un profit; une profession ou un emploi habituellement exercé comme moyen de subsistance ou pour obtenir un revenu.
+[9] En conséquence, un établissement, comme une entreprise, peut être déterminé selon la motivation à réaliser un profit. J’ai déjà fait remarquer au paragraphe [5] que la société de l’appelante ne réalisait pas de profit et que cette dernière n’avait pas l’intention d’en réaliser.
+[10] Dans l’affaire Fleming v. American Stores Co., D.C. Pa., 42 F. Supp. 511, 521, (une affaire américaine), la cour a noté ceci :
+[Traduction]
+Comme l’unité d’une entreprise est une composante ou une partie nécessaire de cette entreprise, il ne s’ensuit pas qu’elle devrait être considérée comme une partie de l’ensemble de l’entreprise de façon à perdre son identité individuelle et distincte en tant qu’« établissement ».
+[11] Un établissement n’est donc pas toujours simplement l’addition des différentes unités ou parties connexes. Dans certains cas, plusieurs établissements peuvent exister à l’intérieur d’une seule entreprise. Pour distinguer 1) un établissement qui consiste en l’addition de ses parties de 2) une entreprise qui est composée d’établissements distincts, il faut examiner l’endroit où l’on reconnaît des profits. L’établissement constitue l’endroit où les profits sont reconnus en tant que tels.
+[12] En l’espèce, chaque travailleur exploitait une entreprise unique, indépendante des autres. Les travailleurs ne faisaient pas de publicité en tant que groupe, et il n’est même pas possible d’affirmer qu’ils travaillaient ensemble pour un objectif commun. Les profits étaient réalisés par chacun et étaient distribués à chacun. En conséquence, dans le présent cas, je conclus que chaque « chaise » constitue un établissement distinct au sens de l’alinéa 6d) du Règlement sur l’assurance‑emploi.
+[13] Cela soulève également la question de savoir si les coiffeurs étaient des « employés » selon les faits. En utilisant les critères examinés dans l’affaire Wiebe Door Services Ltd. c. Ministre du Revenu national, [1986] 3 C.F. 553 (87 D.T.C. 5025), la Cour conclut ceci :
+1. Contrôle
+L’appelante n’exerçait pas de contrôle sur les coiffeurs, qui passaient et conservaient les heures que chacun choisissait.
+2. Outils
+Chaque coiffeur possédait ses propres outils et inventaire.
+3. Risque de perte et chance de profit
+Chaque coiffeur avait ce risque et cette chance.
+4. Intégration
+Le travail des coiffeurs n’était pas intégré à l’entreprise de l’appelante. Cette dernière n’a même pas fait de publicité. Certains des coiffeurs en ont fait un peu. L’entreprise de l’appelante devait réellement être une agence de location de l’endroit, y compris du permis d’exploitation, que cette dernière location soit légale ou non. Ainsi, en l’espèce, chaque chaise, pour utiliser les mots du Shorter Oxford Dictionary touchant le verbe « establish » [« établir »], était celle du coiffeur [TRADUCTION] « établie selon un fondement sûr ».
+[14] L’appel est accueilli. Les dépens et les débours autorisés en vertu de la Loi sur l’assurance‑emploi sont attribués à l’appelante.
+Signé à Saskatoon (Saskatchewan), ce 15e jour d’octobre 2003.
+« D. W. Beaubier »
+Juge Beaubier
+Traduction certifiée conforme
+ce 22e jour de janvier 2004.
+Liette Girard, traductrice

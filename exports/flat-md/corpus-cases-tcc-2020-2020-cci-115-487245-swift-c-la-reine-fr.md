@@ -1,0 +1,418 @@
+---
+title: "Swift c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/487245/index.do"
+last_modified: "2020-10-20"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2020 CCI 115"
+citation2: ""
+neutral_citation: "2020 CCI 115"
+decision_date: "2020-10-20"
+language: "fr"
+item_id: "487245"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4606
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2023-07-24T06:56:57.544000+00:00"
+cases_cited_count: 5
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "48459a862f128991f603b4704b8c1ff305bd2573a636e54f01af16666781af92"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Swift c. La Reine
+
+- Citation: 2020 CCI 115
+- Decision date: 2020-10-20
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4606, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Swift c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2020-10-20
+Référence neutre
+2020 CCI 115
+Numéro de dossier
+2016-1566(GST)G
+Juges et Officiers taxateurs
+Don R. Sommerfeldt
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2016-1566(GST)G
+ENTRE :
+THOMAS SWIFT,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu les 21 et 22 octobre 2019, à Victoria (Colombie-Britannique)
+Devant : L’honorable juge Don R. Sommerfeldt
+Comparutions :
+Avocat de l’appelant :
+Me J. Andre Rachert
+Avocate de l’intimée :
+Me Cindy Mah
+JUGEMENT
+Le présent appel à l’encontre d’une cotisation établie aux termes de la Loi sur la taxe d’accise, dont l’avis est daté du 6 décembre 2013, pour la période comprise entre le 1er janvier 2010 et le 31 décembre 2010, inclusivement, est accueilli, avec dépens, et la cotisation portée en appel est annulée.
+Les parties disposent d’un délai de 30 jours suivant la date du présent jugement pour parvenir à un accord sur les dépens et en informer la Cour, faute de quoi l’appelant disposera alors d’un délai de 30 jours pour déposer des observations écrites sur les dépens, après quoi l’intimée disposera d’un délai de 30 jours pour déposer sa réponse par écrit. Les observations des parties ne devront pas dépasser cinq pages. Si les parties n’informent pas la Cour qu’elles sont parvenues à un accord et que des observations ne sont pas déposées dans les délais impartis, les dépens seront adjugés à l’appelant, conformément au tarif.
+Signé à Ottawa, Canada, ce 20e jour d’octobre 2020.
+« Don R. Sommerfeldt »
+Le juge Sommerfeldt
+Traduction certifiée conforme
+ce 12e jour de Janvier 2023.
+François Brunet, réviseur
+Référence : 2020 CCI 115
+Date : 20201020
+Dossier : 2016-1566(GST)G
+ENTRE :
+THOMAS SWIFT,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Sommerfeldt
+I. INTRODUCTION
+[1] Les présents motifs concernent l’appel intenté par Thomas Swift à l’égard d’une (nouvelle) cotisation (la « cotisation ») établie par l’Agence du revenu du Canada (l’« ARC »), au nom du ministre du Revenu national (le « ministre »). La cotisation établie à l’égard de M. Swift s’élevait à 85 175,13 $ [1] , et reposait sur l’hypothèse qu’il était un constructeur, selon la définition figurant au paragraphe 123(1) de la Loi sur la taxe d’accise (la « LTA ») [2] , et que l’exception pour utilisation personnelle (prévue par le paragraphe 191(5) de la LTA) à la règle sur la fourniture à soi-même (prévue par le paragraphe 191(1) de la LTA) ne pouvait s’appliquer dans son cas.
+II. EXPOSÉ DES FAITS
+[2] Les parties ont déposé un exposé conjoint des faits (l’« ECF »), dont une copie est jointe à l’annexe A. De plus, M. Swift et son ex-épouse, Linda Kirkby, ont témoigné lors de l’audition du présent appel.
+[3] Dans son jeune âge, M. Swift a aidé son père à construire une maison pour leur famille à Victoria. Depuis plus de 40 ans, M. Swift travaille dans l’industrie de la construction, comme charpentier et comme promoteur. En 1997, M. Swift a pris des dispositions pour la constitution en société de Tom Swift Construction Ltd. (« TSC »). M. Swift est l’unique actionnaire de TSC, une petite entreprise de construction, qui emploie parfois seulement quelques personnes et entrepreneurs, et jamais plus d’environ 24 personnes.
+[4] À l’instar de nombreuses petites entreprises, TSC a souvent dû compter sur son actionnaire, M. Swift, pour obtenir du financement. En général, M. Swift empruntait des fonds de la caisse de crédit (la « caisse de crédit ») de laquelle il était client. Souvent, le prêt de la caisse de crédit était garanti par une hypothèque sur la maison de M. Swift. M. Swift a versé le produit du prêt de la caisse de crédit à TSC, qui l’a consigné comme un prêt à l’actionnaire. TSC a utilisé les fonds empruntés pour acheter un terrain et des matériaux de construction pour un nouveau lotissement ou un autre projet, selon le cas. TSC a fréquemment créé des coentreprises avec une entité désignée par M. Swift comme Citta Investments (« Citta ») et devait procéder à des appels de fonds périodiques pour s’acquitter de ses obligations concernant les coentreprises. À mesure que les maisons étaient construites puis vendues, TSC remboursait les prêts à l’actionnaire, une fois les dépenses payées, et M. Swift utilisait les fonds reçus pour rembourser les prêts respectifs auprès de la caisse de crédit. M. Swift a expliqué qu’il s’agissait d’un cycle qui se répétait sans cesse, de telle sorte que durant certaines périodes, sa maison était fortement hypothéquée et TSC lui devait de l’argent, alors qu’à d’autres périodes, quand TSC remboursait un prêt à l’actionnaire et qu’il remboursait la caisse de crédit, il n’avait plus de dettes.
+[5] M. Swift et Mme Kirkby se sont mariés en 1990. Ils ont par la suite eu deux enfants. De plus, M. Swift avait deux autres enfants issus d’un précédent mariage. Entre 1990 et 1994, ils ont vécu dans une maison que possédait M. Swift plusieurs années avant le mariage.
+[6] Comme il sera expliqué plus en détails ci-dessous, entre 1994 et 2017 (soit une période de 23 ans), M. Swift et Mme Kirkby ont été propriétaires de cinq maisons, dans lesquelles ils ont vécu, dans la région de Cadboro Bay, à Victoria, en Colombie-Britannique.
+A. 3900, Scolton Road
+[7] En 1994, après avoir fait l’achat d’une maison située au 3900, Scolton Road, M. Swift et Mme Kirkby ont entrepris d’importantes rénovations avant d’en faire leur maison de résidence. Au début de 1998, à la suite de difficultés conjugales, le couple s’est brièvement séparé. À un certain moment, M. Swift a vécu ailleurs qu’au 3900, Scolton Road, et Mme Kirkby habitait une maison louée sur Pear Street, à cinq minutes en voiture de la maison du 3900, Scolton Road. Même si aucunes dates précises n’ont été données durant les témoignages de M. Swift et de Mme Kirkby, à un certain moment durant leur séparation, ils ont mis en vente la maison du 3900, Scolton Road. En avril 1998, M. Swift et Mme Kirkby se sont réconciliés et Mme Kirkby est revenue vivre dans cette maison. Toutefois, comme la maison avait déjà été mise en vente, ils n’ont pas tenté d’annuler la convention d’inscription. La maison du 3900, Scolton Road a été vendue en 1999 pour 477 000 $; M. Swift, Mme Kirkby et leurs enfants sont alors déménagés dans une maison louée, où ils ont habité jusqu’en juin 2000. M. Swift a expliqué qu’en raison de l’incertitude de leur union après leur séparation et leur réconciliation, ils ont décidé de louer une maison pour une certaine période, avant d’acheter leur prochaine maison.
+B. 3921, Scolton Road
+[8] En juin 2000, M. Swift et Mme Kirkby ont acheté une maison au 3921, Scolton Road, tout juste de l’autre côté de la rue et à courte distance de leur première maison. Elle était plus petite que la première maison et pas aussi jolie. Durant leur séjour au 3921, Scolton Road, M. Swift et Mme Kirkby n’ont entrepris aucune rénovation à la maison elle-même, mais M. Swift a construit un petit bâtiment dans la cour arrière, qui lui servait de bureau et d’atelier et que l’acheteur subséquent a utilisé comme remise de jardin. Ils ont vécu à cet endroit jusqu’en août 2004 (soit une période de quatre ans et deux mois).
+[9] M. Swift et Mme Kirkby ont acheté la maison du 3921, Scolton Road pour 285 000 $. Ils ont vendu la maison 475 000 $. M. Swift a affirmé dans son témoignage que durant cette période (soit environ de 2000 à 2004), le prix moyen des maisons à Victoria a doublé.
+[10] Après avoir vendu la maison du 3921, Scolton Road, M. Swift, Mme Kirkby et leurs enfants ont déménagé dans une maison louée, où ils ont habité pendant environ un an.
+C. 3950, Telegraph Bay Road
+[11] En 2003, TSC et M. Swift ont acheté en commun (dans une proportion de 75 %/25 %), pour le prix de 752 500 $, un vaste terrain de coin, avec une maison, à l’intersection de Telegraph Bay Road et d’une autre rue passante. M. Swift était d’avis que le terrain, situé au 3950, Telegraph Bay Road, pourrait être découpé en quatre lots, avec deux des lots donnant sur Telegraph Bay Road, un des lots donnant sur la route transversale et le quatrième lot situé dans le coin arrière du bien-fonds ainsi découpé. Les deux lots ne donnant pas sur Telegraph Bay Road sont devenus des lots en copropriété ayant une voie d’accès commune, désignés dans le plan de lotissement sous le nom de Digby Place [3] . TSC et M. Swift ont payé 75 % et 25 % respectivement du prix d’achat de 752 500 $ et des coûts de lotissement.
+[12] Une fois le lotissement achevé, les quatre lots se sont vus attribuer les adresses municipales du 3950, Telegraph Bay Road (où était située la maison originale), du 3948, Telegraph Bay Road, du 2704, Digby Place et du 2708, Digby Place (terrain situé dans le coin arrière de la parcelle originale qu’avaient choisi M. Swift et Mme Kirkby pour y construire leur nouvelle maison). Une fois le lotissement achevé en 2004, le titre de propriété du 2708, Digby Place a été enregistré au nom de M. Swift et de Mme Kirkby en 2005, et les titres de propriété des trois autres lots ont été enregistrés au nom de TSC.
+[13] En octobre 2004, TSC a vendu la maison sise au 3950, Telegraph Bay Road pour 442 500 $, sans avoir réalisé de travaux sur cette maison.
+[14] En octobre 2004, TSC a commencé la construction d’une maison au 3948, Telegraph Bay Road et d’une autre au 2708, Digby Place. En juillet 2005, TSC a vendu la nouvelle maison sise au 3948, Telegraph Bay Road pour 799 000 $. En juillet ou en août 2005, M. Swift et Mme Kirkby ont emménagé dans la maison construite par TSC sur le lot qu’ils possédaient au 2708, Digby Place.
+[15] TSC a attendu quatre ans avant de construire une maison au 2704, Digby Place. TSC a vendu cette maison en octobre 2009 pour 875 000 $.
+D. 2708, Digby Place
+[16] Comme je l’ai indiqué, M. Swift, Mme Kirkby et leurs enfants ont emménagé dans la maison sise au 2708, Digby Place en juillet ou en août 2005. Ils y ont vécu jusqu’en 2010. En août 2010, ils ont vendu le 2708, Digby Place pour 1 140 000 $.
+[17] Lors de son témoignage, Mme Kirkby a indiqué qu’elle était très heureuse de vivre au 2708, Digby Place, et prévoyait que ce serait là la maison de la famille pour une très longue période.
+[18] M. Swift a affirmé qu’il considérait aussi que la maison du 2708, Digby Place était une belle maison, qui leur convenait bien. Toutefois, en raison de sa faible élévation et des nombreux arbres, la maison s’est révélée fraîche et sombre en fin d’après-midi.
+E. 3957, Juan De Fuca Terrace
+[19] En septembre 2009, en rentrant chez lui à pied après être passé chez un ami, M. Swift a remarqué une affiche « À vendre » sur une colline située au-dessus du 2708, Digby Place. M. Swift en a été étonné, puisqu’il avait compris que le site était un parc. Il a été immédiatement intéressé par le terrain, parce qu’il était plus élevé et mieux éclairé que celui du 2708, Digby Place, et qu’il y faisait plus chaud. Même si le terrain sur la colline comptait de nombreux arbres, on y trouvait aussi de vastes zones ouvertes, qui recevaient plus de soleil et de chaleur en fin d’après-midi. M. Swift a vite eu l’idée de construire la maison de ses rêves sur cette parcelle de terrain, située au 3957, Juan De Fuca Terrace (et que j’appellerai le « lot JDF »). Au départ, Mme Kirkby ne partageait pas son rêve, puisqu’elle hésitait à s’endetter encore et à déménager de nouveau.
+[20] Dans les jours ou les semaines qui ont suivi, M. Swift et Mme Kirkby ont fait plusieurs visites au lot JDF, emmenant avec eux des chaises de parterre, sur lesquelles ils s’assoyaient pour profiter de la vue, boire un verre de vin et parler de construire leur future maison à cet endroit. Mme Kirkby n’a pas été longue à convaincre, et ils ont acheté le lot JDF en octobre 2009 pour 646 000 $.
+[21] Après avoir fait l’acquisition du lot JDF, M. Swift a entrepris d’y construire une maison (la « maison JDF »). La construction de la maison JDF a débuté le 17 décembre 2009. M. Swift a engagé TSC pour fournir la main-d’œuvre, que TSC lui a facturée au prix coûtant. TSC a également fourni une garantie de maison neuve. M. Swift a personnellement acheté les matériaux, embauché les sous-traitants et exécuté la majeure partie des travaux de construction lui-même, avec l’aide de son fils [4] . La maison JDF comportait un logement indépendant au sous-sol (avec entrée séparée vers la porte extérieure) réservé à l’usage des locataires, et une chambre supplémentaire en plus d’une salle de bain au sous-sol, réservées à l’usage des occupants du rez-de-chaussée. M. Swift, Mme Kirkby et leurs enfants ont emménagé dans le sous-sol (ils occupaient le logement, la chambre supplémentaire et la salle de bain) le 1er août 2010, en attendant que les travaux au rez-de-chaussée soient terminés. Le 2 novembre 2010, un permis d’occupation a été émis et M. Swift, Mme Kirkby et leurs enfants ont déménagé au rez-de-chaussée et ont loué le logement au-sous-sol à un locataire. L’aménagement paysager, l’entrée, les trottoirs, les patios, les murs de pierres et le système d’irrigation ont été achevés entre le 2 novembre 2010 et le 15 octobre 2011 [5] .
+[22] En 2012, à la suite d’un important revers financier (dont nous traiterons plus loin), le lot JDF et la maison JDF (ensemble le « bien JDF ») ont été mis en vente. Le bien JDF a été finalement vendu en juin 2013, apparemment avec une date de clôture fixée au 20 octobre 2013, pour 1 700 000 $. Les acheteurs n’étaient pas prêts à prendre possession de la maison; par conséquent, M. Swift, Mme Kirby et leurs enfants ont continué à habiter le bien JDF jusqu’au printemps de 2014.
+[23] Dans une demande de remboursement de la TPS/TVH pour habitations neuves datée du 2 novembre 2010, M. Swift a indiqué que la juste valeur marchande du bien JDF à l’époque était de 1 443 000 $. Toutefois, avant que l’audition de l’appel ne débute, les parties ont conclu une entente selon laquelle le jour visé par les alinéas 191(1)d) et e) de la LTA correspondait au 2 novembre 2010 (soit la date à laquelle M. Swift, Mme Kirkby et leurs enfants ont déménagé au rez-de-chaussée du bien JDF), et selon laquelle la juste valeur marchande du bien JDF à ce moment était de 1 295 000 $ (TVH en sus) [6] .
+F. 2766, Tudor Avenue
+[24] En novembre 2013, M. Swift et Mme Kirkby ont fait l’achat d’une maison située au 2766, Tudor Avenue, dans laquelle ils ont emménagé en quittant le bien JDF. Le prix d’achat de la maison était de 885 000 $. La maison n’était pas en bon état; certaines pièces contenaient des moisissures. De plus, la maison comportait une aile disgracieuse que M. Swift a retirée. D’autres rénovations ont également été faites.
+[25] Les difficultés conjugales antérieures du couple sont réapparues; M. Swift et Mme Kirkby se sont séparés en 2016 et ont divorcé en 2017. En juillet 2017, dans le cadre de la dissolution des biens du mariage, M. Swift et Mme Kirkby ont vendu la maison de Tudor Avenue pour 1 900 000 $.
+III. QUESTIONS EN LITIGE
+[26] Les questions en litige soulevées dans le présent appel sont les suivantes :
+a) M. Swift était-il un constructeur (selon la définition du paragraphe 123(1) de la LTA) du bien JDF?
+b) Si M. Swift était un constructeur du bien JDF et si la règle sur la fourniture à soi-même prévue par le paragraphe 191(1) de la LTA se serait autrement appliquée quand M. Swift a occupé le bien JDF comme lieu de résidence, comme le prévoit le paragraphe 191(1) de la LTA, est-ce que l’exception pour utilisation personnelle prévue par le paragraphe 191(5) de la LTA pouvait être utilement invoquée par M. Swift?
+IV. ANALYSE
+[27] En guise d’aperçu général, si une personne qui n’est pas un constructeur (selon la définition du paragraphe 123(1) de la LTA) construit une maison pour son utilisation personnelle (c.-à-d. pas dans le cadre d’une entreprise ou d’une affaire de caractère commercial), aucune TPS n’est exigible. Si un constructeur construit une maison pour la vendre à un acheteur, le constructeur est tenu de percevoir la TPS auprès de l’acheteur à l’égard de la contrepartie payée par l’acheteur pour la maison. Si le constructeur est un particulier et si le constructeur occupe la maison avant de la vendre à un acheteur, la règle sur la fourniture à soi-même prévue par le paragraphe 191(1) de la LTA peut exiger du constructeur qu’il calcule et verse la TPS/TVH à l’égard de la juste valeur marchande de la maison. Toutefois, si le constructeur construit la maison et l’utilise principalement comme lieu de résidence pour lui-même, et non à d’autres fins, l’exception pour utilisation personnelle prévue par le paragraphe 191(5) de la LTA fait obstacle à l’application de la règle sur la fourniture à soi-même [7] .
+A. M. Swift était-il un constructeur, selon la définition figurant au paragraphe 123(1)?
+[28] En 2013, quand M. Swift a vendu le bien JDF, le paragraphe 123(1) de la LTA donnait la définition suivante du mot « constructeur » :
+« constructeur » Est constructeur d’un immeuble d’habitation […] la personne qui, selon le cas :
+a) réalise, elle-même ou par un intermédiaire, à un moment où elle a un droit sur l’immeuble sur lequel l’immeuble d’habitation est situé :
+(i) [s.o.];
+(ii) [s.o.];
+(iii) dans les autres cas, la construction ou des rénovations majeures de l’immeuble d’habitation;
+N’est pas un constructeur :
+f) le particulier visé aux alinéas a), b) ou d) qui, en dehors du cadre d’une entreprise, d’un projet à risques ou d’une affaire de caractère commercial :
+(i) soit construit ou fait construire l’immeuble d’habitation ou l’adjonction, ou y fait ou y fait faire des rénovations majeures,
+(ii) soit acquiert l’immeuble ou un droit afférent; [...]
+[29] Comme M. Swift, à une époque où il avait un droit afférent sur le lot JDF, a construit la maison JDF, et a engagé TSC pour l’aider dans la construction, il était, aux termes de l’alinéa a) de la définition du mot « constructeur » au paragraphe 123(1) de la LTA, un constructeur du bien JDF, à moins qu’il ne soit visé par l’exclusion énoncée à l’alinéa f) de cette définition. Comme M. Swift est un particulier, il est admissible à l’exclusion, à moins qu’il n’ait réalisé la construction, ou engagé TSC pour réaliser la construction, de la maison JDF dans le cadre d’une entreprise, d’un projet à risques ou d’une affaire de caractère commercial.
+[30] Même si les définitions respectives du mot « entreprise » dans la LTA et dans la Loi de l’impôt sur le revenu (la « LIR ») [8] comportent certaines ressemblances, elles présentent aussi quelques différences. Principalement, la définition du mot « entreprise » dans la LIR dispose que, sauf à certaines fins précises, le mot « entreprise » inclut un projet comportant un risque ou une affaire de caractère commercial; toutefois, la définition du mot « entreprise » dans la LTA ne contient pas cette inclusion particulière. Aux fins des présents motifs, sans prendre une décision définitive à cet égard, je présumerai que le mot « entreprise », selon la définition de la LTA, n’inclut pas un projet comportant un risque ou une affaire de caractère commercial. Cette hypothèse est conforme au libellé de la dernière partie du paragraphe f) de la définition de « constructeur » citée ci-dessus [9] .
+[31] Selon mon appréciation des éléments de preuve, il est clair qu’après la constitution en société de TSC en 1997, les anciennes activités commerciales de développement et de construction de M. Swift ont été réalisées par TSC, et non plus par M. Swift personnellement. Comme je l’ai noté ci-dessus, TSC a fréquemment conclu des arrangements en coentreprise avec Citta. Rien n’indique qu’après 1997, M. Swift ait personnellement participé à des coentreprises avec Citta, ou entrepris des projets de développement ou de construction à titre d’unique propriétaire. Par conséquent, je conclus que M. Swift n’a pas, dans le cadre d’une entreprise, construit ou fait construire par TSC la maison JDF. Même si TSC a aidé à la construction de la maison JDF dans le cadre d’une entreprise (c’est-à-dire sa propre entreprise), M. Swift n’y a pas participé.
+[32] Quant à la question de savoir si M. Swift, en construisant la maison JDF, pourrait avoir participé à un projet comportant un risque ou une affaire de caractère commercial, il est utile d’examiner certains arrêts et décisions faisant jurisprudence dans le domaine. Dans la décision Happy Valley Farms, le juge Rouleau a noté que l’analyse la plus complète de la signification de l’expression « projet comportant un risque de caractère commercial » [10] se trouvait dans l’arrêt Taylor [11] . Citant l’arrêt Taylor, le juge Rouleau a observé :
+13. [...] L’examen le plus complet de l’expression « projet comportant un risque de caractère commercial » se trouve dans l’arrêt Minister of National Revenue v. Taylor, 56 DTC 1125, [1956] C.T.C. 189 (C. de l’Éch.), dans lequel la Cour a énoncé un certain nombre de critères devant s’appliquer afin de déterminer dans quels cas une opération, qui ne constitue pas en soi un commerce ou une entreprise, peut être considérée comme « un projet comportant un risque ou une affaire de caractère commercial ». La décision [Taylor] montre clairement que dans des cas de ce genre, il s’agit de savoir si le bien a ou non été acquis par le contribuable à titre d’investissement. [...] Pour déterminer si un bien a été acquis à titre d’investissement, il faut tenir compte de tous les faits de l’affaire en cause, et notamment du comportement du contribuable, de la nature du bien en cause, de la probabilité qu’un revenu soit tiré du bien sans qu’il soit nécessaire de revendre celui-ci et de la ressemblance de l’opération en question avec une opération commerciale [12] .
+[33] Le juge Rouleau a ensuite procédé à l’énumération de sa propre liste de six facteurs (ou critères, selon le terme qu’il a employé) tirés de divers jugements qu’il est possible d’utiliser pour déterminer si un gain constitue un revenu ou s’il est imputable au capital. Ces facteurs ou critères sont également pertinents pour ce qui est de déterminer si un gain ou une perte en particulier découle d’un projet comportant un risque de caractère commercial, ou si une opération ou série d’opérations en particulier représente un projet comportant un risque de caractère commercial. Les six expressions utilisées par le juge Rouleau pour décrire ces facteurs sont énumérées ci-dessous (sans les observations formulées par le juge Rouleau pour chaque facteur) :
+a) La nature du bien qui est vendu;
+b) La durée de la possession;
+c) La fréquence ou le nombre d’opérations similaires effectuées par le contribuable;
+d) Les améliorations faites sur le bien converti en espèces ou se rapportant à pareil bien;
+e) Les circonstances qui ont entraîné la vente du bien;
+f) Le motif [13] .
+[34] Le juge Rouleau a ensuite observé au sujet du motif ou de l’intention, qui constitue le dernier critère de sa liste :
+15. Tous les facteurs précités ont été examinés par les tribunaux, mais c’est le dernier facteur, soit le motif ou l’intention, qui a été le plus étudié. Ce facteur, en plus de l’examen du comportement du contribuable dans son ensemble lorsqu’il avait le bien en sa possession, constitue ce qui, en fin de compte, influe sur la conclusion de la Cour.
+16. Ce critère a été précisé par les tribunaux canadiens et est devenu ce qui est généralement appelé le critère de l’« intention secondaire ». Cela a voulu dire, dans certains cas, que même s’il pouvait être établi que le contribuable avait principalement l’intention d’effectuer un investissement, un gain retiré par suite de la vente du bien serait jugé imposable à titre de revenu si la cour croyait qu’au moment de l’acquisition, le contribuable envisageait la possibilité de vendre le bien si pour quelque raison que ce soit, son projet d’investissement ne se matérialisait pas [14] . [italiques dans l’original.]
+[35] Dans l’arrêt Canada Safeway, la Cour d’appel fédérale a expliqué le critère de l’« intention secondaire » de cette façon :
+On peut dégager de ces décisions quelques principes qui peuvent, à mon avis, être résumés comme suit. Premièrement, il n’est pas facile de tracer une ligne de démarcation entre les revenus et les gains en capital et il est donc nécessaire, pour bien les distinguer, de tenir compte d’une foule de facteurs, et notamment de l’intention du contribuable au moment de l’acquisition du bien en litige. Deuxièmement, pour que l’opération soit considérée comme un projet comportant un risque de caractère commercial, il faut qu’au moment de l’acquisition, le contribuable ait eu à l’esprit la possibilité de revendre comme motif qui le poussait à faire cette acquisition. La conclusion qu’une telle motivation existe devrait être basée sur des inférences découlant des circonstances qui entourent la transaction. Autrement dit, c’est toute la conduite du contribuable qu’il faut apprécier. Troisièmement, en ce qui concerne l’« intention secondaire », celle-ci doit aussi avoir existé au moment de l’acquisition du bien et le contribuable doit avoir été motivé par l’intention secondaire de le revendre avec bénéfice au cas où une occasion intéressante se présenterait. Quatrièmement, le fait que le contribuable envisageait la possibilité de revendre son bien ne suffit pas, en soi, pour conclure à l’existence d’un projet comportant un risque de caractère commercial. Dans leur ouvrage Principles of Canadian Income Tax Law, précité, les éminents auteurs expriment l’avis, dans leur analyse du critère applicable en ce qui a trait à l’existence d’une « intention secondaire », que [traduction] « les critères de la doctrine de l’intention secondaire ne seront respectés que si la perspective de revente à profit a joué un rôle important dans la décision d’acquérir le bien » [...]. Je souscris entièrement à cette proposition. Cinquièmement, le témoignage du contribuable au sujet de son intention n’est pas déterminant et doit être examiné à la lumière de l’ensemble des circonstances [15] .
+[36] Mme Kirkby et M. Swift étaient des témoins crédibles et fiables. Leur déposition verbale appuyait leur position, selon laquelle la possibilité de revendre le bien JDF n’a pas été une motivation déterminante pour l’achat et la construction par M. Swift et Mme Kirkby de ce bien, et qu’au moment d’acquérir le bien JDF, l’intention secondaire de le vendre n’a pas été une motivation déterminante dans l’acquisition. Toutefois, comme je l’ai noté ci-dessus, un témoignage de ce type n’est pas déterminant, et doit être examiné à la lumière de l’ensemble des circonstances.
+[37] Une bonne façon d’examiner ces circonstances est de tenir compte de la liste des critères consacrés par le juge Rouleau dans l’arrêt Happy Valley Farms, et énoncés au paragraphe 33 ci-dessus.
+(1) La nature du bien
+[38] En ce qui concerne la nature du bien JDF, il s’agissait (une fois la construction achevée) d’un lot avec une maison, devant servir de résidence, et être utilisée à des fins personnelles. En fait, M. Swift a parlé de cette maison comme de la maison de ses rêves [16] . Il a décrit le lot JDF comme [traduction] « un terrain magnifique » [17] qu’il a [traduction] « tout de suite aimé » [18] et qui offrait un [traduction] « endroit où vivre beaucoup plus chaud » que le 2708, Digby Place [19] . Avant d’acheter le lot JDF, M. Swift et Mme Kirkby ont visité souvent le terrain, où il conservait des chaises de parterre pour y boire un verre de vin et admirer le coucher de soleil [20] . M. Swift a construit [traduction] « une maison haut de gamme personnalisée » sur le lot JDF [21] . Il ressort de ces faits que le bien JDF a été acquis pour leur usage personnel, et non dans le but de le vendre [22] . Autre indice de l’élément usage personnel, la maison JDF a été conçue et construite selon les préférences de M. Swift et de Mme Kirkby et les besoins de leur famille [23] . Par exemple, la maison a été conçue pour permettre de grands rassemblements familiaux [24] ; les chambres des filles de Mme Kirkby et de M. Swift étaient [traduction] « assez distantes » de la chambre des maîtres et possédaient leur propre salle de bain [25] ; les filles ont choisi les lampes, les accessoires et les couleurs des chambres des filles et de la salle de bain [26] ; la maison comportait plusieurs terrasses, y compris une petite terrasse à l’extérieur des chambres des filles [27] ; il y avait une chambre supplémentaire et une salle de bain (en plus d’un logement) dans le sous-sol [28] ; au lieu de placer la salle de lavage au sous-sol, on l’a mise au rez-de-chaussée entre la chambre des maîtres et les chambres des filles [29] ; une salle de bain utilitaire était facilement accessible depuis l’extérieur [30] ; une trappe dans la porte de la cuisine permettait au chat d’entrer [31] ; il y avait une vaste entrée en céramique pouvant recevoir le lit du chien et ses bols de nourriture (et d’eau), et résister à ses pattes sales [32] .
+(2) La durée de la possession
+[39] En ce qui concerne la durée de la possession, le juge Rouleau a noté que, même s’il existe de nombreuses exceptions, en règle générale, les biens destinés à faire l’objet d’un commerce (c.-à-d. à être vendus) sont convertis en espèces peu de temps après avoir été acquis [33] . Or, tel n’était pas le cas en l’espèce. M. Swift et Mme Kirkby ont fait l’acquisition du lot JDF en octobre 2009, la maison JDF a été construite entre décembre 2009 et novembre 2010, et le bien JDF a été vendu en juin 2013, avec une date de clôture fixée au 30 octobre 2013. En comparaison, M. Swift a affirmé dans son témoignage qu’en règle générale, TSC avait l’habitude, une fois la construction d’un immeuble achevée, de le vendre le plus rapidement possible [34] .
+(3) La fréquence ou le nombre d’opérations similaires
+[40] En ce qui concerne le troisième facteur (c.-à-d., la fréquence ou le nombre d’opérations similaires), le juge Rouleau a noté que si des biens d’une catégorie particulière ont été vendus à maintes reprises pendant un certain nombre d’années, on peut présumer qu’il s’agissait d’opérations commerciales [35] . Durant la période couverte par l’ECF (une période de 23 ans allant de 1994 à 2017), M. Swift et Mme Kirkby ont acheté puis revendu cinq maisons, les cinq ventes ayant eu lieu en 1999, en 2004, en 2010, en 2013 et en 2017 respectivement. Même si cette succession d’achats et de ventes pourrait indiquer que la présomption décrite par le juge Rouleau s’applique peut-être, la fréquence des ventes en l’espèce est beaucoup moindre que celle notée dans de nombreux autres appels. Par exemple, dans la décision Wall, le contribuable a vendu la première maison en cause après en avoir eu possession pendant environ 16 mois, la deuxième maison après en avoir eu possession pendant environ 21 mois et la troisième maison après en avoir eu possession pendant environ 16 mois [36] .
+(4) Les améliorations faites sur le bien
+[41] Dans ses observations concernant le quatrième facteur (les améliorations faites sur le bien), le juge Rouleau a affirmé que si le contribuable s’efforce de mettre le bien dans un état qui lui permette de le vendre plus facilement pendant qu’il en est propriétaire, la chose tend à prouver l’existence d’une opération commerciale [37] . Il est facile de constater que M. Swift et Mme Kirkby ont mis le lot JDF dans un état permettant de le vendre plus facilement en y construisant une maison haut de gamme. De même, sauf peut-être pour la maison située au 3921, Scolton Road (où les seules améliorations apportées par M. Swift se sont résumées à la construction d’un atelier ou d’un bureau dans la cour), M. Swift a également fait des améliorations importantes à chacune des maisons mentionnées ci-dessus, ou construit (ou fait construire par TSC) une maison sur chacun de ces terrains. Ce facteur pourrait donc être vu comme apportant une certaine preuve de l’existence d’une opération commerciale concernant ces résidences.
+(5) Les circonstances qui ont entraîné la vente du bien
+[42] En ce qui concerne le cinquième facteur, les circonstances ayant entraîné la vente du bien, le juge Rouleau a affirmé qu’il « peut exister certaines explications, comme un cas urgent ou une occasion nécessitant de l’argent en espèces, qui feront qu’il sera impossible de conclure que le bien a initialement été acquis à des fins commerciales » [38] . Tel était le cas pour le bien JDF, de même que pour chacun des autres biens qu’ont possédés M. Swift et Mme Kirkby.
+[43] M. Swift a expliqué que la récession qui avait frappé d’autres parties de l’Amérique du Nord en 2008 est arrivée plus tard à Victoria. En tant que petite entreprise de construction, TSC était particulièrement vulnérable. Dans les années précédentes, la rentabilité de TSC suivait un cycle. Quand elle achetait des terrains et des matériaux pour un nouveau lotissement ou un autre projet, TSC ne faisait habituellement qu’un modeste profit ou une perte à l’occasion. Ensuite, dans l’année durant laquelle le lotissement ou le projet était achevé et que les maisons étaient vendues, TSC réalisait de plus gros profits, ce qui lui permettait de rembourser sa dette à la banque et de disposer d’espèces pour le prochain projet. Toutefois, ce cycle a été interrompu en 2010, la première de trois années consécutives de pertes pour TSC [39] . Au début, M. Swift a pensé que le piètre rendement financier de TSC en 2010 faisait simplement partie du cycle normal, et que les choses changeraient en 2011 ou en 2012 [40] . Toutefois, TSC a continué de subir des pertes en 2011 et 2012 [41] .
+[44] Je retiens les témoignages de M. Swift et de Mme Kirkby, selon lesquels la raison de la vente du bien JDF était liée aux circonstances financières difficiles dans lesquelles TSC et eux-mêmes se sont retrouvés à la suite du ralentissement dans l’industrie de la construction à Victoria en 2012 et en 2013 [42] . Durant ces temps difficiles, M. Swift a emprunté d’importantes sommes et versé les fonds empruntés à TSC, dans un effort en vue de maintenir la viabilité des activités de TSC [43] . Quand le service de la dette est devenu trop élevé, M. Swift a craint la faillite [44] et M. Swift et Mme Kirkby ont vendu le bien JDF et utilisé le produit de la vente pour rembourser la dette à la banque et acheter une maison qui ne valait que la moitié de la valeur du bien JDF.
+[45] Je retiens également les explications données au sujet de la vente des autres résidences appartenant à M. Swift et à Mme Kirkby :
+a) la maison du 3900, Scolton Road a été vendue parce que M. Swift et Mme Kirkby se sont séparés en 1998, et que des incertitudes demeuraient après leur réconciliation quant à la longévité de leur mariage;
+b) la maison du 3921, Scolton Road a été vendue parce que la possibilité d’acheter le 3950, Telegraph Bay Road s’est présentée, et qu’ils avaient besoin d’argent comptant, qu’ils ont obtenu en vendant le 3921, Scolton Road;
+c) la maison du 2708, Digby Place a été vendue parce que M. Swift a pu profiter d’une occasion inattendue d’acheter le lot JDF vacant et d’y construire la maison de leurs rêves, et qu’il avait besoin d’argent comptant;
+d) la maison du 2766, Tudor Avenue a été vendue à la suite du divorce de M. Swift et de Mme Kirkby et parce qu’il fallait dissoudre les biens du mariage.
+(6) Motif ou intention
+[46] En ce qui concerne le sixième facteur, le motif ou l’intention, le juge Rouleau a affirmé que l’intention du contribuable au moment de l’acquisition d’un bien, « déduite à partir des circonstances et de la preuve directe, constitue l’un des éléments les plus importants aux fins de la détermination de la question de savoir si un gain constitue un revenu ou s’il est imputable au capital » [45] . Je retiens ce qu’ont affirmé M. Swift et Mme Kirkby dans leur déposition verbale (que j’ai jugée cohérente avec les circonstances et autres éléments de preuve), que leur motif ou intention en achetant le lot JDF était d’y construire la maison de leurs rêves, où ils entendaient habiter pour une longue période [46] . Alors que M. Swift a [traduction] « tout de suite aimé » le lot JDF quand il a vu qu’il était en vente, il a fallu un peu plus de temps à Mme Kirkby pour acheter le rêve, parce qu’elle hésitait à s’endetter davantage et à déménager de nouveau [47] , même si M. Swift [traduction] « a commencé à s’enthousiasmer à l’idée de construire cette maison de rêve, ce truc moderne de style côte ouest » [48] .Toutefois, lorsqu’elle a visité le terrain, avec ses roches, ses chênes de Garry et sa mousse, qu’elle a dit [traduction] « aimer », qu’elle a parlé avec M. Swift de ses plans pour construire la maison de leurs rêves, [traduction] « où elle serait située et à quoi elle ressemblerait », et vu quelques dessins que M. Swift avait commencé à esquisser, montrant une [traduction] « maison moderne de style côte ouest », qui à ses yeux [traduction] « semblait super », elle a [traduction] « finalement acheté le rêve elle aussi » [49] .
+(7) Résumé
+[47] Même si le fait que M. Swift ait amélioré, rénové ou construit une maison sur chacun des terrains [50] mentionnés ci-dessus va quelque peu dans le sens de l’existence d’une opération commerciale concernant ces résidences, les autres facteurs (la nature de chaque bien, la durée de la possession, la fréquence ou le nombre d’opérations, les circonstances ayant mené à la vente de chaque bien et le motif ou l’intention derrière l’achat du bien JDF et des autres biens) confirment une intention d’usage personnel plutôt qu’une intention de vente.
+(8) Autres circonstances
+[48] Durant le contre-interrogatoire de Mme Kirby, elle a déclaré que lorsqu’elle avait vu la maison du 2766, Tudor Avenue (après avoir réalisé qu’il devenait nécessaire de vendre le bien JDF), elle l’avait aimée, puisqu’elle était située dans un bon secteur et qu’elle était offerte à un bon prix. De plus, dans son esprit, le terrain pouvait être subdivisé, ce qui a contribué à atténuer certaines de ses préoccupations financières; elle a pensé que lorsqu’elle et M. Swift prendraient leur retraite, ils pourraient subdiviser le terrain de Tudor Avenue et en vendre une partie pour avoir un peu d’argent pour leur retraite [51] . Les éléments de preuve n’étaient pas suffisants pour établir que la possibilité d’un futur lotissement du terrain de Tudor Avenue constituait une motivation déterminante ou un facteur important dans la décision de faire l’acquisition de ce bien. De plus, même si l’idée d’un lotissement était à l’esprit de Mme Kirkby, rien n’indique que M. Swift entretenait la même idée concernant le terrain de Tudor Avenue. De plus, même si l’idée ou l’intention d’un lotissement s’appliquait dans le cas du terrain de Tudor Avenue, cette intention ne pouvait être transférée au bien JDF [52] .
+[49] Durant l’audience, des éléments de preuve ont été présentés concernant le financement hypothécaire qu’utilisaient régulièrement M. Swift et Mme Kirkby. En général, chacune de leurs maisons a été grevée d’une importante hypothèque. Je ne crois pas que l’usage fait par M. Swift du financement hypothécaire constitue un indice démontrant qu’il s’est engagé dans un projet comportant un risque de caractère commercial quand lui et Mme Kirkby ont acheté le bien JDF. Comme je l’ai indiqué ci-dessus, durant toute sa carrière d’entrepreneur, M. Swift a utilisé en général la valeur nette de sa maison en guise de garantie pour obtenir un financement institutionnel, qu’il reprêtait ensuite à TSC pour ses besoins opérationnels. Cette façon de faire est commune à bon nombre de propriétaires de petites entreprises et, à mon avis, n’indique pas que l’achat d’une maison et l’obtention d’une hypothèque sur cette maison démontrent un projet comportant un risque de caractère commercial. Bon nombre de Canadiens ont une hypothèque sur leur maison, même ceux qui ne sont pas propriétaires d’une petite entreprise.
+[50] Il convient également de mentionner que certains des prêts hypothécaires consentis à M. Swift par la caisse de crédit avaient une valeur nominale beaucoup plus élevée que la somme avancée par la caisse de crédit pour ces prêts hypothécaires [53] . Il n’est pas inhabituel pour une institution financière de demander que la valeur nominale d’un prêt hypothécaire soit supérieure à la somme que le débiteur hypothécaire entendait initialement emprunter. Une telle pratique permet que des avances supplémentaires sous forme de prêts puissent être faites à une date ultérieure, sans qu’il ne soit nécessaire d’inscrire une nouvelle hypothèque. Par conséquent, je ne crois pas que l’écart entre la valeur nominale de certains des prêts hypothécaires consentis à M. Swift par la caisse de crédit et la somme réellement avancée par la caisse de crédit constitue un indice d’un projet comportant un risque de caractère commercial.
+[51] Par conséquent, je conclus que la série d’opérations liées à l’achat du lot JDF en 2009, à la construction de la maison JDF en 2010 et à la vente du bien JDF en 2013 n’était pas un projet comportant un risque de caractère commercial. Par conséquent, M. Swift n’était pas un constructeur (selon la définition du paragraphe 123(1) de la LTA) du bien JDF.
+B. Règle sur la fourniture à soi-même prévue par le paragraphe 191(1)
+[52] Au cas où je ferais erreur en concluant que M. Swift n’était pas un constructeur du bien JDF, je me pencherai sur la question de savoir s’il est assujetti à la règle sur la fourniture à soi-même prévue par le paragraphe 191(1) de la LTA. En 2013, les portions pertinentes de cette disposition étaient ainsi libellées :
+191 (1) Pour l’application de la présente partie, lorsque les conditions suivantes sont réunies :
+a) la construction [...] d’un immeuble d’habitation – immeuble d’habitation à logement unique ou logement en copropriété – [est achevée] en grande partie,
+b) le constructeur de l’immeuble :
+(i) [s.o.];
+(ii) [s.o.],
+(iii) soit, s’il est un particulier, occupe lui-même l’immeuble à titre résidentiel,
+c) le constructeur […] est le premier à occuper une telle habitation à titre résidentiel après que les travaux sont achevés en grande partie,
+le constructeur est réputé :
+d) avoir effectué et reçu, par vente, la fourniture taxable de l’immeuble le jour où les travaux sont achevés en grande partie ou, s’il est postérieur, le jour où [...] l’habitation est occupée par lui;
+e) avoir payé à titre d’acquéreur et perçu à titre de fournisseur, au dernier en date de ces jours, la taxe relative à la fourniture, calculée sur la juste valeur marchande de l’immeuble ce jour-là.
+[53] Si M. Swift était un constructeur du bien JDF, l’autre critère de la règle sur la fourniture à soi-même prévue par le paragraphe 191(1) de la LTA a été rempli (soit que les travaux de construction de la maison JDF ont été achevés en grande partie le ou avant le 2 novembre 2010, M. Swift (qui est un particulier) a occupé la maison JDF à titre résidentiel le ou avant le 2 novembre 2010, et il a été le premier à occuper la maison JDF à titre résidentiel après que les travaux eurent été achevés en grande partie). Donc, si M. Swift était un constructeur du bien JDF, le paragraphe 191(1) exigerait qu’il calcule et verse la TPS/TVH. Par conséquent, il devient nécessaire de déterminer si l’exception pour utilisation personnelle, prévue par le paragraphe 191(5) de la LTA, s’appliquait.
+C. Exception pour utilisation personnelle prévue par le paragraphe 191(5)
+[54] Le paragraphe 191(5) de la LTA prévoit une exception à la règle sur la fourniture à soi-même prévue par le paragraphe 191(1) de la LTA, à condition que certaines exigences soient satisfaites. En 2013, le paragraphe 191(5) était ainsi libellé :
+Les paragraphes (1) à (4) ne s’appliquent pas au constructeur d’un immeuble d’habitation [...] si :
+a) le constructeur est un particulier;
+b) à un moment donné après que la construction [...] de l’immeuble [...] [est achevée] en grande partie, l’immeuble est utilisé principalement à titre résidentiel par le particulier, son ex-époux ou ancien conjoint de fait ou un particulier lié à ce particulier;
+c) l’immeuble n’est pas utilisé principalement à une autre fin entre le moment où les travaux sont achevés en grande partie et le moment donné;
+d) le particulier n’a pas demandé de crédit de taxe sur les intrants relativement à l’acquisition de l’immeuble ou aux améliorations qui y ont été apportées.
+Lorsque le paragraphe 191(5) s’applique, la règle sur la fourniture à soi-même prévue par le paragraphe 191(1) ne s’applique pas, si le particulier, qui est un constructeur, a, sans demander de CTI, construit une maison pour son utilisation personnelle, c’est-à-dire principalement à titre résidentiel.
+[55] Au paragraphe 29 de l’avis d’appel, M. Swift a affirmé que ni lui ni Mme Kirkby n’avaient demandé de CTI relativement à la construction de la maison JDF. Cette déclaration a été reconnue par la Couronne au paragraphe 2 de la réponse. Ainsi, je comprends que M. Swift n’a pas demandé de CTI relativement à l’acquisition et à la construction du bien JDF [54] .
+[56] Pour déterminer si l’exception pour utilisation personnelle prévue à la règle sur la fourniture à soi-même s’applique, la principale question à trancher est celle de savoir si le bien JDF a été utilisé principalement à titre résidentiel par M. Swift, Mme Kirkby et leur famille (voir alinéa 191(5)b) de la LTA) ou si le bien JDF a été utilisé principalement à d’autres fins (voir alinéa 191(5)c) de la LTA), notamment comme inventaire d’une entreprise ou comme bien visé par un projet comportant un risque de caractère commercial [55] .
+[57] En ce qui concerne l’exception pour utilisation personnelle, l’avocat de la Couronne m’a cité cette jurisprudence : Lacina [56] , Nagra [57] et Martinuzzi [58] . Elle concernait des constructeurs qui avaient construit des maisons, qu’ils ont occupées durant de très courtes périodes, habituellement mesurées en mois plutôt qu’en années, de telle sorte que ces affaires se distinguent de la situation de M. Swift, puisque lui et Mme Kirkby ont habité dans chacune de leurs maisons pour une période de trois à cinq ans.
+[58] Bien que les faits de l’affaire Lacina ne sont pas complètement identiques à ceux du présent appel, cette jurisprudence est utile à l’interprétation et à l’application des alinéas 191(5)b) et c) de la LTA. Dans la décision de la division d’appel de la Cour fédérale, le juge Head a observé ce qui suit :
+16. Il reste à déterminer si, en l’espèce, il a été satisfait aux critères b) et c) [du paragraphe 195(5)]. Le requérant prétend que le mot « principalement », tel qu’il est utilisé au par. 191(5), renvoie à l’espace servant de résidence et non à la qualité durable de la résidence établie dans un tel espace. Pour sa part, l’intimée soutient que l’utilisation du mot « principalement » dans le présent contexte renvoie à une intention personnelle de vivre en permanence dans l’immeuble et non de le considérer comme simple stock de marchandises ou, autrement dit, comme s’il s’agissait d’un actif à vendre.
+17. Je souscris à l’interprétation qu’a proposée l’avocate de l’intimée. Les règles sur la fourniture à soi-même ont été conçues pour empêcher le constructeur de retirer un avantage de l’occupation d’un immeuble d’habitation, lequel fait partie de son inventaire pendant une courte période en précédant la vente [59] .
+[59] En ce qui concerne l’observation qui précède du juge Heald, j’interprète l’expression « une intention personnelle de vivre en permanence dans l’immeuble », comme renvoyant à une intention de vivre dans une habitation donnée pour une durée indéterminée. Il n’est pas inhabituel dans notre société qu’une personne qui prend sa retraite choisisse de déménager dans une maison plus petite, et ensuite dans une résidence avec services de soutien et en bout de ligne dans une maison de retraite. Je ne crois pas qu’une personne qui envisage une telle séquence ne pourrait satisfaire au critère énoncé à l’alinéa 191(5)b) de la LTA.
+[60] Dans des motifs concordants dans l’arrêt Lacina, le juge Marceau a observé :
+22. Avec égards, j’estime que la prétention du requérant selon laquelle l’expression [utilisé principalement à titre résidentiel] renvoie strictement à l’espace de la maison servant de résidence personnelle et non à la qualité durable de l’utilisation de celle-ci est tout simplement mal fondée. L’interprétation que le requérant donne à l’expression n’a pas beaucoup de sens compte tenu de l’intention qu’avait le législateur fédéral en promulguant l’exemption pour utilisation personnelle, laquelle considère que la personne qui construit exceptionnellement pour elle-même n’est pas un constructeur en l’exemptant de la règle sur la fourniture à soi-même. Il s’agit d’une disposition dont l’objectif même consiste à éliminer tout avantage fiscal que le constructeur retirerait de l’occupation d’un immeuble résidentiel pendant une courte période, avant de le vendre. La seule façon d’avoir un système fiscal logique comprenant les règles générales suivantes fondées sur une distinction raisonnée entre les transactions d’immeubles résidentiels qui sont assujetties à la TPS et celles qui ne le sont pas est de considérer que le mot “ principalement ” fait référence à l’intention principale du constructeur d’utiliser la maison en tant que résidence personnelle et non comme simple stock de marchandises :
+• Toute personne qui construit elle-même une maison pour son usage personnel, qu’elle soit ou non considérée comme un “ constructeur ” aux termes de la Loi, n’est pas exemptée de la TPS sur la valeur ajoutée par l’assemblage et la construction, même si elle paye la TPS à l’achat des matériaux. Si la personne n’est pas un “ constructeur “, elle n’est pas assujettie à la règle sur la fourniture à soi-même prévue au par. 191(1). Si elle est un “ constructeur “, elle bénéficie de l’exemption prévue au par. 191(5).
+• Le “ constructeur “ qui construit une maison en vue de la vendre à un tiers acheteur doit percevoir la TPS sur la vente de la maison à sa juste valeur marchande, que le constructeur l’ait occupé temporairement ou non avant de la vendre. S’il s’agit d’une vente directe, le constructeur doit percevoir la TPS de l’acheteur. Si le constructeur est la première personne à occuper la maison, il doit percevoir la TPS sur la vente qu’il est réputé s’être fait à lui-même aux termes des règles sur la fourniture à soi-même. La vente ultérieure de la maison à l’acheteur constituerait alors une fourniture exemptée. Dans les deux cas, le constructeur a le droit de déposer une demande de crédit de taxe sur les intrants afin de diminuer le montant de la TPS qu’il devra payer [60] .
+[61] En ce qui concerne l’affaire Coates, le juge Hogan a donné l’explication suivante concernant le paragraphe 191(5) de la LTA :
+13. Il est important de souligner que les critères établis dans Happy Valley Farms n’ont aucun poids lorsqu’il est question d’établir si l’exception prévue au paragraphe 191(5) s’applique. Je fais la remarque parce que l’avocat de l’intimée a fondé son argumentation sur un bon nombre de décisions qui, à mon avis, ne tiennent pas compte de ce fait.
+14. Il ressort clairement du libellé du paragraphe 191(5) qu’un critère différent doit être appliqué. Suivant cette disposition, le particulier (qui est un constructeur au sens de la Loi) doit être le premier à utiliser le bien à titre résidentiel. Il suffit donc simplement de trancher la question factuelle de savoir si le bien a été utilisé comme maison familiale une fois les travaux achevés en grande partie. L’intention secondaire de vendre le bien ultérieurement n’entre pas en compte lorsqu’il est question d’établir si l’exception prévue au paragraphe 191(5) s’applique.
+15. Par définition, un particulier est un constructeur seulement si le bien a été construit dans le cadre d’une entreprise, d’un projet à risque ou d’une affaire à caractère commercial. Si la maison a été construite par le particulier pour des raisons purement personnelles, la règle de la « fourniture à soi‑même » ne s’applique pas au départ. L’exception est applicable seulement après qu’on a établi que le particulier est un constructeur. Par conséquent, on ne peut pas interpréter l’exception comme exigeant que le bien ait été construit uniquement pour des raisons purement personnelles. Cela signifie qu’un particulier peut tirer avantage de l’exception, même s’il a l’intention secondaire, au moment de la construction du bien, de vendre le bien, à condition qu’il l’utilise d’abord lui‑même à titre résidentiel après que la construction est achevée [61] . [Renvoi omis.]
+[62] Comme je l’ai indiqué plus haut, j’ai conclu que M. Swift n’était pas un constructeur. Toutefois, si j’ai fait erreur, il ressort clairement des éléments de preuve que M. Swift, Mme Kirkby et leur famille ont occupé le bien JDF et en ont fait leur maison familiale. Autrement dit, ils ont utilisé le bien JDF principalement à titre résidentiel. Ainsi, M. Swift a satisfait au critère consacré par la jurisprudence Coates.
+[63] Le critère consacré par la jurisprudence Coates n’est pas libellé précisément comme celui de la jurisprudence Lacina, mais même aux termes de ce dernier, M. Swift se qualifie pour l’exception pour utilisation personnelle prévue par le paragraphe 191(5) de la LTA. Selon ma compréhension des éléments de preuve, quand M. Swift et Mme Kirkby, avec leur famille, ont emménagé dans le bien JDF, ils avaient l’intention d’y habiter pour une durée indéterminée. Autrement dit, ils espéraient que leur utilisation du bien JDF aurait une qualité durable. Aux fins des critères consacrés par la jurisprudence Lacina, la principale intention de M. Swift et de Mme Kirkby était d’utiliser le bien JDF comme leur résidence personnelle, et non simplement comme un stock de marchandises. Rien n’indique que M. Swift et Mme Kirkby ont conservé le bien JDF comme inventaire d’une entreprise, ou comme l’objet d’un projet comportant un risque de caractère commercial.
+[64] En résumé, ma conclusion est la suivante :
+a) aux fins de l’alinéa 191(5)b) de la LTA, une fois la construction de la maison JDF achevée en grande partie, et jusqu’à ce qu’elle soit vendue, elle a été utilisée principalement comme lieu de résidence par M. Swift, Mme Kirkby et leurs enfants;
+b) aux fins de l’alinéa 191(5)c) de la LTA, la maison JDF n’a pas été utilisée principalement à une autre fin (autre que comme lieu de résidence) entre le moment où sa construction a été achevée en grande partie et le moment où elle a été vendue.
+[65] Par conséquent, si je fais erreur en concluant que M. Swift n’était pas un constructeur du bien JDF, il est néanmoins admissible à l’exception pour utilisation personnelle prévue par le paragraphe 191(5) de la LTA.
+CONCLUSION
+[66] L’appel est accueilli, avec dépens, et la cotisation est annulée.
+[67] Les parties disposent d’un délai de 30 jours suivant la date du jugement concernant le présent appel pour parvenir à un accord sur les dépens et en informer la Cour, faute de quoi M. Swift disposera alors d’un délai de 30 jours pour déposer des observations écrites sur les dépens, après quoi la Couronne disposera d’un délai de 30 jours pour déposer sa réponse par écrit. Les observations des parties ne devront pas dépasser cinq pages. Si les parties n’informent pas la Cour qu’elles sont parvenues à un accord et que des observations ne sont pas déposées dans les délais impartis, les dépens seront adjugés à M. Swift, conformément au tarif.
+Signé à Ottawa, Canada, ce 20e jour d’octobre 2020.
+« Don R. Sommerfeldt »
+Le juge Sommerfeldt
+Traduction certifiée conforme
+ce 12e jour de janvier 2022.
+François Brunet, réviseur
+ANNEXE A
+2016-1566(GST)G
+COUR CANADIENNE DE L’IMPÔT
+THOMAS SWIFT,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée
+EXPOSÉ CONJOINT DES FAITS
+[traduction]
+1. M. Swift est l’unique actionnaire de Tom Swift Construction Ltd. (la « société »), et est dans l’industrie de la construction depuis plus de 40 ans.
+2. L’ex-épouse de M. Swift est Linda Kirkby.
+3. M. Swift et Mme Kirkby ont possédé des maisons dans le secteur de Cadboro Bay à Victoria, Colombie-Britannique, soit par l’intermédiaire de la société ou à titre individuel, y compris :
+a) En 1994 M. Swift et Mme Kirkby ont acheté le 3900, Scolton Road et ont occupé la maison comme résidence. La résidence a été rénovée après qu’ils y eurent emménagé. Le couple s’est séparé en 1998.
+b) Mme Kirkby a loué une maison sur Pear Street et a vécu là jusqu’à ce que le couple se réconcilie en avril 1998.
+c) En 1999, M. Swift et Mme Kirkby ont vendu le 3900, Scolton Road pour 477 000 $.
+d) Après la vente du 3900, Scolton Road, M. Swift et sa famille ont habité dans une maison en location jusqu’en juin 2000.
+e) En juin 2000, M. Swift et Mme Kirkby ont acheté le 3921, Scolton Road pour 285 000 $ et ont vécu là jusqu’en août 2004. Le 3921, Scolton Road a été vendu pour 475 000 $.
+4. Après la vente du 3921, Scolton Road, M. Swift et sa famille ont déménagé dans une résidence locative où ils ont vécu pendant environ un an.
+3950, Telegraph Bay Road
+5. En 2003, la société et M. Swift ont acheté conjointement, dans une proportion 75/25, le bien de Telegraph Bay Road pour 752 500 $.
+6. En 2004, M. Swift et sa société ont subdivisé le bien de Telegraph Bay Road en quatre lots :
+le 3948, Telegraph Bay Road, le 3950, Telegraph Bay Road, le 2704, Digby Lane et le 2708, Digby Lane [62] . La maison unifamiliale existante située sur le bien se trouvait au 3950, Telegraph Bay Road.
+7. En octobre 2004, la société a vendu la maison du 3950, Telegraph Bay Road pour 442 500 $.
+8. Après la vente du 3950, Telegraph Bay Road, la société et M. Swift sont demeurés propriétaires des lots vacants. Le 3948, Telegraph Bay Road constituait un lot distinct, et le 2704/2708 Digby Lane était un lot en copropriété.
+9. En octobre 2004, [sic] a commencé la construction de maisons résidentielles au 3948, Telegraph Bay Road, et au 2708, Digby Lane. L’appelant et Mme Kirkby ont défrayé 25 % des coûts de construction. Les travaux de construction ont été achevés en 8 mois environ.
+10. En juillet/août 2005, M. Swift et sa famille ont déménagé au 2708, Digby Lane. Le titre de propriété du 2708, Digby Lane a été transféré à M. Swift et Mme Kirkby.
+11. La maison du 2708, Digby Lane a été la toute première maison que M. Swift ait construit pour lui et sa famille. Elle comportait trois chambres et trois salles de bain.
+12. En juillet 2005, la société a vendu la nouvelle maison du 3948, Telegraph Bay Road pour 799 000 $.
+13. La maison du 2704, Digby Lane a été construite en 2009. En octobre 2009, la société a vendu le terrain du 2704, Digby Place, avec une nouvelle maison, pour 875 000 $.
+2708, Digby Lane
+14. En juillet 2005, le titre de propriété de la résidence située au 2708, Digby Lane a été transféré à M. Swift et Mme Kirkby. M. Swift et sa famille ont vécu dans cette résidence jusqu’en 2010.
+15. Le 9 mars 2007, la Coast Capital Savings Credit Union (« Coast Capital ») a enregistré une hypothèque de 1,1 million de dollars sur la maison du 2708, Digby Lane. Aucuns fonds n’ont été avancés au moment de l’enregistrement de l’hypothèque.
+16. M. Swift a utilisé l’hypothèque comme une ligne de crédit pour des projets de construction de la société et pour l’achat du lot de la prochaine résidence de la famille.
+17. M. Swift et Mme Kirkby ont vendu le 2708, Digby Lane en août 2010 pour 1 140 000 $.
+3957, Juan De Fuca
+18. En octobre 2009, M. Swift et Mme Kirkby ont acheté un lot situé au 3957, Juan De Fuca Terrace, Victoria, Colombie-Britannique, pour 646 000 $.
+19. M. Swift a utilisé sa ligne de crédit sur la résidence du 2708, Digby Lane pour acheter le lot situé au 3957, Juan De Fuca.
+20. Le 29 janvier 2010, Coast Capital a enregistré une hypothèque sur la résidence de Juan De Fuca pour 2,5 millions de dollars. Aucuns fonds n’ont été avancés sur cette hypothèque au moment de son enregistrement.
+21. M. Swift et Mme Kirkby ont construit une maison haut de gamme personnalisée sur le lot Juan De Fuca.
+22. M. Swift et Mme Kirkby ont embauché la société pour la construction de la maison sur Juan De Fuca.
+23. La société n’a pas chargé d’honoraires de gestion de projet à M. Swift et Mme Kirkby.
+24. Le travail fourni par les employés de la société a été facturé au prix coûtant. Les employés recevaient leur salaire habituel.
+25. M. Swift a travaillé à la construction de la maison.
+26. Un permis d’occupation a été émis pour Juan De Fuca le 2 novembre 2010.
+27. Le 1er août 2010, M. Swift et sa famille ont déménagé au sous-sol de la résidence de Juan De Fuca pendant l’achèvement des travaux au rez-de-chaussée de la maison.
+28. La construction de la maison sur Juan De Fuca a commencé le ou vers le 17 décembre 2009 et a pris fin le ou vers le 15 octobre 2011.
+29. Le 2 novembre 2010, M. Swift a rempli une demande de remboursement de la TPS/TVH pour habitations neuves, indiquant une juste valeur marchande de 1 443 000 $.
+30. La maison sur Juan De Fuca a été mise en vente en 2012 et vendue en juin 2013 avec une date de clôture initiale fixée au 30 octobre 2013.
+31. La maison sur Juan De Fuca a été vendue pour un produit brut de 1 700 000 $.
+32. M. Swift et Mme Kirkby et leur famille [sic] la maison sur Juan De Fuca pendant 3 ans et demi, jusqu’en mars/avril 2014.
+33. Les coûts relatifs à la construction de la maison sur Juan De Fuca sont les suivants :
+a) total des factures : 1 398 67l,99 $
+b) TVH payée : 33 967,88 $ – (8 147,64 $ après le 2 novembre 2010)
+c) TPS payée : 49 820,89 $
+d) TVP payée : 8 325,32 $
+e) montant net des factures TVP incluse : 1 314 883,22 $
+2766, Tudor Avenue
+34. M. Swift et Mme Kirkby ont acheté la maison du 2766, Tudor Avenue en novembre 2013 pour 885 000 $.
+35. M. Swift, Mme Kirby et leurs enfants ont emménagé dans la maison.
+36. M. Swift et Mme Kirkby ont rénové la maison du 2766, Tudor Avenue.
+37. M. Swift et Mme Kirkby se sont séparés en 2016 et ont divorcé en 2017.
+38. En juillet 2017, M. Swift et Mme Kirkby ont vendu la maison de Tudor Avenue pour 1,9 million de dollars, dans le cadre de la dissolution des biens du mariage.
+La cotisation
+39. Le 6 décembre 2013, le ministre a établi une cotisation à l’égard de M. Swift s’élevant à 85 175,13 $ pour la période comprise entre le 1er janvier 2010 et le 31 décembre 2010 (la « période »), et a par conséquent émis l’avis suivant le même jour : [traduction]
+a) TPS/TVH à percevoir de 86 580 $;
+b) crédits de taxe sur les intrants (CTI) acceptés de 14 788 $;
+c) intérêt calculé sur les arriérés de 10 511,91 $; et, [sic]
+d) pénalité appliquée pour défaut de production de 2 871,65 $.
+Daté pour référence ce 18e jour d’octobre 2019.
+[63]
+Me Andre Rachert
+Me Cindy Mah
+Avocat de l’appelant
+Avocate de l’intimée
+Cook Roberts LLP
+Ministère de la Justice
+7e étage – 1175, Douglas Street
+900 – Howe Street
+Victoria (Colombie-Britannique)
+Vancouver (Colombie-Britannique)
+V8W 2E1
+V6Z 2S9
+RÉFÉRENCE :
+2020 CCI 115
+NO DU DOSSIER DE LA COUR :
+2016-1566(GST)G
+INTITULÉ :
+THOMAS SWIFT c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Victoria (Colombie-Britannique)
+DATE DE L’AUDIENCE :
+Les 21 et 22 octobre 2019
+MOTIFS DU JUGEMENT :
+L’honorable juge Don R. Sommerfeldt
+DATE DU JUGEMENT :
+Le 20 octobre 2020
+COMPARUTIONS :
+Avocat de l’appelant :
+Me J. Andre Rachert
+Avocate de l’intimée :
+Me Cindy Mah
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Me J. Andre Rachert
+Cabinet :
+Cook Roberts LLP
+Pour l’intimée :
+Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa, Canada
+[1] Le ministre a calculé une somme de 86 580 $ au titre de la taxe sur les produits et services (la « TPS ») ou de la taxe de vente harmonisée (la « TVH ») percevable, a accepté des crédits de taxe sur les intrants (les « CTI ») s’élevant à 14 788 $, a imposé des intérêts sur arriérés de 10 511,91 $, en plus d’une pénalité pour défaut de production de 2 871,65 $, pour une cotisation nette de 85 175,56 $, laquelle est légèrement différente de la cotisation nette indiquée dans l’exposé conjoint des faits (probablement en raison de l’arrondissement du montant de TPS/TVH percevable et du montant des CTI).
+[2] Loi sur la taxe d’accise, L.R.C. (1985), ch. E-15, partie IX, édictée par L.C. 1990, ch. 45, en sa version modifiée.
+[3] L’avis d’appel, la réponse et l’exposé conjoint des faits donnent à tort le nom de Digby Lane à la voie d’accès. Voir la transcription, vol. 1, p. 72, lignes 16 à 27.
+[4] Transcription, vol.1, p. 90, ligne 21 à p. 91, ligne 7; et p. 147, lignes 2 à 10.
+[5] Transcription, vol. 1, p. 147, ligne 23 à p. 148, ligne 2; et p. 148, lignes 20 à 27.
+[6] Transcription, vol. 1, p. 161, ligne 23 à p. 163, ligne 5; et vol. 2, p. 167, ligne 27 à p. 168, ligne 28. Les parties ont reconnu que la juste valeur marchande du bien JDF le 2 novembre 2010, TVH incluse, était de 1 450 000 $.
+[7] Le paragraphe qui précède, rédigé de manière généralisée et simplifiée, omet certains des détails des dispositions pertinentes.
+[8] Loi de l’impôt sur le revenu, L.R.C. (1985), ch. 1 (5e supplément), en sa version modifiée.
+[9] Si le mot « entreprise », utilisé dans le contexte de la LTA, incluait un projet comportant un risque ou une affaire de caractère commercial, la dernière portion du paragraphe f) de la définition du « constructeur », qui fait référence à la fois à une entreprise et à un projet à risques ou à une affaire de caractère commercial, serait complètement inutile.
+[10] Il s’agit de l’expression utilisée par le juge Rouleau. Dans les présents motifs, j’utiliserai également cette expression légèrement plus courte (soit, « projet comportant un risque de caractère commercial ») en guise d’abréviation à l’expression exacte, « projet comportant un risque ou une affaire de caractère commercial ».
+[11] Minister of National Revenue c. Taylor, [1956] C.T.C. 189, 56 DTC 1125 (C. de l’Éch.).
+[12] Happy Valley Farms Ltd. c. Sa Majesté la Reine, [1986] A.C.F. no 465, [1986] 2 C.T.C. 259, 86 DTC 6421 (C.F. 1re inst.), par. 13. Voir également Wall c. La Reine, 2019 CCI 168, par. 154; et Atlantic Produits d’emballage Ltée c. Canada, 2020 CAF 75, par. 35.
+[13] Happy Valley Farms, précité, note 12, par. 14. Un examen des paragraphes 14(6) et 15 à 18 de ses motifs indique que le juge Rouleau a traité le motif et l’intention de concert. Au paragraphe 155 de la décision Wall, précité, note 12, le juge Visser a affirmé que [traduction] « la question du motif ou de l’intention constitue un facteur important ».
+[14] Ibid, par. 15 et 16.
+[15] Canada Safeway Limited c. Canada, 2008 CAF 24, par. 61.
+[16] Transcription, vol. 1, p. 87, lignes 6 à 16.
+[17] Transcription, vol. 1, p. 82, lignes 27 et 28; et p. 85, ligne 2.
+[18] Transcription, vol. 1, p. 85, ligne 9.
+[19] Transcription, vol. 1, p. 84, lignes 25 à 28.
+[20] Transcription, vol. 1, p. 85, lignes 12 à 22.
+[21] Transcription, vol. 1, p. 90, lignes 17 à 20; et p. 146, ligne 26. Voir également le par. 21 de l’exposé conjoint des faits.
+[22] Voir Happy Valley Farms, précité, note 12, par 14(1), où le juge Rouleau a observé : « Il y a plus de chances pour qu’un bien qui ne rapporte à son propriétaire aucun revenu ou qui ne lui procure aucune satisfaction personnelle du simple fait qu’il lui appartient soit acquis afin d’être vendu que le bien qui rapporte pareille [sic] revenu ou procure pareille satisfaction ». [Italiques ajoutées]
+[23] Transcription, vol. 1, p. 90, lignes 17 à 20.
+[24] Transcription, vol. 1, p. 25, lignes 19 à 26.
+[25] Transcription, vol. 1, p. 26, lignes 25 à 27.
+[26] Transcription, vol. 1, p. 27, lignes 18 à 20.
+[27] Transcription, vol. 1, p. 28, lignes 3 à 6.
+[28] Transcription, vol. 1, p. 25, lignes 8 à 11; p. 28, lignes 16 à 18; p. 91, lignes 24 à 25; et p. 148, lignes 7 à 10.
+[29] Transcription, vol. 1, p. 26, lignes 25 à 28.
+[30] Transcription, vol. 1, p. 28, lignes 23 et 24. Mme Kirkby a décrit cette salle de bain comme une « salle de bain coquine », qui était accessible aux personnes se trouvant à l’extérieur ou aux invités dormant dans la chambre supplémentaire au sous-sol.
+[31] Transcription, vol. 1, p. 26, lignes 12 à 15.
+[32] Transcription, vol. 1, p. 26, lignes 16 à 23. Mme Kirkby a uniquement fait mention d’un bol de nourriture pour le chien, mais je présume qu’il y avait des bols pour la nourriture et l’eau.
+[33] Happy Valley Farms, précité, note 12, par. 14(2).
+[34] Transcription, vol. 1, p. 161, lignes 1 à 10.
+[35] Happy Valley Farms, précité, note 12, par 14(3).
+[36] Wall, précité, note 12, par. 158. Voir également Lacina, Nagra et Martinuzzi, mentionnées au paragraphe 57 et dans les notes en bas de page 56, 57 et 58 ci-dessous.
+[37] Happy Valley Farms, précité, note 12, par. 14(4).
+[38] Happy Valley Farms, précité, note 12, par. 14(5).
+[39] Pièce A-1 (p. 764, 794 et 823) et pièce A-2.
+[40] Transcription, vol. 1, p. 116, lignes 5 à 26.
+[41] Pièces A-1 et A-2; transcription, vol. 1, p. 117, ligne 6 à p. 119, ligne 6.
+[42] Transcription, vol. 1, p. 93, ligne 20 à p. 94, ligne 10; et p. 123, lignes 15 à 20.
+[43] Transcription, vol. 1, p. 119, lignes 11 à 28.
+[44] Transcription, vol. 1, p. 125, lignes 11 à 13; et p. 158, lignes 10 à 16.
+[45] Happy Valley Farms, précité, note 12, par. 14(6).
+[46] Voir transcription, vol. 1, p. 127, ligne 27 à p. 128, ligne 1, où M. Swift a confirmé que lorsqu’il a acheté le lot JDF, il prévoyait vivre là jusqu’à la fin de ses jours.
+[47] Transcription, vol. 1, p. 21, lignes 25 à 27; p. 37, lignes 10 à 16; et p. 42, ligne 28 à p. 43, ligne 9.
+[48] Transcription, vol.1, p. 20, lignes 22 à 24.
+[49] Transcription, vol. 1, p. 20, lignes 22 à 24; et p. 21, ligne 28 à p. 22, ligne 24.
+[50] Dans le but de nuancer la remarque qui précède, j’ajouterais que la seule amélioration apportée au 3921, Scolton Road a été la construction d’un atelier ou d’un bureau dans la cour.
+[51] Transcription, vol. 1, p. 47, lignes 16 à 24.
+[52] Une distinction doit être établie entre l’acquisition du 2766, Tudor Avenue et celle du 3950, Telegraph Bay Road, qui faisait clairement l’objet d’un projet de lotissement, de telle sorte que le prix d’achat et les coûts de lotissement ont été répartis à 75 %/25 % entre TSC et M. Swift respectivement. Il n’y a pas eu une telle répartition du prix d’achat dans le cas de la maison du 2766, Tudor Avenue.
+[53] Transcription, vol. 1, p. 88, ligne 22 à p. 89, ligne 7; p. 90, lignes 14 à 16; et p. 145, lignes 3 à 13.
+[54] Voir également les observations écrites de l’intimée, datées du 22 octobre 2019, p. 14, par. 77 et 78, qui indiquent que M. Swift n’a demandé aucun CTI.
+[55] Aux fins des alinéas 191(5)b) et c) de la LTA, l’accent est mis sur à l’utilisation réelle que fait le particulier de l’immeuble résidentiel. En guise de comparaison, pour déterminer si une opération ou une série d’opérations constitue un projet comportant un risque de caractère commercial, l’importance est accordée à un certain nombre de facteurs, mentionnés ci-dessus, l’un des plus importants étant le motif ou l’intention de la personne au moment de faire l’acquisition du bien.
+[56] Lacina c. Canada, 1997 CanLII 5361 (CAF), [1997] A.C.F.no 998, [1997] GSTC 69 (FCAD), confirmant [1996] GSTC 11 (CCI).
+[57] Nagra c. La Reine, [1997] A.C.I. no 925, [1997] GSTC 78 (CCI).
+[58] Martinuzzi c. La Reine, [1999] TCJ No 791, [2000] 1 CTC 2661, 2000 DTC 1716 (CCI).
+[59] Lacina (DACF), précité, note 56, par. 16-17.
+[60] Ibid, par. 22.
+[61] Coates c. La Reine, 2011 CCI 74, par. 13 à 15.
+[62] Comme je l’ai indiqué au paragraphe 11 des présents motifs et dans la note de bas de page 3, cette allée porte en fait le nom de Digby Place.
+[63] La copie de l’exposé conjoint des faits déposé à la Cour le 18 octobre 2019 a été signée par l’avocat de M. Swift et l’avocate de la Couronne.

@@ -1,0 +1,131 @@
+---
+title: "Poesiat v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25609/index.do"
+last_modified: "2003-09-05"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 CCI 515"
+citation2: ""
+neutral_citation: "2003 CCI 515"
+decision_date: "2003-09-05"
+language: "fr"
+item_id: "25609"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2417
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T18:48:34.117000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "89fd3105f42ed8f5ddb8cdafaa2101beb16bcb9f7951f336f63be497ab45a163"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Poesiat v. The Queen
+
+- Citation: 2003 CCI 515
+- Decision date: 2003-09-05
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2417, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Poesiat v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-09-05
+Référence neutre
+2003 CCI 515
+Numéro de dossier
+2002-4898(IT)I
+Juges et Officiers taxateurs
+Judith Woods
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2002-4898(IT)I
+ENTRE :
+ANYA POESIAT,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 7 juillet 2003 à Toronto (Ontario)
+Par : L'honorable juge J. M. Woods
+Comparutions
+Avocat de l'appelante :
+Me Norman M. Chorney
+Avocat de l'intimée :
+Me John Grant
+____________________________________________________________________
+JUGEMENT
+L'appel interjeté à l'encontre de la cotisation établie en vertu de la Loi de l'impôt sur le revenu pour l'année d'imposition 2000 est rejeté.
+Signé à Ottawa, Canada, ce 5e jour de septembre 2003.
+« J. M. Woods »
+Le juge J. M. Woods
+Traduction certifiée conforme
+ce 23e jour de février 2004.
+Liette Girard, traductrice
+Référence : 2003CCI515
+Date : 20030905
+Dossier : 2002-4898(IT)I
+ENTRE :
+ANYA POESIAT,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Woods
+[1] Mme Anya Poesiat interjette appel à l'encontre de la cotisation d'impôt sur le revenu pour l'année d'imposition 2000 dans laquelle on a refusé un crédit d'impôt pour frais médicaux à l'égard de l'achat de médicaments homéopathiques.
+[2] L'appel a été entendu en vertu de la procédure informelle de la Cour.
+Faits
+[3] Mme Poesiat a été enseignante au niveau primaire pendant 28 ans. Elle a pris sa retraite en 1991 parce qu'elle souffrait gravement du syndrome de fatigue chronique.
+[4] Les symptômes de Mme Poesiat sont grandement soulagés grâce à des médicaments homéopathiques prescrits par ses médecins. Lors de l'année d'imposition pertinente, la plus grande partie des médicaments a été achetée dans un magasin d'aliments naturels, Food For Life. Cependant, un produit qui était très coûteux n'était disponible qu'auprès d'un distributeur du fabricant.
+[5] Pendant l'année d'imposition 2000, Mme Poesiat a dépensé 10 041,12 $ pour des médicaments homéopathiques et a réclamé ce montant à titre de frais médicaux aux fins du crédit d'impôt pour frais médicaux de l'article 118.2 de la Loi de l'impôt sur le revenu, L.R.C. 1985 (5e suppl.), ch. 1 (la « Loi » ).
+[6] Selon le ministre du Revenu national (le « ministre » ), ces dépenses ne constituaient pas des « frais médicaux » parce qu'il ne s'agissait pas du type de médicaments décrits à l'alinéa 118.2(2)n) puisqu'ils n'étaient pas enregistrés par un pharmacien.
+[7] Mme Poesiat s'était vu accorder le crédit d'impôt pour ce type de médicament pour les années d'imposition antérieures à 2000. Après que le ministre lui a communiqué sa nouvelle position, Mme Poesiat a acheté les médicaments auprès d'un pharmacien à des prix considérablement plus élevés afin d'être clairement admissible au crédit d'impôt.
+Disposition législative
+[8] L'alinéa 118.2(2)n) de la Loi est ainsi rédigé :
+(2) Pour l'application du paragraphe (1), les frais médicaux d'un particulier sont les frais payés :
+[...]
+n) pour les médicaments, les produits pharmaceutiques et les autres préparations ou substances - sauf s'ils sont déjà visés à l'alinéa k) - qui sont, d'une part, fabriqués, vendus ou offerts pour servir au diagnostic, au traitement ou à la prévention d'une maladie, d'une affection, d'un état physique anormal ou de leurs symptômes ou en vue de rétablir, de corriger ou de modifier une fonction organique et, d'autre part, achetés afin d'être utilisés par le particulier, par son époux ou conjoint de fait ou par une personne à charge visée à l'alinéa a), sur ordonnance d'un médecin ou d'un dentiste, et enregistrés par un pharmacien;
+Arguments des parties
+[9] L'avocat de Mme Poesiat soutient que la Cour canadienne de l'impôt compatit aux problèmes des contribuables placés dans une situation semblable. En particulier, la Cour a récemment indiqué que les mots « enregistrés par un pharmacien » de l'alinéa 118.2(2)n) comprenaient l'enregistrement sur un reçu de caisse d'un pharmacien et elle a conclu qu'il n'est pas nécessaire que les médicaments soient disponibles uniquement au moyen d'une prescription : Frank c. R., C.C.I., no 2000-3586(IT)I, 22 mai 2001 ([2001] 3 C.T.C. 2596) et Pagnotta c. R., C.C.I., no 2000-4291(IT)I, 27 août 2001 ([2001] 4 C.T.C. 2613). Dans une décision récente, le juge O'Connor va même plus loin et conclut que l'exigence de l'enregistrement par un pharmacien n'est pas nécessaire si « [...] les médicaments sont prescrits par un médecin et que la vie ou l'autonomie d'une personne dépend de ces médicaments [...] » , Ray c. R., C.C.I., no 2002-710(IT)I, 20 septembre 2002 ([2002] 4 C.T.C. 2590).
+[10] L'avocat de Mme Poesiat soutient également que le ministre ne devrait pas pouvoir refuser le crédit d'impôt pour l'année d'imposition 2000 parce que l'allocation du crédit d'impôt pour les années antérieures a amené Mme Poesiat à croire qu'il n'était pas nécessaire d'acheter les médicaments auprès d'un pharmacien.
+[11] L'essentiel des observations de la Couronne est que la décision Ray est incorrecte et que les décisions Frank et Pagnotta sont douteuses à la lumière des remarques incidentes de la décision Dunn c. La Reine, C.A.F., no A-99-02, 16 décembre 2002 (2003 DTC 5029). Dans le jugement oral de la décision Dunn, le juge d'appel Rothstein a déclaré ce qui suit :
+[6] Bien qu'il ne soit pas nécessaire que nous tranchions la question, il semblerait que la raison pour laquelle les médicaments doivent être enregistrés par un pharmacien serait de restreindre le droit aux paiements que pour les médicaments qui ne sont disponibles que sur ordonnance seulement, contrairement aux produits grand public ou aux autres médicaments. Le juge de la Cour canadienne de l'impôt a conclu en l'espèce que les médicaments fournis n'étaient pas disponibles dans les pharmacies ou autres sources de fournitures médicales ordinaires et, après avoir examiné le dossier, il n'est pas clair pour nous que les médicaments prescrits étaient des médicaments sur ordonnance.
+[12] La Couronne reconnaît que le refus du crédit d'impôt dans de telles situations semble dur et elle a cité le passage suivant de la décision du juge en chef adjoint Bowman, dans l'affaire Banman c. R., C.C.I., no 2000-4039(IT)I, 20 février 2001 ([2001] 2 C.T.C. 2111) :
+[6] Je crois toutefois que le gouvernement devra tôt ou tard se rendre compte du fait que les médicaments homéopatiques [sic], les formes de traitement de relais, les herbes, la guérison naturelle et ce genre de médecine sont à ce point présents qu'il lui faudra songer à modifier laLoi de l'impôt sur le revenu de façon à accorder un crédit d'impôt relativement à ces médicaments. Le cas de l'appelante constitue un très bon exemple d'une personne qui a utilisé ces méthodes de relais avec succès. Je suis désolé de ne pouvoir accorder de mesure de redressement à l'appelante, mais je loue le courage dont elle a fait preuve en se présentant en cour.
+Analyse
+[13] Il s'agit de savoir s'il est nécessaire d'acheter des médicaments dans une pharmacie afin de réclamer le crédit d'impôt pour frais médicaux. Pour que les médicaments achetés ailleurs que dans une pharmacie donnent droit à un crédit d'impôt, il faut écarter les derniers mots de l'alinéa 118.2(2)n), « enregistrés par un pharmacien » . Malheureusement, je suis d'avis qu'il faut donner un sens à ces mots. Il est bien reconnu en matière d'interprétation législative que les tribunaux devraient s'efforcer, lorsque c'est possible, de donner un sens à chaque mot d'une loi : Morguard Properties Ltd. c. Ville de Winnipeg, [1983] 2 R.C.S. 493 ((1983) 3 D.L.R. (4th) 1) (C.S.C.). Le sens des mots « enregistrés par un pharmacien » n'est pas clair, mais il est possible de leur donner un sens et, en conséquence, je conclus que l'achat de médicaments ailleurs que dans une pharmacie n'est pas admissible à titre de frais médicaux au sens de l'alinéa 118.2(2)n).
+[14] La décision récente du juge Bowie dans l'affaire Claussen Estate v. R., [2003] 2 C.T.C. 2363 (C.C.I.) portait sur les incohérences des affaires antérieures. Le raisonnement de Monsieur le juge Bowie, auquel je souscris, est le suivant :
+[traduction]
+[6] J'accepte que les derniers mots de l'alinéa 118.2(2)n) de la Loi, examinés dans leur contexte en tant que série de dispositions conçues pour offrir un certain allégement au fardeau de l'impôt sur le revenu pour des personnes qui sont malades, ou comme c'est le cas en l'espèce, des personnes à charge touchées par cette maladie, peut avoir plus qu'un sens. Il est concevable qu'ils fassent référence à l'exigence imposée à un pharmacien qui exécute une ordonnance pour un médicament de l'annexe F en vertu du Règlement sur les aliments et drogues de conserver un enregistrement des ordonnances exécutées. Cela semble improbable, toutefois, puisque l'alinéa n) fait référence à des substances qui ne sont certainement pas visées par l'annexe F. Il peut faire référence à l'exigence visée par la loi provinciale selon laquelle les pharmaciens conservent un dossier pour chaque patient à l'égard des ordonnances exécutées ou, comme pour les affaires que j'ai mentionnées l'ont conclu, il peut simplement faire référence à l'enregistrement dans la caisse enregistreuse de la vente d'un produit visé par la description figurant à l'alinéa n). Cependant, il doit signifier quelque chose. Avec égard pour l'opinion du juge O'Connor, il ne revient pas à la Cour, à mon avis, de simplement préciser le sens des mots de la loi parce que leur signification n'est pas claire. Le juge Iacobucci a clairement précisé dans Bell Express Vu qu'en cas d'ambiguïté, les tribunaux doivent régler cette ambiguïté à l'aide de moyens d'interprétation externes ou de principes d'interprétation. Selon un principe essentiel d'interprétation, les mots d'une loi ne doivent pas être rendus inopérants. Il ne m'est cependant pas nécessaire de décider si les juges Teskey et Miller avaient raison de conclure qu'une vente par une pharmacie suffit pour respecter aux exigences de l'alinéa n). Je ne peux conclure qu'un achat qui n'est pas fait auprès d'une pharmacie ou d'un pharmacien est admissible.
+[15] Il reste à examiner l'argument de Mme Poesiat selon lequel le ministre ne devrait pas pouvoir refuser un crédit d'impôt pour l'année d'imposition 2000 parce que ce dernier a été accordé pour plusieurs années antérieures. Cet argument ne peut être accepté. Une déclaration du ministre au sujet de l'interprétation de la Loi pour une année d'imposition ne lie pas ce dernier pour une année d'imposition postérieure : Ludmer c. La Reine, [1995] 2 C.F. 3 (95 DTC 5035) (C.A.F.).
+[16] Pour les raisons qui précèdent, l'appel est rejeté.
+Signé à Ottawa, Canada, ce 5e jour de septembre 2003.
+« J. M. Woods »
+Le juge J. M. Woods
+Traduction certifiée conforme
+ce 23e jour de février 2004.
+Liette Girard, traductrice

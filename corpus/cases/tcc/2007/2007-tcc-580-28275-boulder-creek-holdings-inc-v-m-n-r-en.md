@@ -1,0 +1,174 @@
+---
+title: "Boulder Creek Holdings Inc. v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28275/index.do"
+last_modified: "2007-04-02"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 TCC 580"
+citation2: ""
+neutral_citation: "2007 TCC 580"
+decision_date: "2007-04-02"
+language: "en"
+item_id: "28275"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1923
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T23:14:39.628000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "85c6731d93670176772c92fdb7fcce8ae5895af3c5a14d0d1fc6807814f5686a"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Boulder Creek Holdings Inc. v. M.N.R.
+
+- Citation: 2007 TCC 580
+- Decision date: 2007-04-02
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1923, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Boulder Creek Holdings Inc. v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-04-02
+Neutral citation
+2007 TCC 580
+File numbers
+2007-1048(CPP)
+Judges and Taxing Officers
+Valerie A. Miller
+Subjects
+Canada Pension Plan
+Employment Insurance Act
+Decision Content
+Docket: 2007-1048(CPP)
+BETWEEN:
+BOULDER CREEK HOLDINGS INC.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard together on common evidence with the appeal of
+Jaie Moore (2007-1049(CPP)) on September 14, 2007
+at Kelowna, British Columbia
+Before: The Honourable Justice Valerie A. Miller
+Appearances:
+Agent for the Appellant:
+Caryn Cooke
+Counsel for the Respondent:
+Christa Akey
+____________________________________________________________________
+JUDGMENT
+The appeal is dismissed and the decision of the Minister of National Revenue is confirmed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada this 28th day of September, 2007.
+“V.A. Miller”
+V.A. Miller, J.
+Docket: 2007-1049(CPP)
+BETWEEN:
+JAIE MOORE,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard together on common evidence with the appeal of
+Boulder Creek Holdings (2007-1048(CPP)) on September 14, 2007
+at Kelowna, British Columbia
+Before: The Honourable Justice Valerie Miller
+Appearances:
+Agent for the Appellant:
+Caryn Cooke
+Counsel for the Respondent:
+Christa Akey
+____________________________________________________________________
+JUDGMENT
+The appeal is dismissed and the decision of the Minister of National Revenue is confirmed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada this 28th day of September, 2007.
+“V.A. Miller”
+V.A. Miller, J.
+Citation: 2007TCC580
+Date: 20070928
+Docket: 2007-1048(CPP)
+BETWEEN:
+BOULDER CREEK HOLDINGS INC.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+AND BETWEEN:
+Docket: 2007-1049(CPP)
+JAIE MOORE,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGMENT
+V.A. Miller, J.
+[1] These appeals were heard together. The issue is whether Jaie Moore (“Worker”) was engaged in pensionable employment pursuant to paragraph 6(1)(a) of the Canada Pension Plan (“CPP”) with Boulder Creek Holdings Inc. (“Payor”) during the years 2005 and 2006.
+[2] Both the Payor and the Worker were represented by Caryn Cooke, agent. The Worker was the only witness.
+FACTS
+[3] The Payor was incorporated on February 27, 2001 and its shareholders are Patrick Moore, Caryn Cooke and the Worker. At the time of incorporation each shareholder held an equal number of shares in the Payor. At the hearing it was disclosed that Caryn Cooke now holds a larger percentage of the shares but no evidence was given as to the exact percentage.
+[4] The shareholders are related in that Patrick Moore is the Worker’s father and Caryn Cooke is the Worker’s aunt. They all live in Caryn Cooke’s home and the Payor has its office in her home.
+[5] The Payor operates a long haul truck transportation business and transports goods to and from Canada and the United States. The Worker is a class 1 certified driver with twenty years experience in the trucking industry. When he was asked why the Payor was incorporated, the Worker stated that he thought he would be better off working for himself and he wanted to protect the truck and trailer from liability in case he was in an accident.
+[6] The Worker’s duties consisted of transporting goods to and from Canada and the United States; performing minor maintenance and repairs on the truck, trailer and equipment; performing custom clearance duties for all goods; issuing bills of lading and completing the related paperwork. The Payor has never engaged any other driver except the Worker. As well, since the Payor was incorporated the Worker has not performed duties for anyone except the Payor.
+[7] At the beginning of the Payor’s business the Worker was not paid for performing his duties. The Payor had little revenue and each of the shareholders at one time or another used their personal money to make truck payments or to pay the Payor’s expenses. At some point the Worker said that he needed to receive an income and his rate of pay was decided by the shareholders. The rate was based on the Payor’s monthly revenue and was less than the going rate in the trucking business. During the relevant period the Worker received $500 per trip; this was approximately one-half the rate that other drivers in the business received. The Worker normally made four to five trips each month.
+[8] All trips and customers are discussed among the shareholders. If the Worker is contacted by a potential customer or finds a new customer, he refers them to the Payor’s dispatcher who is Caryn Cooke. The shareholders make all major decisions.
+[9] The Payor owned the truck and trailer and paid for the gas for each trip. The Worker owned two laptop computers which he and his fiancée used to help him route his trips, to keep track of his expenses and to look for customers. The Worker also owned the tarps, chains and belts he used to perform his duties. He paid for tolls, faxes and food while on the road.
+[10] The Worker was not paid for statutory holidays; he did not receive vacation pay or any benefits from the Payor. However the Payor did pay for a life insurance policy in the Worker’s name and it did pay the premiums for Workers’ Compensation Benefits.
+[11] The Worker stated that when he was on the road he did not have to report to the Payor. However, he did call the office to let the shareholders know the status of each job and to arrange the return loads.
+LAW
+[12] The criteria used to determine if a person is engaged in employment as an employee or as an independent contractor were discussed by the Federal Court of Appeal in Wiebe Door Services Ltd. v. M.N.R., [ 1986] 2 C.T.C. 200. They are control, ownership of tools, chance of profit or risk of loss and integration. These tests were confirmed by the Supreme Court of Canada in 671122 Ontario Ltd. v. Sagaz Industries Canada Inc., [2001] 2 S.C.R. 983 where Major J., writing for the Court stated the following at paragraphs 46, 47 and 48:
+46 In my opinion, there is no one conclusive test which can be universally applied to determine whether a person is an employee or an independent contractor. Lord Denning stated in Stevenson Jordan, supra, that it may be impossible to give a precise definition of the distinction (p. 111) and, similarly, Fleming observed that “no single test seems to yield an invariably clear and acceptable answer to the many variables of ever changing employment relations . . .” (p. 416). Further, I agree with MacGuigan J.A. in Wiebe Door, at p. 563, citing Atiyah, supra, at p. 38, that what must always occur is a search for the total relationship of the parties:
+[I]t is exceedingly doubtful whether the search for a formula in the nature of a single test for identifying a contract of service any longer serves a useful purpose.... The most that can profitably be done is to examine all the possible factors which have been referred to in these cases as bearing on the nature of the relationship between the parties concerned. Clearly not all of these factors will be relevant in all cases, or have the same weight in all cases. Equally clearly no magic formula can be propounded for determining which factors should, in any given case, be treated as the determining ones.
+47 Although there is no universal test to determine whether a person is an employee or an independent contractor, I agree with MacGuigan J.A. that a persuasive approach to the issue is that taken by Cooke J. in Market Investigations, supra. The central question is whether the person who has been engaged to perform the services is performing them as a person in business on his own account. In making this determination, the level of control the employer has over the worker’s activities will always be a factor. However, other factors to consider include whether the worker provides his or her own equipment, whether the worker hires his or her own helpers, the degree of financial risk taken by the worker, the degree of responsibility for investment and management held by the worker, and the worker’s opportunity for profit in the performance of his or her tasks.
+48 It bears repeating that the above factors constitute a non-exhaustive list, and there is no set formula as to their application. The relative weight of each will depend on the particular facts and circumstances of the case.
+[13] In this case the Worker stated that he was engaged by the Payor as an independent contractor and that he has always worked as an owner operator. The central question then becomes whether the Worker was in business on his own account in 2005 and 2006. It is my opinion that the question must be answered in the negative.
+[14] There are a number of factors that have led me to this conclusion. First, at no time since the Worker was engaged by the Payor did he work for anyone else. When asked in cross-examination why he did not work for anyone else, the Worker stated that to do so would take revenue away from the Payor and the Payor would suffer. Whenever he was contacted by a potential customer or he approached a potential customer, he referred the customer to Caryn Cooke, the Payor’s dispatcher. The Payor never hired anyone except the Worker to perform the same duties as, according to the Worker, it “could not afford to hire anyone else”. The Payor paid for a life insurance policy that was in the Worker’s name. The evidence showed that the Worker’s aim was to build the business of the Payor so that it would eventually show a profit.
+[15] In the present situation the Worker has twenty years of experience in the trucking industry. This, as well as the nature of his duties, did not necessitate the Payor having to strictly control the Worker. However the Worker did state in cross-examination that he tried to be in contact with the Payor each day while he was on the road to let them know where he was and if he was having problems.
+[16] The Worker owned some minor tools but the major tools necessary to perform his duties (the truck and trailer) were owned by the Payor. The Worker did not have a chance of profit or risk of loss separate from that of the Payor. He was paid a flat rate for each trip he made.
+[17] It was obvious during this hearing that the Appellants could not distinguish between the Worker’s role as shareholder and his role as worker. As shareholder the Worker incurred some expenses on behalf of the Payor. During the relevant period of time he paid for new bearings and a brake job for the truck. It was interesting to note that when the Worker was asked if he could be fired, his answer was no; he would have to be bought out. It was only with probing by the agent that he concluded he could be fired for cause.
+[18] When I review all the evidence and using the tests as outlined in Wiebe Door and applying the tests to the evidence, it is clear that the Worker was engaged by the Payor as an employee and the Worker was engaged in pensionable employment during 2005 and 2006.
+[19] The appeals are dismissed.
+Signed at Ottawa, Canada this 28th day of September, 2007.
+“V.A. Miller”
+V.A. Miller, J.
+CITATION: 2007TCC580
+COURT FILE NO.: 2007-1048(CPP) and 2007-1049(CPP)
+STYLE OF CAUSE: Boulder Creek Holdings Inc. v. M.N.R.
+and Jaie Moore v. M.N.R.
+PLACE OF HEARING: Kelowna, British Columbia
+DATE OF HEARING: September 14, 2007
+REASONS FOR JUDGMENT BY: The Honourable Justice Valerie Miller
+DATE OF JUDGMENT: September 28, 2007
+APPEARANCES:
+Agent for the Appellant:
+Caryn Cooke
+Counsel for the Respondent:
+Christa Akey
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

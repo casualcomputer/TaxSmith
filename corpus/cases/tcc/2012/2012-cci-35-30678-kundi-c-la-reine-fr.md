@@ -1,0 +1,109 @@
+---
+title: "Kundi c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30678/index.do"
+last_modified: "2012-01-25"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2012 CCI 35"
+citation2: ""
+neutral_citation: "2012 CCI 35"
+decision_date: "2012-01-25"
+language: "fr"
+item_id: "30678"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7175
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T14:49:33.054000+00:00"
+cases_cited_count: 2
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "6ea1c08cf665058e4200e3d77fd0fe7478bdbca98d053ab1c15bb78bffeeeacd"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Kundi c. La Reine
+
+- Citation: 2012 CCI 35
+- Decision date: 2012-01-25
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7175, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Kundi c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2012-01-25
+Référence neutre
+2012 CCI 35
+Numéro de dossier
+2009-450(IT)I
+Juges et Officiers taxateurs
+Gaston Jorré
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2009-450(IT)I
+ENTRE :
+SARUP KUNDI,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Représentant de l’appelant :
+M. Carim Mohamed
+Avocate de l’intimée :
+Me Christina Ham
+____________________________________________________________________
+ORDONNANCE ET MOTIFS DE L’ORDONNANCE
+Attendu que l’appel interjeté par l’appelant devant la Cour a été entendu le 5 octobre 2009, que des motifs ont été rendus à l’audience à la même date et qu’un jugement rejetant l’appel, conformément aux motifs ainsi rendus, a été signé le 14 octobre 2009;
+Attendu que l’appelant, au moyen d’une lettre datée du 25 octobre 2011 adressée à la Cour, demande que le jugement soit annulé[1];
+Attendu que l’intimée, au moyen d’une lettre datée du 30 novembre 2011, a présenté des observations pour contester toute annulation du jugement;
+Et attendu que, notamment, l’appelant ne soulève dans sa lettre aucun motif valable justifiant l’annulation du jugement[2];
+La demande est rejetée.
+En outre, la Cour ordonne au greffe d’envoyer aux parties une copie non révisée de la transcription des motifs du jugement.
+La Cour tient à souligner que la transcription non révisée contient un certain nombre d’erreurs commises lors de la transcription de l’enregistrement[3].
+La Cour tient aussi à attirer l’attention de l’appelant sur l’avant-dernier paragraphe, à la page 6 de la transcription, qui est rédigé ainsi[4] :
+[traduction]
+Finalement, le représentant de l’appelant a demandé un [allègement] relativement [aux] intérêts et aux pénalités. Je n’ai aucun pouvoir à l’égard d’une telle demande. Les dispositions d’allègement pour les contribuables, dont, à mon avis, vous vouliez parler, exigent qu’une demande soit présentée au ministre du Revenu national, et c’est à lui que vous devez vous adresser à cet égard.
+Les dispositions d’allègement pour les contribuables sont énoncées au paragraphe 220(3.1) de la Loi de l’impôt sur le revenu. L’Agence du revenu du Canada a publié une circulaire d’information sur le sujet ainsi qu’un formulaire aux fins de la présentation d’une demande d’allègement.
+Signé à Ottawa (Ontario), ce 25e jour de janvier 2012.
+« Gaston Jorré »
+Juge Jorré
+Traduction certifiée conforme
+ce 23e jour de janvier 2014.
+Espérance Mabushi, M.A. Trad. Jur.
+RÉFÉRENCE : 2012 CCI 35
+No DU DOSSIER DE LA COUR : 2009-450(IT)I
+INTITULÉ : SARUP KUNDI c.
+SA MAJESTÉ LA REINE
+MOTIFS DE L’ORDONNANCE : L’honorable juge Gaston Jorré
+DATE DE L’ORDONNANCE : Le 25 janvier 2012
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa (Ontario)
+[1] Les Règles de la Cour canadienne de l’impôt (Procédure informelle) ne prévoient pas de dispositions pour ce genre de demande, mais l’on peut procéder par analogie avec l’alinéa 172(2)a) des Règles de la Cour canadienne de l’impôt (procédure générale).
+[2] En particulier, la Cour tient à souligner qu’aucune fraude n’est alléguée et qu’on n’affirme pas que l’appelant cherche à présenter des éléments de preuve qu’on n’aurait pas pu raisonnablement trouver avant l’audience; l’une ou l’autre situation pourrait constituer au moins un des éléments essentiels avant que la Cour n’envisage une réouverture d’audience. Voir les arrêts 671122 Ontario Ltd. c. Sagaz Industries Canada Inc., 2001 CSC 59, aux paragraphes 59 à 65, et Grenier c. Canada, 2008 CAF 63, aux paragraphes 4, 30 et 31. Cela étant, il n’est pas nécessaire que je me penche sur le fait qu’il n’existe aucun élément de preuve à l’appui de la demande sous la forme d’un affidavit. Dans l’arrêt Sagaz, il était question du paragraphe 59.06(2) des Règles de procédure civile de l’Ontario; cette disposition est essentiellement la même que l’alinéa 172(2)a) des Règles de la Cour canadienne de l’impôt.
+[3] Par exemple, les erreurs suivantes ont été relevées : à la page 2, ligne 17, le terme « whether » (« si ») devrait être « letter » (« lettre »); à la page 3, ligne 16, le terme « When » (« quand ») devrait être « while » (« alors que »); il semblerait qu’à la page 5, ligne 13, « 2003 » devrait être « 2006 »; à la page 6, ligne 16, le terme « leave » (« autorisation ») devrait être « relief » (« allègement »).
+[4] Dans le texte cité, j’ai corrigé le terme « leave » (« autorisation ») par le terme « relief » (« allègement »).

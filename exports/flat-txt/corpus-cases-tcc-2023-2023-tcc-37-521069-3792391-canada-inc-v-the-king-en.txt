@@ -1,0 +1,198 @@
+Title: 3792391 Canada Inc. v. The King
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/521069/index.do
+Corpus path: corpus/cases/tcc/2023/2023-tcc-37-521069-3792391-canada-inc-v-the-king-en.md
+Document type: case_law
+Last modified: 2023-03-30
+
+# 3792391 Canada Inc. v. The King
+
+- Citation: 2023 TCC 37
+- Decision date: 2023-03-30
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5858, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+3792391 Canada Inc. v. The King
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2023-03-30
+Neutral citation
+2023 TCC 37
+File numbers
+2021-1804(IT)I
+Judges and Taxing Officers
+Gabrielle St-Hilaire
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2021-1804(IT)I
+BETWEEN:
+3792391 CANADA INC.,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+Appeal heard on March 8, 2023, and on March 13, 2023,
+at Montréal, Québec
+Before: The Honourable Justice Gabrielle St-Hilaire
+Appearances:
+Counsel for the Appellant:
+Hong Ky (Eric) Luu
+Counsel for the Respondent:
+Samantha Jackmino
+Janie Payette
+JUDGMENT
+In accordance with the attached Reasons for Judgment, the appeal from the assessments under the Income Tax Act for the 2011, 2012, 2013, 2014, 2015 and 2016 taxation years is dismissed, without costs.
+Signed at Ottawa, Canada, this 30th day of March 2023.
+“Gabrielle St-Hilaire”
+St-Hilaire J.
+Citation: 2023 TCC 37
+Date: 20230330
+Docket: 2021-1804(IT)I
+BETWEEN:
+3792391 CANADA INC.,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+REASONS FOR JUDGMENT
+St-Hilaire J.
+I. Introduction
+[1] This is an appeal by 3792391 Canada Inc. (hereinafter referred to as 391 or the Appellant) from assessments made under Part XIII of the Income Tax Act, RSC, 1985, c 1 (5th Supp) (Act), for the 2011 to 2016 taxation years. Under the statutory scheme set out in Part XIII, the Act provides for tax to be paid by non-residents who receive property income from Canadian residents and imposes an obligation on residents to withhold and remit the tax payable by the non-resident.
+[2] David Siscoe, an exercise specialist, is a shareholder of the Appellant, which operates Siscoe Gym. Mr. Siscoe entered into a lease for the premises located at 501-4175 Sainte Catherine West in Westmount, Quebec (unit 501). Although he was the tenant of unit 501, the Appellant paid the rent on his behalf during the taxation years under appeal.
+[3] By notice dated October 26, 2018, the Minister of National Revenue (Minister) assessed the Appellant for failure to withhold and remit Part XIII tax payable on rental income received by Sebastiana Trimarchi, the owner of unit 501 during the relevant period, as well as interest and penalties, on the basis that Ms. Trimarchi was a non-resident.
+II. Preliminary Matters
+[4] At the beginning of the hearing, counsel for the parties each made a motion to the Court.
+Appellant’s motion to strike part of the Reply
+[5] Counsel for the Appellant made a motion to strike parts of the Minister’s assumptions of fact in the Reply on the basis that the assumptions in paragraphs 11 c), d), e) and f) contain conclusions of law. The relevant paragraphs read as follows:
+11. In determining the Appellant’s non-resident tax liability for 2011, 2012, 2013, 2014, 2015 and 2016 taxation years, pursuant to Part XIII, section 215, the Minister relied on the following assumptions of fact:
+[…]
+c) the Condo was owned by Sebastiana Trimarchi (the “Non-resident”);
+d) Sebastiana Trimarchi is a non-resident living in Italy;
+e) during taxation years 2011, 2012, 2013, 2014, 2015 and 2016, the appellant paid the following amounts to a non-resident […];
+f) upon paying the Non-resident gross rents, no withholdings were made by the Appellant, pursuant to Part XIII of the Act;
+[6] The Appellant argued that assumptions of fact play a critical role in tax litigation in light of their impact on the burden of proof placed on the Appellant. Counsel for the Appellant submitted that the assumptions that state that Sebastiana Trimarchi is a non-resident include conclusions of law. Counsel submitted that the Minister can conclude that Ms. Trimarchi is a non-resident but she has to state the facts on which this conclusion is based. Counsel relied on a recent decision of this Court, Bluecove Management Ltd v R, 2022 TCC 126 [Bluecove], in which Justice Lafleur found that the Minister must extricate the factual components of a conclusion of mixed fact and law. In Canada v Anchor Pointe Energy Ltd, 2003 FCA 294 at paras 25-26, cited in Bluecove at para 29, the Federal Court of Appeal asserted that in pleading assumptions of fact, the Minister cannot plead conclusions of law. The Federal Court of Appeal added that the Minister may only assume the factual components of a conclusion of mixed fact and law such that the taxpayer knows exactly which factual assumptions it must demolish in order to succeed.
+[7] The question of residence is one that a court determines on the basis of the application of rules to a set of circumstances such that the finding of residence or non-residence is a conclusion of law based on a set of facts. Hence, I agree with counsel for the Appellant that the Minister’s assumptions include a conclusion of law. In the circumstances, I agreed to strike the word non-resident from paragraphs 11 c) and d) of the Reply. In paragraphs 11 e) and f), the word non-resident was struck and replaced with Sebastiana Trimarchi.
+Respondent’s motion to amend paragraph 11 e) of the Reply
+[8] Counsel for the Respondent made a motion to amend paragraph 11 e) of the Reply to correct the amounts of gross rent that the Appellant paid in 2011 and 2016. On consent by counsel for the Appellant, the motion was granted. Hence the correct amounts of gross rental payments the Appellant made during the 2011 to 2016 taxation years are as follows:
+Taxation year
+Gross Rent
+2011
+$16,650
+2012
+$33,650
+2013
+$33,900
+2014
+$33,900
+2015
+$33,900
+2016
+$22,600
+III. Issue
+[9] The issue in this appeal is whether the Minister was correct in imposing Part XIII tax on the Appellant for its failure to withhold and remit tax on the amounts it paid as rent to Sebastiana Trimarchi. More precisely, the question is whether the Appellant paid rent to a non-resident person such that it is liable for failure to withhold and remit the tax payable on the rental income on behalf of the non-resident person.
+IV. Background
+[10] David Siscoe is the tenant who occupied unit 501 as his personal residence. He first signed a lease for the premises with Anjar Investments Ltd. (Anjar) in May 1996. Joseph Trimarchi signed the lease on behalf of Anjar. Mr. Siscoe testified that he made the rental payments to Joseph Trimarchi for a period but that, at some point, Joseph asked him to start paying the rent to one of his brothers.
+[11] I note that according to the information filed with the Registraire des entreprises du Québec (Exhibit A-1, Tab 6), Anjar has three shareholders, namely, Joseph Trimarchi, Graziella Trimarchi and Sebastiana Trimarchi. Natalina Mandato Trimarchi is Anjar’s director.
+[12] In January 2006, Anjar and Natalina Mandato Trimarchi sold unit 501 to Sebastiana Trimarchi (Exhibit A-1, Tab 3). Mr. Siscoe testified that he was not aware that Sebastiana Trimarchi was the owner of unit 501 since 2006.
+[13] In May 2010, Mr. Siscoe entered into a 3-year lease for unit 501 with Sebastiana Trimarchi signing as the lessor. In the section identifying the “landlord (lessor)”, she entered her address as 439, Boul de l’Ile in Pincourt. However, in the section for signatures, right above Mr. Siscoe’s signature showing he signed the lease on May 12, 2010, in Montreal, it shows that Sebastiana Trimarchi signed the lease on May 1, 2010, in Italy. In addition, she provided two phone numbers, a Montreal number and an international number. Mr. Siscoe testified that he highly doubts that he would have paid attention to either of those numbers. I note that the international number is the number at which the auditor reached Sebastiana Trimarchi in October 2018 (Exhibit R-11).
+[14] Mr. Siscoe testified that he saw Sebastiana Trimarchi in person three or four times over the years. He saw her in 2010 when she came over with the lease, once in 2014 or 2015 when she came accompanied with children and another time when she came alone around 2017. Mr. Siscoe described the encounters as uneventful.
+[15] Mr. Siscoe stated that, in 2011, 391 started to pay the rent for unit 501 on his behalf because “it was easier from a bookkeeping point of view” and it was accounted for in the shareholder loan account. The corporate bank account shows cheques were made out to Sebastiana Trimarchi by 391 every month starting in July 2011 until January 2016, the last bank statement entered into evidence.
+[16] Little can be gleaned from the email correspondence between Mr. Siscoe and Sebastiana Trimarchi introduced into evidence other than the fact that her email address ended in .it rather than .ca or .com and the fact that one email contains language that Mr. Siscoe recognized as most likely Italian, stating that he speaks Italian, although not that well.
+[17] Mr. Siscoe was adamant that he was never informed that Sebastiana Trimarchi was living in Italy, or in Canada. He acknowledged that neither 391 nor he withheld Part XIII tax.
+V. Scheme of Part XIII
+[18] Part XIII of the Act levies a tax on certain types of income paid to non-residents by a resident of Canada. Section 212 is a charging provision aimed at imposing a 25% tax on certain amounts a non-resident receives from a Canadian resident. More specifically, paragraph 212(1)(d) imposes a 25% tax on gross rent paid for the use or the right to use in Canada any property owned by the non-resident.
+[19] In order to ensure collection of the taxes payable by a non-resident, subsection 215(1) of the Act requires the Canadian resident to withhold the tax and remit it to the Receiver General of Canada. In circumstances where an agent pays an amount to the non-resident on behalf of a debtor, subparagraph 215(2) requires that the agent withhold and remit the tax. Under paragraph 215(6), a person who fails to withhold and remit is liable for the tax, as well as for a penalty and interest pursuant to subsections 227(8) and (8.3).
+[20] I hasten to add that section 216 authorizes a non-resident to elect to pay Part I tax on net rental income from real property in Canada rather than the 25% flat tax on gross rental payments. Generally, the difference between the tax liability under Part XIII and that under Part I is such that the election triggers a refund to the non-resident. There was no such election made in the circumstances of this case prior to the 2018 assessments raised against the Appellant.
+[21] In commenting on Part XIII of the Act, Professor Krishna described the withholding tax regime as a “difficult compromise” and the “only feasible way to tax the income of non-residents who do not carry on business in Canada” (Vern Krishna, Fundamentals of Canadian Income Tax (Toronto: Thomson Reuters, 2018), vol. 2 at 580-581).
+VI. The Parties’ Positions
+The Appellant’s position
+[22] The Appellant submits that it is not liable for Part XIII tax because it has rebutted the Minister’s conclusion that Sebastiana Trimarchi was a non-resident of Canada during the relevant period and further, that the evidence introduced by the Appellant is sufficient to show that she was living in Canada. Under these circumstances, the Appellant submits that the burden rests on the Respondent to show that Sebastiana Trimarchi was a non-resident.
+[23] In addition, the Appellant submits that for section 215 to apply, the resident Canadian payer must have knowledge that the payee was a non-resident. Further, an interpretation that knowledge does not play a role in the application of section 215 would result in an injustice to tenants. In the Appellant’s view, since David Siscoe did not know that Sebastiana Trimarchi was a non-resident, section 215 should not apply to him. And, finally, the Appellant argues that the penalties ought not to apply because Sebastiana Trimarchi actively dissimulated her non-resident status.
+The Respondent’s position
+[24] The Respondent submits that, pursuant to subsection 215(1), the Appellant was required to withhold and remit Part XIII tax on the rent paid to Sebastiana Trimarchi because she was a non-resident. Hence, the Respondent submits that pursuant to subsection 215(6), the Appellant is liable for Part XIII tax payable and for the related penalties and interest under subsections 227(8) and (8.3).
+[25] In response to the Appellant’s submission that the Minister was “easy” on Ms Trimarchi but “hard” on the Appellant, Counsel for the Respondent stated that everyone had been assessed as is expressly authorized under the Act. The Respondent argued that the Minister can assess a resident taxpayer for failure to withhold and remit Part XIII tax and assess, as well, the non-resident taxpayer for Part XIII tax. In support of her position, she referred to Solomon v R, 2007 TCC 654 at para 9, wherein Justice Miller, as she then was, found that subsection 215(6) does not shift the tax burden from the non-resident recipient to the resident payer. In my view, neither does subsection 215(6) shift the burden from the resident payer to the non-resident recipient, all of which can be assessed for Part XIII tax.
+VII. Analysis
+[26] Counsel for the Respondent submitted that for subsection 215(6) to apply, there are essentially three requirements: i) a resident of Canada has failed to withhold and remit tax; ii) on an amount taxable under Part XIII; and iii) an amount was paid to a non-resident. The Respondent argued that there is no dispute that the Appellant is a resident of Canada and further, that the Appellant failed to withhold and remit Part XIII tax on rent paid to Sebastiana Trimarchi. The evidence introduced at trial, including the Appellant’s general ledger and banking statements, clearly shows that the Appellant paid rent to Sebastiana Trimarchi during the relevant period. I find that the Appellant comes within the purview of requirements i) and ii) above as a Canadian resident who has made rental payments on behalf of David Siscoe and has failed to withhold and remit. The element of section 215 on which the parties disagree is whether Sebastiana Trimarchi was a non-resident of Canada from 2011 to 2016.
+Residence
+[27] Counsel for both parties referred to the seminal decision in Thomson v MNR, [1946] SCR 209 at para 47, wherein the Supreme Court of Canada found that “residence” is not a term of invariable elements but rather, it is a highly flexible term with many shades of meaning which may vary according to the context, a term to which it is quite impossible to give a precise and inclusive definition. The Supreme Court added that residence is “chiefly a matter of the degree to which a person in mind and fact settles into or maintains or centralizes his ordinary mode of living with its accessories in social relations, interests and conveniences at or in the place in question” (Thomson at para 50).
+[28] Counsel for the Appellant submitted that the determination of residence can be complex and referred to this Court’s decision in Biya v R, 2020 TCC 113, as an illustration of all the factors that a court might consider in determining residence. In considering the factors relevant to the particular circumstances of this case, Counsel for the Appellant submitted that the Court should conclude that Sebastiana Trimarchi was a resident of Canada in light of her ties to this country and the lack of ties with Italy. The Appellant suggested that the following elements show Sebastiana Trimarchi had ties to Canada and form the basis to conclude that she was a resident of Canada:
+· Sebastiana had family in Canada based on the evidence that her mother Natalina and her brother Joseph lived in Montreal (Exhibit R-11 and Transcript at 14).
+Several documents suggested that Sebastiana had an address in Canada. For example:
+o according to the information filed with the Registraire des entreprises du Québec, her address as a shareholder of Anjar indicates a Montreal address at 4040, rue Jean-B.-Meilleur (Exhibit A-1, Tab 6);
+o the 2006 deed of sale of unit 501 by Anjar to Sebastiana indicates her address to be unit 1402 at 4175, rue Sainte-Catherine Ouest in Montreal (Exhibit A-1, Tab 3);
+o On the lease entered into with David Siscoe in 2010, Sebastiana indicated she signed in Italy but provided an address in Pincourt, Quebec (Exhibit A-1, Tab 2);
+· Sebastiana had a bank account in Canada because the rental cheques were deposited in a TD Canada Trust account at a branch in Montreal (Exhibit R-6); and
+· Sebastiana had a social insurance number indicating she was a resident of Canada at some point and there is no evidence to suggest that she ceased to be a resident.
+[29] Counsel acknowledged that these ties were “not a lot” and added “but it is all that we have” (Transcript, Vol 2 at 22). Counsel submitted that the Appellant had successfully rebutted the Minister’s assumption that Sebastiana was living in Italy such that the Respondent bore the burden of making his case.
+[30] In addressing the issue of whether Sebastiana Trimarchi was a resident of Canada, the Respondent introduced evidence through the auditor, Choumele Jiofack. Ms. Jiofack testified that she was involved in auditing the appellant and explained that it was a secondary audit to that of the principal audit of David Siscoe. The principal audit led the auditor to request the Appellant’s general ledger and bank account statements. In light of the information contained therein, the auditor concluded that the Appellant was paying David Siscoe’s rent to Sebastiana Trimarchi and further that, rent was being paid to a non-resident.
+[31] As part of her audit procedures, Ms. Jiofack verified whether Sebastiana Trimarchi, the recipient of the rental payments was declaring this income. She discovered that Sebastiana Trimarchi had a social insurance number but did not file any income tax returns nor did she find any information returns such as those related to employment or interest income. In addition, other than providing her address at 1402-4175 Sainte Catherine Ouest, the Equifax report the auditor requested came back “empty”. Ms. Jiofack testified that, after consulting the land register, she was unable to find property, other than unit 501, tying Sebastiana to Canada.
+[32] Through information obtained from family members, Ms. Jiofack reached Sebastiana Trimarchi in Italy. I note that the telephone number used is the same one as that provided by Sebastiana on the lease she signed in 2010. During that conversation, Sebastiana stated that she was living in Italy. Ms. Jiofack testified that there was no contestation and no ambiguity that she was living in Italy and they had a discussion about Sebastiana’s tax obligations as a non-resident.
+[33] The Respondent introduced into evidence a Federal Court Order granting a motion for security for costs in relation to Sebastiana Trimarchi’s application to the Federal Court for judicial review of a decision by the Minister refusing her application for an extension of time to file income tax returns pursuant to section 216 of the Act for the years 2008 to 2015. In light of the objection from Counsel for the Appellant but with his consent, only part of the Application for judicial review was allowed to be introduced into evidence. Counsel for the Respondent argued that the part allowed into evidence showed that through her legal counsel, Sebastiana Trimarchi was seeking judicial review of a decision by which the Minister had denied her request for an extension of time to file under section 216, a provision that applies to non-residents.
+[34] Regarding the Canadian address that Sebastiana provided on the 2006 deed of sale to her of unit 501, Counsel for the Appellant suggested that this should be taken as her true address as the notary took no issue with the address and proceeded with the sale. In replying to this submission, Counsel for the Respondent argued that there was no evidence before the Court to suggest that the notary was required to verify the validity of her address as the purchaser of the unit. Counsel for the Respondent suggested that the other Canadian addresses Sebastiana Trimarchi provided could be addresses for service as they were the same addresses as that of relatives. The address provided was the same as that of Graziella Trimarchi on the information recorded with the Bureau du registraire des entreprises and the same as her mother’s address on the deed of purchase and sale of unit 501. In support of her position that these addresses should not be accepted as evidence that Sebastiana Trimarchi lived in Canada, Counsel for the Respondent referred to this Court’s decision in Kau v R, 2018 TCC 156 at paras 20-22. In that decision, Justice Russell found that statements as to residency can be wrong, intentionally or not, and should not unconditionally be accepted when there was no inquiry into whether the address provided was indicative of residence. I find that Sebastiana Trimarchi’s unsworn statements for which there were no inquiries are not necessarily conclusive of her residential addresses during the relevant years.
+[35] Based on the evidence reviewed above, I find that it is more likely than not that Sebastiana Trimarchi was a non-resident of Canada during the relevant taxation years. I refer in particular to the following evidentiary elements as indicative of Sebastiana Trimarchi’s non-residency, in no particular order:
+she did not file any income tax returns and did not have any information returns showing income such as employment or interest income;
+the absence of any links to property in Canada other than unit 501 which was rented out;
+an “empty” Equifax report;
+the phone number at which the auditor reached her in Italy was the same as the phone number she provided on the lease she signed with David Siscoe in 2010;
+her statements to the auditor about living in Italy;
+the addresses she provided on various documents were not the subject of any inquiry and were the same as that of family members living in Canada;
+the application filed in the Federal Court for judicial review of the Minister’s denial of her application for an extension of time to file returns pursuant to section 216 of the Act for 2008 to 2015, a provision that applies to non-residents; and
+the email correspondence between her and David Siscoe in 2014 and 2015 suggesting she had an Italian email address.
+Knowledge requirement for Part XIII tax
+[36] Counsel for the Appellant argued that knowledge is required for subsection 215(6) to apply. More specifically, he submitted that if the payer does not have knowledge that the payee is a non-resident, the payer should not have to bear the consequences of Part XIII. In support of his submissions, the Appellant relied on this Court’s decision in Curragh Inc v R, 94 DTC 1894 (Curragh). With respect, I find that the decision in Curragh is inapplicable to the circumstances of this case for three reasons: i) in the circumstances of that case, payment was made to a Canadian resident who was an agent for the non-resident payee and there is no such agent in this appeal; ii) in Curragh, the payer actually had knowledge that the payee was a non-resident; and (iii) Justice Mogan suggested that 215(6) is dependent upon the knowledge of the payer but added that he was not required to decide that precise issue on the facts of that case. Hence, in my view, the decision in Curragh cannot stand in support of the position that knowledge is required for subsection 215(6) to apply.
+[37] The Appellant further argued that an interpretation that would have subsection 215(6) apply to impose Part XIII tax on a tenant that has no knowledge that the landlord is a non-resident would be unjust and submitted that cannot be what the legislator intended. He implored the Court to choose an interpretation that is sensible, one that people can accept, rather than one that causes an injustice. Counsel acknowledged that the text of the provision does not contain a requirement that the payer have knowledge that the payee is a non-resident and stated he had no evidence of the legislator’s intention.
+[38] The Appellant suggested that the general obligation to withhold and remit should be interpreted as providing for a defence of due diligence as has been recognized in the case law for the interpretation of some penalty provisions. I agree that the case law has consistently held that a taxpayer can present a due diligence defence with respect to some penalty provisions but I do not agree that a due diligence defence can be mounted with respect to the obligation to withhold and remit pursuant to subsection 215(6). Support can be found in Justice Hogan’s decision in J.K. Reed Engineering Ltd v R, 2014 TCC 309 at para 17 wherein he stated: “Subsection 215(6) of the Act is a charging provision that makes the payer liable for the payee's tax if the payer fails to deduct or withhold at the time of payment tax that is payable by the payee. In contrast, subsection 227(8) of the Act is a penalty provision. A due diligence defence can be mounted against the latter but not the former.” It is worth reiterating that subsection 227(8) of the Act is an actual penalty provision for failure to withhold and remit any amount as required by section 215, added to support the collection of taxes imposed by the charging provision. I would add that, in any event, in this case, there is no suggestion nor evidence of due diligence on the part of the Appellant.
+[39] To summarize the Appellant’s reasoning, since David Siscoe did not know, and had no reason to believe, that Sebastiana Trimarchi was a non-resident, section 215 should not apply to the Appellant.
+[40] Counsel for the Respondent argued that liability under subsection 215(6) is not dependent on the taxpayer’s knowledge that payments were made to a non-resident. She submitted that when applying the textual, contextual and purposive interpretation mandated by the Supreme Court of Canada in Trustco v Canada, 2005 SCC 54, it is clear that there is no element of knowledge required to impose liability under subsection 215(6).
+[41] I agree with Justice Mogan’s comments in Curragh, supra at para 24, wherein he asserted that “section 215 is clear and not ambiguous. It does not need any aid to construction.” I will nonetheless consider the history of the provision introduced as Bill 96 in 1933 (Bill C-96, An Act to amend the Income War Tax Act, 4th Sess, 17th Parl, 1933, cl 12 (first reading 5 May 1933). According to the information in Bill 96, the predecessor to section 215 was introduced to support the administration of the charging provision imposing tax on non-residents, itself applicable since 1923. At first reading, Bill 96 provided as follows:
+12. Section twenty-seven of the said Act is amended by adding thereto the following subsections:
+“(3) Every person making any payment by any means whatsoever to a non-resident person on account of anything let, leased or used in Canada, or on account of royalties for anything used or sold in Canada shall deduct from every such payment twelve and one-half per centum thereof.
+(4) The amount so deducted shall be remitted to the Receiver General of Canada at the same time as the payment is made or credited to the non-resident person and shall be accompanied by a statement in the form prescribed by the Minister.[…]”
+12. This section is an enabling provision in support of section 27 of the Act, whereby all non-residents since 1923 have been liable for Canadian Income Tax on all rents and royalties. The provisions of the said section 27 as enacted in 1924 and applicable to the 1923 taxation period insofar as they deal with rents and royalties are as follows;
+“27…………. Or any non-resident person who lets or leases anything used in Canada or who receives a royalty or other similar payment for anything used or sold in Canada, shall be deemed to be carrying on business in Canada and to earn a proportionate part of the income derived therefrom in Canada.”
+The difficulty in administering this section has been that although non-residents have been liable for tax on rents and royalties since 1923, in the majority of instances such non-residents apparently have taken every means possible to avoid giving information, filing returns or admitting any liability under the Act, even though they were entitled to credit in their own country with respect to any income tax paid to Canada. By withholding a percentage of the rents and royalties at the source, the non-residents will be anxious to file his return showing his income from Canadian sources, together with any deductions on account of expenses applicable to such Canadian income, in order that the correct amount of his Canadian tax may be determined, as credit against the tax payable will be given for any amounts withheld and adjustments made accordingly.
+[42] Former subsection 215(6), added to the Act in 1960 under section 109(5) (Income Tax Act, RSC, 1952, c 148 as amended by 1960, c 43, s 29(2)) is virtually identical to the current version. There was no knowledge requirement in the withholding provision when it was first introduced and none has been added to the text since. In addition, when the legislator wants to limit a resident’s liability to circumstances where they have knowledge or belief, it expressly does so. Subsection 116(5) is one such example.
+[43] With respect to the penalty imposed in this matter, I agree with the Appellant that a defence of due diligence is available but, of course, that defence has to be made out. The Appellant has not proven that it has exercised reasonable care to ensure compliance with its obligations. The courts have found that to be successful in mounting a defence to the imposition of a penalty, it is expected that the taxpayer seeking to invoke a due diligence defence must show that they exercised a high degree of diligence to comply with their obligations under the Act (see for example, Ogden Palladium Services (Canada) Inc v R, 2001 DTC 345). In the circumstances of this case, the Appellant took no steps to ensure compliance with its withholding obligations. Counsel submitted that the Appellant was justified in not taking steps to ensure compliance because it had no reason to believe that Sebastiana Trimarchi was a non-resident. Unfortunately, that is not enough to meet the standard of a high degree of diligence. I therefore find that the Minister was justified in assessing the penalty pursuant to section 227(8) of the Act.
+VIII. Conclusion
+[44] Based on the above analysis, I find that subsection 215(6) is devoid of any requirement that the payer have knowledge that the payee is a non-resident. The provision clearly states that where a person has failed to deduct and remit as required, they are liable for Part XIII tax. Having concluded that Sebastiana Trimarchi was a non-resident during the relevant years, and the evidence having shown that the Appellant has failed to withhold and remit the 25% tax payable on the rent paid to her, the Appellant is liable for Part XIII tax. Further, the Appellant is liable for penalties and interest as provided for by subsections 227(8) and (8.3).
+[45] My examination of the scheme provided for in Part XIII of the Act leads me to conclude that it contains an integrated set of provisions designed to tax non-residents on income such as rents and to ensure collection of taxes due. As argued by the Appellant, Part XIII may have harsh consequences, and in some instances, even more so than in others. However, in light of the purpose of the scheme, I am persuaded that subsection 215(6) is meant to apply in a way that imposes liability on the resident payer, such as the Appellant, who has failed to withhold and remit.
+[46] The appeal is dismissed without costs.
+Signed at Ottawa, Canada, this 30th day of March 2023.
+“Gabrielle St-Hilaire”
+St-Hilaire J.
+CITATION:
+2023 TCC 37
+COURT FILE NO.:
+2021-1804(IT)I
+STYLE OF CAUSE:
+3792391 CANADA INC. AND HIS MAJESTY THE KING
+PLACE OF HEARING:
+Montréal, Québec
+DATE OF HEARING:
+March 8, 2023
+March 13, 2023
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Gabrielle St-Hilaire
+DATE OF JUDGMENT:
+March 30, 2023
+APPEARANCES:
+Counsel for the Appellant:
+Hong Ky (Eric) Luu
+Counsel for the Respondent:
+Samantha Jackmino
+Janie Payette
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Hong Ky (Eric) Luu
+Firm:
+HKL Tax Law
+For the Respondent:
+Shalene Curtis-Micallef
+Deputy Attorney General of Canada Ottawa, Canada

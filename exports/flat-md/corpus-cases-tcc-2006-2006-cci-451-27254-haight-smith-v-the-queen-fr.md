@@ -1,0 +1,204 @@
+---
+title: "Haight-Smith v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27254/index.do"
+last_modified: "2006-08-09"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 CCI 451"
+citation2: ""
+neutral_citation: "2006 CCI 451"
+decision_date: "2006-08-09"
+language: "fr"
+item_id: "27254"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 796
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T23:50:04.862000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "9147262a87d56a4bd9b5e159427e6d5ba8cb3adfc9b8510d6443ce1d53b01035"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Haight-Smith v. The Queen
+
+- Citation: 2006 CCI 451
+- Decision date: 2006-08-09
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 796, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Haight-Smith v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-08-09
+Référence neutre
+2006 CCI 451
+Numéro de dossier
+2004-4145(IT)I
+Juges et Officiers taxateurs
+Terrence O'Connor
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2004-4145(IT)I
+ENTRE :
+BARBARA HAIGHT-SMITH,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 6 juin 2006, à Kamloops (Colombie-Britannique)
+Devant : L'honorable juge T. O'Connor
+Comparutions :
+Représentant de l'appelante :
+Edward Smith
+Avocat de l'intimée :
+Me David Everett
+JUGEMENT
+Pour les motifs énoncés dans les motifs du jugement ci-joints, l'appel est rejeté, sous réserve, toutefois, qu'un taux de radiation de 50 % doit être appliqué auxstocks, et l'affaire est déférée au ministre pour nouvel examen et nouvelle cotisation en conséquence.
+Signé à Ottawa, Canada, ce 9e jour d'août 2006.
+« T. O'Connor »
+Le juge O'Connor
+Traduction certifiée conforme
+ce 5e jour de février 2007.
+Yves Bellefeuille, réviseur
+Référence : 2006CCI451
+Date : 20060809
+Dossier : 2004-4145(IT)I
+ENTRE :
+BARBARA HAIGHT-SMITH,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge O'Connor
+[1] Les présents appels ont été interjetés relativement aux années d'imposition 1999, 2000 et 2001 et soulèvent plusieurs questions qui concernent principalement des dépenses d'entreprise dont la déduction a été refusée.
+[2] Pour résumer les faits dans leur contexte, l'appelante, avec l'aide de son mari, Edward Smith, exploite une entreprise de produits de beauté (l' « entreprise » ) dans la région de Kamloops (Colombie-Britannique) depuis 1973. L'entreprise a déclaré les pertes suivantes de 1988 à 2003 :
+Année
+Revenu
+Perte déduite
+1988
+4 820 $
+9 891 $
+1989*
+52 761 $
+13 146 $
+1990
+48 919 $
+13 682 $
+1991
+37 073 $
+10 332 $
+1992
+26 663 $
+11 103 $
+1993
+25 801 $
+12 077 $
+1994
+18 569 $
+14 044 $
+1995
+14 601 $
+18 632 $
+1996
+8 914 $
+21 350 $
+1997
+4 039 $
+20 808 $
+1998
+3 489 $
+16 604 $
+1999
+2 837 $
+23 184 $
+2000
+830 $
+58 777 $
+2001
+2 329 $
+62 277 $
+2002
+559 $
+13 574 $
+2003
+468 $
+26 999 $
+* L'année 1999 est indiquée par erreur dans la réponse.
+Les dépenses dont la déduction a été refusée par le ministre pour 1999, 2000 et 2001 sont présentées de façon détaillée dans les annexes A, B et C de la réponse modifiée à l'avis d'appel (la « réponse » ). Lors de l'analyse des dépenses, on ne peut s'empêcher d'être influencé par le fait que les dépenses déduites au cours de ces 16 années sont si élevées que des pertes ont été subies pour chacune de ces années.
+[3] Pour ce qui est de l'année 1999, l'annexe A comporte un montant de 2 500 $ à titre de [TRADUCTION] « Frais juridiques et comptables et autres honoraires professionnels » dont la déduction a été refusée. D'après les témoignages, il semble que l'appelante a reconnu que la déduction de ce montant avait été refusée à juste titre, mais ce n'est pas tout à fait certain. Quoi qu'il en soit, les hypothèses du ministre (aux alinéas 10a), 10b) et 10c) de la réponse) selon lesquelles les montants représentent des dépenses personnelles ou des dépenses qui n'avaient pas été engagées afin de tirer un revenu d'une entreprise n'ont pas été réfutées et sont donc présumées exactes. Par conséquent, la déduction du montant de 2 500 $ a été refusée à juste titre.
+[4] L'annexe A comporte également un montant de 14 437 $ à titre de [TRADUCTION] « Déduction d'une dépense en capital admissible » dont la déduction a été refusée pour 1999. Ce montant se rapporte aux dépenses qui auraient été engagées relativement à des [TRADUCTION] « Marques de commerce, formules secrètes ou droits de commercialisation » . L'appelante a essayé de déduire cette dépense en capital en application de l'alinéa 20(1)b) de la Loi de l'impôt sur le revenu (la « Loi » ). Cette question a déjà été tranchée par la Cour dans l'appel no 2001-1195(IT)I. L'appelante n'ayant pas réussi à avoir gain de cause en appel, la décision est devenue définitive. Par conséquent, la question est réglée. Les principes de l'autorité de la chose jugée et de la préclusion s'appliquent, et la déduction du montant de 14 437 $ a été refusée à juste titre.
+[5] L'annexe A comporte un autre montant dont la déduction à titre de [TRADUCTION] « Déduction pour amortissement » (la « DPA » ) a été refusée pour 1999. Le montant demandé était de 2 368,67 $, et le montant dont la déduction a été refusée était de 2 156 $. Ce dernier concerne une demande de DPA relative à une automobile de marque Lincoln. La preuve montre que le véhicule avait été acheté pour 500 $ en 1999. Des améliorations ont été apportées à l'automobile par la suite, et l'appelante a essayé d'ajouter le coût de ces améliorations au coût en capital initial de l'automobile et de demander une DPA calculée sur cette base. À mon avis, le coût de ces améliorations apportées par la suite, s'il y a lieu, aurait dû être ajouté au coût en capital au moment où les améliorations ont été faites. Autrement dit, l'appelante n'a pas calculé de façon appropriée la DPA applicable à l'automobile, et la déduction du montant de 2 156 $ a été refusée à juste titre.
+[6] L'annexe A comporte un autre montant de 2 055 $ à titre de frais de bureau et de résidence dont la déduction a été refusée pour 1999. Le ministre a refusé la déduction de ce montant en raison du paragraphe 18(12) de la Loi, lequel a pour effet d'interdire la déduction de ce genre de frais s'ils créent ou augmentent une perte. La déduction a été refusée à juste titre.
+[7] Pour ce qui est de l'année 2000, l'annexe B comporte un montant de 7 741,82 $ à titre de [TRADUCTION] « Frais juridiques et comptables et autres honoraires professionnels » dont la déduction a été refusée. Pour les mêmes motifs que ceux susmentionnés concernant la demande présentée pour 1999 pour ce genre de frais, la déduction du montant a été refusée à juste titre.
+[8] L'annexe B comporte un autre montant de 40 000 $ à titre de [TRADUCTION] « Perte d'entreprise » dont la déduction a été refusée pour l'année d'imposition 2000. Ce montant se rapporte à une perte qui aurait été subie par l'appelante relativement à une entreprise au Nigeria. Cette question a déjà été tranchée par la Cour dans l'appel no 2001-1195(IT)I, et la décision est devenue définitive. Par conséquent, la question est réglée. Les principes de l'autorité de la chose jugée et de la préclusion s'appliquent, et la déduction du montant de 40 000 $ a été refusée à juste titre.
+[9] L'annexe B comporte un autre montant de 7 845 $ à titre de [TRADUCTION] « Montant en capital admissible » dont la déduction a été refusée pour l'année d'imposition 2000. L'appelante a demandé un montant initial de 8 009,82 $. Ce montant comprenait un montant de 164,82 $ lié à la DPA qui a été admis par le ministre. La déduction du reste du montant, soit 7 845 $, a été refusée. Comme il a été mentionné précédemment pour l'année 1999 en ce qui concerne la dépense en capital admissible, la question a déjà été tranchée dans la décision mentionnée ci-dessus pour 1999. Par conséquent, la déduction du montant de 7 845 $ a été refusée à juste titre.
+[10] Pour ce qui est de l'année 2001, les montants dont la déduction a été refusée figurent dans l'annexe C : - Achats - 492 $ - Intérêt - 997,86 $ - Frais de bureau - 1 682 $. Étant donné l'absence de documents comptables, de reçus et d'autres éléments de preuve satisfaisants, je conclus que la déduction de ces montants a été refusée à juste titre.
+- Frais juridiques et comptables et autres honoraires professionnels - 9 320,58 $. Pour les motifs énoncés ci-dessus pour 1999, la déduction de ce montant a été refusée à juste titre.
+- Montant en capital admissible - 40 000 $. Il s'agit de la même dépense que celle libellée « Perte d'entreprise » pour l'année 2000, et, pour les motifs énoncés ci-dessus à l'égard de cette dépense engagée en l'an 2000, la déduction de ce montant a été refusée à juste titre.
+- Déduction pour amortissement - 5 890 $. Le ministre a refusé la déduction de 5 535 $. Ce montant se rapporte à l'automobile de marque Lincoln susmentionnée, et, pour les motifs exposés ci-dessus, la déduction du montant de 5 535 $ a été refusée à juste titre.
+[11] Une autre question a été soulevée en l'espèce concernant le paragraphe 5 et les alinéas 10d) et 10e) de la réponse, lesquels sont rédigés ainsi :
+[TRADUCTION]
+5. Dans une lettre datée du 15 mars 2003, le représentant [Edward Smith] a demandé que des stocks totalisant 9 599,53 $ soient radiés à raison de 3 199,87 $ par année pour les années d'imposition faisant l'objet de la vérification. Le ministre a refusé d'effectuer le rajustement demandé pour les stocks.
+10. Pour établir les nouvelles cotisations et les ratifier, [...] le ministre s'est fondé sur les hypothèses de fait suivantes :
+[...]
+d) moins de 80 % des stocks étaient obsolescents;
+e) la radiation des stocks n'était pas raisonnable;
+[12] Dans la transcription, cette question a été étudiée à fond. Le vérificateur, Jason Roth, un témoin crédible et minutieux, a indiqué dans son témoignage que la radiation concernait 80 % des stocks et que, selon lui, ce pourcentage était déraisonnablement élevé, principalement parce que certains des biens en stock étaient encore vendus dans la région. L'inspection des stocks avait été effectuée de façon superficielle, et ce, principalement parce que la question des stocks n'avait été soulevée qu'après la fin de la vérification de base et que Edward Smith semblait y avoir pensé après coup. Quoi qu'il en soit, le vérificateur et l'avocat de l'intimée ont admis qu'il y avait lieu, dans une certaine mesure, de demander une radiation des biens en stock obsolescents. Il est extrêmement difficile pour qui que ce soit de déterminer avec exactitude quel est le pourcentage approprié. Il est clair que des biens en stock sont devenus obsolescents, ce qui a entraîné une perte liée principalement aux ventes à l'étranger, surtout au Japon. Compte tenu de l'ensemble des témoignages présentés et des allégations soulevées, je conclus qu'un taux de radiation de 50 % doit être appliqué aux stocks.
+[13] Une autre question a été soulevée. L'appelante insiste sur le fait que l'intérêt sur l'arriéré d'impôt doit être annulé. La Cour n'a pas compétence pour annuler l'intérêt sur l'impôt ou sur l'arriéré d'impôt. Il s'agit là d'une question relevant du Comité de l'équité et, si l'appelante soumet l'affaire à ce comité, je recommande que le Comité envisage sérieusement d'annuler l'intérêt. Je dis cela à cause des motifs invoqués par l'appelante, qui se rapportaient principalement au fait que des documents et des dossiers avaient été perdus par les représentants du ministre, et parce que les préoccupations de l'appelante en ce qui concerne l'année 1999 avaient principalement trait au fait que le juge saisi de l'appel no 2001-1195(IT)I susmentionné a refusé de se prononcer sur l'année en question alors que cette année avait été soulevée par l'appelante, et qu'elle fait encore une fois l'objet du présent appel. Je renvoie l'appelante à la circulaire d'information 92-2, laquelle fournit tous les renseignements nécessaires ainsi que des lignes directrices concernant la présentation d'une demande au Comité de l'équité.
+[14] Pour tous les motifs susmentionnés, l'appel est rejeté, sous réserve, toutefois, qu'un taux de radiation de 50 % doit être appliqué aux stocks, et l'affaire est déférée au ministre pour nouvel examen et nouvelle cotisation en conséquence.
+Signé à Ottawa, Canada, ce 9e jour d'août 2006.
+« T. O'Connor »
+Le juge O'Connor
+Traduction certifiée conforme ce 5e jour de février 2007.
+Yves Bellefeuille, réviseur
+RÉFÉRENCE :
+2006CCI451
+NO DU DOSSIER DE LA COUR :
+2004-4145(IT)I
+INTITULÉ DE LA CAUSE :
+Barbara Haight-Smith c. Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+Kamloops (Colombie-Britannique)
+DATE DE L'AUDIENCE :
+Le 6 juin 2006
+MOTIFS DU JUGEMENT PAR :
+L'honorable juge T. O'Connor
+DATE DU JUGEMENT :
+Le 9 août 2006
+COMPARUTIONS :
+Représentant de l'appelante :
+Edward Smith
+Avocat de l'intimée :
+Me David Everett
+AVOCAT(S) INSCRIT(S) AU DOSSIER :
+Pour l'appelante :
+Nom :
+Cabinet :
+Pour l'intimée :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

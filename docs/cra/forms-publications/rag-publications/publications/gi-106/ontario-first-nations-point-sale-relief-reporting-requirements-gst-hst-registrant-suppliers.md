@@ -1,0 +1,150 @@
+---
+title: "Ontario First Nations Point-of-Sale Relief – Reporting Requirements for GST/HST Registrant Suppliers"
+source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/gi-106/ontario-first-nations-point-sale-relief-reporting-requirements-gst-hst-registrant-suppliers.html
+last_modified: 2019-05-29
+---
+# Ontario First Nations Point-of-Sale Relief – Reporting Requirements for GST/HST Registrant Suppliers
+
+GST/HST Info Sheet GI-106June 2011
+
+This version replaces the one dated July 2010.
+
+The Government of Ontario relieves status Indians[Footnote1](#fn1), Indian bands and councils of an Indian band ("status Indian purchasers") from tax on qualifying purchases. The relief is an amount equal to the 8% provincial part of the HST.
+
+The information provided in this info sheet is based on the Credit for Provincial Relief (HST) Regulations published on March 16, 2011.
+
+Since September 1, 2010, GST/HST registrant suppliers are allowed to credit status Indian purchasers at the time of sale with an amount equal to the 8% provincial part of the HST for qualifying off-reserve supplies of property or services. The Canada Revenue Agency (the CRA) processes registrant suppliers' claims for a credit in respect of amounts that they have credited to status Indian purchasers at the point of sale.
+
+This info sheet discusses how a GST/HST registrant supplier reports the HST on qualifying off-reserve supplies of property or services for reporting periods ending on or after September 1, 2010, and how the amount credited at the point of sale should be shown on invoices.
+
+For information on qualifying off-reserve supplies of property or services and who is eligible for the relief, refer to the Ontario Ministry of Finance's publications entitled [Ontario First Nations Point-of-Sale Exemptions](http://www.fin.gov.on.ca/en/guides/hst/80.html) and [What’s Taxable Off-Reserve Under the HST and What’s Not](http://www.fin.gov.on.ca/publication/hst-whatstaxable-firstnations-en.pdf)*.*
+
+## Amounts credited by a GST/HST registrant supplier
+
+When a registrant supplies qualifying property or services off a reserve to a status Indian purchaser, the registrant may credit an amount equal to the 8% provincial part of the HST and only collect the 5% federal part of the HST on that property or service.
+
+The CRA reminds registrants of their obligations under the GST/HST disclosure and invoicing requirements. See the Appendix for a list of options available to registrants on how to show the amounts credited on invoices.
+
+## How registrant suppliers report credited amounts
+
+In contrast to point-of-sale rebates for certain designated items such as children's clothing and books, the registrant is required to include on its GST/HST return:
+
+- on line 105, Total GST/HST and adjustments, the amount of HST collectible in respect of the supplies at the **full** 13% rate so that net tax for the reporting period reflects tax collected or collectible at 13%; and
+
+- on line 111, Rebates, the total amount credited at the point of sale.
+
+Also in contrast to point-of-sale rebates for certain designated items for which documentation is not required to be filed, a registrant crediting the amount for qualifying off-reserve purchases made by status Indian purchasers is required to file for the relief by either
+
+- completing and filing Form [GST189, General Application for Rebate of GST/HST](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/gst189.html), or
+
+- completing and submitting the relief form using GST/HST NETFILE.
+
+### Registrant uses form GST189 to file for the relief
+
+If the registrant does not use GST/HST NETFILE to file for the relief, the registrant must complete Form GST189, using Code 23. In Section II of Form GST189, the registrant is required to:
+
+- report the amount that has been credited to status Indian purchasers at the point of sale. **Note**: Do **not** include amounts in respect of items that are otherwise relieved from GST/HST or eligible for a point-of-sale rebate of the provincial part of the HST for certain designated items; and
+
+- identify the reporting period to which the set-off on line 111 of the GST/HST return applies.
+
+The registrant submits Form GST189 with its GST/HST return for the reporting period in which the set-off is made to the local tax centre. However, if the registrant electronically files its return, the registrant is required to mail Form GST189 to:
+
+Sudbury Tax Centre 1050 Notre Dame Avenue Sudbury ON P3A 5C1
+
+The tax centre should receive the GST189 form on or before the due date of the GST/HST return.
+
+### Registrant uses GST/HST NETFILE to file for the relief
+
+A registrant that files its GST/HST return using GST/HST NETFILE can electronically file for Ontario First Nations point-of-sale relief. To do so, the registrant must answer "yes" to the Ontario First Nations point-of-sale relief question that appears on the initial Web form.
+
+When the registrant selects the "Next" button, the registrant is presented with the form General Application of Rebate for GST/HST, which allows the registrant to complete line 23 for the Ontario First Nations point-of-sale relief. The amount is automatically carried over to line 111 of the NETFILE return.
+
+If the registrant uses GST/HST NETFILE to file for the Ontario First Nations point-of-sale relief, the registrant should not mail the CRA a paper copy of the form.
+
+During a particular reporting period, a GST/HST registrant in Ontario credits status Indian purchasers $10,000 on qualifying off-reserve supplies of property and services. During this reporting period, the registrant has HST collected or collectible of $100,000, which includes the amount of $10,000 credited to status Indian purchasers, exclusive of point-of-sale rebates for certain designated items provided to those status Indian purchasers. The registrant claims input tax credits (ITCs) of $50,000 for the reporting period. The registrant chooses to file a paper version of its GST/HST return.
+
+The registrant reports this information on the GST/HST return for that reporting period in the following manner:
+
+| Total GST/HST and adjustments (Line 105) | $100,000 |
+
+| --- | --- |
+
+| Total ITCs and adjustments (Line 108) | $50,000 |
+
+| Net Tax (Line 109) | $50,000 |
+
+| Rebates (Line 111) | $10,000 |
+
+| Balance (Line 113) | $40,000 |
+
+The registrant is also required to complete Form GST189, *General Application for Rebate of GST/HST,*by reporting the $10,000 amount and indicating the reporting period of that return.
+
+The registrant would be incorrectly reporting if the registrant either:
+
+- **reduces GST/HST collected or collectible by the $10,000:**
+
+- **increases the amount of ITCs claimed:**
+
+| Total GST/HST and adjustments (Line 105) | $90,000 |
+
+| --- | --- |
+
+| Total ITCs and adjustments (Line 108) | $50,000 |
+
+| Net Tax (Line 109) | $40,000 |
+
+| Rebates (Line 111) | $0 |
+
+| Balance (Line 113) | $40,000 |
+
+| Total GST/HST and adjustments (Line 105) | $100,000 |
+
+| --- | --- |
+
+| Total ITCs and adjustments (Line 108) | $60,000 |
+
+| Net Tax (Line 109) | $40,000 |
+
+| Rebates (Line 111) | $0 |
+
+| Balance (Line 113) | $40,000 |
+
+## Rebate claims filed by status Indian purchasers
+
+In the event that a status Indian purchaser pays the 8% provincial part of the HST on a qualifying off-reserve supply of property or a service (that is, the supplier did not credit an amount equal to the provincial part of the HST), the purchaser may be entitled to apply to the Ontario Ministry of Revenue for a rebate equal to the provincial part of the HST paid.
+
+## For further information
+
+The provincial relief discussed in this info sheet is in addition to the relief currently provided to Indians and Indian bands under section 87 of the [Indian Act](http://laws.justice.gc.ca/eng/I-5/index.html). Refer to GST/HST Info Sheet [GI-072, HST and First Nations in Ontario and British Columbia](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/gi-072.html), or Technical Information Bulletin [B-039, GST/HST Administrative Policy – Application of the GST/HST to Indians](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/b-039.html) for further information on the current relief provided.
+
+For information on qualifying property and services, who is eligible for relief, and the documentary requirements to support amounts credited to status Indian purchasers, contact the Government of Ontario at 1-866-668-8297.
+
+For information for GST/HST registrants on completing the GST/HST return and the GST189 rebate application form, contact the CRA at 1-800-959-5525.
+
+This info sheet does not replace the law found in the Excise Tax Act (the Act) and its regulations. It is provided for your reference. As it may not completely address your particular operation, you may wish to refer to the Act or appropriate regulation, or contact any CRA GST/HST rulings office for additional information. A ruling should be requested for certainty in respect of any particular GST/HST matter. [Pamphlet RC4405, GST/HST Rulings – Experts in GST/HST Legislation](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4405.html) explains how to obtain a ruling and lists the GST/HST rulings offices. If you wish to make a technical enquiry on the GST/HST by telephone, please call 1-800-959-8287.
+
+Reference in this publication is made to supplies that are subject to the GST or the HST. The HST applies in the participating provinces at the following rates: 13% in Ontario, New Brunswick and Newfoundland and Labrador, 15% in Nova Scotia, and 12% in British Columbia. The GST applies in the rest of Canada at the rate of 5%. If you are uncertain as to whether a supply is made in a participating province, you may refer to [GST/HST Memorandum 3-3-2, Place of Supply in a Province – Overview](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/3-3-2.html).
+
+If you are located in Quebec and wish to make a technical enquiry or request a ruling related to the GST/HST, please contact Revenu Québec at 1-800-567-4692. You may also visit the [Revenu Québec Web site](http://www.revenuquebec.ca/en/default.aspx) to obtain general information.
+
+All technical publications related to GST/HST are available on the CRA Web site at [www.cra.gc.ca/gsthsttech](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/technical-information-gst-hst.html).
+
+## Appendix – How GST/HST registrant suppliers show the amount credited on their invoices
+
+When disclosing the HST on an invoice or receipt issued in respect of a qualifying off-reserve supply of property or services for which the GST/HST registrant supplier has credited an amount to a status Indian purchaser at the point of sale, the registrant may show:
+
+- the total amount of the HST payable (or the total HST rate) with the credited amount shown separately;
+
+- the total HST payable as an amount net of the credited amount; or
+
+- the total price of the qualifying property or service that includes HST at a net rate of 5%.
+
+**Note:**The netting of the HST amount to 5%, or having the price include HST at a net rate of 5%, is only permitted on the invoice, while the GST/HST return must show tax at 13% on line 105, Total GST/HST and adjustments, and the amount credited on line 111, Rebates.
+
+A retailer in Ontario sells qualifying property off reserve to a status Indian purchaser for $50 and credits an amount of $4 ($50 × 8% = $4) at the point of sale. The retailer would have the following three options for disclosing the total HST payable and the amount credited for the 8% provincial part:
+
+or
+
+or
+
+For information on invoicing requirements for GST/HST registrants, see Guide [RC4022, General Information for GST/HST Registrants](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4022.html).

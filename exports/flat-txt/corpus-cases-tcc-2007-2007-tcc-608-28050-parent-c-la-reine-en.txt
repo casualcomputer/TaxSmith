@@ -1,0 +1,131 @@
+Title: Parent c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28050/index.do
+Corpus path: corpus/cases/tcc/2007/2007-tcc-608-28050-parent-c-la-reine-en.md
+Document type: case_law
+Last modified: 2007-05-29
+
+# Parent c. La Reine
+
+- Citation: 2007 TCC 608
+- Decision date: 2007-05-29
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1570, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Parent c. La Reine
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-05-29
+Neutral citation
+2007 TCC 608
+File numbers
+2006-3284(IT)I
+Judges and Taxing Officers
+Alain Tardif
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2006-3284(IT)I
+BETWEEN:
+CÉLINE PARENT,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on May 29, 2007, at Québec, Quebec.
+Before: The Honourable Justice Alain Tardif
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Christina Ham
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 2004 taxation year is dismissed, in accordance with the attached Reasons for Judgments.
+Signed at Ottawa, Canada, this 24th day of October 2007.
+“Alain Tardif”
+Tardif J.
+Translation certified true
+on this 26th day of November 2007.
+Daniela Possamai, Translator
+Citation: 2007TCC608
+Date: 20071024
+Docket: 2006-3284(IT)I
+BETWEEN:
+CÉLINE PARENT,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Tardif J.
+[1] This is an appeal under the Income Tax Act (the Act) pertaining to the 2004 taxation year. The Appellant paid fees of $1,810 to a Naturopath which she wanted to deduct as medical expenses, which the Respondent disallowed.
+[2] The issue is whether, for the year in question, the Minister of National Revenue (the Minister) was justified in disallowing the deduction of $1,810 to the Appellant for purposes of computing the tax credit for medical expenses for the 2004 taxation year.
+[3] In making and confirming the reassessment dated November 15, 2005, in respect of the 2004 taxation year, the Minister assumed the same facts:
+[TRANSLATION]
+(a) the Appellant, resident of the province of Quebec, claimed $1,810 in medical expenses for the 2004 taxation year which she paid to a Naturopath for services rendered in the province of Quebec;
+(b) the Minister disallowed the deduction because fees paid to a Naturopath are not eligible medical expenses; in fact, in the province of Quebec, Naturopaths are not regulated.
+[4] The facts are not in dispute and are very simple; basically, fees of $1,810 were paid to a Naturopath and the Appellant would like to deduct that amount as medical expenses.
+[5] At the hearing, the Appellant asked the Court to include in or attach to her appeal deduction claims for the taxation years following 2004 where the amounts in issue appear to be larger.
+[6] Obviously, such a request cannot be granted. The jurisdiction of the Tax Court of Canada is limited to confirming, varying or vacating an assessment. Therefore, an assessment must first be made; furthermore, the assessment must, in principle, have been the subject of a notice of objection followed by a decision and the date on which the decision is rendered represents the commencement of time to appeal to the Court.
+[7] The Appellant’s appeal cannot, therefore, be granted as the Appellant has yet to receive her assessment. As for her appeal, the Appellant basically went over the content of her Notice of Appeal again. I reproduce the main portion of her Notice of Appeal:
+[TRANSLATION]
+. . .
+To the Registrar of the Court:
+I wish to appeal to the Tax Court of Canada following the decision of the Canada Revenue Agency in its registered letter of September 18, 2006, concerning its refusal to consider the fees in the amount of $1,810.00 paid to a Naturopath as eligible medical expenses for reasons I deem to be unfair.
+1. Naturopaths practising in Quebec are part of a professional association recognized within Quebec’s health system.
+2. Quebec’s life and health insurance companies accept to cover part of the fees paid to Naturopaths who are part of Quebec’s professional association.
+3. The fees paid to Naturopaths who are part of Quebec’s professional association are recognized as eligible medical expenses in Quebec’s income tax returns but not in tax returns filed with the Canada Revenue Agency.
+4. According to the Canada Revenue Agency, fees paid to Naturopaths practising in Ontario are eligible in Revenue Canada tax returns, by which the Canada Revenue Agency prejudices Quebec taxpayers.
+5. According to the Canada Revenue Agency, if a Naturopath who practised in Ontario went to practise in Quebec, the fees of that Naturopath (Ontario) would not be deductible by Revenue Canada, which is unfair.
+6. I produced all claims for fees paid to a Naturopath in my 2004 income tax return filed with Revenue Canada and Revenu Québec refers to the Canada Revenue Agency for vouchers relating to medical expenses. Such an imbroglio is unthinkable.
+7. I believe it was not Parliament’s intent to penalize taxpayers from one province (Quebec) at the expense of another province such as Ontario.
+8. The interpretation and application of sections 118.2(1) and 118.2(2) by the Canada Revenue Agency is unfair and penalizes Quebec taxpayers.
+. . .
+[8] The accreditation status or recognition of attributes required to be part of a particular occupational category fall within exclusive provincial jurisdiction.
+[9] Obtaining such recognition or accreditation often requires a long and arduous process; considering the numerous and powerful adverse interests, this often causes lengthy delays. One thing is certain, it is clear that approaches and conceptions evolve often following sustained and forceful claims.
+[10] I believe the Court has neither a role to play with respect to any process whatsoever leading to a change in attitude, particularly in areas over which it has no jurisdiction, nor expertise to draw any conclusion whatsoever.
+[11] It is for the persons and groups concerned to move their professional recognition project forward until the provisions of the Income Tax Act in question are amended.
+[12] In other words, the Tax Court of Canada has absolutely no jurisdiction to decide whether or not a particular discipline or practice should be part of a particular occupational category.
+[13] Not only can the Tax Court of Canada not interfere in questions of the recognition or accreditation of professionals who are devoted to finding solutions to the many health problems of today, but it must also be careful not to make decisions that would constitute indirect interference and be adopted by a particular lobby very quickly.
+[14] In the case at bar, even though the Appellant’s observations are very interesting and her assessments as to her wellness are very positive following the treatment received or the recommendations made, I cannot allow her appeal.
+[15] In fact, the Appellant and her representative submitted that the Naturopath, to whom the fees she is trying to deduct were paid, was qualified and competent. She stated that, owing to the Naturopath’s care, her health greatly improved. I cannot, based simply on such an assertion, conclude that the professional care in question is deductible under the Income Tax Act.
+[16] Moreover, the argument that Naturopaths enjoy a tacit recognition considering the absence of criminal proceedings respecting the illegal practice of medicine by the Collège des médecins does not in any way confer on the Appellant the right to deduct the fees in question.
+[17] The Appellant invested a great deal of energy in preparing her case. Her arguments are no doubt seductive, but they are not being argued before the appropriate body.
+[18] I must reiterate the observations made at the hearing that the Court has no jurisdiction to legislate as the only jurisdiction it has is to verify whether the assessment was correctly made under the provisions of the Act. In that regard, the assessment for the period in issue was in every respect consistent with the Act.
+[19] The Appellant invested many hours in preparing her case. She also produced voluminous and very interesting documentary evidence in support of her case.
+[20] Regrettably, however, the arguments submitted, though reasonable and relevant in terms of the objectives of the case, are not admissible to dispose of the appeal.
+[21] In other words, I must essentially decide the correctness of the assessment based on the existing law. I cannot assume the role of the legislator, although I can comment on certain shortcomings, particularly concerning the lack of harmonization between the statutes and regulations in force in the various Canadian provinces.
+[22] With respect to the merits of the case, the decision I rendered on October 5, 2005, in Denis Roy v. The Queen, docket 2004-1417(IT)I, is still applicable.
+[23] For all these reasons, the appeal is dismissed.
+Signed at Ottawa, Canada, this 24th day of October 2007.
+“Alain Tardif”
+Tardif J.
+Translation certified true
+on this 26th day of November 2007.
+Daniela Possamai, Translator
+CITATION: 2007TCC608
+COURT FILE NO.: 2006-3284(IT)I
+STYLE OF CAUSE: CÉLINE PARENT AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Québec, Quebec
+DATE OF HEARING: May 29, 2007
+REASONS FOR JUDGMENT BY: The Honourable Justice Alain Tardif
+DATE OF HEARING: October 24, 2007
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Christina Ham
+COUNSEL OF RECORD:
+For the Appellant:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

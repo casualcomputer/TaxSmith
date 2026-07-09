@@ -1,0 +1,159 @@
+Title: McFarland v. The King
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/521037/index.do
+Corpus path: corpus/cases/tcc/2022/2022-tcc-168-521037-mcfarland-v-the-king-en.md
+Document type: case_law
+Last modified: 2022-12-19
+
+# McFarland v. The King
+
+- Citation: 2022 TCC 168
+- Decision date: 2022-12-19
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5771, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+McFarland v. The King
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2022-12-19
+Neutral citation
+2022 TCC 168
+File numbers
+2017-392(IT)I, 2018-4572(IT)I, 2019-28(IT)I
+Judges and Taxing Officers
+Sylvain Ouimet
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2017-392(IT)I
+2018-4572(IT)I
+BETWEEN:
+RANDY MCFARLAND,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent;
+Docket: 2019-28(IT)I
+AND BETWEEN:
+OPTIMUM RESOURCE MANAGEMENT LTD.,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+Case management conference held on June 20, 2022
+at Vancouver, British Columbia
+Before: The Honourable Justice Sylvain Ouimet
+Appearances:
+Counsel or the Appellants:
+John Drove
+Counsel for the Respondent:
+Daniel Cortes-Blanquicet
+Katherine Shelley
+ORDER
+In accordance with the attached Reasons for Order, the Appellants’ motion for an adjournment is granted.
+The hearing is adjourned sine die.
+Costs are awarded to the Respondent.
+The Appellants shall pay costs in the amount of $685 to the Respondent within 30 days of the date of this order.
+Signed at Ottawa, Canada, this 19th day of December 2022.
+“Sylvain Ouimet”
+Ouimet J.
+Citation: 2022 TCC 168
+Date: 20221219
+Docket: 2017-392(IT)I
+2018-4572(IT)I
+BETWEEN:
+RANDY MCFARLAND,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent;
+Docket: 2019-28(IT)I
+AND BETWEEN:
+OPTIMUM RESOURCE MANAGEMENT LTD.,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+REASONS FOR ORDER
+Ouimet J.
+I. FACTS
+[1] The appeals were scheduled to be heard in Vancouver, British Columbia, over three days commencing on June 20, 2022.
+[2] On or around June 16, 2022, the agent for the Appellants, Mr. Raymond Wiseman (“Mr. Wiseman”), advised the Appellants that he could no longer represent them for medical reasons.
+[3] On June 16, 2022, a notice of appointment of counsel of record was filed by Mr. John Drove (“Mr. Drove”).
+[4] On June 16, 2022, Mr. Drove filed a request for an adjournment. This resulted in the Court ordering that a case management conference be held in person on June 20, 2022.
+[5] On June 20, 2022, a case management conference took place. During the hearing, Mr. Drove confirmed that Mr. Wiseman could no longer represent the Appellants on account of the fact that he had post-COVID-19 condition (also known as long COVID).
+[6] On June 20, 2022, despite this being the fourth adjournment request in these matters, the Court granted the adjournment because it had been requested for medical reasons. The Court gave the Appellants 30 days to provide a medical certificate stating that Mr. Wiseman had post-COVID-19 condition. The Court told the Appellants that if a medical certificate was not provided, costs would be awarded to the Respondent.
+[7] On July 20, 2022, the Appellants filed a letter that included a medical certificate dated July 13, 2022. The doctor’s certificate stated that Mr. Wiseman had told the doctor that he had tested positive for COVID-19 on June 15, 2022.
+II. THE RESPONDENT’S POSITION
+[8] At the hearing, the Respondent took no position with respect to the adjournment request, but submitted that this was the fourth adjournment in these matters. The Respondent further submitted that if the request was granted by the Court, it would be appropriate for the Court to award costs to the Respondent if the Appellants could not provide a medical certificate.
+[9] On July 21, 2022, counsel for the Respondent submitted that the medical certificate provided to the Court on July 20, 2022 was not a valid certificate and that consequently the Court should order costs to the Respondent. The Respondent submitted that the medical certificate only reported what Mr. Wiseman had told the doctor that he had tested positive for COVID-19 on June 15, 2022. The Respondent also submitted that this certificate is not proof that Mr. Wiseman did test positive. Furthermore, in the medical certificate, the doctor does not attest that Mr. Wiseman tested positive for COVID-19 on June 15, 2022, or that he was still experiencing symptoms related to COVID-19 on June 20, 2022.
+[10] Finally, the Respondent submitted that the medical certificate is inconsistent with the representations made during the case management conference that Mr. Wiseman could not attend the hearing because he had post-COVID-19 condition.
+III. ANALYSIS
+[11] I agree with the Respondent. Mr. Wiseman’s medical certificate does not state that Mr. Wiseman could no longer represent the Appellants because he had post-COVID-19 condition. The certificate only states that Mr. Wiseman told the doctor that he had tested positive for COVID‑19. Accordingly, it is insufficient and it is not what the Court requested from the Appellants.
+[12] Furthermore, the Court notes that the certificate does not support the submissions made by the Appellants’ counsel during the case management conference of June 20, 2022. It does not indicate that Mr. Wiseman had post-COVID-19 condition. Consequently, one could conclude that the submissions made at the hearing were misleading.
+[13] On the basis of the facts summarized above, the Court has concluded that the Appellants’ actions have unduly delayed the prompt and effective resolution of these appeals. Not only was the adjournment request made on June 16, 2022, days before the hearing, but the medical certificate provided in support of the adjournment after the fact does not even contain the information requested by the Court in order to grant the adjournment without costs.
+[14] Rule 10 of the Tax Court of Canada Rules (Informal Procedure) [1] (“Rules”) reads as follows:
+10 (1) The Court may determine the amount of the costs of all parties involved in any proceeding, the allocation of those costs and the persons required to pay them.
+(2) The Court may award costs to the respondent, in an amount not exceeding the amounts listed in section 11, only if the actions of the appellant unduly delayed the prompt and effective resolution of the appeal.
+(3) The Court may direct the payment of costs in a fixed sum, in lieu of any taxed costs.
+[15] Pursuant to subrule 10(2) of the Rules, this Court may award costs to the Respondent in an amount not exceeding the amounts listed in Rule 11, only if the actions of the Appellants unduly delayed the prompt and effective resolution of the appeal. Rule 11 of the Rules reads as follows:
+11 On the taxation of party and party costs the following fees may be allowed for the services of counsel
+(a) for the preparation of a notice of appeal or for advice relating to the appeal, $185;
+(b) for preparing for a hearing, $250;
+(c) for the conduct of a hearing, $375 for each half day or part of a half day; and
+(d) for the taxation of costs, $60.
+[16] Consequently, and pursuant to Rule 10 and Rule 11 of the Rules, the maximum amount that can be awarded is $685. The amounts are as follows:
+As per Rule 11(b):
+$250
+As per Rule 11(c):
+$375
+As per Rule 11(d):
+$60
+Total:
+$685
+IV. CONCLUSION
+[17] In accordance with the reasons above, the adjournment is granted sine die.
+[18] For the reasons stated above, the Court concludes that the actions of the Appellants unduly delayed the prompt and effective resolution of the appeal. Therefore, pursuant to Rule 10 and Rule 11 of the Rules, costs are awarded to the Respondent in the amount of $685.
+[19] The Appellants shall pay the costs awarded to the Respondent within 30 days of the date of this order.
+Signed at Ottawa, Canada, this 19th day of December 2022.
+“Sylvain Ouimet”
+Ouimet J.
+CITATION:
+2022 TCC 168
+COURT FILE NO.:
+2017-392(IT)I, 2018-4572(IT)I,
+2019-28(IT)I
+STYLE OF CAUSE:
+Randy McFarland and
+Optimum Resource Management Ltd. v.
+HIS MAJESTY THE KING
+PLACE OF HEARING:
+Vancouver, British Columbia
+DATE OF HEARING:
+June 20, 2022
+REASONS FOR ORDER BY:
+The Honourable Justice Sylvain Ouimet
+DATE OF ORDER:
+December 19, 2022
+APPEARANCES:
+Counsel for the Appellants:
+John Drove
+Counsel for the Respondent:
+Daniel Cortes-Blanquicet
+Katherine Shelley
+COUNSEL OF RECORD:
+For the Appellants:
+Name:
+John Drove
+Firm:
+John Drove Law Corporation
+For the Respondent:
+François Daigle
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Tax Court of Canada Rules (Informal Procedure), SOR/90-688b.

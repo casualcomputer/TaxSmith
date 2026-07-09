@@ -1,0 +1,239 @@
+---
+title: "Turner v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/25237/index.do"
+last_modified: "2005-06-14"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 TCC 313"
+citation2: ""
+neutral_citation: "2005 TCC 313"
+decision_date: "2005-06-14"
+language: "en"
+item_id: "25237"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2413
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T20:38:52.686000+00:00"
+cases_cited_count: 2
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "a113cdb70ca08f4af014dd5da1621bd6ae47a9360227de7e321ff013f6fb6d96"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Turner v. The Queen
+
+- Citation: 2005 TCC 313
+- Decision date: 2005-06-14
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2413, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Turner v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-06-14
+Neutral citation
+2005 TCC 313
+File numbers
+2001-83(IT)G
+Judges and Taxing Officers
+Paul Bédard
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2001‑83(IT)G
+BETWEEN:
+GRATIEN TURNER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeals heard on March 15, 2005, at Chicoutimi, Quebec
+Before: The Honourable Justice Paul Bédard
+Appearances:
+Counsel for the Appellant:
+Éric Le Bel
+Counsel for the Respondent:
+Martin Gentile
+____________________________________________________________________
+JUDGMENT
+The appeals from the assessments made under the Income Tax Act for the 1991, 1992, 1993, 1994, 1996, 1997 and 1998 taxation years are dismissed, with costs, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 14th day of June 2005.
+"Paul Bédard"
+Bédard J.
+Translation certified true
+on this 7th day of February, 2006.
+Garth McLeod, Translator
+Citation: 2005TCC313
+Date: 20050614
+Docket: 2001‑83(IT)G
+BETWEEN:
+GRATIEN TURNER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Bédard J.
+[1] The point for determination in these appeals, which were instituted under the general procedure, is whether the penalty assessed against the Appellant was warranted:
+(i) for the 1991, 1992, 1993 and 1994 taxation years, in respect of the claim for a tax credit for a wholly dependent person;
+(ii) for the 1991, 1992, 1993, 1994, 1996 and 1997 taxation years, in respect of the claim for the transfer of a Disability Tax Credit and, for the 1998 taxation year, in respect of a Disability Tax Credit.
+It is not in dispute that the Appellant was not entitled to claim a tax credit for a wholly dependent person in computing his federal tax for the years concerned. It is also not in issue that the Appellant was not entitled to claim a transfer of the tax credit for the 1991, 1992, 1993, 1994, 1996 and 1997 taxation years for severe and prolonged mental or physical impairment or, for 1998, a tax credit for severe and prolonged mental or physical impairment.
+[2] The facts on which the Minister of National Revenue (the "Minister") relied in making the assessments for the years concerned are as follows:
+[TRANSLATION]
+a. the case originated from an internal investigation of certain employees of the Jonquière Tax Centre who had set up a scheme to enable certain persons to receive fraudulent tax refunds in consideration of a commission based on a percentage of the said refunds;
+b. on or about April 22, 1996, the Appellant received a total tax refund of approximately $6,964.42 for the 1991, 1992, 1993 and 1994 taxation years pursuant to reassessments dated April 22, 1996;
+c. the Notice of Assessment dated April 22, 1996, for the 1991, 1992, 1993 and 1994 taxation years granted the Appellant equivalent‑to‑spouse credits and transferred Disability Tax Credits;
+d. on or about April 21, 1997, the Appellant received a tax refund of $809.76 for the 1996 taxation year, as a result of the assessment dated April 21, 1997;
+e. the Notice of Assessment dated April 21, 1997, for the 1996 taxation year, granted the Appellant a transferred Disability Tax Credit;
+f. on or about May 22, 1998, the Appellant received a tax refund of $600.13, for the 1997 taxation year, as a result of the assessment dated May 22, 1998;
+g. the Notice of Assessment dated May 22, 1998, for the 1997 taxation year, granted the Appellant transferred Disability Tax Credits;
+h. on or about May 3, 1999, the Appellant received a tax refund of $508.71, for the 1998 taxation year, as a result of the assessment dated May 3, 1999;
+i. the Notice of Assessment dated May 3, 1999, for the 1998 taxation year, granted the Appellant a Disability Tax Credit;
+j. the Appellant informed the Minister's investigators by solemn declaration that he did not have a spouse and was not the father of a child during the taxation years in issue and, furthermore, that he was not blind and did not know Gilles Tremblay, an optometrist from Ville de la Baie;
+k. the Appellant alleged to the Minister's investigators by solemn declaration that the returns of income for the taxation years in issue were completed by his daughter's spouse, Mario Boucher;
+l. in the Minister's view, the Appellant colluded, aided and abetted in this case;
+m. in support of the reassessments dated June 30, 2000, for the 1991, 1992, 1993, 1994 and 1996 taxation years, the Appellant made a misrepresentation that is attributable to neglect, carelessness or wilful default or committed fraud in supplying information under the Income Tax Act;
+n. the equivalent‑to‑spouse credits and the transferred Disability Tax Credits claimed for the 1991, 1992, 1993 and 1994 taxation years, the transferred Disability Tax Credit claimed for the 1996 and 1997 taxation years and, lastly, the Disability Tax Credit claimed for 1998 lead the Minister to believe that the Appellant knowingly, or under circumstances amounting to gross negligence, participated in, assented to or acquiesced in the making of, a false statement or omission in the returns of income filed for the 1991, 1992, 1993, 1994, 1996, 1997 and 1998 taxation years, as a result of which the tax that he would have been required to pay, based on the information provided in the returns of income filed for those years, was less than the amount of tax payable for those years.
+[3] Roland Pelletier, a special investigations officer at the Canada Customs and Revenue Agency (the "Agency"), testified that, in May 1998, an employee of the Agency realized that the department had made tax refunds to taxpayers without there being any supporting documentation in their files. Mr. Pelletier explained that, together with other persons, he had conducted an investigation into that matter. That investigation led to the laying of charges against two Agency employees, one of whom was Mario Boucher, the Appellant's son‑in‑law. According to Mr. Pelletier, the investigation revealed that some 45 taxpayers had been contacted by two of those employees or by other persons and that the latter had received 50 percent to 66⅔ percent of the tax refunds received by the taxpayers. Mario Boucher was implicated in a number of cases, including the instant case. It was in this context that Mr. Pelletier met the Appellant and the latter made solemn declarations[1] to him, as indicated in the Reply to the Notice of Appeal. Mr. Pelletier also testified that the Appellant had always denied paying Mr. Boucher a commission or any other form of remuneration. However, he added that he was convinced that the Appellant had paid Mr. Boucher a commission, in view of the fact that the Appellant had withdrawn from his bank account a cash amount corresponding to approximately 60 percent of the tax refunds obtained in this case.
+Appellant's Testimony
+[4] In his testimony, the Appellant essentially tried to lead me to believe that he did not really remember what had happened, that he was ignorant of tax matters and, lastly, that he had been the innocent victim of his son‑in‑law, Mario Boucher, whom he had trusted completely and thought competent in view of the fact that he worked for the Agency. The Appellant contended that Mario Boucher had told him he was entitled to tax credits that he had failed to claim. The Appellant said that it was in that context that he had signed his returns of income prepared by his son‑in‑law, without however reviewing them.
+[5] Thus he testified that he did not remember completing, signing or filing the T2201 form[2] entitled "Disability Tax Credit Certificate". That form stated that the Appellant had in fact been blind since 1980. Part B of the form had been completed by Dr. Gilles Tremblay, an optometrist. The Appellant admitted that his signature appeared on the form. However, he added that he did not remember completing the form, which, in any case, he did not understand.
+[6] The Appellant received a total tax refund of approximately $6,964.42 as a result of the reassessments of April 22, 1996. On this point, the Appellant at first contended that Revenue Canada had deposited the refund in question to his bank account and that the refund therefore could not have been accompanied by notices of reassessment stating the nature of the changes that had resulted in the tax refund. He added that he had not really requested an explanation of the reason for the refund since Mario Boucher, whom he trusted, had simply told him that he was entitled to it. The Appellant's explanations on this point bear citing (pages 12‑14 of the transcript):
+[TRANSLATION]
+Q. That's what you're telling me. O.K. At one point, you received an amount of money, didn't you? I'm at tab 15. I'm showing you a cheque in the amount of $6,964.42.
+A. Yes.
+Q. It seems to be a cheque and you see there's a signature on the back. Is that your signature?
+A. Yes, it's my signature.
+Q. Good. Do you remember receiving this cheque for $6,900, in April 1996?
+A. I have direct deposit and …
+Q. No, do you remember receiving this cheque, Mr. Turner?
+A. Yes, I remember.
+Q. Good. Was there a document accompanying this cheque?
+A. No, there was no document; it was a direct deposit.
+Q. You say it was a direct deposit?
+A. It goes directly into the bank. The amount went directly to the bank; I saw it in my bank book.
+Q. But here, this is in fact your signature that we see here, at tab 15 of the lower portion?
+A. Yes, it's my signature.
+THE COURT: And there was a direct deposit.
+Éric Le Bel:
+Q. You say it was a direct deposit?
+A. Well, yes, I have direct deposit.
+Q. O.K. This isn't a cheque.
+A. It's a cheque that was deposited to my account.
+Q. Who deposited the cheque to your account?
+A. Canadian tax authorities.
+Q. You say it was Canadian tax authorities.
+A. Well, it was a direct deposit.
+Q. O.K. After that, that amount, did you know why you were given that amount, $6,900?
+A. No, I didn't know.
+Q. You didn't know. Did anyone explain to you the reason for that payment?
+A. Mario Boucher told me I was entitled to it.
+Q. Good. What did Mario Boucher tell you? How did he explain that to you?
+A. He told me I was entitled to it. The explanations… I can't give any.
+Q. He didn't give you any explanation?
+A. No.
+Q. Or he gave you one and you don't want to tell us; I don't know. Do you remember him giving you an explanation of the reason for that payment?
+A. No.
+Q. What did Mario Boucher in fact tell you in explaining this cheque?
+A. He told me I was entitled to that amount.
+Q. He told you you were entitled to that amount, and that was all.
+A. That was all.
+Q. O.K. Then did you give Mr. Boucher any amounts of money?
+A. No, I never gave Mario a cent.
+Q. Did he ask you for any?
+A. Never.
+Q. He or anyone else?
+A. Never, no one else either.
+[7] And yet counsel for the Respondent got the Appellant to admit in cross‑examination that he had in fact received a refund cheque of $6,964.42 and that he had endorsed it and deposited it to his bank account.
+[8] The Appellant added that he had not paid a kickback to his son‑in‑law or anyone else. It should be emphasized that the evidence showed that, after this refund cheque was received, the Appellant made two withdrawals from his bank account, one for $1,154.87 on April 25, 1996, and the other for $4,000 on April 26, 1996. The Appellant explained that, with the $4,000 withdrawal, he had purchased a sound system for his son and that he had used the other withdrawal for his personal expenses. I note that the Appellant's assertion that he had purchased a sound system for his son was supported neither by documentary evidence nor by independent or credible testimony.
+[9] Lastly, the Appellant's testimony in cross‑examination by counsel for the Respondent concerning the non‑refund of provincial tax is worthy of note (pages 32 and 33, paragraphs 135‑146, of the transcript):
+[TRANSLATION]
+Q. If I told you that you did not receive a cheque from the provincial government similar to the one you received from the federal government for $6,900, would you agree with me?
+A. No, I didn't receive one from the provincial government.
+Q. O.K. And then you didn't ask yourself any questions? Why did you receive one for $7,000 from the federal government, but not from the provincial government?
+A. Perhaps because Mario worked for the federal government.
+Q. And your daughter as well?
+A. My daughter as well.
+Q. O.K. Yes, but, if you were entitled to a refund from the federal government, you didn't say to yourself, I should be entitled to a refund from the provincial government?
+A. No.
+Q. Why?
+A. Well, why… he wasn't working for the provincial government.
+Q. Then, you knew that, in view of the fact that he worked there, that entitled you to a refund? I don't understand. You paid taxes all your life, when you worked.
+A. Yes.
+Q. How many years did you work for Alcan?
+A. I worked at Alcan for 40 years.
+Q. Good. You paid taxes to the federal and provincial governments during all those years?
+A. Yes.
+Q. You always signed your tax returns?
+A. Always.
+Q. Good. You'll agree with me that, in general, you report virtually the same things to both levels of government, virtually? Do you agree with me?
+A. I imagine so.
+Q. O.K. When you received a cheque for $7,000, you didn't wonder: how is it I'm not receiving one from the provincial government? As you said, it was because Mario was working for the federal government?
+A. Yes, Mario was working for the federal government.
+[10] First, I would emphasize the fact that a judge is not required to believe a witness who is not contradicted. I refer on this point to the decision of the Quebec Court of Appeal in Légaré v. The Shawinigan Water and Power Co. Ltd., [1972] C.A. 372. In that case, the Court stated the following at pages 373 and 374:
+[TRANSLATION]
+[…] But the courts are not required to believe witnesses, even if they are not contradicted by other witnesses. Their stories may be implausible in the circumstances revealed by the evidence or based on the rules of plain common sense […]
+[11] I suggest that the Appellant should have claimed a Disability Tax Credit on the ground that he was suffering from general amnesia rather than blindness. In particular, the Appellant claimed that he did not remember, or had virtually forgotten:
+(i) when he had met Mr. Boucher;
+(ii) the year in which Mr. Boucher had begun to complete his returns of income;
+(iii) the year in which Mr. Boucher had stopped completing his returns of income;
+(iv) whether Mr. Boucher or his daughter had drafted his notices of objection for him;
+(v) the person who had filed the T2201 form entitled "Disability Tax Credit Certificate";
+(vi) the person who had drafted the solemn declaration that he signed in the presence of Mr. Pelletier and Mr. Demers.
+[12] The Appellant's explanation that he did not remember completing, signing or filing the T2201 form, entitled, in capital letters, "Disability Tax Credit Certificate" (although he admitted that his signature appeared on that form) and that he did not understand what that form meant seemed to me to be utterly implausible and not credible. The evidence showed that the Appellant knew how to read and that he was thus not ignorant to the point of not seeing and understanding that that form concerned a tax credit for persons with disabilities.
+[13] I found the Appellant's explanations of how he received the tax refund cheque equally curious. I also found it utterly improbable that the cheque would not have been accompanied by a notice of reassessment stating the nature of the changes granting entitlement to such tax refunds.
+[14] The Appellant did not admit that he had made a payment to the transferor, but the evidence showed that he had immediately withdrawn approximately 60 percent of the amount. He claimed that he had done so in particular to purchase a sound system for his son. This was the usual way in which the scheme proceeded. The statement that he did not pay an amount for the service rendered by the author of the scheme is not plausible. The evidence of the purchase of the system for his son was not supported by any documentation. I conclude from a rational examination of the facts and circumstances, that is the immediate withdrawal of approximately 60 percent of the tax refund and the lack of any valid proof of the purchase of a sound system, that the Appellant was not an exception to the scheme, which the Respondent proved, under which two-thirds of the refund received was paid.
+[15] In my view, this case is not even similar to those in Canada (Attorney General) v. Villeneuve, 2004 D.T.C. 6077, 2004 FCA 20, and Canada (Attorney General) v. Savard, 2004 D.T.C. 6383, 2004 FCA 150, in which the Federal Court of Appeal confirmed the penalties assessed on other taxpayers who had taken part in the same scheme as the Appellant in the instant case, taxpayers who had shown wilful blindness.
+[16] Instead, I simply find that the Appellant knowingly made false statements on his returns of income and that he participated in, assented to and acquiesced in those false statements.
+[17] I am therefore satisfied that the Respondent showed on a balance of probabilities that she was justified in assessing the Appellant a penalty for each of the years in issue.
+[18] The appeals are therefore dismissed, with costs.
+Signed at Ottawa, Canada, this 14th day of June 2005.
+"Paul Bédard"
+Bédard J.
+Translation certified true
+on this 7th day of February, 2006.
+Garth McLeod, Translator
+CITATION: 2005TCC313
+COURT FILE NO.: 2001‑83(IT)G
+STYLE OF CAUSE: Gratien Turner and Her Majesty the Queen
+PLACE OF HEARING: Chicoutimi, Quebec
+DATE OF HEARING: March 15, 2005
+REASONS FOR JUDGMENT BY: The Honourable Justice Paul Bédard
+DATE OF JUDGMENT: June 14, 2005
+APPEARANCES:
+Counsel for the Appellant:
+Éric Le Bel
+Counsel for the Respondent:
+Martin Gentile
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Éric Le Bel
+Firm: Fradette, Gagnon, Têtu, Le Bel, Ste‑Marie
+Chicoutimi, Quebec
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Ontario
+[1] See Exhibit I‑1, tab 14.
+[2] See Exhibit I‑1, tab 17.

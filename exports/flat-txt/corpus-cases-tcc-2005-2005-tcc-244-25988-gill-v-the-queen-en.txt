@@ -1,0 +1,154 @@
+Title: Gill v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/25988/index.do
+Corpus path: corpus/cases/tcc/2005/2005-tcc-244-25988-gill-v-the-queen-en.md
+Document type: case_law
+Last modified: 2005-04-07
+
+# Gill v. The Queen
+
+- Citation: 2005 TCC 244
+- Decision date: 2005-04-07
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3735, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Gill v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-04-07
+Neutral citation
+2005 TCC 244
+File numbers
+2004-2594(IT)I
+Judges and Taxing Officers
+Cameron Hugh McArthur
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2004-2594(IT)I
+BETWEEN:
+GEORGE GILL,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on November 26, 2004, at Montreal, Quebec, by
+The Honourable Justice C.H. McArthur
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Simon Petit
+____________________________________________________________________
+JUDGMENT
+The appeals from assessments of tax made under the Income Tax Act for the 2000 and 2001 taxation years are allowed and the matter is referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 7th day of April, 2005.
+"C.H. McArthur"
+McArthur J.
+Citation: 2005TCC244
+Date: 20050407
+Docket: 2004-2594(IT)I
+BETWEEN:
+GEORGE GILL,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+McArthur J.
+[1] These appeals are from assessments by the Minister of National Revenue increasing the automobile benefits received by the Appellant from $3,855.50 to $8,521.32 in the 2000 taxation year and from $4,065.80 to $8,641.32 in the 2001 taxation year. There are two amounts to be determined: (i) the operating benefits from employment under paragraph 6(1)(k) of the Income Tax Act; and (ii) the standby charges pursuant to paragraph 6(1)(e) and subsection 6(2) of the Act.
+[2] The Appellant resided in Kirkland, Quebec during the relevant period and was employed by Offray Ribbon Canada Inc. ("Offray") in Valleyfield, Quebec. Offray provided him a Ford Expedition SUV[1] for business and personal use. Under a lease with Ford-Lincoln Merc. 1985, Offray paid $1,000 per month for the SUV and the Appellant reimbursed Offray the amount of $106.49 monthly for his personal use. He drove the SUV to and from work three days per week, about 76 kilometres return, and kept it at home on weekends. He kept no logbook of his personal and business use.
+[3] With respect to the operating benefits, paragraph 6(1)(k) of the Act reads as follows:
+6(1) There shall be included in computing the income of a taxpayer for a taxation year as income from an office or employment such of the following amounts as are applicable:
+...
+(k) where
+(i) an amount is determined under subparagraph 6(1)(e)(i) in respect of an automobile in computing the taxpayer's income for the year,
+(ii) amounts related to the operation (otherwise than in connection with or in the course of the taxpayer's office or employment) of the automobile for the period or periods in the year during which the automobile was made available to the taxpayer or a person related to the taxpayer are paid or payable by the taxpayer's employer or a person related to the taxpayer's employer (each of whom is in this paragraph referred to as the "payor"), and
+(iii) the total of the amounts so paid or payable is not paid in the year or within 45 days after the end of the year to the payor by the taxpayer or by the person related to the taxpayer,
+the amount in respect of the operation of the automobile determined by the formula
+A - B
+where
+A is
+(iv) where the automobile is used primarily in the performance of the duties of the taxpayer's office or employment during the period or periods referred to in subparagraph (ii) and the taxpayer notifies the employer in writing before the end of the year of the taxpayer's intention to have this subparagraph apply, 1/2 of the amount determined under subparagraph 6(1)(e)(i) in respect of the automobile in computing the taxpayer's income for the year, and
+(v) in any other case, the amount equal to the product obtained when the amount prescribed for the year is multiplied by the total number of kilometres that the automobile is driven (otherwise than in connection with or in the course of the taxpayer's office or employment) during the period or periods referred to in subparagraph 6(1)(k)(ii), and
+B is the total of all amounts in respect of the operation of the automobile in the year paid in the year or within 45 days after the end of the year to the payor by the taxpayer or by the person related to the taxpayer; ...
+[4] The Act provides that an employee is taxable on the value of any personal net operating costs paid by an employer for his or her benefit. Gas, oil, maintenance, and insurance costs must be allocated to determine the personal component. The Minister's calculation of the personal use by the Appellant is based on 12,000 kilometres per year. Applying the prescribed rate in the Regulations to the Act, the Minister based his calculation of benefits received by the Appellant on a rate of $0.15 per kilometre in the 2000 taxation year or the sum of $1,800, and $0.16 per kilometre in the 2001 taxation year or the sum of $1,920. The Appellant did not seriously contest these amounts of operating benefits and appears to accept that he drove the SUV, for personal purposes, 12,000 kilometres per year. I find that the Minister correctly calculated and assessed the paragraph 6(1)(k) operating benefits.
+[5] The more difficult question is that concerning "standby charges". The applicable legislation is complex and reads in part as follows:
+6(1) There shall be included in computing the income of a taxpayer for a taxation year as income from an office or employment such of the following amounts as are applicable:
+...
+(e) where the taxpayer's employer ... made an automobile available to the taxpayer, ... in the year, the amount, if any, by which
+(i) an amount that is a reasonable standby charge for the automobile for the total number of days in the year during which it was made so available
+exceeds
+(ii) the total of all amounts, each of which is an amount (other than an expense related to the operation of the automobile) paid in the year to the employer ... the taxpayer ... for the use of the automobile;
+6(2) For the purposes of paragraph (1)(e), a reasonable standby charge for an automobile for the total number of days (in this subsection referred to as the "total available days") in a taxation year during which the automobile is made available to a taxpayer or to a person related to the taxpayer by the employer of the taxpayer or by a person related to the employer (both of whom are in this subsection referred to as the "employer") shall be deemed to be the amount determined by the formula
+where
+A is the lesser of
+(a) the total number of kilometers that the automobile is driven (otherwise than in connection with or in the course of the taxpayer's office or employment) during the total available days, and
+(b) the value determined for B for the year under this subsection in respect of the standby charge for the automobile during the total available days,
+except that the amount determined under paragraph (a) shall be deemed to be equal to the amount determined under paragraph (b) unless
+(c) the taxpayer is required by the employer to use the automobile in connection with or in the course of the office or employment, and
+(d) all or substantially all of the distance travelled by the automobile in the total available days is in connection with or in the course of the office or employment;
+B is the product obtained when 1,000 is multiplied by the quotient obtained by dividing the total available days by 30, and, if the quotient so obtained is not a whole number and exceeds one, by rounding it to the nearest whole number or, where that quotient is equidistant from two consecutive whole numbers, by rounding it to the lower of those two numbers;
+...
+E is the total of all amounts that may reasonably be regarded as having been payable by the employer to a lessor for the purpose of leasing the automobile during such of the total available days as are days when the automobile is leased to the employer; and
+F is the part of the amount determined for E that may reasonably be regarded as having been payable to the lessor in respect of all or part of the cost to the lessor of insuring against
+(a) the loss of, or damage to, the automobile, or
+(b) liability resulting from the use or operation of the automobile.
+[6] The Appellant was unaware that he should have kept a logbook and stated that the SUV was available to him only when his employer had no other use for it. He added that he was required to take it home because his employer did not want it left on the business premises and he had another vehicle in his home driveway. The Appellant submits that the phrase "reasonable standby charge" in paragraph 6(1)(e) of the Act should be interpreted literally and not ignored upon application of the formula in subsection 6(2).
+[7] Standby charges are triggered if the automobile is made available for the employee's personal use, whether it is used and whether its use is unrestricted or restricted. The "reasonable" part of the "reasonable standby charge" is a slight misnomer, as the charge is set by a rigid formula found in subsection 6(2). In the case of a lease, it is two-thirds of the monthly lease cost of the automobile attributable to the total days in a year in which the vehicle was made available. The Appellant's argument about the interpretation of "reasonable standby charge" is set to rest by Robertson J. in Adams v. Canada, [1998] F.C.J. 427 (F.C.A.), where he stated:
+12 To the extent that paragraph 6(1)(e) refers to the imposition of a "reasonable standby charge" the legislation is simply misleading. The formula outlined in subsection 6(2) dictates the exact amount to be included in income. There is no room for the exercise of a discretion in determining what is reasonable. Moreover, the standby charge is calculated on the basis of two assumptions. The first assumption is that the employee made personal use of the automobile during the year. The second assumption is that personal usage amounts to 1000 km for every month the automobile is made available to the employee (12000 km per year). These two assumptions are imbedded in the formula set out in subsection 6(2).
+[8] The standby charge can be reduced, and this is known as the "reduced standby charge." In certain circumstances, this reduced standby charge, which is based on the number of kilometres that the vehicle is driven in connection with the employment as required by the employer, may apply. It will only apply when specific conditions are satisfied relating to the nature of the distance travelled by the automobile as outlined in paragraphs (a), (c), and (d) of the definition of element 'A' in subsection 6(2). As the Appellant did not keep a log book detailing the kilometres that met this requirement, this reduction does not apply. In addition, I do not accept that kilometres driven to and from work are "in connection with employment". This would be stretching the interpretation.
+[9] The SUV was made available to the Appellant on three weekdays and two weekend days for a total of five days per week. The Respondent submits that when the reduced standby charge does not apply (as it does not here), the reasonable standby charge is always deemed to be two-thirds of the lease cost of the vehicle and that the number of days the vehicle was made available is not relevant.
+[10] I disagree with those submissions. Apart from the reduced standby charge, the definition of element 'E' in the formula found in paragraph 6(2) requires that 'E', an amount representing the gross lease cost for the vehicle, takes into account the number of days that the vehicle was actually made available to the Appellant. It is contrary to common sense that the full lease cost be included in the calculation of the reasonable standby charge regardless of the number of days that the vehicle was actually made available to the taxpayer. Instead, I believe that the "reasonable standby charge" should be calculated as two-thirds of the net lease cost[2] of the vehicle factored by a fraction representing the total amount of the days out of the year where the vehicle was actually made available to the taxpayer.
+[11] This supports a plain-meaning interpretation of the legislation. Paragraph 6(1)(e) of the Act states in part that "there shall be included in computing income ... a reasonable standby charge for the automobile for the total number of days in the year during which it was made so available" exceeds "the total of all amounts ... paid in the year to the employer ... by the taxpayer ... for the use of the automobile."[3] Furthermore, element 'E' of the formula in subsection 6(2) (which is ultimately reduced by one-third) is not restricted to the lease cost of the vehicle. It states:
+E is the total of all amounts that may reasonably be regarded as having been payable by the employer to a lessor for the purpose of leasing the automobile during such of the total available days[4] as are days when the automobile is leased to the employer. [Emphasis added.]
+This definition does not state that 'E' is simply equal to the lease cost. Rather, 'E' is equal to a portion of that lease cost that can be reasonably regarded as payable for leasing the automobile for the days that it made the vehicle available to the taxpayer. Otherwise, what purpose would the underlined words serve?
+[12] Section 6 revolves around including in a taxpayer's income the benefits received from his or her employer during a taxation year. If a taxpayer had a vehicle made available to him for 360 of 365 days, one would expect that the inclusion in his income would be substantially higher than a different taxpayer who had a similar vehicle made available to him for 100 of 365 days. If the goal of the legislation is to include in a taxpayer's income the value of the vehicle being made available, it should take into account the number of days that the vehicle was so made available.
+[13] The Respondent's view of the reasonable standby charge further breaks down when one considers multiple employees. In this case, the Appellant suggests that other people drove the vehicle as well. If a vehicle is leased by an employer and given to Employee A for the first half of the year and Employee B for the second half of the year, under the Respondent's view of the reasonable standby charge they would both be required to include two-thirds of the lease cost as income on each of their respective returns.
+[14] In the present situation, it is difficult to tell how many days the vehicle was made available to the Appellant. The Appellant claims that he had it for three out of five workdays for 45 weeks in the year, and that other employees used the vehicle as well. He admits, as the Respondent submitted, that he also had the vehicle on the weekend, yet for the most part it stayed in his driveway because he had another vehicle. While there is some uncertainty, I conclude that the vehicle was available to him five of the seven days a week. I also accept the Appellant's evidence that the vehicle was made available to him in this pattern (i.e., three days a week plus weekends) for 45 weeks per year.
+[15] Therefore, I believe that the reasonable standby charge should be calculated as two-thirds of the lease cost of the vehicle factored by the fraction of the year that the vehicle was made available to the Appellant. In this case, the vehicle was made available to the Appellant for 225 of 365 days each year.
+[16] For these reasons, the appeals are allowed and the matter is referred back to the Minister for reconsideration and reassessment on the basis that for each year, the reasonable standby charge should be calculated[5] as follows:
+As stated in paragraph 4, the Minister's assessment with respect to the operating benefits is correct.
+Signed at Ottawa, Canada, this 7th day of April, 2005.
+"C.H. McArthur"
+McArthur J.
+CITATION:
+2005TCC244
+COURT FILE NO.:
+2004-2594(IT)I
+STYLE OF CAUSE:
+George Gill and Her Majesty the Queen
+PLACE OF HEARING:
+Montreal, Quebec
+DATE OF HEARING:
+November 26, 2004
+REASONS FOR JUDGMENT BY:
+The Honourable Justice C.H. McArthur
+DATE OF JUDGMENT:
+April 7, 2005
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Simon Petit
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+N/A
+Firm:
+N/A
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] The SUV was also used by other employees of Offray during the work week.
+[2] The 'net lease cost' being element 'F' of the formula subtracted by element 'E' of the formula.
+[3] Emphasis added.
+[4] I note that the phrase "total available days" is defined in subsection 6(2) and under Interpretation Bulletin IT-63R5 as "the total number of days in the taxation year during which an automobile is made available to an employee" by an employer.
+[5] I purposely include "1 ×" at the beginning of the above formula to signify that the reduced standby charge does not apply, which means that the fraction A/B is equal to 1.

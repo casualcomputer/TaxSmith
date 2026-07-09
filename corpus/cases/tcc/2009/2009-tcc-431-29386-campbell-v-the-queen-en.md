@@ -1,0 +1,239 @@
+---
+title: "Campbell v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29386/index.do"
+last_modified: "2009-09-09"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 TCC 431"
+citation2: ""
+neutral_citation: "2009 TCC 431"
+decision_date: "2009-09-09"
+language: "en"
+item_id: "29386"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6878
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T00:59:32.598000+00:00"
+cases_cited_count: 6
+cases_citing_count: 5
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "40c00d0f841c198ea84bdd66d5ed99b5d832d133d27233ff0774add094fef2a4"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Campbell v. The Queen
+
+- Citation: 2009 TCC 431
+- Decision date: 2009-09-09
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6878, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Campbell v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2009-09-09
+Neutral citation
+2009 TCC 431
+File numbers
+2007-4441(IT)G
+Judges and Taxing Officers
+Diane Campbell
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2007-4441(IT)G
+BETWEEN:
+BERNICE A. CAMPBELL,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on April 14, 2009, at Halifax, Nova Scotia
+Before: The Honourable Justice Diane Campbell
+Appearances:
+Counsel for the Appellant:
+Bruce S. Russell, Q.C.
+Counsel for the Respondent:
+Devon E. Peavoy
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act with respect to the Notice of Assessment number 41563 dated November 16, 2006 is dismissed, with costs, in accordance with the attached Reasons for Judgment.
+Signed at Summerside, Prince Edward Island, this 9th day of September 2009.
+“Diane Campbell”
+Campbell J.
+Citation: 2009 TCC 431
+Date: 20090909
+Docket: 2007-4441(IT)G
+BETWEEN:
+BERNICE A. CAMPBELL,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Campbell J.
+[1] The Appellant was assessed the amount of $24,341.00 pursuant to section 160 of the Income Tax Act (the “Act”) and section 20 of the Nova Scotia Income Tax Act (the “NS Act”) in respect to a transfer of property from her husband, Gerald Campbell, on October 8, 2002.
+[2] Initially, the Appellant took the position that the conveyance of the property was not a transfer within the meaning of section 160 of the Act because the disposition did not result in a change of beneficial ownership. However, the Appellant has conceded that there was in fact a transfer in light of the decision in The Queen v. Livingston, 2008 DTC 6233, but argues that Gerald Campbell had only a legal title to transfer which had a value of nil. Therefore, in deciding the issue of whether the Appellant is liable to pay $24,341.00 in respect to this property transfer, it is necessary to address the sub‑issue of whether the Appellant’s spouse had a beneficial interest in the property when he transferred it to the Appellant in 2002.
+[3] After the Appellant and Gerald Campbell were married in 1979, they moved to Alberta. In 1989 they returned to Nova Scotia and eventually on January 25, 1993 they purchased a condominium property (the “condo”) in Halifax. Title to the condo was registered in both names as joint tenants. The Appellant testified that she initiated this purchase and received the down payment of $10,000.00 as a gift from her mother. The Appellant’s mother confirmed that she gifted not only the down payment of $10,000.00 but also an additional amount of $1,000.00 to cover legal fees. A mortgage with Scotia Mortgage Corporation was placed on the property on January 25, 1993. This mortgage was renegotiated on December 27, 2000 and both parties remained as co-mortgagors until October 8, 2002.
+[4] The Appellant testified that she has made all the mortgage payments on the condo initially from a joint bank account held with Gerald Campbell. Mr. Campbell has had no signing authority on this account since 2001. According to the Appellant, she paid not only the mortgage payments but all of the other expenses associated with this property. Mr. Campbell’s work is sporadic within the construction industry while the Appellant has full time employment as an executive secretary with the Nova Scotia Department of Community Services. The Appellant did state that her husband contributed varying amounts between $100.00 and $600.00 once or twice monthly and that he assisted with child care (although the Appellant’s mother, Pearl Engram, did most of the babysitting for the Appellant), some household chores and paid for some groceries and the power bill. Mr. Campbell acknowledged that, although he was aware that he was named on the mortgage, he did not make mortgage payments and was not fully aware of how the payments were made. However, he confirmed that the Appellant paid for a joint life insurance policy with respect to this mortgage until 2002 while the Appellant in her testimony claimed that she was not aware of this insurance until her memory was refreshed by documentation (Exhibit R‑1, Tab 10).
+[5] From the time of purchase in January 1993 until the present time the condo has been occupied by the Appellant, Mr. Campbell and their daughter as a family residence except for periods of marital problems when the Appellant’s husband would leave the residence. According to the evidence, Mr. Campbell left the residence in early January 1993 for approximately five or six months. He returned to the residence because he could no longer pay rent and continues to reside in the condo because “… it’s better than sleeping on the street.” (Transcript, page 110).
+[6] On October 8, 2002, Mr. Campbell executed a Warranty Deed (Exhibit A‑1, Tab 2) conveying his interest in the property to the Appellant in consideration of one dollar “Because we were going to separate, and she put all the money into it in the first place …” (Transcript, page 110).
+[7] As of October 8, 2002 the fair market value (“FMV”) of the property was no less than $106,000.00, subject to a mortgage balance of $57,316.83 with Scotia Mortgage Corporation. At the time of the transfer the FMV of 50% of the equity in this property totalled $24,341.58.
+[8] Until 2000, the Appellant completed Mr. Campbell’s income tax returns. On cross-examination, he agreed that he was probably first assessed for taxes around February 2001. The aggregate of all amounts that he was liable to pay under the Act in respect to the 1999, 2000, 2001 and 2002 taxation years was not less than $45,287.51.
+The Appellant’s Position:
+[9] The Appellant claims that since the purchase of the property her husband’s only interest in the condo was that of legal title but that he never had a beneficial interest or equity of redemption. The Appellant testified that she has always assumed full financial responsibility for the property including the initial down payment and the subsequent mortgage payments. An assessment should not be made pursuant to section 160 because it was only a legal title to the property that Gerald Campbell released and conveyed to the Appellant by Warranty Deed in 2002. Since nothing of value was conveyed to the Appellant and because the Appellant always held the full beneficial interest in the property, the FMV of Gerald’s interest did not exceed the FMV of the one dollar consideration given by the Appellant.
+The Respondent’s Position:
+[10] The Respondent’s argument is that the Appellant’s husband had both a legal and beneficial interest in the condo at all material times. Because they are spouses of each other, they were not dealing at arm’s length. When the property was transferred to the Appellant in 2002, Gerald Campbell owed taxes under the Act with the FMV of the property at transfer exceeding the consideration given by the Appellant. Therefore the Appellant is liable to pay $24,341.00 pursuant to section 160.
+Provisions Relied Upon:
+[11] The parties relied upon sections 160, 251 and subsection 248(1) of the Act together with section 20 of the NS Act and sections 3, 6 and 8 of the Matrimonial Property Act. The relevant portions of section 160 provide:
+160(1) Where a person has, on or after May 1, 1951, transferred property, either directly or indirectly, by means of a trust or by any other means whatever, to (a) the person's spouse or common-law partner or a person who has since become the person's spouse or common-law partner, (b) a person who was under 18 years of age, or (c) a person with whom the person was not dealing at arm's length, the following rules apply: (d) the transferee and transferor are jointly and severally liable to pay a part of the transferor's tax under this Part for each taxation year equal to the amount by which the tax for the year is greater than it would have been if it were not for the operation of sections 74.1 to 75.1 of this Act and section 74 of the Income Tax Act, chapter 148 of the Revised Statutes of Canada, 1952, in respect of any income from, or gain from the disposition of, the property so transferred or property substituted therefor, and (e) the transferee and transferor are jointly and severally liable to pay under this Act an amount equal to the lesser of (i) the amount, if any, by which the fair market value of the property at the time it was transferred exceeds the fair market value at that time of the consideration given for the property, and (ii) the total of all amounts each of which is an amount that the transferor is liable to pay under this Act in or in respect of the taxation year in which the property was transferred or any preceding taxation year, but nothing in this subsection shall be deemed to limit the liability of the transferor under any other provision of this Act.
+[12] Section 251 states:
+251(1) For the purposes of this Act,
+(a) related persons shall be deemed not to deal with each other at arm's length;
+…
+Definition of "related persons"
+251(2) For the purpose of this Act, "related persons", or persons related to each other, are
+(a) individuals connected by blood relationship, marriage or common-law partnership or adoption;
+…
+[13] Subsection 248(1) provides the following definition of “property”:
+"property" means property of any kind whatever whether real or personal or corporeal or incorporeal and, without restricting the generality of the foregoing, includes (a) a right of any kind whatever, a share or a chose in action, (b) unless a contrary intention is evident, money, (c) a timber resource property, and (d) the work in progress of a business that is a profession;
+[14] Subsections 3(1) and 6(1) and section 8 of the Matrimonial Property Act read as follows:
+"matrimonial home" defined
+3(1) In this Act, "matrimonial home" means the dwelling and real property occupied by a person and that person’s spouse as their family residence and in which either or both of them have a property interest other than a leasehold interest.
+…
+Equal right of possession of matrimonial home
+6(1) A spouse is equally entitled to any right of possession of the other spouse in a matrimonial home.
+…
+Disposition of matrimonial home
+8(1) Neither spouse shall dispose of or encumber any interest in a matrimonial home unless
+(a) the other spouse consents by signing the instrument of disposition or encumbrance, which consent shall not be unreasonably withheld;
+(b) the other spouse has released all rights to the matrimonial home by a separation agreement or marriage contract;
+(c) the proposed disposition or encumbrance is authorized by court order or an order has been made releasing the property as a matrimonial home; or
+(d) the property is not designated as a matrimonial home and an instrument designating another property as a matrimonial home of the spouses is registered and not cancelled.
+Disposition contrary to subsection (1)
+(2) Where a spouse disposes of or encumbers an interest in a matrimonial home contrary to subsection (1), the transaction may be set aside by the other spouse upon an application to the court unless the person holding the interest or encumbrance acquired it for valuable consideration, in good faith and without notice that the property was a matrimonial home.
+[15] Section 20 of the NS Act provides:
+Income not earned in Province
+20 There may be deducted in computing an individual's tax payable under this Part for a taxation year the amount determined by the formula
+A x B
+where
+A is the provincial percentage; and
+B is the amount that the individual may deduct for the taxation year under section 120.2 of the Federal Act for the purpose of computing the individual's tax payable under Part I of the Federal Act.
+Analysis:
+[16] Although often described as a draconian provision, section 160 is an important tax collection tool under the Act. The purpose of the section is to prevent a taxpayer from avoiding a tax liability by transferring property to certain individuals or non‑arm’s length persons, thereby avoiding the tax debt, while still possibly benefiting from the assets. In this appeal the Minister seeks to invoke section 160 to prevent the tax debtor, Gerald Campbell, from transferring assets to his spouse, the Appellant, in an attempt to shield the property from tax collection. If successful, it makes the Appellant liable for the tax liability owed in the year of transfer or any preceding year to the extent that the FMV of the property transferred to the Appellant exceeds the consideration received. It should be noted however that there is no requirement that the transferor have an intention to avoid tax liability at the time of the transfer [Montreuil et al. v. The Queen, 95 DTC 138].
+[17] In Wannan v. The Queen, 2003 DTC 5715, the Federal Court of Appeal at paragraph 3 stated the following:
+[3] … There is no due diligence defence to the application of section 160. It may apply to a transferee of property who has no intention to assist the primary tax debtor to avoid the payment of tax. Indeed, it may apply to a transferee who has no knowledge of the tax affairs of the primary tax debtor. However, section 160 has been validly enacted as part of the law of Canada. If the Crown seeks to rely on section 160 in a particular case, it must be permitted to do so if the statutory conditions are met.
+[18] There are four conditions that must be satisfied before section 160 can be applied. According to the decision in Livingston at paragraphs 17 to 19, the following criteria will trigger the application of section 160:
+[17] In light of the clear meaning of the words of subsection 160(1), the criteria to apply when considering subsection 160(1) are self-evident:
+1) The transferor must be liable to pay tax under the Act at the time of transfer;
+2) There must be a transfer of property, either directly or indirectly, by means of a trust or by any other means whatever;
+3) The transferee must either be:
+i. The transferor's spouse or common-law partner at the time of transfer or a person who has since become the person's spouse or common-law partner;
+ii. A person who was under 18 years of age at the time of transfer; or
+iii. A person with whom the transferor was not dealing at arm's length.
+4) The fair market value of the property transferred must exceed the fair market value of the consideration given by the transferee.
+[18] The purpose of subsection 160(1) of the Act is especially crucial to inform the application of these criteria. In Medland v. Canada 98 DTC 6358 (F.C.A.) ("Medland") this Court concluded that "the object and spirit of subsection 160(1), is to prevent a taxpayer from transferring his property to his spouse [or to a minor or non-arm's length individual] in order to thwart the Minister's efforts to collect the money which is owned to him." See also Heavyside v. Canada [97 DTC 5026] [1996] F.C.J. No. 1608 (C.A.) (QL) ("Heavyside") at paragraph 10. More apposite to this case, the Tax Court of Canada has held that the purpose of subsection 160(1) would be defeated where a transferor allows a transferee to use the money to pay the debts of the transferor for the purpose of preferring certain creditors over the CRA (Raphael v. Canada 2000 DTC 2434 (T.C.C.) at paragraph 19).
+[19] … [G]iven the purpose of subsection 160(1), the intention of the parties to defraud the CRA as a creditor can be of relevance in gauging the adequacy of the consideration given. However, I do not wish to be taken as suggesting as there must be an intention to defraud the CRA in order for subsection 160(1) to apply. The provision can apply to a transferee of property who has no intention to assist the primary tax debtor to avoid the payment of tax: see Wannan v. Canada [2003 DTC 5715] 2003 FCA 423 at paragraph 3.
+[19] Three of these four conditions are not in dispute in this appeal.
+(A) Tax Liability – subparagraph 160(1)(e)(ii)
+[20] One of the Minister of National Revenue’s (the “Minister”) assumptions was that the Appellant’s spouse had a tax liability of $45,287.00 at the time of the transfer on October 8, 2002. Although the Appellant testified that she was unaware of her husband’s tax liability because she had ceased filing his tax returns in the early 2000s, according to the decision in Wannan, the transferee need not have knowledge of the tax affairs of the primary debtor in order to trigger the application of section 160. Mr. Campbell’s tax liability was not in dispute.
+(B) Relationship between Transferor and Transferee – paragraph 160(1)(a)
+[21] The definition of “related persons” contained in subsection 251(2) includes individuals connected by marriage or common-law partnership. Since related persons are deemed not to be dealing with each other at arm’s length and the evidence supports that the parties have been married since 1979, this requirement is also met.
+(C) Consideration and FMV – subparagraph 160(1)(e)(i)
+[22] Pursuant to subparagraph 160(1)(e)(i), a transferee will be liable for the transferor’s tax liability to the extent that the value of the property exceeds the value of the consideration received for the property. The Minister assumed that Gerald Campbell’s equity in the condo was $24,341.00 and that he transferred both his legal and beneficial interest in the condo to the Appellant for the consideration of one dollar. The Appellant did not dispute that the FMV of the condo on October 8, 2002 was $106,000.00 or that the mortgage balance was $57,316.00. However she maintained that the FMV of her husband’s interest in the condo was nil and not $24,341.00 as the Respondent contends. Therefore, she submits that her liability is nil pursuant to section 160 because the FMV of her husband’s interest did not exceed the consideration of one dollar.
+[23] A determination of the FMV of Gerald Campbell’s interest in the condo is dependent upon whether he had only a legal title where the FMV of that interest will be nil or whether he had both a legal and beneficial interest in the condo where the FMV of his interest would then equal $24,341.00.
+(D) Transfer of Property
+[24] The term “property” is defined in subsection 248(1) of the Act. The condo which was conveyed to the Appellant falls within the ambit of this definition as it includes real property.
+[25] The term “transfer” is not defined in the Act but numerous decisions have discussed this term. Thorson J. in the oft cited case of Fasken v. Minister of National Revenue, 49 DTC 491 at page 497, provided the following definition:
+The word "transfer" is not a term of art and has not a technical meaning. It is not necessary to a transfer of property from a husband to his wife that it should be made in any particular form or that it should be made directly. All that is required is that the husband should so deal with the property as to divest himself of it and vest it in his wife, that is to say, pass the property from himself to her. The means by which he accomplishes this result, whether direct or circuitous, may properly be called a transfer. …
+[26] The recent decision of Livingston established that the mere transfer of a legal title constitutes a transfer under section 160. At paragraph 22, Sexton J. made the following comment:
+[22] In addition, there is a transfer of property for the purposes of section 160 even when beneficial ownership has not been transferred. Subsection 160(1) applies to any transfer of property – “by means of a trust or by any other means whatever". Thus, subsection 160(1) categorizes a transfer to a trust as a transfer of property. Certainly, even where the transferor is the beneficiary under the trust, nevertheless, legal title has been transferred to the trustee. Obviously, this constitutes a transfer of property for the purposes of subsection 160(1) which, after all, is designed, inter alia, to prevent the transferor from hiding his or her assets, including behind the veil of a trust, in order to prevent the CRA from attaching the asset. Therefore it is unnecessary to consider the respondent's argument that beneficial title to the funds remained with Ms. Davies.
+[27] In light of the Livingston decision, the Appellant conceded that there was a transfer pursuant to section 160 but contends that the decision did not address the value of a legal title. The Appellant argues that since Gerald Campbell did not have a beneficial interest in the property, nothing of value passed to the Appellant in the transfer of the property because the value of the legal title was nil. The Appellant submits that the authorities seem to state that the value of a legal interest is nil but does not cite those authorities. It is likely that the Appellant is referring to Justice Brulé’s decision in Gardner v. M.N.R., 88 DTC 1649, where at page 1651 he concluded that the taxpayer’s interest in the property was nil because he held only a legal title in the property.
+Beneficial Interest v. Legal Title:
+[28] In response to the Appellant’s argument that Gerald Campbell transferred only legal title which had a value of nil, the Respondent contends that as a pre‑condition of concluding that Gerald Campbell had no beneficial interest to convey, this Court must find that he was acting as a prête-nom or holding his interest in the condo in trust for the Appellant. The Respondent submits that there is no evidence that would allow such a conclusion.
+[29] In the case of Gardner, Brulé J. concluded that the Appellant’s spouse became a joint tenant to facilitate the acquisition of financing and therefore the Appellant’s husband held legal title only as trustee. In Hurd v. The Queen, [2001] 2 C.T.C. 2489, McArthur J. concluded that there was no transfer of beneficial interest to an uncle because he was merely a trustee for the taxpayer, having executed a valid declaration of trust.
+[30] In both Gardner and Hurd as well as the decision in Linke v. The Queen, 94 DTC 1549, individuals were added to the title of the property as joint tenants so that the appellants in those cases could acquire mortgage financing. However, in the present appeal the Appellant did not register her husband as a joint tenant of the condo to obtain financing because she testified that she chose the property based solely on her salary. In addition, she stated that there was no formal discussion respecting the addition of his name to the deed at the time of the purchase or at least no discussions that she could recall with her husband or with their lawyer who completed the purchase. The Appellant claims that the evidence supports that she was simply content to have title registered as it was generally done – that is, by way of joint tenancy. The Appellant understood this to mean that her husband was on title as a precautionary measure to avoid estate problems in the event of her death so that her daughter would be assured a home.
+[31] While it is true that the Appellant is a layperson with no legal background, she has worked her way into the position of Executive Secretary and in addition had the benefit of legal counsel at the time of purchase. The evidence showed that the Appellant’s husband had both a drinking and gambling problem. If, at the time of purchase, she was concerned about the welfare of her daughter as she testified, I have difficulty accepting her evidence that she would not discuss this with the solicitor at the time of purchase rather than proceed on what her own views were of a “joint tenancy” proposition. I am reinforced in my perception of this evidence by the fact that she refused to waive solicitor-client privilege and did not call the lawyer to validate her testimony. This lends support to my suspicion that if this lawyer had been called as a witness, he may have contradicted her testimony.
+[32] The Respondent relied on the cases of Miller v. M.N.R., 88 DTC 1488, Splinter v. The Queen, [2001] 3 C.T.C. 2553 and Isaac v. The Queen, [2006] G.S.T.C. 6, to demonstrate that the Appellant’s husband was not a prête-nom holding the interest in the condo in trust for the Appellant. In the decisions of both Miller and Splinter, title was not held as joint tenants. In Miller, Taylor J. concluded that in light of a trust agreement indicating that the transferor received only legal title to the property, he could therefore not transfer what he did not own, namely a beneficial interest.
+[33] In Splinter, while there was no declaration of trust document that had been executed, there was a finding that other documentary evidence supported that a trust relationship existed so that the transferor held the property in trust only.
+[34] In Isaac, the transferor was not a resident in the property at the time of transfer and, in addition, documentation, including an executed power of attorney and a separation agreement, indicated that the transferor did not have a beneficial ownership.
+[35] Based on this jurisprudence, the Respondent contends that there was no evidence, including documentary evidence such as a declaration of trust, that the Appellant’s husband was holding the property in trust for her. Although the Appellant did not specifically address the prête-nom argument and did not argue that Gerald Campbell was holding any interest in the property in trust for the Appellant, in the oral submissions, Appellant’s counsel relied on the Saskatchewan Court of Appeal decision in Anderson v. Hervieux, [1985] S.J. No. 29 (S.K.C.A.). In Anderson, the Court held that the Plaintiff, who was residing in a common-law relationship, was entitled to full ownership of the house upon separation based on a resulting trust because the Defendant made no financial contribution and the Plaintiff had registered the property in joint names to ensure that the equity would pass to her on his death. The Appellant argued that these two factors of Anderson are similar to the facts in the present appeal and lend support to the Appellant’s position that only legal title was transferred but not the beneficial ownership.
+[36] The Anderson decision does not involve a section 160 assessment. It involves family law and estate trust principles. The parties in Anderson were separating while the parties in the present appeal are still married and in fact continue to reside in the condo. There was no evidence in Anderson of monetary contribution to the household while Gerald Campbell made financial contributions in amounts between $100.00 and $600.00 once or twice monthly. Further, in Anderson there was no evidence of joint bank accounts or joint VISA statements as in the present appeal. Although the Appellant testified that title to the condo was registered in both names to protect their daughter, she affirmed that she never had any formal discussions with her husband or the lawyer respecting title and the consequences of registering the condo in both names.
+[37] In summary, there is insufficient evidence to allow me to conclude that the Appellant’s husband was a prête-nom, holding the interest in the condo in trust for the Appellant. There is no documentary evidence to support such a proposition and the oral testimony contains some inconsistencies.
+Joint Tenancy
+[38] Joint tenancy is a form of ownership in which the joint tenants have concurrent ownership and possession of the same property. The Respondent argued that the most significant factor favouring beneficial ownership is that the Appellant and her husband acquired the condo and held title as joint tenants as opposed to tenants in common. The Respondent also submits that a presumption exists, in the absence of credible documentary evidence, that when parties own property as joint tenants each will have both a legal and beneficial interest in the property. Because the interest of each joint tenant is identical and the property cannot be sold or mortgaged without the consent of both joint tenants, whatever the Appellant had in law so did her husband.
+[39] The Appellant contends that it was always her intention that her husband would hold legal title only. However, there is no documentary or circumstantial evidence to support this claim. The evidence supports that the Appellant’s husband was involved to some extent with the purchase. He met with the realtor and viewed the condo before purchasing it; he met with the lawyer and reviewed the documents and executed all of the mortgage documentation (although few of these documents are before me). In fact, he remained on the mortgage when it was renegotiated in 2000 until he came off in 2002. In the event of the Appellant’s death, her husband had a right of survivorship in respect of the property and he would then have become sole owner of the property. I am perplexed by the Appellant’s testimony that she wanted to protect her daughter’s future by putting the property in joint names in light of her testimony that her husband had a drinking and gambling problem and that it was primarily her mother that provided child care when her daughter was younger. The designation of the Appellant and her husband as joint tenants and co-mortgagors clearly contradict the Appellant’s assertion that she always intended that her husband would have only a legal title to the property.
+[40] Respondent has also asked that I draw an adverse inference in respect to the fact that the lawyer that represented the parties in the purchase in 1993 was not called as a witness to confirm the Appellant’s intentions at the time of the purchase. The Appellant submitted that this lawyer was on holidays and therefore not available to appear at the hearing. In addition, the Appellant suggested that the Respondent could have subpoenaed this lawyer.
+[41] Both the Appellant and her husband met with the lawyer but the evidence was vague in respect to exactly what was discussed at the time of the purchase. Consequently, the testimony of this lawyer could have clarified the questions, concerns and explanations that were discussed with the Appellant and her husband. His testimony had the potential of validating the Appellant’s testimony respecting her intentions at the time of purchase. The fact that the Appellant refused to waive solicitor-client privilege leaves me wondering whether the lawyer might have contradicted her testimony respecting the ramifications of joint tenancy if he had been called as a witness. In respect to the Appellant’s suggestion that the Respondent could have subpoenaed the lawyer, this becomes largely irrelevant because the solicitor-client privilege was not waived. This lawyer would not have been able to provide any relevant information without the Appellant’s consent to revoke this privilege.
+[42] The Respondent contends that even if the Appellant’s husband was not a joint tenant, he still had a beneficial interest in the condo at the time of transfer. The Minister interprets “beneficial ownership” to mean the entitlement to use or benefit from a property, whether or not one has legal title (Respondent’s Submissions, paragraph 40). The Respondent submitted several technical and interpretation bulletins to show how Canada Revenue Agency (“CRA”) has come to interpret joint ownership and beneficial ownership [Technical Interpretation 2000-0048195 – Joint Tenancy – Beneficial Ownership; Interpretation – external 2007-025699IE5 - Beneficial Ownership; Interpretation Bulletin IT-437R – Ownership of Property (Principal Residence)].
+The Income Tax Act (Act) does not define the term "owned". In the common law jurisdictions, two forms of property ownership are recognized -- legal and beneficial. Normally "legal ownership" exists when title is transferred to, recorded in, registered in or otherwise carried in the name of a person. Legal owners are generally entitled to enforce their ownership rights against all other persons. By contrast, the term "beneficial ownership" is used to describe the type of ownership of a person who is entitled to the use and benefit of the property whether or not that person has concurrent legal ownership. The determination of whether a person beneficially owns a property is a question of fact that can only be determined after a review of all the documents and the circumstances applicable to a particular situation.
+The primary attributes of beneficial ownership include possession, use and risk. Therefore, in determining whether a person has beneficial ownership in a property, one should consider such factors as the right to possession, the right to collect rents, the right to call for the mortgaging of the property, the right to transfer title by sale or by will, the obligation to repair, the obligation to pay property taxes and other relevant rights and obligations. […] (CRA Views – external 2007-025699IE5 – Beneficial ownership, December 6, 2007).
+(Emphasis added)
+[43] I agree with the Respondent’s submissions that Gerald Campbell held a beneficial interest in the condo because he exercised continued use and possession and bore the usual financial risks associated with home ownership (Respondent’s Submissions, paragraph 42). Because the Appellant’s husband was named as a joint tenant in the deed and as a co-mortgagor on the financing documents, he was liable on an equal footing with the Appellant for payment of property taxes, repairs, condo fees and any outstanding mortgage balance. The property could not be sold or encumbered by further mortgages without his consent. Although the evidence supports that the Appellant made all of the mortgage payments, this alone will not be a defence to an assessment pursuant to section 160 nor does it support an argument that her husband did not have a beneficial interest. Bowman J. (as he was then) at paragraph 25 of MacDougall v. The Queen, 98 DTC 2180, stated the following in this respect:
+[25] Even if this case arose in a common law province I would have reached the same conclusion. The mere fact that a husband makes all the payments under a mortgage on a house that he and his wife own jointly does not mean that she is not a beneficial owner of her one-half. One needs very cogent evidence that a spouse who is shown as the legal owner of an interest in property is not also the beneficial owner. …
+(Emphasis added)
+[44] The Appellant stated that the bank included her husband’s name on the mortgage to allow her to look better in respect to the bottom line picture (Transcript, page 78). According to her evidence, the bank took a “guesstimate” of her husband’s earnings without proof and instead relied on her statement of earnings. I have difficulty believing that a lending institution would rely on a “guestimate” and if, as the Appellant contends, the condo was purchased and financed based on her salary alone then there would be no need for her husband to remain on the mortgage documents until October 8, 2002.
+[45] In the present appeal, there is little evidence respecting the actual financial contribution of the husband. His contribution varied between $100.00 and $600.00 either once or twice monthly. There was no specific evidence as to how household expenses and duties were divided. The account from which the mortgage payments were made was a joint account. The Appellant claimed that her husband’s signing authority was removed in 1994 but I was not provided with any record to support this. The bank records could only confirm that it was removed in 2001. In addition, these records do not cover the entire period for which the parties owned the condo.
+[46] The Appellant stated that her mother gifted her $11,000.00 to cover the down payment plus legal fees for the purchase and submitted that the testimony of the Appellant’s mother was consistent with that of the Appellant in respect to how the funds were transferred - that is, by way of a joint account. However, while the Appellant’s mother did testify that she gifted $11,000.00 to the Appellant, she did not corroborate the Appellant’s testimony respecting the transfer of the funds. She initially did not recall how it was transferred and, when questioned further, Pearl Engram recalled that she left the money in a TD account from which her daughter, the Appellant, withdrew the funds even though it did not appear that the Appellant was named on that account. In addition, there were no bank statements, receipts or other financial records to support the Appellant’s contention that this $11,000.00 amount was used as a down payment on the condo. The Appellant’s testimony therefore has not been fully corroborated here.
+[47] On a balance of probabilities the Appellant’s financial contribution to the condo was greater than that of her husband. However, as stated by Angers J. in Burns v. The Queen, 2006 DTC 3383, this Court cannot invoke equitable remedies to conclude that a transfer amounted to a conveyance of the interest he/she had in the home at the time, when in fact the Appellant and her husband were living together in the property and there is no apparent cause or need to remedy an economic injustice.
+[48] The Respondent submits that it is difficult to accept the Appellant’s contention that she did not realize for numerous years that she and her husband shared a joint bank account. While the evidence suggests that Gerald Campbell was removed from the account by 1999, there is nothing in the evidence to support that he was removed from the account before that date (Transcript, page 168-169). The banking records are incomplete and do not cover the entire period that the Appellant and her husband owned the condo. The Appellant’s testimony respecting the origin of transactions of less than $500.00 was vague and few records of any transactions were submitted.
+[49] Neither Appellant’s counsel nor Respondent’s counsel questioned Gerald Campbell about his income or where he was depositing his money if not into the joint Scotiabank account. This certainly would have been beneficial in light of the fact that he incurred a substantial tax debt throughout 1999 to 2002. This leads me to believe that he had income although the Appellant has claimed that his work was sporadic and that he could not be counted on for financial help. If he was not depositing his money into a separate account and was drinking and gambling then I am left to wonder why the Appellant allowed him on title to the condo as a joint tenant, registered him as a co-mortgagor, maintained a joint account, joint life insurance and joint credit cards. The Appellant’s evidence did not address these issues. In fact, it is interesting to note that while the Appellant removed her husband’s name from the title to the condo, the mortgage and the joint bank account, she did not remove his name from the joint credit cards even though she had to refinance the mortgage to pay them off. Her reason for this was that she needed his signature to do so and did not want to confront him about the credit cards. I am left wondering again why the Appellant felt comfortable in approaching her husband about removal of his name in respect to larger transactions that required his signature but did not want to deal with him on the credit card debt. Also Mr. Campbell contradicted this evidence as he did not believe that he shared joint credit cards with the Appellant. It is also strange that Mr. Campbell testified that the Appellant paid for joint life insurance while the Appellant claimed that she did not know about this – why then would her husband know about the insurance if, as the Appellant claimed, he was never involved in the mortgage because the Appellant attended to all of the affairs of the condo? How could the Appellant be unaware that she was paying for a joint life insurance while her husband had such knowledge?
+[50] The Appellant submits that the inconsistencies in the testimony were “quibbling differences” only and of minimal significance. However, I do believe that the evidence before me is sufficient to conclude that Gerald did not have a beneficial interest. There were a number of inconsistencies in the testimony and unanswered questions concerning why Gerald was on the title to the condo and the mortgage, the origin of various deposits to the account, how Gerald was involved in the purchase, the lawyer’s absence and the Appellant’s refusal to waive solicitor‑client privilege. In addition, supporting documentation was either lacking or incomplete.
+Nova Scotia Matrimonial Property Act (“MPA”)
+[51] The Respondent argued that as a spouse under the MPA, that even if the Appellant’s husband had not been a legal owner of the property, he would nevertheless be equally entitled to any right of possession of the condo pursuant to his rights in law as a spouse under the relevant provincial family law legislation. The Respondent asserted that, pursuant to subsection 8(1) of the MPA, the Appellant could not dispose of the condo or encumber it unless her husband consented to or otherwise released his rights, for example by separation agreement or court order. At all material times, he lived in the condo after the transfer with the Appellant and their daughter.
+[52] The Appellant referred to the decision in Yates v. The Queen, 2009 DTC 5062 where the Federal Court of Appeal stated that family obligations under provincial legislation do not provide any exceptions to the operation of section 160. The Court stated the following at paragraphs 41, 43, 54 and 70:
+[41] […] As I have already indicated, subsection 160(1) does not contain any ambiguity. If there is a transfer within the purview of the provision, then the transferee must satisfy the Court that he or she provided consideration at fair market value. In view of the wording of subsection 160(1), there is simply no basis for the position taken by the Judge.
+…
+[43] To conclude, the appellant submits that she gave consideration at fair market value for the sums received from her husband. I see no evidence in the record to support that view. To make things perfectly clear, let me say that in allowing her husband to live in the family residence, the appellant did not provide consideration at fair market value. This is simply another attempt by Mrs. Yates to benefit from the exception found at subsection 160(4).
+…
+[54] There is nothing in subsection 160(1) that permits a court to excuse a spouse from liability where the conditions of the provision are met; in fact, there is no mention of a family law exception in this provision.
+…
+[70] There is some confusion in jurisprudence since provincial legislation on family law regarding property, family definition, common law partners and matrimonial homes varies from one province to another. Nevertheless, subsection 160(1) should apply equally everywhere in Canada without exception apart from those specifically described in subsection 160(4).
+(Emphasis added)
+[53] I agree with the Appellant’s contention that family law concepts and principles should not play any part when section 160 is being considered and this is particularly so in light of the comments in the Yates decision. I note that the Appellant placed considerable reliance on the decision in Anderson, which involved family law and estate trust principles, to support the argument that her husband held only legal title to the condo. By the Appellant’s own admission, Anderson should not therefore be considered given that merging provincial legislation and matrimonial property principles with section 160 is not encouraged according to the jurisprudence. Further, as noted in counsel’s Reply Submissions, the concept of matrimonial rights does not exist unless and until there is a separation. In Anderson the parties lived in a common‑law relationship but had separated. In the present appeal the parties remain married and both continue to reside in the condo. Consequently, I do not believe that the decision in Anderson should be given any weight in this appeal.
+Section 20 of NS Act
+[54] Finally, the Reply referenced section 20 of the NS Act, which provides a formula for the calculation of income not earned within the Province of Nova Scotia. Neither the Appellant nor the Respondent addressed this provision in their Submissions and I am unsure of how this provision is relevant to the issues in this appeal. Since I received no submissions from either counsel and because it is unclear why the Minister would have resorted to this provision in assessing the Appellant, I do not believe that it is necessary for me to comment on it.
+[55] The appeal is therefore dismissed, with costs.
+Signed at Summerside, Prince Edward Island, this 9th day of September 2009.
+“Diane Campbell”
+Campbell J.
+CITATION: 2009 TCC 431
+COURT FILE NO.: 2007-4441(IT)G
+STYLE OF CAUSE: Bernice A. Campbell and
+Her Majesty The Queen
+PLACE OF HEARING: Halifax, Nova Scotia
+DATE OF HEARING: April 14, 2009
+REASONS FOR JUDGMENT BY: The Honourable Justice Diane Campbell
+DATE OF JUDGMENT: September 9, 2009
+APPEARANCES:
+Counsel for the Appellant:
+Bruce S. Russell, Q.C.
+Counsel for the Respondent:
+Devon E. Peavoy
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Bruce S. Russell, Q.C.
+Firm: McInnes Cooper
+Halifax, Nova Scotia
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

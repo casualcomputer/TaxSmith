@@ -1,0 +1,111 @@
+Title: Smith v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/25981/index.do
+Corpus path: corpus/cases/tcc/2003/2003-tcc-463-25981-smith-v-the-queen-en.md
+Document type: case_law
+Last modified: 2003-07-04
+
+# Smith v. The Queen
+
+- Citation: 2003 TCC 463
+- Decision date: 2003-07-04
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3779, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Smith v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-07-04
+Neutral citation
+2003 TCC 463
+File numbers
+2001-3218(IT)I
+Judges and Taxing Officers
+Eric A. Bowie
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2001-3218(IT)I
+BETWEEN:
+JEFFREY DONALD SMITH,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on June 25, 2003, at Winnipeg, Manitoba,
+By: The Honourable Justice E.A. Bowie
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Perry Derksen
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment of tax made under the Income Tax Act for the 1999 taxation year is dismissed.
+Signed at Ottawa, Canada, this 4th day of July, 2003.
+"E.A. Bowie"
+Bowie J.
+Citation: 2003TCC463
+Date: 20030704
+Docket: 2001-3218(IT)I
+BETWEEN:
+JEFFREY DONALD SMITH,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Bowie J.
+[1] Mr. Smith appeals from a reassessment under the Income Tax Act (the Act) for the 1999 taxation year. The Minister of National Revenue (the Minister) disallowed the deduction from income claimed by him of $8,400, consisting of 12 monthly payments of $700 each that he made to his trustee in bankruptcy, as required by a consent judgment of the Supreme Court of Ontario (General Division). The Appellant signed the consent to judgment as a condition of obtaining his discharge from bankruptcy. The Minister also added a late filing penalty and interest, as the Appellant did not file his return until June 27, 2000. If the appeal succeeds then the Appellant is entitled to be relieved of the penalty and interest.
+[2] There is no dispute about the facts. In September 1990, the Appellant and his wife purchased a small apartment building on Flora Street in Ottawa as an investment. The purchase price was $298,000. The property was subject to a mortgage in favour of Peter Balestra in the amount of $78,500, which they assumed on closing. They also gave a further mortgage to Prenor Trust Company of Canada for $210,000. Mr. Balestra agreed to postpone his mortgage in favour of the Prenor Trust mortgage.
+[3] At the time of the purchase the Appellant was serving overseas in the armed forces, and was therefore not able to administer the property personally. For various reasons that need not be gone into here, the building did not prove to be a profitable investment. By May 1992, the Prenor Trust mortgage had fallen into arrears, and on May 26, Prenor Trust sold the property under power of sale for $215,000, which was the amount owing on its mortgage at the time. In August 1996, Peter Balestra sued the Appellant on his covenant under the second mortgage, and in October that year he obtained a judgment for $126,893. The Appellant made no payments on this judgment, and on February 21, 1997, he made an assignment in bankruptcy. Mr. Balestra was the major creditor in the bankruptcy, but not the only one. In due course the Appellant's application for discharge came before the Court, and Mr. Balestra opposed it.
+[4] In January 1998, the Appellant was granted a discharge by the Ontario Court, conditional upon him consenting to a judgment in favour of the trustee in the amount of $40,000, to be paid at the rate of $700 per month, beginning in January 1998. The Appellant duly signed the consent to judgment in those terms, and the judgment was entered in the Court. In the year 1999 the Appellant made the required payments, totalling $8,400. It is this amount that he now claims to be entitled to deduct from his income for the year.[1]
+[5] The Appellant's position, as I understood his argument, is that the requirement to make these monthly payments results directly from the investment that he made in the Flora Street property, and that he should therefore be entitled to deduct them from his income for the year in which the payments were made, as an expense of his ownership of the property. For the reasons that follow, I am unable to agree with this submission.
+[6] The short answer to the Appellant's contention is that there is no nexus between the monthly payments that he made to the trustee in bankruptcy and the Flora Street property, or either of the mortgages on it. Mr. Derksen quite rightly points out that the payments that Mr. Smith wishes to deduct were not made to Mr. Balestra, but to the trustee in bankruptcy. No doubt some of the money ends up with Mr. Balestra, because the trustee's obligation is to distribute it according to section 136 of the Bankruptcy and Insolvency Act.[2] Mr. Balestra will be paid only after the expenses and fees of the trustee, any legal costs, and the levy payable to the Superintendent have been satisfied, and then only pro rata with the other ordinary creditors. He will be paid by the trustee, not by the Appellant. Mr. Smith's debt to Mr. Balestra was extinguished upon his discharge becoming absolute when he satisfied the condition by signing the consent to judgment.[3] The amounts paid by the Appellant, then, are not referable to either interest or capital payments on the mortgage; they are simply amounts that the Appellant was required to pay in order to secure his discharge from a personal bankruptcy, and as such they are personal expenses, the deduction of which is prohibited by paragraph 18(1)(h) of the Act.
+[7] I agree as well with the alternative position argued by counsel for the Respondent. Even if I am wrong as to the first point and a nexus could be established between the payments to the trustee and the Balestra mortgage, no part of the payments would be deductible. First, it would not be possible on the evidence before me to apportion the payments between capital and interest. Even if that could be done, neither could be deducted. Any amount attributable to capital would be precluded from deductibility by reason of paragraph 18(1)(b) of the Act simply because it would be a capital amount. Any amount attributable to interest would not be deductible for lack of a source of income to which it could be attributed in 1999 when the payment was made. Mr. Smith's interest in the Flora Street property came to an end in 1992 with the sale by Prenor Trust. It was no longer a source of income for him within the meaning of that expression in section 3 of the Act, and therefore he could not charge expenses or interest against it after that time. That is the result of the decision of the Federal Court of Appeal in Emerson v. The Queen.[4] Although that decision has attracted a certain amount of criticism, it is referred to with apparent approval by the Supreme Court of Canada in Tennant v. M.N.R.,[5] and, more importantly, it remains binding upon this Court.
+[8] I should perhaps add, for completeness, that Mr. Smith probably suffered both capital and non-capital losses in connection with this property during the years that he owned it. I heard no evidence about this, and I do not know whether he claimed any such losses. To the extent that he may have had any such losses that were not utilized prior to his discharge from bankruptcy becoming absolute, they would no longer be available to him by reason of paragraph 128(2)(g) of the Act.
+[9] Unfortunately for the Appellant, there is no relief available to him under the Act in respect of the payments that he must make to the trustee, as they simply cannot be brought within any provision of the Act that would entitle him to deduct them. His appeal must be dismissed. He may wish to apply to the Minister for discretionary relief under subsection 220(3.1) of the Act in respect of the penalty and interest, but that is a matter over which this Court has no jurisdiction.
+Signed at Ottawa, Canada, this 4th day of July, 2003,
+"E.A. Bowie"
+Bowie J.
+CITATION:
+2003TCC463
+COURT FILE NO.:
+2001-3218(IT)I
+STYLE OF CAUSE:
+Jeffrey Donald Smith and Her Majesty The Queen
+PLACE OF HEARING:
+Winnipeg, Manitoba
+DATE OF HEARING:
+June 25, 2003
+REASONS FOR JUDGMENT BY:
+The Honourable Justice E.A. Bowie
+DATE OF JUDGMENT:
+July 4, 2003
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Berry Derksen
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+N/A
+Firm:
+N/A
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] The evidence does not reveal whether he made any payments in 1998.
+[2] R.S.C. 1985 c. B-3.
+[3]
+Supra, section 178.
+[4] [1986] 1 C.T.C. 422.
+[5] [1996] 1 S.C.R. 305 at paragraph 27.

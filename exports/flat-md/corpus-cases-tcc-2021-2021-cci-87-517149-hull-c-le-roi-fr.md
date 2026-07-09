@@ -1,0 +1,232 @@
+---
+title: "Hull c. Le Roi"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/517149/index.do"
+last_modified: "2021-11-26"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2021 CCI 87"
+citation2: ""
+neutral_citation: "2021 CCI 87"
+decision_date: "2021-11-26"
+language: "fr"
+item_id: "517149"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4436
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2024-04-10T10:28:03.653000+00:00"
+cases_cited_count: 3
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "054658422c03853f49b48308695268a78bdbbad54e725e97ca9f5a6bc824bb27"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Hull c. Le Roi
+
+- Citation: 2021 CCI 87
+- Decision date: 2021-11-26
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4436, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Hull c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2021-11-26
+Référence neutre
+2021 CCI 87
+Numéro de dossier
+2015-2187(IT)G
+Juges et Officiers taxateurs
+Steven K. D'Arcy
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2015-2187(IT)G
+ENTRE :
+JEFFREY HULL,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Requête entendue le 28 septembre 2021, à Toronto (Ontario)
+Devant : L’honorable juge Steven K. D’Arcy
+Comparutions :
+Avocate de l’appelant :
+Me A. Christina Tari
+Avocat de l’intimée :
+Me Christian Cheong
+ORDONNANCE
+Conformément aux motifs de l’ordonnance ci-joints :
+1. La requête en dépens majorés de l’appelant est rejetée;
+Des dépens de 4 096,25 $ plus des débours de 10 403,56 $ sont adjugés à l’appelant. Le montant des dépens sera réduit des dépens de l’intimée pour la présente requête, qui sont fixés à 2 500 $.
+Signé à Ottawa, Canada, ce 26e jour de novembre 2021.
+« S. D’Arcy »
+Le juge D’Arcy
+Traduction certifiée conforme
+ce 8e jour d’août 2023.
+François Brunet, réviseur
+Référence : 2021 CCI 87
+Date : 20211126
+Dossier : 2015-2187(IT)G
+ENTRE :
+JEFFREY HULL,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE
+Le juge D’Arcy
+[1] L’appelant a présenté une requête au titre de l’article 147 des Règles de la Cour canadienne de l’impôt (procédure générale) (les « Règles »), selon laquelle lui soient adjugés des dépens majorés constituant 100 % de tous les frais et débours facturés du 15 mars 2017 à ce jour, des dépens majorés de 75 % constituant tous les frais facturés jusqu’au 14 mars 2017, ainsi que des dépens majorés représentant 100 % de tous les débours facturés, effectués au cours de cette période.
+[2] L’appel en question porte sur trois nouvelles cotisations établies par le ministre le 5 décembre 2011 pour les années d’imposition 2005, 2008 et 2009 de l’appelant. Lorsqu’il a établi la cotisation à l’égard de l’appelant, le ministre n’a pas autorisé les dépenses d’entreprise déduites pour les années d’imposition 2008 et 2009, totalisant respectivement 133 170 $ et 150 510$, et n’a pas autorisé le report rétrospectif d’une perte autre qu’en capital de 51 321 $ pour l’année d’imposition 2005. Le montant d’impôt fédéral en cause dans l’appel était de 64 135 $.
+[3] L’appelant a interjeté appel à la Cour le 5 mai 2015. Le 4 septembre 2020, avant l’audition de l’appel, les parties ont déposé un consentement à jugement auprès de la Cour, accueillant l’appel sans réserve pour ce qui est des années d’imposition pertinentes. Le consentement était muet quant aux dépens. La lettre d’accompagnement déposée par les deux parties avec le consentement à jugement mentionnait que les parties ne s’étaient pas entendues sur le montant des dépens, et que l’appelant avait l’intention de soumettre la question à la Cour pour qu’elle tranche la question.
+[4] Le 24 septembre 2020, les parties ont déposé un consentement à jugement modifié, accueillant l’appel de l’appelant avec dépens. La lettre d’accompagnement déposée par les deux parties avec le consentement à jugement mentionnait que les parties ne s’étaient toujours pas entendues sur le montant des dépens, et que l’appelant avait l’intention de présenter une requête au titre du paragraphe 147(7) dans les 30 jours suivant la réception du jugement de la Cour conformément à l’alinéa 170a).
+[5] Le 14 octobre 2020, mon collègue le juge Pizzitelli a prononcé un jugement accueillant l’appel avec dépens, et renvoyant les nouvelles cotisations au ministre du Revenu national pour réexamen et nouvelles cotisations selon les modalités du consentement à jugement modifié.
+[6] L’appelant a finalement déposé la présente requête.
+I. Résumé des procédures
+[7] Puisqu’il n’y pas eu d’audience, je dois me limiter aux renseignements exposés dans les actes de procédure, dans le dossier de la Cour et dans un affidavit déposé par l’appelant. Il ressort clairement des actes de procédure que l’appelant intervenait à titre de conseiller financier indépendant. Comme il a été discuté précédemment, le ministre n’a pas autorisé les dépenses déduites par l’appelant pour les années d’imposition 2008 et 2009, de 133 170 $ et 150 510$.
+[8] Il ressort des observations des parties et de l’affidavit déposé au nom de l’appelant que la principale question soulevée dans l’appel était celle des frais engagés par l’appelant pour l’achat et l’utilisation d’une Chevrolet Corvette Z06 2008 de 105 000 $, pendant ce qui a été désigné comme des [traduction] « sessions en piste ». Au paragraphe 13 de ses observations écrites, l’appelant explique que les sessions de piste sont [traduction] « [. . .] des événements organisés au cours desquels les propriétaires de voitures et de motocyclettes de luxe avaient la possibilité de faire des tours de piste tout en conduisant très rapidement, en toute sécurité, afin d’apprendre et d’améliorer leurs compétences au volant de leurs véhicules ».
+[9] Entre le moment où l’appelant a interjeté appel le 5 mai 2015 et le moment où la Cour, plus de cinq ans plus tard, a rendu son jugement fondé sur le consentement à jugement modifié, les parties ont franchi les étapes de l’instance, et la Cour a prononcé les ordonnances qui suivent.
+[10] La réponse a été déposée le 10 août 2015, la liste de documents de l’appelant, le 9 octobre 2015 et la liste de documents de l’intimée, le 4 novembre 2015.
+[11] Le 8 janvier 2016, les parties ont présenté une demande conjointe relativement aux étapes de l’instance qu’il restait à franchir. En raison des diverses demandes présentées par les parties, la Cour a prononcé les quatre ordonnances suivantes portant sur les étapes de l’instance à franchir.
+[12] La première ordonnance, datée du 26 janvier 2016, exigeait que les étapes de l’instance qu’il restait à franchir (interrogatoire préalable et respect des engagements pris lors de l’interrogatoire préalable) le soient au plus tard le 31 août 2016 et que les parties se présentent devant la Cour au plus tard le 14 octobre 2016.
+[13] À la suite de la demande présentée par l’appelant, la Cour a prononcé une ordonnance, le 28 septembre 2016, modifiant son ordonnance initiale et exigeant des parties qu’elles aient franchi les étapes de l’instance au plus tard le 31 janvier 2017 et qu’elles se présentent devant la Cour au plus tard le 31 mars 2017.
+[14] À la suite de la demande conjointe des parties, la Cour a modifié de nouveau son ordonnance pour permettre que les étapes de l’instance soient franchies au plus tard le 28 avril 2017, et exiger que les parties se présentent devant la Cour au plus tard le 30 juin 2017. Les parties ont demandé une prolongation de délai pour poursuivre leurs discussions en vue de parvenir à un règlement.
+[15] Les parties ont alors présenté une troisième demande en modification de l’ordonnance de la Cour. Cette demande visait à permettre que d’autres questions soient posées lors de l’interrogatoire préalable par écrit, et la date du 29 septembre 2017 a été fixée pour la réception des réponses aux autres questions et les réponses aux engagements pris au cours de l’interrogatoire préalable. Le 8 mai 2017, la Cour a accueilli la demande des parties et a rendu une ordonnance (« l’ordonnance du 8 mai 2017 ») selon laquelle les étapes de l’instance devaient être franchies au plus tard le 29 septembre 2017 et les parties devaient se présenter devant la Cour au plus tard le 30 novembre 2017.
+[16] Les parties ont franchi les étapes de l’instance de la façon suivante :
+[17] Le 10 juin 2016, l’appelant a déposé une liste supplémentaire de documents.
+[18] Le 27 février 2017, l’intimée a remis à l’appelant la première série de questions dans le cadre de l’interrogatoire préalable par écrit. L’intimée a posé 47 questions.
+[19] Le 31 mars 2017, l’appelant a donné à l’intimée des réponses à certaines questions posées dans le cadre de l’interrogatoire préalable par écrit. Il s’est toutefois engagé à répondre à 20 questions ultérieurement.
+[20] Le 31 juillet 2017, l’intimée a signifié la deuxième série de questions dans le cadre de l’interrogatoire préalable par écrit.
+[21] Le 29 septembre 2017, l’appelant a donné des réponses aux questions posées dans la deuxième série de questions dans le cadre de l’interrogatoire préalable par écrit. Il s’est également acquitté de certains autres engagements qu’il avait pris à la suite de la première série de questions dans le cadre de l’interrogatoire préalable par écrit. Toutefois, il a manqué à l’ordonnance rendue par la Cour le 8 mai 2017 en ne s’acquittant pas de huit engagements.
+[22] Le 18 août 2020, l’appelant a déposé une deuxième liste supplémentaire de documents.
+[23] Le 19 août 2020, l’appelant s’est finalement acquitté des huit autres engagements. Cela s’est produit presque trois ans après la date précisée dans l’ordonnance du 8 mai 2017.
+[24] Le 1er septembre 2020, l’appelant a déposé une troisième liste supplémentaire de documents.
+[25] L’appel devait initialement être entendu le 5 octobre 2018. Toutefois, en raison de la demande des parties présentée le 7 août 2018, l’audience a été ajournée. Les 31 octobre 2018 et le 7 janvier 2019, les parties ont demandé à la Cour de reporter l’audience prévue. Les trois lettres mentionnent que le report était dû au fait que les parties tenaient des discussions en vue de parvenir à un règlement.
+[26] En raison des nombreux retards, la Cour a fixé une audience sur l’état de l’instance, ce qui a donné lieu à la mise au rôle de l’audition de l’appel le 14 septembre 2020.
+[27] Les parties ont présenté les offres de règlement qui suivent.
+[28] Le 14 mars 2017 (avant que l’appelant ne donne les réponses à la première série de questions de l’interrogatoire préalable), l’appelant a offert de régler l’appel, à condition que l’intimée autorise les dépenses d’entreprise de 116 543,23 $ et de 130 821 $ ainsi que le report rétrospectif des pertes de 51 321 $ (l’« l’offre de règlement du 14 mars 2017 »). L’intimée n’a pas accepté cette offre à ce moment-là.
+[29] Le 27 août 2020, huit jours après que l’appelant se fut finalement acquitté de ses autres engagements, l’intimée a offert de régler l’appel sur la base de l’offre de règlement du 14 mars 2017, sans dépens. L’appelant n’a pas accepté cette offre, mais a offert de régler selon l’offre de règlement du 14 mars 2017, plus des dépens de 120 000 $.
+[30] Le 28 août 2020, l’intimée a rejeté l’offre de l’appelant, mais a offert de régler de façon à admettre les dépenses de 116 543 $ et 130 821 $, tel que ces dépenses sont indiquées dans l’offre de règlement du 14 mars 2017, plus le versement de 10 000 $ au titre des dépens, plus les dépens calculés selon le tarif et les débours raisonnables et nécessaires.
+[31] Le 31 août 2020, l’appelant a rejeté l’offre de l’intimée et a offert de régler l’appel au motif que l’appel soit accueilli sans réserve, et que l’intimée verse la somme de 58 000 $ à titre de remboursement d’une partie des frais d’avocat de l’appelant, plus les dépens calculés selon le tarif et les débours raisonnables et nécessaires.
+[32] Le 3 septembre 2020, l’intimée a offert de régler l’appel sans réserve et que la Cour fixe les dépens. L’appelant a accepté cette offre et les parties ont déposé un consentement à jugement.
+II. Le droit
+[33] Comme notre jurisprudence l’a maintes fois noté, le juge de première instance a le pouvoir discrétionnaire absolu et illimité de refuser ou d’accorder les dépens, sous réserve seulement des règles régissant l’octroi des dépens. Ce pouvoir discrétionnaire permet aux juges de la Cour canadienne de l’impôt d’adjuger des dépens justes et appropriés en fonction des circonstances propres à chaque affaire prise individuellement.
+[34] Les articles 147 à 152.1 des Règles contiennent certaines règles et lignes directrices en matière d’adjudication de dépens dans le cadre de la procédure générale. Le paragraphe 147(1) des Règles dispose que « [l]a Cour peut fixer les frais et dépens, les répartir et désigner les personnes qui doivent les supporter ».
+[35] Dans l’exercice de son pouvoir discrétionnaire, la Cour peut tenir compte d’au moins un des facteurs énumérés au paragraphe 147(3) des Règles, qui est ainsi libellé :
+En exerçant sa discrétion conformément au paragraphe (1), la Cour peut tenir compte :
+a) du résultat de l’instance;
+b) des sommes en cause;
+c) de l’importance des questions en litige;
+d) de toute offre de règlement présentée par écrit;
+e) de la charge de travail;
+f) de la complexité des questions en litige;
+g) de la conduite d’une partie qui aurait abrégé ou prolongé inutilement la durée de l’instance;
+h) de la dénégation d’un fait par une partie ou de sa négligence ou de son refus de l’admettre, lorsque ce fait aurait dû être admis;
+i) de la question de savoir si une étape de l’instance,
+i) était inappropriée, vexatoire ou inutile,
+(ii) a été accomplie de manière négligente, par erreur ou avec trop de circonspection;
+j) de toute autre question pouvant influer sur la détermination des dépens.
+[36] En outre, conformément au paragraphe 147(4), la Cour peut fixer les dépens en tenant compte ou non du tarif B de l’annexe II des Règles (le « tarif »), et peut adjuger une somme globale au lieu ou en sus des dépens taxés.
+[37] Comme le juge en chef Rossiter l’a noté dans la décision Velcro Canada Inc. c. La Reine, 2012 CCI 273, « [l]es facteurs énoncés au paragraphe 147(3) des Règles constituent les éléments clés dont la Cour doit tenir compte pour adjuger les dépens, en fixer le montant et décider si elle devrait s’écarter ou non du tarif ».
+[38] Les paragraphes 147(3.1) à 147(3.8) des Règles ont été ajoutés le 7 février 2014. Ces règles prévoient des dépens majorés si l’appelant obtient un jugement de la Cour qui est au moins aussi favorable qu’une offre de règlement admissible. Les seules dispositions pertinentes aux fins de la présente requête sont les paragraphes 147(3.1) et (3.5), qui sont rédigés comme suit :
+(3.1) Sauf directive contraire de la Cour, lorsque l’appelant fait une offre de règlement et qu’il obtient un jugement qui est au moins aussi favorable que l’offre de règlement, l’appelant a droit aux dépens entre parties jusqu’à la date de la signification de l’offre et, après cette date, aux dépens indemnitaires substantiels que fixe la Cour, plus les débours raisonnables et les taxes applicables.
+[. . .]
+(3.5) Pour l’application du présent article, les dépens indemnitaires substantiels correspondent à 80 % des dépens établis sur une base procureur-client.
+[39] Vu les mots « [s]auf directive contraire de la Cour » au paragraphe 147(3.1), est reconnu le pouvoir discrétionnaire la Cour de ne pas accorder de dépens majorés.
+[40] Mon collègue le juge Owen a ainsi expliqué ce pouvoir discrétionnaire dans la décision Sun Life du Canada, compagnie d’assurance-vie c. La Reine, 2015 CCI 171 : « la Cour a le pouvoir discrétionnaire de déterminer quels sont les dépens indemnitaires substantiels dans chaque cas et le pouvoir discrétionnaire de passer outre à la règle supplétive si la Cour est d’avis que les circonstances le justifient. Les aspects discrétionnaires de la règle s’accordent avec le principe général selon lequel l’adjudication des dépens “est un exemple typique d’une décision discrétionnaire” ». Le juge Owen a noté que cela est conforme aux observations formulées par la Cour d’appel fédérale, aux paragraphes 30 et 31 de l’arrêt Transalta Corporation c. Canada, 2013 CAF 285.
+[41] Je retiens les autres conclusions tirées par le juge Owen dans la décision Sun Life, selon lesquelles le pouvoir discrétionnaire de passer outre à la règle supplétive du paragraphe 147(3.1) ne doit être exercé que de manière cohérente et le droit conféré par le paragraphe 147(3.1) ne doit pas être retiré à la légère.
+[42] L’article 149 des Règles est une disposition qui peut s’appliquer lorsque la procédure est réglée. Il est ainsi libellé :
+Si une instance fait l’objet d’une transaction qui prévoit le paiement ou le recouvrement des dépens par une partie et que le montant des dépens n’est pas visé ni fixé dans la transaction, les dépens peuvent être taxés conformément aux articles 153 à 159 après le dépôt d’une copie du procès-verbal de la transaction au greffe.
+[43] Cette disposition permet l’adjudication des dépens lorsque les parties parviennent à une entente. Le renvoi au dépôt d’une copie du procès-verbal de l’entente indique que cette entente est censée s’appliquer lorsque les parties en arrivent à un règlement en application du paragraphe 169(3) de la Loi de l’impôt sur le revenu. Dans un tel cas, la Cour ne rend pas de jugement. Les parties signent plutôt le procès-verbal de l’entente, qui n’est pas déposé à la Cour. Lorsque le ministre établit une nouvelle cotisation à l’égard de l’appelant conformément au procès-verbal de l’entente, les parties mettent fin à l’appel.
+[44] Il semble que les rédacteurs de l’article 149 des Règles aient pensé qu’une règle précise était nécessaire pour permettre l’adjudication des dépens dans un cas où les parties qui ont recours au paragraphe 169(3) de la Loi de l’impôt sur le revenu règlent leur différend en l’absence d’un jugement de la Cour.
+[45] L’article 149 contient l’expression « peuvent être taxés conformément aux articles 153 à 159 ». Vu le mot « peuvent », le pouvoir discrétionnaire de la Cour de déterminer la façon dont les dépens doivent être fixés est reconnu.
+III. Thèses des parties
+[46] L’appelant soutient que son droit aux dépens, à compter du 15 mars 2017 jusqu’à la date du jugement de la Cour, doit être déterminé en application du paragraphe 147(3.1) des Règles parce que le jugement rendu par la Cour le 14 octobre 2020 était plus favorable que l’offre de règlement du 14 mars 2017 présentée par l’appelant. Comme je viens de le mentionner, si les conditions du paragraphe 147(3.1) sont respectées, la Cour accordera normalement des dépens majorés à compter de la date de l’offre de règlement. Les dépens majorés équivalent normalement à 80 % des dépens avocat‑client de la partie concernée.
+[47] L’appelant demande toutefois 100 % des dépens avocat-client au motif que l’intimée n’a pas participé à des discussions sérieuses en vue de parvenir à un règlement entre mai 2017 et fin août 2020.
+[48] L’appelant affirme que, pour le même motif, il a droit à 75 % de ses dépens avocat-client engagés entre la date du dépôt de l’avis d’appel et le 14 mars 2017.
+[49] Au total, l’appelant demande des dépens de 260 413,27 $.
+[50] L’intimée soutient que le paragraphe 147(3.1) des Règles ne s’applique pas parce que la Cour n’a pas rendu un jugement au moins aussi favorable que l’entente de règlement du 14 mars 2017. Elle soutient également que le paragraphe 147(3.1) ne doit s’appliquer que si la Cour rendt un jugement à la suite d’une audience. Il ne devrait pas s’appliquer lorsque les parties règlent l’affaire sans tenir un procès ou sans intervention judiciaire.
+[51] Elle soutient que les dépens doivent être fixés conformément à l’article 149, en fonction des facteurs énumérés au paragraphe 147(3).
+[52] Selon ces facteurs, l’intimée estime qu’une adjudication des dépens justes et appropriés serait de 10 000 $, plus les dépens calculés selon le tarif et les débours.
+IV. Décision sur la requête
+[53] La Cour a clairement compétence pour fixer les dépens dans tous les appels dont elle est saisie, à l’égard desquels elle rend un jugement. Dans le cas où les parties déposent un consentement à jugement, la Cour rend un jugement. Bien que ce jugement soit fondé sur le consentement à jugement des parties, il n’en demeure pas moins qu’il s’agit d’un jugement de la Cour. Avant de rendre le jugement, la Cour doit conclure qu’elle a le pouvoir de rendre le jugement, dans le sens où il s’agit d’un jugement relevant de sa compétence et d’un jugement qu’elle est en droit de rendre.
+[54] Le paragraphe 147(3.1) s’applique lorsque l’appelant présente une offre de règlement et obtient un jugement au moins aussi favorable que les modalités de l’offre de règlement.
+[55] Dans le présent appel, l’appelant a présenté l’offre de règlement du 14 mars 2017. Le 14 octobre 2020, le juge Pizzitelli a rendu un jugement fondé sur le jugement de consentement signé par les parties. De plus, le jugement du juge Pizzitelli est plus favorable que les modalités de l’offre de règlement du 14 mars 2017. Par conséquent, le paragraphe 147(3.1) pouvait s’appliquer à l’appel. Toutefois, compte tenu des circonstances particulières de l’affaire dont je suis saisi, j’ai conclu qu’il était justifié en l’espèce que la Cour exerce son pouvoir discrétionnaire de ne pas accorder les dépens majorés prévus par ce texte.
+[56] Au début de l’audience, j’ai attiré l’attention de l’avocate de l’appelant sur le fait qu’il ne s’était pas conformé à l’ordonnance du 8 mai 2017, et, notamment le fait qu’il n’avait respecté tous ses engagements que près de trois ans suivant la date précisée par la Cour dans son ordonnance du 8 mai 2017. Elle a répondu que l’appelant avait l’obligation de continuer à mettre à jour les engagements [traduction] « et que c’est ce qu’il a fait ».
+[57] Je l’ai alors avertie de faire très attention à sa réponse. À titre d’auxiliaire de justice, elle a un devoir tant envers son client qu’envers la Cour. Le devoir envers la Cour est primordial. Une partie de son devoir consiste à veiller à ce que la Cour ne soit pas induite en erreur.
+[58] Je lui ai dit que j’avais pris connaissance des questions posées lors de l’interrogatoire préalable écrit, des engagements pris ainsi que des réponses aux engagements (qui ont tous été produits dans le dossier de requête de l’appelant). Il est clair à la lecture de ces documents que la lettre du 19 août 2020 de l’appelant ne constituait pas une mise à jour des réponses précédentes aux engagements, mais que pour la première fois, il s’acquittait des huit engagements pris le 31 mars 2017.
+[59] Dans sa communication du 29 septembre 2017, plutôt que de s’acquitter des autres engagements, l’appelant a déclaré qu’en ce qui concerne huit des autres engagements, il ferait de son mieux pour donner les réponses à la totalité ou à une partie de la question le plus rapidement possible. L’appelant n’a donné ces réponses que le 19 août 2020.
+[60] J’ai aussi attiré l’attention de son avocate sur ce que, dans ses observations écrites relatives à la présente requête, elle reconnaît que l’appelant ne s’est pas acquitté de ses engagements. Par exemple, au paragraphe 58 de ses observations écrites, l’avocate de l’appelant déclare ce qui suit : [traduction] « Au 30 septembre 2017, plusieurs engagements n’avaient pas été respectés et le faire serait coûteux ».
+[61] L’avocate a alors modifié sa réponse en déclarant que selon l’appelant, il aurait été inutile de s’acquitter des engagements après le 31 mars 2017.
+[62] Comme je l’ai expliqué à l’avocate de l’appelant, le 8 mai 2017, la Cour avait ordonné à l’appelant de s’acquitter de ses engagements au plus tard le 29 septembre 2017. Ce n’est pas à une partie au présent appel de choisir l’ordonnance qu’elle doit respecter.
+[63] Les parties doivent respecter toutes les ordonnances de la Cour. Si une partie ne se conforme pas à une ordonnance de la Cour, elle doit en subir les conséquences. Normalement, dans un cas comme celui dont la Cour est saisie, la conséquence est l’adjudication des dépens. Toutefois, la Cour a rendu un jugement accordant les dépens à l’appelant. Rien n’indiquait dans le dossier de la Cour, au moment du dépôt du consentement à jugement, que l’appelant avait inobservé l’ordonnance du 8 mai 2017.
+[64] La Cour n’est cependant pas au courant de ce fait. Ce fait à lui seul m’amène à conclure qu’en raison de la conduite de l’appelant, il n’a pas droit aux dépens majorés prévus par le paragraphe 147(3.1). La partie qui ne se conforme pas à une ordonnance de la Cour ne doit pas se voir accorder des dépens majorés. L’appelant a quand même la chance de recevoir des dépens.
+[65] Bien que la conduite de l’appelant soit déterminante pour l’application du paragraphe 147(3.1), il est important de souligner que, selon moi, le paragraphe 147(3.1) n’est pas censé s’appliquer dans le cas où les parties, et non la Cour, règlent le différend.
+[66] Le paragraphe 147(3.1) vise principalement à encourager les parties à s’engager dans des discussions en vue de parvenir à un règlement pour savoir si elles peuvent éviter les frais d’un procès. Bien que ce texte puisse littéralement s’appliquer lorsque le jugement est fondé sur un consentement à jugement, je suis d’avis qu’il n’est censé s’appliquer que lorsque la Cour entend l’appel et en détermine l’issue. Il n’est pas censé s’appliquer lorsque les parties ont évité les frais liés à une audience en parvenant à un règlement.
+[67] Étant arrivé à la conclusion que le paragraphe 147(3.1) ne s’appliquait pas dans le présent appel en raison de la conduite de l’appelant, je dois maintenant fixer le montant précis des dépens que l’appelant est en droit de recevoir. Ce faisant, j’ai tenu compte de plusieurs des facteurs énoncés au paragraphe 147(3), dont le plus important est celui de la conduite de l’appelant.
+[68] Non seulement il a inobservé l’ordonnance de la Cour, mais il a également fait obstacle au règlement rapide de l’appel en prenant presque trois ans pour s’acquitter de tous ses engagements.
+[69] L’étape de l’interrogatoire préalable est essentielle au bon fonctionnement de la Cour. Il permet que le procès se déroule de façon efficace et que les « litiges par guet-apens » soient évités. Il est également important de souligner qu’un interrogatoire préalable en bonne et due forme amène souvent les parties à régler l’appel, une fois que les deux parties connaissent les faits. Les parties ont besoin de connaître les faits pour pouvoir parvenir à un règlement éclairé.
+[70] Vu que l’appelant ne s’est pas acquitté de ses engagements en septembre 2017, l’intimée n’a été mise au courant de tous les faits qu’à la fin août 2020.
+[71] Les renseignements produits par l’appelant le 19 août 2020 comprenaient les ventilations détaillées des dépenses engagées par l’appelant liées à quatre catégories de dépenses pour les années d’imposition 2008 et 2009. Ils contenaient également des documents PDF, soit des copies des [traduction] « factures, reçus, relevés bancaires et relevés de cartes de crédit » pour étayer les sommes déduites par l’appelant.
+[72] Dans un appel comme celui en l’espèce, où la question que la Cour doit trancher est une question de fait, la communication des renseignements factuels, comme ceux que l’appelant a produits le 19 août 2020, est une étape essentielle lorsque les parties tentent de parvenir à une entente. Je ne puis que conclure que l’omission par l’appelant de produire de tels renseignements pendant presque trois ans a empêché les parties d’en arriver à un règlement. L’avocat de l’intimée a déclaré pendant l’audition de la présente requête que c’est après examen par l’intimée des renseignements fournis par l’appelant le 19 août 2020 (après que l’intimée eut pris connaissance des faits) que l’intimée a été disposée, pour la première fois, à régler l’affaire en accueillant l’appel intégralement.
+[73] Un deuxième facteur pertinent est la complexité de la question en litige. L’appel portait sur une question dont la Cour est souvent saisie et qui n’est pas complexe, soit la question de savoir si l’appelant a engagé certaines dépenses, et, dans l’affirmative, si ces dépenses étaient déductibles dans le calcul de son revenu tiré d’une entreprise.
+[74] Les autres facteurs pertinents sont la somme en cause et l’importance de la question en litige. Le montant d’impôt fédéral en cause dans l’appel était de 64 135 $. L’appelant sollicite des dépens de 260 413,27 $, environ quatre fois la somme en cause. Il est difficile d’imaginer un cas où la Cour accordera les dépens dans une affaire relativement simple, qui ne comporte aucune question en litige importante équivalant à quatre fois la somme en cause.
+[75] Après avoir examiné ces facteurs, j’ai décidé d’adjuger les dépens prévus au tarif. L’avocate de l’appelant a présenté le mémoire de frais de l’appelant, comme pièce B31 de son dossier de requête. À la page 6 du mémoire de frais, les sommes réclamées par l’appelant en application du tarif sont indiquées. Dans le mémoire, il y est mentionné que l’appelant a droit à 4 096,25 $ (qui comprend la TVH) pour les services rendus par son avocate. À la page 5 du mémoire de frais, l’appelant réclame des débours de 16 670,65 $.
+[76] L’intimée reconnaît que l’appelant a calculé correctement les dépens prévus par le tarif pour les services par son avocate. Elle n’accepte toutefois pas le calcul des débours effectué par l’avocate. Plus précisément, elle n’accepte pas les débours de 9 465,26 $ effectués le 1er septembre 2020 pour les photocopies du recueil de documents révisé, et les débours de 4 784,82 $ effectués le 16 novembre 2020 pour caviarder et photocopier le recueil de documents.
+[77] L’avocat de l’intimée a fait remarquer que la réserve de l’intimée porte sur les frais de services offerts après les heures de travail. L’avocate de l’appelant a perçu des frais de 3 152,10 $ (3 561,87 $ avec la TVH) pour des services urgents rendus après les heures de travail pour les photocopies effectuées le 1er septembre 2020 ainsi que des frais de 2 394 $ (2 705,22 $ avec la TVH) pour des services urgents rendus après les heures de travail, le 16 novembre 2020. Autrement dit, si les documents avaient été photocopiés pendant les heures normales de travail, l’avocate de l’appelant aurait facturé 5 903,39 $ et 2 079,60 $ pour les services rendus les 1er septembre et 16 novembre 2020, respectivement.
+[78] L’intimée soutient que l’appelant avait eu suffisamment de temps pour préparer ces recueils de documents et que rien ne justifiait qu’il engage des dépenses aussi substantielles pour des services rendus après les heures de travail. L’avocate de l’appelant a fait valoir qu’elle attendait de voir si l’affaire allait se régler avant de faire des photocopies des recueils.
+[79] Les sommes facturées pour les services rendus après les heures de travail sont substantielles. Elles constituent 37 % de la facture du 1er septembre 2020 et 56 % de celle du 16 novembre 2020. Je conviens avec l’avocat de l’intimée que l’appelant aurait dû faire des photocopies des registres en temps utile. L’intimée ne doit pas avoir à assumer les frais engagés en raison de l’inaction de l’avocate de l’appelant.
+[80] Pour les motifs qui précèdent, la requête en dépens majorés de l’appelant est rejetée. Des dépens de 4 096,25 $ plus des débours de 10 403,56 $ sont adjugés à l’appelant. Le montant des dépens sera réduit des dépens de l’intimée pour la présente requête, qui sont fixés à 2 500 $, la somme réclamée par l’intimée.
+Signé à Ottawa, Canada, ce 26e jour de novembre 2021.
+« S. D’Arcy »
+Le juge D’Arcy
+Traduction certifiée conforme
+ce 8e jour d’août 2023.
+François Brunet, réviseur
+RÉFÉRENCE :
+2021 CCI 87
+NO DU DOSSIER DE LA COUR :
+2015-2187(IT)G
+INTITULÉ :
+JEFFREY HULL c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+Le 28 septembre 2021
+MOTIFS DE L’ORDONNANCE :
+L’honorable juge Steven K. D’Arcy
+DATE DE L’ORDONNANCE :
+Le 26 novembre 2021
+COMPARUTIONS :
+Avocate de l’appelant :
+Me A. Christina Tari
+Avocat de l’intimée :
+Me Christian Cheong
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Me A. Christina Tari
+Cabinet :
+Tari Law Toronto (Ontario)
+Pour l’intimée :
+François Daigle Sous-procureur général du Canada Ottawa, Canada

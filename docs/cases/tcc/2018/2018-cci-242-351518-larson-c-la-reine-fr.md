@@ -1,0 +1,223 @@
+---
+title: "Larson c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/351518/index.do"
+last_modified: "2018-12-04"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2018 CCI 242"
+citation2: ""
+neutral_citation: "2018 CCI 242"
+decision_date: "2018-12-04"
+language: "fr"
+item_id: "351518"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4977
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T17:40:36.714000+00:00"
+cases_cited_count: 4
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "8961152a016fafc420460c443abf12d49137807b9bfeca6cfc712843a035644f"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Larson c. La Reine
+
+- Citation: 2018 CCI 242
+- Decision date: 2018-12-04
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4977, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Larson c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2018-12-04
+Référence neutre
+2018 CCI 242
+Numéro de dossier
+2014-3505(IT)APP
+Juges et Officiers taxateurs
+Johanne D’Auray
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2014-3505(IT)APP
+ENTRE :
+ESTHER M. LARSON,
+demanderesse,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Requête visant à faire annuler le jugement daté du 16 novembre 2017, décision rendue sans comparution de l’avocat, conformément à l’article 69 des Règles de la Cour canadienne de l'impôt (procédure générale).
+Devant : L’honorable juge Johanne D’Auray
+Avocat pour la demanderesse :
+La demanderesse elle-même
+Avocate pour l’intimée :
+Me Suranjana Bhattacharyya
+JUGEMENT
+Vu la requête présentée par la demanderesse visant à faire annuler le jugement de la Cour daté du 16 novembre 2017;
+Et après lecture du dossier de requête produit par la demanderesse;
+Et après lecture des observations écrites de l’intimée s’opposant à la requête de la demanderesse;
+La requête de la demanderesse est rejetée conformément aux motifs du jugement ci-joints.
+Signé à Ottawa (Canada), ce 4e jour de décembre 2018.
+« Johanne D’Auray »
+La juge D’Auray
+Référence : 2018 CCI 242
+Date : 20181204
+Dossier : 2014-3505(IT)APP
+ENTRE :
+ESTHER M. LARSON,
+Demanderesse,
+et
+SA MAJESTÉ LA REINE,
+Intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge D’Auray
+I. Aperçu
+[1] La demanderesse, Esther M. Larson, a déposé devant la Cour une requête visant à faire annuler le jugement du juge adjoint Masse daté du 16 novembre 2017, rejetant sa demande de prorogation du délai pour interjeter appel (la « requête ») à l’égard de son année d’imposition 2002. Mme Larson a demandé que cette motion soit réglée sur la base des documents écrits présentés par les parties. La Cour a offert à Mme Larson d’entendre sa requête en personne à Toronto, mais elle n’était pas disponible. Par conséquent, la requête a été réglée sur la base des documents écrits déposés par les deux parties.
+[2] Mme Larson demande que le jugement soit annulé pour les motifs suivants [1] :
+[traduction]
+1. Je ne savais pas qu’une instance devant la Cour de l’impôt devait avoir lieu le 14 novembre 2017 relativement à l’année d’imposition 2002.
+2. Je n’avais pas reçu d’avis indiquant que PAC Protection Corporation ou son représentant, Robert Mattacchione, comparaîtrait en mon nom.
+3. On ne m’a pas informé que la décision concernant ma demande de prorogation du délai avait été rejetée et qu’on ne m’avait donc pas donné l’occasion de déposer un avis d’appel concernant l’année d’imposition 2002.
+4. Je n’aurais pas demandé de prolongation, mais plutôt interjeté appel de la décision de l’ARC.
+5. Si j’avais été mis au courant de ces délibérations, j’aurais pu présenter d’autres renseignements.
+[3] L’intimée est d’avis que la requête de Mme Larson devrait être rejetée parce qu’elle n’a pas de fondement factuel ni juridique.
+II. Contexte entourant le programme de dons
+[4] Le 14 novembre 2016, treize demandes de prorogation de délai pour interjeter appel ont été appelées pour être entendues à Toronto (Ontario) devant la Cour. Le juge adjoint Masse siégeait pour entendre ces demandes.
+[5] M. Mattacchione a assisté à l’audience du 14 novembre 2016. Il a informé la Cour que tous les demandeurs seraient liés par le résultat. Il a affirmé ce qui suit : [traduction] : « J’ai le pouvoir de lier les [demandeurs] [2] ». Il a aussi déclaré qu’il avait ce pouvoir par écrit.
+[6] Sur les treize demandes, deux demandeurs ont assisté à l’audience, trois ont procédé par affidavit et huit demandeurs, dont Mme Larson, n’y ont pas assisté le 14 novembre 2016.
+[7] Comme c’était le cas pour Mme Larson, tous les demandeurs ont participé à un programme de dons et demandé le crédit d’impôt correspondant. Le programme de dons a été promu par Initiatives Canada Corporation (« ICC »). Toutes les demandes de prorogation de délai pour déposer un avis d’appel, y compris celui de Mme Larson, ont été déposées par M. Mattacchione.
+[8] M. Mattacchione était président-directeur général d’ICC. M. Mattacchione était également affilié à une autre société appelée PAC Protection Corporation (« PAC »). PAC était un programme de protection pour les participants au programme de dons. Les participants ont été informés que PAC serait responsable de déposer les avis d’appel des participants devant la Cour et qu’un avocat agirait au nom des participants.
+III. Faits relatifs à Mme Larson
+[9] Le 27 avril 2006, Mme Larson a fait l’objet d’une nouvelle cotisation pour son année d’imposition 2002 par le ministre du Revenu national (le « ministre »), qui a refusé sa demande de crédit d’impôt pour don.
+[10] Le 26 mai 2006, Mme Larson s’est opposée à la nouvelle cotisation en signifiant un avis d’opposition au ministre.
+[11] Le 10 juin 2014, le ministre a confirmé la nouvelle cotisation de Mme Larson pour son année d’imposition 2002 en lui envoyant un avis de confirmation. Mme Larson a reçu cet avis de confirmation le 16 juin 2014.
+[12] L’avis de confirmation indiquait qu’un contribuable a 90 jours pour interjeter appel devant la Cour canadienne de l’impôt en vertu de l’article 169 de la Loi de l’impôt sur le revenu (la « Loi »), c’est-à-dire 90 jours suivant la date de l’avis de confirmation. Par conséquent, Mme Larson avait jusqu’au 8 septembre 2014 pour déposer un avis d’appel devant la Cour. Aucun avis d’appel n’a été déposé par Mme Larson ou son représentant.
+[13] Le 1er octobre 2014, M. Mattacchione a déposé, au nom de Mme Larson, une demande de prorogation de délai pour déposer un avis d’appel.
+[14] Le 3 octobre 2017, le coordonnateur des audiences de la Cour a envoyé un avis d’audience au représentant de Mme Larson, M. Mattacchione. L’avis d’audience indiquait que l’audience relative à la demande de prolongation de délai présentée par Mme Larson pour interjeter appel devait avoir lieu le 14 novembre 2017 à 9 h 30, au 180, rue Queen, à Toronto.
+[15] À l’audience, M. Mattacchione a fait savoir qu’il était incapable de communiquer avec Mme Larson..
+[16] Il ressort de la transcription de l’audience relative à la demande de prorogation de délai que le juge adjoint Masse a demandé à M. Mattacchione s’il avait quelque chose à dire au sujet des demandeurs qui n’ont pas assisté à l’audience [3] :
+[traduction]
+M. MATTACCHIONE : Non, Votre Honneur, je connais votre avis sur l’assiduité. J’ai fait de mon mieux pour les faire venir.
+LE JUGE MASSE : Vous pouvez tenter de me convaincre du contraire. Je suis très flexible, vous savez.
+M. MATTACCHIONE : Ce qu’il faut réellement comprendre ici, c’est qu’il s’agissait d’un groupe et malheureusement il a été divisé en personnes ce qui, je crois comprendre, est la marche à suivre, mais le groupe a agi en tant que groupe. Je pense donc que les circonstances d’un demandeur sont très, très proches de celles de l’autre. Ainsi, l’argument de Tony D’Souza, par exemple, tiendrait probablement aussi la route pour l’autre (inaudible).
+[17] À la lumière des commentaires formulés par M. Mattacchione, le juge adjoint Masse a déclaré ce qui suit à l’égard des demandeurs qui ne se sont pas présentés à l’audience [4] .
+LE JUGE MASSE : En ce qui concerne M. Gineau Doiron, M. Keith B. Muncey, M. Harm Schaap, Mme Franceen Bulkis, M. Gajraj Bhagwandin, M. Hugues Leduc, Mme Esther Larsen et M. Jacques Bourque, comme ces personnes ne sont pas présentes, leurs demandes sont rejetées puisque je n’ai aucune indication quant à leur intention subjective d’interjeter appel au cours de la période de 90 jours, et que le document qui a été déposé par l’entremise de la témoin Donna DuSomme est inadéquat pour établir cette intention, au-delà de la prépondérance des probabilités.
+[18] Par conséquent, la demande de prolongation de délai présentée par Mme Larson pour déposer un avis d’appel a été rejetée. Le jugement de Mme Larson se lit ainsi :
+[traduction]
+JUGEMENT
+Après lecture de la demande d’ordonnance visant à prolonger le délai pour déposer un avis d’appel à l’égard de l’année d’imposition 2002 en vertu de la Loi de l’impôt sur le revenu;
+Et après lecture de l’affidavit de Michael Hwang et après avoir entendu les deux parties;
+Signé à Toronto (Ontario), ce 16e jour de novembre 2017.
+Le juge adjoint Masse
+[19] Le 3 janvier 2018, l’Agence du revenu du Canada (l’« ARC ») a envoyé un relevé de compte à Mme Larson, indiquant le montant total dû pour son année d’imposition 2002.
+[20] Le 22 janvier 2018, le juge adjoint Masse a rendu son jugement [5] à l’égard des demandeurs qui ont assisté à l’audience du 14 novembre 2017 à Toronto ou qui ont déposé un affidavit expliquant pourquoi leur demande de prorogation de délai devrait être accueillie. Leurs demandes de prorogation de délai ont été rejetées au motif que les demandeurs n’avaient pas fait preuve de diligence raisonnable pour s’assurer que leur représentant serait en mesure d’agir dans les délais prescrits. Le juge adjoint Masse a déclaré que les demandeurs doivent assumer la responsabilité de la négligence de PAC puisqu’il était de son devoir de veiller à ce que PAC agisse dans les délais prescrits. Aux paragraphes 38, 39 et 40 de sa décision, le juge suppléant Masse a déclaré ce qui suit :
+[38] Je partage l’avis du juge Visser et je parviens à la même conclusion compte tenu de la preuve que j’ai entendue. Dans les dossiers de l’espèce, je ne vois aucune indication voulant que M. DeBartolo eût été négligent; il ne faisait que maintenir sa position selon laquelle il n’allait pas entreprendre de nouveaux dossiers à défaut d’être payé, ce qui n’est pas déraisonnable. Or, même si on pouvait conclure que M. DeBartolo avait été négligent, je conclus qu’ICC, PAC et M. Mattacchione ont fait preuve d’une négligence importante en omettant de déposer les demandes de prorogation de délai. PAC a tergiversé et retardé le tout, n’envoyant aucuns fonds supplémentaires en avance à M. DeBartolo et n’a rien fait pour honorer les modalités de la convention de mandat, bien qu’elle sût qu’il était primordial de respecter les délais et que M. DeBartolo n’effectuerait aucun autre travail sans être payé. Aucun effort n’a été fait pour mandater un autre avocat ou représentant légal une fois l’écroulement de la relation avec M. DeBartolo, et ce, même si un autre avocat, comme Robert Kepes, était tout à fait disponible. Je partage l’avis du juge Visser dans Sapi voulant que les cinq demandeurs aient également omis de prendre les mesures nécessaires pour effectuer le suivi auprès de PAC et de s’assurer du respecter des délais pour déposer les avis d’appel. Toute négligence ou insouciance de la part d’ICC, de PAC ou de Mattacchione ou de tout avocat chargé de déposer les avis d’appel dont il est question ne constitue pas un motif juste et équitable justifiant l’octroi de la prorogation dans le cadre de ces demandes.
+[39] Le juge Visser dans Sapi a mentionné les suivantes au paragraphe 44 des motifs de son jugement :
+[44] Dans l’ensemble, je suis d’avis que chacun des requérants a fourni son avis de confirmation à PAC en temps opportun, puis s’est contenté de faire confiance à PAC pour s’occuper des appels sans effectuer de suivi adéquat auprès de PAC pour s’assurer que l’appel avait été déposé. Malheureusement, leur confiance à l’égard de PAC était injustifiée, car PAC n’a ni veillé à ce que leurs appels soient déposés en temps opportun, ni pris de mesures adéquates pour ce faire. Bien que PAC ait tenté d’imputer l’erreur à M. DeBartolo, qui n’a pas témoigné, je suis d’avis que la négligence ou l’insouciance de la part de PAC ou de tout avocat qu’elle a engagé pour déposer les appels en question ne constitue pas une raison juste et équitable pour accorder ces quatre demandes.
+[40] Je suis d’accord avec le juge Visser. Étant donné les circonstances des dossiers de l’espèce, la négligence ou l’insouciance des demandeurs, d’ICC, de PAC, de M. Mattacchione ou de M. DeBartolo dans le dépôt des appels en question, il ne serait ni juste ni équitable d’accueillir les demandes de prorogation du délai pour interjeter appel.
+[21] Le 4 mai 2018, l’ARC a envoyé une lettre de mise en garde juridique à Mme Larson pour l’informer qu’elle devait payer le montant d’impôt dû, faute de quoi des mesures de recouvrement seraient prises.
+[22] Le 7 juin 2018, Mme Larson a déposé devant la Cour une requête demandant que le jugement du juge suppléant Masse, daté du 16 novembre 2017, soit cassé. Mme Larson a également demandé que la requête soit réglée par écrit, sans comparution des parties.
+IV. Questio en litige
+[23] Le jugement rendu par le juge adjoint Masse, en date du 16 novembre 2017, rejetant la demande de prorogation de délai de Mme Larson pour interjeter appel devrait-il être annulé?
+V. Le droit
+[24] Le paragraphe 172(2) des Règles de la Cour canadienne de l’impôt (Procédure générale) (les « Règles ») prévoit les dispositions suivantes :
+Une partie peut demander, par voie de requête dans l’instance, selon le cas :
+a) l’annulation ou la modification d’un jugement en raison d’une fraude ou de faits survenus ou découverts après qu’il a été rendu;
+b) un sursis d’exécution d’un jugement;
+c) une mesure de redressement différente de celle qui a déjà été accordée.
+[25] En l’espèce, le fardeau incombe à Mme Larson. Elle doit établir que le jugement a été obtenu par fraude ou que de nouveaux faits ont été découverts après le jugement.
+[26] La position de Mme Larson n’est pas claire. Dans son avis de requête, elle affirme que si elle avait été mise au courant des délibérations, elle aurait présenté d’autres renseignements.
+[27] Toutefois, dans son affidavit à la requête, elle ne fournit aucun autre renseignement.
+[28] Elle déclare également dans son avis de requête et dans son affidavit que non seulement n’était-elle pas au courant de l’instance du 14 novembre 2017, mais [traduction] qu’« elle n’avait pas reçu d’avis indiquant que PAC Protection Corporation ou son représentant, Robert Mattacchione, comparaîtrait en son nom, et que si elle avait assisté à l’audience, elle aurait pu présenter d’autres renseignements ».
+[29] À la lumière des allégations dans sa requête et dans son affidavit, Mme soutient soit que M. Mattacchione n’a pas été autorisé par elle à agir à titre de représentant pendant l’audience du 14 novembre 2017, soit qu’elle a été mal servie par M. Mattacchione.
+[30] En vertu du plan de protection de PAC, il était entendu que les représentants seraient responsables de toutes les procédures devant cette Cour. Dans son affidavit, Mme Larson reconnaît que M. Mattacchione est un représentant du PAC. Il serait difficile pour Mme Larson de soutenir que M. Mattacchione n’agissait pas en son nom.
+[31] Cela dit, le plus grand obstacle auquel Mme Larson doit faire face, en soutenant que M. Mattacchione n’était pas son représentant, réside dans le fait qu’en vertu du paragraphe 167(5) de la Loi, une prorogation de délai ne peut être accordée par la Cour si elle n’a pas été demandée dans le délai d’un an et 90 jours suivant la date de l’avis de confirmation. Le paragraphe prévoit ce qui suit :
+167(5) Il n’est fait droit à la demande [de prorogation du délai d’appel] que si les conditions suivantes sont réunies :
+la demande a été présentée dans l’année suivant l’expiration du délai imparti en vertu de l’article 169 pour interjeter appel [c’est-à-dire 90 jours suivant la date de l’avis de confirmation];
+[32] L’avis de confirmation concernant l’année d’imposition 2002 de Mme Larson était daté du 10 juin 2014. Mme Larson avait donc jusqu’au 8 septembre 2015 pour déposer une demande de prorogation du délai pour interjeter appel. Après cette date, la Cour ne peut pas accorder de prolongation puisque la Cour n’a pas compétence. À l’exception de la demande déposée en son nom par M. Mattacchione le 1er octobre 2014, Mme Larson n’a pas établi qu’une autre demande de prorogation de délai a été déposée par elle ou en son nom au plus tard le 8 septembre 2015. Ainsi, si l’argument de Mme Larson est qu’elle n’a pas autorisé M. Mattacchione à agir en tant que son représentant, il n’y aurait alors aucune demande à présenter de nouveau.
+[33] Par conséquent, la requête ne peut être accueillie si l’argument de Mme Larson est qu’elle n’a pas autorisé M. Mattacchione à agir comme son représentant.
+[34] Si Mme Larson cherche à faire annuler le jugement du juge adjoint Masse parce qu’elle a été mal servie par M. Mattacchione, elle doit alors prouver que le jugement devrait être annulé puisqu’il a été rendu « en raison d’une fraude » conformément à l’alinéa 172(2)a) des Règles.
+[35] Il incombe à Mme Larson de prouver cette fraude. Dans la décision Nicholls v. The Queen [6] , la juge Woods a affirmé ce qui suit lorsqu’elle a dû décider si un jugement avait été rendu en raison d’une fraude :
+[traduction]
+[15] On ne m’a référé à aucune décision judiciaire de la Cour qui aurait statué sur une demande de ce genre. Toutefois, l’intimée m’a renvoyée à une récente décision concernant une règle similaire en Ontario : Robson (Trustee of) v Robson, 2010 ONSC 4391.
+[16] La décision Robson fournit un résumé des principes pertinents aux paragraphes 23 et 24, lesquels sont reproduits ci-dessous :
+[23] Les facteurs qui doivent être établis pour faire annuler un jugement en raison d’une fraude en vertu du paragraphe 59.06(2) des Règles de procédure civile ont été énoncés par le juge Osborne (tel était alors son titre) dans la décision International Corona Resources Ltd. v. LAC Minerals Ltd. (1988), 66 O.R. (2d) 610 (H.C.). Ces facteurs sont les suivants :
+1. la fraude alléguée doit être prouvée raisonnablement selon la prépondérance des probabilités;
+2. la fraude doit être importante, c’est-à-dire qu’elle doit toucher au fondement de la cause;
+3. la preuve de la fraude n’était pas connue au moment du procès par la partie requérante;
+4. la partie requérante doit avoir fait preuve d’une diligence raisonnable au procès;
+5. si la fraude alléguée est celle d’un tiers, la détermination de la fraude est assujettie à un examen plus minutieux;
+6. le test de la diligence raisonnable est subjectif;
+7. le retard entraînera le rejet de la requête fondée sur l’article 59.06 des Règles;
+8. le redressement en vertu de l’article 59.06 des Règles est discrétionnaire et la conduite de la partie requérante est pertinente;
+9. en fin de compte, la partie requérante doit démontrer qu’un jugement a été obtenu par la fraude, qu’un nouvel élément important a été découvert, c’est-à-dire que des faits nouveaux ont été découverts qui, à eux seuls ou conjugués aux faits déjà connus, fourniraient une raison de faire annuler le jugement.
+[24] La fraude dans le contexte de l’article 59.06 des Règles est une fraude auprès de la cour. Les décisions qui ont examiné l’article 59.06 des Règles ont adopté la définition de « fraude » énoncée par la Chambre des lords dans la décision Derry v. Peek (1889), 14 App. Case. 337 (H.L.) : « la fraude est établie par la preuve qu’une allégation mensongère a été faite 1) sciemment; ou 2) sans croire à la véracité de ce qui est allégué; ou 3) sans se soucier que ce qui est allégué est vrai ou faux », voir : Vale v. Sunlife Assurance of Canada Ltd. (1998), 39 O.R. (3d) 444 (Gen. Div.); Gregory v. Jolley, [2001] O.J. No. 2313 (C.A.); Calabrese v. Weeks, [2003] O.J. No. 4176 (S.C.J.); Granitile Inc. v. Canada, [2008] O.J. No. 4934 (S.C.J.).
+[36] Mme Larson n’a établi aucun des facteurs mentionnés précédemment. Aucun fait n’appuie une conclusion de fraude dans son affidavit.
+[37] D’après ce que je comprends et d’après les motifs du jugement du juge adjoint Masse, PAC a demandé aux participants au programme de dons de lui envoyer leurs avis de confirmation. PAC déposerait ensuite les avis d’appel en leur nom. Au cours de l’audience du 14 novembre 2016, M. Mattacchione a mentionné qu’il croyait que les avis d’appel des participants avaient été déposés auprès de la Cour. Il a par la suite appris que les avis d’appel n’avaient pas été déposés. C’est pourquoi des demandes de prolongation de délai étaient requises.
+[38] Dans ces circonstances, Mme Larson devait envoyer à PAC son avis de confirmation pour que le CAP puisse déposer son avis d’appel. C’est ce qui explique pourquoi sa demande de prorogation de délai pour interjeter appel a été déposée par M. Mattacchione de PAC.
+[39] À mon avis, le défaut de M. Mattacchione de l’informer de la date de l’audience ne constitue pas une fraude. Il est entendu que les clients ont autorisé leurs représentants à agir en leur nom et qu’ils sont liés par leurs actions devant les tribunaux [7] . Il ne revient pas non plus à la Cour de se demander si une cause aurait pu être plaidée différemment ou si les concessions étaient stratégiquement non recommandables [8] .
+[40] Comme il a été dit dans la décision Nicholls, précitée, le retard constitue un facteur pour statuer sur une requête où il est allégué qu’un jugement a été obtenu par la fraude. Mme Larson a présenté la requête visant à faire annuler le jugement le 7 juin 2018, alors que le jugement du juge suppléant Masse a été rendu le 16 novembre 2017. Elle a reçu son premier relevé de compte de l’ARC l’obligeant à payer ses impôts le 3 janvier 2018. Même si elle ne savait pas qu’un jugement avait été rendu, elle savait qu’elle devait beaucoup d’argent à l’ARC. La requête de Mme Larson visant à faire annuler le jugement a été déposée cinq mois après que l’ARC l’eut informée qu’elle était redevable d’un montant d’impôt important. Encore une fois, l’affidavit de Mme Larson ne contient aucune preuve concernant les mesures qu’elle aurait prises, le cas échéant. Par conséquent, il est impossible d’affirmer que sa requête a été présentée dès que les circonstances lui ont permis de le faire.
+VI. Dispositif
+[41] La requête visant à faire annuler le jugement du juge suppléant Masse datée du 16 novembre 2017 est rejetée sans dépens.
+Signé à Ottawa (Canada), ce 4e jour de décembre 2018.
+« Johanne D’Auray »
+La juge D’Auray
+RÉFÉRENCE :
+2018 CCI 242
+No DU DOSSIER DE LA COUR :
+2014-3505(IT)APP
+INTITULÉ :
+ESTHER M. LARSON ET SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+[EN BLANC]
+DATE DE L’AUDIENCE :
+[EN BLANC]
+MOTIFS DU JUGEMENT :
+L’honorable juge Johanne D’Auray
+DATE DU JUGEMENT :
+Le 4 décembre 2018
+COMPARUTIONS :
+Avocat pour la demanderesse :
+La demanderesse elle-même
+Avocate pour l’intimée :
+Me Suranjana Bhattacharyya
+AVOCATS INSCRITS AU DOSSIER :
+Pour la demanderesse :
+Nom :
+[EN BLANC]
+Cabinet :
+[EN BLANC]
+Pour l’intimée :
+Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa, Canada
+[1] Avis de motion de la demanderesse daté du 7 juin 2018 (« Avis de motion »), à la page 1.
+[2] Transcription des délibérations entendues par le juge adjoint Masse le 14 novembre 2017, à la ligne 9, à la page 10.
+[3] Transcription des délibérations entendues par le juge adjoint Masse le 14 novembre 2017, aux lignes 1 à 13, à la page 112.
+[4] Ibid, aux lignes 14 à 23, à la page 112..
+[5] Amrite et al v HMQ, 2018 TCC 11.
+[6] 2011 TCC 279, aux paragraphes 16 à 26.
+[7] Li c. Canada (Citoyenneté et Immigration), 2011 CF 196, au paragraphe 15.
+[8] Ibid.

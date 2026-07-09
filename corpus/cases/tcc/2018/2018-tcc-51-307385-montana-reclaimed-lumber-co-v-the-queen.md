@@ -1,0 +1,290 @@
+---
+title: "Montana Reclaimed Lumber Co. v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/307385/index.do"
+last_modified: "2018-03-12"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2018 TCC 51"
+citation2: ""
+neutral_citation: "2018 TCC 51"
+decision_date: "2018-03-12"
+language: "en"
+item_id: "307385"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7503
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T11:52:32.768000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "3b3de33d6c8d587dbc68a1cc515fcb3017ec4386e860309fa413c1a2e2dc9afb"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Montana Reclaimed Lumber Co. v. The Queen
+
+- Citation: 2018 TCC 51
+- Decision date: 2018-03-12
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7503, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Montana Reclaimed Lumber Co. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2018-03-12
+Neutral citation
+2018 TCC 51
+File numbers
+2014-3418(SLP)G
+Judges and Taxing Officers
+John R. Owen
+Subjects
+Softwood Lumber Products Export Charge Act, 2006
+Decision Content
+Docket: 2014-3418(SLP)G
+BETWEEN:
+MONTANA RECLAIMED LUMBER CO.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on September 29, 2017, at Vancouver, British Columbia
+Before: The Honourable Justice John R. Owen
+Appearances:
+Counsel for the Appellant:
+Terry Gill
+Counsel for the Respondent:
+Zachary Froese and Michael Taylor
+JUDGMENT
+In accordance with the attached Reasons for Judgment, the appeal from the reassessment under the Softwood Lumber Products Export Charge Act, 2006 for the period from April 1, 2009 to March 31, 2011 is dismissed with costs to the Respondent in accordance with the Tariff.
+Signed at Ottawa, Canada, this 12th day of March 2018.
+“J.R. Owen”
+Owen J.
+Citation: 2018 TCC 51
+Date: 20180312
+Docket: 2014-3418(SLP)G
+BETWEEN:
+MONTANA RECLAIMED LUMBER CO.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Owen J.
+I. Introduction
+[1] This is an appeal by Montana Reclaimed Lumber Co. (the “Appellant”) of a reassessment (the “Reassessment”) under the Softwood Lumber Products Export Charge Act, 2006 (the “SLPECA”) for the period from April 1, 2009 to March 31, 2011 (the “Period”). By the Reassessment, the Minister of National Revenue (the “Minister”) assessed the Appellant export charges of $32,582.08 under section 10 of the SLPECA on the grounds that softwood lumber products exported by the Appellant from British Columbia to the United States during the Period are described in that section and are not exempt from the charge under paragraph 11(1)(b) of the SLPECA as claimed by the Appellant in its Softwood Lumber Products Export Charge Returns for the Period.
+II. Facts
+[2] At the commencement of the hearing, the parties filed a Statement of Agreed Facts (the “SAF”) and a Joint Book of Documents (“JBD”). The SAF states:
+The Appellant is a corporation that is resident in the United States of America and was founded in 2003.
+The Appellant is a manufacturer of reclaimed softwood lumber products and is in the business of buying, reprocessing and selling salvaged softwood lumber products.
+The Appellant operates a lumber processing facility located in Gallatin Gateway, Montana, from which it carries out its business.
+The Appellant is registered under section 23 of the [SLPECA].
+During the [Period] the Appellant purchased salvaged wood products in Canada and exported those products to the USA for processing at its facility.
+All of the products (the “Products”) that the Appellant exported from Canada during the Period were comprised of building materials made of softwood lumber that had been reclaimed during the demolition of buildings and structures located in Canada.
+All of the Products were purchased from five vendors. Copies of invoices from each vendor from which the Appellant purchased the Products are found in the bundles of documents for each month during the Period behind Tabs 9 through 23 of the Joint Book of Documents (the “Document Book”). In particular, those vendors were:
+Vancouver Timber Services Limited, located in West Vancouver, B.C.;
+Demxx Deconstruction Inc., located in Coombs, B.C. (a town on Vancouver Island);
+3R Demolition Corp., located in Burnaby, B.C.;
+Forward Timber Salvage, located in Saanichton, B.C. (a town on Vancouver Island); and
+Ecobois, located in Quebec.
+The Appellant’s export of Products purchased from Ecobois is not at issue in this appeal.
+For each export of the Products from Canada to the USA during the Period, the Appellant’s customs broker, Norman G. Jensen Inc., applied for and obtained an export permit pursuant to the Export and Import Permits Act, R.S.C. 1985, c. E-19, as amended (the “EIPA”). In 24 of those export permit applications, the customs broker reported that the region of origin of the Products was the B.C. Coast region. In the 25th application, the customs broker reported that the region of origin of the Products was Quebec. Copies of the Appellant’s applications for export permits are behind Tab 24 of the Document Book.
+In each export permit application, the Appellant’s customs broker described the lumber to be exported as falling within the Canadian Customs Tariff classification headings 4407.10.00.82 and 4407.10.00.83, which are described as follows:
+4407.10.00.82 - Douglas fir, Rough, having a dimension of 5.1 cm or more but less than 12.7 cm
+4407.10.00.83 - Douglas fir, Rough, having a minimum dimension of 12.7 cm or more
+The Minister of Foreign Affairs issued export permits in accordance with all 25 applications filed by the Appellant’s customs broker during the Period. Copies of printouts replicating the export permits are behind Tab 25 of the Document Book.
+Most of the Products that the Appellant exported from Canada during the Period were purchased at a cost in excess of US $500/MBF.
+During the Period, the total value of the Products exported by the Appellant was $364,362.52.
+In its Softwood Lumber Products Export Charge Returns (the “Returns”) for the Period, the Appellant reported no export charges payable to Canada on the Products that it exported during the Period. In every return except the return for June 2010, the Appellant reported that the region of origin for the Products was the Yukon, and reported that no export charges were payable. For June 2010, the Appellant reported that the region or [sic] origin for the Products was Quebec, and again reported that no export charges were payable. Partial copies of the Appellant’s Returns, related invoices and currency conversion information for the Period are behind Tabs 9 through 23 of the Document Book. Copies of printouts of the Appellant’s Returns are behind Tab 26 of the Document Book.
+The Minister initially assessed the Appellant’s Returns for the Period as filed.
+On February 7, 2012 the Minister reassessed the Appellant in respect of the Period, and according [sic] issued a notice on that date, so as to assess export charges of $32,582.08 for the Period. A reproduction of the notice of reassessment (the “Reassessment”) is behind Tab 5 of the Document Book.
+The Minister computed the charges assessed as detailed in the auditor’s working papers, copies of which are behind Tabs 1, 2 and 3 of the Document Book.
+In particular, the Minister reassessed the Appellant for under-reported softwood lumber export charges on the basis that the Products in the 24 exports that the Appellant reported as originating in the Yukon during the Period (the “Disputed Exports”) did not originate in the Yukon but instead originated in B.C. and were subject to export charges under section 10 of the SLPECA. The Minister did not include export charges in relation to the Products exported from Quebec in June 2010 in the assessment.
+The Minister computed export charges for each of the Disputed Exports during the Period using the export charge rate applicable to the B.C. Coast region for each month during the Period, as well as the price paid by the Appellant to purchase each shipment of the Products as the export price. Where the Appellant paid more than US $500 per MBF to purchase the Products, the Minister applied the US $500 per MBF price cap to the export price component of the export charge calculation as per paragraph 13(2)(d)[sic] of the SLPECA.
+The Minister determined that export charges were due for each of the Disputed Exports in July 2009, August 2009, October 2009, November 2009, January 2010, February 2010, March 2010, April 2010, July 2010, August 2010, September 2010, December 2010, January 2011, February 2011, and March 2011.
+On February 28, 2012 the Appellant served on the Minister a notice of objection to the Reassessment.
+On March 13, 2014 the Minister confirmed the Reassessment and issued a notification on that date, a copy of which is behind Tab 6 of the Document Book.
+In reassessing and confirming the Reassessment, the Minister followed the Canada Revenue Agency’s position as described in the Softwood Lumber Operational Directive, a copy of which is behind Tab 7 of the Document Book.
+[3] In addition to filing the SAF, the Appellant called Mr. Anthony C. Pecora as a witness and the Respondent called Mr. Kevin J. Craig as a witness.
+[4] Mr. Pecora is the chief financial officer of the Appellant. Mr. Pecora started with the Appellant in 2005 and is the brother-in-law of the founder of the Appellant.
+[5] Mr. Craig is an excise duty officer with the Canada Revenue Agency (the “CRA”) and has held that position since 2007. Mr. Craig performed the audit of the Appellant that resulted in the Reassessment.
+[6] Mr. Pecora testified that the Appellant acquires Douglas fir that is reclaimed from old buildings as part of the demolition process (the “wood”). After the building is demolished and the large wood components such as trusses are disassembled, the wood is shipped by truck to the Appellant’s facility in Montana where the Appellant removes any metal from the wood, and pressure washes and mills the wood. The Appellant recycles the metal and sells the wood as flooring and siding, and for use in the construction of decorative non-load-bearing trusses.
+[7] All but one of the export permit applications filed by the Appellant for the Period identify the province of origin of the wood acquired by the Appellant as “BC Coastal” (Tab 24 of the JBD) – the final permit identifies Quebec. Mr. Pecora explained why this is the case:
+Well, you go into the export permit application online, on the Norman Jensen website, and you have to select the manufacturer, and the Department of Foreign Affairs, I believe, told them [the export broker] “Just use this manufacturing number for Montana Reclaimed Lumber,” and then we were not allowed to select any other region, I believe, under that, besides B.C. Coastal.
+[8] Mr. Pecora did not explain how the Appellant was able to complete one export permit application that identified Quebec as the place of origin.
+[9] Mr. Pecora testified that it is impossible to determine where the wood was grown or originally processed because the wood is all pre-1970 vintage and is not stamped with any identifying information. In cross-examination, Mr. Pecora agreed that the Appellant’s Notice of Appeal stated that it might be possible with enough time and effort to determine the origin of the wood, but he emphasized that, notwithstanding this statement, lumber experts have said it is impossible.
+[10] According to Mr. Pecora, the Appellant identified the Yukon as the place of processing on its SLPECA returns because it was not possible to use Montana or “unknown”, because it was not possible to know where the wood was originally processed before it was used in the building from which it was reclaimed, and because, in the Appellant’s view, based on rulings under the North American Free Trade Agreement (“NAFTA”), the Softwood Lumber Agreement Between the Government of Canada and the Government of the United States of America entered into in 2006 (the “SLA”) and the SLPECA were not intended to apply to reclaimed or recycled wood, so a region with a zero rate was an appropriate choice.
+[11] Mr. Pecora testified that, during a visit to the Appellant’s place of business in March 2007, Mr. Craig had agreed with the Appellant’s decision to identify the origin of the wood acquired by the Appellant as the Yukon. In cross-examination, Mr. Pecora clarified that Mr. Craig had commented only on a sample export permit application and not on a sample SLPECA return and that, ultimately, for the purposes of the SLPECA, the CRA was unable to provide clarification as to how to identify the origin of the wood in the Appellant’s circumstances.
+[12] Mr. Craig testified that, the vendors of the wood being located in British Columbia, as determined from the invoices (Tabs 9 to 23 of the JBD), and the province of origin shown on the export permits being “BC Coastal” (Tab 25 of the JBD), he assumed the wood was reclaimed in British Columbia and therefore assumed British Columbia was the place of origin of the wood. This assumption of fact is stated in paragraph 15(i) of the Respondent’s Reply as follows:
+all of the wood products that the Appellant exported from Canada during the Period originated in British Columbia and were purchased from British Columbia-based wholesalers specializing in reclaimed lumber;
+[13] Mr. Craig testified that his approach to the origin of the wood was consistent with the approach identified in a CRA document titled “Softwood Lumber Operational Directive” dated September 2010, which provides an example of how to treat wood recovered from a barn located in Saskatchewan (Tab 7 of the JBD).
+[14] Mr. Craig based his calculation of the export charge payable under the SLPECA on the invoices issued to the Appellant by the vendors of the wood, which he cross-checked against the Appellant’s general ledger. For all but one of the purchases, the cost of the wood exceeded the cap of US$500 per 1,000 board feet, so the charge imposed by the SLPECA was based on the board feet times the cap converted to Canadian dollars (Tab 1 of the JBD). As wood from BC attracts the highest rate of export charge under the SLPECA (15%), where the US$500 cap applies the Appellant is liable for the maximum export charge payable under the SLPECA.
+[15] Mr. Craig testified that he recalled reviewing, during his visit to the Appellant in 2007, one document that clearly showed that the demolished building was in the Yukon. On that basis, he advised the Appellant that the load was not subject to the export charge. He stated that he did not advise the Appellant to report the origin of the wood as being the Yukon regardless of where in Canada it was acquired.
+III. The Positions of the Parties
+A. The Position of the Appellant
+[16] The Appellant submits that the charge under the SLPECA is premised on one’s being able to determine the origin of the softwood lumber. Since it is not possible to determine the origin of the wood since and no rule in the SLPECA addresses this issue, the SLPECA does not impose a charge on the wood.
+[17] The purpose of the SLPECA is to protect Canadian forest product exporters by settling an ongoing dispute with the United States, which claims that softwood lumber is unfairly subsidized by Canada. This purpose mandates that in the absence of explicit provisions in the SLPECA addressing the wood, and in light of the difficulty associated with determining the place of primary processing of the wood, the scope of the SLPECA should not be expanded so as to apply to the wood. This result is consistent with decisions under the NAFTA which held that U.S. tariffs on Canadian softwood lumber did not apply to reclaimed softwood lumber.
+[18] In the alternative, if the scope of the SLPECA is broad enough to capture the wood then the onus to establish the place of primary processing should be placed on the Minister or, at the very least, the Minster should not be able to rely on an assumption regarding this fact.
+B. The Position of the Respondent
+[19] The Respondent submits that the issue is one of statutory interpretation. The SLPECA must be interpreted in accordance with the textual, contextual and purposive approach adopted by the Supreme Court of Canada. Under that approach, clear language cannot be overridden by an unexpressed exception drawn from a judicial interpretation of the object and purpose of the legislation. The Appellant’s interpretation of the SLPECA frustrates the SLPECA and places Canada in a position of non-compliance with its commitments under the SLA.
+IV. Analysis
+[20] On October 12, 2006, Canada and the United States entered into the SLA. The scope of the SLA is described in Article I of the SLA, which states in part:
+1. This Agreement (“SLA 2006”) applies to trade in Softwood Lumber Products. Softwood Lumber Products are those products listed in Annex 1A. For domestic implementation and administration purposes only, Canada shall rely on the Canadian Table of Concordance in Annex 1B.
+2. No products shall be added to, or removed from, the scope of the SLA 2006 after April 27, 2006 without the agreement of the Parties, regardless of a decision, ruling, determination, or re-determination by a Party, the effect of which would be to:
+a) classify or reclassify a product within or outside a tariff item in Annex 1A; or
+b) determine or rule that a product is within or outside a product description in Annex 1A.
+3. If there is a dispute as to whether a product is a Softwood Lumber Product, a Party shall refer the matter to a Technical Working Group established under Article XIII(C), by providing written notice of the referral to the other Party.
+[21] Articles III, IV and V of the SLA state that the United States shall cease to impose countervailing duties and antidumping duties on “Softwood Lumber Products” imported from Canada, shall refund deposits against such duties collected since 2002, and shall not initiate new antidumping or countervailing duty measures.
+[22] Article VI of the SLA states that Canada shall apply the “Export Measures”, which are defined in Article XXI of the SLA to mean the measures in Articles VII through IX, Article X(2), Article XII(2)(b)(i) and Article XVII(5)(a) of the SLA.
+[23] Under Article VII of the SLA, each Region shall elect to have Canada apply the measures in either Option A or Option B. Region is defined in Article XXI to mean “one of the following: Alberta, the B.C. Interior, the B.C. Coast, Manitoba, Ontario, Saskatchewan, or Quebec”.
+[24] Option A is an export charge and Option B is an export charge and a volume restraint. “Export Charge” is defined in Article XXI to mean “the charge levied by Canada on the Export Price of Softwood Lumber Products exported to the United States at the rates specified in Articles VII through IX”.
+[25] The imposition of the export measures (which include the export charge) is subject to the exclusions described in Article X of the SLA. Paragraph 1 of Article X states:
+1. The Export Measures shall not apply to the following products:
+(a) Softwood Lumber Products first produced in the Maritimes from logs originating in the Maritimes or Maine, that are:
+(i) exported directly to the United States from a Maritime province, or
+(ii) shipped to a province that is not a Maritime province, and reloaded or further processed and subsequently exported to the United States,
+provided that the products are accompanied by an original Certificate of Origin issued by the Maritime Lumber Bureau. An original Certificate of Origin issued by the Maritime Lumber Bureau shall be a required entry summary document by USCBP. The Certificate must specifically state that the corresponding customs entries are for Softwood Lumber Products first produced in the Maritimes from logs originating in the Maritimes or Maine;
+(b) Softwood Lumber Products first produced in the Yukon, Northwest Territories or Nunavut from logs originating in the Yukon, Northwest Territories or Nunavut; and
+(c) Softwood Lumber Products produced by the companies listed in Annex 10.
+[26] The SLPECA was enacted on December 14, 2006 to satisfy Canada’s obligation under the SLA to impose the export charge. The full name of the SLPECA is as follows:
+An Act to impose a charge on the export of certain softwood lumber products to the United States and a charge on refunds of certain duty deposits paid to the United States, to authorize certain payments, to amend the Export and Import Permits Act and to amend other Acts as a consequence
+[27] Subsection 10(1) of the SLPECA states:
+Subject to the exclusions provided for in subsection 11(1), every person who exports a softwood lumber product to the United States after October 11, 2006, shall pay to Her Majesty in right of Canada a charge as determined under this Act in respect of the export.
+[28] Subsection 10(1) applies a charge determined under the SLPECA if a person exports a softwood lumber product from Canada to the United States. The amount of the charge is determined under sections 12 through 15 of the SLPECA. The Appellant did not dispute the calculation of the charge imposed by the Minister. Rather, the Appellant says the charge does not apply to the wood.
+[29] The term “softwood lumber product” is defined in section 2 of the SLPECA as follows:
+softwood lumber product means, other than in section 18, a product referred to in section 8.4 of the Export and Import Permits Act.
+[30] Section 8.4 of the Export and Import Permits Act in turn refers to the Export Control List, which, in the version in effect during the Period, states in section 5104 (schedule, Group 5):
+(1) Softwood lumber products set out in Annex 1A to the softwood lumber agreement, excluding item 5(e). (United States)
+(2) The references to the Harmonized Tariff Schedule of the United States (HTSUS) tariff classifications in Annex 1A to the softwood lumber agreement are to be read as references to the corresponding tariff classifications according to the Canadian Table of Concordance in Annex 1B to that agreement.
+(3) The references to “imported” and “importation” in Annex 1A to the softwood lumber agreement are to be read as “exported” and “exportation”, respectively, and the reference to “importés” in Annex 1B to the French version of that agreement is to be read as “exportés”.
+[31] Annex 1A to the SLA is reproduced at Appendix A to these reasons. Section 1 of Annex 1A describes what softwood lumber products are covered by the SLA, and sections 3 to 5 of Annex 1A describe what softwood lumber products are excluded from the scope of the SLA. Section 2 of Annex 1A provides a rule of interpretation.
+[32] While the language of subsection 5104(1) of the schedule to the Export Control List in force during the Period could be clearer, I take that provision to mean that, for the purposes of the SLPECA, the term “softwood lumber products” means those products described in section 1 of Annex 1A but excludes those products described in sections 3 to 5 of Annex 1A (ignoring paragraph 5(e), which imposes documentation requirements for the products described in section 5). A subsequent version of subsection 5104(1) of the Export Control List, effective October 13, 2015, states this explicitly.
+[33] Section 1 of Annex 1A to the SLA states:
+1. The products covered by the SLA 2006 are softwood lumber, flooring and siding (“Softwood Lumber Products”). Softwood Lumber Products include all products classified under subheadings 4407.1000, 4409.1010, 4409.1020, and 4409.1090, respectively, of the HTSUS, and any softwood lumber, flooring, and siding described below. These Softwood Lumber Products include:
+(a) coniferous wood, sawn or chipped lengthwise, sliced or peeled, whether or not planed, sanded or finger-jointed, of a thickness exceeding 6 millimeters;
+(b) coniferous wood siding (including strips and friezes for parquet flooring, not assembled) continuously shaped (tongued, grooved, rabbeted, chamfered, v-jointed, beaded, molded, rounded, or the like) along any of its edges or faces, whether or not planed, sanded, or finger-jointed;
+(c) other coniferous wood (including strips and friezes for parquet flooring, not assembled) continuously shaped (tongued, grooved, rabbeted, chamfered, v-jointed, beaded, molded, rounded, or the like) along any of its edges or faces (other than wood moldings and wood dowel rods) whether or not planed, sanded, or finger-jointed;
+(d) coniferous wood flooring (including strips and friezes for parquet flooring, not assembled) continuously shaped (tongued, grooved, rabbeted, chamfered, v-jointed, beaded, molded, rounded, or the like) along any of its edges or faces, whether or not planed, sanded, or finger-jointed; and
+(e) coniferous drilled and notched lumber and angle cut lumber.
+Other merchandise that shall be included in the definition of Softwood Lumber Products are [sic]:
+(f) any product entering under HTSUS 4409.10.05 which is continually shaped along its end and/or side edges which otherwise conforms to the written definition of the scope; and
+(g) lumber products that USCBP may classify as stringers, radius cut box-spring-frame components, and fence pickets, not conforming to the criteria listed in paragraph 4 below, as well as truss components, pallet components, and door and window frame parts, which may be classified under HTSUS subheadings 4418.90.45.90, 4421.90.70.40, and 4421.90.97.40.
+[34] Section 1 starts with the words “. . . softwood lumber, flooring and siding . . .” and then expands the ordinary meaning of these words to include all products classified under the listed subheadings of the Harmonized Tariff Schedule of the United States (2006) (the “HTSUS”). The relevant excerpts from the HTSUS and the Canadian tariff equivalent are reproduced in Annex 1B to the SLA, a copy of which is attached as Appendix B to these reasons.
+[35] According to the Oxford English Dictionary (Second Edition), “soft wood” refers to “[w]ood which is relatively soft or easily cut; esp. coniferous trees or their timber” and the word “lumber” is a North American term that refers to “[t]imber sawn into rough planks or otherwise roughly prepared for the market”. Webster’s Third New International Dictionary defines “lumber” as “timber or logs esp. after being prepared for the market”. Accordingly, the words “softwood lumber, flooring and siding” are broad in scope.
+[36] A summary description of the items described in the HTSUS is set out in paragraphs 1(a) through (e) of Annex 1A. For example, the description introducing subheading 4407.10.00 of the HTSUS (in Annex 1B) corresponds to paragraph 1(a) of Annex 1A. Subheading 4407.10.00 includes a long list of further subcategories including 4407.10.00.81 to 4407.10.00.83 and 4407.10.00.89, which describe various forms of Douglas fir, including the basket description “Other (Douglas-fir)”. Mr. Pecora testified that all the wood is Douglas fir.
+[37] Following the broad inclusionary language of section 1, Annex 1A sets out a list of specifically worded exclusions in sections 3, 4 and 5. These sections describe specific items made from softwood that would otherwise be softwood lumber products, including softwood lumber products used in a single-family home package or kit if certain conditions are met, softwood lumber of U.S. origin shipped to Canada for minor processing and softwood lumber products made from softwood lumber first produced in the U.S. For the latter two exclusions to apply, the importer must satisfy U.S. Customs as to the origin of the lumber.
+[38] The SAF states that the Appellant’s customs broker classified the wood as either 4407.10.00.82 - Douglas fir, rough, having a dimension of 5.1 cm or more but less than 12.7 cm, or 4407.10.00.83 - Douglas fir, rough, having a minimum dimension of 12.7 cm or more. Each of these classifications is explicitly included in section 1 of Annex 1A. I heard no evidence to suggest that the customs broker’s classification of the wood was not accurate. Nor did I hear any evidence that would support the conclusion that the wood is described in any of sections 3 through 5 of Annex 1A. Accordingly, I conclude that the wood is clearly caught by the definition of softwood lumber product in the SLPECA.
+[39] The Appellant submits (i) that the parties to the SLA did not intend that reclaimed softwood lumber be captured within the scope of the SLA, as evidenced by previous NAFTA rulings that excluded such lumber from U.S. tariffs, (ii) that the purpose of the SLPECA is to protect exporters of Canadian forest products and not to raise revenue and therefore the SLPECA should be strictly construed so as not to impose more domestic costs than necessary, and (iii) that the failure to address how to deal with reclaimed softwood lumber in terms of its origin and place of first processing should be interpreted as an indication that the SLPECA does not apply to reclaimed softwood lumber.
+[40] The SLPECA was enacted by Parliament to implement Canada’s obligation under Article VII of the SLA to impose the export charge on exports of softwood lumber products to the United States. The only exclusions from the imposition of the export charge are found in sections 3 through 5 of Annex 1A and in Article X of the SLA. The former exclusions are adopted in the SLPECA through the definition of softwood lumber product, and the latter exclusions are adopted in section 11 of the SLPECA. Accordingly, the first place to look to determine purpose and intent is the SLA.
+[41] In Crown Forest Industries Ltd. v. Canada, [1995] 2 S.C.R. 802, the Supreme Court of Canada held that the paramount goal in interpreting international agreements such as the SLA is:
+. . . to find the meaning of the words in question. This process involves looking to the language used and the intentions of the parties. . . .
+[42] The language used in the SLA is clear and unambiguous. There is nothing in the text of the SLA read in context to suggest that Canada and the United States intended to exclude reclaimed softwood lumber from the scope of the SLA. If that had been the intention of the parties to the SLA, it would have been a simple matter to provide an explicit exclusion for such products in Annex 1A. Since the SLPECA simply adopts the meaning of softwood lumber products in the SLA, there is no basis on which to conclude that Parliament intended a narrower meaning for the purposes of the SLPECA.
+[43] Annex 1A of the SLA captures within the scope of the export charge under the SLA a wide range of products made from softwood, subject only to the exclusion of a list of explicitly described products. The very particular approach taken by Canada and the United States to describing softwood lumber products in Annex 1A belies the notion that either party intended Annex 1A to have a meaning beyond that expressed by the clear text of Annex 1A read in context. On the contrary, the parties’ desire for certainty is highlighted by paragraphs 2 and 3 of Article I of the SLA, of which the former precludes the reclassification, addition or removal, after April 27, 2006, of products described in Annex 1A, and the latter requires that any dispute over whether a product is a softwood lumber product be submitted to a technical working group established under Article XIII(C) of the SLA.
+[44] The Appellant submits that even if the wood is a softwood lumber product under Annex 1A and therefore is a softwood lumber product for the purposes of the charge in subsection 10(1) of the SLPECA, it is impossible to know the wood’s place of origin or where it was first processed. As a result, it is not possible to apply the deeming rule in subsection 12(2) of the SLPECA, which is required in order to determine the amount of the charge under subsection 10(1).
+[45] The Appellant did not argue that the exclusions in section 11 of the SLPECA applied to the wood and there is no evidence to support the application of those exclusions to the wood.
+[46] Subsections 12(1) and (2) of the SLPECA state:
+12(1) If a softwood lumber product is exported from a region in a particular month, the amount of the charge in respect of that export is the amount calculated by applying the rate applicable for the month under this Act to the export price of the product as determined in accordance with section 13.
+(2) An exported softwood lumber product is deemed to be exported from the region where the product underwent its first primary processing. If, however, the exported product underwent its first primary processing in Nova Scotia, New Brunswick, Prince Edward Island, Newfoundland and Labrador, Yukon, the Northwest Territories or Nunavut from softwood sawlogs originating in a particular region, it is deemed to be exported from that region.
+[47] Subsection 12(1) simply states that if the wood is exported from a region (in Canada) in a particular month, the amount of the charge is determined as described in that subsection. The amount of the charge is calculated only if the wood is first caught by subsection 10(1) and is not excluded by subsection 11(1).
+[48] The first sentence of subsection 12(2) provides a default deeming rule that fixes the place of export of a softwood lumber product as the region where the product underwent its first primary processing. The second sentence provides an alternative deeming rule where the first primary processing takes place in Nova Scotia, New Brunswick, Prince Edward Island, Newfoundland and Labrador, Yukon, the Northwest Territories or Nunavut (individually, an “exempt region”). The alternative rule deems the place of export to be the place from which the softwood sawlogs being processed originated.
+[49] Without the default deeming rule in subsection 12(2), an exporter might consider transporting softwood lumber products originating from or first processed in a non-exempt region to an exempt region before exporting the products to the United States.
+[50] Without the alternative deeming rule in subsection 12(2), an exporter might consider having sawlogs from a non-exempt region processed in an exempt region before export to the United States. If, however, the sawlogs originate in an exempt region and are first processed in another exempt region, the alternative deeming rule in subsection 12(2) has no impact on the exclusion under subsection 11(1).
+[51] In this case, the Minister has assumed that the wood originated in British Columbia but has not assumed that the wood was first processed in British Columbia. The Appellant submits that it is impossible to know the origin of the wood or the place the wood was first processed and that the burden of proving these facts should fall on the Minister. I will address the onus point first.
+[52] The basis for treating assumptions of fact made by the Minister in tax cases as true is that the taxpayer knows or has the means of knowing all of the facts relevant to the assessment of tax: Transocean Offshore Limited v. The Queen, 2005 FCA 104 at paragraph 35. The Appellant admitted in its Notice of Appeal that it might be possible with enough time and effort to determine the origin of the wood. At the very least, the Appellant is in a better position than the Minister to determine the origin of the wood or the place the wood was first processed. In the circumstances, I see no justification for departing from the general proposition that assumptions of fact made by the Minister in assessing tax are to be accepted as true unless demolished by the Appellant.
+[53] The default deeming rule in subsection 12(2) creates the fiction that a softwood lumber product is exported from a region if the product is first processed in that region. The trigger for the deeming rule to apply is the identification of the region in which the softwood lumber product wood was first processed. Here there is no evidence as to where the wood was first processed, and the Minister made no assumption of fact regarding where the wood was first processed. In the circumstances, I see no factual basis on which to apply the default deeming rule. For the same reason, I see no factual basis on which to apply the alternative deeming rule.
+[54] If the deeming rules in subsection 12(2) do not apply to the wood, the question that is still raised by subsection 12(1) is: From what region was the wood exported? There is nothing in the words of the SLPECA, read in context, to suggest that for the purposes of subsection 12(1) a softwood lumber product is exported from a region only if the softwood lumber product is deemed to be exported from that region by subsection 12(2). The general character of a deeming rule is that it does not alter reality; it simply deems a fiction to exist for the purposes determined by the deeming rule itself: Sullivan on the Construction of Statutes, Sixth Edition, at paragraph 4.111. In this case, the deeming rules in subsection 12(2) do not apply, so reality prevails.
+[55] The Minister assumed as a fact that the wood originated in British Columbia and was purchased from persons located in British Columbia. Even without this assumption of fact, the evidence establishes that the wood was recovered from demolition sites in British Columbia and was then shipped from those sites to Montana by truck. On the evidence, I find as a fact that the wood was exported by the Appellant from British Columbia to the United States. The timing of the export is determined by subsection 5(1) of the SLPECA, which indicates that the wood is considered to have been exported at the time it was loaded aboard the truck conveying it to the Appellant’s premises in the United States.
+[56] The Appellant submitted that taxation of the wood under the SLPECA was arbitrary since reclaimed softwood lumber products recovered in an exempt region and exported to the United States would not be subject to an export charge while reclaimed softwood lumber products recovered in a non-exempt region and exported to the United States would be subject to an export charge. In my view, this is simply a reflection of the circumstances in which the exclusions in section 11 of the SLPECA apply. These exclusions reflect the exclusions negotiated by Canada and the United States and included in Article X of the SLA. The fact that the place of export in this case is the actual location from which the wood was exported to the United States does not make the result under the SLPECA arbitrary.
+[57] For the foregoing reasons, the appeal is dismissed with costs to the Respondent in accordance with the Tariff.
+Signed at Ottawa, Canada, this 12th day of March 2018.
+“J.R. Owen”
+Owen J.
+APPENDIX A
+1. The products covered by the SLA 2006 are softwood lumber, flooring and siding (“Softwood Lumber Products”). Softwood Lumber Products include all products classified under subheadings 4407.1000, 4409.1010, 4409.1020, and 4409.1090, respectively, of the HTSUS, and any softwood lumber, flooring, and siding described below. These Softwood Lumber Products include:
+(a) coniferous wood, sawn or chipped lengthwise, sliced or peeled, whether or not planed, sanded or finger-jointed, of a thickness exceeding 6 millimeters;
+(b) coniferous wood siding (including strips and friezes for parquet flooring, not assembled) continuously shaped (tongued, grooved, rabbeted, chamfered, v-jointed, beaded, molded, rounded, or the like) along any of its edges or faces, whether or not planed, sanded, or finger-jointed;
+(c) other coniferous wood (including strips and friezes for parquet flooring, not assembled) continuously shaped (tongued, grooved, rabbeted, chamfered, v-jointed, beaded, molded, rounded, or the like) along any of its edges or faces (other than wood moldings and wood dowel rods) whether or not planed, sanded, or finger-jointed;
+(d) coniferous wood flooring (including strips and friezes for parquet flooring, not assembled) continuously shaped (tongued, grooved, rabbeted, chamfered, v-jointed, beaded, molded, rounded, or the like) along any of its edges or faces, whether or not planed, sanded, or finger-jointed; and
+(e) coniferous drilled and notched lumber and angle cut lumber.
+Other merchandise that shall be included in the definition of Softwood Lumber Products are [sic]:
+(f) any product entering under HTSUS 4409.10.05 which is continually shaped along its end and/or side edges which otherwise conforms to the written definition of the scope; and
+(g) lumber products that USCBP may classify as stringers, radius cut box-spring-frame components, and fence pickets, not conforming to the criteria listed in paragraph 4 below, as well as truss components, pallet components, and door and window frame parts, which may be classified under HTSUS subheadings 4418.90.45.90, 4421.90.70.40, and 4421.90.97.40.
+2. Although the HTSUS subheadings are provided for convenience and USCBP purposes, the written description of the merchandise subject to the SLA 2006 is dispositive.
+3. The following Softwood Lumber Products are excluded from the scope of the SLA 2006:
+(a) trusses and truss kits, properly classified under HTSUS 4418.90;
+(b) I-Joist beams;
+(c) assembled box spring frames;
+(d) pallets and pallet kits, properly classified under HTSUS 4415.20;
+(e) garage doors;
+(f) edge-glued wood, properly classified under HTSUS 4421.90.97.40;
+(g) properly classified complete door frames;
+(h) properly classified complete window frames;
+(i) properly classified furniture;
+(j) articles brought into the United States temporarily and claimed to be exempt from duty under Chapter 98, Subchapter XIII, of the HTSUS (TIB); and
+(k) household and personal effects.
+4. The following Softwood Lumber Products are excluded from the scope of the SLA 2006 provided that they meet the specified requirements detailed below:
+(a) stringers (pallet components used for runners); if they have at least two notches on the side, positioned at equal distance from the center, to properly accommodate forklift blades, properly classified under HTSUS 4421.90.97.40;
+(b) box-spring frame kits, if they contain the following wooden pieces – two side rails; two end (or top) rails; and varying numbers of slats. The side rails and the end rails should be radius-cut at both ends. The kits should be individually packaged, and should contain the exact number of wooden components needed to make a particular box spring frame, with no further processing required. None of the components exceeds 1 inch in actual thickness or 83 inches in length;
+(c) radius-cut box-spring-frame components, not exceeding 1 inch in actual thickness or 83 inches in length, ready for assembly without further processing. The radius cuts must be present on both ends of the boards and must be substantial cuts so as to completely round one corner;
+(d) fence pickets requiring no further processing and properly classified under HTSUS 4421.90.70, 1 inch or less in actual thickness, up to 8 inches wide, and 6 feet or less in length, and having finials or decorative cuttings that clearly identify them as fence pickets. In the case of dog-eared fence pickets, the corners of the boards should be cut off so as to remove pieces of wood in the shape of isosceles right angle triangles with sides measuring 3/4 of an inch or more;
+(e) U.S.-origin lumber shipped to Canada for minor processing and imported into the United States, is excluded from the scope of the SLA 2006 if the following conditions are met: (1) if the processing occurring in Canada is limited to kiln drying, planing to create smooth-to-size board, and sanding, and (2) if the importer establishes to the satisfaction of USCBP that the lumber is of U.S. origin; and
+(f) in addition, all Softwood Lumber Products entered claiming non-subject status based on U.S. country of origin shall be treated as excluded under the SLA 2006, provided that these Softwood Lumber Products meet the following condition: upon entry, the importer, exporter, Canadian processor and/or original U.S. producer establish to USCBP's satisfaction that the softwood lumber entered and documented as U.S.-origin softwood lumber was first produced in the United States as a lumber product satisfying the physical parameters of the softwood lumber scope.
+5. Softwood Lumber Products contained in single family home packages or kits, regardless of tariff classification, are excluded from the scope of the SLA 2006 if the importer certifies to items (a), (b), (c), and (d) and requirement (e) is met:
+(a) the imported home package or kit constitutes a full package of the number of wooden pieces specified in the plan, design or blueprint necessary to produce a home of at least 700 square feet produced to a specified plan, design or blueprint;
+(b) the package or kit must contain all necessary internal and external doors and windows, nails, screws, glue, sub floor, sheathing, beams, posts, connectors, and if included in the purchase contract, decking, trim, drywall and roof shingles specified in the plan, design or blueprint;
+(c) prior to importation, the package or kit must be sold to a retailer in the United States of complete home packages or kits pursuant to a valid purchase contract referencing the particular home design plan or blueprint, and signed by a customer not affiliated with the importer;
+(d) Softwood Lumber Products entered as part of a single family home package or kit, whether in a single entry or multiple entries on multiple days, will be used solely for the construction of the single family home specified by the home design matching the USCBP import entry; and
+(e) for each entry into the United States, the following documentation must be retained by the importer and made available to USCBP upon request:
+(i) a copy of the appropriate home design plan, or blueprint matching the customs entry in the United States,
+(ii) a purchase contract from a retailer of home kits or packages signed by a customer not affiliated with the importer,
+(iii) a listing of inventory of all parts of the package or kit being entered into the United States that conforms to the home design package being imported, and
+(iv) in the case of multiple shipments on the same contract, all items listed in (iii) which are included in the shipment at issue shall be identified as well.
+APPENDIX B
+CITATION:
+2018 TCC 51
+COURT FILE NO.:
+2014-3418(SLP)G
+STYLE OF CAUSE:
+MONTANA RECLAIMED LUMBER CO. v. HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Vancouver, British Columbia
+DATE OF HEARING:
+September 29, 2017
+REASONS FOR JUDGMENT BY:
+The Honourable Justice John R. Owen
+DATE OF JUDGMENT:
+March 12, 2018
+APPEARANCES:
+Counsel for the Appellant:
+Terry Gill
+Counsel for the Respondent:
+Zachary Froese and Michael Taylor
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Terry Gill
+Firm:
+Gill Tax Law
+Vancouver, British Columbia
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada

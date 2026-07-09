@@ -1,0 +1,134 @@
+---
+title: "Schaub c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/72949/index.do"
+last_modified: "2014-07-04"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2014 CCI 212"
+citation2: ""
+neutral_citation: "2014 CCI 212"
+decision_date: "2014-07-04"
+language: "fr"
+item_id: "72949"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5277
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T15:50:43.771000+00:00"
+cases_cited_count: 2
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "653925d2685a5231b9b371ef9042d5266eac5c35d8d818ce64bd3fd1b3865b4b"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Schaub c. La Reine
+
+- Citation: 2014 CCI 212
+- Decision date: 2014-07-04
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5277, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Schaub c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2014-07-04
+Référence neutre
+2014 CCI 212
+Numéro de dossier
+2014-318(IT)I
+Juges et Officiers taxateurs
+Valerie A. Miller
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Référence : 2014 CCI 212
+Date : 20140704
+Dossier : 2014-318(IT)I
+ENTRE :
+PETER SCHAUB,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+(Rendus oralement à l’audience le 4 juin 2014,
+à Vancouver (Colombie‑Britannique).)
+La juge V. A. Miller
+[1] En l’espèce, la question en litige est de savoir si on a à juste titre inclus des prestations de retraite s’élevant à 17 781 $ dans le revenu de l’appelant pour l’année d’imposition 2012.
+[2] Les faits pertinents en l’espèce n’ont fait l’objet d’aucun litige entre les parties. Ces faits étaient les suivants.
+[3] En 1978, l’appelant a immigré au Canada depuis la Suisse et, en 1981, il est devenu citoyen canadien. Du temps où il résidait en Suisse, il a versé 190 cotisations mensuelles obligatoires au régime de retraite suisse appelé Alters und Hinterlassenenversicherung (l’« AHV »). Pendant qu’il se trouvait en Suisse, son employeur cotisait le même montant que lui à l’AHV.
+[4] Il a déclaré que, en 1991, il avait démarré sa propre entreprise de services consultatifs de gestion à Vancouver et qu’il avait décidé de [traduction] « diversifier ses risques à long terme ». En 1993, il a commencé à faire des cotisations à l’AHV sur une base volontaire. Je déduis de son témoignage qu’il versait à l’AHV tant les cotisations de l’employeur que celles de l’employé. Bien que cela lui ait coûté beaucoup d’argent, il a versé 191 cotisations volontaires à l’AHV.
+[5] L’appelant a déclaré qu’il avait contacté l’Agence du revenu du Canada (l’« ARC ») en 1993, et qu’on lui avait dit qu’il n’avait pas le droit de déduire de son revenu les cotisations volontaires qu’il avait versées à l’AHV.
+[6] L’appelant a commencé à recevoir des prestations de retraite de l’AHV en 2010.
+[7] En 2012, l’appelant a inclus les prestations reçues de l’AHV dans le calcul de son revenu et il a ensuite demandé une déduction au titre de ces prestations. À l’origine, on a établi une cotisation à son égard selon laquelle la somme de 17 781 $ reçue au titre des prestations de retraite devait être incluse dans le calcul de son revenu. La cotisation a été confirmée et l’appelant a interjeté appel de cette confirmation. Dans son avis d’appel, il a soulevé les points suivants :
+a) Il faudrait établir des lignes directrices claires à l’intention des citoyens canadiens en ce qui concerne l’imposition des cotisations volontaires à l’AHV.
+b) Il faudrait indiquer clairement s’il est possible de déduire les cotisations volontaires à l’AHV du revenu imposable des citoyens canadiens.
+c) Il devrait recevoir un remboursement au titre des déductions qu’il n’a pas obtenues à l’égard de son revenu imposable pour les années au cours desquelles il a cotisé volontairement à l’AHV.
+[8] Dès le départ, je dois dire à l’appelant que je ne peux pas répondre au point qu’il a soulevé à l’alinéa b) pas plus que je ne peux lui accorder la réparation qu’il demande à l’alinéa c). Je ne peux pas ordonner qu’on le rembourse pour les années au cours desquelles il a cotisé à l’AHV sans bénéficier de déductions à l’égard de ces cotisations. En l’espèce, il n’est pas question de cotisations établies pour ces années, et je ne rends aucune décision à l’égard de ces points. En ce qui a trait au point qui a été soulevé à l’alinéa a), je trancherai la question de savoir si les prestations de retraite que l’appelant a reçues en 2012 au titre de l’AHV devaient être incluses dans le calcul de son revenu pour 2012.
+[9] La disposition pertinente de la Loi de l’impôt sur le revenu (la « Loi ») est le sous‑alinéa 56(1)a)(i), qui est ainsi libellé :
+56(1) Sans préjudice de la portée générale de l’article 3, sont à inclure dans le calcul du revenu d’un contribuable pour une année d’imposition :
+a) Pensions, prestations d’assurance‑chômage, etc. – toute somme reçue par le contribuable au cours de l’année au titre, ou en paiement intégral ou partiel :
+(i) d’une prestation de retraite ou de pension, y compris, sans préjudice de la portée générale de ce qui précède : […]
+[10] Selon l’article 248 de la Loi, sont comprises dans les termes « prestation de retraite ou de pension » « les sommes reçues dans le cadre d’une caisse ou d’un régime de retraite ou de pension ». Toutefois, l’article 248 ne définit pas les termes prestation de retraite ou de pension, mais indique qu’ils comprennent les sommes reçues par un bénéficiaire dans le cadre d’un régime de retraite ou de pension. La question est de savoir si l’AHV est une caisse ou un régime de retraite ou de pension. L’appelant a décrit l’AHV comme étant similaire au Régime de pensions du Canada.
+[11] Au paragraphe 22 de la décision Woods v R., 2010 CCI 106, le juge Boyle s’est appuyé sur l’arrêt de la Cour suprême du Canada Crown Trust Co. (McArdle Estate) v Minister of National Revenue (1965), 65 DTC 5176 (CSC), pour affirmer qu’une des caractéristiques d’une caisse ou d’un régime de retraite ou de pension était qu’il donnait le droit de recevoir des prestations de retraite.
+[12] Dans la décision R. v Herman (1978), 78 DTC 6311 (C.F. 1re inst.), la question était de savoir si les contribuables devaient inclure leurs prestations de retraite mensuelles dans le calcul de leur revenu. On a fait valoir que les sommes n’étaient pas des prestations reçues d’une caisse ou d’un régime de retraite ou de pension parce que les contribuables n’avaient pas eu le droit de déduire leurs cotisations au régime dans le calcul de leur revenu. La Commission de révision de l’impôt avait accueilli l’appel des contribuables, mais la Cour fédérale leur a donné tort. Le juge s’est ainsi exprimé :
+[11] […] Le savant président a indiqué sans équivoque qu’à son avis, la loi fiscale est dénuée de toute équité mais que sa décision n’était pas motivée par cette considération. Je ne saurais cependant souscrire à l’opinion selon laquelle on doit limiter le nom de fonds de pension à celui à l’égard duquel les contributions sont déductibles aux fins de l’impôt. Nous sommes bel et bien en présence d’un fonds de retraite ou de pension, ce que confirment avec force les Règlements versés au dossier. Ni la définition de la prestation de retraite ou de pension que constitue l’article 139(1)ar) de la Loi ancienne (devenu l’article 248(1) de la Loi actuellement en vigueur) qui fait état de tout montant reçu "sur un fonds ou un plan de pension de retraite ou de pension" conformément aux dispositions du fonds ou du plan, ni aucune autre disposition de la même loi ne permet, à mon avis, de décomposer ce fonds en ses éléments premiers pour conclure qu’il ne s’agit pas là d’un fonds de retraite du point de vue des primes versées par le contribuable et qu’il ne peut déduire aux fins de l’impôt sur le revenu, en même temps qu’il s’agit bien d’un fonds de retraite ou de pension pour ce qui est des contributions faites par l’employeur. Bien qu’une telle interprétation puisse paraître équitable, nulle disposition de la Loi ne l’autorise.
+[…]
+[13] En imposant le revenu provenant d’un fonds de retraite ou de pension, la Loi ne fait aucune distinction quant à son origine. Le législateur se contente d’imposer l’ensemble du revenu reçu par un contribuable résidant au Canada. […]
+[13] Dans la décision Ruparel c Canada, 2012 CCI 268, il était question d’un cas très similaire à celui qui nous intéresse en l’espèce. Dans cette décision, l’époux de la contribuable avait versé des cotisations volontaires à l’assurance nationale du R.‑U. Ces cotisations volontaires n’étaient pas déductibles d’impôt quand il les a versées. La contribuable a reçu des prestations du régime de pension, mais elle a demandé une déduction au titre de ces sommes égale aux cotisations volontaires versées par son époux. Quand il a rejeté l’appel, le juge Webb, tel était alors son titre, a déclaré qu’aucune disposition de la Loi n’autorisait une déduction des prestations de pension pour la partie représentant le capital. Cela est vrai en l’espèce. Dans la décision Ruparel, les prestations reçues par la contribuable ont été incluses dans le calcul de son revenu au titre de l’article 56 de la Loi.
+[14] La Convention entre le Canada et la Suisse en vue d’éviter les doubles impositions en matière d’impôts sur le revenu et sur la fortune (la « Convention ») n’interdit pas qu’on impose les prestations de retraite en question au Canada. L’article 18 de la Convention autorise la Suisse à imposer les prestations de retraite à 15 % du montant brut du paiement. L’appelant a déclaré que ces prestations n’avaient pas été imposées en Suisse. Toutefois, le cas échéant, l’appelant aurait pu demander un crédit pour impôt étranger au Canada.
+[15] J’ai conclu que les sommes que l’appelant avait reçues de l’AHV étaient des prestations de retraite ou de pension et qu’elles devaient être incluses dans le calcul de son revenu, conformément au sous‑alinéa 56(1)a)(i) de la Loi, indépendamment du fait qu’il n’a pas pu déduire de son revenu ses cotisations à l’AHV à l’époque où il les a faites. L’appel est rejeté.
+Signé à Ottawa, Canada, ce 4e jour de juillet 2014.
+« V. A. Miller »
+Juge V. A. Miller
+Traduction certifiée conforme
+ce 28e jour de juillet 2014.
+Alya Kaddour‑Lord, traductrice
+RÉFÉRENCE :
+2014 CCI 212
+NO DU DOSSIER DE LA COUR :
+2014-318(IT)I
+INTITULÉ :
+Peter Schaub c. La Reine
+LIEU DE L’AUDIENCE :
+Vancouver (Colombie‑Britannique)
+DATE DE L’AUDIENCE :
+Le 3 juin 2014
+MOTIFS DU JUGEMENT :
+L’honorable juge Valerie Miller
+DATE DU JUGEMENT :
+Le 13 juin 2014
+DATE DES MOTIFS ÉCRITS
+DU JUGEMENT: Le 4 juillet 2014
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui‑même
+Avocat de l’intimée :
+Me Zachary Froese
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet:
+Pour l’intimée :
+William F. Pentney
+Sous‑procureur général du Canada
+Ottawa, Canada

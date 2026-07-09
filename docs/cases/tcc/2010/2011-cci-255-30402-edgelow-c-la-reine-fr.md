@@ -1,0 +1,119 @@
+---
+title: "Edgelow c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30402/index.do"
+last_modified: "2010-03-01"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2011 CCI 255"
+citation2: ""
+neutral_citation: "2011 CCI 255"
+decision_date: "2010-03-01"
+language: "fr"
+item_id: "30402"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7863
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T13:13:53.966000+00:00"
+cases_cited_count: 2
+cases_citing_count: 5
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "57dcd675eaefee0c032176de83a4a7758f08b594abc6928cc02ca4983888046e"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Edgelow c. La Reine
+
+- Citation: 2011 CCI 255
+- Decision date: 2010-03-01
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7863, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Edgelow c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2010-03-01
+Référence neutre
+2011 CCI 255
+Numéro de dossier
+2009-2995(IT)APP
+Juges et Officiers taxateurs
+Valerie A. Miller
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Référence : 2011CCI255
+Date : 20110509
+Dossier : 2009-2995(IT)APP
+ENTRE :
+GEOFFREY SCOTT EDGELOW,
+requérant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE
+(Prononcés à l’audience le 2 mars 2010 à Calgary (Alberta)).
+La juge V.A. Miller
+[1] Le requérant a présenté une demande de prorogation du délai pour déposer un avis d’opposition pour ses années d’imposition 1998, 1999, 2000, 2001, 2002 et 2003.
+[2] Le requérant a présenté un historique des diverses causes dans lesquelles il était partie au litige depuis 1998. Il a expliqué qu’en 1998 il a vendu les actions qu’il détenait dans une société appelée Phoenix Directional Services à un autre partenaire dans la société pour une somme de 732 500 $. En quelques jours, son partenaire a vendu les mêmes actions pour environ 8 000 000 $. Le requérant a intenté une action en justice contre son ancien partenaire, et ce litige n’a pris fin qu’en 2004 lorsque la Cour suprême du Canada a rejeté la demande d’autorisation d’appel. Le requérant était aussi en instance de divorce depuis 1997. En 2004, le requérant a été accusé d’évasion fiscale. Cette instance n’a pris fin qu’en 2008.
+[3] Une cotisation a été établie à l’égard du requérant pour son année d’imposition 1998 au moyen d’un avis daté du 28 juin 2005 et pour ses années d’imposition 1999, 2000, 2001, 2002 et 2003 au moyen d’avis datés du 30 janvier 2009.
+[4] À l’audience de la présente demande, l’avocat du requérant a déclaré qu’il abandonnait la demande en vue d’obtenir une prorogation de délai pour les années d’imposition 1999, 2000, 2001, 2002 et 2003 étant donné que les cotisations relatives à ces années étaient des cotisations néant.
+[5] Il ressort de la preuve que le requérant avait présenté une demande en vue d’obtenir une prorogation du délai pour déposer un avis d’opposition à l’Agence du revenu du Canada le 27 septembre 2006. Au moyen d’une lettre datée du 3 octobre 2006, le ministre du Revenu national (le « ministre ») a avisé le requérant qu’il ne pouvait pas lui accorder sa demande, étant donné que la demande avait été présentée en dehors du délai d’un an et quatre‑vingt‑dix jours imparti par la Loi de l’impôt sur le revenu (la « Loi »).
+[6] Le 14 mai 2009, le requérant a présenté une autre demande en vue d’obtenir une prorogation du délai pour déposer des avis d’opposition pour les années d’imposition 1998 à 2007. Au moyen d’une lettre datée du 24 juin 2009, le ministre a avisé le requérant que sa demande ne pouvait pas être accordée en ce qui concerne l’année d’imposition 1998 qui est la seule année en question dans l’affaire dont je suis saisie. Le ministre a avisé le requérant que le délai pour présenter une demande en vue d’obtenir une prorogation de délai pour l’année d’imposition 1998 avait expiré le 26 septembre 2006. J’ai vérifié cette date et c’est la date qui tombe un an et quatre‑vingt-dix jours suivant l’établissement de l’avis de cotisation qui était daté du 28 juin 2005.
+[7] La disposition pertinente est l’article 166.2 de la Loi. Le paragraphe 166.2(5) de la Loi est ainsi libellé :
+(5) Acceptation de la demande – Il n’est fait droit à la demande que si les conditions suivantes sont réunies :
+a) la demande a été présentée en application du paragraphe 166.1(1) dans l’année suivant l’expiration du délai par ailleurs imparti pour signifier un avis d’opposition ou présenter une requête;
+[8] Il ressort clairement de cette disposition qu’une demande en vue d’obtenir une prorogation du délai pour déposer un avis d’opposition ne peut pas être accordée à moins que la demande ne soit présentée avant l’expiration du délai d’un an et quatre‑vingt-dix jours suivant la date inscrite sur l’avis de cotisation. En l’espèce, la demande a été faite une date plus tard. Aussi dur que cela puisse paraître, je ne peux pas accorder une prorogation de délai, car je n’ai aucun pouvoir discrétionnaire de le faire.
+[9] L’avocat du requérant m’a renvoyée à Cheam Tours Ltd. OP Airport Link Shuttle c. MRN[1] et Hickerty c. Canada[2] en tant que décisions qui font jurisprudence quant à la question du pouvoir discrétionnaire de la Cour d’accorder dans certains cas une prorogation de délai après l’expiration du délai imparti par la Loi.
+[10] Je ne puis être d’accord avec l’avocat du requérant. Il découle clairement du libellé du paragraphe 166.2(5) de la Loi que cette disposition est impérative. L’interprétation que je fais de cette disposition est conforme à la décision rendue par la Cour d’appel fédérale dans l’arrêt Carlson c. R.[3].
+[11] Malheureusement, je me vois obligée de rejeter la demande de prorogation de délai.
+Signé à Ottawa, Canada, ce 9e jour de mai 2011.
+« V.A. Miller »
+Juge V.A. Miller
+Traduction certifiée conforme
+ce 22e jour de juin 2011.
+Espérance Mabushi, M.A.Trad. Jur.
+RÉFÉRENCE : 2011 CCI 255
+No DU DOSSIER DE LA COUR : 2009-2995(IT)APP
+INTITULÉ : GEOFFREY SCOTT EDGELOW
+c.
+LA REINE
+LIEU DE L’AUDIENCE : Calgary (Alberta)
+DATE DE L’AUDIENCE : Le 2 mars 2010
+MOTIFS DE L’ORDONNANCE : L’honorable juge Valerie Miller
+DATE DE L’ORDONNANCE : Le 11 mars 2010
+DATE DES MOTIFS DE
+L’ORDONNANCE : Le 9 mai 2011
+COMPARUTIONS :
+Avocat du requérant :
+Me Craig Leggatt
+Avocat de l’intimée :
+Me Robert Neilson
+AVOCATS INSCRITS AU DOSSIER :
+Pour le requérant :
+Nom : Me Craig Leggatt
+Cabinet : Wolff Leia
+Pour l’intimée : Myles J. Kirvan,
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] 2008 CCI 18
+[2] [2007] A.C.I. no 312 (CCI)
+[3] 2002 CAF 145

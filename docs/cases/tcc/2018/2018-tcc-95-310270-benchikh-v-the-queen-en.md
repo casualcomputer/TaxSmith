@@ -1,0 +1,153 @@
+---
+title: "Benchikh v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/310270/index.do"
+last_modified: "2018-05-11"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2018 TCC 95"
+citation2: ""
+neutral_citation: "2018 TCC 95"
+decision_date: "2018-05-11"
+language: "en"
+item_id: "310270"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4851
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T11:47:45.673000+00:00"
+cases_cited_count: 3
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "4788289d43776babe4fcda36bb2cf05fa06d2dede5cd10196b6d7244e7925aeb"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Benchikh v. The Queen
+
+- Citation: 2018 TCC 95
+- Decision date: 2018-05-11
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4851, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Benchikh v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2018-05-11
+Neutral citation
+2018 TCC 95
+File numbers
+2017-3128(IT)I
+Judges and Taxing Officers
+Robert N. Fournier
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2017-3128(IT)I
+BETWEEN:
+LAHBIB BENCHIKH,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard on May 3 and 4, 2018, at Québec, Quebec.
+Before: The Honourable Robert N. Fournier, Deputy Judge
+Appearances:
+Counsel for the Appellant:
+Suzie Benga
+Counsel for the Respondent:
+Julien Dubé-Senécal
+JUDGMENT
+The appeal from the determination made under the Income Tax Act, notice of which is dated November 18, 2016, regarding the Canada child benefit, for the base year 2015 (period from July 2016 to June 2017), is dismissed, without costs, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 11th day of May 2018.
+“Robert N. Fournier”
+Deputy Judge Fournier
+Citation: 2018 TCC 95
+Date: 20180511
+Docket: 2017-3128(IT)I
+BETWEEN:
+LAHBIB BENCHIKH,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Deputy Judge Fournier
+[1] These Reasons concern an appeal by Lahbib Benchikh following the determination by the Canada Revenue Agency (CRA) on behalf of the Minister of National Revenue (the Minister).
+[2] In July 2016, the appellant submitted an application for the Canada child benefit (CCB) indicating that he was a parent with shared custody of his son, referred to in these Reasons by the initials M.R. Subsequently, around November 18, 2016, a notice of determination for the base year 2015 was sent to him, informing him that he was not entitled to the CCB calculated under section 122.6 of the Income Tax Act (ITA). On or about December 16, 2016, the appellant filed notice of objection with the Minister concerning the notice of determination for the CCB for the base year 2015. Following a review of the facts and documents submitted by the appellant on July 12, 2017, the Minister confirmed the notice of determination dated November 18, 2016, for the base year 2015. In fact, the appeals officer confirmed that the appellant was not eligible to receive the CCB because he did not reside with the dependant on an equal or near equal basis. The appeal filed in this case was sent to the respondent on July 27, 2017.
+[3] Did the Minister correctly determine that the appellant was not eligible, as he did not have shared custody of the child M.R. on an equal or near equal basis for the base year 2015, during the period from July 2016 to June 2017? Specifically, the issue raised in this appeal is whether Lahbib Benchikh is eligible for half of the tax benefit in question. It seems that in making his determination, the Minister relied in part on his interpretation of an agreement on corollary relief, dated May 5, 2011. Although they had shared custody, the parties agreed that the terms would be established on a week-to-week basis and according to an open understanding between them. Subsequently, in April 2013, the appellant married Aouatif Fatima Benzineb and since January 31, 2015, this couple were the parents of a child, for whom Aouatif Fatima Benzineb began receiving the CCB in February 2015.
+[4] Moreover, for the base year 2015 (July 2016 to June 2017), the Minister assumed that the mother of the child M.R. primarily resided with the child during the week. In contrast, the appellant usually resided with the child only on weekends, one night a week, in the evening during the week based on the child’s sports activity schedule, a few weeks of vacation during the summer or in December/January 2016, and lastly, at any other time by mutual agreement between the parties. By and large, this is what the parties stated during their testimony. Ultimately, the Minister assumed that the appellant resided with the child for an average of 102 to 106 hours per week, which represents 63% custody time for Farida Mellah (the child’s mother). Evidently, she agreed with the table reproduced in tab 8 of the Book of Exhibits, filed as Exhibit I-1. The appellant preferred his own table, filed as Exhibit A-1, which demonstrated that he had 49.4% custody time, indicating that he resided with the child on an equal or near equal basis. Evidently, in this context, it depends on the interpretation of the evidence and the resulting calculations.
+[5] If we compare the two tables, to find out where opinions diverge, it is clear that Wednesdays and Fridays are the main point of contention between the parties. They more or less agree on the other days of the week. So, if we look at the math, this is what complicates things. According to the routine established a few years ago and the agreement between the parties, every week after school, the child normally spends Wednesday night with the appellant. The same is true for Friday night, and then he spends the weekend at his father’s house. What formula can we use to divide the time the child spends at school before he goes to his father’s house on Wednesday and Friday? I note that in Reynolds v. The Queen [1] , Justice V.A. Miller had considered most school hours as time when the children were with their mother because she was the one who dropped them off and picked them up from school. Clearly, such a determination depends on the facts in each case. In this case, it seems to me that for his own purposes, the appellant is trying to claim most of the time that his child spends at school on Wednesdays and Fridays of each week. Moreover, note that it is the mother who prepares his snacks because of his illness and who sends him to school. She is also the one who stays at home and makes herself available in case the school calls in an emergency.
+[6] In Morrissey v. The Queen [2] , Justice Sommerfeldt engaged in some contentious discussions on the matter (paragraph 15). It also appears that an auditor in this matter reached the same conclusions by taking certain factors for granted, which I am not prepared to do in this case. In my opinion, it is always wise and fair for the Court to proceed with caution before relying on the recommendations of a third party, such as an auditor. We must also be careful not to let ourselves engage in futile mental gymnastics. Often good sense and simplicity are just what we need. That said, there is a lot of merit in what Sommerfeldt J. states in paragraph 46 of his decision:
+A review of those cases suggests that the meaning of the phrase “equal or near equal basis” has been determined more by reference to quantitative factors than to qualitative factors. However, as Woods J noted in Van Boekel, while the time spent by each parent with the particular child must be considered, in some situations a strict numerical analysis may not be sufficient.
+[7] In that regard, in Van Boekel v. Canada [3] , Woods J. states the following:
+Further, although the “near equal” element requires a comparison of time spent with each parent, often the circumstances will not lend themselves to a formulaic approach. In this particular case, it is important to look at all the relevant circumstances and not to simply apply an arithmetic approach, such as the 60/40 split suggested by the respondent.
+[8] In this case, to get back to our own calculations regarding Wednesdays, the appellant wants to give himself 16 out of 24 hours, while the respondent is essentially proposing the opposite, namely 17 out of 24 hours in favour of the mother. Regarding Fridays, once again, the appellant wants to give himself 16 out of 24 hours, while the respondent is granting him only 3 hours. So, as I asked myself before, how do we interpret the evidence fairly when the manner in which the days are allocated might depend on the subjective or erroneous opinion of an auditor? Justice G.R. Smith, in Théodore v. Canada [4] , experienced a similar dilemma in his decision, where he stated:
+The Appellant adduced a schedule for 2015 and another for 2016. The Respondent disputes its accuracy, since the Appellant included Mondays, even though the children are dropped off either at school or at daycare on Monday mornings. There is no need to make a finding on this issue. While the Court accepts the accuracy of the schedules in question, it is undeniable that the Appellant did not have the children more then [sic] 37% of the time in 2015 and 39% of the time in 2016. The qualitative factors cannot trump this quantitative analysis. Therefore, for the above reasons, the appeals are dismissed.
+[9] However, in this case, when I compare the two tables submitted by the parties, the discrepancy is only about 21 hours. Simply juxtaposing a number or two has the potential to very significantly influence the final results when determining how custody time is divided. In this case, the appellant, who claims to be a computer analyst, seems to be very good with numbers. First, in my opinion, he manipulated the numbers to obtain percentages in his favour. Moreover, in this quantitative context, I am convinced that the table the respondent provided to us is much more reliable in light of all of the circumstances applicable here. Of course, the appellant contests the accuracy, but the factors he takes for granted as a foundation leave something to be desired, in my opinion. In fact, the calculation of the division of shared custody in this case remains very simple. Considering that the child resides with his father only on weekends and on Wednesday evenings, it seems to me to be perfectly fair and correct to give him 2½ days — which corresponds to a percentage of 35.7%. In my view, it is not pure coincidence that this result more or less corresponds with the table provided by the respondent. In fact, this merely reflects the reality in this case. Even if we round up the numbers, I conclude that the appellant’s custody does not exceed 37%.
+[10] More importantly, the qualitative elements confirm my decision. All of the evidence makes it clear that the mother invested a lot of herself in her child. In Van Boekel v. The Queen [5] , Woods T.C.J. states that the expression “shared-custody parent” contains both “residence” and “caregiving” elements. Once again, as the Court states in Morrissey, above, an individual will be a shared-custody parent in respect of a qualified dependant only if certain conditions are met. In particular, this individual must primarily fulfil the responsibility for the care and upbringing of a qualified dependant, and as determined by the criteria set out in the regulations (section 122.6 of the ITA). Sommerfeldt J. lists these criteria in paragraph 4 of his decision as follows:
+a) the supervision of the daily activities and needs of the qualified dependant;
+b) the maintenance of a secure environment in which the qualified dependant resides;
+c) the arrangement of, and transportation to, medical care at regular intervals and as required for the qualified dependant;
+d) the arrangement of, participation in, and transportation to, educational, recreational, athletic or similar activities in respect of the qualified dependant;
+e) the attendance to the needs of the qualified dependant when the qualified dependant is ill or otherwise in need of the attendance of another person;
+f) the attendance to the hygienic needs of the qualified dependant on a regular basis;
+g) the provision, generally, of guidance and companionship to the qualified dependant; and
+h) the existence of a court order in respect of the qualified dependant that is valid in the jurisdiction in which the qualified dependant resides (not particularly relevant in our case).
+[11] This is a list of everything the mother did for her child in this case. We understand that the appellant is dedicated to his child, when it comes to sports and hockey in particular, and that he travelled with him on vacation. However, when the child was diagnosed with diabetes, it was the mother who was responsible for obtaining care for her son. She is the one who looked after daycare services, school costs, getting prescriptions and visits to the dentist. She is the one who prepared snacks for her child at school during the week because of his diabetes. She is the one who was there for him when he needed moral support. She is the one the school would call first in an emergency. She is the one who opened an education savings account and got assistance from her mother and brother when she needed extra help caring for her son because of her work. In short, we cannot criticize this mother’s care for her child. Finally, during her compelling testimony, the child’s mother filed dozens of exhibits, showing the scope and nature of the many expenses incurred over the years for the wellbeing of her child.
+[12] In fact, for all the above reasons, I conclude that in this case the appellant failed to demolish the assumption that he did not reside with the dependant on an equal or near equal basis. Consequently, he was not entitled to the CCB payment calculated under section 122.6 of the ITA. Therefore, the appeal is dismissed without costs.
+Signed at Ottawa, Canada, this 11th day of May 2018.
+“Robert N. Fournier”
+Deputy Judge Fournier
+CITATION:
+2018 TCC 95
+COURT FILE NO.:
+2017-3128(IT)I
+STYLE OF CAUSE:
+LAHBIB BENCHIKH v. HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Québec, Quebec
+DATE OF HEARING:
+May 3 and 4, 2018
+REASONS FOR JUDGMENT BY:
+The Honourable Robert N. Fournier, Deputy Judge
+DATE OF JUDGMENT:
+May 11, 2018
+APPEARANCES:
+Counsel for the Appellant:
+Suzie Benga
+Counsel for the Respondent:
+Julien Dubé-Senécal
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Suzie Benga
+Firm:
+Lajoie & Pearson, Barristers & Solicitors
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] 2015 TCC 109.
+[2] 2016 TCC 178.
+[3] [2013] T.C.J. no 110.
+[4] [2018] T.C.J. no 11.
+[5] 2013 TCC 132.

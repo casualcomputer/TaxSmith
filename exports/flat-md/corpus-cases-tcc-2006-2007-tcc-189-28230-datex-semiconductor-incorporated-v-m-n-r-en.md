@@ -1,0 +1,290 @@
+---
+title: "DatEx Semiconductor Incorporated v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28230/index.do"
+last_modified: "2006-12-13"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 TCC 189"
+citation2: ""
+neutral_citation: "2007 TCC 189"
+decision_date: "2006-12-13"
+language: "en"
+item_id: "28230"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2077
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T21:28:38.060000+00:00"
+cases_cited_count: 9
+cases_citing_count: 3
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "53798461e14cb3750183c584bb0b079f6dda4f051e18cc7d08cedf75cabc34a4"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# DatEx Semiconductor Incorporated v. M.N.R.
+
+- Citation: 2007 TCC 189
+- Decision date: 2006-12-13
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2077, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+DatEx Semiconductor Incorporated v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-12-13
+Neutral citation
+2007 TCC 189
+File numbers
+2006-350(EI)
+Judges and Taxing Officers
+Joe E. Hershfield
+Subjects
+Canada Pension Plan
+Employment Insurance Act
+Decision Content
+Docket: 2006-350(EI)
+BETWEEN:
+DATEX SEMICONDUCTOR INCORPORATED,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+KUK SUNG CHOI,
+Intervener.
+____________________________________________________________________
+Appeal heard on common evidence with the appeal of
+DatEx Semiconductor Incorporated (2006-353(CPP)) on December 12, 2006
+at Vancouver, British Columbia
+Before: The Honourable Justice J.E. Hershfield
+Appearances:
+Agents for the Appellant:
+Patrick Chaye
+Orah Chaye
+Counsel for the Respondent:
+For the Intervener:
+Sara Fairbridge
+Oren Bick (Student-At-Law)
+The Intervener himself
+____________________________________________________________________
+JUDGMENT
+The decision of the Minister is confirmed and the appeal is dismissed for the reasons set out in the attached Reasons for Judgment.
+Signed at Ottawa, Canada this 27th day of April 2007.
+“J.E. Hershfield”
+Hershfield J.
+Docket: 2006-353(CPP)
+BETWEEN:
+DATEX SEMICONDUCTOR INCORPORATED,
+Appellant,
+And
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+KUK SUNG CHOI,
+Intervener.
+____________________________________________________________________
+Appeal heard on common evidence with the appeal of
+DatEx Semiconductor Incorporated (2006-350(EI)) on December 12, 2006
+at Vancouver, British Columbia
+Before: The Honourable Justice J.E. Hershfield
+Appearances:
+Agents for the Appellant:
+Patrick Chaye
+Orah Chaye
+Counsel for the Respondent:
+For the Intervener:
+Sara Fairbridge
+Oren Bick (Student-At-Law)
+The Intervener himself
+____________________________________________________________________
+JUDGMENT
+The decision of the Minister is confirmed and the appeal is dismissed for the reasons set out in the attached Reasons for Judgment.
+Signed at Ottawa, Canada this 27th day of April 2007.
+“J.E. Hershfield”
+Hershfield J.
+Citation: 2007TCC189
+Date: 20070427
+Dockets: 2006-350(EI)
+2006-353(CPP)
+BETWEEN:
+DATEX SEMICONDUCTOR INCORPORATED,
+Appellant,
+And
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+KUK SUNG CHOI,
+Intervener.
+REASONS FOR JUDGMENT
+Hershfield J.
+[1] The Appellant appeals its 2004 taxation year in respect of a decision of the Minister of National Revenue (the “Minister”) that Mr. K. S. Choi was engaged by it during the year in insurable employment and pensionable employment under the Employment Insurance Act (the “EIA”)[1] and the Canada Pension Plan (the “CPP”).[2] The decision is based on the Minister’s finding that Mr. Choi was an employee for the period May 31, 2004 to December 31, 2004. Mr. Choi appeared at the hearing as an Intervener. Giving evidence for the Appellant was Mr. P. Chaye and his wife who were the only shareholders and officers of the company at all relevant times.
+[2] The Appellant raised a number of issues at the hearing. Three issues merit consideration.
+[3] Firstly, the engagement of the Intervener is argued to have been assumed by a Mr. SH Jung, an individual who resided in Korea and whom the Appellant sought to engage or work with in Korea in respect of securing a contract to provide data control solutions and systems to semiconductor installations in Korea. The principal business target was Hynix Semiconductor, Korea. The Appellant asserts that Mr. Jung should be regarded at law as the person engaging the services of the Intervener. The Respondent argued that the Appellant engaged the Intervener’s employment services. In the alternative, the Respondent argued that the Appellant is a deemed employer under section 10 of the EI Regulations[3] and section 8.1 of the CPP Regulations.[4]
+[4] Secondly, the Appellant argues that if the Intervener is found to have been engaged by it, then the engagement was as an independent contractor not as an employee.
+[5] Thirdly, since it is not in dispute that the Intervener’s work was performed entirely in Korea, it is argued that various conditions required to be met under the EI Regulations and CPP Regulations respecting employment services performed outside Canada have not been met. In particular, the provisions that warrant review are section 5 of the EI Regulations and paragraph 16(1)(b) of the CPP Regulations.
+First Issue – Who Engaged the Intervener During the Subject Period
+[6] While I have difficulty with the reliability of the testimony of all three witnesses, there is sufficient documentary and common evidence to make my fact finding mission straightforward particularly when they are combined with probable inferences and assumptions in the Reply that have not been sufficiently rebutted.
+[7] I am satisfied that the Intervener was a resident of and ordinarily resided in Canada at all relevant times[5]. He had sought Canadian residency some time prior to his engagement to work on the Hynix project. A Confirmation of Permanent Residence issued by Citizenship and Immigration Canada shows the date of his becoming a permanent resident of Canada as May 10, 2004. His family had moved to Canada. His residential ties were in Canada. Prior to taking up residency in Canada, he was a resident of Korea. His presence in Korea during the subject period was temporary and solely for the purpose of performing services in respect of the Hynix project – a fortuitous opportunity that he learned of just prior to the time he achieved permanent residency status in Canada but after his residential ties to Canada had been established and his residential ties to Korea had been severed.
+[8] The Appellant needed a qualified worker with an engineering background who spoke Korean to work on securing a contract with Hynix. The worker was required to stay in Korea until the contract was secured.[6] The Appellant also needed a business presence in Korea with contacts at Hynix. The Intervener fit the bill as a suitable worker and Mr. Jung fit the bill as the business presence.
+[9] Initial discussions with the Intervener were in April and May of 2004, and a formal engagement was entered into by May 31, 2004. That engagement was with the Appellant. Of this I have absolutely no doubt. There is a written contract crafted by Mr. Chaye setting out the parties as the Appellant and the Intervener. There is absolutely no evidence that the contract was made on behalf of any other party. The Appellant made payments under the contract and, by Mr. Chaye’s own testimony, the written version of the contract was entered into expressly to underline that the Intervener was engaged by the Appellant – not by Mr. Jung or by any entity or association owned or controlled by Mr. Jung.[7] That it seems probable that the parties (the Intervener, Mr. Jung and Mr. Chaye) were all familiar with each other (whether by prior associations or by way of introductions by yet another interested party who knew all of these individuals) does not lead to any probable inference that the Intervener was Mr. Jung’s man from the start. As will be discussed later in these Reasons, it is not credible that the Intervener was ever meant to be responsible to report to anyone other than Mr. Chaye. After all, Mr. Chaye was the engineer most familiar with the systems being marketed. He had to stay in control of the entire project to protect the Appellant’s interest in its own intellectual property. He needed the Intervener in his employ to help ensure this result.
+[10] Further, I note that any suggestion that at some point Mr. Jung assumed the role of the person engaging the Intervener is nothing more than a fanciful argument raised late in the proceedings reflecting the Appellant’s willingness to grasp at any straw to assist its cause. I have reached this conclusion even though I accept the evidence that Mr. Jung set up a sole proprietorship to ostensibly contract with Hynix to the exclusion of the Appellant and that he claimed in writing as early as July 2004 that all employees working on the Hynix project were his. As well, I accept that Mr. Jung paid one expense claim of the Intervener in the amount of some $5,000.00 and that the Intervener continued to work in Mr. Jung’s office in Korea after Mr. Jung appeared to be taking over the project for his own account. However, even taken together, these facts do little to undermine the documentary evidence before me and Mr. Chaye’s own testimony as to his reason for entering into a written employment contract. While Mr. Jung may well have presented himself as having rights to the Hynix contract, at the end of day, he paid the Appellant $220,000.00 on his receiving project funds from Hynix in December 2004. This suggests that Mr. Jung ultimately recognized that each of them had an interest in the contract with Hynix. The Appellant then paid the Intervener pointing again to the conclusion that the Intervener was engaged by the Appellant. Further, I note that regardless of this finding, the Appellant would be a deemed employer under the regulations cited above.
+Second Issue: Employment vs. Independent Contractor
+[11] As I noted in my decision in Maliyar v. The Queen,[8] recent jurisprudence on independent contractor versus employee status has turned to examine more closely the intentions of the parties in certain cases.[9] In this case resort to an intentions test is likely not necessary given that the traditional tests applied in Wiebe Door Services Ltd. v. M.N.R.[10] and in 671122 Ontario Ltd. v. Sagaz Industries Canada Inc.,[11] lead me to conclude that the Intervener was an employee of the Appellant. Applying those tests, the case at bar is not a close case.[12] Still, I believe it is helpful to consider evidence that demonstrates the intentions of the parties. It is not a factor that should be ignored.[13]
+[12] In this case the written contract speaks clearly to the intentions of the parties and the performance of it reflects those intentions in an equally clear manner. The contract is headed “Employment Agreement” (Exhibit A-4) and includes the following provisions:
+This EMPLOYMENT AGREEMENT is effective between DatEx Semiconductor Inc., a company incorporated under the laws of British Columbia, Canada and having an office at 978 30th Avenue, Vancouver, BC, Canada, (the “Company”) and Kuk-Sung Choi at 121 Paperbirch Cres., London, Ontario, Canada (the “Employee”).
+1. For good consideration, the Company employs the Employee on the following terms and conditions.
+2. Term of Employment. Subject to the provisions for termination set forth below this agreement will begin on May 31, 2004, unless sooner terminated.
+3. Duties and Position. The Company hires the Employee in the capacity of Applications Engineer. The Employee’s duties may be reasonably modified at the Company’s discretion from time to time.
+4. Salary. The Company shall pay Employee a salary of $40,000 USD per year, for the services of the Employee, payable at regular payroll periods.
+…
+7. Foreign Assignment. The Employee is required to work at the Company’s office in Korea from May 31, 2004 to December 31, 2004. The Company shall reimburse the Employee for two trips of two-week duration for the period of foreign assignment.
+8. Vacation. The Employee shall be entitled to a yearly vacation of three weeks at full pay.
+9. Reimbursement of Expenses. The Employee may incur reasonable expenses for furthering the Company’s business, including expenses for entertainment, travel, and similar items. The Company shall reimburse Employee for all business expenses after the Employee presents an itemized account of expenditures, pursuant to Company policy.
+10. Employee to Devote Full Time to Company. The Employee will devote full time, attention, and energies to the business of the Company, and during this employment, will not engage in any other business activity, regardless of whether such activity is pursued for profit, gain, or other pecuniary advantage. Employee is not prohibited from making personal investments in any other businesses provided those investments do not require active involvement in the operation of said companies.
+…
+12. Disability. In the event that the Employee cannot perform the duties because of illness or incapacity for a period of more than four weeks, the compensation otherwise due during said illness or incapacity will be reduced by fifty percent. The Employee’s full compensation will be reinstated upon return to work. However, if the Employee is absent from work for any reason for a continuous period of over three months, the Company may terminate the Employee’s employment, and the Company’s obligations under this agreement will cease on that date.
+13. Death Benefit. Should Employee die during the term of employment, the Company shall pay to Employee’s estate any compensation due through the end of the month in which death occurred.
+14. Termination of Agreement. Without cause, the Company may terminate this agreement at any time upon two weeks’ written notice to the Employee. If the Company requests, the Employee will continue to perform his/her duties and may be paid his/her regular salary up to the date of termination. In addition, the Company will pay the Employee on the date of the termination a severance allowance of equivalent to two weeks’ salary less taxes and social security required to be withheld. Without cause, the Employee may terminate employment upon two weeks’ written notice to the Company. Employee may be required to perform his or her duties and will be paid the regular salary to date of termination but shall not receive severance allowance. Notwithstanding anything to the contrary contained in this agreement, the Company may terminate the Employee’s employment upon two weeks’ notice to the Employee should any of the following events occur:
+(A) The sale of substantially all of the Company’s assets to a single purchaser or group of associated purchasers; or
+(B) The sale, exchange, or other disposition, in one transaction of the majority of the Company’s outstanding corporate shares; or
+(C) The Company’s decision to terminate its business and liquidate its assets;
+(D) The merger or consolidation of the Company with another company.
+(E) Bankruptcy or its related reorganization.
+...
+[13] Mr. Chaye testified on one hand that he did not understand the difference between this form of contract and one engaging an independent contractor but then, on the other hand, he testified he entered into the contract to demonstrate his control over key personnel. He also produced an independent contractor contract (that he said he later crafted in regard to another engagement) to show how they could have many similarities. I have no doubt that Mr. Chaye crafted these agreements using precedents he found on‑line with an understanding of their meaning and with every intention at the time they were created to give effect to that meaning. That he did not foresee the consequences of the employment contract with the Intervener that led to this appeal, is not relevant.
+[14] Further, I have little doubt that the provisions in the contract that point to its nature are descriptive of the relationship intended. The best example of this is seen in the performance of the payment obligation under the contract. Payments to the Intervener were all net of deductions applicable to salaries to an employee.
+[15] The Intervener produced an accounting record of his monthly remuneration that was not challenged. For June 2004, based on an agreed annual salary amount of $52,000.00 Canadian, a monthly salary was calculated as $4,366.66. Employee deductions for federal and provincial income tax together with deductions for EI and CPP are shown on the accounting record leaving net pay of $3,169.51. The Appellant deposited this amount in the Intervener’s Canadian bank account in July on account of the Intervener’s salary for June.[14] A cheque for the same amount was given to the Intervener for July although it was not deposited until September. The next payment was in mid‑December 2004 when Mr. Chaye gave the Intervener in Korean funds the Canadian dollar equivalent of $28,345.00. This sum represented five months’ salary of $3,169.50 per month for August through December 2004 inclusive and $12,498.00 for reimbursement of expenses. That is, for the entire period, payments were made on the basis that employment deductions applied yet the Appellant made no remittances. This leads to an untenable contradiction in the Appellant’s approach. The understanding reflected by the effective withholding of statutory deduction amounts reflects a mutual intention that the engagement be one of employment.
+The Wiebe Door and Sagaz Tests.
+Control
+[16] From May 31, 2004 to December 14, 2004 the Intervener spent almost all of his time in Korea. He devoted his time exclusively to the Hynix project. While the testimony of the Intervener was that he reported daily to Mr. Chaye and followed his directions, Mr. Chaye testified that the Intervener was retained as an applications engineer who was able to test and work out application problems on the Hynix project and, as such, was not subject to the Appellant’s control over work done. Mr. Chaye was not credible on this aspect of his testimony. Indeed, so much of his testimony appeared rehearsed and spun to match factual findings in cases that found independent contractor relationships to exist, that his entire credibility was impaired.[15] It is simply not credible that he was not supervising the work that the Intervener performed. He suggested that the Intervener’s expertise took him outside his control but Mr. Chaye was an engineer with the most knowledge of the systems being employed in the Hynix project. It is not credible that he did not direct the Intervener’s work on a regular basis. This is not a case of an expert working for management lacking in the necessary expertise. This is a case of an expert manager working with a lesser expert under his direction.
+[17] The Appellant argued that there was time off of some seven weeks over seven months which showed more freedom as to work schedules than afforded employees as well as showing that the written terms of the contract were a fiction not reflective of the substantive realities of the relationship. Two of the seven weeks counted were after the December 14 payout when work ceased. These two weeks coincide with the termination allowance in the contract. Two additional weeks were related to deaths in the Intervener’s family and may not have been full weeks off work. As well, some latitude was likely agreed to in respect of two trips to Canada where the Intervener’s family resided and even during these stays it appears likely on the evidence that the Intervener was meeting with Mr. Chaye. This is just another example, in my view, of the Appellant attempting to put a spin on the facts to achieve a desired appearance. I am satisfied that the work was full time and subservient in nature. As well, if another project had emerged, the Intervener could have been directed to work on such other project. Indeed this had been the Appellant’s hope but additional projects did not materialize.
+Tools
+[18] Tools, as a factor in determining the engagement status of the Intervener, are of minimal importance in this case. There were some small testing tools used by the Intervener and there was, more importantly, the computer he used in almost every aspect of his work. These were all expensed to and paid for by the Appellant. That the Intervener was allowed to keep the computer after the engagement was terminated, for lack of work, is not relevant.
+Risk of Loss/Chance of Profit
+[19] The Intervener has not made a capital investment in a business of his own. He has no entrepreneurial risk of loss. The Intervener working for a fixed annual salary amount had no chance of profit and the failure of the Appellant to make timely payments due to its financial situation is a risk any employee takes when continuing to work for a financially distressed employer who asks workers to stay on pending the completion of a project and an influx of funds. Further, while there was a risk on the timing of payments that was accepted by the Intervener, I see no basis for believing that aside from solvency issues that the Appellant would not be responsible for the payment of the Intervener’s wages. In any event, such risks taken by employees are not the entrepreneurial risks envisioned by an analysis that considers the risk of loss as a factor in the determination of the status of a worker.
+Integration/Whose Business Is It?
+[20] The Intervener does not have a business that stands independently from the business of the Appellant. He displays none of the trappings of a business. There is nothing to even suggest that he ever considered the possibility of having a business source and treating his salary from the Appellant as income from that source. It is hard to imagine a case where a worker can be found to be in business when that worker has not given even the slightest indication, not even passive acceptance of an imposed independent contractor status, that he or she has a business source. To the contrary, the Intervener computed his own wage entitlement as net of employee deductions and accepted a contract that was waved in Hynix’s face as proof that the data collection project and the Intervener were both part of the Appellant’s business.
+[21] Based on the application of these traditional tests, it is clear that the Minister’s decision that the Intervener was an employee during the subject period is unassailable.
+The Third Issue: Are Regulatory Requirements Met Where Work is Performed Outside Canada
+[22] Unlike many provisions of the EIA and the CPP and their Regulations, the provisions in each of these regimes dealing with employees working outside Canada are not parallel provisions.
+[23] Section 5 of the EI Regulations provides that employment outside of Canada is included in insurable employment if:
+(a) the person so employed ordinarily resides in Canada;
+(b) that employment is outside Canada or partly outside Canada by an employer who is resident or has a place of business in Canada;
+(c) the employment would be insurable employment if it were in Canada; and
+(d) the employment is not insurable employment under the laws of the country in which it takes place.
+[24] The requirements set out in paragraphs (a), (b) and (c) are met. Whether the Intervener’s employment is insurable under the EIA turns then on whether his employment was insurable under the laws of Korea.
+[25] Subsection 16(1) of the CPP Regulations provides that pensionable employment includes employment outside of Canada that would be pensionable employment if it were in Canada and if any one of a number of factual situations apply. Having already determined effectively that the Intervener’s employment by the Appellant was pensionable employment if it were in Canada, the issue is whether any of the enumerated factual situations in subsection 16(1) apply in this case. The Respondent relies on the factual situation set out in paragraph 16(1)(b), which will include the subject employment as pensionable if the employee:
+(b) is resident in Canada and is paid at or from an establishment in Canada of his employer;
+EIA – Paragraph 5(1)(d)
+[26] As to paragraph 5(1)(d) of the EIA Regulations, I have little evidence suggesting that the subject employment is or is not insurable in Korea. Clearly, whether the Intervener was insurable under the laws of Korean law is a question of law, not fact. That statements or conclusions of law have no place in the recitation of the Respondent’s factual assumptions[16] does not mean that foreign law should not be cited. For the Minister to have determined that the subject employment was insurable, Korean law should have been considered in the light of facts assumed in the making such determination. That does not appear to have occurred.
+[27] Having not been presented with Korean law (and a quick internet search reveals that Korea does have an insurance scheme for unemployed workers) and not knowing what facts would have to have been assumed, or now be proven, to make a determination as to whether the subject employment was insurable under Korean law, leaves me to consider that the appeal might thereby be allowed. Without such assumptions actually having been made by the Respondent and expressed at least in the Reply, how does the Appellant know the case it has to meet?
+[28] Allowing the appeal on such basis does not sit well considering that a third party’s right is at stake here as well as that of the Appellant. Should the Minister’s failures result in the Intervener being found not have been engaged in insurable employment? Indeed, can the Appellant sit back in the circumstances of this case, having effectively withheld EI premiums from payments made to the Intervener, and leave it entirely to the Respondent to establish that the Intervener was not covered under Korean law? Can the Appellant say it does not know the case it has to meet when it relies on the subject regulation or can it plead ignorance of the laws of the country to which it sends its workers and then plead ignorance of the worker’s circumstances in respect to the application of such laws?
+[29] The best way for me to approach such questions in this case at least is to consider the evidence I do have - as meagre as it is. The Intervener was asked by Respondent’s counsel if he paid any amount into an insurance scheme or pension plan in Korea and the answer was “no”. This answer, suggesting that Korea might not have the necessary employment insurance laws or, if it did, that it was not complied with, is not very compelling evidence that there was or was not an employment insurance scheme in Korea that afforded the Intervener coverage. The test is whether there is an applicable regime in Korea not whether it existed or was complied with. Nonetheless, I am satisfied that in the circumstances of this case, the Respondent has by virtue of this evidence established a prime facie case that requires an answer from the Appellant. No such answer was forthcoming and on that basis considering all the factors mentioned above, I find that there is a burden on the Appellant in this case that has not been satisfied. Accordingly, I find that the determination of the Minister respecting the requirements of section 5 of the EI Regulations should not be overturned and that the appeal under the EIA is thereby dismissed.
+CPP – Subsection 16(1)
+[30] I turn now to the requirements of subsection 16(1) of the CPP Regulations. For the subject employment to be pensionable, paragraph (b) requires that the Intervener, a resident of Canada, be paid at or from an establishment in Canada of his employer.
+[31] The Appellant argues the payments were not made at or from an establishment in Canada. The Respondent made no assumption in the Reply as to this assertion. As well, and importantly, although the decision of the Minister refers to paragraph 16(1)(b), the only reason given for the decision was that the Intervener was engaged under a contract of service. The questionnaire relied on to help make this determination did not ask a single question as to how the payment was made. There is no indication anywhere that the officer making the determination on behalf of the Minister even contemplated the relevance of such questions. The reference to paragraph 16(1)(b) suggests nothing more than a determination of residence in Canada was made. On this basis I should find that the Respondent has the burden to prove that the payment was made at or from an establishment in Canada of the Appellant.
+[32] The Respondent argued that this issue was not specifically pleaded. Indeed the issue took me by surprise as much as it did Respondent’s counsel. However, in the Notice of Appeal the reasons for the appeal are the denial that the work performed was under a contract of service and “Additionally, this work was not performed in any part inside Canada, nor does such work exist in any way within Canada”. This is not a clear pleading of the issue but sufficient in my view, in an informal procedure case where the Appellant is without legal counsel, to warrant a finding that any ambiguity or shortfall in the Notice of Appeal should not alter my position that the issue is properly before me and that the onus of proof should be on the Respondent. The factual basis for the issue to be examined was pleaded and the issue arose in the normal course of reviewing the applicable provisions relating to those facts. The Minister was aware of these facts and the officer who made the determination on behalf of the Minister had ample opportunity to make enquiries to obtain information on which to base an assumption that the payments to the Intervener were at or from an establishment in Canada. Accordingly, I find no prejudicial fault in the pleadings per se that bears on the burden issue. Such finding however is ultimately of academic interest only. The evidence at trial is sufficient to make a judgment on the subject provision on the facts of this case.
+[33] As a starting point for determining whether the subject payments were made at or from an establishment in Canada of the Appellant, it is necessary to consider the definition of “establishment in Canada”.
+[34] Subsection 15(1) of the CPP Regulations defines an “establishment in Canada” as follows:
+… with respect to an employer, means any office, warehouse, factory, oil well, gas well, mine, workshop, farm, timber, land, pier, wharf, school, college, club, residence, hotel, motel, restaurant, tavern, bar or any other place or premises in Canada that is owned, leased or licensed by the employer and where the employer or one or more of his employees works or reports for work or from or at which one or more of his employees are paid.
+[35] The Employment Agreement refers to the employer’s office at 978 – 30th Avenue, Vancouver, British Columbia. This is the personal residence of Mr. Chaye and his wife. As well it is the registered head office of the Appellant. The evidence leads me to believe that this is the principal place where the Appellant conducts its business in Canada and in any event meets the test of a premises at which employees (Mr. Chaye and his wife) work.
+[36] However, there is an additional test. Such premises must be owned, leased or licensed by the employer. I have no reason to believe that the Appellant owned the premises, but I have no hesitation in finding that it operated there under a lease or license. The Appellant’s presence and the presence of its officers are not as trespassers. No formal lease or license is required to constitute a lease or license which can be a simple right of occupation and which need not be exclusive.[17] Mr. Chaye and his wife clearly have a right to be at the subject premises in both their personal capacities and their capacities as employed officers of the Appellant. To find otherwise would mean home offices could never be an establishment in the context of the CPP Regulations.
+[37] Finally, there is the issue of whether under the paragraph 16(1)(b) requirement, the subject premises was the place “at or from” which the Intervener was paid.
+[38] The circumstances surrounding the three payments made to the Intervener are as follows:
+1. On June 29, 2004, Orah Chaye paid the Intervener $3,169.51 in Canadian dollars in consideration for services performed by the Intervener for the Appellant during the month of June 2004. She drew the amount from her personal chequing Canadian bank account. It appears that it was by direct deposit to the Intervener’s Canadian bank account. The evidence supports the likelihood that the direction for the transfer must have been done from her home; i.e. from the Appellant’s establishment in Canada. Applying the plain meaning of the word “from” it seems apparent that this first payment should meet the requirement in paragraph 16(1)(b).
+2. In late July 2004, Orah Chaye gave the Intervener a cheque for $3,169.51 in Canadian dollars. It was drawn from her Canadian chequing account in consideration for services performed by the Intervener during the month of July 2004. The Intervener deposited the cheque on September 3, 2004. The cheque would have been delivered in Canada as the Intervener was in Canada from July 20th to August 2nd, 2004 and there is no evidence to suggest that Mr. or Mrs. Chaye were out of Canada at that time. In fact, the Intervener testified that he received the cheque directly from Mr. Chaye at Mr. Chaye’s house. That the Intervener held off depositing the cheque in his Canadian account does not alter the fact that the payment was made in Canada. Applying the plain meaning of the word “at”, it seems apparent that this second payment should meet the requirement in paragraph 16(1)(b) if I accept that the payment was delivered to the Intervener at the Appellant’s home office. Even not accepting the Appellant’s office as the delivery point of the payment, applying the plain meaning of the word “from”, it seems apparent that this payment should meet the requirement in paragraph 16(1)(b).
+3. On December 14, 2004, Mr. Chaye gave the Intervener 24,861,044 Korean won in cash in Korea. Mr. Jung had just paid the Appellant in Korean currency the equivalent of $220,000.00 Canadian. It appears that Mr. Chaye deposited this amount in a Korean account and then withdrew 24,861,044 Korean won and gave it to the Intervener who in turn deposited the funds in an account in Korea[18]. At the time, the amount was worth approximately $28,345.00 Canadian. In this case it is clearly harder to find that the payment was “at or from” the Appellant’s Canadian establishment.
+[39] The question that arises in each of these payment scenarios is: what nexus is required to conclude that the payments were made “at or from” the Appellant’s establishment in Canada. The meaning of those words should not vary from case to case. The results should only vary from case to case depending on the meaning of those words and the application of that meaning to the facts in a given case.
+[40] As noted, the nexus to the Appellant’s establishment in Canada is clear in respect of the first two payments. This is not the case in respect of the third payment. The first two payments, in a mechanical sense at least, were generated from the home office. The bank records (cheque books) are presumably and seemingly there. The authorized signing officers are there. In the normal course, direct bank transfers are initiated there and cheques are prepared there. I think it is fair to say then that the first two payments were not only generated from the home office but it is also the case that the administration of the payment process was there. In that sense the source of the payments was the home office regardless of how funds were transferred.
+[41] In the context of paragraph 16(1)(b), once it can be said that a place is the source of the payment then it can be said that it is the place from where the payment is made regardless of the method of transfer of funds. The Canadian Oxford Dictionary[19] offers a definition of “from” as:
+expressing separation or origin, followed by: 1 a a person, place, time, etc. that is the staring point of motion or action… b the starting point of an extent in time. 2 a place, object, etc. whose distance or remoteness is reckoned or stated … 3 a a source … (emphasis added)
+[42] This supports the view that the place of administering or generating payments can be considered as a relevant nexus in determining where a payment has been made “from”. Applying this nexus relieves concerns about absurd results should the provision be read so literally as to require that funds for payment actually have to be physically located at the employer’s establishment. As the Respondent argued:
+An establishment may be the source of a payment even when the funds were never physically located at that establishment. To hold otherwise would lead to the absurd result that two employees whose salary is administered at the same establishment are treated differently, simply because one is paid by direct deposit from a bank account of his employer while the other receives a cheque in the mail from the establishment itself.
+[43] However, the place of administering or generating payments may not always be as readily apparent as in the case of the first two payments. Consider the case where an employer uses a payroll service company to make payments to its employees. I can imagine the confusion if a Canada Revenue Agency (“CRA”) questionnaire asked a worker in that case if the wage was paid at or from the employer’s establishment. The language of the subject regulation does not readily or easily fit the world we live in. Nonetheless, a construction must be given to it that does not create absurd results or absurd distinctions.
+[44] To avoid an absurd distinction in the case of a payroll service being engaged, it seems necessary to take a broader view of what I have already referred to as a relevant nexus, namely, the place of administering or generating payments. Regardless of the place where mechanical steps are taken to effect delivery of a payment (such as the office of a payroll service), there may still be an administrative centre at a different place from which payments are effectively generated or sourced (such as the employer’s office). To avoid absurd distinctions, the latter office might properly be considered as the place from where payments are made. I say “might” at this point because the relevance of any number of possible connecting factors requires consideration of a more fundamental issue; namely, whether the subject provision should be given an inclusive construction or an exclusive construction.
+[45] With that question in mind I turn now to consider the third payment.
+[46] The Appellant argues that paragraph 16(1)(b) was not meant to capture a foreign currency transaction conducted entirely on the other side of the world in a foreign country in a foreign currency where the funds were never present in or administered in Canada. The transactions giving rise to the payment of the funds all occurred in the country where the worker performed his services. The payment was made outside Canada and to say that they were administered or sourced in any way from or in Canada would be a fiction.
+[47] The Respondent argues that since the Canadian home office is the only establishment to attribute the payment as being “at or from”, then by necessary inference it must arise from that place. The Respondent finds support for this construction in that it furthers the social objectives of the provision. On the other hand, why leave the furtherance of an objective to inference? If the test suggested by the Respondent were intended, it would have been simple enough to write the provision on the basis that employment is included in pensionable employment unless payments to the worker are paid from a foreign establishment of the employer or it might have been written to include cases where payments are made by the Canadian employer. These are not the tests as written. On that basis it strikes me that the intention of the subject provision as written might well be to exclude workers working abroad unless a very specific connection to Canada is established.
+[48] Such construction seems however to defy common sense. The provision, as worded, clearly amounts to little more than an elective provision. To preserve pensionable earnings one need only arrange payment at the employer’s Canadian establishment. No metaphysical analysis is required. Canadians working abroad can be assured the full benefit of the CPP by simply having the employer direct deposit funds from its Canadian bank to the employee’s bank. That, in my view, suggests that the subject provision should not be read so strictly as to deny Canadian pensionable earnings in the case of work performed abroad simply by virtue of some circumstantial variations in the method or mechanics of delivering payments particularly where there is only an isolated variation. In this context the subject provision should be given an inclusive construction.
+[49] In the case at bar, I am dealing with nothing more than a circumstantial variation in the method or mechanics of payment. The first two payments are in respect of pensionable earnings because the mechanics of those payments are clearly within the scope of the subject provision. The mechanics of the third payment are not; however, the difference in mechanics arises only from circumstantial events.
+[50] The relevance of this can be seen in the analysis of another aspect of this issue. Both parties agree that if I find that the first and second payments are from the Canadian office and that the third payment is not, then I should find that the first two months of employment (June and July) are pensionable and that the months of August to December are not pensionable.
+[51] As a general principle, I do not agree that an engagement of this type should be bifurcated in this way if it puts too much emphasis on the mechanical and circumstantial aspects of a payment. Such emphasis could lead to untenable results particularly where people today are so mobile and money can be “paid” or transferred in so many ways. The scheme of the CPP in the context of paragraph 16(1)(b) does not suggest that each and every payment must be examined in isolation in terms of its mechanical procedures. As noted in paragraph 44 of these Reasons, mechanical steps in effecting payments may not themselves be determinative. Even more compelling than that proposition is the proposition that the Plan cannot be read as requiring that the status of an engagement over a particular period change every time the mechanics of payment change simply by virtue of an isolated and extraordinary circumstance without a substantive change in the payment arrangement contemplated or normally and regularly followed.
+[52] In the case at bar one might ask then whether the payment method in respect of the first two payments was dictated solely by an isolated circumstance such as the Intervener being in Canada. Alternatively, one might ask whether the payment method in respect of the third payment was dictated solely by an isolated circumstance such as Mr. Chaye and the Intervener both being present in Korea when money was available so that, as an isolated event, payment could be made there.
+[53] I am satisfied that it was the last payment that was an isolated event. In June and July the Appellant was funding the Intervener’s engagement and payments were made from the home office. The home office was the place from where payments were administratively generated. This demonstrates what the normal and regular payment arrangement was to be. That substantial funds were turned over to the Intervener in Korea in December as opposed to being repatriated to Canada and delivered to the Intervener in the normal and regular fashion contemplated by the first two payments should not bar the Intervener from having pensionable earnings. The December payment was an isolated circumstantial event. An inclusive construction of the subject provision would not permit such an event as requiring a finding, in respect of the subject period as a whole, that any part of it was not pensionable.
+[54] In coming to this conclusion and relying on the essentially elective nature of the subject provision, it does not escape me that the manner of payment in these cases is a cooperative effort. An employer who refuses to let an employee enjoy the benefits of the CPP might be able to frustrate the inclusive approach by adopting an offside payment regime. That however has not happened in the case at bar. By continuing to accept that the Intervener’s wage was net of CPP amounts, the Appellant has implicitly confirmed that the payment arrangement contemplated, and to be normally and regularly followed, was that evidenced by the first two payments. To find otherwise in this case would, short of further claims by the Intervener, put the Appellant in an unjustly enriched position.
+[55] In coming to this conclusion I wish to emphasize that although I have accepted that “from” includes a source and have identified factors to consider in determining that a particular place was the source of a payment – such as the place where payments are administered or the place where funds are normally administratively generated – it is clear that such factors are not exhaustive and would not in all cases be determinative. The subject provision is not easy to apply and its application will depend on the facts and circumstances of each case.
+[56] One last comment before concluding these Reasons is that I have considered the French version of the subject provision which reads as follows:
+16. (1) L’emploi ouvrant droit à pension comprend l’emploi hors du Canada (sauf l’emploi dans le transport international) qui ouvrirait droit à pension s’il était exercé au Canada, si l’employé qui l’occupe
+b) est un résident du Canada et reçoit son salaire à un établissement de son employeur situé au Canada ou dudit établissement;
+This version of paragraph 16(1)(b) is consistent with the English version and offers no assistance or further insight as to its proper construction. As in the English version it requires that the worker receive his salary at his employer’s establishment situated in Canada, or from the aforementioned (dudit) establishment.
+[57] Accordingly for the reasons set out above, the Appellant’s appeals under both the EIA and the CPP are dismissed.
+Signed at Ottawa, Canada, this 27th day of April 2007.
+“J.E. Hershfield”
+Hershfield J.
+CITATION:
+2007TCC189
+COURT FILE NOS.:
+2006-350(EI) and 2006-353(CPP)
+STYLE OF CAUSE:
+DatEx Semiconductor Incorporated and The Minister of National Revenue and Kuk Sung Choi
+PLACE OF HEARING:
+Vancouver, British Columbia
+DATE OF HEARING:
+December 12, 2007
+REASONS FOR JUDGMENT BY:
+The Honourable Justice J.E. Hershfield
+DATE OF JUDGMENT:
+April 27, 2007
+APPEARANCES:
+Agents for the Appellant:
+Patrick Chaye and Orah Chaye
+Counsel for the Respondent:
+For the Intervener:
+Sara Fairbridge
+Oren Bick (Student-At-Law)
+The Intervener himself
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] S.C. 1996, c. 23.
+[2] R.S.C. 1985, c. C-8.
+[3] Employment Insurance Regulations, SOR/96-332 [“EI Regulations”].
+[4] Canada Pension Plan Regulations, C.R.C., c. 385 [“CPP Regulations”].
+[5] Thomson v. M.N.R., [1946] S.C.R. 209, 2 DTC 812; Beament v. M.N.R., [1952] 2 S.C.R. 486, 52 DTC 1183; Schujahn v. M.N.R., 62 DTC 1225.
+[6] The Intervener’s continued engagement was anticipated after the Hynix contract was secured for work at other locations where semiconductor installations might be targeted, including possible sites in North America.
+[7] This testimony was given on the basis that the written contract did not come into existence until September 2004 when Mr. Chaye needed to undermine Mr. Jung’s attempts to deal with Hynix for his own account. That is, it was necessary for the Appellant to show that it had the key personnel and know-how associated with the data services being marketed to Hynix. While it seems more likely that the written contract existed much earlier as testified to by the Intervener, it is, in any event, clear that it reflected the terms of the engagement entered into at the end of May with the Appellant as the engaging party.
+[8] 2006 TCC 671.
+[9] See for example Wolf v. Canada, 2002 FCA 96, 2002 DTC 6853; Direct Care In-Home Services Inc. v. Canada, 2005 TCC 173; Royal Winnipeg Ballet v. M.N.R, 2006 FCA 87; Art City in St. James Town v. M.N.R, 2006 TCC 507; Freeway Technologies Inc. v. M.N.R., 2006 TCC 243; and City Water International Inc. v. The Queen, 2006 FCA 350.
+[10] 87 DTC 5025.
+[11] [2001] 2 S.C.R. 983.
+[12] City Water International Inc. v. The Queen, 2006 FCA 350.
+[13] Freeway Technologies Inc. v. M.N.R., 2006 TCC 243.
+[14] The payment was made by Mrs. Chaye from her personal account. While she would not admit that it was a payment on behalf of the Appellant, it is beyond reason to think that she had a personal obligation. Clearly the payment was made to satisfy the Appellant’s obligation and is properly regarded at law as a constructive payment by the Appellant.
+[15] Examples of credibility issues concerning Mr. Chaye's testimony are numerous. He said the payment to the Intervener in December 2004 of $28,345.00 reflected a moral obligation not a legal one and then argued that the Intervener took an entrepreneurial risk in waiting five months to get paid his remuneration and expenses under the contract. He spoke of the Intervener’s independence and of his own naivety in labelling the written contract as an employment contract but testified that the contract was purposefully written to underline that the Appellant controlled key personnel such as the Intervener. Also, his testimony that not all expenses were approved – particularly a large entertainment expense - was a shallow attempt to paint a self-serving picture. Expenses were paid as presented - that is, they were approved and only self-interested testimony now seeks to re-cast such events in a light that might aid the Appellant’s case. The picture the Appellant tried to paint is distorted by self-interest. The Intervener fared no better. Indeed, his testimony was equally or more unreliable and self-serving. For example, he denied both having signing authority on an account maintained for the Hynix project by Mr. Jung and receiving any expense reimbursements from Mr. Jung until presented with documents establishing otherwise.
+[16] See Her Majesty the Queen v. Anchor Pointe Energy Ltd., 2003 DTC 5512 para 25.
+[17] Black Law’s Dictionary, 8th ed., s.v. “license”.
+[18] The evidence is unclear as to whether Mr. Chaye deposited the funds received by Mr. Jung in an account in Korea before paying the Intervener. However, nothing ultimately turns on this point, in my view.
+[19] 2d ed., s.v. “from”.

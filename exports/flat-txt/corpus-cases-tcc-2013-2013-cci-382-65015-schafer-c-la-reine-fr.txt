@@ -1,0 +1,329 @@
+Title: Schafer c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/65015/index.do
+Corpus path: corpus/cases/tcc/2013/2013-cci-382-65015-schafer-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2013-12-02
+
+# Schafer c. La Reine
+
+- Citation: 2013 CCI 382
+- Decision date: 2013-12-02
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5901, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Schafer c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2013-12-02
+Référence neutre
+2013 CCI 382
+Numéro de dossier
+2010-757(IT)G
+Juges et Officiers taxateurs
+Georgette Anne Sheridan
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2010-757(IT)G
+ENTRE :
+LARRY GORDON SCHAFER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec l’appel
+d’Amisk Investments Limited 2010-672(IT)G,
+les 18 et 19 septembre 2013 à Calgary (Alberta).
+Devant : L’honorable juge G. A. Sheridan
+Comparutions :
+Pour l’appelant :
+L’appelant lui‑même
+Avocate de l’intimée :
+Me Margaret McCabe
+____________________________________________________________________
+JUGEMENT
+Conformément aux motifs du jugement ci‑joints, l’appel interjeté à l’encontre de la nouvelle cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2005 est rejeté, avec dépens en faveur de l’intimée.
+Signé à Ottawa, Canada, ce 2e jour de décembre 2013.
+« G. A. Sheridan »
+Juge Sheridan
+Traduction certifiée conforme
+ce 12e jour de mars 2014.
+Mario Lagacé, jurilinguiste
+Dossier : 2010-672(IT)G
+ENTRE :
+AMISK INVESTMENTS LIMITED,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec l’appel de
+Larry Gordon Schafer 2010-757(IT)G,
+les 18 et 19 septembre 2013 à Calgary (Alberta).
+Devant : L’honorable juge G. A. Sheridan
+Comparutions :
+Représentant de l’appelante :
+Larry Gordon Schafer
+Avocate de l’intimée :
+Me Margaret McCabe
+____________________________________________________________________
+JUGEMENT
+Conformément aux motifs du jugement ci‑joints, l’appel interjeté à l’encontre de la nouvelle cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2005 est rejeté, avec dépens en faveur de l’intimée.
+Signé à Ottawa, Canada, ce 2e jour de décembre 2013.
+« G. A. Sheridan »
+Juge Sheridan
+Traduction certifiée conforme
+ce 12e jour de mars 2014.
+Mario Lagacé, jurilinguiste
+Référence : 2013 CCI 382
+Date : 20131202
+Dossier : 2010-757(IT)G
+ENTRE :
+LARRY GORDON SCHAFER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée;
+Dossier : 2010-672(IT)G
+ET ENTRE :
+AMISK INVESTMENTS LIMITED,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Sheridan
+[1] Amisk Investments Limited et Larry G. Schafer font appel des nouvelles cotisations établies par le ministre du Revenu national (le « ministre ») à leur égard relativement à l’année d’imposition 2005.
+[2] En 2005, M. Schafer exerçait la profession d’avocat depuis un bureau à domicile situé à Cranbrook, en Colombie-Britannique. Il a constitué son cabinet en société par actions sous le nom d’Amisk Investments Limited (« Amisk »). Il était le seul administrateur de la société, tandis que sa femme et lui en étaient actionnaires à parts égales. Mme Schafer s’occupait des aspects administratifs du cabinet.
+[3] En avril 2006, M. John Aam, vérificateur à l’Agence du revenu du Canada (le « vérificateur »), a amorcé une vérification de l’année d’imposition 2005 à l’égard d’Amisk, ce qui a abouti à l’établissement de nouvelles cotisations pour Amisk comme pour M. Schafer relativement à 2005. Le détail de ces nouvelles cotisations est donné ci-dessous.
+La nouvelle cotisation d’Amisk
+[4] Le ministre a ajouté au revenu d’Amisk pour 2005 des revenus non déclarés de 214 770 $ découlant prétendument des services juridiques fournis par M. Schafer. Ces 214 770 $ comprenaient 179 825 $ en honoraires ainsi que des intérêts afférents de 18 627 $ (les « honoraires et intérêts ») et des dépôts non identifiés totalisant 16 318 $ effectués dans le compte personnel de M. Schafer (les « dépôts non identifiés »). Le ministre a également imposé des pénalités pour faute lourde en application du paragraphe 163(2) de la Loi.
+[5] Dans son avis d’appel, Amisk a reconnu que les honoraires et intérêts n’avaient pas été déclarés au moment où la société avait produit sa déclaration de revenus de 2005, en février 2006. En ce qui concerne les dépôts non identifiés, au paragraphe 3 de son avis d’appel, Amisk allègue que, de ces 16 318 $ :
+a) 3 596 $[1] correspondent à des revenus qu’elle avait omis de déclarer par inadvertance;
+b) 3 560 $ (2 000 $, 560 $ et 1 000 $)[2] sont des revenus qu’elle a déclarés;
+c) le solde, 9 162 $, ne correspond pas à des revenus qu’elle a gagnés.
+[6] Lors de l’audition de son appel, toutefois, M. Schafer a affirmé, pour le compte d’Amisk, que la seule question dont la Cour était saisie était de savoir si l’imposition de pénalités pour faute lourde était justifiée[3]. Disons, en quelques mots, qu’Amisk affirme que les pénalités ne sont pas justifiées, parce que c’est par inadvertance qu’elle a omis de déclarer des sommes, et qu’elle a rapidement remédié à la situation. Dès qu’elle a appris qu’elle ferait l’objet d’une vérification, Amisk a procédé à un examen de ses livres et registres, repéré ses erreurs, produit une déclaration modifiée dans laquelle apparaissaient ses revenus d’honoraires et intérêts et payé l’impôt dû. Pour ce qui est des dépôts non identifiés, Amisk soutient que les pénalités pour faute lourde ne devraient pas être appliquées du fait que l’omission de les déclarer est le résultat d’une inadvertance et que les sommes en jeu sont [traduction] « minimes ».
+La nouvelle cotisation de M. Schafer
+[7] Par suite de l’établissement d’une nouvelle cotisation à l’égard d’Amisk, une nouvelle cotisation a également été établie relativement à l’année d’imposition 2005 pour M. Schafer afin d’inclure des revenus supplémentaires de 241 088 $ que M. Schafer aurait prélevés sur les revenus d’entreprise d’Amisk. Le ministre a considéré que cette appropriation constituait un avantage conféré à l’actionnaire conformément au paragraphe 15(1) de la Loi de l’impôt sur le revenu. Ces 241 088 $ comprenaient deux montants :
+a) un montant de 223 628 $ correspondant aux 214 770 $ d’honoraires et intérêts et à la TPS et à la TVP exigibles sur ces honoraires et intérêts (le « paiement de 223 628 $ »);
+b) un montant de 17 460 $ correspondant aux dépôts non identifiés et à la TPS exigible à l’égard de ceux‑ci, égale à 1 142 $ (« les dépôts non identifiés et la TPS »).
+[8] Pour ce qui est du paiement de 223 628 $, M. Schafer prétend avoir reçu cette somme d’Amisk sous la forme d’un prêt à l’actionnaire qu’il a remboursé en totalité en mai 2006, soit dans l’année suivant la fin de l’exercice d’Amisk, établie au 31 décembre. Compte tenu de la situation, il affirme que le paiement de 223 628 $ ne constituait pas un revenu pour lui en 2005. Ce montant n’était pas imposable et par conséquent, aucune pénalité ne pouvait être appliquée.
+[9] Quant aux 17 460 $ comprenant les dépôts non identifiés et la TPS, M. Schafer reconnaît[4] que les montants distincts de 4 100 $, de 2 000 $, de 560 $ et de 1 000 $ représentaient des dividendes que, par mégarde, il n’avait pas déclarés en 2005. C’est à tort que le reste de l’argent a été inclus dans ses revenus, parce qu’il comprenait des cadeaux en espèces de 1 500 $ reçus de son père et que les autres montants (5 000 $, 1 000 $ et 2 300 $) avaient été prélevés sur le salaire que lui versait Amisk et [traduction] « mis de côté » en vue des études universitaires de ses fils. M. Schafer soutient que les pénalités pour faute lourde ne sont pas justifiées du fait que c’est par inadvertance qu’il avait omis de les déclarer et que les sommes en jeu sont [traduction] « minimes ».
+Analyse
+[10] À l’audience, M. Schafer a affirmé, pour le compte d’Amisk, que la seule question que la Cour était appelée à trancher dans le cadre de l’appel de la société était de savoir si l’imposition de pénalités pour faute lourde était justifiée. Cette question sera abordée plus loin avec celle des pénalités imposées à M. Schafer dans sa nouvelle cotisation.
+[11] En ce qui concerne l’appel de M. Schafer, la question centrale est de savoir s’il a effectivement reçu le paiement de 223 628 $ fait par Amisk en tant que prêt à l’actionnaire. Se pose aussi la question de savoir dans quelle proportion il aurait dû inclure les dépôts non identifiés et la TPS dans ses revenus pour 2005, le cas échéant.
+[12] M. Schafer est le seul à avoir témoigné pour le compte des appelants. Il a consacré une bonne partie de son témoignage à son expérience comme avocat et à la nature des services qu’il offre. Il a entrepris sa carrière d’avocat à Vancouver, en 1980. Il y a d’abord travaillé comme avocat plaideur pour un grand cabinet, puis comme avocat interne au sein d’une grande entreprise du domaine de l’industrie lourde. En 1986, il a déménagé à Londres, en Angleterre, pour suivre un programme de maîtrise en droit commercial et en droit des sociétés. En 1988, il est rentré au Canada et a été engagé comme avocat interne par un important exploitant d’oléoducs d’Edmonton.
+[13] En 1994, il a décidé de se libérer des contraintes liées à son statut d’employé et de se lancer dans une carrière en solo. Il souhaitait notamment exercer un contrôle suffisant sur ses gains afin de financer son projet de retraite anticipée au Mexique. Il a déménagé avec sa famille à Cranbrook, en Colombie-Britannique, où il s’est employé à se constituer une clientèle dans le domaine du contentieux en droit de la famille.
+[14] Étant donné qu’il ne connaissait que très peu les aspects commerciaux de l’exploitation d’un cabinet juridique et qu’il préférait, de toute façon, se consacrer à l’exercice du droit, M. Schafer a délégué à d’autres le travail administratif et fiscal du cabinet : Mme Schafer dirigeait le cabinet et avait l’entière responsabilité du service de réception, de l’administration des affaires du bureau, des opérations bancaires, de la facturation et de la tenue de livre. Le comptable des appelants (le « comptable ») produisait les états financiers et les déclarations de revenus à partir des renseignements que lui communiquait Mme Schafer au moment de produire les déclarations de revenus. M. Schafer a reconnu qu’il s’agissait là d’une [traduction] « lacune » dont il était l’unique responsable et qui a contribué aux difficultés qu’ont eues les appelants avec l’Agence du revenu du Canada.
+[15] M. Schafer a ensuite porté son attention sur certaines méthodes de facturation qu’il avait conçues pour répondre aux besoins de la clientèle de son cabinet. Après avoir expliqué que Cranbrook était une [traduction] « ville ouvrière », M. Schafer a ajouté que certains de ses clients n’avaient pas les moyens de le payer pour ses services avant le règlement de leur dossier et le partage des biens. Dans de tels cas, M. Schafer prenait des dispositions particulières avec le client : à la clôture du dossier, il lui remettait une facture, mais le paiement était reporté jusqu’à ce que le client soit en mesure de l’acquitter. Le client signait une entente par laquelle il consentait à rembourser la dette, majorée des intérêts applicables, à une date ultérieure non précisée, et mettait en gage un bien pour garantir son obligation. M. Schafer en donne la description suivante :
+[traduction] [i]l était entendu que cela ne devait pas durer indéfiniment, quoique ces questions étaient réglées par une entente mutuelle plutôt que d’être encadrées par des engagements précis, cependant il était convenu, de façon générale, que cela ne s’éterniserait pas, mais que ce n’était pas moi qui prendrais l’initiative en disant, bon, ça a assez duré, je veux mon argent. Je touchais des intérêts et c’est… c’est ce qui devait me servir de compensation. Aussi, d’une certaine façon, je n’avais aucune idée du moment où je serais payé, et je laissais essentiellement au client le soin de déterminer dans quelles circonstances il serait disposé à me payer, soit en vendant son bien, soit en faisant un emprunt, mais la balle était dans le camp du client, et cela ne me gênait pas[5].
+[…]
+[l]es factures étaient remises. La sûreté était constituée. Par la suite, je n’y pensais à peu près plus. Je continuais de m’occuper des autres aspects de ma pratique en me disant que ce que j’avais fait était avisé et légitime et ne me posait aucun problème, et en gros, je cessais de penser à ce dossier. Je laissais simplement la question à l’entière discrétion de mon client en me disant qu’en temps voulu, tout finirait par rentrer dans l’ordre[6].
+[16] En 2005, Amisk a reçu deux sommes importantes qui illustrent bien ces modalités de facturation particulières : une première somme de 99 882 $, en février, et une autre de 112 500 $, en mai, auxquelles s’ajoutaient les intérêts accumulés. Ces deux sommes[7] représentent la majeure partie des honoraires et intérêts. M. Schafer n’a pas été en mesure de préciser la date à laquelle les factures avaient été établies, mais il a déclaré que le travail avait été effectué [traduction] « bien avant[8] » et facturé aux clients [traduction] « longtemps avant[9] » la réception du paiement, soit au moins cinq ans, et [traduction] « fort probablement davantage[10] ».
+[17] Quoi qu’il en soit, M. Schafer n’a plus pensé à ces dossiers jusqu’à ce qu’Amisk, peu après le 26 avril 2006, soit avisée[11] de la tenue imminente d’une vérification portant sur l’année d’imposition 2005. M. Schafer a réagi promptement à la nouvelle :
+[traduction] [p]resque immédiatement après la réception de l’avis, j’ai demandé à ce que soient passés en revue tous mes registres et mes déclarations de revenus des années 2004 et 2005. L’exercice visait à confirmer que toutes mes déclarations étaient en règle et, dans le cas contraire, de repérer toute… erreur manifeste ou non. C’était là l’objectif et, à l’issue de ce contrôle interne, un certain nombre d’erreurs manifestes ont en fait été relevées[12].
+[Non souligné dans l’original.]
+[18] Au nombre de ces [traduction] « erreurs manifestes » figurait l’omission d’Amisk de déclarer les sommes reçues en paiement des deux créances en souffrance depuis longtemps ainsi que d’autres honoraires plus modestes perçus au cours de 2005. Il a expliqué qu’au moment de produire la déclaration de revenus de 2005 d’Amisk, il avait cru comprendre que les deux paiements importants avaient été [traduction] « déclarés en tant que revenus plusieurs années auparavant, que l’impôt dû sur ces paiements avait été acquitté et que ceux‑ci, par conséquent, ne constituaient pas un revenu pour [Amisk][13] ». Or, le contrôle qu’il a effectué a révélé qu’en réalité, ces sommes avaient été [traduction] « comptabilisées » comme créances irrécouvrables :
+[traduction] Il s’agissait d’une erreur d’appréciation des faits de ma part, mais aussi d’une erreur de ma part du simple point de vue de… la prudence en matière commerciale. Je veux dire par là que les sommes en jeu étaient importantes et que je n’aurais pas dû me fier à ma mémoire, surtout en ce qui concerne une entente qui remontait à aussi loin, mais je ne l’ai pas fait. Je n’ai pas vérifié à quel moment [les deux paiements importants] ont été reçus. Je croyais que c’était ce qui avait été fait, et lorsque nous avons examiné la question, nous avons bien vu que, à un moment donné, ces deux sommes avaient en fait été comptabilisées comme créances irrécouvrables et que, par conséquent, lorsqu’elles ont été reçues, elles auraient dû être incluses dans les revenus déclarés, et c’est ce que [le comptable] s’est chargé de faire, de sorte que plus de 40 000 $ étaient exigibles en impôt par suite des deux paiements importants, quoique tardifs, effectués[14].
+[Non souligné dans l’original.]
+[19] C’est donc le 9 mai 2006, soit moins de deux semaines après avoir appris qu’une vérification était imminente, que M. Schafer a écrit à son comptable[15], lui donnant l’instruction de produire une déclaration modifiée afin d’inclure les honoraires et intérêts dans les revenus gagnés par Amisk en 2005 et de modifier les états financiers de la société pour faire état d’un prêt à l’actionnaire correspondant de 223 628 $ qui lui aurait été consenti en 2005. Il avait annexé à sa lettre un tableau dans lequel il avait inscrit les dates ainsi que les sommes avancées sous la forme d’un prêt à l’actionnaire, les honoraires et intérêts correspondants et les taxes applicables :
+Modifications apportées à la déclaration de revenus de 2005 de la société
+Date
+(2005)
+Prêt à l’actionnaire
+Revenus
+d’intérêts
+Honoraires
+TVP
+TPS
+1.
+12 janv.
+500,00
+438,60
+30,70
+30,70
+2.
+18 janv.
+2 000,00
+1 754,40
+122,80
+122,80
+3.
+1er févr.
+2 643,71
+2 319,05
+162,33
+162,33
+4.
+4 févr.
+5 052,00
+4 431,58
+310,21
+310,21
+5.
+7 févr.
+112 500,00
+12 500,00
+87 719,30
+6 140,35
+6 140,35
+6.
+6 avril
+250,00
+219,30
+15,35
+15,35
+7.
+1er mai
+99 882,27
+6 127,08
+82 241,39
+5 756,90
+5 756,90
+8.
+15 juil.
+800,00
+701,76
+49,12
+49,12
+Total
+223 627,98
+18 627,08
+179 825,38
+12 587,76
+12 587,76
+[20] Lorsqu’il a été contre‑interrogé sur la façon dont il était arrivé à ces montants révisés, M. Schafer avait ceci à dire :
+[traduction]
+Q Et… et sur quoi vous êtes‑vous basé pour arriver à ces montants? Comment avez-vous déterminé que ces montants avaient été inclus ou non par erreur dans les revenus de la société?
+R Je ne sais pas. Je… je n’ai pas concrètement jeté un coup d’œil aux documents, à nos livres comptables. Je n’aurais pas été en mesure de les décortiquer, mais ma femme l’a fait, elle m’a fait part de certaines observations puis, ensemble, nous les avons passés en revue, et j’ai posé des questions et elle m’a répondu, et nous nous sommes dit – il nous a semblé que nous avions un problème, alors nous en avons parlé avec [le comptable].
+Q Et… votre femme est‑elle ici avec vous aujourd’hui?
+R Non.
+Q Non? Et donc, vous avez expliqué que dans cette annexe, lorsqu’un montant a été inscrit à titre de revenu d’intérêt, c’était au titre d’une entente passée avec un client particulier pour le paiement d’intérêt parce qu’il n’avait pas acquitté sa facture à temps. Est-ce exact?
+R Ils… ils ne l’avaient pas payée au moment où ils l’avaient reçue, et c’était… oui. Oui, dans les deux cas.
+Q Et… et donc, vous dites que vous avez réussi à repérer ces montants avec l’aide de votre femme, c’est exact?
+R Oui.
+Q Je crois qu’en interrogatoire principal, vous avez déclaré qu’en ce qui avait trait notamment aux sommes plus élevées, vous vous souveniez des clients – vous vous souveniez de la situation des clients. Avez-vous apporté ici, aujourd’hui, la facture que vous avez remise à ces clients pour leur signifier qu’ils vous devaient ces sommes?
+R Vous voulez parler de… de la somme initiale, du document constatant la sûreté et prévoyant le paiement d’intérêts, ou des deux?
+Q Avez-vous apporté l’un ou l’autre de ces documents?
+R Non.
+Q Vous ne les avez pas avec vous aujourd’hui.
+R Non.
+Q Mais vous… vous vous rappelez exactement qui étaient ces clients et les ententes que vous aviez prises, vrai?
+R Oui, absolument.
+Q Et dois-je comprendre, ainsi, que vous avez examiné ces documents au moment d’établir les montants inscrits dans le tableau que vous avez fourni dans la lettre adressée à votre comptable? Avez-vous examiné les états de compte, les factures que vous avez remises à ces clients?
+R Non. Non.
+[21] Même s’il avait entrepris l’examen de sa comptabilité en prévision de la vérification et retrouvé les documents nécessaires au repérage et à la correction des erreurs commises dans la déclaration d’Amisk, M. Schafer n’en a pas soufflé mot au vérificateur. Il ne lui a pas non plus dit qu’il avait donné à son comptable l’instruction de modifier la déclaration de 2005 de la société et les documents relatifs au prêt à l’actionnaire. Ce n’est pas qu’il n’en a pas eu l’occasion. Le jour même où il a fait parvenir ses instructions au comptable, M. Schafer a également adressé une lettre au vérificateur[16] pour demander que leur première rencontre, fixée au 29 mai 2006, soit remise au début de juillet 2006. En contre‑interrogatoire, on lui a posé des questions sur sa conduite, qu’il a expliquée ainsi :
+[traduction]
+Q Bon… mais vous conviendrez certainement que vous vous trouvez dès lors en communication écrite avec le vérificateur qui s’apprête à examiner la déclaration de revenus de la société de… 2005. Vous venez de dire à votre comptable d’apporter des changements à la déclaration de la société de 2005. Pourquoi n’avez-vous pas simplement pris le téléphone pour parler au vérificateur et lui dire, au fait, je viens de demander à mon comptable d’examiner certains changements qui pourraient être apportés à la déclaration de revenus de la société, car je pense avoir fait des erreurs concernant ce qui devait être inclus dans le revenu? Pourquoi… pourquoi n’avez-vous pas tout simplement téléphoné?
+R Parce que cela, à mon sens, n’aurait été d’aucune utilité. Il aurait probablement dit, quelles erreurs, ou qu’êtes-vous en train de faire, et j’aurais répondu, [le comptable] vous donnera tous les détails dès qu’il aura terminé.
+Q Avez-vous demandé [au comptable], dans la lettre que vous lui avez fait parvenir, qu’il veille à informer le vérificateur de ces changements?
+R Je ne crois pas le lui avoir demandé dans la lettre, mais je savais pertinemment que cela serait porté à son attention.
+Q Comment le saviez-vous?
+R C’était précisément dans ce but que nous faisions tout cela.
+Q Dans ce but que vous faisiez quoi? Modifier la déclaration de la société?
+R Tout cela aurait fait partie de la vérification, oui. Il allait tomber sur des documents comportant des erreurs et – non seulement ils comportaient des erreurs, mais des mesures étaient prises pour y remédier, et il allait – tout cela allait être examiné avec lui.
+Q Et… et [le comptable] va-t-il témoigner aujourd’hui?
+R Non.
+[22] En revanche, le comptable a effectivement mis à exécution les instructions de M. Schafer. Le 17 mai 2006[17], il a répondu à la lettre que ce dernier lui avait envoyée le 9 mai 2006 pour l’informer que la déclaration modifiée était prête à être signée, pour lui recommander de modifier et de produire des déclarations de TPS/TVP et pour faire état du calcul de l’intérêt de 3 % sur les avances consenties au titre du prêt à l’actionnaire. L’Agence du revenu du Canada a reçu la déclaration modifiée d’Amisk le 19 mai 2006[18]. Elle l’a transmise au vérificateur quelque temps avant la rencontre prévue avec M. Schafer, le 29 mai 2006.
+[23] Interrogé sur les raisons pour lesquelles il n’avait pas informé le vérificateur plus tôt des efforts qu’il faisait pour régulariser la situation d’Amisk, M. Schafer a donné l’explication suivante :
+[traduction]
+R Je ne sais pas. Je… je concevais que mon… mon rôle vis‑à‑vis du vérificateur consistait à répondre à ses questions. Ce n’était pas de jouer au comptable et d’essayer de lui expliquer ce qui se passait. Ce rôle appartenait à d’autres. Je devais répondre à ses questions, lui fournir ses documents et de là, on verrait bien pour la suite des choses.
+Q Mais ses questions au sujet de la société ne vous seraient-elles pas adressées à vous?
+R Elles le seraient assurément.
+Q Et n’est-ce pas sa… le commencement de sa vérification qui vous a incité à examiner les livres et registres de la société pour les années 2004 et 2005?
+R Certainement.
+Q Donc, cela ne revêt-il pas un intérêt pour la vérification amorcée?
+R Je suppose… je suppose que oui, et je suppose que si cela devait revêtir un intérêt pour lui, il me poserait des questions à ce sujet.
+Q Mais comment pouvait-il vous poser des questions à ce sujet s’il ne savait pas que vous aviez modifié votre déclaration?
+R Il le savait. Nous en avons déjà parlé. [Le comptable] devait l’en informer.
+Q Il ne l’a certainement pas fait en mai.
+R Je ne sais pas quand il l’a fait.
+Q Pas au moment où vous l’avez fait. Nous nous sommes mis d’accord sur ce point, non?
+R Je... je n’ai pas modifié la déclaration le 9 mai. J’ai simplement envoyé l’information [au comptable], et [le comptable] a informé [le vérificateur]… mais quand l’a-t-il fait, je ne le sais pas.
+[24] Quoi qu’il en soit, la vérification a eu lieu. Au cours de l’examen des livres et registres fournis par les appelants, le vérificateur a remarqué que les honoraires et intérêts ainsi que les dépôts non identifiés avaient été déposés dans le compte personnel de M. Schafer plutôt que dans celui d’Amisk et en outre, qu’il s’agissait d’un compte conjoint qu’il détenait avec son fils en âge de fréquenter le collège. Non content des réponses qu’il avait reçues aux questions relatives à ces montants, le vérificateur a fini par recommander l’établissement des nouvelles cotisations faisant l’objet du présent appel.
+[25] À l’audience, M. Schafer a admis que les honoraires et intérêts et certains des dépôts non identifiés auraient dû être déposés dans le compte d’Amisk. Toutefois, il a déclaré que la raison pour laquelle ces fonds s’étaient retrouvés dans un compte personnel conjoint plutôt que dans le compte d’Amisk était toute simple. Aux dires de M. Schafer, les honoraires et intérêts faisaient partie d’un prêt à l’actionnaire totalisant 233 628 $ qu’il avait reçu d’Amisk en 2005 (désigné plus haut comme étant le « paiement de 223 628 $ »).
+[26] Le prêt à l’actionnaire visait à l’aider à réaliser un but qu’il s’était fixé depuis longtemps, soit de prendre une retraite anticipée et de s’établir en permanence au Mexique. Il s’était apparemment toujours montré [traduction] « souple » quant au moment où il déménagerait en vue de prendre sa retraite, mais en 2005, avec la réception inattendue des deux gros paiements constituant la majeure partie du paiement de 223 628 $, son projet a pris forme. Soudain, il avait les moyens de préfinancer l’achat d’une maison au Mexique en attendant de vendre la résidence familiale de Cranbrook. C’est pourquoi [traduction] « ces deux paiements qui m’ont été remis ont été traités comme un prêt à l’actionnaire au moment où ils ont été reçus[19] ». Indépendamment du fait qu’il ait utilisé les sommes pour son propre bénéfice, M. Schafer n’a pas donné de précisions quant à la façon dont il avait [traduction] « traité » ces paiements comme un prêt à l’actionnaire [traduction] « au moment où ils ont été reçus ».
+[27] M. Schafer s’est alors penché sur la raison pour laquelle le paiement de 223 628 $ avait été déposé dans un compte qu’il détenait conjointement avec son fils. Il a fait précéder ses remarques de la question suivante : [traduction] « Pourquoi ne pas simplement laisser l’argent dans le compte de la société, pour ensuite, au moment opportun, tirer un chèque pour l’achat de la maison au Mexique et considérer ce chèque comme un prêt à l’actionnaire à ce moment précis[20]? » [Non souligné dans l’original.]
+[28] Avant d’examiner sa réponse, il est intéressant de noter la façon dont M. Schafer a formulé cette question. En faisant allusion au fait de [traduction] « “laisser” l’argent dans le compte de la société », il donne l’impression que le paiement de 223 628 $ a d’abord été déposé dans le compte d’Amisk, ce qui, naturellement, est faux. Il a reconnu que l’argent avait été déposé directement dans son propre compte conjoint. Cela s’expliquait, selon lui, par le fait qu’il craignait que sa femme et lui meurent avant l’achat d’une maison au Mexique pour leur retraite, laissant ainsi ses deux fils sans le sou pendant la procédure d’homologation de leur succession dont la valeur, [traduction] « compte tenu de la société[21] », avoisinait les deux millions de dollars. En versant le paiement de 223 628 $ directement dans le compte conjoint en 2005, il s’assurait que, s’il arrivait quoi que ce soit à sa femme et lui, ses fils auraient accès aux fonds nécessaires pour leur permettre de poursuivre leurs études. En outre, il estimait que grâce à cette façon de faire, son exécuteur testamentaire (le frère de M. Schafer) aurait la possibilité d’évaluer la capacité de ses fils de gérer d’importantes sommes d’argent avant de leur confier la totalité du patrimoine.
+[29] Le témoignage de M. Schafer s’est achevé sur cette note. De longs extraits ont été cités dans les présents motifs pour donner une idée de la nature invraisemblable de bon nombre de ses réponses, notamment celle qui est relatée au paragraphe qui précède. Les transcriptions laissent également transparaître le caractère passablement évasif de son témoignage : des questions clés visant à comprendre pourquoi ou comment certaines choses avaient été faites sont restées sans réponse, et l’appelant se justifiait par le fait qu’il n’avait pas participé à la gestion administrative de son cabinet. Or, bien qu’il ait reconnu cette [traduction] « lacune » et qu’il se soit donné du mal pour renseigner la Cour sur sa longue carrière d’avocat, M. Schafer a choisi de ne pas faire témoigner ceux à qui il avait délégué ces tâches. Il n’a pas cherché à expliquer pourquoi il n’avait pas appelé à la barre Mme Schafer ou le comptable, donnant ainsi l’impression que leur absence tenait davantage de la stratégie judiciaire que d’un oubli propre à un amateur. Vu l’ensemble des circonstances, je souscris à l’argument avancé par l’avocate de l’intimée, à savoir que la Cour se doit de tirer une conclusion défavorable du fait que les appelants ont omis de convoquer Mme Schafer ou le comptable afin qu’ils répondent aux questions auxquelles M. Schafer a déclaré avec insistance ne pouvoir répondre.
+[30] Le témoignage de M. Schafer comportait une autre faiblesse de taille en ce sens qu’il n’était étayé par aucune documentation. Dans l’arrêt House c. Sa Majesté la Reine[22], la Cour d’appel fédérale a appliqué un principe tiré de l’arrêt Hickman Motors Ltd. c. Canada, [1997] 2 R.C.S. 336 qui veut que le témoignage crédible d’un contribuable n’ait pas forcément à être étayé par des documents‑source :
+[72] Le [juge du procès] semble avoir fait de l’exigence jurisprudentielle, selon laquelle le contribuable peut être tenu de fournir des documents justificatifs afin d’établir le bien-fondé de ses prétentions, un principe juridique voulant que le contribuable soit toujours tenu de produire des documents à l’appui de sa demande. À mon humble avis, aucun principe n’exige qu’un témoignage de vive voix doive nécessairement être étayé par des documents-source. La question de savoir si des documents justificatifs sont nécessaires sera fonction des circonstances particulières de l’affaire. Cependant, que des documents soient exigés ou non, le juge doit néanmoins apprécier le témoignage et décider s’il est crédible. L’obligation de produire des documents dépendra souvent de cette appréciation.
+[31] Si on applique ce critère en l’espèce, il faut conclure, vu le manque de crédibilité de M. Schafer et ses allusions répétées à l’importance du contrôle qu’il a effectué préalablement à la vérification, que la production de documents justificatifs revêtait une importance cruciale pour le succès des appels. Ils étaient essentiels pour renforcer les propos de M. Schafer selon lesquels les éléments relevés lors de l’examen des livres et registres d’Amisk constituaient une explication logique pour la présence, dans la déclaration, des erreurs à l’origine des nouvelles cotisations. Or, non seulement ces documents‑source n’ont pas été produits en preuve, mais M. Schafer s’est en outre montré évasif sur la question de savoir quels documents il avait au juste examinés. Tout en insistant sur la portée significative des dispositions particulières prises avec certains clients en matière de facturation, il affirmait, du même souffle, qu’il n’avait pas eu à examiner les dossiers des clients pour les besoins des deux importants paiements reçus en 2005; ces sommes étant considérables, il se rappelait en effet dans le détail les modalités de facturation au moment d’effectuer son examen en mai 2006. Or, en février 2006, lorsqu’il a produit la déclaration d’Amisk, ces mêmes sommes considérables lui ont complètement échappé, et ce, en dépit du fait qu’elles venaient de permettre la concrétisation du projet de retraite dont il rêvait.
+[32] Le fait que les appelants n’aient produit aucune documentation a ceci de particulièrement troublant que les documents auxquels M. Schafer a fait allusion – factures aux clients, ententes, états financiers, déclarations de revenus – sont de l’ordre de ceux qu’un cabinet d’avocats doit normalement conserver. En fait, en contre‑interrogatoire, M. Schafer a spontanément déclaré que, au moment même où l’audience se déroulait, il avait [traduction] « probablement » toujours ces documents en sa possession. Il a également reconnu que les documents originaux qu’il avait fournis à l’Agence du revenu du Canada pendant la vérification lui avaient été rendus. Malgré cela, M. Schafer n’a pas expliqué sa décision de ne pas apporter les documents en cour – sinon pour déclarer sur un ton légèrement irrité, lors du réinterrogatoire, que puisqu’il avait fourni à l’Agence du revenu du Canada l’information qu’elle avait réclamée pendant la vérification et qu’il avait remis à la Couronne les documents qu’elle avait énumérés dans sa liste et exigés lors de l’interrogatoire préalable, il était [traduction] « déplacé », de la part de l’avocate de l’intimée, d’inviter la Cour à tirer une conclusion défavorable de son défaut de produire des documents justificatifs à l’audience.
+[33] Chez un contribuable non représenté par un avocat et sans formation juridique, ce genre de réaction serait compréhensible. Toutefois, venant de M. Schafer, elle perd de sa vraisemblance. Selon mon expérience, les contribuables munis de documents étayant leurs prétentions font habituellement preuve d’empressement lorsqu’il s’agit de les présenter – même lorsqu’ils les ont rassemblés dans une boîte à chaussures. Cela dépasse l’entendement qu’un homme intelligent, éduqué et doté d’une expérience de plaideur comme M. Schafer n’ait pas songé à faire de même. Plus vraisemblablement, soit il n’existe pas de documents justificatifs, soit les documents qui existent disent autre chose que ce que M. Schafer veut faire croire à la Cour.
+[34] La grande faiblesse du témoignage de M. Schafer découle de son manque de crédibilité dans l’ensemble. Les actes qu’il a accomplis après avoir été informé de la tenue de la vérification laissent planer un doute quant aux véritables motifs qui l’ont poussé à passer en revue les livres et registres d’Amisk et à modifier la déclaration de 2005 de la société. À mon avis, ses actes dissimulent une tentative de montrer sous un autre jour la décision qu’a pris la société de ne pas déclarer les honoraires et intérêts et les dépôts non identifiés et de les verser directement dans le compte de M. Schafer; la stratégie consistait notamment à changer la nature du paiement de 223 628 $ que M. Schafer s’était approprié en le qualifiant de prêt à l’actionnaire.
+[35] En cela, la conduite de M. Schafer s’apparente à celle affichée par le contribuable dans Tymchuk c. R., 2003 CCI 699. Cette affaire concerne elle aussi une tentative de requalification de sommes qui, de l’avis de la Cour, représentaient des avantages consentis à l’actionnaire. Au paragraphe 12, le juge McArthur aborde la question de la pénalité qui était contestée dans le cadre de l’appel et fait les remarques suivantes au sujet de la conduite du contribuable :
+[12] […] Donald s’occupait lui-même de la tenue de livres et, si je ne m’abuse, il était également un comptable général licencié. Il n’a eu aucune intention d’inscrire lesdits montants au titre d’un prêt aux actionnaires ou autre jusqu’à ce que ces montants soient découverts au cours de la vérification. Il a eu la possibilité et avait l’obligation de consigner avec exactitude les paiements qu’avait versés la société. Après avoir fait l’objet d’une vérification, et il s’est fait prendre à son propre piège, et il demande maintenant à ce qu’on l’autorise à effectuer une planification fiscale rétroactive. […]
+[36] De la même façon, M. Schafer a voulu modifier les livres et les déclarations de revenus pour son propre compte et celui de la société afin d’éviter que la vérification entraîne les conséquences fâcheuses qu’il appréhendait. Dans ses observations, M. Schafer a souligné que, dans le cas d’une société privée, il n’était [traduction] « pas rare » que, pendant l’année, la société avance à l’actionnaire des fonds qui sont qualifiés de primes, de dividendes ou de prêts à l’actionnaire [traduction] « à un moment donné au cours de l’année civile suivant le versement de ces avances, c’est‑à‑dire, en général, au moment de l’établissement des états financiers de la société et, ultérieurement, de sa déclaration de revenus[23] ». Puis, il a ajouté que Amisk avait en effet qualifié le paiement de 223 628 $ de prêt à l’actionnaire en 2006; à l’appui de ce qu’il affirmait, il a renvoyé au tableau annexé à la lettre d’instructions transmise à son comptable le 9 mai 2006[24]. D’abord, l’explication de M. Schafer passe sous silence le fait qu’il n’a pas procédé à la qualification du paiement en vue de la production de la déclaration de revenus de 2005 d’Amisk, mais seulement au moment de recevoir avis de la tenue d’une vérification. L’explication n’indique pas non plus pourquoi ces paiements, qui ont apparemment été considérés comme un prêt à l’actionnaire [traduction] « au moment où ils ont été reçus », n’ont pas reçu cette même qualification avant l’envoi de la déclaration de revenus d’Amisk en février 2006, soit au moment même où de telles rectifications sont [traduction] « normalement » apportées, s’il faut en croire M. Schafer. Dans le même ordre d’idées, ce dernier n’a pas dit pourquoi il avait subitement décidé de rembourser le présumé prêt à l’actionnaire en mai 2006, et non vers la fin de l’exercice d’Amisk. Une agitation soudaine s’est emparée de lui entre la réception de l’avis de vérification du 26 avril 2006 et la rencontre avec le vérificateur, prévue pour le 29 mai 2006. Il a pris toutes ces mesures et s’est efforcé de garder le vérificateur dans l’ignorance dans l’espoir de réussir à faire passer des omissions délibérées pour des erreurs commises par inadvertance, mais heureusement relevées plus tard grâce à la diligence qu’il a exercée.
+[37] Vu le manque de crédibilité de M. Schafer et le fait qu’aucun document justificatif n’a été produit, les appelants ne sont pas parvenus à démolir les hypothèses qui ont servi de fondement aux nouvelles cotisations.
+[38] Compte tenu de la preuve dont je dispose, je conclus que M. Schafer n’a pas reçu le paiement de 223 628 $ à titre de prêt à l’actionnaire en 2005; il est beaucoup plus probable que cette somme reçue de la société constitue un avantage à l’actionnaire au sens du paragraphe 15(1) de la Loi de l’impôt sur le revenu.
+[39] En ce qui concerne les dépôts non identifiés et la TPS, je n’ai pas trouvé M. Schafer convaincant lorsqu’il a déclaré, en témoignage, que ces sommes avaient été incluses à tort dans le calcul du revenu. J’estime en outre qu’il ne s’agit pas de sommes [traduction] « minimes », sauf si on les compare au paiement de 223 628 $ qu’il s’est aussi approprié sur les revenus d’Amisk. Vu son manque de crédibilité, je ne peux le croire d’emblée lorsqu’il affirme que les 1 500 $ étaient un don en argent comptant. Je ne saisis pas non plus ce qu’il entend par le fait d’avoir [traduction] « mis de côté » 8 300 $ appartenant à Amisk pour l’éducation de ses fils; à défaut d’un témoignage crédible ou d’une forme ou une autre de preuve à l’appui, il s’agit tout simplement d’une autre façon de désigner une appropriation. Quant à Amisk, elle a admis ne pas avoir déclaré des revenus de 214 770 $, mais étant donné qu’une partie des dépôts non identifiés continue de susciter la controverse, j’estime que Amisk n’est pas parvenue à réfuter les hypothèses formulées pour justifier les cotisations établies à leur égard.
+Les pénalités
+[40] La seule question qu’il reste à trancher est de savoir si les pénalités dont les nouvelles cotisations établies à l’égard des appelants ont été assorties étaient justifiées au vu du paragraphe 163(2) de la Loi de l’impôt sur le revenu. C’est au ministre qu’il revient de justifier l’imposition de pénalités. Dans l’arrêt Lacroix c. Canada, 2008 CAF 241, qui portait sur la question de l’avoir net, la Cour d’appel fédérale s’est interrogée sur la façon dont le ministre devait s’acquitter de ce fardeau :
+32 Il se peut que dans certaines circonstances, le ministre soit en mesure de faire une preuve directe de l’état d’esprit du contribuable lorsque ce dernier a produit sa déclaration de revenus. Mais dans la grande majorité des cas, le ministre ne pourra que miner la crédibilité du contribuable, soit par des éléments de preuve qu’il apporte, soit en contre-interrogatoire du contribuable. Dans la mesure où la Cour canadienne de l’impôt est persuadée que le contribuable touche un revenu qu’il n’a pas déclaré et que l’explication offerte par le contribuable pour l’écart constaté entre son revenu déclaré et l’accroissement de son actif est non crédible, le ministre s’est acquitté du fardeau de preuve qui lui incombe aux termes […] du paragraphe 162(3) [sic].
+[41] Dans l’affaire qui nous intéresse ici, les faits sur lesquels le ministre s’est fondé pour imposer des pénalités ont été correctement formulés dans les réponses aux avis d’appel. À mon sens, il ressort clairement des propos tenus par M. Schafer lors de l’interrogatoire principal et du contre‑interrogatoire qu’il s’est comporté, tant en son nom personnel qu’à titre d’âme dirigeante d’Amisk, d’une manière qui justifie l’imposition de pénalités en application du paragraphe 163(2).
+[42] Selon son propre témoignage, M. Schafer est un avocat plaideur ayant reçu une formation universitaire de niveau supérieur et acquis une longue expérience en droit commercial et en droit des sociétés. Son attitude à l’audience n’avait rien à voir avec l’image qu’il voulait donner de lui, soit celle d’un homme pris dans un dédale administratif et financier. S’il a avoué ne pas s’occuper des aspects administratifs du cabinet, il a néanmoins trouvé le moyen de planifier et de réaliser son projet de retraite anticipée en accumulant des avoirs d’environ deux millions de dollars. Il a admis que deux des paiements reçus au titre des honoraires et intérêts représentaient d’importantes sommes découlant de sa facturation habituelle, si importantes en fait qu’il se rappelait dans le détail les modalités de facturation longtemps après le fait. En contre‑interrogatoire, il n’a pas réfuté les dires de l’intimée quant à l’existence d’une différence appréciable entre les revenus déclarés et non déclarés de chaque appelant : dans le cas d’Amisk, 114 348 $ contre 214 770 $; dans le cas de M. Schafer, 39 640 $ contre 241 088 $.
+[43] Indépendamment de ce qui précède, il voulait faire croire à la Cour que son défaut de déclarer ou de consigner adéquatement ces sommes avait été la conséquence involontaire de pratiques commerciales peu rigoureuses. Selon lui, les erreurs étaient en partie attribuables au fait que l’essentiel des honoraires et intérêts se rapportait à des services juridiques facturés des années auparavant. Malgré cela, au moment de produire la déclaration initiale d’Amisk pour 2005, M. Schafer a choisi de se fier à sa mémoire au lieu de vérifier comment ces deux gros paiements avaient été passés en écriture et quelle qualification ils avaient reçue en ce qui concerne l’impôt, et ce, même si, pendant toute cette période et jusqu’à l’audition des présents appels, il a eu à sa disposition les dossiers des clients concernés ainsi que les factures, contrats constitutifs de sûreté et documents fiscaux pertinents. Quant aux sommes plus petites faisant partie des honoraires et intérêts reçus en 2005, il n’a pu expliquer de manière crédible pourquoi on avait oublié de les déclarer.
+[44] À mon avis, dans le meilleur des cas, M. Schafer attachait peu d’importance au fait de respecter, à titre personnel et en tant que dirigeant d’Amisk, les exigences de la Loi de l’impôt sur le revenu, d’où son défaut de tenir des livres et registres appropriés, d’inclure les honoraires et intérêts et les dépôts non identifiés dans la déclaration de revenus de 2005 d’Amisk et d’inclure dans ses revenus le paiement de 223 628 $ qu’il a prélevé sur les revenus d’Amisk pour son propre bénéfice. Ce n’est qu’au moment où la perspective d’une vérification s’est dessinée que les appelants ont entrepris de modifier la documentation existante afin qu’elle corresponde à la version plus acceptable des faits que M. Schafer entendait présenter à l’Agence du revenu du Canada lors de la vérification. En cela, la conduite de M. Schafer répond à la définition de la « faute lourde » énoncée dans Venne c. Canada (1984), 84 D.T.C. 6247, c’est‑à‑dire à « un degré important de négligence qui corresponde à une action délibérée, une indifférence au respect de la loi ». Vu l’ensemble des circonstances, le ministre était en droit d’imposer des pénalités relativement aux nouvelles cotisations établies à l’égard d’Amisk et de M. Schafer pour l’année d’imposition 2005.
+[45] Pour les motifs exposés précédemment, les appels sont rejetés, avec dépens en faveur de l’intimée.
+Signé à Ottawa, Canada, ce 2e jour de décembre 2013.
+« G. A. Sheridan »
+Juge Sheridan
+Traduction certifiée conforme
+ce 12e jour de mars 2014.
+Mario Lagacé, jurilinguiste
+RÉFÉRENCE : 2013 CCI 382
+Nos DES DOSSIERS DE LA COUR : 2010-757(IT)G; 2010-672(IT)G
+INTITULÉS : LARRY GORDON SCHAFER et SA MAJESTÉ LA REINE; AMISK INVESTMENTS LIMITED et SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Calgary (Alberta)
+DATE DE L’AUDIENCE : Les 18 et 19 septembre 2013
+MOTIFS DU JUGEMENT : L’honorable juge G. A. Sheridan
+DATE DU JUGEMENT : Le 2 décembre 2013
+COMPARUTIONS :
+Pour les appelants,
+Larry Gordon Schafer et
+Amisk Investments Limited :
+M. Larry Gordon Schafer
+Avocate de l’intimée :
+Me Margaret McCabe
+AVOCATS INSCRITS AU DOSSIER :
+Pour les appelants :
+Nom : s.o.
+Cabinet :
+Pour l’intimée : William F. Pentney
+Sous‑procureur général du Canada
+Ottawa, Canada
+[1] Remarque : cette somme correspond à un dividende de 4 100 $ qui a été versé à M. Schafer et que celui‑ci n’a pas inclus dans ses revenus. Pièce A-2.
+[2] Remarque : ces sommes correspondent à quelques-unes des sommes qui, selon le témoignage donné par M. Schafer au procès, lui ont été versées à titre de dividendes en 2005 et qui n’ont pas été déclarées. Pièces A-1 et A-2.
+[3] Transcription, page 142, lignes 10 et 11 et transcription, page 143, lignes 2 à 6.
+[4] Pièce A-2. (Il s’agit du même document que la pièce R-1, onglet 11.)
+[5] Transcription, page 23, lignes 14 à 25.
+[6] Transcription, page 24, lignes 20 à 26.
+[7] Pièce R‑1, onglet 7, annexe.
+[8] Transcription, page 20, lignes 15 à 16.
+[9] Transcription, page 21, ligne 1.
+[10] Transcription, page 24, ligne 1.
+[11] Pièce R‑1, onglet 4.
+[12] Transcription, de la page 17, lignes 25 à 28 à la page 18, lignes 1 à 4.
+[13] Transcription, de la page 26, lignes 27 et 28 à la page 27, lignes 1 à 2.
+[14] Transcription, page 27, lignes 2 à 15.
+[15] Pièce R-1, onglet 7.
+[16] Pièce R-1, onglet 6.
+[17] Pièce R-1, onglet 9.
+[18] Pièce R-1, onglet 11.
+[19] Transcription, page 29, lignes 8 à 10.
+[20] Transcription, page 29, lignes 12 à 15.
+[21] Transcription, page 29, ligne 23.
+[22] 2011 CAF 234, 2011 DTC 5142.
+[23] Transcription, page 138, lignes 5 à 8.
+[24] Pièce R-1, onglet 7, page 2.

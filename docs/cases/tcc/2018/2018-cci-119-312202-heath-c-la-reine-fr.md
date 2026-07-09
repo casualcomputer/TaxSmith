@@ -1,0 +1,159 @@
+---
+title: "Heath c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/312202/index.do"
+last_modified: "2018-06-27"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2018 CCI 119"
+citation2: ""
+neutral_citation: "2018 CCI 119"
+decision_date: "2018-06-27"
+language: "fr"
+item_id: "312202"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5125
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T17:51:52.962000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "bcca769eee0a0c6a52f71d44cea2dbb3be46be0ce6d8154fbbb683fd2d98e32e"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Heath c. La Reine
+
+- Citation: 2018 CCI 119
+- Decision date: 2018-06-27
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5125, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Heath c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2018-06-27
+Référence neutre
+2018 CCI 119
+Numéro de dossier
+2016-3028(GST)I
+Juges et Officiers taxateurs
+Guy R. Smith
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2016-3028(GST)I
+ENTRE :
+JENNIFER HEATH,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Requête présentée par écrit le 12 avril 2018 à Ottawa, Canada.
+Devant : L’honorable juge Guy R. Smith
+Comparutions :
+Pour l’appelante :
+L’appelante elle-même
+Avocat de l’intimée :
+Me Arnav Patel
+ORDONNANCE
+APRÈS AVOIR PRIS CONNAISSANCE des documents présentés par les parties :
+LA COUR ORDONNE que la requête en vue d’annuler l’avis de désistement soit rejetée sans dépens.
+Signé à Ottawa, Canada, ce 27e jour de juin 2018.
+« Guy Smith »
+Le juge Smith
+Référence : 2018 CCI 119
+Date : 20180627
+Dossier : 2016-3028(GST)I
+ENTRE :
+JENNIFER HEATH,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE
+Le juge Smith
+[1] L’appelante a présenté un avis de désistement de son appel avant la date prévue de l’audience, et elle demande maintenant que cet avis soit rejeté. Le ministre du Revenu national (le ministre) s’oppose à la requête.
+[2] Les faits substantiels ne sont pas contestés. La date de l’audience était fixée au 28 mars 2018. L’appelante n’était pas représentée par un avocat. L’avocat de l’intimée, Arnav Patel (Me Patel), a écrit à l’appelante pour discuter de l’appel, et un échange de documents et de courriels a suivi.
+[3] Dans un courriel daté du 15 mars 2018, Me Patel a indiqué qu’à son avis, l’appel allait vraisemblablement être rejeté et a ajouté qu’il représentait les intérêts du ministre seulement et que son opinion ne constituait pas un avis juridique, puis il a enfin invité l’appelante à demander des avis juridiques indépendants.
+[4] L’appelante a répondu par un courriel daté du 17 mars 2018, auquel elle a joint des éléments de preuve supplémentaires et dans lequel elle a indiqué qu’elle allait demander des avis juridiques pour l’aider dans cette affaire. Me Patel a répondu qu’il était impatient de s’entretenir avec son avocat.
+[5] Le 21 mars 2018, Me Patel a envoyé un courriel à l’appelante avant de lui téléphoner pour lui indiquer qu’il avait une proposition pour résoudre son affaire favorablement. À ce moment-là, l’appelante l’a informé qu’un avis de désistement avait été déposé la veille, soit le 20 mars 2018.
+[6] Les parties ont néanmoins signé un consentement à jugement afin que l’appel soit accueilli et que l’affaire soit renvoyée au ministre, au motif que l’appelante [traduction] « était admissible à un remboursement pour habitations neuves d’un montant de 6 831,65 $ ». Cependant, le greffier du tribunal a refusé d’accepter le consentement parce qu’un avis de désistement avait déjà été présenté.
+[7] Dans une lettre du tribunal datée du 22 mars 2018, les parties ont été informées qu’une requête en vue de faire annuler l’avis de désistement devait être déposée, et elles ont été plus précisément renvoyées à l’arrêt Canada (Procureur général) c. Scarola, 2003 CAF 157 [Scarola].
+[8] L’arrêt Scarola concernait un appel à l’égard d’une décision de la Cour canadienne de l’impôt, dans laquelle la Cour, « [e]n se fondant sur le principe bien établi voulant que les tribunaux judiciaires possèdent les pouvoirs nécessaires pour régir leurs propres procédures, [...] a conclu qu’elle avait la compétence inhérente voulue pour annuler un avis de désistement et elle a conclu que les faits [...] justifiaient l’exercice de cette compétence » (au paragraphe 8).
+[9] La Cour d’appel fédérale (la CAF) n’était pas d’accord. Elle a cité l’article 16.2 de la Loi sur la Cour canadienne de l’impôt, LRC (1985), ch. T-2, qui prévoit ce qui suit :
+Désistement
+16.2 (1) La partie qui a engagé une procédure devant la Cour peut en tout temps s’en désister par avis écrit.
+Conséquence du désistement
+(2) Le désistement équivaut au rejet de la procédure en cause à la date à laquelle la Cour reçoit l’avis de désistement.
+[10] Après avoir examiné la jurisprudence pertinente, la CAF a conclu que « [...] le législateur a décidé de déterminer législativement les conséquences juridiques d’un avis de désistement » plutôt que de laisser la question à la discrétion de la Cour (au paragraphe 18). Elle a ajouté que « [c]onformément au paragraphe 16.2(2), un désistement constitue un rejet. L’appel qui est rejeté est un appel sur lequel il a été statué, et l’appel sur lequel il a été statué n’existe plus [...] » (au paragraphe 21). La CAF a ajouté qu’un désistement aux termes du paragraphe 16.2(2) « [...] a le même effet qu’un jugement par lequel la Cour rejette l’appel [...] » (au paragraphe 21).
+[11] La CAF a aussi tenu compte de l’article 172 des Règles de la Cour canadienne de l’impôt (procédure générale), qu’on appelle souvent la règle du « lapsus », qui permet à la Cour d’annuler ou de modifier des jugements quand les conditions énoncées sont satisfaites. Il se lit comme suit :
+Annulation ou modification du jugement en raison d’erreurs — Général
+172 (1) Le jugement qui :
+(a) comporte une erreur découlant d’un lapsus ou d’une omission;
+(b) doit être modifié relativement à une question sur laquelle la Cour n’a pas statué,
+peut être modifié par la Cour, sur demande ou de son propre chef.
+(2) Une partie peut demander, par voie de requête dans l’instance, selon le cas :
+a) l’annulation ou la modification d’un jugement en raison d’une fraude ou de faits survenus ou découverts après qu’il a été rendu;
+b) un sursis d’exécution d’un jugement;
+c) une mesure de redressement différente de celle qui a déjà été accordée.
+[12] Plus particulièrement, la CAF a cité l’alinéa 172(2)a), faisant remarquer qu’il permet à la Cour d’annuler un jugement « [...] en raison d’une fraude ou de faits survenus ou découverts après qu’il a été rendu ». La CAF a ensuite noté ce qui suit :
+[27] Le défendeur a soutenu que la Cour possédait une compétence inhérente qu’elle pouvait exercer en vue de permettre le retrait d’un avis de désistement. Je ne puis retenir cet argument compte tenu du paragraphe 16.2(2). Comme l’a dit avec raison I. H. Jacob dans un article intitulé « The Inherent Jurisdiction of the Court » (1970), 23 Current Legal Problems 23, à la page 24 :
+[traduction] [. . .] la Cour peut exercer sa compétence inhérente même à l’égard de questions qui sont réglementées par une loi ou par une règle judiciaire, dans la mesure où elle peut le faire sans contrevenir à une disposition législative.
+[Non souligné dans l’original.]
+Je crois que, selon son sens clair, l’article 16.2 a éliminé toute compétence inhérente ou résiduelle que possède la Cour lorsqu’il s’agit de permettre le retrait d’un avis de désistement. Le droit et la logique donnent à entendre que la Cour n’a pas plus la latitude ou le pouvoir nécessaires pour le faire que pour rouvrir une affaire après avoir rendu jugement.
+[Non souligné dans l’original.]
+[13] En l’espèce, comme dans l’arrêt Scarola, il n’y a pas d’allégation de fraude ou de faits survenus ou découverts après le rejet de l’appel. La décision de l’appelante était peut-être précipitée, mais les allégations selon lesquelles elle n’était pas représentée par un avocat ou qu’elle n’a pas été adéquatement servie par l’Agence du revenu du Canada pendant l’étape de la vérification ne peuvent pas être prises en compte par la Cour dans le cadre d’une requête visant à annuler ou à modifier un jugement dans une affaire dans laquelle le « désistement équivaut au rejet de la procédure en cause à la date à laquelle la Cour reçoit l’avis de désistement » [au paragraphe 16.2(2)].
+[14] Cette analyse permet de trancher efficacement la requête, de l’avis de la Cour. Le résultat est malheureux et il sera vraisemblablement difficile à accepter pour l’appelante puisque le ministre avait accepté d’accueillir l’appel, comme le démontre le consentement à jugement susmentionné. Je laisserai au ministre le soin de déterminer si l’établissement d’une nouvelle cotisation est approprié pour la mise en œuvre des modalités du consentement, conformément peut-être au paragraphe 298(2) de la Loi sur la taxe d’accise, LRC (1985), ch. E-15.
+[15] La requête est rejetée sans dépens.
+Signé à Ottawa, Canada, ce 27e jour de juin 2018.
+« Guy Smith »
+Le juge Smith
+RÉFÉRENCE :
+2018 CCI 119
+Nº DU DOSSIER DE LA COUR :
+2016-3028(GST)I
+INTITULÉ :
+JENNIFER HEATH c. LA REINE
+LIEU DE L’AUDIENCE :
+Ottawa, Canada
+DATE DE LA PRÉSENTATION DE LA REQUÊTE PAR ÉCRIT :
+LE 12 AVRIL 2018
+MOTIFS DE L’ORDONNANCE :
+L’honorable juge Guy R. Smith
+DATE DE L’ORDONNANCE :
+LE 27 JUIN 2018
+COMPARUTIONS :
+Pour l’appelante :
+L’appelante elle-même
+Avocat de l’intimée :
+Me Arnav Patel
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+S.O.
+Cabinet :
+[EN BLANC]
+Pour l’intimée :
+Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa, Canada

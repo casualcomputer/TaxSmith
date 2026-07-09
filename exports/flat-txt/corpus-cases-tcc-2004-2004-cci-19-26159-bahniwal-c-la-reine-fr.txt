@@ -1,0 +1,158 @@
+Title: Bahniwal c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26159/index.do
+Corpus path: corpus/cases/tcc/2004/2004-cci-19-26159-bahniwal-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2004-01-08
+
+# Bahniwal c. La Reine
+
+- Citation: 2004 CCI 19
+- Decision date: 2004-01-08
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3957, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Bahniwal c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-01-08
+Référence neutre
+2004 CCI 19
+Numéro de dossier
+2002-4225(EI)
+Juges et Officiers taxateurs
+David W. Beaubier
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2002-4225(EI)
+ENTRE :
+NASIB KAUR BAHNIWAL,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+SURINDER P.S. MANN,
+intervenant.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu à Kelowna (Colombie-Britannique), le 4 décembre 2003.
+Devant : L’honorable D.W. Beaubier
+Comparutions :
+Avocat de l’appelante :
+Me G.M. Andy Advani
+Avocat de l’intimé :
+Avocat de l’intervenant :
+Me Bruce Senkpiel
+Me G.M. Andy Advani
+____________________________________________________________________
+JUGEMENT
+L’appel est accueilli et la décision du ministre est annulée selon les motifs de jugement ci‑joints.
+L’appelante a droit aux frais prévus par la Loi sur l’assurance‑emploi.
+Signé à Saskatoon (Saskatchewan), ce 8e jour de janvier 2004.
+« D.W. Beaubier »
+Juge Beaubier
+Traduction certifiée conforme
+ce 1er jour d’avril 2005.
+Jacques Deschênes, traducteur
+Dossier : 2002-4226(CPP)
+ENTRE :
+NASIB KAUR BAHNIWAL,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+SURINDER P.S. MANN,
+intervenant.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu à Kelowna (Colombie-Britannique), le 4 décembre 2003.
+Devant : L’honorable D.W. Beaubier
+Comparutions :
+Avocat de l’appelante :
+Me G.M. Andy Advani
+Avocat de l’intimé :
+Avocat de l’intervenant :
+Me Bruce Senkpiel
+Me G.M. Andy Advani
+____________________________________________________________________
+JUGEMENT
+L’appel est accueilli et la décision du ministre est annulée selon les motifs de jugement ci‑joints.
+Signé à Saskatoon (Saskatchewan), ce 8e jour de janvier 2004.
+« D.W. Beaubier »
+Juge Beaubier
+Traduction certifiée conforme
+ce 1er jour d’avril 2005.
+Jacques Deschênes, traducteur
+Référence : 2004CCI19
+Date : 20040108
+Dossier : 2002-4225(EI)
+ENTRE :
+NASIB KAUR BAHNIWAL,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+SURINDER P.S. MANN,
+intervenant;
+Dossier : 2002-4226(CPP)
+ET ENTRE :
+NASIB KAUR BAHNIWAL,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+SURINDER P.S. MANN,
+intervenant.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Beaubier
+[1] Ces appels ont été entendus ensemble sur preuve commune à Kelowna (Colombie‑Britannique) le 4 décembre 2003. L’appelante a témoigné; elle a cité son employeur, qui est également son gendre, Surinder Mann, l’intervenant dans chaque affaire; Judith McAllister, C.G.A., la comptable de M. Mann; et Kehar Singh Khaira, qui exerçait un emploi auprès de M. Mann pendant la période pertinente. L’intimé a cité Brian Lundgrun, l’agent d’enquête à Développement des ressources humaines Canada (« DRHC ») dans cette affaire.
+[2] Les questions en litige sont énoncées aux paragraphes 3 à 8 inclusivement de la réponse à l’avis d’appel, lesquels sont rédigés comme suit :
+[TRADUCTION]
+3. En réponse à l’appel interjeté par l’appelante à la suite d’une décision rendue en vertu de l’article 91 de la Loi sur l’assurance‑emploi, L.C. 1996, ch. 23 (la « Loi »), l’intimé a conclu que l’appelante n’exerçait pas un emploi assurable auprès de Surinder Mann (« M. Mann ») pendant la période allant du 29 juillet au 23 octobre 2000 (la « période »).
+4. En concluant que l’appelante n’exerçait pas un emploi assurable auprès de M. Mann pendant la période en question, l’intimé s’est fondé sur les hypothèses de fait ci‑après énoncées :
+a) Surinder Mann (« M. Mann ») exploite un verger à deux endroits, à Oliver (Colombie‑Britannique);
+b) M. Mann exploite son verger en tant qu’entreprise individuelle;
+c) l’appelante est la belle‑mère de M. Mann;
+d) l’appelante habitait chez M. Mann pendant la période en question;
+e) l’appelante a reçu de M. Mann un relevé d’emploi indiquant une période d’emploi allant du 29 juillet au 23 octobre 2000;
+f) selon le relevé d’emploi de l’appelante, en date du 24 octobre 2000, 730 heures d’emploi assurable auraient été effectuées;
+g) les heures et jours de travail effectués par l’appelante ne sont pas inscrits dans les rapports sommaires de la rémunération et des retenues de M. Mann qui ont été préparés les 29 septembre et 6 octobre 2000;
+h) le nom de l’appelante a commencé à figurer dans les rapports sommaires de la rémunération et des retenues de M. Mann le 21 octobre 2000 seulement;
+i) selon les documents de M. Mann, l’appelante aurait effectué chaque jour un plus grand nombre d’heures que les autres travailleurs pendant la période en question;
+j) l’appelante n’a pas effectué le nombre d’heures indiquées dans le relevé d’emploi;
+k) l’appelante n’exerçait pas un emploi aux termes d’un contrat de louage de services pendant la période en question;
+l) M. Mann et l’appelante avaient entre eux un lien de dépendance pendant la période en question;
+m) compte tenu de toutes les circonstances, il n’est pas raisonnable de conclure que M. Mann et l’appelante auraient conclu entre eux un contrat de travail à peu près semblable s’ils n’avaient pas eu de lien de dépendance.
+B. QUESTIONS À TRANCHER
+5. Il s’agit de savoir si l’appelante exerçait un emploi assurable auprès de M. Mann pendant la période en question. Subsidiairement, s’il est conclu que l’appelante exerçait un emploi aux termes d’un contrat de louage de services conclu avec M. Mann, il s’agit de savoir si l’appelante et M. Mann avaient ou non entre eux un lien de dépendance pour l’application des alinéas 5(2)i) et 5(3)b) de la Loi.
+C. DISPOSITIONS LÉGISLATIVES INVOQUÉES
+6. Il s’est fondé sur les alinéas 5(1)a), 5(2)i) et 5(3)b) ainsi que sur le paragraphe 2(1) de la Loi et sur l’article 251 de la Loi de l’impôt sur le revenu.
+D. MOTIFS INVOQUÉS ET RÉPARATION DEMANDÉE
+7. Il soutient respectueusement que l’appelante n’exerçait pas un emploi assurable auprès de M. Mann pendant la période en question étant donné qu’elle n’était pas régie par un contrat de louage de services au sens de l’alinéa 5(1)a) de la Loi.
+8. Subsidiairement, il soutient que l’appelante et M. Mann étaient liés entre eux et que l’emploi de l’appelante était un emploi exclu conformément à l’alinéa 5(2)i) de la Loi. Il soutient que l’appelante et M. Mann ne sont pas réputés traiter entre eux sans qu’il y ait de lien de dépendance au sens de l’alinéa 5(3)b) de la Loi puisque le ministre n’est pas convaincu que, compte tenu de toutes les circonstances, un contrat de travail à peu près semblable aurait été conclu en l’absence d’un lien de dépendance.
+[3] L’hypothèse énoncée à l’alinéa 4a) est inexacte. M. Mann exploitait un verger de 22 acres (où il cultivait des pommes, des cerises et des pêches) et une ferme de six acres où il cultivait des tomates et des poivrons. Les hypothèses énoncées à l’alinéa 4b), sous réserve de la remarque qui précède, ainsi qu’aux alinéas c), e), f), g), h), i) et l) n’ont pas été réfutées par la preuve. L’hypothèse énoncée à l’alinéa 4d) est erronée : l’appelante habitait une autre propriété avec sa fille, qui était veuve, ses petits‑enfants et son mari. Les autres hypothèses sont en litige.
+[4] Au départ, la Cour conclut que l’appelante exerçait son emploi auprès de M. Mann aux termes d’un contrat de louage de services pendant la période en question. En particulier, le témoignage de M. Khaira, qui a déclaré qu’il travaillait pour M. Mann et que l’appelante était une compagne de travail pendant la période en question, a convaincu la Cour. La Cour a également conclu que l’appelante s’est montrée honnête et qu’elle était crédible. L’appelante a 65 ans, elle est analphabète et elle ne parle pas l’anglais. Elle est mince, musclée et en excellente forme. Elle semble être ce qu’elle affirme être : une femme qui exécute des travaux agricoles pendant la saison en vue de gagner sa vie. Aucun des témoins de l’appelante n’a déclaré le contraire.
+[5] L’appelante travaillait sous le contrôle de M. Mann et, comme les autres employés de M. Mann, elle faisait ce que M. Mann ou le chef d’équipe lui ordonnait de faire, en travaillant dans le verger ou aux champs. L’appelante ne possédait pas d’instruments de travail, mais elle utilisait le matériel agricole disponible. Comme les autres, elle était rémunérée deux fois l’an, par chèque, lorsque M. Mann recevait l’argent provenant de la vente des fruits et légumes. L’appelante déposait le chèque dans son propre compte, à la Banque Royale, comme le montre le carnet de banque qu’elle ne pouvait pas lire; l’appelante savait toutefois qu’il s’agissait de sa banque et de son argent. L’appelante était complètement intégrée aux travailleurs agricoles et à l’exploitation de la ferme en tant que travailleuse agricole expérimentée qui se présentait au travail avec les autres et, parce qu’elle ne vivait qu’à cinq ou six minutes de là, elle travaillait parfois plus longtemps que les autres.
+[6] Conformément à l’avis d’appel et à la décision rendue par la Cour d’appel fédérale dans l’affaire Canada c. Jencan Ltd., [1998] 1 C.F. 187, paragraphe 31, la présente cour doit déterminer : (1) si le ministre agissait de mauvaise foi ou dans un but ou un mobile illicite; or, il n’existe aucune preuve à ce sujet; ou (2) si le ministre a tenu compte d’un facteur non pertinent; l’avocat de l’appelante a allégué que l’affaire résultait d’appels anonymes que l’on avait faits aux bureaux de DRHC pour se plaindre de l’appelante, mais rien ne montre que ces appels aient eu d’autres conséquences si ce n’est l’enquête qui a été engagée au sujet de l’appelante, enquête qui, selon la Cour, était légitime. Néanmoins, DRHC a conclu à tort que l’appelante habitait chez M. Mann pendant la période en question (hypothèse 4d)); ou encore (3) a omis de tenir compte de toutes les circonstances pertinentes. La Cour doit examiner ces derniers facteurs.
+[7] L’appelante a paraphé un formulaire dactylographié de demande de prestations d’emploi en date du 20 avril 2001. Or, elle n’aurait pas pu « signer » ou parapher le formulaire puisque, de la fin du mois d’octobre 2000 au 18 mai 2001, elle était en Inde. En outre, aucun document produit en preuve émanant d’une personne autre que DRHC et Mme McAllister n’était dactylographié ou n’était en aussi bon état que la demande (pièce R‑4). Ce document a été produit par M. Lundgrun, qui a témoigné qu’il avait rencontré M. Mann dans le cadre de son enquête et que M. Mann était agressif et avait rapidement mis fin à l’entrevue. M. Lundgrun a téléphoné à l’appelante et a organisé un rendez‑vous avec un agent de DRHC qui parlait la même langue que celle‑ci, mais l’appelante ne s’est pas présentée. M. Lundgrun a vu l’appelante pour la première fois lors de la présente audience.
+[8] Par conséquent, l’appelante n’a pas rencontré les représentants de DRHC; elle était la belle‑mère de l’employeur; les hypothèses énoncées aux alinéas 4g), h) et i) ont été présentées en preuve devant DRHC. Cependant, l’hypothèse émise à l’alinéa 4d) est erronée; or, ce « facteur » est suffisant pour justifier l’énoncé d’une hypothèse, de sorte qu’il a eu un rôle dans la décision du ministre. En outre, le fait de vivre dans la même maison indique l’existence de liens étroits possibles. En particulier, l’avocat de l’intimé a demandé à l’appelante si elle gardait les enfants de M. Mann et cette dernière a répondu qu’elle ne les gardait pas, que sa fille qui était veuve prenait soin de ses trois enfants et que ses beaux‑parents l’aidaient.
+[9] Il convient de mentionner en passant, en ce qui concerne les appels anonymes effectués aux bureaux de DRHC et les questions se rapportant à la garde des enfants, que nombreux sont ceux qui pourraient être jaloux de M. Mann. En effet, M. Mann a marié sa femme, qui résidait déjà au Canada; il a immigré au Canada et a travaillé comme travailleur agricole pendant de nombreuses années. Il a ensuite obtenu un bail annuel à l’égard du verger de 22 acres, et ce bail s’applique encore. M. Mann a depuis lors acheté la ferme de six acres où il vit avec sa famille. Il vend la plupart de ses produits à Vancouver, où il se rend lui‑même en camion. Il a connu un succès remarquable au Canada grâce à son travail acharné. M. et Mme Bahniwal ont choisi un bon gendre, de sorte que la chose pourrait également susciter de la jalousie à cet égard. En d’autres termes, les appels anonymes qui ont été effectués aux bureaux de DRHC étaient peut‑être attribuables à autre chose que l’idée de faire connaître la vérité.
+[10] Étant donné qu’il a été conclu que Mme Bahniwal n’habitait pas chez M. Mann, la Cour conclut que le ministre a pris en considération un facteur inexact et non pertinent et, cela étant, la Cour peut rendre une nouvelle décision. Selon la preuve dont dispose la Cour, Mme Bahniwal était une employée de M. Mann et elle a effectué les heures de travail indiquées pendant la période en question. Par conséquent, les appels sont accueillis.
+[11] L’appelante a droit aux frais et débours prévus par la Loi sur l’assurance‑emploi.
+Signé à Saskatoon (Saskatchewan), ce 8e jour de janvier 2004.
+« D.W. Beaubier »
+Juge Beaubier
+Traduction certifiée conforme
+ce 1er jour d’avril 2005.
+Jacques Deschênes, traducteur

@@ -1,0 +1,268 @@
+---
+title: "Liddle c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29394/index.do"
+last_modified: "2009-09-11"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 CCI 451"
+citation2: ""
+neutral_citation: "2009 CCI 451"
+decision_date: "2009-09-11"
+language: "fr"
+item_id: "29394"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6885
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T11:35:36.535000+00:00"
+cases_cited_count: 1
+cases_citing_count: 4
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "57689a02f737e998c18386b73a5d4c028d5e9d6d2f04282532ea3f8ea5743433"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Liddle c. La Reine
+
+- Citation: 2009 CCI 451
+- Decision date: 2009-09-11
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6885, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Liddle c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2009-09-11
+Référence neutre
+2009 CCI 451
+Numéro de dossier
+2005-4271(IT)G
+Juges et Officiers taxateurs
+Diane Campbell
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2005-4271(IT)G
+ENTRE :
+THOMAS GERALD (GERRY) LIDDLE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+__________________________________________________________________
+Appel entendu sur preuve commune avec l’appel de
+Thomas Gerald (Gerry) Liddle (2005‑3409(GST)G)
+les 16 et 17 juin 2009, à Sault Ste. Marie (Ontario)
+Devant : L’honorable juge Diane Campbell
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Me Nicolas Simard
+____________________________________________________________________
+JUGEMENT
+L’appel de la cotisation établie en vertu de la Loi de l’impôt sur le revenu à l’égard de l’avis de cotisation daté du 9 mars 2004 est rejeté avec dépens, et la cotisation est renvoyée au ministre du Revenu national pour nouvel examen et nouvelle cotisation conformément aux motifs du jugement ci-joints.
+Signé à Summerside (Île-du-Prince-Édouard), ce 11e jour de septembre 2009.
+« Diane Campbell »
+Juge Campbell
+Traduction certifiée conforme
+ce 20e jour de novembre 2009.
+Mario Lagacé, jurilinguiste
+Dossier : 2005-3409(GST)G
+ENTRE :
+THOMAS GERALD (GERRY) LIDDLE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec l’appel de
+Thomas Gerald (Gerry) Liddle (2005‑4271(IT)G)
+les 16 et 17 juin 2009, à Sault Ste. Marie (Ontario)
+Devant : L’honorable juge Diane Campbell
+Comparutions :
+Pour l’appelant :
+L’appelant lui‑même
+Avocat de l’intimée :
+Me Nicolas Simard
+____________________________________________________________________
+JUGEMENT
+L’appel de la cotisation établie en vertu de la Loi sur la taxe d’accise à l’égard de l’avis de cotisation numéro 100240738‑A103885, daté du 9 mars 2004, est rejeté avec dépens, et la cotisation est renvoyée au ministre du Revenu national pour nouvel examen et nouvelle cotisation conformément aux motifs du jugement ci-joints.
+Signé à Summerside (Île-du-Prince-Édouard), ce 11e jour de septembre 2009.
+« Diane Campbell »
+Juge Campbell
+Traduction certifiée conforme
+ce 20e jour de novembre 2009.
+Mario Lagacé, jurilinguiste
+Référence : 2009 CCI 451
+Date : 20090911
+Dossiers : 2005-4721(IT)G
+2005-3409(GST)G
+ENTRE :
+THOMAS GERALD (GERRY) LIDDLE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Campbell
+[1] Les présents appels portent sur la responsabilité de l’appelant, en sa qualité d’administrateur de AquaNorth Farms Inc. (« Farms ») à l’égard de l’omission de Farms de verser la taxe nette, soit la TPS, en contravention de la Loi sur la taxe d’accise (« LTA »), ainsi que les retenues à la source sur la paie en contravention du Régime de pensions du Canada (« RPC ») et de la Loi sur l’assurance‑emploi (« LAE »). Les pénalités et les intérêts afférents ont également été ajoutés. L’appelant a fait l’objet d’une cotisation à l’égard de ces montants en vertu du paragraphe 323(1) de la LTA et du paragraphe 227.1(1) de la Loi de l’impôt sur le revenu (la « Loi »).
+[2] Les paragraphes 21.1(1) du RPC et 83(1) de la LAE rendent les administrateurs d’une personne morale, lorsque cette dernière est un employeur, solidairement responsables lorsque la personne morale omet de verser un montant en application des présentes dispositions :
+Responsabilité des administrateurs
+21.1(1) En cas d’omission par un employeur personne morale de verser ou de déduire un montant de la manière et au moment prévus au paragraphe 21(1), les personnes qui en étaient les administrateurs à la date de l’omission sont solidairement responsables envers Sa Majesté du paiement de ce montant ainsi que des intérêts et pénalités qui s’y rapportent.
+[3] De même, le paragraphe 83(1) de la LAE prévoit ce qui suit :
+Responsabilité des administrateurs
+83.(1) Dans les cas où un employeur qui est une personne morale omet de verser ou de déduire un montant de la manière et au moment prévus au paragraphe 82(1), les administrateurs de la personne morale au moment de l’omission et la personne morale sont solidairement responsables envers Sa Majesté de ce montant ainsi que des intérêts et pénalités qui s’y rapportent.
+[4] Le paragraphe 21.1(2) du RPC et le paragraphe 83(2) de la LAE prévoient que les paragraphes 227.1(2) à (7) de la Loi de l’impôt sur le revenu s’appliquent à l’administrateur de la personne morale.
+[5] Le paragraphe 227.1 de la Loi prévoit ce qui suit :
+Responsabilité des administrateurs pour défaut d’effectuer les retenues
+227.1 (1) Lorsqu’une société a omis de déduire ou de retenir une somme, tel que prévu aux paragraphes 135(3) ou 135.1(7) ou aux articles 153 ou 215, ou a omis de verser cette somme ou a omis de payer un montant d’impôt en vertu de la partie VII ou VIII pour une année d’imposition, les administrateurs de la société, au moment où celle-ci était tenue de déduire, de retenir, de verser ou de payer la somme, sont solidairement responsables, avec la société, du paiement de cette somme, y compris les intérêts et les pénalités s’y rapportant.
+Restrictions relatives à la responsabilité
+227.1(2) Un administrateur n’encourt la responsabilité prévue au paragraphe (1) que dans l’un ou l’autre des cas suivants :
+a) un certificat précisant la somme pour laquelle la société est responsable selon ce paragraphe a été enregistré à la Cour fédérale en application de l’article 223 et il y a eu défaut d’exécution totale ou partielle à l’égard de cette somme;
+b) la société a engagé des procédures de liquidation ou de dissolution ou elle a fait l’objet d’une dissolution et l’existence de la créance à l’égard de laquelle elle encourt la responsabilité en vertu de ce paragraphe a été établie dans les six mois suivant le premier en date du jour où les procédures ont été engagées et du jour de la dissolution;
+c) la société a fait une cession ou une ordonnance de faillite a été rendue contre elle en vertu de la Loi sur la faillite et l’insolvabilité et l’existence de la créance à l’égard de laquelle elle encourt la responsabilité en vertu de ce paragraphe a été établie dans les six mois suivant la date de la cession ou de l’ordonnance de faillite.
+227.1(3) Un administrateur n’est pas responsable de l’omission visée au paragraphe (1) lorsqu’il a agi avec le degré de soin, de diligence et d’habileté pour prévenir le manquement qu’une personne raisonnablement prudente aurait exercé dans des circonstances comparables.
+Prescription
+227.1(4) L’action ou les procédures visant le recouvrement d’une somme payable par un administrateur d’une société en vertu du paragraphe (1) se prescrivent par deux ans à compter de la date à laquelle l’administrateur cesse pour la dernière fois d’être un administrateur de cette société.
+Montant recouvrable
+227.1(5) Dans le cas du défaut d’exécution visé à l’alinéa (2)a), la somme qui peut être recouvrée d’un administrateur est celle qui demeure impayée après l’exécution.
+Privilège
+227.1(6) Lorsqu’un administrateur verse une somme à l’égard de laquelle la société encourt une responsabilité en vertu du paragraphe (1), qui est établie lors de procédures de liquidation, de dissolution ou de faillite, il a droit à tout privilège auquel Sa Majesté du chef du Canada aurait eu droit si cette somme n’avait pas été payée et, lorsqu’un certificat a été enregistré relativement à cette somme, il peut exiger que le certificat lui soit cédé jusqu’à concurrence du versement et le ministre est autorisé à faire cette cession.
+Répétition
+227.1(7) L’administrateur qui a satisfait à la créance en vertu du présent article peut répéter les parts des administrateurs tenus responsables de la créance.
+[6] Le libellé de l’article 323 de la LTA est presque identique à celui de l’article 227.1 de la Loi. Il est rédigé comme suit :
+Responsabilité des administrateurs
+323.(1) Les administrateurs d’une personne morale au moment où elle était tenue de verser, comme l’exigent les paragraphes 228(2) ou (2.3), un montant de taxe nette ou, comme l’exige l’article 230.1, un montant au titre d’un remboursement de taxe nette qui lui a été payé ou qui a été déduit d’une somme dont elle est redevable, sont, en cas de défaut par la personne morale, solidairement tenus, avec cette dernière, de payer le montant ainsi que les intérêts et pénalités afférents.
+Restrictions
+(2) L’administrateur n’encourt de responsabilité selon le paragraphe (1) que si :
+a) un certificat précisant la somme pour laquelle la personne morale est responsable a été enregistré à la Cour fédérale en application de l’article 316 et il y a eu défaut d’exécution totale ou partielle à l’égard de cette somme;
+b) la personne morale a entrepris des procédures de liquidation ou de dissolution, ou elle a fait l’objet d’une dissolution, et une réclamation de la somme pour laquelle elle est responsable a été établie dans les six mois suivant le premier en date du début des procédures et de la dissolution;
+c) la personne morale a fait une cession, ou une ordonnance de faillite a été rendue contre elle en application de la Loi sur la faillite et l’insolvabilité, et une réclamation de la somme pour laquelle elle est responsable a été établie dans les six mois suivant la cession ou l’ordonnance.
+Diligence
+(3) L’administrateur n’encourt pas de responsabilité s’il a agi avec autant de soin, de diligence et de compétence pour prévenir le manquement visé au paragraphe (1) que ne l’aurait fait une personne raisonnablement prudente dans les mêmes circonstances.
+Cotisation
+(4) Le ministre peut établir une cotisation pour un montant payable par une personne aux termes du présent article. Les articles 296 à 311 s’appliquent, compte tenu des adaptations de circonstance, dès que le ministre envoie l’avis de cotisation applicable.
+Prescription
+(5) L’établissement d’une telle cotisation pour un montant payable par un administrateur se prescrit par deux ans après qu’il a cessé pour la dernière fois d’être administrateur.
+Montant recouvrable
+(6) Dans le cas du défaut d’exécution visé à l’alinéa (2)a), la somme à recouvrer d’un administrateur est celle qui demeure impayée après l’exécution.
+Privilège
+(7) L’administrateur qui verse une somme, au titre de la responsabilité d’une personne morale, qui est établie lors de procédures de liquidation, de dissolution ou de faillite a droit au privilège auquel Sa Majesté du chef du Canada aurait eu droit si cette somme n’avait pas été versée. En cas d’enregistrement d’un certificat relatif à cette somme, le ministre est autorisé à céder le certificat à l’administrateur jusqu’à concurrence de son versement.
+Répétition
+(8) L’administrateur qui a satisfait à la réclamation peut répéter les parts des administrateurs tenus responsables de la réclamation.
+Les faits
+[7] Farms a ouvert ses portes en 1983. L’appelant a commencé à exploiter son entreprise en tant que pépinière, en faisant pousser des dizaines de millions d’arbres, de la semence aux arbres de semis, en vue de les livrer à des entreprises forestières œuvrant dans la reforestation avec lesquelles il avait conclu des contrats. L’appelant était président, directeur général et administrateur de Farms. Sa femme était également administratrice, mais la preuve semble indiquer que sa participation à l’entreprise était limitée.
+[8] En 1995, Farms a reçu un important investissement en capital de la part de Environmental Research and Development Capital Corporation (« ERD »). ERD a été créée pour investir d’importants montants en capital dans des entreprises prometteuses œuvrant dans les secteurs de l’environnement et de l’infrastructure de l’économie canadienne. Derrick Rolfe était l’administrateur délégué et le fondateur de ce fonds de capital de risque. Selon M. Rolfe, ERD ne dirigeait pas les entreprises dans lesquelles elle investissait, mais surveillait simplement ses investissements au moyen de conventions d’actionnaires. Monsieur Rolfe a déclaré que, lorsqu’ERD investissait des capitaux dans une entreprise, il concluait toujours des conventions d’actionnaires afin de protéger la participation d’ERD dans l’éventualité où des événements défavorables venaient à se produire, comme une réorganisation de la société, une émission d’actions ou une déclaration d’un dividende. Il a affirmé que ces conventions protégeaient l’investissement d’ERD sans que cette dernière ait besoin de s’occuper des activités quotidiennes des entreprises dans lesquelles elle investissait. Monsieur Rolfe a déclaré qu’ERD voulait investir dans Farms en raison de l’avenir prometteur de l’industrie du crédit de carbone et parce que Farms était une société qui convertissait du dioxyde de carbone en oxygène grâce à la culture des arbres.
+[9] Pour faciliter l’investissement d’ERD dans Farms, AquaNorth Holdings (« Holdings ») a été constituée en personne morale au sein de laquelle l’appelant détenait 60 % des actions par l’entremise de sa société, Jocopa Investments, et ERD détenait les 40 % restants. L’appelant était administrateur de Holdings, tout comme l’était M. Rolfe, à titre de représentant d’ERD.
+[10] En 2001, Farms a connu des difficultés financières, et la relation entre M. Rolfe et l’appelant s’est extrêmement envenimée. Cela était évident compte tenu des propos virulents qu’ils se sont échangés à l’audience. En 1998, une des principales institutions de prêt d’ERD, Philip Service Board, a fait faillite. Par conséquent, entre 1998 et 2001, M. Rolfe a tenté de réaliser les six investissements d’ERD, y compris Farms. Il a déclaré qu’ERD avait décidé de ne pas investir davantage dans Farms et qu’en fait, il avait dit à l’appelant qu’il voulait lui vendre les actions qu’ERD détenait dans Holdings. L’appelant a déclaré que Farms avait besoin d’être refinancée en raison d’un certain nombre de facteurs, notamment le fait qu’ERD voulait retirer son investissement, le niveau d’endettement actuel de Farms et l’état de l’économie canadienne après le 11 septembre 2001. Toutefois, M. Rolfe a dit avoir appris, lors d’une réunion à l’automne 2001, que l’appelant avait promis à la Banque Royale que, si elle pouvait lui fournir davantage de financement, ERD investirait plus de capital. Monsieur Rolfe a déclaré que, comme l’entreprise ne lui remettait que les états financiers annuels, il ne savait pas, avant cette réunion, que l’appelant tentait de refinancer Farms en insinuant qu’ERD investirait plus de fonds. Se préoccupant de l’investissement d’ERD dans Farms, M. Rolfe a essayé d’obtenir des renseignements financiers au sujet de cette entreprise afin qu’il puisse prendre une décision éclairée concernant l’avenir de l’investissement d’ERD eu égard à la faillite de l’un de ses principaux prêteurs.
+[11] Selon le témoignage de M. Rolfe, l’appelant a entravé tous ses efforts pour obtenir des renseignements financiers. Il a affirmé qu’il lui a écrit des lettres, lui a envoyé des courriels et a essayé de lui téléphoner, mais que l’appelant a contrecarré tous ces efforts. Il semble qu’ERD avait droit à ces renseignements en vertu de la convention d’actionnaires. Ne réussissant pas à obtenir ces renseignements, M. Rolfe a tenté de solliciter de nouveaux investisseurs et acheteurs. Selon M. Rolfe, l’appelant a empêché activement ces investisseurs potentiels d’avoir accès aux locaux pour voir les installations, notamment en appelant la police. Selon le témoignage de l’appelant, aucun de ces investisseurs potentiels n’avait signé d’entente de confidentialité avant de voir les locaux. Le 19 décembre 2001, après ces événements, M. Rolfe a retenu les services de l’entreprise Ernst & Young pour agir à titre de consultants pour le compte d’ERD, dans le but d’obtenir des renseignements financiers. Elle n’a pas réussi à obtenir ces renseignements, car l’appelant avait apparemment retiré les dossiers pertinents des locaux de l’entreprise et, par conséquent, Ernst & Young ne pouvait pas déterminer la viabilité future de l’entreprise.
+[12] Le 17 janvier 2002, les avocats d’ERD ont envoyé une lettre à Holdings lui demandant formellement de rembourser divers montants qu’elle devait à ERD, ainsi qu’un préavis de l’intention de mettre à exécution une garantie conformément à la Loi sur la faillite et l’insolvabilité (pièce R-1, onglet 14). Est jointe à cet avis une ordonnance de la Cour supérieure de justice de l’Ontario nommant Ernst & Young à titre de séquestre intérimaire de Holdings et lui permettant d’avoir accès aux renseignements financiers de l’entreprise. Selon le témoignage de M. Rolfe, cette ordonnance visait à permettre à Ernst & Young de découvrir ce qui se passait dans l’entreprise, mais ne lui donnait pas le contrôle de ses activités. Selon M. Rolfe, l’appelant a continué de contrôler les activités de Holdings et de Farms malgré cette ordonnance en négociant et en obtenant du financement supplémentaire grâce au prêteur principal, la Banque Royale, en décembre 2001, mois durant lequel la banque lui a permis de continuer à émettre des chèques et à exploiter son entreprise.
+[13] Au début de mars 2002, Farms était incapable de respecter ses engagements envers ERD ou la Banque Royale. Cette dernière a nommé Deloitte & Touche et a mis Farms sous séquestre le 4 mars 2002. Farms a déclaré faillite le 24 juillet 2002.
+[14] Le 9 mars 2004, l’appelant a fait l’objet d’une cotisation à l’égard des retenues à la source, des pénalités et des intérêts non versés établie conformément à l’article 227.1 de la Loi, à l’article 38 de la Loi de l’impôt sur le revenu de l’Ontario, aux articles 21 et 21.1 du RPC et aux articles 82 et 83 de la LAE. L’appelant a également fait l’objet d’une cotisation le 9 mars 2004 à l’égard de la TPS que Farms avait déduite à la source, mais n’avait pas versée, ainsi que les pénalités et les intérêts afférents. Selon le témoignage d’Helene Ciutti, agente de perception au service d’insolvabilité de l’Agence du revenu du Canada (l’« ARC »), l’appelant a fait l’objet d’une cotisation pour la période du 1er octobre 2001 au 31 décembre 2001 à l’égard de la TPS et pour le mois de février 2002 à l’égard des retenues à la source non versées.
+[15] Le 26 août 2002, Farms a fait l’objet d’une cotisation pour avoir omis de déduire et de verser les retenues à la source, les intérêts et les pénalités, en contravention de l’article 153 de la Loi. Le 1er octobre 2002, l’ARC a établi une réclamation de la somme pour laquelle Farms était responsable après sa faillite du 24 juillet 2002. Le 2 octobre 2002, l’ARC a établi une réclamation de la TPS non payée. Par conséquent, l’exigence prévue à l’alinéa 227.1(2)c) de la Loi a été respectée.
+La thèse de l’appelant
+[16] L’appelant prétend qu’au moment des faits en litige, il n’était pas administrateur de Farms et n’était donc pas responsable au sens de l’article 227.1 de la Loi ou du paragraphe 323(1) de la LTA. Bien que le rapport du profil de la société de la province d’Ontario indique que lui et sa femme étaient administrateurs légaux de Farms au moment des faits et qu’ils recevaient tous deux un salaire à titre d’administrateurs, l’appelant insiste pour dire que, au moment où la société devait verser ou payer les montants de taxe nette et de retenues à la source, il n’était plus administrateur. Il affirme qu’au début de l’automne 2001 jusqu’en mai ou juin 2002, les deux mises sous séquestre ont fait en sorte de le rendre inhabile à contrôler les activités de l’entreprise, lui retirant ainsi son pouvoir à titre d’administrateur. Il soutient que la lettre de M. Rolfe du 21 décembre 2001 a mis fin à ses obligations en tant qu’administrateur. Subsidiairement, l’appelant prétend que l’ordonnance de la Cour du 22 janvier 2002 lui a fait perdre son rôle d’administrateur avant que les sommes soient dues et payables à l’ARC.
+[17] L’appelant soutient également que, même s’il était administrateur, il peut invoquer la défense de la diligence raisonnable parce qu’il a agi avec le degré de soin, de diligence et d’habileté pour prévenir le manquement qu’une personne raisonnablement prudente aurait exercé dans des circonstances comparables conformément au paragraphe 227.1(3) de la Loi et au paragraphe 323(3) de la LTA.
+La thèse de l’intimée
+[18] L’intimée fait valoir que l’appelant était administrateur de Farms au moment des faits et a continué de contrôler les activités quotidiennes de la société jusqu’au 4 mars 2002, date à laquelle Deloitte & Touche a obtenu l’ordonnance de mise sous séquestre de Farms. Comme l’entière responsabilité à l’égard de la TPS et des retenues à la source non versées a été engagée avant le 4 mars 2002, l’appelant est responsable en tant qu’administrateur de Farms puisqu’il n’a pas exercé la diligence raisonnable qui consiste à prévenir le non‑versement de ces montants. L’intimée prétend que l’ordonnance de la Cour du 22 janvier 2002, par laquelle Ernst & Young a été nommée à titre de séquestre intérimaire à la demande d’ERD, n’a pas fait perdre à l’appelant son rôle d’administrateur, car la Banque Royale, en tant que prêteur principal, est intervenue et a nommé ses propres séquestres, Deloitte & Touche, pour qu’ils surveillent la société. Toutefois, la Banque Royale a permis à l’appelant de signer des chèques et de continuer à exploiter la société à titre d’administrateur. En fait, la Banque Royale a obtenu sa propre ordonnance de la Cour et a exécuté la mise sous séquestre de Farms en date du 4 mars 2002, c’est‑à‑dire après les faits en litige et après la date à laquelle les montants en question devaient être versés.
+Les questions en litige
+[19] L’appelant était‑il administrateur de Farms au moment des faits en litige? Dans la négative, il ne sera pas tenu de payer la TPS et les retenues à la source non versées relatives au RPC et à l’A‑E.
+[20] Dans l’affirmative, a‑t-il agi avec diligence raisonnable? Si oui, il ne sera pas tenu de payer ces montants.
+L’analyse
+A) L’appelant était-il administrateur de Farms?
+[21] L’appelant n’a qu’à démontrer qu’il n’était pas administrateur de Farms au moment où cette dernière devait verser la taxe nette et les retenues à la source. Dans Robitaille c. La Reine, 90 D.T.C. 6059, le juge Addy a affirmé que, lorsqu’une banque a assumé le contrôle effectif d’une société, sans que les administrateurs l’aient demandé, et lorsque c’est exclusivement la banque qui prend les décisions concernant l’émission des chèques, là encore sans consultation du conseil d’administration, les actions de la société en ce qui concerne les versements, les paiements ou les retenues à la source seront essentiellement celles de la banque. Par conséquent, puisque le paragraphe 227.1(1) envisage la situation où la société agit librement par le truchement de son conseil d’administration, alors les administrateurs n’auraient aucune responsabilité.
+[22] De même, dans Champeval et al. c. M.R.N., 90 D.T.C. 1291, le juge en chef Couture a estimé que, si les administrateurs n’avaient pas le libre choix de leurs décisions à cause de facteurs complètement en dehors de leur contrôle, ils ne peuvent être assujettis aux dispositions du paragraphe 227.1(1). Cependant, dans White v. M.N.R., 91 D.T.C. 54, une décision rendue en 1990, notre Cour a préféré le raisonnement adopté dans Fraser c. M.R.N., 87 D.T.C. 250, à celui adopté dans la jurisprudence plus récente et a confirmé la cotisation du ministre au motif que la responsabilité directe d’un administrateur était de prévenir le défaut de la société de déduire ou de verser des sommes.
+[23] La preuve indique clairement que l’appelant et sa femme étaient les administrateurs légaux de Farms. L’appelant, par l’entremise de l’une de ses entreprises, était également actionnaire principal et administrateur de Holdings. Lorsque la relation entre l’appelant et M. Rolfe s’est envenimée, ce dernier a envoyé une lettre à Farms à l’attention de l’appelant, datée du 20 décembre 2001 (pièce R‑1, onglet 12), l’avisant qu’il avait commis diverses violations d’un accord d’abstention (qui n’a pas été produit en preuve) qu’il avait conclu avec ERD et lui demandant accès aux locaux pour montrer la propriété à des acheteurs potentiels. Le lendemain, le 21 décembre 2001, M. Rolfe, toujours pour le compte d’ERD, a remis une deuxième lettre à Farms demandant à l’appelant de [traduction] « cesser d’autoriser des paiements à partir des comptes d’AquaNorth ». Il a poursuivi en affirmant ceci : [traduction] « Par la présente, vous êtes également avisé que vos obligations et vos droits à titre d’administrateur d’AquaNorth sont annulés et, par conséquent, vous n’assisterez à aucune réunion du conseil que vous aviez antérieurement envisagée […] entre-temps, vous n’êtes pas tenu de vous présenter aux bureaux, sauf pour les réunions de gestion que nous avons prévues. » Ainsi, une des dates à laquelle l’appelant a prétendu avoir perdu le contrôle en tant qu’administrateur des activités de la société était la date de cette dernière lettre, le 21 décembre 2001. Toutefois, la preuve démontre clairement que l’appelant a ignoré cette lettre et l’a simplement rangée dans son dossier « Divers ». Il a réussi à empêcher M. Rolfe d’avoir accès aux locaux avec des acheteurs potentiels ou d’obtenir des renseignements financiers au nom d’ERD. En fait, M. Rolfe a engagé Ernst & Young à titre de consultants en espérant que cette entreprise puisse obtenir ces renseignements financiers, mais elle a également échoué.
+[24] L’appelant a reconnu que [traduction] « de septembre à décembre, [il] étai[t] au fait des activités de la société et des chèques qui étaient émis… » (transcription, page 123). La preuve démontre que l’appelant a continué d’avoir le contrôle après la lettre du 21 décembre 2001. Il a œuvré dans cette industrie pendant de nombreuses années et savait parfaitement que l’entreprise connaissait des difficultés financières et devait être refinancée. Il a apparemment continué de négocier avec la Banque Royale, et la preuve semble indiquer qu’il a obtenu d’autres avances de la banque. Les pages 148 à 150 de la transcription font état de l’échange suivant qui a eu lieu lorsque l’avocat de l’intimée a contre‑interrogé l’appelant :
+[traduction]
+Q. Il vous appelle. Il vous dit que votre répondeur est éteint, que vous ne retournez pas ses appels. Maintenant, vous nous dites qu’il aurait pu appeler n’importe quand.
+R. À de nombreuses occasions, je n’étais pas là. Je me rendais régulièrement à la pépinière de St. Williams. S’il appelait – c’était avant l’époque des téléphones cellulaires, bien entendu – si j’étais en route vers St. Williams, en conduisant comme je le fais habituellement, je n’étais pas disponible.
+Cette période était vraiment mouvementée et chaotique. Nous traversions une crise financière, à un moment de l’année où nous sommes excessivement occupés. Les semaines avant Noël, nous emballons les arbres. Ils ont été cultivés toute l’année et, lorsque nous atteignons la période de décembre à janvier, nous devons considérablement augmenter nos recettes et travailler intensivement.
+À ce moment‑là, plus de deux cents employés travaillaient dans les installations, trois périodes de travail par jour. Les équipes de gestion fonctionnaient à plein régime, alors que nous traversions une crise financière.
+Fallait‑il vraiment s’étonner du fait que je n’étais pas assis à côté de mon téléphone à attendre l’appel de M. Rolfe?
+(Transcription, page 148, ligne 25; page 149, lignes 1-25; page 150, ligne 1)
+[25] Il semble que l’appelant exerçait les activités de l’entreprise à plein régime durant la haute saison, de décembre 2001 à janvier 2002. Le fait que l’appelant a ignoré la lettre du 21 décembre 2001 d’ERD et n’y a donné aucune suite est étayé par l’action subséquente d’ERD lorsqu’elle a retenu les services d’un avocat en janvier 2002 pour obtenir une ordonnance de la Cour afin qu’Ernst & Young soit nommée séquestre intérimaire. Si M. Rolfe, au nom d’ERD, avait pris le contrôle de la société en application de la lettre du 21 décembre 2001, comme le prétend l’appelant, il n’aurait pas eu besoin de retenir les services d’un avocat pour convaincre les tribunaux d’ordonner à AquaNorth de divulguer les renseignements financiers à Ernst & Young. À un certain moment dans son témoignage, l’appelant a affirmé qu’il avait perdu le contrôle de la société en novembre 2001 en raison des deux mises sous séquestre. L’ordonnance du 22 janvier 2002 était la première ordonnance de mise sous séquestre et, par conséquent, le témoignage de l’appelant selon lequel il est devenu inhabile en novembre 2001 est simplement faux. À un autre moment dans son témoignage, l’appelant a soutenu qu’il ne pouvait pas être administrateur après le 22 janvier 2002, car l’ordonnance lui avait fait perdre ce rôle. Monsieur Rolfe affirme dans son témoignage qu’il a demandé cette ordonnance dans le but de démettre l’appelant de ses fonctions d’administrateur et de prendre le contrôle de la société pour la vendre, afin qu’ERD puisse réaliser son investissement. Cependant, il a déclaré que l’appelant lui a encore mis des bâtons dans les roues en négociant, à son insu, avec le prêteur principal, la Banque Royale. Monsieur Rolfe a déclaré que la Banque Royale avait accepté de prêter davantage d’argent à la société et de permettre à l’appelant de continuer à signer des chèques et à exploiter l’entreprise, la surveillance des activités étant confiée à Deloitte & Touche. Lors de l’interrogatoire principal de M. Rolfe, l’avocat de l’intimée lui a demandé ce qui suit (Transcription, pages 253‑254) :
+[traduction]
+Q. Le 22 janvier 2002, qui était l’administrateur de Farms?
+R. M. Liddle. Nous n’avions accès à rien, absolument rien. Aucun dossier, aucun bureau, rien – nous n’avions rien. Il est resté, c’est tout.
+Q. Vous avez ensuite tenté de le démettre de ses fonctions?
+R. Oh, nous avons essayé. Oh, que oui, et il est vite allé voir la Banque Royale et, vous savez, je ne crois pas que la Banque Royale aurait apprécié de laisser Ernst & Young diriger une entreprise qu’elle allait diriger. Deloitte & Touche, dis‑je. Deloitte & Touche avait déjà commencé à contrôler l’entreprise, je crois, et dans l’ordre naturel des choses, la banque, en tant que prêteur principal – si j’étais prêteur principal et en situation d’agir, je dirais « vous savez, c’est moi qui suis le prêteur principal et j’entends nommer et […] »
+[26] À la fin de février 2002, la Banque Royale a présenté une demande à la Cour pour que Deloitte & Touche soit nommée séquestre, et cette ordonnance a été obtenue le 4 mars 2002 (pièce R-1, onglet 17).
+[27] Malgré les quelques contradictions qui se sont dégagées du témoignage de l’appelant quant aux événements et aux dates, le témoignage de M. Rolfe sur la chronologie des événements était simplement plus convaincant. Selon toute vraisemblance, ERD devait s’éclipser derrière les mesures du prêteur principal ou intervenir conformément à l’ordonnance de mise sous séquestre du 22 janvier 2002, en assumant l’entière responsabilité de la dette envers la Banque Royale ainsi que la sienne. Dans la mesure où le prêteur principal a avancé des fonds supplémentaires et permis à l’appelant d’exploiter l’entreprise et de signer des chèques, il semble logique qu’ERD, durant le mois où ces événements se sont produits, après l’ordonnance du 22 janvier 2002, se soit simplement écartée et s’incline. L’appelant a reconnu avoir collaboré avec Deloitte & Touche, qui surveillait l’entreprise. Il n’aurait pas pu le faire s’il avait déjà perdu le contrôle de l’entreprise. Il aurait certainement continué à collaborer avec Deloitte & Touche après décembre 2001 et probablement après le 22 janvier 2002. L’appelant avait prétendu que c’était probablement à l’une de ces deux dates qu’il avait perdu le contrôle et n’était plus administrateur. Contrairement à l’affaire Robitaille, l’appelant en l’espèce n’a jamais cessé de participer dans l’entreprise, comme il le prétend. Il ne s’est jamais désisté légalement de son rôle d’administrateur et, selon son témoignage, il a continué à travailler étroitement avec la Banque Royale pour obtenir plus de financement et pour respecter ses engagements contractuels envers ses clients. Il a continué à exclure ERD de l’entreprise, pour travailler avec le prêteur principal à l’insu d’ERD et pour exploiter son entreprise en collaboration avec Deloitte & Touche. Toutes ces affirmations démontrent que l’appelant était administrateur pour l’application du paragraphe 227.1(1) de la Loi et du paragraphe 323(1) de la LTA au moment des faits (du 1er octobre 2001 au 31 décembre 2001 et en février 2002).
+[28] Bref, ni la lettre du 21 décembre 2001 d’ERD, ni l’ordonnance du 22 janvier 2002 n’ont fait perdre à l’appelant son rôle d’administrateur de l’entreprise au moment des faits. L’appelant a traité la lettre comme si elle était dépourvue de fondement légal et a choisi de l’ignorer. ERD a décidé de ne pas exécuter l’ordonnance du 22 janvier 2002 en raison des mesures prises successivement par l’appelant, la Banque Royale et Deloitte & Touche. De plus, cette ordonnance visait principalement à divulguer les renseignements financiers. Au moins jusqu’au 4 mars 2002, soit la date de l’ordonnance de mise sous séquestre de la Banque Royale, l’appelant a suffisamment continué de participer aux activités quotidiennes, notamment en prenant des décisions et en signant des chèques, pour qu’il soit justifié de conclure qu’il a gardé le contrôle en tant qu’administrateur au moment des faits.
+B) En tant qu’administrateur de Farms, au moment des faits, l’appelant a‑t‑il agi avec diligence raisonnable?
+[29] La question de savoir si l’appelant a agi avec diligence raisonnable est essentiellement une question de fait devant être tranchée selon des normes juridiques. Le libellé du paragraphe 227.1(3) de la Loi et celui du paragraphe 323(3) de la LTA sont presque identiques, et ces deux dispositions offrent à l’administrateur un moyen de défense lui permettant d’échapper à la responsabilité prévue au paragraphe 227.1(1) de la Loi et au paragraphe 323(1) de la LTA. Ainsi, la question que la Cour doit se poser concernant ces deux dispositions est celle de savoir si l’appelant a agi avec le degré de soin, de diligence et d’habileté pour prévenir le manquement qu’une personne raisonnablement prudente aurait exercé dans des circonstances comparables de manière à lui permettre d’échapper à la responsabilité qui découle de l’omission de la société de verser la taxe nette et les retenues à la source.
+[30] En général, les administrateurs doivent prendre toutes les mesures raisonnables pour s’assurer que les retenues de la société et les autres montants exigibles relatifs aux taxes sont perçus, retenus et ensuite versés adéquatement. Ils devront démontrer qu’ils ont posé des actes précis pour prévenir cette omission. Selon les circonstances, diverses méthodes peuvent être appliquées pour arriver à cette fin, comme créer des comptes distincts pour les retenues à la source, faire en sorte que les administrateurs et les comptables, les agents financiers et les établissements de prêt de la société communiquent régulièrement entre eux et entretiennent des rapports réguliers ainsi que surveiller l’entreprise en obtenant une confirmation périodique que les versements sont effectués. Toutefois, même si la loi n’exige pas que l’une ou l’autre de ces méthodes soient utilisées, il n’en reste pas moins qu’elles peuvent amplement prévenir ce genre d’omission et permettre à l’administrateur de ne pas en être tenu responsable, car elles appuient sa prétention qu’il a agi avec la diligence qu’une personne raisonnablement prudente aurait exercée.
+[31] Le critère juridique applicable pour évaluer le comportement et les actes d’un administrateur dans les circonstances de chaque espèce est‑il objectif ou subjectif objectif? Dans Soper c. Canada, 97 D.T.C. 5407, la Cour d’appel fédérale a établi à la page 5416 que la norme de prudence consiste en une combinaison d’éléments subjectifs et objectifs :
+La norme de prudence énoncée au paragraphe 227.1(3) de la Loi n’est donc pas purement objective. Elle n’est pas purement subjective non plus. Il ne suffit pas qu’un administrateur affirme qu’il a fait de son mieux, car il invoque ainsi la norme purement subjective. Il est également évident que l’intégrité ne suffit pas. Toutefois, la norme n’est pas une norme professionnelle. Ces situations ne sont pas régies non plus par la norme du droit de la négligence. La Loi contient plutôt des éléments objectifs, qui sont représentés par la notion de la personne raisonnable, et des éléments subjectifs, qui sont inhérents à des considérations individuelles comme la « compétence » et l’idée de « circonstances comparables ». Par conséquent, la norme peut à bon droit être qualifiée de norme « objective subjective ».
+[32] Cet arrêt confirme que la norme de prudence relative au critère subjectif exige que la Cour examine les antécédents, les connaissances, les habiletés et l’expérience de l’administrateur pour déterminer s’il a agi avec diligence raisonnable. Le critère objectif applicable consiste donc à examiner les antécédents personnels de l’administrateur pour savoir s’il a agi raisonnablement.
+[33] Après l’arrêt Magasins à rayons Peoples inc. c. Wise, [2004] 3 R.C.S. 461, rendu en 2004 par la Cour suprême du Canada, d’aucuns se sont demandé si le critère établi dans Soper avait été écarté. À la page 491, la Cour suprême du Canada a affirmé ce qui suit :
+63 … Nous préférons la décrire comme une norme objective. Ainsi, il devient évident que dans le cas de l’obligation de diligence prévue à l’al. 122(1)b), ce sont les éléments factuels du contexte dans lequel agissent l’administrateur ou le dirigeant qui sont importants, plutôt que les motifs subjectifs de ces derniers, qui sont l’objet essentiel de l’obligation fiduciaire prévue à l’al. 122(1)a) de la LCSA.
+[34] Il semble que la Cour d’appel fédérale n’a pas considéré que l’arrêt Peoples transformait de façon significative le critère tel qu’il est établi dans Soper. Dans Hartrell c. Sa Majesté la Reine, 2008 D.T.C. 6173, la Cour a affirmé ce qui suit au paragraphe 12 :
+[12] L’appelant fait valoir que l’arrêt Magasin à rayons Peoples Inc. (Syndic de) c. Wise, 2004 CSC 68, de la Cour suprême du Canada a transformé la nature du critère applicable à la défense de diligence raisonnable formulé dans Soper d’« objective subjective » à simplement « objective ». Il n’est pas absolument certain qu’on puisse affirmer que l’arrêt Magasins à rayons Peoples a éliminé les aspects subjectifs de la défense de diligence raisonnable prévue au paragraphe 227.1(3) de la LIR, puisque cette décision portait sur une disposition de la Loi canadienne sur les sociétés par actions, L.R.C. 1985, ch. B-3. Voici ce qu’a dit la Cour suprême du Canada à cet égard, au paragraphe 63 de l’arrêt :
+Nous estimons pour notre part que le fait, pour le juge Robertson, de qualifier la norme par l’expression « objective subjective » peut semer la confusion. Nous préférons la décrire comme une norme objective. Ainsi, il devient évident que dans le cas de l’obligation de diligence prévue à l’al. 122(1)b), ce sont les éléments factuels du contexte dans lequel agissent l’administrateur ou le dirigeant qui sont importants, plutôt que les motifs subjectifs de ces derniers, qui sont l’objet essentiel de l’obligation fiduciaire prévue à l’al. 122(1)a) de la LCSA.
+Si Magasins à rayons Peoples a bien opéré à l’égard du critère du paragraphe 227.1(3) de la LIR une transformation faisant en sorte qu’il nécessite à présent la preuve d’éléments purement objectifs, le nouveau critère est donc devenu plus exigeant qu’un critère comportant des éléments subjectifs, et nous ne voyons donc pas comment l’application de l’arrêt Magasins à rayons Peoples pourrait servir l’appelant.
+Plus loin au paragraphe [14], la Cour a renvoyé à la décision Soper et confirmé l’application de la défense de la diligence raisonnable selon Soper :
+[14] Compte tenu de la preuve dont disposait la CCI, nous sommes d’avis qu’elle pouvait tirer de telles conclusions de fait. Nous ne sommes donc pas convaincus qu’elle a commis une erreur manifeste et dominante en appliquant à ces conclusions les principes formulés dans Soper en matière de défense de diligence raisonnable et en déterminant que M. Hartrell n’avait pas agi avec le degré de soin, de diligence et d’habileté qu’une personne raisonnablement prudente aurait exercé pour prévenir les omissions de versement de retenues à la source survenues en 1998.
+[35] Manifestement, le critère établi dans Soper a été appliqué par notre Cour depuis l’arrêt Peoples et approuvé par la Cour d’appel fédérale. Il semble que ce soit le critère qu’il convienne d’appliquer en l’espèce. L’appelant a déclaré que la norme ne requiert pas la perfection et qu’il a fait de son mieux. Il a prétendu qu’il a agi de façon responsable et qu’il a tout fait ce qu’il pouvait faire. Il a déclaré que la TPS était facturée aux clients sur les factures et les paiements proportionnels. Ces montants étaient inscrits dans les registres comptables de la société à titre de créances. Les clients payaient la TPS. Farms percevait ces montants et les déposait dans un compte de banque. Selon le témoignage de l’appelant, KPMG vérifiait les comptes de Farms dans le cours normal des activités. L’appelant ne voulait pas dissoudre son entreprise ou la laisser faire faillite. Pour prévenir la dissolution de sa société, il s’affairait à voyager afin d’attirer de nouveaux clients et contacts et à tenter d’obtenir du financement supplémentaire.
+[36] Tous ces éléments permettent‑ils de démontrer que l’appelant a agi concrètement pour s’assurer que ces montants, qui étaient facturés aux clients et ensuite perçus et déposés, étaient versés au Receveur général? Quelles mesures raisonnables a‑t‑il prises, le cas échéant, pour prévenir l’omission de Farms de verser ces montants? Selon les faits, je dois conclure que l’appelant n’a pas présenté une preuve suffisante pour pouvoir bénéficier de la défense de la diligence raisonnable.
+[37] Bien que l’appelant ait allégué plusieurs fois avoir agi raisonnablement et fait tout ce qu’il pouvait faire, il ne s’agit là que d’allégations. L’appelant n’a pas étayé ces allégations avec des éléments de preuve démontrant qu’il a pris des mesures proactives et que des systèmes ou mécanismes de contrôle fiables étaient non seulement instaurés dans l’entreprise, mais également appliqués durant la période où ces montants devaient être versés au Receveur général. Selon le témoignage de l’appelant, les retenues et la TPS étaient perçues, mais n’étaient pas versées. En septembre 2001, l’appelant savait que Farms connaissait des difficultés financières. En fait, il a déclaré qu’il avait anticipé ces difficultés un an plus tôt lorsqu’un des investisseurs principaux d’ERD était incapable de rembourser ses prêts. Cela veut dire que l’appelant savait que son entreprise connaissait des difficultés financières avant le début de la période en litige, soit le 1er octobre 2001, et qu’il connaissait vraisemblablement les dangers qui la guettaient un an avant le 1er octobre 2001. La jurisprudence indique que, lorsqu’une société connaît des difficultés financières, l’obligation de l’administrateur de s’assurer que les versements sont effectués adéquatement est plus exigeante. Par conséquent, l’appelant pourrait bien être tenu à une norme de prudence encore plus sévère, parce qu’il a reconnu qu’il était au courant de ces problèmes financiers avant les périodes en litige. Sans système et mécanisme de contrôle adéquats en place, comme un compte de banque distinct pour ces versements, l’argent ainsi rendu disponible incite un bien grand nombre de sociétés éprouvant des difficultés financières à puiser dans les fonds qui devraient être destinés aux versements relatifs aux retenues à la source et à la TPS. C’est ce qui semble s’être produit dans le cas de Farms. Rien ne démontre que des mesures de protection suffisantes ont été mises en place pour prévenir l’omission de verser ces montants. Malgré la mise en place de certaines mesures, comme les vérifications effectuées par KPMG, je ne dispose d’aucune preuve établissant la manière de les appliquer ou leur application même durant la période où Farms connaissait des difficultés. En fait, M. Rolfe a déclaré que les chiffres de KPMG étaient inexacts parce que certains montants n’étaient pas déposés dans le compte de la société. Toujours selon M. Rolfe, les renseignements financiers avaient été retirés des locaux, et Deloitte & Touche ne pouvait pas faire rétrospectivement la mise à jour des registres financiers.
+[38] L’appelant a reconnu que, de septembre à décembre 2001, il était au fait des activités de la société et des chèques qui étaient émis. Il a également reconnu qu’il savait que des paiements n’avaient toujours pas été remis au Receveur général, mais il croyait que [traduction] « le problème allait se régler tout seul ». Il est évident que l’appelant était occupé durant la période avant et après le 1er octobre 2001, cherchant activement à obtenir du financement pour réussir à respecter ses contrats et ainsi sauver sa société — son [traduction] « bébé », comme il l’appelle dans son témoignage. Toutefois, espérer que les versements se règlent éventuellement d’eux‑mêmes au beau milieu de ce tourbillon d’activités revient à faire l’autruche. Tôt ou tard, les difficultés allaient finir par le rattraper.
+[39] L’appelant travaille dans le domaine de l’industrie forestière depuis de nombreuses années. Il est titulaire d’un diplôme en administration des affaires et exploite une entreprise depuis 1983. Farms était l’un des plus importants fournisseurs d’arbres de semis dans l’industrie forestière. Compte tenu de sa formation universitaire, de ses nombreuses années d’expérience dans l’industrie, de sa connaissance des établissements de prêt et des pratiques commerciales ainsi que de son admission selon laquelle il était au courant des démarches à l’égard de l’entreprise, des émissions de chèques et du retard dans les versements, je dois conclure que l’appelant n’a pas agi prudemment en ne prenant aucune mesure raisonnable pour s’assurer que ces versements étaient effectués au Receveur général. L’appelant n’a pris aucune mesure concrète pour prévenir l’omission des versements et, par conséquent, n’a pas exercé le degré de soin, de diligence et d’habileté qu’une personne raisonnablement prudente aurait exercé dans des circonstances comparables.
+[40] Pour ces motifs, les appels sont rejetés avec dépens.
+Signé à Summerside (Île-du-Prince-Édouard), ce 11e jour de septembre 2009.
+« Diane Campbell »
+Juge Campbell
+Traduction certifiée conforme
+ce 20e jour de novembre 2009.
+Mario Lagacé, jurilinguiste
+RÉFÉRENCE :
+2009 CCI 451
+No DES DOSSIERS DE LA COUR :
+2005-4271(IT)G et
+2005-3409(GST)G
+INTITULÉ :
+Thomas Gerald (Gerry) Liddle et
+Sa Majesté la Reine
+LIEU DE L’AUDIENCE :
+Sault Ste. Marie (Ontario)
+DATES DE L’AUDIENCE :
+Les 16 et 17 juin 2009
+MOTIFS DU JUGEMENT :
+L’honorable juge Diane Campbell
+DATE DU JUGEMENT :
+Le 11 septembre 2009
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Me Nicolas Simard
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée :
+John H. Sims, c.r.
+Sous-procureur général Canada
+Ottawa, Canada

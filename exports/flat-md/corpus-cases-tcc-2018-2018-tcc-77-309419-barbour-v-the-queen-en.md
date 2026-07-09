@@ -1,0 +1,202 @@
+---
+title: "Barbour v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/309419/index.do"
+last_modified: "2018-04-20"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2018 TCC 77"
+citation2: ""
+neutral_citation: "2018 TCC 77"
+decision_date: "2018-04-20"
+language: "en"
+item_id: "309419"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7437
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T11:49:23.010000+00:00"
+cases_cited_count: 3
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "e5a35b136994c061a73926a2ea9cda5a70dbd1102d66a977364ef503e814a90a"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Barbour v. The Queen
+
+- Citation: 2018 TCC 77
+- Decision date: 2018-04-20
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7437, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Barbour v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2018-04-20
+Neutral citation
+2018 TCC 77
+File numbers
+2016-3578(IT)I
+Judges and Taxing Officers
+Bruce Russell
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2016-3578(IT)I
+BETWEEN:
+YAEL BARBOUR,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on August 24, 2017, at Toronto, Ontario
+Before: The Honourable Justice B. Russell
+Appearances:
+Agent for the Appellant:
+David Burkes
+Counsel for the Respondent:
+Stephanie Hodge
+JUDGMENT
+The appeal from the two reassessments raised June 20, 2016 under the Income Tax Act (Canada) for the Appellant’s 2012 and 2013 taxation years respectively is dismissed, without costs, in accordance with the attached reasons for judgment.
+Signed at Ottawa, Canada, this 20th day of April 2018.
+“B. Russell”
+Russell J.
+Citation: 2018TCC77
+Date: 20180420
+Docket: 2016-3578(IT)I
+BETWEEN:
+YAEL BARBOUR,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Russell J.
+Introduction:
+[1] The Appellant has appealed reassessment of each of her 2012 and 2013 taxation years. The two reassessments were raised June 20, 2016 under the Income Tax Act (Canada) (Act). Both denied deduction of claimed business expenses and losses.
+Summary:
+[2] At all material times the Appellant was employed by the Ontario College of Art and Design University (OCADU) in Toronto as Professor, Faculty of Art, Integrated Media Program. She was granted and took a sabbatical from her OCADU regular teaching and service responsibilities during the period July 2012 to June 2013. Also, in 2012 after commencement of the sabbatical she began a project to produce a half-hour artistic video regarding polygamy. The work on this project was funded in good part by a grant from the Canada Council for the Arts (CCA), awarded in 2013.
+[3] During her sabbatical the Appellant did some work on this polygamy video project and also engaged in other activities said to have some connection with her OCADU responsibilities. The Appellant claimed expenses so incurred as deductible business expenses, which deductions the Minister of National Revenue (Minister) denied. The Minister’s denial of these claimed business deductions were on the bases that the Appellant had no business source of income, and alternatively various of these expenses were personal and or living expenses per paragraph 18(1)(h) of the Act.
+Evidence:
+[4] The Appellant testified. Her evidence was that during her 2012 and 2013 taxation years she received employment salary from OCADU as a tenured professor. She stated that her employment contract with OCADU required that she spend 40% of her time engaged in research, writing and or art production, a further 40% of her time carrying out her teaching duties, and the remaining 20% of her time providing institutional service to OCADU. In this latter regard, during the subject period the Appellant chaired OCADU’s Senate and served on its Board of Governors.
+[5] A letter dated April 27, 2015 written on behalf of the Appellant by her Acting Dean, Peter Sramek to Canada Revenue Agency (CRA) (Ex. R-5) advises that,
+…for tenured faculty, research and studio production constitute 40% of their workload, while in a sabbatical period these activities form 100% of expectations.
+[6] Clause 20.3.1 of the Memorandum of Agreement between OCADU and its Faculty Association provided in respect of the 40% of time to be expended in “professional practice/research” that this,
+...is to provide both the basis for ongoing engagement and growth of the Faculty member within her or his chosen discipline and to support the University’s profile, its mission, and its research initiatives, including art and/or design practice which leads to the production of new knowledge that is shared within a wide community of peers. A faculty member’s ‘Professional Practice/Research may include...20.3.1.1 Art and/or design practice; ..20.3.1.10 Maintaining currency as a professional art/design practitioner and/or academic researcher.
+[7] The Appellant’s CCA grant application sought funding to finance research, development and production of stories and animation/compositing visuals of a half hour experimental video titled “Lessons for Polygamists”. In early 2013 CCA advised the Appellant she had been awarded a grant of $55,000, of which $50,000 was paid to her February 11, 2013 with the $5,000 remainder to be paid in a future taxation year(s). Ultimately the $5,000 remainder was paid in 2016 when this project was completed. Before receiving the $50,000, the Appellant signed a CCA “Grant Acknowledgement Form for Individuals”. It stated in part that CCA grants were considered taxable income and T4A forms would be issued in respect thereof.
+[8] The Appellant testified that she had a business called “b.h. Yael” (Yael), referred to as her professional name, in operation during the subject taxation years of 2012 and 2013. She testified she claimed expenses well in excess of income for that business, and that profits were not always realizable right away or for a number of years. In her career as a visual artist she said that to date she had created six or eight artistic installation pieces and twelve videos. She said she was “not hugely prolific” and produced a work every few years.
+[9] For the 2012 taxation year she claimed business income of $917, against claimed business expenses totalling $17,411. These expenses were categorized as “office expenses” ($1,380), “supplies” ($1,312), “management and administration fees” ($2,184), “travel” ($3,539), “telephone and utilities” ($2,175), “motor vehicle expenses not including [capital cost allowance]” ($3,579), “[capital cost allowance]” ($63) and “other expenses” ($3,220). A total net business loss of $16,534 was claimed.
+[10] For the 2013 taxation year she claimed business income of $50,562 ($50,000 of which was from the CCA grant) against claimed business expenses totalling $61,153. These expenses were categorized as “purchases” ($8,501), “subcontracts” ($2,262), “office expenses” ($1,750), “supplies” ($1,862), “legal and accounting” ($356), “management and administration fees” ($475), “travel” ($5,429), “telephone and utilities” ($1,947), “motor vehicle expenses not including [capital cost allowance]” ($1,648), “[capital cost allowance]” ($44) and “other expenses” ($47,642), the latter made up of $1,179 for seminars and conferences and $46,463 as a reserve for the unspent amount of the $50,000 CCA grant payment. A total net business loss of $21,354 was claimed.
+[11] The minor purported business revenues of $917 and $562 claimed for her 2012 and 2013 years respectively were for fees received when her works were shown in universities or festivals and or when she received a speaker’s honorarium such as at Nova Scotia College of Art and Design University (NSCADU) in Halifax in early 2013. She maintains that she conducted a business, although not profitable.
+[12] The work for the polygamy video in 2012 and 2013 was comprised mostly of some research and as well travel to locations including Ottawa and the Laurentiens of Quebec for video interviews of relevant persons and camera footage of related scenery. The claimed actual expenses in 2012 and 2013 for this project were minor, being approximately $1,500 and $3,500 respectively.
+[13] More generally, the Appellant claimed deduction as business expenses of expenses incurred for travel, including food, while on sabbatical July 2012 to June 2013, and including six trips to New York ostensibly for research in public libraries, touring art museums and some writing such as for preparation for OCADU classes. Accommodation costs were lessened by the Appellant usually staying with friends or relatives. These visits were explained as enabling her to keep up with current developments in visual arts for the purpose of her teaching work. Also during this time she was in a relationship with a person in New York.
+[14] In an April 28, 2014 letter to a CRA auditor (Ex. R-6), the Appellant states:
+40% of my usual work is expected to be devoted to my creative activity (research and production) and during sabbatical, 100%. As such these expenses, including travel, will be especially relevant to acceptable deductions: that is to say in a normal year, 40% of my time and therefore salary is dedicated to creative production. [underlining added]
+Here the Appellant proposed that travel expenses should be deductible as they relate to, “40% of [her] time and therefore salary…dedicated to creative production”. In other words she asserted that the travel expenses were deductible because they were supportive of her employment duties, which include “creative production”. In so asserting, there was no reference whatsoever to any source of business income; just to her source of employment income.
+[15] Ex. R-4 is a “Memorandum of Agreement between Ontario College of Art & Design University and Ontario College of Art and Design Faculty Association” for the period July 1, 2013 to June 30, 2016. This sets out the terms of employment of the Appellant as tenured professor, with her employer OCADU, taken as being applicable for the entirety of the period in issue. At section 20.1.1 thereof under the heading “Faculty Responsibilities” is stated:
+The primary responsibility of faculty is the pursuit, production and transfer of knowledge and understanding through an appropriate combination of Teaching & Teaching-Related Responsibilities, Professional Practice/Research, and Service. (underlining added)
+[16] Section 20.3 elaborates as to the second of these three listed areas of faculty responsibilities, being “Professional Practice/Research”. It states in part:
+The purpose of Professional Practice/Research is to provide both the basis for ongoing engagement and growth of the Faculty member within her or his chosen discipline and to support the University’s profile...A faculty member’s ‘Professional Practice/Research’ may include, but is not limited to, the following: Art and/or design practice; Original research, writing, publication and scholarship; Public and commercial exhibition/presentation/performance/ media activity and other forms of dissemination; Curating and criticism; Delivering guest/special lectures, participating in conferences, etc.; Teaching at other institutions...; active participation with professional bodies...; Serving on external boards, juries, committees...; Consulting work relating to the art, design, education, private, corporate or government sectors; and Maintaining currency as a professional art/design practitioner and or academic researcher. (underlining added).
+[17] The Appellant testified that it is this last item - “Maintaining currency as a professional art/design practitioner” – that was the basis for her work relevant to this appeal. Again this is indicative of the Appellant carrying out aspects of her OCADU employment duties, while wholly absent any reference to any business undertaking and a business source of income.
+Issues:
+[18] The issues are basically twofold - whether the Appellant operated a business in the 2012 and 2013 taxation years and if so whether any claimed expenses are deductible; and whether the Appellant was required to report the CCA grant per paragraph 56(1)(o) of the Act.
+Submissions:
+[19] It was submitted for the Appellant that she was well recognized in the arts community (which I do not at all question) and that she had a reasonable expectation of profit (REOP) per IT-504R2 entitled “Visual Artists and Writers”. (This IT bulletin was last updated by CRA in December 2000 and since then CRA has “archived” it. It thus is not viewed by CRA as being current.) She had spent only about one thousand dollars on what she identified as research in relation to the polygamy video project, and expenditures relating to that project mostly related to production, thus, it was submitted, paragraph 56(1)(o) of the Act headed “research grants” was not applicable to her CCA grant. It was acknowledged that some personal expenses may mistakenly have been claimed, including for such things as “craft” expenses (purchasing food and drink for everyone at meetings in connection with her artistic work), and her passport renewal fee. It was submitted that the Appellant had been allowed losses for her 2006 and 2007 taxation years.
+[20] Respondent’s counsel submitted the Appellant did not have any source of business income. The work she was engaged in was simply fulfillment of her employment duties. The expenses claimed as being business expenses thus were not deductible. The CCA grant was not income from a bursary but rather was paragraph 56(1)(o) income. Even if there were a business source the grant should not be part of it and expenses should only be allowed per paragraph 18(1)(a) of the Act. The activities the Appellant has described (and claimed for) are actually employment activities, justifying her T4 income from OCADU. As a professor of integrated media her employment contract included that 40% of her time be engagement in creative pursuits, and sabbatical time should be 100% dedicated to research and production. An article in her OCADU employment contract provides for the Appellant to create artwork. She is not an independent contractor. Cited decisions include Stewart v. R., 2002 SCC 46; Scheinberg v. R., [1996] 2 C.T.C. 2089 (TCC) and Fleming v. M.N.R., 87 DTC 884 (TCC).
+[21] The Respondent additionally submitted that paragraph 56(1)(o) is not a general deduction provision; (Scheinberg, supra). The authority for further deductions, i.e. over and above the amount of the grant, must come from elsewhere (Ghali v. R., 2004 FCA 60).
+Analysis:
+[22] The first issue to be addressed is whether the Appellant had a source of income from business during the pertinent period. Did she operate a business in either of her 2012 and 2013 taxation years?
+A. Whether a business:
+[23] The seminal decision as to whether there is a business source of income is that of the Supreme Court of Canada in Stewart, supra. Stewart evolved the appropriate analysis beyond the earlier “reasonable expectation of profit” (REOP) test that Moldowan v. R., [1978] 1 S.C.R. 480 had developed. The Appellant’s representative relied upon the above-mentioned now archived CRA interpretation bulletin last updated in December 2000 respecting the REOP test, in submitting a business here did exist. However, the REOP test was superseded in 2002 by Stewart. At paras. 50 - 55 of Stewart the Supreme Court identified the “overall” approach in determining existence of a business, which is determining if the activity is being carried on in a commercial manner. In context, the initial question is whether the taxpayer’s activity is undertaken in pursuit of profit, or is it a personal endeavour. Second, if not a personal endeavour, is the source of the income business or property. And, while a commercial activity must be accompanied by a taxpayer’s subjective intention to profit,
+...[t]he overall assessment to be made is whether or not the taxpayer is carrying on the activity in a commercial manner. However, this assessment should not be used to second-guess the business judgment of the taxpayer. It is the commercial nature of the taxpayer’s activity which must be evaluated, not his or her business acumen. [underlining added]
+[24] As to whether the Appellant was carrying on her activities in a commercial manner, I heard at best minimal evidence supporting that the Appellant’s activities, for which she claimed deduction of expenses, had been carried on in any manner suggestive of a commercial undertaking.
+[25] There was no evidence of any business plan or the like, or as to marketing, whether in relation to the polygamy-themed video or anything else. The evidence disclosed that the half-hour video project was only finished in 2016 (begun in 2012), which indicates a leisurely and non-businesslike pace to its completion. Indeed, there was no contemporaneous evidence that the Appellant viewed her activities as being a business as opposed to being aspects of her OCADU employment duties. Relevant in this regard are the two references noted in paragraphs 14 and 17 above.
+[26] While the Appellant has a personal/professional website, it was only recently developed in 2017, more than three years after the taxation years herein at issue. In that website’s brief write-up, by the second sentence the Appellant has been prominently identified as an OCADU professor and chair of that institution’s Senate. There is no reference in the write-up to any business undertaking, save perhaps inferentially via the statement that, “[h]er work has been purchased by many universities…” The evidence in the case at bar as to income from any purchases of her six to eight installations and twelve videos shows gross income of less than $1,000 and $500 for 2012 and 2013 respectively; and these minor amounts were at least in part derived from modest speaking fees or honoraria at perhaps two educational institutions, one being a guest lecture in early 2013 at OCADU’s eastern counterpart, NSCADU.
+[27] I note particularly the Minister’s assumptions of fact pleaded in the Reply at paragraphs 10(w) to (z), as to lack of indicators of a commercial undertaking. They include that the Appellant, “did not engage in [the purported business in] an organized businesslike manner or in a ‘systemic’ [presumably ‘systematic’ was intended] way”; she “did not maintain adequate records with respect to [the purported business and any records were disorganized and incomplete”; “during 2012 and 2013 [the purported business] did not have a regular customer base”; and, the Appellant “had no business financing in respect of [the purported business]”.
+[28] I have concluded from review of the evidence that in general these assumptions of fact were not sufficiently challenged so as to have established on a prima facie basis that these assumptions were invalid. I note for example in this respect that there was evidence that the Appellant had no record of the persons she had visited or met with in conjunction with the claimed expenses for “business” travel. The evidence also was that she had organized her expense receipts etc. at the time of the CRA audit, as opposed to having been maintained throughout in business-like order.
+[29] I note that I am not particularly influenced by the Minister’s assumption that the Appellant’s purported business did not have a regular customer base.
+[30] I conclude that the Appellant was not engaged in a business undertaking during her 2012 and 2013 taxation years. There was no or insufficient evidence of conduct suggestive of a commercial undertaking. She had no business source of income during that period.
+B. Expenses related to employment:
+[31] In my view, taking all the evidence into consideration, this is a fairly straightforward case of expenses, claimed as being on business account, that in actuality, to the extent not personal, were incurred on account of the Appellant’s employment with her employer, OCADU.
+[32] In Scheinberg, supra, Bowman J. (as he then was) considered a somewhat analogous situation in which the taxpayer, a professor on sabbatical, claimed expenses as being on business account. The Court observed (paragraphs 10 and 11) as follows:
+10 The main thrust of Mr. Dollinger’s argument on behalf of Dr. Scheinberg’s position that the expenses are deductible is that they represent business expenses deductible in computing income under section 9. Dr. Scheinberg has produced a book, The Extreme Right: International Peace and Security at Risk. In fact, it is a draft report produced in November 1994. It consists of ten essays written by five authors. Two of the essays were written by Dr. Scheinberg. Those essays are Canada: Right-Wing Extremism in the Peaceable Kingdom and Right-Wing Extremism in the United States. It was prepared for the Institute for International Affairs of B’nai Brith Canada. Financial assistance was provided by the B’nai Brith Foundation and the Department of Foreign Affairs and International Trade. Mr. Dollinger contends that when and if the book is published and starts producing royalties they will be income from a business and the expenses should be deducted when incurred (i.e. 1991). He contends further the Dr. Scheinberg is a professional. I agree that he is a professional – that is an accurate description of the professorial calling. It is not however determinative of the nature of his income and it does not mean that expenses incurred, at a time when he is on sabbatical leave in Europe and 85 per cent of his salary plus a research grant is being paid by the university of which he is an employee, are business expenses. In 1991 he evidently incurred some expenses in Europe beyond the amount of the grant given him and it is an obvious conclusion that the research that he did there related to an area of scholarship in which the university expected him to do research. To the extent that the expenses were not personal or living expenses, they related not to any business that he carried on but to his employment with the university. Doing research and publishing are necessary concomitants of being a university professor and the cost of research and publishing – at least during a year when the professor is employed, whether on sabbatical leave or teaching at the university and doing research on his or her field – relates to the employment as a professor.1 Section 8, which regulates very precisely the deduction of employment costs appears not to cover such expenditures. (Underlining added)
+11 If any books which Dr. Scheinberg publishes start to yield royalties for him which he must take into income any expenses incurred in prior years that relate to the production of the royalties should be deductible in the years in which royalties are receivable. This appears to be in accordance with the decision in Canderel Ltd. v. R. (sub nom. Canderel Ltd. v. Canada), [1995] 2 C.T.C. 22. (sub nom. The Queen v. Canderel Ltd.), 95 D.T.C. 5101 (F.C.A.).
+______________________________________________________________
+1I am not of course talking about the professor of philosophy who writes whodunits or the professor of Greek and Roman Classics who writes Regency romances to supplement his or her income. Such literary endeavours would fall, I should have thought, well outside the ambit of their professorial functions and labours.
+[33] I find that similar circumstances exist here, for each of the 2012 and 2013 taxation years. During her sabbatical the Appellant was incurring expenses for various art related viewings, including numerous attendances at New York art institutions such as museums, libraries and theatres to observe current artistic expressions in various forms, while also to some degree working on the polygamy video. These activities in my view are basically all in the context of her complying with her contracted OCADU employment responsibilities to stay engaged in and maintain current knowledge of the visual arts sector and be involved in artistic creation. She was being paid a salary by OCADU, including while she was on sabbatical, to do these very things, in accordance with her duties of employment as a tenured art professor at that institution. These therefore would not be business expenses. As stated by Bowman, J. in Scheinberg, para. 10 thereof:
+..[t]o the extent that the expenses were not personal or living expenses, they related not to any business that [the professor] carried on but to [the professor’s] employment with the university.
+[34] I concluded above that the Appellant was not engaged in a business undertaking and did not have any source of business income. In accordance with Stewart, there was little if any identifiable conduct of a commercial nature. Also, per Scheinberg the work in respect of which expenses were claimed as being deductible business expenses essentially was work that the Appellant had contracted to carry out as part of her duties of employment with OCADU. Thus, even if there had been a business undertaking, the expenses claimed as deductible business expenses nevertheless pertained to her contractual commitments with her employer OCADU. This does not render these expenses deductible, noting as well the absence of a completed form T2200, “Declaration of Conditions of Employment”, signed by OCADU.
+C. Alternatively whether deductible expenses:
+[35] Notwithstanding, assuming that there was a source of business income, which I have found was not the case, I address to a limited extent what types or categories of the claimed business expenses could have been acceptable as deductible per paragraph 18(1)(a) of the Act. At the hearing the Appellant did not systematically go through her claimed expenses, which limits my ability to more comprehensively discuss them here.
+[36] To be a deductible business expense per paragraph 18(1)(a) of the Act the outlay or expense must have been made or incurred, for “gaining or producing income from the business…” Thus, if the expense has another purpose (including personal) such that it would have been incurred anyway, it becomes difficult to say the expense was incurred to gain or produce business income. In similar vein, a “direct link” between the expense and the purpose of gaining a producing income from the business is looked for (Maurice Henrie v. Her Majesty the Queen, 2009 TCC 356 (para. 9)).
+[37] In the case at bar the Appellant’s expense claims re repeated trips to New York to view art and theatre, as opposed to or for participation in specific business activities such as for example meetings with a person or persons in relation to a business undertaking, would not be acceptable. Further, these trips had personal contexts as noted above.
+[38] Some claimed expenses were on the basis of the Appellant travelling to a relaxing location, e.g. to Goderich and to Lake of Bays in Ontario, and to a café in New York, where the Appellant testified that she preferred to write, including preparation of class lectures, simply for general aesthetics, i.e., peace and quiet or “getting away”. This is not suitably specific purposes so as to contemplate that the accompanying expenses to arrive, stay and depart from such locations were incurred, “for the purpose of gaining or producing income from the business”. These are personal expenses. The Appellant at the hearing referred to many persons using sabbaticals to “get away”. That very likely is so, but that without more would not render their attendant travel expenses deductible.
+[39] As for vehicle expenses, the Appellant kept no log or other record of such expenses. Vehicle expenses, i.e. for fuel and other similar operational expenditures, would not be deductible unless and to the extent the purpose of the trip itself justified deduction. I understand that the Minister’s auditor would have allowed 25% of vehicle expenses as deductible for business. I have no reason to not concur with this, in the absence of cogent evidence (a car log perhaps) supporting any higher percentage.
+[40] Also, apparently all internet and cell phone expenses of the Appellant for the applicable period were sought to be deducted. Noting the sparsity of evidence regarding cell phone and internet charges, for them I would similarly allow 25% of such charges, including also 25% of any “land-line” telephone charges, as deductible. The evidence did not indicate that there would not be as well a substantial personal expense aspect to these household items. Again, this is on the assumption that the Appellant was engaged in a business undertaking.
+[41] As for home office claimed expenses this was not focused upon in the evidence. I did not hear evidence sufficient to establish that, per subsection 18(12) of the Act, the Appellant’s residence would have been her principal place of business or that a portion of her home was used exclusively for earning income from the business including regularly to meet clients, customers or patients. There was evidence that on one or more limited occasions two possibly three persons additional to the Appellant might be in the house, such as an assistant and an editor. I am unclear whether this would have been in 2012 or 2013 or in later years when technical aspects of the polygamy video were being completed through retention by the Appellant of persons with suitable technical abilities related to video and animation.
+[42] The Respondent cited the Appellant’s staying with friends and relatives when on claimed business trips to New York and elsewhere as indicative of a personal as opposed to business-purpose to the trip. While I agree, I consider the force of this factor weakened by the Appellant’s reasonable explanation that she would stay with friends and family to save money.
+[43] Insofar as the claimed business expenses at issue in this matter were not specifically “walked through” at the hearing, I am unable to further piece-meal adjudicate them here, noting again my primary finding that in this matter the Appellant was not carrying on any business.
+D. CCA grant:
+[44] The 2013 taxation year involves also the matter of the CCA grant approval of $55,000, of which $50,000 was paid to the Appellant early in that year for the purpose of researching, producing and developing the polygamy video. It appears that the Appellant reported that instalment of $50,000 as being business income and sought to deduct expenses as if they were business expenses. But that is not the way paragraph 56(1)(o) works.
+[45] Paragraph 56(1)(o) of the Act provides as follows:
+Amounts to be included in income for year
+56 (1) Without restricting the generality of section 3, there shall be included in computing the income of a taxpayer for a taxation year…
+Research grants
+(o) the amount, if any, by which any grant received by the taxpayer in the year to enable the taxpayer to carry on research or any similar work exceeds the total of expenses incurred by the taxpayer in the year for the purpose of carrying on the work, other than
+(i) personal or living expenses of the taxpayer except travel expenses (including the entire amount expended for meals and lodging) incurred by the taxpayer while away from home in the course of carrying on the work,
+(ii) expenses in respect of which the taxpayer has been reimbursed, or
+(iii) expenses that are otherwise deductible in computing the taxpayer’s income for the year;
+[46] In Scheinberg, Bowman, J. spoke of paragraph 56(1)(o) in relation to a grant of $4,000 the taxpayer had received from his home university on account of his sabbatical. That grant had been paid pursuant to a clause in the professor’s employment agreement with his university employer, stating that such grants were, “to promote intensive scholarly and professional activity through sustained periods of concentrated research and study”. Bowman, J. found (para. 7) that that $4,000 grant was a paragraph 56(1)(o) grant, on the following bases:
+Paragraph 56(1)(o) is not a provision that allows a deduction. It requires the inclusion in income of the amount of a research grant to the extent that it exceeds the expenses relating to the research. Where the expenses exceed the grant it does not authorize the deduction of the excess. If those expenses are to be deducted the authority, if it exists at all, must be found elsewhere. Second, Dr. Scheinberg contended that the $4,000 was not a research grant but rather a “leave of absence grant”. I do not see the distinction, or, if one exists, its significance.
+[47] Also, in Ghali, supra, paras. 44 and 43, the Federal Court of Appeal expressed the following regarding breadth of the paragraph 56(1)(o) phrase, “research or any similar work”:
+In light of the above case law and the definitions contained in the dictionaries, I am of the opinion that the words ‘research or any similar work’ in paragraph 56(1)(o) may be defined as follows: a set of scientific, literary and artistic works and activities having as its purpose the discovery and development of knowledge. I am also of the opinion that article 2.1.04 of the Collective Agreement correctly states which activities may constitute research [thus including item 2.1.04(b) - “literary or artistic creation, that is, the production of original works or forms of expression”]
+[48] This makes clear that the word “research” in paragraph 56(1)(o) should not be read narrowly. I conclude accordingly that paragraph 56(1)(o) applies to the CCA grant received by the Appellant. As noted, comparatively little in the way of expenses for one project was claimed in each of 2012 and 2013 for the artistic project for which the grant had been made.
+[49] It is possible that certain claimed expenses (apart from those such as personal expenses which as such would have been denied), might have been deductible as employment expenses. This was not pleaded or focused upon by the Appellant. I noted above that no form T2200 signed by OCADU was filed indicating “Declaration of Conditions of Employment” so as to support deduction of any specified employment expenses.
+[50] On the basis of the foregoing I conclude that the appealed reassessments are proper. Accordingly this informal procedure appeal is dismissed, without costs.
+Signed at Ottawa, Canada, this 20th day of April 2018.
+“B. Russell”
+Russell J.
+CITATION:
+2018TCC77
+COURT FILE NO.:
+2016-3578(IT)I
+STYLE OF CAUSE:
+YAEL BARBOUR AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+August 24, 2017
+REASONS FOR JUDGMENT BY:
+The Honourable Justice B. Russell
+DATE OF JUDGMENT:
+April 20, 2018
+APPEARANCES:
+Agent for the Appellant:
+David Burkes
+Counsel for the Respondent:
+Stephanie Hodge
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,166 @@
+---
+title: "Income Tax Act – Workgroup Cross-Reference Chart"
+source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/itnews-29/archived-income-tax-act-workgroup-cross-reference-chart-25.html
+last_modified: 2019-10-08
+---
+# Income Tax Act – Workgroup Cross-Reference Chart
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+[What the "Archived Content" notice means for income tax technical news](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/what-archived-content-notice-means-income-tax-technical-news.html)
+
+This document is also available [in other formats](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/itnews-29.html).
+
+## Table 26
+
+| *Income Tax Act* Reference | English Workgroup Number | Bilingual Workgroup Number |
+
+| --- | --- | --- |
+
+| 250(1) | 33 | 32 |
+
+| 250(2) | 33 | 32 |
+
+| 250(3) | 33 | 32 |
+
+| 250(4) | 33 | 32 |
+
+| 250(5) | 33 | 32 |
+
+| 250(5.1) | 33 | 32 |
+
+| 250(6) | 33 | 32 |
+
+| 250(6.1) | 35 | 32 |
+
+| 250(7) | 33 | 32 |
+
+| 250.1 | 33 | 32 |
+
+| 251(1) | 15 | 14 |
+
+| 251(2) | 15 | 14 |
+
+| 251(3) | 15 | 14 |
+
+| 251(3.1) | 15 | 14 |
+
+| 251(3.2) | 15 | 14 |
+
+| 251(4) | 15 | 14 |
+
+| 251(5) | 15 | 14 |
+
+| 251(6) | 24 | 22 |
+
+| 251.1(1) | 15 | 14 |
+
+| 252(1) | 24 | 22 |
+
+| 252(2) | 24 | 22 |
+
+| 252(3) | 24 | 22 |
+
+| 252(4) | 24 | 22 |
+
+| 252.1 | 24 | 22 |
+
+| 253 | 31 | 32 |
+
+| 253.1 | 31 | 32 |
+
+| 254 | 43 | 44 |
+
+| 255 | 33 | 32 |
+
+| 256(1) | 15 | 14 |
+
+| 256(1.1) | 15 | 14 |
+
+| 256(1.2) | 15 | 14 |
+
+| 256(1.3) | 15 | 14 |
+
+| 256(1.4) | 15 | 14 |
+
+| 256(1.5) | 15 | 14 |
+
+| 256(1.6) | 15 | 14 |
+
+| 256(2) | 15 | 14 |
+
+| 256(2.1) | 15 | 14 |
+
+| 256(3) | 15 | 14 |
+
+| 256(4) | 15 | 14 |
+
+| 256(5) | 15 | 14 |
+
+| 256(5.1) | 15 | 14 |
+
+| 256(6) | 15 | 14 |
+
+| 256(6.1) | 15 | 14 |
+
+| 256(6.2) | 15 | 14 |
+
+| 256(7) | 15 | 14 |
+
+| 256(8) | 15 | 14 |
+
+| 256(8.1) | 15 | 14 |
+
+| 256(9) | 15 | 14 |
+
+| 257 | 15 | 14 |
+
+| 258(1) | 42 | 44 |
+
+| 258(2) | 42 | 44 |
+
+| 258(3) | 31 | 32 |
+
+| 258(4) | 31 | 32 |
+
+| 258(5) | 31 | 32 |
+
+| 259(1) | 43 | 44 |
+
+| 259(2) | 43 | 44 |
+
+| 259(3) | 43 | 44 |
+
+| 259(4) | 43 | 44 |
+
+| 259(5) | 43 | 44 |
+
+| 260 | 42 | 44 |
+
+| 260(1) | 42 | 44 |
+
+| 260(2) | 42 | 44 |
+
+| 260(3) | 42 | 44 |
+
+| 260(4) | 42 | 44 |
+
+| 260(5) | 42 | 44 |
+
+| 260(6) | 42 | 44 |
+
+| 260(6.1) | 42 | 44 |
+
+| 260(7) | 42 | 44 |
+
+| 260(8) | 31 | 32 |
+
+| 260(9) | 42 | 44 |
+
+[ [Income Tax  Technical News No. 29](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/itnews-29/archived-income-tax-technical-news-no-29.html) ] [ [Table of Contents](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/itnews-29/archived-income-tax-act-workgroup-cross-reference-chart-26.html) ]

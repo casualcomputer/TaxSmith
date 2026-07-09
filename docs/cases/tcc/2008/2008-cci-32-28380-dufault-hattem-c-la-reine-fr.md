@@ -1,0 +1,173 @@
+---
+title: "Dufault Hattem c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28380/index.do"
+last_modified: "2008-01-17"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 CCI 32"
+citation2: ""
+neutral_citation: "2008 CCI 32"
+decision_date: "2008-01-17"
+language: "fr"
+item_id: "28380"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1899
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T11:14:56.071000+00:00"
+cases_cited_count: 0
+cases_citing_count: 5
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "93f00ce0b0ead6210b52b9b8d59034ab9d7b10bbcddc5886e1db89d7218c534b"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Dufault Hattem c. La Reine
+
+- Citation: 2008 CCI 32
+- Decision date: 2008-01-17
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1899, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Dufault Hattem c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-01-17
+Référence neutre
+2008 CCI 32
+Numéro de dossier
+2007-207(GST)G
+Juges et Officiers taxateurs
+Louise Lamarre Proulx
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2007-207(GST)G
+ENTRE :
+SUZANNE DUFAULT HATTEM,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 5 décembre 2007, à Montréal (Québec).
+Devant : L'honorable juge Louise Lamarre Proulx
+Comparutions :
+Avocate de l'appelante :
+Me Isabel Marceau
+Avocate de l'intimée :
+Me Josée Fournier
+____________________________________________________________________
+JUGEMENT
+L’appel de la cotisation établie en vertu de la Loi sur la taxe d'accise, dont l’avis est daté du 31 août 2005 et porte le numéro PL‑2005‑267 à l’égard des périodes des 28 février 1997, 31 mai 1997, 30 novembre 1997 et 31 mars 1998, est rejeté, avec dépens, selon les motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 17e jour de janvier 2008.
+« Louise Lamarre Proulx »
+Juge Lamarre Proulx
+Référence : 2008CCI32
+Date : 20080117
+Dossier : 2007-207(GST)G
+ENTRE :
+SUZANNE DUFAULT HATTEM,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+La juge Lamarre Proulx
+[1] Il s’agit d’un appel d’une cotisation établie le 31 août 2005 en vertu de l’article 323 de la Loi sur la taxe d’accise (la « Loi »), prévoyant la responsabilité d’un administrateur d’une personne morale qui omet de verser un montant de taxe nette. Les périodes en question sont les 28 février 1997, 31 mai 1997, 30 novembre 1997 et 31 mars 1998
+[2] Selon le paragraphe 323(5) de la Loi, l’établissement d’une telle cotisation se prescrit par deux ans après que l’administrateur a cessé pour la dernière fois d’être administrateur. Selon le paragraphe 323(3) de la Loi, l’administrateur n’encourt pas de responsabilité s’il a agi avec autant de soin, de diligence et de compétence pour prévenir le manquement que ne l’aurait fait une personne raisonnablement prudente dans les mêmes circonstances.
+[3] Le point principal de la défense de l’appelante, je dirais son unique point, a été d’invoquer la prescription de la période de cotisation. En effet, l’appelante prétend qu’elle a effectivement démissionné à titre d’administratrice le 22 mars 2002. En ce qui concerne l’argument de diligence raisonnable, son argument serait que c’était son mari, monsieur Bill Hattem qui a été le véritable administrateur.
+[4] L’intimée nie qu’il y a eu démission de l’appelante à titre d’administratrice à la date du 22 mars 2002 et, s’il y a eu démission, sans admettre ce fait juridique, l’intimée soutient que l’appelante a continué à agir comme administratrice de facto jusqu’à la fin. En ce qui concerne la preuve de diligence, l’intimée fait valoir qu’il n’y en a pas.
+[5] L’appelante a témoigné. Elle a relaté que le 1er avril 1995, la société 9015‑3602 Québec Inc. a commencé à faire affaires sous la raison sociale « Au Ruban Bleu », dans un petit centre commercial de Lorraine à St‑Jérôme. La boutique était dans le domaine de la vente au détail d’articles de décoration intérieure ainsi que dans le service de décoration à domicile. L’appelante avait déjà exercé dans le domaine de la décoration intérieure.
+[6] Selon la pièce I‑5, « Déclaration des sociétés », en 1998, il y avait deux actionnaires soit l’appelante et madame Nathalie Sergerie, dans une proportion de 2/3‑1/3 des actions. Selon ce document, l’emplacement des livres et registres se trouve à l’adresse résidentielle de l’appelante et de son mari. C’est l’appelante qui, en date du 14 octobre 1998, a signé cette déclaration.
+[7] Selon l’appelante, madame Sergerie s’occupait seule du magasin et supervisait les décoratrices à domicile et les autres employées. L’appelante venait quelquefois l’aider. Madame Sergerie a quitté en juillet 1998.
+[8] La pièce I‑2 est la demande d'inscription de la société au fichier de la taxe sur les produits et services. Elle est datée du 9 mars 1995 et est signée par monsieur Bill Hattem à titre de secrétaire de la société.
+[9] La pièce I‑3 est un préavis d’intention de donner des garanties, à la Banque Nationale du Canada, suivant l’article 427 de la Loi sur les banques. Il est signé par l’appelante et est en date du 22 mars 1995.
+[10] Selon la pièce I‑6, le 10 décembre 1998, l’appelante a signé en faveur de la Banque Nationale du Canada une reconnaissance de dette, crédit à demande renouvelable, jusqu’à concurrence d’un montant de 12 500 $.
+[11] Le 19 mai 1998, la société 9015‑3602 Québec Inc. fait une proposition concordataire (onglet 2 de la pièce I‑1). L’appelante y représentait la société débitrice et a signé la proposition au nom de la société. L’avis aux créanciers est en date du 28 mai 1998 (pièce I‑9). À l’avis est annexée la proposition, le bilan, la liste des créanciers non garantis, la liste des créanciers garantis, la liste des créanciers privilégiés pour salaires, loyers, etc., la liste des dettes payables à l’actif, y compris les créances, l’état complet et nature des biens. L’appelante a signé chacune des pages à titre d’administratrice.
+[12] Le 30 mai 2001, il y a un avis du défaut d’exécution d’une proposition aux créanciers (onglet 3 de la pièce I‑1).
+[13] Aux onglets 8 et 9 se trouve un cautionnement de l’appelante accordé à la Banque Nationale du Canada pour les fins de la boutique au montant de 15 000 $. Le document est en date du 22 novembre 1996 et est signé par l’appelante.
+[14] Le 29 janvier 2002, (onglet 8 de la pièce I‑1), la Banque Nationale du Canada envoie à l’appelante une mise en demeure de payer un montant de 9 784,19 $ dû à la suite du susdit cautionnement. Une entente de paiement intervient entre elle et la banque. Les paiements s’échelonnent jusqu’au 29 septembre 2004.
+[15] Le 28 janvier 2004, le locateur du local au Centre d’achats de Place Lorraine reconnaît avoir reçu le paiement total au montant de 3 000 $ de la part de madame Suzanne Dufault pour la dette de la société 9015‑3602 Québec Inc. pour l’année 2003. Cette confirmation est adressée à madame Suzanne Dufault pour la société. Il est également à noter que tous les documents relatifs au bail avaient été signés par l’appelante (onglet 10 de la pièce I‑1).
+[16] À l’onglet 7 de la pièce I‑1 se trouvent quelques poursuites selon les normes du travail contre madame Dufault pour des salaires non payés dans le cas d’une employée pour la période du 5 mai au 4 octobre 2001 et pour une autre employée pour des congés non payés pour la période se terminant le 20 septembre 2001. Ces réclamations ont été payées.
+[17] Ainsi qu’on le voit à la pièce A‑5, par deux fois, la société a été radiée d’office par le registraire des entreprises suite à la non-production de ses déclarations annuelles. La première fois, ce fut en date du 5 mai 2000. Il y a eu reprise d’existence le 11 juin 2001 suite à la production des déclarations annuelles manquantes. La deuxième fois, ce fut en 2 mai 2003. La révocation de la radiation a été accordée le 12 mai 2005 à la demande de Revenu Québec.
+[18] Les documents contenus à l’onglet 6 de la pièce I‑1 sont des documents d’information en la possession du registraire des entreprises. On y voit qu’en 1995, il y avait deux administrateurs, Suzanne Dufault et Bill Hattem. Le 17 avril 1998, monsieur Hattem se retire. En 2000, monsieur Hattem est inscrit à nouveau comme un des deux administrateurs. Une déclaration modificative relative au retrait de monsieur Hattem à titre d’administrateur est déposée le 19 février 2002. Depuis l’année 2000, madame Sergerie n’est plus mentionnée comme actionnaire.
+[19] Il est à noter qu’il n’y a aucune déclaration modificative relative à l’appelante qui est censée avoir démissionné le 23 mars 2002.
+[20] L’avis d’opposition daté du 25 novembre 2005 a été déposé comme pièce A‑4. Annexées à l’avis se trouve la résolution de l’administrateur unique de la compagnie 9015‑3602 Québec Inc. et la démission de l'administratrice. La résolution aurait été adoptée en date du 22 mars 2002 et se lit comme suit :
+RÉSOLUTION DE L'ADMINISTRATEUR
+UNIQUE DE LA COMPAGNIE
+« 9015-3602 QUÉBEC INC. »
+ADOPTÉE EN DATE DU : 22 mars 2002.
+RÉSOLU :
+« QUE la Compagnie accepte la démission de Mme Suzanne DUFAULT à titre d'administratrice unique de la compagnie, dont la démission a été soumise à l'administratrice. »
+Je soussigné, déclare être la seule administratrice habile à voter lors des assemblées du conseil d'administration. En conséquence, les résolutions susmentionnées, signées par moi‑même ci‑dessous, ont la même valeur que si elles avaient été adoptées au cours d'une assemblée du conseil d'administration, conformément 89.3 de la Loi sur les compagnies du Québec, Partie 1A.
+(signature)
+SUZANNE DUFAULT
+[21] Selon l’appelante, c’est son avocat, Me Perras, qui aurait rédigé les deux documents, soit la résolution et la démission. Ils portent la date du 22 mars 2002.
+[22] Le 2 juin 2005, l’appelante signe un document intitulé « Procuration, autorisation relative à la communication de renseignements ou révocation », pièce I‑8. En fait, il s’agit d’une procuration de la société 9015‑3602 Québec Inc. à monsieur Dany Perras concernant « tous les renseignements que Revenu Québec détient à mon sujet pour l’application ou l’exécution des lois fiscales et de la Loi sur la taxe d’accise ». L’appelante explique que le mandataire, monsieur Perras est son avocat d’alors. Elle ajoute que c’est à la demande de l’agent du Ministre qu’elle a signé ce document. Elle n’était plus l’administratrice de la société à cette date.
+[23] L’appelante termine son témoignage en affirmant que depuis sa démission elle n’avait posé aucun geste d’administrateur. Cela a toujours été son mari, monsieur Bill Hattem qui a été le véritable administrateur en ce qui regarde les comptes. C’est lui qui signait les chèques et s’occupait de la gestion des divers comptes de l’entreprise.
+[24] Monsieur Hattem a témoigné. Il a relaté qu’au début, il aidait de loin à l’entreprise de sa femme. Au début, madame Sergerie était la gérante. Il s’est impliqué, mais à titre bénévole. Il aurait bien souhaité que la proposition concordataire réussisse mais que cela n’a pas été le cas pour des raisons indépendantes de sa volonté.
+[25] Monsieur Hattem a relaté qu'il était celui qui discutait avec les agents du Ministre au moment de la proposition concordataire et après. Après l'échec de la proposition et celui de la perception de la dette fiscale de la société, les agents du Ministre l'ont informé d'un projet de cotisation contre lui à titre d'administrateur en vertu de l’article 323 de la Loi. Il a alors fait valoir qu’il avait démissionné comme administrateur. Il leur a fait parvenir copie de la déclaration modificative produite le 19 février 2002 auprès du registraire des entreprises. Les agents ont accepté cet état des choses et l’en ont informé le 21 juillet 2005 (pièce I‑11). Ils ont alors continué leur procédure à l’égard de l’appelante.
+[26] Selon le témoin de Revenu Québec à l’audience et selon la preuve documentaire, la première fois que le Ministère du revenu a été mis au courant du fait juridique de la démission de l’appelante à titre d’administrateur a été au moment de l'avis d'opposition. En ce qui concerne la proposition concordataire, le ministère s’était abstenu de voter.
+Analyse et conclusion
+[27] Les articles 123.30, 123.76 et 123.81 de la Loi sur les compagnies du Québec se lisent ainsi :
+123.30. Les tiers ne sont pas présumés avoir connaissance des informations contenues dans un document relatif à la compagnie, autres que celles visées à l'article 82 de la Loi sur la publicité légale des entreprises individuelles, des sociétés et des personnes morales (chapitre P-45), du seul fait de son dépôt au registre ou du fait que ce document peut être consulté dans les bureaux de la compagnie.
+123.76. Malgré l'expiration de son mandat, un administrateur demeure en fonction jusqu'à ce qu'il soit réélu, remplacé ou destitué.
+Il peut résigner ses fonctions en donnant un avis à cet effet.
+123.81. Dans les 15 jours suivant tout changement dans la composition du conseil d'administration, la compagnie doit donner avis de ce changement en produisant une déclaration à cet effet conformément à la Loi sur la publicité légale des entreprises individuelles, des sociétés et des personnes morales (chapitre P-45).
+...
+[28] L’avocate de l’appelante s’est référée à une décision du juge Bell de cette cour dans Netupsky c. La Reine, 2003 CanLII 676 (C.C.I.). L’appelant avait, dans cette affaire, affirmé avoir remis une démission écrite à titre d’administrateur et à titre de président le 6 décembre 1995. Cette démission aurait été confiée au cabinet de ses avocats. Lors de l’audience, une déclaration assermentée de l’avocat confirmait que l’appelant était venu à la date mentionnée au bureau de ses avocats et que ces derniers l’avaient dirigé vers le technicien juridique chargé de maintenir les registres. Toutefois, cet appelant avait par la suite signé des lettres importantes pour la société. Il n’avait pas avisé Revenu Canada qu’il n’était plus administrateur ni président et il avait même désigné une personne pour le représenter lors de discussions avec Revenu Canada (paragraphe 8 de cette décision). La loi constitutive de la société était la Company Act de la Colombie‑Britannique. Le juge a été satisfait de la preuve et a accordé l’appel.
+[29] Je suis d’avis que, dans la présente affaire, la preuve n’a pas été faite de l’authenticité même de la démission de l’appelante en mars 2002. L’avocat qui est censé l’avoir rédigé n’est pas venu témoigner ou n’a produit aucune lettre ou aucun document contemporain à la prétendue démission. En fait le nom de cet avocat paraît une seule fois dans la preuve présentée et c’est à la procuration signée en 2005.
+[30] De plus, il me paraît étrange que, si l’avis de la démission de monsieur Hattem à titre d’administrateur avait été envoyé au registraire des entreprises le 19 févier 2002, que le même avis n'ait pas été envoyé en temps opportun auprès du registraire des entreprises pour la démission de l’appelante, un mois plus tard. Cette démission était beaucoup plus importante, car il s’agissait alors de celle de l’administrateur unique.
+[31] Si un administrateur démissionne du conseil d’administration d’une société débitrice fiscale et veut que cette démission soit un acte juridique valide à l’égard du Ministre, selon la Loi sur les compagnies du Québec, cet administrateur doit informer le Ministre de sa démission lors des échanges de correspondance relatifs à la dette fiscale de la société et à ceux relatifs à la responsabilité des administrateurs. Je ne crois pas que les lois des autres provinces ainsi que la loi fédérale sur les compagnies soient différentes à cet égard.
+[32] Selon la preuve présentée, il semble que c’était monsieur Hattem qui discutait avec les agents du Ministre, apparemment pour lui et l’appelante, de la dette de la société. Tel que déjà relaté, quand les agents lui ont mentionné qu’ils envisageaient une cotisation en vertu de l’article 323 de la Loi contre lui, il a fait valoir qu’il avait démissionné comme administrateur. Il leur a fait parvenir copie de la déclaration modificative produite le 19 février 2002 auprès du registraire des entreprises. Les agents ont accepté cet état des choses et l’en ont informé le 21 juillet 2005. Ils ont continué à l’égard de l’appelante. Il faut se souvenir que cette dernière avait signé une procuration à son avocat en date du 2 juin 2005 pour traiter des affaires de la société avec Revenu Québec. La cotisation contre elle est en date du 31 août 2005.
+[33] Le fait pour une personne de se présenter aux tiers comme un administrateur fera d'elle un administrateur de facto. Je cite l'auteur Paul Martel dans le Précis de droit sur les compagnies au Québec, 1ere édition, Montréal (QC), Éditions Wilson & Lafleur, Martel Ltée, 2000, aux pages 465 et 489 :
+...
+Comme son nom l'indique, l'administrateur de facto sera considéré comme un administrateur si, dans les faits, il usurpe cette fonction en posant des actes normalement réservés aux administrateurs : par exemple, participer aux réunions du conseil d'administration, signer des résolutions du conseil, prendre ou participer à des décisions d'administration ou d'aliénation, donner des instructions au nom de la compagnie, se présenter aux tiers comme un administrateur, etc. ...
+...
+Un administrateur qui démissionne mais qui continue en fait d'agir et de se présenter aux tiers comme administrateur de la compagnie risque, nonobstant sa démission, d'être considéré comme administrateur de facto et en tant que tel de demeurer sujet aux responsabilités imposées par la loi aux administrateurs.
+Soulignons par ailleurs que l'administrateur démissionnaire a avantage à veiller à ce que la formule d'avis de changement des administrateurs énonçant son retrait soit dûment produite à Québec ou Ottawa, à cause de la présomption créée par la loi que les administrateurs désignés comme tels dans le dernier avis envoyé à l'Inspecteur général ou au Directeur occupent bel et bien ce poste (L.c.Q., art. 123.31(2) et (3); L.c.s.a., art. 253(2); L.p.l. art. 62(6)). Cette présomption est toutefois réfutable, et elle ne joue qu'en faveur des tiers de bonne foi.
+...
+[34] La preuve a révélé que l'appelante a continué à se présenter comme administratrice jusqu'au 2 juin 2005 auprès des agents du Ministre. Ni elle ni son mari, n'ont informé le Ministre de sa prétendue démission. Même si cette démission avait eu lieu à la date soumise, l’appelante serait tout de même restée un administrateur de facto. Cette démission ne pourrait être opposée au Ministre qui ignorait ce fait jusqu’à l’avis d’opposition. Mais, je suis d’avis, que selon la preuve en cette affaire, la démission n’a pas eu lieu à la date du 22 mars 2002.
+[35] En ce qui concerne la preuve secondaire de diligence raisonnable, il me faut dire que la preuve n’en a révélé aucune. D’après son témoignage, l’appelante ne s’est jamais enquise auprès de son mari à savoir si les montants de la taxe perçue auprès des clients au nom des autorités fiscales avaient été remis aux autorités fiscales. Elle ne s’est jamais non plus préoccupée de prévenir les manquements à cette obligation de remise de la taxe perçue. Selon elle, elle se contentait de se fier à son mari sans lui poser aucune question ni lui mander les gestes à poser pour prévenir les manquements. Cette attitude si elle est vraie ne peut pas être acceptée comme l’exercice de la diligence raisonnable décrite au paragraphe 323(3) de la Loi, pour l’administratrice principale et, bien des années, unique de la société. Voir à cet égard Soper c. Canada, [1997] A.C.F. no 881 (QL) et Canada c. Corsano, [1999] A.C.F. no 401 (QL).
+[36] L’appel doit en conséquence être rejeté, avec dépens.
+Signé à Ottawa, Canada, ce 17e jour de janvier 2008.
+« Louise Lamarre Proulx »
+Juge Lamarre Proulx
+RÉFÉRENCE : 2008CCI32
+Nº DU DOSSIER DE LA COUR : 2007-207(GST)G
+INTITULÉ DE LA CAUSE : SUZANNE DUFAULT HATTEM c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATE DE L’AUDIENCE : Le 5 décembre 2007
+MOTIFS DU JUGEMENT PAR : L'honorable juge Louise Lamarre Proulx
+DATE DU JUGEMENT : Le 17 janvier 2008
+COMPARUTIONS :
+Avocate de l'appelante :
+Me Isabel Marceau
+Avocate de l'intimée :
+Me Josée Fournier
+AVOCATE INSCRITE AU DOSSIER :
+Pour l'appelante :
+Nom : Me Isabel Marceau
+Cabinet : Deveau, Lavoie, Bourgeois, Gagné, Hébert & Associés S.E.N.C.R.L.
+Laval (Québec)
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

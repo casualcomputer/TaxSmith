@@ -1,0 +1,517 @@
+---
+title: "Desmarais c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27194/index.do"
+last_modified: "2006-02-16"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 CCI 44"
+citation2: ""
+neutral_citation: "2006 CCI 44"
+decision_date: "2006-02-16"
+language: "fr"
+item_id: "27194"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 997
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T08:52:45.904000+00:00"
+cases_cited_count: 3
+cases_citing_count: 7
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "6b421e956b812129dad4cf9150a6422c4ac8738a37385e67fd70f64bf809d879"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Desmarais c. La Reine
+
+- Citation: 2006 CCI 44
+- Decision date: 2006-02-16
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 997, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Desmarais c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-02-16
+Référence neutre
+2006 CCI 44
+Numéro de dossier
+2003-2952(IT)G
+Juges et Officiers taxateurs
+Pierre Archambault
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2003-2952(IT)G
+ENTRE :
+CLAUDE DESMARAIS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appels entendus le 7 septembre 2005, à Montréal (Québec).
+Devant : L'honorable juge Pierre Archambault
+Comparutions :
+Avocat de l'appelant :
+Me Serge Fournier
+Avocats de l'intimée :
+Me Richard Gobeil
+Me Justine Malone
+____________________________________________________________________
+JUGEMENT
+Les appels des cotisations établies en vertu de la Loi de l'impôt sur le revenu à l'égard des années d'imposition 1997 et 1998 sont rejetés, avec dépens en faveur de l'intimée, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 16e jour de février 2006.
+« Pierre Archambault »
+Juge Archambault
+Référence : 2006CCI44
+Date : 20060216
+Dossier : 2003-2952(IT)G
+ENTRE :
+CLAUDE DESMARAIS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Archambault
+[1] Monsieur Claude Desmarais interjette appel de cotisations d'impôt sur le revenu établies par le ministre du Revenu national (ministre) à l'égard des années d'imposition 1997 et 1998[1]. Le ministre a inclus dans le revenu de monsieur Desmarais pour ces années d'imposition des dividendes imposables de 112 463 $ et de 41 236 $ respectivement, selon l'article 245 de la Loi de l'impôt sur le revenu (Loi)[2].
+[2] Selon le ministre, l'imposition de ces sommes comme des dividendes constitue un attribut fiscal déterminé de façon raisonnable afin de supprimer l'avantage fiscal découlant d'une série d'opérations d'évitement comprenant le rachat d'actions par 6311. Voici l'exposé qu'a fait le procureur de l'intimée au paragraphe 1 de ses observations écrites :
+Au 30 juin 1996, l'appelant était actionnaire de deux compagnies[3] dont une qu'il contrôlait avec son frère et qui détenait d'importants surplus. Suite à une série d'opérations n'ayant aucun objet commercial véritable, l'appelant a retiré 123,000 $ libre d'impôt provenant de cette société. En créant un capital versé élevé et en transformant ce qui aurait autrement été un dividende imposable de la société en un retour de capital, l'appelant s'est approprié ces surplus sans imposition.
+Contexte factuel
+[3] La grande majorité des faits ne pose pas problème dans ces appels. En effet, le procureur de monsieur Desmarais a admis tous les faits suivants tenus pour acquis par le ministre lors de l'établissement de la cotisation et énoncés au paragraphe 17 de la réponse à l'avis d'appel, sauf ceux énoncés à l'alinéa j) et aux alinéas u) à y) :
+a) Comsercom est une société canadienne imposable dont le capital action [sic] était jusqu'au 10 décembre 1996 composé de 42 actions ordinaires réparties entre sept actionnaires non liés, dont l'appelant;
+b) le capital versé des 42 actions ordinaires de Comsercom était de 420 $;
+c) jusqu'au 13 décembre 1996, l'appelant détenait 14.28 % des actions ordinaires de Comsercom, soit 6 actions ordinaires;
+d) le 11 décembre 1996, Comsercom modifie son capital-actions à la demande de l'appelant ou de ses représentants afin de subdiviser les 42 actions ordinaires en 420 actions ordinaires;
+9044-6311 Québec Inc
+e) Le 11 décembre 1996, [6311] est incorporée;
+f) Le capital-actions de [6311] est constitué de 100 actions ordinaires ayant un capital-versé [sic] total de 100 $;
+g) en tout temps pertinent au litige, l'appelant détient la totalité des actions émises et en circulation de [6311];
+h) le 13 décembre 1996, l'appelant transfère 41 de ses 60 actions ordinaires de Comsercom, soit 9.76 % des actions ordinaires de Comsercom, en faveur de [6311] par voie de roulement sous le paragraphe 85(1) de la Loi de l'impôt sur le revenu ( « la Loi » );
+0 la somme convenue relativement aux 41 actions est de 123 000 $ et le prix de base rajusté de 41 $;
+0 en contrepartie du transfert décrit ci-dessus, l'appelant a reçu 123 000 actions privilégiées de catégorie D de [6311];
+0 la valeur de rachat, le coût et le capital-versé [sic] des 123 000 actions privilégiées de catégorie D de [6311] est de 123 000 $, soit 1 $ l'action;
+i) l'appelant a déclaré pour l'année d'imposition 1996 un gain en capital imposable de 92 219 $[4] et a réclamé une déduction en vertu de l'article 110.6 de la Loi;
+j) le transfert des actions ordinaires de Comsercom a été limité à 9.76 %[5] dans le but de contourner l'application des dispositions de l'article 84.1 de la Loi;
+k) à partir du 13 décembre 1996 et en tout temps subséquent pertinent au litige, l'appelant détenait 19 actions ordinaires de Comsercom, soit 4.52 % de celles-ci;
+Gestion A.C.D. Inc.
+l) Gestion est une société canadienne imposable dont le capital-actions était jusqu'au 30 juin 1996 composé de 1000 actions de catégorie A et 1000 actions de catégorie B;
+m) jusqu'au 6 janvier 1997, l'appelant et son frère André Desmarais détenaient à parts égales toutes les actions émises et en circulation de Gestion[6];
+n) entre le 30 juin 1996 et le 6 janvier 1997[7], les actionnaires de Gestion ont échangé leurs 2000 actions de catégories A et B en 557 actions de catégorie A, 557 actions de catégorie B, 443 actions de catégorie C et 443 actions de catégorie D;
+o) le 6 janvier 1997, l'appelant transfère par voie de roulement selon le paragraphe 85(1) de la Loi 557 actions catégorie B de Gestion à [6311];
+0 la somme convenue relativement aux 557 actions est de 557 $ et le prix de base rajusté de 557 $;
+0 en contrepartie du transfert de 557 actions de catégorie B de Gestion, l'appelant reçoit 520 795 actions privilégiées de catégorie F de [6311] ayant une valeur de rachat de 520 795 $ et un capital versé de 557 $[8];
+p) le 31 mars 1997, l'appelant transfère par voie de roulement selon le paragraphe 85(1) de la Loi 443 actions catégorie D de Gestion à [6311];
+0 la somme convenue relativement aux 443 actions est de 208 019 $ et le prix de base rajusté de 443 $;
+0 l'appelant a réclamé une déduction pour gain en capital selon l'article 110.6 de la Loi relativement au gain en capital résultant du transfert décrit ci-dessus;
+0 en contrepartie du transfert de 443 actions de catégorie D de Gestion, l'appelant reçoit 414 205 actions privilégiées de catégorie E de [6311] ayant une valeur de rachat de 414 205 $ et un capital versé de 443 $[9];
+Rachats par [6311]
+q) le 6 janvier 1997, [6311] rachète 90 000 actions privilégiées de catégorie D détenues par l'appelant pour une contrepartie en espèces de 90 000 $[10];
+r) le 5 janvier 1998, [6311] rachète 33 000 actions privilégiées de catégorie D restantes détenues par l'appelant pour une contrepartie en espèces de 33 000 $;[11]
+s) l'appelant a traité fiscalement les rachats du 6 janvier 1997 et du 5 janvier 1998 comme suit :
+1997
+1998
+Somme payée au rachat
+90 000 $
+33 000 $
+Moins capital versé
+(90 000 $)
+(33 000 $)
+dividende réputé
+- $
+- $
+Produit de disposition
+90 000 $
+33 000 $
+Moins dividende réputé
+(- $)
+(- $)
+Produit de disposition révisé
+selon l'art. 54
+90 000 $
+33 000 $
+Moins prix de base rajusté
+90 000 $
+33 000 $
+Gain en capital
+- $
+- $
+t) durant les exercices terminés le 31 mai 1997 et le 31 mai 1998, [6311] a reçu des dividendes de Gestion aux montants de 306 497 $ et 171 906 $ respectivement;
+u) les dividendes reçus de Gestion ont financé le rachat des actions privilégiées de [6311];
+v) les opérations suivantes font partie d'une série d'opérations d'évitement dont a découlé, directement ou indirectement, l'obtention d'un avantage fiscal :
+§ l'incorporation de [6311];
+§ le remaniement de capital effectué par Comsercom;
+§ le transfert de 9.76 % des actions de Comsercom détenues par l'appelant à [6311];
+§ le remaniement de capital effectué par Gestion;
+§ le transfert des actions de Gestion à [6311];
+§ les dividendes payés à [6311] par Gestion; et
+§ le rachat des actions par [6311];
+w) l'avantage fiscal découlant de ces opérations est l'économie d'impôt sur l'appropriation par l'appelant de fonds de Gestion;
+x) les opérations décrites au paragraphe v) ci-dessus n'ont pas été effectuées principalement pour des objets véritables;
+y) les opérations entraînent directement ou indirectement un abus dans l'application des dispositions de la Loi lue dans son ensemble en permettant à l'appelant de s'approprier des fonds, libres d'impôt, des sociétés dont il était actionnaire.
+[4] Seulement monsieur Desmarais et son fiscaliste du cabinet de comptables Samson Bélair ont témoigné à l'audience. Monsieur Desmarais a relaté les circonstances de la formation de 6311, à laquelle il a transféré ses actions de Gestion et de Comsercom. Gestion détient une participation importante dans une société qui exploite une entreprise de courtage d'assurances. L'arrivée de nouveaux associés dans cette société a généré d'importantes liquidités pour Gestion. Selon monsieur Desmarais, son frère et lui, qui détenaient toutes les actions de Gestion, ne partageaient pas les mêmes objectifs de placement relativement à ces liquidités. De plus, son frère n'appréciait pas les conseillers en placements auxquels monsieur Desmarais avait recours. Par conséquent, il fut décidé qu'il serait dans l'intérêt des deux frères de séparer leur participation dans les liquidités de Gestion et, sur les conseils de Samson Bélair et, notamment, des fiscalistes de ce cabinet, il fut décidé que Claude Desmarais transférerait les actions de Gestion qu'il détenait à une autre nouvelle société de portefeuille, 6311, et que son frère André transférerait les siennes à une autre nouvelle société de portefeuille, 9044-6295 Québec Inc.
+[5] Lors de son témoignage, le fiscaliste de chez Samson Bélair a décrit certains aspects fiscaux de cette réorganisation. Il a notamment parlé de l'intérêt des frères Desmarais à « cristalliser » leur droit à ce qu'on appelle communément « l'exonération » du gain capital[12], dont ils pourraient jouir à l'égard de leurs actions de Gestion et, quant à Claude Desmarais, à l'égard de ses actions de Comsercom. Cette dernière société, constituée depuis 1977, exploitait un centre d'hébergement pour personnes âgées. Il s'agissait d'une société exploitant une entreprise activement et dont les actions pouvaient bénéficier du régime avantageux de l'exonération du gain en capital. Selon monsieur Desmarais, la formation de 6311 lui permettait de réaliser son objectif de mettre tous ses placements dans sa société de portefeuille.
+[6] Par contre, cet objectif n'a pas pu être réalisé à l'égard de toutes ses actions de Comsercom, puisque le fiscaliste avait vu une occasion de « monnayer » l'exonération du gain capital latent sur les actions de Comsercom que détenait monsieur Desmarais, c'est-à-dire de « faire comme si on vendait ces actions à des tiers » . Lors de son contre-interrogatoire, le fiscaliste a reconnu qu'il savait qu'en transférant 10 % ou moins des actions de Comsercom à 6311, il serait possible d'éviter d'être tenu de limiter, tel que l'exige la règle énoncée à l'article 84.1 de la Loi, le capital versé des actions émises par 6311 au montant du capital versé des actions de Comsercom que monsieur Desmarais transférait à 6311. En agissant ainsi, monsieur Desmarais pouvait retirer 123 000 $ de 6311 sans impôt. C'est pourquoi monsieur Desmarais n'a transféré que 41 actions ordinaires de Comsercom, soit 9,76 % de toutes les actions ordinaires de cette société, qui, après le transfert, n'était pas rattachée à 6311 parce que cette dernière détenait moins de 10 % des actions avec droit de vote et que cela représentait moins de 10 % de la juste valeur marchande de toutes les actions de Comsercom. Le fiscaliste a affirmé ne pas pouvoir fournir de renseignements relativement au rachat des 123 000 actions de catégorie D par 6311 parce que c'est son associé vérificateur qui s'était occupé de cette opération et non pas lui. Par contre, il savait que le prix de rachat de ces actions était égal à leur capital versé et à leur prix de base rajusté.
+[7] Quant à monsieur Desmarais, il a reconnu que le rachat des 123 000 actions de catégorie D faisait partie du plan de restructuration de ses placements et que cela lui avait été suggéré par Samson Bélair. Il croyait que ce rachat respectait les dispositions de la Loi. Il a reconnu également que le transfert des actions de Comsercom à 6311 avait été fait « tant qu'à y être » . Selon lui, ce transfert allait lui permettre de mieux gérer les dividendes que pourrait lui distribuer Comsercom. Il a toutefois mentionné que la politique de cette société était de rembourser d'abord ses dettes. Ses états financiers révèlent qu'un important agrandissement s'est réalisé au cours de l'exercice financier se terminant le 30 juin 1996. Le coût des travaux et des acquisitions faites par Comsercom pour cet agrandissement s'est élevé à 1 698 600 $ en 1996 et à plus de 219 000 $ en 1997. La dette à long terme a augmenté de 1 044 259 $ en 1996 et de 242 164 $ en 1997 pour s'établir à 2 902 643 $ à la fin de l'exercice 1997[13]. Finalement, l'analyse des états financiers de Comsercom pour les exercices de 1995 à 1999 révèle qu'aucun dividende n'a été versé pour les exercices financiers de 1996 à 1998[14]. Un dividende en capital de 128 058 $ a été versé au cours de l'exercice 1995 et un dividende ordinaire de 35 000 $ l'a été dans l'exercice 1999. La part de 6311 dans ce dernier dividende représenterait donc 3 416 $ (35 000 $ x 9,76%)[15].
+[8] Au cours de l'exercice 1999, 6311 a racheté 80 000 actions de catégorie F pour une somme de 80 000 $.
+[9] L'analyse des déclarations de revenus[16] de 6311 pour les années 1997 à 2001 (sauf celle pour 2000, qui n'a pas été produite) nous fournit les renseignements suivants sur les dividendes qu'elle a reçus :
+Dividendes reçus par 6311
+Source des dividendes
+1997
+1998
+1999
+2000
+2001
+TOTAL
+Gestion
+306 497
+171 906
+122 000
+600 403
+Comsercom
+0
+0
+0
+3 416[17]
+3 416
+Lévesque Beaubien
+1 461
+1 488
+2 949
+V.M. Desjardins
+405
+1 228
+1 633
+219
+219
+TOTAL
+306 497
+173 772
+124 935
+n/d
+15 847[18]
+621 051
+[10] Même si le procureur de monsieur Desmarais a nié le paragraphe u) de la réponse à l'avis d'appel, selon lequel les dividendes reçus de Gestion par 6311 ont financé son rachat en 1997 et 1998 des 123 000 actions de catégorie D détenues par monsieur Desmarais, il n'a pas présenté de preuve pour contredire ce fait. Au contraire, les cahiers conjoints de documents l'établissent amplement.
+[11] Tout d'abord, l'analyse des dividendes reçus par 6311 et indiqués au tableau ci-dessus crée une forte inférence que ce sont les dividendes versés par Gestion qui ont permis à 6311 de racheter ses 123 000 actions de catégorie D. Une chose est claire, ce ne sont pas les dividendes versés par Comsercom qui ont permis le rachat des 90 000 actions de catégorie D le 6 janvier 1997 et des 33 000 actions de catégorie D restantes le 5 janvier 1998. Mais il y a plus. L'analyse des registres comptables de 6311, y compris les écritures de régularisation effectuées par les comptables, établit clairement que ce sont les dividendes versés par Gestion qui ont permis à 6311 d'acquitter le prix de rachat de ces 123 000 actions de catégorie D.
+[12] Contrairement à ce qui est indiqué dans les résolutions écrites de l'administrateur unique de 6311 en date du 6 janvier 1997 (onglet 25), les 90 000 $ pour le rachat des 90 000 actions de catégorie D détenues par Claude Desmarais n'ont pas été payés « par l'émission d'un chèque par la Compagnie en faveur de Claude Desmarais » . À l'égard de ce rachat, on trouve parmi les documents comptables de 6311 une analyse des opérations de 6311 à la Caisse populaire St-Thomas d'Aquin (onglet 34) ainsi que les écritures de régularisation reportées (onglet 35). Cette analyse révèle que, sur le prix total de rachat de 90 000 $, une somme de 89 137 $ a été versée à monsieur Desmarais par deux virements manuels et par un retrait au comptoir, et non pas par chèque. Le solde impayé du prix de rachat se trouve au compte d'avances à l'actionnaire.
+[13] Le tableau qui suit fournit des renseignements quant à la date de dépôt des dividendes reçus par 6311 de Gestion et quant au versement du prix de rachat par 6311 à monsieur Desmarais :
+Corrélation entre les dividendes reçus de Gestion
+et le paiement du rachat par 6311[19]
+Dates
+des dépôts
+ou retraits
+Mode ou source
+du paiement
+Dividendes
+reçus de Gestion
+Prix du rachat
+remis à Claude D
+28 fév 97
+Gestion
+12 000
+28 fév 97
+virement manuel
+12 000
+3 avril 97
+Gestion
+55 000
+4 avril 97
+virement manuel
+50 000
+15 avril 97
+Gestion
+26 200
+25 avril 97
+retrait au comptoir
+27 137
+TOTAL
+93 200
+89 137
+[14] En ce qui a trait au rachat des 33 000 actions de catégorie D restantes par 6311 le 5 janvier 1998, une constatation semblable doit être faite. En effet, contrairement à ce qui est indiqué dans la résolution du 5 janvier 1998 pour le rachat de ces actions (onglet 36), non seulement le paiement ne s'est pas effectué par l'émission d'un chèque, mais le versement du prix de rachat s'est effectué avant la date de la résolution du conseil d'administration. L'analyse des documents comptables, notamment celle du document « Opération Caisse populaire St-Thomas d'Aquin » (onglet 37) et des écritures de régularisation reportées (onglet 38) fournit les renseignements suivants :
+Corrélation entre les dividendes reçus de Gestion
+et le paiement du rachat par 6311[20]
+Date
+Dividendes
+reçus de Gestion
+Prix du rachat*
+remis à Claude D
+juin 1997
+3 500
+août 1997
+56 275
+35 000
+10 000
+octobre 1997
+10 000
+février 1998
+7 500
+7 500
+avril 1998
+108 130
+12 000
+TOTAL
+171 905
+78 000
+* des 33 000 actions de catégorie D et des 45 000 actions de catégorie F
+Analyse
+[15] Les cotisations du ministre sont fondées sur l'article 245 de la Loi, qui édicte :
+245(1) [Règle générale anti-évitement - RGAE] -Les définitions qui suivent s'appliquent au présent article.
+« attribut fiscal » S'agissant des attributs fiscaux d'une personne, revenu, revenu imposable ou revenu imposable gagné au Canada de cette personne, impôt ou autre montant payable par cette personne, ou montant qui lui est remboursable, en application de la présente loi, ainsi que tout montant à prendre en compte pour calculer, en application de la présente loi, le revenu, le revenu imposable, le revenu imposable gagné au Canada de cette personne ou l'impôt ou l'autre montant payable par cette personne ou le montant qui lui est remboursable.
+« avantage fiscal » Réduction, évitement ou report d'impôt ou d'un autre montant exigible en application de la présente loi ou augmentation d'un remboursement d'impôt ou d'un autre montant visé par la présente loi. Y sont assimilés la réduction, l'évitement ou le report d'impôt ou d'un autre montant qui serait exigible en application de la présente loi en l'absence d'un traité fiscal ainsi que l'augmentation d'un remboursement d'impôt ou d'un autre montant visé par la présente loi qui découle d'un traité fiscal.
+« opération » Sont assimilés à une opération une convention, un mécanisme ou un événement.
+245(2) Disposition générale anti-évitement - [RGAE] - En cas d'opération d'évitement, les attributs fiscaux d'une personne doivent être déterminés de façon raisonnable dans les circonstances de façon à supprimer un avantage fiscal qui, sans le présent article, découlerait, directement ou indirectement, de cette opération ou d'une série d'opérations dont cette opération fait partie.
+245(3) Opération d'évitement - L'opération d'évitement s'entend :
+a) soit de l'opération dont, sans le présent article, découlerait, directement ou indirectement, un avantage fiscal, sauf s'il est raisonnable de considérer que l'opération est principalement effectuée pour des objets véritables - l'obtention de l'avantage fiscal n'étant pas considérée comme un objet véritable;
+b) soit de l'opération qui fait partie d'une série d'opérations dont, sans le présent article, découlerait, directement ou indirectement, un avantage fiscal, sauf s'il est raisonnable de considérer que l'opération est principalement effectuée pour des objets véritables - l'obtention de l'avantage fiscal n'étant pas considérée comme un objet véritable.
+245(4) Application du par. (2) - Le paragraphe (2) ne s'applique qu'à l'opération dont il est raisonnable de considérer, selon le cas :
+a) qu'elle entraînerait, directement ou indirectement, s'il n'était pas tenu compte du présent article, un abus dans l'application des dispositions d'un ou de plusieurs des textes suivants :
+(i) la présente loi,
+(ii) le Règlement de l'impôt sur le revenu,
+(iii) les Règles concernant l'application de l'impôt sur le revenu,
+(iv) un traité fiscal,
+(v) tout autre texte législatif qui est utile soit pour le calcul d'un impôt ou de toute autre somme exigible ou remboursable sous le régime de la présente loi, soit pour la détermination de toute somme à prendre en compte dans ce calcul;
+b) qu'elle entraînerait, directement ou indirectement, un abus dans l'application de ces dispositions compte non tenu du présent article lues dans leur ensemble. [21]
+245(5) Attributs fiscaux à déterminer - Sans préjudice de la portée générale du paragraphe (2) et malgré tout autre texte législatif, dans le cadre de la détermination des attributs fiscaux d'une personne de façon raisonnable dans les circonstances de façon à supprimer l'avantage fiscal qui, sans le présent article, découlerait, directement ou indirectement, d'une opération d'évitement :
+a) toute déduction, exemption ou exclusion dans le calcul de tout ou partie du revenu, du revenu imposable, du revenu imposable gagné au Canada ou de l'impôt payable peut être en totalité ou en partie admise ou refusée;
+b) tout ou partie de cette déduction, exemption ou exclusion ainsi que tout ou partie d'un revenu, d'une perte ou d'un autre montant peuvent être attribués à une personne;
+c) la nature d'un paiement ou d'un autre montant peut être qualifiée autrement;
+d) les effets fiscaux qui découleraient par ailleurs de l'application des autres dispositions de la présente loi peuvent ne pas être pris en compte.
+[Je souligne.]
+[16] L'adoption de cet article en 1988 a fait couler beaucoup d'encre quant à la portée de celui-ci et à la manière dont il devait être interprété. Cette Cour et la Cour d'appel fédérale ont eu à se prononcer à plusieurs reprises sur l'application de cet article. Tout récemment, soit le 19 octobre 2005, la Cour suprême du Canada a rendu deux importantes décisions qui viennent préciser la démarche que doit adopter cette Cour dans l'application de l'article 245. Il s'agit de Hypothèques Trustco Canada c. Canada, [2005] A.C.S. no 56 (QL), 2005 CarswellNat 3213, 2005 CSC 54 (Trustco), et de Mathew c. Canada, [2005] A.C.S. no 55 (QL), 2005 CarswellNat 3215, 2005 CSC 55. Au paragraphe 66 de l'arrêt Trustco, la Cour suprême résume de façon succincte cette approche :
+66 L'approche relative à l'art. 245 de la Loi de l'impôt sur le revenu peut se résumer ainsi.
+1. Trois conditions sont nécessaires pour que la RGAÉ s'applique :
+(1) il doit exister un avantage fiscal découlant d'une opération ou d'une série d'opérations dont l'opération fait partie (par. 245(1) et (2));
+(2) l'opération doit être une opération d'évitement en ce sens qu'il n'est pas raisonnable d'affirmer qu'elle est principalement effectuée pour un objet véritable - l'obtention d'un avantage fiscal n'étant pas considérée comme un objet véritable;
+(3) il doit y avoir eu évitement fiscal abusif en ce sens qu'il n'est pas raisonnable de conclure qu'un avantage fiscal serait conforme à l'objet ou à l'esprit des dispositions invoquées par le contribuable.
+2. Il incombe au contribuable de démontrer l'inexistence des deux premières conditions, et au ministre d'établir l'existence de la troisième condition[22].
+3. S'il n'est pas certain qu'il y a eu évitement fiscal abusif, il faut laisser le bénéfice du doute au contribuable.
+4. Les tribunaux doivent effectuer une analyse textuelle, contextuelle et téléologique unifiée des dispositions qui génèrent l'avantage fiscal afin de déterminer pourquoi elles ont été édictées et pourquoi l'avantage a été conféré. Le but est d'en arriver à une interprétation téléologique qui s'harmonise avec les dispositions de la Loi conférant l'avantage fiscal, lorsque ces dispositions sont lues dans le contexte de l'ensemble de la Loi.
+5. La question de savoir si les opérations obéissaient à des motivations économiques, commerciales, familiales ou à d'autres motivations non fiscales peut faire partie du contexte factuel dont les tribunaux peuvent tenir compte en analysant des allégations d'évitement fiscal abusif fondées sur le par. 245(4). Cependant, toute conclusion à cet égard ne constituerait qu'un élément des faits qui sous-tendent l'affaire et serait insuffisante en soi pour établir l'existence d'un évitement fiscal abusif. La question centrale est celle de l'interprétation que les dispositions pertinentes doivent recevoir à la lumière de leur contexte et de leur objet.
+6. On peut conclure à l'existence d'un évitement fiscal abusif si les rapports et les opérations décrits dans la documentation pertinente sont dénués de fondement légitime relativement à l'objet ou à l'esprit des dispositions censées conférer l'avantage fiscal, ou si ces rapports et opérations diffèrent complètement de ceux prévus par les dispositions.
+7. Si le juge de la Cour de l'impôt s'est fondé sur une interprétation correcte des dispositions de la Loi de l'impôt sur le revenu et sur des conclusions étayées par la preuve, les tribunaux d'appel ne doivent pas intervenir en l'absence d'erreur manifeste et dominante.
+[Je souligne.]
+[17] Ici, le procureur de monsieur Desmarais a bien tenté de démontrer l'inexistence des deux premières conditions. Il a soutenu qu'il n'existait aucun avantage fiscal, puisque, selon lui, monsieur Desmarais « s'était imposé » en incluant dans le calcul de son revenu le montant du gain en capital imposable résultant du transfert des 41 actions de Comsercom à 6311. Le procureur ne s'est pas attardé trop longtemps sur la question de l'avantage que représentait le droit de déduire, en vertu de l'article 110.6 de la Loi, un montant équivalent à celui du gain en capital imposable que monsieur Desmarais a inclus dans son revenu à la suite du transfert de ses actions. À mon avis, cette affirmation du procureur que son client s'était imposé ne correspond pas à la réalité. Il est plus juste de dire que monsieur Desmarais, en réclamant la déduction qu'accorde l'article 110.6 de la Loi, a joui d'une exonération à l'égard du gain en capital plutôt que de faire l'objet d'une imposition. Par contre, il est vrai que le gain en capital imposable a été inclus dans son revenu, mais il l'a ensuite déduit dans le calcul de son revenu imposable.
+[18] Quant aux procureurs de l'intimée, l'avantage fiscal qu'ils nomment est le dépouillement des surplus de Gestion qui ont pu par l'intermédiaire de 6311, lors du rachat des 123 000 actions de catégorie D, être distribués à monsieur Desmarais en franchise d'impôt. Selon eux, la série d'opérations d'évitement qui a permis d'obtenir un tel avantage fiscal comprend le transfert des 41 actions de Comsercom, à l'égard desquelles le gain en capital imposable a été exonéré par l'effet de l'article 110.6 de la Loi. Le dépouillement a été réalisé par le versement de dividendes par Gestion à 6311 - versement qui, grâce à l'article 112 de la Loi, s'est effectué sans impôt - et par l'utilisation des surplus en question pour racheter sans impôt - le prix de rachat étant égal au capital versé et au prix de base rajusté - les 123 000 actions de catégorie D détenues par monsieur Desmarais.
+[19] Rappelons qu'un avantage fiscal se définit comme consistant dans tout évitement ou report d'impôt, et force est de constater qu'effectivement des surplus de Gestion ont été remis sans impôt à monsieur Desmarais par 6311. Cet avantage fiscal découle d'une série d'opérations dont fait partie le transfert des 41 actions de Comsercom à 6311 par monsieur Desmarais et le rachat des 123 000 actions de catégorie D par 6311. Tel que nous l'enseigne la Cour suprême du Canada, lorsqu'il s'agit de déterminer s'il existe un avantage fiscal, « il se peut que l'existence d'un avantage fiscal ne puisse être établie qu'au moyen d'une comparaison avec un autre mécanisme » (par. 20 de Trustco). Ici, si les surplus de Gestion reçus comme dividendes par 6311 avaient été utilisés pour déclarer un dividende sur les actions de 6311 détenues par monsieur Desmarais ou s'ils avaient été utilisés pour racheter des actions de catégorie F[23], ces surplus de Gestion auraient été reçus par monsieur Desmarais comme dividendes imposables et inclus dans son revenu en vertu de l'article 82 de la Loi, soit comme simple dividende dans le cas de celui qui aurait été versé sur les actions de 6311, soit comme dividende réputé en vertu du paragraphe 84(3) lors du rachat des actions de catégorie F par 6311. Lorsque l'on compare les trois mécanismes que 6311 aurait pu utiliser, on constate l'avantage évident qu'a obtenu monsieur Desmarais du fait que 6311 a choisi de racheter en 1997 les 90 000 actions de catégorie D, et en 1998, les 30 000 actions de catégorie D restantes.
+[20] De plus, cet avantage fiscal découle d'une série d'opérations qui a débuté le 11 décembre 1996 par la constitution en société de 6311 et le fractionnement des actions de Comsercom et qui s'est terminé le 5 janvier 1998 par le rachat des 33 000 actions de catégorie D restantes. Selon le paragraphe 248(10) de la Loi, une série d'opérations inclut les « opérations et événements liés terminés en vue de réaliser la série » . Il faut de plus tenir compte de ces propos de la Cour suprême du Canada : « Nous tenons à ajouter que les mots "en vue de réaliser" sont employés non pas dans le sens d'une connaissance véritable, mais dans le sens plus général de "en raison de" ou "relativement à" la série. Ces mots peuvent s'appliquer à des événements survenus soit avant soit après l'opération d'évitement de base visée par le par. 245(3) » (par. 26 de Trustco). Le fait que 41 des 60 actions de Comsercom que détenait monsieur Desmarais ont été transférées à 6311 deux jours après le fractionnement des actions de Comsercom et la constitution de 6311, soit le 13 décembre 1996, et le fait que le rachat du premier groupe d'actions de catégorie D s'est effectué trois semaines plus tard, soit le 6 janvier 1997, le même jour que celui où 557 actions de catégorie B de Gestion ont été transférées par monsieur Desmarais à 6311, révèlent clairement que toutes ces opérations faisaient partie de la série d'opérations effectuées dans le but de réaliser l'avantage fiscal. Les 33 000 actions de catégorie D restantes ont été rachetées un an plus tard, soit le 5 janvier 1998, pour compléter cette série d'opérations, quoique le prix de rachat de ces actions ait été remis à monsieur Desmarais en plusieurs versements bien avant le 5 janvier 1998, soit à partir de juin 1997.
+[21] L'étape suivante consiste à déterminer si au moins une opération de la série constitue une opération d'évitement visée par le paragraphe 245(3), en ce sens qu'elle n'a pas été « principalement effectuée pour des objets véritables - l'obtention de l'avantage fiscal n'étant pas considérée comme un objet véritable » (al. 245(3)b) de la Loi). Ici, le procureur de monsieur Desmarais soutient qu'il n'y a pas eu d'opération d'évitement parce que le contribuable était principalement motivé par la réorganisation de son patrimoine, et en particulier par la séparation de sa participation dans les liquidités de Gestion. L'objectif poursuivi par monsieur Desmarais en transférant ses actions de Comsercom et de Gestion à 6311 était de réunir tous ses actifs dans un même panier.
+[22] Quant aux procureurs de l'intimée, ils n'ont aucune difficulté à reconnaître comme un objet véritable le but principal poursuivi par monsieur Desmarais, soit celui de sortir sa part des surplus liquides de Gestion pour pouvoir les investir dans 6311 selon ses propres objectifs et d'une façon différente de celle de son frère[24]. Toutefois, soutiennent-ils, monsieur Desmarais est allé plus loin que de simplement transférer sa part des liquidités de Gestion à 6311. Il a réussi à dépouiller Gestion de 123 000 $ sans aucun impôt, et le rachat des 123 000 actions de catégorie D n'était pas essentiel pour atteindre son but principal. La Cour suprême du Canada rappelle au paragraphe 27 de l'arrêt Trustco que la règle générale anti-évitement ne s'applique pas à une opération « dont [...] il est raisonnable de considérer [qu'elle] est principalement effectuée pour des objets véritables - l'obtention de l'avantage fiscal n'étant pas considérée comme un objet véritable » . La démarche qui doit être suivie pour déterminer s'il y a eu opération d'évitement est décrite aux paragraphes 28 et 29 de Trustco:
+28 Bien que l'examen parte du principe que les objets fiscal et non fiscal sont identifiables, il se peut que ces objets soient inextricablement liés dans le cas d'une opération particulière. Il n'est pas utile de qualifier d'exigeant ou de peu exigeant le critère préliminaire prescrit par le par. 245(3). Le libellé de la disposition prévoit simplement une évaluation objective de l'importance relative des motivations auxquelles obéissait l'opération.
+29 Là encore, l'examen porte sur les faits. Le contribuable ne peut se soustraire à l'application de la RGAÉ en déclarant simplement que l'opération a été principalement effectuée pour un objet non fiscal. Le juge de la Cour de l'impôt doit soupeser la preuve pour décider s'il est raisonnable de conclure que l'opération n'a pas été principalement effectuée pour un objet non fiscal. Cette décision fait appel au caractère raisonnable, ce qui indique qu'il faut envisager objectivement la possibilité que les événements se prêtent à diverses interprétations.
+[Je souligne.]
+[23] Ici, je n'ai aucune hésitation à conclure que plusieurs des opérations effectuées par monsieur Desmarais l'ont été principalement pour des objets véritables autres que fiscaux, l'un desquels étant de permettre que lui et son frère puissent investir leur part des surplus de Gestion comme ils l'entendaient. Ainsi le transfert des actions de Gestion qu'il détenait à 6311[25] ainsi que le versement d'importants dividendes par Gestion à 6311, notamment 306 497 $ en 1997, 171 906 $ en 1998 et 122 000 $ en 1999, étaient nécessaires pour réaliser cet objectif de placement. Par contre, l'opération par laquelle monsieur Desmarais n'a transféré que 41 de ses actions de Comsercom, représentant 9,78% des actions de cette société, ne peut pas être considérée comme ayant été effectuée principalement pour des objets véritables autres que des objets fiscaux. À mon avis, ce transfert a été effectué principalement pour permettre la réalisation d'un avantage fiscal, celui de distribuer sans impôt à monsieur Desmarais une somme de 123 000 $ provenant de Gestion. Cette conclusion s'impose d'autant plus que l'objectif de monsieur Desmarais de réunir toutes ses actions dans le même panier n'a pas été atteint par cette opération. En effet, il était essentiel qu'il conserve personnellement au moins 17 actions de Comsercom, sinon cette société aurait été rattachée[26] à 6311 et, en raison de l'application de l'article 84.1 de la Loi[27], le capital versé des actions de catégorie D de 6311 aurait été égal au capital versé des actions de Comsercom transférées à 6311, soit 1 $ par action de Comsercom. Lors de tout rachat des actions de catégorie D, un dividende aurait été réputé avoir été versé et monsieur Desmarais aurait été tenu d'en ajouter le montant à son revenu en vertu des paragraphes 82(1) et 84(3) de la Loi.
+[24] De plus, contrairement à Gestion, Comsercom ne détenait pas d'importantes liquidités. Au contraire, cette société avait effectué un agrandissement majeur de son centre d'hébergement pour personnes âgées et avait dû engager d'importantes dépenses pour réaliser cet agrandissement. Sa dette à long terme s'élevait au 30 juin 1997 à 2 902 643 $. Monsieur Desmarais a reconnu qu'une des priorités du conseil d'administration de Comsercom était de rembourser sa dette. Comme on l'a vu, cette société n'a versé aucun dividende à 6311 de 1996 à 1998 et lui a payé uniquement un dividende de 3 416 $ en 1999[28]. Il est fort peu probable que monsieur Desmarais eût engagé les frais que comportent la création et la gestion d'une société de portefeuille simplement pour qu'elle détienne ses actions de Comsercom. D'ailleurs, il les a détenues lui-même de 1977 à 1996, soit pendant 19 années (onglet 70). Il a déclaré qu'il avait cédé une partie de ces actions à 6311 en décembre 1996 « tant qu'à y être » . Je n'ai aucune hésitation à conclure que le transfert des 41 actions de Comsercom à 6311 constitue une opération d'évitement, et tel que l'édicte l'alinéa 245(3)b) de la Loi et comme le souligne la Cour suprême du Canada dans Trustco, au paragraphe 34, « [s]i au moins une opération qui fait partie d'une série d'opérations constitue une "opération d'évitement", la RGAÉ permet alors de supprimer l'avantage fiscal qui découle de la série » .
+[25] Par contre, « même si l'examen fondé sur le par. 245(3) permet de constater l'existence d'une opération d'évitement, la RGAÉ ne permet pas de supprimer l'avantage fiscal dont il est raisonnable de considérer qu'il ne découle pas d'un évitement fiscal abusif au sens du par. 245(4) » (par. 35 de Trustco). Voilà qui nous amène à la dernière étape, généralement la plus difficile, qui consiste à déterminer si la série d'opérations a entraîné un abus dans l'application de la Loi, lue dans son ensemble. Il est utile de reproduire ici les enseignements de la Cour suprême du Canada, en particulier les paragraphes suivants :
+5.5.2. Évitement fiscal abusif : une méthode d'interprétation unifiée
+44 L'interprétation contextuelle et téléologique des dispositions de la Loi invoquées par le contribuable et l'application des dispositions interprétées correctement aux faits d'une affaire donnée sont au coeur de l'analyse fondée sur le par. 245(4). Il faut d'abord interpréter les dispositions générant l'avantage fiscal pour en déterminer l'objet et l'esprit. Il faut ensuite déterminer si l'opération est conforme à cet objet ou si elle le contrecarre. L'analyse globale porte donc sur une question mixte de fait et de droit. L'interprétation textuelle, contextuelle et téléologique de dispositions particulières de la Loi de l'impôt sur le revenu est essentiellement une question de droit, mais l'application de ces dispositions aux faits d'une affaire dépend nécessairement des faits.
+45 Cette analyse aboutit à une conclusion d'évitement fiscal abusif dans le cas où le contribuable se fonde sur des dispositions particulières de la Loi de l'impôt sur le revenu pour obtenir un résultat que ces dispositions visent à empêcher. Ainsi, il y a évitement fiscal abusif lorsqu'une opération va à l'encontre de la raison d'être des dispositions invoquées. Un mécanisme qui contourne l'application de certaines dispositions, comme des règles anti-évitement particulières, d'une manière contraire à l'objet ou à l'esprit de ces dispositions peut également donner lieu à un abus. Par contre, l'existence d'un abus n'est pas établie lorsqu'il est raisonnable de conclure qu'une opération d'évitement au sens du par. 245(3) était conforme à l'objet ou à l'esprit des dispositions conférant l'avantage fiscal.
+[...]
+47 La première partie de l'examen fondé sur le par. 245(4) exige que tribunal aille au-delà du simple texte des dispositions et adopte une méthode d'interprétation contextuelle et téléologique en vue de dégager un sens qui s'harmonise avec le libellé, l'objet et l'esprit des dispositions de la Loi de l'impôt sur le revenu. Cela n'a rien de nouveau. Même lorsque le sens de certaines dispositions peut paraître non ambigu à première vue, le contexte et l'objet de la loi peuvent révéler ou dissiper des ambiguïtés latentes. [TRADUCTION] "Après tout, le libellé ne peut jamais être interprété indépendamment de son contexte, et l'objectif législatif fait partie de ce contexte. Il semblerait alors que la prise en compte de l'objectif législatif permette non seulement de dissiper les ambiguïtés manifestes, mais aussi de relever, à l'occasion, des ambiguïtés dans un libellé apparemment clair." Voir P. W. Hogg et J. E. Magee, Principles of Canadian Income Tax Law (4e éd. 2002), p. 563. Pour relever et dissiper toute ambiguïté latente du sens des dispositions de la Loi de l'impôt sur le revenu, les tribunaux doivent adopter une méthode d'interprétation législative textuelle, contextuelle et téléologique unifiée.
+[...]
+49 Dans tous les cas où l'applicabilité du par. 245(4) est en cause, la question centrale est de savoir si, compte tenu du texte, du contexte et de l'objet des dispositions invoquées par le contribuable, l'opération contrecarre l'objet ou l'esprit de ces dispositions. Les points suivants sont dignes de mention :
+(1) Bien que les notes explicatives emploient les mots "exploiter, [...] détourner ou [...] frustrer", il semble que ces trois termes soit [sic] synonymes et que le mot "frustrer" au sens de "contrecarrer" permet le mieux d'en saisir le sens.
+(2) Les notes explicatives indiquent que la RGAÉ est censée s'appliquer lorsque, selon une interprétation littérale des dispositions de la Loi de l'impôt sur le revenu, l'objet et l'esprit de ces dernières seraient contrecarrés.
+(3) Les notes explicatives précisent que la RGAÉ doit être appliquée à la lumière des faits de l'affaire en cause dans le contexte de l'agencement de la Loi de l'impôt sur le revenu.
+(4) Les notes explicatives indiquent également que les dispositions de la Loi de l'impôt sur le revenu visent les opérations ayant une raison d'être économique.
+50 Comme nous l'avons vu, le législateur cherchait à prévenir l'évitement fiscal abusif tout en maintenant l'uniformité, la prévisibilité et l'équité en matière de droit fiscal, et la RGAÉ ne permet de supprimer un avantage fiscal que dans les cas où l'opération en cause est manifestement abusive.
+51 Aux termes du par. 245(4) de la Loi, l'interprétation des dispositions générant l'avantage fiscal doit se faire compte tenu de la Loi « lue dans son ensemble » . Cela signifie que les dispositions en cause doivent être interprétées dans leur contexte législatif, conjointement avec les autres dispositions connexes pertinentes, à la lumière des objectifs dont ces dispositions et le régime législatif qu'elles établissent favorisent la réalisation. À cet égard, il ne faut pas oublier que la RGAÉ fait elle-même partie de la Loi.
+[...]
+55 En résumé, le par. 245(4) prescrit un examen en deux étapes. La première étape consiste à déterminer l'objet ou l'esprit des dispositions de la Loi de l'impôt sur le revenu qui sont invoquées pour obtenir l'avantage fiscal, eu égard à l'économie de la Loi, aux dispositions pertinentes et aux moyens extrinsèques admissibles. La deuxième étape consiste à examiner le contexte factuel de l'affaire pour déterminer si l'opération d'évitement contrecarrait l'objet ou l'esprit des dispositions en cause.
+[...]
+62 La RGAÉ ne permet de supprimer un avantage fiscal que si l'on décide qu'il n'était pas raisonnable de considérer que l'avantage fiscal était conforme à l'objet ou à l'esprit des dispositions invoquées par le contribuable. La formulation négative du par. 245(4) indique que l'analyse part du principe qu'un avantage fiscal qui serait conféré par le texte même de la Loi n'est pas abusif. Cela signifie qu'une conclusion d'abus n'est justifiée que lorsqu'il n'est pas raisonnable de conclure le contraire, c'est-à-dire que l'opération d'évitement était conforme à l'objet ou à l'esprit des dispositions de la Loi invoquées par le contribuable. Autrement dit, l'opération doit être manifestement abusive. La RGAÉ ne permet pas de supprimer un avantage fiscal s'il est raisonnable de considérer que les opérations étaient conformes à l'objet ou à l'esprit des dispositions de la Loi, selon une interprétation textuelle, contextuelle et téléologique de ces dispositions.
+[26] Ici, le procureur de monsieur Desmarais soutient qu'il n'y a pas d'abus de la Loi lue dans son ensemble parce qu'il s'agit d'une opération commerciale qui a été imposée selon la lettre et l'esprit de la Loi. En particulier, il mentionne que monsieur Desmarais a pris soin de ne pas dépasser le seuil de 10 % prévu par l'article 84.1 de la Loi. De plus, un contribuable a le droit d'arranger ses affaires de la façon qui soit la plus efficace possible au point de vue fiscal.
+[27] Dans leur plaidoirie, les procureurs de l'intimée rappellent que l'article 245 est une disposition de dernier recours qui vise à contrer des abus qu'aucune des autres dispositions de la Loi ne permet de contrer, parce que chacune de ces dispositions a été respectée. Ces procureurs rappellent aussi que l'article 245 est un article de la Loi au même titre que d'autres dispositions, comme l'article 84.1. Ils mentionnent que les surplus d'une société remis à son actionnaire comme dividendes doivent être inclus dans le revenu de celui-ci conformément à l'article 12 et selon le calcul indiqué à l'article 82. Ils rappellent que la majoration prévue à l'alinéa 82(1)b) de la Loi fait partie du mécanisme d'intégration qui, avec le crédit d'impôt de l'article 121, vise à assurer que les bénéfices gagnés par une société par actions ne sont pas imposés entre les mains des actionnaires (qui sont des particuliers) sans tenir compte des impôts déjà versés par la société. Dans leurs observations écrites, ils affirment :
+35. La série d'opérations entreprise dans le présent cas entraîne un abus de la Loi lue dans son ensemble car elle annihile l'imposition sur le retrait par l'appelant des surplus accumulés dans Gestion dont il était un des actionnaires principaux et qu'il contrôlait avec son frère.
+36. Les opérations en cause dans cet appel ont toutes été entreprises dans le but de dépouiller Gestion de ses surplus sans conséquences fiscales pour l'appelant, ce qui constitue un abus de la Loi lue dans son ensemble.
+[28] Selon la Cour suprême du Canada, la première étape dans l'examen s'il y a eu abus de la Loi consiste à déterminer l'objet ou l'esprit des dispositions de la Loi qui sont invoquées pour obtenir l'avantage fiscal. L'intimée a soutenu que le rachat des actions en cause sans incidence fiscale constitue un abus de la Loi lue dans son ensemble, en particulier de ses règles qui visent à imposer entre les mains de ses actionnaires la répartition des surplus d'une société et de ses règles qui visent à empêcher qu'une société soit dépouillée de ses surplus. Il y a notamment les articles 84, 84.1 et 212.1 et le paragraphe 85(2.1) de la Loi qui énoncent de telles règles. Par exemple, le paragraphe 84(3) de la Loi vise à faire traiter comme un dividende tout produit de disposition qui est en sus du capital versé dans le cas du rachat d'actions par une société résidant au Canada. Cette règle, semblable à celle de l'ancien paragraphe 81(1) de la Loi (S.R.C. 1952, ch. 148), en vigueur avant 1972 oblige le contribuable, dans ces circonstances, à déclarer un dividende plutôt qu'un gain en capital. Le gain en capital, rappelons-le, n'était pas imposable avant 1972; il pouvait par la suite être imposé, mais à un taux inférieur à celui applicable à un dividende.
+[29] À mon avis, la disposition la plus importante, qu'il faut examiner plus en détail et qui appuie, selon moi, la position de l'intimée, est l'article 84.1. Avant de faire une analyse textuelle, contextuelle et téléologique unifiée de cette disposition, il est important de rappeler que le dépouillement de surplus est une activité qui est pratiquée par certains contribuables canadiens depuis que la Loi impose entre les mains des actionnaires la répartition de ces surplus. À titre d'exemple, citons l'arrêt Smythe et al. v. M.N.R., 69 DTC 5361, une décision de la Cour suprême du Canada concernant des opérations effectuées en 1961. Deux ans plus tard, en 1963 (S.C. 1963, ch. 21, art. 26), le paragraphe 138A(1) a été ajouté à la Loi (S.R.C. 1952, ch. 148) pour contrer le dépouillement de surplus[29]. Ce paragraphe est devenu, en 1972, le paragraphe 247(1) de la Loi. Il a été abrogé quand la règle générale anti-évitement de l'article 245 a été adoptée. Voici comment les auteurs du Canada Tax Service[30] décrivent le but visé par l'ancienne règle anti-évitement :
+In his Budget address of June 13, 1963 the Minister of Finance explained the purpose of this former provision as follows:
+Another type of tax avoidance about which the government is particularly concerned is the proliferation of methods of moving undistributed income from a corporation into the hands of its shareholders without the payment of tax. This abuse, and it is an expensive abuse to the public treasury, has become increasingly prevalent in recent years. It is time it was stopped. I shall therefore propose that, effective tonight, the Income Tax Act be amended to give the Minister of National Revenue power to look through so-called "dividend stripping" transactions and to deem shareholders to have received dividends in these cases.
+With the taxation of capital gains commencing in 1972, there was a reduced incentive for converting corporate surplus to capital gains rather than distributing it as taxable dividends. In recent years, there has not been a significant difference in effective tax rates for an individual receiving capital gains versus dividends so that the threat of subsection 247(1) had diminished in importance. However, with the introduction of the lifetime phased-in capital gains exemption for individuals commencing in 1985 (sec 110.6) and the higher effective tax rate on dividends relative to capital gains in 1987, interest in former subsection 247(1) was revived and the provision was given much broader scope as a result of amendments which were made effective May 24, 1985.
+Repeal
+Subsection 247(1) was repealed[31] following the enactment of the general anti-avoidance rule in section 245. The specific anti-avoidance measure in former subsection 247(1) was no longer considered necessary because of the broad scope of the general anti-avoidance provision. [...]
+[Je souligne.]
+[30] En ce qui concerne l'objet recherché par le législateur en adoptant l'article 84.1 de la Loi, il est clairement reconnu par les auteurs de doctrine. Citons notamment le passage suivant tiré du Canadian Tax Reporter[32]:
+The purpose of section 84.1 is to prevent the removal of corporate surplus as a tax-free capital gain where there is a non-arm's length transfer of shares. The type of transaction which section 84.1 is designed to prevent may best be illustrated through an example. Consider Mr. X who is the sole owner of the shares of Opco. The Opco shares have a paid-up capital and cost base of $100 and a current fair market value of $1,000. Opco also has $1,000 of cash. Rather than paying personal tax on a dividend from Opco, Mr. X forms Holdco and sells the Opco shares to Holdco in return for a $1,000 note, claiming the capital gains exemption. Opco and Holdco are then amalgamated and the note is paid using the cash from Opco.
+To prevent these types of schemes, section 84.1 provides for a reduction in the paid-up capital of any shares issued by the purchaser corporation (paragraph 84.1(1)(a)) or may deem any non-share consideration received from the purchaser corporation to be a dividend (paragraph 84.1(1)(b)).
+[Je souligne.]
+[31] Cette description du but recherché par cet article correspond à l'exposé qu'a fait le ministre des Finances lorsqu'il a proposé en 1985 des modifications à l'article 84.1 au moment où il a introduit les nouvelles dispositions concernant l'exonération du gain en capital :
+L'article 84.1 de la loi constitue une règle anti-évitement servant à prévenir le retrait des surplus imposables d'une corporation à titre de remboursement du capital en franchise d'impôt lorsqu'il y a transfert d'actions avec lien de dépendance d'un particulier résidant au Canada à une corporation. Bien que le but de cette disposition soit conservé, les moyens pris à cet égard ainsi que la portée de ce but ont été modifiés par suite de la nouvelle exemption à vie pour gains en capital.
+Le présent paragraphe 84.1(1) de la loi a pour effet de réputer un gain en capital immédiat ou une réduction du prix de base rajusté lors de certains transferts avec lien de dépendance d'actions d'une corporation résidant au Canada en faveur d'une autre corporation par un contribuable résidant au Canada autre qu'une corporation. Étant donné que l'impôt net sur les dividendes équivalait approximativement l'impôt sur les gains en capital, l'article 84.1 avait pour but de décourager le recours à certaines techniques de dépouillement des surplus par les corporations, appelées dépouillements du « jour de l'évaluation » .
+Par suite de l'introduction de l'exemption pour gains en capital, les règles prévues actuellement au paragraphe 84.1(1) ne sont plus appropriées étant donné que le gain sur le transfert d'actions peut être exonéré. Par conséquent, le paragraphe 84.1(1) est abrogé et remplacé par une règle qui exige une réduction du capital versé et, dans certaines circonstances, la reconnaissance immédiate d'un dividende sur certains transferts d'actions avec lien de dépendance à une corporation qui ont lieu après le 22 mai 1985. À cette fin, les critères relatifs aux liens de dépendance que renferme actuellement le paragraphe 84.1(2) sont conservés. La règle fondamentale prévue au nouveau paragraphe 84.1(1) est que le montant maximal qui peut être reçu par l'auteur du transfert de la part de la corporation bénéficiaire du transfert à titre de produit sous forme de toute contrepartie autre qu'en actions et le capital versé de la contrepartie en actions est limité au plus élevé du capital versé des actions transférées et de ce que l'on peut désigner comme le prix de base rajusté effectif sans lien de dépendance des actions pour l'auteur du transfert.
+Le nouvel alinéa 84.1(1)a) prévoit une réduction du capital versé pour chaque catégorie d'actions de l'acheteur duquel les actions ont été émises en contrepartie de l'acquisition par celui-ci d'actions d'une autre corporation. Il faudra effectuer une réduction du capital versé dans le cas où l'augmentation du capital légal versé des actions de l'acheteur résultant du transfert des actions dépasse l'excédent éventuel du plus élevé du capital versé des actions transférées et du prix de base rajusté, modifié en vertu des nouveaux alinéas 84.1(2)a) et a.1), pour l'auteur du transfert des actions, sur la juste valeur marchande de toute contrepartie autre qu'en actions versée par l'acheteur et faisant partie du prix d'achat des actions transférées. La réduction du capital versé est répartie parmi les différentes catégories d'actions de l'acheteur en fonction des augmentations de capital légal versé résultant du transfert des actions.
+En vertu du nouvel alinéa 84.1(1)b), l'acheteur est réputé avoir payé un dividende à l'auteur du transfert lorsque le total du montant de l'augmentation du capital légal versé de ses actions résultant du transfert des actions, et de la juste valeur marchande de la contrepartie autre qu'en actions donnée par l'acheteur pour les actions transférées dépasse le total
+a) du plus élevé du prix de base rajusté, modifié en vertu du nouvel alinéa 84.1(2)a) ou a.1) pour l'auteur du transfert des actions transférées, et du capital versé des actions transférées et
+b) du total des réductions de capital versé qui doivent, en vertu de l'alinéa 84.1(1)a), être effectuées par l'acheteur.
+L'excédent est le montant qui sera considéré comme un dividende.
+Les amendements apportés au paragraphe 84.1(1) de la loi s'appliquent aux dispositions d'actions qui ont lieu après le 22 mai 1985. Vous trouverez à la page 54 un exemple qui illustre les amendements apportés.
+[Je souligne.]
+[32] Il découle de l'analyse textuelle et contextuelle de l'article 84.1 que - et cela est conforme aux notes techniques du ministre des Finances - l'intention du législateur est d'empêcher le dépouillement des surplus d'une société en exploitation lorsqu'on utilise pour ce dépouillement un mécanisme semblable à celui utilisé ici par monsieur Desmarais. Ce mécanisme est celui au moyen duquel ce dernier a pu recevoir sans impôt des surplus d'une société en exploitation à la suite d'un transfert des actions de cette société à une société de portefeuille et à la suite du rachat, à même les surplus reçus de la société en exploitation, des actions émises en contrepartie des actions de la société en exploitation.
+[33] Par contre, cette règle anti-dépouillement souffre plusieurs exceptions. Il y a celle qui est décrite par le ministre lui-même dans ses notes techniques citées ci-dessus : « le montant maximal qui peut être reçu par l'auteur du transfert de la part de la corporation bénéficiaire du transfert [en réalité comme retour de capital sans impôt] est limité au plus élevé du capital versé des actions transférées et de ce que l'on peut désigner comme le prix de base rajusté effectif sans lien de dépendance des actions pour l'auteur du transfert » .
+[34] Il y a aussi l'exception suivante qui découle des conditions d'application de l'article 84.1. En effet, dans la mesure où la société de portefeuille ne contrôle pas la société en exploitation et que cette dernière n'est pas rattachée à la première, cet article ne s'applique pas[33]. La Loi, par son libellé précis quant aux modalités d'application de cet article, reconnaît que les surplus d'une société en exploitation peuvent dans certaines circonstances être remis sans impôt à un actionnaire qui est un particulier, même si cet actionnaire bénéficie de l'exonération du gain en capital lors du transfert de ses actions de la société en exploitation à la société de portefeuille. Comme on peut le constater, la Loi ne vise pas la perfection. Il y a un certain degré de tolérance. En établissant un seuil en deçà duquel l'article 84.1 ne s'applique pas[34], soit lorsque les actions de la société en exploitation que détient la société de portefeuille représentent 10 % ou moins des actions avec droit de vote et 10 % ou moins de la juste valeur marchande de toutes les actions de la société en exploitation, le législateur tient pour acquis que l'actionnaire ne sera pas en mesure d'exercer, dans une telle situation, une influence importante lui permettant de dépouiller la société en exploitation de ses surplus. Une telle influence pourra par contre être exercée lorsque, comme c'est le cas pour Gestion, deux actionnaires liés détiennent toutes les actions d'une société et peuvent plus facilement s'entendre pour distribuer les surplus de cette société.
+[35] Il faut constater en outre que l'hypothèse adoptée par le législateur selon laquelle le risque de dépouillement de surplus est faible lorsque la société en exploitation n'est pas rattachée ou contrôlée est bien fondée ici. Comsercom n'a déclaré en faveur de 6311 de 1996 à 1999 qu'un seul dividende, de 3 416 $, qui aurait pu être distribué sans impôt à monsieur Desmarais. Ce dividende représente moins de 3 % de la valeur du prix de rachat des actions de catégorie D. Par contre, dans le cas de Gestion, on a été capable de déclarer en trois ans 600 403 $ de dividendes en faveur de 6311, ce qui a permis à Gestion de distribuer à monsieur Desmarais, par l'intermédiaire de 6311, une somme de 123 000 $ sans impôt.
+[36] Par conséquent, si monsieur Desmarais n'avait transféré à 6311 que les seules actions de Comsercom et que 6311 avait utilisé le dividende de 3 416 $ reçu de Comsercom en 2000 pour racheter une certaine partie des 123 000 actions de catégorie D, je ne crois pas que l'on aurait pu conclure, dans ces circonstances, qu'il y avait abus dans l'application de la Loi. En effet, dans une telle situation, l'article 84.1 ne se serait pas appliqué pour diminuer le capital versé fiscal des actions de catégorie D à un montant égal à celui du capital versé des actions de Comsercom. Il aurait donc été permis d'utiliser les surplus de Comsercom pour les transférer en franchise d'impôt à monsieur Desmarais par le biais du rachat des actions de catégorie D. Ce résultat aurait été conforme à la lettre et à l'esprit de l'article 84.1 de la Loi.
+[37] Par contre, si monsieur Desmarais n'avait transféré à 6311 que ses 1 000 actions de Gestion, il n'y aurait pas eu dans cette situation une occasion de dépouiller les surplus de Gestion, puisqu'en raison de l'application de l'article 84.1, le capital versé fiscal des actions émises par 6311 aurait été égal au capital versé des actions de Gestion, soit 1 000 $. Le prix de rachat des actions de 6311 versé en sus du montant de 1 000 $ aurait été réputé avoir été reçu comme un dividende, selon le paragraphe 84(3) de la Loi.
+[38] Ce qui pose problème ici, et qui constitue un abus flagrant, c'est qu'il y a un mécanisme qui contourne l'application de la règle anti-évitement de l'article 84.1 d'une manière contraire à son objet et à son esprit. Il s'agit du mécanisme par lequel 6311 a utilisé les surplus provenant de Gestion pour racheter les 123 000 actions de catégorie D qui avaient été émises en contrepartie des actions de Comsercom. On a utilisé en quelque sorte le capital versé élevé des actions données en échange de celles de Comsercom pour remettre une partie des surplus de Gestion entre les mains de monsieur Desmarais. Cette situation est abusive pour deux raisons.
+[39] La première est qu'il est possible que Comsercom ne soit pas en mesure avant plusieurs années de distribuer d'importants dividendes à ses actionnaires, en raison notamment du fait qu'elle voudra rembourser sa dette à long terme. Par contre, en permettant le rachat immédiat des 123 000 actions de catégorie D à même les surplus de Gestion, on évite l'impôt qui aurait été autrement à payer si ces surplus de Gestion avaient été remis directement à monsieur Desmarais par le versement d'un dividende sur ses actions de 6311 ou par le rachat des actions de catégorie E ou F. Il est vrai que, si Comsercom distribuait une partie de ses surplus après le rachat des 123 000 actions de catégorie D, cette partie serait vraisemblablement remise à monsieur Desmarais, soit comme dividendes ordinaires, soit comme dividendes réputés lors d'un rachat des actions de catégorie E ou F. À ce moment-là, ces sommes seraient imposables. Le rachat des actions de catégorie D dans ces circonstances n'aurait permis que le report de l'impôt qui aurait été autrement applicable sur les surplus de Gestion. Mais ce report, on l'a vu à l'article 245 de la Loi, constitue un « avantage fiscal » et peut, en soi, entraîner un abus dans l'application de la Loi, lue dans son ensemble.
+[40] La deuxième raison pour laquelle il y a abus est la suivante : qui dit que les surplus de Comsercom seront nécessairement distribués à ses actionnaires? Il est possible qu'aucune partie des surplus de 123 000 $ (en sus des 3 416 $ versés en juin 1999) ne soit jamais remise à 6311. Tel serait le cas si Comsercom faisait faillite avant de pouvoir déclarer d'autres dividendes. Dans une telle éventualité, le report d'impôt se transformerait en un évitement de l'impôt.
+[41] En conclusion, le fait d'utiliser pour le rachat des actions de catégorie D les fonds de Gestion reçus comme dividendes par 6311 constitue un contournement abusif de la règle de l'article 84.1 et, par conséquent, toutes les conditions de l'article 245 ont été réunies.
+[42] Reste à traiter des attributs fiscaux de monsieur Desmarais déterminés de façon à supprimer l'avantage fiscal qui découle de la série d'opérations qu'il a effectuée sur les conseils et avec l'aide de ses professionnels. À mon avis, les attributs fiscaux déterminés par le ministre apparaissent tout à fait raisonnables : à l'exception d'une somme de 41 $ représentant le capital versé des actions de Comsercom, les 123 000 $ ont été imposés comme des dividendes[35]. Voici ce que disent dans leur exposé écrit les procureurs de l'intimée :
+37 Les opérations sont des opérations d'évitement conformément au paragraphe 245(2) de la Loi et de l'alinéa 245(3)(b) de la Loi de manière à ce que les conséquences fiscales raisonnables dans les circonstances sont d'ajouter au revenu de l'appelant pour les années 1997 et 1998 respectivement un montant de dividendes réputés de 89 970 $ et de 32 989 $ découlant du rachat des actions de catégorie D par 9044.
+Quant au procureur de monsieur Desmarais, il n'a pas soutenu que ces attributs étaient déraisonnables et n'en a pas proposé d'autres que la Cour devrait retenir.
+[43] Pour tous ces motifs, les appels de monsieur Desmarais sont rejetés, avec dépens en faveur de l'intimée.
+Signé à Ottawa, Canada, ce 16e jour de février 2006.
+« Pierre Archambault »
+Juge Archambault
+RÉFÉRENCE : 2006CCI44
+N º DU DOSSIER DE LA COUR : 2003-2952(IT)G
+INTITULÉ DE LA CAUSE : CLAUDE DESMARAIS c. SA MAJESTÉ LA REINE
+LIEU DE L'AUDIENCE : Montréal (Québec)
+DATE DE L'AUDIENCE : le 7 septembre 2005
+MOTIFS DE JUGEMENT PAR : l'honorable juge Pierre Archambault
+DATE DU JUGEMENT : le 16 février 2006
+COMPARUTIONS :
+Avocat de l'appelant :
+Me Serge Fournier
+Avocats de l'intimée :
+Me Richard Gobeil
+Me Justine Malone
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelant :
+Nom : Me Serge Fournier
+Cabinet : Brouillette Charpentier Fortin, Avocats
+Montréal (Québec)
+Pour l'intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa (Canada)
+[1] Sur consentement, les parties ont produit trois cahiers conjoints de documents (cotés A-1) contenant 72 onglets. Aucun autre document n'a été produit. Dans mon analyse de la preuve documentaire, je me contenterai de me référer aux numéros de ces onglets.
+[2] En fait, selon la cotisation relative à 1998 (onglet 64), le revenu de monsieur Desmarais a été augmenté de 97 427 $, représentant le total de deux dividendes imposables (majorés selon l'alinéa 82(1)b) de la Loi), le premier, de 41 236 $ (32 989 + 8 247), ajouté selon l'article 245, et le deuxième, de 56 190 $ (44 952 + 11 238), ajouté selon les paragraphes 82(1) et 84(3) de la Loi. Ce dernier dividende résultait d'un rachat de 45 000 actions de catégorie F de la société 9044-6311 Québec Inc. (6311). Lors du rachat, le capital versé fiscal (voir la formule de choix T2057, onglet 32, p. 2) de ces actions s'élevait à 48 $ alors que le capital versé légal (résolution de l'administrateur lors de l'émission des actions, onglet 23) s'élevait à 45 000 $. (Toutefois, selon la résolution de l'administrateur lors du rachat, onglet 36, p. 3, le capital versé légal est indiqué comme 48 $!) Monsieur Desmarais n'a pas inclus dans son revenu ce dividende réputé. Selon le projet de cotisation (onglet 59, p. 3), une pénalité devait être imposée selon le par. 163(2) de la Loi, mais il semble que le ministre n'ait pas donné suite à ce projet de pénalité. L'imposition du dividende réputé n'est pas en litige.
+[3] Il s'agit de Gestion A.C.D. Inc. (Gestion) et de Comsercom Inc.
+[4] La somme convenue de 123 000 $ - prix de base rajusté de 41 $ = gain en capital de 122 959 $, donnant un gain en capital imposable de 92 219 $.
+[5] Soit 41 actions sur les 60 qu'il détenait.
+[6] Il est plus juste d'affirmer que, comme le révèlent la note suivante et les faits exposés à l'alinéa 17 o) de la réponse à l'avis d'appel, ci-dessous, André détenait les 1 000 actions de catégorie A et Claude détenait les 1 000 actions de catégorie B.
+[7] Selon la résolution des administrateurs à l'onglet 21, cette opération a eu lieu le 13 décembre 1996. On la décrit comme l'achat par Gestion de 443 actions de catégorie B appartenant à Claude Desmarais et de 443 actions de catégorie A appartenant à André Desmarais. Il s'agit plutôt d'un échange puisque Gestion a « payé » en émettant 443 actions de catégorie D au premier et 443 actions de catégorie C au deuxième, chaque groupe d'actions ayant un capital versé de 443 $ et étant rachetable à 414 205 $.
+[8] Comme on l'a vu à la note 2, ci-dessus, il s'agit d'un capital versé fiscal, puisque le capital versé légal est de 520 795 $.
+[9] Ici aussi, il s'agit du capital versé fiscal (T2057, onglet 33) puisque le capital versé légal est de 414 205 $ (onglet 29).
+[10] Comme on le verra ci-dessous, la contrepartie en espèces n'a pas été versée lors du rachat.
+[11] Ainsi que les 45 000 actions de catégorie F de 6311 mentionnées à la note 2. Comme on le verra ci-dessous, la contrepartie en espèces n'a pas été versée lors du rachat.
+[12] Mais qui est en réalité une déduction dans le calcul du revenu imposable.
+[13] Voir l'état de l'évolution de la situation financière au 30 juin 1996 et 1997, onglet 2, p. 9.
+[14] Pour les états financiers de Comsercom pour les exercices 1996 à 1999, voir les onglets 1 à 4.
+[15] Ce dividende ne se trouve pas dans la déclaration de revenus pour 1999 de 6311. Comme l'exercice de Comsercom se termine le 30 juin et celui de 6311 le 31 mai, il est vraisemblable que le dividende a été versé en juin 1999, après la fin de l'exercice terminé le 31 mai 1999 de 6311, donc au cours de son exercice 2000. On a produit en preuve toutes les déclarations de revenus de 6311 pour les années 1997 à 2001, sauf celle de 2000.
+[16] Onglets 9 à 12.
+[17] Selon le paragraphe 7 de ces motifs.
+[18] Seul un relevé informatisé des données de la déclaration a été produit. Ce chiffre se trouve à la ligne 320, ligne qui correspond à celle des déclarations de 1997-1999 où l'on indique le total des dividendes reçus par 6311 et déductibles selon l'article 112.
+[19] Tel que la révèlent ces écritures de régularisation (onglet 35, numéro 3) pour comptabiliser les opérations du compte Caisse populaire :
+Débit
+Crédit
+Avance / dû à un actionnaire
+89 137
+Revenus de dividendes
+93 200
+Et celles (onglet 35, numéro 12) pour comptabiliser le rachat d'actions :
+Avance / dû à un actionnaire
+90 000
+Actions de catégorie D
+90 000
+Et telle qu'elle ressort également des données du chiffrier reflétant le compte « avance/dû à un actionnaire » (onglet 35, pages 3 et 4) :
+[Solde d'ouverture]
+0
+12
+(90 000)
+9
+100
+3
+89 137
+(763)
+Par conséquent, le paiement pour le rachat des 90 000 actions de catégorie D s'est fait par un crédit au compte « avance » de monsieur Desmarais et 6311 devait encore 763 $ à monsieur Desmarais au 31 mai 1997. Les 100 $ représentent le paiement pour la souscription par monsieur Desmarais des actions de catégorie B de 6311.
+[20] Tel que la révèlent ces écritures de régularisation (onglet 38, numéro 3) pour comptabiliser les opérations de la Caisse populaire :
+Débit
+Crédit
+Transfert
+78 000
+Revenu de dividendes soc. affiliée
+171 905,50
+Et celles (onglet 38, numéro 4) pour comptabiliser le rachat d'actions de catégorie D et de catégorie F :
+Transfert
+78 000
+Actions de catégorie D 33 000
+33 000
+Actions de catégorie F
+45 000
+Et telle qu'elle ressort également des données du chiffrier apparaissant à la page 4 de l'onglet 38 relativement au compte 1050 « Transfert » :
+3
+78 000
+4
+(78 000)
+0
+[21] Ce texte a été modifié en 2005, mais est applicable aux opérations effectuées après le 12 septembre 1988 (L.C. 2005, ch. 19, art. 52).
+[22] J'aime bien l'expression du juge en chef Bowman de cette Cour, qui, dans Evans v. Canada, 2005 TCC 684, [2005] T.C.J. No. 581 (QL), par. 35 (28 novembre 2005), décrit cette charge comme un « burden of persuasion » . Voir également les motifs du juge Lamer dans R. c. Collins, [1987] 1 R.C.S. 265, [1987] A.C.S. no 15 (QL), aux par. 21, 22, 27 et 30.
+[23] Que 6311 avait acquises, le même jour que le rachat, en échange des actions de Gestion.
+[24] Cette position est quelque peu différente de celle exposée par eux dans leurs observations écrites et dans la réponse à l'avis d'appel, en particulier aux alinéas 17v) et x) de la réponse.
+[25] Par contre, le fait que ce transfert s'est effectué en deux étapes - d'abord, les 557 actions catégorie B étant transférées le 6 janvier 1997, et les 443 actions de catégorie D l'étant le 31 mars 1997, ce qui s'est fait dans les deux cas en échange d'actions de 6311 - démontre l'existence d'objets fiscaux importants. Toutefois, cette partie de la planification fiscale n'était pas essentielle à la réalisation de l'avantage fiscal visé par les cotisations en litige.
+[26] Le paragraphe 186(4) édicte ce qui suit :
+Sociétés rattachées à une société donnée - Pour l'application de la présente partie, une société payante est rattachée à une société donnée à un moment donné d'une année d'imposition (appelée l' « année donnée » au présent paragraphe) de cette dernière dans l'un ou l'autre des cas suivants :
+a) la société payante est contrôlée (autrement qu'au moyen du droit visé à l'alinéa 251(5)b)) par la société donnée à ce moment;
+b) la société donnée a possédé à ce moment :
+(i) d'une part, plus de 10 % des actions émises (comportant plein droit de vote en toutes circonstances) du capital-actions de la société payante,
+(ii) d'autre part, des actions du capital-actions de la société payante dont la juste valeur marchande est de plus de 10 % de la juste valeur marchande de toutes les actions émises du capital-actions de la société payante.
+[Je souligne.]
+[27] L'article 84.1 édicte ce qui suit :
+84.1(1) Vente d'actions en cas de lien de dépendance - Lorsque, après le 22 mai 1985, un contribuable qui réside au Canada (à l'exclusion d'une société) dispose d'actions qui sont des immobilisations du contribuable - appelées « actions concernées » au présent article - d'une catégorie du capital-actions d'une société qui réside au Canada - appelée « la société en cause » au présent article - en faveur d'une autre société - appelée « acheteur » au présent article - avec laquelle le contribuable a un lien de dépendance et que, immédiatement après la disposition, la société en cause serait rattachée à l'acheteur, au sens du paragraphe 186(4) si les mentions « société payante » et « société donnée » y étaient respectivement remplacées par « la société en cause » et « acheteur » :
+a) dans le cas où les actions de l'acheteur - appelées « nouvelles actions » au présent article - ont été émises en contrepartie des actions concernées, le montant calculé selon la formule suivante est déduit dans le calcul du capital versé, à un moment postérieur à l'émission des nouvelles actions, au titre d'une catégorie donnée d'actions du capital-actions de l'acheteur :
+(A - B) × C/A
+où :
+A représente le montant correspondant à l'augmentation - conséquence de l'émission des nouvelles actions - du capital versé au titre de toutes les actions du capital-actions de l'acheteur, calculée sans que le présent article soit appliqué à l'acquisition des actions concernées,
+B l'excédent éventuel du plus élevé des montants suivants :
+(i) le capital versé au titre des actions concernées immédiatement avant la disposition,
+(ii) le prix de base rajusté des actions concernées pour le contribuable immédiatement avant la disposition, sous réserve des alinéas (2)a) et a.1),
+sur la juste valeur marchande, immédiatement après la disposition, de toute contrepartie, à l'exclusion des nouvelles actions, reçue de l'acheteur par le contribuable pour les actions concernées,
+C le montant correspondant à l'augmentation - conséquence de l'émission des nouvelles actions - du capital versé au titre de la catégorie donnée d'actions, calculée sans que le présent article soit appliqué à l'acquisition des actions concernées;
+b) pour l'application de la présente loi, un dividende, calculé selon la formule suivante, est réputé avoir été versé par l'acheteur au contribuable et reçu par celui-ci au moment de la disposition :
+(A + D) - (E + F)
+où :
+A représente le montant correspondant à l'augmentation - conséquence de l'émission des nouvelles actions - du capital versé au titre de toutes les actions du capital-actions de l'acheteur, calculée sans que le présent article soit appliqué à l'acquisition des actions concernées,
+D la juste valeur marchande, immédiatement après la disposition, de toute contrepartie, à l'exclusion des nouvelles actions, reçue de l'acheteur par le contribuable pour les actions concernées,
+E le plus élevé des montants suivants :
+(i) le capital versé au titre des actions concernées immédiatement avant la disposition,
+(ii) le prix de base rajusté des actions concernées pour le contribuable immédiatement avant la disposition, sous réserve des alinéas (2)a) et a.1),
+F le total des montants dont chacun représente un montant que l'acheteur doit déduire selon l'alinéa a) dans le calcul du capital versé au titre d'une catégorie d'actions de son capital-actions à cause de l'acquisition des actions concernées.
+[Je souligne.]
+[28] Soit au cours de l'exercice financier 2000 de 6311.
+[29] Le paragraphe 138A édictait :
+138A. (1) Lorsqu'un contribuable a reçu un montant dans une année d'imposition,
+a) à titre de cause ou considération de la vente ou autre aliénation d'actions quelconques d'une corporation ou de tout intérêt dans de telles actions,
+b) par suite du fait qu'une corporation a
+(i) racheté ou acquis une tranche quelconque de ses actions ou réduit son capital social, ou
+(ii) converti une tranche quelconque de ses actions en actions d'une autre catégorie ou en une obligation de la corporation, ou
+c) par ailleurs, à titre de versement qui serait, sauf le présent article, considéré comme revenu exempté,
+lequel montant a été reçupar le contribuable comme partie d'une opération intervenue ou devant intervenir après le 13 juin 1963, ou comme partie d'une série d'opérations dont chacune était intervenue ou doit intervenir après cette date, dont l'un des objets, de l'avis du Ministre, était ou est de diminuer sensiblement ou de faire disparaître l'actif d'une corporation de telle manière que la totalité ou une partie de tout impôt, qui autrement aurait pu être ou devenir payable aux termes de la présente loi par suite de toute distribution de revenu d'une corporation, a été ou sera évitée, le montant ainsi reçu par le contribuable ou telle partie de ce montant que peut fixer le Ministre doit, si ce dernier en décide ainsi,
+d) être inclus dans le calcul du revenu du contribuable pour cette année d'imposition, et
+e) dans le cas d'un contribuable qui est un particulier, être réputé avoir été reçu par lui à titre de dividende décrit à l'alinéa a) du paragraphe (1) de l'article 38.
+[Je souligne.]
+[30] Pages 247-102 et 103 du Canada Tax Service, feuilles mobiles, vol. 13, Toronto, Thomson Carswell.
+[31] Dix ans plus tard, en 1998, a été ajouté à la Loi un nouvel article 247 édictant des règles concernant les prix de transfert.
+[32] Canadian Tax Reporter Commentary, CCH TaxWorks, ¶ 10, 384e. On trouve un commentaire semblable dans le Canada Tax Service, sous l'article 84.1. Le texte du par. 84.1(1) de la Loi est reproduit à la note 27, ci-dessus.
+[33] Un autre cas d'exception est celui où les actions de la société en exploitation sont transférées à une société de portefeuille avec laquelle le cédant n'a aucun lien de dépendance, selon la notion élargie de lien de dépendance aux alinéas 84.1(2)b)et d) de la Loi. Ce n'est pas le cas ici : il existe un lien de dépendance entre monsieur Desmarais et 6311.
+[34] Dans la mesure, bien entendu, où la société de portefeuille ne contrôle pas la société en exploitation.
+[35] On peut même affirmer qu'il aurait pu être moins généreux en imposant le plein montant de 123 000 $ comme un dividende, y compris les 41 $. Le ministre a permis, en quelque sorte, qu'on utilise les surplus imposables de Gestion pour distribuer le capital versé des actions de catégorie D attribuable au capital versé des actions de Comsercom. Or, tout le capital versé des actions de Gestion transférées à 6311 avait été reconnu dans le capital versé des actions de catégorie E et F de 6311. Par conséquent, les 123 000 $ de Gestion utilisés par 6311 pour racheter les actions de catégorie D représentaient des surplus imposables. De toute façon, en ce qui concerne les 41 $, il s'agit d'un montant bien minime.
+Toutefois, les nouveaux attributs fiscaux déterminés par le ministre et confirmés par la présente décision soulèvent un problème d'iniquité future. Comme toutes les actions de catégorie D ont été rachetées, il ne reste plus d'actions qui permettront à 6311 de distribuer à monsieur Desmarais en franchise d'impôt les surplus qu'elle a reçus de Comsercom ou qu'elle pourrait recevoir de cette dernière dans l'avenir. Comme la question n'est pas pertinente pour les années d'imposition en litige, je ne crois pas que j'ai compétence pour statuer sur les attributs fiscaux de telles futures distributions. (Il faut mentionner que cette question n'a pas été du tout débattue lors des plaidoiries.) Toutefois, il découle des motifs que j'ai exprimés ici que 6311 aurait pu racheter les actions de catégorie D sans incidence fiscale pour monsieur Desmarais si elle avait utilisé les surplus de Comsercom. Ainsi, il conviendrait de trouver un mécanisme pour permettre de rétablir cette situation. Le fait pour le ministre de pouvoir permettre à 6311 de remettre à monsieur Desmarais, sans impôt et jusqu'à concurrence de 122 959 $ (123 000 - 41), tout dividende reçu de Comsercom serait certainement une façon raisonnable d'atteindre cet objectif. Quoi qu'il en soit, on devrait songer également à modifier la Loi pour assurer un traitement fiscal équitable des contribuables qui se trouvent dans une telle situation.

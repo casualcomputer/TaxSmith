@@ -1,0 +1,308 @@
+---
+title: "Sookochoff c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/489356/index.do"
+last_modified: "2020-12-10"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2020 CCI 131"
+citation2: ""
+neutral_citation: "2020 CCI 131"
+decision_date: "2020-12-10"
+language: "fr"
+item_id: "489356"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4651
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2023-07-24T06:52:44.076000+00:00"
+cases_cited_count: 7
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "6bc709ea9214a93e1d619e27377728f4286ef6315e7fca674bdf728504a04b6a"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Sookochoff c. La Reine
+
+- Citation: 2020 CCI 131
+- Decision date: 2020-12-10
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4651, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Sookochoff c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2020-12-10
+Référence neutre
+2020 CCI 131
+Numéro de dossier
+2018-4502(IT)I
+Juges et Officiers taxateurs
+Don R. Sommerfeldt
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2018-4502(IT)I
+ENTRE :
+SHANNON SOOKOCHOFF,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 20 août 2020, à Edmonton (Alberta)
+Devant : L’honorable juge Don R. Sommerfeldt
+Comparutions :
+Pour l’appelante :
+L’appelante elle-même
+Avocat de l’intimée :
+Me Andrew Lawrence
+JUGEMENT
+Les appels sont rejetés, sans dépens.
+Signé à Ottawa, Canada, ce 30e jour de novembre 2020.
+« Don R. Sommerfeldt »
+Le juge Sommerfeldt
+Référence : 2020 CCI 131
+Date : 20201130
+Dossier : 2018-4502(IT)I
+ENTRE :
+SHANNON SOOKOCHOFF,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Sommerfeldt
+I. INTRODUCTION
+[1] Les présents motifs concernent les appels interjetés par Mme Shannon Sookochoff relativement aux avis de nouvelle détermination en date du 20 juin 2018 portant sur le droit de Mme Sookochoff à l’allocation canadienne pour enfants (l’« ACE ») pour les années de base 2015 et 2016. En déterminant le droit de Mme Sookochoff à l’ACE pour les années de base 2015 et 2016, le ministre du Revenu national (le « ministre »), représenté par l’Agence du revenu du Canada (l’« ARC »), a présumé que Mme Sookochoff avait épousé M. Nikki Gauthier (aussi connu sous le nom de Nik Gauthier) le 30 juillet 2016. Par conséquent, le ministre a établi que Mme Sookochoff n’était pas admissible à l’ACE du fait que son revenu modifié pour les années de base 2015 et 2016 comprenait son revenu ainsi que celui de M. Gauthier pour ces années, de sorte que le revenu modifié de Mme Sookochoff dépassait la limite applicable prescrite au paragraphe 122.61(1) de la Loi de l’impôt sur le revenu (la « LIR ») [1] .
+II. LES FAITS
+[2] Mme Sookochoff et son ancien époux sont les parents de deux enfants qui étaient mineurs au cours des années d’imposition en cause. M. Gauthier et son ancienne épouse sont les parents de deux enfants qui étaient également mineurs au cours des années d’imposition en cause.
+[3] Mme Sookochoff et M. Gauthier se sont rencontrés en 2012, ont commencé à se fréquenter et en sont venus à former une relation sérieuse. Ils envisageaient de se marier et avaient hâte au jour où ils pourraient réunir les membres de leurs deux ménages pour former une famille reconstituée.
+[4] En 2013, Mme Sookochoff a vendu sa copropriété et a acheté une maison de quatre chambres en vue de réunir éventuellement les deux familles dans cette maison.
+[5] Pour des raisons de confidentialité exclues des présents motifs (bien qu’elles aient été expliquées de façon adéquate dans la preuve), Mme Sookochoff et M. Gauthier prévoyaient qu’il serait difficile et problématique de réunir leurs deux familles à ce moment-là. Ils ont néanmoins entrepris de nombreux essais. En 2014, ils ont prévu passer quelques nuits chez Mme Sookochoff, dont certaines ont été positives, mais plus souvent qu’autrement, ces nuits ont donné lieu à des conflits opposant généralement les enfants des deux côtés ou encore, Mme Sookochoff et les enfants de M. Gauthier. En 2015, Mme Sookochoff, M. Gauthier et leurs enfants respectifs ont loué un chalet à Wakaw ou dans les environs, en Saskatchewan, mais cette escapade a dégénéré en conflit et s’est mal terminée.
+[6] En 2015, le père de Mme Sookochoff a été hospitalisé à Saskatoon. À plusieurs reprises, Mme Sookochoff et M. Gauthier ont pris la route ensemble d’Edmonton à Saskatoon pour visiter le père de Mme Sookochoff. Pendant ces déplacements, ils passaient du temps ensemble de manière ininterrompue, sans les enfants. Ces déplacements ainsi que le fait qu’ils continuaient à se fréquenter à Edmonton les ont amenés à considérer le mariage comme une possibilité envisageable. En avril, au cours d’un voyage, Mme Sookochoff et M. Gauthier ont décidé de se marier, malgré les objections exprimées par leurs enfants. Ils ont fixé la date de leur mariage au 30 juillet 2016.
+[7] En prévision de leur mariage, Mme Sookochoff et M. Gauthier ont suivi un cours de préparation au mariage. Toutefois, comme divers conflits familiaux se sont produits, il leur a semblé que ce projet de mariage pourrait être entravé. Ils ont réduit l’envergure de leur projet et se sont mariés dans l’arrière-cour des parents de M. Gauthier, le 30 juillet 2016. Le jour de leur mariage, des conflits entre leurs enfants ont éclaté, se traduisant par divers désagréments qui sont venus entacher l’événement.
+[8] À l’approche du jour du mariage, Mme Sookochoff et M. Gauthier avaient déjà conclu qu’il ne serait pas possible de réunir leurs deux familles peu de temps après le mariage. Mme Sookochoff et M. Gauthier avaient donc décidé, même avant leur mariage, qu’il était nécessaire de conserver deux domiciles distincts. Ils ont donc prévu qu’ils ne passeraient qu’une seule nuit ensemble, leur nuit de noces, chez Mme Sookochoff, en présence de leurs enfants. Malheureusement, comme prévu, cette expérience ne s’est pas bien déroulée, d’ailleurs tout comme les autres nuits passées sous le même toit et un voyage effectué avec les quatre enfants. Ainsi, le jour suivant, le 31 juillet 2016, comme Mme Sookochoff et M. Gauthier s’y attendaient, M. Gauthier et ses enfants sont retournés à leur domicile.
+[9] Quelque temps plus tard, Mme Sookochoff et M. Gauthier ont envoyé une lettre à l’ARC l’informant qu’ils avaient commencé à vivre séparément le 31 juillet 2016. Comme Mme Sookochoff l’a déclaré au cours de son témoignage [traduction] « nous avons déclaré une séparation officielle le – , je pense que nous avons mentionné le 31 juillet 2016 » [2] .
+[10] De 2016 à 2018, les conflits opposant les enfants n’étaient pas résolus, même si Mme Sookochoff et M. Gauthier se donnaient beaucoup de mal pour améliorer la situation. Plus précisément, ils ont sollicité les conseils de thérapeutes familiaux de renommée internationale.
+[11] Mme Sookochoff et M. Gauthier ont également planifié un autre voyage ensemble, cette fois à Canmore en août 2017, pour assister au mariage d’un membre de la famille. Bien qu’ils aient projeté de passer une semaine à Canmore, les conflits interpersonnels perduraient, au point où M. Gauthier et ses enfants ont quitté Canmore plus tôt que prévu.
+[12] Malgré les difficultés qu’ils éprouvaient, Mme Sookochoff et M. Gauthier sont demeurés engagés dans une relation sérieuse. Les arrangements en matière de garde partagée conclus entre Mme Sookochoff et son ancien époux ainsi que ceux que M. Gauthier avait conclus avec son ancienne épouse étaient tels qu’un vendredi sur deux, les deux groupes d’enfants allaient visiter l’autre parent, puis revenaient le lendemain. Mme Sookochoff et M. Gauthier disposaient donc pour eux-mêmes de la soirée et de la nuit de l’autre vendredi, et passaient ce temps ensemble. De façon générale, ils allaient souper et voir un film ou faire de la musique, ou encore Mme Sookochoff allait voir jouer M. Gauthier et son groupe, puis ils passaient souvent la nuit ensemble [3] .
+[13] Du 31 juillet 2016 à la fin de 2018, il arrivait que les conflits opposant les enfants dégénèrent et aient une incidence sur la relation entre Mme Sookochoff et M. Gauthier. Ces conflits se reportaient occasionnellement sur la soirée qu’ils passaient ensemble un vendredi sur deux, de sorte qu’il arrivait parfois que le [traduction] « temps passé ensemble soit meublé de conversations moroses » [4] . Néanmoins, l’habitude de passer ensemble un vendredi sur deux (et souvent la nuit) semblait assez régulière depuis le milieu de l’année 2016 jusqu’en 2018.
+[14] En novembre 2018, les enfants de M. Gauthier sont allés vivre avec leur mère. Le 8 janvier 2019, comme il était devenu clair que les enfants de M. Gauthier ne retourneraient pas vivre avec leur père, ce dernier a emménagé chez Mme Sookochoff [5] . Au moment de l’audience, M. Gauthier se préparait à vendre sa maison puisqu’il avait l’intention de continuer à habiter avec Mme Sookochoff.
+III. QUESTIONS EN LITIGE
+[15] Les questions en litige soulevées dans les présents appels sont les suivantes :
+a) Pour l’année d’imposition 2015, le revenu de M. Gauthier devrait-il être inclus dans le calcul du revenu modifié de Mme Sookochoff pour l’année de base 2015 étant donné que dans les faits, il n’était pas son époux à la fin de 2015 [6] ?
+b) Du 31 juillet 2016 au 30 juin 2018, pour l’application de la définition d’« époux ou conjoint de fait visé » de l’article 122.6 de la LIR, M. Gauthier a-t-il vécu séparément de Mme Sookochoff pour cause d’échec de leur mariage pendant une période d’au moins 90 jours?
+IV. DISCUSSION
+A. Le revenu modifié pour l’année 2015
+[16] Le passage pertinent de la définition de « revenu modifié » de l’article 122.6 de la LIR est ainsi libellé :
+« revenu modifié » En ce qui concerne un particulier pour une année d’imposition, le total des sommes qui représenteraient chacune le revenu pour l’année du particulier ou de la personne qui était son époux [...] visé à la fin de l’année si, dans le calcul de ce revenu, aucune somme [...]
+Par conséquent, le revenu de l’époux visé pour une année d’imposition ne doit pas être inclus dans le revenu modifié du particulier pour cette année-là, sauf si l’époux visé bénéficiait de ce statut (était l’époux visé du particulier ou était réputé l’être) à la fin de cette année-là.
+[17] L’alinéa 122.62(7)b) de la LIR renferme une disposition déterminative qui s’applique en l’espèce. Pour bien comprendre la disposition déterminative, il est préférable de lire intégralement le paragraphe 122.62(7) :
+122.62(7) Dans le cas où un contribuable devient l’époux ou le conjoint de fait visé d’un particulier admissible, les règles ci-après s’appliquent :
+a) le particulier est tenu d’aviser le ministre de cet événement, sur le formulaire prescrit, avant la fin du premier mois civil commençant après l’événement;
+b) sous réserve du paragraphe (8) [qui ne s’applique pas en l’espèce], pour le calcul du montant réputé, en vertu du paragraphe 122.61(1), être un paiement en trop, se produisant au cours de ce premier mois et de tout mois postérieur, au titre des sommes dont le particulier est redevable en vertu de la présente partie pour l’année de base se rapportant à ce premier mois, le contribuable est réputé avoir été l’époux ou le conjoint de fait visé du particulier à la fin de l’année de base se rapportant à ce mois [7] .
+[18] Comme M. Gauthier est devenu l’époux visé de Mme Sookochoff le 30 juillet 2016, le premier mois civil commençant après l’événement était le mois d’août 2016. Pour calculer le montant de l’ACE de Mme Sookochoff du mois d’août 2016 et des mois subséquents de 2016, M. Gauthier était réputé être l’époux visé de Mme Sookochoff à la fin de l’année de base 2015. Par conséquent, son revenu pour l’année d’imposition 2015 a été inclus à juste titre dans le calcul de son revenu modifié pour l’année de base 2015.
+B. Les expressions « vit séparé », « vivait séparé », « vivent séparés », « vivaient séparés », « vivent séparément » ou « vivaient séparément »
+1) Le sens des expressions « vit séparé », « vivait séparé », « vivent séparés », « vivaient séparés », « vivent séparément » ou « vivaient séparément »
+[19] Même si deux personnes sont mariées, si elles vivent séparément compte tenu de l’ensemble des circonstances, il est possible qu’elles ne soient pas des époux visés au sens de la LIR. L’expression « époux ou conjoint de fait visé » est définie à l’article 122.6 de la LIR. Comme Mme Sookochoff et M. Gauthier étaient mariés, je me pencherai sur les passages de la définition qui portent sur l’époux, comme suit :
+« époux [...] visé » Personne qui, à un moment donné, est l’époux [...] d’un particulier dont il ne vit pas séparé à ce moment. Pour l’application de la présente définition, une personne n’est considérée comme vivant séparée d’un particulier à un moment donné que si elle vit séparée du particulier à ce moment, pour cause d’échec de leur mariage [...], pendant une période d’au moins 90 jours qui comprend ce moment.
+Ainsi, aux fins des présents appels qui concernent les années de base 2015 et 2016, il est nécessaire de déterminer si Mme Sookochoff et M. Gauthier vivaient séparément du 31 juillet 2016 au 30 juin 2018, et, dans l’affirmative, si c’était pour cause d’échec de leur mariage et si cette période avait été d’une durée d’au moins 90 jours.
+[20] Les critères à appliquer pour déterminer si des conjoints vivent séparément ont été énoncés par les tribunaux de la façon suivante :
+On ne fait certainement pas erreur en prenant comme point de départ la décision rendue par le juge Holland dans l’affaire Cooper v. Cooper (1972), 10 R.F.L. 184 (H.C. de l’Ont., où il a déclaré à la page 187 :
+[traduction]
+Peut-on dire que les parties en cause en l’espèce vivent séparées? […] Le problème a souvent été examiné dans le cadre de litiges fondés sur le sous-alinéa 4(1)e)(i) de la Loi sur le divorce, et, généralement parlant, les juges en sont arrivés à la conclusion que les parties vivaient séparées lorsque les circonstances suivantes étaient présentes :
+i) Les conjoints occupent des chambres à coucher distinctes.
+ii) Les conjoints n’ont pas de relations sexuelles.
+iii) Il y a peu de communication entre les conjoints, pour ne pas dire aucune.
+iv) La femme n’effectue pas de travaux ménagers pour le mari.
+v) Les conjoints prennent leur repas séparément.
+vi) Les conjoints n’ont pas d’activités sociales communes [8] .
+[21] Pendant son témoignage et ses observations, Mme Sookochoff a fait référence aux caractéristiques généralement acceptées de l’union conjugale, énoncées dans la décision Molodowich c. Penttinen [9] . Dans cette affaire, le juge Kurisko était tenu, en raison des définitions législatives en question, de déterminer si deux personnes étaient des conjoints, ce qui a nécessité de déterminer s’ils avaient vécu ensemble et, de surcroît, dans le contexte d’une relation conjugale. Après avoir examiné et cité plusieurs décisions, le juge Kurisko a formulé une série de questions pour l’aider à examiner les faits et les circonstances de l’affaire dont il était saisi. Il a affirmé ce qui suit :
+[traduction]
+Je propose de regrouper les déclarations qui viennent d’être citées en examinant les faits et les circonstances de l’espèce à l’aide d’une série de questions énumérées sous les sept éléments descriptifs en cause, à divers degrés et à diverses combinaisons, dans le groupe complexe des relations interpersonnelles décrites d’une façon générale par les termes « cohabitation » et « consortium » :
+Logement
+a) Les intéressés vivaient-ils sous le même toit?
+b) Couchaient-ils dans le même lit?
+c) Y avait-il quelqu’un d’autre qui habitait chez eux?
+2. Comportement sexuel et personnel
+a) Les intéressés avaient-ils des rapports sexuels? Sinon, pourquoi?
+b) Étaient-ils fidèles l’un à l’autre?
+c) Quels étaient leurs sentiments l’un pour l’autre?
+d) Existait-il une bonne communication entre eux sur le plan personnel?
+e) Prenaient-ils leurs repas ensemble?
+f) Que faisaient-ils pour s’entraider face aux problèmes ou à la maladie?
+g) S’offraient-ils des cadeaux à des occasions spéciales?
+3. Services
+Comment les intéressés agissaient-ils habituellement en ce qui concerne :
+a) la préparation des repas;
+b) le lavage et le raccommodage des vêtements;
+c) les courses;
+d) l’entretien du foyer;
+e) les autres services ménagers?
+4. Relations sociales
+a) Les intéressés participaient-ils ensemble ou séparément aux activités du quartier et de la collectivité?
+b) Quelle était la nature des rapports de chacun d’eux avec les membres de la famille de l’autre et comment agissaient-ils envers ces derniers, et inversement, quel était le comportement de ces familles envers les intéressés?
+5. Attitude de la société
+Quelle attitude et quel comportement la collectivité avait-elle envers les intéressés, considérés individuellement et en tant que couple?
+6. Soutien (économique)
+a) Quelles dispositions financières les intéressés prenaient-ils pour ce qui était de fournir les choses nécessaires à la vie (vivres, vêtements, logement, récréation, etc.) ou de contribuer à les fournir?
+b) Quelles dispositions prenaient-ils relativement à l’acquisition et à la propriété de biens?
+c) Existait-il entre eux des dispositions financières particulières que tous deux tenaient pour déterminantes quant à la nature de leurs relations globales?
+7. Enfants
+Quelle attitude et quel comportement les intéressés avaient-ils à l’égard des enfants?
+En plus des éléments qui précèdent, il faut appliquer la mise en garde suivante du juge Blair dans la décision [sic] Warwick v. Ontario Minister of Community and Social Services, [(1978) OR (2d) 528, 91 D.L.R. (3d) 131, 5 R.F.L. (2d) 325 (C.A. Ont.)]
+[traduction]
+La mesure dans laquelle il sera tenu compte des différents éléments du mariage sera fonction des circonstances de chaque cas [10] .
+[22] En ce qui concerne les principes directeurs énoncés ci-dessus, la Cour suprême du Canada déclaré ce qui suit dans l’arrêt M. c. H. :
+Molodowich c. Penttinen [...] énonce les caractéristiques généralement acceptées de l’union conjugale, soit le partage d’un toit, les rapports personnels et sexuels, les services, les activités sociales, le soutien financier, les enfants et aussi l’image sociétale du couple. Toutefois, il a été reconnu que ces éléments peuvent être présents à des degrés divers et que tous ne sont pas nécessaires pour que l’union soit tenue pour conjugale. Pour être visés par la définition, ni les couples de sexe différent ni les couples de même sexe n’ont besoin de se conformer parfaitement au modèle matrimonial traditionnel afin de prouver que leur union est «conjugale» [11] .
+[23] Au sujet du rôle que jouent les caractéristiques énoncées dans la décision Molodowich pour déterminer l’existence d’une relation conjugale, le juge Boyle a déclaré ce qui suit :
+Le poids à accorder aux facteurs énoncés dans la décision Molodowich variera grandement, presque à l’infini. Les tribunaux doivent adopter une méthode souple, qui tient compte du fait que les rapports dans les couples, qu’ils soient mariés ou conjoints de fait, varient beaucoup [12] .
+[24] Comme il a été mentionné ci-dessus, dans la décision Molodowich, la Cour se demandait si deux personnes avaient vécu ensemble dans le contexte d’une relation conjugale, de sorte qu’on puisse dire qu’ils avaient fait vie commune, ce qui serait un facteur à considérer pour déterminer si ces personnes étaient des conjoints aux fins de la disposition législative précise en question. Il ne s’agit pas de la question à examiner dans les présents appels. En l’espèce, il est nécessaire de déterminer si Mme Sookochoff et M. Gauthier vivaient séparément et, dans l’affirmative, si c’était pour cause d’échec de leur mariage. Par conséquent, les critères ou facteurs énoncés dans la trilogie Cooper, Roby et Kara sont plus pertinents que ceux qui ont fait l’objet d’un examen dans la décision Molodowich. Il y a cependant des similitudes entre les deux ensembles de facteurs. De plus, Mme Sookochoff connaissait bien les facteurs énoncés dans la décision Molodowich, qui lui ont servi de guide au cours de son témoignage.
+2) Le sens de l’expression « échec de leur mariage »
+[25] J’ai passé en revue cinq affaires dans lesquelles a été examinée la question de savoir si un couple marié vivait séparément pour cause d’échec de leur mariage [13] . Dans aucune de ces affaires, la définition de l’expression « échec de leur mariage » n’a été donnée, et aucun facteur ni critère n’a été énoncé pour déterminer s’il y avait eu échec du mariage. Aucune de ces cinq affaires ne traitait des circonstances comparables à celles des présents appels. Toutefois, dans la décision Roby, on a soutenu que le fait d’avoir des relations sexuelles alors qu’on était censé vivre séparément pouvait laisser planer un doute sur la question de savoir s’il y a séparation et échec du mariage [14] .
+[26] Trois des cinq affaires traitaient de situations mettant en présence un conjoint physiquement apte et un conjoint handicapé, gravement malade et dont les facultés sont diminuées, vivant séparément, mais où le conjoint physiquement apte passait régulièrement et continuellement du temps avec le conjoint handicapé, gravement malade ou dont les facultés sont diminuées et lui prodiguait des soins. Dans deux de ces trois affaires, la Cour a conclu que les couples ne vivaient pas séparément pour cause d’échec de leur mariage [15] . Dans la troisième affaire, dans laquelle le conjoint physiquement apte vivait avec une autre femme (qui n’était pas son épouse) tout en continuant à s’occuper de son épouse, la Cour a conclu qu’il y avait eu échec du mariage [16] . Dans la dernière affaire, il a été conclu que les conjoints vivaient séparément parce que l’un d’eux était au Canada et l’autre, au Royaume-Uni, en attendant que sa demande d’immigration soit approuvée avant de s’installer au Canada [17] . En résumé, même si les cinq affaires susmentionnées ne fournissent pas une définition de l’expression « échec de leur mariage », la trilogie Lawin, Kara et Astley démontre qu’un couple peut vivre séparé pour des motifs autres que l’échec de leur mariage.
+3) Le sens de l’expression « une période d’au moins 90 jours »
+[27] La définition d’« époux ou conjoint de fait visé » renferme la phrase « pendant une période d’au moins 90 jours qui comprend ce moment ». Comme l’indique la fin de cette phrase, le moment donné doit être inclus dans la période d’au moins 90 jours. Il s’ensuit qu’il doit y avoir une période consécutive d’au moins 90 jours, et non des périodes cumulatives totalisant au moins 90 jours [18] .
+4) L’application des expressions « vit séparé », « vivait séparé », « vivent séparés », « vivaient séparés », « vivent séparément » ou « vivaient séparément »
+[28] Pendant son témoignage, Mme Sookochoff a déclaré qu’elle et M. Gauthier satisfaisaient à trois des sept critères ou facteurs énoncés dans la décision Molodowich. Plus précisément, elle a reconnu que les facteurs qu’elle a décrits comme [traduction] « les rapports personnels et sexuels, les activités sociales et l’image sociétale du couple » appuyaient la proposition selon laquelle elle et M. Gauthier avaient une relation conjugale/matrimoniale [19] . Elle a mentionné qu’elle et M. Gauthier ne satisfaisaient pas aux quatre autres facteurs qu’elle a décrits comme [traduction] « le partage d’un toit, les services, les tâches ménagères, le soutien financier et les enfants » [20] .
+[29] Du 31 juillet 2016 au mois de novembre 2018 (lorsque les enfants de M. Gauthier sont allés vivre chez leur mère), les interactions entre Mme Sookochoff et M. Gauthier peuvent être analysées selon deux périodes de référence, comme suit :
+a) une fin de semaine sur deux (vraisemblablement du vendredi après-midi au vendredi tard en soirée, ou souvent le samedi), lorsque Mme Sookochoff et M. Gauthier étaient ensemble, en l’absence de leurs enfants respectifs (ce que j’appellerai le « temps passé ensemble »);
+b) les périodes comprises entre les fins de semaine sur deux, chaque période étant d’environ 13 jours, à partir du vendredi tard en soirée ou souvent du samedi, lorsque leurs enfants respectifs allaient visiter l’autre parent, jusqu’au vendredi, moment où les enfants retournaient chez l’autre parent (ce que j’appellerai le « temps passé séparément »).
+[30] Les éléments de preuve produits à l’audience n’étaient pas suffisamment détaillés pour me permettre de faire un examen exhaustif et précis des six facteurs dégagés dans la trilogie Cooper/Roby/Kara quant au temps passé ensemble et au temps passé séparément. Toutefois, mon appréciation de la preuve concernant ces six facteurs est la suivante :
+a) Chambres à coucher distinctes : Durant le temps passé séparément, non seulement Mme Sookochoff et M. Gauthier occupaient des chambres distinctes, mais ils vivaient également dans deux maisons différentes. Toutefois, pendant le temps passé ensemble, ils vivaient souvent ensemble un vendredi soir sur deux. Bien qu’aucun élément de preuve précis n’ait été produit à ce sujet, lorsqu’ils passaient un vendredi soir sur deux ensemble, on peut supposer qu’ils occupaient la même chambre.
+b) Relations sexuelles : Mme Sookochoff a reconnu que le facteur dégagé dans la décision Molodowich, qu’elle a décrit comme [traduction] « les rapports personnels et sexuels », démontrait la présence d’une relation conjugale/matrimoniale. Par conséquent, pendant le temps passé ensemble, il semble qu’il n’y ait pas eu absence de relations sexuelles. Aucun élément ne preuve précis n’a été produit concernant les relations sexuelles pendant le temps passé séparément.
+c) Communication conjugale : Une fin de semaine sur deux, pendant le temps passé ensemble, Mme Sookochoff et M. Gauthier communiquaient régulièrement ensemble. Mme Sookochoff a toutefois indiqué que, si les choses ne s’étaient pas bien passées dans les jours précédant un des vendredis soirs où ils étaient ensemble, en fonction [traduction] « de ce qu’ils vivaient […] si quelque chose était arrivé […], il arrivait que le temps passé ensemble soit meublé de conversations moroses » [21] . Aucun élément de preuve n’a été produit quant à la nature ou à l’étendue, le cas échéant, des moyens de communication (appels téléphoniques, textos, courriels ou autre moyen de communication) que Mme Sookochoff et M. Gauthier utilisaient pour rester en contact entre eux pendant le temps passé séparément.
+d) Travaux ménagers : Il vaut mieux examiner ce facteur au regard de la déclaration suivante faite par Mme Sookochoff :
+[traduction]
+Donc, à part le genre de choses qu’un invité ferait s’il était à la maison et aidait à vider le lave-vaisselle, nous n’effectuions pas les tâches ménagères de l’autre. Nous ne faisions pas la lessive pour l’autre. Nous ne prenions pas nos repas ensemble. Nous ne faisions pas les courses, le ménage ou l’entretien du terrain de l’autre [22] .
+Je présume que la déclaration ci-dessus s’applique tant au temps passé ensemble qu’au temps passé séparément.
+e) Repas : Mme Sookochoff a déclaré que, pendant le temps passé ensemble, elle et M. Gauthier sortaient généralement souper un vendredi soir sur deux. Bien qu’aucun élément de preuve n’ait été produit à ce sujet, ils auraient pu déjeuner ensemble, et peut-être même dîner ensemble le lendemain. Selon la déclaration précitée au sous-paragraphe d), il semble que, pendant le temps passé séparément, ils ne prenaient pas leurs repas ensemble.
+f) Activités sociales : Dans son analyse des facteurs dégagés dans la décision Molodowich, Mme Sookochoff a reconnu que le facteur « activités sociales » révélait l’existence d’une relation conjugale/matrimoniale. De plus, ainsi qu’il a été indiqué précédemment, au cours des vendredis soirs sur deux qu’ils passaient ensemble, Mme Sookochoff et M. Gauthier sortaient régulièrement pour souper et aller au cinéma, faisaient de la musique ou encore Mme Sookochoff accompagnait M. Gauthier à l’endroit où lui et son groupe se produisaient. Ils allaient également ensemble aux cérémonies de remise de diplômes à l’école où M. Gauthier enseignait, et ils assistaient ensemble aux fêtes de Noël du personnel. En août 2017, Mme Sookochoff et M. Gauthier ont assisté au mariage de la sœur de M. Gauthier, à Canmore, et ont chanté ensemble à cette occasion. En outre, M. Gauthier a accompagné Mme Sookochoff aux funérailles de son père [23] . Toutefois, en raison de la dynamique de la famille reconstituée composée de leurs enfants respectifs, Mme Sookochoff et M. Gauthier n’étaient pas ensemble à Noël, à l’Action de grâces ou lors des autres grandes fêtes [24] .
+[31] Si l’on tient compte seulement de la durée des deux types de périodes, il est évident qu’ils passaient beaucoup plus de temps séparément (chaque période étant d’environ 13 jours) que de temps ensemble (chaque période étant d’une durée approximative de 8 à 24 heures). De plus, il est important de souligner que, du 31 juillet 2016 au mois de novembre 2018, Mme Sookochoff et M. Gauthier n’ont pas passé Noël, l’Action de grâces ou d’autres grandes fêtes ensemble. Cela pourrait indiquer que Mme Sookochoff et M. Gauthier vivaient séparément. Cependant, le fait qu’ils passaient ensemble un vendredi soir sur deux et souvent la nuit et une partie du jour suivant semble indiquer le contraire. Pour reprendre les propos du juge Bowman dans la décision Roby, le temps passé ensemble toutes les deux semaines « soulève des doutes sur la séparation [de Mme Sookochoff et M. Gauthier] et sur l’échec du mariage » [25] .
+[32] Le fait que Mme Sookochoff et M. Gauthier passaient du temps ensemble un vendredi sur deux (et souvent le samedi) me porte à croire qu’ils ne vivaient peut-être pas séparément. Toutefois, comme les éléments de preuve pointent dans les deux sens, et que Mme Sookochoff a affirmé catégoriquement qu’elle et M. Gauthier vivaient séparément du 31 juillet 2016 au 8 juillet 2019, je suis prêt à trancher les présents appels, sans tirer de conclusion définitive quant à savoir si Mme Sookochoff et M. Gauthier vivaient séparément pendant cette période.
+5) Les raisons expliquant le temps passé séparément
+[33] Mme Sookochoff soutient que sa relation avec M. Gauthier était tellement tendue et stressante après leur mariage qu’on pourrait dire qu’ils vivaient séparément pour cause d’échec de leur mariage.
+[34] Je retiens le témoignage de Mme Sookochoff selon lequel elle et M. Gauthier ont vécu des moments difficiles après leur mariage, mais comme il est expliqué ci-dessous, si j’ai bien compris les éléments de preuve, ces difficultés s’expliquent par les conflits opposant les enfants. Les éléments de preuve présentés n’indiquent pas que les difficultés étaient imputables à l’échec du mariage ou qu’elles faisaient obstacle à l’engagement que Mme Sookochoff et M. Gauthier avaient pris de demeurer ensemble.
+(a) Les éléments de preuve documentaire
+[35] Lors de l’audience (à Edmonton), Mme Sookochoff a déposé devant la Cour deux lettres qu’elle avait reçues de personnes travaillant et résidant à l’extérieur de l’Alberta, de sorte qu’il aurait été difficile pour ces personnes d’assister à l’audience. Comme les présents appels ont été entendus sous le régime de la procédure informelle, de sorte que « la Cour n’est pas liée par les règles de preuve lors de l’audition de tels appels » [26] , malgré le fait que les lettres constituaient du ouï-dire, l’avocat de la Couronne ne s’est pas opposé à leur admission en preuve, mais a simplement proposé que j’évalue le poids à accorder à ces lettres. Comme les auteurs de ces lettres :
+a) résident et travaillent dans des endroits qui sont très loin du lieu de l’audience, de sorte que leur présence à l’audience aurait été coûteuse et pratiquement impossible (surtout pendant la pandémie de COVID-19);
+b) sont assujettis à des obligations et devoirs professionnels ou ecclésiastiques suivant lesquels ils ne sont pas disposés à dire toute la vérité dans leurs communications professionnelles et ecclésiastiques.
+J’ai décidé d’admettre en preuve ces deux lettres et de leur accorder une valeur limitée puisqu’elles semblent être objectives et impartiales. En fait, je suis d’avis que les lettres appuient la thèse de la Couronne peut-être plus que celle de Mme Sookochoff.
+[36] La première lettre produite par Mme Sookochoff était datée du 28 mars 2019 et rédigée par l’un de ses thérapeutes familiaux, le Dr Peter Jakob [27] . Une partie de la lettre est rédigée ainsi :
+[traduction]
+Le couple s’est marié en juillet 2016, souhaitant former un ménage heureux qui répondrait aux besoins de leurs enfants. Le couple a également pris des mesures actives en vue de former ce ménage. Toutefois, comme il arrive souvent dans le cas des familles reconstituées et malgré l’engagement ferme du couple à atteindre cet objectif, cela s’est avéré difficile. Les difficultés sont survenues au moment où les deux familles ont tenté de passer quelques nuits ensemble, ont combiné les fêtes familiales et même lors de courtes visites, et les conflits opposant les enfants de Nik et Shannon ont exercé une grande pression sur leur relation [...]
+Nous étions d’avis, professionnellement, qu’il était totalement approprié pour Nik et Shannon de décider de retarder la cohabitation complète jusqu’à ce que les conflits et les tensions puissent être compris et résolus. Nous avons appuyé sans réserve cette décision et avons fait de notre mieux pour les épauler.
+Leur décision de vivre séparément n’a pas été facile à prendre et n’a pas non plus toujours été acceptée dans leur entourage. Cette décision a mis à l’épreuve leur nouveau lien matrimonial en créant de la gêne, de l’incertitude et une tension constante. Néanmoins, compte tenu de notre expérience et de nos connaissances à titre de thérapeutes familiaux, c’était la bonne décision à prendre. En tant que thérapeutes, nous sommes souvent témoins de la formation prématurée d’une famille reconstituée après un divorce, où les attentes dépassent les capacités émotionnelles et où l’on n’a pas pris assez de temps ni réfléchi suffisamment pour permettre de s’adapter. Les enfants sont généralement les premiers à faire les frais d’une cohabitation prématurée, et l’incidence négative sur la durabilité du couple finit par se manifester.
+En somme, il nous est apparu clairement que Nik et Shannon ont agi dans l’intérêt supérieur de leurs enfants et dans leur intérêt également lorsqu’ils ont pris la décision de vivre séparément pendant les premières années de leur mariage. Compte tenu des obstacles, s’ils avaient vécu ensemble, le bien-être psychologique des membres de leurs familles aurait été mis en péril.
+Nous avons été ravis d’apprendre, dans une lettre récente, que Nik et Shannon ont emménagé ensemble en janvier 2019. Les [enfants] de Nik ont décidé de vivre avec leur mère en novembre 2018, ce qui a permis au couple d’aller de l’avant pour planifier son avenir ensemble. [28] [Non souligné dans l’original.]
+Dans sa lettre, M. Jakob reconnaît le stress subi par Mme Sookochoff et M. Gauthier dans le contexte de leur relation, mais il confirme également l’engagement que Mme Sookochoff et M. Gauthier ont pris l’un envers l’autre et envers leur avenir ensemble.
+[37] Mme Sookochoff a également déposé en preuve une lettre datée du 2 janvier 2019 rédigée par le révérend Jonathan K. Gonyou, qui (lorsqu’il travaillait et vivait à Edmonton ou aux environs) a célébré le mariage de Mme Sookochoff et M. Gauthier [29] . Dans sa lettre, le révérend Gonyou a formulé les commentaires suivants :
+[traduction]
+Nous avons souvent discuté des défis uniques que comporte un second mariage pour les deux. Les [circonstances mentionnées ci-dessus dans les présents motifs de [certains] des [...] enfants faisaient en sorte qu’il était peu judicieux que ces deux familles reconstituées vivent sous le même toit [...]
+Je peux confirmer que, bien que Nik et Shannon aient tenté de reconstituer leurs familles en tenant des soirées pyjama, en inscrivant les enfants dans des écoles différentes, en essayant la thérapie et les services d’aide aux parents, les familles sont restées des ménages distincts […]
+Nik et Shannon ont fait « fonctionner » cette alliance conjugale tout en respectant leurs enfants, dans l’intérêt supérieur de ces derniers, à mon avis [30] .
+Bien que dans sa lettre, le révérend Gonyou reconnaisse l’existence des [traduction] « deux foyers distincts », il ne soutient pas qu’il y a eu échec du mariage de Mme Sookochoff avec M. Gauthier. Au contraire, le révérend Gonyou a déclaré que Mme Sookochoff et M. Gauthier [traduction] « avaient fait “fonctionner” [leur] alliance conjugale […] ».
+(b) Conflit et préoccupations concernant les enfants
+[38] Les passages précités des deux lettres indiquent que les circonstances et les problèmes liés aux enfants de Mme Sookochoff et de M. Gauthier ont causé du stress et des tensions auxquels Mme Sookochoff et M. Gauthier ont tenté de remédier en continuant de maintenir deux foyers distincts, jusqu’à ce que les enfants de M. Gauthier aillent vivre avec leur mère. À partir de ces deux lettres ainsi que du témoignage de Mme Sookochoff, je suis d’avis que la décision de Mme Sookochoff et de M. Gauthier de conserver deux domiciles a été prise afin d’éviter les conflits opposant les enfants, de favoriser le bien-être et l’intérêt supérieur des enfants et de préserver la santé mentale et physique de tous les membres de la famille, y compris de Mme Sookochoff et de M. Gauthier. Je suis d’avis que la décision de Mme Sookochoff et de M. Gauthier de conserver deux domiciles distincts a été prise afin de préserver et de faire fonctionner leur relation, et non parce qu’ils en étaient arrivés à une rupture.
+[39] L’accent que Mme Sookochoff et M. Gauthier ont mis sur les besoins de leurs enfants en prenant des décisions sur leur mode de vie ressort des déclarations suivantes faites par Mme Sookochoff pendant ses observations de vive voix à l’audience :
+[traduction] Nous ne pouvions pas vivre ensemble et demeurer en santé. Je soutiens qu’il s’agissait d’un échec, échec des éléments qui contribuent au bien-être des enfants et des partenaires […] [31]
+Un mariage sain et une famille reconstituée saine n’ont pas besoin de l’aide de psychologues ou de services de soutien aux parents. Dans une relation saine, il n’est pas nécessaire de retarder le moment de faire vie commune jusqu’à ce que deux des enfants aillent vivre ailleurs. Il s’agissait d’un échec.
+Il ne s’agit peut-être pas d’un échec au sens auquel vous êtes habitués, lorsqu’un couple heureux emménage ensemble pour découvrir que les choses sont intenables, puis se sépare. Non. Nous avions déjà compris que notre famille reconstituée ne fonctionnerait pas en tant qu’entité sur le plan émotionnel et économique.
+Nous avons plutôt fait une promesse qui, nous l’espérions, aiderait les enfants à comprendre notre engagement et pourrait mettre en branle certaines mesures qui, un jour, pourrait donner lieu à un mariage plus traditionnel. Ce qui est arrivé le 19 janvier, lorsque les [enfants] de Nick sont allés vivre avec leur mère [32] .
+Je vous dis qu’à tous les égards, cela est important pour ce qui est des aspects opérationnels de s’occuper des enfants et d’une famille; ma relation avec Nik Gauthier avait pris fin. Nous ne pouvions pas partager les dépenses relatives à un seul domicile abritant une famille reconstituée sans causer du tort aux membres de nos familles [33] .
+[40] Dans la mesure où il y avait échec du mariage, il y avait échec de la famille reconstituée, imputable aux conflits opposant les deux groupes d’enfants ou opposant Mme Sookochoff et les enfants de M. Gauthier. Je suis d’avis qu’il ne s’agissait pas de l’échec du mariage de Mme Sookochoff avec M. Gauthier. Mme Sookochoff et M. Gauthier ont plutôt choisi de « vivre séparément, « se démenant pour décider ce qui est mieux pour les enfants dans des circonstances difficiles » [34] .
+(c) Un vendredi sur deux
+[41] Dans mon analyse, le facteur le plus important était la routine établie pendant le temps que Mme Sookochoff et M. Gauthier passaient ensemble toutes les deux semaines, soit un vendredi soir sur deux, et souvent la nuit, pendant toute la durée de leur mariage et de la période où ils occupaient deux domiciles distincts. Cela n’était pas conforme au fait qu’il y ait eu échec de leur mariage [35] . Par conséquent, je conclus que, si Mme Sookochoff et M. Gauthier vivaient séparément du 31 juillet 2016 au 8 janvier 2019, c’était probablement en raison des problèmes liés à leurs enfants, et non en raison de l’échec de leur mariage.
+6) L’exigence relative à la période d’au moins 90 jours
+[42] Si la conclusion à laquelle je suis parvenu ci-dessus est erronée, autrement dit, s’il y avait eu échec du mariage ou de multiples échecs, chacun d’eux, pour la plupart, n’a duré que 13 jours, et non pendant les 90 jours énoncés dans la définition d’« époux ou conjoint de fait visé » [36] .
+V. CONCLUSION
+[43] Pendant toute la période pertinente aux fins des présents appels, les éléments de preuve établissent clairement que Mme Sookochoff et M. Gauthier étaient engagés l’un envers l’autre et envers leur mariage, qu’ils ont surmonté d’énormes obstacles afin de maintenir leur relation et faire fonctionner leur mariage, qu’ils étaient préoccupés par leurs enfants, et qu’ils avaient à cœur le bien-être et l’intérêt supérieur de ces derniers (et je les félicite pour tout). Pendant la période où Mme Sookochoff et M. Gauthier vivaient chacun chez soi, de la date de leur mariage jusqu’en janvier 2019, les éléments de preuve ne permettaient pas de conclure s’ils vivaient séparément. Bien que le temps passé ensemble une fin de semaine sur deux donne à penser qu’ils ne vivaient pas séparément, d’autres circonstances suggéraient la conclusion contraire. Malgré l’incertitude quant à savoir s’ils vivaient séparément, les éléments de preuve établissent clairement qu’il n’y a pas eu échec de leur mariage. Par conséquent, si Mme Sookochoff et M. Gauthier vivaient séparément du 31 juillet 2016 au 8 janvier 2019, ce n’était pas en raison de l’échec de leur mariage. Il semble plutôt que c’était fort probablement par nécessité de résoudre les problèmes concernant leurs enfants respectifs et les difficultés inhérentes à la fusion de deux familles après un divorce. De plus, même si l’échec du mariage avait été constaté, le délai requis de 90 jours quant à la durée de la séparation n’était pas respecté.
+[44] Pour les motifs exposés ci-dessus, les appels sont rejetés, sans dépens [37] .
+Signé à Ottawa, Canada, ce 30e jour de novembre 2020.
+« Don R. Sommerfeldt »
+Le juge Sommerfeldt
+RÉFÉRENCE :
+2020 CCI 131
+NO DU DOSSIER DE LA COUR :
+2018-4502(IT)I
+INTITULÉ :
+SHANNON SOOKOCHOFF c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Edmonton (Alberta)
+DATE DE L’AUDIENCE :
+Le 20 août 2020
+MOTIFS DU JUGEMENT :
+L’honorable juge Don R. Sommerfeldt
+DATE DU JUGEMENT :
+Le 30 novembre 2020
+COMPARUTIONS :
+Pour l’appelante :
+L’appelante elle-même
+Avocat de l’intimée :
+Me Andrew Lawrence
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+S.O.
+Cabinet :
+S.O.
+Pour l’intimée :
+Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa (Canada)
+[1] Loi de l’impôt sur le revenu, L.R.C., 1985, ch. 1 (5e supplément), dans sa version modifiée.
+[2] Transcription, lignes 24 et 25 de la page 42.
+[3] Transcription, lignes 2 à 21 de la page 67.
+[4] Transcription, ligne 28 de la page 67 à ligne 1 de la page 68.
+[5] Transcription, ligne 24 de la page 81.
+[6] Cette question n’est soulevée qu’en raison des faits. Elle n’a pas été soulevée par les parties dans les actes de procédure ni au procès.
+[7] Si je comprends bien, l’expression « au cours de ce premier mois » de l’alinéa 122.62(7)b) fait référence au « premier mois civil commençant après l’événement », énoncé à l’alinéa 122.62(7)a), et l’expression « l’événement » de l’alinéa 122.62(7)a) se rapporte à l’événement au cours duquel le particulier est devenu l’époux visé d’un particulier admissible, comme le mentionnent les premières lignes du paragraphe 122.62(7). Voir la décision MacIntosh c. La Reine, 2019 CCI 155, au paragraphe 33.
+[8] Roby c. Canada, [2001] A.C.I.no 801, au paragraphe 8; cité dans la décision Kara c. La Reine, 2009 CCI 82, au paragraphe 8. Je me reporterai aux six critères énoncés ci-dessus comme étant les « facteurs de la trilogie Cooper/Roby/Kara ».
+[9] Molodowich v. Penttinen, 17 R.F.L. (2d) 376, [1980] O.J. n° 1904 (QL).
+[10] Ibid, au paragraphe 16.
+[11] M. c. H., [1999] 2 RCS 3, aux paragraphes 50, 51 et 59.
+[12] Harrison c. La Reine, 2008 CCI 314, au paragraphe 6.
+[13] Roby, précité à la note 8; Corroll c. Canada, 2002 CAF 388; Lawin c. La Reine, 2006 CCI 198; Kara, précité à la note 8 et Astley c. La Reine, 2012 CCI 155.
+[14] Roby, précité à la note 8, au paragraphe 10.2.
+[15] Lawin, précité à la note 13, au paragraphe 13 et Kara, précité à la note 8, aux paragraphes 9 à 11.
+[16] Corroll, précité à la note 13, aux paragraphes 3 et 5.
+[17] Astley, précité à la note 13, au paragraphe 10.
+[18] Voir la décision Kara, précitée à la note 8, au paragraphe 11.
+[19] Transcription, ligne 1 de la page 70 à ligne 6 de la page 71.
+[20] Transcription, lignes 8 à 13 de la page 71.
+[21] Transcription, ligne 25 de la page 67 à ligne 1 de la page 68.
+[22] Transcription, aux lignes 14 à 19 de la page 72.
+[23] Transcription, lignes 4 à 6 de la page 50, lignes 12 à 23 de la page 56 et lignes 4 à 6 de la page 73.
+[24] Transcription, lignes 13 à 20 de la page 52, lignes 23 et 24 de la page 72 et lignes 3 et 4 de la page 73.
+[25] Roby, précité à la note 8, au paragraphe 10.2.
+[26] Voir le paragraphe 18.15(3) de la Loi sur la Cour canadienne de l’impôt, L.R.C. (1985), ch. T-2, dans sa version modifiée. Voir également l’arrêt Suchon c. Canada, 2002 CAF 282, aux paragraphes 31 et 32. Mon analyse des questions de nécessité et de fiabilité est résumée aux sous-paragraphes 35a) et b) des présents motifs.
+[27] Pièce A-1.
+[28] Pièce A-1, pages 1 et 2.
+[29] Pièce A-2. Le révérend Gonyou et M. Gauthier ont été des voisins pendant de nombreuses années.
+[30] Ibid.
+[31] Transcription, lignes 2 à 6 de la page 86.
+[32] Transcription, ligne 16 de la page 86 à la ligne 4 de la page 87.
+[33] Transcription, lignes 10 à 15 de la page 93.
+[34] Transcription, lignes 6, 8 et 9 de la page 91.
+[35] Roby, précité à la note 8, au paragraphe 10.2. Le fait que Mme Sookochoff et M. Gauthier prévoyaient passer une semaine ensemble avec leurs enfants respectifs à Canmore, en août 2017, indique également qu’il n’y avait pas eu échec du mariage. La fin prématurée du voyage était imputable aux conflits opposant un ou plusieurs des enfants.
+[36] Lors de son contre-interrogatoire, Mme Sookochoff a reconnu qu’entre le 30 juillet 2016 et le mois d’août 2018, il n’y a jamais eu de période dépassant 90 jours au cours de laquelle elle et M. Gauthier avaient eu l’intention de mettre fin à leur mariage; Transcription, lignes 20 à 25 de la page 62 et lignes 10 à 17 de la page 68. Je sais que l’intention de mettre fin à un mariage n’équivaut pas à une séparation ou à une rupture. Cependant, le fait que Mme Sookochoff ait mentionné que le couple n’avait pas l’intention de mettre fin au mariage indique que le mariage comportait un facteur d’engagement.
+[37] Voir le paragraphe 10(2) des Règles de la Cour canadienne de l’impôt (procédure informelle), DORS/90-688, dans leur version modifiée.

@@ -1,0 +1,140 @@
+Title: Levesque c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27923/index.do
+Corpus path: corpus/cases/tcc/2003/2003-cci-69-27923-levesque-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2003-02-25
+
+# Levesque c. M.R.N.
+
+- Citation: 2003 CCI 69
+- Decision date: 2003-02-25
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1706, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Levesque c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-02-25
+Référence neutre
+2003 CCI 69
+Numéro de dossier
+2002-962(EI)
+Juges et Officiers taxateurs
+François M. Angers
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2002-962(EI)
+ENTRE :
+MONIQUE LEVESQUE,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+_______________________________________________________________
+Appel entendu le 17 décembre 2002 à Bathurst (Nouveau Brunswick)
+Devant : L'honorable juge François Angers
+Comparutions :
+Représentante de l'appelante :
+Prisca Levesque
+Avocate de l'intimé :
+Me Stéphanie Côté
+_______________________________________________________________
+JUGEMENT
+L'appel pour la période du 3 mai 1999 au 17 mars 2000 est admis et la décision rendue par le ministre est annulée, selon les motifs du jugement ci‑joints.
+L'appel pour la période du 19 février 2001 au 29 juin 2001 est rejeté et la décision rendue par le ministre est confirmée, selon les motifs du jugement ci‑joints.
+Signé à Edmundston (Nouveau-Brunswick), ce 25e jour de février 2003.
+« François Angers »
+J.C.C.I.
+Référence : 2003CCI69
+Date : 20030225
+Dossier : 2002-962(EI)
+ENTRE :
+MONIQUE LEVESQUE,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+MOTIFS DU JUGEMENT
+Le juge Angers, C.C.I.
+[1] L'appelante interjette appel d'une décision du ministre du Revenu national (le « ministre ») selon laquelle l'emploi de l'appelante au cours des périodes du 3 mai 1999 au 17 mars 2000 et du 19 février au 29 juin 2001 (les « périodes en litige ») avec Levesque Mécanique Inc. (la « payeuse ») n'était pas assurable en vertu de la Loi sur l'assurance‑emploi (la « Loi ») puisque l'appelante et la payeuse avaient entre elles un lien de dépendance selon l'alinéa 5(2)i) de la Loi.
+[2] En rendant sa décision, le ministre s'est fondé sur les hypothèses de fait suivantes, lesquelles ont été admises ou niées selon le cas :
+a) la payeuse est une personne morale incorporée le ou vers le 11 octobre 1991 et dont l'unique actionnaire est l'époux de l'appelante; (admis)
+b) le 10 décembre 1991 l'appelante a endossé avec son époux un prêt de 105 000,00 $ négocié au nom de la payeuse; (admis)
+c) depuis le 16 février 2000 l'appelante est co‑signataire d'une marge de crédit au montant de 25 000,00 $ au nom de la payeuse; (admis)
+d) l'entreprise de la payeuse consiste en une station service spécialisée dans la mécanique avec aussi des pompes à essence; (admis)
+e) les tâches de l'appelante consistaient à aider son époux en s'occupant de la tenue de livres, des comptes à payer, des créances, en répondant au téléphone, en faisant des commissions, en préparant les dépôts et en les déposant, en préparant l'horaire des pompistes et en pompant elle-même au besoin; (admis, depuis la période en litige)
+f) l'appelante accomplissait des tâches semblables pour la payeuse depuis 1991 sans rémunération régulière entre 92 et 98 et sans être inscrite au registre de paye de la payeuse; (admis)
+g) l'appelante continuait à assumer des tâches semblables à l'extérieur des périodes en litige sans être inscrite au registre de paye de la payeuse; (nié)
+h) la payeuse émettait des chèques à l'appelante tant pendant les périodes en litige qu'à l'extérieur; (nié)
+i) l'appelante et son époux se partageaient le revenu ou salaire reçu de la payeuse de la façon suivante :
+300,00 $ par semaine pour chacun s'ils sont tous les deux payés;
+600,00 $ par semaine pour l'appelante si elle est la seule des deux à être payée;
+500,00 $ ou 600,00 $ par semaine pour son époux s'il est le seul des deux à être payé;
+(nié)
+j) ni l'appelante ni la payeuse ne compilait les heures de travail de l'appelante bien que son salaire était basé sur 40 heures par semaine; (nié)
+k) les services de l'appelante étaient nécessaires autant à l'extérieur des périodes en litige que durant celles-ci; (nié)
+l) l'appelante et la payeuse sont des personnes liées au sens de la Loi de l'impôt sur le revenu; (admis)
+m) l'appelante et la payeuse ont entre elles un lien de dépendance; (admis)
+n) compte tenu de toutes les circonstances, notamment la rétribution versée, les modalités d'emploi ainsi que la durée, la nature et l'importance du travail accompli, il n'est pas raisonnable de conclure que l'appelante et la payeuse auraient conclu entre elles un contrat de travail à peu près semblable, si elles n'avaient pas eu un lien de dépendance. (nié)
+[3] L'appelante explique que durant la première période en litige, elle faisait du travail de commis-comptable pour la payeuse. Il s'agissait de faire la tenue des livres comptables, de préparer les dépôts de la payeuse, de répondre au téléphone et de s'occuper du service à la clientèle. Elle était rémunérée à raison de 300 $ par semaine pour 40 heures de travail.
+[4] Pendant la deuxième période en litige, elle devait assumer les tâches de son mari (qui était également employé par le payeur) en plus des siennes. Elle s'occupait, à toutes fins pratiques, de tout. Elle affirme que ses tâches supplémentaires étaient de s'occuper de la paie des employés et de leurs horaires de travail, de la facturation, de reconduire les clients chez eux, de négocier le coût des réparations et d'approuver le crédit à la clientèle. Elle devait vérifier les estimations préparées par les employés et commander les pièces nécessaires aux réparations. Durant cette deuxième période, elle recevait un salaire hebdomadaire de 600 $ pour 40 heures de travail. L'appelante reconnaît que durant les deux périodes en litige, il lui arrivait de faire des heures supplémentaires sans être rémunérée, même si son horaire de travail était de 8 h à 17 h.
+[5] L'appelante explique que son travail durant la deuxième période était devenu nécessaire parce que son mari souffrait de sciatalgie et qu'il était presque toujours absent ou ne se présentait presque jamais au travail. L'appelante explique qu'elle a été embauchée parce qu'elle connaissait le roulement de l'entreprise de la payeuse et qu'il aurait été plus dispendieux d'embaucher une autre personne. L'appelante estime que son salaire de 600 $ par semaine est pleinement justifié.
+[6] L'appelante affirme qu'à l'extérieur des périodes en litige, elle aidait son époux à faire la balance de la caisse, à préparer les dépôts et à effectuer le recouvrement des dettes à percevoir. Elle faisait le travail sans être rémunérée. Cette question est devenue pertinente pour expliquer que les bordereaux de dépôt référaient à l'appelante relativement à certains chèques déposés à l'extérieur des périodes en litige. L'appelante a expliqué qu'il en était ainsi parce qu'elle encaissait son chèque d'allocation familiale chez la payeuse et que le chèque était par la suite déposé par cette dernière.
+[7] Dans ses deux demandes de prestations de chômage (pièce A‑4), l'appelante a indiqué que la cessation de son emploi était due à un manque de travail. Elle explique que son mari était en mesure de faire tout l'ouvrage lorsqu'elle ne travaillait pas. Elle ajoute qu'à son retour après une période d'absence, elle avait beaucoup de travail à effectuer pour mettre à jour les affaires de la payeuse.
+[8] Lors du contre‑interrogatoire, l'appelante a expliqué que deux mécaniciens étaient à l'emploi de la payeuse, de même que de jeunes personnes embauchées comme pompistes pendant la soirée et la fin de semaine. Elle reconnaît que, le 16 février 2000, elle s'est portée garante de la marge de crédit de la payeuse au montant de 25 000 $ et qu'en 1991, elle s'est portée garante d'un prêt de 105 000 $ fait par la payeuse. L'appelante ne détient aucune action de la payeuse et n'est pas membre de son conseil d'administration. Elle reconnaît que ses heures supplémentaires ne sont pas comptabilisées et qu'elle est payée sur une base de 40 heures par semaine. Les autres employés sont payés sur une base horaire. Seuls les pompistes sont payés pour leurs heures supplémentaires. Les deux mécaniciens sont les seuls à recevoir des congés payés ou une indemnité de congés payés.
+[9] L'intimé a fait témoigner madame Germaine Landry, agent des appels pour l'Agence des douanes et du revenu du Canada. Madame Landry a déposé son rapport (pièce I‑2) et a expliqué comment elle a mené son enquête. Elle a effectué des entrevues avec l'appelante et avec le représentant de la payeuse par téléphone et par échange de correspondance. Elle a également examiné de la documentation, notamment le registre des procès-verbaux de la société payeuse, le grand livre pour 1999, les dépôts bancaires, les chèques de paye de l'appelante, les signataires autorisés de la payeuse aux fins bancaires, les états financiers de 1999 et les revenus mensuels bruts de la payeuse aux fins des remises trimestrielles de la taxe de vente harmonisée.
+[10] Cet examen lui a permis de conclure que le revenu mensuel brut de la payeuse était constant pendant les années 1999 et 2000 et a connu une légère diminution en 2001, ce qui était dû, selon la payeuse, à une augmentation du prix de l'essence. L'entreprise est exploitée sept jours sur sept, y compris en soirée selon des horaires qui varient suivant les jours.
+[11] Madame Landry a également noté que, lors de ses entrevues avec l'appelante et la payeuse, ils ont expliqué que leur salaire était de 300 $ par semaine chacun lorsqu'ils travaillaient tous les deux, en prenant soin de signaler qu'il y avait plus d'impôt sur le revenu à payer lorsqu'une seule personne gagnait 600 $ par semaine. Ils n'ont toutefois pu expliquer pourquoi le salaire du mari de l'appelante était de 500 $ par semaine d'octobre 2000 à février 2001.
+[12] L'enquête de madame Landry a aussi révélé que l'appelante préparait les dépôts de la payeuse à l'extérieur de ses périodes d'emploi et qu'il lui arrivait d'encaisser ses chèques d'allocation familiale et d'assurance‑emploi chez la payeuse. Il lui arrivait aussi d'être payée par la payeuse, sans qu'elle soit inscrite dans le livre de paye, pour des travaux de nettoyage. Ces travaux ont été effectués par l'appelante au début de l'année 1999, soit avant la première période en litige.
+[13] Le salaire des autres employés varie de 320 $ par semaine pour un apprenti mécanicien à 600 $ par semaine pour le mécanicien.
+[14] En 1991, l'appelante a travaillé pour la payeuse et a été payée par elle. Elle a aussi travaillé pour la payeuse de 1992 à 1998, sans rémunération, à raison de cinq heures par semaine. L'appelante considère que son travail à domicile constituait du travail pour la payeuse, puisque les bureaux de la payeuse s'y trouvaient à cette époque.
+[15] Sur son relevé d'emploi, la payeuse a expliqué que la première mise à pied, soit celle du 17 mars 2000, résultant d'un manque de travail, mais aussi d'un problème de rentrées de fonds. La deuxième mise à pied est due au fait que le mari est retourné au travail du 19 mars 2000 au 10 février 2001, sans que la payeuse ne fasse de profit.
+Le droit
+[16] Avant d'examiner le bien‑fondé de la décision du ministre, je dois me poser la question de savoir si elle résulte d'un exercice approprié de son pouvoir discrétionnaire. A‑t‑il agi de mauvaise foi ou dans un but illicite? A‑t‑il tenu compte de toutes les circonstances pertinentes ou a‑t‑il tenu compte d'un facteur non pertinent? À moins d'en arriver à la conclusion que le ministre a fait un usage inapproprié de son pouvoir discrétionnaire, je ne suis pas habilité à décider si, compte tenu de toutes les circonstances, un contrat de travail à peu près semblable aurait été conclu entre l'employeur et l'employé s'ils n'avaient pas eu un lien de dépendance (voir Canada c. Jencan Ltd., [1998] 1 C.F. 187 (C.A.F.).
+[17] Il incombe à l'appelante de démontrer que le ministre a mal exercé son pouvoir discrétionnaire lors de l'application des dispositions de l'alinéa 5(3)b) de la Loi.
+[18] En l'espèce et selon l'arrêt Jencan, l'appelante doit démontrer que le ministre a pris en considération certains faits non pertinents ou a agi de mauvaise foi avant que cette cour puisse intervenir. En l'espèce, la preuve présentée m'amène à conclure que l'analyse du ministre a porté sur les deux périodes en litige sans vraiment faire de distinction appréciable entre elles. Non seulement la rémunération n'était pas la même mais les besoins de la payeuse n'étaient pas similaires pendant la deuxième période puisque l'appelante a été embauchée pour remplacer son conjoint qui était en congé de maladie.
+[19] Le fait que la travailleuse ait endossé le prêt et la marge de crédit de la payeuse n'est pas, à mon avis, un fait pertinent qui doit être considéré, sauf si on peut le lier à une obligation dans le contrat de louage de services. L'endossement des prêts de la payeuse était exigé en sa qualité de conjointe de l'actionnaire de la payeuse et non en sa qualité d'employée. Il n'y a aucune preuve que l'emploi de l'appelante ait été traité différemment de celui d'un employé sans lien de dépendance en raison du fait qu'elle ait endossé ces deux prêts. De plus, le fait qu'elle ait acquis de l'expérience chez la payeuse pendant près de sept ans à titre de bénévole n'empêche pas la création d'un contrat de travail avec une personne liée qui satisfait aux exigences de l'alinéa 5(3)b) de la Loi. En d'autres mots, une personne liée peut travailler bénévolement et par la suite être embauchée et avoir un emploi assurable si elle satisfait aux exigences de la Loi. Le ministre ne devrait pas prendre cette situation en considération, à moins de pouvoir établir un lien direct avec les conditions et les modalités de l'emploi.
+[20] Pour ces motifs, je conclus que l'appelante a établi, selon la prépondérance des probabilités, que le ministre a mal exercé son pouvoir discrétionnaire et qu'il m'est possible de revoir les faits et d'en arriver à ma propre conclusion.
+[21] Pour ce qui est de la première période, soit du 3 mai 1999 au 17 mars 2000, je conclus, comme l'a fait l'agent d'appel, que le salaire de l'appelante, à 300 $ par semaine, n'était pas excessif. Même si l'appelante, comme je l'ai mentionné auparavant, a fait du travail à titre bénévole avant la période en question, cela n'est pas un facteur empêchant la payeuse d'embaucher l'appelante et de la payer pour ses services. Il est évident que son travail était essentiel à l'entreprise et la payeuse pouvait justifier l'embauche d'une personne pour l'effectuer. L'appelante travaillait 40 heures par semaine, et même s'il lui arrivait de travailler après son heure de départ, la preuve n'indique pas qu'il s'agissait ici d'une pratique constante.
+[22] Les modalités de l'emploi de la première période n'ont rien de particulier qui pourrait me permettre de conclure que l'appelante aurait été traitée de façon différente à cause de l'existence du lien de dépendance. Les congés payés sont obligatoires pour tous les employés et l'appelante y a droit. Les responsabilités qu'elle a assumées étaient nécessaires à l'entreprise et la payeuse a dû cesser de lui verser un salaire en raison d'un manque de fonds. L'appelante a travaillé durant une période de 46 semaines, ce qui écarte l'argument que la période d'emploi n'a servi qu'à la rendre admissible à des prestations de chômage.
+[23] Il est vrai que le travail de l'appelante était nécessaire à l'entreprise. J'accepte toutefois que, dans les circonstances, il était justifiée que la payeuse mette fin à son salaire. Un employé non lié aurait probablement subi le même sort et la payeuse aurait alors eu recours au travail bénévole de l'appelante. Pour la première période, je conclus que, compte tenu de toutes les circonstances, le contrat d'emploi de l'appelante et de la payeuse aurait été semblable s'il n'y avait pas eu un lien de dépendance. L'appel est accueilli pour la première période.
+[24] Pour ce qui est de la deuxième période, soit celle du 19 février 2001 au 29 juin 2001, je ne peux arriver à la même conclusion. La preuve a démontré que le travail a été accumulé jusqu'au retour de l'appelante, car cette dernière a affirmé avoir eu beaucoup de travail afin de mettre à jour les affaires de la payeuse. Elle fut embauchée pour remplacer son époux, absent en raison de maladie, et aussi parce qu'elle connaissait le roulement de l'entreprise. Son salaire a doublé pendant la deuxième période au motif qu'elle devait assumer deux responsabilités. Pourtant, la preuve démontre qu'elle ne fut embauchée que pour remplacer son mari et non pour reprendre son propre travail. Son époux recevait 500 $ par semaine alors que l'appelante s'est vu verser 600 $ pour effectuer le même travail.
+[25] Son travail était de diriger l'entreprise et son rôle était davantage celui de patron ou d'associé que celui d'employée. Il n'y a donc pas de doutes que son emploi était différent de celui des autres employés. L'importance de ses responsabilités et la nature de ses fonctions et le fait qu'elle ait continué à travailler avant et après la deuxième période font en sorte qu'un contrat semblable n'aurait pu être conclu s'il n'y avait pas eu un lien de dépendance entre les parties. L'appelant, durant la période, faisait le travail de son mari et le sien pendant les heures prévues pour un seul de ces emplois. Une telle responsabilité, selon les modalités convenues, aurait été impossible s'il n'y avait pas eu un lien de dépendance. L'emploi de l'appelante pendant la deuxième période n'est donc pas assurable. L'appel est donc rejeté pour cette période.
+Signé à Edmundston (Nouveau-Brunswick), ce 25e jour de février 2003.
+« François Angers »
+J.C.C.I.
+RÉFÉRENCE :
+2003CCI69
+No DU DOSSIER DE LA COUR :
+2002-962(EI)
+INTITULÉ DE LA CAUSE :
+MONIQUE LEVESQUE
+et Le ministre du Revenu national
+LIEU DE L'AUDIENCE :
+Bathurst (Nouveau-Brunswick)
+DATE DE L'AUDIENCE
+17 décembre 2002
+MOTIFS DE JUGEMENT PAR :
+L'honorable juge François Angers
+DATE DU JUGEMENT :
+25 février 2003
+COMPARUTIONS :
+Pour l'appelante :
+Prisca Levesque
+Pour l'intimé
+Me Stéphanie Côté
+AVOCAT INSCRIT AU DOSSIER:
+Pour l'appelante :
+Nom :
+Étude :
+Pour l'intimé :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

@@ -1,0 +1,121 @@
+Title: Hovasse v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30244/index.do
+Corpus path: corpus/cases/tcc/2011/2011-tcc-143-30244-hovasse-v-the-queen-en.md
+Document type: case_law
+Last modified: 2011-03-04
+
+# Hovasse v. The Queen
+
+- Citation: 2011 TCC 143
+- Decision date: 2011-03-04
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 8013, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Hovasse v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2011-03-04
+Neutral citation
+2011 TCC 143
+File numbers
+2009-3570(IT)I
+Judges and Taxing Officers
+Robert James Hogan
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2009-3570(IT)I
+BETWEEN:
+ALAIN-PIERRE HOVASSE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on January 20, 2011, at Vancouver, British Columbia.
+Before: The Honourable Justice Robert J. Hogan
+Appearances:
+Counsel for the Appellant:
+Vincent Pigeon
+Counsel for the Respondent:
+Jonathan Wittig
+____________________________________________________________________
+AMENDED JUDGMENT
+The appeal from the reassessment made under the Income Tax Act for the 2007 taxation year is allowed, without costs, and the matter is referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached amended reasons for judgment.
+The amended judgment and amended reasons for judgment are issued in substitution for the judgment and reasons for judgment dated March 4, 2011.
+Signed at Ottawa, Canada, this 16th day of April 2011.
+"Robert J. Hogan"
+Hogan J.
+Citation: 2011 TCC 143
+Date: 20110416
+Docket: 2009-3570(IT)I
+BETWEEN:
+ALAIN-PIERRE HOVASSE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+AMENDED REASONS FOR JUDGMENT
+Hogan J.
+[1] The Appellant in this case is appealing the decision of the Minister of National Revenue (“Minister”) to deny $7,000 in deductions for support amounts paid in the 2007 taxation year. The dispute revolves around whether or not the Appellant made those payments pursuant to a written agreement, as required by subsection 56.1(4) of the Income Tax Act (“ITA”).[1] The Appellant argues that a “Summary of Mediated Agreements” resulting from mediation sessions is sufficient to satisfy the written agreement requirement of that provision. The Respondent contends that the document in question cannot satisfy that requirement since it was not intended to be a final and binding agreement between the Appellant and his former spouse.
+Factual Background
+[2] The Appellant and his former spouse, Diane Lu-Affatt, married on July 17, 1983. They separated in December 2005, and have remained apart since then. In August 2006, the Appellant entered into mediation with Ms. Lu-Affatt. The result was an agreement that, among other things, the Appellant would make spousal support payments of $1,000 per month for 11 months starting in September 2006.
+[3] The Appellant made the payments as agreed. He filed his 2007 tax return, deducting $11,000 in spousal support payments. On November 10, 2008, the Minister disallowed the deduction in an initial assessment. On January 19, 2009, the Minister reassessed and allowed the deduction of $7,000 of the support amounts previously claimed, but this reassessment was reversed on June 15, 2009. Eventually, the Appellant filed a notice of appeal with this Court on November 20, 2009.
+Analysis
+[4] In general, Canadian tax law prevents spouses from splitting income in such a way as to produce lower overall taxes. There is, however, an exception in subsection 56.1(4) and paragraph 60(b) of the ITA. In these provisions Parliament has created a scheme by which certain support amounts paid to a separated spouse are deductible from income by the payer and taxable in the hands of the recipient. As Heald J. indicated in Hodson v. The Queen,[2] these provisions are also designed in such a fashion as to prevent abuse thereof:
+. . . spouses who live together are not allowed to split their income thereby reducing the total tax bill of the family. Paragraph 60(b) provides an exception to that general rule and confers upon separated spouses who come within its terms and conditions certain tax advantages. Parliament has spoken in clear and unmistakable terms. Had Parliament wished to extend the benefit conferred by paragraph 60(b) on separated spouses who, as in this case, do not have either a Court order or a written agreement, it would have said so. The rationale for not including separated spouses involved in payments made and received pursuant to a verbal understanding is readily apparent. Such a loose and indefinite structure might well open the door to colourable and fraudulent arrangements and schemes for tax avoidance. . . .
+[5] The above summary shows that the requirements in subsection 56.1(4) are there to prevent the mischief of abusing support payment provisions in order to split income. These requirements are currently found in the definition of “support amount” in subsection 56.1(4) of the ITA, which states:
+56.1(4) Definitions — “support amount” means an amount payable or receivable as an allowance on a periodic basis for the maintenance of the recipient, children of the recipient or both the recipient and children of the recipient, if the recipient has discretion as to the use of the amount, and
+56.1(4) Définitions — « pension alimentaire » Montant payable ou à recevoir à titre d’allocation périodique pour subvenir aux besoins du bénéficiaire, d’enfants de celui-ci ou à la fois du bénéficiaire et de ces enfants, si le bénéficiaire peut utiliser le montant à sa discrétion et, selon le cas :
+(a) the recipient is the spouse or common-law partner or former spouse or common-law partner of the payer, the recipient and payer are living separate and apart because of the breakdown of their marriage or common-law partnership and the amount is receivable under an order of a competent tribunal or under a written agreement;
+a) le bénéficiaire est l’époux ou le conjoint de fait ou l’ex-époux ou l’ancien conjoint de fait du payeur et vit séparé de celui-ci pour cause d’échec de leur mariage ou union de fait et le montant est à recevoir aux termes de l’ordonnance d’un tribunal compétent ou d’un accord écrit ;
+[Emphasis added.]
+[6] The issue in this case is whether the written agreement produced by the Appellant is sufficient to satisfy the requirements of the ITA. The parties presented a Joint Book of Authorities to the Court. Most of the cases contained therein deal largely with whether an agreement evidenced in writing satisfies the requirements of subsection 56.1(4).[3] They provide guidance on how to determine if a written agreement is sufficient. What this determination involves was summarized succinctly by my colleague Hershfield J. in Shaw v. The Queen.[4]
+[7] In that case, Hershfield J. held that what is needed is evidence that the parties intended to be legally bound by the obligations they have set down in writing. A signature is one way to prove this, but not the only way. The evidence required in this regard will be dependent on the facts in each case.[5] Hershfield J. further held that written agreements need not be signed in order to comply with subsection 56.1(4), and he rejected the argument that Parliament intended a very strict application of the written agreement requirement. A strict interpretation is not needed to give effect to the purpose behind allowing the deduction of support amounts. However, for a finding to be made that a written agreement is compliant with that section, some level of formality is still required. As Bowman A.C.J., as he then was, stated in Foley v. R.,[6] at paragraph 26: “The word ‘agreement’ denotes at least a binding obligation.”
+[8] Therefore, what is left to decide is whether the evidence as a whole shows that the Appellant, in entering into the mediated agreement, agreed to be obligated to make the support payments. This element must be present in order to satisfy the requirements in the ITA for the deductibility of support amounts and to prevent the mischief of the Appellant enjoying, through income splitting, a tax benefit to which he would not otherwise be entitled.
+[9] In light of the testimony of the Appellant at trial, and the documentation from the mediation sessions that was presented, the mediated agreement amounted to an interim agreement setting out an obligation to pay a specified amount of support periodically. This is confirmed by the Appellant’s adherence to the schedule for the payment of the spousal support amount under the agreement. The testimony of the Appellant also shows that the mediation sessions ended with a final agreement that both parties intended to adhere to. Further, the final agreement negotiated between the parties in the spring of 2010 confirms that the payments by the Appellant were made pursuant to a written agreement requiring that these payments be made.[7]
+[10] The Respondent put forward many arguments against such a finding, which deserve consideration. First, it was argued that since the mediated agreement is not signed, it is not valid. Shaw and Foley both reject this argument. While Interpretation Bulletin IT-530R (Support Payments) of the Canada Revenue Agency[8] suggests that the Minister will not normally accept such agreements if not signed, that is only the Minister’s policy (contradicted by case law) and is not binding on this Court. This is moreover reinforced by the fact that there is no express requirement in the ITA that the agreement be signed. If Parliament had intended that the written agreement should be signed, it could have easily said so.
+[11] The Respondent also argued that the mediated agreement contained a warning that it could not be construed as a contract or court judgment, meaning it was not intended to be binding. This does not necessarily mean that the parties could not have intended or did not intend to be bound by the agreement. The statement seems to be more of a notification that further steps were required in order for the agreement to be enforceable in a court of law. The parties may not have filed the agreement with a court having jurisdiction in that regard, as advised, but the Appellant gave a reasonable explanation for not doing so, stating that he and his former spouse wanted to avoid legal costs.
+[12] Further, the Respondent submitted that the conduct of Ms. Lu-Affatt shows that the written summary of mediated agreements was not an agreement. The Respondent noted that Ms. Lu-Affatt asked for a greater support amount in a motion to institute divorce proceedings. However, this does not show an absence of a written agreement. At most, it is proof that the agreement was a temporary one pending divorce proceedings.[9] Such interim agreements are perfectly acceptable as long as they otherwise meet the requirements under the ITA. Furthermore, orders regarding support amounts are rarely, if ever, final. They are almost always subject to variance in the jurisdiction in which they are made. If a lack of finality is grounds to dismiss a written support arrangement under subsection 56.1(4), one could conceivably dismiss every single written agreement ever made and court order ever issued for support, which would render the section redundant.
+[13] Secondly, Ms. Lu-Affatt stated in a notice of objection to the Minister that there was no official written agreement between the Appellant and herself. That document is problematic in that it makes reference to there being no written agreement, but it does not state whether she is speaking of an official agreement on the requirement to pay spousal support and the amount thereof, or referring to an agreement whereby she would be taxable on the amounts paid. Without having been able to hear Ms. Lu-Affatt’s explanation of what she meant in that document, it is hard to ascertain exactly what it proves, and the document should therefore be given little weight in deciding this case.
+[14] In the present case, there is little to indicate that the Appellant is trying to abuse the relevant part of the ITA by seeking to split income between him and his former spouse.[10] Rather, the evidence and testimony of the Appellant indicate, on the balance of probabilities, that he and Ms. Lu-Affatt were separated at the time he was making the periodic payments pursuant to what was understood by both parties to be a binding obligation. Further, the evidence shows that they separated and have remained separated with the intent to divorce and that they no longer have the economic benefit of a unified household. These are the circumstances in which Parliament intended that paragraph 60(b) and section 56.1 would operate.
+[15] For the foregoing reasons, the appeal is allowed and I conclude that the Appellant is entitled to a deduction of $6,000 for support payments made to his former spouse in 2007. As agreed to by the parties at the hearing, this amount excludes the payment of $1,000 made in July 2007, since it was made after the termination date of the mediated agreement. The reassessment is referred back to the Minister for reconsideration and reassessment in accordance with these amended reasons for judgment.
+Signed at Ottawa, Canada, this 16th day of April 2011.
+"Robert J. Hogan"
+Hogan J.
+CITATION: 2011 TCC 143
+COURT FILE NO.: 2009-3570(IT)I
+STYLE OF CAUSE: ALAIN-PIERRE HOVASSE v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Vancouver, British Columbia
+DATE OF HEARING: January 20, 2011
+REASONS FOR JUDGMENT BY: The Honourable Justice Robert J. Hogan
+DATE OF JUDGMENT: March 4, 2011
+DATE OF AMENDED JUDGMENT: April 16, 2011
+APPEARANCES:
+Counsel for the Appellant:
+Vincent Pigeon
+Counsel for the Respondent:
+Jonathan Wittig
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Vincent Pigeon
+Firm: Vancouver, British Columbia
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] R.S.C. 1985 (5th Supp.), c. 1.
+[2] 88 DTC 6001 (FCA), at page 6003.
+[3] Cases in which the agreement was rejected include Paré v. The Queen, 2003 TCC 869; Chesney v. R., [2001] 1 C.T.C. 2738 (TCC); Tuck v. The Queen, 2007 TCC 259. Cases cited by the parties where the agreement was accepted are Grant v. R., [2001] 2 C.T.C. 2474 (TCC); Foley v. R., [2000] 4 C.T.C. 2016 (TCC); Shaw v. The Queen, 2007 TCC 148.
+[4] Note 3 above.
+[5] See also Alm v. R., [2001] 1 C.T.C. 2721 (TCC).
+[6] Note 3 above.
+[7] Joint Book of Documents, Tab 4.
+[8] July 17, 2003.
+[9] Joint Book of Documents, Tab 4(C).
+[10] Ibid., Tab 1, page 10.

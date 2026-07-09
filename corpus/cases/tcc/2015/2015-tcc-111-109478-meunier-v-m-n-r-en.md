@@ -1,0 +1,262 @@
+---
+title: "Meunier v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/109478/index.do"
+last_modified: "2015-05-07"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2015 TCC 111"
+citation2: ""
+neutral_citation: "2015 TCC 111"
+decision_date: "2015-05-07"
+language: "en"
+item_id: "109478"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2810
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T10:23:25.022000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "b81dd8dd80e17427c5e3f9b86405954a75d8a49c41a1fc67c001ea5648e35ec5"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Meunier v. M.N.R.
+
+- Citation: 2015 TCC 111
+- Decision date: 2015-05-07
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2810, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Meunier v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2015-05-07
+Neutral citation
+2015 TCC 111
+File numbers
+2013-3117(EI), 2013-3120(EI), 2013-3121(EI), 2013-3122(EI), 2013-4177(EI)
+Judges and Taxing Officers
+Réal Favreau
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2013-3120(EI)
+BETWEEN:
+RICHARD MEUNIER,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+Docket: 2013-3117(EI)
+AND BETWEEN:
+MAXIM MEUNIER,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+Dockets: 2013-3121(EI)
+2013-3122(EI)
+2013-4177(EI)
+AND BETWEEN:
+7547978 CANADA INC.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+(Richard Meunier,
+Maxim Meunier
+and 7547978 Canada Inc.
+are hereinafter collectively referred to as the “appellants”)
+[OFFICIAL ENGLISH TRANSLATION]
+Appeals heard on common evidence with the appeal of 7547978 Canada Inc. (docket 2013-2929(IT)I), on September 4 and 5, 2014, and November 10, 2014, at Ottawa, Ontario.
+Before: The Honourable Justice Réal Favreau
+Appearances:
+Counsel for the appellant:
+Chantal Donaldson
+Counsel for the respondent:
+Natasha Wallace
+JUDGMENT
+The appeals from the decisions of the Minister of National Revenue regarding the insurability of the employment of workers, under paragraph 5(1)(a) of the Employment Insurance Act, dated May 3, 2013, and the appeals from the assessments made in respect of 7547978 Canada Inc. dated November 5, 2012, are dismissed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 7th day of May 2015.
+“Réal Favreau”
+Favreau J.
+Translation certified true
+on this 19th day of June 2015
+Janine Anderson, Translator
+Citation: 2015 TCC 111
+Date: 20150507
+Dockets: 2013-3120(EI)
+2013-3117(EI)
+2013-3121(EI)
+2013-3122(EI)
+2013-4177(EI)
+BETWEEN:
+RICHARD MEUNIER, MAXIM MEUNIER, 7547978 CANADA INC.,
+Appellants,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Favreau J.
+[1] These are appeals heard on common evidence with the appeal of 7547978 Canada Inc. (docket 2013-2929(IT)I) from the decisions made by the Minister of National Revenue (the Minister) dated May 3, 2013, regarding the insurability of the employment of workers under paragraph 5(1)(a) of the Employment Insurance Act, S.C. 1996, c. 23, as amended (the EIA) and appeals from assessments made in respect of 7547978 Canada Inc. dated November 5, 2012.
+[2] In rulings dated May 3, 2013, the Minister determined that the employment of Michel Anderson, Jean-Éric Charron, Francis Casey, Vicky Brazeau and Carl Thibert-Granato while working for Richard Meunier during the period from January 1, 2010, to June 15, 2010, and, while working for 7547978 Canada Inc. during the period from June 16, 2010, to December 31, 2011, was insurable employment given that the contract of service requirements were met and that there was an employer/employee relationship between those individuals and Richard Meunier during the first period, and between those individuals and 7547978 Canada Inc. during the second period.
+[3] In rulings also dated May 3, 2013, the Minister found that Maxim Meunier’s employment while working for 7547978 Canada Inc. during the period from January 1, 2011, to December 31, 2011, was insurable employment given that the contract of service requirements were met and that there was an employer/employee relationship between Maxim Meunier and 7547978 Canada Inc. Even though Maxim Meunier is related to 7547978 Canada Inc., the Minister was satisfied that a substantially similar contract of employment would have been entered into if Maxim Meunier had been dealing with 7547978 Canada Inc. at arm’s length and that, consequently, Maxim Meunier’s employment was included in the insurable employment.
+[4] In another decision dated May 3, 2013, the Minister determined that the employment of the 139 workers listed in Appendix A of said decision, while working for 7547978 Canada Inc. during the 2010 and 2011 taxation years of said company, was insurable employment given that the contract of service requirements were met and that there was an employer/employee relationship between those individuals and 7547978 Canada Inc.
+[5] In assessments dated November 5, 2012, the Minister assessed 7547978 Canada Inc., in respect of its 2010 and 2011 taxation years, for unpaid employment insurance premiums for 139 workers of said company. In those assessments, the following amounts were claimed from 7547978 Canada Inc.:
+Year
+Employment Insurance
+Penalties
+Interest
+Total
+2010
+$11,675.11
+$1,167.61
+$1,103.00
+$13,945.72
+2011
+$8,230.06
+$823.00
+$361.00
+$9,414.06
+TOTAL
+$19,905.17
+$1,990.61
+$1,464.00
+$23,359.78
+[6] To make his decisions in respect of 7547978 Canada Inc., the Minister relied on the following assumptions of fact:
+[translation]
+(a) 7547978 Canada Inc. operates a company specialized in merchandizing, sampling and display mounting for large retailers;
+(b) 7547978 Canada Inc.’s sole shareholder is Richard Meunier Côté;
+(c) 7547978 Canada Inc. was incorporated in 2010, but prior to that, the company had been operating under the name of Entreprises Darik for over 10 years;
+(d) The duties of the workers consisted of putting up and taking down shelves, and arranging and labelling merchandise;
+(e) The workers’ wages varied between $10 and $13 an hour;
+(f) The workers were hired and paid directly by 7547978 Canada Inc.;
+(g) The workers were supervised by a team leader who was also employed by 7547978 Canada Inc.;
+(h) The place of work, schedule and tasks were determined by 7547978 Canada Inc.; and
+(i) Wages were paid weekly.
+[7] In the alternative, the Deputy Attorney General of Canada maintains that the employment insurance premiums were payable, relying on the following additional facts:
+[translation]
+(a) Impact Détail is also a company specialized in merchandizing, sampling and display mounting for large retailers that operate in Quebec;
+(b) Impact Détail obtained contracts from big stores like Loblaws;
+(c) 7547978 Canada Inc. obtained subcontracts with the clients of Impact Détail, like Loblaws;
+(d) 7547978 Canada Inc. invoiced clients directly or invoiced Impact Détail for the contracts and subcontracts completed by 7547978 Canada Inc.’s employees;
+(e) The places of work were determined by 7547978 Canada Inc. based on its contracts or subcontracts with the clients;
+(f) The schedule and the tasks performed by the workers were determined by 7547978 Canada Inc.’s clients;
+(g) 7547978 Canada Inc. supplied workers to complete contracts or subcontracts with clients;
+(h) 7547978 Canada Inc.’s clients or their staff supervised the workers while they put up and took down shelves, and displayed and labelled merchandise;
+(i) 7547978 Canada Inc.’s clients or their staff explained the tasks to be completed to the workers;
+(j) 7547978 Canada Inc.’s clients or their staff often provided workers with planograms to follow in order to complete the tasks requested;
+(k) The tasks to be carried out by the workers had to comply with the instructions provided by 7547978 Canada Inc.’s clients and had to be completed to their satisfaction;
+(l) The clients’ employees completed tasks similar to those completed by 7547978 Canada Inc.’s workers, e.g. putting up and taking down shelves, arranging and labelling merchandise; and
+(m) The invoices sent by 7547978 Canada Inc. to Impact Détail or clients provided the amounts paid per hour to each worker and the amounts for travel (i.e. mileage), accommodation and meals when the workers had travelled for work.
+[8] The appellants challenge the merits of the determinations made by the Minister and claim that the workers could not have been engaged in insurable employment because they were not employees of Richard Meunier or 7547978 Canada Inc. According to them, there was no employer/employee relationship between the workers and Richard Meunier, during the first period, and between the workers and 7547978 Canada Inc., during the second period. In the case of 7547978 Canada Inc., the following grounds are raised to justify the absence of an employer/employee relationship:
+[translation]
+(a) 7547978 Canada Inc. exercised practically no control over the workers;
+(b) the workers were on a call list and when a contract was awarded to 7547978 Canada Inc., it contacted those on the call list to check their availability. If they were available, 7547978 Canada Inc. retained their services for that contract;
+(c) no tools or training were offered to the workers by 7547978 Canada Inc.;
+(d) 7547978 Canada Inc. had no control over the workers’ activities, did not supervise the work performed and gave no orders or instructions on how to perform the work;
+(e) 7547978 Canada Inc.’s clients established the work plan, determined the specifications of the services to be rendered and prepared display plans to follow and the workers themselves decided which method to use to complete the mandate assigned;
+(f) 7547978 Canada Inc. did not offer any guarantee to those on the list that they would be hired for the next contract;
+(g) the workers had no job security with 7547978 Canada Inc. They could go long periods without work depending on 7547978 Canada Inc.’s contracts and/or their availability;
+(h) all of the workers were free to work elsewhere, at any time, for any other company and even in the same field. There was no exclusivity agreement between the workers and 7547978 Canada Inc.;
+(i) it has been established, by the case law, that the parties’ intention has probative weight on the determination of a working relationship;
+(j) it is evident that parties’ intention was that it was a contract of enterprise, which the workers acknowledged in writing.
+Testimony [9] Richard Meunier testified at the hearing. He explained that he has worked in the food industry for more than 40 years. In 2005, he started his company and did business under the name “Entreprises Darik”. The company does merchandizing, sampling and display work for large retailers, such as grocery stores and drug stores, and promotes products for different companies through demonstration and tasting kiosks on the clients’ premises to promote and present products directly to consumers.
+[10] Mr. Meunier ran his business on his own until June 2010, the date on which he incorporated. 7547978 Canada Inc. The head office and only place of business for 7547978 Canada Inc. are in Mr. Meunier’s residence, which is located at 2 Chemin des Orchidées in l’Ange-Gardien, Quebec.
+[11] The main clients of Mr. Meunier and 7547978 Canada Inc. are the companies Vincor, Dare, Planters, Vachon and especially Impact Détail Inc., whose business volume represents 70% to 75% of the company’s total business. The retailers to which services are rendered are located in Quebec and Ontario. Impact Détail Inc. runs the same type of company as that run by Mr. Meunier, except that it does not promote products using demonstration and tasting kiosks. Impact Détail Inc. deals with representatives who work at the head office of big companies, such as Loblaws, Sobeys, etc., and awarded subcontracts to Mr. Meunier until June 2010 and, subsequently, to 7547978 Canada Inc.
+[12] The execution of the mandates assigned to Mr. Meunier and his company requires the provision of services by non-specialized workers. The nature of the work to be performed by the workers is determined either on site by the retailer or by a representative of the parent company (e.g. Loblaws), or in advance through planograms, photographs or other detailed descriptions of the floor displays previously provided by the retailer’s parent company.
+[13] Mr. Meunier recruited workers by simple word of mouth, without any interviews, photographs or résumés. Social insurance numbers were requested only when workers agreed to carry out a mandate. Mr. Meunier made a list of the workers and their telephone numbers; the first people on the list were those who had the most availability and the most experience. When workers were needed, Mr. Meunier called the workers on the list and told them the place, date and time of the work.
+[14] No training was provided to the workers and no written contract was entered into with the workers. The workers who were called were free to accept or reject Mr. Meunier’s offer of work. If they rejected it, no sanction was imposed on them. No exclusivity was required on the part of the workers.
+[15] The workers were paid at an hourly rate of $11 to $12 when they were stock clerks or product promoters. Planogrammers earned an additional two dollars per hour. In addition to the hourly wage, workers were paid for the travel time from their place of residence to the place of work and received an allowance for the kilometres driven from their place of residence to the place of work. The hourly rate paid to the workers was the same whether the services were rendered during the day or at night.
+[16] For mandates in remote areas, Mr. Meunier reimbursed travel costs to those who owned a vehicle only if the vehicle was used to transport four workers. Accommodations were reimbursed upon submission of invoices but only if there was double occupancy in the hotel room and meal costs were reimbursed at a fixed allowance of $30 per day.
+[17] Mr. Meunier always had a team leader on work sites to handle communications with the representatives of the retailer and/or the retailer’s parent company, to receive instructions regarding the work to perform and to assign workers to the required tasks. Also, the on-site team leader was responsible for keeping a log of the hours worked by the workers, which had to be countersigned by the retailer’s representative. If a worker was absent, sick or unable to work, the on-site team leader had to find a replacement or communicate with Mr. Meunier so that he could find another worker. On several occasions, Maxim Meunier, Richard Meunier’s son, acted as a team leader for his father’s company on work sites.
+[18] Mr. Meunier also specified that, for tastings, he gave instructions to workers about how to perform their work and he ensured that the kiosks and equipment were safe. Normally, the food was provided by the retailer and cooked on the retailer’s premises. The retailer also provided plates, napkins, linens, utensils, tables and warmers. All of the equipment provided by Mr. Meunier was invoiced to the retailers. Mr. Meunier, however, provided the hats, long pants and t-shirts to the workers assigned to that activity.
+[19] Maxim Meunier also testified at the hearing. He worked for Entreprises Darik from 2005 to 2009 and for 7547978 Canada Inc. in 2011 as a self-employed worker. He did not recall if he had worked for his father in 2010 given that he had been looking for stable work. He confirmed that, when he worked for his father, he performed the same tasks as the other workers, and he benefitted from the same working conditions in terms of pay. He also confirmed that the retailers liked to consult one individual to communicate with the workers assigned to a site.
+[20] Richard Boulay, director and majority shareholder of the company Impact Détail Inc., testified at the hearing. He explained that his company offered a store layout service using planograms designed by wholesalers on behalf of big companies, such as Loblaws, Metro and Sobeys. According to him, he earns 95% of his sales from services performed by his own employees, which currently number around 300 to 350 part-time employees.
+[21] Mr. Boulay stated that he offered subcontracts to Richard Meunier because his company has little presence in the Outaouais region. He has no written contract with Mr. Meunier and the pay offered is an hourly rate with an allowance for meals, accommodation and transportation. When Mr. Meunier agrees to carry out a mandate, the manager at Impact Détail Inc. sends him a confirmation e-mail specifying the retailer’s address, the nature of the work to be performed, the duration of the work, the number of workers required, the date and the time of start of work. On site, the workers perform their work according to the directions of the retailer’s manager or the project lead of the retailer’s parent company, as applicable. Mr. Meunier assigns one of his workers the responsibility of representing the company for communications with the retailer and of recording the hours worked, which must be validated by the retailer.
+[22] Mr. Meunier invoices Impact Détail Inc. for the services rendered under a contract and pays wages to the individuals who worked on the project. Impact Détail Inc. issues an invoice to the retailer’s parent company and pays Mr. Meunier’s invoice.
+[23] Mr. Boulay pointed out that the time between the date a mandate is offered and the date the mandate is carried out was sometimes very short. Often, mandate offers are provided on a Wednesday and services can start Monday of the following week.
+[24] Vicky Brazeau, one of the workers who rendered services for Mr. Meunier, testified at the hearing about the conditions under which her work was performed. She did product tastings and followed planograms submitted by the parent companies of retailers. Furthermore, she sometimes acted as an on-site team leader for Mr. Meunier. Mr. Meunier would give her timesheets accompanied by a route map for getting to the retailer.
+[25] In her testimony, Ms. Brazeau talked about the circumstances surrounding a trip to Sept-Îles when working for Mr. Meunier. She used her car and transported three other workers with her. She was reimbursed for her mileage and her meals but Mr. Meunier had made the hotel room reservation and had paid the cost of the accommodation directly. She did not receive any advances from Mr. Meunier to pay for her travel costs.
+[26] For her services, Ms. Brazeau was paid each week by cheque. No tax was withheld on her pay and she was not entitled to any benefits. She reported the income earned for her services with Mr. Meunier as self-employment earnings.
+[27] Karine Grenier, a trust account examiner with the Canada Revenue Agency (the CRA), and Marie-Josée Simard, an appeals officer with the CRA, testified at the hearing to explain the developments in the file of Mr. Meunier and of the workers from whom he retained services. The initial audit started in June 2011 and it was initiated because of the high number of subcontractors while there were no employees working for the company. In January 2012, Natasha Vermette, the auditor, requested a ruling on the insurability of certain workers from the CRA. After analysis, the CRA found that, during the period in dispute, the workers were employees and that their employment was insurable under paragraph 5(1)(a) of the EIA. Confirmation letters to that effect are dated July 6, 2012. Said rulings were applied to all of the workers, that is, to 105 workers for 2010 and to 70 workers for 2011. Following those rulings, the CRA cancelled the T4As that Mr. Meunier had had his accountant prepare at the beginning of the audit and issued T4s to all of the workers and reassessed them. The T4As contained errors because all of the amounts paid to the workers were treated as fees, including the expense reimbursements for meals, mileage, etc. and the cash advances made to the workers.
+[28] In October 2012, counsel for Mr. Meunier appealed the Minister’s rulings. On May 3, 2013, after the CRA reassessed the workers, it stated that the workers’ employment was insurable employment.
+The law [29] Paragraph 5(1)(a) of the EIA states the following:
+5. (1) Subject to subsection (2), insurable employment is
+(a) employment in Canada by one or more employers, under any express or implied contract of service or apprenticeship, written or oral, whether the earnings of the employed person are received from the employer or some other person and whether the earnings are calculated by time or by the piece, or partly by time and partly by the piece, or otherwise;
+[30] Subsection 5(2) of the EIA provides a list of non-insurable employment. Paragraph 5(2)(i) states that insurable employment does not include employment if the employer and employee are not dealing with each other at arm’s length.
+[31] Subsection 5(3) of the EIA sets out the following rules in cases where the employer and the employee are not dealing with each other at arm’s length:
+(3) For the purposes of paragraph (2)(i),
+(a) the question of whether persons are not dealing with each other at arm’s length shall be determined in accordance with the Income Tax Act; and
+(b) if the employer is, within the meaning of that Act, related to the employee, they are deemed to deal with each other at arm’s length if the Minister of National Revenue is satisfied that, having regard to all the circumstances of the employment, including the remuneration paid, the terms and conditions, the duration and the nature and importance of the work performed, it is reasonable to conclude that they would have entered into a substantially similar contract of employment if they had been dealing with each other at arm’s length.
+[32] The determination of the status of a worker who works in Quebec is governed by the rules of the Civil Code of Québec. The Civil Code of Québec uses the expressions “contract of employment” and “contract of enterprise or for services”, which are defined in articles 2085 and 2098:
+Art. 2085. A contract of employment is a contract by which a person, the employee, undertakes for a limited period to do work for remuneration, according to the instructions and under the direction or control of another person, the employer.
+Art. 2098. A contract of enterprise or for services is a contract by which a person, the contractor or the provider of services, as the case may be, undertakes to another person, the client, to carry out physical or intellectual work or to supply a service, for a price which the client binds himself to pay to him.
+[33] The main characteristic of a contract of enterprise or for services is stated in article 2099 as follows:
+Art. 2099. The contractor or the provider of services is free to choose the means of performing the contract and, with respect to such performance, no relationship of subordination exists between the contractor or the provider of services and the client.
+Analysis [34] Counsel for the appellants first demonstrated, with supporting statistics, that the workers did not work very many days on an annual basis and earned very little. That is normal for casual or part-time work. That factor is, however, not relevant for the purpose of determining the tax status of the workers involved. I would like to note here that the workers of Impact Détail Inc., who perform the same type of work as that performed by the workers and the majority of whom are also part‑time employees, are considered by their employer as employees.
+[35] According to counsel for the appellants, Mr. Meunier and 7547978 Canada Inc. do not exercise any control over the workers. In my opinion, that allegation is incorrect. Mr. Meunier and 7547978 Canada Inc. exercise some control over the workers. First, Mr. Meunier gives instructions to the workers by telling them the work location, the start time, the general nature of the work and the estimated duration of the work. When the work location is far, Mr. Meunier organizes transportation by car based on his requirements, and reserves hotel or motel rooms according to his protocol. In all instances, Mr. Meunier has a team leader on site to keep track of the hours worked by each worker and to facilitate communication with the representative of the retailer or the retailer’s parent company. Specific instructions regarding the work to perform are provided on site by the representative of the retailer or of the parent company or by providing planograms, if not previously provided. Workers are assigned to each required task by the on-site team leader, either alone or together with the representative of the retailer or of the parent company, based on the worker’s experience. If there are complaints or problems, the representative of the retailer or of the parent company contacts the on-site team leader so that he or she can resolve the problem or obtain one or more replacements.
+[36] For workers conducting product demonstrations or tastings, the control exercised by Mr. Meunier is more pronounced because, in addition to providing certain clothing, he must ensure that the workers are safe by ensuring, in particular, that the equipment being used is safe.
+[37] When Mr. Meunier calls workers to offer them work, they have no negotiating power concerning their conditions of employment: over wages, the time the work must be performed or how the work must be performed. Their only choice is to accept or reject the offer of work. The lack of a true negotiating power indicates that there was a relationship of subordination between the workers and Mr. Meunier.
+[38] The main obstacle to recognizing the existence of a contract of enterprise or for services between, on the one hand, Mr. Meunier and 7547978 Canada Inc. and, on the other hand, the workers, stems from the fact that the workers do not have the freedom to choose the means of performing the contracts. The workers have, in fact, no freedom with respect to the means of performing the contracts. The terms and conditions of the work to be performed are in most cases pre‑established by Impact Détail Inc. together with the managers of the parent companies of the retailers. The most prominent example is when planograms are provided. In that case, workers must reproduce the design on the planograms in a very specific way.
+[39] Even if terms for executing contracts came from the retailers or their parents companies, Mr. Meunier had to, under his subcontract with Impact Détail Inc., respect them and ensure that the workers respected them. That contractual relationship results in establishing a relationship of subordination regarding the performance of the employment contract between Mr. Meunier and 7547978 Canada Inc. and the workers. However, control over the results of the work to be performed under a contract was exercised by the retailer’s representative onsite.
+[40] The workers’ intention to be considered self‑employed is not a relevant factor in this case because the relationships with Mr. Meunier and 7547978 Canada Inc. were based on verbal agreements that were not subject to interpretation. Furthermore, said declaration of intent was not corroborated by the conduct of the parties. The absence of a true negotiating power, the direction of the workers in the organization of work, the existence of a relationship of subordination with the workers and the absence of freedom with respect to the means of performing the work are all factors that contradict the declared intent of the workers.
+[41] The application of common law tests, as stated in Wiebe Door Services Ltd. v. Minister of National Revenue, 87 DTC 5025, that is (a) the degree or absence of control exercised by the alleged employer, (b) ownership of the tools, (c) the chance of profit and the risk of loss and (d) the extent to which the work performed by the alleged employees is integrated into the business of the alleged employer, would not have changed the result of the analysis of the determination of the workers’ tax status. The concept of control over workers was examined in the previous paragraphs; the workers did not have to use any tools; the workers had no chance of profit or risk of loss while the factor of integration into the activities of Mr. Meunier’s company is very rarely used and not very determinative.
+[42] For these reasons, I find that the workers were engaged in insurable employment for Mr. Meunier and 7547978 Canada Inc. for the relevant periods. Maxim Meunier also was engaged in insurable employment for his father and 7547978 Canada Inc. because his conditions of employment were similar to those of other workers.
+[43] Consequently, the appeals are dismissed and it is not necessary to consider the alternative argument raised by the respondent that Mr. Meunier and 7547978 Canada Inc. were acting as employment agencies.
+Signed at Ottawa, Canada, this 7th day of May 2015.
+“Réal Favreau”
+Favreau J.
+Translation certified true
+on this 19th day of June 2015
+Janine Anderson, Translator
+CITATION:
+2015TCC111
+COURT FILE NOs.:
+2013-3120(EI), 2013-3117(EI), 2013-3121(EI), 2013-3122(EI), 2013-4177(EI)
+STYLE OF CAUSE:
+Richard Meunier, Maxim Meunier, 7547978 Canada Inc. and M.N.R.
+PLACE OF HEARING:
+Ottawa, Ontario
+DATE OF HEARING:
+September 4 and 5, 2014, and November 10, 2014
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Réal Favreau
+DATE OF JUDGMENT:
+May 7, 2015
+APPEARANCES:
+Counsel for the appellant:
+Chantal Donaldson
+Counsel for the respondent:
+Natasha Wallace
+COUNSEL OF RECORD:
+For the appellant:
+Name:
+Chantal Donaldson
+Firm:
+LeBlanc Donaldson
+Gatineau, Quebec
+For the respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

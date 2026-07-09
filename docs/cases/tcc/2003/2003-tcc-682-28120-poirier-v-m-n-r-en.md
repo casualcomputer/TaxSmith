@@ -1,0 +1,183 @@
+---
+title: "Poirier v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28120/index.do"
+last_modified: "2003-11-13"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 TCC 682"
+citation2: ""
+neutral_citation: "2003 TCC 682"
+decision_date: "2003-11-13"
+language: "en"
+item_id: "28120"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1640
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T17:31:36.796000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "75cf5272f4677cd32717c138552c13d77406b0ad8e2cd60a8b634eef24c57a1b"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Poirier v. M.N.R.
+
+- Citation: 2003 TCC 682
+- Decision date: 2003-11-13
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1640, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Poirier v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-11-13
+Neutral citation
+2003 TCC 682
+File numbers
+2003-210(EI)
+Judges and Taxing Officers
+Brent Paris
+Subjects
+Employment Insurance Act
+Decision Content
+[OFFICIAL ENGLISH TRANSLATION]
+Docket: 2003-210(EI)
+BETWEEN:
+NOËLLA POIRIER,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+SYLVAIN DERASPE,
+Intervenor.
+____________________________________________________________________
+Appeal heard on August 12, 2003, at Hâvre-Aubert, Quebec
+Before: The Honourable Judge Brent Paris
+Appearances:
+Counsel for the Appellant:
+Manon Dubé
+Counsel for the Respondent:
+For the Intervenor:
+Bernard Fontaine
+The Intervenor himself
+________________________________________________________________
+JUDGMENT
+The appeal is allowed and the decision of the Minister is set aside in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 13th day of November 2003.
+"B. Paris"
+Judge Paris
+Translation certified true
+on this 21st day of November 2003.
+Sophie Debbané, Revisor
+[OFFICIAL ENGLISH TRANSLATION]
+Citation: 2003TCC682
+Date: 200301113
+Docket: 2003-210(EI)
+BETWEEN:
+NOËLLA POIRIER,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+SYLVAIN DERASPE,
+Intervenor.
+REASONS FOR JUDGMENT
+Paris, J.
+[1] This is an appeal of a determination by the Minister of National Revenue (the "Minister") dated November 29, 2002, that the Appellant's employment from April 30 to June 2, 2001, with Sylvain F. Deraspe (the "Payor") was not insurable under the Employment Insurance Act (the "Act") because it was excluded under paragraph 5(2)(i). In accordance with subsection 5(3) of the Act, the Minister found that the Appellant and the Payor would not have entered into a substantially similar contract of employment if they had been dealing at arm's length.
+[2] The facts relied upon by the Minister in reaching that decision are set out in paragraph 10 of the Reply to the Notice of Appeal filed by the Respondent, which are as follows:
+[TRANSLATION]
+(a) the payor was working as a fisherman's helper on the boat of his father;
+(b) in 2001, the payor took part in the lobster fishing season, which ran from April 30 to July 14;
+(c) the payor went fishing six days a week—he would leave home on Sunday evening and would return only the following Saturday evening;
+(d) the payor was the spouse of Jeanne D'Arc Poirier;
+(e) Jeanne D'Arc Poirier is the appellant's sister;
+(f) during the period at issue, Jeanne D'Arc Poirier was pregnant and had to stay in bed because of gestational diabetes;
+(g) the appellant was hired as a nanny for her sister's and the payor's three children;
+(h) the appellant's tasks consisted of taking care of the children, doing the housework, washing the clothes and preparing meals;
+(i) the appellant did not have a fixed schedule and worked seven days a week;
+(j) the appellant received a fixed salary of $280 a week;
+(k) the appellant was given room and board;
+(l) the appellant's sister gave birth to a fourth child on June 12, 2001;
+(m) on or about June 14, 2001, the appellant's sister came back home;
+(n) according to the appellant, it took her sister about three weeks to recover from her pregnancy;
+(o) on April 16, 2002, in his statement signed at Human Resources Development Canada (hereinafter HRDC), the payor said that he had stopped paying the appellant on June 2 because he did not have the means to pay her;
+(p) on April 10, 2002, in her statement signed at HRDC, the appellant stated that she had worked for her sister from the end of April to mid-July 2001;
+(q) the appellant stayed at the payor's house until September 2001, without paying for room and board;
+(r) on July 17, 2001, the payor gave the appellant a record of employment, which indicated the following: April 30, 2001, as the first day of work and June 2, 2001, as the last day of work; 175 insurable working hours; and total insurable earnings of $1,400;
+(s) the appellant continued to render services to the payor after the period at issue, without declared earnings, while receiving employment insurance benefits at the same time;
+(t) the appellant's record of employment does not reflect reality with respect to the hours and weeks the appellant actually worked;
+(u) the period that the appellant purportedly worked is not consistent with the period actualy worked.
+[3] The Appellant, the Payor and the Payor's wife (the Appellant's sister) gave evidence on behalf of the Appellant, and Mr. Jean-Claude Favron, an investigator with the Canadian Customs and Revenue Agency (CCRA), was called on behalf of the Respondent.
+[4] The evidence showed that the assumptions set out in subparagraphs 10(a), (b), (d), (e), (f), (g), (h), (j), (k), (l), (m), (p) and (r) were true. The fact that the Appellant worked for her brother-in-law between April 30 and June 2 and was paid for her services is not in dispute. What was also accepted is that the Appellant performed the work for the Payor under a contract of service.
+[5] For the most part, the assumptions that were disputed revolve around whether the Appellant continued to work full time for her brother‑in‑law after June 2 until July 14 without being paid for those services. On this point, the Appellant testified that when she was hired by her brother-in-law, she had been told that she would be working for only five weeks because that was all he could afford and this would cover the period of time until his wife's expected due date.
+[6] When the five weeks were over, Mr. Deraspe told her she was laid off. She was however allowed to continue living at her sister's and brother-in-law's home because she was unable to find other accommodations. She testified that, at the time, her brother Michel was also living at the house and that her brother Leo arrived around the beginning of June. When she stopped working as a housekeeper for her brother-in-law, Michel took on some of the household tasks and her sisters who lived nearby performed others. Also, Sylvain Deraspe was at home more often after June 2, partly because of his wife's difficulties with her pregnancy and also because his work in the lobster fishery was less intense after May. The Appellant said that after June 2, she did far less housework than when she was working, although she did help out with dishes and laundry. She also acknowledged looking after the new baby at night a few times a week.
+[7] The Appellant was also questioned at length regarding her living arrangements at her sister's and brother-in-law's and regarding the payment of room and board during that period. The Appellant's own testimony on this point was rather vague.
+[8] Jeanne D'Arc Poirier, the Appellant's sister, testified that her husband arranged to hire her sister (the Appellant) to take care of her children and do the housework during the last five weeks of her pregnancy. Although the couple's financial situation was tight, they were able to set aside enough money to hire the Appellant for five weeks, from the start of the lobster fishing season until her due date. She needed assistance because she was suffering from gestational diabetes and was required to spend a lot of time resting. She knew she would need help while her husband was away fishing. The Appellant worked until June 2 as agreed but stopped working thereafter because Ms. Poirier and her husband could not afford to pay her after that period. Other family members came to assist Ms. Poirier with the housework both before and after the birth of her child.
+[9] At that time, the Appellant and her brother Michel were staying with the couple at the house and he helped out by looking after the older children. The Appellant’s and Ms. Poirier's sisters also came over to help and, some time later, another brother came to stay. At this time, Sylvain Deraspe also came home more often from fishing. Ms. Poirier said the Appellant also helped out after June 2 but to a far lesser extent than before that date.
+[10] The evidence of Jeanne D’Arc Poirier was largely confirmed by her husband. In particular, he stated that family members helped out from June 2 until he finished fishing in July and that, after June 2, he was able to be home more often to help his wife.
+[11] I find both Jeanne D'Arc Poirier and Sylvain Deraspe to be credible witnesses. Their testimony was clear, consistent and forthright and was not contradicted in cross-examination.
+[12] The issue in this case is whether the Minister made any error in the exercise of his discretion pursuant to subsection 5(3) of the Act. His finding was based largely on the assumption that the Appellant continued to work for the Payor after June 2 until July 14 without receiving any pay. This in turn was based on an answer the Appellant gave in an interview with Mr. Favron that she worked for the Payor for the entire fishing season (from the end of April until mid-July) and took care of household tasks during that period.
+[13] With respect to the Appellant’s statement to Mr. Favron (referred to in subparagraph 10(p) of the Reply), it appears to me that the Appellant was not being precise as to the dates she worked. In her evidence before this Court, the Appellant was often confused about dates and unable to recall with any certainty specific events. Another example of the Appellant’s confusion regarding dates can be found in the notes of the same interview, which show a clear error regarding the year in which the Appellant worked for a different employer (Dixie Lee). Overall, I give little weight to the Appellant’s testimony except to the extent that it is corroborated by Sylvain Deraspe and Jeanne D’Arc Poirier.
+[14] I note that, at the time of the interview, Mr. Favron did not raise with the
+Appellant the discrepancy between the Appellant’s record of employment and her statement nor did he ask her to explain it then. The interview with the Appellant was held almost one year after she worked for the Payor, and it covered three different contracts of employment for three different employers. I also note that there is no evidence that, during his interview with Mr. Favron, the Payor stated that the Appellant had worked after June 2.
+[15] Having regard to all of the evidence, I am satisfied that the Appellant did not continue to work for the Payor after June 2 to the full extent that she had before that date. I find that the tasks that she did carry out were minor in nature and that she was not directed to do these tasks by the Payor. In this respect, I accept the evidence of the Payor and his wife. Each of them stated that the tasks that had been carried out by the Appellant until June 2 were largely taken over by other family members after that date. Any work done by the Appellant after June 2 was done to help out a family member, in much the same way as in Théberge v. M.N.R., [2002] F.C.J. No. 464 (F.C.A.), and should not have been considered by the Minister in his assessment of the conditions of the Appellant’s employment with the Payor.
+[16] The Minister's error on this point went to the heart of the exercise of his discretion and, therefore, I find that the Minister did not exercise his discretion in accordance with the law.
+[17] As such, I am required to proceed to the second stage of the inquiry, which consists of a review of the evidence to determine if a substantially similar contract of employment would have been entered into between the Appellant and the Payor had they been dealing at arm's length.
+[18] The Payor testified that the Appellant’s pay was determined after he called the Provincial Labour Standards Branch to find out what rate of pay was required for a housekeeper. This evidence was not challenged on cross-examination. He also stated that, had the Appellant been unavailable for the job, he would have hired someone else and that he and his spouse had hired a housekeeper in previous years. The evidence also indicates that the Appellant’s hours of work and the duration of the contract were reasonable in light of the Payor's needs. In short, I find that the terms and conditions of the Appellant’s work for the Payor were not affected by the non-arm’s length relationship of the parties.
+[19] For all these reasons, I am satisfied that the Appellant and the Payor would have entered into a substantially similar contract of employment had they been dealing at arm's length.
+[20] The appeal is therefore allowed.
+Signed at Ottawa, Canada, this 13th day of November 2003.
+"B. Paris"
+Judge Paris
+Translation certified true
+on this 21st day of November 2003.
+Sophie Debbané, Revisor
+RÉFÉRENCE :
+2003CCI682
+No DU DOSSIER DE LA COUR :
+2003-210(EI)
+INTITULÉ DE LA CAUSE :
+Noëlla Poirier et M.R.N.
+LIEU DE L'AUDIENCE :
+Hâvre-Aubert (Québec)
+DATE DE L'AUDIENCE :
+le 12 août 2003
+MOTIFS DE JUGEMENT PAR :
+L'honorable juge B. Paris
+DATE DU JUGEMENT :
+COMPARUTIONS :
+Pour l'appelante :
+Me Manon Dubé
+Pour l'intimé :
+Me Bernard Fontaine
+AVOCAT(E) INSCRIT(E) AU DOSSIER:
+Pour l'appelante :
+Nom :
+Me Manon Dubé
+Étude :
+Iles-de-la-Madeleine (Québec)
+Pour l'intimé(e) :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

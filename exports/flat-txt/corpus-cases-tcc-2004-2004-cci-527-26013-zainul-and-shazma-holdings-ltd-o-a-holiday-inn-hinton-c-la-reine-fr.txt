@@ -1,0 +1,242 @@
+Title: Zainul and Shazma Holdings Ltd. o/a Holiday Inn Hinton c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26013/index.do
+Corpus path: corpus/cases/tcc/2004/2004-cci-527-26013-zainul-and-shazma-holdings-ltd-o-a-holiday-inn-hinton-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2004-07-27
+
+# Zainul and Shazma Holdings Ltd. o/a Holiday Inn Hinton c. La Reine
+
+- Citation: 2004 CCI 527
+- Decision date: 2004-07-27
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3746, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Zainul and Shazma Holdings Ltd. o/a Holiday Inn Hinton c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-07-27
+Référence neutre
+2004 CCI 527
+Numéro de dossier
+2003-3229(IT)I
+Juges et Officiers taxateurs
+Terrence O'Connor
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2003-3229(IT)I
+ENTRE :
+ZAINUL AND SHAZMA HOLDINGS LTD.
+s/n HOLIDAY INN HINTON,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu à Edmonton (Alberta), le 15 juin 2004.
+Devant : L'honorable T. O'Connor, juge
+Comparutions :
+Avocat de l'appelante :
+Me James C. Yaskowich
+Avocate de l'intimée :
+Me Julie Rogers-Glabush
+____________________________________________________________________
+JUGEMENT
+L'appel de la cotisation établie en vertu de la Loi de l'impôt sur le revenu pour l'année d'imposition 1998 est admis avec dépens selon les motifs de jugement ci-joints.
+Signé à Ottawa, Canada, ce 27e jour de juillet 2004.
+« T. O'Connor »
+Juge O'Connor
+Traduction certifiée conforme
+ce 18e jour de mars 2005
+Jacques Deschênes, traducteur
+Référence : 2004CCI527
+Date : 20040727
+Dossier : 2003-3229(IT)I
+ENTRE :
+ZAINUL AND SHAZMA HOLDINGS LTD.,
+s/n HOLIDAY INN HINTON,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge O'Connor
+[1] Dans cet appel, il s'agit de savoir si, pour l'année d'imposition qui a pris fin le 31 décembre 1998, l'appelante est redevable du paiement d'impôts de non-résidents de 7 871,17 $, plus des intérêts de 3 491,60 $ et une pénalité de 787,17 $ à l'égard du versement d'une somme de 78 717,60 $CAN à une société américaine appelée Holiday Hospitality Franchising, Inc., ladite somme de 78 717,60 $ représentant le montant total d'un [TRADUCTION] « droit de licence unique » payé par l'appelante à l'égard de la demande qu'elle avait présentée en vue d'acquérir une franchise Holiday Inn pour un hôtel qu'elle possédait, le Greentree Lodge, à Hinton (Alberta). Les dispositions pertinentes de la Loi de l'impôt sur le revenu sont l'alinéa 212(1)d) et le sous-alinéa 212(1)d)(i).
+[2] Voici les faits les plus pertinents, qui sont tirés des observations écrites de l'appelante :
+[TRADUCTION]
+5. Voici une liste des faits qui ont été plaidés et admis par les parties. Lorsque les faits plaidés dans l'avis d'appel n'ont pas initialement été admis par l'intimée, ces faits, tels qu'ils ont été modifiés et énoncés de nouveau par l'intimée, sont maintenant admis ci-dessous par l'appelante. Les numéros qui précèdent les paragraphes ci-dessous correspondent aux paragraphes de l'avis d'appel et les numéros qui suivent les paragraphes ci-dessous correspondent aux paragraphes de la réponse.
+[1] L'appelante a été constituée en société conformément aux lois de l'Alberta le 1er octobre 1997; elle exploite divers hôtels en Alberta [paragraphe 1].
+[2] Pendant la période visée par le présent avis d'appel, toutes les actions émises et en circulation de l'appelante appartenaient à Afzal Rajan [paragraphe 1].
+[3] L'appelante a exploité une entreprise connue sous le nom de Greentree Lodge, qui était un hôtel situé à Hinton, du 3 juillet 1998 au 11 novembre 1999; le Greentree Lodge a alors commencé à être exploité en tant qu'hôtel faisant partie de la chaîne Holiday Inn (cet hôtel est appelé dans les présentes le « Holiday Inn Hilton » ) [paragraphe 1].
+[4] Au début du mois d'août 1998, l'appelante a présenté une demande à Holiday Hospitality Franchising Inc. ( « Franchising Inc. » ) en vue d'acquérir une franchise Holiday Inn pour le Holiday Inn Hilton. Franchising Inc. est une entité établie aux États-Unis qui s'occupe d'accorder des franchises Holiday Inn [paragraphe 2].
+[5] Dans le cadre de la demande qu'elle a soumise à Franchising Inc., l'appelante était tenue de verser à Franchising Inc. un droit de licence initial unique (le « droit de licence unique » ) de 78 717,60 $CAN (52 000 $US). Le droit de licence était calculé en fonction d'un taux fixe de 500 $US par chambre au Holiday Inn Hilton [paragraphe 2].
+[6] L'appelante n'a pas effectué de retenue et n'a pas versé de montant à l'Agence des douanes et du revenu du Canada (l' « ADRC » ) à l'égard du droit de licence unique [paragraphe 1].
+[7] La demande de l'appelante a été agréée et le Holiday Inn Hilton a commencé à être exploité le 11 novembre 1999 [paragraphe 1].
+[8] Dans le cadre du contrat de franchisage qu'elle a conclu avec Franchising Inc., l'appelante est tenue de verser à Franchising Inc. des droits de franchise (les « droits de franchise » ) représentant 10 p. 100 du montant tiré chaque mois de la location de chambres au Holiday Inn Hinton [paragraphe 1].
+[9] Les droits de franchise sont payés à peu près chaque mois et l'appelante a toujours retenu un montant représentant 10 p. 100 des montants versés à Franchising Inc. et a versé ce montant à l'ADRC conformément à l'alinéa 212(1)d) et au paragraphe 215(1) de la Loi de l'impôt sur le revenu (Canada) (la « Loi » ) et à l'article XII de la Convention fiscale Canada - États-Unis (la « convention » ) au plus tard le 15e jour du mois suivant le mois du paiement [paragraphe 1].
+[10] Par l'avis de cotisation de non-résident no 6200958 (la « cotisation de 1998 » ) daté du 12 décembre 2002, le ministre du Revenu national (le « ministre » ) a établi une cotisation à l'égard de l'appelante pour son année d'imposition ayant pris fin le 31 décembre 1998 à l'égard d'un impôt de non-résident de 7 871,76 $ (le « montant de la cotisation de 1998 » ) [paragraphe 1].
+[11] La cotisation de 1998 comprenait également des pénalités de 787,17 $ pour « omission d'effectuer les retenues » et des intérêts de 3 491,60 $ [paragraphe 1].
+[12] En arrivant au montant de la cotisation de 1998, le ministre a pris la position selon laquelle le droit de licence unique était « un loyer, une redevance ou un paiement semblable » et qu'il était donc assujetti à une retenue de 10 p. 100 à valoir sur l'impôt conformément à l'alinéa 212(1)d) et au paragraphe 215(1) de la Loi ainsi qu'à l'article XII de la convention [paragraphe 1].
+[...]
+[3] Les faits suivants ont également été établis :
+[TRADUCTION]
+6. L'appelante a obtenu comme suit sa licence en vue d'exploiter le Holiday Inn Hilton :
+a) Le 4 août 1998, l'appelante a présenté à Franchising Inc. une demande en vue d'obtenir une licence l'autorisant à exploiter un Holiday Inn (la « demande » ). Franchising Inc. connaissait l'appelante étant donné que celle-ci avait demandé, et obtenu, une franchise Holiday Inn en 1994 pour une propriété qu'elle possédait dans le Sud d'Edmonton (Alberta).
+b) Une « lettre de demande » , incluse à la page 16 de la demande, indique que l'appelante reconnaissait les points ci-après énoncés et qu'elle en convenait avec Franchising Inc. :
+(i) l'appelante devait signer et observer le contrat de licence si la demande était agréée [paragraphe 3];
+(ii) Franchising Inc. ne concluait pas, à l'égard des licences ou des questions concernant les licences, d'ententes verbales selon lesquelles une licence proposée devait prendre effet uniquement au moment de la signature du contrat de licence; aucune entente verbale n'a été conclue entre l'appelante et Franchising Inc. au sujet d'une licence proposée [alinéas 4a) et 4c)];
+(iii) un « droit de demande » (le droit de licence unique) avait été versé à Franchising Inc., le montant y afférent devant être utilisé au gré de [Franchising] Inc.; ce montant ne devait être remboursé que si la demande était refusée, après déduction d'un « droit de traitement de la demande » non remboursable [alinéa 4e)]; et
+(iv) Franchising Inc. n'avait envers l'appelante aucune obligation en vertu de la demande, si ce n'est qu'elle devait remettre le montant afférent au droit de demande, après déduction du « droit de traitement de la demande » [alinéa 4f)].
+c) [...]
+d) Après avoir reçu la demande au mois d'août 1998, Franchising Inc. a procédé à une inspection du « Greentree Inn » tel qu'il était alors exploité conformément à son programme d'amélioration des propriétés (le « PAP » ). Le PAP visait à faire en sorte qu'une propriété particulière satisfasse aux normes de Franchising Inc. En particulier, le PAP identifiait les « points faibles » exigeant une amélioration de la part de l'hôtel, pour ce qui est de la propriété ou des services.
+e) Dans le cadre du PAP, l'appelante et Franchising Inc. ont négocié les améliorations demandées. Une fois achevé le PAP, l'appelante a obtenu le compte rendu; elle pouvait accepter les conditions du PAP et poursuivre le processus de demande ou elle pouvait rejeter le PAP et mettre fin au processus. L'appelante a décidé de poursuivre le processus de demande.
+f) Après avoir examiné et accepté le compte rendu, l'appelante a fait part de son acceptation à Franchising Inc. et a fait parvenir à celle-ci un montant de 52 000 $US (78 717,60 $CAN) au titre du droit de licence unique. L'appelante savait que Franchising Inc. pouvait conserver le montant afférent au droit de licence unique dès qu'elle le recevait, sauf si elle rejetait la demande, auquel cas le montant était en partie remboursé.
+g) Sur réception du droit de licence unique, un comité de Franchising Inc. (le « comité de franchisage » ) a examiné la demande. Le rôle du comité de franchisage était le suivant :
+(i) examiner le compte rendu qui avait été négocié entre les parties et déterminer si Franchising Inc. était prête à accorder à l'appelante une renonciation à l'égard des normes de Franchising Inc.;
+(ii) examiner le dossier de l'appelante pour déterminer si elle était en mesure d'exploiter une franchise Holiday Inn; et
+(iii) examiner l'emplacement de l'hôtel Holiday Inn proposé et déterminer si l'octroi de la franchise allait nuire à des hôtels de la chaîne Holiday Inn existants. En particulier, Franchising Inc. devait solliciter des commentaires et examiner les commentaires ou « objections » qui étaient faits par les franchisés existants.
+h) Le comité de franchisage a ensuite informé l'appelante que sa demande avait été acceptée.
+i) Une fois la demande acceptée, l'appelante et Franchising Inc. ont négocié et conclu un « contrat de licence de transformation en hôtel Holiday Inn » (le « contrat de licence » ) daté du 30 septembre 1998.
+7. Les dispositions du contrat de licence qui sont ici pertinentes étaient notamment les suivantes :
+a) Octroi de la licence (article 2) - « Le donneur de licence accorde par les présentes au preneur de licence une licence non exclusive l'autorisant à utiliser le système pour l'hôtel seulement, mais uniquement conformément à la présente licence et uniquement pendant la « durée de la licence » , soit à compter de la date des présentes jusqu'à la date stipulée au paragraphe 12 des présentes. » [...]
+b) Droits (article 3.C.1 dans sa forme modifiée) - « Pendant chaque mois (ou partie de mois) où la licence est en vigueur, le preneur de licence versera au donneur de licence au plus tard le 15e jour du mois suivant :
+(i) une redevance correspondant à 4,5 p. 100 des recettes brutes attribuables à la location des chambres de l'hôtel ou payables pour la location de ces chambres, après déduction uniquement des taxes de vente et des taxes associées aux chambres (les « recettes brutes provenant des chambres » ) [...]
+(ii) une « cotisation relative aux services » correspondant à 2,5 p. 100 des recettes brutes provenant des chambres, devant être utilisée par le donneur de licence aux fins de la mise en marché, des réservations et d'autres activités connexes qui, selon ce que le donneur de licence estime propice aux intérêts à long terme du système, appuient la mise en marché, les réservations et d'autres fonctions connexes. Les frais qu'un preneur de licence engage aux fins de l'acquisition, de l'installation ou du maintien des services de réservation, du matériel ou de la formation, ou encore dans le cadre de ses propres activités de mise en marché, ne constituent pas un paiement de la « cotisation relative aux services » [...]
+(iii) un droit mensuel de 6,43 $ à l'égard du système de réservations pour chaque chambre de l'hôtel, plus toute augmentation jugée raisonnable par le donneur de licence;
+(iv) tout droit exigible pour les programmes de commissions versées aux agents de voyages ainsi que pour le programme de l'association de mise en marché des hôtels et pour le programme coopératif de mise en marché sur les lieux attribuables à l'hôtel; toutefois, ce droit n'excède en aucun cas, au cours d'une année civile, 10 p. 100 du droit en vigueur au début de l'année en cause; et
+(v) un montant égal au montant des taxes de vente, des taxes sur les recettes brutes et des taxes similaires imposées au donneur de licence, calculées uniquement sur les paiements exigés en vertu des présentes, à moins que la taxe ne constitue une solution de rechange facultative par rapport à un impôt sur le revenu par ailleurs payable par le donneur de licence.
+Le preneur de licence exploitera l'hôtel de façon à maximiser les recettes brutes provenant des chambres de l'hôtel conformément aux bonnes pratiques commerciales et aux pratiques de l'industrie et ne se livrera pas à une conduite ayant pour effet de réduire les recettes brutes provenant des chambres de l'hôtel afin de promouvoir d'autres activités commerciales. »
+c) Droits (article 3.C.2) - « Un droit initial courant, tel qu'il est prévu dans la circulaire d'offre alors en vigueur du donneur de licence à l'intention des franchisés éventuels, sera exigé au moment de la demande à l'égard de toute chambre qui doit être ajoutée à l'hôtel. »
+d) Droits (article 3.C.5) -- « Chaque paiement effectué en vertu du paragraphe 3.C, sauf le droit initial courant, sera accompagné de l'état mensuel mentionné au paragraphe 8.A. [...] »
+e) Changement de propriétaire [...]
+f) Changement de propriétaire [...]
+g) Paiement de dommages-intérêts prédéterminés [...]
+h) Exécution du travail [...]
+[...]
+Observations écrites de l'appelante
+[4] L'avocat des appelantes a soumis plusieurs arguments. À mon avis, les arguments les plus pertinents figurent au paragraphe 19 et suivants des observations écrites de l'avocat. Ces paragraphes sont ainsi libellés :
+[TRADUCTION]
+[...]
+19. S'il est reconnu que l'alinéa 212(1)d) ne doit pas être interprété d'une façon libérale, il est soutenu que la cotisation établie par le ministre doit être rejetée parce que le droit de licence unique n'est pas visé par une définition reconnue de ce qui constitue un « loyer » ou une « redevance » . Dans l'arrêt H.M.Q. v. Saint John Shipbuilding, la Cour d'appel fédérale a statué qu'un droit payé pour l'utilisation indéfinie et illimitée d'enregistrements contenant des données techniques, y compris les manuels de l'usager et de programmation, ne constituait ni un loyer ni une redevance. La même conclusion a été tirée dans l'arrêt Farmparts au sujet de cette question stricte.
+H.M.Q. v. Saint John Shipbuilding, 1980 CarswellNat 257, [1980] C.T.C. 352 (C.A.F.), paragraphes 14 et 15, onglet 9.
+H.M.Q. v. Farmparts Distributing Ltd., paragraphe 23 et décisions citées, onglet 2.
+20. Enfin, sur ce point, nous adoptons le raisonnement fait par Duncan Osborne dans un article intitulé « Revisiting Royalties in the Age of Electronic Commerce » où, à la page 440, l'auteur fait les commentaires suivants au sujet de la politique de l'Agence du revenu du Canada se rapportant aux « redevances » versées au moyen d'une somme forfaitaire, lesquels sont semblables aux remarques que la Cour d'appel fédérale a faites dans l'arrêt Farmparts, dont il a ci-dessus été question :
+Selon la position administrative de Revenu Canada, le préambule de la disposition « y compris, sans préjudice de la portée générale de ce qui précède, un paiement fait » a pour effet d'assujettir à la disposition tout paiement mentionné aux sous-alinéas 212(1)d)(i) à (v), ce paiement n'ayant pas à être un loyer, une redevance ou un paiement semblable. En effet, Revenu Canada étend l'application du sous-alinéa 212(1)d)(i) en vue d'inclure tout paiement, y compris un paiement unique ou un paiement sous forme de somme forfaitaire, effectué en vue d'obtenir le droit d'utiliser au Canada des biens, etc., et ce, indépendamment de la question de savoir si le montant est considéré comme un loyer, comme une redevance ou comme un paiement semblable.
+Cette interprétation ne saurait être correcte. Si un paiement effectué pour l'usage d'un bien ou le droit d'utiliser un bien est assujetti à une retenue en vertu du sous-alinéa 212(1)d)(i), les mots « loyer, redevance ou paiement semblable » ne riment à rien. En outre, le libellé de la disposition n'étaye pas l'interprétation donnée par Revenu Canada. Les mots « y compris, sans préjudice de la portée générale de ce qui précède, un paiement fait » donnent à entendre que les paiements visés au sous-alinéa 212(1)d)(i) ne peuvent pas avoir une portée plus générale que ceux qui sont implicitement prévus au début de la disposition. L'interprétation donnée par Revenu Canada aboutit au résultat contraire [renvois omis].
+Revisiting Royalties in the Age of Electronic Commerce, (précité), page 440, onglet 4.
+L'usage d'un bien ou le droit d'utiliser un bien - sous-alinéa 212(1)d)(i)
+21. Si la présente cour conclut que le droit de licence unique ne constitue pas un paiement de la nature d'un loyer, d'une redevance ou d'un paiement semblable pour l'application du sous-alinéa 212(1)d), et si elle conclut que le paiement se rapporte à « des biens, inventions, appellations, brevets, marques de commerce, dessins ou modèles, plans, formules secrètes, procédés de fabrication, ou toute autre chose » pour l'application du sous-alinéa 212(1)d)(i), il est soutenu que le droit de licence unique n'a pas été payé par l'appelante « en vue d'utiliser, ou d'obtenir le droit d'utiliser, au Canada » le bien ci-dessus mentionné.
+22. Le droit de licence unique a été versé uniquement afin de satisfaire aux exigences de la demande qui étaient imposées par Franchising Inc. Le seul acte que Franchising Inc. était tenue d'accomplir pour obtenir le droit était d'accepter l'appelante à titre de franchisée. Après avoir agréé la demande et avoir obtenu le droit de conserver le droit de demande, Franchising Inc. et l'appelante étaient libres de conclure le contrat de licence qui établirait les relations juridiques.
+23. Le contrat de licence énonce toutes les dispositions régissant la relation qui existe entre l'appelante et Franchising Inc. En échange du savoir-faire et des autres services que Franchising Inc. devait fournir à l'appelante, l'appelante s'engageait à payer un droit qui était dans l'ensemble fonction du chiffre d'affaires attribuable à l'exploitation de l'hôtel.
+24. Il est soutenu qu'aucune partie du droit de licence unique n'a été payée pour l'un des services ou le droit d'utiliser un bien de Franchising Inc., lesquels étaient régis par le contrat de licence.
+25. Dans la décision Brad-Lea Meadows Ltd. v. M.N.R., la Cour canadienne de l'impôt a conclu qu'un « droit d'affiliation » unique destiné à compenser le coût de certains services fournis aux nouveaux franchisés par le franchiseur, comme la formation, la publicité, la conception et d'autres questions, ne constituait pas une « redevance » parce qu'il était composé de nombreux éléments et notamment des « droits relatifs aux services » . Au paragraphe 16, la Cour a dit ce qui suit :
+Le procureur du ministre a insisté sur les mots « tout paiement » , mais il faut lire ces mots à la lumière de ce qui suit : « en vue d'utiliser, ou d'obtenir le droit d'utiliser, au Canada etc. » La plupart des services décrits en contrepartie des frais d'affiliation versés ne comprennent aucune « utilisation » mais sont des services que le contribuable est libre d'utiliser au besoin. Le soi-disant « package deal » ne comprend donc pas tous les éléments énumérés au sous-alinéa 212(1)d)(i). Il en résulte que, puisque aucune répartition n'a été effectuée, le contribuable doit obtenir gain de cause. La Cour n'a pas à décider quels éléments, s'il y en a, sont des redevances.
+Brad-LeaMeadows Ltd. v. M.N.R., 1990 CarswellNat 285, [1990] 1 C.T.C. 2306 (C.C.I.), paragraphe 16, onglet 10.
+26. Dans la décision Brad-Lea Meadows Ltd., il s'agissait de savoir si le paiement effectué à l'égard de services constituait un paiement effectué en vue d'avoir le « droit d'utiliser » un bien. La Cour de l'impôt a conclu qu'un tel paiement ne satisfaisait pas au critère. De la même façon, il est soutenu que pour que l'on puisse dire qu'un paiement est fait « en vue d'utiliser, ou d'obtenir le droit d'utiliser des biens ou toute autre chose » , il doit exister un bien du non-résident qui peut être utilisé par le résident dans un cas particulier, ou qu'il doit y avoir un bien que le résident a le droit d'utiliser.
+27. Le droit de licence unique n'a pas été payé pour l' « utilisation » d'un bien étant donné qu'il n'y avait pas de bien de la non-résidente Franchising Inc. qui était utilisé par l'appelante au moment de la présentation de la demande et qu'il n'y avait pas de bien que l'appelante avait le droit d'utiliser.
+28. Le droit de l'appelante d'utiliser le bien du franchiseur ne prenait naissance qu'une fois signé le contrat de licence et uniquement après qu'il eut été satisfait, immédiatement ou dans le délai fixé, à toutes les obligations de l'appelante stipulées dans le contrat de licence. En particulier, les alinéas 4a) à c) de la demande et l'alinéa 14(I) du contrat de licence montrent clairement que la capacité d'exploiter un hôtel en tant que membre de la chaîne Holiday Inn dépend expressément de la conclusion du contrat de licence et de l'exécution du « travail » tel qu'il est défini.
+29. Compte tenu des remarques qui précèdent, il est soutenu qu'aucune partie du droit de licence unique n'a été payée en vue d'avoir l'usage d'un bien ou le droit d'utiliser un bien et que le sous-alinéa 212(I)d)(i) ne s'applique pas en vue d'assujettir le droit de licence unique à l'impôt.
+[...]
+Observations écrites de l'intimée
+[5] Après avoir examiné les faits qui n'étaient généralement pas contestés, l'intimée a soumis les observations écrites suivantes :
+[TRADUCTION]
+[...]
+D. Argumentation
+I. Le paiement constituait un droit initial de franchise versé aux fins de l'obtention d'une licence
+21. Le droit de franchise était la contrepartie payée aux fins de l'obtention du contrat de franchise. Le contrat de franchise confère le droit d'utiliser les éléments énumérés à l'alinéa 212(1)d). Cela étant, le paiement est assujetti à la retenue conformément au paragraphe 215(1).
+22. Le document de divulgation de l'Ontario indique clairement que le franchiseur considère le droit comme un droit de franchise initial.
+23. Le franchiseur est tenu, en vertu de la Franchises Act de l'Alberta, de divulguer le droit de franchise initial et les autres droits. Le franchiseur divulgue expressément ce paiement en tant que tel ainsi que la redevance de 5 p. 100.
+Onglet 2, annexe 1, paragraphe 7.
+Document de divulgation, pièce 2, page 7.
+24. Le franchiseur est également tenu de communiquer ses états financiers. Selon l'état des résultats qui a été déposé, le « droit de franchise initial » est déclaré à titre de recettes. Le sommaire des principales conventions comptables indique clairement que ce « droit de franchise initial est reconnu comme constituant un revenu au moment de la signature du contrat de franchisage [...]; tant que ce contrat n'est pas signé, tout droit initial est versé [...] à titre d'arrhes » . Si le droit initial comportait un élément de « service » continu, le paiement initial n'aurait pas été reconnu à titre de revenu en 1999; seule la partie se rapportant aux aspects du contrat qui avaient été exécutés aurait été reconnue à titre de revenu. La partie du paiement se rapportant à la prestation future de services aurait été créditée au compte de produit reporté du franchiseur.
+Onglet 2, annexe 1, paragraphe 21.
+Pièce 2, pièces B-6 et B-10.
+25. Il importe également de noter que si le droit initial était simplement un droit de demande, il aurait été reconnu à titre de revenu en 1998, lorsqu'il a été reçu par le franchiseur. Il ne serait pas nécessaire de reporter la somme à titre de revenu jusqu'à 1999.
+26. En outre, le franchiseur fait clairement savoir que le droit se rapporte à une « licence type » . Le franchiseur énonce également séparément les droits à payer pour les services fournis par le franchisé.
+Document de divulgation, pièce C-1, et pages 8 à 11.
+27. Le franchisé a joint le contrat de licence, qui indique clairement qu'il vise les questions énumérées au sous-alinéa 212(1)d)(i). Ainsi, le contrat de licence stipule ce qui suit :
+a) « Le preneur de licence désire conclure le présent contrat afin d'obtenir une licence l'autorisant à utiliser le système dans le cadre de l'exploitation de la marque précise d'hôtel [...] » ;
+b) « Le donneur de licence accorde par les présentes au preneur de licence une licence non exclusive l'autorisant à utiliser le système » , dans laquelle le « système » est défini;
+c) « Le système est composé de tous les éléments qui sont destinés à identifier les hôtels Holiday Inn [...] et de tous les éléments qui identifient ou reflètent les normes de qualité et les pratiques commerciales de pareils hôtels, [...] des marques de commerce [...] »
+Document de divulgation, pièces G-5 et G-6.
+28. Le paiement initial est excessif lorsqu'il s'agit de couvrir les frais administratifs associés au traitement d'une demande de licence. Il est également contestable que le droit représente un droit de demande compte tenu de la méthode employée aux fins de la détermination du montant (laquelle est fondée sur le nombre de chambres) et de la façon dont le montant varie selon le type de franchise acquise, un montant minimum étant par ailleurs stipulé, et compte tenu du fait que le droit de franchise est remboursable.
+29. Selon la demande de licence, le « droit de demande » est remboursé si la demande est retirée ou si elle est refusée, après déduction du « droit de traitement de la demande visant les frais engagés par HHFI dans le cadre du traitement de la demande, tel qu'ils sont déterminés par HHFI » .
+Document de l'appelante, demande de licence, alinéa 4e).
+II. Paiement inclus par application de la loi - alinéa 212(1)d), sous-alinéa 212(1)d)(i)
+30. Un examen de la structure de l'alinéa 212(1)d) montre que le législateur, par application de la loi, avait clairement l'intention d'inclure les éléments énumérés aux alinéas (i) à (v) et d'exclure les éléments énumérés aux alinéas (vi) à (xi), par définition, dans le sens des mots « loyer, redevance ou paiement semblable » .
+La Reine c. Farmparts Distributing Ltd. (intimée), [1980] 2 C.F. 206 (C.A.F.), aux paragraphes 9 et 11. Hasbro Canada Inv. c. Canada, [1998] A.C.I. no 948 au paragraphe 16, 1998 CarswellNat 2082 au paragraphe 18 (dossiers de l'appelante); The Queen v. Saint John Shipbuilding & Dry Dock Co. Ltd., 80 D.T.C. 6272 (C.A.F.) à la page 6274.
+31. L'alinéa 212(1)d) devrait être interprété d'une façon libérale. Dans la décision United Geophysical, le juge Thurlow a fait la remarque suivante :
+[TRADUCTION] Il est, je pense, apparent par suite de l'emploi dans l'article du libellé qui suit les termes « loyer » et « redevance » que le législateur n'entendait pas restreindre le genre de revenu mentionné dans le paragraphe à ce que strictement on aurait pu appeler un « loyer » ou une « redevance » [...] Il me semble donc que [l'alinéa 212(1)d)] vise tout paiement similaire à un loyer mais qui serait payable dans le cas d'un bien meuble.
+32. Dans l'arrêt Farmparts, la Cour d'appel fédérale a souscrit à la position de la Couronne selon laquelle la modification apportée à la disposition en 1968 avait pour effet d'élargir la portée de l'alinéa 212(1)d). À l'heure actuelle, un paiement, qu'il s'agisse d'un paiement unique ou d'une somme forfaitaire, est assujetti à la disposition, et ce, peu importe qu'il appartienne à la catégorie des loyers, des redevances ou des paiements semblables. Il en est ainsi à cause des mots suivant immédiatement le début de l'alinéa 212(1)d), à savoir « y compris, sans préjudice de la portée générale de ce qui précède, un paiement fait » .
+La Reine c. Farmparts Distributing Ltd. (intimée), [1980] 2 C.F. 206 (C.A.F.), aux paragraphes 10 à 12.
+33. Le commentaire accompagnant l'article 12 du Modèle de convention fiscale concernant le revenu et la fortune de l'OCDE indique clairement que les droits de franchise sont le type de paiement visé par la disposition concernant les redevances.
+OCDE, Modèle de convention fiscale concernant le revenu et la fortune de l'OCDE, commentaire portant sur l'article 12 concernant l'imposition des redevances, au paragraphe 11.6.
+34. En outre, même si la Convention fiscale Canada - États-Unis exclut expressément de la retenue d'impôt les paiements pour l'usage ou la concession de l'usage d'un brevet ou d'informations ayant trait à une expérience industrielle, commerciale ou scientifique, la convention prévoit clairement que cette exclusion ne s'applique pas aux informations fournies dans le cadre d'un contrat de franchisage.
+III. Les paiements sous forme de somme forfaitaire sont envisagés à l'alinéa 212(1)d)
+35. Il importe peu de savoir si le paiement en question est fondé sur l'utilisation ou sur les profits ou s'il s'agit d'un paiement périodique. Il suffit qu'il s'agisse d'un paiement inclus aux alinéas (i) à (v) et qu'il ne soit pas exclu en vertu des alinéas (vi) à (xi).
+The Queen v. Farmparts Distributing Ltd., 80 DTC 6157 (C.A.F.).
+36. Dans la décision Vauban Productions, le contribuable payait un montant fixe pour chaque film à l'égard des droits de distribution, et ce, indépendamment de son utilisation. La Cour a statué que, parce que les droits n'avaient pas tous été cédés, les paiements étaient effectués au titre de la location et qu'ils étaient assujettis à la retenue d'impôt. Les faits sont comparables aux faits de la présente espèce.
+Vauban v. R., [1975] C.T.C. 5111 (C.F. 1re inst.); confirmé par [1979] C.T.C. 262 (C.A.F.).
+37. En outre, dans l'arrêt Drydock, la Cour d'appel fédérale a statué qu'un paiement effectué au titre de la location ou à titre de redevance peut faire l'objet d'une retenue d'impôt, et ce, même si une somme forfaitaire est en cause, à condition que le paiement ne soit pas effectué pour l'utilisation du bien pendant une période indéfinie. En l'espèce, le paragraphe 12 du contrat de licence prévoit une durée déterminée.
+Document de divulgation, page G-27.
+La Reine c. Saint John Shipbuilding & Dry Dock Co. Ltd., [1981] 1 C.F. 334 (C.A.F.).
+IV. Divisibilité du droit
+38. Dans certains cas, les tribunaux ont statué qu'il incombe au ministre de séparer les éléments du paiement qui se rapportent à des choses autres qu'un bien, par exemple des services, lesquels ne sont pas assujettis à la retenue d'impôt.
+The Queen v. Farmparts Distributing Ltd., 80 DTC 6157 (C.A.F.).
+39. Toutefois, en l'espèce, les éléments afférents au service du contrat de franchisage sont payés séparément et ne sont pas inclus dans le paiement initial qui est en cause. Dans l'affaire Farmparts, le paiement se rapportait principalement à des services. En outre, dans l'affaire Farmparts, le droit n'était pas déterminé par rapport au volume. Il s'agissait d'un droit fixe. En l'espèce, le droit est calculé en fonction du nombre de chambres.
+Document de divulgation, à la page 8.
+40. Il est clair que le paiement initial s'applique uniquement à la licence type.
+Document de divulgation, pièce C-1.
+41. Il est également clair que le paiement initial n'est pas un simple droit de demande en ce sens que le paiement par chambre est réduit si la licence n'est en vigueur que pour une période de 25 à 60 mois. En outre, le montant, moins les frais d'administration, est remboursé si la demande n'est pas agréée.
+Document de divulgation, aux pages 7 et 8.
+42. Il est en outre soutenu que même si certains éléments se rapportant à un service étaient inclus dans le paiement initial, ce qui est nié, il est établi en droit international qu'à l'égard des contrats de franchisage, dans le contexte des redevances, si une partie de ce qui est fourni constitue l'objet principal du contrat et que les autres parties sont uniquement accessoires et ont fort peu d'importance, le traitement applicable à la partie principale devrait généralement s'appliquer à l'ensemble du montant de l'indemnité - il n'est pas nécessaire de procéder à une ventilation.
+OCDE, Modèle de convention fiscale concernant le revenu et la fortune de l'OCDE, commentaire portant sur l'article 12 concernant l'imposition des redevances, au paragraphe 11.6.
+43. Quoi qu'il en soit, il n'est pas possible de séparer les éléments « biens » du droit initial des éléments ne se rapportant pas à un bien étant donné que l'appelante n'a pas fourni au vérificateur ou à l'agent des appels de renseignements au sujet de l'objet du droit. De plus, l'avis d'appel modifié ne soulève pas de faits ou de questions se rapportant aux utilisations non imposables d'une partie du paiement. Il est expressément fait mention du fait que le paiement « n'était aucunement effectué aux fins visées au sous-alinéa 212d)(i) » .
+Analyse et conclusion
+[6] À mon avis, les observations de l'avocat de l'appelante sont exactes. Le droit de demande ou le droit initial de licence n'est pas de la nature d'un loyer, d'une redevance ou d'un paiement semblable. Il s'agissait d'un droit payé au moment de la présentation d'une demande de franchise par opposition à un paiement effectué après qu'une franchise a été accordée; en l'espèce, après que la franchise a été accordée, certaines redevances ont été payées et elles étaient assujetties à une retenue d'impôt de 10 p. 100. Fondamentalement, le droit de demande ne constitue pas un loyer ou une redevance, mais constitue plutôt une indemnité quelconque versée à Franchising Inc. pour la dédommager des frais liés à l'examen approfondi effectué dans le cadre du PAP, dont il a ci-dessus été fait mention. En d'autres termes, on a consacré énormément de temps et d'efforts et probablement beaucoup d'argent à l'analyse de la situation de l'appelante et ce n'est qu'après que l'analyse eut révélé qu'il convenait d'accorder une licence que la licence a en fait été accordée et que la relation continue entre Holiday Inn et l'appelante a pris naissance. Le droit de demande était simplement un droit de demande, un droit initial, et il ne s'agissait certes pas d'un loyer ou d'une redevance.
+[7] Je suis également convaincu du bien-fondé de la position que l'avocat de l'appelante a prise au sujet du sous-alinéa 212(1)d)(i).
+[8] Pour les motifs susmentionnés, l'appel est admis avec dépens.
+Signé à Ottawa, Canada, ce 27e jour de juillet 2004.
+« T. O'Connor »
+Juge O'Connor
+Traduction certifiée conforme
+ce 18e jour de mars 2005
+Jacques Deschênes, traducteur
+RÉFÉRENCE :
+2004CCI527
+No DU DOSSIER DE LA COUR :
+2003-3229(IT)I
+INTITULÉ :
+Zainul et Shazma Holdings Ltd. s/n Holiday Inn Hinton et
+Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+Edmonton (Alberta)
+DATE DE L'AUDIENCE :
+Le 15 juin 2004
+MOTIFS DU JUGEMENT :
+L'honorable T. O'Connor
+DATE DU JUGEMENT :
+Le 27 juillet 2004
+COMPARUTIONS :
+Avocat de l'appelante :
+Me James C. Yaskowich
+Avocate de l'intimée :
+Me Julie Rogers-Glabush
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelante :
+Nom :
+Me James C. Yaskowich
+Cabinet :
+Felesky Flynn, s.r.l.
+Pour l'intimée :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

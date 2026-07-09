@@ -1,0 +1,192 @@
+Title: Bertrand v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/110679/index.do
+Corpus path: corpus/cases/tcc/2015/2015-tcc-174-110679-bertrand-v-the-queen-en.md
+Document type: case_law
+Last modified: 2015-07-08
+
+# Bertrand v. The Queen
+
+- Citation: 2015 TCC 174
+- Decision date: 2015-07-08
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2667, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Bertrand v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2015-07-08
+Neutral citation
+2015 TCC 174
+File numbers
+2015-398(IT)I
+Judges and Taxing Officers
+Dominique Lafleur
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2015-398(IT)I
+BETWEEN:
+MARIE-JOSÉE BERTRAND,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard on June 15, 2015, at Montréal, Quebec.
+Before: The Honourable Justice Dominique Lafleur
+Appearances:
+Counsel for the appellant:
+Issiakou Moustapha
+Counsel for the respondent:
+Mounes Ayadi
+JUDGMENT
+The appeal from the Notices of Determination in respect of the Canada child tax benefit and the goods and services tax credit for the 2010, 2011 and 2012 base taxation years made under the Income Tax Act is dismissed, without costs, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 8th day of July 2015.
+“Dominique Lafleur”
+Lafleur J.
+Translation certified true
+on this 19th day of August 2015
+Daniela Guglietta, Translator
+Citation: 2015 TCC 174
+Date: 20150708
+Docket: 2015-398(IT)I
+BETWEEN:
+MARIE-JOSÉE BERTRAND,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Lafleur J.
+[1] On January 20, 2014, the Minister of National Revenue (the Minister) issued Notices of Determination in respect of the Canada child tax benefit (CCTB) for the 2010, 2011 and 2012 base taxation years and determined that the appellant was not the ‟eligible individualˮ having custody of child X, born in 2003, pursuant to the definition of that term in section 122.6 of the Income Tax Act (the Act).
+[2] On February 5, 2014, the Minister issued to the appellant Notices of Determination in respect of the goods and services tax credit (GSTC) for the 2010, 2011 and 2012 base taxation years indicating that he had determined that the appellant was not the ‟eligible individualˮ having custody of child X, born in 2003, pursuant to the definition of that term in subsection 122.5(1) of the Act.
+[3] The appellant objected to these notices. On November 4, 2014, the Minister confirmed the Notices of Determination.
+[4] The appellant therefore appealed to the Court to settle the dispute.
+[5] At the hearing, there was an order for exclusion of witnesses.
+[6] The appellant testified, as did the father of child X, Marc Lachance (Mr. Lachance).
+I. The facts [7] The appellant and Mr. Lachance are the parents of two children, child X born in 2003 and another child born in 2009. During the hearing held on June 15, 2015, child X was living with Mr. Lachance while the other child was living with the appellant.
+[8] The relationship between the appellant and Mr. Lachance ended on August 21, 2009.
+[9] Until September 2010, the two children were being cared full-time for by the appellant.
+[10] Shortly after the start of the September 2010 school year, child X was experiencing difficulties in school, which is located in the neighbourhood where the appellant lived. In October 2010, the parents agreed to send child X to a school located close to Mr. Lachance’s residence. It should be noted that Mr. Lachance’s residence is approximately 75 kilometres from the appellant’s residence.
+[11] During some of the years at issue, from July 2011 to May 2013, Mr. Lachance worked from Thursday evening to Sunday; his work schedule was from 7 p.m. to 3 a.m. As of May 2013, Mr. Lachance worked from Friday evening to Sunday only.
+[12] According to the appellant, child X had never lived with Mr. Lachance prior to August 2013 (date of the judgment of the Superior Court, which I will discuss below). According to the appellant, Mr. Lachance picked up child X at her home every morning around 3:30 a.m. to take the child to school and took him back to her home around 4 p.m.; child X stayed at the appellant’s home overnight. The appellant confirmed that child X spent every evening and every night at her house until February 2014. However, on cross‑examination, the appellant admitted that child X rarely went to her house as of May 2013; child X lived with his father and others babysat him when Mr. Lachance was not home. Child X sometimes spent weekends at the appellant’s home.
+[13] In February 2014, according to the appellant, the Court issued an order declaring that the appellant could not see child X until he was assessed. I understand from the appellant’s testimony that child X has some concentration problems, that he is very nervous and that he is disrespectful toward the appellant. A copy of the order was not produced at the hearing. Mr. Lachance has no recollection of such an order.
+[14] The appellant confirmed that she takes care of child X’s dentist, doctor’s and social worker appointments. Mr. Lachance never took care of these appointments.
+[15] It was determined that in 2012, Mr. Lachance instituted litigation to obtain custody of his two children, including child X. According to the appellant, she and Mr. Lachance appeared before the Superior Court (Family Division) thirteen times.
+[16] The respondent filed with the Court, as Exhibit I‑1, a copy of the detailed affidavit signed by the appellant in October 2012. Said document was filed with the Superior Court during the proceedings initiated by Mr. Lachance to obtain custody of the children.
+[17] At paragraph 5 of the affidavit, the appellant stated that following Mr. Lachance’s motion, the Honourable Justice Marie‑Christine Laberge of the Superior Court issued an interim judgment granting Mr. Lachance access to child X from Monday to Thursday. At paragraph 15 of the affidavit, the appellant agreed that child X would be at his father’s home from Monday to Thursday.
+[18] Paragraphs 4 and 5 of the reasons for judgment of August 14, 2013, in respect of the judgment delivered on May 23, 2013, from the bench, by the Honourable Justice Pierre‑C. Gagnon of the Superior Court (Family Division) (Exhibit I‑2) (the judgment of the Superior Court), state as follows:
+[translation]
+4- . . . And the second significant change is that [child X] went to live with Mr. Lachance in September 2010.
+5- Mr. Lachance has since had de facto custody of [child X], despite the judgment of October 2009.
+[19] The appellant agreed that this information is true.
+[20] Pursuant to the judgment of the Superior Court, custody of child X was granted to Mr. Lachance and the appellant was granted some access to child X (every other weekend and certain holidays).
+[21] Mr. Lachance confirmed to the Court that child X has been staying with him since September 2010 and that he has custody of child X at least five days per week.
+[22] Mr. Lachance also stated that he takes care of child X and that he enrolled him in martial arts classes.
+[23] When Mr. Lachance is at work, he has family members or friends babysit child X. The appellant also babysat child X on his custody weekends. If child X was sick and could not go to school, Mr. Lachance would watch him if this occurred on his days off.
+[24] According to Mr. Lachance, the judgment of the Superior Court was complied with. Mr. Lachance confirmed that no other judgment varied the judgment of the Superior Court.
+[25] The respondent filed as Exhibit I‑5 a copy of the Canada Child Tax Benefit application signed by Mr. Lachance on September 20, 2013. In that application, Mr. Lachance stated that he had primarily fulfilled the responsibility for the care and upbringing of child X since October 2009. Included with the application were receipts issued by the school located in the neighbourhood where Mr. Lachance lives for the cost of child care services at lunch time. These receipts cover the period from September 1, 2011, to December 31, 2012, and indicate that Mr. Lachance made the required payments.
+II. Issue [26] The issue is whether the appellant was the eligible individual with respect to child X for the 2010 base taxation year (the period from July 2011 to June 2012), the 2011 base taxation year (the period from July 2012 to June 2013) and the 2012 base taxation year (the period from July 2013 to June 2014) for the purposes of the GSTC and the CCTB.
+III. Positions of the parties [27] The appellant states that she is the eligible individual with respect to child X for the periods at issue, as she resided with child X from July 2011 to June 2014.
+[28] The respondent contends that the appellant is not the eligible individual with respect to child X for the periods at issue, having regard to the judgment of the Superior Court, which is the court specialized in these matters and before which the appellant and Mr. Lachance appeared thirteen times during the child custody proceedings, and having regard to the diametrically opposed testimonies of the parents of child X before our Court. According to the respondent, the evidence showed that child X did not reside with the appellant during the periods at issue, but rather with Mr. Lachance.
+IV. Legislation and analysis [29] I reproduce the relevant provisions of the Act:
+GSTC: subsection 122.5(1) of the Act
+“eligible individual”, in relation to a month specified for a taxation year, means an individual (other than a trust) who
+(a) has, before the specified month, attained the age of 19 years; or
+(b) was, at any time before the specified month,
+(i) a parent who resided with their child, or
+(ii) married or in a common-law partnership.
+CCTB: section 122.6 of the Act
+“eligible individual” in respect of a qualified dependant at any time means a person who at that time
+(a) resides with the qualified dependant,
+(b) is a parent of the qualified dependant who
+(i) is the parent who primarily fulfils the responsibility for the care and upbringing of the qualified dependant and who is not a shared-custody parent in respect of the qualified dependant, or
+(ii) is a shared-custody parent in respect of the qualified dependant,
+(c) is resident in Canada or, where the person is the cohabiting spouse or common-law partner of a person who is deemed under subsection 250(1) to be resident in Canada throughout the taxation year that includes that time, was resident in Canada in any preceding taxation year,
+(d) is not described in paragraph 149(1)(a) or 149(1)(b), and
+(e) is, or whose cohabiting spouse or common-law partner is, a Canadian citizen or a person who
+(i) is a permanent resident within the meaning of subsection 2(1) of the Immigration and Refugee Protection Act,
+(ii) is a temporary resident within the meaning of the Immigration and Refugee Protection Act, who was resident in Canada throughout the 18 month period preceding that time, or
+(iii) is a protected person within the meaning of the Immigration and Refugee Protection Act,
+(iv) was determined before that time to be a member of a class defined in the Humanitarian Designated Classes Regulations made under the Immigration Act,
+and for the purposes of this definition,
+(f) where the qualified dependant resides with the dependant’s female parent, the parent who primarily fulfils the responsibility for the care and upbringing of the qualified dependant is presumed to be the female parent,
+(g) the presumption referred to in paragraph 122.6 eligible individual (f) does not apply in prescribed circumstances, and
+(h) prescribed factors shall be considered in determining what constitutes care and upbringing;
+[30] In the case at bar, the parties agree that the issue is whether the appellant resided with child X during the periods at issue, that is, from July 2011 to June 2014. I need not consider the other criteria for a person to be the ‟eligible individualˮ for the purposes of the GSTC and the CCTB unless I find that the appellant resided with child X during the periods at issue.
+[31] In Eliacin v. The Queen, [1993] T.C.J. No. 144 (QL), Justice Rip considered the meaning of the expression ‟reside withˮ under the former version of section 63 of the Act:
+Counsel for the respondent relied on Thomson v. M.N.R.,1 a judgment of the Supreme Court, which affirmed the principle that a taxpayer may have more than one residence. In my view, this judgment in no way applies to the facts of the instant appeal. Paragraph 63(3)(d) uses the words ‟... the ... spouse ... resided with the taxpayer ...ˮ. In Thomson, it was discussed whether the taxpayer had resided in Canada.
+Le Petit Robert 1 defines the word ‟avecˮ ([TRANSLATION] ‟withˮ) as follows:
+1. (Indicates RELATION: simultaneous physical presence; moral agreement between a person and someone or something). In the company of (someone). See prefix Co-. To go walking with someone. My greatest pleasure is to go out with you. He always has his dog with him. - To be with someone: in his or her company. They are always with each other. See Auprès (de). ‟She was then with a very rich man.ˮ (FLAUBERT): she lived with him...
+The same dictionary states that the word ‟àˮ ([TRANSLATION] ‟inˮ) means [TRANSLATION] ‟... position in a placeˮ.
+In English, there is also a difference between the words ‟inˮ and ‟withˮ. The Shorter Oxford English Dictionary on Historical Principles defines the word "in" to mean ‟... the preposition expressing the relation of inclusion, situation, position, existence, or action within limits of space...ˮ. The word also means ‟...within the limits or bounds of, within (any place or thing)...ˮ
+The Shorter Oxford English Dictionary defines the word ‟withˮ as follows:
+...II. Denoting personal relation, agreement, association, union, addition. ...13. Following words expression accompaniment or addition, as associate, connect, join, marry, share, unite vbs. ... 19. Expressing association, conjunction, or connection in thought, action or condition. ... 25. Indicating an accompanying or attendant circumstance, or a result following from the action expressed by the verb.
+The English courts have had to defined the words ‟reside withˮ which appear at subsection I(4) of the Summary Jurisdiction (Separation and Maintenance) Act, 1925, (15 & 16 Geo. 5, c. 51). That subsection provides that a maintenance order is not executory if the woman "resides with" her husband. The words ‟reside withˮ were defined as meaning ‟residing in the same house asˮ or ‟living in the same house withˮ. . . .
+It may be said in light of this case law that the words ‟to reside withˮ have a broader definition and do not mean to live in a domestic relationship; they only mean to live in the same house as someone else. . . .
+______________________
+1 2 DTC 809
+[32] In Laurin v. The Queen, 2006 TCC 124, the Court had to determine whether the appellant was entitled to the CCTB. Justice Tardif discussed the meaning of ‟residing with the qualified dependantˮ and stated as follows:
+In Burton v. Canada, [1999] T.C.J. No. 833 (Q.L.) and Gibson v. Canada, [1999] T.C.J. No. 834 (Q.L.), Sarchuk J., cited in part this passage from Eliacin and added:
+I observe as well Black’s Law Dictionary refers to ‟residenceˮ as ‟personal presence at some place of abode with no present intention of definite and early removal and with the purpose to remain for undetermined period, not infrequently, but not necessarily combined with design to stay permanentlyˮ.
+[33] In Lapierre v. The Queen, 2005 TCC 720, Justice Dussault stated as follows:
+. . . All things considered, residence implies a certain constancy, a certain regularity or else a certain permanence according to a person’s usual lifestyle in relation to a given place and is to be distinguished from what might be called visits or stays for specific purposes or of a sporadic nature. When the Act sets as a condition to reside with another person, I do not consider it appropriate to attribute to the verb ‟to resideˮ a meaning which deviates from the concept of residence as it has been developed by the courts. To reside with someone is to live or stay with someone in a given place with a certain constancy, a certain regularity or else in an habitual manner.
+[34] In Picard v. The Queen, 2005 TCC 509, Justice Garon stated as follows:
+[14] However, there is one factor, referred to in the definition of ‟eligible individualˮ, which the Appellant did not meet during the relevant period: the requirement in paragraph (a) of the definition of ‟eligible individualˮ that the eligible individual reside with the qualified dependent. The evidence clearly shows that the mother did not reside with her daughter Jenny-Eve during the roughly 10-month period in issue. This is not a situation in which the word ‟residesˮ in paragraph (a) of the definition of ‟eligible individualˮ can be interpreted broadly, as it can be where the concept of ‟residence in Canadaˮ is involved, for example. In the context of section 122.6, physical presence on the premises is required. . . .
+[15] The circumstances in which the Appellant found herself bear partial resemblance to the facts in Walsh v. Canada, [2001] T.C.J. No. 11 (QL), which was decided by this Court. In Walsh, the mother devoted considerable care to the children, their studies and their recreational activities, despite being physically separated from them in that she resided 180 kilometres from the place in which the children lived with their father. Despite this, the Court held that the children spent the majority of their time with their father, and that the provision in issue relates to a quantitative measurement of time rather than a qualitative assessment of the capabilities of both parents in carrying out the functions set forth in section 6302 of the Income Tax Regulations, supra.
+[35] The testimonies of the appellant and Mr. Lachance provided diametrically opposed versions of the facts about who the child X resided with from July 2011 to April 2013. However, for the period from May 2013 to June 2014, the appellant’s testimony is the same as that of Mr. Lachance, namely, that child X lived with his father during that period, as the appellant only had limited access to child X during that period.
+[36] In her testimony, the appellant claimed that child X spent every evening and every night at her house until February 2014. However, on cross‑examination, the appellant admitted that child X rarely went to her house as of May 2013 and that child X lived with his father and others babysat him when Mr. Lachance was not home. The appellant agreed that child X sometimes spent weekends at the appellant’s home. However, Mr. Lachance claimed that child X had been staying with him since September 2010.
+[37] The parties agreed that they appeared before the Superior Court (Family Division) thirteen times after Mr. Lachance instituted litigation to obtain custody of his two children. Paragraphs 4 and 5 of the judgment of the Superior Court read as follows:
+[translation]
+4- . . . And the second significant change is that [child X] went to live with Mr. Lachance in September 2010.
+5- Mr. Lachance has since had de facto custody of [child X], despite the judgment of October 2009.
+[38] And the appellant agreed that those statements are true.
+[39] It is difficult for me not to take into account the judgment of the Superior Court, which is a specialized court in family matters in the province of Quebec and which confirms that child X had indeed been in his father’s custody since September 2010.
+[40] Furthermore, the evidence shows that child X attended the school located in the neighbourhood where Mr. Lachance lives during the periods at issue.
+[41] Thus, was the appellant residing with child X during the periods at issue? The case law I referred to above teaches that the issue is a question of fact; it is necessary to determine whether the appellant lived or stayed with child X ‟in a given place with a certain constancy, a certain regularity or else in an habitual manner ˮ (Lapierre, supra).
+[42] For the period from May 2013 to June 2014, I find that the appellant did not reside with child X pursuant to the relevant provisions of the Act for the purposes of the GSTC and the CCTB. Indeed, the appellant agreed that child X rarely went to her house as of May 2013, namely, the date of the judgment of the Superior Court. I therefore cannot find that the appellant resided with child X during this period as the case law is clear that residence implies constancy, regularity and a certain habit. Child X only went to the appellant’s residence on some weekends in accordance with the provisions of the judgment of the Superior Court.
+[43] I also find that, for the period from July 2011 to April 2013, the appellant did not reside with child X pursuant to the relevant provisions of the Act for the purposes of the GSTC and the CCTB. The appellant’s testimony did not persuade me that she resided with child X during that period. I believe I should also take into account the judgment of the Superior Court that Mr. Lachance had had de facto custody of child X since September 2010. As I mentioned above, the Superior Court is the court specialized in family matters in the province of Quebec.
+[44] In light of my findings with respect to residence, it is not necessary to consider the other conditions set out in the Act in the definitions of the term ‟eligible individualˮ for the purposes of the GSTC and the CCTB.
+[45] For all these reasons, the appeal is dismissed, without costs.
+Signed at Ottawa, Canada, this 8th day of July 2015.
+“Dominique Lafleur”
+Lafleur J.
+Translation certified true
+on this 19th day of August 2015
+Daniela Guglietta, Translator
+CITATION:
+2015 TCC 174
+COURT FILE NO.:
+2015-398(IT)I
+STYLE OF CAUSE :
+MARIE-JOSÉE BERTRAND v. HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Montréal, Quebec
+DATE OF HEARING:
+June 15, 2015
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Dominique Lafleur
+DATE OF JUDGMENT:
+July 8, 2015
+APPEARANCES:
+Counsel for the appellant:
+Issiakou Moustapha
+Counsel for the respondent:
+Mounes Ayadi
+COUNSEL OF RECORD:
+For the appellant:
+Name:
+Issiakou Moustapha
+Firm:
+Montréal, Quebec
+For the respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

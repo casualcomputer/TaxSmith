@@ -1,0 +1,116 @@
+Title: Larose v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29367/index.do
+Corpus path: corpus/cases/tcc/2009/2009-tcc-415-29367-larose-v-the-queen-en.md
+Document type: case_law
+Last modified: 2009-08-27
+
+# Larose v. The Queen
+
+- Citation: 2009 TCC 415
+- Decision date: 2009-08-27
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6919, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Larose v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2009-08-27
+Neutral citation
+2009 TCC 415
+File numbers
+2008-2387(GST)I
+Judges and Taxing Officers
+Réal Favreau
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2008-2387(GST)I
+BETWEEN:
+SHAWN LAROSE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard on June 23 and July 3, 2009, at Ottawa, Canada.
+Before: The Honourable Justice Réal Favreau
+Appearances:
+Counsel for the Appellant:
+Christian Daniel Landry
+Counsel for the Respondent:
+Martine Bergeron
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment dated December 12, 2006, and bearing number PH-2006-64, issued under subsection 323(1) of the Excise Tax Act for the period from July 1, 2001, to May 31, 2004, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 27th day of August 2009.
+"Réal Favreau"
+Favreau J.
+Translation certified true
+on this 15th day of October 2009.
+Daniela Possamai, Translator
+Citation: 2009 TCC 415
+Date: 20090827
+Docket: 2008-2387(GST)I
+BETWEEN:
+SHAWN LAROSE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Favreau J.
+[1] The Appellant is appealing an assessment dated December 12, 2006, issued by the Minister of Revenue of Quebec acting as agent for the Minister of National Revenue (collectively described as the "Minister") under which the Appellant was assessed, as director of the company 2703041 Canada Inc. ("2703041"), charges in the amount of $48,248.46. The charges represent the net tax (with interest and penalties) that 2703041 was required to pay the Minister on November 29, 2005, under subsection 228(2) of the Excise Tax Act, R.S.C. (1985), c. E-15, as amended (the "ETA »), for the period from July 1, 2001, to May 31, 2004. The Appellant was assessed under subsection 323(1) of the ETA.
+[2] The Appellant is no challenging the validity in fact and in law of the assessments made against 2703041.
+[3] During the periods covered by the assessment in issue, the Appellant was the sole de jure director of 2703041 given that he was registered with the Inspector General of Financial Institutions and Industry Canada and that he never resigned at the time the assessment in issue was made.
+[4] 2703041 was incorporated on March 28, 1991, and operated a business under the name "Centre de services Shawn's." It was a retail business for John Deere products (since 1994) and a small engines repair business. The Appellant was in charge of the mechanical work carried out in the workshop adjacent to the family residence and his ex-wife, Guylaine Venne, was in charge of all aspects of running the business, that is to say, accounting, bookkeeping and finances. The Appellant owned all the shares of 2703041. On November 29, 2005, 2703041 made an assignment in bankruptcy.
+[5] The Appellant and his wife stopped living together on August 13, 2000. Under a corollary relief agreement entered into on April 10, 2002, his ex-wife obtained legal custody of their three minor children (the 4th child was of legal age) and the Appellant agreed to pay his ex-wife a support amount of $400 net per month. The corollary relief agreement is very explicit as to the division of the couple's property and debts. It specifically provides that a) the ex-wife will be the sole proprietor of the building situated at 700 Route 105, Chelsea; b) the Appellant will be the sole proprietor of the building situated at 60 Scott Street, Chelsea; c) the Appellant will be the sole proprietor of "Centre de services Shawn's" and of the following property: a 1997 Dodge Ram truck, a snowmobile, a boat, tools and utility trailers; d) the Appellant will be solely responsible for all direct and indirect debts of "Centre de Services Shawn's" and the Appellant completely exonerates his ex-wife from all liability to said company and/or creditors and third parties. The agreement also stipulates that the parties ask that the court declare that the value of the family patrimony be established as of the date the spouses ceased living together, that is to say, August 13, 2000, and that the parties wish for the effects of the divorce to be retroactive to the date on which they ceased to live together. The terms and conditions of the corollary relief agreement were incorporated into the divorce decree dated May 6, 2002.
+[6] The Appellant alleges that as of the date he ceased to live with his wife, August 13, 2000, he left the family residence and the business operated in a workshop adjoining said family residence. He however continued to perform his mechanical work at the workshop until his ex-wife found another mechanic to replace him.
+[7] According to the Appellant's testimony, he agreed to take back the business following the conclusion of the corollary relief agreement on the strength of the representations made by his ex-wife that the business only had $3,000 to $4,000 in debts. At the hearing, the Appellant stated that he received invoices from the suppliers and tax authorities totalling between $40,000 and $50,000. Still according to the Appellant, he sold the John Deere franchise, the inventory, certain equipment and the list of customers in September 2002 and the proceeds of the sale were used to pay the suppliers. Following the sale, the Appellant continued to operate the business on a limited basis by executing certain contracts for Hydro Ontario.
+Analysis
+[8] Subsection 323(1) of the ETA renders the directors of a company jointly and severally liable, together with the company, for the taxes and source deductions the company was required to remit to the Minister. Subsection 323(1) of the ETA reads as follows:
+Liability of directors — Where a corporation fails to remit an amount of net tax as required under subsection 228(2) or (2.3), the directors of the corporation at the time the corporation was required to remit the amount are jointly and severally liable, together with the corporation, to pay that amount and any interest thereon or penalties relating thereto.
+[9] A director may abdicate liability if the requirements of subsection 323(3) of the ETA are met. Subsection 323(3) of the ETA reads as follows:
+Diligence — A director of a corporation is not liable for a failure under subsection (1) where the director exercised the degree of care, diligence and skill to prevent the failure that a reasonably prudent person would have exercised in comparable circumstances.
+[10] The issue in this case is whether the Appellant can be held liable for the tax liability incurred by 2703041 during the 18-month period between the date the couple separated, August 13, 2000, and the date on which the corollary relief agreement was concluded, April 10, 2002, that is to say, the period during which the Appellant claims not to have had effective control of the company even though he legally was the sole proprietor of the business and the sole director of said company.
+[11] To deal with that issue, it is important to consider whether the Appellant actually gave up control and directorship of 2703041 at the time of the couple's separation. That representation of fact made by the Appellant rests solely on his uncontradicted testimony. No documentary evidence and no other testimony by the ex-wife, the accountant, the banker, the clients and suppliers of the company corroborated the Appellant's testimony. During his testimony, the Appellant acknowledged that he did not take any measures whatsoever to cease to be the director of 2703041, to cease to be a signing authority on the bank account (only one signature, either that of the Appellant or his wife, sufficed) and to transfer the assets or shares of said company to his ex-wife.
+[12] However, the sole document submitted by the Respondent demonstrating active management of the company by the Appellant during the period in issue is a bank document dated October 24, 2000, whereby the Appellant assumes liability toward the institution for all transactions made or to be made with the institution in relation to all promissory notes, drafts, cheques, receipts or other commercial bills made, drawn, accepted, endorsed or signed on behalf of said company. According to the Appellant, the signature appearing on said document is not his.
+[13] In the questionnaire signed by the Appellant on November 25, 2003, the Appellant offered the following reasons to explain what prevented 2703041 from remitting its tax payments, including the goods and services tax and source deductions: lack of cash flow; change in management staff; new and forced direction of the company and his divorce. No reference was made to the fact that the Appellant no longer had control of the company or was no longer involved in managing the company.
+[14] Under the corollary relief agreement, the Appellant never ceased to be the proprietor of "Centre de services Shawn's" as the parties requested that the effects of the divorce be made retroactive to the date on which they ceased to live together, that is to say, August 13, 2000.
+[15] In light of the facts, it appears obvious to me that the Appellant did not exercise the degree of care, diligence and skill required to prevent the failure of 2703041 to remit the net tax amount due to the Minister for the periods in issue and that, as a result, he cannot avail himself of the defence of due diligence set out in subsection 323(3) of the ETA.
+[16] At the hearing, the Appellant acknowledged that when he regained possession of the company following the conclusion of the corollary relief agreement he did not even verify with the appropriate tax authorities the amounts of the taxes or source deductions that may have been respectively owed to them. He did not inspect the company's books and records and he did not discuss the company's financial situation with the company's accountant.
+[17] Not only was the Appellant de jure director of 2703041 and the sole proprietor of the shares of said company, but he was also in a position to exercise great influence on the company's activities through the John Deere franchise. At paragraph 10 of the Notice of Appeal, it is stipulated that during the 18 months following the assignment of the business, the Appellant's ex-wife was unable to have the John Deere franchise changed to her name. In order to do so, a signature for the transfer of the franchise and the Appellant's consent were undoubtedly required.
+[18] The Appellant cannot complain of the application of subsection 323(1) of the ETA as under the corollary relief agreement, he assumed personal responsibility for all direct or indirect debts of "Centre de services Shawn's" and he exonerated his ex-wife from all liability to said company and/or creditors and third parties. Under that agreement, the parties also agreed that said agreement was a transaction within the meaning of articles 2631 et seq. of the Civil Code of Québec.
+[19] In my view, the evidence submitted by the Appellant is insufficient to demonstrate that the Appellant lost control of the company's operations following the couple's separation. The inability of the Appellant's ex-wife to have the John Deere franchise transferred to her name demonstrates well that the Appellant's ex-wife did not have absolute control over the company's activities, contrary to the Appellant's claims.
+[20] For these reasons, the appeal from the assessment dated December 12, 2006, and bearing number PH-2206-64 is dismissed and the related penalties are upheld.
+Signed at Ottawa, Canada, this 27th day of August 2009.
+"Réal Favreau"
+Favreau J.
+Translation certified true
+on this 15th day of October 2009.
+Daniela Possamai, Translator
+CITATION: 2009TCC415
+COURT FILE NO.: 2008-2387(GST)I
+STYLE OF CAUSE: Shawn Larose and Her Majesty the Queen
+PLACE OF HEARING: Ottawa, Ontario
+DATES OF HEARING: June 23 and July 3, 2009
+REASONS FOR JUDGMENT BY: The Honourable Justice Réal Favreau
+DATE OF JUDGMENT: August 27, 2009
+APPEARANCES:
+Counsel for the Appellant:
+Christian Daniel Landry
+Counsel for the Respondent:
+Martine Bergeron
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Christian Daniel Landry
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

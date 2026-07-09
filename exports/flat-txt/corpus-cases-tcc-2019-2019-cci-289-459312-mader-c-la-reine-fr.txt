@@ -1,0 +1,196 @@
+Title: Mader c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/459312/index.do
+Corpus path: corpus/cases/tcc/2019/2019-cci-289-459312-mader-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2019-12-31
+
+# Mader c. La Reine
+
+- Citation: 2019 CCI 289
+- Decision date: 2019-12-31
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4253, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Mader c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2019-12-31
+Référence neutre
+2019 CCI 289
+Numéro de dossier
+2017-4544(IT)G
+Juges et Officiers taxateurs
+Ronald MacPhee
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2017-4544(IT)G
+ENTRE :
+SANDRA LYNN MADER,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 21 octobre 2019, à Yarmouth (Nouvelle-Écosse)
+Devant : L’honorable juge Ronald MacPhee
+Comparutions :
+Pour l’appelante :
+L’appelante elle-même
+Avocat de l’intimée :
+Me Devon Peavoy
+JUGEMENT MODIFIÉ
+L’appel interjeté à l’encontre de la nouvelle cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2013 de l’appelante est accueilli, sans dépens, au motif que l’appelante est autorisée à déduire une somme supplémentaire de 24 242,47 $ en tant que frais d’honoraires engagés en 2013.
+Signé à Ottawa, Canada, ce 30e jour de janvier 2020.
+« R. MacPhee »
+Le juge MacPhee
+Traduction certifiée conforme
+ce 22e jour de mai 2020.
+Mario Lagacé, jurilinguiste
+Référence : 2019 CCI 289
+Date : 20191231
+Dossier : 2017-4544(IT)G
+ENTRE :
+SANDRA LYNN MADER,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT MODIFIÉS
+Le juge MacPhee
+[1] Sandra Lynn Mader a interjeté appel à l’encontre de la nouvelle cotisation établie relativement à l’année d’imposition 2013. Plus précisément, elle conteste le refus par le ministre du Revenu national (le ministre) de la déduction de la somme de 73 967,07 $ à l’égard des frais juridiques et des frais comptables.
+EXPOSÉ DES FAITS
+[2] Les faits en l’espèce portent principalement sur les honoraires payés par l’appelante durant l’année d’imposition 2013 relativement à une rupture d’entreprise et à l’échec d’un mariage.
+[3] Les éléments de preuve font référence à deux entreprises. La première est Jaylynn Enterprises Ltd (JEL), qui a été constituée en société en 1975 par l’appelante et Robin Richards (M. Richards), qui était son partenaire d’affaires à l’époque. M. Richards et l’appelante se sont mariés en 1976. La deuxième entreprise, Holm Realty (Holm), a été constituée en société en 1989. Jusqu’en 2010, les seuls actionnaires de Holm étaient l’appelante et M. Richards. L’appelante et M. Richards participaient tous les deux aux activités quotidiennes de ces entreprises.
+[4] Au fil des années, l’appelante et M. Richards ont eu beaucoup de succès dans leurs projets d’entreprise. Ils ont aussi élevé trois garçons ensemble. Malheureusement, leur mariage n’a pas connu le même succès et ils se sont séparés en 2010.
+[5] L’entreprise familiale a fait l’objet d’une réorganisation en 1993, dans le cadre de laquelle des fiducies familiales ont été utilisées. Cela a permis à l’appelante et à son époux de bénéficier à parts égales de la croissance future de l’entreprise et de réduire leurs impôts sur le revenu, en plus de permettre aux trois fils du couple de bénéficier de la croissance de JEL.
+[6] Au moment de la séparation du couple en 2010, l’appelante possédait la moitié de l’intérêt sur les biens matrimoniaux, un REER et des actions privilégiées de JEL de catégories A et C. La principale source de revenus de l’appelante et de M. Richards était la réception de dividendes provenant de leurs actions privilégiées de JEL. Ils recevaient ces dividendes une fois par mois. Les dividendes étaient versés dans une fiducie familiale, puis distribués aux parties. Les deux parties devaient consentir à la distribution de ces dividendes.
+[7] Après sa séparation, le couple a dû clarifier sa situation par rapport à son intérêt dans les entreprises et calculer la répartition des actifs de JEL et de Holm. Après l’échec de la tentative de négociation d’un règlement, des poursuites coûteuses ont été intentées. Un événement malheureux, d’une grande importance en l’espèce, s’est produit en mai 2010, à savoir que M. Richards a refusé de consentir au versement des dividendes tant pour lui-même que pour l’appelante. L’appelante s’est alors retrouvée sans aucune source de revenus. Cet événement marque le début du contentieux entre les parties.
+[8] L’appelante avait soulevé deux principales préoccupations dans le cadre des questions en litige. Premièrement, elle devait s’assurer de bénéficier d’un revenu constant et, deuxièmement, elle souhaitait remédier au traitement injuste qu’elle croyait subir constamment par rapport à la propriété des entreprises. Plus précisément, elle croyait que son mari ne tenait pas compte de sa participation dans les capitaux propres.
+[9] Voici la chronologie des événements qui se sont produits dans le cadre du contentieux :
+L’appelante présente une demande de pension alimentaire provisoire en septembre 2010. Cette demande est refusée.
+La décision précitée est portée en appel en décembre 2010. L’appelante a gain de cause devant la Cour d’appel de la Nouvelle-Écosse et elle se voit adjuger une pension alimentaire rétroactive et une pension alimentaire provisoire de 6 000 $ par mois.
+L’appelante dépose un recours en cas d’abus en avril 2012.
+L’appelante présente une requête dans le cadre du recours précité, qui est examinée du 3 au 5 décembre 2012 ainsi que les 31 janvier et 1er février 2013. Bien que la demande d’injonction interlocutoire de l’appelante soit rejetée, celle-ci obtient la divulgation provisoire de renseignements financiers. Des dépens sont adjugés contre l’appelante.
+Une ordonnance de dépens est rendue le 28 août 2013 relativement à la requête précitée.
+Les parties comparaissent devant la Cour suprême de la Nouvelle-Écosse en 2014 pour débattre du droit à la prestation alimentaire de l’appelante. La Cour tranche la question le 16 juillet 2014.
+Les parties signent une entente définitive qui porte sur la majorité des questions en litige au printemps 2013. Les principales questions en suspens portaient sur la décision en délibéré de la Cour à l’égard du recours en cas d’abus et de l’ordonnance définitive de pension alimentaire.
+[10] La somme supplémentaire d’honoraires que l’appelante cherchait à déduire pour 2013 était de 73 579,27 $. Les dossiers de l’appelante sont bien organisés et des reçus ont été fournis. Les frais sont divisés en deux catégories, à savoir ceux engagés dans le recours en cas d’abus (qui s’élèvent à 65 782,22 $) et ceux engagés dans la demande de pension alimentaire (qui s’élèvent à 7 797,05 $).
+[11] La grande majorité des dépenses a été engagée dans le cadre du recours en cas d’abus, déposé le 17 avril 2012 contre M. Richards, JEL, Holm Realty Ltd, Duane Robert Richards, Jay Robert Richards et la fiducie familiale Richards, en application de l’article 5 de la Companies Act, R.S.N.S. 1989, ch. 81. Plus précisément, ces dépenses découlent d’une ordonnance de dépens rendue à la suite d’une requête déposée par l’appelante.
+[12] Dans sa demande de recours en cas d’abus, l’appelante cherchait à obtenir une ordonnance visant à :
+empêcher M. Richards et d’autres parties apparentées de contrevenir à une résolution des administrateurs et à une résolution spéciale des actionnaires, ce qui protégerait le droit de l’appelante de fournir son consentement à l’égard des transactions de JEL supérieures à 50 000 $;
+empêcher M. Richards et d’autres parties de priver l’appelante de l’accès aux dossiers administratifs.
+[13] L’appelante n’a eu que partiellement gain de cause dans sa requête en injonction interlocutoire et en divulgation provisoire. Elle a été condamnée à verser les dépens suivants : 34 000 $ à M. Richards; 9 500 $ à Jay Richards; 9 500 $ à Jaylynn Enterprises Limited et à Holm Realty Limited; et 5 000 $ à Duane Richards. Ces dépens constituent la plus grande partie des frais en litige devant la Cour.
+[14] Le reste des frais juridiques et comptables engagés dans le cadre du recours en cas d’abus s’élevait à 7 782,22 $.
+[15] Le ministre a admis une somme distincte de 61 998 $ relativement aux honoraires déduits par l’appelante en 2013. Ces sommes n’ont pas été contestées.
+[16] En ce qui concerne le recours en cas d’abus, l’appelante a présenté à la Cour une copie de son avis de demande et de la décision rendue par la Cour suprême de la Nouvelle-Écosse dans une requête apparentée datée du 10 juin 2013.
+[17] Dans son avis de demande, l’appelante a demandé de nombreuses mesures de redressement primaire et subsidiaire. L’une des mesures de redressement subsidiaire était la suivante :
+[TRADUCTION]
+enjoindre à M. Richards de déclarer des dividendes et d’obliger JEL et Holm de verser les dividendes à l’appelante pour les actions qu’elle détenait dans JEL et Holm.
+[18] Le juge des requêtes, en résumant ce qui a été présenté devant lui, a affirmé notamment, ce qui suit :
+[TRADUCTION]
+[Il s’agit] d’une requête en injonction interlocutoire et provisoire enjoignant aux défendeurs de s’abstenir de contrevenir aux résolutions et à l’entente et d’une requête en divulgation continue de renseignements administratifs et financiers.
+[19] Dans le jugement définitif prononcé à l’égard de la requête, les faits suivants faisaient partie de la décision :
+M. Richards avait fait cesser les versements des dividendes que l’appelante et lui-même recevaient de JEL et de Holm.
+La seule source de revenus de l’appelante était son REER.
+Au cours de son contre-interrogatoire, l’appelante a confirmé que la principale mesure de redressement demandée était le rachat de ses actions.
+La Cour a reconnu qu’une ordonnance provisoire avait été prononcée, enjoignant à M. Richard de verser une pension alimentaire de 6 000 $ par mois à l’appelante et reconnaissant à celle-ci le droit de résider dans le domicile conjugal. [TRADUCTION] « Ainsi, elle a été libérée des pressions financières personnelles qu’elle subissait. »
+Robert et Sandra [...] sont actuellement en conflit en raison de problèmes conjugaux et administratifs.
+[20] Peu après le dépôt de la requête précitée, les parties ont commencé à négocier une entente définitive concernant presque toutes les questions en litige. Conformément à cette entente, l’appelante a reçu un paiement de dividendes de 1 533 469,16 $ après qu’elle a transféré 237 actions privilégiées de JEL à M. Richards. Cette somme a été incluse à titre de revenu dans sa déclaration de revenus de l’année 2013.
+[21] Dans le présent appel, l’appelante et son comptable, M. Jamie Ernst (M. Ernst), ont témoigné. M. Ernst a parlé du travail qu’il a réalisé pour l’appelante. Il a notamment mentionné avoir envoyé une facture de 8 653,75 $ à l’appelante. Selon son témoignage, la moitié de cette somme concernait l’aide offerte à l’appelante dans le cadre du contentieux relatif à la pension alimentaire. L’autre moitié de ses honoraires a été engagée en raison de la procédure de recours en cas d’abus.
+QUESTION EN LITIGE
+[22] En l’espèce, la question principale est de savoir si l’appelante a le droit de déduire des honoraires supplémentaires de 73 579,27 $ pour l’année d’imposition 2013.
+La thèse des parties
+[23] L’intimée soutient que la somme totale des honoraires payés par l’appelante en vue d’obtenir une pension alimentaire s’élevait à 61 998 $. La déduction de cette somme a été approuvée par le ministre. Les autres sommes que l’appelante cherche à déduire à titre de dépenses ont été majoritairement engagées dans le cadre de la procédure de recours en cas d’abus. L’intimée affirme que ces sommes ont été rejetées, à juste titre, aux termes de l’alinéa 18(1)a) de la Loi de l’impôt sur le revenu (la Loi), car elles n’ont pas été dépensées pour tirer un revenu. L’intimée soutient en outre que les sommes engagées étaient soit des débours personnels, soit des paiements à titre de capital, conformément aux alinéas 18(1)b) ou 18(1)h) de la Loi.
+[24] L’appelante ajoute qu’elle a payé des honoraires supplémentaires pour faire valoir son droit à un revenu préexistant, que ce soit sous forme de pension alimentaire ou de dividendes. Par conséquent, ces dépenses devraient être déductibles de son revenu.
+DISCUSSION
+LA LOI
+[25] Aux termes de l’article 9 de la Loi, le revenu qu’un contribuable tire d’une entreprise pour une année d’imposition est le bénéfice qu’il en tire pour cette année, sous réserve de divers ajustements et diverses restrictions prévus par la Loi.
+[26] L’alinéa 18(1)a) de la Loi prévoit, aux fins du calcul du revenu du contribuable tiré d’une entreprise ou d’un bien, que des dépenses ne sont pas déductibles, sauf dans la mesure où elles ont été engagées ou effectuées en vue de tirer un revenu de l’entreprise ou du bien.
+[27] L’alinéa 18(1)b) de la Loi prévoit qu’aucune déduction n’est permise relativement à une dépense en capital, à une perte en capital, à un remplacement de capital ou à un paiement à titre de capital.
+[28] Il a été affirmé à maintes reprises que la question de savoir si des dépenses ont été engagées pour tirer un revenu est une question de fait. La question principale était de savoir si les dépenses avaient été engagées ou effectuées en vue de tirer un revenu.
+[29] Conformément à la loi, les dépenses engagées en vue d’obtenir une pension alimentaire sont déductibles [1] . Par conséquent, toutes les dépenses qui, à mon avis, ont été engagées par l’appelante en vue d’obtenir une pension alimentaire de la part de M. Richards seront déductibles. En outre, les honoraires payés par l’appelante en vue d’obtenir le versement de dividendes sont aussi déductibles [2] .
+[30] En l’espèce, les dépenses les plus simples à aborder sont les frais comptables facturés à l’appelante par M. Ernst en vue d’obtenir une pension alimentaire. Ces frais s’élevaient à 4 326,87 $. Leur déduction sera admise.
+[31] L’appelante a également fourni des factures et un témoignage relativement à d’autres dépenses engagées dans le cadre du contentieux l’opposant à M. Richards en vue d’obtenir une pension alimentaire. Je conclus que son témoignage à cet égard est crédible et, pour l’essentiel, n’a pas été contesté durant le contre-interrogatoire. Ces dépenses s’élevaient à 3 470,10 $. L’appelante est autorisée à les déduire.
+[32] L’élément le plus complexe constitue le traitement des dépenses engagées dans le cadre de la procédure de recours en cas d’abus. Dans le cadre de cette analyse, je dois garder à l’esprit l’alinéa 18(1)b) de la Loi, qui prévoit qu’aucune déduction n’est permise relativement à une dépense en capital, à une perte en capital, à un remplacement de capital ou à un paiement à titre de capital.
+[33] J’aurais tendance à retenir la thèse de l’intimée à l’égard de ces dépenses. En lisant les actes de procédure pertinents concernant le recours en cas d’abus et l’avis de requête qui y est lié ainsi que la décision rendue par la Cour suprême de la Nouvelle-Écosse, je peux comprendre pourquoi le ministre a rejeté la demande de déduction de ces dépenses présentée par l’appelante.
+[34] Il existe toutefois un lien entre le revenu que l’appelante tentait d’obtenir, que ce soit sous forme de pension alimentaire versée par M. Richards ou de dividendes perçus auprès des sociétés, et la procédure de recours en cas d’abus (y compris la requête provisoire). Comme l’a affirmé le juge Muise de la Cour suprême de la Nouvelle-Écosse, l’appelante et M. Richards étaient [TRADUCTION] en conflit en raison de problèmes conjugaux et administratifs.
+[35] La preuve fournie permet de confirmer, dans l’ensemble, que des honoraires ont été versés dans le cadre de la procédure de recours en cas d’abus afin d’accomplir deux choses. La première consistait à protéger les droits de l’appelante à l’égard des actions des sociétés. C’est ce que visait principalement le paiement des honoraires en litige dans le présent appel devant la Cour de l’impôt. Il est clair qu’une portion considérable des coûts engagés dans le cadre de la procédure de recours en cas d’abus a été dépensée à titre de capital, au sens de l’alinéa 18(1)b) de la Loi, et elle ne sera donc pas admise aux fins de déduction.
+[36] La deuxième raison pour laquelle l’appelante a engagé des honoraires dans sa procédure de recours en cas d’abus consistait à tirer un revenu, que ce soit sous forme de dividendes perçus auprès des sociétés ou de pension alimentaire versée par M. Richards.
+[37] Pour en arriver à la conclusion qu’il est juste et raisonnable de répartir les honoraires engagés dans le cadre de la procédure de recours en cas d’abus (et de la requête), je me fonde sur l’analyse suivante.
+[38] Les frais juridiques engagés dans le but de préserver les immobilisations ne sont pas déductibles [3] .
+[39] L’appelante s’appuie, en partie, sur la décision Kruco Inc. c. Canada [4] pour étayer son argumentation. Dans la décision Kruco, l’appelante avait dépensé plus de 9 millions de dollars en honoraires d’avocat et a demandé à ce que ces frais soient déduits de son revenu. La majorité de ces frais a été engagée parce que l’appelante avait déposé devant la Cour supérieure du Québec une requête en recours en cas d’abus au sens de l’article 234 (tel qu’il était libellé à l’époque) de la Loi canadienne sur les sociétés par actions. Dans ce contentieux, le principal objectif consistait à enjoindre l’un des défendeurs à verser un dividende raisonnable à la demanderesse.
+[40] Dans sa décision, le juge Archambault a procédé à un examen utile de la jurisprudence afin d’élaborer des directives et des principes dans le cadre de cette analyse, comme suit :
+[25] En ce qui concerne l’approche que je dois adopter pour déterminer si les frais juridiques et professionnels que Kruco a engagés étaient imputables au capital, il est utile de s’inspirer de ce que le vicomte Cave a dit dans le jugement Atherton v. British Insulated and Helsby Cables, Ltd. (1925), 10 T.C. 155, à la page 192 :
+[traduction] [...] lorsqu’une dépense est engagée, non seulement une fois pour toutes, mais aussi en vue de créer un actif ou un avantage pour le bénéfice durable d’un commerce, je crois qu’il existe une raison fort valable (en l’absence de circonstances spéciales nous amenant à tirer une conclusion contraire) de traiter pareille dépense comme étant à juste titre imputable au capital plutôt qu’au revenu.
+[26] Dans le jugement Algoma Central Railway v. M.N.R., 67 DTC 5091, le président Jackett a dit ceci, à la page 5093 :
+[traduction] Le « critère habituel » qui s’applique lorsqu’il s’agit de déterminer si un paiement est imputable au capital est de savoir s’il a été fait « en vue de créer un avantage pour le bénéfice durable de l’entreprise de la partie appelante ».
+Il s’agit de savoir si en l’espèce, lorsqu’elle a engagé les dépenses ici en cause, l’appelante envisageait d’obtenir « un avantage pour le bénéfice durable » de son entreprise conformément au critère élaboré dans les décisions.
+[27] Dans Minister of National Revenue v. Algoma Central Railway (1968), 68 D.T.C. 5096 (S.C.C.), la Cour suprême du Canada a confirmé cette décision et, à la page 5097, elle a approuvé le passage suivant du jugement que le Conseil privé avait rendu dans l’affaire B.P. Australia Ltd. v. Commissioner of Taxation of the Commonwealth of Australia (1965), [1966] A.C. 224, à la page 264 :
+[traduction] On ne peut pas trouver la solution du problème en appliquant un critère ou une description rigide. Elle doit découler de plusieurs aspects de l’ensemble des circonstances dont certaines peuvent aller dans un sens et d’autres dans un autre. Une considération peut se détacher si nettement qu’elle domine d’autres et de plus vagues indications dans le sens contraire. C’est une appréciation saine de toutes les caractéristiques directrices qui doit apporter la réponse finale.
+[Non souligné dans l’original.]
+[41] Rejeter l’entièreté de la demande de l’appelante pour la déduction des honoraires engagés dans le cadre de la procédure de recours en cas d’abus pour le motif que ces sommes ont été engagées uniquement ou principalement dans le but de préserver une immobilisation signifierait que nous devrions ignorer les faits inusités en l’espèce. En voici quelques-uns :
+Avant la séparation, Mme Mader recevait, par l’intermédiaire d’une fiducie familiale, des dividendes versés par JEL.
+Ces dividendes étaient sa principale source de revenus.
+M. Richards était en mesure de cesser le versement de ces dividendes, ce qu’il a fait en 2010.
+L’appelante a accepté un versement de dividendes s’élevant à 1 533 469 $ dans le cadre d’un règlement partiel du contentieux avec M. Richards. Cette somme a été déclarée à titre de revenu dans sa déclaration de revenus de l’année 2013.
+La position subsidiaire énoncée dans la procédure de recours en cas d’abus était que l’appelante cherchait à obtenir une ordonnance visant à [TRADUCTION] « enjoindre M. Richards à déclarer et à forcer JEL et Holm à verser des dividendes à l’appelante pour les actions qu’elle détenait dans JEL et Holm ».
+[42] Ces facteurs appuient le fait que les honoraires en question ont été, du moins en partie, engagés pour que l’appelante puisse tirer un revenu, que ce soit sous forme de pension alimentaire ou de dividendes.
+[43] Je me fonde également sur les faits suivants pour étayer ma conclusion, à savoir que la majorité des dépenses déclarées par l’appelante relativement à la procédure de recours en cas d’abus étaient des dépenses en capital et n’ont pas été engagées en vue de tirer un revenu :
+Dans le cadre de la procédure de recours en cas d’abus, le jugement précise que la principale mesure de redressement demandée par l’appelante était le rachat de ses actions (au paragraphe 411).
+La procédure de recours en cas d’abus visait à obtenir une ordonnance enjoignant M. Richards à acheter de l’appelante 50 actions ordinaires de Holm Realty à leur juste valeur marchande en date du 31 mai 2010 et d’acheter ses actions de JEL de catégories A et C à leurs valeurs de rachat respectives.
+Subsidiairement, une ordonnance a été demandée afin d’empêcher M. Richards et d’autres parties de priver l’appelante de l’accès aux dossiers administratifs et de nuire à sa capacité à participer à la gestion des entreprises.
+Au cours de son contre-interrogatoire, l’appelante a confirmé que la principale mesure de redressement demandée dans sa requête était le rachat de ses actions.
+[44] Si j’applique ces facteurs à l’affaire en l’espèce, je ne peux accepter l’entièreté de l’argumentation de l’appelante. Il ne fait aucun doute dans mon esprit que les frais engagés par l’appelante dans le cadre de la procédure de recours en cas d’abus visaient principalement à protéger ses intérêts à l’égard de ses actions dans les sociétés. Ainsi, en ce qui concerne la majorité des dépenses engagées dans le cadre de la procédure de recours en cas d’abus, je conclus qu’elles ont été faites au titre du capital et qu’elles ne sont donc pas déductibles aux termes de l’alinéa 18(1)b) de la Loi.
+[45] Toutefois, dans cette situation particulière, il ne fait aucun doute que les honoraires ont été engagés afin d’obtenir une pension alimentaire ou un versement de dividendes par les sociétés et le rachat des actions de l’appelante. Ces coûts ont été entremêlés. Par conséquent, j’ai divisé les frais en question. Malheureusement, aucun effort n’a été déployé par l’appelante à cet égard. Selon mon examen des éléments de preuve, j’estime que 25 % de la somme versée dans le cadre de la procédure de recours en cas d’abus a été engagée pour tirer un revenu. Cette estimation vise à représenter le fait qu’en engageant des honoraires dans le cadre de la procédure de recours en cas d’abus, le principal objectif de l’appelante était de protéger ses intérêts à l’égard de ses actions dans les sociétés.
+[46] Je tiens à préciser que l’appelante est autorisée à déduire une somme supplémentaire de 24 242,47 $ en tant que frais d’honoraires pour l’année 2013 [5] . Le reste des honoraires engagés, qui s’élevait à 49 336,80 $, ne peut être déduit à titre de dépenses engagées en vue de tirer un revenu.
+[47] Les deux parties ont soulevé, dans leurs actes de procédure, la question de savoir si les frais juridiques et comptables en question pourraient être ajoutés au prix de base rajusté des actions rachetées en 2013. Ni l’une ni l’autre des parties n’a traité de ces questions lors du procès et, d’après ce que je peux voir, l’application de ces articles ne faisait pas partie de la cotisation dont a été saisie la Cour. Par conséquent, je ne traiterai pas de ces questions dans mon jugement.
+[48] Compte tenu du fait que chacune des parties obtient en partie gain de cause, chaque partie assumera ses propres dépens.
+Les présents jugement et motifs du jugement modifiés remplacent le jugement et les motifs du jugement datés du 31 décembre 2019.
+Signé à Ottawa, Canada, ce 30e jour de janvier 2020.
+« R. MacPhee »
+Le juge MacPhee
+Traduction certifiée conforme
+ce 22e jour de mai 2020.
+Mario Lagacé, jurilinguiste
+RÉFÉRENCE :
+2019 CCI 289
+NO DU DOSSIER DE LA COUR :
+2017-4544(IT)G
+INTITULÉ DE LA CAUSE :
+SANDRA LYNN MADER c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Yarmouth (Nouvelle-Écosse)
+DATE DE L’AUDIENCE :
+Le 21 octobre 2019
+MOTIFS DU JUGEMENT
+L’honorable juge Ronald MacPhee
+DATE DU JUGEMENT :
+Le 31 décembre 2019
+COMPARUTIONS :
+Pour l’appelante :
+L’appelante elle-même
+Avocat de l’intimée :
+Me Devon Peavoy
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+[EN BLANC]
+Cabinet :
+[EN BLANC]
+Pour l’intimée :
+Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa, Canada
+[1] Nadeau c. M.R.N., 2003 CAF 400 au paragraphe 34.
+[2] Voir Kruco Inc. c. Canada, [1998] ACI no 286, 1998 CarswellNat 629.
+[3] Keating c. La Reine, 2005 CCI 296, 2005 Carswell 1120. Bien qu’il s’agisse d’une décision informelle dans son analyse, la juge Campbell affirme s’être fondée sur les décisions Hoffman, succession c. Ministre du Revenu national, [1992] ACI no 645, 92 D.T.C 2290 (C.C.I.) et Muggli c. Canada, [1994] ACI no 178, 1 C.T.C. 2705 (C.C.I.) pour tirer sa conclusion.
+[4] [1998] ACI no 286, 1998 CarswellNat 628.
+[5] Cette somme a été calculée comme suit : ordonnance de dépens dans la requête en recours en cas d’abus de 58 000 $ + 7 782 $ (somme qui englobe six éléments de dépenses liés au recours en cas d’abus, y compris 4 326 $ versés à Jamie Ernst) x 0,25 % = 16 445,50 + 4 326,87 $ + 3 470,10 = 24 242,47 $.

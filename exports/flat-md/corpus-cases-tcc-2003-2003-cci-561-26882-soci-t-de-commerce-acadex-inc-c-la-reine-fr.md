@@ -1,0 +1,188 @@
+---
+title: "Société de commerce Acadex Inc. c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26882/index.do"
+last_modified: "2003-08-07"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 CCI 561"
+citation2: ""
+neutral_citation: "2003 CCI 561"
+decision_date: "2003-08-07"
+language: "fr"
+item_id: "26882"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 754
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T18:53:48.588000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "b74f595ddaf60241f4e47876a3d550d0b002fa2f8200f66a0c0bf70d1dcf09f0"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Société de commerce Acadex Inc. c. La Reine
+
+- Citation: 2003 CCI 561
+- Decision date: 2003-08-07
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 754, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Société de commerce Acadex Inc. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-08-07
+Référence neutre
+2003 CCI 561
+Numéro de dossier
+2002-804(GST)I
+Juges et Officiers taxateurs
+Louise Lamarre Proulx
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2002-804(GST)I
+ENTRE :
+SOCIÉTÉ DE COMMERCE ACADEX INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 18 février 2003 à Montréal (Québec).
+Devant : l'honorable juge Louise Lamarre Proulx
+Comparutions :
+Avocat de l'appelante :
+Me Stéphane Eljarrat-Lambotin
+Avocat de l'intimée :
+Me Gérald Danis
+____________________________________________________________________
+JUGEMENT
+L'appel de la cotisation établie en vertu de la Loi sur la taxe d'accise, émise pour la période comprise entre le 1er juin 1996 et le 30 novembre 1999, dont l'avis est en date du 30 novembre 2001 et porte le numéro 0319915, est accordé pour annuler la pénalité.
+À tous autres égards, l'appel est rejeté.
+Signé à Ottawa, Canada, ce 7ième jour d'août 2003.
+« Louise Lamarre Proulx »
+Juge Lamarre Proulx
+Référence : 2003CCI561
+Date : 20030807
+Dossier : 2002-804(GST)I
+ENTRE :
+SOCIÉTÉ DE COMMERCE ACADEX INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+La juge Lamarre Proulx,
+[1] Il s'agit d'un appel par voie de la procédure informelle concernant une cotisation établie en vertu de la Loi sur la taxe d'accise, la Loi, en date du 30 novembre 2001, pour la période du 1er juin 1996 au 30 novembre 1999. L'avis de cette cotisation porte le numéro 0319915.
+[2] Le litige concerne la demande de crédits pour intrants relativement aux factures de Alvaro Jimenez ou Confection Alvaro Jimenez pour la période de juillet 1996 au 21 mai 1999.
+[3] Au début de l'audience, l'avocat de l'intimée a modifié la Réponse à l'avis d'appel pour y indiquer les montants relatifs à la nouvelle cotisation ci-dessus mentionnée.
+[4] Les témoins de l'appelante ont été messieurs Michael Khouri, Brian Stott et madame Hélène Bellerose. Monsieur Jean-Pierre Monette a témoigné pour l'intimée. À la demande de l'avocat de l'appelante, il y a eu exclusion des témoins.
+[5] Monsieur Khouri est l'administrateur général des ventes chez l'appelante depuis 1995. L'appelante manufacture des sous-vêtements. Certaines opérations sont faites dans les ateliers de l'appelante, d'autres sont données en sous-traitance. L'entreprise a environ 600 fournisseurs dont 50 fournisseurs en couture. Monsieur Khouri a expliqué que la sélection d'un entrepreneur en couture se fait en fonction de la qualité de son travail.
+[6] Un de ces fournisseurs était Alvaro Jimenez ou Confection Alvaro Jimenez. Monsieur Khouri a relaté que le représentant de cette entreprise ou encore celui qui se présentait comme le propriétaire de cette entreprise de couture était monsieur Robert Acuna Rocha. Monsieur Khouri a ajouté qu'il n'avait aucun motif de se douter de l'honnêteté de cette personne. Il a agi avec cet entrepreneur comme avec les autres. Il y a un essai d'abord et si l'on est satisfait, on lui donne du travail. Le volume d'affaires avec cette entreprise a été de plus de 30 000 $ pour chacune des années 1997, 1998 et 1999.
+[7] Peu de temps après la fin de l'année fiscale de l'appelante, se terminant le 28 février 1999, les comptables externes de l'entreprise ont prévenu l'appelante que les numéros de TPS et TVQ manquaient sur les factures provenant de Alvaro Jimenez. C'est à monsieur Brian Stott, le comptable interne, que ce message a été fait.
+[8] L'appelante a alors demandé au chargé d'affaires de Confection Alvaro Jimenez quel était le numéro d'inscription pour les fins de la Loi. L'entreprise Alvaro Jimenez a commencé à partir du 25 mai 1999, à indiquer un numéro de TPS et de TVQ.
+[9] Toujours selon monsieur Khouri, monsieur Stott aurait demandé au représentant de Alvaro Jimenez si ces numéros étaient des numéros valides depuis 1996. Il lui aurait répondu que si. Monsieur Stott aurait vérifié le numéro auprès de Revenu Québec qui l'a informé que le numéro était valide. Il a voulu obtenir l'information à partir de quand ce numéro était en vigueur. On l'aurait informé que cette information était confidentielle.
+[10] Les factures de Alvaro Jimenez ont toutes été produites comme pièce A-1. La première est en date du 9 juillet 1996. Une taxe de 7% et de 6.5% ont été ajoutées au total. Aucun numéro d'inscription ne paraît. La première facture où le numéro de TPS paraît est celle en date du 25 mai 1999. La dernière facture est du 22 décembre 1999. Toutes les factures ont été payées par chèque. Tous les chèques ont été déposés comme pièce A-2.
+[11] Monsieur Khouri affirme n'avoir eu de problème avec aucun autre fournisseur sauf avec cette entreprise. À ce moment-là, en ce qui le concernait, quand le montant des taxes était inclus, la facture était conforme. Par la suite, il a appris différemment.
+[12] Monsieur Brian Stott a été le prochain témoin de l'appelante. Il est contrôleur depuis le 13 août 1997. Le processus administratif à l'égard des factures de confection Alvaro Jimenez a été le même qu'à l'égard de celles des autres fournisseurs. En premier lieu, les préposés à la production vérifient la quantité des biens fournis en relation avec le prix facturé. Par la suite, lui en tant que contrôleur reçoit la facture, il l'inscrit à l'ordinateur et émet le chèque. Il a relaté que le programme de l'ordinateur n'exigeait pas le numéro d'inscription.
+[13] Le témoin a relaté que lorsqu'il a commencé à travailler pour l'appelante, cette dernière faisait déjà affaire avec confection Alvaro Jimenez.
+[14] Tel que mentionné précédemment, l'année fiscale se termine le 28 février. C'est la firme des comptables externes qui, au mois de mai 1999, a informé l'appelante que les numéros manquaient. Monsieur Stott a immédiatement communiqué avec le représentant de Confection Alvaro Jimenez. La semaine suivante il y avait des numéros sur ses factures.
+[15] Le comptable externe lui a donné le numéro de téléphone où il pouvait téléphoner pour avoir de l'information de Revenu Québec. Tel que relaté par monsieur Khouri, il a demandé à Revenu Québec s'il s'agissait de numéros valides et depuis quand. Revenu Québec a répondu qu'il s'agissait de numéros valides mais qu'on ne pouvait pas donner l'information depuis quand. Monsieur Stott a demandé au fournisseur si ces numéros avaient été valides depuis le début. Ce dernier lui a dit que si mais qu'il ne les avait tout simplement pas écrits.
+[16] Monsieur Stott affirme que s'il avait eu toute l'information à ce moment il aurait recommandé à l'appelante de cesser de faire affaire avec cet entrepreneur et de lui exiger le paiement de la taxe auprès des autorités fiscales.
+[17] En contre-interrogatoire, l'avocat de l'intimée demande à monsieur Stott s'il savait en 1997 que les numéros de TPS et TVQ étaient nécessaires. Il a répondu dans l'affirmative mais offre comme excuse qu'il a 600 fournisseurs et qu'il s'agit d'un oubli. Il n'y a pas eu de problèmes avec les autres fournisseurs.
+[18] Madame Hélène Bellerose, technicienne en vérification fiscale pour Revenu Québec, a témoigné à la demande de l'avocat de l'appelante.
+[19] Elle a commencé sa vérification de l'appelante le 25 janvier 2000. Elle a rencontré monsieur Rocha à l'adresse indiquée sur les factures. Elle était toutefois convaincue à ce moment que la propriétaire de Confection Alvaro Jimenez était madame Cecilia Martinez qu'elle n'a pas réussi à rejoindre. À la fin, la vérificatrice a envoyé le dossier à la division des enquêtes spéciales.
+[20] L'avocat de l'appelante produit comme pièce A-7 un bulletin d'interprétation TVQ 415-2/R1 ayant comme titre « Inscription rétroactive » . L'avocat de l'intimée admet qu'il peut y avoir une inscription rétroactive et que dans la présente affaire, elle aurait pu rétroagir aux dates des premières factures. Toutefois, il précise que cette demande doit être faite par le fournisseur et non par l'acquéreur.
+[21] En contre-interrogatoire, l'avocat de l'intimée produit comme pièce I-5 la demande d'inscription de Cecilia Martinez faisant affaire sous le nom de Confection Alvaro Martinez. La date d'entrée en vigueur demandée est le 21 mai 1999. Il produit comme pièce I-6 une déclaration d'immatriculation d'une personne physique exploitant une entreprise individuelle. Cette déclaration est en date du 21 mai 1999. Le nom de la personne physique est Cecilia Martinez et le nom sous lequel elle fait affaire est Confection Alvaro Jimenez.
+[22] Monsieur Jean-Pierre Monette, directeur des services aux particuliers, a témoigné à la demande de l'avocat de l'intimée. Il a produit un bulletin d'information intitulé « Nouvelles Fiscales » , pour le troisième trimestre de l'année 1995, comme pièce I-7. Il se réfère à la page 10 à l'article intitulé « Le mot de la Vérification » et à l'extrait suivant :
+Pour demander un CTI et un RTI à l'égard de la TPS et de la TVQ réellement payées, vous devez posséder certains renseignements sur la transaction elle-même et sur votre fournisseur, en particulier le numéro d'inscription de ce dernier aux fichiers de la TPS et de la TVQ, si la fourniture est d'une valeur égale ou supérieure à 30 $. Or, vous devez non seulement obtenir ce numéro, mais aussi en vérifier la validité, pour éviter qu'on ne vous refuse, après une vérification de vos livres et de vos registres, le CTI ou le RTI que vous avez demandé relativement au bien que vous avez acquis.
+Si vous avez des doutes sur un numéro d'inscription aux fichiers de la TPS et de la TVQ, vous pouvez communiquer avec le bureau du ministère du Revenu du Québec le plus près de chez vous pour vérifier la validité de ce numéro. Nous ne pourrons pas vous donner le numéro d'inscription d'une personne en particulier ni aucun autre renseignement personnel se rapportant à son compte, mais si vous avez en votre possession le nom et l'adresse de votre fournisseur, nous pourrons vous dire si cette personne est inscrite aux fichiers de la TPS et de la TVQ. En outre, si vous connaissez aussi le numéro d'inscription qu'utilise cette personne, nous pourrons vous dire s'il est valide.
+Arguments et conclusion
+[23] L'avocat de l'appelante fait valoir que l'appelante a payé la taxe ainsi qu'elle était requise de le faire. Le fait qu'il n'y ait pas eu de numéro de TPS n'a pas retenu son attention. C'était un cas isolé. Tous les autres fournisseurs étaient en règle. Dès qu'il a été porté à l'attention de monsieur Stott que le numéro de TPS n'y était pas, il a communiqué immédiatement avec le fournisseur.
+[24] L'avocat de l'appelante a aussi rappelé que le contrôleur n'a pas pu savoir du ministère à partir de quelle date l'inscription était valide.
+[25] L'avocat fait aussi valoir que, le cas échéant, l'appelante n'est pas sujette à pénalité parce qu'elle a exercé une diligence raisonnable dans les circonstances.
+[26] L'avocat de l'intimée se réfère à l'alinéa 169(4)a) de la Loi et à l'article 3 du Règlement sur les renseignements nécessaires à une demande de crédit de taxe sur les intrants.
+[27] Il se réfère aussi à la jurisprudence de cette Cour en ce qui concerne l'absence de numéro d'inscription notamment aux décisions suivantes : Design Build Ltd. c. Canada, [1996] A.C.I. no 1793 (Q.L.), Helsi Construction Management Inc. c. Canada, [2001] A.C.I. no 149 (Q.L.), Rapid Transit Courier Ltd. c. Canada, [2000] T.C.J. No. 465, San Clara Holdings Ltd c. Canada, [1994] A.C.I. no 1208 (Q.L.), Metro Exteriors Ltd. c. Canada, [1995] A.C.I. no 1302 (Q.L.).
+[28] L'alinéa 169(4)a) de la Loi se lit comme suit :
+(4) - L'inscrit peut demander un crédit de taxe sur les intrants pour une période de déclaration si, avant de produire la déclaration à cette fin :
+a) il obtient les renseignements suffisants pour établir le montant du crédit, y compris les renseignements visés par règlement;
+[29] L'alinéa 3c) du Règlement sur les renseignements nécessaires à une demande de crédit de taxe sur les intrants se lit comme suit:
+c) lorsque le montant total payé ou payable, selon la pièce justificative, à l'égard d'une ou de plusieurs fournitures est de 150 $ ou plus :
+(i) les renseignements requis à l'alinéa a) et aux sous-alinéas b)(ii) à (v),
+(ii) soit le nom de l'acquéreur ou son nom commercial, soit le nom de son mandataire ou de son représentant autorisé,
+(iii) les modalités de paiement,
+(iv) une description suffisante pour identifier chaque fourniture.
+[30] Cet alinéa se réfère aux renseignements requis à l'alinéa a) et aux sous-alinéas b)(ii)à (v) qui se lisent comme suit :
+a) . . .
+(i) le nom du fournisseur ou son nom commercial;
+(ii) si une facture a été remise pour la ou les fournitures, la date de cette facture,
+(iii) si aucune facture n'a été remise pour la ou les fournitures, la date à laquelle il y a un montant de taxe payée ou payable sur celles-ci,
+(iv) le montant total payé ou payable pour la ou les fournitures;
+b) . . .
+(ii) le numéro d'inscription attribué au fournisseur conformément à l'article 241 de la Loi,
+(iii) dans le cas où la taxe payée ou payable n'est pas comprise dans le montant payé ou payable pour la ou les fournitures:
+(A) ou bien, la taxe payée ou payable pour toutes les fournitures ou pour chacune d'elles,
+(B) ou bien, si une taxe de vente provinciale est payable pour chaque fourniture taxable qui n'est pas une fourniture détaxée, mais ne l'est pas pour une fourniture exonérée ou une fourniture détaxée:
+(I) soit le total de la taxe payée ou payable selon la section II de la partie IX de la Loi et de la taxe de vente provinciale payée ou payable pour chaque fourniture taxable, ainsi qu'une déclaration portant que le total pour chaque fourniture taxable comprend la taxe payée ou payable selon cette section,
+(II) soit le total de la taxe payée ou payable selon la section II de la partie IX de la Loi et de la taxe de vente provinciale payée ou payable pour toutes les fournitures taxables, ainsi qu'une déclaration portant que ce total comprend la taxe payée ou payable selon cette section,
+(iv) dans le cas où la taxe payée ou payable est comprise dans le montant payé ou payable pour la ou les fournitures et que l'une ou plusieurs de celles-ci sont des fournitures taxables qui ne sont pas des fournitures détaxées, une déclaration portant que la taxe est comprise dans le montant payé ou payable pour chaque fourniture à l'égard de laquelle il y a une taxe payée ou payable,
+(v) dans le cas où deux fournitures ou plus appartiennent à différentes catégories, une mention de la catégorie de chaque fourniture taxable qui n'est pas une fourniture détaxée;
+[31] Je suis d'avis que la preuve a révélé que l'appelante a voulu et a cru se conformer à la Loi. Elle a payé les montants de taxe indiqués sur les factures. Malheureusement les numéros d'inscription ne s'y trouvaient pas. Or, il s'agit d'un élément essentiel au crédit de taxe sur les intrants.
+[32] La jurisprudence mentionnée par l'avocat de l'intimée est suffisamment constante qu'il me faille la suivre. De plus, je partage cette vue. Toute personne qui charge la taxe doit être une inscrite et conséquemment détenir un numéro d'inscription.
+[33] Cette exigence de la Loi et du Règlement peut facilement, me semble-t-il, être atteinte si le programme informatique est bien fait. Il me paraît surprenant que le programme informatique de l'appelante n'ait pas exigé l'inclusion du numéro d'inscription à l'égard du nom et de l'adresse du fournisseur quand il y a un montant de taxe qui est payé à l'égard de ses factures.
+[34] Je suis d'avis que ce n'est pas un argument pertinent au présent débat que de dire que si l'appelante avait su en mai 1999, que ce numéro n'était pas valide depuis le début, soit juillet 1996, elle aurait pu faire valoir ses droits autrement auprès du fournisseur.
+[35] Ici, ce n'est pas tellement une affaire concernant l'information à être donnée par les autorités fiscales à l'acquéreur d'un service ou d'un bien. Il s'agit tout simplement d'une absence de conformité avec les exigences de la Loi pendant une période de près de deux ans et demi. À cet égard, l'appel ne peut réussir.
+[36] Toutefois, qu'en est-il de l'imposition de la pénalité. Ainsi que je le disais précédemment, la preuve a révélé que l'appelante a voulu et a cru se conformer à la Loi. Quand le contrôleur est entré en fonction, l'appelante faisait déjà affaire avec le fournisseur litigieux. Cela peut expliquer cette omission. Dès que les comptables externes ont informé l'appelante que ce fournisseur n'avait pas de numéro d'inscription et devait en avoir un, l'appelante a pris action. L'intimée n'a pas soulevé qu'il y ait eu une omission semblable dans le passé, ni non plus qu'il y ait eu un manque de diligence ou de soin à d'autres égards concernant la conformité avec la Loi. Je suis donc d'avis qu'il n'y a pas de preuve de manque de diligence de la part de l'appelante. Je suis d'avis que la preuve a plutôt révélé une diligence normale de la part de l'appelante en ce qui concerne ses obligations à l'égard de la Loi. Elle n'est donc pas sujette à la pénalité.
+[37] L'appel est accordé pour annuler la pénalité. Il est rejeté quant à la demande de crédit de taxe sur les intrants à l'égard du fournisseur Confection Alvaro Jimenez.
+Signé à Ottawa, Canada, ce 7ième jour d'août 2003.
+« Louise Lamarre Proulx »
+Juge Lamarre Proulx
+RÉFÉRENCE :
+2003CCI561
+No DU DOSSIER DE LA COUR :
+2002-804(GST)I
+INTITULÉ DE LA CAUSE :
+Société de Commerce Acadex Inc.
+et Sa Majesté La Reine
+LIEU DE L'AUDIENCE :
+Montréal (Québec)
+DATE DE L'AUDIENCE :
+le 18 février 2003
+MOTIFS DE JUGEMENT PAR :
+l'honorable juge Lamarre Proulx
+DATE DU JUGEMENT :
+le 7 août 2003
+COMPARUTIONS :
+Pour l'appelant(e) :
+Me Stéphane Eljarrat-Lambotin
+Pour l'intimé(e) :
+Me Gérald Danis
+AVOCAT(E) INSCRIT(E) AU DOSSIER:
+Pour l'appelant(e) :
+Nom :
+Ravinsky Ryan
+Place du Canada, bureau 1200
+Montréal (Québec) H3B 2P9
+Pour l'intimé(e) :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

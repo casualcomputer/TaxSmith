@@ -1,0 +1,450 @@
+---
+title: "Anderson v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/495332/index.do"
+last_modified: "2021-04-08"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2021 TCC 28"
+citation2: ""
+neutral_citation: "2021 TCC 28"
+decision_date: "2021-04-08"
+language: "en"
+item_id: "495332"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4627
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2023-12-01T11:21:39.899000+00:00"
+cases_cited_count: 21
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "6960ae62da991c1e9643ad81170f05f8894d17d9f68ecd4f365bd48f979b2c02"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Anderson v. M.N.R.
+
+- Citation: 2021 TCC 28
+- Decision date: 2021-04-08
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4627, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Anderson v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2021-04-08
+Neutral citation
+2021 TCC 28
+File numbers
+2018-271(EI), 2018-272(CPP)
+Judges and Taxing Officers
+Don R. Sommerfeldt
+Subjects
+Employment Insurance Act
+Decision Content
+Dockets: 2018-271(EI)
+2018-272(CPP)
+BETWEEN:
+MICHAEL M. ANDERSON,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+Appeals heard on December 11, 2019 at Grande Prairie, Alberta; and Written Submissions received on November 19, 2020, December 11, 2020 and December 18, 2020.
+Before: The Honourable Justice Don R. Sommerfeldt
+Appearances:
+Counsel for the Appellant:
+Michael E. Wheaton
+Counsel for the Respondent:
+Andrew Lawrence
+JUDGMENT
+The Appeals are dismissed, without costs, and the decision of the Minister of National Revenue that is the subject of these Appeals is confirmed.
+Signed at Ottawa, Canada, this 8th day of April 2021.
+“Don R. Sommerfeldt”
+Sommerfeldt J.
+Citation: 2021 TCC 28
+Date: 20210408
+Dockets: 2018-271(EI)
+2018-272(CPP)
+BETWEEN:
+MICHAEL M. ANDERSON,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGMENT
+Sommerfeldt J.
+I. ISSUE
+[1] In 2016, was Michael M. Anderson an employee of Northern Interior Insurance Adjusters Ltd. (“NIIA”), or was his corporation, 1883022 Alberta Ltd. (“188AB”), a contractor working for NIIA? That is the question to be decided in these Appeals.
+II. PROCEDURAL BACKGROUND
+[2] In January 2017, Mr. Anderson’s bookkeeper and tax advisor requested a ruling from the Canada Revenue Agency (the “CRA”) as to the employment status of Mr. Anderson. By letter dated March 13, 2017, the CRA Rulings Officer notified Mr. Anderson that it had been determined that Mr. Anderson was not an employee of NIIA. Mr. Anderson appealed that ruling to the Minister of National Revenue (the “Minister”). By letter dated October 16, 2017, the Minister notified Mr. Anderson that it had been determined that, in 2016, Mr. Anderson was not an employee of NIIA, with the result that he was not eligible for employment insurance (“EI”) benefits. Mr. Anderson appealed the Minister’s decision (the “Decision”) as it applies for the purposes of both the Employment Insurance Act (the “EIA”) [1] and the Canada Pension Plan (the “CPP”). [2]
+III. FACTS
+[3] In 2015, Mr. Anderson was an experienced, educated and competent insurance adjuster. During his long career, he had previously worked for large national adjusting firms, small local adjusting firms, and had even owned and managed his own adjusting firm. He had achieved a “Level 3” designation, which is the highest designation granted by the Insurance Council of British Columbia (the “ICBC”) to insurance adjusters and, when managing his own firm, had been designated as a nominee (which is a designation required to supervise less experienced adjusters).
+[4] NIIA was a local adjusting firm, with offices in Terrace, Smithers and Prince George, British Columbia. NIIA was, in 2015, equally owned by Dwayne Hillock and Stephen Ward, both of whom were Level 3 adjusters. Earlier in his career, Mr. Anderson had worked for NIIA, for several years, before leaving for another opportunity.
+[5] By way of background, several years before 2015, Mr. Anderson had taken a position, as an insurance adviser, with Paul Davis Restoration. Consequently, Mr. Anderson’s Level 3 designation lapsed, as he was no longer working as an adjuster.
+[6] In late 2014 and early 2015, discussions ensued between Mr. Anderson and Mr. Hillock about the possibility of Mr. Anderson rejoining NIIA and opening an office in Fort St. John, British Columbia. The discussions turned into negotiations and ultimately, at a dinner meeting in mid-February 2015, attended by Mr. Anderson, Mr. Hillock and Mr. Ward, NIIA presented to Mr. Anderson a three‑page document entitled “Offer of Employment.” [3] This document was not in the form of a typical employment agreement, as it contained only the following provisions:
+(a) a reference to the commencement date (i.e., March 1, 2015);
+(b) three brief point-form provisions, two of which related to the compensation to be paid to Mr. Anderson and the third of which related to mileage reimbursements; and
+(c) three clauses designed to ensure that Mr. Anderson would not divulge NIIA’s confidential information or attempt to lure away the clients or employees of NIIA. [4]
+The compensation was described as “60% commission on billings,” with a draw of $5,000 per month, to be paid at the middle and end of each month, [5] to be applied toward commissions, and with “Full reimbursement of kilometers.” The document did not contain any of the other provisions that are common in an employment agreement, such as the position to be held by the employee, the term of the employment, the duties of the employee, the obligations of the employer, vacation, benefits, and the like.
+[7] The copy of the Offer of Employment entered into evidence (Exhibit A-1, Tab 1) was not signed. However, both Mr. Anderson and Mr. Hillock testified that they, as well as Mr. Ward, signed the document. [6] Accordingly, I accept that the Offer of Employment was signed and that it represented a valid contract.
+[8] Mr. Hillock testified that he and Mr. Ward endeavoured to be progressively minded in managing and operating the business of NIIA. When each of them had been a young adjuster working for a national firm, they regretted that they were not each given an opportunity to work as an independent contractor, rather than as an employee. Accordingly, in managing NIIA, they had determined that they would provide each adjuster with an opportunity to choose whether to work as an employee or as an independent contractor. Mr. Hillock was adamant in his testimony that, during the negotiations leading to Mr. Anderson’s entering into an arrangement with NIIA, Mr. Anderson was given such a choice, and he chose to create a corporation that would work on a contract basis for NIIA.
+[9] For his part, Mr. Anderson took the opposite position in his testimony. He stated that it was his view that it would have been contrary to the laws and rules governing insurance adjusters in British Columbia for him to interpose a corporation between NIIA and himself, given that he, at that time, no longer had a Level 3 designation and was required to work under the supervision of a Level 3 adjuster. He was insistent that Mr. Hillock and Mr. Ward forced him to incorporate a corporation to which his compensation would be paid by NIIA, and that he did so reluctantly, in order to be paid.
+[10] Mr. Anderson stated that, although the Offer of Employment provided for a start date of March 1, 2015, he began working for NIIA in mid-February 2015. Initially he was doing non-adjusting work, related to opening, equipping and supplying NIIA’s new office in Fort St. John. He could not begin to work as an adjuster until such time as NIIA had made an application to the ICBC to have him designated as an adjuster authorized to represent NIIA. That process was completed on February 24, 2015, at which time Mr. Anderson began to work on several adjusting files that were waiting for him. Mr. Anderson stated that NIIA agreed to pay him $2,500 for the work that he did in the second half of February, even though this was not mentioned in the Offer of Employment. Mr. Anderson testified that, when there was a delay in receiving such payment, causing him to inquire about the delay, he was told by Mr. Ward that he would not be paid until he had established a corporation to receive the payment. Accordingly, Mr. Anderson arranged for 188AB to be incorporated on March 13, 2015.
+[11] In his testimony, Mr. Hillock did not say anything about NIIA agreeing to pay Mr. Anderson for work done by him in February. According to Mr. Hillock, the first payment made by NIIA occurred on March 15, 2015 and related to work done during the first 15 days of March. Mr. Hillock stated that, at no time, did NIIA threaten Mr. Anderson or state that no compensation would be paid until Mr. Anderson had incorporated. Mr. Hillock reiterated that it was the choice of Mr. Anderson to incorporate.
+[12] When 188AB was incorporated, Mr. Anderson made arrangements for it to register the trade name Northern Claims Services. [7]
+[13] On March 13, 2015, Mr. Anderson sent an email to Mr. Hillock and Mr. Ward, advising that 188AB had been incorporated on that day. As the email was relatively short, containing only two paragraphs, those paragraphs are set out below:
+Here is the letter of incorporation. For banking purposes drafts should be submited [sic] under the doing business name of Northern Claims services [sic].
+Is it possible to do the March 15 transaction via Email Transfer?. [sic] If so please let me know. [8]
+[14] During cross-examination, Mr. Hillock acknowledged that, after Mr. Anderson chose to use a contractor arrangement, nothing was done to amend or replace the Offer of Employment. Mr. Hillock conceded that such a revision should have been made but, because NIIA was a relatively small operation and this was the first time that an adjuster had chosen a contractor arrangement rather than an employment arrangement, NIIA did not have the systems or protocols in place to document the arrangement properly.
+[15] The Minister, through Mr. Hillock, introduced a bundle of cheques representing most of the compensation cheques paid by NIIA. [9] Those cheques cover the semi-monthly pay periods with end dates from March 31, 2015 to September 30, 2016, and two additional cheques dated January 9, 2018 and January 18, 2018. [10] Each of those cheques, as instructed by Mr. Anderson, was made payable to Northern Claims Services.
+[16] No cheques were produced for the payment, if any, in respect of work done in late February 2015 or the work done during the first 15 days of March 2015. As noted above, in Mr. Anderson’s email of March 13, 2015, he asked Mr. Hillock and Mr. Ward whether it was “possible to do the March 15 transaction via Email Transfer.” [11] However, in his oral testimony, Mr. Anderson stated that “the first cheque was made out to Michael Anderson, and I deposited [it] in the bank account that I had created.” [12] Thus, it is unclear whether the payment on March 15, 2015 was made by email transfer or by cheque.
+[17] Initially, NIIA mailed the compensation cheques to Northern Claims Services or to Mr. Anderson (the evidence was not clear as to the name of the addressee that was put on the envelopes in which the cheques were mailed) at either NIIA’s office in Fort St. John or Mr. Anderson’s residence in Grande Prairie. Mr. Anderson found that it took too long for those cheques to arrive in the mail, so he made arrangements with the office manager of NIIA in Terrace, which was the location of NIIA’s administrative office, to deposit the cheques directly into the bank account that Northern Claims Services had at a Canadian chartered bank. [13] Mr. Anderson referred to this as a direct deposit arrangement, but it is my understanding that it was not a situation where the money was transferred electronically from NIIA’s bank account directly to the bank account of Northern Claims Services. Rather, the arrangement involved the physical deposit of an actual cheque into the bank account of Northern Claims Services. [14]
+[18] Mr. Anderson or 188AB (depending on one’s view of the matter) was entitled to be reimbursed for certain expenses incurred while working for NIIA. During the 19 months that Mr. Anderson or 188AB worked for NIIA, three reimbursement cheques were issued. Two of those cheques were made payable to Mr. Anderson, and one cheque was made payable to Northern Claims Services. Mr. Hillock said that it was an error on the part of NIIA to make two of the reimbursement cheques payable to Mr. Anderson, rather than following the latter’s instructions to make the cheques payable to Northern Claims Services.
+[19] At some point in time, Mr. Anderson arranged for NIIA to open an office in Grande Prairie, Alberta. Apparently, this office was located in Mr. Anderson’s home.
+[20] In March or April 2016, a decision was made to reduce the monthly draws from $5,000 to $4,000 and to increase the commission rate from 60% to 65%. [15] Mr. Hillock explained that this was done because the Fort St. John and Grande Prairie offices were less profitable than originally anticipated. Mr. Anderson stated that this was a unilateral decision made by NIIA, which was foisted upon him.
+[21] Many of the cheques representing compensation paid by NIIA were in the amount of $2,500 (from March 31, 2015 to March 31, 2016) or $2,000 (from April 29, 2016 to September 30, 2016). For the months in which an additional commission was earned, the amounts of the cheques were greater (e.g., $2,885.50 on April 15, 2016, $5,110 on May 12, 2016 and $6,345.70 on July 15, 2016). Several of the semi-monthly cheques combined the semi-monthly draw (which may have occasionally included additional commission) and the reimbursement of automobile expenses (calculated on a per-kilometre basis). [16] It appears that, after Mr. Anderson or 188AB stopped working for NIIA, NIIA issued four additional cheques, apparently representing compensation for Mr. Anderson’s or 188AB’s work-in-progress (“WIP”) billed by NIIA after Mr. Anderson’s departure. [17]
+[22] A variety of handwritten captions appeared in the lower left-hand corner of the various cheques. For instance, the caption “Mar 15-31st Contract Services” was used to describe the cheque dated March 31, 2015. While the handwriting is not clear, it appears that each cheque from April 15, 2015 to June 15, 2015 used the term “Contractor fees” after a notation of the chronological period covered by the cheque. The cheque dated June 30, 2015 used the caption “Contract sales June 15‑30”; and the cheque dated July 15, 2015 used the caption “Contract July 1‑15th.” The cheque dated July 30, 2015 showed the caption “June Mileage & Pay end July 30/15.” Other cheques simply provided the beginning and ending dates of the chronological period covered by the cheque, and, where applicable, a reference to automobile expenses. Notably, the cheque dated September 30, 2015 bore the caption “payroll Sept 15-30/15,” while the cheque dated October 15, 2015 contained the caption “Regular Draw.” From October 30, 2015 to January 18, 2018, the captions on all the cheques in evidence contained the phrase “Contract Services,” sometimes followed by the dates of the applicable chronological period or a reference to mileage or automobile expenses.
+[23] No source deductions (in respect of income tax, EI premiums or Canada Pension Plan contributions) were withheld from any of the cheques representing draws, additional commissions or post-departure payments. [18]
+[24] According to Mr. Hillock, during the general time frame that is the subject of these Appeals, six adjusters worked for NIIA. He did not indicate whether he and Mr. Ward were included in those six or whether they were in addition to those six. Four of those adjusters had chosen to work as employees and two of them (i.e., Mr. Anderson and another adjuster) had chosen to provide services through contractor corporations. [19] NIIA withheld source deductions from the compensation paid to the four employees, but not from the compensation paid to the two contractor corporations. At the end of 2015 and 2016, NIIA issued T4 slips to the four employees, but not to the two adjusters with contractor corporations. [20]
+[25] When Mr. Anderson filed his T1 income tax return for 2015 on August 4 2016, he reported $1 of employment income. [21] He did not report any business income. Mr. Anderson stated that his accountant delayed filing the 2015 income tax return because she was trying, unsuccessfully, to obtain from NIIA a T4 slip in respect of Mr. Anderson. Mr. Anderson did not file a T1 income tax return for 2016. [22] During his testimony, Mr. Anderson explained that he could not file his income tax return for 2016 because his status (as an employee of NIIA or as a shareholder and employee of 188AB) had not yet been ascertained.
+[26] While the evidence was not clear, it seems that 188AB did not obtain a business number from the CRA, nor did it file any T2 income tax returns with the CRA. As well, it seems that 188AB did not register under the Excise Tax Act (the “ETA”) for the purposes of the goods and services tax (the “GST”). [23]
+[27] Unfortunately, in 2016 Mr. Anderson was injured in three motor vehicle accidents, each progressively worse than the preceding accident. The first accident occurred in March 2016, while Mr. Anderson was driving through a parking lot and his vehicle was T-boned by another vehicle backing out of a parking spot. [24] As a result of that accident, Mr. Anderson sustained a serious whiplash injury, followed by debilitating headaches, which necessitated physiotherapy and pain medication.
+[28] A few months later, in August 2016, after a painful physiotherapy session, which necessitated the taking of pain medication, as Mr. Anderson was driving from Grande Cache to Grande Prairie, he fell asleep at the wheel, and his vehicle ran into the back end of a welding truck. [25] Mr. Anderson narrowly avoided being killed in that accident.
+[29] On December 15, 2016, while returning from Prince George to Grande Prairie, Mr. Anderson was asleep in the passenger’s seat of the vehicle that his wife was driving. Due to poor road conditions, while crossing a bridge, she lost control of the vehicle, which went over the side of the bridge and down a steep embankment, rolling six times, before it came to rest in a deep gully. Mr. Anderson sustained “a fairly severe brain injury” in that accident. [26]
+[30] The brain injury sustained in his third accident left Mr. Anderson with several disabilities. He has made remarkable, and perhaps miraculous, progress in recovering from his injuries. Nevertheless, Mr. Anderson explained that he has been left with cognitive issues and memory issues, although the memory issues relate more to short-term memory than to long-term memory. Mr. Anderson stated that he continues to “suffer from severe PTSD [post-traumatic stress disorder] as a result of the accident and circumstances surrounding [his] employment…,” and that he is still receiving treatment. [27]
+[31] After the second accident, Mr. Anderson realized that his convalescence would take some time, and he wondered whether he was in a position to continue working. Accordingly, on September 8, 2016 he sent a letter to NIIA, to the attention of Mr. Hillock, requesting a leave of absence. [28] In that letter, after mentioning that his healthcare advisors had suggested that he should reduce his work and rest more during his convalescence, he stated the following in the context of employment insurance:
+I do not qualify for EI benefits nor do we have a disability program either through your office or personally….
+I query, therefore, are we covered under the WCB [Workers Compensation Board] program provincially, or any other program that I have overlooked[?] [29] [Emphasis added.]
+IV. ANALYSIS
+A. Employee or Independent Contractor
+[32] Mr. Anderson claims that he was an employee of NIIA. The Minister asserts that Mr. Anderson worked for 188AB, which was a contractor hired by NIIA. There is no suggestion that Mr. Anderson himself was an independent contractor hired by NIIA. Nevertheless, the test used to determine whether an individual is an employee or an independent contractor may have some application in resolving the fundamental issue in these Appeals.
+(1) Jurisprudence
+[33] Although there is no universal test for determining whether a worker is an employee or an independent contractor, the “central question is whether the person who has been engaged to perform the services is performing them as a person in business on his own account.” [30] In making such determination, the following factors should generally be considered:
+a) Does the hirer control the worker’s activities?
+b) Does the hirer provide the tools and equipment required by the worker, or is the worker required to provide his or her own tools and equipment?
+c) Does the worker hire his or her own helpers?
+d) What is the degree of financial risk taken by the worker? In other words, does the worker have a risk of loss?
+e) What is the degree of responsibility for investment and management held by the worker?
+f) Does the worker have an opportunity for profit in the performance of his or her tasks? [31]
+There is no set formula concerning the application of the above factors, which is a non-exhaustive list. [32]
+[34] In the last two decades, the courts have noted the importance of considering the stated intention of the parties (i.e., the hirer and the worker) in determining whether the worker is an employee or an independent contractor. The role of intention was explained by the Federal Court of Appeal in Connor Homes in this manner:
+30 Alongside the test as set out in Weibe Door and Sagaz, in the past few years another jurisprudential trend has emerged which affords substantial weight to the stated intention of the parties: Wolf v. The Queen, 2002 D.T.C. 6053 (F.C.A.) …; Royal Winnipeg Ballet v. Canada (Minister of National Revenue) 2006 FCA 87….
+33 As a result, Royal Winnipeg Ballet stands for the proposition that what must first be considered is whether there is a mutual understanding or common intention between the parties regarding their relationship. Where such a common intention is found, be it as independent contractor or employee, the test set out in Wiebe Door is then to be applied by considering the relevant factors in light of that mutual intent for the purpose of determining if, on balance, the relevant facts support and are consistent with the common intent….
+38 Consequently, Wolf and Royal Winnipeg Ballet set out a two step process of inquiry that is used to assist in addressing the central question, as established in Sagaz and Wiebe Door, which is to determine whether the individual is performing or not the services as his own business on his own account.
+39 Under the first step, the subjective intent of each party to the relationship must be ascertained. This can be determined either by the written contractual relationship the parties have entered into or by the actual behaviour of each party, such as invoices for services rendered, registration for GST purposes and income tax filings as an independent contractor.
+40 The second step is to ascertain whether an objective reality sustains the subjective intent of the parties. As noted by Sharlow J.A. in TBT Personnel Services Inc. v. Canada, 2011 FCA 256, … at para. 9, “it is also necessary to consider the Wiebe Door factors to determine whether the facts are consistent with the parties’ expressed intention.” In other words, the subjective intent of the parties cannot trump the reality of the relationship as ascertained through objective facts. In this second step, the parties[’] intent as well as the terms of the contract may also be taken into account since they colors [sic] the relationship. As noted in Royal Winnipeg Ballet at para. 64, the relevant factors must be considered “in the light of” the parties’ intent. However, that being stated, the second step is an analysis of the pertinent facts for the purpose of determining whether the test set out in Wiebe Door and Sagaz has been in fact met, i.e[.,] whether the legal effect of the relationship the parties have established is one of independent contractor or of employer-employee.
+41 The central question at issue remains whether the person who has been engaged to perform the services is, in actual fact, performing them as a person in business on his own account. As stated in both Wiebe Door and Sagaz, in making this determination no particular factor is dominant and there is no set formula. The factors to consider will thus vary with the circumstances. Nevertheless, the specific factors discussed in Wiebe Door and Sagaz will usually be relevant, such as the level of control over the worker’s activities, whether the worker provides his own equipment, hires his helpers, manages and assumes financial risks, and has an opportunity of profit in the performance of his tasks….
+42 … The first step of the analysis should always be to determine at the outset the intent of the parties and then, using the prism of that intent, determining in a second step whether the parties’ relationship, as reflected in objective reality, is one of employer-employee or of independent contractor. [33]
+[35] In Insurance Institute of Ontario, while considering the application of the two steps in the test enunciated in Connor Homes, Justice Graham focused specifically on whether the result of the first step affects the application of the test in the second step. He concluded “that intention must be relevant when the Wiebe Door and Sagaz factors indicate that the relationship is one thing but the parties intended it to be another thing and their relationship is similar to what they intended.” [34] Concerning the application of the second step, Justice Graham stated:
+26. Based on all of the foregoing, I conclude that the second step of the Connor Homes test should be applied as follows:
+a) Where the payor and the worker do not share a common intention, their relationship will be the relationship indicated by the Wiebe Door and Sagaz factors.
+b) Where the payor and the worker share a common intention:
+if the Wiebe Door and Sagaz factors are consistent with that common intention, then their relationship will be the relationship that they intended;
+if the Wiebe Door and Sagaz factors are completely inconsistent with that common intention, then their relationship will be the relationship indicated by those factors; and
+if the Wiebe Door and Sagaz factors are inconsistent with that common intention but the parties nonetheless act and carry on their relationship in a manner that is similar to what one would expect from their intentions, then their relationship will be the relationship that they intended. [35]
+(2) Application
+[36] Following the guidance set out in Connor Homes, I will first consider whether there was a mutual understanding or common intention among NIIA, 188AB and Mr. Anderson regarding their relationship. I will then consider the factors identified in Sagaz and Wiebe Door in light of such mutual intent (if any) for the purpose of determining if, on balance, the relevant facts sustain and are consistent with such intent.
+(a) Intention
+[37] The evidence does not clearly establish that NIIA, 188AB and Mr. Anderson had a common intention one way or the other. Some of the evidence pointed to an intention to create a contractor relationship. For instance, Mr. Hillock testified that NIIA gave Mr. Anderson the choice to work as an employee or to incorporate a corporation that would be a contractor, and that Mr. Anderson chose the latter alternative. Mr. Anderson then arranged for 188AB to be incorporated and directed that the compensation cheques be deposited into the bank account of 188AB. In advising NIIA of the name of his new corporation, Mr. Anderson also provided the corporation’s trade name, which Mr. Anderson described as its “doing business name.”
+[38] Other evidence pointed to an intention to create an employment relationship. For instance, the document that Mr. Hillock, Mr. Ward and Mr. Anderson signed at their meeting in February 2015 was entitled “Offer of Employment.” 188AB did not issue invoices to NIIA. 188AB did not register with the CRA in order to obtain a GST number, nor did 188AB collect GST from NIIA. [36] There was no evidence of 188AB having filed a corporate income tax return to report business income. The business cards used by Mr. Anderson showed only his name, and made no reference to 188AB. [37] As well, Mr. Anderson was adamant during his oral testimony that he had intended to be an employee of NIIA.
+[39] A further possibility is that, in 2015 and 2016, Mr. Anderson and NIIA (as represented by Mr. Hillock and Mr. Ward) did have a common intention to the effect that 188AB was an independent contractor hired by NIIA to provide insurance adjusting services, but that, sometime after Mr. Anderson stopped working, his understanding or recollection of the arrangement underwent a change (perhaps due to the brain injury that he sustained in the third motor vehicle accident). Regardless of the underlying reason for the differing views of Mr. Anderson and Mr. Hillock, it is clear that, when these Appeals were commenced and when they were heard, Mr. Anderson, 188AB and NIIA did not share a common intention concerning the nature of their former relationship. Given the current lack of consensus among Mr. Anderson, 188AB and NIIA, I will assume, for the purposes of the Sagaz, Wiebe Door and Connor Homes analysis, that there was no clearly established common intention in 2015 and 2016 as to the nature of the relationship among those parties.
+[40] Having completed the first Connor Homes step, without having conclusively found a common intention to have created either a contractor relationship or an employment relationship, I now move to the second Connor Homes step, and embark on an analysis of the Sagaz and Wiebe Door factors, with a view to determining the nature of the former relationship among Mr. Anderson, 188AB and NIIA.
+(b) Control
+[41] As Mr. Anderson was not a Level 3 adjuster in 2015 and 2016, he was required by the applicable legal and regulatory regime to work under the supervision of a Level 3 adjuster, such as Mr. Hillock or Mr. Ward. Thus, insofar as the legal and regulatory regime was concerned, it could be said that NIIA had an element of control over Mr. Anderson. On the other hand, Mr. Anderson was at Level 2 only because he had left the adjusting profession for several years before returning to the profession in 2015. Mr. Hillock testified that Mr. Anderson was an experienced senior adjuster, who had previously attained Level 3, who had been a branch manager, who had technical skills, and who could do his own reports to insurers without supervision. [38] Furthermore, Mr. Anderson had previously owned and managed his own adjusting firm. [39] Mr. Hillock testified that he did not exercise any control over the manner in which Mr. Anderson organized or performed his adjusting activities, [40] and that “Mr. Anderson basically worked on his own.” [41]
+[42] It is my understanding that, although NIIA held the license under which Mr. Anderson worked, NIIA did not control the manner in which he investigated accidents, interacted with insureds, claimants and other adjusters, drafted his reports to the insurers which he represented, or otherwise adjusted claims. In other words, although, for the purposes of the ICBC’s rules, Mr. Anderson was authorized to represent NIIA, and NIIA was in a position to control the result or quality of work done by Mr. Anderson, that circumstance did not constitute control by NIIA over the performance by Mr. Anderson of his insurance adjusting activities. [42]
+(c) Tools and Equipment
+[43] NIIA provided Mr. Anderson and 188AB with an office in Fort St. John, a laptop computer, computer software (including software customized for insurance adjusters), an internet connection, utilities and office supplies. [43] Mr. Anderson was required to provide his own vehicle, cell phone and camera, although he or 188AB was reimbursed for certain vehicle operating expenses and phone expenses, and he was paid $2 for every photograph that he took on his own camera in his capacity as an adjuster and that was used on a client file. When NIIA opened an office in Grande Prairie, that office was situated in Mr. Anderson’s home. There was no evidence to suggest that NIIA paid rent to Mr. Anderson for the home‑office space or that NIIA reimbursed Mr. Anderson for the business-related portion of occupancy costs, such as utilities, insurance or property taxes.
+(d) Hiring of Helpers
+[44] There was no detailed evidence as to whether any helpers were hired, either by Mr. Anderson or 188AB, to assist him or it in his or its adjusting responsibilities. However, when Mr. Anderson arranged for NIIA to have a rented post office box in Grande Prairie, Mr. Anderson’s wife was designated as an additional person who was authorized to pick up the mail. [44] After Mr. Anderson’s second motor vehicle accident in 2016, his wife sometimes drove for him on work‑related trips. [45] There was no evidence as to whether she was paid for picking up the mail or for driving.
+(e) Risk of Loss
+[45] There was no evidence of Mr. Anderson or 188AB having sustained a loss in 2015 or 2016. Given that fixed semi-monthly draws of $2,500 or $2,000 (before or after March/April 2016 respectively) were paid by NIIA to 188AB, and given that many of the expenses incurred by Mr. Anderson or 188AB were reimbursed by NIIA, it seems unlikely that there was a significant risk of incurring a loss. Nevertheless, Mr. Anderson or 188AB could have incurred a loss if the unreimbursed expenses had exceeded the aggregate of the draws for a particular fiscal period. Furthermore, Mr. Anderson’s use of his vehicle in the course of his work posed its own risks, as indicated in Dynamex Canada:
+The contract also carried with it the risk for [the appellant] of significant loss. Traffic fines, damage to his vehicle and the potential for liability to others for damage caused in the course of the work were all potential sources of loss. Some of these risks were significant, and some he could insure against. Indeed, he was required to insure against liability to third parties. But the potential for unforeseen losses is always a hazard in those cases where the worker provides the vehicle at his own expense. [46]
+(f) Responsibility for Investment and Management
+[46] There was no evidence that related to this particular factor.
+(g) Opportunity for Profit
+[47] The agreement under which Mr. Anderson or 188AB worked clearly provided a chance for profit. Initially the compensation was set at monthly draws of $5,000 (i.e., $2,500 in mid-month and $2,500 at month end). The monthly draws later changed to $4,000 (i.e., $2,000 in mid-month and $2,000 at month end). In addition, Mr. Anderson or 188AB was initially entitled to 60% of any billings for his or its work to the extent that the billings exceeded $5,000 per month. In March or April 2016, the commission rate changed to 65% of any billings in excess of $4,000 per month. This was a target that was achievable, as evidenced by compensation cheques paid to Northern Claims Services in the amounts of $2,885.50 on April 15, 2016, $5,110 on May 12, 2016, $6,345.70 on July 15, 2016, $7,851.30 on January 9, 2018 and $4,205.85 on January 18, 2018. [47] In addition, the table that is the first page of Exhibit R-5 indicates that compensation cheques in the amounts of $1,336 and $6,097.25 were paid by NIIA to 188AB on December 15, 2016 and January 13, 2017 respectively. [48]
+[48] Mr. Anderson had a reputation as an experienced insurance adjuster. That reputation attracted business for NIIA. In particular, Mr. Anderson had contacts with three insurers, to which he referred as “Mutual Fire, SGI, [and] Intact Insurance,” which would have provided him with a greater opportunity to earn commissions. [49] In addition, from time to time Mr. Anderson, sometimes with Mr. Hillock and Mr. Ward, went on various marketing trips. [50]
+(h) Weighing and Balancing
+[49] In my view, the control test, when viewed in the context of the working arrangements (as distinct from the context of governmental regulation), points to contractor status. The tools and equipment test is somewhat balanced. While the hiring of helpers test may be a neutral factor, it might possibly suggest contractor status, depending on the circumstances of Mrs. Anderson, which were not fully established in the evidence. The opportunity for profit test clearly supports contractor status, while the risk of loss test points in both directions. The responsibility for investment and management test is not relevant based on the evidence presented at the hearing.
+[50] Disregarding the interposition of 188AB between NIIA and Mr. Anderson, on balance, the Sagaz and Wiebe Door factors point toward contractor status. The question is to what extent, if any, the presence of 188AB impacts the analysis. Before considering that question, however, it would be helpful to discuss the concept of the continuum between an employee and an independent contractor.
+B. Continuum Between an Employee and an Independent Contractor
+[51] Counsel for Mr. Anderson referred me to the decision of the Supreme Court of British Columbia in Pasche v. MDE Enterprises Ltd. [51] That case involved a claim for wrongful dismissal by a worker, who had not incorporated and who claimed to be an employee, while the entity for which the work was done asserted that the worker was an independent contractor. In its decision, the BC Supreme Court acknowledged that in recent years various courts have held that there is an intermediate category in “the continuum between an employee and an independent contractor.” [52] In Pasche, the Court quoted the following statement by the BC Supreme Court in an earlier case:
+The jurisprudence of employment law has, in relatively recent times, evolved to recognize the realities of the modern workplace and the fact that the relationship between workers and those to whom they provide their services are not simply binary -- either employee-employer or independent contractor. In a number of decisions, the courts have come to acknowledge that there are a variety of different arrangements that the parties may have. The approach to be taken is to examine the situation from a functional perspective.
+The result has been the recognition of relationships that fall within an area between the two traditional models…. [53]
+[52] In British Columbia, these hybrid or mid-continuum cases are sometimes referred to as “intermediate” cases. [54] In Ontario, such relationships are typically described as “dependent contractor” relationships. [55]
+[53] In Pasche, the Court also quoted the following statement by the BC Supreme Court in another case:
+As a general proposition, a person on an employer’s payroll and for whom the employer makes conventional statutory deductions from his pay will be considered to be an employee. If his contract does not provide otherwise, that person is entitled to reasonable notice of termination of his employment. An independent contractor, on the other hand, is not an employee. Between those two states lies a construct of the common law: the dependent contractor. The dependent contractor is not on payroll, but in most other ways operates and is treated as an employee. A dependent contractor is entitled to reasonable notice of termination of his contract. [56]
+In the Pasche case, the Court concluded that the plaintiff was not an employee or an independent contractor, but was a dependent contractor. Significantly, in Pasche, the Court held that a dependent contractor is not an employee. [57]
+[54] Pasche and some of the cases cited therein stated that, in a wrongful dismissal context, some of the protections available to an employee, such as adequate notice of termination, are also available to a dependent contractor. I am not certain that that principle may be expanded and extrapolated to the determination of a worker’s status in the context of the EIA and the CPP. Furthermore, as noted above, Pasche indicated that a dependent contractor is not an employee.
+[55] Subsection 5(1) of the EIA makes it clear that, apart from service in the Canadian Forces or a police force, the term insurable employment requires that there be employment in one of four specified categories. [58] Similarly, the definition of the term pensionable employment in subsections 2(1) and 6(1) of the CPP makes it clear that pensionable employment requires that there be employment.
+[56] The Pasche case and some of the cases cited therein have made it clear that a hybrid or other hirer/worker relationship in the intermediate category may be akin to employment, but it does not constitute employment per se. In other words, a near-employment relationship is not actually employment. [59] Thus, in my view, a hybrid, dependent contractor or intermediate relationship does not qualify as either insurable employment or pensionable employment. [60]
+C. Effect of Interposing a Corporation
+[57] As noted by the Supreme Court of Canada in Sagaz, when determining whether a worker was an employee or an independent contractor, the central question is whether the worker performed services as a person in business on his own account. [61] This question, as framed in this manner, is not actually applicable to these Appeals, given that the question would actually look at whether Mr. Anderson (as distinct from 188AB) was carrying on business on his own account. Hence, it is important to remember that the issue is not: Was Mr. Anderson an employee or an independent contractor of NIIA? Rather, the issue is: Was Mr. Anderson an employee of NIIA, or was 188AB a contractor of NIIA?
+[58] Mr. Anderson asserts that neither he nor 188AB was carrying on business. The Minister has not suggested that Mr. Anderson was carrying on business; however, the Minister submits that 188AB was carrying on a business.
+(1) Jurisprudence
+[59] The hearing of Mr. Anderson’s Appeals is not the first occasion that this Court has considered a situation where a corporation was interposed between a hirer and a worker. In Felix, Associate Chief Justice Lamarre considered a situation where a worker, supposedly at the insistence of the hirer, incorporated a corporation, which entered into an agreement with the hirer to provide the services of the worker. [62] In Felix, there was a signed agreement between the hirer and the worker’s corporation, such that Felix can be distinguished from the current Appeals. In Felix, Associate Chief Justice Lamarre quoted the following statement from the Jennings case:
+Ironically, it is not the Minister who seeks to pierce the so-called “corporate veil” but rather the taxpayer. The applicant [i.e., the Crown] maintains that the respondent [Mr. Jennings] and his corporation are separate legal entities and that “the normal rule of a corporation being a separate and distinct legal entity from its shareholders [should apply in the case at bar]”; per Iacobucci C.J. … in The Queen v. MerBan Capital Corporation Limited…. On this issue, the decision of the Supreme Court of Canada in Kosmopoulos v. Constitution Insurance Co., … is instructive…. Wilson J. observed …:
+The law on when a court may disregard [the principle of separate corporate entities] by “lifting the corporate veil” and regarding the company as a mere “agent” or “puppet” of its controlling shareholder or parent corporation follows no consistent principle. The best that can be said is that the “separate entities” principle is not enforced when it would yield a result “too flagrantly opposed to justice, convenience or the interests of the Revenue”.... [63]
+[Square bracketing and underlining in the quotation from Kosmopoulos were in Felix.]
+[60] In Felix, Associate Chief Justice Lamarre also quoted the following statement from the Meredith case:
+Lifting the corporate veil is contrary to long-established principles of corporate law. Absent an allegation that the corporation constitutes a “sham” or a vehicle for wrongdoing on the part of putative shareholders, or statutory authorisation to do so, a court must respect the legal relationships created by a taxpayer…. [64]
+[61] Turning to non-fiscal cases, in Braiden v. La-Z-Boy, a case in which a worker incorporated at the insistence of the hirer, so that the hirer could avoid the need to provide reasonable notice of termination and avoid claims for wrongful dismissal, the Ontario Court of Appeal summarized as follows one of the points made by the trial judge:
+The trial judge also explained that employment relationships exist on a continuum. The employer-employee relationship lies at one end of the continuum and independent contractors lie at the other end. He suggested that a third category of relationships has emerged, between those two points, in which reasonable notice of termination must also be given. [65]
+[62] In rejecting the hirer’s submission that its relationship was with the worker’s corporation, and not with the worker, the Ontario Court of Appeal stated:
+Where an individual is providing services pursuant to an agreement, the fact that the individual is paid through his or her corporation is not determinative of whether an employment relationship exists with the individual. [66]
+The Court of Appeal then held that, on the evidentiary record, there was no other conclusion available but that the hirer had used a series of annual agreements, made at the insistence of the hirer, initially between the hirer and the worker, and subsequently between the hirer and the worker’s corporation, to secure the personal services of the worker. [67] The Court then applied the Sagaz criteria and upheld the decision of the trial judge that the worker was an employee of the hirer.
+[63] The Quebec Superior Court stated the following in Cohen v. Conseillers en informatique d’affaires CIA, where a corporation had been interposed between a hirer and a worker, in what had previously been an employment relationship:
+The Court understands the current state of the Quebec jurisprudence on whether employees or their corporate successors are entitled to reasonable notice of termination of consulting agreements that replace prior employment agreements to be as follows:
+If an individual who provides services under a contract chooses to incorporate a company that provides and bills the same services to the same beneficiary [i.e., the hirer] under a new contract, only the company, not the individual, can sue the beneficiary under the new contract for any reason, whether the original contract was one of employment or one of services. Since the individual retains no lien de droit with the beneficiary, there will be no lifting of the corporate veil to re-establish it.
+If, on the other hand, the original contract is one of employment and the incorporation and the new contract are imposed on the employee by the employer as a subterfuge to avoid complying with the legal provisions that otherwise would protect her as an employee, the new contract will be considered a sham and the corporate veil will be lifted, allowing the employee instead of the company to sue the employer for severance pay in lieu of notice of termination. [68] [Emphasis in original; footnotes omitted.]
+[64] The Braiden and Cohen cases have limited application to these Appeals, as both of those cases dealt with situations where employees had had long-standing employment relationships with their respective employers, before those relationships were replaced, in Braiden at the insistence of the employer, and in Cohen at the request of the employee, with new arrangements that interposed a corporation between the employer and the employee. The application of Cohen is further limited by its Quebec civil law context. [69] Nevertheless, Cohen indicates that the question of whether the interposition of a corporation between a hirer and a worker was requested by the worker or imposed by the hirer is a relevant consideration. In the present Appeals, there is conflicting evidence in this regard, as Mr. Hillock asserted that Mr. Anderson was given a choice by NIIA and he chose to incorporate, whereas Mr. Anderson claims that the use of a corporation was forced upon him by NIIA.
+(2) Application
+[65] In my view, the evidence is insufficient to prove conclusively that 188AB was a contractor working for NIIA. Of all the documentary evidence put before the Court, the only documents that referred to 188AB are:
+a) the report of the search conducted at Alberta Corporate Registry in respect of 188AB; [70]
+b) The email dated March 13, 2015 from Mr. Anderson to Mr. Hillock and Mr. Ward, with which Mr. Anderson appears to have sent a pdf copy of 188AB’s certificate of incorporation, and which directed that payments should be made using the trade name Northern Claims Services; [71]
+c) a void cheque that shows the bank account number of 188AB and that shows the name of the account holder as being Northern Claims Services (i.e., 188AB’s trade name), which was provided by Mr. Anderson to NIIA in early October 2015, when Mr. Anderson was making arrangements for the semi-monthly compensation cheques to be deposited directly into the bank account of 188AB; [72]
+d) the compensation cheques, which were payable to Northern Claims Services (i.e., 188AB’s trade name) and the accompanying ledger, which tabulated those cheques; [73] and
+e) one of the three expense-reimbursement cheques, which reimbursed Northern Claims Services for expenses incurred during the period July 13, 2015 to December 14, 2015 and the accompanying ledger, which tabulated the three cheques. [74]
+All of the other documents entered into evidence referred to Mr. Anderson, rather than to 188AB (whether by its own name or by its trade name).
+[66] There was no documentary evidence to indicate that 188AB was actually carrying on business, nor where there any documents showing the relationship between Mr. Anderson and 188AB, apart from the above-mentioned corporate search report, which indicated that Mr. Anderson was the only director of 188AB. In a typical contractor situation, planned and implemented by a competent practitioner, one would have expected to see a written contract between NIIA and 188AB relating to the provision of adjusting services by 188AB to NIIA, and an employment contract between 188AB and Mr. Anderson, pursuant to which Mr. Anderson would have agreed, in his capacity as an employee of 188AB, to perform the adjusting services that 188AB was contractually required to provide to NIIA. However, no such documents were introduced into evidence, nor was the minute book of 188AB put into evidence. The business cards used by Mr. Anderson showed only his name and the name of NIIA, but not the legal name or the trade name of 188AB. [75]
+[67] There was no indication that 188AB obtained a business licence from any applicable provincial or municipal authority, nor did 188AB obtain a business number from the CRA. 188AB did not register under the ETA for the purposes of the GST, nor did 188AB collect GST from NIIA in respect of the compensation payments. [76] There was no evidence that 188AB (which was an Alberta corporation) registered extraprovincially to carry on business in British Columbia.
+[68] 188AB was dissolved on September 2, 2017, for failure to file annual returns under the Alberta Business Corporations Act. Interestingly, NIIA issued two compensation cheques to Northern Claims Services on January 9, 2018 and January 18, 2018 respectively (i.e., after 188AB was dissolved). Mr. Hillock explained that, after Mr. Anderson stopped working (as a result of the motor vehicle accidents), NIIA, in keeping with its usual practice, paid 188AB for its WIP, as that WIP was billed by NIIA. [77]
+[69] For the reasons set out above, I am not persuaded that 188AB was actually carrying on an adjusting business. However, for the reasons set out below, neither am I persuaded that Mr. Anderson was an employee of NIIA.
+[70] The evidence was clear that 188AB had been incorporated by Mr. Anderson and he had specifically requested that the cheques representing the compensation for the adjusting services be paid to Northern Claims Services (i.e., 188AB). Mr. Hillock testified that, at the outset of the relationship between NIIA and Mr. Anderson, Mr. Anderson was given the choice between working as an employee or arranging for a corporation to provide services as a contractor, and Mr. Anderson chose the contractor relationship. On the other hand, Mr. Anderson stated that the contractor arrangement was forced upon him by NIIA. Given that four of the six adjusters working at NIIA chose to work as employees, and only one adjuster (apart from Mr. Anderson) chose a contractor arrangement, I do not accept Mr. Anderson’s assertion that the arrangement was forced upon him.
+[71] I have difficulty accepting Mr. Anderson’s assertion that he was told by Mr. Ward that NIIA would not make any payment for adjusting services until after Mr. Anderson had incorporated a corporation to receive that payment. [78] Mr. Anderson stated that, in response to the insistence by NIIA, he arranged for 188AB to be incorporated. [79] The incorporation of 188AB occurred on March 13, 2015, [80] and the same day Mr. Anderson advised Mr. Hillock and Mr. Ward of the incorporation. [81] Mr. Anderson testified that, after arranging for the incorporation, he “got paid.” Specifically, he stated:
+Q. … So you established this company, and what -- what happens after that as far as your pay cheques go?
+A. I got paid….
+Q. How? How?
+A. I received a cheque from them after that, and the first cheque was made out to Michael Anderson, and I deposited [it] in the bank account that I had created. [82]
+The above statement by Mr. Anderson is perplexing, because it suggests that NIIA was willing to issue a cheque to him in his own name, which, in turn, further suggests that NIIA was not refusing payment until such time as 188AB was incorporated. [83] Furthermore, 188AB was incorporated before the end of the first pay period in the first full month of the working relationship among NIIA, 188AB and Mr. Anderson. This too belies Mr. Anderson’s claim that NIIA was delaying payment until after the incorporation.
+[72] A further concern is that, in the email of March 13, 2015, Mr. Anderson actually requested that the payment due on March 15, 2015 be made by email transfer. Perhaps, NIIA declined Mr. Anderson’s request, and issued a cheque instead. But, if NIIA did issue a cheque, it is curious that it ignored the instruction in the first paragraph of that email (wherein Mr. Anderson requested that the cheque be made payable to Northern Claims Services), and, instead, issued the cheque to him personally. [84]
+[73] At the hearing of these Appeals, Mr. Anderson made various comments about the existence and legal effectiveness of 188AB, not all of which were consistent with one another. In particular, his various statements included the following:
+Q. … What happened when it was time for your first pay cheque?
+A. It didn’t show up, and ‑‑ and it was being withheld, and so I phoned firstly Dwayne Hillock and then Mr. Stephen Ward, and they told me that their accountant had advised them that they required some kind of a company be formed or I would not receive my wages. And at that point, I was already in for ‑‑ for three and a half weeks, and I was expecting ‑‑ $5,000 is what I was expecting. And they agreed to pay for the ‑‑ for the formation of the company.
+I objected and told them that the Insurance Council of British Columbia would not permit that, … and they said, we only want it for our usage, we don’t care whether you use it or not.
+And so I agreed, but I didn’t agree that I was forming a company because I did not want to break the insurance council’s rules…. [85]
+Q. If I could ask you to refer to Tab 3 of Exhibit …. A-1.… What is this, Mr. Anderson?
+A. That’s the corporation that I filed in Alberta.
+Q. … And did you operate under this number, 1883022 Alberta Limited?
+A. I had -- I had set up a company under that but as a company operating as Northern Claims Service [sic]…. [86]
+Q. … So you established this company, and what -- what happens after that as far as your pay cheques go?
+A. I got paid….
+Q. How?...
+A I received a cheque from them after that, and the first cheque was made out to Michael Anderson, and I deposited in the bank account that I had created.
+Q. And -- and subsequent payments, what -- what system did you set up for that?
+A. I had a direct deposit that was set up so that they could direct-deposit into the account out of the company that they had paid for that they had requested me to open…. [87]
+Q. So I note that it [i.e., 188AB] was registered on 2015/03/13. On that date, were you a director of that corporation?
+A. I believe I was. However, that corporation was stagnant and never, ever actually entered into the insurance industry whatsoever.
+Q. Were you a shareholder of that corporation?
+A. Yes, I was.
+Q. Were you the only director and shareholder of that corporation?
+A. I believe I was.
+Q. So turning to the second page of this same document, it says: (As read)
+Associated registrations under the Partnership Act, trade partner
+name, Northern Claim[s] Services.
+So would it be correct to say that the name of this corporation rather than -- or the trade name would have been Northern Claim[s] Services?
+A. Yes.
+Q. And you registered that trade name?
+A. In Alberta…. [88]
+Q. So, Mr. Anderson, you stated earlier that incorporation was -- was not your idea and, in fact, that you protested this.
+A. That’s correct.
+Q. Did you ever send an e-mail registering your protest about this?
+A. Yes, I did, as a matter of fact.
+Q. Do you have a -- a copy of that e-mail?
+A. I – I’m not sure that it’s in that -- the record here. I remember seeing a discussion about the incorporation when they had asked me to send -- or sign a release, a -- a claim at the end of my work, which included Northern Claim [sic] Services, which I refused to sign, as it really did not exist. [89]
+Thus, Mr. Anderson acknowledged that he arranged for the incorporation of 188AB, that he was the only shareholder and director of 188AB, that he arranged for 188AB to register the trade name Northern Claims Services, and that compensation payments from NIIA were deposited into 188AB’s bank account. He also said that, although he agreed to the formation of a company, he did not agree that he was forming a company because he did not want to break the ICBC’s rules. He further stated that 188AB was stagnant, did not enter into the insurance industry, and really did not exist. In my view, there are inconsistencies in some of Mr. Anderson’s statements. However, Mr. Anderson was correct when he expressed doubt about whether the email to which he referred was put into evidence; it was not.
+[74] Counsel for Mr. Anderson made the following submission concerning 188AB:
+The corporation established by the Appellant had no role in any aspect of the relationship between the parties other than being a bank account established at the explicit direction of NIIA. [90]
+If 188AB’s only role was to be a bank account, it is strange that Mr. Anderson went to the trouble of causing 188AB to register the trade name Northern Claims Services. If 188AB was merely a bank account for Mr. Anderson, I would have expected him to have adduced evidence showing the flow of funds from NIIA through 188AB to him, and I would have expected him to have reported income from employment with NIIA on his 2015 and 2016 income tax returns.
+[75] Although counsel for Mr. Anderson submitted that 188AB had no role other than to be a bank account, he did not expressly suggest that 188AB was a mere conduit. There was no specific evidence to confirm that 188AB was the agent or trustee of Mr. Anderson for the purpose of receiving compensation payments for him as principal or beneficiary. Similarly, there was no express indication by Mr. Anderson or his counsel that the money paid by NIIA to 188AB actually belonged to Mr. Anderson, and not to 188AB.
+[76] There was no documentary evidence suggesting that Mr. Anderson was dissatisfied with the arrangement between NIIA and 188AB. In particular, the email that Mr. Anderson sent to Mr. Ward on March 13, 2015 did not contain any indication that Mr. Anderson was displeased with the insertion of 188AB in the payment structure. [91] In late September or early October 2015, Mr. Anderson provided NIIA with a void cheque, in order to make arrangements for NIIA to deposit the semi-monthly compensation cheques into 188AB’s bank account. [92] If Mr. Anderson had been dissatisfied with the compensation cheques being paid by NIIA to 188AB, this would have been an opportunity for him to request that the structure be revised, rather than continued. As noted above, Mr. Anderson did not produce a copy of the email that he claims to have sent to protest having to incorporate 188AB, [93] leaving me in doubt as to whether such an email actually was sent.
+[77] In the letter of September 8, 2016, written after Mr. Anderson’s second accident and before the brain injury that he suffered in the third accident, he made a reference to EI benefits. His comment indicated an understanding and an acceptance on his part that such benefits were not available to him under the arrangement that was in place. [94]
+[78] Mr. Anderson testified that he complained about NIIA forcing him to use a corporation and that he was concerned that it might be contrary to the laws and rules governing insurance adjusters in British Columbia. On the other hand, Mr. Hillock testified that he was not aware of any such complaint having been made by Mr. Anderson, and that he only learned of Mr. Anderson’s views in that regard while listening to Mr. Anderson’s testimony in court. Mr. Hillock also stated that it was his understanding that an insurance adjuster could work as either an employee or as a contractor of an adjusting firm and that the contractor relationship was in compliance with the applicable laws and rules. Mr. Hillock cited several examples of adjusters with whom he is acquainted and who worked as contractors for adjusting firms. However, Mr. Hillock acknowledged that he had not actually researched the applicable laws and rules; rather, his understanding was based on his experience and observations.
+[79] I found both Mr. Anderson and Mr. Hillock to be sincere in their respective testimonies. It is my view that each believed that he was telling the truth and each thought that he was accurately describing what happened in 2015 and 2016. Nevertheless, one of them was mistaken or had an inaccurate memory of what had occurred. In endeavouring to resolve this matter, I have considered the following:
+a) Given that NIIA had four adjusters in 2015 and 2016 who worked as employees, NIIA would have had no apparent reason to force Mr. Anderson to choose a different relationship (i.e., a non-employment relationship), to incorporate 188AB and to use 188AB as a contractor.
+b) Mr. Anderson testified that he was shocked when “they” (presumably meaning Mr. Hillock and Mr. Ward) told him that, unless he incorporated and used a contractor arrangement, he wouldn’t be paid. [95] He also testified that they told him that the contractor arrangement was being put in place “for [their] tax purposes only.” [96] If NIIA’s tax purposes required Mr. Anderson to arrange for 188AB to work as a contractor, it is difficult to understand why NIIA would have allowed four of its other adjusters to work as employees.
+c) If Mr. Anderson did not intend to use 188AB as a contractor, it is puzzling that he would have gone to the bother and expense of registering the trade name Northern Claims Services. The explanation for doing so, as given by Mr. Anderson, was the following:
+… I did that because I foreseen [sic] … a problem…. If I’d have simply provided information to them as a numbered company, … it would not have violated the rules of the council [presumably the ICBC], and that would have meant that I would be a contractor for them. But because I included the term Northern Claim Service [sic], it brought it within the realm of the insurance council’s control.
+… I did that to prevent myself from being taken advantage of where they would suggest I was a contractor. I said, I can’t be a contractor under these terms. I allowed them the opportunity to come back and say, well, we don’t want to see an insurance entity on the thing; can we just have it as Mike Anderson or as the numbered company? They agreed to accept it as it was, it met their requirements, while knowing that it would have no operation under the Insurance Act.
+… I think I was hedging my bets so that I would not be a contractor…. I didn’t want to operate under those terms, … and I wanted to make sure that they understand [sic], I was not going to apply for a license for anything other than … an employee of their firm. [97]
+I have difficulty understanding the above explanation.
+d) In his email of March 13, 2015 to Mr. Hillock and Mr. Ward, Mr. Anderson requested that drafts (and presumably cheques) be issued “under the doing business name of Northern Claims [S]ervices.” [98] I view the wording of that request as an indication that, when Mr. Anderson incorporated 188AB, he intended that it would do business.
+e) If Mr. Anderson did not intend to use 188AB as a contractor, it is curious that, rather than objecting to the contractor arrangement or trying to change it, he instead caused 188AB (operating as Northern Claims Services) to open a bank account, and that, in late September or early October 2015, he provided to NIIA a void cheque in respect of that account, so that NIIA could deposit Northern Claims Services’ compensation cheques into that account. [99]
+f) If Mr. Anderson thought that he was an employee of NIIA, it is perplexing that, in his letter of September 8, 2016 to NIIA (written between his second and third motor vehicle accidents), he stated, “I do not qualify for EI benefits….” [100]
+g) The cognitive issues, memory issues and PTSD sustained by Mr. Anderson as a result of his brain injury in the third motor vehicle accident may have affected his perception, understanding and recollection of events.
+For the reasons set out above, where the respective testimonies of Mr. Anderson and Mr. Hillock differ, I prefer the testimony of Mr. Hillock.
+[80] I am troubled by Mr. Anderson’s 2015 income tax return, in which he reported only $1 of employment income. He claims that this was done because NIIA did not issue a T4 slip to him. However, even without a T4 slip, Mr. Anderson was aware of the respective amounts of each compensation payment made by NIIA to Northern Claims Services in 2015. If Mr. Anderson was, in fact, an employee of NIIA, he or his accountant could have calculated the amount of employment income to be reported. The reporting of only $1 of employment income is consistent with all compensation from NIIA having been paid to 188AB (operating as Northern Claims Services), and only $1 of that compensation having been paid, as employment income, by 188AB to Mr. Anderson. However, I am not certain that only $1 was paid by 188AB to Mr. Anderson.
+[81] There was no evidence as to whether the compensation paid by NIIA to 188AB was retained by 188AB, or whether it was, in turn, paid by 188AB to Mr. Anderson as a salary, wage or dividend, or was otherwise made available to him. My sense is that he likely did not have the financial resources not to take any salary (apart from perhaps $1) or dividends from 188AB in 2015. If 188AB was a contractor and if Mr. Anderson was an employee of 188AB, I would have expected 188AB to have made significant salary or dividend payments to Mr. Anderson in 2015, but there is no evidence that such occurred. [101]
+[82] I did not get the impression that Mr. Anderson completely organized or fully implemented the structure that he had started to put in place in respect of 188AB. This seems to be a situation where, in February and March 2015, neither Mr. Anderson nor NIIA knew exactly what he or it was doing. The documentation that was put in place does not clearly establish that there was an employment relationship between NIIA and Mr. Anderson or that there was a contractor relationship between NIIA and 188AB. However, I do accept the testimony of Mr. Hillock that, when negotiating the arrangement, he gave Mr. Anderson the choice of working as an employee or having a corporation work as a contractor and that Mr. Anderson chose the contractor relationship (although such relationship may not have been properly documented and implemented).
+[83] For the purposes of the analysis required by Connor Homes and Insurance Institute of Ontario, my impression is that in 2015 Mr. Anderson and NIIA did share a common intention that 188AB, as a contractor, would provide services to NIIA. However, at some subsequent point in time that common intention no longer existed. I cannot ascertain whether the rupture of the common intention occurred while Mr. Anderson was still working, or whether it occurred after he had terminated the relationship with NIIA.
+[84] I have decided to use the approach that is the most favourable to Mr. Anderson, which is to decide these Appeals on the basis that he and NIIA did not share a common intention concerning their relationship. Accordingly, in accordance with subparagraph 26(a) of Justice Graham’s decision in Insurance Institute of Ontario, I will simply apply the Wiebe Door and Sagaz factors, without undertaking the analysis contemplated by subparagraph 26(b) of that decision. [102] As stated above, [103] those factors point toward contractor status.
+D. Summary and Resolution
+[85] Mr. Anderson has the burden of proving that it was he, and not 188AB, who entered into the contractual arrangement with NIIA and that whatever relationship he had with NIIA constituted insurable employment and pensionable employment. In some cases, it is clear that the party with the burden of proof has satisfied, or has failed to satisfy, that burden. In other cases, the evidence might be more evenly balanced, such that the principle enunciated by the Privy Council in Robins v. National Trust might be applicable:
+But onus as a determining factor of the whole case can only arise if the tribunal finds the evidence pro and con so evenly balanced that it can come to no sure conclusion.
+Then the onus will determine the matter. [104]
+[86] Some of the facts established by the evidence (most notably, Mr. Anderson having arranged for 188AB to be incorporated and to register the trade name Northern Claims Services, under which it would presumably do business; most, if not all, of the compensation cheques having been paid by NIIA to Northern Claims Services; and Mr. Anderson’s acknowledgment in his letter of September 8, 2016 that he did not qualify for EI benefits), together with the testimony of Mr. Hillock, suggest that 188AB may have been a contractor. However, as there was no evidence of 188AB actually carrying on business activities or being licenced to do so, I am unable to find conclusively that 188AB was a contractor working for NIIA.
+[87] Many of the documents, particularly the Offer of Employment and the application to the ICBC, suggest that Mr. Anderson was an employee, as does Mr. Anderson’s testimony. Nevertheless, the fact that 188AB was put in place and the other facts noted in the first sentence of the preceding paragraph suggest that initially there was likely an intention to have a contractor arrangement, rather than an employment arrangement. Mr. Anderson may well have been an employee of NIIA, but the evidence that was put before me does not prove on a balance of probabilities that such was the case.
+[88] It is possible that Mr. Anderson may have been in an intermediate or hybrid category on the continuum between employee and independent contractor; however, it is not necessary for me to make a definitive finding in that regard. As noted above, [105] a hybrid, mid-continuum, intermediate or dependent contractor relationship does not constitute insurable employment or pensionable employment.
+[89] As well, by way of reiteration, the Sagaz and Wiebe Door factors point toward a contractor relationship, not an employment relationship. [106]
+V. CONCLUSION
+[90] As Mr. Anderson has the burden of proving that he was an employee of NIIA, and as he has failed to meet that burden, these Appeals are dismissed, without costs, and the Decision is confirmed.
+Signed at Ottawa, Canada, this 8th day of April 2021.
+“Don R. Sommerfeldt”
+Sommerfeldt J.
+CITATION:
+2021 TCC 28
+COURT FILE NOS.:
+2018-271(EI), 2018-272(CPP)
+STYLE OF CAUSE:
+MICHAEL M. ANDERSON AND THE MINISTER OF NATIONAL REVENUE
+PLACE OF HEARING:
+Grande Prairie, Alberta
+DATE OF HEARING:
+December 11, 2019
+DATES OF SUBMISSIONS:
+November 19, 2020 (Appellant)
+December 11, 2020 (Respondent)
+December 18, 2020 (Appellant)
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Don R. Sommerfeldt
+DATE OF JUDGMENT:
+April 8, 2021
+APPEARANCES:
+Counsel for the Appellant:
+Michael E. Wheaton
+Counsel for the Respondent:
+Andrew Lawrence
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Michael E. Wheaton
+Firm:
+Dobko & Wheaton
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Employment Insurance Act, SC 1996, c. 23, as amended.
+[2] Canada Pension Plan, RSC 1985, c. C-8, as amended.
+[3] Exhibit A-1, Tab 1.
+[4] The substantive portion of the document occupied less than two pages. The signature blocks occupied the bottom portion of the second page and the top portion of the third page.
+[5] Although the Offer of Employment stated that Mr. Anderson was to be paid a “Draw of $5,000 per month bi-monthly for … six months…,” Mr. Anderson testified that he was paid two draws a month, each for $2,500 (Transcript, p. 25, lines 25-27). As well, the list of draw cheques and the copies of those cheques (Exhibit R-5) confirmed that the draws were paid on a semi-monthly basis (and not every two months, as the word “bi‑monthly” might possibly suggest, depending on which meaning is attributed to it).
+[6] Transcript, p. 29, lines 10-17; and p. 145, lines 5-16.
+[7] Exhibit A-1, Tab 3, p. 2. In these Reasons, depending on the context, I sometimes refer to 188AB as “Northern Claims Services.”
+[8] Exhibit R-1.
+[9] Exhibit R-5, which contains a list of the cheques, as well as copies of most of the cheques.
+[10] The list of cheques that forms part of Exhibit R-5 also mentions two additional cheques, dated December 15, 2016 and January 13, 2017, which, like the cheques dated January 9, 2018 and January 18, 2018, appear as though they may have related to payments of compensation. Some of the semi-monthly cheques contained not only the semi-monthly draw but also additional commission or mileage reimbursements.
+[11] Exhibit R-1, 2nd paragraph. See paragraph 13 above.
+[12] Transcript, p. 40, lines 18-19.
+[13] For security purposes, the name of the bank is not given in these Reasons.
+[14] The reason for expressing this view is that Exhibit R-5 contains copies of most of the compensation cheques from March 31, 2015 to January 18, 2018. Some of those copies show the reverse side of the particular cheque and in those cases there is a deposit stamp from the bank affixed on the back of the cheque.
+[15] During his testimony, Mr. Anderson initially indicated that the decision to reduce the monthly draws was made in May 2018 (Transcript, p. 118, lines 9-20). He subsequently said that the year was 2015 or 2016, but went on to state that it was one year after he had started work, which would suggest 2016 (Transcript, p.118, line 21 to p. 119, line 3).
+[16] Examples of such cheques were cheques in the respective amounts of $3,583.40 on July 30, 2015, $3,634.20 on August 14, 2015, $4,389.80 on September 15, 2015, $8,236 on November 15, 2015, $2,922.49 on December 15, 2015, $6,534 on March 15, 2016, $6,097 on June 15, 2016 and $3,677.50 on August 15, 2016. The cheque (if any) issued by NIIA at the end of December 2015 was not included in Exhibit R-5.
+[17] See Transcript, p. 163, line 19 to p. 164, line 5. The cheques were in the respective amounts of $1,336 on December 15, 2016, $6,097.25 on January 13, 2017, $7,851.30 on January 9, 2018 and $4,205.85 on January 18, 2018. The cheques dated January 9, 2018 and January 18, 2018 were issued to Northern Claims Services. The cheques dated December 15, 2016 and January 13, 2017 were not included in Exhibit R-5, so I do not know the name of the payee on those two cheques.
+[18] Transcript, p. 42, lines 9-14.
+[19] Transcript, p. 134, lines 1-2; p. 135, lines 20-23; and p. 137, lines 3-5.
+[20] Transcript, p. 98, line 17 to p. 99, line 21; p. 135, line 24; and p. 136, line 27 to p. 137, line 5.
+[21] Exhibit R-4, p. 1. This document is actually a Form RC143 printout of the data entered into the CRA’s computer, as taken from Mr. Anderson’s 2015 income tax return. See also Transcript, p. 100, line 22 to p. 102, line 19.
+[22] Exhibit R-4, third page; and Transcript, p. 98, line 8 to p. 99, line 12.
+[23] Transcript, p. 103, lines 14-22.
+[24] In a letter which Mr. Anderson wrote on September 8, 2016 (Exhibit R-3) to NIIA (to the attention of Mr. Hillock), Mr. Anderson stated that this accident occurred on March 1, 2016. During his direct examination at the hearing of these Appeals, Mr. Anderson stated that the accident happened on March 23, 2016 (Transcript, p. 11, line 19).
+[25] In the above letter of September 8, 2016 (Exhibit R-3), Mr. Anderson stated that the second accident occurred on August 15, 2016. During his direct examination at the hearing, Mr. Anderson, while not sure of the exact date, indicated that the accident occurred on August 28, 2016 (Transcript, p. 11, lines 25-27).
+[26] Transcript, p. 12, lines 13-22.
+[27] Transcript, p. 12, lines 22-28. See also Transcript, p. 27, lines 4-5; p. 68, lines 2-6; and p. 97, line 17 to p. 98, line 4.
+[28] There was no specific evidence as to whether Mr. Anderson actually took a medical leave. Based on the list of compensation cheques set out on the first page of Exhibit R-5, it appears that Mr. Anderson did not work on a regular basis after September 30, 2016. However, Mr. Anderson stated that, when his third motor vehicle accident occurred (which was in December 2016), he was travelling in the course of his employment; see Transcript, p. 12, lines 13-15.
+[29] Exhibit R-3, p. 2.
+[30] Sagaz Industries Inc. et al. v. 671122 Ontario Limited, [2001] 2 SCR 983, 2001 SCC 59, ¶47. See also Wiebe Door Services Ltd. v. MNR, [1986] 3 FC 553, [1986] 2 CTC 200, 87 DTC 5025 (FCA), ¶17, quoting Market Investigations, Ltd. v. Minister of Social Security, [1968] 3 All ER 732 (QBD), at 737. In addition, see AE Hospitality Ltd. v. MNR, 2019 TCC 116, ¶67-69; and Modern Cleaning Concept Inc. v. Comitй paritaire de l’entretien d’йdifices publics de la rйgion de Quйbec, 2019 SCC 28, ¶38, where Justice Abella indicated that, for the purposes of the Act respecting collective agreement decrees, CQLR, c. D-2, the relevant question to distinguish an independent contractor from an artisan (which is a category of employee for the purposes of that Act), is to ascertain whether the worker “assumed the business risk and corresponding ability to make a profit that would qualify him as an independent contractor.” Given that Modern Cleaning Concept was decided in the context of the Quebec civil law, that case, although informative, is not directly applicable to these Appeals. See section 8.1 of the Interpretation Act, RSC 1985, c. I-21, as amended (the “IA”).
+[31] See Sagaz, supra note 30, ¶47; and AE Hospitality, supra note 30, ¶70.
+[32] Sagaz, supra note 30, ¶48.
+[33] 1392644 Ontario Inc. o/a Connor Homes v. MNR, 2013 FCA 85, ¶30, 33 & 38-42. See also AE Hospitality, supra note 30, ¶72.
+[34] Insurance Institute of Ontario v. MNR, 2020 TCC 69, ¶23.
+[35] Ibid, ¶26.
+[36] There were no submissions from counsel, nor was there any specific evidence, as to whether the services (if any) provided by 188AB constituted financial services for the purposes of the ETA; see paragraph (j) of the definition of financial service in subsection 123(1) of that statute. If 188AB was providing exempt services to NIIA, there was no requirement for 188AB to collect GST from NIIA. If 188AB was providing taxable services to NIIA, 188AB should have collected GST from NIIA. As there was no evidence as to whether the services (if any) were exempt or taxable, the non-collection of GST is not a meaningful factor in the current analysis.
+[37] Exhibit A-1, Tab 14.
+[38] Transcript, p. 182, line 27 to p. 183, line 28; p. 185, line 12 to p. 186, line 5; and p. 189, line 22 to p. 190, line 17.
+[39] Transcript, p. 15, lines 15-21.
+[40] Transcript, p. 142, line 14 to p. 143, line 4.
+[41] Transcript, p. 183, lines 17-20.
+[42] Le Livreur Plus Inc. v. MNR, 2004 FCA 68, ¶19; and DHL Express (Canada) Ltd. v. MNR, 2005 TCC 178, ¶19.
+[43] The email exchanges set out in Exhibit A-1, Tab 13 indicate that the office supplies provided by NIIA to Mr. Anderson included postage stamps, business cards, address labels, paper and computer ink cartridges. An order form in Exhibit A-1, Tab 13 indicates that NIIA provided the Fort St. John office with pens, a stapler, a hole punch and other miscellaneous items.
+[44] Exhibit R-6, document 24.
+[45] Transcript, p. 12, lines 13-16.
+[46] Dynamex Canada Corp. v. MNR, 2008 TCC 71, ¶18.
+[47] See Exhibit R-5.
+[48] It is not clear from the evidence whether the cheques issued on December 15, 2016, January 13, 2017, January 9, 2018 and January 18, 2018 represented commissions or payments for WIP that was billed by NIIA after Mr. Anderson’s departure.
+[49] Transcript, p. 59, lines 1-24.
+[50] Transcript, p. 78, lines 13-19; and p. 79 lines 18-20. See also Exhibit R-6.
+[51] Pasche v. MDE Enterprises Ltd., 2018 BCSC 701.
+[52] Ibid, ¶4 & 71-72.
+[53] TCF Ventures Corp. v. The Cambie Malone’s Corporation, 2016 BCSC 1521, ¶48-49; upheld on this issue, 2017 BCCA 129; as quoted in Pasche, supra note 51, ¶72.
+[54] Pasche, supra note 51, ¶71.
+[55] Ibid, ¶74.
+[56] Glimhagen v. GWR Resources Inc., 2017 BCSC 761, ¶44; as quoted in Pasche, supra note 51, ¶75. I do not view the statement quoted above as indicating that, when determining the status of a worker for the purposes of the EIA, the CPP and other fiscal legislation, much, if any, weight should be given to whether the worker is on payroll or whether the hirer makes conventional statutory deductions from the worker’s pay. Rather, the most significant factors to consider are, as explained above, set out in Sagaz and Wiebe Door. However, the above quotation is helpful because it indicates that a dependent contractor is a construct of the common law and lies between an employee and an independent contractor.
+[57] Pasche, supra note 51, ¶104-107 & 110.
+[58] Paragraphs 5(1)(a), (b), (d) & (e) of the EIA.
+[59] See Marbry Distributors Ltd. v. Avrecan International Inc., 1999 BCCA 172, paragraph 59, per Chief Justice McEachern (dissenting).
+[60] For instance, see DHL Express, supra note 42, ¶32-33; and Dynamex, supra note 46, ¶19-20.
+[61] See paragraph 33 and footnote 30 above.
+[62] Felix v. MNR, 2015 TCC 293.
+[63] The Queen v. Jennings, [1994] 2 CTC 106, 94 DTC 6507 (FCA), ¶2, quoting from The Queen v. MerBan Capital Corporation Limited, 89 DTC 5404 at 5410 (FCA), and from Kosmopoulos v. Constitution Insurance Co., [1987] 1 SCR 2 at 10-11; as quoted in Felix, supra note 62, ¶17.
+[64] Meredith v. The Queen, 2002 FCA 258, ¶12; as quoted in Felix, supra note 62, ¶18.
+[65] Braiden v. La-Z-Boy Canada Limited, 2008 ONCA 464, ¶24. As support for the comment about the continuum, with employees at one end and independent contractors at the other end, the trial judge cited Marbry, supra note 59.
+[66] Ibid, ¶30.
+[67] Ibid.
+[68] Cohen v. Conseillers en informatique d’affaires CIA inc, 2010 QCCS 2179, ¶62.
+[69] See section 8.1 of the IA, supra note 30.
+[70] Exhibit A-1, Tab 3.
+[71] Exhibit R-1. The email used the term “letter of incorporation.” I think that the correct term would have been “certificate of incorporation.”
+[72] Exhibit R-2; and Transcript, p. 69, line 19 to p. 70, line 20.
+[73] Exhibit R-5. The ledger also referred to Mr. Anderson (as well as to 188AB).
+[74] Exhibit R-6. The other two expense-reimbursement cheques were paid to Mr. Anderson. The ledger also referred to Mr. Anderson (as well as to 188AB).
+[75] Exhibit A-1, Tab 14.
+[76] As mentioned above, if the services provided by 188AB to NIIA were exempt services, there was no need for 188AB to collect GST from NIIA.
+[77] Transcript, p. 163, line 19 to p. 164, line 5. In explaining this process, Mr. Hillock stated, “there was a certain amount of WIP still outstanding that was owed to him” (Transcript, p. 163, lines 20-21), and “we ended up paying him out his WIP as –- as it was billed”(Transcript, p. 164, lines 4-5) [emphasis added]. The use of the pronouns him and his might suggest that Mr. Hillock considered that the WIP belonged to Mr. Anderson, and not to 188AB. On the other hand, given that 188AB had been dissolved by the time that the last two payments were made, the WIP represented by those payments may well have belonged to Mr. Anderson at that time. Regardless of the ownership of the WIP, the compensation cheques were made payable to Northern Claims Services.
+[78] See Transcript, p. 38, lines 1-10; and p. 64, lines 8-11.
+[79] Transcript, p. 38, lines 11-20.
+[80] Exhibit A-1, Tab 3.
+[81] Exhibit R-1.
+[82] Transcript, p. 40, lines 12-19.
+[83] As noted above, a copy of the compensation cheque for the initial pay period, March 1-15, 2015, was not produced in evidence.
+[84] As noted above, a copy of a cheque representing the payment made on or about March 15, 2015 was not put into evidence; therefore, I cannot ascertain whether that payment was made by email transfer or by cheque. If the payment was made by cheque, I cannot ascertain whether the cheque was paid to Mr. Anderson or to Northern Claims Services.
+[85] Transcript, p. 38, lines 1-12 & 17-22.
+[86] Transcript, p. 39, lines 10-21.
+[87] Transcript, p. 40, lines 12-25.
+[88] Transcript, p. 62, line 10 to p. 63, line 3.
+[89] Transcript, p. 63, line 19 to p. 64, line 5.
+[90] Reply to Respondent’s Written Submission, filed December 18, 2020, p. 2, ¶3.
+[91] Exhibit R-1.
+[92] Exhibit R-2.
+[93] See paragraph 73 and footnote 89 above.
+[94] Exhibit R-3, p. 2. See paragraph 31 and footnote 29 above.
+[95] Transcript, p. 114, lines 24-28.
+[96] Transcript, p. 115, lines 17-18.
+[97] Transcript, p. 115, line 24 to p. 116, line 18.
+[98] Exhibit R-1.
+[99] See Exhibit R-2.
+[100] Exhibit R-3, p. 2.
+[101] Although many of the observations noted above support the view that Mr. Anderson was not an employee of NIIA, this particular observation (to the effect that there was no evidence of 188AB having paid salary or dividends to Mr. Anderson) supports the view that 188AB was not a contractor working for NIIA.
+[102] See paragraph 35 above.
+[103] See paragraphs 49 and 50 above.
+[104] Robins v. National Trust Company, Limited et al., [1927] A.C. 515, [1927] 2 DLR 97, [1927] 1 WWR 692, ¶8 (PC). See also Cameco Corporation v. The Queen, 2018 TCC 195, ¶601; Morrison et al. v. The Queen, 2018 TCC 220, ¶75; and Sopinka, Lederman & Bryant, The Law of Evidence in Canada, 5th ed. (Toronto: LexisNexis Canada Inc., 2018), p. 97, ¶3.14. The Appeal Cases report of the Robins case and the Cameco case use the word “such,” rather than the word “sure,” in the above quotation.
+[105] See paragraph 56 above.
+[106] See paragraphs 49-50 and 84 above.

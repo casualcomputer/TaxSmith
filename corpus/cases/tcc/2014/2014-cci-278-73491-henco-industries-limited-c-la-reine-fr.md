@@ -1,0 +1,176 @@
+---
+title: "Henco Industries Limited c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/73491/index.do"
+last_modified: "2014-05-18"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2014 CCI 278"
+citation2: ""
+neutral_citation: "2014 CCI 278"
+decision_date: "2014-05-18"
+language: "fr"
+item_id: "73491"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5162
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T15:56:36.086000+00:00"
+cases_cited_count: 7
+cases_citing_count: 6
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "047d591c7e706114c24af8fee7e39535556c38f1a6b7184ce1107ccc10fe1e38"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Henco Industries Limited c. La Reine
+
+- Citation: 2014 CCI 278
+- Decision date: 2014-05-18
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5162, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Henco Industries Limited c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2014-05-18
+Référence neutre
+2014 CCI 278
+Numéro de dossier
+2011-1810(IT)G
+Juges et Officiers taxateurs
+Campbell J. Miller
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2011-1810(IT)G
+ENTRE :
+HENCO INDUSTRIES LIMITED,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Demande tranchée suivant l’article 147 des Règles de la Cour canadienne de l’impôt (procédure générale)
+Devant : L’honorable juge Campbell J. Miller
+Avocats de l’appelante :
+Me Geoffrey B. Shaw et Me Eric Mayzel
+Avocats de l’intimée :
+Me Samantha Hurst et Me Christian Cheong
+ORDONNANCE
+ATTENDU qu’un jugement a été rendu le 9 juin 2014;
+ET ATTENDU que les parties devaient fournir des observations écrites sur la question des dépens;
+ET ATTENDU que des observations écrites ont été déposées et examinées;
+LA COUR ORDONNE QUE des dépens de 576 673 $ incluant les débours soient adjugés à l’appelante conformément aux motifs ci‑joints.
+Signé à Toronto (Ontario), ce 18e jour de septembre 2014.
+« Campbell J. Miller »
+Juge C. Miller
+Traduction certifiée conforme
+ce 1er jour de mars 2016.
+M.-C. Gervais
+Référence : 2014 CCI 278
+Date : 20140918
+Dossier : 2011-1810(IT)G
+ENTRE :
+HENCO INDUSTRIES LIMITED,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE
+Le juge C. Miller
+[1] Henco Industries Limited (« Henco »), qui a eu gain de cause dans la majeure partie de son action intentée contre Sa Majesté, demande le paiement d’une somme globale au titre de dépens équivalant à 75 % des frais effectivement supportés (75 % de 1 203 770 $), plus des débours de 56 517,76 $, ce qui représente un total de 959 345,82 $. L’intimée fait valoir qu’il convient d’adjuger des dépens de 27 550 $, établis en fonction du tarif, plus des débours de 19 913,77 $, bien qu’elle demande subsidiairement des dépens représentant entre 20 % et 50 % des frais effectivement supportés.
+[2] La Cour canadienne de l’impôt a rendu de nombreuses décisions récemment en ce qui a trait à l’adjudication de dépens (par exemple, voir Spruce Credit Union c La Reine[1], Velcro Canada Inc. c La Reine[2], Peter Sommerer c La Reine[3], Jolly Farmer Products Inc. c Canada[4], General Electric Capital Canada Inc. v Canada[5] et Dickie c La Reine[6]). La décision Spruce Credit Union résume particulièrement bien les récentes tendances en matière d’adjudication de dépens à la Cour canadienne de l’impôt. Il est inutile de reproduire les opinions avancées dans toutes ces affaires. Il suffit de dire que la Cour canadienne de l’impôt est tout à fait disposée à écarter le tarif et à privilégier une analyse plus approfondie fondée sur les facteurs énoncés au paragraphe 147(1) des Règles de la Cour canadienne de l’impôt (procédure générale). Comme le juge Rothstein l’affirmait déjà en 2002, de manière succincte, dans l’arrêt Consorzio del Prosciutto di Parma c Maple Leaf Meats Inc.[7] :
+Une adjudication de dépens partie-partie ne constitue pas un exercice exact. Il ne s’agit que d’une estimation du montant que la Cour juge approprié à titre de contribution aux dépens avocat-client de la partie qui a obtenu gain de cause.
+[3] Ainsi, en l’espèce, compte tenu des facteurs énoncés à l’article 147 des Règles, en quoi consiste une adjudication de dépens juste et appropriée?
+Le résultat de l’instance [4] Bien que Henco n’ait pas obtenu gain de cause sur toutes les questions en litige, elle a eu entièrement gain de cause en ce qui concerne la principale question en litige, qui consistait à qualifier le paiement de 15 800 000 $ qu’elle avait reçu. Elle a eu gain de cause sur deux des quatre autres questions en litige. Cependant, ces quatre questions en litige avaient peu d’importance comparativement à la question concernant les 15 800 000 $. Beaucoup de temps a été consacré à des questions de procédure et, là encore, l’appelante a partiellement eu gain de cause. Toutefois, le principal différend quant à la procédure concernait l’admission de la [traduction] « matrice factuelle » présentée en preuve. L’appelante a eu gain de cause sur cette question, ce qui a eu une grande incidence sur le déroulement de l’instance.
+[5] Je conclus que le résultat de l’instance à tous ces égards a non seulement donné lieu à l’adjudication de dépens à l’appelante, mais aussi justifié l’adjudication de dépens supérieurs au tarif de la Cour.
+Les sommes en cause [6] L’intimée reconnaît que le montant d’impôt est considérable et milite en faveur de l’adjudication de dépens supérieurs.
+L’importance des questions en litige [7] L’intimée soutient qu’en raison du caractère unique des circonstances, la décision aura une valeur jurisprudentielle limitée. En outre, compte tenu des modifications législatives apportées à la règle de l’image inversée, mes motifs risquent d’être les derniers à cet égard.
+[8] Pour sa part, l’appelante soutient que la question de la rentrée de capital non imposable, qui exige un examen du revenu provenant de la vente d’une entreprise, un revenu aux termes du paragraphe 23(1) de la Loi de l’impôt sur le revenu (la « Loi ») et la qualification d’un montant aux fins de la stérilisation d’une entreprise, et, si ce montant est imputable au capital, un examen de la question de savoir s’il s’agit d’un montant en immobilisations admissible ou simplement d’une rentrée de capital non imposable, est une question importante ayant une valeur jurisprudentielle. L’appelante fait aussi valoir que les questions de procédure revêtaient une grande importance et que leur pertinence dépassera les limites du présent appel.
+[9] Je suis d’accord avec l’appelante. Aucun juge de la Cour canadienne de l’impôt ne décide à la légère qu’un paiement est une rentrée de capital non imposable. Cette décision peut entraîner de graves répercussions sur l’ensemble de notre régime fiscal en ce qui a trait à la question de savoir ce qui constitue une source de revenus que le gouvernement peut assujettir à l’impôt. Rares sont les circonstances dans lesquelles un paiement, peut-être dans un contexte commercial, est non imposable. Cependant, il faudrait s’intéresser particulièrement aux affaires qui sortent du lot et donnent au gouvernement et aux contribuables des directives semblables sur ce qu’il est possible d’inclure ou non dans le régime fiscal.
+[10] En outre, l’interprétation des contrats, qui est essentielle à la résolution de la présente affaire, est liée à de très nombreux aspects du droit. Toutefois, seule la Cour est appelée à interpréter les contrats non pas dans l’objectif d’établir les droits et les obligations des parties pouvant faire l’objet d’un litige, mais dans celui d’établir s’il est justifié que le gouvernement du Canada perçoive des impôts compte tenu de la nature de la transaction. Là encore, toute directive que la Cour canadienne de l’impôt peut fournir aux contribuables et au gouvernement à cet égard devrait être accueillie favorablement. Par sa nature, cette directive n’avantage pas plus une partie que l’autre.
+[11] Les parties ont eu raison de consacrer autant de temps aux questions de fond et aux questions de procédure. Ces questions étaient bien documentées, bien présentées et bien débattues. Le temps consacré à ces questions est représentatif de l’importance que les parties ont accordée à ces questions. Je conclus que ce facteur justifie l’adjudication de dépens supérieurs au tarif.
+Toute offre de règlement [12] Ce facteur ne s’applique pas. Cependant, il convient de souligner que les changements apportés récemment aux règles que nous appliquons révèlent clairement que l’existence d’une offre de règlement a une grande importance dans l’adjudication de dépens.
+La charge de travail [13] Selon l’appelante, la charge de travail était énorme, tandis que, selon l’intimée, elle était habituelle. C’est là que le concept selon lequel la charge de travail tient plus de l’art que de la science entre en jeu, car il n’existe aucun moyen d’établir avec exactitude si la charge est énorme ou habituelle. Je suppose qu’une charge de travail énorme équivaut aux dépens procureur-client, tandis qu’une charge de travail habituelle équivaut aux dépens fixés selon le tarif.
+[14] L’appelante jette une partie du blâme sur l’intimée au motif que celle­‑ci a augmenté la charge de travail en refusant d’admettre des éléments de preuve extrinsèques, en n’effectuant pas une vérification plus approfondie, en refusant de produire certains documents et en refusant d’admettre des communiqués de presse. En toute déférence, ces questions font partie des débats habituels d’un litige. Je ne suis pas convaincu que le blâme constitue un facteur à prendre en compte dans les délibérations relatives aux dépens en l’espèce, d’autant plus que l’appelante a elle‑même soulevé la question concernant les éléments de preuve extrinsèques dans ses propres actes de procédure.
+[15] Cependant, je reconnais que la charge de travail était importante. Que ce soit pendant l’instance ou avant celle‑ci, pendant que les parties produisaient des documents, une grande partie de la charge de travail était attribuable à l’établissement de la matrice factuelle sous-tendant la transaction. Il est difficile pour les avocats de prédire avec précision à quel point la preuve sur une question donnée doit être exhaustive pour satisfaire un quelconque juge. J’avais certaines préoccupations, que j’ai exprimées aux avocats avant et pendant l’instance, en ce qui concerne la description exagérée des circonstances ayant mené au paiement de 15 800 000 $ à Henco. Je reconnais que les avocats de l’appelante se sont adaptés à la situation, mais, à mon avis, il est plus approprié de dire qu’ils ont péché par excès de prudence en se disant que plus, c’était mieux. Cette déclaration ne se veut pas une critique, mais l’expression d’un caprice en matière de gestion de l’audience qui dépend quelque peu du juge. Il est très difficile de déterminer dans quelle mesure il est justifié que la partie n’ayant pas eu gain de cause vérifie l’exploration de la preuve exhaustive effectuée par la partie ayant eu gain de cause.
+[16] En l’espèce, je conclus que la charge de travail est un facteur, mais que celui‑ci n’est pas déterminant.
+La complexité des questions en litige [17] Il y avait de nombreuses questions en litige, mais seule celle se rapportant à la qualification du paiement de 15 800 000 $ était très complexe. L’appelante soutient que la situation de fait unique et l’incidence que cette situation a fini par avoir sur le résultat a accru la complexité. Toutefois, après avoir établi que je devais tenir compte de la matrice factuelle, je suis parvenu à un résultat plus facilement. La distinction entre le capital et le revenu n’était pas trop compliquée, même si la question concernant les règles relatives aux immobilisations admissibles et à l’image inversée n’étaient pas tout à fait simples. Je conviens avec l’intimée que la nature de la complexité diffère de celle observée dans les décisions Spruce Credit Union ou Velcro, mais, dans l’ensemble, ce facteur justifie une certaine augmentation par rapport au tarif, quoique moins importante que le laisse entendre l’appelante.
+La conduite d’une partie qui aurait abrégé ou prolongé inutilement la durée de l’instance [18] L’appelante donne un certain nombre d’exemples où elle estime que l’intimée a prolongé inutilement l’instance :
+a) avant l’instruction, le ministre du Revenu national (le « ministre ») a refusé de produire des documents provenant d’autres ministères;
+b) le ministre a refusé de déposer une demande commune pour une audience de trois semaines, et par conséquent, le juge Hogan a dû se pencher sur cette question;
+c) le ministre a cessé de travailler sur un exposé conjoint des faits;
+d) le ministre a refusé d’admettre des communiqués de presse, que j’ai fini par accepter;
+e) l’Agence du revenu du Canada (l’« ARC ») a donné comme directive à la vérificatrice de ne pas poser de questions aux représentants du gouvernement de l’Ontario au sujet de l’entente en question.
+[19] Quant à elle, l’intimée soulève les points suivants :
+a) c’est plutôt l’appelante qui a prolongé l’instance en présentant des éléments de preuve répétitifs et inutiles;
+b) l’appelante a refusé d’admettre des faits dans son propre avis d’appel;
+c) l’appelante a refusé de reconnaître l’authenticité de certains documents.
+[20] Les parties ont toutes deux choisi de conduire leur litige de manière à représenter aussi vivement que possible l’intérêt supérieur de leur client respectif. Aucune de ces accusations réciproques ne fait honneur à l’une ou l’autre des parties. Les parties semblent plus se chicaner comme si elles étaient dans une cour d’école que reconnaître de façon respectueuse la méthode que la partie adverse a choisi d’employer pour présenter sa preuve. À mon humble avis, pour que ce facteur soit déterminant, il doit être clair qu’une partie s’est comportée de façon déraisonnable. Je ne suis pas convaincu qu’une partie ou l’autre s’est comportée de la sorte. Ce facteur n’a aucune importance dans mes délibérations.
+[21] Il n’y a aucun autre facteur que j’estime pertinent pour fixer les dépens. Comme il n’y a aucune offre de règlement en l’espèce, aucun comportement vexatoire ou répréhensible, ni aucun comportement visant à prolonger inutilement la durée de l’instance, je dois soupeser les facteurs du résultat de l’instance, des sommes en cause et de l’importance des questions en litige, et accorder moins de poids à la charge de travail et à la complexité des questions en litige. Ces facteurs ne justifient pas le pourcentage de dépens procureur-client demandé par l’appelante. Comme l’intimée le propose subsidiairement, dans des affaires semblables, il est plutôt approprié de fixer ce pourcentage entre 20 % et 50 %, quoique dans le haut de cette fourchette. Je fixe les dépens à 45 % des dépens procureur-client.
+[22] L’intimée veut que je me penche sur un certain nombre d’éléments du mémoire de frais de l’appelante concernant le calcul des frais totaux s’élevant à 1 203 770,64 $ (TVH incluse) et la déduction de montants avant l’application d’un pourcentage. Je préfère ne pas utiliser cette méthode. Si j’adjuge une somme globale équivalant à un pourcentage des dépens procureur-client, j’estime qu’il est inutile de procéder à l’examen détaillé proposé par l’intimée. Je tiens compte de l’opinion de l’intimée selon laquelle il semblait que Me Parks a plus observé l’audience qu’il n’y a participé, malgré le fait qu’il était manifestement disposé à échanger avec ses confrères. J’ai aussi pris en compte les observations de l’intimée sur la contribution mineure de nombreux autres avocats. Ce facteur a lui aussi eu une certaine incidence sur ma décision concernant le pourcentage à appliquer.
+[23] En ce qui a trait aux débours, l’intimée me demande de refuser les débours suivants :
+a) 10 408 $ pour les demandes d’accès à l’information au motif que la majorité de l’information qu’a obtenue l’appelante n’était pas pertinente pour les questions en litige. L’appelante répond qu’en raison de la destruction des documents et de la maison-témoin de Henco, il s’agissait de la seule façon de réunir des éléments de preuve, même si ceux‑ci n’ont pas tous été utilisés à l’instruction;
+b) 105 $ pour les frais de certification du dossier de requête de la Cour de l’Ontario au motif que j’ai conclu que ce document était inadmissible;
+c) 14 399 $ pour les honoraires d’un avocat spécialisé en droit immobilier, qui a préparé un rapport d’expert, au motif que j’ai conclu que cet élément de preuve était inadmissible. L’appelante répond que ce rapport indiquait que l’affaire en question n’était pas une transaction immobilière habituelle, et qu’elle avait l’intention de s’appuyer sur ce document pour prouver ce point;
+d) 50 % des 3 864 $ supportés pour les transcriptions de l’audience demandées dans les plus brefs délais au motif qu’il était inutile d’obtenir rapidement les transcriptions.
+[24] Je conclus que les parties pourraient assumer conjointement les coûts liés aux demandes d’accès à l’information et à la transcription. Je réduis donc de 50 % les débours de 10 408 $ et de 3 864 $, soit une réduction de 7 136 $ en tout. J’exclus également les frais de 105 $ et le coût du rapport préparé par un avocat spécialisé en droit immobilier, soit 14 399 $. La Cour n’a pas l’habitude de recevoir les conseils d’un avocat canadien dans un rapport d’expert concernant le droit canadien. Ce point a été exprimé clairement.
+[25] Par conséquent, les débours sont réduits de 21 540 $ en tout.
+[26] J’adjuge à l’appelante des dépens correspondant à 45 % de 1 203 770 $, soit 541 696 $, plus des débours de 34 977 $, ce qui donne un total de 576 673 $.
+Signé à Toronto (Ontario), ce 18e jour de septembre 2014.
+« Campbell J. Miller »
+Juge C. Miller
+Traduction certifiée conforme
+ce 1er jour de mars 2016.
+M.-C. Gervais
+RÉFÉRENCE :
+2014 CCI 278
+No DU DOSSIER DE LA COUR
+2011-1810(IT)G
+INTITULÉ :
+HENCO INDUSTRIES LIMITED ET SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+s.o.
+DATE DE L’AUDIENCE :
+s.o.
+MOTIFS DE L’ORDONNANCE :
+L’honorable juge Campbell J. Miller
+DATE DE L’ORDONNANCE :
+Le 18 septembre 2014
+COMPARUTIONS :
+s.o.
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Geoffrey B. Shaw et Eric Mayzel
+Cabinet :
+Cassels Brock & Blackwell LLP
+Pour l’intimée :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] 2014 CCI 42.
+[2] 2012 CCI 273.
+[3] 2011 CCI 212.
+[4] 2008 CCI 693.
+[5] 2010 TCC 490.
+[6] 2012 CCI 327.
+[7] 2002 CAF 417.

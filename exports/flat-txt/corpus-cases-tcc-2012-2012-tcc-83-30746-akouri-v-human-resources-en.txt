@@ -1,0 +1,106 @@
+Title: Akouri  v. Human Resources
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30746/index.do
+Corpus path: corpus/cases/tcc/2012/2012-tcc-83-30746-akouri-v-human-resources-en.md
+Document type: case_law
+Last modified: 2012-03-14
+
+# Akouri  v. Human Resources
+
+- Citation: 2012 TCC 83
+- Decision date: 2012-03-14
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7482, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Akouri v. Human Resources
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2012-03-14
+Neutral citation
+2012 TCC 83
+File numbers
+2011-1116(OAS)
+Judges and Taxing Officers
+Judith Woods
+Subjects
+Old Age Security Act
+Decision Content
+Docket: 2011-1116(OAS)
+BETWEEN:
+NICOLAS AKOURI,
+Appellant,
+and
+THE MINISTER OF HUMAN RESOURCES
+AND SKILLS DEVELOPMENT,
+Respondent.
+____________________________________________________________________
+Reference and appeal heard on January 25, 2012 at Victoria, British Columbia
+Before: The Honourable Justice J.M. Woods
+Appearances:
+For the Appellant:
+The appellant himself
+Counsel for the Respondent:
+Mary Softley
+____________________________________________________________________
+JUDGMENT
+With respect to a decision made under the Old Age Security Act, it is determined that, for the purpose of calculating the guaranteed income supplement payable from July 2010 to June 2011, the combined income of the appellant and his spouse is $12,316.69.
+The appeal is accordingly allowed. Each party shall bear their own costs.
+Signed at Ottawa, Ontario this 14th day of March 2012.
+“J. M. Woods”
+Woods J.
+Citation: 2012 TCC 83
+Date: 20120314
+Docket: 2011-1116(OAS)
+BETWEEN:
+NICOLAS AKOURI,
+Appellant,
+and
+THE MINISTER OF HUMAN RESOURCES
+AND SKILLS DEVELOPMENT,
+Respondent.
+REASONS FOR JUDGMENT
+Woods J.
+[1] On September 14, 2010, Nicolas Akouri appealed to the Commissioner of Review Tribunals with respect to the guaranteed income supplement (GIS) payable to him under the Old Age Security Act (the “Act”) for the period from July 2010 to June 2011.
+[2] The Commissioner then referred the appeal to the Tax Court of Canada on the basis that the ground for appeal relates to the determination of income.
+[3] At the hearing, Mr. Akouri raised three issues: (1) that he is in financial difficulty and requires the GIS for his basic needs, (2) that the benefits for the period 2010‑2011 should be computed on the basis of 2010 income and not 2009 income, and (3) benefits for 2009 were to have been $1,068.47 but only $1,008.47 was received.
+[4] This Court derives its jurisdiction from subsection 28(2) of the Act and is limited to determining amounts of income. The only issue that the Court can consider, then, is whether benefits should have been calculated based on 2009 or 2010 income. Any other issues will have to be dealt with by the Review Tribunal.
+[5] At the commencement of the hearing, I commented to counsel for the respondent that the reply by the Minister did not refer to the relief provisions in s. 14(4) and (6) of the Act which apply when pension income is reduced. If these provisions are applicable in this case, the GIS should be computed based on 2010 pension income instead of 2009 pension income.
+[6] Counsel indicated that the reply did not mention the relief provisions because Mr. Akouri had not made an application for relief as required by these provisions. It turns out that this information is incorrect.
+[7] Mr. Akouri had in fact made an application to apply the relief provisions with respect to pension income and he introduced the application forms into evidence (Ex. A-1).
+[8] Counsel for the respondent was taken by surprise by this evidence. I therefore provided her time to investigate the matter and make written submissions following the hearing.
+[9] The respondent’s submissions were provided by way of a detailed explanation in a letter dated February 14, 2012. The bottom line is that the respondent now concedes that the relief provisions should be applied and that the GIS should be computed using 2010 pension income.
+[10] The main effect of this concession is that a $5,000 RRIF withdrawal that was made in 2009 is excluded from income. As far as I can determine, this was the relief that Mr. Akouri sought in relation to the calculation of income.
+[11] According to the respondent’s submissions, the effect of the change is to reduce combined income for purposes of the GIS from $17,515.68 to $12,316.69.
+[12] Counsel for the respondent indicated in her submissions that she sought the agreement of Mr. Akouri to file a Consent to Judgment but Mr. Akouri was not willing to agree to this.
+[13] Mr. Akouri did not file a response to the respondent’s submissions.
+[14] The conclusion that I have reached based on the evidence as a whole is that the position of the respondent as set out in their written submissions is fair and it is in accordance with the provisions of the Act. As mentioned earlier, Mr. Akouri did not file a response to these submissions.
+[15] Finally, I would comment that I do not criticize Mr. Akouri for refusing to file a Consent to Judgment. The relevant legislative provisions are extremely complicated and the government has admitted to making errors in the processing of Mr. Akouri’s claim.
+[16] In the result, a determination will be made that the combined income of Mr. Akouri and his spouse for the purpose of the GIS for the payment period from July 2010 to June 2011 is $12,316.69.
+[17] There will be no order as to costs.
+Signed at Ottawa, Ontario this 14th day of March 2012.
+“J. M. Woods”
+Woods J.
+CITATION: 2012 TCC 83
+COURT FILE NO.: 2011-1116(OAS)
+STYLE OF CAUSE: NICOLAS AKOURI v. THE MINISTER OF HUMAN RESOURCES AND SKILLS DEVELOPMENT
+PLACE OF HEARING: Victoria, British Columbia
+DATE OF HEARING: January 25, 2012
+REASONS FOR JUDGMENT BY: The Honourable Justice J.M. Woods
+DATE OF JUDGMENT: March 14, 2012
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Mary Softley
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Ontario

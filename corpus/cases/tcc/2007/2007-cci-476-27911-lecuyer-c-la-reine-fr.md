@@ -1,0 +1,205 @@
+---
+title: "Lecuyer c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27911/index.do"
+last_modified: "2007-06-28"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 CCI 476"
+citation2: ""
+neutral_citation: "2007 CCI 476"
+decision_date: "2007-06-28"
+language: "fr"
+item_id: "27911"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1727
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T09:31:30.350000+00:00"
+cases_cited_count: 3
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "58d069d6f536807d20b49a967290acaedea459fe0c5c38708aaee37da72e1672"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Lecuyer c. La Reine
+
+- Citation: 2007 CCI 476
+- Decision date: 2007-06-28
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1727, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Lecuyer c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-06-28
+Référence neutre
+2007 CCI 476
+Numéro de dossier
+2004-4287(GST)G
+Juges et Officiers taxateurs
+Leslie M. Little
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2004-4287(GST)G
+ENTRE :
+PAUL LECUYER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 28 juin 2007, à Thunder Bay (Ontario).
+Devant : L’honorable juge L.M. Little
+Comparutions :
+Avocat de l’appelant :
+Me Brian R. MacIvor
+Avocate de l’intimée :
+Me Penny L. Piper
+____________________________________________________________________
+JUGEMENT
+L’appel de la cotisation établie en vertu de la partie IX de la Loi sur la taxe d’accise, dont l’avis est daté du 20 juin 2003 et porte le numéro 60724, est accueilli, avec dépens, conformément aux motifs du jugement ci‑joints.
+Signé à Vancouver (Colombie-Britannique), ce 24e jour d’août 2007.
+« L.M. Little »
+Juge Little
+Traduction certifiée conforme
+ce 20e jour de septembre 2007.
+Johanne Brassard, trad. a.
+Référence : 2007CCI476
+Date : 20070824
+Dossier : 2004-4287(GST)G
+ENTRE :
+PAUL LECUYER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Little
+[1] 864333 Ontario Limited (la « société ») a été constituée en société sous le régime des lois de la province de l’Ontario. La société faisait affaire sous la dénomination sociale de Superior Chipping. Les activités de la société touchaient à la production et à la vente de copeaux de bois. Les copeaux étaient vendus à son unique client, Avenor Pulp and Paper Ltd. (« Avenor »).
+[2] Pendant la période en cause, l’appelant était président de la société. L’appelant et son épouse étaient les administrateurs de la société. Le 12 juin 1998, l’épouse de l’appelant a démissionné du poste d’administrateur de la société, l’appelant devenant ainsi l’unique administrateur.
+[3] Le 13 décembre 1995, West Bay Developments (Thunder Bay) Limited (« West Bay ») est devenue l’unique actionnaire de la société. L’appelant détenait la totalité des actions de West Bay.
+[4] L’appelant détenait la majorité des actions de Gravel and Lake Services Ltd.
+[5] À partir de la période de déclaration se terminant le 30 juin 1996, la société a omis de produire des déclarations de taxe sur les produits et services (« TPS ») en temps opportun.
+[6] En novembre et en décembre 1997, la société a produit des déclarations de TPS pour les six trimestres consécutifs débutant le 30 juin 1996 et se terminant le 30 septembre 1997.
+[7] La taxe nette à payer n’a pas été remise au moment de la production des déclarations de TPS mentionnées au paragraphe précédent.
+[8] La déclaration de TPS pour la période se terminant le 31 décembre 1997 a été produite tardivement en février 1998 et consistait en une déclaration visant un solde créditeur. Le crédit a été appliqué à la taxe à payer en souffrance de la société.
+[9] La déclaration de TPS pour la période se terminant le 31 mars 1998 a été produite tardivement en juin 1998, et la taxe nette à payer pour la somme déclarée n’a pas été remise.
+[10] La déclaration de TPS pour la période se terminant le 30 juin 1998 a été produite tardivement en septembre 1998 et consistait en une déclaration visant un solde créditeur. Le crédit a été appliqué à la taxe à payer en souffrance de la société.
+[11] Des déclarations portant la mention « néant » ont été produites pour la période allant de septembre 1998 à juin 1999.
+[12] Aucune déclaration de TPS n’a été produite après la déclaration produite pour la période se terminant le 30 juin 1999.
+[13] Les documents de l’Agence du revenu du Canada (l’« ARC ») révèlent qu’au 6 mars 2003, la société devait une TPS, une pénalité et des intérêts totalisant 209 559,04 $.
+[14] Le 22 avril 1999, des fonctionnaires de l’ARC ont enregistré à la Section de première instance de la Cour fédérale du Canada un certificat relatif à la dette de la société (voir la pièce R-1, onglet 4).
+[15] Le 4 juin 2003, un bref d’exécution délivré au titre de la cotisation de TPS établie à l’égard de la société n’a pu être exécuté de façon à satisfaire au montant total de cette TPS.
+[16] Le 20 juin 2003, la dette de la société s’élevait à 211 821,51 $.
+[17] Le 20 juin 2003, le ministre du Revenu national (le « ministre ») a délivré un avis de cotisation à l’égard de l’appelant. La somme visée par la cotisation relative à l’appelant se chiffrait à 211 821,51 $. Cette somme correspond au montant de la cotisation initialement établie à l’égard de la société.
+B. QUESTION EN LITIGE
+[18] La Cour doit trancher la question de savoir si l’appelant a agi avec autant de soin, de diligence et de compétence pour prévenir le manquement de la société de remettre la TPS que ne l’aurait fait une personne raisonnablement prudente dans les mêmes circonstances.
+C. ANALYSE ET DÉCISION
+[19] L’article 323 de la Loi sur la taxe d’accise (la « Loi ») est ainsi rédigé :
+(1) Responsabilité des administrateurs – Les administrateurs d’une personne morale au moment où elle était tenue de verser, comme l’exigent les paragraphes 228(2) ou (2.3), un montant de taxe nette ou, comme l’exige l’article 230.1, un montant au titre d’un remboursement de taxe nette qui lui a été payé ou qui a été déduit d’une somme dont elle est redevable, sont, en cas de défaut par la personne morale, solidairement tenus, avec cette dernière, de payer le montant ainsi que les intérêts et pénalités afférents.
+(2) Restrictions – L’administrateur n’encourt de responsabilité selon le paragraphe (1) que si :
+a) un certificat précisant la somme pour laquelle la personne morale est responsable a été enregistré à la Cour fédérale en application de l’article 316 et il y a eu défaut d’exécution totale ou partielle à l’égard de cette somme;
+b) la personne morale a entrepris des procédures de liquidation ou de dissolution, ou elle a fait l’objet d’une dissolution, et une réclamation de la somme pour laquelle elle est responsable a été établie dans les six mois suivant le premier en date du début des procédures et de la dissolution;
+c) la personne morale a fait une cession, ou une ordonnance de faillite a été rendue contre elle en application de la Loi sur la faillite et l’insolvabilité, et une réclamation de la somme pour laquelle elle est responsable a été établie dans les six mois suivant la cession ou l’ordonnance.
+(3) Diligence – L’administrateur n’encourt pas de responsabilité s’il a agi avec autant de soin, de diligence et de compétence pour prévenir le manquement visé au paragraphe (1) que ne l’aurait fait une personne raisonnablement prudente dans les mêmes circonstances.
+(4) Cotisation – Le ministre peut établir une cotisation pour un montant payable par une personne aux termes du présent article. Les articles 296 à 311 s’appliquent, compte tenu des adaptations de circonstance, dès que le ministre envoie l’avis de cotisation applicable.
+(5) Prescription – L’établissement d’une telle cotisation pour un montant payable par un administrateur se prescrit par deux ans après qu’il a cessé pour la dernière fois d’être administrateur.
+(6) Montant recouvrable – Dans le cas du défaut d’exécution visé à l’alinéa (2)a), la somme à recouvrer d’un administrateur est celle qui demeure impayée après l’exécution.
+(7) Privilège – L’administrateur qui verse une somme, au titre de la responsabilité d’une personne morale, qui est établie lors de procédures de liquidation, de dissolution ou de faillite a droit au privilège auquel Sa Majesté du chef du Canada aurait eu droit si cette somme n’avait pas été versée. En cas d’enregistrement d’un certificat relatif à cette somme, le ministre est autorisé à céder le certificat à l’administrateur jusqu’à concurrence de son versement.
+(8) Répétition – L’administrateur qui a satisfait à la réclamation peut répéter les parts des administrateurs tenus responsables de la réclamation.
+[20] Le paragraphe 323(3) de la Loi fait mention du degré de soin, de diligence et de compétence qu’une personne raisonnablement prudente aurait exercé dans les mêmes circonstances. Il s’ensuit donc qu’il faut se demander si l’appelant a agi d’une manière raisonnable et prudente.
+[21] La nature du manquement de la société tient aux circonstances imprévues liées à son unique cliente, Avenor. Cette dernière, une importante entreprise multinationale, a unilatéralement fait savoir à la société en décembre 1996 qu’elle lui avait versé ou avancé en trop des sommes totalisant 383 000,00 $ (voir la pièce A‑1, onglet 10).
+[22] L’appelant, M. Lecuyer, estime qu’Avenor a privé la société d’une somme importante (1 600 000 $). L’effet conjugué de ces deux circonstances est à l’origine de l’omission ultérieure de la société de remettre la TPS, qui est maintenant réclamée directement à M. Lecuyer en application de l’article 323 de la Loi.
+[23] M. Lecuyer a témoigné devant la Cour. À mon avis, il était un témoin digne de foi, direct et franc. La preuve montre qu’à l’époque où West Bay a acheté les actions de la société, l’appelant savait que cette dernière avait des difficultés financières puisqu’elle devait de l’argent à Gravel & Lake Services Ltd. Il ne connaissait toutefois pas la gravité de ces difficultés.
+[24] Il ressort de l’onglet 3 de la pièce A-1 produite par l’appelant que ces sommes avancées en trop, et dont Avenor se plaignait, se rapportaient à une période en 1994 pendant laquelle M. Lecuyer n’était ni administrateur, ni dirigeant, ni actionnaire de la société.
+[25] Comme il est mentionné plus haut, lorsque West Bay a acheté les actions de la société en décembre 1995, M. Lecuyer savait que la société éprouvait des difficultés financières. Cependant, il ne s’était pas rendu compte que non seulement Avenor flouait la société, mais qu’elle avait en outre fait savoir à la société en décembre 1996 qu’elle lui avait avancé des sommes en trop.
+[26] Mme Hansen, fonctionnaire à l’ARC, a déclaré que le premier paiement que la société a véritablement omis de faire concerne une période postérieure à décembre 1996.
+[27] Le paiement de TPS de 45 000 $, qui était payable le 31 janvier 1997, vise une période postérieure au moment où Avenor a déclaré à la société [TRADUCTION] « nous sommes désolés, mais vous nous devez 383 000 $ ».
+[28] Par l’entremise de son autre société (Gravel & Lake Services Ltd.), M. Lecuyer a fait des paiements à l’ARC pour le compte de la société. M. Symington, le comptable de la société, a affirmé pendant son témoignage que Gravel and Lake Services Ltd. avait payé plus de 150 000 $ en TPS à l’ARC. En d’autres termes, l’appelant a fait des efforts pour effectuer des paiements au titre de ce solde déficitaire.
+[29] L’onglet 9 de la pièce R-1 consiste en une copie d’une lettre que M. Lecuyer a adressée à l’ARC. M. Lecuyer y formule les observations suivantes :
+[TRADUCTION]
+La présente fait suite à votre lettre du 9 juin 2002.
+Veuillez prendre note du fait que je suis l’unique administrateur de la société et que j’agis à ce titre depuis le transfert de propriété qui a eu lieu vers le 15 décembre 1995.
+J’ai toujours fait preuve de diligence dans les affaires concernant la société susmentionnée (c.‑à‑d. la société), et je continuerai d’agir ainsi. Depuis que je suis propriétaire et administrateur de la société, j’ai fait tout ce que je pouvais pour tenter de respecter les obligations financières de la société ainsi que les exigences en matière de déclaration auxquelles elle est assujettie. Non seulement auprès des différents ordres de gouvernement, mais également en ce qui touche les institutions financières, les engagements liés au commerce et les employés de la société.
+Depuis que j’en suis propriétaire, la société ne m’a versé aucune rétribution à titre personnel.
+Depuis ma prise en charge de la société, j’ai déployé tous les efforts possibles pour redresser la situation de celle‑ci et en faire une entreprise viable. La société avait une valeur nette déficitaire de 88 000,00 $, ce que j’ignorais au moment de la prise en charge.
+En 1998, la pression financière s’est accrue lorsque la banque a mis fin au crédit accordé et que nous avons dû rembourser progressivement la totalité de la dette à long terme, laquelle était entièrement garantie.
+Au début de 1999, l’usine de mise en copeaux était devenue complètement inutilisable et non réparable, et la perte n’était pas couverte par une assurance. Je n’avais plus aucune possibilité de tirer un quelconque produit d’exploitation de cette société.
+Nous avons ensuite été obligés de rembourser les créanciers de notre autre entreprise, à savoir Gravel and Lake Services Ltd., ce qui a sérieusement désavantagé cette société qui emploie de 15 à 20 personnes.
+Note : À l’aide de Gravel and Lake, nous avons réussi à affecter plus de 160 000 $ au remboursement de la dette que 864333 Ont Ltd. devait au gouvernement fédéral en 2000 et 2001.
+[30] Dans la décision McKinnon c. La Reine, 2003 CCI 884, le juge en chef adjoint Bowman (tel était alors son titre) mentionne ce qui suit au paragraphe 18 :
+L’autre argument que l’on entend souvent dans ce genre d’affaire et que je considère tout aussi fallacieux est celui-ci : « Vous voliez de l’argent détenu en fiducie pour la Couronne afin de faire marcher votre entreprise et de payer vos employés. » Il s’agit là, selon moi, d’une caractérisation inexacte et injuste. On insinue par là qu’il existe un compte distinct (une jarre à biscuits, si l’on veut) dans laquelle on dépose les retenues salariales et dont on les retire pour payer les dépenses de la société. La vérité, c’est qu’il n’y a pas de jarre à biscuits, réelle ou notionnelle, et pas d’argent à y déposer même s’il en existait une. Le montant net versé aux employés est tout ce dont on dispose. Les employés, les fournisseurs et les autres créanciers sont payés parce que s’ils ne le sont pas, la société devra fermer. Lorsque, comme dans le cas présent, des événements survenants imprévus mettent une personne dans l’impossibilité de payer les retenues salariales au gouvernement, je ne crois pas que l’appelant ait pu raisonnablement faire quoi que ce soit pour assurer le paiement.
+[31] Dans la présente affaire, l’appelant, M. Lecuyer, n’est même pas allé aussi loin puisqu’il ne retirait pas de fonds de la société. Dans son témoignage, M. Symington, son comptable, a déclaré que c’est Gravel & Lake Services Ltd. qui se chargeait de la paie de la société et qui couvrait les dépenses de cette dernière. En d’autres termes, la société ne retirait pas de sommes qui étaient détenues en fiducie pour les besoins de la TPS.
+[32] M. Lecuyer a également affirmé qu’il ne recevait aucune rétribution de la société. Comme il est signalé plus haut, au paragraphe 29, aucune rétribution ne lui était versée. Je renvoie à nouveau aux remarques formulées par le juge Bowman dans la décision McKinnon :
+Lorsque, comme dans le cas présent, des événements survenants imprévus mettent une personne dans l’impossibilité de payer les retenues salariales au gouvernement, je ne crois pas que l’appelant ait pu raisonnablement faire quoi que ce soit pour assurer le paiement.
+[33] J’ajoute que, si l’on remplace l’expression « retenues salariales » par le terme « versements », cette observation s’applique tout autant en l’espèce. Dans la présente affaire, il existe des événements imprévus. Avenor a décidé que Superior Chipping lui devait de l’argent et, parallèlement, qu’elle n’était pas disposée à reconnaître la somme de 1 600 000 $, selon M. McVittie, qu’elle devait à la société. (Note : M. McVittie est l’ancien comptable d’Avenor.)
+[34] Une autre observation faite par le juge en chef adjoint Bowman dans la décision McKinnon (précitée) s’applique en l’espèce. Voici les propos qu’il a tenus au paragraphe 14 de cette décision :
+L’un des passages que je crois particulièrement utiles se trouve dans l’affaire Smith c. La Reine, C.A.F., no A-154-00, 26 mars 2001 (2001 DTC 5226) à la p. 5231, aux alinéas [31] et [32], où le juge d’appel Sharlow s’exprime ainsi :
+[31] Le juge de la Cour de l’impôt semble avoir reconnu que M. Smith a fait des efforts en juin 1995 et après cette date, mais il fait remarquer ceci, au paragraphe 138 :
+Aucune des mesures qu’il a prises n’a permis à Revenu Canada de recevoir les montants en cause.
+Et, au paragraphe 142 :
+La Cour est convaincue que les mesures prises par l’appelant n’ont nullement permis de prévenir le manquement.
+[32] Il me semble que ces commentaires font ressortir une autre erreur du juge de la Cour de l’impôt dans son analyse de la défense de diligence raisonnable. La seule obligation d’un administrateur est celle d’agir raisonnablement dans les circonstances. Le fait que ses efforts n’ont pas donné de résultats ne vient pas démontrer qu’il n’a pas agi de façon raisonnable. [Non souligné dans l’original.]
+[35] Je renvoie en outre à la décision Kraeker c. La Reine, 2007 CCI 31. Dans cette affaire, mon collègue, le juge Campbell Miller, fait mention de la décision McKinnon (précitée) et déclare ce qui suit :
+Si j’examine maintenant les faits dont je suis saisi, quelles mesures MM. Kraeker et Johnson ont-ils prises, pour prévenir le manquement, qu’une personne raisonnablement prudente aurait prises dans les mêmes circonstances? Ont ils pris des décisions d’affaires raisonnables? Ou, plus précisément, comme l’a dit le juge en chef Bowman dans la décision McKinnon, précitée, auraient-ils pu faire quoi que ce soit d’autre, compte tenu des événements imprévus qui sont survenus?
+[36] En l’espèce, je suis convaincu que M. Lecuyer n’aurait pas pu faire beaucoup plus que ce qu’il a fait pour ce qui concerne les opérations entre la société et Avenor. Avenor était le seul client de la société. M. Lecuyer croyait qu’Avenor avait privé la société d’une somme de 1 600 000 $. Or, en décembre 1996, Avenor estimait avoir elle‑même été privée d’une somme de 383 000 $ par la société. La relation financière existant entre Avenor et la société a eu pour effet de mettre cette dernière dans une situation regrettable, qui a subséquemment entraîné sa perte.
+[37] J’ai examiné la preuve très soigneusement et je conclus que l’appelant a exercé autant de soin, de diligence et de compétence pour prévenir l’omission de la société de remettre la TPS que ne l’aurait fait une personne raisonnablement prudente dans les mêmes circonstances. J’arrive donc à la conclusion que le critère relatif à la diligence raisonnable prévu au paragraphe 323(3) est respecté et que l’appelant n’est pas tenu de payer la TPS visée par la cotisation établie à l’égard de la société.
+[38] L’appel de la cotisation établie en vertu de la Loi est accueilli avec dépens, et la cotisation établie en application de l’article 323 de la Loi est annulée.
+Signé à Vancouver (Colombie-Britannique), ce 24e jour d’août 2007.
+« L.M. Little »
+Juge Little
+Traduction certifiée conforme
+ce 20e jour de septembre 2007.
+Johanne Brassard, trad. a.
+RÉFÉRENCE :
+2007CCI476
+NO DU DOSSIER DE LA COUR :
+2004-4287(GST)G
+INTITULÉ :
+Paul Lecuyer c.
+Sa Majesté la Reine
+LIEU DE L’AUDIENCE :
+Thunder Bay (Ontario)
+DATE DE L’AUDIENCE :
+Le 28 juin 2007
+MOTIFS DU JUGEMENT :
+L’honorable juge L.M. Little
+DATE DU JUGEMENT :
+Le 24 août 2007
+COMPARUTIONS :
+Avocat de l’appelant :
+Me Brian R. MacIvor
+Avocate de l’intimée :
+Me Penny L. Piper
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Me Brian R. MacIvor
+Cabinet :
+Brian MacIvor Law Office
+Thunder Bay (Ontario)
+Pour l’intimée :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

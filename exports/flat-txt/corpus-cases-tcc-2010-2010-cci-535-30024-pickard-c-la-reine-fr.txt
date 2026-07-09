@@ -1,0 +1,187 @@
+Title: Pickard c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30024/index.do
+Corpus path: corpus/cases/tcc/2010/2010-cci-535-30024-pickard-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2010-10-19
+
+# Pickard c. La Reine
+
+- Citation: 2010 CCI 535
+- Decision date: 2010-10-19
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7662, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Pickard c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2010-10-19
+Référence neutre
+2010 CCI 535
+Numéro de dossier
+2008-1259(IT)G
+Juges et Officiers taxateurs
+Georgette Anne Sheridan
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2008-1259(IT)G
+ENTRE :
+CONSTANCE PICKARD,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels entendus le 15 mars 2010, à Ottawa, Canada.
+Devant : L’honorable juge G. A. Sheridan
+Comparutions :
+Avocat de l’appelante :
+Me Al-Nawaz Nanji
+Avocat de l’intimée :
+Me Pascal Tétrault
+____________________________________________________________________
+JUGEMENT
+Les appels interjetés à l’égard des nouvelles cotisations établies sous le régime de la Loi de l’impôt sur le revenu relativement aux années d’imposition 2002, 2003, 2004 et 2005 de l’appelante sont rejetés, avec dépens en faveur de l’intimée, conformément aux motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 19e jour d’octobre 2010.
+« G. A. Sheridan »
+Juge Sheridan
+Traduction certifiée conforme ce 3e jour de février 2011.
+Mario Lagacé, jurilinguiste
+Référence : 2010 CCI 535
+Date : 20101019
+Dossier : 2008-1259(IT)G
+ENTRE :
+CONSTANCE PICKARD,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Sheridan
+[1] L’appelante, Constance Pickard, interjette appel des cotisations relatives à ses années d’imposition 2002, 2003, 2004 et 2005. S’appuyant sur le paragraphe 160(1) de la Loi de l’impôt sur le revenu (la « Loi »), le ministre du Revenu national (le « ministre ») a établi une cotisation visant certains chèques qui, selon les instructions données par l’époux de l’appelante, débiteur fiscal, devaient être déposés dans le compte bancaire personnel de l’appelante.
+[2] Les parties pertinentes du paragraphe 160(1) de la Loi sont reproduites ci‑dessous :
+160(1) Transfert de biens entre personnes ayant un lien de dépendance. Lorsqu’une personne a […] transféré des biens, directement […], au moyen d’une fiducie ou de toute autre façon à l’une des personnes suivantes :
+a) son époux
+[…]
+les règles suivantes s’appliquent :
+[…]
+e) le bénéficiaire et l’auteur du transfert sont solidairement responsables du paiement en vertu de la présente loi d’un montant égal au moins élevé des montants suivants :
+(i) l’excédent éventuel de la juste valeur marchande des biens au moment du transfert sur la juste valeur marchande à ce moment de la contrepartie donnée pour le bien,
+(ii) le total des montants dont chacun représente un montant que l’auteur du transfert doit payer en vertu de la présente loi au cours de l’année d’imposition dans laquelle les biens ont été transférés ou d’une année d’imposition antérieure ou pour une de ces années;
+aucune disposition du présent paragraphe n’est toutefois réputée limiter la responsabilité de l’auteur du transfert en vertu de quelque autre disposition de la présente loi.
+[3] Dans l’arrêt Livingston v. R.[1], la Cour d’appel fédérale a énoncé quatre conditions nécessaires à l’application du paragraphe 160(1); dans la présente affaire, la seule condition en litige est celle de savoir si Mme Pickard a donné une quelconque contrepartie à son époux en échange des chèques que ce dernier lui a transférés :
+Étant donné la signification claire des termes du paragraphe 160(1), les critères dont dépend le déclenchement de son application se révèlent évidents :
+1) L’auteur du transfert doit être tenu de payer des impôts en vertu de la Loi au moment de ce transfert.
+2) Il doit y avoir eu transfert direct ou indirect de biens au moyen d’une fiducie ou de toute autre façon.
+3) Le bénéficiaire du transfert doit être :
+i. soit l’époux ou conjoint de fait de l’auteur du transfert au moment de celui‑ci, ou une personne devenue depuis son époux ou conjoint de fait;
+ii. soit une personne qui était âgée de moins de 18 ans au moment du transfert;
+iii. soit une personne avec laquelle l’auteur du transfert avait un lien de dépendance.
+4) La juste valeur marchande des biens transférés doit excéder la juste valeur marchande de la contrepartie donnée par le bénéficiaire du transfert[2].
+Faits
+[4] Constance et Monte Pickard sont mariés depuis plus de 30 ans. Bien qu’il ait exploité diverses entreprises de construction pendant la plus grande partie de cette période, M. Pickard n’a jamais détenu de compte bancaire. Il se trouve également que, pendant la plus grande partie de cette période, il avait une dette fiscale en souffrance. Cette dette était toujours impayée au cours des années d’imposition frappées d’appel. De 2002 à 2005, il a fait en sorte que certains chèques faits à son ordre soient déposés directement dans le compte personnel de Mme Pickard : un crédit de TPS de 1 074 $ en avril 2002 et des salaires totalisant 47 744,41 $ entre 2003 et 2005. En 2006, la dette fiscale de M. Pickard s’élevait à quelque 62 000 $.
+[5] Les principales activités commerciales de M. Pickard entre 2003 et 2005 étaient liées à une entreprise individuelle (« M.B. Pickard Sole Proprietorship »), qui offrait des services de gestion de projets de construction, mais il avait également une société de portefeuille, Montcom Holdings Inc. (« Montcom »); cette dernière était actionnaire d’une autre des sociétés de M. Pickard, soit Capital City Construction Ltd.
+[6] Comme M. Pickard [traduction] « n’était vraiment pas doué pour les travaux d’écriture[3] », il avait été décidé au début de leur relation que Mme Pickard se chargerait du paiement de leurs factures. Elle n’avait aucune formation structurée en tenue des comptes ou en comptabilité et, c’est tout à son honneur, elle a appris par elle‑même au fil du temps. Pendant toute la durée de son mariage, Mme Pickard a détenu son propre compte bancaire; pendant les années d’imposition frappées d’appel, elle détenait en outre une marge de crédit conjointe avec M. Pickard. Les fonds disponibles dans le compte personnel de Mme Pickard et par le truchement de la marge de crédit servaient tant pour les besoins financiers personnels du couple que pour M.B. Pickard Sole Proprietorship, Montcom et Capital City Construction Ltd. Cette façon de faire rendait la tenue des comptes plus complexe qu’elle ne l’aurait été si des comptes distincts avaient été détenus pour leurs besoins personnels et pour les besoins de chacune des entreprises. Mme Pickard a reconnu avec candeur dans son témoignage que ses documents comptables n’étaient pas toujours à jour ni complets.
+[7] En 2003, le domaine de la construction stagnait et M. Pickard a donc commencé à travailler chez Claridge Homes (« Claridge »). Lorsque Claridge lui a demandé d’autoriser le virement automatique de son salaire dans un compte, il a par inadvertance remis un chèque en blanc du compte personnel de Mme Pickard. Lorsqu’elle a constaté que le premier chèque de paie de M. Pickard avait été déposé dans son compte, Mme Pickard a demandé à son mari de faire corriger l’erreur. Comme elle était celle chargée de payer ses factures personnelles et les factures de ses entreprises, il semble que M. Pickard a décidé de n’en rien faire. Ainsi, de novembre 2003 à février 2005, son revenu d’emploi de Claridge s’élevant à 47 744,71 $ a été déposé dans le compte personnel de Mme Pickard.
+[8] Madame Pickard a répété pendant tout son témoignage qu’il avait toujours été entendu que les sommes que son mari avait fait déposer dans son compte devaient uniquement servir à payer les dépenses personnelles de ce dernier ainsi que les dépenses de son entreprise individuelle.
+Thèse de l’appelante
+[9] L’avocat de l’appelante a soutenu que la preuve permettait amplement d’étayer la conclusion selon laquelle Mme Pickard avait donné une contrepartie en échange des sommes déposées dans son compte : premièrement, parce qu’elle avait promis de payer les dépenses personnelles de son mari et les dépenses de l’entreprise individuelle de ce dernier et, deuxièmement, parce qu’elle avait fourni des services de secrétariat et de tenue des comptes à M.B. Pickard Sole Proprietorship et que le revenu qu’elle avait tiré de ces activités avait dûment été déclaré comme un revenu d’entreprise de 30 000 $ et de 20 000 $ en 2004 et en 2005, respectivement. Les sommes déposées étaient détenues en fiducie par Mme Pickard exclusivement pour servir au paiement des dettes que M. Pickard avait envers ses entreprises et ses créanciers personnels. L’avocat a fait valoir que, dans ces circonstances, on ne pouvait prétendre que Mme Pickard n’avait pas donné une contrepartie en échange des sommes déposées dans son compte entre 2002 et 2005.
+Thèse de l’intimée
+[10] L’avocat de l’intimée a avancé que la preuve était insuffisante pour établir l’existence d’une quelconque contrepartie donnée en échange des sommes déposées dans le compte personnel de Mme Pickard et que le ministre était donc justifié d’établir une cotisation en vertu du paragraphe 160(1). L’avocat a mis en doute la crédibilité du témoignage de l’appelante et il a demandé à la Cour de tirer une inférence défavorable du fait que M. Pickard n’avait pas été appelé à témoigner pour l’appelante.
+Analyse
+[11] À l’appui de la thèse de Mme Pickard, l’avocat de l’appelante a examiné de manière approfondie un ensemble de décisions intéressant les transferts effectués par un débiteur fiscal en faveur d’une personne avec laquelle il a un lien de dépendance[4]. Dans l’arrêt Livingston, le juge Sexton a énoncé en ces termes l’objet visé au paragraphe 160(1) :
+18 L’application de ces critères dépend dans une mesure particulièrement importante de l’objet du paragraphe 160(1). Dans l’arrêt Medland c. Canada […] notre Cour a conclu que l’objet et l’esprit de ce paragraphe « consistent à empêcher un contribuable de transférer ses biens à son conjoint […] afin de faire échec aux efforts déployés par le ministre pour percevoir l’argent qui lui est dû » […] De façon encore plus pertinente pour la présente espèce, la Cour canadienne de l’impôt a posé en principe qu’il serait contraire à l’objet du paragraphe 160(1) que l’auteur d’un transfert permette au bénéficiaire de celui‑ci d’utiliser les sommes transférées pour payer les dettes dudit auteur en favorisant des créanciers déterminés aux dépens de l’ARC; voir le paragraphe 19 de Raphael c. Canada, 2000 DTC 2434 [5].
+[12] La présente affaire en est une qui, à première vue, tombe sous le coup de l’objet ainsi formulé : les instructions de M. Pickard voulant que le chèque de TPS et son revenu d’emploi soient déposés directement dans le compte bancaire personnel de Mme Pickard auraient pu faire échec aux efforts déployés par le ministre pour recouvrer sa dette fiscale impayée et permettre à Mme Pickard de favoriser certains autres créanciers aux dépens de l’Agence du revenu du Canada.
+[13] Dans les semaines qui ont suivi le prononcé de l’arrêt Livingston, la Cour d’appel fédérale a rendu sa décision dans l’affaire Waugh c. Sa Majesté la Reine, dont les faits ressemblaient beaucoup à ceux en l’espèce. Dans l’arrêt Waugh, l’époux, débiteur fiscal, avait endossé des chèques ayant été faits à son ordre et qui avaient ensuite été déposés dans le compte de son épouse. En appel, cette dernière, à l’instar de Mme Pickard, a allégué « qu’en aidant son conjoint dans l’entreprise commerciale, [elle] a fourni une contrepartie en échange des sommes que lui a transférées M. Waugh[6] ». Le juge Ryer a mentionné ce qui suit lorsqu’il a rejeté cet argument :
+[10] Dans l’arrêt Machtinger c. Canada […] la Cour a statué que lorsque le ministre tient pour acquis qu’aucune contrepartie n’a été versée lors d’un transfert de biens, tel que l’envisage le paragraphe 160(1) de la LIR, le bénéficiaire a le fardeau d’établir la juste valeur marchande de toute contrepartie qui aurait été versée en échange des biens transférés.
+[11] Dans les circonstances dont nous sommes saisis, nous ne pouvons conclure que Mme Waugh a présenté un élément de preuve qui réfuterait l’hypothèse du Ministre selon laquelle elle n’a versé aucune contrepartie en échange des sommes déposées dans son compte bancaire par son conjoint. Nous tenons à souligner que si où Mme Waugh avait effectué des tâches dans la nouvelle entreprise commerciale en contrepartie des sommes déposées dans son compte bancaire, cette contrepartie constituerait un revenu d’emploi ou d’entreprise. Cependant, rien dans le dossier n’établit que Mme Waugh a inscrit un montant équivalent à un tel revenu d’emploi ou d’entreprise dans les déclarations d’impôt qu’elle a produites au cours de la période durant laquelle les sommes ont été déposées dans son compte par son conjoint. [Non souligné dans l’original.]
+[14] Dans une affaire précédente intéressant un mari et son épouse, soit l’arrêt Raphael c. Sa Majesté la Reine[7], la Cour d’appel fédérale a rejeté l’argument avancé par la bénéficiaire du transfert voulant que sa promesse de verser l’argent qu’elle avait reçu de son mari uniquement selon les instructions de ce dernier ait constitué une contrepartie valable aux termes du paragraphe 160(1) :
+[10] Si de fait la femme avait fait une promesse légalement exécutoire de verser de l’argent aux créanciers de son mari uniquement selon les instructions de celui‑ci, et ce, en leur remettant des montants correspondant aux fonds qui avaient été transférés, cela aurait bien pu constituer une contrepartie suffisante pour éviter l’application du paragraphe 160(1). Toutefois, la preuve et la conclusion tirée par le juge de la Cour de l’impôt n’étaient pas telles. Lorsqu’on lui a demandé si elle avait une obligation légale d’acquitter les comptes comme son mari le lui demandait, l’appelante a convenu qu’elle n’avait aucune obligation légale de le faire et qu’il s’agissait uniquement d’une obligation morale. Elle a en outre admis que son mari ne pouvait pas la forcer à acquitter les comptes qu’il voulait payer. Bien sûr, s’il existait une obligation légale fondée sur l’existence d’une fiducie, le mari aurait pu contraindre sa conjointe à effectuer pareil paiement. Cette preuve confirme que l’appelante croyait réellement n’avoir qu’une obligation morale; nous sommes d’accord avec le juge de la Cour de l’impôt pour dire que cela ne constitue pas une contrepartie suffisante.
+[11] Il importe également de noter que les sommes qui ont été transférées ne servaient pas toutes au remboursement des dettes du mari. Elles servaient également à d’autres fins. Par conséquent, cette preuve n’étaye pas l’existence de la présumée promesse d’utiliser les fonds du mari uniquement aux fins du paiement des créanciers, et ce, pour des montants correspondant aux fonds qui avaient été transférés. [Non souligné dans l’original.]
+[15] À la lumière des principes énoncés dans les arrêts Livingston, Waugh et Raphael, il incombe en l’espèce à Mme Pickard d’établir la juste valeur marchande de la contrepartie donnée en échange des sommes déposées dans son compte personnel conformément à une entente ayant force obligatoire, d’une part, et la correspondance entre cette valeur et les sommes déclarées à titre de revenu, d’autre part. Ce fardeau est lourd, en particulier dans le cas d’une opération entre personnes ayant un lien de dépendance où l’une des parties à la présumée entente n’a pas témoigné, où il y a absence de preuve documentaire corroborante et où, dans la mesure où il existe des documents, leur exactitude est discutable.
+[16] C’est dans ce contexte que s’est déroulé le témoignage de Mme Pickard. Je dois dire, avec regret, que son témoignage m’a donné l’impression d’avoir été assemblé après le fait pour justifier une conduite qui, à première vue, paraissait quelque peu suspecte. Il n’est pas contesté que Mme Pickard savait depuis de nombreuses années que son mari avait une dette fiscale impayée. Sans préciser pourquoi, Mme Pickard a affirmé que, pendant toute la durée de leur mariage, leur résidence avait été à son nom seulement, tout comme les factures relatives à l’impôt foncier et aux services publics. De même, aucune raison suffisante n’a été offerte pour expliquer pourquoi M. Pickard, un homme d’affaires expérimenté ayant au moins trois entreprises commerciales, n’aurait pas suivi la procédure habituelle qui consiste à établir un compte distinct pour chaque entreprise. Fait tout aussi inhabituel, un camion utilisé pour son travail par l’entremise de M.B. Pickard Sole Proprietorship était immatriculé au nom de Capital City Construction Ltd. même si, selon Mme Pickard, cette société n’était plus exploitée activement depuis de nombreuses années. Parallèlement, c’est le nom de Capital City Construction Ltd. qui continuait de figurer sur les factures à titre d’acheteur de matériaux qui avaient, en réalité, été commandés et utilisés par M.B. Pickard Sole Proprietorship. D’après Mme Pickard, cette « erreur » n’avait pas été corrigée parce que les fournisseurs s’obstinaient à continuer d’utiliser leurs documents de facturation périmés plutôt que les nouveaux renseignements qu’elle leur avait fournis. Même s’ils ne sont pas très importants en soi, chacun de ces petits faits mis bout à bout contribue à affaiblir la crédibilité de l’ensemble du témoignage de l’appelante.
+[17] J’examinerai maintenant le point soulevé dans l’arrêt Raphael, à savoir s’il existait une « promesse légalement exécutoire » entre Mme Pickard et son mari. À mon avis, ce n’était pas le cas. Il importe de souligner que les instructions que M. Picard a données à Claridge pour que ses chèques de paye soient déposés dans le compte de son épouse n’étaient pas délibérées; c’est par inadvertance qu’en cherchant un chèque en blanc à remettre à son employeur, il a pris un des chèques du compte personnel de Mme Pickard au lieu d’un de ceux de la marge de crédit conjointe. À ce moment, Mme Pickard n’était même pas au courant des mesures prises par son mari. On ne peut guère affirmer qu’il existait entre eux une entente quant au traitement des sommes déposées lorsque les sommes sont initialement apparues dans le compte de Mme Pickard.
+[18] Il convient en outre de mentionner qu’aucune convention écrite entre Mme Pickard et son mari ne permet de documenter leur entente. En 1995, lorsqu’ils ont souhaité préciser leur entente touchant leurs droits respectifs dans Montcom (qui, selon Mme Pickard, n’était pas une société de portefeuille très active), ils en ont couché les modalités par écrit[8]. Or, quand il a été question des modalités relatives à l’entente dans le cadre de laquelle M. Pickard placerait la presque totalité de son revenu sous le contrôle exclusif de son épouse pendant une période de trois ans, ils se sont contentés d’une simple [traduction] « entente verbale ». Même si Mme Pickard a maintes fois répété que son mari avait déposé les sommes dans son compte sous réserve d’instructions explicites la contraignant à n’utiliser ces fonds que pour payer les dettes de son mari, sa description de leur entente selon laquelle il gagnerait le revenu et elle paierait les factures était beaucoup plus crédible. Comme elle le précise dans le passage suivant, leur union était un mariage [traduction] « à l’ancienne » :
+[traduction]
+Q. Cette entente que vous aviez s’apparentait davantage – je crois que vous l’avez qualifiée de « matrimoniale », plus qu’autre chose.
+R. Il s’agissait d’un commun accord, oui, entre – je ne sais pas à quoi ressemblent les mariages aujourd’hui, mais nous étions plutôt vieux jeu.
+Q. Oui. Mais il s’agit plus d’une entente informelle où vous prenez soin de lui et il prend soin de vous et ce genre de chose? Vous êtes mariés et –
+R. Il disait souvent, « je vais travailler à l’extérieur et gagner l’argent, et toi tu te charges des factures ». Je m’occupais de sa société.
+Q. Il n’y avait pas de document détaillé qui vous aurait permis de dire « Monte, j’ai payé cela pour toi et j’ai reçu cela », et une sorte de bilan?
+R. Je ne tenais pas de très bons documents à cet égard. J’avais l’habitude de simplement conserver les chèques qui étaient retournés avec mon relevé, de sorte que je lui montrais que j’avais payé telle chose et telle autre pour lui, et qu’il me devait tant d’argent. Je ne l’obtenais pas toujours.
+Q. Mais vous ne pouviez dire combien?
+R. Non. C’était beaucoup.
+Q. Vous êtes incapable de me donner un chiffre précis?
+R. Non, seulement ce pour quoi j’ai des chèques.
+Q. Peut-être pourrions-nous prendre le recueil des documents de l’appelante. À l’onglet 17, vous avez passé un certain temps là‑dessus.
+R. Excusez-moi?
+Q. Onglet 17, s’il vous plaît.
+R. Oui.
+Q. Voilà, en gros, ce que j’avais à l’esprit quand je disais que vous ne tenez pas de comptabilité. Je pense que vous conviendrez que vous ne teniez pas de comptabilité. Exact?
+R. Pas très bien, non. Je ne suis pas une aide‑comptable diplômée. J’ai suivi une courte formation avec le One‑[Write] System, et c’est simplement quelque chose que j’ai appris sans l’aide de personne. Contrairement à une aide‑comptable expérimentée, je ne connais pas les règles exactes de tenue des comptes.
+Q. Ce document débute le 9 décembre 2003 et se termine le 12 janvier 2005. Exact?
+R. Oui.
+Q. Il s’agit de certains paiements que vous avez faits pour diverses choses. Exact?
+R. Oui.
+Q. Mais vous dites que ce n’est pas une liste exhaustive?
+R. Elle n’est pas complète. Je suis certaine d’avoir omis bien des choses. Je pensais devoir tenter de tenir une certaine comptabilité des sommes que je prête et qui proviennent de mon compte bancaire afin de savoir ce qui était sorti et à quelle fin[9].
+[19] Contrairement au bénéficiaire du transfert dans l’arrêt Raphael, Mme Pickard n’a pas explicitement reconnu qu’elle n’avait aucune obligation légale de traiter les fonds dans son compte conformément aux instructions de son mari. Cependant, ses actes sont plus éloquents que ses paroles. À titre d’unique détentrice du compte, elle seule pouvait exercer un contrôle sur l’utilisation des fonds qui y étaient déposés. Aucun écrit ne l’empêchait de faire ce qu’elle voulait avec les sommes déposées. Et c’est en réalité ce qui s’est passé : dans son témoignage, Mme Pickard a mentionné qu’en plus de payer les dépenses personnelles et les dépenses d’entreprise de M. Pickard, elle utilisait l’argent du compte à des fins personnelles, comme pour de petits achats chez Sears ou Zellers, pour les taxes foncières de la résidence et pour diverses factures de services publics qui étaient établies à son seul nom. Elle effectuait en outre des paiements pour Montcom et Capital City Construction Ltd. de même que pour leur marge de crédit conjointe. Bien que ses actes, en soi, n’aient rien de répréhensible, ce comportement est incompatible avec son témoignage selon lequel il existait une entente voulant que toutes les sommes déposées dans son compte par M. Pickard servent exclusivement au paiement des dettes personnelles et des dettes de l’entreprise individuelle de ce dernier.
+[20] Outre cette faiblesse dans la preuve de l’appelante, comme dans l’arrêt Raphael, il n’existe pas de lien clair entre les sommes déposées et les factures payées. Cette situation est en grande partie attribuable au style de gestion fiscale de M. et Mme Pickard, qui ne cessaient de transférer des sommes entre le compte personnel de Mme Pickard, la marge de crédit conjointe et le compte d’entreprise de Montcom et qui ne tenaient pas de registres fiables de ces opérations. Le fait qu’en 2004 et en 2005, M.B. Pickard Sole Proprietorship recevait des paiements de clients pour divers projets de construction compliquait encore davantage la situation. À titre d’exemple, en 2004, un certain M. Hum a fait au moins un paiement pour services rendus, qui s’est apparemment retrouvé dans la marge de crédit conjointe. Il est simplement très difficile de savoir si ces sommes se mêlaient au revenu d’emploi de M. Pickard dans le compte de Mme Pickard et si elles étaient utilisées pour payer les factures de M. Pickard.
+[21] Il est tout aussi difficile de savoir si Mme Pickard a fourni une contrepartie en échange du dépôt des fonds lorsqu’elle fournissait des services d’aide‑comptable et de secrétaire pour l’entreprise de son mari. Il semble plus vraisemblable que la prestation de ces services faisait simplement partie de leur entente matrimoniale particulière. Même si, contrairement au bénéficiaire du transfert dans l’arrêt Waugh, Mme Pickard a déclaré un revenu pour chacune des années d’imposition en cause, les sommes déclarées ne reflètent pas vraiment la réalité de sa situation. Mme Pickard a reconnu qu’elle n’avait aucun salaire fixe. Elle avait simplement pour habitude de prendre ce dont elle avait besoin sur les sommes que M. Pickard déposait dans son compte personnel ou sur la marge de crédit conjointe, selon les fonds disponibles à n’importe quel moment donné. Si les fonds étaient insuffisants dans un compte, elle prenait de l’argent dans un autre compte en se disant de ne pas oublier de rembourser cet autre compte lorsque les fonds du premier compte le lui permettraient. Elle le faisait parfois, mais pas toujours. Elle tentait de consigner ces opérations avec exactitude et célérité, souvent sans succès :
+[traduction]
+Q. Si nous examinons l’onglet 17, page 150, c’est ce document, Mme la juge, qui causait quelques préoccupations à l’avocat.
+Pouvez-vous nous dire de quoi il s’agit?
+R. Cela faisait partie d’une feuille de grand livre. J’ai tenté de tenir une comptabilité des choses que je payais pour le compte de Monte. J’ai commencé – mais je n’ai pas vraiment réussi parce que je n’ai pas persévéré –, mais je consignais les opérations autant que je le pouvais. À chaque fois que je payais quelque chose pour son compte, je consignais l’opération à titre de paiement. Puis, lorsque j’obtenais de l’argent, que ce soit au moyen de la marge de crédit ou de Claridge Homes ou d’un chèque que j’obtenais de cette entreprise, je l’inscrivais à titre de paiement pour – non pas Claridge Homes, mais comme un chèque de paye. Quoi qu’il en soit, si Monte me donnait de l’argent de la marge de crédit, j’en prenais note et je précisais qu’il avait payé telle chose ou remboursé une partie donnée du solde qu’il devait. Puis, je poursuivais[10].
+[…]
+Q. Je répète ma question, pourquoi avez-vous établi ce document?
+R. Pour que je puisse savoir combien il me devait parce qu’il y avait beaucoup de choses que je ne comptabilisais pas. Je suis certaine qu’il y a plein d’éléments pour lesquels je n’ai même pas de documents faisant état de ce que j’ai payé[11].
+[22] À la fin de l’année, ses notes, ainsi que diverses factures et divers relevés bancaires, étaient remis à l’expert‑comptable de son mari, lequel les utilisait pour établir ses déclarations de revenus. Mme Pickard ne participait en aucune façon à l’établissement des sommes qui étaient déclarées comme revenu et elle n’était pas en mesure d’expliquer comment ces sommes avaient été calculées; elle se contentait d’accepter les sommes, quelles qu’elles soient, que l’expert‑comptable avait attribuées à une source particulière pour une année donnée. Dans cette situation, les sommes déclarées sont bien loin de constituer une preuve du fait qu’il s’agissait d’un « montant équivalent à un tel revenu d’emploi ou d’entreprise[12] » permettant d’établir la juste valeur marchande des services rendus en contrepartie des fonds déposés dans le compte de Mme Pickard.
+[23] Quant à l’allégation faite par l’appelante voulant que les fonds déposés aient été détenus en fiducie, il ressort sans équivoque de la jurisprudence que le paragraphe 160(1) s’applique au transfert de biens « au moyen d’une fiducie »; quoi qu’il en soit, je ne suis saisie d’aucun élément permettant de montrer qu’il existait une telle convention de fiducie.
+[24] Comme Mme Pickard n’a pas réussi à réfuter les hypothèses que le ministre a formulées à l’appui de sa cotisation, les appels visant les années d’imposition en cause sont rejetés, avec dépens en faveur de l’intimée.
+Signé à Ottawa, Canada, ce 19e jour d’octobre 2010.
+« G. A. Sheridan »
+Juge Sheridan
+Traduction certifiée conforme
+ce 3e jour de février 2011.
+Mario Lagacé, jurilinguiste
+RÉFÉRENCE : 2010 CCI 535
+NO DU DOSSIER DE LA COUR : 2008-1259(IT)G
+INTITULÉ : Constance Pickard c.
+Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Ottawa, Canada
+DATE DE L’AUDIENCE : Le 15 mars 2010
+MOTIFS DU JUGEMENT : L’honorable juge G. A. Sheridan
+DATE DU JUGEMENT : Le 19 octobre 2010
+COMPARUTIONS :
+Avocat de l’appelante :
+Me Al-Nawaz Nanji
+Avocat de l’intimée :
+Me Pascal Tétrault
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom : Al-Nawaz Nanji
+Cabinet : Couzin Taylor, s.r.l.
+Ottawa (Ontario)
+Pour l’intimée : Myles J. Kirvan,
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] [2008] 3 C.T.C. 230. (C.A.F.).
+[2] Ci-dessus, paragraphe 17.
+[3] Transcription, page 14, ligne 13.
+[4] Logiudice c. Canada, [1997] A.C.I. no 742. (C.C.I.); Madsen c. R., 2006 CAF 46 (C.A.F.); Waugh c. Canada, 2008 CAF 152 (C.A.F.); Raphael c. Canada, 2002 CAF 23 (C.A.F.).
+[5] Ci-dessus, paragraphe 18.
+[6] Paragraphe 9.
+[7] Plus haut.
+[8] Pièce R-1, vol. 3, onglet 1.
+[9] Transcription, page 154, lignes 11 à 25, jusqu’à la page 156, lignes 1 à 18.
+[10] Transcription, page 41, lignes 22 à 25, jusqu’à la page 42, lignes 1 à 15.
+[11] Transcription, page 42, lignes 23 à 25, jusqu’à la page 43, lignes 1 à 3.
+[12] Arrêt Waugh, plus haut, paragraphe 11.

@@ -1,0 +1,163 @@
+---
+title: "Lamothe c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28371/index.do"
+last_modified: "2008-01-11"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 CCI 13"
+citation2: ""
+neutral_citation: "2008 CCI 13"
+decision_date: "2008-01-11"
+language: "fr"
+item_id: "28371"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1955
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T11:16:17.385000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "60637ad6c51c278f7395acbab239f87f3325dfad5e0bc360347470c13d21375a"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Lamothe c. La Reine
+
+- Citation: 2008 CCI 13
+- Decision date: 2008-01-11
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1955, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Lamothe c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-01-11
+Référence neutre
+2008 CCI 13
+Numéro de dossier
+2005-1780(IT)G
+Juges et Officiers taxateurs
+Gerald J. Rip
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2005-1780(IT)G
+ENTRE :
+JOANNE LAMOTHE,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appels entendus le 5 novembre 2007, à Montréal (Québec).
+Devant : L’honorable Gerald J. Rip, juge en chef adjoint
+Comparutions :
+Avocat de l’appelante :
+Pierre-Yves Leduc
+Avocat de l’intimée :
+Mounes Ayadi
+____________________________________________________________________
+JUGEMENT
+Les appels interjetés à l’encontre des cotisations établies en vertu de la Loi de l’impôt sur le revenu, dont les avis sont datés du 20 août 2004, sont accueillis et la cotisation dont l’avis porte le numéro 32052 est réduite à 18 100 $ et celle dont l'avis porte le numéro 32053 est annulée.
+L’intimée aura droit à la moitié de ses dépens, si elle les demande.
+Signé à Ottawa, Canada, ce 11e jour de janvier 2008.
+« Gerald J. Rip »
+Juge en chef adjoint Rip
+Référence : 2008CCI13
+Date : 20080111
+Dossier : 2005-1780(IT)G ENTRE :
+JOANNE LAMOTHE,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge en chef adjoint Rip
+[1] Joanne Lamothe interjette appel à l’encontre de cotisations d’impôt dont les avis sont datés du 20 août 2004 et portent les numéros 32052 et 32053; les montants des cotisations s'élèvent respectivement à 20 777,74 $ et à 6 700 $. Le ministre du Revenu national (le « ministre ») a établi à l’endroit de l’appelante des cotisations en vertu du paragraphe 160(1) de la Loi de l’impôt sur le revenu (la « Loi »), étant donné que son époux, Guy Verreault, alors qu’il devait un montant de 20 777,74 $ d’impôt en vertu de la partie I de la Loi, lui a transféré 6 700 $ le 16 mai 1997 ou vers cette date et 29 500 $ le 23 mai 1997 ou vers cette date.
+[2] M. Verreault a fait l'objet d'une nouvelle cotisation pour 1997, dont le montant — impôt, intérêts et pénalités — s’élevait à 20 777,74 $. Mme Lamothe est par conséquent redevable d’un montant de 20 777,74 $ et non du total des deux cotisations établies à l’endroit de son époux.
+[3] M. Verreault a témoigné que, en 1997, son père lui avait donné une propriété à Longueuil, au Québec, et qu’il voulait le vendre sans délai pour acheter une maison familiale à Shefford, dans les Cantons-de-l’Est. Toutefois, il avait à l’époque des problèmes de dépendance au jeu, à l’alcool et à la drogue et n'avait pas confiance qu’il pourrait lui-même garder de l’argent.
+[4] M. Verreault a déclaré que, par conséquent, lorsqu’il a vendu la propriété à Longueuil, il a investi le produit de la vente dans un dépôt à terme. Le directeur de l’institution financière, a affirmé M. Verreault, lui a dit que l’argent serait conservé en fiducie et qu’il ne pourrait pas y toucher. Lorsque le dépôt à terme est arrivé à échéance le 23 mai 1997 ou vers cette date, M. Verreault a transféré le montant total de 29 500 $, intérêts compris, au compte bancaire de l’appelante. M. Verreault et Mme Lamothe ont tous deux témoigné qu’elle détenait l’argent pour l’achat d’une nouvelle maison à Shefford, lequel achat a eu lieu le 25 juin 1997 ou vers cette date. La propriété était inscrite aux noms de Mme Lamothe et de M. Verreault à titre de propriétaires en parts égales. Le prix d’achat était de 160 000 $.
+[5] Deux semaines avant l’achat de la propriété à Shefford, le père de M. Verreault lui a prêté 6 700 $ pour l’aider à l'acheter. Le 16 mai 1997, M. Verreault a transféré au compte bancaire de Mme Lamothe la somme de 6 894,66 $, qui incluait le montant de 6 700 $, ce qu'il a fait pour les mêmes raisons que celles pour lesquelles il y a transféré le montant de 29 500 $[1].
+[6] Mme Lamothe a confirmé que l’argent pour l’achat de la propriété de Shefford provenait, d'une part, du produit de la vente de la propriété de Longueuil et d'autre part, du père de M. Verreault. Elle a insisté sur le fait que, si elle détenait les fonds pour l’achat de la maison, c'était pour protéger la famille en raison des problèmes de dépendance qu'avait son époux à cette époque. Selon elle, cet argent n’était pas le sien et elle n’était pas libre de l’utiliser à sa guise. Elle détenait l’argent à une fin précise : l’achat d’une maison.
+[7] Le principal argument de l’appelante était que M. Verreault n’a jamais cessé d’être le véritable propriétaire de la somme de 6 700 $ ou de celle de 29 500 $. Le paragraphe 160(1) de la Loi est rédigé en partie comme suit :
+(1) Lorsqu’une personne a, depuis le 1er mai 1951, transféré des biens, directement ou indirectement, au moyen d’une fiducie ou de toute autre façon à l’une des personnes suivantes :
+a) son époux ou conjoint de fait ou une personne devenue depuis son époux ou conjoint de fait;
+[...]
+les règles suivantes s’appliquent :
+d) le bénéficiaire et l’auteur du transfert sont solidairement responsables du paiement d’une partie de l’impôt de l’auteur du transfert en vertu de la présente partie pour chaque année d’imposition égale à l’excédent de l’impôt pour l’année sur ce que cet impôt aurait été sans l’application des articles 74.1 à 75.1 de la présente loi et de l’article 74 de la Loi de l’impôt sur le revenu, chapitre 148 des Statuts révisés du Canada de 1952, à l’égard de tout revenu tiré des biens ainsi transférés ou des biens y substitués ou à l’égard de tout gain tiré de la disposition de tels biens;
+e) le bénéficiaire et l’auteur du transfert sont solidairement responsables du paiement en vertu de la présente loi d’un montant égal au moins élevé des montants suivants :
+(i) l’excédent éventuel de la juste valeur marchande des biens au moment du transfert sur la juste valeur marchande à ce moment de la contrepartie donnée pour le bien,
+(ii) le total des montants dont chacun représente un montant que l’auteur du transfert doit payer en vertu de la présente loi au cours de l’année d’imposition dans laquelle les biens ont été transférés ou d’une année d’imposition antérieure ou pour une de ces années;
+aucune disposition du présent paragraphe n’est toutefois réputée limiter la responsabilité de l’auteur du transfert en vertu de quelque autre disposition de la présente loi.
+(1) Where a person has, on or after May 1, 1951, transferred property, either directly or indirectly, by means of a trust or by any other means whatever, to
+(a) the person’s spouse or common‑law partner or a person who has since become the person’s spouse or common-law partner,
+[...]
+the following rules apply:
+(d) the transferee and transferor are jointly and severally liable to pay a part of the transferor’s tax under this Part for each taxation year equal to the amount by which the tax for the year is greater than it would have been if it were not for the operation of sections 74.1 to 75.1 of this Act and section 74 of the Income Tax Act, chapter 148 of the Revised Statutes of Canada, 1952, in respect of any income from, or gain from the disposition of, the property so transferred or property substituted therefor, and
+(e) the transferee and transferor are jointly and severally liable to pay under this Act an amount equal to the lesser of
+(i) the amount, if any, by which the fair market value of the property at the time it was transferred exceeds the fair market value at that time of the consideration given for the property, and
+(ii) the total of all amounts each of which is an amount that the transferor is liable to pay under this Act in or in respect of the taxation year in which the property was transferred or any preceding taxation year,
+but nothing in this subsection shall be deemed to limit the liability of the transferor under any other provision of this Act.
+[8] L’appelante, selon ce que son avocat a soutenu, n’a jamais été la propriétaire des fonds transférés à son compte bancaire. Mme Lamothe n’a jamais considéré l’argent comme lui appartenant. Elle détenait les fonds afin que son époux ne les gaspille pas. L’argent a été placé là où l’époux ne pouvait pas y toucher, de façon à ce qu'il soit disponible pour la fin envisagée : l’achat d’une maison à Shefford.
+[9] L’avocat de l’appelante reconnaît qu’il y a eu un transfert de biens, mais soutient qu'il ne s'agit pas d'un transfert légal au sens du paragraphe 160(1) de la Loi, étant donné que l’époux demeurait propriétaire de l’argent. Elle n’a reçu aucun avantage par suite du transfert.
+[10] Au début de son argumentation, l’avocat de l’appelante, sur consentement, a produit un rapport du syndic de la faillite de M. Verreault. M. Verreault a fait faillite le 19 avril 2002. Dans le cadre de l’administration de l'actif, le syndic de faillite a vendu à Mme Lamothe pour la somme de 3 000 $ la part de M. Verreault dans la maison familiale. L’avocat de l’appelante a prétendu que la dette de celle-ci devrait donc être réduite de 3 000 $.
+[11] Je n’accepte pas cet argument. D'une part, il n’est pas pertinent; cette vente a eu lieu en 2002, cinq ans après les transferts. D'autre part, Mme Lamothe n’a pas acheté la part en question à son époux; elle l’a achetée au syndic et le produit de la vente a été appliqué au paiement des dépenses du syndic et des réclamations des créanciers. Le ministre n’a reçu que 410,32 $. Et rien ne prouve que le montant de 410,32 $ se rapporte à la cotisation de M. Verreault pour l’année 1997.
+[12] J’accepte les témoignages de Mme Lamothe et de M. Verreault selon lesquels celui-ci ne pouvait s’empêcher de dépenser pour de la drogue et de l’alcool et selon lesquels l’argent en cause était détenu par Mme Lamothe pour s’assurer que M. Verreault ne pourrait pas le dépenser pour ses comportements addictifs et que l'argent servirait à l’achat d’une maison. Selon l’appelante, le paragraphe 160(1) de la Loi ne s’applique pas dans de telles circonstances.
+[13] La position du ministre est qu’il n’y a rien dans l’avis d’appel qui met en doute le transfert de l’argent à l’appelante. L’intention de l’auteur du transfert, qui était, dans la présente affaire, de se protéger contre lui-même, n’est pas pertinente pour ce qui est du paragraphe 160(1) de la Loi. L’avocat s'est référé à la décision Wannan c. Canada, [2002] A.C.I. no 653 (QL), et à la décision Raphael c. Canada, [2000] A.C.I. no 688 (QL). Rien n’empêchait l’appelante d’utiliser l’argent à toute autre fin.
+[14] Je suis troublé par le fait que ces appels auraient pu être évités si le père de M. Verreault avait fait don de la propriété et des 6 700 $ à l’appelante au lieu de les donner à M. Verreault. Selon la preuve qui m’a été présentée, M. Verreault et Mme Lamothe auraient acheté la propriété à Shefford et l’affaire ne serait probablement pas devant moi en ce moment. Toutefois, bien que ce qui s’est passé ne puisse être changé, une analyse des faits réels et des intentions de M. Verreault et de l’appelante permettra peut-être d'alléger un peu leur problème fiscal.
+[15] Les événements dont il s'agit dans ces appels ont eu lieu au Québec. Or, le mot « transfert » n’est pas défini dans le Code civil du Québec.
+[16] Dans la décision Fasken v. M.N.R.[2], le président Thorson a expliqué :
+[traduction] Le mot « transfert » n’est pas un terme technique et n’a pas un sens technique. Il n’est pas nécessaire qu’un transfert de biens par un mari à son épouse revête une forme particulière ni qu’il se fasse directement. Il suffit que le mari agisse de façon à se dessaisir des biens et les faire acquérir à son épouse, c’est-à-dire transmettre les biens de lui à elle. Les moyens par lesquels il arrive à cette fin, qu’ils soient directs ou détournés, peuvent être à juste titre appelés un transfert.
+[17] Comme l’a expliqué le président Thorson, les mots « transférés » et « transfert » au paragraphe 160(1) impliquent que l’auteur du transfert se dessaisisse des biens. Voilà qui est semblable au concept de donation dans le Code civil du Québec, lequel est décrit comme suit aux articles 1806 et 1807 :
+Art. 1806. La donation est le contrat par lequel une personne, le donateur, transfère la propriété d’un bien à titre gratuit à une autre personne, le donataire; le transfert peut aussi porter sur un démembrement du droit de propriété ou sur tout autre droit dont on est titulaire.
+La donation peut être faite entre vifs ou à cause de mort.
+Art. 1806. Gift is a contract by which a person, the donor, transfers ownership of property by gratuitous title to another person, the donee; a dismemberment of the right of ownership, or any other right held by the person, may also be transferred by gift.
+Gifts may be inter vivos or mortis causa.
+Art. 1807. La donation entre vifs est celle qui emporte le dessaisissement actuel du donateur, en ce sens que celui‑ci se constitue actuellement débiteur envers le donataire.
+Art. 1807. A gift which entails actual divesting of the donor in the sense that the donor actually becomes the debtor of the donee is a gift inter vivos.
+[18] Voyons maintenant ce qui s’est passé en l’espèce. Bien que la preuve ne soit pas absolument claire, j’estime que les deux opérations, soit la donation du terrain et celle du montant de 6 700 $ par le père de M. Verreault, traduisaient l’intention du père de contribuer financièrement à l'acquisition d'une maison familiale par son fils et l’appelante. Mme Lamothe et M. Verreault ont acheté la maison familiale à titre de copropriétaires, chacun ayant une moitié indivise. Le prix d’achat de la propriété était de 160 000 $, auquel s’ajoutait 1 350 $ au titre du droit de mutation. Bien que l’avis d’appel modifié mentionne une hypothèque en faveur d’un créancier envers lequel M. Verreault et Mme Lamothe étaient solidairement responsables, le montant de l’hypothèque ne ressort pas de la preuve. Il semblerait que le montant de 36 200 $ (29 500 $ + 6 700 $) a servi de versement initial relativement à l'achat de la propriété et que le solde de 125 150 $[3] était garanti par hypothèque.
+[19] La preuve dont je dispose donne fortement à penser que lorsque M. Verreault a transféré les 29 500 $ et les 6 700 $ à Mme Lamothe, il ne s’est dessaisi que de la moitié de ces montants et cette moitié a été utilisée pour l’achat d’une moitié indivise de la même propriété que celle de Mme Lamothe. Par conséquent, M. Verreault semble avoir transféré, au sens du paragraphe 160(1) de la Loi, la moitié de 36 200 $ (ou 18 100 $) à Mme Lamothe. En pratique, un montant de 18 100 $ a été appliqué à l’achat par M. Verreault d’une moitié indivise d’un bien immeuble; il a « conservé » un actif de 18 100 $. Il a transféré à Mme Lamothe le montant de 18 100 $. Mme Lamothe est en conséquence responsable de la dette fiscale de M. Verrault jusqu’à concurrence de 18 100 $.
+[20] Par conséquent, les appels sont accueillis. La cotisation dont l'avis porte le numéro 32052 est réduite à 18 100 $ et celle dont l’avis porte le numéro 32053 est annulée. L’intimée aura droit à la moitié de ses dépens, si elle les demande.
+Signé à Ottawa, Canada, ce 11e jour de janvier 2008.
+« Gerald J. Rip »
+Juge en chef adjoint Rip
+RÉFÉRENCE : 2008CCI13
+No DU DOSSIER DE LA COUR : 2005‑1780(IT)G
+INTITULÉ DE LA CAUSE : JOANNE LAMOTHE c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATE DE L’AUDIENCE : Le 5 novembre 2007
+MOTIFS DU JUGEMENT : L’honorable Gerald J. Rip, juge en chef adjoint
+DATE DU JUGEMENT : Le 11 janvier 2008
+COMPARUTIONS :
+Avocat de l’appelante :
+Pierre‑Yves Leduc
+Avocat de l’intimée :
+Mounes Ayadi
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom : Pierre‑Yves Leduc
+Cabinet : Lafortune, Cadieux, S.E.N.C.
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Apparemment, la cotisation est d’un montant de 6 700 $ et non de 6 894,66 $.
+[2] [1948] R.C. de l'É. 580, à la page 592.
+[3] 161 350 $ - 36 200 $ = 125 150 $.

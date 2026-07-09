@@ -1,0 +1,22 @@
+---
+title: "IT212R3 ARCHIVED - Income of Deceased Persons - Rights or Things"
+source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it212r3.html
+last_modified: 2025-08-26
+---
+# IT212R3 ARCHIVED - Income of Deceased Persons - Rights or Things
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+This bulletin deals with the tax treatment of ''rights or things'' that a taxpayer owns on death and that would have been included in income if the taxpayer had survived to realize or dispose of these properties.
+
+## Ways to access the information
+
+- Read the publication
+
+    - Online format [it212r3-e.html](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it212r3/archived-income-deceased-persons-rights-things.html)

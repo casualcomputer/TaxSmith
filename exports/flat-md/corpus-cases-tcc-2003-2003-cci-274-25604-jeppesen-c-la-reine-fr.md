@@ -1,0 +1,159 @@
+---
+title: "Jeppesen c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25604/index.do"
+last_modified: "2003-04-25"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 CCI 274"
+citation2: ""
+neutral_citation: "2003 CCI 274"
+decision_date: "2003-04-25"
+language: "fr"
+item_id: "25604"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2446
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T19:15:30.673000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "7cf05c3f2d98e757dffa8decb3f426741afe994a4a052fed687a39f2a7090087"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Jeppesen c. La Reine
+
+- Citation: 2003 CCI 274
+- Decision date: 2003-04-25
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2446, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Jeppesen c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-04-25
+Référence neutre
+2003 CCI 274
+Numéro de dossier
+2002-3519(GST)APP
+Juges et Officiers taxateurs
+Leslie M. Little
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2002-3519(GST)APP
+ENTRE :
+SALLY JEPPESEN,
+requérante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle]
+___________________________________________________________________
+Demande entendue le 10 avril 2003 à Vancouver (Colombie-Britannique)
+Devant : L’honorable juge L.M. Little
+Comparutions :
+Pour la requérante :
+La requérante elle-même
+Avocate de l’intimée :
+Me Samantha Davey
+____________________________________________________________________
+ORDONNANCE
+Après lecture de la demande d’ordonnance visant à proroger le délai pour interjeter appel de la cotisation numéro 877778 établie le 21 avril 1999 en application de la Loi sur la taxe d’accise;
+Et après lecture de l’affidavit de Marc Roy;
+Et attendu que l’intimée a demandé le rejet de l’appel;
+La Cour ordonne que la demande de prorogation soit rejetée conformément aux motifs de l’ordonnance ci‑joints.
+Signé à Vancouver (Colombie‑Britannique), ce 25e jour d’avril 2003.
+« L.M. Little »
+Juge Little
+Traduction certifiée conforme
+ce 18e jour de mars 2009.
+Christian Laroche , LL.B.
+Réviseur
+Référence : 2003CCI274
+Date : 20030425
+Dossier : 2002‑3519(GST)APP
+ENTRE :
+SALLY JEPPESEN,
+requérante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle]
+MOTIFS DE L’ORDONNANCE
+Le juge Little
+A. LES FAITS
+[1] La requérante était l’unique propriétaire, administratrice et commis comptable de la Rainbow House.
+[2]
+La Rainbow House proposait un hébergement aux femmes et aux enfants qui bénéficiaient d’une aide sociale, après avoir quitté les maisons de transition.
+[3] La requérante a demandé que
+la Rainbow House soit enregistrée aux termes de la Loi sur la taxe d’accise (la « Loi ») pour pouvoir recevoir le remboursement de la taxe sur les produits et services (la « TPS »).
+[4] Dans une lettre datée du 1er mai
+2000, M . S. Wong, de l’Agence des douanes et du revenu du Canada (« ADRC »), a indiqué que la fourniture par la Rainbow House d’une unité d’habitation et de repas à des personnes pendant une période d’au moins un mois était une fourniture exonérée.
+[5] Compte tenu de cette décision, l’ADRC a établi que la requérante n’exerçait pas une activité commerciale et que, par conséquent, elle n’avait pas le droit de s’enregistrer pour la TPS.
+[6] Dans une lettre adressée à la Cour canadienne de l’impôt et datée du 25 mai 2001, la requérante a sollicité la possibilité de déposer un nouvel avis d’opposition à la décision du ministre rendue le 1er mai 2000.
+[7] Dans une lettre datée du 6 juin 2001, M. Chid Desantos, du greffe de la Cour canadienne de l’impôt, a répondu à la lettre de la requérante datée du 25 mai 2001.
+[8] Dans sa lettre, M. Desantos a indiqué :
+[traduction]
+Nous accusons réception de votre lettre concernant la demande de prorogation du délai pour interjeter appel. Après examen de vos documents, nous avons constaté que des renseignements essentiels devant figurer dans une demande étaient manquants.
+[9] Dans une lettre datée du 12 août 2002, la requérante a demandé à la Cour canadienne de l’impôt une prorogation du délai pour signifier un avis d’appel.
+[10] Le ministre a conclu que la demande de la requérante déposée le 16 août 2002 était tardive.
+B. LE POINT EN LITIGE
+[11] La demande de prorogation du délai pour déposer un avis d’appel déposée par la requérante le 16 août 2002 était‑elle recevable?
+C. ANALYSE
+[12] J’ai conclu que la lettre adressée le 25 mai 2001 par la requérante à la Cour canadienne de l’impôt (pièce A‑2) ne constitue pas une demande de prorogation du délai pour interjeter appel au sens de l’article 305 de la Loi.
+[13] Comme indiqué ci‑dessus, dans une lettre datée du 12 août 2002, la requérante a déposé auprès de la Cour canadienne de l’impôt une demande de prorogation du délai pour signifier un avis d’appel.
+[14] L’alinéa 305(5)a) de la Loi dit qu’il n’est fait droit à une demande de prorogation de délai que si celle‑ci a été présentée dans l’année suivant l’expiration du délai d’appel imparti de 90 jours prévu par la Loi.
+[15] En l’espèce, le délai de 90 jours a expiré le 31 juillet 2000 et le délai d’un an après cette date a expiré le 31 juillet 2001. Par conséquent, il apparaît que la requérante a présenté sa demande de prorogation du délai pour déposer un avis d’appel un an et 12 jours après la date admissible.
+[16] La demande est rejetée, sans frais.
+Signé à Vancouver (Colombie‑Britannique), ce 25e jour d’avril 2003.
+« L.M. Little »
+Juge Little
+Traduction certifiée conforme
+ce 18e jour de mars 2009.
+Christian Laroche , LL.B.
+Réviseur
+RÉFÉRENCE :
+2003CCI274
+Nº DU DOSSIER DE LA COUR :
+2002-3519(GST)APP
+INTITULÉ :
+Sally Jeppesen c. Sa Majesté la Reine
+LIEU DE L’AUDIENCE :
+Vancouver (Colombie-Britannique)
+DATE DE L’AUDIENCE :
+Le 10 avril 2003
+MOTIFS de L’ORDONNANCE :
+L’honorable juge L.M. Little
+DATE DE L’ORDONNANCE :
+Le 25 avril 2003
+COMPARUTIONS :
+Pour la requérante :
+La requérante elle-même
+Avocate de l’intimée :
+Me Samantha Davey
+AVOCATS INSCRITS AU DOSSIER :
+Pour la requérante :
+Nom :
+Cabinet :
+Pour l’intimée :
+Morris Rosenberg
+Sous-procureur général du Canada Ottawa, Canada

@@ -1,0 +1,1024 @@
+---
+title: "CANCELLED - Tax-Free Savings Account (TFSA) Guide for Issuers"
+source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4477/tax-free-savings-account-tfsa-guide-issuers.html
+last_modified: 2024-10-18
+---
+# CANCELLED - Tax-Free Savings Account (TFSA) Guide for Issuers
+
+RC4477(E) Rev. 24
+
+The CRA's publications and personalized correspondence are available in braille, large print, e-text, or MP3. For more information go to [About multiple formats](https://www.canada.ca/en/revenue-agency/services/forms-publications/help-forms-publications/about-multiple-formats.html) or call **1-800-959-5525**.
+
+La version française de ce guide est intitulée Compte d’épargne libre d’impôt (CELI) Guide pour les émetteurs.
+
+Unless otherwise stated, all legislative references are to the Income Tax Act or, where appropriate, the Income Tax Regulations.
+
+## Table of contents
+
+- [Definitions](#definitions)
+
+- [Part I – Instructions related to filing the TFSA annual information return](#P1)
+
+- [Chapter 1 – The TFSA annual information return](#P2)
+
+    - [How to fill out a TFSA individual record](#P2.1)
+
+    - [How to fill out a TFSA return summary](#P2.2)
+
+    - [How to produce an annual statement of information in the case of transfer between specimen plans or a change to a TFSA contract number](#produce)
+
+- [Chapter 2 – Electronic filing methods](#P3)
+
+    - [What you need to file](#P3.1.1)
+
+    - [Filing by Internet file transfer (XML)](#P3.1)
+
+    - [Filing by Web Forms](#flng_wbfrms)
+
+    - [Filing without a Web access code](#file_without_wac)
+
+    - [What could cause a return or an individual record to be rejected](#P3.6)
+
+- [Chapter 3 – After you file](#P4)
+
+    - [Retrieving rejected individual records](#P4.1)
+
+    - [Amending, cancelling, or adding individual records](#P4.2)
+
+    - [How to resubmit individual records that were rejected](#P4.3)
+
+- [Chapter 4 – Penalties and interest](#P5)
+
+    - [Due date](#P5.1)
+
+    - [Late filing and failure to file the TFSA annual information return](#lt_flng_flr_tfsa)
+
+    - [Failure to provide information on a return](#P5.3)
+
+    - [Interest on penalties](#P5.5)
+
+    - [Notice of assessment](#P5.7)
+
+- [Part II – General TFSA information](#P6)
+
+- [Chapter 1 – Death of a TFSA holder](#P7)
+
+    - [Deposit or annuity contract TFSA](#P7.1)
+
+    - [Trust governed by a TFSA](#P7.2)
+
+    - [Designated beneficiaries](#designated_beneficiaries)
+
+- [Chapter 2 – Tax payable on non-qualified investments](#P8)
+
+- [Chapter 3 – Tax on an advantage](#P9)
+
+- [Chapter 4 – Tax payable on prohibited investments](#P10)
+
+- [Chapter 5 – Taxes on excess and non-resident contributions](#chapter5)
+
+- [Appendix A – Data elements – TFSA individual electronic record](#P11)
+
+- [Appendix B – Data elements – TFSA return summary](#P12)
+
+- [Related forms and publications](#related_forms)
+
+    - [Forms](#Forms)
+
+    - [Guides](#Guides)
+
+    - [Income tax folios](#Income)
+
+    - [Information circulars](#circulars)
+
+- [Digital services](#nls)
+
+    - [Handling your business taxes online](#hbtnl)
+
+    - [Receive your CRA mail online](#rcv_ml)
+
+    - [Create a pre-authorized debit agreement from your Canadian chequing account](#thrzg_wthdrwl)
+
+    - [My Payment](#mp)
+
+- [For more information](#Fr_mori)
+
+    - [If you need help](#nd_hlp)
+
+    - [Forms and publications](#forms_pubs)
+
+    - [Direct deposit](#Direct)
+
+    - [Electronic mailing lists](#trml)
+
+    - [Tax Information Phone Service (TIPS)](#tips)
+
+    - [Teletypewriter (TTY) and Video Relay Service (Canada VRS) users](#TTY)
+
+    - [Formal disputes (objections and appeals)](#Formal)
+
+    - [CRA Service Feedback Program](#SerFeed)
+
+          - [Service complaints](#Sercomplaints)
+
+          - [Reprisal complaints](#rprsl)
+
+    - [Due dates](#Due_dates)
+
+    - [Cancel or waive penalties and interest](#Can_pen_int)
+
+## Find out if this guide is for you
+
+This guide is intended for use by [issuers](#issuer) of the tax-free savings account (TFSA) and is divided into two parts.
+
+Part I contains information on how to file the **TFSA annual information return** by Internet. The return includes the **TFSA individual record** and the **TFSA return summary**. You will also find details on failure to file a return and interest and penalties that may be applied.
+
+Part II contains general TFSA information, such as general legislative information and the rules for beneficiaries of deceased TFSA [holders](#holder). It also provides information on when to file a T4A or NR4 slip. We also explain tax implications when the TFSA holds a [non qualified investment](#nonqualified_investment), when an [advantage](#advantage) is extended, when there are excess contributions and when a non resident holder makes contributions.
+
+This guide does not deal with every reporting situation.
+
+We use plain language to explain the most common reporting situations. If you need more information after reading this guide, call **1-800-959-5525**.
+
+We have included definitions of some of the terms used in this guide in the [Definitions](#definitions) section. You may want to read this section before you start.
+
+For more information on how to file your TFSA annual information return electronically, go to [Filing Information Returns Electronically](https://www.canada.ca/en/revenue-agency/services/e-services/filing-information-returns-electronically-t4-t5-other-types-returns-overview.html).
+
+## Definitions
+
+In this definition, “12 continuous months” includes any period that you were separated for less than 90 days because of a breakdown in the relationship.
+
+A survivor may designate a successor holder (for example, a new spouse or common‑law partner of the survivor in case of remarriage of the survivor). A successor holder designation is effective only if it is recognized under applicable provincial or territorial law and the successor holder acquired all of the survivor’s rights as holder, including the right to revoke any previous beneficiary designation made by the survivor in relation to the TFSA.
+
+**Swap transaction** – this is any transfer of property between the TFSA and its holder (or non-arm's length person). Exceptions are provided for contributions to and distributions from the TFSA, purchase and sale transactions between the TFSA and another TFSA of the holder, and transactions relating to insured mortgages. For more information on swap transactions and applicable transitional rules, go to [Income Tax Folio S3-F10-C3, Advantages – RRSPs, RESPs, RRIFs, RDSPs, FHSAs and TFSAs](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-3-property-investments-savings-plans/series-3-property-investments-savings-plan-folio-10-registered-plans-individuals/income-tax-folio-s3-f10-c3-advantages-rrsps-rrifs-tfsas.html).
+
+**Unrelated persons** – may not be dealing with each other at arm's length at a particular time. Each case will depend upon its own facts. The following criteria will be used to determine if the parties to a transaction are not dealing at arm's length:
+
+- whether there is a common mind that directs the bargaining for the parties to a transaction
+
+- whether the parties to a transaction act in concert without separate interests; ("acting in concert" means, for example, that parties act with considerable interdependence on a transaction of common interest)
+
+- whether there is de facto control of one party by the other because of, for example, advantage, authority, or influence
+
+For more information, go to [Income Tax Folio S1-F5-C1, Related Persons and Dealing at Arm's Length](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-1-individuals/folio-5-transfer-income-property-rights-third-parties/income-tax-folio-s1-f5-c1-related-persons-dealing-arms-length.html).
+
+## Part I – Instructions related to filing the TFSA annual information return
+
+### Chapter 1 – The TFSA annual information return
+
+Throughout this guide we use the term “**TFSA individual record**.” A TFSA individual record is similar to a slip except that TFSA issuers are not required to send their client a slip (for example, T4, T5). Therefore, when we refer to TFSA individual records, we are referring to what the issuers must submit to us.
+
+You may have to send a T4A slip or NR4 slip. For more information, go to [Chapter 1 – Death of a TFSA holder](#P7). You may also have to send notification of non-qualified investment to the holder. For more information, go to [Chapter 2 – Tax payable on non-qualified investments](#P8).
+
+A TFSA annual information return consists of both the TFSA individual records and the TFSA return summary. You have to fill out a return for each TFSAs exists at any time in the year. **Once a TFSA is opened, an individual record must be filed, regardless of activity in the account**. The information (data elements) required in order for us to process each of these forms is described in [Appendix A](#P11) and [Appendix B](#P12) respectively.
+
+If a record is filed in one year indicating that a TFSA was opened, we will expect to receive a record for the same TFSA in each year until such time as a record is filed with an indication that the account was closed in the year.
+
+Do not prepare a TFSA individual record if the TFSA was reported as closed in the previous year’s TFSA annual information return. We do not consider a TFSA to have been closed just because there are no funds in the account or there has been no activity during the reporting year, or both.
+
+Once a TFSA is reported as closed, you cannot reopen it.
+
+#### How to fill out a TFSA individual record
+
+The TFSA individual record is used to report the information as listed in "[Appendix A – Data elements – TFSA individual electronic record](#P11)".
+
+#### How to fill out a TFSA return summary
+
+The TFSA return summary is used to report the totals of the amounts you reported on all the related TFSA individual records under the TFSA identification number. The totals have to agree with the amounts you reported in the TFSA individual records. Any discrepancies will cause the TFSA annual information return to be rejected.
+
+Before completing the TFSA return summary, see "[Appendix B – Data elements – TFSA return summary](#P12)".
+
+For more information, see [Filing by Internet file transfer (XML)](#P3.1).
+
+#### How to produce an annual statement of information in the case of transfer between specimen plans or a change into a TFSA contract number
+
+In situations where qualifying arrangements are transferred between specimen plans, there is no prescribed transfer form that you must fill out; however, both the transferring and receiving institutions should keep an internal record of the transfers.
+
+##### Transfers
+
+When arrangements are transferred from one specimen plan to another – whether or not there is a change in issuer – each account that was transferred “out” must be reported on the TFSA annual information return of the transferring specimen as a “TFSA account closed this year” with the “closing date,” provided all amounts have been transferred “out.” Similarly, each account that was transferred “in” must be reported on the TFSA annual information return of the receiving specimen as a “new TFSA account this year for this holder” if this is the first year filing for this contract for this holder. Any amounts transferred, as a result of the transfer of arrangements from one specimen to another, must not be reported as contributions or withdrawals on the TFSA annual information return. The transferred “in” amounts will be reflected in the year end FMV of the receiving specimen.
+
+##### Change to a TFSA contract number
+
+A TFSA contract consists of the combination of both the contract number and the TFSA ID number. If either number or both are changed, it represents a change to a holder’s contract. The issuer must report the old contract on the TFSA annual information return as a “TFSA account closed this year” with the “closing date” and report the new contract as a “new TFSA account this year for this holder.”
+
+If a qualifying arrangement set up for specimen plan A (TFSA ID 3456789) is transferred to specimen plan B (TFSA ID 1234567) as of June 30, 2024(the closing date), all transactions that occurred on or before the date of the transfer must be reported under specimen plan A (TFSA ID 3456789). Select the “Y” indicator for the “TFSA account closed this year” and enter the “TFSA close date.” Any transactions that occur after the June 30, 2024,closing date must be reported under specimen plan B (TFSA ID 1234567) with the “Y” indicator selected for a “New TFSA account this year for this holder.”
+
+A TFSA with a new TFSA ID number, a new contract number, or both is considered a new contract with a presumed opening date of January 1 of the year of the election.
+
+The original contract will have an accumulated FMV up to the year-end preceding the transfer. This accumulated FMV will be reflected in the year end FMVof the new contract.
+
+If you have questions after reading this information, please refer to [Contact the Registered Plans Directorate](https://www.canada.ca/en/revenue-agency/services/tax/registered-plans-administrators/contact-registered-plans-directorate.html).
+
+### Chapter 2 – Electronic filing methods
+
+You can **only** file a TFSAannual information return by Internet using one of the four options mentioned below. We do not accept returns filed on CDs, DVDs, USB keys, diskettes or paper. You can file a TFSA annual information return by using:
+
+- [Internet file transfer (XML)](https://www.canada.ca/en/revenue-agency/services/e-services/filing-information-returns-electronically-t4-t5-other-types-returns-overview/filing-information-returns-electronically-t4-t5-other-types-returns-file.html)
+
+- [My Business Account](https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-businesses/business-account.html) (for business owners)
+
+- [Represent a Client](https://www.canada.ca/en/revenue-agency/services/e-services/represent-a-client.html)(for authorized representatives of TFSA issuers)
+
+- [Web Forms](https://www.canada.ca/en/revenue-agency/services/e-services/filing-information-returns-electronically-t4-t5-other-types-returns-overview/filing-information-returns-electronically-t4-t5-other-types-returns-file.html) (up to 100 records)
+
+If filing by Internet file transfer, the return must be in the mandatory Extensible Markup Language (XML) format and conform to our technical specifications (including the T619, Electronic Transmittal record), which can be found at [Filing Information Returns Electronically (T4/T5 and other types of returns)](https://www.canada.ca/en/revenue-agency/services/e-services/filing-information-returns-electronically-t4-t5-other-types-returns-overview/filing-information-returns-electronically-t4-t5-other-types-returns-file.html) under “XML specifications”.Use a validating parser before submitting the XML file to ensure it conforms to our schema. It can significantly assist in reducing the number of individual records that may be rejected.
+
+For more information, go to [Digital services for businesses](https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-businesses.html).
+
+You will receive immediate confirmation that we received your TFSA annual information return regardless of which method you use.
+
+**Internet filing will be available starting January 13, 2025**.
+
+Before you (the TFSA issuer) use any of the filing methods, you must have a valid TFSA RZ program account number.
+
+The RZ program account number consists of three parts:
+
+- the business number (BN)
+
+- a two-letter program identifier (RZ)
+
+- a four-digit reference number
+
+The entire account number has 15 characters. If you already have a BN, you only need to add the TFSA RZ program account number to your existing BN.
+
+You can obtain a TFSARZ program account by registering online through the Business Registration Online (BRO) or by filling out [Form RC1, Request for a Business Number and Certain Program Accounts](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc1.html).
+
+If a TFSA annual information return is filed with an invalid RZ program account number or if the RZ program account number does not match the information in our database, it will be rejected.
+
+#### What you need to file
+
+##### Business number (BN)
+
+If you do not have a BN, you must first apply for a business number online through [Business Registration Online](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/registering-your-business/business-registration-online-overview.html) (BRO), or fill out [Form RC1, Request for a Business Number and Certain Program Accounts](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc1.html), and submit it to us. You can submit a request by phone, or you can send the applications by fax or mail. For a list of addresses and fax numbers where the form can be sent, or to register for a BN online, go to [Business Number](https://www.canada.ca/en/services/taxes/business-number.html). To register by phone, call **1-800-959-5525**.
+
+##### Web access code
+
+Effective October 2023, the web access code (WAC) digital service is enhanced to allow information return filers to create, view, replace or inactive your WAC.
+
+#### Filing by Internet file transfer (XML)
+
+[Internet file transfer](https://www.canada.ca/en/revenue-agency/services/e-services/filing-information-returns-electronically-t4-t5-other-types-returns-overview/filing-information-returns-electronically-t4-t5-other-types-returns-file.html) allows you to transmit an original or amended TFSA annual information return with a maximum file size of **150 megabytes (MB)**. All you need is a Web browser to connect to the Internet, and your software will create, print, and save your electronic information return in XML format. For more information about this filing method, go to [Filing Information Returns Electronically (T4/T5 and other types of returns)](https://www.canada.ca/en/revenue-agency/services/e-services/filing-information-returns-electronically-t4-t5-other-types-returns-overview.html).
+
+If you use commercial or in-house developed software to manage your business, you can file up to **150 MB** by Internet file transfer. For example, a service bureau can file multiple returns in one submission, provided the total submission does not exceed the 150 MB restriction.
+
+If your file is more than 150 MB, you can still file using the Internet file transfer application by either:
+
+- compressing the file
+
+- separating the file into two or more files (the TFSA return summaries must reflect the same split)
+
+Regardless of the method used, **each submission cannot exceed 150 MB** and a compressed file can only contain one XML file per submission .
+
+##### Note
+
+If you are filing miltiple slips electronically for the same return type, tax year and account number, group all slips together under one summary and file as one return. File original and amended slips in separate returns.
+
+An RZ program account number is not needed to use the Internet file transfer service, but the TFSA return you transmit must contain the TFSA issuer’s RZ program account number. For example, if you are a third party service provider, you do not need your own RZ program account number.
+
+When using Internet file transfer, the information is automatically encrypted before it is submitted to us.
+
+Multiple TFSA returns can be filed in one submission using the Internet file transfer application provided that the total submission does not exceed the 150 MB restriction.
+
+Service providers **must** use their own BN and WAC –**not** the WAC of each TFSA issuer in the submission. For more information, go to [Digital services](https://www.canada.ca/en/revenue-agency/services/e-services.html).
+
+##### Note
+
+For ease of processing TFSA annual information returns, file other types of information slips under a separate transmission.
+
+#### Filing by Web Forms
+
+Our Web Forms application is free and secure. To use it, all you need is access to the Internet. With Web Forms you can fill out an information return easily, following the step-by-step instructions.
+
+Web Forms lets you:
+
+- file up to **100 TFSA records** (original, additional, amended, or cancelled) from our website
+
+- calculate all the totals for the summary
+
+- create an electronic information return containing TFSA records, which can be saved and imported later
+
+- print all records
+
+- validate data in real time
+
+After you submit your information return, you will receive a confirmation number that will be your proof that we received it.
+
+To use the Web Forms application, you must have a web access code. If you do not have a web access code, you can easily get one online or by calling us.
+
+To start using this application or to get more information about Web Forms, go to [Filing Information Returns Electronically (T4/T5 and other types of returns)](https://www.canada.ca/en/revenue-agency/services/e-services/filing-information-returns-electronically-t4-t5-other-types-returns-overview.html).
+
+#### Filing without a web access code
+
+To **register as a business owner**, go to [My Business Account](https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-businesses/business-account.html) and do the following:
+
+- select “CRA Register” and create a CRA user ID and password. You can also select “Continue to Sign-In Partner” and use the same sign-in information you use for other online services, (such as online banking).
+
+- to register, you will need to provide all the following information:
+
+    - your social insurance number (SIN)
+
+    - your date of birth
+
+    - your postal code or ZIP code
+
+    - an amount you entered on your Income tax and benefit return (the line we ask for will vary; it could be from the current or the previous tax year)
+
+    - your business number (BN)
+
+- you must enter a CRA security code to finalize the registration process. You can ask for the CRA security code by mail or email.
+
+- return to [My Business Account](https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-businesses/business-account.html), to enter your CRA security code.
+
+To **register as a representative**, including employees of a business, go to [Represent a Client](https://www.canada.ca/en/revenue-agency/services/e-services/represent-a-client.html) and do the following:
+
+- select “CRA Register” and create a CRA user ID and password. You can also select “Continue to Sign-In Partner” and use the same sign-in information you use for other online services, such as online banking.
+
+- to register, you will need to provide:
+
+    - your access code from your notice of assessment
+
+    - your postal code or ZIP code
+
+- register as the business owner (using your BN) or as yourself and receive a representative identifier (RepID), or create a group of representatives and receive a group identifier (GroupID)
+
+- get authorization to have online access to the TFSA account by doing one of the following:
+
+    - using the “Authorization request” service with [Represent a Client](https://www.canada.ca/en/revenue-agency/services/e-services/represent-a-client.html)
+
+    - giving your BN, RepID, or GroupID to businesses
+
+    - getting your employer permission so they can authorize you using the “Authorize or manage representatives” service in [My Business Account](https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-businesses/business-account.html)
+
+**Note** If the business authorizes you online in [My Business Account](https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-businesses/business-account.html), you will have immediate online access to the business accounts.
+
+Once you are registered as the business owner, or registered and authorized as a representative, an employee, or a group of employees, you will be able to file or amend TFSA slips without a Web access code.
+
+If there are rejected TFSA individual records, we will inform you by email.
+
+#### What could cause a return or an individual record to be rejected
+
+Any information that does not conform to our schema, including negative amounts, will cause the TFSA annual information return or the individual record to be rejected.
+
+The dates must be provided in YYYY-MM-DD format. Inversions in the month and day may cause a reject if the month field is greater than 12.
+
+If a field is left blank, it will cause a reject, except if the field indicates “if applicable,” such as the FMV at death if the holder is not deceased.
+
+We strongly recommend that you use a validating parser before submitting the XML documents to ensure they conform to our schema.
+
+For more information, go to [Retrieving rejected individual records](#P4.1).
+
+### Chapter 3 – After you file
+
+In this chapter, we explain how you can retrieve rejected TFSA individual records. We also explain how to amend, cancel, or add a TFSA individual record after you file as well as how to resubmit individual records that were previously rejected.
+
+When we receive your TFSA annual information return, our system performs validation checks to confirm that the data was submitted correctly and issues you a submission number. The submission number is your confirmation that we received your TFSA annual information return. The file name, date, and time of receipt are indicated on the confirmation of receipt page.
+
+If there are any problems with the processing of your return, we will contact you.
+
+#### Retrieving rejected individual records
+
+The downloadable file of rejected records will be available in both [My Business Account](https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-businesses/business-account.html) and [Represent a Client](https://www.canada.ca/en/revenue-agency/services/e-services/represent-a-client.html). **We will only notify you of any rejected individual records by email**. Make sure to provide us with a valid email address of the contact person for your TFSA RZ program account.
+
+You can download rejected records using the “Download rejected TFSA individual records” service at:
+
+- [My Business Account](https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-businesses/business-account.html), if you are the business owner
+
+- [Represent a Client](https://www.canada.ca/en/revenue-agency/services/e-services/represent-a-client.html), if you are an authorized employee or representative
+
+#### Amending, cancelling, or adding individual records
+
+##### Amending individual records
+
+After filing your TFSA annual information return, you may notice an error on a TFSA individual record. If so, you will have to prepare an amended individual record to correct the information. When submitting an amended individual record, send the entire record and not just the portion that needs amending.
+
+Amended records are shown in an XML file with report type code “A.”
+
+The three possible report type codes are as follows:
+
+- O = Original
+
+- A = Amendment
+
+- C = Cancelled
+
+An amended return **can** contain amended or cancelled records, but it **cannot** contain original records.
+
+Do**not** send an amended record if you are modifying a contract number. For more information, see [Cancelling individual records](#P4.2.2).
+
+The summary and Form [T619, Electronic Transmittal](https://www.canada.ca/en/revenue-agency/services/e-services/filing-information-returns-electronically-t4-t5-other-types-returns-overview/upcoming-year-t619.html) record, must show report type code “A,” not “O.”
+
+The file must be in XML format.
+
+For more information on how to amend records electronically, go to [Filing Information Returns Electronically (T4/T5 and other types of returns)](https://www.canada.ca/en/revenue-agency/services/e-services/filing-information-returns-electronically-t4-t5-other-types-returns-overview.html) and select “How to Amend”.
+
+To file amended individual records electronically, see [Chapter 2 – Electronic filing methods](#P3).
+
+The original records had the following two transactions:
+
+| Date of transaction | Contribution | Withdrawal |
+
+| --- | --- | --- |
+
+| 2024-01-04 | $500.00 | 0 |
+
+| 2024-12-23 | $1,000.00 | 0 |
+
+If you notice after filing that the contribution for December 23, 2024, should have been $100.00 and not $1,000.00, do not send a record with an adjustment of negative (-) $900.00. Send an amended record with the following transactions:
+
+| Date of transaction | Contribution | Withdrawal |
+
+| --- | --- | --- |
+
+| 2024-01-04 | $500.00 | 0 |
+
+| 2024-12-23 | $100.00 | 0 |
+
+When submitting the amended individual record, all the original data on the previous individual record that is unchanged, as well as the modified data must be included.
+
+##### Cancelling individual records
+
+After filing your TFSA annual information return, you may need to fully remove an individual record. If so, you will have to submit a cancelled individual record for that contract number to remove the information for that year. When submitting a cancelled record, the XML file must show it is a report type code “C,” and must be identical to the most current record (original or amendment).
+
+Use report type code “C” for the following scenarios:
+
+- You need to correct a contract or TFSA identification number previously submitted in error.
+
+- A record was filed that we cannot accept as valid. A cancelled record should be filed to acknowledge that this contract is not a TFSA.
+
+- The wrong year was established as the election year (there can only be one election year established for a particular contract). For example, a record was filed and accepted as the election year for 2024; however, the contract was actually opened in 2023.
+
+- The election was established under the wrong social insurance number (SIN) or temporary tax number (TTN) and there is an accepted record(s) for years subsequent to the election year under the same SIN or TTN. For example, an original record was accepted, and the election was established in 2022 under the wrong SIN or TTN; subsequent year records for 2023 and 2024 have also been filed and accepted under the same number. In order to correct this situation, cancelled records would be required to be submitted for the 2023 and 2024reporting years. Once accepted, an amended record for 2022 should be filed reporting the correct holder’s SIN or TTN.
+
+- Once the 2022 amended record is accepted and the election is established under the correct SIN or TTN, new original records should be submitted for the 2023 and 2024 reporting years.
+
+- After discussing with the TFSA Processing Unit, it was determined that a cancelled record is required.
+
+A cancelled record applies to a particular reporting year. When we receive a cancelled record for a particular year, we will eliminate the contributions and withdrawals for that particular year and recalculate the contribution room and taxes for that year.
+
+To cancel records for the same contract for more than one year, you have to **submit the cancelled record for the last year first**. Once we have accepted that cancelled individual record, submit the cancelled individual record for the next affected year. This process will help to avoid further rejections of records to financial institutions or referrals to the TFSA Processing Unit.
+
+Never use report type code “C” when:
+
+- an amended record can correct the mistake in the previous record.
+
+- you want to cancel previously submitted and valid records in order to refile them with other records that were not previously submitted. The records that were not previously submitted should be sent in a separate file.
+
+Use an amended record for any other data element you want to modify.
+
+##### Adding individual records
+
+After you file your TFSA annual information return, you may discover that you need to send us additional TFSA records. If you have original records that were not filed with your information return, file them in a separate original return. Do not combine the new records with previously submitted ones.
+
+Any additional slips that are filed after the due date may result in a penalty.
+
+To file additional individual records electronically, go to [Chapter 2 – Electronic filing methods](#P3).
+
+For common types of errors, go to [Table 1 – Error on individual records](#P4.4), and [Table 2 – Large scale errors affecting a large number of accounts](#P4.5).
+
+#### How to resubmit individual records that were rejected
+
+After you file, you will be notified by email if a TFSA individual record has been rejected, and that a downloadable file is available either in [My Business Account](https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-businesses/business-account.html) or in [Represent a Client](https://www.canada.ca/en/revenue-agency/services/e-services/represent-a-client.html). If this is the case, you must correct the data and resubmit the individual record as an amended record. We will store the original record and match the amended record with the information on file.
+
+Failure to resubmit an amended record in the case of a TFSA opened during the reporting year may result in the account not being registered as a TFSA and the client being subject to tax on the investment earnings. Failure to resubmit an amended record, whether or not the TFSA was opened in the reporting year, can also affect the calculation and notification of an individual’s TFSA contribution room.
+
+A rejected record is an individual record that has failed our validations but has been stored in our database. It is a record for which none of the data was used in any calculations and for which we are expecting an amended record.
+
+For a complete list of all error codes and descriptive records, go to [Error codes and descriptive messages for TFSA rejected individual records](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/tax-free-savings-account-tfsa-issuers/filing/after-you-file/rejected-individual-records-returns/error-codes-descriptive-messages-tfsa-rejected-individual-records.html).
+
+| Type of error | How to correct – type of record |
+
+| --- | --- |
+
+| Incorrect contract number. | Submit a cancelled record with the incorrect contract number and then a new original record with the correct contract number. |
+
+| Election declared invalid by CRA. | Submit a cancelled record. |
+
+| Record contained wrong social insurance number (SIN) or temporary tax number (TTN). | Submit an amended record. If more than one year has been accepted under the wrong SIN or TTN, go to [Cancelling individual records](#P4.2.2) for correction procedures. |
+
+| Correction of other identification data – date of birth, surname, etc. | Submit an amended record. |
+
+| Data corrections, contributions, withdrawals, marriage breakdown transfers, non-qualified investments, etc. | Submit an amended record. |
+
+| Most recent amendment is incorrect, previous version of record is correct. | Submit an amended record. Do not use a cancelled record – a cancelled record will remove all data and cannot be used to revert to the previous version of a record. |
+
+| Type of error | How to correct – type of record |
+
+| --- | --- |
+
+| Records omitted from original return | Do not cancel previously filed records – file new original return containing only the missing records |
+
+| Incorrect BN used to report | Contact us for determination of correction method |
+
+| Incorrect TFSA identification number used to report | Contact us for determination of correction method |
+
+| Any other | Contact us for determination of correction method |
+
+### Chapter 4 – Penalties and interest
+
+In this chapter, we explain the various penalties that may be applied on a TFSA**annual information return**.
+
+A TFSA annual information return consists of **TFSA individual records** and the related **TFSA return summary**. A summary alone **is not** a TFSA annual information return. You have to fill out a TFSA annual information return if you prepare one or more TFSA individual records.
+
+#### Due date
+
+You have to file the TFSA annual information return by the **last day of February following the calendar year to which the TFSA annual information return applies**. If the last day of February is a Saturday or Sunday, your TFSA annual information return is due the **next business day**.
+
+If you discontinue your business or activity, you have to file a return for the year or part-year no later than 30 days after the date the business or activity ended.
+
+#### Late filing and failure to file the TFSA annual information return
+
+The minimum penalty for late filing the TFSA annual information return is $100 and the maximum penalty is $7,500.
+
+#### Failure to provide information on a return
+
+Anyone who prepares a TFSA annual information return has to make a reasonable effort to get the necessary information, including the SIN or TTN and date of birth of the individual. **If you fail to comply with this requirement, you may have to pay a $100 penalty for each offence.**
+
+Make sure that the SIN or TTN you enter on each TFSA individual record matches the TFSA holder’s SIN or valid TTN. You must also make sure that the name and date of birth match the information in our records.
+
+If you have to prepare a TFSA annual information return, or if you are an officer, employee, or agent of someone who does, do not share a person's SIN or TTN, unless the law requires or allows you to do so, or you need it for the reason it was given to you.
+
+If you use an individual’s SIN/TTNfor unauthorized purposes, you may be guilty of an offence and liable, if convicted, to a maximum fine of $5,000 or imprisonment of up to 12 months, or both.
+
+#### Interest on penalties
+
+We charge interest, compounded daily at a prescribed rate, on the total amount of penalties and interest outstanding. Interest and penalties are payable to the Receiver General for Canada.
+
+#### Notice of assessment
+
+We will issue a notice of assessment for the TFSA annual information return only if we apply a penalty.
+
+## Part II – General TFSA information
+
+In this part of the guide, we explain various general legislative rules, such as what to do when a TFSA holder dies or when the TFSA holder is a non-resident. We also explain tax implications on certain investments and what requirements you, as the issuer, have and how to report and file these amounts.
+
+### Chapter 1 – Death of a TFSA holder
+
+In this chapter, we explain the reporting requirements that apply when the last holder dies and, as a result, the arrangement ceases to be a TFSA.
+
+This information does not apply if the holder named their spouse or common-law partner as the [**successor holder**](#sccssr_hldr) of the TFSA. If this is the case, the arrangement maintains its tax-exempt status as a TFSA.
+
+The tax treatment and reporting requirements depend on whether the TFSA is a deposit, an annuity contract, or a trust.
+
+#### Deposit or annuity contract TFSA
+
+When the last holder of a deposit or an annuity contract TFSA dies, the arrangement ceases to be a TFSA. The [FMV](#fmv) of the TFSA at the date of death will be received tax-free by the deceased’s estate or other designated beneficiaries. There are no reporting requirements for these amounts.
+
+Any investment income or gains that accrue under the former TFSA after the date of death will be taxable under the regular taxation rules that apply depending on the specific characteristics of the deposit or annuity contract. For more information on how to report these amounts, go to [Guide T4015, T5 Guide – Return of Investment Income](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4015.html), or [Guide T4013, T3 – Trust Guide](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4013.html), as applicable.
+
+#### Trust governed by a TFSA
+
+When the last holder of a TFSA which governs a trust dies, the arrangement continues to be treated as a TFSA for certain limited purposes. The main effect is to allow the trust to maintain its tax-exempt status until the end of the exempt period, which is the earlier of the end of the year following the year of death of the holder or when the trust ceases to exist.
+
+While the trust maintains its exempt status, any payment made from the trust during the exempt period to the deceased’s estate or another designated beneficiary will be included in the recipient’s income for the year it’s received, except to the extent designated by the trust as being attributable to the FMV of the TFSA at death.
+
+That is, only the portion of the payment that represents the distribution of post-death investment income or gains will be taxable. See the [example](#example) below.
+
+You have to prepare and file a [**T4A slip**](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/payroll/completing-filing-information-returns/t4a-information-payers/t4a-slip.html) to report any taxable payments that you make each year during the exempt period to a beneficiary who is a resident of Canada. You **do not** need to report amounts that are required to be included in the income of a trust that is a former TFSA trust in its first taxable year. There is no requirement to withhold tax on these amounts.
+
+The income must be recorded in box 134 “Tax Free Savings Account taxable amount” in the “Other information” section of the [T4A slip](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/payroll/completing-filing-information-returns/t4a-information-payers/t4a-slip.html). Send copies of the T4A slip to the recipient’s last known address.
+
+You can also send a copy of one of these slips in electronic format to the recipient if you received the recipient’s consent in writing or electronic format.
+
+For more information, go to [Guide RC4157, Deducting Income Tax on Pension and Other Income, and Filing the T4A Slipand Summary](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4157.html).
+
+You have to prepare and file an [**NR4 slip**](https://www.canada.ca/en/revenue-agency/services/tax/international-non-residents/payments-non-residents/nr4-part-xiii-tax/nr4/nr4-slip.html) to report any taxable payments that you make each year during the exempt period to a beneficiary who is a non-resident of Canada. You are also required to withhold and remit non-resident withholding tax on these payments.
+
+For more information on how to fill out an NR4 information return, go to [Guide T4061, NR4 – Non-Resident Tax Withholding, Remitting, and Reporting](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4061.html).
+
+If the trust still exists at the end of the exempt period, the trust will become taxable from that point forward and will have to file Form [T3RET, T3 Trust Income Tax and Information Return](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t3ret.html), each year that it continues to exist. In its first taxable year, the trust will be required to include in its income any post-death income or gains that were not paid out to beneficiaries during the exempt period.
+
+#### Designated beneficiaries
+
+Designated beneficiaries can include a survivor who has not been named as a successor holder, former spouses or common-law partners, children, a designated subsequent survivor holder who is the new spouse or common-law partner of the successor holder, and qualified donees.
+
+- Holder date of death – February 15, 2024
+
+- No successor holder of the TFSA
+
+- FMV of the properties in the TFSA immediately before the death of the last holder – $11,000
+
+**Situation 1:** The estate is settled on September 30, 2024, and the TFSA is disposed of at a FMV of $11,000.
+
+**Tax treatment for situation 1:** The distribution can be made without tax consequences. The trustee, technically, makes a designation that the entire payment is from the non-taxable pool of pre-death FMV. No T4A slip is required but the transaction (the distribution) has to be reported to the CRA by the end of February 2025.
+
+**Situation 2:** The estate remains unsettled at the end of the calendar year of death, December 31, 2024. Properties held within the TFSA on December 31, 2024, have a FMV of $13,000. It is assumed from the facts that the trust continues to administer the TFSA.
+
+**Tax treatment for situation 2:** From the information provided, the exempt period in this example is the period from the date of the holder’s death (February 15, 2024) to the end of 2025. Even though there was a taxable growth, since the proceeds continue to be held by the trust (that is, no distributions [payments] are being made), no T4A slip is required. As well, there is no requirement for T3 reporting since the trust itself is deemed to retain its non-taxable status until the end of the exempt period.
+
+**Situation 3:** The estate is still not settled but a payment is made to a beneficiary on July 15, 2024. At the time of the payment the FMV of the properties still held by the TFSA has appreciated to $15,000. In scenario (a) the entire $15,000 is distributed to the beneficiary. In scenario (b) only $11,000 is distributed.
+
+**Tax treatment for situation 3:** In scenario (a), the trustee determines that up to $11,000 of the payment may be designated as being made out of the non-taxable pool, which leaves the remaining $4,000 as a taxable payment. The $4,000 is reported on a T4A slip. The income must be recorded in box 134 “Tax Free Savings Account (TFSA) taxable amount,” in the “Other information” section of the T4A slip, and is included on the beneficiary’s tax return for the 2024 tax year. The trustee will report the transaction by the end of February 2025.
+
+In scenario (b), the trustee determines that up to $11,000 of the payment may be designated as being made out of the non-taxable pool. A lesser amount may be designated as a distribution from that pool. To the extent that the payment is **not** from that pool, it is a taxable payment to the beneficiary to be reported to us by the end of February 2025. The balance remains in the TFSA trust until it is distributed or until the end of the exempt period (December 31, 2025), whichever occurs earlier. Should the balance of the funds remain in the trust after the end of the exempt period, the trust then becomes an ordinary taxable trust with a tax year beginning January 1, 2026. Any taxable income that had not previously been distributed will become income of the trust in that first taxable year.
+
+### Chapter 2 – Tax payable on non-qualified investments
+
+In this chapter, we explain the consequences for TFSA issuers of holding a [non-qualified investment](#nonqualified_investment) within a TFSA trust and related reporting requirements.
+
+If a TFSA holds a non-qualified investment or carries on a business, the TFSA trust is taxable on any income earned on and any capital gains derived from the non-qualified investment or business. You must report such income on Form [T3RET, T3 Trust Income Tax and Information Return](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t3ret.html).
+
+The TFSA issuer has to report details of the non-qualified investment on the TFSAannual information return. For more information, go to [Appendix A – Data elements – TFSA individual electronic record](#P11).
+
+In addition, the TFSA issuer must provide the TFSA holder with the following information by the end of February following the reporting year:
+
+- a description of the investment
+
+- the date of acquisition or disposition, as applicable, and the FMV of the investment at that date
+
+- the TFSA contract or account number
+
+Responsibility for compliance with the qualified investment rules generally lies with TFSA issuers. In this regard, TFSA issuers must take reasonable care to ensure that TFSAs do not hold non-qualified investments.
+
+### Note
+
+Communication of non-qualified investment holdings to the holder on a timely basis will assist the holder in taking appropriate corrective action.
+
+For more information on non-qualified investments, go to [Guide RC4466, Tax-Free Savings Account (TFSA), Guide for Individuals](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4466.html), and [Income Tax Folio S3-F10-C1, Qualified Investments — RRSPs, RESPs, RRIFs, RDSPs, FHSAs and TFSAs](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-3-property-investments-savings-plans/series-3-property-investments-savings-plan-folio-10-registered-plans-individuals/income-tax-folio-s3-f10-c1-qualified-investments-rrsps-resps-rrifs-rdsps-tfsas.html).
+
+### Chapter 3 – Tax on an advantage
+
+In this chapter, we explain the tax consequences to a TFSA issuer when an advantage is extended in relation to the TFSA.
+
+In most cases the holder is liable for the advantage tax. However, if the [advantage](#advantage) is considered to be extended by the TFSA issuer, or by a person not dealing at arm’s length with the issuer, the issuer is liable to pay the tax, rather than the holder.
+
+For more information, go to [Guide RC4466, Tax Free Savings Account (TFSA), Guide for Individuals](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4466.html), and refer to “Tax payable on an advantage.” Also go to [Income Tax Folio S3-F10-C3, Advantages — RRSPs, RESPs, RRIFs, RDSPs, FHSAs and TFSAs](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-3-property-investments-savings-plans/series-3-property-investments-savings-plan-folio-10-registered-plans-individuals/income-tax-folio-s3-f10-c3-advantages-rrsps-rrifs-tfsas.html).
+
+If you are liable to pay tax on an advantage, you must fill out and send Form[RC298, Advantage Tax Return for RRSP, TFSA, FHSA or RDSP issuers, RESP promoters, or RRIF carriers](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc298.html) by June 30thafter the end of the calendar year.
+
+### Chapter 4 – Tax payable on prohibited investments
+
+If, in a calendar year, a trust governed by a TFSA acquires property that is a [prohibited investment](#prohibited_investment) or if previously acquired property becomes prohibited, there are consequences for the TFSA holder in terms of reporting requirements and tax payable.
+
+For more information, go to [Guide RC4466, Tax Free Savings Account (TFSA), Guide for Individuals](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4466.html), and refer to “Tax payable on prohibited investments.” Also go to [Income Tax Folio S3-F10-C2, Prohibited Investments — RRSPs, RESPs, RRIFs, RDSPs FHSAs and TFSAs.](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-3-property-investments-savings-plans/series-3-property-investments-savings-plan-folio-10-registered-plans-individuals/income-tax-folio-s3-f10-c2-prohibited-investments-rrsps-rrifs-tfsas.html)
+
+### Chapter 5 – Taxes on excess and non-resident contributions
+
+TFSA holders are liable for a 1% per-month tax on their excess contributions and non-resident contributions. For more information, go to [RC4466 Tax-Free Savings Account (TFSA), Guide for Individuals](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4466.html).
+
+The application of these taxes will be administered by us. You, the issuer, do not have to specifically identify any withdrawals made by the holder to avoid the continued application of these taxes. Any such withdrawals will be reported as regular withdrawals. You also do not have to report to us when a holder becomes a non-resident.
+
+### Appendix A – Data elements – TFSA individual electronic record
+
+When a monetary value is required, you must report the amount in Canadian dollars and cents. For more information, go to Income Tax [Folio S5-F4-C1, Income Tax Reporting Currency.](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-5-international-residency/series-5-international-residency-folio-4-foreign-currency/income-tax-folio-s5-f4-c1-income-tax-reporting-currency.html) You must make reasonable efforts to determine the FMV when it is required to be reported. Do not report negative values, as negative values on the TFSA electronic record will result in the record being rejected. You can also find this information by going to [TFSA annual information return](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/tax-free-savings-account-tfsa-issuers/filing/tfsa-annual-information-return.html).
+
+| TFSA Transaction Data | Comments |
+
+| --- | --- |
+
+| **Transaction date – year-month-day** | Enter all numeric characters (for example 2023-09-28). You must enter the transaction date of each individual transaction. |
+
+| **TFSA contribution amount** | Each contribution must be detailed by day from January 1 to December 31. |
+
+| **TFSA withdrawal amount** | Each withdrawal must be detailed by day from January 1 to December 31. |
+
+| **Marriage breakdown transfer out – FMV** | To be reported by the issuer that does the actual transfer out. |
+
+| **Marriage breakdown transfer in – FMV** | To be reported by the issuer that does the actual transfer in. |
+
+| **Surname of former spouse or common-law partner** | Enter only the former spouse or common-law partner’s surname (maximum of 30 letters). Omit titles, such as Mr. or Mrs., and do not include the first given name or initials. Do not use French accents. If it is a compound name, do not use a hyphen or space. The surname you provide must match the surname contained in our database for that SIN. You may want to advise your client that if they make a surname change, they have to inform both the CRA and the TFSA issuer. |
+
+| **Given name of former spouse or common-law partner** | Enter only the former spouse or common-law partner’s first given name (maximum of 30 letters). If only the initials are available, provide the first initial. Do not use French accents. If it is a compound name, do not use a hyphen or space. |
+
+| **Social insurance number (SIN) or temporary tax number (TTN) of former spouse or common-law partner** | Provide the SIN or the individual’s TTN. If the field is left blank or contains an invalid SIN or TTN, the submitted return or individual record will be rejected. A valid SIN **does not** start with the number 0. A valid TTN for TFSA contributions starts with the number 01 or 03. All 900-series SINs have an expiry date. At the time the arrangement is entered into, you must validate the SIN’s expiry date for this client. If at that time the date is expired, the client is not allowed to open a TFSA. A TFSA remains valid even when a 900-series SIN expires after the arrangement is entered into but before the issuer files the TFSA annual information return. A 900-series SIN is issued to an individual who is neither a Canadian citizen nor a permanent resident. These individuals need a SIN for employment purposes, or to comply with other authorized uses, such as income tax filing. Holders of these SINs include temporary foreign workers and refugee claimants. |
+
+| **Acquisition of non-qualified investment – FMV** | This refers to situations where a non-qualified investment is acquired, or a qualified investment became non-qualified. |
+
+| **Withdrawal of non-qualified investments – FMV** | This refers to situations where a non-qualified investment is disposed of or a non-qualified investment became qualified. |
+
+| **Business number (BN)** | 15 alphanumeric characters **–** 9 digits **–** RZ **–** 4 digits. **Example**: 123456789RZ0001. The BN must correspond to the “business number (BN)” on the related TFSA summary record. |
+
+| **TFSA identification number** | 8 numeric characters which must correspond to the TFSA identification number on the related TFSA summary record. If this field is left blank or the number is not valid, the return will be rejected. |
+
+| **TFSA contract number** | Maximum of 30 alphanumeric characters. The TFSA contract or account number issued by the issuer to the TFSA holder. Assign a unique identifier number to each TFSA under the same **TFSA**identification**number**. This will ensure that we can identify the original individual record when any amended individual record is received. In addition, it will enable the issuer to identify which record in the submission was rejected. Make sure to provide this account number in the same format every year to avoid any rejects. If this field is left blank or the number is not unique, the return will be rejected. |
+
+| **TFSA holder social insurance number (SIN) or temporary tax number (TTN)** | Provide the SIN or the individual’s TTN. If the field is left blank or contains an invalid SIN or TTN, the return or individual record will be rejected. A valid SIN **does not** start with the number 0. A valid TTN for TFSA contributions starts with the number 01 or 03. All 900-series SINs have an expiry date. At the time the arrangement is entered into, you must validate the SIN’s expiry date for this client. If at that time the date is expired, the client is not allowed to open a TFSA. A TFSA remains valid even when a 900-series SIN expires after the arrangement is entered into but before the issuer files the TFSA annual information return. A 900-series SIN is issued to an individual who is neither a Canadian citizen nor a permanent resident. These individuals need a SIN for employment purposes, or to comply with other authorized uses, such as income tax filing. Holders of these SINs include temporary foreign workers and refugee claimants. |
+
+| **TFSA holder surname** | Enter only the holder’s surname (maximum of 30 letters). Omit titles, such as Mr. or Mrs., and do not include the first given name or initials. Do not use French accents. If it is a compound name, do not use a hyphen or space. The surname you provide must match the surname contained in our database for that SIN. You may want to advise your client that if they make a surname change, they have to inform both the CRA and the TFSA issuer. |
+
+| **TFSA holder given name** | Enter only the holder’s first given name (maximum of 30 letters). If only the initials are available, provide the first initial. Do not use French accents. If it is a compound name, do not use a hyphen or space. |
+
+| **TFSA holder initial** | Enter the initial of the holder’s second given name. |
+
+| **TFSA holder address – line 1** | Enter the first line of the TFSA holder’s address. |
+
+| **TFSA holder address – line 2** | Enter the second line of the TFSA holder’s address. |
+
+| **TFSA holder city** | Enter the city in which the TFSA holder is located. |
+
+| **TFSA holder province or territory code** | Enter the Canadian province, territory or the state in the U.S.A. in which the TFSAholder is located. Use the abbreviations listed in the [T619, Electronic Transmittal](https://www.canada.ca/en/revenue-agency/services/e-services/filing-information-returns-electronically-t4-t5-other-types-returns-overview/t619.html) record, under the section “**Transmitter province or territory code**.” When the TFSA holder’s country code is neither CAN nor USA, enter **ZZ** in this field. |
+
+| **TFSA holder country code** | Use the alphabetic country code (3 alpha characters), as outlined in the [International Standards Organization (ISO) 3166, Codes for the representation of names of countries and their subdivisions](https://www.iso.org/standard/39718.html). Always use **CAN** for Canada, and **USA** for the United States of America. |
+
+| **TFSA holder postal code** | Enter the TFSA holder’s Canadian postal code in alphanumeric sequence (for example: A9A9A9) or the USA zip code. Where the country code is neither CAN nor USA, enter the foreign postal code (maximum 10 alphanumeric characters). |
+
+| **TFSA holder date of birth – year – month – day** | Enter all numeric characters (for example 1991-09-28). |
+
+| **TFSA holder date of death – year – month – day** | Enter all numeric characters (for example 2024-09-28). Fill out this field in the year of death of the last holder. If the account has a successor holder, do not report the date of death in this field. See the field “**Successor holder account: Y or N**” |
+
+| **TFSA holder FMV at time of death** | Fill out this field for the year of death of the last holder. If the account has a successor holder, do not report the FMV at death. Example In 2024 John Smith opened a TFSA, account number 12345. Jane Smith, his wife, is named the successor holder of this TFSA. John dies in 2025. For reporting year 2024, file the individual record under John’s name and SIN for TFSA contract 12345, and indicate “**N**” for **no** in the “**Successor holder account**” field. For reporting year 2025, file the individual record for the TFSA account number 12345 with all the transactions under Jane’s name and SIN. Indicate “**Y**”for **yes** in the “**Successor holder account**” field and provide John’s name, SIN, and date of death. Do not file an individual record for John for the year of death. The individual record submitted for Jane will not include the FMV at death. Under this TFSA account number 12345, you will complete the FMV at death and the date of death only when the last holder dies. In subsequent years, do not answer yes or provide the deceased’s information. However, if you do answer yes then you will have to provide the deceased’s information as well. If you answer yes but do not provide the deceased’s information, or you answer no but you provide the deceased’s information, it will cause the record to be rejected. |
+
+| **New TFSA account this year for this holder: Y or N** | To register the arrangement is as a TFSA under the SIN or TIN of the holder. Also, to register this arrangement the election must be filed before the month of March after the end of the year that the arrangement was entered into. A TFSA identification number is the number we assign to each specimen that has been accepted by the Registered Plans Directorate. Identifying new accounts is an important step in processing individual records. The only time “**Y**” for **yes** would show in this field is when you file a TFSA contract or account number for the first time. For other years, indicate “**N**” for **no**. If the holder dies in a year subsequent to the year of election and there is a successor holder, this field should still show “**N**” for **no**. |
+
+| **TFSA account closed this year: Y or N** | Enter “**Y**” for **yes** and provide the closing date if the account was closed during the year. Once an account is closed, the TFSA contract or account number cannot be reused under the particular TFSA identification number because of the unique identifier requirement. If the holder has withdrawn all funds from an account in the previous year and there is no activity in that account throughout the current year, we consider the account to still be open. You would still have to file an individual record for each year for this TFSA contract or account number. |
+
+| **TFSA close date – year – month – day** | Enter all numeric characters (for example 2024-09-28). |
+
+| **Successor holder account: Y or N** | If, in the year of the holder’s death, a successor holder exists at the time of death, indicate “**Y**” for **yes**. You will be required to provide the name, SIN, and date of death of the holder. When an excess TFSA amount exists, that amount will be deemed a contribution made by the successor holder at the beginning of the month following the month in which the holder dies. Do not report that deemed contribution on the individual record. The CRA will update the successor holder file. In subsequent years, do not answer **yes** or provide the deceased’s information. However, if you do answer **yes** then you will have to provide the deceased’s information as well. If you answer **yes** but do not provide the deceased’s information, or you answer “**N**” for **no**, but you provide the deceased’s information, it will cause the record to be rejected. See the [example](#TFSA_hfmv_xpl)under “**TFSA****holder FMV at time of death,**” above. |
+
+| **Surname of deceased holder** | Enter only the deceased holder’s surname (maximum of 30 letters). Omit titles, such as Mr. or Mrs., and do not include the first given name or initials. Do not use French accents. If it is a compound name, do not use a hyphen or space. The surname you provide must match the surname contained in our database for that SIN. You may want to advise your client that if they make a surname change they have to inform both the CRA and the TFSA issuer. |
+
+| **Given name of deceased holder** | Enter only the deceased holder’s first given name (maximum of 30 letters). If only the initials are available, provide the first initial. Do not use French accents. If it is a compound name, do not use a hyphen or space. |
+
+| **Initial of deceased holder** | Enter the initial of the deceased holder’s second given name. |
+
+| **Social insurance number (SIN) or temporary tax number (TTN) of deceased holder** | Provide the SIN or the individual’s TTN. If the field is left blank or contains an invalid SIN or TTN, the return or individual record will be rejected. A valid SIN **does not**start with the number 0. A valid TTN for TFSA contributions starts with the number 01 or 03. All 900-series SINs have an expiry date. At the time the arrangement is entered into, you must validate the SIN’s expiry date for this client. If at that time the date is expired, the client is not allowed to open a TFSA. A TFSA remains valid even when a 900-series SIN expires after the arrangement is entered into but before the issuer files the TFSA annual information return. A 900 series SIN is issued to an individual who is neither a Canadian citizen nor a permanent resident. These individuals need a SIN for employment purposes, or to comply with other authorized uses, such as income tax filing. Holders of these SINs include temporary foreign workers and refugee claimants. |
+
+| **TFSA deceased holder date of death – year-month-day** | Enter all numeric characters (for example 2024-09-28). Fill out this field when you answer “**Y**” for**yes** to “**Successor holder account: Y or N**.” |
+
+| **Calendar year end FMV** | You must fill out this field for each year the account is open even if there is no activity throughout the year and/or the value is nil. The FMV cannot be negative. |
+
+| **Total number of transaction records** | Enter the total number of transaction records included in this slip. |
+
+| **Total holder contributions** | Enter the total of all contributions. |
+
+| **Total holder withdrawals** | Enter the total of all amounts withdrawn. |
+
+| **Total holder transfer out – Marriage breakdown – FMV** | Enter the total of all transfers out. |
+
+| **Total holder transfer in – Marriage breakdown – FMV** | Enter the total of all transfers in. |
+
+| **Report type code** | Original = O Amendment = A Cancelled = C An amended return cannot contain an original slip. An original return cannot contain an amended or cancelled slip. |
+
+### Appendix B – Data elements – TFSA return summary
+
+When a monetary value is required, you must report the amount in Canadian dollars and cents. For more information, go to [Income Tax Folio S5-F4-C1, Income Tax Reporting Currency](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-5-international-residency/series-5-international-residency-folio-4-foreign-currency/income-tax-folio-s5-f4-c1-income-tax-reporting-currency.html). You must make reasonable efforts to determine FMV when it is required to be reported. Do not report negative values, as negative values on the TFSA electronic record will result in the record being rejected.
+
+| Field Names | Comments |
+
+| --- | --- |
+
+| **Business number (BN)** | 15 alphanumeric characters – 9 digits – RZ – 4 digits. Example: 123456789RZ0001 In order to process a return, the complete BN is required. |
+
+| **Summary type code** | Original = O Amendment = A An amended return cannot contain an original slip. An original return cannot contain an amended or cancelled slip. |
+
+| **Reporting year** | Enter the tax year: 4 numeric characters (for example, 2023). Make sure that the year you enter is the same as the year on the transaction dates of the individual records. |
+
+| **TFSA identification number** | 8 numeric characters. A TFSA identification number is the number we assign to each specimen that has been accepted by the Registered Plans Directorate. For more information, see [Savings and pension plan administrators](https://www.canada.ca/en/services/taxes/savings-and-pension-plans/savings-and-pension-plan-administration.html) and select "Tax-Free Savings Account administration". |
+
+| **Total number of TFSA slips** | Enter the total number of transaction records included in this summary. Maximum of 7 numeric characters. |
+
+| **Filer name – line 1** | If an ampersand (&) is used in the name area, enter as "&amp". Maximum of 35 alphanumeric characters. |
+
+| **Filer name – line 2** | Maximum of 35 alphanumeric characters. |
+
+| **Filer name – line 3** | Use this line for "care of" or "attention". Maximum of 35 alphanumeric characters. |
+
+| **Filer address – line 1** | Maximum of 30 alphanumeric characters. |
+
+| **Filer address – line 2** | Maximum of 30 alphanumeric characters. |
+
+| **Filer city** | Maximum of 28 alphanumeric characters. |
+
+| **Filer province or territory code** | Enter the Canadian province, territory or the state in the U.S.A. in which the filer is located. Use the abbreviations listed in the [T619*,*Electronic Transmittal](https://www.canada.ca/en/revenue-agency/services/e-services/filing-information-returns-electronically-t4-t5-other-types-returns-overview/t619.html) record, under the section "**Transmitter province or territory code**". When the TFSA holder’s country code is neither CAN nor USA, enter **ZZ** in this field. |
+
+| **Filer country code** | Use the alphabetic country code (3 alpha characters), as outlined in the [International Standards Organization (ISO) 3166 Codes, for the representation of names of countries and their subdivisions](http://www.iso.org/iso/iso_catalogue/catalogue_tc/catalogue_detail.htm?csnumber=39718). Always use **CAN** for Canada, and **USA** for the United States of America. |
+
+| **Filer postal code** | Enter the TFSA filer’s Canadian postal code in an alphanumeric sequence (for example: A9A9A9) or the USA zip code. Where the country code is neither CAN nor USA, enter the foreign postal code (maximum 10 alphanumeric characters). |
+
+| **Contact surname** | Enter only the contact’s surname (maximum of 30 letters). Omit titles, such as Mr. or Mrs., and do not include the first given name or initials. Do not use French accents. If it is a compound name, do not use a hyphen or space. |
+
+| **Contact given name** | Enter only the contact’s first given name (maximum of 30 letters). If only the initials are available, provide the first initial. Do not use French accents. If it is a compound name, do not use a hyphen or space. |
+
+| **Contact telephone number** | Enter 3 numeric characters with a hyphen (-) followed by 3 numeric characters with a hyphen (-), followed by 4 numeric characters. |
+
+| **Contact extension number** | Maximum of 5 numeric characters. |
+
+| **Contact email address** | Maximum of 60 alphanumeric characters. Enter the contact’s email address. This is the only way we will advise you that information has been posted on [My Business Account](https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-businesses/business-account.html), which will indicate the status of the TFSA annual information return and the individual records being rejected. If you are the representative, use the [Represent a Client](https://www.canada.ca/en/revenue-agency/services/e-services/represent-a-client.html) service. |
+
+| **Total contributions amount** | Enter the total amount of all contributions. |
+
+| **Total withdrawals amount** | Enter the total amount of all withdrawals. |
+
+| **Total calendar year-end FMV** | Enter the total FMV. The FMV must also include the FMV of accounts that had no activity during the year. |
+
+| **Total transfers out – marriage breakdown amount** | Enter the total amount of transfers out as a result of marriage breakdown, if applicable. |
+
+| **Total transfers in – marriage breakdown amount** | Enter the total amount of transfers in as a result of marriage breakdown, if applicable. |
+
+## Related forms and publications
+
+### Forms
+
+- [AUT-01, Authorize a Representative for Offline Access](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/aut-01.html)
+
+- [NRTA1, Authorization for Non-Resident Tax Exemption](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/nrta1.html)
+
+- [T3RET, T3 Trust Income Tax and Information Return](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t3ret.html)
+
+- [RC1, Request for a Business Number and Certain Program Accounts](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc1.html)
+
+- [RC193, Service Feedback](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc193.html)
+
+- [RC236, Application for a Tax-Free Savings Account Identification Number](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc236.html)
+
+- [RC298, Advantage Tax Return for RRSP, TFSA, FHSA or RDSP issuers, RESP promoters, or RRIF carriers](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc298.html)
+
+- [RC4288, Request for Taxpayer Relief – Cancel or Waive Penalties and Interest](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc4288.html)
+
+- [RC7259, Business Consent for Selected Listed Financial Institutions](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc7259.html)
+
+### Guides
+
+- [RC4157, Deducting Income Tax on Pension and Other Income, and Filing the T4A Slip and Summary](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4157.html)
+
+- [RC4466, Tax-Free Savings Account (TFSA), Guide for Individuals](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4466.html)
+
+- [T4013, T3 – Trust Guide](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4013.html)
+
+- [T4015, T5 Guide – Return of Investment Income](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4015.html)
+
+- [T4061, NR4 – Non-Resident Tax Withholding, Remitting, and Reporting](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4061.html)
+
+### Income tax folios
+
+- [S1-F5-C1, Related Persons and Dealing at Arm’s Length](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-1-individuals/folio-5-transfer-income-property-rights-third-parties/income-tax-folio-s1-f5-c1-related-persons-dealing-arms-length.html)
+
+- [S3-F10-C1, Qualified Investments – RRSPs, RESPs, RRIFs, RDSPs, FHSAs and TFSAs](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-3-property-investments-savings-plans/series-3-property-investments-savings-plan-folio-10-registered-plans-individuals/income-tax-folio-s3-f10-c1-qualified-investments-rrsps-resps-rrifs-rdsps-tfsas.html)
+
+- [S3-F10-C2, Prohibited Investments – RRSPs, RESPs, RRIFs, RDSPs, FHSAs and TFSAs](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-3-property-investments-savings-plans/series-3-property-investments-savings-plan-folio-10-registered-plans-individuals/income-tax-folio-s3-f10-c2-prohibited-investments-rrsps-rrifs-tfsas.html)
+
+- [S3-F10-C3, Advantages —RRSPs, RESPs, RRIFs, RDSPs, FHSAs and TFSAs](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-3-property-investments-savings-plans/series-3-property-investments-savings-plan-folio-10-registered-plans-individuals/income-tax-folio-s3-f10-c3-advantages-rrsps-rrifs-tfsas.html)
+
+- [S5-F1-C1, Determining an Individual's Residence Status](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-5-international-residency/folio-1-residency/income-tax-folio-s5-f1-c1-determining-individual-s-residence-status.html)
+
+### Information circulars
+
+- [IC07-1R1, Taxpayer Relief Provisions](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/ic07-1.html)
+
+- [IC18-1, Tax Free Savings Accounts](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/ic18-1.html)
+
+- [IC76-12R8, Applicable rate of Part XIII tax on amounts paid or credited to persons in countries with which Canada has a tax convention](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/ic76-12.html)
+
+- [IC82-2R2, Social Insurance Number Legislation that Relates to the Preparation of Information Slips](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/ic82-2.html)
+
+- [IC89-3, Policy Statement on Business Equity Valuations](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/ic89-3.html)
+
+- [IC97-2R19, Customized Forms](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/ic97-2.html)
+
+## Digital services
+
+### Handling your business taxes online
+
+My Business Account lets you view and manage your business taxes online.
+
+Use My Business Account throughout the year to:
+
+- make a payment online to the CRA with the MyPayment, create a pre-authorized debit (PAD) agreement or create a QR code to pay in person at Canada Post for a fee. For more information go to [Make a Payment](https://www.canada.ca/en/revenue-agency/services/payments/payments-cra/individual-payments/make-payment.html)
+
+- request a payment search
+
+- file or amend information returns without a web access code
+
+- submit documents to the CRA
+
+- manage authorized representatives and authorization requests
+
+- register to receive [email notifications from the CRA](https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-individuals/online-mail-helping-you-organize-your-canada-revenue-agency-mail.html) and to view mail from the CRA in [My Business Account](https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-businesses/business-account.html)
+
+- manage addresses, direct deposit information, program account names, operating names, phone numbers, and business numbers in your profile
+
+- view and pay account balances
+
+- calculate and make instalment payments
+
+- provide a nil remittance
+
+- transfer a misallocated payment
+
+- track the progress of certain files you have submitted to the CRA
+
+- submit an audit enquiry
+
+- download reports
+
+- request relief of penalties and interest
+
+- manage Multi-factor authentication settings
+
+To sign in to or register for the CRA’s online services, go to:
+
+- [My Business Account](https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-businesses/business-account.html), if you are a business owner
+
+- [Represent a Client](https://www.canada.ca/en/revenue-agency/services/e-services/represent-a-client.html), if you are an authorized representative
+
+For more information, go to [Digital services for businesses](https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-businesses.html).
+
+### Receive your CRA mail online
+
+Register for email notifications to find out when CRA mail, like your notice of assessment, is available in [My Business Account](https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-businesses/business-account.html).
+
+For more information, go to [email notifications from the CRA](https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-businesses/online-mail-reduce-your-cost-doing-business-saving-time-online.html).
+
+### Create a pre-authorized debit agreement from your Canadian chequing account
+
+A pre-authorized debit (PAD) is a secure, online self-service, payment option for individuals and businesses to pay their taxes. A PAD lets you authorize withdrawals from your Canadian chequing account to pay the CRA. You can set the payment dates and amounts of your PAD agreement using the CRA’s secure [My Business Account](https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-businesses/business-account.html) service. PADs are flexible and managed by you. You can use My Business Account to view your account history and modify, cancel, or skip a payment. For more information, go to [Pay by pre-authorized debit](https://www.canada.ca/en/revenue-agency/services/about-canada-revenue-agency-cra/pay-authorized-debit.html).
+
+### My Payment
+
+My Payment is an electronic payment service offered by the CRA that allows individuals and businesses to make payments online directly to the CRA using their bank access cards, Visa Debit®, or Debit MasterCard®.
+
+Use this service to make a payment to one or more CRA accounts in one simple transaction.
+
+For more information, go to [My Payment](https://www.canada.ca/en/revenue-agency/services/e-services/payment-save-time-pay-online.html).
+
+## For more information
+
+### If you need help
+
+If you need more information after reading this guide, go to [Taxes](https://www.canada.ca/en/services/taxes.html), or call **1-800-959-5525**.
+
+### Forms and publications
+
+The CRA encourages you to file your return electronically. If you require a paper version of the CRA's forms and publications, go to [Forms and publications](https://www.canada.ca/en/revenue-agency/services/forms-publications.html) or call **1-800-959-5525**.
+
+### Direct deposit
+
+Direct deposit is a fast, convenient, and secure way to get your CRA payments directly into your account at a financial institution in Canada. For more information and ways to enroll, go to [Direct deposit - Canada Revenue Agency](https://www.canada.ca/en/revenue-agency/services/about-canada-revenue-agency-cra/direct-deposit.html) or contact your financial institution.
+
+### Electronic mailing lists
+
+The CRA can notify you by email when new information on a subject of interest to you is available on the website. To subscribe to the electronic mailing lists, go to [Canada Revenue Agency electronic mailing lists](https://www.canada.ca/en/revenue-agency/news/e-services/canada-revenue-electronic-mailing-lists.html).
+
+### Tax Information Phone Service (TIPS)
+
+For tax information by telephone, use the CRA's automated service, TIPS, by calling **1-800-267-6999**.
+
+### Teletypewriter (TTY) and Video Relay Service (Canada VRS) users
+
+If you use a TTY for a hearing or speech impairment, call **1-800-665-0354**.
+
+If you use the Canada VRS application, call **1-800-561-6393**.
+
+If you use another **operator-assisted relay** service, call the CRA's regular telephone numbers instead of the TTY or Canada VRS numbers.
+
+### Formal disputes (objections and appeals)
+
+You have the right to file an objection if you disagree with an assessment, a determination or decision. For more information go to "[File an objection](https://www.canada.ca/en/revenue-agency/services/about-canada-revenue-agency-cra/complaints-disputes/file-objection-cppei-appeal-minister.html)".
+
+### CRA Service Feedback Program
+
+#### Service complaints
+
+You can expect to be treated fairly under clear and established rules and get a high level of service each time you deal with theCRA.
+
+For more information about the Taxpayer Bill of Rights go to [Taxpayer Bill of Rights](https://www.canada.ca/en/revenue-agency/corporate/about-canada-revenue-agency-cra/taxpayer-bill-rights.html).
+
+You may provide compliments or suggestions, and if you are not satisfied with the service you received:
+
+1. try to resolve the matter with the employee you have been dealing with or call the telephone number provided in the correspondence you received from the CRA. If you do not have contact information for the CRA, go to [Contact information – Canada Revenue Agency](https://www.canada.ca/en/revenue-agency/corporate/contact-information.html).
+
+2. If you have not been able to resolve your service-related issue, you can ask to discuss the matter with the employee’s supervisor.
+
+3. If the problem is still not resolved, you can file a service-related complaint by filling out [Form RC193, Service Feedback](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc193.html). For more information and to learn how to file a complaint, go to [Submit service feedback](https://www.canada.ca/en/revenue-agency/services/make-a-service-complaint.html).
+
+If you are not satisfied with how the CRA has handled your service-related complaint, you can submit a complaint with the [Office of the Taxpayers’ Ombudsperson](https://www.canada.ca/en/taxpayers-ombudsperson.html).
+
+#### Reprisal complaints
+
+If you have received a response regarding a previously submitted service complaint or a formal review of a CRA decision and feel you were not treated impartially by a CRA employee, you can submit a reprisal complaint by filling out [Form RC459, Reprisal Complaint](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc459.html).
+
+For more information go to "[File an objection](https://www.canada.ca/en/revenue-agency/services/about-canada-revenue-agency-cra/complaints-disputes/file-objection-cppei-appeal-minister.html)".
+
+### Due dates
+
+When the due date falls on a Saturday, a Sunday, or public holiday recognized by the CRA, your payment is considered on time if the CRA receives it on or before the next business day.
+
+For more information, go to [Important dates for corporations](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/important-dates-businesses/important-dates-corporations.html).
+
+### Cancel or waive penalties and interest
+
+The Canada Revenue Agency (CRA) administers legislation, commonly called taxpayer relief provisions, that gives the CRA's discretion to cancel or waive penalties and interest when taxpayers cannot meet their tax obligations due to circumstances beyond their control.
+
+The CRA’s discretion to grant relief is limited to any period that ends within 10 calendar years before the year in which a relief request is made.
+
+For penalties, the CRA will consider your request only if it relates to a tax year or fiscal period ending in any of the 10 calendar years before the year in which you make your request. For example, your request made in 2024 must relate to a penalty for a tax year or fiscal period ending in 2014 or later.
+
+For interest on a balance owing for any tax year or fiscal period, the CRA will consider only the amounts that accrued during the 10 calendar years before the year in which you make your request. For example, your request made in 2024 must relate to interest that accrued in 2014 or later.
+
+Taxpayer relief requests can be made online using the CRA's [My Account](https://www.canada.ca/en/revenue-agency/services/e-services/cra-login-services.html), [My Business Account](https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-businesses/business-account.html) (MyBA), or [Represent a Client](https://www.canada.ca/en/revenue-agency/services/e-services/represent-a-client.html) digital services:
+
+- **My Account**: After signing in select "Accounts and payments" then "Request relief of penalties and interest."
+
+- **MyBA or Represent a Client**: After signing in, on the overview page, select the appropriate program from the navigation menu and then select the account. Finally select "Request relief of penalties and interest" from the right menu.
+
+You can fill out [Form RC4288, Request for Taxpayer Relief – Cancel or Waive Penalties and Interest](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc4288.html) and send it with one of the following ways:
+
+- online with [My Account](https://www.canada.ca/en/revenue-agency/services/e-services/cra-login-services.html): select "Submit documents" under the "Correspondence" section
+
+- online with [MyBA](https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-businesses/business-account.html) or [Represent a Client](https://www.canada.ca/en/revenue-agency/services/e-services/represent-a-client.html): select "Submit documents" from the banner at the top of the page
+
+- by mail to the designated office, as shown on the last page of the form, based on your place of residence.
+
+For information on the "Submit Documents online" service, go to [Submit documents online](https://www.canada.ca/en/revenue-agency/services/e-services/submit-documents-online.html).
+
+For more details on the required supporting documents, relief from penalties and interest, and other related forms and publications, go to [Cancel or waive penalties and interest](https://www.canada.ca/en/revenue-agency/services/about-canada-revenue-agency-cra/complaints-disputes/cancel-waive-penalties-interest.html).

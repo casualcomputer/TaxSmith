@@ -1,0 +1,161 @@
+---
+title: "Gillies c. Le Roi"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/521261/index.do"
+last_modified: "2024-04-30"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2024 CCI 53"
+citation2: ""
+neutral_citation: "2024 CCI 53"
+decision_date: "2024-04-30"
+language: "fr"
+item_id: "521261"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5756
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2024-07-13T10:33:44.456000+00:00"
+cases_cited_count: 3
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "8853f9ff56f502b14f87ee70d877e1e256302785f4500770cb7f02484ea46b36"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Gillies c. Le Roi
+
+- Citation: 2024 CCI 53
+- Decision date: 2024-04-30
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5756, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Gillies c. Le Roi
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2024-04-30
+Référence neutre
+2024 CCI 53
+Numéro de dossier
+2022-453(IT)I
+Juges et Officiers taxateurs
+Bruce Russell
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2022-453(IT)I
+ENTRE :
+SCOTT GILLIES,
+appelant,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+[traduction française officielle]
+Appel entendu le 9 septembre 2024, à Toronto (Ontario).
+Devant : l’honorable juge Bruce Russell
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocates de l’intimé :
+Me Samantha Jennings
+Me Carol Calabrese
+JUGEMENT
+Le présent appel est annulé au motif que notre Cour n’a pas compétence pour examiner la question du recouvrement de l’impôt qui, selon l’appelant, a été retenu, mais non versé par son ancien employeur. Il s’agit d’un « problème de recouvrement » et, à ce titre, il est visé par le paragraphe 222(2) de la Loi de l’impôt sur le revenu, qui attribue compétence à la Cour fédérale. Il n’y aura pas d’adjudication de dépens.
+Signé à Ottawa, Canada, ce 30ᵉ jour d’avril 2024.
+« B. Russell »
+Le juge Russell
+Traduction certifiée conforme
+ce 8e jour de mai 2024.
+Liette Girard, traductrice
+Référence : 2024 CCI 53
+Date : 20240430
+Dossier : 2022-453(IT)I
+ENTRE :
+SCOTT GILLIES,
+appelant,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+[traduction française officielle]
+MOTIFS DU JUGEMENT
+Le juge Russell
+I. Introduction
+[1] La Couronne intimée a présenté une requête en annulation du présent appel au motif que la réparation demandée par l’appelant, M. Scott Gillies, ne relève pas de la compétence de la Cour.
+[2] M. Gillies demande à la Cour de conclure, à l’égard de ses années d’imposition 2016 et 2017, qu’il n’est pas redevable au ministre du Revenu national (ministre) de l’impôt prévu par la Loi de l’impôt sur le revenu (la « Loi ») que son employeur de l’époque, Love That River Inc. (« LTRI »), a retenu sur le revenu qui lui a été payé à titre d’employé, mais qu’il n’a pas versé au ministre.
+II. Contexte
+[3] Dans sa réponse, le procureur général du Canada fait valoir que [traduction] « […] l’objection préliminaire […] [est que] […] dans la mesure où l’appelant cherche à interjeter appel de la cotisation établie pour les années d’imposition 2016 et 2017, aucun recours ne peut être exercé devant notre honorable Cour à l’égard de l’impôt dû en vertu de la Loi » [1].
+[4] Selon la réponse, LTRC a produit des feuillets T4 modifiés pour les années d’imposition 2016 et 2017, indiquant qu’aucun impôt n’avait été retenu pour l’une ou l’autre de ces années[2].
+[5] De plus, selon la réponse, l’appelant avait déclaré un impôt sur le revenu déduit pour 2016 de 54 900 $, montant que le ministre a réduit à 49 844 $ lorsqu’il a établi une nouvelle cotisation. De même, pour l’impôt sur le revenu de 2017 déduit, l’appelant a déclaré 28 063 $, montant que le ministre a réduit à 19 744 $ après avoir établi une nouvelle cotisation[3].
+[6] M. Gillies a également déclaré que, par la suite, LTRI a soutenu qu’il n’avait pas été un employé, mais plutôt un entrepreneur indépendant et qu’il était donc responsable de ses versements au ministre relativement aux retenues obligatoires.
+[7] Cette affirmation de LTRI a été rejetée par une décision du ministre. Cette décision est indiquée dans une lettre adressée à M. Gillies par l’Agence du revenu du Canada (l’« ARC ») au nom du ministre, qui aurait été postée le 21 décembre 2017 (pièce A‑1.) La lettre informait que le ministre maintenait une décision rendue le 27 septembre 2017 en vertu du Régime de pensions du Canada et de la Loi sur l’assurance-emploi selon laquelle la relation de l’appelant avec LTRC avait satisfait aux exigences d’un contrat de travail et que, par conséquent, une relation employeur‑employé existait entre LTRC à titre d’employeur et l’appelant à titre d’employé.
+[8] Tel que je l’ai mentionné, la préoccupation constante de l’appelant est que le ministre s’adresse à lui pour recouvrer l’impôt pour ses années d’imposition 2016 et 2017, que LTRC avait retenu, mais non versé. Il a témoigné qu’il avait négocié une entente avec LRTC selon laquelle, en échange du paiement d’une somme convenue pour congédiement déguisé, il ne poursuivrait pas LRTC pour les retenues non versées.
+[9] J’ai demandé à M. Gillies pourquoi il avait porté cette affaire devant la Cour canadienne de l’impôt. Il a répondu en citant la lettre susmentionnée (pièce A-1) de l’ARC envoyée au nom du ministre le 21 décembre 2017. Elle indiquait que s’il n’était pas d’accord avec la décision selon laquelle il avait été un employé de LTRC, il [traduction] « peut interjeter appel devant la Cour canadienne de l’impôt […] ». Bien entendu, il est très satisfait de cette décision du ministre. En l’espèce, il demande une décision tout à fait différente.
+III. Analyse
+[10] Dans ce contexte, je reviens maintenant à la requête susmentionnée de la Couronne intimée visant l’annulation de la présente procédure. Dans la réponse, le procureur général affirme que notre Cour n’a pas compétence pour [traduction] « libérer l’appelant de l’obligation de payer l’impôt dont il est redevable en vertu de l’article 222 de la Loi » [4].
+[11] Également dans la réponse, le procureur général [traduction] « admet que l’employeur est responsable de verser au ministre toute retenue d’impôt des employés » et [traduction] « admet également que l’employeur n’a pas versé l’impôt retenu sur le revenu de l’appelant » [5].
+[12] Pour faire valoir que cette procédure devrait être annulée, les avocates de l’intimé ont invoqué la décision Boucher c. Sa Majesté, 2004 CAF 47, qui faisait suite à la décision antérieure de la Cour d’appel fédérale (la « CAF ») Neuhaus c. Canada, 2002 CAF 391, dans laquelle le juge Noël, tel était alors son titre, a déclaré ce qui suit (paragraphes 4 à 6) :
+4. Or, en l’occurrence, la demanderesse ne recherche pas l’annulation ou la modification des cotisations en litige. Elle prétend plutôt que les impôts tels que cotisés par le Ministre ont déjà été payés par voie de retenue à la source (voir l’article 227 (9.4) [sic] qui rend inter alia l’employeur responsable des impôts dûs [sic.] par un employé jusqu’à concurrence des montants retenus à même le salaire et non remis). Dans ces circonstances, c’est à bon droit que la première juge [de la Cour de l’impôt] s’est déclarée sans juridiction et c’est donc à tort qu’elle s’est penchée sur le fond du litige.
+5. Le problème soulevé par la demanderesse en est un de recouvrement. À cet égard, l’article 222 [de la Loi] confère compétence à la Cour fédérale en ces termes :
+Tous les impôts, intérêts, pénalités, frais et autres montants payables en vertu de la présente loi sont des dettes envers Sa Majesté et recouvrables comme telles devant la Cour fédérale […]
+6. Dans la mesure où la demanderesse prétend avoir déjà payé les impôts qu’on lui réclame, elle pourra faire valoir ses droits devant la Cour fédérale lorsque le Ministre tentera de recouvrer les sommes qu’il considère exigibles […]
+[13] En 2004, l’article 222 de la Loi a été révisé et est devenu le paragraphe 222(2), intitulé « Créances de Sa Majesté », qui prévoit :
+La dette fiscale est une créance de Sa Majesté et est recouvrable à ce titre devant la Cour fédérale ou devant tout autre tribunal compétent ou de toute autre manière prévue par la présente loi.
+[14] Dans la décision Boucher, la CAF a cité avec approbation au paragraphe 8 les mêmes paragraphes de l’affaire Neuhaus. Les paragraphes 10 et 11 de l’arrêt Boucher, rendu par la juge Sharlow de la Cour d’appel, sont ainsi rédigés :
+10. […] le Parlement n’a pas investi la Cour canadienne de l’impôt du pouvoir de trancher un différend qui porte sur la question de savoir si l’impôt a été retenu à la source pour certains paiements.
+11. La seule réparation possible est d’accueillir le présent appel [à la CAF], d’annuler le jugement de la Cour canadienne de l’impôt et de le remplacer par un jugement qui annule l’appel à la Cour canadienne de l’impôt […]
+[15] Dans l’affaire Reese McIntosh c. Sa Majesté la Reine, 2011 CCI 147, mon collègue le juge D’Arcy a examiné une situation quelque peu similaire. Il a conclu ce qui suit aux paragraphes 19 à 21 :
+19. Il ressort clairement […] que la compétence de la Cour est limitée aux appels interjetés d’une cotisation. Il s’agit seulement des appels interjetés d’une cotisation établie en vertu de la Loi (voir les observations du juge Rip (tel était alors son titre) dans McMillen Holdings Limited c. The Minister of National Revenue, 87 DTC 585, aux pages 591 à 592).
+20. Le ministre est tenu, aux termes de l’article 152(1) [sic] de la Loi, d’établir une cotisation de l’impôt payable pour l’année au titre de la Loi. Je retiens la thèse de l’intimée selon laquelle le paragraphe 152(1) de la Loi ne prévoit pas le calcul de l’« impôt dû » après que les retenues à la source ont été effectuées, et, par conséquent, la Cour n’a pas compétence pour créditer à l’appelant les retenues à la source d’impôt sur le revenu supplémentaires dont il fait état.
+21. Ma conclusion est conforme à l’enseignement de la Cour dans la décision Liu c. Her Majesty The Queen, [1995] 2 C.T.C. 2971 […] et à celui de la Cour d’appel fédérale dans l’arrêt Neuhaus c. R. […]
+IV. Conclusion
+[16] Je vais rendre un jugement annulant le présent appel au motif que la Cour n’a pas compétence pour examiner la question d’un employeur qui a retenu, mais non versé, l’impôt payable en vertu de la Loi, ce qui constitue un « problème de recouvrement » au sens du paragraphe 222(2) de la Loi de l’impôt sur le revenu, lequel attribue compétence à la Cour fédérale. Il n’y aura pas d’adjudication de dépens.
+Signé à Ottawa, Canada, ce 30ᵉ jour d’avril 2024.
+« B. Russell »
+Le juge Russell
+Traduction certifiée conforme
+ce 8e jour de mai 2024.
+Liette Girard, traductrice
+RÉFÉRENCE :
+2024 CCI 53
+NO DU DOSSIER DE LA COUR :
+2022-453(IT)I
+INTITULÉ :
+SCOTT GILLIES ET SA MAJESTÉ LE ROI
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+Le 9 avril 2024
+MOTIFS DU JUGEMENT :
+L’honorable juge Bruce Russell
+DATE DU JUGEMENT :
+Le 30 avril 2024
+COMPARUTIONS
+Pour l’appelant :
+L’appelant lui-même
+Avocates de l’intimé :
+Me Samantha Jennings
+Me Carol Calabrese
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’intimé :
+Me Shalene Curtis-Micallef Sous-procureure générale du Canada Ottawa, Canada
+[1] Réponse, par. 1.
+[2] Réponse, par. 12e) et h).
+[3] Réponse, par. 8.
+[4] Réponse, par. 2.
+[5] Réponse, par. 5c) et 5e).

@@ -1,0 +1,166 @@
+---
+title: "Werby c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26272/index.do"
+last_modified: "2004-10-25"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 CCI 672"
+citation2: ""
+neutral_citation: "2004 CCI 672"
+decision_date: "2004-10-25"
+language: "fr"
+item_id: "26272"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4003
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T19:54:11.425000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "d0709d3a2bc91e53146dac1e26453b3707c907f879062ad8c2652145e033e314"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Werby c. La Reine
+
+- Citation: 2004 CCI 672
+- Decision date: 2004-10-25
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4003, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Werby c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-10-25
+Référence neutre
+2004 CCI 672
+Numéro de dossier
+2004-238(IT)I
+Juges et Officiers taxateurs
+Georgette Anne Sheridan
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2004-238(IT)I
+ENTRE :
+ARTHUR P. (PAT) WERBY,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE] __________________________________________________________________
+Appel entendu à Kitchener (Ontario), le 9 août 2004.
+Devant : L’honorable G. Sheridan
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimée :
+Mme Pascale Boulay (étudiante en droit)
+__________________________________________________________________
+JUGEMENT
+L’appel de la nouvelle cotisation fiscale qui a été établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2001 est admis sans qu’aucuns dépens ne soient adjugés, et l’affaire est déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation selon les motifs de jugement ci‑joints.
+Signé à Ottawa, Canada, ce 25e jour d’octobre 2004.
+« G. Sheridan »
+Juge Sheridan
+Traduction certifiée conforme
+ce 16e jour de juin 2005.
+Sara Tasset
+Référence : 2004CCI672
+Date : 20041025
+Dossier : 2004-238(IT)I
+ENTRE :
+ARTHUR P. (PAT) WERBY,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Sheridan
+[1] L’appelant Arthur Werby interjette appel de la nouvelle cotisation établie par le ministre du Revenu national à l’égard de son impôt sur le revenu pour l’année d’imposition 2001. Deux questions distinctes sont soulevées dans cet appel :
+(1) Les montants que M. Werby a payés au titre de la pension alimentaire de sa fille dans l’année d’imposition 2001 sont‑ils déductibles?
+(2) Par suite du retrait par son épouse, dans l’année d’imposition 2001, de fonds se trouvant dans leur REER de conjoint, M. Werby était‑il tenu d’inclure dans son revenu un montant égal aux cotisations qu’il avait versées dans ce REER?
+I. Déductibilité de la pension alimentaire pour enfants
+[2] En 1996, M. Werby et son ex‑épouse ont conclu un accord de séparation écrit aux termes duquel M. Werby était tenu de payer un montant de 200 $ par semaine afin de subvenir aux besoins de sa fille Adrienne. En 2001, Adrienne avait 22 ans; elle vivait avec sa mère, mais pendant l’année universitaire, elle vivait dans une résidence universitaire. Cette année‑là, comme dans toutes les années antérieures à l’année 2001, M. Werby a versé une pension alimentaire pour enfants à la mère d’Adrienne conformément aux obligations qui lui incombaient aux termes de l’accord de séparation. Pour avoir gain de cause dans cet appel, M. Werby a la charge de prouver que le montant de 10 400 $ qui a été payé en 2001 était une « pension alimentaire » au sens de l’alinéa a) de la définition de cette expression qui est donnée au paragraphe 56.1(4) de la Loi de l’impôt sur le revenu[1]. Selon la position prise par le ministre, étant donné que la clause 3.1c)[2] de l’accord de séparation de 1996 prévoyait la cessation des paiements lorsque Adrienne aurait 21 ans, les paiements effectués en 2001 par M. Werby (lorsque sa fille avait 22 ans) n’étaient pas effectués « aux termes d’un accord écrit ». Il s’ensuit qu’il ne s’agissait pas d’une « pension alimentaire » au sens de l’alinéa a) de la définition de cette expression qui est donnée au paragraphe 56.1(4) et que ces paiements ne sont donc pas déductibles.
+[3] M. Werby agissait pour son propre compte; il a été la seule personne qui a été citée pour témoigner à l’audience. Il a présenté son témoignage d’une façon claire et sincère; il était selon moi un témoin fort crédible. La position qu’il a prise est que la clause 3.1c) doit être interprétée à la lumière des autres dispositions[3] de l’accord de séparation, selon lesquelles il était tenu de payer une pension alimentaire uniquement si Adrienne effectuait des études postsecondaires. M. Werby a déclaré que son ex‑épouse et lui‑même avaient passé deux années et demie [traduction] « stressantes et bouleversantes » à négocier ce qui est devenu l’accord de séparation de 1996. Adrienne fréquentait alors l’école secondaire. Malgré les autres différends qui les opposaient, les parents d’Adrienne voulaient tous deux s’assurer qu’Adrienne puisse effectuer des études postsecondaires. C’est pourquoi, comme M. Werby l’a dit, l’accord de séparation renfermait de nombreuses clauses concernant le soutien financier accordé pour les études d’Adrienne. Cela étant, il était insensé, selon M. Werby, de conclure que son ex‑épouse aurait intentionnellement accepté une clause qui le libérerait de l’obligation d’effectuer d’autres paiements à un moment où, selon toute probabilité, sa fille n’aurait terminé que la moitié de ses études. Le fait que M. Werby estimait être tenu d’effectuer des paiements tant qu’Adrienne effectuait ses études est démontré par le fait qu’il a versé tous les montants dus aux termes de l’accord de séparation, même après le 21e anniversaire de naissance d’Adrienne. De même, l’ex-épouse de M. Werby a continué à déclarer ces montants à titre de revenu et M. Werby a continué à les déduire comme le prévoyait l’accord de séparation[4].
+[4] L’avocate de l’intimée a soutenu que, malgré tout ce qui précède, le libellé de la clause 3.1c) libérait M. Werby de toute obligation financière additionnelle lorsque sa fille aurait 21 ans. Toutefois, à mon avis, cette clause doit être interprétée dans un contexte qui s’accorde avec les autres dispositions de l’accord de séparation, lesquelles visent clairement à assurer le soutien financier d’Adrienne pendant qu’elle effectue des études postsecondaires. La conduite de M. Werby et de son ex‑épouse[5] est tout à fait compatible avec cette interprétation. Je souscris à la prétention de M. Werby selon laquelle il est tout simplement insensé pour des parents comme eux, qui veulent s’assurer que leur fille ait les moyens de terminer ses études, d’avoir eu l’intention d’inclure une clause de cessation de paiement qui allait d’une façon si évidente à l’encontre de cet objectif. La Cour ne devrait pas interpréter les accords d’une manière qui produit un résultat tout à fait incompatible avec les intentions et les actions des parties à l’accord. Le contribuable canadien ne subit pas non plus de préjudice par suite de cette interprétation puisque les montants qui ont été déduits du revenu de M. Werby ont été inclus dans le revenu de son ex‑épouse. Pour tous ces motifs, je conclus que la pension alimentaire que M. Werby a versée à son ex‑épouse a été payée aux termes d’un accord écrit au sens de la Loi de l’impôt sur le revenu. L’appel est admis sans que les dépens soient adjugés et l’affaire est déférée au ministre pour nouvel examen et nouvelle cotisation compte tenu du fait que les paiements de 10 400 $ qui ont été effectués au titre de la pension alimentaire sont déductibles.
+II. Question relative au REER
+[5] À l’audience, l’avocate de l’intimée a reconnu que le montant en question devrait être de 5 500 $ plutôt que de 6 250 $, soit le montant auquel la première cotisation a été établie à l’égard de M. Werby. En résumé, voici les faits : un compte de REER de conjoint avait été établi dans lequel Julie Oliviera (qui était alors la conjointe de fait de M. Werby et qui est maintenant son épouse) a été désignée comme rentier et M. Werby comme cotisant. En 1999, M. Werby a versé un montant de 5 500 $ dans un compte du REER; en 2001, Mme Oliviera a retiré un montant de 6 250 $ du REER. Conformément aux paragraphes 146(8) et 146(8.3) de la Loi de l’impôt sur le revenu, un montant égal à la cotisation de M. Werby (et non au retrait effectué par son épouse) doit être inclus dans le revenu de M. Werby. L’appel concernant cette question est admis sans que les dépens soient adjugés et l’affaire est déférée au ministre pour nouvel examen et nouvelle cotisation compte tenu du fait que le montant de 5 500 $ ne devrait pas être inclus à titre de revenu pour l’année d’imposition 2001.
+Signé à Ottawa, Canada, ce 25e jour d’octobre 2004.
+« G. Sheridan »
+Juge Sheridan
+Traduction certifiée conforme
+ce 16e jour de juin 2005.
+Sara Tasset
+Appendice I
+[traduction]
+[...]
+3. PENSION ALIMENTAIRE POUR ENFANTS :
+3.1 Le mari doit verser à sa femme afin de subvenir aux besoins de l’enfant, Adrienne Dawn Werby, née le 28 juin 1979, une somme de 200 $ par semaine, à compter du 8 décembre 1995, et ce, jusqu’à ce que se produise l’un des événements suivants :
+a) l’enfant cesse de vivre à plein temps avec la femme; toutefois, l’enfant qui quitte la maison pour fréquenter un établissement d’enseignement, exercer un emploi d’été ou prendre des vacances, mais qui maintient par ailleurs une résidence chez la femme, est considéré comme « vivant à plein temps » avec la femme;
+b) l’enfant atteint l’âge de 18 ans et cesse de fréquenter à plein temps un établissement d’enseignement;
+c) l’enfant atteint l’âge de 21 ans;
+d) l’enfant termine ses études de premier cycle;
+e) l’enfant obtient un emploi à plein temps;
+f) l’enfant se marie; ou
+g) l’enfant décède.
+3.2 Adrienne Dawn Werby est admissible à la pension alimentaire et à l’entretien même si elle tire un revenu d’un emploi à temps partiel ou d’un emploi d’été, à condition de fréquenter normalement à plein temps une université, un collège ou un établissement d’enseignement reconnu.
+3.3 Les paiements commenceront à être effectués si Adrienne Dawn Werby, après avoir cessé de fréquenter normalement à plein temps une université, un collège ou un établissement d’enseignement reconnu, reprend ses études à plein temps.
+3.4 Adrienne est considérée comme vivant avec la femme même si elle a une résidence distincte de celle de la femme tant qu’elle fréquentera normalement à plein temps une université, un collège ou un établissement d’enseignement reconnu, à moins de vivre avec le mari.
+3.5 Les paiements recommenceront à être effectués si Adrienne, après avoir cessé de vivre avec la femme, recommence à vivre avec la femme.
+4. PAIEMENTS EFFECTUÉS AVANT LA CONCLUSION DE L’ACCORD :
+4.1 Les parties reconnaissent et conviennent que le mari a versé chaque mois à sa femme, au titre de la pension alimentaire pour enfants, un montant de 825 $ entre le 1er janvier 1995 et le 8 décembre 1995 inclusivement. Ces montants seront réputés être déductibles par le mari, à titre de paiements périodiques, dans sa déclaration de revenu de 1995 et être à inclure par la femme dans le calcul de son revenu aux fins de l’impôt relatif à l’année 1995; ces montants seront considérés comme ayant été payés et reçus en vertu des dispositions des articles 56.1 et 60.1 de la Loi de l’impôt sur le revenu (Canada), dans sa forme modifiée.
+5. INDEXATION
+[...]
+5.1 Le mari et sa femme contribueront au coût d’études postsecondaires au Canada de chaque enfant à charge, ce coût comprenant les frais de résidence et de scolarité, le coût des livres et fournitures, de la papeterie et du matériel informatique ainsi que toutes les autres dépenses liées aux études postsecondaires de l’enfant. Le montant de la contribution de chaque parent sera fixé en proportion de son revenu total, tel qu’il aura été déclaré dans sa déclaration de revenu pour l’année civile précédant l’année dans laquelle ces dépenses sont engagées.
+5.2 Dans la mesure où les obligations qui incombent au mari en vertu du paragraphe 3 du présent accord à l’égard de l’enfant, Adrienne, sont payées intégralement et dans le délai prévu, les paiements y afférents sont effectués à la place de la pension alimentaire pour enfants qui est prévue au paragraphe 3. Toutefois, les montants mensuels à verser au titre de la pension alimentaire, conformément au paragraphe 3, seront payés pendant tout mois ou, proportionnellement, pendant toute partie de mois lorsque l’enfant, Adrienne, ne fréquente pas réellement à plein temps un établissement postsecondaire, par exemple pendant les vacances d’été.
+RÉFÉRENCE :
+2004CCI672
+No DU DOSSIER DE LA COUR :
+2004-238(IT)I
+INTITULÉ :
+Arthur P. (Pat) Werby c. S.M.R.
+LIEU DE L’AUDIENCE :
+Kitchener (Ontario)
+DATE DE L’AUDIENCE :
+Le 9 août 2004
+MOTIFS DU JUGEMENT :
+L’honorable G. Sheridan
+DATE DU JUGEMENT :
+Le 25 octobre 2004
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimée :
+Mme Pascale Boulay (étudiante en droit)
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Alinéa a) de la définition de « pension alimentaire » donnée au paragraphe 56.1(4) de la Loi de l’impôt sur le revenu : « pension alimentaire » - le bénéficiaire est l’époux ou le conjoint de fait ou l’ex-époux ou l’ancien conjoint de fait du payeur et vit séparé de celui‑ci pour cause d’échec de leur mariage ou union de fait et le montant est à recevoir aux termes de l’ordonnance d’un tribunal compétent ou d’un accord écrit.
+[2] Voir l’appendice I.
+[3] Voir l’appendice I, clauses 3.1a), d), e), 3.2, 3.3, 3.4, 3.5, 5.1 et 5.2.
+[4] Voir l’appendice I, clause 4.
+[5] Pour de raisons que la Cour ne connaît pas, l’épouse n’a pas été citée pour témoigner et l’intimée n’a pas cherché à la constituer partie.

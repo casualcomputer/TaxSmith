@@ -1,0 +1,204 @@
+---
+title: "Vibert v. The King"
+source: "https://norma.lexum.com/tcc-cci/decisions/en/item/521549/index.do"
+last_modified: "2025-12-12"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2025 TCC 189"
+citation2: ""
+neutral_citation: "2025 TCC 189"
+decision_date: "2025-12-12"
+language: "en"
+item_id: "521549"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5589
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2025-12-16T09:01:32.016000+00:00"
+cases_cited_count: 4
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "2389f1d215a9a485650a534231b13bea9dee86b194949670e9967e548410c812"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Vibert v. The King
+
+- Citation: 2025 TCC 189
+- Decision date: 2025-12-12
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5589, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Vibert v. The King
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2025-12-12
+Neutral citation
+2025 TCC 189
+File numbers
+2025-759(IT)I
+Judges and Taxing Officers
+Joanna Hill
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2025-759(IT)I
+BETWEEN:
+LANCE VIBERT,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+Appeal heard on November 6, 2025, at Oakville, Ontario
+Before: The Honourable Justice Joanna Hill
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Roisin Boyle
+JUDGMENT
+Further to the attached Reasons for Judgment, the appeal from the reassessment for the Appellant’s 2022 taxation year is dismissed, without costs.
+Signed this 12th day of December 2025.
+“Joanna Hill”
+Hill J.
+Citation: 2025 TCC 189
+Date: 20251212
+Docket: 2025-759(IT)I
+BETWEEN:
+LANCE VIBERT,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+REASONS FOR JUDGMENT
+Hill J.
+[1] The Minister of National Revenue reassessed Mr. Vibert to include an amount listed on a T4A-RCA slip in his taxable income for the 2022 taxation year. Mr. Vibert was unable to establish that the Minister’s decision was incorrect because he did not provide sufficient evidence to support his assertion that the amount was not taxable.
+A. Background [2] The Canada Revenue Agency received a T4-RCA, Statement of Distributions from a Retirement Compensation Arrangement (“RCA”) issued to Mr. Vibert by BMO Trust Company for the 2022 taxation year. The slip listed distributions of $6660.60 and $666.12 deducted for income tax.
+[3] The Minister reassessed Mr. Vibert to include those amounts in the calculation of his taxable income. The Notice of Reassessment states that the change was to include income from GO Transit from a T4-RCA.
+[4] Mr. Vibert objected to the reassessment on the basis that he (a) did not receive the T4-RCA slip, (b) did not enter into an RCA with GO Transit, and (c) had not received income from GO Transit since he was last employed there in 2006. Mr. Vibert also objected on the basis that any amounts received were from a legal settlement, not an RCA.
+[5] In response to his objection, CRA Appeals informed Mr. Vibert that if the T4-RCA slip was incorrect, he would need to file a copy of a deleted or amended slip from the issuer. Mr. Vibert did not obtain a deleted or amended slip, and the Minister confirmed the reassessment.
+[6] Mr. Vibert repeated the same arguments in his appeal.
+B. Analysis [7] The Minister reassessed Mr. Vibert on the basis that amounts received under an RCA are taxable under paragraph 56(1)(x) of the Income Tax Act.[1] That provision taxes RCA payments in the same way as pension and retirement benefits.[2] The definition of a retirement compensation arrangement in subsection 248(1) of the Income Tax Act includes plans under which contributions are made by a taxpayer’s employer in connection with benefits that may be received after the taxpayer’s retirement. Those contributions are made to a custodian, who manages the plan and pays the benefits.
+[8] It is established law that Mr. Vibert has the burden to establish that the Minister’s reassessment is incorrect. He was unable to do so because his evidence was vague and incomplete.
+[9] Notably, Mr. Vibert did not deny that he received the amount listed on the T4-RCA. He testified that he receives a monthly deposit into his bank account from BMO Trust Company and presumes that it might add up to the amount listed on the tax slip.[3] However, he did not try to trace the 2022 bank deposits in preparation for his appeal.
+[10] Instead, Mr. Vibert argued that the payments were from a legal settlement related to a dispute between GO Transit management employees and the provincial government regarding a change in their pension from the Ontario Pension Board to the Ontario Municipal Retirement Savings (OMERS) plan. Mr. Vibert did not have any documents to support the existence of this settlement or any payments in this regard. Instead, he submitted a package of documents for a GO Transit Top-Up Program.
+[11] By letter dated August 24, 2021, Metrolinx provided Mr. Vibert with a Member Statement indicating his benefit entitlement under the Go Transit Top-Up Program. The Member Statement outlined that the top-up benefit entitlement was calculated based on the difference between the pension Mr. Vibert would have received if his years of service had not been split between a “Prior Public Service Pension Plan” and the OMERS plan. According to the calculation, Mr. Vibert was entitled to a monthly top-up of $540.25 or $6,483.03 annually. The top-up commencement date was December 1, 2020, and the amount would increase each year by a percentage equal to that provided under the OMERS plan. Mr. Vibert signed a certification confirming his agreement with the top-up amount, less any applicable taxes. He also provided his banking information to have the monthly benefit paid by direct deposit.
+[12] Mr. Vibert would not state whether he believed the amounts listed on the T4-RCA slip were from the GO Transit Top-Up Program payments, but he guessed that BMO Trust Company was tasked with distributing the top-up funds.
+[13] Mr. Vibert argued that “whether it is called a Top-Up Program, an RCA, a straight pension, this was a legal settlement”. However, the GO Transit Top-Up Program documents do not refer to a court dispute or legal settlement.
+[14] While his argument that the Top-Up Program was intended to bridge the gap, to “serve as sort of an equalization” between the Ontario Pension Board and the OMERS plan has some merit, there is still insufficient evidence to displace the basis for the Minister’s reassessment. More was needed to recharacterize the payments as a legal settlement.
+[15] As a result, Mr. Vibert was not able to establish, on a balance of probabilities, that the amount listed on the T4-RCA slip was paid from a legal settlement.
+[16] Instead, his evidence confirmed that he was entitled to and received retirement compensation payments in a similar amount to what was listed on the T4-RCA slip. His former employer established the plan and BMO Trust Company administered it.
+[17] The Respondent’s witness also confirmed these conclusions. Bob Mathew, the BMO Senior Trust Officer and Director of Trust Services who sent the T4-RCA and a summary certification regarding all the participants to the CRA, identified the tax slip and confirmed that it was issued to Mr. Vibert for the 2022 taxation year. He further stated that GO Transit set up the RCA with BMO Trust Company as the trustee and custodian and that they administered the trust according to the terms of the agreement between GO Transit and its employees.
+[18] Unfortunately, Mr. Mathew was unable to provide information regarding that agreement because he did not bring a copy to the hearing, and he otherwise was not familiar with the terms.
+[19] While the Respondent was not required to call detailed, extensive evidence regarding the RCA agreement, some additional background information would have assisted the Court and Mr. Vibert. The Respondent made the effort to call a third-party witness who had access to this information but only relied on him to verify the existence and source of the T4-RCA. Indeed, that seemed to be the sole basis for the Respondent’s position: the T4-RCA was issued to Mr. Vibert and he received income “connected to” the tax slip.[4] Counsel for the Respondent did not rely on any cases or make any submissions in response to Mr. Vibert’s arguments regarding the tax treatment of legal settlements.
+[20] Notably, it was open to the Respondent to argue that even if the payments were not made under an RCA, the amounts were still taxable. Mr. Vibert’s testimony was that the payments were from a legal settlement intended to compensate him for lost pension income arising from the move from one pension plan to another. Under the surrogatum (substitution) principle, the payments would have replaced pension benefits and would have been taxable under paragraph 56(1)(a) of the Income Tax Act in any event.[5]
+C. Conclusion [21] Mr. Vibert took issue with the conduct of the CRA with respect to a number of matters including the timing of the reassessment compared to the date the CRA received the T4-RCA slip and his inability to obtain information from the CRA. While I appreciate Mr. Vibert’s frustrations in this regard, I am only authorized to determine whether the 2022 reassessment is correct in law. This Court cannot set aside a valid reassessment based on issues of fairness or because of actions by the CRA at audit, objection, or in collecting an outstanding debt.[6]
+[22] The appeal is dismissed, without costs, accordingly.
+Signed this 12th day of December 2025.
+“Joanna Hill”
+Hill J.
+Appendix “A” – Income Tax Act, R.S.C., 1985, c. 1 (5th Supp.)
+Amounts to be included in income for year
+56 (1) Without restricting the generality of section 3, there shall be included in computing the income of a taxpayer for a taxation year,
+Pension benefits, unemployment insurance benefits, etc.
+(a) any amount received by the taxpayer in the year as, on account or in lieu of payment of, or in satisfaction of,
+(i) a superannuation or pension benefit including, without limiting the generality of the foregoing,
+(A) the amount of any pension, supplement or spouse’s or common-law partner’s allowance under the Old Age Security Act and the amount of any similar payment under a law of a province,
+(B) the amount of any benefit under the Canada Pension Plan or a provincial pension plan as defined in section 3 of that Act,
+(C) the amount of any payment out of or under a specified pension plan, and
+(C.1) the amount of any payment out of or under a foreign retirement arrangement established under the laws of a country, except to the extent that the amount would not, if the taxpayer were resident in the country, be subject to income taxation in the country,
+but not including
+(D) the portion of a benefit received out of or under an employee benefit plan that is required by paragraph 6(1)(g) to be included in computing the taxpayer’s income for the year, or would be required to be so included if that paragraph were read without reference to subparagraph 6(1)(g)(ii),
+(E) the portion of an amount received out of or under a retirement compensation arrangement that is required by paragraph 56(1)(x) or 56(1)(z) to be included in computing the taxpayer’s income for the year,
+(F) a benefit received under section 71 of the Canada Pension Plan or under a similar provision of a provincial pension plan as defined in section 3 of that Act, and
+(G) an amount received out of or under a registered pension plan as a return of all or a portion of a contribution to the plan to the extent that the amount
+(I) is a payment made to the taxpayer under subsection 147.1(19) or subparagraph 8502(d)(iii) of the Income Tax Regulations, and
+(II) is not deducted in computing the taxpayer’s income for the year or a preceding taxation year,
+(ii) a retiring allowance, other than an amount received out of or under an employee benefit plan, a retirement compensation arrangement or a salary deferral arrangement,
+(iii) a death benefit,
+(iv) a benefit under Part I, VII.1, VIII or VIII.1 of the Employment Insurance Act,
+(v) a benefit under regulations made under an appropriation Act providing for a scheme of transitional assistance benefits to persons employed in the production of products to which the Canada-United States Agreement on Automotive Products, signed on January 16, 1965 applies,
+(vi) except to the extent otherwise required to be included in computing the taxpayer’s income, a prescribed benefit under a government assistance program,
+(vii) a benefit under the Act respecting parental insurance, R.S.Q., c. A-29.011, or
+(viii) an income replacement benefit payable to the taxpayer under Part 2 of the Veterans Well-being Act, if the amount is determined under subsection 19.1(1), paragraph 23(1)(b) or subsection 26.1(1) of that Act (as modified, where applicable, under Part 5 of that Act);
+…
+Retirement compensation arrangement
+(x) any amount, including a return of contributions, received in the year by the taxpayer or another person, other than an amount required to be included in that other person’s income for a taxation year under paragraph 12(1)(n.3), out of or under a retirement compensation arrangement that can reasonably be considered to have been received in respect of an office or employment of the taxpayer;
+Definitions
+248 (1) In this Act,
+…
+retirement compensation arrangement means a plan or arrangement under which contributions (other than payments made to acquire an interest in a life insurance policy) are made by an employer or former employer of a taxpayer, or by a person with whom the employer or former employer does not deal at arm’s length, to another person or partnership (in this definition and in Part XI.3 referred to as the “custodian”) in connection with benefits that are to be or may be received or enjoyed by any person on, after or in contemplation of any substantial change in the services rendered by the taxpayer, the retirement of the taxpayer or the loss of an office or employment of the taxpayer, but does not include
+(a) a registered pension plan,
+(a.1) a pooled registered pension plan,
+(b) a disability or income maintenance insurance plan under a policy with an insurance corporation,
+(c) a deferred profit sharing plan,
+(d) an employees profit sharing plan,
+(e) a registered retirement savings plan,
+(f) an employee trust,
+(f.1) an employee life and health trust,
+(g) a group sickness or accident insurance plan,
+(h) a supplementary unemployment benefit plan,
+(i) a vacation pay trust described in paragraph 149(1)(y),
+(j) a plan or arrangement established for the purpose of deferring the salary or wages of a professional athlete for his services as such with a team that participates in a league having regularly scheduled games (in this definition referred to as an “athlete’s plan”), where
+(i) the plan or arrangement would, but for paragraph (j) of the definition salary deferral arrangement in this subsection, be a salary deferral arrangement, and
+(ii) in the case of a Canadian team, the custodian of the plan or arrangement carries on business through a fixed place of business in Canada and is licensed or otherwise authorized under the laws of Canada or a province to carry on in Canada the business of offering to the public its services as trustee,
+(k) a salary deferral arrangement, whether or not deferred amounts thereunder are required to be included as benefits under paragraph 6(1)(a) in computing a taxpayer’s income,
+(l) a plan or arrangement (other than an athlete’s plan) that is maintained primarily for the benefit of non-residents in respect of services rendered outside Canada,
+(m) an insurance policy, or
+(n) a prescribed plan or arrangement,
+and, for the purposes of this definition, where a particular person holds property in trust under an arrangement that, if the property were held by another person, would be a retirement compensation arrangement, the arrangement shall be deemed to be a retirement compensation arrangement of which the particular person is the custodian;
+…
+superannuation or pension benefit includes any amount received out of or under a superannuation or pension fund or plan (including, except for the purposes of subparagraph 56(1)(a)(i), a pooled registered pension plan) and, without restricting the generality of the foregoing, includes any payment made to a beneficiary under the fund or plan or to an employer or former employer of the beneficiary under the fund or plan
+(a) in accordance with the terms of the fund or plan,
+(b) resulting from an amendment to or modification of the fund or plan, or
+(c) resulting from the termination of the fund or plan;
+CITATION:
+2025 TCC 189
+COURT FILE NO.:
+2025-759(IT)I
+STYLE OF CAUSE:
+LANCE VIBERT v. HIS MAJESTY THE KING
+PLACE OF HEARING:
+Oakville, Ontario
+DATE OF HEARING:
+November 6, 2025
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Joanna Hill
+DATE OF JUDGMENT:
+December 12, 2025
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Roisin Boyle
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+n/a
+Firm:
+n/a
+For the Respondent:
+Shalene Curtis-Micallef Deputy Attorney General of Canada Ottawa, Canada
+[1] The relevant provisions of the Income Tax Act are attached as Appendix “A” to these Reasons.
+[2] Martin v HMTK, 2024 TCC 153, paras 71 and 77.
+[3] Mr. Vibert confirmed that the payments began in 2021 and that the most recent monthly payment of $570.12 was deposited in his account on October 22, 2025.
+[4] The Reply to the Notice of Appeal contained four assumptions of fact in this regard. Counsel for the Respondent asked Mr. Vibert two questions on cross-examination to (1) identify the T4-RCA slip (a copy of which she sent to him in preparation for the hearing) and (2) confirm that he did not receive any documentation showing that the slip was issued in error.
+[5] See for example Lavoie v HMTQ, 2010 FCA 266.
+[6] Johnson v HTMQ, 2015 FCA 52, paras 3-4. See also Reyes v HMTK, 2023 TCC 31, paras 77-81, for a recent application of these principles.

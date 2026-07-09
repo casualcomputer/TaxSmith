@@ -1,0 +1,159 @@
+Title: McKenna v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27265/index.do
+Corpus path: corpus/cases/tcc/2005/2005-tcc-599-27265-mckenna-v-the-queen-en.md
+Document type: case_law
+Last modified: 2005-10-03
+
+# McKenna v. The Queen
+
+- Citation: 2005 TCC 599
+- Decision date: 2005-10-03
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 806, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+McKenna v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-10-03
+Neutral citation
+2005 TCC 599
+File numbers
+2005-285(IT)I
+Judges and Taxing Officers
+Donald G.H. Bowman
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2005-285(IT)I
+BETWEEN:
+MARY McKENNA,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on July 21, 2005 at Charlottetown, Prince Edward Island.
+Before: The Honourable D.G.H. Bowman, Chief Justice
+Appearances:
+For the Appellant: The appellant herself
+Counsel for the Respondent: Edward Sawa
+____________________________________________________________________
+JUDGMENT
+It is ordered that the appeals from assessments made under the Income Tax Act for the 2002 and 2003 taxation years be dismissed.
+Signed at Ottawa, Canada, this 3rd day of October, 2005.
+"D.G.H. Bowman"
+Bowman, C.J.
+Citation: 2005TCC599
+Date: 20051003
+Docket: 2005-285(IT)I
+BETWEEN:
+MARY McKENNA,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Bowman, C.J.
+[1] These appeals are from income tax assessments for the 2002 and 2003 taxation years.
+[2] In those years the appellant received disability pension benefits under the Canada Pension Plan ("CPP") in the amounts of $11,690 and $11,877 respectively. She did not, however, receive the disability tax credit provided by section 118.3 of the Income Tax Act.
+[3] Both the appellant and her husband received CPP disability pension benefits and this appears to be substantially their only source of income.
+[4] Mrs. McKenna has raised a constitutional challenge to the treatment under the Income Tax Act of her pension income. Specifically, she contends that to tax a person such as her who admittedly is at the lower end of the income scale without giving her the disability tax credit amounts to discrimination that is prohibited by section 15 of the Canadian Charter of Rights and Freedoms which reads:
+15. (1) Every individual is equal before and under the law and has the rights to the equal protection and equal benefit of the law without discrimination and, in particular, without discrimination based on race, national or ethnic origin, colour, religion, sex, age or mental or physical disability.
+(2) Subsection (1) does not preclude any law, program or activity that has as its object the amelioration of conditions of disadvantaged individuals or groups including those that are disadvantaged because of race, national or ethnic origin, colour, religion, sex, age or mental or physical disability.
+[5] Mrs. McKenna gave the required notice to the federal and provincial attorneys general under section 19.2 of the Tax Court of Canada Act.
+[6] There have been dozens of cases decided under section 15 of the Charter. I do not think it would be useful to review them all.
+[7] I shall begin by attempting to determine the nature of the discrimination. I can do no better than reproduce a portion of her written argument. It reads as follows:
+Because my appeal is based on the discriminatory nature of this tax law, and its' uneven application towards the recipients who lie within the spectrum of this category, I will endeavor to illustrate how a law constructed in this fashion impacts those who fall under the scope of its' influence.
+This tax law appears to be predicated on the notion that, based on the severity of their individual disabilities, only certain pensioners qualify for the Disability Tax Credit (DTC), while the rest of us must continue paying taxes even though we are all under the umbrella of disability, being no longer able to earn our livelihoods due to our various individual situations. This tax law also results in there being absolutely no consideration given to the source of this "taxable income", treating "higher end" pensioners whose former earnings bring their pension dollars over the basic personal exemption allowed as though we were still in the work force, resulting in being taxed as if these pension dollars were "earned and taxation income" for tax purposes instead of components of a predetermined pension amount which "overhangs" the basic personal exemption in our cases.
+In summary, this tax law, as it now stands, results in discriminatory treatment of disability recipients on two fronts; by using the degree of disability as a prerequisite to the DTC while disregarding the inability of ALL recipients within the category to earn a livelihood, thereby living on a fixed allowance; and secondly, by employing the different gradation of salaries from the working years as an opportunity to continue taxing those of us who occupy the higher end pension benefits which result in our exceeding the basic personal exemption and being viewed as though these pension dollars were in fact an "earned - and taxable - income" without consideration that these dollars in fact are the equivalent of a predetermined static and fixed allowance. This is where the lack of congruency with the CPP definition concerning the original purpose of "replacement of lost earnings" kicks in - the end result is that this flawed law causes, ironically, even more financial hardship and stress, through the levying of a further tax burden on those least able to pay - nor rebut - it. This benefit and wage replacement plan has been prepaid through CPP premiums - both by "low-end and high-end" former wage earners (now recipients) - by definition, to partially replace monies we can no longer earn through gainful employment due to illness/injuries, and as such are also set amounts, not subject to raises, promotions etc. as are wages; I contend that we should be placed on an equal footing across the category spectrum of disability recipients, if this pension program is indeed of one composition and one intent. We are actually being penalized for paying higher CPP premiums all throughout our working years - in some cases such as my own - for thirty years, only to have it count against us when we have reached a time in our lives when we should have been able to reap the benefits from our work that we have earned.
+I submit this appeal with the hope that there will issue from it a serious and timely effort towards creating a fair, just and reasonable end result for those in Canada who must rely solely on a pension to which they themselves have contributed all of their working years and upon which they must now rely due to unforseen circumstances.
+[8] If I understand Mrs. McKenna's argument it is that she belongs to a class or group of persons against whom the law discriminates. The discrimination which she alleges is against persons of low income (which she is) suffering from a disability which entitles them to a CPP disability pension but not of a severity or nature that would entitle her to a disability tax credit under section 118.3 of the Income Tax Act.
+[9] Mrs. McKenna presented her argument with skill and conviction. She contends that there is an obvious unfairness in taxing a person in straitened economic circumstances on the somewhat meagre stipend paid as a CPP disability pension and then taking a portion of it away as tax without giving that person even the benefit of the disability tax credit. I agree that there is a certain perceived unfairness. Unfortunately, the Charter is not a panacea for all unfairnesses that exist under our taxing legislation.
+[10] I asked Mrs. McKenna what I should do if I found that there was discrimination of the type contemplated by section 15 of the Charter. It would seem that her purpose would be accomplished if one or more of the following remedies (or a combination of parts of them) were granted:
+(a) exemption from taxation CPP disability pension benefits;
+(b) raising the personal exemptions; and
+(c) extending the disability tax credit to persons receiving CPP disability pensions.
+[11] Before we get to the remedy, however, we must first decide if there is discrimination of the type contemplated by section 15 of the Charter. The liminal question is whether any of the four basic rights guaranteed under subsection 15(1) of the Charter have been violated. Put differently, do the disability tax credit provisions of the Income Tax Act and the disability pension provisions of the CPP have, singly or in combination, as their purpose or effect discrimination against Mrs. McKenna as a member of an enumerated or analogous class. The decision of the Supreme Court of Canada in Law v. Canada, [1999] 1 S.C.R. 497, contains an analysis that is relevant here. At page 27, paragraph 88 the following appears:
+Before moving on to apply the principles that I have just discussed to the facts of this case, I believe it would be useful to summarize some of the main guidelines for analysis under s. 15(1) to be derived from the jurisprudence of this Court, as reviewed in these reasons. As I stated above, these guidelines should not be seen as a strict test, but rather should be understood as points of reference for a court that is called upon to decide whether a claimant's right to equality without discrimination under the Charter has been infringed. Inevitably, the guidelines summarized here will need to be supplemented in practice by the explanation of these guidelines in these reasons and those of previous cases, and by a full appreciation of the context surrounding the specific s. 15(1) claim at issue. It goes without saying that as our s. 15 jurisprudence evolves it may well be that further elaborations and modifications will emerge.
+General Approach
+(1) It is inappropriate to attempt to confine analysis under s. 15(1) of the Charter to a fixed and limited formula. A purposive and contextual approach to discrimination analysis is to be preferred, in order to permit the realization of the strong remedial purpose of the equality guarantee, and to avoid the pitfalls of a formalistic or mechanical approach.
+(2) The approach adopted and regularly applied by this Court to the interpretation of s. 15(1) focuses upon three central issues:
+(A) whether a law imposes differential treatment between the claimant and others, in purpose or effect;
+(B) whether one or more enumerated or analogous grounds of discrimination are the basis for the differential treatment; and
+(C) whether the law in question has a purpose or effect that is discriminatory within the meaning of the equality guarantee.
+The first issue is concerned with the question of whether the law causes differential treatment. The second and third issues are concerned with whether the differential treatment constitutes discrimination in the substantive sense intended by s. 15(1).
+(3) Accordingly, a court that is called upon to determine a discrimination claim under s. 15(1) should make the following three broad inquiries:
+(A) Does the impugned law (a) draw a formal distinction between the claimant and others on the basis of one or more personal characteristics, or (b) fail to take into account the claimant's already disadvantaged position within Canadian society resulting in substantively differential treatment between the claimant and others on the basis of one or more personal characteristics?
+(B) Is the claimant subject to differential treatment based on one or more enumerated and analogous grounds?
+and
+(C) Does the differential treatment discriminate, by imposing a burden upon or withholding a benefit from the claimant in a manner which reflects the stereotypical application of presumed group or personal characteristics, or which otherwise has the effect of perpetuating or promoting the view that the individual is less capable or worthy of recognition or value as a human being or as a member of Canadian society, equally deserving of concern, respect, and consideration?
+Purpose
+(4) In general terms, the purpose of s. 15(1) is to prevent the violation of essential human dignity and freedom through the imposition of disadvantage, stereotyping, or political or social prejudice, and to promote a society in which all persons enjoy equal recognition at law as human beings or as members of Canadian society, equally capable and equally deserving of concern, respect and consideration.
+(5) The existence of a conflict between the purpose or effect of an impugned law and the purpose of s. 15(1) is essential in order to found a discrimination claim. The determination of whether such a conflict exists is to be made through an analysis of the full context surrounding the claim and the claimant.
+Comparative Approach
+(6) The equality guarantee is a comparative concept, which ultimately requires a court to establish one or more relevant comparators. The claimant generally chooses the person, group, or groups with whom he or she wishes to be compared for the purpose of the discrimination inquiry. However, where the claimant's characterization of the comparison is insufficient, a court may, within the scope of the ground or grounds pleaded, refine the comparison presented by the claimant where warranted. Locating the relevant comparison group requires an examination of the subject-matter of the legislation and its effects, as well as a full appreciation of context.
+Context
+(7) The contextual factors which determine whether legislation has the effect of demeaning a claimant's dignity must be construed and examined from the perspective of the claimant. The focus of the inquiry is both subjective and objective. The relevant point of view is that of the reasonable person, in circumstances similar to those of the claimant, who takes into account the contextual factors relevant to the claim.
+(8) There is a variety of factors which may be referred to by a s. 15(1) claimant in order to demonstrate that legislation demeans his or her dignity. The list of factors is not closed. Guidance as to these factors may be found in the jurisprudence of this Court, and by analogy to recognized factors.
+(9) Some important contextual factors influencing the determination of whether s. 15(1) has been infringed are, among others:
+(A) Pre-existing disadvantage, stereotyping, prejudice, or vulnerability experienced by the individual or group at issue. The effects of a law as they relate to the important purpose of s. 15(1) in protecting individuals or groups who are vulnerable, disadvantaged, or members of "discrete and insular minorities" should always be a central consideration. Although the claimant's association with a historically more advantaged or disadvantaged group or groups is not per se determinative of an infringement, the existence of these pre-existing factors will favour a finding that s. 15(1) has been infringed.
+(B) The correspondence, or lack thereof, between the ground or grounds on which the claim is based and the actual need, capacity, or circumstances of the claimant or others. Although the mere fact that the impugned legislation takes into account the claimant's traits or circumstances will not necessarily be sufficient to defeat a s. 15(1) claim, it will generally be more difficult to establish discrimination to the extent that the law takes into account the claimant's actual situation in a manner that respects his or her value as a human being or member of Canadian society, and less difficult to do so where the law fails to take into account the claimant's actual situation.
+(C) The ameliorative purpose or effects of the impugned law upon a more disadvantaged person or group in society. An ameliorative purpose or effect which accords with the purpose of s. 15(1) of the Charter will likely not violate the human dignity of more advantaged individuals where the exclusion of these more advantaged individuals largely corresponds to the greater need or the different circumstances experienced by the disadvantaged group being targeted by the legislation. This factor is more relevant where the s. 15(1) claim is brought by a more advantaged member of society.
+and
+(D) The nature and scope of the interest affected by the impugned law. The more severe and localized the consequences of the legislation for the affected group, the more likely that the differential treatment responsible for these consequences is discriminatory within the meaning of s. 15(1).
+(10) Although the s. 15(1) claimant bears the onus of establishing an infringement of his or her equality rights in a purposive sense through reference to one or more contextual factors, it is not necessarily the case that the claimant must adduce evidence in order to show a violation of human dignity or freedom. Frequently, where differential treatment is based on one or more enumerated or analogous grounds, this will be sufficient to found an infringement of s. 15(1) in the sense that it will be evident on the basis of judicial notice and logical reasoning that the distinction is discriminatory within the meaning of the provision.
+[12] It is fair to say that the disability provisions contained in sections 42 and 56 of the CPP as well as the disability tax credit contained in section 118.3 of the Income Tax Act have similar purposes, the provision of a measure of relief to persons with severe and prolonged physical or mental disabilities, the former by way of pension, the latter by way of a tax credit. Nonetheless, the criteria are not the same, and it is possible that a person such as the appellant may qualify for a disability pension and not a disability tax credit. This may be seen by some as anomalous but, I do not see how it amounts to discrimination within the meaning of section 15 of the Charter. To find discrimination of the type contended for by the appellant I would have to find that she was being discriminated against because she belonged to a class of persons with a mental or physical disability that entitled her to a CPP disability pension but the nature of her disability did not qualify her for the tax credit under section 118.3 of the Income Tax Act. That is not in my view discrimination on the basis of physical or mental disability. I should observe in passing that when we compare a disability that qualifies a person for a CPP pension with one that qualifies a person for a disability tax credit, the difference may be one of kind or nature or it may be one of degree.
+[13] Counsel for the Respondent referred at some length to Gosselin v. Quebec(Attorney General), [2002] 4 S.C.R. 429. McLachlin C.J., delivering the judgment of the majority of the Supreme Court of Canada, said at paragraphs 20 and 21:
+[20] We must approach the question of whether the scheme was discriminatory in light of the purpose of the s. 15 equality guarantee. That purpose is to ensure that governments respect the innate and equal dignity of every individual without discrimination on the basis of the listed or analogous grounds: Law, supra, at para. 51. The aspect of human dignity targeted by s. 15(1) is the right of each person to participate fully in society and to be treated as an equal member, regardless of irrelevant personal characteristics, or characteristics attributed to the individual based on his or her membership in a particular group without regard to the individual's actual circumstances. As Iacobucci J. put it in Law (at para. 51):
+[T]he purpose of s. 15(1) is to prevent the violation of essential human dignity and freedom through the imposition of disadvantage, stereotyping, or political or social prejudice, and to promote a society in which all persons enjoy equal recognition at law as human beings or as members of Canadian society, equally capable and equally deserving of concern, respect and consideration.
+[21] Discrimination occurs when people are marginalized or treated as less worthy on the basis of irrelevant personal characteristics, without regard to their actual circumstances. The enumerated and analogous grounds of s. 15 serve as "legislative markers of suspect grounds associated with stereotypical, discriminatory decision making"; differential treatment based on these grounds invites judicial scrutiny: Corbierev. Canada (Minister of Indian and Northern Affairs), [1999] 2 S.C.R. 203, at para. 7, per McLachlin and Bastarache JJ. However, not every adverse distinction made on the basis of an enumerated or analogous ground constitutes discrimination: see Corbiere. Some group-based distinctions may be appropriate or indeed promote substantive equality, as envisaged in s. 15(2): see Lovelace v. Ontario, [2000] 1 S.C.R. 950, 2000 SCC 37.
+At paragraph 28 she said:
+[28] The Regulation at issue made a distinction on the basis of an enumerated ground, age. People under 30 were subject to a different welfare regime than people 30 and over. The question is whether this distinction in purpose or effect resulted in substantive inequality contrary to s. 15(1)'s purpose of ensuring that governments treat all individuals as equally worthy of concern, respect, and consideration. More precisely, the question is whether a reasonable person in Ms. Gosselin's position would, having regard to all the circumstances and the context of the legislation, conclude that the Regulation in purpose or effect treated welfare recipients under 30 as less worthy of respect than those 30 and over, marginalizing them on the basis of their youth.
+At paragraph 37:
+[37] The second contextual factor we must consider in determining whether the distinction is discriminatory in the sense of denying human dignity and equal worth is the relationship between the ground of distinction (age) and the actual characteristics and circumstances of the claimant's group: Law, at para. 70. A law that is closely tailored to the reality of the affected group is unlikely to discriminate within the meaning of s. 15(1). By contrast, a law that imposes restrictions or denies benefits on account of presumed or unjustly attributed characteristics is likely to deny essential human worth and to be discriminatory. Both purpose and effect are relevant here, insofar as they would affect the perception of a reasonable person in the claimant's position: see Law, at para. 96.
+And at paragraph 59:
+[59] A third factor to be considered in determining whether the group-based devaluation of human worth targeted by s. 15 is established, is whether the challenged distinction was designed to improve the situation of a more disadvantaged group. In Law, the Court took into account that the lower pensions for younger widows and widowers were linked to higher pensions for needier, less advantaged, widows and widowers: Law, at para. 103.
+The Supreme Court of Canada in Gosselin referred at length to Law v. Canada, supra.
+[14] Applying these criteria I do not think that a case of discrimination has been made out. The fact that the appellant has met one set of criteria but not another does not put her in a class of persons who, by reason of irrelevant considerations, are marginalized or treated differently from other Canadians. She is not a member of an enumerated or analogous class who by reason of her membership in that class is the subject of discrimination. One could, no doubt, devise a class to which she belongs. That class might consist of persons who
+(a) have low incomes, and
+(b) are sufficiently disabled to qualify for the CPP disability pension but
+(c) do not have the type or degree of disability that entitles them to a disability tax credit under the Income Tax Act.
+I do not think that the combined effect of the CPP and the Income Tax Act on persons meeting those criteria is discrimination within the meaning of the Charter. The situation in which the appellant finds herself results not from any kind of discrimination but from the fact that she does not meet the criteria for both types of socially beneficial legislation designed to assist disabled persons.
+[15] The appeals are dismissed.
+Signed at Ottawa, Canada, this 3rd day of October, 2005.
+"D.G.H. Bowman"
+Bowman, C.J.
+CITATION:
+2005TCC599
+COURT FILE NO.:
+2005-285(IT)I
+STYLE OF CAUSE:
+Mary McKenna v.
+Her Majesty The Queen
+PLACE OF HEARING:
+Charlottetown, Prince Edward Island
+DATE OF HEARING:
+July 21, 2005
+REASONS FOR JUDGMENT BY:
+The Honourable D.G.H. Bowman, Chief Justice
+DATE OF JUDGMENT:
+October 3, 2005
+APPEARANCES:
+For the Appellant:
+The appellant herself
+Counsel for the Respondent:
+Edward Sawa
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,193 @@
+---
+title: "1327939 Ontario Inc. \r\ns/n Gemini Commercial Sign & Lighting c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29858/index.do"
+last_modified: "2008-08-05"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 CCI 449"
+citation2: ""
+neutral_citation: "2008 CCI 449"
+decision_date: "2008-08-05"
+language: "fr"
+item_id: "29858"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6415
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T10:31:09.729000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "202f72746c244c05d3f4e879fd24ae1f0e67532ef109a7fef4e5ae244d360e7b"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# 1327939 Ontario Inc. 
+s/n Gemini Commercial Sign & Lighting c. M.R.N.
+
+- Citation: 2008 CCI 449
+- Decision date: 2008-08-05
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6415, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+1327939 Ontario Inc. s/n Gemini Commercial Sign & Lighting c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-08-05
+Référence neutre
+2008 CCI 449
+Numéro de dossier
+2007-3696(EI), 2007-3697(CPP)
+Juges et Officiers taxateurs
+Gerald J. Rip
+Sujets
+Loi sur l'assurance-emploi
+Régime de pensions du Canada
+Contenu de la décision
+Dossiers : 2007-3696(EI)
+2007-3697(CPP)
+ENTRE :
+1327939 ONTARIO INC.
+s/n GEMINI COMMERCIAL SIGN & LIGHTING,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels entendus le 15 juillet 2008, à Toronto (Ontario).
+Devant : L’honorable Gerald J. Rip, juge en chef
+Comparutions :
+Représentant de l’appelante :
+M. Iain Taylor
+Avocat de l’intimé :
+Me Amit Ummat
+____________________________________________________________________
+JUGEMENT
+Les appels interjetés conformément au paragraphe 103(1) de la Loi sur l’assurance‑emploi et au paragraphe 28(1) du Régime de pensions du Canada sont rejetés et les décisions rendues par le ministre du Revenu national le 22 août 2006 pour la période allant du 1er janvier 2003 au 31 décembre 2004 sont confirmées.
+Signé à Toronto, Canada, ce 5e jour d’août 2008.
+« Gerald J. Rip »
+Gerald J. Rip, juge en chef
+Traduction certifiée conforme
+ce 18e jour de septembre 2008.
+S. Tasset
+Référence : 2008 CCI 449
+Date : 20080805
+Dossiers : 2007-3696(EI)
+2007-3697(CPP)
+ENTRE :
+1327939 ONTARIO INC.
+s/n GEMINI COMMERCIAL SIGN & LIGHTING,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge en chef Rip
+[1] La société 1327939 Ontario Inc., faisant affaire sous le nom de Gemini Commercial Sign and Lighting (« Gemini »), a interjeté appel de décisions rendues par le ministre du Revenu national (le « ministre ») conformément au Régime de pensions du Canada (le « RPC ») et à la Loi sur l’assurance‑emploi (la « LAE »), selon lesquelles Daniel Mark exerçait un emploi auprès de Gemini aux termes d’un contrat de louage de services au cours de la période allant du 1er janvier 2003 au 31 décembre 2004. Par suite des décisions du ministre, Gemini a fait l’objet d’évaluations compte tenu du fait que M. Mark occupait, au cours de la période pertinente, un emploi ouvrant droit à pension conformément à l’alinéa 6(1)a) du RPC et un emploi assurable conformément à l’alinéa 5(1)a) de la LEA.
+[2] Gemini est d’avis que M. Mark était un entrepreneur indépendant. L’appelante était représentée par son président et unique actionnaire, Iain Taylor, qui a dit que Gemini s’occupe d’installation et d’entretien de panneaux‑réclame, d’entretien de l’éclairage de parcs de stationnement et de certains travaux électriques commerciaux, de conception graphique et d’application de graphiques en vinyle.
+[3] M. Taylor a relaté qu’un bon jour, M. Mark, qui venait de terminer ses études secondaires et dont le père exécutait certains travaux pour Gemini, lui a demandé un emploi. Gemini avait d’autres employés à son service, mais il n’y avait plus de place pour un autre employé à plein temps et M. Taylor ne voulait pas se trouver dans une situation où il aurait à licencier M. Mark. M. Mark a dit à M. Taylor, comme ce dernier l’a déclaré, qu’il faisait du travail pour son père, mais que son père était en retard lorsqu’il s’agissait de le rémunérer, et ce, même si son père facturait la main-d’œuvre aux clients. M. Taylor a témoigné qu’après avoir réfléchi à l’affaire pendant quelques jours, il a embauché M. Mark comme sous‑entrepreneur pour faire du travail lorsqu’il était occupé. M. Taylor affirme avec insistance que M. Mark a accepté de travailler comme sous‑entrepreneur et qu’il devait travailler lorsqu’il y aurait du travail, c’est‑à‑dire [traduction] « au besoin ». Gemini avait acheté un traceur, [traduction] « un appareil qui coupe les graphiques comme l’ordinateur l’indique ». M. Mark devait utiliser cet appareil ainsi que d’autres appareils.
+[4] M. Taylor a affirmé que, malheureusement, une fois M. Mark embauché, M. Mark était [traduction] « trop occupé à s’occuper d’affaires personnelles ou d’autres questions ». M. Taylor a témoigné qu’il téléphonait constamment à M. Mark pour lui demander de venir travailler, mais que celui‑ci ne se présentait pas au travail. Selon M. Taylor, le père de M. Mark se présentait en s’attendant également à ce que son fils soit au travail.
+[5] M. Taylor a relaté qu’un bon après‑midi, il avait eu une [traduction] « longue conversation » avec M. Mark. À certains moments, M. Mark se présentait au travail, alors qu’à d’autres moments, il ne se présentait pas. M. Taylor a affirmé avoir informé M. Mark que c’était la raison pour laquelle il ne voulait pas de lui comme employé. À la fin de l’année 2004, ils ont mis fin à leur relation de travail.
+[6] Les heures de travail hebdomadaires de M. Mark étaient irrégulières. Aux dires de M. Taylor, M. Mark travaillait parfois 25 heures par semaine, parfois 60 heures par semaine, et parfois 40 heures par semaine. [traduction] « Cela dépendait de ce qu’il voulait. » Selon M. Taylor, il arrivait parfois que M. Mark ne travaille pas pendant dix ou douze jours d’affilée.
+[7] M. Taylor a examiné les hypothèses de fait que le ministre avait émises lorsqu’il a rendu les décisions visées par les appels. M. Taylor souscrivait aux hypothèses suivantes :
+[traduction]
+a) l’appelante s’occupe de fabrication, de remise à neuf et d’entretien de panneaux‑réclame ainsi que d’installation et d’entretien d’éclairage;
+b) l’unique actionnaire de l’appelante est Iain Taylor;
+c) l’actionnaire de l’appelante est également président de la société;
+d) l’actionnaire de l’appelante exerçait un contrôle sur les activités quotidiennes de l’entreprise et prenait les principales décisions commerciales au nom de l’entreprise;
+e) le travailleur était embauché aux termes d’un contrat verbal;
+f) le travailleur s’occupait notamment de création d’illustrations et de mise en page à l’ordinateur ainsi que de l’exécution d’autres tâches connexes;
+x) c’était l’appelante qui s’occupait de régler les plaintes des clients.
+[8] M. Taylor souscrivait, avec certaines réserves (indiquées en italiques), aux hypothèses suivantes :
+[traduction]
+g) le travailleur s’acquittait de ses tâches au lieu d’affaires de l’appelante et au lieu d’affaires des clients de l’appelante, ainsi que chez lui;
+i) l’appelante fournissait également des camions pour se rendre aux lieux de travail et en revenir, sans qu’il en coûte quoi que ce soit au travailleur; le travailleur utilisait également son propre véhicule pour [d’autres] travaux qu’il décidait d’exécuter;
+k) le travailleur recevait des instructions de l’actionnaire de l’appelante; il recevait également des instructions de ses propres clients et de son père, auprès duquel il agissait à titre de sous‑entrepreneur;
+l) l’actionnaire de l’appelante assignait toutes les tâches et décidait des travaux prioritaires et des délais d’exécution, bien sûr, pour tout travail que je lui demandais de faire. M. Taylor a déclaré n’exercer aucun contrôle sur les autres travaux accomplis par M. Mark;
+m) le travailleur était rémunéré à l’heure toutes les semaines, au moyen de chèques libellés à son nom personnel; il ne travaillait pas chaque jour de la semaine;
+o) le travailleur ne touchait aucune paie de vacances et les vacances n’étaient pas payées; il n’était pas un employé;
+p) l’appelante versait des primes à la CSPAAT pour le travailleur. M. Taylor affirme que des « gens de la CSPAAT » lui avaient dit qu’il serait dans son intérêt, sur le plan commercial, de verser des primes pour toute personne qui travaillait pour lui, que ce soit à titre d’employé ou de sous‑entrepreneur, [...] au point de vue de la responsabilité;
+t) les heures de travail du travailleur étaient consignées sur une feuille de temps; toutefois, certaines heures étaient consignées sur la feuille de temps de M. Mark, laquelle était fondamentalement un morceau de papier arraché d’un bloc‑notes. M. Taylor a demandé au travailleur d’enregistrer les heures sur une « feuille de temps générique », où figureraient par exemple son nom, les heures effectuées et les travaux accomplis;
+z) le travailleur devait fournir ses services personnellement; la chose est admise pour ce qui est du travail de conception, mais non pour ce qui est de l’application.
+[9] M. Taylor a nié les hypothèses suivantes (les explications étant données en italiques) :
+[traduction]
+h) l’appelante fournissait au travailleur un bureau et le matériel nécessaire, sans qu’il en coûte quoi que ce soit au travailleur; Gemini n’a jamais fourni de bureau à M. Mark, mais elle lui fournissait un ordinateur lorsqu’il travaillait dans les locaux de Gemini;
+j) le travailleur rendait compte chaque jour à l’actionnaire de l’appelante;
+n) le taux de rémunération du travailleur était fixé par l’actionnaire de l’appelante; M. Taylor et M. Mark s’étaient entendus sur le taux de rémunération;
+q) l’entreprise de l’appelante était ouverte du lundi au vendredi, de 8 h à 17 h; M. Mark se présentait lorsqu’il le voulait [...] Aucun contrat stipulant qu’il devait être présent du lundi au vendredi, de 8 h à 17 h, n’avait été conclu;
+r) les heures de travail du travailleur étaient les mêmes que les heures d’ouverture et le travailleur travaillait parfois pendant la fin de semaine; c’était M. Mark qui décidait s’il allait travailler pendant la fin de semaine;
+s) les heures de travail du travailleur étaient fixées par l’actionnaire de l’appelante; voir les alinéas q) et r); les heures de travail ont toujours soulevé des problèmes;
+u) l’appelante remboursait le travailleur de toute dépense que celui‑ci devait engager dans l’exécution de ses services; M. Mark n’a jamais engagé de dépenses exigeant un remboursement; si M. Mark avait besoin d’outils, il utilisait ceux de son père;
+v) le travailleur n’engageait pas de dépenses en fournissant ses services à l’appelante; M. Mark n’a jamais engagé de dépenses exigeant un remboursement; si M. Mark avait besoin d’outils, il utilisait ceux de son père;
+w) c’était l’actionnaire de l’appelante qui décidait si le travail devait être repris et qui assumait les frais s’y rattachant. Cela n’était pas toujours vrai. Certains travaux devaient être repris. Gemini assumait les frais engagés par suite d’erreurs commises par M. Mark, mais au fur et à mesure que celui‑ci acquérait de l’expérience, le montant y afférent était déduit de son chèque de paie;
+y) le travailleur portait une chemise et un manteau de la société; le travailleur portait le manteau de son père; il n’y avait pas d’uniforme. Gemini avait distribué aux clients et aux employés, en souvenir, des T‑shirts et des casquettes;
+aa) le travailleur ne fournissait ses services qu’à l’appelante; M. Taylor croit que M. Mark travaillait également pour d’autres : son père ou des amis.
+[10] En ce qui concerne l’hypothèse figurant au sous‑alinéa bb), à savoir que [traduction] « l’appelante avait le droit de mettre fin aux services du travailleur », il s’agit d’une conclusion de droit plutôt que d’une conclusion de fait. L’intimé ne devrait pas inclure des conclusions de droit dans les hypothèses de fait sur lesquelles la cotisation est fondée.
+[11] Lors du contre-interrogatoire, M. Taylor a affirmé qu’il incombait à M. Mark de décider s’il voulait accomplir tout travail qui lui était assigné et que M. Mark pouvait accepter ou refuser un travail. M. Taylor a reconnu que, dans un questionnaire que l’Agence du revenu du Canada lui avait envoyé, il avait répondu que M. Mark aurait pu embaucher un tiers pour exécuter son travail. Au bureau de Gemini, M. Mark avait à sa disposition tous les outils, notamment un ordinateur, dont il avait besoin pour faire son travail. M. Mark utilisait parfois son propre véhicule [traduction] « pour aller évaluer le travail à faire, prendre des photographies [...] ». M. Mark a déclaré qu’il lui était peut‑être arrivé une ou deux fois de travailler chez lui pour Gemini. Il a affirmé qu’habituellement, il travaillait au bureau de Gemini.
+[12] C’était Gemini qui envoyait aux clients toutes les factures pour le travail exécuté par M. Mark.
+[13] M. Mark a affirmé que lorsqu’il avait initialement été question de travailler pour l’entreprise de M. Taylor, il venait de terminer ses études secondaires, qu’il ne savait absolument pas quelle était la différence entre un entrepreneur indépendant et un employé et qu’il n’avait pas la moindre idée de ce qu’était un formulaire T4 ou un formulaire T5. M. Mark a affirmé avec insistance n’avoir jamais discuté d’une telle relation avec M. Taylor. Il n’avait jamais exercé d’emploi auparavant et il [traduction] « voulai[t] simplement faire de l’argent ».
+[14] M. Mark travaillait avec son père depuis qu’il avait douze ans. Son père exploitait une entreprise semblable à celle de Gemini et Gemini lui confiait du travail en sous‑traitance. M. Mark a affirmé que son père le rémunérait rarement. Toutefois, son père facturait à Gemini les heures qu’il effectuait aux termes de contrats que son père avait conclus avec Gemini. Selon M. Mark, M. Taylor déduisait de la facture établie par son père les heures et le taux facturés pour lui, le taux s’élevant à plus de huit dollars l’heure, et rajustait le montant de la facture compte tenu du fait qu’il touchait huit dollars l’heure. Je suppose que M. Mark travaillait pour son père en même temps qu’il travaillait pour Gemini. M. Mark a bien dit qu’en 2004, il avait uniquement travaillé pour Gemini.
+[15] Lorsque M. Mark a commencé à travailler pour Gemini, il touchait huit dollars l’heure, soit le taux auquel son père devait le rémunérer. Au bout d’une année, il touchait neuf dollars l’heure. Il devait faire le travail lui‑même; à son avis, il ne pouvait pas embaucher de remplaçant.
+[16] M. Mark a convenu qu’il devait commencer à travailler à 7 h, mais qu’il ne se présentait pas au travail à cette heure. Il a déclaré qu’il était jeune et qu’après avoir travaillé pendant un an, il s’était senti déprimé; le travail ne lui plaisait pas. M. Mark a reconnu qu’à ce moment‑là, il n’avait pas le sens des responsabilités.
+[17] M. Mark a affirmé n’avoir jamais utilisé son propre véhicule pour le travail. Il avait une ou deux fois payé l’essence lorsqu’il utilisait un véhicule de Gemini et Gemini l’avait remboursé. Il ne travaillait pas, contre rémunération, pour qui que ce soit d’autre; il travaillait uniquement pour Gemini, a‑t‑il dit. M. Mark a admis avoir travaillé pour un ami, et avoir reçu des matériaux en contrepartie.
+[18] M. Mark estimait ne pas pouvoir prendre, sans l’autorisation de M. Taylor, de décisions importantes au sujet de son travail et ne pas pouvoir refuser un travail qui lui avait été assigné, à moins que ce travail ne soit dangereux. Il a témoigné qu’il n’utilisait pas ses propres outils lorsqu’il travaillait pour Gemini, bien qu’il ait reconnu avoir utilisé les outils de son père, comme des tournevis, des volitmètres et de [traduction] « petits » outils. Le matériel dans son ensemble était fourni par Gemini. Toutefois, M. Taylor talonnait M. Mark pour qu’il achète ses propres outils parce qu’il [traduction] « ne voulait pas que j’endommage les siens ». Dans l’intervalle, M. Mark dépensait son argent sur des appareils stéréo et sur des pièces de voiture plutôt que sur les outils dont il avait besoin dans son travail.
+[19] M. Taylor croyait sans aucun doute que M. Mark n’était pas un employé de Gemini. Somme toute, M. Mark travaillait lorsqu’il le voulait, même si M. Taylor le priait de se présenter au travail. M. Mark agissait comme s’il était son propre patron. M. Taylor n’exerçait, et ne pouvait exercer, aucun contrôle sur les heures de travail de M. Mark. De plus, M. Taylor avait l’impression que M. Mark travaillait également pour d’autres, en plus de travailler pour Gemini. Ainsi, il a soutenu que M. Mark travaillait pour des amis, en faisant du troc, ainsi que pour son père.
+[20] Toutefois, c’était Gemini qui possédait la plupart des outils que M. Mark utilisait pour son travail. M. Mark avait accès au matériel de son père, notamment à l’ordinateur de la famille, mais il semble qu’il utilisait peu ce matériel. Et les clients étaient ceux de Gemini. De plus, c’était M. Taylor qui assignait le travail à M. Mark. Lorsque M. Mark a commencé à travailler pour Gemini, c’était Gemini qui supportait les frais engagés pour reprendre le travail défectueux. Ce n’est qu’au cours de la seconde année de travail que M. Mark a assumé le coût du travail [traduction] « à refaire ».
+[21] Les chances qu’avait M. Mark de retirer un bénéfice de son travail chez Gemini étaient faibles. M. Mark travaillait – lorsqu’il travaillait – moyennant un salaire horaire, comme tout employé. Il ne risquait pas de subir de pertes; il n’avait pas engagé de fonds dans le travail qu’il exécutait. Le fait qu’il travaillait peut‑être pour d’autres, en plus de Gemini, ne veut pas en soi dire qu’il exploitait une entreprise. Il n’est pas inhabituel pour une personne de travailler pour plus d’un employeur.
+[22] Dans l’arrêt 671122 Ontario Ltd. c. Sagaz Industries Canada Inc.[1], le juge Major a approuvé les motifs que le juge MacGuigan, de la Cour d’appel fédérale, avait rendus dans l’affaire Wiebe Door Services Ltd. c. M.R.N.[2] Le juge Major a renvoyé à l’arrêt Laurent c. Hôpital Notre-Dame de l’Espérance[3], dans lequel la Cour suprême a décrit comme suit la relation employeur‑employé : « [L]e critère essentiel destiné à caractériser les rapports de commettant à préposé est le droit de donner des ordres et instructions au préposé sur la manière de remplir son travail. »
+[23] Le professeur Atiyah a critiqué ce critère comme étant [traduction] « d’une simplicité trompeuse »[4], mais ce critère s’applique aux présents appels. Il n’existe entre Gemini et M. Mark aucun contrat écrit me permettant d’examiner les conditions précises de leur relation, s’il y en avait, et, en particulier, d’examiner l’intention de chacun au début de la relation. Les témoignages de vive voix des parties sont contradictoires. M. Taylor affirme que, lorsqu’ils se sont rencontrés, Gemini et M. Mark ont conclu un contrat par lequel M. Mark était engagé à titre de sous‑entrepreneur, d’entrepreneur indépendant. M. Mark affirme de son côté qu’à ce moment‑là, il n’avait pas la moindre idée de ce qu’était un entrepreneur indépendant, même si Gemini avait engagé son père à ce titre. Cela est probablement vrai.
+[24] Selon la preuve, M. Mark venait de terminer ses études secondaires et il cherchait un emploi. Il avait effectué du travail pour son père, qui exploitait le même genre d’entreprise que Gemini. Lorsqu’il a commencé à travailler pour Gemini, il s’occupait de l’entretien, comme il le faisait pour son père, a‑t‑il dit. Par la suite, il travaillait comme dessinateur. Au moment où Gemini l’a engagé, M. Mark n’était pas un travailleur qui possédait des aptitudes bien supérieures à la capacité de M. Taylor de le diriger[5]; ses compétences n’étaient pas telles qu’il pouvait travailler sans être supervisé.
+[25] Le fait que M. Mark était peut-être paresseux et irresponsable et qu’il se présentait au travail lorsqu’il le voulait – et qu’il faisait peut‑être à sa guise – ne fait pas de lui un entrepreneur indépendant. Il n’était pas dans les affaires à son compte. Son travail, tel qu’il était, faisait partie intégrante de l’entreprise de Gemini. M. Taylor supervisait M. Mark en sa qualité de travailleur et il tolérait le manque de discipline de M. Mark. Le reste de la preuve donne à entendre qu’au cours de la période ici en cause, M. Mark était un employé de Gemini.
+[26] Les appels seront rejetés.
+Signé à Toronto, Canada, ce 5e jour d’août 2008.
+« Gerald J. Rip »
+Gerald J. Rip, juge en chef
+Traduction certifiée conforme
+ce 18e jour de septembre 2008.
+S. Tasset
+RÉFÉRENCE : 2008 CCI 449
+Nos DES DOSSIERS DE LA COUR : 2007‑3696(EI)
+2007-3697(CPP)
+INTITULÉ : 1327939 ONTARIO INC. s/n GEMINI COMMERCIAL SIGN & LIGHTING
+c.
+M.R.N.
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Le 15 juillet 2008
+MOTIFS DU JUGEMENT : L’honorable juge en chef Gerald J. Rip
+DATE DU JUGEMENT : Le 5 août 2008
+COMPARUTIONS :
+Représentant de l’appelante :
+M. Iain Taylor
+Avocat de l’intimé :
+Me Amit Ummat
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Cabinet :
+Pour l’intimé : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] [2001] 2 R.C.S. 983, paragraphe 37; 2001 CSC 59.
+[2] [1986] 3 C.F. 553.
+[3] [1978] 1 R.C.S. 605, page 613.
+[4] Atiyah, P.S. Vicarious Liability in the Law of Torts. Londres : Butterworths, 1967, page 41, cité par le juge Major dans Sagaz, paragraphe 38.
+[5] Wiebe Door, précité, page 559.

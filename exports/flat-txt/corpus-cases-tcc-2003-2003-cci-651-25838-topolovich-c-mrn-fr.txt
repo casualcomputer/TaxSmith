@@ -1,0 +1,219 @@
+Title: Topolovich c. MRN
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25838/index.do
+Corpus path: corpus/cases/tcc/2003/2003-cci-651-25838-topolovich-c-mrn-fr.md
+Document type: case_law
+Last modified: 2003-09-29
+
+# Topolovich c. MRN
+
+- Citation: 2003 CCI 651
+- Decision date: 2003-09-29
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3909, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Topolovich c. MRN
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-09-29
+Référence neutre
+2003 CCI 651
+Numéro de dossier
+2002-4688(EI)
+Juges et Officiers taxateurs
+Michael H. Porter
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Dossier : 2002-4688(EI)
+ENTRE :
+MICHAEL WALTER TOPOLOVICH,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+____________________________________________________________________
+Appel entendu sur preuve commune avec l'appel de Michael Walter Topolovich (2002-4689(CPP)) le 5 juin 2003 à Calgary (Alberta)
+Devant : L'honorable juge suppléant Michael H. Porter
+Comparutions
+Pour l'appelant :
+L'appelant lui-même
+Avocate de l'intimé :
+Me Galina M. Bining
+____________________________________________________________________
+JUGEMENT
+L'appel est accueilli et la décision du ministre est annulée conformément aux motifs du jugement ci-joints.
+Signé à Calgary (Alberta), ce 29e jour de septembre 2003.
+« Michael H. Porter »
+Juge suppléant Porter
+Traduction certifiée conforme
+ce 27e jour de janvier 2004.
+Liette Girard, traductrice
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Dossier : 2002-4689(EI)
+ENTRE :
+MICHAEL WALTER TOPOLOVICH,
+appelant,
+Et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+____________________________________________________________________
+Appel entendu sur preuve commune avec l'appel de Michael Walter Topolovich (2002-4688(EI)) le 5 juin 2003 à Calgary (Alberta)
+Devant : L'honorable juge suppléant Michael H. Porter
+Comparutions
+Pour l'appelant :
+L'appelant lui-même
+Avocate de l'intimé :
+Me Galina M. Bining
+____________________________________________________________________
+JUGEMENT
+L'appel est accueilli et la décision du ministre est annulée conformément aux motifs du jugement ci-joints.
+Signé à Calgary (Alberta), ce 29e jour de septembre 2003.
+« Michael H. Porter »
+Juge suppléant Porter
+Traduction certifiée conforme
+ce 27e jour de janvier 2004.
+Liette Girard, traductrice
+Référence : 2003CCI651
+Date : 20030929
+Dossiers : 2002-4688(EI)
+2002-4689(CPP)
+ENTRE :
+MICHAEL WALTER TOPOLOVICH,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge suppléant Porter
+[1] Les présents appels ont été entendus sur preuve commune par consentement des parties, à Calgary, en Alberta, le 6 mai 2003.
+[2] L'appelant a interjeté appel à l'encontre de la décision du ministre du Revenu national (ci-après appelé « le ministre » ) datée du 5 septembre 2002 et confirmant une évaluation émise à l'égard de Accurate Leasing Ltd. (la « payeuse » ) le 28 novembre 2001 pour les cotisations d'assurance-emploi et les contributions au Régime de pensions du Canada en ce qui concerne l'emploi que l'appelant occupait auprès d'elle durant la période du 15 janvier 2000 au 30 septembre 2000. La raison donnée pour confirmer l'évaluation était la suivante :
+[Traduction]
+[...] vous étiez employé en vertu d'un contrat de louage de services par Accurate Leasing Ltd., et, par conséquent, vous occupiez un emploi assurable et ouvrant droit à pension.
+La décision aurait été rendue en vertu du paragraphe 27.2(3) du Régime de pensions du Canada (le « Régime » ) et du paragraphe 93(3) de la Loi sur l'assurance-emploi (la « Loi sur l'a.-e. » ) et serait fondée sur l'alinéa 6(1)a) du Régime et l'alinéa 5(1)a) de la Loi sur l'a.-e.
+[3] Il appert que la payeuse n'a pas interjeté appel à l'encontre de la décision devant cette Cour.
+[4] Les faits importants indiquent que durant la période en litige, l'appelant a été engagé par Accurate Leasing Ltd. (la « payeuse » ), qui exploitait une entreprise à Winnipeg, ayant un bureau local à Calgary, en Alberta. L'entreprise de la payeuse consistait en la négociation et en le courtage de contrats pour le financement de la location d'équipement. L'appelant a été engagé comme gestionnaire des comptes et courtier à Calgary. Le ministre a décidé que l'appelant avait été engagé en tant qu'employé travaillant en vertu d'un contrat de louage de services. L'appelant prétend qu'il était un entrepreneur indépendant travaillant en vertu d'un contrat d'entreprise. C'est la question que devra trancher la Cour.
+Le droit
+Contrat de louage de services ou contrat d'entreprise
+[5] Les mots du juge MacGuigan de la Cour d'appel fédérale dans l'affaire Wiebe Door Services Ltd. c. M.R.N., [1986] 3 C.F. 553 (87 DTC 5025) indiquent depuis longtemps comment la Cour devrait procéder pour déterminer si un arrangement de travail particulier constitue un contrat de louage de services et, par conséquent, une relation employeur-employé, ou un contrat d'entreprise et, par conséquent, une relation avec un entrepreneur indépendant. Le raisonnement de cette affaire a été développé et expliqué davantage dans les affaires entendues par la Cour d'appel fédérale, à savoir dans les affaires Moose Jaw Kinsmen Flying Fins Inc. c. M.N.R., C.A.F., no A-531-87, 15 janvier 1988 (88 DTC 6099), Charbonneau c. Canada (M.R.N.),[1996] A.C.F. no 1337, et Vulcain Alarme Inc. c. Le ministre du Revenu national, C.A.F., no A-376-98, 11 mai 1999 ((1999) 249 N.R. 1), dont peuvent s'inspirer les tribunaux de première instance pour déterminer ces questions.
+[6] La Cour suprême du Canada a maintenant revu cette question dans l'affaire 671122 Ontario Ltd. c. Sagaz Industries Canada Inc., [2001] A.C.S. no 61 (2001 SCC 59, 274 N.R. 366). La question en litige dans cette affaire a été soulevée dans le contexte de la responsabilité du fait d'autrui. Cependant, la Cour a reconnu que les mêmes critères s'appliquaient à de nombreuses autres situations, y compris la loi touchant l'assurance-emploi. Monsieur le juge Major, s'exprimant au nom de la Cour, a approuvé l'approche adoptée par le juge MacGuigan dans l'affaire Wiebe Door (précitée), qui avait analysé la jurisprudence canadienne, anglaise et américaine et, en particulier, qui a fait mention de quatre critères permettant de parvenir à cette détermination énoncée par lord Wright dans l'affaire City of Montreal v. Montreal Locomotive Works Ltd., [1974] 1 D.L.R. 161 aux pages 169-170. Le juge MacGuigan a conclu à la page 560 (DTC : à la page 5028) ceci :
+Dans ce contexte, les quatre critères établis par lord Wright [contrôle, propriété des instruments, chance de profit, risque de perte] constituent une règle générale, et même universelle, qui nous oblige à « examiner l'ensemble des divers éléments qui composent la relation entre les parties » . Quand il s'est servi de cette règle pour déterminer la nature du lien existant dans l'affaire Montreal Locomotive Works, lord Wright a combiné et intégré les quatre critères afin d'interpréter l'ensemble de la transaction.
+À la page 562 (DTC : à la page 5029), il a déclaré ce qui suit :
+[...] Je considère le critère de lord Wright non pas comme une règle comprenant quatre critères, comme beaucoup l'ont interprété, mais comme un seul critère qui est composé de quatre parties intégrantes et qu'il faut appliquer en insistant toujours sur ce que lord Wright a appelé ci-dessus « l'ensemble des éléments qui entraient dans le cadre des opérations » , et ce, même si je reconnais l'utilité des quatre critères subordonnés. (Je souligne.)
+À la page 563 (DTC : à la page 5030), il a déclaré ce qui suit :
+Il est toujours important de déterminer quelle relation globale les parties entretiennent entre elles.
+Il a également fait observer ce qui suit :
+Quand il doit régler un tel problème, le juge de première instance ne peut se soustraire à l'obligation de peser avec soin tous les facteurs pertinents, [...].
+[7] Monsieur le juge MacGuigan a également déclaré ce qui suit :
+C'est probablement le juge Cooke, dans Market Investigations, Ltd. v. Minister of Social Security, [1968] 3 All E.R. 732 (Q.B.D.), qui, parmi ceux qui ont examiné le problème, en a fait la meilleure synthèse (aux pages 738 et 739) :
+[TRADUCTION] Les remarques de lord Wright, du lord juge Denning et des juges de la Cour suprême des États-Unis laissent à entendre que le critère fondamental à appliquer est celui-ci : « La personne qui s'est engagée à accomplir ces tâches les accomplit-elle en tant que personne dans les affaires à son compte » . Si la réponse à cette question est affirmative, alors il s'agit d'un contrat d'entreprise. Si la réponse est négative, alors il s'agit d'un contrat de service personnel. Aucune liste exhaustive des éléments qui sont pertinents pour trancher cette question n'a été dressée, peut-être n'est-il pas possible de le faire; on ne peut non plus établir de règles rigides quant à l'importance relative qu'il faudrait attacher à ces divers éléments dans un cas particulier. Tout ce qu'on peut dire, c'est qu'il faudra toujours tenir compte du contrôle même s'il ne peut plus être considéré comme le seul facteur déterminant; et que des facteurs qui peuvent avoir une certaine importance sont des questions comme celles de savoir si celui qui accomplit la tâche fournit son propre outillage, s'il engage lui-même ses aides, quelle est l'étendue de ses risques financiers, jusqu'à quel point il est responsable des mises de fonds et de la gestion, et jusqu'à quel point il peut tirer profit d'une gestion saine dans l'accomplissement de sa tâche. L'utilisation du critère général peut être plus facile dans un cas où la personne qui s'engage à rendre le service le fait dans le cadre d'une affaire déjà établie; mais ce facteur n'est pas déterminant. Une personne qui s'engage à rendre des services à une autre personne peut bien être un entrepreneur indépendant même si elle n'a pas conclu de contrat dans le cadre d'une entreprise qu'elle dirige actuellement.
+[8] Dans l'affaire Kinsmen Flying Fins Inc., précitée, la Cour d'appel fédérale a déclaré ce qui suit :
+[...] comme le juge MacGuigan, nous considérons les critères comme des subordonnés utiles pour peser tous les faits relatifs à l'entreprise de la requérante. C'est maintenant l'approche appropriée et préférable pour la très bonne raison que dans une cause donnée, et celle-ci peut très bien en être une, un ou plusieurs des critères peuvent être peu ou pas applicables. Pour rendre une décision, il faut donc considérer l'ensemble de la preuve en tenant compte des critères qui peuvent être appliqués et donner à toute la preuve le poids que les circonstances peuvent exiger.
+[9] La nature des critères mentionnés par la Cour d'appel fédérale peut être résumée de la façon suivante :
+a) le degré ou l'absence de contrôle exercé par l'employeur;
+b) la propriété des instruments;
+c) la chance de profit;
+d) le risque de perte.
+De plus, la Cour doit examiner la question de l'intégration, le cas échéant, du travail présumé de l'employé dans l'entreprise présumée de l'employeur.
+[10] Dans l'arrêt Sagaz (précité), le juge Major a déclaré ce qui suit :
+Le contrôle n'est toutefois pas le seul facteur à considérer pour décider si un travailleur est un employé ou un entrepreneur indépendant.
+[11] Il s'est penché sur l'inconvénient du « critère de contrôle » en faisant siens encore une fois les propos du juge MacGuigan dans l'affaire Wiebe Door (précitée) de la façon suivante :
+Ce critère a le grave inconvénient de paraître assujetti aux termes exacts du contrat définissant les modalités du travail : si le contrat contient des instructions et des stipulations détaillées, comme c'est chose courante dans les contrats passés avec un entrepreneur indépendant, le contrôle ainsi exercé peut être encore plus rigoureux que s'il résultait d'instructions données au cours du travail, comme c'est l'habitude dans les contrats avec un préposé, mais une application littérale du critère pourrait laisser croire qu'en fait, le contrôle exercé est moins strict. En outre, le critère s'est révélé tout à fait inapplicable pour ce qui est des professionnels et des travailleurs hautement qualifiés, qui possèdent des aptitudes bien supérieures à la capacité de leur employeur à les diriger.
+[12] Il a poursuivi en affirmant ce qui suit :
+À mon avis, aucun critère universel ne permet de déterminer, de façon concluante, si une personne est un employé ou un entrepreneur indépendant. Lord Denning a affirmé, dans l'arrêt Stevenson Jordan, [...] [[1952] 1 The Times L.R. 101), qu'il peut être impossible d'établir une définition précise de la distinction (p. 111) et, de la même façon, Fleming signale que [TRADUCTION] « devant les nombreuses variables des relations de travail en constante mutation, aucun critère ne semble permettre d'apporter une réponse toujours claire et acceptable » (p. 416). Je partage en outre l'opinion du juge MacGuigan lorsqu'il affirme - en citant Atiyah, [...] [Vicarious Liability in the Law of Torts, Londres, Butterworths, 1967], à la p. 38, dans l'arrêt Wiebe Door, p. 563 - qu'il faut toujours déterminer quelle relation globale les parties entretiennent entre elles :
+[TRADUCTION] [N]ous doutons fortement qu'il soit encore utile de chercher à établir un critère unique permettant d'identifier les contrats de louage de services [...] La meilleure chose à faire est d'étudier tous les facteurs qui ont été considérés dans ces causes comme des facteurs influant sur la nature du lien unissant les parties. De toute évidence, ces facteurs ne s'appliquent pas dans tous les cas et n'ont pas toujours la même importance. De la même façon, il n'est pas possible de trouver une formule magique permettant de déterminer quels facteurs devraient être tenus pour déterminants dans une situation donnée.
+Bien qu'aucun critère universel ne permette de déterminer si une personne est un employé ou un entrepreneur indépendant, je conviens avec le juge MacGuigan que la démarche suivie par le juge Cooke dans la décision Market Investigations, précitée, est convaincante. La question centrale est de savoir si la personne qui a été engagée pour fournir les services les fournit en tant que personne travaillant à son compte. Pour répondre à cette question, il faut toujours prendre en considération le degré de contrôle que l'employeur exerce sur les activités du travailleur. Cependant, il faut aussi se demander, notamment, si le travailleur fournit son propre outillage, s'il engage lui-même ses assistants, quelle est l'étendue de ses risques financiers, jusqu'à quel point il est responsable des mises de fonds et de la gestion et jusqu'à quel point il peut tirer profit de l'exécution de ses tâches.
+Ces facteurs, il est bon de le répéter, ne sont pas exhaustifs et il n'y a pas de manière préétablie de les appliquer. Leur importance relative respective dépend des circonstances et des faits particuliers de l'affaire.
+[13] Je trouve également utile les mots du juge d'appel Décary dans l'affaire Charbonneau (précitée) quand, s'exprimant pour la Cour d'appel fédérale, il a déclaré ce qui suit :
+Les critères énoncés par cette Cour [...] ne sont pas les recettes d'une formule magique. Ce sont des points de repère qu'il sera généralement utiles de considérer, mais pas au point de mettre en péril l'objectif ultime de l'exercice qui est de rechercher la relation globale que les parties entretiennent entre elles. Ce qu'il s'agit, toujours, de déterminer, une fois acquise l'existence d'un véritable contrat, c'est s'il y a, entre les parties, un lien de subordination tel qu'il s'agisse d'un contrat de travail [...] ou s'il [...] y a [...] un degré d'autonomie tel qu'il s'agisse d'un contrat d'entreprise ou de service [...]. En d'autres termes, il ne faut pas [...] examiner les arbres de si près qu'on perde de vue la forêt. Les parties doivent s'effacer devant le tout. (Je souligne.)
+[14] Je fais également miens les mots du juge d'appel Létourneau dans l'affaire Vulcain Alarme (précitée), où il a déclaré ce qui suit :
+Ces critères jurisprudentiels sont importants mais, faut-il le rappeler, ils ne sauraient compromettre le but ultime de l'exercice, soit d'établir globalement la relation entre les parties. Cet exercice consiste à déterminer s'il existe entre les parties un lien de subordination tel qu'il faille conclure à l'existence d'un contrat de travail au sens de l'article 2085 du Code civil du Québec ou s'il n'existe pas plutôt entre celles-ci ce degré d'autonomie qui caractérise le contrat d'entreprise ou de service [...].
+[15] Je suis en outre conscient qu'en raison des décisions récentes rendues par la Cour d'appel fédérale dans les affaires Wolf c. Canada, (C.A.) [2002] A.C.F. no 375 et Precision Gutters Ltd. c. Canada (Ministre du Revenu national - M.R.N.), [2002] A.C.F. no 771, un degré élevé de latitude semble maintenant être permis pour intervenir dans la jurisprudence de façon à permettre à des consultants d'être engagés d'une manière selon laquelle ils ne sont pas réputés être des employés comme ils l'auraient été auparavant. Je suis particulièrement conscient des mots du juge Décary dans la décision Wolf (précitée) où il a déclaré ce qui suit :
+De nos jours, quand un travailleur décide de garder sa liberté pour pouvoir signer un contrat et en sortir pratiquement quand il le veut, lorsque la personne qui l'embauche ne veut pas avoir de responsabilités envers un travailleur si ce n'est le prix de son travail et lorsque les conditions du contrat et son exécution reflètent cette intention, le contrat devrait en général être qualifié de contrat de service. Si l'on devait mentionner des facteurs particuliers, je nommerais le manque de sécurité d'emploi, le peu d'égard pour les prestations salariales, la liberté de choix et les questions de mobilité. (Je souligne.)
+[16] Ainsi, il semble à cette Cour que le balancier a commencé à aller dans l'autre direction de façon à permettre aux parties de régir leurs affaires plus facilement pour ce qui est du travail de consultation et de façon à ce qu'elles puissent plus facilement se placer dans la catégorie d'entrepreneurs indépendants plutôt que d'employés travaillant en vertu d'un contrat de louage de services, sans que n'interviennent les tribunaux ou le ministre.
+[17] En conclusion, il n'y a pas de formule fixe. Tous ces facteurs méritent d'être considérés et, comme le juge Major l'a déclaré dans l'affaire Sagaz (précitée), le poids de chacun dépendra des circonstances et des faits particuliers de l'affaire. Un grand nombre des critères peuvent être relativement neutres et s'appliquer de façon égale aux deux types de situation. Dans ce cas, un examen attentif doit être fait de l'intention des parties, ce qui est la tâche du juge de première instance.
+Les faits
+[18] Dans la Réponse à l'avis d'appel signée en son nom, le ministre aurait admis les faits suivants qui étaient allégués dans l'Avis d'appel produit par l'appelant :
+[Traduction]
+a) L'appelant a été embauché comme gestionnaire des comptes.
+d) Accurate Leasing Ltd. (ci-après la « payeuse » ) n'a pas émis de relevé T4 à l'égard de l'appelant pour la période en litige.
+e) Revenu Canada (l'Agence des douanes et du revenu du Canada) a rédigé un relevé T4 à l'égard de l'appelant.
+n) La payeuse a conclu des contrats avec des établissements de financement.
+o) La payeuse était payée par les établissements de financement.
+p) L'appelant recevait 50 p. 100 des frais imposés par la payeuse.
+q) L'appelant soumettait des recommandations de crédit.
+r) Les frais de la payeuse dépendaient de l'importance du contrat et de la taille de l'établissement de financement.
+[19] Dans la Réponse à l'avis d'appel signée en son nom, le ministre se serait également fondé sur les hypothèses de fait suivantes (j'ai indiqué entre parenthèses si l'appelant était d'accord ou non avec le ministre) :
+[Traduction]
+a) la payeuse exploitait une entreprise de négociation et de courtage de contrats pour le financement de la location d'équipement; (accord)
+b) la payeuse concluait des contrats avec des établissements de financement; (désaccord)
+c) les établissements de financement payaient des frais à la payeuse pour les services offerts; (accord)
+d) la payeuse avait son bureau principal à Winnipeg ainsi qu'une succursale à Calgary; (accord)
+e) l'appelant a été embauché comme gestionnaire des comptes et il devait notamment conclure des contrats de location, effectuer du travail de bureau, assister à des réunions, former le personnel subalterne, répondre au téléphone et élaborer des stratégies de commercialisation; (désaccord)
+f) l'appelant a rendu ses services à l'établissement de la payeuse à Calgary et sur le terrain; (désaccord)
+g) l'appelant gagnait un salaire de base net de 500 $ par mois; (désaccord)
+h) l'appelant recevait également une commission de 50 p. 100 des frais payés à la payeuse; (désaccord)
+i) la payeuse fixait le taux de paie de l'appelant; (désaccord)
+j) l'appelant était payé deux fois par mois; (accord)
+k) l'appelant travaillait normalement durant les heures normales de bureau, du lundi au vendredi; (désaccord)
+l) l'appelant arrivait au bureau de la payeuse à 8 h 30 chaque matin et y travaillait pendant une ou deux heures; (désaccord)
+m) l'appelant travaillait normalement 40 heures par semaine; (désaccord)
+n) la payeuse avait priorité dans l'emploi du temps de l'appelant; (désaccord)
+o) la payeuse avait le droit de contrôler l'appelant; (désaccord)
+p) l'appelant recevait des instructions de la payeuse; (désaccord)
+q) la payeuse fixait les objectifs et les attentes à l'égard de l'appelant; (désaccord)
+r) l'appelant assistait à des réunions hebdomadaires régulières; (désaccord)
+s) l'appelant représentait la payeuse alors qu'il était sur le terrain; (accord)
+t) l'appelant utilisait les cartes d'affaires de la payeuse; (accord)
+u) l'appelant ne travaillait pas pour d'autres lorsqu'il travaillait pour la payeuse; (accord)
+v) l'appelant utilisait ses propres véhicule et téléphone cellulaire; (accord)
+w) la payeuse fournissait un espace de travail meublé; (désaccord)
+x) la payeuse fournissait toutes les fournitures et tous les documents requis; (désaccord)
+y) l'appelant engageait des frais de véhicule dans l'exercice de ses fonctions; (accord)
+z) la payeuse assumait les frais d'exploitation, y compris les dépenses de bureau, les fournitures, les frais d'administration, les services publics, la publicité et l'assurance; (désaccord)
+aa) l'appelant était employé en vertu d'un contrat de louage de services par la payeuse; (désaccord)
+bb) le salaire versé par la payeuse à l'appelant, pour la période du 15 janvier 2000 au 30 septembre 2000, était de 15 312 $. (désaccord)
+[20] L'appelant et Rick Muscato, un ami et collègue de l'appelant, ont témoigné.
+[21] L'appelant a déclaré qu'il était un courtier et gestionnaire travaillant à Prince George, en Colombie-Britannique, à l'époque où il a vu la publicité pour un poste à Calgary. L'annonceur, qui s'est révélé être la payeuse, cherchait un courtier-gestionnaire.
+[22] L'appelant a communiqué avec la payeuse et a passé une entrevue le 8 janvier 2000. Il a été engagé et informé des conditions de travail verbalement. Il n'y a pas eu de contrat écrit. On lui a dit qu'il exploiterait sa propre entreprise, ce qui lui convenait, puisque c'est de cette façon qu'il avait travaillé auparavant en Colombie-Britannique.
+[23] Il a expliqué la nature de son travail et de l'entreprise de la payeuse. Il devait trouver des personnes et des entreprises sur le point d'acheter du gros équipement et qui cherchaient un financement approprié pour financer l'achat. Il a de toute évidence créer des liens avec un certain nombre de courtiers pour l'aider. Il présentait ensuite une proposition à la payeuse qui trouvait le financier approprié et concluait un marché à cette fin. Ainsi, l'appelant trouvait l'emprunteur, et la payeuse trouvait le prêteur. L'entreprise de financement versait un montant à la payeuse pour le service, montant que cette dernière partageait à parts égales avec l'appelant. Dans un sens, il s'agissait d'une coentreprise de courtage, une partie trouvant l'emprunteur, l'autre un prêteur puis elles organisaient une rencontre. Il n'y avait pas de contrat continu entre la payeuse et les établissements de financement (hypothèse b)); seuls des frais étaient payés pour avoir trouvé des clients et que la payeuse partageait avec l'appelant.
+[24] La payeuse avait mis sur pied un petit bureau à Calgary. Lorsque l'appelant a commencé à travailler comme gestionnaire des comptes et courtier, il utilisait ce bureau pour faire le travail de bureau. Cependant, il versait des frais de 200 $ par mois à cet égard à la payeuse.
+[25] L'entente prévoyait que la payeuse verserait à l'appelant des honoraires mensuels de base de 700 $. De ce montant, serait déduit la somme de 200 $ pour le loyer du bureau. Ainsi, l'appelant recevrait un montant net de 500 $. L'appelant présentait deux fois par mois ses factures à la payeuse qui représentaient différents honoraires de courtage qu'il avait gagnés. En fait, ces factures provenaient de l'information qui lui avait été fournie par le contrôleur à Winnipeg. Les honoraires de base de 700 $ (qui comprenaient le loyer de 200 $) étaient déduits des montants de la facture, et le solde lui était remis. Ainsi, il ne considérait pas que ses honoraires de base étaient un salaire (hypothèse g)). Ils étaient payés en fonction de ses frais et il était payé au moyen d'une facture. Il n'imposait pas la TPS; il ne faisait apparemment pas suffisamment d'argent pour demander un numéro.
+[26] L'appelant a contesté l'hypothèse e) qui ne fait pas mention du fait qu'il est un « courtier » et un gestionnaire des comptes. Il a déclaré qu'il n'avait pas à assister à des réunions ni à former le personnel subalterne. Il aidait le personnel subalterne simplement parce qu'il souhait créer de bonnes relations avec les autres courtiers.
+[27] L'appelant conteste l'hypothèse h) dans laquelle on indique qu'il y avait une différence entre des frais de courtage et une commission. Il recevait des honoraires de courtage qu'il établissait lui-même (hypothèse i)), même si de toute évidence ils devaient être fixés après entente avec la payeuse.
+[28] Pour ce qui est des hypothèses k), l) et m), l'appelant a déclaré qu'il ne travaillait pas pendant des heures normales et qu'il n'y était pas obligé. Il établissait ses propres heures et se présentait au bureau et ailleurs aux heures qui lui convenaient.
+[29] Pour ce qui est de l'hypothèse n), l'appelant considérait qu'il était libre de travailler pour toute autre maison de courtage s'il le voulait. De toute évidence, s'il travaillait étroitement avec la payeuse, il ne travaillerait probablement pas avec d'autres entreprises, mais il était libre de le faire s'il le souhaitait. La payeuse n'avait pas priorité dans l'emploi du temps de ce dernier ni n'avait le contrôle sur le moment et l'endroit où il devait travailler ni sur la façon dont il devait le faire.
+[30] Pour ce qui est de l'hypothèse p), les exigences des entreprises de financement quant à la façon dont les propositions devraient être recueillies lui étaient transmises par la payeuse. Il ne s'agissait pas d'un contrôle au sens où on l'entend habituellement dans ces situations puisque cela visait le travail même qu'il effectuait. Il devait présenter les demandes de financement dans une forme acceptable pour les entreprises de financement.
+[31] L'appelant a déclaré qu'il établissait ses propres objectifs, que rien n'était fixé par la payeuse et que la preuve n'indiquait rien au contraire (hypothèse q)).
+[32] L'appelant a déclaré qu'un certain Mike Hollaway, la personne qui lui avait fait passer l'entrevue au départ, tentait de fixer des rencontres hebdomadaires, mais que personne n'était obligé d'y assister (hypothèse r)). L'appelant a déclaré qu'il était libre d'assister à la rencontre si cela lui convenait.
+[33] Pour ce qui est des hypothèses x) et z), l'appelant a indiqué qu'il avait accès au bureau et à un ordinateur pour lesquels il versait 200 $ par mois. De plus, il tapait lui-même ses lettres, il fournissait son propre papier, il possédait ses propres cartes d'affaires, même s'il utilisait quelques-unes fournies par la payeuse, son propre téléphone cellulaire et son propre véhicule à moteur pour lesquels il n'était pas remboursé.
+[34] En ce qui concerne l'hypothèse bb), les montants qui lui ont été versés ne sont pas en litige.
+[35] Le témoignage de Rick Muscato a été bref, il a dans l'ensemble confirmé celui de l'appelant.
+[36] Je n'ai pas éprouvé de difficulté en ce qui concerne la crédibilité des deux témoins. J'ai trouvé qu'ils tentaient fondamentalement d'expliquer la situation de façon honnête au mieux de leur capacité. J'accepte leur témoignage lorsqu'il diverge des hypothèses formulées par le ministre.
+[37] Il s'agissait des faits saillants tels qu'ils m'ont été présentés.
+Application du droit aux faits
+[38] Titre : On doit bien comprendre que même lorsque les parties choisissent de mettre un titre à leur relation, si la véritable nature et la substance de l'entente ne concordent pas avec ce titre, c'est la substance que la Cour doit examiner. Ce principe juridique n'a pas changé (voir l'affaire Shell Canada Ltée c. Canada [1999] A.C.S. no 30). Cela étant dit, il est également juste de dire que lorsque les parties choisissent réellement une méthode particulière pour créer un arrangement de travail, il ne revient pas au ministre ou à la Cour d'écarter ce choix. On doit faire preuve de retenue à l'égard de la méthode choisie par les parties et si, selon la preuve dans son ensemble, il n'y a pas de raison substantielle pour modifier le titre choisi par les parties, ce dernier ne devrait donc pas l'être. Les affaires Wolf et Precision Gutters (précitées) étayent largement cette proposition.
+[39] Contrôle : Selon l'application traditionnelle que l'on a faite de cet aspect, on a constamment fait remarquer que ce n'est pas le contrôle réel qui est important pour la Cour mais bien le droit de contrôle. Plus une personne sera professionnelle et compétente ou aura de l'expérience dans son domaine et moins il y aura un contrôle réel, ce qui rendra difficile l'application de ce critère. En effet, comme l'a fait observer le juge Major dans l'affaire Sagaz (précitée), le contrôle exercé peut être moindre dans le cas d'un employé professionnel et compétent que dans le cas d'un entrepreneur indépendant. Néanmoins, c'est un autre facteur qui doit être soupesé.
+[40] En l'espèce, il semble y avoir eu peu ou pas de contrôle exercé par la payeuse. Les demandes de financement devaient être réunies sur des formulaires standard d'une façon qui respectait les exigences des entreprises de financement. Cela, cependant, constituait le travail en tant que tel et ne pouvait être associé à un contrôle. La façon dont l'appelant organisait son travail ainsi que l'endroit et le moment où il le faisait étaient laissés à sa discrétion. Son travail comportait le fait de réunir la moitié des marchés. Je ne constate aucune preuve de contrôle dans cette situation. Ce facteur indique que nous sommes en présence d'un entrepreneur indépendant travaillant en vertu d'un contrat d'entreprise, s'il en est; dans un sens, il s'agit davantage d'une situation de partenariat.
+[41] Instruments et équipement : Même si la payeuse fournissait un bureau où l'appelant pouvait travailler, recevoir des messages et avoir accès à un ordinateur, il payait pour ces services, ce qui est rarement la caractéristique d'un employé. De plus, il fournissait son téléphone cellulaire et son véhicule à moteur.
+[42] Ce facteur fait également clairement ressortir une caractéristique liée à un entrepreneur indépendant.
+[43] Chance de profit et risque de perte : De toute évidence, plus l'appelant travaillait et mieux il faisait son travail plus il rassemblait de demandes et plus élevés étaient ses honoraires de courtier. D'un autre côté, il devait payer le loyer, le téléphone cellulaire et les frais de véhicule et, s'il ne recueillait pas de demandes de financement, il n'était pas payé. Je comprends de la preuve que ces honoraires de base étaient débités du revenu du mois suivant s'il ne faisait pas suffisamment d'argent un mois donné et ainsi de suite. Il était donc susceptible de subir une perte.
+[44] L'ensemble de l'arrangement comportait un aspect entrepreneurial. Les employés ne paient pas leur employeur pour utiliser leur bureau. Ce facteur tend également à indiquer que nous sommes en présence d'un entrepreneur indépendant.
+[45] Intégration : Il s'agit de l'aspect du critère qui a été critiqué le plus souvent. La question à poser est la suivante : « à qui appartient l'entreprise? » . Cette question doit être posée du point de vue du travailleur et non de l'employeur puisque la perspective de ce dernier tendra toujours vers son entreprise. En d'autres termes, y avait-il une ou deux entreprises?
+[46] Comme je l'ai dit, cet arrangement global comportait un aspect entrepreneurial. Dans un sens, il s'agissait d'un type de partenariat. Lorsque je pose la question de savoir si l'appelant exploitait une entreprise pour son propre compte, la réponse est certainement affirmative. Son entreprise consistait en la recherche de clients et en la préparation et la présentation de demandes de financement. Il utilisait les services de la payeuse, mais il aurait pu utiliser ceux de n'importe quelle autre maison de courtage de son choix. L'entreprise de la payeuse consistait en la réunion des auteurs de demandes de financement et des entreprises de financement. Il s'agissait presque d'une coentreprise, et l'une ne pouvait fonctionner sans l'autre.
+Conclusion
+[47] Lorsque j'examine non seulement les arbres mais également la forêt dans son ensemble, je suis incontestablement d'avis que l'appelant exploitait une entreprise pour son propre compte et qu'il n'occupait pas un emploi assurable et ouvrant droit à pension. L'arrangement a été créé de cette manière et réalisé de cette manière.
+[48] Les appels sont donc accueillis et les décisions du ministre sont annulées.
+Signé à Calgary (Alberta), ce 29e jour de septembre 2003.
+« Michael H. Porter »
+Juge suppléant Porter
+Traduction certifiée conforme
+ce 27e jour de janvier 2004.
+Liette Girard, traductrice

@@ -1,0 +1,206 @@
+---
+title: "JDI 2000 Transport Ltd. c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29961/index.do"
+last_modified: "2010-06-04"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 CCI 310"
+citation2: ""
+neutral_citation: "2010 CCI 310"
+decision_date: "2010-06-04"
+language: "fr"
+item_id: "29961"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6446
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T12:57:04.239000+00:00"
+cases_cited_count: 4
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "91c72c92b0ec7cdc85e6091ec939eb17343fc883ccfdf2db2680af2d5672e20d"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# JDI 2000 Transport Ltd. c. La Reine
+
+- Citation: 2010 CCI 310
+- Decision date: 2010-06-04
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6446, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+JDI 2000 Transport Ltd. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2010-06-04
+Référence neutre
+2010 CCI 310
+Numéro de dossier
+2007-3161(IT)G
+Juges et Officiers taxateurs
+Judith Woods
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2007-3161(IT)G
+ENTRE :
+JDI 2000 TRANSPORT LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle]
+________________________________________________________________
+Appel entendu les 20 et 21 mai 2010, à Vancouver (Colombie‑Britannique)
+Devant : L'honorable juge Judith Woods
+Comparutions :
+Avocat de l'appelante :
+Me R. Keith Oliver
+Avocat de l'intimée :
+Me Victor Caux
+________________________________________________________________
+JUGEMENT
+L'appel interjeté à l'égard des cotisations établies en vertu de la Loi de l'impôt sur le revenu pour les années d'imposition 2003 et 2004 est accueilli, et les cotisations sont déférées au ministre du Revenu national pour nouvel examen et nouvelles cotisations en partant du principe qu'il ne fallait pas imposer de pénalités relativement aux dépenses faites pour des sociétés liées.
+Les dépens sont accordés à l'intimée.
+Signé à Toronto (Ontario), ce 4e jour de juin 2010.
+« J. M. Woods »
+Le juge Woods
+Traduction certifiée conforme
+ce 24e jour d'août 2010.
+Yves Bellefeuille, réviseur
+Référence : 2010 CCI 310
+Date : 20100623
+Dossier : 2007-3161(IT)G
+ENTRE :
+JDI 2000 TRANSPORT LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle]
+MOTIFS MODIFIÉS DU JUGEMENT
+Le juge Woods
+[1] JDI 2000 Transport Ltd. exploite une entreprise spécialisée en transport du courrier par camion. Cette société appartient entièrement à M. Inderjit Dhillon. Le litige porte sur la déductibilité de certaines dépenses faites par la société et sur la question de savoir si des pénalités pour faute lourde ont été imposées à juste titre.
+[2] Des cotisations ont été établies en vertu de la Loi de l'impôt sur le revenu pour refuser des déductions totalisant 306 693 $ pour l'année d'imposition 2003 et 423 039 $ pour l'année d'imposition 2004.
+[3] L'appelante a soulevé quatre questions, à savoir :
+(1) A-t‑elle droit à des déductions pour les articles personnels achetés pour la famille Dhillon?
+(2) A-t‑elle droit à une déduction pour les dépenses faites relativement aux activités de sociétés liées?
+(3) Le vérificateur a‑t‑il eu tort de conclure que des déductions avaient été demandées en double?
+(4) Les pénalités imposées en vertu du paragraphe 163(2) de la Loi ont‑elles été imposées à juste titre?
+[4] Monsieur Dhillon et Lawrence Sammy ont témoigné pour l'appelante. Ce dernier était employé comme commis comptable par l'appelante et d'autres sociétés appartenant à M. Dhillon. Monsieur Dal Jawandha, un vérificateur de l'Agence du revenu du Canada, a témoigné pour l'intimée.
+Les articles personnels
+[5] Monsieur Dhillon, son épouse et sa fille ont fait des achats considérables avec un certain nombre de cartes de crédit. Certains de ces achats avaient trait à l'entreprise, mais un grand nombre d'entre eux étaient des dépenses personnelles de la famille. Il semble que l'épouse et la fille de M. Dhillon ne travaillaient pas pour l'entreprise.
+[6] Pendant les années en cause, M. Dhillon remettait les relevés de carte de crédit au commis comptable, M. Sammy, pour que ce dernier les fasse payer par l'appelante.
+[7] Monsieur Sammy consignait les paiements relatifs aux cartes de crédit au moyen d'écritures de journal, sous les rubriques « réparation et entretien » ou « déplacements ». Seul le solde total de chaque relevé de carte de crédit était inscrit, et non chaque achat. Au total, environ neuf cartes de crédit étaient utilisées.
+[8] Monsieur Sammy n'a pas soutenu que cette méthode comptable était convenable, mais il a dit qu'il inscrivait simplement le paiement fait pour chaque relevé dans le compte de la société auquel la majorité des dépenses correspondaient.
+[9] Pendant sa vérification, le vérificateur, M. Jawandha, a demandé des pièces justificatives à l'égard des écritures de journal. Après avoir reçu les relevés de carte de crédit, il a refusé une partie des déductions demandées parce qu'elles avaient trait à des articles personnels achetés pour la famille Dhillon et n'avaient aucun lien avec l'entreprise. Monsieur Jawandha a témoigné qu'il avait donné le bénéfice du doute à l'appelante pour bon nombre de déductions. Par exemple, il a traité tous les repas de plus de 50 $ comme des dépenses d'entreprise.
+[10] Les déductions refusées à titre de dépenses personnelles s'élevaient à 155 271 $ pour l'année d'imposition 2003 et à 143 241 $ pour l'année d'imposition 2004. La plupart des déductions refusées étaient liées à des achats faits au moyen des cartes de crédit, mais d'autres avaient trait aux frais d'utilisation personnelle d'une automobile par M. Dhillon et à des primes d'assurance vie.
+[11] En plus d'établir des cotisations à l'égard de l'appelante, le ministre du Revenu national a établi des cotisations à l'endroit de M. Dhillon pour inclure ces sommes dans le revenu de ce dernier à titre d'avantages conférés à un actionnaire, en application du paragraphe 15(1) de la Loi.
+[12] L'appelante ne nie pas que ces sommes ont été incluses dans les revenus de M. Dhillon à juste titre, mais elle soutient qu'elle devrait pouvoir les déduire pour éviter leur double imposition.
+[13] L'évitement de conséquences fiscales dures n'est pas suffisant pour justifier une déduction. Si les dépenses en question constituaient des sommes que M. Dhillon s'était attribuées en sa qualité d'actionnaire, la loi ne donne pas droit à une déduction, car ces sommes n'avaient pas été dépensées en vue de générer un revenu.
+[14] Une telle déduction est interdite par l'alinéa 18(1)a) de la Loi, qui est ainsi rédigé :
+18(1) Dans le calcul du revenu du contribuable tiré d'une entreprise ou d'un bien, les éléments suivants ne sont pas déductibles :
+a) les dépenses, sauf dans la mesure où elles ont été engagées ou effectuées par le contribuable en vue de tirer un revenu de l'entreprise ou du bien;
+[...]
+[15] Un paiement qui n'est pas fait dans le cours des activités d'une entreprise, mais qui constitue plutôt une attribution à un actionnaire, est assujetti à cette interdiction. La loi tient manifestement compte du caractère dur de ce résultat, sans doute pour décourager ceux qui seraient tentés de commettre des abus.
+[16] Si les dépenses personnelles avaient été payées sous la forme de rémunération pour des services rendus plutôt que sous celle d'attributions à un actionnaire, elles pourraient être déduites à titre de dépenses d'entreprise, à condition d'être raisonnables.
+[17] Selon ce que j'ai compris, ce n'était pas la position de l'appelante. Le seul argument présenté par celle‑ci portait sur l'évitement de la double imposition.
+[18] De toute manière, la preuve ne permet pas de conclure que ces sommes devaient servir à rémunérer des services rendus. Dans l'ensemble, les éléments de preuve présentés donnent à penser que ni l'appelante ni M. Dhillon n'avaient l'intention de traiter ces sommes comme une rémunération.
+[19] Les sommes en question étaient très importantes par rapport aux autres revenus de M. Dhillon. Si ce dernier avait voulu que ces sommes constituent une rémunération, il aurait pris les mesures nécessaires et aurait inclus les sommes dans ses revenus.
+[20] Loin de là, M. Dhillon n'a pas inclus les sommes dans les revenus qu'il a déclarés et M. Sammy a faussement consigné les sommes dans les livres comptables de l'appelante. J'ai conclu qu'il est fort peu probable que M. Sammy ait agi indépendamment à cet égard, et ce, malgré le fait que M. Dhillon et M. Sammy aient tous deux affirmé le contraire.
+[21] Vu les éléments de preuve présentés, il faut raisonnablement conclure que M. Dhillon n'a jamais eu l'intention de traiter les sommes comme une rémunération à l'égard de laquelle il lui aurait fallu payer de l'impôt. Il avait plutôt l'intention de retirer ces fonds à son profit et à celui de sa famille sans avoir à payer d'impôt. Simplement dit, il s'est fait prendre.
+[22] Monsieur Sammy et M. Dhillon ont témoigné qu'ils n'avaient pas discuté de la façon dont ces sommes allaient être inscrites dans les états financiers de la société. J'ai trouvé leur témoignage vague et peu convaincant.
+[23] Il est contraire au bon sens qu'un commis comptable puisse inscrire faussement des dépenses de cette nature sans la participation du propriétaire de l'entreprise. Monsieur Sammy a témoigné avoir inscrit chaque paiement relatif aux cartes de crédit dans le compte de la société auquel la majorité des dépenses correspondaient. Cela n'a aucun sens dans le cas des cartes de crédit utilisées par la famille de M. Dhillon. Cette affirmation est aussi démentie par les relevés de carte de crédit déposés en preuve (pièce R‑1).
+[24] L'avocat de l'appelante a soutenu que je devrais accepter le témoignage de M. Sammy parce que ce témoignage n'était pas intéressé. Je ne suis pas d'accord. Monsieur Sammy est employé comme commis comptable par des sociétés dont M. Dhillon est l'unique propriétaire. Monsieur Sammy a participé à l'inscription de fausses écritures de journal, et ce, semble‑t‑il, simplement pour aider M. Dhillon à éviter de payer de l'impôt sur ces sommes. J'ai de bonnes raisons de trouver le témoignage de M. Sammy suspect.
+Les dépenses relatives aux sociétés liées
+[25] Comme je l'ai mentionné précédemment, certains des achats faits au moyen des cartes de crédit avaient un lien avec les entreprises. Sur les relevés de carte de crédit, M. Dhillon inscrivait le nom d'autres sociétés dont il était l'unique propriétaire à côté de certaines transactions. On a reconnu que ces achats avaient été faits pour les autres sociétés et que l'appelante les avait payés.
+[26] Dans les cotisations, la déduction de ces achats a été refusée en partant du principe qu'ils n'avaient pas été faits pour que l'appelante produise un revenu.
+[27] Je ne sais pas exactement à combien s'élevaient les déductions refusées à cet égard, mais elles semblent dépasser 150 000 $ pour les deux années en cause. Cette estimation est basée sur le montant total des déductions refusées à l'égard des cartes de crédit qui excède les dépenses personnelles qui avaient été incluses dans les revenus de M. Dhillon (pièce R‑1, onglets 2 et 3).
+[28] L'appelante soutient qu'elle a le droit de déduire ces dépenses parce que les sociétés liées fournissaient des services à l'appelante en contrepartie, notamment les services d'entretien de camions fournis par une entreprise dénommée Apple Autobody. On a affirmé qu'il n'y avait pas eu d'autre paiement pour ces services.
+[29] Monsieur Sammy a témoigné qu'il conservait un registre informel pour faire le suivi de cette entente de troc. Ce document n'a pas été conservé.
+[30] Le témoignage vague de M. Sammy selon lequel il tenait un registre des biens et des services fournis à l'appelante par les sociétés liées ne m'a pas convaincue. Si M. Sammy avait été assez prudent pour tenir un tel registre, il aurait sûrement été assez prudent pour le conserver.
+[31] Il se peut très bien que les sociétés liées aient fourni des services à l'appelante, mais il est impossible d'en déterminer la valeur sans consulter un registre de ces transactions. Je ne dispose d'aucun élément de preuve fiable pour juger si les déductions demandées par l'appelante pour ces dépenses sont raisonnables. Comme l'ont souvent affirmé les juges de la Cour, si le résultat est dur, l'appelante ne peut s'en prendre qu'à elle-même, car elle n'a pas tenu de registre satisfaisant.
+Les déductions demandées en double
+[32] Monsieur Sammy a témoigné qu'il ne consignait pas immédiatement les dépenses et que les livres comptables étaient seulement mis à jour périodiquement.
+[33] Le vérificateur a découvert un certain nombre de dépenses qui avaient été consignées deux fois, ce qui a entraîné un doublement de certaines demandes de déduction. Le vérificateur a refusé ces déductions demandées en double.
+[34] Les déductions refusées parce qu'elles avaient été demandées en double s'élèvent à 19 556 $ pour l'année d'imposition 2003 et à 186 892 $ pour l'année d'imposition 2004.
+[35] L'appelante ne nie pas l'existence de ces doublements, mais elle soutient que, pour chacune des années en cause, des écritures de correction ont été faites le 31 décembre 2004, lorsque M. Sammy s'est rendu compte que des écritures avaient été faites deux fois.
+[36] Cette explication ne m'a pas convaincue. D'abord, les prétendues écritures de correction ne semblent pas, à première vue, avoir trait à ce problème (pièce A‑1, onglet 3, feuilles volantes). Ensuite, selon les notes du vérificateur, aucune explication au sujet des écritures en double ne lui a été fournie pendant la vérification. Je rejette le témoignage de M. Sammy selon lequel il avait fait les écritures de correction nécessaires à l'égard des écritures en double. Ces déductions ont été refusées à juste titre.
+Les pénalités
+[37] Des pénalités ont été imposées à l'appelante relativement aux paiements des comptes des cartes de crédit dont la déduction avait été refusée, lesquels totalisent 273 784 $ pour l'année d'imposition 2003 et 208 368 $ pour l'année d'imposition 2004. Ces sommes incluent les dépenses personnelles faites par la famille Dhillon et les achats faits pour les sociétés liées.
+[38] Le passage pertinent du paragraphe 163(2) de la Loi est ainsi rédigé :
+163(2) Toute personne qui, sciemment ou dans des circonstances équivalant à faute lourde, fait un faux énoncé ou une omission dans une déclaration, un formulaire, un certificat, un état ou une réponse (appelé « déclaration » au présent article) rempli, produit ou présenté, selon le cas, pour une année d'imposition pour l'application de la présente loi, ou y participe, y consent ou y acquiesce est passible d'une pénalité égale, sans être inférieure à 100 $, à 50 % du total des montants suivants :
+a) l'excédent éventuel du montant visé au sous‑alinéa (i) sur le montant visé au sous‑alinéa (ii) :
+(i) l'excédent éventuel de l'impôt qui serait payable par cette personne pour l'année en vertu de la présente loi sur les sommes qui seraient réputées par les paragraphes 120(2) et (2.2) payées au titre de l'impôt de la personne pour l'année, s'il était ajouté au revenu imposable déclaré par cette personne dans la déclaration pour l'année la partie de son revenu déclaré en moins pour l'année qu'il est raisonnable d'attribuer au faux énoncé ou à l'omission et si son impôt payable pour l'année était calculé en soustrayant des déductions de l'impôt payable par ailleurs par cette personne pour l'année, la partie de ces déductions qu'il est raisonnable d'attribuer au faux énoncé ou à l'omission,
+(ii) l'excédent éventuel de l'impôt qui aurait été payable par cette personne pour l'année en vertu de la présente loi sur les sommes qui auraient été réputées par les paragraphes 120(2) et (2.2) payées au titre de l'impôt de la personne pour l'année, si l'impôt payable pour l'année avait fait l'objet d'une cotisation établie d'après les renseignements indiqués dans la déclaration pour l'année;
+[...]
+[39] Le paragraphe 163(3) de la Loi impose le fardeau de la preuve à l'intimée. Cette disposition est ainsi rédigée :
+163(3) Dans tout appel interjeté, en vertu de la présente loi, au sujet d'une pénalité imposée par le ministre en vertu du présent article ou de l'article 163.2, le ministre a la charge d'établir les faits qui justifient l'imposition de la pénalité.
+[40] Plusieurs éléments de la disposition relative aux pénalités peuvent être pertinents en l'espèce. Premièrement, le contribuable doit avoir fait un faux énoncé ou une omission dans une déclaration, un formulaire, un certificat, un état ou une réponse. Deuxièmement, le contribuable doit avoir fait le faux énoncé ou l'omission sciemment ou dans des circonstances équivalant à faute lourde. Troisièmement, le montant de la pénalité doit être calculé en fonction du revenu non déclaré qu'il est raisonnable d'attribuer au faux énoncé ou à l'omission. Au minimum, la pénalité est de 100 $.
+[41] À mon avis, il est justifié de réduire le montant des pénalités en l'espèce.
+[42] Une partie du montant des pénalités correspond aux achats faits pour les sociétés liées. Compte tenu des éléments de preuve présentés, il est fort possible que ces erreurs soient attribuables à une tenue de comptes négligente. Dans ce cas, il s'agirait de négligence, sans atteindre le seuil du geste délibéré ou de la faute lourde exigé au paragraphe 163(2).
+[43] Par exemple, je note que M. Dhillon s'est donné la peine d'inscrire sur les relevés de carte de crédit le nom des sociétés pour lesquelles les achats avaient été faits. À première vue, il semble que M. Dhillon voulait que les dépenses soient inscrites dans les livres comptables de la bonne société. Le fait que le commis comptable ne l'ait pas fait ne veut pas dire que l'appelante a agi sciemment ou dans des circonstances équivalant à faute lourde.
+[44] L'intimée a avancé que les sociétés appartenant à M. Dhillon avaient peut‑être réduit leur impôt à payer en faisant demander les déductions par l'appelante. On a sous‑entendu que cette façon de faire relevait peut‑être de l'évitement fiscal plutôt que d'une simple tenue de comptes négligente. Le vérificateur a témoigné que les autres sociétés avaient peut‑être demandé les mêmes déductions que l'appelante ou demandé des déductions gonflées pour petites entreprises.
+[45] Les préoccupations exprimées par le vérificateur peuvent très bien être justifiées vu les circonstances de la présente affaire. Cependant, aucun élément de preuve n'a été présenté pour étayer cette position. À mon avis, l'intimée ne s'est pas déchargée du fardeau de la preuve qui lui incombait à cet égard.
+[46] Pour ce qui est des dépenses personnelles de la famille Dhillon, j'ai conclu que les pénalités ont été imposées à juste titre. Il a été reconnu que les déductions demandées sous les rubriques « réparation et entretien » et « déplacements » avaient été faussement demandées. Compte tenu de l'importance de ces sommes, les fausses demandes de déduction ont été faites sciemment ou dans des circonstances équivalant à faute lourde, c'est‑à‑dire par aveuglement volontaire.
+[47] De plus, le fait de demander des déductions sous les rubriques « réparation et entretien » et « déplacements » alors que les dépenses n'avaient rien à voir avec ces catégories a entraîné une omission de déclarer une partie des revenus de l'appelante qu'il est raisonnable d'attribuer aux faux énoncés.
+[48] Tous les éléments nécessaires à l'imposition d'une pénalité relativement aux dépenses personnelles de la famille Dhillon ont été établis.
+[49] Cette conclusion s'appuie sur un certain nombre de décisions citées par l'avocat de l'intimée : 2622‑4121 Québec inc. c. La Reine, 2005 CCI 238, 2005 D.T.C. 769, 2960‑0731 Québec inc. c. La Reine, 2006 CCI 270, 2006 D.T.C. 3356, Vialink Inc. c. La Reine, 2009 CCI 117, et Harland Associates 02 Inc. c. La Reine, 2010 CCI 105.
+Dispositif
+[50] Par conséquent, l'appel est accueilli, mais seulement en ce qui a trait aux pénalités pour faute lourde imposées pour les dépenses faites pour les sociétés liées. Le reste de l'appel est rejeté. Comme l'intimée a eu gain de cause dans une grande mesure, elle a droit à ses dépens.
+Les présents motifs modifiés du jugement remplacent les motifs du 4 juin 2010.
+Signé à Edmonton (Alberta), ce 23e jour de juin 2010.
+« J. M. Woods »
+Le juge Woods
+Traduction certifiée conforme
+ce 24e jour d'août 2010.
+Yves Bellefeuille, réviseur
+RÉFÉRENCE :
+2010 CCI 310
+No DU DOSSIER DE LA COUR :
+2007-3161(IT)G
+INTITULÉ :
+JDI 2000 Transport Ltd. c. Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+Vancouver (Colombie‑Britannique)
+DATES DE L'AUDIENCE :
+Les 20 et 21 mai 2010
+MOTIFS DU JUGEMENT :
+L'honorable juge J. M. Woods
+DATE DU JUGEMENT :
+Le 4 juin 2010
+DATE DES MOTIFS MODIFIÉS DU JUGEMENT :
+Le 23 juin 2010
+COMPARUTIONS :
+Avocat de l'appelante :
+Me R. Keith Oliver
+Avocat de l'intimée :
+Me Victor Caux
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelante :
+Nom :
+R. Keith Oliver
+Cabinet :
+Oliver & Co.
+Coquitlam (Colombie‑Britannique)
+Pour l'intimée :
+Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada

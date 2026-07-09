@@ -1,0 +1,196 @@
+Title: Helgesen v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/144090/index.do
+Corpus path: corpus/cases/tcc/2016/2016-tcc-114-144090-helgesen-v-the-queen-en.md
+Document type: case_law
+Last modified: 2016-05-05
+
+# Helgesen v. The Queen
+
+- Citation: 2016 TCC 114
+- Decision date: 2016-05-05
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3075, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Helgesen v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2016-05-05
+Neutral citation
+2016 TCC 114
+File numbers
+2013-1957(IT)G
+Judges and Taxing Officers
+Sylvain Ouimet
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2013-1957(IT)G
+BETWEEN:
+Thomas Helgesen,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on December 9, 2015, at Grande Prairie, Alberta.
+Before: The Honourable Justice Sylvain Ouimet
+Appearances:
+Counsel for the Appellant:
+Neil T. Mather
+Counsel for the Respondent:
+Gregory Perlinski
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act, notice of which is dated February 27, 2013 and bears number 2121082, is dismissed, with costs.
+Signed at Ottawa, Canada, this 5th day of May 2016.
+“Sylvain Ouimet”
+Ouimet J.
+Citation: 2016 TCC 114
+Date: 20160505
+Docket: 2013-1957(IT)G
+BETWEEN:
+Thomas Helgesen,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Ouimet J.
+INTRODUCTION [1] This is an appeal from a director's liability assessment made against the Appellant pursuant to section 227.1 of the Income Tax Act (the "ITA"). The Minister of National Revenue (the "Minister") assessed the Appellant as a director of 1072519 Alberta Ltd. (the “Corporation”) for tax and unremitted payroll deductions under the ITA, the Canada Pension Plan (the "CPP"), the Employment Insurance Act (the "EIA") and the Alberta Personal Income Tax Act.
+ISSUE [2] The issue in this appeal is as follows:
+Whether the Appellant is liable, as a director of the Corporation, for unremitted payroll deduction and tax, including related interest and penalties in the amount of $111,482.41.
+[3] In answering this question, I will conduct an analysis to determine whether the Appellant exercised the degree of care, diligence and skill that a reasonably prudent person would have exercised in comparable circumstances in order to prevent the Corporation’s failure to remit.
+THE relevant LEGISLATIVE PROVISIONS [4] The key applicable provisions of the ITA are:
+153. (1) Withholding — Every person paying at any time in a taxation year
+(a) salary, wages or other remuneration, other than amounts described in subsection 115(2.3) or 212(5.1),
+. . .
+shall deduct or withhold from the payment the amount determined in accordance with prescribed rules and shall, at the prescribed time, remit that amount to the Receiver General on account of the payee’s tax for the year under this Part or Part XI.3, as the case may be, and, where at that prescribed time the person is a prescribed person, the remittance shall be made to the account of the Receiver General at a designated financial institution.
+. . .
+227. (4) Trust for moneys deducted — Every person who deducts or withholds an amount under this Act is deemed, notwithstanding any security interest (as defined in subsection 224(1.3)) in the amount so deducted or withheld, to hold the amount separate and apart from the property of the person and from property held by any secured creditor (as defined in subsection 224(1.3)) of that person that but for the security interest would be property of the person, in trust for Her Majesty and for payment to Her Majesty in the manner and at the time provided under this Act.
+. . .
+227.1. (1) Liability of directors for failure to deduct — Where a corporation has failed to deduct or withhold an amount as required by subsection 135(3) or 135.1(7) or section 153 or 215, has failed to remit such an amount or has failed to pay an amount of tax for a taxation year as required under Part VII or VIII, the directors of the corporation at the time the corporation was required to deduct, withhold, remit or pay the amount are jointly and severally, or solidarily, liable, together with the corporation, to pay that amount and any interest or penalties relating to it.
+. . .
+(3) Idem — A director is not liable for a failure under subsection 227.1(1) where the director exercised the degree of care, diligence and skill to prevent the failure that a reasonably prudent person would have exercised in comparable circumstances.[1]
+[5] The key applicable provisions of the CPP are:
+21.(1) Amount to be deducted and remitted by employer — Every employer paying remuneration to an employee employed by the employer at any time in pensionable employment shall deduct from that remuneration as or on account of the employee’s contribution for the year in which the remuneration in respect of the pensionable employment is paid to the employee any amount that is determined in accordance with prescribed rules and shall remit that amount, together with any amount that is prescribed with respect to the contribution required to be made by the employer under this Act, to the Receiver General at any time that is prescribed and, if at that prescribed time the employer is a prescribed person, the remittance shall be made to the account of the Receiver General at a financial institution (within the meaning that would be assigned by the definition “financial institution” in subsection 190(1) of the Income Tax Act if that definition were read without reference to its paragraphs (d) and (e)).
+. . .
+21.1. (1) Liability — If an employer who fails to deduct or remit an amount as and when required under subsection 21(1) is a corporation, the persons who were the directors of the corporation at the time when the failure occurred are jointly and severally or solidarily liable, together with the corporation, to pay to Her Majesty that amount and any interest or penalties relating to it.
+(2) Application of Income Tax Act provisions — Subsections 227.1(2) to (7) of the Income Tax Act apply, with such modifications as the circumstances require, in respect of a director of a corporation referred to in subsection (1).[2]
+[6] The key applicable provisions of the EIA are:
+82. (1) Deduction and payment of premiums — Every employer paying remuneration to a person they employ in insurable employment shall
+(a) deduct the prescribed amount from the remuneration as or on account of the employee’s premium payable by that insured person under section 67 for any period for which the remuneration is paid; and
+(b) remit the amount, together with the employer’s premium payable by the employer under section 68 for that period, to the Receiver General at the prescribed time and in the prescribed manner.
+. . .
+83. (1) Liability of directors — If an employer who fails to deduct or remit an amount as and when required under subsection 82(1) is a corporation, the persons who were the directors of the corporation at the time when the failure occurred are jointly and severally, or solidarily, liable, together with the corporation, to pay Her Majesty that amount and any related interest or penalties.
+(2) Application of Income Tax Act provisions — Subsections 227.1(2) to (7) of the Income Tax Act apply, with such modifications as the circumstances require, to a director of the corporation.[3]
+[7] The key applicable provision of the Alberta Personal Income Tax Act is:
+77. Liability of directors — Section 227.1 of the federal Act applies for the purposes of this Act.[4]
+[8] The key applicable provision of the Tax Collection Agreement between Canada and Alberta is:
+4.7. (1) Any actions, suits, prosecutions or other legal proceedings instituted by or against the Crown in respect of any tax measure administered by Canada pursuant to this Agreement, will be conducted by Canada on behalf of the Province
+(a) in the same name in which that action, suit, prosecution or other legal proceeding would have been brought or taken if brought or taken under corresponding provisions of the Federal Act.[5]
+THE relevant FACTS [9] Thomas Helgesen testified at trial. The Respondent called Everett Gene Pyle (“Mr. Pyle”) and a CRA representative, Jon David Hill.
+A. Admissions [10] At trial, the Appellant admitted some of the Minister’s assumptions of fact found in paragraph 15 of the Respondent’s Reply to the Notice of Appeal. The admitted assumptions of fact are the following:
+a) 1072519 Alberta Ltd (the “Corporation”) was incorporated on October 22, 2003;
+b) Upon incorporation, the Appellant became a director and 50% shareholder of the Corporation;
+c) The other director and shareholder of the Corporation was Gene Pyle (“Mr. Pyle”), whose wife, Pauline Pyle (“Mrs. Pyle”), was the Corporation’s bookkeeper;
+d) The Corporation’s business was in the nature of operating a franchise (the “Business Franchise”) of O.K. Tire Stores Inc.;
+e) The Corporation operated its Franchise Business of tire sales and auto service under the trade name of O.K. Tire & Auto Service (Fairview) since February 2, 2004, and registered this trade name on March 18, 2004;
+f) The Appellant was sole director and shareholder of a numbered company registered as 736000 Alberta Ltd., which owned a commercial building that it leased to the Corporation to operate its Business Franchise;
+g) In 2004, the Appellant loaned Gene and Pauline Pyle the following amounts:
+DATE AMOUNT
+January 12, 2004 $5,000.00
+January 27, 2004 $5,000.00
+February 17, 2004 $25,000.00
+Total $35,000.00
+h) The Appellant engaged in typical duties and responsibilities of a director in relation to the Corporation, including personally paying and guaranteeing the Corporation’s debts as follows:
+i) On January 27, 2004, the Appellant provided personal funds to pay the franchise fee on behalf of the Corporation of $5,001.00;
+ii) On January 28, 2004, the Appellant co-signed a personal guarantee for the Corporation’s Franchise Business in relation to a credit policy between O.K. Tire Stores Inc. and the Corporation;
+iii) On February 20, 2004, the Appellant co-signed (with Mr. Pyle) on behalf of the Corporation a purchase money security agreement between O.K. Tire Stores Inc. and the Corporation;
+iv) On January 12, 2004, the Corporation opened a bank account with Common Wealth Credit Union, and authorized overdraft was set up on the same account on May 17, 2004; and
+v) On or about May 20, 2004, the appellant signed a personal guarantee in the amount of $40,000.00 for joint and several liability with the Corporation in relation to the Corporation’s bank account;
+i) From incorporation, the responsibility for day to day decisions of the Corporation rested with the other director, Mr. Pyle and his wife, who was responsible for all bookkeeping for the Corporation;
+. . .
+k) From January 4, 2008 onwards, the Corporation failed to remit payroll and GST deductions, and was assessed related interest and penalties, as set out in Schedule “A” of this Reply;
+l) On or about February 19, 2008, the Minister advised the Appellant that the Corporation owed the amount of $111,046.31 for unremitted payroll deductions and GST, and advised the Appellant could be held personally liable for this debt (“Initial Debt”);
+. . .
+r) On or about January 28, 2010, the Appellant loaned Mr. Pyle and Mrs. Pyle the amount of $55,000.00 but:
+. . .
+iii) The Appellant did not choose to give this amount directly to the Minister as a payment towards the outstanding Debt;
+. . .
+cc) The Appellant continued to be a director of the Corporation at the time the Assessment was issued on or about October 31, 2011, in the amount of $184,801.88.
+B. Context [11] The Appellant is an experienced businessman with a long history of business and property ownership in Fairview, Alberta, and the surrounding area. From 1993 to 2005, the Appellant owned and was a director of Russell Helgesen Contracting, also known as HCL National or HCL (“Helgesen Contracting”). Helgesen Contracting had approximately 150 employees. The Appellant’s involvement in Helgesen Contracting included giving instructions to the accountants and helping with the banking. The Appellant also owned and operated a separate numbered company that rented equipment to Helgesen Contracting.
+[12] Between 2005 and 2011, in addition to the Corporation and to 736000 Alberta Ltd., the Appellant was involved in a slashing company and companies named Clear Prairie Open Camp, Fairview Classic Collision, and Clear Prairie Gravel.
+[13] The Appellant’s current business is Clear Prairie Gravel, a company he has been operating for the past five or six years. This company employs approximately two to seven employees at any given time.
+C. The Corporation [14] In 2000, the Appellant acquired a commercial building through 736000 Alberta Ltd., a corporation that he owned and operated. The building was empty during the first two years of ownership, from 2000 to 2002. Around that time, the Appellant met Mr. Pyle through an O.K. Tire representative. The representative became aware that the Appellant owned a commercial building and asked him if he would like to house an O.K. Tire franchise. The Appellant was interested, but Mr. Pyle had no credit or funds to operate the business. As a result, 1072519 Alberta Ltd. was incorporated on October 22, 2003. The Appellant became a 50% shareholder and director of the Corporation. The Corporation’s business was the operation of an O.K. Tire franchise in Fairview, Alberta (the “Business”). Mr. Pyle was the only other director and shareholder of the Corporation.
+[15] From incorporation, the responsibility for day-to-day decisions of the Corporation rested with Mr. Pyle. Mr. Pyle was the owner-manager of the Business and Mrs. Pyle was the bookkeeper and worked at the front desk. The Appellant testified that he had no role in the Business except for being an outside director. The Appellant contributed funds and he helped to establish the Business, as Mr. Pyle had neither credit nor funds. The Appellant contributed $35,000 as a shareholder loan. The $35,000 is the sum of the following amounts: a $5,000 payment made on January 12, 2004, a $5,000 payment (for the start‑up franchise fee) made on January 27, 2004, [6] and a $25,000 payment made on February 17, 2004.
+[16] A bank account was opened in the Corporation’s name at the Common Wealth Credit Union on January 12, 2004. The Appellant provided a personal guarantee to the O.K. Tire franchisor through a Credit Policy dated January 28, 2004 and a Purchase Money Security Agreement dated February 20, 2004. [7] On May 20, 2004, in order to obtain a line of credit, another guarantee, of $40,000, was given to the Common Wealth Credit Union, as confirmed through a letter dated September 25, 2008 from the credit union to the CRA. The Appellant had signing authority for the Corporation’s bank account. However, he testified that he never wrote any cheques because he believed that it would have been inappropriate to do so given that the Corporation “wasn’t [his] business”.
+Analysis [17] Under section 227.1 of the ITA, section 21.1 of the CPP and section 83 of the EIA, where a corporation is an employer, the directors of the corporation are jointly and severally liable with the corporation for the failure of the corporation to remit amounts under subsection 153(1) of the ITA, subsection 21(1) of the CPP and subsection 82(1) of the EIA.
+[18] Subsection 21.1(2) of the CPP, subsection 83(2) of the EIA and section 77 of the Alberta Personal Income Tax Act provide that section 227.1 of the ITA applies to a director of such a corporation.
+[19] Subsection 227.1(3) of the ITA provides a defence to a director. In Buckingham v Canada,[8] the Federal Court of Appeal (the “FCA”) provides a detailed analysis of the application of subsection 227.1(3) of the ITA.
+[20] In Buckingham, the FCA states that subsection 227.1(3) of the ITA does not set out a general duty of care for a director of a corporation, but rather provides for a defence to the specific liability set out in subsection 227.1(1).[9] In order to plead such a defence, a director has to prove that he exercised the requisite degree of care, diligence and skill to prevent the failure to remit the required amounts. Subsection 227.1(3) of the ITA refers to the degree of care, diligence and skill “that a reasonably prudent person would have exercised in comparable circumstances.”[10]
+[21] The FCA also states that the reference in that subsection to a reasonably prudent person is a clear indication that the test is an objective one and that, consequently, the standard of care, skill and diligence required under subsection 227.1(3) of the ITA is an objective standard as set out by the Supreme Court of Canada in Peoples Department Stores Inc. (Trustee of) v Wise, 2004 SCC 68, [2004] 3 SCR 461.[11]
+[22] Moreover, a person who is appointed as a director must carry out the duties of that function on an active basis. The director must establish that he turned his attention to the required remittances with a view to preventing a failure by the corporation to remit these amounts.[12]A director will not be allowed to defend a claim for malfeasance in the discharge of his or her duties by relying on his or her own inaction.[13]
+[23] On the evidence before me, I conclude that the Appellant did not act the way a reasonably prudent person would have in comparable circumstances in order to prevent the Corporation’s failure to remit.
+[24] Prior to February 19, 2008, the Appellant was told by Mr. Pyle that the Business was doing well while in reality the Corporation had failed to remit amounts owed to the CRA and was actually experiencing financial difficulties.
+[25] On February 19, 2008, the Appellant received a letter from the CRA stating that the Corporation was in arrears with its GST and payroll deduction remittances. The Appellant had an agreement with the CRA that stated that he was not liable for the failure to remit prior to February 19, 2008. He was therefore well aware of the failure to remit from then on.
+[26] After receiving that letter, the Appellant did turn his attention to the Corporation’s failure to remit. He spoke to the Pyles about the issue and the need to be diligent with remittances. He stopped by the Business every two or three months to check up on matters. But, in doing so, he did not exercise the degree of care, diligence and skill that a reasonably prudent person would have exercised in comparable circumstances. It simply was not enough in the circumstances.
+[27] I believe that, in the circumstances, a reasonably prudent person would have investigated whether remittance payments were being made to the CRA. The Appellant continued to rely on Mr. Pyle to ensure that the remittances were up to date despite his knowledge of the Corporation’s poor financial performance. The Appellant did not personally check with the CRA to see if remittance payments were being made, nor did he show any distrust of the assurances being provided by the Pyles that they were taking care of the remittances. The Appellant had signing authority for the Corporation’s bank account and he could have investigated the matter and acted to ensure that the debt to the CRA was being paid off by making payments himself and by monitoring the situation with regard to future required payments.
+[28] The Appellant continued to allow Mr. Pyle and his wife to make day‑to‑day decisions for the Corporation. He chose not to review any of the Corporation’s documents other than the occasional year-end document. The Appellant testified that he would hire someone to do this on his behalf; however, it never happened.
+[29] The Appellant also chose to rely on the Pyles despite the fact that, on July 16, 2008, July 18, 2008 and August 27, 2008, he had received letters from the CRA stating that source deductions were still owed and that the CRA was considering assessing him under section 227.1 of the ITA.[14] The Appellant could have contacted the CRA directly or simply asked Mr. Pyle for proof of payment. Instead, he chose to rely only on Mr. Pyle’s word. I believe that a reasonably prudent person would not have acted in this fashion.
+[30] The Appellant testified that, on or about January 28, 2010, he forgave $55,000 in rent arrears. He stated that he did this so that the Business could pay the CRA. What the Appellant did was to write a cheque in the amount of $55,000 to the Business. The cheque was deposited in the Business’s bank account on January 28, 2010. The same day, the Business wrote a cheque to 736000 Alberta Ltd. for $54,897. [15] The two transactions happened on the same day and the Appellant testified that this was done for accounting and tax purposes. Obviously, the amount was not remitted to the CRA.
+[31] It was only on January 27, 2011, while he was a director of the Corporation, that the Appellant wrote to the CRA stating that he was being misled by the Pyles about the status of the remittances.[16] The Appellant cannot assert the malfeasance of the Pyles as a defence with regard to his failure to discharge his duties.
+conclusion [32] On the facts before me, I conclude that the Appellant did not demonstrate that, as a director of the Corporation, he exercised the requisite degree of care, diligence and skill to prevent the Corporation’s failure to remit. The Appellant did not exercise the degree of care, diligence and skill that a reasonably prudent person would have exercised in comparable circumstances to prevent that failure. Therefore, the requirement for the due diligence defence found in subsection 227.1(3) of the ITA are not satisfied in this case and the Appellant is liable under section 227.1 of the ITA for the Corporation’s unremitted payroll deductions and tax, including related interest and penalties, in the amount of $111,482.41.
+[33] For all these reasons, the appeal is dismissed, with costs.
+Signed at Ottawa, Canada, this 5th day of May 2016.
+“Sylvain Ouimet”
+Ouimet J.
+CITATION:
+2013 TCC 114
+COURT FILE NO.:
+2013-1957(IT)G
+STYLE OF CAUSE:
+Thomas Helgesen v HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Grande Prairie, Alberta
+DATE OF HEARING:
+December 9, 2015
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Sylvain Ouimet
+DATE OF JUDGMENT:
+May 5, 2016
+APPEARANCES:
+Counsel for the Appellant:
+Neil T. Mather
+Counsel for the Respondent:
+Gregory Perlinski
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Neil T. Mather
+Firm:
+Neil T. Mather Professional Corporation
+Edmonton, Alberta
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Income Tax Act, RSC 1985, c 1 (5th Supp), ss 153, 227, 227.1.
+[2] Canada Pension Plan, RSC 1985, c C-8, ss 21, 21.1.
+[3] Employment Insurance Act, SC 1996, c 23, ss 82, 83.
+[4] Alberta Personal Income Tax Act, RSA 2000, c A-30, s 77.
+[5] Tax Collection Agreement between the Government of Canada and the Government of the Province of Alberta, March 8, 2005, available at <http://www.qp.alberta.ca/documents/orders/Orders_in_Council/2005/305/2005_112.html>.
+[6] The payment was actually $5,001, see Respondent’s Book of Documents, Exhibit R-3, Tab 24b.
+[7] Respondent’s Book of Documents, Exhibit R-1, Tab 19; Exhibit R-3, Tab 24a.
+[8] Buckingham v Canada, 2011 FCA 142, [2013] 1 FCR 86.
+[9] Ibid., paragraph 33.
+[10] Ibid., paragraph 35.
+[11] Ibid., paragraphs 35 and 37.
+[12] Ibid., paragraph 40.
+[13] Ibid., paragraph 38 and Kevin Patrick McGuinness, Canadian Business Corporations Law, 2nd ed (Markham, Ont: LexisNexis, 2007) at §11.9.
+[14] Respondent’s Book of Documents, Exhibit R-6, Tab 14; Exhibit R-7, Tab 15; Exhibit R-8, Tab 16.
+[15] Exhibit R-9.
+[16] Exhibit A-1.

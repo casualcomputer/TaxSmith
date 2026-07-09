@@ -1,0 +1,999 @@
+Title: Les Entreprises Mallet Ltée c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26566/index.do
+Corpus path: corpus/cases/tcc/2004/2004-cci-409-26566-les-entreprises-mallet-lt-e-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2004-06-22
+
+# Les Entreprises Mallet Ltée c. M.R.N.
+
+- Citation: 2004 CCI 409
+- Decision date: 2004-06-22
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3574, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Les Entreprises Mallet Ltée c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-06-22
+Référence neutre
+2004 CCI 409
+Numéro de dossier
+2002-4440(EI)
+Juges et Officiers taxateurs
+François M. Angers
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossiers : 2002-4440(EI)
+2002-4441(EI)
+2002-4443(EI)
+2002-4444(EI)
+ENTRE :
+LES ENTREPRISES MALLET LTÉE,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+____________________________________________________________________
+Appels entendus sur preuve commune avec les appels de
+Gilberte Chiasson (2002-4301(EI)),
+Joanne Mallet (2002-4303(EI)) et (2003-1167(EI)),
+Jacinthe Mallet (2002-4304(EI)) et (2003-1166(EI)),
+Diane Mercier (2002-4305(EI)) et (2003-1165(EI))
+le 17 mai 2004 à Bathurst (Nouveau-Brunswick)
+Devant : L'honorable juge François Angers
+Comparutions :
+Avocat des appelantes :
+Me Basile Chiasson
+Avocat de l'intimé :
+Me Claude Lamoureux
+____________________________________________________________________
+JUGEMENT
+Les appels sont rejetés et les décisions rendues par le ministre du Revenu national sont confirmées selon les motifs du jugement ci-joints.
+Signé à Edmundston, Nouveau-Brunswick, ce 22e jour de juin 2004.
+« François Angers »
+Juge Angers
+Dossier : 2002-4301(EI)
+ENTRE :
+GILBERTE CHIASSON,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+____________________________________________________________________
+Appel entendu sur preuve commune avec les appels de
+Les Entreprises Mallet Ltée(2002-4440(EI)), (2002-4441(EI)),
+(2002-4443(EI)) et (2002-4444(EI)),
+Joanne Mallet (2002-4303(EI)) et (2003-1167(EI)),
+Jacinthe Mallet (2002-4304(EI)) et (2003-1166(EI)),
+Diane Mercier (2002-4305(EI)) et (2003-1165(EI))
+le 17 mai 2004 à Bathurst (Nouveau-Brunswick)
+Devant : L'honorable juge François Angers
+Comparutions :
+Avocat des appelantes :
+Me Basile Chiasson
+Avocat de l'intimé :
+Me Claude Lamoureux
+____________________________________________________________________
+JUGEMENT
+Les appels sont rejetés et les décisions rendues par le ministre du Revenu national sont confirmées selon les motifs du jugement ci-joints.
+Signé à Edmundston, Nouveau-Brunswick, ce 22e jour de juin 2004.
+« François Angers »
+Juge Angers
+Dossiers : 2002-4303(EI)
+2003-1167(EI)
+ENTRE :
+JOANNE MALLET,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+____________________________________________________________________
+Appels entendus sur preuve commune avec les appels de
+Les Entreprises Mallet Ltée(2002-4440(EI)), (2002-4441(EI)),
+(2002-4443(EI)) et (2002-4444(EI)),
+Gilberte Chiasson (2002-4301(EI)),
+Jacinthe Mallet (2002-4304(EI)) et (2003-1166(EI)),
+Diane Mercier (2002-4305(EI)) et (2003-1165(EI))
+le 17 mai 2004 à Bathurst (Nouveau-Brunswick)
+Devant : L'honorable juge François Angers
+Comparutions :
+Avocat des appelantes :
+Me Basile Chiasson
+Avocat de l'intimé :
+Me Claude Lamoureux
+____________________________________________________________________
+JUGEMENT
+Les appels sont rejetés et les décisions rendues par le ministre du Revenu national sont confirmées selon les motifs du jugement ci-joints.
+Signé à Edmundston, Nouveau-Brunswick, ce 22e jour de juin 2004.
+« François Angers »
+Juge Angers
+Dossiers : 2002-4304(EI)
+2003-1166(EI)
+ENTRE :
+JACINTHE MALLET,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+____________________________________________________________________
+Appels entendus sur preuve commune avec les appels de
+Les Entreprises Mallet Ltée(2002-4440(EI)), (2002-4441(EI)),
+(2002-4443(EI)) et (2002-4444(EI)),
+Gilberte Chiasson (2002-4301(EI)),
+Joanne Mallet (2002-4303(EI)) et (2003-1167(EI)),
+Diane Mercier (2002-4305(EI)) et (2003-1165(EI))
+le 17 mai 2004 à Bathurst (Nouveau-Brunswick)
+Devant : L'honorable juge François Angers
+Comparutions :
+Avocat des appelantes :
+Me Basile Chiasson
+Avocat de l'intimé :
+Me Claude Lamoureux
+____________________________________________________________________
+JUGEMENT
+Les appels sont rejetés et les décisions rendues par le ministre du Revenu national sont confirmées selon les motifs du jugement ci-joints.
+Signé à Edmundston, Nouveau-Brunswick, ce 22e jour de juin 2004.
+« François Angers »
+Juge Angers
+Dossiers : 2002-4305(EI)
+2003-1165(EI)
+ENTRE :
+DIANE MERCIER,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+____________________________________________________________________
+Appels entendus sur preuve commune avec les appels de
+Les Entreprises Mallet Ltée(2002-4440(EI)), (2002-4441(EI)),
+(2002-4443(EI)) et (2002-4444(EI)),
+Gilberte Chiasson (2002-4301(EI)),
+Joanne Mallet (2002-4303(EI)) et (2003-1167(EI)),
+Jacinthe Mallet (2002-4304(EI)) et (2003-1166(EI))
+le 17 mai 2004 à Bathurst (Nouveau-Brunswick)
+Devant : L'honorable juge François Angers
+Comparutions :
+Avocat des appelantes :
+Me Basile Chiasson
+Avocat de l'intimé :
+Me Claude Lamoureux
+____________________________________________________________________
+JUGEMENT
+Les appels sont rejetés et les décisions rendues par le ministre du Revenu national sont confirmées selon les motifs du jugement ci-joints.
+Signé à Edmundston, Nouveau-Brunswick, ce 22e jour de juin 2004.
+« François Angers »
+Juge Angers
+Référence : 2004CCI409
+Date : 20040622
+Dossiers : 2002-4440(EI)
+2002-4441(EI)
+2002-4443(EI)
+2002-4444(EI)
+ENTRE :
+LES ENTREPRISES MALLET LTÉE,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+Dossiers : 2002-4301(EI)
+2002-4303(EI)
+2002-4304(EI)
+2002-4305(EI)
+2003-1165(EI)
+2003-1166(EI)
+2003-1167(EI)
+ENTRE :
+GILBERTE CHIASSON,
+JOANNE MALLET,
+JACINTHE MALLET,
+DIANE MERCIER,
+DIANE MERCIER,
+JACINTHE MALLET,
+JOANNE MALLET,
+appelantes,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+____________________________________________________________________
+MOTIFS DU JUGEMENT
+Le juge Angers
+[1] Il s'agit de onze appels entendus sur preuve commune. Les quatre particuliers qui ont interjeté appel ont, durant les périodes visées par les appels, travaillé pour les Entreprises Mallet Ltée (ci-après « l'Entreprise » ). L'Entreprise a également interjeté appel de la décision du Ministre visant les emplois des quatre appelantes pour les mêmes périodes, sauf celles visées par les dossiers commençant par 2003. Le ministre, dans tous les dossiers, a informé les appelantes que les quatre emplois exercés auprès de l'Entreprise n'étaient pas des emplois assurables au motif qu'ils n'étaient pas régis par un véritable contrat de louage de services. Subsidiairement, si les emplois étaient des véritables contrats de louage de services, ces emplois étaient exclus en raison d'un lien de dépendance réel ou factuel entre les appelantes et l'Entreprise, et ce, en vertu des alinéas 5(1)a), 5(2)i) et 5(3)b) de la Loi sur l'assurance-emploi (LAE) et l'article 251 de la Loi de l'impôt sur le revenu (la « Loi » ). Le premier motif a été ajouté à toutes les réponses aux avis d'appel avant l'audience pour les dossiers où on avait omis de le mentionner.
+[2] Les périodes visées par les appels vont du 8 novembre 1998 au 18 septembre 1999, du 14 novembre 1999 au 26 août 2000, du 22 octobre 2000 au 22 septembre 2001 dans le dossier de l'appelante Gilberte Chiasson, du 28 janvier au 14 juillet 2001 et du 27 janvier 2002 au 15 juin 2002 dans le dossier de Joanne Mallet, du 4 juin au 28 octobre 2000, du 4 février 2001 au 26 janvier 2002 et du 21 octobre 2001 au 22 juin 2002 dans le dossier de Jacinthe Mallet et du 10 septembre 2000 au 20 janvier 2001, du 22 avril au 29 septembre 2001 et du 21 octobre 2001 au 29 juin 2002 dans le dossier de Diane Mercier.
+[3] L'Entreprise est une personne morale dûment constituée le 10 février 1982. Les actions sont toutes détenues par Jeannot Mallet. Cependant, sa conjointe, Raymonde, pense qu'elle détient une action. La raison sociale de l'Enterprise est Gino Gas Bar. L'Entreprise vend de l'essence et exploite un comptoir-lunch, un bar avec des machines à sous et un dépanneur contenant notamment des produits pour la chasse et la pêche. Les heures normales d'affaires de l'Entreprise sont de 6h30 jusqu'à 21h00. Durant certaines des périodes en question, la fermeture se faisait à 23h00. La gérance de l'Entreprise était assurée par Jeannot Mallet et sa conjointe Raymonde. Les appelantes Jacinthe et Joanne Mallet sont leurs enfants.
+[4] L'Entreprise est ouverte durant toute l'année à raison de sept jours par semaine. Selon la preuve, il y a une période achalandée ou plus active qui commence au printemps et qui va jusqu'à l'automne. Cette période coïncide avec l'ouverture des usines de poissons. L'Entreprise a besoin de pompistes puisque les pompes à essence ne permettent pas le libre-service. Il faut également un caissier au dépanneur et une cuisinière pour préparer les repas du comptoir-lunch qui est ouvert pour servir le déjeuner et le lunch du midi. Le comptoir-lunch ferme à 13h00. Les préposés aux pompes à essence ont leur propre caisse enregistreuse et sont responsables de la vente de l'essence et s'occupent de prendre les lectures appropriées à la fin de chaque quart de travail. Il arrive parfois que l'on demande aux préposés aux pompes à essence de surveiller le dépanneur, le bar et de servir à la section cadeaux lorsque l'achalandage l'exige. Il faut donc un minimum de deux employés présents en tout temps avec la cuisinière lorsque le comptoir-lunch est ouvert. Il en faut davantage durant les périodes achalandées.
+[5] Pour s'assurer de toujours avoir du personnel sur place, l'Entreprise fait appel à plusieurs employés dont les heures de travail varient. Ainsi, durant les mois d'été, on retrouve des étudiants participant à des programmes d'emploi d'été pour étudiants et d'autres employés travaillant toutefois moins d'heures que les quatre appelantes. Le nombre d'employés dans une année peut varier entre 12 et 14, incluant les propriétaires. Raymonde Mallet établit les horaires de travail et assigne le personnel. Il n'y a toutefois aucun horaire de travail pré-établi et les employés sont appelés sans préavis à travailler pour l'Entreprise. L'Entreprise ne comptabilise pas les heures de travail des employés. Ce sont les employés qui comptabilisent eux-mêmes leurs propres heures. Ils remettent l'information à madame Raymonde Mallet et c'est à partir de cette information que les chèques de paye sont préparés. En fait, le registre de paye n'indique que le nombre d'heures travaillées par semaine et le document fourni par les employés n'est pas conservé par l'Entreprise.
+[6] Gilberte Chiasson a travaillé pour l'Entreprise pendant près de 12 ans. Elle n'y travaille plus depuis deux ans. Durant les périodes en question, elle était embauchée comme pompiste. Elle travaillait à toutes les deux semaines. Durant sa semaine de travail, elle travaillait environ 10 heures par jour pendant sept jours continus. Elle entrait le matin à 6h30 et travaillait jusqu'à 15h00 ou l'après-midi à 15h00 jusqu'à la fermeture. Elle accumulait donc de 60 à 70 heures par semaine. Madame Chiasson allait travailler quand Raymonde Mallet l'appelait. Elle a déclaré qu'elle n'avait pas un mot à dire et que les décisions étaient prises au jour le jour. Elle était rémunérée au salaire minimum et recevait son chèque de paye le lundi suivant sa semaine de travail. Selon madame Chiasson, elle notait ses heures de travail et en informait Raymonde Mallet. Après avoir informé madame Mallet, elle jetait ses notes. Elle a déclaré que Raymonde Mallet comptabilisait aussi ses heures de travail. L'employée qui occupait les mêmes fonctions que Gilberte Chiasson est l'appelante Jacinthe Mallet.
+[7] Madame Chiasson a admis qu'elle était présente à l'établissement commercial de l'Entreprise durant les périodes où elle n'a pas travaillé. Elle a déclaré être souvent présente au dépanneur et y rendre des services. Elle faisait des courses et effectuait les dépôts banquaires de l'Entreprise à la demande de Raymonde Mallet sans être rémunérée. Elle a reconnu en faire beaucoup et être présente même durant ses vacances. Il lui est aussi arrivé de signer des documents confirmant des livraisons de fournisseurs durant les périodes où elle ne travaillait pas. Madame Chiasson ne considère pas que les services qu'elle rendait constituaient du travail et c'est pourquoi elle aurait affirmé à l'enquêteur ne pas travailler en dehors de ses quarts de travail. Elle rendait également de tels services durant les périodes où elle recevait des prestations d'assurance-emploi.
+[8] Madame Chiasson a reçu des prestations pendant 36 semaines en 1999, 2000 et 2001. Après chaque période de chômage, elle était engagée de nouveau. Le motif pour sa mise à pied était la pénurie de travail. Les relevés d'emplois déposés indiquent le dernier jour de paye comme étant le 26 août 2000 et le 22 septembre 2001. Pendant les périodes en question, madame Chiasson était inscrite sur le registre de paye de l'Entreprise pour les semaines finissant aux dates suivantes :
+date
+1999
+nombre d'heures
+taux horaire
+paye
+le 27 février,
+60
+5,50$
+330,00$
+le 27 mars,
+65
+5,50$
+357,50$
+le 17 avril,
+70
+5,50$
+385,00$
+le 8 mai,
+70
+5,50$
+385,00$
+le 29 mai,
+70
+5,50$
+385,00$
+le 12 juin,
+70
+5,50$
+385,00$
+le 26 juin,
+70
+5,50$
+385,00$
+le 24 juillet,
+70
+5,50$
+385,00$
+le 14 août,
+79
+5,50$
+434,50$
+le 28 août,
+70
+5,50$
+385,00$
+le 18 septembre,
+73
+5,50$
+401,50$
+le 20 novembre,
+60
+5,75$
+345,00$
+le 4 décembre,
+60
+5,75$
+345,00$
+le 25 décembre,
+60
+5,75$
+345,00$
+2000
+le 8 janvier,
+75
+5,50$
+412,50$
+le 19 février,
+73
+5,75$
+419,75$
+le 11 mars,
+60
+5,75$
+345,00$
+le 25 mars,
+60
+5,75$
+345,00$
+le 15 avril,
+60
+5,75$
+345,00$
+le 29 avril,
+64
+5,75$
+368,00$
+le 27 mai,
+64
+5,75$
+368,00$
+le 17 juin,
+63
+5,75$
+362,50$
+le 1er juillet,
+63
+5,75$
+362,50$
+le 5 août,
+62
+5,75$
+356,50$
+le 19 août,
+62
+5,75$
+356,50$
+le 26 août,
+63
+5,75$
+362,50$
+le 28 octobre,
+64
+5,75$
+368,00$
+le 11 novembre,
+70
+5,75$
+402,50$
+le 2 décembre,
+62
+5,75$
+356,50$
+date
+2001
+nombre d'heures
+taux horaire
+paye
+le 7 avril,
+70
+5,75$
+402,50$
+le 5 mai,
+70
+5,75$
+402,50$
+le 19 mai,
+70
+5,75$
+402,50$
+le 2 juin,
+70
+5,75$
+402,50$
+le 16 juin,
+70
+5,75$
+402,50$
+le 30 juin,
+70
+5,75$
+402,50$
+le 21 juillet,
+70
+5,90$
+413,00$
+le 11 août,
+70
+5,90$
+413,00$
+le 25 août,
+70
+5,90$
+413,00$
+le 8 septembre,
+70
+5,90$
+413,00$
+le 22 septembre,
+70
+5,90$
+413,00$
+le 27 octobre,
+12
+5,90$
+70,80$
+[9] Interrogée sur sa mise à pied, madame Chiasson a expliqué que l'hiver, c'est difficile pour une femme de travailler aux pompes à essence. Le registre ci-haut indique pourtant qu'elle a travaillé en février et mars 1999, ainsi qu'en janvier, février et mars 2000. Il indique également qu'elle aurait été mise à pied le 26 août 2000 et le 22 septembre 2001. Madame Chiasson a toujours été embauchée après avoir épuisé ses prestations d'assurance-emploi.
+[10] L'appelante Jacinthe Mallet travaille pour l'Entreprise depuis 1979. Elle n'y travaille plus maintenant en raison des difficultés qu'elle a éprouvées à toucher ses prestations d'assurance-emploi. Elle exerçait les mêmes fonctions que l'appelante Gilberte Chiasson. On retrouve ici à peu près le même scénario, à savoir que sa mère, Raymonde Mallet, l'appelait à travailler au besoin. Elle travaillait à toutes les deux semaines. Durant sa semaine de travail de sept jours, elle alternait avec un autre employé pour faire en sorte qu'elle ne travaille pas plus que 10 heures par jour. Elle travaillait donc environ 70 heures par semaine. Elle était payée au salaire minimum le lundi suivant sa semaine de travail. Elle comptabilisait ses heures de travail et remettait à sa mère le compte de ses heures sur un bout de papier à la fin de sa semaine. Le bout de papier n'a pas été conservé. Elle ne sait pas si sa mère comptabilisait ses heures de travail. Tout comme l'appelante Gilberte Chiasson, elle passait du temps au dépanneur quand elle ne travaillait pas. Elle faisait des courses et effectuait les dépôts de l'Entreprise à la banque ou à la caisse et allait au bureau de poste. Elle a affirmé être souvent au dépanneur.
+[11] Pendant les périodes en question, Jacinthe Mallet était inscrite sur le registre de paye de l'Entreprise pour les semaines finissant aux dates suivantes :
+date
+2000
+le 11 juin,
+le 24 juin,
+le 8 juillet,
+le 5 août,
+le 19 août,
+le 2 septembre,
+le 9 septembre,
+le 16 septembre,
+le 23 septembre,
+le 30 septembre,
+le 7 octobre,
+le 14 octobre,
+le 21 octobre,
+le 28 octobre,
+2001
+le 17 février,
+le 17 mars,
+le 14 avril,
+nombre d'heures
+73
+74
+73
+73
+70
+70
+70
+70
+70
+70
+70
+73
+70
+70
+70
+70
+70
+taux horaire
+5,75$
+5,75$
+5,75$
+5,75$
+5,75$
+5,75$
+5,75$
+5,75$
+5,75$
+5,75$
+5,75$
+5,75$
+5,75$
+5,75$
+5,75$
+5,75$
+5,75$
+paye
+419,75$
+725,50$
+419,75$
+419,75$
+402,50$
+402,50$
+402,50$
+402,50$
+402,50$
+402,50$
+402,50$
+419,75$
+402,50$
+402,50$
+402,50$
+402,50$
+402,50$
+date
+2002
+le 2 février,
+le 9 mars,
+le 16 mars,
+le 23 mars,
+le 6 avril,
+le 4 mai,
+le 11 mai,
+le 18 mai,
+le 25 mai,
+le 1 juin,
+le 8 juin,
+le 15 juin,
+Total
+nombre d'heures
+8
+16
+16
+16
+16
+10
+10
+25
+25
+25
+22
+5
+194
+taux horaire
+6,25$
+5,90$
+5,90$
+5,90$
+5,90$
+5,90$
+5,90$
+6,00$
+6,00$
+6,00$
+6,00$
+6,00$
+paye
+50,00$
+94,40$
+94,40$
+94,40$
+94,40$
+59,00$
+59,00$
+150,00$
+150,00$
+150,00$
+132,00$
+30,00$
+1157,60$
+[12] Jacinthe Mallet a également travaillé pour Fruits de mer Oceanis pendant la période en question, soit du 20 avril au 29 juin 2002. Selon les relevés d'emploi, le premier jour de travail pour les périodes en question est le 4 juin 2000 et la mise à pied a eu lieu le 28 octobre 2000 au motif qu'il y avait une pénurie de travail. Elle est retournée au travail le 4 février 2002 et a été mise à pied le 26 janvier 2002. Durant cette dernière période, soit le 12 mai 2001, elle a donné naissance à un enfant. Elle n'a pas travaillé du 6 mai au 27 octobre 2001 mais elle reconnaît toutefois avoir travaillé bénévolement au dépanneur de l'Entreprise.
+[13] L'appelante Diane Mercier est caissière au dépanneur de l'Entreprise. Elle s'occupe de tout, sauf des pompes à essence. Son horaire de travail variait de semaine en semaine et elle partageait ses tâches avec l'appelante Joanne Mallet. C'est toujours Raymonde Mallet qui décidait quand l'appelante devait travailler. L'appelante prenait en note ses heures de travail et remettait cette information à Raymonde avant de se faire payer. Elle n'a pas conservé de copie de cette information. Elle a expliqué que son emploi ne durait pas toute l'année. Le motif indiqué pour sa mise à pied était la pénurie de travail mais elle a admis que quelqu'un d'autre a occupé son poste pendant qu'elle recevait des prestations d'assurance-emploi. Elle a été remplacée par Joanne Mallet ou Jeannot et Raymonde Mallet.
+[14] Lorsqu'elle ne travaillait pas ou qu'elle recevait des prestations d'assurance-emploi, elle était souvent au dépanneur. Elle faisait des courses, allait au bureau de poste et faisait des dépôts pour l'Entreprise avant ou après son quart de travail et durant sa période de chômage. Elle utilisait sa voiture et n'était pas défrayée de ses dépenses. Le premier tableau indique le 10 septembre 2000 comme le premier jour de travail et le 20 janvier 2001 comme le dernier. Elle a repris le travail le 22 avril et a été mise à pied le 29 septembre 2001. Pendant la période en question, l'appelante était inscrite sur le registre de paye de l'Entreprise pour les semaines se terminant aux dates suivantes :
+date
+2000
+nombre d'heures
+taux horaire
+paye
+le 8 janvier,
+60
+5,50$
+330,00$
+le 22 janvier,
+60
+5,50$
+330,00$
+le 5 février,
+60
+5,50$
+330,00$
+le 16 septembre,
+60
+5,50$
+330,00$
+le 7 octobre,
+60
+5,50$
+330,00$
+le 14 octobre,
+60
+5,50$
+330,00$
+le 21 octobre,
+60
+5,50$
+330,50$
+le 28 octobre,
+60
+5,50$
+330,50$
+le 4 novembre,
+60
+5,50$
+330,50$
+le 11 novembre,
+60
+5,50$
+330,50$
+le 18 novembre,
+60
+5,50$
+330,50$
+le 25 novembre,
+60
+5,50$
+330,00$
+le 2 décembre,
+60
+5,50$
+330,00$
+le 9 décembre,
+60
+5,50$
+330,00$
+le 16 décembre,
+60
+5,50$
+330,00$
+le 23 décembre,
+60
+5,50$
+330,00$
+2001
+le 20 janvier,
+60
+5,50$
+330,00$
+le 28 avril,
+60
+5,50$
+330,00$
+le 12 mai,
+60
+5,50$
+330,00$
+le 19 mai,
+60
+5,50$
+330,00$
+le 9 juin,
+60
+5,50$
+330,00$
+le 21 juillet,
+60
+5,90$
+354,00$
+le 28 juillet,
+60
+5,90$
+354,00$
+le 4 août,
+60
+5,90$
+354,00$
+le 12 août,
+60
+5,90$
+354,00$
+le 18 août,
+60
+5,90$
+354,00$
+le 25 août,
+60
+5,90$
+354,80$
+le 1er septembre,
+60
+5,90$
+354,80$
+le 8 septembre,
+60
+5,90$
+354,80$
+le 15 septembre,
+60
+5,90$
+354,80$
+le 22 septembre,
+60
+5,90$
+354,80$
+le 29 septembre,
+le 26 octobre,
+60
+6
+5,90$
+5,90$
+354,80$
+59,00$
+date
+2001
+nombre d'heures
+taux horaire
+paye
+le 26 octobre,
+10
+5,90$
+59,00$
+le 3 novembre,
+12
+5,90$
+70,80$
+le 10 novembre,
+9
+5,90$
+53,10$
+le 17 novembre,
+12
+5,90$
+70,80$
+le 24 novembre,
+9
+5,90$
+53,10$
+le 1er décembre,
+10
+5,90$
+59,00$
+le 8 décembre,
+12
+5,90$
+70,80$
+le 15 décembre,
+12
+5,90$
+70,80$
+le 22 décembre,
+14
+5,90$
+82,60$
+le 29 décembre,
+14
+5,90$
+82,60$
+2002
+le 5 janvier,
+12
+5,90$
+70,80$
+le 12 janvier,
+12
+5,90$
+70,80$
+le 26 janvier,
+11
+5,90$
+64,90$
+le 2 février,
+10
+5,90$
+59,00$
+le 16 février,
+10
+5,90$
+59,00$
+le 23 février,
+12
+5,90$
+70,80$
+le 2 mars,
+10
+5,90$
+59,00$
+le 9 mars,
+10
+5,90$
+59,00$
+le 23 mars,
+10
+5,90$
+59,00$
+le 30 mars,
+10
+5,90$
+59,00$
+le 6 avril,
+10
+5,90$
+59,00$
+le 20 avril,
+40
+7,00$
+280,00$
+le 27 avril,
+40
+7,00$
+280,00$
+le 4 mai,
+40
+7,00$
+280,00$
+le 11 mai,
+40
+7,00$
+280,00$
+le 18 mai,
+le 25 mai,
+40
+40
+7,00$
+7,00$
+280,00$
+280,00$
+le 1er juin,
+40
+7,00$
+280,00$
+le 8 juin,
+40
+7,00$
+280,00$
+le 15 juin,
+40
+7,00$
+280,00$
+le 22 juin,
+le 29 juin,
+Total
+40
+40
+671
+7,00$
+7,00$
+280,00$
+280,00$
+4442,90$
+[15] L'appelante Joanne Mallet ne travaille plus pour l'Entreprise depuis deux ans. Durant les périodes en question, elle exerçait les mêmes fonctions que l'appelante Diane Mercier. Ses heures de travail étaient déterminées par sa mère. L'appelante devait comptabiliser ses heures et remettre le total à sa mère. Ses semaines de congé étaient également déterminées par sa mère. Elle n'a pas pu expliquer pourquoi ses heures de travail variaient entre 25, 40, 50 et 62 heures par semaine. Elle était rémunérée 6,00 $ l'heure et a reconnu avoir rendu des services à l'Entreprise avant ou après ses heures de travail, notamment faire les dépôts à la banque et à la caisse, aller au bureau de poste et faire des courses. Elle était souvent au dépanneur.
+[16] Interrogée sur sa disponibilité lorsque sa mère l'appelait pour travailler, compte tenu du fait qu'elle avait deux enfants, l'appelante a expliqué ne pas avoir de problème à se trouver des gardiennes. Les relevés d'emploi de l'appelante n'ont pas été déposés. Elle a toutefois admis avoir été mise à pied en raison d'une pénurie de travail bien que son poste a par la suite été occupé par sa mère ou l'appelante Diane Mercier. Elle a reconnu avoir obtenu toutes les prestations d'assurance-emploi auxquelles elle avait droit et avoir recommençé à travailler lorsqu'elles ont pris fin. Elle était inscrite sur le registre de paye de l'Entreprise pour les semaines finissant aux dates suivantes :
+date
+2001
+nombre d'heures
+taux horaire
+paye
+le 3 février,
+62
+5,50$
+330,00$
+le 10 février,
+62
+5,50$
+330,00$
+le 31 mars,
+62
+6,00$
+360,00$
+le 6 avril,
+62
+6,00$
+360,00$
+le 28 avril,
+62
+6,00$
+360,00$
+le 4 mai,
+62
+6,00$
+360,00$
+le 26 mai,
+62
+6,00$
+360,00$
+le 2 juin,
+62
+6,00$
+360,00$
+le 9 juin,
+62
+6,00$
+360,00$
+le 15 juin,
+62
+6,00$
+360,00$
+le 20 juin,
+62
+6,00$
+360,00$
+le 30 juin,
+62
+6,00$
+360,00$
+le 7 juillet,
+62
+6,00$
+360,00$
+le 14 juillet,
+62
+6,00$
+360,00$
+date
+2001
+nombre d'heures
+taux horaire
+paye
+le 24 octobre,
+9
+6,00$
+54,00$
+2002
+le 2 février,
+50
+7,00$
+350,00$
+le 9 mars,
+50
+7,00$
+350,00$
+le 16 mars,
+50
+7,00$
+350,00$
+le 30 mars,
+50
+7,00$
+350,00$
+le 6 avril,
+50
+7,00$
+350,00$
+le 13 avril,
+50
+7,00$
+350,00$
+le 20 avril,
+10
+5,90$
+59,00$
+le 4 mai,
+10
+5,90$
+59,00$
+le 11 mai,
+25
+5,90$
+147,50$
+le 15 juin,
+40
+7,00$
+280,00$
+le 22 juin,
+40
+7,00$
+280,00$
+Total
+434
+2779,50$
+[17] Raymonde Mallet est la personne qui gère l'Entreprise. Elle décide pratiquement tout. Les horaires de travail étaient déterminés au jour le jour selon les besoins de l'Entreprise. Elle a reconnu que pour le bon fonctionnement de l'Entreprise deux pompistes et deux caissières doivent se relayer et une cuisinière doit travailler au comptoir-lunch. Il lui faut donc quatre employés par semaine plus une cuisinière et les quatre employés font des semaines de plus de 40 heures à raison de 7 jours par semaine. Elle et son conjoint remplacent les appelantes à l'occasion. L'Entreprise a embauché d'autres employés durant les périodes en question, dont des étudiants, pour agir à titre de pompistes. Les heures que ces employés accumulaient étaient inférieures à celles des appelantes.
+[18] Elle a reconnu ne pas comptabiliser les heures de travail des employés et se fier à eux pour préparer la paye. Elle a toujours fonctionné comme ça et n'a jamais conservé les documents sur lesquels les heures étaient inscrites. Le registre de paye de 2000, 2001 et 2002 n'indique que le nombre d'heures travaillées par chaque employé par semaine et non par jour. Aucun des employés n'avait d'horaire pré-établi et Raymonde Mallet les appelait à la dernière minute.
+[19] Les registres de paye de l'Entreprise pour 1998 et 1999 n'ont pas été déposés en preuve. Ces deux documents et plusieurs autres, dont les grands livres pour les années 1998, 1999 et 2000, de même que les reçus des repas servis au comptoir pour le lunch et les lectures des réservoirs d'essence, avaient été exigés par l'enquêteur des Ressources Humaines Canada à l'étape de la vérification. Ces documents n'ont pas été remis à l'enquêteur car, selon madame Mallet, à l'époque, ils avaient été détruits parce que l'on prévoyait fermer le commerce. À l'audience, elle a déclaré que les documents avaient été retrouvés dans son garage et qu'elle avait chez elle les deux registres de paye en question, les lectures des réservoirs d'essence et le grand livre pour les trois années en question.
+[20] Madame Mallet a reconnu avoir détruit la partie inférieure d'une série de bordereaux de dépôt indiquant le nom de la personne qui a effectué le dépôt. On a d'ailleurs déposé en preuve une quantité importante des parties inférieures ainsi découpées indiquant le nom de Gilberte Chiasson comme étant l'employée ayant fait les dépôts. Madame Mallet a d'ailleurs plaidé coupable à une accusation d'avoir découpé les dits borderaux de dépôts.
+[21] Madame Mallet a également reconnu avoir déclaré à l'enquêteur chargé du dossier de l'Entreprise lors d'une entrevue en date du 20 novembre 2001 qu'elle n'avait plus aucun document en sa possession et que, s'il y en avait encore, ils allaient passer dans la déchiqueteuse. Finalement, elle a soutenu avoir envoyé à l'enquêteur une boîte de factures.
+[22] Les registres de paye déposés en preuve n'indiquent pas toujours les périodes où madame Mallet et son conjoint Jeannot Mallet ont travaillé ou ont remplacé leurs employés. En fait, il y a une période de huit semaines où personne n'est inscrit sur le registre de paye. Durant ces périodes, elle et son conjoint étaient les seuls à travailler. Finalement, elle a affirmé que les mises à pied étaient dues à une pénurie de travail même si la personne mise à pied était remplacée.
+[23] Monique Boulay était l'agent d'enquête à qui le dossier de l'Entreprise avait été confié. Ce dossier lui a été confié après que l'on a constaté que l'appelante Gilberte Chiasson effectuait pendant une semaine un nombre d'heures de travail très élevé et qu'elle n'effectuait rien du tout la semaine suivante. L'enquête de madame Boulay s'est avérée très difficile en raison du manque de coopération de la part de madame Mallet quant à la documentation à fournir et quant à la tenue d'une rencontre. Cette dernière, semblerait-il, n'avait jamais le temps de rencontrer madame Boulay. Après plusieurs tentatives, elle a réussi à obtenir le registre des payes pour les années 2000 et 2001. Son examen des registres a démontré que les quatre appelantes travaillaient une semaine avec un nombre d'heures très élevés et rien du tout la semaine suivante. Il y avait des semaines où l'Entreprise n'avait pas d'employés à son service et, quand un employé était mis à pied, un autre était embauché pour le remplacer.
+[24] Elle a obtenu très peu de réponses à ses questions. Lorsqu'elle a reçu les bordereaux de dépôt, la partie inférieure était manquante. Elle a dû procéder par voie de demande formelle. Même si elle n'a pas obtenu de réponses à ses questions, elle a quand même obtenu la partie inférieure des bordereaux de dépôt que madame Mallet avait coupée (pièce I-9). L'accusation déposée contre madame Mallet en est une de non-conformité à la demande formelle et madame Mallet a reconnu sa culpabilité.
+[25] Dans le cours de sa vérification, madame Boulay a constaté que les heures de travail des quatre appelantes étaient sujettes à des changements et elle a alors insisté pour obtenir les registres de paye. Madame Mallet lui aurait expliqué que les documents de 1999 - 2000 et 2001 avaient été détruits parce qu'ils songeaient à fermer l'entreprise. Après que madame Boulay a présenté sa demande formelle, on lui a répondu qu'elle n'aurait pas les documents et qu'ils passeraient dans la déchiqueteuse. Elle n'a finalement obtenu que les registres de paye pour les années 2000, 2001 et 2002.
+[26] Charles Albert est agent d'enquête. Il a examiné les registres de paye et a préparé un tableau comparatif des années 2000 et 2001. Dans son examen, il a constaté que le nom de Jeannot Mallet ne paraît nulle part dans le registre et celui de Raymonde Mallet n'y paraît qu'à l'occasion. Il y a des semaines où aucun nom n'est inscrit dans les registres. Monsieur Albert a constaté aussi qu'à partir du 21 octobre 2001, il y a des semaines où le nombre d'heures de travail indiqué est inférieur. Il a aussi constaté pour certaines semaines qu'il y a plus d'heures de travail inscrites par semaine en 2002 qu'il y en avait dans la même période en 2000 et 2001. À titre d'exemple, pour la semaine se terminant le 31 décembre 2000 et 2001 aucune heure n'était inscrite alors que pour la semaine correspondante en 2002, 117 heures étaient inscrites. C'est le cas pour plusieurs autres semaines. Il y avait donc moins d'employés et moins d'heures inscrites en 2001 qu'en 2002. En fait, il a constaté qu'il y avait quatre employés de plus par semaine en 2002 qu'en 2001 et ce, même si les propriétaires ont travaillé. La seule explication provenant de l'Entreprise est qu'en 2001, les propriétaires ont effectué une plus grosse part du travail et qu'ils ont reçu l'aide des soeurs de Jeannot Mallet.
+[27] Il incombait aux appelants de démontrer selon la prépondérance des probabililtés que les décisions du ministre ne sont pas fondées en fait et en droit. Les décisions rendues par le ministre sont principalement fondées sur le fait que les emplois des quatre appelantes ne sont pas régis par de véritables contrats de louage de services au sens de la LAE. Si la Cour devait décider qu'il s'agit de véritables contrats de louage de services, le ministre soutient que les emplois ne sont pas assurables puisqu'il y a entre les appelantes et l'Entreprise un lien de dépendance réel, comme c'est le cas en ce qui concerne les appelantes Jacinthe et Joanne Mallet et un lien de dépendance factuel, comme c'est le cas en ce qui concerne les appelantes Gilberte Chiasson et Diane Meunier et que, par conséquent, ces emplois sont exclus.
+[28] Les faits et les circonstances en l'espèce appuient-ils la première thèse du ministre selon laquelle l'emploi des appelantes n'était pas régi par un véritable contrat de louage de service? Un contrat de louage de services est vicié lorsque les modalités de l'emploi sont conçues de façon à tirer avantage de la LAE. Il est donc primordial que l'emploi que l'on veut assurer en soit un qui soit réel et non le résultat d'arrangements artificiels ou fictifs dans le but de permettre aux travailleurs d'obtenir des prestations d'assurance-emploi. Cette cour, dans des décisions récentes, a traité de cette question.
+[29] Dans l'affaire Thibeault c. Canada, [1998] A.C.I., no 690 (QL), le juge Tardif affirmait :
+Un véritable emploi est un emploi rémunéré selon les conditions du marché et qui contribue de façon réelle et positive à l'avancement et au développement de l'entreprise qui assume le salaire payé en contrepartie du travail exécuté. Il s'agit là d'éléments essentiellement économiques laissant peu ou pas de place à la générosité, à la compassion.
+[...]
+Certes, il n'est ni illégal, ni répréhensible d'organiser ses affaires pour profiter de la mesure sociale qu'est le régime de l'assurance-chômage, à la condition expresse que rien ne soit maquillé, déguisé ou organisé et que la venue des bénéfices surviennent [sic] à la suite d'événements sur lesquels le bénéficiaire n'a pas le contrôle. Lorsque l'importance du salaire ne correspond pas à la valeur économique des services rendus, lorsque les débuts et les fins des périodes s'avèrent coïncider avec la fin de la période de paiement et la durée de la période de travail coïncidant à son tour, avec le nombre de semaines requises pour se qualifier à nouveau, cela a pour effet de soulever des doutes très sérieux sur la vraisemblance du contrat de travail. Lorsque les hasards sont nombreux et exagérés, cela risque de créer une présomption à l'effet que les parties ont convenu d'un arrangement artificiel pour permettre aux parties de profiter des bénéfices.
+[30] La Cour d'appel fédérale a confirmé la décision du juge Tardif dans Laverdière c. Canada, [1999] A.C.I. no 124 (QL). Le juge Tardif a ajouté ce qui suit :
+Certes, un contrat de travail peut prévoir, tout en étant légal et légitime, toutes sortes d'autres conditions dont une rémunération beaucoup supérieure à la valeur du travail exécuté ou inversement; certains contrats peuvent même être à titre gratuit. Une prestation de travail peut être exécutée dans le cadre d'une opération de bénévolat. Il est possible d'imaginer toutes sortes d'hypothèses et de scénarios.
+Tout contrat de travail prévoyant des particularités est généralement opposable aux seules parties contractantes et ne lie en rien les tiers, dont l'intimé.
+Il en est ainsi au niveau de toute entente ou arrangement dont le but et objectif est d'étaler ou cumuler la rémunération due ou être due de manière à tirer avantage des dispositions de la Loi. Toute planification ou entente qui maquille ou altère les faits relatifs à la rétribution, dans le but de maximiser les bénéfices de la Loi, disqualifie le contrat de louage de services.
+[31] Dans Duplin c. Canada, [2001] A.C.I. no 136 (QL), il a ajouté :
+Entre elles, les parties peuvent convenir de ce qu'elles veulent, mais l'intimé n'est aucunement tenu de respecter ou accepter les formules retenues. L'assurabilité d'un travail doit répondre à certaines conditions fondamentales. Dans certains cas, même si les parties se sont entendues ou ont imposé certaines conditions ou particularités, cela n'est aucunement opposable à l'endroit des tiers, dont l'intimé.
+Seuls les faits réels doivent être pris en considération pour déterminer s'il a existé ou non un véritable contrat de louage de services. Souvent, les faits ont été falsifiés, maquillés ou même occultés d'où le Tribunal doit s'en remettre à l'ensemble de la preuve offerte disponible. Les seuls faits et éléments pertinents sont ceux relatifs à la prestation de travail, à la rémunération et à la présence ou non d'un lien de subordination.
+En d'autres termes, la volonté des parties à une entente de travail n'est aucunement déterminante pour la qualification d'un contrat de travail en contrat de louage de services. Il s'agit essentiellement d'un élément parmi beaucoup d'autres.
+Les composantes fondamentales d'un contrat de louage de services sont d'ordre essentiellement économique. Les registres établis, tels livres de salaires, modalités de paye, etc. doivent être réels et correspondre également à la réalité. À titre d'exemple, le livre de salaires doit consigner les heures travaillées correspondant à la paye émise. Un livre des salaires qui consigne des heures non travaillées ou ne consigne pas des heures travaillées pour la période indiquée est une indication sérieuse qu'il y a eu falsification. Il en est ainsi d'une paye qui ne correspond pas aux heures travaillées. Dans un cas comme dans l'autre, cela crée une très forte présomption que les parties ont convenu d'un scénario faux et mensonger dans le but d'en tirer divers avantages dont notamment sur le plan fiscal et assurance-emploi.
+Il est possible qu'un arrangement soit plus profitable à l'une des parties qu'à l'autre, mais il s'agit là d'un effet secondaire et non pertinent à la qualification au contrat de louage de services, puisque dès qu'un contrat de travail est façonné par des données fausses, inexactes ou mensongères, il ne répond plus aux conditions essentielles pour être qualifié de contrat de louage de services; ainsi lorsque la preuve est à l'effet que les registres consignant les données essentielles à l'existence d'un véritable contrat de travail sont mensongères et incomplètes, il devient alors essentiel de faire la preuve d'une façon déterminante que les faits réels soutiennent l'existence d'un véritable contrat de louage de services.
+[32] Le juge Charron, dans l'affaire Martineau c. Canada, [2000] A.C.I. no 270, a, pour sa part, affirmé :
+Toute entente ou arrangement prévoyant des modalités de paiement de la rétribution non pas en fonction du temps ou de la période d'exécution du travail rémunéré, mais en fonction d'autres objectifs tels tirer avantage des dispositions de la Loi, vicie la qualité du contrat de louage de services.
+En outre, il n'y a pas de place pour d'autres considérations telles la générosité ou la complaisance. On a souvent indiqué que l'assurance-chômage est une mesure sociale pour venir en aide à ceux qui perdent vraiment leur emploi et non un programme de subvention pour venir en aide à l'entreprise, ou pour avantager des bénéficiaires qui déforment ou modifient la structure et les modalités de paiement de la rétribution que commande leur prestation de travail.
+Toute entente ou arrangement relatif au cumul ou à l'étalement a pour effet de vicier le contrat de louage de services, d'autant plus que cela crée une relation contractuelle peu ou pas propice à l'existence d'un lien de subordination, composante essentielle d'un contrat de louage de services.
+[33] En l'espèce, il est évident qu'il s'agit ici d'une entreprise exploitée durant toute l'année et ce, à raison de 7 jours par semaine avec des heures d'ouverture allant de 6h30 à 21h00 ou 23h00. Cela représente donc des semaines de 101.5 heures à 115.5 heures. L'Entreprise ne peut fonctionner que si au moins deux employés sont présents en tout temps au dépanneur et au poste d'essence. Il faut aussi une cuisinière au comptoir-lunch. Compte tenu des heures d'ouverture, l'Entreprise a donc besoin d'au moins quatre employés, plus la cuisinière, pour une journée de travail complète. Il doit en être ainsi sept jours par semaine. Outre les appelantes, le nom d'autres employés figurent dans les registres des salariés déposés. On y retrouve la cuisinière et surtout des pompistes, dont des étudiants, pour des périodes de travail moins longues que celles des appelantes. On constate aussi que le nom de Raymonde Mallet y est inscrit à quelques occasions ainsi que celui de son conjoint Jeannot Mallet mais il n'y est pas précisé les heures qu'ils ont travaillé au dépanneur. Il est donc très difficile de comprendre comment fonctionne cette entreprise et particulièrement comment elle utilise sa main d'oeuvre.
+[34] Nous avons ici une entreprise qui ne comptabilise pas les heures de travail de ses employés et qui se fie sur ses employés pour préparer les chèques de paye. L'appelante Gilberte Chiasson est la seule qui croit que Raymonde Mallet inscrit ses heures de travail. Les registres des salaires indiquent le nombre d'heures travaillés sur une base hebdomadaire et non quotidienne. Ils n'indiquent pas les heures travaillés par Jeannot et Raymonde Mallet, de sorte qu'il est impossible de connaître le nombre d'heures qu'ils ont passé à leur entreprise, à remplacer le personnel. À en croire les registres de salaires, il y a des longues périodes où personne ne semblait travailler. Les documents où étaient consignées les heures travaillés ont été jetés à mesure. Il n'y avait aucun horaire de travail pré-établi. Les appelantes accumulaient presque deux fois le nombre d'heures de travail d'une semaine de travail normal. Certaines ne travaillaient qu'à toutes les deux semaines. Les appelantes étaient présentes au dépanneur durant leur journée ou leur semaine de congé, durant leurs vacances et même durant les périodes où elles recevaient des prestations d'assurance-emploi. Durant ces périodes là, elles faisaient toutes des courses, des dépôts à la banque ou à la caisse, allaient au bureau de poste et signaient les documents de réception de commandes pour l'Entreprise. Elles étaient mises à pied lorsqu'elles devenaient admissibles à des prestations d'assurance emploi sous prétexte qu'il y a une pénurie de travail alors que, dans les faits, elles se faisaient remplacer. Une fois les prestations d'assurance-emploi épuisées, les appelantes revenaient au travail. Certaines mises à pied ont eu lieu durant les périodes achalandées. Selon les registres, l'appelante Gilberte Chiasson a travaillé pendant les mois d'hiver même si à son avis c'est trop froid pour une femme d'être pompiste.
+[35] Il était allégué que l'Entreprise ne donnait pas de préavis aux employées concernant leur quart de travail. Les appelantes étaient appelées à la dernière minute et, prétendument, cela ne posait même pas de problèmes de gardienne pour les enfants de l'une d'entre elles. Leur disponibilité semble remarquable. Les responsables de l'Entreprise ont tout d'abord affirmé que les registres des salaires et tous les autres documents pertinents pour les années 1998 et 1999 n'existent plus ou ont été détruits, ou ils le seront bientôt. Puis, soudainement, on a affirmé les avoir trouvés dans le garage mais on ne les a pas produit au procès. Ces documents concernent pourtant des périodes qui sont à l'étude.
+[36] Je ne peux ignorer non plus le manque de coopération des responsables de l'Entreprise durant l'enquête. Leur refus de collaborer avec l'enquêteur et de produire la documentation pertinente, jumelée avec le fait qu'ils ont caché le nom des déposants sur les bordereaux de dépôt, ne font que soulever de sérieux doutes sur la légalité des agissements de l'Entreprise en rapport avec le régime d'assurance-emploi m'amènant à croire que l'Entreprise tirait profit indirectement du régime.
+[37] Le témoignage et les explications des appelantes en l'espèce n'ont pas réussi à me convaincre que leur façon de faire était nécessaire à la bonne marche de l'Entreprise.
+[38] Je suis plutôt resté avec la nette impression que l'Entreprise et les appelantes tiraient profit du régime d'assurance-emploi de façon à subventionner l'Entreprise. Les appelantes touchaient le plus de prestations possibles et elles demeuraient à la disposition de l'Entreprise durant toute l'année. On est loin ici de la raison d'être du régime d'assurance-emploi. La version des faits donnée par les appelantes et représentants de l'Entreprise est pour le moins invraisemblable et je ne leur accorde aucune crédibilité.
+[39] Il s'agit ici d'une situation où on a voulu tirer profit du régime. Les appelantes ne se sont pas acquittées du fardeau de la preuve qui leur incombait en l'espèce.
+[40] Pour ces motifs, je conclus que les emplois pour toutes les périodes en l'espèce n'étaient pas régis par un véritable contrat de louage de services et qu'il s'agissait d'une multitude d'arrangements conclus par les appelantes dans le but de profiter du régime d'assurance-emploi. Étant donné cette conclusion, je ne vois pas la nécessité de traiter du deuxième point en litige. Les appels sont donc tous rejetés.
+Signé à Edmundston, Nouveau-Brunswick, ce 22e jour de juin 2004.
+« François Angers »
+Juge Angers
+RÉFÉRENCE :
+2004CCI409
+No DES DOSSIERS DE LA
+COUR :
+2002-4440 (EI), 2002-4441 (EI),
+2002-4443 (EI), 2002-4444 (EI),
+2002-4301 (EI), 2002-4303 (EI),
+2002-4304 (EI), 2002-4305 (EI),
+2003-1165 (EI), 2003-1166 (EI),
+2003-1167 (EI)
+INTITULÉS DES CAUSES :
+Les Entreprises Mallet Ltée,
+Gilberte Chiasson, Joanne Mallet,
+Jacinthe Mallet, Diane Mercier et le ministre du Revenu national
+LIEU DE L'AUDIENCE :
+Bathurst (Nouveau-Brunswick)
+DATE DE L'AUDIENCE :
+le 17 mai 2004
+MOTIFS DU JUGEMENT PAR :
+l'honorable juge François Angers
+DATE DU JUGEMENT :
+le 22 juin 2004
+COMPARUTIONS :
+Pour les appelantes :
+Me Basile Chiasson
+Pour l'intimé :
+Me Claude Lamoureux
+AVOCAT INSCRIT AUX DOSSIERS :
+Pour les appelantes :
+Nom :
+Me Basile Chiasson
+Étude :
+Chiasson & Roy
+Bathurst (Nouveau-Brunswick)
+Pour l'intimé :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

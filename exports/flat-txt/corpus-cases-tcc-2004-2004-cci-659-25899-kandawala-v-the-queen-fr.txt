@@ -1,0 +1,153 @@
+Title: Kandawala v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25899/index.do
+Corpus path: corpus/cases/tcc/2004/2004-cci-659-25899-kandawala-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2004-09-28
+
+# Kandawala v. The Queen
+
+- Citation: 2004 CCI 659
+- Decision date: 2004-09-28
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3697, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Kandawala v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-09-28
+Référence neutre
+2004 CCI 659
+Numéro de dossier
+2004-1078(GST)I
+Juges et Officiers taxateurs
+Gerald J. Rip
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2004-1078(GST)I
+ENTRE :
+NAZREEN BEGUM KANDAWALA,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 4 août 2004 à Vancouver (Colombie-Britannique).
+Devant : L'honorable Gerald J. Rip
+Comparutions :
+Représentant de l'appelant :
+S. Rhumtulla
+Avocate de l'intimée :
+Me Lisa Riddle
+JUGEMENT
+L'appel formé à l'égard de la cotisation établie en vertu de la partie IX de la Loi sur la taxe d'accise pour la période allant du 1er janvier 2000 au 31 décembre 2000, en date du 30 juillet 2002 et portant le numéro 11G0000394, est rejeté.
+Signé à Ottawa, Canada, ce 28e jour de septembre 2004.
+« Gerald J. Rip »
+Juge Rip
+Traduction certifiée conforme
+ce 15e jour d'avril 2005.
+Jacques Deschênes, traducteur
+Référence : 2004CCI659
+Date : 20040928
+Dossier : 2004-1078(GST)I
+ENTRE :
+NAZREEN BEGUM KANDAWALA,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Rip
+[1] Nazreen Begum Kandawala a interjeté appel d'une cotisation établie en vertu de la partie IX de la Loi sur la taxe d'accise (la « Loi » ) par laquelle le ministre du Revenu national a imposé une taxe sur les produits et services de sept pour cent sur la vente de feuilles de paan ( « paan » ) par l'appelant[1]. La question dont je suis saisi est celle de savoir si le paan constitue un produit alimentaire de base, auquel cas il est assujetti à un taux de taxe nul, ce que soutient l'appelant. Quant à l'intimée, elle fait valoir que, si le paan ne constitue pas un produit alimentaire de base, il est assujetti à un taux de taxe de sept pour cent.
+[2] Les feuilles de paan proviennent d'arbres qui poussent en Inde; elles sont cueillies là-bas puis expédiées au Canada. Le paan sert à deux choses : il est souvent mangé après les repas et il est aussi utilisé pendant les prières dans la religion hindouiste. Le paan aurait pour effet de favoriser la digestion et de rafraîchir l'haleine. Comme l'ont expliqué M. S. Rhumtulla, le représentant de l'appelant, et l'appelant, des condiments sont placés sur la feuille et on mange le tout; les solides sont souvent recrachés et seul le jus de la feuille est ingéré.
+[3] L'appelant exploite une entreprise qui vend du paan préparé de telle sorte qu'il puisse être vendu pour consommation immédiate ou emporté par les acheteurs pour être mangé ultérieurement. L'appelant vend des feuilles à l'unité, mais plus couramment en paquet de six, 10, 12 ou 30; pour un mariage, il vend des paquets de 100 feuilles ou plus. Pour les cérémonies religieuses, on utilise seulement la feuille, sur laquelle on place une noix de bétel. Une fois qu'elle a servi pour la cérémonie, la feuille est jetée au rebut. Environ 20 pour cent des ventes concernent des fins religieuses.
+[4] Le paragraphe 165(1) de la Loi est ainsi rédigé :
+[...] l'acquéreur d'une fourniture taxable effectuée au Canada est tenu de payer à Sa Majesté du chef du Canada une taxe calculée au taux de 7 % sur la valeur de la contrepartie de la fourniture.
+[5] Le paragraphe 165(3) porte que « [...] le taux de la taxe relative à une fourniture détaxée est nul » .
+[6] Le paragraphe 123(1) de la Loi précise que le terme « fourniture détaxée » s'entend d'une « fourniture figurant à l'annexe VI » . En l'espèce, la partie pertinente de l'annexe VI est la partie III, qui s'intitule « Produits alimentaires de base » . Elle prévoit « [l]a fourniture d'aliments et de boissons destinés à la consommation humaine (y compris les édulcorants, assaisonnements et autres ingrédients devant être mélangés à ces aliments et boissons ou être utilisés dans leur préparation) [...] » . Cependant, la partie III comporte des exceptions expresses et restreint ainsi la portée de l'expression « fourniture d'aliments [...] destinés à la consommation humaine » . Il s'agit donc de savoir si le paan constitue un « aliment [...] destiné à la consommation humaine » et, dans l'affirmative, s'il est visé par une des exceptions prévues.
+[7] Le ministre mentionne que le paan tombe sous le coup d'au moins deux exceptions, à savoir :
+e) les bonbons, les confiseries qui peuvent être classées comme bonbons, et toutes les marchandises qui sont vendues au titre de bonbons, telles la barbe à papa, le chewing gum et le chocolat, qu'elles soient naturellement ou artificiellement sucrées, y compris les fruits, les graines, les noix et les maïs soufflés lorsqu'ils sont enduits ou traités avec du sucre candi, du chocolat, du miel, de la mélasse, du sucre, du sirop ou des édulcorants artificiels;
+i) les mélanges de grignotines contenant des céréales, des noix, des graines, des fruits séchés ou autres produits comestibles, à l'exclusion de tout mélange vendu principalement comme céréale pour le petit déjeuner, ou tout mélange fabriqué ou produit dans un point de vente au détail pour y être vendu exclusivement et directement aux consommateurs;
+[8] Plusieurs décisions portent sur le sens de l'expression « fourniture d'aliments [...] destinés à la consommation humaine » . Le juge Miller a examiné cette expression dans la décision 1146491 Ontario Ltd. c. R., 2002 G.T.C. 235, Cour canadienne de l'impôt, no 2000-4855(GST)G, 10 mai 2002. Il devait décider si des ensembles de salade, lesquels contenaient tous les ingrédients nécessaires pour préparer un certain genre de salade, constituaient des produits alimentaires de base. Lorsqu'il s'est penché sur le sens du passage « fourniture d'aliments [...] destinés à la consommation humaine » , le juge Miller (tel était alors son titre) s'est efforcé de « veiller à appliquer logiquement et convenablement la politique gouvernementale voulant que les produits alimentaires de base soient détaxés » . Il mentionne ce qui suit :
+Plutôt que de tenter de définir ce qui est inclus dans les produits alimentaires de base, l'alinéa 1o.1) de la Partie III de l'Annexe VI établit une liste d'exceptions aux produits alimentaires de base. À l'examen de la liste d'exceptions, il ressort de façon évidente qu'il existe deux catégories de produits qui ne doivent pas être considérés comme des produits alimentaires de base : les collations et les aliments vides, y compris à peu près tout ce que la plupart des gens considèreraient [sic] comme des aliments qui ne sont pas très sains; et les aliments à consommer immédiatement une fois l'emballage ouvert ou enlevé. [...] Si l'on examine particulièrement les aliments visés dans les alinéas 1o.1), o.2), o.3), o.4) et o.5), la meilleure façon de décrire le lien qu'ils ont en commun est probablement de dire qu'il s'agit d'aliments entièrement cuisinés. Ces aliments ne requièrent aucune préparation - tout est fait pour vous[2].
+[9] Le juge Miller a pour l'essentiel conclu que, pour être une fourniture détaxée, un aliment n'a pas à répondre à la définition prévue dans le préambule de la partie III de l'annexe VI de la Loi, mais doit plutôt ne pas être exclu en vertu de la liste d'exceptions ou au titre de la politique qui sous-tend la liste d'exceptions figurant à la suite du préambule.
+[10] Le juge Beaubier a lui aussi examiné cette question dans la décision Vincent Chow White Crane Martial Arts Ltd. c. R., [1996] G.S.T.C. 67, Cour canadienne de l'impôt, no 97-3394-GST-G, 13 juillet 1999 ( « Vincent Chow » ). Dans cette affaire, il s'agissait de savoir si la vente de certaines herbes chinoises par le contribuable pouvait être assimilée à la « fourniture d'aliments [...] destinés à la consommation humaine » suivant la partie III de l'annexe VI de la Loi. Au paragraphe 9, le juge Beaubier s'est penché sur le sens du terme « consommation » et a conclu qu'il signifiait « l'action ou le fait de consommer ou de détruire[3] » . Il a ensuite examiné le sens du terme « aliment » et a décidé qu'il visait « ce qui est absorbé par le système pour garder en vie et favoriser la croissance et pour pallier la dégradation des tissus; vivres, nourriture, provisions, victuailles » . Il a conclu que, « [b]ref, l'aliment vise à garder en vie alors que les produits médicinaux visent à rétablir ou à conserver la santé » . Comme il a décidé que les herbes constituaient des produits médicinaux, le juge Beaubier (tel était alors son titre) a rejeté l'appel.
+[11] Dans l'arrêt Shaklee Canada Inc. c. Le Ministre du Revenu national, [1996] 1 C.T.C. 180, no A-182-95, 19 décembre 1995, la Cour d'appel fédérale s'est penchée sur une expression très analogue à celle employée dans la partie III de l'annexe VI de la Loi. La Cour devait statuer sur la question de savoir si certains produits vitaminiques, minéraux et fibreux commercialisés et vendus par le contribuable étaient exonérés de la taxe à titre d' « aliments et boissons destinés à la consommation humaine (y compris les édulcorants, assaisonnements et autres ingrédients devant être mélangés à ces aliments et boissons ou être utilisés dans leur préparation) [...] » suivant la partie V de l'annexe III de la Loi. Les marchandises énoncées dans l'annexe III sont exonérées de la taxe en vertu du paragraphe 51(1) de la Loi. On signale que le libellé du préambule de la partie V de l'annexe III de la Loi est analogue à celui du préambule de la partie III de l'annexe VI et que les parties III et V comportent des listes d'exceptions semblables.
+[12] Le juge Linden de la Cour d'appel a conclu que la méthode appropriée pour décider si un aliment donné constitue un « aliment [...] destiné à la consommation humaine » consiste à déterminer si un chef de famille à qui l'on demande d'apporter des « aliments » pour le repas du soir, apporterait ou non les marchandises en litige. Cependant, le juge Linden a pris soin de souligner que ce critère ne signifie pas que, pour être un « aliment [...] destiné à la consommation humaine » , une chose ne peut être consommée qu'à l'occasion d'un repas[4].
+[13] Outre le critère qui précède, le juge Linden a examiné différents facteurs, dont les étiquettes fixées sur les produits en litige. Il a fait remarquer qu'au lieu de comporter une liste des ingrédients, comme c'est le cas pour la plupart des aliments, les étiquettes posées sur les flacons de vitamines renvoient à la « posologie » et précisent que les produits sont destinés à un « usage thérapeutique » . Le juge Linden a également signalé ce qui suit :
+Ils ne présentent pas les caractéristiques communes habituellement associées aux aliments. Ils n'ont pas un goût agréable. Ils n'ont pas de valeur énergétique. Ils n'apaisent pas la faim. Ils ne sont pas servis dans une assiette ni mangés avec un ustensile. Il s'agit de produits fabriqués servant à compenser des carences nutritives [...][5]
+[14] Il découle de l'ensemble de ces décisions un certain nombre de facteurs qui permettent de déterminer si une boisson ou un aliment donné appartient à la catégorie des « aliments ou boissons destinés à la consommation humaine » :
+a) La marchandise en cause fait-elle l'objet d'une exonération expresse de la taxe selon la liste d'exceptions prévues par la partie III de l'annexe VI de la Loi?;
+b) La marchandise peut-elle être légitimement considérée comme un aliment cuisiné?;
+c) La marchandise est-elle destinée à être consommée immédiatement une fois l'emballage ouvert ou enlevé?;
+d) Le consommateur doit-il procéder à une préparation plus poussée de la marchandise avant de la consommer?;
+e) La marchandise est-elle destinée à être consommée (par opposition, par exemple, à un produit nécessitant une application externe)?;
+f) La marchandise est-elle généralement considérée comme un produit alimentaire de base?;
+g) La marchandise présente-t-elle les caractéristiques habituellement associées aux aliments (c.-à-d., a-t-elle bon goût, son emballage comporte-t-il une liste des ingrédients, est-ce qu'elle apaise la faim, etc.)?
+[15] À la lumière des faits en l'espèce, il est évident que le paan n'est pas un produit alimentaire de base. Le paan est prêt à manger au moment de sa vente et est souvent utilisé pour favoriser la digestion des aliments et rafraîchir l'haleine. De même, il sert souvent à des fins non alimentaires, comme les cérémonies religieuses. En outre, même si le paan est « mangé » , il est habituellement mâché après un repas et seules les sécrétions de la feuille sont ingérées, tandis que la feuille elle-même est recrachée après mastication. Cet acte ne fait pas en sorte que le paan soit consommé ou détruit.
+[16] Le paan présente un certain nombre de caractéristiques qui, selon la jurisprudence, sont celles d'un produit autre qu'un produit alimentaire de base. Par conséquent, il ne peut être assimilé à une fourniture détaxée et est taxable au taux de sept pour cent en application du paragraphe 165(1).
+[17] L'Agence du revenu du Canada a publié un mémorandum concernant la partie III de l'annexe VI de la Loi. Le Mémorandum 4.3, publié en novembre 1997 et révisé le 5 septembre 2003 (le « mémorandum 4.3 » ) énonce :
+Les produits consommés comme aliments ou boissons par des groupes culturels particuliers, qui ne sont pas normalement identifiés comme aliments ou boissons au Canada, sont considérés comme des produits alimentaires de base détaxés si les aliments et les boissons sont consommés à ce titre pour l'alimentation (et non comme aliments ou boissons consommés pour leurs propriétés médicinales réelles ou présumées), sauf si les aliments ou les boissons sont expressément exclus de la détaxation en vertu des dispositions des alinéas 1a) à 1r) [...]
+[18] Quant au point de savoir si le paan constitue une fourniture détaxée, le mémorandum 4.3 ne change d'ailleurs rien à l'analyse qui précède. En effet, compte tenu de la façon dont le paan est utilisé, il est évident qu'il ne sert pas de « produit alimentaire de base [...] consommé à ce titre pour l'alimentation » . Le paan est habituellement employé pour rafraîchir l'haleine et favoriser la digestion; de plus, il est principalement mangé après le repas et seul le jus est ingéré tandis que le reste du produit est recraché après avoir été mâché.
+[19] La cotisation dont appel imposait également des intérêts en application de l'article 280 de la Loi. Voici le texte de cette disposition :
+[...] la personne qui ne verse pas ou ne paie pas un montant au receveur général dans le délai prévu par la présente partie est tenue de payer la pénalité et les intérêts suivants, calculés sur ce montant pour la période commençant le lendemain de l'expiration du délai et se terminant le jour du versement ou du paiement : a) une pénalité de 6 % par année; b) des intérêts au taux réglementaire. [...]
+[20] La décision de principe en matière d'imposition d'intérêts en application de l'article 280 est Pillar Oilfield Projects c. Canada, [1993] G.S.T.C. 49, Cour canadienne de l'impôt, no 93-614(GST)I, 19 novembre 1993. Même si l'affaire a été entendue dans le cadre de la procédure informelle, elle a été appliquée dans plusieurs décisions[6]. La décision Pillar permet d'affirmer que l'article 280 de la Loi crée une infraction de responsabilité stricte et qu'à ce titre, le seul moyen de défense recevable est celui de la diligence raisonnable[7]. Dans cette affaire, le contribuable avait commis un certain nombre d'erreurs dans sa déclaration de TPS et s'était donc vu imposer des intérêts et des pénalités en application de l'article 280. Le contribuable a interjeté appel des pénalités parce que les erreurs avaient été commises de bonne foi et qu'il était normal, compte tenu de la nouveauté de la TPS, qu'elles aient été commises. Le juge Bowman (tel était alors son titre) a conclu que la bonne foi n'équivalait pas à la diligence raisonnable et il a rejeté l'appel. Il a mentionné que la diligence raisonnable exige « la preuve positive que toutes les précautions raisonnables ont été prises pour qu'aucune erreur ne soit commise[8] » . Il a en outre conclu que la défense sera recevable si le contribuable croyait pour des motifs raisonnables à un état de faits inexistant qui, s'il avait existé, aurait rendu l'acte ou l'omission innocent, ou si le contribuable a pris toutes les précautions raisonnables pour éviter l'événement en question[9].
+[21] À la lumière des faits de la présente affaire, l'appelant n'a pas établi la défense de diligence raisonnable. Aucun élément de preuve montrant que l'appelant a pris toutes les précautions raisonnables pour qu'aucune erreur ne soit commise n'a été présenté. De plus, l'appelant n'a pas pris toutes les mesures raisonnables pour éviter un versement insuffisant de TPS.
+[22] L'appel est rejeté.
+Signé à Ottawa, Canada, ce 28e jour de septembre 2004.
+« Gerald J. Rip »
+Juge Rip
+Traduction certifiée conforme
+ce 15e jour d'avril 2005.
+Jacques Deschênes, traducteur
+RÉFÉRENCE :
+2004CCI659
+NO DE DOSSIER DE LA COUR :
+2004-1078(GST)I
+INTITULÉ DE LA CAUSE :
+Nazreen Begum Kandawala c.
+Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+Vancouver (Colombie-Britannique)
+DATE DE L'AUDIENCE :
+Le 4 août 2004
+MOTIFS DU JUGEMENT PAR :
+L'honorable Gerald J. Rip
+DATE DU JUGEMENT :
+Le 28 septembre 2004
+COMPARUTIONS :
+Représentant de l'appelant :
+S. Rhumtulla
+Avocate de l'intimée :
+Me Lisa Riddle
+AVOCAT(E) INSCRIT(E) AU DOSSIER :
+Pour l'appelant :
+Nom :
+Cabinet :
+Pour l'intimée :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Le ministre a également imposé à l'appelant des intérêts et des pénalités en application de l'article 280 de la Loi parce qu'il a omis de remettre les taxes au receveur général du Canada, contrairement à son obligation à cet effet.
+[2]
+Paragraphes 11 et 12.
+[3]
+Vincent Chow, paragraphe 9.
+[4]
+Shaklee, paragraphes 15 et 16.
+[5]
+Ibid., paragraphe 19.
+[6] Voir les décisions Willis v. Canada, [2000] G.S.T.C. 110, Roberts v. Canada, [1997] G.S.T.C. 58, et Ross v. Canada, [1996] G.S.T.C. 33.
+[7]
+Pillar, paragraphe 11.
+[8]
+Ibid., paragraphe 27.
+[9]
+Ibid., paragraphes 10 et 11.

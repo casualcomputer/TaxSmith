@@ -1,0 +1,228 @@
+---
+title: "Courtney v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30233/index.do"
+last_modified: "2011-02-22"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2011 TCC 117"
+citation2: ""
+neutral_citation: "2011 TCC 117"
+decision_date: "2011-02-22"
+language: "en"
+item_id: "30233"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7751
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T07:50:26.552000+00:00"
+cases_cited_count: 2
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "c9f0fec5c9ae3614d35fc2ece0bd2e1b99c26c1fbc9aa00cda07a8122c2c9d6a"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Courtney v. M.N.R.
+
+- Citation: 2011 TCC 117
+- Decision date: 2011-02-22
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7751, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Courtney v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2011-02-22
+Neutral citation
+2011 TCC 117
+File numbers
+2009-3112(EI)APP
+Judges and Taxing Officers
+Leslie M. Little
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2009-3112(EI)APP
+BETWEEN:
+CRYSTAL L. COURTNEY,
+Applicant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Application heard on April 19, 2010 in Fort McMurray, Alberta and on January 20, 2011 in Edmonton, Alberta
+Before: The Honourable Justice L.M. Little
+Appearances:
+For the Applicant:
+The Applicant Herself
+Counsel for the Respondent:
+Adam Gotfried
+____________________________________________________________________
+ORDER
+The application for an extension of time to file an appeal with respect to a decision of the Minister of National Revenue is dismissed in accordance with the attached Reasons for Order.
+Signed at Vancouver, British Columbia, this 22nd day of February 2011.
+“L.M. Little”
+Little J.
+Citation: 2011 TCC 117
+Date: February 22, 2011
+Docket: 2009-3112(EI)APP
+BETWEEN:
+CRYSTAL L. COURTNEY,
+Applicant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR ORDER
+Little J.
+A. FACTS
+[1] The Applicant filed an application to the Court for an Order granting an extension of time to file an appeal with respect to a decision of the Minister of National Revenue (the “Minister”). The Applicant is seeking to reduce or eliminate the amount of Employment Insurance benefits (“EI benefits”) that the Canada Revenue Agency (the “CRA”) claims she must repay under section 44 of the Employment Insurance Act, SC 1996, c 23, (the “EI Act”).
+[2] Counsel for the Respondent filed a Notice of Motion to dismiss the Notice of Appeal on the basis that the Tax Court did not have the jurisdiction to hear the appeal.
+[3] The application was originally heard in Fort McMurray, Alberta on April 19, 2010. The application was adjourned sine die to give the Applicant the opportunity to obtain records from her lawyer in Newfoundland and Labrador.
+[4] The application was recommenced in Edmonton, Alberta, on
+January 20, 2011. At the conclusion of the hearing, I stated that I would review the situation and issue an Order.
+[5] I have also considered the additional information that was submitted by the Applicant and the letter dated February 9, 2011 from Adam Gotfried of the Department of Justice.
+[6] The facts indicate that, in 2003, the Applicant received EI benefits while she was looking for employment.
+[7] The Applicant was able to locate employment at Bloomsberry Day Care (“Bloomsberry”) in Newfoundland, but within two to three weeks discovered that she could not continue in this position because of problems with her back.
+[8] The Applicant mistakenly assumed that the Record of Employment (“ROE”) issued by Bloomsberry would be sufficient to inform EI officials of her work.
+[9] EI officials decided that, because of this error, the Applicant was disentitled to receive any EI benefits and they required her to repay the entire amount of benefits that she had received, which amounted to approximately $7,000.00.
+[10] Later, in 2006, the Applicant, finding herself without the means to meet her financial obligations, made an assignment in bankruptcy.
+[11] The Applicant filed with the Tax Court the documents relating to her bankruptcy which showed an amount as a liability to be discharged under “Social Development Canada” account number 128031887 in the amount of $6,870.00.
+[12] The Applicant testified that the above amount represented her EI debt and she understood that it was to be discharged by her bankruptcy.
+[13] The Applicant was discharged from bankruptcy in October of 2006.
+[14] On January 8, 2008, the CRA sent the Applicant a letter informing her that, according to their records, she still had an outstanding debt to Human Resources and Social Development Canada. The notice informed her that the CRA may withhold income tax and GST/HST refunds in order to collect on this debt.
+[15] The Applicant replied to this letter on January 18, 2008 to remind CRA officials that they had been sent notification in January of 2006 that she had declared bankruptcy and that her EI debt had been discharged as a result.
+[16] The Applicant testified that, notwithstanding this letter, CRA officials continue to withhold income tax and GST/HST refunds. The Applicant also testified that she continues to have a portion of her current maternity benefits seized by the CRA.
+[17] The Applicant stated that the CRA continues to assert that she owes $4,450.00 in EI debt despite their having already collected approximately $3,300.00 from her by withholding her tax refunds and garnisheeing her maternity benefits.
+[18] The Applicant currently manages a cleaning company that was started by her husband. She testified that they clean apartment buildings in Fort McMurray in preparation for move‑ins/move-outs, clean offices, and perform any other cleaning work that becomes available to them.
+[19] Counsel for the Respondent argued that the Tax Court of Canada does not have the jurisdiction to hear matters involving entitlement to EI benefits where the insurability of the taxpayer is not in question.
+B. ISSUES
+[20] The issues are:
+1. Does the Tax Court have jurisdiction to hear this matter?
+2. If not, where must the Applicant go to have her case decided?
+C. ANALYSIS AND DECISION
+[21] Section 12 of the Tax Court of Canada Act, RSC 1985, c T-2, (the “TCC Act”), sets out the jurisdiction and powers of the Court:
+12. (1) The Court has exclusive original jurisdiction to hear and determine references and appeals to the Court on matters arising under the Air Travellers Security Charge Act, the Canada Pension Plan, the Cultural Property Export and Import Act, Part V.1 of the Customs Act, the Employment Insurance Act, the Excise Act, 2001, Part IX of the Excise Tax Act, the Income Tax Act, the Old Age Security Act, the Petroleum and Gas Revenue Tax Act and the Softwood Lumber Products Export Charge Act, 2006 when references or appeals to the Court are provided for in those Acts.
+[22] The EI Act confers jurisdiction upon the Tax Court in certain situations:
+103. (1) Appeal to the Tax Court of Canada - The Commission or a person affected by a decision on an appeal to the Minister under section 91 or 92 may appeal from the decision to the Tax Court of Canada in accordance with the Tax Court of Canada Act and the applicable rules of court made thereunder within 90 days after the decision is communicated to the Commission or the person, or within such longer time as the Court allows on application made to it within 90 days after the expiration of those 90 days.
+(Emphasis added)
+[23] Sections 91 and 92 of the EI Act state:
+91. Appeal of rulings - An appeal to the Minister from a ruling may be made by the Commission at any time and by any other person concerned within 90 days after the person is notified of the ruling.
+92. Appeal of assessments - An employer who has been assessed under section 85 may appeal to the Minister for a reconsideration of the assessment, either as to whether an amount should be assessed as payable or as to the amount assessed, within 90 days after being notified of the assessment.
+[24] The kinds of rulings and assessments which may be appealed are found in sections 85 and 90 of the EI Act:
+85. (1) Assessment - The Minister may assess an employer for an amount payable by the employer under this Act, or may reassess the employer or make such additional assessments as the circumstances require, and the expression “assessment” when used in this Act with reference to any action so taken by the Minister under this section includes a reassessment or an additional assessment.
+90. (1) Request for ruling - An employer, an employee, a person claiming to be an employer or an employee or the Commission may request an officer of the Canada Revenue Agency authorized by the Minister to make a ruling on any of the following questions:
+(a) whether an employment is insurable;
+(b) how long an insurable employment lasts, including the dates on which it begins and ends;
+(c) what is the amount of any insurable earnings;
+(d) how many hours an insured person has had in insurable employment;
+(e) whether a premium is payable;
+(f) what is the amount of a premium payable;
+(g) who is the employer of an insured person;
+(h) whether employers are associated employers; and
+(i) what amount shall be refunded under subsections 96(4) to (10).
+[25] Finally, section 114 of the EI Act deals with appeals of decisions made by the EI Commission:
+114. (1) Appeal to board of referees - A claimant or other person who is the subject of a decision of the Commission, or the employer of the claimant, may appeal to the board of referees in the prescribed manner at any time within
+(a) 30 days after the day on which a decision is communicated to them; or
+(b) such further time as the Commission may in any particular case for special reasons allow.
+[26] The Bankruptcy and Insolvency Act, RSC 1985, c B-3, (the “BIA”) sets out the jurisdiction of the courts to hear matters relating to bankruptcy. Section 2 defines a “court” for the purposes of the BIA:
+“court”
+“court”, except in paragraphs 178(1)(a) and (a.1) and sections 204.1 to 204.3, means a court referred to in subsection 183(1) or (1.1) or a judge of that court, and includes a registrar when exercising the powers of the court conferred on a registrar under this Act;
+Subsection 183(1) reads:
+Courts vested with jurisdiction
+183. (1) The following courts are invested with such jurisdiction at law and in equity as will enable them to exercise original, auxiliary and ancillary jurisdiction in bankruptcy and in other proceedings authorized by this Act during their respective terms, as they are now, or may be hereafter, held, and in vacation and in chambers:
+…
+(d) in the Provinces of New Brunswick and Alberta, the Court of Queen’s Bench;
+… .
+(Emphasis added)
+[27] The decision of 512146 B.C. Ltd. v Dextras Engineering & Construction Ltd., 2001 BCSC 534, 26 CBR (4th) 128 [Dextras], emphasizes the importance of bringing bankruptcy-related motions in the correct court sitting in bankruptcy. In that case, the applicant brought a motion in the British Columbia Supreme Court but brought it under the regular civil division rather than the bankruptcy division. Burnyeat J. stated:
+[32] Counsel for the Trustee submits that the Judges of the Supreme Court have concurrent jurisdiction so that an Order in bankruptcy can be made in civil proceedings such as the Cancellation Proceedings. I have come to a contrary conclusion.
+[33] The term “court” is defined under s.2 of the BIA to mean: “…the Court having jurisdiction in bankruptcy or a judge thereof…”. This definition applies generally under the BIA except for the references to “court” contained in ss.178(1)(a), 204.1 to 204.3, and 243(1). It follows from the definition of “court” that applications such as the Trustee made under s.135 of the BIA should be made in bankruptcy proceedings in the Supreme Court of British Columbia before a Supreme Court Judge. In this case, the motion should have been heard in the Bankruptcy Proceedings. That was not done.
+[34] Section 187(10) of the BIA does not assist the Trustee. That section deals with proceedings which have been commenced, taken or carried in the wrong bankruptcy court and not with proceedings which were not commenced, taken or carried in a bankruptcy proceeding. As it is necessary for bankruptcy proceedings to be commenced in the bankruptcy registry closest to the residence of the debtor, s.187(10) of the BIA is only available to allow bankruptcy proceedings to be transferred from one bankruptcy registry to another – from one bankruptcy court to another. For instance see, Re Tobin (1930), 12 C.B.R. 55 (Que. S.C.), Re Soloway (1938), 19 C.B.R. 350 [(Ont. S.C.)], aff’d [(1939),] 20 C.B.R. 309 (Ont. S.C.) and Re Fundy Supplies Ltd. (1972), 18 C.B.R. (N.S.) 171 (N.B.C.A.).
+[35] Section 187(10) cannot be used to permit the transfer of proceedings from the Supreme Court sitting as a bankruptcy court to the Supreme Court sitting as a civil court. Similarly, a court cannot make valid by a transfer under s.187(10) a proceeding that is void: Re Chambers (1937), 18 C.B.R. 149 (Ont. S.C.). It should be noted that s.187(10) contains the words “wrong court” and not the “wrong action”.
+(Emphasis added)
+[28] The above statements of law make it clear that the Tax Court does not have the requisite jurisdiction to hear the case at hand.
+[29] The only jurisdiction conferred upon the Tax Court by section 104 of the EI Act relates to determinations such as eligibility for EI benefits and applicability of premiums. I believe that Counsel for the Respondent was correct in pointing out that the Applicant’s motion deals with (at least to the extent that EI legislation is relevant) her eligibility for benefits. This does not fall within any of the matters described in sections 85 or 90 of the EI Act. Rather, it falls within the domain of section 114, the jurisdiction over which has been given to the board of referees. However, the question of the Applicant’s eligibility for EI benefits is but one form that this dispute may take.
+[30] The other debate – the more salient debate – centres on the question of why the CRA continues to withhold monies in payment of a debt that has ostensibly been extinguished by the discharge of the Applicant from bankruptcy. This is clearly a question for a superior court sitting in bankruptcy proceedings. Clearly, neither the TCC Act nor the BIA grant any jurisdiction to the Court in matters of bankruptcy. According to Dextras, neither is it possible for the Court to simply transfer this matter to the Court of Queen’s Bench of Alberta Sitting in Bankruptcy and Insolvency, although that would perhaps be the simplest solution for everyone involved.
+[31] In order to have this question settled, I believe that the Applicant must bring a motion to declare her EI debt released to the Court of Queen’s Bench of Alberta Sitting in Bankruptcy and Insolvency. The Bankruptcy and Insolvency General Rules, C.R.C., c. 368, state:
+Court Proceedings
+9. (1) All proceedings used in court must be dated and entitled in the name of the court in which they are used, together with the words “in Bankruptcy and Insolvency”.
+(2) Every document used in the filing of a bankruptcy application or used after the filing of an assignment must be entitled “In the Matter of the Bankruptcy of …”.
+…
+Motions
+11. Subject to these Rules, every application to the court must be made by motion unless the court orders otherwise.
+…
+(Emphasis added)
+[32] In my opinion, the Tax Court does not have jurisdiction to hear this appeal. I have concluded that this is a situation that must be dealt with either by the Court of Queen’s Bench of Alberta Sitting in Bankruptcy and Insolvency or by the Employment Insurance Board of Referees.
+[33] Before concluding my comments, I believe that this is a situation where the Minister of National Revenue should seek a remission of debt under section 23 of the Financial Administration Act, RSC 1985, c F-11, (the “FAA”). Parliament has enacted legislation that permits, at the discretion of the Governor-in-Council, there to be granted a remission of taxes, penalties or other debts owed to the Crown. Section 23 of the FAA reads as follows:
+Definitions
+23. (1) In this section,
+“other debt”
+“other debt” means any amount owing to Her Majesty, other than a tax or penalty or an amount in respect of which subsection 24.1(2) applies;
+“penalty”
+“penalty” includes any forfeiture or pecuniary penalty imposed or authorized to be imposed by any Act of Parliament for any contravention of the laws relating to the collection of the revenue, or to the management of any public work producing tolls or revenue, notwithstanding that part of such forfeiture or penalty is payable to the informer or prosecutor, or to any other person;
+“tax”
+“tax” includes any tax, impost, duty or toll payable to Her Majesty, imposed or authorized to be imposed by any Act of Parliament.
+Remission of taxes and penalties
+(2) The Governor in Council may, on the recommendation of the appropriate Minister, remit any tax or penalty, including any interest paid or payable thereon, where the Governor in Council considers that the collection of the tax or the enforcement of the penalty is unreasonable or unjust or that it is otherwise in the public interest to remit the tax or penalty.
+Remission of other debts
+(2.1) The Governor in Council may, on the recommendation of the Treasury Board, remit any other debt, including any interest paid or payable thereon, where the Governor in Council considers that the collection of the other debt is unreasonable or unjust or that it is otherwise in the public interest to remit the other debt.
+…
+(Emphasis added)
+[34] Thus, the Treasury Board may recommend to the Governor-in-Council that the Applicant’s EI debt be remitted. If the Governor-in-Council considers that the collection of the EI debt is unreasonable or unjust or that it is in the public interest to remit the EI debt, it may so order.
+[35] In this case, a strong argument can be made that the collection of the Applicant’s EI debt is indeed unreasonable and unjust. In Vachon v
+Canada (Employment & Immigration Commission), [1985] 2 SCR 417, 23 D.L.R. (4th) 641 [Vachon], the Supreme Court was faced with an individual who had received an overpayment of EI benefits as a result of an error. No fraud had been committed on his part. However, as a result of the overpayment, he owed the Crown the sum of $922.00. He subsequently made an assignment in bankruptcy. The Unemployment Insurance Commission nevertheless continued to collect on the sum by withholding future benefits. Beetz, J. explained the issue before the court:
+[11] The question that must be decided is the following: does the recovery of an overpayment by retention from subsequent benefits, applied by respondent, constitute within the meaning of s. 49(1) of the Bankruptcy Act a remedy against the debtor or his property, an action, execution or other proceeding which had been stayed except, as provided by this section, with leave of the Court or on such terms as the Court might impose?
+[36] The Supreme Court unanimously decided that the retention did indeed constitute a remedy, an action, an execution, or another such proceeding that could not proceed except with leave of the Court. The reasons for reaching this conclusion were stated by Beetz, J.:
+[45] In my view, appellant was right to see an analogy between the wages of a bankrupt and unemployment insurance benefits, and to argue that the partial or complete elimination of the latter may deprive the bankrupt of his means of subsistence, contrary to another objective of the Bankruptcy Act. If retentions from unemployment insurance benefits cannot be made without the Court's authority, as specified in s. 49(1), the Court will ensure that this other objective is not lost sight of.
+[46] Moreover, the sole objective of the Bankruptcy Act mentioned by respondent, namely an equitable distribution of the bankrupt's property to his creditors, and the interests of the latter, will also be taken into account by the Court, to which the respondent will apply pursuant to s. 49(1) for authority to recover the overpayment by retention from subsequent benefits. The Court may grant such authorization, refuse it or grant it only in part or on certain conditions, taking all the circumstances into account.
+[47] In other words, the grammatical or literal interpretation of s. 49(1) of the Bankruptcy Act, which makes retentions from unemployment insurance benefits subject to authorization by the Court, is not an obstacle to pursuing any of the objectives of the Bankruptcy Act. On the contrary, it makes possible the coherent pursuit of those various objectives, under the supervision of the Court. It may be added that it will also have the effect of facilitating the administration of the bankruptcy by the trustee, who will thus automatically be informed of retentions made by creditors who have also filed claims in the bankruptcy.
+(Emphasis added)
+[37] I believe that the facts and reasoning of Vachon are applicable to the facts at hand. As in Vachon, there has been no determination that the Applicant received her EI benefits as a result of any fraud. Neither has the CRA or the EI commission sought the permission of the Court to continue to collect on the EI debt. Nevertheless, the Applicant has had her subsequent maternity EI benefits reduced, thereby depriving her of her means of subsistence.
+[38] Furthermore, I wish to note that, even if the EI commission had determined internally that by making the error of not reporting her three weeks of employment because she assumed her ROE would be sufficient to inform the EI authorities, the Applicant committed an act of fraud, this is not sufficient for them to unilaterally collect on the EI debt post-bankruptcy. In Canada (Attorney General) v
+Bourassa (Trustee of), 2002 ABCA 205, [2002] 11 WWR 285 [Bourassa], a bankrupt individual had been the subject of an Order of Discharge under the BIA. At the discharge application, the Attorney General of Canada entered no appearance and therefore did not oppose it. However, previously, the Employment Insurance Commission had used its own internal mechanisms to decide that the debt was a result of fraud committed on the part of Mr. Bourassa. Nevertheless, a conclusion of fraud arrived at via the internal processes of a creditor agency was not nearly enough to satisfy the Alberta Court of Appeal that an exemption was triggered that would allow the debt to survive bankruptcy. McClung, J., writing on behalf of the majority, stated:
+[4] Before this Court, the Appellant Attorney-General argued that a debt which falls under s. 178(1)(e) survives bankruptcy by operation of law, so that no court declaration to this effect is required. As a consequence, it is argued, the Registrar lacked jurisdiction to impose such a condition obliging the Crown to pursue a further court application. The Appellant Attorney-General relies on the Employment Insurance Commission’s internal finding of fraud, stressing that it is the bankrupt who must seek to refute that finding by either appealing it through the statutory appeal procedures found in the Employment Insurance Act, or by seeking to answer the Appellant Attorney-General’s attempts to collect the debt on the basis of his bankruptcy and subsequent discharge.
+[5] I disagree with the Appellant’s stance. While it is true that s. 178(1)(e) does not expressly require a court declaration, a creditor, even the Crown, cannot be permitted to make its own determination of fraud and then revert to collection of its debt on that basis. A court order declaring fraud, whether obtained before, during or after a discharge from bankruptcy, is required to free a creditor to pursue its claim against a discharged bankrupt. …
+(Emphasis added)
+[39] Based on this judicial statement, which has not been overturned and which still stands as an accurate statement of bankruptcy law in Canada, it is difficult to imagine why the EI Commission and the CRA would continue to rely solely on an internal finding of fraud (which has not even been alleged to date in this case) to continue to collect on a claim that has, from a legal perspective, been released by virtue of the assignment in bankruptcy and subsequent discharge of the Applicant.
+[40] By withholding maternity benefits, the CRA is depriving the Applicant – who is, from the evidence presented to the Court, an individual of very modest means and who was forced to declare bankruptcy over an inability to service a relatively small amount of debt – of her means of subsistence. Furthermore, in order to have her rights enforced by the courts, the Applicant would now be required to file yet another motion in yet another court because of jurisdictional issues. She would be forced to incur yet more costs, more delays, and be faced with the additional stress of navigating the bankruptcy court system, which is quite foreign to most individual Canadians. It appears that the CRA is acting contrary to valid principles of bankruptcy law as stated by both the Supreme Court of Canada in Vachon and the Alberta Court of Appeal in Bourassa. I would suggest that this is an appropriate case for the Treasury Board to recommend a remission of the Applicant’s EI debt under section 23 of the FAA. To continue to attempt to collect on the EI debt would be both unreasonable and unjust.
+[41] The Minister’s Notice of Motion is accepted.
+Signed at Vancouver, British Columbia, this 22nd day of February 2011.
+“L.M. Little”
+Little J.
+CITATION: 2011 TCC 117
+COURT FILE NO.: 2009-3112(EI)APP
+STYLE OF CAUSE: CRYSTAL L. COURTNEY AND MINISTER OF NATIONAL REVENUE
+PLACES OF HEARING: Fort McMurray, Alberta and
+Edmonton, Alberta
+DATES OF HEARING: April 19, 2010 and January 20, 2011
+REASONS FOR ORDER BY: The Honourable Justice L.M. Little
+DATE OF ORDER: February 22, 2011
+APPEARANCES:
+For the Applicant:
+The Applicant Herself
+Counsel for the Respondent:
+Adam Gotfried
+COUNSEL OF RECORD:
+For the Applicant:
+Name:
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada

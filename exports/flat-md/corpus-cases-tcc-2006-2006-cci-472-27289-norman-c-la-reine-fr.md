@@ -1,0 +1,205 @@
+---
+title: "Norman c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27289/index.do"
+last_modified: "2006-09-25"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 CCI 472"
+citation2: ""
+neutral_citation: "2006 CCI 472"
+decision_date: "2006-09-25"
+language: "fr"
+item_id: "27289"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 896
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T23:43:41.476000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "4c75a9e1a46bad28a4ebba84103f3278bbc908d2f357cee4f06aef59bc8f3f45"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Norman c. La Reine
+
+- Citation: 2006 CCI 472
+- Decision date: 2006-09-25
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 896, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Norman c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-09-25
+Référence neutre
+2006 CCI 472
+Numéro de dossier
+2004-3953(GST)G
+Juges et Officiers taxateurs
+Terrence O'Connor
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2004-3953(GST)G
+ENTRE :
+ROBERT LARRY NORMAN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Requête entendue le 14 août 2006 à Belleville (Ontario)
+Devant : L’honorable juge T. O'Connor
+Comparutions :
+Pour l’appelant :
+L’appelant lui‑même
+Avocat de l’intimée :
+Me Gatien Fournier
+ORDONNANCE
+Vu la requête de l’intimée visant à obtenir une ordonnance de rejet de l’appel;
+Et vu les allégations des parties et le contenu des documents qu’elles ont déposés;
+La requête de l’intimée est accueillie, et l’appel est rejeté, avec dépens en faveur de l’intimée, payables sans délai quelle que soit l’issue de la cause, conformément aux motifs de l’ordonnance ci‑joints.
+Signé à Ottawa, Canada, ce 25e jour de septembre 2006.
+« T. O'Connor »
+Juge O'Connor
+Traduction certifiée conforme
+ce 23e jour de janvier 2008.
+Jean David Robert, traducteur
+Référence : 2006CCI472
+Date : 20060925
+Dossier : 2004-3953(GST)G
+ENTRE :
+ROBERT LARRY NORMAN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE
+Le juge O'Connor
+[1] Le présent avis de requête en rejet d’appel a initialement été déposé par l’intimée le 24 avril 2006. Dans une lettre datée du 2 juin 2006, la Cour a avisé l’appelant et l’intimée que cette requête serait instruite le lundi 14 août 2006, à 9 h 30. Le 4 août 2006, l’intimée a déposé un avis de requête modifié, mais, à l’audience tenue le 14 août 2006, à laquelle a comparu l’appelant, elle a retiré l’avis de requête modifié, sans doute parce que l’appelant n’avait pas été avisé de celui‑ci ou de sa date d’instruction.
+[2] Par conséquent, en l’espèce, je ne dois examiner que l’avis de requête initial présenté le 24 avril 2006 (la « requête en rejet d’appel »), qui est appuyé par un affidavit de Marie‑Eve Aubry, daté du 21 avril 2006, initialement déposé devant la Cour le 24 avril 2006.
+[3] La requête en rejet d’appel a été déposée en vertu des articles 64 et 65 des Règles de la Cour canadienne de l’impôt (procédure générale). Il s’agit d’une requête visant à obtenir une ordonnance :
+[traduction]
+1. rejetant l’appel [...]
+2. accordant toute autre mesure de redressement que la Cour estime juste, le tout avec dépens en faveur de l’intimée, payables sans délai quelle que soit l’issue de la cause.
+[4] Les moyens de la requête en rejet d’appel sont les suivants :
+[traduction]
+1. que l’intimée n’est pas en défaut en vertu des Règles;
+2. que l’appelant a omis de fournir à l’intimée les précisions demandées;
+3. que l’appelant ne s’est pas conformé à l’ordonnance rendue par M. le juge T. O'Connor de la Cour le 6 décembre 2005, qui lui enjoignait de fournir à l’intimée toutes les précisions demandées dans les trente jours suivant la date à laquelle cette ordonnance avait été rendue;
+4. que l’appelant n’a pas poursuivi son appel avec promptitude.
+[5] La chronologie des faits menant au dépôt de la requête en rejet d’appel est la mieux présentée dans les extraits suivants de l’affidavit de Marie‑Eve Aubry déposé à l’appui de cette requête, lequel est daté du 21 avril 2006, et d’un autre affidavit de Mme Aubry daté du 23 novembre 2005, qui a été déposé à l’appui de la requête en précisions.
+L’affidavit daté du 21 avril 2006 qui a été déposé le 24 avril 2006
+à l’appui de la requête en rejet d’appel
+[traduction]
+[...]
+2. Le 15 février 2005, Me Gatien Fournier (« Me Fournier »), l’avocat de l’intimée, a envoyé à l’appelant, par poste prioritaire, une demande de précisions concernant certains faits allégués dans l’avis d’appel, en application de l’article 52 des Règles de la Cour canadienne de l’impôt (procédure générale), et un projet de consentement visant à prolonger le délai pour le dépôt de la réponse. [...]
+3. Dans la demande de précisions [...], Me Fournier a demandé que les précisions soient produites dans les trente jours suivant la date de la demande.
+4. L’appelant a reçu la demande de précisions et le projet de consentement le 21 février 2005. [...]
+5. Le 24 février 2005, l’appelant a envoyé à Me Fournier, par télécopie, le projet de consentement signé par lui‑même et datée du 24 février 2005. [...]
+6. L’appelant n’a pas produit les précisions dans les trente jours suivant la date de la demande de précisions. Par conséquent, le 24 mars 2005, l’intimée a déposé auprès de la Cour une requête en précisions. [...]
+[Des copies de tous les documents pertinents sont annexées à l’affidavit.]
+L’affidavit daté du 23 novembre 2005
+qui a été déposé à l’appui de la requête en précisions
+[traduction]
+[...]
+2. Le 24 mars 2005, l’intimée a déposé et signifié à l’appelant un avis de requête dans lequel elle demandait qu’il lui soit enjoint de produire des précisions concernant des faits allégués dans l’avis d’appel. Une copie de l’avis de requête a déjà été déposée auprès de la Cour canadienne de l’impôt.
+3. Le 30 mars 2005, la Cour canadienne de l’impôt a envoyé une lettre à l’appelant, dans laquelle elle lui demandait de déposer auprès de la Cour toute observation ou tout commentaire écrits qu’il pourrait avoir concernant la requête en précisions de l’intimée. Une copie certifiée conforme de la lettre datée du 30 mars 2005 est jointe sous la cote A à mon affidavit.
+4. Dans la lettre déposée sous la cote A, la Cour a indiqué à l’appelant qu’il avait jusqu’au 20 avril 2005 pour fournir sa réponse.
+5. Le ou vers le 19 avril 2005, l’appelant a déposé devant la Cour une réponse à la requête en précisions de l’intimée. Une copie certifiée conforme de la réponse est jointe sous la cote B à mon affidavit.
+6. Le 5 mai 2005, la Cour a envoyé à Me Gatien Fournier, l’avocat de l’intimée, une lettre qui contenait la réponse de l’appelant (pièce B) et dans laquelle il était demandé que l’intimée fournisse à la Cour tout autre commentaire ou toute autre observation qu’elle pourrait avoir avant le 20 mai 2005. Une copie certifiée conforme de la lettre de la Cour datée du 5 mai 2005 est jointe sous la cote C à mon affidavit.
+7. Le 19 mai 2005, l’intimée a répondu à la lettre datée du 5 mai 2005 (pièce C) et elle a confirmé que, malgré les réponses fournies par l’appelant, les questions formulées aux alinéas 1a), b) et d) de la requête de l’intimée restaient sans réponse à cette date‑là. Une copie certifiée conforme de la lettre de l’intimée datée du 19 mai 2005 est jointe sous la cote D à mon affidavit.
+8. Le 2 juin 2005, la Cour a envoyé à l’appelant une lettre dans laquelle elle demandait à celui‑ci de lui fournir des commentaires concernant les alinéas 1a), b) et d) de la requête en précisions de l’intimée au plus tard le 17 juin 2005. Une copie certifiée conforme de la lettre de la Cour datée du 2 juin 2005 est jointe sous la cote E à mon affidavit.
+9. Le 4 juillet 2005, la Cour a envoyé une deuxième lettre à l’appelant dans laquelle elle l’avisait que rien n’indiquait qu’elle avait reçu sa réponse à la lettre datée du 2 juin 2005 et l’informait qu’elle lui saurait gré de répondre au plus tard le 15 juillet 2005. Une copie certifiée conforme de la lettre de la Cour datée du 4 juillet 2005 est jointe sous la cote F à mon affidavit.
+10. Le 10 août 2005, la Cour a envoyé une troisième lettre à l’appelant dans laquelle elle lui demandait de fournir ses commentaires à la Cour au plus tard le 29 août 2005. Une copie certifiée conforme de la lettre de la Cour datée du 10 août 2005 est jointe sous la cote G à mon affidavit.
+11. Dans une lettre datée du 12 septembre 2005, l’appelant a répondu à la lettre de la Cour (pièce G). Une copie certifiée conforme de la réponse est jointe sous la cote H à mon affidavit.
+12. Le 5 octobre 2005, la Cour a envoyé à Me Gatien Fournier une lettre qui contenait la réponse de l’appelant datée du 12 septembre 2005 (pièce H). Une copie certifiée conforme de la lettre de la Cour datée du 5 octobre 2005 est jointe sous la cote I à mon affidavit.
+13. Le 4 novembre 2005, la Cour a ordonné que la requête en précisions de l’intimée soit instruite le 28 novembre 2005 à Belleville, en Ontario. Une copie de l’ordonnance est jointe sous la cote J à mon affidavit.
+14. Me Gatien Fournier m’a informée qu’à ce jour [le 23 novembre 2005] les précisions demandées aux alinéas 1a), b) et d) de la requête en précisions de l’intimée restaient sans réponse.
+Affidavit daté du 21 avril 2006 qui a été déposé le 24 avril 2006
+à l’appui de la requête en rejet d’appel
+[traduction]
+[...]
+7. Le 28 novembre 2005, l’honorable juge T. O'Connor a instruit la requête de l’intimée à Belleville, en Ontario.
+8. Le 6 décembre 2005, la Cour a accueilli la requête de l’intimée telle qu’elle avait été rédigée. Une copie de l’ordonnance est jointe sous la cote F à mon affidavit.
+9. Le 4 janvier 2006, l’appelant a communiqué à l’intimée certains des renseignements qui étaient demandés comme il est expliqué dans une lettre portant la même date. Une copie de la lettre et des renseignements qui y sont contenus est jointe sous la cote G à mon affidavit.
+10. Le 13 mars 2006, j’ai envoyé à l’appelant une lettre dans laquelle je demandais que le reste des précisions soient fournies à l’intimée au plus tard le 24 mars 2006. Une copie de la lettre est jointe sous la cote H à mon affidavit.
+11. Le 4 avril 2006, l’appelant a envoyé une lettre à l’intimée en réponse à la lettre de celle‑ci datée du 13 mars 2006. Une copie de la lettre de l’appelant est jointe sous la cote I à mon affidavit.
+12. Le 6 avril 2006, j’ai envoyé à l’appelant une lettre dans laquelle je demandais que le reste des précisions soient fournies à l’intimée au plus tard à 16 h le 20 avril 2006. Une copie de la lettre est jointe sous la cote « J » à mon affidavit.
+13. Me Fournier m’a informée qu’à ce jour [le 21 avril 2006] l’intimée n’a pas reçu d’autres renseignements ou précisions de la part de l’appelant.
+Aucune des allégations faites dans ces affidavits n’a été niée ni réfutée.
+[6] Les précisions demandées dans la requête en précisions qui n’ont toujours pas été produites sont les suivantes :
+[traduction]
+A. L’avis d’appel énonce aux paragraphes 2 et 8 ce qui suit :
+2. L’appelant est bénéficiaire des droits conférés par l’acte de Simcoe et d’autres traités associés aux MBQ.
+[...]
+8. En vertu de l’acte de Simcoe et de tout autre traité associé aux MBQ, l’appelant n’est pas tenu de : (1) demander un numéro de TPS ou (2) percevoir et verser la TPS relativement à des opérations commerciales effectuées sur le territoire des MBQ. Les droits issus de traités sont reconnus et confirmés par l’article 35 de la Loi constitutionnelle de 1982.
+[7] L’acte de Simcoe a été fourni par l’appelant, de sorte que les précisions qui n’ont pas été produites à cet égard se rapportent aux questions suivantes : quels sont les autres traités associés aux MBQ (Mohawks de la baie de Quinte) qui établissent que l’appelant est bénéficiaire des droits conférés par ceux‑ci, et quels sont les autres traités associés aux MBQ qui établissent qu’il n’est pas tenu de : (1) demander un numéro de TPS ou (2) percevoir et verser la TPS relativement à des opérations commerciales effectuées sur le territoire des MBQ?
+[traduction]
+B. L’avis d’appel énonce aux paragraphes 3 et 9 ce qui suit :
+3. L’appelant est bénéficiaire des droits ancestraux des MBQ.
+[...]
+9. En vertu des droits ancestraux des MBQ, l’appelant n’est pas tenu de : (1) demander un numéro de TPS ou (2) percevoir et verser la TPS relativement à des opérations commerciales effectuées sur le territoire des MBQ. Les droits ancestraux des peuples autochtones sont reconnus et confirmés par l’article 35 de la Loi constitutionnelle de 1982.
+[8] À cet égard, les précisions qui n’ont pas été produites se rapportent aux questions suivantes : qu’est‑ce qui fait de l’appelant un bénéficiaire des droits ancestraux des MBQ, et comment ces droits originaires des MBQ établissent‑ils qu’il n’est pas tenu de (1) demander un numéro de TPS ou (2) percevoir et verser la TPS relativement à des opérations commerciales effectuées sur le territoire des MBQ?
+[traduction]
+C. L’avis d’appel énonce aux paragraphes 6 et 12 ce qui suit :
+6. Les politiques de l’ADRC exonèrent les citoyens des Premières nations de la TPS dans certaines circonstances.
+[...]
+12. En vertu des politiques de l’ADRC, l’appelant n’est pas tenu de : (1) demander un numéro de TPS ou (2) percevoir et verser la TPS relativement à des opérations commerciales effectuées sur le territoire des MBQ.
+[9] À cet égard, les précisions qui n’ont pas été produites se rapportent aux questions suivantes : quelles sont les politiques de l’ADRC qui exonèrent les citoyens des Premières nations de la TPS dans certaines circonstances, et quelles politiques de l’ADRC établissent que l’appelant n’est pas tenu de demander un numéro de TPS ni de percevoir et de verser la TPS relativement à des opérations commerciales effectuées sur le territoire des MBQ?
+[10] Il est clair, compte tenu de ce qui précède, que, malgré les nombreuses demandes présentées et les nombreux délais accordés, l’appelant ne s’est pas conformé à l’ordonnance de la Cour lui enjoignant de produire les précisions demandées et qu’il n’a pas poursuivi son appel avec promptitude. En conséquence, il ne s’est pas conformé à l’ordonnance rendue par la Cour le 6 décembre 2005 et il n’a pas poursuivi l’appel avec promptitude.
+[11] J’ai examiné les précédents qui se rapportent à la présente affaire et je suis convaincu que les défauts en cause constituent un motif de rejet de l’appel.
+[12] Par conséquent, l’appel est rejeté avec dépens en faveur de l’intimée, payables sans délai quelle que soit l’issue de la cause.
+Signé à Ottawa, Canada, ce 25e jour de septembre 2006.
+« T. O'Connor »
+Juge O'Connor
+Traduction certifiée conforme
+ce 23e jour de janvier 2008.
+Jean David Robert, traducteur
+RÉFÉRENCE :
+2006CCI472
+Nº DU DOSSIER DE LA COUR :
+2004-3953(GST)G
+INTITULÉ :
+Robert Larry Norman et Sa Majesté la Reine
+LIEU DE L’AUDIENCE :
+Belleville (Ontario)
+DATE DE L’AUDIENCE :
+Le 14 août 2006
+MOTIFS DE L’ORDONNANCE :
+L’honorable juge T. O'Connor
+DATE DE L’ORDONNANCE :
+Le 25 septembre 2006
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui‑même
+Avocat de l’intimée :
+Me Gatien Fournier
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée :
+John H. Sims, c.r.
+Sous‑procureur général du Canada
+Ottawa, Canada

@@ -1,0 +1,150 @@
+---
+title: "Burns v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26374/index.do"
+last_modified: "2004-07-09"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 CCI 491"
+citation2: ""
+neutral_citation: "2004 CCI 491"
+decision_date: "2004-07-09"
+language: "fr"
+item_id: "26374"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3387
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T20:14:58.602000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "7bebeda5094afa39bc4bcafa084ae1b5c0f0b313359fa23b4d17003ee39da612"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Burns v. The Queen
+
+- Citation: 2004 CCI 491
+- Decision date: 2004-07-09
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3387, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Burns v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-07-09
+Référence neutre
+2004 CCI 491
+Numéro de dossier
+2001-4111(IT)I
+Juges et Officiers taxateurs
+Terrence O'Connor
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2001-4111(IT)I
+ENTRE :
+KIMBERLEY ANNE BURNS,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+___________________________________________________________________
+Appel entendu à Belleville (Ontario), le 5 juillet 2004.
+Devant : L'honorable T. O'connor, juge
+Comparutions :
+Avocat de l'appelante :
+Me R. Steven Baldwin
+Avocat de l'intimée :
+Me Richard Gobeil
+____________________________________________________________________
+JUGEMENT
+L'appel des cotisations établies en vertu de la Loi de l'impôt sur le revenu pour les années d'imposition 1999 et 2000 est rejeté. Toutefois, les avocats des deux parties se sont entendus pour dire que le montant en question pour 1999 s'élève à 4 200 $, ce montant devant donc être inclus dans le revenu de l'année en question.
+Signé à Ottawa, Canada, ce 9e jour de juillet 2004.
+« T. O'Connor »
+Juge O'Connor
+Traduction certifiée conforme
+ce 17e jour de décembre 2004
+Jacques Deschênes, traducteur
+Référence : 2004CCI491
+Date : 20040709
+Dossier : 2001-4111(IT)I
+ENTRE :
+KIMBERLEY ANNE BURNS,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge O'Connor
+[1] Dans cet appel, il s'agit de savoir si, dans les années 1999 et 2000, l'appelante était tenue d'inclure dans son revenu imposable certains montants qu'elle avait reçus, au titre de la pension alimentaire pour enfants, de Steven Perry, son ancien époux.
+[2] L'avocat de l'appelante et l'avocat de l'intimée ont convenu de plaider l'appel en se fondant sur un exposé conjoint des faits, ces faits étant énoncés dans les paragraphes suivants de la réponse à l'avis d'appel :
+[traduction]
+8a) l'appelante et son ancien époux, Steven Perry (l' « ancien époux » ), se sont mariés le 10 avril 1983 et se sont séparés en 1992;
+b) pendant la période pertinente, l'appelante et son ancien époux vivaient séparés l'un de l'autre;
+c) pendant la période pertinente, l'appelante et son ancien époux avaient un enfant, Ryan Perry, né le 25 août 1984 (l' « enfant » );
+d) conformément à une ordonnance de la Cour de l'Ontario (Division provinciale) en date du 27 mai 1992 (l' « ordonnance » ) [produite sous la cote R-1] l'ancien époux était tenu de verser un montant mensuel de 500 $ à l'appelante à l'égard de l'enfant au titre de la pension alimentaire pour enfants, ce montant ayant commencé à être versé le 30 avril 1992 ou vers cette date;
+e) en 1995, l'appelante et son ancien époux ont verbalement convenu de ramener à 350 $ le montant versé mensuellement mentionné à l'alinéa 8d) des présentes à compter du mois de juin 1995.
+[...]
+[3] Les avocats des deux parties ont également convenu que, pour l'année 1999, le montant total en question s'élevait à 4 200 $ plutôt qu'à 4 800 $ et que le montant, pour l'an 2000, a été correctement déclaré comme s'élevant à 4 200 $.
+[4] Il importe en particulier de noter que ni l'un ni l'autre avocat ne s'est fondé, dans ses plaidoiries, sur les modifications apportées à la législation pertinente en 1996, lesquelles sont entrées en vigueur le 1er mai 1997, le régime antérieur prévoyant que les montants versés au titre d'une pension alimentaire devaient être inclus dans le revenu du bénéficiaire et qu'ils devaient être déduits dans le calcul du revenu du payeur ayant alors cessé de s'appliquer.
+[5] L'avocat de l'appelante dit simplement que, pour que le paragraphe 56.1(4) de la Loi de l'impôt sur le revenu (la « Loi » ) s'applique, il doit exister une ordonnance judiciaire ou un accord écrit. Il déclare en outre qu'en l'espèce, l'accord conclu en 1995 prévoyant la réduction du montant de la pension alimentaire n'était qu'un accord verbal et que, pour que la disposition en question s'applique, il doit y avoir un accord écrit. L'avocat de l'intimée a soutenu que la réduction du montant était la seule chose visée par l'accord verbal. En d'autres termes, l'accord verbal visait simplement à réduire le montant; c'était l'ordonnance initiale rendue en 1992 qui fixait le montant initial et l'ordonnance initiale est donc à l'origine du montant réduit. Par conséquent, l'obligation de payer la pension alimentaire pour enfants résulte de l'ordonnance. L'avocat soutient en outre que les parties, si elles avaient expressément voulu que le montant versé au titre de la pension alimentaire ne soit pas inclus et ne soit pas déductible, auraient dû s'adresser à la Cour de la famille afin d'obtenir une nouvelle ordonnance modifiée.
+Analyse
+[6] À mon avis, les prétentions de l'avocat de l'intimée sont exactes. Les montants versés au titre de la pension alimentaire découlent de l'ordonnance initiale. L'accord verbal qui a été conclu en 1995 avait simplement pour effet de réduire le montant; il n'avait pas d'effet en droit, tel que le droit s'appliquait au moment de l'inclusion et de la déduction. Si l'appelante s'était vue obligée d'engager des poursuites aux fins du paiement de la pension alimentaire au taux réduit, elle aurait été obligée de se fonder sur l'ordonnance initiale ainsi que sur l'accord de 1995 prévoyant la réduction du montant.
+[7] Par conséquent, l'appel des cotisations établies en vertu de la Loi de l'impôt sur le revenu pour les années d'imposition 1999 et 2000 est rejeté. Toutefois, les avocats des deux parties se sont entendus pour dire que le montant en question pour 1999 et pour l'an 2000 s'élève à 4 200 $, ce montant devant être inclus dans le revenu de l'année en cause.
+Signé à Ottawa, Canada, ce 9e jour de juillet 2004.
+« T. O'Connor »
+Juge O'Connor
+Traduction certifiée conforme
+ce 17e jour de décembre 2004.
+Jacques Deschênes, traducteur
+RÉFÉRENCE :
+2004CCI491
+No DU DOSSIER DE LA COUR :
+2001-4111(IT)I
+INTITULÉ :
+KIMBERLEY ANNE BURNS et S.M.R.
+LIEU DE L'AUDIENCE :
+Belleville (Ontario)
+DATE DE L'AUDIENCE :
+Le 5 juillet 2004
+MOTIF DU JUGEMENT :
+M. le juge T. O'Connor
+DATE DU JUGEMENT :
+Le 9 juillet 2004
+COMPARUTIONS :
+Avocat de l'appelante :
+Me R. Steven Baldwin
+Avocat de l'intimée :
+Me Richard Gobeil
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelante :
+Nom :
+R. Steven Baldwin
+Cabinet :
+Templeman, Menninga, Kort,
+Sullivan et Fairbrother
+Belleville (Ontario)
+Pour l'intimée :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

@@ -1,0 +1,169 @@
+---
+title: "Dempsey v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26554/index.do"
+last_modified: "2005-11-08"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 TCC 728"
+citation2: ""
+neutral_citation: "2005 TCC 728"
+decision_date: "2005-11-08"
+language: "en"
+item_id: "26554"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3562
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T20:08:02.528000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "91077dfadfa3060726da3270944d315f9f0ecf0ad03f70b71931f8b91a947d46"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Dempsey v. The Queen
+
+- Citation: 2005 TCC 728
+- Decision date: 2005-11-08
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3562, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Dempsey v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-11-08
+Neutral citation
+2005 TCC 728
+File numbers
+2004-4583(IT)I
+Judges and Taxing Officers
+Alexander A. Sarchuk
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2004-4583(IT)I
+BETWEEN:
+GAYLE SHARRON DEMPSEY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on September 12, 2005, at Toronto, Ontario
+By: The Honourable Justice A.A. Sarchuk
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Eric Sherbert
+____________________________________________________________________
+JUDGMENT
+The appeals from assessments of tax made under the Income Tax Act for the 2000 and 2001 taxation years are dismissed.
+Signed at Ottawa, Canada, this 8th day of November, 2005.
+"A.A. Sarchuk"
+Sarchuk J.
+Citation: 2005TCC728
+Date: 20051108
+Docket: 2004-4583(IT)I
+BETWEEN:
+GAYLE SHARRON DEMPSEY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Sarchuk J.
+[1] In computing income for each of the 2000 and 2001 taxation year, the Appellant included in her income spousal support payments in the amounts of $28,900 and $30,000, respectively. She was reassessed for those taxation years and in so reassessing, the Minister of National Revenue included in income additional support payments in the amounts of $2,839 and $6,500, respectively. In so doing, the Minister assumed the following facts:
+(a) the Appellant and Wayne Dempsey have lived separate and apart due to a marriage breakdown since at least the 1998 taxation year;
+(b) pursuant to an Order of the Superior Court of Justice dated September 14, 1998, Wayne Dempsey was required to pay to the Appellant Spousal Support in the amount of $1,400 per month, commencing September 15, 1998, and further that Wayne Dempsey was to be responsible for all income taxes that the Appellant will pay as a result of receiving the said Spousal Support;
+(c) a Temporary Order of the Superior Court of Justice (Family Court) dated February 20, 2001 varied the Order dated September 14, 1998 requiring Wayne Dempsey to pay to the Appellant Spousal Support in the amount of $2,500 per month commencing February 15, 2000, and further making Wayne Dempsey responsible for all income taxes that the Appellant will pay as a result of receiving the said Spousal Support;
+(d) the Appellant received from Wayne Dempsey the required monthly Spousal Support payments in the amounts of $28,900 and $30,000 for 2000 and 2001 respectively, and she reported these amounts in her income for the respective years;
+(e) Wayne Dempsey paid income tax liabilities of the Appellant in respect of the Spousal Support as required under the appropriate Orders to Canada Customs and Revenue Agency (CCRA) as follows:
+$2,839 on August 25, 2000
+$2,500 on January 8, 2001
+$4,000 on October 29, 2001
+(f) the Appellant failed to include the $2,839 ... in her income for the 2000 taxation year, and she failed to include the $6,500 ... in her income for the 2001 taxation year, and it is these additional amounts only that the Minister has included in her income for the appropriate years;
+(g) pursuant to a Final Order, the Superior Court of Justice, Family Court, dated June 24, 2002, the Appellant was required to pay varied amounts of Spousal Support commencing July 15, 2002 and the Appellant would be responsible for any income tax owing as a result of the support commencing January 1, 2002; and
+(h) as of April 8, 2002 and May 1, 2002, respectively, amounts owing to the CCRA, including interest, for the Appellant's 2000 and 2001 taxation years relating to Spousal Support was $2,284.09 and $6,110.07, respectively, (for a total of $8,394.16), and if these amounts were paid as required under the Final Order dated June 24, 2002, they should be included in the income of the Appellant in the year of their payment.
+[2] In the Appellant's Notice of Appeal, her solicitor made reference to paragraphs 5, 6 and 9 of the Order of Wood J. dated June 24, 2002.[1] These paragraph provide that:
+5. As of April 8, 2002, the total amount owing to CCRA including interest for the applicant's 2000 income tax returns relating to spousal support was $2,284.09 and shall be paid in accordance with paragraph 9 hereof.
+6. As of May 1, 2002, the total amount owing to CCRA including interest with respect to the applicant's 2001 income tax returns relating to spousal support was $6,110.07 and shall be paid in accordance with paragraph 9 hereof.
+20. In consideration of the equalization payment, the respondent owes to the applicant, the respondent shall immediately transfer his interest in the matrimonial home municipally described as R.R. # 3, Port Carling, Ontario, P0B 1J0, to the applicant. The respondent shall sign any and all documents necessary to effect this transfer forthwith upon receipt of such documents from the Applicant's real estate solicitor.
+22. The applicant shall be solely responsible for retiring the outstanding realty taxes owing on the matrimonial home as of June 24, 2002. The respondent shall contribute his share of these realty taxes as part of the payment required by paragraph 9 hereof ...
+9. The respondent shall pay to the applicant the total sum of $20,000 on or before October 15, 2002, as follows: $5,000 on each of July 15, 2002, August 15, 2002, September 15, 2002, and October 15, 2002. These payments are on account of the applicant's income tax arrears in accordance with paragraphs 5 and 6 above, and the realty tax arrears owing in respect of the matrimonial home.
+Based on the foregoing, the Appellant's solicitor further asserted that:
+(5) Pursuant to the above paragraphs, the said Respondent payor paid to the taxpayer the sum of $20,000.[2] Of the amount paid, $8,394.16 was paid on account of the income tax liability of the taxpayer in respect of support payments received in the taxation years 2000 and 2001. The balance of $11,605.84 was paid as the said Respondent's share of realty taxes owing to the jointly owned matrimonial home to the date of transfer of the said home to the taxpayer.
+(6) It is the taxpayer's contention that the only portion of the said $20,000 payment which is liable for income tax is the sum of $8,394.16.
+(Emphasis added)
+[3] The reason set out for the appeal by the Appellant's counsel is that "the taxpayer objects to the inclusion of the sum of $11,605.84 as taxable income". I note at the outset that there is no evidence that the amount of $11,605.84 was included in her income, nor was there any indication in the testimony and submissions of the Appellant that this was an issue to be dealt with in these appeals. What the Appellant does object to is the Respondent's assessment of tax on the amount of $8,394.16 paid to her by her former spouse on account of her tax liabilities for the taxation years 2000 and 2001.
+[4] The Appellant's position is that the separation agreement executed on June 24, 2002, and the Order of Justice Wood dated the same day, changed what she described as "the income tax responsibility", and that since that date, the payment of taxes became her responsibility. She does not dispute that her former spouse paid the amounts required with respect to her income tax liability for both 2000 and 2001, and said that in fact the amounts had been calculated by her accountant. She further agrees that the amounts received from her former husband and remitted to CRA on account of the taxes constituted payments received from a support payer, for the purpose of paying a defined expense of the support recipient. In this context, the Appellant further concedes that subsection 56.1(4) of the Income Tax Act provides that support payments are taxable in the hands of the support recipient if they are periodic, the recipient has discretion as to their use, and they are made pursuant to an order or agreement. As well, if an agreement provides that subsections 56.1(2) and 60.1(2) are applicable, then the amount paid by a support payer on account of the expenses for the support of the recipient will be deemed to be a periodic payment, which the recipient has discretion as to its use will be deductible to the payer and taxable to the recipient.
+[5] However, the Appellant maintains that the agreement in issue makes no express reference to subsections 56.1(2) and/or 60.1(2). In this context, she cited the decision of the Federal Court of Appeal in Veilleux v. The Queen,[3]in which the issue was whether in the absence of an express reference to those sections, an inference could be drawn from the wording of the agreement that the parties intended the consequences of those sections to apply, and thus, as was the case in Veilleux, the husband could deduct the payments made. As well, in that case, a determination was made that an agreement did not have to expressly refer to the section numbers of the Act, but it was sufficient if the agreement was worded in such a way that it may be inferred that both support payer and support recipient understood the consequences of the payment.
+[6] The Appellant's position is that the agreement she and her former husband entered into did not expressly make reference to subsections 56.1(2) and 60.1(2). Thus, she argues this is the reverse of the Veilleux case, and the question to be answered is whether the parties have the option to agree to exclude the application of those sections, so that the "husband cannot deduct and the wife pays no tax on payments made by the husband for her income tax on support". She further contends that if there is no express language to that effect in the agreement, it is open to the Court to draw the inference from the wording of the agreement that the parties intended to preclude the application of the consequences of those sections.
+[7] She further argued that subsection 60.1(2) of the Act permits the deductibility of payments made to or on behalf of recipients for expenses, if an agreement provides that subsections 56.1(2) and 60.1(2) shall apply to the amounts paid. This, she said, creates another option available to the taxpayer since the agreement in issue does not provide that those sections apply. If the agreement does not so provide, then the payments are not deductible to the payer and not taxable to the recipient. Based on the reasons in Veilleux, the Appellant maintains that subsections 56.1(2) and 60.1(2) "leave it to the parties to decide who will pay the tax on payments for expenses made on behalf of the recipient".
+[8] The Appellant maintains that the agreement in issue is worded in such a manner that the tax consequences of a payment made on account of her income tax are made clear to the parties. Reference was made to paragraphs 6 through 10, and subparagraph 8(a) which, in her view, made the husband responsible for the wife's taxes on support payments to December 31, 2001. Subparagraph 7(2) which came into effect as of January 1, 2002 states that from that point in time, the support payments shall be deductible to the husband and taxable to the wife which she said, was agreed to and is being carried out. Based on the foregoing and read together with the portion of the agreement making her former spouse responsible for all of her income tax on support payments prior to January 1, 2002, the "inescapable inference to be drawn is that the parties intended that the payments on account of the wife's income tax should not be deductible to the husband before January 1, 2002. The wife would not be responsible for any income tax on support paid to her before January 2002". Accordingly, she argues that the intention of the parties was to exclude the application of subsections 56.1(2) and 60.1(2) and that the payments made by her former husband on account of her tax obligations prior to January 1, 2002 are not support payments taxable in her hands.
+Conclusion
+[9] I have reviewed the agreement in issue, and have concluded that there is nothing therein which suggests that the former spouse agreed to give up his entitlement to the deduction of the amounts of tax payable by him with respect to the spousal support payments paid to, or on behalf of, the Appellant in 2000 and 2001. In this context, I specifically refer to the following paragraphs of the agreement:
+7(2) Commencing January 1, 2002, the spousal support payments shall be deductible to the husband from his income pursuant to the Income Tax Act (Canada),and the wife shall be responsible for any income tax owing as a result of this support.
+7(6) In accordance with the Consent Order of Justice Sheppard dated September 14, 1998, the husband paid to the wife spousal support in the amount of $1,400 per month from September 15, 1998 to February 14, 2000. Also in accordance with that Order, the husband was responsible for the wife's income taxes associated with those spousal support payments.
+7(7) In accordance with the Consent Order of Justice Eberhard dated February 20, 2001, the husband paid the wife spousal support in the amount of $2,500 per month from February 15, 2001 to December 31, 2001. Also in accordance with that consent, the husband is responsible for the wife's income taxes associated with those spousal support payments.
+7(8) The parties acknowledge and agree that in January 2001, the husband paid income taxes and interest penalties owed by the wife to CCRA with respect to net income taxes for the years 1998 and 1999. In the event there are further arrears and/or interest penalties owing by the wife to CCRA with respect to her 1998 and 1999 income taxes, the husband shall be solely responsible for paying those amounts to CCRA upon the wife advising him and providing him with proof of the amount owing.
+7(9) The parties acknowledge and agree that in accordance with the wife's 2000 Income Tax Returns as prepared and filed with CCRA, the wife's income taxes owing associated with the spousal support paid by the husband to the wife in 2000 totals $7,986.04. At April 8, 2002, the total amount owing to CCRA including interest was $2,284.09. This amount shall be paid in accordance with paragraph 8(a) hereof.
+7(10) The parties acknowledge and agree that in accordance with the wife's 2001 Income Tax Returns as prepared and filed with CCRA, the wife's income taxes owing associated with the spousal support paid by the husband to the wife in 2001 totals $6,110.07. At May 1, 2002, the total amount owing to CCRA including interest with respect to the 2001 calendar year is $6,110.07. This amount shall be paid in accordance with paragraph 8(a) hereof.
+8A Payments before October 15, 2002
+(a) The husband shall pay to the wife the total sum of $20,000 on or before October 15, 2002 as follows: $5,000 on each of July 15, 2002, August 15, 2002, September 15, 2002 and October 15, 2002. These payments are on account of the wife's income tax arrears and the realty tax arrears owing in respect of the matrimonial home.
+I note as well that in the Order of Justice Wood, paragraph 2 specifically provides that commencing January 1, the spousal support payments shall be deductible to the husband from his income pursuant to the Income Tax Act (Canada) and the Applicant shall be responsible for any income tax owing as a result of this support. In my view, the foregoing sections of the agreement and Order clearly establish that the Appellant's responsibility with respect to the payment of income tax commenced on January 1, 2002 and in my view, confirms the fact that all payments with respect to her unpaid tax debts as of January 1, 2002 would be the responsibility of the Appellant's former husband, and would be deductible to him.
+[10] Accordingly, the appeals are dismissed.
+Signed at Ottawa, Canada, this 8th day of November, 2005.
+"A.A. Sarchuk"
+Sarchuk J.
+CITATION:
+2005TCC728
+COURT FILE NO.:
+2004-4583(IT)I
+STYLE OF CAUSE:
+Gayle Sharron Dempsey and
+Her Majesty the Queen
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+September 12, 2005
+REASONS FOR JUDGMENT BY:
+The Honourable Justice A.A. Sarchuk
+DATE OF JUDGMENT:
+November 8, 2005
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Eric Sherbert
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+N/A
+Firm:
+N/A
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Inadvertently, the Order of Wood J. was not filed in Court as an exhibit, although it was an attachment to the Appellant's Notice of Appeal and both parties referred to it.
+[2] The reference to Respondent payor is to Wayne Dempsey.
+[3] [2002] F.C.J. 737.

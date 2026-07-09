@@ -1,0 +1,570 @@
+Title: Kang v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/100776/index.do
+Corpus path: corpus/cases/tcc/2015/2015-tcc-18-100776-kang-v-the-queen-en.md
+Document type: case_law
+Last modified: 2015-01-27
+
+# Kang v. The Queen
+
+- Citation: 2015 TCC 18
+- Decision date: 2015-01-27
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2773, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Kang v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2015-01-27
+Neutral citation
+2015 TCC 18
+File numbers
+2010-3913(IT)G, 2010-3915(IT)G, 2010-3917(IT)G
+Judges and Taxing Officers
+Alain Tardif
+Subjects
+Income Tax Act
+Decision Content
+Dockets: 2010-3913(IT)G
+2010-3915(IT)G
+2010-3917(IT)G
+BETWEEN:
+CHHANG ANG KANG,
+UY KEAK TANG,
+BIJOUTERIE YONG MEER INC.,
+Appellants,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeals heard on common evidence on May 30 and May 31, 2013 (by conference call), and from January 20 to January 24, 2014, at Montréal, Quebec.
+Before: The Honourable Justice Alain Tardif
+Appearances:
+Counsel for the appellants:
+Jean-Francois Poulin
+Marie-Hélène Tremblay
+Counsel for the respondent:
+Vlad Zolia
+JUDGMENT
+The appeals from the assessments made under the Income Tax Act are allowed in that the files are to be reassessed on the basis that the unreported income is established as follows:
+(a) The appellant Bijouterie Yong Meer inc. (docket 2010-3917(IT)G), for the fiscal year ended March 31, 2007: $1,357,969;
+(b) The appellant Tang (docket 2010-3915(IT)G), for the 2007 taxation year: $893,918.50;
+(c) The appellant Kang (docket 2010-3913(IT)G), for the 2007 taxation year: $817,097.50.
+The penalties are justified and are consequently confirmed; they must however be amended based on the amounts established as unreported.
+Costs in favour of the respondent, to be established, however, on the basis of two dockets only, i.e. costs equivalent to a single docket for the two appellants, Chhang Ang Kang (2010-3913(IT)G) and Uy Keak Tang (2010-3915(IT)G), and a second with respect to the docket of the corporate appellant, Bijouterie Yong Meer Inc. (2010-3917(IT)G).
+Signed at Ottawa, Canada, this 27th day of January, 2015.
+“Alain Tardif”
+Tardif J.
+Translation certified true
+On this 1st day of October 2015
+François Brunet, Revisor
+Reference: 2015 TCC 18
+Date: 20150127
+Dockets: 2010-3913(IT)G
+2010-3915(IT)G
+2010-3917(IT)G
+BETWEEN:
+CHHANG ANG KANG,
+UY KEAK TANG,
+BIJOUTERIE YONG MEER INC.,
+Appellants,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Tardif J.
+[1] This matter involves three appeals that were heard on common evidence at the request of the parties. The facts that gave rise to the notices of assessment are relatively simple and few in number.
+[2] The two appellants are from Cambodia. They both arrived in Canada in the early 1980s; they immigrated to Canada because the war in their country of origin was threatening their safety.
+[3] When they arrived in Canada, neither of them had any knowledge of Canadian language or culture. They settled in the Greater Montréal Area with their respective families on different dates.
+[4] They were hard‑working and immersed themselves completely in low‑paying work. Since they were very family-oriented and wanted to work as many hours as possible, they quickly accumulated patrimonies that enabled them to improve their circumstances considerably, notably by purchasing a home.
+[5] In addition to these qualities, the appellants and their spouses proved to be daring and determined people by quickly becoming entrepreneurs themselves in relatively difficult economic activity sectors, namely, making various types of apparel. Later, as they became impatient about the growth of their patrimony, they made investments by operating highly profitable but illegal businesses, i.e. money laundering through currency exchanges.
+[6] It is relevant to provide a chronology of their time in Canada from their arrival to 2007, the year to which pertain the assessments that are now under appeal.
+1980 to 2006 [7] Mr. Kang immigrated to Canada with his family on January 16, 1980.
+[8] Mr. Tang immigrated to Canada in October 1980.
+[9] Mr. Tang’s spouse, Shu Xian Zhang, joined her spouse in 1987.
+[10] In 1984, just four years after arriving in Canada, a company called Création Yong Ang Meer was created. This company, which manufactured apparel, was operated until 1989.
+[11] In 1989, the company 171283 Canada inc. was created; the company’s name was Mode NSTD and its business essentially consisted of continuing the manufacturing operations of Création Yong Ang Meer, which had been established in 1984. This company was in operation from 1989 to 1996.
+[12] On January 28, 1997, the appellants Kang and Tang created a new company called Bijouterie Yong Meer Inc. (Jewellery Store), which was a jewellery business, namely, diamonds.
+[13] In the context of creating this new legal entity, the appellants each invested $120,000 from their respective savings.
+[14] Part of the premises of the Jewellery Store was quickly set up as a currency exchange to satisfy Mr. Tang’s interest in this type of economic activity, which is highly lucrative but illegal when the transactions involve money laundering.
+[15] Serious disagreements quickly arose between the appellants, the only two shareholders of the Jewellery Store; the entire situation resulted in a break‑up such that the association lasted just over three months.
+[16] On May 15, 1997, a few months after the creation of the company that was operating the Jewellery Store, Mr. Tang created a new legal entity, 3374335 Canada inc., known and identified as BCC, whose business essentially consisted of operating a currency exchange. At the time of the break‑up, Mr. Tang had recovered the $120,000 he had invested in the Jewellery Store.
+[17] Between 1997 and 2002, the appellants Tang and Kang operated the business in which they held all of the shares, i.e. the Jewellery Store in the case of Mr. Kang and the currency exchange in the case of Mr. Tang, under the same roof and at the same address, 6951 St-Denis Street in Montréal.
+[18] In 2002, the disagreement resurfaced; Mr. Tang therefore decided to continue the activities of his currency exchange on Jean-Talon Street, still operating under the company name Saint-Denis BCC.
+[19] Following Mr. Tang’s departure in 2002, Mr. Kang in turn changed the business operations of the Jewellery Store by adding a currency exchange, such that as of 2002, the appellants Tang and Kang each owned a currency exchange; Mr. Kang’s was located on St-Denis Street while Mr. Tang’s was located on Jean‑Talon Street.
+[20] Between 2002 and 2006, Messrs. Tang and Kang each operated their own business and did so primarily as the owner of a currency exchange.
+[21] In 2006, Mr. Kang informed his brother-in-law, Mr. Tang, that he had decided to retire. As luck would have it, since the lease on Mr. Tang’s currency exchange had just expired, the appellants quickly reached an agreement, and Mr. Tang moved his currency exchange located on Jean-Talon Street to the Jewellery Store premises on St-Denis Street, where there already was a currency exchange.
+[22] Mr. Tang purchased the Jewellery Store, which had primarily become a currency exchange, for $300,000. Mr. Kang, the vendor of the Jewellery Store, stated that at the time there was $300,000 in cash hidden on the premises; for his part, Mr. Tang, the purchaser, said that he moved between $300,000 and $350,000 in cash to the Jewellery Store from his exchange on Jean-Talon or from Saint‑Denis BCC.
+[23] Following a major investigation by the Service de police de la Ville de Montréal (SPVM) aimed at compiling a list of all currency exchanges likely to be involved in the illegal business of money laundering, the currency exchange on the Jewellery Store premises was targeted as one business that was potentially involved in money laundering in Montréal, because the police had seen a drug trafficker going there periodically.
+[24] After noting that this was possibly an illegal operation that was at least partially involved in money laundering, the SPVM mandated an undercover agent to conduct a more detailed investigation.
+[25] The officer went several times to exchange currency. In general, the amounts increased from time to time.
+[26] At a particular point in time, during a large transaction, the officer told the appellants that he was trying to recruit clients to buy drugs, which would effectively increase his sales and his exchange operations. The scenario was presented as being very advantageous for both parties; the appellants did not express any disapproval; however, they did not provide the name of any potential client.
+[27] On the basis of this offer and the solicitation for new clients looking for drugs and in the light of the tacit or complete indifference regarding the source of the funds that the appellants agreed to exchange, the authorities at the SPVM concluded that their suspicions were justified and that the business was actually a currency exchange involved in the illegal business of money laundering.
+[28] The SPVM then set up a large‑scale police operation to collect and seize anything that could be used to demonstrate the validity of potential charges under the Criminal Code of Canada for money laundering.
+[29] On April 17, 2007, the officer went to the appellants’ place of business on St. Denis Street to exchange Can$800,000, corresponding to approximately US$690,000.
+[30] Mr. Tang stated that he needed a deposit of $20,000 and about three hours to get that amount of money in US$100 bills.
+[31] The officer left the premises, and a few minutes later the appellants also left to go to their respective personal residences.
+[32] Since the appellants were being followed, police authorities were able to very accurately establish the time, the route taken and the duration of each person's visit to their respective homes.
+[33] Mr. Tang left his home holding a relatively small plastic bag, while Mr. Kang was not holding anything when he left his home. They both returned to the Jewellery Store, and the undercover officer arrived shortly thereafter to finalize the exchange of Can$800,000 for approximately US$690,000.
+[34] After the transaction was completed, and once the officer had left the premises with the American currency from the Jewellery Store where the currency exchange was located, a large number of police officers descended on the store and proceeded to seize everything that appeared to them to be relevant for filing possible criminal charges.
+[35] During these searches on April 17, 2007, large amounts of cash were seized as per the details provided below:
+A - Residence of Mr. Kang
+Can$339,500
+US$39,530
+TOTAL
+Can$339,500
+Can$44,645
+Can$384,145
+B – Residence of Mr. Tang
+Can$450,000
+US$52,600
+TOTAL
+Can$450,000
+Can$59,406
+Can$509,406
+C – On the premises of Bijouterie Yong Meer inc.
+Can$61,840
+US$703,422
+EUROS 18,700
+TOTAL
+Can$61,840
+Can$794,445
+Can$28,656
+Can$884,941
+Can$778,902
+Can$1,663,843
+[36] The amount of $884,941 does not include the Can$800,000 that the undercover officer gave to the appellants.
+[37] However, the consideration for the undercover officer’s transaction, i.e. US$689,660, equivalent to Can$778,902, was also seized.
+[38] Consequently, the total amount seized from the Jewellery Store amounted to $778,902 plus $884,941, which totaled $1,663,843.
+[39] In February 2009, i.e. almost two years later, the SPVM informed the Canada Revenue Agency (CRA) about the cash that was seized from the three appellants.
+[40] An auditor, Micheline Bélanger, was then mandated to conduct the necessary audits in order to determine (a) the source of these substantial amounts of money and (b) whether reassessments should be made.
+[41] As part of her investigation, Ms. Bélanger tried to obtain the maximum information and number of documents that would enable her to complete her task properly and diligently.
+[42] Other than learning from the appellants that the money seized came exclusively from the accumulation of personal savings and that the money seized at the Jewellery Store represented operating revenue, she was not able to obtain anything that would enable her to do the work she would have liked to do under the circumstances.
+[43] The Minister therefore taxed Mr. Tang on the amounts seized at his home, i.e. $509,406, as well as on part of the funds seized at the Jewellery Store, i.e. $428,142.50.
+[44] The Minister taxed Mr. Kang on the amounts seized at his home, i.e. $384,145, as well as on part of the funds seized at the Jewellery Store, i.e. $428,142.50.
+[45] The Minister taxed the Jewellery Store on the amounts seized at its place of business.
+[46] The Minister taxed the appellants for the 2007 taxation year because earlier years did not offer any explanation for the accumulation of these amounts. Following criminal proceedings with respect to money laundering operations, Mr. Tang pleaded guilty to the charge of “money laundering” and agreed to the confiscation of US$422,053 by the authorities.
+OWNERSHIP OF AMOUNT SEIZED AT MR. KANG’S HOME– $384,145 [47] Mr. Kang began working in Canada in 1981. The evidence and the testimony provided by Mr. Kang lead to the conclusion that he arrived in Canada without any assets and did not receive any lottery or casino winnings, gifts or inheritance.
+[48] Mr. Kang’s sole source of income was his salary. Mr. Kang did not receive any dividends.
+[49] In his notice of objection, Mr. Kang initially claimed that the funds seized at his home belonged to the Jewellery Store. He later claimed instead that they represented savings he had accumulated since his arrival in Canada. He therefore acknowledged that the funds belonged to him.
+[50] During the hearing, the respondent explained that it was impossible for Mr. Kang to have accumulated $384,145 since his arrival in Canada.
+[51] Mr. Kang and his wife had after-tax cumulative income of $1,010,566 from the time of their arrival in Canada until 2006. This amount represents the income available to the Kangs without consideration of any expenses.
+[52] Assuming the minimum amount of expenses established by Statistics Canada for two persons (without considering Mr. Kang’s two daughters), the balance available to accumulate assets was $590,047.
+[53] The couple would therefore have had $590,047. However, their expenses amounted to $801,781 (according to the accumulated assets and investments made). At first glance, it does not make any sense that Mr. Kang could have spent more than he earned. When the amount seized at his home is added, there is a shortfall of $595,879.
+[54] Moreover, Mr. Kang testified that he had made several trips to Cambodia or China with his wife between 1980 and 2006. The respondent did not consider these types of expenses (which would have increased the shortfall).
+[55] Therefore, the income earned and declared by Mr. Kang does not explain or enable us to understand how Mr. Kang could have saved $384,145, which was the amount seized at his home.
+OWNERSHIP OF AMOUNT SEIZED AT MR. TANG’S HOME–$509,406 [56] Mr. Tang arrived in Canada in 1980 with no assets. The evidence and the testimony provided by Mr. Tang showed that he did not receive any lottery or casino winnings, gifts or inheritance.
+[57] Mr. Tang stated several times that the amounts seized at his home were savings. During his testimony, he also stated that he did not keep any funds belonging to the company in his home.
+[58] At the hearing, the respondent explained that it was impossible for Mr. Tang to have accumulated $509,406 since arriving in Canada.
+[59] Mr. Tang and his wife had after-tax cumulative income of $889,016 from the time of their arrival in Canada until 2006. This amount represents the income reported and available to the couple without consideration of any type of expense.
+[60] Considering the minimum amount of expenses established by Statistics Canada, the balance available to accumulate assets was $460,637.
+[61] The Tangs would therefore have had $460,637 but had expenses amounting to $570,128 (according to the accumulated assets and investments made). It is therefore impossible to explain how Mr. Tang could have spent more than he earned. The shortfall amounts to $109,491.
+[62] When the amount seized at Mr. Tang’s home is added, the shortfall is $618,897. It is therefore completely implausible that Mr. Tang could have saved $509,406.
+[63] Moreover, Ms. Bélanger, the auditor, explained that she had not only taken into consideration statistics that were advantageous to Messrs. Tang and Kang but that she had also reduced the amount established by the statistics by 20% to reflect the very modest lifestyle of the appellants, according to what they had told her.
+OWNERSHIP OF AMOUNTS SEIZED AT THE JEWELLERY STORE – $1,663,843 [64] Several explanations were provided to justify the source of the funds seized at the Jewellery Store.
+[65] The initial notice of appeal of the Jewellery Store referred to three sources: amounts accumulated since the incorporation in 1997; amounts advanced by the shareholders (but Messrs. Kang and Tang did not mention this in their notice of appeal) and amounts from Saint-Denis BCC (3374335 Canada Inc.).
+[66] The Jewellery Store’s amended notice of appeal refers to amounts from loans obtained from unidentified third parties who did not testify and who could not be properly identified. Even more mysteriously, these three loans, totalling US$800,000, materialized for the first time on January 6 2012; I believe it is important to remember that the seizures occurred on April 17, 2007.
+[67] At the hearing, the appellants stated that only $300,000 of the amounts seized at the Jewellery Store actually belonged to the Jewellery Store. Based on their claims, approximately $300,000 came from Saint-Denis BCC or 3374335 Canada inc., and $800,000 came from loans from three unknown third parties.
+Revenue of the Jewellery Store [68] From 2005 to 2007, the Jewellery Store reported the following revenue:
+2005
+Total Revenue
+Gross Profit
+Net Profit
+$131,178
+$66,639
+$35,672
+2006
+Total Revenue
+Gross Profit
+Net Profit
+$117,451
+$30,143
+$2,090
+2007
+Total Revenue
+Gross Profit
+Net Profit
+$98,926
+$16,020
+$-17 097
+[69] It is completely impossible that the company identified as the Jewellery Store could have accumulated $1,000,000. Even accumulating $300,000 was impossible in view of the revenue reported for the 2005, 2006 and 2007 taxation years. The company barely had a net profit. The complete lack of consistency is neither a perception nor an interpretation; it stems primarily from the explanations provided by the appellants themselves and their accountant.
+[70] The evidence shows that the books and statements were not maintained or prepared in a diligent and serious manner. For example, the salaries paid by the Jewellery Store do not correspond to the salaries received by Messrs. Tang and Kang, specifically for 2007:
+Salaries reported by the Jewellery Store
+Salary received by Tang
+Salary received by Kang
+2005
+$61,954
+-
+$62,400
+2006
+$67,413
+-
+$62,400
+2007
+$66,429
+$0
+$15,600
+[71] Moreover, Messrs. Tang and Kang did not receive any dividends from 2005 to 2007. Most of the relevant and even essential documents relating to the management of the company that operated the Jewellery Store is inconsistent, confusing and incomplete; one thing is certain: neither the documents, nor the explanations are reliable or credible.
+[72] At the time of the transaction with the undercover officer in 2007, the cash on hand, according to the balance sheet for the Jewellery Store, was $342,224. However, the respondent took this cash on hand amount into consideration to make the necessary adjustments to the assessments. The amount of the assessment for the Jewellery Store was therefore reduced accordingly.
+[73] However, the Jewellery Store’s revenue and books fail to explain how $1,663,843 could have been accumulated.
+[74] Since the appellants maintain that an amount of over $1,000,000 did not belong to the Jewellery Store, it would be appropriate to analyze whether their explanations regarding the respective amounts of $800,000 and $300,000 are plausible, rational and credible.
+Loans totalling $800,000 from unknown lenders [75] With respect to the loans totalling $800,000 from three anonymous lenders, Mr. Tang claims that he borrowed the money because he did not have enough US$100 bills to complete the Can$800,000 transaction with the undercover officer. Mr. Tang provided these explanations a number of times. He stated that the Jewellery Store had enough cash to complete the $800,000 transaction; however, most of the notes were in denominations smaller than $100.
+[76] Both Messrs. Tang and Kang went to their respective homes prior to the exchange with the undercover officer. Mr. Tang left with a six-by-eight white paper bag; Mr. Kang had nothing in his hands. The appellants could have gone to get the missing $100 bills; however, there is no evidence to confirm the amount that may have been transferred from the appellants’ homes to the Jewellery Store.
+[77] For his part, Mr. Tang stated that he had approached three different third parties in order to obtain the requisite amount of US$ 800,000 by means of three loans, even though a smaller amount was required, since the transaction involved exchanging Can $800,000 into US currency, which amounted to over $100,000 less in US dollars.
+[78] Mr. Tang was not able to provide the actual names of the three lenders and referred only to their nicknames. No record or document was signed to attest to the loans. The lenders never came forward to contest the seizure of the funds or to claim what was owed to them in subsequent years.
+[79] The appellants maintained that they never repaid any amount whatsoever; for their part, the lenders never initiated any proceedings to recover the amounts owed to them, and, at the time of the trial, more than seven years had elapsed since the loans.
+[80] If this simply involved a paltry amount, the appellants could conceivably have forgotten to mention it at the time of the seizures. However, given the size of the amount and especially the highly significant tax consequences, the information concerning the ownership of this amount should have been disclosed within a number of hours following the seizures.
+[81] Not only did this not happen, but a very long period of time elapsed before the explanation was provided; moreover, the appellants were accompanied by legal representatives the day after the seizures, and there was never any reference to this amount of $800,000, which had a huge impact on their assessments.
+[82] The existence of these loans totaling $800,000 emerged shortly before the trial, specifically on January 6, 2012.
+[83] Moreover, the evidence demonstrated that the appellants did not need these loans to complete the transaction with the police officer; they had the money.
+[84] Instead of borrowing to exchange the currency, they simply needed to exchange smaller denominations for $100 notes in their possession in order to satisfy the police officer client, the undercover officer.
+[85] Mr. Tang also claimed that he had to pay several thousand dollars for these loans. Mr. Kang, for his part, did not seem to have any knowledge of these three loans totaling US$800,000 on his examination for discovery.
+[86] As stated by the Court at the hearing, the explanations concerning the three loans totaling $800,000 to justify a substantial portion of the funds seized from the Jewellery Store premises are neither credible nor reasonable.
+[87] In their notice of appeal, the appellants submitted that they are very thrifty people, to the point that they keep their savings at home to avoid bank fees and the cost of gasoline to go to the bank.
+[88] It is difficult if not impossible to reconcile this concern to reduce certain marginal expenses to a minimum with the prohibitive fees that the appellants would have paid to borrow US$800,000, an amount that, in addition, was not necessary.
+[89] Indeed, Mr. Tang confirmed that he borrowed US$800,000 when the amount actually needed was US$690,000. On the one hand, the appellants had access to the requisite amounts from their own assets, and on the other hand, these loans would have cost them several thousand dollars in fees and interest.
+[90] Lastly, why did the disclosure of these three loans occur in January 2012 when the appellants would have had an interest in referring to them in the hours following the seizures in April 2007?
+Money from Saint-Denis BCC [91] The other explanation for the cash seized at the Jewellery Store was that part of this money, i.e. between $300,000 and $350,000, had come from Saint-Denis BCC.
+[92] There was never any reference to a loan between Saint-Denis BCC and the Jewellery Store. Moreover, nothing in the financial statements suggests that such a loan or transfer occurred.
+[93] The books of Saint-Denis BCC do not reflect the alleged transfer to the Jewellery Store of between $300,000 and $350,000, and this explanation is completely irreconcilable with the explanations of the accountant.
+[94] Indeed, the various accounting documents prepared by the accountant, which are highly questionable, completely belie the claims made by Mr. Tang regarding the availability of between $300,000 and $350,000 that he allegedly brought to the Jewellery Store:
+2005
+Total Revenue
+Gross Profit
+Net Profit
+$87,139
+$22,504
+$-17,522
+2006
+Total Revenue
+Gross Profit
+Net Profit
+$71,677
+$-7,035
+$-40,123
+2007
+Total Revenue
+Gross Profit
+Net Profit
+$0
+$0
+$-180
+[95] It is therefore implausible that Saint-Denis BCC accumulated that much cash when it did not make a profit.
+[96] In addition, the company’s balance sheet for 2007 reflects cash assets of $30,343. Moreover, the company’s cash assets fell in 2005 and 2006 from $239,880 to $54,670.
+[97] A similar decrease was also posted under “Due to shareholder” (from $209,371 to $57,073). The accountant tried unsuccessfully to demonstrate some kind of consistency. However, the explanations provided were so confusing that ultimately none of them were credible.
+[98] All information concerning Saint-Denis BCC is nebulous and inconsistent. Moreover, no income tax return was filed for a number of years. The income tax returns were no doubt completed shortly before the trial, and the accountant failed spectacularly in trying to camouflage the documents.
+[99] Mr. Tang stated that he had brought between $300,000 and $350,000 with him from Saint-Denis BCC. However, his counsel reported an amount of $265,000 further to undertaking No. 5, which was made after the examination for discovery; he therefore had all the time needed for a serious and responsible audit. Despite this, Mr. Tang stated and reiterated that he had brought between $300,000 and $350,000 to the store.
+[100] Typically, someone living a modest lifestyle, as Mr. Tang claimed, would know exactly how much money they were carrying from one place to another at a particular point in time.
+[101] The amount of $300,000 to $350,000 that was taken to the Jewellery Store when Mr. Tang returned to the former premises was an amount he attributed to himself.
+[102] The company was revived solely for the purpose of attempting to establish a certain consistency. The evidence should have been convincing and, above all, credible. However, the evidence adduced is based on documents that were clearly prepared a number of years after the legal deadlines and that make reference to incomplete, often contradictory data characterized by numerous inconsistencies.
+[103] It seemed clear to me that the accountant had at least tacitly agreed to be complicit in the attempt to make explanations that do not hold up seem reasonable. First, the income tax returns existed, then they did not, and then they reappeared shortly before the trial, with a number of inconsistencies.
+[104] Two fundamental questions must be addressed to dispose of the appeals.
+[105] The first is whether the audit was done correctly and professionally, while giving the appellants an opportunity to provide all information, explanations and useful, necessary and relevant documents.
+[106] The second question consists in determining the credibility of all the persons concerned directly or indirectly by the assessments under appeal.
+[107] In addition to these questions, there is the issue of the burden of proof.
+[108] In presenting their respective cases to highlight all the relevant facts and evidence, the parties took diametrically opposed positions.
+[109] Through the auditor, the respondent vigorously maintains that she did everything and spared no effort to produce accurate notices of assessment.
+[110] For their part, the appellants accuse the respondent of producing cursory, botched and completely unacceptable work. They add that submitting prima facie evidence regarding the grounds used to justify the assessments shifted the burden of proof demonstrating the validity of the assessments onto the respondent’s shoulders.
+[111] The significant gap between the positions of the parties is neither a perception nor an interpretation; it is clear from the very words used by counsel themselves in their written arguments.
+[112] In her written representations, the respondent makes the following submissions:
+[translation]
+44. Following the preparation of the three reassessments of February 27, 2009, Ms. Bélanger continued to wait for explanations, specifically concerning how to correctly attribute the ownership of the amounts seized at the Jewellery Store (January 23, 2014, p. 99, 1.2 to 7).
+45. However, as we saw earlier, Ms. Bélanger noted that she had forgotten to account for two amounts of cash seized: EUR 18,700 seized at the Jewellery Store, and US$689,660 seized by the undercover officer (January 23, 2014, p. 101, 1.5 to 9).
+46. On March 2, 2009, before making the supplementary assessment of July 16, 2009, she returned to see Mr. Tang to try to obtain additional explanations, specifically regarding the amounts she had forgotten (January 23, 2014, p. 101, 1.10 to 14). This time, Mr. Tang refused to give her any information and referred her to his counsel (January 23, 2014, p. 102, 1.1 to 4).
+47. In accordance with Mr. Tang’s instructions, Ms. Bélanger telephoned counsel for the appellants on March 19, 2009, April 7, 2009, April 14, 2009, April 27, 2009, May 20, 2009, May 21, 2009 and July 8, 2009. Bélanger also met with counsel on March 25, 2009, May 25, 2009, June 4, 2009 and July 6, 2009 (January 23 [2014], p. 100, 1.9 to 14).
+48. Counsel for the appellants did not provide any explanation or justification concerning the amounts seized. He simply tried to settle the matter for a lump sum of Can$250,000 (January 23, 2014, p. 100, 1.9 to 28; p. 102, 1.9 to 17).
+49. Under the circumstances, on July 16, 2009, Ms. Bélanger made the second reassessment against the Jewellery Store, adding the amounts that had been seized but forgotten (I-1, tab 2).
+50. It is noteworthy that despite the meeting with Mr. Kang, the two meetings with Mr. Tang, and the multiple meetings and conversations with their counsel, at no time was the existence of a loan mentioned to Ms. Bélanger during the audit/assessment process. Also, at no time was the corporate name, “Saint-Denis BCC” (“BCC”) mentioned.
+[Emphasis in the original.]
+[113] These numerous factors established by the respondent’s evidence are such that the conduct of the appellants certainly does not meet the definition of the word “collaboration”.
+[114] These facts and events occurred before the assessments under appeal were issued. When an assessment is made and is subsequently appealed from, it is common for the parties to communicate with each other in order to exchange useful and relevant information so that an assessment that better reflects the revenue statement can be calculated, especially where an assessment has been made on the basis of an arbitrary method.
+[115] In this regard, the very clear preponderance of evidence shows not only that the appellants were uncooperative, but that they provided contradictory explanations and even took the liberty of adding completely new elements several years after the assessments were issued. Moreover, these were not secondary details but very important facts that could have a significant impact on the assessments in all three cases.
+[116] In their reply to the respondent’s written representations, the appellants state the following:
+4. The respondent also submits that the appellants demonstrated a lack of cooperation and that, in the absence of any credible explanation about the source of the amounts seized, the auditor had no choice but to assess all the amounts seized in the 2007 taxation year, for appellants Tang and Kang, and in the fiscal year ended March 31, 2007, for the Jewellery Store.
+5. However, the facts show that the appellants offered their full cooperation and assistance to the auditor and to the Minster’s representatives. Despite this cooperation, the auditor, for reasons completely independent from the conduct of the appellants or the explanations they provided, conducted a hasty and superficial audit.
+6. Indeed, the auditor started her audit on or about February 12, 2009, even though the disputed assessments were issued on February 27, 2009, just two weeks later.
+7. Four days before the disputed assessments were issued, on February 23, 2009, the auditor met with Messrs. Tank and Kang.
+8. Knowing that the meeting of February 23, 2009, lasted only about 45 minutes, and considering the size of the amounts seized, it is difficult to understand the auditor’s expectations with respect to the meeting or, at the very least, what she would have considered sufficiently credible explanations to warrant some investigative work being undertaken. At the very least, if the auditor was expecting to obtain some documents, she never requested any.
+9. Given the alleged lack of cooperation by the appellants and the absence of a credible explanation, the auditor had no choice but to issue the disputed assessments four days later in which add the following unreported income was added to the taxpayers ‘income for a single taxation and fiscal year:
+. . .
+11. From the time they were issued, the Minister was aware of the flaws of the disputed assessments, specifically:
+(a) the flaws respecting multiple taxation of certain amounts;
+(b) the flaws respecting time-related inconsistencies due to the very short period of time during which the so-called unreported income was allegedly generated.
+12. The appellants were always open to submitting all the necessary documents to the Minister so that he could correct the disputed assessments. The issue therefore is as follows: which documents and information did the appellants have in their possession, that they should have submitted, that would have enabled the Minister to consider that the appellants had adequately cooperated with the audit?
+13. At the examinations for discovery, the Minister, through his representatives, made numerous requests for documents and information, which the appellants duly provided. Specifically, the appellants responded to all the following undertakings, thereby providing the Minister with the existing documentation to support their explanations about the source of the so-called unreported assessed income and the period of time during which it was generated: . . .
+[117] The trial, which lasted over a week, without taking into account the written arguments of the parties which had been preceded by the examinations for discovery, produced a very large amount of information and details which facilitated the assessment of credibility.
+[118] First, I believe that it is important to stress that the information and justifications provided have gone through numerous changes, particularly with respect to the amounts seized at the Jewellery Store.
+[119] Messrs. Tang and Kang maintained that they owned the amounts seized at their respective residences, i.e. $509,406 in the case of Mr. Tang and $384,145 in the case of Mr. Kang.
+[120] With respect to the $1,663,843 seized from the premises of the Jewellery Store, they contended that it belonged to the company identified as the Jewellery Store.
+[121] With respect to the amounts seized from their personal residences, the appellants repeatedly stated and insisted that they were essentially their personal savings accumulated over the years from all reported income since their arrival in Canada.
+[122] The funds from the Jewellery Store were operating revenues, from which had to be subtracted money coming from another company, Saint‑Denis BCC, and the amount of US$800,000, which was supposedly the property of three different lenders as a result of two amounts of US$200,000 and one amount of US$400,000.
+[123] Mr. Casella, the accountant, testified at length. Throughout his testimony, he was clearly nervous, uncomfortable, hesitant and even confused on a number of occasions. The witness also benefitted from a language advantage.
+[124] He testified in English, and the translation gave him much more time because clearly he understood French very well. The poor quality of his testimony and the numerous inconsistencies were undoubtedly the reason for his discomfort and nervousness.
+[125] He admitted to making several errors. Clearly, Mr. Casella willingly agreed to arrange the financial and corporate documents of Saint-Denis BCC in order to make them coherent; he failed spectacularly in this regard.
+[126] This testimony has no credibility and cannot be used to demonstrate anything. The file for which he had received a mandate from Mr. Tang turned out to be a mess reconstructed at the last minute.
+[127] This file is neither reliable nor credible. In addition, I am convinced that the information it contains does not correspond to reality. After initially stating that he had all the copies of the returns, Mt. Tang claimed that he could no longer find them and then was finally able to produce copies, the originals of which had never been submitted to the CRA.
+[128] This portion of the evidence demonstrates the level of Mr. Tang’s reluctance to present a serious and documented case with plausible information.
+[129] The testimony provided by the appellants was riddled with contradictions, inconsistencies and improbabilities. Most of their assertions and justifications must be rejected for the simple reason that they are unreasonable on the basis of a simple and elementary mathematical exercise.
+[130] With respect to the companies that the appellants were associated with, i.e. the Jewellery Store and Saint-Denis BCC, the few documents available simply do not reflect the explanations provided and are so inconsistent that there is good reason to question the role that the companies actually played in their financial activities.
+[131] Given the almost total lack of credible and reliable information provided by the appellants and the poor quality of the available documents, which were very often contradicted by the appellants themselves, the Minister made the assessments under appeal by calculating the gap in the net worth for the appellants.
+[132] With respect to the appellant company, the Minister used the selective method based on points by comparing the presumed revenue in the form of cash or bank deposits versus the revenue reported during the same fiscal year.
+[133] Both cases involve an indirect method, which produces a necessarily imperfect result.
+[134] Moreover, the responsible auditor herself admitted to making a number of errors.
+[135] The final result is clearly also imperfect in that certain income is attributed to the three appellants. Could the auditor have taken a different approach?
+[136] The answer to this question is essentially based on the available documents and the information provided by the appellants themselves. In this regard, the auditor did not strictly receive anything that would have enabled her to take a different approach. In other words, the appellants reaped the result that they themselves had sought by completely refusing to cooperate.
+[137] However, the evidence established that the auditor had favoured the appellants in terms of some of the choices she had made. This was the case for the minimal living expenses that a family must incur annually and for other amounts that the appellants attributed to members of their respective families.
+Investments identified by the auditor for the Tangs:
+Personal residence
+$240,200
+Bank deposit
+$154,528
+Investment in a grocery store
+$91,496
+RRSP
+$84,104
+Amount kept at the residence
+$509,406
+TOTAL
+$1,079,734
+Investments identified by the auditor for the Kangs:
+RRSP
+$280,000
+Investment in a grocery store
+$90,000
+Personal residence
+$220,000
+Amount kept at the residence
+$300,000
+US currency in their home
+$40,000
+Investment in the Jewellery Store
+$300,000
+Toyota Camry
+$28,685
+Mercedes
+$40,000
+TOTAL
+$1,098,685
+[138] For example, the auditor did not account for the two amounts totaling $36,000, which, according to Mr. Kang, did not belong to him.
+[139] The appellants claimed that they acquired the property described above from their reported income because they had a very modest lifestyle.
+[140] Since they were unable to explain how they had been able to accumulate such assets, the appellants tried to ridicule the respondent’s choices, most notably by arguing that it made no sense whatsoever to claim that they had accumulated such significant assets during the 2007 taxation year alone. However, they were careful not to explain how the averaging could have been done. At no point and in no way did the appellants submit or try to show an averaging with respect to the evolution of their assets noted at the time of the seizures.
+[141] The respondent took the available information into account (income reported every year since their arrival in Canada), then subtracted the expenses determined on the basis of available statistics, and did so to the benefit of the appellants. The result mathematically demonstrates the absurdity of the claims of the appellants regarding the extent of the assets revealed by the seizures.
+[142] Throughout the trial, the appellants maintained and reiterated that their assets had been accumulated from income reported annually since their arrival in Canada. A simple and elementary mathematical calculation calls for the outright rejection of these claims.
+[143] The appellants’ obstinacy in trying to maintain and reiterate this position shows how sparing Messrs. Tang and Kang were with their explanations; moreover, their behavior even demonstrates bad faith and a complete and particularly willful lack of cooperation with the auditor, Ms. Bélanger.
+[144] Given the attitude and conduct of the appellants and the available facts, including the substantial amount of the funds seized, the location of the funds and the absurd and contradictory explanations provided by the appellants, the CRA was justified in using the estimated and arbitrary net worth assessment method. Moreover, on the basis of the evidence provided, it was completely impossible to proceed otherwise.
+[145] I believe it is appropriate to reproduce the following excerpt from the case law cited by the respondent[1]:
+363 . . .
+29 Net worth assessments are a method of last resort, commonly utilized in cases where the taxpayer refuses to file a tax return, has filed a return which is grossly inaccurate or refuses to furnish documentation which would enable Revenue Canada to verify the return (V. Krishna, The Fundamentals of Canadian Income Tax Law, 5th ed. (Toronto: Carswell, 1995) at 1089). The net worth method is premised on the assumption that an appreciation of a taxpayer's wealth over a period of time can be imputed as income for that period unless the taxpayer demonstrates otherwise (Bigayan, supra, at 1619).. (…)
+Hsu v. Canada, [2001] F.C.J. No. 1174 ( Desjardins, Isaac and Malone JJ.A.) appeal dismissed by the SCC: Hsu v. Canada, [2001] S.C.C.A. No. 503
+[146] Are the appellants credible? In general, this not an easy exercise. In this case, the appellants provided farfetched explanations that were often inconsistent, contradictory and absurd. It is very easy to conclude that their version of events and all their evidence are neither credible nor reliable and that this also applies to the explanations provided for all the funds seized.
+[147] Why did they tell the undercover officer that there were enough US$100 notes and that he would have to come back later?
+[148] Why leave the premises a few minutes later to go to their respective residences?
+[149] Why did one of the appellants emerge from his residence with a plastic bag?
+[150] Why did they hide the alleged loans totalling US$800,000 from unknown persons, who did not testify, for several years?
+[151] Why pay prohibitive fees to borrow funds when these same individuals were hiding substantial amounts of money in their homes? Was this really to avoid the requisite gas costs to go to the bank and to avoid paying bank charges?
+[152] Why borrow more than US $100,000 more than needed to complete the foreign exchange transaction with the undercover officer?
+[153] One thing that is striking, and even surprising, is the fact that the appellants extensively criticized the respondent for using assumptions that were neither valid nor reliable.
+[154] Who, other than the appellants themselves, should have information and reliable and credible documents? In this regard, the evidence did not enable the Court to take cognizance of or consider these types of fundamental elements that were in the unique and sole custody of the appellants.
+[155] Moreover, the appellants criticize the respondent for quickly and arbitrarily botching the process that led to making the assessments; they also refer to ambiguity and a lack of details and information. They allege that Ms. Bélanger did not make much of an effort and lacked initiative in preparing the notices of assessment. (that she did not make much of an effort or take initiative)
+[156] To illustrate this argument, the appellants state the following in their written submissions:
+[translation]
+22. It is important to note that the appellants were criticized for their lack of cooperation during the audit and, in particular, for not providing the requested information.
+23. However, Ms. Bélanger herself admits that she never made such a request in writing.
+24. It is therefore in this highly unusual context that the audit of the appellants took place.
+25. After a 45-minute meeting with the appellants, the auditor chose to issue notices of reassessment totaling over $4,500,000 of unreported income.
+[157] For their part, the appellants often showed that they had little respect for accuracy, clarity and ultimately, for the truth.
+[158] Indeed, no mention was ever made of the loans totalling $800,000 before January 2012. Not only did almost six years elapse, but all explanations concerning these loans were confusing, absurd and contradictory.
+[159] Moreover, I concluded at the time of the hearing that obviously these loans are fictitious and false.
+[160] The appellants raised the issue of the burden of proof a number of times.
+[161] In this regard, I believe it is relevant to reproduce certain excerpts of the case law that I completely agree with[2]:
+363 ...
+4 Once the Ministère establishes on the basis of reliable information that there is a discrepancy, and a substantial one in the case at bar, between a taxpayer's assets and his expenses, and that discrepancy continues to be unexplained and inexplicable, the Ministère has discharged its burden of proof. It is then for the taxpayer to identify the source of his income and show that it is not taxable..
+Molenaar v. Canada, [2004] F.C.J. No. 1731 (Décary, Létourneau and Nadon, JJ.A.)
+. . .
+377 . . .
+24 This reasoning in no way places an unfair burden on the taxpayer. The taxpayer is aware of the facts and has the means to prove them. It would be most unrealistic to have the Minister bear the onus of uncovering a source of income whose existence can be detected only indirectly, that is, using the net worth method
+Lacroix v. Canada, [2008] F.C.J. No. 1092 (Nadon, Pelletier and Trudel JJ.A)
+. . .
+381 [translation It should be noted that the appellants are basing their argument regarding the inconsistency of the assessments on a body of case law that does not contain any decision about assessments made using indirect audit methods, in cases dealing with the appearance of large amounts of cash knowingly hidden by taxpayers, without leaving any trace, and discovered in the context of a seizure by state authorities.
+. . .
+383 [translation] However, the most significant weakness in the appellants’ argument is their position that the contradiction arising from considering a single amount for the three taxpayers reversed the burden of proof in their favour.
+384 [translation] Even if it is accepted that there was a clear contradiction, which is denied, how can the argument of the appellants be accepted? . . .
+385 . . .
+30 By its very nature, a net worth assessment is an arbitrary and imprecise approximation of a taxpayer's income. Any perceived unfairness relating to this type of assessment is resolved by recognizing that the taxpayer is in the best position to know his or her own taxable income. Where the factual basis of the Minister's estimation is inaccurate, it should be a simple matter for the taxpayer to correct the Minister's error to the satisfaction of the Court. (our emphasis)
+Hsu v. The Queen, [2001] F.C.J. No. 1174 (Desjardins, Isaac and Malone JJ.A), appeal dismissed by the SCC: Hsu v. The Queen, [2001] S.C.C.A No 503
+386 . . .
+4 . . . In an appeal from an assessment of income tax, the onus is on the taxpayer to establish on the balance of probabilities that the assessment is too high having regard to the law and the relevant facts. It is not enough for the taxpayer to show that the assessment might conceivably be too high. He must adduce credible evidence showing that on a proper and complete net worth his income is lower than the Minister founded to be. Where a taxpayer has placed himself in a position in which a direct and accurate measurement of income is impossible he can hardly complain in the course of an appeal from a net worth assessment of the inaccuracies inherent in that method . . . (our emphasis)
+Fletcher v. Canada, [1994] T.C.J. No. 837 (Bonner J.)
+. . .
+388 [translation] Tang and Kang provide two types of explanations against the Minister’s analysis: part of the amounts seized was savings put away until 2006 and part of the amounts seized did not belong to them or to the Jewellery Store.
+389 [translation] The respondent submits that Part I hereof clearly demonstrates that the appellants never cooperated sufficiently or provided credible, coherent or consistent information, either during the audit process or thereafter. However, such cooperation is critical:
+8 The bases or foundations of the calculations done in a net worth assessment depend largely on information provided by the taxpayer who is the subject of the audit.
+9 The quality, plausibility and reasonableness of that information therefore take on absolutely fundamental importance
+Bastille v. The Queen, [1998] T.C.J. No. 1080 (Tardif J.)
+. . .
+391 . . .
+27 Where there are no records and books of account to speak of, a taxpayer's mere assertion that the discrepancy identified by the net worth method results from the use of cash savings accumulated by the taxpayer over the course of previous years is markedly insufficient to constitute the evidence necessary to establish on a balance of probabilities that the assessments are erroneous.
+Roy v. The Queen, [2006] T.C.J. No. 189 (Dussault J.)
+[Emphasis in the original.]
+[162] The appellants submit that the respondent issued the notices of assessment arbitrarily, hypothetically, illogically and unreasonably. They also maintain that these assumptions facilitated the appellant’s work with respect to their burden of proof; they submit that their only obligation was to adduce prima facie evidence that the factual assumptions made by the respondent were not reliable or reasonable but purely speculative. They asserted and reiterated that they had submitted prima facie evidence, such that the burden shifted onto the shoulders of the respondent.
+[163] Accepting the appellant’s interpretation concerning the burden of proof would mean that it is possible to contradict the arbitrary with the arbitrary, the unreasonable with the unreasonable and the speculative with the speculative.
+[164] The parties completely disagree on the respondent’s right to issue an assessment for a particular year. The appellants submit that the respondent has a duty to determine the specific period of enrichment by using the net asset method such that any identified enrichment can be allocated over a long period of time rather than attributing it to a single taxation year.
+[165] I believe that this would be appropriate and correct if it were possible to determine the beginning and the end of the period concerned by a possible reassessment. However in the cases at bar, it was completely impossible to do so, specifically because the appellants systematically refused to cooperate. They did absolutely nothing to explain or justify any distribution whatsoever.
+[166] It is the appellants alone who could have contributed to an exercise that would have helped establish and define the assessed periods; not only did they not cooperate, but they also provided incomplete, inconsistent and unreliable information that could not be used to develop a scenario that differed from the one that was selected and that, under the circumstances, was reasonable, logical and appropriate.
+[167] All the appellants’ arguments are based on an assessment that is absolutely not consistent with the evidence. Indeed, contrary to the appellants’ assessment that they had provided credible evidence and offered exemplary cooperation, the evidence shows a completely different reality.
+[168] First, they never cooperated. The quality of the evidence submitted confirms this assessment. I am particularly referring to the significant revelation, which is obviously false, regarding the $800,000 loans. If these loans had actually taken place, they would have been reported much earlier. On the one hand, the appellants’ legal representatives provided the opposing party with information that the appellants themselves contradicted at the hearing. It is possible that the appellants did not cooperate with their own representatives.
+[169] On the other hand, the appellants themselves discredited the quality of their own evidence by providing testimony that was so inconsistent and by making implausible assumptions, including that they had saved such substantial amounts from their reported income.
+[170] Lastly, when testifying for the corporate appellant, their claims were either contradicted by the few available documents or were irreconcilable.
+[171] The arbitrary part that provided the foundation for the correctness of the assessments in the three cases is essentially and exclusively explained and justified by a total lack of cooperation from the appellants.
+[172] Second, the main elements underlying the assessments under appeal were formally admitted by the appellants themselves; indeed, none of the amounts seized was challenged except for the $800,000, which the appellants attempted to define as loans. This claim was rejected since the explanations provided to substantiate it were completely implausible.
+[173] With respect to the burden of proof, I am satisfied with the evidence provided by the respondent under the circumstances and in the context of the files. When faced with objective and compelling data as well as dates, amounts, illegal commercial activities and the exclusive use of cash, the appellants responded with a profusion of explanations that were false, absurd, inconsistent, and sometimes borderline ridiculous; this is certainly not enough to claim that a prima facie burden of proof was met.
+[174] Consequently, the appellants sowed confusion, inconsistencies and lack of logic and yet want to reap precision.
+[175] Lastly, subscribing to the appellants’ arguments and positions would encourage taxpayers to maintain as much confusion as possible so that it is almost impossible to conduct a tax audit.
+[176] Despite the evidence, counsel for the appellants made the following arguments:
+(a) The assessments were the result of work that was done in a hurry and was botched and baseless.
+(b) The assets were assessed for a single taxation year, thereby making the exercise ridiculous, unreasonable and completely arbitrary.
+(c) The respondent was unable or failed in its obligation to adequately justify the correctness of the assessments by taking factual assumptions into consideration that had been refuted by the appellants.
+[177] In order to bolster their arguments, the appellants presented all sorts of hypotheses to discredit the validity of the assessments. They are therefore arguing that something cannot be black and white at the same time.
+[178] In a system where self-assessment is the rule, it is essential and absolutely critical that the quality of tax accountability that occurs at the end of each year can be verified at any time.
+[179] In Canada, our tax system is based on self-assessment. Self-assessment means that all taxpayers have a duty to report their income established on the basis of and pursuant to the relevant tax laws.
+[180] Ignorance of the law, language, culture, traditions and customs are not acceptable or relevant excuses to diminish or reduce anyone’s tax burden.
+[181] Self-assessment is an exercise in accountability that every natural or legal person is required to carry out every year for the tax authorities, who have the right to question and verify the quality of data that informed the accountability reporting.
+[182] Taxpayers often believe that the onus is on the tax authorities to prove the merits of an assessment beyond a reasonable doubt. On the basis of this false and erroneous perception or interpretation, they offer little explanation about their assets and often go so far as to refuse to answer any questions or respond to justified requests from the tax authorities.
+[183] As a result of their attitude and/or conduct, they are often disappointed when notices of assessment appear.
+[184] In my opinion, the respondent’s approach seems to have been reasonable and was even advantageous to the appellants.
+[185] The appellants deliberately chose to conceal substantial amounts of income, undoubtedly on the ground that it was derived from illegal economic activities.
+[186] Subscribing to the arguments of the appellants would effectively reward them for deliberately choosing to disregard the basic rules required for calculating their income so that the accountability process is adequate and reliable.
+[187] At paragraphs 188 and 190 of their written submissions, the appellants wrote the following:
+[translation]
+188. The appellants submit that the respondent did not establish the validity of her factual assumptions through conclusive evidence..
+. . .
+190. On the contrary, the appellants emphasize that the Minister’s factual assumptions are not based on any concrete evidence and that, on their face, these assumptions are devoid of any logic.
+[188] At paragraph 189, the appellants wrote the following:
+[translation]:
+189. In other words, the respondent failed to demonstrate that the existence of these factual assumptions is more probable than its non-existence
+[189] At paragraph 16 of page 7 of their reply to the respondent’s arguments, the appellants wrote the following:
+[translation]
+16. The appellants are not complaining about the assessments in dispute; they are challenging them on the basis of legislation and case law established not only to guarantee the government’s right to collect taxes in a system based on self-reporting but also to protect taxpayers from the state’s substantial powers to make assessments.
+[My emphasis.]
+[190] On the basis of the evidence adduced, the appellants failed to demonstrate that the factual assumptions taken into consideration by the respondent were without merit. On the contrary, the evidence confirmed the bases of the assessments under appeal.
+[191] In essence, the appellants put forward three explanations to seek the cancellation of the assessments.
+[192] First, the amounts seized from the residences of the appellants resulted from the accumulation of their savings based on their reported income since their arrival in Canada. This initial explanation must be rejected on the basis of a simple mathematical calculation.
+[193] Second, three unknown persons with no known addresses allegedly loaned the appellants $800,000. Here again, the explanation is implausible for the reasons already listed above. Lastly, Mr. Tang reportedly obtained and transported between $300,000 and $350,000 from the BCC currency exchange that he operated on Jean-Talon Street to the Jewellery Store.
+[194] This explanation is illogical and implausible; it is also contradicted by the documents that were undoubtedly prepared by Mr. Casella in the months preceding the trial; his testimony in particular showed that he had tried to render the file, which had been hidden from the tax authorities, consistent. Indeed, no income tax return had been filed for the ten previous years.
+[195] Moreover, the reconstructed financial statements showed losses for the years preceding the year in which the seizures took place. However, Mr. Tang’s business appears to have been booming in the months prior to his move to the Jewellery Store.
+[196] The evidence showed that the auditor made a number of errors. However, the errors attributable to the auditor’s work are not sufficient to discredit the bases of the assessments.
+[197] The urgency, the lack of information and the other constraints that the auditor had to deal with could have affected the quality and perhaps the outcome of her work, even assuming the irreproachable cooperation of the persons concerned by the possible assessments.
+[198] However, such was not the case here because the appellants themselves did everything within their power to shift the focus of the audit to other areas, notably in terms of the ownership of the amounts taken into consideration to prepare the assessments.
+[199] I therefore conclude that the position submitted by counsel for the respondent appears to me to be fair, reasonable and appropriate, particularly since it is clearly confirmed by a preponderance of the evidence.
+[200] In other words, the assessments under appeal were made in an appropriate manner; the few small errors identified and acknowledged by the auditor can be explained by the total lack of cooperation of the appellants, and indeed, their bad faith.
+[201] The method used, the quality of the work and the result obtained, given the context in which the reassessments were made, fail to justify any of the concerns raised by the appellants.
+[202] The evidence supports a finding that the approach, the work and the results are within the bounds of reasonableness. The same evidence also supports a finding that the respondent could not have proceeded differently.
+PENALTIES [203] In tax matters, as in all other matters, laws must always be applied in the same manner; in other words, everyone is equal before the law.
+[204] Language, culture, origins, education, training, etc. are certainly factors that may be taken into account in the severity of a sanction but can in no way afford an excuse for non-compliance with the law.
+[205] In this case, the appellants immigrated to Canada from a war-torn country. It was therefore reasonable to believe that they may have been distrustful, especially since they were not familiar with the language or the customs and conventions of their new host country.
+[206] Of course, hiding substantial amounts of money at one’s home or the place of business one is associated with is not sufficient to justify the imposition of penalties under subsection 163(2) of the Income Tax Act.
+[207] Indeed, this may be a question of distrust or culture. However, this is clearly inadequate to justify the lack of reliable, credible documents and accounting records that would explain the evolution of the enrichment.
+[208] “[K]nowingly or under circumstances amounting to gross negligence” is a test that requires a degree of gravity that is more significant than a simple error, forgetfulness, lack of knowledge or even certain cultural practices. Knowingly implies planning, orchestration, voluntarily setting up a system and/or process to cause confusion and make it very difficult, if not impossible, to conduct an audit based on conventional methods consistent with accepted practices.
+[209] Although not conclusive in itself with respect to the imposition of penalties, the almost exclusive use of cash is, however, an element that gives rise to a certain degree of suspicion.
+[210] The use of cash is one thing, but when this cash does not go through any financial institution, is not reflected in any accounting entry or any entry whatsoever and explanations regarding this money discovered by the tax authorities are non-existent, inconsistent or simply false, I believe that these are highly relevant factors justifying the imposition of penalties.
+[211] This matter does not involve one or just a few isolated transactions; it was the standard and common way of operating. Of course, it involved a business activity where cash is omnipresent. That is one more reason to put a system or process in place to enhance the reliability of the accountability process at the end of each fiscal year. In this case, the appellants did everything they could to hide their income.
+[212] In addition, throughout the process that resulted in the preparation of the assessments, the appellants, contrary to the rather specific interpretation of their representative, acted in a manner that was completely unacceptable by refusing to cooperate.
+[213] Moreover, the attempt by the appellants to show that the assessments were made on the basis of an unacceptable and unreasonable process is not justified in any way; on the contrary, the approach and the history of the cases under appeal can be explained essentially and exclusively by the attitude and behaviour of the appellants. Faced with this situation, the auditor had no other option.
+[214] Other than all these highly relevant factors that justify the imposition of penalties, it also seems appropriate to point out that the assessments were initiated in the wake of police operations that resulted in criminal proceedings, which led to a guilty plea and the agreement that a substantial amount would be confiscated.
+[215] In view of the police operations, it became obvious that the tax authorities would eventually intervene. Why didn’t the appellants prepare their respective cases? Why didn’t they garner information and collect documents for the proper preparation of their case? Not only were they passive but they also provided very general information that was not confirmed, or simply refused to respond; they even changed their version of key segments of their case on several occasions.
+[216] Given the significant amounts involved and given that they essentially consisted of cash hidden in secret locations in their respective residences and at the Jewellery Store, it is completely unreasonable to think or conclude that the appellants did not knowingly and deliberately fail to report this income.
+[217] The explanations provided are not credible, reasonable or consistent; they must be completely rejected, and only the elements adduced into evidence and admitted by the appellants must be taken into account, i.e. the amount of cash seized, the location of the seizures and the circumstances surrounding the discovery of the amounts in question. The accounting for the Jewellery Store was deficient and misleading in several respects.
+[218] Indeed, the Jewellery Store never presented or submitted accounting records or adequate and reliable books; there is also some ambiguity as to when the Jewellery Store was transferred, the consideration and the date when the consideration was paid.
+[219] Moreover, the accountant’s testimony was inconsistent; he clearly and deliberately disguised certain documents and statements, thereby failing to comply with the clear demands of the subpoena duces tecum that he was served with.
+[220] A clear preponderance of evidence leads to the conclusion that Mr. Casella prepared all the returns for roughly 10 years on August 12, 2013, i.e. after the trial began on May 30, 2013, and did so without informing the respondent.
+[221] In justifying the imposition of penalties for tax matters, the facts and context that must be taken into account generally pre-date the establishment of the tax debt. However, certain tax debtors, including the appellants in this case, provide testimony that confirms and validates that they clearly acted in bad faith before the reassessments were made. In other words, the appellants acted in bad faith at all times by knowingly taking actions to avoid their tax obligations and responsibilities.
+[222] Not only did the appellants knowingly hide very substantial amounts of income, but they did everything in their power after the seizures to fabricate various scenarios and clearly did so with the ultimate goal of hiding considerable amounts of income, which was corroborated by the size of the amounts seized.
+[223] For all these reasons, the imposition of penalties was entirely in keeping with the provisions of the Income Tax Act; the amount of the penalties will have to be revised in the light of the reassessments that will be made further to this judgment.
+[224] Messrs. Tang and Kang knowingly and secretly operated an illegal money laundering business; they, therefore, avoided the banking system at all costs as that would have left traces and enabled the tax authorities to prepare notices of assessment that were undoubtedly more “concrete”.
+[225] The amounts seized amounted to over $2,000,000. The audit started on February 12, 2009. During the very long interval between the two events in question, where were the appellants? Was it not highly foreseeable and even obvious that they would eventually have to account to the CRA?
+[226] The evidence submitted by both parties does not make it possible to clearly identify the party who should be taxed for the various amounts seized by the police.
+[227] The breakdown must be based on a balance of probabilities.
+[228] One of the very real and highly relevant facts is the total of the substantial amounts seized as well as the location of these amounts at the time of the various seizures—key facts that were admitted by the appellants.
+[229] In order to determine or relate the ownership of property to a natural or legal person, it is essential to have access to the relevant testimony and documentary information, otherwise any conclusion is based on assumptions and/or speculation.
+[230] The lack of such evidence does not necessarily negate the merits of an assessment. If that were the case, it would mean or would have the effect of encouraging taxpayers to not cooperate and to primarily engage in cash transactions; in other words, it could become highly beneficial to not have accounting records and avoid using banks, to not cooperate during a tax audit, etc.
+[231] The appellants understood and put the following formula into practice: “written materials leave traces”. The few available documents are not consistent or credible; they are often contradictory and completely irreconcilable with the testimony of the appellants. The appellants deliberately chose ambiguity and confusion and have the audacity to want to benefit from it.
+[232] The seizures took place in 2007, the assessments were issued in 2009, and the trial started in May 2013 and continued in January 2014. If my math is correct, we are talking about a period of approximately seven years.
+[233] The appellants are not intellectually- or financially-challenged. Throughout the process, they were accompanied by resource people whose competence is not in any doubt.
+[234] Despite the length of the trial, the evidence of the parties and the written notes that followed, which were carefully prepared on the basis of transcripts and parallel reflections, it was completely impossible to know precisely who was the real owner of the amounts seized from the Jewellery Store, which the appellants operated together.
+[235] According to the preponderance of evidence, it is clear that the appellants did nothing to clarify the situation; instead, they refrained from providing reasonable and credible explanations, completely fabricated certain explanations, provided vague and confusing explanations and changed their story at different points in the progression of their case; these are the characteristics of their entire testimony, which constitutes the main evidence that they adduced.
+[236] In the face of such evidence, I must consider the objective, uncontested factors, i.e. the amounts involved and the place where they were seized.
+[237] With respect to Messrs. Tang and Kang, it is also clear that, in addition to the funds seized at their personal residences, they also owned a major portion of the money seized from the premises of the Jewellery Store.
+[238] Indeed, Mr. Kang stated that he had approximately $300,000 at the Jewellery Store when Mr. Tang arrived. For his part, Mr. Tang said that he had brought between $300,000 and $350,000 from the currency exchange that he operated on Jean-Talon Street.
+[239] Other than these two somewhat similar amounts, I am satisfied that the appellants, who went to their personal residences shortly after the visit from the undercover officer, did so in order to obtain some if not all of the currency needed to complete the transaction with the undercover officer.
+[240] Despite the amount of energy invested in trying to obtain details, the exercise did not yield any reliable information. Under these circumstances, I must accept the argument put forward by the respondent as being reasonable, plausible and appropriate, particularly since it is clearly corroborated by a preponderance of the evidence. Their case is set out in the following paragraphs of the respondent’s written submissions:
+[translation]
+407 . . .
+a. Tang’s net worth, excluding the amounts seized, but including reported income should amount to (Can$43,630) – TAB 1
+b. Kang’s net worth, excluding the amounts seized, but including the reported income and the admitted adjustments, should amount to Can$4,810 – TAB 2
+408 . . .
+c. The amounts seized from the Tang residence, Can$509,406 and the Kang residence, Can$384,145 constitute assets that Mr. Tang and Mr. Kang have admitted to owning and that must be maintained as such by these two parties at the end of their 2007 taxation year since they were found on April 17, 2007. Tang and Kang did not demonstrate that these amounts constitute savings.
+. . .
+410 . . .
+d. However, since only the amounts of Can$794,445 and Can$61,840 that were seized at the Jewellery Store were initially considered in calculating the net worth differential of Mr. Tang and Mr. Kang, only 50% of the total of these amounts (Can$794,445 + Can$61,840 /2), i.e. Can$428,142,50 should be maintained in calculating the difference in net worth of Mr. Tang and Mr. Kang. This is provided that the Court accepts the theory that Mr. Tang and Mr. Kang each own 50% of the funds at the Jewellery Store.
+. . .
+419 . . .
+e. Consequently, the indirect audit method of analyzing deposits/selective method by points must take into account the objective appearance of this amount by attributing it to the last active fiscal year, which increases the appellant’s income by Can$1,357,969 for his fiscal year ending March 30, 2007, as indicated by I-9, rather than Can$1,734,696 as indicated by Appendix I of the response to the notice of appeal in the Jewellery Store’s case.
+[241] The Court completely agrees with this submission and confirms it as the judgment of this Court in the three appeals as being the reassessments to be made, to which the resulting penalties are to be added.
+[242] For all these reasons, the appeals are allowed in that the files are to be reassessed on the basis that the unreported income is established as follows:
+(a) Jewellery Store (Docket 2010-3917(IT)G), for the fiscal year ended March 31, 2007: $1,357,969,
+(b) Mr. Tang (Docket 2010-3915(IT)G), for the 2007 taxation year: $893,918.50,
+(c) Mr. Kang (Docket 2010-3913(IT)G, for the 2007 taxation year: $817,097.50.
+[243]The penalties are warranted and are consequently confirmed; they must however be amended on the basis of the amounts established as unreported.
+[244] All with costs in favour of the respondent, to be established, however, on the basis of two dockets only, i.e. costs equivalent to a single docket for the two appellants, Chhang Ang Kang (2010-3913(IT)G) and Uy Keak Tang (2010-3915(IT)G), and a second with respect to the docket of the corporate appellant, Bijouterie Yong Meer Inc. (2010-3917(IT)G).
+Signed at Ottawa, Canada, this 27th day of January 2015.
+“Alain Tardif”
+Tardif J.
+Translation certified true
+On this 1st day of October 2015
+François Brunet, Revisor
+CITATION:
+2015 TCC 18
+COURT FILE NOs.:
+2010-3913(IT)G
+2010-3915(IT)G
+2010-3917(IT)G
+STYLE OF CAUSE :
+CHHANG ANG KANG,
+UY KEAK TANG,
+BIJOUTERIE YONG MEER INC.,
+and THE QUEEN
+PLACE OF HEARING:
+Montréal, Quebec
+DATES OF HEARING:
+May 30, 2013
+May 31, 2013 (conference call)
+From January 20 to January 24, 2014
+REASONS FOR JUDGMENT BY:
+The Honorable Justice Alain Tardif
+DATE OF JUDGMENT:
+January 27, 2015
+APPEARANCES:
+For the appellant:
+Jean-Francois Poulin
+Marie-Hélène Tremblay
+Counsel for the respondent:
+Vlad Zolia
+COUNSEL OF RECORD:
+For the appellants:
+Jean-Francois Poulin
+Marie-Hélène Tremblay
+Firm:
+Ravinsky Ryan Lemoine
+Montréal (Québec)
+For the respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Written submissions by the respondent filed on April 14, 2014.
+[2] Written submissions by the respondent filed on April 14, 2014.

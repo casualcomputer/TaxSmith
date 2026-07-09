@@ -1,0 +1,373 @@
+---
+title: "Polubiec c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/418231/index.do"
+last_modified: "2019-07-04"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2019 CCI 146"
+citation2: ""
+neutral_citation: "2019 CCI 146"
+decision_date: "2019-07-04"
+language: "fr"
+item_id: "418231"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4385
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T18:14:18.373000+00:00"
+cases_cited_count: 25
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "f592204fa2fdea4055be087538c65dd26512cebd593394f4e3710adc4d3f4532"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Polubiec c. La Reine
+
+- Citation: 2019 CCI 146
+- Decision date: 2019-07-04
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4385, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Polubiec c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2019-07-04
+Référence neutre
+2019 CCI 146
+Numéro de dossier
+2016-3298(IT)G
+Juges et Officiers taxateurs
+Don R. Sommerfeldt
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2016-3298(IT)G
+ENTRE :
+MAREK JACEK POLUBIEC,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 15 novembre 2018, à Toronto (Ontario)
+Devant : L’honorable juge Don R. Sommerfeldt
+Comparutions :
+Avocat de l’appelant :
+Me Ted R. Laan
+Avocat de l’intimée :
+Me John Maskine
+JUGEMENT
+L’appel est rejeté avec dépens attribués à l’intimée, si elle en fait la demande.
+Le cas échéant, les parties disposeront d’un délai de 30 jours suivant la date du présent jugement pour parvenir à un accord sur les dépens; en l’absence d’accord, l’intimée disposera d’un délai supplémentaire de 30 jours pour déposer ses observations écrites sur les dépens, puis l’appelant aura à son tour 30 jours pour déposer une réponse par écrit. De telles observations ne peuvent pas dépasser cinq pages. Si l’intimée demande l’adjudication de dépens, mais que les parties n’informent pas la Cour qu’elles sont parvenues à un accord et qu’aucune observation n’est reçue dans les délais susmentionnés, les dépens seront adjugés à l’intimée selon ce que prévoit le tarif.
+Signé à Ottawa, Canada, ce 4e jour de juillet 2019.
+« Don R. Sommerfeldt »
+Le juge Sommerfeldt
+Traduction certifiée conforme
+ce 19e jour de novembre 2020.
+Mario Lagacé, jurilinguiste
+Référence : 2019 CCI 146
+Date : 20190704
+Dossier : 2016-3298(IT)G
+ENTRE :
+MAREK JACEK POLUBIEC,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Sommerfeldt
+I. INTRODUCTION
+[1] Les présents motifs concernent l’appel interjeté par Marek Jacek Polubiec à l’encontre d’une pénalité imposée en application du paragraphe 163(1) de la Loi de l’impôt sur le revenu (la LIR) [1] , telle qu’elle est indiquée dans l’avis de nouvelle cotisation daté du 3 décembre 2015 qui a été délivré à M. Polubiec par l’Agence du revenu du Canada (l’Agence) au nom du ministre du Revenu national (le ministre) pour l’année d’imposition 2014. L’établissement d’une nouvelle cotisation (la nouvelle cotisation) était justifié par le fait que M. Polubiec avait omis de déclarer la totalité de son revenu pour l’année 2014 et qu’il avait précédemment omis de déclarer un ou plusieurs postes de revenu pour l’année 2011.
+II. QUESTIONS EN LITIGE
+[2] Les questions soulevées dans le présent appel sont les suivantes :
+a) M. Polubiec a-t-il omis de déclarer un ou plusieurs montants qui devaient être inclus dans le calcul de son revenu pour l’année 2011 et à nouveau pour l’année 2014?
+b) M. Polubiec pouvait-il invoquer la défense basée sur la diligence raisonnable pour les années d’imposition 2011 et 2014?
+III. RAPPEL DES FAITS
+[3] M. Polubiec est un homme d’affaires intelligent [2] et instruit, aujourd’hui à la retraite, qui possède et gère divers placements. Durant son témoignage, M. Polubiec a déclaré qu’il avait obtenu un baccalauréat spécialisé en administration des affaires de la Ivey Business School de l’University of Western Ontario, puis une maîtrise en administration des affaires de la Wharton Graduate School of Business de l’University of Pennsylvania [3] .
+[4] M. Polubiec a eu une carrière florissante dans le monde des affaires, en travaillant d’abord pour le Chemin de fer Canadien Pacifique Limitée pendant quelques années, puis pour la société Burns Fry Ltd. pendant plusieurs années [4] . Après avoir quitté l’entreprise Burns Fry, M. Polubiec a lancé sa propre entreprise bancaire d’investissement qui était dirigée par une société dont il était le propriétaire, la société Fraser Mackenzie Limited. M. Polubiec a travaillé dans le domaine des services bancaires d’investissement de 1980 jusqu’à ce qu’il amorce la fermeture de son entreprise, en 2013. Si l’on se fie aux extraits de déclarations de revenus (désignés par l’Agence comme les imprimés de l’option « C ») présentés en preuve pour les années 2007 à 2011, il semble que M. Polubiec ait eu une carrière très florissante et très bien rémunérée.
+[5] En préparation à une retraite progressive, M. Polubiec a commencé en avril 2013 à réduire progressivement les activités de Fraser Mackenzie, en procédant à une liquidation volontaire échelonnée sur plusieurs années. La société Fraser Mackenzie a cessé définitivement ses activités commerciales en décembre 2017.
+[6] Bien que M. Polubiec ait eu recours à un cabinet comptable international pendant de nombreuses années pour la production de ses déclarations annuelles de revenus, il a fini par les remplir lui-même, à l’aide du logiciel ImpôtExpert, un système électronique de préparation des déclarations de revenus.
+[7] Durant son témoignage, M. Polubiec a déclaré qu’il n’avait jamais eu aucune difficulté à déclarer la totalité de ses revenus lorsque ses déclarations de revenus étaient préparées par le cabinet comptable. Cependant, à peu près au moment où il a commencé à produire lui-même ses déclarations de revenus, il semble qu’il y ait eu quelques années d’imposition pour lesquelles il n’a pas reçu, ou il a égaré ou omis, une partie ou la totalité des feuillets de renseignements fiscaux pour certaines ou la totalité de ses sources de revenus. De nouvelles cotisations ont donc été établies pour plusieurs années, relativement aux revenus non déclarés par M. Polubiec et, pour certaines de ces années, une pénalité a également été imposée en application du paragraphe 163(1) de la LIR [5] . Un agent des litiges de l’Agence, M. Shabbir Datoo, a présenté un historique des revenus que M. Polubiec avait omis de déclarer de 2007 à 2011, ainsi que pour 2014. S’intéressant d’abord au premier groupe des cinq années d’imposition consécutives, M. Datoo a examiné les imprimés de l’option « C » pour chacune de ces années et a déclaré, dans son témoignage, que M. Polubiec avait omis de déclarer les montants suivants à titre de revenus de placements :
+Année
+Dividendes
+Intérêts
+Autre revenu
+Divers
+Montant selon
+le par. 163(1)
+2007
+6 253 $
+73 $
+12 317 $
+630 $ [6]
+12 316 $
+2008
+6 814 $
+380 $
+16 447 $
+[EN BLANC]
+23 641 $
+2009
+16 392 $
+534 $
+11 394 $
+[EN BLANC]
+s.o.
+2010
+10 935 $
+[EN BLANC]
+8 876 $
+83 $ [7]
+13 149 $
+2011
+29 159 $
+[EN BLANC]
+[EN BLANC]
+122 $ [8]
+20 516 $
+[8] M. Datoo a expliqué qu’une pénalité avait été imposée à M. Polubiec pour les années 2007, 2008, 2010 et 2011 en application du paragraphe 163(1) de la LIR. Le montant du revenu non déclaré, sur lequel s’est basée l’Agence pour calculer le montant de la pénalité (c.-à-d. le montant prévu pour une année d’imposition donnée au paragraphe 163(1) de la LIR), est indiqué dans la colonne de droite du tableau ci-dessus. Pour des motifs que M. Datoo n’a pas expliqués, l’Agence a calculé les pénalités prévues pour l’omission de déclarer un montant dans une déclaration produite conformément à l’article 150 pour une année d’imposition donnée au titre du paragraphe 163(1) pour les années 2007, 2010 et 2011 en utilisant un montant inférieur au montant total du revenu non déclaré pour les années en question. M. Datoo a également déclaré que l’Agence avait choisi de ne pas imposer de pénalité aux termes du paragraphe 163(1) pour l’année 2009, bien qu’elle ait établi une nouvelle cotisation tenant compte du revenu que M. Polubiec n’avait pas déclaré dans le calcul de son revenu pour cette année-là.
+[9] Même si, lors de l’audience, M. Datoo n’avait en sa possession aucun document portant sur les années d’imposition antérieures à 2007, il a déclaré que, puisqu’une pénalité avait été imposée à M. Polubiec pour l’année 2007 en application du paragraphe 163(1), ce dernier devait avoir omis de déclarer des revenus durant l’une des trois années d’imposition précédant 2007 (c.-à-d. 2004, 2005 ou 2006), sans quoi la condition énoncée au paragraphe 163(1) de la LIR n’aurait pas été satisfaite pour l’année 2007 et l’Agence n’aurait pu imposer de pénalité pour cette année-là.
+[10] M. Polubiec a déclaré qu’en 2014 il avait voulu utiliser une partie des sommes versées dans son régime enregistré d’épargne-retraite (REER) pour investir dans l’immobilier. Il a donc donné pour instruction à BMO Nesbitt Burns Inc. (BMONB), qui était le fiduciaire de son REER, de retirer 700 000 $ de son REER et de lui verser le produit net. Nonobstant les instructions données par M. Polubiec quant au montant à retirer, le montant réel du retrait du REER n’a été que de 699 887,01 $. De ce montant, BMONB a retenu le montant exigible au titre de l’impôt sur le revenu (209 966,11 $) [9] , calculé selon un taux de 30 %, et a versé le solde à M. Polubiec (probablement un montant de 489 920,90 $, soit 699 887,01 $ – 209 966,11 $). Durant son témoignage, M. Polubiec a indiqué qu’il avait demandé à un représentant de BMONB s’il avait d’autres obligations fiscales relativement au montant retiré de son REER et, d’après les conseils qu’il avait reçus de BMONB, il en a conclu qu’il n’avait aucune autre obligation. Lors de la production de sa déclaration de revenus pour l’année 2014, M. Polubiec n’a donc déclaré qu’un revenu d’emploi de 1 $ et aucun autre revenu. Il n’a notamment pas déclaré le retrait de son REER d’un montant de 699 887,01 $, ni demandé de crédit pour l’impôt sur le revenu d’un montant de 209 966,11 $ que BMONB avait retenu et probablement versé à l’Agence.
+[11] Lorsque l’Agence a comparé les divers feuillets de renseignements concernant M. Polubiec, qu’elle avait reçus pour l’année 2014, aux montants que M. Polubiec avait déclarés dans sa déclaration de revenus de cette même année, l’Agence a constaté que les revenus suivants indiqués sur trois feuillets de renseignements n’y figuraient pas :
+Feuillet
+Payeur/émetteur
+Description
+Montant
+T4RSP [10]
+BMONB
+Retrait de REER
+699 887,01 $
+T5 [11]
+BMONB
+Revenu de source étrangère et dividendes admissibles
+9 808,79 $
+T3 [12]
+FNB iShares S&P/TSX Capped Financials Index
+Gains en capital et dividendes admissibles
+69,44
+[EN BLANC]
+[EN BLANC]
+Total
+709 765,24 $
+[12] Pour calculer le revenu non déclaré, l’Agence a regroupé les montants imposables des deux dividendes admissibles, a inclus le revenu de source étrangère dans les revenus d’intérêts ou de placement et a omis les gains en capital; le revenu non déclaré s’élevait donc à [13] :
+Description
+Montant
+Revenu de dividendes
+8 657 $
+Revenu d’intérêts/de placement
+1 217
+Revenu tiré d’un REER
+699 887
+Total
+709 761 $
+[13] Le 3 décembre 2015, l’Agence a délivré l’avis de nouvelle cotisation qui fait l’objet du présent appel. En plus d’établir la cotisation d’impôt à l’égard du revenu non déclaré, l’avis de nouvelle cotisation prévoyait également une pénalité d’un montant de 70 976 $ en application du paragraphe 163(1) de la LIR ainsi qu’une pénalité comparable, du même montant, imposée au titre de la disposition correspondante de la loi de l’impôt sur le revenu de l’Ontario [14] .
+[14] M. Polubiec a signifié son opposition à la nouvelle cotisation, subséquemment ratifiée par le ministre, après quoi M. Polubiec a introduit le présent appel.
+IV. DISCUSSION
+A. Pénalité provinciale
+[15] Les actes de procédure de M. Polubiec et de la Couronne font tous deux mention d’une pénalité de 70 976 $ imposée par l’administration fiscale de l’Ontario. Dans son avis d’appel, toutefois, M. Polubiec n’a demandé aucune mesure de redressement à l’égard de la pénalité provinciale. Comme la Cour canadienne de l’impôt n’a pas compétence pour statuer sur la validité d’une pénalité provinciale [15] , je n’examinerai pas cette question plus à fond.
+B. Pénalité fédérale
+[16] En 2014, le paragraphe 163(1) de la LIR était ainsi libellé :
+163(1) Toute personne qui ne déclare pas un montant à inclure dans le calcul de son revenu dans une déclaration produite conformément à l’article 150 pour une année d’imposition donnée et qui a déjà omis de déclarer un tel montant dans une telle déclaration pour une des trois années d’imposition précédentes est passible d’une pénalité égale à 10 % du montant à inclure dans le calcul de son revenu dans une telle déclaration, sauf si elle est passible d’une pénalité en application du paragraphe (2) sur ce montant.
+La pénalité imposée en application du paragraphe 163(1) s’applique à une infraction de responsabilité stricte, qui n’est toutefois pas appliquée si le contribuable peut prouver qu’il a exercé le degré requis de diligence raisonnable [16] .
+[17] Les pénalités imposées en application du paragraphe 163(1) de la LIR peuvent être sévères, notamment dans les cas où des retenues à la source ont été effectuées et versées à l’égard du revenu non déclaré [17] .
+[18] Selon le paragraphe 163(3) de la LIR, c’est le ministre qui a la charge d’établir les faits qui justifient l’imposition d’une pénalité aux termes du paragraphe 163(1) de la LIR [18] . En revanche, c’est au contribuable qui soulève une défense fondée sur la diligence raisonnable qu’il incombe de démontrer qu’il a fait preuve de diligence raisonnable [19] .
+C. Y a-t-il eu omission de déclarer des revenus?
+[19] La principale thèse invoquée par l’avocat de M. Polubiec est que, d’après la décision Khalil, il n’y a pas eu en réalité omission de déclarer un revenu, car tous les montants cités par l’Agence comme étant des revenus non déclarés avaient fait l’objet de divers feuillets de renseignements qui avaient été envoyés à l’Agence, même si cela avait été fait par les émetteurs de ces feuillets et non par M. Polubiec [20] . Le passage pertinent de la décision du juge Mogan dans la décision Khalil est ainsi rédigé :
+Je ne peux pas conclure qu’une personne a « omis de déclarer un [...] montant » au sens du paragraphe 163(1) quand cette personne sait (i) que le montant devait lui être versé à titre de revenu par un payeur particulier, (ii) que le payeur a retenu au titre de l’impôt sur le revenu à remettre à Revenu Canada une certaine partie de ce montant, (iii) que le payeur lui a versé en réalité seulement le solde qui restait après déduction de l’impôt retenu, et (iv) que le payeur était tenu de déclarer à Revenu Canada, sur un formulaire prescrit par Revenu Canada, le montant brut payable à cette personne ainsi que la partie retenue et remise à titre d’impôt […] [21] .
+Plusieurs autres juges de notre Cour ont souscrit à la décision rendue dans le jugement Khalil; voir, par exemple les décisions Iszcenko [22] , Alcala [23] et Franck [24] .
+[20] Au début de l’audition du présent appel, avec le consentement verbal de l’avocat de la Couronne, j’ai autorisé M. Polubiec à modifier son avis d’appel [25] afin d’y ajouter la disposition suivante, désignée alinéa 3k), qui expose d’autres faits importants invoqués à l’appui :
+[TRADUCTION]
+L’appelant [c.-à-d. M. Polubiec] savait que le retrait du REER devait lui être versé par BMO [renvoyant probablement à BMO Nesbitt Burns Inc., société dont j’ai abrégé le nom par l’acronyme BMONB] à titre de revenu, que BMO avait retenu une partie du montant au titre de l’impôt sur le revenu à verser à Revenu Canada [aujourd’hui, l’Agence du revenu du Canada, que j’ai abrégée par le terme Agence], que BMO n’a versé en réalité à l’appelant que le solde après déduction de l’impôt retenu et que BMO était tenue de déclarer à Revenu Canada, sur un formulaire prescrit par Revenu Canada, le montant brut payable à l’appelant ainsi que la partie retenue et versée à titre d’impôt.
+Lorsque j’ai demandé à l’avocat de la Couronne s’il avait quelque réserve à ce que la modification précitée soit apportée à l’avis d’appel à un stade aussi avancé de l’instance, il a dit qu’il n’en avait aucune et il a reconnu les faits allégués dans la disposition modifiée [26] .
+[21] Une lecture minutieuse de l’alinéa 3k) de l’avis d’appel modifié montre qu’il paraphrase la déclaration précitée, extraite du paragraphe 13 de la décision Khalil, et qu’il reprend presque textuellement le libellé des clauses (i) à (iv) de cette déclaration. Durant l’interrogatoire principal, l’avocat de M. Polubiec a rappelé les éléments de fait énoncés à l’alinéa 3k), éléments que M. Polubiec a ensuite confirmés [27] . Deux difficultés se posent toutefois pour M. Polubiec; la première vient du fait qu’il a reconnu durant le contre-interrogatoire que bon nombre des hypothèses de fait énoncées au paragraphe 5 de la réponse de la Couronne étaient exactes. Les hypothèses formulées au paragraphe 5 de la réponse sont rédigées comme suit :
+[TRADUCTION]
+a) L’appelant a retiré 699 887 $ de son REER;
+b) BMO Nesbitt Burns Inc. a versé des dividendes totalisant 8 591,18 $ à l’appelant;
+c) L’appelant a reçu des revenus de placements étrangers totalisant 1 217 $ de BMO Nesbitt Burns Inc.;
+d) L’appelant a reçu des dividendes totalisant 65,85 $ du FNB IShares [sic] S&P/TSX Capped Financials Index;
+e) Dans sa déclaration de revenus de 2014, l’appelant a omis de déclarer comme revenus les montants susmentionnés aux alinéas 5 a), b), c) et d);
+f) L’appelant a déclaré des revenus de dividendes totalisant 6 535 $ pour l’année d’imposition 2011;
+g) L’appelant a reçu des revenus de dividendes totalisant 35 694 $ pour l’année d’imposition 2011;
+h) L’appelant a omis de déclarer des revenus de dividendes totalisant 29 159 $ pour l’année d’imposition 2011;
+i) L’appelant a également omis de déclarer des revenus pour les années d’imposition 2007, 2008, 2009 et 2010.
+M. Polubiec a déclaré que les hypothèses énoncées aux alinéas a) et d) à i) étaient exactes, que celle formulée à l’alinéa c) semblait exacte, mais que celle figurant à l’alinéa b) précité était inexacte [28] . M. Polubiec a donc reconnu avoir omis de déclarer la plupart, sinon la totalité, des postes que l’Agence avait relevés comme étant des revenus non déclarés. Il semble donc y avoir une légère contradiction, étant donné que l’avocat de M. Polubiec m’exhortait à conclure, en me basant sur la décision Khalil, qu’il n’y avait pas eu omission de déclarer, alors que M. Polubiec a lui-même reconnu qu’il avait en fait omis de déclarer les postes de revenu mentionnés relativement à l’année 2014.
+[22] Au problème précité s’ajoute une autre difficulté résultant du fait que, bien que certains juges de notre Cour depuis 2002 aient suivi la décision Khalil, d’autres juges ont établi des distinctions [29] , se sont limités aux faits propres à cette affaire [30] ou s’en sont dissociés [31] . De fait, plusieurs décisions précisent essentiellement qu’un contribuable « ne peut pas invoquer le fait que l’impôt sur le revenu a été retenu à la source pour échapper à la pénalité imposée en vertu du paragraphe 163(1) de la [LIR] » [32] . Je suis d’avis que l’approche qui convient est celle qui a été énoncée par le juge Webb, alors membre de notre Cour, dans la décision Symonds :
+Il me semble que l’appelante ne peut pas simplement se fonder sur le fait que l’impôt sur le revenu a été retenu à la source pour éviter la pénalité prévue au paragraphe 163(1) de la [LIR] [...] Afin d’éviter l’imposition de la pénalité, l’appelante doit établir qu’il a été satisfait aux exigences applicables au moyen de défense fondé sur la diligence raisonnable, telles que la Cour d’appel fédérale les a énoncées dans l’arrêt Les Résidences Majeau Inc., [...] [33] .
+[23] Durant son témoignage en interrogatoire principal, M. Datoo (l’agent des litiges de l’Agence) a passé en revue en détail les aspects pertinents des imprimés de l’option « C » qui présentaient un résumé, sous forme numérique, des renseignements extraits des déclarations de revenus produites par M. Polubiec pour les années 2007 à 2011, puis pour 2014. Ces imprimés ventilaient par poste les revenus que M. Polubiec avait omis de déclarer durant les années visées. M. Datoo a également présenté des copies de chaque feuillet de renseignements correspondant aux différents postes de revenu que M. Polubiec avait omis de déclarer et les a expliqués. À la lumière de ces éléments de preuve qui n’ont pas été contestés durant le contre-interrogatoire, je conclus que la Couronne a satisfait au fardeau qui lui incombait de prouver les faits nécessaires pour justifier l’imposition de la pénalité à l’encontre de M. Polubiec.
+[24] Je n’interprète pas la décision Khalil comme un jugement établissant un critère universel devant s’appliquer dans tous les cas. De plus, la situation de M. Polubiec, qui était titulaire d’un baccalauréat spécialisé en administration des affaires et d’une maîtrise en administration des affaires de prestigieuses écoles d’études commerciales et qui a travaillé pendant de nombreuses années comme banquier d’affaires, est très différente des situations respectives de Mme Khalil et de Mme Alcala (qui avaient récemment immigré au Canada et qui ne connaissaient pas le régime fiscal canadien), de Mme Iszcenko (qui était atteinte de dépression à la suite du décès de son mari et qui avait reçu des conseils erronés de son beau-père) et de M. Franck (qui avait une compréhension très limitée du système fiscal canadien).
+D. M. Polubiec a-t-il fait preuve de diligence raisonnable?
+[25] La Cour d’appel fédérale a expliqué en ces termes la défense fondée sur la diligence raisonnable :
+8. Selon l’arrêt Corporation de l’école polytechnique c. Canada, 2004 CAF 127, un défendeur bénéficie de la défense de diligence raisonnable s’il établit l’une ou l’autre des deux choses suivantes : soit qu’il a commis une erreur de fait raisonnable, soit qu’il a pris des précautions raisonnables pour empêcher que ne se produise l’évènement qui donne naissance à la pénalité.
+9. L’erreur de fait raisonnable emporte un double test : subjectif et objectif. Le test subjectif est satisfait si le défendeur établit qu’il s’est mépris en ce qu’il a cru en une situation de fait qui, si elle avait existé, aurait éliminé le caractère fautif de son geste ou de son omission. En outre, pour que cet aspect de la défense opère, il faut aussi que l’erreur soit raisonnable, p. ex. une erreur qu’une personne raisonnable placée dans les mêmes circonstances aurait commise. Il s’agit là du test objectif.
+10. Le deuxième volet de la défense requiert, tel que déjà mentionné, que des gestes soient posés ou des mesures prises pour éviter l’événement qui engendre la pénalité [34] .
+[26] En ce qui concerne l’omission de déclarer le retrait de son REER pour l’année 2014, M. Polubiec a reconnu librement qu’il avait fait une erreur en omettant de déclarer les divers postes de revenu visés par le présent appel. L’avocat de M. Polubiec a prétendu que, durant la production de ses diverses déclarations de revenu, M. Polubiec avait été honnête, qu’il voulait se conformer aux exigences de déclaration de la LIR et qu’il n’avait pas délibérément omis de déclarer la totalité de ses revenus [35] . Je souscris à ces observations. La difficulté que j’ai, c’est que M. Polubiec n’a pu faire la preuve qu’il a commis une erreur de fait raisonnable ou qu’il a pris des précautions raisonnables pour éviter d’omettre de déclarer des revenus.
+[27] Dans le contexte du retrait d’un REER, la distinction entre une erreur de fait et une erreur de droit a été illustrée par le juge Webb (qui était alors membre de notre Cour) dans la décision Mignault :
+Pour prouver qu’il avait commis une erreur de fait raisonnable, l’appelant devait établir à la fois l’élément subjectif et l’élément objectif de ce critère [tel qu’il est énoncé dans l’arrêt Les Résidences Majeau Inc.]. Il a dit qu’il croyait comprendre qu’il ne retirait pas de fonds de son REER, mais qu’il prenait simplement des dispositions pour que soit réinvesti l’argent qu’il avait à la Great West Life Assurance Company. Cependant, le fait à retenir pour l’application de la [LIR] est la réception d’une somme. Si l’appelant avait reçu les montants de son REER, alors il devait les inclure dans son revenu. Il fallait que l’erreur de fait soit une erreur portant sur le point de savoir s’il avait ou non reçu les montants. Cependant, il semble que l’appelant ne s’est pas mépris sur la question de savoir s’il avait reçu les montants, puisqu’il a clairement reconnu qu’il les avait reçus. L’erreur de l’appelant concernait les conséquences juridiques découlant des opérations orchestrées par [le conseiller financier de l’appelant], et sur la question de savoir si ces opérations allaient nécessiter l’inclusion d’un montant dans son revenu au titre de la [LIR]. Il s’agit là d’une erreur de droit, non d’une erreur de fait, et cette erreur de droit n’autorise pas une défense de diligence raisonnable [36] . [Souligné dans la traduction.]
+J’examinerai d’abord si M. Polubiec a commis une erreur de fait raisonnable, puis s’il a pris des précautions raisonnables pour éviter d’omettre de déclarer la totalité de ses revenus.
+a) Erreur de fait raisonnable
+[28] M. Polubiec prétend avoir compris à tort, d’après ce que lui avait dit un représentant de BMONB, qu’il s’était acquitté de ses obligations fiscales relativement au retrait de son REER effectué en 2014. La question que doit trancher notre Cour est de déterminer si cela constitue une erreur de fait raisonnable.
+[29] Examinons d’abord le critère subjectif décrit dans la décision Mignault. M. Polubiec a admis qu’il savait, en 2014, que le montant retiré de son REER lui était versé par BMONB à titre de revenu et que BMONB avait retenu une partie du montant retiré de son REER au titre de l’impôt sur le revenu à verser à l’Agence. M. Polubiec croyait que ses obligations fiscales étaient satisfaites du fait que BMONB avait retenu et versé un montant au titre de l’impôt. L’erreur de M. Polubiec est liée à son obligation, aux termes de la LIR, de déclarer la totalité de ses revenus. Il s’agit d’une erreur de droit, et non d’une erreur de fait.
+[30] De plus, ainsi que le précise la Cour dans la décision Mignault, il doit non seulement s’agir d’une erreur de fait, mais cette erreur doit aussi être raisonnable. En d’autres mots, le critère qui s’applique comporte deux volets, l’un étant subjectif et l’autre, objectif. J’ai indiqué précédemment, en lien avec l’élément subjectif, que l’erreur de M. Polubiec était une erreur de droit et non une erreur de fait. Si mon interprétation de l’élément subjectif est fausse, M. Polubiec fait face néanmoins à une difficulté supplémentaire qui concerne cette fois-ci l’élément objectif du critère, car je ne crois pas que son erreur était raisonnable. En d’autres mots, il ne s’agissait pas d’une « erreur qu’une personne raisonnable placée dans les mêmes circonstances aurait commise ». [37]
+[31] Durant son témoignage, M. Polubiec a déclaré qu’il a cru, à tort, qu’il n’était plus tenu de déclarer la somme retirée de son REER lorsqu’il a appris que BMONB avait retenu un montant correspondant à 30 % de la somme retirée de son REER au titre de l’impôt, d’autant plus que personne chez BMONB ne lui avait dit qu’il devait déclarer le retrait de son REER sur sa déclaration de revenus. Il a expliqué que la croissance de son REER était attribuable principalement à des gains en capital réalisés sur des biens immeubles dans son REER et qu’il savait que les gains en capital sont imposés à un taux d’intérêt réel inférieur à celui applicable aux autres formes de revenu. Il a donc conclu que la retenue de 30 % satisfaisait intégralement à son obligation fiscale relative au montant retiré de son REER et, donc, qu’il n’était pas tenu de déclarer ce montant dans sa déclaration de revenus [38] . Je suis d’avis que cette conclusion n’est pas raisonnable, étant donné la manière dont M. Polubiec avait déclaré des revenus d’emploi antérieurs, ainsi qu’il est expliqué ci-après.
+[32] En 2010, les revenus d’emploi de M. Polubiec ont été substantiels [39] , et l’impôt sur ces revenus a été retenu à la source [40] . Le montant de l’impôt retenu à la source, ainsi que les diverses déductions et divers crédits auxquels M. Polubiec avait alors droit, étaient ensemble suffisamment élevés pour qu’il reçoive un remboursement d’impôt [41] . Cependant, même si l’impôt sur son revenu d’emploi de 2010 avait été retenu à la source, M. Polubiec a déclaré le montant intégral de ce revenu d’emploi dans sa déclaration de revenus de 2010.
+[33] En 2011, les revenus d’emploi de M. Polubiec ont été encore plus élevés [42] et, là encore, l’impôt sur ces revenus a été retenu à la source [43] . Comme il l’avait fait pour 2010, M. Polubiec a déclaré la totalité de ses revenus d’emploi pour 2011 dans sa déclaration de revenus de 2011, même s’il savait que l’impôt sur le revenu avait été retenu à la source.
+[34] Par conséquent, comme M. Polubiec connaissait le concept de la retenue à la source de l’impôt sur diverses sources de revenu, comme ses revenus d’emploi de 2010 et 2011, et qu’il savait que la retenue de cet impôt ne l’exonérait pas de son obligation de déclarer ses revenus d’emploi, il n’était pas raisonnable pour lui de conclure qu’il n’était pas tenu de déclarer le retrait de son REER en 2014, simplement parce qu’un montant correspondant à 30 % de ce retrait avait été retenu à titre d’impôt sur le revenu. En d’autres mots, une personne raisonnable aurait compris que la retenue d’un acompte au titre des impôts à payer ne la dispensait pas de son obligation en vertu de la loi de déclarer le revenu en question.
+[35] Selon M. Polubiec, en plus de la retenue d’impôt sur le retrait de son REER, un représentant de BMONB lui a dit que [TRADUCTION] « tout était en règle » [44] . Pour autant que je sache, la personne qui lui aurait dit cela était un assistant-courtier ou un représentant en investissements [45] . Cependant, une personne raisonnable aurait demandé conseil à un fiscaliste-conseil, par exemple un comptable fiscaliste ou un avocat-fiscaliste, et non à un assistant-courtier, à un représentant en investissements ou à quelque autre personne occupant des fonctions semblables.
+b) Précautions raisonnables
+[36] Les juges de notre Cour ne s’entendent pas quant à savoir si, pour invoquer la défense fondée sur la diligence raisonnable à l’encontre d’une pénalité imposée en application du paragraphe 163(1) de la LIR, il faut prouver qu’une diligence raisonnable a été exercée relativement à l’année pour laquelle la pénalité a été imposée, ou s’il suffit pour le contribuable de prouver qu’il a fait preuve de diligence raisonnable durant l’une des années précédentes prévues au paragraphe 163(1) (c.-à-d. l’une des trois années d’imposition précédentes). Dans plusieurs décisions, notre Cour a conclu que la pénalité peut être évitée en établissant une défense fondée sur la diligence raisonnable pour une des deux années durant la période de quatre ans [46] . D’autres juges sont « d’avis qu’un contribuable doit invoquer le moyen de défense fondé sur la diligence raisonnable pour l’année où la pénalité est imposée » [47] . Plutôt que d’essayer de trancher entre ces deux courants jurisprudentiels, je donnerai, comme l’a fait la juge V. Miller dans la décision Dhanoa [48] , le bénéfice du doute à M. Polubiec, et j’examinerai la question de savoir s’il a fait la preuve de sa défense fondée sur la diligence raisonnable pour 2011 ou 2014.
+(i) 2011
+[37] Comme je l’ai mentionné précédemment, durant une ou plusieurs des trois années d’imposition antérieures à 2007, ainsi que pour les années 2007, 2008, 2009 et 2010, M. Polubiec a omis de déclarer certains postes de revenu mentionnés sur divers feuillets de renseignements. M. Polubiec prétend qu’il n’a pas reçu ces feuillets de renseignements et il a allégué, du moins dans le cas de la BMONB, que cette institution avait omis de lui envoyer lesdits feuillets. Durant son témoignage, il a déclaré qu’après chaque nouvelle cotisation relative à un revenu non déclaré, il a téléphoné à un représentant de BMONB pour se plaindre du fait qu’on ne lui avait pas envoyé les feuillets de renseignements et pour demander de veiller à ce que de telles erreurs ne se reproduisent plus.
+[38] Je ne suis pas convaincu que BMONB ait omis d’envoyer les feuillets de renseignements en question à M. Polubiec. M. Datoo a témoigné que l’Agence avait reçu de BMONB des copies de chacun des feuillets de renseignements concernant les revenus non déclarés. Il ne fait donc aucun doute que BMONB avait un système pour la préparation de ces feuillets de renseignements et leur envoi, du moins à l’Agence, sinon à M. Polubiec. Malheureusement, M. Polubiec n’a appelé aucun représentant de BMONB comme témoin. Il n’a pu prouver que les feuillets de renseignements manquants ne lui avaient pas été envoyés par la poste. Il est possible que les feuillets de renseignements n’aient pas été postés ou qu’ils aient été perdus dans le courrier, mais il est également possible que M. Polubiec les ait égarés ou n’en ait pas tenu compte.
+[39] Quoi qu’il en soit, au moment où de nouvelles cotisations ont été établies (soit le 31 octobre 2011) parce que M. Polubiec avait omis de déclarer certains postes de revenu pour l’année 2010, il y avait eu quatre années consécutives au cours desquelles il avait omis de déclarer tous ses revenus (en plus d’avoir omis de déclarer la totalité de ses revenus durant une ou plusieurs des trois années d’imposition antérieures à 2007). Par conséquent, lorsque M. Polubiec a produit sa déclaration de revenus de 2011, une précaution raisonnable aurait été d’effectuer une contre-vérification pour s’assurer d’avoir reçu tous les feuillets de renseignements. Il aurait pu le faire en examinant ses déclarations de revenus et ses avis de nouvelle cotisation pour les années antérieures à 2011, pour déterminer toutes ses sources de revenu de placement et s’assurer qu’il avait les feuillets de renseignements de 2011 pour ces mêmes sources de revenu (en présumant qu’il détenait toujours ces placements). Durant son témoignage, M. Polubiec a dit qu’il avait commencé à observer une tendance à un certain moment durant la période entre 2007 et 2011 : il lui semblait que les feuillets de renseignements de certaines sociétés ou d’autres émetteurs étaient généralement manquants. Par conséquent, lorsqu’il a rempli sa déclaration de revenus de 2011, une précaution raisonnable aurait été de s’assurer qu’il avait reçu le feuillet de renseignements de chaque émetteur qui, par le passé, avait figuré parmi ceux dont il n’avait pas reçu les feuillets de renseignements lorsqu’il avait produit ses déclarations de revenus des années antérieures.
+[40] Durant son témoignage, M. Polubiec n’a mentionné aucun système qu’il avait mis en place pour recueillir et examiner son courrier, classer et organiser tous ses documents aux fins de l’impôt, y compris les feuillets de renseignements, et s’assurer qu’aucun de ces documents n’avait été égaré ou omis durant la préparation de ses déclarations de revenus, en particulier celle pour l’année 2011. M. Polubiec n’a pris essentiellement aucune mesure pour éviter d’omettre de déclarer des revenus, si ce n’est d’appeler BMONB à un certain moment en 2011 (possiblement après avoir reçu l’avis de nouvelle cotisation daté du 31 octobre 2011 pour l’année 2010), pour se plaindre des feuillets de renseignements manquants. En d’autres mots, l’approche de M. Polubiec consistait à répondre à chaque avis de nouvelle cotisation délivré relativement à l’omission de déclarer des revenus lors d’une année d’imposition précédente, plutôt qu’à prendre des mesures pour s’assurer d’avoir en main tous les feuillets de renseignements pour l’année d’imposition courante [49] .
+[41] Par conséquent, je conclus que M. Polubiec n’a pas pris de précautions raisonnables pour éviter d’omettre de déclarer la totalité de ses revenus pour 2011.
+(ii) 2014
+[42] Pour l’année 2014, M. Polubiec a omis de déclarer trois postes de revenu, soit le retrait de son REER, le revenu de source étrangère et les dividendes admissibles payés par BMONB, ainsi que le gain en capital et les dividendes admissibles versés par iShares. Aucun élément de preuve ne laisse croire que M. Polubiec n’a pas reçu le feuillet T4RSP relativement au retrait de son REER. Ainsi qu’il a été indiqué précédemment, il a plutôt invoqué une erreur de sa part pour expliquer le fait qu’il avait omis de déclarer ce poste de revenu.
+[43] M. Polubiec prétend avoir pris des précautions raisonnables pour éviter d’omettre de déclarer le retrait de son REER à titre de revenu, puisqu’il a demandé à un employé de BMONB qui travaillait pour son courtier si la retenue d’impôt de 30 % était suffisante pour satisfaire à ses obligations fiscales relativement à ce retrait. Je ne souscris pas à cette thèse, car je crois qu’une personne raisonnable aurait posé cette question à un conseiller fiscal, plutôt qu’à un assistant-courtier ou à un représentant en investissements [50] .
+[44] M. Polubiec a prétendu que BMONB avait omis de produire ou de lui envoyer le feuillet T5 pour le revenu de source étrangère et les dividendes admissibles, ainsi que le feuillet T3 pour le gain en capital et les dividendes admissibles versés par iShares. Cependant, plutôt que d’assigner un représentant de BMONB à comparaître pour confirmer que BMONB avait omis de produire et de poster ces feuillets de renseignements, M. Polubiec a produit deux chaînes de courriels, l’une datée du 26 juillet 2016 et l’autre du 7 octobre 2016 [51] . Dans la première chaîne de courriels, M. Polubiec demandait à Mme Christine Wert de BMONB de confirmer que [TRADUCTION] « BMO lui avait versé cette année-là [c.-à-d. en 2014] des revenus de dividendes imposables de 8 657,00 $ et un autre revenu de placement de 1 217,00 $ » [52] . Ayant appris que Mme Wert était en congé de maternité, M. Polubiec a redirigé ses demandes par courriel à Mme Allison Jarvie, qui lui a répondu qu’elle avait [TRADUCTION] « cherché les feuillets pour l’année d’imposition 2014 pour les deux comptes de revenus personnels assujettis à l’impôt [de M. Polubiec] », mais qu’elle [TRADUCTION] « n’avait pu retracer aucun des feuillets demandés pour l’année d’imposition en question » [53] . Durant l’audition du présent appel, M. Polubiec a soutenu que la déclaration de Mme Jarvie, selon laquelle il lui avait été impossible de retrouver les feuillets de renseignements fiscaux pour ses comptes pour l’année 2014, signifiait que BMONB n’avait pas produit ces feuillets.
+[45] Le 7 octobre 2016, Mme Jarvie a envoyé un autre courriel à M. Polubiec, dans lequel elle répétait qu’il lui avait été impossible de retrouver les feuillets de renseignements pour les comptes personnels imposables de M. Polubiec relativement à l’année 2014. Elle a toutefois ajouté qu’elle s’était souvenue que M. Polubiec avait aussi un compte familial qui avait été fermé quelques années auparavant, et qu’elle avait cherché et trouvé des feuillets de renseignements pour ce compte qu’elle avait joints à son courriel. Le même jour, M. Polubiec a répondu à Mme Jarvie qu’un des feuillets de renseignements correspondait au revenu non déclaré et que le montant indiqué sur l’autre feuillet de renseignements était proche du premier mais que la correspondance n’était pas parfaite. Il lui a ensuite posé la question suivante : [TRADUCTION] « Se pourrait-il que la banque ait omis de m’envoyer ces feuillets de renseignements fiscaux pour l’année 2014? » [54] . Mme Jarvie lui a répondu ce qui suit : [TRADUCTION] « Tous les feuillets de renseignements fiscaux sont envoyés automatiquement à l’adresse indiquée au dossier, mais il est possible qu’il y ait eu un problème et que vous ne les ayez pas reçus » [55] . Bien que M. Polubiec prétende que BMONB ne lui a pas envoyé les feuillets de renseignements, j’interprète le dernier courriel de Mme Jarvie comme signifiant que BMONB avait mis en place un système pour que les feuillets de renseignements soient envoyés automatiquement à ses clients. Or, comme M. Polubiec n’a appelé ni Mme Jarvie, ni quelque autre représentant de BMONB, comme témoin, je réfute ses allégations voulant que BMONB ait omis de lui envoyer les feuillets de renseignements pour l’année 2014.
+[46] Je reconnais qu’il est possible que M. Polubiec n’ait pas reçu les feuillets de renseignements; cela n’est toutefois pas suffisant pour démontrer qu’il a pris des précautions raisonnables pour éviter d’omettre de déclarer la totalité de ses revenus pour l’année 2014. Même si plusieurs années s’étaient écoulées depuis les omissions de déclarer des revenus mentionnés précédemment pour les années 2007 à 2011, ces omissions demeuraient suffisamment récentes pour qu’une personne raisonnable prenne des mesures pour s’assurer qu’aucun feuillet de renseignements ne manque pour 2014, comme cela avait été le cas lors d’années précédentes. Les commentaires précités aux paragraphes 38 à 40 s’appliquent en l’espèce.
+c) Possibilité d’invoquer la défense fondée sur la diligence raisonnable
+[47] Les faits dans l’appel de M. Polubiec ressemblent quelque peu à ceux de l’affaire Grosdanof. Dans cette dernière affaire, M. Grosdanof avait retiré 8 737 $ de son REER en 1990, mais avait omis de le déclarer et avait précédemment omis de déclarer un revenu d’emploi de 564 $ en 1988, ce qui avait amené l’Agence à lui imposer une pénalité en application du paragraphe 163(1) de la LIR. En rejetant l’appel de M. Grosdanof, le juge Taylor a déclaré ce qui suit :
+2. […] Pour expliquer l'omission de déclarer le montant reçu du RÉER, l'appelant a affirmé qu'il savait qu'une retenue de 20 pour 100 au titre de l'impôt sur le revenu avait été faite sur ce montant et versé par sa banque, et qu'il n'avait pas reçu le feuillet T4 RSP avant de produire sa déclaration de revenus. Il supposait que, en raison de ces deux facteurs, il n'était pas nécessaire de déclarer ce montant. À son avis, l'impôt avait été payé et il n'y avait rien de plus à faire. Après avoir reçu la cotisation en cause ici, l'appelant avait procédé à une vérification auprès de sa banque, qui l'avait informé qu'un feuillet T4 RSP dûment établi lui avait été envoyé mais, selon lui, il ne l'avait pas reçu [...]
+5. À mon avis, l'explication simple fournie par le contribuable en l'espèce, à savoir qu'il avait supposé que le revenu n'avait pas à être déclaré parce qu'un montant estimatif avait été retenu au titre de l'impôt sur le revenu et qu'il n'avait pas reçu de feuillet T4 RSP, bien qu'il eût reçu le produit du RÉER, ne permet pas d'excuser l'omission de déclarer le revenu en question dans les délais et de la manière prévus.[...] [56] .
+[48] Pour les motifs précités, je conclus que M. Polubiec n’a pas prouvé selon la prépondérance des probabilités qu’il a fait une erreur de fait raisonnable ou qu’il a pris des précautions raisonnables en 2011 ou en 2014 pour éviter d’omettre de déclarer les revenus en cause pour l’une ou l’autre de ces années.
+V. DISPOSITIONS D’ALLÉGEMENT POUR LES CONTRIBUABLES
+[49] Dans son avis d’appel modifié, M. Polubiec a déclaré qu’il ne travaillait plus et que le paiement de la pénalité imposée en application du paragraphe 163(1) lui porterait préjudice [57] . Dans sa réponse, la Couronne a mentionné qu’une demande pour difficultés financières n’est pas du ressort de notre Cour, ajoutant que cette question de préjudice financier faisait déjà partie de la demande d’allégement que M. Polubiec avait présentée au ministre [58] .
+[50] Je souscris aux prétentions de la Couronne que les dispositions d’allégement pour les contribuables prévues par la LIR ne relèvent pas de la compétence de notre Cour. Cependant, étant donné :
+a) que M. Polubiec ne travaille plus et qu’il est à la retraite;
+b) qu’un montant de 209 966,11 $ a été retenu et versé au titre de l’impôt relativement au retrait du REER de M. Polubiec;
+c) que M. Polubiec a cru sincèrement (mais à tort) qu’il avait rempli ses obligations fiscales quant au montant à déclarer et à payer relativement au retrait de son REER;
+d) que la pénalité imposée en application du paragraphe 163(1) est substantielle;
+e) que M. Polubiec subira vraisemblablement un préjudice s’il a à payer une pénalité de cette importance (et une pénalité provinciale tout aussi importante);
+Je suis d’avis que la situation est tout indiquée pour que le ministre exerce le pouvoir discrétionnaire qui lui est conféré aux termes du paragraphe 220(3.1) de la LIR.
+[51] De plus, d’autres décisions rendues par les tribunaux relativement au paragraphe 163(1) de la LIR ont établi ce qui suit :
+a) les pénalités imposées en application du paragraphe 163(1) peuvent être sévères, notamment dans les cas où des retenues à la source ont été effectuées et versées à l’égard du revenu non déclaré [59] ;
+b) la pénalité imposée en application du paragraphe 163(1) peut être de nature disproportionnée [60] ;
+c) la pénalité imposée peut être trop sévère et imprévue [61] ;
+d) le résultat obtenu en application du paragraphe 163(1) peut ne pas sembler logique [62] ;
+e) la pénalité prévue au paragraphe 163(1) peut être imposée, même si l’omission de déclarer des revenus a été faite innocemment [63] ;
+f) la portée de la défense de diligence raisonnable est assez limitée, car elle ne s’applique pas aux erreurs de fait déraisonnables commises de bonne foi, aux erreurs de droit de bonne foi ni aux erreurs de droit raisonnables [64] .
+Par conséquent, j’invite et j’encourage le ministre (ainsi que l’administration fiscale de l’Ontario) à annuler, ou tout au moins à réduire, les pénalités imposées pour omission répétée de déclarer un revenu.
+VI. CONCLUSION
+[52] Pour les motifs précités, l’appel est rejeté.
+[53] La Couronne a droit à des dépens, si elle en fait la demande; le cas échéant, les parties disposent d’un délai de 30 jours à compter de la date du jugement relatif au présent appel pour parvenir à un accord sur les dépens; si aucun accord n’est conclu, l’intimée disposera d’un délai supplémentaire de 30 jours pour déposer ses observations écrites sur les dépens, puis M. Polubiec aura à son tour 30 jours pour déposer sa réponse par écrit. De telles observations ne peuvent pas dépasser cinq pages. Si la Couronne demande l’adjudication de dépens, mais que les parties n’informent pas la Cour qu’elles sont parvenues à un accord et que les observations ne sont pas présentées dans les délais susmentionnés, les dépens seront adjugés à la Couronne selon ce que prévoit le tarif [65] .
+Signé à Ottawa, Canada, ce 4e jour de juillet 2019.
+« Don R. Sommerfeldt »
+Le juge Sommerfeldt
+raduction certifiée conforme
+ce 19e jour de novembre 2020.
+Mario Lagacé, jurilinguiste
+RÉFÉRENCE :
+2019 CCI 146
+NO DU DOSSIER DE LA COUR :
+2016-3298(IT)G
+INTITULÉ :
+MAREK JACEK POLUBIEC c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+Le 15 novembre 2018
+MOTIFS DU JUGEMENT :
+L’honorable juge Don R. Sommerfeldt
+DATE DU JUGEMENT :
+Le 4 juillet 2019
+COMPARUTIONS :
+Avocat de l’appelant :
+Me Ted R. Laan
+Avocat de l’intimée :
+Me John Maskine
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Me Ted R. Laan
+Cabinet :
+Laan Litigation
+Pour l’intimée :
+Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa, Canada
+[1] Loi de l’impôt sur le revenu, L.R.C. (1985), ch. 1 (5e supplément), dans sa version modifiée.
+[2] Le mot « intelligent » est le qualificatif qui a été utilisé par l’avocat de M. Polubiec pour décrire la perspicacité intellectuelle de son client. Je ne trouve aucun motif pour réfuter cette description.
+[3] Les deux écoles des hautes études commerciales précitées sont des établissements d’enseignement réputés et hautement respectés.
+[4] La société Burns Fry Ltd. a été absorbée par BMO Nesbitt Burns Inc.
+[5] La pénalité aux termes du paragraphe 163(1) est parfois désignée « pénalité pour omission répétée de déclarer un revenu » (voir la décision Ruremesha c. La Reine, 2018 CCI 57, au paragraphe 3) ou « pénalité pour omission » (voir la décision Knight c. La Reine, 2012 CCI 118, paragraphes 2 et 3).
+[6] Dans l’imprimé de l’option « C » pour l’année 2007, le montant omis de 630 $ a été décrit comme un revenu de source étrangère.
+[7] Dans l’imprimé de l’option « C » pour l’année 2010, le montant omis de 83 $ a été décrit comme un gain en capital déclaré sur un feuillet T3.
+[8] Dans l’imprimé de l’option « C » pour l’année 2011, le montant omis de 122 $ a été décrit comme d’autres dividendes.
+[9] Pièce R-12.
+[10] Ibid.
+[11] Pièce R-13, qui indique un revenu de source étrangère (1 217,61 $), le montant réel des dividendes admissibles (6 225,49 $) ainsi que le montant imposable des dividendes admissibles (8 591,18 $) (1 217,61 $ + 8 591,18 $ = 9 808,79 $).
+[12] Pièce R-14, qui indique des gains en capital de 3,59 $, le montant réel des dividendes admissibles (47,72 $) et le montant imposable des dividendes admissibles (65,85 $) (3,59 $ + 65,85 $ = 69,44 $).
+[13] Réponse, paragraphe 2.
+[14] Avis d’appel, à l’alinéa 3g); Réponse, paragraphe 2 et pièce R-6, qui constitue l’imprimé de l’option « C » pour l’année 2014 indiquant le montant de base ayant servi au calcul de la pénalité imposée en application du paragraphe 163(1) (709 762 $).
+[15] Canada c. Sutcliffe, 2004 CAF 376, paragraphe 14; Gardner c. Canada (Procureur général), 2001 CAF 401, paragraphe 17; Raboud c. La Reine, 2009 CCI 99, paragraphe 12; Norlock c. La Reine, 2012 CCI 121, paragraphe 2 et Dunlop c. La Reine, 2009 CCI 177, paragraphe 32.
+[16] Mignault c. La Reine, 2011 CCI 500, paragraphes 23 et 24; Saunders c. La Reine, 2006 CCI 51, paragraphe 12 et la décision Dunlop, précitée à la note 15, paragraphe 4.
+[17] Décision Raboud, précitée à la note 15, paragraphe 4.
+[18] Voir aussi la décision Raboud, précitée à la note 15, paragraphe 22.
+[19] Ciobanu c. La Reine, 2011 CCI 319, paragraphe 8.
+[20] Si M. Polubiec avait lui-même envoyé des copies des feuillets de renseignements à l’Agence, il aurait peut-être pu invoquer le principe énoncé dans la décision Raboud, précitée à la note 15, paragraphes 17 à 19, 22, 26 à 29, 31 et 32.
+[21] Khalil c. La Reine, 2002 CanLII 1029, [2003] 1 CTC 2263, paragraphe 13.
+[22] Iszcenko c. La Reine, 2009 CCI 229, paragraphes 11 et 12.
+[23] Alcala c. La Reine, 2010 CCI 198, paragraphes 25 et 26.
+[24] Franck c. La Reine, 2011 CCI 179, paragraphes 6 à 10.
+[25] À la fin de l’audience, j’ai remarqué que le nom de famille de M. Polubiec avait été mal orthographié dans l’intitulé de l’avis d’appel modifié, ainsi que dans l’intitulé de l’avis d’appel original. Je suis enclin à traiter la faute d’orthographe comme une erreur d'écriture, mais, si l’une ou l’autre partie estime qu’une modification s’impose, je suis disposé à recevoir une requête à cette fin.
+[26] Transcription de l’audience, lignes 4 à 19 de la page 7.
+[27] En réponse aux questions posées durant l’interrogatoire principal, M. Polubiec a d’abord déclaré qu’il ne croyait pas que le montant retiré de son REER lui était versé à titre de revenu; cependant, lors d’un témoignage ultérieur, il a reconnu le premier élément énoncé à l’alinéa 3k) de l’avis d’appel modifié. De plus, ainsi qu’il a été indiqué précédemment, l’avocat de la Couronne a déclaré qu’il acceptait les déclarations de fait énoncées à l’alinéa 3k). Par conséquent, je suis d’avis que M. Polubiec a fait la preuve des faits allégués à l’alinéa 3k) de l’avis d’appel modifié.
+[28] Transcription de l’audience, ligne 2 de la page 87 à la ligne 23 de la page 90.
+[29] Ignatzi c. La Reine, 2003 CCI 60, paragraphe 15 et la décision Ciobanu, précitée à la note 19, paragraphe 12.
+[30] Peterson v. The Queen, 2010 TCC 559, p. 6; dossier 2009-682(IT)I; [2010] T.C.J. no 479 (QL), paragraphe 14.
+[31] Décision Ciobanu, précitée à la note 19, paragraphe 12.
+[32] Chendrean c. La Reine, 2012 CCI 205, paragraphe 10. Voir aussi la décision Knight, précitée à la note 5, paragraphe 32, où il est indiqué : « Aucune distinction n’est faite au paragraphe 163(1) entre les circonstances dans lesquelles le montant omis était assujetti à des retenues et les circonstances dans lesquelles il ne l’était pas ». Voir également Porter c. La Reine, 2010 CCI 251, paragraphe 2 et Chiasson c. La Reine, 2014 CCI 158, paragraphe 29.
+[33] Symonds c. La Reine, 2011 CCI 274, paragraphe 16.
+[34] Les Résidences Majeau Inc. c. Sa Majesté la Reine, 2010 CAF 28, paragraphes 8 à 10.
+[35] Transcription de l’audience, lignes 2 à 6 de la page 139.
+[36] Décision Mignault, précitée à la note 16, paragraphe 32.
+[37] Arrêt Les Résidences Majeau, précité à la note 34, paragraphe 9.
+[38] Transcription de l’audience, lignes 5 à 26 de la page 74.
+[39] Pièce R-15.
+[40] Transcription de l’audience, lignes 10 à 23 de la page 106.
+[41] Pièce R-15. Une partie seulement de la déclaration de revenus de M. Polubiec pour l’année 2010, produite par ImpôtExpert en LIGNE, a été déposée en preuve. Rien dans les éléments de preuve n’indique le montant exact de l’impôt retenu à la source.
+[42] Pièce R-16.
+[43] Transcription de l’audience, lignes 10 à 23 de la page 106.
+[44] Il s’agit de l’expression utilisée par l’avocat de M. Polubiec. Voir la transcription de l’audience, lignes 1 à 7 de la page 134.
+[45] À un certain moment dans son témoignage, M. Polubiec a décrit la représentante de BMONB avec laquelle il avait communiqué comme étant une employée de son courtier et une assistante-courtière; transcription de l’audience, lignes 7 à 12 de la page 71. Le bloc-signature de cette personne, dans la pièce A-1, la décrit comme une représentante en investissements.
+[46] Décision Symonds, précitée à la note 33, paragraphe 19; décision Franck, précitée à la note 24, paragraphe 2 (« [...] une défense de diligence raisonnable pour au moins une des années pourrait venir annuler la pénalité »); Chan c. La Reine, 2012 CCI 168, paragraphes 7, 18, 21 et 27 et Galachiuk c. La Reine, 2014 CCI 188, paragraphes 6 à 10.
+[47] Dhanoa c. La Reine, 2015 CCI 164, au paragraphe 5. Voir aussi la décision Chendrean, précitée à la note 32, paragraphe 13 et la décision Chiasson, précitée à la note 32, paragraphe 37.
+[48] Décision Dhanoa, précitée à la note 47, paragraphe 6.
+[49] Durant les plaidoiries, l’avocat de M. Polubiec a reconnu le commentaire précité, à savoir que M. Polubiec avait eu une approche réactive plutôt que proactive; transcription de l’audience, lignes 21 à 27 de la page 119.
+[50] Voir le paragraphe 35 ci-dessus.
+[51] Les deux chaînes de courriels ont été déposées ensemble en tant que pièce A-1.
+[52] Pièce A-1, courriel envoyé le 26 juillet 2016 à 13 h 06. Il semble que le revenu de dividende imposable de 8 657 $, auquel M. Polubiec faisait référence, incluait le montant imposable des dividendes admissibles (8 591,18 $), indiqué à la pièce R-13, et le montant imposable des dividendes admissibles de 65,85 $ indiqué à la pièce R-14. L’autre revenu de placements (1 217 $) mentionné par M. Polubiec semble correspondre au revenu de source étrangère de 1 217,61 $ indiqué à la pièce R-13.
+[53] Pièce A-1, courriel envoyé le 26 juillet 2016 à 14 h 56.
+[54] Pièce A-1, courriel envoyé le 7 octobre 2016 à 12 h 45.
+[55] Pièce A-1, courriel envoyé le 7 octobre 2016 à 12 h 56.
+[56] Grosdanof c. Canada, [1993] A.C.I. no 62 (QL), 2 CTC 2319, aux paragraphes 2 et 5.
+[57] Avis d’appel modifié, à l’alinéa 3j).
+[58] Réponse, au paragraphe A.1.e. Voir le paragraphe 220(3.1) de la LIR :
+[59] Décision Raboud, précitée à la note 15, paragraphe 4; décision Galachiuk, précitée à la note 46, paragraphe 10 et Morgan c. La Reine, 2013 CCI 232, paragraphe 27.
+[60] Décision Galachiuk, précitée à la note 46, paragraphe 10. Voir également la décision Knight, précitée à la note 5, paragraphes 2, 3, 25 et 30.
+[61] Décision Knight, précitée à la note 5, paragraphe 8.
+[62] Décision Chan, précitée à la note 46, paragraphe 15.
+[63] Décision Norlock, précitée à la note 15, paragraphe 15.
+[64] Corporation de l’école polytechnique c. Canada, 2004 CAF 127, aux paragraphes 29 et 32 à 38. Comme l’a expliqué la Cour d’appel fédérale, une erreur de droit commise de bonne foi et une erreur de droit raisonnable, ainsi qu’une erreur de droit provoquée par une personne en autorité et une erreur de droit invincible, sont différents types d’erreurs de droit.
+[65] Tarif B de l’annexe II des Règles de la Cour canadienne de l’impôt (procédure générale).

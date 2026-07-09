@@ -1,0 +1,137 @@
+Title: Morrissette v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26429/index.do
+Corpus path: corpus/cases/tcc/2006/2006-tcc-284-26429-morrissette-v-the-queen-en.md
+Document type: case_law
+Last modified: 2006-05-16
+
+# Morrissette v. The Queen
+
+- Citation: 2006 TCC 284
+- Decision date: 2006-05-16
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3180, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Morrissette v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-05-16
+Neutral citation
+2006 TCC 284
+File numbers
+2005-4285(IT)I
+Judges and Taxing Officers
+Louise Lamarre Proulx
+Subjects
+Income Tax Act
+Decision Content
+Citation: 2006TCC284
+Date: 20060516
+Docket: 2005-4285(IT)I
+BETWEEN:
+LOUIS MORRISSETTE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+(Delivered orally at the hearing of May 2, 2006, at Montréal, Quebec.)
+Lamarre Proulx J.
+[1] These appeals pertain to the 2002 and 2003 taxation years.
+[2] The facts are set out as follows in paragraph 18 of the Reply to the Notice of Appeal ("the Reply"):
+[TRANSLATION]
+(a) The Appellant worked as an investment advisor for Laurentian Bank Securities Inc. (hereinafter "LBS") from January 2000 to October 2002.
+(b) On June 13, 2000, the Appellant signed an employment agreement with LBS.
+(c) The Appellant was paid only by commission.
+(d) Among other things, LBS issued T4 information slips to the Appellant for the 2000, 2001 and 2002 taxation years in order to record the commissions earned. The amounts withheld as employee contributions to the Quebec Pension Plan and Employment Insurance were entered in the boxes.
+(e) The Appellant claimed amounts on account of "other employment expenses" for the 2000, 2001 and 2002 taxation years. Among those years, only the 2002 income tax return was available, and Form T2200, entitled "Declaration of Conditions of Employment", was attached to that return.
+(f) On October 15, 2002, LBS notified the Appellant that his employment was being terminated in accordance with the following terms and conditions:
+(i) the employment was to terminate on October 16, 2002;
+(ii) the severance pay would be $20,000, and an additional sum of $5,000 would be payable in six months;
+(iii) the Appellant agreed not disclose the terms of the agreement;
+(iv) the Appellant agreed not to solicit the clients whose funds he had managed at the company; and
+(v) the acceptance of the agreement was confirmed by the Appellant's signature, and the agreement was in full and final settlement of all claims or complaints of any nature whatsoever.
+(g) LBS issued a T4A to the Appellant for the 2002 taxation year. On that form, an amount of $20,000 was entered in the "other income" box.
+(h) LBS confirmed to the Minister that the amount of $5,000 in respect of the 2003 taxation year was income of the same type as the $20,000 paid in 2002.
+(i) The Minister determined that both the $20,000 and $5,000 payments were remuneration received in consideration for a covenant with reference to what the employee is, or is not, to do before or after the termination of the employment.
+[3] Subsection 6(3) of the Income Tax Act ("the Act") reads as follows:
+6(3) Payments to employer by employee – An amount received by one person from another
+(a) during a period while the payee was an officer of, or in the employment of, the payer, or
+(b) on account, in lieu of payment or in satisfaction of an obligation arising out of an agreement made by the payer with the payee immediately prior to, during or immediately after a period that the payee was an officer of, or in the employment of, the payer,
+shall be deemed, for the purposes of section 5, to be remuneration for the payee's services rendered as an officer or during the period of employment, unless it is established that, irrespective of when the agreement, if any, under which the amount was received was made or the form or legal effect thereof, it cannot reasonably be regarded as having been received
+(c) as consideration or partial consideration for accepting the office or entering into the contract of employment,
+(d) as remuneration or partial remuneration for services as an officer or under the contract of employment, or
+(e) in consideration or partial consideration for a covenant with reference to what the officer or employee is, or is not, to do before or after the termination of the employment.
+[4] The first issue is whether the Appellant, in his capacity as an investment advisor, was an employee of Laurentian Bank Securities Inc. (hereinafter "LBS") from January 2000 to October 2002.
+[5] The second issue is whether an amount of $20,000, received in 2002, was remuneration for services within the meaning of subsection 6(3) of the Act.
+[6] The third issue is whether the amount of $5,000, received in 2003, was in consideration for a covenant with reference to what the employee is, or is not, to do before or after the termination of the employment within the meaning of paragraph 6(3)(e) of the Act.
+First issue: Was the Appellant an employee (as the Respondent submits) or self‑employed (as the Appellant submits)?
+[7] All the documents tendered in evidence in the case at bar describe a contractual employment relationship. On June 13, 2000, a written employment agreement between the Appellant and LBS (Exhibit A‑1) was entered into. It is signed by both parties. On October 15, 2002, there was an agreement to terminate the employment (Exhibit A‑2). In his income tax return for 2002, the Appellant himself reported $19,826.91 in employment income.
+[8] To address briefly the terms and conditions of the Appellant's work, he worked in an office that LBS supplied. He was paid by commission. His performance was evaluated by an office manager.
+[9] The common intention of the parties is important: see the decisions of the Federal Court of Appeal in Wolf v. Canada, [2002] 4 F.C. 396 and The Royal Winnipeg Ballet v. M.N.R., 2006 FCA 87. In particular, this intention is reflected in the agreements and the terms and conditions of work.
+[10] In conclusion, this was, on a balance of probabilities, a contract of employment, not a contract of enterprise.
+Second issue: The nature of the $20,000
+[11] The Appellant considers this amount to be the price at which clientele was sold, and he reported it as a $9,704.12 capital gain on his 2002 income tax return. He claims that this amount was calculated based on the assets under his management at the time that he left.
+[12] It should be noted that none of the employer's documents identify this amount as a payment for the purchase of clientele.
+[13] The employer issued a T4A‑2002 and stated the amount as other income related to employment income.
+[14] Clause 2 of the employment termination agreement dated October 15, 2002 (Exhibit A‑2) provides as follows with respect to the $20,000:
+[TRANSLATION]
+2. We will pay you $20,000, less applicable deductions, as an allowance ("indemnité") . . .
+[15] Mr. Ruest, LBS's Vice-President, Finance, said that this was severance pay calculated based on the commission income for the year of termination. That income, as reported for the year 2002, was $19,826.91. Mr. Ruest testified that the allowance was paid in respect of the various amounts that an employer must pay an employee upon termination. In this regard, one must consult clause 7 of the agreement:
+[TRANSLATION]
+7. Your acceptance of this agreement, confirmed by your signature, is in total, full and final settlement of all claims or complaints that you have or might have against Laurentian Bank Securities and its mandataries, trustees or other representatives, regardless of the nature of such claims or complaints, including any claims for damages, salary, vacation pay, incentive pay, benefits, pay in lieu of notice, severance pay, or any other benefit related to your employment with Laurentian Bank Securities, and any legal recourse that you might have against them shall consequently be barred.
+[16] In conclusion, the $20,000 is, on a balance of probabilities, akin to severance pay. It was paid in accordance with a contract that was signed while the payee was employed by LBS, and can reasonably be regarded as remuneration for services rendered by the Appellant under the employment contract within the meaning of subsection 6(3) of the Act.
+Third issue: The $5,000 payment
+[17] What is the nature of this amount? Is it in consideration, or partial consideration, for a covenant with reference to what the employee is, or is not, to do before or after the termination of the employment within the meaning of subsection 6(3) of the Act, or is it a capital payment in exchange for the sale of clientele?
+[18] Clause 2 of the employment termination agreement provides as follows with respect to this amount:
+[TRANSLATION]
+2. We will pay you . . . plus an additional amount of $5,000 in six (6) months, provided LBS has retained at least 75% of your assets under management.
+[19] Exhibit A‑7, a letter from Yves Gauvreau dated November 11, 2002, with the subject heading [TRANSLATION] "Retention of clients", states:
+[TRANSLATION]
+Further to the agreement made upon your departure with respect to the above‑captioned subject, we have valued your assets under management at $8,103,829.37.
+Consequently, on April 16, 2003, six months after your departure, Laurentian Bank Securities will need to have retained 75% of the value of those assets, that is to say, $6,077,872.02. Otherwise, the amount of $5,000 contemplated in the agreement cannot be paid to you.
+[20] Exhibit A‑3 is a document issued by LBS. It gives the reason for the $5,000 payment as [TRANSLATION] "final payment – sale of clientele."
+[21] In analyzing the nature of the $5,000, I would refer to the decision of the Supreme Court of Canada in Gifford v. Canada, [2004] 1 S.C.R. 411, and a decision of the Quebec Court of Appeal in Valeurs Mobilières Banque Laurentienne Inc. v. Fernand Lefrançois, 2004 IIJCan 10447 (QCCQ).
+[22] In both cases, it was noted that although the clients belong to the financial institution, the representatives can sell a certain proprietary interest in the accumulated goodwill, as described by the Supreme Court of Canada in Gifford, supra. I quote from a part of paragraph 20 of the judgment:
+20 What Bentley had to sell was goodwill, developed over years of dealing with his clients . . .
+[23] Mr. Bentley was an employee of Midland Walwyn Capital Inc. Mr. Gifford, also an employee of that company, agreed to pay $100,000 for that interest in the goodwill.
+[24] The Court of Quebec held similarly in the decision to which the Appellant referred. There, Mr. Lefrançois agreed to purchase through LBS Mr. Auclair's list for the sum of $50,000. The agreement was negotiated between Messrs. Lefrançois and Auclair.
+[25] We have seen in the two decisions referred to above that although the clients belong to the financial institution, the investment advisor owns a certain right to the goodwill, and that right can be sold.
+[26] Is the situation the same in the case at bar?
+[27] In the written agreements between LBS and the Appellant, no amount is granted in respect of the non-solicitation and non-competition clauses. A breach of those clauses would give rise to a claim in damages by LBS. However, several items of written evidence describe the amount of $5,000 as a payment in respect of the Appellant's clientele. I am therefore of the opinion that the amount of $5,000 was paid by LBS in respect of a certain right of the Appellant in his clientele.
+[28] In conclusion, the appeal is dismissed for 2002 and is allowed for 2003.
+Signed at Ottawa, Canada, this 15th day of May 2006.
+"Louise Lamarre Proulx"
+Lamarre Proulx J.
+Translation certified true
+on this 31st day of October 2006
+Monica F. Chamberlain, Reviser
+CITATION: 2006TCC284
+COURT FILE NO.: 2005-4285(IT)I
+STYLE OF CAUSE: LOUIS MORRISSETTE v. THE QUEEN
+PLACE OF HEARING: Montréal, Quebec
+DATE OF HEARING: May 1, 2006
+REASONS FOR JUDGMENT BY: The Honourable Justice Louise Lamarre Proulx
+DATE OF JUDGMENT: May 5, 2006
+DECISION DELIVERED ORALLY:
+May 2, 2006
+REASONS FOR JUDGMENT:
+May 16, 2006
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Mounes Ayadi
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

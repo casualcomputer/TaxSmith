@@ -1,0 +1,212 @@
+---
+title: "White v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29943/index.do"
+last_modified: "2010-07-27"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 TCC 394"
+citation2: ""
+neutral_citation: "2010 TCC 394"
+decision_date: "2010-07-27"
+language: "en"
+item_id: "29943"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6489
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T02:08:25.794000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "0ff1da590f88b506ce74b4b9ba6d6d18e8ca48d21ab2005f57acc836a3f6c899"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# White v. The Queen
+
+- Citation: 2010 TCC 394
+- Decision date: 2010-07-27
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6489, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+White v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-07-27
+Neutral citation
+2010 TCC 394
+File numbers
+2009-2458(IT)I
+Judges and Taxing Officers
+Leslie M. Little
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2009-2458(IT)I
+BETWEEN:
+STEPHEN PAUL WHITE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on June 11 and 14, 2010, at Vancouver, British Columbia
+Before: The Honourable Justice L.M. Little
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Robert Quinn
+Max Matas
+____________________________________________________________________
+JUDGMENT
+The appeal from the determination made under the Income Tax Act with respect to the 2007 base taxation year is allowed, without costs, and the determination is referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached Reasons for Judgment.
+Signed at Vancouver, British Columbia, this 27th day of July 2010.
+“L.M. Little”
+Little J.
+Citation: 2010 TCC 394
+Date: July 27, 2010
+Docket: 2009-2458(IT)I
+BETWEEN:
+STEPHEN PAUL WHITE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Little J.
+A. FACTS
+[1] The Appellant and his former common-law spouse, Lacey Bishop (“Ms. Bishop”), are the parents of three children (hereinafter “the Children”). The Children are minors. The daughter was born in 1999. The twin boys were born in 2001.
+[2] The Appellant and Ms. Bishop have joint custody and guardianship of the Children.
+[3] By Notice dated January 20, 2009, the Minister of National Revenue (the “Minister”) notified the Appellant that he was entitled to Canada Child Tax Benefits (“CCTBs”) of $544.19 per month for the period from January to May 2009 inclusive and $544.28 for the month of June 2009 of the 2007 Base Taxation Year.
+[4] The Minister’s Reply states that by Notice dated March 20, 2009, the Minister notified the Appellant that his entitlement to CCTBs for the 2007 Base Taxation Year had been redetermined on the basis of a change to his number of eligible children (underlining added). The Reply also says that the Minister requested that the Appellant repay overpayments of CCTBs totalling $1,088.38 for the period from January 2009 to February 2009 (the “Period”) of the 2007 Base Taxation Year.
+[5] The Appellant filed a Notice of Objection on April 27, 2009 to the Minister’s redetermination.
+B. ISSUE
+[6] The issue is whether the Minister properly determined the Appellant’s claim for the CCTBs for the Period.
+C. ANALYSIS
+[7] During the hearing, the following Orders were filed:
+(a) a Consent Order issued by Judge Dossa of the Provincial Court of British Columbia dated the 5th day of November, 2003. In that decision, Judge Dossa ordered, in part, as follows:
+1. the parties shall have joint custody and guardianship of the person and of the estate of the Children;
+2. the Applicant, Lacey Bishop, shall have primary residence of the Children for the purpose of obtaining the child tax credit and benefits;
+3. the Respondent, Stephen White shall have access to the Children on his scheduled days off for three consecutive nights commencing with pick up at 11:00 a.m. on his first day off and returning the Children on the fourth day at 7:00 p.m., which is his last day off;
+4. the Respondent, Stephen White shall be entitled to such further and other access to the Children as is agreed upon between the parties with such consent not to be unreasonably withheld and that the Respondent, Stephen White shall provide the Applicant, Lacey Bishop with five days notice of his request;
+5. the parties shall equally share holidays with the Children;
+6. the Respondent, Stephen White shall pay to the Applicant, Lacey Bishop retroactive support for the Children in the sum of $600.00 per month from August 2, to October 2, 2003, inclusive for a total of $1,800.00 with such monies to be payable forthwith and no later than November 30, 2003;
+7. the Respondent, Stephen White shall pay to the Applicant, Lacey Bishop the sum of $990.00 per month for the support of the Children, payable on the 2nd day of each and every month, commencing November 2, 2003 and continuing for so long as the Children remain as children of the marriage as defined by the Family Relations Act;
+8. the Respondent, Stephen White shall pay 75% and the Applicant, Lacey Bishop shall pay 25% of the extraordinary expenses relating to the Children;
+9. the Respondent shall provide medical and dental insurance coverage for the Applicant, Lacey Bishop for so long as it is available through his employment;
+…
+(Exhibit R-1, Tab 1)
+(b) On Friday, the 28th day of July 2006, Judge Borowicz of the Provincial Court of British Columbia issued an Order and Reasons for Judgment:
+THIS COURT ORDERS that Stephen White shall pay to Lacey Bishop the sum of $500 per month commencing August 1, 2006 and payable on the 1st day of each and every month thereafter, until further Court Order or agreement of the parties, child support for the children:
+[…, …, …]
+(the “children”)
+THIS COURT FURTHER ORDERS that each of the parties shall provide to the other full disclosure of their financial circumstances on or before June 1, 2007 and thereafter annually so long as child support is payable.
+THIS COURT FURTHER ORDERS that Stephen White may not impose his religious preferences on Lacey Bishop and, unless Lacey Bishop agrees, the children are to attend public school and Lacey Bishop may register the children at the public school nearest her residence.
+THIS COURT FURTHER ORDERS that Stephen White is not to register the children at Catholic school without the written permission of Lacey Bishop.
+(Exhibit A-1, Tab 3)
+[8] At page 10 of her decision, Judge Borowicz said:
+Both parents are providing a primary residence for themselves and their children. Mr. White, however, has a more favorable financial base than Ms. Bishop. This distinction was also recognized in the Consent Order of 2003. At that time, while not expressly stating that the parents shared custody for the purposes of determining their support obligations, Ms. Bishop was given the primary designation for the purpose of obtaining the Child Tax Credit and Benefits. That was fitting then and remains so now.
+[9] At page 11, Judge Borowicz said:
+In this case, the parents have shared parenting from the outset, with Mr. White bearing a greater proportionate responsibility for expenses because, then as now, Ms. Bishop has a lesser income-earning ability. Overall, however, this is without doubt a functionally shared parenting situation. …
+[10] The burden of proof is on the Appellant who must establish on the balance of probabilities that he is the parent who primarily fulfilled the care and upbringing of the Children for the months of January and February 2009.
+[11] I have reviewed the evidence very carefully and I have the following comments:
+(a) The Appellant filed a number of documents under Exhibit A-1. Exhibit A-1 contains a copy of a letter to the Appellant from Christine Eyjolfson of the Canada Revenue Agency (the “CRA”), dated January 5, 2004. The letter reads as follows:
+We have carefully reviewed the information that you and another person have provided about the care and upbringing of [the children]. As a result, we have determined that they reside with each of you, and you are both equally involved in their care and upbringing. Consequently, we intend to alternate the Canada Child Tax Benefit (CCTB) eligibility between you, on a 6‑month rotation, commencing January 1, 2004.
+As a result, the Canada Child Tax Benefit (CCTB) eligibility will alternate according to the following schedule:
+- you will be eligible to receive the Canada Child Tax Benefit (CCTB) from January 2004 to June 2004,
+- the other person will be eligible to receive the benefit from July 2004 to December 2004.
+This schedule will continue until each child’s eighteenth birthday, or until there is a change in either your custody or care situation.
+Note: It is not necessary to submit a new application every 6 months, unless either your care or custody situation changes. We will automatically rotate the eligibility.
+(b) I wish to state that I am in agreement with the comments made by Christine Eyjolfson, in her letter to the Appellant dated January 5, 2004, when she said:
+… As a result, we have determined that they [i.e. the Children] reside with each of you, and you are both equally involved in their care and upbringing. Consequently, we intend to alternate the Canada Child Tax Benefit (CCTB) eligibility between you, on a 6‑month rotation, commencing January 1, 2004. (emphasis added)
+…
+(c) In her letter, Ms. Eyjolfson specifically stated that the Appellant was to be eligible to receive the CCTBs from January 2004 to June 2004.
+(d) According to the evidence, the Appellant never received any portion of the CCTBs, for the period indicated in Ms. Eyjolfson’s letter nor for any other period.
+(e) Exhibit A-1 also contained a copy of a letter addressed to the Appellant, dated December 9, 2008, from Mr. Hayer of the CRA. The letter reads as follows:
+We have carefully reviewed the information that you and another person provided about the care and upbringing of [the children].
+As a result, we have determined that they reside with each of you, and you are both equally involved in the children’s care and upbringing. Consequently, we intend to alternate eligibility for the CCTB and the child portion of the GST/HST credit between you, every six months, starting on January 2009. Please note that a 6-month rotation of eligibility cannot be established retroactively in share eligibility cases.
+When a child resides with two individuals on a more or less equal basis, and both individuals are responsible for the child’s care and upbringing, they can only share eligibility for the CCTB and the child component of the GST/HST credit equally on a six month rotating basis.
+As a result, eligibility for the CCTB and the child portion of the GST/HST credit will alternate according to the following schedule:
+- you will be eligible to receive the benefits from January 2009 to June, 2009,
+- the other person will be eligible to receive the benefits from July 2009 to December 2009
+This schedule will continue until each child’s 18th birthday for the CCTB and 19th birthday for the child portion of the GST/HST credit, or until there is a change in either your custody arrangements or care situation.
+Note: It is not necessary to submit a new application every six months, unless either your custody arrangements or care situation changes. We will automatically rotate eligibility for the benefits.
+…
+(emphasis added)
+(It should be noted that Mr. Hayer specifically stated in his letter that the Appellant was to receive the CCTBs from January 2009 to June 2009, i.e., the dates covering the Period in this appeal (Emphasis added). According to the evidence, the Appellant never received any portion of the CCTBs for the period indicated in the CRA letter nor for any other period.)
+(f) In my opinion, the position as outlined by Ms. Eyjolfson and Mr. Hayer in their letters to the Appellant, is a fair and reasonable approach to resolve disputes involving the allocation of the CCTBs in this situation.
+(g) The Appellant also filed a letter addressed to the Appellant, dated February 24, 2009, from Diana Townley at the CRA. The letter reads as follows:
+I have reviewed the recent decision made regarding your eligibility for Child Tax Benefits (CTB) for your children.
+My review indicates that you are not entitled to the benefits. Section 112.6 of the Income Tax Act states that the benefit is paid to the eligible individual. The “eligible individual” in respect of a qualified dependant at any time means a person who at that time
+a) resides with the qualified dependant,
+b) is the parent that primarily fulfills the responsibility for the care and upbringing of the qualified dependant.
+In the information previously submitted you indicated that the access to the children stated in the court order dated November 5, 2003 is being followed. Based on the access granted in the court order, you do not have the children 50% of the time and therefore, are not considered the primary care giver of the children.
+The rotation of the CTB is a policy developed by the Agency for situations when each individual is primarily responsible for the children for equal time periods. As this does not apply in your situation, I will be cancelling your eligibility for the benefit.
+A Notice of Redetermination will be issued in the near future.
+(emphasis added)
+[12] It appears from the comments made by Diana Townley, in her letter dated February 24, 2009, that she relied upon the Consent Order issued on November 5, 2003. This Consent Order signed by Judge Dossa contained the following statement:
+2. The Applicant, Lacey Bishop, shall have primary residence of the Children for the purpose of obtaining the child tax credit and benefits;
+(See Exhibit R-1, Tab 1)
+[13] It should be noted that the decision to determine which party is to receive CCTBs depends upon the facts for a particular period. The facts that exist today are very different from the facts which existed when the Consent Order was signed by Judge Dossa on November 5, 2003.
+[14] I also wish to note that in his Reply, the Minister made the following statement at paragraph 6:
+6. By Notice dated March 20, 2009, the Minister notified the Appellant that his entitlement to CCTBs for the 2007 base taxation year had been redetermined on the basis of a change to his number of eligible children …
+(emphasis added)
+[15] I have carefully reviewed the evidence and there is no evidentiary basis filed with the Court for the reference to a change to his number of eligible children referred to in Paragraph 6 of the Reply.
+[16] I have also reviewed the argument of counsel for the Respondent and there is no reference to the comment that there was a change to his number of eligible children referred to in Paragraph 6 of the Reply.
+[17] I have therefore concluded that the comments referred to in Paragraph 6 of the Reply are incorrect and cannot be relied upon as a basis for the Reassessment.
+[18] The Appellant also filed a CRA document entitled “Shared Eligibility” (2008-11-12) (See Exhibit A-1). In the document the following comment is found:
+1. What is shared eligibility?
+Shared eligibility exists where a child lives more or less equally with two separate individuals (whether 4 days with one, and 3 days with the other, on a one week on, one week off basis or some other similar rotation), and each individual is primarily responsible for the child’s care and upbringing when the child resides with them. The Canada Child Tax Benefit (CCTB) legislation only allows eligibility to one “eligible individual” in a month. To address this problem, the Canada Revenue Agency (CRA) developed a shared eligibility policy that would recongnize that there could be two eligible individuals for the same child. It was therefore decided to allow eligibility for the child (or children) to each individual on a 6‑month on, 6‑month off rotation, both for the CCTB and for the child component of the goods and services/harmonized sales tax (GST/HST) credit.
+[19] Based on the evidence before me, I believe that this is clearly a situation where there is Shared Eligibility as referred to in the CRA document. I must state for the record that I was impressed with the evidence provided by the Appellant on this point of shared eligibility and I was not impressed with the evidence provided by Ms. Bishop when she attempted to deny that shared eligibility existed.
+[20] Finally, I wish to note that there are a number of new facts in 2009 that were not present when the decisions of Judge Dossa and Judge Borowicz were made.
+[21] When Judge Dossa issued his decision in 2003, Ms. Bishop had the three Children for whom the Appellant was the father. After the 2003 court decision, she was the mother of a child born on January 2, 2005. The father of this child was Mr. Warrington, her future husband.
+[22] Since that time, Ms. Bishop gave birth to one other child where her husband, Mr. Warrington, was the father. Ms. Bishop stated in evidence that she was the caregiver of the three Children where the Appellant was the father, the two children where Mr. Warrington was the father, plus two children from Mr. Warrington’s first marriage (the latter two children on weekends).
+[23] In other words, Ms. Bishop maintains that she is now the caregiver for seven children, not simply the three Children who were born at the time of the 2003 Court Action. I believe this is an important new fact, and it should be considered when determining the primary caregiver or shared eligibility.
+[24] It should also be noted that the Appellant testified that his mother and his sister provide him with financial assistance and other assistance to ensure that he is able to provide the best possible environment for the Children when they are in his care.
+[25] I wish to state for the record that I was impressed with the Appellant’s testimony and the testimony of the Appellant’s mother and the Appellant’s sister. I believe that he is honest and forthright and that he loves the Children very much. I also believe that he is doing everything that he can to support the Children.
+[26] I was not impressed with the evidence of Ms. Bishop when she attempted to establish that she was the primary caregiver of the three Children.
+[27] I also wish to note that, it does not appear to be fair, reasonable and proper for the Appellant to do as much as he does in this situation for the three Children and never receive any portion of the CCTBs.
+[28] Based on a careful analysis of the evidence, I have concluded that the Appellant was the primary care giver of the Children for the months of January 2009 and February 2009 of the 2007 Base Taxation Year.
+[29] The Appeal is allowed, without costs.
+Signed at Vancouver, British Columbia, this 27th day of July 2010.
+“L.M. Little”
+Little J.
+CITATION: 2010 TCC 394
+COURT FILE NO.: 2009-2458(IT)I
+STYLE OF CAUSE: Stephen Paul White and
+Her Majesty The Queen
+PLACE OF HEARING: Vancouver, British Columbia
+DATES OF HEARING: June 11 and 14, 2010
+REASONS FOR JUDGMENT BY: The Honourable Justice L.M. Little
+DATE OF JUDGMENT: July 27, 2010
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Robert Quinn
+Max Matas
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada

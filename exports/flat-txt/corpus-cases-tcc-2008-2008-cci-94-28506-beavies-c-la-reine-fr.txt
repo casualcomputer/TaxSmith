@@ -1,0 +1,438 @@
+Title: Beavies c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28506/index.do
+Corpus path: corpus/cases/tcc/2008/2008-cci-94-28506-beavies-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2008-02-25
+
+# Beavies c. La Reine
+
+- Citation: 2008 CCI 94
+- Decision date: 2008-02-25
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1271, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Beavies c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-02-25
+Référence neutre
+2008 CCI 94
+Numéro de dossier
+2006-2938(IT)I
+Juges et Officiers taxateurs
+Wyman W. Webb
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2006-2938(IT)I
+ENTRE :
+CARL A. BEAVIES,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels entendus le 29 janvier 2008, à Halifax (Nouvelle-Écosse).
+Devant : L’honorable juge Wyman W. Webb
+Comparutions :
+Avocat de l’appelant :
+Me C. Lorway Gosse fils
+Avocate de l’intimée :
+Me Lindsay D. Holland
+____________________________________________________________________
+JUGEMENT
+L’appel est admis, sans frais, et l’affaire est renvoyée au ministre du Revenu national pour nouvel examen et nouvelle cotisation, compte tenu du fait que le revenu de l’appelant pour les années 1999, 2000, 2001 et 2002 est le suivant :
+1999 – 7 572 $
+2000 – 7 926 $
+2001 – 8 128 $
+2002 – 5 673 $
+Les pénalités établies en application du paragraphe 163(2) de la Loi de l’impôt sur le revenu pour les années 1999 et 2000 doivent être ramenées à 100 $ pour l’année 1999 et à 100 $ pour l’année 2000.
+Signé à Halifax (Nouvelle‑Écosse), ce 25e jour de février 2008.
+« Wyman W. Webb »
+Juge Webb
+Traduction certifiée conforme
+ce 10e jour d’avril 2008.
+Christian Laroche
+Référence : 2008CCI94
+Date : 20080225
+Dossier : 2006-2938(IT)I
+ENTRE :
+CARL A. BEAVIES,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Webb
+[1] L’obligation fiscale de l’appelant pour les années d’imposition 1999, 2000, 2001 et 2002 a fait l’objet d’une cotisation fondée sur une analyse de la valeur nette préparée par l’Agence du revenu du Canada. De plus, des pénalités pour faute lourde ont été imposées à l’égard de l’impôt établi pour les années 1999 et 2000. Dans ce cas‑ci, l’analyse de la valeur nette est inhabituelle parce que, à l’exception de l’ajout d’une somme globale de 10 000 $ en 2000, elle est uniquement basée sur des dépenses personnelles estimatives. Aucun élément d’actif n’est inscrit au titre des actifs de l’appelant au début de la période ici en cause et aucun élément d’actif de l’appelant (si ce n’est le montant de 10 000 $ en espèces qui a été inclus à titre d’élément d’actif à la fin de l’année 2000) n’est inscrit au titre des actifs de l’appelant à la fin de l’une ou l’autre des années visées par l’appel. L’appelant conteste tous les montants utilisés dans l’analyse de la valeur nette ainsi que dans les cotisations relatives aux pénalités.
+[2] À l’annexe A de la réponse figure une liste des dépenses personnelles estimatives de l’appelant pour les années 1999, 2000, 2001 et 2002, rangées dans diverses catégories. Pour la plupart des dépenses, le montant utilisé est le montant moyen fixé par Statistique Canada pour un célibataire. En préparant cette annexe des dépenses personnelles estimatives, l’Agence du revenu du Canada a de fait tenu compte de certaines circonstances propres à l’appelant. Ainsi, étant donné qu’il n’y avait pas de véhicules récréatifs connus, aucun montant n’a été inclus pour les véhicules récréatifs et, puisque l’appelant ne possédait pas de biens immeubles, aucun montant n’a été inclus au titre de l’impôt foncier.
+[3] Des copies de déclarations de revenus non signées de l’appelant ont été soumises en preuve. La déclaration de 1999 a été préparée par A Plus Tax Services. L’appelant ne se rappelait pas avoir produit ces déclarations, mais je suis convaincu, selon la prépondérance des probabilités, que ces déclarations ont été produites par l’appelant ou à la demande de celui‑ci. En 1999, l’appelant a déclaré un revenu de un dollar et en 2000, l’appelant n’a pas déclaré de revenu.
+[4] Au mois de novembre 2001, l’appelant a été détenu à l’aéroport, à Toronto, avec deux autres individus. L’appelant, et chacun des deux autres individus, avaient sur eux de grosses sommes d’argent. À l’audience, l’appelant a indiqué qu’il croyait que le montant s’élevait à environ 17 000 $. L’agente qui a détenu l’appelant à Toronto a témoigné à l’audience; elle a confirmé que le montant qui avait été saisi de l’appelant s’élevait à 19 640 $.
+[5] À l’audience, l’appelant a témoigné que tout l’argent qui avait été saisi de lui à l’aéroport lui avait été remis par M. Paul Yue, un autre individu, à Halifax. L’appelant a déclaré que les deux autres individus et lui‑même avaient chacun reçu environ le même montant d’argent et qu’on les envoyait à Toronto afin d’acheter des véhicules pour M. Yue. Après qu’il eut été détenu, l’appelant a dit à l’agente qui le détenait qu’il avait vendu deux véhicules, l’un pour un montant de 8 000 $ et l’autre pour un montant de 2 000 $, et que le reste de l’argent lui avait été remis par son oncle, M. Daryl Downey.
+[6] L’agente qui a détenu l’appelant a décrit la conversation qu’elle avait eue avec M. Paul Yue. Elle a dit qu’un individu qui s’était présenté comme étant Paul Yue avait communiqué avec elle au sujet des fonds qui avaient été saisis. M. Yue a dit à l’agente qu’il était concessionnaire d’automobiles à Halifax, en Nouvelle‑Écosse. Il a dit à l’agente qu’il avait donné environ 38 000 $ aux trois individus pour qu’ils achètent des véhicules. Il lui a également dit que, dans le cadre de son entreprise, il achetait des véhicules en gros au prix de 1 200 à 1 500 $ chacun, qu’il les réparait et qu’il les revendait environ 2 000 $ pour réaliser un bénéfice. Il ne semble pas logique qu’une personne qui s’occupe d’acheter des véhicules pour un montant de 1 200 à 1 500 $ par véhicule, remette à trois individus un montant de 38 000 $ (soit un montant de 12 667 $ chacun) afin d’acheter un véhicule à Toronto et de conduire ensuite ce véhicule en Nouvelle‑Écosse, de façon qu’elle puisse réparer le véhicule et le revendre ensuite pour 2 000 $. M. Yue n’a pas témoigné à la présente audience.
+[7] Le juge Langdon, de la Cour de justice de l’Ontario, a également parlé de l’argent qui avait été saisi à l’aéroport de Toronto dans la décision Her Majesty the Queen v. James West, Carl Beavies and Aldon Johnson, [2004] O.J. no 3243. Les faits se rattachant à la saisie de l’argent sont décrits comme suit dans cette décision :
+[traduction]
+2 Le 5 novembre 2001, les trois intimés sont arrivés à l’aéroport international Pearson, à Toronto, en provenance de Halifax, en Nouvelle‑Écosse. À leur descente de l’avion, un chien policier détecteur de drogue, Bandit, sous la garde du gendarme Nixon de la GRC, a manifesté de l’intérêt envers M. Johnson. M. Johnson était très nerveux. Pendant que les gendarmes Nixon et Kennedy discutaient de la situation, le chien a continué à manifester un intérêt évident envers M. Johnson.
+3 Les trois intimés, qui avaient chacun un sac de cabine, marchaient ensemble et se parlaient en se dirigeant vers l’aire de retrait des bagages. Les gendarmes Nixon et Kennedy, le chien Bandit et quatre autres agents de la GRC les suivaient. Le gendarme Kennedy a remarqué que M. Johnson s’était retourné et l’avait regardé à 14 reprises durant ce trajet et que M. Beavies avait fait la même chose six fois.
+4 Les policiers ont arrêté les trois hommes au moment où ils approchaient de la sortie. L’enquête de la police a révélé que M. Johnson avait sur lui 18 350 $, M. West, 23 455 $, et M. Beavies, 19 640 $, en espèces, et surtout en billets de vingt dollars. Le montant d’argent que les trois hommes avaient en leur possession s’élevait en tout à 61 445 $. C’est cet argent qui a fait l’objet de l’audience relative à la confiscation tenue devant le juge de paix Spadafora.
+5 Les trois intimés ont donné, au sujet de l’argent qu’ils avaient en leur possession, des explications très invraisemblables, incohérentes ou contradictoires. Une enquête ultérieure auprès de sources secondaires a révélé que les explications étaient fort probablement fausses.
+6 Chaque intimé avait un casier judiciaire comprenant notamment une déclaration de culpabilité pour trafic de drogue. Entre le moment où l’argent a été saisi et l’audience relative à la confiscation, les trois intimés ont été arrêtés dans le cadre d’une importante enquête sur la drogue, à Halifax. Dans le cadre de cette enquête, 513 grammes de crack ont été saisis chez Beavies; il était allégué que Johnson avait vendu une once de crack et West quatre onces.
+7 Les renseignements obtenus de l’ADRC au moyen d’un mandat ont révélé qu’entre 1996 et l’année 2002, West et Johnson n’avaient pas déclaré de revenu. Pendant la même période, Beavies avait déclaré un revenu s’élevant en tout à 8 709 $ en 1996 et en 1997, au titre de prestations d’aide sociale, une rémunération de 3 650 $ figurant sur un feuillet T‑4 en 1998 et aucun autre revenu depuis lors. Les trois intimés avaient toujours reçu des chèques de remboursement de la TPS pour les années en question.
+8 Le lendemain de la saisie de l’argent, un certain M. Yue, concessionnaire d’automobiles de Halifax, a appelé la GRC afin de signaler qu’il avait envoyé les trois hommes à Toronto pour qu’ils achètent pour lui des véhicules en vue de la revente. M. Yue a affirmé que l’argent qui était en leur possession était le sien. Aucun des intimés n’a donné, au sujet de la possession d’argent, d’explications qui soient compatibles avec celles de M. Yue. Une enquête menée au sujet de la déclaration de M. Yue a démontré que celle‑ci était également fausse.
+[8] La décision du juge Langdon a été portée en appel devant la Cour d’appel de l’Ontario, qui a décrit les faits comme suit :
+[traduction]
+[4] Les faits sous-tendant le présent appel sont contenus dans l’affidavit du gendarme Frank Mauti. L’admissibilité de la presque totalité de l’affidavit est contestée, mais pour les besoins du présent appel, il suffit de mentionner les faits suivants. Le 5 novembre 2001, MM. West, Beavis et Johnson sont arrivés à l’aéroport Lester B. Pearson, à Toronto, en provenance de Halifax; ils avaient chacun avec eux un sac de cabine. Pendant qu’ils se dirigeaient depuis la porte vers l’aire de retrait des bagages, ils ont dépassé des agents de la GRC et un chien policier. Apparemment, ils semblaient tous les trois nerveux. Le chien a reniflé la poche de M. Johnson. On a posé certaines questions à chacun des appelants et chacun des appelants a donné certaines réponses; les appelants ont censément finalement accepté que l’on fouille leurs sacs de cabine. Aucune substance illégale n’a été découverte. Toutefois, ils avaient chacun environ 20 000 $ en argent, surtout en billets de vingt dollars. Ils ont donné au sujet de l’argent des explications, que le juge d’appel de la demande, le juge Langdon, a qualifiées de « très invraisemblables, incohérentes ou contradictoires » (au paragraphe 5). Les agents n’ont pas accepté ces explications et ils ont saisi les 61 445 $ en argent sans mandat.
+[5] Les déclarations de revenus des appelants semblaient indiquer qu’ils n’auraient absolument pas pu accumuler de telles sommes.
+[6] MM. West, Beavies et Johnson n’ont jamais été accusés d’une infraction à l’égard des fonds.
+[7] Le 5 février 2003, la Couronne a demandé à la Cour de justice de l’Ontario d’accorder une ordonnance de confiscation en application du paragraphe 490(9) du Code criminel. Selon la position prise par la Couronne, les appelants étaient des passeurs qui apportaient, de Halifax à Toronto, de l’argent d’origine criminelle en vue de le recycler. Les détails de l’incident étaient donnés dans l’affidavit du gendarme Mauti, l’enquêteur en matière de produits de la criminalité qui avait été affecté au dossier.
+[9] Étant donné que l’appelant avait dit à l’agente qui le détenait qu’un montant de 10 000 $ sur les fonds qui avaient été saisis lui appartenait (par suite de la vente de deux véhicules), ce montant de 10 000 $ a été inclus dans l’analyse de la valeur nette et il a été considéré comme un élément d’actif de l’appelant. Toutefois, il importe de noter que la thèse de la Couronne, telle qu’il en est fait mention dans le résume des faits figurant dans la décision de la Cour d’appel de l’Ontario susmentionnée, était que les trois individus (l’un de ceux‑ci étant l’appelant) étaient des passeurs qui apportaient l’argent à Toronto.
+[10] Les fonds ont été saisis au mois de novembre 2001, mais le montant de 10 000 $ a été ajouté au revenu de l’appelant pour l’année 2000. Le vérificateur, à l’Agence du revenu du Canada, a donné la seule explication qui a été fournie en ce qui concerne l’ajout de ce montant au revenu de l’appelant pour l’année 2000; voici ce qu’il a dit :
+[traduction]
+En 2000, la valeur nette d’ouverture était nulle parce que la valeur nette de fermeture pour l’année 1999 était nulle. Toutefois, pour 2000, j’ai établi un montant de dix mille dollars, qui se rapporte aux fonds qui ont été saisis de M. Beavies lorsqu’il a été détenu à l’aéroport Pearson, à Toronto, au mois de novembre 2001.
+J’ai établi ce montant pour l’année 2000 parce que c’était la seule année pour laquelle il avait produit une déclaration à ce moment‑là, et qui entraînerait l’acquisition d’un élément d’actif en espèces de sa part. Par conséquent, j’ai inclus ce montant cette année‑là; le montant aurait ensuite été déduit en 2001 lorsque les fonds ont été saisis. Ce montant serait considéré comme imputable à une perte.
+[11] Dans la déclaration de revenus qui a été produite pour l’année 2000, l’appelant n’a pas déclaré de revenu, de sorte que l’on ne sait pas comment [traduction] « cette déclaration pourrait donner lieu à l’acquisition d’argent de la part de l’appelant ». De plus, l’Agence du revenu du Canada a supposé que l’appelant avait un revenu au cours de chacune des quatre années visées par l’appel et elle a supposé que l’appelant avait un revenu (avant de prendre en compte l’argent saisi) de 18 125,52 $ pour l’année 2001 et de 17 794,79 $ pour l’année 2000. Étant donné que les cotisations de valeur nette étaient fondées sur une estimation des montants dépensés par l’appelant à l’égard de divers articles, on avait émis l’hypothèse selon laquelle l’appelant avait dépensé tout l’argent qu’il avait gagné. Il ne semble donc pas y avoir de fondement logique permettant d’ajouter au revenu de l’appelant pour l’année 2000 le montant saisi au mois de novembre 2001. Étant donné que le montant de 10 000 $ a été ajouté au revenu de l’appelant de l’année 2000 uniquement parce qu’il était supposé que cet argent avait été gagné au cours de l’année 2000 sans que cette hypothèse ait un fondement logique, le montant en question n’aurait pas dû être ajouté au revenu de l’appelant pour l’année 2000. Étant donné que l’ajout du montant au revenu de l’appelant pour l’année 2001 (qui serait l’année au cours de laquelle l’argent a été saisi) entraînerait une augmentation de la cotisation pour l’année 2001, je ne puis ajouter ce montant au revenu de l’appelant pour l’année 2001.
+[12] Dans la décision Valdis, [2001] 1 C.T.C. 2827, le juge Hamlyn a dit ce qui suit au paragraphe 21 :
+21 Dans l’affaire Millette c. La Reine, Mme la juge Lamarre Proulx a réaffirmé que notre cour ne peut entendre un appel dans lequel il est proposé d’accroître l’obligation fiscale d’un appelant. Elle disait au paragraphe 72 :
+Il est accepté par la jurisprudence que cette Cour ne puisse pas augmenter le montant de la cotisation du Ministre parce que cela équivaudrait à un appel de la cotisation par le Ministre, ce que le Ministre ne peut pas faire. Le Ministre ne peut pas en appeler de sa propre cotisation; Harris v. M.N.R., 64 D.T.C. 5332, 5337; Shiewitz v. M.N.R., 79 D.T.C. 340, 342 et Abed v. The Queen, 82 D.T.C. 6099, 6103.
+[C’est le juge Hamlyn qui souligne.]
+[Renvoi omis.]
+[13] Étant donné que je ne puis ajouter les 10 000 $ au revenu de l’appelant pour l’année 2001, il n’est pas nécessaire de se demander si l’appelant aurait eu droit à une déduction en 2001 parce que cet argent avait été saisi. Dans la décision Francis c. Sa Majesté la Reine, 2007 CCI 323, 2007 D.T.C. 903, le juge en chef Bowman a fait les remarques suivantes au sujet de certains fonds qui avaient été confisqués :
+17 En l’espèce, au moins une complication vient s’ajouter au problème. Les fonds ont été confisqués par suite d’une ordonnance judiciaire, en 2006. Si l’argent n’appartenait pas à l’appelant et ne provenait pas d’une activité commerciale (légale ou illégale) exercée par l’appelant, la confiscation n’a réellement rien à voir avec l’appelant et n’est pas pertinente aux fins qui nous occupent. Si les 24 000 $ provenaient d’une entreprise exploitée par l’appelant, la confiscation n’est pas non plus pertinente parce qu’elle ne réduit pas le revenu de l’appelant. Dans la décision Neeb v. The Queen, 97 DTC 895, les remarques suivantes ont été faites :
+29 Dans ce cas‑ci, il ne s’agit pas d’une pénalité, mais de la confiscation d’une partie du stock de l’appelant. Il est certain que le coût du stock constitue une dépense faite ou engagée en vue de tirer un revenu et qu’il serait normalement déductible dans le calcul du revenu de la même façon que le coût du stock est déductible, en tant que partie intégrante du coût des marchandises vendues. Comme il en a ci‑dessus été fait mention, la perte des marchandises faisant partie du stock aurait pour effet de réduire le stock de clôture et d’augmenter le coût des marchandises vendues. Je fais donc carrément face à la question de l’intérêt public. Il est possible de répondre de différentes façons à la question de savoir si la confiscation de la drogue par les autorités constitue un « incident inévitable dans le cadre de l’exploitation de l’entreprise » dans le contexte d’une affaire comme celle‑ci, selon le point de vue adopté. La confiscation est une conséquence inévitable du fait d’être pris.
+30 La question du caractère inévitable n’est pas pertinente en l’espèce. M. Neeb a été pris et la marijuana et le haschisch ont été saisis. Je ne puis voir pourquoi le public canadien devrait subventionner la perte subie par un trafiquant de drogue qui a fait l’objet d’une confiscation, en lui permettant de déduire le coût de la drogue ainsi confisquée, même si ce coût avait été établi. Si l’intérêt public a un rôle à jouer dans les affaires de nature fiscale, il faut rejeter pareille demande.
+2. La saisie de l’argent. Indépendamment des considérations d’ordre public, il existe toutefois un autre motif permettant de rejeter la déduction. Il s’agit simplement d’une disposition de revenu, quoique involontaire, après qu’il a été gagné. Le principe est bien établi : Mersey Docks and Harbour Board v. Lucas, (1883) 8 App. Cas. 891, suivi dans Fourth Conservancy Board v. IRC, [1931] A.C. 540 et dans Woodward’s Pension Society v. M.N.R., 59 DTC 1253, à la p. 1261, conf. dans 62 DTC 1002, à la p. 1004.
+Voir également Svidal v. The Queen, [1995] 1 C.T.C. 2692.
+18 Réflexion faite, je suis porté à me demander, compte tenu de la décision rendue par la Cour suprême du Canada dans l’affaire 65302 B.C. Ltd. v. The Queen, 99 DTC 5199, si, lorsque j’ai rendu la décision Neeb, j’ai eu raison de me fonder sur des considérations d’ordre public comme j’estimais de toute évidence qu’il convenait de le faire.
+[14] Étant donné que le montant de 10 000 $, représentant l’argent saisi à Toronto, n’est pas ajouté au revenu de l’appelant pour l’année 2000 ou pour l’année 2001, il n’est pas non plus nécessaire de se demander si cet argent appartenait à l’appelant.
+[15] En plus d’avoir été avisée du gros montant d’argent saisi de l’appelant, l’Agence du revenu du Canada a également noté les déclarations de culpabilité dont l’appelant avait fait l’objet pour trafic de cocaïne. L’appelant a fait l’objet de trois déclarations de culpabilité pour trafic de cocaïne. Les dates auxquelles les infractions ont été commises vont du 4 juin au 25 juillet 2002. Par suite de ces déclarations de culpabilité, l’appelant a été incarcéré le 6 septembre 2002 et il a passé le reste de l’année 2002 en prison. Lorsque la cotisation de valeur nette a initialement été établie, aucune réduction n’a été effectuée à l’égard des dépenses présumées pour la période pendant laquelle l’appelant avait été incarcéré. L’agent des appels a effectué un rajustement pour la période d’incarcération.
+[16] L’Agence du revenu du Canada a également noté que le nom commercial « Carl Beavies Associates [sic] Jewellry Sales » avait été inscrit le 5 juin 2002 au Registre des sociétés de capitaux de la Nouvelle‑Écosse. La personne désignée à titre de propriétaire unique de cette entreprise était Carl Beavies et l’adresse était le 2414, rue Creighton, à Halifax. Il s’agissait de l’adresse que l’appelant avait donnée à l’agente qui le détenait à Toronto comme étant son adresse et de l’adresse que l’appelant avait mentionnée dans ses déclarations de revenus des années 1999 et 2000. L’appelant a nié avoir fait inscrire ce nom commercial. Quoi qu’il en soit, le nom a été inscrit quelque temps seulement avant que l’appelant soit arrêté pour trafic de cocaïne et qu’il soit ensuite incarcéré, de sorte que si l’appelant exploitait une bijouterie, il ne l’a pas fait longtemps.
+[17] Après avoir été mis en liberté, l’appelant a trouvé un emploi et il travaille maintenant comme manœuvre pour une entreprise de construction.
+[18] L’appelant a témoigné que tout au long des années visées par l’appel, il n’avait pas d’argent; il ne gagnait pas de revenu et il n’effectuait pas de dépenses. Il a mentionné qu’en 1999, il avait vécu avec Mme Tami Reid et, par la suite, avec Mme Michelle Jollimore. L’appelant a mentionné que, lorsqu’il vivait avec Mme Reid, c’était elle qui s’occupait de toutes les dépenses du ménage et qu’elle lui donnait également de l’argent et que, lorsqu’il vivait avec Mme Jollimore, c’était elle qui s’occupait de toutes les dépenses du ménage et qu’elle lui donnait également de l’argent. Mme Jollimore a également témoigné. Mme Reid n’a pas témoigné. Dans les déclarations de revenus de l’appelant pour les années 1999 et 2000, il est mentionné que l’appelant était célibataire. L’appelant n’a pas mentionné qu’il avait une conjointe de fait. L’appelant et Mme Jollimore ont un fils, qui est né au mois de décembre 2002.
+[19] Mme Michelle Jollimore a témoigné que, pendant que l’appelant vivait avec elle, c’était elle qui payait le loyer et les dépenses connexes du ménage. Mme Jollimore a témoigné qu’en 1999, lorsqu’elle travaillait pour La Maritime, elle gagnait environ 800 $ toutes les deux semaines, soit environ 20 800 $ l’an. En 2000, elle avait commencé à faire de la coiffure et elle a déclaré qu’elle gagnait environ 2 000 $ par mois, soit un montant annuel d’environ 24 000 $.
+[20] Le vérificateur, à l’Agence du revenu du Canada, a témoigné que, selon les documents de l’Agence du revenu du Canada, le revenu déclaré de Mme Michelle Jollimore pour ces années s’élevait aux montants suivants :
+1999 – 9 383 $
+2000 – 11 517 $
+2001 – 6 310 $
+2002 – 16 232 $
+[21] Les montants déclarés au titre du revenu ne correspondent pas aux montants mentionnés par Mme Jollimore; toutefois, ce n’est pas le revenu de celle‑ci qui fait l’objet du présent appel. Son revenu est uniquement pertinent lorsqu’il s’agit d’établir si elle gagnait suffisamment d’argent pour subvenir à ses besoins ainsi qu’à ceux de l’appelant. Les niveaux du revenu déclaré pour les années 2000 et 2001 donnent à penser que l’appelant doit avoir fait une certaine contribution financière puisque le ménage était composé de deux personnes. En 1999, l’appelant vivait avec Mme Tami Reid, et non avec Mme Michelle Jollimore. Par conséquent, le revenu que Mme Jollimore a gagné en 1999 n’est pas pertinent. Le revenu de Mme Reid pour l’année 1999, pendant que l’appelant vivait avec elle, serait pertinent, mais il n’existe aucun élément de preuve à ce sujet.
+[22] Lorsque le vérificateur de l’Agence du revenu du Canada a communiqué avec l’appelant au sujet du revenu que celui‑ci avait gagné ces années‑là, l’appelant a décidé de ne pas coopérer, de sorte que l’Agence du revenu du Canada s’est vue obligée d’établir la cotisation de l’appelant en se fondant sur une analyse de la valeur nette. L’appelant a fourni peu ou point de renseignements au sujet des montants utilisés dans l’analyse de la valeur nette. Cette analyse (et par conséquent les cotisations en résultant) est donc fondée sur diverses hypothèses émises par le ministre au sujet des dépenses personnelles effectuées par l’appelant au cours des années 1999, 2000, 2001 et 2002.
+[23] Dans l’arrêt Hickman Motors Ltd. c. Canada, [1997] A.C.S. no 62, la juge L’Heureux-Dubé, de la Cour suprême du Canada, a fait les remarques suivantes en ce qui concerne l’obligation qui incombe à l’appelant de « démolir » les hypothèses du ministre :
+92 Il est bien établi en droit que, dans le domaine de la fiscalité, la norme de preuve est la prépondérance des probabilités : Dobieco Ltd. c. Minister of National Revenue, [1966] R.C.S. 95, et que, à l’intérieur de cette norme, différents degrés de preuve peuvent être exigés, selon le sujet en cause, pour que soit acquittée la charge de la preuve : Continental Insurance Co. c. Dalton Cartage Co., [1982] 1 R.C.S. 164; Pallan c. M.R.N., 90 D.T.C. 1102 (C.C.I.), à la p. 1106. En établissant des cotisations, le ministre se fonde sur des présomptions : (Bayridge Estates Ltd. c. M.N.R., 59 D.T.C. 1098 (C. de l’É.), à la p. 1101), et la charge initiale de « démolir » les présomptions formulées par le ministre dans sa cotisation est imposée au contribuable (Johnston c. Minister of National Revenue, [1948] R.C.S. 486; Kennedy c. M.R.N., 73 D.T.C. 5359 (C.A.F.), à la p. 5361). Le fardeau initial consiste seulement à « démolir » les présomptions exactes qu’a utilisées le ministre, mais rien de plus : First Fund Genesis Corp. c. La Reine, 90 D.T.C. 6337 (C.F. 1re inst.), à la p. 6340.
+93 L’appelant s’acquitte de cette charge initiale de « démolir » l’exactitude des présomptions du ministre lorsqu’il présente au moins une preuve prima facie : Kamin c. M.R.N., 93 D.T.C. 62 (C.C.I.); Goodwin c. M.R.N., 82 D.T.C. 1679 (C.R.I.). En l’espèce, l’appelante a produit une preuve qui respecte non seulement la norme prima facie, mais, selon moi, une norme encore plus sévère. À mon avis, l’appelante a « démoli » les présomptions suivantes : a) la présomption de l’existence de « deux entreprises », en produisant une preuve claire de l’existence d’une seule entreprise; b) la présomption qu’il n’y a « aucun revenu », en produisant une preuve claire de l’existence d’un revenu. Il est établi en droit qu’une preuve non contestée ni contredite « démolit » les présomptions du ministre : voir par exemple MacIsaac c. M.R.N., 74 D.T.C. 6380 (C.A.F.), à la p. 6381; Zink c. M.R.N., 87 D.T.C. 652 (C.C.I.). Comme je l’ai déjà dit, aucune partie de la preuve produite par l’appelante en l’espèce n’a été contestée ni contredite. Par conséquent, à mon avis, l’appelante a « démoli » les présomptions sur l’existence de « deux entreprise » et sur le fait qu’il n’y a « aucun revenu ».
+94 Lorsque l’appelant a « démoli » les présomptions du ministre, le « fardeau de la preuve [. . .] passe [. . .] au ministre qui doit réfuter la preuve prima facie » faite par l’appelant et prouver les présomptions : Magilb Development Corp. c. La Reine, 87 D.T.C. 5012 (C.F. 1re inst.), à la p. 5018. Ainsi, dans la présente affaire, la charge est passée au ministre, qui doit prouver ses présomptions suivant lesquelles il existe « deux entreprises » et il n’y a « aucun revenu ».
+[Soulignements omis.]
+95 Lorsque le fardeau est passé au ministre et que celui-ci ne produit absolument aucune preuve, le contribuable est fondé à obtenir gain de cause : voir par exemple MacIsaac, précité, où la Cour d’appel fédérale a infirmé le jugement de la Division de première instance (à la p. 6381) pour le motif que le « témoignage n’a été ni contesté ni contredit, et aucune objection ne lui a été opposée ». Voir aussi Waxstein c. M.R.N., 80 D.T.C. 1348 (C.R.I.); Roselawn Investments Ltd. c. M.R.N., 80 D.T.C. 1271 (C.R.I.). Se reporter également à Zink, précité, à la p. 653, où, même si la preuve « échappait à la logique et présentait de graves lacunes de fond et de chronologie », l’appel du contribuable a été accueilli parce que le ministre n’a présenté aucune preuve quant à la source de revenu. Dans la présente affaire, je remarque que la preuve ne contient aucune « lacune » de ce genre. Par conséquent, puisque le ministre n’a produit absolument aucune preuve et que personne n’a soulevé le moindre doute quant à la crédibilité, l’appelante est fondée à obtenir gain de cause.
+96 Dans la présente affaire, sans qu’aucune preuve ne leur ait été présentée, le juge de première instance et la Cour d’appel ont tous deux voulu transformer les présomptions non fondées et non vérifiées en « conclusions de fait », commettant ainsi des erreurs de droit sur la charge de la preuve. Mon collègue le juge Iacobucci exerce de la retenue à l’égard de ces soi-disant « conclusions concordantes » des cours d’instance inférieure, mais, bien que je sois tout à fait d’accord de façon générale avec le principe de retenue judiciaire, dans la présente affaire, deux décisions incorrectes ne sauraient en faire une bonne. Même si nous sommes en présence de « conclusions concordantes », la preuve non contestée et non contredite réfute positivement les présomptions du ministre : MacIsaac, précité. Comme le juge Rip de la Cour canadienne de l’impôt l’a noté dans Gelber c. M.R.N., 91 D.T.C. 1030, à la p. 1033, « [le ministre] n’est pas l’arbitre de ce qui est fondé ou non en matière de droit fiscal ». Le juge Brulé de la Cour canadienne de l’impôt dans Kamin, précité, a observé à la p. 64 :
+[...] le ministre devrait pouvoir réfuter cette preuve [prima facie] et présenter des arguments à l’appui de ses présomptions.
+[...]
+Le ministre n’a pas carte blanche pour établir les présomptions qui lui conviennent. À l’interrogatoire principal, on s’attend qu’il puisse produire des preuves plus concrètes que de simples présomptions pour réfuter les arguments de l’appelant.
+[C’est la juge L’Heureux-Dubé qui souligne.]
+[24] La méthode de détermination du revenu d’un contribuable fondée sur la valeur nette a été décrite comme suit par le juge Bowman (maintenant juge en chef) dans la décision Bigayan c. Canada [2000] 1 C.T.C. 2229, 2000 DTC 1619 :
+2 La méthode de la valeur nette est, comme on le faisait observer dans l’affaire Ramey v. The Queen, 93 DTC 791, une solution de dernier recours que l’on emploie lorsque tout le reste a échoué. On l’utilise souvent lorsqu’un contribuable a omis de produire des déclarations de revenus ou n’a pas conservé de documents. C’est un instrument imprécis, exact à l’intérieur d’un registre dont le champ est indéterminé. Elle repose sur le postulat selon lequel, si l’on soustrait la valeur nette d’un contribuable en début d’année à sa valeur nette en fin d’année, si l’on ajoute les dépenses du contribuable durant l’année et si l’on soustrait les encaissements non imposables et les plus‑values d’actifs existants, alors le résultat net, après déduction de toute somme déclarée par le contribuable, doit être attribuable au revenu non déclaré gagné durant l’année, sauf si le contribuable peut apporter une preuve contraire. C’est au mieux une méthode insatisfaisante, qui est arbitraire et inexacte, mais quelquefois c’est le seul moyen d’arriver à un chiffre qui se rapproche du revenu d’un contribuable.
+3 Le meilleur moyen de contester une cotisation fondée sur la valeur nette est de produire la preuve de ce qu’est véritablement le revenu du contribuable. Un moyen moins satisfaisant, mais néanmoins acceptable, est décrit par le juge Cameron dans l’affaire Chernenkoff v. Minister of National Revenue, 49 DTC 680, à la page 683 :
+[traduction]
+En l’absence de documents, l’autre moyen offert à l’appelant consistait à prouver que, même après une application en règle de la formule de la valeur nette, les cotisations étaient erronées.
+4 Ce moyen de contester une cotisation fondée sur la valeur nette est reconnu, mais, même après que l’on a procédé aux rajustements, on reste avec le sentiment trouble que la vérité n’a pas été pleinement découverte. Il est peu probable que l’on rende parfait en le modifiant un instrument qui, par nature, est imparfait. […]
+[25] L’avocate de l’intimée a déclaré que la cotisation de valeur nette était établie par suite du pouvoir conféré au ministre au paragraphe 152(7) de la Loi de l’impôt sur le revenu, qui prévoit ce qui suit :
+(7) Le ministre n’est pas lié par les déclarations ou renseignements fournis par un contribuable ou de sa part et, lors de l’établissement d’une cotisation, il peut, indépendamment de la déclaration ou des renseignements ainsi fournis ou de l’absence de déclaration, fixer l’impôt à payer en vertu de la présente partie.
+[26] Dans l’arrêt Hsu c. Sa Majesté la Reine, 2001 CAF 240, le contribuable avait fait l’objet d’une cotisation conformément au paragraphe 152(7) de la Loi de l’impôt sur le revenu; la Cour d’appel fédérale a dit ce qui suit :
+15 Étant donné que l’appelant n’avait pas présenté de preuve contredisant les hypothèses du ministre, le juge de la Cour de l’impôt a conclu qu’il avait touché un revenu non déclaré et il a maintenu les nouvelles cotisations.
+[...]
+22 [...] Le paragraphe 152(8) énonce une présomption de bien-fondé de ces cotisations et impose initialement au contribuable la charge de réfuter les faits présumés par le ministre (Dezura v. M.N.R. (1947), 3 D.T.C. 1101, à la page 1102 (C. de l’É.)). Même si pareille cotisation est « arbitraire », le ministre est tenu de divulguer le fondement précis sur lequel cette cotisation repose (Johnston v. M.N.R. (1948), 3 D.T.C. 1182, à la page 1183 (C.S.C.)). Autrement, le contribuable ne serait pas en mesure de s’acquitter de l’obligation initiale qui lui incombe de démolir les « présomptions exactes qu’a utilisées le ministre, mais rien de plus » (Hickman Motors Ltd. c. La Reine (1997), 97 D.T.C. 5363, à la page 5376 (C.S.C.)).
+[...]
+33 […] Dans la décision Dezura, précitée, aux pages 1103 et 1104, le président de la Cour de l’Échiquier du Canada a donné les explications suivantes :
+[traduction]
+La cotisation vise à permettre de déterminer le montant du revenu imposable du contribuable et à fixer le montant de sa dette conformément aux dispositions de la Loi. Si le contribuable ne produit pas de déclaration ou donne des renseignements inexacts dans sa déclaration ou de quelque autre façon, il ne peut à bon droit se plaindre de la façon dont le ministre a déterminé le montant de l’impôt qu’il devrait payer, à condition qu’il ait un droit d’appel à cet égard et qu’il ait la possibilité de démontrer que le montant que le ministre a déterminé est en fait inexact. Le contribuable qui a produit une déclaration exacte n’a pas non plus à craindre le pouvoir du ministre s’il a un droit d’appel. Les intérêts du Revenu sont donc protégés et les droits des contribuables sont pleinement maintenus. Habituellement, le contribuable connaît mieux que toute autre personne le montant de son revenu imposable et devrait être en mesure de l’établir à la satisfaction de la Cour. S’il le fait et si ce montant est inférieur à celui qui est déterminé par le ministre, pareil montant doit être réduit conformément à la conclusion tirée par la Cour. Si, d’autre part, il omet de démontrer que le montant déterminé par le ministre est erroné, il ne peut pas à juste titre se plaindre si le montant est maintenu. Si son omission de convaincre la Cour est attribuable à sa propre faute ou à une négligence telle que l’omission de conserver des comptes ou des documents appropriés lui permettant d’étayer ses propres déclarations, il ne peut imputer la chose qu’à sa propre faute.
+[27] Je n’accepte pas la prétention selon laquelle l’appelant n’avait pas de revenu ni d’argent au cours de l’une quelconque des années visées par l’appel. Une grande quantité d’argent a été saisie à l’aéroport de Toronto, sans qu’aucune explication ne soit donnée au sujet de sa provenance, et les déclarations de culpabilité pour trafic de cocaïne indiquent que l’appelant vendait des drogues et qu’il avait donc une source de revenu. De plus, les niveaux de revenu déclarés par Mme Michelle Jollimore pour les années 2000 et 2001 étaient inférieurs à 12 000 $ l’an et donnent à penser qu’étant donné que le ménage était composé de deux personnes, l’appelant effectuait une contribution financière. Toutefois, il est impossible d’établir le montant exact du revenu de l’appelant pour chacune de ces années. Toutefois, c’est la dette fiscale de l’appelant fondée sur la partie I (cette dette étant fonction du revenu de l’appelant) qui doit être établie. Étant donné que l’appelant ne possède aucun document au sujet de son revenu, il faut essayer d’estimer son revenu de la façon la plus exacte possible, eu égard aux circonstances, selon une analyse de la valeur nette qui tient compte de la situation personnelle de l’appelant et de son mode de vie.
+[28] En préparant la cotisation de valeur nette, l’Agence du revenu du Canada a reconnu que ce ne sont pas tous les montants pour lesquels Statistique Canada a établi des moyennes qui s’appliquent à l’appelant. Il me semble donc qu’il faudrait effectuer un rajustement pour les articles qui sont basés sur les montants moyens fixés par Statistique Canada et à l’égard desquels l’appelant a fourni au moins une preuve prima facie montrant que ces articles ne s’appliquaient pas à lui, étant donné que les montants utilisés par l’intimée sont basés sur des hypothèses fondées sur les moyennes de Statistique Canada en ce qui concerne les montants qu’un célibataire dépense pour divers articles.
+[29] Plusieurs éléments qui ont été inclus dans la cotisation de valeur nette ne s’appliquent pas à l’appelant. En particulier, les montants utilisés pour les loyers pour les années en question vont de 4 800 à 5 100 $. Ces montants sont uniquement fondés sur une hypothèse concernant le loyer payé par une personne célibataire. Or, Mme Michelle Jollimore a témoigné qu’elle vivait avec l’appelant dans un logement faisant partie d’une coopérative d’habitation. Le loyer qu’elle payait était fonction de son revenu. Son loyer était de 196 $ par mois, ce qui ne représenterait que 2 352 $ par année. Mme Jollimore et l’appelant ont déclaré que c’était elle, et non l’appelant, qui payait le loyer. Mme Jollimore et l’appelant ont également témoigné que c’était elle qui payait toutes les dépenses associées au logement, y compris le loyer, l’entretien et les réparations, l’assurance, l’eau, le combustible et l’électricité.
+[30] Mme Michelle Jollimore a déclaré que l’appelant s’était installé chez elle au mois de février 2000 et qu’il avait vécu avec elle pendant tout le reste des années visées par l’appel, jusqu’à ce que l’appelant soit incarcéré, au mois de septembre 2002. Mme Jollimore a déclaré vivre, à l’heure actuelle, au 29, promenade Taranki, à Dartmouth, en Nouvelle-Écosse. On ne lui a jamais demandé quelle était son adresse en 2000, en 2001 et en 2002. Son adresse, au cours de ces années‑là, n’est donc pas établie. On n’a pas demandé à l’appelant pourquoi il avait inscrit le 2414, rue Creighton, à Halifax, en Nouvelle‑Écosse, comme étant son adresse dans ses déclarations de revenus de 1999 et de 2000 ou pourquoi il avait donné cette adresse à l’agente qui le détenait à Toronto ou s’il s’agissait de l’adresse du logement qu’il partageait avec Mme Jollimore en 2000, en 2001 et en 2002. Étant donné que l’adresse de Mme Jollimore en 2000, en 2001 et en 2002 n’est pas établie, rien ne montre qu’ils avaient des adresses différentes au cours de ces années‑là.
+[31] Dans la décision R. v. Beavies, [2004] N.S.J. no 210, le juge Williams de la Cour provinciale de la Nouvelle‑Écosse examinait une demande que Mme Michelle Jollimore avait présentée pour qu’un véhicule qui avait été saisi conformément à une ordonnance rendue sur consentement par la Cour provinciale de la Nouvelle‑Écosse lui soit retourné. Le juge Williams a dit ceci :
+[traduction]
+3. Avec l’argent gagné en tant que coiffeuse et avec l’aide de membres de la famille, la demanderesse a effectué des versements mensuels réguliers à compter du 28 octobre 2001. Même s’ils entretenaient une relation depuis le mois d’octobre 2000, la demanderesse n’a reçu aucune aide ni aucune contribution de M. Beavies à valoir sur l’achat du véhicule ou sur les versements réguliers à effectuer à l’égard du véhicule. Lorsqu’elle était enceinte, la demanderesse a pris un congé de maternité au mois d’octobre 2002 et l’enfant est né au mois de décembre 2002. Pendant son congé de maternité, son revenu était composé de prestations d’assurance‑emploi, d’une allocation pour enfants et de l’argent gagné pour ses services de garde d’enfants.
+4. Lorsqu’elle travaillait, M. Beavies, qui n’habitait pas avec elle, la conduisait à son travail et la ramenait dans son véhicule [celui de la demanderesse]. […]
+[Non souligné dans l’original.]
+[32] On n’a posé aucune question à l’appelant ou à Mme Michelle Jollimore au sujet du témoignage présenté devant la Cour provinciale de la Nouvelle‑Écosse dans cette affaire. Étant donné que le juge Williams a également noté que l’appelant conduisait Mme Jollimore au travail et la ramenait, le fondement de la conclusion selon laquelle l’appelant n’habitait pas avec Mme Jollimore n’est pas clair, puisque l’appelant devait être chez elle lorsqu’elle allait travailler et devait retourner avec elle à la fin de sa journée de travail. Étant donné qu’on ne sait pas ce sur quoi cette conclusion était fondée et en l’absence de preuve de l’adresse de Mme Jollimore en 2000, en 2001 et en 2002, cette simple déclaration, à savoir que l’appelant n’habitait pas avec Mme Jollimore, figurant dans la phrase même où il est dit que l’appelant la conduisait à son travail et la ramenait, ne suffit pas, à mon avis, pour attaquer la crédibilité de Mme Jollimore et de l’appelant en ce qui concerne la question de savoir si l’appelant habitait avec Mme Jollimore et si c’était elle qui payait le loyer en 2000, en 2001 et en 2002.
+[33] L’appelant et Mme Michelle Jollimore ont tous deux déclaré que l’appelant ne vivait pas avec Mme Jollimore en 1999. L’appelant a affirmé qu’en 1999, il vivait avec son ancienne amie, Mme Tami Reid. Celle‑ci n’a pas témoigné à l’audience. Dans l’ouvrage intitulé Law of Evidence in Canada, deuxième édition, de Sopinka, Lederman et Bryant, il est déclaré ce qui suit à la page 297 :
+[traduction]
+Dans les affaires civiles, il est possible de tirer une inférence défavorable lorsque, en l’absence d’explication, une partie à un litige ne témoigne pas ou omet de fournir une preuve par affidavit dans le cadre d’une demande ou omet de convoquer un témoin qui aurait connaissance des faits en litige et dont on pourrait présumer qu’il serait prêt à aider cette partie.
+[34] En ce qui concerne Mme Tami Reid, il s’agit de savoir s’il peut être présumé qu’elle serait prête à aider l’appelant étant donné qu’elle est son ancienne amie. Dans la décision Antaya c. Sa Majesté la Reine, [2005] A.C.I. no 9, la juge Sheridan a fait les remarques suivantes en ce qui concerne l’inférence à faire dans le cas où un appelant n’a pas cité une ancienne épouse à titre de témoin :
+[…] La Cour aurait bénéficié du témoignage de l’ex‑épouse de M. Antaya et l’avocate de l’intimée a laissé entendre qu’il fallait tirer une inférence défavorable du fait que M. Antaya ne l’ait pas appelée à témoigner. Selon M. Antaya, ses relations avec son ex‑épouse étaient tendues et il n’était pas réaliste de s’attendre à ce qu’il lui demande de témoigner. À mon avis, l’intimée aurait tout autant pu appeler l’ex‑épouse à témoigner, surtout étant donné ses ressources, son devoir envers la bonne administration de la justice et l’absence de tout problème relationnel semblable à ce qui gênait M. Antaya. J’admets que l’explication de M. Antaya est raisonnable et je ne tire pas d’inférence défavorable du fait qu’il n’a pas appelé son ex‑épouse à témoigner.
+[35] Je souscris aux remarques de la juge Sheridan, à savoir que l’intimée aurait pu citer Mme Tami Reid, et je ne fais donc pas d’inférence défavorable du fait que l’appelant n’a pas cité Mme Reid pour témoigner. Étant donné que l’appelant a témoigné que l’entente, en ce qui concerne la cohabitation, était la même dans le cas de Mme Reid que dans celui de Mme Michelle Jollimore, je conclus que les rajustements ci‑dessous mentionnés à apporter à la cotisation de valeur nette pour les années 2000, 2001 et 2002 doivent également s’appliquer à l’année 1999, sauf indication contraire.
+[36] Je retiens les témoignages que l’appelant et Mme Michelle Jollimore ont présentés au sujet des montants se rattachant au logement (loyer, entretien et réparations, assurance, eau, combustible et électricité), de sorte qu’il faut déduire tous ces éléments pour déterminer les dépenses personnelles estimatives de l’appelant.
+[37] L’appelant et Mme Michelle Jollimore ont également témoigné que l’appelant n’avait pas de téléphone et qu’il ne contribuait pas à l’achat de produits de nettoyage ou de papier, de film étirable et de papier d’aluminium. Je retiens leurs témoignages sur ce point et ces articles doivent donc être supprimés.
+[38] Même si rien n’indiquait que l’appelant possédait une voiture, certains montants ont été inclus pour l’essence, l’entretien et les réparations, ainsi que pour les primes d’assurance se rattachant à la voiture. La question de savoir qui était propriétaire de la voiture que l’appelant conduisait a été examinée dans la décision précitée de la Cour provinciale de la Nouvelle‑Écosse. Comme il en a ci‑dessus été fait mention, le juge Williams examinait une demande que Mme Michelle Jollimore avait présentée pour qu’on lui retourne un véhicule qui avait été saisi conformément à une ordonnance rendue sur consentement par la Cour provinciale de la Nouvelle‑Écosse. Dans le cadre des conclusions tirées dans cette décision‑là, le juge Williams a dit ce qui suit :
+[traduction]
+17 De plus, je suis convaincu et je conclus que M. Beavies n’a jamais eu et n’a toujours pas de titre ou d’intérêt possessoire à l’égard du véhicule saisi. [...]
+18 [...] Par conséquent, je conclus et déclare qu’elle détient un titre et un droit de propriété à 100 p. 100 à l’égard du véhicule à usages multiples, un Chevrolet 1996 noir, modèle KTA, VIN no IGNEK13R8TJ357884.
+[39] Mme Michelle Jollimore a acquis le véhicule en question au mois d’octobre 2001. L’appelant a témoigné qu’il ne possédait pas de voiture au cours de la période visée par l’appel. Aucun élément de preuve n’indiquait l’existence d’un véhicule au nom de l’appelant. La Cour provinciale de la Nouvelle‑Écosse a conclu que Mme Jollimore était propriétaire de la voiture qui a été acquise au mois d’octobre 2001 et que l’appelant conduisait. Avant d’acquérir ce véhicule, Mme Jollimore utilisait la voiture de sa mère. Les éléments associés à l’entretien et aux réparations ainsi qu’aux primes d’assurance de la voiture doivent donc être supprimés de la cotisation de valeur nette de l’appelant.
+[40] L’appelant a témoigné comme suit au sujet de la question de savoir s’il conduisait les véhicules appartenant à Mme Tami Reid et à Mme Michelle Jollimore :
+[traduction]
+Q. Conduisiez-vous la voiture de quelqu’un d’autre?
+R. Eh bien, elles possèdent toutes deux des véhicules. Ce n’était pas tous les – cela n’arrivait pas tous les jours.
+Q. Que vous conduisiez leurs véhicules?
+R. Ouais, de temps en temps.
+Q. Et lorsque vous conduisiez leurs véhicules, est-ce que c’était vous qui payiez l’essence?
+R. Je n’allais jamais assez loin pour qu’il soit nécessaire de faire le plein.
+[41] Le juge Williams, de la Cour provinciale de la Nouvelle-Écosse, dans la décision précitée, a dit ce qui suit :
+[traduction]
+3. Avec l’argent gagné en tant que coiffeuse et avec l’aide de membres de la famille, la demanderesse a effectué des versements mensuels réguliers à compter du 28 octobre 2001. Même s’ils entretenaient une relation depuis le mois d’octobre 2000, la demanderesse n’a reçu aucune aide ni aucune contribution de M. Beavies à valoir sur l’achat du véhicule ou sur les versements réguliers à effectuer à l’égard du véhicule. Lorsqu’elle était enceinte, la demanderesse a pris un congé de maternité au mois d’octobre 2002 et l’enfant est né au mois de décembre 2002. Pendant son congé de maternité, son revenu était composé de prestations d’assurance‑emploi, d’une allocation pour enfants et de l’argent gagné pour ses services de garde d’enfants.
+4. Lorsqu’elle travaillait, M. Beavies, qui n’habitait pas avec elle, la conduisait à son travail et la ramenait dans son véhicule [celui de la demanderesse]. En outre, il pouvait utiliser la voiture, avec sa permission, en fonction de son horaire de travail. Toutefois, à l’insu de la demanderesse, M. Beavies faisait l’objet d’une enquête policière et les policiers le voyaient souvent conduire le véhicule alors qu’il était seul.
+[...]
+10 [...] Je conclus que la preuve par affidavit révélait qu’à plusieurs reprises, on avait vu M. Beavies au volant du véhicule, et qu’il était seul. Toutefois, cette preuve est vague en ce qui concerne les détails concernant les activités et, en particulier, les activités associées à des infractions désignées eu égard aux substances. Dans l’ensemble, après un examen et une appréciation approfondis de cette preuve, il m’est difficile de conclure que M. Beavies utilisait ce véhicule dans le cadre de la perpétration d’une infraction désignée eu égard aux substances. Le fait que les policiers le voyaient souvent seul dans le véhicule et qu’ils l’ont observé, sans plus, n’a pas pour effet de lui conférer un titre juridique sur le véhicule.
+[Non souligné dans l’original.]
+[42] Aucune question n’a été posée à l’appelant ou à Mme Michelle Jollimore dans le cadre du contre‑interrogatoire au sujet des témoignages qu’ils auraient présentés dans l’affaire dont la Cour provinciale de la Nouvelle‑Écosse avait été saisie. De plus, l’appelant n’a pas été interrogé au sujet de ce qu’il voulait dire lorsqu’il affirmait conduire le véhicule [traduction] « de temps en temps ». Lors du contre‑interrogatoire, on lui a posé les questions suivantes au sujet des circonstances dans lesquelles il conduisait le véhicule de Mme Reid :
+[traduction]
+Q. Vous dites que, lorsque vous habitiez avec Tami, elle travaillait dans un magasin de vêtements?
+R. Oui.
+Q. Et elle prenait la voiture pendant la journée pour aller travailler?
+R. Ouais.
+[43] Étant donné que le juge Williams a conclu que l’on avait souvent vu l’appelant seul dans le véhicule et qu’il conduisait Mme Jollimore à son travail et la ramenait (de sorte qu’il avait le véhicule à sa disposition pendant que Mme Jollimore travaillait) et puisque rien n’indique qu’il n’en allait pas de même lorsque Mme Jollimore utilisait la voiture de sa mère, je ne puis admettre que l’appelant ne payait pas l’essence qui était utilisée pour le véhicule en 2000, en 2001 et en 2002, de sorte qu’aucun rajustement ne sera apporté au montant se rattachant à l’essence pour les années 2000, 2001 et 2002. Étant donné qu’en ce qui concerne l’année 1999, le seul élément de preuve était que Mme Reid prenait sa voiture pour aller travailler (de sorte que l’appelant ne pouvait pas utiliser son véhicule pendant que celle‑ci travaillait), le montant utilisé à l’égard de l’essence pour l’année 1999 doit être supprimé.
+[44] Étant donné qu’en 1999, l’appelant n’utilisait pas la voiture de Mme Tami Reid pendant que cette dernière travaillait, aucun rajustement ne sera apporté au montant désigné au titre du transport public – local et banlieue. Puisque l’appelant avait à sa disposition le véhicule de Mme Michelle Jollimore pendant que celle‑ci travaillait en 2000, en 2001 et en 2002, et puisqu’un montant sera inclus pour l’essence achetée au cours de ces années‑là, les montants imputés au transport public, local et banlieue, seront supprimés pour les années 2000, 2001 et 2002.
+[45] Les montants se rattachant aux soins de la vue ainsi qu’à l’assurance‑santé publique et privée doivent être supprimés, étant donné que l’appelant a témoigné qu’il n’avait pas engagé de dépenses à cet égard au cours des années visées par l’appel et que je retiens son témoignage sur ce point.
+[46] Quant aux soins dentaires, l’appelant a déclaré ce qui suit :
+[traduction]
+Q. Êtes-vous souvent allé chez le dentiste ces quatre années-là?
+R. Non, je ne le crois pas. Non.
+[47] Étant donné que, selon le seul élément de preuve, l’appelant ne serait pas souvent allé chez le dentiste, cela veut dire qu’il est de fait allé chez le dentiste au cours de ces années‑là. Aucun rajustement ne sera apporté aux montants utilisés pour les soins dentaires, étant donné que les montants variaient de 128,34 à 138,22 $ par année.
+[48] Les montants se rattachant aux soins des cheveux doivent être supprimés pour les années 2000, 2001 et 2002 puisque Mme Michelle Jollimore était coiffeuse, et je retiens donc le témoignage de l’appelant lorsqu’il affirme ne pas avoir payé pour obtenir ces services en 2000, en 2001 et en 2002. Toutefois, l’appelant a confirmé que Mme Tami Reid travaillait dans un magasin de vêtements, de sorte qu’aucun rajustement ne devrait être apporté au montant se rattachant aux soins des cheveux en 1999.
+[49] Les montants associés aux articles de sport et au matériel d’athlétisme, aux produits et services de photographie et au matériel de lecture doivent être supprimés, puisque l’appelant a témoigné qu’il n’achetait pas ces articles et que je retiens son témoignage sur ce point.
+[50] Les montants se rattachant aux produits du tabac, aux articles pour fumeurs, aux primes d’assurance‑vie, aux fleurs, aux jouets et ainsi de suite, aux organisations religieuses et aux autres organismes de bienfaisance doivent être supprimés, puisque je retiens le témoignage de l’appelant lorsqu’il déclare ne pas avoir engagé de dépenses à cet égard au cours des années en question.
+[51] L’appelant a témoigné ne pas posséder de cartes de crédit. L’intimée n’a pas soumis de preuve au sujet du montant désigné au titre des intérêts sur des prêts personnels – carte Visa de la Banque Scotia. Par conséquent, cet élément doit être supprimé.
+[52] Je ne suis pas d’accord pour dire que des rajustements doivent être apportés aux montants mentionnés pour les autres éléments. Un gros montant d’argent a été saisi à l’aéroport de Toronto, sans qu’aucune explication soit donnée à ce sujet, et les déclarations de culpabilité pour trafic de cocaïne indiquent que l’appelant vendait de la drogue et qu’il avait donc une source de revenu. De plus, les niveaux de revenu déclarés par Mme Michelle Jollimore pour les années 2000 et 2001 étaient inférieurs à 12 000 $ l’an et donnent à penser que, puisque le ménage était composé de deux personnes, l’appelant effectuait une contribution financière.
+[53] Le témoignage que l’appelant a présenté au sujet de l’achat de produits d’épicerie était le suivant :
+[traduction]
+Q. D’accord, Carl, parlons donc un peu de vos frais de subsistance pour les années en question, de 1999 à 2002. Achetiez‑vous souvent de la nourriture dans les épiceries?
+R. Non.
+Q. Et cela s’applique aux quatre années?
+R. Oui.
+Q. Qui achetait les produits d’épicerie?
+R. Je n’avais jamais à aller à l’épicerie. C’était toujours Tami ou Michelle –
+Q. Est-il arrivé que vous achetiez vous-même la nourriture?
+R. Non.
+[54] Le témoignage de Mme Michelle Jollimore, en ce qui concerne les produits d’épicerie, était le suivant :
+[traduction]
+Q. Par conséquent, pendant que M. Beavis vivait avec vous, Michelle, achetait‑il de la nourriture dans les épiceries?
+R. Non.
+Q. Qui achetait la nourriture?
+R. C’était moi qui le faisais.
+[55] L’appelant n’allait peut-être pas lui‑même à l’épicerie pour acheter des produits, mais cela ne veut pas pour autant dire qu’il ne faisait pas de contribution financière à l’égard de l’achat de produits d’épicerie. Par conséquent, aucun rajustement ne doit être apporté au montant utilisé pour l’élément « Nourriture – produits d’épicerie ».
+[56] Le témoignage de l’appelant, en ce qui concerne les repas au restaurant, était le suivant :
+[traduction]
+Q. Alliez-vous souvent au restaurant?
+R. Pas très souvent, non.
+Q. Lorsque vous dites : « Pas très souvent », que voulez‑vous dire?
+R. Eh bien, peut-être une fois par mois environ, lorsque –
+Q. Et lorsque vous mangiez au restaurant, qui payait?
+R. Tami ou Michelle.
+[57] Le témoignage de Mme Michelle Jollimore, en ce qui concerne les repas au restaurant, était le suivant :
+[traduction]
+Q. Jusqu’en 2002, alliez-vous souvent au restaurant avec Carl?
+R. De temps en temps – peut-être une fois toutes les deux semaines, une fois par mois.
+Q. Et qui réglait l’addition, lorsque vous mangiez au restaurant?
+R. C’était moi qui le faisais.
+[58] Je ne puis admettre que, pendant quatre ans, l’appelant ait mangé dans des restaurants une fois toutes les deux semaines (soit environ 94 fois avant d’être incarcéré) ou une fois par mois (soit environ 44 fois avant d’être incarcéré) sans avoir payé un seul repas. Par conséquent, aucun rajustement ne doit être apporté au montant utilisé pour l’élément « Nourriture – restaurants ».
+[59] La valeur nette comprenait des éléments désignés comme étant l’hébergement à l’occasion de voyages et les transports publics – interurbains et en avion. L’appelant a témoigné qu’il n’utilisait pas les transports publics locaux, mais il n’a soumis aucun élément de preuve en vue de contester les montants utilisés pour l’un ou l’autre de ces éléments. Par conséquent, aucun rajustement ne sera effectué pour ces éléments.
+[60] Quant aux autres éléments, je ne puis admettre que, pendant quatre ans, l’appelant n’ait pas fait de contribution financière pour les vêtements, les fournitures médicales, les produits de soins d’hygiène personnelle, les jouets, les jeux, les passe‑temps, le divertissement à domicile, les services récréatifs, les boissons alcoolisées, les cadeaux et les billets de loterie. Par conséquent, aucun rajustement ne sera apporté aux montants utilisés pour ces éléments.
+[61] Par conséquent, les rajustements suivants doivent être apportés à l’analyse de la valeur nette préparée par l’Agence du revenu du Canada avant qu’il soit tenu compte de la période d’incarcération, qui a commencé le 6 septembre 2002 :
+Élément :
+1999
+2000
+2001
+2002
+Loyer :
+(4 800,00 $)
+(4 800,00 $)
+(4 800,00 $)
+(5 100,00 $)
+Entretien et réparations :
+(226,43 $)
+(232,57 $)
+(238,52 $)
+(243,84 $)
+Assurance :
+(145,04 $)
+(148,98 $)
+(152,78 $)
+(156,19 $)
+Eau, combustible, électricité :
+(874,40 $)
+(898,14 $)
+(921,09 $)
+(941,66 $)
+Téléphone :
+(573,89 $)
+(589,47 $)
+(604,53 $)
+(618,04 $)
+Produits de nettoyage :
+(130,43 $)
+(133,97 $)
+(137,39 $)
+(140,46 $)
+Articles en papier, film étirable et papier d’aluminium :
+(50,00 $)
+(50,00 $)
+(50,00 $)
+(50,00 $)
+Essence – automobile :
+(534,24 $)
+Entretien et réparations – automobile :
+(271,29 $)
+(278,66 $)
+(285,78 $)
+(292,16 $)
+Primes d’assurance – automobile :
+(466,42 $)
+(479,08 $)
+(491,32 $)
+(502,29 $)
+Transport public – local et banlieue :
+(195,06 $)
+(200,05 $)
+(204,51 $)
+Produits et services pour soins de la vue :
+(77,21 $)
+(79,31 $)
+(81,34 $)
+(83,15 $)
+Assurance-santé publique et privée :
+(141,91 $)
+(145,76 $)
+(149,48 $)
+(152,82 $)
+Soins des cheveux :
+(205,78 $)
+(211,04 $)
+(215,75 $)
+Articles de sport et matériel d’athlétisme :
+(58,43 $)
+(60,02 $)
+(61,55 $)
+(62,93 $)
+Produits et services de photographie :
+(44,87 $)
+(46,09 $)
+(47,26 $)
+(48,32 $)
+Matériel de lecture :
+(196,17 $)
+(201,49 $)
+(206,64 $)
+(211,26 $)
+Produits du tabac et articles pour fumeurs :
+(328,68 $)
+(337,61 $)
+(346,23 $)
+(353,97 $)
+Prime d’assurance-vie :
+(145,04 $)
+(148,98 $)
+(152,78 $)
+(156,19 $)
+Fleurs, jouets, etc. :
+(350,59 $)
+(360,11 $)
+(369,31 $)
+(377,56 $)
+Organisations religieuses :
+(158,60 $)
+(162,91 $)
+(167,07 $)
+(170,80 $)
+Autres organismes de bienfaisance :
+(120,00 $)
+(123,25 $)
+(126,40 $)
+(129,23 $)
+Intérêts sur prêts personnels – carte Visa de la Banque Scotia :
+(186,78 $)
+(191,85 $)
+(196,75 $)
+(201,14 $)
+Total des rajustements à apporter aux dépenses personnelles estimatives :
+(9 880,42 $)
+(9 869,09 $)
+(9 997,31 $)
+(10 412,27 $)
+[62] Le tableau ci‑dessous est un sommaire des montants révisés qui doivent être utilisés au titre des dépenses personnelles estimatives de l’appelant au cours des années 1999, 2000, 2001 et 2002, compte tenu de la période d’incarcération qui a commencé le 6 septembre 2002 :
+Élément :
+1999
+2000
+2001
+2002
+Total des dépenses personnelles estimatives selon la vérification (avant réduction pour la période d’incarcération) :
+17 452,64 $
+17 794,79 $
+18 125,52 $
+18 722,04 $
+Total des rajustements ci‑dessus :
+(9 880,42 $)
+(9 869,09 $)
+(9 997,31 $)
+(10 412,27 $)
+Dépenses personnelles estimatives révisées :
+7 572,22 $
+7 925,70 $
+8 128,21 $
+8 309,77 $
+Réduction pour la période d’incarcération :
+(2 637,00 $)
+Total des dépenses personnelles estimatives révisées :
+7 572,22 $
+7 925,70 $
+8 128,21 $
+5 672,77 $
+[63] Étant donné que rien ne permet logiquement d’ajouter 10 000 $ au revenu de l’appelant pour l’année 2000, compte tenu de l’argent qui a été saisi au mois de novembre 2001, les 10 000 $ n’auraient pas dû être ajoutés au revenu de l’appelant pour l’année 2000 et le montant qui devrait être établi au titre du revenu de l’appelant pour l’année 2000 est de 7 926 $.
+[64] Dans la décision Venne v. Her Majesty the Queen, [1984] C.T.C. 223, 84 D.T.C. 6247, le juge Strayer, de la Section de première instance de la Cour fédérale, a fait les remarques suivantes au sujet du sens de l’expression « faute lourde » pour l’application des pénalités imposées en application du paragraphe 163(2) de la Loi de l’impôt sur le revenu :
+[...] La "faute lourde" doit être interprétée comme un cas de négligence plus grave qu’un simple défaut de prudence raisonnable. Il doit y avoir un degré important de négligence qui corresponde à une action délibérée, une indifférence au respect de la loi. […]
+[65] Le paragraphe 163(3) de la Loi de l’impôt sur le revenu prévoit ce qui suit :
+(3) Dans tout appel interjeté, en vertu de la présente loi, au sujet d’une pénalité imposée par le ministre en vertu du présent article ou de l’article 163.2, le ministre a la charge d’établir les faits qui justifient l’imposition de la pénalité.
+[66] Étant donné que les montants révisés au titre du revenu pour les années 1999 et 2000, de 7 572 $ et de 7 926 $, excèdent de beaucoup les montants déclarés au titre du revenu, soit un revenu nul et un revenu de un dollar, et puisque l’appelant a reconnu l’existence d’une source de revenu non déclaré (le trafic de cocaïne pour lequel il a été reconnu coupable en 2002), je conclus que l’intimée a établi les faits qui justifieraient l’imposition des pénalités pour faute lourde en l’espèce. La production de déclarations indiquant comme revenu déclaré un dollar et un revenu nul dans ces circonstances indique l’indifférence de l’appelant lorsqu’il s’agissait de se conformer à son obligation de préparer d’une façon appropriée les déclarations de revenus qu’il a produites. De plus, en mentionnant, dans ses déclarations de revenus des années 1999 et 2000, qu’il était célibataire et qu’il n’avait donc pas de conjointe de fait, l’appelant a également manifesté son indifférence à l’égard de l’obligation qui lui incombait de produire des déclarations de revenus divulguant d’une façon exacte ses modes de vie.
+[67] En 1999 et en 2000, le paragraphe 163(2) de la Loi de l’impôt sur le revenu prévoyait notamment ce qui suit :
+(2) Faux énoncés ou omissions – Toute personne qui, sciemment ou dans des circonstances équivalant à faute lourde, fait un faux énoncé ou une omission dans une déclaration, un formulaire, un certificat, un état ou une réponse (appelé « déclaration » au présent article) rempli, produit ou présenté, selon le cas, pour une année d’imposition pour l’application de la présente loi, ou y participe, y consent ou y acquiesce est passible d’une pénalité égale, sans être inférieure à 100 $, à 50 % du total des montants suivants :
+a) l’excédent éventuel du montant visé au sous‑alinéa (i) sur le montant visé au sous‑alinéa (ii) :
+(i) l’excédent éventuel de l’impôt qui serait payable par cette personne pour l’année en vertu de la présente loi sur les sommes qui seraient réputées par les paragraphes 120(2) et (2.2) payées au titre de l’impôt de la personne pour l’année, s’il était ajouté au revenu imposable déclaré par cette personne dans la déclaration pour l’année la partie de son revenu déclaré en moins pour l’année qu’il est raisonnable d’attribuer au faux énoncé ou à l’omission et si son impôt payable pour l’année était calculé en soustrayant des déductions de l’impôt payable par ailleurs par cette personne pour l’année, la partie de ces déductions qu’il est raisonnable d’attribuer au faux énoncé ou à l’omission,
+(ii) l’excédent éventuel de l’impôt qui aurait été payable par cette personne pour l’année en vertu de la présente loi sur les sommes qui auraient été réputées par les paragraphes 120(2) et (2.2) payées au titre de l’impôt de la personne pour l’année, si l’impôt payable pour l’année avait fait l’objet d’une cotisation établie d’après les renseignements indiqués dans la déclaration pour l’année;
+[68] Le revenu révisé pour l’année 1999 est de 7 572 $. Le crédit d’impôt personnel de base prévu par la Loi de l’impôt sur le revenu pour l’année 1999 était de 17 p. 100 de 6 794 $. Par conséquent, l’obligation fiscale qui incombait à l’appelant en vertu de la Loi de l’impôt sur le revenu (calculée en fonction de ce revenu et de la seule demande de crédit d’impôt personnel de base) serait inférieure à 200 $ et la pénalité imposée en vertu du paragraphe 163(2) de la Loi de l’impôt sur le revenu serait donc le montant minimum de 100 $, puisque ce montant est supérieur à 50 p. 100 du montant des impôts que l’appelant devait payer en vertu de la Loi de l’impôt sur le revenu. Il en irait de même pour l’année 2000, puisque le montant du crédit d’impôt personnel de base pour l’année 2000 était de 17 p. 100 de 7 231 $. Dans la réponse, il est déclaré que la pénalité était uniquement fondée sur le montant des impôts payables. Il n’est pas fait mention d’un présumé paiement en trop de quelque crédit relatif à la TPS, de sorte que la pénalité, dans ce cas‑ci, s’appliquera uniquement à l’obligation fiscale que l’appelant avait en vertu de la Loi de l’impôt sur le revenu, le montant minimum de 100 $ représentant donc le montant de la pénalité pour les années 1999 et 2000.
+[69] Par conséquent, l’appel est admis, sans frais, et l’affaire est renvoyée au ministre du Revenu national pour nouvel examen et nouvelle cotisation, compte tenu du fait que le revenu de l’appelant pour les années 1999, 2000, 2001 et 2002 est le suivant :
+1999 – 7 572 $
+2000 – 7 926 $
+2001 – 8 128 $
+2002 – 5 673 $
+[70] Les pénalités établies en application du paragraphe 163(2) de la Loi de l’impôt sur le revenu pour les années 1999 et 2000 doivent être ramenées à 100 $ pour l’année 1999 et à 100 $ pour l’année 2000.
+Signé à Halifax (Nouvelle-Écosse), ce 25e jour de février 2008.
+« Wyman W. Webb »
+Juge Webb
+Traduction certifiée conforme
+ce 10e jour d’avril 2008.
+Christian Laroche
+RÉFÉRENCE : 2008CCI94
+DOSSIER DE LA COUR : 2006-2938(IT)I
+INTITULÉ : CARL A. BEAVIES
+c.
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Halifax (Nouvelle-Écosse)
+DATE DE L’AUDIENCE : Le 29 janvier 2008
+MOTIFS DU JUGEMENT : L’honorable juge Wyman W. Webb
+DATE DU JUGEMENT : Le 25 février 2008
+COMPARUTIONS :
+Avocat de l’appelant :
+Me C. Lorway Gosse fils
+Avocate de l’intimée :
+Me Lindsay D. Holland
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom : C. Lorway Gosse fils
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

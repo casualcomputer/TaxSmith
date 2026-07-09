@@ -1,0 +1,117 @@
+---
+title: "Balanovsky v. The King"
+source: "https://norma.lexum.com/tcc-cci/decisions/en/item/521655/index.do"
+last_modified: "2026-05-05"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2026 TCC 119"
+citation2: ""
+neutral_citation: "2026 TCC 119"
+decision_date: "2026-05-05"
+language: "en"
+item_id: "521655"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5240
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2026-06-26T09:02:49.456000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "723550706e6b12f96b0af025e098cb30c0f6fce7ca620786c555bfc58aa43c07"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Balanovsky v. The King
+
+- Citation: 2026 TCC 119
+- Decision date: 2026-05-05
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5240, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Balanovsky v. The King
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2026-05-05
+Neutral citation
+2026 TCC 119
+File numbers
+2024-2515(IT)I
+Judges and Taxing Officers
+David E. Graham
+Subjects
+Income Tax Act
+Decision Content
+Citation: 2026 TCC 119
+Date: 20260623
+Docket: 2024-2515(IT)I
+BETWEEN:
+BARAQ BALANOVSKY,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+REASONS FOR JUDGMENT
+(I have prepared these Reasons for Judgment from the transcript of the Reasons for Judgment I delivered orally from the Bench on May 5, 2026 at Toronto, Ontario. I have edited them for punctuation and to remove repetitive phrases where I stumbled over my words. I added the phrase in square brackets in paragraph 9 to provide basic context. I did not make any substantive changes.)
+Graham J.
+[1] I'm going to give my oral judgment on this now. I won't be issuing written reasons for judgment.
+[2] I heard the testimony from both of you. While there were some inconsistencies in your testimony, I didn't think they were important to the key issues before me. I found you generally credible.
+[3] As you know, the issue that the government has with the application is that Baraq has to have been dealing at arm's length. He can't be related to the landlord. Baraq, as tenant, can't be related to the landlord. He's clearly related to Sophia because she's his mother
+[4] And he was also related to 279 as you agreed in your submissions because all of the shareholders of 279 are a related group where every member of that group is related to each other by blood or marriage and that group controls the company and therefore Baraq is related to that.
+[5] As a result, he doesn't meet one of the qualifications that you have to meet to get the subsidy, and so, it's not a qualifying rent expense because the rent wasn't paid to an arm's-length entity.
+[6] I think you recognize what I just said and I think what you're essentially arguing is that due to some bad advice from CRA, you perhaps made the application incorrectly, and you'd like me to redo the application essentially as if it was 279 or Sophia that had applied for it.
+[7] I don't have the power to do that. I can deal with the appeal in front of me, and the appeal in front of me is Baraq's appeal. I can't change the law.
+[8] I don't know whether 279 would have qualified or not. The Respondent has raised a number of other issues that 279 might have had with that including not having a business number at the relevant time, or not having had one early enough but none of that actually matters because 279's application isn't in front of me and, as you said, it's far too late now to bring one.
+[9] So, based on all of that, the appeal of the redetermination of Baraq's qualifying periods 10 to 21 [of the Canada Emergency Rent Subsidy] is dismissed. The Respondent isn't seeking costs, so, I'm not going to award costs.
+Signed this 23rd day of June 2026.
+“David E. Graham”
+Graham J.
+CITATION:
+2026 TCC 119
+COURT FILE NO.:
+2024-2515(IT)I
+STYLE OF CAUSE:
+BARAQ BALANOVSKY v HIS MAJESTY THE KING
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+May 5, 2026
+REASONS FOR JUDGMENT BY:
+The Honourable Justice David E. Graham
+DATE OF ORAL REASONS:
+May 5, 2026
+DATE OF REASONS FOR JUDGMENT:
+June 23, 2026
+APPEARANCES:
+Agent for the Appellant:
+Sofia Balanovsky
+Counsel for the Respondent:
+Olivia Rosborough
+Isida Ranxi
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+n/a
+Firm:
+n/a
+For the Respondent:
+Marie-Josée Hogue
+Deputy Attorney General of Canada
+Ottawa, Canada

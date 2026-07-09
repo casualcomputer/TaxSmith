@@ -1,0 +1,120 @@
+---
+title: "Chagnon v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27526/index.do"
+last_modified: "2005-06-20"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 TCC 384"
+citation2: ""
+neutral_citation: "2005 TCC 384"
+decision_date: "2005-06-20"
+language: "en"
+item_id: "27526"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 21
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T20:37:09.150000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "04339f1394792e93fb08d926eb97661f547572924aef85121d47b5779635ed38"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Chagnon v. M.N.R.
+
+- Citation: 2005 TCC 384
+- Decision date: 2005-06-20
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 21, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Chagnon v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-06-20
+Neutral citation
+2005 TCC 384
+File numbers
+2004-3949(EI)
+Judges and Taxing Officers
+Brent Paris
+Subjects
+Employment Insurance Act
+Decision Content
+Citation: 2005TCC384
+Date: 20050620
+Dockets: 2004-3949(EI)
+2004-3950(EI)
+BETWEEN:
+STÉPHANE CHAGNON,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+(Reasons delivered orally from the bench on May 17, 2005,
+at Montréal, Quebec.)
+Paris J.
+[1] This appeal was heard at Montréal, Quebec, on May 17, 2005.
+[2] The Appellant in both these appeals disputes two decisions of the Minister of National Revenue (the "Minister") concerning his employment with 3825558 Canada Inc. (3825558) and 9100-7492 Québec Inc. (9100-7492). Under paragraph 5(2)(b) of the Employment Insurance Act, the Minister decided that neither of those employments was insurable because the Appellant controlled 40 percent of the voting shares of both corporations. The corporation 3825558 operated a transportation business that had purchased most of the assets of another corporation, 9061-2110 Québec Inc., in which the Appellant's de facto spouse, Manon Choquet, held all the shares. The shareholders of 3825558 were Guy Lemay and 9100-7492, who held 45 percent of the shares each, and Pierre Rochon, who held 10 percent. The sole shareholder of 9100-7492 was Rémi Tétrault, a longstanding friend of the Appellant.
+[3] The Minister's decisions on the insurability of the Appellant's employments were based on the assumption that the shareholders of 3825558 and 9100-7492 had served as nominees for the Appellant and that the Appellant in fact held and controlled 100 percent of the shares of both corporations. At the hearing, Messrs. Tétrault, Rochon and Lemay stated that they had all testified before the Court and denied that they had been the Appellant's nominees in this matter. The Appellant's testimony was to the same effect.
+[4] Nothing in the evidence leads the Court to doubt the credibility of these witnesses, and I conclude that the assumptions in subparagraphs 5(n), (o) and (p) of each Reply to the Notice of Appeal were demolished. However, as an alternative argument, counsel for the Respondent suggests that the Appellant controlled all the shares of 9100-7492 and thus 45 percent of the shares of 3825558, effective July 12, 2001, under a power of attorney signed that same day by Mr. Tétrault. A document apparently giving the Appellant the power to vote and to make all the decisions that he deemed appropriate in and for 9100-7492 was filed in evidence by the Respondent as Exhibit I-3. However, the Appellant said that he had not seen that document before it was presented to him during the hearing. No evidence was adduced to contradict the Appellant on this point. Mr. Tétrault, for his part, admitted that he had signed the power of attorney in the Appellant's favour, but did not indicate that he had given it to the Appellant or that the latter had accepted it. Furthermore, there is no evidence that the Appellant ever exercised the voting powers attached to Mr. Tétrault's shares in 9100-7492 or that he took any other actions under the alleged power of attorney.
+[5] According to article 2130 of the Civil Code of Quebec,[1] a power of attorney is a power created by a contract of mandate. This provision states that a mandate is a contract by which a person, the mandator, empowers another person, the mandatary, to represent him in the performance of a juridical act with a third person, and the mandatary, by his acceptance, binds himself to exercise the power. This power and, where applicable, the writing evidencing it are called a power of attorney. In the instant case, the burden of proving that there was a valid power of attorney dated July 12, 2001, is on the Respondent because this was not a fact assumed by the Minister in reaching the decisions in question.
+[6] On the evidence before the Court, I find that the Respondent did not discharge his burden in this regard and did not show that the Appellant had accepted a power of attorney. If I am mistaken as to the validity of the power of attorney dated July 12, 2001, I accept that Mr. Tétrault reserved for himself, at all times, a power of control over the Appellant's actions, such that it could not be said that it was the Appellant, and not Mr. Tétrault, who controlled the shares. According to Mr. Tétrault, he always waited for the Appellant to consult him to obtain his approval when and if there were decisions to be made as a shareholder of 9100-7492. Although Mr. Tétrault's testimony as to his intention appears to run counter to the wording of the alleged power of attorney, counsel for the Respondent did not object to that fact, and, furthermore, that testimony was not contradicted in cross-examination. It does appear that Mr. Tétrault continued to be involved in the affairs of 9100-7492 both before and after July 12, 2001, and that he acted in his own interests during the entire period in question.
+[7] For all these reasons, the appeals are allowed, and the Minister's decisions are varied on the basis that the Appellant held insurable employment with 3825558 Canada Inc. from April 1, 2001, to November 30, 2002, and with 9100-7492 Québec Inc. from December 1, 2002, to June 21, 2003.
+Signed at Ottawa, Canada, this 20th day of June 2005.
+"B. Paris"
+Paris J.
+Translation certified true
+on this 20th day of February, 2006.
+Garth McLeod, Translator
+CITATION:
+2005TCC384
+COURT FILE NO.:
+2004-3949(EI) and 2004-3950(EI)
+STYLE OF:
+Stéphane Chagnon and M.N.R.
+PLACE OF HEARING:
+Montréal, Quebec
+DATE OF HEARING:
+May 17, 2005
+REASONS FOR JUDGMENT BY:
+The Honourable Judge B. Paris
+DATE OF JUDGMENT:
+June 20, 2005
+APPEARANCES:
+For the Appellant:
+Martin Pichette
+For the Respondent:
+Alain Gareau
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Martin Pichette
+Firm:
+de Grandpré Chait
+Montréal, Quebec
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] S.Q., 1991, c. 64 (C.C.Q.).

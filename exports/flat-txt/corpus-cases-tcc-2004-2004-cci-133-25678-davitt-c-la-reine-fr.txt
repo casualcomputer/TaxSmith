@@ -1,0 +1,303 @@
+Title: Davitt c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25678/index.do
+Corpus path: corpus/cases/tcc/2004/2004-cci-133-25678-davitt-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2004-02-09
+
+# Davitt c. La Reine
+
+- Citation: 2004 CCI 133
+- Decision date: 2004-02-09
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3836, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Davitt c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-02-09
+Référence neutre
+2004 CCI 133
+Numéro de dossier
+2003-511(IT)G
+Juges et Officiers taxateurs
+Leslie M. Little
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2003-511(IT)G
+ENTRE :
+WILLIAM SHAWN DAVITT,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu les 18 et 19 novembre 2003, à Toronto (Ontario)
+Devant : L’honorable juge L.M. Little
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Me Jocelyn Espejo Clarke
+____________________________________________________________________
+ORDONNANCE
+L’appel formé contre la cotisation établie en application de la Loi de l’impôt sur le revenu pour l’année d’imposition 2000 est annulé, avec dépens, conformément aux motifs de l’ordonnance ci‑joints.
+Signé à Vancouver (Colombie-Britannique), ce 9e jour de février 2004.
+« L.M. Little »
+Juge Little
+Traduction certifiée conforme
+ce 31e jour de mars 2009.
+Christian Laroche, LL.B.
+Réviseur
+Dossier : 2003-283(CPP)
+ENTRE :
+WILLIAM SHAWN DAVITT,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu les 18 et 19 novembre 2003, à Toronto (Ontario)
+Devant : L’honorable juge L.M. Little
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimé :
+Me Jocelyn Espejo Clarke
+____________________________________________________________________
+ORDONNANCE
+L’appel formé contre la cotisation établie en application du Régime de pensions du Canada pour l’année d’imposition 2001 est annulé, avec dépens, conformément aux motifs de l’ordonnance ci‑joints.
+Signé à Vancouver (Colombie-Britannique), ce 9e jour de février 2004.
+« L.M. Little »
+Juge Little
+Traduction certifiée conforme
+ce 31e jour de mars 2009.
+Christian Laroche, LL.B.
+Réviseur
+Dossier : 2003-284(EI)
+ENTRE :
+WILLIAM SHAWN DAVITT,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu les 18 et 19 novembre 2003, à Toronto (Ontario)
+Devant : L’honorable juge L.M. Little
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimé :
+Me Jocelyn Espejo Clarke
+____________________________________________________________________
+ORDONNANCE
+L’appel formé contre la cotisation établie en application de la Loi sur l'assurance-emploi pour l’année d’imposition 2001 est annulé, avec dépens, conformément aux motifs de l’ordonnance ci‑joints.
+Signé à Vancouver (Colombie-Britannique), ce 9e jour de février 2004.
+« L.M. Little »
+Juge Little
+Traduction certifiée conforme
+ce 31e jour de mars 2009.
+Christian Laroche, LL.B.
+Réviseur
+Référence : 2004CCI133
+Date : 20040209
+Dossiers : 2003-511(IT)G
+2003-283(CPP)
+2003-284(EI)
+ENTRE :
+WILLIAM SHAWN DAVITT,
+appelant,
+et
+SA MAJESTÉ LA REINE, REPRÉSENTÉE PAR
+LE MINISTRE DU REVENU NATIONAL,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L'ORDONNANCE
+Le juge Little
+A. LES FAITS
+[1] L’appelant a déposé un avis d’appel se rapportant à l’avis de cotisation établi en application de la Loi de l’impôt sur le revenu (la « Loi ») pour son année d’imposition 2000.
+[2] Crédit personnel de base - L’appelant dit que le crédit personnel de base est excessivement faible.
+[3] L’appelant soutient que, parce que le crédit personnel de base est excessivement faible, les contribuables à faible revenu sont contraints de payer l’impôt sur le revenu. Il affirme que le fait de soumettre à l’impôt les contribuables à [traduction] « faible revenu » porte atteinte au droit à la vie, à la liberté et à la sécurité de la personne, un droit qui est garanti par l’article 7 de la Charte canadienne des droits et libertés (la « Charte »).
+[4] Discrimination fondée sur l’âge, l’état matrimonial et la pauvreté - L’appelant fait aussi valoir que la faiblesse excessive du crédit personnel de base contrevient au paragraphe 15(1) de la Charte pour cause de discrimination fondée sur l’âge et l’état matrimonial.
+[5] Crédit pour frais de scolarité et études - L’appelant fait valoir que son crédit pour études et frais de scolarité pour l’année d’imposition 2000 devrait être plus élevé. Il dit que, si le crédit personnel de base était fixé au bon niveau, il pourrait reporter depuis les années antérieures une somme plus élevée, qui lui permettrait de payer ses études et les frais de scolarité.
+[6] Discrimination selon le paragraphe 15(1) de la Charte - Âge - L’appelant affirme que les taux d’imposition indiqués dans l’article 117 de la Loi contreviennent au paragraphe 15(1) de la Charte pour cause de discrimination fondée sur l’âge. Il fait valoir que la dette contractée par le gouvernement du Canada avant qu’il n’atteigne la majorité ne devrait pas être sa responsabilité à lui. Il affirme que le gouvernement fédéral fait reposer sur la jeune génération le fardeau de la dette fédérale alors que les avantages à l’origine de la dette ont été recueillis par la génération précédente.
+[7] État matrimonial – L’appelant affirme que, parce que le crédit personnel de base est excessivement bas, le taux effectif d’imposition des contribuables célibataires est plus élevé que celui des contribuables mariés.
+[8] Statut de non-résident – L’appelant affirme aussi que, dans la Loi, la différence entre le traitement fiscal des non-résidents et le traitement fiscal des résidents du Canada contrevient au paragraphe 15(1) de la Charte.
+[9] L’avocat de l’intimée a déposé un avis de requête daté du 4 novembre 2003. L’avis de requête contient ce qui suit :
+[traduction]
+1. L’avis d’appel est, en totalité ou en partie, scandaleux, frivole ou vexatoire, ou constitue un recours abusif à la Cour, comme il est indiqué dans les alinéas 53b) et c) des Règles de la Cour canadienne de l'impôt (procédure générale).
+2. L’avis d’appel ne révèle aucun moyen raisonnable d’appel, comme il est indiqué dans l’alinéa 58(1)b) des Règles de la Cour canadienne de l'impôt (procédure générale);
+3. La Cour canadienne de l'impôt n’a pas le pouvoir d’accorder le redressement sollicité par l’appelant;
+4. L’article 12 des Règles de la Cour canadienne de l'impôt (procédure générale);
+5. L’article 12 de la Loi sur la Cour canadienne de l'impôt, L.R.C. 1985, ch. T-2, et modifications, et le paragraphe 171(1) de la Loi de l’impôt sur le revenu, L.R.C. 1985 (5e suppl.), ch. 1;
+6. Les autres moyens que pourra soulever l’avocat de l’intimée et que pourra autoriser la Cour.
+[10] Les articles 53 et 58 des Règles de la Cour canadienne de l'impôt (procédure générale) sont les suivants :
+53. La Cour peut radier un acte de procédure ou un autre document ou en supprimer des passages, en tout ou en partie, avec ou sans autorisation de le modifier parce que l’acte ou le document :
+a) peut compromettre ou retarder l’instruction équitable de l’appel;
+b) est scandaleux, frivole ou vexatoire;
+c) constitue un recours abusif à la Cour.
+58. (1) Une partie peut demander à la Cour,
+a) soit de se prononcer, avant l’audience, sur une question de droit, une question de fait ou une question de droit et de fait soulevée dans une instance si la décision pourrait régler l’instance en totalité ou en partie, abréger substantiellement l’audience ou résulter en une économie substantielle des frais;
+b) soit de radier un acte de procédure au motif qu’il ne révèle aucun moyen raisonnable d’appel ou de contestation de l’appel,
+[…]
+B. LE POINT EN LITIGE
+[11] L’avis de requête déposé par l’intimée devrait-il être accueilli?
+C. ANALYSE
+Objet : Crédit personnel de base
+[12] L’argument de l’appelant repose sur l’idée selon laquelle le crédit personnel de base de l’année 2000 devrait se chiffrer à 10 920 $. L’appelant est arrivé à ce chiffre en utilisant les niveaux du salaire minimum dans les provinces de l’Ontario et du Québec et en appliquant le salaire minimum à une semaine de travail de 40 heures.
+À mon avis, l’argument de l’appelant sur ce point n’est pas recevable parce qu’il n’y a aucune raison valide de fixer le crédit personnel de base d’après les lois sur le salaire minimum. Il convient de noter que le crédit personnel de base est fixé par le gouvernement fédéral et que les lois sur le salaire minimum des provinces relève des assemblées législatives provinciales. Ce que l’appelant dit que le crédit personnel de base devrait être repose sur un raisonnement douteux ou inexact qui prétend valider des « notions subjectives » sur la question de savoir à partir de quand un particulier devrait commencer à payer l’impôt sur le revenu. Cet argument ne suffit pas à faire entrer en jeu l’article 7 de la Charte.
+[13] S’agissant de l’affirmation selon laquelle l’article 7 de la Charte devrait s’appliquer, je voudrais faire observer que, dans l’arrêt R. c. Edwards, [1996] 1 R.C.S. 128, la Cour suprême du Canada a jugé que les droits garantis par la Charte sont des droits personnels qui protègent les gens. La Cour suprême a dit qu’une personne qui veut contester une loi en invoquant l’article 7 de la Charte doit montrer qu’il a été porté atteinte à son droit à la vie, à la liberté et à la sécurité de sa personne. Une personne n’a pas l’intérêt requis pour demander réparation selon la Charte par suite de la violation des droits de quelqu’un d’autre.
+[14] Paragraphe 15(1) de la Charte – L’appelant fait aussi valoir que, en raison du caractère excessivement faible du crédit personnel de base, il y a transgression du paragraphe 15(1) de la Charte pour cause de discrimination fondée sur l’âge, l’état matrimonial et le niveau de revenu.
+[15] L’appelant affirme que les jeunes ont des revenus faibles et des dépenses élevées. Il fait aussi valoir que le coût de la vie est moins élevé pour un couple que pour une personne vivant seule. À mon avis, ces arguments ne sont pas fondés et ne sauraient être admis.
+[16] Finalement, l’appelant fait valoir que les contribuables à faible revenu sont soumis à un taux d’imposition réel plus élevé. Je ne suis pas disposé à admettre que l’incidence du taux d’imposition sur les contribuables à faible revenu va à l’encontre du paragraphe 15(1) de la Charte.
+[17] Crédit pour frais de scolarité et études – L’appelant affirme que, parce que le crédit personnel de base est excessivement faible, son crédit pour frais de scolarité et études des années antérieures a été éliminé et qu’il n’a donc pu, pour cette raison, reporter aux années futures son crédit pour frais de scolarité et études.
+Pour les motifs susmentionnés, l’argument de l’appelant concernant le niveau du crédit personnel de base n’est pas fondé et il n’est donc pas recevable.
+[18] Paragraphe 15(1) de la Charte – L’appelant affirme aussi qu’il n’est nullement responsable de la dette contractée par le gouvernement du Canada avant qu’il n’ait atteint la majorité. Il dit que cette dette porte atteinte à ses droits selon la Charte, pour cause de discrimination fondée sur l’âge.
+[19] À mon avis, cet argument n’a aucun fondement. S’agissant du remboursement de la dette du gouvernement fédéral, aucun contribuable (jeune ou moins jeune) n’est victime d’une discrimination puisque la dette est la responsabilité de tous les Canadiens. Je crois aussi que l’appelant a tort de croire que les jeunes n’ont pas profité de la dette, puisqu’une bonne partie de la dette a servi à construire d’importantes infrastructures qui profitent à toute la population.
+[20] Selon l’appelant, la différence, dans la Loi, entre le traitement fiscal des non-résidents et celui des résidents constitue une discrimination qui va à l’encontre du paragraphe 15(1) de la Charte.
+[21] Il est juste d’affirmer que certaines dispositions de la Loi imposent les non-résidents d’une manière différente des résidents. Cependant, je ne crois pas que les dispositions de la Loi qui s’appliquent aux non-résidents soient contraires au paragraphe 15(1) de la Charte. Il convient aussi de noter que, dans de nombreux cas, les non-résidents du Canada sont assujettis aux lois fiscales du pays où ils résident.
+[22] Comme je l’ai dit plus haut, l’appelant prétend que certaines portions de la Loi contreviennent à la Charte. Dans la décision Clow v. Canada, 92 DTC 6155, le juge en chef adjoint Jerome écrivait ce qui suit, au paragraphe 12 :
+[…] Les lois fiscales touchent aux intérêts pécuniaires et les tribunaux ont clairement rejeté la proposition voulant que le droit à la vie, à la liberté et à la sécurité de la personne comprenne des recours d'ordre financier. […]
+[23] Pour les motifs susmentionnés, je suis arrivé à la conclusion que l’avis d’appel est frivole ou vexatoire et constitue un recours abusif à la Cour ainsi que le prévoient les alinéas 53b) et c) des Règles de la Cour canadienne de l'impôt (procédure générale), établis sous le régime de la Loi sur la Cour canadienne de l'impôt.
+[24] L’avis de requête de l’intimée est accueilli, avec dépens, et l’avis d’appel déposé en vertu de la Loi est radié.
+[25] L’appelant a interjeté appel en vertu du Régime de pensions du Canada (le « RPC »). Il affirme que les taux de cotisation fixés dans l’article 11.1 du RPC sont contraires au paragraphe 15(1) de la Charte, parce qu’ils établissent une discrimination fondée sur l’âge.
+[26] L’appelant sollicite :
+- un remboursement de toutes les cotisations au RPC (la portion de l’employé et la portion perçue de ses employeurs) versées durant l’année 2001 (2 566 $);
+- l’annulation de ses cotisations payables en 2001;
+- un jugement déclaratoire disant que les taux de cotisation indiqués dans l’article 11.1 du RPC sont contraires au paragraphe 15(1) de la Charte pour cause de discrimination fondée sur l’âge et que l’article 11.1 est donc nul et sans effet en application de l’article 52 de la Loi constitutionnelle de 1982 et/ou de l’article 24 de la Charte;
+- subsidiairement, l’appelant prie la Cour de réduire le chiffre de ses cotisations au RPC payables en 2001 de telle sorte que le montant total des cotisations au RPC versées par l’appelant et les autres membres de son groupe d’âge (à la fois directement et par l’entremise de leurs employeurs) au cours de leur vie corresponde aux prestations totales du RPC que l’appelant et les autres membres de son groupe d’âge peuvent espérer recevoir au cours de leur vie. Autrement dit, il faudrait ramener de 9,9 p. 100 à 5,79 p. 100 le taux combiné de cotisation des employeurs et des employés, éliminant ainsi les transferts intergénérationnels de richesse (voir page 192 du 17e rapport actuariel sur le Régime de pensions du Canada);
+- des dommages exemplaires de 12 000 000 $, en application de l’article 24 de la Charte;
+- les intérêts;
+- les dépens;
+- les autres redressements que justifient les circonstances.
+[27] L’avis de requête déposé dans l’appel relatif au RPC contient ce qui suit :
+[traduction]
+PAR SA REQUÊTE, L’INTIMÉE SOLLICITE :
+1. une ordonnance radiant l’avis d’appel;
+2. subsidiairement, une ordonnance radiant les paragraphes 1 à 7 de l’avis d’appel ou toute combinaison de ces paragraphes;
+3. les dépens;
+4. les autres redressements que la Cour jugera à propos.
+LES MOYENS SUR LESQUELS EST FONDÉE LA REQUÊTE SONT LES SUIVANTS :
+1. L’avis d’appel est, en totalité ou en partie, scandaleux, frivole ou vexatoire, ou constitue un recours abusif à la Cour, comme il est indiqué dans les alinéas 53b) et c) des Règles de la Cour canadienne de l'impôt (procédure générale).
+2. L’avis d’appel ne révèle aucun moyen raisonnable d’appel, comme il est indiqué dans l’alinéa 58(1)b) des Règles de la Cour canadienne de l'impôt (procédure générale);
+3. La Cour canadienne de l'impôt n’a pas le pouvoir d’accorder le redressement sollicité par l’appelant;
+4. L’article 12 des Règles de la Cour canadienne de l'impôt (procédure générale);
+5. L’article 12 de la Loi sur la Cour canadienne de l'impôt, L.R.C. 1985, ch. T-2, et modifications, et le paragraphe 171(1) de la Loi de l’impôt sur le revenu, L.R.C. 1985 (5e suppl.), ch. 1;
+6. Les autres moyens que pourra soulever l’avocat de l’intimée et que pourra autoriser la Cour.
+[28] La Cour canadienne de l'impôt a le pouvoir d’entendre les appels formés contre des déterminations ou des cotisations établies en vertu du RPC. Cependant, il y a des limites au genre de redressement que la Cour peut accorder dans de tels appels. Le redressement sollicité par l’appelant en vertu du RPC n’est pas le genre de redressement que la Cour peut accorder.
+[29] L’appel de l’appelant se rapportant au RPC devrait être annulé, avec dépens en faveur de l’intimée.
+[30] L’appelant a aussi déposé un appel en vertu de la Loi sur l'assurance-emploi (la « LAE »). Il affirme que la LAE est contraire au paragraphe 15(1) de la Charte parce qu’elle établit une discrimination fondée sur l’âge.
+[31] L’appelant sollicite :
+a) un remboursement de toutes les primes d’AE (à la fois la portion de l’employé et la portion perçue de ses employeurs) versées durant l’année 2001 (1 684,63 $) conformément au paragraphe 103(3) de la Loi sur l'assurance-emploi;
+b) l’annulation de ses primes d’AE payables en 2001;
+c) un jugement déclaratoire disant que les taux de cotisation de l’AE fixés dans l’article 66 de la LAE sont contraires au paragraphe 15(1) de la Charte pour cause de discrimination fondée sur l’âge et que l’article 66 est donc nul et sans effet, en application de l’article 52 de la Loi constitutionnelle de 1982 et/ou de l’article 24 de la Charte;
+d) subsidiairement, l’appelant prie la Cour de réduire le chiffre de ses cotisations d’AE payables en 2001 de telle sorte que le montant total des cotisations d’AE payées par l’appelant s’accorde avec le montant autorisé par l’article 66 de la Loi sur l'assurance-emploi;
+e) des dommages exemplaires de 12 000 000 $, en application de l’article 24 de la Charte;
+f) les intérêts;
+g) les dépens;
+h) tels autres redressements que justifient les circonstances.
+[32] L’avis de requête déposé dans l’appel relatif à l’AE contient ce qui suit :
+[traduction]
+PAR SA REQUÊTE, L’INTIMÉE SOLLICITE :
+1. une ordonnance radiant l’avis d’appel;
+2. subsidiairement, une ordonnance radiant les paragraphes 1 à 14 de l’avis d’appel ou toute combinaison de ces paragraphes;
+3. les dépens;
+4. les autres redressements que la Cour jugera à propos.
+LES MOYENS SUR LESQUELS EST FONDÉE LA REQUÊTE SONT LES SUIVANTS :
+1. L’avis d’appel est, en totalité ou en partie, scandaleux, frivole ou vexatoire, ou constitue un recours abusif à la Cour, comme il est indiqué dans les alinéas 53b) et c) des Règles de la Cour canadienne de l'impôt (procédure générale).
+2. L’avis d’appel ne révèle aucun moyen raisonnable d’appel, comme il est indiqué dans l’alinéa 58(1)b) des Règles de la Cour canadienne de l'impôt (procédure générale);
+3. La Cour canadienne de l'impôt n’a pas le pouvoir d’accorder le redressement sollicité par l’appelant;
+4. L’article 12 des Règles de la Cour canadienne de l'impôt (procédure générale);
+5. L’article 12 de la Loi sur la Cour canadienne de l'impôt, L.R.C. 1985, ch. T-2, et modifications, et le paragraphe 171(1) de la Loi de l’impôt sur le revenu, L.R.C. 1985 (5e suppl.), ch. 1;
+6. Les autres moyens que pourra soulever l’avocat de l’intimée et que pourra autoriser la Cour.
+[33] La Cour canadienne de l'impôt a le pouvoir d’entendre les appels formés contre les déterminations ou les cotisations établies en vertu de la LAE. Le redressement sollicité par l’appelant en vertu de la LAE n’est pas le genre de redressement que la Cour peut accorder.
+[34] L’appel formé par l’appelant en vertu de la LAE devrait être annulé, avec dépens en faveur de l’intimée.
+[35] Avant de clore mes observations, je voudrais me référer, en l’approuvant, à la décision rendue par le juge en chef adjoint Bowman à propos du premier avis d’appel déposé par M. Davitt. Aux paragraphes 24 à 37 de la décision Davitt v. The Queen, 2001 DTC 702, le juge en chef adjoint Bowman écrivait ce qui suit :
+[24] Cette cour n'est pas habilitée à accomplir ce que l'appelant lui demande. Notre rôle est d'entendre les appels interjetés à l'encontre de cotisations établies en vertu de certaines lois fédérales. En général, nous pouvons accueillir ou rejeter des appels, annuler ou modifier des cotisations ou déférer l'affaire au ministre du Revenu national pour nouvel examen et nouvelle cotisation. Comme tous les autres tribunaux, cette cour possède certains pouvoirs aux termes de la Charte canadienne des droits et libertés quand les droits et les libertés d'une personne prévus par la Charte sont enfreints, mais ces pouvoirs doivent être exercés à l'intérieur de la compétence que le législateur a conférée à la Cour, comme le précise l'affaire O'Neill Motors Limited c. La Reine, C.C.I., no 94-820(IT)G, 9 novembre 1995 (96 DTC 1486), confirmée par [1998] 4 C.F. 180 (98 DTC 6424) (C.A.F.).
+[25] Le résultat visé par l'appelant en l'espèce outrepasse les pouvoirs ou la compétence de la Cour. L'organe législatif du gouvernement est investi du pouvoir de modifier une loi du Parlement et non l'organe judiciaire.
+[26] Les paragraphes 73 à 113 sont radiés.
+[27] Les paragraphes 114 à 134 traitent du Régime de pensions du Canada (le « RPC » ). L'argument invoqué est que le RPC établit une discrimination fondée sur l'âge, le sexe et l'état matrimonial, en contravention du paragraphe 15(1) de la Charte. Le fondement de cette prétention figure aux paragraphes 124, 127 et 129 qui sont ainsi formulés :
+[TRADUCTION]
+124. Le paragraphe 11.1(1) du RPC agit de façon à établir une discrimination à l'égard des jeunes Canadiens en exigeant qu'ils effectuent des cotisations au RPC à des taux considérablement plus élevés que les Canadiens plus âgés même si les jeunes Canadiens n'ont pas le droit de recevoir des prestations plus élevées du RPC.
+127. Le contribuable soutient que l'article 11.1 du RPC établit une discrimination fondée sur le sexe, en contravention du paragraphe 15(1) de la Charte, puisque le RPC exige que les Canadiens cotisent au RPC aux mêmes taux que les Canadiennes même s'ils recevront des prestations pendant une période considérablement plus courte que les Canadiennes en raison d'une espérance de vie plus courte.
+129. Les Canadiens qui sont célibataires doivent cotiser au RPC aux mêmes taux que les Canadiens mariés même si ces derniers reçoivent des prestations du RPC plus importantes; les conjoints des cotisants au RPC décédés ont droit à des prestations de survivant.
+[28] L'appelant demande la mesure de redressement suivante :
+[TRADUCTION]
+133. - que la Cour déclare que l'article 11.1 du Régime de pensions du Canada contrevient à l'article 15 de la Charte dans la mesure où il exige que les jeunes hommes célibataires versent des cotisations au RPC qui ne sont pas proportionnelles aux prestations du RPC que les personnes de ce groupe peuvent s'attendre à recevoir pendant leur vie.
+134. - que la Cour modifie l'article 11.1 du RPC de sorte que les cotisations au RPC des jeunes hommes célibataires soient proportionnelles aux prestations du RPC que les personnes de ce groupe peuvent s'attendre à recevoir pendant leur vie.
+[29] Il existe des procédures d'appel devant cette cour visant des décisions rendues ou des cotisations établies en vertu du RPC. Elles n'ont pas été suivies. Il y a des limites au genre de mesure de redressement que cette cour peut accorder dans le cadre de ces appels. La mesure de redressement demandée en l'espèce n'est pas du type que la Cour peut accorder. En outre, la modification des lois n'est pas une mesure de redressement que les tribunaux peuvent accorder en vertu de la Charte.
+[30] Les paragraphes 114 à 134 sont radiés.
+[31] Les paragraphes 135 à 160 traitent des cotisations d'assurance-emploi. Essentiellement, l'argument avancé dans ces paragraphes est énoncé aux paragraphes 144 et 145 qui sont ainsi formulés :
+[TRADUCTION]
+144. Le contribuable soutient que la Loi sur l'assurance-emploi (ci-après la « Loi sur l'a.-e. » ) établit une discrimination fondée sur l'âge, en contravention de l'article 15 de la Charte, puisqu'elle exige que le contribuable paie des cotisations même si, en tant qu'étudiant universitaire à plein temps, il n'a pas le droit de percevoir des prestations d'assurance-emploi.
+145. Le contribuable soutient que la Loi sur l'a.-e. établit une discrimination fondée sur l'âge, en contravention de l'article 15 de la Charte, puisque le surplus des cotisations à l'assurance-emploi constitue un « impôt » visant principalement les jeunes Canadiens.
+[32] La mesure de redressement demandée est la suivante :
+[TRADUCTION]
+155. - qu'il soit déclaré que les dispositions de la Loi sur l'a.-e. contreviennent à l'article 15 de la Charte dans la mesure où elles exigent des jeunes Canadiens qui sont étudiants à plein temps à l'université de cotiser au régime d'assurance-emploi aux taux normaux, mais ne leur permettent pas de recevoir les prestations associées;
+156. - qu'il soit déclaré que la Loi sur l'a.-e. contrevient à l'article 15 de la Charte dans la mesure où les cotisations d'assurance-emploi perçues sont excessives et qu'elles sont utilisées afin de financer d'autres programmes du gouvernement du Canada;
+157. - que le paragraphe 5(2) de la Loi sur l'a.-e. soit modifiée de sorte que la catégorie des emplois non assurables, comme cette expression est utilisée dans la Loi, soit élargie afin d'inclure le revenu d'emploi des étudiants à plein temps;
+158. - que la Loi sur l'a.-e. soit modifiée de sorte que les cotisations à l'assurance-emploi n'excèdent pas le montant nécessaire pour assurer des prestations d'assurance-emploi et qu'elles ne soient pas utilisées afin de financer d'autres programmes gouvernementaux;
+159. - que le contribuable reçoive un remboursement complet des cotisations d'assurance-emploi qu'il a versées et des cotisations de l'employeur qui s'y rapportent pour un montant total de 1 200 $;
+160. - que la Cour ordonne d'autres mesures de redressement qu'elle considère appropriées et justes dans les circonstances.
+[33] La Cour n'est pas habilitée à accorder la mesure de redressement demandée. Elle n'est pas en mesure de modifier la loi. En outre, les arguments concernant l'article 15 de la Charte n'ont aucune chance de succès puisqu'ils sont dénués de fondement.
+[34] Les paragraphes 135 à 160 sont radiés.
+[35] Les paragraphes 161 à 171 soutiennent essentiellement que certaines dispositions de la partie I.2 de la Loi de l'impôt sur le revenu qui « récupèrent » les prestations de la sécurité de la vieillesse conformément à une formule dont un élément s'élève à 53 215 $ établissent une discrimination à l'égard des jeunes Canadiens fondée sur l'âge parce que l'indexation partielle du montant de 53 215 $ en vertu du paragraphe 117.1(1) de la Loi de l'impôt sur le revenu érode les prestations de la sécurité de la vieillesse versées aux Canadiens.
+[36] La mesure de redressement demandée est la suivante :
+169. - qu'il soit déclaré que la partie I.2 de la LIR dans sa version de 1998 contrevient au paragraphe 15(1) de la Charte dans la mesure où le seuil de revenu en vertu de la partie I.2 de 53 215 $ n'était que partiellement indexé, érodant ainsi les prestations de la sécurité de la vieillesse nettes d'impôt du contribuable;
+170. - que la LIR soit modifiée de sorte que l'impôt sur le revenu prélevé auprès des jeunes Canadiens soit proportionnel aux prestations du gouvernement que les personnes de sa génération recevront pendant leur vie.
+[37] Les positions avancées en ce qui concerne les prétendues prestations de la sécurité de la vieillesse « récupérées » ne sont pas moins dénuées de fondement que celles concernant l'assurance-emploi et le RPC. L'article 15 de la Charte ne peut pas être invoqué chaque fois qu'une personne n'aime pas une disposition de la Loi de l'impôt sur le revenu. Le fait que les prestations de programmes sociaux soient réparties de manière inégale ne justifie pas en soi l'octroi d'une mesure de redressement en vertu de la Charte. La modification d'une loi fiscale ou de toute autre loi afin de corriger une inégalité perçue ou imaginée n'est pas une action que la Charte habilite la Cour à accomplir. En fait, les arguments en l'espèce sont encore plus dénués de fondement que ceux concernant la Loi sur l'assurance-emploi et le RPC. L'appelant n'est pas à un âge où il peut recevoir des prestations de la sécurité de la vieillesse. Le fait qu'elles pourraient être « récupérées » d'ici 30 ans (en supposant que la loi demeure inchangée, ce qui constitue une hypothèse plutôt extravagante) ne constitue pas un fondement sur lequel une action de cette cour pourrait s'appuyer. La décision rendue par le juge Dickson dans l'arrêt Operation Dismantle (précité) aux pages 456 à 457 le démontre clairement.
+[…]
+[53] En tout état de cause, je ne radie par le présent appel pour des motifs procéduraux. Je le fais parce qu'il est frivole, vexatoire et scandaleux et qu'il ne révèle aucune cause raisonnable d'action. Je n'avais pas vu depuis longtemps une telle quantité de propositions aussi singulièrement dénuées de fondement. On ne peut pas s'objecter au fait que des étudiants en droit débattent de notions imaginatives et vraiment exagérées dans une salle commune d'un collège. Il s'agit sans aucun doute d'une partie salutaire et nécessaire de leur formation. Toutefois, le fait de présenter ces questions devant les tribunaux constitue un gaspillage des fonds publics et du temps de la Cour.
+[Non souligné dans l'original.]
+[36] Je voudrais aussi me référer aux observations faites par mon collègue le juge C.H. McArthur sur l’avis d’appel déposé par M. Davitt sous le Régime de pensions du Canada. Dans la décision Davitt c. M.R.N., numéro de dossier 2003‑283(CPP), le juge McArthur écrivait, dans ses motifs :
+[14] L'appelant semble avoir une fixation pour le RPC et d'autres lois fiscales canadiennes. Le redressement qu'il demande coûterait probablement des milliards de dollars au Trésor. La Cour n'est pas le lieu où traiter de ces bouleversements sociaux colossaux. Je crois que l'appelant ne peut obtenir une forme de redressement qu'auprès du Parlement fédéral.
+[15] Je presse l'appelant de cesser de débattre de ses réformes sociales devant la Cour canadienne de l'impôt. Ses efforts extraordinaires seraient mieux consacrés dans d'autres forums. Les ressources de la Cour seront dépensées à meilleur escient pour des appels bien fondés. La requête est accueillie et l'appel est radié dans son intégralité, les dépens étant adjugés à l'intimée.
+[37] Je voudrais réitérer les observations du juge en chef adjoint Bowman :
+Toutefois, le fait de présenter ces questions devant les tribunaux constitue un gaspillage des fonds publics et du temps de la Cour.
+Signé à Vancouver (Colombie-Britannique), ce 9e jour de février 2004.
+« L.M. Little »
+Juge Little
+Traduction certifiée conforme
+ce 31e jour de mars 2009.
+Christian Laroche, LL.B.
+Réviseur
+RÉFÉRENCE :
+2004CCI133
+Nos DES DOSSIERS DE LA COUR :
+2003-511(IT)G
+2003-284(EI)
+2003-283(CPP)
+INTITULÉ :
+William Shawn Davitt et
+Sa Majesté la Reine, représentée par
+le ministre du Revenu national
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+Les 18 et 19 novembre 2003
+MOTIFS DE L'ORDONNANCE :
+L’honorable juge L.M. Little
+DATE DE L’ORDONNANCE :
+Le 9 février 2004
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Me Jocelyn Espejo Clarke
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

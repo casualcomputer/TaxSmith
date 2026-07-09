@@ -1,0 +1,147 @@
+Title: Seabrook v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29492/index.do
+Corpus path: corpus/cases/tcc/2009/2009-tcc-532-29492-seabrook-v-the-queen-en.md
+Document type: case_law
+Last modified: 2009-10-21
+
+# Seabrook v. The Queen
+
+- Citation: 2009 TCC 532
+- Decision date: 2009-10-21
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6310, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Seabrook v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2009-10-21
+Neutral citation
+2009 TCC 532
+File numbers
+2009-480(IT)I
+Judges and Taxing Officers
+Leslie M. Little
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2009-480(IT)I
+BETWEEN:
+CHRISTOPHER SEABROOK,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeal of Margaret Seabrook (2009‑485(IT)I) on September 8, 2009 and September 11, 2009 at
+Vancouver, British Columbia
+Before: The Honourable Justice L.M. Little
+Appearances:
+Agent for the Appellant:
+Casey Langbroek
+Counsel for the Respondent:
+Matthew Canzer
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 2006 taxation year is dismissed, without costs, in accordance with the attached Reasons for Judgment.
+Signed at Vancouver, British Columbia, this 21st day of October 2009.
+"L.M. Little"
+Little J.
+Docket: 2009-485(IT)I
+BETWEEN:
+MARGARET SEABROOK,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeal of Christopher Seabrook (2009‑480(IT)I) on September 8, 2009 and September 11, 2009 at
+Vancouver, British Columbia
+Before: The Honourable Justice L.M. Little
+Appearances:
+Agent for the Appellant:
+Casey Langbroek
+Counsel for the Respondent:
+Matthew Canzer
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 2006 taxation year is dismissed, without costs, in accordance with the attached Reasons for Judgment.
+Signed at Vancouver, British Columbia, this 21st day of October 2009.
+"L.M. Little"
+Little J.
+Citation: 2009 TCC 532
+Date: 20091021
+Dockets: 2009-480(IT)I
+2009-485(IT)I
+BETWEEN:
+CHRISTOPHER SEABROOK,
+MARGARET SEABROOK,
+Appellants,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Little J.
+A. FACTS
+[1] The appeals were heard in Vancouver, British Columbia on common evidence.
+[2] The Appellants have owned a condominium in Hawaii since 2000.
+[3] Since the purchase of the condominium located in Hawaii (the “Hawaiian Condo”) the Appellants have each filed a Form T1135.
+[4] The Minister of National Revenue (the “Minister”) maintains that the Appellants each filed a Form T1135 for the 2006 taxation year on April 11, 2008.
+[5] The evidence also indicated that the Appellants had an unpaid balance of tax owing for the 2006 taxation year.
+[6] By Notice of Assessment dated June 4, 2008, the Minister assessed the Appellant, Margaret Seabrook, a late filing penalty of $2,500.00 and arrears interest of $247.77 in respect of the late filing of Form T1135 for 2006.
+[7] By Notice of Assessment dated August 7, 2008, the Minister assessed the Appellant, Christopher Seabrook, a late filing penalty of $2,500.00 and arrears interest of $283.59 in respect of the late filing of Form T1135 for 2006.
+[8] By Notification of Confirmation dated November 12, 2008, the Minister confirmed the Assessments issued for the Appellants for 2006.
+B. ISSUE
+[9] Did the Minister properly assess the Appellants for late filing penalties plus interest?
+C. ANALYSIS AND DECISION
+[10] Counsel for the Respondent filed an Affidavit of Dianne Martineau regarding Margaret Seabrook. Ms. Martineau stated in the Affidavit that she is in charge of the appropriate records of the Canada Revenue Agency.
+[11] Ms. Martineau’s Affidavit indicates that Margaret Seabrook filed a Form T1135 on the following dates:
+Taxation Year Date of Filing
+2006 April 11, 2008
+2005 August 1, 2007
+2004 May 23, 2006
+[12] Counsel for the Respondent also filed an Affidavit of Dianne Martineau regarding the tax position of Christopher Seabrook.
+[13] Ms. Martineau’s Affidavit indicates that Mr. Seabrook filed a Form T1135 on the following dates:
+Taxation Year Date of Filing
+2006 April 11, 2008
+2005 August 1, 2007
+2004 June 2, 2006
+[14] Subsection 233.3(3) and section 248 of the Income Tax Act (the “Act”) provide that a taxpayer must file a Form T1135 on or before April 30th of the year following the year for which a tax return was filed.
+[15] Subsection 162(7) of the Act reads as follows:
+(7) Failure to comply. Every person (other than a registered charity) or partnership who fails
+(a) to file an information return as and when required by this Act or the regulations, or
+(b) to comply with a duty or obligation imposed by this Act or the regulations
+is liable in respect of each such failure, except where another provision of this Act (other than subsection (10) or (10.1) or 163(2.22)) sets out a penalty for the failure, to a penalty equal to the greater of $100 and the product obtained when $25 is multiplied by the number of days, not exceeding 100, during which the failure continues.
+[16] Since Form T1135 for the 2006 taxation year for each Appellant was not filed until April 11, 2008, I have concluded that the Minister properly assessed the penalty for the Appellants in accordance with subsection 162(7) of the Act.
+[17] Mr. Casey Langbroek, C.G.A., filed Notices of Appeal for the Appellants on February 10, 2009. The Notices of Appeal refer specifically to the Notifications issued by the Minister for the 2006 taxation year. In the Notice of Appeal for Christopher Seabrook, there is also a reference to the 2004 taxation year. I have concluded that there is no basis for filing a Notice of Appeal for the 2004 taxation year, since a valid Notice of Objection was not filed for the 2004 taxation year.
+[18] The appeals filed on behalf of Christopher Seabrook and Margaret Seabrook are dismissed, without costs.
+Signed at Vancouver, British Columbia, this 21st day of October 2009.
+“L.M. Little”
+Little J.
+CITATION: 2009 TCC 532
+COURT FILE NOS.: 2009-480(IT)I
+2009-485(IT)I
+STYLE OF CAUSE: Christopher Seabrook and
+Margaret Seabrook
+v. Her Majesty The Queen
+PLACE OF HEARING: Vancouver, British Columbia
+DATE OF HEARING: September 8, 2009 and September 11, 2009
+REASONS FOR JUDGMENT BY: The Honourable Justice L.M. Little
+DATE OF JUDGMENT: October 21, 2009
+APPEARANCES:
+Agent for the Appellants:
+Casey Langbroek
+Counsel for the Respondent:
+Matthew Canzer
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

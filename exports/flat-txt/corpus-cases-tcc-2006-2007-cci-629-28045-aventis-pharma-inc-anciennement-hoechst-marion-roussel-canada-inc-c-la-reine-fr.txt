@@ -1,0 +1,212 @@
+Title: Aventis Pharma Inc. (Anciennement Hoechst Marion Roussel Canada Inc.) c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28045/index.do
+Corpus path: corpus/cases/tcc/2006/2007-cci-629-28045-aventis-pharma-inc-anciennement-hoechst-marion-roussel-canada-inc-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2006-11-29
+
+# Aventis Pharma Inc. (Anciennement Hoechst Marion Roussel Canada Inc.) c. La Reine
+
+- Citation: 2007 CCI 629
+- Decision date: 2006-11-29
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1596, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Aventis Pharma Inc. (Anciennement Hoechst Marion Roussel Canada Inc.) c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-11-29
+Référence neutre
+2007 CCI 629
+Numéro de dossier
+2003-4034(IT)G
+Juges et Officiers taxateurs
+Lucie Lamarre
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2003-4034(IT)G
+ENTRE :
+AVENTIS PHARMA INC.
+(ANCIENNEMENT : HOECHST MARION ROUSSEL CANADA INC.),
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Requête entendue le 29 novembre 2006 à Montréal (Québec).
+Devant : L'honorable juge Lucie Lamarre
+Comparutions :
+Avocats de l'appelante :
+Me Wilfrid Lefebvre
+Me Lysane Tougas
+Avocate de l'intimée :
+Me Josée Tremblay
+____________________________________________________________________
+ORDONNANCE
+Vu la requête de l’intimée, présentée aux termes de l’alinéa 110a) des Règles de la Cour canadienne de l’impôt (procédure générale) (« Règles ») afin de contraindre la personne comparaissant en tant que témoin principal au nom de l’appelante, monsieur Pierre Legault, de se présenter de nouveau afin de poursuivre son interrogatoire préalable pour répondre à toute question qui se rapporte à deux points précis, à savoir :
+1) sur les faits qui expliquent de quelle façon les sommes ont été rapatriées du Portugal au Canada, pour ensuite être redirigées en Irlande; et
+2) sur les faits, circonstances, événements entourant les prêts effectués par HIFC (Hoechst International Financial Company, en Irlande), à l’appelante;
+La requête est rejetée, avec dépens contre l’intimée.
+Signé à Montréal, Québec, ce 18e jour d'octobre 2007.
+« Lucie Lamarre »
+Juge Lamarre
+Référence : 2007CCI629
+Date : 20071018
+Dossier : 2003-4034(IT)G
+ENTRE :
+AVENTIS PHARMA INC.
+(ANCIENNEMENT : HOECHST MARION ROUSSEL CANADA INC.),
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DE L’ORDONNANCE
+La juge Lamarre
+[1] L’intimée a présenté devant la Cour une requête aux termes de l’alinéa 110a) des Règles de la Cour canadienne de l’impôt (procédure générale) (« Règles ») pour contraindre l’appelante à répondre à certaines questions posées lors de son interrogatoire préalable. Plus précisément, elle demande à la Cour d’émettre une ordonnance enjoignant la personne comparaissant en tant que témoin principal au nom de l’appelante, M. Pierre Legault, de se présenter de nouveau afin de poursuivre son interrogatoire préalable pour répondre à toute question qui se rapporte à deux points précis, à savoir :
+1) sur les faits qui expliquent de quelle façon les sommes ont été rapatriées du Portugal au Canada, pour ensuite être redirigées en Irlande; et
+2) sur les faits, circonstances, événements entourant les prêts effectués par HIFC (Hoechst International Financial Company, en Irlande), à l’appelante.
+[2] L’intimée demande également à la Cour, en émettant son ordonnance, d’enjoindre à M. Pierre Legault de faire toutes les recherches raisonnables portant sur ces deux points en litige auprès de tous les dirigeants, préposés, agents et employés, passés ou présents, au Canada ou à l’étranger, le tout conformément au paragraphe 95(2) des Règles.
+[3] Finalement, l’intimée demande également à la Cour de lui permettre de modifier sa réponse à l’avis d’appel remodifié de nouveau (« réponse »), suite à l’obtention des réponses de l’appelante à ses questions, et ce, aux termes de l’article 54 des Règles.
+[4] L’intimée exige également que l’appelante lui verse sans délai les dépens de la présente requête, de même que ceux de la poursuite de l’interrogatoire, ou des dépens qui auraient été engagés inutilement, le tout aux termes de l’alinéa 110d) des Règles.
+[5] Le procureur de l’appelante s’est objecté à la poursuite de questions portant sur ces deux points précis lors de l’interrogatoire préalable de M. Pierre Legault. Il soutient que ces questions portent sur une série de faits que l’intimée a niée ou ignorée il est vrai, mais sur lesquels le ministre du Revenu national (« ministre ») a fondé les cotisations sous appel. Or, l’intimée n’a allégué aucun fait dans sa réponse pour soulever quelque position alternative que ce soit.
+[6] Les moyens invoqués par l’intimée dans la réponse au soutien des cotisations sous appel et qui sont pertinents au présent débat sont les suivants :
+1) Relativement aux années d’imposition 1996, 1999 et 2000, l’intimée s’appuie sur le paragraphe 95(6) de la Loi de l’impôt sur le revenu (« LIR ») en soutenant que la principale raison de l’acquisition par l’appelante des actions de Marion Merrell Dow International Servicios de Gestao Ltda (« Gestao » au Portugal) et de HIFC (en Irlande) fut de lui permettre d’éviter, de réduire ou de reporter le paiement d’un impôt ou d’un autre montant qui est payable par ailleurs en vertu de la LIR, de sorte que lesdites actions sont réputées ne pas avoir été acquises (voir paragraphe 21 de la réponse).
+2) En ce qui concerne les années d’imposition 1994 à 1999 inclusivement, et dans la mesure où le paragraphe 95(6) de la LIR (plus particulièrement l’alinéa 95(6)b) de la LIR) est jugé inapplicable en l’espèce, l’intimée soutient que la règle générale anti-évitement (« RGAE »), soit l’article 245 de la LIR, est applicable. Pour soutenir l’application de la RGAE, l’intimée cite une série d’opérations suite auxquelles l’appelante aurait bénéficié d’avantages fiscaux. Dans cette série d’opérations, on retrouve, entre autres, la constitution en société de Gestao (au Portugal) et de HIFC (en Irlande), l’investissement de capitaux par l’appelante dans Gestao et HIFC, les opérations visant à rediriger les sommes investies par l’appelante de Gestao à HIFC, et les opérations permettant à l’appelante de rapatrier au Canada les sommes investies. Selon l’intimée, cette série d’opérations et chacune des opérations qui la compose, constituent des opérations d’évitement au sens du paragraphe 245(3) de la LIR, en ce qu’elles n’ont pas été principalement effectuées pour des objets véritables, mais ont plutôt été effectuées pour obtenir des avantages fiscaux (voir paragraphes 23, 25 et 26 de la réponse).
+[7] Le procureur de l’appelante invoque donc qu’en fondant ses cotisations sur l’application du paragraphe 95(6) et de l’article 245 de la LIR, et en n’invoquant pas de position alternative, l’intimée n’a plus le loisir, dans le cadre de l’interrogatoire préalable, de poser toute une série de questions sur des faits qui ont été tenus pour acquis dans l’établissement des cotisations sous appel. Si l’intimée doutait de la véracité des faits sur lesquels le ministre s’est fondé pour établir les cotisations, le procureur de l’appelante soutient que c’est au stade de la vérification effectuée par le ministre que cet exercice aurait dû être fait. Il soutient que l’interrogatoire préalable n’a pas pour but de se substituer à la vérification, et qu’une fois que les points en litige sont exposés de façon claire dans les procédures, l’intimée n’a pas le loisir de se lancer dans une partie de pêche pour voir si elle ne pourrait pas modifier la base des cotisations sous appel.
+[8] Le procureur de l’appelante soulève quatre principes à respecter selon lui :
+1) Le rôle des procédures déposées devant la Cour est de bien situer le débat entre les parties, soit de déterminer ce qui est en jeu tant sur le plan factuel que sur le plan juridique;
+2) Une fois que l’on connaît les enjeux, le but de l’interrogatoire préalable est de permettre à chaque partie de connaître exactement la position factuelle de l’autre, afin d’empêcher les surprises;
+3) Lorsqu’un fait est admis, toute question relativement à ce fait n’a plus sa place lors de l’interrogatoire;
+4) L’interrogatoire préalable a des limites dans le cadre des procédures judiciaires. On ne peut s’en servir pour tenter de compléter la vérification, qui aurait dû se faire au niveau administratif par les représentants du ministre.
+[9] Le procureur de l’appelante ajoute que l’appelante s’est déjà pliée de bonne grâce aux nombreuses questions de l’intimée. M. Pierre Legault a été interrogé durant cinq jours, sur toute une série de questions, provoquée par la production intégrale de documents demandée par l’intimée dans le cadre de l’article 82 des Règles. Ces questions s’éloignaient souvent du débat, tel que délimité dans les procédures. M. Pierre Legault a répondu à 164 engagements. Il a déjà répondu à de multiples reprises aux questions pertinentes portant sur les raisons de l’acquisition de Gestao et de HIFC, lesquelles en réalité sont au cœur de l’application du paragraphe 95(6) de la LIR. Il n’y a aucune allégation de fraude ou de fausses représentations dans la réponse. Selon le procureur de l’appelante, l’intimée a largement couvert, lors de l’interrogatoire préalable de M. Legault qui, il le répète, s’est étendu sur cinq jours, le débat qui oppose les parties.
+[10] C’est pourquoi, il s’oppose aux questions que l’intimée veut encore poser puisqu’elles ne sont pas pertinentes. Selon lui, l’appelante a le droit de connaître l’orientation de l’intimée, et celle-ci ne peut se permettre d’élargir le débat, dans le cadre de l’interrogatoire préalable, au-delà de ce qu’elle a mis de l’avant dans sa réponse.
+[11] L’avocate de l’intimée soutient de son côté qu’elle est justifiée dans le cadre de l’interrogatoire préalable de vérifier si les faits allégués dans l’avis d’appel remodifié de nouveau une deuxième fois (« avis d'appel ») sont véridiques. C’est la raison pour laquelle la majorité des faits a été niée ou ignorée dans la réponse. Elle soutient que l’appelante n’a pas fourni à la vérificatrice, Mme Johanne Clément, à l’étape de la vérification, toute l’information qui lui avait été demandée. Ainsi, par exemple, celle-ci aurait demandé à quelques reprises les détails du gain lors du rachat et de la vente des actions de Gestao en janvier 1996. Selon l’avocate de l’intimée, il s’agit là d’informations qu’elle veut obtenir en posant des questions à l’appelante et auxquelles son procureur s’objecte ici. Par ailleurs, il appert que certaines informations données à la vérificatrice ont été contredites lors de l’interrogatoire préalable. Elle cite à ce sujet un prêt qui aurait été fait par Gestao à l’appelante, alors que selon les informations recueillies par Mme Clément, elle aurait compris que ce prêt avait été fait par Gestao à une société liée allemande. Elle donne comme autre exemple que lors de la vérification, l’appelante aurait mentionné que HIFC ne faisait que des prêts d’argent. Or, selon les documents fournis lors de la production intégrale des documents aux termes de l’article 82 des Règles, on constaterait que l’appelante faisait aussi des placements temporaires dans des banques et qu’elle aurait aussi servi de conduit pour réduire l’impôt de la partie 1.3 des sociétés canadiennes. Les autres contradictions relevées ont trait à de la documentation qui semble avoir été portée à l’attention de Mme Clément (je me réfère au dossier de requête de l’intimée, à l’onglet 4B).
+[12] L’avocate de l’intimée n’allègue pas fraude ou fausses représentations. Elle dit qu’à ce stade-ci des procédures, elle n’est pas en mesure d’affirmer que les faits qui ont été présumés par le ministre, sur la base de l’information donnée par l’appelante, laquelle est la seule détentrice des faits, sont véridiques.
+[13] Sur la question du rapatriement des sommes investies dans Gestao au Canada et redirigées vers HIFC, elle soutient qu’il peut être important de savoir, par exemple, qui s’occupait de la gestion au Portugal, et si la situation au Portugal est telle que décrite par l’appelante dans son avis d’appel. Sur la question des prêts de HIFC à l’appelante, elle dit que c’est important de vérifier la nature des prêts effectués par HIFC.
+[14] Elle admet que les réponses obtenues suite à cette ligne de questions pourraient engendrer une modification de la réponse dans laquelle elle pourrait invoquer de nouveaux faits pour appuyer ses prétentions sur la base actuelle des cotisations et éventuellement même changer les fondements des cotisations en s’appuyant sur le paragraphe 152(9) de la LIR. Elle soutient toutefois qu’elle n’en est pas là et que si les faits allégués dans l’avis d’appel s’avèrent par suite de l’interrogatoire préalable, la réponse ne sera tout simplement pas modifiée. Il pourrait y avoir au contraire entente sur les faits.
+ANALYSE
+[15] À la lecture de l’avis d’appel et de la réponse, il y a effectivement plusieurs points qui ont été niés ou ignorés par l’intimée, mais sur lesquels le ministre s’est appuyé pour établir les cotisations sous appel. Je vais les relater ci‑après.
+[16] Au paragraphe 2 de l’avis d’appel, il est invoqué que la société Gestao a été constituée en vertu des lois du Portugal au début de 1994. Dans sa réponse, au paragraphe 4, l’intimée admet que Gestao a été formée au début de 1994 mais ignore et n’admet pas les autres faits. Par contre, au paragraphe 16 l) de la réponse, l’intimée reconnaît que pour établir les cotisations, le ministre s’est appuyé sur l’hypothèse ou la conclusion suivante, à savoir Gestao a été constituée en société résidente du Portugal.
+[17] Au paragraphe 3 de l’avis d’appel, on allègue que l’appelante détenait 50% des actions de Gestao, et l’autre 50% était la propriété de la société italienne Biochimica (« MI ») liée à l’appelante. Ceci est d’abord ignoré par l’intimée au paragraphe 3 de la réponse, et ensuite retenu dans ses hypothèses de fait au paragraphe 16 n) de la réponse.
+[18] Au paragraphe 8 de l’avis d’appel, on dit que Gestao a utilisé le produit d’émission d’actions plus les revenus générés pour faire des prêts à des sociétés non résidentes auxquelles l’appelante et Gestao sont liées. Ceci est nié par l’intimée au paragraphe 2 de la réponse, mais par ailleurs au paragraphe 16 q), l’intimée indique que Gestao a utilisé les sommes investies pour effectuer un prêt à la société allemande liée.
+[19] Au paragraphe 14 de l’avis d’appel, on allègue qu’en 1994, l’appelante et sa filiale canadienne détenue en propriété exclusive, (« MMDCRI »), ont formé une société à responsabilité limitée en vertu des lois de l’Irlande, soit HIFC. Ceci est nié par l’intimée au paragraphe 2 de la réponse et du même souffle retenu comme hypothèse de fait au paragraphe 16 y) et on précise même que HIFC a été constituée selon les mêmes termes que ceux définis par l’appelante, en y ajoutant que ceci s’est fait le 22 novembre 1994.
+[20] Au paragraphe 16 de l’avis d’appel, il est mentionné que l’entreprise de HIFC consiste à prêter de l’argent à des sociétés non résidentes du groupe, lesquelles sont liées à l’appelante et MMDCRI. Ceci est d’abord nié par l’intimée au paragraphe 2 de la réponse et ensuite on retient comme hypothèse de fait au paragraphe 16 cc) de la réponse que HIFC utilise les sommes investies par l’appelante et MMDCRI pour effectuer certains prêts à des sociétés non résidentes liées.
+[21] Au paragraphe 36 de l’avis d’appel, on allègue que le 30 décembre 1999, la filiale canadienne de l’appelante (HMRCRI) a été liquidée dans l’appelante. Ce fait est d’abord ignoré au paragraphe 3 de la réponse, puis retenu comme hypothèse de fait au paragraphe 16 ii)(vi).
+[22] Au paragraphe 38 de l’avis d’appel, on soutient que le 14 décembre 1999, HIFC a convenu de verser un dividende de 43 millions $ US à l’appelante et de lui prêter la somme de 208 millions $ US. Ce fait est ignoré au paragraphe 3 de la réponse, alors qu’il devient une hypothèse de fait à la base de la cotisation aux paragraphes 16 ii)(i) et 16 ii)(iv).
+[23] Au paragraphe 39 de l’avis d’appel, on dit que le 23 décembre 1999, le conseil d’administration de HIFC a convenu de changer la résidence de HIFC de l’Irlande au Canada à compter du 1er janvier 2000. D’abord ignorés au paragraphe 3 de la réponse, l’appelante s’appuie sur ces faits pour établir les cotisations aux paragraphes 16 ii)(v) et 16 ii)(vii).
+[24] Au paragraphe 42 de l’avis d’appel, on dit que le 3 avril 2000, les statuts de HIFC ont été modifiés de sorte que toutes les actions ordinaires sauf deux actions, soient converties en 214 234 844 actions rachetables pour 1 $ US par action. D’abord ignoré au paragraphe 3 de la réponse, l’intimée reconnaît ce fait à la base de ses cotisations au paragraphe 16 ii)(x).
+[25] Au paragraphe 43 de l’avis d’appel, on ajoute qu’après cette conversion, HIFC a racheté ses 214 234 844 actions rachetables détenues par l’appelante et a réglé le prix de rachat en émettant à l’appelante une nouvelle action ordinaire de HIFC. Ce fait fut ignoré au paragraphe 3 de la réponse, puis repris comme hypothèse de fait au paragraphe 16 ii)(xii).
+[26] Au paragraphe 44 de l’avis d’appel, il est stipulé que HIFC a dès lors transféré 214 234 843 $ US de son capital à sa réserve distribuable, ce qui est d’abord ignoré au paragraphe 3 de la réponse, puis retenu comme hypothèse de fait à la base des cotisations au paragraphe 16 ii)(xiv).
+[27] Au paragraphe 45 de l’avis d’appel, on souligne qu’après la conversion du capital de HIFC en réserve distribuable, HIFC a déclaré un dividende de 215 millions $ US à l’appelante le 3 avril 2000 et un autre de 1 128 411 $ US le 28 juin 2000. Ce fait est ignoré au paragraphe 3 de la réponse et ensuite tenu pour acquis aux paragraphes 16 ii)(xv) et 16 ii)(xvi). L’intimée reconnaît également au paragraphe 16 ii)(xvii) que la somme due par HIFC en paiement du rachat des actions détenues par l’appelante est de 216 128 411 $ US. Ce dernier fait est maintenant mis en doute par les procureurs de l’intimée.
+[28] Je reconnais avec le procureur de l’appelante que la façon de procéder de l’intimée est très inusitée. Cette façon de faire, si je suis le raisonnement de l’intimée, ouvre la porte à la possibilité de soulever de nouveaux éléments de preuve dont on ne fait pas état dans les procédures. Ceci, il me semble, n’est pas le but de l’interrogatoire préalable.
+[29] La portée de l’interrogatoire préalable dans le cadre d’un appel logé devant notre Cour se retrouve à l’article 95 des Règles. L’article 95 se lit comme suit :
+Portée de l’interrogatoire
+95(1) La personne interrogée au préalable répond, soit au mieux de sa connaissance directe, soit des renseignements qu’elle tient pour véridiques, aux questions légitimes qui se rapportent à une question en litige ou aux questions qui peuvent, aux termes du paragraphe (3), faire l’objet de l’interrogatoire préalable. Elle ne peut refuser de répondre pour les motifs suivants :
+a) le renseignement demandé est un élément de preuve ou du ouï-dire;
+b) la question constitue un contre-interrogatoire, à moins qu’elle ne vise uniquement la crédibilité du témoin;
+c) la question constitue un contre-interrogatoire sur la déclaration sous serment de documents déposée par la partie interrogée.
+(2) Avant l’interrogatoire préalable, la personne interrogée doit faire toutes les recherches raisonnables portant sur les points en litige auprès de tous les dirigeants, préposés, agents et employés, passés ou présents, au Canada ou à l’étranger; si cela est nécessaire, la personne interrogée au préalable peut être tenue de se renseigner davantage et, à cette fin, l’interrogatoire préalable peut être ajourné.
+(3) Une partie qui interroge au préalable peut obtenir la divulgation de l’opinion et des conclusions de l’expert engagé par la partie interrogée, ou en son nom, sur une question en litige dans l’instance ainsi que ses nom et adresse. Toutefois, la partie interrogée n’est pas tenue de divulguer le renseignement demandé, ni les nom et adresse de l’expert, si :
+a) l’opinion et les conclusions de l’expert sur une question en litige dans l’instance ont été formulées uniquement en prévision d’une poursuite envisagée ou en cours;
+b) la partie interrogée s’engage à ne pas appeler l’expert à témoigner à l’audience.
+(4) Sauf ordonnance contraire de la Cour, une partie qui interroge au préalable peut obtenir la divulgation des noms et adresses des personnes dont on pourrait raisonnablement s’attendre à ce qu’elles aient connaissance des opérations ou des situations en litige en l’instance.
+[30] Dans l’affaire Shell Canada Ltd. c. Canada, [1996] A.C.I. no 1313 (QL), le juge Christie, de notre Cour (tel qu’il était alors), a eu à se pencher sur la portée d’un interrogatoire préalable. Il s’exprimait ainsi aux paragraphes 9 et 10 :
+9 Dans le jugement 569437 Ontario Inc. v. The Queen, 94 DTC 1922 (C.C.I.), voici ce qui est dit à la page 1923 :
+[...] il est à noter que le paragraphe 95(1) des Règles de la Cour canadienne de l'impôt (procédure générale) (« les Règles générales ») exige que la personne interrogée au préalable réponde, soit au mieux de sa connaissance directe, soit des renseignements qu'elle tient pour véridiques, aux questions légitimes qui se rapportent à une question en litige en l'instance. Il est également fait mention de l'affaire Sydney Steel Corp. v. Ship Omisalj et al., [1992] 52 F.T.R. 144, dans laquelle le juge MacKay, de la Section de première instance de la Cour fédérale, a dit ceci, à la page 147 :
+Les avocats des parties conviennent que le critère relatif au bien-fondé d'une question posée dans le cadre d'un interrogatoire préalable est moins rigoureux que le critère relatif à l'admissibilité de la preuve au procès, et que le critère qu'il convient d'appliquer est de savoir si les renseignements sollicités par une question peuvent être pertinents aux points qui, au stade de l'interrogatoire préalable, sont litigieux dans les actes de procédure déposés par les parties. Comme les défendeurs l'ont indiqué, c'est le juge suppléant d'appel Norris qui a énoncé ce critère dans l'arrêt McKeen and Wilson Ltd. v. Gulf of Georgia Towing Co. Ltd. et al., [1965] 2 R.C.É. 480, à la page 482 :
+[TRADUCTION] [...] les questions auxquelles on s'oppose peuvent porter sur des points pertinents aux litiges soulevés dans les conclusions écrites. C'est tout ce que les défendeurs doivent démontrer. Il appartient au savant juge de première instance de décider si elles sont ou non pertinentes et admissibles au procès.
+Et à la page 148 :
+[...] lorsqu'on objecte l'absence de bien-fondé d'une question parce qu'elle est dénuée de pertinence pour des raisons données, la partie qui pose la question doit convaincre la cour que les renseignements qu'elle veut obtenir peuvent être pertinents à un fait en litige. Il n'est probablement pas difficile de satisfaire à ce critère vu l'objectif de franchise que les règles cherchent à promouvoir au cours des étapes préparatoires au procès, en particulier dans le cadre d'un interrogatoire préalable, peu importe qu'il se déroule oralement ou au moyen de questions par écrit. De plus, il est établi que lorsqu'on ne sait pas très bien si une question doit faire l'objet d'une réponse, on laisse le bénéfice du doute à la partie qui veut obtenir cette réponse, vu l'objectif fondamental de franchise : (Royal Specialty Sales v. Mayda Industries Ltd. (1986), 4 F.T.R. 77, Madame le juge Reed, à la page 79).
+J'adopte les deux propositions énoncées dans les motifs du jugement que le juge Chilcott a rendu dans l'affaire Algoma Central Railway v. Herb Fraser and Associates Ltd. et al., (1988) 36 C.P.C. (2d) 8. En sa qualité de membre de la Cour divisionnaire de la Cour suprême de l'Ontario, le juge Chilcott siégeait en appel d'une ordonnance du juge Montgomery. En premier lieu, la norme concernant la pertinence des questions posées au stage de l'interrogatoire préalable a une portée plus étendue que celle qui s'applique à l'instruction. En second lieu, les questions posées à l'interrogatoire préalable peuvent être légitimes, étant donné que la question de l'admissibilité et celle de l'importance à accorder à la preuve à l'instruction relèvent du juge du procès.
+10 Voir également Holmested & Watson, Ontario Civil Procedure, sous la rubrique « SCOPE OF EXAMINATION: GENERAL, Rule 31.06(1) » [PORTÉE DE L'INTERROGATOIRE : GÉNÉRALITÉS, paragraphe 31.06(1) des Règles], aux pages 31-48 :
+[TRADUCTION]
+Ce qui se rapporte aux questions en litige, telles qu'elles sont définies dans les plaidoiries, a une portée extrêmement large. La partie qui interroge a le droit de se livrer à pareil interrogatoire en vue d'étayer sa propre preuve et de soumettre cette preuve à la partie adverse de façon à obtenir des aveux et à restreindre la portée des questions en litige. Elle a le droit d'interroger une personne de façon à démolir la preuve de son adversaire ou à découvrir la preuve qu'elle doit réfuter et les faits (ou la preuve) sur lesquels ce dernier se fonde. On ne saurait s'y opposer en disant que la partie qui interroge connaît déjà ces faits. La partie qui interroge a le droit d'obtenir des aveux qui l'aideront à présenter sa preuve ou à démolir celle de l'adversaire, et, de fait, c'est l'un des principaux buts de l'interrogatoire préalable. Voir, d'une façon générale, Williston et Rolls, The Law of Civil Procedure (1970), 782-787.
+Et aux pages 31-49 :
+[TRADUCTION]
+Selon une règle fondamentale, les plaidoiries définissent les limites de l'interrogatoire préalable. L'interrogatoire préalable doit se rapporter aux questions litigieuses telles qu'elles ressortent du dossier : Playfair v. Cormack (1913), 4 O.W.N. 817 (H.C.); Jackson v. Belzburg, [1981] 6 W.W.R. 273 (C.A.C.-B.). La partie qui interroge n'a pas le droit d'invoquer des éléments de preuve dont les plaidoiries ne font pas état et de poser des questions au sujet d'un élément qu'elle n'a pas tenté d'énoncer dans ses plaidoiries. Cependant, « dans un interrogatoire préalable, est pertinent tout ce qui peut aider directement ou indirectement la partie qui sollicite l'interrogatoire à présenter sa preuve ou à réfuter celle de son adversaire » : McKergow v. Comstock (1906), 11 O.L.R. 637 (C.A.). De toute évidence, l'interrogatoire ne peut pas porter sur des questions non pertinentes, mais la pertinence doit être déterminée par les plaidoiries, interprétées avec une latitude raisonnable : ibid. Le tribunal ne devrait pas avoir à mener une enquête approfondie sur la pertinence de chaque question; lorsque les questions se rapportent d'une façon générale aux points litigieux soulevés, il faut y répondre : Czuy v. Mitchell (1976), 2 C.P.C. 83 (C.A.Alb.). La tendance est d'élargir l'interrogatoire au préalable; le « droit d'interroger n'est pas limité aux faits directement en litige, mais s'étend à tout fait dont l'existence ou l'inexistence se rapporte à l'existence ou à l'inexistence des faits directement en litige : Marriott v. Chamberlain (1886), 17 Q.B.D. 154.
+Et aux pages 31-55 et 56 :
+[TRADUCTION]
+Non seulement la personne interrogée doit-elle donner les renseignements dont elle dispose, mais elle doit aussi se renseigner. Voici ce que le juge Haines a dit dans le jugement Rubinoff v. Newton, ci-dessus : « Je ne puis songer à aucune question plus simple et plus directe que celle de savoir sur quels faits on se fonde. Il se peut que le témoin ne soit pas au courant de ces faits, mais son avocat doit le renseigner. Il faut se rappeler que, dans un interrogatoire préalable, une partie doit être en mesure d'énoncer sa preuve d'une façon intelligente.
+[31] En droit civil, il existe deux types d’interrogatoire préalable, soit l’interrogatoire avant défense prévu à l’article 397 du Code de procédure civile du Québec (« C.p.c. ») et l’interrogatoire après défense prévu à l’article 398 C.p.c.
+[32] Les auteurs Denis Ferland et Benoît Émery interprètent le rôle du juge à l’interrogatoire préalable dans leur ouvrage Précis de procédure civile du Québec[1] :
+1.2 Rôle du juge à l’interrogatoire préalable
+Conséquents avec leurs décisions donnant une interprétation libérale des articles 397 et 398 C.p.c., sous réserve des restrictions énoncées ci-après, les tribunaux ont statué que le juge saisi d’une objection doit agir avec une grande circonspection puisqu’au stade de l’interrogatoire préalable, il lui est difficile d’apprécier le lien qui peut exister entre une question et les allégations d’une procédure. Cela dit, il faut néanmoins que les questions portent sur les faits se rapportant tant à la demande (art. 397 C.p.c.) ou au litige (art. 398 C.p.c.). Ainsi, le juge ne peut interpréter ces deux articles au-delà de leurs termes précis. Nous verrons d’ailleurs plus loin que, au‑delà des grands principes, les parties ont souvent été empêchées en pratique d’obtenir communication d’un écrit.
+Le rôle premier du juge saisi d’une objection consiste à déterminer si les termes des articles 397 et 398 C.p.c. autorisent la question, c’est-à-dire s’il s’agit d’une question portant sur un fait ou un écrit se rapportant à la demande (397 C.p.c.) ou au litige (art. 398 C.p.c.). Il doit quand même respecter les règles d’administration de la preuve et il ne peut pas, à titre d’illustration, laisser prendre copie d’un écrit de nature privilégiée ou confidentielle. La valeur probante est laissée à l’appréciation du juge du procès.
+[…]
+1.6 Faits pouvant faire l’objet de l’interrogatoire
+La portée de l’interrogatoire avant défense (art. 397 C.p.c.) diffère de celle de l’interrogatoire après défense (art. 398 C.p.c.). Dans le premier cas, l’interrogatoire ne peut porter que sur les faits se rapportant à la demande alors que dans le second, il peut porter sur tous les faits se rapportant au litige. La portée de l’interrogatoire avant défense est donc plus restreinte. […]
+[Références omises.]
+[33] La jurisprudence québécoise énonce aussi certains principes. Ainsi, dans la décision Labarre c. Spiro Mega Inc., REBJ 99-14772 (C.S.), [1999] J.Q. no 4690 (QL), la Cour supérieure du Québec se prononçait ainsi sur la finalité de l’interrogatoire préalable, au paragraphe 19 :
+19 La finalité des art. 397, 398 et suivants C.p.c. est bien établie: permettre à une partie d'obtenir de l'autre communication de l'ensemble des faits et documents pertinents au litige, avant l'audition. Dans l'affaire 150460 Canada Inc. c. Gazin , [1999] J.Q. no 2750 (QL), J.E. 99-1683, le soussigné écrit:
+En somme depuis 1983, il s'agit d'une procédure de communication de la preuve, contrôlée par la partie adverse et limitée au contexte apparaissant du dossier, ce qui ne permet pas une « recherche à l'aveuglette » ou des questions qui ne peuvent emmener des réponses susceptibles de constituer une preuve (par exemple, violation du secret professionnel). Elle vise deux objectifs distincts: un dévoilement des faits et documents sous le contrôle de la partie adverse et l'obtention d'éléments susceptible de constituer de la preuve lors du procès.
+La situation au Québec est ainsi identique à celle des autres provinces où le “Examination for Discovery” est défini comme suit dans The Dictionary of Canadian Law, 2e éd.Carswell, 1995:
+Embraces two main elements: discovery of facts in the hands of an adversary and, the obtaining of admission for use in evidence ... Minute Muffler Installations Ltd v. Alberta, (1981) 23 C.P.C. 52 at 54 , 16 Alta L.R. (2d) 35, 23 L.C.R. 128, 30 A.R. 447 (C.A.) ...
+Dans la province voisine, M. le juge Trainor de la Cour supérieure de justice dans Ontario Bean Producers' Marketing Board c. W.G. Thompson & Sons Ltd., (1981) 32 O.R. (2d) 69, jugement confirmé par la Cour divisionnaire, (1982) 35 O.R. (2d) 711 , énonce ce qui suit à la page 72 :
+The purposes of discovery are:
+(a) to enable the examining party to know the case he has to meet;
+(b) to procure admissions to enable one to dispense with formal proof;
+(c) to procure admissions which may destroy an opponent's case;
+(d) to facilitate settlement, pre-trial procedures and trials;
+(e) to eliminate or narrow issues;
+(f) to avoid surprise at trial...”
+Tel est aussi l'état du droit au Québec.
+[Références omises.]
+[34] De même, dans l’arrêt Commercial Union Assurance Company of Canada c. Nacan Products Limited, EYB 1991-63809 (C.A.), [1991] A.Q. no 818 (QL), la Cour d’appel du Québec donne ainsi son interprétation sur les interrogatoires avant et après défense (articles 397 et 398 C.p.c.) aux paragraphes 13, 14 et 15 :
+13 Une simple comparaison entre les textes de ces deux articles révèle la différence essentielle d'objectifs qu'a poursuivis le législateur en les édictant. Dans le premier cas (article 397), il s'agit uniquement de permettre à la partie poursuivie de se renseigner sur les faits et les moyens que le poursuivant entend faire valoir lors du débat sur le mérite de l'action. Le but visé est alors strictement de faciliter l'élaboration d'une contestation éclairée et appropriée. Au contraire, après que la défense a été produite, les allégations de faits étant connues et les positions respectives de droit étant prises, l'article 398 se situe dans une perspective nouvelle et élargie. Il vise à faciliter, dans toute la mesure du possible et à l'intérieur de certaines balises, une divulgation généreuse de la preuve que chacune des parties entend utiliser au cours de l'instruction.
+14 Lorsqu'on aborde le cas de l'article 398 et pour donner dans la pratique une suite logique à sa raison d'être, il est clair qu'il doit être appliqué avec libéralité. À mon avis, toute preuve, qu'elle découle d'une question posée ou d'un document dont on veut prendre connaissance, est recevable lors de l'interrogatoire après défense à la condition :
+1. qu'au moins a priori elle paraisse se rapporter au litige;
+2. que sa divulgation soit de nature à faire progresser le débat en mettant à la portée de celui qui interroge des faits ou des écrits dont il n'a pas déjà connaissance personnelle (faits) ou une possession actuelle (écrits);
+3. que les questions posées et les documents dont on demande la divulgation soit suffisamment précis et adéquatement circonscrits pour éviter que la recherche de la preuve ne dégénère en une “expédition de pêche”;
+4. dans le cas d'un écrit, qu'il fasse preuve en soi.
+15 A plusieurs reprises, notre Cour s'est prononcée dans le sens des principes que j'ai énoncés ci-haut. Je me contenterai de citer Blaikie c. La Commission des valeurs mobilières du Québec - C.A.M. 500-09-001530-898, 1990-03-16, J.E. 90-595 où notre collègue, monsieur le juge Baudouin, a fait une étude exhaustive de la portée de l'article 398, des principes généraux qui s'y appliquent et des exceptions qui s'y rattachent.
+[35] Ainsi, il faut retenir de la doctrine et de la jurisprudence ci-haut citées, qu’avant tout, les questions que l’on pose lors de l’interrogatoire préalable portent sur des points pertinents aux litiges soulevés dans les plaidoiries écrites.
+[36] Par ailleurs, bien que ce qui se rapporte aux questions en litige, telles qu’elles sont définies dans les plaidoiries, peut avoir une portée très large, il ne faut pas oublier que le but derrière cet exercice est, dans la mesure du possible, de restreindre le litige et d’obtenir des aveux s’il y a lieu. Ainsi, si la partie qui interroge connaît déjà les faits, elle a droit d’obtenir des aveux qui l’aident à présenter sa preuve ou à démolir celle de l’adversaire. Ceci ne veut pas dire toutefois une recherche à l’aveuglette de faits qui auraient pu, à mon sens, être découverts avant que les plaidoiries ne définissent les questions litigieuses.
+[37] Dans la présente affaire, j’ai lu dans son intégralité les transcriptions de l’interrogatoire préalable de M. Pierre Legault, de même que celui de M. Patrice Legault, un autre représentant de l’appelante, qui a répondu aux questions de l’intimée sur un autre point en litige qui ne pose pas de problème à ce stade-ci. J’ai également lu la transcription de l’interrogatoire préalable des deux vérificateurs agissant pour le ministre, Mme Johanne Clément et M. Pierre Jollin.
+[38] Madame Clément dit avoir mis au moins 570 heures dans cette vérification, dont au moins 250 heures sur les transactions en litige (voir dossier de requête de l’intimée, onglet 4B), page 1). Ceci est sans compter le temps consacré par d’autres représentants du ministre dans ce dossier. Il est vrai qu’elle a demandé certaines informations qu’elle n’a pas obtenues avant de clore les cotisations, mais pour la majorité des faits, il ressort de son interrogatoire préalable qu’elle a accepté l’information reçue sans chercher à l’approfondir plus avant. Il en est de même pour M. Jollin qui n’a pas cherché à scruter dans le détail l’information recueillie des représentants de l’appelante.
+[39] Dans le cadre des procédures judiciaires, l’appelante s’est pliée de bonne grâce à la requête de l’intimée de produire une liste intégrale de tous les documents qui étaient en sa possession, et qui portaient sur toute question en litige entre les parties, aux termes de l’article 82 des Règles. Cette façon de faire n’est heureusement pas la norme à notre Cour, où les parties se prévalent en général de l’article 81 des Règles, qui permet une communication partielle des documents qui pourraient être présentés comme preuve au procès, soit pour établir ou aider à établir une allégation de fait dans un acte de procédure déposé par une partie, soit pour réfuter ou aider à réfuter une allégation de fait dans un acte de procédure déposé par une autre partie.
+[40] En obtempérant volontairement à la communication intégrale des documents, l’appelante s’est vue obligée de fournir à l’intimée une kyrielle de courriels, d’informations et de documentation, pas nécessairement pertinente ou utile au procès. L’intimée s’est servie de cette abondante documentation pour imposer un interrogatoire d’une durée de cinq jours à M. Pierre Legault, qui plusieurs années plus tard, n’était très souvent pas en mesure de donner les explications demandées. À plusieurs reprises, c’est l’avocat de l’appelante qui devait tâcher de donner une explication.
+[41] À mon avis, MM. Pierre Legault et Patrice Legault ont déjà répondu abondamment aux questions que pouvait avoir l’intimée sur les points en litige et sur celles auxquelles on n’avait pas répondu au stade de la vérification. Si les vérificateurs avaient voulu scruter davantage l’information obtenue lors de la vérification, il leur aurait été loisible de le faire à ce moment-là. D’ailleurs, la vérification s’est prolongée sur une durée de quatre ans, délai qui donnait amplement le temps au ministre de s’informer d’autant s’il avait jugé utile de le faire.
+[42] Une fois les points en litiges définis dans les plaidoiries, les procureurs doivent se conformer au processus judiciaire. À mon avis, le rôle de l’interrogatoire préalable est, dans une certaine mesure, de circonscrire l’étendue du débat et non pas d’en élargir sa portée. Je crois utile ici de me servir des paragraphes 107(3) et 108(1) des Règles pour mettre un terme à l’interrogatoire préalable de l’appelante sur les questions faisant l’objet de cette requête. Les paragraphes 107(3) et 108(1) se lisent comme suit :
+Objections et décisions
+107. (3) La Cour peut, à la suite d'une requête, décider du bien-fondé d'une question qui a fait l'objet d'une objection et à laquelle il n'a pas été répondu.
+Déroulement irrégulier de l'interrogatoire
+108. (1) Un interrogatoire peut être ajourné à la demande de la personne interrogée ou d'une partie présente ou représentée à l'interrogatoire afin d'obtenir, par voie de requête, des directives quant à la poursuite de l'interrogatoire ou une ordonnance y mettant fin ou en limitant la portée, dans les cas suivants :
+a) le droit d'interroger est utilisé abusivement en raison d'un nombre excessif de questions injustifiées ou l'exercice de ce droit est entravé par un nombre excessif d'interruptions ou d'objections injustifiées;
+b) l’interrogatoire est effectué de mauvaise foi ou déraisonnablement (1) de manière à importuner, (2) à gêner ou (3) à accabler la personne interrogée;
+c) de nombreuses réponses sont évasives, vagues ou indûment longues;
+d) on a négligé ou refusé à tort de produire un document pertinent à l'interrogatoire.
+[43] Je considère que l’intimée est rendue au point où ses questions deviennent excessives et injustifiées. Je suis d’avis de rejeter la requête de l’intimée et de mettre un terme à l’interrogatoire préalable de l’appelante sur toute question faisant l’objet de la présente requête.
+[44] L’appelante a droit aux dépens de la présente requête.
+Signé à Montréal, Québec, ce 18e jour d'octobre 2007.
+« Lucie Lamarre »
+Juge Lamarre
+RÉFÉRENCE : 2007CCI629
+Nº DU DOSSIER DE LA COUR : 2003-4034(IT)G
+INTITULÉ DE LA CAUSE : AVENTIS PHARMA INC. c.
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATE DE L’AUDIENCE : le 29 novembre 2006
+MOTIFS DE L’ORDONNANCE PAR : L'honorable juge Lucie Lamarre
+DATE DE L’ORDONNANCE : le 18 octobre 2007
+COMPARUTIONS :
+Avocats de l'appelante :
+Me Wilfrid Lefebvre
+Me Lysane Tougas
+Avocate de l'intimée :
+Me Josée Tremblay
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelante:
+Nom : Me Wilfrid Lefebvre
+Me Lysane Tougas
+Cabinet : Ogilvy Renault
+Montréal (Québec)
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Denis FERLAND, et Benoît EMERY, Précis de procédure civile du Québec, 4e édition, Cowansville (Québec), Les Éditions Yvon Blais Inc., 2003, vol. 1, art. 1 à 481 C.p.c., aux pages 568 et suiv.

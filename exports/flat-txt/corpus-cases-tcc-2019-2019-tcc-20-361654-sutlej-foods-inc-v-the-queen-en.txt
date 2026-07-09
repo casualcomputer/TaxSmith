@@ -1,0 +1,187 @@
+Title: Sutlej Foods Inc. v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/361654/index.do
+Corpus path: corpus/cases/tcc/2019/2019-tcc-20-361654-sutlej-foods-inc-v-the-queen-en.md
+Document type: case_law
+Last modified: 2019-01-21
+
+# Sutlej Foods Inc. v. The Queen
+
+- Citation: 2019 TCC 20
+- Decision date: 2019-01-21
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4343, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Sutlej Foods Inc. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2019-01-21
+Neutral citation
+2019 TCC 20
+File numbers
+2018-3663(IT)G, 2018-3836(IT)G, 2018-3838(IT)G, 2018-3840(IT)G
+Judges and Taxing Officers
+Bruce Russell
+Subjects
+Income Tax Act
+Notes
+A correction was made on February 14, 2019.
+Decision Content
+Docket: 2018-3663(IT)G
+BETWEEN:
+SUTLEJ FOODS INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+Docket: 2018-3838(IT)G
+AND BETWEEN:
+SURINDER SINGH DHERIA,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+Docket: 2018-3840(IT)G
+AND BETWEEN:
+RAVINDER SINGH DHERIA,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+Docket: 2018-3836(IT)G
+AND BETWEEN:
+PARAMJIT SINGH DHERIA,
+Appellant
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Agent for the Appellants:
+Hesham El Shaboury
+Counsel for the Respondent:
+Sébastien Budd
+ORDER
+WHEREAS the Appellants have each brought a motion seeking an Order permitting them to be represented in their respective general procedure appeals by their accountant, Mr. Hesham El Shaboury;
+AND WHEREAS the Respondent opposes the motions;
+UPON CONSIDERATION of the Respondent’s written submissions (no written representations were filed by the Appellants) and also of the Appellants’ pleadings in their notice of motion and assertions in the affidavit of Mr. El Shaboury filed in support of the motions;
+IT IS ORDERED THAT the applications of the four Appellants are dismissed, without costs. They are ordered to retain counsel for these four general procedure appeals and to advise the Registry of the identity or identities of such counsel within 60 days of the issuance date of this Order, failing which the Respondent may bring a motion for the dismissal of these appeals. Should the Appellants or any of them wish to “bump down” their appeals to be informal procedure appeals then the matter of representation for such appeals may be revisited upon fresh application therefor.
+Signed at Toronto, Ontario, this 21st day of January 2019.
+“B. Russell”
+Russell J.
+Citation: 2019TCC20
+Date: 20190207
+Docket: 2018-3663(IT)G
+BETWEEN:
+SUTLEJ FOODS INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+Docket: 2018-3838(IT)G
+AND BETWEEN:
+SURINDER SINGH DHERIA,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+Docket: 2018-3840(IT)G
+AND BETWEEN:
+RAVINDER SINGH DHERIA,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+Docket: 2018-3836(IT)G
+AND BETWEEN:
+PARAMJIT SINGH DHERIA,
+Appellant
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+AMENDED REASONS FOR ORDER
+Russell J.
+[1] The corporate Appellant and three individual Appellants have applied to be represented in their respective appeals (anticipated to be heard jointly as based on common transactions) by their accountant Mr. Hesham El Shaboury, CPA, CGA, rather than retaining counsel to represent them. The grounds for each of these motions include that the Appellants lack financial resources to retain legal counsel and that retaining Mr. El Shaboury would be much less expensive.
+Corporate Appellant
+[2] The Respondent (Crown) opposes the motion in respect of the corporate appellant, Sutlej Foods Inc., citing Masa Sushi Japanese Restaurant Inc. v. HMQ, et al., 2017 TCC 239. This decision holds that the Tax Court of Canada Act (Canada) (Act) and in particular subsection 17.1(1) thereof cannot be interpreted as contemplating that a corporate appellant in a general procedure appeal may be represented by non-counsel. And accordingly, as the Rules are subordinate to the Act, nor can they, and in particular Rule 30(2) thereof, permit a corporate appellant in a general procedure appeal to be represented by non-counsel. As well, the Respondent opposes the three Appellant individuals being represented by Mr. El Shaboury, on the basis that he is not a lawyer.
+[3] The Respondent although not the Appellants filed written representations in these motions to be at the request of the Appellants determined on the basis of written representations. The Appellants had submitted a fulsome notice of motion and affidavit deposed to by Mr. El Shaboury. In its representations the Respondent expresses disagreement with a decision of this Court - BCS Group Business Services Inc. v. HMQ, 2018 TCC 120, which decision I understand is under appeal. BCS Group expressed disapproval with Masa Sushi, concluding that the Act and Rules do validly contemplate appointment of non-counsel to represent a corporate appellant in a general procedure appeal.
+[4] With respect, I prefer the BCS Group conclusion. My four reasons for doing so are: presumption against tautology; statute law prevails over common law; textual, contextual and purposive interpretation; and section 12, federal Interpretation Act. These reasons are briefly discussed below, following for convenience the setting out of the English texts of section 17.1 of the Act and Rule 30.
+[5] Section 17.1 of the Act provides as follows:
+Right to appear
+17.1 (1) A party to a proceeding in respect of which this section applies may appear in person or be represented by counsel, but where the party wishes to be represented by counsel, only a person who is referred to in subsection (2) shall represent the party.
+Officers of the Court
+(2) Every person who may practise as a barrister, advocate, attorney or solicitor in any of the provinces may so practise in the Court and is an officer of the Court.
+- and -
+Rule 30 provides as follows:
+Representation
+Representation by Counsel
+30(1) Subject to subsection (3), a party to a proceeding who is an individual may act in person or be represented by counsel.
+30(2) Where a party to a proceeding is not an individual, that party shall be represented by counsel except with leave of the Court and on any conditions that it may determine.
+30(3) Unless the Court orders otherwise, a person who is the representative of a party under a legal disability in a proceeding shall be represented by counsel, except where that person is also counsel acting in such a capacity.
+(1) Presumption Against Tautology:
+[6] My first reason for not accepting that subsection 17.1(1) prohibits non-counsel representing a corporate appellant in a general procedure matter is the “presumption against tautology”. This presumption is a basic principle of statutory interpretation. Sullivan, R., Sullivan on the Construction of Statutes (2014, 6th ed.) at pg. 211 describes this principle as follows:
+It is presumed that the legislature avoids superfluous or meaningless words, that it does not pointlessly repeat itself or speak in vain. [Quebec (A.G.) v. Carrières Ste. Therese Ltee, [1985] S.C.J. No. 37, [1985] 1 S.C.R. 831, at 838 (S.C.C.)]. Every word in a statute is presumed to make sense and to have a specific roll to play in advancing the legislative purpose....
+[7] In R. v. Proulx, [2000] S.C.J. No. 6, [2000] 1 S.C.R. 61, at para. 28 (S.C.C.)] Lamer C.J. wrote:
+It is a well-accepted principle of statutory interpretation that no legislative provision should be interpreted so as to render it as mere surplusage.
+[8] Thus, meaning must be accorded the subsection 17.1(1) language that a “party…may appear in person or be represented by counsel”. The term “party”, used here without restriction, thus includes all nature of parties, thus including persons who are animate (e.g., individuals) and those who are inanimate (e.g. corporations) Accordingly, a corporate party as well as a non-corporate party “may appear in person or be represented by counsel”.
+[9] Parliament would be aware that unlike an individual, a corporation, being an inanimate person, cannot literally represent itself. Applying the presumption against tautology, Parliament thus intended a corporate party to be able to be represented by either counsel or some third party individual who was not a lawyer.
+[10] Indeed, in applying the presumption against tautology, the pertinent question becomes not whether these subsection 17.1(1) Parliamentary words should be given effect for corporate appellants, but rather how they should be given effect for such appellants. And that is where Rule 30(2) comes in - permitting an application to this Court for leave to have a non-counsel individual represent a corporate appellant.
+(2) Statute Law Prevails Over Common Law:
+[11] The Masa Sushi decision, at paras. 15 and 16 thereof, appears to conclude that subsection 17.1(1) of the Act cannot authorize corporate appellants to be represented by non-counsel, because at common law a corporation cannot appear in person. But here we are dealing with statute law - subsection 17.1(1). A statutory provision, provided it is constitutional, should prevail over common law to the extent of any conflict inter se.
+(3) Textual, Contextual and Purposive Interpretation:
+[12] Statutory provisions are to be interpreted on a textual, contextual and purposive basis – Canada Trustco, 2005 SCC 54, para 66. The textual basis of subsection 17.1(1) of the Act is clear. It explicitly provides, as emphasized in BCS Group, that a party (thus including a corporate party no less than a non-corporate party) may appear in person.
+[13] As for contextual basis, Masa Sushi (paras. 35-37) confirms (although not referencing this as a contextual basis, as I am here), that this Court has implied jurisdiction to control its own processes, which normally includes as to whom may appear before it.
+[14] As for the purposive basis of interpretation, my colleague Justice Graham explicitly recognized in Masa Sushi (para. 28), and I wholly concur with him, that,
+[a]llowing corporations to appear in person increases access to justice. This is particularly true for small, closely held corporations that could not otherwise afford counsel and for corporations that are fighting over less money than they would spend on legal fees.
+[15] The Masa Sushi analysis of purposive basis then goes on to refer back to the origin of section 17.1 to find as to what was its originating purpose. In my view, the above admirable quotation respecting statutory endorsement of access to justice readily prevails, whether speaking in the present or past context. A statutory provision, per section 10 of the federal Interpretation Act, is always speaking.
+[16] Thus, I conclude that the textual, contextual and purposive interpretations all accord that meaning must be given to the clear subsection 17.1(1) Parliamentary language that a party, a term encompassing both corporate and non-corporate parties, may appear in person in a general procedure appeal.
+(4) Section 12, federal Interpretation Act:
+[17] Section 12 of the federal Interpretation Act provides:
+Every enactment is deemed remedial, and shall be given such, fair large and liberal construction and interpretation as best ensures the attainment of its objects.
+[18] Any “reading out” of Parliament’s clear subsection 17.1(1) language, that a corporate party may appear in person, would not respect this basic Interpretation Act provision. How can blanket denial of any ability of a corporate appellant in a general procedure appeal to be represented by non-counsel be a, “fair, large and liberal construction and interpretation as best ensures the attainment of [subsection 17.1(1)’s] object”? I suggest that this provision’s object is reflected in its purpose, noted above as being promotion of access to justice.
+[19] On the bases of these four reasons, I conclude that subsection 17.1(1) of the Act does contemplate that a corporate party in a general procedure appeal in this Court may appear in person (being the alternative to being represented by counsel), necessarily (as a corporation itself is inanimate) in the sense of being represented by someone who is not a counsel - as permitted via a Rule 30(2) leave application as herein.
+[20] Turning to this Rule 30(2) application of the corporate Appellant, no evidentiary material was provided supporting that the corporation was financially unable to retain counsel for this general procedure appeal. Having a lawyer represent an appellant is important, for a lawyer would be expected to know applicable jurisprudence, courtroom procedure and pre-hearing procedures. General procedure is not informal procedure.
+[21] Additionally, with respect to Mr. El Shaboury, he is said to be the “outside accountant” for the four Appellants, including this corporate Appellant. Therefore potentially he would be an important if not key witness at any hearing of this appeal. From a court process perspective this lessens his attraction as an appropriate non-counsel representative (acknowledging that an individual representing him or herself (as an animate party can do per subsection 17.1(7)) will normally be permitted to give evidence on his/her own behalf).
+[22] For these two reasons I will dismiss the corporate Appellant’s application per Rule 30(2), without costs.
+Individual Appellants:
+[23] The Rules do not seem to provide for an application for individuals who are appellants in general procedure appeals to be represented by anyone other than counsel or themselves. Rule 30(1) seems clear, that an individual who is an appellant “may act in person or be represented by counsel”. On this basis, as the three Appellants who are individuals do not wish to represent themselves (which unlike for corporate appellants is literally possible), I must deny their applications to be represented by Mr. El Shaboury, who is not a lawyer.
+Conclusion:
+[24] The applications of the four Appellants are dismissed, without costs. They are ordered to retain counsel for these four general procedure appeals and to advise the Registry of the identity or identities of such counsel within 60 days of the issuance date of this Order, failing which the Respondent may bring a motion for the dismissal of these appeals. Should the Appellants or any of them wish to “bump down” their appeals to be informal procedure appeals then the matter of representation for such appeals may be revisited upon fresh application therefor.
+This Amended Reasons for Judgment is issued in substitution for the Reasons for Judgment dated January 21st, 2019
+Signed at Ottawa, Ontario, this 7th day of February 2019.
+“B. Russell”
+Russell J.
+CITATION:
+2019TCC20
+COURT FILE NO.:
+2018-3663(IT)G
+2018-3838(IT)G
+2018-3840(IT)G
+2018-3836(IT)G
+STYLE OF CAUSE:
+SUTLEJ FOODS INC. AND HER MAJESTY THE QUEEN
+SURINDER SINGH DHERIA AND HER MAJESTY THE QUEEN
+RAVINDER SINGH DHERIA AND HER MAJESTY THE QUEEN
+PARAMJIT SINGH DHERIA AND HER MAJESTY THE QUEEN
+REASONS FOR ORDER BY:
+The Honourable Justice B. Russell
+DATE OF ORDER:
+DATE OF AMENDED REASONS FOR ORDER:
+January 21, 2019
+February 7, 2019
+REPRESENTATIVES:
+Agent for the Appellants:
+Hesham El Shaboury
+Counsel for the Respondent:
+Sébastien Budd
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada

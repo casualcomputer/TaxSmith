@@ -1,0 +1,154 @@
+Title: 1338664 Ontario Limited v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29032/index.do
+Corpus path: corpus/cases/tcc/2008/2008-cci-350-29032-1338664-ontario-limited-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2008-06-12
+
+# 1338664 Ontario Limited v. The Queen
+
+- Citation: 2008 CCI 350
+- Decision date: 2008-06-12
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6841, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+1338664 Ontario Limited v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-06-12
+Référence neutre
+2008 CCI 350
+Numéro de dossier
+2006-2517(IT)G
+Juges et Officiers taxateurs
+Judith Woods
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2006-2517(IT)G
+ENTRE :
+1338664 ONTARIO LIMITED,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+________________________________________________________________
+Appel entendu les 10 et 11 décembre 2007 à Toronto (Ontario)
+Devant : L’honorable juge Judith Woods
+Comparutions :
+Avocats de l’appelante :
+Me Richard G. Fitzsimmons
+Me Olivier Leger
+Avocate de l’intimée :
+Me Jenny P. Mboutsiadis
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’encontre des cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 2001 et 2002 est accueilli, et les cotisations sont renvoyées au ministre du Revenu national pour nouvel examen et nouvelle cotisation en tenant compte du fait que, pour chacune des années, la moitié des gains nets tirés des opérations sur titres est imputable au revenu, l’autre moitié étant imputable au capital.
+Aucuns dépens ne sont adjugés.
+Signé à Ottawa, Canada, ce 12e jour de juin 2008.
+« J. Woods »”
+Juge Woods
+Traduction certifiée conforme
+ce 6e jour d’août 2008.
+Aleksandra Koziorowska, LL.B.
+Référence : 2008CCI350
+Date : 20080612
+Dossier : 2006-2517(IT)G
+ENTRE :
+1338664 ONTARIO LIMITED,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Woods
+[1] L’appel porte sur la question de savoir si une société appartenant à une famille a eu raison d’imputer des gains et des pertes relatifs à des opérations sur titres à son capital plutôt qu’à son revenu.
+[2] Dans ses déclarations de revenus pour les années d’imposition s’étant terminées le 31 mai 2001 et le 31 mai 2002, l’appelante, 1338664 Ontario Limited, a déclaré des gains en capital de 341 750 $ et de 511 640 $ respectivement. Les gains étaient tirés d’opérations sur titres, et leur montant était supérieur à celui des pertes en capital qu’elle avait subies. Les deux montants susmentionnés ont été considérés comme un revenu d’entreprise dans les nouvelles cotisations qui ont été établies à l’égard de l’appelante.
+[3] Ainsi qu’en fait état la réponse, le ministre du Revenu national s’est fondé sur les hypothèses suivantes pour établir les cotisations.
+[traduction]
+10. Lorsqu’il a établi les nouvelles cotisations à l’égard de l’appelante et confirmé celles‑ci, le ministre s’est fondé sur les hypothèses de fait suivantes :
+a) l’appelante a été constituée en société en février 1999 et a déclaré exercer ses activités dans l’industrie de la pose de revêtements de sol et de moquette, son exercice se terminant le 31 mai;
+b) pendant l’exercice s’étant terminé le 31 mai 2001, l’unique actionnaire de l’appelante était la fiducie familiale Gus George;
+c) pendant l’exercice s’étant terminé le 31 mai 2002, l’unique actionnaire de l’appelante était Gus George;
+d) pendant toutes les périodes pertinentes, Gus George a été le président de l’appelante et son unique employé;
+e) Gus George avait effectué beaucoup d’opérations mobilières à titre personnel et de ce fait, avait une grande expérience des marchés boursiers et les connaissait bien;
+f) l’appelante a cessé toutes ses activités de pose de revêtements de sol et de moquette au cours de son exercice 2000 et n’a plus exercé ces activités au cours de ses années d’imposition 2001 et 2002 ;
+g) pendant ses années d’imposition 2001 et 2002, l’unique activité de l’appelante a été l’achat et la vente de titres;
+h) pendant ses années d’imposition 2001 et 2002, la totalité du revenu de l’appelante a été tirée de ses opérations mobilières;
+i) l’appelante menait ses propres recherches et remettait des instructions à ses courtiers de Toronto‑Dominion Evergreen Investment Services (ci‑après « TD ») et de Canadian Imperial Bank of Commerce Wood Gundy (ci‑après « CIBC ») afin d’acheter et de vendre des valeurs mobilières cotées en bourse;
+j) pendant son exercice 2001, l’appelante avait des comptes d’opérations mobilières auprès de TD, à la fois en devises canadiennes et en devises américaines (ci-après « US »); elle a ouvert un autre compte d’opérations mobilières en dollars canadiens à CIBC au cours de son exercice 2002 ;
+k) l’appelante a effectué 207 ventes de titres au cours de son année d’imposition 2001, et 324 au cours de son année d’imposition 2002;
+l) pendant l’exercice 2001, l’appelante a vendu 272 900 actions en devises canadiennes, dont 100 % ont été détenues pendant moins de 30 jours et 69 %, pendant moins de 7 jours;
+m) pendant l’exercice 2001, l’appelante a vendu 1 141 870 actions en devises américaines, dont 65 % ont été détenues pendant moins de 30 jours;
+n) pendant l’exercice 2002, l’appelante a vendu 761 420 actions en devises canadiennes, dont 81 % ont été détenues pendant moins de 30 jours; 44 % des actions vendues provenant du compte TD et 80 % des actions vendues provenant du compte CIBC ont été détenues pendant moins de 7 jours;
+o) pendant l’exercice 2002, l’appelante a vendu 1 275 671 actions en devises américaines, dont 64 % ont été détenues pendant moins de 30 jours;
+p) le produit des opérations mobilières de l’appelante dépasse le coût des titres vendus d’au moins 341 750 $ pour son année d’imposition 2001, et d’au moins 511 640 $ pour son année d’imposition 2002;
+q) pendant les années d’imposition 2001 et 2002, l’appelante a détenu des valeurs mobilières non pas en vue de recevoir des dividendes à long terme, mais afin de réaliser des gains en procédant à des achats et à des ventes rapides de ces titres.
+Analyse
+[4] L’intimée estime que les gains nets que l’appelante a tirés des opérations sur titres sont un revenu d’entreprise, à inclure dans le calcul du revenu en vertu de l’article 3 de la Loi de l’impôt sur le revenu.
+[5] En général, la question qu’il faut se poser pour savoir si des opérations sur titres peuvent être qualifiées d’exploitation d’une entreprise consiste à se demander si le contribuable a un plan lucratif visant la réalisation d’un bénéfice ou si le bénéfice obtenu est une simple plus-value : Irrigation Industries Ltd. v. M.N.R., 62 DTC 1131 (C.S.C.), Hawa c. La Reine, 2006 CCI 612, 2007 DTC 28.
+[6] Abondant dans le même sens, la Chambre de la chancellerie du Royaume‑Uni a mentionné dans Salt v. Chamberlain, 53 TC 143, que pour que des opérations sur titres constituent une activité de caractère commercial, il faut que « quelque chose » soit apporté en contrepartie du revenu. Les commentaires suivants figurent à la page 152 de cette décision :
+[traduction] […] Les propos du lord Wilberforce et du lord Simon de Glaisdale dans Ransom v. Higgs, 50 TC 1, aux pages 88 et 95, résument bien l’affaire. Selon lord Wilberforce, à la page 88 :
+[traduction] « On ne peut définir avec précision les “activités de nature commerciale”, mais on peut définir quelques-unes de leurs caractéristiques habituelles. On peut également trouver quelques indices interdisant de conclure qu’il s’agit d’un profit tiré d’une activité de caractère commercial. La question de savoir s’il s’agit d’une activité de caractère commercial devient parfois affaire de degré, de fréquence, d’organisation, même d’intention; l’organe chargé de l’appréciation des faits doit alors décider d’après les éléments de la preuve si une ligne a été franchie. »
+Il poursuit :
+[traduction] « Une activité de caractère commercial suppose normalement un échange de biens ou de services en contrepartie de quelque chose – non pas de n’importe quel service, car quelques-uns se classent parmi les activités professionnelles ou d’emploi, mais l’activité de caractère commercial implique que quelque chose est fourni à titre commercial. […] »
+[Non souligné dans l’original; renvoi omis.]
+[7] C’est une question de degré que de décider si l’activité consistant à faire des opérations sur des valeurs mobilières a franchi la ligne de démarcation qui sépare l’investissement passif et l’exploitation d’une entreprise. La difficulté est souvent de décider où il faut trancher.
+[8] L’avocat de l’appelante s’appuie sur la jurisprudence du Canada, du Royaume‑Uni et des États-Unis pour faire valoir que les opérations sur titres sont généralement présumées être imputables au capital. Il se peut que ce soit la situation au Royaume-Uni et aux États-Unis, mais la question n’a pas encore été réglée au Canada (Robertson v. The Queen, 98 DTC 6227 (C.A.F.), note 18). Je signale en outre que l’application d’une telle présomption au Canada pourrait avoir des conséquences très dures pour le contribuable dans certaines circonstances, car l’allègement fiscal relatif aux pertes en capital prévu dans la Loi de l’impôt sur le revenu est très limité.
+[9] L’application d’une quelconque présomption peut toutefois s’avérer utile pour favoriser la certitude sur le plan juridique dans les cas où la législation n’est pas très claire. Dans une situation comme celle en l’espèce, je pense qu’il faut garder à l’esprit le principe selon lequel, comme on le dit souvent, « le match nul profite au contribuable ». Cette expression accrocheuse suppose que le principe s’applique uniquement si les faits font en sorte qu’il est extrêmement difficile de départager les deux camps, mais la décision célèbre du juge Estey dans Johns‑Manville Canada Inc. v. The Queen, 85 DTC 5373 (C.S.C.) en permet une application plus large. Le commentaire suivant qu’il a formulé figure à la page 5384 de l’arrêt en question :
+[…] Une telle décision est de plus conforme à un autre concept fondamental de droit fiscal portant que, si la loi fiscale n'est pas explicite, l'incertitude raisonnable ou l'ambiguïté des faits découlant du manque de clarté de la loi doit jouer en faveur du contribuable.
+[10] Je passe à présent aux faits de l’espèce.
+[11] Initialement, M. George avait commencé à faire des placements sur le marché boursier en son nom propre, puis, sur l’avis de son comptable, l’activité a été transférée à une société appartenant à la famille.
+[12] Je décrirais M. George comme un investisseur avisé, dont la stratégie comprend l’utilisation de comptes sur marge et de ventes à découvert.
+[13] Les valeurs mobilières achetées par l’appelante pendant la période visée ont en majorité été détenues pendant moins de 30 jours, souvent moins d’une semaine. M. George a témoigné qu’il ne s’attardait pas à la durée de la période de détention, mais se concentrait plutôt sur les bénéfices. Il a déclaré qu’il avait pour stratégie de conserver un titre jusqu’à ce que sa valeur augmente de huit à dix pour cent, et qu’il était prêt à le détenir un an au plus. En fait, les gains étaient souvent obtenus en moins d’une semaine.
+[14] Il me semble que M. George est un investisseur relativement bien informé, mais qu’il s’agit pour lui d’une occupation occasionnelle dans la mesure où il n’a pas véritablement étudié le marché boursier et qu’il se fie dans une grande mesure aux recommandations d’amis et de connaissances qui ne travaillent pas dans le domaine de la négociation.
+[15] Si l’on se fonde sur les hypothèses du ministre, le nombre d’opérations sur titres effectuées par l’appelante semble exceptionnellement élevé, 207 et 324 pendant les deux années d’imposition en cause. Ces chiffres donnent toutefois une impression tout à fait erronée de l’intensité de ses activités.
+[16] L’appelante allègue que les calculs du ministre surestiment le nombre réel d’opérations, car pour exécuter un seul ordre il faut souvent accomplir plusieurs opérations. Cela est logique et, bien qu’il eût été préférable qu’un témoin indépendant corrobore la preuve, j’accepterai cette assertion.
+[17] L’appelante fait valoir qu’un calcul plus probant consisterait à tenir compte du nombre des sociétés dont des titres ont été vendus en moyenne chaque mois, et il y en a quatre. Ceci me semble une démarche raisonnable, si je me fonde sur mon bref examen des sommaires d’opérations qui ont été présentés en preuve.
+[18] Quant au temps consacré à cette activité, M. George a témoigné qu’il y accordait très peu de temps chaque jour, étant donné que son occupation principale consistait à assumer les fonctions de propriétaire d’une entreprise de rénovation. Il a déclaré qu’il se fiait aux recommandations de tiers et ne passait pas beaucoup de temps à faire des recherches lui-même. Il ne lisait pas les journaux, mais se servait toutefois des services de discussion sur Internet pour se renseigner sur quelques sociétés.
+[19] L’avocate de l’intimée a soutenu que M. George a consacré à ses activités boursières beaucoup plus de temps qu’il ne l’a admis, et elle m’a demandé de tirer une conclusion en ce sens compte tenu des honoraires de gestion élevés que M. George recevait de l’appelante.
+[20] Je ne puis retenir cet argument. M. George n’avait pas à consacrer beaucoup de temps à cette activité s’il se fiait aux recommandations de tiers. Qui plus est, je ne pense pas que le montant des honoraires de gestion soit révélateur du temps passé à s’en occuper. Cela a peut-être été simplement une façon efficace d’attribuer à M. George les gains réalisés sur le marché boursier. On peut concevoir que la fiducie familiale, qui était l’actionnaire unique de la société pour l’année d’imposition 2001, aurait pu se plaindre si les honoraires versés à M. George avaient été excessifs, mais aucune preuve ni allégation n’a été avancée à cet égard.
+[21] L’avocate de l’intimée a en outre soutenu que les brèves périodes de détention sont en soi une preuve permettant de conclure à l’existence une démarche de caractère commercial. Il se peut que ces brèves périodes tendent à confirmer ce point de vue, mais je pense qu’il est important de disposer d’éléments précis au sujet de la façon dont les bénéfices ont véritablement été réalisés. D’après les commentaires formulés dans Salt v. Chamberlain, pour qu’une activité consistant à faire des opérations sur des valeurs mobilières puisse être considérée comme l’exploitation d’une entreprise, le contribuable doit apporter « quelque chose » à titre commercial. Qu’a été ce « quelque chose » en l’espèce?
+[22] Le témoignage de M. George sur ce point a été vague. Il a déclaré qu’il achetait parfois des actions d’une société peu avant la publication des états financiers de celle-ci et qu’en de très rares occasions, il avait acheté des actions sur la foi de rumeurs de prise de contrôle. Mais il fonctionnait surtout « à l’instinct », a-t-il déclaré.
+[23] À mon avis, ceci ne constitue pas une preuve satisfaisante. M. George n’a peut-être pas appliqué de méthode rigoureuse à son activité de négociation, mais le nom des sociétés dans lesquelles l’appelante a investi n’apparaissait pas par magie.
+[24] La Cour aurait voulu disposer d’éléments de preuve plus détaillés sur le mode de sélection des titres. Sur quelle base M. George exerçait-il son instinct? Quand il a fini de témoigner, je l’ai prié de détailler ce point plus avant, mais il n’a pas jeté beaucoup de lumière sur la question. L’intimée devrait toutefois assumer une partie de la responsabilité à cet égard, car cet élément de preuve n’a presque pas été contesté pendant le contre-interrogatoire.
+[25] Dans les circonstances, j’ai l’intention d’adopter une solution qui, j’en conviens, est arbitraire, et qui consiste à considérer que les actions détenues pendant une période extrêmement brève ont probablement été acquises dans le cadre d’une démarche à caractère commercial, contrairement aux actions détenues pendant une période plus longue. Le fait d’effectuer une recherche sur le moment de la publication des états financiers est un exemple d’une démarche commerciale. Il importe peu que la recherche ait été effectuée par M. George, par son courtier ou par une connaissance. Ce qui importe, c’est le fait qu’une démarche commerciale ait été adoptée.
+[26] J’ai conclu qu’il convient en l’espèce de répartir les gains à parts égales entre le revenu et le capital. Cette répartition n’a pas de justification rationnelle, si ce n’est qu’elle semble être une division approximative des titres détenus pendant moins d’une semaine.
+[27] L’appel sera en conséquence accueilli et les cotisations seront renvoyées au ministre du Revenu national pour nouvel examen et nouvelle cotisation en tenant compte du fait que, pour chacune des années, la moitié des gains nets tirés des opérations sur titres est attribuable au revenu, le solde étant attribuable au capital.
+[29] Les parties ayant chacune obtenu partiellement gain de cause, il n’y aura pas d’adjudication de dépens.
+Signé à Ottawa, Canada, ce 12e jour de juin 2008.
+« J. Woods »”
+Juge Woods
+Traduction certifiée conforme
+ce 6e jour d’août 2008.
+Aleksandra Koziorowska, LL.B.
+RÉFÉRENCE : 2008CCI350
+No DU DOSSIER DE LA COUR : 2006-2517(IT)G
+INTITULÉ : 1338664 Ontario Limited
+et Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Les 10 et 11 décembre 2007
+MOTIFS DU JUGEMENT PAR : L’honorable juge Woods
+DATE DU JUGEMENT : Le 12 juin 2008
+COMPARUTIONS :
+Avocats de l’appelante :
+Me Richard G. Fitzsimmons
+Me Olivier Leger
+Avocate de l’intimée :
+Me Jenny P. Mboutsiadis
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante:
+Nom : Me Richard G. Fitzsimmons
+Cabinet : Fitzsimmons & Company
+Toronto (Ontario)
+Pour l’intimée :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

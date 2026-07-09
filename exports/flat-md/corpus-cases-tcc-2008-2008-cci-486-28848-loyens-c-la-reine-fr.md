@@ -1,0 +1,252 @@
+---
+title: "Loyens c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28848/index.do"
+last_modified: "2008-08-29"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 CCI 486"
+citation2: ""
+neutral_citation: "2008 CCI 486"
+decision_date: "2008-08-29"
+language: "fr"
+item_id: "28848"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1357
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T10:26:43.165000+00:00"
+cases_cited_count: 2
+cases_citing_count: 3
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "303c258d07fbb1514fe1f7aa86591ffcf0f74b84fc53fc048499f7299bc345d4"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Loyens c. La Reine
+
+- Citation: 2008 CCI 486
+- Decision date: 2008-08-29
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1357, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Loyens c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-08-29
+Référence neutre
+2008 CCI 486
+Numéro de dossier
+2004-3590(IT)G
+Juges et Officiers taxateurs
+Cameron Hugh McArthur
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2004-3590(IT)G
+ENTRE :
+WILLIAM LOYENS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appels entendus les 16 et 17 avril 2008, à London (Ontario)
+Devant : L'honorable juge C. H. McArthur
+Comparutions :
+Avocat de l'appelant :
+Me Paul Downs
+Avocat de l'intimée :
+Me George Boyd Aitken
+JUGEMENT
+Les appels formés contre les nouvelles cotisations établies en vertu de la Loi de l'impôt sur le revenu pour les années d'imposition 1999 et 2000 sont accueillis, avec dépens, et les nouvelles cotisations sont déférées au ministre du Revenu national pour nouvel examen et nouvelles cotisations en tenant compte du fait que la principale source de revenu de l'appelant était l'agriculture ou une combinaison de l'agriculture et d'une autre source.
+Fait à Ottawa, Canada, ce 29e jour d'août 2008.
+« C. H. McArthur »
+Le juge McArthur
+Traduction certifiée conforme
+ce 5e jour de juin 2009.
+Yves Bellefeuille, réviseur
+Référence : 2008 CCI 486
+Date : 20080829
+Dossier : 2004-3590(IT)G
+ENTRE :
+WILLIAM LOYENS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge McArthur
+[1] La Cour est saisie d'appels formés contre de nouvelles cotisations établies en vertu de l'article 31 de la Loi de l'impôt sur le revenu (la Loi) pour les années d'imposition 1999 et 2000 de l'appelant. Le ministre du Revenu national (le ministre) a ramené à 8 750 $ pour chacune des années les pertes agricoles déduites par l'appelant, à savoir 382 852 $ et 202 475 $ respectivement. Il s'agit de savoir si la principale source de revenu de l'appelant au cours de ces années était l'agriculture, ou une combinaison de l'agriculture et d'une autre source de revenu.
+[2] L'appelant, le Dr William Loyens, est âgé de 56 ans et habite avec son épouse Sylvia à une ferme située à Delaware, en Ontario. Il est dentiste et exploite un cabinet florissant à Glencoe depuis 1976. Il a passé son enfance à une ferme avicole et travaille dans le domaine de l'agriculture depuis l'âge de 12 ans. Son père travaillait à temps plein dans le bâtiment, et l'appelant a dit que c'est principalement lui qui avait géré la ferme avicole jusqu'à son entrée à l'université. Pendant son adolescence, il a eu des moutons et un cheval arabe et est devenu membre agréé du Red Valley Saddle Club. Il a participé à divers sports équestres. Il a fréquenté l'Université de Toronto et a obtenu un diplôme de l'école dentaire en 1975. En 1976, il a acheté un cabinet existant, à Glencoe, et son épouse et lui se sont installés à cet endroit. Durant les années 1980, il a doublé la taille du cabinet en construisant deux nouvelles salles d'opération. Son investissement total dans le cabinet se chiffre à environ 208 000 $.
+[3] À la fin des années 1970, l'appelant a fait l'acquisition de 83 acres de terre servant à la culture du maïs et du haricot, puis, quelques années plus tard, de 50 acres de terres adjacentes, et finalement d'une maison située sur 20 acres de terre. Il voulait se lancer dans l'agriculture. Avant de commencer dans cette voie en 1990, il avait établi un très florissant cabinet dentaire. Il prévoyait cesser d'exercer comme dentiste vers l'âge de 55 ans, ou dès que son exploitation agricole lui permettrait de subvenir aux besoins de sa famille. La maladie de Parkinson a déjà frappé des membres de sa famille, et de ce fait il pourrait lui‑même éventuellement devoir fermer son cabinet.
+[4] En outre, en 1989 ou 1990, il a construit une écurie (de 48 pieds par 36 pieds) et clôturé une terre pour se lancer dans l'élevage de chevaux arabes. Il a engagé un entrepreneur pour qu'il s'occupe de la structure principale de l'écurie, mais il a lui‑même effectué la majeure partie des travaux restants. Un an plus tard, il s'est fait construire un manège (de 160 pieds par 80 pieds), auquel il a lui‑même ajouté une salle d'observation. Il a plus tard construit une étable de raccordement, et une étable à émeus, et il a acheté 25 acres supplémentaires. Nul doute qu'il a consacré beaucoup de temps à mettre sur pied sa ferme de chevaux et d'émeus. Il a réduit à quatre jours par semaine son travail de dentiste afin de consacrer davantage de temps à la ferme. Les sommes qu'il a investies de 1990 à 1999 dans sa ferme se sont chiffrées à environ 600 000 $. L'intimée dit que seule une somme de 344 000 $ peut être étayée, mais j'accepte les estimations de l'appelant.
+[5] Lorsqu'il a commencé à élever des chevaux, l'idée de l'appelant était la suivante :
+[TRADUCTION]
+Acheter un bon troupeau de juments poulinières, disposer de notre étalon et finalement produire des chevaux à vendre pour exposition future.
+Au cours des années visées par l'appel, il était propriétaire d'environ 20 chevaux et, cherchant à accroître leur valeur, il en a fait une promotion active sur les terrains de concours. Du point de vue financier, ses efforts furent vains puisque, au cours d'une période de 16 ans, il n'a vendu que neuf chevaux, dont la plupart à un prix bien inférieur à celui qu'il avait espéré. Il a expliqué les divers événements qui avaient nui au marché des chevaux arabes, entraînant des prix de vente inférieurs aux prix espérés. Sans abandonner l'élevage des chevaux, il s'est orienté, au début des années 1990, vers l'élevage des émeus.
+[6] L'appelant a alors rencontré des éleveurs d'émeus et a visité plusieurs fermes d'élevage d'émeus au Canada et aux États‑Unis. En mai 1990, avec un associé, il a acheté 100 poussins, au prix de 1 500 $ chacun[1], et il a plus tard fait l'acquisition de 50 poussins supplémentaires et de six paires d'oiseaux reproducteurs originaires d'Allemagne. Au début, il élevait les émeus strictement à des fins de reproduction. Il a pu, durant les années d'imposition 1993 et 1994, tirer un revenu appréciable de la vente de jeunes émeus d'un an et d'une partie de ses propres poussins issus des oiseaux reproducteurs qu'il avait achetés. Cependant, en 1995, le marché des émeus reproducteurs s'est effondré et il ne s'est jamais rétabli.
+[7] En 1998, il a fait passer son troupeau d'émeus à 4 000 oiseaux, pour en commercialiser la chair, l'huile et le cuir. Il a résolument fait la promotion des produits dérivés de l'émeu et a engagé un spécialiste du marketing pour faire connaître et commercialiser ces produits, tant au Canada qu'aux États‑Unis. Il fournissait de la viande d'émeu gratuitement et a financé plusieurs événements où se produisaient des chefs de calibre mondial. Il a aussi acheté aux États‑Unis du cuir d'émeu et a fait dessiner des vêtements qu'il présentait lors de petits défilés de mode. Ses activités promotionnelles étaient considérables, mais il n'a pas été en mesure de vendre ces produits puisque, comme il l'a dit :
+[TRADUCTION]
+Je n'avais pas le produit à vendre parce que je ne transformais pas encore les oiseaux, mon exploitation n'était pas assez importante. Mais, si je faisais tout cela, c'était essentiellement pour me faire connaître, comprendre la direction du marché et me faire ma propre idée de ce que je pourrais être assuré de vendre.
+Cependant, dix ans plus tard, il n'avait pour ainsi dire rien vendu parmi les produits dont il avait fait la promotion.
+[8] Selon l'appelant, la chair d'émeu a une valeur qui se situe entre 150 $ et 200 $ par animal, ce qui correspond aux frais d'élevage de l'animal. Il a ajouté que le bénéfice de l'élevage d'émeus réside dans l'huile de l'animal, qui peut atteindre 360 $ par oiseau, alors que son cuir peut se vendre 150 $ par oiseau. Cependant, pour récupérer l'huile et le cuir d'un émeu, il faut un abattoir spécialisé. Puisqu'aucun abattoir du genre n'existait à proximité de la ferme de l'appelant, il ne pouvait élever des émeus que pour leur chair. En se servant de l'abattoir local St. Ann, l'appelant trouvait qu'il perdait de l'argent parce que l'huile et les peaux ne pouvaient pas être récupérées. Il a tenté d'acheter l'abattoir, ou d'en construire un lui‑même, afin de l'équiper des instruments nécessaires pour récupérer les peaux et l'huile.
+[9] Depuis 1999, l'appelant a cherché en vain, au Canada, aux États‑Unis et ailleurs, un financement pour la construction d'un abattoir. Au début de 2000, l'abattoir St. Ann a été acheté par quelqu'un d'autre et cette solution a donc été exclue. Il est assez étrange de constater que le financement recherché par l'appelant est passé de 5 millions à 25 millions de dollars, mais, quoi qu'il en soit, son élevage d'émeus requérait un financement pour la construction d'un abattoir. Aucune preuve digne de foi ne permet de dire qu'il est ou était véritablement possible pour l'appelant d'obtenir un financement à l'étranger.
+[10] Pour ce qui est du financement, l'appelant a produit en preuve trois lettres datées du 20 octobre 1998, du 28 juin 2000 et du 22 août 2000. L'avocat de l'intimée a produit quant à lui une lettre semblable, datée du 15 février 2006. Les quatre lettres mentionnent que des crédits seront transférés de l'étranger dans un délai d'environ 30 jours, mais elles ne renferment aucun détail ni aucune condition se rapportant au financement, ni ne font état de la somme à venir. L'appelant a témoigné que la personne avec qui il avait communiqué pour l'obtention des crédits étrangers était Mme Robyn Rae Mattila, avec qui il avait parlé au téléphone, mais qu'il n'avait jamais rencontrée en personne. Et, naturellement, Mme Mattila n'a pas été appelée à témoigner au nom de l'appelant, et cela tout probablement parce qu'elle travaille à Las Vegas, au Nevada. L'appelant est en possession d'une lettre similaire plus récente provenant de Las Vegas, correspondance à laquelle je ne suis pas disposé à ajouter foi.
+[11] James Harrison Lockhart, qui travaille actuellement comme camionneur, a lui aussi été chargé de négocier des arrangements en vue d'obtenir un financement de l'étranger, et il a témoigné pour le compte de l'appelant. Cependant, son témoignage ne confirme pas qu'un financement du genre ait été imminent à quelque moment que ce soit, ou même qu'il était authentique. Il a déclaré qu'il communiquait avec Mme Mattila, mais qu'il ne l'avait lui non plus jamais rencontrée. Il était, semble‑t‑il, en contact par téléphone avec une certaine Stephanie Chase, qui, selon ses dires, est une courtière agréée de la Réserve fédérale qui avait été engagée par Mme Mattila. Ici encore, M. Lockhart n'a jamais rencontré Mme Chase, mais il a dit qu'elle avait travaillé pour le groupe Crédit Suisse à Los Angeles. Aucun document n'a été produit à l'appui, et Mme Chase n'a pas non plus été appelée à témoigner. J'ai de sérieux doutes sur l'authenticité des arrangements visant à obtenir un financement de l'étranger, et la preuve ne confirme tout simplement pas qu'un financement ait été à portée de main à quelque moment que ce soit. La quête d'un financement s'est poursuivie durant près de dix ans, en vain.
+[12] Tandis que le Dr Loyens consacrait son énergie à son élevage d'émeus, Sylvia s'occupait des chevaux. Elle jouait un très grand rôle dans les activités agricoles générales menées par son mari. C'est une avocate en exercice, qui a grandi à une ferme familiale et qui a toujours vécu dans un milieu agricole. Enfant, elle avait la responsabilité de moutons et d'une vache Hereford et de son veau. Son travail à la ferme lui avait permis de payer une bonne partie de ses études de premier cycle. Elle a étudié à l'Université de Guelph et plus tard a fréquenté l'Université de Toronto, où elle a obtenu un baccalauréat ès sciences en ergothérapie. Après avoir travaillé durant trois ans, elle a obtenu un diplôme de la Faculté de droit de l'Université Western Ontario en 1981. Elle a témoigné qu'avant de se consacrer à l'exploitation agricole en 1990, elle vivait très à l'aise avec l'appelant et leurs enfants, et leurs avoirs nets dépassaient 1,5 million de dollars. Ils avaient notamment un chalet, un condominium à Hamilton, un voilier et un avion.
+[13] Afin de calculer le temps consacré par son mari à son cabinet dentaire, elle avait consulté son carnet de rendez‑vous et reporté l'information sur un calendrier. Au cours de l'audience, l'avocat de l'intimée a fait observer que le ministre avait demandé ce carnet de rendez‑vous, mais qu'on lui avait répondu qu'il n'existait plus ou qu'il était égaré. Selon Mme Loyens, cela s'était produit après qu'elle avait transposé l'information sur le calendrier et, depuis lors, le livre de rendez‑vous s'est égaré ou a été jeté. Par conséquent, les chiffres estimatifs fournis par l'appelant devraient être pris pour ce qu'ils sont, c'est-à-dire des estimations. Pour les années antérieures à 1999, Mme Loyens estimait que l'appelant consacrait 1 850 heures à la ferme et 1 108 heures au cabinet dentaire. Comme l'indique le tableau ci-dessous, l'appelant a, de 1990 à 2002, enregistré d'importantes pertes agricoles, alors que son cabinet de dentiste était très florissant. Son revenu brut tiré de son cabinet de dentiste avait augmenté constamment, passant de 476 369 $ en 1990 à 831 821 $ en 2002.
+Année d'imposition
+Revenus agricoles bruts
+Revenus agricoles nets
+Revenus professionnels bruts
+Revenus professionnels nets
+1990
+3 406 $
+(33 899) $
+476 369 $
+175 426 $
+1991
+-
+(58 237)
+485 456
+215 594
+1992
+5 819
+(75 067)
+485 456
+214 811
+1993
+136 950
+(64 591)
+538 600
+216 645
+1994
+180 675
+(15 709)
+547 952
+213 922
+1995
+34 780
+(127 167)
+553 473
+218 123
+1996
+5 774
+(150 192)
+581 371
+229 688
+1997
+9 715
+(177 713)
+581 596
+243 977
+1998
+2 555
+(204 636)
+-
+296 257
+1999
+34 211
+(391 602)
+667 801
+325 279
+2000
+10 865
+(211 225)
+703 479
+333 826
+2001
+7 570
+(179 929)
+752 735
+260 635
+2002
+57 852
+(161 192)
+831 821
+391 575
+Total
+490 172 $
+(1 851 159) $
+7 206 109 $
+3 335 758 $
+[14] Comme je l'ai dit, l'appelant voudrait déduire plus de 600 000 $ en pertes agricoles pour les années d'imposition 1999 et 2000. Le seul point à décider est de savoir si la principale source de revenu de l'appelant durant cette période était l'agriculture ou une combinaison de l'agriculture et d'une autre source de revenu, ainsi que le prévoit l'article 31 de la Loi.
+[15] L'appelant dit que, vers 1990, il avait réorienté ses activités professionnelles, son emploi du temps et son mode de vie lorsque l'agriculture est devenue le centre de ses intérêts financiers. Il attache un grand poids à un arrêt récent de la Cour d'appel fédérale, Gunn c. La Reine[2]. Il dit que les critères dont il faut tenir compte lorsqu'il s'agit de décider si l'article 31 s'applique, à savoir le capital engagé, le temps consacré et la rentabilité, militent en sa faveur dans les présents appels. Il fait observer que le capital engagé dans ses activités agricoles était le triple de celui qu'il avait engagé dans son cabinet de dentiste et que lui-même et sa famille menaient des vies d'agriculteurs puisqu'il consacrait davantage de temps à la ferme qu'à son cabinet. S'agissant de la rentabilité, l'appelant souligne que l'intimée a admis que ses activités agricoles offraient une expectative raisonnable de profit. Enfin, il dit que l'arrêt Gunn autorise la conclusion selon laquelle son revenu pour les années 1999 et 2000 provenait principalement d'une combinaison de l'agriculture et de l'exercice de la dentisterie.
+[16] L'intimée dit que, si l'on applique le critère exposé dans l'arrêt Moldowan c. La Reine[3], les pertes agricoles de l'appelant se limitent à la somme de 8 750 $ pour chacune des années. S'agissant des trois facteurs déterminants que sont le capital engagé, le temps consacré et la rentabilité, l'intimée souligne que la preuve se rapportant aux deux premiers facteurs est mince et ne milite pas nécessairement en faveur de l'appelant. L'intimée a cependant admis que le capital engagé par l'appelant dans ses activités agricoles était important et que, durant les années visées par l'appel, l'appelant passait davantage de temps à son cabinet de dentiste. Essentiellement, l'intimée dit que la rentabilité demeure un élément clé et oblige le contribuable à prouver que ses activités agricoles seront rentables dans un avenir raisonnable. Elle ajoute que, puisque les activités agricoles de l'appelant n'ont généré aucun bénéfice sur une période de plus de dix ans, aucune rentabilité n'est à espérer, et les déductions de pertes agricoles ne devraient donc pas être autorisées indéfiniment.
+[17] Comme je l'ai dit, les appels font intervenir l'article 31 de la Loi, dont les dispositions applicables renferment ce qui suit :
+31(1) Lorsque le revenu d'un contribuable, pour une année d'imposition, ne provient principalement ni de l'agriculture ni d'une combinaison de l'agriculture et de quelque autre source, pour l'application des articles 3 et 111, ses pertes pour l'année, provenant de toutes les entreprises agricoles exploitées par lui, sont réputées être le total des montants suivants :
+[...]
+Une formule suit.
+31(1.1) Pour l'application de la présente loi, la perte agricole restreinte d'un contribuable pour une année d'imposition correspond à l'excédent éventuel du montant. [...]
+Là encore, une méthode de calcul suit.
+[18] Pour que l'article 31 soit applicable, il faut déterminer si la principale source de revenu du contribuable est l'agriculture ou une combinaison de l'agriculture et de quelque autre source de revenu. Dans l'arrêt Moldowan, le juge Dickson écrivait que :
+[...] pour avoir une « source » de revenu, le contribuable doit avoir en vue un profit ou une expectative raisonnable de profit.
+J'admets la concession de l'intimée selon laquelle les activités agricoles de l'appelant lui donnaient une expectative raisonnable de profit, et je n'ai aucune difficulté à conclure qu'en 1999 et en 2000, l'appelant avait une entreprise agricole. Quoi qu'il en soit, le critère de l'expectative raisonnable de profit ne s'applique plus depuis l'arrêt Stewart c. La Reine[4] de la Cour suprême du Canada quand il s'agit de déterminer la source de revenu d'un contribuable comme l'envisage l'arrêt Moldowan. Ce que dit l'intimée, c'est tout simplement que la ferme de l'appelant n'est pas sa principale source de revenu, seule ou combinée avec son cabinet de dentiste.
+[19] L'analyse faite dans l'arrêt Moldowan, qui demeure l'arrêt de principe, requiert d'examiner les résultats financiers comparatifs : a) le capital investi; b) le temps et l'effort consacrés aux activités; c) les habitudes et la façon de travailler du contribuable, de même que la rentabilité réelle et potentielle de ses activités agricoles. Cette analyse est essentiellement tributaire des faits. Une cour de justice doit étudier les trois facteurs d'une manière cumulative et aucun facteur ne peut être à lui seul déterminant. L'appelant remplit les deux premiers facteurs. C'est le troisième facteur qui requiert un examen sans l'avantage du recul :
+a) S'agissant du capital engagé, j'admets que l'appelant a investi, de 1990 à 1999, environ 600 000 $ dans ses activités agricoles, et 208 000 $ dans son cabinet de dentiste.
+b) Le deuxième facteur est le temps consacré par l'appelant à ses activités agricoles par rapport à celui qu'il a consacré à son cabinet de dentiste. En 1999 et 2000, le temps qu'il passait à la ferme était au moins égal au temps qu'il passait à son cabinet de dentiste. J'accepte les estimations de l'appelant, étant donné qu'il a lui‑même fait une grande partie du travail pour la construction de l'écurie. La preuve produite par l'appelant à propos des heures de travail contenait des lacunes, mais qu'il suffise de dire qu'il passait de très longues heures à son cabinet comme à sa ferme.
+[20] Enfin, il faut considérer la rentabilité, tant présente que future, de l'entreprise agricole. Il y a eu d'abord l'élevage des chevaux en 1990. La preuve montre clairement que, jusqu'alors, l'élevage des chevaux n'avait pas été un succès, qu'il s'agisse du nombre d'animaux vendus ou du revenu tiré de cette activité en 1999 et 2000, et il ne l'est pas davantage aujourd'hui. L'appelant n'a vendu que neuf chevaux sur une période d'environ 16 ans, car, selon ce qu'il a dit, le marché des chevaux arabes reproducteurs s'est effondré au début des années 1990.
+[21] Lorsque l'appelant s'est mis à élever des émeus, il a été en mesure de vendre avec bénéfice quelques couples reproducteurs, mais aucune vente rentable n'a été faite depuis 1995. Il a reconnu que l'élevage des émeus pour leur chair n'est pas financièrement rentable. Il a ajouté que :
+[TRADUCTION]
+[...] la vente de la chair permet de payer le coût de l'élevage de l'oiseau. Le cuir permettrait de payer les frais de l'abattoir, et l'huile constituerait le profit.
+Cependant, comme je le disais plus haut, sans un abattoir spécialement équipé dans la région pour la récupération des peaux et de l'huile des oiseaux, seule la chair pouvait être vendue. Pour que son élevage d'émeus soit rentable, l'appelant avait besoin d'un abattoir spécialisé. Aucun témoignage d'expert n'a été produit pour étayer la véritable valeur marchande de l'huile et du cuir qui peuvent être extraits des animaux. Quoi qu'il en soit, pour être rentable, une entreprise d'élevage d'émeus requiert un abattoir spécialisé, et il faut pour cela un financement externe se situant entre 5 et 25 millions de dollars, somme qui est hors de sa portée, comme je l'ai dit plus haut. Même s'il y avait un abattoir, aucune preuve produite ne permet de conclure que l'élevage serait rentable. Un rapport du ministère fédéral de l'Agriculture de 1999 fait état d'un avenir sombre pour l'élevage d'émeus au Canada.
+[22] L'appelant se fonde presque uniquement sur l'arrêt Gunn de la Cour d'appel fédérale, où la juge Sharlow a écrit ce qui suit :
+85 La réponse du juge à la question principale était fondée sur les principes de l'arrêt Moldowan servant à déterminer quelle est la principale source de revenu d'un contribuable, ainsi que sur le commentaire de l'arrêt Morrissey c. Canada (précité) selon lequel, s'il est improbable que les activités agricoles du contribuable soient jamais rentables, nonobstant le temps et l'argent que le contribuable est disposé et apte à consacrer à l'agriculture, alors il faut en conclure que l'agriculture n'est pas une source principale du revenu du contribuable.
+86 À mon avis, le principe de la jurisprudence Morrissey n'est pas pertinent au cas de M. Gunn. L'observation susmentionnée tirée de l'arrêt Morrissey se rapportait au cas où, selon le propre témoignage du contribuable, il doutait de la rentabilité future de sa ferme. Dans son témoignage, M. Gunn disait qu'il voyait un potentiel de gain dans sa ferme. L'intimée n'a produit aucune preuve en sens contraire, reconnaissant même les possibilités de profit pour l'avenir. Je ne vois dans le dossier aucun élément autorisant le juge à dire que les activités agricoles de M. Gunn ne laissaient espérer aucune possibilité de profit. C'est là un motif suffisant pour infirmer le jugement de la Cour de l'impôt. Cependant, il y a aussi un deuxième motif.
+Les présents appels sont visés par les exceptions de l'arrêt Gunn. Si les années d'imposition visées par l'appel avaient été 2006 et 2007, j'aurais conclu qu'il n'y avait aucune possibilité de profit. Il faut s'en rapporter à la preuve telle qu'elle existait durant les années 1999 et 2000.
+[23] L'appelant s'est également fondé sur un autre arrêt de la Cour d'appel fédérale, Kroeker c. Canada[5]. Comme dans la présente affaire, Mme Kroeker avait consacré de l'argent, du temps et du travail à ses activités agricoles. Faisant droit à l'appel interjeté par la contribuable, la Cour d'appel fédérale a estimé que les activités agricoles de l'appelante s'étaient révélées profitables. La Cour d'appel a fait l'observation suivante :
+23 Quelle que soit la mesure dans laquelle le témoignage de l'appelante est jugé crédible, il reste que les faits non contestés de l'affaire se passent d'explications. L'appelante « consacrait » ses capitaux, son temps et son travail à son entreprise agricole. La rentabilité future de l'entreprise agricole était telle qu'en 1998, l'entreprise a réalisé des bénéfices. L'entreprise agricole était une entreprise familiale. Il existe peu d'éléments distinctifs entre la présente espèce et l'affaire La Reine c. Graham, [1985] 2 C.F. 107 (C.A.).
+[24] Selon l'arrêt Moldowan, il semble qu'il faille que l'agriculture soit l'activité prédominante du contribuable et que l'autre source de revenu ne soit que secondaire. D'après cette interprétation, on ne saurait dire, en se rapportant simplement à l'état des résultats, si la principale source de revenu d'une personne est une combinaison de l'agriculture et de quelque autre source de revenu. L'analyse est à la fois relative et objective, et la Cour peut employer les critères pour déterminer la « source principale » pour dire si l'autre source de revenu est ou non accessoire aux activités agricoles. Il faut donc prendre en compte le critère déjà examiné dans les présents appels, à savoir le temps consacré, le capital engagé et la rentabilité. Comme je l'ai dit, le capital engagé milite en faveur de l'appelant, tout comme le temps et l'effort qu'il a consacrés à ses activités agricoles. Les activités agricoles ne représentaient pas l'essentiel du revenu net de l'appelant, mais l'appelant n'était pas moins agriculteur que dentiste.
+[25] Dans l'arrêt Gunn, la juge Sharlow a proposé une interprétation plus libérale de la question de la combinaison que ne l'avait fait la Cour suprême du Canada dans l'arrêt Moldowan en laissant entendre qu'il n'est pas nécessaire que les activités agricoles soient la principale source de revenu. La Cour d'appel fédérale a conclu que les activités agricoles de M. Gunn laissaient entrevoir une possibilité de profit, et l'on peut en dire autant des activités agricoles du Dr Loyens durant les années 1999 et 2000. Comme M. Gunn, le Dr Loyens avait fait d'appréciables investissements et améliorations dans sa ferme et, durant les années considérées, sa ferme pouvait être rentable. Pour être rentable, il fallait qu'il dispose d'un abattoir spécialisé, ce qui semblait possible en 1999 et en 2000. Rétrospectivement, la ferme n'a pas été rentable, en raison de facteurs qui n'étaient pas évidents en 1999 et en 2000. Par exemple, il n'était pas irréaliste pour l'appelant de croire que le marché des émeus et des chevaux arabes s'améliorerait et qu'il obtiendrait les capitaux nécessaires pour financer l'achat ou la construction d'un abattoir adéquat[6]. Quelque temps après 2000, une personne raisonnable dirait « assez, c'est assez » et mettrait un terme à l'hémorragie et aux énormes déductions de pertes fiscales. Je ne crois pas que c'est la situation qui prévalait en 1999 et 2000, bien que ce soit probablement celle qui prévaut aujourd'hui.
+[26] Il ne fait aucun doute que l'appelant était très engagé dans ses activités agricoles et, vu le temps, l'effort et l'argent qu'il y consacrait, c'était une affaire sérieuse, qui n'était pas plus un passe-temps que ne l'était son cabinet de dentiste. Il croyait avoir une expectative raisonnable de profit dans l'élevage des émeus, et l'intimée l'admet. En 1999 et 2000, cette conviction était raisonnable puisqu'il avait 4 000 émeus et qu'il espérait avec réalisme tirer au moins 1 000 $ de chaque oiseau. Ce bénéfice aurait compensé ses pertes et, sans aucun doute, le ministre aurait été prompt à obtenir sa part des profits. Par ailleurs, si l'appelant avait reçu le financement escompté, il aurait été en mesure de couvrir les pertes. Il est difficile d'imaginer ce que l'appelant aurait pu faire d'autre pour rentabiliser sa ferme. Il consacrait du temps et de l'argent à son cabinet dentaire et à sa ferme. Pour avoir un cabinet de dentiste aussi prospère, il fallait qu'il soit un homme très capable. Malheureusement, il n'a pu répéter cette réussite avec sa ferme.
+[27] Pour les années d'imposition en cause, j'admets que l'appelant tirait son revenu d'une combinaison de l'agriculture et d'une autre source. Son cabinet de dentiste était prospère et contrebalançait ses activités agricoles qui ne l'étaient pas. Dans l'arrêt Gunn, la juge Sharlow a admis que, pour répondre à la question de la combinaison, il n'est pas nécessaire au départ que les deux sources de revenu soient rattachées. Dans l'affaire Kroeker, le mari de l'appelante travaillait à temps plein à leur ferme, et elle travaillait à temps plein pour un fabricant de machines agricoles, et à temps partiel à leur ferme. Tout ce qu'elle gagnait ailleurs qu'à la ferme était investi dans la société de personnes agricole. Contrairement à la présente espèce, la ferme avait commencé à être rentable trois ans après la période visée par l'appel. La Cour d'appel fédérale a conclu que l'agriculture était le centre de la vie de l'appelante, que ce n'était pas un passe-temps et que c'était une source commerciale de revenu. Sans aucun doute, les activités agricoles du Dr Loyens n'étaient pas un passe-temps et, durant les années 1999 et 2000, on pouvait facilement conclure que lesdites activités étaient une source commerciale de revenu.
+[28] Pour les motifs susmentionnés, les appels sont accueillis, avec dépens, étant entendu que l'article 31 de la Loi ne s'appliquait pas à l'appelant au cours des années en cause.
+Fait à Ottawa, Canada, ce 29e jour d'août 2008.
+« C. H. McArthur »
+Le juge McArthur
+Traduction certifiée conforme
+ce 5e jour de juin 2009.
+Yves Bellefeuille, réviseur
+RÉFÉRENCE : 2008 CCI 486
+N° DU DOSSIER DE LA COUR : 2004-3590(IT)G
+INTITULÉ : WILLIAM LOYENS et SA MAJESTÉ LA REINE
+LIEU DE L'AUDIENCE : London (Ontario)
+DATES DE L'AUDIENCE : Les 16 et 17 avril 2008
+MOTIFS DU JUGEMENT : L'honorable juge C. H. McArthur
+DATE DU JUGEMENT : Le 29 août 2008
+COMPARUTIONS :
+Avocat de l'appelant :
+Me Paul Downs
+Avocat de l'intimée :
+Me George Boyd Aitken
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelant :
+Nom : Me Paul Downs
+Cabinet :
+Pour l'intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Il n'a reçu que 68 poussins. On ne sait pas s'il en a payé 100 ou 68.
+[2] 2006 CAF 281.
+[3] [1978] 1 R.C.S. 480.
+[4] [2002] 2 R.C.S. 645.
+[5] 2002 CAF 392, [2002] A.C.F. n° 1436 (QL).
+[6] L'appelant avait des lettres d'approbation et d'encouragement que lui avait envoyées Eugene Whelan, le ministre fédéral de l'Agriculture à cette époque. La pièce A‑3 contient aussi plusieurs lettres et documents qui donnaient à l'appelant des raisons de voir avec optimisme l'élevage d'émeus.

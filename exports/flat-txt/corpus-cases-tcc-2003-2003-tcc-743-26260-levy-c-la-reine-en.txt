@@ -1,0 +1,143 @@
+Title: Levy c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26260/index.do
+Corpus path: corpus/cases/tcc/2003/2003-tcc-743-26260-levy-c-la-reine-en.md
+Document type: case_law
+Last modified: 2003-10-15
+
+# Levy c. La Reine
+
+- Citation: 2003 TCC 743
+- Decision date: 2003-10-15
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3991, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Levy c. La Reine
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-10-15
+Neutral citation
+2003 TCC 743
+File numbers
+2002-1863(IT)I
+Judges and Taxing Officers
+Louise Lamarre Proulx
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2002-1863(IT)I
+BETWEEN:
+CLAUDINE LEVY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+and
+EDOUARD ELKAIM,
+Added Party.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard on July 9, 2003 at Montréal, Quebec.
+Before: The Honourable Judge Louise Lamarre Proulx
+Appearances:
+Counsel for the Appellant:
+Asher Neudorfer
+Counsel for the Respondent:
+Simon-Nicolas Crépin
+Counsel for the Added Party:
+Emmanuelle Billion-Porte
+JUDGMENT
+The appeals of the assessments under the Income Tax Act for the years 1997 to 1999 are allowed, with costs to the Appellant, in accordance with the attached Reasons for Judgment;
+Since at the beginning of the hearing there was consent to judgment by Counsel for the Respondent for the 1997 taxation year with respect to both parties, the assessment of the Added Party for 1997 will not be changed.
+For 1998 and 1999, the assessments will be changed in relation to the inclusions accepted for the Appellant, in accordance with the attached Reasons for Judgment.
+There are no costs to the Added Party.
+Signed at Ottawa, Canada, this 15th day of October 2003.
+"Louise Lamarre Proulx"
+Lamarre Proulx, J.
+Translation certified true
+on this 25th day of March 2004.
+Shulamit Day-Savage, Translator
+Citation: 2003TCC743
+Date: 20031015
+Docket: 2002-1863(IT)I
+BETWEEN:
+CLAUDINE LEVY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+and
+EDOUARD ELKAIM,
+Added Party.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Lamarre Proulx, J.
+[1] This is an appeal under the informal procedure concerning the 1997 to 1999 taxation years.
+[2] By order of this Court, dated May 29, 2003, made in accordance with section 174 of the Income Tax Act (the "Act"), Mr. Édouard Elkaim was joined to this appeal.
+[3] At the beginning of the hearing, Counsel for the Respondent informed the Court that the Respondent consented to judgment with respect to 1997.
+[4] The consent on accessory measures to the separation and divorce under appeal was affirmed by the Court of Appeal of Quebec, on October 10, 1996. It was submitted as Exhibit A-2 by the Appellant. Only she testified.
+[5] With respect to 1998 and 1999, there are three issues.
+[6] The first issue is the amount of spousal support received for 1998. The Appellant declared an amount of $36,540. The Minister of National Revenue (the "Minister") established the amount at $ 47,139.
+[7] The Respondent accepts that an amount of $3,400 had been taken into account in 1999 by the Appellant. With respect to the additional amount of $7,000, the Appellant stated that this amount was part of the $50,000 that Mr. Édouard Elkaim was required to pay under the consent support order (Exhibit A-2).
+[8] The Respondent did not dispute the presentation of the facts by the Appellant with respect to the amount of spousal support for both 1998 and 1999. No evidence to the contrary was presented by the Added Party.
+[9] I therefore accept the spousal support amounts as declared by the Appellant: $36,540 and $35,172 for 1998 and 1999.
+[10] The second and third points at issue are with regard the property taxes and tuition fees paid by the Appellant's former spouse. Must they be added to the Appellant's income?
+[11] On page 3 of the Consent Support Order (Exhibit A-2), entitled [translation] "Spousal support", paragraphs 4 and 7 read as follows:
+[translation]
+4. The [male] spouse hereby agrees to pay the [female] spouse, for the sole purpose of maintaining the children, spousal support of $4,000.00, payable prior to the 1st of each month at the residence of the [female] spouse, beginning upon signature of this agreement, subject to paragraph 14(d) below, and indexed annually at the anniversary date of the signature hereof;
+. . .
+7. The [male] spouse shall be responsible for the children's tuition fees until such time as each child shall receive a first university degree. The children currently attend Akiva private school, and the parties agree that the children shall continue to attend this institution or another equivalent for both their primary and secondary studies. The parties may agree to register the children in an institution of another kind or denomination, however it is understood that the quality of education and supervision, as well as the associated fees, shall be equal or superior to the Akiva school;
+[12] There is no dispute with respect to the interpretation of paragraph 4.
+[13] With respect to payment of tuition fees, Counsel for the Added Party emphasized that they are found under the "Spousal Support" heading.
+[14] In the chapter entitled [translation] "Division of assets and financial interests", paragraph 14(e) reads as follows:
+[translation]
+14. The [male] spouse does hereby transfer to the [female] spouse the entire interest, unencumbered and free of all taxes, in the matrimonial home, located at 740 Upper Roslyn Street in Westmount, in accordance with the following:
+. . .
+e) In addition, the [male] spouse shall assume, on behalf of the [female] spouse, the municipal taxes associated with the former matrimonial home for the five (5) years following signature hereof, up to a maximum of $4,000 per year. Upon sale of this home prior to expiry of this five (5) year period, the parties recognize that the [male] spouse shall be entitled to reimbursement of all taxes paid by him during the year of sale and associated with the period of time after sale of the property;
+[15] The tuition fees are the issue most disputed by the Counsel for the Added Party. With respect to the payment of municipal taxes, at the time of the hearing, this obligation had expired, since the Consent Support Order (Exhibit A-2) had been signed on October 9, 1996. The debate was nonetheless relevant for the years at issue.
+[16] Paragraph 56(1)(b), subsections 56.1(1) and 56.1(2) and the definition of "spousal support" in subsection 56.1(4) of the Act read as follows:
+56(1) Amounts to be included in income for year - Without restricting the generality of section 3, there shall be included in computing the income of a taxpayer for a taxation year,
+. . .
+(b) Support [spouse or child] - the total of all amounts each of which is an amount determined by the formula
+A - (B + C)
+where
+A is the total of all amounts each of which is a support amount received after 1996 and before the end of the year by the taxpayer from a particular person where the taxpayer and the particular person were living separate and apart at the time the amount was received,
+B is the total of all amounts each of which is a child support amount that became receivable by the taxpayer from the particular person under an agreement or order on or after its commencement day and before the end of the year in respect of a period that began on or after its commencement day, and
+C is the total of all amounts each of which is a support amount received after 1996 by the taxpayer from the particular person and included in the taxpayer's income for a preceding taxation year;
+56.1 (1) Support - For the purposes of paragraph 56(1)(b) and subsection 118(5), where an order or agreement, or any variation thereof, provides for the payment of an amount to a taxpayer or for the benefit of the taxpayer, children in the taxpayer's custody or both the taxpayer and those children, the amount or any part thereof
+(a) when payable, is deemed to be payable to and receivable by the taxpayer; and
+(b) when paid, is deemed to have been paid to and received by the taxpayer.
+(2) Agreement - For the purposes of section 56, this section and subsection 118(5), the amount determined by the formula
+A - B
+where
+A is the total of all amounts each of which is an amount (other than an amount that is otherwise a support amount) that became payable by a person in a taxation year, under an order of a competent tribunal or under a written agreement, in respect of an expense (other than an expenditure in respect of a self-contained domestic establishment in which the person resides or an expenditure for the acquisition of tangible property that is not an expenditure on account of a medical or education expense or in respect of the acquisition, improvement or maintenance of a self-contained domestic establishment in which the taxpayer described in paragraph (a) or (b) resides) incurred in the year or the preceding taxation year for the maintenance of a taxpayer, children in the taxpayer's custody or both the taxpayer and those children, where the taxpayer is
+(a) the person's spouse or common-law partner or former spouse or common-law partner, or
+(b) where the amount became payable under an order made by a competent tribunal in accordance with the laws of a province, an individual who is the parent of a child of whom the person is a natural parent,
+and
+B is the amount, if any, by which
+(a) the total of all amounts each of which is an amount included in the total determined for A in respect of the acquisition or improvement of a self-contained domestic establishment in which the taxpayer resides, including any payment of principal or interest in respect of a loan made or indebtedness incurred to finance, in any manner whatever, such acquisition or improvement
+exceeds
+(b) the total of all amounts each of which is an amount equal to 1/5 of the original principal amount of a loan or indebtedness described in paragraph (a),
+is, where the order or written agreement, as the case may be, provides that this subsection and subsection 60.1(2) shall apply to any amount paid or payable thereunder, deemed to be an amount payable to and receivable by the taxpayer as an allowance on a periodic basis, and the taxpayer is deemed to have discretion as to the use of that amount.
+"support amount" means an amount payable or receivable as an allowance on a periodic basis for the maintenance of the recipient, children of the recipient or both the recipient and children of the recipient, if the recipient has discretion as to the use of the amount, and
+(a) the recipient is the spouse or common-law partner or former spouse or common-law partner of the payer, the recipient and payer are living separate and apart because of the breakdown of their marriage or common-law partnership and the amount is receivable under an order of a competent tribunal or under a written agreement; or
+(b) the payer is a natural parent of a child of the recipient and the amount is receivable under an order made by a competent tribunal in accordance with the laws of a province.
+[17] The definition of "spousal support", in the case of former spouses, requires that the amount be payable or receivable as an allowance on a periodic basis for the maintenance of the recipient, children of the recipient or both the recipient and children of the recipient; that the recipient have discretion as to the use of the amount; that the spouses live separate and apart; and that the amount be receivable under an order or a written agreement.
+[18] For an amount to be payable as a periodic allowance, the amount and frequency must have been determined by a judgment, or by a written agreement between the spouses. This is the situation in Hak v. La Reine, [1998] T.C.J. No. 921 (Q.L.); Chute v. La Reine, [1999] T.C.J. No. 173 (Q.L.) and Arsenault v. Canada, [1995] T.C.J. No. 241 (Q.L.) and [1996] F.C.J. No. 202 (Q.L.). In this case, neither the amount of taxes and tuition fees, nor the frequency of payments, was predetermined.
+[19] With respect to the Appellant's discretion to use these amounts, it is obvious that the she has none. For example, she cannot demand that these amounts be paid to her rather than to municipal or school authorities. This is therefore not a question of the application of paragraph 56(1)(b) of the Act.
+[20] With respect to the possible application of subsection 56.1(1) of the Act, the Federal Court of Appeal decided, in Armstrong v. Canada, [1996] F.C.J. No. 599 (Q.L.) that the payments described in subsection 56.1(1) of the Act cannot be considered spousal support payments unless the recipient is able to use the amount at her discretion.
+[21] With respect to the possible application of subsection 56.1(2) of the Act, payments made to third parties are considered spousal support payments if the order or written agreement provides that subsections 56.1(2) and 60.1(2) apply to the payments. This does not apply to this case.
+[22] As a result, the taxes and tuition fee payments are not to be included in the calculation of the Appellant's income and cannot be deducted in the calculation of the income of the Added Party.
+[23] Counsel for the Appellant asked for solicitor-client costs. These costs are awarded in circumstances of abusive behaviour by one party. This is not the case here. There was only application of a provision of the Act. It is often desirable that the two parties to a spousal support inclusion-deduction case are heard together in order to ensure the safety of legal relationships and to avoid conflicting decisions.
+[24] Since there was consent to judgment for 1997, the Appellant and the Added Party each succeeded in their claim for that year. For 1998 and 1999, the Appellant's appeals are allowed. The Added Party will be re-assessed based on the points made in this judgment.
+[25] There are no fees with respect to the Added Party. With respect to the Appellant's appeals, they are allowed with costs to the Appellant.
+Signed at Ottawa, Canada, this 15th day of October 2003.
+"Louise Lamarre Proulx"
+Lamarre Proulx, J.
+Translation certified true
+on this 25th day of March 2004.
+Shulamit Day-Savage, Translator

@@ -1,0 +1,204 @@
+Title: Tuccaro c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/126735/index.do
+Corpus path: corpus/cases/tcc/2015/2015-cci-290-126735-tuccaro-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2015-11-20
+
+# Tuccaro c. La Reine
+
+- Citation: 2015 CCI 290
+- Decision date: 2015-11-20
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2689, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Tuccaro c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2015-11-20
+Référence neutre
+2015 CCI 290
+Numéro de dossier
+2013-188(IT)G
+Juges et Officiers taxateurs
+Joe E. Hershfield
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2013-188(IT)G
+ENTRE :
+DAVID TUCCARO,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Requêtes entendues le 21 octobre 2015 à Ottawa, Canada.
+Devant : L’honorable juge J. E. Hershfield
+Comparutions :
+Avocats de l’appelant :
+Me Maxime Faille
+Me Graham Ragan
+Avocats de l’intimée :
+Me William L. Softley
+Me Darcie Charlton
+ORDONNANCE
+Ayant entendu une demande de l’intimée en vertu de l’article 58 des Règles de la Cour canadienne de l’impôt (procédure générale) (les « Règles ») pour une question mixte de fait et de droit à trancher;
+Ayant entendu la requête de l’appelant sollicitant une ordonnance en vertu des articles 48 et 53 des Règles en radiation de certains passages de la réponse de l’intimée à l’avis d’appel modifié;
+Et ayant entendu les avocats des parties;
+LA COUR ORDONNE QUE :
+1. La requête de l’intimée et la requête de l’appelant soient rejetées pour les motifs cités de l’ordonnance.
+2. Chaque partie paie ses propres dépens.
+Signé à Ottawa, Canada, ce 20e jour de novembre 2015.
+« J. E. Hershfield »
+Juge Hershfield
+Traduction certifiée conforme
+ce 13e jour de mai 2016.
+Mario Lagacé, jurilinguiste
+Référence : 2015 CCI 290
+Date : 20151120
+Dossier : 2013-188(IT)G
+ENTRE :
+DAVID TUCCARO,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DE L’ORDONNANCE
+Le juge Hershfield
+I. Les requêtes [1] L’intimée (la « Couronne ») a présenté une requête en ordonnance en vertu de l’article 58[1] des Règles de la Cour canadienne de l’impôt (procédure générale)[2] (les « Règles ») pour que soit tranchée la question suivante :
+[TRADUCTION]
+L’appelant [M. Tuccaro] est‑il en préclusion d’une remise en litige de la question de savoir si son revenu est exonéré d’impôt sur le revenu par le Traité 8, parce que la question est déjà tranchée?
+[2] L’appelant a présenté une requête en ordonnance en vertu des articles 48 et 53 des Règles pour que soient radiés certains passages de la réponse de la Couronne à l’avis d’appel modifié[3].
+II. Le contexte [3] L’appelant est un Indien au sens de l’article 2 de la Loi sur les Indiens[4] et un membre de la Première Nation crie Mikisew. Il est admis que l’intéressé résidait à tout moment pendant la période visée dans une réserve selon la définition de la Loi sur les Indiens, qu’il a déclaré un certain revenu en exonération dans les années visées (2002 à 2006 inclusivement) et qu’il a reçu des avis de cotisation sans exonération du revenu en question.
+[4] L’objet des deux requêtes présentées est cette exonération recherchée en vertu du Traité 8. C’est un traité au sens de la Loi constitutionnelle de 1982[5] qui a été conclu en 1899 par la Couronne et certaines Premières Nations. Dans l’avis d’appel modifié, l’exonération est également demandée en vertu de l’article 87 de la Loi sur les Indiens. Les requêtes dont je suis saisi ne traitent pas en soi de ces dispositions en matière d’exonération fiscale, mais j’y ferai référence plus loin dans mes Motifs.
+[5] Bref, les requêtes présentées découlent d’une suite antérieure de procédures interlocutoires. Les procédures ont commencé quand l’intimée a déposé le 5 juin 2013 une requête en radiation de certains passages de l’avis d’appel modifié de l’appelant et, en particulier, des parties traitant de l’application du Traité 8, ce que j’appellerai la « requête portant sur le Traité 8 de 2013 ». L’intimée a plaidé que l’invocation du Traité 8 représentait un recours abusif étant donné l’arrêt antérieur de la Cour d’appel fédérale (la « CAF ») dans l’affaire Benoit c. Canada[6].
+[6] Dans cette affaire, les demandeurs sollicitaient un jugement déclaratoire où la Couronne aurait accepté en vertu du Traité 8 de les exonérer d’impôt en tout temps. Lorsqu’il a accueilli la requête en radiation des passages où l’appelant plaidait l’exonération, le juge qui a entendu la requête portant sur le Traité 8 de 2013 a effectivement retenu le jugement porté dans l’arrêt Benoit selon lequel ce traité n’assurait pas une telle exonération générale.
+[7] Ce faisant, le juge des requêtes a invoqué le principe de la chose jugée pour accueillir la requête en radiation, mais en appliquant en réalité par la suite les principes de la doctrine du précédent obligatoire. Les parties ont interjeté appel devant la CAF (l’« arrêt Tuccaro »)[7].
+[8] Avant de poursuivre, je me dois de souligner que l’appelant et la Première Nation crie Mikisew n’étaient pas parties à l’affaire Benoit. La Première Nation crie Mikisew était toutefois membre de la Société tribale de l’Athabasca (la « STA »), qui était elle-même partie.
+Arrêt Tuccaro [9] La CAF a accueilli à l’unanimité l’appel de M. Tuccaro[8] et rejeté la requête portant sur le Traité 8 de 2013.
+[10] Le juge Webb de la CAF a conclu que le juge des requêtes avait commis une erreur de droit en appliquant le principe du précédent obligatoire avec l’arrêt Benoit comme précédent. Dans cet arrêt, la Cour d’appel fédérale s’était en effet contentée d’infirmer la décision du juge de première instance pour une question de fait, et non pour un point de droit. Plus précisément, la CAF avait jugé dans l’arrêt Benoit que la Section de première instance n’avait pas de preuve suffisante pour tirer la conclusion qui avait été la sienne quant à la compréhension que manifestaient les signataires autochtones du Traité 8. Au paragraphe 21, le juge Webb a dit :
+21 En accueillant l’appel, la Cour a mis l’accent sur la conclusion de fait, soit celle de savoir si « les signataires autochtones [avaient] compris qu’ils seraient exemptés du paiement de toute taxe, à quelque moment ou pour quelque motif que ce soit », et, après avoir examiné en détail le dossier, elle a conclu que la preuve n’était « pas suffisante pour appuyer [ce] point de vue » (au paragraphe 116). Il s’agissait d’une conclusion de fait qui faisait suite à l’examen des éléments de preuve et qui infirmait la conclusion de fait tirée par le juge de la Cour fédérale. Ayant tiré cette conclusion de fait, la Cour n’était pas tenue d’examiner les questions de droit touchant le Traité no 8. Dans l’affaire Benoit, la Cour a seulement tiré une conclusion de fait. Par conséquent, la doctrine du précédent obligatoire ne jouait pas. La question n’est pas de savoir si la Cour canadienne de l’impôt est « liée par le droit établi concernant l’absence d’effet juridique du Traité no 8 pour ce qui est de l’octroi à ses signataires d’une exonération d’impôt » (comme l’a écrit le juge de la Cour de l’impôt), mais celle de savoir si M. Tuccaro est lié par la conclusion de fait tirée à l’occasion de l’affaire Benoit. Les principes applicables sont ceux de la préclusion découlant d’une question déjà tranchée (un type de chose jugée), et non du précédent obligatoire.
+[11] D’après le juge Webb, la doctrine à invoquer dans le cas d’une requête en radiation des mentions du Traité 8 dans l’avis d’appel modifié n’est pas celle du précédent obligatoire, mais plutôt celle de la préclusion découlant d’une question déjà tranchée. Le défaut de considérer la préclusion signifiait qu’il y avait aussi défaut de considérer les éléments nécessaires de cette préclusion.
+[12] Le juge Webb avait déjà évoqué ces éléments :
+14 Les conditions d’application de la préclusion découlant d’une question déjà tranchée sont énoncées par le juge Dickson dans l’arrêt Angle (le juge citait la décision du Lord Guest dans l’arrêt Carl Zeiss Stiftung c. Rayner & Keeler Ltd. (No 2), [1967] 1 A.C. 853, à la page 935) :
+[traduction]
+(1) […] que la même question ait été décidée;
+(2) que la décision judiciaire invoquée comme créant la fin de non-recevoir soit finale; et
+(3) que les parties dans la décision judiciaire invoquée, ou leurs ayants droit, soient les mêmes que les parties engagées dans l’affaire où la fin de non-recevoir est soulevée, ou leurs ayants droit.
+[13] L’avocat de l’appelant dans l’affaire Tuccaro devant la CAF a admis que les deux premières conditions étaient réunies[9]. La troisième ne serait respectée que si l’appelant était en connexité d’intérêts avec la STA, mais ni le juge des requêtes ni la CAF ne disposaient d’éléments de preuve à ce sujet[10].
+III. Questions et arguments liés à l’article 58 des Règles [14] Le paragraphe 58(2) des Règles dit :
+58. […]
+(2) Lorsqu’une telle requête est présentée, la Cour peut rendre une ordonnance s’il appert que de trancher la question avant l’audience pourrait régler l’instance en totalité ou en partie, abréger substantiellement celle‑ci ou résulter en une économie substantielle de frais.
+[15] L’intimée a fait valoir qu’une décision en vertu des Règles permettrait d’écarter un motif d’appel et résulterait en une économie substantielle de frais. Si on répondait par l’affirmative à la question distincte de savoir si la STA était en connexité d’intérêts avec l’appelant et s’il était décidé de procéder à l’audition de la cause sans égard à l’applicabilité de la préclusion pour question déjà tranchée, la question au procès ne serait plus que celle de l’application de l’article 87 de la Loi sur les Indiens. Il va sans dire que l’intimée a cité un certain nombre de décisions où l’appel avait ainsi bifurqué en soutenant que la même logique devrait me faire accueillir la requête en vertu de l’article 58 des Règles dans la présente affaire[11]. L’appelant a cité la jurisprudence contraire[12].
+[16] L’appelant maintient et l’intimée réfute que, lorsque la CAF a annulé l’ordonnance de 2013 du juge des requêtes en radiation des mentions du Traité 8 dans l’avis d’appel modifié, elle jugeait nécessairement que de telles mentions pouvaient figurer dans cet acte de procédure. C’est pourquoi l’appelant allègue qu’il y aurait recours abusif si on permettait à l’intimée de remettre en litige cette question en vertu de l’article 58 de Règles.
+[17] Chaque partie affirme que l’autre remet en litige une question déjà tranchée.
+[18] L’appelant fait également valoir qu’il appartenait à l’intimée pour la requête portant sur le Traité 8 de 2013 d’apporter une preuve suffisante pour qu’on puisse juger si la troisième condition d’application de la préclusion est respectée. On ne peut à présent laisser à l’intimée une seconde chance d’apporter cette preuve[13].
+[19] L’appelant estime également que le dossier de l’affaire Benoit établit que la STA, partie à cette instance, n’était pas en connexité d’intérêts avec la Première Nation crie Mikisew. Il renvoie à son dossier de requête[14] où est reproduite une ordonnance du juge de première instance dans l’affaire Benoit. Cette ordonnance rejette une requête de la Couronne en désignation de la STA comme représentante de ses bandes membres aux fins de l’affaire Benoit. Le juge de première instance a rejeté cette requête qui n’était pas produite par consentement (l’« ordonnance de représentation de la C.F. 1re inst. dans l’affaire Benoit »). L’incidence de cette ordonnance et de l’ordonnance autorisant la STA à être partie au litige[15] (l’« ordonnance de la C.F. 1re inst. dans l’affaire Benoit portant sur la STA ») a été une question débattue devant moi.
+[20] L’intimée a fait fond sur l’ordonnance de la C.F. 1re inst. dans l’affaire Benoit portant sur la STA qui autorisait la STA à se joindre aux parties à l’affaire Benoit, ses membres pouvant être touchés par le résultat de ce recours. L’appelant a fait valoir qu’être touché par le résultat de l’affaire et être lié par ce résultat ne signifiaient pas la même chose. De même, il a signalé que l’ordonnance de représentation de la C.F. 1re inst. dans l’affaire Benoit était en réponse à une requête de la Couronne sollicitant une ordonnance au motif exprès que le résultat de l’affaire toucherait directement les Indiens membres des Premières Nations qui faisaient partie de la STA et qui pourraient remettre la question en litige s’ils n’étaient pas liés par le résultat de l’affaire. L’appelant soutenait que le rejet de la requête démontrait que, dans l’affaire Benoit, le juge de première instance n’avait pas l’intention d’accorder de mesure de redressement à la Couronne à l’égard de ce résultat.
+[21] L’intimée a allégué que la requête ayant mené à l’ordonnance de représentation de la C.F. 1re inst. dans l’affaire Benoit était une précaution inutile, puisque la STA serait de toute manière en connexité d’intérêts avec l’appelant et que, en tout état de cause, la requête était sans conséquence puisqu’elle avait été rejetée par défaut de consentement des parties.
+IV. Analyse de la requête en vertu de l’article 58 des Règles [22] Je conviens avec l’appelant que la décision dans l’arrêt Tuccaro, jointe à d’autres facteurs, devrait empêcher l’intimée de faire valoir sa thèse avec la requête en vertu de l’article 58 des Règles.
+[23] Permettre une décision en vertu de l’article 58 pouvant avoir pour effet la radiation des paragraphes de l’avis d’appel modifié équivaudrait à me permettre d’accorder à un autre juge des requêtes le pouvoir d’éviscérer l’ordonnance dans l’arrêt Tuccaro. On pourrait prétendre que le rejet de la requête en radiation des mentions du Traité 8 ne signifie pas obligatoirement que la CAF ait dit que le point avait été bien plaidé, mais il m’est impossible de songer à un autre résultat pouvant s’ensuivre de cette ordonnance. L’ordonnance de la CAF était de laisser en place les passages contestés de l’acte de l’appelant pour examen par le juge de première instance. Cette décision ne doit pas, à mon avis, être sapée par une autre procédure interlocutoire préalable.
+[24] Au paragraphe 29 de l’arrêt Tuccaro, le juge Webb dit :
+Par conséquent, j’accueillerais l’appel interjeté par M. Tuccaro à l’encontre de l’ordonnance portant radiation des paragraphes de son avis d’appel où il est question du Traité no 8.
+[25] Permettre l’application de l’article 58 des Règles serait en fait de permettre la radiation des paragraphes de l’avis d’appel modifié qui devaient y être laissés, selon ce qu’avait décidé la CAF.
+[26] Le juge Webb n’a pas renvoyé la question au juge des requêtes en vue d’un réexamen de la requête pour les bons motifs. C’est là un recours occasionnellement exercé là où le juge d’une juridiction inférieure a négligé un argument ou un point d’intérêt pertinent présenté par une partie.
+[27] On peut uniquement conclure que, en ne renvoyant pas l’affaire au juge des requêtes, la CAF trouvait à redire à la présentation que faisait la Couronne de sa requête dans la mesure où elle n’exposait pas au juge des requêtes tous les points utiles de droit et de fait qui s’appliquaient à un aspect tout à fait fondamental pour la mesure de redressement recherchée, à savoir le plaidoyer de recours abusif tenant à l’invocation du Traité 8.
+[28] Dans les motifs du jugement du juge Webb, je ne vois aucune invitation pour la Couronne à tenter sa chance une seconde fois et à tout recommencer. Ce serait aller à l’encontre d’une jurisprudence considérable selon laquelle les parties à un litige ont l’obligation d’exposer toutes leurs thèses, et les tribunaux ne devraient pas ensuite leur permettre de remettre en litige une question qui aurait dû être mise de l’avant au départ[16].
+[29] De même, je me range à l’avis de l’appelant qui allègue que, du fait que la Couronne vise l’ordonnance de représentation dans l’affaire Benoit et ne peut faire valoir son point, on se trouve à prêter un poids considérable à l’argument selon lequel la question visée dans la requête de l’intimée en vertu de l’article 58 des Règles avait déjà trouvé sa réponse dans ces procédures préalables. En d’autres termes, je vois un certain bien-fondé à l’argument de l’appelant qui dit, à propos de l’ordonnance de représentation de la C.F. 1re inst. dans l’affaire Benoit, que cette ordonnance est l’affirmation que la décision dans l’affaire Benoit ne lierait pas les membres de la STA. À tout le moins, l’argument suscite un doute considérable quant aux chances de la Couronne de faire valoir son point dans une décision en vertu de l’article 58 si la présente requête devait être accueillie.
+[30] Ainsi, l’ordonnance de représentation de la C.F. 1re inst. dans l’affaire Benoit est un obstacle de plus à surmonter pour décider d’accueillir la requête en vertu de l’article 58. Elle entre sûrement en ligne de compte dans l’examen de la question à laquelle la Couronne cherchait à obtenir réponse avec l’article 58 des Règles. La pertinence de la question peut être examinée à la lumière des principes du recours abusif, mais à ce stade je serais incapable de conclure que cette ordonnance serait déterminante ou concluante en la matière. Je suis enclin à penser que l’ordonnance de représentation de la C.F. 1re inst. dans l’affaire Benoit a à voir avec la probabilité de réussir avec la requête en vertu de l’article 58. Dans son examen des principes liés à des demandes semblables aux requêtes en vertu de l’article 58 des Règles, le juge Létourneau a dit, au paragraphe 14 de l’arrêt Perera c. Canada[17], qu’il se rangeait du côté de la jurisprudence pour la question de savoir si, dans l’exercice de sa discrétion de permettre qu’une question soit tranchée, le juge qui entend la requête doit seulement avoir la conviction que la question proposée sera probablement tranchée et que, de la sorte, l’instance sera réglée en totalité ou en partie. On pourrait être porté à dire que des chances minimales de succès suffisent, comme semble l’indiquer la juge Wood dans la décision Sentinel Hill Productions IV Corporation c. La Reine[18], mais j’estime que les probabilités ici sont un facteur qui joue en faveur d’une décision de ma part de ne pas accorder à l’intimée la tribune qu’elle recherche.
+[31] Qui plus est, il y a la question de savoir si le juge de première instance aurait nécessairement à traiter de la question de la préclusion. Si, à la discrétion de ce juge, l’examen se limitait en première instance à l’application de l’article 87, on aurait obvié à la nécessité d’examiner la preuve et l’argumentation relatives au Traité 8 en cas de décision favorable à l’appelant. Comme cette façon de gérer l’appel signifierait qu’une décision sur cette question avant procès pourrait finalement ne faire économiser ni temps ni argent[19], il y a là pour moi une nouvelle incitation à ne pas accueillir la requête en vertu de l’article 58.
+[32] Le juge de première instance devrait avoir et aura toute latitude pour gérer son appel en le faisant bifurquer s’il le juge nécessaire pour que l’instance se règle rapidement. Cette discrétion pourrait notamment l’amener à traiter de la question de la préclusion avant de s’attacher à la question du Traité 8 à la suite d’un premier examen de la question de l’article 87. La décision de ne pas accueillir la requête de l’article 58 des Règles n’empêcherait pas ce juge de traiter de la question à tout stade de l’instance où l’intimée pourrait la soulever (comme elle est appelée à le faire pour les raisons que je mentionne sous la prochaine rubrique).
+[33] Un dernier point : abstraction faite de la possibilité d’épargner des ressources considérables selon la façon dont l’instance est gérée, je ne suis pas persuadé que la question posée dans la requête permettrait de gagner temps et argent si je devais accueillir la requête de l’intimée. Au moment d’établir si la STA est en connexité d’intérêts avec l’appelant, je pourrais avoir besoin de nouveaux éléments de preuve pour soupeser les intentions des membres de cette société. La question pourrait être fort litigieuse et épineuse si l’ordonnance de représentation de la C.F. 1re inst. dans l’affaire Benoit n’expédie pas le tout. La CAF a dit dans l’arrêt Jurchison c. La Reine[20] : l’article 58 des Règles « n’est pas destiné[…] à servir de solution de rechange à laquelle il est facilement possible de recourir à la place d’un procès aux fins de régler des points litigieux complexes se rapportant aux droits et obligations des parties au litige[21]. » Le juge en chef Rossiter de la Cour a récemment fait valoir le même point en disant [traduction] « Une décision en vertu de l’article 58 des Règles ne devrait pas être une solution de rechange à laquelle il est facilement possible de recourir à la place d’une audience consacrée à des points litigieux complexes[22]. » Je pressens pour ma part que la question pourrait bel et bien être litigieuse. C’est là un autre facteur qui m’encourage à ne pas permettre l’examen de cette question dans une procédure interlocutoire.
+[34] Ces considérations dans l’ensemble me font conclure que la réponse à la question soulevée par l’intimée ne devrait pas venir de l’application de l’article 58 des Règles.
+V. Analyse de la requête en radiation [35] Les parties s’attendaient à ce que les arguments qui me persuaderaient de rejeter la requête de l’article 58 des Règles m’amèneraient en même temps à accueillir la requête de l’appelant pour que soient radiées toutes les mentions qui, dans la réponse de l’intimée à l’avis d’appel modifié, s’opposent à l’invocation du Traité 8 par l’appelant.
+[36] Ce n’est pas ma conclusion.
+[37] Revenons à la requête portant sur le Traité 8 de 2013 et disons qu’on y sollicitait la radiation de certains passages de l’avis d’appel modifié parce que l’invocation du Traité 8 par l’appelant en tant que motif d’appel représentait un recours abusif.
+[38] En permettant l’exclusion de l’invocation du Traité 8 par l’appelant, le juge des requêtes a ordonné la radiation de tous les paragraphes où ce traité était mentionné.
+[39] La CAF a accueilli l’appel interjeté par l’appelant de la décision rendue dans cette requête.
+[40] J’ai déjà parlé de la partie de l’arrêt de la CAF où le juge Webb dit :
+Par conséquent, j’accueillerais l’appel interjeté par M. Tuccaro à l’encontre de l’ordonnance portant radiation des paragraphes de son avis d’appel où il est question du Traité no 8.
+[41] Je ne pense pas, pour ce qui est du rejet de la requête en radiation de l’appelant, que l’ordonnance pose le même problème que si je devais accueillir la requête de l’intimée en vertu de l’article 58 des Règles.
+[42] Dans la décision du juge Webb, rien ne dit que l’intimée devrait se voir refuser la possibilité de répondre à ce que la CAF avait permis de soulever comme question. En laissant l’appelant soulever la question du Traité 8, la CAF a affirmé que le principe du précédent obligatoire ne l’empêchait pas d’invoquer ce traité. D’étendre maintenant la décision pour empêcher l’intimée de dûment traiter de cette même question devant le juge de première instance pour des motifs autres que le précédent obligatoire et la préclusion me semble une tentative d’étirer outre mesure l’arrêt de la CAF.
+[43] En d’autres termes, je peux voir que l’arrêt Tuccaro empêche l’intimée de reprendre la question de la préclusion dans une instance ultérieure, mais, corrélativement, rien ne dit qu’elle ne peut le faire en réponse à un point que la CAF a permis à l’appelant de plaider.
+[44] Comme on l’aura noté, le juge de première instance a toujours la possibilité d’examiner la question de la préclusion, puisque je n’ai pas rejeté la requête de l’intimée en vertu de l’article 58 à cause d’une fin de non-recevoir pour la Couronne. La question n’est pas exclue, puisque la préclusion n’était pas une question carrément posée devant la CAF pour qu’elle puisse en traiter. Rien dans les motifs de la décision du juge Webb n’empêche nécessairement l’intimée de faire valoir ce point devant le juge de première instance en réponse à l’appel de l’appelant. C’est là la question de la bonne tribune. Le si et le comment du traitement de cette question relèvent de la gestion de l’instance.
+[45] Ajoutons que le critère à appliquer pour une requête en radiation ne saurait permettre de radier une question sauf si le recours est sûr d’échouer[23]. On a là un critère plus permissif pour laisser les actes de procédure tels quels que les critères applicables au moment d’accueillir une requête pour décision en vertu de l’article 58 des Règles. On voit bien le rôle du juge de première instance d’évaluer une cause sur le fond par opposition à un jugement porté d’avance pour cause de ténuité ou de faiblesse appréhendée.
+[46] J’ajoute que je suis à l’aise avec les résultats de telles considérations où je me trouve à rejeter la requête en radiation de l’appelant même si, en apparence, elle permettrait de remettre en litige une question qui, selon moi, ne peut être réexaminée en vertu de l’article 58. Que l’intimée ne puisse chercher de sa propre initiative une seconde chance de s’attaquer aux actes de procédure de l’appelant dans une procédure interlocutoire ne veut pas dire que cette même intimée soit incapable dans une réponse aux actes de l’appelant de s’attaquer au motif d’appel et de faire valoir sa thèse au procès.
+[47] C’est pourquoi je rejetterais la requête de l’appelant en radiation des paragraphes ou des passages de la réponse qui parlent du Traité 8.
+[48] J’ai dit être à l’aise avec ces considérations, et je le suis du point de vue du droit, mais je dois avouer que, vu dans l’ensemble, le résultat de cette ordonnance offre un aspect troublant.
+[49] J’ai déjà accordé à l’appelant la possibilité de produire la preuve de l’intention des parties à un traité conclu il y a plus de cent ans. Comme la preuve en question était vraisemblablement disponible et d’une provenance plus récente au moment du procès Benoit, on peut se demander, dans la pratique et le temps passant, combien de tentatives distinctes d’invoquer le Traité 8 comme autorisant une exonération fiscale générale peuvent venir à procès.
+[50] De toute manière, le juge de première instance sera inévitablement appelé à décider de la façon de traiter de la question du Traité 8.
+VI. Autres parties de la requête en radiation [51] Il y a d’autres parties de la réponse que l’appelant voulait faire radier. Il a retiré ces parties de sa requête à la suite des observations que j’ai faites à son avocat à l’audience.
+[52] Les autres parties à radier de la réponse (mais qui ont été retirées) portaient sur les lignes directrices et les pratiques de l’Agence du revenu du Canada dans d’autres affaires invoquées par l’appelant (citées dans l’avis d’appel modifié) et contestées dans la réponse à l’avis d’appel pour non-pertinence.
+[53] Le retrait de telles requêtes en radiation va dans le sens des recommandations de la Cour suprême en ce qui concerne les procédures préalables à procès :
+32[…] La requête en jugement sommaire peut permettre d’économiser temps et ressources, mais, à l’instar de la plupart des procédures préalables au procès, elle peut ralentir l’instance si elle est utilisée de manière inappropriée. Bien que les juges puissent contribuer à la réduction de ce risque, et devraient le faire, les avocats doivent, conformément aux traditions de leur profession, agir de manière à faciliter plutôt qu’à empêcher l’accès à la justice. Ils devraient ainsi tenir compte des moyens limités de leurs clients et de la nature de leur dossier et élaborer des moyens proportionnés d’arriver à un résultat juste et équitable[24].
+[54] Je suis parfois enclin à dire que, dans bien des affaires, l’honneur de la profession demande que l’on évite les requêtes interlocutoires portant sur le caractère approprié des actes de procédure. Nous avons devant nous un de ces cas. Il n’est pas question ici des moyens limités des clients, mais on a là un bel exemple, puisque les deniers publics se trouvent attaqués sur trois fronts quand des contestations semblables se font à répétition[25]. De même, on se trouve à gaspiller des ressources judiciaires limitées quand des recours sont exercés successivement et à intervalles sous forme de requêtes ou autrement.
+[55] Pour les motifs cités, je rejette la requête de la Couronne et la requête de l’appelant. Chaque partie paie ses propres dépens.
+Signé à Ottawa, Canada, ce 20e jour de novembre 2015.
+« J. E. Hershfield »
+Juge Hershfield
+Traduction certifiée conforme
+ce 13e jour de mai 2016.
+Mario Lagacé, jurilinguiste
+RÉFÉRENCE :
+2015 CCI 290
+NO DU DOSSIER DE LA COUR :
+2013-188(IT)G
+INTITULÉ DE LA CAUSE :
+DAVID TUCCARO ET LA REINE
+LIEU DE L’AUDIENCE :
+Ottawa, Canada
+DATE DE L’AUDIENCE :
+Le 21 octobre 2015
+MOTIFS DE L’ORDONNANCE PAR :
+L’honorable juge J.E. Hershfield
+DATE DE L’ORDONNANCE :
+Le 20 novembre 2015
+COMPARUTIONS :
+Avocats de l’appelant :
+Me Maxime Faille
+Me Graham Ragan
+Avocats de l’intimée :
+Me William L. Softley
+Me Darcie Charlton
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Me Maxime Faille
+Me Graham Ragan
+Cabinet :
+Gowling Lafleur Henderson S.E.N.C.R.L.
+Pour l’intimée :
+Me William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Article ci‑après appelé l’« article 58 des Règles ».
+[2] DORS/90-688a.
+[3] L’historique procédural de cette affaire débute par le dépôt le 27 décembre 2012 de l’avis d’appel de l’appelant. Celui‑ci a présenté par la suite un projet d’avis d’appel modifié qui a été à la base des procédures interlocutoires préalables dont il est question dans les présents Motifs, bien que cet avis modifié ait été en réalité déposé une fois tranchées ces questions préalables. Ces procédures préparatoires visaient l’avis d’appel modifié, mais il a souvent été fait référence au seul avis d’appel initial. Il reste que ces avis ont une même caractéristique, puisqu’ils plaident l’exonération fiscale par le Traité 8, objet même des requêtes préalables qui concernent aujourd’hui les requêtes dont je suis saisi. Pour prévenir toute confusion, je parlerai, sauf s’il s’agit de citer, de l’avis d’appel modifié comme comprenant l’avis d’appel déposé en 2012, le projet d’avis d’appel modifié et l’avis d’appel modifié déposé le 3 septembre 2014, celui‑ci étant l’acte de procédure que je dois prendre en considération.
+[4] L.R.C. 1985, ch. I‑5.
+[5] Plus précisément, traité visé par les articles 25 et 35 de la Loi constitutionnelle de 1982, annexe B de la Loi de 1982 sur le Canada (R.‑U.), 1982, ch. 11.
+[6] 2003 CAF 236 [Benoit].
+[7] On peut lire l’exposé des motifs de l’ordonnance du juge des requêtes en 2013 en consultant le numéro de référence 2013 CCI 300. J’ajouterai que ce juge s’est reporté non seulement à l’arrêt Benoit, mais aussi à l’arrêt Dumont c. Canada, 2008 CAF 32. Il n’a pas été question de cette dernière décision à l’audience parce qu’il est mentionné au paragraphe 19 de l’arrêt de la Cour d’appel fédérale dans l’affaire Tuccaro que la décision en appel n’a été dictée que par la décision dans l’arrêt Benoit.
+[8] 2014 CAF 184.
+[9] Voir l’arrêt Tuccaro au par. 23.
+[10] Voir l’arrêt Tuccaro au par. 26.
+[11] Voir les décisions Ironside c. La Reine, 2015 CCI 116 et Mosher c. La Reine, 2013 CCI 378.
+[12] Voir les décisions Suncor Energy Inc c. La Reine, 2015 CCI 210 [Suncor], Kwok c. La Reine, 2008 CCI 238 [Kwok], McIntyre c. La Reine, 2014 CCI 111 et MacIver c. La Reine, 2005 CCI 250.
+[13] Entre autres décisions, l’appelant cite à l’appui de sa thèse les décisions Leier v. Shumiatcher (1962), 32 DLR (2e) 584, 37 WWR 605 (CA Sask), Doty v. Marks, [1925] 4 DLR 740 (CA Ont.) et Horii v. Canada (2000), 195 FTR 163, 101 ACWS (3e) 45.
+[14] À l’onglet « O » de l’affidavit de Linda Plitt no 2.
+[15] À l’onglet « I » de l’affidavit de Linda Plitt no 2.
+[16] Voir, par exemple, l’arrêt Maynard v. Maynard, [1951] RCS 346, [1951] 1 DLR 241, citant le juge Maugham dans la décision Green v. Weatherill. Cette décision traitait de l’application du principe de la chose jugée, mais les considérations exprimées sont également applicables à mes yeux lorsqu’il s’agit de s’attacher au caractère approprié d’une requête en vertu de l’article 58 des Règles.
+[17] 158 DLR (4e) 341 (CAF), [1998] 3 CF 381 [Perera].
+[18] 2013 CCI 267.
+[19] Comme on le fait remarquer dans la décision Kwok au par. 7 en citant l’arrêt Perera.
+[20] 2001 CAF 126.
+[21] Au par. 8.
+[22] Décision Suncor, au par. 27.
+[23] Dans l’arrêt Tuccaro au par. 5, le par. 15 de l’arrêt Succession Odhavji c. Woodhouse, 2003 CSC 69 est invoqué. Voir aussi l’arrêt R. c. Imperial Tobacco Canada Ltée, 2011 CSC 42, au par. 17.
+[24] Arrêt Hryniak c. Mauldin, 2014 CSC 7, [2014] 1 RCS 87 [Hryniak].
+[25] Je souligne le virage culturel préconisé par la Cour suprême dans l’arrêt Hryniak pour un processus judiciaire axé sur la proportionnalité, la rapidité et l’abordabilité.

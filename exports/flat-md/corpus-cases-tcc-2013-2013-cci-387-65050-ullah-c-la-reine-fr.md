@@ -1,0 +1,162 @@
+---
+title: "Ullah c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/65050/index.do"
+last_modified: "2013-12-05"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2013 CCI 387"
+citation2: ""
+neutral_citation: "2013 CCI 387"
+decision_date: "2013-12-05"
+language: "fr"
+item_id: "65050"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5907
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T14:54:17.319000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "085c490132fed335fb25d08f9146b6ffa2309b113149016581f7783afb2daeca"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Ullah c. La Reine
+
+- Citation: 2013 CCI 387
+- Decision date: 2013-12-05
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5907, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Ullah c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2013-12-05
+Référence neutre
+2013 CCI 387
+Numéro de dossier
+2011-3257(IT)I
+Juges et Officiers taxateurs
+Brent Paris
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2011-3257(IT)I
+ENTRE :
+FARHAT ULLAH,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu les 11 janvier, 1er mai et 8 octobre 2013
+à Montréal (Québec)
+Devant : L’honorable juge B. Paris
+Comparutions :
+Représentant de l’appelante :
+M. Esmat Ullah
+Avocate de l’intimée
+Me Amelia Fink
+JUGEMENT
+L’appel relatif aux nouvelles cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 2006, 2007, 2008 et 2009 est accueilli, avec dépens, et l’affaire est renvoyée au ministre du Revenu national pour nouvelle cotisation, étant entendu que l’appelante a droit à un crédit équivalent pour personne entièrement à charge en vertu de l’alinéa 118(1)b) de la Loi de l’impôt sur le revenu pour les années d’imposition 2006, 2007, 2008 et 2009.
+Signé à Vancouver (Colombie-Britannique), ce 5e jour de décembre 2013.
+« B. Paris »
+Juge Paris
+Traduction certifiée conforme
+ce 20e jour de janvier 2014.
+S. Tasset
+Référence : 2013 CCI 387
+Date : 20131205
+Dossier : 2011-3257(IT)I
+ENTRE :
+FARHAT ULLAH,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Paris
+[1] L’appelante interjette appel de nouvelles cotisations relatives à ses années d’imposition 2006, 2007, 2008 et 2009 par lesquelles le ministre du Revenu national (le « ministre ») lui a refusé un crédit équivalent pour personne entièrement à charge en vertu de l’alinéa 118(1)b) de la Loi de l’impôt sur le revenu (la Loi), et ce, pour chaque année.
+[2] À titre préliminaire, l’intimée cherche à faire annuler l’appel relatif à l’année d’imposition 2006. Elle déclare que la nouvelle cotisation relative à 2006 a été établie par le ministre après la fin de la période normale de nouvelle cotisation visée au paragraphe 152(4.2) de la Loi. Par conséquent, dit-elle, le paragraphe 165(1.2) empêche l’appelante d’y faire opposition. Si c’est le cas, l’appelante n’aurait pas le droit d’interjeter appel de la nouvelle cotisation auprès de la Cour car, d’après le paragraphe 169(1) de la Loi, un appel ne peut être déposé qu’après qu’un avis d’opposition a été signifié en vertu de l’article 165.
+[3] Malheureusement, je n’ai en main aucune preuve quant à la date à laquelle le ministre a établi la cotisation initiale à l’endroit de l’appelante pour son année d’imposition 2006 et, de ce fait, aucune preuve que la nouvelle cotisation qui est ici en appel a été établie conformément au paragraphe 152(4.2). Pour que l’appel soit annulé comme il le voudrait, le ministre serait tenu de produire une preuve concernant la date de la cotisation initiale. Habituellement, l’intimée le fait au moyen d’un affidavit établi sous serment par un agent de l’Agence du revenu du Canada (ARC), ainsi que le prévoit l’article 244 de la Loi. En l’absence d’une telle preuve, la Cour ne peut retenir la position de l’intimée selon laquelle l’appel concernant l’année d’imposition 2006 n’est pas valide.
+[4] Le seul point qu’il reste à trancher en l’espèce consiste à savoir si l’appelante a droit au crédit équivalent pour personne entièrement à charge pour ses années d’imposition 2006 à 2009.
+[5] Aux termes de l’alinéa 118(1)b), un contribuable peut demander un crédit dans le calcul de l’impôt payable s’il a subvenu aux besoins d’une personne liée qui était entièrement à sa charge (ou à celle du contribuable et d’une autre personne) et qui vivait avec lui. Les passages applicables du paragraphe 118(1) sont les suivants :
+118(1) Le produit de la multiplication du total des montants visés aux alinéas a) à e) par le taux de base pour l’année est déductible dans le calcul de l’impôt payable par un particulier en vertu de la présente partie pour une année d’imposition;
+[…]
+b) Crédit équivalent pour personne entièrement à charge – le total de [montant applicable pour l’année] et de la somme obtenue par la formule suivante :
+[montant applicable pour l’année] - D
+où :
+D représente le revenu d’une personne à charge pour l’année;
+si le particulier ne demande pas de déduction pour l’année par l’effet de l’alinéa a) et si, à un moment de l’année :
+(i) d’une part, il n’est pas marié ou ne vit pas en union de fait ou, dans le cas contraire, ne vit pas avec son époux ou conjoint de fait ni ne subvient aux besoins de celui-ci, pas plus que son époux ou conjoint de fait ne subvient à ses besoins;
+(ii) d’autre part, il tient, seul ou avec une ou plusieurs autres personnes, et habite un établissement domestique autonome où il subvient réellement aux besoins d’une personne qui, à ce moment, remplit les conditions suivantes :
+(A) elle réside au Canada, sauf s’il s’agit d’un enfant du particulier;
+(B) elle est entièrement à la charge soit du particulier, soit du particulier et d’une ou de plusieurs de ces autres personnes;
+(C) elle est liée au particulier;
+(D) sauf s’il s’agit du père, de la mère, du grand-père ou de la grand-mère du particulier, elle est soit âgée de moins de 18 ans, soit à charge en raison d’une infirmité mentale ou physique;
+[…]
+[6] Le paragraphe 118(4) prévoit certaines règles qui restreignent les crédits dont il est possible de se prévaloir en vertu du paragraphe 118(1), et cela inclut le crédit équivalent pour personne entièrement à charge. Aux termes de l’alinéa 118(4)a.1), aucun montant n’est déductible à titre de crédit équivalent pour personne entièrement à charge par un particulier pour une personne à l’égard de laquelle un crédit pour conjoint a été déduit par un autre particulier en vertu de l’alinéa 118(1)a). Le texte de l’alinéa 118(4)a.1) est le suivant :
+(4) Les règles suivantes s’appliquent aux déductions prévues au paragraphe (1) :
+[...]
+a.1) aucun montant n’est déductible en application du paragraphe (1) par l’effet de l’alinéa (1)b) par un particulier pour une année d’imposition, relativement à une personne à l’égard de laquelle un montant est déduit par l’effet de l’alinéa (1)a) par un autre particulier pour l’année si, tout au long de l’année, la personne et l’autre particulier sont mariés l’un à l’autre, ou vivent en union de fait l’un avec l’autre, et ne vivent pas séparés en raison de l’échec de leur mariage ou de leur union de fait;
+[7] Dans la présente affaire, l’appelante cherche à déduire un crédit équivalent pour personne entièrement à charge à l’égard de sa mère, avec laquelle elle vivait (en compagnie de son père) et aux besoins de laquelle elle a subvenu au cours des années en question. L’intimée soutient que l’appelante n’a pas droit à ce crédit parce que son père a déduit un crédit pour conjoint à l’égard de sa mère pour les mêmes années.
+[8] Le père de l’appelante a témoigné qu’il a effectivement demandé le crédit pour conjoint à l’égard de son épouse au moment de produire ses déclarations de revenus pour les années en litige, mais qu’il a tenté, en février 2011, de faire en sorte que le ministre rajuste ses déclarations relatives à ces années-là en vue de supprimer sa demande de crédit pour conjoint et de permettre à l’appelante de demander le crédit équivalent pour personne entièrement à charge. Le père de l’appelante est handicapé et, ces années-là, gagnait un faible revenu, et la suppression de sa demande de crédit pour conjoint ne l’aurait pas amené à devoir payer de l’impôt. Cependant, comme le père de l’appelante avait déclaré faillite en août 2010, le ministre a refusé sa demande de rajustement parce que celle-ci n’avait pas été présentée par la syndic de faillite.
+[9] Peu de temps après, le père de l’appelante a demandé à la syndic de faillite de présenter la demande. Selon le ministre, la syndic n’a jamais présenté de demande de rajustement et, de ce fait, les déclarations du père de l’appelante ont continué d’indiquer qu’il avait demandé le crédit pour conjoint à l’égard des années en litige. Cependant, la syndic a déclaré qu’elle avait bien envoyé une demande de rajustement à l’ARC, de pair avec une demande de rajustement de la demande du père de l’appelante concernant le montant pour personnes handicapées. Elle a produit une copie de la demande, et j’accepte que l’ARC l’a reçue, car le rajustement du montant pour personnes handicapées que la syndic a demandé a bel et bien été fait.
+[10] L’intimée soutient que même si la syndic a présenté la demande de rajustement, il est maintenant trop tard pour rajuster les déclarations du père de l’appelante parce que ces déclarations sont frappées de prescription. L’avocate a fait valoir que, bien que le ministre soit habilité, aux termes du paragraphe 152(4.2) de la Loi, à établir une nouvelle cotisation à l’endroit d’un contribuable, avec le consentement de ce dernier, après la date de prescription, cela ne peut être fait que si la nouvelle cotisation donnerait lieu à un remboursement ou à une réduction d’un montant à payer en vertu de la partie I de la Loi pour ce contribuable. L’intimée ajoute qu’étant donné que le rajustement du crédit pour conjoint ne donnerait pas lieu à un remboursement ou à une réduction d’un montant payable par le père de l’appelante, le ministre ne peut pas établir à son endroit une nouvelle cotisation en vertu du paragraphe 152(4.2), dont le texte est le suivant :
+(4.2) […] pour déterminer, à un moment donné après la fin de la période normale de nouvelle cotisation applicable à un contribuable […] pour une année d’imposition le remboursement auquel le contribuable a droit à ce moment pour l’année ou la réduction d’un montant payable par le contribuable pour l’année en vertu de la présente partie, le ministre peut, si le contribuable demande pareille détermination au plus tard le jour qui suit de dix années civiles la fin de cette année d’imposition, à la fois :
+a) établir de nouvelles cotisations concernant l’impôt, les intérêts ou les pénalités payables par le contribuable pour l’année en vertu de la présente partie;
+[...]
+[11] La position de l’intimée présente, à mes yeux, un certain nombre de difficultés.
+[12] Premièrement, selon l’alinéa 118(4)a.1), un crédit équivalent pour personne entièrement à charge ne peut pas être déduit dans le calcul de l’impôt qu’une personne doit payer si une autre personne a déduit un crédit pour conjoint à l’égard du même particulier lors du calcul de l’impôt à payer. À mon avis, lorsqu’une personne déduit un crédit pour conjoint dans sa déclaration de revenus, mais que cette déduction ne réduit pas ou ne change en rien l’impôt à payer, on ne peut pas dire qu’il y a eu déduction d’un montant quelconque lors du calcul de l’impôt à payer. Il faudrait que le crédit ait une incidence sur l’impôt exigible par ailleurs pour que l’on puisse dire que ce crédit a été déduit lors du calcul de l’impôt.
+[13] En conséquence, étant donné qu’aucune déduction du crédit pour conjoint n’a été accordée au père de l’appelante lors du calcul de son impôt exigible en vertu de la partie I de la Loi pour les années en litige, rien n’interdit à l’appelante de déduire des crédits équivalents pour personne entièrement à charge à l’égard de ces années-là. Il n’est pas nécessaire d’établir une nouvelle cotisation à l’égard des années d’imposition 2006 à 2009 du père de l’appelante.
+[14] Par ailleurs, il existe aussi des précédents à l’appui de la thèse selon laquelle le ministre peut rajuster les déclarations d’un contribuable après la fin de la période normale de nouvelle cotisation, même si ce rajustement ne donne pas lieu à une réduction d’un montant payable en vertu de la partie I de la Loi. Dans l’arrêt Clibetre Exploration Ltd. c La Reine, 2003 CAF 16, la contribuable avait fait état de pertes autres qu’en capital dans ses déclarations de revenus concernant ses années d’imposition 1980 à 1995. En 1996, ses revenus avaient dépassé les pertes autres qu’en capital d’années antérieures qu’elle pouvait reporter prospectivement. Elle avait cherché à requalifier les dépenses qui, dans les années antérieures, avaient créé les pertes autres qu’en capital en les transformant en frais d’exploration au Canada (FEC) de façon à réduire ses revenus à zéro pour 1996. Le ministre avait refusé la demande de la contribuable au motif que les années antérieures étaient maintenant prescrites et que cela l’empêchait donc d’établir une nouvelle cotisation pour ces années en vue de requalifier les dépenses en tant que FEC. La Cour d’appel fédérale a rejeté la position du ministre, disant au paragraphe 6 :
+Nous sommes tous d'avis que l'interprétation que le ministre donne du paragraphe 152(4) est erronée, et que le juge de la Cour de l'impôt a commis une erreur en l'acceptant. Si, en fait, Clibetre a déclaré des pertes autres qu'en capital pour chaque année de 1980 à 1995, il n'est pas nécessaire que le ministre établisse une nouvelle cotisation pour ces années afin de qualifier de frais d'exploration au Canada les montants qui sont à l'origine des pertes autres qu'en capital qui ont déjà été réclamées pour ces années. Cela vient de ce que le revenu imposable et donc l'impôt payable pour chacune de ces années serait nul, que les dépenses de l'année soient réclamées comme déductions dans le calcul d'une perte autre qu'en capital, ou qu'elles soient traitées comme frais d'exploration au Canada. Nous concluons donc qu'il n'y a pas d'obstacle législatif à demander cette nouvelle qualification.
+[15] Bien qu’il ne soit pas nécessaire que je me prononce sur le point évoqué, ma décision selon laquelle le père de l’appelante ne s’est prévalu d’aucune déduction, j’aurais également conclu dans la présente affaire qu’il n’aurait pas été nécessaire que le ministre établisse une nouvelle cotisation à l’endroit du père de l’appelante en vue de supprimer la demande de crédit pour conjoint, car celle-ci n’avait aucun effet sur l’impôt qu’il avait à payer. Comme dans Clibetre, l’impôt aurait été nul, que le crédit pour conjoint ait été demandé ou non.
+[16] Enfin, je signale également qu’à l’époque où la syndic a demandé à l’ARC de supprimer la demande de crédit pour conjoint du père de l’appelante, la période normale de nouvelle cotisation concernant les années d’imposition 2008 et 2009 de ce dernier n’avait pas encore expiré. Selon les pièces R‑3 et R‑4, ces années ont fait l’objet d’une cotisation initiale le 23 mars 2009 et le 29 avril 2010, respectivement. De ce fait, même s’il avait fallu que le ministre établisse une nouvelle cotisation en vue de supprimer la demande de crédit pour conjoint, la demande relative aux années d’imposition 2008 et 2009 aurait été déposée à temps.
+[17] Pour toutes ces raisons, l’appel est accueilli et l’affaire est renvoyée au ministre pour nouvelle cotisation, étant entendu que l’appelante a droit à un crédit équivalent pour personne entièrement à charge en vertu de l’alinéa 118(1)b) de la Loi pour ses années d’imposition 2006, 2007, 2008 et 2009.
+[18] J’accorde également à l’appelante des dépens établis à 250 $.
+Signé à Vancouver (Colombie-Britannique), ce 5e jour de décembre 2013.
+« B. Paris »
+Juge Paris
+Traduction certifiée conforme
+ce 20e jour de janvier 2014.
+S. Tasset
+RÉFÉRENCE : 2013 CCI 387
+No DU DOSSIER DE LA COUR : 2011-3257(IT)I
+INTITULÉ : FARHAT ULLAH ET SA MAJESTÉ LA REINE
+LIEU DE L'AUDIENCE : Montréal (Québec)
+DATE DE L’AUDIENCE : Les 11 janvier, 1er mai et 8 octobre 2013
+MOTIFS DU JUGEMENT : L’honorable juge B. Paris
+DATE DU JUGEMENT : Le 5 décembre 2013
+COMPARUTIONS
+Représentant de l’appelante :
+M. Esmat Ullah
+Avocate de l’intimée
+Me Amelia Fink
+AVOCATS INSCRITS
+AU DOSSIER :
+Pour l’appelante :
+Nom : s.o.
+Cabinet : s.o.
+Pour l’intimée : William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada

@@ -1,0 +1,159 @@
+---
+title: "Sarophim c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30752/index.do"
+last_modified: "2012-03-21"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2012 CCI 92"
+citation2: ""
+neutral_citation: "2012 CCI 92"
+decision_date: "2012-03-21"
+language: "fr"
+item_id: "30752"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7501
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T14:44:20.129000+00:00"
+cases_cited_count: 4
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "e4418d5fed0c95060c729a321e81af06a1c777df5a8c3c53fbfb120ba786b92f"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Sarophim c. La Reine
+
+- Citation: 2012 CCI 92
+- Decision date: 2012-03-21
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7501, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Sarophim c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2012-03-21
+Référence neutre
+2012 CCI 92
+Numéro de dossier
+2011-1105(IT)I
+Juges et Officiers taxateurs
+Lucie Lamarre
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2011-1105(IT)I
+ENTRE :
+Samir Sarophim,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 5 mars 2012 à Vancouver (Colombie‑Britannique).
+Devant : L’honorable juge Lucie Lamarre
+Comparutions :
+Pour l’appelant :
+L’appelant lui‑même
+Avocat de l’intimée :
+Me Jonathan Wittig
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’encontre de la nouvelle cotisation établie en vertu de la Loi de l’impôt sur le revenu à l’égard de l’année d’imposition 2009 est rejeté, conformément aux motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 21e jour de mars 2012.
+« Lucie Lamarre »
+Juge Lamarre
+Traduction certifiée conforme
+ce 5e jour de juillet 2012.
+Espérance Mabushi, M.A.Trad. Jur.
+Référence : 2012 CCI 92
+Date : 20120321
+Dossier : 2011-1105(IT)I
+ENTRE :
+Samir Sarophim,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Lamarre
+[1] Il s’agit d’un appel interjeté à l’encontre d’une nouvelle cotisation établie par le ministre du Revenu national (le « ministre ») en vertu de la Loi de l’impôt sur le revenu (la « Loi ») pour l’année d’imposition 2009 de l’appelant. Le ministre a refusé la déduction de frais juridiques de 15 875 $ que l’appelant avait demandée dans le calcul de son revenu pour l’année en question. La déduction des frais juridiques a été refusée en application de l’alinéa 18(1)a) de la Loi au motif que ces frais avaient été engagés en vue de renégocier ou de contester la pension alimentaire qui devait être versée aux termes d’une ordonnance sur consentement rendue par la Cour suprême de la Colombie‑Britannique et datée du 24 août 2006 et que, par conséquent, ces frais n’avaient pas été engagés en vue de produire un revenu (paragraphes 8 et 13 de la réponse à l’avis d’appel).
+[2] L’appelant s’oppose à la nouvelle cotisation au motif que 1) les frais juridiques ont été supportés pour établir son droit à un revenu (et donc pour produire un revenu) en protégeant le montant qui devait être payé à son ex-épouse, ce qu’il appelle une conservation de revenu par opposition à une production de revenu (question et motif d’appel, à la page 4), et que 2) la pratique de refuser la déduction de frais juridiques à une personne qui assure sa défense dans une action en paiement de pension alimentaire intentée contre elle par son ex‑épouse, alors que les frais juridiques supportés par l’ex‑épouse du demandeur sont déductibles, est inéquitable et discriminatoire. Dans son Avis de question constitutionnelle, l’appelant soutient que cette pratique constitue une discrimination fondée sur le sexe, étant donné que la plupart des payeurs de pension alimentaire sont des hommes, et que la pratique est donc inconstitutionnelle selon l’article 15 de la Charte canadienne des droits et libertés (la « Charte »).
+Dispositions légales
+Loi de l’impôt sur le revenu
+Déductions
+ARTICLE 18 :
+18(1)
+(1) Exceptions d’ordre général. Dans le calcul du revenu du contribuable tiré d’une entreprise ou d’un bien, les éléments suivants ne sont pas déductibles :
+18(1)a)
+a) Restrictions générales — les dépenses, sauf dans la mesure où elles ont été engagées ou effectuées par le contribuable en vue de tirer un revenu de l’entreprise ou du bien;
+18(1)b)
+b) Dépense ou perte en capital — une dépense en capital, une perte en capital ou un remplacement de capital, un paiement à titre de capital ou une provision pour amortissement, désuétude ou épuisement, sauf ce qui est expressément permis par la présente partie;
+Charte canadienne des droits et libertés
+Droits à l’égalité
+Égalité devant la loi, égalité de bénéfice et protection égale de la loi
+15(1) La loi ne fait acception de personne et s’applique également à tous, et tous ont droit à la même protection et au même bénéfice de la loi, indépendamment de toute discrimination, notamment des discriminations fondées sur la race, l’origine nationale ou ethnique, la couleur, la religion, le sexe, l’âge ou les déficiences mentales ou physiques.
+Faits
+[3] Au moyen d’une ordonnance sur consentement datée du 24 août 2006 (pièce A‑2), l’appelant a été enjoint à verser à son ex‑épouse une pension alimentaire pour enfants et une pension alimentaire pour conjoint. La pension alimentaire pour conjoint était révisable au plus tôt le 30 septembre 2008 (pièce A-2, au paragraphe 19).
+[4] Le 26 mai 2009, l’ex‑épouse de l’appelant a déposé auprès de la Cour suprême de la Colombie‑Britannique une requête en révision, qui a été modifiée le 8 septembre 2009. Il s’agissait d’une requête présentée en vue d’obtenir, entre autres, une modification rétroactive du montant de la pension alimentaire pour conjoint payable conformément à l’ordonnance sur consentement datée du 24 août 2006, et une contribution supplémentaire de l’appelant au paiement des frais de scolarité pour les deux enfants, ce qui a été contesté par l’appelant (motifs du jugement joints à l’ordonnance datée du 8 mars 2011, pièce A-3, aux paragraphes 1, 2, 3, 14 et 20).
+[5] L’ordonnance du 8 mars 2011 signée par le juge Savage prévoyait une augmentation de la pension alimentaire pour conjoint pour une partie de l’année 2009 et par la suite. Le montant pouvait être révisé lorsque le cadet cesserait d’être un enfant à charge, c’est‑à‑dire, à partir du 24 septembre 2010. La pension alimentaire que l’appelant devait verser à son ex‑épouse était fondée sur le revenu annuel de l’appelant, qui était beaucoup plus élevé que celui de son ex‑épouse. L’ordonnance prévoyait également le paiement par l’appelant de sa part des frais de scolarité des enfants.
+[6] Le 12 novembre 2010, une autre requête en révision a été déposée auprès de la Cour suprême de la Colombie‑Britannique, cette fois‑ci pour que soit fixée la pension alimentaire pour conjoint payable par l’époux. La question principale dans cette requête était de savoir s’il devrait être tenu compte de tous les aspects du revenu de l’époux aux fins du paiement de la pension alimentaire pour conjoint et s’il ne devrait pas y avoir une imputation de revenu à l’égard de l’épouse (motifs du jugement rendus par le juge Groves joints à l’ordonnance datée du 18 mai 2011, pièce A‑4, au paragraphe 18). La Cour a bien imputé un montant supplémentaire modeste au revenu de l’épouse, alors qu’elle a établi un revenu beaucoup plus élevé à l’égard de l’époux aux fins du paiement de la pension alimentaire pour conjoint, ce qui a entraîné une augmentation de la pension alimentaire pour conjoint payable par l’appelant (paragraphes 25, 29, 39, 48 et 50 des motifs du jugement).
+[7] En l’espèce, l’appelant et l’intimée ont produit sous les cotes A‑1 et R‑1 les factures des avocats de l’appelant pour 2009. Des lettres similaires provenant de deux cabinets d’avocats (l’une de Farris, Vaughan, Wills & Murphy LLP datée du 16 mars 2010 et l’autre de Pepper Longe de Guzman LLP datée du 28 avril 2010) ont été incluses sous la cote R‑1. Dans ces lettres, il est déclaré que 70 % des factures totales du cabinet (70 % représentant 9 128,11 $ dans la première lettre et 6 747,75 $ dans la seconde lettre) concerneraient une ordonnance de pension alimentaire pour enfants comportant des exigences de communication continue relatives au revenu. Alors que je constate que le total de ces montants est de 15 875 $, qui est le montant en cause, aucune explication n’a été réellement fournie quant à la manière dont le même pourcentage de 70 avait été établi par les deux cabinets d’avocats différents.
+Analyse
+[8] Il est maintenant établi en droit que les frais juridiques supportés par le payeur d’une pension alimentaire (soit pour empêcher qu’elle soit établie ou augmentée, soit pour la diminuer ou pour y mettre fin) ne peuvent pas être considérés comme ayant été supportés pour gagner un revenu, et les tribunaux n’ont jamais reconnu de droit à la déduction de ces frais (Nadeau c. M.R.N., 2003 CAF 400, [2004] 1 R.C.F. 587, au paragraphe 18). L’Agence du revenu du Canada (l’« ARC ») a énoncé cette position dans son bulletin d’interprétation IT‑99R5 (daté du 11 décembre 1998 et révisé le 5 décembre 2007), au paragraphe 21, où elle déclare que, pour le payeur, les frais juridiques engagés pour la négociation ou la contestation d’une demande de pension alimentaire ne sont pas déductibles, étant donné qu’ils constituent des frais personnels ou de subsistance. Cette déclaration a été approuvée par le juge en chef Bowman comme étant un exposé juste du droit applicable dans la décision Loewig c. Canada, 2006 CCI 476, au paragraphe 10.
+[9] En l’espèce, il apparaît que l’appelant se trouve exactement dans une telle situation. Sauf en ce qui concerne le rajustement pour les frais de scolarité des enfants, qui sont manifestement des frais personnels, les frais juridiques supportés en 2009 l’ont été relativement à une requête présentée par l’ex‑épouse de l’appelant en vue d’obtenir une augmentation de la pension alimentaire pour conjoint qui avait été déterminée auparavant dans l’ordonnance sur consentement. Compte tenu de l’écart entre le revenu de l’appelant et celui de son ex‑épouse, il est également évident que c’est à l’appelant qu’il reviendrait de payer une pension alimentaire et qu’il ne pouvait avoir aucune attente raisonnable qu’une quelconque pension alimentaire lui soit accordée. Dans ce contexte, l’appelant ne pouvait pas soutenir, et il ne l’a pas fait, qu’au moment où les frais juridiques ont été supportés, il avait une attente raisonnable de tirer un revenu d’un bien à l’égard de son opposition à la requête (Mercier c. La Reine, 2011 CCI 427, au paragraphe 18).
+[10] L’argument de l’appelant selon lequel il a supporté des frais juridiques pour établir son droit à un revenu (et par conséquent pour produire un revenu) en protégeant le montant qui devait être payé à son ex‑épouse, ce qu’il appelle une conservation de revenu par opposition à une production de revenu, ne peut pas être admis en l’espèce. Selon le raisonnement de l’appelant, protéger le revenu signifie le fait de ne pas payer de pension alimentaire ou d’en payer peu, de sorte qu’il garderait plus d’argent pour lui. Cette situation est différente de celle où il est question de tirer un revenu d’une source. Une source de revenus est une activité exercée en vue de réaliser un profit ou une activité exercée de manière suffisamment commerciale (Stewart c. Canada, [2002] 2 R.C.S. 645, aux paragraphes 51, 52 et 60). Pour qu’une dépense soit déductible au titre de l’alinéa 18(1)a) de la Loi, la dépense doit être attribuée à une source particulière de revenu constituée d’une entreprise ou d’un bien (Stewart, au paragraphe 56). Les frais juridiques supportés pour s’opposer au paiement d’une pension alimentaire ne peuvent donc pas être qualifiés de dépenses supportées pour tirer un revenu d’une source.
+[11] En ce qui concerne l’argument fondé sur la Charte canadienne des droits et libertés (la « Charte »), comme le proposait la Cour d’appel fédérale dans l’arrêt Nadeau, précité, aux paragraphes 37 et 39 lorsqu’elle a renvoyé à l’arrêt Law c. Canada (Ministre de l’Emploi et de l’Immigration), [1999] 1 R.C.S. 497, au paragraphe 57, rendu par la Cour suprême du Canada, l’appelant doit démontrer que la disposition légale contestée (en l’espèce, l’alinéa 18(1)a) de la Loi) crée entre le demandeur et d’autres personnes, sur le fondement des motifs énumérés ou de motifs analogues, une différence de traitement qui entraîne de la discrimination. En l’absence d’un exposé factuel pertinent sur lequel peut être fondée une telle décision, il ne conviendrait pas de tenter de trancher la question.
+[12] Tout comme dans l’arrêt Nadeau, précité, l’appelant se limite à dire, dans ses observations, que les frais juridiques devraient être assujettis au même traitement pour chacun des ex-conjoints. L’appelant affirme en outre que le fait qu’il n’en soit pas ainsi constitue une discrimination fondée sur le sexe, étant donné que la plupart des payeurs de pension alimentaire sont des hommes, et que la pratique actuelle est donc inconstitutionnelle selon l’article 15 de la Charte. Toutefois, « [c]omme le disait la Cour suprême dans Symes c. Canada, [1993] 4 R.C.S. 695 (aux pages 764 et 765), l’on ne peut évidemment pas présumer qu’une disposition législative possède un effet discriminatoire sur le sexe lorsque la preuve n’en est pas faite » (voir Nadeau, précité, au paragraphe 39). En l’espèce, sauf une assertion générale qu’il a faite, l’appelant n’a fourni aucune preuve de discrimination fondée sur le sexe.
+[13] De plus, dans la décision Calogeracos c. La Reine, 2008 CCI 389, invoquée par l’avocat de l’intimée, le juge Webb, de la Cour, a fait les observations suivantes, concernant le crédit d’impôt pour enfants qui, en application du paragraphe 118(5) de la Loi, a été refusé au père qui payait la pension alimentaire pour enfants :
+21 Cependant, c’est le paragraphe 118(5) de la Loi qui doit être examiné pour décider s’il établit une distinction entre les hommes et les femmes. Le paragraphe 118(5) n’établit aucune distinction entre les hommes et les femmes. Autant les hommes que les femmes qui versent des pensions alimentaires pour enfants sont privés du crédit d’impôt prévu à l’alinéa 118(1)b) de la Loi, par l’effet du paragraphe 118(5) de la Loi. Comme je l’ai mentionné ci‑dessus, le juge Ioacobucci s’est ainsi exprimé dans Law :
+Premièrement, la loi contestée a) établit‑elle une distinction formelle entre le demandeur et d’autres personnes en raison d’une ou de plusieurs caractéristiques personnelles, ou b) omet‑elle de tenir compte de la situation défavorisée dans laquelle le demandeur se trouve déjà dans la société canadienne, créant ainsi une différence de traitement réelle entre celui-ci et d’autres personnes en raison d’une ou de plusieurs caractéristiques personnelles?
+22 En l’espèce, la disposition en cause n’établit pas une distinction formelle entre les hommes et les femmes, et elle n’omet pas de tenir compte de la situation défavorisée dans laquelle l’appelant se trouve déjà dans la société canadienne. La disposition établit une distinction entre les personnes qui versent des pensions alimentaires pour enfants et celles qui n’en versent pas; cette distinction étant basée sur les niveaux de revenus des parents, puisque l’obligation de verser une pension alimentaire pour enfants est fondée sur les niveaux de revenus relatifs des parents. L’appelant ne peut pas fonder une allégation de discrimination sur le fait que ce sont plus souvent les hommes qui versent des pensions alimentaires pour enfants dans les cas de garde partagée, car les hommes dont les revenus sont plus élevés que ceux des femmes ne sont pas dans une situation défavorisée dans la société canadienne.
+[14] Je suis d’accord avec l’avocat de l’intimée sur le fait que le même raisonnement s’applique à l’égard des déductions refusées en application de l’alinéa 18(1)a) de la Loi en l’espèce. Ainsi, la contestation constitutionnelle ne peut pas être admise.
+[15] L’appel est rejeté.
+Signé à Ottawa, Canada, ce 21e jour de mars 2012.
+« Lucie Lamarre »
+Juge Lamarre
+Traduction certifiée conforme
+ce 5e jour de juillet 2012.
+Espérance Mabushi, M.A.Trad. Jur.
+RÉFÉRENCE : 2012 CCI 92
+NO DU DOSSIER DE LA COUR : 2011-1105(IT)I
+INTITULÉ : Samir Sarophim
+c.
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Vancouver (Colombie‑Britannique)
+DATE DE L’AUDIENCE : Le 5 mars 2012
+MOTIFS DU JUGEMENT : L’honorable juge Lucie Lamarre
+DATE DU JUGEMENT : Le 21 mars 2012
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui‑même
+Avocat de l’intimée :
+Me Jonathan Wittig
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada

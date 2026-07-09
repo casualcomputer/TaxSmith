@@ -1,0 +1,273 @@
+---
+title: "Laboratoire G.M.F (1983) Inc. v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/25515/index.do"
+last_modified: "2003-11-12"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 TCC 776"
+citation2: ""
+neutral_citation: "2003 TCC 776"
+decision_date: "2003-11-12"
+language: "en"
+item_id: "25515"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2373
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T17:32:19.693000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "c64e408f80b507a7d72783d817fe3d416ff1c368bb8d1216a2d69f9bcdcb88e0"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Laboratoire G.M.F (1983) Inc. v. M.N.R.
+
+- Citation: 2003 TCC 776
+- Decision date: 2003-11-12
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2373, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Laboratoire G.M.F (1983) Inc. v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-11-12
+Neutral citation
+2003 TCC 776
+File numbers
+2002-4802(EI)
+Judges and Taxing Officers
+Alain Tardif
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2002-4802(EI)
+BETWEEN:
+LABORATOIRE G.M.F. (1983) INC.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+RENÉ COMEAU,
+Intervener.
+[OFFICIAL ENGLISH TRANSLATION]
+_____________________________________________________________
+Appeal heard on October 1st, 2003, at Montréal, Quebec
+Before: The Honourable Justice Alain Tardif
+Appearances:
+Counsel for the Appellant:
+Michel Messier
+Counsel for the Respondent:
+Philippe Dupuis
+For the Intervener:
+The Intervener himself
+____________________________________________________________________
+JUDGMENT
+The appeal is dismissed and the Minister's decision is affirmed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 12th day of November 2003.
+"Alain Tardif"
+Tardif J.
+Translation certified true
+on this 6th day of March 2009.
+Brian McCordick, Translator
+Citation: 2003TCC776
+Date: 20031112
+Docket: 2002-4802(EI)
+BETWEEN:
+LABORATOIRE G.M.F. (1983) INC.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+RENÉ COMEAU,
+Intervener.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Tardif J.
+[1] This is an appeal from a determination by the Respondent, dated October 4, 2002, that the work performed by the Intervener, René Comeau, for and on behalf of Laboratoire G.M.F. (1983) Inc., during the period from January 1, 2001 to February 1, 2002, was insurable employment.
+[2] The Appellant argued, first, that Mr. Comeau lacked the legal capacity to initiate any proceeding in relation to the insurability of the work performed since he did not have possession of his property as a result of the assignment of that property.
+[3] The Intervener, in the Appellant's submission, no longer had legal capacity to bring any proceeding whatsoever that would affect his estate. Instead, still according to the Appellant, he should have had the trustee intervene or sought the trustee's permission to file a claim in relation to the insurability of the work performed.
+[4] I will begin by disposing of this preliminary issue:
+· Subsection 71(2) of the Bankruptcy and Insolvency Act ("B.I.A.") provides:
+On a receiving order being made or an assignment being filed with an official receiver, a bankrupt ceases to have any capacity to dispose of or otherwise deal with his property, which shall, subject to this Act and to the rights of secured creditors, forthwith pass to and vest in the trustee named in the receiving order or assignment, and in any case of change of trustee the property shall pass from trustee to trustee without any conveyance, assignment or transfer.
+· Of course, a bankrupt loses possession of his property. However, he does not become totally bereft. He retains his personal rights and the capacity to bring proceedings to retain or assert his personal rights. Furthermore, the bankrupt retains the possession of the property that is not vested in the trustee. Under subsection 67(1) of the B.I.A., the property vested in the trustee comprises:
+. . .
+(c) all property wherever situated of the bankrupt at the date of his bankruptcy or that may be acquired by or devolve on him before his discharge, and
+(d) such powers in or over or in respect of the property as might have been exercised by the bankrupt for his own benefit.
+· The property exempt from seizure in Quebec is listed in the Code of Civil Procedure, primarily in article 553 of that Code.
+. . .
+7. Benefits payable under a supplemental pension plan to which an employer contributes on behalf of his employees, other amounts declared unseizable by an Act governing such plans and contributions paid or to be paid into such plans;
+. . .
+11. All gross salaries and wages to the extent of 70 % of the excess over the following unseizable portion:
+(a) $180 per week, plus $30 per week for each dependant in excess of two, if the debtor is supporting his or her spouse, has a dependent child, or is the main support of a relative; or
+(b) $120 per week in all other cases.
+· Employment insurance benefits are included in "All gross salaries and wages" referred to in article 553(11) of the Code of Civil Procedure. Also, under the B.I.A., these salaries and wages are not automatically included in the estate attributed to the bankrupt's creditors. Subsection 68(3) provides:
+The trustee shall
+(a) having regard to the applicable standards established under subsection (1), and to the personal and family situation of the bankrupt, fix the amount that the bankrupt is required to pay to the estate of the bankrupt; (b) inform the official receiver in writing of the amount fixed under paragraph (a); and (c) take reasonable measures to ensure that the bankrupt complies with the requirement to pay.
+· Finally, it is important, in my view, to recall the content of subsection 42(1) of the Employment Insurance Act, which reads as follows:
+Non-assignment of Benefits and Liability to Return Benefits and Pay Penalties
+Benefits not assignable
+42. (1) Subject to subsections (2) and (3), benefits are not capable of being assigned, charged, attached, anticipated or given as security and any transaction appearing to do so is void.
+[5] In the case at bar, not only was the bankrupt fully entitled to intervene in this appeal, he was also fully justified in initiating a proceeding to determine the insurability of the work he had performed. This was a personal right and had nothing to do with the bankruptcy.
+[6] As to Mr. Comeau's legal capacity, both in terms of the proceedings initiated to determine the insurability of the work performed and in terms of his intervention in this case, I find that Mr. Comeau was completely justified in taking steps on his own to obtain a determination as to the insurability of his work; he could also intervene personally in this appeal.
+[7] Did the work performed by the Intervener Mr. Comeau during the period from January 1, 2001 to February 1, 2002 constitute insurable employment?
+[8] The Appellant argued that the work was not insurable, since it did not meet the tests laid down by the case law. In its view, there was no employer-employee relationship since it had no power of control over the deeds and actions of Mr. Comeau, whom it defined as a self-employed worker operating his own business.
+[9] The Respondent, for his part, argued that there was indeed an employer-employee relationship in that the major tests — namely, control, chance of profit, risk of loss, ownership of the tools and integration — required such a finding.
+[10] The evidence disclosed that Mr. Comeau and the Appellant went through a period of considerable strain as a result of the break-up of the economic relationship that had existed between them for several years.
+[11] The Intervener Mr. Comeau sold the products marketed by the Appellant beginning in 1997. At some point, it seems, the Appellant initiated certain changes in the way in which a salesperson's work was to be performed, for the purpose of making the salaried salesperson a self-employed worker.
+[12] The Appellant argued that the Intervener himself decided to cut any link with the sales operations of the products it distributed, during most of the period in issue.
+[13] It argued as well that the Intervener was an independent salesperson for most of the period in issue, while admitting that the Intervener received a salary for about three weeks, toward the end of that year, in the context of a telemarketing position created entirely for him. The position was abolished after three weeks, it said, as the Intervener refused to work for an hourly wage of 14.
+[14] During most of the time covered by the period in issue, the Intervener was collecting health insurance benefits which he remitted to the Appellant, in return for which it paid him an amount comparable to what he received as commission prior to the sick leave.
+[15] This period was strewn with problems and difficulties. The parties accused each other of various unsubstantiated grievances depending on the particular version.
+[16] Mr. Cléroux, a representative of the Appellant, stressed the fact that in his assessment, Mr. Comeau operated his own business during the period in issue, which ended, he said, at the request of the Intervener at the very beginning of the period in issue as a result of a work stoppage dictated by illness.
+[17] Some time before the beginning of the period in issue, the Appellant stood surety for the Intervener Mr. Comeau in the amount of $23,088. For medical reasons, the Intervener ceased his activities as a salesperson in late January or early February 2001.
+[18] Why did the Appellant agree to act as a guarantor for the Intervener shortly before what it characterized as a definitive break?
+[19] Why did the Appellant agree to substantially increase the health insurance benefits the Intervener was receiving after the break?
+[20] Why did the Appellant agree to create a new position within the company in order to assist someone who had cut off all relations with it and who had moreover acted, in its own assessment, improperly and unreasonably?
+[21] The Appellant's response is [TRANSLATION]"For humanitarian reasons". This explanation is quite unconvincing, especially since these were not isolated, spontaneous acts. They were decisions make by businessmen in full control of the situation.
+[22] The Appellant was insistent that its conduct was motivated and guided by generous humanitarian considerations. These are fairly audacious claims in view of the number of written documents and especially the unambiguous content regarding the nature of the relationship that existed.
+[23] The managers of the Appellant were experienced businessmen whose aim was and should have been to achieve maximum profitability. They were accommodating because they wanted to keep the Intervener – no doubt an asset to the business – in their employ.
+[24] The Appellant would like to keep from the record the content of a number of written documents, the thrust of which is decisive as to the insurability of the work performed by Mr. Comeau. I am referring in particular to Exhibits A-3, A-4, I-1, I-4 and A-8, among others. It is appropriate to reproduce the content of these supporting documents:
+(Exhibit A-3)
+[Translation]
+Further to the meeting held on August 4, 2000, we observe that certain directives issued have not been complied with.
+Consequently, we must ensure that these directives are followed.
+1. You are required to provide GMF every week with a road report indicating: time, date, and name of customer.
+2. You must provide 28 hours of work per week, from 8:00 a.m. (1st customer) to 4:00 p.m.
+e.g. 28 hours = 100% salary
+14 hours = 50% salary
+3. Telephone calls to your customers must be recorded on the back of the report.
+4. If you do not work on a day, please indicate this and give the reason, and notify the office.
+The consequences of non-profitability will entail a change in compensation.
+N.B. No road report = no commission.
+(signature): René Comeau
+31-01-01
+(Exhibit A-4)
+[Translation]
+Further to your request for wage insurance benefit, Laboratoire GMF agrees to grant you a loan of $563 per week effective March 8, 2001, this amount being based on your income as it appears on your T-4 for the year 2000.
+However, it is clearly understood that all the cheques that will be paid to you through the insurance shall be returned in full and without exception to Laboratoire GMF Inc. Failure to comply with this condition will automatically result in cancellation of this agreement.
+The difference between the sum paid by the insurance, about 2/3 of $563, and the sum paid by Laboratoire GMF Inc. will be absorbed by Laboratoire GMF Inc.
+This agreement is for a maximum period of 26 weeks effective March 8, 2001 and may be reassessed without any commitment by Laboratoire GMF.
+You acknowledge that you have read and understood the terms stipulated in this agreement.
+In witness whereof, you have signed on this 8th day of March 2001.
+(signature)
+Claude Cléroux
+For: Laboratoire GMF Inc.
+(signature)
+René Comeau
+[Emphasis added]
+(Exhibit I-1)
+[Translation]
+St-Hyacinthe, August 4, 2000.
+TO ALL REPRESENTATIVES
+LABORATOIRE G.M.F.
+Beginning August 11, 2000, you must remit a road report and a work schedule every week to Laboratoire G.M.F.
+The purpose of this directive is to avoid paying commissions to representatives when the Clinic's customers have not been visited.
+Beginning September 11, 2000, if a customer of the Clinic is on your report and has not been visited, there will be no commission paid to the representative.
+REPORT: name of customer or firm
+City or Town
+Date of visit
+If you have not worked on a day (e.g. Monday), please record this on your report. If you are on vacation, please record this as well.
+Please note that these directives will be applied commencing September 11, 2000.
+For any further information, do not hesitate to contact me.
+Mr. André Sauvageau
+cc. All representatives
+(Exhibit I-4)
+[Translation]
+26-10-01
+Reminder
+at the place of work, in order to maintain harmony in the office
+I, René Comeau, undertake
+1. No more bad-mouthing about anyone or negative remarks
+2. I will keep to myself any family or personal problems
+3. I will not do anything non-competitive or disclose information about the company.
+If for some reason or other I am unable to fulfil one of these three conditions to keep harmony in the office, I will no longer be allowed to work in the office of Laboratoire G.M.F.
+Signed at St-Hyacinthe, 7485 Duplessis
+GAETAN SARRAZIN
+Director General
+_______________________
+René Comeau
+Employee
+26/10/01 René refused to sign
+(Exhibit A-8)
+[Translation]
+7485 Duplessis St.
+Saint-Hyacinthe, Quebec J2S 8B1
+. . .
+St-Hyacinthe, January 31, 2002
+Mr. René Comeau
+1125 Casavant Boulevard, Apt. 6
+St-Hyacinthe QC
+J2S 7J4
+Sir,
+This is to inform you that effective this day your services are no longer required within our company.
+Due to a new orientation, GMF has decided to adopt this decision.
+We are informing our insurer and asking it to remove your name from the list of insured eligible for our group insurance plan to which you may continue to belong if you so wish but at your personal expense.
+Claude Cléroux
+for
+Laboratoire GMF
+[25] Not only did the Appellant have the power to control, it did indeed effectively exercise its power of reprimand while noting its ultimate power of dismissal. In this regard, I take the liberty of reproducing the content of paragraphs 11 and 12 of the Notice of Appeal:
+[Translation]
+11. On January 31, 2001, the Appellant, exasperated by some repeated demands of Mr. Comeau and especially by the sluggishness of his responses as a debtor, got him to sign an undertaking that will be cited in support hereof that he begin to make the efforts in his business and thereby return a bit of consideration for the benefits granted to him; this document was intended to spur Mr. Comeau, who had many fine words but nothing more, and it is alleged that this document was signed by Mr. Comeau without any real intention of honouring it, judging from the facts disclosed hereinafter; it is alleged that the Appellant, as a creditor, was justified in acting thus and that the Respondent did not even wish to raise the question of Mr. Comeau's bankruptcy on the ground that this did not appear to fit within its analysis, hence its action in simply disregarding it.
+12. Some weeks later, Mr. Comeau approached the Appellant to inform it that he was suffering from a serious psychological illness that, among other things, prevented him from concentrating and driving an automobile and he informed the Appellant that he had definitively terminated his business and he implored the Appellant to help him once again and it agreed by consenting to an agreement dated March 8, 2001, which will be cited herein, in the belief that it should assist Mr. Comeau once again given the alleged illness; the Appellant was about to experience cruelly the adage that generosity breeds ingratitude.
+[Emphasis added]
+[26] The legal relationship between the Intervener Mr. Comeau and the Appellant was indeed an employer-employee relationship fully meeting the requirements and tests for determining insurability laid down by the courts.
+[27] The employer-employee relationship is completely consistent with the following facts, moreover:
+· the Intervener's business cards were paid for by the Appellant's business;
+· the Intervener had a mailbox in his name on the Appellant's premises;
+· he was able to use an office in the Appellant's headquarters and make long-distance calls from there at the Appellant's expense;
+· he had to submit reports in order to be paid and he obtained weekly reports prepared by the Appellant;
+· he was required to work a minimum number of hours per week;
+· he could and did take training courses organized by the Appellant;
+· the Appellant provided the advertising material;
+· the Appellant paid a generous bonus to the Intervener; and
+· the Intervener was accompanied by a representative of the Appellant on visits to and solicitations of certain customers.
+[28] All of these facts are consistent with the Respondent's logic in concluding that the work in issue was insurable. The fact that the Appellant defines the Intervener as a self-employed worker is of no relevance. The courts have often held that the intention or desire of a party in respect of the definition of an economic relationship is not determinative in deciding whether work is insurable or not.
+[29] Only the facts and the way in which the work was performed are relevant in determining the insurability of work. The evidence in this case shows, on a balance of probabilities, that the Intervener Mr. Comeau was subject to the authority and control of the Appellant. The work performed was done in a context such that it was indeed insurable work.
+[30] For these reasons, the appeal is dismissed.
+Signed at Ottawa, Canada, this 12th day of November 2003.
+"Alain Tardif"
+Tardif J.
+Translation certified true
+on this 6th day of March 2009.
+Brian McCordick, Translator
+CITATION: 2003TCC776
+COURT FILE NO.: 2002-4802(EI)
+STYLE OF CAUSE: Laboratoire G.M.F. (1983) Inc. and MNR
+PLACE OF HEARING: Montréal, Quebec
+DATE OF HEARING: October 1, 2003
+REASONS FOR
+JUDGMENT BY: The Honourable Justice Alain Tardif
+DATE OF JUDGMENT: November 12, 2003
+APPEARANCES:
+For the Appellant:
+Michel Messier
+For the Intervener:
+René Comeau
+For the Respondent:
+Philippe Dupuis
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Michel Messier, Advocate
+City: Saint-Jean sur Richelieu, Quebec
+For the Respondent: Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Ontario

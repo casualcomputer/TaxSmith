@@ -1,0 +1,223 @@
+Title: Giroux c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28988/index.do
+Corpus path: corpus/cases/tcc/2008/2008-cci-653-28988-giroux-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2008-11-28
+
+# Giroux c. M.R.N.
+
+- Citation: 2008 CCI 653
+- Decision date: 2008-11-28
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6798, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Giroux c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-11-28
+Référence neutre
+2008 CCI 653
+Numéro de dossier
+2008-693(EI)
+Juges et Officiers taxateurs
+Robert James Hogan
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2008-693(EI)
+ENTRE :
+ANICK GIROUX,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+LONDON LIFE, COMPAGNIE D’ASSURANCE-VIE,
+intervenante.
+Appel entendu les 23 et 24 septembre 2008, à Montréal (Québec).
+Devant : L'honorable juge Robert J. Hogan
+Comparutions :
+Pour l'appelante :
+L'appelante elle-même
+Représentant de l'intimé :
+Simon-Olivier de Launière (stagiaire en droit)
+Avocats de l'intervenante :
+Me Yves Turgeon
+Me Caroline Tamraz
+JUGEMENT
+L’appel est rejeté et la décision que le ministre du Revenu national a rendue le 24 janvier 2008 est confirmée, selon les motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 28e jour de novembre 2008.
+« Robert J. Hogan »
+Juge Hogan
+Référence : 2008 CCI 653
+Date : 20081128
+Dossier : 2008-693(EI)
+ENTRE :
+ANICK GIROUX,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+LONDON LIFE, COMPAGNIE D’ASSURANCE-VIE,
+intervenante.
+MOTIFS DU JUGEMENT
+Le juge Hogan
+[1] Il s’agit d’un appel interjeté à l’encontre de la décision du ministre du Revenu national selon laquelle l’emploi de l’appelante n’était pas assurable pendant la période du 8 juillet 2005 au 2 novembre 2006 puisqu’elle était travailleur autonome et n’était pas embauchée en vertu d’un contrat de louage de services. La société payeuse, la London Life, Compagnie d’Assurance-Vie, est intervenue dans l’appel afin d’appuyer la position du ministre.
+[2] Pour arriver à la conclusion que l’appelante n’occupait pas un emploi assurable, l’intimé s’est appuyé sur les hypothèses de fait suivantes :
+5.a) le payeur a été constitué en société le 24 mars 1874;
+b) le payeur est une compagnie d’assurance qui vend des polices d’assurance‑vie, accident et maladie;
+c) l’appelante a été embauchée comme conseillère financière, représentante de vente et de service;
+d) les tâches de la travailleuse consistaient à contacter des clients, à les visiter, à leur vendre des polices d’assurances du payeur ou de compagnies d’assurances liées au payeur;
+e) l’appelante et le payeur ne s’entendent pas sur le statut de l’appelante à titre de travailleur autonome ou d’employée salariée;
+f) l’appelante a débuté à travailler pour le payeur le 9 mai 2005;
+g) du 9 mai 2005 au 1er juillet 2005, l’appelante a suivi une formation de stagiaire dans les locaux du payeur sur la rue University à Montréal;
+h) au cours de cette formation, l’appelante recevait une rémunération fixe de 500,00 $ par semaine;
+i) le 4 janvier 2008, Me Caroline Tamraz, représentante du payeur déclarait à un agent de l’intimé que durant sa période de formation, l’appelante était considérée comme une employée et que des retenues pour l’assurance-emploi ont été prélevées sur ses chèques de paie;
+j) le 8 juillet 2005, l’appelante signait avec le payeur une convention de vente;
+k) selon le paragraphe 2f) de cette convention, les relations de l’appelante avec le payeur et les associés du payeur étaient ceux d’un travailleur autonome;
+l) à partir du 8 juillet 2005, le payeur considérait l’appelante comme travailleur autonome;
+m) l’appelante détenait, à ses frais, un permis de vente d’assurance-vie et un permis de vente de fonds commun [sic] de placement;
+n) l’appelante devait maintenir ses permis en vigueur pour travailler pour le payeur;
+o) l’appelante n’était pas soumise au contrôle direct du payeur;
+p) l’appelante n’avait pas d’horaire de travail à respecter pour le payeur;
+q) l’appelante n’avait pas de quota de ventes à respecter;
+r) l’appelante ne bénéficiait pas de vacances ou de congé de maladie chez le payeur;
+s) l’appelante n’avait aucun avantage social;
+t) l’appelante était rémunérée par commissions ou avances seulement;
+u) le taux de commissions était variable en fonction des produits vendus;
+v) l’appelante était responsable des pertes occasionnée [sic] par les mauvaises créances de ses clients;
+w) si l’appelante voulait louer un local chez le payeur, elle devait débourser 75,00 $ aux quinze jours;
+x) l’appelante était responsable de ses coûts de déplacement et de ses frais d’opération;
+y) l’appelante fournissait sa voiture, son ordinateur portable, son téléphone cellulaire, son photocopieur, sans dédommagement de la part du payeur;
+z) la relation entre l’appelante et le payeur s’est terminée car l’appelante n’avait plus de permis valide.
+[3] L’appelante a appelé deux témoins à la barre, soit M. Jean-François Thiffault et M. Jean-Stéphane Bourgeois. Elle a également témoigné dans sa cause.
+[4] M. Jean-François Thiffault a expliqué au tribunal qu’il a travaillé comme conseiller en placements sous la bannière Financière Liberté 55 de la London Life (la « Financière Liberté 55 ») à la même époque que l’appelante.
+[5] Il était déjà détenteur d’un permis de courtier en placements lorsqu’il s’est joint à la London Life. Il était obligé de suivre une formation qui lui a permis d’obtenir son permis d’agent d’assurance.
+[6] Après sa formation initiale et l’obtention de son permis d’agent d’assurance, M. Thiffault a signé un contrat de travailleur autonome avec la London Life.
+[7] Il a expliqué qu’il était payé principalement sous forme de commissions calculées selon une formule très complexe. Il était également appelé à payer des frais pour des services qui lui étaient fournis par la London Life, tels que l’utilisation d’un ordinateur, et ainsi de suite.
+[8] Il a témoigné qu’il pouvait louer un local à la succursale ou travailler chez lui ou ailleurs. Il a choisi d’avoir un bureau à la succursale de la London Life à Longueuil.
+[9] Il a également indiqué que tout agent d’assurance ou courtier en placements attitré à la Financière Liberté 55 était obligé de suivre une formation continue pendant ses 24 premiers mois de service. La London Life organisait tous les mardis une journée de formation à la succursale où M. Thiffault était attitré.
+[10] M. Thiffault a témoigné que son directeur d’équipe faisait un suivi sur ses activités de sollicitation. Il devait rendre compte du nombre d’appels téléphoniques ou de rencontres qu’il faisait auprès de clients potentiels. Il a aussi expliqué qu’il n’avait droit à aucun avantage social avant la fin de la période de deux ans.
+[11] Enfin, il a témoigné qu’il devait soumettre une évaluation trimestrielle et qu’il serait obligé d’expliquer toute baisse du chiffre d’affaires qui aurait pu se produire pendant cette période.
+[12] Il utilisait un ordinateur loué de la London Life. Le logiciel intégré à l’ordinateur était celui de la London Life; il comprenait toutes les données pertinentes à la panoplie des assurances et des placements offerts par la London Life.
+[13] Finalement, il a expliqué qu’il devait maintenir ses dossiers en ordre et que ses dossiers étaient assujettis à un contrôle exercé par la London Life.
+[14] L’avocat de l’intervenante a contre-interrogé M. Thiffault. Ce dernier a expliqué qu’il travaillait auparavant pour la Banque nationale. À cette époque, il recevait un salaire payable toutes les deux semaines et une prime de rendement. Il avait acquis lors de son emploi à la Banque nationale un permis de vente d’épargne collective. Il a confirmé que la réglementation provinciale exigeait qu’il soit attitré à une compagnie d’assurance afin de maintenir son permis de vente d’assurance et d’épargne collective.
+[15] Il a également admis en contre-interrogatoire qu’un courtier d’assurance pouvait vendre sa clientèle lorsqu’il quittait la London Life. Toutefois, en pratique, seuls les courtiers d’assurance qui avaient plus de 24 mois de formation pouvaient se prévaloir de cette possibilité.
+[16] Il a expliqué qu’il n’était pas assujetti à un horaire de travail fixe. Il pouvait établir les heures pendant lesquelles il vendait les produits d’assurance ou les produits de placement et d’épargne collective. Il a mentionné qu’il pouvait engager son propre personnel administratif et n’était pas obligé de prendre les services offerts par la London Life. Enfin, il a expliqué que sa relation juridique avec la London Life pourrait être rompue s’il n’atteignait pas un chiffre d’affaires minimal.
+[17] Le deuxième témoin à la barre était M. Jean-Stéphane Bourgeois. Celui-ci était le directeur général de perfectionnement et formation des conseillers en assurance et en épargne collective. Il était le directeur de formation de l’appelante. Lorsqu’un nouveau conseiller se joignait à la Financière Liberté 55, il était appelé à l’aider à préparer un plan d’affaires. Il a également expliqué qu’il était chargé de donner des cours de formation à des nouveaux arrivants, tels que la formation sur les logiciels offerts par la London Life et sur ses produits. Il était également responsable des techniques de vente.
+[18] Il a témoigné que le logiciel Spectra de la London Life permettait à un agent d’assurance de produire un rapport pour un client. À partir des données recueillies d’un client potentiel par l’agent, ce logiciel identifiait les produits qui pourraient être utiles pour permettre au client d’atteindre ses objectifs financiers ou de satisfaire à ses besoins en assurance ou en placements. Il organisait chaque semaine une rencontre avec des agents d’assurance qui avaient moins de 24 mois de formation. Lors des rencontres du lundi, il vérifiait si les agents faisaient des suivis auprès des clients. Il a expliqué que les rencontres du lundi étaient obligatoires pour les nouveaux agents. Après six mois, les agents pouvaient être dispensés de cette obligation, selon leur rendement.
+[19] Il a confirmé que chaque trimestre, il devait prendre rendez-vous avec un agent pour s’assurer que l’agent satisfaisait aux normes minimales de la London Life.
+[20] Il a témoigné que l’appelante, lorsqu’elle était affiliée à la London Life, participait de façon volontaire à un programme de mentors. Son mentor était M. Jocelyn Latulippe, un agent d’assurance qui a connu beaucoup de succès sous la bannière Financière Liberté 55. En contre-interrogatoire, il a mentionné à la Cour que l’appelante était auparavant une travailleuse autonome auprès de M. Jocelyn Latulippe. À cette époque, l’appelante accomplissait des tâches administratives pour M. Latulippe et pour un autre agent d’assurance affilié à la London Life. De mémoire, M. Latulippe a incité l’appelante à obtenir son permis d’agent d’assurance puisqu’il envisageait de transférer une partie de sa clientèle non active à l’appelante.
+[21] L’appelante a témoigné que M. Latulippe l’a incitée à suivre la formation des stagiaires en marketing de la Financière Liberté 55. M. Latulippe a accepté d’agir comme mentor de l’appelante si elle réussissait à la fin de sa formation d’obtenir son permis d’agent d’assurance et si la London Life lui offrait une convention de vente.
+[22] L’appelante a produit la pièce A-2, une entente l’invitant à participer au programme de formation de la London Life qu’elle a signée le 12 avril 2005. Cette entente stipulait que si l’appelante réussissait le programme de formation et qu’elle obtenait son permis d’agent d’assurance, la London Life conclurait un contrat avec elle à titre de conseillère en sécurité financière de la Financière Liberté 55. Puisque l’appelante était payée pendant son stage de formation, le contrat comprenait une clause qui l’empêchait de se joindre à un autre fournisseur de services financiers à titre d’agente, de conseillère ou de représentante au Canada pendant une période d’un an suivant la fin du programme de formation.
+[23] L’entente comprenait également un engagement de confidentialité en ce qui a trait aux renseignements confidentiels ou aux secrets commerciaux liés aux affaires et aux pratiques commerciales, aux méthodes de formation et aux pratiques de vente de la London Life et des entreprises affiliées pendant le programme de formation de sept semaines.
+[24] L’appelante a produit la pièce A-3, la convention de vente avec la London Life qu’elle a signée le 8 juillet 2005.
+[25] J’estime que les clauses suivantes de cette convention sont pertinentes relativement à l’issue de l’appel :
+1. Objet et domaine d’application de la convention
+a) Objet
+La présente convention vise les représentants engagés dans des activités de représentation, de vente, de service et autres activités connexes (les « activités de vente ») portant sur des produits établis ou offerts par la London Life, ou visés par les conventions avec les Associés interentreprises de la London Life. Je consens à consacrer tous mes efforts à remplir mes obligations, dans le cadre du présent engagement et de la présente convention.
+[…]
+2. Pouvoirs et obligations
+a) Sollicitation et service
+Après avoir obtenu les permis nécessaires pour vendre le produit applicable ainsi que le droit de représenter la London Life et ses Associés interentreprises, je solliciterai des contrats auprès des clients, j’assurerai le service aux termes de ces contrats et percevrai les primes, les cotisations, les dépôts et les fonds à investir au nom de la London Life et de ses Associés interentreprises.
+b) Permis
+Pendant toute la durée de la présente convention, j’obtiendrai, à mes frais, les permis requis pour vendre, en vertu de l’autorité en vigueur, tous les produits offerts par la London Life et ses Associés interentreprises.
+c) Normes et pratiques courantes
+Je reconnais les intérêts et obligations de la London Life et de ses Associés interentreprises de se conformer à toutes les exigences de la loi et des organismes de réglementation, de répondre aux normes de l’industrie de préserver leurs images respectives d’institutions financières solvables et responsables. Ces normes et pratiques courantes sont contenues dans le Code de conduite professionnelle établi par la London Life, tel qu’amendé, et j’accepte de me conformer à ses dispositions. Je reconnais que le Code de conduite professionnelle établi par la London Life fait partie intégrante de la présente convention, comme si ici récité au long.
+d) Guide de rémunération
+Je reconnais avoir reçu une version récente du Guide de rémunération préparé par la London Life avant de signer la présente convention, lequel fait partie intégrante de la présente convention par voie de référence.
+Je conviens, de plus, que la London Life peut, à l’occasion, modifier le Guide de rémunération en m’adressant un avis en ce sens.
+[…]
+f) Travailleurs autonomes
+Les liens entre moi-même et la London Life et ses Associés interentreprises sont et demeureront ceux de deux travailleurs autonomes. La présente convention ne crée pas de liens employé/employeur entre les parties. Je peux choisir le moment, le lieu et la forme de sollicitation des ventes et services en vertu de la présente convention, le tout en conformité avec les exigences de la loi et des organismes de réglementation et aux normes de l’industrie.
+[…]
+5. Commissions et autres paiements
+a) Guide de rémunération
+La London Life me rémunérera pour avoir vendu ses produits et m’être chargé/e du service. Le Guide de rémunération contient tous les détails sur les paiements et les redressements. Les ventes réalisées à la suite de toute modification apportée au Guide de rémunération de la London Life seront assujetties à ces changements.
+[…]
+d) Montants payables à la London Life
+Si, à un moment donné, pendant la durée de la présente convention ou après sa résiliation, mon compte indique que je dois un montant à la London Life, ce montant est ou demeurera payable immédiatement à la London Life, selon le cas, que la London Life en demande le remboursement ou non et en dépit, le cas échéant, de la résiliation de la présente convention entre-temps.
+La London Life peut déduire tout montant qui lui est dû au titre de commissions non acquises ou d’autres paiements non gagnés de tout montant qu’elle me doit.
+[…]
+9. Protection de l’information, non-remplacement et incitation
+a) Renseignements concernant les affaires et les clients de la London Life et de ses Associés interentreprises
+[…]
+Pendant toute la durée du contrat et pendant une période de deux ans après la résiliation de la présente convention, je ne devrai pas, en mon nom ou au nom de toute personne, quelle qu’en soit la cause, utiliser, divulguer, fournir ou rendre accessible à quiconque, tout renseignement acquis pendant la durée de la présente convention sur les affaires de la London Life ou de ses Associés interentreprises. […]
+b) Non-incitation des clients de la London Life et de ses Associés interentreprises
+Je ne devrai pas, pendant la durée de la présente convention et pendant une période de deux ans suivant la résiliation de la présente convention, quelle qu’en soit la cause, en mon propre nom ou au nom d’une autre personne, inciter ou tenter d’inciter un client de la London Life ou de ses Associés interentreprises, directement ou indirectement, à prendre une ou plusieurs des dispositions suivantes relativement à un contrat individuel d’assurance, de revenu de retraite, d’épargne ou de placement établi par la London Life ou ses Associés interentreprises […].
+c) Non-incitation des membres des services extérieurs de la London Life
+Je ne devrai pas, pendant la durée de la présente convention et pendant une période de deux ans suivant la résiliation de la présente convention, quelle qu’en soit la cause, inciter ou tenter d’inciter un membre des services extérieurs ou un membre du personnel administratif de la London Life à quitter la London Life.
+[Je souligne.]
+[26] L’appelante a tenté d’expliquer la clause 2f) de la convention de vente qui stipule que la relation juridique entre la London Life et elle est celle d’un travailleur autonome. Elle a témoigné qu’elle a lu la convention, mais qu’il était peu envisageable de modifier quelques clauses du contrat. Elle a conclu qu’il s’agissait d’une convention d’adhésion.
+[27] L’appelante a expliqué qu’elle a connu une certaine mesure de succès sous la bannière Financière Liberté 55 de mai à novembre 2006. Toutefois, à la fin de 2006, elle a rencontré son médecin de famille, qui lui a indiqué qu’elle souffrait d’épuisement lié à son travail. Elle a demandé à son directeur de vente un congé de maladie.
+[28] Elle a expliqué que le congé de maladie a persisté et, par conséquent, elle a laissé tomber le renouvellement de son permis d’agent d’assurance ou d’agent en épargne collective.
+[29] Lors du contre-interrogatoire par le représentant de l’intimé, l’appelante a admis qu’elle a demandé à son comptable de préparer ses déclarations de revenus pour les années d’imposition 2005, 2006 et 2007 comme si elle était une travailleuse autonome. Puisque le relevé d’emploi reçu de la société payeuse indiquait ce statut, elle ne croyait pas être en mesure de préparer ses déclarations sous une autre forme.
+[30] L’appelante a produit la pièce A-11, la lettre qu’elle a reçue de la société payeuse le 11 juin 2007. Dans cette lettre, la société payeuse indique à l’appelante qu’elle a omis de renouveler son permis de vente d’assurance-vie au moment de son échéance le 30 avril 2007 et qu’elle a aussi omis de renouveler son permis de vente de fonds communs de placement le 1er mai 2007. Puisque ces deux permis étaient essentiels pour que l’appelante puisse continuer de travailler comme agente d’assurance ou conseillère en placements d’épargne collective, la London Life était dans l’obligation de résilier la convention de vente qu’elle avait conclue avec l’appelante. Dans sa lettre, la société payeuse cite la clause qui lui permet de mettre fin à la convention de vente pour défaut de renouvellement de permis.
+[31] Cette lettre est signée par Mme Sherry Marks, directrice des relations avec les services extérieurs. L’appelante a invité la Cour à lire le paragraphe 3 de la page 2, qui se lit comme suit :
+Veuillez trouver ci-jointe une brochure intitulée Vos avantages sociaux à la cessation d’emploi. À moins d’indication contraire, la date à laquelle vos avantages sociaux prendront fin sera la date de résiliation de votre contrat de représentation et de votre convention de vente avec la London Life, Compagnie d’Assurance-Vie. Veuillez lire attentivement le présent document, car il renferme des renseignements importants sur vos garanties et sur les options de transformation de votre assurance-vie collective.
+[Je souligne.]
+[32] Le représentant de l’intimé a appelé seulement un témoin à la barre. M. Elio Palladini a témoigné qu’il était un agent de la Division des appels de l’Agence du revenu du Canada (l’« ARC »). Le dossier de l’appelante lui fut remis par son chef d’équipe, Sylvain Gauvin.
+[33] Il a expliqué à la Cour qu’il y eut une première décision rendue dans le dossier de l’appelante. Dans une lettre du 21 août 2007 adressée à l’appelante par Mme Mélanie Girard, cette dernière a conclu que l’appelante était une employée et que son emploi auprès de la société était assurable en vertu de l’alinéa 5(1)a) de la Loi sur l’assurance-emploi. M. Palladini a expliqué qu’il a recommandé à son chef d’équipe d’annuler la décision rendue par Mélanie Girard. Dans une lettre du 24 janvier 2008 signée par M. Sylvain Gauvin, chef d’équipe, l’appelante était informée que son emploi avec la société payeuse n’était pas assurable puisqu’elle n’avait pas été embauchée en vertu d’un contrat de louage de services avec la société payeuse.
+[34] M. Palladini a témoigné qu’il a pris connaissance d’une lettre envoyée à l’intervenante par la Division de l’admissibilité au RPC/AE de l’ARC (maintenant la Division des décisions au RPC/AE) produite sous la cote INT-6. Cette lettre fut envoyée à la suite d’une demande de l’intervenante qui demandait à l’ARC de se prononcer sur le statut de ses travailleurs après une réorganisation de son entreprise qui mènerait à des relations juridiques plus autonomes avec ses agents d’assurance ou d’épargne collective. Cette lettre expliquait en détail la façon dont l’intervenante prévoyait modifier les relations juridiques entre ses agents et elle. La Cour constate que les conditions liant l’appelante à la société payeuse étaient semblables, sinon identiques, à celles décrites dans cette lettre. L’ARC a conclu dans la lettre qu’après ces modifications, le statut juridique aux fins fiscales des agents de l’intervenante serait celui de travailleurs autonomes. L’intervenante a déposé cette lettre pour considération à la Division des appels de l’ARC, puisqu’elle n’était évidemment pas d’accord avec la décision prise par Mme Girard en première instance dans le dossier de l’appelante.
+[35] M. Palladini a témoigné qu’il a appliqué les critères retenus par la jurisprudence afin de déterminer le statut de l’appelante. Il a conclu qu’il n’y avait aucun lien de subordination entre l’appelante et la société payeuse. Il a expliqué que l’appelante était responsable de ses outils de travail et qu’elle avait une chance véritable de profits et des risques de perte. Ceci dépendait de son succès à recruter une nouvelle clientèle.
+[36] L’intervenante a appelé à la barre Mme Hélène Doré, directrice générale du développement des marchés pour la société payeuse au Québec. Elle a expliqué qu’elle était responsable de 14 conseillers. Elle a indiqué que chaque conseiller pouvait embaucher ses propres adjoints administratifs et était libre de déterminer le temps et le lieu de son travail. Elle a admis que les nouveaux agents sont assujettis à beaucoup de formation, mais que cette formation était nécessaire afin de leur permettre de respecter leurs obligations réglementaires ainsi que celles de la société payeuse.
+[37] Elle a témoigné que l’Autorité des marchés financiers (l’« AMF ») exige que les dossiers de tout agent d’assurance respectent un cadre réglementaire strict. L’AMF faisait des vérifications auprès des sociétés d’assurance pour déterminer si les dossiers de ces dernières comprenaient toute l’information fournie à des clients potentiels et pour s’assurer que certains documents essentiels soient signés par les clients.
+[38] L’appelante a choisi de contre-interroger Mme Doré. En répondant aux questions de l’appelante, Mme Doré a indiqué que même s’il était possible pour un agent qui avait accumulé moins de 24 mois de services d’engager un sous-agent, en pratique c’était très rare, sinon inexistant. L’appelante lui a posé des questions relativement aux retenues faites sur le revenu net qu’elle a reçu de la société payeuse. Elle a expliqué que ces formes de retenues étaient volontaires et qu’un travailleur autonome pouvait demander à la société payeuse de faire des retenues et de les remettre plutôt que d’attendre de payer des versements trimestriels. Les retenues étaient faites pour un travailleur autonome.
+[39] L’appelante a demandé à Mme Doré d’expliquer comment elle aurait pu profiter d’une assurance collective. Elle a mentionné que la politique de la société payeuse, en vertu des règles relatives à l’assurance collective, était telle que plusieurs personnes d’un même groupe pouvaient souscrire à l’assurance collective. L’appelante a demandé comment, à titre de travailleuse indépendante travaillant seule, elle pouvait dans ce cas remplir les obligations en matière d’assurance collective. Mme Doré n’a pas répondu à cette question.
+[40] L’intervenante a appelé à la barre Mme Marks, l’auteur de la lettre de résiliation du 11 juin 2007 produite sous la cote A-11. Mme Marks a témoigné en anglais, puisqu’elle a expliqué au tribunal qu’elle ne pouvait pas parler ni écrire en français. Elle a déclaré qu’un membre de son service de traduction avait préparé la lettre à partir d’une version anglaise et qu’il a fait référence à la brochure intitulée Vos avantages sociaux à la cessation d’emploi. Elle a témoigné qu’elle ne comprenait pas le titre et que celui-ci était une mauvaise traduction. Le titre de la brochure a été corrigé depuis.
+[41] Mme Marks a également témoigné qu’un agent indépendant pouvait demander à la société payeuse de faire des retenues à titre de travailleur autonome. Elle a indiqué à la Cour que l’appelante a été licenciée faute d’avoir fait renouveler ses permis.
+[42] Mme Marks a expliqué que la société payeuse est assujettie à un cadre réglementaire important et que dans le cas de la province de Québec, l’AMF exige des rapports et des contrôles internes trimestriels afin de vérifier si les agents se conforment à leurs obligations documentaires envers leurs clients.
+[43] Elle a présenté l’historique de la société payeuse. Elle a expliqué que la société payeuse fut achetée par la Great-West, Compagnie d’assurance-vie, dont la société mère est Power Corporation du Canada. Elle a expliqué qu’après l’acquisition, la société payeuse fut appelée à reformuler la façon dont elle faisait affaire pour vendre des produits d’assurance ou des produits d’épargne collective. L’objectif de cette réforme était de faire affaire avec des agents indépendants plutôt que des employés. Elle a expliqué que les agents avaient exprimé le désir d’avoir plus d’indépendance afin de pouvoir obtenir le statut de travailleurs autonomes. Plusieurs anciens employés de la société payeuse ont décidé de quitter cette société après la réforme.
+[44] Finalement, Mme Marks a dit qu’après la mise en œuvre de ce nouveau plan d’affaires, plusieurs agents d’assurance ont connu un succès important. Elle a expliqué que plusieurs des agents importants gagnaient une rémunération de plus d’un million de dollars.
+Position des parties
+[45] L’appelante a argumenté qu’elle était une employée de la société payeuse pendant tout le temps qu’elle a travaillé pour cette dernière. Elle a indiqué à la Cour qu’elle a travaillé exclusivement pour cette société pendant cette période. Elle a souligné qu’elle recevait des relevés de paie comme une employée et qu’elle recevait le paiement de ses commissions et de ses primes toutes les deux semaines. Elle a argumenté qu’elle était assujettie par un lien de subordination important à la société payeuse. Elle a expliqué à la Cour qu’elle était obligée d’assister à des rencontres toutes les semaines et à des séances de formation pendant six à dix heures. Elle était assujettie à un contrôle sur son rendement et était obligée de se soumettre à des sessions de formation pour étoffer ses connaissances ou améliorer ses points faibles.
+[46] Elle était obligée de maintenir ses dossiers sous la forme exigée par la société payeuse. Elle était tenue d’utiliser des textes choisis d’avance par la société payeuse lorsqu’elle téléphonait à des clients potentiels pour prendre rendez-vous et de rencontrer ses premiers clients sous la surveillance de son directeur. Les programmes de vente et les données informatiques étaient développés et conçus par la société payeuse. Elle était obligée de les utiliser selon les directives.
+[47] Elle a argumenté que sa liste de clients ne lui appartenait pas et qu’elle a été obligée de sauvegarder cette liste sur les lecteurs de l’intervenante. Elle a finalement argumenté à la Cour qu’elle n’avait aucun droit de regard sur le calcul de ses commissions et primes et qu’elle ne pouvait pas non plus établir le coût des produits ou services, ni sa marge de profit.
+[48] Le représentant de l’intimé a argumenté à la Cour que le contrat stipulait une intention claire des deux parties selon laquelle la relation juridique entre l’appelante et la société payeuse était celle d’un travailleur autonome. Il a expliqué que l’appelante comprenait la différence entre un employé et un travailleur autonome.
+[49] Le représentant de l’intimé a prétendu que le contrôle des dossiers était imposé surtout par le cadre réglementaire qui oblige la société payeuse à procéder à un contrôle interne et à fournir des rapports à des agences de réglementation. Il a expliqué que l’appelante pouvait engager son propre personnel administratif et pouvait travailler à sa résidence plutôt qu’aux bureaux de la société payeuse. Son horaire de travail n’était pas fixe. Enfin, il a expliqué que l’appelante pouvait augmenter son revenu net en vendant plus de produits. Elle était libre de déterminer son essor.
+[50] Le représentant de l’intimé a admis que certains critères utilisés pour déterminer une relation d’emploi étaient présents dans ce dossier. Par exemple, l’appelante était obligée de suivre des cours de formation ou de donner des explications sur ses résultats de vente lorsque ces derniers ne satisfaisaient pas aux exigences de la société payeuse. Toutefois, il a expliqué à la Cour que le contrôle exercé par la société payeuse était largement imposé par le cadre réglementaire ou était conforme au suivi qui est fait dans le cas d’un contrat d’entreprise. Il a mentionné que l’appelante a jusqu’à tout récemment toujours atteint les ventes annuelles exigées par la société payeuse et n’a jamais été assujettie à un contrôle sur sa façon de vendre et n’était pas obligée de s’assujettir à des conversations téléphoniques surveillées par son directeur de vente. Finalement, il a indiqué que l’appelante était libre de choisir son territoire de vente. Par conséquent, il a conclu que le statut de l’appelante était celui d’un travailleur autonome.
+[51] L’avocat de l’intervenante a plaidé que l’intention des parties doit être respectée. Il a argumenté que l’appelante comprenait la différence entre un employé et un travailleur autonome, ayant elle-même bénéficié de ce second statut lorsqu’elle travaillait pour M. Latulippe. L’appelante savait que M. Latulippe bénéficiait de ce statut auprès de la société payeuse. Elle croyait pouvoir répéter le succès de M. Latulippe en complétant sa formation auprès de la société payeuse et en obtenant ses permis de courtier d’assurance et de courtier en épargne collective.
+[52] L’avocat de l’intervenante a également expliqué que le contrôle des dossiers était une obligation imposée par les autorités réglementaires. Chaque agent d’assurance indépendant était obligé de s’affilier à une compagnie d’assurance réglementée par les autorités provinciales. Par conséquent, il a conclu que le chef des appels a pris la bonne décision au sujet de l’appel relativement au dossier de l’appelante en décidant que cette dernière était une travailleuse autonome lorsqu’elle était affiliée à la société payeuse.
+Analyse
+[53] J’estime que les faits établis dans ce dossier sont très similaires à ceux examinés par la Cour d’appel fédérale dans la cause Combined Insurance Company of America c. Canada (ministre du Revenu national), 2007 CAF 60. Dans cette cause, la compagnie d’assurance en a appelé de la décision de la Cour canadienne de l’impôt selon laquelle la travailleuse était une employée de la compagnie. La travailleuse était appelée dans cette cause à vendre des polices d’assurance pour l’appelante. Le contrat de vente conclu par l’appelante et la travailleuse indiquait que cette dernière était une travailleuse autonome. La travailleuse était appelée à fournir ses outils de travail et avait la latitude de choisir auprès de qui elle tentait de vendre des polices d’assurance. La travailleuse a été sollicitée par un gérant de district, lui-même travailleur autonome de la compagnie d’assurance, pour se joindre à cette dernière.
+[54] En rendant le jugement unanime de la Cour d’appel, le juge Nadon a conclu que la décision de la Cour canadienne de l’impôt était erronée puisque le juge McArthur de notre cour avait omis d’accorder assez d’importance au critère de l’intention des parties. Après ces conclusions, il a appliqué le critère retenu par la jurisprudence aux faits établis dans le dossier. Il a conclu que le contrôle exercé par l’appelante dans cette cause était plutôt lié à des obligations réglementaires. Le juge Nadon a également conclu que la travailleuse avait beaucoup de liberté quant à la façon dont elle exerçait ses activités. Elle pouvait travailler à un bureau loué par l’appelante ou travailler chez elle. La travailleuse était obligée d’assumer ses coûts de promotion et de vente. La travailleuse pouvait engager un personnel administratif ou déléguer une partie de ses activités à des sous-agents.
+[55] Alors que ces mêmes conditions sont présentes dans le cas de l’appelante, je constate que l’appelante a pu bénéficier à certains égards d’une plus grande liberté. Contrairement à la situation de la travailleuse dans Combined Insurance Company of America, elle pouvait définir son propre territoire de vente et sa clientèle cible. Elle était libre de participer ou non à des salons ou à des événements professionnels. D’ailleurs, l’appelante a témoigné qu’à sa propre initiative elle a loué un kiosque au salon de la paternité/maternité à Montréal, ce qui lui a permis de conclure des ventes intéressantes.
+[56] J’estime que l’appelante dans la présente cause comprenait bien la différence entre un employé et un travailleur autonome. Elle a choisi de se déclarer travailleuse autonome parce que la nature de son travail se prêtait bien à cette relation juridique.
+[57] J’estime également que la société payeuse exerçait un contrôle dans le seul but de se conformer à des obligations réglementaires qui lui étaient imposées et de déterminer si l’appelante respectait ses obligations imposées en vertu d’un contrat d’entreprise.
+[58] Je conclus que l’appelante avait beaucoup de liberté quant à l’exercice de son travail. Elle pouvait déterminer le lieu de travail. Elle pouvait aussi engager son propre personnel administratif.
+[59] Tel qu’il appert des conventions de vente signées par l’appelante, elle avait le droit de recevoir le paiement des commissions relatives aux polices ou aux produits d’épargne collective qu’elle vendait. Elle avait le contrôle sur ses heures de travail et également sur l’effort qu’elle mettait à augmenter son revenu net. Je conclus que l’appelante était une travailleuse autonome lorsqu’elle était affiliée à la société payeuse et que son travail n’était pas un emploi assurable aux fins de la Loi sur l’assurance-emploi pendant la période en litige. Pour tous ces motifs, je rejette l’appel de l’appelante.
+Signé à Ottawa, Canada, ce 28e jour de novembre 2008.
+« Robert J. Hogan »
+Juge Hogan
+RÉFÉRENCE : 2008 CCI 653
+Nº DU DOSSIER DE LA COUR : 2008-693(EI)
+INTITULÉ DE LA CAUSE : ANICK GIROUX c. M.R.N. et LONDON LIFE, COMPAGNIE D’ASSURANCE-VIE
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATE DE L’AUDIENCE : Les 23 et 24 septembre 2008
+MOTIFS DU JUGEMENT PAR : L'honorable juge Robert J. Hogan
+DATE DU JUGEMENT : Le 28 novembre 2008
+COMPARUTIONS :
+Pour l'appelante :
+L'appelante elle-même
+Représentant de l'intimé :
+Simon-Olivier de Launière (stagiaire en droit)
+Avocats de l'intervenante :
+Me Yves Turgeon
+Me Caroline Tamraz
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelante :
+Nom :
+Cabinet :
+Pour l’intimé : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+Pour l’intervenante : Me Yves Turgeon
+Cabinet : Fraser Milner Casgrain
+Montréal (Québec)

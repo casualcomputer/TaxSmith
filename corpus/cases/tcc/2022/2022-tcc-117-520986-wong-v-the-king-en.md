@@ -1,0 +1,167 @@
+---
+title: "Wong v. The King"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/520986/index.do"
+last_modified: "2022-10-13"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2022 TCC 117"
+citation2: ""
+neutral_citation: "2022 TCC 117"
+decision_date: "2022-10-13"
+language: "en"
+item_id: "520986"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4508
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2023-12-01T11:29:47.318000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "e477b6e45c9e50594ab82aa9e5f0103f94f493a42e59084c0c36494da8f07f63"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Wong v. The King
+
+- Citation: 2022 TCC 117
+- Decision date: 2022-10-13
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4508, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Wong v. The King
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2022-10-13
+Neutral citation
+2022 TCC 117
+File numbers
+2019-3538(IT)APP, 2019-3539(IT)APP
+Judges and Taxing Officers
+Randall S. Bocock
+Subjects
+Income Tax Act
+Decision Content
+Dockets: 2019-3538(IT)APP
+BETWEEN:
+ALBERT WONG,
+Applicant,
+and
+HIS MAJESTY THE KING,
+Respondent;
+Dockets: 2019-3539(IT)APP
+AND BETWEEN:
+AMY WONG,
+Applicant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+Application heard on September 28, 2022, at Calgary, Alberta
+Before: The Honourable Mr. Justice Randall S. Bocock
+Appearances:
+For the Applicants:
+The Applicants themselves
+Counsel for the Respondent:
+Lora Falkenberg Walsh
+ORDER
+WHEREAS the Court has published its reasons for Order on this date;
+NOW THEREFORE THE APPLICATIONS to extend the time to file notices of objection disputing concurrent notices of assessment dated May 2, 2017 made under the Income Tax Act, RSC 1985, c.1, as amended (the “Act”), are dismissed
+because the Applicants neither served a notion of objection on the Minister nor served and/or filed an application to the extend the time to file a notice of objection on the Minister or with this Court, as the case may be, within the statutorily prescribed time periods under the Act.
+Signed at Toronto, Ontario, this 13th day of October, 2022.
+“R.S. Bocock”
+Bocock J.
+Citation: 2022 TCC 117
+Date: 20221013
+Dockets: 2019-3538(IT)APP
+BETWEEN:
+ALBERT WONG,
+Applicant,
+and
+HIS MAJESTY THE KING,
+Respondent;
+Dockets: 2019-3539(IT)APP
+AND BETWEEN:
+AMY WONG,
+Applicant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+COMMON REASONS FOR ORDER
+Bocock J.
+I. BACKGROUND
+[1] The Applicants, Mr. and Mrs. Wong, were sent concurrent notices of assessment dated May 2, 2017 (the “NOAs”). The NOAs related to section 160 assessments raised against them concerning title transfers of a property between and among some combination of Mr. and Mrs. Wong and their son, Alex.
+[2] The Wongs do not contest receipt of the NOAs. Instead, Mr. Wong asserts:
+(i) The NOAs were insufficiently detailed to afford a notice of objection to be filed;
+(ii) The form of objection was not provided by the CRA with the NOAs, or afterwards;
+(iii) The Wongs’ initials calls to the CRA officer, Mr. Markowski, went unanswered;
+(iv) A meeting in October, 2017 with Mr. Markowski (the “October 2017 meeting”) did not yield additional information, although the Wongs clearly expressed disagreement with the NOAs and requested additional information;
+(v) Mr. Markowski did not advise at the October 2017 meeting of the need for an objection to be filed in writing or, by then relevant, an application to extend the time; and,
+(vi) Neither Mr. Markowski nor anyone else from CRA contacted or wrote the Wongs after the October 2017 meeting with additional information until collection proceedings were commenced in early 2018.
+Some addition of information
+[3] At the hearing of the application, both Mr. Wong and, briefly, Mrs. Wong testified. From that testimony, the Court makes certain findings of fact, none of which are materially in dispute as between the parties.
+[4] There is no doubt that the Wongs disputed or, at least, wished to dispute the section 160 assessments conveyed in the NOAs. The sole issue is whether they sufficiently conveyed that to the Minister within the time frames prescribed by the Act. Firstly, did they do so in the form of an acceptable objection in the first 90 days after the NOAs (pursuant to subsection 165(1) of the Act), being July 31, 2017 (the “Objection Deadline”)? Failing that, did they do so by bringing an application to extend within the 12 month period after the 90 days (pursuant to either subsection 166.1(1) or 166.2(1) of the Act), being July 31, 2018 (the “Extension Deadline”)? There is also an issue of whether an application to this Court was filed contesting the Minister’s rejection of April 8, 2019 within the 90-day period, itself expiring July 8, 2019 (pursuant to paragraph 166.2(1)(b) of the Act). Given the reasons and decision below, the Court need not determine that issue.
+[5] The Court accepts that the Wongs were perplexed and uncredulous when they received the NOAs. Mr. Wong attempted to telephone Mr. Markowski during the period after the NOAs. It is uncontroverted evidence that a meeting among the Wongs, a friend, (Ms. Mah), an accountant (John brought by Ms. Mah) and certain representative(s) of CRA, including Mr. Markowski, occurred in October, 2017. What occurred at that meeting appears uncertain. The meeting was conducted in English; Mr. and Mrs. Wong speak Cantonese and only rudimentary English. This was evidenced in Court from the need of a Cantonese interpreter. Deductively, the meeting was held to seek further information on the NOAs.
+[6] Clearer for the Court from Mr. Wong’s testimony is what did not happen at the October, 2017 meeting. No written notice of objection was served, forwarded or tendered. Of note is the fact the 90-day Objection Deadline had passed. Additionally, no application to extend the filing date for an objection was served, forwarded or tendered. According to Mr. Wong, this was not even raised, at least to the extend he understood or observed the discussion.
+[7] After the October, 2017 meeting, Mr. Wong testified he received no follow-up or communication from Mr. Markowski or others at the CRA. No other memorialized communication or contact was sent or received until after the Extension Deadline.
+II. ANALYSIS AND DECISION
+[8] From the facts it is clear that no notice of objection in writing, however deficient or scant, was served on the Minister or anyone remotely affiliated. The main argument of Mr. Wong is that the NOAs were not clear on what needed to be done because details of the assessment were missing. After he asserted this for the fourth time during the hearing, the Court reviewed the NOAs with Mr. Wong. The Court pointed out there were two choices immediately following the $110,000 assessment: pay the tax or file a notice of objection. This infrequent use of clear, succinct language by CRA is starkly present in the NOAs where it states:
+You are required to pay the amount assessed immediately. Failure to do so may result in further enforcement action. You have the right to object to this assessment by filing, with the Minister of National Revenue, a formal Notice of Objection WITHIN 90 days of the date this Notice of Assessment was mailed to you. Notice of Objection forms may be obtained by contacting the Appeals Division of your local Tax Services Office.
+[9] Obviously, Mr. and Mrs. Wong did not pay the assessment. They also did not file a notice of objection.
+[10] The remaining issue concerns the Extension Deadline, expiring on July 31, 2018. There is no evidence of anything in writing representing or approaching an application to extend the time. Mr. Wong suggests that the oral discussions at the October, 2017 constructively constitute such an application. Again, the Court cannot comment on what occurred at that meeting because Mr. Wong cannot reliably relay it.
+[11] More curious is what did not occur at the October, 2017 meeting where an accountant and Ms. Mah were present to assist the Wongs Mr. Wong and Mrs. Wong were displeased with the NOAs. They knew they concerned serious matters. They brought advisors with them. Mr. Wong asserts Mr. Markowski should have mentioned the objection and/or application to extend. He is correct that the filings should have been raised and discussed at the meeting. He is incorrect regarding who should have been the initiator. His advisors had the NOAs. They were there to discuss same on the Wongs’ behalves. If anyone owed a duty to Mr. and Mrs. Wong, it was Ms. Mah or the accountant who both bore the onus to raise it at the meeting. Based on the information provided by Mr. Wong, they did not. Mr. Wong seems to have missed an important point. It would have been potentially useful for the Wongs if Mr. Markowski had pursued requesting a written application to extend; it would have also been entirely without obligation. The operative NOAs already directed what was to be done: pay or object. The NOAs and the options within each impressed upon Mr. and Mrs. Wong, the parties who were burdened with the obligation and choice, the two options. Their advisors were the next proximate obligors who ought to have outlined for and solicited from the Wongs their directions to file the objection or application to extend.
+[12] Again, these advisors were present at the October, 2017 meeting for Mr. and Mrs. Wong’s benefit and assistance. It simply was not legally or practically Mr. Markowski’s role or responsibility to do so. Ultimately, there is no written objection or application of any kind before the Court filed, submitted or offered by the Wongs.
+[13] The Minister cannot be prejudiced or disadvantaged by the unilateral omissions and inattention or taxpayers: Xu v. HMK, 2022 TCC 108 at paragraph 26. There simply is no written memorial of the Wongs having contested or disputed the NOAs. Taxpayers need to focus on the simple step of filing the one page document comprising an objection within 90-days of the NOA. As evidenced by these applications, taxpayers’ advisors must especially mind the deadlines since technical compliance is the reason their services are sought in the first place. If they miss that Objection Deadline, then an application to extend must be submitted. This Court frequently contorts itself to find any written material filed on or before these “deadlines” sufficient. However, it cannot transform the thin air of discussion into a written filing. It must do just that in these applications. That is simply a bridge too far.
+III. CONCLUSION
+[14] When one listens closely to Mr. Wong for any length of time what happened becomes clear. Mr. Wong had an abiding desire to control the method, timing and process of the tax dispute. Mr. Wong wished to deal with the matters, but only as to the substance and not the process. He wanted to resolve the dispute, but only through discussion and to the exclusion of anything in writing on the record. He did not, and from his submission in Court, still does not accept that the process demands a simple written objection or application.
+[15] A taxpayer must adhere to that process. It is fairly simple. A taxpayer must object in writing in some, and almost any, way. But, it must be in writing. If the taxpayer does not, then within a year, an application to extend must be brought, in writing. Mr. Wong failed to do either and will likely never accept that he missed the chance to do so.
+[16] The Minister inadvertently obscures communications from time to time. However, in these applications the need to object was not hidden or kept from the Wongs. It was just stubbornly ignored. The Court has no power to assist.
+[17] In the absence of a document, any document, filed in the operative periods evidencing a dispute, these applications are dismissed for the reasons stated. There shall be no costs.
+Signed at Toronto, Ontario, this 13th day of October, 2022.
+“R.S. Bocock”
+Bocock J.
+CITATION:
+2022TCC117
+COURT FILE NO.:
+2019-3538(IT)APP; 2019-3539(IT)APP;
+STYLE OF CAUSE:
+ALBERT WONG AND HIS MAJESTY THE KING; AMY WONG AND HIS MAJESTY THE KING
+PLACE OF HEARING:
+Calgary, Alberta
+DATE OF HEARING:
+September 28, 2022
+REASONS FOR ORDER BY:
+The Honourable Mr. Justice Randall S. Bocock
+DATE OF ORDER:
+October 13, 2022
+APPEARANCES:
+For the Applicants:
+The Applicants themselves
+Counsel for the Respondent:
+Lora Falkenberg Walsh
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Blank
+Firm:
+Blank
+For the Respondent:
+François Daigle
+Deputy Attorney General of Canada
+Ottawa, Canada

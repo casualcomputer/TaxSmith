@@ -1,0 +1,467 @@
+---
+title: "Metrogate Inc. v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/310269/index.do"
+last_modified: "2018-05-11"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2018 TCC 91"
+citation2: ""
+neutral_citation: "2018 TCC 91"
+decision_date: "2018-05-11"
+language: "en"
+item_id: "310269"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4878
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T11:47:52.947000+00:00"
+cases_cited_count: 4
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "2e8307807de9f6880be02b9c3269b63fd55064a51e543b5a0ebf51c152ec9042"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Metrogate Inc. v. The Queen
+
+- Citation: 2018 TCC 91
+- Decision date: 2018-05-11
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4878, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Metrogate Inc. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2018-05-11
+Neutral citation
+2018 TCC 91
+File numbers
+2016-421(GST)G
+Judges and Taxing Officers
+Réal Favreau
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2016-421(GST)G
+BETWEEN:
+METROGATE INC.,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Motion heard on June 22, 2017 at Toronto, Ontario.
+Before: The Honourable Justice Réal Favreau
+Appearances:
+Counsel for the Applicant:
+Al-Nawaz Nanji
+Sameer Nurmohamed
+Counsel for the Respondent:
+Jack Warren
+ORDER
+UPON the applicant’s motion filed pursuant to section 58 of the Tax Court of Canada Rules (General Procedure);
+AND UPON having heard the evidence and submissions of the parties;
+In accordance with the attached Reasons for Order, this Court orders that the cost of land that forms part of the residential complex is a factor in both the numerator and denominator in calculating the degree of completion of construction of the condominium complex for purposes of determining transitional rebate entitlement.
+Consequently, the motion is allowed and costs are awarded to the applicant in any event of the cause.
+Signed at Ottawa, Canada, this 11th day of May 2018.
+“Réal Favreau”
+Favreau J.
+Citation: 2018 TCC 91
+Date: 20180511
+Docket: 2016-421(GST)G
+BETWEEN:
+METROGATE INC.,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Favreau J.
+[1] Metrogate Inc. (“Metrogate”) brought a motion under Rule 58 of the Tax Court of Canada Rules (“General Procedure”) (the “Rules”) for a question of mixed law and fact (the “Question”) to be determined before the hearing of its appeal. The Question asked is:
+Whether the Appellant’s cost of land should be included in the numerator and denominator of the calculation of the percentage of completion of construction of its condominium complex in respect of the Ontario transitional new housing rebate pursuant to subsection 256.21(1) of the Excise Tax Act (the “ETA”)?
+[2] The issue in this appeal is the amount of the transitional new housing rebate the applicant is entitled pursuant to section 256.21(1) of the Excise Tax Act, R.S.C. 1985, c. E-15, as amended (the “ETA”) and sections 55-58 of the New Harmonized Value-Added Tax System Regulations, No. 2 SOR/2010-151 (the “Regulations”). This determination depends on the question at issue on this motion: whether the cost of the land is to be factored in to the calculation of the percentage completion of the construction of a condominium complex for the purpose of the rebate.
+[3] The applicant submits that in calculating the rebate, the cost of the land should be factored in to the value of work completed and the total project budget. If the applicant is correct, the amount of the rebate will be 50%. The respondent submits that the cost of the land should not be factored in to the calculation. If the respondent is correct, the amount of the rebate will be 25%.
+I. FACTS
+[4] At the hearing of this motion, the parties submitted an Agreed Statement of Facts. The facts agreed upon by the parties are the following:
+1. The Appellant, Metrogate Inc. (“Metrogate”) is a corporation incorporated under the laws of Ontario.
+2. At all material times, Metrogate was registered under Part IX of the Excise Tax Act (Canada) (the “ETA”) for purposes of the federal harmonized sales tax under Part IX of the ETA.
+3. Metrogate acquired certain real property prior to July 1, 2010 (the “Land”). The last use of the Land before Metrogate acquired it was as a site for an operating trucking transportation terminal.
+4. The cost of the Land to Metrogate was $2,231,212.
+5. Prior to July 1, 2010, Metrogate commenced construction of a series of condominium buildings (the “Buildings”) on the Land (collectively, the “Development”), each of which was a condominium complex, residential complex and contained residential condominium unit(s) and residential unit(s) as defined in subsection 123(1) of the ETA.
+6. The Development was a specific residential complex as defined in subsection 55(1) of the New Harmonized Value-added Tax System Regulations, No. 2 (the “Regulations”).
+7. As of July 1, 2010, the Development was partially completed.
+8. Metrogate commissioned a report from the Altus Group concerning the completion of the Development. A copy of this report is attached as Appendix A.
+9. If this Honourable Court determines that the cost of the Land is included in the value of the construction work completed on the Development as of July 1, 2010 and the total budgeted construction cost for the Development, the parties agree that:
+(a) the value of the construction work completed on the Development as of July 1, 2010 was $5,835,780; and
+(b) the total budgeted construction cost for the Development was $22,763,306.
+10. If this Honourable Court determines that the cost of the Land is not included in the value of the construction work completed on the Development as of July 1, 2010 and the total budgeted construction cost for the Development, the parties agree that:
+(a) the value of the construction work completed on the Development as of July 1, 2010 was $3,604,568; and
+(b) the total budgeted construction cost for the Development was $20,532,094.
+11. Metrogate determined the percentage of completion of construction of a condominium complex to be 25.64% which includes the cost of the Land in both the numerator and the denominator, completed as of July 1, 2010. The Minister of National Revenue (the “Minister”) determined the percentage of completion of construction of a condominium complex to be 17.56% which excludes the cost of the Land in both the numerator and the denominator.
+12. Metrogate applied for an Ontario transitional new housing rebate (the “Transitional Rebate”) in respect of the condominium units in the Development (each a “Unit”), calculated by multiplying the amount determined under the applicable Regulations, as the “estimated provincial levy” for the unit (the “Rebate Rate”) by a percentage of 50%, on the basis that the construction of the Development was between 25% and 50% completed as of July 1, 2010.
+13. The Minister assessed Metrogate by way of notices of assessment dated July 16, 2012 (eight assessments) and September 19, 2012 (collectively, the “Assessments”). The Minister reduced the rebate amounts as set out in Appendix B.
+14. In assessing Metrogate’s Transitional Rebate claims, the Minister determined the amount of the Transitional Rebates to which Metrogate was entitled to in respect of each Unit by applying the 25% Rebate Rate, rather than the 50% Rebate Rate that Metrogate had used in determining the amount claimed. As a result, the amount of the Transitional Rebate allowed by the Minister was half of the amount that Metrogate had claimed.
+15. The basis for the Minister’s application of the lower 25% Rebate Rate was that, in the Minister’s view, the cost of the Land should have been excluded in determining the percentage of completion of the construction of the Development as of July 1, 2010 with the result that the Minister concluded that the Development was between 10% and 25% completed as of that date.
+[5] Appendix A (report of Altus Group) and Appendix B (assessments) referred to in the Agreed Statement of Facts are reproduced at the end of these Reasons for Order as Appendix A and Appendix B.
+II. POSITION OF THE PARTIES
+A. The Applicant
+[6] The applicant provided written submissions in support of its position. A detailed summary of the arguments advanced by the applicant follows:
+1. The ordinary meaning of precise words play a dominant role in statutory interpretation when interpreting tax statutes. The words of a statute are to be read in their entire context and in their grammatical and ordinary sense harmoniously with the scheme of the statute, the object of the statute and the intention of Parliament. The interpretation of a statutory provision must be made according to a textual, contextual and purposive analysis to find a meaning that is harmonious with the statute as a whole. When the words of a provision are precise and unequivocal, the ordinary meaning of the words plays a dominant role in the interpretive process.
+2. “Construction of the condominium complex” means forming the residential complex by putting the building and the land together:
+· the language used in paragraph 57(c)(iv) of the Regulations is precise and unequivocal. Metrogate’s entitlement to the Transitional Rebate depends on the percentage completion of the “construction . . . of the condominium complex”. A condominium complex is formed by putting together the Building and the Land that is subjacent to the Building;
+· the term “condominium complex” is defined in subsection 123(1) of the ETA to mean “a residential complex that contains more than one residential condominium unit”;
+· the term “residential complex” is defined in subsection 123(1) of the ETA to be the relevant building and the land subjacent or immediately contiguous to the building that is reasonably necessary for its use and enjoyment as a place of residence;
+· a “residential condominium unit” is defined in subsection 123(1) of the ETA as “a residential complex that is, or is intended to be, a bounded space in a building designated or described as a separate unit on a registered condominium or strata lot plan or description, or a similar plan or description registered under the laws of a province, and includes any interest in land pertaining to ownership of the unit”;
+· a building by itself, is not a residential complex. Land, by itself, is not a residential complex. A “residential complex” is comprised of two elements: a building and the land that is subjacent or immediately contiguous to the building that is reasonably necessary for use and enjoyment of the building. The land is an integral and necessary component of a residential complex.
+3. In 1096288 Ontario Ltd. v. The Queen, 2010 FCA 332, the Federal Court of Appeal concluded that the “construction of a residential complex” means forming the residential complex by putting the building and the land together:
+· the decision of the Federal Court of Appeal on the legal interpretation of “construction of a residential complex” for the purposes of the ETA is binding on this Court.
+4. the Crown’s interpretation of “construction of a condominium complex” is inconsistent with the Minister’s own interpretation:
+· despite the position of the Federal Court of Appeal in 1096288 Ontario Ltd., cited above, the Crown now takes the position that the percentage of completion of the “construction of a residential complex” does not take into consideration the cost of land upon which the complex is situated because land is not regarded as being constructed. The Crown relies on the Minister’s published opinion in GST/HST Info Sheets, GI-105 – How to Determine the Percentage of Completion for Purposes of the Provincial Transitional New Housing Rebates and the Transitional Tax Adjustment in Ontario and British Columbia, July 2010 (“GST/HST Info Sheet GI-105”);
+· the words or expressions used in a non-legislative publication such as an information guide cannot supersede or override legislation which is clear and unambiguous in its requirements. The court is not bound by departmental practice which may only be of assistance in resolving a doubt in favour of the taxpayer, not in favour of the very department that formulated the practice;
+· the GST/HST Info Sheet GI-105 did not have the benefit of the Federal Court of Appeal decision in 1096288 Ontario Ltd. as it was published before that decision was rendered;
+· the Crown’s interpretation of “construction of a residential complex” is inconsistent with the Minister’s published position. The Crown says that construction refers to “creation, erection, renovation, addition or enlargement of a building or structure and costs incurred on such activities may be included in determination of percentage of completion of construction”. However, limiting the cost of construction of a residential complex to cost of activities incurred on the “creation . . . of a building or structure” is inconsistent with the following costs recognized by the Minister in the Headquarter Letter 153618, “GST/HST Interpretation – Provincial transitional new housing rebates and the degree of completion of the construction or substantial renovation of a residential complex (July 15, 2013) published as an appendix to the GST/HST Info Sheet GI-105:
+(a) costs of builder’s permits and development cost charges (i.e. charges that a developer is required to pay for the infrastructure that the new development requires);
+(b) costs of representations made to government authorities for the purpose of obtaining land development permits, building permits and licenses;
+(c) site investigation costs (amounts paid for investigating the suitability of a site, such as the costs of soil tests, zoning investigations, environmental studies, surveying and financial feasibility studies);
+(d) costs of clearing and leveling the surface of the land (including the demolition of existing structures) upon which the complex will be built;
+(e) blasting and excavation costs to prepare for the construction or renovation of the complex; and
+(f) landscaping costs.
+· in effect, the Crown attempts to restrict the meaning of “percentage completion of the construction of the condominium complex” by limiting the costs included to those to erect the building and exclude the costs of the land to which the building is attached. By excluding the cost of the land which is a necessary element of the construction of a condominium complex, the Crown disregards the Federal Court of Appeal decision in 1096288 Ontario Ltd.
+5. The phrase “construction of a condominium complex” in the Regulations has the same meaning as “construction of a residential complex” in the ETA;
+· the Federal Court of Appeal decision in 1096288 Ontario Ltd interpreted the phrase “construction of a residential complex” for the purposes of the definition of “builder”. There is no material difference between the phrase “construction of a residential complex” and “construction of a condominium complex”. Both require the forming of the complex by putting together a building with the land on which the building is situated;
+· where an enactment confers power to make regulations, expressions used in the regulations have the same respective meanings as in the enactment conferring the power. Thus, the interpretation of the word “construction” is applicable to the entire ETA and the Regulations (reference is made to section 16 of the Interpretation Act, R.S.C. 1985, c. I-21);
+· if any ambiguity exists, it should be resolved in favour of the taxpayer.
+6. the phrase “construction . . . of the condominium complex” used in section 121 of the ETA, has the same meaning as in subsection 57(4) of the Regulations:
+· the wording of subsection 57(4) of the Regulations is based on the wording of subsection 121(3) of the ETA which provided a transitional federal sales tax rebate in respect of residential condominium units in a condominium complex under construction as of January 1, 1991 when the ETA became effective;
+· subsection 121(3) was amended in 1993 to refer to the percentage of completion of “construction or substantial renovation”. The Technical Notes issued in February 1993 in respect of that amendment to subsection 121(3) of the ETA stated:
+. . . for greater certainty, subsection 121(3) is amended to clarify that it is the degree of completion of the physical construction or renovation that is to be taken into consideration in determining the rebate.
+· there is no indication in the Technical Notes that the 1993 amendment was intended to exclude the cost of the land from the calculation of the percentage completion of the construction of the condominium complex. Rather, the wording of the Technical Notes suggests an intention to exclude non-physical costs, such as marketing and sales costs;
+· the meaning of “construction or substantial renovation of the complex” was examined in Hi-Grove Holdings Ltd. v. Canada (National Revenue), 1998 CanLII 14496 (CA CITT). The issue before the Canadian International Trade Tribunal (the “Tribunal”) was whether the construction of the complex was more than 25% completed on January 1, 1991 to permit a rebate under subsection 121(3) of the ETA, more particularly, the Tribunal had to determine whether the cost of the building permit and development cost charges should be included in the calculation of the percentage of completion. The Tribunal determined that the cost of the building permit and development cost charges were part of the cost of the building but if the costs were part of the land, the definition of “residential complex” in the ETA includes land.
+7. Parliament specifically uses the phrase “construction of a building” where it only applies to a building:
+· Parliament used the defined term “condominium complex” for the purposes of the ETA and the Regulations. Parliament could have based the Rebate Rate on the percentage of completion of the construction of the building instead of the “condominium complex”. Alternatively, Parliament could have chosen to define “condominium complex” as including only the building and not the land. Parliament did not do so.
+· where Parliament wants to refer to the “construction of a building” as opposed to “construction of a condominium complex [or residential complex]”. it explicitly does so. For example, sections 68.23 and 68.26 of the ETA specifically refer to “construction of a building”.
+8. The effect of the Crown’s interpretation results in a lack of consistency, predictability and fairness:
+· the effect of the Crown’s interpretation would be to have the phrase “construction of a condominium complex” mean “construction of a building” for the purposes of the Transitional Rebate in the Regulations but a different meaning (that includes land) for the purposes of the Act (including for the purposes of the definition of a “builder”).
+· Metrogate’s position is that the determination of the percentage completion of the construction of the condominium complex is a straight-forward bright line test: all costs involved in the construction of the condominium complex (i.e. forming the condominium complex by putting together the building and the land on which the building is situated) are to be included in the percentage completion of the construction of the condominium complex, consistent with the statutory wording;
+· the Crown, on the other hand, seeks to cherry pick which costs are included and which costs are excluded in determining the percentage of completion of the construction of the condominium complex. The Crown limits the costs included in the percentage completion of the construction of the condominium complex to be only those costs relating to the “creation, erection . . . of a building or structure”. That position has no support in the ETA or the Regulations.
+9. Metrogate provided a certified report as required by the Minister:
+· neither the ETA nor the Regulations prescribes the manner in which the percentage of completion of the construction of a condominium complex is to be determined;
+· in the GST/HST Info Sheet GI-105, the Minister published six methods that the Minister considers to be “fair and reasonable” of which the following two are relevant:
+(a) Method 1 – Capital and operating costs: This method requires determining, as of July 1, 2010, the capital and operating costs incurred in the construction of the residential complex as a proportion of the total expected capital and operating costs, as of July 1, 2010.
+(b) Method 6 – Certified report: This method requires determining percentage completion based on a report prepared by an engineer, architect or other professional who is qualified to certify the value or extent of work completed as of July 1, 2010.
+· Metrogate commissioned the Altus Group Report to determine the percentage of completion of the construction of the condominium complex based on total costs incurred prior to July 1, 2010. The Altus Group Report included the cost of the land in determining the percentage of completion on the basis that “condominium complex” means a “building that comprises more than one residential condominium unit, together with that portion of any common areas and other appurtenances to the building and the land subjacent or immediately contiguous to the building that is reasonably necessary for its use and enjoyment as a place of residence for individuals”. The certified report determined that the percentage completion of the construction of the condominium complex was 25.64%;
+· neither the Regulations nor the Minister’s publication sets out a particular method for use in the certified report. Nevertheless, the Crown rejects the certified report because it does not reflect the Crown’s position that the cost of the land should not be included in the calculation of the percentage completion of the construction of the condominium complex.
+B. The Respondent
+[7] The respondent also provided written submissions to support her position. A detailed summary of the arguments advanced by the respondent follows:
+1. Purpose of the Ontario Transitional New Housing Rebate (the “Transitional Rebate”)
+· the Transitional Rebate was introduced to offset estimated embedded Ontario retail sales tax (“RST”) in housing construction costs prior to July 1, 2010 where the housing would be sold subsequent to June 30, 2010 and be subject to imposition of Harmonized Sales Tax (“HST”). New homes completed in whole or in part prior to July 1, 2010 would have RST embedded in the cost of the homes. For new homes that are sold after June 30, 2010 and are subject to the HST at 13%, this would amount to windfall to the taxing authorities insofar as the developer paid RST, either directly or indirectly on construction materials used in construction of the homes. The Transitional Rebate was available to provide relief from double taxation for estimated RST embedded in housing construction completed prior to July 1, 2010;
+· prior to July 1, 2010, RST was generally applicable on tangible personal property and was not levied on the purchase of land;
+· factoring into the calculation of percentage of completion of construction, the cost of land which has no RST embedded in it, is not in accordance with a contextual and purposive analysis of the Transitional Rebate provisions in the ETA and Regulations. Such an application of the calculation of percentage of completion of construction, where cost of land that had no RST paid on it, would result in a windfall recovery for a Transitional Rebate claimant;
+· the respondent submits that the purpose of the Transitional Rebate was to offset double taxation by helping to ensure that housing at least partially constructed prior to July 1, 2010 did not contain a taxation burden of both the RST (embedded in the cost of constructing the condominium complex as of July 1, 2010) and the HST that applied on the full selling price of the condominium units within the condominium complex;
+· the applicant takes the position that the Transitional Rebate has no correlation with whether RST was incurred on inputs to a condominium complex;
+· the interpretation of a statutory provision must be made according to a textual, contextual and purposive analysis to find a meaning that is harmonious with the ETA as a whole;
+· Parliament confers tax benefits to promote specific purposes and to address specific activities and circumstances. Interpretation of a tax benefit must be consistent with the purpose of the provision relied upon;
+· Courts should not turn a blind eye to the underlying facts of a case. Courts should in all cases interpret the provisions in their proper context in light of the purposes they intend to promote;
+· analysis of the purpose of a taxing provision must seek to intend what outcome or purpose Parliament intended the provision to achieve;
+· the statutory provision at issue, paragraph 57(4)(c) of the Regulations which refers to the calculation of percentage of completion of construction of a condominium complex for the purposes of determining the amount of the Transitional Rebate, does not provide in its text the input variables or formula used in the percentage of completion of construction calculation;
+· the respondent submits that since the provision at issue does not provide direction for the calculation of percentage of completion of construction formula in its text, therefore the context and purpose of the Transitional Rebate provision must be considered in interpreting the statute and arriving at the appropriate input variables to include in the percentage of completion of construction calculation;
+· new housing sold in Ontario after June 30, 2010 was subject to HST which contains 8% provincial sales tax combined with the federal Goods and Services Tax;
+· the respondent submits that utilizing capital and operating costs as the proxy by which to determine percentage of completion of construction of the condominium complex is an acceptable method and in fact, one identified by the Minister in its GST/HST Info Sheet GI-105. This Info Sheet clearly states the Minister’s interpretation and application of the percentage of completion of construction calculation does not include land cost;
+· in the applicant’s condominium development, land cost is the largest single pre-July 2010 input cost. To include land cost into the proxy or determiner for estimating the percentage of completion of construction for Transitional Rebate purposes, when that land input had no RST embedded in it, would produce a result which is significantly distorted from the context and purpose of the Transitional Rebate;
+· this contextual and purposive analysis clearly indicates that relief from estimated embedded RST is the purpose of the Transitional Rebate. The respondent submits it is unsupportable and unconnected to the very purpose of the Transitional Rebate for the applicant to contend that consideration of the amount of RST attributable to construction prior to July 1, 2010 is irrelevant and has no correlation to the amounts that ought to be rebated;
+· subsection 55(1) of the Regulations deals with the estimated provincial levy. The 2% factor (which equates to ¼ of the 8% RST rate in effect prior to July 1, 2010) set out in this subsection is an estimate or proxy of RST taxable and embedded content in the value of construction which recognizes that many construction inputs, mainly services such as labour were not subject to 8% RST;
+· prior to July 1, 2010, construction materials which went into housing construction were subject to RST while construction labour was not subject to RST under the Ontario Retail Sales Tax Act. Costs of materials and labour would have been incurred and incorporated into a residential complex contemporaneously in the typical construction process as it progressed up until June 30, 2010;
+· aside from the distortive impact of including land in the determination of percentage of completion of construction given that land cost that was not subject to RST, to include land at the very outset of the construction process and in any event prior to July 1, 2010, front-loads the percentage of completion of construction calculation with the largest input cost and fails to account for the incremental nature of construction (and RST embedding) of a residential complex;
+· to include land cost skews upward the calculation of percentage of completion of construction as of July 1, 2010, such that all costs associated with land acquisition even though it has no embedded RST, are incorporated and available for Transitional Rebate calculation prior to July 1, 2010;
+· given that prior to July 1, 2010, land cost was not subject to RST, including land into the percentage of completion of construction calculation, would introduce a variable which had no effect on the estimated embedded RST and therefore inflates and distorts the Transitional Rebate entitlement and is not in accordance with the context, purpose and intent of the Transitional Rebate.
+2. applicant’s methodology produces windfall and absurd Transitional Rebate entitlement:
+· the applicant’s written submissions have raised the issue that interpretation of subsection 57(4) of the Regulations concerning percentage completion of construction of a condominium complex must result in consistent, predictable and fair results;
+· the applicant’s application of percentage of completion of construction of the condominium complex does not satisfy the statutory interpretation outcomes which the applicant has identified;
+· the applicant’s position is that cost of land is indicative of a degree of completion of construction of a condominium complex would lead to widely inconsistent results in the calculation of the percentage of completion of construction and result in widely different findings of percentage of completion of construction based primarily on land prices. The result would be that builders who were subject to equal amounts of estimated embedded RST on construction of a condominium complex prior to July 1, 2010, could receive absurdly different amounts of Transitional Rebate to offset estimated embedded RST.
+· the applicant’s application of the capital and operating costs method would provide that acquisition of a vacant undeveloped piece of land, prior to July 1, 2010, constitutes a significant percentage of completed construction of a condominium complex as of that date even where a de minimis level of construction activity may have been completed;
+· specific to the applicant’s calculations, the claimed inclusion of cost of land brings the applicant to just over the 25% threshold for calculated degree of completion of construction of its condominium complex. Prior to July 1, 2010, the applicant incurred land cost of $2,231,212 and all other costs of $3,604,568;
+· from the total of $5,835,780 which the applicant claims for the purpose of the Transitional Rebate as its capital and operating costs of construction incurred prior to July 1, 2010, 38% ($2,231,212/$5,835,780) of this $5,835,780 claimed costs had no embedded RST, yet the applicant claims Transitional Rebate as if all this $5,835,780 was subject to embedded RST. This calculation would produce a windfall Transitional Rebate entitlement for the applicant;
+· even though the capital and operating costs method uses costs as the proxy to measure percentage of completed construction, what is being sought to be determined for the purposes of Transitional Rebate is the percentage of completed construction work, effort and activity which a condominium complex has undergone and sustained as of July 1, 2010 which as a result estimates embedded RST for rebate purposes;
+· the applicant’s application of calculation of percentage of completion of construction by factoring in land cost, produces results that can have reduced and in some cases almost non-existent correlation to the level of actual completed construction. Given an equal amount of condominium complex construction activity completed, a building of a certain cost and having an amount of estimated embedded RST, utilizing a relatively expensive piece of land, would receive a higher Transitional Rebate than a condominium complex with a building of the exact same cost and having the same amount of estimated embedded RST utilizing a lower cost piece of land. The applicant’s methodology would produce inconsistent entitlements to Transitional Rebate;
+· the respondent’s application of the capital and operating costs methodology which does not include cost of land, removes this distortive effect and produces a Transitional Rebate entitlement to a claimant which is correlated to the amount of estimated embedded RST in a condominium complex and provides an entitlement amount that meets the very purpose of the Transitional Rebate;
+· the respondent submits if land costs are not included in the capital and operating costs method, this distortion concerning value of land on the percentage of completion of construction which has no bearing on estimated embedded RST, is removed;
+· the respondent submits its methodology provides a more predictable and appropriate Transitional Rebate entitlement and is more reflective of the estimated embedded RST prior to July 1, 2010.
+Legislative Provisions
+[8] The relevant provisions of the ETA and the Regulations for the purpose of this motion are found at the end of the present Reasons for Order.
+Analysis
+[9] Subsection 123(1) of the ETA sets out the definitions applicable to this motion, namely the definitions of:
+− “condominium complex”;
+− “residential complex”;
+− “residential condominium unit”; and
+− “residential unit”.
+[10] Section 256.2 of the ETA provides for the rebate in issue which is calculated pursuant to the Regulations (Part 9 – Ontario and British Columbia Real Property Transitional Rules, Division 4 – Transitional New Housing Rebates).
+[11] Subsection 55(1) of the Regulations defines the expressions “estimated provincial levy” and “specific residential complex”. The prescribed circumstances to be satisfied for the purpose of the rebate for specified residential complex are listed in subsection 57(1) of the Regulations and the amount of the rebate is determined in this case by such paragraphs 57(4)(c)(iv) or (v) of the Regulations.
+[12] The parties agreed that the applicant is entitled to the rebate, that the development was a “specified residential complex”, a “condominium complex” and a “residential complex” and that the development contained a “residential condominium unit” and a “residential unit”.
+[13] The amount of the rebate is determined by paragraph 57(4)(c) of the Regulations. If the development is between 25% to 50% complete, the applicant is entitled to 50% of the “estimated provincial levy” pursuant to subparagraph 57(4)(c)(iv) of the Regulations. If the development is between 10% to 25% complete, then the applicant is entitled to 25% of the “estimated provincial levy” pursuant to subparagraph 57(4)(c)(v) of the Regulations.
+[14] The rebate is calculated in accordance with clause B(i) of the definition of “estimated provincial levy” in subsection 55(1) of the Regulations.
+A. The Statutory Interpretation Principles
+[15] In Canada Trustco Mortgage Co. v. Canada, [2005] 2 S.C.R. 601, the Supreme Court of Canada set out a textual, contextual and purposive approach to statutory interpretation in the following terms:
+10 It has been long established as a matter of statutory interpretation that "the words of an Act are to be read in their entire context and in their grammatical and ordinary sense harmoniously with the scheme of the Act, the object of the Act, and the intention of Parliament": see 65302 British Columbia Ltd. v. Canada, 1999 CanLII 639 (SCC), [1999] 3 S.C.R. 804, at para. 50. The interpretation of a statutory provision must be made according to a textual, contextual and purposive analysis to find a meaning that is harmonious with the Act as a whole. When the words of a provision are precise and unequivocal, the ordinary meaning of the words play a dominant role in the interpretive process. On the other hand, where the words can support more than one reasonable meaning, the ordinary meaning of the words plays a lesser role. The relative effects of ordinary meaning, context and purpose on the interpretive process may vary, but in all cases the court must seek to read the provisions of an Act as a harmonious whole.
+11. As a result of the Duke of Westminster principle (Commissioners of Inland Revenue v. Duke of Westminster, [1936] A.C. 1 (H.L.)) that taxpayers are entitled to arrange their affairs to minimize the amount of tax payable, Canadian tax legislation received a strict interpretation in an era of more literal statutory interpretation than the present. There is no doubt today that all statutes, including the Income Tax Act, must be interpreted in a textual, contextual and purposive way. However, the particularity and detail of many tax provisions have often led to an emphasis on textual interpretation. Where Parliament has specified precisely what conditions must be satisfied to achieve a particular result, it is reasonable to assume that Parliament intended that taxpayers would rely on such provisions to achieve the result they prescribe.
+[16] In Mathew v. Canada, [2005] 2 S.C.R. 643, the Supreme Court of Canada has also stressed a unified approach to statutory interpretation:
+43 . . . While it is useful to consider the three elements of statutory interpretation separately to ensure each has received its due, they inevitably intertwine. For example, statutory context involves consideration of the purposes and policy of the provisions examined. And while factors indicating legislative purpose are usefully examined individually, legislative purpose is at the same time the ultimate issue -- what the legislator intended.
+[17] In Placer Dome Canada Ltd. v. Ontario (Minister of Finance), [2006] 1 S.C.R. 715 at paragraphs 21 to 24, the Supreme Court of Canada has also emphasized the textual approach where the words are clear and there is no ambiguity.
+Text
+[18] The applicant’s interpretation of the words “construction of the condominium complex” includes the land subjacent to the building. “Condominium complex” is defined in subsection 123(1) of the ETA to include a “residential complex”; the latter term is also defined in subsection 123(1) of the ETA to include the land contiguous and subjacent to the building. The definition of “residential condominium unit” in subsection 123(1) of the ETA also includes “any interest in land pertaining to . . . the unit”. Therefore, a residential complex (and therefore a condominium complex) includes both the building and the land, as set out by Parliament and the land must be considered as a necessary component in constructing the complex. Furthermore, the words “construction of a residential complex” in the Regulations has the same meaning as in subsection 123(1) of the ETA as a result of the application of section 16 of the Interpretation Act, R.S.C 1985, c. I-21 which reads as follows:
+16. . Where an enactment confers power to make regulations, expressions used in the regulations have the same respective meanings as in the enactment conferring the power.
+[19] The applicant relies on the decision of Justice Paris of this Court in 1096288 Ontario Ltd. v. The Queen, 2009 TCC 292, which has been affirmed by the Federal Court of Appeal, 2010 FCA 332, in support of his interpretation. In that case, the Tax Court of Canada held that the words “construction . . . of a residential complex” in subsection 123(1) of the ETA included land. The Federal Court of Appeal agreed with this interpretation:
+[2] GST is payable on the sale of a "residential complex" by the builder: section 2, Part 1 of Schedule V of the Excise Tax Act, RSC 1985, c. E-15 (Act). A "builder" is defined in subsection 123(1) of the Act as a person who carries on the "construction or substantial renovation" of a residential complex. "Residential complex" is defined in the same subsection as that part of the building in which one or more residential units are located, "together with ... the land immediately contiguous to the building that is reasonably necessary for the use and enjoyment of the building as a place of residence".
+[3] The word "construction" is not defined in the Act and the Judge gave it its ordinary meaning: in particular, the act of forming something by putting together parts. He reasoned that, since "residential complex" comprises the building and the land on which it stands, when the Appellant moved a house from its original lot, it ceased to be part of the previous "residential complex". By preparing the foundation on the new lot, installing the necessary services, and attaching the relocated house, the builder had thereby constructed a new "residential complex".
+[4] Counsel says that unless there has been a change to the frame of a residence there has been no "construction" of it. We disagree. The term "construction" in its ordinary sense is not this narrow, but can include, as the Judge found, forming the residential complex by putting the house and the land together.
+[20] The context of the 1096288 Ontario Ltd. case is different from the present one in that it involves the interpretation of the world “builder” pursuant to subsection 123(1) of the ETA. Despite the different context, the words at issue “construction” and “residential complex” in 1096288 Ontario Ltd. and the present case are the same.
+[21] The following extract of Justice Paris’ decision concerning the definition of “residential complex” in subsection 123(1) of the ETA is particularly relevant:
+37 . . . A "residential complex" (other than a mobile home or floating home) is defined in subsection 123(1) of the Act as including any land subjacent to the structure and any contiguous land necessary to the use and enjoyment of the building portion of the complex as a place of residence. Therefore, the structure of a house is only a part of a residential complex. Without land the structure could not be used as a place of residence. . . .
+[22] Based on the foregoing, the applicant’s position appears to be the correct one on the textual analysis. The Regulations specifically use the term “condominium complex” and “residential complex” which are defined to include the land. The applicant’s position is the only one which is supported by case law. The land is a necessary element in any construction.
+Context
+[23] The scheme of the rebate is summarized in the respondent’s Memorandum of Fact and Law in the following manner at paragraph 2:
+The Ontario transitional new housing rebate was introduced as a measure to provide relief from double taxation of Ontario retail sales tax when Ontario moves from its provincial retail sale tax regime to adopt the federal harmonized sales tax regime on July 1, 2010. The sole purpose of the transitional new housing rebate provisions at issue is to offset and allow recovery of estimated embedded Ontario retail sales tax for new or substantially renovated housing, construction of which was completed or partially completed, as of July 1, 2010.
+[24] The scheme of the Regulations is explained in the Regulatory Impact Analysis Statement, as published in the Canada Gazette Part II, Extra, vol. 144, No. 4 at pages 99-100, in the following manner:
+The New Harmonized Value-added Tax System Regulations, No. 2 (the Regulations) formalize and give legal force to the previously released real property, ITC recapture and HST self-assessment and rebate rules as well as introduce other rules to ensure that the provincial component of the HST applies properly as a consequence of the new provincial flexibility allowed in establishing the rate of that component, which is afforded to provinces that adopt the new harmonized value-added tax framework under the ETA. Overall, the provisions contained in the Regulations are new rules necessary for the implementation of the HST in Ontario and British Columbia. These rules provide certain elements that are fundamental for the operation of the HST.
+. . .
+Ontario and British Columbia real property transitional rules
+The Regulations specify when the provincial component of the HST applies to real property transactions that straddle the implementation date of July 1, 2010. Information notices announcing these rules were released on June 18, 2009 (Ontario) and November 18, 2009 (Ontario and British Columbia).
+These Regulations provide that sales of new housing under written agreements entered into on or before June 18, 2009 (Ontario) or November 18, 2009 (British Columbia) would not be subject to the provincial component of the HST (i.e. grand-parented agreements).
+The Regulations also provide for a transitional housing rebate for the provincial sales tax (PST) embedded in the price of new housing. The rebate is allowed in order to provide relief where a new home subject to the HST also had provincial sales tax embedded in the price. For example, this would be the case for homes to which HST applies where the provincial sales tax had been charged on building materials used in the construction of the home prior to the implementation of the HST in Ontario and British Columbia. Under the Regulations, the rebate for embedded PST (discussed above) can be paid to the builder of the home in cases where the builder pays or credits this rebate to the purchaser and the purchaser agrees to assign this rebate to the builder. This simplification measure allows homebuyers to receive the benefit of the rebate at the time of their home purchase rather than having to file a rebate application with the Canada Revenue Agency (CRA). This measure was announced, in the information notices noted above.
+[25] The Regulatory Impact Analysis Statement refers to previous Harmonized Sales Tax (HST). Information Notice No. 2, released by Ontario on June 18, 2009, entitled “Helping Homebuyers and the Housing Industry with an Enhanced New Housing Rebate, a New Rental Housing Rebate and Transitional Rules” which reads as follows:
+RST Transitional Housing Rebate
+Newly constructed or substantially renovated homes completed in full or in part prior to July 2010 would have RST embedded in the cost of the homes. For new homes that are subject to the provincial portion of the proposed single sales tax after June 2010, an RST transitional housing rebate would be available to provide relief in respect of the RST embedded in the home.
+This rebate would be available for non-grandparented single homes, condominiums and traditional apartment buildings, as well as grandparented condominiums for which the transitional tax adjustment would be payable.
+. . .
+Transitional rebate – condominiums and apartments
+For newly constructed or substantially renovated homes that are residential condominiums or traditional apartment buildings, the RST transitional housing rebate would be available to the builder rather than the purchaser.
+For these new homes, the rebate would be available where the transitional tax adjustment or the single sales tax would apply, as applicable. This rebate would also be available for qualifying new additions to traditional apartment buildings.
+Transitional rebate calculation
+Generally, the rebate would be calculated as a proportion of the estimated embedded RST in the newly constructed or substantially renovated home, based on the degree of completion of the home as of July 1, 2010.
+Eligible applicants would be permitted to calculate the estimated embedded RST (“estimated RST content”) by choosing one of the following two methods:
+Estimated RST content calculated at a prescribed amount per square metre of floor space in the home (“floor space method”); or
+Estimated RST content based on the selling price of the home, calculated at two per cent of the total price established for GST purposes (“selling price method”).
+The rebate would be calculated based on the extent of construction or substantial renovation completed as of July 1, 2010, as follows:
+100% of the estimated RST content, where the home if 90% or more completed on July 1, 2010;
+90% of the estimated RST content, where the home is 75% or more and less than 90% completed on July 1, 2010;
+50% of the estimated RST content, where the home is 25% or more and less than 50% completed on July 1, 2010;
+25% of the estimated RST content, where the home is 10% or more and less than 25% completed on July 1, 2010;
+0% of the estimated RST content, where the home is less than 10% completed on July 1, 2010.
+Eligibility for the RST transitional housing rebate would not affect the purchaser’s or builder’s ability to claim the new housing rebate or new rental housing rebate, as applicable.
+[26] While these sources discuss the context of the rebate scheme, they don’t help to clarify the appropriate method by which to calculate the percentage completion of a condominium complex. The most authoritative source, the Regulatory Impact Analysis Statement to the Regulations, doesn’t discuss land at all. The best indication comes from the Ontario Information Notice No. 2 where the word “home” is used as opposed to the term “residential complex”. However, this wording (“home” or something equivalent such as “building”) is not what made it in to the Regulations as passed by Parliament.
+[27] Some context on the methodology of the calculation is provided by subsection 58(3) of the Regulations. This subsection makes it clear that the rebate is to be calculated based on the “interior floor space of the complex”. Some further context on the calculation of the rebate by interior floor space is provided by paragraph (a) of the definition of “estimated provincial levy” in subsection 55(1) of the Regulations, and subsections 55(2) to (3). These provisions are clearly meant to provide a rebate based on the progress in the construction of the building itself. While this method is only mandated pursuant to subsection 58(3) where the taxpayer applies for the rebate prior to Part IX tax becoming payable, it does show an intention to have the rebate apply based on the progress in the construction of the building.
+[28] In addition, the use of the word “complex” alone in subsection 58(3) is notable. The word “complex” is also used on its own in the definition of “estimated provincial levy” in subparagraph 55(1)(b)(iii) and in subsections 57(1), 57(2) and 58(2) of the Regulations. Gone are the references to “residential complex” or “condominium complex”. There are two different ways to interpret this. First, the word “complex” alone could be referring to a “residential complex” or “condominium complex” as those terms are defined. The second is that the rebate applies to a “complex” that is something other than a “condominium complex” or “residential complex”. The word “complex” is defined in the Canadian Oxford Dictionary, 2nd edition, sub verbo “complex” as “a building, series of rooms, network, etc. made up of related parts”. Therefore, the word “complex” alone is more ambiguous, being capable of meaning the building alone. However, in my opinion, the first interpretation is the better one given the context and use of the terms “condominium complex” and “residential complex” elsewhere.
+[29] In conclusion, an interpretation based on context is more ambiguous. Some related sections suggest the calculation is to be restricted to the building itself. But these provisions aren’t at issue here.
+Purpose
+[30] The applicant submits that it was Parliament’s intent to include the cost of the land in the calculation by using the defined term “condominium complex”. If it was Parliament’s intent to exclude the cost of the land, it could have used another term or defined it to exclude land. The applicant points to sections 68.23 and 68.26 of the ETA where Parliament used the words “construction of a building” as an example of such wording.
+[31] In addition, the applicant submits that the purpose of the rebate is to provide a rebate for RST embedded in the condo complex, either directly or indirectly, as the full value is subject to HST following the transition. The rebate makes no attempt to estimate actual RST embedded. Parliament could have tied the rebate to actual RST incurred if it wanted to rebate the actual RST. Therefore, the rebate has no correlation with actual RST incurred, which the Minister acknowledges by allowing labour costs to be factored in to the calculation.
+[32] According to the respondent, the applicant’s method of calculating the percentage completion of the condominium complex produces results which have little to no correlation to the actual degree of which the construction has been completed or to the estimated embedded RST. The respondent submits that RST in Ontario prior to July 1, 2010 was not charged on the purchase of land (Retail Sales Tax Act, RSO 1990, c R.31 at sections 1-2(1).
+[33] The respondent submits that the purpose of using capital and operating costs to calculate the percentage completion is to estimate the embedded RST as at July 1, 2010. The inclusion of land in this calculation distorts the percentage completion as at that date depending on the value of the land. This distortion can be avoided by excluding the land value.
+[34] The purpose of the Regulations is to rebate estimated embedded RST in the complex based on the percentage completion of the construction. The more complete the complex is, the higher the rebate will be. By all accounts, the goal is to provide for a rebate based on estimation. There is no attempt to rebate actual RST incurred on inputs.
+[35] In Bastien (Succession de) c R, [2011] 2 S.C.R. 710, the Supreme Court of Canada has held the purposive approach must be rooted in the words of the statute:
+25 . . . a purposive approach to the application of the exemption provisions must be rooted in the statutory text and does not give the court “license to ignore the words of the Act ... or otherwise [circumvent] the intention of the legislature” which that text expresses: University of British Columbia v. Berg, [1993] 2 S.C.R. 353, at p. 371 . . .
+[36] The words of the ETA in this case suggest that land is an element in the construction of a condominium complex. There is nothing else in the textual analysis which suggests the purpose is to rebate based on the percentage completion of the building alone.
+B. Whether there is Embedded RST in the Land
+[37] While there is no dispute that there was no RST charged directly on the land, the applicant takes issue with the respondent’s assertion that there is no RST embedded in the land.
+[38] First, the applicant submits that the formula suggests there is embedded RST in the land because it provides a rebate based on the percentage completion of the condominium complex which includes the land and building. Also, while other costs such as labour are not subject to RST, labour services provided under contract are. Finally, the applicant submits that there is RST embedded in all inputs, even those not directly subject to the tax. Therefore, even if there is no RST paid on the land, there is RST embedded in the land. The land was previously used as a trucking transportation terminal. The applicant submits there would be RST embedded in the costs of demolishing the terminal and servicing the land. Therefore, the land purchase price contains embedded RST. To prevent double tax with HST being charged on the subsequent sale, the rebate must take into account this land with embedded RST.
+[39] This argument raises the question as to what it means to have “embedded” RST. The definition of the word “embed” given by the New Shorter Oxford English Dictionary includes “[p]lace or secure within something else, esp. within a larger or firmer entity; cause to be wholly contained within.” The purpose of the Regulations is not to rebate actual RST incurred. Therefore, the use of the word “embed” suggests a broader concept.
+[40] As a result, the applicant may be correct in saying that there is RST embedded in the value of the land. The only indication of what is meant by embedded comes in the Regulatory Impact Analysis Statement at pages 99 to 100 which specifically refers to provincial sales tax charged on building materials as an example of a building with embedded RST:
+The rebate is allowed in order to provide relief where a new home subject to the HST also had provincial sales tax embedded in the price. For example, this would be the case for homes to which HST applies where the provincial sales tax had been charged on building materials used in the construction of the home prior to the implementation of the HST in Ontario and British Columbia.
+[41] This passage implies that a home has RST embedded in it because of provincial sales tax charged directly on supplies used in the construction of the home. This passage does not consider indirect RST embedded in a supply (though it doesn’t rule it out either). As a result, I conclude that the purpose of the rebate is to reimburse for RST directly incurred but not indirect RST.
+C. Absurb Results
+[42] The respondent submits that including the cost of land in the calculation distorts the resulting rebate from the context and purpose of the rebate. In addition, including land front-loads the costs incurred prior to July 1, 2010 and skewing the calculation of percentage completion in favour of a higher figure as at July 1, 2010. Therefore, including the land cost ignores the incremental speed at which construction occurs.
+[43] The respondent also submits that the applicant’s calculation produces inconsistent and absurd results because the amount of the rebate can depend on the value of the land acquired. For example, the acquisition of a very expensive piece of land could entitle a builder to a large rebate even where very little construction has been completed; on the other hand, where land acquired is relatively cheap, a builder could get a lesser rebate even if more construction has been completed. This absurdity is reflected in the present case, where the cost of the land represents 38% of the applicant’s costs prior to July 1, 2010 and brings the percentage completion from over 17% to over 25%. The respondent asserts that this results in a windfall for the applicant.
+[44] The applicant submits that the respondent’s hypothetical scenario used to prove the absurdity of including land is removed from reality and unrealistic. In the present case, the land is only 9.8% the total budget. Second, the largest item in the budget is labour.
+[45] The applicant also submits that giving the words “construction of a residential complex” a different meaning under the ETA and the Regulations would be inconsistent. To include all costs in the calculation of percentage completion, including land, would be the most straight-forward.
+[46] Finally, in response to the respondent’s argument that including land in the calculation produces results which has no correlation to the degree of completed construction, the applicant argues that this is not true when land is included in the interpretation of “construction”.
+[47] While there is a presumption that Parliament does not intend to cause absurd results in enacting legislation (see B010 v Canada (Minister of Citizenship and Immigration), [2015] 3 S.C.R. 704; see also Grunwald v R, 2005 FCA 421), a perceived absurd result cannot be used to override clear and unambiguous wording (see R v McIntosh, [1995] 1 S.C.R. 686 (SCC); see also Mathieu c R, 2014 TCC 207). In this case, I am not convinced that the applicant’s desired result is absurd. The applicant here is not getting an 80% rebate based solely on the value of the land purchased as in the respondent’s example given at paragraph 34 of the respondent’s Memorandum of Fact and Law. Rather, it only increases the percentage completion by 8.08 percentage points.
+[48] The respondent admits this much at paragraph 24 of her Memorandum of Fact and Law, where the respondent states that the 2% rate used in paragraph (b) of the definition of “estimated provincial levy” in subsection 55(1) of the Regulations equates to ¼ of the 8% RST rate in effect up to July 1, 2010. This 2% rate is used to estimate embedded RST in the construction, recognizing that many inputs such as labour of the builder’s employees were not subject to RST whereas construction materials were subject to RST.
+D. Windfall
+[49] The applicant asserts that the respondent’s interpretation will provide a windfall to the government as it will deny rebates where there is RST indirectly embedded in the land.
+[50] The respondent submits that to include the land value in the calculation of the percentage completion of the development results in a windfall to the taxpayer, since he is then compensated via the rebate for RST on land which he never paid. The purpose of the Transitional Rebate is to prevent double taxation where RST is embedded in the cost of constructing the complex and HST is charged on the full value of the units.
+[51] In this case, a ruling for the applicant would mean a rebate of an additional $144,193.61 (double the amount allowed by the Minister). Whether this amount constitutes a windfall depends on whether there is RST indirectly embedded in the value of the land or not, and whether the rebate is meant to reimburse for indirect RST. However, much like absurd results, a “windfall” argument cannot be used to override clear wording (see Antosko v Minister of National Revenue, [1994] 2 CTC 25 (SCC)).
+E. Reliance on GST/HST Info Sheet GI-105
+[52] The applicant submits that neither the ETA nor the Regulations specify the manner in which the percentage completion of the construction is to be determined. One method accepted by the Minister is the certified report method (see GST/HST Info Sheet GI-105 at paragraph 4). The applicant used this method and the report of the Altus Group considered the cost of the land.
+[53] The applicant also submits that the GST/HST Info Sheet GI-105 does not override the legislation which is clear and unambiguous. These guides can only be used to resolve doubt in favour of taxpayers (see 946406 Ontario Ltd. v. Canada, [1993] GSTC 57 (TCC)).
+[54] While the applicant is correct that a CRA guide cannot override legislation, administrative opinions are capable of carrying weight and being considered by the Courts (see Placer Dome Canada Ltd. v. Ontario (Minister of Finance), [2006] 1 S.C.R. 715 at paragraph (10)). In this case, the opinion of the CRA is that land is not factored in to the calculation of the percentage completion of the development. However, the GST/HST Info Sheet GI-105 dated before the FCA’s decision in 1096288 Ontario Ltd where the Court held that constructing a residential complex includes the land. This raises the probability that the administrative opinion is wrong in this case.
+Decision
+[55] The key question for this motion is: was the construction of the condominium complex over or less than 25% complete at July 1, 2010? This depends on whether the cost of land should be considered in the calculation.
+[56] A textual analysis supports the applicant’s argument that land is an element in constructing a condominium complex. This is based on the statutory definitions of “condominium complex” and “residential complex” and case law interpreting these words. No cases supporting the contrary view has been presented. The contextual and purposive analysis is more ambiguous but I am convinced that the wording of the legislative provisions is not ambiguous enough to have any of the respondent’s arguments succeed.
+[57] For these reasons, this Court orders that the cost of land that forms part of the residential complex is a factor in both the numerator and denominator in calculating the degree of completion of construction of the condominium complex for purposes of determining transitional rebate entitlement.
+[58] Consequently, the motion is allowed and costs are awarded to the applicant in any event of the cause.
+Signed at Ottawa, Canada, this 11th day of May 2018.
+“Réal Favreau”
+Favreau J.
+CITATION:
+2018 TCC 91
+COURT FILE NO.:
+2016-421(GST)G
+STYLE OF CAUSE:
+Metrogate Inc. and Her Majesty the Queen
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+June 22, 2017
+REASONS FOR ORDER BY:
+The Honourable Justice Réal Favreau
+DATE OF ORDER:
+May 11, 2018
+APPEARANCES:
+Counsel for the Applicant:
+Al-Nawaz Nanji
+Sameer Nurmohamed
+Counsel for the Respondent:
+Jack Warren
+COUNSEL OF RECORD:
+For the Applicant:
+Name:
+Al-Nawaz Nanji
+Sameer Nurmohamed
+Firm:
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada
+Excise Tax Act
+Definitions
+123(1) In section 121, this Part and Schedules V to X,
+. . .
+“condominium complex” means a residential complex that contains more than one residential condominium unit;
+“residential complex” means
+(a) that part of a building in which one or more residential units are located, together with
+(i) that part of any common areas and other appurtenances to the building and the land immediately contiguous to the building that is reasonably necessary for the use and enjoyment of the building as a place of residence for individuals, and
+(ii) that proportion of the land subjacent to the building that that part of the building is of the whole building,
+(b) that part of a building that is
+(i) the whole or part of a semi-detached house, rowhouse unit, residential condominium unit or other similar premises that is, or is intended to be, a separate parcel or other division of real property owned, or intended to be owned, apart from any other unit in the building, and
+(ii) a residential unit,
+together with that proportion of any common areas and other appurtenances to the building and the land subjacent or immediately contiguous to the building that is attributable to the unit and that is reasonably necessary for its use and enjoyment as a place of residence for individuals,
+. . .
+“residential condominium unit” means a residential complex that is, or is intended to be, a bounded space in a building designated or described as a separate unit on a registered condominium or strata lot plan or description, or a similar plan or description registered under the laws of a province, and includes any interest in land pertaining to ownership of the unit;
+. . .
+“residential unit” means
+(a) a detached house, semi-detached house, rowhouse unit, condominium unit, mobile home, floating home or apartment,
+(b) a suite or room in a hotel, a motel, an inn, a boarding house or a lodging house or in a residence for students, seniors, individuals with a disability or other individuals, or
+(c) any other similar premises,
+or that part thereof that
+(d) is occupied by an individual as a place of residence or lodging,
+(e) is supplied by way of lease, licence or similar arrangement for the occupancy thereof as a place of residence or lodging for individuals,
+(f) is vacant, but was last occupied or supplied as a place of residence or lodging for individuals, or
+(g) has never been used or occupied for any purpose, but is intended to be used as a place of residence or lodging for individuals;
+. . .
+256.21(1) If a sales tax harmonization agreement with the government of a participating province allows for rebates in respect of residential property relating to the new harmonized value-added tax system in respect of that participating province, the Minister shall pay in prescribed circumstances a rebate in respect of prescribed property to a prescribed person, or a person of a prescribed class, equal to an amount determined in prescribed manner.
+Regulations
+Part 9 – Ontario and British Columbia Real Property Transitional Rules (2010)
+. . .
+Division 4 – Transitional New Housing Rebates (2010)
+Definitions
+55(1) The following definitions apply in this Division.
+“estimated provincial levy”, in respect of a rebate in relation to a specified residential complex or a specified single unit residential complex means
+(a) if, in an application filed for the rebate, the amount applied for is not based on the fair market value of the complex or the consideration for the supply of the complex, the amount determined by the formula
+A × B
+where
+A is
+(i) if the complex is not a residential condominium unit, the number of square metres of the interior floor space of the complex, and
+(ii) if the complex is a residential condominium unit, the total of
+(A) the number of square metres of the interior floor space of the unit, and
+(B) the amount equal to the total number of square metres of interior floor space of the common areas of the condominium complex in which the unit is situated multiplied by the fraction obtained by dividing the number of square metres of interior floor space of the unit by the total number of square metres of interior floor space of all condominium units in the condominium complex, and
+B is
+(i) if the complex is situated in Ontario, $45, or
+(ii) if the complex is situated in British Columbia, $60; and
+(b) in any other case, the amount determined by the formula
+A × 2%
+where
+A is
+(i) in the case where a builder of the complex was deemed under section 191 of the Act to have collected, at any time, tax in respect of the complex and the rebate is a rebate under subsection 256.21(1) of the Act, the amount of which is determined under subsection 56(4) or 57(4), that is payable to the builder in respect of the complex, the fair market value of the complex at that time,
+(ii) in the case where tax was deemed under paragraph 52(1)(e) to have been collected in respect of a taxable supply that is in respect of the complex and the rebate is a rebate under subsection 256.21(1) of the Act, the amount of which is determined under subsection 57(4), that is payable to the builder of the complex, the consideration for the supply,
+(iii) in the case of a complex that is a residential condominium unit, if tax was deemed under paragraph 53(1)(e) to have been collected in respect of a taxable supply that is in respect of the condominium complex in which the unit is situated and the rebate is a rebate under subsection 256.21(1) of the Act, the amount of which is determined under subsection 57(4), that is payable to the builder of the complex, the portion of the consideration for the supply that is attributable to that unit,
+(iv) in the case of a rebate under subsection 256.21(1) of the Act, in respect of which subparagraph (i) does not apply and the amount of which is determined under subsection 56(4), that is payable to an individual in respect of the complex, the consideration for the supply by way of sale of the complex to the individual, or
+(v) in the case of a rebate under subsection 256.21(1) of the Act, in respect of which subparagraphs (i) to (iii) do not apply and the amount of which is determined under subsection 57(4), that is payable to a builder in respect of the complex, the consideration for the supply by way of sale of the complex by the builder.
+“specified residential complex” means
+(a) a multiple unit residential complex (other than a multiple unit residential complex referred to in the definition single unit residential complex in subsection 254(1) of the Act) or an addition to a multiple unit residential complex, if the construction or last substantial renovation of the complex or addition began before July 1, 2010 and subsection 191(3) or (4) of the Act, as the case may be, did not apply, and would not have applied, in the absence of subsections 191(5) to (7) of the Act, after the day on which the construction or last substantial renovation began and before July 1, 2010, to deem a supply of the complex or addition to have been made; or
+(b) a residential condominium unit in a condominium complex where the construction or last substantial renovation of the condominium complex began before July 1, 2010 and neither subsection 191(1) nor (2) of the Act applied, and would not have applied, in the absence of subsections 191(5) to (7) of the Act, after the construction or last substantial renovation began and before July 1, 2010, to deem a supply of the unit to have been made.
+. . .
+Interior floor space
+(2) Subject to subsection (3), for the purposes of this Division, the interior floor space of a complex or unit includes the width of its enclosing walls that are not adjacent to any other complex or unit and half of the width of its enclosing walls that are adjacent to another complex or unit.
+(3) The interior floor space of a complex and of the common areas of a condominium complex does not include
+(a) storage rooms, attics and basements, unless finished to a standard comparable to the living areas of the complex
+(i) by the builder that supplies the complex to the person entitled to claim a rebate in respect of the complex, the amount of which is determined under this Division, or by any previous builder of the complex, if the complex is a specified single unit residential complex, and
+(ii) by a builder of the complex, in any other case;
+(b) parking areas; and
+(c) areas set aside for the placement of equipment for the heating or cooling of, or the supply of water, gas or electricity to, the complex or the condominium complex.
+. . .
+Rebate for specified residential complex
+57 (1) For the purposes of subsection 256.21(1) of the Act, the following circumstances are prescribed circumstances in respect of a specified residential complex:
+(a) immediately before July 1, 2010, a builder of the specified residential complex situated in a specified province owns or has possession of the complex;
+(b) the builder referred to in paragraph (a) had not, before July 1, 2010, transferred ownership or possession of the complex under an agreement of purchase and sale to any person who is not a builder of the complex;
+(c) if the specified residential complex is not a residential condominium unit, the construction of the complex or, in the case of a substantial renovation, the last substantial renovation of the complex, is, immediately after June 2010, 10% or more completed;
+(d) if the specified residential complex is a residential condominium unit that is being substantially renovated and the condominium complex in which the residential condominium unit is situated is not being substantially renovated, the last substantial renovation of the specified residential complex, is, immediately after June 2010, 10% or more completed; and
+(e) if the specified residential complex is a residential condominium unit and the condominium complex in which the unit is situated is being constructed or substantially renovated, the construction of the condominium complex or, in the case of a substantial renovation, the last substantial renovation of the condominium complex, is, immediately after June 2010, 10% or more completed.
+Prescribed property and person
+(2) If the circumstances described in subsection (1) are satisfied in respect of a specified residential complex, for the purposes of subsection 256.21(1) of the Act, the complex is prescribed property and the builder of the complex is a prescribed person.
+Exception — prescribed person
+(3) If subsections 191(1) to (4) of the Act do not apply to a builder of a specified residential complex as a consequence of the application of any of subsections 191(5) to (7) of the Act, the builder is deemed never to have been a prescribed person under subsection (2) in respect of the complex for the purposes of subsection 256.21(1) of the Act.
+Amount of rebate
+(4) If the circumstances described in subsection (1) are satisfied in respect of a specified residential complex, for the purposes of subsection 256.21(1) of the Act, the amount of the rebate under that subsection is
+. . .
+(c) if the specified residential complex is a residential condominium unit and the condominium complex in which the unit is situated is being constructed or substantially renovated,
+. . .
+(iv) 50% of the estimated provincial levy for the specified residential complex if the construction or last substantial renovation of the condominium complex in which the unit is situated is, immediately after June 2010, 25% or more but less than 50% completed, or
+(v) 25% of the estimated provincial levy for the specified residential complex if the construction or last substantial renovation of the condominium complex in which the unit is situated is, immediately after June 2010, 10% or more but less than 25% completed.
+Application for rebate
+58(1) For the purposes of subsection 256.21(2) of the Act, an application for a rebate, the amount of which is determined under this Division, must be filed before July 1, 2014.
+Restriction
+(2) If a person is the builder of a complex, the Minister shall pay a rebate in respect of the complex to the person under subsection 256.21(1) of the Act, the amount of which is determined under subsection 56(4) or 57(4), only if the Minister is satisfied, by a certificate, statement or other documentary evidence as the Minister may require, that the person is in good standing with respect to the payment of all taxes, and fees relating to the construction activities of the builder, imposed under an Act of the legislature of the province in which the residential complex is situated.
+Rebate based on floor space
+(3) In determining under subsection 57(4) the amount of a rebate payable to a person in respect of a residential complex, the estimated provincial levy for the complex must be determined based on the interior floor space of the complex if the person applies for the rebate before the day on which tax under Part IX of the Act becomes payable in respect of a supply of the complex by the person.
+Appendix A: Report
+Street Smart. Word Wise
+Altus Group
+November 29, 2011
+Metrogate Inc.
+c/o Tride!Corporation
+4800 Dufferin Street
+Toronto, Ontario
+M3H5S9
+Re: Metrogate Inc. -Townhomes at Metrogate. (the "Project'')
+290, 295, 310, 315 & 330 Village Green Square, Toronto, Ontario
+We have reviewed the costs incurred and related budgets for the above noted Project for period ending June 30, 2010 and submit our report on the Project status as at that date,
+We have visited the site on a periodic basis from the commencement of construction to monitor progress on an ongoing basis. For purposes of this report, we last visited the site in June 2010.
+Our review consisted primarily of enquiry, physical observation, an investigation of project records and budgets, as well as other procedures considered necessary to determine the percentage completion of the condominium complex. For this purpose, "condominium complex" has the meaning set out in subsection 123(1) of the Excise Tax Act and therefore means a building that comprises more than one residential condominium unit, together with that portion of any common areas and other appurtenances to the building and the land subjacent or immediately contiguous to the building that is reasonably necessary for its use and enjoyment as a place of residence for individuals. The related budgets are computed on the same basis.
+Based upon our review of the value of work in place for the Project, related budget and records of the Project, we estimate the condominium complex to be 25.64% completed at June 30, 2010 (see Appendix A) for calculation.
+This report has been prepared for submission in connection with your Transitional New Housing Rebate claim pursuant to section 256.21 of the Excise Tax Act and the Regulations relating thereto. The report shall not be published, reproduced or circulated for any other purpose without our express written permission in each specific instance. This report has been 'written to establish the percentage complete for purposes of the relevant sections of the Excise Tax Act, and no reliance is given to any other party except to the Addressee and the Canada Revenue Agency. Altus Group Ltd. is not qualified to opine on legal nor accounting issues relative to the Excise Tax Act.
+We trust this is satisfactory for your present requirements.
+Yours Truly,
+ALTUS GROUP LIMITED
+Per: Kenneth Marshall President
+Research, Valuation & Advisory I Cost Consulting & Project Management I Realty Tax Consulting I Geomatics
+33 Yonge Street, Suite 500. Toronto,. ON MSE 1G4 Canada T 416.641.9500 F 416.641.9501
+altusgroup.com
+Altus Group
+© Altus Group Limited 2011
+Metrogate Inc. - Townhomes at Metrogate
+290, 295, 310, 315 & 330 Village Green Square, Toronto, Ontario
+Appendix A
+Calculation of Percent Complete of Condominium Complex
+Value of Work in Place at June 30, 2010
+(see Appendix B)
+$ 5,835,780
+Budget for Condominium Complex
+(see Appendix C)
+Percent Complete
+$ 22,763,306
+25.64%

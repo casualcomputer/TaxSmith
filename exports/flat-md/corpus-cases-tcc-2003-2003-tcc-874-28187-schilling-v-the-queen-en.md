@@ -1,0 +1,144 @@
+---
+title: "Schilling v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28187/index.do"
+last_modified: "2003-11-28"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 TCC 874"
+citation2: ""
+neutral_citation: "2003 TCC 874"
+decision_date: "2003-11-28"
+language: "en"
+item_id: "28187"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1968
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T17:26:39.763000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "711296221f47e637b1495845da02bef9c9ee4f0063a1aa3ca0c38a2b913f2cf6"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Schilling v. The Queen
+
+- Citation: 2003 TCC 874
+- Decision date: 2003-11-28
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1968, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Schilling v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-11-28
+Neutral citation
+2003 TCC 874
+File numbers
+2003-1099(IT)APP
+Judges and Taxing Officers
+Cameron Hugh McArthur
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2003-1099(IT)APP
+BETWEEN:
+GEORGE SCHILLING,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Application heard on October 23, 2003, at Hamilton, Ontario,
+By: The Honourable Justice C.H. McArthur
+Appearances:
+For the Applicant:
+The Applicant himself
+Counsel for the Respondent:
+Jason J. Wakely
+____________________________________________________________________
+ORDER
+Upon application for an Order extending the time within which appeals from assessments may be instituted under the Income Tax Act for the 1993 and 1994 taxation years;
+And upon hearing the Applicant and counsel for the Respondent;
+It is ordered that the application is dismissed.
+Signed at Ottawa, Canada, this 28th day of November, 2003.
+"C.H. McArthur"
+McArthur J.
+Citation: 2003TCC874
+Date: 20031128
+Docket: 2003-1099(IT)APP
+BETWEEN:
+GEORGE SCHILLING,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+McArthur J.
+[1] George Schilling applied for an Order extending the time within which he could institute an appeal in respect of the reassessments for the 1993 and 1994 taxation years.
+[2] The facts include the following. The Minister of National Revenue reassessed the Applicant for the 1993 taxation year by Notice of Reassessment dated June 15, 1995 and assessed the Applicant for the 1994 taxation year by Notice of Assessment dated May 26, 1995.
+[3] The Applicant did not serve on the Minister a Notice of Objection to the reassessment for the 1993 taxation year within the time limited by subsection 165(1) of the Income Tax Act. His Notice of Objection was received by the Minister on October 10, 1995.
+[4] The Applicant did not serve on the Minister a Notice of Objection to the assessment for the 1994 taxation year and has not made application to the Minister to extend the time for serving a Notice of Objection.
+[5] The Minister confirmed the reassessment for the 1993 taxation year and the assessment for the 1994 taxation year by Notification of Confirmation dated and mailed to the Applicant on November 19, 2001. The Applicant did not file a Notice of Appeal for the 1993 taxation year with the Tax Court of Canada within the 90-day time limited by subsection 169(1) of the Act. The application for an extension of time within which to file Notices of Appeal for the 1993 and 1994 taxation years was filed with this Court on March 19, 2003, well after the one‑year limit provided for in subsection 167(5).
+[6] Subsection 166.2 of the Act gives a taxpayer the opportunity to apply to the Tax Court of Canada for an Order extending time to object to an assessment. Subparagraph 166.2(5)(a) provides:
+166.2(5) No application shall be granted under this section unless
+(a) the application was made under subsection 166.1(1) within one year after the expiration of the time otherwise limited by this Act for serving a notice of objection or making a request, as the case may be; ...
+Subsection 167(5) provides with regard to an extension of time to appeal:
+167(5) No order shall be made under this section unless
+(a) the application is made within one year after the expiration of the time limited by section 169 for appealing; ...
+[7] The Applicant does not dispute the series of events and dates stated above. He provided comprehensive background with respect to the facts and merits of his appeals. He went through a difficult and emotional period in his life and realizes he is beyond the statutory deadlines.
+[8] The Respondent referred to Shéridan v. The Queen[1] wherein Judge Rip held that paragraph 167(5)(a) is mandatory and requires the refusal of extension applications brought more than one year after expiry of the subsection 169(1) limitation period. The Court retained no jurisdiction to extend time in the face of clear statutory language.
+[9] The same reasoning applies in the present case. With respect to the 1993 taxation year, the application to extend time was not made within one year after expiration of the time limited by legislation. The date limited by the Act for instituting an appeal was February 18, 2002. The Applicant filed an application for extension of time on March 19, 2003.
+[10] With respect to the 1994 taxation year, the Applicant did not first serve a Notice of Objection as required by section 169. I do not have jurisdiction to extend time. Further, the Applicant did not make an application first to the Minister to extend the time to object as required by section 166.2 of the Act.
+[11] The application is dismissed.
+Signed at Ottawa, Canada, this 28th day of November, 2003.
+"C.H. McArthur"
+McArthur J.
+CITATION:
+2003TCC874
+COURT FILE NO.:
+2003-1099(IT)APP
+STYLE OF CAUSE:
+George Schilling and Her Majesty the Queen
+PLACE OF HEARING:
+Hamilton, Ontario
+DATE OF HEARING:
+October 23, 2003
+REASONS FOR ORDER BY:
+The Honourable Justice C.H. McArthur
+DATE OF ORDER:
+November 28, 2003
+APPEARANCES:
+For the Applicant:
+The Applicant himself
+Counsel for the Respondent:
+Jason Wakely
+COUNSEL OF RECORD:
+For the Applicant:
+Name:
+N/A
+Firm:
+N/A
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] 2001 DTC 207.

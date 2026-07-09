@@ -1,0 +1,157 @@
+Title: Rousseau c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28259/index.do
+Corpus path: corpus/cases/tcc/2007/2007-cci-543-28259-rousseau-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2007-09-11
+
+# Rousseau c. M.R.N.
+
+- Citation: 2007 CCI 543
+- Decision date: 2007-09-11
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2040, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Rousseau c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-09-11
+Référence neutre
+2007 CCI 543
+Numéro de dossier
+2006-1668(EI)
+Juges et Officiers taxateurs
+Louise Lamarre Proulx
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2006-1668(EI)
+ENTRE :
+SÉBASTIEN ROUSSEAU,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+____________________________________________________________________
+Appel entendu le 4 septembre 2007, à Québec (Québec)
+Devant : L'honorable juge Louise Lamarre Proulx
+Comparutions :
+Avocat de l'appelant :
+Me Jérôme Carrier
+Avocat de l'intimé :
+Me Alain Gareau
+____________________________________________________________________
+JUGEMENT
+L'appel est rejeté et la décision rendue par le ministre du Revenu national en vertu de la Loi sur l'assurance‑emploi est confirmée, selon les motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 11e jour de septembre 2007.
+« Louise Lamarre Proulx »
+Juge Lamarre Proulx
+Référence : 2007CCI543
+Date : 20070911
+Dossier : 2006-1668(EI)
+ENTRE :
+SÉBASTIEN ROUSSEAU,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+MOTIFS DU JUGEMENT
+La juge Lamarre Proulx
+[1] Il s’agit d’un appel à l’encontre d’une décision du ministre du Revenu national (le « Ministre »), voulant que l’appelant n’ait pas exercé un emploi assurable pour Gestion Deva Inc. (le « payeur »), du 4 novembre 2002 au 10 janvier 2003 et du 26 avril 2004 au 2 juillet 2004.
+[2] Pour rendre sa décision, le Ministre s’est appuyé sur les faits décrits au paragraphe 5 de la Réponse à l’avis d’appel comme suit :
+a) le payeur a été constitué en société le 12 mai 1997;
+b) durant les périodes en litige, l’actionnaire majoritaire du payeur était Marc‑André Plante;
+c) le payeur était impliqué dans la réalisation d’un projet, non réalisé, de 144 condominiums en Floride;
+d) les revenus du payeur étaient, à la fin des exercices financiers au 30 juin :
+2003
+2002
+2001
+revenus de commissions
+26 400 $
+42 000 $
+57 000 $
+revenu net
+(165 $)
+(1 694 $)
+1 536 $
+e) il n’y avait aucune dépense de salaires aux états financiers du payeur;
+f) le payeur a été impliqué dans une enquête concernant 30 travailleurs ayant reçu des relevés d’emploi du payeur sans services rendus;
+g) le 18 mai 2006, Marc‑André Plante déclarait à un représentant de l’intimé qu’il avait parlé à des gens en leur demandant de trouver des investisseurs pour le projet de condominiums et qu’il allait les payer pour leur temps passé à la sollicitation d’investisseurs;
+h) le 18 mai 2006, Marc‑André Plante déclarait à un représentant de l’intimé que l’appelant effectuait des travaux de peinture et de réparation de meubles et qu’il en profitait pour parler du projet du payeur à des investisseurs potentiels;
+i) au niveau des oppositions, l’appelante n’a pas collaboré avec le représentant de l’intimé;
+j) le 26 avril 2006, l’avocat de l’appelant a demandé au représentant de l’intimé de rendre une décision en fonction des éléments au dossier sans autre renseignement additionnel de la part de l’appelant;
+k) l’appelant était un peintre, tapissier et réparateur de meubles;
+l) le 26 octobre 2005, dans sa déclaration statutaire à Ressources humaines et Développement des compétences Canada (RHDCC), l’appelant déclarait qu’il décapait et vernissait des châssis et des meubles pour le payeur;
+m) l’appelant avait des cartes professionnelles à son nom qui indiquait une adresse sur l’avenue Royale dans la municipalité de l’Ange‑Gardien;
+n) l’appelant avait son atelier dans un hangar situé à l’arrière du domicile de ses parents;
+o) l’appelant fournissait le local, les outils et les produits dans l’accomplissement de ses tâches;
+p) l’appelant prétend que le payeur le payait 400 $ comptant par semaine;
+q) il n’y a aucune pièce au dossier prouvant que l’appelant a véritablement travaillé pour le payeur, aucune facture de clients, aucune facture d’achats de matériaux;
+r) il n’y a aucune preuve au dossier du versement de la rémunération de l’appelant;
+s) le 18 mai 2006, Marc‑André Plante déclarait à un représentant de l’intimé qu’il avait rencontré l’appelant « une couple de fois »;
+t) il n’y a aucun élément au dossier pour soutenir qu’il y avait contrôle ou subordination sur le travail de l’appelant par le payeur;
+u) pour les années 2002 et 2003, l’appelant n’a pas de revenus déclarés concernant le payeur dans ses déclarations d’impôt;
+v) en 2003, l’appelant déclare des revenus d’entreprise;
+w) l’appelant n’a pas produit de déclaration d’impôt pour l’année 2004.
+[3] L’avocat de l’appelant a fait les admissions et négations suivantes pour l’appelant. Les alinéas 5a), b), j) à n), p) et w) ont été admis. Les autres alinéas ont été niés.
+[4] Seul l’appelant a témoigné. Il a expliqué qu’il était maintenant peintre en bâtiments. À l’époque des événements, il était apprenti.
+[5] Quand il eut terminé son cours de formation technique en peinture, il a distribué des cartes d’affaires. Monsieur Marc‑André Plante l’aurait appelé pour lui demander de peindre sa cuisine en échange de services qu’il rendrait à l’appelant. Ces services étaient d’établir les déclarations de revenu de l’appelant. De plus, monsieur Plante aurait proposé de l’employer pour un salaire horaire de 15 $ pour des semaines de 40 heures.
+[6] Le travail consistait pour la première période à restaurer des meubles et pour la seconde période des fenêtres. Monsieur Plante lui aurait apporté ces meubles ou ces fenêtres. Parfois les clients eux-mêmes venaient. Selon l’appelant ce ne sont pas les clients qui le payaient mais monsieur Plante. Ce dernier lui remettait 400 $ par semaine.
+[7] Les travaux étaient exécutés dans un atelier situé sur la propriété de la famille de l’appelant. Ce dernier fournissait donc le local et les outils. Il affirme que ce n’est pas lui qui fournissait les produits mais que les clients ou monsieur Plante les apportaient. Les clients indiquaient ce qu’ils voulaient. L’appelant ne sait pas combien monsieur Plante chargeait aux clients. Quand il n’y avait plus de travaux à faire, l’appelant téléphonait à monsieur Plante.
+[8] L’appelant dit qu’il voyait rarement monsieur Plante. Il affirme toutefois qu’il travaillait exclusivement pour lui durant les périodes en litige.
+[9] L’appelant n’a jamais fourni de formulaires T4.
+[10] La déclaration statutaire a été déposée comme pièce I‑1. De cette déclaration je reproduis les questions 9 à 14 :
+Q9) Est‑ce que Marc‑André Plante faisait vos rapports d’impôt?
+R) Oui, je ne me souviens pas des années.
+Q10) Comment expliquez‑vous qu’en 2002, 2003 et en 2004 vous n’avez pas déclaré de revenus provenant de Gestion Deva Inc sur vos rapports d’impôt?
+R) Je le sais pas, c’est M. Plante qui faisait mes rapports d’impôt.
+Q11) Vous M. Rousseau, étiez-vous un travailleur à votre propre compte?
+R) Non et oui. Je faisais du décapage et du vernissage de meubles. Je travaillais dans un hangar situé à l’arrière du domicile de mes parents.
+Q12) Comment trouviez‑vous des clients?
+R) Je distribuais des cartes d’affaires et M. Plante me référait des clients.
+Q13) Quelle entente aviez‑vous exactement avec M. Plante?
+R) Je fournissais le local, les outils et les produits et la main d’oeuvre. M. Plante me payait 400 $ (brut) cash par semaine, toujours en argent.
+Q14) Quel était votre salaire brut?
+R) Je ne le sais pas.
+[11] Les pièces I‑3 et I‑4 ont été déposées de consentement. La pièce I‑3 décrit les chefs d’inculpation contre monsieur Marc‑André Plante en date du 25 avril 2006. Les chefs d’accusation 74 à 77 se lisent comme suit :
+74. Le ou vers le 10 janvier 2003, à Québec et ailleurs dans le district de Québec, a fait un faux document, soit : un faux relevé d’emploi, le sachant faux, avec l’intention qu’il soit employé ou qu’on y donne suite comme authentique au préjudice du Gouvernement du Canada (ministère des Ressources Humaines et Développement des Compétences (Canada)), commettant ainsi l’acte criminel prévu à l’article 367a) du Code criminel.
+75. Au mois de janvier 2003, à Québec et ailleurs dans le district de Québec, sachant qu’un document était contrefait, soit : un relevé d’emploi, a amené ou tenté d’amener Sébastien Rousseau, à s’en servir, le traiter ou agir à son égard comme si ce document était authentique, commettant ainsi l’acte criminel prévu à l’article 368(1)b)c) du Code criminel.
+76. Le ou vers le 9 juillet 2004, à Québec et ailleurs dans le district de Québec, a fait un faux document, soit : un faux relevé d’emploi, le sachant faux, avec l’intention qu’il soit employé ou qu’on y donne suite comme authentique au préjudice du Gouvernement du Canada (ministère des Ressources Humaines et Développement des Compétences (Canada)), commettant ainsi l’acte criminel prévu à l’article 367a) du Code criminel.
+77. Au mois de juillet 2004, à Québec et ailleurs dans le district de Québec, sachant qu’un document était contrefait, soit : un relevé d’emploi, a amené ou tenté d’amener Sébastien Rousseau, à s’en servir, le traiter ou agir à son égard comme si ce document était authentique, commettant ainsi l’acte criminel prévu à l’article 368(1)b)c) du Code criminel.
+[12] La pièce I‑4 comprend la sentence et le plaidoyer de culpabilité. Nous y voyons que pour les chefs ci-dessus mentionnés, le 27 septembre 2006, monsieur Marc‑André Plante a admis sa culpabilité.
+Analyse et conclusion
+[13] Je suis d’avis qu’il s’agit clairement d’un cas de fabrication d’emploi.
+[14] Celui‑là même qui était censé être l’employeur a admis qu’il avait deux fois, soit en janvier 2003 et juillet 2004, fait de faux relevés d’emploi pour Sébastien Rousseau.
+[15] L’appelant n’a pas fait témoigner ce supposé employeur. Il est constant dans la jurisprudence qu’une inférence négative doit être tirée à l’encontre d’une partie qui souhaite se prévaloir d’une situation, qui peut en faire la preuve et qui ne la fait pas.
+[16] Le montant du salaire horaire varie. Au moment de la déclaration statutaire, l’appelant ne se souvenait pas de son salaire brut. Il s’en souvenait à l’audience. Le supposé revenu d’emploi n’a jamais été déclaré par l’appelant. Lors de la déclaration statutaire, l’appelant mentionne qu’il fournissait les produits. À l’audience, il contredit cette déclaration en affirmant que les clients, ou son supposé employeur, apportaient les vernis ou les peintures nécessaires.
+[17] Il a nié les allégués 5q) et 5r) de la Réponse mais il n’a produit aucun document au cours de l’audience.
+[18] La preuve n’a sûrement pas démontré l’existence d’un contrat d’emploi.
+[19] L’appel doit en conséquence être rejeté.
+Signé à Ottawa, Canada, ce 11e jour de septembre 2007.
+« Louise Lamarre Proulx »
+Juge Lamarre Proulx
+RÉFÉRENCE : 2007CCI543
+Nº DU DOSSIER DE LA COUR : 2007-1077(EI)
+INTITULÉ DE LA CAUSE : SÉBASTIEN ROUSSEAU ET M.R.N.
+LIEU DE L’AUDIENCE : Québec (Québec)
+DATE DE L’AUDIENCE : le 4 septembre 2007
+MOTIFS DU JUGEMENT PAR : L'honorable juge Louise Lamarre Proulx
+DATE DU JUGEMENT : le 14 septembre 2007
+COMPARUTIONS :
+Avocat de l'appelant :
+Me Jérôme Carrier
+Avocat de l'intimé :
+Me Alain Gareau
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelant:
+Nom : Me Jérôme Carrier
+Cabinet : Jérôme Carrier, Avocat
+Lévis (Québec)
+Pour l’intimé : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

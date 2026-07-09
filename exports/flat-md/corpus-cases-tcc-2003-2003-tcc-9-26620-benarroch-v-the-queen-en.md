@@ -1,0 +1,157 @@
+---
+title: "Benarroch v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26620/index.do"
+last_modified: "2003-02-03"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 TCC 9"
+citation2: ""
+neutral_citation: "2003 TCC 9"
+decision_date: "2003-02-03"
+language: "en"
+item_id: "26620"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3628
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T18:34:48.852000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "c7676a17d366d59586a3994a1ebace6d9449bd4b9192cddc38e1e0f2be67e060"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Benarroch v. The Queen
+
+- Citation: 2003 TCC 9
+- Decision date: 2003-02-03
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3628, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Benarroch v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-02-03
+Neutral citation
+2003 TCC 9
+File numbers
+2001-4498(IT)I
+Judges and Taxing Officers
+Donald G.H. Bowman
+Subjects
+Income Tax Act
+Decision Content
+Citation: 2003TCC9
+Date: 20030203
+Docket: 2001-4498(IT)I
+BETWEEN:
+AMI BENARROCH,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+_______________________________________________________________
+Appeals heard on January 24, 2003 at Toronto, Ontario
+Before: The Honourable D.G.H. Bowman, Associate Chief Judge
+Appearances:
+Counsel for the Appellant:
+Moses Muyal, Esq.
+Counsel for the Respondent:
+Michael Appavoo, Esq.
+Joel Oliphant, Esq.
+_______________________________________________________________
+JUDGMENT
+It is ordered that the appeals from assessments made under the Income Tax Act for the 1992, 1993, 1994, 1995, 1996, 1997 and 1998 taxation years be allowed and the assessments be referred back to the Minister of National Revenue for reconsideration and reassessment solely to delete the penalties under subsection 163(2) of the Income Tax Act.
+There will be no order for costs.
+Signed at Vancouver, Canada, this 3rd day of February 2003.
+"D.G.H. Bowman"
+A.C.J.
+Citation: 2003TCC9
+Date: 20030203
+Docket: 2001-4498(IT)I
+BETWEEN:
+AMI BENARROCH,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Bowman, A.C.J.
+[1] The appeals are from reassessments for the taxation years 1992, 1993, 1994, 1995, 1996, 1997 and 1998. They involve the denial of tax credits in respect of charitable donations allegedly made to the Or Hamaarav Sephardic Congregation in the amounts of $9,750, $9,750, $19,000, $14,000 and $18,000 in the years 1992 to 1996 respectively. For 1997 the appellant claimed credits for donations of $15,000 and $1,000 made to the Mincha Gedolah Synagogue and the Abarbanel S. Learning Centre respectively. For 1998 the appellant claimed to have made charitable donations of $13,000 to the Mincha Gedolah Synagogue. The tax credits in respect of these alleged charitable donations were denied by the Minister of National Revenue.
+[2] The reassessments for at least some of the years were made outside the three-year "normal reassessment period". Accordingly, to justify the reopening of these statute-barred years the respondent has the onus of establishing that the appellant made misrepresentations that were attributable to neglect, carelessness or wilful default.
+[3] Also, penalties were imposed under subsection 163(2) of the Income Tax Act and the Minister has the additional burden of establishing that the appellant made false statements or omissions in his returns "knowingly or under circumstances amounting to gross negligence".
+[4] The appellant's appeals are one of many that the judges of this court have heard in recent months involving charitable receipts issued by the Or Hamaarav Sephardic Congregation founded by Rabbi Leon Edery.
+[5] Rabbi Edery came to Canada from Morocco in 1967. He founded a synagogue at 2939 Bathurst Street, North York, and a charter was granted in 1971 to the Or Hamaarav Sephardic Congregation.
+[6] The moving force behind this congregation was Rabbi Edery. He was particularly interested in newcomers to Canada and was concerned to ensure that Jewish children obtained a proper Jewish education.
+[7] He raised money for a Hebrew school and in 1983 he obtained a second charter, the Abarbanel S. Learning Centre, a day care centre for Jewish children.
+[8] In 1985 the building in which the day care centre was located was lost through foreclosure and it became difficult to raise money and so he embarked upon a scheme which, however laudable his objectives, was quite illegal. It involved giving receipts for charitable donations far in excess of the amount actually given. This was accomplished in one of two ways: either the full amount shown on the charitable receipt would be given and between 80% and 90% would be returned to the donor or the donor would give only 10% to 20% of the amount shown on the receipt.
+[9] In 1996 Rabbi Edery founded a further organization, Mincha Gedolah Synagogue. He was the only person authorized to issue charitable receipts on behalf of the three organizations mentioned above.
+[10] The fundraising that I described above was done generally through fundraisers, one of whom was one Meier Cohen (now deceased).
+[11] Rabbi Edery's practice of issuing inflated charitable receipts came to light when the CCRA (or Revenue Canada) began examining the returns of the clients of a tax preparer, one Jacob Abacassis. The unusually large charitable donations and business losses claimed by his clients caught the attention of the tax authorities. Both Mr. Abacassis and Rabbi Edery were charged criminally under section 239 of the Income Tax Act. Mr. Abacassis pleaded guilty. Rabbi Edery fought the charges but he was convicted by Judge Rebecca Chamail and sentenced to pay a fine of $32,000, a year of house arrest and 240 hours of community service. The charters of the charities were also revoked.
+[12] What makes this case different from the other cases in which the Crown has denied credits for charitable gifts is that in the other cases the allegation has been that charitable receipts issued by Rabbi Edery on behalf of his charities were for amounts that were far in excess of the cash given by the donor and received by the charities.
+[13] Here the situation is rather different. The appellant was acquainted with Rabbi Edery since about 1970 or 1971. The appellant came to Canada from Algiers in 1968 at the age of 15. He has always been active in Rabbi Edery's congregation and in the Jewish community. He was involved in raising funds for Rabbi Edery's synagogues and his charitable activities. He has prospered and is at present the president of a large company and earns a substantial income.
+[14] He believes in giving 10 to 15% of his earnings back to the community.
+[15] He was extremely active in fund raising for Rabbi Edery's charitable and religious activities. He testified that he gave cash and goods such as clothing that were distributed to the needy or used by Rabbi Edery's charities.
+[16] We have then a pillar of the community actively involved in charitable works and community service.
+[17] The problem is that Rabbi Edery testified that he paid the appellant a commission of between 5 and 15% of the substantial amounts of money raised but those commissions were in the form of charitable receipts.
+[18] I was initially uncertain whether the commissions were 5-15% of the net amount received by the charities (i.e. 5-15% of the 10-20%) of the amount actually received by the charity or 5-15% of the full amount shown on the charitable receipts given to the donors. This was however cleared up by Rabbi Edery from Exhibit R-8 which shows the 15% being applied to the amount of charitable receipts given in March 1997 to persons from whom the appellant solicited donations. That part of the exhibit is clear enough, although the portion at the bottom of the page, after the calculation of 15% of $50,000 on charitable receipts is not. The Crown's witness, an investigator, Mr. Menniti, was unable to explain the figures behind the additional receipts.
+[19] It comes to this. The charitable receipts submitted by the appellant in his return of income seem to have represented in part the commissions paid to him by Rabbi Edery, in part cash donations and in part donations in kind. He was unable to say what part were cash donations, what part the value of donations in kind and what part represented commissions. He accepted the receipts Rabbi Edery gave him.
+[20] Clearly the Minister was justified in opening up the statute-barred years on the basis of negligence on the part of the appellant and in disallowing the credits claimed in respect of the receipts. Charitable receipts issued as commissions for fund raising for a charity are obviously not eligible for the charitable donations tax credits and if the appellant is unable to identify at least which receipts are for valid gifts and which are simply commissions for fund raising, none qualify.
+[21] The penalties under subsection 163(2) of the Act are another matter. The type of negligence ("gross negligence") required to support a penalty under subsection 163(2) is of a higher order than that required to permit the Minister to reassess outside the normal reassessment period (Farm Business Consultants Inc. v. The Queen, 95 DTC 200 (T.C.C.) aff'd 96 DTC 6085 (F.C.A.)).
+[22] That higher standard, which requires the Crown to demonstrate an indifference amounting almost to recklessness has in my view not been demonstrated. The evidence is equally consistent with simple negligence and gross negligence and any doubt should therefore be resolved in favour of the subject.
+[23] The appeals are allowed and the assessments for the years 1992 to 1998 inclusive are referred back to the Minister of National Revenue for reconsideration and reassessment solely to delete the penalties under subsection 163(2) of the Income Tax Act.
+[24] There will be no order for costs.
+Signed at Vancouver, Canada, this 3rd day of February 2003.
+"D.G.H. Bowman"
+A.C.J.
+CITATION:
+2003TCC9
+COURT FILE NO.:
+2001-4498(IT)I
+STYLE OF CAUSE:
+Between Ami Benarroch and
+Her Majesty The Queen
+PLACE OF HEARING
+Toronto, Ontario
+DATE OF HEARING
+January 24, 2003
+REASONS FOR JUDGMENT BY:
+The Honourable D.G.H. Bowman
+Associate Chief Judge
+DATE OF JUDGMENT
+February 3, 2003
+APPEARANCES:
+Counsel for the Appellant:
+Moses Muyal, Esq.
+Counsel for the Respondent:
+Michael Appavoo, Esq.
+Joel Oliphant, Esq.
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Moses Muyal, Esq.
+Firm:
+Steinberg Morton Frymer LLP
+Toronto, Ontario
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

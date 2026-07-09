@@ -1,0 +1,121 @@
+Title: Atcon Construction Inc. c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25634/index.do
+Corpus path: corpus/cases/tcc/2003/2003-cci-174-25634-atcon-construction-inc-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2003-03-26
+
+# Atcon Construction Inc. c. La Reine
+
+- Citation: 2003 CCI 174
+- Decision date: 2003-03-26
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2440, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Atcon Construction Inc. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-03-26
+Référence neutre
+2003 CCI 174
+Numéro de dossier
+98-687(IT)G
+Juges et Officiers taxateurs
+Gerald J. Rip
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Référence : 2003CCI174
+Dossier : 98‑687(IT)G
+ENTRE :
+ATCON CONSTRUCTION INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Requête jugée sur dossier, sans comparution des parties.
+Par : L’honorable juge Gerald J. Rip
+Observations écrites :
+Avocat de l’appelant :
+Me D. Andrew Rouse
+Avocat de l’intimée :
+Me John P. Bodurtha
+____________________________________________________________________
+ORDONNANCE
+À la suite d’une demande de prorogation du délai prescrit pour demander que des directives soient données à l’officier taxateur, relativement à l’accueil du pourvoi de l’appelante dont l’arrêt est daté du 30 mars 2000 :
+La demande est rejetée avec dépens.
+Signé à Ottawa, Canada, ce 26e jour de mars 2003.
+« Gerald J. Rip »
+J.C.C.I.
+Traduction certifiée conforme
+ce 14e jour de juin 2004.
+Ingrid B. Miranda, traductrice
+Référence : 2003CCI174
+Date : 20030326
+Dossier : 98-687(IT)G
+ENTRE :
+ATCON CONSTRUCTION INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU REJET DE LA DEMANDE DE L’APPELANTE DE PROROGATION DU DÉLAI PRESCRIT POUR DEMANDER QUE DES DIRECTIVES SOIENT DONNÉES À L’OFFICIER TAXATEUR
+Le juge Rip
+[1] Atcon Construction Inc., (« Atcon » ou l’« appelante ») a demandé à la Cour une prorogation du délai prescrit pour demander que des directives soient données à l’officier taxateur relativement à l’accueil de son pourvoi le 30 mars 2000. L’appel interjeté par l’intimée devant la Cour d’appel fédérale à l’encontre de la décision de la Cour a été rejeté avec dépens adjugés à Atcon.
+[2] Atcon a présenté une offre de règlement devant la Cour le 14 mars 2000. L’offre a été rejetée par l’intimée le 16 mars 2000. L’offre de règlement présentée par l’appelante était plus favorable à l’intimée que les conclusions de la Cour. Il semble que l’offre de règlement consistait en un crédit d’impôt à l’investissement de 15 p. 100 du prix d’achat de deux foreuses alors que la Cour était d’avis que l’appelante avait droit à un crédit d’impôt à l’investissement de 30 p. 100.
+[3] L’appelante a déposé son mémoire de frais auprès de la Cour le 24 mai 2002 et elle a demandé que ses dépens soient augmentés parce que l’intimée avait refusé son offre de règlement.
+[4] L’appelante prétend qu’Atcon et l’Agence des douanes et du revenu du Canada (l’« ADRC ») ont convenu de remettre à plus tard toute nouvelle cotisation ordonnée par la présente Cour, en attendant que la Cour d’appel fédérale rende sa décision. Atcon prétend ne pas avoir abordé la question des dépens à ce moment pour cette raison. L’avocat de l’appelante ne s’est pas rendu compte qu’il n’avait que 30 jours à partir de la date du jugement pour demander que l’on donne des directives à l’officier taxateur [traduction] « car son procureur avait l’intention de plaider cette question au moment de la taxation des dépens d’Acton, si les parties étaient incapables d’arriver à un accord » : voir le paragraphe 147(7) des Règles de la Cour canadienne de l’impôt (procédure générale) (les « Règles »)[1]. L’appelante fait valoir que l’intimée n’a pas souffert et ne souffrira pas de préjudice à la suite du retard de la demande d’Atcon que des directives soient données à l’officier taxateur.
+[5] Cependant, la position de l’intimée est que, le 10 mai 2000, un fonctionnaire de l’intimée a écrit à l’appelante pour lui conseiller de [traduction] « songer à déposer des directives écrits afin de faire reporter toute nouvelle cotisation jusqu’à ce que la Cour d’appel fédérale ait délivré son jugement définitif. » L’intimée a demandé une réponse dans un délai de 30 jours. L’intimée déclare qu’elle n’a pas reçu de réponse jusqu’au mois d’août 2001 environ, lorsqu’un [traduction] « représentant du requérant a communiqué avec l’ADRC pour demander que l’Agence établisse une nouvelle cotisation conforme à » la décision de la Cour. L’intimée prétend qu’elle a souffert des dommages en raison du fait que l’appelante n’a pas demandé à la Cour une augmentation des dépens dans le délai prescrit au paragraphe 147(7) des Règles.
+[6] L’avocat de l’appelante soulève deux questions :
+1) La Cour devrait‑elle accorder à l’appelante une prorogation du délai prescrit pour demander que des directives soient données à l’officier taxateur?
+2) Les dépens de l’appelante doivent-ils être augmentés en raison du refus de l’intimée d’accepter une offre de règlement qui lui était plus favorable que la réparation accordée par la Cour?
+Question en litige 1 – La Prorogation du délai prescrit pour demander que des directives soient données à l’officier taxateur
+[7] En vertu du paragraphe 147(7) des Règles, l’appelante demande que le délai prescrit pour demander que des directives soient données à l’officier taxateur soit prorogé du 29 avril 2000 au 25 octobre 2002.
+[8] À l’appui de sa demande, l’appelante invoque les décisions Smerchanski c. M.R.N.[2], Spur Oil Limited c. La Reine[3], Bayliner Marine Corp. c. Doral Boats Ltd.[4] et Carruthers c. La Reine[5] à titre de précédents pour justifier l’exercice, par la Cour, de son pouvoir discrétionnaire en accordant la prorogation.
+[9] La décision Smerchanski explique la raison d’être de la date de prescription dans le cadre de demandes faites auprès de la Cour pour que des directives soient données à l’officier taxateur : « […] la demande d'instructions pour augmenter le montant des dépens doit être présentée tandis que l'affaire est assez récente pour que la Cour puisse juger si les circonstances de l'espèce justifient une dérogation aux Règles normales du tarif [...] ».[6]
+[10] Dans l’affaire Spur Oil, la Cour a accordé la prorogation en raison des « […] grandes vacances et la demande ultérieure d'autorisation de pourvoi devant la Cour suprême […] »[7] Dans l’affaire Bayliner, la Cour a accordé une prorogation parce que la partie adverse n’avait pas subi de préjudice, les questions étaient compliquées et il y avait un certain nombre de points au sujet desquels le défendeur avait demandé des dépens spéciaux. Dans l’affaire Carruthers, la Cour a accordé la prorogation parce qu’elle a conclu que les prescriptions légales relatives aux délais doivent être interprétées largement, et parce qu’il serait inéquitable et contraire à la pratique habituelle de ne pas rendre une telle ordonnance. Dans l’arrêt Carruthers, la Cour met en évidence sa désapprobation de la conduite de la défenderesse, qui a refusé de payer les dépens du demandeur, ce qui a obligé ce dernier à demander une adjudication des dépens[8].
+[11] L’appelante a aussi invoqué les arrêts Riello Canada, Inc. c. Lambert[9], Kastner c. Painblanc[10] et Eli Lilly and Co. c. Novopharm Ltd.[11]. L’intimée a fait valoir, et je suis d’accord avec elle, que ces décisions ne s’appliquent pas aux faits en l’espèce. Dans l’affaire Riello, l’appelant s’est représenté; dans l’arrêt Kastner, le délai n’était que de deux mois et l’intimé a admis ne pas avoir subi de préjudice; dans l’arrêt Eli Lilly, la Cour s’est montrée plus souple parce que de nouvelles règles avaient été adoptées peu avant le dépôt de la requête.
+[12] L’intimée a invoqué l’autorité de La Reine c. Société de développement de l’Ontario[12] et Maytag Corp. c. Whirlpool Corp.[13] pour faire valoir que la Cour doit refuser la prorogation.
+[13] Dans l’affaire Société de développement, la demanderesse a déposé une demande de prorogation du délai en vertu de l’alinéa 344(7)a) des Règles, 25 mois après le procès et trois mois après l’appel. La demanderesse a invoqué son manque de familiarité avec les Règles pour justifier le fait de ne pas avoir demandé d’augmentation des dépens dans les délais prescrits. Le juge Heald a rejeté la demande de prorogation du délai déposée par la demanderesse, pour les motifs suivants.
+[...] À mon avis, le fait que l'avocat n'était pas familier avec les règles de notre Cour, en matière de dépens, n'étaye pas la demande de prorogation. Jusqu'au 2 avril 1987, la règle 344(7) prévoyait une période de 10 jours seulement pour demander des sommes supplémentaires au titre des dépens. L'expérience a démontré que ce délai était trop court. En 1987, les règles ont été modifiées, portant la période à 30 jours. Il me semble qu'une période de 30 jours est réaliste et raisonnable. Les parties à un litige, surtout en appel, ont le droit d'espérer une issue assez définitive de l'instance dans un cas comme celui-ci, où rien n'indique que l'affaire ira plus loin. En l'espèce, il n'existe aucune circonstance atténuante qui justifie une prorogation du délai imparti par les règles, de 30 jours à environ 100 jours. Si l'intimée avait droit, dans les circonstances décrites aux présentes, à une prorogation représentant plus de trois fois le délai imparti par les règles, il serait difficile d'imaginer un cas où une demande semblable pourrait être refusée. Dans ces circonstances, une prorogation équivaudrait à une modification de la règle 344(7)a)[14].
+[14] Dans l’affaire Maytag, la requérante n’a déposé de requête en prorogation que deux ans après que la Cour d’appel fédérale ait rendu son jugement en sa faveur. La raison invoquée par la requérante était qu’elle ne savait pas si la Cour suprême du Canada accepterait d’entendre l’appel de l’autre partie et, si tel était le cas, quel en serait le résultat. De plus, il n’y avait rien qui puisse suggérer que la requérante avait continué la poursuite pour augmenter les dépens qui lui seraient accordés. La Cour d’appel fédérale a conclu qu’il n’y avait pas de justification possible pour le retard de deux ans dans le dépôt de la requête et a rejeté la demande de la requérante de proroger le délai pour lui permettre de déposer une requête pour frais supplémentaires.
+[15] Dans l’affaire Rosen c. Canada[15], l’appelant a déposé un avis de requête en prorogation pour présenter une requête en réexamen. Bien que l’objet de la requête dans l’arrêt Rosen ne soit pas le même que celui de la présente affaire, la Cour d’appel fédérale a déclaré que les facteurs devant être pris en considération pour accorder une prorogation du délai sont les suivants :
+[…] Les facteurs qui appuient habituellement une requête en prorogation de délai, à savoir l'intention d'intenter l'action dans le délai prescrit, l'existence d'une cause défendable, la cause et la durée réelle du retard et la question de savoir si le retard a causé un préjudice, [...][16]
+[16] Les raisons invoquées par l’appelante pour ne pas avoir déposé sa demande dans le délai prescrit, sont principalement que son procureur n’était pas familier avec les Règles et qu’il attendait la décision de la Cour d’appel fédérale. L’appelante prétend aussi qu’elle avait conclu avec l’intimée un accord aux termes duquel cette dernière n’établirait pas de nouvelle cotisation jusqu’à ce que la Cour d’appel fédérale ait rendu son jugement.
+[17] La Cour d’appel fédérale a énoncé clairement dans les arrêts Société de développement et Maytag que la connaissance insuffisant des Règles et l’interjection d’un appel devant un tribunal supérieur ne constituent pas des raisons suffisantes pour accorder une prorogation du délai. Aucune disposition des Règles ne prévoit que les délais de dépôt d’une demande ne sont pas applicables dans les cas où l’une des parties interjette appel devant un tribunal supérieur. La promesse de l’intimée de ne pas établir de nouvelle cotisation à l’égard de l’appelante jusqu’à ce que la Cour d’appel ait rendu une décision est sans pertinence, puisque ceci n’a pas d’effet sur les dépens.
+[18] L’appelante n’a pas présenté de justification appropriée pour son défaut de se conformer aux Règles. Il ne s’agit pas d’une affaire où la demande de dépens est compliquée. L’appelante a retenu un avocat d’expérience; les Règles n’étaient pas récentes au moment de la décision de la Cour; il n’y a pas de preuve démontrant que l’appelante avait l’intention de déposer sa demande à temps; puis, l’intimée n’a pas admis qu’elle ne souffrirait pas de préjudice si l’on accordait la prorogation.
+[19] La demande de l’appelante en prorogation de délai afin de demander que des directives soient données à l’officier taxateur, est rejetée avec dépens. Il n’est pas nécessaire, par conséquent, de statuer sur la seconde question.
+Signé à Ottawa, Canada, ce 26e jour de mars 2003.
+« Gerald J. Rip »
+J.C.C.I.
+Traduction certifiée conforme
+ce 14e jour de juin 2004.
+Ingrid B. Miranda, traductrice
+[1] Le paragraphe 147(7) des Règles prévoit ainsi :
+(7) Une partie peut :
+a) dans les trente jours suivant la date à laquelle elle a pris connaissance du jugement;
+b) après que la Cour a décidé du jugement à prononcer, au moment de la présentation de la requête pour jugement,
+que le jugement règle ou non la question des dépens, demander à la Cour que des directives soient données à l'officier taxateur à l'égard des questions visées au présent article ou aux articles 148 à 152 ou qu'elle reconsidère son adjudication des dépens.
+[2] [1979] 1 C.F. 801.
+[3] [1983] 1 C.F. 244.
+[4] [1987] A.C.F. no 348 (C.F. 1re inst.).
+[5] [1983] 2 C.F. 350 (C.F. 1re inst.).
+[6] Précitée, note 2, à la page 805.
+[7] Précitée, note 3, à la page 249.
+[8] Précité, note 5 à la page 355.
+[9] C.F. 1re inst., no T-2270‑83, 11 mai 1987 ([1987] 15 C.P.R. (3d) 257).
+[10] [1995] A.C.F. no 545 (C.A.F.).
+[11] [1998] A.C.F. no 1828 (C.A.F.).
+[12] C.A.F., no A-48‑89, 18 mars 1991 (92 D.T.C. 6121).
+[13] [2001] A.C.F. no1262 (C.A.F.).
+[14] Précitée, note 12, à la page 6123.
+[15] [2000] A.C.F. no 415 (C.A.F.).
+[16] Ibid., au paragraphe 5.

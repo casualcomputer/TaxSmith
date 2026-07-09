@@ -1,0 +1,215 @@
+---
+title: "Mercure c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30818/index.do"
+last_modified: "2012-05-29"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2012 CCI 148"
+citation2: ""
+neutral_citation: "2012 CCI 148"
+decision_date: "2012-05-29"
+language: "fr"
+item_id: "30818"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7561
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T14:37:31.200000+00:00"
+cases_cited_count: 0
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "5a538f63ae386e983737cddfa197cd4264773db28f70c7cf247976aae4cd793e"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Mercure c. La Reine
+
+- Citation: 2012 CCI 148
+- Decision date: 2012-05-29
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7561, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Mercure c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2012-05-29
+Référence neutre
+2012 CCI 148
+Numéro de dossier
+2011-778(GST)I
+Juges et Officiers taxateurs
+Alain Tardif
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2011-778(GST)I
+ENTRE :
+CLAUDE MERCURE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 7 février 2012, à Québec (Québec).
+Devant : L'honorable juge Alain Tardif
+Comparutions :
+Pour l'appelant :
+L’appelant lui-même
+Avocat de l'intimée :
+Me Pier-Olivier Julien
+____________________________________________________________________
+JUGEMENT
+L’appel de la cotisation établie en vertu de la partie IX de la Loi sur la taxe d’accise, dont l’avis est daté du 24 septembre 2009 et porte le numéro 85345 6457 RT001 est rejeté, selon les motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 29e jour de mai 2012.
+« Alain Tardif »
+Juge Tardif
+Référence : 2012 CCI 148
+Date : 20120529
+Dossier : 2011-778(GST)I
+ENTRE :
+CLAUDE MERCURE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Tardif
+[1] Il s’agit d’un appel suite à une décision rejetant une demande de remboursement pour le motif de production en dehors des délais prescrits au paragraphe 256(3) de la Loi sur la taxe d’accise (la « LTA ») qui se lit comme suit :
+256.(3) Les remboursements prévus au présent article ne sont versés que si le particulier en fait la demande au plus tard :
+a) à la date qui suit de deux ans le premier en date des jours suivants :
+(i) le jour qui suit de deux ans le jour où l’immeuble est occupé pour la première fois de la manière prévue au sous-alinéa (2)d)(i),
+(ii) le jour où la propriété est transférée conformément au sous‑alinéa (2)d)(ii),
+(iii) le jour où la construction ou les rénovations majeures de l’immeuble sont achevées en grande partie;
+b) à toute date postérieure à celle prévue à l’alinéa a), fixée par le ministre.
+[2] Pour expliquer sa décision, l’intimée a tenu pour acquises les hypothèses de faits suivantes :
+a) L’appelant a reçu un permis de construction de la ville de Lévis le 9 novembre 2005 pour une durée d’un an et n’a pas demandé de prolongation dudit permis par la suite;
+b) La conjointe de l’appelant a avisé l’intimée de son changement d’adresse le 1er décembre 2005;
+c) L’appelant effectue son changement d’adresse pour son permis de conduire le 20 février 2006;
+d) L’appelant a avisé l’intimée de son changement d’adresse le 27 mars 2006;
+e) L’appelant admet avoir déménagé dans l’immeuble en avril 2006;
+f) La conjointe de l’appelant a effectué son changement d’adresse pour son permis de conduire le 8 mai 2006;
+g) Le ou vers le 25 octobre 2006, l’immeuble situé au 258, rue des mésanges à Saint-Nicolas a été portée au rôle municipal;
+h) L’appelant a reçu un nouveau compte de taxe municipale d’ajustement pour maison terminée et portée au rôle pour la période du 25 octobre 2006 au 31 décembre 2006;
+i) Au cours de la vérification effectuée par l’intimée, les factures soumises par l’appelant ont été vérifiées;
+j) L’intimée a constaté que le coût des travaux du début de la construction jusqu’au 31 décembre 2006 s’élève à 182 572,24 $;
+k) L’intimée a constaté que le coût des travaux en 2007 s’élève à 2 389,50 $ et représente des achats de pierres extérieures, de moulures ainsi que de céramiques;
+l) L’intimée a constaté que le coût des travaux en 2008 s’élève à 2 463,20 $ et représente des achats de peinture, de pelouse et de membranes pour l’extérieur;
+m) L’intimée a constaté que le coût des travaux en 2009 s’élève è 191,60 $ et représente des achats de peinture et de luminaires;
+n) Par conséquent, les travaux effectués après 2006 étaient minimes et la maison a été achevée en grande partie en décembre 2006.
+[3] Au soutien de la preuve dont il avait le fardeau, l’appelant a d’abord admis comme étant exacts tous les faits pris pour acquis. Il a expliqué les différentes contraintes qui l’avaient amené à produire sa réclamation.
+[4] Il s’agissait d’une auto-construction, sa conjointe et lui étant les entrepreneurs ayant exécuté eux-mêmes plusieurs des travaux. Leur planification quant à la réalisation de leur projet s’est vue chambarder lorsqu’ils ont reçu une très bonne offre pour le condo qu’ils occupent. Après avoir accepté l’offre en question, n’ayant pas d’enfants, ils ont décidé de venir occuper les lieux de leur éventuelle résidence, et ce, même si les lieux étaient pratiquement non habitables. S’est ajoutée à cet imprévu, la venue d’un enfant.
+[5] La venue d’un enfant a fait en sorte qu’ils ont dû intensifier certains travaux de manière à rendre les lieux moins poussiéreux et plus sains pour le bébé, et ce, peut-être, au détriment de travaux un peu plus utiles pour y vivre normalement. Conscient que les travaux ne pouvaient être réalisés suivant une première planification, l’appelant a entrepris de nombreuses démarches auprès des autorités pour éviter que sa demande ne soit disqualifiée pour cause de délais tardifs.
+[6] La seule question en litige consiste à déterminer si la réclamation de l’appelant était recevable ou non. En d’autres termes, la demande de remboursement a-t-elle été produite dans les délais prescrits?
+[7] À la lecture des dispositions pertinentes, il est prévu que le début du calcul du délai de remboursement repose sur un état des lieux décrits comme suit :
+256.(2) Le ministre verse un remboursement à un particulier dans le cas où, à la fois :
+a) le particulier, lui-même ou par un intermédiaire, construit un immeuble d’habitation — immeuble d’habitation à logement unique ou logement en copropriété — ou y fait des rénovations majeures, pour qu’il lui serve de résidence habituelle ou serve ainsi à son proche;
+b) la juste valeur marchande de l’immeuble, au moment où les travaux sont achevés en grande partie, est inférieure à 450 000 $;
+c) le particulier a payé la taxe prévue à la section II relativement à la fourniture par vente, effectuée à son profit, du fonds qui fait partie de l’immeuble ou d’un droit sur ce fonds, ou relativement à la fourniture effectuée à son profit, ou à l’importation par lui, d’améliorations à ce fonds ou, dans le cas d’une maison mobile ou d’une maison flottante, de l’immeuble (le total de cette taxe prévue au paragraphe 165(1) et aux articles 212 et 218 étant appelé « total de la taxe payée par le particulier » au présent paragraphe);
+d) selon le cas :
+(i) le premier particulier à occuper l’immeuble après le début des travaux est le particulier ou son proche,
+(ii) le particulier effectue par vente une fourniture exonérée de l’immeuble, et la propriété de celui-ci est transférée à l’acquéreur avant que l’immeuble ne soit occupé à titre résidentiel ou d’hébergement.
+…
+[8] Le but et les objectifs de ces dispositions législatives sont multiples. On peut notamment mentionner l’encouragement à l’accès à la propriété, la création d’emploi, le soutien aux jeunes familles, etc.
+[9] À partir de tels objectifs, les dispositions se doivent d’avoir une certaine flexibilité et particulièrement lorsqu’il s’agit d’auto-construction où les intéressés sont particulièrement préoccupés par les coûts. Ils se lancent dans l’aventure par souci d’économie, d’où souvent les délais à déposer leur demande de remboursement; ils veulent, et c’est tout à fait légitime, récupérer le maximum possible.
+[10] D’autre part, il est normal que des délais soient prévus faute de quoi le programme deviendrait tout à fait ingérable. En l’espèce, l’appelant a soumis des explications qui sont particulières et sympathiques.
+[11] Dans un projet d’auto-construction, les propriétaires, dont l’appelant et sa compagne, sont généralement plus flexibles et plus tolérants et acceptent des conditions plus difficiles pour l’habitabilité des lieux. Gérant eux-mêmes l’évolution du chantier en exécutant souvent les travaux de finition généralement très dispendieux, les intéressés sont plus ouverts aux contraintes générées par des travaux inachevés.
+[12] Les conditions d’admissibilité sont certes assujetties à des conditions et des délais. La principale difficulté repose sur l’identification du jour « J ». En effet, les références et critères fournis pour le situer ne sont pas aussi évidents qu’une date d’accident, une journée d’incendie, la date sur un document, etc. Le délai est établi et s’applique selon les termes du paragraphe 256(3) de la LTA.
+[13] Cette situation fait en sorte d’introduire une certaine subjectivité dans l’évaluation puisque le calcul se fait à partir d’un état des lieux qui ne peut être établi d’une manière absolue. Ainsi, au fil du temps, on a introduit la notion du 90 % des travaux effectués; la mesure n’est pas absolue au point qu’une réclamation puisse être recevable à un jour spécifique et non le jour suivant.
+[14] Pour arriver à situer dans le temps le moment du début du calcul, on fait référence à une évaluation dans le contexte d’une personne raisonnable. Or, même pour une personne raisonnable, il n’est pas facile de tracer la ligne sur ce que signifie « achevée en grande partie ». Dans un projet d’auto-construction, les intéressés confient souvent le « rough » à des tiers et gardent pour eux-mêmes les travaux de finition généralement plus longs et onéreux.
+[15] En l’espèce, l’appelant a clairement expliqué le cheminement de son dossier très bien structuré. Il a soumis un dossier dont la qualité est sans reproches. Les explications quant à la date de certaines factures prises en compte par l’intimé sont vraisemblables et très crédibles.
+[16] Au-delà des explications soumises, l’appelant a fait des admissions dont la portée est déterminante quant à l’issue de l’appel. Pour illustrer la situation, je crois utile de reproduire un extrait du témoignage de l’appelant :
+TÉMOIGNAGE DE CLAUDE MERCURE (dûment assermenté):
+SON HONNEUR: Alors Monsieur Mercure, suite à votre contestation et à votre avis d’appel, notamment et particulièrement, il y a eu ce qu’on appelle « la réponse à l’avis d’appel ».
+M. MERCURE: Exact.
+SON HONNEUR: À l’intérieur de la réponse à l’avis d’appel, le Ministère a décrit en quelque sorte les faits ou la chronologie des faits sur lesquels il s’est appuyé pour en bout de piste se rendre à la décision avec laquelle vous n’êtes pas d’accord. Si vous permettez, on va faire le tour de ces faits- là et vous allez me dire si vous admettez, ignorez ou contestez la véracité de ce qu’est allégué. Ça va permettre de cibler, en quelque sorte, plus rapidement ce qui est particulièrement litigieux.
+M. MERCURE: Parfait.
+SON HONNEUR: Ça va?
+M. MERCURE: H'm.
+SON HONNEUR: Alors au paragraphe à la page 3 :
+« En refusant la demande de remboursement, le Ministère s’est fondé sur les conclusions et les hypothèses de faits suivants... » -- Tel que lu.
+M. MERCURE: Je vais juste reprendre mon document.
+SON HONNEUR: Oui. Avez-vous un stylo ou un crayon?
+M. MERCURE: Oui, bien sûr.
+SON HONNEUR: À ce moment-là, vous pouvez peut-être prendre des notes en parallèles de manière à ce que...
+M. MERCURE: Oui. Bien, j’en avais déjà fait---
+SON HONNEUR: O.K.
+M. MERCURE: ---un peu, mais allez-y.
+SON HONNEUR: Le paragraphe (a), et vous me dites : « Je l’admets », « Je l’ignore » ou « Je le nie ».
+M. MERCURE: Je l’admets.
+SON HONNEUR: b)?
+M. MERCURE: Bien en fait, je les admets tous, si vous voulez gagner du temps là.
+SON HONNEUR: Oui, mais...
+M. MERCURE: Très bien, la conjointe, oui, je l’admets.
+SON HONNEUR: c)?
+M. MERCURE: Je l’admets aussi.
+SON HONNEUR: d)?
+M. MERCURE: Je l’admets.
+SON HONNEUR: e)?
+M. MERCURE: Je l’admets.
+SON HONNEUR: f)?
+M. MERCURE: Je l’admets. g), je l’admets.
+SON HONNEUR: h)?
+M. MERCURE: Je l’admets aussi.
+SON HONNEUR: i)?
+M. MERCURE: Je l’admets.
+SON HONNEUR: j)?
+M. MERCURE: Je l’admets.
+SON HONNEUR: k)?
+M. MERCURE: Je l’admets.
+SON HONNEUR: l)?
+M. MERCURE: Je l’admets.
+SON HONNEUR: m)?
+M. MERCURE: Je l’admets.
+SON HONNEUR: Et finalement n)?
+M. MERCURE: Je l’admets aussi.
+SON HONNEUR: Et la question en litige, vous êtes conscient de ce sur quoi porte principalement le litige?
+M. MERCURE: Oui.
+SON HONNEUR: Je vous écoute.
+M. MERCURE: Bon. Bien...
+SON HONNEUR: Maintenant je vous dis là au départ... Je vais vous expliquer très, très, très succinctement la façon dont ça procède. Quand on décide de faire un appel, on assume en quelque sorte ce qu’on peut définir dans notre jargon comme « le fardeau de la preuve ».
+M. MERCURE: Oui.
+SON HONNEUR: C'est-à-dire que c’est à vous à relever le fardeau de la preuve et démontrer que vos prétentions sont bien fondées. Suite à votre témoignage la partie adverse peut vous contre-interroger. Si la partie adverse décide de faire entendre des témoins, vous aurez exactement le même droit de contre-interroger.
+[17] L’appelant est une personne qui comprend bien et vite. Il est très structuré et très bien articulé. De plus, il était bien préparé. Dans un tel contexte je ne peux pas mettre de côté ses admissions qui sont très claires.
+[18] L’objectif de l’appel de l’appelant est à l’effet que la Cour devrait mettre de côté les dispositions de la Loi.
+[19] Certes ces mêmes dispositions laissent place à l’interprétation pouvant faire en sorte que le jour fatidique marquant le point de départ du calcul des délais pour prescription peut varier. En l’espèce, l’appelant a fait une admission ne laissant aucune place à l’équivoque ou à l’interprétation. Cette admission situe donc dans le temps clairement le début du temps pour le calcul du délai.
+[20] La compétence de la Cour a des limites; ces limites sont à l’effet qu’elle doit respecter les dispositions de la Loi. Seul le législateur peut modifier la Loi. L’appelant lui-même a identifié par ses admissions le moment où le calcul du délai a commencé.
+[21] Conséquemment, l’appel doit être rejeté puisque la réclamation a été déposée après l’expiration du délai prévu par la Loi.
+Signé à Ottawa, Canada, ce 29e jour de mai 2012.
+« Alain Tardif »
+Juge Tardif
+No DE RÉFÉRENCE : 2012 CCI 148
+Nº DU DOSSIER DE LA COUR : 2011-778(GST)I
+INTITULÉ DE LA CAUSE : CLAUDE MERCURE ET SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Québec (Québec)
+DATE DE L’AUDIENCE : Le 7 février 2012
+MOTIFS DU JUGEMENT PAR : L'honorable juge Alain Tardif
+DATE DU JUGEMENT : Le 29 mai 2012
+COMPARUTIONS :
+Pour l'appelant :
+L’appelant lui-même
+Avocat de l'intimée :
+Me Pier-Olivier Julien
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelant:
+Nom :
+Cabinet :
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada

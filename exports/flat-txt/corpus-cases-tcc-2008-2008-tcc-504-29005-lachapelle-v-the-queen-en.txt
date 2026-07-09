@@ -1,0 +1,107 @@
+Title: Lachapelle v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29005/index.do
+Corpus path: corpus/cases/tcc/2008/2008-tcc-504-29005-lachapelle-v-the-queen-en.md
+Document type: case_law
+Last modified: 2008-09-10
+
+# Lachapelle v. The Queen
+
+- Citation: 2008 TCC 504
+- Decision date: 2008-09-10
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6753, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Lachapelle v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-09-10
+Neutral citation
+2008 TCC 504
+File numbers
+2008-314(IT)I
+Judges and Taxing Officers
+Lucie Lamarre
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2008-314(IT)I
+BETWEEN:
+CLAUDINE LACHAPELLE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on September 8, 2008, at Montréal, Quebec
+Before: The Honourable Justice Lucie Lamarre
+Appearances:
+Agent of the Appellant:
+Serge Cloutier
+Counsel for the Respondent:
+Justine Malone
+____________________________________________________________________
+JUDGMENT
+The appeals from the assessments made under the Income Tax Act for the 2003 and 2004 taxation years are dismissed.
+Signed at Montréal, Quebec, this 10th day of September 2008.
+"Lucie Lamarre"
+Lamarre J.
+Translation certified true
+on this 4th day of November 2008.
+Brian McCordick, Translator
+Citation: 2008TCC504
+Date: 20080910
+Docket: 2008-314(IT)I
+BETWEEN:
+CLAUDINE LACHAPELLE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Lamarre J.
+[1] The Appellant is appealing from two assessments made by the Minister of National Revenue ("the Minister") under the Income Tax Act ("the Act") for the 2003 and 2004 taxation years. By those assessments, the Minister disallowed expenses that the Appellant claimed against professional income reported in her income tax return; and imposed a penalty on the Appellant under the terms of subsection 163(2) of the Act.
+[2] Specifically, the Appellant reported professional income in the amount of $6,000 in both 2003 and 2004, and claimed expenses totalling $6,309.46 in 2003 and $7,105.93 in 2004, thereby claiming a $309.46 loss against her other income for the 2003 year and a $1,105.93 loss against her other income for the 2004 year.
+[3] During those years, the Appellant was actually working full-time for Fiducie Desjardins Inc. as an administrative assistant, earning income of $43,840.35 in 2003 and $49,066.79 in 2004 from that employment. The professional income which was reported, and which is in issue here, is related to the trucking business that belongs to her ex-husband, with whom she still lived in 2003 and 2004. The couple separated in December 2005 and the Appellant left the couple's home at that time.
+[4] During the audit, Mourad Djebrouni, of the Canada Revenue Agency (CRA), several times asked the Appellant, and her accountant Serge Cloutier, who represented her in court, for explanations regarding the expense claims and supporting documents. According to Mr. Djebrouni's testimony, the Appellant referred him to Mr. Cloutier, who initially told him that he would check with his partner, then said that he would check with the ex-husband, and then did his own research, ultimately telling Mr. Djebrouni that he was no longer in possession of the invoices and documents substantiating the expenses.
+[5] The Appellant said that she did not take those documents with her when she moved in 2005, and that she later asked her ex-husband for them, only to be told that he did not have them either. It appears that Mr. Cloutier's office was the subject of a seizure and that no relevant documents were available anymore.
+[6] Mr. Djebrouni also testified that he asked the Appellant what the reported professional income was for. He said she answered that she did secretarial tasks for her husband. She allegedly paid her husband's business's bills using the couple's joint account, the business account, her own personal account or a credit card. She also allegedly ran errands for her husband, who worked nights and was not available during the daytime to do various small tasks.
+[7] On the day of the hearing, the Appellant explained that she was not an employee of her ex-husband's. Mr. Cloutier argued that the Appellant was never remunerated for the secretarial duties, and that the amounts of roughly $6,000 each year were to reimburse the Appellant for expenses that she had paid on behalf of her ex-husband's business. This was the first time that such an explanation was given. The expense reimbursement theory was not raised during the audit, in the notice of objection, upon the CRA appeals or in the Notice of Appeal.
+[8] In his oral submissions, Mr. Cloutier explained that the Appellant had insisted on reporting the reimbursements of her expenditures. My understanding is that the ex‑husband claimed the amounts paid to the Appellant as business expenses, and that she thought that she had to include them in her income tax returns.
+[9] According to this explanation, since Mr. Cloutier did not see how he could enter these reimbursements in the Appellant's income tax returns, he decided, with her consent, to report professional income equal to the amounts reimbursed, and to claim, as expenses, the invoices that she had paid. In so doing, Mr. Cloutier claimed a business loss that he deducted from the Appellant's other income.
+[10] The Appellant testified that she did not know how Mr. Cloutier had calculated the expenses claimed. For example, the motor vehicle expenses were deducted by the Appellant against her income even though she did not use a motor vehicle. She was unable to explain the other expense claims.
+[11] In my opinion, by agreeing to sign her income tax returns as they read, the Appellant was inviting upon herself the assessments that she faces today. By intentionally declaring professional (secretarial) income and claiming expenses, she had to be prepared to substantiate her statements. She now argues that the income consisted of expense reimbursements, and that she was never remunerated for her services. If so, her ex-husband's business was not a source of income for her, and she had nothing to report from a tax standpoint. If she did not get reimbursed by her husband for all the expenses that she incurred on behalf of his business, it is not up to the tax authorities to pick up the tab. She should have turned to her ex-husband and claimed her due from him.
+[12] Merely by stating, in her tax returns, that she had earned professional income against which she was claiming expenses greater than the income reported, in the knowledge that this was not the true situation, the Appellant made false representations. This opened the door to the Respondent to argue that the Appellant was indifferent, to a degree amounting to gross negligence, as to whether the Act was being complied with. Such neglect must be more serious than simply a failure to exercise reasonable care (see Venne v. Canada (Minister of National Revenue – M.N.R.), [1984] F.C.J. No. 314 (QL) (T.D.).
+[13] The role of a professional advisor, specifically a professional accountant, is, among other things, to tell the clients who ask how to fill out their income tax returns. It was not up to the Appellant to dictate how her accountant was to go about this. Rather, the reverse was true. The Appellant and Mr. Cloutier not only acted carelessly by filling out the income tax returns as they did, they also deliberately misled the tax authorities, thereby running the risk of a penalty under the terms of the Act.
+[14] When one provides the tax authorities with information, one must be prepared to substantiate what has been reported in an income tax return. Making a false return has its risks. In the case at bar, I truly do not have enough evidence to accept the Appellant's theory.
+[15] Not only has the Appellant failed to convince me that she did not receive remuneration from her ex-husband and that she actually incurred the expenses in question on his behalf — indeed, she had no evidence in support of her assertions to that effect — but, moreover, the Respondent has convinced me that the penalty imposed under subsection 163(2) of the Act is warranted.
+[16] The appeals are dismissed.
+Signed at Montréal, Quebec, this 10th day of September 2008.
+"Lucie Lamarre"
+Lamarre J.
+Translation certified true
+on this 4th day of November 2008.
+Brian McCordick, Translator
+CITATION: 2008 TCC 504
+COURT FILE NO.: 2008-314(IT)I
+STYLE OF CAUSE: CLAUDINE LACHAPELLE AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Montréal, Quebec
+DATE OF HEARING: September 8, 2008
+REASONS FOR JUDGMENT BY: The Honourable Justice Lucie Lamarre
+DATE OF JUDGMENT: September 10, 2008
+APPEARANCES:
+Agent of the Appellant:
+Serge Cloutier
+Counsel for the Respondent:
+Justine Malone
+COUNSEL OF RECORD:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Montréal, Quebec

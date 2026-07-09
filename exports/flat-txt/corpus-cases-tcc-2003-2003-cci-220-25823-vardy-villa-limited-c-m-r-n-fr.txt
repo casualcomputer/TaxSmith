@@ -1,0 +1,475 @@
+Title: Vardy Villa Limited c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25823/index.do
+Corpus path: corpus/cases/tcc/2003/2003-cci-220-25823-vardy-villa-limited-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2003-04-23
+
+# Vardy Villa Limited c. M.R.N.
+
+- Citation: 2003 CCI 220
+- Decision date: 2003-04-23
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3898, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Vardy Villa Limited c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-04-23
+Référence neutre
+2003 CCI 220
+Numéro de dossier
+97-1418(UI)
+Juges et Officiers taxateurs
+Murray F. Cain
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossiers: 97-1418(UI)
+97-1420(UI)
+97-1421(UI)
+97-1422(UI)
+ENTRE :
+VARDY VILLA LIMITED,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels entendus sur preuve commune avec les appels de Roy Goobie (96‑2493(UI)), de Violet L. Diamond (97‑33(UI)), de Joseph Diamond (97‑34(UI)) et de David Keough (97‑263(UI)), le 7 février 2003 à Gander (Terre‑Neuve),
+Devant : L’honorable juge suppléant Murray F. Cain
+Comparutions
+Avocat de l’appelante :
+Me Greg K. Pittman
+Avocate de l’intimé :
+Me Christa MacKinnon
+____________________________________________________________________
+JUGEMENT
+Les appels interjetés à l’égard des travailleurs Violet L. Diamond (97‑1421(UI)), Joseph Diamond (97‑1420(UI)) et David Keough (97‑1422(UI)) sont rejetés et les décisions du ministre sont confirmées;
+L’appel interjeté à l’égard du travailleur Roy Goobie (97‑1418(UI)) est admis et la décision du ministre est annulée conformément aux motifs du jugement ci‑joints.
+Signé ce 23e jour d’avril 2003.
+« Murray F. Cain »
+J.S.C.C.I.
+Traduction certifiée conforme
+ce 15e jour de janvier 2004.
+Nancy Bouchard, traductrice
+Dossier : 96-2493(UI)
+ENTRE :
+ROY GOOBIE,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec les appels de Vardy Villa Limited
+(97-1418(UI), 97-1420(UI), 97-1421(UI) et 97-1422(UI)), de Violet L. Diamond (97‑33(UI)), de Joseph Diamond (97‑34(UI)) et de David Keough (97‑263(UI)), le 7 février 2003 à Gander (Terre‑Neuve),
+Devant : L’honorable juge suppléant Murray F. Cain
+Comparutions
+Avocat de l’appelant :
+Me Greg K. Pittman
+Avocate de l’intimé :
+Me Christa MacKinnon
+____________________________________________________________________
+JUGEMENT
+L'appel est accueilli et la décision du ministre est annulée conformément aux motifs du jugement ci-joints.
+Signé ce 23e jour d’avril 2003.
+« Murray F. Cain »
+J.S.C.C.I.
+Traduction certifiée conforme
+ce 4e jour de mars 2004.
+Mario Lagacé, réviseur
+Dossier : 97-33(UI)
+ENTRE :
+VIOLET L. DIAMOND,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec les appels de Vardy Villa Limited
+(97-1418(UI), 97-1420(UI), 97-1421(UI) et 97-1422(UI)), de Roy Goobie (96‑2493(UI)), de Joseph Diamond (97‑34(UI)) et de David Keough (97‑263(UI)), le 7 février 2003 à Gander (Terre‑Neuve),
+Devant : L’honorable juge suppléant Murray F. Cain
+Comparutions
+Avocat de l’appelante :
+Me Greg K. Pittman
+Avocate de l’intimé :
+Me Christa MacKinnon
+____________________________________________________________________
+JUGEMENT
+L'appel est rejeté et la décision du ministre est confirmée conformément aux motifs du jugement ci-joints.
+Signé ce 23e jour d’avril 2003.
+« Murray F. Cain »
+J.S.C.C.I.
+Traduction certifiée conforme
+ce 4e jour de mars 2004.
+Mario Lagacé, réviseur
+Dossier : 97‑34(UI)
+ENTRE :
+JOSEPH DIAMOND,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec les appels de Vardy Villa Limited
+(97-1418(UI), 97-1420(UI), 97-1421(UI) et 97-1422(UI)), de Roy Goobie (96‑2493(UI)), de Violet L. Diamond (97‑33(UI)) et de David Keough (97‑263(UI)), le 7 février 2003 à Gander (Terre‑Neuve),
+Devant : L’honorable juge suppléant Murray F. Cain
+Comparutions
+Avocat de l’appelant :
+Me Greg K. Pittman
+Avocate de l’intimé :
+Me Christa MacKinnon
+____________________________________________________________________
+JUGEMENT
+L'appel est rejeté et la décision du ministre est confirmée conformément aux motifs du jugement ci-joints.
+Signé ce 23e jour d’avril 2003.
+« Murray F. Cain »
+J.S.C.C.I.
+Traduction certifiée conforme
+ce 4e jour de mars 2004.
+Mario Lagacé, réviseur
+Dossier : 97-263(UI)
+ENTRE :
+DAVID KEOUGH,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec les appels de Vardy Villa Limited
+(97-1418(UI), 97-1420(UI), 97-1421(UI) et 97-1422(UI)), de Roy Goobie (96‑2493(UI)), de Violet L. Diamond (97‑33(UI)) et de Joseph Diamond (97‑34(UI)), le 7 février 2003 à Gander (Terre‑Neuve),
+Devant : L’honorable juge suppléant Murray F. Cain
+Comparutions
+Avocat de l’appelant :
+Me Greg K. Pittman
+Avocate de l’intimé :
+Me Christa MacKinnon
+____________________________________________________________________
+JUGEMENT
+L'appel est rejeté et la décision du ministre est confirmée conformément aux motifs du jugement ci-joints.
+Signé ce 23e jour d’avril 2003.
+« Murray F. Cain »
+J.S.C.C.I.
+Traduction certifiée conforme
+ce 4e jour de mars 2004.
+Mario Lagacé, réviseur
+Référence: 2003CCI220
+Date: 2003-04-23
+Dossiers: 97-1418(UI)
+97-1420(UI)
+97-1421(UI)
+97-1422(UI)
+ENTRE :
+VARDY VILLA LIMITED,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+[TRADUCTION FRANÇAISE OFFICIELLE]
+ET
+Dossier: 96-2493(UI)
+ROY GOOBIE,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+[TRADUCTION FRANÇAISE OFFICIELLE]
+ET
+Dossier: 97-33(UI)
+VIOLET L. DIAMOND,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+[TRADUCTION FRANÇAISE OFFICIELLE]
+ET
+Dossier: 97‑34(UI)
+JOSEPH DIAMOND,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+[TRADUCTION FRANÇAISE OFFICIELLE]
+ET
+Dossier: 97-263(UI)
+DAVID KEOUGH,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge suppléant Cain, C.C.I.
+[1] La société appelante susmentionnée (la « payeuse ») et les appelants particuliers (les « travailleurs ») ont interjeté appel à l’encontre des décisions de l’intimé selon lesquelles l’engagement des travailleurs durant des périodes précises (les « périodes en question ») ne constituait pas un emploi assurable aux termes de la Loi sur l’assurance‑chômage (la « Loi »). L’intimé a avisé par écrit les appelants dans toutes les causes que le motif de sa décision était qu’aucun contrat de louage de services n’avait été conclu entre la payeuse et chaque travailleur respectif et, par conséquent, qu’il n’existait aucune relation employeur‑employé.
+[2] Les appels ont été entendus à Gander, à Terre‑Neuve‑et‑Labrador, le 13 juillet 2003. Les parties ont convenu que les appels devraient être entendus en même temps et la preuve présentée appliquée à chaque appel respectif, selon le contexte, et qu’il n’était pas nécessaire de créer plus d’un dossier.
+[3] Les périodes en question pour lesquelles l’intimé a rendu une décision à l’égard de chacun des travailleurs sont les suivantes :
+1. Roy Goobie – Du 14 août au 17 novembre 1995.
+2. David Keough – Du 3 avril au 23 juin 1995 et du 4 septembre 1995 au 21 juin 1996.
+3. Violet L. Diamond – Du 3 avril au 23 juin 1995 et du 4 septembre 1995 au 21 juin 1996.
+4. Joseph Diamond – Du 3 avril au 23 juin 1995 et du 4 septembre 1995 au 21 juin 1996.
+[4] La Cour remarque qu’en décrivant la période en question concernant le travailleur Roy Goobie, l’intimé n’a pas inclus la période du 20 novembre 1995 au 12 juin 1996. Cependant, l’intimé a inclus cette période dans sa réponse. Pour les besoins de la Cour, le travailleur a admis ce fait.
+[5] L’intimé, dans son premier avis transmis aux appelants, a établi que le travail qu’accomplissaient les travailleurs n’était pas un emploi assurable pour le motif qu’aucun contrat de louage de services n’avait été conclu entre la payeuse et les travailleurs au cours des périodes en question respectives. Dans ses réponses aux avis d’appel des appelants, l’intimé a ajouté, subsidiairement, que l’emploi n’était pas assurable puisque qu’il s’agissait d’un emploi exclu aux termes du sous‑alinéa 3(2)c)(i) de la Loi et que conformément à l’alinéa 251(1)b) de la Loi de l’impôt sur le revenu, la payeuse et les travailleurs, dans les faits, avaient entre eux un lien de dépendance.
+[6] Au moment de conclure l’affaire concernant les présents appelants, la Cour a décidé que ces derniers avaient établi une preuve prima facie démontrant qu’en fait un contrat de louage de services avait été conclu entre la payeuse et les travailleurs. Toutefois, l’intimé a établi une preuve du contraire et au moment de clore la preuve, la Cour a entendu les plaidoiries et le jugement en délibéré.
+[7] Par la suite, la Cour a mis en demeure les parties, et celles‑ci ont ensuite présenté leurs observations quant à savoir si la Cour avait compétence pour trancher la question en litige en s’appuyant sur le motif subsidiaire de l’intimé selon lequel la payeuse et les travailleurs avaient entre eux un lien de dépendance.
+[8] La Cour a rendu son jugement le 5 février 2001 et a conclu qu’elle n’avait pas compétence pour trancher la question en litige pour le motif que l’intimé ne pouvait pas soulever un motif subsidiaire dans ses réponses aux avis d’appel des appelants sans d’abord établir formellement que l’emploi n’était pas un emploi assurable pour ce motif en particulier.
+[9] La Cour s’est appuyée sur l’affaire Candor Enterprises Ltd. c. Canada (Ministre du Revenu national – M.R.N.), C.A.F., no A-636-98, 15 décembre 2000 (2000 264 N.R. 149), décision qu’a rendue la Cour d’appel fédérale. Bien que la Cour ait rendu une décision à l’égard de cette affaire en s’appuyant sur une situation de fait découlant de l’application du sous‑alinéa 3(2)c)(ii) de la Loi sur l’assurance‑chômage, la présente Cour a élargi le ratio de manière à ce qu’il s’applique à toutes les décisions qu’a rendues l’intimé, peu importe l’article de la loi invoqué.
+[10] Dans l’affaire Candor, le ministre a décidé que l’emploi qu’occupait le demandeur n’était pas un emploi assurable. La question que la Cour d’appel fédérale était appelée à trancher consistait à savoir si la Cour canadienne de l’impôt peut tenir compte d’un motif d’appel que le ministre a ignoré dans sa première décision, mais qui n’a été soulevé qu’au cours des plaidoiries qui ont suivi l’avis d’appel que le demandeur avait déposé après que cette décision avait été rendue.
+[11] Dans son jugement, la Cour d’appel fédérale a mis en doute la validité de qualifier le pouvoir de décision du ministre de « discrétionnaire » conformément au sous-alinéa 3(2)c)(ii) et a tenté de déterminer si la procédure en deux étapes proposée dans ces affaires est nécessaire ou utile. Elle a également soutenu que le juge de la Cour canadienne de l’impôt doit vérifier si les faits que le ministre a déduits ou sur lesquels il s’est appuyé étaient réels et s’il les a correctement examinés en tenant compte du contexte dans lequel ils sont survenus. Ensuite, elle doit décider si la conclusion du ministre semble encore raisonnable. La Cour a déclaré que le ministre ne pouvait pas invoquer le sous‑alinéa 3(2)c)(ii) pour la première fois, lors de ses plaidoiries, parce que, selon l’avis qu’avait reçu le demandeur relativement à sa non-assurabilité, il était évident que le ministre, en rendant sa décision, n’avait pas tenu compte des litiges soulevés en vertu du sous‑alinéa 3(2)c)(ii). Par conséquent, les décisions que rendra le ministre ne peuvent être portées en appel. La Cour a conclu qu’un tel processus doit être mis en application dans chaque appel, peu importe l’article de la loi sur lequel le ministre s’est appuyé.
+[12] En appliquant ce ratio, la Cour a conclu qu’elle n’avait pas compétence pour prendre en considération le motif subsidiaire.
+[13] L’intimé a interjeté appel à l’encontre du jugement qu’avait prononcé cette Cour devant la Cour d’appel fédérale, et le 17 juillet 2002, l’honorable Cour a annulé ce jugement. Le juge d’appel Linden qui, au nom de la Cour, a rendu la décision par écrit a dit, au paragraphe [3] :
+À mon avis, le juge suppléant de la Cour de l’impôt a commis une erreur en élargissant la portée de l’arrêt Candor Enterprises. Cette affaire ne portait que sur le sous‑alinéa 3(2)c)(ii) et non sur le sous‑alinéa 3(2)c)(i) de la Loi.
+[14] Le savant juge poursuit ensuite en vue d’examiner les diverses dispositions de la Loi qui portent sur les tâches et responsabilités d’un juge de la Cour de l’impôt en s’appuyant sur l’aspect discrétionnaire des compétences dont est investi ce dernier et de la procédure comportant deux étapes propre au sous‑alinéa 3(2)c)(ii). Ainsi, il conclut :
+[10] En l’espèce, le règlement du ministre était donc simplement que l’emploi en question n’était pas assurable. Bien que le ministre ait initialement donné comme motif qu’il n’y avait pas de contrat de louage de services (alinéa 3(1)a)), il a ajouté, dans sa réponse à l’avis d’appel, le motif subsidiaire d’absence de lien de dépendance. Cela est permis selon la jurisprudence, comme le démontrent les arrêts Schnurer et Doucet, précités, et comme expliqué plus haut, l’arrêt Candor Enterprises n’empêche pas cette procédure. Sous réserve de l’exception de Candor Enterprises, la Cour de l’impôt a compétence pour statuer sur tout point de droit nécessaire pour déterminer si l’emploi du travailleur était assurable. Elle avait compétence pour examiner le sous‑alinéa 3(2)c)(i), même s’il n’a été soulevé que lors du dépôt de la réponse à l’avis d’appel devant la Cour de l’impôt.
+[15] Le savant juge a ordonné que l’affaire soit renvoyée devant le juge en chef de la Cour canadienne de l’impôt ou devant son délégué pour qu’il détermine si le sous‑alinéa 3(2)c)(i) exclut l’emploi en cause sur le fondement des faits présentés initialement et de tout autre élément de preuve dont le juge suppléant de la Cour de l’impôt autorisera la présentation.
+[16] Le 7 février 2003, l’affaire a été reprise devant la présente Cour à Gander, à Terre‑Neuve, date à laquelle l’avocat des appelants a demandé à ce qu’on les autorise à faire la preuve concernant la relation qui existait entre la payeuse et les travailleurs.
+[17] L’intimé a soulevé une objection pour le motif qu’une preuve étoffée concernant la relation qui existait entre les parties avait été présentée au procès. La Cour a donc autorisé les appelants à produire d’autres éléments de preuve mais qui portaient seulement sur cette question en litige.
+[18] Les appelants ont fait comparaître Dennis Vardy, le dirigeant de la payeuse, ainsi que David Keough. Leur témoignage a renforcé celui qu’ils avaient présenté précédemment selon lequel ils n’étaient ni des connaissances ni des amis proches. L’avocat des appelants a présenté des cas de jurisprudence à la Cour en vue d’appuyer le principe selon lequel la relation qui existait entre l’employeur et les travailleurs ou, dans l’affaire en l’espèce, le dirigeant de la payeuse, constitue un fait important lorsqu’il s’agit de déterminer si la relation correspondait à un lien de dépendance. La Cour a donc remis le prononcé du jugement.
+DÉCISION SUR LES QUESTIONS EN LITIGE
+[19] L’intimé a fondé ses décisions au sujet des travailleurs sur les hypothèses suivantes :
+JOSEPH ET VIOLET DIAMOND
+[Traduction]
+a) l’appelante était une société à responsabilité limitée dûment constituée en vertu des lois de la province de Terre‑Neuve le 21 septembre 1987;
+b) pendant toute la période pertinente, les actions émises de l’appelante étaient détenues par Dennis Vardy et son épouse, Amy Vardy;
+c) l’appelante a engagé le travailleur pour conduire des élèves des collectivités terre‑neuviennes de Jamestown, de Portland, de Brooklyn et de Lethbridge à l’école secondaire et aux écoles élémentaires de Musgravetown et pour les reconduire dans leur collectivité;
+d) pendant la période en question, le travailleur suivait les mêmes trajets qui exigeaient une heure le matin et une heure l’après‑midi pour un total de deux heures de travail par jour, cinq jours par semaine;
+e) le travailleur percevait une rémunération de 50 $ par semaine du 1er janvier au 31 mars 1995 et ensuite, une rémunération de 260 $ par semaine du 30 avril au 23 juin 1995;
+f) le travailleur percevait une rémunération de 50 $ par semaine du 4 septembre 1995 au 29 mars 1996 et ensuite une rémunération de 250 $ par semaine du 1er avril au 21 juin 1996;
+g) le travailleur percevait le même montant chaque semaine, même si l’autobus n’était pas en service en raison d’intempéries;
+h) le travailleur n’exécutait aucune tâche additionnelle ou différente dans les périodes durant lesquelles il était payé 260 $ ou 250 $ par semaine par rapport aux périodes durant lesquelles il était payé 50 $ par semaine;
+i) le travailleur n’était pas supervisé dans l’exercice de ses fonctions;
+j) le travailleur, dans le cadre de la prestation de ses services personnels, était libre de se faire remplacer par un autre chauffeur sans obtenir, au préalable, la permission de l’appelante;
+k) le travailleur percevait son plein salaire, même lorsqu’il ne conduisait pas l’autobus scolaire chaque jour de la semaine;
+l) l’appelante ne s’intéressait qu’à la prestation du service en question et non à la manière dont ce service était fourni ni à la personne qui exécutait les fonctions;
+m) le travailleur ramenait l’autobus scolaire chez lui chaque jour et il était responsable de s’assurer que l’entretien de l’autobus était effectué au besoin;
+n) aucun contrat de louage de services n’a été conclu entre le travailleur et l’appelante.
+[20] Subsidiairement, il a fondé ses décisions sur les hypothèses suivantes :
+[Traduction]
+a) pendant qu’il fournissait des services à l’appelante, le travailleur a perçu des prestations d’assurance‑chômage du 1er janvier au 28 janvier 1995 et du 4 septembre 1995 au 29 mars 1996;
+b) pendant que le travailleur percevait des prestations d’assurance‑chômage, son salaire a été réduit à 50 $ par semaine;
+c) les tâches du travailleur sont demeurées les mêmes, qu’il ait perçu une rémunération de 50 $ ou de 250 $ par semaine;
+d) tel qu’il appert de l’annexe A […], l’appelante a engagé d’autres travailleurs conformément à des engagements semblables à celui conclu avec le travailleur en 1995 et en 1996;
+e) le taux de salaire du travailleur lorsqu’il était employé à temps plein était excessif;
+f) l’emploi qu’occupait le travailleur auprès de l’appelante constituait une entente factice conçue pour profiter du système de prestations d’assurance‑chômage;
+g) le travailleur profitait de l’entente en percevant des prestations d’assurance‑chômage tout en travaillant pour le compte de l’appelante et en percevant un salaire hebdomadaire de 50 $ qui s’ajoutait à son revenu;
+h) l’appelante profitait également de cette entente puisque ses coûts salariaux étaient subventionnés par des prestations d’assurance‑chômage, ce qui lui permettait de verser des salaires hebdomadaires moindres au travailleur, soit 50 $ pour les mêmes services qui coûtaient à l’appelante 250 $ par semaine pendant la période en question;
+i) dans les faits, l’appelante avait un lien de dépendance avec le travailleur.
+DAVID KEOUGH
+[Traduction]
+a) l’appelante était une société à responsabilité limitée dûment constituée en vertu des lois de la province de Terre‑Neuve, le 21 septembre 1987;
+b) pendant toute la période pertinente, les actions émises de l’appelante étaient détenues par Dennis Vardy et son épouse, Amy Vardy;
+c) l’appelante a engagé le travailleur pour conduire des élèves des collectivités terre‑neuviennes de Catalina et de Little Catalina à l’école élémentaire de Catalina et pour les reconduire dans leur collectivité;
+d) pendant la période en question, le travailleur suivait les mêmes trajets qui exigeaient 25 minutes le matin, 25 minutes le midi et 25 minutes l’après‑midi pour un total de 1 heure 15 minutes chaque jour, et ce, cinq jours par semaine;
+e) le travailleur percevait une rémunération de 60 $ par semaine sans paye de vacances du 1er janvier au 31 mars 1995 puis de 300 $ par semaine plus 12 $ de paye de vacances du 2 avril au 22 juin 1995;
+f) le travailleur percevait une rémunération de 60 $ par semaine sans paye de vacances du 4 septembre 1995 au 29 mars 1996 puis de 300 $ plus 12 $ de paye de vacances du 1er avril au 21 juin 1996;
+g) le travailleur percevait le même montant chaque semaine, même si l’autobus n’était pas en service en raison d’intempéries;
+h) le travailleur n’exécutait aucune tâche additionnelle ou différente dans les périodes durant lesquelles il était payé 300 $ par semaine par rapport aux périodes durant lesquelles il était payé 60 $ par semaine;
+i) le travailleur n’était pas supervisé dans l’exercice de ses fonctions;
+j) le travailleur, dans le cadre de la prestation de ses services personnels, était libre de se faire remplacer par un autre chauffeur sans obtenir, au préalable, la permission de l’appelante;
+k) le travailleur percevait son plein salaire, même lorsqu’il ne conduisait pas l’autobus scolaire chaque jour de la semaine;
+l) l’appelante ne s’intéressait qu’à la prestation du service en question et non à la manière dont ce service était fourni ni à la personne qui exécutait les fonctions;
+m) le travailleur ramenait l’autobus scolaire chez lui chaque jour et il était responsable de s’assurer que l’entretien de l’autobus était effectué au besoin;
+n) aucun contrat de louage de services n’a été conclu entre le travailleur et l’appelante.
+[21] Subsidiairement, il a fondé ses décisions sur les hypothèses de fait suivantes :
+[Traduction]
+a) pendant qu’il fournissait des services à l’appelante, le travailleur a perçu des prestations d’assurance‑chômage du 1er janvier au 28 janvier 1995 et du 4 septembre 1995 au 15 mai 1996;
+b) pendant que le travailleur percevait des prestations d’assurance‑chômage, son salaire a été réduit à 60 $ par semaine pour fournir les mêmes services;
+c) tel qu’il appert de l’annexe A […], l’appelante a engagé d’autres travailleurs conformément à des engagements semblables à celui conclu avec le travailleur en 1995 et en 1996;
+d) le taux de salaire du travailleur lorsqu’il était employé à temps plein était excessif;
+e) l’emploi qu’occupait le travailleur auprès de l’appelante constituait une entente factice conçue pour profiter du système de prestations d’assurance‑chômage;
+f) le travailleur profitait de l’entente en percevant des prestations d’assurance‑chômage tout en travaillant pour le compte de l’appelante et en percevant un salaire hebdomadaire de 60 $ qui s’ajoutait à son revenu;
+g) l’appelante profitait également de cette entente puisque ses coûts salariaux étaient subventionnés par des prestations d’assurance‑chômage, ce qui lui permettait de verser des salaires hebdomadaires moindres au travailleur, soit 60 $ pour les mêmes services qui coûtaient à l’appelante 312 $ par semaine pendant la période en question;
+h) dans les faits, l’appelante avait un lien de dépendance avec le travailleur.
+ROY GOOBIE
+[Traduction]
+a) l’appelante était une société à responsabilité limitée dûment constituée en vertu des lois de la province de Terre‑Neuve, le 21 septembre 1987;
+b) pendant toute la période pertinente, les actions émises de l’appelante étaient détenues par Dennis Vardy et son épouse, Amy Vardy;
+c) l’appelante a engagé le travailleur pour conduire des élèves des collectivités terre‑neuviennes de Jamestown, de Portland, de Brooklyn et de Lethbridge à l’école secondaire et aux écoles élémentaires de Musgravetown et pour les reconduire dans leur collectivité;
+d) pendant la période en question, le travailleur suivait les mêmes trajets qui exigeaient 40 minutes le matin et 35 minutes l’après‑midi pour un total de 1 heure 15 minutes chaque jour, et ce, cinq jours par semaine;
+e) le travailleur percevait une rémunération de 400 $ par semaine plus une paye de vacances équivalent à 4 p. 100 de son salaire du 14 août au 17 novembre 1995 puis de 65 $ par semaine sans paye de vacances du 20 novembre 1995 au 28 juin 1996;
+f) le travailleur percevait une rémunération de 400 $ par semaine plus une paye de vacances équivalent à 4 p. 100 de son salaire du 2 septembre au 11 octobre 1996;
+g) le travailleur percevait le même montant chaque semaine, même si l’autobus n’était pas en service en raison d’intempéries;
+h) le travailleur n’exécutait aucune tâche additionnelle ou différente dans les périodes durant lesquelles il était payé 400 $ par semaine plus la paye de vacances par rapport aux périodes durant lesquelles il était payé 65 $ par semaine;
+i) le travailleur n’était pas supervisé dans l’exécution de ses fonctions;
+j) le travailleur, dans le cadre de la prestation de ses services personnels, était libre de se faire remplacer par un autre chauffeur sans obtenir, au préalable, la permission de l’appelante;
+k) le travailleur percevait son plein salaire, même lorsqu’il ne conduisait pas l’autobus scolaire chaque jour de la semaine;
+l) l’appelante ne s’intéressait qu’à la prestation du service en question et non à la manière dont ce service était fourni ni à la personne qui exécutait les fonctions;
+m) le travailleur ramenait l’autobus scolaire chez lui chaque jour et il était responsable de s’assurer que l’entretien de l’autobus était effectué au besoin;
+n) aucun contrat de louage de services n’a été conclu entre le travailleur et l’appelante.
+[22] Subsidiairement, il a fondé ses décisions sur les hypothèses suivantes :
+[Traduction]
+a) le travailleur a perçu des prestations d’assurance‑chômage du 25 décembre 1994 au 5 août 1995 et lorsque le paiement de ses prestations a pris fin, il a été inscrit sur la feuille de paye de l’appelante comme un employé à temps plein percevant un plein salaire à compter du 14 août 1995;
+b) pendant qu’il fournissait des services à l’appelante, le travailleur a perçu des prestations d’assurance‑chômage du 20 novembre 1995 au 12 juin 1996;
+c) pendant que le travailleur percevait des prestations d’assurance‑chômage, son salaire était réduit à 65 $ par semaine pour exécuter les mêmes tâches;
+d) tel qu’il appert de l’annexe A[…], l’appelante a engagé d’autres travailleurs conformément à des engagements semblables à celui conclu avec le travailleur en 1995 et en 1996;
+e) le taux de salaire du travailleur lorsqu’il était employé à temps plein était excessif;
+f) l’emploi qu’occupait le travailleur auprès de l’appelante constituait une entente factice conçue pour profiter du système de prestations d’assurance‑chômage;
+g) le travailleur profitait de l’entente en percevant des prestations d’assurance‑chômage tout en travaillant pour le compte de l’appelante et en percevant un salaire hebdomadaire de 65 $ qui s’ajoutait à son revenu;
+h) l’appelante profitait également de cette entente puisque ses coûts salariaux étaient subventionnés par des prestations d’assurance‑chômage, ce qui lui a permis de verser des salaires hebdomadaires moindres au travailleur, soit 65 $ pour les mêmes services qui coûtaient à l’appelante 400 $ par semaine pendant la période en question;
+i) dans les faits, l’appelante avait un lien de dépendance avec le travailleur.
+[23] L’annexe A, dont il est fait mention dans les hypothèses subsidiaires, est la même pour les appels de la payeuse et de chacun des travailleurs. Elle est présentée de la façon suivante :
+Annexe A
+Employé no 1
+Sur la feuille de paye de la payeuse pour les périodes suivantes :
+14 semaines à 50 $ par semaine, du 1er janvier au 31 mars 1995;
+12 semaines à 260 $ par semaine, du 3 avril au 23 juin 1995;
+30 semaines à 50 $ par semaine, du 4 septembre 1995 au 26 mars 1996; 12 semaines à 250 $ par semaine, du 1er avril au 28 juin 1996;
+6 semaines à 100 $ par semaine, du 2 septembre au 11 octobre 1996.
+Employé no 2
+Sur la feuille de paye de la payeuse pour les périodes suivantes :
+13 semaines à 50 $ par semaine, du 1er janvier au 31 mars 1995;
+12 semaines à 250 $ par semaine, du 3 avril au 23 juin 1995;
+30 semaines à 50 $ par semaine, du 4 septembre 1995 au 29 mars 1996;
+12 semaines à 250 $ par semaine, du 1er avril au 28 juin 1996;
+6 semaines à 100 $ par semaine, du 2 septembre au 11 octobre 1996.
+Employé no 4
+Sur la feuille de paye de la payeuse pour les périodes suivantes :
+14 semaines à 400 $ par semaine, du 14 août au 17 novembre 1995;
+30 semaines à 65 $ par semaine, du 20 novembre 1995 au 28 juin 1996;
+12 semaines à 400 $ par semaine, du 2 septembre au 11 octobre 1996.
+Employé no 5
+Sur la feuille de paye de la payeuse pour les périodes suivantes :
+13 semaines à 60 $ par semaine, du 1er janvier au 31 mars 1995;
+12 semaines à 300 $ par semaine, du 3 avril au 23 juin 1995;
+30 semaines à 60 $ par semaine, du 4 septembre 1995 au 29 mars 1996;
+12 semaines à 300 $ par semaine, du 1er avril au 28 juin 1996;
+4 semaines à 100 $ par semaine, du 2 au 27 septembre 1996;
+2 semaines à 300 $ par semaine, du 30 septembre au 11 octobre 1996.
+Employé no 6
+Sur la feuille de paye de la payeuse pour les périodes suivantes :
+8 semaines à 60 $ par semaine, du 1er janvier au 23 février 1995;
+17 semaines à 250 $ par semaine, du 27 février au 23 juin 1995;
+2 semaines à 40 $ par semaine, du 4 au 15 septembre 1995;
+27 semaines à 50 $ par semaine, du 18 septembre 1995 au 29 mars 1996;
+12 semaines à 250 $ par semaine, du 1er avril au 28 juin 1996;
+6 semaines à 100 $ par semaine, du 2 septembre au 11 octobre 1996.
+Employé no 7
+Sur la feuille de paye de la payeuse pour les périodes suivantes :
+12 semaines à 400 $ par semaine, du 4 septembre au 24 novembre 1995;
+25 semaines à 50 $ par semaine, du 27 novembre 1995 au 26 mai 1996.
+[24] Les travailleurs Joseph et Violet Diamond ont admis les hypothèses a), b), d) à g) inclusivement, k) et m) énoncées en premier lieu à leur égard et les hypothèses a) et b) des décisions subsidiaires alléguées, mais ils ont nié toutes les autres hypothèses énoncées ci‑dessus.
+[25] Le travailleur David Keough a admis les hypothèses a), b), d) à g) inclusivement, k) et m) énoncées en premier lieu à son égard et les hypothèses a) et b) des décisions subsidiaires alléguées, mais il a nié toutes les autres hypothèses énoncées ci‑dessus.
+[26] Le travailleur Roy Goobie a admis les hypothèses a), b), d) à g) inclusivement, k) et m) énoncées en premier lieu à son égard et les hypothèses a) et b) des décisions subsidiaires alléguées, mais il a nié toutes les autres hypothèses énoncées ci‑dessus.
+FAITS
+[27] La payeuse a conclu un contrat avec le gouvernement de Terre‑Neuve‑et‑Labrador pour assurer le transport scolaire dans la région.
+[28] Elle a engagé des chauffeurs d’autobus à différentes périodes et à des taux de salaire variés. Elle précisait les trajets qu’ils devraient suivre et leur fournissait des autobus. Tous les travailleurs étaient employés pendant les périodes en question sur la même base selon laquelle, à un certain moment pendant ces périodes, ils travaillaient pendant douze semaines consécutives comme employés à temps plein avec un taux de salaire à temps plein. Le reste du temps durant ces périodes, ils percevaient des prestations d’assurance‑chômage et ils continuaient à travailler, mais à un taux de salaire dans les limités de ce que permettait la Loi pour les gens travaillant et touchant des prestations en même temps.
+[29] Les taux de salaire des travailleurs différaient. Cependant, ils étaient tous, sauf le travailleur Goobie, engagés à temps plein pendant les mois d’avril, de mai et de juin des années en question et mis à pied pour l’été. Ils étaient réengagés en septembre jusqu’au mois d’avril suivant comme employés à temps partiel recevant des prestations d’assurance‑chômage. Le travailleur Goobie a été engagé à temps plein pendant la période d’août à novembre parce qu’il possédait des compétences spéciales. Il a ensuite été engagé à temps partiel jusqu’à juin pendant qu’il recevait des prestations d’assurance‑chômage et il aurait ensuite probablement été réengagé au mois d’août suivant.
+OBSERVATIONS
+[30] On pourrait résumer les observations de l’intimé de la façon suivante : la payeuse et les travailleurs ont élaboré un stratagème frauduleux selon lequel elle les engagerait comme chauffeurs d’autobus principalement pendant l’année scolaire, et les coûts liés à un tel emploi que devrait assumer la payeuse seraient subventionnés grâce aux prestations que percevraient les travailleurs à même les fonds de l’assurance‑chômage pendant cette période.
+[31] La payeuse engagerait les travailleurs et leur verserait un salaire pendant 12 à 14 mois au cours de la période susmentionnée. Ensuite, les travailleurs seraient admissibles à des prestations d’assurance‑chômage et pourraient conséquemment présenter une demande à cette fin. La payeuse les réengagerait par la suite pour qu’ils accomplissent les mêmes tâches prétendument à temps partiel, selon un taux horaire conforme aux dispositions que prévoit la Loi, tout en continuant à percevoir des prestations d’assurance‑chômage. L’intimé a allégué qu’un tel régime constituait un emploi exclu aux termes de la Loi puisque, dans les faits, il a pour effet de créer un lien de dépendance entre les parties.
+[32] La payeuse et les travailleurs ont fait valoir, et je cite, que :
+[Traduction]
+[...] dans les faits, les appelants avaient un lien de dépendance avec la payeuse. Tous les employés ont témoigné que leur employeur, Dennis Vardy de l’entreprise Vardy Villa Limited leur assignait les tâches à accomplir et qu’aucun d’entre eux n’était lié de façon quelconque à l’âme dirigeante de la société. Les appelants font valoir que le critère sur lequel on s’appuie pour déterminer si un employeur et un employé ont, dans les faits, un lien de dépendance est très semblable à celui servant à déterminer si un employeur et un employé ont conclu un contrat de louage de services, ce que, prétendons nous, reconnaît l’intimé.
+[33] Manifestement, dans la version anglaise, les mots « employer/employer » qui apparaissent dans l’avant‑dernière ligne du paragraphe devrait être remplacés par « employer‑employee ». De même, la préposition « to » devrait être insérée entre « employer/employer » et le verbe « have » qui suit sur la même ligne.
+[34] De plus, les appelants ont soutenu qu’il incombait à l’intimé de présenter des éléments de preuve pour expliquer ce qu’il avait pensé au moment de rendre sa décision et que par ailleurs, il aurait dû présenter les éléments de preuve de l’enquête à laquelle a procédé son ministère avant de formuler sa décision.
+DÉCISION
+[35] Tous les travailleurs ont témoigné et ont décrit leurs tâches. En m’appuyant sur ces témoignages, il était clair à mon avis que tant durant leur travail à temps plein que durant celui à temps plein, ils étaient employés en vertu d'un contrat de louage de services. C'était des chauffeurs d'autobus, la payeuse leur donnait des trajets à faire et des autobus à conduire, et ils étaient contrôlés par la payeuse en autant que cela était possible.
+[36] Ils ont tous nié qu’une entente avait été conclue entre eux et la payeuse, comme l’a prétendu l’intimé.
+[37] Avant d’arriver à cette conclusion, j’ai fait les constations suivantes :
+1. relativement à l’appel de Vardy Villa Limited, de Joseph et de Violet Diamond, la preuve qu’ils ont présentée a infirmé les hypothèses i), l) et n), l’hypothèse c) a été simplement rejetée parce que les trajets ont été décrits de façon incorrecte;
+2. relativement à l’appel de Vardy Villa Limited et de Roy Goobie, la preuve qu’ils ont présentée a infirmé les hypothèses i), l), m) et n), l’hypothèse c) a été simplement rejetée parce que les trajets ont été décrits de façon incorrecte;
+3. relativement à l’appel de Vardy Villa Limited et de David Keough, la preuve qu’ils ont présentée a infirmé les hypothèses i), l) et n); l’hypothèse c) a été simplement rejetée parce que les trajets ont été décrits de façon incorrecte.
+[38] Dans toutes les conclusions qui précèdent, la payeuse et les travailleurs ont établi une preuve prima facie.
+[39] Au cours de l’enquête qu’a menée le ministère du Développement des ressources humaines, une enquêteuse ministérielle, Mme Angela Wells, a interrogé le président de la payeuse, Dennis Vardy, à deux reprises.
+[40] Les résultats de ces entrevues avec Dennis Vardy ont été reproduits sous deux formes, soit un compte rendu textuel des questions et des réponses et un résumé de l’entrevue qu’a menée Mme Wells. Ces deux documents ont été admis en preuve sous la cote R‑2 sans qu’aucune objection n’ait été soulevée. Les deux déclarations ont été dactylographiées puis présentées à Dennis Vardy. On lui a donné la possibilité de les lire et, ce faisant, il a apposé ses initiales au bas de chaque page. Ces déclarations étaient préjudiciables aux appels qu’ont interjetés les travailleurs parce que leur contenu laissait sous-entendre qu’ils étaient au courant du stratagème sur lequel s’est appuyé l’intimé pour rendre ses décisions.
+[41] Dans la pièce R‑2, les questions et les réponses 6, 9 et 11 du compte rendu textuel sont ainsi rédigées :
+[Traduction]
+6. Comment les salaires sont-ils établis?
+En ce qui concerne les chauffeurs d’autobus
+Le taux dépend de ce que je suis en mesure de négocier pour eux. Cela varie. De même, je m’engage à les embaucher à temps plein pour une période de 12 semaines consécutives durant l’année. Dans certains cas, si je n’avais pas respecté cet engagement, les travailleurs auraient refusé de travailler pour moi. En ce qui concerne le salaire versé aux travailleurs à temps partiel, il est également établi en fonction des tâches qu’ils exécuteront et s’élève à environ 50 $ par semaine, mais cela varie. Dans la mesure du possible, j’essaie de leur obtenir un salaire qui correspond à environ 150 $ par semaine si, à un moment donné au cours de l’année, ils ne perçoivent pas un plein salaire.
+9. Pourquoi certains chauffeurs sont-ils mis à pied après 12 semaines de travail consécutives, alors que l’année scolaire est encore en cours?
+C’est parce que j’ai accepté de leur verser un plein salaire pendant 12 à 14 semaines consécutives au cours de l’année. Cependant, tel n’était pas le cas durant l’été parce que cela m’aurait coûté trop cher puisqu’il n’y a pas de classes. Après avoir terminé 12 semaines de travail consécutives, les travailleurs acceptaient d’être de nouveau rémunérés à temps partiel. Les heures de travail ne changeaient pas.
+11. Négociiez‑vous avec les employés pour déterminer pendant combien de temps vous leur verseriez un plein salaire ou pour déterminer à quel moment ils percevraient un plein salaire? Vous indiquaient‑ils la période pendant laquelle ils devaient terminer leurs semaines de travail pour être admissible à des prestations d’assurance‑chômage?
+Non. Je leur indiquais simplement que je les engagerais pendant 12 à 14 semaines consécutives au cours de l’année à plein salaire. Je leur versais un plein salaire à différentes périodes durant l’année parce que je n’avais pas les moyens de les rémunérer de la sorte tous en même temps. Je ne versais pas de pleins salaires pendant l’été et je ne l’aurais fait pour personne. Certains travailleurs conduisaient des autobus sans que cette entente ne soit en vigueur.
+Je ne me suis pas rendu compte qu’une telle entente pouvait être problématique. Je fonctionne ainsi depuis plusieurs années.
+[42] La pièce R‑2 consiste en partie en un résumé des tâches et des responsabilités des travailleurs que M. Vardy a remis à Mme Wells. Ce résumé n’est pas textuel. Il consiste plutôt en des notes qu’a prises Mme Wells au cours de l’entrevue. Il a été dactylographié, puis présenté à M. Vardy qui a apposé ses initiales au bas de chaque page, ainsi que sa signature à la dernière page. Les extraits suivants ont été tirés de ce résumé :
+[Traduction]
+Joseph Diamond 105‑879‑787
+Joe conduisait un autobus pendant environ deux heures par jour. Il habitait à Lethbridge et gardait le véhicule en sa possession. M. Vardy a expliqué que Joe s’occupait de l’entretien des autobus lorsqu’il travaillait à temps plein, mais que ses tâches ne différaient pas pendant la période au cours de laquelle il était un chauffeur à temps partiel. Il a également indiqué qu’il ignorait pourquoi aucun gain n’avait été déclaré pour la semaine pendant laquelle M. Diamond était censé travailler (soit du 6 au 10 juin 1994 885). Il aurait dû travailler pendant cette semaine‑là et déclarer des gains. M. Vardy a ajouté que M. Diamond avait accepté de travailler à temps plein à un salaire hebdomadaire de 260 $ puis de 50 $ comme employé à temps partiel. Les tâches qu’il accomplissait sont demeurées les mêmes pour la période susmentionnée. Au printemps et à l’été, le véhicule demeurait à Jamestown, mais M. Diamond le gardait en sa possession à sa résidence pendant l’hiver. M. Vardy a affirmé que les heures de travail ne changeaient pas non plus.
+M. Vardy a indiqué qu’il ne pouvait pas engager M. Diamond à temps partiel s’il ne l’engageait pas à temps plein pendant 12 semaines consécutives au cours de l’année à un salaire hebdomadaire de 260 $.
+Violet Diamond 105‑987‑432
+M. Vardy a indiqué que Violet Diamond accomplissait les mêmes tâches lorsqu’elle percevait un salaire de 50 $ par semaine comme employée à temps partiel que celles qu’elle exécutait lorsqu’elle percevait un salaire hebdomadaire de 260 $ comme employée à temps plein. Pendant ces périodes, ses heures de travail, lorsqu’elle conduisait un autobus, étaient les mêmes. Elle gardait le véhicule en sa possession à sa résidence pendant l’hiver, mais au printemps et à l’été, l’autobus était stationné à Jamestown. M. Vardy n’avait pas été en mesure d’expliquer pourquoi Mme Diamond n’avait pas déclaré de gains pour la semaine du 6 au 10 juin 1994 et a affirmé qu’elle devait avoir conduit l’autobus pendant cette période. Ses tâches ne se limitaient qu’à celles d’un chauffeur d’autobus. Il n’aurait pas obtenu ses services s’il ne lui avait pas versé un plein salaire correspondant à 260 $ par semaine pendant 12 semaines consécutives au cours de l’année.
+Roy Goobie 103‑724‑142
+M. Goobie a été engagé le 7 août 1995 pour s’occuper de l’entretien des véhicules et pour travailler dans le garage. Il travaillait 40 heures par semaine et percevait une rémunération hebdomadaire de 416 $. M. Vardy ignore pourquoi Roy ne figurait pas sur la feuille de paye pour la semaine du 20 au 24 novembre 1995 parce que, pendant cette période, il fallait effectuer les parcours d’autobus. M. Vardy croit qu’il s’agit d’une erreur qui a été commise sur la feuille de paye et affirme que M. Goobie a effectué son parcours pendant la semaine en question. Il aurait perçu un salaire de 65 $ cette semaine‑là ainsi que pour chaque semaine suivante, mais seulement à compter du 20 novembre 1995.
+David Keough 119‑026‑847
+M. Keough a été engagé le 2 janvier 1994 pour conduire un autobus dans la région de Catalina. Le trajet qu’il effectuait le matin était de 20 minutes et, celui qu’il effectuait dans l’après‑midi, de 25 minutes. Le prestataire a accepté le salaire de 60 $ par semaine qu’on lui offrait pour conduire un autobus, à la condition que l’employeur l’engage à temps plein pendant 12 semaines consécutives au cours de l’année scolaire et qu’il lui verse un salaire hebdomadaire de 312 $ pendant cette période.
+M. Vardy a indiqué que les heures de travail et les tâches de M. Keough lorsqu’il percevait un salaire de 60 $ par semaine étaient les mêmes que lorsqu’il percevait un salaire hebdomadaire de 312 $. M. Vardy a également indiqué que M. Keough était chargé de graisser les autobus locaux lorsqu’il travaillait à temps plein, mais que ce travail ne représentait qu’environ deux heures de travail. Cette tâche ne nécessitait pas une semaine de travail de 40 heures.
+[43] Au cours du long contre‑interrogatoire, Dennis Vardy a usé de faux‑fuyants lorsqu’on lui a demandé s’il avait fait les déclarations que contiennent le compte rendu textuel et l’exposé sommaire, s’il comprenait les déclarations ou si le contenu était cohérent avec ce qu’il avait déclaré au cours des entrevues. (Voir la transcription du contre-interrogatoire de Dennis Vardy, à la page 40, de la ligne 17 à 25 inclusivement et à la page 41, de la ligne 1 à 16 inclusivement; aux pages 48 et 49; à la page 50, de la ligne 4 à 25 inclusivement et à la page 51, de la ligne 1 à 5 inclusivement.)
+[44] M. Vardy a été contre‑interrogé concernant les contradictions entre le témoignage qu’il a présenté au cours de l’audition des appels et les réponses qu’il a fournies, ainsi que les commentaires qu’il a formulés à Mme Wells lors des entrevues. L’intimé a notamment insisté sur sa réponse qu’il a fournie à la question 6 et sur la description des tâches des travailleurs, telle qu’elle apparaît dans le résumé. À partir de la ligne 7 à la page 42 jusqu’à la page 43 de la transcription du contre‑interrogatoire de Dennis Vardy, ce dernier a témoigné de la façon suivante :
+[Traduction]
+Q. Bien. Maintenant, elle parle au sujet des personnes qui ne sont pas concernées par cette affaire. J’aimerais que vous portiez une attention particulière à la sixième question qui est la suivante : « Comment les salaires sont‑ils établis? », ce à quoi vous avez répondu : « En ce qui concerne les chauffeurs d’autobus, le taux dépend de ce que je suis en mesure de négocier pour eux. Cela varie. De même, je m’engage à les embaucher à temps plein pour une période de 12 semaines consécutives durant l’année. […] les travailleurs auraient refusé »
+R. Ce n’est pas toujours le cas.
+Q. Vous dites que ce n’est pas toujours le cas?
+R. Non.
+Q. Bien. Alors expliquez‑moi. Avez‑vous dit cela?
+R. Non, je n’ai pas dis cela.
+Q. Ce n’est donc pas ce que vous avez dit?
+R. Non.
+Q. Bien. Qu’est-ce que… Vous avez apposé votre signature au bas de cette page, est‑ce exact?
+R. C’est exact.
+Q. Avez-vous lu la question?
+R. Je ne me souviens pas de ce que j’ai lu, il y a cinq ou six ans!
+Q. Donc, vous ne vous souvenez pas d’avoir lu cette question?
+R. Non, je ne m’en souviens pas.
+Q. D’accord. Vous avez répondu, et je cite, que « [d]ans certains cas, si je n’avais pas respecté cet engagement, les travailleurs auraient refusé de travailler pour moi. » Est‑il donc vrai qu’ils auraient refusé de travailler pour vous si vous n’aviez pas pu leur garantir 12 semaines d’emploi consécutives à …
+R. Et bien, je pense en effet que certains travailleurs refuseront de travailler s’ils ne peuvent obtenir au moins 12 semaines d’emploi.
+[45] Et poursuivant le contre‑interrogatoire concernant la question 6 à partir de la ligne 21 à la page 45 jusqu’à la page 46 :
+[Traduction]
+Q. Très bien. Maintenant, pouvez‑vous expliquer pourquoi votre réponse est‑elle différente ici?
+R. Je ne sais pas… Enfin, je veux dire… Je ne veux pas… En raison de la situation avec Angela Wells, je ne veux rien lui dire.
+MONSIEUR LE JUGE :
+Q. Désolé, mais qu’avez‑vous dit, Monsieur?
+R. La situation avec cette personne qui m’a interrogé… enfin, bref, elle et moi nous ne nous entendons pas très bien. Je ne sais pas vraiment, vous savez, ce qui …
+[46] À la page 56, de la ligne 6 à 23, M. Vardy a témoigné ainsi :
+[Traduction]
+Q. Très bien. De la même manière, un peu plus loin, il est indiqué que « les tâches qu’il accomplissait sont demeurées les mêmes pour la période susmentionnée ». Il s’agit donc des périodes d’emploi à temps plein et celles à temps partiel.
+R. C’est tout à fait différent.
+Q. Vous dites maintenant que les tâches étaient complètement…
+R. Oui, bien sûr qu’elles l’étaient.
+Q. Si elles avaient été différentes, l’auriez-vous mentionné à Mme Wells?
+R. Je le lui aurais dit si cela m’avait évité d’être ici aujourd’hui.
+MONSIEUR LE JUGE :
+Q. Désolé, mais qu’avez‑vous dit, Monsieur? Vous auriez fait quoi?
+R. Je devrais, vous savez… Je ne sais ce qui… Je ne sais pas, mais elle… Je ne sais pas. Elle et moi, nous ne nous entendons pas très bien.
+[47] Manifestement, M. Vardy a eu de la difficulté à expliquer les déclarations qu’il avait faites quelques minutes auparavant. Les réponses qu’il a fournies à la Cour indiquent qu’il ne souhaitait pas répéter les mêmes réponses.
+[48] Selon le témoignage de Mme Wells, le compte rendu textuel et l’exposé sommaire ont été produits à la suite de deux rencontres avec M. Vardy. De même, ce dernier a passé en revue la déclaration en sa présence et lui a confirmé qu’elles étaient exactes. En aucun moment M. Vardy ne lui a demandé s’il était autorisé à apporter le document en question à la maison pour pouvoir le lire. Elle a ajouté que, s’il avait formulé une telle demande, elle le lui aurait permis. (Voir la transcription de l’interrogatoire principal de Mme Angela Wells de la page 1 à la page 7 inclusivement).
+[49] M. Vardy a protesté en faisant valoir qu’on ne devait pas s’attendre à ce qu’il se souvienne de choses qu’il a dites ou faites, il y a quatre ou cinq ans, ce qui, à mon avis, est fondé. Cependant, ces déclarations ont été formulées en mars 1996, soit pendant les périodes en question. On pourrait donc supposer que M. Vardy était plus perspicace et que sa mémoire des faits était plus fidèle à cette époque qu’à l’audition des appels. Je suis convaincu que les réponses et l’exposé sommaire concordent avec ce qu’il a déclaré à Mme Wells et, par conséquent, j’admets ces déclarations comme preuve qui démontre que telle était la situation qui existait à cette époque entre la payeuse et les travailleurs et je rejette les dénégations de M. Vardy.
+[50] Je conclus que ces réponses et l’exposé sommaire établissent clairement le stratagème qui, selon l’intimé, existait pendant les périodes en question. Il ne fait aucun doute dans mon esprit que ce prétendu stratagème existait et qu’il a en fait été mis en œuvre par la payeuse.
+[51] La prochaine question à trancher consiste à savoir si les travailleurs faisaient partie de ce stratagème.
+[52] Les travailleurs ont témoigné que, lorsqu’ils avaient été engagés à temps plein comme chauffeurs d’autobus, l’emploi consistait notamment à entretenir les véhicules qu’ils conduisaient et, dans le cas de David Keough, à assurer l’entretien de plusieurs autres autobus. Outre le fait qu’ils aient témoigné qu’ils entretenaient les véhicules, à l’exception du travailleur Roy Goobie, aucune preuve présentée ne m’a convaincu que l’une ou l’autre des tâches relatives à l’entretien complet des autobus qu’exécutait l’un ou l’autre des travailleurs justifiait le versement d’un salaire à temps plein. Dans ses déclarations, M. Vardy a décrit très superficiellement ces tâches relatives à l’entretien et a minimisé les responsabilités des travailleurs à l’égard de ces tâches.
+[53] L’intimé a déposé en preuve des factures concernant l’entretien des autobus qui, prétendument, relevait de la responsabilité de David Keough pendant qu’il était un employé. Ces factures révélaient que l’entretien des véhicules s’effectuait par l’entremise d’un entrepreneur autonome.
+[54] La travailleuse Violet Diamond a témoigné qu’il y avait, dans l’autobus qu’elle conduisait, un journal des travaux d’entretien, mais qu’elle ignorait où il était ou s’il avait été rempli. Le dépôt en preuve de tels journaux se serait avéré utile. Il semble que la seule tâche relative à l’entretien de son véhicule consistait à donner un coup de balai à l’intérieur du véhicule à des intervalles réguliers.
+[55] Le travailleur Roy Goobie a été engagé environ une quinzaine de jours avant les autres travailleurs. Son témoignage et celui de M. Vardy ont établi que, pendant le mois d’août, il avait travaillé à temps plein à l’atelier du bureau principal de la payeuse. À compter de la première semaine du mois de septembre et jusqu’au 17 novembre 1995, il a consacré 50 p. 100 de son temps de travail à conduire des autobus et 50 p. 100 à effectuer des travaux de mécanique et de charpenterie au bureau principal. Son salaire était raisonnable, si l’on tient compte du travail accompli, que ce soit dans le cadre de son emploi à temps plein ou à temps partiel. Après le 14 novembre 1995, il a commencé à travailler à temps partiel, et ses tâches ne consistaient qu’à conduire un autobus scolaire le matin et l’après‑midi. Entre ces deux trajets, il retournait à la maison. Ces témoignages ont établi une preuve prima facie qu’aucune autre preuve déposée par l’intimé n’a démolie. Je conclus donc que l’emploi qu’occupait le travailleur Roy Goobie était un emploi assurable.
+[56] La jurisprudence en ce qui concerne les principes applicables à des opérations entre personnes ayant entre elles un lien de dépendance en vertu de la Loi de l’impôt sur le revenu ont fait l’objet de nombreux débats dans un jugement qu’a rendu le juge Cuddihy de la présente Cour dans l’affaire Parrill c. Canada (Ministre du Revenu national – M.R.N.), [1996] A.C.I. no 1680, dossiers de la Cour nos 95‑2644(UI) à 95‑2649(UI), jugement que la Cour d’appel fédérale a d’ailleurs confirmé (voir l’intitulé [1998] A.C.F. no 836).
+[57] Après avoir interrogé les autorités compétentes, le savant juge a conclu ce qui suit :
+[...] des parties ont un lien de dépendance lorsque la considération prédominante ou l’intérêt global ou encore la méthode utilisée est assimilée à un processus qui n’est pas caractéristique de ce que l’on pourrait s’attendre de parties n’ayant effectivement entre elles aucun lien de dépendance.
+[58] Il a poursuivi en affirmant ceci :
+Des parties ont entre elles un lien de dépendance s’il existe une même personne qui dirige les négociations des deux parties à une opération ou que les parties à une opération agissent de concert, sans avoir d’intérêts distincts, ou que l’une ou l’autre partie à une opération exerçait une influence ou un contrôle sur l’autre ou avait le pouvoir de le faire et que les opérations des parties ne sont pas compatibles avec l’objet et l’esprit des dispositions de la loi et n’indiquent pas une juste participation au jeu normal des forces économiques du marché. (Voir Canada (Procureur général) v. Rousselle et al. (124 N.R. 339).)
+[59] Le savant juge conclut ainsi :
+[...] un cas ne répond pas au critère du lien de dépendance s’il existe un ou plusieurs de ces facteurs non conformes à la juste négociation entre l’employeur et l’employé et non conformes à l’objet et à l’esprit de la loi.
+[60] Puis il ajoute en terminant ainsi :
+En analysant l’ensemble des circonstances, ainsi que la preuve retenue, la Cour doit veiller à ce que les parties ne fassent pas échec au but véritable de la loi.
+[61] Ces appels portent essentiellement sur une question de fait. Il incombe à la payeuse et aux travailleurs d’établir, selon la prépondérance des probabilités, qu’ils n’avaient entre eux aucun lien de dépendance.
+[62] Le dirigeant de la payeuse a témoigné qu’il n’avait pas les moyens d’engager les travailleurs à temps plein, ce qui signifie sans doute qu’il aurait exploité l’entreprise à perte ou qu’il aurait réalisé une marge de profit inacceptable. Toutefois, aucun renseignement ou document financier n’a été déposé en preuve en vue d’appuyer ou de justifier cette allégation.
+[63] Les témoignages de la payeuse et des travailleurs Joseph Diamond, Violet Diamond et David Keough n’ont pas permis de démolir l’une ou l’autre des hypothèses afférentes au motif subsidiaire. Bien que leurs tâches, lorsqu’ils travaillaient à temps plein, aient pu varier légèrement, la Cour conclut que, manifestement, leurs salaires respectifs étaient excessifs si l’on compare les tâches qu’ils accomplissaient dans le cadre de chaque catégorie d’emploi.
+[64] L’engagement et la structuration des salaires, selon la façon dont ils ont été décrits, ne correspondent pas à ce que l’on peut s’attendre d’une véritable relation sans lien de dépendance, relation qui devrait démontrer le jeu normal et réel des forces économiques du marché sans qu’elle ne soit entravée par des ententes quelconques ou, encore, par des opérations des parties qui ne sont pas compatibles avec l’objet et l’esprit des dispositions de la loi.
+[65] Grâce à la collaboration et à la connaissance de ces travailleurs, la payeuse a mis au point un stratagème en vue d’utiliser la Loi en sa faveur et, conséquemment, de subventionner son entreprise de transport scolaire. Comme l’a déclaré le juge Pratte dans l’affaire Tanguay c. Canada (Commission de l’assurance‑chômage), 68 N.R. 154 à la page 157 en citant le juge Donaldson dans l’affaire Crewe et al. v. Social Security Commissioner, [1982] 2 All E.R. 745 :
+[Traduction]
+À mon avis, pour rendre une décision à l’égard du présent appel, il est essentiel de se rappeler qu’il s’agit d’un régime d’assurance. Cependant, un tel régime peut être financé et constitue une assurance visant à prévenir le chômage. Essentiellement, cette assurance doit faire en sorte que l’assuré ne crée pas ou n’accroît pas délibérément le risque […]
+[66] Je conclus que les emplois qu’occupaient les travailleurs Joseph Diamond, Violet Diamond et David Keough n’étaient pas assurables pour le motif que la relation qui existait entre les parties en vertu des contrats de louage de services était une relation avec lien de dépendance.
+[67] Bref, l’appel du travailleur Roy Goobie et l’appel qu’a interjeté la payeuse en ce qui concerne ce travailleur sont admis et les décisions de l’intimé sont infirmées. Les autres appels qu’a interjetés la payeuse et les appels qu’ont interjetés les autres travailleurs sont rejetés et les décisions de l’intimé sont confirmées.
+Signé ce 23e jour d’avril 2003.
+« Murray F. Cain »
+J.S.C.C.I.
+Traduction certifiée conforme
+ce 15e jour de janvier 2004.
+Nancy Bouchard, traductrice

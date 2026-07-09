@@ -1,0 +1,102 @@
+Title: Selent v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25792/index.do
+Corpus path: corpus/cases/tcc/2004/2004-cci-18-25792-selent-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2004-01-08
+
+# Selent v. The Queen
+
+- Citation: 2004 CCI 18
+- Decision date: 2004-01-08
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3802, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Selent v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-01-08
+Référence neutre
+2004 CCI 18
+Numéro de dossier
+2003-2614(IT)I
+Juges et Officiers taxateurs
+David W. Beaubier
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2003-2614(IT)I
+ENTRE :
+DAVID H. SELENT,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 28 novembre 2003 à Nanaimo (Colombie-Britannique)
+Devant : L'honorable juge D. W. Beaubier
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocate de l'intimée :
+Me Shawna Cruz
+____________________________________________________________________
+JUGEMENT
+L'appel interjeté à l'encontre de la nouvelle cotisation établie en vertu de la Loi de l'impôt sur le revenu pour l'année d'imposition 2001 est rejeté selon les motifs du jugement ci-joints.
+Signé à Saskatoon (Saskatchewan) ce 8e jour de janvier 2004.
+« D. W. Beaubier »
+Juge Beaubier
+Traduction certifiée conforme
+ce 5e jour de mai 2004.
+Ingrid B. Miranda, traductrice
+Référence : 2004CCI18
+Date : 20040108
+Dossier : 2003-2614(IT)I
+ENTRE :
+DAVID H. SELENT,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Beaubier
+[1] Le présent appel interjeté sous le régime de la procédure informelle a été entendu à Nanaimo, en Colombie-Britannique, le 28 novembre 2003. L'appelant a été le seul témoin.
+[2] Les paragraphes 3 à 9 inclusivement de la Réponse à l'avis d'appel soulignent les points en litige et sont ainsi rédigés :
+3. En calculant les impôts qui lui seraient exigibles pour l'année d'imposition, l'appelant a demande des crédits d'impôt pour frais médicaux s'élevant à 13 845,03 $.
+4. Le ministre du Revenu national (le « ministre » ) a initialement établi une cotisation à l'égard de l'appelant le 2 mai 2002, relativement à l'année d'imposition 2001, comme l'a déposé l'appelant.
+5. Le ministre a établi une nouvelle cotisation à l'égard de l'appelant le 21 février 2003 et a diminué le crédit d'impôt pour frais médicaux à 8 000,35 $ en rejetant, par ce fait, un montant de 5 844,68 $ (le « montant » ).
+6. En réponse à l'Avis d'opposition déposé par l'appelant, le ministre a confirmé la cotisation pour l'année d'imposition 2001.
+7. Afin de confirmer ladite cotisation pour l'année d'imposition 2001, le ministre s'est fondé sur les hypothèses de fait suivantes :
+a) l'appelant a demandé un crédit pour frais médicaux de 13 845,03 $ en 2001, duquel le montant déductible était de 12 167,03 $;
+b) le montant a été refusé pour l'année d'imposition 2001;
+c) le montant portait sur des dépenses engagées en 2001 en vitamines, remèdes à base d'herbes, suppléments vitaminiques, etc.;
+d) le montant n'a pas été dépensé en médicaments, produits pharmaceutiques et d'autres préparations ou substances fabriqués, vendus ou offerts pour servir au diagnostic, au traitement ou à la prévention d'une maladie, d'une affection ou d'un état physique anormal ou de leurs symptômes ou en vue de rétablir, de corriger ou de modifier une fonction organique et achetés afin d'être utilisés par l'appelant sur ordonnance d'un médecin ou d'un dentiste et enregistrés par un pharmacien;
+e) le montant n'a pas été dépensé en frais médicaux, comme le prévoit le paragraphe 118.2(2) de la Loi de l'impôt sur le revenu (la « Loi » ).
+B. QUESTION EN LITIGE À TRANCHER
+8. La question en litige est celle de savoir si l'appelant a le droit de déduire le montant au titre de frais médicaux pour l'année d'imposition 2001.
+C. DISPOSITIONS LÉGISLATIVES INVOQUÉES
+9. Il invoque l'article 118.2 de la Loi et l'article 5700 du Règlement, dans leur version modifiée, pour l'année d'imposition 2001.
+[3] Les hypothèses 7 a), b) et c) n'ont pas été réfutées par la preuve.
+[4] L'hypothèse 7 e) dépend de la validité de l'hypothèse 7 d) que l'appelant a contestée.
+[5] L'alinéa 118.2(2)n) de la Loi de l'impôt sur le revenu (la « Loi » ) permet une demande dans les cas suivants :
+118.2(2)
+[...]
+n) pour les médicaments, les produits pharmaceutiques et les autres préparations ou substances - sauf s'ils sont déjà visés à l'alinéa k) - qui sont, d'une part, fabriqués, vendus ou offerts pour servir au diagnostic, au traitement ou à la prévention d'une maladie, d'une affection, d'un état physique anormal ou de leurs symptômes ou en vue de rétablir, de corriger ou de modifier une fonction organique et, d'autre part, achetés afin d'être utilisés par le particulier, par son époux ou conjoint de fait ou par une personne à charge visée à l'alinéa a), sur ordonnance d'un médecin ou d'un dentiste, et enregistrés par un pharmacien;
+[6] En particulier, l'appelant a présenté la pièce A-4, une lettre datée du 11 juillet 2003 (environ 18 mois après l'année en question) écrite par Erika Gregory, une pharmacienne qualifiée et autorisée, qui « enregistrait » les articles décrits dans l'hypothèse 7 d), que l'appelant a achetés de son médecin naturopathe, la Dre Ingrid Pincott. À la fin de cette lettre, Mme Gregory a précisément écrit ceci :
+« Avis d'exonération de responsabilité : Je n'ai pas préparé, dispensé, ni fourni aucun des articles figurant dans la liste ci-dessus. Aucun de ces articles n'a été fourni par une pharmacie autorisée. Je n'ai pas du tout participé au traitement de cette personne. » (À savoir, l'appelant.)
+[7] L'appelant a fait valoir que la pièce A-4 constituait un dossier et qu'elle était visée par les dispositions de l'alinéa 118.2(2)n). Cependant, la Cour n'accepte pas cet argument. L'emploi du mot « enregistré » à l'alinéa n) est au passé et il est employé de manière conjonctive dans l'alinéa. Par conséquent, cela signifie que, ensemble et en temps opportun, les articles doivent être ordonnés par un médecin et, en conjonction, être enregistrés par un pharmacien, le processus d'ordonnance devant se terminer dans l'année d'imposition en question.
+[8] Cela n'est pas arrivé ainsi en l'espèce. L'appelant a acheté les articles chez son médecin naturopathe.
+[9] Pour cette raison, l'appel est rejeté.
+Signé à Saskatoon (Saskatchewan) ce 8e jour de janvier 2004.
+« D. W. Beaubier »
+Juge Beaubier
+Traduction certifiée conforme
+ce 5e jour de mai 2004.
+Ingrid B. Miranda, traductrice

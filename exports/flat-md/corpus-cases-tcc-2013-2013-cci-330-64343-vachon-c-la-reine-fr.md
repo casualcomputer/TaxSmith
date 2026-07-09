@@ -1,0 +1,326 @@
+---
+title: "Vachon c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/64343/index.do"
+last_modified: "2013-10-24"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2013 CCI 330"
+citation2: ""
+neutral_citation: "2013 CCI 330"
+decision_date: "2013-10-24"
+language: "fr"
+item_id: "64343"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5918
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T14:59:20.609000+00:00"
+cases_cited_count: 0
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "90a14adb77cdd51131e39fc50ef96b3cd799a3bb07db9d2fb8fd901964f904b4"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Vachon c. La Reine
+
+- Citation: 2013 CCI 330
+- Decision date: 2013-10-24
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5918, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Vachon c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2013-10-24
+Référence neutre
+2013 CCI 330
+Numéro de dossier
+2011-1901(IT)G
+Juges et Officiers taxateurs
+Alain Tardif
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2011-1901(IT)G
+ENTRE :
+NORMAND VACHON,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+_______________________________________________________________
+Appel entendu les 7 et 8 mai 2013 à Montréal (Québec).
+Devant : L'honorable juge Alain Tardif
+Comparutions :
+Avocats de l'appelant :
+Me Dominic C. Belley
+Me Vincent Dionne
+Avocate de l'intimée :
+Me Anne Poirier
+_______________________________________________________________
+JUGEMENT
+En ce qui a trait à l’année d’imposition 2002, l'appel est admis, le tout conformément au consentement à jugement intervenu entre les parties dont l’original est joint faisant partie intégrante du présent jugement.
+Quant aux années d’imposition 2003 et 2004, l’appel est admis, en ce que les cotisations sont confirmées comme étant justifiées et bien fondées, selon les motifs du jugement ci‑joints.
+Finalement, les pénalités sont annulées.
+Le tout avec dépens en faveur de l’intimée.
+Signé à Ottawa, Canada, ce 24e jour d’octobre 2013.
+« Alain Tardif »
+Juge Tardif
+Référence : 2013 CCI 330
+Date : 20131024
+Dossier : 2011-1901(IT)G
+ENTRE :
+NORMAND VACHON,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Tardif
+[1] L’appel concerne essentiellement les années d’imposition 2003 et 2004. L’année d’imposition 2002 a fait l’objet d’un consentement lequel est annexé au présent jugement pour en faire partie intégrante.
+[2] Le ministre du Revenu national (le « ministre ») a cotisé l’appelant pour des revenus non déclarés en dehors de la « période normale de nouvelle cotisation », sur la base du sous‑alinéa 152(4)a)(i) de la Loi de l’impôt sur le revenu (la « Loi ») qui se lit comme suit :
+Cotisation et nouvelle cotisation
+152(4) Le ministre peut établir une cotisation, une nouvelle cotisation ou une cotisation supplémentaire concernant l’impôt pour une année d’imposition, ainsi que les intérêts ou les pénalités, qui sont payables par un contribuable en vertu de la présente partie ou donner avis par écrit qu’aucun impôt n’est payable pour l’année à toute personne qui a produit une déclaration de revenu pour une année d’imposition. Pareille cotisation ne peut être établie après l’expiration de la période normale de nouvelle cotisation applicable au contribuable pour l’année que dans les cas suivants :
+a) le contribuable ou la personne produisant la déclaration :
+(i) soit a fait une présentation erronée des faits, par négligence, inattention ou omission volontaire, ou a commis quelque fraude en produisant la déclaration ou en fournissant quelque renseignement sous le régime de la présente loi,
+[Je souligne.]
+[3] Le ministre a imposé également une pénalité selon le paragraphe 163(2) qui se lit comme suit :
+Faux énoncés ou omissions
+163(2) Toute personne qui, sciemment ou dans des circonstances équivalant à faute lourde, fait un faux énoncé ou une omission dans une déclaration, un formulaire, un certificat, un état ou une réponse (appelé « déclaration » au présent article) rempli, produit ou présenté, selon le cas, pour une année d’imposition pour l’application de la présente loi, ou y participe, y consent ou y acquiesce est passible d’une pénalité.
+[Je souligne.]
+[4] L’appelant est un homme d’affaires qui compte plus de 35 ans d’expérience en tant que directeur et gestionnaire auprès de grandes entreprises de niveau international. Il a ainsi acquis une expertise exceptionnelle.
+[5] Le 21 août 2003, il a fondé sa propre société de consultation en matière de gestion des ressources humaines et de redressement d’entreprises.
+[6] À titre de travailleur autonome ou consultant, ses services ont été retenus par L’Ébénisterie St-Patrick de janvier à juillet 2002 pour 151 063 $, puis, par Produits métalliques Roy inc. (« PMR ») de juillet 2002 à décembre 2004 pour 829 320 $.
+[7] Sa rémunération était d’environ 1 200 $ par jour plus le remboursement de certaines dépenses. Seuls les revenus gagnés chez PMR sont en litige.
+[8] À ce moment, son statut de travailleur autonome a fait l’objet d’une contestation devant la Cour canadienne de l’impôt qui a conclu que l’appelant était un salarié.
+[9] Ce jugement a fait l’objet d’un appel devant la Cour d’appel fédérale; le jugement de la Cour canadienne de l’impôt a été renversé et le travail de l’appelant a été déterminé non assurable du fait qu’il s’agissait, conformément à ses prétentions, d’un travail exécuté à titre de travailleur autonome.
+[10] La feuille de route de l’appelant est telle qu’il n’y a aucun doute sur ses qualités et aptitudes au point d’avoir connu des succès exceptionnels auprès des entreprises qui ont retenu ses services.
+[11] Articulé, instruit, clairvoyant et fort d’une expérience étendue, il a obtenu de francs succès dans les différents mandats de gestion qui lui ont été confiés.
+[12] Dans un premier temps, l’appelant a témoigné d’une manière simple, spontanée et précise permettant de constater qu’il s’agit d’une personne disciplinée et qualifiée d’une manière tout à fait exceptionnelle dans son champ d’action professionnel, soit les ressources humaines et le redressement des affaires. Très scolarisé, il a d’abord fait carrière comme salarié pour une très grande entreprise en particulier.
+[13] La première partie de son témoignage permet de conclure qu’il a acquis une exceptionnelle réputation et de multiples connaissances essentielles à la bonne marche et au développement des affaires et cela, peu importe le champ d’activité économique puisque le démarrage et le redressement d’entreprises exigent des connaissances multiples.
+[14] Par contre, lorsqu’il témoigne sur la question de ses revenus personnels et de ses obligations fiscales, le portrait devient quelque peu différent.
+[15] L’appelant a affirmé que ses connaissances en matière de fiscalité étaient très élémentaires sinon nulles. Il a indiqué que son niveau de revenus personnels était somme toute assujetti à l’obligation de payer plus ou moins 50 % d’impôt soit approximativement 150 000 $ sur des revenus de 300 000 $.
+[16] Il a aussi mentionné qu’il savait qu’un REÉR (« régime enregistré d’épargne retraite ») était avantageux en ce qu’il permettait des économies significatives d’impôt.
+[17] L’appelant savait également que les dépenses encourues dans le cadre de son travail comme consultant étaient opposables aux revenus gagnés, si telles dépenses étaient directement reliées à l’exécution de son travail.
+[18] Il a affirmé très tôt que son ignorance en matière de fiscalité avait fait en sorte qu’il s’était adressé à H&R Block pour compléter ses déclarations annuelles de revenus. Un certain Simard, à l’emploi de H&R Block, avait la responsabilité de son dossier, et ce, au moment où son travail en était un de salarié.
+[19] Devenu travailleur autonome, il a continué de faire affaires avec le même Simard, et ce, bien que ce dernier ait eu un parcours professionnel assez instable en ce qu’il a quitté H&R Block, démarré sa propre entreprise et changé de raison sociale à quelques reprises. Il a aussi expliqué et insisté sur le fait qu’un lien de confiance s’était développé entre eux.
+[20] Autant la première partie de son témoignage a été claire et précise, autant la deuxième partie a été imprécise, voire confuse par moment; bien plus, elle a même été contradictoire à certains égards, notamment au niveau de l’attention accordée au travail exécuté par Simard, mandaté pour s’occuper de sa comptabilité et de ses déclarations de revenus.
+[21] L’appelant a expliqué que Simard s’occupait de tout à partir des documents qu’il lui apportait tels comptes d’honoraires, factures des dépenses, etc. Simard exécutait le travail de comptabilité; l’appelant préparait les chèques et les signait selon les instructions de Simard. Au début, il semble que l’appelant réglait les honoraires de Simard au moyen d’un chèque particulier et les impôts et taxes au moyen de chèques spécifiques à l’ordre des créanciers fiscaux. Par la suite, il semble que cette façon de faire a changé. En effet, l’appelant a reconnu avoir fait à plusieurs reprises des chèques à diverses entités que Simard lui mentionnait et avec lesquelles il n’avait aucun lien de quelque nature que ce soit. Il se limitait à exécuter les instructions de Simard.
+[22] Le fait qu’une personne aussi clairvoyante, méticuleuse et structurée que l’appelant devienne, dès qu’il est question de ses responsabilités fiscales, aussi imprudente et insouciante a évidemment soulevé beaucoup de questions de la part de l’intimée et du tribunal.
+[23] L’appelant a essentiellement fait référence à son absence de connaissance et à l’absolue confiance qu’il accordait à Simard qui, selon lui, avait toujours correctement agi, et ce, depuis fort longtemps.
+[24] Pour expliquer une certaine nonchalance, voire une imprudence à l’endroit de ses obligations fiscales, il a affirmé qu’il croyait, et ce, malgré sa méconnaissance en la matière, que le litige quant à son statut de travailleur autonome aurait un impact déterminant. Il a indiqué qu’il s’agissait là de son opinion ajoutant n’avoir pas cru bon en discuter avec les avocats qui le représentaient dans le dossier de l’assurabilité.
+[25] L’appelant a traversé une période préoccupante à cause du dossier relatif à son statut de travailleur autonome versus celui de salarié. La différence entre les deux statuts avait évidemment des impacts majeurs notamment au niveau des revenus imposables qui tiennent compte pour un travailleur autonome de toutes les dépenses effectuées dans le but de gagner un revenu, alors que le salarié est habituellement privé de ce droit de déduire certaines, souvent nombreuses, dépenses. Selon l’appelant, la remise en question de son statut était abusive au point de qualifier la position de l’intimée de harcèlement. Son jugement, sur cette question, n’a certainement pas le degré de qualité que celui qui lui a valu autant de reconnaissance sur le plan professionnel.
+[26] L’appelant s’est constamment replié derrière le problème relatif à l’assurabilité de son travail avec l’Agence du revenu du Canada (« Agence ») pour expliquer ou justifier certains aspects assez particuliers et fort discutables de son comportement. Il a ainsi affirmé et répété qu’il croyait sincèrement que tout son dossier fiscal se réglerait automatiquement avec le dénouement final du dossier relatif à son statut répétant n’avoir peu ou pas de connaissance en matière fiscale.
+[27] L’appelant, à l’appui de son dossier, a fait témoigner un expert; ce dernier a fait un travail démontrant d’une façon déterminante que l’appelant avait bel et bien payé des montants fort importants qui normalement auraient dû servir à payer en tout ou en partie ses dettes fiscales. Or, il en fut tout autrement. Simard a plutôt détourné les sommes en question vers ses propres intérêts fraudant ainsi l’appelant.
+[28] L’intervention d’un expert dans le dossier de l’appelant a suscité un intérêt particulier du fait qu’il ne s’agissait certainement pas d’un dossier où les parties ont généralement recours aux services d’un expert.
+[29] Le travail de l’expert a été certes utile pour comprendre, mais aussi pour constater l’envergure de la fraude dont l’appelant a été la victime.
+[30] Son intervention a établi d’une manière déterminante et, de ce fait, très convaincante que l’appelant avait bel et bien déboursé non pas la totalité, mais d’importants montants qui ne se sont jamais rendus aux autorités fiscales compétentes, mais ont essentiellement profité et avantagé les intérêts personnels de son mandataire Simard.
+[31] Pour ce qui est de la contribution de l’expert aux deux questions en litige, je suis d’avis, avec respect pour toute autre opinion, que le travail de l’expert a essentiellement établi d’une manière non équivoque que l’appelant a fait l’objet d’une fraude.
+[32] A-t-il été victime d’un habile stratège à peu près impossible sinon difficile à détecter ou à découvrir? Je ne le crois pas, bien que l’appelant affirme et répète qu’il ne s’agissait pas d’un lien de confiance injustifié, mais plutôt d’une confiance qui s’était développée au fil des ans au point qu’il en était arrivé à lui faire totalement confiance.
+[33] Signer des chèques pour des montants fort importants à une personne qui n’en est pas bénéficiaire est quelque chose de fondamentalement imprudent et d’une témérité injustifiable pour quelqu’un de moyennement raisonnable et prudent. À cet effet, l’appelant a été un peu l’artisan de son malheur.
+[34] Lorsqu’une relation d’affaires perdure, il est normal que la confiance s’installe et se développe; il est tout aussi normal, usuel et prudent, particulièrement pour quelqu’un dont l’un des champs d’expertise est les ressources humaines, de procéder à l’occasion à des vérifications quant à la qualité et surtout à l’honnêteté du travail exécuté.
+[35] Un lien de confiance ne doit jamais être absolu, sans risque de se voir imputer éventuellement une responsabilité qui aurait pu être évitée par de simples préoccupations de vigilance et une prudence élémentaire.
+[36] L’appelant est un homme d’affaires avisé, instruit, connaissant parfaitement les faiblesses humaines de par sa formation en relations industrielles. Il ne peut certainement pas se replier derrière l’explication de la naïveté du débutant sans expérience dans le comportement humain. Le fait de signer des chèques pour des montants substantiels à l’ordre de personnes autres que le bénéficiaire du montant s’avère une imprudence à ce point importante qu’elle peut être qualifiée de négligence.
+[37] Habitude, routine et confort dans une relation d’affaires n’ont pas pour effet automatiquement d’éviter l’erreur, de voir l’abus, d’où la nécessité de ne jamais mettre de côté le réflexe de vigilance et de prudence. Certes, il est humain de s’abandonner, mais il est tout aussi normal de s’exposer à devoir assumer les conséquences civiles et administratives d’une telle passivité.
+[38] L’appelant est détenteur d’une formation académique de haut niveau, à laquelle s’ajoutent d’exceptionnelles qualités d’analyse, de gestion et de mise en pratique de solutions adéquates produisant de remarquables résultats. Une telle expertise et de tels résultats ne sont certainement pas le fruit d’avoir tout tenu pour acquis et de ne jamais rien remettre en question en présence d’un lien de confiance.
+[39] L’appelant, malgré l’étendue de ses connaissances, de sa très vaste et recherchée expertise dans la gestion administrative et de son ultraspécialité en matière de ressources humaines, a affirmé et répété avec insistance son absence de connaissance en matière fiscale. À cet effet, la preuve indique que l’appelant avait les connaissances généralement répandues dans la population en général.
+[40] En effet, le litige fiscal qui fait l’objet de son appel en est un où tous sinon la presque totalité des contribuables sont au fait des exigences prévues par la Loi de savoir que toute personne doit payer ses impôts et que, généralement, plus les revenus sont élevés, plus le fardeau fiscal est important. S’ajoute à cette réalité, peut-être à un niveau moins répandu, le fait qu’un REÉR réduit le fardeau fiscal d’un contribuable et, finalement, que les dépenses encourues dans le cadre de l’exécution d’un mandat à titre de consultant sont déductibles.
+[41] À cet égard, l’appelant ne fait, ni ne faisait, au moment des années en litige, exception à cette règle presque absolue. En effet, non seulement l’appelant savait qu’il devait payer ses impôts, il l’a d’ailleurs rapidement et simplement admis; il savait qu’un REÉR était avantageux et finalement savait grosso modo le pourcentage d’impôt auquel ses revenus étaient assujettis à plus ou moins 50 %.
+[42] Le principal argument de l’appelant est qu’il a payé les montants d’impôt qu’il devait, tout en reconnaissant que les montants en question n’ont pas été payés au véritable créancier, en l’occurrence, l’intimée.
+[43] D’autre part, l’appelant soutient également ne pas avoir de responsabilité du fait d’avoir probablement signé des déclarations de revenus différentes de celles transmises par son mandataire, sa vigilance ayant été accordée à des documents non conformes à ceux transmis aux autorités fiscales ou tout simplement faux.
+[44] Certes, il a fait affaires avec un escroc; toutefois, il m’apparaît important de souligner que l’escroc en question a vu son stratagème malveillant, beaucoup facilité par l’imprudence, l’absence de vigilance, et la confiance démesurée et non méritée dont l’appelant l’avait investi.
+[45] L’appelant se devait de lire et de donner suite à la correspondance préparée par l’intimée. Il se devait de vérifier la qualité du travail de Simard. Il se devait surtout de questionner le pourquoi de ses exigences quant aux chèques qu’il lui demandait de préparer. Il se devait de savoir et de vérifier la justesse et les détails des honoraires payés aux fins de savoir quel était le montant des chèques qui réglait les honoraires versus les impôts.
+[46] Tous les humains peuvent être vulnérables devant d’astucieux et habiles fraudeurs, mais tous n’ont pas la même vulnérabilité et tous doivent avoir recours à leurs propres ressources pour se mettre à l’abri des initiatives frauduleuses, nombreuses et répandues dans la société et particulièrement devant la présence de signes et gestes inquiétants devant normalement provoquer un réflexe de suspicion.
+[47] L’appelant a été imprudent; cela ressort d’ailleurs de son propre témoignage. Dans un premier temps, voir la transcription à la page 36, lignes 2 à 12 :
+« Ta déclaration va être prête une telle journée ou telle autre. » Ce n’était pas prêt. On me rappelait. Il y avait un délai, O.K., etc. Avec lui, tout le temps... C’est un type consciencieux, dans le sens qu’il était tout le temps là à la date, à l’heure consentie d’une part et puis tous les documents étaient bien faits. Moi, j’en faisais une revue complète avec et à ce moment-là, je m’apercevais que toutes les informations étaient présentes et que tout était là. Ça fait que donc, c’est un type fiable.
+[…]
+[Voir la transcription à la page 54, lignes 10 à 26.]
+Q. On a parlé de la compagnie tout à l'heure.
+R. Moi, de la façon qu’il procédait en 2003 là, même si j’avais des acomptes provisionnels ou peu importe, quand j’arrivais, je lui demandais tout le temps : « O.K. Combien que je dois? Qu'est-ce qu’il faut que je fasse? » Et puis je lui payais ses honoraires. Je faisais son chèque, O.K., comme tel, pour ses honoraires, et puis ensuite je faisais mettons Revenu Canada, O.K., ou Revenu Québec, effectivement pour la période donnée.
+Q. H’m.
+R. Puis je faisais un chèque, O.K., à ce moment-là, en conséquence du montant que je devais. Je lui remettais le chèque. C’est lui qui s’organisait avec ça pour être capable de faire les déclarations dans le sens de faire ou de finaliser le reste là, en termes de paperasse, etc.
+[…]
+[Voir la transcription à la page 55, lignes 1 à 13, et page 56, lignes 1 à 17.]
+SON HONNEUR: Quand vous dites : « Je faisais le chèque. » Qui faisait le chèque à Revenu Canada et Revenu Québec?
+LE TÉMOIN: C’est moi, mais je lui remettais.
+SON HONNEUR: O.K.
+LE TÉMOIN: C’est moi tout le temps qui faisais le chèque à Revenu Canada, donc je savais le montant.
+SON HONNEUR: Mais selon les instructions qu’il vous donnait?
+LE TÉMOIN: Le...
+SON HONNEUR: Vous faisiez le chèque à Revenu Canada.
+LE TÉMOIN: Exactement.
+[…]
+Puis à partir de là, effectivement ce que je faisais c’est que je faisais le chèque. Moi, je faisais tout le temps le chèque comme tel. C’est tout le temps ma signature qui était là au niveau du chèque, comme tel. Puis je disais : « Tiens, voici le chèque. Procède. Comment je te dois pour tes honoraires? » Et puis je payais ses honoraires à ce moment-là. Mais, c’était un gars qui était fiable et puis qui faisait bien le travail. Quand j’arrivais, il était tout le temps bien préparé dans le sens que je n’avais pas trop d’interrogation, O.K., à toutes fins pratiques, à avoir. Il repassait les éléments. Il s’assurait de répondre à mes questions. C’était comme je l’avais toujours connu.
+[…]
+[Voir la transcription à la page 67, lignes 25 à 28.]
+Q. Si vous allez à la page 11, Monsieur Vachon, vous avez un chèque de 10 000 $ en date du 13 juin 2004 payé à Les Industries Flamenco.
+R. H’m.
+[Voir la transcription à la page 68, lignes 1 à 28.]
+Q. Maintenant, pouvez-vous expliquer à la Cour c’est quoi ça?
+R. Ça effectivement, de mémoire, c’était... Lui là, ce qu’il a fait, c’est qu’il a changé. Il était avec H & R Block et puis à un moment donné, il n’était plus chez H & R Block et puis il a pris des nouveaux locaux qui étaient quasiment de biais, O.K., hein, l’autre bord de la rue, O.K., comme tel, dans un centre d’achat là.
+Q. Oui.
+R. Il avait un local là avec, je ne sais pas, une couple de bureaux et puis des professionnels qui semblaient travailler là. Ça fait que donc, de mémoire là, c'est ça, O.K., à ce moment-là, et puis c’était le nom de son entreprise, O.K., comme telle là.
+Q. Et si vous allez...
+SON HONNEUR: C’est l’entreprise du comptable ou de l’entreprise pour laquelle il travaillait lui?
+LE TÉMOIN: Son entreprise à lui. Il m’a toujours dit que c’était son entreprise à lui. Quand il a laissé H & R Block, ce qu’il m’a dit c’est qu’il... Il a ouvert... Il a ouvert sa firme. Il a ouvert sa compagnie. Puis c’est sa compagnie à lui.
+SON HONNEUR: Dites-moi, ce gars-là, est-ce que c’était un CA, c’était un CGA? Est-ce que...
+[Voir la transcription à la page 69, lignes 1 à 27, page 70, lignes 1 à 28, page 71, lignes 1 à 28, et page 72, lignes 1 à 3.]
+LE TÉMOIN: Vous me posez cette question-là et puis honnêtement là, je n’ai jamais vérifié ça. C’est parce que quand qu’il était chez H & R Block, pour moi, tu sais... Avant ça, je faisais affaires avec H & R Block. D’habitude, c’est toujours des... J’imagine que c’est des comptables qui sont là, O.K., comme tel. Lui, il se disait comptable. Mais je n’ai jamais demandé ses papiers parce que je le connaissais avant sur une base personnelle, dans le sens de sur une base... Il faisait des impôts sur une base... des impôts personnels, ça fait que donc... Depuis que j’étais à Repentigny. Ça fait que mettons de ’95, ’96, ’97, il n’y a rien qui change là, jusqu'en 2002, 2003, hein, où ça a commencé à changer.
+Q. Les Industries Flamenco, vous, est-ce que vous avez des actions là-dedans?
+R. Non.
+Q. Vous n’êtes pas actionnaire de cette---
+R. Non, non.
+Q. ---compagnie-là?
+R. Non. Je ne connais même pas c’est quoi exactement, tu sais? J’imagine que son entreprise, c’est comptable, le monde qui est là, comme tel.
+Q. Si vous allez à la page 14, vous avez un chèque payé à l’ordre de Capital Finances Services. Je ne sais pas... L’impression n’est pas fantastique, mais est-ce que vous êtes en mesure de reconnaître votre signature, Monsieur Vachon?
+R. Oui, ça c’est ma signature.
+Q. Capital Finances Services ça, c’est quoi?
+R. Facturation avril... Il a quitté Repentigny, O.K., comme tel, pour s’en aller à Terrebonne. J‘imagine que c’est ça, mais je...
+Q. Au meilleur de votre souvenir, Capital Finances Services...
+R. C’est la compagnie, l’autre compagnie dans laquelle il était là, O.K., comme tel.
+Q. « Il » étant?
+R. Daniel Simard.
+Q. Daniel Simard.
+R. Parce qu’il a quitté Repentigny pour s’en aller à Terrebonne à ce moment‑là.
+Q. Vous, est-ce que vous avez des actions dans Capital Finances Services?
+R. Non.
+Q. Puis si vous allez à la page 15, c’est un chèque qui est payable à ImpôtExpert. Est-ce que vous reconnaissez votre signature aussi?
+R. Oui. Comptabilité trimestrielle, O.K., comme telle, ImpôtExpert, oui. Honnêtement, je...
+Q. ImpôtExpert au meilleur de votre souvenir, est-ce que c’est M. Simard aussi?
+R. Oui, c’est lui ça.
+Q. Et vous, est-ce que vous avez des parts dans ImpôtExpert?
+R. Non, non.
+Q. O.K.
+R. Je ne me souviens pas de ce qu’il m’a conté. Il doit avoir changé la compagnie ou bien peu importe là.
+Q. Si vous allez à la page 20, c’est un chèque payable à Gestion PSC Inc.
+R. Page 20?
+Q. Page 20. Vous voyez ça, Gestion PSC Inc.?
+R. Oui.
+Q. Est-ce que vous êtes en mesure de reconnaître votre signature?
+R. Oui.
+Q. 3 500 $.
+R. Et puis en bas c’est quoi, « DAS---
+Q. « DAS ».
+R. ---Fédéral »?
+Q. « DAS Fédéral. »
+R. C’est quoi « DAS »?
+Q. Déductions à la source. Moi, c’est comme ça que je le comprends. Mais Gestion PSC,---
+R. Non.
+Q. ---est-ce que c’est un nom de compagnie qui vous a été mentionné par M. Simard ça?
+R. C’est sûr parce que, tu sais, si je faisais un chèque et puis je faisais un chèque à lui, je disais : « C’est à quel nom je le fais, O.K., comme tel? »
+[Je souligne.]
+[48] Dans un premier temps, l’appelant a été clair relativement au fait qu’il était sage, prudent et vigilant quant au travail de Simard. Il fait même référence au fait que de ne pas avoir de nouvelles de l’intimée validait en quelque sorte la qualité du travail de Simard. Voir la transcription à la page 58, lignes 1 à 6 :
+R. Oui, absolument. Bien je veux dire, Revenu Canada et tellement rapide d’habitude, s’il y aurait eu, mettons, une déclaration de revenus que j’aurais faite, qui n’aurait pas été correcte, je suis certain que Revenu Canada me serait revenu rapidement, O.K., à ce moment-là. Ils ne seraient pas revenus au comptable, mais ils seraient revenus à moi donc à ce niveau-là...
+[49] Dans un second temps, il est tout aussi clair et non équivoque que ses critères et réflexes de prudence se sont dilués au point de disparaître, et cela, sans raison aucune. Son absence de suivi significatif et démontré à l’endroit des lettres de Jean‑Paul Payette de la division de la vérification aux dates respectives du 2 avril, du 15 juin et du 11 septembre 2007 est très révélatrice.
+[50] L’argument voulant que le litige relatif à l’assurabilité de son travail expliquait et justifiait sa passivité n’est pas une excuse valable particulièrement pour une personne aussi qualifiée et débrouillarde que l’appelant.
+[51] Lorsque Simard est tombé malade, il aurait pu sinon dû contacter soit Payette, soit un autre comptable, et ce, particulièrement lorsqu’on l’a informé être incapable de fournir une date de retour au travail de Simard. L’appelant n’a-t-il pas lui-même affirmé que Simard était quelqu’un de discipliné, structuré, etc.? Il s’agissait là d’un revirement assez drastique qui aurait dû rendre suspecte une personne raisonnable.
+[52] À l’été 2007, lorsque le même Simard, décrit par l’appelant comme fiable, rapide, méthodique et discipliné, lui avoue avoir perdu son dossier, il aurait dû, encore là, réagir rapidement, énergétiquement, en communiquant avec l’intimée et/ou ses représentants.
+[53] Tout ce qui a suivi comme justifications et excuses m’apparaît superflu si ce n’est pour valider entièrement la négligence, l’imprudence et l’incurie, et pour constituer une faute dont le degré est satisfaisant pour permettre à l’intimée de cotiser en dehors de la période normale et statutaire.
+[54] Si l’appelant avait été l’homme prudent, vigilant et sans reproche, comme il l’a soutenu, il aurait dû, au moment où il a découvert certaines anomalies, irrégularités, etc., prendre l’initiative de vérifier et de valider la qualité et l’exactitude du travail fait par Simard au cours des dernières années.
+[55] À cet égard, l’appelant a lui-même soumis une preuve forte, pertinente et très révélatrice. En effet, la transcription des notes sténographiques, lors de l’enquête criminelle concernant Simard a permis de découvrir que Simard a fait face à la justice pénale à la suite de certains constats de l’un de ses clients qui manifestement peut être défini et décrit comme un individu ordinaire raisonnable. Pourtant, le constat de malversation a été fait très rapidement tout comme la dénonciation d’ailleurs. L’individu en question n’avait manifestement pas les mêmes atouts que l’appelant; pourtant, il a rapidement constaté et tout aussi rapidement dénoncé les malversations de Simard.
+[56] En résumé, l’appelant a bel et bien et manifestement fait une erreur en accordant sa confiance absolue à une personne qui d’une part ne la méritait pas et d’autre part, avait manifesté plusieurs signes qui auraient dû rendre une personne raisonnable suspecte.
+[57] Le choix de l’appelant est également fort discutable; en effet, une personne avisée sait ou devrait savoir que l’octroi d’un mandat à une personne non membre d’une association professionnelle telle que CA, CGA, etc. peut être très conséquent et s’avérer très coûteux. Le mandant assume l’entièreté de la responsabilité des faits et gestes des mandataires à l’exception des fautes de nature pénale ou criminelle. L’appelant avait les connaissances pour faire très rapidement une vérification adéquate. Il ne l’a pas fait. Il s’est contenté de présumer.
+[58] Certes, le mandant a un excellent recours en responsabilité civile; cependant, l’issue risque d’être très décevante si le mandataire est insolvable, ce qui semble être le cas en l’espèce. Or, le tiers n’est ni responsable ni assureur des faits et gestes du mandataire; conséquemment, l’appelant doit assumer toutes les conséquences de son imprudence.
+[59] Certes, Simard a pu être créatif et/ou imaginatif pour obtenir et conserver la confiance de l’appelant. Il a agi frauduleusement en mettant sur pieds différents stratagèmes. À cet effet, le même fraudeur a cependant été dénoncé facilement et rapidement par une autre personne, le tout établi par le propre expert de l’appelant.
+[60] Je ne crois pas que l’entrepreneur en question ait été un super détective enquêteur. Il a essentiellement agi à partir de réactions et de réflexes normaux et raisonnables, ce que l’appelant n’a pas fait.
+[61] Celui ou celle qui exécute le mandat que lui confie un contribuable pour s’occuper de compléter ses déclarations de revenus annuelles engage la responsabilité du mandant face aux tiers, dont l’Agence, nonobstant les droits de ce même mandant à l’endroit du mandataire en termes de responsabilité, notamment en matière du respect ou non des règles de l’art ou de toute autre erreur de méconnaissance ou d’une autre nature. En d’autres termes, tout ce qui est de nature civile et non pénale engage la responsabilité du mandant à l’endroit des tiers.
+[62] Il a plutôt préféré garder le silence à cet effet avec les personnes qui s’occupaient de son dossier relatif à l’assurabilité de son travail. Il a soutenu d’une manière non convaincante qu’il croyait qu’un règlement dans le dossier de l’assurabilité aurait pour effet également de régler son dossier fiscal. Cette passivité injustifiée était nourrie par des sentiments négatifs à l’endroit des autorités; en effet, l’appelant avait conclu qu’il faisait l’objet de harcèlement.
+[63] Il semble que l’appelant ait été beaucoup plus sévère avec le département de vérification de son dossier qu’avec son comptable. Interprétant leurs différentes demandes comme du véritable harcèlement, il n’a pas cru bon de questionner la compétence de son propre représentant qui pourtant lui avait démontré certains signes beaucoup plus inquiétants et suspects.
+[64] Point très étonnant que j’ai d’ailleurs soulevé séance tenante, l’appelant a acquis une réputation exceptionnelle auprès de nombreuses entreprises pour lesquelles il a relevé plusieurs défis tout aussi exceptionnels. Par contre, lorsqu’il est question de son dossier fiscal pourtant très simple, sa mémoire devient sélective, ses explications incomplètes et confuses; bien plus, il est tout à fait impossible de réconcilier les réponses quant à l’importance accordée à ses déclarations de revenus annuelles.
+[65] Dans un premier temps, il affirme qu’il vérifiait, analysait, questionnait et validait par sa signature la qualité du travail de Simard. Dans un deuxième temps, sous prétexte qu’il avait confiance à Simard, il signait aveuglément aux endroits indiqués, ne gardait pas de copie, etc., et faisait des chèques à des personnes qui n’en étaient pas les bénéficiaires.
+[66] De pareilles contradictions minent la crédibilité de l’appelant quant à l’intérêt, à l’attention consacrée ou investie à l’endroit de ses obligations fiscales, le tout ayant pour effet de valider les nombreux éléments qui globalement constituent un degré de faute suffisamment grave pour conclure que l’intimée a relevé le fardeau de preuve lui permettant de cotiser hors les délais statutaires. En l’espèce, la tolérance excessive et la confiance injustifiée et démesurée de l’appelant à l’endroit de Simard constituent une faute suffisamment grave pour permettre à l’intimée de cotiser hors délai. Conséquemment, il m’apparaît approprié et justifié de conclure au degré de faute ou d’erreur suffisamment grave pour permettre d’écarter les bénéfices de prescriptions prévus au sous-alinéa 152(4)a)(i) de la Loi.
+Pénalités
+[67] La preuve a établi d’une manière non équivoque que l’appelant a fait l’objet d’une fraude. L’appelant réclame également l’annulation des pénalités ajoutées aux cotisations.
+[68] Les différents griefs reprochés à l’appelant dont notamment son absence de vigilance, un certain degré de témérité, voire d’indifférence, lui sont imputables d’une part et, d’autre part, ce sont là des éléments qui ont certainement contribué à faciliter le stratagème de Simard.
+[69] Pour ce qui est des pénalités, il en est cependant tout autrement; en effet, les manquements de l’appelant, son absence de vigilance quant à son attitude et à son comportement avec Simard, ne m’apparaissent pas avoir le degré de gravité requis pour justifier l’imposition de pénalités.
+[70] Bien que l’on ne puisse pas faire référence à la mens rea, élément essentiel en droit criminel, il m’apparaît important pour justifier les pénalités en matière fiscale que la personne visée ait manifesté, sous une forme soit passive ou active, un minimum d’intention de vouloir cacher certaines données ayant un impact direct sur son dû fiscal.
+[71] L’aveuglement volontaire, l’absence de vigilance, la confiance indue ou injustifiée à l’endroit d’un mandataire sont des facteurs qui, selon les circonstances, peuvent correspondre à une telle faute lourde justifiant l’imposition de pénalités.
+[72] En l’espèce, je crois l’appelant lorsqu’il affirme qu’il n’a jamais eu l’intention ou le vouloir d’éluder une partie de son dû fiscal.
+[73] L’appelant est-il pour autant imputable des pénalités dont le principal responsable est Simard, qui a manifestement tout orchestré pour frauder l’appelant qui, par contre, je le rappelle a en quelque sorte été le propre artisan de son malheur?
+[74] Malgré cela, je réponds par la négative étant donné qu’il m’apparaît très difficile, sinon impossible, de conclure à la faute lourde ou à une quelconque intention de se soustraire volontairement et/ou sciemment à ses obligations fiscales. Témérité, absence de vigilance, imprudence manifestées par l’appelant ne constituent pas une faute lourde au sens des dispositions prévues par le paragraphe 162(2) de la Loi.
+[75] L’absence de vigilance, l’imprudence, voire une certaine insouciance, ne sont pas des griefs suffisamment graves pour imposer une pénalité en l’absence d’intention malveillante.
+[76] L’imposition de pénalités requiert un degré de faute selon lequel l’insouciance reprochée doit être importante et téméraire au point qu’il soit possible de déceler un certain degré de complicité tout au moins tacite permettant de conclure à l’aveuglement volontaire.
+[77] En l’espèce, l’appelant très expérimenté, très scolarisé et possédant des aptitudes particulières pour évaluer la compétence en matière de ressources humaines aurait manifestement dû mettre en pratique sa propre expertise qui lui aurait très rapidement permis de découvrir la fraude et les abus nombreux et grossiers de son comptable. Malgré cette réalité, il n’y a aucun doute que l’appelant ne voulait pas échapper à son fardeau fiscal au profit de Simard.
+[78] Pénalité sous-entend faute lourde, erreur volontaire, négligence grossière, aveuglement volontaire, etc. Le fondement de l’imposition d’une pénalité est une notion qui se rapproche du droit pénal.
+[79] Or, le droit pénal est un domaine où les règles sont particulières. D’entrée de jeu, en matière fiscale, le fardeau de la preuve est sur les épaules de l’intimée et non sur le contribuable que l’on veut assujettir à la pénalité.
+[80] En matière fiscale, le degré de preuve requis est celui de la prépondérance alors qu’en matière pénale le degré de preuve est beaucoup plus exigeant; on parle d’une preuve hors de tout doute raisonnable.
+[81] En matière fiscale, la règle du hors de tout doute raisonnable n’est aucunement requise; par contre, il doit y avoir une prépondérance selon laquelle la personne que l’on veut y assujettir ait commis une faute d’un certain degré d’où il est question d’une faute lourde et non d’une faute découlant d’une absence de vigilance.
+[82] En matière de pénalités, à moins que le mandant soit complice ou associé de manière tacite ou expresse aux faits et gestes reprochés et imputables au mandataire, ou qu’il tire avantages du stratagème, le mandant ne peut assumer la responsabilité pénale découlant des faits et gestes du mandataire qui s’enrichit au détriment de son mandant.
+[83] En l’espèce, il m’apparaît évident qu’une telle complicité n’était pas présente. La négligence et l’imprudence de l’appelant ne sont pas suffisantes pour conclure à l’aveuglement volontaire; en effet, il serait déraisonnable de croire qu’une personne accepte de manière volontaire ou involontaire que la somme à payer pour ses dettes fiscales bénéficie à quelqu’un autre.
+[84] Pour toutes ces raisons, l’appel est accueilli, en ce que les pénalités sont annulées; quant à tous les autres éléments des cotisations, ils demeurent inchangés, le tout étant néanmoins sujet au consentement ci-joint intervenu entre les parties pour l’année d’imposition 2002, avec dépens en faveur de l’intimée.
+Signé à Ottawa, Canada, ce 24e jour d’octobre 2013.
+« Alain Tardif »
+Juge Tardif
+2011-1901(IT)G
+COUR CANADIENNE DE L’IMPÔT
+ENTRE :
+NORMAND VACHON,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+CONSENTEMENT À JUGEMENT
+(Année 2002)
+Les parties consentent à ce que la Cour rende jugement, accueillant l’appel à l’encontre de la cotisation pour l’année 2002 et déferrant le tout au ministre du Revenu national pour nouvel examen et nouvelle cotisation à établie de la façon suivante :
+Revenu d’emploi :
+33 677 $
+Revenu d’entreprise brut :
+312 514 $
+Dépenses totales :
+27 365 $
+Revenu d’entreprise net :
+285 150 $
+Revenu total :
+318 827 $
+À tout autre égard, la nouvelle cotisation demeure inchangée.
+LE TOUT SANS FRAIS.
+Montréal, le 8 mai 2013
+Par : (Signature)________________
+Dominic C. Belley
+Montréal, le 8 mai 2013
+William F. Pentney
+Sous-procureur général du Canada
+Procureur de l’intimée
+Par : (Signature)
+Anne Poirier
+Avocate
+RÉFÉRENCE : 2013 CCI 330
+Nº DU DOSSIER DE LA COUR : 2011-1901(IT)G
+INTITULÉ DE LA CAUSE : NORMAND VACHON c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATES DE L’AUDIENCE : Les 7 et 8 mai 2013
+MOTIFS DU JUGEMENT PAR : L'honorable juge Alain Tardif
+DATE DU JUGEMENT : Le 24 octobre 2013
+COMPARUTIONS :
+Avocats de l'appelant :
+Me Dominic C. Belley
+Me Vincent Dionne
+Avocat de l’intimée :
+Me Anne Poirier
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelant :
+Noms : Me Dominic Belley
+Me Vincent Dionne
+Cabinet : Norton Rose Fulbright Canada
+Montréal (Québec)
+Pour l’intimée : William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada

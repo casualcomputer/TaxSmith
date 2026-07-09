@@ -1,0 +1,171 @@
+Title: Abrametz v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27675/index.do
+Corpus path: corpus/cases/tcc/2007/2007-tcc-316-27675-abrametz-v-the-queen-en.md
+Document type: case_law
+Last modified: 2007-06-05
+
+# Abrametz v. The Queen
+
+- Citation: 2007 TCC 316
+- Decision date: 2007-06-05
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 496, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Abrametz v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-06-05
+Neutral citation
+2007 TCC 316
+File numbers
+2003-835(GST)G
+Judges and Taxing Officers
+Georgette Anne Sheridan
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2003-835(GST)G
+BETWEEN:
+PETER V. ABRAMETZ,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on October 31, 2006 at Prince Albert, Saskatchewan
+Before: The Honourable Justice G. Sheridan.
+Appearances:
+Counsel for the Appellant:
+James H.W. Sanderson
+Counsel for the Respondent:
+Lyle Bouvier
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Excise Tax Act, notice of which bears the number 68370, is dismissed, with costs to the Respondent in accordance with the attached Reasons for Judgment.
+Signed at Saskatoon, Saskatchewan, this 5th day of June, 2007.
+"G. Sheridan"
+Sheridan, J.
+Citation: 2007TCC316
+Date: 20070605
+Docket: 2003-835(GST)G
+BETWEEN:
+PETER V. ABRAMETZ,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Sheridan, J.
+[1] The Appellant, Peter V. Abrametz, is appealing Notice of Assessment No. 68370 made by the Minister of National Revenue pursuant to the Excise Tax Act. According to the Minister, the Appellant is liable under subsection 323(1) of the Act as the sole director of Mada Construction Company Ltd. (the "Corporation") for its failure to remit net tax for the period May 1, 1991 to October 31, 1994, together with interest and penalties.
+[2] The Minister based his assessment upon the assumptions set out in paragraph 9 of the Reply to the Notice of Appeal:
+…
+b) at all material times the Appellant was the sole director of the Corporation;
+c) at all material times the Appellant was the sole shareholder of the Corporation;
+d) the Corporation was incorporated in the Province of Saskatchewan on February 6, 1991;
+e) the Corporation was struck from the registry of the Saskatchewan Corporations Branch on July 29, 1994;
+f) the Corporation was engaged in the construction of homes and buildings;
+g) the Corporation was a registrant for the purposes of the Act effective January 1, 1991 under GST registration number 127799203;
+h) at all material times the Corporation was engaged in commercial activities and made supplies which were taxable at 7 percent;
+i) at all material times the Corporation collected tax pursuant to Part IX of the Act on the supplies it made;
+j) the Corporation was required to file its return on a quarterly basis and had a fiscal year ending October 31;
+k) the Corporation failed to file returns on time, and failed to remit net tax, and interest and penalties relating thereto, as follows:
+Period
+Ending
+Return Due
+Return Filed
+Net Tax
+Interest
+Penalty
+Balance
+31-Jan-92
+28-Feb-92
+12-July-94
+6,700.36
+12,238.36
+14,318.32
+33,257.04
+30-April-92
+31-May-92
+12-July-94
+0.00
+198.42
+240.57
+438.99
+31-July-92
+31-Aug-92
+23-Feb-95
+1,574.58
+1,539.51
+1,861.82
+4,975.91
+31-Oct-92
+30-Nov-92
+23-Feb-95
+598.52
+487.13
+589.93
+1,675.58
+31-Oct-94
+30-Nov-94
+28-Mar-95
+16,706.13
+22,788.72
+26,801.90
+66,296.75
+25,579.59
+37,252.14
+43,812.54
+106,644.27
+l) The Corporation filed returns reporting its net tax for reporting periods ending between May 1, 1991 to October 31, as set out in Schedule A;
+m) The Corporation failed to remit amounts reported as positive net tax on its returns filed for the reporting periods ending between May 1, 1991 to October 31, 1994;
+n) By Notice of Assessment dated December 13, 1996, the Corporation was assessed additional net tax in the amount of $16,706.13 as set out in Schedule A;
+o) The additional net tax referred to in the previous subparagraphs was included as part of the net tax payable for the period ending October 31, 1994;
+p) The Director's liability assessment issued to the Appellant includes the net tax the Corporation failed to remit to the Receiver General for the reporting periods ending between May 1, 1991 to October 31, 1994;
+q) on June 6, 1996, March 4, 1997 and November 21, 2001, the Minister issued certificates (the "Certificates") under section 316 of the Act certifying amounts of the Corporation's liability for unremitted net tax interest and penalties;
+r) the Certificates were registered against the Corporation in the Federal Court of Canada on June 6, 1996, March 4, 1997, and November 21, 2001, respectively;
+s) Writs of Fieri Facias were issued by the Federal Court of Canada against the Corporation on June 6, 1996, March 13, 1997, and November 21, 2001, respectively;
+t) execution against the Corporation remains unsatisfied in whole or in part;
+u) the Appellant was actively involved in the operations of the Corporation;
+v) the Appellant failed to ensure that the Corporation had any system to ensure the proper collecting, reporting and remittance of net tax;
+w) the Appellant is jointly and severally liable with the Corporation to pay the unremitted net tax and unpaid interest and penalties relating thereto; and
+x) the Appellant did not exercise the degree of care, diligence and skill to prevent the failure by the Corporation to remit the amounts itemized in paragraph 9(k) above, that a reasonably prudent person would have exercised in comparable circumstances.
+[3] At the hearing, counsel for the Appellant advised the Court that the Appellant was going to base his challenge of the assessment solely on the ground of the incorrectness of the audit and assessment of the GST owed by the Corporation. Accordingly, the Appellant presented no evidence to refute the Minister's assumptions with respect to the Appellant's lack of due diligence.
+[4] The first hurdle faced by the Appellant is a legal one: whether the Appellant may call into question the correctness of the corporate assessment in challenging the validity of the assessment made against him as a director of the corporate taxpayer. As both counsel noted in their submissions, the case law is divided on this point[1]. In my view, however, given that the corporate assessment lies at the root of the assessment against the director taxpayer, it is both just and sensible that it ought to be open to challenge as part of the taxpayer's appeal of his own tax liability. As Rothstein, J.A. (as he then was) stated in Gaucher v. R.:
+[6] ... It is a basic rule of natural justice that, barring a statutory provision to the contrary, a person who is not a party to litigation cannot be bound by a judgment between other parties. The appellant was not a party to the reassessment proceedings between the Minister and her former husband. Those proceedings did not purport to impose any liability on her. While she may have been a witness in those proceedings, she was not a party, and hence could not in those proceedings raise defences to her former husband's assessment.
+[7] When the Minister issues a derivative assessment under subsection 160(1), a special statutory provision is invoked entitling the Minister to seek payment from a second person for the tax assessed against the primary tax payer. That second person must have a full right of defence to challenge the assessment made against her, including an attack on the primary assessment on which the second person's assessment is based.
+[8] This view has been expressed by Judges of the Tax Court. See, for example, Acton v. The Queen (1994), 95 D.T.C. 107, at 108 per Bowman T.C.C.J.; Ramey v. The Queen (1993), 93 D.T.C. 791, at 792 per Bowman T.C.C.J.; Thorsteinson v. M.N.R. (1980), 80 D.T.C. 1369, at 1372 per Taylor T.C.C.J. While the contrary view was expressed in Schafer (A.) v. Canada, [1998] G.S.T.C. 7-1, at 7-9 (appeal dismissed for delay (August 30, 1999), A-258-98 (F.C.A.)), I am of the respectful opinion that such view is in error. It seems to me that this approach fails to appreciate that what is at issue are two separate assessments between the Minister and two different taxpayers. Once the assessment against the primary taxpayer is finalized, either because the primary taxpayer does not appeal the assessment, or the assessment is confirmed by the Tax Court (or a higher court if further appealed), that assessment is final and binding between the primary taxpayer and the Minister. An assessment issued under subsection 160(1) against a secondary taxpayer cannot affect the assessment between the Minister and the primary taxpayer.
+[9] By the same token, since the secondary taxpayer was not a party in the proceedings between the Minister and the primary taxpayer, she is not bound by the assessment against the primary taxpayer. The secondary taxpayer is entitled to raise any defence that the primary taxpayer could have raised against the primary assessment. The result may be that the assessment against the secondary taxpayer is quashed or is found to be for a lesser amount than the assessment against the primary taxpayer. That, of course, will have no effect on the assessment against the primary tax payer against whom the primary assessment was final and binding.
+[5] The next step, then, is for the Appellant to discharge his onus of proving wrong the amounts assessed against the Corporation as set out in subparagraphs 9(g) to (p) of the Reply to the Notice of Appeal. The Appellant did not testify. The only witness called was Mr. Reid McLeod, a chartered accountant with nearly 30 years experience. He was very careful and candid in his description of the scope of his analysis in respect of the Corporation's assessment. I found his testimony was entirely credible; the weakness of his evidence lay in the limited nature of his involvement with the Corporation and of the information provided by the Appellant for his review.
+[6] Mr. McLeod had had no dealings with the Corporation prior to the Appellant's instructions in 2001 that he review the Corporation's GST audit report. He testified that the materials provided to him were "very disorganized" and his review was "very much confined to the audit working papers received from Revenue Canada and comparing the deposit analysis they made with the bank statements from the Royal Bank and the bank statements from the Prince Albert Credit Union"[2]. He was not given the Corporation's financial statements or other corporate records to compare to the bank statements. He stated that from the material provided by the Appellant, he was not in a position to say whether the GST returns filed by the Corporation were correct. He agreed with counsel for the Respondent that he had essentially attempted to work backwards from the assessment and expressed the opinion that this was not the best way to do things.
+[7] In view of the evidence of the Appellant's own witness, I am unable to conclude what, if any, errors were made in the Minister's assessment of the Corporation's GST liability or to what extent they might have altered the amounts assumed in subparagraph 9(k) of the Reply to the Notice of Appeal. Accordingly, there is insufficient evidence that the Minister's assessment of the Corporation was incorrect. As that was the sole ground of the Appellant's appeal, it is dismissed, with costs to the Respondent.
+Signed at Saskatoon, Saskatchewan, this 5th day of June, 2007.
+"G. Sheridan"
+Sheridan, J.
+CITATION: 2007TCC316
+COURT FILE NO.: 2003-835(GST)G
+STYLE OF CAUSE: PETER V. ABRAMETZ AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Prince Albert, Saskatchewan
+DATE OF HEARING: October 31, 2006
+REASONS FOR JUDGMENT BY: The Honourable Justice G. Sheridan
+DATE OF JUDGMENT: June 5, 2007
+APPEARANCES:
+Counsel for the Appellant:
+James H. W. Sanderson
+Counsel for the Respondent:
+Lyle Bouvier
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Sanderson, Balicki, Popescul
+Prince Albert, Saskatchewan
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Gaucher v. R., 2000 DTC 6678; Kern v. R., 2005 DTC 754; Lau v. R., 2002 DTC 2212; Maillé c. R., 2005 G.T.C. 888; Parisien c. R., [2004] G.S.T.C. 45; Schuster v. R., [2001] G.S.T.C. 91; Wiens v. R., [2003] G.S.T.C. 121; Zaborniak v. R., [2004] G.S.T.C. 110.
+[2] Transcript page 24, lines 15-19.

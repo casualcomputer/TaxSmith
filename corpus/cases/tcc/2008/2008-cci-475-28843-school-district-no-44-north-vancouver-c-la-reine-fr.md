@@ -1,0 +1,310 @@
+---
+title: "School District No. 44 (North Vancouver) c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28843/index.do"
+last_modified: "2008-08-25"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 CCI 475"
+citation2: ""
+neutral_citation: "2008 CCI 475"
+decision_date: "2008-08-25"
+language: "fr"
+item_id: "28843"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1353
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T10:28:02.429000+00:00"
+cases_cited_count: 6
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "1f3df05030b4743289a56a46ef19a5318feac0131675ef543b93357d39ea2067"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# School District No. 44 (North Vancouver) c. La Reine
+
+- Citation: 2008 CCI 475
+- Decision date: 2008-08-25
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1353, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+School District No. 44 (North Vancouver) c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-08-25
+Référence neutre
+2008 CCI 475
+Numéro de dossier
+2004-3012(GST)G
+Juges et Officiers taxateurs
+Judith Woods
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2004-3012(GST)G
+ENTRE :
+SCHOOL DISTRICT NO. 44 (NORTH VANCOUVER),
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle]
+____________________________________________________________________
+Appel entendu à Vancouver (Colombie‑Britannique), les 23, 24 et 25 janvier 2008.
+Devant : L’honorable juge Judith Woods
+Comparutions :
+Avocat de l’appelant :
+Me David E. Graham
+Avocates de l’intimée :
+Me Susan Wong
+Me Selena Sit
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’égard d’une cotisation établie en vertu de la Loi sur la taxe d’accise et dont l’avis est daté du 31 mars 2003 est rejeté.
+Signé à Ottawa, Canada, ce 25e jour d’août 2008.
+« J. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 12e jour de juin 2009.
+Mario Lagacé, jurilinguiste.
+Dossier : 2004-3079(GST)G
+ENTRE :
+TORONTO DISTRICT SCHOOL BOARD,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle]
+____________________________________________________________________
+Appel entendu à Vancouver (Colombie‑Britannique), les 23, 24 et 25 janvier 2008.
+Devant : L’honorable juge Judith Woods
+Comparutions :
+Avocat de l’appelant :
+Me David E. Graham
+Avocates de l’intimée :
+Me Susan Wong
+Me Selena Sit
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’égard d’une cotisation établie en vertu de la Loi sur la taxe d’accise et dont l’avis est daté du 7 avril 2003 est rejeté.
+Signé à Ottawa, Canada, ce 25e jour d’août 2008.
+« J. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 12e jour de juin 2009.
+Mario Lagacé, jurilinguiste
+Dossiers : 2004-3582(GST)G
+2004-3583(GST)G
+ENTRE :
+SCHOOL DISTRICT NO. 39 (VANCOUVER),
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle]
+____________________________________________________________________
+Appel entendu à Vancouver (Colombie‑Britannique), les 23, 24 et 25 janvier 2008.
+Devant : L’honorable juge Judith Woods
+Comparutions :
+Avocat de l’appelant :
+Me David E. Graham
+Avocates de l’intimée :
+Me Susan Wong
+Me Selena Sit
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’égard de cotisations établies en vertu de la Loi sur la taxe d’accise et dont les avis sont datés du 1er avril 2003 et du 24 juillet 2003 est rejeté.
+Signé à Ottawa, Canada, ce 25e jour d’août 2008.
+« J. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 12e jour de juin 2009.
+Mario Lagacé, jurilinguiste.
+Référence : 2008CCI475
+Date : 20080825
+Dossiers : 2004-3012(GST)G
+2004-3079(GST)G
+2004-3582(GST)G
+2004-3583(GST)G
+ENTRE :
+SCHOOL DISTRICT NO. 44 (NORTH VANCOUVER),
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée;
+ET ENTRE :
+TORONTO DISTRICT SCHOOL BOARD,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée;
+ET ENTRE :
+SCHOOL DISTRICT NO. 39 (VANCOUVER),
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée;
+ET ENTRE :
+SCHOOL DISTRICT NO. 39 (VANCOUVER),
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle]
+MOTIFS DU JUGEMENT
+La juge Woods
+[1] Par les présents appels, les conseils scolaires des districts de Vancouver, de North Vancouver et de Toronto cherchent à obtenir des remboursements de la taxe sur les produits et services (la « TPS ») qu’ils affirment avoir payée par erreur relativement à des droits d’inscription à des cours d’éducation permanente pour adultes. Les appels interjetés par les trois conseils scolaires ont été entendus conjointement, mais sur preuves distinctes.
+[2] En l’espèce, deux questions indépendantes se posent :
+1. Les droits d’inscription sont-ils exonérés de TPS en vertu de l’article 10 de la partie VI de l’annexe V de la Loi sur la taxe d’accise (la « Loi »)? Cette disposition exonère les fournitures de biens ou de services faites par un organisme du secteur public si la totalité, ou presque, des fournitures sont effectuées à titre gratuit.
+2. Qui, des conseils scolaires ou des élèves inscrits aux cours, était assujetti à la TPS? Les appelants reconnaissent qu’ils n’ont pas droit aux remboursements de TPS à moins d’avoir été assujettis à la taxe : West Windsor Urgent Care Centre Inc. c. La Reine, 2008 CAF 11, [2008] GSTC 6.
+Contexte général
+[3] Chacun des conseils scolaires ayant interjeté appel administre des écoles primaires et secondaires dans son secteur. Ils constituent ainsi tous des « administrations scolaires » et des « organismes du secteur public » au sens du paragraphe 123(1) de la Loi.
+[4] En plus de fournir des services d’éducation primaire et secondaire à titre gratuit, les appelants fournissent des services d’éducation permanente pour adultes pour lesquels ils perçoivent des droits.
+[5] Dans leurs programmes d’éducation permanente, les appelants offrent une grande variété de cours d’intérêt général auxquels il est possible de s’inscrire à la pièce. Le contenu de certains de ces cours ressemble à celui de cours offerts au secondaire (l’espagnol, par exemple), alors que d’autres cours portent sur des sujets s’apparentant davantage aux loisirs (le bridge, par exemple).
+[6] Durant les périodes pertinentes, les appelants traitaient les droits d’inscription aux cours d’éducation permanente comme si ces droits étaient assujettis à la TPS, et ils versaient la taxe au gouvernement de la façon habituelle. Aucune TPS n’était versée pour les cours d’anglais et de français langue seconde, ce genre de cours étant expressément exonéré de TPS par la loi (voir l’article 11 de la partie III de l’annexe V de la Loi).
+[7] Au début de 2003, les appelants ont conclu qu’ils avaient mal géré la TPS relative aux cours d’éducation permanente et qu’ils avaient commis une erreur en versant la taxe. Ils ont alors pris des mesures pour récupérer la TPS qu’ils avaient déjà versée, et ce, à l’intérieur des périodes de prescription pertinentes établies par la loi.
+[8] Les appelants ont présenté des demandes de remboursement en vertu de l’article 261 de la Loi pour la période allant du 1er janvier 2001 au 31 janvier 2003. De plus, le conseil scolaire de Vancouver a présenté une demande de remboursement supplémentaire pour la TPS qu’il avait versée durant la période allant du 1er décembre 1999 au 31 décembre 2000. Cette demande supplémentaire a été formulée dans l’avis d’opposition relatif à la période de déclaration de juillet 2002.
+[9] Le ministre du Revenu national (le « ministre ») a rejeté toutes les demandes de remboursement. Les sommes en cause sont les suivantes :
+Conseil scolaire
+Remboursement demandé
+School District No. 44 (North Vancouver)
+60 440 $
+Toronto District School Board
+333 921 $
+School District No. 39 (Vancouver)
+430 357 $
+Question 1 – Les droits d’inscription aux cours sont-ils exonérés?
+[10] Les appelants soutiennent que les droits d’inscription perçus à l’égard de cours d’éducation permanente sont admissibles à l’exonération visant les organismes du secteur public prévue à l’article 10 de la partie VI de l’annexe V de la Loi (l’« article 10 »).
+[11] Essentiellement, l’article 10 prévoit que les fournitures de biens ou de services qui sont habituellement fournis à titre gratuit par un organisme du secteur public sont exonérées de TPS. Cette disposition est ainsi rédigée :
+10 [Fourniture à titre gratuit] – La fourniture par un organisme du secteur public de biens ou services, sauf la fourniture de sang ou de dérivés du sang, si la totalité, ou presque, des fournitures des biens ou services sont effectuées par l’organisme à titre gratuit.
+[12] Les appelants fondent leur position sur le fait que la grande majorité de leurs cours sont offerts aux élèves du primaire et du secondaire à titre gratuit. Ils soutiennent donc que les quelques cours pour lesquels ils perçoivent des droits d’inscription sont visés par l’exonération prévue à l’article 10.
+[13] L’intimée ne conteste pas le fait que les appelants offrent la quasi‑totalité de leurs cours à titre gratuit. Toutefois, l’intimée remet en cause l’applicabilité de l’article 10 aux cours d’éducation permanente en disant que ceux‑ci constituent des cours « d’une catégorie et d’un type » différent des cours offerts aux élèves du primaire et du secondaire.
+[14] Selon les observations de l’intimée, l’article 10 ne devrait pas être interprété comme exonérant les cours d’éducation permanente pour adultes parce que cela serait contraire à l’objet et à l’esprit de la loi, qui est d’assujettir à la TPS les cours qui ne s’adressent pas principalement aux élèves du primaire et du secondaire. L’avocate de l’intimée a soutenu qu’il faudrait interpréter l’exonération de façon plus restreinte, de façon à ce qu’elle ne vise que les cours de la même catégorie et du même type que ceux qui sont offerts à titre gratuit.
+Interprétation législative
+[15] Les principes d’interprétation des lois qui doivent être suivis dans les affaires comme celle‑ci ont été énoncés dans Ministre des Finances (Ontario) c. Placer Dome Canada Ltd., 2006 CSC 20, 2006 DTC 6532. Les paragraphes pertinents de cet arrêt sont ainsi rédigés :
+[21] Dans l’arrêt Stubart Investments Ltd. c. La Reine, [1984] 1 R.C.S. 536, notre Cour a rejeté l’approche restrictive en matière d’interprétation des lois fiscales et a statué que la méthode d’interprétation moderne s’applique autant à ces lois qu’aux autres lois. En d’autres termes, « il faut lire les termes d’une loi dans leur contexte global en suivant le sens ordinaire et grammatical qui s’harmonise avec l’esprit de la loi, l’objet de la loi et l’intention du législateur » (p. 578) : voir l’arrêt 65302 British Columbia Ltd. c. Canada, [1999] 3 R.C.S. 804, par. 50. Toutefois, le caractère détaillé et précis de nombreuses dispositions fiscales a souvent incité à mettre davantage l’accent sur l’interprétation textuelle : Hypothèques Trustco Canada c. Canada, [2005] 2 R.C.S. 601, 2005 CSC 54, par. 11. Les contribuables ont le droit de s’en remettre au sens clair des dispositions fiscales pour organiser leurs affaires. Lorsqu’il est précis et non équivoque, le texte d’une loi joue un rôle primordial dans le processus d’interprétation.
+[22] Par contre, lorsque le texte d’une loi peut recevoir plus d’une interprétation raisonnable, le sens ordinaire des mots joue un rôle moins important et il peut devenir nécessaire de se référer davantage au contexte et à l’objet de la Loi : Trustco Canada, par. 10. De plus, comme la juge en chef McLachlin l’a fait remarquer au par. 47, « [m]ême lorsque le sens de certaines dispositions peut paraître non ambigu à première vue, le contexte et l’objet de la loi peuvent révéler ou dissiper des ambiguïtés latentes ». La Juge en chef a ensuite expliqué que, pour dissiper les ambiguïtés explicites ou latentes d’une mesure législative fiscale, « les tribunaux doivent adopter une méthode d’interprétation législative textuelle, contextuelle et téléologique unifiée ».
+[23] Le degré de précision et de clarté du libellé d’une disposition fiscale influe donc sur la méthode d’interprétation. Lorsque le sens d’une telle disposition ou son application aux faits ne présente aucune ambiguïté, il suffit de l’appliquer. La mention de l’objet de la disposition [TRADUCTION] « ne peut pas servir à créer une exception tacite à ce qui est clairement prescrit » : voir P. W. Hogg, J. E. Magee et J. Li, Principles of Canadian Income Tax Law (5e éd. 2005), p. 569; Shell Canada Ltée c. Canada, [1999] 3 R.C.S. 622. Lorsque, comme en l’espèce, la disposition peut recevoir plus d’une interprétation raisonnable, il faut accorder plus d’importance au contexte, à l’économie et à l’objet de la loi en question. Par conséquent, l’objet d’une loi peut servir non pas à mettre de côté le texte clair d’une disposition, mais à donner l’interprétation la plus plausible à une disposition ambiguë.
+[24] Bien qu’il existe une présomption résiduelle en faveur du contribuable, elle demeure seulement résiduelle et ne s’applique donc que dans le cas exceptionnel où les principes d’interprétation ordinaires ne permettent pas de régler la question en litige : Notre‑Dame de Bon‑Secours, p. 19. Tout doute concernant le sens d’une loi fiscale doit être raisonnable et la présomption ne peut être invoquée que si l’application des règles d’interprétation habituelles n’a pas permis de déterminer le sens de la disposition en cause. J’estime qu’en l’espèce la présomption résiduelle n’est d’aucune utilité à PDC puisque l’application des règles ordinaires d’interprétation législative permet de dissiper l’ambiguïté de la Loi de l’impôt sur l’exploitation minière. Je reviendrai sur cette question plus loin.
+Régime législatif
+[16] Lorsque la TPS a été établie en 1989, le ministre des Finances de l’époque, l’honorable Michael H. Wilson, a publié un document explicatif qui incluait une description des objectifs de politique généraux à l’égard des organismes du secteur public comme les appelants (Taxe sur les produits et services – Vue d’ensemble, Gouvernement du Canada, août 1989). Selon ce document, la nouvelle législation avait pour but d’exonérer les fournitures non commerciales de services effectuées par les organismes du secteur public, et de faire en sorte que tous les services soient traités de manière uniforme, qu’ils soient offerts par le secteur public ou privé.
+[17] C’est ce qu’expose l’extrait suivant tiré de ce document :
+9. Le secteur public
+Au Canada, le secteur public se compose des gouvernements fédéral et provinciaux, ainsi que de divers autres organismes publics – les municipalités, les écoles, les collèges, les universités et les hôpitaux, qui exercent toutes sortes d’activités. Dans le contexte de la TPS, le secteur public pose un problème bien particulier. D’un côté, conformément aux principes d’une taxe à la consommation s’appliquant à une large assiette, le gouvernement fédéral doit veiller à ce que la TPS s’applique de manière équitable et uniforme aux fournitures commerciales faites aussi bien par le secteur public que par le secteur privé – afin d’assurer l’équité concurrentielle et de réduire les distorsions dues à la taxe. Par ailleurs, dans la structure de la TPS, le gouvernement doit tenir compte du rôle spécial que les organismes publics jouent dans notre société et, donc, veiller à ce que le système de taxation ne nuise pas aux activités non commerciales de ces organismes.
+9.1 Ventes du secteur public
+a) Principe général
+Dans la mesure où les gouvernements et leurs organismes exercent des activités commerciales, ils devraient être assujettis aux mêmes règles générales que les organismes du secteur privé. Tout comme dans le secteur privé, à l’exception des fournitures qui seront détaxées (par exemple les produits alimentaires de base) ou exonérées (par exemple les services de garderie), les fournitures faites par les gouvernements seront généralement assujetties à la TPS, si elles sont effectuées dans le cadre d’une activité commerciale.
+Ce principe préservera l’équité concurrentielle en permettant de s’assurer qu’une certaine fourniture est soumise au même régime, sur le plan de la TPS, peu importe qu’elle provienne du secteur privé ou du secteur public. Autrement dit, le statut fiscal d’une fourniture dépendra principalement de sa nature et non de celle de l’organisme qui l’effectue.
+[…]
+[18] L’annexe V de la Loi comprend un certain nombre de parties, et chacune d’elles énumère divers biens ou services exonérés de TPS. Deux de ces parties sont pertinentes en l’espèce, la partie III (services d’enseignement) et la partie VI (organismes du secteur public). Les biens et les services fournis par les appelants pourraient être exonérés par l’une ou l’autre de ces parties.
+[19] Quant aux exonérations qui s’appliquent spécifiquement aux services d’enseignement fournis par les appelants, c’est l’article 2 de la partie III qui prévoit l’exonération générale pour les cours offerts aux élèves du primaire et du secondaire. Cet article est ainsi rédigé :
+2 [Services consistant à donner des cours] – La fourniture par une administration scolaire d’une province d’un service consistant à donner à des particuliers des cours s’adressant principalement aux élèves du primaire ou du secondaire.
+[20] Puisque cette exonération est limitée aux cours s’adressant principalement aux élèves du primaire et du secondaire, elle ne s’applique pas aux cours d’éducation permanente pour adultes, étant donné que ceux‑ci comportent des limites d’âge.
+[21] Il existe très peu d’autres exonérations applicables aux cours de formation qui sont fournis par les appelants. Comme je l’ai déjà mentionné, il existe une exonération pour les cours d’anglais et de français langue seconde (voir l’article 11 de la partie III).
+[22] La partie VI (organismes du secteur public) prévoit des exonérations pour les organismes du secteur public, ce qui englobe les administrations scolaires, les gouvernements et les hôpitaux. Cette partie contient d’autres exonérations qui pourraient s’appliquer aux biens et services fournis par les appelants, en plus des exonérations spécifiques aux services d’enseignement prévues à la partie III.
+Analyse
+[23] Les présents appels portent sur l’article 10 de la partie VI (organismes du secteur public) de l’annexe V de la Loi. Essentiellement, l’article 10 prévoit que les fournitures de biens ou de services qui sont habituellement fournis à titre gratuit par un organisme du secteur public sont exonérées de TPS.
+[24] J’ai de nouveau reproduit l’article 10, en soulignant cette fois les passages qui sont particulièrement pertinents en l’espèce.
+10 [Fourniture à titre gratuit] – La fourniture par un organisme du secteur public de biens ou services, sauf la fourniture de sang ou de dérivés du sang, si la totalité, ou presque, des fournitures des biens ou services sont effectuées par l’organisme à titre gratuit.
+[Non souligné dans l’original.]
+[25] La réponse à la question en litige dépend donc du sens de l’expression « des biens ou services ».
+[26] Bien que les observations des appelants aient mis l’accent sur le mot « fourniture » plutôt que sur le mot « services », leur argument laisse entendre que le mot « services » dans l’expression « des biens ou services » devrait être interprété comme voulant dire « cours de formation ».
+[27] Je ne souscris pas à cette interprétation.
+[28] De façon générale, je suis d’avis qu’il est difficile d’interpréter l’article 10, car le sens du terme « services », dans l’abstrait, est ambigu. Appliqué aux cours de formation, ce terme pourrait recevoir une interprétation aussi large que « la prestation de cours », ou aussi étroite que « la prestation d’un cours précis en un lieu et à un moment précis. »
+[29] En l’espèce, en raison de l’ambiguïté de ce terme, il est tentant d’appliquer la présomption résiduelle pour statuer en faveur du contribuable. Toutefois, je suis d’avis que cela serait contraire aux principes d’interprétation énoncés dans Placer Dome, et plus précisément au paragraphe 24 de cet arrêt, qui a été reproduit précédemment.
+[30] La Cour doit plutôt procéder à une analyse textuelle, contextuelle et téléologique pour décider si l’expression « des biens ou services » se trouvant à l’article 10 peut recevoir l’interprétation plus large que les appelants veulent lui donner.
+[31] À mon avis, lorsque vient le temps d’interpréter l’article 10, il est important de tenir compte des termes utilisés dans cette disposition. Les termes choisis donnent à entendre que l’exonération doit recevoir une interprétation étroite. C’est le choix des mots « des » et « biens » de l’expression « des biens ou services » qui laisse entendre cela. Ces termes donnent à penser que les biens ou les services admissibles à l’exonération doivent être identiques aux biens ou services qui sont fournis à titre gratuit.
+[32] Cette interprétation est aussi compatible avec l’analyse téléologique. Comme l’avait dit le gouvernement au moment de la création de la TPS, la Loi cherche à assujettir à la TPS certains biens et services fournis par les organismes du secteur public et à en exonérer d’autres, selon leur catégorie. Donner un sens très large au terme « services » à l’article 10 irait à l’encontre du régime législatif, car les services fournis par le secteur privé seraient désavantagés sur le plan concurrentiel par rapport aux services fournis par le secteur public. Si, dans le cadre des présents appels, j’interprétais l’expression « des biens ou services » de manière à y inclure tous les cours donnés par les appelants, les cours d’intérêt général donnés par le secteur privé seraient désavantagés. Il s’agit là du principal argument de l’intimée, et je suis d’accord avec elle.
+[33] Pour ces motifs, je conclus que le législateur, en édictant l’article 10, n’avait pas l’intention d’exonérer les biens ou services qui sont habituellement fournis à titre onéreux. Aucun des cours d’éducation permanente pour adultes donnés par les appelants n’est offert à titre gratuit. Par conséquent, l’exonération prévue à l’article 10 ne devrait pas s’appliquer à ces cours.
+[34] Les appelants ont présenté les observations suivantes au soutien de leur position :
+(i) tous les cours sont des cours;
+(ii) selon la Loi, le fait de « donner des cours à des particuliers » constitue une fourniture;
+(iii) le ministre a privilégié des critères accessoires qui n’étaient pas pertinents;
+(iv) l’interprétation de l’article 10 proposée par le ministre rendrait cette disposition inapplicable.
+[35] Premièrement, les appelants ont soutenu qu’il n’existe pas de différence entre le fait de donner des cours d’éducation permanente et celui de donner des cours au primaire et au secondaire.
+[36] Je ne suis pas de cet avis. Bien qu’il soit vrai que « tous les cours sont des cours » et que « tout enseignement est de l’enseignement », il n’est pas vrai que tous les cours sont pareils. Les différences entre deux cours peuvent être mineures, comme le fait qu’ils soient donnés à des dates différentes, mais elles peuvent aussi être majeures, comme le fait qu’ils portent sur des sujets différents. Quoi qu’il en soit, il est faux d’affirmer que tous les cours sont identiques.
+[37] Deuxièmement, les appelants ont affirmé que les cours d’éducation permanente pour adultes et les cours donnés au primaire et au secondaire ne sont pas assez différents pour pouvoir être logiquement rangés sous des catégories distinctes. À ce sujet, les appelants ont affirmé que les différences évoquées par l’intimée – l’âge des élèves, les lieux et les moments où les cours étaient donnés, l’expérience des enseignants, l’existence d’un barème de notation, la surveillance des enseignants, la réglementation gouvernementale – ne sont pas significatives.
+[38] Je ne souscris pas non plus à cet argument. Toutes les différences soulevées par l’intimée sont pertinentes en l’espèce.
+[39] Troisièmement, les appelants ont allégué que les termes employés dans la partie III (services d’enseignement) appuient leur position parce que la prestation de « cours » y est considérée comme une fourniture.
+[40] Je rejette aussi cet argument. De façon générale, la partie III ne définit pas l’enseignement comme un service. Certains des articles de la partie III définissent un service comme le fait de donner des cours à des particuliers (l’article 2), alors que d’autres définissent un service comme le fait de donner des cours d’un type donné à des particuliers (l’article 6). Toutefois, on n’attribue jamais au mot « service » une signification suffisamment large pour englober l’« enseignement ».
+[41] Quatrièmement, les appelants ont dit que les critères employés par l’intimée rendraient l’article 10 inapplicable. Bien que je convienne du fait que l’article 10 est imprécis et que cela pourrait créer une incertitude dans certaines circonstances, je ne crois pas que ce soit le cas dans les présents appels. L’exonération ne s’applique que lorsque l’organisme du secteur public fournit habituellement un bien ou un service donné à titre gratuit. Tel n’est tout simplement pas le cas en l’espèce.
+[42] Cette conclusion est suffisante pour trancher les présents appels. Néanmoins, je vais brièvement traiter de la seconde question qui, à mon avis, porte elle aussi un coup fatal aux présents appels.
+Question 2 – Qui, des appelants ou des élèves, a droit au remboursement?
+[43] Les appelants soutiennent que ce sont eux, et non pas les élèves inscrits aux cours, qui ont payé la TPS et qui ont le droit de récupérer les montants versés par erreur.
+[44] L’intimée n’est pas de cet avis. Son avocate soutient que ce sont les élèves inscrits aux cours qui ont payé la TPS, et qu’ils sont les seuls à avoir le droit de récupérer la TPS versée en trop.
+[45] Les faits pertinents sont résumés ci‑dessous.
+[46] Chacun des appelants indiquait à ses élèves potentiels, soit dans des brochures ou dans des formulaires d’inscription aux cours, que les droits d’inscription incluaient la TPS, [TRADUCTION] « le cas échéant ».
+[47] Dans certains cas, c’étaient les reçus fournis après l’inscription qui indiquaient que la TPS était incluse dans les droits d’inscription; dans d’autres cas, on n’indiquait pas aux élèves si la TPS était incluse. Toutefois, dans ces derniers cas, les élèves pouvaient demander à l’école de leur fournir cette information en vertu du paragraphe 223(2) de la Loi, qui est ainsi rédigé :
+223(2) La personne qui effectue une fourniture taxable au profit d’une autre personne doit, à la demande de celle-ci, lui remettre, sans délai et par écrit, les renseignements requis par la présente partie pour justifier une demande de crédit de taxe sur les intrants ou une demande de remboursement par l’autre personne.
+[48] Dans la plupart des cas où la Loi s’applique, la TPS qui est versée par un vendeur est préalablement perçue auprès de l’acheteur, et ce dernier peut s’adresser à l’administration fiscale pour se faire rembourser la taxe payée par erreur. Le vendeur n’a alors pas droit au remboursement (voir West Windsor Urgent Care Centre Inc., précité).
+[49] Pour appuyer la position des appelants, leur avocat a cité deux décisions rendues par la Cour. Ces deux décisions avaient été rendues sous le régime de la procédure informelle, et la Cour avait conclu que la TPS versée par erreur pouvait être récupérée par le vendeur qui en avait assumé le fardeau
+(voir Simard v. The Queen, [2006] GSTC 172 et R. Mullen Construction Ltd. v. The Queen, [1997] GSTC 106).
+[50] L’avocat des appelants a également cité une autre décision, qui avait elle aussi été rendue sous le régime de la procédure informelle, dans laquelle la Cour a traité de cette question de façon incidente, et elle semble avoir adopté la même conclusion, du moins, de façon hypothétique. Dans McDonell c. La Reine, 2005 CCI 301, [2005] GSTC 134, le juge en chef Bowman s’est exprimé en ces termes :
+[35] Je ne pense pas qu'il soit nécessaire en l'espèce de déterminer s'il est impossible qu'un fournisseur puisse obtenir un remboursement de la taxe en vertu de l'article 261. Il suffit de dire que, selon moi, dans les cas où un fournisseur perçoit un montant au titre de la TPS auprès de l'acquéreur d'une fourniture lorsque la TPS n'était pas exigible et verse le montant au gouvernement (comme il doit le faire : voir la décision ITA Travel Agency Ltd. v. Canada, [2000] G.S.T.C. 5), c'est l'acquéreur, et non le fournisseur, qui est en droit de demander le remboursement en vertu de l'article 261. Mon but en prononçant ces motifs n'est pas d'affirmer qu'un fournisseur ne peut jamais demander de remboursement en vertu de l'article 261. Selon moi, il y a au moins deux situations où une demande de remboursement faite par un fournisseur pourrait être acceptée :
+a) lorsqu'un fournisseur ne perçoit pas de TPS auprès d'un acquéreur relativement à une fourniture exonérée ou détaxée, mais par la suite verse au gouvernement, par erreur, un montant au titre de la TPS qui est tiré de ses propres fonds;
+b) lorsqu'un fournisseur perçoit de la TPS d'un acquéreur et, par la suite, verse au gouvernement un montant plus élevé que le montant qu'il a perçu, indépendamment du fait que la taxe ait été perçue par erreur ou non.
+[36] Il n'est pas nécessaire que je réponde aux questions soulevées dans le cadre de ces deux situations hypothétiques, mais je ne pense pas que le fait que le fournisseur soit en droit de demander un remboursement du montant payé dans le cadre de l'exemple a) ou du montant excédentaire perçu dans le cadre de l'exemple b) aille à l'encontre de l'esprit de la Loi ou du libellé de l'article 261.
+[51] La position des appelants me semble problématique à cet égard, car ils ne m’ont pas convaincue qu’ils ont payé la TPS. À mon avis, les élèves qui se sont inscrits aux cours seraient mieux placés pour prétendre avoir payé la TPS, peu importe qu’ils aient été informés ou non du fait que la TPS était perçue.
+[52] De plus, j’estime que, pour permettre à un vendeur d’être remboursé parce qu’il a payé la taxe, il faut être certain que le vendeur n’a pas perçu cette taxe auprès des acheteurs. Autrement, l’administration fiscale aurait la tâche ardue d’interpréter les contrats liant les vendeurs et les acheteurs pour découvrir qui des deux a droit au remboursement de TPS.
+[53] Finalement, je tiens à faire une courte observation quant à l’arrêt La Reine c. United Parcel Service Canada Ltd., 2008 CAF 48, [2008] GSTC 34. Dans cette affaire, la question était de savoir si seuls les acheteurs avaient droit au remboursement de la TPS payée par erreur. Bien que la question en litige dans cette affaire ressemble à celle que je dois trancher dans les présents appels, les faits en cause dans United Parcel Service sont très différents de ceux de la présente affaire; cet arrêt n’est donc pas très utile en l’espèce. La Cour suprême du Canada a récemment accordé l’autorisation d’interjeter appel du jugement de la Cour d’appel fédérale.
+Conclusion
+[54] Pour ces motifs, les appels sont rejetés. Si les parties ne réussissent pas à s’entendre quant aux dépens, elles pourront présenter leurs observations écrites dans les trois prochaines semaines.
+Signé à Ottawa, Canada, ce 25e jour d’août 2008.
+« J. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 12e jour de juin 2009.
+Mario Lagacé, jurilinguiste
+RÉFÉRENCE :
+2008CCI475
+Nos DES DOSSIERS DE LA COUR :
+2004-3012(GST)G; 2004-3079(GST)G; 2004-3582(GST)G; 2004-3583(GST)G
+INTITULÉS :
+School District No. 44 (North Vancouver) et Sa Majesté la Reine;
+Toronto District School Board
+et Sa Majesté la Reine;
+School District No. 39 (Vancouver)
+et Sa Majesté la Reine
+LIEU DE L’AUDIENCE :
+Vancouver (Colombie‑Britannique)
+DATES DE L’AUDIENCE :
+Les 23, 24 et 25 janvier 2008
+MOTIFS DU JUGEMENT :
+L’honorable juge Judith Woods
+DATE DU JUGEMENT :
+Le 25 août 2008
+COMPARUTIONS :
+Avocat des appelants :
+Me David E. Graham
+Avocates de l’intimée :
+Me Susan Wong
+Me Selena Sit
+AVOCATS INSCRITS AU DOSSIER :
+Pour les appelants :
+Nom :
+Me David E. Graham
+Cabinet :
+Koffman Kalef s.r.l.
+Vancouver (Colombie‑Britannique)
+Pour l’intimée :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

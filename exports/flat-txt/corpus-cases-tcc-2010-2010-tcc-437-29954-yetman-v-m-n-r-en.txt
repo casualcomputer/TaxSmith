@@ -1,0 +1,196 @@
+Title: Yetman v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29954/index.do
+Corpus path: corpus/cases/tcc/2010/2010-tcc-437-29954-yetman-v-m-n-r-en.md
+Document type: case_law
+Last modified: 2010-08-23
+
+# Yetman v. M.N.R.
+
+- Citation: 2010 TCC 437
+- Decision date: 2010-08-23
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6439, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Yetman v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-08-23
+Neutral citation
+2010 TCC 437
+File numbers
+2008-3724(CPP)
+Judges and Taxing Officers
+Réal Favreau
+Subjects
+Canada Pension Plan
+Decision Content
+Dockets: 2008-3724(CPP)
+BETWEEN:
+DONALD W. YETMAN,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeals of
+Martin Bean (2008-3723 (EI)) and (2008-3721 (CPP))
+on March 8, 2010, at Ottawa, Ontario.
+Before: The Honourable Justice Réal Favreau
+Appearances:
+Agent for the Appellant:
+Donald W. Yetman
+Counsel for the Respondent:
+Tanis Halpape
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessments and decisions made by the Minister of National Revenue under the Canada Pension Plan is allowed and the assessments are referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached reasons for judgment, and the decisions are varied in accordance with those reasons.
+Signed at Toronto, Ontario, this 23rd day of August 2010.
+"Réal Favreau"
+Favreau J.
+Citation: 2010 TCC 437
+Date: 20100823
+Docket: 2008-3724(CPP)
+BETWEEN:
+DONALD W. YETMAN,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGMENT
+Favreau J.
+[1] This appeal is from decisions and assessments by the Minister of National Revenue ("the Minister"). The decisions were that, for the period from January 1, 2006 to February 4, 2008 (the "Period"), the Appellant was employed under a contract of service with Global Postal Consulting Inc. (the "Payer") for the purposes of the Employment Insurance Act, S.C. 1996, c. 23, as amended (the "EIA") and that during the same period he was employed by the same employer in pensionable employment for the purposes of the Canada Pension Plan, R.S.C. 1985, c. C‑8, as amended (the "CPP"). This appeal was heard on common evidence with the appeals of Martin Bean (2008-3723 (EI)) and (2008-3721 (CPP)).
+[2] The Appellant has not appealed the Minister's decision under the EIA because no employment insurance premiums were payable as the Appellant was considered as controlling more than 40% of the voting shares of the Payer.
+[3] The Respondent relied on the following assumptions of fact set out in paragraph 9 of the Reply to the Notice of Appeal:
+(a) the Payer operates a business involved in providing process and technological consultation within the postal community (the “Business”); (admitted)
+(b) the Business was incorporated in 2004; (admitted)
+(c) the Payer’s shareholders and their percentages of holdings are:
+•
+Amber Bean
+50%
+•
+Jennifer Yetman
+50%
+(admitted)
+(d) there are only 2 workers in the Business, the Appellant and Mr. Bean; (admitted)
+(e) prior to 2005, the Appellant and Martin Bean were employed by Canada Post; (denied)
+(f) the Appellant and Martin Bean’s employment with Canada Post was terminated in 2006; (denied)
+(g) the Appellant is the father of the shareholder, Jennifer Yetman; (admitted)
+(h) Martin Bean is the spouse of the other shareholder, Amber Bean; (admitted)
+(i) the Appellant and Mr. Bean are Directors of the Business; (admitted)
+(j) the Appellant is the President and Mr. Bean is the Vice-President of the Business; (admitted)
+(k) the 2 shareholders, Amber Bean and Jennifer Yetman have no knowledge of the Payer’s business; (denied)
+(l) Amber Bean and Jennifer Yetman were shareholders in name only; (denied)
+(m) the Appellant and Mr. Bean controlled the voting shares of Amber Bean and Jennifer Yetman; (denied)
+(n) the Appellant and Mr. Bean controlled the day‑to‑day operations and made the major business decisions for the Business; (admitted)
+(o) the Appellant has the authority to hire or dismiss the Payer's staff and sign cheques and leases on the Payer's behalf; (admitted)
+(p) the Appellant was hired under a verbal agreement; (denied)
+(q) the Appellant has 32 years of experience with Canada Post; (admitted)
+(r) the Appellant provided the following duties:
+•
+needs assessments and training requirements
+•
+•
+develop solutions for businesses and address postal needs
+secure contracts;
+(admitted)
+(s) Mr. Bean does similar work as the Appellant; (denied)
+(t) the Appellant obtains contracts on behalf of the Payer and negotiates the price of all contracts with clients; (denied as written)
+(u) the Appellant works on contracts that he personally secured on the Payer’s behalf; (denied as written)
+(v) the Appellant could not refuse work from the Payer; (denied)
+(w) the Appellant performed his duties at the client’s location or from his personal residence, which was also the Payer's business address; (admitted)
+(x) the Appellant was required to report to the Payer; (denied)
+(y) the Payer sets the Appellant’s deadlines and priorities; (denied)
+(z) the Appellant received verbal instructions from the Payer; (denied)
+(aa) the Payer’s business hours of operation varied based on customer contracts; (admitted)
+(bb) the Appellant’s hours of work were flexible based on the Payer’s contracts; (admitted)
+(cc) the Appellant was not required to record his hours of work; (admitted)
+(dd) the Appellant was required to provide his services personally; (denied)
+(ee) the Appellant did hire assistants;
+(ff) the Payer paid the assistants;
+(gg) the Appellant was required to provide his own laptop computer in order to provide his services to the Payer; (admitted)
+(hh) the Payer provided the Appellant with a company e-mail account; (admitted)
+(ii) the Appellant incurred minimal expenses relating to his laptop in the performance of his duties; (admitted)
+(jj) the Payer reimbursed the Appellant for travel expenses; (admitted)
+(kk) the Appellant was paid a flat rate of pay; (denied)
+(ll) the Payer determined the Appellant’s rate of pay, which was based on the size and number of contracts the Payer obtained; (admitted)
+(mm) the Payer determined the payment frequency based on it’s [sic] contracts with clients; (admitted)
+(nn) the Appellant was paid by direct deposit transfers; (admitted)
+(oo) the Appellant submitted invoices to the Payer; (admitted)
+(pp) the Appellant has signing authority on the Payer's business bank account; (admitted)
+(qq) the Appellant was hired for an indefinite period of time; (denied)
+(rr) the Payer’s clients determined if work needed to be redone; (admitted)
+(ss) the Payer had the right to terminate the Appellant’s services; (admitted)
+(tt) the Payer does not own any assets; (admitted)
+(uu) during the Period, the Payer’s bank account held a minimal balance (close to zero); (admitted)
+(vv) all revenues are paid directly to the Payer; (admitted)
+(ww) the Appellant registered a GST account with CRA on June 1, 2007. (admitted)
+[4] Mr. Bean testified at the hearing and stated that the Payer, although incorporated in 2004, was inactive until June 1, 2007, at which time it obtained its first contract. He stated that he was not related to Mr. Yetman and that he met him while, as an employee of the CGI Group, he was assigned to a Canada Post contract. At that time, the Appellant was a manager responsible for international contracts at Canada Post. Mr. Bean said that he has never been an employee of Canada Post. He left CGI in August 2006 and then worked for Escher Group Ltd. until March or April 2007. On June 1, 2007, he started to provide services to the Payer.
+[5] The Appellant also testified at the hearing and stated that he retired from Canada Post in 2006 after 40 years of service. After his retirement, he worked for another company for approximately nine months. Since then, his only involvement in the labour force has been with the Payer and as a part‑time employee of the City of Ottawa (five hours per week). He confirmed that he worked with Mr. Bean on the same projects for three or four years while he was with Canada Post.
+[6] The Appellant explained the business deal with Mr. Bean. Essentially, it was the sharing on a fifty-fifty basis of the income derived from contracts entered into by the Payer. A company was incorporated because clients prefer to deal with a company rather than with individuals. The shareholding of the company was set up in such a way as to give an appearance of neutrality. The Payer's shareholders invested only $50 each in the share capital of the Payer and were not involved in the day‑to‑day operations of the business.
+[7] The intention of the Appellant and of Mr. Bean was to operate at the lowest administrative cost possible, without any payroll. Their respective relationship with the Payer was structured in such a way that they were independent contractors and not employees. To achieve their goal, on October 30, 2004, they each signed a consulting agreement with the Payer. According to the Appellant, the Payer was a virtual company having no office, no assets and no work tools. The Payer was not a profit centre and did not declare any net income on its T‑2, nor did it pay any income tax during the Period. The financial year of the Payer ended on September 30 each year.
+[8] In their respective testimony, the Appellant and Mr. Bean explained that they both sought contracts for the Payer and that they jointly negotiated the price and all other terms and conditions of the contracts entered into with clients. The deadlines and priorities regarding the work to be performed were established by the contracts and were negotiated before the contracts were signed. The Appellant was responsible for the administrative aspects of the contracts and he performed his duties either on the clients' premises or from his own residence. The Appellant was required to provide his own laptop computer in order to perform his duties. The contracts were prepared in the Payer's name and all payments resulting from the execution of the contracts were made directly to the Payer. The Appellant submitted invoices to the Payer for his work and he was paid by direct deposit.
+[9] According to the Appellant, he was the person responsible for the management of the Payer, for the preparation of the yearly financial statements, for the filing of the income tax and GST returns, for the collection of accounts receivable and for the payment of accounts payable.
+Analysis
+[10] In Lang v. Canada (M.N.R.), [2007] T.C.J. No. 365 (QL), 2007 TCC 547, Chief Justice Bowman, as he then was, summarized in the following manner the rules applicable where the question of the legal status of a worker arises:
+[4] Each case in which the question of employee versus independent contractor arises must be determined on its own facts. The four components in the composite test enunciated in Wiebe Door Services Ltd. v. M.N.R., 87 D.T.C. 5025 and 671122 Ontario Ltd. v. Sagaz Industries Canada Inc., [2001] 2 S.C.R. 983, must each be assigned their appropriate weight in the circumstances of the case. Moreover, the intention of the parties to the contract has, in recent decisions of the Federal Court of Appeal, become a factor whose weight seems to vary from case to case. (The Royal Winnipeg Ballet v. M.N.R., [2006] F.C.J. No. 339, 2006 FCA 87; Wolf v. Canada, [2002] F.C.J. No. 375, 2002 FCA 96; City Water International Inc. v. M.N.R., [2006] F.C.J. No. 1653, 2006 FCA 350).
+[11] In Gagnon v. Canada (M.N.R.), [2007] F.C.J. No. 156 (QL), 2007 FCA 33, the Federal Court of Appeal reiterated the principle that the burden is on the party who opposes the Minister's decision to rebut the assumptions of fact made by the Minister (Le Livreur Plus Inc. v. Canada (Minister of National Revenue), 2004 FCA 68, at paragraph 12).
+[12] In the instant case, the Appellant entered into a written contrat with the Payer. Despite the fact that its terms and conditions were not strictly adhered to, the contract cannot be disregarded. The signature of the contract clearly shows that the intent of the parties to the contract was to structure their working relationship on the basis of a contract for services. At the hearing, the testimonies of the Appellant and of Mr. Bean confirmed the intention of the parties regarding their business relationship. The fact that the Appellant submitted invoices for the work he performed for the Payer constitutes another element confirming that the Appellant considered himself as acting as an independent contractor.
+[13] The four‑in‑one test developed in Wiebe Door includes the following factors:
+(a) control
+(b) ownership of tools
+(c) chance of profit
+(d) risk of loss (sometimes (c) and (d) are combined)
+(e) integration.
+According to Chief Justice Bowman, only factors (a) to (d) are part of one single test. As for the integration factor, it is difficult to apply and is not in itself relevant in determining whether or not a person is an employee.
+[14] The term "control" has been defined by Justice Bowie of this Court in Gagnon v. Canada (M.N.R.), [2006] T.C.J. No. 40 (QL), 2006 TCC 66, as "the right to direct the manner of doing the work, as opposed to whether that right was exercised by the Appellant" (paragraph 14).
+[15] In the present case, the evidence at the hearing, which consisted essentially of the testimony of the Appellant and Mr. Bean, was to the effect that:
+­ the Appellant performed the work by using the method of his choice, without the supervision and control of the Payer;
+­ the Appellant was assigned work and was paid a set amount for the delivery of the work;
+­ the Appellant had to provide a work package deliverable, and the priority given the work he did was totally at his discretion;
+­ the Appellant worked independently within a defined delivery timeframe; he used his expertise to provide the deliverable, without any direction or supervision from the Payer;
+­ the Appellant was not required to provide his services personally and he did hire assistants who were paid by the Payer;
+­ the Payer did not have control over the work or jobs that the Appellant could take on; he could work for other companies or other legal entities and he did not require permission from the Payer to do so; during the Period, the Appellant did work for others (for example, the City of Ottawa);
+­ the Appellant did not report to work at an establishment of the Payer and he was not required to record his hours of work;
+­ the Appellant did not receive any training from the Payer with regard to how to do the work for which he was engaged.
+[16] At the hearing, the Respondent's counsel recognized that no supervision and control was actively exercised by the Payer over the execution of contracts, but he maintained that the right of control existed and that this right of control was sufficient in itself to establish an employer‑employee relationship.
+[17] I consider the right of control that could be exercised by the Payer as purely theoretical because not only was the Payer not in a position to control the quality of the work performed by the Appellant, but it also did not have the necessary expertise or means to control the mode of execution and the performance of the services provided by the Appellant.
+[18] Concerning the ownership of tools, the evidence discloses that the Appellant provided his own tools and equipment required for the work. The Appellant was also responsible for repair, insurance and maintenance costs with respect to the tools and equipment. The Payer simply paid for work completed.
+[19] Concerning the chance of profit or risk of loss, it has been established that:
+­ the Appellant had the opportunity of making additional profit by seeking contracts and by participating in the negotiation of the terms and conditions of the contracts;
+­ the Appellant was financially at risk if he did not fulfil the obligations under the contracts, because he would not be paid if the deliverable was not delivered;
+­ the Appellant had a risk of loss because he had to bear the expenses relating to the use of his own workspace and his own equipment and tools;
+­ the Appellant had no job security, no vacation pay and no fringe benefits;
+­ there were no source deductions from the payments made to the Appellant by the Payer.
+[20] In Gagnon, supra, the Federal Court of Appeal stated that "the ability to negotiate the terms of the contract entailed a chance of profit and a risk of loss" (par. 19). The expertise and involvement of the Appellant is essential to the Payer in any case in which a contract has technical requirements.
+[21] The application of the Wiebe Door test to the facts of this case clearly points to a legal status of independent contractor. There was no supervision and control over the execution of the contracts; the Appellant had a chance of profit and bore the risk of loss; he supplied his own tools and equipment; he had no job security; and he was free to take on other jobs or contracts.
+[22] The application of the intention test also points towards an independent contractor situation. The Appellant and Mr. Bean both considered themselves as being independent contractors.
+[23] Furthermore, for the period from January 1, 2006 to June 1, 2007, the Appellant cannot be considered to have been an employee of the Payer because the Payer was inactive until June 1, 2007, the date on which the Appellant began providing services to the Payer.
+[24] Therefore, the appeal is allowed and the assessments are referred back to the Minister for reconsideration and reassessment in accordance with these reasons, and the decisions are varied in accordance with these reasons.
+Signed at Toronto, Ontario, this 23rd day of August 2010.
+“Réal Favreau”
+Favreau J.
+CITATION: 2010 TCC 437
+COURT FILE NO.: 2008-3724(CPP)
+STYLE OF CAUSE: Donald W. Yetman and the Minister of National Revenue
+PLACE OF HEARING: Ottawa, Canada
+DATE OF HEARING: March 8, 2010
+REASONS FOR JUDGMENT BY: The Honourable Justice Réal Favreau
+DATE OF JUDGMENT: August 23, 2010
+APPEARANCES:
+Agent for the Appellant:
+Donald W. Yetman
+Counsel for the Respondent:
+Tanis Halpape
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada

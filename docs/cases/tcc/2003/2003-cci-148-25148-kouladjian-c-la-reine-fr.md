@@ -1,0 +1,158 @@
+---
+title: "Kouladjian c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25148/index.do"
+last_modified: "2003-03-18"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 CCI 148"
+citation2: ""
+neutral_citation: "2003 CCI 148"
+decision_date: "2003-03-18"
+language: "fr"
+item_id: "25148"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2594
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T19:26:40.608000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "a62f64c74d10103753fedc4dec308b5aeab57e340f6e6c14cf5e7559d41867f4"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Kouladjian c. La Reine
+
+- Citation: 2003 CCI 148
+- Decision date: 2003-03-18
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2594, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Kouladjian c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-03-18
+Référence neutre
+2003 CCI 148
+Numéro de dossier
+2002-3299(IT)I
+Juges et Officiers taxateurs
+Lucie Lamarre
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2002-3299(IT)I
+ENTRE :
+KEVORK KOULADJIAN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 13 mars 2003 à Ottawa (Ontario)
+Devant : L'honorable juge Lucie Lamarre
+Comparutions :
+Pour l'appelant :
+l'appelant lui-même
+Avocate de l'intimée :
+Me Justine Malone
+____________________________________________________________________
+JUGEMENT
+L'appel de la cotisation établie en vertu de la Loi de l'impôt sur le revenu pour l'année d'imposition 2000 est rejeté, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 18e jour de mars 2003.
+« Lucie Lamarre »
+J.C.C.I.
+Référence : 2003CCI148
+Date : 20030318
+Dossier : 2002-3299(IT)I
+ENTRE :
+KEVORK KOULADJIAN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+La juge Lamarre, C.C.I.
+[1] Il s'agit d'un appel entendu selon la procédure informelle d'une cotisation établie par le ministre du Revenu national ( « Ministre » ) diminuant la pension alimentaire déductible pour l'appelant d'un montant de 9 000 $ pour l'année d'imposition 2000.
+[2] Le montant de pension alimentaire ainsi refusé à l'appelant correspond au montant de 750 $ par mois que l'appelant doit verser à son ex-conjointe, à titre de frais de logement, aux termes d'un jugement de divorce daté du 15 septembre 1997.
+[3] L'intimée a indiqué dans sa Réponse à l'avis d'appel que ce montant n'était pas déductible pour l'appelant au motif que ce montant ne se qualifiait pas comme une pension alimentaire puisque l'ex-conjointe ne pouvait pas l'utiliser à sa discrétion. Au soutien de ses prétentions, le Ministre s'appuie sur la définition de « pension alimentaire » au paragraphe 56.1(4) de la Loi de l'impôt sur le revenu ( « Loi » ). À l'audience, l'avocate de l'intimée a ajouté un deuxième argument. Elle soutient que même si ledit montant versé par l'appelant se qualifie comme une pension alimentaire, il s'agit alors d'une pension alimentaire pour enfants au sens du paragraphe 56.1(4) et une telle pension n'est pas déductible aux termes de l'alinéa 60b) de la Loi.
+[4] L'appelant a spécifiquement mentionné à la Cour qu'il n'avait aucune objection et qu'il voulait que cette Cour se prononce sur les deux arguments soulevés par l'intimée, et ce, même si le dernier argument n'était pas soulevé dans la Réponse à l'avis d'appel.
+[5] Les expressions « pension alimentaire » et « pension alimentaire pour enfants » sont définies comme suit au paragraphe 56.1(4) de la Loi :
+« pension alimentaire » - Montant payable ou à recevoir à titre d'allocation périodique pour subvenir aux besoins du bénéficiaire, d'enfants de celui-ci ou à la fois du bénéficiaire et de ces enfants, si le bénéficiaire peut utiliser le montant à sa discrétion et, selon le cas :
+a) le bénéficiaire est l'époux ou le conjoint de fait ou l'ex-époux ou l'ancien conjoint de fait du payeur et vit séparé de celui-ci pour cause d'échec de leur mariage ou union de fait et le montant est à recevoir aux termes de l'ordonnance d'un tribunal compétent ou d'un accord écrit;
+b) le payeur est le père naturel ou la mère naturelle d'un enfant du bénéficiaire et le montant est à recevoir aux termes de l'ordonnance d'un tribunal compétent rendue en conformité avec les lois d'une province.
+« pension alimentaire pour enfants » - Pension alimentaire qui, d'après l'accord ou l'ordonnance aux termes duquel elle est à recevoir, n'est pas destinée uniquement à subvenir aux besoins d'un bénéficiaire qui est soit l'époux ou le conjoint de fait ou l'ex-époux ou l'ancien conjoint de fait du payeur, soit le père ou la mère d'un enfant dont le payeur est le père naturel ou la mère naturelle.
+[6] L'alinéa 60b) se lisait comme suit au cours de l'année d'imposition en litige :
+b) Pensions alimentaires [époux et enfant] - le total des montants représentant chacun le résultat du calcul suivant :
+A - (B + C)
+où :
+A représente le total des montants représentant chacun une pension alimentaire que le contribuable a payée après 1996 et avant la fin de l'année à une personne donnée dont il vivait séparé au moment du paiement,
+B le total des montants représentant chacun une pension alimentaire pour enfants qui est devenue payable par le contribuable à la personne donnée aux termes d'un accord ou d'une ordonnance à la date d'exécution ou postérieurement et avant la fin de l'année relativement à une période ayant commencé à cette date ou postérieurement,
+C le total des montants représentant chacun une pension alimentaire que le contribuable a payée à la personne donnée après 1996 et qui est déductible dans le calcul de son revenu pour une année d'imposition antérieure;
+[7] À mon avis, il ressort clairement du jugement de divorce qu'outre la pension alimentaire que l'appelant doit verser pour ses enfants de 868,33 $ par mois et la pension alimentaire qu'il doit verser pour son ex-conjointe de 433,33 $ par mois, l'appelant doit également payer à son ex-conjointe une pension alimentaire additionnelle de 750 $ par mois à être employé pour le logement. Ainsi dans la rubrique « Quant au domicile conjugal » du jugement de divorce du 15 septembre 1997 (pièce A-1), il est indiqué ce qui suit :
+9. MADAME continuera d'habiter le domicile conjugal situé au 1205 O'Brien à Montréal, copropriété des parties, et en conséquence :
+a) bénéficiera d'un droit d'habitation sur l'immeuble, pour une période d'une année;
+b) recevra une pension alimentaire additionnelle de 750,00 $ par mois versée par dépôt direct au compte ci-haut de MADAME, à être employée par MADAME de la façon ci-après :
+- par le paiement par MADAME de la moitié des versements hypothécaires, des taxes, des assurances, des frais de chauffage, d'électricité, d'entretien et de téléphone de base, lesquels totalisent la somme de 1 500,00 $, que MADAME s'engage à déposer au compte affecté à cette fin;
+c) après cette période d'une année, l'immeuble sera mis en vente et le produit net de la vente sera partagé entre les parties;
+d) Le 1er septembre 1998 MADAME devra déménager dans les 3 mois de l'acceptation de l'offre d'achat par l'acquéreur éventuel et à cette fin, consentira à compter de juin 1998 à faire visiter la résidence et à signer l'offre de mise en vente à elle présentée par le courtier au prix du marché;
+e) MONSIEUR assumera, au tel cas, les frais de déménagement et d'aménagement pour un montant de 2 000,00 $;
+f) MADAME verra à se trouver un logement qui correspond aux besoins des enfants, à prix raisonnable;
+g) comme MADAME aura quitté le domicile conjugal le 1er septembre 1998, MONSIEUR s'engage à verser à MADAME à titre de pension alimentaire la somme mensuelle de 750,00 $ à titre de frais de logement.
+[8] La preuve a révélé que l'ex-conjointe de l'appelant a déménagé dans un nouveau logement en 1999 avec ses trois enfants après la disposition de la résidence familiale. L'appelant a témoigné qu'il versait à son ex-conjointe une somme globale mensuelle qui comprenait tous les montants qu'il était tenu de verser aux termes du jugement de divorce. Madame Louise Mallette, l'ex-conjointe, a confirmé qu'elle recevait une somme globale de l'appelant et que de cette somme, elle affectait un montant de 750 $ par mois au paiement du logement (incluant loyer, chauffage, téléphone et entretien). L'appelant n'a pas contesté ce point, bien qu'il n'ait pas eu l'occasion de vérifier si les sommes qu'il payait étaient ainsi affectées. Par ailleurs, le jugement subséquent du 17 novembre 1999 sur la requête en modification des mesures accessoires présentée par l'appelant n'a pas modifié le montant de pension alimentaire indiqué au jugement de divorce, tel que l'avait initialement demandé l'appelant.
+[9] Il ressort des décisions Badeau c. Canada, [2000] A.C.I. no 387 (Q.L.), 2000 DTC 2300 et Assaf c. Canada, [1992] A.C.I. no 46 (Q.L.), toutes deux rendues par le juge Garon de cette Cour, que si le jugement de divorce précise l'utilisation qui doit être faite des sommes à être versées par un contribuable à son ex-conjoint, il s'ensuit que l'ex-conjoint ne peut légalement utiliser les fonds reçus à sa discrétion. Il en résulte donc, selon cette jurisprudence, que ces paiements ne se qualifient pas comme pension alimentaire au sens du paragraphe 56.1(4) de la Loi, et ne sont donc pas déductibles pour le payeur aux termes de l'alinéa 60b) de la Loi.
+[10] Dans l'affaire Nagy c. Canada, [2000] A.C.I. no 45 (Q.L.), la juge Lamarre Proulx conclut en s'appuyant sur l'affaire Hamer c. Canada, [1998] A.C.F. no 829 (Q.L.) que :
+... le fait que les sommes reçues puissent avoir été destinées aux études des filles des appelants ne dépouille pas la récipiendaire de la discrétion requise pour que ces paiements soient considérés des allocations au sens du paragraphe 56(12) de la Loi. ...
+[11] Tel que mentionné par l'avocate de l'intimée, il semble y avoir deux courants de jurisprudence à cet égard. Je note toutefois que dans l'affaire Nagy, la juge Lamarre Proulx semble indiquer que le texte du jugement ou de l'accord en l'espèce ne précisait pas l'utilisation qui devait être faite des fonds.
+[12] Dans le cas présent, le jugement indique clairement que la pension alimentaire de 750 $ par mois doit être affectée au paiement du logement. L'utilisation de cette somme ne serait donc pas à la discrétion de l'ex-conjointe de l'appelant, et cette somme ne constituerait donc pas une pension alimentaire au sens de la Loi, de sorte que ce ne serait pas déductible pour l'appelant.
+[13] Par ailleurs, même si l'on pouvait conclure autrement et dire que l'ex-conjointe pouvait utiliser cette somme à sa discrétion, puisque l'appelant n'avait aucun contrôle sur l'utilisation d'une telle somme, cette pension alimentaire tombe clairement sous la définition de pension alimentaire pour enfants. En effet, la somme de 750 $ par mois versée par l'appelant n'est pas destinée, par le jugement de divorce, uniquement à subvenir aux besoins du bénéficiaire qui est l'ex-conjointe de l'appelant. De fait, le jugement prévoit que madame devra se trouver un logement qui correspond aux besoins des enfants et que la somme de 750 $ par mois servira à acquitter les frais de logement. Il est donc clair que cette somme n'était pas prévue pour subvenir aux besoins de l'ex-conjointe uniquement, mais aux besoins des enfants également.
+[14] En conséquence, il s'agit bien d'une pension alimentaire pour enfants au sens de la Loi, laquelle n'est pas déductible aux termes de l'alinéa 60b) de la Loi.
+[15] L'appel est en conséquence rejeté.
+Signé à Ottawa, Canada, ce 18e jour de mars 2003.
+« Lucie Lamarre »
+J.C.C.I.
+RÉFÉRENCE :
+2003CCI148
+No DU DOSSIER DE LA COUR :
+2002-3299(IT)I
+INTITULÉ DE LA CAUSE :
+Kevork Kouladjian c. La Reine
+LIEU DE L'AUDIENCE :
+Ottawa (Ontario)
+DATE DE L'AUDIENCE :
+le 13 mars 2003
+MOTIFS DE JUGEMENT PAR :
+l'honorable juge Lucie Lamarre
+DATE DU JUGEMENT :
+le 18 mars 2003
+COMPARUTIONS :
+Pour l'appelant :
+l'appelant lui-même
+Pour l'intimée :
+Me Justine Malone
+AVOCAT(E) INSCRIT(E) AU DOSSIER:
+Pour l'appelant(e) :
+Nom :
+Étude :
+Pour l'intimé(e) :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

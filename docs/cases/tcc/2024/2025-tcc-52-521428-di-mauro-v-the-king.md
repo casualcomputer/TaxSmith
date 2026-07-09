@@ -1,0 +1,195 @@
+---
+title: "Di Mauro v. The King"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/521428/index.do"
+last_modified: "2024-08-23"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2025 TCC 52"
+citation2: ""
+neutral_citation: "2025 TCC 52"
+decision_date: "2024-08-23"
+language: "en"
+item_id: "521428"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6108
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2025-05-19T11:19:47.684000+00:00"
+cases_cited_count: 9
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "6c99b869ebace97b22ab80d7150f51d0f53a561dcc1c67f32d36055ec1cd50ac"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Di Mauro v. The King
+
+- Citation: 2025 TCC 52
+- Decision date: 2024-08-23
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6108, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Di Mauro v. The King
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2025-04-08
+Neutral citation
+2025 TCC 52
+File numbers
+2012-3399(IT)I, 2012-4035(IT)G
+Judges and Taxing Officers
+Susan Wong
+Subjects
+Income Tax Act
+Decision Content
+Dockets: 2012-4035(IT)G
+2012-3399(IT)I
+BETWEEN:
+ALEXANDER DI MAURO,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+Written submissions received on January 31, 2025 and March 3, 2025
+Before: The Honourable Justice Susan Wong
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Nandhini Padmanathan
+ORDER
+In accordance with my Reasons for Order, costs are awarded to the Respondent in the amount of $5,496.53, being $3,125.00 in fees plus disbursements of $2,371.53.
+Signed this 8th day of April 2025.
+“Susan Wong”
+Wong J.
+Citation: 2025TCC52
+Date: 20250408
+Dockets: 2012-4035(IT)G
+2012-3399(IT)I
+BETWEEN:
+ALEXANDER DI MAURO,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+REASONS FOR ORDER
+Wong J.
+Introduction/Overview [1] My August 23, 2024 judgment allowed these appeals only to the extent conceded by the respondent and in doing so, I awarded costs to the respondent in light of their substantial success. I gave the parties time to reach an agreement on costs failing which they were directed to file written submissions for my consideration. I also directed that if I did not hear from the parties with respect to costs, then costs would be awarded to the respondent according to Tariff B.[1]
+[2] The parties did not reach an agreement as to costs so they have provided written submissions. The respondent proposes that they are entitled to costs of $18,646.82 (being 60% of their solicitor-client costs) plus disbursements of $1,912.45. On the other hand, the appellant disagrees, saying that one dollar is an appropriate costs award.
+Procedural history [3] The one-day hearing of these related appeals took place in February 2023 and the General Procedure matter was a Class A proceeding. The only issue before this court was whether the appellant was grossly negligent in claiming business losses for 1998, 2007, and 2008. At the commencement of hearing, the respondent conceded the gross negligence penalty for 2006 in its entirety as well as a reduction to the penalty for 2007.
+[4] These matters have a lengthy procedural history including two appeals by Mr. Di Mauro of interlocutory orders to the Federal Court of Appeal, being:
+an appeal of this Court’s October 25, 2013 order directing that his fresh notice of appeal and further fresh notice of appeal be struck with costs of $1,000 to the respondent. On September 29, 2015, the Federal Court of Appeal allowed the appeal with costs of $500 to the respondent, directed that the appeals were reinstated to the extent with respect to the gross negligence penalties only, and amended this Court’s costs award to $500 payable to the respondent;[2] and
+an appeal of this Court’s December 6, 2017 order which (among other things) set a deadline by which the appellant would provide his answers to undertakings, declined to direct the respondent to provide him with a list of undertakings, and directed that he pay costs of $350.00 to the respondent. On May 2, 2019, the Federal Court of Appeal dismissed the appeal with costs.[3]
+[5] Two status hearings (August 23, 2016 and October 21, 2019) and two show cause hearings (February 17, 2017 and November 28, 2017) were also held in these matters:
+August 23, 2016 status hearing – this status hearing followed the Federal Court of Appeal’s September 29, 2015 decision. At the end of the status hearing, the presiding judge directed that Mr. Di Mauro pay $50 in costs to each of the other seven appellants (i.e. totalling $350) in the courtroom for causing unnecessary delays that day.
+February 17, 2017 show cause hearing – the appellant had not paid the costs ordered on August 23, 2016 and was directed to do so by the end of the next business day. Further costs of $350 were ordered in any event of the cause and a litigation timetable order was issued.
+November 28, 2017 show cause hearing – this show cause hearing was set down because the appellant requested an amendment to the February 17, 2017 timetable order but did not file the required motion materials. At the hearing, the appellant brought a motion to amend the timetable order and asked that the respondent be directed to provide him with a list of his undertakings given during discoveries; the respondent brought a cross-application that the appeals be dismissed. Mr. Di Mauro appealed the court’s resulting December 6, 2017 order (described above) which was later upheld by the Federal Court of Appeal.[4]
+October 21, 2019 status hearing – the court directed that Mr. Di Mauro pay the outstanding costs from the December 6, 2017 order and amended the remaining litigation deadlines in that order.
+[6] The parties filed a joint application for hearing in February 2020 and the matter was eventually heard by me in February 2023.
+Legal framework [7] Subsection 147(3) of the Tax Court of Canada Rules (General Procedure) sets out the factors which may be considered by this Court in determining costs. In this instance, no expert witnesses testified so the relevant factors are as follows:
+the result of the proceeding;
+the amounts in issue;
+the importance of the issues;
+any offer of settlement made in writing;
+the volume of work;
+the complexity of the issues;
+the conduct of any party that tended to shorten or to lengthen unnecessarily the duration of the proceeding;
+the denial or the neglect or refusal of any party to admit anything that should have been admitted;
+whether any stage in the proceedings was
+(i)improper, vexatious, or unnecessary, or
+(ii)taken through negligence, mistake or excessive caution; and
+any other matter relevant to the question of costs.
+[8] Some key principles for determining a costs award include the following:
+a. the Court has broad discretion which must be exercised on a principled basis and not arbitrarily;[5]
+b. none of the factors in subsection 147(3) are determinative and all relevant factors should be considered;[6]
+c. costs are intended to be compensatory and contributory rather than punitive or extravagant, with the proper question being what the losing party’s appropriate contribution to the successful party’s costs should be;[7]
+d. a lump sum may be awarded after considering the amounts at issue, the complexity and importance of those issues, the work generated, and a party’s success;[8]
+e. there must be egregious circumstances for the court to consider awarding solicitor-client costs, which remain discretionary;[9]
+f. increased (partial indemnity) costs generally vary between 50 to 75 percent of solicitor-costs;[10] and
+g. exceptional circumstances are not needed for a costs award above the tariff.[11]
+Analysis and discussion (a) The result of the proceeding [9] The General Procedure matter dealt with the 2006, 2007, and 2008 taxation years, while the Informal Procedure matter dealt with a T1 adjustment request for 1998. The appeals were allowed only to the extent conceded by the respondent, who conceded the gross negligence penalty for 2006 plus a reduction to the penalty for 2007. Otherwise, the respondent was substantially successful. This factor is neutral because the respondent was not wholly successful.
+(b) The amounts in issue [10] The penalty amounts ranged from $1,080 (for 2008)[12] to $4,378 (for 2007)[13], the latter of which was subject to a reduction as part of the respondent’s concession. The significance of the amounts in issue must be considered contextually and in relative terms.[14] From this perspective, the amounts are not significant. Therefore, this factor is neutral.
+(c) The importance of the issues [11] The question of whether Mr. Di Mauro was grossly negligent in claiming business losses using Fiscal Arbitrators’ “Detax” approach to tax filing was not novel by the time these matters went to hearing before me, as many other taxpayers have appeared before this Court on the same issue. Therefore, this factor is neutral.
+(d) Any offer of settlement in writing [12] No written settlement offers were made so substantial indemnity costs cannot be considered.[15] Therefore this factor is neutral.
+(e) The volume of work [13] The procedural history (highlights of which I have summarized above)[16] shows that the timeline from the filing of the original notices of appeal to the 2023 hearing spans approximately 11 years. Set against the context of Mr. Di Mauro’s use of the Fiscal Arbitrators’ Detax approach and knowing that the only issue which ultimately proceeded before this court were the gross negligence penalties, the volume of effort required on the part of the respondent was excessive because the appellant’s choices protracted the proceedings. For example, he filed notices of appeal, followed by fresh notices of appeal and further fresh notices of appeal on motion by the respondent because his pleadings were improper, and all were struck by this court.
+[14] It was his prima facie right to appeal this court’s interlocutory orders regardless of whether he was successful or not, and he was partially successful in that his appeals were reinstated in 2015 with respect to the penalty issues. On the other hand, his appeal of this Court’s December 6, 2017 order was an unnecessary appeal of an unnecessary motion. The four show cause and status hearings also demonstrate that he was slow to carry out his responsibilities as a self-represented litigant and in breach of this court’s orders on at least two occasions.
+[15] This factor would ordinarily favour increased costs. However, I note that costs were already ordered at the both instances before the Federal Court of Appeal as well as following both the August 23, 2016 status hearing and the February 17, 2017 show cause hearing. Therefore, this factor becomes neutral.
+(f) The complexity of the issues [16] The substantive issue of gross negligence penalties is straightforward and not complex. Therefore, this factor is neutral.
+(g) The conduct of any party that tended to shorten or to lengthen unnecessarily the duration of the proceeding [17] The events summarized under the heading “Procedural History” and under the subheading (e) regarding volume of work show that Mr. Di Mauro’s conduct unnecessarily lengthened the duration of the proceeding. This factor would ordinarily favour increased costs but in light of the fact that costs have been directly addressed at several material points, this factor becomes neutral.
+(h) The denial or the neglect or refusal of any party to admit anything that should have been admitted [18] There were at least two instances during the hearing when it was necessary for the respondent’s counsel to contradict the appellant’s direct testimony by putting either the discovery transcript or his own previous correspondence to him.[17] While he did admit these facts as put to him during cross-examination, they were of a nature that seems unlikely that he would have forgotten them in the first place.
+[19] When someone fails to testify in an honest and straightforward manner, the resulting delay should be considered in the context of costs.[18] This factor favours increased costs.
+(i) Whether any stage in the proceeding was (i) improper, vexatious, or unnecessary, or (ii) taken through negligence, mistake or excessive caution [20] During the hearing, the appellant acknowledged that the Detax theories he employed to overstate his income and expenses were nonsensical.[19] In this respect, it was improper to appeal the Minister of National Revenue’s disallowance of his claims when he knew that to be the case. On the other hand, the Federal Court of Appeal reinstated his previously struck appeals with respect to the gross negligence penalties, the inference being that this aspect of his appeals was proper.
+[21] This factor would ordinarily favour increased costs but in light of the fact that costs have been directly addressed at several material points (as I have described under subheading (e) regarding volume of work), this factor becomes neutral.
+(j) Any other matter relevant to the question of costs [22] The fact that costs were already ordered at the both instances before the Federal Court of Appeal as well as following both the August 23, 2016 status hearing and the February 17, 2017 show cause hearing is material to the determination of the present costs award.
+Conclusion [23] Based on the above, I am of the view that a costs award of $5,496.53 (being $3,125.00 in fees plus disbursements of $2,371.53) is appropriate. This amount is based on the respondent’s draft bill of costs calculated using the tariff.[20]
+[24] The appellant’s proposed offer of $1 is inappropriate because the respondent was substantially successful and entitled to proper costs. On the other hand, the respondent’s proposal of 60% of solicitor-client costs is extravagant in light of the fact that costs were specifically addressed and ordered at most of the major delay points in this matter. I am also mindful of the fact that at each of those junctures, this Court and the Federal Court of Appeal leaned toward a more moderate costs award and the present award is in the same vein.
+Signed this 8th day of April 2025.
+“Susan Wong”
+Wong J.
+CITATION:
+2025 TCC 52
+COURT FILE NOS.:
+2012-4035(IT)G
+2012-3399(IT)I
+STYLE OF CAUSE:
+Alexander Di Mauro v. His Majesty The King
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+February 9, 2023
+REASONS FOR ORDER BY:
+The Honourable Justice Susan Wong
+DATE OF ORDER:
+April 8, 2025
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Nandhini Padmanathan
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+N/A
+Firm:
+N/A
+For the Respondent:
+Shalene Curtis-Micallef
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Schedule II, Tariff B, Tax Court of Canada Rules (General Procedure)
+[2] Di Mauro v. Canada, 2015 FCA 210
+[3] Di Mauro v. Canada, 2019 FCA 106
+[4] Di Mauro v. Canada, 2019 FCA 106
+[5] MacDonald v. The Queen, 2018 TCC 55 at paragraph 42; Alta Energy Luxembourg S.A.R.L. v. The Queen, 2018 TCC 235 at paragraph 13
+[6] MacDonald v. The Queen, 2018 TCC 55 at paragraph 43
+[7] MacDonald v. The Queen, 2018 TCC 55 at paragraphs 44 and 45; Ford Motor Company of Canada Limited v. The Queen, 2015 TCC 185 at paragraph 7
+[8] Invesco Canada Ltd v. The Queen, 2015 TCC 92 at paragraph 5
+[9] Invesco Canada Ltd v. The Queen, 2015 TCC 92 at paragraph 5; Ford Motor Company of Canada Limited v. The Queen, 2015 TCC 185 at paragraph 7
+[10] Invesco Canada Ltd v. The Queen, 2015 TCC 92 at paragraph 5; Ford Motor Company of Canada Limited v. The Queen, 2015 TCC 185 at paragraph 7
+[11] Invesco Canada Ltd v. The Queen, 2015 TCC 92 at paragraph 5; MacDonald v. The Queen, 2018 TCC 55 at paragraph 46
+[12] Reply to notice of appeal in 2012-4035(IT)G at paragraph 4(b)
+[13] Reply to notice of appeal in 2012-4035(IT)G at paragraph 7
+[14] 9196-7448 Québec Inc v. The Queen, 2017 TCC 50 at paragraph 24
+[15] Tax Court of Canada Rules (General Procedure), subsections 147(3.1) and (3.2)
+[16] Affidavit of Veidhya Pradeep Kumar (filed January 31, 2025) – Exhibit H
+[17] Di Mauro v. The King, 2024 TCC 111 at paragraphs 15 and 16
+[18] Aitchison Professional Corporation v. The Queen, 2018 TCC 234 at paragraph 13
+[19] Di Mauro v. The King, 2024 TCC 111 at paragraph 19
+[20] Affidavit of Veidhya Pradeep Kumar (filed January 31, 2025) – Exhibit I

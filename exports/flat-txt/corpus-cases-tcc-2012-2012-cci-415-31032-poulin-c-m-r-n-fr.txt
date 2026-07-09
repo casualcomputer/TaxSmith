@@ -1,0 +1,219 @@
+Title: Poulin c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/31032/index.do
+Corpus path: corpus/cases/tcc/2012/2012-cci-415-31032-poulin-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2012-12-03
+
+# Poulin c. M.R.N.
+
+- Citation: 2012 CCI 415
+- Decision date: 2012-12-03
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4855, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Poulin c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2012-12-03
+Référence neutre
+2012 CCI 415
+Numéro de dossier
+2011-1019(EI)
+Juges et Officiers taxateurs
+Lucie Lamarre
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2011-1019(EI)
+ENTRE :
+MARIE-CLAUDE POULIN,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+KONDITION PLURIEL,
+intervenante.
+____________________________________________________________________
+Appel entendu sur preuve commune avec l’appel de Kondition Pluriel, 2011-1020(EI), le 19 octobre 2012, à Montréal (Québec).
+Devant : L'honorable juge Lucie Lamarre
+Comparutions :
+Représentant de l'appelante :
+Michel Poulin
+Avocate de l'intimé :
+Me Nancy Azzi
+Représentant de l'intervenante:
+Michel Poulin
+____________________________________________________________________
+JUGEMENT
+L'appel en vertu du paragraphe 103(1) de la Loi sur l'assurance-emploi est rejeté. La décision rendue par le ministre du Revenu national établissant que l’appelante, Marie-Claude Poulin, n’exerçait pas un emploi assurable auprès de Kondition Pluriel au cours de la période du 7 mars 2004 au 28 février 2005 est confirmée.
+Signé à Ottawa, Canada, ce 3e jour de décembre 2012.
+« Lucie Lamarre »
+Juge Lamarre
+Dossier : 2011-1020(EI)
+ENTRE :
+KONDITION PLURIEL,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+MARIE-CLAUDE POULIN,
+intervenante.
+____________________________________________________________________
+Appel entendu sur preuve commune avec l’appel de Marie-Claude Poulin, 2011-1019(EI), le 19 octobre 2012, à Montréal (Québec).
+Devant : L'honorable juge Lucie Lamarre
+Comparutions :
+Représentant de l'appelante :
+Michel Poulin
+Avocate de l'intimé :
+Me Nancy Azzi
+Pour l'intervenante:
+L’intervenante elle-même
+____________________________________________________________________
+JUGEMENT
+L'appel en vertu du paragraphe 103(1) de la Loi sur l'assurance-emploi est rejeté. La décision rendue par le ministre du Revenu national établissant que l’intervenante, Marie-Claude Poulin, n’exerçait pas un emploi assurable auprès de Kondition Pluriel au cours de la période du 7 mars 2004 au 28 février 2005 est confirmée.
+Signé à Ottawa, Canada, ce 3e jour de décembre 2012.
+« Lucie Lamarre »
+Juge Lamarre
+Référence : 2012 CCI 415
+Date : 20121203
+Dossier : 2011-1019(EI)
+ENTRE :
+MARIE-CLAUDE POULIN,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+KONDITION PLURIEL,
+intervenante.
+Dossier : 2011-1020(EI)
+ENTRE :
+KONDITION PLURIEL,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+MARIE-CLAUDE POULIN,
+intervenante.
+MOTIFS DU JUGEMENT
+La juge Lamarre
+[1] Les appelantes en appellent d’une décision du ministre du Revenu national (ministre) par laquelle il a conclu que Marie-Claude Poulin n’exerçait pas un emploi assurable auprès de Kondition Pluriel au cours de la période du 7 mars 2004 au 28 février 2005. Le ministre a déterminé que l’emploi était exclu des emplois assurables par l’application de l’alinéa 5(2)i) et du paragraphe 5(3) de la Loi sur l’assurance-emploi (LAE). Plus précisément, le ministre est d’avis que l’employeur et l’employée avaient entre eux un lien de dépendance et qu’il n’était pas raisonnable de conclure, compte tenu de toutes les circonstances, qu’ils auraient conclu un contrat de travail à peu près semblable s’ils n’avaient pas eu de lien de dépendance.
+[2] Les dispositions législatives applicables se lisent comme suit :
+Loi sur L’assurance emploi
+EMPLOI ASSURABLE
+5.(2) Restriction — N’est pas un emploi assurable :
+[…]
+i) l’emploi dans le cadre duquel l’employeur et l’employé ont entre eux un lien de dépendance.
+5.(3) Personnes liées — Pour l’application de l’alinéa (2)i) :
+a) la question de savoir si des personnes ont entre elles un lien de dépendance est déterminée conformément à la Loi de l’impôt sur le revenu;
+b) l’employeur et l’employé, lorsqu’ils sont des personnes liées au sens de cette loi, sont réputés ne pas avoir de lien de dépendance si le ministre du Revenu national est convaincu qu’il est raisonnable de conclure, compte tenu de toutes les circonstances, notamment la rétribution versée, les modalités d’emploi ainsi que la durée, la nature et l’importance du travail accompli, qu’ils auraient conclu entre eux un contrat de travail à peu près semblable s’ils n’avaient pas eu de lien dépendance.
+[3] Le lien de dépendance est défini à l’article 251 de la Loi de l’impôt sur le revenu (LIR). Les dispositions législatives pertinentes se lisent comme suit :
+LOI DE L’IMPÔT SUR LE REVENU
+ARTICLE 251 : Lien de dépendance.
+(1) Pour l’application de la présente loi :
+a) des personnes liées sont réputées avoir entre elles un lien de dépendance;
+[…]
+(2) Définition de « personnes liées » — Pour l’application de la présente loi, sont des « personnes liées » ou des personnes liées entre elles :
+a) des particuliers unis par les liens du sang, du mariage, de l’union de fait ou de l’adoption;
+b) une société et :
+[…]
+ii) une personne qui est membre d’un groupe lié qui contrôle la société,
+[…]
+(4) Définitions relatives au groupe — Les définitions qui suivent s’appliquent à la présente loi.
+« groupe lié » Groupe de personnes dont chaque membre est lié à chaque autre membre du groupe.
+[…]
+(6) Personnes liées par les liens du sang — Pour l’application de la présente loi :
+a) des personnes sont unies par les liens du sang si l’une est l’enfant ou un autre descendant de l’autre ou si l’une est le frère ou la sœur de l’autre;
+b) des personnes sont unies par les liens du mariage si l’une est mariée à l’autre ou à une personne qui est ainsi unie à l’autre par les liens du sang;
+[…]
+[4] Il est important de préciser dès le départ que la décision résultant de l’exercice par le ministre de son pouvoir discrétionnaire ne peut être modifiée que si le ministre a agi de mauvaise foi, a omis de tenir compte de l’ensemble des circonstances pertinentes, ou a tenu compte de facteurs non pertinents. Notre cour doit donc se demander si la décision du ministre résulte d’un exercice approprié de son pouvoir discrétionnaire en toute légalité, et si elle juge que oui, elle ne peut substituer sa propre décision à celle du ministre. En d’autres termes, ce n’est que si la Cour en arrive à la conclusion que le ministre a fait un usage inapproprié de sa discrétion qu’elle peut décider, à son tour, si, compte tenu de toutes les circonstances, un contrat de travail à peu près semblable aurait été conclu en l’absence d’un lien de dépendance entre l’employeur et l’employée (Ferme Émile Richard et Fils Inc. c. Canada (ministère du Revenu national), [1994] A.C.F. no 1859 (QL); voir également Légaré c. Canada (ministre du Revenu national), [1999] A.C.F. no 878 (QL)).
+[5] Les faits sur lesquels s’est fondé le ministre pour rendre sa décision se retrouvent aux paragraphes 5 et 6 de la Réponse à l’avis d’appel (de Marie‑Claude Poulin), qui se lisent comme suit :
+5) L’appelante et le payeur sont des personnes liées au sens de la Loi de l’impôt sur le revenu car :
+a) le payeur est un organisme sans but lucratif; [admis]
+b) pendant la période en litige, le Conseil administratif du payeur était formé de 3 personnes, soit Martin Kusch, Michel Poulin et Marie-Claude Poulin; [admis]
+c) Marie-Claude Poulin est la fille de Michel Poulin et l’épouse de Martin Kusch; [admis]
+d) l’appelante, Marie-Claude Poulin, est liée par les liens de sang et du mariage à chacun des autres membres du Conseil d’administration du payeur; [admis pour la période en litige]
+6) Le ministre a déterminé que l’appelante et le payeur avaient un lien de dépendance entre eux dans le cadre de l’emploi. En effet, le ministre a été convaincu qu’il n’était pas raisonnable de conclure que l’appelante et le payeur auraient conclu entre eux un contrat de travail à peu près semblable s’ils n’avaient pas eu de lien de dépendance, compte tenu des circonstances suivantes :
+a) le payeur a été constitué en 2003 tel un organisme sans but lucratif, suite à un changement de dénomination;
+b) le payeur est financé par des subventions et des dons;
+c) le payeur exploite une entreprise spécialisée dans le domaine du spectacle artistique dans 3 disciplines, soit la danse, le spectacle médiatique et multidisciplinaire. Il présente également ses créations en Europe;
+d) les fondateurs initiaux du payeur sont l’appelante et Martin Kusch qui ont créé en 2000 la Compagnie de Fortune inc;
+e) le Conseil d’administration du payeur se réunit 2 fois par année pour des réunions régulières et une fois pour une réunion générale. Toutes les décisions majeures où l’accord du Conseil est nécessaire sont prises au téléphone ou lors de réunion; [admis]
+f) toutes les décisions relatives aux opérations quotidiennes sont prises par Martin Kusch et l’appelante;
+g) de la création de la Compagnie de Fortune jusqu’en 2003, l’appelante rendait des services à titre de travailleuse autonome;
+h) depuis la formation de l’organisme sans but lucratif en 2003, le statut de l’appelante a changé pour celui de travailleuse salariée suite à une recommandation d’une firme extérieure qui aide les jeunes entrepreneurs à gérer leur entreprise. L’appelante pourrait ainsi éventuellement bénéficier des prestations de maternité;
+i) cette firme, Diagramme gestion culturelle, assure à ses clients, dont le payeur, des services ressources et conseils en gestion administrative et communication et facilite l’accès à diverses ressources professionnelles, matérielles et financières;
+j) l’appelante occupait le poste de codirectrice artistique;
+k) les tâches de l’appelante consistaient à faire de l’administration pour le payeur, d’aller chercher des subventions, de gérer l’argent, d’organiser des tournées, de préparer et concevoir des projets, de donner des conférences, d’embaucher des employés tels que danseurs, producteurs, chorégraphes;
+l) les fonctions de l’appelante ont été déterminées par le payeur et Diagramme gestion culturelle, selon un partage des tâches défini à l’annexe A du contrat liant le payeur et Diagramme gestion culturelle;
+m) l’appelante devait rendre des comptes au Conseil d’administration du payeur et demander leur approbation pout [sic] toute question autre que celle se rapportant aux opérations journalières; [admis]
+n) la rémunération de l’appelante a été déterminée par le Conseil d’administration et Diagramme gestion culturelle à 600 $ par deux semaines sans considération des heures réellement travaillées;
+o) la rémunération de l’appelante est basée sur la capacité de payer du payeur en tenant compte du cachet que l’appelante recevait avant;
+p) le 22 octobre 2004, le salaire de l’appelante est passé de 600 $ par 2 semaines à 1 160 $ par deux semaines, soit une augmentation de 560 $;
+q) dans une première version, l’appelante a expliqué que l’augmentation de salaire serait le résultat d’une présentation de budget au Conseil des arts selon le projet à faire et de l’approbation du Conseil d’administration du payeur, alors que dans une deuxième version, l’appelante et le payeur expliquent que l’augmentation de salaire ferait suite au départ de son assistante, Marilou Aubin;
+r) l’examen des livres du payeur démontre que Marilou Aubin n’est plus au service du payeur depuis le 21 novembre 2003;
+s) pendant les absences de l’appelante pour des raisons de congé de maternité, le payeur n’a pas remplacé l’appelante, mais a plutôt répartie [sic] sa charge de travail entre Martin Kusch et Catherine Tardif pour la danse et les chorégraphies.
+[6] Dans sa réplique, l’appelante n’a admis que les paragraphes où la mention « admis » est indiquée ci-dessus. Elle a nié ou commenté les autres paragraphes.
+[7] L’appelante soutient que, malgré son lien de dépendance avec l’employeur, elle a été traitée de la même façon que l’aurait été toute autre personne dans les mêmes circonstances agissant comme chorégraphe, danseuse et codirectrice artistique. Elle explique que Kondition Pluriel est une très petite compagnie exerçant des activités dans un domaine à faible rentabilité, qui doit composer, pour payer quelque employé que ce soit, avec les subventions provenant des conseils des arts de la ville de Montréal, de la province de Québec et du gouvernement fédéral, de même qu’avec les quelques autres maigres revenus qu’elle reçoit. Elle dit que le fait de recevoir des subventions des trois paliers de gouvernement démontre le sérieux de leur entreprise. D’ailleurs, afin d’assurer toute crédibilité à l’organisme, l’objectif de la compagnie est d’accueillir des membres externes sur son conseil d’administration (CA), ce qu’elle a commencé à faire en avril 2005. Il semblerait qu’en 2011 le CA comptait six administrateurs, dont la moitié n’étaient pas des personnes liées. Au cours de la période en litige, ils étaient trois au CA : l’appelante elle-même, son père, Michel Poulin, et son mari, Martin Kusch.
+[8] L’appelante et son mari agissent comme codirecteurs artistiques et prennent les décisions courantes. Ils se réunissent avec le CA deux ou trois fois par année et l’on discute alors des décisions plus importantes. Dans la période en litige, il n’y avait que son père qui se rajoutait lors des réunions du CA. Ils ont engagé un organisme du nom de Diagramme gestion culturelle (Diagramme), qui se spécialise dans la gestion financière et administrative et qui offre ses services à moindre coût aux organismes œuvrant dans le domaine de la danse. C’est Diagramme qui a recommandé à l’appelante de devenir salariée à compter du 22 août 2003. Auparavant, elle était rémunérée à cachet et aucune retenue à la source n’était effectuée. L’appelante explique que c’était trop de travail pour leur petite compagnie d’administrer un registre de salaires. Apparemment, en 2003, ils s’attendaient à recevoir un financement continu en subventions par opposition à un financement par projet, ce qui assurait une certaine sécurité pour permettre à l’entreprise de verser un salaire au lieu de cachets.
+[9] Ainsi, l’appelante a reçu un salaire du 22 août 2003 jusqu’au 28 février 2005, date de son arrêt de travail pour son premier congé de maternité. Elle explique que l’année financière de la compagnie s’étale du 1er juillet au 30 juin et que, dans l’année financière 2003-2004, elle aurait reçu 14 280 $ en salaire. Dans cette même année financière, ils auraient versé un salaire de 3 278,65 $ à Marie‑Lou Aubin, qui a été embauchée pour faire de la promotion et du développement de marché. La compagnie aurait reçu également une subvention de 3 000 $ pour engager Marie-Lou, laquelle somme lui a également été versée. Cette dernière aurait donc reçu 6 278,65 $ au total au cours de cette année-là.
+[10] Dans l’année financière 2004-2005, l’appelante a reçu 16 515,99 $. Avant le 22 octobre 2004, elle gagnait 600 $ aux deux semaines, et après cette date elle a commencé à recevoir 1 160 $ aux deux semaines. Comme elle cumulait son propre travail et le travail de Marie‑Lou suite au départ de cette dernière le 21 novembre 2003, elle trouvait cela tout à fait justifié que son salaire augmente autant en octobre 2004, étant donné qu’elle avait été largement sous-payée entre novembre 2003 et octobre 2004. Elle a été en congé de maternité du mois de mai 2005 au mois de mai 2006. À son retour, ils ont décidé d’un commun accord de ne plus la rémunérer à salaire. Elle est revenue à la rémunération à cachet, sans retenues à la source. Par ailleurs, le Régime québécois d’assurance parentale ayant été modifié pour permettre aux non-salariées de bénéficier de cette assurance, l’appelante n’est pas devenue salariée à nouveau lors de sa deuxième grossesse.
+[11] L’appelante a dit qu’elle a toujours travaillé au moins 55 heures par semaine. Lorsqu’elle était rémunérée à salaire, c’était un salaire fixe pour 40 heures par semaine. Dans la déclaration qui a été fournie au bureau de l’assurance-emploi (pièce I-3), on indique des semaines de travail de 35 heures et de cinq jours pour un employeur avec lequel l’appelante n’avait pas de lien de dépendance. L’appelante a dit que ce n’est pas elle qui a rempli cette déclaration, mais elle reconnaît l’avoir signée sans en avoir vérifié le contenu. C’est la représentante de Diagramme, Nathalie Prémont, qui aurait rempli cette déclaration. Elle a témoigné pour dire qu’elle s’était entendue avec l’appelante pour inscrire 35 heures de travail par semaine. Elle a justifié ceci en disant que ce chiffre s’expliquait par certaines semaines où l’appelante aurait travaillé moins. Elle a recommandé à l’appelante de devenir salariée pour lui assurer une stabilité, compte tenu de la viabilité financière de l’entreprise. Mais la décision ultime de verser un salaire au lieu de cachets à l’appelante a été prise par le CA de Kondition Pluriel.
+[12] Par ailleurs, l’intimé a déposé en preuve l’entente contractuelle entre Diagramme et Kondition Pluriel par laquelle Kondition Pluriel reconnaît être entièrement responsable de toutes les décisions administratives prises, quels que soient les services rendus par Diagramme (pièce I-5, paragraphe 3).
+[13] L’appelante a aussi fait témoigner madame Danielle Demers, directrice générale de 2007 à 2011 de Diagramme. Celle-ci mentionne, dans une lettre déposée en preuve sous la cote A-1, que Diagramme offre des services professionnels de gestion financière et administrative à l’ensemble de la communauté de la danse et que cela se fait à moindre coût grâce au soutien des conseils des arts. Elle mentionne que les compagnies œuvrant dans le milieu de la danse dépendent majoritairement de subventions gouvernementales, comme c’est le cas pour Kondition Pluriel. Elle souligne qu’elles sont toutes tributaires de fluctuations de revenus et que la rémunération des employés en dépend. Elle mentionne également que la charge de travail des directeurs artistiques inclut une grande part de tâches administratives, de sorte que ces directeurs accumulent un nombre considérable d’heures de travail et, par le fait même, ces derniers acceptent une rémunération proche du salaire minimum. Elle ajoute que les liens de dépendance des artistes avec les membres du CA d’une compagnie n’influencent généralement en rien les décisions prises. Elle souligne que toutes ces compagnies sont toutefois soumises aux normes et aux règles des conseils des arts qui octroient les subventions et à qui les compagnies doivent faire rapport annuellement. Elle considère que Kondition Pluriel ne fonctionnait pas de manière différente.
+[14] Madame Sonnie McGrath, l’agent des appels pour l’Agence du revenu du Canada (ARC) dans ce dossier, après enquête et analyse, en est venue à la conclusion qu’il était déraisonnable de conclure que l’employeur aurait engagé une personne sans lien de dépendance en vertu d’un contrat de travail à peu près semblable à celui qui le liait avec l’appelante. Elle a expliqué en cour les éléments qu’elle a retenus pour en venir à cette conclusion (cette analyse se retrouve dans son rapport déposé sous la cote I-6).
+[15] En ce qui concerne la rétribution versée, elle a constaté que l’appelante recevait un salaire fixe aux deux semaines, incluant cinq semaines de vacances, qui équivalait, au début de la période, à un taux inférieur au salaire minimum, si l’on tient compte du nombre réel d’heures de travail. Par la suite, son salaire a presque doublé. L’appelante a dit que cela se justifiait par le départ de Marie-Lou Aubin et par le fait qu’elle accomplissait des tâches administratives en plus. Madame McGrath a considéré ceci comme déraisonnable compte tenu du fait que Diagramme était déjà engagé pour faire l’administration et que le travail de communication auparavant effectué par Marie-Lou ne justifiait pas une telle augmentation. Lors de l’enquête de madame McGrath, le président du CA aurait expliqué par lettre que l’augmentation du salaire de l’appelante s’expliquait par le fait que l’employeur aurait eu plus de liquidités. Selon madame McGrath, une employée ne voit pas normalement son salaire fluctuer en fonction des revenus de l’entreprise. Elle conclut qu’une personne sans lien de dépendance n’aurait pas accompli un travail similaire contre une rémunération similaire.
+[16] Pour ce qui est des modalités et conditions d’emploi, madame McGrath a constaté que l’appelante ne comptabilisait pas ses heures de travail, celle-ci ayant une grande latitude professionnelle due à son expérience et à sa formation. De plus, madame McGrath a considéré comme fort improbable qu’un employeur fasse d’une travailleuse non liée une salariée uniquement pour lui permettre de bénéficier des prestations de maternité, quand on considère toutes les dépenses que cela engendre pour un employeur. Elle a donc jugé déraisonnable de conclure qu’une personne sans lien de dépendance aurait été engagée selon des modalités et conditions d’emploi similaires.
+[17] Relativement à la durée, madame McGrath a considéré que l’appelante faisait exactement le même travail avant, en étant rémunérée à cachet, comme travailleuse autonome et a récupéré ce statut après son congé de maternité. Elle a donc conclu que l’appelante n’était devenue salariée que pour se prévaloir des prestations de maternité sous le régime de l’assurance-emploi.
+[18] L’appelante a expliqué qu’ils avaient bon espoir en 2005-2006 d’obtenir un financement continu, mais ceci ne s’est concrétisé qu’en 2008. Kondition Pluriel a dû s’adapter compte tenu des charges sociales rattachées au statut d’employé. Elle a expliqué que son travail d’administration était complémentaire à celui de Diagramme. Ils travaillaient en collaboration. Quant aux tâches accomplies par Marie‑Lou, l’appelante a dû assumer ces tâches après son départ. Marie‑Lou avait été embauchée grâce à un projet d’emploi d’une durée de 4 à 6 mois avec Emploi Québec.
+[19] Finalement, l’appelante a reconnu que, durant la période en litige, elle était payée par chèques qu’elle pouvait signer elle-même au nom de Kondition Pluriel, et qu’il lui était arrivé à quelques reprises de retarder de plusieurs jours l’encaissement des ses chèques de paie.
+Arguments de l’intimé
+[20] L’intimé soutient que la décision prise par madame McGrath n’est pas déraisonnable. Il estime que le lien de dépendance a affecté la relation employeur-employée en ce que même un employé dévoué n’aurait pas accepté de travailler de longues heures, pouvant aller jusqu’à 60 heures par semaine, contre une rémunération versée pour 40 heures par semaine. Quant à l’argument que le monde de la danse est un milieu particulier en ce que tous ceux qui travaillent dans ce domaine sont prêts à faire des concessions et acceptent souvent d’être sous-payés, l’intimé répond qu’il n’y a pas d’exception dans la LAE pour les danseurs. Par ailleurs, l’intimé considère que la preuve voulant que les danseurs acceptent de façon générale d’être sous-payés devait être faite par une preuve d’experts. L’appelante a fait témoigner deux personnes ayant travaillé pour Diagramme, mais ces deux personnes n’ont pas été spécifiquement admises à témoigner à titre d’experts à ce sujet. Elles ne pouvaient témoigner que de leur implication factuelle avec Kondition Pluriel.
+[21] Par ailleurs, l’intimé souligne que l’appelante avait des fonctions variées. En fait, elle faisait plus d’administration que de danse. Elle ne pouvait donc faire partie d’un groupe de danseurs touchés par une rémunération médiocre.
+[22] L’intimé fait remarquer également que le salaire de l’appelante a doublé 11 mois après le départ de Marie-Lou. L’augmentation du salaire ne correspondait donc pas à l’augmentation de la charge de travail, mais plutôt était tributaire des recettes de l’entreprise. Cela s’apparente plus à la rémunération que s’octroie un propriétaire d’entreprise quand les revenus le permettent. Par ailleurs, si l’on épluche les chèques faits à l’ordre de l’appelante, dont copie a été déposée sous la cote I-7, il semble y avoir un retard dans l’encaissement de certains chèques de plus de 10 ou 20 jours. De plus, elle a eu droit à cinq semaines de vacances complètement rémunérées. L’intimé estime que ce traitement ne serait pas accordé à un employé sans lien de dépendance.
+[23] Quant aux modalités d’emploi, l’intimé considère que le fait de devenir salariée dans le seul but de bénéficier des prestations de maternité démontre encore une fois un traitement particulier pour une employée avec un lien de dépendance. Il n’est pas déraisonnable de croire que l’on n’aurait pas accordé un tel traitement à une personne sans lien de dépendance. Il souligne aussi que l’appelante elle-même a délibérément semé une certaine confusion en ne mentionnant pas dans sa déclaration qu’elle avait un lien avec l’employeur et en déclarant faussement qu’elle était rémunérée pour 35 heures par semaine alors qu’elle en travaillait beaucoup plus, sans toutefois comptabiliser ses heures. L’intimé se réfère à la décision de notre cour dans Serres de la Pointe Inc. c. Canada (Ministre du Revenu national), [2005] A.C.I. no 656 (QL), aux paragraphes 51 à 53, pour soutenir qu’une telle présentation façonne le lien de travail d’une manière à teinter la réalité à l’avantage de l’employée et à ainsi contrôler les prestations par la suite. La même situation existait dans l’arrêt Ferme Émile Richard et Fils Inc., précité, et la Cour d’appel fédérale a accepté la conclusion du juge de première instance qu’un tel arrangement avait été influencé par l’existence du lien de dépendance.
+Arguments de l’appelante
+[24] L’appelante souligne que, dans plusieurs entreprises, on ne comptabilise pas les heures de travail. Quand on aime son travail, on ne s’en formalise pas. Elle admet que le fait de devenir une salariée était avantageux pour elle, mais elle soutient qu’elle s’est toujours considérée comme une employée, même lorsqu’elle était rémunérée à cachet. La compagnie commençait à prendre son essor et on aurait agi de la même façon avec une employée sans lien de dépendance pour assurer une certaine stabilité aux employés. Le milieu de la danse doit être vu dans un contexte spécial. Les employés savent qu’il faut travailler beaucoup avant d’avoir une certaine reconnaissance et la rémunération n’est pas toujours ajustée aux heures accomplies.
+[25] Quant à la confusion, invoquée par l’intimé, dans la déclaration faite par l’appelante, celle-ci souligne l’intention réelle de l’entreprise d’agrandir son CA avec des personnes non liées. Elle soutient que, dans cette optique, le CA a toujours supervisé son travail, même s’il n’était composé que des trois membres de la même famille. L’appelante est avant tout une chorégraphe artistique et pas une administratrice, même si, dans le contexte d’une petite entreprise, elle n’a pas d’autre choix que de faire de l’administration.
+Analyse
+[26] Tel que je le mentionnais au début de mes motifs, notre cour doit nécessairement, dans un premier temps, limiter son analyse au contrôle de la légalité de la décision du ministre. Ce n’est que si je conclus que l’un des motifs d’intervention est établi — c’est-à-dire si le ministre n’a pas tenu compte de toutes les circonstances, a pris en compte des facteurs dépourvus d’intérêt ou a violé un principe de droit — que je peux examiner le bien-fondé de la décision du ministre. S’il y a suffisamment d’éléments pour appuyer la conclusion du ministre, notre cour n’a pas toute latitude pour l’infirmer simplement parce qu’elle serait arrivée à une conclusion différente (Canada (Procureur général) c. Jencan, [1998] 1 C.F. 187, au par. 31).
+[27] À mon avis, l’appelante n’a pas fait la preuve que le ministre a exercé de façon inappropriée son pouvoir discrétionnaire. Le facteur de la rémunération à lui seul pouvait amplement justifier la décision du ministre. L’appelante a admis avoir travaillé considérablement plus d’heures que le nombre d’heures invoqué dans sa déclaration faite au bureau d’assurance-emploi. Elle reconnaît qu’elle n’était pas assez payée pendant une certaine période et que la décision fut prise de doubler son salaire lorsque la compagnie a pu se le permettre. Déjà là, on voit un comportement propre aux décisions prises par une personne qui contrôle son entreprise. Par ailleurs, tel qu’on peut l’inférer des propos du juge Tardif dans l’affaire Serres de la Pointe Inc., précitée, au paragraphe 51, la fluctuation de la rémunération pour un travail de même nature au cours d’une période a pour effet de fausser les données relatives au contrat de travail et constitue un élément important pour illustrer à quel point le lien de dépendance a façonné le contrat de travail. Dans le cas actuel, le fait d’inscrire un salaire hebdomadaire pour 35 heures de travail, alors que le nombre d’heures était beaucoup plus élevé, a eu pour effet de gonfler artificiellement le taux horaire.
+[28] De plus, la décision fut prise de rendre l’appelante salariée afin qu’elle puisse tirer avantage des prestations rattachées au congé de maternité. Je suis d’accord avec l’appelante qu’en soi cela n’est pas illégal, si ses conditions de travail reflètent réellement un contrat d’emploi. Mais ce qu’il faut retenir ici, c’est que l’appelante décide si elle aura un lien d’emploi ou non, selon ce qui lui convient, ce qui ne serait pas nécessairement le cas d’une employée sans lien de dépendance. Effectivement, dès son retour de congé de maternité, elle est revenue à la rémunération à cachet, sans retenues à la source. Bien que pas nécessairement déterminant en soi, cette façon d’agir pouvait très bien être considérée par le ministre comme un élément parmi d’autres démontrant une décision prise par une personne ayant le contrôle de son entreprise, qui n’aurait pas nécessairement été prise pour une autre personne, qui n’avait pas de lien de dépendance.
+[29] Par ailleurs, même si l’une des représentantes de Diagramme est venue dire que les artistes de la danse pouvaient être sous-payées et doivent constamment s’adapter aux instabilités financières, il n’y a pas eu de preuve concrète qu’une telle artiste sans lien de dépendance aurait été traitée de la même façon que l’appelante au sein de Kondition Pluriel. Au contraire, il a plutôt été établi que non seulement l’appelante a vu son salaire doubler au cours de la période en litige, mais en plus elle a eu droit à cinq semaines de vacances complètement rémunérées, ce qui, à mon avis, va plutôt dans le sens contraire des propos tenus par madame Demers.
+[30] J’estime qu’il y a suffisamment d’éléments en preuve pour appuyer la conclusion du ministre. Il m’est donc difficile de conclure que le ministre a mal exercé sa discrétion et que la décision qu’il a prise était déraisonnable. L’appelante n’ayant pas franchi cette première étape, il ne m’est pas possible d’intervenir en sa faveur.
+[31] L’appel est rejeté et la décision du ministre est confirmée.
+Signé à Ottawa, Canada, ce 3e jour de décembre 2012.
+« Lucie Lamarre »
+Juge Lamarre
+RÉFÉRENCE : 2012 CCI 415
+Nº DU DOSSIER DE LA COUR : 2011-1019(EI) et 2011-1020(EI)
+INTITULÉ DE LA CAUSE : MARIE-CLAUDE POULIN c. MINISTRE DU REVENU NATIONAL et KONDITION PLURIEL
+KONDITION PLURIEL c. MINISTRE DU REVENU NATIONAL et MARIE‑CLAUDE POULIN
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATE DE L’AUDIENCE : Le 19 octobre 2012
+MOTIFS DU JUGEMENT PAR : L'honorable juge Lucie Lamarre
+DATE DU JUGEMENT : Le 3 décembre 2012
+COMPARUTIONS :
+Représentant des appelantes :
+Michel Poulin
+Avocate de l'intimé :
+Me Nancy Azzi
+Représentant des intervenantes:
+Michel Poulin (2011-1019(EI))
+L’intervenante elle-même (2010‑1020(EI))
+AVOCAT INSCRIT AU DOSSIER :
+Pour les appelantes:
+Nom :
+Cabinet :
+Pour l’intimé : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada

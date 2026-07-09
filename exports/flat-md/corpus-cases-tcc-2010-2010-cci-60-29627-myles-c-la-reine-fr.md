@@ -1,0 +1,171 @@
+---
+title: "Myles c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29627/index.do"
+last_modified: "2010-02-02"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 CCI 60"
+citation2: ""
+neutral_citation: "2010 CCI 60"
+decision_date: "2010-02-02"
+language: "fr"
+item_id: "29627"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6134
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T13:18:30.164000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "ae895074671ad872e41c884cfc67bed9a4b0fd3bd0dc0d1221a9d90cc5abe736"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Myles c. La Reine
+
+- Citation: 2010 CCI 60
+- Decision date: 2010-02-02
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6134, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Myles c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2010-02-02
+Référence neutre
+2010 CCI 60
+Numéro de dossier
+2009-2472(IT)I
+Juges et Officiers taxateurs
+Georgette Anne Sheridan
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2009-2472(IT)I
+ENTRE :
+JOHN MYLES,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 21 janvier 2010 à Victoria (Colombie-Britannique).
+Devant : L’honorable juge G. A. Sheridan
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Me Matthew Canzer
+____________________________________________________________________
+JUGEMENT
+Conformément aux motifs du jugement ci-joints, l’appel interjeté à l’encontre de la nouvelle cotisation établie en vertu de la Loi de l’impôt sur le revenu est accueilli, et la nouvelle cotisation est renvoyée au ministre du Revenu national pour nouvel examen et nouvelle cotisation en tenant compte du fait que l’appelant a droit aux frais de déménagement, tels qu’ils ont été demandés, pour l’année 2007.
+Signé à Toronto (Ontario), ce 2e jour de février 2010.
+« G. A. Sheridan »
+Juge Sheridan
+Traduction certifiée conforme
+ce 10e jour de mai 2010.
+Espérance Mabushi, M.A.Trad. Jur.
+Référence : 2010 CCI 60
+Date : 20100202
+Dossier : 2009-2472(IT)I
+ENTRE :
+JOHN MYLES,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Sheridan
+[1] L’appelant, John Myles, interjette appel de la décision de refuser la déduction de frais de déménagement qu’il a demandée en vertu de l’alinéa 62(1)a) de la Loi de l’impôt sur le revenu (la « Loi ») :
+62(1) Frais de déménagement – Un contribuable peut déduire dans le calcul de son revenu pour une année d’imposition les sommes qu’il a payées au titre des frais de déménagement engagés relativement à une réinstallation admissible dans la mesure où, à la fois :
+a) elles n’ont pas été payées en son nom relativement à sa charge ou à son emploi ou dans le cadre ou en raison de sa charge ou de son emploi :
+[Non souligné dans l’original.]
+[2] Le terme « réinstallation admissible » est défini au paragraphe 248(1) de la Loi, et les passages pertinents sont ainsi libellés :
+« réinstallation admissible » Réinstallation d’un contribuable relativement à laquelle les conditions suivantes sont réunies :
+a) elle est effectuée afin de permettre au contribuable :
+(i) […] d’occuper un emploi à un endroit au Canada
+(appelé « nouveau lieu de travail » à l’article 62 et au présent paragraphe),
+[…]
+b) la résidence que le contribuable habitait ordinairement avant la réinstallation (appelée
+« ancienne résidence » à l’article 62 et au présent paragraphe) et celle qu’il habitait ordinairement après la réinstallation (appelée « nouvelle résidence » à l’article 62 et au présent paragraphe) sont toutes deux situées au Canada;
+c) la distance entre l’ancienne résidence et le nouveau lieu de travail est supérieure d’au
+moins 40 kilomètres à la distance entre la nouvelle résidence et le nouveau lieu de travail.
+[…]
+[Non souligné dans l’original.]
+[3] Il n’est pas contesté que M. Myles a déménagé d’Abbotsford, en Colombie‑Britannique (l’« ancienne résidence » selon la définition ci-dessus), pour occuper un nouvel emploi à Victoria, en Colombie‑Britannique. La seule question en litige est de savoir si cette « réinstallation admissible » a pris fin au mois de septembre 2006 lorsque l’appelant et sa femme ont emménagé dans un appartement qu’ils louaient à Victoria (l’« appartement de Victoria »), ou au mois d’avril 2007 lorsqu’ils ont pris possession de la maison qu’ils ont finalement acheté dans cette ville (la « maison de Victoria »).
+[4] Selon le ministre du Revenu national (le « ministre »), en septembre 2006, M. Myles « habitait ordinairement » dans l’appartement de Victoria et avait droit aux frais de déménagement demandés pour cette année d’imposition seulement. Le ministre a refusé la demande de déduction des frais de déménagement pour l’année 2007 parce qu’il n’avait pas été satisfait aux exigences des alinéas a) et c) de la définition de « réinstallation admissible » : le déménagement de l’appartement de Victoria à la maison de Victoria n’avait pas eu lieu aux fins du nouvel emploi et la distance entre les deux résidences était de moins de 40 kilomètres.
+[5] M. Myles soutient qu’il n’a jamais « habit[é] ordinairement » dans l’appartement de Victoria. Le temps pendant lequel il a résidé à cet endroit faisait simplement partie de la transition entre Abbotsford et Victoria.
+[6] M. Myles a témoigné pour son propre compte et c’était un témoin parfaitement crédible.
+[7] Pour les motifs exposés ci-dessous, je suis convaincue que M. Myles n’habitait pas ordinairement dans l’appartement de Victoria pendant la période allant du mois de septembre 2006 au mois d’avril 2007 et que, pour les besoins de la définition de « réinstallation admissible», sa « nouvelle résidence » était la maison de Victoria dans laquelle il a emménagé au mois d’avril 2007.
+[8] En 2004, M. Myles et sa femme, Natalie, vivaient à Abbotsford dans une maison dont ils étaient propriétaires depuis environ 25 ans. M. Myles travaillait alors comme consultant auprès d’une société d’architecture et faisait chaque jour la navette entre Abbotsford et Vancouver. Cette situation avait des répercussions négatives sur sa santé, et il a jugé, avec sa femme, que des changements radicaux s’imposaient. Il a trouvé un nouvel emploi et il échangé son travail indépendant à Vancouver contre un poste à traitement annuel à Victoria. Trouver une nouvelle maison à Victoria, près du lieu de travail de M. Myles était un élément essentiel de leur projet.
+[9] M. Myles a obtenu son nouveau poste à Victoria au mois de mai 2005. Mme Myles travaillait toujours à Abbotsford, et de toute façon, elle devait y rester pour vendre leur maison d’Abbotsford, de sorte que, du mois de mai 2005 au mois de septembre 2006, M. Myles a loué des chambres à Victoria et ne retournait à la maison à Abbotsford que chaque fin de semaine.
+[10] La vente de la maison d’Abbotsford était un élément crucial du projet de réinstallation. Tout d’abord, les prix des logements étaient plus élevés à Victoria qu’à Abbotsford et le marché immobilier plus actif. Sans la valeur nette résultant de la vente de leur maison d’Abbotsford, ils n’auraient pas été capables de faire une offre d’achat inconditionnelle, une condition préalable pour être compétitif sur le marché de Victoria.
+[11] C’est ainsi qu’au mois d’avril 2006, ils ont essayé de vendre la maison d’Abbotsford sans intermédiaire mais ils ont finalement dû demander l’aide d’un agent. Entre temps, M. Myles a commencé à emporter avec lui quelques effets de leur maison lorsqu’il retournait à Victoria.
+[12] Au mois de septembre 2006, soit un mois avant la date de signature du contrat de leur maison d’Abbotsford, M. et Mme Myles ont loué l’appartement de Victoria, soit le rez-de-chaussée d’un immeuble à usage locatif composé de trois appartements, et ils ont déménagé tous leurs effets à Victoria. L’appartement de Victoria était loué sur une base mensuelle, à court terme. Comme ils n’avaient plus de domicile à Abbotsford, ils ont pris des dispositions pour que le courrier leur soit livré à l’appartement de Victoria. En effet, M. Myles avait pris soin d’utiliser l’adresse de l’appartement de Victoria lorsqu’il a rempli sa déclaration de revenus de 2006. Des dispositions ont été aussi prises pour la livraison des journaux.
+[13] C’est peu dire que l’appartement de Victoria privait les Myles de leurs moyens. Leur maison d’Abbotsford était quatre fois plus grande que l’appartement de 700 pieds carrés de Victoria, ce qui veut dire que la plupart de leurs effets sont restés dans des boîtes entreposées dans un garage situé sur les lieux (il se trouve que le garage a été inondé au mois de novembre 2006 et que le contenu a dû être envoyé dans un entrepôt commercial) et que le reste était éparpillé dans le salon, la salle à manger, la chambre à coucher et dans tout autre endroit libre de l’appartement.
+[14] Compte tenu du fait qu’ils étaient à l’étroit, les Myles, ainsi que leur chien et leurs deux chats, ne se sont pas « installés » comme ils l’auraient fait en d’autres circonstances. M. Myles n’a pas déballé son équipement à travailler le bois; les Myles n’ont pas branché la chaine stéréo; ils ont appris à s’accommoder au grand congélateur-armoire qui ornait leur toute petite cuisine. Il va sans dire qu’ils n’ont pas décoré l’appartement. Ils ne se sont pas non plus présentés à leurs nouveaux voisins.
+[15] Ils ont consacré tout leur temps libre à chercher une maison à Victoria. Ils ont eu recours aux services d’un courtier en immeubles; ils ont cherché dans les environs et ont visité des maisons dans le cadre de journées portes ouvertes; ils ont examiné les propriétés inscrites sur Internet et dans le journal local. Finalement, leurs efforts ont porté fruit et au mois d’avril 2007, ils ont déménagé avec leur ménagerie domestique dans la maison de Victoria.
+[16] Dans ces circonstances, on ne peut pas dire que les Myles « habitaient ordinairement » dans l’appartement de Victoria. Étant donné que le terme « résident habituel » n’est pas défini dans la loi, le sens de ce terme a été dégagé par la jurisprudence. Dans Thomson v. Minister of National Revenu[1], le juge Estey s’exprimait ainsi :
+[traduction]
+D’après le dictionnaire et d’après l’interprétation que les tribunaux donnent de ces termes, un individu est « résident habituel » du lieu où, dans sa vie de tous les jours, il habite d’une manière régulière, normale ou habituelle. On « séjourne » à un endroit que l’on visite ou dans un lieu où l’on demeure exceptionnellement, occasionnellement ou par intermittence. Dans le premier cas, c’est le caractère permanent qui prédomine, et dans le second, le caractère temporaire. La différence ne peut être exprimée d’une manière claire et nette, chaque cas devant être déterminé compte tenu de tous les facteurs pertinents, mais ce qui précède indique d’une façon générale la différence essentielle. Ce n’est pas la longueur de la visite ou du séjour qui détermine la question. […][2]
+[17] Ainsi, après avoir constaté la nature factuelle de l’analyse et avoir soigneusement soupesé la preuve, le juge Estey a ensuite conclu que le contribuable, un homme d’affaires fortuné à la retraite, qui partageait son temps entre les maisons qu’il possédait en Caroline du Nord et au Nouveau-Brunswick, était un « résident habituel » au Canada lorsqu’il passait du temps à East Riverside :
+[traduction]
+En 1932, il a passé l’été à St. Andrews, au Nouveau‑Brunswick, ce qu’il a également fait en 1933 et en 1934. Au cours de la dernière année, il a construit et meublé pour environ 90 000 $, une autre résidence à East Riverside, près de Rothesay, au Nouveau‑Brunswick. La résidence à East Riverside a été construite afin que sa femme puisse rendre visite à sa famille et à ses amis, et passer du temps avec eux, et pour qu’il puisse lui‑même profiter du terrain de golf situé près de la résidence. Il avait à son service une famille qui vivait dans le logement des domestiques et s’occupait des lieux pendant toute l’année, même si le reste de la maison était fermé lors de l’absence de l’appelant. Il avait pour habitude de s’installer dans cette résidence au printemps et y demeurait jusqu’à l’automne de chaque année. [...]
+Cette résidence de East River était entretenue de façon à ce qu’elle soit toujours à sa disposition et disponible en tout temps. Une fois sur place, ses activités quotidiennes étaient centrées à cet endroit. C’est de là qu’il visitait d’autres lieux et c’est là qu’il revenait. Il y vivait alors avec sa famille. Il semblerait que l’appelant entretenait plusieurs résidences où il pouvait et où il allait et revenait à sa guise.[3]
+[…]
+L’appelant a choisi le lieu et a construit et meublé sa résidence aux fins mentionnées et l’entretient comme peut le faire quelqu’un de sa condition sociale. Pendant des années de suite, sa résidence en ce lieu a fait partie de son mode de vie habituel, et l’appelant agissait à son entière discrétion. Quand on prend ces faits en considération, et notamment les fins pour lesquelles il a établi cette résidence, il semble qu’on ne puisse que conclure qu’au sens de la présente loi, l’appelant réside habituellement à East Riverside, Nouveau-Brunswick, et doit donc payer de l’impôt sur le revenu en vertu de l’alinéa 9a) […][4]
+[18] En l’espèce, on ne peut pas en dire autant de l’appartement de Victoria. Rien dans la façon dont se sont comportés M. et Mme Myles dans l’appartement de Victoria ne correspond à ce qu’avait été leur [traduction] « vie quotidienne » avant le déménagement à Victoria. Ils ont quitté une résidence spacieuse, pleine de meubles et d’effets personnels, suffisamment large pour accueillir une famille, des voisins et des animaux domestiques pour ce qui était sensiblement une chambre d’hôtel faisant office de local d’entreposage. Même s’il n’était pas particulièrement confortable, l’appartement de Victoria a permis aux Myles d’avoir un pied-à-terre pendant qu’ils consacraient leur énergie à trouver une résidence permanente abordable près du lieu de travail de M. Myles à Victoria. Ils se sont tellement concentrés sur cet objectif qu’ils n’ont pas, de façon générale, pris le temps de s’installer dans l’appartement de Victoria ou de s’intégrer dans le quartier.
+[19] Pour appuyer la position du ministre selon laquelle M. Myles menait une [traduction] « vie quotidienne » dans l’appartement de Victoria, l’avocat de l’intimée a souligné qu’il avait sa famille avec lui, qu’il avait demandé que son courrier soit réexpédié à cette adresse et que les journaux y soient livrés, et qu’il y passait ses nuits et y prenait ses repas. Dans certaines circonstances, de tels faits pourraient bien permettre d’établir qu’un contribuable habitait ordinairement dans un endroit précis. Tel n’est pas le cas en l’espèce. Il n’y avait qu’une seule chambre libre et les fils de M. Myles ne pouvaient pas demeurer avec leurs parents pendant les vacances universitaires. Vivant au milieu des boîtes d’emballage, n’ayant pas accès à leurs effets personnels qu’ils détenaient depuis un quart de siècle, incapables de s’adonner à aucun de leurs loisirs habituels ou de poursuivre leurs activités sociales, M. et Mme Myles n’avaient pas encore réalisé leur but de se réinstaller à Victoria. Dans ces circonstances, on ne saurait guère affirmer que puisque l’appartement de Victoria était aussi près du lieu de travail de M. Myles que l’était la maison de Victioria, il était tout aussi bénéfique pour sa santé. En ce qui concerne la livraison du courrier et l’abonnement aux journaux, je trouve que ces facteurs ne sont pas importants. Ainsi que l’a soutenu M. Myles, il aurait pu prendre des dispositions pour obtenir les mêmes services s’il avait vécu à l’hôtel alors que lui et sa femme étaient à la recherche d’une maison. Le fait d’aviser le ministre de son adresse temporaire de l’appartement de Victoria ne fait que démontrer que M. Myles est un contribuable qui respecte les obligations qui lui incombent selon la loi. En tout état de cause, la preuve mène à la conclusion selon laquelle le temps que les Myles ont passé à l’appartement de Victoria faisait simplement partie de la période de transition entre leur « ancienne résidence » d’Abbotsford et la maison de Victoria, au style de vie plus tranquille, soit leur « nouvelle résidence » à Victoria.
+[20] L’avocat de l’intimée a rappelé à la Cour, avec justesse, que l’objet de la déduction des frais de déménagement est de faciliter la tâche aux Canadiens qui se cherchent du travail à travers tout le pays; il n’est pas conçu pour soutenir les déménagements temporaires locaux. La preuve n’étaye nullement la conclusion selon laquelle M. Myles cherchait à violer les dispositions législatives. En effet, je souscris à son hypothèse selon laquelle les déductions demandées n’auraient jamais inquiété le ministre si le déménagement n’avait pas couvert deux années d’imposition. Et je prends note, pour conclure, que le ministre ne conteste aucun des montants demandés.
+[21] L’appel est accueilli, et la nouvelle cotisation est renvoyée au ministre du Revenu national pour nouvel examen et nouvelle cotisation en tenant compte du fait que l’appelant a droit aux frais de déménagement, tels qu’ils ont été demandés, pour l’année 2007.
+Signé à Toronto (Ontario), ce 2e jour de février 2010.
+« G. A. Sheridan »
+Juge Sheridan
+Traduction certifiée conforme
+ce 10e jour de mai 2010.
+Espérance Mabushi, M.A.Trad.Jur.
+RÉFÉRENCE : 2010 CCI 60
+No DU DOSSIER DE LA COUR : 2009-2472(IT)I
+INTITULÉ : JOHN MYLES
+c.
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Victoria (Colombie-Britannique)
+DATE DE L’AUDIENCE : Le 21 janvier 2010
+MOTIFS DU JUGEMENT : L’honorable juge G. A. Sheridan
+DATE DU JUGEMENT : Le 2 février 2010
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Me Matthew Canzer
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] [1946] R.C.S. 209.
+[2] Précité, aux pages 231-232.
+[3] Précité, aux pages 230-231.
+[4] Précité, à la page 232.

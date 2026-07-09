@@ -1,0 +1,126 @@
+Title: Brown c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30843/index.do
+Corpus path: corpus/cases/tcc/2012/2012-cci-209-30843-brown-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2012-05-15
+
+# Brown c. La Reine
+
+- Citation: 2012 CCI 209
+- Decision date: 2012-05-15
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7402, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Brown c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2012-05-15
+Référence neutre
+2012 CCI 209
+Numéro de dossier
+2011-3956(IT)I
+Juges et Officiers taxateurs
+Wyman W. Webb
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2011‑3956(IT)I
+ENTRE :
+HERVIN BROWN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Requête entendue le 15 mai 2012 à London (Ontario)
+Devant : L’honorable juge Wyman W. Webb
+Comparutions :
+Représentant de l’appelant :
+M. Peter Tindall
+Avocate de l’intimée :
+Me Serena Sial
+____________________________________________________________________
+ORDONNANCE
+La requête présentée par l’intimée pour faire annuler les appels de l’appelant concernant les cotisations établies pour les années d’imposition 2007, 2008 et 2009 est accueillie, et les appels sont annulés sans dépens.
+Signé à Halifax (Nouvelle‑Écosse), ce 12e jour de juin 2012.
+« Wyman W. Webb »
+Juge Webb
+Traduction certifiée conforme
+ce 30e jour de juillet 2012.
+Marie-Christine Gervais
+Référence : 2012CCI209
+Date : 20120612
+Dossier : 2011‑3956(IT)I
+ENTRE :
+HERVIN BROWN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE
+Le juge Webb
+[1] L’appelant a déposé un avis d’appel afin de contester les cotisations établies pour ses années d’imposition 2007, 2008 et 2009. Au début de l’audience, l’intimée a présenté une requête pour faire annuler les appels de l’appelant compte tenu du fait que ce dernier n’avait signifié d’avis d’opposition à l’égard d’aucune cotisation avant d’interjeter son appel.
+[2] Les cotisations de l’appelant[1] se rapportant aux années d’imposition mentionnées dans l’avis d’appel ont été établies en vertu de la Loi de l’impôt sur le revenu (la « Loi ») aux dates suivantes :
+Année d’imposition
+Date de la cotisation
+2007
+10 juillet 2008
+2008
+20 mai 2010
+2009
+19 juillet 2010
+[3] Le 29 novembre 2011, l’appelant a présenté un avis d’opposition concernant ces années d’imposition. Le paragraphe 165(1) de la Loi précise le délai dans lequel un avis d’opposition peut être signifié à l’égard d’une cotisation. Avant le 15 décembre 2010, cette disposition prévoyait ce qui suit[2] :
+165(1) Le contribuable qui s’oppose à une cotisation prévue par la présente partie peut signifier au ministre, par écrit, un avis d’opposition exposant les motifs de son opposition et tous les faits pertinents, dans les délais suivants :
+a) lorsqu’il s’agit d’une cotisation relative à un contribuable qui est un particulier [...], pour une année d’imposition, au plus tard le dernier en date des jours suivants :
+(i) le jour qui tombe un an après la date d’échéance de production qui est applicable au contribuable pour l’année,
+(ii) le 90e jour suivant la date de mise à la poste de l’avis de cotisation;
+b) dans les autres cas, au plus tard le 90e jour suivant la date de mise à la poste de l’avis de cotisation.
+[4] L’avis d’opposition produit le 29 novembre 2011 n’a pas été signifié dans le délai (énoncé au paragraphe 165(1) de la Loi) dans lequel un avis d’opposition pouvait être signifié en ce qui a trait aux cotisations établies pour les années d’imposition 2007, 2008 et 2009 de l’appelant. Le ministre en a informé l’appelant et l’a avisé qu’il pouvait présenter une demande de prorogation du délai de signification de l’avis d’opposition visant la cotisation établie pour l’année d’imposition 2009. Le 23 janvier 2012 (donc après avoir déposé son avis d’appel devant la Cour le 6 décembre 2011), l’appelant a adressé à l’Agence du revenu du Canada une demande écrite de prorogation du délai de signification de l’avis d’opposition daté du 29 novembre 2011. À moins que la demande de prorogation de ce délai ne soit accordée par le ministre ou par la Cour (si le ministre ne fait pas droit à la demande et que l’appelant présente une telle demande devant la Cour dans le délai prévu à l’article 166.2 de la Loi), l’appelant n’a pas signifié d’avis d’opposition valide.
+[5] Avant le 15 décembre 2010, le paragraphe 169(1) de la Loi prévoyait ce qui suit :
+169(1) Lorsqu’un contribuable a signifié un avis d’opposition à une cotisation, prévu à l’article 165, il peut interjeter appel auprès de la Cour canadienne de l’impôt pour faire annuler ou modifier la cotisation :
+a) après que le ministre a ratifié la cotisation ou procédé à une nouvelle cotisation;
+b) après l’expiration des 90 jours qui suivent la signification de l’avis d’opposition sans que le ministre ait notifié au contribuable le fait qu’il a annulé ou ratifié la cotisation ou procédé à une nouvelle cotisation;
+toutefois, nul appel prévu au présent article ne peut être interjeté après l’expiration des 90 jours qui suivent la date où avis a été expédié par la poste[3] au contribuable, en vertu de l’article 165, portant que le ministre a ratifié la cotisation ou procédé à une nouvelle cotisation.
+[6] Dans l’arrêt Bormann v. The Queen, 2006 DTC 6147, la Cour d’appel fédérale a déclaré ce qui suit :
+3 Le paragraphe 169(1) de la Loi de l’impôt sur le revenu oblige le contribuable à signifier un avis d’opposition s’il veut interjeter appel d’une cotisation. En d’autres mots, la signification d’un avis est une condition préalable à l’introduction d’un appel.
+4 Comme je l’ai mentionné, l’appelant n’a pas signifié d’avis d’opposition et il n’existe aucune preuve qu’il ait demandé au ministre une prorogation de délai afin de signaler un avis d’opposition.
+5 La loi est claire : lorsqu’il n’y a pas eu de demande de prorogation de délai, la Cour de l’impôt n’a pas la compétence de proroger le délai par souci d’équité.
+Minuteman Press of Canada Company Limited c. M.R.N. 88 DTC 6278, (C.A.F.).
+6 Par conséquent, il n’y a aucun fondement à l’allégation selon laquelle le juge de la Cour de l’impôt aurait commis une erreur en rejetant les appels de l’appelant pour les années d’imposition de 1992 à 1998.
+[7] Un avis d’opposition valide doit donc avoir été signifié avant de pouvoir interjeter appel devant la Cour. Comme il n’a pas signifié d’avis d’opposition valide à l’égard des cotisations établies pour ses années d’imposition 2007, 2008 ou 2009 avant d’avoir déposé son avis d’appel devant la Cour le 6 décembre 2011, l’appelant n’a pas rempli la « condition préalable à l’introduction d’un appel » et ses appels visant les cotisations établies pour ces années d’imposition sont annulés.
+Signé à Halifax (Nouvelle‑Écosse), ce 12e jour de juin 2012.
+« Wyman W. Webb »
+Juge Webb
+Traduction certifiée conforme
+ce 30e jour de juillet 2012.
+Marie-Christine Gervais
+RÉFÉRENCE : 2012CCI209
+No DU DOSSIER DE LA COUR : 2011‑3956(IT)I
+INTITULÉ : HERVIN BROWN c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : London (Ontario)
+DATE DE L’AUDIENCE : Le 15 mai 2012
+MOTIFS DU JUGEMENT: L’honorable juge Wyman W. Webb
+DATE DU JUGEMENT : Le 12 juin 2012
+COMPARUTIONS :
+Représentant de l’appelant :
+M. Peter Tindall
+Avocate de l’intimée :
+Me Serena Sial
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée : Myles J. Kirvan
+Sous‑procureur général du Canada
+Ottawa, Canada
+[1] Aucune nouvelle cotisation n’a été établie à l’égard de l’appelant pour ces années d’imposition.
+[2] À partir du 15 décembre 2010, le mot « envoi » a remplacé l’expression « mise à la poste ».
+[3] À partir du 15 décembre 2010, le mot « envoyé » a remplacé l’expression « expédié par la poste ».

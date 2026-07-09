@@ -1,0 +1,238 @@
+---
+title: "Haggart  v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25643/index.do"
+last_modified: "2004-01-16"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 CCI 925"
+citation2: ""
+neutral_citation: "2003 CCI 925"
+decision_date: "2004-01-16"
+language: "fr"
+item_id: "25643"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3819
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T22:05:56.758000+00:00"
+cases_cited_count: 1
+cases_citing_count: 3
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "cf9ba021b53b6d944b78a8e5e83d1f33da610d5004cd491ed1f6a0f463c67234"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Haggart  v. The Queen
+
+- Citation: 2003 CCI 925
+- Decision date: 2004-01-16
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3819, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Haggart v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-01-16
+Référence neutre
+2003 CCI 925
+Numéro de dossier
+2003-2911(IT)G
+Juges et Officiers taxateurs
+Leslie M. Little
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2003-2911(IT)G
+ENTRE :
+DAVID D. HAGGART,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Requête entendue le 2 décembre 2003 à Vancouver (Colombie‑Britannique)
+Devant : L’honorable juge L.M. Little
+Comparutions :
+Avocate de l’appelant :
+Me Christine Hung
+Avocate de l’intimée :
+Me Lisa Macdonell
+____________________________________________________________________
+ORDONNANCE
+Les appels interjetés à l’encontre de cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 1997, 1998, 1999 et 2000 sont annulés conformément aux motifs de l’ordonnance ci‑joints.
+Signé à Vancouver (Colombie‑Britannique), ce 16e jour de janvier 2004.
+« L.M. Little »
+Juge Little
+Traduction certifiée conforme
+ce 12e jour de mai 2008.
+Jean David Robert, traducteur
+Référence : 2003CCI925
+Date : 20040116
+Dossier : 2003-2911(IT)G
+ENTRE :
+DAVID D. HAGGART,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE
+Le juge Little
+A. LES FAITS
+[1] L’appelant était le directeur général et le principal actionnaire de Haggart Construction Ltd. (ci‑après « Construction »).
+[2] Construction était une entrepreneuse faisant affaire à Fort MacMurray, en Alberta.
+[3] Construction a obtenu de la Banque Canadienne Impériale de Commerce (la « CIBC ») un prêt bancaire qui devait lui permettre de financer ses activités commerciales.
+[4] La CIBC a rappelé le prêt, et, à cause de cette mesure, Construction a été forcée de mettre fin à ses activités commerciales.
+[5] L’appelant et Construction ont intenté une action en justice contre la CIBC. Ils alléguaient que son rappel du prêt était injustifié. Après une période de 11 ans, l’appelant a eu gain de cause.
+[6] À l’issue du procès, l’appelant et Construction se sont vu accorder les sommes suivantes :
+− Dommages‑intérêts pour perte de capacité bénéficiaire 463 200 $
+− Dommages‑intérêts punitifs 20 000 $
+− Intérêts sur les dommages‑intérêts 368 566,22 $
+[7] L’appelant s’est aussi vu allouer des dépens de 80 369 $.
+[8] Pour financer l’action en justice, l’appelant a payé des frais juridiques de 403 254 $. Après la déduction des dépens de 80 369 $ adjugés par le tribunal, le montant net des frais juridiques qu’il a payés s’élève à 322 885 $.
+[9] Dans le calcul de son revenu pour les années d’imposition 1997, 1998 et 1999, l’appelant n’a pas inclus les intérêts accordés par le tribunal, et il n’a pas tenté de déduire les frais juridiques qu’il avait payés pour financer l’action en justice. Dans le calcul de son revenu pour l’année d’imposition 2000, il a déduit des frais juridiques de 44 217,82 $.
+[10] Le ministre du Revenu national (le « ministre ») a établi les cotisations initiales à l’égard de l’appelant aux dates suivantes :
+Date de l’avis
+Années d’imposition de cotisation
+1997 − 23 avril 1998
+1998 − 10 juin 1999
+1999 − 11 mai 2000
+2000 − 17 août 2001
+[11] Le ministre a établi des avis de nouvelle cotisation datés du 5 mars 2001 à l’égard de l’appelant pour les années d’imposition 1997, 1998 et 1999, dans lesquels il a augmenté le revenu de l’appelant et a refusé la déduction de certaines dépenses d’entreprise qui ne sont pas en cause dans le présent appel. Au cours de la vérification, le représentant de l’appelant, Larry K. Myres, CA, a tenté de déduire les frais juridiques qui avaient été payés, mais cette déduction a été refusée par les fonctionnaires de l’Agence des douanes et du revenu du Canada (l’« ADRC »).
+[12] Le 17 août 2001, le ministre a établi une cotisation à l’égard de l’appelant pour son année d’imposition 2000 et a refusé la déduction de frais juridiques de 44 217,82 $.
+[13] Larry K. Myres, CA, agissant comme représentant de l’appelant, a déposé des avis d’opposition au nom de celui‑ci le 29 mars 2001 pour les années d’imposition 1997, 1998 et 1999. M. Myres a déposé un avis d’opposition pour l’année d’imposition 2000 de l’appelant le 22 août 2001. Dans les avis d’opposition, l’appelant a allégué qu’il avait le droit de déduire les frais juridiques suivants :
+1997 − 149 713,06 $
+1998 − 26 804,92
+1999 − 46 904,19
+2000 − 44 217,82
+[14] Après avoir discuté des avis d’opposition de l’appelant avec M. Myres, les fonctionnaires du ministre ont accepté une proposition de M. Myres selon laquelle il y aurait compensation entre les frais juridiques nets de 322 885 $ déduits par l’appelant et son revenu d’intérêts de 366 755 $. Dans une lettre de M. Myres écrite à M. Jackson de l’ADRC et datée du 22 octobre 2001, M. Myres fait le commentaire suivant :
+[traduction]
+Il serait raisonnable de conclure qu’il y a compensation entre les intérêts alloués et les frais engagés pour les recouvrer.
+[15] Les fonctionnaires de l’ADRC ont accepté d’opérer compensation entre les frais juridiques et les intérêts alloués.
+[16] Le ministre a ratifié les avis de nouvelle cotisation dans une lettre datée du 25 mars 2002. Les fonctionnaires de l’ADRC soutiennent que l’original de cette lettre a été envoyé à l’appelant et qu’une copie de celle‑ci a été envoyée à M. Myres. L’appelant, quant à lui, maintient qu’il n’a jamais reçu cette lettre du ministre.
+[17] Dans une lettre datée du 19 juillet 2002, M. Myres a écrit à l’ADRC. Dans sa lettre, il a demandé que le ministre réexamine les cotisations établies pour les années d’imposition 1997, 1998 et 1999 de l’appelant et admette la déduction de certaines dépenses d’entreprise additionnelles qui ne sont pas en litige en l’espèce. M. Myres a aussi affirmé dans sa lettre qu’il souhaitait que la demande de déductions de dépenses d’entreprise additionnelles soit transmise au Comité de l’équité s’il n’était pas possible de réexaminer les cotisations pour les années d’imposition en question.
+[18] Dans une lettre datée du 10 septembre 2002, les fonctionnaires de l’ADRC ont indiqué qu’ils avaient accepté la lettre de M. Myres en tant que demande fondée sur les dispositions d’équité de la Loi de l’impôt sur le revenu (la « Loi »).
+[19] Les fonctionnaires de l’ADRC ont fait droit à la demande de l’appelant, et son revenu net pour les années d’imposition 1997 et 1998 a été réduit de 35 574 $. Dans des avis datés du 15 mai 2003, le ministre a établi de nouvelles cotisations à l’égard de l’appelant pour ses années d’imposition 1997, 1998 et 1999 pour apporter les changements nécessaires.
+[20] L’appelant a déposé des avis d’appel auprès de la Cour le 13 août 2003 pour les années d’imposition 1997, 1998, 1999 et 2000.
+[21] Le 13 novembre 2003, l’intimée a déposé un avis de requête visant l’obtention d’une ordonnance annulant ou rejetant les appels de l’appelant au motif que la Cour n’en était pas régulièrement saisie.
+B. POINT EN LITIGE
+[22] Les appels déposés par l’appelant visant les années d’imposition 1997, 1998, 1999 et 2000 devraient‑ils être annulés ou rejetés?
+C. ANALYSE
+[23] La Cour est saisie des trois questions litigieuses suivantes :
+a) Les avis de ratification datés du 25 mars 2002 et visant les années d’imposition 1997, 1998, 1999 et 2000 de l’appelant lui ont‑ils été expédiés par la poste?
+b) Un contribuable peut‑il déposer des avis d’appel à l’encontre des nouvelles cotisations établies à l’égard de l’appelant pour les années d’imposition 1997, 1998 et 1999 en vertu des dispositions d’équité de la Loi?
+c) L’avocate de l’appelant a‑t‑elle raison de maintenir que M. Myres n’était pas un représentant autorisé de celui‑ci à l’époque pertinente et pour les fins pertinentes?
+a) – Objet : Avis de ratification
+[24] Douglas Jackson, un fonctionnaire de l’ADRC, a été appelé à témoigner par l’avocate de l’intimée. M. Jackson a aussi déposé un affidavit daté du 7 novembre 2003 auprès de la Cour (l’« affidavit de M. Jackson »).
+[25] M. Jackson a témoigné qu’il avait établi les avis de ratification datés du 25 mars 2002 visant les années d’imposition 1997, 1998, 1999 et 2000 et qu’il les avait fait signer par son superviseur, Ron Brass. M. Jackson a dit qu’il avait aussi rédigé une lettre d’accompagnement. Il a fait expédier cette lettre par la poste à M. Myres avec une copie de l’avis le 25 mars 2002. M. Jackson a témoigné que les avis de ratification originaux avaient été expédiés par la poste à l’appelant à cette même date.
+[26] L’appelant a affirmé dans son affidavit daté du 18 juin 2003 (pièce R‑3) qu’il n’avait jamais reçu les avis de ratification datés du 25 mars 2002.
+[27] L’avocate de l’intimée a dit que, pour prouver que l’appelant avait reçu les avis de ratification, le ministre n’avait qu’à établir que les avis avaient été expédiés par la poste à l’appelant. À l’appui de cette position, l’avocate de l’intimée a cité l’arrêt rendu par la Cour d’appel fédérale dans l’affaire The Queen v. Schafer[1]. Dans cet arrêt, le juge Isaac a dit ce qui suit aux paragraphes 7, 8 et 9 :
+[7] Avec égards, je suis cependant d’avis que les dispositions pertinentes de la LTA prévoient clairement que le délai applicable au dépôt d’un avis d’opposition commence à courir à la date où le ministre envoie l’avis de cotisation et que la réception de cet avis ne constitue pas une condition préalable. Voici le libellé de ces dispositions :
+300(1) Une fois une cotisation établie à l’égard d’une personne, le ministre lui envoie un avis de cotisation.
+301(1.1) La personne qui fait opposition à la cotisation établie à son égard peut, dans les 90 jours suivant le jour où l’avis de cotisation lui est envoyé, présenter au ministre un avis d’opposition, en la forme et selon les modalités déterminées par celui-ci, exposant les motifs de son opposition et tous les faits pertinents.
+[…]
+334(1) Pour l’application de la présente partie, tout envoi en première classe ou l’équivalent est réputé reçu par le destinataire à la date de sa mise à la poste.
+[...]
+[8] Le paragraphe 301(1.1) de la LTA prévoit que la personne qui fait opposition à la cotisation établie par le ministre doit agir dans les 90 jours suivant le jour où l’avis de cotisation lui a été « envoyé ». La Cour de l’impôt est parvenue à la conclusion (que la défenderesse n’a pas contestée) que le ministre avait mis l’avis de cotisation dans le sac postal de Postes Canada le 2 septembre 1993. Cette interprétation du paragraphe 301(1.1) de la part de la Cour de l’impôt sous‑entend que le mot « envoyé » signifie « reçu » par le contribuable.
+[9] Je sais que la Cour de l’impôt a donné une interprétation d’articles presque identiques de la Loi de l’impôt sur le revenu portant que le délai applicable ne commence pas à courir à moins que le contribuable ait reçu l’avis de cotisation dans le délai prévu par la loi. Cependant, notre Cour a critiqué cette approche dans le passé. Dans l’arrêt Canada c. Bowen, le juge Stone de la Cour d’appel a cité un passage de la décision Antoniou de la Cour de l’impôt exigeant que l’avis ait été reçu pour que le délai commence à courir, puis il a dit :
+En toute déférence, nous ne pouvons souscrire à cette conclusion. À notre avis, cette dernière ne tient pas compte du sens évident du paragraphe 165(3) et de l’article 169 de la Loi [de l’impôt sur le revenu] [...]
+À notre avis, l’obligation qui incombait au ministre aux termes du paragraphe 165(3) correspondait précisément à ce qu’il a fait, c’est‑à‑dire aviser l’intimé de la ratification de la cotisation par courrier recommandé[2]. Rien, dans ce paragraphe ni dans l’article 169, n’exigeait que la notification soit « signifiée » à personne ou soit reçue par le contribuable.
+[28] Sur ce point, l’avocate de l’intimée a dit qu’il n’était pas nécessaire que l’appelant reçoive les avis de ratification pour que le délai applicable commence à courir. Comme il est mentionné dans l’arrêt Schafer, le ministre doit seulement établir que l’avis de ratification a été expédié par la poste à l’appelant pour que le délai de prescription prévu au paragraphe 169(1) de la Loi commence à courir.
+[29] J’ajoute foi au témoignage de M. Jackson selon lequel les avis de ratification ont été expédiés par la poste à l’appelant le 25 mars 2002. Je crois aussi M. Jackson lorsqu’il dit que des copies des avis de ratification ont été expédiées par la poste à M. Myres à cette date.
+[30] Je conclus que le délai de 90 jours pour déposer des avis d’appel commençait à courir le 26 mars 2002 et expirait le 23 juin 2002. Puisque les avis d’appel visant les années d’imposition 1997, 1998, 1999 et 2000 ont seulement été déposés le 13 août 2003, j’en viens à la conclusion que les avis d’appel n’ont pas été déposés dans le délai prescrit par la Loi.
+b) – Objet : Situation au regard des nouvelles cotisations établies en vertu des dispositions d’équité
+[31] Le paragraphe 152(4.2) de la Loi est ainsi rédigé :
+Malgré les paragraphes (4), (4.1) et (5), pour déterminer à un moment donné après la fin de la période normale de nouvelle cotisation applicable à un contribuable − particulier, autre qu’une fiducie, ou fiducie testamentaire − pour une année d’imposition le remboursement auquel le contribuable a droit à ce moment pour l’année ou la réduction d’un montant payable par le contribuable pour l’année en vertu de la présente partie, le ministre peut, sur demande du contribuable :
+a) établir de nouvelles cotisations concernant l’impôt, les intérêts ou les pénalités payables par le contribuable pour l’année en vertu de la présente partie;
+b) déterminer de nouveau l’impôt qui est réputé, par les paragraphes 120(2) ou (2.2), 122.5(3), 122.51(2), 127.1(1), 127.41(3) ou 210.2(3) ou (4), avoir été payé au titre de l’impôt payable par le contribuable en vertu de la présente partie pour l’année ou qui est réputé, par le paragraphe 122.61(1), être un paiement en trop au titre des sommes dont le contribuable est redevable en vertu de la présente partie pour l’année.
+[32] Ce paragraphe permet au ministre d’exercer son pouvoir discrétionnaire et d’établir un avis de nouvelle cotisation après la fin de la période normale de nouvelle cotisation.
+[33] Le législateur a aussi édicté le paragraphe 165(1.2), qui dispose que :
+Malgré les paragraphes (1) et (1.1), aucune opposition ne peut être faite par un contribuable à une cotisation établie en application des paragraphes 118.1(11), 152(4.2), 169(3) ou 220(3.1). Il est entendu que cette interdiction vaut pour les oppositions relatives à une question pour laquelle le contribuable a renoncé par écrit à son droit d’opposition.
+[34] À l’appui de sa position selon laquelle il n’était pas possible de déposer un avis d’appel à l’encontre d’une nouvelle cotisation établie en vertu du paragraphe 152(4.2), l’avocate de l’intimée a cité la décision rendue par le juge Mogan dans l’affaire Yaremy v. The Queen[3].
+[35] Dans la décision Yaremy, le juge Mogan a dit ce qui suit à la page 2397 :
+Ayant conclu que la nouvelle cotisation en appel a été établie en vertu du paragraphe 152(4.2), je conclus aussi que le paragraphe 165(1.2) s’applique et que l’appelant ne pouvait pas faire une opposition valable à cette nouvelle cotisation. S’il est impossible de faire une opposition valable, alors aucun appel valable ne peut être interjeté en vertu du paragraphe 169(1). Je maintiens l’objection préliminaire formulée par l’intimée et je rejette l’appel.
+[36] Je renvoie aussi à l’arrêt Transcanada Pipelines Limited v. The Queen[4] rendu par la Cour d’appel fédérale, dans lequel une conclusion semblable a été tirée.
+[37] J’ai conclu qu’il n’était pas possible de déposer un avis d’opposition valide ni un avis d’appel à l’encontre d’une nouvelle cotisation qui avait été établie en vertu du paragraphe 152(4.2) de la Loi.
+c) M. Myres agissait‑il en tant que représentant de l’appelant pendant la période pertinente relativement à la situation fiscale de celui‑ci?
+[38] J’ai examiné avec soin la preuve se rapportant à M. Myres, et je constate ce qui suit :
+• M. Myres a fourni des services de comptabilité à l’appelant pendant plusieurs années.
+• Le 29 mars 2001, M. Myres a déposé des avis d’opposition au nom de l’appelant à l’encontre des avis de nouvelle cotisation qui avaient été établis à son égard le 5 mars 2000 pour les années d’imposition 1997, 1998 et 1999 (annexe K de l’affidavit de M. Jackson).
+• Le 22 août 2001, M. Myres a déposé un avis d’opposition au nom de l’appelant à l’encontre de l’avis de nouvelle cotisation établi à son égard le 17 août 2001 (annexe L de l’affidavit de M. Jackson).
+• M. Myres a discuté des avis d’opposition avec M. Jackson. Dans une lettre datée du 22 octobre 2001, M. Myres a écrit à M. Jackson pour le compte de l’appelant. M. Myres a indiqué dans sa lettre qu’il serait raisonnable de conclure qu’il faut opérer compensation entre les frais juridiques nets de 322 885 $ et les intérêts de 366 755 $ sur les dommages‑intérêts accordés (annexe M de l’affidavit de M. Jackson).
+• Dans une note jointe au dossier de David Haggart et datée du 23 octobre 2001, M. Jackson a écrit :
+[traduction]
+J’ai appelé M. Myres pour discuter de son document transmis par télécopieur. Je lui ai demandé de me confirmer si, comme je croyais le comprendre, ils voulaient abandonner leur opposition en matière d’impôt sur le revenu. Il a dit qu’à ce moment‑là tout ce que voulait le contribuable était de recouvrer sa TPS. Je communiquerai avec le fonctionnaire qui s’occupe de la TPS (annexe N de l’affidavit de M. Jackson).
+• Dans une autre note jointe au dossier de M. Haggart et datée du 25 mai 2002, M. Jackson a écrit :
+[traduction]
+J’ai appelé M. Myres pour l’aviser que j’ai des avis de renseignements en matière d’impôt sur le revenu qui paraîtront aujourd’hui et que des copies lui seront remises. C’est bien. Il a parlé à M. Thornton ce matin et il ira de l’avant pour ce qui est de la question de la TPS (annexe N de l’affidavit de M. Jackson).
+• M. Jackson a témoigné qu’il avait expédié des avis de ratification par la poste à l’appelant le 25 mars 2002 (voir le témoignage de M. Jackson et l’annexe O de l’affidavit de M. Jackson).
+• Dans une lettre datée du 25 mars 2002, M. Jackson a expédié par la poste des copies des avis de ratification à M. Myres (annexe P de l’affidavit de M. Jackson).
+• Dans une lettre datée du 19 juillet 2002, M. Myres a écrit à l’ADRC pour le compte de l’appelant. Dans sa lettre, il a demandé que les cotisations établies pour les années d’imposition 1997, 1998 et 1999 de l’appelant soient réexaminées parce que le contribuable avait obtenu de nouveaux renseignements. Dans la lettre de M. Myres, celui‑ci a affirmé qu’il souhaitait que sa demande soit transmise au Comité de l’équité si les « appels » ne pouvaient pas être réexaminés (annexe Q de l’affidavit de M. Jackson).
+• Dans une note datée du 7 octobre 2002, M. Myres a écrit ceci à l’intention de M. Lederis de l’ADRC :
+[traduction]
+Je joins à la présente une lettre de l’ADRC concernant M. Haggart, laquelle indique que les impôts impayés qui sont en cause font l’objet d’une audience fondée sur les dispositions d’équité et se rapportent à une affaire qui sera soumise à la Cour canadienne de l’impôt. Veuillez tenir toute mesure de recouvrement en suspens jusqu’à ce que ces affaires soient réglées (annexe N de l’affidavit de l’appelant).
+• M. Myres a agi en tant que représentant de l’appelant dans un appel en matière de taxe sur les produits et services qui a été instruit par la Cour canadienne de l’impôt à Nanaimo, en janvier 2003.
+• Dans une lettre datée du 2 mai 2003, M. Jackson a envoyé des copies des avis de nouvelle cotisation établis à l’égard de l’appelant pour les années d’imposition 1997, 1998 et 1999 (annexe O de l’affidavit de l’appelant – pièce R‑3).
+• Dans une lettre datée du 2 juin 2003, M. Jackson a envoyé des renseignements additionnels à M. Myres relativement à l’appelant (page 40 de l’affidavit de l’appelant – pièce R‑3).
+• Dans un affidavit daté du 18 juin 2003 qui a été déposé auprès de la Cour fédérale, Section de première instance, l’appelant décrit Larry Myres comme son représentant (voir le paragraphe 13, p. iii; le paragraphe 14, p. iv; le paragraphe 16, p. iv; le paragraphe 31, p. viii).
+[40] Au cours de l’audience, l’avocate de l’appelant a indiqué que M. Myres n’avait pas le pouvoir d’opérer la compensation convenue avec l’ADRC.
+[41] M. Myres n’a pas été appelé à témoigner pour confirmer ou nier qu’il agissait en tant que représentant de l’appelant lorsqu’il traitait avec des fonctionnaires de l’ADRC pour le compte de celui‑ci.
+[42] Compte tenu des faits exposés ci‑dessus et du reste de la preuve portée à ma connaissance, j’ai conclu que M. Myres agissait en tant que représentant de l’appelant au cours de la période en cause lorsqu’il traitait avec M. Jackson et d’autres fonctionnaires de l’ADRC. Je constate aussi que l’appelant a affirmé dans son affidavit, pas plus tard que le 18 juin 2003, que M. Myres était son représentant. Eu égard aux circonstances décrites précédemment, j’estime que M. Myres agissait en tant que représentant de l’appelant et que celui‑ci est lié par les actes de son représentant (voir la décision Baker v. R[5]).
+[43] J’accueille la requête de l’intimée et j’ordonne que les avis d’appel soient annulés.
+Signé à Vancouver (Colombie‑Britannique), ce 16e jour de janvier 2004.
+« L.M. Little »
+Juge Little
+Traduction certifiée conforme
+ce 12e jour de mai 2008.
+Jean David Robert, traducteur
+RÉFÉRENCE :
+2003CCI925
+Nº DU DOSSIER DE LA COUR :
+2003-2911(IT)G
+INTITULÉ :
+David D. Haggart et
+Sa Majesté la Reine
+LIEU DE L’AUDIENCE :
+Vancouver (Colombie‑Britannique)
+DATE DE L’AUDIENCE :
+Le 2 décembre 2003
+MOTIFS DE L’ORDONNANCE :
+L’honorable juge L.M. Little
+DATE DE L’ORDONNANCE :
+Le 16 janvier 2004
+COMPARUTIONS :
+Avocate de l’appelant :
+Me Christine Hung
+Avocate de l’intimée :
+Me Lisa Macdonell
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée :
+Morris Rosenberg
+Sous‑procureur général du Canada
+Ottawa, Canada
+[1] 2000 DTC 6542.
+[2] Le paragraphe 165(3) de la Loi de l’impôt sur le revenu prescrivait antérieurement que l’avis de ratification soit envoyé au contribuable par courrier recommandé. Cependant, l’exigence relative au courrier recommandé a été supprimée du paragraphe 165(3) par (1994), ch. 7, ann. VIII. [La présente note est de moi.]
+[3] [2000] 1 C.T.C. 2393.
+[4] [2001] DTC 5625.
+[5] [1999] 2 C.T.C. 2388, à la p. 2391.

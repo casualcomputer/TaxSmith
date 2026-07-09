@@ -1,0 +1,214 @@
+---
+title: "Ayala v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29747/index.do"
+last_modified: "2010-04-15"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 TCC 206"
+citation2: ""
+neutral_citation: "2010 TCC 206"
+decision_date: "2010-04-15"
+language: "en"
+item_id: "29747"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6554
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T02:27:51.602000+00:00"
+cases_cited_count: 0
+cases_citing_count: 3
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "d67a4018788e4086134d7ae5317b71572c6d5b538be9db0c6d12e433fb68507e"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Ayala v. The Queen
+
+- Citation: 2010 TCC 206
+- Decision date: 2010-04-15
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6554, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Ayala v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-04-15
+Neutral citation
+2010 TCC 206
+File numbers
+2008-3345(IT)I
+Judges and Taxing Officers
+Réal Favreau
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2008-3345(IT)I
+BETWEEN:
+ÉLIAS JAVIER AYALA,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeals heard on January 13, 2010, at Montréal, Quebec.
+Before: The Honourable Justice Réal Favreau
+Appearances:
+Agent for the appellant:
+Dadiona Dazin
+Counsel for the respondent:
+Simon-Olivier de Launière
+____________________________________________________________________
+JUDGMENT
+The appeals from the reassessments made March 29, 2007, pursuant to the Income Tax Act for the 2004 and 2005 taxation years are dismissed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 15th day of April 2010.
+"Réal Favreau"
+Favreau J.
+Translation certified true
+on this 31st day of May 2010.
+Elizabeth Tan, Translator
+Citation: 2010 TCC 206
+Date: 20100415
+Docket: 2008-3345(IT)I
+BETWEEN:
+ÉLIAS JAVIER AYALA,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Favreau J.
+[1] This is an appeal, under the informal procedure, from the reassessments made March 29, 2007, pursuant to the Income Tax Act, R.S.C. (1985) c. 1 (5th Suppl.), as amended (the Act), for the appellant's 2004 and 2005 taxation years.
+[2] The questions at issue in this case are:
+a. Did the Minister of National Revenue (the Minister) properly conclude that the profit from the appellant's disposal of three buildings in 2004 and 2005 was business income and not capital gain?
+b. Did the Minister properly disallow the appellant's deduction for depreciation of $11,400, claimed for the buildings on Wurtèle Street and Monty Avenue for the 2004 taxation year?
+c. Did the Minister properly disallow the appellant's expenses of $13,320.35 for the building on 2nd Avenue and $511.08 for the building on Wurtèle Street?
+[3] The appellant has worked in the construction business since 1991. Since April 30, 2002, he has operated a general renovation business, under the name "Rénovation Ayala" and on February 17, 2005, he incorporated "Rénovation Ayala Inc." whose economic activities included construction and general renovations, interior and exterior finishing. From 1996 to 2005 inclusively, he appellant sold seven buildings, including three sold in 2004 and 2005 by real estate agents. The appellant did not reside in any of the buildings sold in 2004 and 2005.
+[4] In determining the appellant's tax liability for the 2004 and 2005 taxation years, the Minister made the following assumptions in regard to each of the three buildings sold during those taxation years, as stated at paragraph 13 of the Reply to the Notice of Appeal:
+[translation]
+Building located at 9332-9334 2nd Avenue, Montréal, Quebec
+(e) in his income tax return for the 2004 taxation year, the appellant declared a taxable capital gain of $33,977.58 regarding the sale of the building; (admitted)
+(f) the building has two rental units; (admitted)
+(g) the appellant acquired the building on May 8, 2003, for $142,000; (admitted)
+(h) to finance the acquisition, the appellant took out a mortgage for $106,500; (admitted)
+(i) the appellant's main consideration at the time he acquired the building was to sell it for a profit; (denied)
+(j) the appellant made or had repairs made to the building for $13,679.65; (admitted)
+(k) the appellant sold the building on January 20, 1004, for $247,000; (admitted)
+(l) the appellant was the owner for approximately 8 months and 14 days; (admitted)
+(m) the appellant did not declare any rental income for this building; (denied)
+(n) in his income tax report for his 2004 taxation year, the appellant deducted $37,045 as expenses related to the sale of the building; (admitted)
+(o) the appellant did not incur certain expenses referred to in the previous paragraph, for a total of $13,320.35; (no knowledge)
+Building located at 2081-2085 Wurtèle Street, Montréal, Quebec
+(p) in his income tax report for the 2005 taxation year, the appellant declared a taxable capital gain of $32,262 regarding the sale of the building; (admitted)
+(q) the building has three rental units; (admitted)
+(r) the appellant acquired the building on March 20, 2002, for $90,000; (admitted)
+(s) to finance the acquisition, the appellant took out a mortgage of $67,500; (admitted)
+(t) the main consideration for the appellant at the time he acquired the building was to sell it for a profit; (denied)
+(u) the appellant made or had repairs made to the building for $6,290.80; (admitted)
+(v) in 2003, a second mortgage for $97,500 was registered on the building; (no knowledge)
+(w) the appellant sold the building on April 8, 2005, for $175,000; (admitted)
+(x) the appellant was the owner of the building for approximately 3 years and 19 days; (admitted)
+(y) in his income tax return for his 2005 taxation year, the appellant deducted $18,475 as expenses related to the sale of the building; (admitted)
+(z) the appellant did not incur certain expenses referred to in the preceding sub‑paragraph, for a total of $511.08; (admitted)
+Building located at 11970 Monty Avenue, Montréal, Quebec
+(aa) in his income tax report for the 2005 taxation year, the appellant declared a taxable capital gain of $9,736 regarding the sale of the building; (admitted)
+(bb) the building has eight rental units; (admitted)
+(cc) the appellant acquired the building on May 14, 2004, for $390,000; (admitted)
+(dd) to finance the acquisition, the appellant took out a mortgage for $249,999; (admitted)
+(ee) the appellant's main consideration at the time he acquired the building was to sell it for a profit; (denied)
+(ff) the appellant sold the building on May 9, 2005, for $435,000;
+(gg) the appellant was the owner of the building for approximately 11 months and 25 days; (admitted)
+(hh) in his income tax return for his 2005 taxation year, the appellant deducted $25,528 as expenses related to the sale of the building. (admitted)
+[5] During the reassessments, the Minister made the following changes:
+ADJUSTMENTS
+2004
+2005
+Prior income
+$92,338
+$68,011
+Add
+Business income following the disposition of the building at 9332-9334 2nd Avenue, Montréal,
+Quebec
+$80,106
+Business income following the disposition of the building at 2081-2085 Wurtèle Street, Montréal, Quebec
+$66,386
+Business income following the disposition of the building at 11970 Monty Avenue, Montréal, Quebec
+$15,122
+Disallowed capital cost allowance
+$11,400
+Subtract
+Taxable capital gain declared by the appellant on the disposition of the building at 9332-9334, 2nd Avenue, Montréal, Quebec
+($33,978)
+Taxable capital gain declared by the appellant on the disposition of the building at 2081-2085 Wurtèle Street, Montréal, Quebec
+($32,262)
+Taxable capital gain declared by the appellant on the disposition of the building at 11970 Monty Avenue, Montréal, Quebec
+($9,736)
+Revised income
+$149,866
+$107,522
+[6] At the hearing, the appellant testified and confirmed that he sold his buildings in 2004 and 2005 to be able to purchase a 16 or 20 unit building for his retirement. His project did not succeed, however, because the real estate agent he had hired to find this type of building was unable to do so. The appellant also claimed that he acquired the buildings in question with the intent to keep them for the long term but had to sell them because they were too small, poorly located or required too many repairs. The surge in the housing market during the years in question also motivated him to sell his buildings.
+[7] The appellant's testimony, however, is inconsistent with his previous statements or submissions. According to the audit report, information supplied by the appellant at the initial interview indicate his sole intention was to sell his buildings for a profit, and he stated he acquired the buildings for the purpose of repairing them and selling them at a higher price. In response to the first question at paragraph 3 of the initial interview questionnaire, the appellant stated he purchased, repaired and sold the buildings. This fact was supported by the taxpayer's representative in his statements following the assessment project:
+[translation]
+Mr. Ayala, as any investor, made investments in real estate with the intention of earning a profit: selling for a profit at the appropriate time.
+[8] In his notice of objection dated June 1, 2007, the appellant stated the following:
+[translation]
+I do not at all agree with the auditor's decision that gives me different intentions than I had. I invested [sic] in real estate, I purchase and sell buildings that is what I did.
+[9] In regard to real property, the Act does not have a criterion that allows for a distinction to be made between capital gain and business income (including income from an adventure in the nature of trade), requiring the Court to refer to the criteria developed in the case law. However, there is no criterion to determine with certainty whether a transaction leads to a capital gain or business income. Each situation is a specific case to be analyzed in light of the facts.
+[10] Among the criteria developed by the case law, the following are of note:
+i. The nature of the property sold;
+ii. The length of time the taxpayer was in possession as owner of the property;
+iii. The frequency and number of operations carried out by the taxpayer;
+iv. The improvements made by the taxpayer to the property;
+v. The circumstances surrounding the sale of the property; and
+vi. The taxpayer's intention at the time the property was acquired, as indicated by the taxpayer's actions.
+[11] In addition to these criteria, Canadian courts have developed the "secondary intention" criterion that may apply even when the taxpayer's main intention has been established as making a long-term investment. This criterion applies if, at the time the property was acquired, the taxpayer had considered the possibility of selling the property for a profit if the long-term investment project could not be achieved for whatever reason.
+[12] In the present case, the appellant is a construction/renovation contractor with experience in the field and a business history. Between 1996 and 2005 inclusively, he made seven building sales for profit. He carried out the maintenance and repair work himself on the buildings sold.
+[13] The appellant admits he sold two of his buildings within a year and the other after three years. To sell his buildings, the appellant relied on real estate agents from the Sutton Group. The sales of the buildings were not the result of unsolicited purchase offers.
+[14] According to the evidence, the appellant's method of operations was to purchase buildings, renovate them and sell them at a profit. At the time the buildings were acquired, the appellant had at least the secondary intention, if not the primary intention, of selling them for a profit. The appellant was unable to show that, in light of the circumstances surrounding the acquisition of the buildings, he intended to keep them for the long term. On this, the Court cannot rely solely on the appellant's testimony, which, at any rate, includes statements that contradict prior statements.
+[15] The review of the applicable criteria leads to the conclusion that is it more likely that the appellant acquired the buildings for the purpose of rapid re-sale rather than as a long-term investment.
+[16] The Minister properly denied the appellant's depreciation deduction of $11,400, claimed for the buildings on Wurtèle Street and Monty Avenue because the buildings in question constitute property in inventory and not capital property.
+[17] The Minister properly disallowed the appellant's expenses of $13,320.35 for the building on 2nd Avenue and $511.08 for the building on Wurtèle Street. These expenses cannot be allowed because they were not supported by documentary evidence. The appellant claims these invoices were lost by his accountant. During the audit the appellant was asked for these invoices and he did not indicate they had been lost by his accountant. Since the accountant in question was not called to testify at the hearing to confirm the loss of these invoices, a negative inference is drawn.
+[18] For these reasons, the appeals must be dismissed.
+Signed at Ottawa, Canada, this 15th day of April 2010.
+"Réal Favreau"
+Favreau J.
+Translation certified true
+on this 31st day of May 2010.
+Elizabeth Tan, Translator
+CITATION: 2010 TCC 206
+COURT FILE NO.: 2008-3345(IT)I
+STYLE OF CAUSE: Élias Javier Ayala and Her Majesty the Queen
+PLACE OF HEARING: Montréal, Quebec
+DATE OF HEARING: January 13, 2010
+REASONS FOR JUDGMENT BY: The Honourable Justice Réal Favreau
+DATE OF JUDGMENT: April 15, 2010
+APPEARANCES:
+Agent for the appellant:
+Dadiona Dazin
+Counsel for the respondent:
+Simon-Olivier de Launière
+COUNSEL OF RECORD:
+For the appellant:
+Name:
+Firm:
+For the respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada

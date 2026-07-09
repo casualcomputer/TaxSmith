@@ -1,0 +1,193 @@
+---
+title: "Jungen c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/493856/index.do"
+last_modified: "2021-03-02"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2021 CCI 16"
+citation2: ""
+neutral_citation: "2021 CCI 16"
+decision_date: "2021-03-02"
+language: "fr"
+item_id: "493856"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4614
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2023-12-01T11:59:29.250000+00:00"
+cases_cited_count: 3
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "9d9af759739a32f2fd8b3e9db0aaac7948fdfb038fd2e7428773c32d48141e78"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Jungen c. La Reine
+
+- Citation: 2021 CCI 16
+- Decision date: 2021-03-02
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4614, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Jungen c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2021-03-02
+Référence neutre
+2021 CCI 16
+Numéro de dossier
+2019-3682(IT)I
+Juges et Officiers taxateurs
+Bruce Russell
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2019-3682(IT)I
+ENTRE :
+ELAINE JUNGEN,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 5 octobre 2020, à Calgary (Alberta).
+Devant : L’honorable juge B. Russell
+Comparutions :
+Pour l’appelante :
+L’appelante elle-même
+Avocat de l’intimée :
+Me Matthew Chao
+JUGEMENT
+L’appel de la décision rendue le 1er mars 2019 en application de la Loi de l’impôt sur le revenu fédérale par le ministre du Revenu national (le ministre) au sujet de la demande de crédit d’impôt pour personnes handicapées de l’appelante pour chacune de ses années d’imposition 2013 à 2018 est accueilli, avec dépens fixés à 700 $. La décision est renvoyée au ministre pour réexamen et nouvelle détermination au motif que l’appelante est admissible au crédit d’impôt pour personnes handicapées demandé pour chacune de ses années d’imposition 2013 à 2018.
+Signé à Halifax, Nouvelle-Écosse, ce 2e jour de mars 2021.
+« B. Russell »
+Le juge Russell
+Référence : 2021 CCI 16
+Date : 20210302
+Dossier : 2019-3682(IT)I
+ENTRE :
+ELAINE JUNGEN,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Russell
+[1] L’appelante, Elaine Jungen, interjette appel d’une décision rendue par le ministre du Revenu national (le ministre) le 1er mars 2019, rejetant sa demande de crédit d’impôt pour personnes handicapées (CIPH) en application de la Loi de l’impôt sur le revenu (la Loi) pour ses années d’imposition 2013 à 2018 respectives (la période pertinente). La demande concernait le fils (JA) à charge de l’appelante, né en septembre 2003. Au cours de la période pertinente, JA était âgé entre 9 et 15 ans. Les renvois législatifs sont des renvois aux dispositions de la Loi.
+[2] Au cours de la période pertinente, JA a eu des difficultés importantes sur le plan comportemental. En 2013, première année de la période pertinente de six ans, un [traduction] « trouble déficitaire de l’attention avec hyperactivité » (TDAH) a été diagnostiqué chez JA. Dans son avis d’appel, l’appelante a fait valoir que, même avec les médicaments appropriés pour le diagnostic de TDAH, tout au long de la période pertinente, JA s’est montré [traduction] « querelleur, agressif et en colère [...] » Elle a également fait valoir dans l’avis d’appel qu’il avait [traduction] « besoin de l’assistance entière de [sa mère] pour l’aider à s’adapter aux signaux sociaux et à adopter des comportements appropriés dans ses interactions sociales ainsi qu’avec sa sœur et ses pairs. »
+[3] Une lettre adressée à l’appelante le 31 mai 2019 par l’agent des appels de l’Agence du revenu du Canada (l’ARC) (pièce A-1) indique en partie ce qui suit [traduction] : « Nous reconnaissons que la déficience [de JA] est prolongée et nous ne mettons pas en doute la gravité de son état de santé. Toutefois, d’après les exemples de la Dre Kardal, [il] n’est pas considéré comme limité de façon marquée dans sa capacité d’accomplir les fonctions mentales nécessaires aux activités de la vie courante. »
+[4] Par conséquent, la question en litige dans le présent appel réside dans le facteur « limité de façon marquée ».
+[5] Les exigences de la Loi relatives à l’admissibilité à un CIPH en ce qui concerne les fonctions mentales sont résumées comme suit. Conformément au paragraphe 118.3(1) et à l’alinéa 118.3(1)(a.2), « un particulier » doit avoir « une ou plusieurs déficiences graves et prolongées des [...] fonctions mentales [...] dont les effets sont tels que la capacité du particulier d’accomplir une seule activité courante de la vie quotidienne est limitée de façon marquée [...] » Un médecin doit attester sur le formulaire prescrit que ces conditions sont réunies.
+[6] De plus, une déficience est « prolongée » si elle dure au moins 12 mois d’affilée ou s’il est raisonnable de s’attendre à ce qu’elle dure au moins 12 mois d’affilée (alinéa 118.4(1)(a)); Conformément à l’alinéa 118.4(1)(b), « la capacité d’un particulier d’accomplir une activité courante de la vie quotidienne est limitée de façon marquée seulement si, même avec des soins thérapeutiques [...] et des médicaments indiqués [...] il est toujours ou presque toujours incapable d’accomplir une activité courante de la vie quotidienne sans y consacrer un temps excessif ».
+[7] Sont des activités courantes de la vie quotidienne « les fonctions mentales nécessaires aux activités de la vie courante » (sous-alinéa 118.4(1)(c)(i)). Enfin, sont compris parmi les fonctions mentales nécessaires aux activités de la vie courante « (i) la mémoire, (ii) la résolution de problèmes, l’atteinte d’objectifs et le jugement (considérés dans leur ensemble) et (iii) l’apprentissage fonctionnel à l’indépendance » (sous-alinéas 118.4(1)(c.1)(i)(ii)(iii)).
+[8] Un principe fondamental dans les contentieux fiscaux veut que les hypothèses ministérielles formulées dans la réponse de la Couronne intimée soient présumées exactes, à moins de preuve contraire, selon la prépondérance des probabilités. Dans le présent appel, les hypothèses ministérielles figurent au paragraphe 9 de la réponse. Un grand nombre de ces hypothèses consistent à reproduire le contenu de deux rapports d’évaluation comportementale concernant JA.
+[9] Le plus ancien de ces deux rapports est un rapport d’évaluation psychologique daté du 29 mars 2017, préparé par la psychologue autorisée Mme V. Small du Calgary Board of Education. Il comprend deux paragraphes intitulés [traduction] « impression clinique », dans lesquels la psychologue Small consigne ce qui suit à propos de JA :
+[traduction]
+[...] répond aux critères diagnostiques du DSM-V pour le trouble disruptif, du contrôle des impulsions et des conduites, non spécifié, 312.9 (F91.9). Ce diagnostic tient compte du fait que, même si ses symptômes ne répondent pas à tous les critères pour l’un ou l’autre des troubles de cette catégorie, les difficultés comportementales [de JA] semblent avoir des conséquences importantes sur son fonctionnement quotidien.
+[10] La psychologue Small a également écrit que JA montrait certaines difficultés comportementales et émotionnelles, comme suit. (Elles sont également énumérées dans la réponse (paragraphe 9(d)) à titre d’hypothèses ministérielles, et l’appelante les a confirmées dans son témoignage) :
+[traduction]
+[JA] [...] avait de la difficulté à gérer ses pulsions émotionnelles et comportementales à la maison et à l’école; a souvent perdu son sang-froid et s’est montré rancunier ou en colère; a intentionnellement dérangé les autres; a refusé de se conformer aux demandes des adultes à l’école; a intimidé et menacé d’autres personnes; et peut avoir été physiquement agressif avec les autres.
+[11] Le deuxième rapport comportemental mentionné dans la réponse est incorporé dans le Certificat pour le crédit d’impôt pour personnes handicapées exigé à l’alinéa 118.3(1)(a.2), et déposé avec la demande de l’appelante. Daté du 30 décembre 2018 (c’est-à-dire à la fin de la période pertinente), ce certificat a été préparé et signé par la pédiatre L. Kardal. JA était traité par la Dre Kardal depuis 2013 (paragraphe 9(b)(i) de la réponse) – c’est-à-dire tout au long de la période pertinente.
+[12] Dans son certificat, la Dre Kardal indique que JA a reçu un diagnostic de TDAH en 2013 (établi par elle, si je comprends bien). Elle note qu’en 2017, une [traduction] « évaluation psychoéducative » a été réalisée en raison des difficultés continues de JA en matière d’apprentissage et de comportement malgré le traitement médical du TDAH. Je crois comprendre qu’il s’agit de l’évaluation mentionnée ci-dessus de la psychologue Small du 29 mars 2017.
+[13] La Dre Kardal mentionne en outre que l’évaluation de la psychologue Small au sujet des problèmes de comportement de JA l’a amenée à diagnostiquer chez lui un trouble d’apprentissage et un trouble disruptif, du contrôle des impulsions et des conduites, non spécifié. Elle déclare dans son certificat que [traduction] « [l]a combinaison du TDAH, du trouble d’apprentissage, du trouble des conduites et de très faibles capacités intellectuelles a entraîné des limitations marquées aux fonctions mentales de [JA] nécessaires aux activités de la vie courante. » [Je souligne]
+[14] Dans son certificat, la Dre Kardal a également donné des exemples de [traduction] « limitations marquées » auxquelles elle avait fait référence au sujet de la conduite de JA, comme suit :
+[traduction]
+- nécessite des rappels pour la douche, les soins personnels, le port de déodorant;
+- ne va pas seul dans un magasin ou dans la collectivité;
+- ne regarde pas ou ne parle pas aux commis de magasin sans le soutien de sa mère;
+- a besoin de rappels pour les routines et les activités quotidiennes;
+- n’interagit pas de façon convenable avec les autres;
+- dit des choses blessantes ou irrespectueuses, est souvent querelleur et adopte un comportement oppositionnel;
+- dérange délibérément les autres;
+- tous ces facteurs ont un impact négatif sur sa capacité à interagir avec des pairs et des adultes;
+- [n]e me parle pas [c.-à-d. Dre Kardal] lors de visites à mon bureau même s’il me connaît depuis de nombreuses années;
+- nécessite un programme d’enseignement spécialisé;
+- a besoin du soutien d’un adulte pour suivre les instructions en plusieurs étapes;
+- a peu de mémoire et un mauvais concept de temps;
+- n’a pas l’éveil et l’introspection nécessaires pour résoudre des problèmes;
+- [il] fonctionne bien en deçà de la plupart des adolescents de son âge qui sont indépendants dans la plupart de ces aspects.
+[15] La Dre Kardal a conclu en attestant que JA, [traduction] « [...] était limité de façon marquée dans l’accomplissement des fonctions mentales nécessaires à la vie courante. »
+[16] Le texte du formulaire prescrit du certificat comprend des exemples de catégories de fonctions mentales nécessaires à la vie courante, notamment :
+[traduction]
+- l’apprentissage fonctionnel à l’indépendance (par exemple, les capacités en matière de soins personnels, de santé et de sécurité, les capacités d’amorcer des interactions sociales et d’y répondre, et les transactions simples et ordinaires) [...] [et] [...]
+- la résolution de problèmes, l’atteinte d’objectifs et le jugement (considérés dans leur ensemble) (par exemple, la capacité de résoudre des problèmes, d’établir et d’atteindre des objectifs, de prendre des décisions et de porter des jugements qui sont appropriés).
+[17] La Dre Kardal a également attesté que la limitation marquée de JA dans sa capacité d’accomplir des fonctions mentales nécessaires à la vie courante existait depuis 2013, c’est-à-dire tout au long de la période pertinente.
+[18] L’appelante, la mère de JA, était la seule personne qui témoignait à l’audience. Son témoignage m’a semblé franc, relativement objectif, éclairant et empreint de compassion. Elle est mère monoparentale – elle ne reçoit aucune aide financière ou parentale du père de JA. Elle doit travailler pour payer les dépenses du ménage engagées par sa famille composée de deux enfants du même âge, le fils JA et une fille. Elle a un emploi à temps plein à l’extérieur de la maison du lundi au vendredi et elle travaille des heures typiques de bureau et parfois des heures supplémentaires.
+[19] Elle a confirmé les problèmes de comportement énumérés dans l’évaluation de 2017 de la psychologue Small. Pour plus de commodité, je les reproduis ici – [traduction] avait de la difficulté à gérer ses pulsions émotionnelles et comportementales à la maison et à l’école; a souvent perdu son sang-froid et s’est montré rancunier ou en colère; a intentionnellement dérangé les autres; a refusé de se conformer aux demandes des adultes à l’école; a intimidé et menacé d’autres personnes; et peut avoir été physiquement agressif avec les autres.
+[20] Elle a témoigné que JA peine à atteindre l’objectif d’avoir des amis, est continuellement incapable de comprendre que les actions mentionnées ci-dessus repoussent des amis potentiels. Il n’est pas empathique, est impoli et violent, et ne peut pas voir le point de vue d’autrui. Tout cela nuit à sa vie sociale, y compris avec des amis potentiels, des pairs en général et sa sœur du même âge.
+[21] À titre d’exemple situationnel, elle a décrit comment JA est physiquement un bon joueur de hockey au sein de l’organisation de hockey mineur Hockey Calgary, mais à l’occasion (deux fois, je crois) il en a été suspendu du jeu en raison d’un langage et d’une conduite tout à fait déplacés vis-à-vis des arbitres, des entraîneurs et de ses coéquipiers. Il aime beaucoup le hockey, mais il a éloigné les autres joueurs, les arbitres et les entraîneurs et a de la difficulté dans ses relations avec eux. Il aime le hockey, mais il est trop critique à l’égard des autres.
+[22] Elle et lui ont dû rencontrer les dirigeants de Hockey Calgary à plus d’une occasion au sujet de son comportement. Elle a dit que JA n’avait pas la capacité de s’arrêter dans des situations de comportement déplacé. Lors des parties de hockey, elle a été autorisée à s’asseoir sur le banc des joueurs pour tenter de contrôler JA dans des situations d’éruption de comportement déplacé. Elle n’assiste pas régulièrement aux deux pratiques hebdomadaires, à moins d’anticiper des problèmes de comportement. Elle a ajouté que le fait d’être autorisée à recevoir le CIPH demandé aiderait à obtenir d’autres conseils professionnels pour son fils.
+[23] Au cours de son contre-interrogatoire, elle a témoigné que JA avait un soutien beaucoup moins individualisé à l’école que les années précédentes, en raison de la réduction des dépenses de la commission scolaire. Il est encouragé à quitter la salle de classe lorsqu’il pense avoir un comportement perturbateur. Mais maintenant, il n’y a aucune personne disponible pour le prendre en charge lorsqu’il change de pièce.
+[24] Il suit un programme d’éducation modifié au cours des dernières années, ce qui est moins exigeant sur le plan scolaire que le programme ordinaire. Elle a témoigné qu’il avait été placé dans ce programme modifié principalement en raison de ses tendances comportementales perturbatrices plutôt qu’en raison de troubles d’apprentissage. Cette année, il est en 12e année et est inscrit au programme ordinaire, à l’exception d’un cours (l’anglais) du programme modifié.
+[25] Par le passé, et maintenant dans une moindre mesure, JA téléphonait et envoyait des textos à sa mère qui était au travail concernant des questions qui le perturbaient à l’école. Maintenant, elle est plus susceptible de recevoir des courriels d’enseignants concernant des situations comportementales. Parfois, lorsqu’il avait des problèmes de comportement à l’école, elle quittait le travail plus tôt pour aller le chercher et le ramener à la maison et rester avec lui. Grâce à un gestionnaire compréhensif au travail, elle a la souplesse nécessaire pour s’occuper de son fils.
+[26] Depuis quelques années, JA prend plaisir à jouer à des jeux vidéo, mais lorsqu’il joue avec des pairs, il est souvent impoli et abusif avec eux. Il les contrarie ou les insulte et ils ne veulent plus jouer à des jeux vidéo avec lui. Il jouait souvent à des jeux vidéo dans les années 2013 et 2014. L’appelante a surveillé quelque peu JA pendant les séances de jeux vidéo afin de s’assurer que tout allait bien, et quand elle entendait un langage déplacé de la part de JA, elle intervenait. Il ne regarde pas beaucoup la télévision, essentiellement les sports comme le hockey.
+[27] Elle a témoigné qu’il avait besoin de son soutien 90 à 100 % du temps. Ses pulsions comportementales déplacées ont un impact sur tous les aspects de la vie. Il s’oppose encore à l’idée de prendre sa douche après le hockey et le matin avant d’aller à l’école. Malgré de longues et nombreuses discussions avec lui à ce sujet, elle trouve encore qu’elle doit essentiellement se tenir près de la porte de la salle de bains pour s’assurer qu’il s’acquitte de la tâche.
+[28] De plus, elle a témoigné que sa capacité de comprendre d’autres points de vue était assez limitée. Sa réponse en expliquant pourquoi il dit des choses insultantes, par exemple, en qualifiant une autre étudiante de [traduction] « grosse », est qu’il voulait la motiver, et non la contrarier. Sa mère a témoigné que ce genre de situation exige continuellement de longues et nombreuses discussions entre elle et lui, pour essayer de lui montrer la réponse sociale appropriée, alors qu’il devient querelleur.
+[29] Un autre exemple quant aux incapacités d’interaction sociale de JA dont a parlé sa mère, était sa volonté occasionnelle de vouloir réaménager sa chambre à coucher. Elle a affirmé que, lorsqu’il déplace les objets dans la chambre, il se met en colère ou devient contrarié et a besoin de son aide pour remettre la chambre dans l’état initial. Il se fâche dans ce genre de situation et il devient quelque peu violent physiquement et il a même brisé une table sans toutefois comprendre que la table devait être remplacée et comment cela devait se faire (par l’achat d’une nouvelle table). L’appelante s’engage constamment dans d’intenses discussions avec lui, en essayant à maintes reprises de lui faire comprendre les impacts négatifs de son comportement et de l’inciter à changer en conséquence, tandis que son fils, lui, refuse presque toujours d’accepter et de suivre ces conseils.
+[30] L’appelante a témoigné que JA avait besoin de son soutien 90 % du temps ou plus, le matin avant d’aller à l’école et après l’école pendant son retour de travail alors qu’elle se trouve à l’extérieur de la maison. Il a du mal à reconnaître que ses attitudes agressives bouleversent les gens. Cela nuit à son objectif de se faire des amis et de les garder.
+[31] Il ne sort pas avec des amis ou sa sœur. Il [traduction] « énerve » ses amis au point qu’ils ne veulent pas sortir avec lui. Il ne conduit pas. Il est seul.
+[32] Après l’école, alors que sa mère est toujours au travail, il prend l’autobus pour rentrer à la maison, joue à des jeux vidéo et se prépare une collation. Il ne mange pas beaucoup pendant la journée à cause de ses médicaments. Il ne sait pas cuisiner. Il a tendance à manger du yogourt. Il a de la difficulté à suivre les instructions. Il a besoin de rappels et de conseils pour suivre les instructions.
+[33] En résumé, la mère de JA a témoigné que sa déficience limite de façon marquée sa capacité d’accomplir des fonctions mentales nécessaires à la vie courante. Il a besoin de son soutien pratiquement 100 % du temps chaque jour pour réussir. Elle soutient que l’ARC reconnaît le TDAH de JA, mais pas toute l’étendue de ses problèmes mentaux avec lesquels il vit tous les jours.
+[34] Comme il a été mentionné, la Couronne intimée n’accepte pas que JA ait été « limité de façon marquée » dans sa capacité d’accomplir des fonctions mentales pertinentes. De plus, comme il a été indiqué, dans le contexte des fonctions mentales, le terme « limité de façon marquée » signifie que la personne est toujours ou presque toujours incapable d’accomplir les fonctions mentales nécessaires aux activités de la vie courante, y compris la mémoire; la résolution de problèmes, l’atteinte d’objectifs et le jugement (considérés dans leur ensemble); et l’apprentissage fonctionnel.
+[35] L’avocat a cité la décision Johnston c. Canada, [1998] CarswellNat 169 (CAF), qui traite de l’objectif des dispositions relatives au CIPH – articles 118.3 et 118.4. Dans l’arrêt Johnston (paragraphe 10), la Cour d’appel fédérale a souscrit à une déclaration antérieure du juge Bowman, maintenant juge en chef, selon laquelle ces dispositions relatives au CIPH, « [...] [doivent] recevoir une interprétation humaine et compatissante. » [Je souligne]
+[36] La décision Walkowiak c. La Reine, 2012 CCI 453 a également été citée. Elle portait sur le cas d’une mère de deux enfants qui avait reçu un diagnostic de TDAH et de trouble d’apprentissage selon le DSM-IV. En l’espèce, mon collègue le juge Boyle a conclu qu’il n’y avait pas suffisamment d’éléments de preuve pour établir que les déficiences de la mère en matière de fonctions mentales limitaient de façon marquée sa capacité d’accomplir des activités courantes de la vie quotidienne. La preuve avait démontré que la contribuable était en mesure d’occuper un emploi à temps plein au gouvernement à titre de travailleuse qualifiée en soins à domicile en s’occupant des enfants des autres, en plus d’élever ses propres enfants.
+[37] À mon avis, les faits actuels indiquent un effet préjudiciable beaucoup plus important sur la vie quotidienne.
+[38] La décision McDermid c. La Reine, 2014 CCI 264 a également été citée. Contrairement à l’affaire en instance, la décision McDermid était surtout une affaire de trouble de la mémoire concernant un jeune fils (9 ans).
+[39] La décision Vrantsidis c. La Reine, 2017 CCI 204 est également citée. L’appelante avait demandé un CIPH à l’égard de son fils de 19 ans qui avait reçu un diagnostic de TDAH. Il avait obtenu son diplôme d’études secondaires à temps, avait un emploi à temps partiel, jouait de la guitare et à des jeux vidéo, prenait des leçons de conduite et était inscrit à un programme collégial de musique et de médias numériques. Mon collègue le juge Favreau a conclu dans cette situation que les effets du TDAH n’étaient pas suffisamment graves pour répondre au sens du terme « limité de façon marquée » – de sorte que la demande de CIPH a été refusée. J’estime que ces circonstances factuelles indiquent également une atteinte moindre à la capacité d’accomplir des tâches de la vie courante que dans le cas de JA. JA n’a pas d’emploi à temps partiel et il semble peu probable qu’il puisse en occuper un, compte tenu de ses déficiences fondamentales en matière d’interaction sociale.
+[40] Il a été soutenu que l’appelante avait élaboré des stratégies pour inciter JA à se conduire d’une manière plus convenable sur le plan social. L’exemple offert était celui de la mère de JA, maintes et maintes fois l’exhortant à prendre une douche le matin et après ses parties de hockey, et devant finalement se tenir debout à la porte de la salle de bains pour s’assurer qu’il prenait bel et bien sa douche. Mais je dois me demander s’il s’agit vraiment d’une stratégie – par opposition à une action de sa part née de l’exaspération – devant la même scène récurrente.
+[41] Les éléments de preuve en l’espèce me permettent de conclure que, au cours de la période pertinente, JA a eu une déficience substantielle de la capacité d’amorcer des interactions sociales appropriées avec d’autres personnes avec lesquelles il entre en contact, notamment d’autres étudiants, des joueurs de hockey, des joueurs de jeux vidéo, des arbitres, des entraîneurs, son propre médecin, des commis de magasin et sa sœur du même âge. Il est singulièrement querelleur, abusif et insultant. Il n’apprend pas de sa mère et n’adopte pas ses conseils constants, ce qui entraîne les scénarios négatifs qui se déroulent maintes et maintes fois.
+[42] Comme il a déjà été mentionné, le formulaire prescrit du certificat pour le CIPH donne quelques exemples de « l’apprentissage fonctionnel à l’indépendance » et de « la résolution de problèmes, l’atteinte d’objectifs et le jugement (considérés dans leur ensemble) », lesquels sont énoncés dans la Loi comme étant des « fonctions mentales nécessaires aux activités de la vie courante ». Voici des exemples donnés pour « l’apprentissage fonctionnel à l’indépendance » : [traduction] « [l]es capacités en matière de soins personnels, de santé et de sécurité, les capacités d’amorcer des interactions sociales et d’y répondre, et les transactions simples et ordinaires ». Les exemples donnés pour « la résolution de problèmes, la résolution de problèmes, l’atteinte d’objectifs et le jugement (considérés dans leur ensemble) » sont [traduction] « la capacité de résoudre des problèmes, d’établir et d’atteindre des objectifs, de prendre des décisions et de porter des jugements qui sont appropriés) ».
+[43] Le renvoi législatif de « l’apprentissage fonctionnel à l’indépendance » à la capacité d’amorcer des interactions sociales est particulièrement pertinent. Les éléments de preuve ont permis d’établir que JA manque sérieusement de capacité à s’engager dans des interactions sociales. Comme je l’ai mentionné plus haut, les rapports écrits de sa pédiatre et de la psychologue scolaire, ainsi que le témoignage en grande partie incontesté de sa mère, en témoignent tous. Selon le témoignage essentiellement non contredit de sa mère, ce n’était pas seulement de temps en temps, mais plutôt presque toujours. Il en va de même de son incapacité continue d’accepter de se doucher régulièrement. Cette difficulté est un composant des « soins personnels » et de la « santé » qui se veut également révélateur de « l’apprentissage fonctionnel à l’indépendance ». Ainsi, et en interprétant le terme législatif « l’apprentissage fonctionnel à l’indépendance » sur une base humaine et compatissante comme l’indique la jurisprudence, j’admets en fin de compte que JA est limité de façon marquée à l’égard de l’apprentissage fonctionnel à l’indépendance qui est compris parmi les fonctions mentales nécessaires à la vie courante.
+[44] Dans une moindre mesure, mais tout de même importante, les mêmes éléments de preuve ont établi les difficultés qu’éprouvait JA relativement à la « mémoire » et à la « résolution de problèmes, l’atteinte d’objectifs et le jugement (considérés dans leur ensemble) », comme le précise la Loi.
+[45] Quant aux années d’imposition en cause, je considère que le témoignage de l’appelante couvrait les années d’imposition 2013 à 2018 sans contestation réussie. De plus, la Dre Kardal suivait JA depuis 2013 et son opinion exprimée dans le Certificat pour le crédit d’impôt pour personnes handicapées était que ses problèmes de comportement l’avaient « limité de façon marquée » pour les mêmes motifs mentionnés précédemment, et ce, depuis 2013. Il n’y a que peu ou pas d’éléments de preuve voulant que les déficiences de JA aient changé de façon importante au cours des années précédant 2018.
+[46] Par conséquent, l’appel de la décision du ministre rendue le 1er mars 2019 concernant les années d’imposition 2013 à 2018 de l’appelante sera accueilli, et cette décision sera renvoyée au ministre aux fins de réexamen et d’établissement d’une nouvelle détermination, au motif que l’appelante est admissible au crédit d’impôt pour personnes handicapées demandé pour chacune de ses années d’imposition 2013 à 2018.
+Signé à Halifax (Nouvelle-Écosse), ce 2e jour de mars 2021.
+« B. Russell »
+Le juge Russell
+RÉFÉRENCE :
+2021 CCI 16
+NO DU DOSSIER DE LA COUR :
+2019-3682(IT)I
+INTITULÉ :
+ELAINE JUNGEN c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Calgary (Alberta)
+DATE DE L’AUDIENCE :
+Le 5 octobre 2020
+MOTIFS DU JUGEMENT :
+L’honorable juge B. Russell
+DATE DU JUGEMENT :
+Le 2 mars 2021
+COMPARUTIONS :
+Pour l’appelante :
+L’appelante elle-même
+Avocat de l’intimée :
+Me Matthew Chao
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+[En blanc]
+Cabinet :
+[En blanc]
+Pour l’intimée :
+Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa, Canada

@@ -1,0 +1,724 @@
+Title: Stewart c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/309478/index.do
+Corpus path: corpus/cases/tcc/2018/2018-cci-75-309478-stewart-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2018-04-23
+
+# Stewart c. La Reine
+
+- Citation: 2018 CCI 75
+- Decision date: 2018-04-23
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4820, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Stewart c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2018-04-23
+Référence neutre
+2018 CCI 75
+Numéro de dossier
+2012-2895(IT)G, 2012-2917(IT)G, 2012-2918(IT)G, 2012-2919(IT)G, 2012-2920(IT)G, 2012-2921(IT)G, 2012-2922(IT)G, 2012-2925(IT)G, 2012-2926(IT)G, 2012-2927(IT)G, 2012-2928(IT)G, 2012-2929(IT)G, 2012-2979(IT)I, 2012-2980(IT)I, 2012-3102(IT)G
+Juges et Officiers taxateurs
+Johanne D’Auray
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2012-2895(IT)G
+ENTRE :
+JAMES SPENCE STEWART,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Requête entendue le 2 octobre 2017 à Toronto (Ontario).
+Observations écrites présentées par l’intimée le 22 mars 2018 et par les appelants le 27 mars 2018.
+Devant : L’honorable juge Johanne D’Auray
+Comparutions :
+Avocat de l’appelant :
+Me Mauro Marchioni
+Avocates de l’intimée :
+Me Natalie Goulard
+Me Valerie Messore
+ORDONNANCE
+VU la requête en radiation de l’avis d’appel présentée par l’intimée au titre de l’article 53 des Règles de la Cour canadienne de l’impôt (procédure générale);
+ET VU les éléments de preuve et les observations des parties;
+La requête de l’intimée en radiation de l’avis d’appel déposé par l’appelant et des avis d’appel déposés dans les dossiers portant les numéros 2012-2917(IT)G, 2012‑2918(IT)G, 2012‑2919(IT)G, 2012-2920(IT)G, 2012-2921(IT)G, 2012‑2922(IT)G, 2012‑2925(IT)G, 2012-2926(IT)G, 2012-2927(IT)G, 2012-2928(IT)G, 2012-2929(IT)G, 2012-2979(IT)I, 2012-2980(IT)I et 2012-3102(IT)G est accueillie. L’avis d’appel de l’appelant est radié;
+Un seul mémoire de frais est accordé à l’intimée.
+Signé à Montréal (Québec), ce 23e jour d’avril 2018.
+« Johanne D’Auray »
+La juge D’Auray
+Traduction certifiée conforme
+ce 6e jour de mai 2019.
+Elisabeth Ross, jurilinguiste
+Dossier : 2012-2917(IT)G
+ENTRE :
+JAMES SHAW,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Requête entendue le 2 octobre 2017 à Toronto (Ontario).
+Observations écrites présentées par l’intimée le 22 mars 2018 et par les appelants le 27 mars 2018.
+Devant : L’honorable juge Johanne D’Auray
+Comparutions :
+Avocat de l’appelant :
+Me Mauro Marchioni
+Avocates de l’intimée :
+Me Natalie Goulard
+Me Valerie Messore
+ORDONNANCE
+VU la requête en radiation de l’avis d’appel présentée par l’intimée au titre de l’article 53 des Règles de la Cour canadienne de l’impôt (procédure générale);
+ET VU les éléments de preuve et les observations des parties;
+La requête de l’intimée en radiation de l’avis d’appel déposé par l’appelant et des avis d’appel déposés dans les dossiers portant les numéros 2012-2895(IT)G, 2012-2918(IT)G, 2012‑2919(IT)G, 2012-2920(IT)G, 2012-2921(IT)G, 2012-2922(IT)G, 2012‑2925(IT)G, 2012-2926(IT)G, 2012-2927(IT)G, 2012-2928(IT)G, 2012‑2929(IT)G, 2012-2979(IT)I, 2012-2980(IT)I et 2012-3102(IT)G est accueillie. L’avis d’appel de l’appelant est radié;
+Un seul mémoire de frais est accordé à l’intimée.
+Signé à Montréal (Québec), ce 23e jour d’avril 2018.
+« Johanne D’Auray »
+La juge D’Auray
+Traduction certifiée conforme
+ce 6e jour de mai 2019.
+Elisabeth Ross, jurilinguiste
+Dossier : 2012-2918(IT)G
+ENTRE :
+STANLEY HARVEY,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Requête entendue le 2 octobre 2017 à Toronto (Ontario).
+Observations écrites présentées par l’intimée le 22 mars 2018 et par les appelants le 27 mars 2018.
+Devant : L’honorable juge Johanne D’Auray
+Comparutions :
+Avocat de l’appelant :
+Me Mauro Marchioni
+Avocates de l’intimée :
+Me Natalie Goulard
+Me Valerie Messore
+ORDONNANCE
+VU la requête en radiation de l’avis d’appel présentée par l’intimée au titre de l’article 53 des Règles de la Cour canadienne de l’impôt (procédure générale);
+ET VU les éléments de preuve et les observations des parties;
+La requête de l’intimée en radiation de l’avis d’appel déposé par l’appelant et des avis d’appel déposés dans les dossiers portant les numéros 2012-2895(IT)G, 2012-2917(IT)G, 2012‑2919(IT)G, 2012-2920(IT)G, 2012-2921(IT)G, 2012-2922(IT)G, 2012‑2925(IT)G, 2012-2926(IT)G, 2012-2927(IT)G, 2012-2928(IT)G, 2012‑2929(IT)G, 2012-2979(IT)I, 2012-2980(IT)I et 2012-3102(IT)G est accueillie. L’avis d’appel de l’appelant est radié;
+Un seul mémoire de frais est accordé à l’intimée.
+Signé à Montréal (Québec), ce 23e jour d’avril 2018.
+« Johanne D’Auray »
+La juge D’Auray
+Traduction certifiée conforme
+ce 6e jour de mai 2019.
+Elisabeth Ross, jurilinguiste
+Dossier : 2012-2919(IT)G
+ENTRE :
+SANDRA INGLIS,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Requête entendue le 2 octobre 2017 à Toronto (Ontario).
+Observations écrites présentées par l’intimée le 22 mars 2018 et par les appelants le 27 mars 2018.
+Devant : L’honorable juge Johanne D’Auray
+Comparutions :
+Avocat de l’appelante :
+Me Mauro Marchioni
+Avocates de l’intimée :
+Me Natalie Goulard
+Me Valerie Messore
+ORDONNANCE
+VU la requête en radiation de l’avis d’appel présentée par l’intimée au titre de l’article 53 des Règles de la Cour canadienne de l’impôt (procédure générale);
+ET VU les éléments de preuve et les observations des parties;
+La requête de l’intimée en radiation de l’avis d’appel déposé par l’appelante et des avis d’appel déposés dans les dossiers portant les numéros 2012-2895(IT)G, 2012-2917(IT)G, 2012‑2918(IT)G, 2012-2920(IT)G, 2012-2921(IT)G, 2012-2922(IT)G, 2012‑2925(IT)G, 2012-2926(IT)G, 2012-2927(IT)G, 2012-2928(IT)G, 2012‑2929(IT)G, 2012-2979(IT)I, 2012-2980(IT)I et 2012-3102(IT)G est accueillie. L’avis d’appel de l’appelante est radié;
+Un seul mémoire de frais est accordé à l’intimée.
+Signé à Montréal (Québec), ce 23e jour d’avril 2018.
+« Johanne D’Auray »
+La juge D’Auray
+Traduction certifiée conforme
+ce 6e jour de mai 2019.
+Elisabeth Ross, jurilinguiste
+Dossier : 2012-2920(IT)G
+ENTRE :
+MURRAY J. MCPHAIL,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Requête entendue le 2 octobre 2017 à Toronto (Ontario).
+Observations écrites présentées par l’intimée le 22 mars 2018 et par les appelants le 27 mars 2018.
+Devant : L’honorable juge Johanne D’Auray
+Comparutions :
+Avocat de l’appelant :
+Me Mauro Marchioni
+Avocates de l’intimée :
+Me Natalie Goulard
+Me Valerie Messore
+ORDONNANCE
+VU la requête en radiation de l’avis d’appel présentée par l’intimée au titre de l’article 53 des Règles de la Cour canadienne de l’impôt (procédure générale);
+ET VU les éléments de preuve et les observations des parties;
+La requête de l’intimée en radiation de l’avis d’appel déposé par l’appelant et des avis d’appel déposés dans les dossiers portant les numéros 2012-2895(IT)G, 2012-2917(IT)G, 2012‑2918(IT)G, 2012-2919(IT)G, 2012-2921(IT)G, 2012‑2922(IT)G, 2012‑2925(IT)G, 2012-2926(IT)G, 2012-2927(IT)G, 2012‑2928(IT)G, 2012‑2929(IT)G, 2012-2979(IT)I, 2012-2980(IT)I et 2012‑3102(IT)G est accueillie. L’avis d’appel de l’appelant est radié;
+Un seul mémoire de frais est accordé à l’intimée.
+Signé à Montréal (Québec), ce 23e jour d’avril 2018.
+« Johanne D’Auray »
+La juge D’Auray
+Traduction certifiée conforme
+ce 6e jour de mai 2019.
+Elisabeth Ross, jurilinguiste
+Dossier : 2012-2921(IT)G
+ENTRE :
+JEFF GILLAN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Requête entendue le 2 octobre 2017 à Toronto (Ontario).
+Observations écrites présentées par l’intimée le 22 mars 2018 et par les appelants le 27 mars 2018.
+Devant : L’honorable juge Johanne D’Auray
+Comparutions :
+Avocat de l’appelant :
+Me Mauro Marchioni
+Avocates de l’intimée :
+Me Natalie Goulard
+Me Valerie Messore
+ORDONNANCE
+VU la requête en radiation de l’avis d’appel présentée par l’intimée au titre de l’article 53 des Règles de la Cour canadienne de l’impôt (procédure générale);
+ET VU les éléments de preuve et les observations des parties;
+La requête de l’intimée en radiation de l’avis d’appel déposé par l’appelant et des avis d’appel déposés dans les dossiers portant les numéros 2012-2895(IT)G, 2012‑2917(IT)G, 2012‑2918(IT)G, 2012-2919(IT)G, 2012-2920(IT)G, 2012‑2922(IT)G, 2012‑2925(IT)G, 2012-2926(IT)G, 2012-2927(IT)G, 2012-2928(IT)G, 2012‑2929(IT)G, 2012-2979(IT)I, 2012-2980(IT)I et 2012-3102(IT)G est accueillie. L’avis d’appel de l’appelant est radié;
+Un seul mémoire de frais est accordé à l’intimée.
+Signé à Montréal (Québec), ce 23e jour d’avril 2018.
+« Johanne D’Auray »
+La juge D’Auray
+Traduction certifiée conforme
+ce 6e jour de mai 2019.
+Elisabeth Ross, jurilinguiste
+Dossier : 2012-2922(IT)G
+ENTRE :
+ROBERT BORG OLIVIER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Requête entendue le 2 octobre 2017, à Toronto (Ontario).
+Observations écrites présentées par l’intimée le 22 mars 2018 et par les appelants le 27 mars 2018.
+Devant : L’honorable juge Johanne D’Auray
+Comparutions :
+Avocat de l’appelant :
+Me Mauro Marchioni
+Avocates de l’intimée :
+Me Natalie Goulard
+Me Valerie Messore
+ORDONNANCE
+VU la requête en radiation de l’avis d’appel présentée par l’intimée au titre de l’article 53 des Règles de la Cour canadienne de l’impôt (procédure générale);
+ET VU les éléments de preuve et les observations des parties;
+La requête de l’intimée en radiation de l’avis d’appel déposé par l’appelant et des avis d’appel déposés dans les dossiers portant les numéros 2012-2895(IT)G, 2012‑2917(IT)G, 2012‑2918(IT)G, 2012-2919(IT)G, 2012-2920(IT)G, 2012‑2921(IT)G, 2012‑2925(IT)G, 2012-2926(IT)G, 2012-2927(IT)G, 2012-2928(IT)G, 2012‑2929(IT)G, 2012-2979(IT)I, 2012-2980(IT)I et 2012-3102(IT)G est accueillie. L’avis d’appel de l’appelant est radié;
+Un seul mémoire de frais est accordé à l’intimée.
+Signé à Montréal (Québec), ce 23e jour d’avril 2018.
+« Johanne D’Auray »
+La juge D’Auray
+Traduction certifiée conforme
+ce 6e jour de mai 2019.
+Elisabeth Ross, jurilinguiste
+Dossier : 2012-2925(IT)G
+ENTRE :
+ANTHONY TEDESCO,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Requête entendue le 2 octobre 2017 à Toronto (Ontario).
+Observations écrites présentées par l’intimée le 22 mars 2018 et par les appelants le 27 mars 2018.
+Devant : L’honorable juge Johanne D’Auray
+Comparutions :
+Avocat de l’appelant :
+Me Mauro Marchioni
+Avocates de l’intimée :
+Me Natalie Goulard
+Me Valerie Messore
+ORDONNANCE
+VU la requête en radiation de l’avis d’appel présentée par l’intimée au titre de l’article 53 des Règles de la Cour canadienne de l’impôt (procédure générale);
+ET VU les éléments de preuve et les observations des parties;
+La requête de l’intimée en radiation de l’avis d’appel déposé par l’appelant et des avis d’appel déposés dans les dossiers portant les numéros 2012-2895(IT)G, 2012‑2917(IT)G, 2012‑2918(IT)G, 2012-2919(IT)G, 2012-2920(IT)G, 2012‑2921(IT)G, 2012‑2922(IT)G, 2012-2926(IT)G, 2012-2927(IT)G, 2012-2928(IT)G, 2012‑2929(IT)G, 2012-2979(IT)I, 2012-2980(IT)I et 2012-3102(IT)G est accueillie. L’avis d’appel de l’appelant est radié;
+Un seul mémoire de frais est accordé à l’intimée.
+Signé à Montréal (Québec), ce 23e jour d’avril 2018.
+« Johanne D’Auray »
+La juge D’Auray
+Traduction certifiée conforme
+ce 6e jour de mai 2019.
+Elisabeth Ross, jurilinguiste
+Dossier : 2012-2926(IT)G
+ENTRE :
+AHMAD YAQEEN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Requête entendue le 2 octobre 2017 à Toronto (Ontario).
+Observations écrites présentées par l’intimée le 22 mars 2018 et par les appelants le 27 mars 2018.
+Devant : L’honorable juge Johanne D’Auray
+Comparutions :
+Avocat de l’appelant :
+Me Mauro Marchioni
+Avocates de l’intimée :
+Me Natalie Goulard
+Me Valerie Messore
+ORDONNANCE
+VU la requête en radiation de l’avis d’appel présentée par l’intimée au titre de l’article 53 des Règles de la Cour canadienne de l’impôt (procédure générale);
+ET VU les éléments de preuve et les observations des parties;
+La requête de l’intimée en radiation de l’avis d’appel déposé par l’appelant et des avis d’appel déposés dans les dossiers portant les numéros 2012-2895(IT)G, 2012‑2917(IT)G, 2012‑2918(IT)G, 2012-2919(IT)G, 2012-2920(IT)G, 2012-2921(IT)G, 2012‑2922(IT)G, 2012-2925(IT)G, 2012-2927(IT)G, 2012-2928(IT)G, 2012‑2929(IT)G, 2012-2979(IT)I, 2012-2980(IT)I et 2012-3102(IT)G est accueillie. L’avis d’appel de l’appelant est radié;
+Un seul mémoire de frais est accordé à l’intimée.
+Signé à Montréal (Québec), ce 23e jour d’avril 2018.
+« Johanne D’Auray »
+La juge D’Auray
+Traduction certifiée conforme
+ce 6e jour de mai 2019.
+Elisabeth Ross, jurilinguiste
+Dossier : 2012-2927(IT)G
+ENTRE :
+ROSA MILITANO,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Requête entendue le 2 octobre 2017 à Toronto (Ontario).
+Observations écrites présentées par l’intimée le 22 mars 2018 et par les appelants le 27 mars 2018.
+Devant : L’honorable juge Johanne D’Auray
+Comparutions :
+Avocat de l’appelante :
+Me Mauro Marchioni
+Avocates de l’intimée :
+Me Natalie Goulard
+Me Valerie Messore
+ORDONNANCE
+VU la requête en radiation de l’avis d’appel présentée par l’intimée au titre de l’article 53 des Règles de la Cour canadienne de l’impôt (procédure générale);
+ET VU les éléments de preuve et les observations des parties;
+La requête de l’intimée en radiation de l’avis d’appel déposé par l’appelante et des avis d’appel déposés dans les dossiers portant les numéros 2012-2895(IT)G, 2012-2917(IT)G, 2012‑2918(IT)G, 2012-2919(IT)G, 2012-2920(IT)G, 2012‑2921(IT)G, 2012‑2922(IT)G, 2012-2925(IT)G, 2012-2926(IT)G, 2012-2928(IT)G, 2012‑2929(IT)G, 2012-2979(IT)I, 2012-2980(IT)I et 2012-3102(IT)G est accueillie. L’avis d’appel de l’appelante est radié;
+Un seul mémoire de frais est accordé à l’intimée.
+Signé à Montréal (Québec), ce 23e jour d’avril 2018.
+« Johanne D’Auray »
+La juge D’Auray
+Traduction certifiée conforme
+ce 6e jour de mai 2019.
+Elisabeth Ross, jurilinguiste
+Dossier : 2012-2928(IT)G
+ENTRE :
+MAURIZIO MARCHIONI,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Requête entendue le 2 octobre 2017 à Toronto (Ontario).
+Observations écrites présentées par l’intimée le 22 mars 2018 et par les appelants le 27 mars 2018.
+Devant : L’honorable juge Johanne D’Auray
+Comparutions :
+Avocat de l’appelant :
+Me Mauro Marchioni
+Avocates de l’intimée :
+Me Natalie Goulard
+Me Valerie Messore
+ORDONNANCE
+VU la requête en radiation de l’avis d’appel présentée par l’intimée au titre de l’article 53 des Règles de la Cour canadienne de l’impôt (procédure générale);
+ET VU les éléments de preuve et les observations des parties;
+La requête de l’intimée en radiation de l’avis d’appel déposé par l’appelant et des avis d’appel déposés dans les dossiers portant les numéros 2012-2895(IT)G, 2012‑2917(IT)G, 2012‑2918(IT)G, 2012-2919(IT)G, 2012-2920(IT)G, 2012‑2921(IT)G, 2012‑2922(IT)G, 2012-2925(IT)G, 2012-2926(IT)G, 2012-2927(IT)G, 2012‑2929(IT)G, 2012-2979(IT)I, 2012-2980(IT)I et 2012-3102(IT)G est accueillie. L’avis d’appel de l’appelant est radié;
+Un seul mémoire de frais est accordé à l’intimée.
+Signé à Montréal (Québec), ce 23e jour d’avril 2018.
+« Johanne D’Auray »
+La juge D’Auray
+Traduction certifiée conforme
+ce 6e jour de mai 2019.
+Elisabeth Ross, jurilinguiste
+Dossier : 2012-2929(IT)G
+ENTRE :
+PAUL WATT,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Requête entendue le 2 octobre 2017 à Toronto (Ontario).
+Observations écrites présentées par l’intimée le 22 mars 2018 et par les appelants le 27 mars 2018.
+Devant : L’honorable juge Johanne D’Auray
+Comparutions :
+Avocat de l’appelant :
+Me Mauro Marchioni
+Avocates de l’intimée :
+Me Natalie Goulard
+Me Valerie Messore
+ORDONNANCE
+VU la requête en radiation de l’avis d’appel présentée par l’intimée au titre de l’article 53 des Règles de la Cour canadienne de l’impôt (procédure générale);
+ET VU les éléments de preuve et les observations des parties;
+La requête de l’intimée en radiation de l’avis d’appel déposé par l’appelant et des avis d’appel déposés dans les dossiers portant les numéros 2012-2895(IT)G, 2012‑2917(IT)G, 2012‑2918(IT)G, 2012-2919(IT)G, 2012-2920(IT)G, 2012‑2921(IT)G, 2012‑2922(IT)G, 2012-2925(IT)G, 2012-2926(IT)G, 2012-2927(IT)G, 2012‑2928(IT)G, 2012-2979(IT)I, 2012-2980(IT)I et 2012-3102(IT)G est accueillie. L’avis d’appel de l’appelant est radié;
+Un seul mémoire de frais est accordé à l’intimée.
+Signé à Montréal (Québec), ce 23e jour d’avril 2018.
+« Johanne D’Auray »
+La juge D’Auray
+Traduction certifiée conforme
+ce 6e jour de mai 2019.
+Elisabeth Ross, jurilinguiste
+Dossier : 2012-2979(IT)I
+ENTRE :
+GERALD JAMES,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Requête entendue le 2 octobre 2017 à Toronto (Ontario).
+Observations écrites présentées par l’intimée le 22 mars 2018 et par les appelants le 27 mars 2018.
+Devant : L’honorable juge Johanne D’Auray
+Comparutions :
+Avocat de l’appelant :
+Me Mauro Marchioni
+Avocates de l’intimée :
+Me Natalie Goulard
+Me Valerie Messore
+ORDONNANCE
+VU la requête en radiation de l’avis d’appel présentée par l’intimée au titre de l’article 53 des Règles de la Cour canadienne de l’impôt (procédure générale);
+ET VU les éléments de preuve et les observations des parties;
+La requête de l’intimée en radiation de l’avis d’appel déposé par l’appelant et des avis d’appel déposés dans les dossiers portant les numéros 2012-2895(IT)G, 2012‑2917(IT)G, 2012‑2918(IT)G, 2012-2919(IT)G, 2012-2920(IT)G, 2012‑2921(IT)G, 2012‑2922(IT)G, 2012-2925(IT)G, 2012-2926(IT)G, 2012-2927(IT)G, 2012‑2928(IT)G, 2012-2929(IT)G, 2012-2980(IT)I et 2012-3102(IT)G est accueillie. L’avis d’appel de l’appelant est radié;
+Un seul mémoire de frais est accordé à l’intimée.
+Signé à Montréal (Québec), ce 23e jour d’avril 2018.
+« Johanne D’Auray »
+La juge D’Auray
+Traduction certifiée conforme
+ce 6e jour de mai 2019.
+Elisabeth Ross, jurilinguiste
+Dossier : 2012-2980(IT)I
+ENTRE :
+LYNN JAMES,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Requête entendue le 2 octobre 2017 à Toronto (Ontario).
+Observations écrites présentées par l’intimée le 22 mars 2018 et par les appelants le 27 mars 2018.
+Devant : L’honorable juge Johanne D’Auray
+Comparutions :
+Avocat de l’appelante :
+Me Mauro Marchioni
+Avocates de l’intimée :
+Me Natalie Goulard
+Me Valerie Messore
+ORDONNANCE
+VU la requête en radiation de l’avis d’appel présentée par l’intimée au titre de l’article 53 des Règles de la Cour canadienne de l’impôt (procédure générale);
+ET VU les éléments de preuve et les observations des parties;
+La requête de l’intimée en radiation de l’avis d’appel déposé par l’appelante et des avis d’appel déposés dans les dossiers portant les numéros 2012-2895(IT)G, 2012‑2917(IT)G, 2012‑2918(IT)G, 2012-2919(IT)G, 2012-2920(IT)G, 2012‑2921(IT)G, 2012‑2922(IT)G, 2012-2925(IT)G, 2012-2926(IT)G, 2012-2927(IT)G, 2012‑2928(IT)G, 2012-2929(IT)G, 2012-2979(IT)I et 2012-3102(IT)G est accueillie. L’avis d’appel de l’appelante est radié;
+Un seul mémoire de frais est accordé à l’intimée.
+Signé à Montréal (Québec), ce 23e jour d’avril 2018.
+« Johanne D’Auray »
+La juge D’Auray
+Traduction certifiée conforme
+ce 6e jour de mai 2019.
+Elisabeth Ross, jurilinguiste
+Dossier : 2012-3102(IT)G
+ENTRE :
+SARAH BORG OLIVIER,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Requête entendue le 2 octobre 2017 à Toronto (Ontario).
+Observations écrites présentées par l’intimée le 22 mars 2018 et par les appelants le 27 mars 2018.
+Devant : L’honorable juge Johanne D’Auray
+Comparutions :
+Avocat de l’appelante :
+Me Mauro Marchioni
+Avocates de l’intimée :
+Me Natalie Goulard
+Me Valerie Messore
+ORDONNANCE
+VU la requête en radiation de l’avis d’appel présentée par l’intimée au titre de l’article 53 des Règles de la Cour canadienne de l’impôt (procédure générale);
+ET VU les éléments de preuve et les observations des parties;
+La requête de l’intimée en radiation de l’avis d’appel déposé par l’appelante et des avis d’appel déposés dans les dossiers portant les numéros 2012-2895(IT)G, 2012‑2917(IT)G, 2012‑2918(IT)G, 2012-2919(IT)G, 2012-2920(IT)G, 2012‑2921(IT)G, 2012‑2922(IT)G, 2012-2925(IT)G, 2012-2926(IT)G, 2012-2927(IT)G, 2012‑2928(IT)G, 2012-2929(IT)G, 2012-2979(IT)I et 2012-2980(IT)I est accueillie. L’avis d’appel de l’appelante est radié;
+Un seul mémoire de frais est accordé à l’intimée.
+Signé à Montréal (Québec), ce 23e jour d’avril 2018.
+« Johanne D’Auray »
+La juge D’Auray
+Traduction certifiée conforme
+ce 6e jour de mai 2019.
+Elisabeth Ross, jurilinguiste
+Référence : 2018 CCI 75
+Date : 20180423
+Dossier : 2012-2895(IT)G
+ENTRE :
+JAMES SPENCE STEWART,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2012-2917(IT)G
+ET ENTRE :
+JAMES SHAW,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2012-2918(IT)G
+ET ENTRE :
+STANLEY HARVEY,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2012-2919(IT)G
+ET ENTRE :
+SANDRA INGLIS,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2012-2920(IT)G
+ET ENTRE :
+MURRAY J. MCPHAIL,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2012-2921(IT)G
+ET ENTRE :
+JEFF GILLAN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2012-2922(IT)G
+ET ENTRE :
+ROBERT BORG OLIVIER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2012-2925(IT)G
+ET ENTRE :
+ANTHONY TEDESCO,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2012-2926(IT)G
+ET ENTRE :
+AHMAD YAQEEN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2012-2927(IT)G
+ET ENTRE :
+ROSA MILITANO,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2012-2928(IT)G
+ET ENTRE :
+MAURIZIO MARCHIONI,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2012-2929(IT)G
+ET ENTRE :
+PAUL WATT,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2012-2979(IT)I
+ET ENTRE :
+GERALD JAMES,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2012-2980(IT)I
+ET ENTRE :
+LYNN JAMES,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2012-3102(IT)G
+ET ENTRE :
+SARAH BORG OLIVIER,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE
+La juge D’Auray
+[1] L’intimée a déposé une requête en radiation des avis d’appel des appelants sans autorisation de modification, au titre de l’alinéa 53(1)c) des Règles de la Cour canadienne de l’impôt (procédure générale) (les « Règles »). L’intimée soutient qu’autoriser les appelants à continuer leurs appels constituerait un recours abusif à la Cour.
+[2] Les appelants sont des associés de la société de personnes en commandite TSI I Limited Partnership (« TSI »). Dans les présents motifs, je désignerai les appelants par le terme les « appelants » ou les « associés ». À l’audience, les appelants étaient tous représentés par le même avocat, Me Marchioni, qui est également un associé de TSI.
+I. Les faits
+[3] TSI soutient avoir produit en 2002 ses déclarations de renseignements visant ses années d’imposition 2000 et 2001. Cependant, l’intimée soutient que TSI a produit sa déclaration relative à l’année d’imposition 2000 le 15 février 2005 et sa déclaration relative à l’année d’imposition 2001 à un moment donné après le 15 février 2005.
+[4] Le 29 mars 2006, le ministre a envoyé à TSI des avis de détermination en vertu du paragraphe 152(1.4) de la Loi de l’impôt sur le revenu (la « LIR »). Il n’a pas reconnu les pertes de 941 840 $ et de 2 193 463 $ déclarées par TSI pour les années d’imposition 2000 et 2001, respectivement.
+[5] Les appelants ont également fait l’objet d’une cotisation établie par le ministre. Les avis de cotisation établis à l’égard des appelants visent la période du 29 mars 2007 au 3 mai 2007. Le ministre a refusé la part des pertes de TSI déclarée par chacun des associés. Les associés ont déposé des avis d’opposition aux cotisations établies dans les délais prescrits par la LIR.
+[6] Le ministre a confirmé les déterminations et les cotisations en délivrant des avis de confirmation datés du 18 avril 2012 à TSI et aux appelants.
+[7] Le 17 juillet 2012, TSI a déposé un appel devant la Cour. Me Marchioni était l’avocat inscrit au dossier. Comme je l’ai déjà indiqué, Me Marchioni est également un associé de TSI.
+[8] Entre le 16 et le 18 juillet 2012, chaque associé a déposé un avis d’appel devant la Cour. À l’exception de M. James Stewart, de M. Gerald James et de Mme Lynn James, les associés étaient tous représentés par Me Marchioni.
+[9] Dans leurs avis d’appel, TSI et les appelants, à l’exception de James Stewart, ont soulevé les deux mêmes questions, c’est-à-dire la question de savoir si les montants établis par le ministre étaient bien fondés et celle de savoir si le ministre avait établi les déterminations après le délai prévu au paragraphe 152(4.1) de la LIR. Dans son avis d’appel, M. Stewart n’a pas soulevé la question de la prescription.
+[10] Dans la présente requête, Me Marchioni a agi à titre d’avocat de tous les appelants.
+[11] La Cour a été chargée de la gestion de l’instance relative aux appels de TSI et des appelants. Le 1er novembre 2013, le juge chargé de la gestion de l’instance a ordonné que l’appel de TSI soit entendu en premier et que les appels des associés soient suspendus en attendant l’issue de l’appel de TSI.
+[12] L’appel de TSI devait être entendu le lundi 2 mai 2016. Le vendredi précédant l’audience, Me Marchioni a informé l’intimée que TSI déposerait un avis de désistement. L’avis de désistement a été déposé à la Cour le 2 mai 2016, et l’appel a été considéré comme rejeté le 24 juin 2016 en application du paragraphe 16.2(2) de la Loi sur la Cour canadienne de l’impôt (la « Loi sur la CCI »).
+[13] Le 13 juin 2016, le juge chargé de la gestion de l’instance a ordonné aux appelants et à l’intimée de participer à une conférence de règlement le 7 octobre 2016.
+[14] Le 20 avril 2017, Me Marchioni, au nom des appelants, a envoyé une lettre à la Cour dans laquelle il déclarait qu’il n’avait pu obtenir d’instructions de tous les appelants. Par conséquent, il ne savait pas si l’affaire pouvait être réglée.
+[15] Lors de l’audience sur la présente la requête, Me Marchioni a affirmé que la société de personnes n’avait pas désigné d’associé dans l’appel de TSI, au titre des paragraphes 165(1.15) et 169(1) de la LIR, aux fins du dépôt d’un avis d’opposition ou d’un appel relativement aux déterminations établies par le ministre.
+II. La thèse de l’intimée
+[16] L’intimée soutient qu’aux termes du paragraphe 152(1.7) de la LIR, les déterminations établies par le ministre en vertu du paragraphe 152(1.4) de la LIR lient le ministre et les associés. Par conséquent, autoriser les appelants à continuer leurs appels constituerait un abus de procédure.
+[17] Qui plus est, l’intimée soutient que l’appel de TSI est considéré comme étant rejeté en application du paragraphe 16.2(2) de la Loi sur la CCI. Par conséquent les déterminations établies par le ministre sont valides et lient les associés.
+[18] L’intimée a souligné que les appelants, dans leur réponse à la requête de l’intimée et à l’audience, ont concédé que le dépôt par TSI d’un avis de désistement empêche les associés de contester le montant des pertes déterminé par le ministre puisque les déterminations lient les associés aux termes du paragraphe 152(1.7) de la LIR. Cela dit, elle soutient que le paragraphe 152(1.7) de la LIR empêche aussi les appelants de faire valoir que les déterminations de pertes sont frappées de prescription au motif qu’elles ont été établies après le délai de trois ans prescrit au paragraphe 152(1.4) de la LIR.
+[19] L’intimée soutient que, si je rejetais sa requête en radiation des avis d’appel et que je permettais aux appelants de faire valoir que les déterminations de pertes établies par le ministre sont frappées de prescription, les appelants auraient le droit de déduire des pertes qui n’existent pas au niveau de la société de personnes. L’intimée estime qu’une telle situation contreviendrait aux dispositions de la LIR en matière de sociétés de personnes, qui ont été conçues de manière à ce qu’il y ait cohérence entre les déterminations établies au niveau des sociétés de personnes et les pertes que les associés ont le droit de déduire. Selon ces dispositions, si la société de personnes ne peut pas déduire de pertes, les associés ne le peuvent pas non plus.
+[20] L’intimée soutient également qu’autoriser les appelants à continuer leurs appels constituerait un recours abusif à la Cour. L’intimée affirme que le 2 mai 2017 elle était prête à présenter ses arguments dans le contexte de l’appel de TSI, c’est-à-dire à faire valoir que les déterminations de pertes établies par le ministre étaient bien fondées en droit et n’étaient pas frappées de prescription. TSI a plutôt choisi de déposer un avis de désistement. Par conséquent, comme le prévoit la loi, l’appel de TSI est considéré comme ayant été rejeté. Les déterminations sont donc valides et lient tous les associés, et ceux-ci ne peuvent plus faire valoir que les déterminations ne sont pas valides parce qu’elles sont frappées de prescription. Autoriser la poursuite de l’instance constituerait un abus de procédure, puisque cela équivaudrait à remettre en cause une question qui a déjà été tranchée.
+III. La thèse des appelants
+[21] Les appelants concèdent que, puisque TSI a mis un terme à son appel, il découle du paragraphe 152(1.7) de la LIR que les déterminations de pertes lient le ministre et chacun des associés en ce qui a trait au bien-fondé des montants. Cependant, ils soutiennent que le paragraphe 152(1.7) de la LIR ne lie pas les associés en ce qui a trait à la contestation de la validité des déterminations du ministre, notamment pour ce qui est de la question de savoir si les déterminations ont été établies conformément aux dispositions procédurales de la LIR.
+[22] Les appelants soutiennent que ces dispositions procédurales n’ont pas été respectées puisque TSI a produit ses déclarations de renseignements en 2002. Aux termes du paragraphe 152(4.1) de la LIR, le ministre disposait de trois ans après le dépôt des déclarations de renseignements, donc jusqu’en 2005, pour délivrer les déterminations. Celles-ci n’ayant été délivrées qu’en 2006, elles outrepassaient le délai de prescription.
+[23] Les appelants soutiennent également que donner suite aux appels ne constitue pas un abus de procédure puisqu’aucune question n’a encore été tranchée – l’avis de désistement a été déposé par TSI avant que l’affaire soit entendue.
+[24] Les appelants soutiennent également que le rejet de l’appel de TSI en application de l’article 16.2 de la Loi sur la CCI n’a pas pour effet que les appelants reconnaissent que les déclarations de renseignements de TSI de 2000 et de 2001 ont été déposées en 2005, comme l’allègue l’intimée.
+IV. Discussion
+[25] Les dispositions pertinentes dans la présente requête sont les paragraphes 152(4.1), 152(1.7) et 165(1.15) de la LIR, l’article 16.2 de la Loi sur la CCI et l’alinéa 53(1)c) des Règles. Elles sont rédigées ainsi :
+A. Les dispositions de la LIR
+152(1.4) Le ministre peut déterminer le revenu ou la perte d’une société de personnes pour un exercice de celle-ci ainsi que toute déduction ou tout autre montant, ou toute autre question, se rapportant à elle pour l’exercice qui est à prendre en compte dans le calcul, pour une année d’imposition, du revenu, du revenu imposable ou du revenu imposable gagné au Canada d’un de ses associés, de l’impôt ou d’un autre montant payable par celui-ci, d’un montant qui lui est remboursable ou d’un montant réputé avoir été payé, ou payé en trop, par lui, en vertu de la présente partie. Cette détermination se fait dans les trois ans suivant le dernier en date des jours suivants :
+a) le jour où, au plus tard, un associé de la société de personnes est tenu par l’article 229 du Règlement de l’impôt sur le revenu, de remplir une déclaration de renseignements pour l’exercice, ou serait ainsi tenu si ce n’était le paragraphe 220(2.1);
+b) le jour où la déclaration est produite.
+152(1.7) Les règles suivantes s’appliquent lorsque le ministre détermine un montant en application du paragraphe (1.4) ou détermine un montant de nouveau relativement à une société de personnes :
+a) sous réserve des droits d’opposition et d’appel de l’associé de la société de personnes visé au paragraphe 165(1.15) relativement au montant déterminé ou déterminé de nouveau, la détermination ou nouvelle détermination lie le ministre ainsi que les associés de la société de personnes pour ce qui est du calcul, pour une année d’imposition, du revenu, du revenu imposable ou du revenu imposable gagné au Canada des associés, de l’impôt ou d’un autre montant payable par ceux-ci, d’un montant qui leur est remboursable ou d’un montant réputé avoir été payé, ou payé en trop, par eux, en vertu de la présente partie;
+b) malgré les paragraphes (4), (4.01), (4.1) et (5), le ministre peut, avant la fin du jour qui tombe un an après l’extinction ou la détermination des droits d’opposition et d’appel relativement au montant déterminé ou déterminé de nouveau, établir les cotisations voulues concernant l’impôt, les intérêts, les pénalités ou d’autres montants payables et déterminer les montants réputés avoir été payés, ou payés en trop, en vertu de la présente partie relativement à un associé de la société de personnes et à tout autre contribuable pour une année d’imposition pour tenir compte du montant déterminé ou déterminé de nouveau ou d’une décision de la Cour canadienne de l’impôt, de la Cour d’appel fédérale ou de la Cour suprême du Canada.
+165(1.15) Malgré le paragraphe (1), dans le cas où le ministre détermine un montant en application du paragraphe 152(1.4) relativement à l’exercice d’une société de personnes, seul est autorisé à faire une opposition concernant ce montant l’associé de la société de personnes qui est, selon le cas :
+a) désigné à cette fin dans la déclaration de renseignements présentée en application de l’article 229 du Règlement de l’impôt sur le revenu pour l’exercice;
+b) autrement expressément autorisé par la société de personnes à agir ainsi.
+[Non souligné dans l’original.]
+B. Les dispositions de la Loi sur la CCI
+16.2 (1) La partie qui a engagé une procédure devant la Cour peut en tout temps s’en désister par avis écrit.
+(2) Le désistement équivaut au rejet de la procédure en cause à la date à laquelle la Cour reçoit l’avis de désistement.
+C. Les dispositions des Règles
+53 (1) La Cour peut, de son propre chef ou à la demande d’une partie, radier un acte de procédure ou tout autre document ou en supprimer des passages, en tout ou en partie, avec ou sans autorisation de le modifier parce que l’acte ou le document :
+a) peut compromettre ou retarder l’instruction équitable de l’appel;
+b) est scandaleux, frivole ou vexatoire;
+c) constitue un recours abusif à la Cour;
+d) ne révèle aucun moyen raisonnable d’appel ou de contestation de l’appel.
+(2) Aucune preuve n’est admissible à l’égard d’une demande présentée en vertu de l’alinéa (1)d).
+(3) À la demande de l’intimé, la Cour peut casser un appel si :
+a) elle n’a pas compétence sur l’objet de l’appel;
+b) une condition préalable pour interjeter appel n’a pas été satisfaite;
+c) l’appelant n’a pas la capacité juridique d’introduire ou de continuer l’instance.
+[Non souligné dans l’original.]
+[26] Je remarque que l’intitulé de l’appel de la société de personnes était TSI I Limited Partnership c. Sa Majesté la Reine. J’ignore pourquoi l’appel a été déposé par la société de personnes plutôt que par un associé au nom de la société de personnes comme le prévoient les paragraphes 165(1.15) et 169(1) de la LIR [1] . J’ai demandé aux parties de me présenter des observations écrites sur la question de savoir si cette façon de procéder pouvait avoir une incidence sur la présente requête.
+[27] J’ai également demandé aux parties des observations sur la question de savoir si la doctrine de l’abus de procédure pour remise en cause s’applique à un appel rejeté en application de l’article 16.2 de la Loi sur la CCI, puisque l’appel n’a pas été tranché, mais a plutôt été réputé rejeté en application de cet article.
+[28] Je me pencherai d’abord sur la question de l’intitulé de l’appel de TSI et de son incidence sur la présente requête, si incidence il y a.
+[29] L’intimée soutient qu’il est maintenant trop tard pour soulever la question, puisque les parties ont toujours considéré l’opposition et l’appel interjeté par TSI comme étant valides. Elle soutient que le fait qu’aucun associé désigné ne soit mentionné dans l’intitulé n’a pas pour effet d’invalider l’appel de la détermination établie à l’égard de la société de personnes. Elle souligne que Me Marchioni, un associé de TSI, a représenté TSI à titre d’avocat dans son appel. Elle soutient également que le fait que le dossier ne contienne pas d’autorisation expresse de l’associé désigné ne rend pas pour autant invalide l’appel de la société de personnes et que, de plus, cet élément est sans pertinence en ce qui a trait aux questions soulevées dans la présente requête.
+[30] Au paragraphe 4 de leurs observations écrites, les appelants soutiennent ce qui suit :
+[traduction]
+4. La société de personnes TSI I n’est pas une associée commanditée de TSI I Limited Partnership. Par conséquent, le paragraphe 165(1.15) s’applique et l’appel interjeté par TSI était irrégulièrement formé et effectivement nul. Le fait que la Couronne n’ait jamais soulevé ce point montre, ce qui ne peut être accepté, qu’elle croyait que l’appel de TSI était, dans les faits, interjeté par Maurizio Marchioni, à titre d’associé désigné de la société en commandite. L’avis d’appel et tous les autres documents produits, y compris les listes de documents échangés, ainsi que les communications préalables, étaient tous fondés sur la croyance, la prémisse et le fait que TSI était l’appelante. Personne n’a été désigné comme le prévoit le paragraphe 165(1.15), et la Couronne n’a pas non plus demandé qu’une personne soit désignée. Si la Couronne était réellement convaincue que Maurizio Machioni [sic] n’agissait pas uniquement à titre d’avocat de la société de personnes TSI, mais qu’il était l’associé autorisé à agir au nom de TSI, elle aurait demandé ou exigé une preuve en ce sens.
+[31] Après avoir examiné les observations des parties, je souscris à la thèse de l’intimée selon laquelle je dois considérer l’appel de TSI comme ayant été déposé au nom de tous les associés de TSI et ayant été validement rejeté. Au moment des faits, personne n’a contesté la validité de l’appel de TSI ni son résultat.
+[32] Les appelants ont également reconnu que l’appel de TSI était valide. En réponse à la requête de l’intimée, Me Marchioni concède que le rejet de l’appel de TSI a pour effet d’empêcher les associés de soutenir que les déterminations de pertes établies par le ministre ne sont pas bien fondées. Puisque les appelants souscrivent à ce point de vue, qui suppose que l’appel de TSI était valide, leur argument selon lequel l’appel était néanmoins invalide semble incohérent :
+[traduction]
+3 Il n’y a jamais eu de décision sur la question de savoir si les avis de cotisation et de confirmation délivrés par le ministre en réponse à une déclaration de la société de personnes produite en 2002 étaient frappés de prescription. Par conséquent, le ministre ne peut se prévaloir de l’alinéa 152(1.7)b), puisqu’aucune conclusion n’a été tirée à ce sujet. La seule détermination qui découle du retrait de l’appel porte sur le caractère approprié et applicable des pertes déduites par la société en commandite.
+[33] Ce n’est qu’après que j’ai demandé pourquoi l’appel de TSI avait été déposé par la société de personnes plutôt que par l’un de ses associés que Me Marchioni a soulevé la question de l’invalidité de l’appel de TSI dans ses observations écrites. Comme je l’ai indiqué, après réflexion, je ne souscris pas à la thèse défendue par Me Marchioni.
+[34] La deuxième question que je dois trancher est celle de savoir si le fait d’autoriser les associés à contester les déterminations établies par le ministre à l’égard des années d’imposition 2000 et 2001, au motif qu’elles sont frappées de prescription, constituerait un abus de procédure.
+[35] Les appelants soutiennent que le paragraphe 152(1.7) de la LIR lie les associés uniquement dans la mesure où c’est le bien-fondé des montants établis par le ministre qui est en cause. Il ne les empêche pas de soutenir que les dispositions procédurales de la LIR n’ont pas été respectées, c’est-à-dire que les déterminations ont été établies après l’expiration du délai prescrit au paragraphe 152(1.4) de la LIR.
+[36] Les appelants se fondent sur l’arrêt de la Cour d’appel fédérale Ereiser c. Canada [2] . Dans cet arrêt, la juge Sharlow a affirmé qu’il y avait deux éléments à une cotisation ou, par ailleurs, à une détermination, à savoir le bien-fondé du montant de la cotisation établie et la validité de la cotisation. Aux paragraphes 21 et 22 de ses motifs, la juge Sharlow s’exprime en ces termes :
+[21] M. Ereiser sollicite de la Cour canadienne de l’impôt l’annulation des nouvelles cotisations faisant l’objet d’un appel. Il s’agit de la mesure appropriée en matière d’appel concernant l’impôt sur le revenu à l’encontre d’une cotisation (y compris une nouvelle cotisation) qui est déclarée non valide ou qui est déclarée infondée. J’emploie le mot « valide » pour désigner la cotisation établie conformément aux dispositions procédurales de la Loi de l’impôt sur le revenu, et les mots « bien fondée » pour désigner une cotisation dans laquelle le montant établi au titre de l’impôt est fondé sur les dispositions applicables de la Loi de l’impôt sur le revenu, interprétées correctement et appliquées aux faits pertinents.
+[22] Parmi les dispositions procédurales de la Loi de l’impôt sur le revenu, il y a les dispositions relatives aux périodes de prescription prévues par la loi. En règle générale, ces dispositions retirent [au] ministre le pouvoir légal d’établir une cotisation au titre de l’impôt après l’expiration d’une certaine période, période que la Loi de l’impôt sur le revenu définit comme étant la « période normale de cotisation », à moins qu’une exception prévue par la loi ne joue.
+[37] Par conséquent, les appelants soutiennent que le fait de les autoriser à plaider, dans le cadre de leurs propres appels, que les déterminations établies sont frappées de prescription ne peut constituer un abus de procédure.
+[38] Je partage l’avis des appelants selon lequel, compte tenu du libellé du paragraphe 152(1.7) de la LIR, il n’est pas manifeste que cette disposition lie les appelants en ce qui a trait aux dispositions procédurales de la LIR, notamment la question du délai de prescription. Cela dit, cette question n’est pas la seule sur laquelle je dois me pencher dans la présente requête.
+[39] L’intimée souligne que TSI aurait pu faire valoir que les déterminations étaient frappées de prescription si elle avait continué son appel. TSI a plutôt choisi de déposer un avis de désistement. L’intimée soutient qu’en application du paragraphe 16.2(2) de la Loi sur la CCI, l’appel a été rejeté et que, par conséquent, les déterminations établies par le ministre sont à tous égards valides. Ainsi, les associés ne peuvent débattre à nouveau de la question de la prescription, puisque cela constituerait un recours abusif à la Cour.
+[40] L’arrêt de principe sur l’abus de procédure pour remise en cause est l’arrêt de la Cour suprême du Canada Toronto (Ville) c. S.C.F.P., section locale 79 [3] (« S.C.F.P. »).
+[41] Dans l’arrêt S.C.F.P., M. Oliver travaillait pour la Ville de Toronto comme instructeur en loisirs. Il avait été déclaré coupable d’agression sexuelle contre un garçon confié à sa surveillance. Quelques jours après le prononcé du verdict, la Ville l’avait congédié. Devant un arbitre, M. Oliver a soutenu qu’il n’avait jamais agressé sexuellement le garçon. L’arbitre a conclu que la déclaration de culpabilité était à première vue recevable en preuve, mais qu’elle ne constituait pas une preuve concluante que M. Oliver s’était livré à une agression sexuelle sur le garçon. La Cour suprême devait déterminer si M. Oliver pouvait ou non remettre en cause les faits qui fondaient la déclaration de culpabilité.
+[42] La juge Arbour, s’exprimant au nom de la majorité, a décidé qu’autoriser M. Oliver à remettre en cause devant l’arbitre la question de savoir s’il s’était livré à une agression sexuelle constituerait un abus de procédure. L’autoriser à remettre en cause cette question mettrait en doute la validité de la déclaration de culpabilité et, du fait même, aurait pour effet de discréditer l’administration du processus judiciaire.
+[43] La juge Arbour a affirmé que la doctrine de l’abus de procédure visait principalement à préserver l’intégrité du processus décisionnel judiciaire. Au paragraphe 37 de ses motifs, elle a décrit l’objet de la doctrine en ces termes :
+37. Dans le contexte qui nous intéresse, la doctrine de l’abus de procédure fait intervenir [traduction] « le pouvoir inhérent du tribunal d’empêcher que ses procédures soient utilisées abusivement, d’une manière [...] qui aurait [...] pour effet de discréditer l’administration de la justice » (Canam Enterprises Inc. c. Coles (2000), 51 O.R. (3d) 481 (C.A.), par. 55, le juge Goudge, dissident, approuvé par [2002] 3 R.C.S. 307, 2002 CSC 63). Le juge Goudge a développé la notion de la façon suivante aux par. 55 et 56 :
+[traduction] La doctrine de l’abus de procédure engage le pouvoir inhérent du tribunal d’empêcher que ses procédures soient utilisées abusivement, d’une manière qui serait manifestement injuste envers une partie au litige, ou qui aurait autrement pour effet de discréditer l’administration de la justice. C’est une doctrine souple qui ne s’encombre pas d’exigences particulières telles que la notion d’irrecevabilité (voir House of Spring Gardens Ltd. c. Waite, [1990] 3 W.L.R. 347, p. 358, [1990] 2 All E.R. 990 (C.A.).
+Un cas d’application de l’abus de procédure est lorsque le tribunal est convaincu que le litige a essentiellement pour but de rouvrir une question qu’il a déjà tranchée. [Je souligne.]
+[44] La doctrine de l’abus de procédure pour remise en cause a été appliquée dans des appels en matière d’impôt. Dans l’affaire Morel c. Canada [4] , les appelants, M. Morel, Mme Morel et M. Belchetz, avaient chacun acquis une part d’une société en commandite. Cette société en commandite était composée de nombreuses sociétés de personnes, toutes sous le contrôle du commandité, Overseas Credit Guarantee Corporation (OCGC), qui avait fait enregistrer 79 sociétés de personnes sur une période de deux ans. Les appelants avaient chacun déduit certaines sommes de leur revenu découlant de leur participation à leur société en commandite respective.
+[45] Le ministre a refusé d’accorder les déductions parce que M. Bellfield, le président et unique actionnaire d’OCGC, et un de ses associés, M. Minchella, avaient été déclarés coupables de deux chefs d’accusation d’émission de documents contrefaits, une infraction visée par le Code criminel. Leurs déclarations de culpabilité et leurs peines avaient été confirmées par la Cour d’appel de l’Ontario, et leurs demandes de pourvoi devant la Cour suprême du Canada avaient été rejetées.
+[46] Dans les appels en matière d’impôt, il fallait déterminer si M. Morel et les autres associés pouvaient déduire certaines sommes de leurs revenus découlant de leur participation à leur société en commandite respective. L’intimée avait soutenu qu’en raison des déclarations de culpabilité de M. Bellfield et de M. Minchella, permettre à M. Morel et aux autres associés de faire valoir qu’ils avaient droit à de telles déductions aurait constitué un abus de procédure pour remise en cause.
+[47] La Cour d’appel fédérale, confirmant la décision du juge Bowie de la Cour, a conclu que l’équité exigeait que le résultat initial n’ait pas force obligatoire dans le nouveau contexte. Il ne s’agissait donc pas d’un abus de procédure si les appelants débattaient de leurs cotisations parce que celles-ci n’avaient encore jamais été débattues et également parce que M. Morel et les autres associés n’avaient pas participé au procès criminel. S’exprimant au nom de la Cour d’appel fédérale, le juge Sexton a réitéré le commentaire du juge Bowie selon qui « il ne serait pas équitable de leur refuser la possibilité de se faire entendre au sujet de la question de savoir si les sociétés de personnes étaient admissibles à titre de sources de revenu d’entreprise légitime ».
+[48] La Cour d’appel fédérale a ainsi tiré sa conclusion en s’appuyant sur les principes énoncés par la juge Arbour de la Cour suprême du Canada dans l’arrêt S.C.F.P., et le juge Sexton a répété que la doctrine de l’abus de procédure pour remise en cause vise principalement à préserver l’intégrité du système judiciaire afin d’éviter les résultats contradictoires, qui auraient pour effet de discréditer l’administration de la justice.
+[49] Compte tenu des décisions précitées, les appelants soutiennent que, puisque l’appel de TSI a été rejeté sans que les questions soulevées aient été tranchées, on ne devrait pas interdire aux associés de soutenir, dans leurs appels individuels, que les déterminations établies par le ministre sont frappées de prescription. La question n’ayant jamais été débattue, il ne peut y avoir abus de procédure pour remise en cause. Au paragraphe 5 de leurs observations écrites, les appelants font valoir ce qui suit :
+[traduction]
+Aucune ordonnance n’a été rendue qui établirait que toute conclusion tirée dans le contexte de l’appel de TSI lierait les appelants à titre individuel. Par conséquent, tous les appels individuels demeurent en instance et sont valables. De plus, aucune preuve n’a été présentée en ce qui a trait à l’appel de TSI Limited avant le désistement. En fait, l’appel de TSI était de toute évidence irrégulièrement formé et, par conséquent, effectivement nul. Selon moi, autoriser la Couronne à s’appuyer sur le retrait de l’appel – par une partie qui n’avait pas légalement le droit de le déposer – pour rejeter les appels d’un certain nombre d’associés commanditaires serait, de toute évidence, un abus de procédure.
+[50] Cela dit, dans les décisions précitées, l’article 16.2 de la Loi sur la CCI n’était pas en jeu.
+[51] Dans ses observations écrites, l’intimée a invoqué l’arrêt Scarola [5] de la Cour d’appel fédérale. Dans un jugement unanime, le juge Létourneau a indiqué que l’article 16.2 de la Loi sur la CCI avait été adopté dans le but d’assurer l’intégrité du système judiciaire et la finalité des décisions. Il a ajouté que le rejet d’une procédure en application de l’article 16.2 de la Loi sur la CCI avait le même effet qu’un jugement par lequel la Cour rejette la procédure :
+[21] Conformément au paragraphe 16.2[(2)], un désistement constitue un rejet. L’appel qui est rejeté est un appel sur lequel il a été statué, et l’appel sur lequel il a été statué n’existe plus : voir Lehner c. MRN, 97 D.T.C. 5270, à la page 5271, juge Pratte (C.A.F.). Le paragraphe 16.2(2) fait du dépôt d’un avis de désistement un rejet par interprétation analogue à un véritable rejet. En d’autres termes, le désistement, par suite de cette disposition, acquiert tous les attributs d’un rejet. Il a le même effet qu’un jugement par lequel la Cour rejette l’appel, quoique l’effet soit obtenu par la simple application de la fiction juridique. Dans un cas comme dans l’autre, les pouvoirs de la Cour sont épuisés : le décideur est dessaisi. Un rejet, réputé ou réel, est une décision définitive qui met fin à l’affaire, sauf dans certaines circonstances telles que la fraude ou un pouvoir prévu par la loi autorisant le décideur à conserver ou à acquérir de nouveau le pouvoir perdu.
+[52] Selon l’arrêt Scarola, sauf dans certaines circonstances, telles que la fraude ou un pouvoir prévu par la loi autorisant le décideur à conserver ou à acquérir de nouveau le pouvoir perdu, le rejet en application de l’article 16.2 de la Loi sur la CCI a le même effet qu’un jugement par lequel la Cour ordonne le rejet [6] . Par conséquent, puisque, en l’espèce, les appelants n’ont invoqué aucune circonstance particulière, ils tentent en fait de remettre en cause une question qui est réputée avoir été tranchée et rejetée par la Cour au niveau de la société de personnes.
+[53] Comme je l’ai affirmé, la prescription des déterminations aurait pu être soulevée et plaidée par TSI dans son appel, qui devait être entendu le 2 mai 2017, puisque la question du délai de prescription dans l’appel de TSI est la même que celle dont les associés souhaiteraient maintenant débattre dans leurs appels. TSI a plutôt choisi de se désister de son appel. Autoriser maintenant les associés de TSI à soulever la même question que TSI aurait elle-même pu soulever, mais qu’elle a choisi de ne pas soulever, constituerait un abus de procédure.
+[54] Par conséquent, compte tenu des principes énoncés dans l’arrêt S.C.F.P. et des conséquences d’un rejet aux termes de l’article 16.2 de la Loi sur la CCI, comme il a été expliqué dans l’arrêt Scarola, j’estime qu’autoriser les appelants à remettre en cause la question de savoir si les déterminations établies par le ministre sont frappées de prescription constituerait un abus de procédure.
+[55] Par conséquent, la requête en radiation des avis d’appel des appelants présentée par l’intimée est accueillie et les avis d’appel des appelants sont radiés.
+[56] Un seul mémoire de frais sera accordé à l’intimée.
+Signé à Montréal (Québec), ce 23e jour d’avril 2018
+« Johanne D’Auray »
+La juge D’Auray
+Traduction certifiée conforme
+ce 6e jour de mai 2019.
+Elisabeth Ross, jurilinguiste
+RÉFÉRENCE :
+2018 CCI 75
+Nos DES DOSSIERS DE LA COUR :
+2012-2895(IT)G; 2012-2917(IT)G;
+2012-2918(IT)G; 2012-2919(IT)G;
+2012-2920(IT)G; 2012-2921(IT)G;
+2012-2922(IT)G; 2012-2925(IT)G;
+2012-2926(IT)G; 2012-2927(IT)G;
+2012-2928(IT)G; 2012-2929(IT)G;
+2012-2979(IT)I; 2012-2980(IT)I;
+2012-3102(IT)G
+INTITULÉ :
+JAMES SPENCE STEWART c. LA REINE
+JAMES SHAW c. LA REINE
+STANLEY HARVEY c. LA REINE
+SANDRA INGLIS c. LA REINE
+MURRAY J. MCPHAIL c. LA REINE
+JEFF GILLAN c. LA REINE
+ROBERT BORG OLIVIER c. LA REINE
+ANTHONY TEDESCO c. LA REINE
+AHMAD YAQEEN c. LA REINE
+ROSA MILITANO c. LA REINE
+MAURIZIO MARCHIONI c. LA REINE
+PAUL WATT c. LA REINE
+GERALD JAMES c. LA REINE
+LYNN JAMES c. LA REINE
+SARAH BORG OLIVIER c. LA REINE
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+Le 2 octobre 2017
+MOTIFS DE L’ORDONNANCE :
+L’honorable juge Johanne D’Auray
+DATE DE L’ORDONNANCE :
+Le 23 avril 2018
+COMPARUTIONS :
+Avocat des appelants :
+Me Mauro Marchioni
+Avocates de l’intimée :
+Me Natalie Goulard
+Me Valerie Messore
+AVOCATS INSCRITS AU DOSSIER :
+Pour les appelants :
+Nom :
+Mauro Marchioni
+Cabinet :
+March Law
+Avocats
+Pour l’intimée :
+Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa, Canada
+[1] Voici un exemple d’un intitulé relatif à une société de personnes : Sentinel Hill Productions IV Corporation, en sa qualité d’associée désignée de Sentinel Hill No. 207 Limited Partnership c. Sa Majesté la Reine, 2013 CCI 267.
+[2] Ereiser c. Canada, 2013 CAF 20.
+[3] Toronto (Ville) c. S.C.F.P., section locale 79, 2003 CSC 63.
+[4] Morel c. Canada, 2008 CAF 53.
+[5] Canada (Procureur général) c. Scarola, 2003 CAF 157.
+[6] Récemment, dans l’arrêt R c. Comeau, 2018 CSC 15, la Cour suprême du Canada a répété que les juridictions inférieures doivent appliquer les précédents des juridictions supérieures qui font autorité. C’est le principe du stare decisis.

@@ -1,0 +1,151 @@
+Title: WRD Borger Construction Ltd. v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/498502/index.do
+Corpus path: corpus/cases/tcc/2021/2021-tcc-40-498502-wrd-borger-construction-ltd-v-the-queen-en.md
+Document type: case_law
+Last modified: 2021-06-09
+
+# WRD Borger Construction Ltd. v. The Queen
+
+- Citation: 2021 TCC 40
+- Decision date: 2021-06-09
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4482, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+WRD Borger Construction Ltd. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2021-06-09
+Neutral citation
+2021 TCC 40
+File numbers
+2018-3605(IT)I
+Judges and Taxing Officers
+Susan Wong
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2018-3605(IT)I
+BETWEEN:
+WRD BORGER CONSTRUCTION LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on September 3, 2020, at Calgary, Alberta
+Before: The Honourable Justice Susan Wong
+Appearances:
+Agent for the Appellant:
+Jim Craig
+Counsel for the Respondent:
+Adam Pasichnyk
+JUDGMENT
+The appeal from the reassessment under the Income Tax Act in respect of the 2015 taxation year is dismissed, without costs.
+Signed at Ottawa, Canada, this 9th day of June 2021.
+“Susan Wong”
+Wong J.
+Citation: 2021 TCC 40
+Date: 20210609
+Docket: 2018-3605(IT)I
+BETWEEN:
+WRD BORGER CONSTRUCTION LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Wong J.
+I. Introduction
+[1] The issue in this appeal is whether the appellant engaged in scientific research and experimental development (“SRED”) with respect to its activities/efforts to block water flow in a large underground box culvert in 2015.
+[2] The appellant claimed two SRED projects that year, one entitled “Improved sealing between submerged, rough cast surfaces” and the other entitled “Pressure activated removable plugs for large box culverts.” [1]
+[3] The Minister of National Revenue says that the activities relating to the second project did not meet the definition of SRED and therefore, disallowed the related SRED expenditures.
+II. Factual background
+[4] The appellant is part of the Borger Group of Companies, established in 1919. The appellant’s general manager Ahmed Kalaf testified that it specializes in deep utility servicing, earthmoving and more recently, transportation. He stated that the appellant works with some of the larger developers in the Calgary area and services about 3,000 to 3,500 lots in a good year. He estimated that the appellant installs between 130,000 and 150,000 metres of water mains per year, and approximately one to six box culverts each year. He stated that the box culverts range in size from 900 mm to 3 metres wide.
+[5] Based on Mr. Kalaf’s testimony, I would describe the larger-scale three-year construction project as the creation of a series/network of box culverts by installing new culverts and tying them in with existing ones. The interiors of both the existing and new culverts were below water level. In 2015, the specific task before the appellant (and the subject of this appeal) was blocking the water flow through a 500 metre long, 2.4 metre x 2.4 metre (i.e. 7.8 feet x 7.8 feet) box culvert so that the appellant’s workers could work inside it and install the necessary tie-ins. Ordinarily, storm water collects at one end of the culvert and flows along a 0.28% downward slope into a catchment pond, resulting in the interior of the culvert being below the normal water level of the catchment pond. [2]
+[6] Mr. Kalaf testified that culverts are generally installed above water level so in this instance, it was a particular challenge that the invert (i.e. the bottom of the interior) of the box culvert was approximately 4 metres below the pond’s surface. He explained that the pond water would exert a head pressure (i.e. pressure caused by its weight) on any blocking device they might use. Therefore, the blocking device would have to be able to withstand 4 metres (i.e. 13 feet) of head pressure. He also stated that draining the pond was not an option in this instance because they were not permitted to disturb its vegetation. He added that the base of the pond was also uneven because there was a layer of riprap, which is a rock product used to protect the pond’s inlets and outlets from erosion.
+[7] Another physical consideration was hoop stress, which Mr. Kalaf explained to be the stress exerted on a cylindrical device (i.e. in this case, the culvert itself and the inflatable bladder dam discussed below). For the purposes of this appeal, it is relevant that hoop stress is affected by the amount of pressure on the cylinder, the width of the cylinder, and the thickness of the cylinder wall; for example, thickening the cylinder wall lowers the hoop stress.
+[8] Mr. Kalaf stated that the appellant made inquiries within their industry as to how/whether others had encountered this situation, as well as conducted internet research. He testified that both lines of inquiry yielded minimal information, and that the appellant ultimately tried both a water-filled inflatable bladder dam (also known as an inflatable or portable cofferdam) as well as a rigid cap as blockage devices.
+[9] Mr. Kalaf testified that in 2014, the appellant tried a rigid steel cap over the culvert face (i.e. the opening) which itself was slanted and opened into the pond; however, the steel cap buckled under the water head pressure. In 2015, the appellant purchased a bladder dam/portable cofferdam from a company called Dam-It Dams in Michigan.
+[10] The purchase invoice from Dam-It Dams shows the dam was 8 feet x 50 feet and the seller added a notation that the 8-foot dam would control a maximum of 6 feet of still water including settling. [3] The invoice includes a worksite assessment sheet that asks whether there are objects present which could potentially damage the dam interface; the answer “no” is circled in response and the assessment sheet is signed by someone on the appellant’s behalf. [4]
+[11] In cross-examination, Mr. Kalaf stated that the appellant likely responded “no” to this question because an affirmative answer would have probably precluded the sale. He acknowledged that inflatable dams are ideally project-specific and that they can be custom-made, but stated that the appellant faced both time and funding constraints.
+[12] The appellant anchored the uninflated bladder dam at ground level and then threaded it through a 1.2 metre wide manhole above the culvert with the intention of inflating the dam lengthwise when it was inside the culvert. [5] Mr. Kalaf testified that their plan was stymied by the square shape of the culvert and the existing water head pressure; the inflatable dam could not take a shape which would completely seal the culvert and the head pressure prevented them from being able to fully inflate the dam. He also stated that friction (or lack thereof) caused two problems, i.e. the wet interior surface of the culvert caused the dam to slide back and forth while uneven or rough parts of the culvert’s interior surface caused tears in the dam.
+[13] He testified that the appellant then tried a rigid concrete cap which held up to the head pressure but did not fully seal the culvert face. [6] He stated that they ultimately sealed the gaps by deploying divers to insert small objects (such as pieces of wood) in the voids to physically block the leakage; the appellant then used pumps to remove any remaining/ongoing seepage. In the end, the appellant used the combination of a concrete cap, small objects such as pieces of wood, and pumps to dewater the square culvert.
+[14] With respect to the appellant’s procedure and recordkeeping, Mr. Kalaf agreed in cross-examination that its process was one of trial and error and that its ongoing records consisted of time cards and field observations entered into a daily system used for monitoring all its construction projects.
+[15] Mr. Kalaf testified that he has a Bachelor of Science degree earned in 2007 and acknowledged that he is not a civil engineer. He began working for the Borger Group of Companies first as a labourer and after obtaining his degree, he worked as an estimator, a project manager, a chief estimator, and an operations manager for the appellant before becoming its general manager.
+III. Legal framework
+[16] For the purposes of this appeal, SRED means:
+systematic investigation or search that is carried out in a field of science or technology by means of experiment or analysis and that is
+…
+(c) experimental development, namely, work undertaken for the purpose of achieving technological advancement for the purpose of creating new, or improving existing, materials, devices, products or processes, including incremental improvements thereto,… [7]
+[17] The criteria used to determine whether a set of activities fits within the above definition are well-established [8] , i.e.:
+(a) Was there a technological risk or uncertainty which could not be removed by routine engineering or standard procedures?
+If the problem can be resolved using standard procedure or routine engineering, then there is no technological uncertainty. [9]
+(b) Did the person claiming to be doing SRED formulate hypotheses specifically aimed at reducing or eliminating that technological uncertainty?
+The five stages are: (1) observation of the subject matter of the problem, (2) formulation of a clear objective, (3) identification and articulation of the technological uncertainty, (4) formulation of one or more hypotheses designed to reduce or eliminate the uncertainty, and (5) methodical and systematic testing of the hypotheses. [10]
+(c) Did the procedure adopted accord with the total discipline of the scientific method including the formulation, testing and modification of hypotheses?
+The methodology described in (b) should be adopted with a view to removing a technological uncertainty through the formulation and testing of innovative and untested hypotheses. It is not adherence to systematic routines for their own sake. [11]
+(d) Did the process result in a technological advancement?
+A technological advancement is an advancement in the general understanding. In other words, it advances something known to or available to people knowledgeable in that field. Rejection of an hypothesis after testing, is an advancement. [12]
+(e) Was a detailed record of the hypotheses tested, and the results kept as the work progressed?
+[18] Based on their wording, the five criteria are not mutually exclusive.
+IV. Analysis
+[19] I do not believe that the appellant’s activities meet the five SRED criteria. I would describe the appellant’s efforts as resourceful in light of the time and monetary constraints before it, but they were not innovative.
+[20] It is clear that there was uncertainty as to how the appellant might resolve the problem before it. However, that uncertainty did not reach the level of a technological risk or uncertainty which could not be removed by routine engineering or standard procedures. The appellant tried existing dewatering procedures in terms of the inflatable bladder dam and a rigid cap. The appellant ultimately used the concrete cap, inserted physical objects to block any remaining gaps, and controlled ongoing seepage by using pumps. I would consider the use of physical objects and pumps in this manner to be within the scope of their standard usages. [13]
+[21] The appellant’s approach to this situation was more akin to problem-solving by trial and error than formulating hypotheses and systematically testing them to reduce or eliminate a technological uncertainty. Its efforts were systematic in the sense that the appellant could only try one option at a time and fully committed to each option as it was being tried. Mr. Kalaf was a very credible witness and the fact that he agreed in cross-examination that the appellant’s process was one of trial and error is not a consideration.
+[22] As an example of trial and error, the appellant purchased the 8-foot x 50-foot inflatable bladder dam whose manufacturer’s specifications indicated that it could control 6 feet of still water. [14] The culvert itself was 2.4 metres x 2.4 metres (i.e. 7.8 feet x 7.8 feet) with 4 metres (i.e. 13 feet) of head pressure exerted by the pond water. Even though the culvert’s interior surface was not smooth, the appellant informed the seller that there were no objects present which could potentially damage the dam’s interface. [15] Given these parameters and contraindications, it seems that success was very unlikely from the outset. The effort also did not reach the level of disproving a scientific hypothesis because the bladder dam was used for its created purpose (i.e. blocking water) and the variables exceeded the capabilities already set out by its manufacturer.
+[23] The fact that the appellant’s recordkeeping was limited to time cards and daily field observations entered into its routine monitoring system, supports the conclusion that the appellant was not engaged in experimental development to achieve technological advancement by creating something new or improving something already in existence. It was unnecessary to track progress as one would in a scientific experiment because there was no hypothesis.
+[24] In this case, the appellant successfully solved a problem within the time and monetary constraints before it and by Mr. Kalaf’s testimony, the appellant showed itself to be resourceful and committed. However, there was no advancement in the field of civil engineering for the purposes of the SRED provisions.
+V. Conclusion
+[25] The appeal is dismissed, without costs.
+Signed at Ottawa, Canada, this 9th day of June 2021.
+“Susan Wong”
+Wong J.
+CITATION:
+2021 TCC 40
+COURT FILE NO.:
+2018-3605(IT)I
+STYLE OF CAUSE:
+WRD BORGER CONSTRUCTION LTD. AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Calgary, Alberta
+DATE OF HEARING:
+September 3, 2020
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Susan Wong
+DATE OF JUDGMENT:
+June 9, 2021
+APPEARANCES:
+Agent for the Appellant:
+Jim Craig
+Counsel for the Respondent:
+Adam Pasichnyk
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+n/a
+Firm:
+n/a
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Reply to the notice of appeal, paragraph 5(e)
+[2] Exhibit A-1, document 2-2 (Hand-drawn diagram of culvert); Reply to the notice of appeal, paragraphs 5(g) and 5(i)
+[3] Exhibit R-1, copy of April 23, 2014 email from Dam-It Dams with invoice attached
+[4] Exhibit R-1, copy of April 23, 2014 email from Dam-It Dams with worksite assessment sheet attached
+[5] Exhibit A-1, document 2-2 (Hand-drawn diagram of culvert)
+[6] Exhibit A-1, document 2-2 (Hand-drawn diagram of culvert)
+[7] Income Tax Act, subsection 248(1)
+[8] Kam-Press Metal Products Ltd v. Canada, 2021 FCA 88, 2021 CarswellNat 1288 at paragraph 7, affirming 2019 TCC 46; C.W. Agencies Inc. v. Canada, 2001 FCA 393, 2002 D.T.C. 6740 at paragraph 17; R&D Pro-Innovation Inc. v. Canada, 2016 FCA 152, 2015 D.T.C. 5066 at paragraph 4; Jentel Manufacturing Ltd. v. Canada, 2011 FCA 355, 2012 D.T.C. 5031 at paragraph 6; Northwest Hydraulic Consultants Ltd v. The Queen, 1998 CanLII 553 (TCC), 98 D.T.C. 1839 at paragraph 16.
+[9] Northwest Hydraulic Consultants Ltd v. The Queen, 1998 CanLII 553 (TCC) at paragraph 16.
+[10] Northwest Hydraulic Consultants Ltd v. The Queen, 1998 CanLII 553 (TCC) at paragraph 16.
+[11] Northwest Hydraulic Consultants Ltd v. The Queen, 1998 CanLII 553 (TCC) at paragraph 16.
+[12] Northwest Hydraulic Consultants Ltd v. The Queen, 1998 CanLII 553 (TCC) at paragraph 16.
+[13] Northwest Hydraulic Consultants Ltd v. The Queen, 1998 CanLII 553 (TCC) at paragraph 31.
+[14] Exhibit R-1, copy of April 23, 2014 email from Dam-It Dams with invoice attached
+[15] Exhibit R-1, copy of April 23, 2014 email from Dam-It Dams with worksite assessment sheet attached

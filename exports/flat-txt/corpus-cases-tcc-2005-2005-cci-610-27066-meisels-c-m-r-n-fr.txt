@@ -1,0 +1,135 @@
+Title: Meisels c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27066/index.do
+Corpus path: corpus/cases/tcc/2005/2005-cci-610-27066-meisels-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2005-10-19
+
+# Meisels c. M.R.N.
+
+- Citation: 2005 CCI 610
+- Decision date: 2005-10-19
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 609, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Meisels c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-10-19
+Référence neutre
+2005 CCI 610
+Numéro de dossier
+2004-3938(EI), 2004-3939(EI), 2004-3940(EI)
+Juges et Officiers taxateurs
+Lucie Lamarre
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossiers : 2004-3938(AE), 2004-3939(AE), 2004-3940(AE)
+ENTRE :
+RON MEISELS,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+MONICA RIZK, JENNIFER LAVOIE et NANCY LYDON,
+intervenantes.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels entendus le 31 août 2005 et le 2 septembre 2005.
+Motifs rendus oralement à l’audience à Montréal (Québec), le 2 septembre 2005.
+Devant : L’honorable juge Lucie Lamarre
+Comparutions :
+Avocat de l’appelant :
+Me Christopher R. Mostovac
+Avocate de l’intimé :
+Me Natalie Goulard
+Pour les intervenantes :
+Les intervenantes elles‑mêmes
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté en vertu du paragraphe 103(1) de la Loi sur l’assurance‑emploi (la « Loi ») est rejeté, et la décision qu’a rendue le ministre du Revenu national le 6 juillet 2004 est confirmée au motif qu’il existait une relation employeur‑employé au sens de l’alinéa 5(1)a) de la Loi entre l’appelant et Monica Rizk du 1er septembre 2000 au 31 décembre 2002, et du 1er janvier au 29 octobre 2003, entre l’appelant et Jennifer Lavoie du 22 juin 2001 au 31 décembre 2002, et du 1er janvier au 29 octobre 2003, et entre l’appelant et Nancy Lydon du 1er janvier 2000 au 31 décembre 2002, et du 1er janvier au 29 octobre 2003.
+Signé à Ottawa, Canada, ce 19e jour d’octobre 2005.
+« Lucie Lamarre »
+La juge Lamarre
+Traduction certifiée conforme
+ce 3e jour de février 2006.
+Joanne Robert, traductrice
+Référence : 2005CCI610
+Date : 20051019
+Dossiers : 2004-3938(AE), 2004-3939(AE), 2004-3940(AE)
+ENTRE :
+RON MEISELS,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+MONICA RIZK, JENNIFER LAVOIE et NANCY LYDON,
+intervenantes.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+(Rendus oralement à l’audience à Montréal (Québec), le 2 septembre 2005.)
+La juge Lamarre
+[1] Il s’agit d’un appel interjeté contre une décision du ministre du Revenu national (le « ministre ») qui a été communiquée à l’appelant dans des lettres datées du 6 juillet 2004. Selon cette décision, les travailleuses Monica Rizk, Jennifer Lavoie et Nancy Lydon exerçaient un emploi assurable au sens de l’alinéa 5(1)a) de la Loi sur l’assurance‑emploi (la « Loi ») au cours des périodes allant du 1er septembre 2000 au 31 décembre 2002, et du 1er janvier au 29 octobre 2003 dans le cas de Monica Rizk, du 22 juin 2001 au 31 décembre 2002, et du 1er janvier au 29 octobre 2003 dans le cas de Jennifer Lavoie, puis du 1er janvier 2000 au 31 décembre 2002, et du 1er janvier au 29 octobre 2003 dans le cas de Nancy Lydon.
+[2] M. Meisels, qui a créé son entreprise en 1990, est analyste de recherche. Au cours des années 1998 et 1999, l'entreprise a pris de l’essor, ce qui commandait qu'un plus grand nombre de rapports sur des actions et sur des transactions boursières soient publiés et envoyés aux clients. (En 2000, M. Meisels a fait parvenir environ 95 rapports à des clients, dont 50 étaient des rapports sur des actions.) M. Meisels avait besoin d’aide pour produire ces rapports sur les actions. Il était à la recherche d’une personne qui l’aiderait à formuler des recommandations sur les titres en portefeuille après avoir analysé le marché. Cette personne allait avoir la responsabilité d’établir le passé d’actions déterminées, de recueillir des données, d’obtenir des renseignements quotidiens sur ces actions et de les trier pour ne retenir que l’écart en dollars entre les différents prix de vente des actions, et de consigner l’information dans un graphique chiffré.
+[3] Selon M. Meisels, faire des graphiques chiffrés est un travail sérieux et pénible. Une fois le graphique achevé, la personne embauchée par M. Meisels devait faire un rapport sur les actions en question et le lui remettre.
+[4] M. Meisels a dit qu’il ne voulait pas entretenir de relation employeur‑employé avec la personne embauchée. Pour citer M. Meisels, il ne voulait pas être « attaché » à cette personne.
+[5] Ayant toutes ces considérations en tête, M. Meisels a d’abord embauché son épouse, Nancy Lydon, le 1er janvier 2000. Mme Lydon est décoratrice d’intérieur. Elle a dit avoir été embauchée et payée pour rédiger des rapports financiers. Elle a aussi dit qu’elle avait acquis ses connaissances dans le domaine en observant M. Meisels et en lisant des livres sur le sujet. M. Meisels a dit ne lui avoir donné aucune formation. Au dire de Mme Lydon, elle rédigeait des rapports sur des actions de son choix et elle travaillait à la maison sur un ordinateur qui appartenait à son mari et à elle. Selon Mme Lydon, M. Meisels était toujours au bureau et il ne contrôlait pas le nombre d’heures où elle travaillait. Il y avait une table de travail qu’elle pouvait utiliser au bureau, mais n'importe qui pouvait s’en servir. D’après Mme Lydon, les livres et les rapports conservés dans le bureau ne pouvaient en sortir. Selon elle, rédiger un rapport pouvait prendre entre une et dix heures. Mme Lydon ne faisait pas les graphiques chiffrés elle‑même, mais utilisait plutôt ceux qu’avait faits M. Meisels. Elle a dit qu’elle rédigeait cinq ou six rapports par mois et qu’elle informait probablement M. Meisels du nombre d’heures pendant lesquelles elle avait travaillé dans le mois où elle était payée.
+[6] M. Meisels a témoigné que Mme Lydon était payée uniquement pour rédiger des rapports. Il a toutefois admis qu’elle faisait de la tenue de livres et payait des factures pour l’entreprise. Le 29 octobre 2003, elle a cessé de travailler pour une période de six mois. Lorsqu’elle est revenue en juillet 2004, elle était traitée comme une employée.
+[7] Selon les cinq contrats qu’ont signés M. Meisels et Mme Lydon entre le 1er janvier 1999 et le 1er janvier 2003, les fonctions de Mme Lydon étaient de tenir à jour les registres de l’entreprise et de faire de la tenue de livres pour M. Meisels. Elle devait être payée entre 12 $ et 14 $ l’heure et travailler au moins 88 heures par mois. Les contrats ne prévoyaient pas qu’elle doive fournir une assistance technique pour l’établissement des rapports sur les transactions boursières. D’après M. Meisels, ces contrats ont été rédigés par son comptable et ils ne reflétaient pas la réalité.
+[8] De plus, le témoignage de Mme Lydon a comporté quelques autres contradictions. Bien qu’elle ait prétendu être entrepreneuse indépendante en 2003, elle a indiqué, dans sa déclaration de revenus pour cette année‑là, un revenu d’emploi de 28 000 $ provenant de M. Meisels (pièce R-4). Cela signifie qu’à un taux horaire de 14 $, elle aurait travaillé environ 45 heures par semaine (du 1er janvier au 29 octobre 2003). Mme Lydon a dit qu’au cours des années précédant 2003, elle avait travaillé entre 55 et 88 heures par mois. Pendant l’audience, elle a de nouveau affirmé qu’elle ne travaillait pas à plein temps pour M. Meisels en 2003, qu’elle ne s’était pas occupée de la tenue des registres et qu’elle n’avait pas fait de travail de bureau. Elle a expliqué qu’elle ne pouvait pas faire la tenue des livres parce qu’elle a un problème en ce qu’elle a tendance à inverser les chiffres dans les colonnes. Néanmoins, le travail d’analyste technique est, au premier abord, étroitement lié à des chiffres inscrits dans des colonnes. (Se reporter à la feuille intitulée « Globe Investor » dans la pièce A-1.)
+[9] De plus, M. Meisels a expliqué que Mme Lydon était payée plus cher que les deux autres travailleuses parce qu’elle avait plus d’expérience. (Cela est quelque peu difficile à comprendre vu son expérience de décoratrice d’intérieur et vu le fait qu’elle ne faisait pas les graphiques chiffrés elle‑même.)
+[10] Le 1er septembre 2000, M. Meisels a embauché Monica Rizk, qui avait obtenu un diplôme en administration des affaires en 1996. Les parents de Monica Rizk travaillent tous deux dans le domaine de la finance. Mme Rizk n’avait aucune expérience professionnelle comme analyste technique lorsqu’elle a répondu à l’annonce que M. Meisels avait fait paraître dans les journaux. Selon l’annonce, ce dernier voulait trouver une personne pour réaliser des recherches. M. Meisels lui a offert du travail tout de suite après la première entrevue. Mme Rizk a été embauchée pour faire des graphiques chiffrés et pour produire des rapports. Elle a dit qu’elle s’est formée en lisant sur le sujet, et que M. Meisels ne lui a donné aucune formation. Elle croyait devoir produire trois ou quatre rapports par mois. D'après Mme Rizk, M. Meisels lui donnait quelques consignes pour sélectionner les actions à analyser, mais elle faisait essentiellement des rapports sur des actions de son choix, pour autant qu’elles présentaient un intérêt pour les clients de M. Meisels.
+[11] Mme Rizk a apparemment signé deux contrats avec M. Meisels. En septembre 2000, elle a accepté de lui fournir une assistance technique en contrepartie d'un paiement de 1 000 $ tous les deux mois (pièce R-1). Dans un autre contrat signé à la même date, Mme Rizk a convenu de s’occuper de la facturation pour M. Meisels et de travailler un minimum de 28 heures par mois, à un taux horaire de 10 $. Elle a également signé deux contrats similaires en mai 2001 et en janvier 2002 (pièce A‑3). Le taux horaire a augmenté à 11 $ en 2001, et à 12 $ en 2002. Pendant l’audience, Mme Rizk a dit que les seuls services rendus à M. Meisels avaient consisté en une assistance technique. Néanmoins, elle a admis que pendant un moment et sur la demande de M. Meisels, elle avait fait de la simple saisie de données relativement à certains clients. Elle avait accompli cette tâche à partir de chez elle, en utilisant ses propres instruments de travail. Mme Rizk a dit qu’elle ne travaillait pas 28 heures par mois, comme le prévoyait son contrat. Elle a été incapable d’expliquer pourquoi elle avait signé le même contrat trois fois s’il ne reflétait pas la réalité.
+[12] En octobre 2003, Mme Rizk est devenue une employée à plein temps de M. Meisels. Elle a dit qu’il y a eu peu de changement sur le plan de la quantité de travail et des actions à analyser. À partir de ce moment, a-t-elle dit, M. Meisels a donné davantage de consignes, par exemple sur les rapports à rédiger et sur le nombre d’heures où elle devait travailler.
+[13] Jennifer Lavoie a été embauchée le 22 juin 2001. Membre de la Canadian Society of Technical Analysts (la « CSTA »), elle assitait aux réunions mensuelles de la société. C’est par l’entremise de celle-ci que Mme Lavoie a rencontré M. Meisels. Elle a expliqué que M. Meisels était à la recherche d’une personne pour faire des rapports sur des transactions boursières, y compris des graphiques chiffrés. Mme Lavoie étudiait alors pour devenir [TRADUCTION] technicienne agréée en analyse des marchés (chartered market technician (« CMT »)) et elle avait lu un ouvrage sur l’analyse technique faisant autorité dans le domaine. Elle a réussi le premier niveau du programme d'études des CMT en novembre 2001 et le deuxième niveau en novembre 2002. Elle n’a pas essayé d’aller plus loin dans le programme.
+[14] Mme Lavoie a dit qu’elle n’avait reçu aucune formation particulière de M. Meisels. À son avis, elle connaissait bien le domaine lorsqu’elle a été embauchée (même si elle n’avait jamais fait de rapports auparavant). Utilisant Internet, elle travaillait à la maison sur les valeurs les plus allantes sur le marché boursier. Travailler à la maison était pratique pour elle, car Mme Lavoie avait besoin de temps pour accomplir son travail de bénévole à la CSTA et pour faire d’autres activités. Mme Lavoie pouvait travailler pour M. Meisels entre 20 et 30 heures, et parfois même entre 40 et 50 heures par semaine. En général, elle devait produire deux rapports tous les deux mois. Elle a dit qu’elle n’aurait pas été payée si elle n’avait pas livré les rapports. L’ordinateur et les instruments de travail lui appartenaient. Elle était payée 1 000 $ tous les deux mois non pas en fonction des rapports mais plutôt sur la base du travail que M. Meisels la croyait capable d’accomplir. Toutefois, Mme Lavoie a dit qu’elle n’était pas payée pour refaire du travail qui devait être repris. Elle a aussi signé un contrat avec M. Meisels.
+[15] En octobre 2003, Mme Lavoie est devenue une employée à plein temps de M. Meisels. Elle a travaillé à un nouveau projet qu’il lui avait proposé, [TRADUCTION] le projet Zig Zag. Elle y a travaillé à partir du bureau de M. Meisels.
+[16] Selon M. Meisels, l'entreprise a pris de l’essor au fil des ans et à partir d’octobre 2003, il avait davantage besoin de données exactes. M. Meisels estimait alors que le travail devait être effectué à partir du bureau. À compter de ce moment, les intervenantes ont donc commencé à travailler au bureau de 9 h à 17 h. Avant octobre 2003, M. Meisels ignorait les moments où elles travaillaient et celles‑ci n’allaient au bureau que de façon sporadique (Mme Lavoie a dit qu’elle s’y rendait une fois par mois). Aussi, les intervenantes ont dit que M. Meisels ne fournissait pas de rétroaction sur leur travail, et qu’elles choisissaient les actions à analyser parmi ce que M. Meisels appelait le [TRADUCTION] « palmarès des 60 actions ». Après octobre 2003, M. Meisels s’est mis à choisir les actions qu'elles devaient analyser. Chaque intervenante avait sa table de travail dans le bureau et répondait au téléphone.
+[17] Situé dans le centre‑ville de Montréal, le bureau de M. Meisels a une superficie de 1 000 pieds carrés. Une certaine confusion régnait en regard des gens qui y travaillaient avant octobre 2003. M. Meisels a dit qu’il était le plus souvent seul jusqu'à ce que les intervenantes deviennent des employées. Questionné sur la présence d’une secrétaire, il a donné des réponses inintelligibles. Au départ, il a dit ne pas avoir eu de secrétaire, puis il a dit en avoir eu une entre 2000 et 2003, dont il ne se rappelait plus le nom. De retour après une brève suspension de l’audience, M. Meisels a donné le nom de trois secrétaires qui, a‑t‑il dit, avaient travaillé avec lui. Selon son épouse, Mme Lydon, M. Meisels n’a pas employé de secrétaire avant cette année (2005). Les deux autres intervenantes n’étaient pas au courant de la présence d’une secrétaire.
+[18] M. Meisels a témoigné qu’il avait demandé aux intervenantes de réaliser des recherches sur des actions qui présentaient un intérêt pour ses clients (essentiellement parmi ce qu’il appelait le palmarès des 60 actions), d’exprimer par écrit une opinion sur les actions, et de présenter le rapport de façon acceptable. Il décidait ensuite s’il acceptait le rapport, quoique les intervenantes fussent payées pour des rapports refusés. Les rapports devenaient la propriété de M. Meisels. S’il décidait de les envoyer à des clients ou aux médias, il les vérifiait toujours et apportait quelques modifications, ce qui lui prenait entre cinq minutes et une heure. Il continuait de faire des rapports et s’occupait des communications avec les clients. Il s’attendait à ce que chaque intervenante lui remette de quatre à six rapports par mois et il leur versait en contrepartie une rémunération dont le montant était prédéterminé. M. Meisels pouvait aussi demander occasionnellement aux intervenantes de mettre à jour des rapports existants. Si les intervenantes travaillaient à partir de la maison avec leur ordinateur, M. Meisels a admis qu’au cours des années qui font l’objet du litige, une partie des renseignements dont elles avaient besoin se trouvaient dans des livres et des journaux qui étaient conservés au bureau, auquel elles avaient accès. Au dire de M. Meisels, les intervenantes pouvaient apporter les livres à la maison, mais son épouse a dit que cela était impossible.
+[19] M. Meisels a dit que depuis d’octobre 2003, il demande aux intervenantes de travailler au bureau. Depuis ce temps, il veut contrôler leur travail et choisir les actions sur lesquelles elles doivent réaliser des recherches. Il contrôle également le nombre d’heures pendant lesquelles elles travaillent et leur paie maintenant des congés annuels.
+[20] Pendant l’argumentation, l’avocat de l’appellant a fait valoir qu’il fallait examiner l’intérêt explicite des parties, et que le contrôle est un critère prépondérant lorsqu’il s’agit d’établir l’existence d’une relation employeur‑employé. Il a avancé qu’il ne fallait pas confondre le contrôle du résultat (qui témoigne d’une relation d’entrepreneur indépendant) avec le contrôle du travailleur (qui indique une relation employeur‑employé).
+[21] En ce qui concerne l’intérêt explicite des parties, tous ont dit à l’audience que c’était là leur intention que les intervenantes soient traitées comme des entrepreneuses indépendantes, mais ce n’est pas ce que la preuve documentaire révèle. Plusieurs contrats signés par les parties définissent les fonctions des intervenantes en des termes précis. Ils spécifient leur taux de rémunération, un nombre minimal d’heures à travailler pour M. Meisels (plus expressément dans le cas de Mme Lydon et de Mme Rizk), et le nombre de rapports à produire. Les contrats contenaient également une clause stipulant que les travailleuses devaient être disponibles en tout temps.
+[22] La façon dont les contrats ont été rédigés montre qu’il s’agit plus que d’un simple contrôle du résultat. Elle traduit un contrôle des travailleuses même. Aujourd’hui, l’appelant dit que les contrats ne reflètent pas la relation réelle qui existait entre les parties. Néanmoins, je ne suis pas convaincue qu'il ait raison. Tout d’abord, comme l’a fait remarquer l’avocate de l’intimé, les quelques contradictions et invraisemblances que contient la preuve jettent le doute sur la véritable intention des parties. Par exemple, une certaine confusion régnait au sujet de la présence d’une secrétaire au bureau. (M. Meisels a dit qu’il n’y en avait pas, puis il a dit qu’il y en avait trois; au dire de son épouse, il n’y en avait pas; les deux autres intervenantes ne savaient pas s’il y en avait alors qu’elles pouvaient accéder au bureau aussi souvent qu’elles le voulaient.) Deuxièmement, le travail des intervenantes après octobre 2003 n’était pas vraiment différent de celui qu’elles accomplissaient avant. Toutefois, les intervenantes ont dit qu’avant octobre 2003, elles travaillaient à partir de la maison sans être soumises à quelque contrôle que ce soit. Après octobre 2003, elles devaient travailler au bureau, et leur travail était contrôlé. La question suivante est donc soulevée : les intervenantes travaillaient‑elles réellement à partir de la maison ou à partir du bureau pendant les périodes qui font l’objet du litige. Troisièmement, les mêmes contrats n’ont pas été signés une fois seulement. Ils ont plutôt été signés périodiquement.
+[23] De plus, M. Meisels est celui qui a embauché les intervenantes et il l’a fait selon ses conditions. Il ne voulait pas être astreint à des contrats de travail. En réalité, les conditions qu’il a imposées aux travailleuses étaient celles qui caractérisent précisément la relation employeur‑employé. Qu’une partie du travail fût accomplie à partir de la maison si, de fait, c’était le cas, ne change pas vraiment la relation à mon avis.
+[24] Il est intéressant de voir que l’avocat de l’appelant parle d’une évolution de la jurisprudence quant à l’existence d’une relation employeur‑employé. En parlant d’évolution, il convient de noter que les employés travaillent maintenant de plus en plus à partir de la maison en raison de leurs responsabilités familiales et personnelles. Cela ne signifie pas que l’employeur perd le contrôle du travail accompli par ses employés. Il n'exerce plus tant son contrôle en établissant un horaire précis, et le travailleur peut accomplir son travail à son propre rythme. Mais si quatre rapports doivent être faits en un mois, il demeure que le travailleur doit mettre le nombre d’heures de travail nécessaires pour réaliser l’objectif.
+[25] Je ne conclus pas qu’il y avait absence totale de supervision de la part de M. Meisels, comme c'est le cas dans l’arrêt Weagle v. Minister of National Revenue, [2001] 1 C.T.C. 2435 (C.C.I.), [2000] A.C.I. no 684 (Q.L.) cité par l’appelant. Au contraire, dans l’affaire qui nous occupe, un contrôle était exercé sur le travail à accomplir dans la mesure où les travailleuses devaient remettre un nombre de rapports chaque mois. Cela nécessitait qu'elles y consacrent un certain nombre d’heures que calculait M. Meisels en déterminant la paie de chaque travailleuse. De plus, le travail à faire était décrit dans le contrat. La situation est différente de celle qui est présentée dans l’arrêt Wolf v. The Queen, 2002 DTC 6853 (C.A.F.), où la partie qui avait fait l’embauche n’avait d’autre responsabilité à l’égard du travailleur que de payer le prix du travail. Si l'intention explicite des parties dans la présente affaire était celle qu'elles disent aujourd’hui, les conditions du contrat et son exécution ne reflètent pas cette intention, contrairement à la situation qui régnait dans l’affaire Wolf.
+[26] De la même manière, l’arrêt Vulcain Alarme Inc. v. Canada (M.N.R.), [1999] A.C.F. no 749 (Q.L.) qu’a cité l’appelant se distingue de la présente affaire. Dans l’arrêt Vulcain, le contribuable avait une expertise qu’il vendait aux clients de l’appelant. Le contribuable ne recevait pas de rémunération fixe, comme c’est le cas ici.
+[27] Vu l’expérience inexistante ou très limitée des intervenantes dans le domaine de l’analyse technique, et vu l’excellente réputation dont jouit M. Meisels dans ce domaine, j’ai de la difficulté à croire que les intervenantes étaient payées pour produire des rapports sans supervision aucune. En réalité, M. Meisels a admis qu’aucun de ces rapports n’était envoyé aux clients ou aux médias sans qu’il ne l'ait approuvé, et il semble qu'il mettait sa touche dans les rapports afin qu'ils soient conformes à ses critères. Dans ce sens, je conclus que M. Meisels contrôlait le travail des intervenantes non seulement dans son résultat mais aussi dans la manière dont il était accompli.
+[28] À ce propos, j'ajouterais quelques commentaires personnels. Toutes les travailleuses ont dit qu'elles travaillaient à partir de la maison, et que M. Meisels était le seul à travailler dans un bureau d'une superficie de 1 000 pieds carrés, situé dans le centre‑ville de Montréal. Il est difficile, lorsqu'on connaît les coûts de location des bureaux dans le centre‑ville de Montréal, de croire que M. Meisels occupait cet espace à lui tout seul. Il est également difficile de croire que de 2000 à 2002, M. Meisels a accepté de payer les intervenantes pour qu'elles produisent des rapports sans contrôler leur travail ou leurs horaires alors que les intervenantes avaient très peu ou pas d'expérience, et que tout a soudainement changé en 2003, lorsqu'il a censément décidé de contrôler les allées et venues des intervenantes, et le travail accompli.
+[29] À mon avis, il est évident que M. Meisels devait surveiller les personnes inexpérimentées qu'il avait embauchées. Il devait préserver sa réputation, et avait intérêt à maintenir inchangés ses profits. Il ne les aurait pas compromis ainsi qu'il a dit l'avoir fait (en payant pour obtenir des rapports de toute sorte qu'il n'avait pas nécessairement demandés).
+[30] Toutes les intervenantes avaient accès à un ordinateur et à des livres au bureau. Elles recevaient une rémunération fixe et n'exploitaient pas leur propre entreprise comme analystes techniques. Pendant les périodes qui font l'objet du litige, elles en étaient encore au stade d'apprentissage dans le domaine. J'ajouterais ici que l'article tiré du site Internet du journal Les Affaires, déposé au titre de la pièce A-5, qui fait mention de la connaissance du domaine de Mme Rizk, est daté de décembre 2004, c'est‑à‑dire après les périodes qui font l'objet du litige. À mon avis, toutes les intervenantes travaillaient à titre d'employées pour M. Meisels durant ces périodes. Du moins, l'appelant ne m'a pas convaincue autrement.
+[31] Les appels sont rejetés.
+Signé à Ottawa, Canada, ce 19e jour d'octobre 2005.
+« Lucie Lamarre »
+La juge Lamarre
+Traduction certifiée conforme
+ce 3e jour de février 2006.
+Joanne Robert, traductrice
+CITATION: 2005TCC610
+COURT FILE NO.: 2004-3938(EI), 2004-3939(EI), 2004-3940(EI)
+STYLE OF CAUSE: Ron Meisels v. M.N.R. and Jennifer Lavoie, Monica Rizk and Nancy Lydon
+PLACE OF HEARING: Montreal, Quebec
+DATES OF HEARING: August 31 and September 2, 2005
+REASONS FOR JUDGEMENT BY: The Honourable Justice Lucie Lamarre
+DATE OF JUDGMENT: October 19, 2005
+APPEARANCES:
+Counsel for the Appellant:
+Christopher R. Mostovac
+Counsel for the Respondent:
+Natalie Goulard
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Christopher R. Mostovac
+Firm: Starnino Mostovac (Montreal)
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Ontario

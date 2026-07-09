@@ -1,0 +1,279 @@
+---
+title: "Marine Atlantic Inc. v. The King"
+source: "https://norma.lexum.com/tcc-cci/decisions/en/item/521252/index.do"
+last_modified: "2024-04-26"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2024 TCC 51"
+citation2: ""
+neutral_citation: "2024 TCC 51"
+decision_date: "2024-04-26"
+language: "en"
+item_id: "521252"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5514
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2026-05-28T11:01:35.189000+00:00"
+cases_cited_count: 15
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "386be907f5eeb350de764cf7bf5c2b0268f103c1c9678f1b644e46c2e58bc4a4"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Marine Atlantic Inc. v. The King
+
+- Citation: 2024 TCC 51
+- Decision date: 2024-04-26
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5514, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Marine Atlantic Inc. v. The King
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2024-04-26
+Neutral citation
+2024 TCC 51
+File numbers
+2012-1765(GST)G, 2015-2123(GST)G
+Judges and Taxing Officers
+Steven K. D'Arcy
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Dockets: 2012-1765(GST)G
+2015-2123(GST)G
+BETWEEN:
+MARINE ATLANTIC INC.,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+Costs submissions filed on September 7, 2023 and September 8, 2023 regarding the Judgment issued on July 10, 2023
+By: The Honourable Justice Steven D’Arcy
+Appearances:
+Counsel for the Appellant:
+Kimberley Cook
+Florence Sauve
+Chris Canning
+Counsel for the Respondent:
+Selena Sit
+Spencer Landsiedel
+ORDER
+In accordance with my Reasons for Order;
+The Appellant is awarded a single lump sum for costs and disbursements of $895,731.40, comprised of the following:
+- $751,296.60 in respect of legal fees;
+- $92,618.42 in respect of disbursements; and
+- $51,816.38 in respect of non-recoverable HST.
+Signed at Halifax, Nova Scotia, this 26th day of April 2024.
+“S. D’Arcy”
+D’Arcy J.
+Citation: 2024TCC51
+Date: 20240426
+Dockets: 2012-1765(GST)G
+2015-2123(GST)G
+BETWEEN:
+MARINE ATLANTIC INC.,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+REASONS FOR ORDER
+D’Arcy J.
+[1] On July 10, 2023, I allowed these appeals with costs.[1] The parties were given 60 days to make written representations with respect to the amount of costs that the Court should award the Appellant. Both parties filed written submissions.
+[2] In its written submissions, the Appellant is asking for a lump sum cost award of $1,298,180.81, comprised of the following:
+-$1,095,444.90 in respect of legal fees, which represents 90% of counsel’s fees of $1,217,161;
+-$92,618.42 for disbursements incurred by the Appellant;
+-$35,000 for counsel’s fee in preparing the Appellant’s cost submissions; and
+-$75,117.49 for unrecoverable HST.
+[3] The Respondent agrees that the Appellant should be awarded enhanced costs, but argues that such costs should be no more than 30% of reasonable legal fees, plus all reasonable and necessary disbursements supported by dockets and invoices.
+[4] The issue in these appeals is the Appellant’s entitlement to input tax credits under Part IX of the Excise Tax Act[2] (the “GST Act”) with respect to the GST/HST it paid on goods and services that it acquired in the course of its business of providing a ferry service between Newfoundland and Nova Scotia. The amount at issue in the two appeals is in excess of $7 million.
+[5] The issues in the appeals included:
+-whether the Appellant applied its methodology in a fair and reasonable or consistent manner;
+-whether the Appellant’s terminal facilities and the outside deck area of the Appellant’s vessels were areas that contribute to the making of both taxable or exempt supplies or were areas that were only used to make exempt supplies; and
+-whether the Appellant’s cost of fuel should be allocated to taxable supplies using the Appellant’s methodology.
+[6] The Appellant was successful on all issues.
+The Law
+[7] Subsection 147(1) of the Tax Court of Canada Rules (General Procedure)[3] (the “Rules”) provides that “[t]he Court may determine the amount of the costs of all parties involved in any proceedings, the allocation of those costs and the persons required to pay them.”
+[8] In Velcro Canada Inc. v. The Queen[4], at paragraph 9, Associate Chief Justice Rossiter (as he then was) stated the following with respect to the principles the Court should follow when it is considering the awarding of costs:
+[. . .] it is my view that:
+1. The Tariff was never intended to compensate a litigant fully for legal expenses incurred in an appeal;
+2. The Tariff was also never intended to be so paltry as to be insignificant and play a trivial role for litigants in dealing with their litigation. The Court’s discretionary power is always available to fix amounts as appropriate;
+3. Costs should be awarded by the Court in its sole and absolute discretion after considering the factors of subsection 147(3) [of the General Procedure Rules];
+4. The discretion of the Court must be exercised on a principled basis;
+5. The factors in Rule 147(3) [of the General Procedure Rules] are the key considerations in the Court’s determination of costs awards as well as the quantum and in determining if the Court should move away from the Tariff;
+6. In the normal course the Court should apply the factors of Rule 147(3) [of the General Procedure Rules] on a principled basis, with submissions from the parties as to costs, and only reference the Tariff at its discretion; and
+7. The manner that the Tariff is referenced in Rule 147 [of the General Procedure Rules] indicates the insignificance of the Tariff in costs considerations.
+[Emphasis added.]
+[9] More recently, in MacDonald v. The Queen[5], at paragraphs 42 to 45, my colleague, Justice Lafleur, stated the following with respect to the key principles:
+Section 147 of the Rules gives the Court a very broad discretion in awarding costs . . . . However, the discretion of the Court must be exercised on a principled basis and should not be exercised in an arbitrary manner (The Queen v Lau, 2004 FCA 10 at para 5, [2004] GSTC 5, and The Queen v Landry, 2010 FCA 135 at paras 22 and 54, 2010 DTC 5106).
+None of the factors listed in subsection 147(3) are determinative and the Court should consider all relevant factors in exercising its discretion (Velcro Canada Inc. v The Queen, 2012 TCC 273 at paras 12-13, [2012] 6 CTC 2049 [Velcro]).
+An award of costs is generally not intended to fully compensate the actual costs incurred by a party (Velcro, supra at para 29). The objectives of an award of costs are compensation and contribution, and not punishment (Mariano et al v The Queen, 2016 TCC 161 at paras 23 and 27, 2016 DTC 1146.
+As explained by Justice Boyle in Martin v The Queen, 2014 TCC 50, 2014 DTC 1072 (para 14):
+14 . . . The proper question is: What should be the losing party’s appropriate contribution to the successful party’s costs of pursuing the appeal in which his or her position prevailed?
+[10] Subsection 147(3) of the Rules reads as follows:
+In exercising its discretionary power pursuant to subsection (1) the Court may consider,
+(a) the result of the proceeding,
+(b) the amounts in issue,
+(c) the importance of the issues,
+(d) any offer of settlement made in writing,
+(e) the volume of work,
+(f) the complexity of the issues,
+(g) the conduct of any party that tended to shorten or to lengthen unnecessarily the duration of the proceeding,
+(h) the denial or the neglect or refusal of any party to admit anything that should have been admitted,
+(i) whether any stage in the proceedings was,
+(i) improper, vexatious, or unnecessary, or
+(ii) taken through negligence, mistake or excessive caution,
+(j) any other matter relevant to the question of costs
+[11] I will now consider each of the relevant factors.
+Consideration of Relevant Factors
+A. Result of the Proceedings
+[12] As I noted previously, the Appellant was successful on all issues before the Court. The Appellant and the Respondent agree that the result of the proceedings favours an increased cost award.
+[13] The fact that there were multiple issues before the Court and the Appellant was successful on all of the issues favours an award of higher costs.[6]
+B. Amount at Issue
+[14] The Appellant argues that the amount at issue, before taking into account the 50% rebate for public service bodies, was $19,716,588 comprised of:
+-$2,629,689 for its GST reporting periods ending between January 1, 2006 and March 31, 2010;
+-$7,184,132 for its GST reporting periods ending between April 1, 2010 and January 31, 2012; plus
+- $9,902,767 of input tax credits that the Appellant claimed for its GST reporting periods ending between February 1, 2012 and March 31, 2023. The Appellant notes that the CRA has held the Appellant’s claim for the $9,902,767 of input tax credits in abeyance pending the outcome in these appeals.
+[15] The Respondent argues that the amount at issue, after taking into the 50% rebate for public service bodies, was $7,256,080 comprised of:
+-$2,629,689 for the Appellant’s GST reporting periods ending between January 1, 2006 and March 31, 2010;
+-$9,252,782 for the Appellant’s GST reporting periods ending between April 1, 2010 and January 31, 2012; minus
+- The 50% rebate for public service bodies.
+[16] The Respondent has assumed that the public service body rebate was $4,626,391 ($2,629,689 plus $9,252,782 - $7,256,080).
+[17] I agree with the Appellant that the $9,902,767 in respect of the reporting periods of the Appellant ending between February 1, 2012 and March 31, 2023 should also be considered since the Appellant’s entitlement to the related input tax credits is dependent on the outcome of this appeal.[7]
+[18] I have not been able to reconcile the Appellant’s and the Respondent’s numbers with respect to the amount at issue. I have assumed that the amount at issue (before taking into account the public service body rebate) is somewhere between the amount calculated by the Appellant ($19,716,588) and the amount calculated by the Respondent ($21,785,238).[8]
+[19] This amount at issue is clearly significant to the Appellant and favours an award of enhanced costs.
+C. The Importance of the Issue
+[20] The importance of the issue is not a factor that the Appellant relies on to support its request for enhanced costs.
+[21] The Respondent argues that this factor is generally neutral when an appeal, such as the one before the Court, is disposed of on findings of fact since the appeal has little precedential value.
+[22] However, the Respondent states that the Court’s finding with respect to the Appellant’s allocation methodology may establish a precedent for other similar transportation providers and as such, this factor slightly favours enhanced costs.
+[23] I do not believe that this factor is significant in this appeal. My decision was based primarily on findings of fact. My finding with respect to the Appellant’s allocation methodology has no precedential value; it was based on existing jurisprudence.
+D. Volume of Work
+[24] The Appellant argues that the volume of work was substantial and supports its claim for enhanced costs. It noted that the litigation involved over 1700 hours of counsel time, over 1000 hours of time for the employees of the Appellant, two separate days of discovery, lengthy undertaking answers, 11 hearing days and 7 volumes of documents.[9]
+[25] The Respondent acknowledges that the volume of work was above average with seven volumes of documents, multiple days of discovery and trial and detailed written submissions. The Respondent argues that while this favours enhanced costs, parties made litigation decisions that required additional work and thus both parties bear some responsibility.
+[26] The volume of work only slightly favours an award of enhanced costs. I would expect that the volume of work would be above average in an appeal that is fact dependent.
+E. Complexity of the Issues
+[27] The complexity of the issues is not a factor that the Appellant relies on to support its request for enhanced costs.
+[28] The Respondent argues, at paragraph 25 of his written submissions, that the appeal involved technical provisions in a technical statute and “as such, the process of both eliciting and applying the relevant facts to the law was an inherently complex process”. He believes this favours an enhanced award.
+[29] I agree with the Respondent that section 141.01, the key provision of the GST Act when dealing with indirect costs, is a complex provision. However, its operation has been explained in detail in previous decisions of this Court.
+[30] I do not find that the complexity of the issues favours an award of enhanced costs.
+F. Conduct of the Parties
+[31] The factors just discussed support both the Appellant’s and Respondent’s positions that the Appellant should be awarded enhanced costs. The issue is whether the amount of the enhanced costs should be 30% or less as argued by the Respondent, or a substantially higher percentage as argued by the Appellant.
+[32] The answer to that question can be found in the conduct of the parties, specifically the conduct of the Respondent.
+[33] The primary issues with respect to the conduct of the Respondent was his substantial delay in following existing jurisprudence and his filing of an affidavit sworn by Mr. Jonathan Shimizu, a CRA tax appeals case specialist (the “Shimizu Affidavit”).
+[34] On June 21, 2013 and July 4, 2013, the Appellant and the Respondent agreed to be bound by the decision of this Court in British Columbia Ferry Services Inc. v. The Queen[10] (“BC Ferries”) with respect to:
+-whether the passenger cabins, sleeper dorms and reserved seating (the “Upgraded Accommodations”) were used exclusively in taxable activities or exclusively in exempt activities;
+-whether the vessels’ infrastructure comprised of engine rooms, crew and officers quarters and navigational bridge decks are part of the common areas that are used in both taxable and exempt activities or part of the areas that are used exclusively in exempt activity; and
+- whether fuel that is used for the propulsion of the vessels is used in both taxable and exempt activities or used exclusively in exempt activity. [11]
+[35] On October 14, 2014, this Court issued its decision in BC Ferries concluding that the upgraded accommodations in that appeal were used exclusively in taxable activities and the infrastructure of the vessels in that appeal were part of the common areas used in both taxable and exempt activities.
+[36] Notwithstanding frequent requests by the Appellant, beginning in December 2014, for the Respondent to accept the decision of this Court in BC Ferries,[12] the Respondent maintained his position until November 30, 2020, that the Upgraded Accommodations and noted infrastructure were used exclusively in exempt activities.[13]
+[37] As noted at paragraph 65 of my reasons for judgment, the Respondent filed a concession letter with the Court in September 2021, just before the commencement of the oral hearing, conceding that the Appellant used the Upgraded Accommodations exclusively in taxable activities and the infrastructure was part of the common areas used to make both taxable and exempt supplies.
+[38] The Appellant explains in its written submissions (with specific examples) that the Respondent’s delay in acknowledging the decision of this Court in BC Ferries caused the Appellant to needlessly expend over 1,000 hours and incur substantial costs. A significant amount of this time related to satisfying undertakings relating to the measurement of the common areas of the vessel.
+[39] The additional costs included the hiring of the engineering firm discussed at paragraph 144 of my reasons for judgment.
+[40] As I noted at paragraphs 133 and 165 of my reasons for judgment, under the Appellant’s final method for allocating costs (a methodology that was accepted by the Respondent), there was no need to measure the common areas of the vessels.
+[41] I have concluded, based on the detailed submissions provided by the Appellant, that the Appellant would have avoided substantial costs if the Respondent had fulfilled his obligation under the agreement to be bound and admitted in late 2014 that the infrastructure was part of the common areas of the vessels and the Upgraded Accommodations were used exclusively in taxable activities.
+[42] The Respondent’s conduct with respect to the Upgraded Accommodations and the common areas supports a finding of enhanced costs of substantially more than 30%.
+[43] At paragraph 28 of his written submissions, the Respondent refers to the conduct of the Appellant, stating that the Appellant refused to be bound by BC Ferries. I assume he is referring to the issue of whether the fuel that was used for propulsion of the vessels is used in both taxable and exempt activities.
+[44] This appears to be one of three instances where the Respondent is using cost submissions to question a decision of this Court. In this instance, it is the decision of my former colleague, Justice Lyons, in respect of a motion brought by the Respondent.
+[45] In June of 2015, the Respondent brought a motion for an order “that the Appellant is bound by its agreement that fuel used for the propulsion of the vessels (ferries) is used exclusively in exempt activity.”
+[46] In dismissing the motion, Justice Lyons stated at paragraph 48, “Given my previous findings, it appears that Marine [the Appellant] did not renege on the Agreement”.[14]
+[47] It is improper for the Respondent to argue in his cost submissions that the Appellant refused to be bound by BC Ferries, when the Court has previously found that the Appellant did not renege on the agreement to be bound.
+[48] The second area in which the Respondent’s conduct supports a finding of enhanced costs is his conduct with respect to the Shimizu Affidavit.
+[49] I discussed the filing of the affidavit at length in paragraphs 23 to 56 of my reasons for judgment. I made the following findings:
+-The Respondent’s actions in filing the affidavit was a blatant attempt at trial by ambush in respect of a key issue in the appeals.
+-An affidavit, such as the Shimizu Affidavit, has no place in a trial where the facts are in issue, such as the trial before the Court.
+- The Respondent’s actions in filing the Shimizu Affidavit resulted in trial days being thrown away, additional written submissions having to be prepared and filed and an additional day of testimony by two witnesses. Further, argument was delayed from October 1, 2021 to January 2022.
+[50] I also stated the following, at paragraphs 40 and 41 of my reasons for judgment, with respect to the Respondent’s recent practice of not calling witnesses at the hearings of taxpayers’ appeals:
+The Respondent’s actions in these appeals are consistent with a troubling trend of the Respondent not bringing witnesses to the hearings of taxpayers’ appeals and then attempting to enter evidence through affidavits. Recently, the Court has seen this happen frequently in informal proceedings. The Respondent now appears to be attempting to use the same ill-advised approach in general proceedings.
+In my view, this conduct must stop. The Court issues judgments based on the evidence before it. If the Respondent wishes to rely on facts that he cannot obtain through cross-examination of the Appellant’s witnesses, then he needs to bring witnesses. Considering the vast resources of the CRA, this should not be an issue.
+[51] In summary, I found that the Respondent’s conduct in regards to the affidavit was improper.
+[52] The Appellant argues that the Respondent’s conduct regarding the Shimizu Affidavit was reprehensible, scandalous and outrageous.
+[53] While the Respondent admits that his conduct regarding the Shimizu Affidavit favours an enhanced cost award since it lengthened the duration of the proceeding, he argues that the conduct was not improper, vexatious or unnecessary, nor taken through negligence, mistake or excessive caution. The Respondent states, at paragraph 30 of his written submissions, “On the contrary, the Affidavit, including the testimony and argument with respect to its contents, was essential to provide much-needed context for the Minister’s fuel assumptions”.
+[54] The Respondent then argues at paragraph 34 of his submissions that the timing of the Shimizu Affidavit disclosure was not improper. He states, “Both the text of s.89(1) of the Rules and the Court’s jurisprudence demonstrates that s.89 is not complete bar to adducing affidavits under s. 335(5) of the Act (and its sister provision s. 244(9) of the Income Tax Act) without notice at the hearing.”
+[55] The Respondent is, in effect, challenging my finding that his conduct resulted in a trial by ambush and the Shimizu Affidavit had no place in a trial such as the one before the Court. This is improper; a party should never use cost submissions to question a finding made by the Court in the related appeal.
+[56] Further, the Respondent’s submissions indicate that he is prepared to engage in similar offensive behaviour in the future.
+[57] I find that the Respondent’s improper actions in attempting a trial by ambush, combined with the factors previously discussed, supports a finding of enhanced costs of more than 30%. I find that his belief that he did nothing wrong and that he can engage in similar improper conduct in the future supports an award of substantial enhanced costs. It appears that this is the only way to discourage him from engaging in such behaviour in the future.
+[58] I also have difficulty with the portion of the Respondent’s written submissions that begins with the sub-heading, “The CRA did not threaten a penalty”.
+[59] The Respondent is responding to paragraphs 140 and 141 of my reasons for judgment. In paragraph 141, after noting in paragraph 140 that a witness for the Appellant had testified that the Appellant did not use its calculated percentage to calculate its input tax credits, but rather used the percentage mandated by the CRA, since the CRA had stated that it would impose penalties if the Appellant used its percentage, I stated the following:
+I am troubled by the CRA’s conduct. The CRA should never threaten penalties to force a GST registrant to accept the CRA’s allocation method. The law is clear: the CRA cannot simply substitute its approach for that of the Appellant, and there may be more than one method that is fair and reasonable in the circumstances. The Appellant was proposing a methodology that it had developed after a substantial review of its operations. In such a situation, it is inconceivable that the Appellant’s conduct met the standard for a gross negligence penalty. It appears that the CRA was using the threat of penalties to force the Appellant into accepting the CRA’s 15.57%, the calculation of which was not explained to the Court and not explained to the Appellant.
+[60] At paragraph 33 of his written costs submissions, the Respondent appears to be challenging my finding of fact that the CRA threatened to impose gross negligence penalties. He states the following:
+At trial, the Appellant’s witness explained that they followed CRA percentages “under threat of penalty”. The Court correctly observed that the CRA should never threaten penalties to force GST registrants to accept an allocation method. However, with respect, the Court’s concern is misplaced. Whereas s. 280 of the Act provides for interest on unremitted Part IX amounts, older versions of s. 280 levied both interest and an automatic penalty calculated at 6% per year. The CRA regularly advises registrants of statutorily mandated interest and penalties in its correspondence, and the fact that it occurred here should have no impact on the costs analysis.
+[61] I have a number of concerns with respect to this paragraph in the Respondent’s written submissions.
+[62] In the first instance, the actions of the CRA prior to the commencement of the litigation in this appeal are irrelevant for purposes of determining costs. This has led me to conclude that the only reason the Respondent is raising this issue is to, once again, challenge my factual findings when allowing the appeal.
+[63] A second concern relates to the references in paragraph 33 of the Respondent’s submission to the CRA’s administrative practice with respect to section 280. This is an attempt to introduce new evidence, after the conclusion of the hearing, to improperly challenge my factual findings at paragraphs 140 to 141 of my reasons for judgment.
+[64] What I find particularly troubling is that the Respondent based paragraph 33 of his written submissions on an incorrect factual assumption.
+[65] In paragraph 140 of my reasons for judgment I found that, as a result of the threat made by the CRA, the Appellant did not use its calculated percentage for the reporting periods ending between April 1, 2010 and March 31, 2011. This means the CRA did not make the threat any earlier than March or April of 2010.
+[66] In paragraph 33 of his written submissions, the Respondent suggests that the CRA did not threaten to levy a gross negligence penalty but rather was advising the Appellant of the 6% penalty interest that was imposed on unremitted net tax under older versions of section 280. The 6% penalty interest was levied under subsection 280(1) of the GST Act.
+[67] Subsection 280(1) was amended effective April 1, 2007 to remove the 6% penalty interest. This amendment was announced in June 2006. In short, Parliament removed the 6% penalty interest at least three years before the CRA made the threat to impose penalties on the Appellant. Clearly, the CRA did make the threat in respect of the 6% penalty interest.
+[68] To summarize, the Respondent has improperly challenged a factual finding made in my reasons for judgment, the issue he refers to in his written submission is not relevant for purposes of my cost award, and he based his submission on alleged facts that are not on the record and are directly contradicted by the effective date of amendments to subsection 280(1) of the GST Act.
+Conclusion
+[69] After considering all of the relevant factors, particularly the Respondent’s improper conduct with respect to his delay in following the Court’s decision in BC Ferries, his attempt at a trial by ambush and his written submissions that indicate that he may pursue this improper behavior in the future, I have concluded that the Respondent’s conduct must be discouraged by a significant cost award. Therefore, I award the Appellant costs of 60% of its legal fees.
+[70] I have reviewed the Appellant’s documents that support its request for $92,618.42 as reimbursements for disbursements. I have concluded that the Appellant is entitled to reimbursement for all noted disbursements.
+[71] The Appellant asked for non-recoverable HST equal to 6.14% of its counsel fees, plus disbursements. I have therefore used this percentage to determine my cost award in respect of non-recoverable HST.
+[72] For the forgoing reasons, the Appellant is awarded a single lump sum for costs and disbursements of $895,731.40, comprised of the following:
+-$751,296.60 in respect of legal fees of $1,252,161 (60% of ($1,217,161 plus $35,000))[15];
+-$92,618.42 in respect of disbursements; and
+-$51,816.38 in respect of non-recoverable HST (6.14% of ($751,296.60 plus $92,618.42).
+Signed at Halifax, Nova Scotia, this 26th day of April 2024.
+“S. D’Arcy”
+D’Arcy J.
+CITATION:
+2024 TCC 51
+COURT FILE NOS.:
+2012-1765(GST)G
+2015-2123(GST)G
+STYLE OF CAUSE:
+Marine Atlantic Inc. v. His Majesty The King
+REASONS FOR ORDER BY:
+The Honourable Justice Steven K. D’Arcy
+DATE OF ORDER:
+April 26, 2024
+APPEARANCES:
+Counsel for the Appellant:
+Kimberley Cook
+Florence Sauve
+Chris Canning
+Counsel for the Respondent:
+Selena Sit
+Spencer Landsiedel
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Kimberley Cook Florence Sauve Chris Canning
+Firm:
+Thorsteinssons LLP Vancouver, British Columbia
+For the Respondent:
+Shalene Curtis-Micallef Deputy Attorney General of Canada Ottawa, Canada
+[1] See Marine Atlantic Inc. v. The King, 2023 TCC 95.
+[2] Excise Tax Act, R.S.C., 1985, c. E-15.
+[3] Tax Court of Canada Rules (General Procedure), SOR/90-688a.
+[4] 2012 TCC 273, 2012 DTC 1222.
+[5] 2018 TCC 55.
+[6] See Lux Operating Limited Partnership v. The Queen, 2018 TCC 214, at paragraph 10.
+[7] See Invesco Canada Ltd v. The Queen, 2014 TCC 375, at paragraphs 8 to 10.
+[8] $2,629,689 plus $9,252,782 plus the $9,902,767 in respect of the reporting periods of the Appellant ending between February 1, 2012 and March 31, 2023.
+[9] The Appellant refers to 6 volumes, but there were in fact 7 volumes of the Joint Books of Documents.
+[10] 2014 TCC 305.
+[11] Affidavit of Patrick Riley Murray (the “Appellant’s Affidavit”), Exhibit 2.
+[12] Appellant’s Affidavit, Exhibits 3, 7, and 9.
+[13] Supra, Exhibit 18.
+[14] Marine Atlantic Inc. v. The Queen, 2016 TCC 46.
+[15] See Appellant’s written submissions, paragraph 44.

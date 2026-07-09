@@ -1,0 +1,562 @@
+---
+title: "Blais v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29735/index.do"
+last_modified: "2010-04-09"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 TCC 195"
+citation2: ""
+neutral_citation: "2010 TCC 195"
+decision_date: "2010-04-09"
+language: "en"
+item_id: "29735"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6542
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T02:28:56.629000+00:00"
+cases_cited_count: 7
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "6c3c2bfd3df62fdc92aaab31722f7dfd4c2f0419e3f8716955adf9ffaeb53468"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Blais v. The Queen
+
+- Citation: 2010 TCC 195
+- Decision date: 2010-04-09
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6542, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Blais v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-04-09
+Neutral citation
+2010 TCC 195
+File numbers
+2006-2103(IT)I
+Judges and Taxing Officers
+Gaston Jorré
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2006-2103(IT)I
+BETWEEN:
+JEAN-FRANÇOIS BLAIS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard on common evidence with the appeal of
+Christiane Auray-Blais (2006-2106(IT)I),
+on December 1, 2008, at Sherbrooke, Quebec
+Before: The Honourable Justice Gaston Jorré
+Appearances:
+For the appellant:
+The appellant himself
+Counsel for the respondent:
+Claude Lamoureux
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 2002 taxation year is allowed, with costs of $400, and the matter is referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached Reasons for Judgment.
+The $100 filing fee shall be reimbursed to the appellant.
+Signed at Ottawa, Canada, this 9th day of April 2010.
+“Gaston Jorré”
+Jorré J.
+Translation certified true
+On this 12th day of July 2010
+Monica Chamberlain, Translator
+Docket: 2006-2106(IT)I
+BETWEEN:
+CHRISTIANE AURAY-BLAIS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard on common evidence with the appeal of
+Jean-François Blais (2006-2103(IT)I),
+on December 1, 2008, at Sherbrooke, Quebec
+Before: The Honourable Justice Gaston Jorré
+Appearances:
+For the appellant:
+The appellant herself
+Counsel for the respondent:
+Claude Lamoureux
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 2002 taxation year is allowed, with costs of $400, and the matter is referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached Reasons for Judgment.
+The $100 filing fee shall be reimbursed to the appellant.
+Signed at Ottawa, Canada, this 9th day of April 2010.
+“Gaston Jorré”
+Jorré J.
+Translation certified true
+On this 12th day of July 2010
+Monica Chamberlain, Translator
+Citation: 2010 TCC 195
+Date: 20100412
+Docket: 2006-2103(IT)I
+2006-2106(IT)I
+BETWEEN:
+JEAN-FRANÇOIS BLAIS,
+CHRISTIANE AURAY-BLAIS,
+appellants,
+and
+HER MAJESTY THE QUEEN,
+respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+AMENDED REASONS FOR JUDGMENT
+[These amended Reasons for Judgment replace those dated April 9, 2010. They correct errors stemming from an involuntary slip or omission in footnote 4 and paragraphs 25 and 97. The earlier Reasons for Judgment remain unchanged in all other respects.]
+Jorré J.
+INTRODUCTION
+[1] The appellants are appealing their income tax assessments for the 2002 taxation year. They have chosen the informal procedure.
+BRIEF HISTORY
+[2] Initially, there was a debate between the parties as to whether the appellants were truly engaged in scientific research and experimental development (SR&ED). The Court ruled on this subject with regard to earlier taxation years, and the respondent now accepts that the appellants were engaged in SR&ED in 2002.[1]
+[3] The debate regarding the matters before this Court was not always easy to follow. Although I will not provide a complete history, I should mention that the process was unusual. At one point, the Minister of National Revenue (the Minister) wanted to do an audit regarding the taxation year in issue.[2] But the appellants wanted the appeals regarding earlier years to be decided first, and they refused to produce the documents that the Minister was seeking. Following this refusal, the Minister assessed the appellants without doing an audit. The appellants filed notices of objection, which were placed on hold for a time, after which the assessments were confirmed. During the objection stage, the appellants produced no documents and the Minister conducted no audit.[3]
+[4] It was only after the appellants filed their Notices of Appeal in July 2006 that the appellants provided the documents. They did so by letter dated April 1, 2007. The Minister then carried out an audit.[4]
+THE APPELLANTS’ POSITION UPON FILING THEIR INCOME TAX RETURNS
+[5] The appellants are married, and were members of a partnership called Société Christiane Auray-Blais et Jean‑François Blais (the Partnership). Each appellant had a 50% interest in the Partnership. These appeals are about the Partnership’s activities.
+[6] The Partnership engaged in SR&ED.
+[7] For the purposes of their income tax returns, the appellants used the following profit and loss statement:[5]
+[TRANSLATION]
+PARTNERSHIP SUMMARY:
+2002 TAXATION YEAR
+…
+Rental and other income
+$12,425.68
+Salary - research
+($5,000.00)
+Total research expenses for investment tax credit (ITC)
+($32,543.79)
+Federal Research ITCs (2001)
+$7,508.76
+Capital assets
+Capital cost allowance
+($12,259.27)
+Administration costs (interest paid) - R&D
+($7,034.28)
+Research expenditure account – year-end
+($49,328.58)
+PARTNERSHIP PROFIT OR LOSS
+($36,902.90)
+[8] In his return, Mr. Blais reported a loss of $13,451.45 from the Partnership.[6] This amount is half the Partnership’s loss, $18,451.45, minus the $5,000 salary from the second line of the profit and loss statement quoted above. The result is the same as it would have been if Mr. Blais had included the $5,000 salary and deducted $18,451.45.
+[9] Ms. Auray-Blais claimed a loss of $18,451.45,[7] half the amount of the Partnership’s $36,902.90 loss.
+[10] Mr. Blais also claimed an investment tax credit (ITC) of $3,758.29,[8] which is 20% of half the current expenses of $33,450 and 20% of half the capital expenditures of $4,094.[9] The amount of ITC claimed by Ms. Auray‑Blais is not part of the evidence.[10]
+The August 2004 assessments
+[11] Following the refusal to provide documents, the Canada Revenue Agency (CRA) issued assessments against the appellants.[11] The CRA’s starting point was a revised profit and loss statement that the appellants adopted and signed on December 21, 2003:[12]
+SUMMARY OF RESEARCH PARTNERSHIP FOR 2002
+…
+Revenues
+$12,425.68
+Current research expenses
+$28,450.26
+Capital expenditures[13]
+$4,093.53
+Administrative costs (interest)
+$7,034.28
+Salary - research partner
+$5,000.00
+Capital assets [depreciation]
+$12,259.27
+Total research expenses
+$56,837.34
+Total profit or loss
+($44,411.66)
+[12] In the August 2004 assessments, the amounts reported in the income tax returns were changed as follows:
+(a) The CRA recomputed the Partnership’s loss, having
+(i) disallowed the $5,000 deduction for salary; and
+(ii) disallowed the $4,093.53 in capital expenditures; but
+(iii) granted a capital cost allowance in the amount of $18,234 instead of the $12,259.27 claimed; and
+(iv) agreed that the Partnership incurred all the other expenses that the CRA was unable to audit.
+This produced the following picture:[14]
+Revenues:
+Rental and other income
+$12,425.68
+ITC for SR&ED from 2001
+$0.00
+Total revenues
+$12,425.68
+Expenses:
+Operations :
+Partner’s salary
+$0.00
+Materials
+$28,450.26
+Administration costs: interest
+$7,034.28
+Capital cost allowance: allotted
+$18,234.00
+Capital expenditures
+$0.00
+Total expenses
+$53,718.54
+Subtotal
+($41,292.86)
+Less:
+Partner’s compensation
+0.00
+Net loss
+($41,292.86)
+The CRA split this loss equally between the appellants.
+(b) The effect was to increase Mr. Blais’ loss by $13,451.45 to $20,646.43. However, it reduced Ms. Auray-Blais’ loss from $18,451.45 to $9,073.22, because the CRA applied section 31 of the Income Tax Act (ITA).[15]
+(c) In addition, the CRA assumed that the appellants had not engaged in any SR&ED activity[16] and disallowed all investment tax credit claims.
+[13] It was only after the appellants filed their Notices of Appeal in July 2006 that they provided documents, and they did so by letter dated April 1, 2007. The Minister then did an audit.
+[14] The Replies to the Notices of Appeal were filed on April 27, 2007.
+POSITION OF THE PARTIES AT THE HEARING
+[15] The Notices of Appeal dated July 5, 2006, along with Appendix 1 dated July 7, 2006, [17] are very brief, and are limited to an assertion that the CRA was wrong not to allow the SR&ED expenditures and the related investment tax credits.[18] The notices raise no other issues, such as the disallowance of Mr. Blais’ salary as a partner, or the application of section 31 of the ITA to Ms. Auray-Blais. They provide no expense amounts, but based on the evidence, it became clear that the amounts set out in paragraph 11 of these reasons are the appellants’ starting point.[19]
+[16] The respondent’s Replies to the Notices of Appeal only take into account a part of the audit that was done after the Notices of Appeal were filed, and they do not directly include certain aspects of the respondent’s position. That position had to be clarified at the hearing, and, in relation to the profit and loss statement quoted at paragraph 11 of these reasons for the purpose of calculating the business’s loss, that position is as follows:[20]
+(a) The respondent agrees that the Partnership engages in SR&ED.
+(b) The respondent agrees that the Partnership’s income is not farming income and that section 31 of the ITA does not apply.
+(c) The Partnership’s revenue of $12,425.68 (see above at paragraph 11) must be reduced by $2,425.68, which consists of the GST and QST collected by the Partnership.
+(d) Of the $28,450.26 that the revised profit and loss statement of December 21, 2003, attributes to current research expenses,[21]
+(i) $3,033.99 in GST and QST paid by the business is not deductible as a business expense,
+(ii) $10,525.09 consists of personal expenses that are not deductible as businesses expenses, and
+(iii) $554.94 was spent to earn income but constitutes capital expenditures, not current expenses.
+Consequently, the current expenses must be reduced from $28,450.26 to $14,336.24.
+(e) The $5,000 salary is not deductible.
+(f) The capital cost allowance of $12,259.27 must be increased to $15,506.
+(g) The deductible capital expenditures total $3,458.90, not $4,093.53.[22]
+[17] Here is a summary of the revenues and expenses according to the appellants and according to the Minister:
+Taxpayer[23]
+Minister[24]
+Revenues
+$12,425.68
+$10,000.00
+Expenses
+Current expenses
+$28,450.26
+$14,336.24
+Capital expenditures
+$4,093.53
+$3,458.90
+Interest
+$7,034.28
+$7,034.28
+Mr. Blais’ salary
+$5,000.00
+—
+Capital cost allowance
+$12,259.27
+$15,506.00
+Total expenses
+$56,837.34
+$40,335.42
+Net loss[25]
+$44,411.66
+$30,335.42
+I will discuss the dispute regarding the ITC later.
+THE BURDEN OF PROOF
+[18] The Minister’s Replies to the Notices of Appeal do not clearly and fully explain the Minister’s position; rather, they only partially explain it. Moreover, certain factual allegations in paragraph 6 and in Appendices I and II of the Replies result from the audit that was done after the Notices of Appeal were filed. Thus, two questions arise.
+[19] First, to the extent that the burden of proof is of practical importance,[26] who has the burden of proving the facts alleged in paragraph 6 and in the Appendices to the Replies?
+[20] Second, what are the repercussions of the fact that the Replies incompletely or imprecisely convey the Minister’s position?
+[21] With regard to the burden of proof, it clear that the appellant bears the onus of refuting the Minister’s assumptions of fact. And it is settled that the Minister can make factual assumptions up to the moment of the confirmation of an assessment where the taxpayer has filed a notice of objection.[27]
+[22] It is also settled that the assumptions of fact must be communicated to the taxpayer in order for the taxpayer to bear the onus upon the appeal.
+[23] Some of the considerations behind these principles are practical. On the one hand, the taxpayer is in a better position to know the circumstances and therefore prove the facts; on the other hand, the appellant needs to know the subject of the dispute in order to circumscribe the debate.[28]
+[24] These principles and considerations are reflected in the following remarks by the Federal Court of Appeal in Hillsdale Shopping Centre v. Canada, [1981] F.C.J. No. 544 (QL), 1981 DTC 5261:
+22 If a taxpayer, after considering a reassessment made by the Minister, the Minister’s reply to the taxpayer's objections, and the Minister’s pleadings in the appeal, has not been made aware of the basis upon which he is sought to be taxed, the onus of proving the taxpayer’s liability in a proceeding similar to this one would lie upon the Minister. This defect may be due to a number of reasons such as a lack of clarity on the part of the Minister in expounding the alleged basis of the taxability which could include an attempt by the Minister to attach liability on one of two or more alternative bases thus failing to make clear to the taxpayer the assumption upon which he relies.
+23 In all other cases the onus is on the taxpayer to disprove the Minister’s allegation of liability on the assumptions propounded. In the instant case, throughout the whole proceedings the appellant was made well aware that the Minister assessed part of the proceeds of the expropriation as profit from a business contrary to the allegation of the taxpayer so that this ground of attack is without merit.
+[25] However, the situation in the cases at bar is very unusual, and different from typical situations. Here, the Minister was unable to do an audit before the assessment was confirmed, because the appellants refused to produce their documents. I do not believe that the cases along the lines of Canada v. Anchor Pointe Energy Ltd., 2007 FCA 188, apply to cases such as the present ones.
+[26] Given the practical considerations behind these principles and the decision in Hillsdale, supra, the burden of proof in the circumstances now before the Court — circumstances in which, due to the appellants’ failure to cooperate, no audit could be done until the confirmation of the assessment — the burden of proving the facts relied upon at the time of the audit is on the appellants, even though the audit was conducted after the Notices of Appeal were filed.
+[27] There is another reason justifying this conclusion with regard to the question of the amount of the SR&ED expenses here.[29] At the time that the assessments were made, the Minister did indeed assume that there were no SR&ED expenses. If the appellants had the burden of proof with respect to these factual assumptions made at the time of the assessment, they would have to prove everything with respect to the SR&ED claimed.
+[28] The consequence of the Minister’s position, as expressed in paragraph 6 and the appendices, is that he is admitting to a certain number of things that the appellant would otherwise have to prove. For example, the Minister admits that the Partnership engaged in research, and specifies that an amount of $13,559.08 was disallowed because it consists of GST or QST that was paid by the Partnership but later refunded ($3,033.99), or expenses that are ineligible because they are personal ($10,525.09). He also admits that there are current expenses in the amount of $14,336.24 for SR&ED and capital expenditures in the amount of $3,458.90 for SR&ED.
+[29] It would be illogical if the effect of these assumptions of fact, which were made after the Notices of Appeal were filed and which lessen the appellant’s burden, actually shifted the burden of proving the SR&ED expense amount to the Minister. The practical result, with regard to this question, is the same as it would have been if the Minister had admitted factual assumptions made at the time of the assessments, and of the confirmation of the assessments, with regard to the SR&ED expenses.[30]
+[30] However, as explained in Hillsdale, the appellants only bear this burden to the extent that the facts were disclosed to them.
+[31] Thus, with respect to the allegations in paragraph 6, in the appendices, and in the factual assumptions made in paragraph 5 of the Replies, the appellants bear the burden of proof.
+[32] Hillsdale dictates that, to the extent that there are other factual assumptions in the case at bar which are not contained in the Replies but were disclosed to the appellants (e.g. in or with the assessments) the burden is also on the appellants.[31]
+[33] I would add that these additional facts must not only be disclosed clearly, but must also be disclosed early enough for the appellants to be reasonably able to prepare for trial. This is not the case with the assumptions of fact made in the [Translation] “new proposed assessment of 2002 dated 2008-11-26”,[32] except to the extent that they simply repeat (i) Appendices I and II of the Replies[33] or (ii) information clearly disclosed earlier on, such as the disallowance of Mr. Blais’ salary at the time of the assessments.[34] As for the new facts, the appellants received the “new proposed assessment”[35] four days before the trial, so it would be completely unreasonable for the burden of proof to be on them.
+THE REPLIES
+[34] The consequences of the imprecision of the Replies with respect to certain points, or the failure of the Replies to refer to those points, remain to be addressed. I will get into the specifics as the issues arise, but the applicable principle is as follows: if the position regarding a point was not clear and this was prejudicial to the adversaries’ (the appellants’) ability to put forward their case, I must resolve the issue in the appellants’ favour.[36]
+[35] Costs are a separate issue.
+THE AMOUNT OF THE PARTNERSHIP’S LOSS: ANALYSIS
+[36] There are five differences between the parties’ positions as to the calculation of the loss included in income.
+I. Reduction of income
+[37] The amount of GST and QST in question, $2,425.68, represents the input tax credits reimbursed by the tax authorities.[37] The respondent argues that this amount should be excluded from income. Although businesses usually do not include GST and QST in computing revenue and expenses, this approach is not mandatory. Paragraph 12(1)(x) of the ITA requires the inclusion of GST refunds unless the taxpayer elects to reduce its expenses by the amount of refundable GST and QST.[38]
+[38] In the cases at bar, the appellants did not make that election, and they wish, on the one hand, to include the input tax credits, and on the other hand, to deduct the amount of GST and QST paid, which is part of their deductible expenses. The amount of $2,425.68 must be included in the income.
+II. Current expense amount
+[39] In terms of quantifying the loss, the “current expenses” category is the one in which the difference between the parties’ positions is the greatest. In Exhibit I-2, the respondent analyzes the disallowed amounts, which are classified by expense category. I shall examine the expenses one category at a time.
+[40] The following changes, which the Minister says should be made, are clearly listed in paragraph 6 of the Replies or in the Appendices, where the Minister contends that the expenses were personal, or consisted in GST or QST paid. Consequently, these are the issues for which the appellants bear the burden of proof.
+(i) GST and QST
+[41] The fact that the current expenses included $3,033.99 in GST and QST is not disputed. Since the appellants did not elect to reduce their expenses in accordance with paragraph 12(1)(x) and subsection 12(2.2) of the ITA, the amount of GST and QST paid on expenses that are otherwise deductible can be deducted. First, the GST and QST of $2,154.02 must be added to the $14,336.24 that the Minister acknowledged were expenses.[39] Next, the amount of GST and QST paid for any other deductible expense must be included.
+(ii) Animal feed[40]
+[42] The first category of expenses is an amount of $227.73 to purchase mash that was used to feed a German shepherd and a few cats.
+[43] Mr. Blais testified that the cats in question did not live in the house and that they were used to protect the plants from rodents. The dog was used as a guard, and scared away deer, among other things.
+[44] I accept that these animals were useful to the business, but since Mr. Blais testified that he always wanted to have a German shepherd and that the dog also guarded the house,[41] I find that they procured an element of personal benefit. Consequently, the deductible portion of the mash will be $150.00, plus $22.54 in GST and QST, for a total of $172.54.[42]
+(iii) Automobile expenses: $457.07 in fuel, $2,258.23 in repairs and payments to Société de l’assurance automobile du Québec[43]
+[45] Mr. Blais testified that he used two vehicles. Ms. Auray-Blais had a third vehicle, which she used, but no expenses are claimed for it.
+[46] Fairly early in his testimony, Mr. Blais said that the fuel expenses included part of the amounts spent on diesel, which could only have been used for farming equipment, and that the majority of the fuel amount was not for personal use.[44]
+[47] Later on, he testified that he used the vehicle mainly to get products and to travel to conferences or consultations.
+[48] On cross-examination, Mr. Blais appears to have said that he never, or almost never, uses the two vehicles in question for personal purposes.[45]
+[49] Mr. Blais worked for a company called Innovations et intégrations brassicoles Inc.[46] (IIB) during the year in issue and the company was his main source of income.[47] He also says that he ran a management consulting business.[48]
+[50] When asked on cross-examination how he got to the conferences that he organized, he answered that someone came to get him.
+[51] Mr. Blais never kept a log book.
+[52] I do not accept that Mr. Blais never used the vehicles in question for personal purposes. In fact, toward the beginning of his testimony, he said that they were used primarily for business purposes.
+[53] I accept that there was some Partnership-related use of the vehicles, but it is difficult to see how the percentage can be established.
+[54] The evidence has little to say about the scope of the Partnership’s activities. We do not know how many hours Mr. Blais devoted to the Partnership, to IIB or to his management consulting business. All we know is that he received a $40,000 salary[49] from IIB in 2002.
+[55] Ms. Auray-Blais only worked for the Partnership on a part-time basis, because she had a full-time job as director of a newborn screening program which genetically screened roughly 90% of Quebec newborns using urine samples.
+[56] We also know that the laboratory equipment was available to the Partnership for 115 hours — a bit less than three 40-hour weeks — in 2002.[50] There is no indication of the number of hours of activities outside the lab.[51]
+[57] In the absence of tangible evidence regarding the percentage of use attributable to Partnership business, but acknowledging that such use must have existed, I find that it would be reasonable to allow $1,000 for this category of expenses, plus $116.16 for GST and QST,[52] for a total of $1,116.16.[53]
+(iv) Expenses unrelated to a pool[54]
+[58] Despite the fact that the three items in question, totalling $56.64, were purchased from pool equipment retailers, I accept Mr. Blais’ testimony that the algicide was purchased and used to fight bacteria in lab experiments, and that the thermometer was used to measure temperature during the Partnership’s experiments. These were relatively inexpensive sources for those products. The amount of $56.64 is deductible, along with $8.47 in GST and QST,[55] for a total of $65.11.
+(v) Telephone[56]
+[59] I accept Mr. Blais’ testimony that the amounts in question are related to a business telephone line and do not include the charges for the appellant’s personal telephone line. Consequently, the amount of $280.75, plus $42.18 in GST and QST, is deductible, for a total of $322.93.
+(vi) Saw supplies[57]
+[60] There are four items. Apart from the first item, which cost $1, the three others are parts for chainsaws, which Mr. Blais claims were used to build the “hop lines.”[58] I agree that these expenses, which add up to $296.75, were for business use and are deductible. $44.59 must be added on account of GST and QST, for a total of $341.34.
+(vii) Heating element[59]
+[61] I accept Mr. Blais’ testimony that this $40.45 expense was to replace a broken heating element inside a Gibson stove that was used to dry certain lab equipment and induce certain chemical reactions. Thus, the expense of $46.53, including GST and QST, is deductible.
+(viii) Supplies, school and municipal taxes ($6,907.47)[60]/”rent”
+[62] In 2002, Mr. Blais rented out his lands and buildings to the Partnership for scientific research and, in consideration for this rental, the Partnership had to pay the municipal and school taxes and the insurance. In addition, it was the Partnership’s responsibility to [Translation] “see to the improvement and maintenance of the rooms needed for scientific research . . . .”[61]
+[63] The expenses other than municipal taxes, school taxes, insurance, and notarial fees were to improve the buildings used for research, to insulate the laboratory, and to build animal quarters in the garage.[62]
+[64] I accept that there was a lease contract. The expenses under that heading, with the exception of the notarial expenses,[63] are not personal. The amounts for insurance and school taxes are constituents of rent. These amounts total $4,141.23[64] and are deductible as rent by the Partnership.
+[65] The moneys spent on improvements are capital in nature and can be depreciated in accordance with the provisions regarding rental improvements. They add up to $2,066.24, plus $310.45 in GST and QST, for a total of $2,376.69.[65]
+[66] Mr. Blais should have reported the amount of $4,141.23 as rental income and deducted the relevant expenses. Since his house is on the land,[66] a portion of the municipal and school taxes paid is personal.[67] However, none of this was raised by the respondent in the Replies, and my judgment will not take this into account, because Mr. Blais could have adduced evidence regarding quantification if he had been notified that it would be raised as an issue.
+[67] The last item in this group of expenses is the notarial fees for the new hypothec on Mr. Blais’ property. According to Mr. Blais, the funds were used to finance research and development. However, aside from this assertion, there was no clear explanation of the use of the funds.[68] Mr. Blais said that the funds were used to consolidate existing debts. The $145,000 loan obtained on August 29 was immediately used to repay a $57,446 line of credit, an $8,100.70 loan and the preceding $70,000 hypothec, which left a balance of roughly $9,400. There were no detailed explanations about the use of the money.[69]
+[68] No contract was filed in evidence in connection with this loan and with the obligations between Mr. Blais and the Partnership. It has not been shown that the funds in question were used by the Partnership. Consequently, the notary’s fees are not deductible.[70]
+Summary of current expenses
+[69] The following amounts, then, are to be added to the amounts accepted by the Minister:
+(i) GST/QST on allowed expenses:
+$2,154.02
+(ii) Animal feed
+$172.54
+(iii) Automobile expenses
+$1,116.16
+(iv) Expenses not related to a pool
+$65.11
+(v) Telephone
+$322.93
+(vi) Saw supplies
+$341.34
+(vii) Heating element
+$46.53
+(viii) Suppliers, tax and “rent”
+$4,141.23
+TOTAL :
+$8,359.86
+[70] There is also an amount of $2,376.69, representing rental improvements, which can potentially be depreciated.
+III. Capital expenditures
+[71] Thirdly, the respondent argues that the capital expenditures must be reduced by $634.63. In her submission, there are three causes for this:[71]
+(a) the GST and QST in the amount of $534.71, which should not be included in the cost;
+(b) the three expenses (the first three lines of Appendix I of the Replies, which total $654.86), which she claims were not completely devoted to SR&ED and should therefore not be considered capital expenditures made for the purpose of SR&ED; and
+(c) the addition of $554.94 to the capital expenditures (the current expense claims which the Minister alleges are capital in nature).
+[72] With respect to point (a) above, for the same reasons that justify the inclusion of GST and QST in the cost of the expenses, the GST and QST must be included in the capital expenditures as well.
+[73] With respect to the three expenses not completely devoted to research, I accept Mr. Blais’ testimony that the vacuum cleaner was used in the laboratory in order to eliminate microparticles during experiments, and the set of letter-punches and the mitre-box saw were used to prepare the labelling for the different types of hops. I find that these items were used solely for research.
+[74] Consequently, $534.71 and $654.86[72] are to be added to the amount of $3,458.90, and there is also $72.12 in GST[73] on the $554.94 that the Minister reclassified as capital expenditures. This brings the total capital expenditures to $4,720.59.
+IV. Mr. Blais’ salary
+[75] The Minister contends that the Partnership cannot deduct Mr. Blais’ $5,000 salary, which it claimed.
+[76] The fact that this amount is claimed as salary is not disputed, and it is settled law that the salary of a partner cannot be claimed by the partnership.[74]
+[77] There are no references to this issue in the Notices of Appeal or in the Replies. However, the issue was raised at the hearing, and it is plain to see that, in the Minister’s letter to the appellants, dated July 27, 2004, there is a summary of the adjustments made to the assessments in issue.[75] The summary clearly states that the salary is reduced to $0.
+[78] I cannot see how there can be any prejudice to the appellants, since (i) the Notices of Appeal never raised the issue of the disallowed salary even though it is clearly contained in the summary of adjustments issued by the CRA; (ii) there is no factual debate; and (iii) the applicable law is well settled.
+[79] Consequently, the Minister properly disallowed the salary.
+V. Capital Cost Allowance
+[80] The respondent submits that the capital cost allowance should be increased to $15,506.[76] Given that the appellants have not disputed this amount and that it increases the amount of the capital cost allowance by more than $3,000 above the amount in their financial statement, I find that the capital cost allowance for 2002 is $15,506.
+Conclusion regarding the Partnership’s loss
+[81] For the purposes of calculating the Partnership’s loss, the revenues and expenses are as follows:
+Revenues
+$12,425.68
+Expenses
+Current expenses[77]
+$22,696.10
+Capital expenditures
+$4,720.59
+Interest
+$7,034.28
+Mr. Blais’s salary
+$0.00
+Capital cost allowance
+$15,506.00
+Total expenses
+$49,956.97
+Net loss
+$37,531.29
+[82] In addition, the rental improvements, in the amount of $2,376.69, can potentially be depreciated.
+[83] Each appellant is entitled to half this loss.
+INVESTMENT TAX CREDITS
+[84] The starting point for this calculation is total of the current expenses of $22,691.10 and the capital expenses of $4,720.59, that is to say, $27,416.69. Various adjustments must be made to this amount based on the parties’ submissions.
+Expenses for the use of buildings
+[85] Under subparagraph 37(8)(d)(ii) of the ITA, expenses for the use of a building cannot be included in SR&ED expenses, and consequently, such expenses cannot be “qualified expenditures” for the purposes of investment tax credits.[78] I therefore agree that the current expenses on account of “rent” must be reduced by $4,141.23.[79]
+GST/QST/input tax credits
+[86] Under subsections 127(18) and 248(16) of the ITA, the credits are treated like government assistance, and the expenditures for the purposes of computing the investment tax credits must be reduced by the amount of the input tax credits to which the Partnership is entitled. Consequently, the current expenses must be reduced by $2,394.04,[80] which is the amount of GST and QST included in the current expenses.[81]
+[87] As for the capital expenditures, they must, for the same reasons, be reduced by the amount of GST and QST paid, that is to say, $534.71 on the amount of $4.093.53 claimed, and $72.12 on the amount of $554.94 reclassified, for a total of $606.83.[82]
+Interest
+[88] There is no doubt that the amount of $7,034.28 is interest paid, and that it does not entitle a taxpayer to investment tax credits under clause 2902(a)(i)(C) of the Income Tax Regulations (ITR). Factually, the appellants do not dispute that the amount constitutes interest.
+[89] Is there any prejudice due to the fact that the application of clause 2902(a)(i)(C) of the ITR is not raised in the respondent’s Replies? For the following reasons, there is no prejudice.
+[90] At one point in the hearing, Mr. Blais appeared to have said that the appellants did not claim investment tax credits on interest in their tax returns, and that they are not challenging the Minister’s position. However, immediately afterwards, Mr. Blais appeared to challenge the Minister’s position on that question.[83]
+[91] Upon a careful examination of the evidence, it becomes clear that the appellants never claimed investment tax credits on the interest paid.
+[92] Here is how one can tell this. In his income tax return, Mr. Blais claimed $3,758 in income tax credits. Since he was entitled to half the credits, and the credits are 20% of the qualified amount, he prepared his return on the basis that $37,580 in expenses qualified for the credits, and that amount is just a few dollars different from the aggregate of the current expenses, capital expenditures and partner’s salary ($37,544) set out in the 2002 profit and loss statement adopted on December 21, 2003. Mathematically, the amounts used in arriving at $37,580 cannot have included depreciation and interest.
+[93] This is confirmed in the summary of adjustments made by the CRA auditor and sent to the appellants, in which he sets out the appellants’ calculation.[84] It can be seen that the appellants excluded an amount of $19,293 from the qualified SR&ED expenditures,[85] and that amount is exactly the same as the amount of depreciation, including interest, set out in the revised profit and loss statement adopted on December 21, 2003.
+[94] Given these circumstances, I do not see how there can be prejudice because the Replies did not address the failure to take account of interest in computing the investment tax credits that were not claimed in the income tax returns or in the Notices of Appeal. Rather, it would have been up to the appellants to use their Notices of Appeal to raise a claim that they did not make in their income tax returns. Moreover, the facts are not contested and the ITR are very clear.
+[95] The interest amount is not to be included in calculating the investment tax credits.
+The $10,000 rent for the laboratory
+[96] The Partnership paid $10,000 in rent, plus $1,502.50 in GST and QST, to IIB. The Minister says that this was an expense paid to a person who was not at arm’s length from the appellants, and that consequently, the deduction of that expense cannot exceed the cost to the supplier (IIB) of providing the service.[86]
+[97] This is not raised in the Replies, and, in my opinion, merely saying that the said amount of $10,000 was [Translation] “reclassified”[87] does not amount to raising the question. The only time that [Translation] “non-arm’s length persons – current expenses” appears is at line 522 of Appendix 32 of the “New Proposed Assessment” received by the appellants a few days before the hearing.
+[98] The onus with respect to this issue on the respondent. Moreover, the facts regarding the cost of the lab equipment are important, and there is very little evidence on the subject. Under the circumstances, there is prejudice, because the appellants could have adduced other evidence. For this reason, the expense must be included in computing the investment tax credits.[88]
+[99] However, the respondent contends that this question has already been decided, in the sense that it is res judicata under article 2848 of the Civil Code of Québec (CCQ),[89] because it comes on the heels of the decision in Blais.[90] The taxation years in that preceding case between the parties were earlier than those in issue here, and the equipment lease contracts were signed on June 30, 1998, and on January 1, 2000,[91] whereas here, the contract for the year in issue was signed on January 1, 2002.[92] There is no evidence that the contracts’ terms are the same, that the equipment leased was the same, or that the costs were the same. Consequently, one of the essential conditions in order for article 2848 to apply, namely, the identity of causes, has not been met, so the provision does not apply.
+The cabinet
+[100] The cabinet in question was purchased from Centre hospitalier universitaire de Sherbrooke (CHUS) for $75. It was made of metal and was used to store the chemicals.
+[101] The respondent relies on subparagraph 2902(b)(iii) ITR, which excludes from the definition of “qualified expenditure”
+(iii) the acquisition of property that has been used, or acquired for use . . . for any purpose whatever before it was acquired by the taxpayer;
+[102] The Replies to the Notices of Appeal do not directly raise this argument. There is only a general reference to sections 2900 to 2903 of the Regulations at paragraph 8, and, on the line dated “2005-05-17” at page 2 of Appendix II, it can be seen that the supplier was the CHUS and that the Minister “reclassified” the $75. There are no other references to the cabinet in the Replies.
+[103] The fact that the cabinet was purchased from CHUS suggests that it was a used item. However, since Mr. Blais testified that be purchased a cabinet that had not been used and that this argument was not raised in the Replies, the onus is on the Minister to show that the cabinet was purchased by CHUS to be used prior to the purchase by the taxpayer.
+[104] Consequently, it has not been shown that subparagraph 2902(b)(iii) applies to the cabinet.
+Conclusion regarding the investment tax credits
+[105] In light of the foregoing, the following amounts must be subtracted from the current and capital expenses:
+Expenses
+$27,416.69
+Deductions
+(a) “Rent”
+($4,141.23)
+(b) input tax credits on current expenses
+($2,394.04)
+(c) input tax credits on cap. expenditures
+($606.83)
+Total
+($7,142.10)
+Result
+$20,274.59
+[106] Consequently, the amount that qualifies for the investment tax credits is $20,274.59, and since the applicable rate is 20%, the Partnership’s investment tax credits for 2002 amount to $4,054.92.
+DISPOSITION
+[107] The appeals are allowed, with costs of $400 to each appellant, and the matter is referred back to the Minister for reconsideration and reassessment on the basis of these Reasons, having regard to the following facts:
+(a) the Partnership’s loss is $37,531.29;
+(b) in addition, the Partnership made $2,376.69 in rental improvements that are potentially depreciable;
+(c) each appellant is entitled to claim one-half of the Partnership’s loss;
+(d) the Partnership has investment tax credits in the amount of $4,054.92; and
+(e) each appellant is entitled to claim one-half of the investment tax credit amount.
+[108] Apart from these changes and the interest to be recalculated accordingly, the assessments remain unchanged.
+Signed at Ottawa, Canada, this 12th day of April 2010.
+“Gaston Jorré”
+Jorré J.
+Translation certified true
+On this 12th day of July 2010
+Monica Chamberlain, Translator
+CITATION: 2010 TCC 195
+COURT FILE NOS.: 2006-2103(IT)I, 2006-2106(IT)I
+STYLES OF CAUSE: JEAN-FRANÇOIS BLAIS v. HER MAJESTY THE QUEEN, CHRISTIANE AURAY-BLAIS v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Sherbrooke, Quebec
+DATE OF HEARING: December 1, 2008
+REASONS FOR JUDGMENT BY: The Honourable Justice Gaston Jorré
+DATE OF JUDGMENT: April 9, 2010
+DATE OF AMENDED
+REASONS FOR JUDGMENT: April 12, 2010
+APPEARANCES:
+For the appellants:
+The appellants themselves
+Counsel for the respondent:
+Claude Lamoureux
+COUNSEL OF RECORD:
+For the appellants:
+Name:
+Firm:
+For the respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] See Blais v. The Queen, 2005 TCC 417, 2005 DTC 1600, 2006 DTC 2235. See also Innovations et intégrations brassicoles Inc., 2008 TCC 339, affirmed, 2009 FCA 302.
+[2] More specifically, the Canada Revenue Agency, acting on behalf of the Minister of National Revenue, wished to carry out an audit.
+[3] Exhibit A-1, pages 1, 2 and 24-27, and transcript, at question 7.
+[4] Exhibit A-1, page 32.
+[5] Ibid., tab 5, page 103 (statement adopted May 25, 2003). There is another profit and loss statement for 2002 at page 104 of the same exhibit, but given the loss reported by the appellants, it is mathematically clear that the statement at page 103, not the one at page 104, was used to calculate the loss for the purposes of the income tax return. This does not appear to be the case for the calculation of the investment tax credit (ITC).
+[6] Exhibit I-3, page 2, line 135. The tax return is dated “05-12-03”.
+[7] Ms. Auray-Blais’ tax return has not been adduced, but one can see the loss claimed on the draft assessment that became the disputed assessment of Ms. Auray-Blais. See Exhibit A-1, tab 0, page 19.
+[8] Exhibit I-3, page 4, line 454.
+[9] Exhibit A-1, tab 0, page 8. There is a difference of $4.29 between line 540 on page 8 and line 454 of the fourth page of Exhibit I-3. For reasons that are not part of the evidence, the appellants calculated the ITC using the numbers from the revised 2002 profit and loss statement adopted on December 21, 2003, not the numbers from the 2002 profit and loss statement adopted on May 25, 2003, which was used to calculate the losses. This can be seen by examining the left column [TRANSLATION] “Claimed by Taxpayer” at pages 6 to 7 of tab 0 of Exhibit A-1. In these three pages, the left column repeats the taxpayer’s calculation, and, in the middle of page 8, the total is the same as the amount claimed by the taxpayer. The difference between the statement of May 25 and the statement of December 21 is attributable to two things: (i) the first statement for 2002 reduces the expenses by the amount of ITCs received for the previous year ($7,508.76) which is a mistake; and (ii) the current and capital expenses are combined in the first statement, under the heading [TRANSLATION] “Total research expenses for ITC.”
+[10] Logically, the amount should be identical to that claimed by Mr. Blais.
+[11] Exhibit A-1, tab 0, pages 13 to 17.
+[12] This can be seen by examining the numbers used for the August 2004 assessments (see Exhibit A‑1, tab 0, page 4) and by comparing those numbers with the revised profit and loss statements that the appellants adopted on December 21, 2003 (see Exhibit A-1, tab 2, page 39 or tab 5, page 104). The numbers at pages 4 and 39 are the same, except for the salary disallowed by the Minister and the depreciation [capital cost allowance] that was adjusted upward by the Minister (Exhibit A-1, tab 0, page 5).
+[13] The total of the first two expense lines is equal to the “Total research expenses for investment tax credit (ITC)” cited above at paragraph 7.
+[14] Exhibit A-1, tab 0, page 20.
+[15] Ibid., tab 0, page 19.
+[16] Ibid., tab 0, pages 1-2.
+[17] There is another letter, dated July 4, 2006, and addressed to the Court. It is part of the Notices of Appeal but adds nothing relevant to the notices of July 5 and Appendix 1 of July 7.
+[18] This continued to be the case upon the filing of the Notices of Appeal.
+[19] Given that the revised profit and loss statement was adopted on December 21, 2003, and the other one was adopted on May 25, 2003.
+[20] In the course of the hearing, it became apparent that the Minister’s position was the position set out in the [TRANSLATION] “new proposed assessment for 2002, dated 2008-11-08” (see the table of contents for Exhibit A‑1 set out at pages 80-95 of tab 3 of Exhibit A-1 and in Exhibit I-1. Several aspects of the Respondent’s position are set out in the appendices to the Replies, but are not explained. The fact that the Notices of Appeal do not raise certain questions also contributed to the difficulties.
+[21] Replies to the Notices of Appeal , subparagraph 6(b) and Appendices I and II (notably pages 6-7 of Appendix II).
+[22] This difference results from three changes (see Appendix I of the Replies to the Notices of Appeal). Firstly, according to the Respondent, $534.71 in GST and QST must be removed from the amount of $4,093.53. Secondly, an amount of $654.86 must be removed (the first three items in Appendix I of the Replies, which are not totally devoted to research, but must be included in Class 8 and can entitle the taxpayers to a capital cost allowance). Thirdly, the amount of $554.94, formerly characterized as a current expenditure but recharacterized as a capital expenditure, must be added.
+[23] See paragraph 11 of these reasons.
+[24] Exhibit A-1, tab 3, page 82, or the first page of Exhibit I-1. The $14,336.24 consists of the amounts of $184.60 + $10,000 + $4,151.64 stated at page 82.
+[25] The difference between this calculation of the loss according to the appellants, and the initial calculation of the appellants (see paragraph 7 above) is attributable to the fact that the appellants did not include the $7,508.76 in investment tax credits as income.
+[26] That is to say, in circumstances where the evidence does not permit a finding of fact. .
+[27] See the decision of the Federal Court of Appeal in Canada v. Anchor Pointe Energy Ltd., 2007 FCA 188.
+[28] See the decision of Justice Rand in Johnston v. Minister of National Revenue, [1948] S.C.R. 486, notably the first sentence of page 490. The need to know what is in issue is especially important in cases heard under the Informal Procedure, where there are no examinations for discovery.
+[29] A question that is distinct from the question of the amount of the business’s expenses.
+[30] In other words, if Party A has the burden of proving facts X and Y, and if, later on, Party B, having obtained more information, concludes and admits that fact X took place, it would be very surprising if Party B were now required to disprove fact Y, merely because it admitted fact X.
+[31] Notably, to the extent that it is relevant, the assessment-related information at tab 0 of Exhibit A-1, at pages 1-20 (documents provided in 2004).
+[32] Exhibit I-1; Exhibit A-1, tab 3, pages 80-95 (at the bottom of pages 83-85, the date 2008-11-26 has been entered). I use the description of these documents from the first page of Exhibit A-1, i.e. the table of contents.
+[33] Exhibit A-1, tab 3, at pages 88-95.
+[34] The salary was disallowed not only for the purposes of computing the ITCs, but also as a partnership expense. This disallowance of the salary is not raised in the Notices of Appeal.
+[35] Exhibit A-1, tab 3, at pages 80-87.
+[36] The new points raised in the cases at bar are related to the assessments. See Exhibit A-1, tab 0, at pages 1-20. It can be seen that Parliament imposed the conditions in paragraphs 152(9)(a) and (b) of the ITA based on considerations related to prejudice.
+[37] Exhibit A-1, tab 2, page 33.
+[38] See subsections 12(2.2) and 248(16) of the ITA.
+[39]The calculation is the amount of $14,336.24 times 1.07 (GST) and that result is multiplied by 1.075 (QST) because the QST applies to the price including the GST.
+[40] Exhibit I-2, page 1.
+[41] Upon examining the evidence, it can be see that the land in question includes not only the research premises and the cultivated land, but the home as well. See the transcript at the end of question 516 and at questions 560, 579 and 652.
+[42] Since IIB also cultivated the land, it was also a beneficiary of these animals. See note 51 below.
+[43] These amounts, which do not include GST and QST, can be found at pages 1 and 2 of Exhibit I-2 and in Appendix II of the Replies to the Notice of Appeal.
+[44] Transcript, pages 250-251.
+[45] Ibid., questions 646 to 648 and 652 to 657.
+[46] Exhibit I-4, T4 slip.
+[47] Exhibit I-3, page 2.
+[48] Transcript, questions 548 and 564. However, there is no indication of this activity in his tax return (Exhibit I-3).
+[49] Exhibit I-4.
+[50] Exhibit A-1, tab 2, page 61.
+[51] The evidence is not very clear about the relationship between IIB and the Partnership, but, at pages 178 to 180 of the transcript, Mr. Blais explains that the partnership rents the lab equipment from IIB and that IIB rents the agricultural equipment from the Partnership, thereby enabling IIB to pursue [TRANSLATION] “. . . its external research on hops . . .” Each of the two rentals is for a rent of $10,000, not including taxes. See Exhibit A-1, tab 2, page 61, with respect to the lab equipment.
+[52] The amount allowed for GST and QST is rateably reduced to reflect the fact that no GST or QST was paid on the amounts payable to the SAAQ.
+[53] The amounts of $457.07 and $2,258.23 do not include GST and QST.
+[54] Exhibit I-2, in the middle of page 2.
+[55] Ibid., page 2.
+[56] Ibid., pages 2-3.
+[57] Ibid., page 3.
+[58] Transcript, page 265.
+[59] Exhibit I-2, page 3.
+[60] Ibid., page 3 (not including GST or QST).
+[61] Exhibit A-1, tab 2, page 60, [Translation] “Contract of Lease”.
+[62] Transcript, pages 268-269.
+[63] See below.
+[64] There was no GST or QST on this amount.
+[65] Subparagraph 37(8)(d)(ii) of the ITA applies, and, consequently, the amount of $2,066.24 cannot be considered an SR&ED expense and cannot be deducted as an expense during the year in issue.
+[66] See note 41, above.
+[67] Moreover, one would have to consider whether the profits from the improvement to the buildings must be taken into account.
+[68] Transcript, pages 273-277.
+[69] Generally, the evidence leads me to conclude that the appellants did not always draw clear distinctions between the activities of the Partnership, the activities of IIB, and their purely personal activities.
+[70] Even if this amount was an expense of the Partnership, it is capital in nature, so less than 20% would be deductible in 2002 under paragraph 20(1)(e) of the ITA.
+[71] See Appendix 1 of the Replies to the Notice of Appeal.
+[72] The GST and QST on the amount of $654.86 are already included in the amount of $534.71.
+[73] See Appendix 1 of the Replies to the Notice of Appeal.
+[74] Blais, supra, note 1, at paragraphs 20-30.
+[75] Exhibit A-1, tab 0, pages 1-20, especially pages 4 and 6 (line 305).
+[76] The calculation is on the seventh page of Exhibit I-1.
+[77] That is to say, $14,336.24 +$8,359.86 = $22,696.10.
+[78] See “qualified expenditure” in subsections 127(5) and 127(9) of the ITA.
+[79] For the same reasons, the depreciation on rental improvements cannot be included in computing the investment tax credits.
+[80] This amount consists of $2,154.02 (paragraph 41), $22.54 (paragraph 44), $116.16 (paragraph 57), $8.47 (paragraph 58), $42.18 (paragraph 59), $44.59 (paragraph 60) and $6.08 (paragraph 61).
+[81] See also paragraph 12(1)(x) and the definition of “non-government assistance” in subsection 127(9).
+[82] See Appendix I of the Replies to the Notices of Appeal.
+[83] Transcript, from the bottom of page 429 to the top of page 432.
+[84] The letter and summary are found in Exhibit A-1, tab 0, at pages 1-12, and the calculation of the investment tax credits using the appellants’ figures is at pages 6-8. There is an unexplained discrepancy of $4.29 between the amount in the calculation and the amount in Mr. Blais’ T1 tax return.
+[85] Exhibit A-1, tab 0, page 7, line 530, left column.
+[86] This results from paragraph (f) of the definition of “qualified expenditure” in subsection 127(9) of the ITA and subsections 127(11.5) to (11.8) and 127(8) of the ITA. See also Blais, supra, note 1, at paragraphs 7-19.
+[87] Appendix II of the Replies.
+[88] The same legal provisions were relied on by the Respondent against the appellants in the case involving earlier taxation years (Blais, supra, note 1, at paragraphs 7-19). This does not constitute an appropriate opinion in order for the question to be in issue here.
+[89] It is settled that the applicable suppletive law is the law of the various provinces, so the CCQ, not the common law, applies in the instant cases. See, inter alia, sections 8.1 and 8.2 of the Interpretation Act.
+[90] Blais, supra, note 1, paragraphs 7-19.
+[91] Ibid., at note 3.
+[92] Exhibit A-1, tab 2, page 61.

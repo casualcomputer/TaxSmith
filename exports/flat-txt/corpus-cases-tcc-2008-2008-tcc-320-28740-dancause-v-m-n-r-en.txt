@@ -1,0 +1,194 @@
+Title: Dancause v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28740/index.do
+Corpus path: corpus/cases/tcc/2008/2008-tcc-320-28740-dancause-v-m-n-r-en.md
+Document type: case_law
+Last modified: 2008-06-25
+
+# Dancause v. M.N.R.
+
+- Citation: 2008 TCC 320
+- Decision date: 2008-06-25
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1462, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Dancause v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-06-25
+Neutral citation
+2008 TCC 320
+File numbers
+2007-3123(EI)
+Judges and Taxing Officers
+Alain Tardif
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2007-3123(EI)
+BETWEEN:
+FRANCE DANCAUSE,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+9049-5490 QUÉBEC INC.,
+Intervener.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on February 27, 2008, at Québec, Quebec
+Before: The Honourable Justice Alain Tardif
+Appearances:
+Counsel for the Appellant:
+Marlène Jacob
+Counsel for the Respondent:
+Sylvain Ouimet
+Counsel for the Intervener:
+Marlène Jacob
+____________________________________________________________________
+JUDGMENT
+The appeal under subsection 103(1) of the Employment Insurance Act ("the Act") is allowed in part. The work done by the Appellant for 9049‑5490 Québec Inc. during the period from November 9, 2001, to November 9, 2002, was performed in a manner comparable to the way it would have been performed by a third party in a similar situation and accordingly must be granted the benefit of the exception in the Act.
+…/2
+However, for the work performed during the periods from May 6 to August 21, 2004, October 3, 2004, to August 27, 2005, and September 11, 2005, to December 23, 2006, the employment is excluded from insurable employment under subsection 5(2) of the Act, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 25th day of June 2008.
+"Alain Tardif"
+Tardif J.
+Translation certified true
+on this 8th day of December 2008.
+Brian McCordick, Translator
+Citation: 2008 TCC 320
+Date: 20080625
+Docket: 2007-3123(EI)
+BETWEEN:
+FRANCE DANCAUSE,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+9049-5490 QUÉBEC INC.,
+Intervener.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Tardif J.
+[1] This is an appeal from a determination that the work performed by the Appellant France Dancause for 9049‑5490 Québec Inc. was excluded from insurable employment under paragraph 5(2)(i) of the Employment Insurance Act ("the Act").
+[2] The Minister of National Revenue ("the Minister") excluded the work performed by the Appellant for 9049‑5490 Québec Inc. from November 9, 2001, to November 9, 2002, from May 6, 2004, to August 21, 2004, from October 3, 2004, to August 27, 2005, and from September 11, 2005, to December 23, 2006, from insurable employment under paragraph (5)(2)(i) of the Act. The Respondent analyzed the work performed and concluded that the employer and employee had entered into an employment agreement the terms and conditions of which were different from what persons dealing with each other at arm's length would have agreed to in similar circumstances.
+[3] Because the Appellant and the Intervener 9049‑5490 Québec Inc. were not dealing with each other at arm's length, the Minister was satisfied that it was not reasonable to conclude that the Appellant and the company would have entered into a substantially similar contract of employment if they had been dealing with each other at arm's length, having regard to the facts and circumstances analyzed.
+[4] In making his determination, the Minister relied on the following facts:
+5. …
+(a) The sole shareholder of the payor was Serge Saucier. (admitted)
+(b) France Dancause is the common-law spouse of the payor. (admitted)
+(c) The Appellant is related as a common-law spouse to a person who controls the payor. (admitted)
+6. …
+(a) The payor was incorporated on April 25, 1997. (admitted)
+(b) The payor operated a unisex hairdressing salon. (admitted)
+(c) The sole shareholder of the payor had purchased his father's barber shop and transformed it into a unisex hairdressing salon. (admitted)
+(d) In addition to the shareholder, the payer employs seven hairdressers who do unisex hairdressing. (to be clarified)
+(e) The salon is open year-round on Tuesdays and Wednesdays from 8:30 a.m. to 5:30 p.m., Thursdays and Fridays from 8:30 a.m. to 8:30 p.m. and Saturdays from 8:00 a.m. to 4:00 p.m. (admitted)
+(f) The payor's busiest periods are for about three weeks at Easter, in the summer and five weeks at Christmas, and the Appellant was on the payroll for minimum periods at Christmas and Easter 2004 and 2005. (denied)
+(g) About 80% of the payor's revenue came from women's hairdressing and about 20% from men's. (admitted)
+(h) During the periods in issue, the payor's revenues rose steadily, from about $185,110 in 2002 to about $274,885 in 2006. (admitted)
+(i) The Appellant had worked for her father-in-law's barber shop as a men's hairdresser, with Marie‑Claude Saucier. (admitted)
+(j) Marie-Claude Saucier is the sister of the sole shareholder of the payor. (admitted)
+(k) The Appellant continued to perform the same duties for the payor. (denied)
+(l) Marie-Claude Saucier does women's hairdressing and she and two other hairdressers help with men's hairdressing when necessary. (denied)
+(m) The Appellant is the only hairdresser paid to do men's hairdressing exclusively. (admitted)
+(n) Like all the other hairdressers, the Appellant washes towels and serves juice and coffee to customers. (denied)
+(o) The Appellant does not do hair colouring or women's hair cutting. (admitted)
+(p) The Appellant was the only employee of the payor who was paid for 40 hours a week, when she was working full time, while all the other hairdressers worked 35 hours or less per week. (denied as written)
+(q) The Appellant was paid $12.50 an hour when she worked 40 hours per week in 2004 and $13.75 in 2005, and her hourly rate was reduced to $11.50 when she worked part time, about six hours a week, that being the maximum number of hours so that she would not lose her unemployment benefits or have them reduced. (denied)
+(r) All of the payor's other unisex hairdressers were paid hourly rates varying from $7.00 to $9.00 plus commissions, except Marie‑Claude Saucier, who received an hourly rate of $11.50 plus commissions. (denied)
+(s) The Appellant's hourly rate was higher, given that the work done by the Appellant was not very profitable. (denied)
+(t) The Appellant's periods of full-time employment corresponded to the periods when the other hairdressers were on maternity leave or vacation, although the Appellant is only able to do men's hairdressing. (denied)
+(u) The Appellant's periods of part-time employment made it possible for her to keep her customers. (admitted)
+(v) The Appellant did not work in 2003 because she was on maternity leave and then on parental leave. (admitted)
+(w) The Appellant was often laid off by the payor because she was limited to men's hairdressing and was therefore not profitable enough for the payor. (denied as written)
+(x) The Appellant used up all her weeks of benefits before being rehired by the payor. (denied as written)
+(y) The low revenue generated by the Appellant's work could not have justified hiring her on the same terms and conditions if the parties had been dealing with each other at arm's length. (denied as written)
+[5] First, the Appellant's spouse, Mr. Saucier, described the region and its characteristics. He said that people working in hairdressing were very scarce in the region and that this shortage meant that he had to be very accommodating, and this explained and justified certain characteristics of the work his spouse did.
+[6] He described the situation in the region in terms of hairdressing. He talked about the problems involved in recruiting qualified, skilled staff.
+[7] He said that the scarcity of hairdressers meant that the people working in this field were demanding and difficult and generally put their quality of life above everything.
+[8] He said that the consequence of this problem was that his authority as proprietor of a hairdressing salon was limited. In other words, he cannot be too demanding and has to deal with the demands and even whims of some employees.
+[9] Serge Saucier formally admitted, at least twice, that he would have liked the hairdressers with whom he was dealing at arm's length to agree to terms and conditions of employment similar to his spouse's; in other words, he would have preferred that those of his employees with whom he was dealing at arm's length were as cooperative, as attentive to the needs of the business and as flexible as his spouse.
+[10] Serge Saucier reiterated that he had very limited authority over the hairdressers, who had specific requirements in terms of the number of hours of work and their quality of life; most often, these terms were not negotiable, and he had to accept them or risk losing employees who were very difficult to replace.
+[11] To explain the layoffs and wage reductions in relation to his spouse's work, he systematically referred to his accountant, who obviously played a predominant role in managing his business. However, the accountant did not testify.
+[12] The Appellant was the only one whose wages were reduced and increased; the Appellant had very specific periods of work, which were very different from the other employees'.
+[13] Despite how flexible and genuinely willing to cooperate in the smooth operation of her spouse's business the Appellant was, she did not have all of the necessary skills, in that her work was limited to men's hairdressing, a secondary aspect of the business, whose primary activity was women's hairdressing: the breakdown of revenue shows 80 percent coming from women's hairdressing and 20 percent from men's.
+[14] Mr. Saucier said that women's hairdressing was a more profitable and worthwhile business. In addition, the Appellant's lengthy absences had negative effects on customer loyalty, since they had to turn to other hairdressers during her periodic absences. Some customers returned, others did not.
+[15] Serge Saucier explained that his spouse did administrative support, display, sales and reception work. She also swept up, and she may occasionally have provided back-up for other people, served coffee, done general cleaning, and so on.
+[16] She worked 40 hours a week while the others worked only 35. Why? Because the others did not want to work any more. When it came time to explain how the services described as essential and fundamental were performed during the periods when the Appellant did not work, Mr. Saucier's answers were somewhat confused and evasive.
+[17] The Appellant's spouse used all sorts of general and often confused excuses to justify or explain certain facts, which were not particularly coherent.
+[18] This was particularly apparent when Mr. Saucier explained the fluctuations in the Appellant's hourly wage. The same answers were given with respect to questions relating to when the periods of work began and ended.
+[19] Each time he was asked to explain the specific characteristics of the Appellant's terms and conditions of employment, he said that qualified, skilled staff were very scarce and the people who were available were independent and very demanding. In other situations, he said he had acted and decided on the recommendations of his accountant.
+[20] Serge Saucier was very talkative and had an answer for everything, but very often he fell back on unverifiable explanations, such as the accountant's recommendations, the particular situation in the region, the economy, the characteristics of the field, and the employees' jealousy, demands and intransigence.
+[21] When Mr. Saucier was asked to explain a number of inconsistencies, he fell back on catch-all assertions, such as declining business, an economic slowdown, the opening of a housing complex with a hairdressing service and the accountant's instructions regarding the Appellant's job description.
+[22] On the one hand, the Appellant's workload declined because of the drop in customers resulting from her absences, and so the other hairdressers were able to acquire her customers while she was gone; on the other hand, her work at certain times (period in issue) was described as very important, if not essential.
+[23] The Appellant herself made frequent reference to her spouse's authority with respect to her wages, her schedule, the number of hours worked and increases and decreases in the hourly wage, this being certain and clearly established by the evidence. The Appellant was much more flexible and accommodating than the other employees.
+[24] Generally speaking, the Appellant essentially confirmed what her spouse had said. Obviously, she was not as bold, firm and demanding as the other salon employees.
+[25] Both the Appellant and her spouse said they did not know much, if anything, about what the Employment Insurance Act and Regulations say, although the facts and certain information suggest to the Court that the parties had organized the Appellant's work on the basis of the requirements of the Act and Regulations.
+[26] The Respondent called service officer Jenny Pelletier, who essentially explained how the Minister had made the determination under appeal.
+[27] In her testimony, Ms. Pelletier essentially reiterated the various points listed in the Reply to the Notice of Appeal. Generally speaking, she said that the Appellant's contract of employment was considerably different from the other employees' contracts, in terms of both the duration and the wages, these being determining factors in conducting an analysis under paragraph 5(3)(b) of the Act. The evidence presented did not relate to a particular period or periods, leading me to infer that the evidence adduced by the Respondent related to all periods in issue in the appeal.
+[28] When a contract of employment is excluded from insurable employment under paragraph 5(2)(i), which excludes employment where the parties are not dealing with each other at arm's length, the Respondent analyzes all of the relevant facts having regard to the tests that have been laid down for determining whether the terms of the contract of employment were different from what they would have been if the parties had been dealing with each other at arm's length.
+[29] The courts have held that this analysis is the exercise of a discretion and the persons exercising that discretion must act responsibly and consider all of the relevant facts as objectively as possible. Where a judicious analysis has led to reasonable conclusions, the Tax Court of Canada will not intervene.
+[30] There is nothing in the evidence from which I could conclude that in conducting that analysis the Minister had regard to irrelevant facts or placed excessive or inappropriate weight on the various factors considered. The opposite is true; the analysis was done on the basis of the relevant facts and nothing was ignored that was such as would have had any effect on the conclusion.
+[31] The conclusions based on the interpretation of certain facts observed, particularly in terms of the hourly wage and periods of work, were reasonable.
+[32] However, in his analysis, the Minister did not distinguish between the various periods of work, some of which came after or before a benefit period connected with maternity leave.
+[33] This is a special situation, in which the work stoppages were not dictated by the needs of the business and market conditions. They are specific periods when the terms and conditions of the contract of employment are necessitated by the worker's maternity leave. The evidence submitted made no distinction regarding that period when a special situation prevailed.
+[34] There are entirely undeniable facts in the record. I refer, in particular, to the inconsistencies in Mr. Saucier's testimony, when he said that the Appellant was a cornerstone of the business even though her skills limited her to an activity that accounted for only 20 percent of the business, and she was not replaced when she was absent.
+[35] In comparison with the other employees, the Appellant accumulated more hours of work. Obviously, a 40-hour week is better for a worker who wants to be eligible for employment insurance benefits as soon as possible. The random nature of the time periods and the lower hourly wage corresponded precisely, once they were reduced, to the threshold at which a worker is not penalized.
+[36] There is no foolproof method for assessing the plausibility of explanations given by the parties in a case.
+[37] In this instance, the case raised some doubts from the start as to whether the work done by the Appellant was comparable to the work done by the other employees. I refer, in particular, to the duration of the periods of work, which corresponded to the periods of work the Appellant needed in order to be eligible for benefits.
+[38] In some cases, that situation can be a matter of chance. If the scenario recurs, however, there is no room for doubt left. If there is other evidence pointing in the same direction, that can be sufficient to tilt the balance of probabilities to favour the Respondent's position.
+[39] In this instance, in addition to the duration of the periods of work, there is the question of the Appellant's wage, which was reduced at one point so that it corresponded exactly to what the Appellant required in order not to be penalized by the employment insurance scheme. Those are objective facts, in addition to which the numerous general and often confused explanations, and the fact that witnesses were not called (co-workers, accountant, etc.) must also be considered.
+[40] This is a case in which the intention of taking maximum advantage of the employment insurance scheme had the effect of creating situations that were dubious, if not implausible.
+[41] There can be no doubt that entitlement to benefits is a legitimate and fundamental right. However, this does not mean that the right may be abused and/or used for accommodation; when the abuses are obvious, the consequence could be a finding that it is not reasonable to imagine a substantially similar employment relationship between unrelated parties.
+[42] If we take a reasonable and accommodating approach, some facts seem more plausible, and ultimately more acceptable in the context of a family business.
+[43] The right to benefits is indeed an important right, and it is entirely proper for unemployed persons to want to receive benefits when they meet the requirements.
+[44] Meeting the requirements of the scheme is one thing, and taking part in a subterfuge to make a person eligible for the maximum benefits provided by the scheme is another.
+[45] In this instance, on a balance of probabilities, the parties have plainly exaggerated. However, it is clear that because of her pregnancy, the Appellant was entitled to the benefits associated with her maternity leave.
+[46] The appeal relates to several periods. One of those periods came before a period of unemployment necessitated by the Appellant's pregnancy. The benefits to which a person in that situation, in this case the Appellant, is entitled are paid for medical reasons (leaving for preventive reasons, potential danger, etc.) and because of the effects of pregnancy.
+[47] The factors associated with this type of leave, which have nothing to do with the terms of a contract of employment, particularly with respect to the beginning and end of the leave period, are essentially determined by the mother's health and the length of the leave period established by Parliament itself.
+[48] The fact that the parties to a contract of employment under which the claimant is entitled to employment insurance maternity benefits, whether before the birth or after (parental leave), are not dealing with each other at arm's length is of no effect, since these are fixed periods, defined not by the parties but by the attending physician and Parliament.
+[49] Because the parties made no distinction between the periods in question when they presented their evidence at the hearing, I took the initiative of holding a conference call so that the parties could make submissions on this aspect of the documentary evidence.
+[50] Nothing new came of the discussion, other than the fact that the parties acknowledged that these were periods to which special requirements applied; however, the Respondent stressed the fact that the Appellant's remuneration was not comparable or similar to the remuneration of the other employees during the periods in question.
+[51] No special analysis was done regarding the period preceding the Appellant's maternity leave, because, apparently, the Respondent assumed that it was a period like all the others.
+[52] The Respondent was wrong on the face of that, given that this was an exceptional situation in which the usual tests for determining whether an employment relationship was influenced by the fact that the parties were not dealing with each other at arm's length are remuneration, duration and terms and conditions of employment.
+[53] The Respondent was correct to raise the question of the hourly wage, which was obviously not comparable to the other employees'; the Appellant replied that her situation was different, given that she did not receive a bonus.
+[54] However, it seems plain to me that the Appellant had a greater interest in the business—that she was, in short, more flexible—and this may have justified different pay.
+[55] In general, however, I do not believe that this fact alone justified the conclusion that an unrelated person would not have been given equivalent pay.
+[56] With regard to the other periods, there are, in addition to the ever-present question of remuneration, a number of other factors which, on the whole, support the Respondent's position and tilt the balance of probabilities in the Respondent's favour.
+[57] For these reasons, the appeal is allowed in part. Under paragraph 5(3)(b) of the Act, the Appellant's employment with 9049‑5490 Québec Inc. is excluded from the operation of paragraph 5(2)(i) of the Act in relation to the work she performed from November 9, 2001, to November 9, 2002, on the ground that she performed that work on the same basis as an unrelated person would have done.
+[58] For the periods from May 6 to August 21, 2004, October 3, 2004, to August 27, 2005, and September 11, 2005, to December 23, 2006, the work performed by the Appellant is excluded from insurable employment under paragraph 5(2)(i) of the Act.
+Signed at Ottawa, Canada, this 25th day of June 2008.
+"Alain Tardif"
+Tardif J.
+Translation certified true
+on this 8th day of December 2008.
+Brian McCordick, Translator
+CITATION: 2008 TCC 320
+COURT FILE NO.: 2007-3123(EI)
+STYLE OF CAUSE: France Dancause v. MNR and 9049‑5490 Québec Inc.
+PLACE OF HEARING: Québec, Quebec
+DATE OF HEARING: February 27, 2008
+REASONS FOR JUDGMENT BY: The Honourable Justice Alain Tardif
+DATE OF JUDGMENT: June 25, 2008
+APPEARANCES:
+Counsel for the Appellant:
+Marlène Jacob
+Counsel for the Respondent:
+Sylvain Ouimet
+Counsel for the Intervener:
+Marlène Jacob
+COUNSEL OF RECORD:
+For the Appellant and Intervener: Marlène Jacob
+Firm: Ménard, Milliard, Caux
+City: Québec, Quebec
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

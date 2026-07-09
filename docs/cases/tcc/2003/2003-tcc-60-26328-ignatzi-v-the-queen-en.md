@@ -1,0 +1,164 @@
+---
+title: "Ignatzi v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26328/index.do"
+last_modified: "2003-02-19"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 TCC 60"
+citation2: ""
+neutral_citation: "2003 TCC 60"
+decision_date: "2003-02-19"
+language: "en"
+item_id: "26328"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3275
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T18:32:54.540000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "e16613d8bacddfbc754356d64e8aa99e8b21e0477d2fb5f4ceac40f341d8bc50"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Ignatzi v. The Queen
+
+- Citation: 2003 TCC 60
+- Decision date: 2003-02-19
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3275, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Ignatzi v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-02-19
+Neutral citation
+2003 TCC 60
+File numbers
+2002-599(IT)I
+Judges and Taxing Officers
+Gerald J. Rip
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2002-599(IT)I
+BETWEEN:
+HORST IGNATZI,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on January 31, 2003, at Victoria, British Columbia.
+Before: The Honourable Judge Gerald J. Rip
+Appearances:
+Counsel for the Appellant:
+George F. Jones, Q.C.
+Counsel for the Respondent:
+Jasmine Sidhu
+____________________________________________________________________
+JUDGMENT
+The appeals from the assessments made under the Income Tax Act for the 1997, 1998 and 1999 taxation years are dismissed.
+Signed at Ottawa, Canada, this 19th day of February 2003.
+"Gerald J. Rip"
+J.T.C.C.
+Citation: 2003TCC60
+Date: 20030219
+Docket: 2002-599(IT)I
+BETWEEN:
+HORST IGNATZI,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Rip, J.
+[1] Horst Ignatzi appeals income tax assessments for 1997, 1998 and 1999 taxation years on the basis that the Minister of National Revenue ("Minister") erred in imposing a penalty of ten per cent of the amount he failed to include in reporting his income for each of the years, pursuant to subsection 163(1) of the Income Tax Act ("Act").[1] Mr. Ignatzi argues that such a penalty is exigible if a taxpayer had not exercised due diligence. He also claims that he made a voluntary disclosure of his capital gains in the 1997 and 1999 taxation years and that there was a genuine misunderstanding with respect to losses that could have been claimed to offset the gains in question.
+[2] Mr. Ignatzi acknowledged that in filing his tax return for 1996 he failed to report interest and income from a Registered Retirement Savings Plan ("RRSP") aggregating $7,185. He said he did not have the "pink slips", the statements of RRSP or investment income, when he prepared his 1996 return. Apparently the Minister reassessed the appellant on June 12, 1998 and included this unreported income in Mr. Ignatzi's 1996 income but did not levy any penalty.
+[3] The appellant was seriously injured in a work accident and has since been "semi retired". He testified he bought and sold stock as a hobby, for pleasure. It is "my favorite thing to do". However, he stated, he never understood the meaning of capital gains or losses and "so ignored it". He never reported losses or gains in his tax returns except if the amounts of the gains or losses were set out in boxes on statements of trust income, "the pink slips" that were sent to him.
+[4] The following are the capital gains Mr. Ignatzi failed to report for the years in appeal:
+Year
+Capital Gains
+Taxable Capital Gains
+1997
+$ 57,641.76
+$ 43,231.32
+1998
+$ 83,252.17
+$ 62,439.13
+1999
+$ 34,026.27
+$ 25,519.70
+$174,920.20
+[5] In his 1997 tax return Mr. Ignatzi reported a capital loss of $407.05 with respect to his interest in a mutual fund. In his 1998 tax return, Mr. Ignatzi claimed a capital loss of $523.66 and capital gains of $3,084.52 and $820.74 reported in statements of trust income.
+[6] On or about November 8, 2000, the Canada Customs and Revenue Agency ("CCRA") wrote to Mr. Ignatzi requesting him to complete a schedule of capital dispositions made in 1998, which was attached to the letter. Ms. Marie Anatha Thelisma, an auditor with the CCRA, explained that only dispositions for 1998 were requested since that was the year that was subject to a project by the CCRA. The CCRA had knowledge of the failures to report in 1997 and 1999 at the time, however.
+[7] On November 15, 2000, Mr. Dan Griesbrecht, an accountant probably retained on that day by Mr. Ignatzi, telephoned Ms. Thelisma requesting information. Ms. Thelisma advised Mr. Griesbrecht of dispositions in 1997, 1998 and 1999. She was prepared to provide Mr. Griesbrecht with a list of dispositions for all three years and he arranged to collect the material from the CCRA. The number of dispositions, according to Ms. Thelisma, was not insignificant. The list comprised several pages.
+[8] Ms. Thelisma did not hear from the appellant or Mr. Griesbrecht until June 11, 2001, after the CCRA sent Mr. Griesbrecht a second letter informing him that if there was no reply, the CCRA would reassess Mr. Ignatzi. [The first letter was the letter mailed in November 2000 and had requested a reply within 60 days.] Upon receipt of the second letter Mr. Griesbrecht mailed a complete list of dispositions and the amounts of the gains.
+[9] Mr. Ignatzi was "distraught" on receipt of the original letter from the CCRA in November 2000, Mr. Griesbrecht recalled. Mr. Griesbrecht said he explained to Mr. Ignatzi that he had to report his capital gains. Mr. Griesbrecht said he would require a list of all gains and would then file amended tax returns for 1997, 1998 and 1999. He would make submissions on behalf of Mr. Ignatzi for the three years.
+[10] Mr. Griesbrecht stated he got in touch with the CCRA the very day he met Mr. Ignatzi and spoke to the auditor about 1997 and 1998 and asked about the possibility of a voluntary disclosure for those two years. The auditor, who I assume was Ms. Thelisma, according to Mr. Griesbrecht, said she was not sure if this were possible but she would ask her supervisor. After checking with her supervisor, she said the supervisor would consider a voluntary disclosure. In her evidence, Ms. Thelisma denied the CCRA considered Mr. Griesbrecht's actions to constitute a voluntary disclosure for 1997 and 1999. She stated that she informed Mr. Griesbrecht that Mr. Ignatzi had failed to report gains in 1997 and 1999. She did acknowledge that the CCRA did consider the matter but it was not for her or her supervisor to make the decision to accept any representation as a voluntary disclosure, as contemplated by the CCRA's Voluntary Disclosure Program described in Information Bulletins dated September 30, 2002 (IC00-IR), June 12, 2000 (Customs N-332) and June 28, 1991 (GST-500-3-4).
+[11] Mr. Griesbrecht submitted a Comparative Tax Summary of Mr. Ignatzi's tax returns for 2000 and 2001. In his 2001 tax return Mr. Ignatzi claimed aggregate capital losses of $151,547.90, less than his aggregate capital gains for the three years in appeal and, which contrary to what he submitted, could not have fully offset the gains.
+[12] The Voluntary Disclosure Program was devised and is administrated by the CCRA. It has no statutory authority as such and this court cannot allow an appeal only because there was a voluntary disclosure, which the CCRA rejected. For what it is worth, according to the literature published by the CCRA and its predecessor, Revenue Canada, the appellant's representations do not constitute a voluntary disclosure: the fisc was aware of the appellant's deficiencies and had initiated enforcement of the appellant's legal obligations under the Act before the appellant or his representative contacted the CCRA.
+[13] Now to deal with the question of whether due diligence is a defense to a subsection 163(1) penalty and, if so, whether Mr. Ignatzi exercised due diligence. A voluntary disclosure has nothing to do with due diligence to prevent a failure to report an income item. A voluntary disclosure, I gather, takes place after the failure; one is disclosing the failure.
+[14] The submissions of Mr. Jones, appellant's counsel, were that there was a voluntary disclosure by his client. He also states that a reasonable excuse is acceptable to defeat the penalty. Mr. Jones described the facts in these appeals as "unusual" and his client as an "unusual person". If Mr. Ignatzi had proper advice, Mr. Jones declared, there would be no problem. This, of course, can be said of most appeals before this court.
+[15] Mr. Jones relies on the decision of this court in Khalilv. Canada.[2] My colleague Judge Mogan concluded that it cannot be said a person "failed to report an amount" within the meaning of subsection 163(1) of the Act when that person knows (1) that an amount was payable to her by a payor, (2) that the payor withheld a portion of the payment to remit to the Receiver General for Canada on account of income tax paid by the person, (3) the payor paid the person the balance remaining after deducting the tax withheld, and (4) the payor was required to report to Revenue Canada the gross amount payable to the person and the portion withheld and remitted. In other words, a payment to the fisc was made on account of the payment and another person was liable to report the payment. This is not the situation at bar. Nobody withheld tax from any payment Mr. Ignatzi received on disposition of shares in 1997, 1998 and 1999. He had no knowledge of anyone being required to report his dispositions of capital property to Revenue Canada; Ms. Khalil did have the knowledge.
+[16] The failure to report an amount in a tax return giving rise to the penalty under subsection 163(1), as it applies to the years in appeal, is one of strict liability. As Bowman, A.C.J. stated in Maltaisv. The Queen,[3] if it were not, subsection 163(2) would be superfluous. "It follows that where the Minister of National Revenue is called upon under subsection 163(3) to justify the imposition of a penalty under subsection 163(1) he meets that onus by establishing that the taxpayer had failed to report an amount of income in one year and that he or she had failed to report an amount in a return for any of the three preceding taxation years." In any event, I cannot find that Mr. Ignatzi was duly diligent in his obligation to report all amounts of income earned in the years in appeal.
+[17] The appeals are dismissed.
+Signed at Ottawa, Canada, this 19th day of February 2003.
+"Gerald J. Rip"
+J.T.C.C.
+CITATION:
+2003TCC60
+COURT FILE NO.:
+2002-599(IT)I
+STYLE OF CAUSE:
+Horst Ignatzi v. The Queen
+PLACE OF HEARING
+Victoria, British Columbia
+DATE OF HEARING
+January 31, 2003
+REASONS FOR JUDGMENT BY:
+The Honourable Judge Gerald J. Rip
+DATE OF JUDGMENT
+February 19, 2003
+APPEARANCES:
+Counsel for the Appellant:
+George F. Jones, Q.C.
+Counsel for the Respondent:
+Jasmine Sidhu
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+George F. Jones, Q.C.
+Firm:
+Jones Emery Hargreaves Swan
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1]
+Subsection 163(1) reads as follows:
+(1) Every person who
+(a) fails to report an amount required to be included in computing the person's income in a return filed under section 150 for a taxation year, and
+(b) had failed to report an amount required to be so included in any return filed under section 150 for any of the three preceding taxation years
+is liable to a penalty equal to 10% of the amount described in paragraph (a), except where the person is liable to a penalty under subsection (2) in respect of that amount.
+(1) Toute personne qui ne déclare pas un montant à inclure dans le calcul de son revenu dans une déclaration produite conformément à l'article 150 pour une année d'imposition donnée et qui a déjà omis de déclarer un tel montant dans une telle déclaration pour une des trois années d'imposition précédentes est passible d'une pénalité égale à 10 % du montant à inclure dans le calcul de son revenu dans une telle déclaration, sauf si elle est passible d'une pénalité en application du paragraphe (2) sur ce montant.
+[2] [2002] T.C.J. No. 538 (Q.L.).
+[3] 91 DTC 1385 at page 1387. (See also Pillar Oilfield Projects Ltd. v. Canada, [1993] G.S.T.C. 49, with respect to subsection 280(1) of the Excise Tax Act, a provision substantially similar to subsection 163(1) of the Act.

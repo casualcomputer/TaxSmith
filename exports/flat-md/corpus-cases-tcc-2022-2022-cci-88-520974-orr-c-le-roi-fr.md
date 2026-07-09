@@ -1,0 +1,190 @@
+---
+title: "Orr c. Le Roi"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/520974/index.do"
+last_modified: "2022-10-18"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2022 CCI 88"
+citation2: ""
+neutral_citation: "2022 CCI 88"
+decision_date: "2022-10-18"
+language: "fr"
+item_id: "520974"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4500
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2023-12-01T12:03:18.935000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "e71676de2c825443a82ad2223ce01271889ec4daf67a42139e9151a3a9e2cd1a"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Orr c. Le Roi
+
+- Citation: 2022 CCI 88
+- Decision date: 2022-10-18
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4500, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Orr c. Le Roi
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2022-10-18
+Référence neutre
+2022 CCI 88
+Numéro de dossier
+2015-1404(IT)I
+Juges et Officiers taxateurs
+Bruce Russell
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2015-1404(IT)I
+ENTRE :
+ANDREW ORR,
+appelant,
+et
+SA MAJESTÉ LE ROI,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 21 mars 2022, à Edmonton (Alberta)
+Devant : L’honorable juge Bruce Russell
+Comparutions :
+Avocate de l’appelant :
+Me Priscilla Kennedy
+Avocate de l’intimée :
+Me Wendy Bridges
+JUGEMENT MODIFIÉ
+Conformément aux motifs du jugement ci-joints, le présent appel interjeté par l’appelant à l’encontre de la nouvelle cotisation du 16 mars 2015 de l’année d’imposition 2013 est rejeté, sans dépens.
+Le jugement modifié remplace le jugement daté du 8 août 2022.
+Signé à Toronto, Ontario, ce 18e jour d’octobre 2022.
+« B. Russell »
+Le juge Russell
+Référence : 2022 CCI 88
+Date : Le 18 octobre 2022
+Dossier : 2015-1404(IT)I
+ENTRE :
+ANDREW ORR,
+appelant,
+et
+SA MAJESTÉ LE ROI,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS MODIFIÉS DU JUGEMENT
+Le juge Russell
+[1] L’appelant Andrew Orr est inscrit en vertu de la Loi sur les Indiens fédérale et est membre de la Première Nation de Peerless Trout dans le nord de l’Alberta.
+[2] Dans sa déclaration de l’année d’imposition 2013, M. Orr a déclaré que son revenu d’emploi était exonéré d’impôt conformément à l’alinéa 81(1)a) de la Loi de l’impôt sur le revenu fédérale. Néanmoins, le ministre du Revenu national (le ministre) a traité le revenu d’emploi de M. Orr pour 2013 comme un revenu imposable. Par une nouvelle cotisation établie le 12 mars 2015, le ministre a confirmé que le revenu d’emploi de M. Orr pour l’année d’imposition 2013 était imposable; d’où le présent appel.
+[3] M. Orr prétend que son revenu d’emploi pour 2013 est exonéré d’impôt en vertu de l’alinéa 81(1)a) de la Loi de l’impôt sur le revenu parce ce revenu faisait partie des « biens meubles d’un Indien […] situés sur une réserve » selon l’alinéa 87(1)b) de la Loi sur les Indiens. Cette disposition est libellée ainsi :
+87(1) Nonobstant toute autre loi fédérale ou provinciale, mais sous réserve de l’article 83 et de l’article 5 de la Loi sur la gestion financière des premières nations, les biens suivants sont exemptés de taxation […] b) les biens meubles d’un Indien ou d’une bande situés sur une réserve. (non souligné dans l’original)
+[4] En outre, le terme « réserve » est défini au paragraphe 2(1) de la Loi sur les Indiens. Il s’agit d’une
+[p]arcelle de terrain dont Sa Majesté est propriétaire et qu’elle a mise de côté à l’usage et au profit d’une bande;
+y sont assimilées les terres désignées, sauf pour l’application du paragraphe 18(2), des articles 20 à 25, 28, 37, 38, 42, 44, 46, 48 à 51 et 58 à 60, ou des règlements pris sous leur régime.
+De plus, au paragraphe 2(1) l’expression « terres désignées » figure dans la définition du mot « réserve ». Il s’agit d’une
+[p]arcelle de terrain, ou tout droit sur celle-ci, propriété de Sa Majesté et relativement à laquelle la bande à l’usage et au profit de laquelle elle a été mise de côté à titre de réserve a cédé, avant ou après l’entrée en vigueur de la présente définition, ses droits autrement qu’à titre absolu.
+De plus, l’alinéa 81(1)a) de la Loi de l’impôt sur le revenu mentionné précédemment est libellé ainsi :
+Sommes à exclure du revenu – Ne sont pas inclus dans le calcul du revenu d’un contribuable pour une année d’imposition :
+A) Exemptions prévues par une autre loi [notamment la Loi sur les Indiens] – une somme exonérée de l’impôt sur le revenu par toute autre loi fédérale, autre qu’un montant reçu ou à recevoir par un particulier qui est exonéré en vertu d’une disposition d’une convention ou d’un accord fiscal conclu avec un autre pays et qui a force de loi au Canada;
+[5] Les parties ont déposé un exposé conjoint des faits, dans lequel figurent les faits suivants : M. Orr est un Indien inscrit; la Couronne fédérale et la Nation crie de Bigstone ont conclu un accord de règlement en date du 18 décembre 2009; L’annexe 10 de cet accord de règlement est l’accord de règlement de la Première Nation de Peerless Trout relatif aux terres visées par un traité; en 2013, M. Orr a travaillé dans le nord de l’Alberta pour le district municipal d’Opportunity no 17 [MDO17], gagnant un revenu d’emploi de 55 971 $; son travail consistait à fournir des services de sécurité aux collectivités de Peerless Lake et de Trout Lake; la Première Nation de Peerless Trout a une réserve désignée Peerless Trout 238, de 3 553,20 hectares de terres; et la réserve a été créée en 2016.
+[6] La Couronne intimée prétend que le revenu d’emploi de M. Orr pour 2013 ne faisait pas partie des « biens meubles d’un Indien […] situés sur une réserve » selon l’alinéa 87(1)b) de la Loi sur les Indiens parce ce revenu n’était pas un bien meuble « situé sur une réserve ». La Couronne intimée affirme qu’en 2013 et même maintenant, il n’y a pas de réserve qui englobe les collectivités de Peerless Lake et de Trout Lake où M. Orr travaillait pour gagner son revenu de 2013 comme employé du MDO17.
+[7] M. Orr a témoigné. Pour résumer son témoignage, il a grandi dans la collectivité de Peerless Lake. Il a été employé en 2013 par le district municipal MDO17 comme agent de sécurité et de contrôle des animaux. Il accomplissait son travail principalement dans le secteur des deux petites collectivités de Trout Lake et de Peerless Lake, qui se trouvent à 18 kilomètres de distance l’une de l’autre. Il a déclaré que, pendant un an, il a plutôt travaillé dans la région de Red Earth Creek, une autre petite collectivité du MDO17, mais il ne savait pas de quelle année il s’agissait. Lors de son réinterrogatoire mené par son avocate, M. Orr a rappelé qu’il avait produit sa déclaration de 2013 alors qu’il travaillait dans les collectivités de Peerless Lake et de Trout Lake. Dans la plaidoirie, rien n’indiquait que M. Orr avait effectué ses tâches dans le cadre de son emploi de 2013 ailleurs que dans les collectivités de Trout Lake et de Peerless Lake.
+[8] L’accord de règlement de 2009 conclu entre la Couronne fédérale et la Nation crie de Bigstone, évoquait, notamment, un accord visant la création de la Première Nation de Peerless Trout en tant que « bande » en vertu de la Loi sur les Indiens, avec des terres désignées pour la création d’une réserve pour cette nouvelle bande.
+[9] M. Orr était au courant de l’accord de règlement de la Première Nation de Peerless Trout relatif aux terres visées par un traité daté du 21 juillet 2010 entre la Première Nation de Peerless Trout (PNPT) et la Couronne fédérale. Il y a reconnu le paragraphe 4, intitulé [traduction] « Identification et transfert de la PNPT et des terres visées par règlement pour la création de réserves ». Il est rédigé ainsi : [traduction]
+Les parties reconnaissent que l’Alberta doit transférer l’administration et le contrôle des terres visées par le règlement de la PNPT au Canada aux fins de la création de réserves afin qu’au moins soixante-trois mille (63 000) acres de terres, comme il est indiqué aux annexes C, D, E et F de l’accord du Canada – Alberta, soient mis à la disposition pour la création de réserves pour la PNPT.
+[10] De plus, M. Orr a indiqué que l’annexe C mentionnée dans ce paragraphe 4 est un plan gouvernemental délimitant certaines des terres devant être mises à la disposition pour la création de réserves pour la PNPT. L’annexe C est intitulée « Droits fonciers issus du traité de Bigstone et de Peerless Trout ».
+[11] Cette annexe C représente l’une des sept parcelles de terre mises à la disposition pour la création d’une réserve pour la PNPT. Les six autres parcelles sont décrites dans les annexes D, E, F, G, H et I de l’accord de règlement de la PNPT relatif aux terres visées par un traité. Les annexes D et E, par exemple, sont des plans gouvernementaux semblables de terres et intitulés respectivement « Droits fonciers issus du traité de Bigstone et de Gods Lake » et « Droits fonciers issus du traité de Bigstone et de Twin Lakes ».
+[12] De plus, dans le recueil de documents déposé conjointement par les parties (la pièce A-2), M. Orr a indiqué à l’onglet 4 un plan désigné « 103535CLSR », intitulé « Entente relative à la division de Peerless Trout en quatre zones plus petites ». Il porte la date manuscrite du 4 décembre 2014 et montre la parcelle de terre mentionnée précédemment de l’annexe C, « divisée en quatre zones plus petites », désignée comme les zones 1, 2, 3 et 4.
+[13] L’autre témoin en l’espèce était Mme Lise Harmonic, employée au sein du ministère fédéral des Services aux Autochtones Canada. Elle occupe le poste de gestionnaire, à Edmonton, à l’[traduction] « unité chargée de la consultation et de l’ajout aux réserves ». Elle a témoigné au sujet de ce qu’elle a désigné comme étant les quatre étapes du processus de création de réserves du gouvernement fédéral. La première étape est la demande qui consiste à recevoir une demande officielle d’une ou d’un groupe de Premières Nations demandant que des terres précises soient ajoutées à une réserve existante ou qu’une nouvelle réserve soit créée. La deuxième étape consiste à s’assurer que tous les renseignements requis sont inclus dans la demande.
+[14] Elle a déclaré lors de son témoignage que la troisième étape est plus laborieuse. Le ministère travaille avec la ou les Premières Nations données pour cerner ensemble tous les intérêts des tiers concernés par les terres revendiquées. Ces intérêts pourraient être un intérêt existant dans la terre comme un droit de passage, une servitude, un permis, un bail, etc. Essentiellement, dans ces situations, lors de la négociation, le formulaire provincial de droit foncier est remplacé par un formulaire fédéral. Le ministère travaille avec la ou les Premières Nations requérantes pour négocier des dispositions de remplacement de ces tiers autant que possible et lorsque cela est possible, pour que les intérêts des tiers soient satisfaits.
+[15] Elle a ajouté qu’en fonction de leur nombre, les intérêts des tiers peuvent prendre beaucoup de temps à être satisfaits. Les intérêts de tiers incluraient les pipelines souterrains pour le pétrole et le gaz, ou l’eau; ou des travaux de surface comme un usage routier; ou un bail pétrolier et gazier.
+[16] Une fois que tous ces intérêts sont satisfaits et que les études et les travaux environnementaux sont terminés, le gouvernement peut passer à la quatrième étape qui est, essentiellement, l’approbation ministérielle. Le décret ministériel est préparé et l’unité de Mme Harmonic cherche à anticiper les questions que le cabinet du ministre pourrait avoir. Finalement, ce ministre signe l’arrêté ministériel et la terre est mise de côté en tant que réserve.
+[17] Mme Harmonic a déclaré lors de son témoignage que ces étapes pour l’ajout de terres aux réserves et la création de réserves sont conformes à la Loi sur l’ajout de terres aux réserves et la création de réserves fédérale (sanctionnée 2018-12-13). Je fais remarquer que cette loi a remplacé la Loi sur la mise en œuvre de mesures concernant le règlement de revendications (Alberta et Saskatchewan) (L.C. 2002, ch. 3) qui était en vigueur à tous les moments pertinents du présent appel, et jusqu’à son abrogation le 27 août 2019.
+[18] Le paragraphe 5(1) de cette loi désormais abrogée disposait, sous l’en-tête « Mise de côté de terres » que « Le ministre [fédéral] [des Affaires autochtones et du Nord Canada] peut, en conformité avec l’accord auquel s’applique la présente loi, mettre de côté à titre de réserve toute terre appartenant à Sa Majesté du chef du Canada ». L’article 2 dispose que le terme « réserve [s]’entend au sens de la Loi sur les Indiens ». Il est clair que l’acte essentiel dans la création d’une réserve est la mise de côté des terres pertinentes.
+[19] Fait intéressant, la Loi sur l’ajout de terres aux réserves et la création de réserves, actuellement en vigueur, dispose au paragraphe 4(1), également sous l’en-tête « Mise de côté de terres », que, « [s]ur demande du corps dirigeant d’une première nation, le ministre peut, par arrêté, mettre de côté à titre de réserve toutes terres qui appartiennent à Sa Majesté du chef du Canada ou dont cette dernière détient la gestion et la maîtrise ». L’article 2 dispose que le terme « réserve [s]’entend au sens du paragraphe 2(1) de la Loi sur les Indiens ».
+[20] On a montré à Mme Harmonic la pièce Plan A-2 que M. Orr avait indiquée, divisant en zones 1, 2, 3 et 4 la parcelle de terre de l’annexe C, [traduction] « qui est mise à la disposition pour la création d’une réserve pour la PNPT ». Elle a indiqué la zone 1 qui couvre la collectivité de Peerless Lake et la zone 4 qui englobe la collectivité de Trout Lake. Elle a déclaré que la terre de la zone 3 avait été créée comme réserve en 2016, mais qu’aucune des zones 1, 2 et 4 n’avait encore été créée en plus de la réserve actuelle de 2016.
+[21] Elle a déclaré lors de son témoignage que les collectivités de Peerless Lake et de Trout Lake, englobées par les zones 1 et 4 mentionnées précédemment, n’avaient pas encore créé de réserves en raison de questions relatives aux tiers non encore résolues avec le MDO17 concernant certains actifs municipaux, notamment une usine de traitement des eaux, un étang d’eaux usées, un terrain de baseball, un aréna et un terrain d’aviation, que le MDO17 veut céder à la PNPT.
+[22] Elle a également déclaré lors de son témoignage que les terres des collectivités respectives de Peerless Lake et de Trout Lake (encore une fois, les zones 1 et 4) relèvent toujours de la compétence provinciale. L’Alberta n’a pas encore offert l’« administration et le contrôle » de ces terres au Canada. Elle a toutefois ajouté que cela pouvait se produire à tout moment.
+[23] Les deux avocates ont déposé des mémoires. La thèse de M. Orr est exposée aux paragraphes 16 et 17 du mémoire de son avocate, qui sont rédigés ainsi : [traduction]
+16. Conformément à l’accord de règlement, la réserve de Peerless Lake a été créée en 2010 et inscrite comme la réserve de la Première Nation de Peerless Trout dans la base de données des profils des Premières Nations. L’Alberta était constitutionnellement tenue de fournir un titre de propriété sur ces terres, conformément à la Loi constitutionnelle de 1930, Convention sur les ressources naturelles de l’Alberta, article 10. Il s’agissait d’un terme répété à de nombreuses reprises dans l’accord de règlement pour convertir ces terres en terres de réserve. Il n’est pas pertinent, pour l’application de l’exemption de taxation prévue à l’article 87 de la Loi sur les Indiens, que le titre ait ou non réellement été délivré au nom du Canada ou non.
+17. L’accord de règlement stipulait que la réserve était établie et que le titre devait être enregistré au nom du Canada une fois que tous les intérêts sur les terres auraient été satisfaits. Le Canada était tenu de le faire, sinon l’accord de règlement n’aurait pas été respecté. Il est prétendu que cette réserve a été établie dès le départ par l’accord de règlement et qu’elle aurait pu être enregistrée au nom du Canada n’eut été certains intérêts dans des baux pétroliers et gaziers qui devaient être satisfaits avant que le titre puisse être enregistré exclusivement au nom du Canada. L’article 36 de la Loi sur les Indiens s’applique à cette réserve et il est soutenu que le travail qu’Andrew Orr a effectué sur la réserve où il habite n’est pas imposable. (non souligné dans l’original)
+[24] Cet extrait fait valoir qu’une réserve a été établie en 2010 conformément à l’accord de règlement de 2009, visant la collectivité de Peerless Lake, où M. Orr a vécu et travaillé en partie au cours de son année d’imposition 2013. Dans le mémoire de l’appelant, les articles 3.1 et 16 de l’accord de règlement de 2009 sont mentionnés pour appuyer la première déclaration dans chacun de ces paragraphes 16 et 17 du mémoire de l’appelant.
+[25] L’article 3.1, intitulé [traduction] « Création de la Première Nation de Peerless Trout », ne mentionne que la création de cette Première Nation et non une réserve. Il est rédigé ainsi : [traduction]
+Conformément au pouvoir conféré au ministre en mai 2003, après le vote de ratification positif de cet accord par la NCB, le Canada prendra immédiatement toutes les mesures nécessaires pour constituer la Première Nation de Peerless Trout.
+[26] L’article 16, pratiquement à la fin de l’accord de règlement, est une clause de « garanties additionnelles », habituelle dans les contrats. Encore une fois, il n’y a aucune mention d’une réserve.
+[27] Ce que l’accord de règlement mentionne au sujet des réserves se trouve principalement à l’article 5, intitulé « Création de réserves », plus précisément les articles 5.1 et 5.30 rédigés ainsi : [traduction]
+5.1 Conformément aux modalités et conditions du présent accord, l’accord Canada-Alberta, et sous réserve des articles 5.6 à 5.16 et 25, inclusivement, dès que l’Alberta transfère l’administration et le contrôle de toutes terres visées par règlement au Canada, le Canada accepte ce transfert et prend toutes les mesures nécessaires pour mettre de côté en tant que réserve ces terres visées par le règlement de la NCB pour la NCB conformément au présent article et pour mettre de côté en tant que réserve ces terres visées par le règlement de la PNPT pour la PNPT conformément à l’accord de règlement de la Première Nation de Peerless Trout relatif aux terres visées par un traité. Plus précisément, le Canada déploiera des efforts raisonnables pour réaliser la création de réserves pour chaque parcelle de terres visées par le règlement au plus tard cinq ans après le transfert de l’administration et du contrôle de cette parcelle de terres visées par le règlement au Canada par l’Alberta.
+5.30 Les parties reconnaissent que les terres visées par le règlement de la PNPT seront mises de côté en tant que réserve par le Canada à l’usage et au profit de la PNPT conformément à l’accord de règlement relatif aux terres visées par un traité de la Première nation de Peerless Trout.
+[28] Là encore, rien dans ces dispositions n’évoque la création immédiate d’une réserve.
+[29] L’avocate de l’appelant a également mentionné la pièce A-3, étant une photocopie d’une page d’une base de données du gouvernement fédéral appelée « Profils des Premières Nations », pour indiquer qu’une réserve pertinente existait en 2010. Cependant, ce document d’une seule page ne montre aucune date de 2010 (ou autre) à l’exception de « Date de modification : 2021-12-07 ».
+[30] Le document s’intitule « Réserve/Établissement/Village ». Il indique 3 553,20 hectares et « Peerless Trout 238 ». Je comprends qu’il s’agit de la réserve créée en 2016, comme il est indiqué dans l’exposé conjoint des faits, couvrant la zone 3 de l’annexe C. Ces terres n’incluent ni les collectivités de Trout Lake ni celles de Peerless Lake, qui se trouvent dans les zones 1 et 4, comme il est indiqué précédemment.
+[31] Mme Harmonic a déclaré lors de son témoignage que même maintenant (en date de l’audience de mars 2022), les terres des zones 1 et 4 n’ont pas été « mises de côté », en raison de la négociation toujours en cours des intérêts des tiers.
+[32] Il en va de même quant aux éléments de preuve que l’avocate de l’appelant a fait valoir selon lesquels le gouvernement fédéral avait effectué un paiement ou des paiements à la bande de la Première Nation de Peerless Trout, créée en vertu de l’accord de règlement de 2009. À mon avis, cela ne prouve nullement l’existence d’une réserve englobant les collectivités de Peerless Lake et de Trout Lake, que ce soit en 2009, 2010, 2016 ou jusqu’à présent.
+[33] De plus, le mémoire de l’appelant renvoie, pour étayer l’affirmation de l’appelant sur la création de réserves en 2010, diverses dispositions de l’annexe 10 mentionnée précédemment de l’« accord de règlement de la Première Nation de Peerless relatif aux terres visées par un traité », daté du 21 juillet 2010. Il s’agit des articles 1 à 4, 9, 23, 27 à 29, 32 à 34, 36 à 39 et de l’article 1 de l’annexe A.
+[34] L’article 4 a déjà été mentionné. Il prévoit directement que l’Alberta doit transférer l’administration et le contrôle des terres visées par le règlement de la PNPT au Canada pour la création de la réserve de la PNPT, sans engagement à l’égard d’un quelconque échéancier.
+[35] L’article 23 traite de l’arpentage. Les articles 27 à 29 traitent des intérêts des tiers. Les articles 36 à 39 traitent des [traduction] « conditions de libération » entre la PNPT et le Canada en ce qui concerne, par exemple, l’alinéa 36a) – [traduction] « la qualité ou la quantité des terres à mettre de côté par le Canada en tant que réserve pour la PNPT ». L’article 1 de l’annexe A, fait partie d’une résolution du conseil de la PNPT demandant au ministre fédéral de mettre de côté en tant que réserve les terres visées par le règlement de la PNPT conformément à l’accord de règlement de la PNPT relatif aux terres visées par un traité.
+[36] Plus particulièrement, les articles 33 et 34, sous l’en-tête [traduction] « Mise de côté en tant que réserve », est rédigé ainsi : [traduction]
+33. Sous réserve des articles 1 et 5, dès que possible après la réception des résolutions pertinentes du conseil de bande en vertu des articles 9, 10, 12, 13, 25 et 30, ou là ‘expiration de tout délai imparti, et dès le transfert de l’administration et du contrôle de l’une des terres visées par le règlement de la PNPT par l’Alberta au Canada et l’acceptation du transfert par le Canada, le ministre mettra de côté les terres visées par le règlement de la PNPT en tant que terres de réserve à l’usage et au profit de la PNPT, sous réserve que la mise de côté des terres de réserve a été approuvée par le Canada conformément à ses politiques concernant les terres de réserve, plus précisément la Politique sur les ajouts aux réserves, et à la condition que l’accord de règlement de la NCB ait été ratifié par la NCB avant que le Canada ne prenne des mesures pour mettre de côté des terres en tant que réserve pour la PNPT.
+34. La PNPT reconnaît qu’avant le transfert de l’administration et du contrôle des terres visées par le règlement de la PNPT au Canada, l’Alberta continuera d’exercer sa compétence sur toutes les terres visées par le règlement de la PNPT qui n’ont pas encore été transférées au Canada et que les activités liées aux intérêts des tiers existants se poursuivront sur ces terres.
+[37] Ces dispositions n’indiquent rien non plus au sujet d’une création immédiate de réserves en 2010. Au contraire, elles prévoient un processus menant au transfert par l’Alberta au Canada de l’« administration et du contrôle » des terres visées par le règlement de la PNPT, avant que le Canada ne puisse « mettre de côté » ces terres en tant que réserves.
+[38] De plus, la définition mentionnée précédemment du terme « réserve » au paragraphe 2(1) de la Loi sur les Indiens exige, dans le cas d’une réserve, que la parcelle de terrain pertinente ait été [traduction] « mise de côté par Sa Majesté à l’usage et au profit d’une bande ». Cela ne s’est pas produit, selon le témoignage non contredit de Mme Harmonic, en raison des intérêts de tiers non encore satisfaits concernant les terres pertinentes, soit les zones 1 et 4 de l’annexe C.
+[39] L’Alberta n’a pas encore transféré l’« administration et le contrôle » de ces terres au Canada, afin de permettre à l’État d’effectuer la mise de côté. Par conséquent, il manque un élément clé de la définition du terme « réserve » – il n’est certainement pas présent dans l’année d’imposition 2013 de M. Orr, il y a maintenant neuf ans.
+[40] De plus, contrairement à la définition du terme « réserve », la Couronne fédérale n’est pas propriétaire du terrain. L’appelant invoque l’article 36 de la Loi sur les Indiens pour répondre à cette question. Il est rédigé ainsi : [traduction]
+36. La présente loi s’applique aux terres qui ont été mises de côté à l’usage et au profit d’une bande et qui n’appartiennent pas à Sa Majesté comme si elles étaient une réserve, au sens de la présente loi. (Non souligné dans l’original)
+[41] Cependant, il est clair que l’article 36 ne s’applique qu’aux « terres qui ont été mises de côté à l’usage et au profit d’une bande ». Ce n’est pas le cas en l’espèce, comme il a été examiné ci-dessus.
+[42] En conclusion, l’accord de règlement de décembre 2009 ne prévoit ni ne stipule qu’une réserve couvrant les zones 1 et 4 serait créée en 2010. Le règlement de la PNPT relatif aux terres visées par un traité non plus.
+[43] Le paragraphe 4 de l’accord de règlement de la PNPT relatif aux terres visées par un traité, énoncé ci-dessus, stipule clairement que l’Alberta doit transférer l’administration et le contrôle des terres devant être mises de côté en tant que réserves. Toutefois, une seule réserve anticipée des terres de l’annexe C a été créée à ce jour, soit la réserve de Peerless Trout 238 (c’est-à-dire la zone 3), créée en 2016. Cette réserve n’est pas pertinente à l’appel de M. Orr dans la mesure où les zones 1 et 4, et non la zone 3, se rapportent aux terres proposées aux fins de la création de réserve qui englobent les collectivités de Peerless Lake et de Trout Lake où M. Orr effectuait ses tâches dans le cadre de son emploi en 2013.
+[44] De plus, bien sûr, la création en 2016 de la réserve de la PNPT (zone 3) a eu lieu bien après l’année d’imposition 2013 de M. Orr.
+[45] En conclusion, on ne peut pas dire que le revenu d’emploi de M. Orr en 2013 était « situé sur une réserve » au sens de l’alinéa 87(1)b) de la Loi sur les Indiens, qui prévoit l’exemption de taxation, pour « les biens meubles d’un Indien […] situés sur une réserve ».
+[46] Le présent appel interjeté sous le régime de la procédure informelle est rejeté, sans dépens.
+Les présents motifs modifiés du jugement remplacent les motifs du jugement datés du 8 août 2022, afin de corriger les mots et chiffres soulignés au paragraphe 6 des présentes.
+Signé à Toronto, Ontario, ce 18e jour d’octobre 2022.
+« B. Russell »
+Le juge Russell
+RÉFÉRENCE :
+2022 CCI 88
+NO DU DOSSIER DE LA COUR :
+2015-1404(IT)I
+INTITULÉ :
+ANDREW ORR ET SA MAJESTÉ LE ROI
+LIEU DE L’AUDIENCE :
+Edmonton (Alberta)
+DATES DE L’AUDIENCE :
+Le 21 mars 2022
+MOTIFS DU JUGEMENT :
+L’honorable juge Bruce Russell
+DATE DU JUGEMENT :
+Le 18 octobre 2022
+COMPARUTIONS :
+Avocate de l’appelant :
+Me Priscilla Kennedy
+Avocate de l’intimée :
+Me Wendy Bridges
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Me Priscilla Kennedy
+Cabinet :
+DLA Piper (Canada) S.E.N.C.R.L.
+Pour l’intimé :
+Me François Daigle
+Sous-procureur général du Canada
+Ottawa, Canada

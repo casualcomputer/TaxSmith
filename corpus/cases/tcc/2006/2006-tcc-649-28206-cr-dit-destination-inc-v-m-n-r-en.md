@@ -1,0 +1,408 @@
+---
+title: "Crédit Destination Inc. v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28206/index.do"
+last_modified: "2006-12-20"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 TCC 649"
+citation2: ""
+neutral_citation: "2006 TCC 649"
+decision_date: "2006-12-20"
+language: "en"
+item_id: "28206"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2020
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T21:27:06.014000+00:00"
+cases_cited_count: 4
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "4bf55bdb18ce2ccfaee94fe9b0b72f52ce8665c2e12c9b49f88d45c4e26bbe15"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Crédit Destination Inc. v. M.N.R.
+
+- Citation: 2006 TCC 649
+- Decision date: 2006-12-20
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2020, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Crédit Destination Inc. v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-12-20
+Neutral citation
+2006 TCC 649
+File numbers
+2006-1795(EI)
+Judges and Taxing Officers
+Sylvio J. Savoie
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2006-1795(EI)
+BETWEEN:
+CRÉDIT DESTINATION INC.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on common evidence with the appeals of 3415201 Canada Inc. (NCN) (2006‑1796(EI) and 2006-2162(EI)), 3415201 Canada Inc. (Crédit Placement Ressources) (2006‑1799(EI)) and Crédit Destination Inc. (2006-2158(EI)),
+on September 21, 2006, at Montréal, Quebec
+Before: The Honourable Deputy Judge S.J. Savoie
+Appearances:
+Agent for the Appellant:
+Kurt Pfeifer
+Counsel for the Respondent:
+Christina Ham
+____________________________________________________________________
+JUDGMENT
+The appeal is dismissed and the Minister's decision is confirmed in accordance with the attached Reasons for Judgment.
+Signed at Grand-Barachois, New Brunswick, this 20th day of December 2006.
+"S.J. Savoie"
+Savoie D.J.
+Translation certified true
+on this 3rd day of August 2007.
+Brian McCordick, Translator
+Docket: 2006-1796(EI)
+BETWEEN:
+3415201 CANADA INC. (NCN),
+Appellant,
+And
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on common evidence with the appeals of Crédit Destination Inc. (2006-1795(EI) and 2006-2158(EI)), 3415201 Canada Inc. (NCN) (2006-2162(EI)), 3415201 Canada Inc. (Crédit Placement Ressources) (2006‑1799(EI)),
+on September 21, 2006, at Montréal, Quebec
+Before: The Honourable Deputy Judge S.J. Savoie
+Appearances:
+Agent for the Appellant:
+Kurt Pfeifer
+Counsel for the Respondent:
+Christina Ham
+____________________________________________________________________
+JUDGMENT
+The appeal is dismissed and the Minister's decision is confirmed in accordance with the attached Reasons for Judgment.
+Signed at Grand-Barachois, New Brunswick, this 20th day of December 2006.
+"S.J. Savoie"
+Savoie D.J.
+Translation certified true
+on this 3rd day of August 2007.
+Brian McCordick, Translator
+Docket: 2006-2162(EI)
+BETWEEN:
+3415201 CANADA INC. (NCN),
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on common evidence with the appeals of Crédit Destination Inc. (2006-1795(EI) and 2006-2158(EI)), 3415201 Canada Inc. (NCN) (2006-1796(EI)), and 3415201 Canada Inc. (Crédit Placement Ressources) (2006‑1799(EI)),
+on September 21, 2006, at Montréal, Quebec
+Before: The Honourable Deputy Judge S.J. Savoie
+Appearances:
+Agent for the Appellant:
+Kurt Pfeifer
+Counsel for the Respondent:
+Christina Ham
+____________________________________________________________________
+JUDGMENT
+The appeal is dismissed and the Minister's decision is confirmed in accordance with the attached Reasons for Judgment.
+Signed at Grand-Barachois, New Brunswick, this 20th day of December 2006.
+"S.J. Savoie"
+Savoie D.J.
+Translation certified true
+on this 3rd day of August 2007.
+Brian McCordick, Translator
+Docket: 2006-1799(EI)
+BETWEEN:
+3415201 CANADA INC. (CRÉDIT PLACEMENT RESSOURCES),
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on common evidence with the appeals of Crédit Destination Inc. (2006‑1795(EI) and 2006-2158(EI)) and 3415201 Canada Inc. (NCN) (2006‑1796(EI) and 2006-2162(EI)), on September 21, 2006, at Montréal, Quebec
+Before: The Honourable Deputy Judge S.J. Savoie
+Appearances:
+Agent for the Appellant:
+Kurt Pfeifer
+Counsel for the Respondent:
+Christina Ham
+____________________________________________________________________
+JUDGMENT
+The appeal is dismissed and the Minister's decision is confirmed in accordance with the attached Reasons for Judgment.
+Signed at Grand-Barachois, New Brunswick, this 20th day of December 2006.
+"S.J. Savoie"
+Savoie D.J.
+Translation certified true
+on this 3rd day of August 2007.
+Brian McCordick, Translator
+Docket: 2006-2158(EI)
+BETWEEN:
+CRÉDIT DESTINATION INC.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on common evidence with the appeals of Crédit Destination Inc. (2006-1795(EI)), 3415201 Canada Inc. (NCN) (2006‑1796(EI) and 2006-2162(EI)) and 3415201 Canada Inc. (Crédit Placement Ressources) (2006‑1799(EI)),
+on September 21, 2006, at Montréal, Quebec
+Before: The Honourable Deputy Judge S.J. Savoie
+Appearances:
+Agent for the Appellant:
+Kurt Pfeifer
+Counsel for the Respondent:
+Christina Ham
+____________________________________________________________________
+JUDGMENT
+The appeal is dismissed and the Minister's decision is confirmed in accordance with the attached Reasons for Judgment.
+Signed at Grand-Barachois, New Brunswick, this 20th day of December 2006.
+"S.J. Savoie"
+Savoie D.J.
+Translation certified true
+on this 3rd day of August 2007.
+Brian McCordick, Translator
+Citation: 2006TCC649
+Date: 20061220
+Docket: 2006-1795(EI)
+BETWEEN:
+CRÉDIT DESTINATION INC.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+AND
+Docket: 2006-1796(EI)
+3415201 CANADA INC. (NCN),
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+AND
+Docket: 2006-1799(EI)
+3415201 CANADA INC. (CRÉDIT PLACEMENT RESSOURCES),
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+AND
+Docket: 2006-2158(EI)
+CRÉDIT DESTINATION INC.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+AND
+Docket: 2006-2162(EI)
+3415201 CANADA INC. (NCN),
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Savoie D.J.
+[1] These appeals were heard on common evidence at Montréal, Quebec, on September 21, 2006.
+[2] Dockets 2006-1795(EI) (Crédit Destination Inc.) ("File No. 1"), 2006‑1796(EI) (3415201 Canada Inc. (NCN)) ("File No. 2") and 2006-1799(EI) (Crédit Placement Ressources) ("File No. 3") pertain to the insurability of the Worker Martine Gaudet's employment and the determination of her hours of insurable work and her insurable earnings while she was working for the Appellants during the period in issue, that is to say, from January 3 to October 29, 2002.
+[3] The Minister of National Revenue ("the Minister") notified the Appellants on March 23 and March 24, 2006, of his decision that the Worker held insurable employment during the period in issue.
+[4] In addition, he notified the Appellant in File No. 1 that the Worker had 1427 hours of insurable employment and made $16,567.04 in insurable earnings during this period.
+[5] The Minister notified the Appellant in File No. 2 that the Worker had 145 hours of insurable employment and that her insurable earnings, for the last 14 pay periods, amounted to $1,675. He notified the Appellant in File No. 3 that the Worker had 33 hours of insurable employment during the period in issue and that her insurable earnings, for the last 14 pay periods, amounted to $465.50.
+[6] As for dockets 2006-2158(EI) (Crédit Destination Inc.) ("File No. 4") and 2006‑2162(EI) (3415201 Canada Inc. (NCN)) ("File No. 5"), they pertain solely to the Appellants' request that the Minister reconsider the employment insurance contribution assessment that he made in respect of the Worker Martine Gaudet for the year 2002.
+[7] The Minister notified the Appellants and the Worker, on March 23, 2006 (File No. 4) and on March 24, 2006 (File No. 5) that he was confirming the notices of assessment dated February 25, 2003.
+[8] At the hearing, the parties agreed that only the Replies to the Notice of Appeal in Files No. 1 and No. 2 would be considered because the notices are similar to each other.
+[9] In making his decisions, the Minister relied on the following assumptions of fact:
+[TRANSLATION]
+2006-1795(EI)
+(a) The Appellant runs a collections business. (admitted)
+(b) During the period in issue, the Appellant's shareholders were
+Kurt Pfeifer, with 33% of the shares, and
+Christian Guay, with 67% of the shares. (denied)
+(c) During the same period in issue, the Appellant also provided services to 3415201 Canada Inc., carrying on business as Crédit Placement Ressources and NCN (the two other Payors). (admitted)
+(d) Kurt Pfeifer was the sole shareholder of 3415201 Canada Inc. (denied)
+(e) The Appellant hired the Worker as a representative. (admitted subject to clarifications)
+(f) Toward the end of the period in issue, the Appellant and the Worker signed a work contract on September 1, 2002, describing the Worker as a [TRANSLATION] "subcontractor". (admitted)
+(g) The Worker's tasks and duties were
+- to develop the recruitment market by recruiting 75 to 100 new members,
+- to develop revenue generation and business strategies,
+- to establish contacts with client businesses in order to propose Groupe Réseau conferences to them,
+- to establish contacts and recruit new conference speakers for Groupe Réseau,
+- to be a conference hostess, and
+- to coordinate hall and audiovisual equipment rentals. (admitted)
+(h) The Worker rendered services to the Appellant in the Appellant's office part of the time, on the road part of the time, and from home part of the time. (admitted)
+(i) The Worker worked under the responsibility of Kurt Pfeifer. (admitted)
+(j) The Appellant asked the Worker to be available Monday to Friday from 8 a.m. to 5 p.m. and to be at the office on Mondays, Tuesdays and Fridays.
+(k) The Worker submitted weekly reports to Kurt Pfeifer.
+(l) The Worker received fixed pay of $100 per day worked and was also paid commissions. (admitted)
+(m) The Worker had the following benefits:
+- a monthly fixed allowance of one-fifth of $325.00 ($65.00) for the use of her car, and
+- one-fifth of the cell phone, fuel and parking expenses paid by the business. (admitted)
+(n) Despite the Appellant's intention, stated in the work contract, to consider the Worker a subcontractor, the Worker rendered services to the Appellant under a true contract of employment during the period in issue. (denied)
+(o) The Worker's hours and remuneration were determined based on the salesperson Martine Gaudet's [TRANSLATION] "Remittance/Payment" sheets. (admitted)
+(p) The Appellant and the two other Payors paid the Worker. (admitted)
+(q) The Worker's working hours were calculated by prorating them to each of the Payors as follows:
+- for the Appellant: 1427 hours,
+- for 3415201 Canada Inc. (NCN): 145 hours, and
+- for 3415201 Canada Inc. (Crédit Placement Ressources): 33 hours. (admitted)
+(r) The Worker's remuneration was calculated by prorating it to each of the Payors as follows:
+- for the Appellant: $16,567.04,
+- for 3415201 Canada Inc. (NCN): $1,675.00, and
+- for 3415201 Canada Inc. (Crédit Placement Ressources): $465.50. (admitted)
+2006-1796(EI)
+(a) The Appellant operates a placement business under several business names, including NCN (National Credit News) and Crédit Placement Ressources. (admitted)
+(b) Kurt Pfeifer was the Appellant's sole shareholder. (admitted)
+(c) During the same period in issue, the Appellant also rendered services to 3415201 Canada Inc., carrying on business under the business name Crédit Placement Ressources, and to Crédit Destination Inc. (both of the other Payors). (admitted)
+(d) Kurt Pfeifer held 33% of the voting shares of Crédit Destination Inc. (admitted subject to clarifications)
+(e) The Appellant hired the Worker as a major accounts director. (admitted)
+(f) The Appellant, operating under the business name Placement Ressources/Crédit Placement Ressources, and the Worker signed a work contract on August 12, 2002, which designated the Worker as a "subcontractor". (admitted)
+(g) The Worker's duties and responsibilities were
+- to develop the personnel recruitment and placement market,
+- to develop revenue generation and business strategies, and
+- to establish contacts with client businesses in order to propose solutions to them (admitted)
+(h) The Worker rendered services to the Appellant at its office some of the time, on the road some of the time, and from her home some of the time. (admitted)
+(i) The Worker worked under the responsibility of Kurt Pfeifer. (admitted)
+(j) The Appellant asked the Worker to be available Monday to Friday from 8 a.m. to 5 p.m. and to be at the office on Mondays, Tuesdays and Fridays. (admitted)
+(k) The Worker submitted weekly reports to Kurt Pfeifer. (admitted)
+(l) The Worker received fixed pay of $100 per day worked and was also paid commissions. (admitted)
+(m) In order to receive a performance bonus from the Appellant, the Worker had to meet a monthly quota determined by the Appellant. (admitted)
+(n) The Worker received the following benefits:
+- a monthly fixed allowance of four-fifths of $325.00 ($260.00) for the use of her car, and
+- four-fifths of the cell phone, fuel and parking expenses paid by the business. (admitted)
+(o) The Worker had to be available for unpaid training sessions on evenings and weekends. (admitted)
+(p) Despite the Appellant's intention, expressed in the work contract, to consider the Worker a subcontractor, the Worker rendered services to the Appellant under a true contract of employment during the period in issue. (denied)
+(q) The Worker's hours and remuneration were determined based on the salesperson Martine Gaudet's [TRANSLATION] "Remittance/Payment" sheets. (admitted).
+(r) The Appellant and the two other Payors paid the Worker. (admitted)
+(s) The Worker's working hours were calculated by prorating them to each of the Payors as follows:
+- for Crédit Destination Inc.: 1427 hours,
+- for the Appellant (NCN): 145 hours, and
+- for 3415201 Canada Inc. (Crédit Placement Ressources): 33 hours. (admitted)
+(t) The Worker's remuneration was calculated by prorating it to each of the Payors as follows:
+- for Crédit Destination Inc.: $16,567.04,
+- for the Appellant (NCN): $1,675.00, and
+- for 3415201 Canada Inc. (Crédit Placement Ressources): $465.50. (admitted)
+[10] In Files No. 1 and No. 2, the Appellants admitted to all the Minister's assumptions of fact that are relevant to the case.
+[11] It has been shown that when the Worker began working with the Appellant, she had no work experience in the field. She was trained by Kurt Pfeifer from the very beginning. She learned her duties with him and worked under his immediate supervision. She testified that Mr. Pfeifer monitored her work closely and that she was under close and continuous supervision. She also said that Mr. Pfeifer's control was like a [TRANSLATION] "snake wound around me". She said that she was constantly in Kurt Pfeifer's company, that she reported to him every day, and that she was, in her view, under [TRANSLATION] "an enormous amount of supervision."
+[12] It has been shown that the Appellants were always able to contact the Worker. The Worker said that she did not feel self-employed at all and that she was Mr. Pfeifer's right-hand person. Her working relationship with him was very intense. She described Mr. Pfeifer as a businessman who supervises his business and his employees very closely.
+[13] The evidence discloses that the Worker's absences were always controlled by the Appellants.
+[14] The issue in dockets 2006-1795(EI), 2006-1796(EI) and 2006‑1799(EI) is whether the Worker held insurable employment for the purposes of the Employment Insurance Act ("the Act"). The second matter for determination is whether the Minister's decision to confirm the assessments that he made in dockets 2006‑2158(EI) and 2006-2162(EI) should be vacated. I will first consider the issue of insurability in the first three files. It should be noted that my finding will decide this issue in the other two files as well.
+[15] The relevant provision is paragraph 5(1)(a) of the Act, which states as follows:
+5. (1) Subject to subsection (2), insurable employment is
+(a) employment in Canada by one or more employers, under any express or implied contract of service or apprenticeship, written or oral, whether the earnings of the employed person are received from the employer or some other person and whether the earnings are calculated by time or by the piece, or partly by time and partly by the piece, or otherwise;
+[Emphasis added.]
+[16] The section quoted above defines the term "insurable employment". The term means employment under a contract of service, i.e. a contract of employment. However, the Act does not define what constitutes such a contract. In the case at bar, there is a written contract which expresses the parties' intent.
+[17] A contract of service is a civil law concept found in the Civil Code of Québec. The nature of the contract in issue must therefore be ascertained by reference to the relevant provisions of the Code.
+[18] In an article entitled [TRANSLATION] "Contract of Employment: Why Wiebe Door Services Ltd. Does Not Apply in Quebec and What Should Replace It", published in the fourth quarter of 2005 by the Association de planification fiscale et financière (APFF) and the Department of Justice Canada in the Second Collection of Studies in Tax Law as part of a series called The Harmonization of Federal Legislation with Quebec Civil Law and Canadian Bijuralism, Justice Pierre Archambault of this Court, referring to all periods subsequent to May 30, 2001, describes the steps that courts must go through, since the coming into force on June 1, 2001, of section 8.1 of the Interpretation Act, R.S.C. 1985, c. I-21, as amended, when confronted with a dispute such as the one before us. Here is what Parliament declared in this provision:
+Property and Civil Rights
+8.1 Both the common law and the civil law are equally authoritative and recognized sources of the law of property and civil rights in Canada and, unless otherwise provided by law, if in interpreting an enactment it is necessary to refer to a province’s rules, principles or concepts forming part of the law of property and civil rights, reference must be made to the rules, principles and concepts in force in the province at the time the enactment is being applied.
+[Emphasis added.]
+[19] It is useful to reproduce the relevant provisions of the Civil Code, which will serve to determine whether an employment contract, as distinguished from a contract of enterprise, exists:
+Contract of employment
+2085. A contract of employment is a contract by which a person, the employee, undertakes for a limited period to do work for remuneration, according to the instructions and under the direction or control of another person, the employer.
+2086. A contract of employment is for a fixed term or an indeterminate term.
+. . .
+Contract of enterprise or for services
+2098. A contract of enterprise or for services is a contract by which a person, the contractor or the provider of services, as the case may be, undertakes to carry out physical or intellectual work for another person, the client or to provide a service, for a price which the client binds himself to pay.
+2099. The contractor or the provider of services is free to choose the means of performing the contract and no relationship of subordination exists between the contractor or the provider of services and the client in respect of such performance.
+[Emphasis added.]
+[20] The provisions of the Civil Code reproduced above establish three essential conditions for the existence of an employment contract: (1) the worker's prestation in the form of work; (2) remuneration by the employer for this work; and (3) a relationship of subordination. The significant distinction between a contract for service and a contract of employment is the existence of a relationship of subordination, meaning the employer has the power of direction or control over the worker.
+[21] Legal scholars have reflected on the concept of "power of direction or control" and, from the reverse perspective, a relationship of subordination. Here is what Robert P. Gagnon wrote in Le droit du travail du Québec, 5th ed. (Cowansville, Que.: Yvon Blais, 2003):
+[TRANSLATION]
+(c) Subordination
+90 – A distinguishing factor – The most significant characteristic of an employment contract is the employee's subordination to the person for whom he or she works. This is the element that distinguishes a contract of employment from other onerous contracts in which work is performed for the benefit of another for a price, e.g. a contract of enterprise or for services governed by articles 2098 et seq. C.C.Q. Thus, while article 2099 C.C.Q provides that the contractor or provider of services remains "free to choose the means of performing the contract" and that "no relationship of subordination exists between the contractor or the provider of services and the client in respect of such performance," it is a characteristic of an employment contract, subject to its terms, that the employee personally perform the agreed upon work under the direction of the employer and within the framework established by the employer.
+. . .
+92 – Concept – Historically, the civil law initially developed a "strict" or "classical" concept of legal subordination that was used for the purpose of applying the principle that a master is civilly liable for damage caused by his servant in the performance of his duties (article 1054 C.C.L.C.; article 1463 C.C.Q.). This classical legal subordination was characterized by the employer's direct control over the employee's performance of the work, in terms of the work and the way it was performed. This concept was gradually relaxed, giving rise to the concept of legal subordination in the broad sense. The reason for this is that the diversification and specialization of occupations and work methods often made it unrealistic for an employer to be able to dictate or even directly supervise the performance of the work. Consequently, subordination came to include the ability of the person who became recognized as the employer to determine the work to be performed, and to control and monitor the performance. Viewed from the reverse perspective, an employee is a person who agrees to integrate into the operational structure of a business so that the business can benefit from the employee's work. In practice, one looks for a certain number of indicia of the ability to control (and these indicia can vary depending on the context): mandatory presence at a workplace; a somewhat regular assignment of work; the imposition of rules of conduct or behaviour; an obligation to provide activity reports; control over the quantity or quality of the services, etc. The fact that a person works at home does not mean that he or she cannot be integrated into a business in this way.
+[Emphasis added.]
+[22] It must be specified that what characterizes a contract of employment is not the fact that the employer actually exercised direction or control, but the fact that the employer had the power to do so. In Gallant v. M.N.R., A‑1421‑84, May 22, 1986, [1986] F.C.J. No. 330 (Q.L.), Pratte J.A. of the Federal Court of Appeal stated:
+. . . The distinguishing feature of a contract of service is not the control actually exercised by the employer over his employee but the power the employer has to control the way the employee performs his duties. . . .
+[23] This Court's task, as it determines the type of contract, under Quebec law, which applies to the parties, is to consider and follow the approach adopted by Justice Archambault of this Court in the above cited publication, whose theme he referred to in Vaillancourt v. Minister of National Revenue, No. 2003‑4188(EI), June 27, 2005, 2005 TCC 328, [2005] T.C.J. No. 685, where he wrote as follows:
+[15] In my opinion, the rules governing the contract of employment in Quebec law are not identical to those in common law and as a result, it is not appropriate to apply common law decisions such as Wiebe Door Services Ltd. v. M.N.R., [1986] 3 F.C. 553 (F.C.A.) and 671122 Ontario Ltd. v. Sagaz Industries Canada Inc., [2001] 2 S.C.R. 983, 2001 SCC 59. In Quebec, a court has no other choice but to decide whether a relationship of subordination exists or not to decide whether a contract is a contract of employment or a contract for service.
+[16] The approach that must be followed is the one adopted, inter alia, by Létourneau J.A. of the Federal Court of Appeal who determined, in D & J Driveway Inc. v. Canada (2003), 322 N.R. 381, 2003 FCA 453, that an employment contract existed based on the provisions of the Civil Code, and, in particular, on the absence of a relationship of subordination, which is the "essential feature of the employment contract."
+[24] In the case at bar, is there a relationship of subordination between the Worker and the Appellants based on which it can be found that a contract of employment existed? In carrying out the mandate conferred on this court, I have found the reasoning of Dussault J. of this Court in Lévesque v. Minister of National Revenue, No. 2004-4444(EI), April 18, 2005, [2005] T.C.J. No. 183, to be helpful:
+24 Furthermore, in D & J Driveway Inc. v. Canada, F.C.A., No. A‑512‑02, November 27, 2003 N.R. 381, [2003] F.C.J. No. 1784 (Q.L.), Létourneau J. of the Federal Court of Appeal stated that an employer/employee relationship is not necessarily present just because a payer can control the result of the work. Létourneau J. formulated his reasons as follows at paragraph 9 of the decision:
+9 A contract of employment requires the existence of a relationship of subordination between the payer and the employees. The concept of control is the key test used in measuring the extent of the relationship. However, as our brother Décary J.A. said in Charbonneau v. Canada (Minister of National Revenue - M.N.R.), [1996] F.C.J. No. 1337, [1996] 207 N.R. 299, followed in Jaillet v. Canada (Minister of National Revenue - M.N.R.), 2002 FCA 394, control of the result and control of the worker should not be confused. At paragraph 10 of the decision, he wrote:
+It is indeed rare for a person to give out work and not to ensure that the work is performed in accordance with his or her requirements and at the locations agreed upon. Monitoring the result must not be confused with controlling the worker.
+25 In the instant case, did a relationship of subordination exist between Ms. St-Jules and Mr. Lévesque, on the basis of which we can conclude that a contract of employment existed? Several factors can be considered in order to detect the presence or absence of a relationship of subordination. In her decision in Seitz v. Entraide populaire de Lanaudière inc., Court of Quebec [Civil Division] No. 705‑22‑002935‑003, November 16, 2001, [2001] J.Q. No. 7635 (Q.L.), Monique Fradette J. of the Court of Quebec set out a series of factors on the basis of which it could be determined whether a relationship of subordination existed or not. She expressed herself on this point in paragraphs 60 to 62 of the decision:
+60 The caselaw requires, in order for there to be a contract of service, the existence of a right of supervision and immediate direction. The mere fact that a person gives general instructions about the way in which the work is to be performed, or that he reserves the right to inspect and supervise the work, is not sufficient to convert the agreement into a contract of employment.
+61 A series of factors developed by the caselaw allows the Court to determine whether or not a relationship of subordination exists between the parties.
+62 The indicators of control [include]:
+· obligatory presence at a place of work
+· compliance with the work schedule
+· control of the absences of the employee for vacations
+· the submission of activity reports
+· control of the quantity and quality of work
+· the imposition of ways in which the work is to be performed
+· the power of sanction over the employee's performance
+· source deductions
+· benefits
+· [employee status on their income tax returns]
+· the exclusive nature of services for the employer
+[25] The evidence discloses that the Worker used an office provided to her by the Appellant and worked there five days a week. Three corporations shared her services. She devoted three days per week to the Appellant and one day each to 3415201 Canada Inc. (NCN) and 3415201 Canada Inc. (Crédit Placement Ressources). It has been shown that the Worker also carried out certain duties on the road, such as visiting customers, in accordance with her duties as a representative. When she was out of the office, she was always within the Appellant's reach, and she reported to the Appellant on her cellular phone. She had to consult Kurt Pfeifer frequently so that she could confirm her prices to the customers. Visits to the different businesses, and prospecting and solicitation work, were part of her duties as a representative. In carrying out her duties, she was under the close supervision of her immediate superior Kurt Pfeifer.
+[26] Exhibit I-1, entitled "Contrat de travail" [Contract of Employment], was tendered at the hearing. This is the same name that the Quebec legislature has given to the relationship of a person who carries out her duties, as an employee, for an employer who has control over the work that she provides. Specifically, article 2085 of the Civil Code defines the status of an employee under a contract of employment, a status that is different from that of a person who carries out her obligations under a contract of enterprise as defined in article 2098 of the Civil Code.
+[27] I also find it paradoxical that the Appellant is relying on Exhibit I‑1 as a basis on which to claim self-employed status for the Worker. In many respects, that document supports the conclusion that the Worker was performing her duties under a contract of employment. A reading of several provisions of this contract supports this conclusion, especially section 2.0, entitled [TRANSLATION] "purpose", under which one finds clause 2.01 entitled [TRANSLATION] "Position held", clause 2.02 entitled "Principal duties and responsibility", clause 2.03 entitled [TRANSLATION] "Immediate superior", and clause 2.04, which describes [TRANSLATION] ". . . The place where the subcontractor [the Worker] must report as often as agreed with her immediate superior is located at 240 St‑Jacques Street West, 9th Floor, Montréal, Quebec, or any other location required for the efficient operation of the business."
+[28] The Appellant sought to use this contract to prove that the Worker was self‑employed, but the document betrays that intent in many respects. For example, the Worker is granted an unpaid vacation period, but is required, under clause 3.05, to [TRANSLATION] "notify the business six (6) months before the date on which she plans to take her annual vacation". This obligation, imposed on a worker, is more characteristic of an employer-employee relationship.
+[29] Another factor that supports the conclusion that the contract is an employment contract is the Worker's obligation to submit activity reports to the Appellants. The description of her duties includes a requirement, imposed in clause 2.02, that the Worker [TRANSLATION] ". . . ensure that all requisite weekly reports (sales summary, updates, etc.) are submitted to Kurt Pfeifer every Friday without exception."
+[30] In my opinion, the relationship of subordination was established unequivocally at the hearing. The overall relationship between the parties clearly supports the existence of such a relationship.
+[31] In closing, it must be recalled that the Appellant bore the burden of proving that the Minister's assumptions were false. The Appellant has not done so.
+[32] In light of the foregoing, it is clear that the Appellant has not succeeded in discharging its burden. It should be added that the Appellant admitted to most of the assumptions on which the Minister relied in making his decision. In this regard, the rule enunciated by the Federal Court of Appeal in Elia v. Minister of National Revenue, A‑560-97, March 3, 1998, [1998] F.C.J. No. 316, where Pratte J.A. stated as follows, should be borne in mind:
+. . . the allegations in the reply to the notice of appeal, in which the Minister states the facts on which he based his decision, must be assumed to be true as long as the appellant has not proved them false.
+[33] The Court sees no merit in these appeals and cannot intervene to vary the decision made by the Minister in accordance with his mandate under the Act.
+[34] For all these reasons, the appeals are dismissed and the decisions made by the Minister are confirmed.
+Signed at Grand-Barachois, New Brunswick, this 20th day of December 2006.
+"S.J. Savoie"
+Savoie D.J.
+Translation certified true
+on this 3rd day of August 2007.
+Brian McCordick, Translator
+CITATION:
+2006TCC649
+COURT FILE NOS.:
+2006-1795(EI), 2006-1796(EI), 2006‑1799(EI), 2006‑2158(EI), 2006‑2162(EI)
+STYLE OF CAUSE:
+Crédit Destination Inc. and M.N.R. and 3415201 Canada Inc. (NCN) and M.N.R. and 3415201 Canada Inc. (Crédit Placement Ressources) and M.N.R.
+PLACE OF HEARING:
+Montréal, Quebec
+DATE OF HEARING:
+September 21, 2006
+REASONS FOR JUDGMENT BY:
+The Honourable
+Deputy Judge S.J. Savoie
+DATE OF JUDGMENT:
+December 20, 2006
+APPEARANCES:
+For the Appellants:
+Kurt Pfeifer
+Counsel for the Respondent:
+Christina Ham
+COUNSEL OF RECORD:
+For the Appellants:
+Name:
+Firm:
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

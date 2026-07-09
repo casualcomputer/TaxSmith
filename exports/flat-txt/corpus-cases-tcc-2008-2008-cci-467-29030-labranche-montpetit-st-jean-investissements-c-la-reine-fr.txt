@@ -1,0 +1,136 @@
+Title: Labranche, Montpetit, St-Jean Investissements c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29030/index.do
+Corpus path: corpus/cases/tcc/2008/2008-cci-467-29030-labranche-montpetit-st-jean-investissements-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2008-09-22
+
+# Labranche, Montpetit, St-Jean Investissements c. La Reine
+
+- Citation: 2008 CCI 467
+- Decision date: 2008-09-22
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6839, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Labranche, Montpetit, St-Jean Investissements c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-09-22
+Référence neutre
+2008 CCI 467
+Numéro de dossier
+2006-181(GST)G
+Juges et Officiers taxateurs
+Pierre Archambault
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2006-181(GST)G
+ENTRE :
+LABRANCHE, MONTPETIT,
+ST-JEAN INVESTISSEMENTS INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu les 12 et 13 juin 2008, à Montréal (Québec).
+Devant : L'honorable juge Pierre Archambault
+Comparutions :
+Avocat de l'appelante :
+Me Christopher Mostovac
+Avocat de l'intimée :
+Me Benoit Denis
+____________________________________________________________________
+JUGEMENT MODIFIÉ
+Attendu que cette Cour a rendu un jugement en date du 7 juillet 2008 et émis, en date du 27 août 2008, des motifs écrits du jugement prononcés oralement à l'audience le 13 juin 2008;
+Et attendu que l'avocat de l'intimée a avisé la Cour qu'une erreur ne portant pas sur la substance du jugement s'était glissée dans le tableau qui fait partie du premier paragraphe du jugement et du paragraphe 20 desdits motifs du jugement;
+Cette Cour corrige ledit tableau comme suit :
+40 869,55 Litres
+pour l'année 2000
+42 134,00 Litres
+pour l'année 2001
+38 513,00 Litres
+pour l'année 2002
+35 434,30 Litres
+pour l'année 2003
+Signé à Montréal, Québec, ce 22e jour de septembre 2008.
+« Pierre Archambault »
+Juge Archambault
+Référence : 2008 CCI 467
+Date : 20080922
+Dossier : 2006-181(GST)G
+ENTRE :
+LABRANCHE, MONTPETIT,
+ST-JEAN INVESTISSEMENTS INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT MODIFIÉS
+(Prononcés oralement à l'audience le 13 juin 2008
+à Montréal (Québec) et modifiés pour plus de clarté et de précision,
+mais sans modifications de substance.)
+Le juge Archambault
+[1] Labranche, Montpetit, St-Jean Investissements inc. (LMS), interjette appel d’une cotisation établie par le ministère du Revenu du Québec comme mandataire du ministre du Revenu national (ministre) à l’égard de la période du 1er mai 1999 au 30 avril 2003 (période pertinente) en vertu de la Loi sur la taxe d’accise (Loi).
+[2] La question en litige concerne l’application de la taxe sur les produits et services (TPS) à des ventes sous‑estimées. Dans la réponse à l’avis d’appel, on précise que la somme en litige à la suite de la cotisation résultant de l’opposition s’élève à 86 287 $. (Voir également la pièce A‑1.) Ce montant représente le total de la TPS perçue et percevable mais non remise de 85 727 $ et des crédits de taxe sur intrants (CTI) refusés de 559,50 $.
+[3] Après avoir interjeté appel, les parties se sont entendues sur d’autres modifications. On a corrigé certaines erreurs qui s’étaient produites dans les calculs du ministre dans l’application de sa méthode indirecte pour déterminer les ventes sous-estimées. Cette méthode avait été adoptée parce que LMS avait utilisé un module d’effacement des ventes dans l’exploitation de son restaurant. Selon cette méthode, on a calculé un coefficient pour déterminer quelles auraient été les ventes à partir des achats du contribuable. Ainsi, pour chaque litre acheté de boisson (essentiellement vin et bière, y compris de la bière en fût), on a déterminé des ventes totales de 30,76 $. Ces montants ont peu varié d’une période à l’autre. Ils apparaissent à la pièce I‑1, une entente sur les faits, dans laquelle on précise les coefficients pour la période pertinente.
+[4] À la suite d’une conférence préparatoire (dont le contenu des discussions ne m’a pas été révélé), les parties ont convenu dans cette entente sur les faits que la seule question qui restait en litige était le montant de perte pertinent aux fins du calcul des ventes sous-estimées. En estimant ces ventes à partir des achats de vin et de bière, il fallait tenir compte du montant des pertes de ces boissons qui sont inévitables dans l’exploitation d’un restaurant. Tout le débat en Cour a porté sur cette question. À la suite des corrections apportées par le ministre, le montant en litige est passé de 86 287 $ à 62 472,75 $, soit le total de 62 458 $ à titre de TPS perçue ou percevable pour des ventes sous‑estimées et de CTI de 14,26 $.
+[5] Au tout début de l’audience, le procureur de l’intimée a, en plus des concessions qu’il avait faites auparavant, annoncé qu’il était prêt à réduire à nouveau le montant de TPS perçu ou percevable de 62 458 $ à un chiffre rond de 50 000 $ pour tenir compte que les montants de pertes calculés par le ministre, qui s’élevaient à environ 2 % des boissons vendues (bière ou vin de différentes marques) pouvaient être insuffisants et qu’on devrait tenir compte de tous les « liquides ». Selon mes calculs, ce montant de 50 000 $ permettait de reconnaître des pertes plus élevées, 5,1 l % en moyenne pour toute la période pertinente. Je suis arrivé à ce chiffre en calculant le total des litres achetés, 156 405,[1] multiplié par le coefficient de vente de 30,76 (calculé par l’intimée), ce qui donnait des ventes estimées avant pertes de 4 811 018 $. De ce montant, j’ai soustrait les ventes déclarées par LMS de 3 850 887 $. L’écart avant pertes s’élevait à 960 162 $. Les ventes additionnelles selon l’intimée s’élevaient à 714 286 $ (50 000/,07), ce qui laissait un écart de 245 876 $[2] concédé par l’intimée comme pertes, correspondant à 5,11 % (245 876 $\4 811 018 $).
+[6] Pour établir le montant de ses pertes, LMS a mis en preuve le fait qu’elle était aux prises durant la période pertinente avec des difficultés reliées principalement à la réfrigération de la bière en fût. Il y avait aussi beaucoup de pertes dans le versement et la manutention de la bière en fût. Cette situation pouvait justifier des pertes plus élevées que normales, pertes qu’elle a estimées à 15,32 % (736 941\4 811 018) représentant le chiffre moyen pour la période pertinente. Ce chiffre a été déterminé en utilisant son estimé des ventes réelles, soit 4 811 018 $, duquel elle a soustrait ses ventes déclarées, 4 074 077 $,[3] ce qui donnait un écart avant pertes de 736 941 $. Pour l’appelante, ce montant d’écart représentait nécessairement le montant de ses pertes.
+[7] À l’audience, un des éléments cruciaux, à mon avis, pour établir le montant de cette perte par LMS était de déterminer d’abord quelles étaient les ventes réelles qu’elle avait réalisées. Pour ce faire, monsieur St‑Jean, un des actionnaires de LMS, a témoigné pour déposer ses feuilles de calcul pour justifier le montant des revenus réels de LMS.
+[8] Le procureur de l’intimée s’est opposé au témoignage et à la production de ce tableau parce qu’on ne présentait pas à la Cour la meilleure preuve. J’ai permis au témoin de continuer à témoigner sur la foi qu’il avait consulté ses propres registres pour établir les chiffres communiqués lors de son témoignage, sujet à l’argumentation du procureur de l’intimée sur le caractère admissible de cette preuve, notamment quant au fait que l’on ne présentait pas la meilleure preuve.
+[9] À mon avis, la preuve de monsieur St‑Jean relativement aux ventes réelles est insatisfaisante parce que l’on n’a pas effectivement présenté la meilleure preuve possible, à savoir les registres eux‑mêmes ou les chiffriers qui avaient été créés à l’époque pour tenir compte que des ventes avaient été effacées par le module d’effacement que l’on appelle communément un « zapper ». On peut conclure que i) soit que la preuve est inadmissible ou ii) même si elle était admissible, sa valeur probante n’est pas suffisante. J’incorpore dans mes motifs la majorité des arguments du procureur de l’intimée en ce qui a trait à la question du caractère insuffisant de la preuve présentée. Tout d’abord, il n’y a pas eu de présentation de la meilleure preuve. En outre, il y avait des contradictions dans les témoignages, notamment en ce qui a trait aux dates de l’introduction du « zapper ». Quand on y va de mémoire parce qu’on ne produit pas de preuve corroborante suffisante, il est facile de se tromper, que ce soit de bonne ou de mauvaise foi. C’est pour cela qu’il est imprudent de se présenter à la cour sans les meilleurs éléments de preuve. Ces deux arguments justifient, à mon avis, ma conclusion que l’on n’a pas réussi à quantifier de façon précise le montant des pertes subies durant la période pertinente.
+[10] Je rappellerai les commentaires que j’ai communiqués au procureur de LMS au cours de l’argumentation, à savoir que je trouve tout à fait ironique la situation dans laquelle on se trouve. L’enjeu fondamental soulevé par cette cotisation était d’établir les montants réels des ventes, y compris celles qui ont été sous-estimées lors de la production des déclarations de TPS, en raison de l’effacement par « zapper ». L’enjeu était là. Or, pour établir le montant de la perte qu’il restait à déterminer pour compléter la méthode de calcul utilisé par le ministère, on nous informe lors de l’audience que l’on avait tenu de façon contemporaine une comptabilité parallèle qui permettait à monsieur St‑Jean de fixer lors de son témoignage le montant réel de toutes les ventes. Il me semble qu’on aurait dû produire ces éléments de preuve qui auraient pu établir les vrais montants de ventes.
+[11] Je rappellerai les commentaires du juge Bowman dans l’affaire Ramey c. La Reine, que j’ai citée dans l’affaire André Léger, [2001] DTC 471, à la page 474, où il écrit que la seule façon vraiment efficace de contester une cotisation dite par avoir net est de procéder à une reconstitution complète des revenus du contribuable. Il m’apparaît ici que cela aurait été la façon de procéder pour justement établir quel était le vrai montant.
+[12] Je partage le point de vue du procureur de l’intimée aussi sur le caractère inadéquat des registres comptables de la société. Lorsque nos états financiers ne reflètent pas adéquatement les ventes totales que l’on effectue, le contribuable s’expose à une vérification qui peut amener le ministère à utiliser des méthodes plus imprécises pour établir les montants de ventes sous-estimées. Le ministre était justifié ici, compte tenu de la preuve qui a été faite devant moi, d’utiliser une méthode indirecte.
+[13] Je suis d’accord avec l’approche du juge Tardif dans Bastille c. Sa Majesté la Reine, 99 DTC 431, également citée dans l’affaire Léger au paragraphe 14[4]. Le fardeau de la preuve revient au contribuable et il n’est pas suffisant d’attaquer certains aspects d’une cotisation établie selon une méthode subsidiaire pour attaquer une cotisation. Je suis en total désaccord avec l’argument avancé par le procureur de LMS selon lequel il y aurait eu un renversement du fardeau de la preuve existant, en partie, en raison de la présomption de validité des cotisations. Selon ce procureur, le fait de démontrer qu’un nombre important d’erreurs se sont glissées dans les calculs de la vérificatrice a pour résultat que ce fardeau est renversé. La réalité est la suivante : une fois que le ministre a été informé de ses erreurs, il les a concédées. Il n’était pas nécessaire de venir à la Cour pour défendre l’indéfendable pour utiliser, je pense, une expression qu’utilise souvent le procureur de l’intimée devant la Cour.
+[14] Il faut rappeler la raison d’être de la règle selon laquelle le fardeau de la preuve repose sur les épaules d’un appelant. D’abord, comme l’avait dit le juge Hugessen dans une cause dont j’oublie le nom, tout demandeur qui se présente devant n’importe quel tribunal doit établir les faits qui justifient les conclusions qu’il recherche. La deuxième raison est que c’est l’appelant qui est le mieux placé d’en faire la preuve parce qu’il a connaissance des faits pertinents. À mon avis, c’est faire preuve de tactiques procédurales injustifiées que d’attaquer une cotisation en arguant ici un prétendu renversement de preuve. Je ne connais aucune décision qui ait adopté cette approche. À mon avis, cet argument doit être rejeté.
+[15] Lorsque LMS s’est présentée devant moi hier et aujourd’hui, elle devait faire la preuve de sa perte de 23 % qu’elle alléguait au paragraphe 21 de son avis d’appel. LMS a tenté de l’établir en soustrayant du montant des revenus réels qu’elle prétend avoir gagnés durant la période pertinente les ventes déclarées et l’écart représentait, selon l’appelante, les pertes subies. Le pourcentage, tel que je l’ai exposé plus haut, s’élève à 15,32 % (et non pas à 23 %).
+[16] Pour les motifs que j’ai déjà invoqués, le contribuable a échoué dans cette tâche. Par contre, la preuve a quand même révélé qu’il y avait des circonstances qui justifiaient une perte supérieure à celle concédée par le ministre lors de l’établissement de la cotisation, à savoir le 2 %. Il était probablement de bonne guerre, comme l’a laissé entendre le procureur de LMS, que l’intimée reconnaisse d’entrée de jeu, au début de l’audience, qu’un montant supérieur au 2 % qui n’avait été accordé qu’à l’égard de certains des produits vendus soit accordé. Tout d’abord, le calcul devait tenir compte de tous les produits « liquides ». De plus, un pourcentage plus élevé devrait être accordé, pourcentage que j’ai quantifié aux alentours de 5,11 %.
+[17] Je comprends les difficultés énormes et financières avec lesquelles étaient aux prises les actionnaires de LMS pour opérer l’entreprise de LMS. Ils ont tenté dans un premier temps d’étaler les remboursements de certaines dettes, notamment les dettes fiscales, comme d’ailleurs beaucoup d’administrateurs de société le font en pareilles circonstances. Par contre, lorsque ces sociétés font faillite, c’est à leur détriment puisque les administrateurs peuvent être tenus responsables de certaines de leurs dettes fiscales. Ici, c’est malheureux pour elle, mais LMS a outrepassé la limite de ce qui est acceptable en choisissant délibérément de sous-estimer les ventes de LMS. Pour ça, on a dû payer un prix. En supprimant des registres comptables, on se rend vulnérable lors d’une vérification. C’est ce qui s’est passé ici. Jusqu’à preuve du contraire, et malgré les arguments que l’on aurait pu reconstituer les ventes avec le « zapper », je ne crois pas que la preuve est assez claire sur le véritable chiffre d’affaires et la preuve testimoniale n’est pas non plus suffisante pour établir le chiffre réel des revenus gagnés. Je retiens les arguments de l’avocat de l’intimée sur la question de la crédibilité des témoins, les contradictions que j’ai déjà évoquées, à savoir sur la date de la mise en place du module d’effacement des données.
+[18] LMS a contesté les calculs du ministre dans l’application de sa méthode indirecte. Elle a réussi à le convaincre d’apporter des modifications satisfaisantes sauf pour le montant de la perte. C’est ce montant qui reste à déterminer. Quel est le montant raisonnable qui devrait être déterminé?
+[19] Je suis convaincu par le témoignage des témoins de LMS qu'un sérieux problème de manutention de la bière en fût a existé durant la période pertinente. Il m’apparaît donc raisonnable ici de couper la poire en deux et de conclure que le chiffre des pertes se situe à mi‑chemin entre le 15 % demandé par LMS et le 5 % concédé dès le départ par l’intimée, à savoir à 10 %. Évidemment, quand j’ai constaté que l’agent des appels avait fait une offre semblable, cela m’a conforté dans ma décision.
+[20] L’appel de la cotisation établie en vertu de la Loi dont l'avis porte le numéro 3020139 et est daté du 30 novembre 2005, est accueilli, et la cotisation est déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation pour donner effet aux admissions contenues à l'entente sur les faits, déposée comme pièce I‑1, et en tenant pour acquis dans le calcul des ventes sous‑estimées selon la méthode indirecte utilisée par l'intimée, que l'appelante a droit à des pertes équivalentes à 10% du total des achats de bière et vin (avant pertes) en litres des montants suivants :
+40 869,55 Litres
+pour l'année 2000
+42 134,00 Litres
+pour l'année 2001
+38 513,00 Litres
+pour l'année 2002
+35 434,30 Litres
+pour l'année 2003
+[21] La question des frais sera traitée lors d'une prochaine audience dont la date sera fixée plus tard.
+Signé à Montréal, Québec, ce 22e jour de septembre 2008.
+« Pierre Archambault »
+Juge Archambault
+RÉFÉRENCE : 2008 CCI 467
+Nº DU DOSSIER DE LA COUR : 2006-181(GST)G
+INTITULÉ DE LA CAUSE : LABRANCHE, MONTPETIT, ST-JEAN INVESTISSEMENT INC. ET LA REINE
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATE DE L’AUDIENCE : le 13 juin 2008
+MOTIFS DE JUGEMENT PAR : L'honorable juge Pierre Archambault
+DATE DU JUGEMENT : le 7 juillet 2008
+MOTIFS DE JUGEMENT : le 27 août 2008
+COMPARUTIONS :
+Avocat de l’appelante :
+Me Christopher Mostovac
+Avocat de l’intimée :
+Me Benoit Denis
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelante:
+Nom : Me Christopher Mostovac
+Cabinet : Starnino Mostovac
+Montréal (Québec)
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] 156 405 = 38 445 + 42 050 + 38 502 + 37 408. Voir pièce A‑15.
+[2] 245 876 = 960 162 – 714 286
+[3] En fait, il y a eu inversion de description de ces chiffres lors du prononcé des motifs. Le montant de 4 811 018 $ représente les ventes estimées selon la méthode indirecte et le 4 074 077 $ représente les ventes véritables selon la preuve de LMS. (Voir la pièce A‑14.)
+[4] Voir également les nombreuses décisions qu’a citées le procureur de l’intimée, notamment la décision rendue par le juge Tardif dans l’affaire 9010-9869 Québec inc. c. Sa Majesté la Reine, 2007 CCI 365, en particulier les paragraphes 46 à 52, 60 et 61, 63, 66, 69, 70 et 72.

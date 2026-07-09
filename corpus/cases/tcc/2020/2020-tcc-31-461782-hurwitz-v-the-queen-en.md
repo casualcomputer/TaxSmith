@@ -1,0 +1,177 @@
+---
+title: "Hurwitz v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/461782/index.do"
+last_modified: "2020-02-19"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2020 TCC 31"
+citation2: ""
+neutral_citation: "2020 TCC 31"
+decision_date: "2020-02-19"
+language: "en"
+item_id: "461782"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4543
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2023-07-24T06:09:58.582000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "6093d6d358383753c5e8e15b3c39e98a2f60bedf17ff8780f0d131acbaf14b58"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Hurwitz v. The Queen
+
+- Citation: 2020 TCC 31
+- Decision date: 2020-02-19
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4543, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Hurwitz v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2020-02-19
+Neutral citation
+2020 TCC 31
+File numbers
+2018-406(IT)I
+Judges and Taxing Officers
+Randall S. Bocock
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2018-406(IT)I
+BETWEEN:
+RONALD HURWITZ,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on October 25, 2019 at Toronto, Ontario
+Before: The Honourable Mr. Justice Randall S. Bocock
+Appearances:
+Agent for the Appellant:
+James M. Hartford
+Counsel for the Respondent:
+Rebecca L. Louis
+JUDGMENT
+WHEREAS the Court has on this date published its Reasons for Judgment attached.
+NOW THEREFORE THIS COURT ORDERS THAT:
+The appeal from reassessments made under the Income Tax Act concerning the 2013 and 2014 taxation years is dismissed; and
+There shall be no costs.
+Signed at Ottawa, Canada, this 19th day of February 2020.
+“R.S. Bocock”
+Bocock J.
+Citation: 2020TCC31
+Date: 20200219
+Docket: 2018-406(IT)I
+BETWEEN:
+RONALD HURWITZ,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Bocock J.
+Introduction and Issues
+[1] The Minister reassessed the Appellant, Mr. Hurwitz, challenging on an alternative basis, each of: the existence of any business (“existence of business”), the business purpose of the expenses (the “business purpose”) and the reasonableness of the expenses (“unreasonable expenses”). The Minister did so in the context of two distinct endeavours undertaken by Mr. Hurwitz in the 2013 and 2014 taxation years: one associated with abstract photography and the other as a player in a string quartet. This resulted in the disallowance of Mr. Hurwitz’ claimed business losses in those years.
+[2] The Income Tax Act imposes an overall structure concerning reporting income and losses from commercial sources of income. In general, revenue from sources of income may have deducted therefrom expenses arising from such commercial sources. Where such annual expenses, after deduction, exceed revenue from a source of income in that same year, the taxpayer will incur a business or property loss.
+[3] By implication and definition, where no business exists, but is merely a personal endeavour, no expenses may be deducted and no losses may be incurred. No loss from business or property can exist where there is no source of income.
+[4] Further, even where a business exists, expenses, to be deductible, must have been incurred for the business purpose of generating or earning income from the business. Still further, another restriction exists: where expenses are incurred for the purpose of gaining or earning income from business, where and to the extent such expenses are unreasonable, such unreasonable expenses shall also not be deductible from income to that extent.
+The Two Businesses in Brief
+[5] Mr. Hurwitz is a retired concert musician. Before 2006, he was employed with the Toronto Symphony Orchestra as a violinist. For the next 12 years, Mr. Hurwitz asserts he undertook photography and string quartet endeavours as distinct businesses.
+[6] From the two endeavours, over those years, Mr. Hurwitz had gross business income of between $5,000 and $10,000 and expenses of between $35,000 and $50,000, yielding losses between $30,000 and $50,000 in each year. In no year did he pay any income taxes and in each he received refunds in amounts up to $22,000.
+Preliminary Issue
+[7] Mr. Hurwitz tendered no evidence concerning the string quartet endeavour. Presumably, as a result of this, Appellant’s counsel conceded at the opening of argument there was no activity undertaken in the nature of a business concerning the string quartet. As such, the appeal is dismissed at the outset of these reasons to the extent of any alleged string quartet business.
+History of Photograph Endeavour
+[8] Mr. Hurwitz testified that his interest in abstract photography extends back some 35 years. Most often, his photographic venue concerned the city of Paris and the transformation of unban scenes into an abstract milieu. From a technical perspective, the photographs are black and white, film based and hand developed.
+[9] These efforts culminated in the production of a high-end portfolio photograph collection book published in 2002, entitled “The Gryphons of Paris” (“The Gryphons”).
+[10] Over subsequent years, The Gryphons were marketed to galleries and museums. To market the books, Mr. Hurwitz alone would contact and search out galleries. Previous to the appeal years, Mr. Hurwitz testified that The Gryphons was also marketed to funding councils.
+[11] To originally produce the photographs, Mr. Hurwitz owned and used various equipment and supplies: cameras, dark room, developing trays, film, developing supplies and an enlarger. Aside from selling or leasing stand-alone photographs to offices, the primary product for sale was The Gryphons. The usual sale price was approximately $650.
+[12] To pursue the endeavour in the appeal years, Mr. Hurwitz travelled extensively to Paris, which was the venue for shooting film. The cities of New York, Cleveland, Washington D.C. and Bloomington, Indiana were cities to which he travelled to sell and market the book. As such, more than one-half of the claimed expenses concerned travel costs. Supplies and equipment comprised the balance. Aside from The Gryphons, Mr. Hurwitz produced no books or records reflecting receipts or expenses. There was no business plan or other marketing materials beyond the description of direct sales, on-site approach to museum curators and gallery owners and a rudimentary website. All contracts were oral in nature, as presumably were the invoices and receipts for payment. In taxation years 2013 and 2014, Mr. Hurwitz sold 6 books in total, 4 and 2 in each year respectively. This was in contrast to the sale of 236 copies of The Gryphons in 2006.
+[13] Certain documents concerning the source of income were produced relating to a photograph rental arrangement with a law firm in Toronto. Invoices were produced. The invoices suggested that 25 photographs were leased for $4,800 per annum starting in 2009 and culminating in 2015. A proposed sale was reflected in a 2015 document. That proposed sale documentation indicated that all previous rental payments would be credited against the purchase price. As described below, received rental payments were limited to the years 2003, 2008 and 2009.
+[14] As to a record of the marketing trips, there was no diary produced relating to actual dates, sites or person visited, no notes of meetings directed towards marketing, no follow-up emails, letters or correspondence. No travel budget, sales projections and/or travel log were adduced into evidence. There was a general list of expenses. The Respondent did not contest that Mr. Hurwitz incurred the amounts claimed, but rather as indicated, the existence of the business, the business purpose of such expenses and the unreasonable expenses.
+[15] Through testimony, Mr. Hurwitz indicated that he was born in Cleveland, where his mother lived. His own curriculum vitae revealed that he studied at Indiana University situated in Bloomington, Indiana. His training in photography, clearly distinct from music, was entirely self-taught. There was no evidence of higher study, peer assistance or mentoring by professional photographers. He confirmed his education consisted of touring public museums and galleries, observing the style and technique, and then creating photographs.
+The Law - Existence of Business
+[16] As stated, to deduct business expenses, Mr. Hurwitz must have a source of income from the commercial endeavour. The leading case concerning the existence of a source of income is Stewart v. Canada [2002], 2 SCR 645 and, specifically on point, the jurisprudence at paragraphs 50 and 51. This authority contains a two pronged test. The first question is whether a source of income exists: namely, is the activity undertaken by the taxpayer in pursuit of profit or is it a personal endeavour? If in pursuit of profit, one proceeds to the next prong to determine whether the source of income is from business or property. The issue of pursuit of profit in this appeal in the primary issue before the Court.
+[17] To achieve the threshold within the first prong, a taxpayer must have a subjective intention to profit, buttressed by objective evidence revealed through a factual analysis wherein the activity must have been undertaken in a business-like manner. In short, are there usual hallmarks of commerciality within the evidence concerning the undertaking? In Stewart, the Supreme Court reasserted that certain non-exhaustive and unprioritized factors should be considered; such factors being described previously in Moldowan v. R [1978], 1 SCR 480 at paragraph 486. The factors are intended to be variable and malleable based upon the circumstances, but they should form the basis for the analysis.
+[18] The relevant factors applicable to Mr. Hurwitz’s appeal are: the history of profit and loss; training and education; intended course of action; and, the capability to show a profit. Moreover, as a cautionary note, commercial success or profitability in not a measure, it is the theoretical ability to achieve a profit which encompasses the last factor. Simply, is there a path, whether taken or not, which could afford the taxpayer a profit.
+History of Profit and Loss
+[19] The gross revenue of the undertaking never approached 10% of the expenses in the more than a decade of pursuit. In the years in question, a total of 6 sales were made. While a higher-end, collectible type publication, The Gryphons paltry sales history for that period likely has more to do with the effort expanded, rather than the product for sale. During the appeal period, there may have been some small amount received from a law firm concerning the office rental of photographs, but the reliability of that evidence is discussed below. The possibility of a future profit arising from the photography endeavour was and is remote, if not impossible: Johnson et al v. HMQ, 2003 TCC 152 at paragraph 19.
+Training and Education
+[20] With respect to this factor, there simply is no evidence beyond casual, anecdotal or ad hoc training as a photographer. Education and training are limited to attendance at galleries, observation and emulation.
+Intended Course of Action
+[21] To summarize, there was no:
+Business plan;
+Trip itineraries relating to specific dates, venues or persons visited;
+Diaries of business meetings;
+Follow-up emails or correspondence;
+Budget projections;
+Travel logs.
+[22] Further, most locations visited for attempted sales have collateral personal, historical or social connections to Mr. Hurwitz, existing separately and prior to the photography endeavour.
+Books and Records
+[23] No books or records were produced at the hearing with the exception of a lease of photographs from one law office. Mr. Hurwitz indicated he would barter books for lodging, but such exchanges were not recorded or reflected in business records. The were no rudimentary approaches, systems or tracking of accounts, vouchers and/or invoices.
+Failure to Discharge Onus and Conclusion
+[24] The Minister’s assumptions concerning the existence of a business were as follows:
+a) There was a personal element to Mr. Hurwitz photography endeavour;
+b) Mr. Hurwitz did not have or follow a business plan in respect of the photography endeavour;
+c) Mr. Hurwitz claimed personal expenses as part of the photography endeavour;
+d) Mr. Hurwitz had no expectation of profit from the photography endeavour;
+e) Mr. Hurwitz did not carry out the photography endeavour in a sufficiently commercial manner.
+[25] The assumptions strike at the heart of the existence of a source of business income derived from an endeavour undertaken in pursuit of profit.
+[26] Cumulatively, there were other facts and conclusions which, on balance, lead to the conclusion that the endeavour may have approached a level of commerciality in the past, but that legacy had long since vanished by 2013 and 2014.
+[27] There was no material evidence of commercial effort. The only event approaching a showing, viewing, launch or signing in the two years was a solo exhibition in 2015. No real evidence was offered concerning the showing. Mr. Hurwitz admitted this relationship ended in 2015 because his work was not selling. There was however a gift at the end of December 2014. This gift was made by Mr. Hurwitz to the Kinsey Institute. Again, there was a personal nexus. The Kinsey Institute is located at Indiana University, Mr. Hurwitz’s alma mater. Beyond that, the “transaction”, if it may called that, was gratuitous. There was no commerciality to it. Its presence as evidence, given what Mr. Hurwitz is attempting to prove, seems incongruous and counter-productive.
+[28] This is consistent with the non-commercial approach to actions concerning the endeavour. As noted above, even the lease of photographs mentioned above raises questions about whether income was received in the appeal years from the photographs lease. The proposed sale credits reflecting receipt of rental payments relate to amounts paid in 2003, 2008 and 2009. The photographs listed are constant throughout the term. There was no evidence of the culmination of the sale in 2015 or other testimony before the Court to suggest that rent was received in years other than those years (2003, 2008 and 2009) for which a credit reduction of the purchase price was offered. On balance, the Court cannot conclude photograph rent was received in 2013 and 2014.
+[29] In the final analysis, Mr. Hurwitz has failed to discharge the onus as a taxpayer to approach and demolish to Minister’s assumptions regarding the non-existence of a business contained in the reply. There was no commercial endeavour when one considers the factors contained in Moldowan and Stewart. On that basis, the appeal is dismissed without costs in respect of the 2013 and 2014 taxation years. There was no source of business income against which the claimed expenses may be deducted.
+[30] Since no business exists, the issues concerning the business purpose for and reasonableness of the denied expenses need not be considered.
+Signed at Ottawa, Canada, this 19th day of February 2020.
+“R.S. Bocock”
+Bocock J.
+CITATION:
+2020TCC31
+COURT FILE NO.:
+2018-406(IT)I
+STYLE OF CAUSE:
+RONALD HURWITZ AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+October 25, 2019
+REASONS FOR JUDGMENT BY:
+The Honourable Mr. Justice Randall S. Bocock
+DATE OF JUDGMENT:
+February 19, 2020
+APPEARANCES:
+Agent for the Appellant:
+James M. Hartford
+Counsel for the Respondent:
+Rebecca L. Louis
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Blank
+Firm:
+Blank
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada

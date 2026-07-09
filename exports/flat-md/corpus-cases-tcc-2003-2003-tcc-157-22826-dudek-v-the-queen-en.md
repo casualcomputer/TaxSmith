@@ -1,0 +1,113 @@
+---
+title: "Dudek v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/22826/index.do"
+last_modified: "2003-03-21"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 TCC 157"
+citation2: ""
+neutral_citation: "2003 TCC 157"
+decision_date: "2003-03-21"
+language: "en"
+item_id: "22826"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2332
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T18:24:29.226000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "493529e94aade4f55997899cb299c3183e3e15240a4a826cf277209d92c664b4"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Dudek v. The Queen
+
+- Citation: 2003 TCC 157
+- Decision date: 2003-03-21
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2332, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Dudek v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-03-21
+Neutral citation
+2003 TCC 157
+File numbers
+2002-1693(IT)I
+Judges and Taxing Officers
+Donald G.H. Bowman
+Subjects
+Income Tax Act
+Decision Content
+Citation: 2003TCC157
+Date: 20030321
+Docket: 2002-1693(IT)I
+BETWEEN:
+JANUSZ DUDEK,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+(Delivered orally from the Bench at Toronto, Ontario, on October 28, 2002.)
+Bowman, A.C.J.
+[1] Mr. Dudek is an engineer. He worked for MDS Sciex. He was let go in November of the year 2000. They offered him nothing by way of severance pay and he consulted a lawyer who approached them and they agreed to pay him $14,900.00, and on January the 3rd, 2001, his lawyer received a certified cheque in the amount of $11,920.00 payable to "Janusz Dudek", that is to say, $14,900.00 less applicable deductions.
+[2] For reasons that are unclear to me, the employer issued him a T4A for the year 2000 showing a retiring allowance of $14,900.00. This I find unconscionable. I suppose they did it because they thought they would get the deduction earlier. Whatever their reason, it is contrary to the facts. The Tax Department, on the other hand, says, "Well, it says 2000 on their form, therefore it must be 2000". In my view, the Tax Department should have taxed him in the year 2001. This is one example of the CCRA's mindless application of forms. They say, "The T4A says 2000; therefore, it must clearly be 2000". Well, they are wrong. The authority for this proposition, that retiring allowances and income from employment are taxable when received and not when receivable, is a decision of the Exchequer Court by Mr. Justice Fournier in M.N.R. v. Rousseau, 60 DTC 1236. For the last 40 odd years it has been accepted as good law in support of the proposition that employment income is taxed on "received" and not a "receivable" basis.
+[3] The appeal is allowed and the assessment is referred back to the Minister of National Revenue for reassessment on the basis that the amount of $14,900.00 was not received by the Appellant in the year 2000 and is therefore not taxable in his hands in the year 2000.
+[4] I do not think there is anything else that I can - did you incur any costs in coming to this?
+Mr. Dudek: No, Your Honour.
+[5] Therefore, the appeal is allowed.
+Signed at Ottawa, Canada, this 21st day of March 2003
+"D.G.H. Bowman"
+A.C.J.
+CITATION:
+2003TCC157
+COURT FILE NO.:
+2002-1693(IT)I
+STYLE OF CAUSE:
+Between Janusz Dudek
+and Her Majesty The Queen
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+October 28, 2002
+REASONS FOR JUDGMENT BY:
+The Honourable D.G.H. Bowman
+Associate Chief Judge
+DATE OF REASONS FOR JUDGMENT:
+March 21, 2003
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Nimanthika Kaneira
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+--
+Firm:
+--
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

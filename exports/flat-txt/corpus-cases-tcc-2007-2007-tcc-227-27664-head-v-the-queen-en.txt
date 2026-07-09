@@ -1,0 +1,112 @@
+Title: Head v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27664/index.do
+Corpus path: corpus/cases/tcc/2007/2007-tcc-227-27664-head-v-the-queen-en.md
+Document type: case_law
+Last modified: 2007-05-23
+
+# Head v. The Queen
+
+- Citation: 2007 TCC 227
+- Decision date: 2007-05-23
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 452, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Head v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-05-23
+Neutral citation
+2007 TCC 227
+File numbers
+2006-2250(GST)I
+Judges and Taxing Officers
+François M. Angers
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2006-2250(GST)I
+BETWEEN:
+RICHARD HEAD,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on December 4, 2006, at St. John's, Newfoundland.
+Before: The Honourable Justice François Angers
+Appearances:
+Counsel for the Appellant:
+Mark Pike
+Counsel for the Respondent:
+Craig Silliker
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under Part IX of the Excise Tax Act, notice of which is dated November 23, 2004, and bears the number 24686, for the periods from July 1 to July 31, 2003, August 1 to August 31, 2003, and December 1 to December 31, 2003, is allowed, without costs, and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 23rd day of May 2007.
+“François Angers”
+Angers J.
+Citation: 2007TCC227
+Date: 20070523
+Docket: 2006-2250(GST)I
+BETWEEN:
+RICHARD HEAD,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Angers J.
+[1] This is an appeal with respect to an assessment under Part IX of the Excise Tax Act (the "Act") for the periods from July 1 to July 31, 2003, August 1 to August 31, 2003, and December 1 to December 31, 2003; the notice of assessment bears the number 24686 and is dated November 23, 2003. The appellant was assessed amounts of $73,558.88 in taxes, $2,024.64 in interest and $4,985.98 in penalties in respect of unremitted net tax owed by Mainstream Homes Inc. ("Mainstream"), of which the appellant was a director during all relevant periods.
+[2] Mainstream was incorporated on April 7, 1999, for the purposes of a housing development to be completed in four phases. Apart from the appellant, Mainstream’s only other director at all material times was David O'Reilly.
+[3] Mainstream constructed approximately 86 homes over a three-year period. David O'Reilley had responsibility for Mainstream’s financial dealings while the appellant assumed responsibility for the operations side of the business. All construction materials needed were purchased through a company identified as Albert Hichman: ("Hichman"), which company also provided capital to Mainstream over the years. Hichman was eventually acquired by Chester Dawe Limited ("CDL").
+[4] In July 2003, many houses were under construction and Mainstream suffered a cash shortfall such that its obligations exceeded its capability to pay. Up to then, Mainstream had had no arrears in its Harmonized Sales Tax ("HST") remittances. In August, Mainstream's financial difficulties continued and David O'Reilly began negotiations with CDL to resolve the situation. The July, August and September 2003, HST returns were filed, but Mainstream failed to remit the net tax to the Minister of National Revenue (the "Minister").
+[5] On September 2, 2003, CDL and Mainstream signed a Memorandum of Understanding (MOU) whereby CDL was to acquire title to the remaining property held by Mainstream and another corporation owned by the appellant and O'Reilly, subject to the encumbrances registered against it. CDL also undertook to assume Mainstream’s HST liability for August and September 2003, which amount was to be added to other amounts Mainstream owed CDL. O'Reilly testified that the HST clause was added to the MOU at his request, for he understood his liability as a director to pay the tax.
+[6] CDL was managing the construction site as of the date of the MOU, but it did not pay the HST. O'Reilly became aware in October 2003 that CDL had not paid the tax. He wrote to the Canada Customs and Revenue Agency (CCRA, as it was then) to file the HST returns and advise it of the MOU and of CDL's failure to pay the HST. O'Reilly also advised the CCRA of the upcoming transfer of the land to CDL and of the possible exercise of a power of sale by a secured creditor, and invited the CCRA to take steps to protect and secure its claim.
+[7] Some land was eventually sold by power of sale on January 2, 2004. In the meantime, O'Reilly had declared personal bankruptcy on November 10, 2003. On January 19, 2004, O'Reilly drafted a letter to the CCRA on behalf of Mainstream but it was the appellant who signed it because of O'Reilly's bankruptcy. The letter disclosed a failure by Mainstream to report the sale of two lots in December 2002 and requested that the CCRA add the unremitted tax for these two lots to its lien on lands that were to be sold by power of sale the following day. The facts do not show whether the CCRA actually did so.
+[8] The appellant is a draftsman. His expertise is in construction, which is why he testified that O'Reilly was needed to take care of the business side of the project. He had met O'Reilly through mutual friends and they both became involved in the project. O'Reilly was responsible for the administration side of the business, including finances. The appellant understood that HST was payable on their sales and stated that it was O'Reilly's responsibility to remit it on behalf of Mainstream.
+[9] On July 3, 2003, the appellant was seriously injured, breaking a leg in seven places. As he was allergic to pain medication, his recovery lasted eight months and was painful. It also prevented him from being on the construction site. According to the appellant, steps were taken to have the outstanding HST debt paid. He referred in this regard to the MOU with CDL and to the subsequent letters suggesting avenues for the CCRA to collect the debt. The appellant did not play any role in negotiating with CDL or in the negotiation of the eventual MOU in which CDL undertook to pay Mainstream's debt and particularly the HST.
+[10] The appellant was made aware of the outstanding HST debt by O'Reilly near the end of August or in early September 2003. He never signed any HST forms except those that were sent in January of 2004. He signed these for the same reason he signed the letter of January 19, 2004, to the CCRA. Other letters sent to the CCRA and signed by him were drafted by O'Reilly. The appellant testified that, even though he spent his time on the job sites, he kept checking with O'Reilly on a monthly basis and was assured that the bills were all paid. He acknowledged that he never checked the books but said that, even if he had done so, he would not have been able to make anything of them. The appellant, although he had signing authority, never signed a cheque for Mainstream or the other corporation that owned land and was a party to the MOU.
+[11] The appellant testified that at all material times it was always his understanding that CDL and the previous owner were what he termed the finances of the project and that, as the MOU was a legal document, CDL would honour it and the outstanding HST amount would be paid. He also began to gain from the MOU an understanding of director's liability with respect to unpaid remittances.
+[12] The assessment was made under section 323 of the Act, which makes directors of a corporation jointly and severally liable with the corporation for unremitted tax in case of failure by the corporation to remit the net tax owing. If a director can meet the test set out in subsection 323(3) of the Act, he or she may escape that liability. Subsection 323(3) reads as follows :
+(3) Diligence – A director of a corporation is not liable for a failure under subsection (1) where the director exercised the degree of care, diligence and skill to prevent the failure that a reasonably prudent person would have exercised in comparable circumstances.
+[13] As for the limitations contained in subsection 323(2), they are not in issue in this appeal, nor is there any dispute as to the amount involved.
+[14] The test is therefore one of fact and the question is: "What would a reasonable person have done in those circumstances at that time to prevent the failure of the corporation to remit the tax?" The leading case and the one most quoted in this kind of litigation is Soper v. R., [1997] 3 C.T.C. 242 (F.C.A.), in which Robertson J.A. summarizes the standard of care at paragraphs 29 and 30 of his reasons:
+29 This is a convenient place to summarize my findings in respect of subsection 227.1(3) of the Income Tax Act. The standard of care laid down in subsection 227.1(3) of the Act is inherently flexible. Rather than treating directors as a homogeneous group of professionals whose conduct is governed by a single, unchanging standard, that provision embraces a subjective element which takes into account the personal knowledge and background of the director, as well as his or her corporate circumstances in the form of, inter alia, the company's organization, resources, customs and conduct. Thus, for example, more is expected of individuals with superior qualifications (e.g. experienced business‑persons).
+30 The standard of care set out in subsection 227.1(3) of the Act is, therefore, not purely objective. Nor is it purely subjective. It is not enough for a director to say he or she did his or her best, for that is an invocation of the purely subjective standard. Equally clear is that honesty is not enough. However, the standard is not a professional one. Nor is it the negligence law standard that governs these cases. Rather, the Act contains both objective elements − embodied in the reasonable person language − and subjective elements − inherent in individual considerations like "skill" and the idea of "comparable circumstances". Accordingly, the standard can be properly described as "objective subjective".
+[15] He goes on to add the following at paragraphs 33 and 39:
+33 At the outset, I wish to emphasize that in adopting this analytical approach I am not suggesting that liability is dependent simply upon whether a person is classified as an inside as opposed to an outside director. Rather, that characterization is simply the starting point of my analysis. At the same time, however, it is difficult to deny that inside directors, meaning those involved in the day‑to‑day management of the company and who influence the conduct of its business affairs, will have the most difficulty in establishing the due diligence defence. For such individuals, it will be a challenge to argue convincingly that, despite their daily role in corporate management, they lacked business acumen to the extent that that factor should overtake the assumption that they did know, or ought to have known, of both remittance requirements and any problem in this regard. In short, inside directors will face a significant hurdle when arguing that the subjective element of the standard of care should predominate over its objective aspect.
+39 In order to satisfy the due diligence requirement laid down in subsection 227.1(3) a director may, as the Department of National Revenue has noted, take "positive action" by setting up controls to account for remittances, by asking for regular reports from the company's financial officers on the ongoing use of such controls, and by obtaining confirmation at regular intervals that withholding and remittance has taken place as required by the Act: see Information Circular 89-2, supra at para. 7.
+[16] Mainstream’s financial difficulties arose in the third year of the land development project and at a time when most of its profits were yet to be realized, which is usually the case in these types of projects. Up to that point, Mainstream had relied on, and was backed financially by, its supplier of construction materials. It was accordingly able to meet its other financial obligations, and, in particular, was able to make its remittances of net tax under the Act in a timely fashion. A change in the ownership of its supplier and poor sales in 2003 prevented Mainstream from remitting its net tax for the periods of July and August 2003.
+[17] The director responsible for the administrative and financial aspects of Mainstream's operations, namely, O'Reilly, undertook negotiations with CDL, which had bought the supplier, to resolve this financial crisis and also to address the issue of the unpaid tax or HST liability. CDL undertook to pay the HST owed by Mainstream but never did so. On the other hand, it took over Mainstream’s operations in the hope of reducing its advances to Mainstream.
+[18] We know from the evidence that the appellant's responsibilities with Mainstream had nothing to do with that company’s day-to-day business and financial operations. By virtue of his background and experience as a draftsman he was put in charge of the construction aspect of Mainstream’s activities. As regards the business side, he relied on O'Reilly and left that aspect to him. Not only was he out of commission in early July because of an accident, but he was only made aware that the HST had not been remitted at the end of August and in early September 2003. At that time, it was almost too late, as CDL had taken over, and Mainstream's only hope came from CDL's undertaking to pay the HST on its behalf.
+[19] The appellant had no reason to suspect that the HST remittances had not been made for the period in issue, as not only had they been made regularly from the start of the project, but that aspect of Mainstream’s operations was in O'Reilly's hands, as it was his responsibility to pay the bills and look after the business aspect of the project. The appellant testified that he checked on a monthly basis with O'Reilly to make sure that all the bills were paid. His injury, however, kept him away from the action, but when he found out about the unpaid HST at the end of August he agreed to sign the MOU in the hope that it would settle the matter of Mainstream's liability with respect to the HST debt.
+[20] Given that his background and qualifications are in the construction field and that his involvement in Mainstream had nothing to do with the financial and business aspects of its operations, I find that the appellant did all that could be expected of him in the circumstances and conclude that he has made out the defence of due diligence. The appeal is allowed.
+Signed at Ottawa, Canada, this 23rd day of May 2007.
+“François Angers”
+Angers J.
+CITATION: 2007TCC227
+COURT FILE NO.: 2006-2250(GST)I
+STYLE OF CAUSE: Richard Head and Her Majesty the Queen
+PLACE OF HEARING: St-John's, Newfoundland
+DATE OF HEARING: December 4, 2006
+REASONS FOR JUDGMENT BY: The Honourable Justice François Angers
+DATE OF JUDGMENT: May 23, 2007
+APPEARANCES:
+Counsel for the Appellant:
+Mark Pike
+Counsel for the Respondent:
+Craig Silliker
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Mark Pike
+Firm: Benson Myles
+City: St. John's, NL
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

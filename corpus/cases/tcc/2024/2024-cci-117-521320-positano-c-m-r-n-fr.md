@@ -1,0 +1,234 @@
+---
+title: "Positano c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/521320/index.do"
+last_modified: "2024-09-06"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2024 CCI 117"
+citation2: ""
+neutral_citation: "2024 CCI 117"
+decision_date: "2024-09-06"
+language: "fr"
+item_id: "521320"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5729
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2025-05-19T11:27:38.002000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "ed2318a1241f992984cb0d60422d7c22ab558a64fb628dc533f3be27f5f880b8"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Positano c. M.R.N.
+
+- Citation: 2024 CCI 117
+- Decision date: 2024-09-06
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5729, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Positano c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2024-09-06
+Référence neutre
+2024 CCI 117
+Numéro de dossier
+2019-2374(EI), 2019-2568(EI)
+Juges et Officiers taxateurs
+David E. Spiro
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2019-2374(EI)
+ENTRE :
+TINA POSITANO,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+1017867 ONTARIO LTD.,
+intervenante.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu sur preuve commune avec l’appel de
+1017867 Ontario Ltd. (2019-2568(EI)), le 22 août 2024, à Toronto (Ontario).
+Devant : l’honorable juge David E. Spiro
+Comparutions :
+Pour l’appelante :
+L’appelante elle-même
+Avocats de l’intimé :
+Me Yan Cui et
+Me Hye-Won (Caroline) Ahn
+Représentant de l’intervenante :
+Joseph Positano
+JUGEMENT
+L’appel de l’appelante de la décision de l’intimé du 9 avril 2019, selon laquelle l’appelante n’était pas engagée dans un emploi assurable auprès de l’intervenante en vertu de la Loi sur l’assurance-emploi du 16 janvier 2012 au 20 mai 2017, est rejeté sans dépens.
+Signé à Toronto (Ontario), ce 6e jour de septembre 2024.
+« David E. Spiro »
+Le juge Spiro
+Traduction certifiée conforme
+ce 17e jour de mars 2025.
+Lionel Dugué
+Dossier : 2019-2568(EI)
+ENTRE :
+1017867 ONTARIO LTD.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu sur preuve commune avec l’appel de
+Tina Positano (2019-2374(EI)), le 22 août 2024, à Toronto (Ontario).
+Devant : l’honorable juge David E. Spiro
+Comparutions :
+Représentant de l’appelante :
+Joseph Positano
+Avocats de l’intimé :
+Me Yan Cui et
+Me Hye-Won (Caroline) Ahn
+JUGEMENT
+L’appel de l’appelante de la décision de l’intimé du 9 avril 2019, selon laquelle Mme Tina Positano n’était pas engagée dans un emploi assurable auprès de l’appelante en vertu de la Loi sur l’assurance-emploi du 16 janvier 2012 au 20 mai 2017, est rejeté sans dépens.
+Signé à Toronto (Ontario), ce 6e jour de septembre 2024.
+« David E. Spiro »
+Le juge Spiro
+Traduction certifiée conforme
+ce 17e jour de mars 2025.
+Lionel Dugué
+Référence : 2024 CCI 117
+Date : 20240906
+Dossier : 2019-2374(EI)
+ENTRE :
+TINA POSITANO,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+1017867 ONTARIO LTD.,
+intervenante,
+Dossier : 2019-2568(EI)
+ET ENTRE :
+1017867 ONTARIO LTD.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Spiro
+[1] Mme Tina Positano a été employée par l’entreprise de son frère, 1017867 Ontario Ltd. (l’« entreprise »), pour effectuer un travail de bureau de 2012 à 2017. L’entreprise se spécialisait dans le pavage d’asphalte l’été et le déneigement l’hiver.
+[2] L’intimé a conclu que Mme Positano était une employée de l’entreprise pendant cette période. Mais l’intimé a également conclu qu’il n’était pas raisonnable de conclure que l’entreprise et Mme Positano auraient conclu un contrat de travail à peu près semblable s’ils avaient agi l’un avec l’autre de façon indépendante, ce qui a entraîné une décision selon laquelle, en vertu de la Loi sur l’assurance-emploi (la « LAE »), Mme Positano n’était pas engagée dans un emploi assurable auprès de l’entreprise du 16 janvier 2012 au 20 mai 2017 (la « Décision »).
+[3] Mme Positano a interjeté appel de la décision et l’entreprise est intervenue dans son appel. L’entreprise a également interjeté appel de la Décision de son côté. Ces raisons concernent les deux appels qui ont été regroupés et entendus sur la même preuve.
+[4] Dans la partie applicable, les paragraphes 5(2) et 5(3) de la LAE prévoient ce qui suit :
+Restriction
+(2) N’est pas un emploi assurable :
+[…]
+(i) l’emploi dans le cadre duquel l’employeur et l’employé ont entre eux un lien de dépendance.
+Personnes liées
+(3) Pour l’application de l’alinéa (2)i),
+a) la question de savoir si des personnes ont entre elles un lien de dépendance est déterminée conformément à la Loi de l’impôt sur le revenu;
+b) l’employeur et l’employé, lorsqu’ils sont des personnes liées au sens de cette loi, sont réputés ne pas avoir de lien de dépendance si le ministre du Revenu national est convaincu qu’il est raisonnable de conclure, compte tenu de toutes les circonstances, notamment la rétribution versée, les modalités d’emploi ainsi que la durée, la nature et l’importance du travail accompli, qu’ils auraient conclu entre eux un contrat de travail à peu près semblable s’ils n’avaient pas eu de lien de dépendance.
+[5] Parce que Mme Positano était la sœur de l’unique actionnaire de l’entreprise, l’entreprise n’agissait pas de façon indépendante avec Mme Positano au sens de l’article 251 de la Loi de l’impôt sur le revenu, la présomption légale de nonindépendance prévue à l’alinéa 5(2)i) de la LAE s’applique, sous réserve de l’exception prévue à l’alinéa 5(3)b) de la LAE selon laquelle :
+[…] compte tenu de toutes les circonstances, notamment la rétribution versée, les modalités d’emploi ainsi que la durée, la nature et l’importance du travail accompli, qu’ils auraient conclu entre eux un contrat de travail à peu près semblable s’ils n’avaient pas eu de lien de dépendance.
+[6] Les seuls témoins à témoigner étaient Mme Positano et son frère, M. Joseph Positano, dont les parents ont fondé l’entreprise de pavage d’asphalte à Barrie, en Ontario, dans les années 1950. L’entreprise s’est ensuite diversifiée pour inclure le déneigement.
+[7] M. Positano a témoigné en disant que la saison de pavage de l’asphalte s’étend de mai à décembre et que la saison de déneigement s’étend de décembre à avril. Il a également témoigné en disant que seulement quatre des employés de l’entreprise étaient à temps plein : M. Positano, son frère aîné et deux autres employés sans lien de dépendance. Si l’on doit croire le témoignage de M. Positano, le reste des employés de l’entreprise – y compris Mme Positano – auraient été des employés payés à l’heure. Cependant, Mme Positano, pour sa part, a maintenu qu’elle était soit une employée salariée, soit une combinaison d’employée salariée et d’employée payée à l’heure. C’était le premier d’une série de signaux d’alarme.
+[8] Mme Positano a vécu en Arizona pendant environ dix ans et a continué de visiter l’Arizona de temps en temps entre 2012 et 2017. Elle a quitté l’Arizona pour retourner à Barrie, en Ontario, en 2003 lorsqu’elle a commencé à effectuer des fonctions de bureau pour l’entreprise. Mme Positano a témoigné en disant que ces fonctions comprenaient la planification des travaux de pavage d’asphalte pour des clients résidentiels et des petits commerces. Il comprenait également la tenue de livres qui impliquait d’entrer des renseignements dans QuickBooks. Elle a témoigné en disant que, pour la plupart des fonctions de comptabilité, l’entreprise avait retenu les services d’un comptable externe à 20 $ de l’heure qui facturait l’entreprise pour ses services[1].
+[9] En 2019, Mme Positano a rempli un long questionnaire envoyé par la Division des appels en matière de RPC/AE de l’Agence du revenu du Canada. Dans le questionnaire, elle a indiqué qu’elle devait travailler du lundi au vendredi de 8 h à 19 h chaque jour[2]. Elle a également déclaré que ses heures n’avaient pas été enregistrées[3].
+[10] Tout au long du questionnaire, Mme Positano a donné l’impression qu’elle était employée uniquement sur une base salariale. Elle a déclaré que son taux de rémunération était de 800 $ par semaine[4]. Elle a déclaré qu’elle était payée toutes les deux semaines et que son taux de rémunération était déterminé par son salaire[5]. Enfin, elle a déclaré qu’elle recevait des congés payés à un taux de 4 % à chaque chèque de paie[6]. Il n’y avait aucune mention de travail à l’heure.
+[11] Mais en contre-interrogatoire, une image différente est apparue. Mme Positano a témoigné en disant qu’elle était rémunérée non seulement avec un salaire, mais aussi à l’heure. Elle a témoigné en disant que son salaire horaire a commencé à 15,00 $/heure en 2012 et est passé à 20,00 $/heure vers 2017. Elle a témoigné en disant qu’elle enregistrait ses heures dans son agenda électronique et que l’entreprise ne vérifiait jamais ses heures puisqu’elle suivait le [traduction] « principe d’intégrité ».
+[12] En plus de son manque de crédibilité, le souvenir de Mme Positano était sélectif et peu fiable. Elle était loquace lors de son témoignage principal, mais lors du contre-interrogatoire, elle était incapable d’expliquer comment l’un des gains assurables indiqués sur ses relevés d’emploi (« RE »)[7] avait été calculé. En réponse aux questions posées lors du contre-interrogatoire sur la façon dont les montants indiqués sur ses relevés d’emploi ont été calculés, la réponse de Mme Positano était invariablement l’une des suivantes :
+[Traduction]
+« Je ne comprends pas »;
+« Je ne sais pas pourquoi »;
+« Je ne me souviens pas »; ou
+« Il faudrait que je consulte QuickBooks pour savoir à quoi cela correspond ».
+[13] Voici un bref résumé de chacun de ces RE :
+Du 16 janvier 2012 au 26 octobre 2012 Les gains de 27 périodes de paie ont été déclarés, allant d’un minimum de zéro dollar à un maximum de 918 $ pour chaque période de paie, pour des gains assurables totaux de 3 744 $.
+Du 24 décembre 2012 au 10 mai 2013 Les gains de 10 périodes de paie ont été déclarés, allant d’un minimum de zéro dollar à un maximum de 1 560 $ pour chaque période de paie, pour des gains assurables totaux de 10 920 $.
+Du 27 mai 2013 au 10 mai 2014 Les gains de 27 périodes de paie ont été déclarés, allant d’un minimum de zéro dollar à un maximum de 3 018 $ pour chaque période de paie, pour des gains assurables totaux de 23 645,20 $.
+Du 13 juillet 2014 au 7 novembre 2014 Les gains de 13 périodes de paie ont été déclarés, allant d’un minimum de zéro dollar à un maximum de 1 944 $ pour chaque période de paie, pour des gains assurables totaux de 11 273,60 $.
+Du 9 février 2015 au 14 mars 2015 Les gains de 2 périodes de paie ont été déclarés, allant d’un minimum de 1 800 $ à un maximum de 1 944 $ pour chaque période de paie, pour des gains assurables totaux de 3 744 $.
+Du 11 mai 2015 au 20 juin 2015 Les gains de 3 périodes de paie ont été déclarés à 1 872 $ chacun, pour des gains assurables totaux de 5 616 $.
+Du 8 novembre 2015 au 19 décembre 2015 Aucun revenu n’a été déclaré pour une période de paie, mais le total des gains assurables a été déclaré comme étant de 5 616 $.
+Du 1er février 2016 au 21 mai 2016 Les gains de 7 périodes de paie ont été déclarés, allant d’un minimum de zéro dollar à un maximum de 1 872 $ pour chaque période de paie, pour des gains assurables totaux de 9 360 $.
+Du 3 juillet 2016 au 30 décembre 2016 Les gains de 13 périodes de paie ont été déclarés, allant d’un minimum de zéro dollar à un maximum de 1 872 $ pour chaque période de paie, pour des gains assurables totaux de 13 104 $.
+Du 3 juillet 2016 au 20 mai 2017[8] Les gains de 23 périodes de paie ont été déclarés, allant d’un minimum de zéro dollar à un maximum de 4 272 $ pour chaque période de paie, pour des gains assurables totaux de 20 184 $.
+[14] Mme Positano n’a fourni aucune preuve sur la façon dont les montants des RE ont été calculés. Par exemple, sur les 125 périodes de paie (périodes de deux semaines) couvertes par les RE, 39 périodes de paie ont reflété des gains assurables de 1 872 $. Mme Positano n’a pas pu expliquer comment ce montant particulier a été calculé. Si les renseignements fournis par Mme Positano sur son questionnaire étaient corrects, on aurait dû s’attendre à voir des entrées sur les RE pour toutes les périodes de paie reflétant des gains assurables de 1 600 $ plus 4 % de congés payés de 64 $, ce qui équivaut à 1 664 $. Il n’y avait pas une seule entrée de ce montant dans l’un quelconque des RE.
+[15] Les variations incohérentes de la rémunération pour chacune des 125 périodes de paie déclarées laissent entendre que Mme Positano était rémunérée de manière purement discrétionnaire. À certains moments, son salaire ressemblait à un salaire. À d’autres moments, cela ressemblait à un salaire horaire. Elle n’a pas pu dire quelles périodes de paie reflétaient la rémunération salariale et lesquelles reflétaient la rémunération horaire.
+[16] La nature discrétionnaire des conditions d’emploi de Mme Positano est confirmée par son témoignage selon lequel elle était mise à pied de temps à autre, puis réembauchée dès que son frère lui disait que l’entreprise avait du travail. Le moment de ces mises à pied et réembauches n’a pas été fourni par Mme Positano, mais se trouve dans la section des hypothèses de la Réponse :
+[17] En plus de la chronologie incohérente de ses mises à pied et réembauches, le témoignage de Mme Positano concernant son propre calendrier de congés confirme également que son arrangement d’emploi avec l’entreprise était discrétionnaire.
+2012 – 8 semaines de congés
+2013 – 2 semaines de congés
+2014 – 14 semaines de congés
+2015 – 33 semaines de congés
+2016 – 10 semaines de congés
+2017 – 5 semaines de congés
+[18] Étant donné que toute la preuve soutient la conclusion selon laquelle l’arrangement d’emploi de Mme Positano était discrétionnaire, il est tout à fait raisonnable de conclure que, compte tenu de toutes les circonstances de l’emploi, l’entreprise et Mme Positano n’auraient pas conclu un contrat de travail à peu près semblable s’ils n’avaient pas eu de lien de dépendance. Il était parfaitement raisonnable pour l’intimé d’en arriver à la même conclusion.
+[19] Je ne doute pas que Mme Positano essayait sincèrement d’aider son frère et son entreprise chaque fois qu’elle le pouvait. Mais cela ne signifie pas que son emploi était assurable en vertu de la Loi sur l’assurance-emploi.
+[20] Étant donné que j’ai conclu que Mme Positano n’était pas engagée dans un emploi assurable avec l’entreprise du 16 janvier 2012 au 20 mai 2017, les deux appels seront rejetés sans dépens.
+Signé à Toronto (Ontario), ce 6e jour de septembre 2024.
+« David E. Spiro »
+Le juge Spiro
+Traduction certifiée conforme
+ce 17e jour de mars 2025.
+Lionel Dugué
+RÉFÉRENCE :
+2024 CCI 117
+NO DU DOSSIER DE LA COUR :
+2019-2374(EI)
+2019-2568(EI)
+INTITULÉS :
+TINA POSITANO ET M.R.N. ET 1017867 ONTARIO LTD.
+1017867 ONTARIO LTD. ET M.R.N.
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+Le 22 août 2024
+MOTIFS DU JUGEMENT :
+L’honorable juge David E. Spiro
+DATE DU JUGEMENT :
+Le 6 septembre 2024
+COMPARUTIONS :
+Pour l’appelante :
+L’appelante elle-même
+Représentant de l’intervenante et représentant de 1017867 Ontario Ltd. dans son propre appel :
+Joseph Positano
+Avocats de l’intimé :
+Me Yan Cui et
+Me Hye-Won (Caroline) Ahn
+AVOCATS INSCRIT AU DOSSIER :
+Pour l’appelante :
+Nom :
+S.O.
+Cabinet :
+S.O.
+Pour l’intimé :
+Me Shalene Curtis-Micallef Sous-procureure générale du Canada Ottawa, Canada
+[1] Pièce R-1, page 12, questions 85 à 87.
+[2] Pièce R-1, page 6, questions 34 et 36.
+[3] Pièce R-1, page 7, question 38.
+[4] Pièce R-1, page 8, question 48.
+[5] Pièce R-1, page 8, questions 49 et 50.
+[6] Pièce R-1, page 9, question 61.
+[7] Le lot de dix RE a été identifié comme pièce à conviction R-3.
+[8] Mme Positano n’a pas pu expliquer pourquoi deux RE affichaient la même date de début, soit le 3 juillet 2016.

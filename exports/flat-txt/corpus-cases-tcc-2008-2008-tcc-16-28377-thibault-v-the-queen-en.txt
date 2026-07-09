@@ -1,0 +1,173 @@
+Title: Thibault v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28377/index.do
+Corpus path: corpus/cases/tcc/2008/2008-tcc-16-28377-thibault-v-the-queen-en.md
+Document type: case_law
+Last modified: 2008-01-15
+
+# Thibault v. The Queen
+
+- Citation: 2008 TCC 16
+- Decision date: 2008-01-15
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1896, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Thibault v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-01-15
+Neutral citation
+2008 TCC 16
+File numbers
+2007-1266(IT)I
+Judges and Taxing Officers
+Gaston Jorré
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2007-1266(IT)I
+BETWEEN:
+ROGER THIBAULT,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard on July 16, 2007, at Montréal, Quebec
+Before: The Honourable Justice Gaston Jorré
+Appearances:
+For the Appellant:
+The Appellant himself
+Agent of the Respondent:
+Nadia Golmier, articling student
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act for the 2002 taxation year is allowed, with costs of $30, and the matter is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that
+(1) the standby charge benefit is $2,325.47, and
+(2) the operating expense benefit is $704.00.
+Signed at Ottawa, Canada, this 15th day of January 2008.
+"Gaston Jorré"
+Jorré J.
+Translation certified true
+on this 8th day of May 2008.
+Brian McCordick, Translator
+Citation: 2008TCC16
+Date: 20080115
+Docket: 2007-1266(IT)I
+BETWEEN:
+ROGER THIBAULT,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Jorré J.
+[1] This is an appeal from a reassessment made by the Minister of National Revenue ("the Minister") in respect of the 2002 taxation year. The Appellant requested that the informal procedure apply.
+[2] The reassessment in question added to the Appellant's income
+(1) $6,342.20 on account of a standby charge for an automobile (paragraph 6(1)(e) of the Income Tax Act (ITA); and
+(2) $1,920 on account of an automobile operating expense benefit (paragraph 6(1)(k)).
+Since the total benefit reported in the tax return was $2,585.48, the reassessment had the effect of increasing the Appellant's income by $5,676.72.
+Facts
+[3] The Appellant was an employee of Abbott Laboratories Limited ("Abbott") in 2002. The company made a Chevrolet Astro vehicle available to him.
+[4] Abbott sold diagnostic devices to hospitals and CLSCs.
+[5] The Appellant was a service technician. He had to install, repair and maintain the equipment sold by Abbott.
+[6] He went to the hospitals and CLSCs in the Chevrolet Astro van. He transported his equipment and the parts in the van.
+[7] The vehicle as built by General Motors had more than three seats, but certain modifications were made to the vehicle in question in order to facilitate the transportation of equipment. For example, storage trays and a movable safety screen were added.
+[8] In order to transport the equipment, the rear bench seat was removed and the Appellant put it in his garage. The Appellant testified that the equipment that he transported in his vehicle weighed approximately 1000 to 1500 pounds.
+[9] The Appellant could reinstall the rear bench seat, but in order to do so, he had to remove a lot of the equipment.
+[10] In addition to working his regular hours, the Appellant had to be on call at other times because Abbott offered its customers a 24-hour emergency service with a four-hour response time. Even when he was not on call, he sometimes worked outside regular hours. For example, he sometimes helped out other technicians when they were having problems. Consequently, the vehicle generally had all the work equipment in it and had only two seats available. It was only in exceptional cases that the Appellant removed the equipment and reinstalled the bench seat. This was something that the Appellant might do if he was going on vacation, for example.
+[11] The Appellant did not keep a log of all his trips setting out the distance driven and the purpose of each trip. However, he was able to provide his weekly expense accounts, which contain general information about his travel.
+[12] The Appellant reported a total driving distance of 41 491 km to his employer, of which 4 010 km (roughly 9.66%) were for personal use.
+[13] The auditor testified that the Minister audited a significant number of employees. He examined the Appellant's file by using fuel purchases and assuming that fuel consumption was 13 litres per 100 km driven. Based on this analysis, he discovered certain anomalies and concluded that the personal use was 12.37% or 5 132 km (see pages 1 to 3 of Exhibit I-3).
+[14] He then computed the benefit under paragraph 6(1)(e) by using the formula in subsection 6(2) based on the assumption that all or substantially all of the distance driven in the automobile was not driven in connection with or in the course of his employment.
+[15] The auditor also computed the automobile operating expense (paragraph 6(1)(k)). At page 2 of Exhibit I‑3, the auditor states:
+[TRANSLATION]
+In conclusion, the record does not reflect the total number of kilometres actually travelled for business and personal purposes; consequently, the personal driving is deemed, in accordance with the case law, to be 12 000 km (1 000 km per month) for the purposes of the assessment.
+[Emphasis added.]
+Consequently, the standby charge benefit was computed on the basis of 12 000 km of personal use.
+[16] Changing the personal use percentage from 9.66% to 12.37% — a 28% increase — causes the benefit included in the taxpayer's income to increase from $2,585.48 to $6,340.20 — a 145% increase.
+[17] In his Reply at subparagraph 6(h), the Minister states that he assumed, in his calculations, that the personal use was assessed as 14.186%. The evidence contains no explanation of the source of this percentage, which differs from the auditor's 12.37% reported on page 2 of Exhibit I-3.
+Analysis
+Is the vehicle an automobile?
+[18] The first issue is as follows: Is the vehicle an "automobile" within the meaning of subsection 248(1) of the ITA, considering that, according to the description given above, it normally has only two available seats? If it is not an automobile, paragraphs 6(1)(e) and 6(1)(k) do not apply (but it must nonetheless be determined whether there was a benefit under paragraph 6(1)(a).)
+[19] This first issue was considered in Gariépy v The Queen,[1] where, in circumstances similar to those of this decision, Bédard J. held that the vehicle was an automobile within the meaning of the ITA. I agree with his analysis of this issue. The vehicle in the case at bar is also an automobile.
+Does Anderson v. The Queen apply?
+[20] The Appellant cites the decision in Anderson v. The Queen.[2] Although certain aspects of that case are similar to the instant decision, there are important differences.
+[21] In Anderson, the disputed trips were solely between the employer's office and the employee's house. The Minister had assessed a benefit under paragraph 6(1)(a) of the ITA in respect of those trips. The trips from the house to a site where the technician would have to make a repair were accepted as business travel. The vehicles were used only for business trips and trips away from home and for no other purpose.[3]
+[22] The employer insisted that the employees take their vehicles home, because it asked the employees to respond to calls when they were at home, and a quick response was only possible if the vehicles containing the equipment were kept at their homes. Such calls were received when the technicians were on call, but they were also occasionally received when they were not on call but their help was needed. In view of the circumstances, Beaubier J. determined that the trips between office and home did not constitute a benefit to the employees.
+[23] Although some similarities exist, the circumstances of this decision are materially different. For one thing, the trips in issue here are not between the employer Abbott's office and the employee's personal residence.
+[24] Moreover, the trips in issue here were driven for personal purposes. Abbott allowed the vehicle to be used for personal purposes (see Exhibit I‑1, page 3). The employer in Anderson did not permit any personal use.
+[25] The facts of Anderson differ from the facts of the instant decision.[4] Consequently, the applicability of paragraphs 6(1)(e) and 6(1)(k) must be considered.
+Standby charge
+[26] The Minister assessed the standby charge benefit on the basis that it was 2% per month, multiplied by 12 months, multiplied by the cost of the Chevrolet Astro. By calculating the benefit in this manner, the Minister assumed that all or substantially all the distance travelled by the Chevrolet Astro was not in connection with or in the course of Mr. Thibault's employment.[5]
+[27] By taking this position, the Respondent was following the administrative practice under which anything above 10% personal use means that "all or substantially all" ("la totalité ou presque") of the use is not related to business.
+[28] Although it is helpful, both for taxpayers and the Minister's employees, to have an informal percentage-based rule as a guide, this administrative rule cannot be binding on the courts, and I must apply the "all or substantially all" test to the specific facts of this decision having regard to the case law.[6]
+[29] Under the circumstances, the 12.37% personal use that was calculated here was not high enough to conclude that all or substantially all of the use of the Chevrolet Astro was not related to business.[7]
+[30] Consequently, the standby charge benefit cannot be computed as 2% of the vehicle's price; rather, it must be computed as a percentage equal to [(A/B) X 2%] where B is 12 000 km and A is the number of kilometres travelled for personal purposes.
+Operating expense benefit
+[31] According to the Minister's calculations, the operating expense benefit was 12 000 km X $0.16[8] = $1,920. However, paragraph 6(1)(k) very clearly states that the benefit is equal to the number of kilometres travelled for personal purposes, multiplied by the prescribed amount.
+[32] The operating expense benefit must be computed based on the kilometres actually travelled for personal purposes, not arbitrarily based on a figure of 12 000 km.
+[33] I tried to understand where this mistake came from, and why the auditor concluded, in Exhibit I‑3, that it was necessary, [TRANSLATION] "according to the case law", to use 12 000 km. I am not certain, but it might simply be an erroneous reading of the cases. The Respondent provided me with two decisions[9] which stated that where there is a standby benefit, there is a presumption of 1 000 km per month or 12 000 km per year that can only be rebutted with clear evidence as to personal use.
+[34] However, the comments in both of those cases were made in the context of paragraph 6(1)(e) and where the formula in subsection 6(2) applied. In the definition of "A" in the formula, there is presumed to be 1 000 km of personal use per month or 12 000 km of personal use per year, unless it is shown that all or substantially all the use is devoted to employment-related purposes.
+[35] These comments do not apply in the context of paragraph 6(1)(k).[10] I note that Example 1 in the Canada Revenue Agency's Information Bulletin IT-63R5 sets out the calculation correctly.
+Distance travelled for personal purposes
+[36] The only thing that remains to be determined is the distance travelled for personal purposes. Although the Minister's Reply assumed a personal use of 14.186%, the auditor determined that it was 12.37%, or 5 132 km.[11]
+[37] In Exhibit I-3, the auditor sets out the anomalies that he believes that he has identified, as well as his calculation of the personal use.[12]
+[38] The Appellant submits that some mistakes were made in the calculation. Among other things, he believes that the vehicle's fuel consumption is greater than the 13 L / 100 km determined by the auditor, because that calculation does not take account of the weight of the equipment transported, the effect of the road conditions, and the impact of the winters. The amount of 13 L / 100 km is the average fuel consumption established by Natural Resources Canada for a 2002 Chevrolet Astro. The Appellant also says that the auditor did not include a business trip to Cowansville that would add 250 to 300 km to the calculation.
+[39] I agree that the trip to Cowansville should be taken into account and that the vehicle's fuel consumption was undoubtedly greater than the consumption established by Natural Resources Canada, but this does not account for the entire difference concerning the points set out at page 1 of Exhibit I‑3 under the headings [TRANSLATION] "July 27, 2002" and [TRANSLATION] "August 30, 2002."[13]
+[40] Consequently, I find that the auditor's calculation was too high, but that the distance reported by the Appellant was too low. In light of all the facts, 4 400 km of personal driving would be reasonable.
+[41] I note that the facts in Gariépy were very different. There, a distance of 16 563 km was travelled over a seven‑month period, and, based on the Minister's factual assumptions, the appellant told his employer that he drove 9 905 km on business. The Court found that the appellant had not rebutted the Minister's presumption that 7 000 km had been travelled for personal purposes.
+[42] In Gauthier v. Canada, [2007] T.C.J. No. 441, 2007 TCC 573, another decision involving a vehicle similar to the one in the instant case, I note that paragraph 17 states that the auditor concluded that the personal-use percentage was 9.9%. Tardif J. rejected this conclusion and accepted the appellant's determination.
+[43] In the future, I would recommend that the Appellant keep a detailed travel log if he is using a vehicle for business purposes.
+Conclusion
+[44] The appeal from the assessment is allowed, with costs of $30, and the matter is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that
+(1) the standby charge benefit must be calculated as follows:
+4 400 km x $26,425.84 x 2% x 12 = $2,325.47; and
+12 000
+(2) the operating expense benefit must be calculated as follows:
+4 400 km x $0.16/km = $704.
+Signed at Ottawa, Canada, this 15th day of January 2008.
+"Gaston Jorré"
+Jorré J.
+Translation certified true
+on this 8th day of May 2008.
+Brian McCordick, Translator
+CITATION: 2008TCC16
+COURT FILE NO.: 2007-1266(IT)I
+STYLE OF CAUSE: ROGER THIBAULT AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Montréal, Quebec
+DATE OF HEARING: July 16, 2007
+REASONS FOR JUDGMENT BY: The Honourable Justice Gaston Jorré
+DATE OF JUDGMENT: January 15, 2008
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Agent of the Respondent:
+Nadia Golmier, articling student
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] 2007 CarswellNat 3945, 2007 TCC 513, 2007 D.T.C. 1475 (Fr.), September 26, 2007.
+[2] 2002 CarswellNat 5025, 2002 D.T.C. 1876, [2002] 4 C.T.C. 2008.
+[3] According to the evidence, there was only one occasion in which one of the five appellants went on a personal trip.
+[4] Since I have already determined that the vehicle in the instant case is an automobile, I will not devote any more time to that aspect of Anderson. However, I will note that the respondent in Anderson made the assessment under paragraph 6(1)(a) and not under paragraphs 6(1)(e) and 6(1)(k) of the ITA; there does not appear to have been an argument that the vehicle in that matter was an automobile.
+Although I need not answer these questions, one could ask the following question about Anderson: Would the result not have been the same if an automobile had been involved?
+[5] With the result that A = B in the formula in subsection 6(2) of the ITA.
+[6] See for example Ruhl v. Canada, [1997] T.C.J. No. 1365, [1998] G.S.T.C. 4, 98 G.T.C. 2055; Fournier v. The Queen, 2004 TCC 786; 547931 Alberta Ltd. v. The Queen, 2003 TCC 170; Keefe v .The Queen, 2003 TCC 791.
+The parties did not cite this case law. I am raising it on my own initiative.
+[7] This would be the case with 14.186% as well.
+[8] The rate of $0.16 per kilometre is set out in section 7305.1 of the Income Tax Regulations.
+[9] Tremblay v. Canada, [2000] T.C.J. No. 547, 2000 D.T.C. 2414; Boucher v. The Queen, 2006 TCC 439.
+[10] There, the Minister determined that personal use was well below 12 000 km in any event.
+[11] In his report (Exhibit I-3, page 2), the auditor states that he did not take account of the gasoline fill-ups done on Fridays, Saturdays or Mondays, which could have increased the personal use. I do not see how filling the tank on those days would have increased personal use in and of itself. I therefore limited my examination to the specific points raised by the auditor.
+[12] The first anomaly dates back to late 2001, prior to the year in question. The second is that the employee filled up the tank when he was not working. I am not taking these two anomalies into account.
+[13] For example, under "August 31, 2002", the fuel purchase of August 30, 2002 was 103 litres. I accept the Appellant's testimony that the purchase was made on August 30, 2002. The reported distance was 327 km for both weeks. In addition, a distance of 103 km for personal and business purposes was reported for the following week, for a total of 430 km. A distance of 430 km on 103 litres of fuel corresponds to roughly 24 L / 100 km.

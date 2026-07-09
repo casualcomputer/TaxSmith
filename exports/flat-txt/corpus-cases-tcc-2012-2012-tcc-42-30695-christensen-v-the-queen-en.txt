@@ -1,0 +1,99 @@
+Title: Christensen v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30695/index.do
+Corpus path: corpus/cases/tcc/2012/2012-tcc-42-30695-christensen-v-the-queen-en.md
+Document type: case_law
+Last modified: 2012-02-01
+
+# Christensen v. The Queen
+
+- Citation: 2012 TCC 42
+- Decision date: 2012-02-01
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7193, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Christensen v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2012-02-01
+Neutral citation
+2012 TCC 42
+File numbers
+2011-1857(IT)I
+Judges and Taxing Officers
+Georgette Anne Sheridan
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2011-1857(IT)I
+BETWEEN:
+DARYL CHRISTENSEN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on January 24, 2012, at Vancouver, British Columbia
+Before: The Honourable Justice G. A. Sheridan
+Appearances:
+Agent for the Appellant:
+Glen Christensen
+Counsel for the Respondent:
+Dawn Francis
+____________________________________________________________________
+JUDGMENT
+In accordance with the attached Reasons for Judgment, the appeal from the reassessment of the 2006 taxation year made under the Income Tax Act is dismissed.
+Signed at Ottawa, Canada, this 1st day of February 2012.
+“G. A. Sheridan”
+Sheridan J.
+Citation: 2012TCC42
+Date: 20120201
+Docket: 2011-1857(IT)I
+BETWEEN:
+DARYL CHRISTENSEN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Sheridan J.
+[1] In 2006, the Appellant, Daryl Christensen, was employed by Hay's Roof Management Ltd., a company in which his father, Glen Christensen, owned 100% of the common shares. Sometime in 2008, the Minister of National Revenue conducted a compliance audit of Hay's Roof Management Ltd. during the course of which, the auditor discovered the company had paid $15,916 in respect of a condo the Appellant purchased in 2006. Four cheques totaling this amount had been made out to various payees; the respective amounts were expensed in the company’s computerized accounting records. In these circumstances, the Minister reassessed to include the $15,916 in the Appellant’s income as an employment benefit under sections 5 and 6 of the Income Tax Act (“the Act”).
+[2] Glen Christensen acted as the Appellant’s agent and testified on his behalf. He was able to speak to the facts both in his capacity as the Appellant’s father and as the directing mind of Hay's Roof Management Ltd. The Appellant declined to give evidence in chief but was called as a witness by the Respondent.
+[3] By way of background, the Appellant through his then representative objected to the reassessment on the basis that the $15,916 was a “home relocation loan” under sections 80.4 and 248(1) of the Act[1]. This also formed one[2] of the basis for the Appellant’s appeal to the Tax Court of Canada. Except to the extent it reflects on the credibility of the Appellant’s position, this ground of appeal is not relevant as it was abandoned by the Appellant at the hearing. According to Glen Christensen, what ought to have been pled was that the $15,916 was a loan to the Appellant from him in his personal capacity as his father and further, that the loan had been inadvertently recorded in the books of Hay's Roof Management Ltd. as a company expense.
+[4] While this took the Respondent by surprise, as it was under the Informal Procedure, the Appellant was permitted to proceed on the new footing. I must say counsel for the Respondent acquitted herself very well given the sudden change in the Appellant’s position.
+[5] Turning, then, to the issue at hand, Glen Christensen admitted that the four cheques totaling $15,916 had been paid by Hay's Roof Management Ltd. for the purchase and improvements to the Appellant’s condo. Further, he admitted on cross-examination (after reviewing a copy of the auditor’s analysis of the company’s accounting records[3]) that the $15,916 had been expensed by the company. However, he went on to say that the company’s records did not accurately reflect the reality of the situation. Because the company owed him money in his capacity as a shareholder, Glen Christensen caused Hay's Roof Management Ltd. to make the loan advances directly to the Appellant on his behalf. While at a loss to explain how he could have made such an error, Glen Christensen explained he had then mistakenly entered the payments in the ‘expense’ category of the company’s books when, in fact, they should have been recorded in the ‘shareholder’s loan’ account[4]. When I asked Glen Christensen if he had any documentation to support his contentions regarding the personal loan to the Appellant or his shareholder loan agreement with Hay's Roof Management Ltd., he answered in the negative. The loan agreement between him and his son was verbal and he had no papers in respect of the shareholder loan.
+[6] As I explained to the Appellant and his agent at the hearing, it is for the taxpayer to prove wrong the assumptions upon which a reassessment is based. In the present matter, the Appellant failed to discharge this burden. With no documentation to corroborate their evidence, the credibility of the Appellant and Glen Christensen was crucial to the success of the appeal. I regret to say I did not find their evidence persuasive. In my view, their testimony had more to do with rewriting history than recounting the facts as they existed at the time.
+[7] First of all, if Glen Christensen’s story regarding the shareholder loan and accounting errors were true, why was it advanced for the first time at the hearing of the appeal? While it seems the Appellant was out of the country for some period during the audit of Hay's Roof Management Ltd., given his father’s involvement in the corporate audit and his pro-active role in the prosecution of the Appellant’s appeal, it seems odd that Glen Christensen would not have mentioned the nature of the payments to the auditor or at the objection stage. His explanation was that the auditor had never asked him about the four payments. When presented on cross‑examination with copies of the auditor’s notes to the contrary, Glen Christensen still maintained he could not recall ever having discussed the payments with him. In my view, it defies common sense to think that if Glen Christensen’s simple explanation of the personal loan were true, the Appellant would have doggedly challenged the reassessment on the much more complex “home relocation loan” provision about which he candidly testified he knew nothing. The Appellant also had a very selective memory: while he testified that any discussions he and Glen Christensen might have had about the loan would certainly have occurred outside the business premises of Hay's Roof Management Ltd., he also said he could not recall ever having discussed the terms of the loan with his father. For his part, Glen Christensen said they had discussed the loan and interest was to be payable at 5 per cent. In any case, both were clear that the Appellant had never repaid the $15,916 to his father. Nor is there any evidence that amount was paid back to Hay's Roof Management Ltd.
+[8] Given the witnesses’ lack of credibility and corroborating documentation, I am unable to find that the Appellant has rebutted the assumptions upon which the reassessment was based. Given that the Appellant was an employee of Hay's Roof Management Ltd. at the time the payments were made on his behalf and that he never repaid the amount, the $15,916 constituted an employment benefit as contemplated by the broadly drafted[5] paragraph 6(1)(a) of the Act. There is no evidence that Hay's Roof Management Ltd. forgave the loan but even if it had, the benefit would still have been included in income under subsection 6(15). The appeal of the reassessment of the 2006 taxation year is dismissed.
+Signed at Ottawa, Canada, this 1st day of February 2012.
+“G. A. Sheridan”
+Sheridan J.
+CITATION: 2012TCC42
+COURT FILE NO.: 2011-1857(IT)I
+STYLE OF CAUSE: DARYL CHRISTENSEN AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Vancouver, British Columbia
+DATE OF HEARING: January 24, 2012
+REASONS FOR JUDGMENT BY: The Honourable Justice G. A. Sheridan
+DATE OF JUDGMENT: February 1, 2012
+APPEARANCES:
+Agent for the Appellant:
+Glen Christensen
+Counsel for the Respondent:
+Dawn Francis
+COUNSEL OF RECORD:
+For the Appellant:
+Name: n/a
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Exhibit R-1, Tab 5.
+[2] For reasons the Appellant was at a loss to explain, reference was also made to subsection 188.2(2) of the Act having to do with the suspension of a registered charity’s authority to issue charitable receipt donations.
+[3] Exhibit R-1, Tabs 15 and 16, for identification only.
+[4] Exhibit R-1, Tab 15.
+[5] Canada v. Hoefele, [1996] 1 F.C. 322 at paragraph 21 (F.C.A.).

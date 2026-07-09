@@ -1,0 +1,168 @@
+---
+title: "Thorpe v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27788/index.do"
+last_modified: "2007-07-09"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 TCC 410"
+citation2: ""
+neutral_citation: "2007 TCC 410"
+decision_date: "2007-07-09"
+language: "en"
+item_id: "27788"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 269
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T22:56:40.319000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "555c6ad99570efe59ad40adaac29ec43b6f9c9bdfd8b091abfdf4d494637af08"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Thorpe v. The Queen
+
+- Citation: 2007 TCC 410
+- Decision date: 2007-07-09
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 269, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Thorpe v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-07-09
+Neutral citation
+2007 TCC 410
+File numbers
+2006-2143(IT)I
+Judges and Taxing Officers
+David W. Beaubier
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2006-2143(IT)I
+BETWEEN:
+CHERYL THORPE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on July 9, 2007 at Vancouver, British Columbia
+Before: The Honourable Justice D.W. Beaubier
+Appearances:
+Counsel for the Appellant:
+Max Weder
+Counsel for the Respondent:
+Lise Walsh
+Aman Sandhu (Law student)
+____________________________________________________________________
+JUDGMENT
+The appeals from the reassessments made under the Income Tax Act for the 2002 and 2003 taxation years are allowed and the reassessments are referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached Reasons for Judgment.
+The Appellant is awarded her costs throughout.
+Signed at Vancouver, British Columbia this 12th day of July, 2007.
+"D.W. Beaubier"
+Beaubier, D.J.
+Citation: 2007TCC410
+Date: 20070712
+Docket: 2006-2143(IT)I
+BETWEEN:
+CHERYL THORPE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Beaubier, J.
+[1] This appeal pursuant to the Informal Procedure was heard at Vancouver, British Columbia, on July 9, 2007. The Appellant’s husband, Michael Thorpe, testified. The Respondent called Diana Townley, the Canada Revenue Agency Appeals officer on the file.
+[2] The particulars in appeal are set out in paragraphs 12-19 and 22-25 of the Reply to the Notice of Appeal. They read:
+12. The Minister notified the Appellant on August 19, 2005, that she was entitled to [Canada Child Tax Benefit] CCTB for the 2002 base taxation year in the amounts totalling $6,421.88 as indicated in Schedule "A".
+13. The Minister notified the Appellant on August 19, 2005, that she was entitled to CCTB for the 2003 base taxation year in the amounts totalling $6,715.65 as indicated in Schedule "B".
+14. The Minister subsequently determined that the CCTB benefits calculation had not taken into account the income of the Spouse.
+15. The Minister notified the Appellant on October 20, 2005, that her entitlement to CCTB had been recalculated for the 2002 base taxation year. Therefore, the Minister requested that the Appellant repay CCTB in the amount of $6,421.88 for the 2002 base taxation year as indicated in Schedule "A".
+16. The Minister notified the Appellant on October 20, 2005, that her entitlement to CCTB had been recalculated for the 2003 base taxation year. Therefore, the Minister requested that the Appellant repay CCTB in the amount of $6,715.65 for the 2003 base taxation year as indicated in Schedule "B".
+17. The Appellant objected to the redeterminations for the 2002 and 2003 base taxation years dated October 20, 2005, by serving a Notice of Objection received by the Minister on November 30, 2005.
+18. The Minister confirmed the (Re)Determination of the Appellant's CCTB for the 2002 base taxation year by Notification of Confirmation dated April 11,2006 on the basis that the Appellant had not provided confirmation of the Spouse's income for that year.
+19. The Minister notified the Appellant on April 20, 2006, that she was entitled to CCTB for the 2003 base taxation year in the amounts totalling $185.40 as indicated in Schedule "B". This entitlement was calculated taking into account the income of the Spouse for that year.
+. . .
+Assumptions
+22. In so determining the Appellant's entitlement to the CCTB and confirming the(Re)Determination dated April 11,2006 for the 2002 base taxation year and by Notice dated April 20, 2006 for the 2003 base taxation year for the CCTB, the Minister assumed the following facts:
+a) the Appellant was married to Michael Thorpe (the "Spouse") throughout the period relevant to this appeal;
+b) the Appellant was not separated from the Spouse due to a breakdown of their marriage at any point during the period relevant to this appeal;
+c) the Spouse was a non-resident throughout the period relevant to this appeal;
+d) the Appellant and the Spouse are the parents of the children, Christopher, born on August 20,1990 and Hilary, born on January 18, 1993;
+e) for the purpose of the calculation of the CCTB for the 2002 base taxation year, the Appellant's net income was $22,556.00 and the Spouse's net income was $73,769.00. The net family income was $96,325.00 as indicated in Schedule "A"; and
+f) for the purpose of the calculation of the CCTB for the 2003 base taxation year, the Appellant's net income was $23,317.00 and the Spouse's net income was $67,448.00. The net family income was $90,765.00 as indicated in Schedule "B".
+23. The assumptions of fact outlined in paragraphs e and f above were first made by the Minister in confirming the redetermination for the 2002 base taxation year and in redetermining the 2003 base taxation year.
+B. ISSUES TO BE DECIDED
+24. The issues in this appeal are:
+a) whether the Minister properly calculated the Appellant's entitlement, if any, to the CCTB for the 2002 and 2003 base taxation years; and
+(b) whether the Appellant is entitled to [Goods and Services Tax Credit] GSTC for the 2002 base taxation year.
+C. STATUTORY PROVISIONS RELIED ON
+25. He relies on sections 3, 114, 115 and 122, 122.5, 122.6 and subsections 122.5(6.2), 122.61(3) and 248(1) of the [Income Tax] Act.
+[3] None of the assumptions were refuted by the evidence. The Goods and Services Tax Credit question was not in dispute at the Hearing.
+[4] The Appellant argues that because her husband was a non-resident of Canada throughout the year and at all material times, his net income should not be included in the calculation of the Canada Child Tax Benefit (“CCTB”) for the base taxation year for either year in appeal.
+[5] Appellant’s Counsel referred to subsection 122.61(3) of the Income Tax Act (the “Act”) which reads:
+(3) Non-residents and part-year residents - For the purposes of this section, unless a person was resident in Canada throughout a taxation year,
+(a) for greater certainty, the person’s income for the year shall be deemed to be equal to the amount that would have been the person’s income for the year had the person been resident in Canada throughout the year; and
+(b) the person’s earned income for the year shall not exceed that portion of the amount that would, but for this paragraph, be the person’s earned income that is included because of section 114 or subsection 115(1) in computing the person’s taxable income or taxable income earned in Canada, as the case may be, for the year.
+Subsection 122.61(1) reads in part:
+122.61 (1) Deemed overpayment [Child Tax Benefit] - Where a person and, where the Minister so demands, the person’s cohabiting spouse or common-law partner at the end of a taxation year have filed a return of income for the year, an overpayment on account of the person’s liability under this Part for the year is deemed to have arisen during a month in relation to which the year is the base taxation year, equal to the amount determined by the formula
+[6] The Shorter Oxford English Dictionary (1993) defines “cohabit” as “Live together” or “Live together as husband and wife.” “Cohabiting spouse” is defined in section 122.6 as follows:
+"cohabiting spouse or common-law partner" of an individual at any time means the person who at that time is the individual’s spouse or common-law partner and who is not at that time living separate and apart from the individual and, for the purpose of this definition, a person shall not be considered to be living separate and apart from an individual at any time unless they were living separate and apart at that time, because of a breakdown of their marriage or common-law partnership, for a period of at least 90 days that includes that time
+Thus, the Thorpes were cohabiting spouses.
+[7] During the period in question, Michael Thorpe was treated as a resident of the United States by both the Canadian and United States tax authorities pursuant to the Canada-U.S. Income Tax Convention (the “Convention”). Under Article IV of the Convention, he is therefore “an individual” who “has a substantial presence, permanent home or habitual abode in the United States. . .”
+[8] Mr. Thorpe returned to the Appellant’s home in Victoria, B.C. every second weekend and Cheryl and their two children went to his rented apartment in Seattle, Washington every long weekend and for the month of August. Mr. Thorpe’s income was not used to support the family but a vehicle was purchased in Cheryl’s name in 2001 which she operated and Mr. Thorpe made the substantial monthly payments on it. Cheryl rented a house in Victoria where she lived with their two children.
+[9] Respondent’s Counsel argued that to allow the appeal would in essence allow the Appellant and Michael relief that is not available to other couples with two residences in Canada. But this couple had the expense of two residences, not one, and one of the residences was in another country because Michael, an architect, could not get a job in Canada.
+[10] Appellant’s Counsel argued that subsection 122.61(3) can only apply if Michael resided in Canada for part of a year; and that it does not apply where Michael resided in the United States for the whole year.
+[11] It should be noted that, in this Court’s view, the provisions in question should be read generously in favour of enabling the children to receive the benefit of the CCTB.
+[12] The word “throughout” is defined by the Shorter Oxford English Dictionary (1993) as:
+2a: Through the whole of; in or to every part of; everywhere in.”
+The meaning of the French version of subsection 122.61(3) is similar. The evidence before the Court is that the only income that Michael had in any year in question was earned or obtained in the U.S.A. The Technical Note respecting subsection 122.61(3) reads as follows:
+May 1992 TN (Child Tax Benefit): Subsection 122.61(3) stipulates that, where a person was not resident in Canada at any time in a year, that person’s income for the year is equal to the amount that would have been the person’s income for the year had the person been a Canadian resident. This subsection also provides that, for the purpose of the earned income supplement, the person’s earned income for the year in such a case includes only such income that was taxable in Canada.
+This confirms the argument of the Appellant’s counsel. Section 114 deals with a part-time resident in Canada during the year and subsection 115(1) applies to a non-resident’s taxable income in Canada. Neither has any application to Michael Thorpe.
+[13] On the basis of the wording of subsection 122.61(3) and the reference to it in the Technical Note quoted, the appeal is allowed.
+[14] The Appellant is awarded her costs throughout.
+Signed at Vancouver, British Columbia this 12th day of July, 2007.
+"D.W. Beaubier"
+Beaubier, D.J.
+CITATION: 2007TCC410
+COURT FILE NO.: Docket: 2006-2143(IT)I
+STYLE OF CAUSE: Cheryl Thorpe v. The Queen
+PLACE OF HEARING: Vancouver, British Columbia
+DATE OF HEARING: July 9, 2007
+REASONS FOR JUDGMENT BY: The Honourable Justice D.W. Beaubier
+DATE OF JUDGMENT: July 12, 2007
+APPEARANCES:
+Counsel for the Appellant:
+Max Weder
+Counsel for the Respondent:
+Lise Walsh
+Aman Sandhu (Law student)
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Max Weder
+Firm: Borden Ladner Gervais LLP
+Vancouver, British Columbia
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

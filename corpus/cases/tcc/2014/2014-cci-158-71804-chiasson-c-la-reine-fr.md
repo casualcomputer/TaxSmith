@@ -1,0 +1,181 @@
+---
+title: "Chiasson c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/71804/index.do"
+last_modified: "2014-05-20"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2014 CCI 158"
+citation2: ""
+neutral_citation: "2014 CCI 158"
+decision_date: "2014-05-20"
+language: "fr"
+item_id: "71804"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5377
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T15:56:28.970000+00:00"
+cases_cited_count: 10
+cases_citing_count: 3
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "6cbe4d714527f8861654c278f9e5bc42f184635402400c7c7591bca71d6bee85"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Chiasson c. La Reine
+
+- Citation: 2014 CCI 158
+- Decision date: 2014-05-20
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5377, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Chiasson c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2014-05-20
+Référence neutre
+2014 CCI 158
+Numéro de dossier
+2013-2131(IT)I
+Juges et Officiers taxateurs
+Johanne D’Auray
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2013-2131(IT)I
+ENTRE :
+HEATHER CHIASSON,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 26 novembre 2013, à Ottawa (Ontario).
+Devant : L’honorable juge Johanne D’Auray
+Comparutions :
+Représentant de l’appelante :
+Edmond Chiasson
+Avocate de l’intimée :
+Me Natasha Wallace
+JUGEMENT
+L’appel relatif à la nouvelle cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2011 est rejeté.
+Signé à Montréal (Québec), ce 20e jour de mai 2014.
+« Johanne D’Auray »
+Juge D’Auray
+Traduction certifiée conforme
+ce 24e jour de juillet 2014.
+Maxime Deslippes, traducteur
+Référence : 2014 CCI 158
+Date : 20140520
+Dossier : 2013-2131(IT)I
+ENTRE :
+HEATHER CHIASSON,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge D’Auray
+Introduction [1] Aux termes du paragraphe 163(1) de la Loi de l’impôt sur le revenu (la « Loi »), le contribuable qui omet d’inclure un montant dans sa déclaration de revenus pour deux années d’imposition au cours d’une période de quatre ans est passible d’une pénalité égale à 10 % du revenu non déclaré pour l’année d’imposition la plus récente.
+[2] L’appelante, Mme Heather Chiasson, s’est vu imposer une pénalité par le ministre du Revenu national (le « ministre »), en application du paragraphe 163(1) de la Loi, pour avoir omis de déclarer un revenu dans plus d’une année d’imposition au cours d’une période de quatre ans. Pour éviter cette pénalité, Mme Chiasson doit établir qu’elle a fait montre de diligence raisonnable dans la déclaration de ses revenus.
+La question à trancher [3] La question à trancher en l’espèce consiste à savoir si le ministre a appliqué correctement la pénalité que prévoit le paragraphe 163(1) de la Loi.
+La preuve [4] Mme Chiasson a omis de déclarer des montants de revenu pour ses années d’imposition 2007, 2009 et 2011. Pour 2007, elle a omis de déclarer un revenu d’emploi de 5 011 $. Pour 2009, elle a omis de déclarer un revenu d’emploi de 9 832 $. Pour 2011, elle a omis de déclarer un revenu d’emploi de 67 599 $ et une allocation de retraite de 4 216 $.
+[5] Mme Chiasson est infirmière de profession. Depuis les années 1980, elle joue un rôle actif dans le domaine de la politique, et y exerce des fonctions tant bénévoles que rémunérées. Mme Chiasson et son époux, Edmond Chiasson, ont quitté la Nouvelle-Écosse en 1991 pour s’installer à Ottawa.
+[6] Jusqu’à la fin de 2007, Mme Chiasson a travaillé pour la Commission de la Capitale nationale (la « CCN »). Après avoir quitté la CCN, elle est entrée au service de l’Agence libérale fédérale du Canada (l’« Agence libérale »).
+[7] En 2007, Mme Chiasson a reçu un revenu d’emploi de trois employeurs : la CCN, la société de son époux - 1323666 Ontario Inc. (« Ontario Inc. ») – et l’Agence libérale.
+[8] Mme Chiasson a reçu des feuillets T4 de ces trois employeurs à son adresse domiciliaire. Pour ce qui est de l’année d’imposition 2007, elle a déclaré avoir touché un revenu d’emploi d’Ontario Inc. et de la CCN. Toutefois, elle a omis de déclarer le revenu de 5 011 $ qu’elle avait reçu de l’Agence libérale.
+[9] En 2008, Mme Chiasson n’a travaillé que pour l’Agence libérale; elle était rémunérée aux deux semaines, par dépôt direct. Pour cette année-là, elle a déclaré la totalité de son revenu.
+[10] À l’automne de 2009, Mme Chiasson travaillait encore pour le chef du Parti libéral, mais, à la suite d’une réorganisation du personnel, elle est devenue une employée du gouvernement du Canada. De ce fait, elle recevait ses chèques de paye du gouvernement du Canada à son bureau.
+[11] En déclarant ses revenus pour l’année d’imposition 2009, elle a fait état d’un revenu d’emploi de l’Agence libérale d’un montant de 65 802 $, mais elle a omis de déclarer celui qu’elle avait reçu du gouvernement du Canada, soit 9 832 $.
+[12] À compter de la fin de 2009, Mme Chiasson était une employée du gouvernement du Canada, à l’exception d’une période de six semaines au printemps de 2011, après le déclenchement d’une élection fédérale. Durant la « période électorale », elle a été rémunérée par l’Agence libérale.
+[13] En déclarant ses revenus d’emploi pour son année d’imposition 2011, Mme Chiasson a dit avoir reçu un montant de 11 440 $ de l’Agence libérale, mais elle a omis de faire état du revenu d’emploi de 67 599 $ qu’elle avait reçu du gouvernement du Canada. Pour l’année 2011, elle a également omis de déclarer une allocation de retraite d’un montant de 4 216 $.
+[14] Mme Chiasson n’a pas contesté le fait d’avoir omis de déclarer des montants de revenu pour les années d’imposition 2007, 2009 et 2011. Elle a dit avoir reçu ses feuillets T4 de l’Agence libérale à son adresse domiciliaire, mais elle n’a pas pu se souvenir si elle avait reçu des feuillets T4 du gouvernement du Canada.
+[15] Mme Chiasson a expliqué qu’à la fin de chaque année d’imposition elle remettait tous ses renseignements fiscaux pertinents, ainsi que les documents connexes, à son époux, M. Chiasson. Ce dernier était chargé de communiquer avec leur comptable, Mme Nancy Leong. Celle-ci était leur comptable depuis les dix dernières années et elle avait pour tâche de préparer les déclarations de revenus de la famille Chiasson.
+[16] Avant de produire les déclarations de revenus de la famille Chiasson à l’Agence du revenu du Canada (l’« ARC »), et pour en vérifier l’exactitude, Mme Leong les transmettait à M. Chiasson pour que chaque membre de la famille les passe en revue. Mme Leong établissait également, pour examen, un sommaire indiquant le revenu brut, les dépenses personnelles de même que le revenu net de chacun des membres de la famille.
+[17] Mme Chiasson a déclaré que, si elle avait examiné le sommaire de 2011 que sa comptable avait établie, elle aurait constaté que son revenu était inexact, car elle savait qu’elle avait gagné un revenu d’emploi supérieur à 11 440 $ dans son année d’imposition 2011.
+[18] Selon la preuve, Mme Leong avait informé M. Chiasson que son épouse n’avait pas déclaré la totalité de ses revenus dans des années antérieures. Par une lettre datée du 6 janvier 2009, Mme Leong a fait savoir à Mme Chiasson que l’ARC avait établi une nouvelle cotisation à l’égard de son année d’imposition 2007 et qu’elle avait inclus dans ses revenus un revenu d’emploi additionnel reçu de l’Agence libérale. Dans sa lettre, Mme Leong a écrit : [traduction] « S’il n’y a aucune contestation au sujet du revenu versé par le Parti libéral du Canada, cela signifie que la nouvelle cotisation est exacte. »
+[19] Dans un courriel envoyé à M. Chiasson daté du 5 octobre 2010, Mme Leong lui a mentionné que son épouse avait fait l’objet d’une nouvelle cotisation pour l’année d’imposition 2009, en vue d’inclure un revenu d’emploi venant du gouvernement du Canada. Dans ce courriel, elle lui a posé la question suivante : [traduction] « Heather a-t-elle travaillé pour le gouvernement ou pour une autre entreprise en 2009? La nouvelle cotisation est-elle exacte? Sinon, je communiquerai avec l’ARC […] Si la nouvelle cotisation est exacte, veuillez envoyer dès que possible à notre bureau un chèque d’un montant de 333,34 $, payable au “Receveur général du Canada” […] ».
+[20] Après avoir fait l’objet d’une nouvelle cotisation à l’égard d’un revenu d’emploi additionnel pour les années d’imposition 2007 et 2009, Mme Chiasson n’a rien fait pour déterminer pourquoi les omissions avaient eu lieu. Par exemple, elle n’a pas communiqué avec Ressources humaines, au gouvernement du Canada, pour savoir à quelle adresse son feuillet T4 avait été envoyé.
+[21] Les déclarations de revenus de Mme Chiasson pour les années d’imposition 2009 et 2011 ont été produites par voie électronique. Mme Chiasson a signé la partie F, dans laquelle elle déclarait que les montants indiqués à la partie B, qui incluait son revenu total, étaient exacts et complets.
+[22] À l’instruction, Mme Chiasson n’a pas blâmé sa comptable pour n’avoir pas déclaré la totalité de ses revenus.
+Les positions des parties [23] Mme Chiasson a fait valoir qu’il n’y avait pas lieu d’imposer une pénalité, car on avait retenu de l’impôt sur le revenu qu’elle avait omis de déclarer. De plus, le gouvernement du Canada était son employeur; il s’agissait de l’entité qui établissait les feuillets T4 et on ne pouvait donc pas dire que son revenu n’avait pas été déclaré.
+[24] Elle a également soutenu qu’aucune des trois omissions n’était délibérée et que la Cour ne devrait pas tenir compte de l’omission faite dans sa déclaration de revenus de 2007, parce qu’elle n’était pas évoquée dans la réplique que l’intimée avait déposée en réponse à l’avis d’appel. Mme Chiasson a également exprimé l’avis que l’ARC aurait dû l’informer, après sa première omission, de l’éventuelle imposition d’une pénalité. Enfin, elle a soutenu avoir fait montre de diligence raisonnable en 2009, car le montant qu’elle avait omis d’inclure dans sa déclaration de revenus était négligeable. Son omission était une erreur commise de bonne foi. Elle a invoqué la décision Franck c La Reine, 2011 CCI 179, 2011 DTC 1142, où le juge Hogan a énoncé que la pénalité que prévoit le paragraphe 163(1) de la Loi sera annulée si le contribuable prouve qu’il a fait montre de diligence raisonnable à l’égard de la première ou de la seconde omission. Elle a soutenu qu’elle avait prouvé avoir fait montre d’une telle diligence en déclarant son revenu pour l’année d’imposition 2009; il y avait donc lieu d’annuler la pénalité.
+[25] L’intimée a soutenu que la défense de diligence raisonnable ne s’applique qu’à l’année pour laquelle la pénalité est imposée, soit 2011 en l’espèce. Elle a ajouté que Mme Chiasson n’a pas établi qu’elle avait fait montre de diligence raisonnable en déclarant ses revenus pour l’année d’imposition 2011. Subsidiairement, a-t-elle fait valoir, Mme Chiasson n’a pas établi qu’elle avait fait montre de diligence raisonnable en déclarant ses revenus pour l’année d’imposition 2009.
+L’analyse et le droit applicable [26] Mme Chiasson a fait valoir qu’elle ne devrait pas être passible de la pénalité, car le gouvernement du Canada n’a subi aucune perte, l’impôt ayant été retenu par ses employeurs au moyen de retenues à la source. De plus, son employeur était le gouvernement du Canada et, étant donné que c’était lui qui avait établi les feuillets T4, il aurait dû connaître le montant qu’elle avait reçu à titre de revenu d’emploi.
+[27] Ces deux arguments ont été invoqués à maintes reprises et la Cour les a tous deux rejetés.
+[28] Pour ce qui est de l’argument concernant les retenues à la source, le libellé du paragraphe 163(1) de la Loi est clair : la pénalité est appliquée lorsque le contribuable omet à plusieurs reprises de déclarer un revenu. Il n’est pas question dans la Loi d’un [traduction] « impôt impayé ».
+[29] Pour ce qui est de l’argument concernant l’établissement d’un feuillet T4 par l’employeur, le juge Webb, dans la décision Porter c La Reine, 2010 CCI 251, [2011] 1 CTC 2322, a répondu à cet argument de la manière suivante, au paragraphe 2 de ses motifs du jugement :
+[…] Selon moi, les mots « dans une déclaration produite conformément à l’article 150 » signifient que les conditions pour l’imposition de la pénalité sont réunies (sous réserve de la possibilité d’invoquer le moyen de défense de la diligence raisonnable) si un revenu n’est pas inclus dans une déclaration de revenus produite par un contribuable. Par conséquent, il ne suffirait pas pour un contribuable qui est un employé et qui omet de déclarer un revenu d’emploi dans sa déclaration de revenus de simplement dire qu’un revenu d’emploi a été déclaré par son employeur lorsque ce dernier a établi les feuillets T4. Lorsque l’employeur établit ces feuillets, le montant est déclaré par l’employeur et non l’employé. La pénalité est imposée à la personne qui omet de déclarer un revenu dans sa déclaration de revenus et qui, en l’espèce, est l’employé.
+Cet argument ne peut donc pas être retenu.
+[30] Mme Chiasson a fait valoir qu’elle n’avait pas omis délibérément de déclarer des montants de revenu et qu’il y aurait donc lieu d’annuler la pénalité.
+[31] Il ressort clairement de la preuve que Mme Chiasson n’a pas délibérément omis de déclarer des montants de revenu, mais le critère qui permet d’éviter la pénalité prévue par le paragraphe 163(1) de la Loi n’est pas celui de savoir si Mme Chiasson a omis délibérément de déclarer des montants de revenu au moment de produire ses déclarations, mais plutôt si elle a fait montre de diligence dans la déclaration de ses revenus.
+[32] Mme Chiasson a fait valoir aussi qu’elle avait fait montre de diligence raisonnable dans la déclaration de ses revenus.
+[33] Le juge Dickson, de la Cour suprême du Canada, a mentionné dans l’arrêt R c Sault Ste. Marie, [1978] 2 RCS 1299, à la page 1326, qu’il existe deux fondements possibles à la défense de diligence raisonnable, dans le cas d’une infraction de responsabilité stricte :
+− une erreur de fait raisonnable, c’est-à-dire une croyance honnête, pour des motifs raisonnables, en un état de fait inexistant qui, s’il avait existé, aurait rendu l’acte ou l’omission innocent;
+− la diligence raisonnable dont on fait preuve pour se conformer à la loi, c’est‑à-dire le fait d’avoir pris toutes les précautions raisonnables en vue d’éviter le fait qui a donné lieu à l’infraction.
+[34] Dans la décision Pillar Oilfield Projects Ltd v Canada, [1993] GSTC 49, le juge Bowman a déclaré que la défense de diligence raisonnable énoncée dans l’arrêt Sault Ste. Marie s’appliquait aux pénalités administratives imposées en vertu de la Loi de l’impôt sur le revenu et de la Loi sur la taxe d’accise. La Cour d’appel fédérale a confirmé cette position dans l’arrêt Consolidated Canadian Contractors Inc. v Canada, [1998] GSTC 91.
+[35] En 2004, dans l’arrêt Corporation de l’École Polytechnique c Canada, 2004 CAF 127, [2004] GSTC 102, la Cour d’appel fédérale a déclaré qu’une personne qui invoque une erreur de fait raisonnable doit satisfaire à un double critère, qui est à la fois subjectif et objectif : subjectif[1], en ce sens que la personne doit d’abord établir qu’elle s’est elle-même méprise quant à la situation factuelle, et objectif, en ce sens que la personne doit établir qu’une personne raisonnable aurait commis la même erreur dans les circonstances. Quant à la question des précautions raisonnables, le critère applicable est uniquement objectif, car les précautions prises par le contribuable seront comparées à celles qu’une personne raisonnable aurait prises dans les mêmes circonstances.
+[36] Mme Chiasson a fait valoir que si elle prouve qu’elle a fait montre de diligence raisonnable à l’égard de l’une ou l’autre de ses années d’imposition 2009 ou 2011, il me faudra dans ce cas conclure qu’elle n’a pas à payer la pénalité que prévoit le paragraphe 163(1) de la Loi.
+[37] Pour ce qui est de l’omission particulière de déclarer un montant de revenu à laquelle il convient d’appliquer la défense de diligence raisonnable, la jurisprudence de la Cour n’est pas unanime. La première optique est que la défense de diligence raisonnable s’applique soit à la première omission de déclarer, soit à la seconde, tandis que la seconde optique est que la défense de diligence raisonnable ne s’applique qu’à la seconde omission. C’est à la seconde optique que je souscris, car c’est la seconde omission qui donne lieu à l’imposition d’une pénalité et non la première, et cette pénalité est calculée à partir du montant qui est en cause dans la seconde omission. De ce fait, selon la seconde optique, Mme Chiasson aurait à prouver qu’elle a fait montre de diligence raisonnable dans la déclaration de ses revenus pour l’année d’imposition 2011.
+[38] Au vu de la preuve et des admissions qu’ont faites M. et Mme Chiasson à propos de l’année d’imposition 2011, il me faudrait rejeter l’appel. M. Chiasson, qui agissait pour le compte de son épouse, a déclaré lors des plaidoiries que cette dernière n’avait pas fait montre de diligence dans la déclaration de ses revenus pour son année d’imposition 2011. Mme Chiasson a déclaré pour sa part que, si elle avait lu les documents que sa comptable avait préparés relativement à son année d’imposition 2011, elle aurait constaté que ses revenus d’emploi étaient nettement supérieurs à 11 440 $. Il va sans dire que cela ne satisfait pas au critère énoncé dans l’arrêt Sault Ste. Marie au sujet de la défense de diligence raisonnable.
+[39] Cependant, Mme Chiasson a fait valoir qu’elle avait bel et bien fait montre de diligence raisonnable dans la déclaration de ses revenus pour l’année d’imposition 2009. Comme la Cour d’appel fédérale n’a pas analysé la question de savoir laquelle des omissions doit être prise en compte pour la défense de diligence raisonnable, j’examinerai si Mme Chiasson a fait montre de diligence pour l’année d’imposition 2009.
+[40] Au cours de l’année d’imposition 2009, Mme Chiasson a reçu de deux employeurs des montants de revenu totalisant 75 634 $. Elle a fait valoir que le montant qu’elle avait omis de déclarer, soit 9 832 $, était minime par rapport à son revenu total. Il s’agissait à son avis d’une erreur de bonne foi. Elle a déclaré aussi que 2009 avait été pour elle une année difficile : elle avait été très occupée au travail et elle avait reçu un diagnostic de sclérose en plaques. Cela dit, l’appelante n’a pas soutenu que ses problèmes de santé l’avaient empêchée d’obtenir ses feuillets T4 ou de déclarer ses revenus.
+[41] Elle a fait valoir qu’elle avait bel et bien fait montre de diligence raisonnable dans la déclaration de ses revenus pour l’année d’imposition 2009. La différence entre le revenu qu’elle a déclaré, soit 65 802 $, et la somme de 75 634 $ qu’elle aurait dû déclarer était à ce point minime et l’erreur à ce point innocente, a‑t‑elle soutenu, qu’une personne raisonnable se trouvant dans les mêmes circonstances aurait pu commettre la même erreur. Elle a fait remarquer aussi qu’elle avait confié ses affaires fiscales à une comptable afin de s’assurer qu’elles étaient en ordre.
+[42] J’ai de la difficulté à admettre que Mme Chiasson a commis une erreur de fait en ce qui concerne la situation en 2009. Elle savait qu’à la suite de la réorganisation du personnel en 2009, elle avait eu cette année-là deux employeurs : l’Agence libérale et le gouvernement du Canada. Lors de son témoignage, elle a déclaré qu’elle ne s’était pas rendu compte que seul le feuillet T4 établi par l’Agence libérale avait été transmis à sa comptable. Elle n’avait pas examiné ses feuillets T4 et ne savait donc pas qu’il manquait celui que le gouvernement du Canada avait établi et que le revenu correspondant n’avait pas été déclaré.
+[43] De plus, le 6 janvier 2009, soit avant de produire sa déclaration de revenus pour l’année d’imposition 2009, Mme Chiasson a appris de sa comptable, Mme Leong, qu’elle avait omis de déclarer un revenu d’emploi pour l’année d’imposition 2007. Après avoir été informée de ce fait, Mme Chiasson n’a pas tenté de déterminer pourquoi l’omission avait eu lieu en 2007, de façon à éviter que la situation se reproduise. On se serait attendu à ce que Mme Chiasson, après avoir été prévenue par Mme Leong, fasse montre de plus de diligence lors de la production de ses déclarations de revenus les années suivantes. Il est toutefois ressorti de la preuve qu’elle n’a rien fait pour s’assurer qu’elle recevait tous ses feuillets T4. Elle n’a pas examiné avec soin ses déclarations de revenus ou le sommaire que Mme Leong lui avait transmis et, de ce fait, elle a omis de déclarer des revenus à trois reprises au cours d’une période de cinq ans.
+[44] Mme Chiasson a fait valoir qu’elle n’était pas au courant des conséquences de son omission répétée de déclarer la totalité de ses revenus et elle a prétendu que l’ARC aurait dû l’en avertir. Il est vrai que la pénalité que prévoit le paragraphe 163(1) de la Loi a des conséquences graves[2]. Il serait bon que l’ARC, si elle ne le fait pas déjà, avertisse les contribuables, après une première omission de déclarer un montant de revenu, que si une deuxième omission de même nature survient dans les quatre années qui suivent, une pénalité égale à 10 % du revenu non déclaré leur sera imposée. Cela dit, la jurisprudence établit clairement que l’ignorance de la loi ou une erreur d’interprétation de cette dernière ne constitue pas une erreur de fait raisonnable. Par exemple, dans l’affaire Leclerc c La Reine, 2010 CCI 99, 2010 DTC 1209, le contribuable ignorait quelles étaient les conséquences du fait d’omettre de produire le formulaire T1135 avant la date limite, et le juge Favreau a conclu que cela ne constituait pas une défense.
+[45] Je suis consciente de la sévérité de la pénalité que prévoit le paragraphe 163(1) de la Loi et je me rends compte que Mme Chiasson n’a pas omis délibérément de déclarer son revenu, mais, comme l’a indiqué la juge Woods dans la décision Morgan c La Reine, 2013 CCI 232, 2013 DTC 1188, au paragraphe 27 : « [m]algré le caractère sévère de la pénalité, il n’appartient pas aux tribunaux de modifier la loi. Le législateur a jugé bon de prévoir la pénalité au paragraphe 163(1) de la Loi et les tribunaux ont l’obligation de l’appliquer. »
+[46] À mon avis, Mme Chiasson n’a pas établi qu’elle avait fait montre de diligence raisonnable à l’égard de ses années d’imposition 2009 ou 2011. En conséquence, il est justifié d’imposer la pénalité prévue au paragraphe 163(1) de la Loi et l’appel est rejeté.
+Signé à Montréal (Québec), ce 20e jour de mai 2014.
+« Johanne D’Auray »
+Juge D’Auray
+Traduction certifiée conforme
+ce 24e jour de juillet 2014.
+Maxime Deslippes, traducteur
+RÉFÉRENCE :
+2014 CCI 158
+No DU DOSSIER DE LA COUR :
+2013-2131(IT)I
+INTITULÉ :
+HEATHER CHIASSON c SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Ottawa (Ontario)
+DATE DE L’AUDIENCE :
+Le 26 novembre 2013
+MOTIFS DU JUGEMENT :
+L’honorable juge Johanne D’Auray
+DATE DU JUGEMENT :
+Le 20 mai 2014
+COMPARUTIONS :
+Représentant de l’appelante :
+Edmond Chiasson
+Avocate de l’intimée :
+Me Natasha Wallace
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Cabinet :
+Pour l’intimée :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Je suis personnellement d’avis qu’il n’est pas pertinent de décrire l’élément subjectif du critère de l’erreur de fait raisonnable, car, chaque fois qu’un contribuable soutient qu’il a commis une erreur de fait raisonnable, il va évidemment prétendre qu’il a été induit en erreur ou que l’erreur commise a entraîné la mesure donnant lieu à la pénalité. À mon avis, ce qu’il faut, c’est que le contribuable prouve qu’une personne raisonnable aurait commis la même erreur dans des circonstances analogues.
+[2] Knight c La Reine, 2012 CCI 118, 2012 DTC 1144.

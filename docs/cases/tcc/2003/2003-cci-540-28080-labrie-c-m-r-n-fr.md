@@ -1,0 +1,365 @@
+---
+title: "Labrie c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28080/index.do"
+last_modified: "2003-10-07"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 CCI 540"
+citation2: ""
+neutral_citation: "2003 CCI 540"
+decision_date: "2003-10-07"
+language: "fr"
+item_id: "28080"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1665
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T18:41:33.637000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "73f8f27f6c9f05896f3e26e284affa39d6819e9bfe9dc2b82d125371776e0b05"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Labrie c. M.R.N.
+
+- Citation: 2003 CCI 540
+- Decision date: 2003-10-07
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1665, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Labrie c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-10-07
+Référence neutre
+2003 CCI 540
+Numéro de dossier
+2002-4098(EI)
+Juges et Officiers taxateurs
+Jerome F. Somers
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2002-4098(EI)
+ENTRE :
+JULIE LABRIE,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+____________________________________________________________________
+Appel entendu sur preuve commune avec les appels de Nancy Thériault (2002‑4105(EI)) et Caroline Plourde (2002-4106(EI)), les 5, 6 et 7 mai 2003 à Québec (Québec)
+Devant : L'honorable J.F. Somers, juge suppléant
+Comparutions :
+Avocat de l'appelante :
+Me Frédéric St-Jean
+Avocate de l'intimé :
+Me Stéphanie Côté
+____________________________________________________________________
+JUGEMENT
+L'appel est rejeté et la décision rendue par le Ministre est confirmée selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 7e jour d'octobre 2003.
+« J.F. Somers »
+Juge suppléant Somers
+Référence : 2003CCI540
+Date : 20031007
+Dossier : 2002-4098(EI)
+ENTRE :
+JULIE LABRIE,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+ET
+Dossier : 2002-4105(EI)
+NANCY THÉRIAULT,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+ET
+Dossier : 2002-4106(EI)
+CAROLINE PLOURDE,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+MOTIFS DU JUGEMENT
+Le juge suppléant Somers
+[1] Ces appels ont été entendus sur preuve commune les 5, 6 et 7 mai 2003, à Québec (Québec).
+[2] Les appelantes interjettent appel des décisions du ministre du Revenu national (le « Ministre »), selon lesquelles les emplois exercés pendant les périodes en litige, auprès de Cécile Labrie, la payeuse, sont exclus des emplois assurables, au sens de la Loi sur l'assurance-emploi, (la « Loi »), au motif qu'un contrat de travail à peu près semblable n'aurait pas été conclu s'il n'y avait pas eu de lien de dépendance entre elles et la payeuse.
+[3] Les périodes en litige pour les appelantes sont : Julie Labrie du 12 juin au 13 octobre 2000 et du 23 juillet au ler septembre 2001; Nancy Thériault du 7 mai au 17 août 2001; Caroline Plourde du 1er mai au 15 septembre 2000 et du 7 mai au 1er septembre 2001.
+[4] Le paragraphe 5(1) de la Loi se lit en partie comme suit :
+5.(1) Sous réserve du paragraphe (2), est un emploi assurable :
+a) un emploi exercé au Canada pour un ou plusieurs employeurs, aux termes d'un contrat de louage de services […]
+[5] Les paragraphes 5(2) et 5(3) de la Loi se lisent en partie comme suit :
+(2) N'est pas un emploi assurable :
+[...]
+i) l'emploi dans le cadre duquel l'employeur et l'employé ont entre eux un lien de dépendance.
+(3) Pour l’application de l’alinéa (2)i):
+a) la question de savoir si des personnes ont entre elles un lien de dépendance est déterminée conformément à la Loi de l'impôt sur le revenu;
+b) l’employeur et l’employé, lorsqu’ils sont des personnes liées au sens de cette loi, sont réputés ne pas avoir de lien de dépendance si le ministre du Revenu national est convaincu qu’il est raisonnable de conclure, compte tenu de toutes les circonstances, notamment la rétribution versée, les modalités d’emploi ainsi que la durée, la nature et l’importance du travail accompli, qu’ils auraient conclu entre eux un contrat de travail à peu près semblable s’ils n’avaient pas eu de lien de dépendance.
+[6] L'article 251 de la Loi de l'impôt sur le revenu se lit en partie comme suit :
+Article 251 : Lien de dépendance.
+(1) Pour l’application de la présente loi :
+a) des personnes liées sont réputées avoir entre elles un lien de dépendance;
+[...]
+(2) Définition de lien « personnes liées ». Pour l'application de la présente loi, sont des « personnes liées » ou des personnes liées entre elles :
+a) des particuliers unis par les liens du sang, du mariage ou de l'adoption;
+[...]
+[7] Le fardeau de la preuve incombe aux appelantes. Ces dernières se doivent d'établir, selon la prépondérance de la preuve, que les décisions du Ministre sont mal fondées en fait et en droit. Chaque cas est un cas d’espèce.
+[8] En rendant sa décision au sujet de Julie Labrie, le Ministre s’est fondé sur les présomptions de fait suivantes lesquelles ont été admises ou niées :
+a) La payeuse exploitait une entreprise de culture fruitière et maraîchère. (admis)
+b) La payeuse exploitait 3 serres et une framboisière. (admis)
+c) Les produits récoltés étaient vendus au détail dans un poste de vente situé sur le même terrain que les serres et la framboisière. (admis)
+d) La payeuse était l'unique propriétaire de l'entreprise qu'elle exploitait sous la raison sociale de « Serres des Hauts Plateaux Enr. ». (admis)
+e) La payeuse louait la framboisière, le poste de vente et les serres. (admis)
+f) La payeuse a débuté ses opérations en mars 1999. (nié)
+g) L'entreprise de la payeuse était saisonnière; les activités débutaient en mars pour se terminer en octobre. (nié)
+h) Durant la saison, la payeuse ouvrait ses portes de 8 h à 21 h et ce, 7 jours sur 7. (admis)
+i) Durant la saison 2000, la payeuse avait 2 personnes inscrites au registre des paies : l'appelante et Caroline Plourde. (admis)
+j) Durant la saison 2001, la payeuse avait 3 personnes inscrites au registre des paies: l'appelante, Caroline Plourde et Nancy Thériault. (admis)
+k) L'appelante est la soeur de la payeuse; Caroline Plourde est la fille de la payeuse et Nancy Thériault est la belle-soeur de la payeuse. (admis)
+l) L'appelante travaillait comme aide-horticole et ses principales tâches consistaient à :
+- S'occuper des boutures, du repiquage et des semis.
+- Monter des jardinières.
+- S'occuper des serres de tomates, des pommes de terre (en 2000 seulement) et des franboises.
+- Accueillir et servir les clients.
+Percevoir l'argent à la caisse.
+- Nettoyer les serres et les pots. (admis)
+m) Tous les outils et équipements requis par la travailleuse étaient fournis par la payeuse. (admis)
+n) La rémunération de l'appelante était de 9,00 $ l'heure en 2000 et de 7,50 $ l'heure en 2001 basée sur 40 heures de travail par semaine. (admis)
+o) L'appelante était payée en partie par chèque, en argent comptant ou avec de la marchandise (plantes, graines, etc.). (admis)
+p) Les heures de travail de l'appelante n'étaient pas comptabilisées par la payeuse. (nié)
+q) La tenue des livres comptables de la payeuse ne contient pas de preuve que le salaire de l'appelante lui fut entièrement versé durant les périodes en litige et ces livres incluent des anomalies entre les données des registres des paies, des chèques et celles du grand journal. (nié)
+r) En mai et juin 2001, l'appelante a fait garder ses enfants à la garderie pour des semaines complètes ou de 2 à 3 jours par semaine. (admis)
+s) L'appelante rendait des services à la payeuse en dehors des périodes en litige. (nié)
+t) Les périodes de travail de l'appelante ne correspondent pas à la saison d'exploitation ni aux besoins réels de la payeuse. (nié)
+u) Le 13 octobre 2000, la payeuse émettait un relevé d'emploi à l'appelante indiquant qu'elle avait travaillé entre le 12 juin et le 13 octobre 2000. (admis)
+v) Dans sa déclaration statutaire signée du 21 novembre 2001, l'appelante indiquait : « avant tout ça j'avais participé au nettoyage des serres (l'an passé) ... je faisais le travail avec Caroline Plourde à ce qu'il me semble. » (nié)
+w) En 2000, la payeuse a émis un relevé d'emploi à Caroline Plourde indiquant qu'elle avait débuté le travail le 1er mai. (admis)
+x) Le 27 septembre 2001, la payeuse émettait un relevé d'emploi à l'appelante indiquant qu'elle avait travaillé entre le 23 juillet et le 1er septembre 2001. (admis)
+(y) Les relevés d'emploi reçus par l'appelante ne reflètent pas la réalité quant aux périodes réellement travaillées et quant à la rémunération gagnée. (nié)
+[9] Les présomptions de fait sur lesquelles le Ministre s'est fondé pour rendre ses décisions dans les dossiers de Caroline Plourde et Nancy Thériault sont sensiblement les mêmes que celles énoncées ci-dessus.
+[10] La payeuse exploitait une entreprise de culture fruitière et maraîchère composée de 3 serres et une framboisière depuis mars 1999.
+[11] Les produits récoltés étaient vendus au détail dans un poste de vente situé sur le même terrain que les serres et la framboisière.
+[12] La payeuse, Cécile Labrie, était l'unique propriétaire de l'entreprise qu'elle exploitait sous la raison sociale de « Serres des Hauts Plateaux Enr. ».
+[13] Elle a loué la propriété où elle exploitait cette entreprise de la Corporation des Hauts-Plateaux Enr., pour une somme de 500,00 $ par mois.
+[14] Le 4 février 2000, la payeuse a fait un prêt de la Société d'aide au Développement des Collectivités de la MRC de Rivière-du-Loup de 10 136,28 $, tel qu'il appert à la pièce A-5.
+[15] Son conjoint, R. Caron, séparé depuis, lui a avancé la somme de 8 000,00 $ pour débuter les opérations en mars 1999.
+[16] La propriété louée consistait en un bâtiment où était situé le magasin et les serres. Selon les photos déposées sous la cote A-4, la propriété était assez impressionnante par sa propreté. Cécile Labrie demeurait sur place en arrière du magasin.
+[17] Cécile Labrie travaillait au ministère des Ressources naturelles de la province de Québec dans le domaine de la culture des arbres et des fleurs. Elle a reçu en novembre 2000 un certificat de reconnaissance de ce Ministère pour le travail accompli pendant 25 années (pièce A-1).
+[18] Le 23 avril 1999, elle a envoyé une lettre à son employeur demandant une année sabbatique car elle s'était portée acquéreur d'une entreprise (pièce A-2).
+[19] Elle déclare à la Cour que les appelantes n'ont pas travaillé pour elle durant l'année 1999.
+[20] Le 1er mai 2000, elle a engagé sa fille Caroline Plourde, en qui elle avait confiance, jusqu'au 15 septembre et également en 2001 du 7 mai au 1er septembre.
+[21] Caroline Plourde était rémunérée 6,90 $ l'heure en 2000 et 7,51 $ l'heure en 2001. Elle travaillait comme aide-horticole et ses principales tâches consistaient à :
+· S'occuper des boutures, du repiquage et des semis.
+· Monter des jardinières.
+· S'occuper des serres de tomates, des pommes de terre (en 2000 seulement) et des framboises.
+· Accueillir et servir les clients.
+· Percevoir l'argent à la caisse.
+· Nettoyer les serres et les pots.
+[22] Cécile Labrie a engagé sa soeur Julie Labrie, du 12 juin au 13 octobre 2000 et du 23 juillet au 1er septembre 2001 à un salaire de 9,00 $ l'heure en 2000 et 7,50 $ l'heure en 2001. Ses tâches étaient les mêmes que celles effectuées par Caroline Plourde.
+[23] Nancy Thériault, belle-soeur de la payeuse, a travaillé pour cette dernière du 7 mai au 17 août 2001 au taux horaire de 7,30 $. Elle effectuait sensiblement les mêmes tâches que Julie Labrie et Caroline Plourde.
+[24] Selon la payeuse les appelantes oeuvraient 40 heures par semaine, soit de 8 h 30 à 15 h 30 ou de 8 h à 15 h. Elle payait les travailleuses à toutes les semaines par chèque, en argent comptant ou en produits. Selon le tableau des salaires (pièce A-6), des chèques de paie pour des montants variant entre 175 $ et 200 $ ont été émis aux appelantes mais pas à toute les semaines.
+[25] Tous les outils et équipements requis par les appelantes étaient fournis par la payeuse.
+[26] La payeuse a émis des relevés d'emploi pour l'année 2000 à l'appelante Caroline Plourde indiquant qu'elle a travaillé du 1er mai au 15 septembre et pour l'année 2001, du 7 mai au 1er septembre.
+[27] La payeuse a produit en preuve sous la cote A-7 des documents intitulés « État des résultats des activités d'une entreprise » pour les années 2000 et 2001.
+[28] Pour l'année 2001, les revenus bruts étaient de 25 012,07 $ et les salaires étaient de 13 079,85 $; la payeuse a déclaré une perte de 13 780,08.
+[29] Pour l'année 2000 les revenus bruts étaient de 22 488,32 $ et les salaires étaient de 13 471,54 $; la payeuse a déclaré une perte de 23 229,80 $.
+[30] Pendant les années 2000 et 2001, la payeuse a travaillé au Ministère des ressources naturelles du Québec 5 jours par semaine de 8 h 00 à 17 h 00; elle travaillait pour son entreprise le soir et en fin de semaine.
+[31] Selon Cécile Labrie, les activités commençaient en mars ou avril et se terminaient en octobre. Les préparations et commandes étaient faites en mars et avril tandis que l'ouverture à la clientèle était de mai à octobre de chaque année.
+[32] La payeuse affirme que Julie Labrie a travaillé à l'entreprise au mois de mars et une partie du mois d'avril 2000.
+[33] Selon la payeuse, Caroline Plourde a travaillé à temps plein en 2000, mais elle ajoute qu'elle n'en est pas certaine. Elle déclare que cette appelante a travaillé tout le mois d'avril 2000.
+[34] Elle a admis que le temps travaillé par Julie Labrie et Caroline Plourde pour les mois de mars et avril n'était pas inscrit dans ses livres.
+[35] Un peu plus tard lors de son témoignage elle déclare que Caroline Plourde a travaillé 3 heures par jour avant le mois de mars et quelques semaines en avril et qu'elle a été payée entièrement en argent.
+[36] Elle admet que ces heures travaillées par les appelantes n'apparaissent pas sur les relevés d'emploi.
+[37] En contre-interrogatoire la payeuse a admis qu'elle n'a aucun écrit quant au paiement des salaires en argent. Elle a ajouté que les produits donnés aux appelantes et tenant lieu d'une partie des salaires sont notés quelque part.
+[38] Elle a mentionné que c'est le comptable qui faisait la liste de paies. Elle a ajouté qu'elle avait eu 5 comptables alternativement en 2000 et 2001.
+[39] La payeuse a reconnu avoir signé trois déclarations statutaires (pièces I-1 à I-3) en date du 11 décembre 2001, du 21 décembre 2001 et du 4 janvier 2002. À l'audience, elle a témoigné que l'enquêteur l'a intimidée et qu'elle lui avait demandé d'avoir quelqu'un avec elle lors de ses dépositions. Il est à noter que les déclarations ont été faites à des dates différentes et qu'elle ne s'est jamais plainte du comportement de l'enquêteur.
+[40] Au sujet de sa première déclaration, elle a déclaré ne pas se souvenir de tous les événements. Elle a déclaré que l'enquêteur est arrivé chez elle sans avertissement, alors qu'au début de la déclaration qu'elle a signée il y est écrit : « suite à la visite de l'agent d'enquête préalablement entendue par téléphone ».
+[41] La payeuse a déclaré que l'enquêteur ne lui a pas donné l'opportunité de consulter un avocat et qu'il lui aurait dit que : « c'était mieux de signer ça ». Elle a ajouté : « j'ai eu peur ».
+[42] Quant à sa deuxième déclaration, elle a également déclaré que l'enquêteur n'avait pas téléphoné avant la visite alors que, comme lors de la première déclaration, il est écrit que la rencontre avait été « préalablement entendue par téléphone ».
+[43] Quant à sa troisième déclaration faite et signée à sa résidence, la payeuse a déclaré que l'enquêteur lui a téléphoné pour fixer un rendez-vous et qu'il s'est présenté 30 minutes après la conversation téléphonique.
+[44] Dans ses déclarations elle s'est contredite quant aux périodes d'emploi de Julie Labrie et Caroline Plourde. Elle a finalement admis que ces deux appelantes avaient travaillé pour elle avant les périodes indiquées sur les relevés d'emploi et a ajouté qu'elle ne voulait pas leur nuire.
+[45] Caroline Plourde, la fille de la payeuse, a déclaré que ses périodes d'emploi ont été du 1er mai au 15 septembre 2000 et du 7 mai au 1er septembre 2001.
+[46] Elle a décrit ses tâches au sein de l'entreprise et déclaré qu'elle travaillait 40 heures par semaine, de 8 h 00 à 17 h 00 ou de 8 h 30 à 17 h 30.
+[47] Elle a déclaré avoir participé à la préparation du tableau des salaires, déposé sous la cote A-6 et que celui-ci avait été préparé la semaine précédant l'audition de ces appels. Elle a déclaré qu'elle était payée par chèque, en argent ou en produits, au taux horaire inscrit dans la Réponse à l'avis d'appel.
+[48] Elle a admis avoir fait une déclaration statutaire en date du 15 janvier 2002 (pièce I-10). Selon elle, l'enquêteur lui aurait téléphoné pour la rencontrer et elle s'est rendue à son bureau de Rivière-du-Loup.
+[49] Cette déclaration signée par Caroline Plourde se lit en partie comme suit :
+[...] Je reconnais que le relevé d'emploi [...] pour une période de travail du 1-05-00 au 15-09-00, est erroné ou faux du fait qu'au moins le premier jour de travail est erroné et faux parce que j'ai débuté à temps partiel en mars 2000.
+[...]
+Cécile Labrie a accepté en disant cependant qu'elle n'avait pas d'argent pour me verser un salaire tout de suite, que mes semaines de travail à plein temps seraient indiquées aux livres à partir d'avril 2000 et que mes heures à temps partiel de mars 2000 me seraient payées avec celles à partir d'avril 2000, soit quand il me manquerait des heures dans une semaine à partir d'avril 2000 et pour les mois suivants, elle prendrait ces heures en banque si on veut, pour complèter mes semaines pour faire toutes des semaines de 40 heures. C'est sur ma demande que Cécile devait débuter en avril 2000 de me faire paraître à plein temps aux livres. [...]
+[50] Elle a également mentionné dans cette déclaration qu'elle travaillait pour la payeuse au mois de février 2000.
+[51] Dans cette déclaration, l'appelante a indiqué : « Pour l'année 2001, c'est comme l'année 2000, i.e. que le premier jour de travail sur le relevé d'emploi [...] est erroné parce que j'ai débuté le travail au début d'avril, de mémoire en 2001, à temps partiel ».
+[52] En contre-interrogatoire, elle a réitéré qu'elle, les deux autres appelantes et la payeuse ont monté le tableau (pièce A-6) la semaine précédant l'audition de ces appels.
+[53] L'appelante Nancy Thériault, belle-soeur de la payeuse, a affirmé qu'elle a travaillé pour la payeuse durant la période en litige.
+[54] Elle a donné des explications quant au tableau produit sous la cote A-6. Elle reconnaît qu'elle a été payée par chèque, en argent ou en produits. Elle a déclaré qu'elle avait indiqué les paiements en produits dans un cahier, sans pour autant le produire en preuve.
+[55] Elle reconnaît avoir rencontré l'enquêteur qui s'est rendu chez elle sans avertissement au préalable et avoir élevé le ton quand l'enquêteur lui posait des questions. Elle a ajouté que l'enquêteur lui avait dit qu'il avait une ceinture en Karaté.
+[56] Elle a déclaré qu'elle lui a donné l'autorisation d'aller voir son compte bancaire car, selon elle, « sans ça son chômage serait coupé ».
+[57] En contre-interrogatoire elle a admis ne pas avoir porté plainte au sujet du comportement de l'enquêteur.
+[58] Selon Nancy Thériault, l'enquêteur a demandé à son amie qui était présente lors de la prise de la déclaration d'aller dans le salon, afin de lui faire peur avec sa remarque de ceinture de Karaté. Malgré ce dénouement elle a signé la déclaration déposée sous la cote I-4.
+[59] Dans sa déclaration elle a déclaré, entre autres, ceci :
+[...] j'ai débuté en mai 2001, le 08-05-01, le travail et j'ai terminé le 10-08-01. Tout le temps où je travaillais pour « Les Serres » je voyageais avec ma nièce qui est aussi ma voisine, car elle-même travaillait chez le même employeur. Je ne sais pas si, quand Caroline Plourde, ma nièce, a débuté à venir me prendre, elle-même avait commencé le travail avant moi mais je crois que nous avons toutes les deux débuté ensemble parce que je me souviens que lors de ma 1ière journée de travail il n'y avait rien de fait encore.
+[...]
+Tous mes salaires m'ont été payés par chèques que j'encaissais moi-même et j'en disposais comme bon il me semblait. Je n'ai pas eu de problème de payes. [...]
+[60] Julie Labrie, la soeur de la payeuse, a déclaré qu'elle a travaillé 40 heures par semaine pendant les périodes en litige.
+[61] Elle a témoigné qu'elle était gérante à l'entreprise à cause de son expérience. Elle a mentionné qu'elle a oeuvré aux mois de mars et avril 2000, et qu'elle a reçu de la payeuse 300,00 $ et 200,00 $, sans pouvoir dire combien d'heures elle avait travaillé.
+[62] Elle a déclaré ne pas avoir travaillé pour la payeuse avant le 23 juillet 2001. Elle n'a pas travaillé avant cette période car elle s'est occupée de sa fille qui avait subi une intervention chirurgicale.
+[63] Elle a déclaré avoir rencontré l'enquêteur à son domicile qui s'est présenté sans avertissement.
+[64] L'appelante a admis, par l'entremise de son procureur, le sous‑paragraphe 5 r) de la Réponse à l'avis d'appel; à l'effet qu'en mai et juin 2001, l'appelante a fait garder ses enfants à la garderie pour des semaines complètes ou pour 2 à 3 jours par semaine.
+[65] Elle a répondu à la Cour qu'elle a gardé son enfant après l'opération mais qu'elle devait quand même payer la garderie.
+[66] Dans sa déclaration statutaire déposée sous la cote I-5, en date du 21 novembre 2001, l'appelante Julie Labrie a déclaré :
+[...] C'est la seconde année que je travaille à cet endroit. [...] J'ai travaillé plus longtemps l'an passé parce que je m'occupais des fleurs, [...] Avant tout ça j'avais participé au nettoyage des Serres (2 l'an passé) car ça se fait avec de l'eau de javel et c'est très long. Ça prend 2 semaines au moins à 2 personnes par serre et je faisais le travail avec Caroline à ce qu'il me semble. Nous étions juste toutes les deux pour le nettoyage des Serres et des plats. Par la suite, j'ai continué avec Caroline Plourde. Quand nous avons commencé nous avons débuté toutes les deux en même temps l'an passé (2000). Durant toute la saison chez cet employeur nous sommes demeurées toujours seulement 2 employés. [...] Il y a un bout où j'étais seule à faire le travail là-bas parce que Cécile Labrie n'avait plus d'argent pour payer les salaires. Pour ma part je n'ai pas eu de retard dans mes salaires qui étaient versés toujours par chèque aux 15 jours.
+[67] Dans sa déclaration en date du 17 décembre 2001 (pièce I-7), Julie Labrie a déclaré, entre autres :
+[...] il est exact qu'en 2000 quand j'ai travaillé pour « Serres des Hauts-Plateaux Enr. », mon salaire était de 9,00 $ l'heure parce qu'il y avait moins de salaires à verser par Cécile Labrie à ses employés, mais elle n'avait pas toujours l'argent pour me payer tout de suite, donc j'étais payée un montant en chèque et le reste en argent.
+[...]
+J'étais payée aux 15 jours donc je recevais un montant versé par chèque à chaque 15 jours et en même temps le reste de ce qu'elle me devait en argent et si c'était pour tous les employés, je ne pourrais vous le dire, parce que 9,00 $ l'heure c'est moi qui lui ai demandé ça parce que je jugeais que 7,50 $ c'était pas assez mais je ne sais pas pour les autres employés.
+[...]
+Pour ma part je n'ai jamais fait d'heures supplémentaires; c'était toujours 40 heures/semaine que je travaillais en 2000 et la même chose pour 2001 chez cet employeur. En 2001 je recevais 7,50 $ l'heure et je comprenais cela parce que je savais que Cécile avait plus de salaires à payer, et cette année-là tous mes salaires ont été payés en chèques. Il m'est arrivé et même je le faisais toujours, en 2000, comme en 2001, i.e. que je prenais toutes mes fleurs, mes plantes et mes légumes ce qui était disponible selon la culture aux Serres des Hauts-Plateaux. Je n'ai pas accumulé de compte sur mes achats l'an passé et je payais à la fin de chaque semaine. Cette année Cécile m'enlevait 5,00 $ sur chaque semaine de salaire sur ma demande et elle enlevait ce 5,00 $ sur mon compte.
+[68] Monsieur Paul Dessureault, agent d'enquête auprès de Développement des Ressources humaines Canada, depuis 24 ans, a témoigné à la demande de l'intimé.
+[69] Il a témoigné qu'il a débuté son enquête le 16 novembre 2001 lors d'une visite chez l'appelante Nancy Thériault qui a duré de 15 h à 16 h 45. Nancy Thériault a lu sa déclaration statutaire (pièce I-4), y a apposé ses initiales et l'a signée.
+[70] L'enquêteur a déclaré qu'il est allé voir cette appelante parce qu'il avait de la difficulté à rejoindre la payeuse et que de plus ses prestations d'assurance‑emploi étaient suspendues.
+[71] Il n'y a pas lieu de relater le contenu intégral de la déclaration, mais seulement la façon par laquelle elle a été obtenue.
+[72] L'enquêteur a affirmé qu'il n'a pas menacé l'appelante lors de la visite. Il s'est présenté chez-elle sans avertissement au préalable, lui a montré sa carte d'identification et expliqué le but de la visite.
+[73] Le 11 décembre 2001 l'enquêteur a rencontré la payeuse Cécile Labrie lors d'une visite à son domicile. Il y a eu une deuxième et une troisième déclarations statutaires (pièces I-2 et I-3), obtenues le 21 décembre 2001 et le 4 janvier 2002.
+[74] L'enquêteur a admis avoir rendu visite aux appelantes et à la payeuse pour les déclarations statutaires et ce sans les prévenir.
+[75] Il a admis qu'il n'y a pas eu de mise en garde et qu'il ne lui a pas offert de retenir les services d'un avocat. Il a nié avoir dit à l'appelante Nancy Thériault qu'il avait une ceinture en Karaté et à l'appelante Caroline Plourde qu'elle pourrait faire de la prison.
+[76] Il a admis également que, lors d'une visite qui a duré plusieurs heures avec la payeuse, celle-ci avait pleuré et crié. Il a ajouté qu'il lui avait proposé une pause-café qu'elle a refusée.
+[77] Il a nié qu'il avait fait des menaces aux personnes qui ont fait des déclarations statutaires. La payeuse Cécile Labrie a donné trois déclarations sans se plaindre aux autorités de Développement des Ressources humaines Canada.
+[78] Il a admis qu'il a obtenu un calepin mentionnant les produits donnés mais, selon les déclarations obtenues, celui-ci ne les mentionne pas tous.
+[79] L'enquêteur a déposé en preuve les livres de paie (pièces I-8 et I-9) ainsi qu'un document démontrant les montants payés aux appelantes (pièce I-6).
+[80] Lorens Côté, agent d'assurabilité, a témoigné qu'il a eu des conversations avec les trois appelantes et la payeuse.
+[81] Au début de chaque conversation téléphonique, en date du 19 février 2002, il a expliqué la Loi sur l'assurance-emploi.
+[82] En référant à sa déclaration statutaire il a demandé à Nancy Thériault si elle maintenait le contenu de sa déclaration, ce à quoi elle a répondu par l'affirmative.
+[83] Nancy Thériault lui aurait dit qu'elle a débuté son travail chez la payeuse au mois d'avril 2001 à raison de 15 heures par semaine et qu'elle avait oeuvré au moins 2 semaines bénévolement.
+[84] Elle lui a déclaré qu'elle a commencé à travailler temps plein en mai 2001 et ce jusqu'au mois d'août 2001. Elle lui a dit que les heures travaillées en avril 2001 ont été rapportées en mai 2001 afin d'avoir une semaine complète.
+[85] Caroline Plourde a également maintenu le contenu de sa déclaration statutaire lors de sa conversation avec Lorens Côté, le 19 février 2002.
+[86] Elle aurait dit à l'agent d'assurabilité qu'elle a travaillé pour la payeuse en avril 2001 travaillant de 10 à 15 heures par semaine pendant tout le mois.
+[87] Elle lui a également déclaré qu'elle a travaillé pour la payeuse en 2000, avant Julie Labrie et que les deux ont complété leur travail ensemble. Il est à noter que les périodes en litige en 2000 pour Caroline Plourde sont du 1er mars au 15 septembre et pour Julie Labrie du 12 juin au 13 octobre.
+[88] Caroline Plourde a déclaré qu'elle a seulement fait du bénévolat en 2000 et 2001 et qu'elle n'a pas fait du temps supplémentaire sauf environ 60 heures avant d'être salariée, soit pour les périodes en litige.
+[89] Julie Labrie a également maintenu le contenu de sa déclaration statutaire. Elle a affirmé qu'elle a reçu de la payeuse la somme de 600,00 $ en avril et 300,00 $ en mars. Elle a ajouté que ces sommes ont été payées pour du temps travaillé, indiqué au relevé d'emploi, dont la période débutant le 1er mai 2000 pour se terminer le 13 octobre 2000 et qu'elle travaillait avec Caroline Plourde sauf pour une semaine.
+[90] Cécile Labrie a maintenu le contenu de ses déclarations statutaires lors de sa conversation téléphonique avec l'agent d'assurabilité.
+[91] Elle lui aurait dit que Caroline Plourde a travaillé à temps partiel, environ 10 à 12 heures en avril pendant 2 semaines. Elle admet que Caroline Plourde et Julie Labrie ont travaillé bénévolement pour la payeuse aux mois de mars et avril 2000.
+[92] Caroline Plourde aurait accumulé ses heures de bénévolat pour compléter ses 40 heures par semaine pour les années 2000 et 2001. La payeuse a reconnu qu'elle n'aurait pu engager une étrangère, en accumulant des heures ou faire du bénévolat ou des paiements de salaire en retard, ce qui est arrivé à Julie Labrie.
+[93] Lorens Côté a témoignée qu'il y avait un message de Julie Labrie sur son répondeur lui disant qu'elle s'était trompée le 19 février 2002 à l'effet qu'elle n'avait pas accumulé d'heures en 2000 et qu'il ne s'agissait pas d'elle mais peut‑être de Caroline Plourde : aucune autre personne ne lui a téléphoné pour apporter des corrections aux conversations téléphoniques du 19 février 2002.
+[94] En contre-interrogatoire il a déclaré avoir tenu compte de la pièce A-10, soit un chèque émis par la payeuse, le 14 avril 2000, à Caroline Plourde alors que la période d'emploi de cette dernière était du 1er mai au 15 septembre 2000.
+[95] Lorens Côté a reconnu que les déclarations statutaires et les documents qu’il avait en mains étaient suffisants pour rendre sa décision.
+[96] L'agent d'assurabilité n'a pu constater qu'il y a eu des ventes en mars et avril 2000 et 2001. Il a donc conclu que les ventes se faisaient entre les mois de mai et octobre.
+[97] L'agent d'assurabilité a conclu en statuant sur l'assurabilité des emplois que les salaires n'étaient pas raisonnables, du fait, entre autres, que les appelantes travaillaient jusqu'à 50 heures par semaine. Cependant il reconnaît que les taux horaires de 6,90 $, 7,50 $ et 9,00 $ étaient raisonnables.
+[98] Il a tenu compte du fait que l'entreprise a subi des pertes. La durée des emplois ne reflètent pas la réalité. Il reconnaît que les appelantes ont travaillé, mais vu les conditions de travail et le lien de dépendance, il a conclu que les emplois devaient être exclus des emplois assurables.
+[99] Selon cet agent, Julie Labrie avait besoin de 1,910 heures en 2000 pour se qualifier aux prestations d'assurance-emploi alors qu'elle en a travaillé 934.
+[100] En 2001, Julie Labrie avait besoin de 450 heures pour se qualifier alors qu'elle en a travaillé 456.
+[101] En 2000, Julie Labrie a travaillé 720 heures pour la payeuse et 214 heures pour un autre payeur, pour un total de 934 heures.
+[102] En 2001, Julie Labrie a travaillé 240 heures pour la payeuse et 216 heures pour un autre payeur, un total de 456 heures.
+[103] Il n'y a pas eu de contre-preuve présentée par les appelantes.
+[104] La Cour doit décider, si les décisions du Ministre, basées sur l'alinéa 5(2)i) et le paragraphe 5(3) de la Loi sur l'assurance-emploi, d'exclure les emplois des appelantes des emplois assurables pendant les périodes en litige sont justifiées tenant compte de conditions de travail puisqu'il y avait un lien de dépendance entre les appelantes et la payeuse.
+[105] La preuve a démontré qu'il y avait un lien de dépendance entre les appelantes et la payeuse.
+[106] La jurisprudence a établi que le rôle du juge de cette Cour ne lui permet pas de substituer sa décision à celle du Ministre mais il importe de vérifier si les faits supposés ou retenus par le Ministre sont réels et ont été appréciés correctement en tenant compte du contexte où ils sont survenus et, après cette vérification, de décider si la conclusion à laquelle le Ministre est arrivé paraît raisonnable.
+[107] L'agent des appels, après avoir examiné les faits, a conclu dans son rapport (pièce R-1) :
+Rémunération – Le taux horaire est raisonnable pour le travail accompli mais le salaire était fixé à 40 heures par semaine, même pour les semaines de plus de 40 heures. Les méthodes de paiements ne sont pas de l'ordinaire et n'existeraient pas entre des parties non-liées. La tenue de livres de la payeuse ne contient pas de preuves concrètes que les salaires furent tous payés pour les périodes et autres périodes et inclut des anomalies entre les données des registres des paies, des chèques et du grand journal. L'état financier de la payeuse était très précaire et apporte un sérieux doute sur la disponibilité de fonds. La rémunération n'a pas été traitée d'une manière raisonnable entre les parties concernées.
+Modalités d'emploi – Il y a eu des divergences sur les heures, donc impossible d'établir les heures exactes de la travailleuse. Les faits démontrent du travail accompli à l'extérieur des périodes reportées, une accumulation d'heures et un manque de preuve pour paiements des salaires. La durée de l'emploi est erronée mais la payeuse n'a pas offert ou soumis de corrections. Nous sommes d'opinion que de telles modalités n'existeraient pas entre des parties non-liées.
+Durée d'emploi – La durée de l'emploi pour les deux périodes en litige ne reflète pas la saison d'opération et les besoins réels de la payeuse. La durée est approximativement le nombre requis pour qualifier pour l'assurance-emploi pour les deux périodes en litige. Les faits démontrent que la travailleuse a travaillé à l'extérieur des périodes d'emploi reportées par la payeuse mais sans rémunération pour la plupart du temps. Nous croyons que la durée de l'emploi aurait été traitée différemment, sans le lien de dépendance.
+[108] L'intimé s'est basé, pour rendre ses décisions, sur les déclarations statutaires des appelantes et de la payeuse ainsi que sur les documents fournis.
+[109] Les appelantes et la payeuse ont tenté de démontrer que leurs déclarations n'ont pas été faites en toute liberté et volontairement mais qu'elles l'ont été suite à de l'intimidation de la part de l'enquêteur.
+[110] L'enquêteur a nié qu'il a dit à une des appelantes qu'il avait une ceinture en Karaté ou qu'elle pourrait faire de la prison si elle refusait de coopérer.
+[111] Les appelantes avaient le fardeau de prouver que leurs déclarations n'ont pas été faites dans des circonstances normales, à savoir sans intimidation et librement, ce qui aurait eu pour conséquence de les rayer de la preuve, mais elles n'ont pas réussi à le faire.
+[112] La payeuse a fait 3 déclarations statutaires entre le 11 décembre 2001 et le 4 janvier 2002. Elle aurait pu s'informer auprès des autorités ou d'un avocat quant au droit ou à la façon de l'enquêteur d'obtenir des déclarations. Puisqu'on réclame des montants d'argent de Développement des Ressources humaines Canada, l'intimé a le droit de savoir si ces sommes sont légitimes. Tout débiteur a le droit de s'assurer que les paiements ne sont pas faits indûment.
+[113] Dans une autre circonstance, il y avait une amie de l'appelante Nancy Thériault qui était dans une pièce adjacente au lieu de l'interrogatoire; l'appelante aurait pu donc se plaindre à cette personne pour se sentir plus en sécurité.
+[114] Les appelantes ne se sont pas plaintes aux autorités du comportement de l'enquêteur. L'agent d'assurabilité a témoigné que les appelantes, une après l'autre, ont confirmé, le contenu de leurs déclarations statutaires. Elles ne se sont pas plaintes de la façon dont les déclarations ont été obtenues.
+[115] Il est possible que les appelantes aient été nerveuses durant l'interrogatoire, mais ce fait ne permet pas à la Cour de mettre en doute la véracité des réponses données; les appelantes ont lu, apposé leur sinitiales et signé lesdites déclarations.
+[116] Dans sa déclaration statutaire en date du 15 janvier 2002 (pièce I-10), Caroline Plourde a admis que les relevés d'emploi pour les années 2000 et 2001 étaient erronés et faux. Elle a déclaré que son emploi chez la payeuse a débuté en mars 2000 et avril 2001.
+[117] Les listes de paie (pièces I-8 et I-9) indiquent que Caroline Plourde a travaillé pour la payeuse en mars et avril 2000 et en avril 2001.
+[118] Dans sa déclaration Caroline Plourde a déclaré que la payeuse n'avait pas toujours d'argent pour la payer. Elle a ajouté que la payeuse « prendrait ses heures en banque pour compléter les 40 heures par semaine, à partir du mois de mai ».
+[119] Dans sa déclaration statutaire, Nancy Thériault a déclaré que ses salaires avaient toujours été payés par chèque. Elle a ajouté qu'elle n'avait jamais eu de problème à se faire payer et qu'habituellement elle était payée le vendredi de chaque semaine.
+[120] Cette déclaration est contredite par le tableau des salaires préparé par les appelantes une semaine avant l'audition de ces appels (pièce A-6), à l'effet que son salaire était payé parfois par chèque, en argent ou en produits.
+[121] Julie Labrie, dans sa déclaration statutaire en date du 21 novembre 2001 (pièce I-5), a déclaré qu'elle a toujours été payée par chèque à tous les 15 jours.
+[122] Cette affirmation est contredite par le tableau des salaires (pièce A-6), qui démontre qu'elle était plutôt payée en argent et en produits et quelques fois par chèque et en partie en argent et en produits.
+[123] Dans une autre déclaration statutaire, en date du 17 décembre 2001 (pièce I-7), Julie Labrie a déclaré que la payeuse n'avait pas toujours la capacité financière pour payer son salaire et qu'elle était donc payée par chèque et en argent.
+[124] Cécile Labrie, dans sa déclaration statutaire en date du 11 décembre 2001 (pièce I-1), a admis qu'il y avait parfois des retards dans le paiement des salaires, donc elle les payait par chèque ou argent quand elle recevait son salaire de son employeur régulier.
+[125] Dans sa déclaration statutaire, en date du 21 décembre 2001 (pièce I-2), la payeuse a déclaré qu'elle ne marquait pas tout, qu'elle a payé parfois en argent mais que ce n'était pas noté. Elle a ajouté qu'elle donnait au comptable la date du début de l'emploi des appelantes.
+[126] Dans sa déclaration statutaire du 4 janvier 2002 ( pièce I-3), elle a déclaré ce qui suit :
+[...] Ce matin je vais vous dire toute la vérité sur le travail fait aux Serres des Hauts-Plateaux Enr. [...] Je leur ai dit qu'au début, elles ne seraient pas au travail à plein temps. Elles ne voulaient pas que leur début d'emploi nuise à leur chômage à mon avis et étant donné qu'elles étaient toutes deux présentes quand ça c'est discuté. Je les avais informées que je marquerais toutes les heures de travail mais que je n'avais pas d'argent pour les payer tout de suite et que je paierais leurs salaires mérités en mars et avril 2000 et en fin mai début juin 2000. [...] Elles m'ont dit qu'elles savaient que je n'avais pas d'argent, que je n'étais pas en mesure de les payer tout de suite et nous nous sommes entendues pour que les heures travaillées par Caroline et Julie en mars et avril 2000 soient accumulées et servent à compléter le temps de travail qu'elles feraient à partir du moment où elles seraient pas mal à plein temps en mai et juin, de telle sorte que quand il leur manquait d'heures de travail pour avoir toutes des semaines égales de 40 heures. [...] Elle [Caroline] aussi a bénéficié de cumul d'heures car ses 119 heures de travail du mois de mars 2000 a été cumulé durant la période du 01-05-00 au 15-09-00 pour faire des semaines égales à 40 heures par semaine. [...] Je reconnais que si la date réelle du premier jour de travaile est en mars 2000 pour ce qui est du début de travail de Caroline Plourde, sur son Relevé #A70073106, la date indiquée étant le 01-05-00, c'est erroné et moi je ne veux pas nuire à Caroline avec tout ça.
+[127] De toute évidence, il y a des contradictions dans les déclarations statutaires des appelantes et de la payeuse. Il y avait un arrangement pour accumuler des heures travaillées afin qu'elles puissent bénéficier davantage des prestations d'assurance-emploi.
+[128] Il y a des contradictions quant au mode et à la fréquence du paiement des salaires. La payeuse a admis qu'elle ne marquait pas tout. Comment pouvait-elle tenir compte de tous les produits que les appelantes prenaient en compensation de leur salaire?
+[129] Les appelantes ont préparé le tableau (pièce A-6) seulement la semaine précédant l'audition de ces appels; avec quelle certitude peut-on se fier à ces calculs, surtout lorsque les paiements ont été faits en partie en argent et en partie en produits.
+[130] Les conditions de travail n'auraient pas été semblables si les appelantes et la payeuse n'avaient pas eu de lien de dépendance.
+[131] Le procureur des appelantes au soutien des appels se réfère à la cause Théberge c. Canada (ministre du Revenu national - M.R.N), [2002] A.C.F. no 464. Dans cette cause, il n'y a pas eu arrangement entre les parties afin de tirer avantage des dispositions de la Loi; donc cette décision ne peut s'appliquer aux causes sous-étude.
+[132] Dans la cause Michel Duplin c. M.R.N. (dossier 2000-2638(EI)), en date du 9 mars 2001, le juge Tardif de cette Cour s'est exprimé ainsi :
+Lorsque des services et/ou des commissions sont rendus à l'employeur, je ne crois pas que cela vicie automatiquement la qualité d'un contrat de louage de services, si cela est fait de façon ponctuelle ou lors de circonstances particulières. Par contre, si cela est répétitif, fréquent et généralisé chez la majorité des employés d'un employeur, il y a matière à interrogation; même si celui qui rend de tels services et/ou exécute de telles commissions, qualifie sa prestation de libre et volontaire, de bénévolat d'entraide, de support ou de sa solidarité à l'endroit de ses compagnons de travail, il n'en demeure pas moins qu'il s'agit là de faits, modalités, circonstances difficilement conciliables avec un réel contrat de louage de services où tout travail doit être rémunéré.
+[...]
+[...] Un véritable contrat de louage de services existe lorsqu'une personne fournit une prestation de travail défini dans le temps et généralement décrite à un livre de salaires, en retour de quoi, il reçoit une juste et raisonnable rémunération par le payeur qui en tout temps doit avoir un pouvoir de contrôle sur les faits et gestes de la personne qu'il rémunère. La rémunération doit correspondre à la prestation de travail exécuté pour une période de temps défini.
+[...]
+Seuls les faits réels doivent être pris en considération pour déterminer s'il a existé ou non un véritable contrat de louage de services. Souvent, les faits ont été falsifiés, maquillés ou même occultés d'où le Tribunal doit s'en remettre à l'ensemble de la preuve offerte disponible. Les seuls faits et éléments pertinents sont ceux relatifs à la prestation de travail, à la rémunération et à la présence ou non d'un lien de subordination.
+[...]
+[...] dès qu'un contrat de travail est façonné par des données fausses, inexactes ou mensongères, il ne répond plus aux conditions essentielles pour être qualifié de contrat de louage de services; ainsi lorsque la preuve est à l'effet que les registres consignant les données essentielles à l'existence d'un véritable contrat de travail sont mensongères et incomplètes, il devient alors essentiel de faire la preuve d'une façon déterminante que les faits réels soutiennent l'existence d'un véritable contrat de louage de services.
+En l'espèce, l'intimé a conclu que le travail exécuté en dehors des périodes décrites aux divers relevés d'emploi constituait un véritable contrat de louage de services. Il s'agit là d'une détermination plutôt surprenante et tout à fait injustifiée eu égard aux faits disponibles révélés par l'enquête; je fais notamment référence aux banques d'heures et au travail exécuté en dehors des périodes de travail décrites aux relevés d'emploi. [...]
+[133] Dans les causes sous étude, il est évident, par les déclarations statutaires des appelantes et de la payeuse que le contrat de travail est façonné par des données fausses inexactes.
+[134] Dans la cause Laverdière c. M.R.N. (dossiers 97-1901(UI) et 97‑1902(UI)), en date du 25 février 1999, le juge Tardif explique la notion d'un véritable contrat de louage de services :
+[...] Tout d'abord, seul un véritable contrat de travail peut rencontrer les exigences pour être qualifié de contrat de louage de services; un véritable contrat de louage de services doit regrouper certaines composantes essentielles dont une prestation de travail; son exécution doit être subordonnée à l'autorité du payeur de la rétribution. La rémunération doit être fonction de la quantité et qualité du travail exécuté.
+Toute entente ou arrangement prévoyant des modalités de paiement de la rétribution non pas en fonction du temps ou de la période d'exécution du travail rémunéré, mais en fonction de d'autres objectifs tel tirer avantage des dispositions de la Loi, vicie la qualité du contrat de louage de services.
+[...] Les modalités d'un véritable contrat de louage de services doivent s'articuler autour de la prestation de travail à accomplir, d'un mécanisme permettant de contrôler l'exécution du travail et finalement, d'une rétribution correspondant essentiellement à la qualité et la quantité du travail exécuté.
+Certes, un contrat de travail peut prévoir, tout en étant légal et légitime, toutes sortes d'autres conditions dont une rémunération beaucoup supérieure à la valeur du travail exécuté ou inversement; certains contrats peuvent même être à titre gratuit. Une prestation de travail peut être exécutée dans le cadre d'une opération de bénévolat. Il est possible d'imaginer toutes sortes d'hypothèses et de scénarios.
+Tout contrat de travail prévoyant des particularités est généralement opposable aux seules parties contractantes et ne lie en rien les tiers, dont l'intimé.
+Il en est ainsi au niveau de toute entente ou arrangement dont le but et objectif est d'étaler ou cumuler la rémunération due ou être due de manière à tirer avantage des disposition de la Loi. Toute planification ou entente qui maquille ou altère les faits relatifs à la rétribution, dans le but de maximiser les bénéfices de la Loi, disqualifie le contrat de louage de services.
+La Loi n'assure que les véritables contrats de louage de services; un contrat de travail dont la rétribution n'est pas fonction de la période d'exécution du travail ne peut être définie comme un véritable contrat de louage de services. Il s'agit d'une entente ou d'un arrangement qui discrédite la qualité d'un véritable contrat de louage à ce qu'il associe des éléments étrangers à la réalité contractuelle exigée par la Loi.
+[...]
+[...] J'ai souvent indiqué que l'assurance-chômage est une mesure sociale pour venir en aide à ceux qui perdent vraiment leur emploi et non un programme de subventions pour venir en aide à l'entreprise, ou pour avantager des bénéficiaires qui déforment ou modifient la structure et les modalités de paiement de la rétribution que commande leur prestation de travail.
+Toute entente ou arrangement relatif au cumul ou à l'étalement a pour effet de vicier le contrat de louage de services, d'autant plus que cela crée une relation contractuelle peu ou pas propice à l'existence d'un lien de subordination, composante essentielle d'un contrat de louage de services.
+[135] Compte tenu de toutes les circonstances, notamment des déclarations des appelantes et de la payeuse et de la jurisprudence précitée, le Ministre a pris en considération tous les faits pertinents pour conclure que les conditions de travail n'auraient pas été semblables si les appelantes et la payeuse n'avaient eu de lien de dépendance.
+[136] En conséquence, les emplois des appelantes sont exclus des emplois assurables en vertu de l'alinéa 5(2)i) et du paragraphe 5(3) de la Loi.
+[137] Les appels sont rejetés.
+Signé à Ottawa, Canada, ce 7e jour d'octobre 2003.
+« J.F. Somers
+Juge suppléant Somers
+RÉFÉRENCE :
+2003CCI540
+Nos DU DOSSIER DE LA COUR :
+2002-4098(EI), 2002-4105(EI), 2002‑4106(EI)
+INTITULÉ DE LA CAUSE :
+Julie Labrie et M.R.N.,
+Nancy Thériault et M.R.N.,
+Caroline Plourde et M.R.N.
+LIEU DE L'AUDIENCE :
+Québec (Québec)
+DATE DE L'AUDIENCE :
+Les 5,6 et 7 mai 2003
+MOTIFS DE JUGEMENT PAR :
+L'honorable J.F. Somers,
+juge suppléant
+DATE DU JUGEMENT :
+le 7 octobre 2003
+COMPARUTIONS :
+Pour les appelantes :
+Me Frédéric St-Jean
+Pour l'intimé :
+Me Stéphanie Côté
+AVOCAT INSCRIT AU DOSSIER:
+Pour les appelantes :
+Nom :
+Me Frédéric St-Jean
+Étude :
+Sainte-Foy (Québec)
+Pour l'intimé :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

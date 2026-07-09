@@ -1,0 +1,290 @@
+---
+title: "Arnold v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26633/index.do"
+last_modified: "2005-11-09"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 CCI 725"
+citation2: ""
+neutral_citation: "2005 CCI 725"
+decision_date: "2005-11-09"
+language: "fr"
+item_id: "26633"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3641
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T22:19:20.877000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "290db568ecfa3db7b637b5ccd5b9b590f9173d827926c89604c4ea6dceb88b6f"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Arnold v. The Queen
+
+- Citation: 2005 CCI 725
+- Decision date: 2005-11-09
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3641, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Arnold v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-11-09
+Référence neutre
+2005 CCI 725
+Numéro de dossier
+2003-1321(IT)I
+Juges et Officiers taxateurs
+Diane Campbell
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2003-1321(IT)I
+ENTRE :
+EDDIE B. ARNOLD,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle]
+Appel entendu sur preuve commune avec l’appel de Eddie B. Arnold (2003‑1322(GST)I) le 18 octobre 2005 à Hamilton (Ontario)
+Devant : L’honorable juge Diane Campbell
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Me Craig Maw
+JUGEMENT
+L’appel de la cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 1999 est accueilli, sans frais, et la cotisation est déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 9e jour de novembre 2005.
+La juge Campbell
+Dossier : 2003-1322(GST)I
+ENTRE :
+EDDIE B. ARNOLD,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle]
+Appel entendu sur preuve commune avec l’appel de Eddie B. Arnold (2003‑1322(GST)I) le 18 octobre 2005 à Hamilton, Ontario
+Devant : L’honorable juge Diane Campbell
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Craig Maw
+JUGEMENT
+L’appel de la cotisation établie en vertu de la Loi de l’impôt sur le revenu relativement à l’avis de cotisation no 08FP0050200 daté du 13 février 2002 pour la période du 1er janvier 1997 au 31 décembre 1997 est accueilli, sans frais, et la cotisation est déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 9e jour de novembre 2005.
+La juge Campbell
+Référence : 2005CCI725
+Date : 20051109
+Dossiers : 2003-1321(IT)I
+2003-1322(GST)I
+ENTRE :
+EDDIE B. ARNOLD,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle]
+MOTIFS DU JUGEMENT
+La juge Campbell
+Introduction :
+[1] Ces appels ont été entendus ensemble sur preuve commune. Par avis de nouvelle cotisation daté du 28 février 2002, le ministre du Revenu national (le « Ministre ») a émis une nouvelle cotisation à l’endroit de l’appelant pour l’année d’imposition 1999 en vertu de la Loi de l’impôt sur le revenu en y incluant un gain d’entreprise de 35 569,00 $ provenant de la vente d’un immeuble le 26 novembre 1999. Relativement à l’appel relatif à la taxe sur les produits et services (« TPS »), l’appelant a déposé une demande de remboursement de la TPS pour habitations neuves le 25 mai 1999. Le Ministre a refusé le remboursement et a considéré que l’appelant avait effectué une fourniture de l’immeuble à lui-même en vertu du paragraphe 191(1) de la Loi sur la taxe d’accise. Par avis de cotisation, le Ministre a établi une cotisation de TPS au nom de l’appelant au montant de 20 440,00 $, a admis un crédit de taxe sur les intrants (« CTI ») au montant de 9 703,74 $ et a imposé des pénalités et des intérêts pour versement tardif.
+[2] L’immeuble qui fait l’objet de ces appels est situé au 8068, boulevard Mount Carmel, Niagara Falls (« Mount Carmel »). L’appelant et son épouse ont acheté le terrain vague sur le boulevard Mount Carmel le 4 mars 1997. Ils détenaient conjointement les titres sur la propriété. Ils ont immédiatement commencé la construction d’une maison de 2 200 pieds carrés comportant un garage pour trois voitures. Ils ont emménagé dans la maison en mai 1997 et la construction a été achevée en juin 1997. L’immeuble a été vendu le 26 novembre 1999.
+[3] La question en litige consiste à déterminer si l’acquisition, l’aménagement et la revente de l’immeuble Mount Carmel par l’appelant constituaient un projet comportant un risque de caractère commercial.
+[4] Selon la position du Ministre, l’appelant aurait acheté et amélioré la maison en vue de la revendre pour réaliser un profit. Cela signifierait que l’immeuble constituait un stock pour l’appelant et que le gain réalisé sur sa vente est imposable à titre de revenu conformément aux articles 3 et 9 et au paragraphe 248(1) de la Loi de l’impôt sur le revenu. Le Ministre soutient également que l’appelant est un constructeur au sens du paragraphe 123(1) de la Loi sur la taxe d’accise et est ainsi réputé, en application du paragraphe 191(1) de cette Loi, avoir effectué et reçu la fourniture de l’immeuble Mount Carmel à sa juste valeur marchande. Les pénalités et les intérêts ont été imposés en vertu de la Loi sur la taxe d’accise et du Règlement sur les renseignements nécessaires à une demande de crédit de taxe sur les intrants en tenant compte du fait que l’appelant devait déclarer la TPS sur la fourniture de l’immeuble à lui-même. Le Ministre allègue également qu’un crédit de taxe sur les intrants a été admis jusqu’à concurrence des pièces justificatives que l’appelant a été en mesure de fournir.
+[5] Les hypothèses de fait sur lesquelles le Ministre s’est fondé dans l’appel relatif à l’impôt sur le revenu sont les suivantes :
+[traduction]
+a) L’appelant exploitait une entreprise à temps partiel en tant qu’installateur d’armoires de cuisine;
+b) L’appelant possédait des connaissances et de l’expérience dans l’industrie de la construction et de la rénovation résidentielles;
+c) L’appelant a agi comme constructeur lors de la construction d’autres habitations résidentielles;
+L'acquisition et la vente par l’appelant de l’immeuble en litige situé au 8068, boulevard Mount Carmel, Niagara Falls (Ontario)
+d) L’appelant et son épouse, Linda Arnold, ont acquis la propriété de l’immeuble par l’acte no 115273 enregistré le 4 mars 1997;
+e) Le prix d’achat de l’immeuble était de 80 000 $;
+f) L’immeuble avait une façade de 113,17 pieds et une profondeur de 150 pieds;
+g) L’acquisition et l’amélioration de l’immeuble ont été financées au moyen d’une marge de crédit avec Canada Trust;
+h) L’appelant n’a pas conclu d’entente de financement à long terme relativement à l’immeuble;
+i) L’appelant n’avait pas à faire de versements en capital relativement à l’immeuble;
+j) En 19978, l’appelant a construit sur l’immeuble une maison de 2 200 pieds carrés comportant un garage pour trois voitures;
+k) La construction de la maison sur l’immeuble a été achevée en grande partie en juin 1997 et l’appelant et sa famille ont commencé à occuper la maison à cette époque;
+l) Les coûts de construction de la maison sur l’immeuble n’ont pas excédé 176 430,98 $;
+m) L’appelant n’a fourni aucun document afin d’établir des coûts de construction supérieurs aux montants admis par le ministre;
+n) Par l’acte no 146484 enregistré le 26 novembre 1999, l’appelant a complété la vente de l’immeuble au moyen du transfert de la propriété pour un prix de vente de 292 000 $;
+o) Le gain de l’appelant sur la vente de l’immeuble a été d’au moins 35 569,02 $ [292 000 $ – (80 000 $ + 176 430,98 $)];
+p) Au moment de l’acquisition de l’immeuble, l’appelant avait à l’esprit la possibilité de le revendre à profit dans un délai assez court et cette possibilité a constitué un motif déterminant de l’acquisition, de l’aménagement et de la disposition de l’immeuble;
+q) Le gain de l’appelant provenant de la vente de l’immeuble est attribuable au revenu;
+Acquisitions et dispositions antérieures et subséquentes d’un immeuble
+r) L’appelant a été partie aux autres transactions ci-dessous, lesquelles démontrent une conduite compatible avec le fait d’acheter et d’aménager des terrains à titre de projet comportant un risque de caractère commercial :
+IMMEUBLE
+DATE D’ACHAT
+DATE DE
+VENTE
+FINANCEMENT
+PRIX D’ACHAT ET DE VENTE
+7897, rue Swan
+Niagara
+Falls
+8 juin 1988
+27 févr.
+1990
+Financement à court terme
+Acheté : 42 000 $
+Vendu : 245 000 $
+7982 Cathedral
+Dr.
+Niagara
+Falls
+15 nov. 1999
+30 juin 2001
+(inscription en déc.
+2000)
+Marge de crédit
+Acheté : 81 000 $ +
+TPS
+Vendu : 313 000 $
+s) L’appelant et son épouse ont acheté l’immeuble au 7982 Cathedral Drive (« 7982 ») lorsqu’ils ont vendu l’immeuble en litige dans la présente cause;
+t) L’immeuble 7982 était comparable en termes de dimension et d’emplacement à l’immeuble en litige dans la présente cause;
+u) L’immeuble 7982 a été mis en vente à son tour dans l’année qui a suivi son acquisition par l’appelant;
+v) Au moment de l’acquisition de l’immeuble 7982, l’appelant avait à l’esprit la possibilité de le revendre à profit dans un délai assez court et cette possibilité a constitué un motif déterminant de l’acquisition, du développement et de la disposition de l’immeuble 7982;
+w) L’immeuble 7982 a été vendu avant que la construction de la maison subséquente de l’appelant au 7864 Cathedral Drive soit achevée en grande partie.
+[6] Les hypothèses de fait sur lesquelles le Ministre s’est fondé dans l’appel relatif à la TPS sont les suivantes :
+a) L’appelant exploitait une entreprise à temps partiel en tant qu’installateur d’armoires de cuisine;
+b) L’appelant possédait des connaissances et de l’expérience dans l’industrie de la construction et de la rénovation résidentielles;
+c) L’appelant a participé à d’autres projets de construction dans le passé;
+L'acquisition et la vente par l’appelant de l’immeuble en litige situé au 8068, boulevard Mount Carmel, Niagara Falls (Ontario)
+d) L’appelant et son épouse, Linda Arnold, ont acquis la propriété de l’immeuble par l’acte no 115273 enregistré le 4 mars 1997;
+e) Le prix d’acquisition de l’immeuble était de 80 000 $;
+f) L’immeuble avait une façade de 113,17 pieds et une profondeur de 150 pieds;
+g) L’acquisition et l’amélioration de l’immeuble ont été financées au moyen d’une marge de crédit de Canada Trust;
+h) L’appelant n’a pas conclu d’entente de financement à long terme relativement à l’immeuble;
+i) L’appelant n’avait pas à faire de versements en capital relativement à l’immeuble;
+j) En 1997, l’appelant a construit sur l’immeuble une maison de 2 200 pieds carrés comportant un garage pour trois voitures;
+k) La construction de la maison sur l’immeuble a été achevée en grande partie en juin 1997 et l’appelant et sa famille ont commencé à occuper la maison à cette époque;
+l) L’appelant était inscrit aux fins de la partie IX de la Loi;
+m) L’appelant, un particulier, était un « constructeur » au sens du paragraphe 123(1) de la Loi, et est réputé, en application du paragraphe 191(1) de la Loi, avoir effectué et reçu la fourniture de l’immeuble à sa juste valeur marchande;
+n) L’appelant n’a pas déclaré de TPS sur la fourniture de l’immeuble à lui-même au moment où l’immeuble a été achevé en grande partie et où il a été occupé;
+o) L’appelant n’avait pas la documentation adéquate requise pour permettre au ministre d’admettre, relativement à l’immeuble, un crédit de taxe sur les intrants supérieur au montant de 9 703,74 $ admis;
+p) Par l’acte no 146484 enregistré le 26 novembre 1999, l’appelant a complété la vente de l’immeuble au moyen du transfert de la propriété pour un prix de vente de 292 000 $;
+q) Le ministre a utilisé la juste valeur marchande de l’immeuble établie en vertu de l’alinéa 12 p) ci-dessus pour déterminer la TPS recouvrable aux fins du paragraphe 191(1) de la Loi;
+r) Au moment de l’acquisition de l’immeuble, l’appelant avait à l’esprit la possibilité de le revendre à profit dans un délai assez court et cette possibilité a constitué un motif déterminant de l’acquisition, du développement et de la disposition de l’immeuble;
+Acquisitions et dispositions antérieures et subséquentes d’un immeuble
+s) L’appelant a été partie aux autres transactions ci-dessous, lesquelles démontrent une conduite compatible avec le fait d’acheter et d’aménager des terrains à titre de projet comportant un risque de caractère commercial :
+IMMEUBLE
+DATE D’ACHAT
+DATE DE
+VENTE
+FINANCEMENT
+PRIX D’ACHAT ET DE VENTE
+7897, rue Swan
+Niagara
+Falls
+8 juin 1988
+27 févr.
+1990
+Financement à court terme
+Acheté : 42 000 $
+Vendu : 245 000 $
+7982 Cathedral
+Dr.
+Niagara
+Falls
+15 nov. 1999
+30 juin 2001
+(inscription en déc.
+2000)
+Marge de crédit
+Acheté : 81 000 $ +
+TPS
+Vendu : 313 000 $
+t) L’appelant et son épouse ont acheté l’immeuble au 7982 Cathedral Drive (« 7982 ») lorsqu’ils ont vendu l’immeuble en litige dans la présente cause;
+u) L’immeuble 7982 était comparable en termes de dimension et d’emplacement à l’immeuble en litige dans la présente cause;
+v) L’immeuble 7982 a été mis en vente à son tour dans l’année qui a suivi son acquisition par l’appelant;
+w) Au moment de l’acquisition de l’immeuble 7982, l’appelant avait à l’esprit la possibilité de le revendre à profit dans un délai assez court et cette possibilité a représenté un motif déterminant de l’acquisition, de l’aménagement et de la disposition de l’immeuble 7982;
+x) L’immeuble 7982 a été vendu avant que la construction de la maison subséquente de l’appelant au 7864 Cathedral Drive soit achevée en grande partie.
+[7] Lors de son témoignage, l’appelant a d’abord abordé plusieurs des hypothèses de l’appel relatif à l’impôt sur le revenu. Relativement aux hypothèses h) et i), il a déclaré que sa femme et lui n’avaient pas besoin d’argent additionnel au moment où le terrain a été acheté et où la construction a débuté. Ils ont fini par obtenir une marge de crédit. Il a reconnu qu’il n’avait pas à faire de versements sur le capital dû sur la marge de crédit, mais il a expliqué qu’il avait choisi une marge de crédit au lieu d’un prêt hypothécaire conventionnel parce qu’à l’époque le taux d’intérêt était inférieur d’un demi-point de pourcentage. Toutefois, à l’onglet 5 de la pièce R-1, l’information tirée de la base de données du Bureau d’enregistrement indique en fait une charge sur l’immeuble en faveur d’Hypothèques CIBC inc. au montant de 219 000,00 $. Au surplus, l’appelant et sa femme disposaient d’un délai d’un an pour payer le prix d’achat du terrain de 80 000,00 $, car ils avaient acheté celui-ci de Henry Jansen, le père de Casey Jansen, un bon ami. Cet ami vivait dans l’immeuble adjacent et c’est une des raisons pour lesquelles l’appelant a voulu construire sur ce terrain. En plus du délai d’un an consenti à l’appelant pour payer le terrain, Henry Jansen ne demandait aucun intérêt à l’appelant.
+[8] L’appelant n’est pas d’accord avec l’hypothèse l). Il a témoigné que les coûts de construction de la maison avaient excédé 220 000,00 $ et que le prix d’achat du terrain s’ajoutait à ce montant.
+[9] Les commentaires de l’appelant quant aux hypothèses m) et n) ont porté sur les reçus qu’il n’avait pas été en mesure de fournir relativement à la construction de la maison. Ces reçus visaient les coûts de l’entrée asphaltée, du sous-sol en béton, du comptoir de cuisine et de la pose de la brique. L’appelant a déclaré toutefois qu’il avait obtenu certains devis estimatifs sur ce que ces éléments auraient coûté, mais ces devis ont été refusés. Lorsque l’appelant a vendu cet immeuble, les acheteurs ont acheté la maison à la condition que le tiers du sous-sol qui n’était pas toujours fini soit achevé et que la maison soit convertie en maison de deux chambres avec une plus grande salle de bains. Toutes ces rénovations étaient comprises dans le prix de vente de 292 000,00 $.
+[10] Quant à l’hypothèse o), l’appelant a déclaré qu’il a en fait perdu de l’argent avec l’immeuble, même s’il l’a vendu 292 000,00 $, car les coûts de la construction, des rénovations pour la revente et du terrain ont totalisé 305 000,00 $.
+[11] L’appelant n’est pas d’accord avec l’hypothèse p) et a déclaré que la décision de vendre l’immeuble a été prise pour plusieurs raisons. L’immeuble était situé sur une rue passante qui donnait accès au lotissement; ses enfants vieillissaient et la maison ne donnait d’intimité à personne (ils n’avaient pas prévu ce problème au moment de dessiner et de construire la maison car les enfants étaient plus jeunes); les enfants n’avaient pas beaucoup d’espace pour jouer et le voisin qui faisait dos à la cour arrière était dérangé par les activités des enfants dans leur jardin.
+[12] Quant à l’hypothèse r), l’appelant a témoigné qu’ils avaient une hypothèque sur leur immeuble précédent, rue Swan, acheté en 1988. L’appelant a souligné que les chiffres indiqués dans cette hypothèse sont trompeurs puisque le prix d’achat de 42 000,00 $ représente le prix d’achat du terrain vacant seulement. Les coûts de construction de la maison sur la rue Swan ne sont pas inclus dans cette somme et les montants relatifs à cet immeuble sont donc trompeurs. L’immeuble de la rue Swan a été vendu en 1990. L’immeuble suivant, où l’appelant a habité pendant plus de sept ans, soit jusqu’en 1997, n’a pas été inclus dans les autres transactions sur lesquelles l’intimé se fonde pour démontrer une conduite constante relativement à l’achat et à la vente d’immeubles. L’immeuble suivant est l’immeuble Mount Carmel, qui fait l’objet des présents appels. L’appelant a précisé qu’il avait sous-traité la plupart des travaux sur l’immeuble Mount Carmel parce qu’il travaillait à temps plein comme machiniste, du lundi au vendredi. Pendant ses temps libres, il a toutefois construit la charpente de la maison et a posé l’isolation.
+[13] Lorsque l’immeuble Mount Carmel s’est vendu en 1999, l’appelant a acheté le 7982 Cathedral Drive à la fin de 1999. Quant à l’hypothèse u), l’appelant a déclaré que les immeubles Mount Carmel et Cathedral Drive étaient de grandeur semblable, mais que leur agencement était différent puisque la chambre principale de l’immeuble sur Cathedral Drive était située à l’extrémité opposée des chambres des enfants et que la salle de lavage était plus grande. Au surplus, bien que cet immeuble se trouvât dans le même lotissement, il n’était pas situé, contrairement à l’immeuble Mount Carmel, dans la courbe d’une rue passante dans laquelle il était difficile de reculer un véhicule. L’appelant a affirmé que l’immeuble sur Cathedral Drive a été construit pour répondre aux besoins grandissants de sa famille.
+[14] L’appelant a nuancé les hypothèses u) et v). Il a témoigné avoir vendu l’immeuble sur Cathedral Drive environ un an et demi après l’achat, car il négociait avec Canadian Tire en vue d’acheter une franchise, et que sa famille aurait à déménager dans le Nord de l’Ontario. Il s’attendait à recevoir une offre de franchise, ce qui signifiait qu’il devait disposer immédiatement de la redevance de franchisage de 80 000,00 $. La vente de cet immeuble visait à libérer suffisamment de fonds pour se lancer dans cette entreprise. Toutefois, après que la maison ait été mise sur le marché, Canadian Tire a choisi de concéder la franchise à quelqu’un d’autre. Lorsque la maison s’est vendue et que l’appelant ne s’est pas fait offrir la franchise, son épouse et lui ont acheté un autre immeuble dans le même quartier car ils aimaient le secteur.
+[15] Relativement à l’hypothèse w), l’appelant a déclaré que l’immeuble du 7982 Cathedral Drive a été vendu car ils devaient réunir des fonds pour la franchise. Lorsque la concession de franchise ne s’est pas concrétisée alors que leur maison avait été vendue, ils ont décidé de construire dans le même quartier. Ils ont loué l’immeuble du 7982 Cathedral Drive des nouveaux propriétaires et acheteurs pendant plusieurs mois, jusqu’à ce que la construction de leur nouvelle maison soit terminée.
+[16] L’appelant a passé en revue les modifications qu’il a fait apporter et les éléments spéciaux qu’il a fait ajouter à l’immeuble Mount Carmel, qui ont eu pour effet de créer une maison adaptée aux besoins de sa famille. Les murs qui partaient de l’entrée principale, suivaient le corridor et allaient jusqu’à la cuisine ont été peints avec un effet tacheté de bleu sur un fond contenant des teintes de rouge, de bleu et de vert. Le salon a été fini en rose avec un tapis rose contenant une bordure rouge. La chambre principale a aussi été décorée en rose. Des tuiles bleu foncé ont été posées sur tous les murs, sur le plancher et sur les murs de la douche de la salle de bains des enfants. Les appareils sanitaires de cette salle de bains étaient également bleu foncé, ce qui a fait augmenter les coûts considérablement. Les tapis étaient de 60 onces, une amélioration par rapport au type de tapis qui aurait normalement été utilisé (30 onces) par un entrepreneur dans un immeuble destiné à une revente rapide. Un sous-tapis additionnel a été posé. Des fenêtres à battants plutôt que des fenêtres à manivelle ont été utilisées, ce qui a augmenté les coûts. Une garniture spéciale de 8 pouces en pierre a été ajoutée autour des fenêtres. La valeur R de l’isolation dans le grenier a été augmentée à R-40 au lieu de la valeur R-32 usuelle prévue par les codes du bâtiment. L’épaisseur normale de 1/2 pouce pour les cloisons sèches a été augmentée à 5/8 de pouce. Un garage chauffé pouvant loger trois voitures a été ajouté afin d’accueillir le camion de l’appelant et la profondeur du garage a été augmentée à 24 pieds alors que la profondeur standard est de 20 pieds. Bien entendu, ces éléments se sont tous traduits par des coûts additionnels. Un cabanon de douze pieds sur douze pieds a été construit dans la cour arrière afin d’entreposer les bicyclettes et les jouets pour que les articles des enfants ne soient pas dans le garage, où ils auraient été susceptibles d’égratigner les véhicules. En prévision de finir le sous-sol, un système de chauffage à eau chaude a été installé dans le béton de sorte que les deux tiers du sous-sol étaient dotés d’un chauffage intégré au plancher. Une terrasse d’une superficie de seize pieds sur quatorze a été construite afin d’agrandir la terrasse existante de cinq pieds sur douze pieds attenante à la cuisine qui avait été installée initialement. Cette terrasse additionnelle se voulait une aire de jeu pour les enfants. Au lieu d’installer des bardeaux de toit ordinaires garantis 20 ans, l’appelant a installé des bardeaux plus solides, garantis 30 ans. Une entrée en béton a remplacé l’entrée en gravier. Une unité murale encastrée a été installée mur à mur afin d’accueillir la télévision et les haut-parleurs. La moitié supérieure de cette unité comportait des portes et des tablettes en verre avec un éclairage spécial pour exposer les Hummel de son épouse.
+[17] L’appelant a témoigné qu’il installe des armoires de cuisine dans ses temps libres. Son entreprise s’appelle South Wood Cabinets. Il ne construit pas les armoires, il commande plutôt des armoires finies et se contente de les installer, ce qui comprend le remplacement et la réparation des cloisons sèches, au besoin. Il procède aux installations le samedi avec l’aide de son fils. En plus d’installer des armoires préfinies, il possède aussi des connaissances et de l’expérience dans la construction de charpentes de maison.
+[18] L’appelant a aussi expliqué pourquoi certaines factures relatives à la construction de maisons appartenant à d’autres personnes sont faites à son nom. Il a déclaré qu’il a des comptes ouverts chez plusieurs fournisseurs qui lui fournissent des matériaux à des prix réduits. Il permet à ses amis d’utiliser ces comptes lorsqu’ils construisent leur maison pour qu’ils puissent aussi épargner de l’argent en réduisant les coûts. Ses amis paient les comptes directement ou remettent des fonds à l’appelant pour qu’il puisse les payer. Il ne croit pas que ce fait devrait faire de lui un entrepreneur.
+[19] En contre-interrogatoire, l’appelant a clarifié les hypothèses b) et c) de l’appel relatif à l’impôt sur le revenu. Il a nié avoir été impliqué dans des projets de construction, sauf quant aux travaux qu’il a réalisés pour ses amis. Il a déclaré que ses habiletés se limitent à participer à la construction de la charpente de maisons, y compris l’installation des portes et fenêtres, ainsi qu’à installer (et non à fabriquer) des armoires de cuisine. Relativement à l’onglet 21 de la pièce R‑1, l’appelant a expliqué qu’il a enregistré ce privilège sur l’immeuble d’un ami lorsque celui-ci n’a pas payé le compte que l’appelant l’avait autorisé à utiliser pour réduire les coûts de construction de sa maison. Lorsqu’il a été interrogé au sujet de la liste des services qu’il a fournis relativement à la maison de cet ami, l’appelant a expliqué que les activités additionnelles énumérées se rapportaient à la construction de la charpente de la maison. Le propriétaire avait fait une demande tardive afin qu’un puits de lumière soit installé et l’appelant a dû pratiquer l’ouverture et refaire la charpente de cette section. Son ami avait également demandé que la garde-robe soit agrandie et qu’un palier soit raccourci pour faciliter l’installation des marches.
+[20] Relativement à l’hypothèse c), l’appelant a réitéré qu’il n’est pas un constructeur et que ses activités se limitent à des activités similaires à celles énumérées à l’onglet 21 de la pièce R‑1. Il n’a jamais retenu les services de plombiers, d’électriciens, d’entrepreneurs en chauffage ou d’autres sous-traitants. Les fondations des maisons sont déjà coulées lorsqu’il commence à construire la charpente.
+[21] Lorsqu’on l’a référé à l’onglet 16 de la pièce R-1, l’appelant a expliqué que ce document intitulé [traduction] « Formulaire de conception mécanique résidentielle » représente un formulaire standard que Castle Plumbing and Heating, l’entrepreneur-installateur, envoyait à l’Hôtel de Ville pour chaque maison où Castle fournissait des matériaux et de la main-d’œuvre. Bien que l’appelant soit indiqué comme le constructeur sur ce formulaire, il a nié avoir été le constructeur de la maison sur Morris Lane. Il a simplement aidé le propriétaire, John Owens, qui était un ami. L’appelant a déclaré à nouveau, comme il l’a fait en preuve principale, que ce compte aurait été porté à son compte personnel parce que Castle lui fournissait des matériaux à des tarifs réduits. Owens a donc épargné de l’argent en achetant des articles chez Castle en utilisant le compte de l’appelant. En examinant l’offre de services de Castle relativement à l’immeuble des Owens (onglet 12 de la pièce R-1), l’appelant a déclaré que, malgré que cette offre ait été adressée à lui, c’est Owens qui a profité de la marge de crédit à tarif réduit de l’appelant chez Castle. Par la suite, Owens a payé ce montant soit directement à Castle, soit à l’appelant pour qu’il puisse rembourser Castle. L’appelant a confirmé qu’Owens lui avait remis quelques versements de cinq cents dollars pour la construction de la charpente. Lorsqu’on lui a demandé qui avait négocié le prix avec Castle, l’appelant a déclaré qu’il avait apporté les plans d’Owens chez Castle pour une soumission parce qu’Owens travaillait. Il a fourni la même explication pour les diverses factures du Penner Building Centre contenues à l’onglet 9 de la pièce R-1, qui, bien qu’elles aient été adressées à lui, visaient l’immeuble de John Owens sur Morris Road. À l’onglet 13, toujours de la pièce R-1, il a identifié des factures de Castle pour l’immeuble sur Schisler Road comme étant des factures progressives pour la maison d’un autre ami où il a participé à la construction de la charpente et à qui il a donc permis de profiter de ses ententes financières personnelles avec Castle.
+[22] De 1990 à 1997, sur les conseils d’un agent d’immeubles, il a acheté deux terrains vacants qu’il considérait comme un placement. Il n’a pas construit sur ces terrains et il a fini par les vendre.
+[23] Relativement aux hypothèses g) et h), l’appelant a confirmé à nouveau en contre-interrogatoire que le financement de l’immeuble sur Mount Carmel est venu en partie de marges de crédit de Canada Trust et d’Ontario Falls Credit Union. Il a convenu d’une hypothèque subsidiaire en garantie d’une marge de crédit parce que cela lui permettait de jouir d’un taux d’intérêt réduit.
+[24] Relativement à l’hypothèse h), il a précisé que, bien qu’il ait emménagé dans l’immeuble en mai 1997, certains éléments comme l’entrée et l’aménagement paysager n’étaient pas achevés. L’immeuble a été achevé en grande partie en juin 1997.
+[25] L’avocat de l’intimé a demandé à l’appelant d’examiner plusieurs documents (pièce A-1) que l’Agence du revenu du Canada (« ARC ») n’a pas acceptés. Ceux-ci comprennent un reçu de Home Depot pour des stores, un couvre-boyau pour un aspirateur central, des lames de scie, des outils électriques, le coût de miroirs, une assurance obtenue par l’entremise de Co‑operators Insurance, ainsi que des éléments relatifs à l’armoire intérieure mur à mur, au support encastré pour la télévision des enfants et à la table d’ordinateur sur mesure construite dans le sous-sol.
+[26] Joseph Tubbe, vérificateur de l’ARC, a procédé à la vérification de l’entreprise d’armoires de l’appelant et à l’examen des déclarations de revenus et de TPS ainsi que des états financiers pour les différentes années. Lors de sa première rencontre avec l’appelant au début de 2001, le vérificateur a examiné les livres et documents comptables de l’entreprise et a discuté de la vente de la maison. M. Tubbe a confirmé que l’appelant l’avait alors informé de ses négociations avec Canadian Tire au sujet de l’achat d’une franchise. Bien que la rencontre initiale visât à examiner l’entreprise à temps partiel de l’appelant, c’est la maison qui a fait l’objet de la cotisation car les déclarations fiscales de l’appelant indiquaient trois adresses différentes au cours d’une période de trois ou quatre ans. Au surplus, l’appelant installait des armoires et faisait des travaux de charpente. M. Tubbe s’est référé à l’onglet 22 de la pièce R-1 (liste des permis de construction et des constructeurs de la ville de Niagara Falls – février 1997) et a souligné que l’appelant y est indiqué comme constructeur de l’immeuble Mount Carmel. À l’onglet 23 de la pièce R-1 (liste des projets de construction importants pour la période du 1er au 31 août 1999), M. Tubbe a fait remarquer que le permis de construction indique l’appelant comme construction de l’immeuble du 7982 Cathedral Drive, qui a été construit après la vente de l’immeuble Mount Carmel. À l’époque de la rencontre avec M. Tubbe, l’immeuble sur Cathedral Drive était toujours le lieu de résidence de l’appelant.
+[27] M. Tubbe a signalé que la demande de remboursement de TPS datée du 1er juin 1999 (onglet 8, pièce R‑1) indique que la juste valeur marchande de l’immeuble Mount Carmel est de 300 000,00 $. Cette valeur aurait été estimée et insérée par l’appelant.
+[28] Lors de son examen des diverses factures contenues à la pièce A-1, M. Tubbe n’a pas été en mesure de se rappeler précisément s’il avait vu ces documents au cours de la vérification. Il a souligné toutefois qu’il se souvient avoir examiné les factures de Stanford Pro Hardware et avoir refusé les montants pour des outils, car il a présumé que ceux-ci se rapportaient à l’entreprise d’armoires de l’appelant et qu’il n’existait aucune preuve permettant de les relier aux coûts de construction de la maison. Il a ensuite expliqué qu’il n’avait pas admis un grand nombre des autres reçus à la pièce A-1 parce qu’ils ne respectaient pas les lignes directrices strictes en matière de TPS relativement au contenu et à l’information requise dans les reçus. Il aurait refusé les reçus de Co‑operator Insurance car aucune TPS n’avait été facturée à l’appelant et que le CTI correspondant n’était donc pas admissible. M. Tubbe a également étudié les factures à la pièce A-2, et une grande partie de son témoignage relativement à cette documentation est similaire à ses commentaires relativement à la documentation à la pièce A-1. Un grand nombre des reçus ne contenaient pas l’information requise et étaient simplement des sommaires manuscrits. Il a déclaré toutefois qu’il admettrait les factures de Maple Craft Door comme des dépenses relatives à la construction de la maison, bien qu’il ne se souvienne pas spécifiquement d’avoir examiné ces factures.
+[29] M. Tubbe a examiné les facteurs sur lesquels il s’est fondé pour établir une cotisation au nom de l’appelant. Les questions relatives au niveau de vie ont joué un rôle important, car l’appelant travaillait comme machiniste et gagnait un revenu (y compris la majoration pour les heures supplémentaires) de 66 000,00 $, tandis que son entreprise d’armoires ne déclarait pas de revenu. M. Tubbe a également signalé que l’appelant était propriétaire d’une camionnette et d’une Mercedes Benz.
+[30] En contre-interrogatoire, M. Tubbe a expliqué qu’il avait plus de latitude pour admettre des éléments en vertu de la Loi de l’impôt sur le revenu et de la réglementation connexe, mais qu’une demande de remboursement de TPS devait être soutenue par des documents spécifiques. Il a déclaré qu’il a admis les éléments qu’il pouvait et qu’il a refusé ceux pour lesquels il n’avait pas de documents suffisants ou d’information provenant de tiers pour vérifier la réclamation.
+Analyse :
+[31] Quoique le Ministre ait reconnu que l’appelant et sa femme étaient tous les deux propriétaires de l’immeuble Mount Carmel, la question résultante quant à la répartition du profit entre les époux n’avait pas été abordée initialement. Après discussion avec les parties, l’avocat de l’intimée a convenu que, si je concluais qu’un profit a résulté de la vente de l’immeuble, ce profit devrait être réparti également entre l’appelant et son épouse. Après avoir été pressé encore davantage sur cette question, l’avocat de l’intimée a indiqué que le pouvoir du Ministre d’établir une cotisation à l’endroit de l’épouse de l’appelant quant à ces questions était prescrit.
+[32] Si je n’avais pas insisté pour que l’avocat de l’intimée aborde spécifiquement cette question, puisqu’elle est liée à une issue possible non seulement en ce qui concerne l’appelant, mais aussi à l’égard de son épouse, qui était copropriétaire, je ne crois pas qu’elle aurait été traitée lors de l’audition. Dans certaines circonstances, cela pourrait être qualifié d’oubli. J’ai toutefois de la difficulté à adopter un tel point de vue ici puisque la question de la propriété conjointe est spécifiquement abordée et admise dans les hypothèses de fait du Ministre. Il est essentiel qu’un officier de la justice reconnaisse qu’il ou elle a le devoir de soulever aussi les points qui n’appuient peut-être pas entièrement sa position. Ce devoir revêt encore plus d’importance dans des causes comme celle-ci où l’appelant se représente lui-même devant la Cour. L’objectif final est toujours d’obtenir un résultat juste et équitable dans les limites de la législation et de la jurisprudence pertinentes.
+[33] En résumé, la position de l’appelant est que l’immeuble Mount Carmel était sa résidence principale, et qu’il s’ensuit qu’il s’agissait d’une fourniture exonérée. Au surplus, il a soumis qu’il n’est pas un constructeur au sens du paragraphe 123(1) de la Loi sur la taxe d’accise et qu’il n’avait donc pas l’obligation de payer la TPS, mais qu’il avait plutôt droit à un remboursement de TPS pour habitations neuves. La position de l’intimée est que l’immeuble Mount Carmel représente une transaction parmi plusieurs où l’appelant a acquis, aménagé et revendu des maisons en vue de réaliser un profit. Il s’agissait donc d’un projet comportant un risque de caractère commercial, ce qui rend le profit sur la vente de l’immeuble imposable entre les mains de l’appelant comme un revenu. De plus, l’appelant en tant que constructeur est réputé avoir effectué et reçu une fourniture de l’immeuble à sa juste valeur marchande, l’obligeant ainsi à déclarer et à remettre la TPS sur cette fourniture à lui-même.
+[34] Les facteurs que la présente Cour invoque et sur lesquels elle s’appuie invariablement lorsqu’il s’agit de déterminer si une transaction immobilière constitue un projet comportant un risque de caractère commercial ont été établis par le juge Rouleau dans Happy Valley Farms Ltd. c. La Reine, C.F.C., no T-6632-82, 16 juillet 1986 (86 DTC 6421) et ont été approuvés par la Cour fédérale d’appel dans Cardella c. La Reine 2001 CAF 39. L’affaire Cardella est également citée dans le jugement de la Cour suprême dans Friesen c. Canada [1995] 3 R.C.S. 103 où la Cour a discuté de l’importance de l’intention d’un contribuable. Ces facteurs, appliqués aux faits de la présente cause, sont les suivants :
+(1) Nature de l’immeuble vendu :
+L’appelant a acheté un terrain vacant, a construit une maison sur ce terrain et a ensuite vendu cette maison deux ans et demi plus tard. Il avait construit plusieurs autres maisons sur des terrains vacants dans le même secteur résidentiel. Il avait également acheté deux terrains vacants dans le même secteur qu’il a revendus sans y construire. Il a toujours traité ces deux terrains comme des biens de placement et il les a achetés pour les revendre comme terrains vacants en vue de réaliser un profit. Je suis d’accord avec l’avocat de l’intimée qu’il s’agit là d’un facteur généralement neutre parmi les faits devant moi. Toutefois, lorsque je tiens compte des terrains vacants additionnels que l’appelant a achetés et revendus à profit dans le même lotissement, cela dénote clairement deux intentions différentes dans l’esprit de l’appelant quant aux terrains sur lesquels il a construit et aux terrains qu’il considérait comme un placement. Ce facteur favorise légèrement la position de l’appelant.
+(2) Durée de la propriété :
+Un permis a été obtenu en janvier 1997. Le terrain vacant a été acheté le 4 mars 1997 et la construction a commencé peu de temps après. L’appelant et sa famille ont emménagé dans la maison en mai 1997 et l’immeuble a été considéré comme achevé en grande partie en juin 1997. L’immeuble a été vendu le 26 novembre 1999. L’avocat de l’intimée a plaidé que, bien que cela ne fût pas déterminant, cela représentait en fait une courte durée de propriété et que les négociations avec l’acheteur éventuel et les rénovations réalisées pour lui pourraient démontrer que l’appelant avait envisagé de vendre l’immeuble dans un court délai. D’abord, j’estime qu’une période de deux ans et demi n’est pas une courte période de propriété, comme l’avocat de l’intimée le suggère. Même s’il ne s’agit pas d’une période longue, j’estime qu’une durée de propriété de deux ans et demi tend à appuyer la position de l’appelant que l’immeuble n’était pas destiné à une revente en vue de réaliser un profit. Ensuite, je rejette les arguments concernant les négociations avec l’acheteur de cet immeuble et les rénovations puisque ces arguments sont purement hypothétiques et qu’aucune preuve n’a été apportée précisément sur ce point.
+(3) Fréquence des transactions :
+Si j’examine toutes les transactions de 1988 à 2001, cinq terrains ont été achetés et cinq maisons ont été construites au cours d’une période de 13 ans. Voici les dates :
+(a) 7897, rue Swan – 8 juin 1988 au 27 février 1990;
+(b) 7701 Southwood Drive – 1990 à 1997;
+(c) 8068 Mount Carmel – mars 1997 à novembre 1999;
+(d) 7982 Cathedral Drive – 15 novembre 1999 au 30 juin 2001;
+(e) 7864 Cathedral Drive – 2001 à aujourd’hui.
+La preuve démontre que la vente du 7982 Cathedral Drive a été provoquée par le fait que l’appelant avait besoin de fonds pour acheter la concession de Canadian Tire. Ces négociations sont tombées à l’eau au beau milieu de la vente de cet immeuble. Ce fait explique certainement la durée de propriété plus courte en ce qui concerne cet immeuble. Le cinquième immeuble est la résidence actuelle de l’appelant. Rien ici ne me saute aux yeux qui suggère qu’il existe réellement une constance dans les transactions. L’appelant a été propriétaire du deuxième immeuble pendant sept ans et demi et il est propriétaire du cinquième immeuble depuis quatre ans. Ce facteur appuie également la position de l’appelant.
+(4) Travaux réalisés sur l’immeuble :
+L’appelant est employé à temps plein comme machiniste. Il installe également des armoires de cuisine préfabriquées et construit des charpentes de maison pendant ses temps libres. Son témoignage indique qu’il n’a pas engagé les sous-traitants qui ont travaillé sur l’immeuble Mount Carmel. Il a travaillé sur l’immeuble seulement pendant ses temps libres. Je ne trouve pas anormal que quelqu’un qui possède ces habiletés et une entreprise à temps partiel d’armoires fasse ce qu’il peut dans la construction de sa maison pour réduire les coûts. De plus, la preuve non contredite appuie l’affirmation de l’appelant que l’immeuble Mount Carmel avait été extrêmement individualisé et personnalisé afin de l’adapter aux besoins et aux goûts particuliers de sa famille. Pendant la construction, une personne gardant le moindrement un œil sur le marché en vue d’une revente à profit ne décorerait jamais l’intérieur de sa maison de la façon dont l’appelant l’a fait à certains endroits. Des pièces tachetées bleues, des murs roses, des tapis avec des accents de rouge et des salles de bains entièrement revêtues de tuiles bleu foncé et dotées d’appareils bleus sont tous des éléments qui, bien qu’ils aient été attrayants aux yeux de la famille de l’appelant, étaient susceptibles de nuire à la vente de cet immeuble. Il est presque de pratique courante, pour ceux qui construisent en ayant l’intention de vendre immédiatement, de choisir des articles et des couleurs neutres qui plairont à la majorité des propriétaires potentiels. L’appelant a manifestement construit cette maison en fonction des préférences de la famille. L’avocat de l’intimée a reconnu que ces éléments ne rendaient pas la maison attirante pour les acheteurs, mais il a soumis que les autres éléments comme les meilleurs bardeaux de toit, une meilleure isolation, un plus grand garage, une terrasse additionnelle et un système d’arrosage constituaient tous des caractéristiques que les acheteurs trouveraient attirantes. Quoique je sois d’accord que certains acheteurs pourraient vouloir ces améliorations, je n’ai aucune preuve devant moi que de telles améliorations se traduisent par un profit plus élevé lors de la revente. En fait, on peut aisément faire valoir l’argument contraire que ces améliorations appuient le fait que l’appelant a personnalisé cette maison en ayant la ferme intention d’y rester. Je crois qu’un grand nombre de ces améliorations ne se traduiraient pas forcément par un prix de vente plus élevé.
+(5) Circonstances expliquant la vente :
+L’appelant a témoigné qu’il a décidé de vendre l’immeuble Mount Carmel pour un certain nombre de raisons. En plus des problèmes avec les voisins, le caractère inadéquat de la maison pour ses enfants grandissants et les problèmes liés au fait de demeurer dans la courbe d’une rue achalandée ont influé sur sa décision de vendre Mount Carmel. Toutes ces circonstances sont des raisons légitimes de vendre un immeuble alors que l’intention initiale était de construire une maison et d’y habiter. Elles appuient également la position de l’appelant.
+(6) Motif :
+Les faits de la présente cause soutiennent ma conclusion que l’intention primaire de l’appelant quant à la construction de cet immeuble était de bâtir une résidence pour sa famille qui reflétait spécifiquement les goûts et les besoins individuels de ses membres. Ce n’est que lorsqu’un certain nombre de facteurs sont apparus que l’appelant a décidé de vendre l’immeuble. On pourrait certes prétendre qu’étant donné son historique de construction et de ventes l’intention secondaire de l’appelant était toujours de revendre à profit. Toutefois, à la lumière des faits particuliers de cette cause, je me fonde sur la déclaration du Juge Bowman, maintenant Juge en chef, dans Burnet c. Canada, C.C.I., no 92-2393(IT)G, 26 mai 1995, ([1995] T.C.J. No. 479), à la page 7 :
+... La plupart des gens s’attendent à vendre leur résidence principale à un moment donné, et ils espèrent réaliser un gain en capital non imposable. Si cela constituait en soi le critère applicable, la vente d’une résidence donnerait en général lieu à un revenu imposable. À l’inverse, il est tout à fait possible de spéculer sur sa résidence principale, mais il faut une preuve plutôt convaincante pour que soit justifiée la conclusion que la maison qu’on habite est devenue un objet de commerce : Schlamp v. The Queen, 82 DTC 6274. ...
+On admet ici qu’un contribuable puisse avoir plus d’une intention concernant un immeuble et que celui-ci peut malgré tout être considéré comme une résidence principale. Très souvent, quelqu’un construit ou achète un immeuble en ayant l’intention d’y habiter indéfiniment, mais tout en ayant comme intention secondaire de le vendre un jour à profit et de se procurer un immeuble plus grand et mieux adapté à ses exigences et à ses besoins croissants. Cela n’a pas pour effet de transformer une immobilisation en projet comportant un risque de caractère commercial et, en fait, ce n’était probablement pas l’intention dans les causes où l’on s’est fondé sur l’intention secondaire. Encore une fois, ce facteur appuie la position de l’appelant.
+[35] En plus des facteurs ci-dessus, les faits suivants appuient la position de l’appelant. L’appelant a obtenu une marge de crédit puisqu’elle lui permettait de jouir d’un taux d’intérêt qui était un demi-point de pourcentage inférieur au taux hypothécaire en vigueur à l’époque. La preuve n’appuie pas l’hypothèse de l’intimée selon laquelle l’appelant n’a pas obtenu de financement à long terme puisque l’imprimé du Bureau d’enregistrement confirme l’existence d’une sûreté au montant de 219 000,00 $ sur l’immeuble au moment de la vente. Cela indique qu’une hypothèque, probablement en garantie de la marge de crédit mentionnée par l’appelant, a été enregistrée sur l’immeuble, bien qu’aucun document spécifique autre que l’imprimé n’ait été soumis.
+[36] Dans son témoignage, l’appelant a déclaré qu’il a construit la charpente de la maison sur Mount Carmel et a installé l’isolation, et que ça s’est [traduction] « ... essentiellement résumé à cela pour cette maison ». Comme il travaillait à temps plein comme machiniste, la plupart des travaux ont été sous-traités. Il est manifeste que l’appelant n’est pas dans le commerce de la construction de maisons. Il possède des connaissances relatives à l’industrie de la construction et il exploitait une entreprise d’armoires, mais ce n’était qu’un travail d’appoint à son emploi à temps plein dans un domaine différent. Il est vrai qu’il a aidé des amis à construire leur maison, mais je ne crois pas que cela fait de lui un constructeur au sens du paragraphe 123(1) de la Loi sur la taxe d’accise. Je n’ai aucune raison de ne pas accepter le témoignage de l’appelant selon lequel, bien qu’un certain nombre de factures pour des matériaux de construction étaient à son nom, elles visaient en fait des matériaux fournis à des amis pour la construction de leur maison. Cela permettait aux amis de l’appelant de profiter des taux d’intérêt privilégiés de l’appelant.
+[37] Selon tous les faits ci-dessus, l’appelant ne s’est pas lancé dans un projet comportant un risque de caractère commercial générant à un revenu d’entreprise en ce qui concerne l’immeuble Mount Carmel. Il a construit l’immeuble en ayant l’intention de l’habiter comme résidence principale. Puisque l’appelant n’est pas un constructeur, les questions suivantes n’ont à pas être abordées : (a) y a-t-il eu une fourniture réputée de l’immeuble à soi-même au sens du paragraphe 191(1) de la Loi sur la taxe d’accise; (b) l’exception pour utilisation personnelle prévue au paragraphe 191(5) est-elle applicable à l’appelant; et (c) si la fourniture à soi-même n’était pas exonérée en application du paragraphe 191(5), quelle était la juste valeur marchande de la fourniture aux fins de calculer la TPS et le CTI à déduire.
+[38] La dernière question en litige est la détermination du montant du remboursement pour habitations neuves accordé à l’appelant pour la maison qu’il a construite. Le Ministre a refusé la demande de remboursement de l’appelant parce que l’immeuble avait été acheté, développé et vendu à titre de projet comportant un risque de caractère commercial. Comme j’ai conclu que l’immeuble ne constituait pas un projet comportant un risque de caractère commercial, la demande de remboursement doit être examinée à nouveau. Lors de l’audition, l’appelant a été en mesure de produire des reçus additionnels qu’il n’avait pas pendant la vérification ou qu’il n’a pas soumis avec sa demande de remboursement pour habitations neuves. Je renvoie donc cette question à l’ARC pour nouvel examen et nouvelle évaluation afin de donner à l’appelant l’occasion de produire des documents adéquats au soutien de sa demande de remboursement, sous réserve que les documents soient conformes aux dispositions de la Loi.
+[39] Quoique la question suivante n’a pas à être abordée étant donné ma conclusion dans les présents appels, je souhaite commenter l’approche du Ministre quant à la détermination de la juste valeur marchande de l’immeuble. Afin d’établir la juste valeur marchande, le Ministre a utilisé le prix de vente de l’immeuble en novembre 1999 même si le terrain vacant a été acheté au début de 1997 et que la maison qui y a été érigée a été achevée en grande partie en juin 1997. Le paragraphe 191(1) de la Loi sur la taxe d’accise stipule que le constructeur est réputé :
+d) avoir effectué et reçu, par vente, la fourniture taxable de l’immeuble au dernier en date du jour où les travaux sont achevés en grande partie et du jour où la possession de l’immeuble est transférée à la personne ou l’immeuble est occupé par lui;
+e) avoir payé à titre d’acquéreur et perçu à titre de fournisseur, au dernier en date de ces jours, la taxe relative à la fourniture, calculée sur la juste valeur marchande de l’immeuble ce jour-là.
+[40] En vertu de l’alinéa 191(1)d), la fourniture taxable de l’immeuble est réputée avoir eu lieu au dernier du jour où l’immeuble est achevé en grande partie ou du jour où l’immeuble est occupé par le contribuable. La preuve en l’espèce démontre que l’appelant a commencé à habiter l’immeuble en mai 1997 et que celui-ci a été achevé en grande partie en juin 1997.
+[41] En vertu de l’alinéa 191(1)e), un constructeur est réputé avoir payé et perçu la taxe relative à la fourniture réputée, calculée sur la juste valeur marchande de la fourniture aux dates indiquées à l’alinéa 191(1)d).
+[42] Selon le libellé clair et simple de ces alinéas, la juste valeur marchande de l’immeuble de l’appelant devrait être établie en juin 1997 et non, comme le Ministre voudrait que nous l’admettions, à la date de la vente. La méthode de calcul de la juste valeur marchande utilisée par le Ministre est manifestement erronée et inappropriée à la lumière des faits de la présente cause, dans laquelle deux ans et demi se sont écoulés depuis les dates mentionnées dans la Loi sur la taxe d’accise. Cette méthode contrevient directement au libellé de la disposition pertinente. L’argument de l’avocat de l’intimée selon lequel le Ministre a reconnu que la juste valeur marchande devait être déterminée en date du mois de juin 1997 et qu’il est approprié de baser cette valeur sur le prix de vente plus de deux ans plus tard est sans aucun fondement. Encore une fois, c’est uniquement parce que j’ai continué à insister sur cette question auprès de l’avocat de l’intimée que celui-ci a présenté l’argument voulant que l’on soit forcé d’accepter cette juste valeur marchande parce que l’appelant a omis de présenter une preuve contraire et qu’il ne s’est donc pas déchargé de son fardeau de preuve. Bien qu’un appelant ait le fardeau de démolir les hypothèses, on ne peut pas exiger d’un appelant qu’il se décharge de ce fardeau lorsque ces hypothèses sont fondées sur une interprétation erronée d’une disposition pertinente de la loi. Je ne vois absolument pas comment cet argument pourrait être utilisé pour justifier une hypothèse qui est tout simplement erronée dans son application par le Ministre aux faits de l’espèce. Selon des facteurs comme l’emplacement, les taux d’intérêt, les tendances et l’activité sur le marché immobilier, et les événements dans le quartier, l’écoulement d’une période de temps même relativement courte entre la date d’occupation ou d’achèvement et la date de vente pourrait conduire à des différences notables dans la valeur d’un immeuble. La méthode du Ministre contredit clairement le libellé du paragraphe 191(1) de la Loi sur la taxe d’accise et, par conséquent, la valeur à la date de la vente ne devrait jamais être utilisée, ou du moins ne devrait jamais être utilisée de manière isolée, pour déterminer la juste valeur marchande de l’immeuble.
+[43] Les appels sont accueillis, sans frais.
+Signé à Ottawa, Canada, ce 9e jour de novembre 2005.
+La juge Campbell
+Traduction certifiée conforme
+ce 29e jour de mars 2006.
+Jean Pierre Koch, LL.B., réviseur

@@ -1,0 +1,327 @@
+---
+title: "Rolande Martin s/n New Moon Restaurant c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26284/index.do"
+last_modified: "2004-10-14"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 CCI 660"
+citation2: ""
+neutral_citation: "2004 CCI 660"
+decision_date: "2004-10-14"
+language: "fr"
+item_id: "26284"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3393
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T19:56:51.006000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "7856a0e093f81f43616b8ee9beb059f051ba0da5adb28ad5bbd3f34fb5718410"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Rolande Martin s/n New Moon Restaurant c. M.R.N.
+
+- Citation: 2004 CCI 660
+- Decision date: 2004-10-14
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3393, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Rolande Martin s/n New Moon Restaurant c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-10-14
+Référence neutre
+2004 CCI 660
+Numéro de dossier
+2003-3434(EI)
+Juges et Officiers taxateurs
+François M. Angers
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2003-3434(EI)
+ENTRE :
+ROLANDE MARTIN s/n NEW MOON RESTAURANT,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+CAROLE MUCKLER,
+intervenante.
+____________________________________________________________________
+Appel entendu sur preuve commune avec les appels de
+New Moon Motel & Restaurant Inc. (2003-3435(EI)),
+Carole Muckler (2003-3437(EI) et 2003-3438(EI)),
+Romain Parent (2003-3717(EI)),
+et Madeleen Parent (2003-3718(EI) et 2003-4124(EI))
+le 28 juin 2004, à Edmundston (Nouveau-Brunswick)
+Devant : L'honorable juge François Angers
+Comparutions :
+Représentante des appelants
+et des intervenantes :
+Jacqueline Ruest
+Avocate de l'intimé :
+Me Julie David
+____________________________________________________________________
+JUGEMENT
+L'appel est rejeté et la décision rendue par le ministre du Revenu national est confirmée selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 14e jour d'octobre 2004.
+« François Angers »
+Juge Angers
+Dossier : 2003-3435(EI)
+ENTRE :
+NEW MOON MOTEL & RESTAURANT INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+CAROLE MUCKLER,
+intervenante.
+____________________________________________________________________
+Appel entendu sur preuve commune avec les appels de
+Rolande Martin s/n New Moon Restaurant (2003-3434(EI)),
+Carole Muckler (2003-3437(EI) et 2003-3438(EI)),
+Romain Parent (2003-3717(EI)),
+et Madeleen Parent (2003-3718(EI) et 2003-4124(EI))
+le 28 juin 2004, à Edmundston (Nouveau-Brunswick)
+Devant : L'honorable juge François Angers
+Comparutions :
+Représentante des appelants
+et des intervenantes :
+Jacqueline Ruest
+Avocate de l'intimé :
+Me Julie David
+____________________________________________________________________
+JUGEMENT
+L'appel est rejeté et la décision rendue par le ministre du Revenu national est confirmée selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 14e jour d'octobre 2004.
+« François Angers »
+Juge Angers
+Dossiers : 2003-3437(EI) et 2003-3438(EI)
+ENTRE :
+CAROLE MUCKLER,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+ROLANDE MARTIN s/n NEW MOON RESTAURANT,
+NEW MOON MOTEL & RESTAURANT INC.,
+intervenantes.
+____________________________________________________________________
+Appels entendus sur preuve commune avec les appels de
+Rolande Martin s/n New Moon Restaurant (2003-3434(EI)),
+New Moon Motel & Restaurant Inc. (2003-3435(EI)),
+Romain Parent (2003-3717(EI)),
+et Madeleen Parent (2003-3718(EI) et 2003-4124(EI))
+le 28 juin 2004, à Edmundston (Nouveau-Brunswick)
+Devant : L'honorable juge François Angers
+Comparutions :
+Représentante des appelants
+et des intervenantes :
+Jacqueline Ruest
+Avocate de l'intimé :
+Me Julie David
+____________________________________________________________________
+JUGEMENT
+Les appels sont rejetés et les décisions rendues par le ministre du Revenu national sont confirmées selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 14e jour d'octobre 2004.
+« François Angers »
+Juge Angers
+Dossier : 2003-3717(EI)
+ENTRE :
+ROMAIN PARENT,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+ROLANDE MARTIN s/n NEW MOON RESTAURANT,
+intervenante.
+____________________________________________________________________
+Appel entendu sur preuve commune avec les appels de
+Rolande Martin s/n New Moon Restaurant (2003-3434(EI)),
+New Moon Motel & Restaurant Inc. (2003-3435(EI)),
+Carole Muckler (2003-3437(EI) et 2003-3438(EI)),
+et Madeleen Parent (2003-3718(EI) et 2003-4124(EI))
+le 28 juin 2004, à Edmundston (Nouveau-Brunswick)
+Devant : L'honorable juge François Angers
+Comparutions :
+Représentante des appelants
+et des intervenantes :
+Jacqueline Ruest
+Avocate de l'intimé :
+Me Julie David
+____________________________________________________________________
+JUGEMENT
+L'appel est rejeté et la décision rendue par le ministre du Revenu national est confirmée selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 14e jour d'octobre 2004.
+« François Angers »
+Juge Angers
+Dossiers : 2003-3718(EI)
+2003-4124(EI)
+ENTRE :
+MADELEEN PARENT,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+____________________________________________________________________
+Appels entendus sur preuve commune avec les appels de
+Rolande Martin s/n New Moon Restaurant (2003-3434(EI))
+New Moon Motel & Restaurant Inc. (2003-3435(EI)),
+Carole Muckler (2003-3437(EI) et 2003-3438(EI)), et
+Romain Parent (2003-3717(EI)),
+le 28 juin 2004, à Edmundston (Nouveau-Brunswick)
+Devant : L'honorable juge François Angers
+Comparutions :
+Représentante des appelants
+et des intervenantes :
+Jacqueline Ruest
+Avocate de l'intimé :
+Me Julie David
+____________________________________________________________________
+JUGEMENT
+Les appels sont rejetés et les décisions rendues par le ministre du Revenu national sont confirmées selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 14e jour d'octobre 2004.
+« François Angers »
+Juge Angers
+Référence : 2004CCI660
+Date : 20041014
+Dossiers : 2003-3434(EI),
+2003-3435(EI),
+2003-3437(EI) et 2003-3438(EI),
+2003-3717(EI),
+2003-3718(EI) et 2003-4124(EI)
+ENTRE :
+ROLANDE MARTIN s/n NEW MOON RESTAURANT,
+NEW MOON MOTEL & RESTAURANT INC.,
+CAROLE MUCKLER,
+ROMAIN PARENT,
+MADELEEN PARENT,
+appelants,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+CAROLE MUCKLER,
+ROLANDE MARTIN s/n NEW MOON RESTAURANT,
+NEW MOON MOTEL & RESTAURANT INC.,
+intervenantes.
+MOTIFS DU JUGEMENT
+Le juge Angers
+[1] Ces appels ont été entendus sur preuve commune. Les appels 2003-3434(EI) et 2003-3437(EI) portent sur la même période d'emploi, lorsque l'appelante Carole Muckler était l'employée et l'appelante Rolande Martin était l'employeur, et les appels 2003-3435(EI) et 2003-3438(EI) portent sur la même période d'emploi, lorsque l'appelante Carole Muckler était l'employée et l'appelante New Moon Motel & Restaurant Inc. (ci-après « New Moon » ) était l'employeur. Les périodes en litige dans ces appels sont du 12 janvier 1997 au 12 janvier 1998, du 18 janvier 1998 au 23 janvier 1999, du 24 janvier au 31 décembre 1999, du 1er janvier au 22 janvier 2000, du 23 janvier au 16 décembre 2000, du 17 décembre 2000 au 17 novembre 2001 et du 18 novembre 2001 au 16 novembre 2002. Selon les registres de paye, l'appelante Carole Muckler a travaillé du 3 mars 1997 au 16 janvier 1998 au salaire de 400,40 $ par semaine, du 15 juin 1998 au 22 janvier 1999 au salaire de 416,42 $ par semaine, du 7 juin 1999 au 15 octobre 1999 au salaire de 416,42 $ par semaine, du 10 juillet au 20 octobre 2000 au salaire de 416,42 $ par semaine, du 2 juillet au 16 novembre 2001 au salaire de 416,42 $ par semaine, du 3 décembre 2001 au 29 juin 2002 pendant cinq heures par semaine pour 47 $ par semaine et du 30 juin au 16 septembre 2002 au salaire de 416,42 $ par semaine.
+[2] Dans ces quatre dossiers, les appelants portent en appel la décision du ministre du Revenu national (le « ministre » ) selon laquelle l'emploi qu'exerçait l'appelante Carole Muckler pour Rolande Martin et New Moon durant les périodes en litige n'était pas un emploi assurable puisqu'il existait entre elles un lien de dépendance au sens de l'alinéa 5(2)i) de la Loi sur l'assurance-emploi (la « Loi » ). Le ministre a toutefois déclaré assurable la période allant du 3 décembre 2001 au 16 novembre 2002.
+[3] Dans les dossiers de l'appelante Madeleen Parent, les périodes en litige sont du 22 décembre 1996 au 18 octobre 1997, du 19 octobre 1997 au 7 novembre 1998, du 8 novembre 1998 au 6 novembre 1999, du 7 novembre 1999 au 31 janvier 2000 et du 1er février au 28 octobre 2000. Elle porte en appel la décision du ministre selon laquelle son emploi durant les périodes en litige n'était pas un emploi assurable puisqu'elle et la payeuse (Rolande Martin ou New Moon) avaient entre elles un lien de dépendance au sens de l'alinéa 5(2)i) de la Loi.
+[4] L'appelant Romain Parent porte en appel la décision du ministre selon laquelle son emploi pour Rolande Martin durant les périodes du 14 juillet au 29 novembre 1997, du 30 novembre 1997 au 28 novembre 1998 et du 29 novembre 1998 au 27 novembre 1999 n'était pas un emploi assurable puisqu'ils avaient entre eux un lien de dépendance au sens de l'alinéa 5(2)i) de la Loi.
+[5] L'appelante Rolande Martin était propriétaire unique d'une entreprise qui consistait en un restaurant de 68 places, un motel de 21 chambres, un dépanneur et jusqu'en octobre 2000, une pompe à essence. Le 23 novembre 1999, elle a constitué New Moon en société; elle en était l'unique actionnaire. New Moon est alors devenue le nouvel employeur des appelants au présent litige. Jusqu'en 1999, ce commerce était ouvert 24 heures par jour, sept jours par semaine. Par après, les heures d'ouverture étaient de 6 h à 23 h ou 24 h pendant l'été et de 6 h à 20 h les autres saisons, sauf le mercredi, le samedi et le dimanche, lorsque le commerce fermait à 22 h ou 23 h. Ce commerce était situé sur la route transcanadienne dans les environs du village de Ste-Anne au Nouveau-Brunswick. Ce changement d'heures d'ouverture a été provoqué par l'ouverture, le 5 octobre 1999, d'un nouveau tronçon à quatre voies de la route transcanadienne, de sorte que toute la circulation routière a été détournée. Il ne fait aucun doute que cette nouvelle route fut le début de la fin pour ce commerce.
+[6] Carole Muckler est la fille de Rolande Martin. Elle était embauchée, selon les besoins, comme caissière au restaurant ou au dépanneur, comme secrétaire pour la tenue des livres, comme plongeur, comme serveuse aux tables ou pour faire le ménage. Selon le registre de paye, elle travaillait 44 heures par semaine. Les périodes inscrites au registre de paye sont celles décrites ci-haut. Son taux horaire était, au début des périodes en litige, de 8,75 $. Elle a reçu une augmentation de 0,35 $ l'heure en 1998. Elle est la seule employée qui ait eu cette augmentation. Malgré le fait que le registre de paye indique 44 heures de travail, son horaire de travail ne donnait que 40 heures par semaine. Madame Muckler explique cette anomalie en disant qu'elle était payée à la semaine et non à l'heure.
+[7] Le litige porte sur l'allégation que l'appelante Carole Muckler ait travaillé pendant qu'elle n'était pas inscrite au registre de paye et ce, pour toutes les périodes en litige. Elle aurait continué à offrir ses services de façon régulière sans recevoir de rémunération alors qu'elle recevait des prestations d'assurance-emploi et ce jusqu'en décembre 2001. Après cette date, elle déclarait ses heures de travail durant ses périodes de chômage.
+[8] Dans son témoignage, madame Muckler a admis avoir rendu des services à sa mère alors qu'elle percevait des prestations d'assurance-emploi. Elle se rendait à son commerce pour des périodes allant de 15 minutes à deux heures. Elle remplaçait sa mère durant son absence, faisait des courses et les dépôts et remplaçait la caissière au besoin. Puisqu'elle n'était pas rémunérée, elle n'inscrivait pas ses heures. À la question de savoir si elle avait cherché un emploi durant sa période de chômage, elle a répondu que oui. Dans sa déclaration à l'agent d'enquête le 31 octobre 2002, elle disait ne pas avoir déclaré ses heures de travail lorsqu'elle recevait des prestations parce qu'elle ne recevait pas d'argent et qu'il s'agissait de sa mère. Elle a ajouté qu'elle aurait pu aller chercher un autre emploi ailleurs, mais sa mère lui aurait dit « tu me laisses toute seule » . Elle ne pouvait pas faire ça à sa mère.
+[9] Dans la même déclaration, on retrouve le passage suivant :
+Madame Muckler nous dit quelle à travaillé [sic] pendant les périodes en dehors de celle ou [sic] elle était sur le payroll et elle n'était pas payé [sic].pour ce travaille [sic] là. Elle le faisait pour aider sa mère et son entreprise, car elle ne pouvait pas payer. Elle était pas payer [sic] et le faisait pour donner un coup de main à sa mère qui lui rend service à elle et a [sic] beaucoup de monde.
+[10] Dans un questionnaire complété lors d'une entrevue le 24 février 2003, madame Muckler déclare avoir travaillé ou aidé une dizaine d'heures par semaine durant les mois d'hiver alors qu'elle n'était pas payée. Elle ne déclarait pas ses heures de travail dans ses déclarations du prestataire parce qu'elle était ni payée ni inscrite à l'horaire de travail. Dans son témoignage, elle a reconnu avoir envoyé son fils à la garderie après l'école même si elle était en chômage, ce qui laisse supposer qu'elle travaillait à ce moment-là. Ce n'est qu'en 2002 qu'elle a commencé à déclarer ses heures de travail sur ses déclarations du prestataire, soit après une saisie effectuée par la Gendarmerie Royale du Canada lors de son enquête.
+[11] Pour sa part, Rolande Martin est venue donner l'historique de son commerce, notamment les difficultés financières qu'a connues l'entreprise après l'ouverture de la nouvelle route transcanadienne. Lors de l'enquête, et à la suite de l'obtention d'un mandat de perquisition, on a saisi tous ses documents. L'enquête a révélé qu'il y avait à l'entreprise de l'appelante et à celle de New Moon deux registres servant à enregistrer les heures de travail des employés. Madame Martin a admis avoir fait de l'accumulation d'heures avec ses employés depuis plusieurs années. Le registre de paye serait exact, mais un registre portant la mention « Notebook » (pièce I-4) était conservé pour l'accumulation des heures des employés. Tous les employés accumulaient des heures quand ils recevaient des prestations d'assurance-emploi et ils n'étaient payés que lors de leur retour. Les employés rendaient donc des services durant leur période de chômage. Madame Martin a aussi reconnu que sa fille est la seule à avoir eu une augmentation de salaire et que cela était à sa discrétion.
+[12] Dans le dossier de l'appelante Madeleen Parent, madame Martin explique que c'est madame Parent qui gardait le registre « Notebook » . Selon le registre de paye, les heures de travail de l'appelante étaient de 50 heures par semaine, alors que le registre « Notebook » indiquait les heures de travail réelles. L'appelante Madeleen Parent ne travaillait pas 50 heures par semaine. Elle travaillait 25 heures par semaine et il lui arrivait, comme elle l'a dit, « d'être dans le rouge » . C'est alors qu'elle transférait quelques-unes de ses heures à son mari Romain, de sorte qu'elle était payée pour des heures de travail effectuées par son conjoint. Tout comme l'appelante Carole Muckler, Madeleen Parent rendait service lorsqu'elle recevait des prestations d'assurance-emploi.
+[13] L'appelante Madeleen Parent s'occupait de la tenue de livres, du registre de paye et de la paye des employés. Elle n'avait pas d'heures de travail fixes et elle suivait les instructions de son employeur, Rolande Martin et New Moon. Elle s'occupait du registre « Notebook » pour noter les heures de travail des employés et le temps accumulé. Elle explique que le commerce est saisonnier et que les revenus durant les mois d'hiver ne sont pas suffisants pour payer les employés. L'accumulation d'heures et le registre « Notebook » ont été organisés afin de permettre de payer les employés quand le commerce en avait les moyens. Elle reconnaît aussi avoir transféré des heures de travail à son conjoint, l'appelant Romain Parent.
+[14] Tout comme Carole Muckler, elle a continué à travailler après avoir été mise à pied et pendant qu'elle percevait des prestations d'assurance-emploi. Le 31 octobre 2002, elle déclarait ce qui suit à l'agent d'enquête, et elle a été d'accord avec le contenu au procès :
+Mrs. Parent [Madeleen] was accumulating her hours part of the year because the business could not pay her. She was not declaring hours of work while collecting Employment Insurance. She was in a negative situation most of the time due to the number of hours of work and the Employment Insurance stamps that were paid to her. She was paid 50 and 55 hours a week when on payroll but was making less hours than that. There was hours transfered [sic] from her husband [sic] account to her account because she needed the hours and because her husband had all kind of hours. At the end of 1999 there was a transfer of over 470 hours transfered from Romain Parent [sic] account.
+[15] Un questionnaire a été déposé en preuve sous la cote I-7. Il comprend une série de questions posées à l'appelante Madeleen Parent, dont les réponses confirment les scénarios mis en place, soit l'accumulation d'heures par le truchement du registre « Notebook » et le fait qu'on continuait à rendre des services alors qu'on recevait des prestations d'assurance-emploi.
+[16] L'appelant Romain Parent est le frère de l'appelante Rolande Martin. Il a témoigné, de façon très candide, avoir toujours travaillé pendant toute l'année temps pour cette entreprise. Il a commencé lorsque son père était propriétaire du commerce et a continué après son décès. Sa soeur Rolande s'occupait du motel et lui, du restaurant. En 1993, sa soeur a fait l'acquisition du restaurant et il a travaillé pour elle et New Moon jusqu'à sa retraite en octobre 1993. Il était là tout le temps et son épouse Madeleen s'occupait d'inscrire ses heures de travail. Il est au courant du transfert de ses heures de travail à son épouse car si elle avait besoin d'heures, il lui en donnait. Il en aurait aussi donné à son fils. Il a terminé son témoignage en disant que le fait d'être en chômage ne changeait rien dans ses heures de travail.
+[17] Même si la représentante des appelants a affirmé que monsieur Parent pouvait être atteint de la maladie d'Alzheimer, aucune preuve n'a été présentée sur cette question. D'ailleurs, monsieur Parent a semblé très bien comprendre les questions, était bien situé dans le temps et a répondu de façon cohérente à toutes les questions qu'on lui a posées.
+[18] Cette affaire a fait l'objet d'une enquête assez approfondie par les agents d'enquête et d'appel des ministères en cause. C'est ainsi que toute cette information a fait surface, soit l'accumulation d'heures et le transfert d'heures de travail entre les appelants Romain Parent et Madeleen Parent. Des tableaux ont été préparés afin de démontrer les périodes de travail et les périodes de chômage pour chaque employé appelant. Dans le cas de l'appelante Carole Muckler, le registre « Notebook » n'a pas révélé qu'elle ne travaillait pas pendant les 44 heures déclarées, car son horaire de travail donnait moins de 40 heures par semaine. De plus, elle ne déclarait pas de revenu durant ses périodes de chômage, alors qu'elle se présentait au commerce à presque tous les jours durant ces périodes.
+[19] La tâche des appelants en l'espèce est d'établir, selon la prépondérance des probabilités, que le ministre a exercé son pouvoir discrétionnaire de façon inappropriée, compte tenu de toutes les circonstances, en décidant que Rolande Martin, New Moon et les appelants n'auraient pas conclu un contrat de travail à peu près semblable s'il n'y avait pas eu de lien de dépendance entre eux.
+[20] Le rôle qu'exerce le ministre et que se doit d'exercer la Cour a été établi par la Cour d'appel fédérale dans l'arrêt Légaré c. Canada (ministre du Revenu national - M.R.N.), [1999] A.C.F. no 878 (Q.L.). Le juge Marceau a résumé le tout en ces termes au paragraphe 4 :
+La Loi confie au ministre le soin de faire une détermination à partir de la conviction à laquelle son examen du dossier peut le conduire. L'expression utilisée introduit une sorte d'élément de subjectivité et on a pu parler de pouvoir discrétionnaire du ministre, mais la qualification ne devrait pas faire oublier qu'il s'agit sans doute d'un pouvoir dont l'exercice doit se fonder pleinement et exclusivement sur une appréciation objective des faits connus ou supposés. Et la détermination du ministre n'est pas sans appel. La Loi accorde, en effet, à la Cour canadienne de l'impôt le pouvoir de la réviser sur la base de ce que pourra révéler une enquête conduite, là, en présence de tous les intéressés. La Cour n'est pas chargée de faire la détermination au même titre que le ministre et, en ce sens, elle ne saurait substituer purement et simplement son appréciation à celle du ministre : c'est ce qui relève du pouvoir dit discrétionnaire du ministre. Mais la Cour doit vérifier si les faits supposés ou retenus par le ministre sont réels et ont été appréciés correctement en tenant compte du contexte où ils sont survenus, et après cette vérification, elle doit décider si la conclusion dont le ministre était « convaincu » paraît toujours raisonnable.
+[21] La Cour d'appel fédérale a d'ailleurs réitéré sa position dans l'arrêt Pérusse c. Canada, [2000] A.C.F. no 310 (Q.L.). Le juge Marceau, en renvoyant au passage cité dans l'arrêt Légaré, a ajouté ce qui suit au paragraphe 15 :
+Le rôle du juge d'appel n'est donc pas simplement de se demander si le ministre était fondé de conclure comme il l'a fait face aux données factuelles que les inspecteurs de la commission avaient pu recueillir et à l'interprétation que lui ou ses officiers pouvaient leur donner. Le rôle du juge est de s'enquérir de tous les faits auprès des parties et des témoins appelés pour la première fois à s'expliquer sous serment et de se demander si la conclusion du ministre, sous l'éclairage nouveau, paraît toujours « raisonnable » (le mot du législateur). La Loi prescrit au juge une certaine déférence à l'égard de l'appréciation initiale du ministre et lui prescrit, comme je disais, de ne pas purement et simplement substituer sa propre opinion à celle du ministre lorsqu'il n'y a pas de faits nouveaux et que rien ne permet de penser que les faits connus ont été mal perçus. Mais parler de discrétion du ministre sans plus porte à faux.
+[22] Les textes de loi sur ce point sont les alinéas 5(2)i) et 5(3), qui se lisent comme suit :
+5(2) Restriction. - N'est pas un emploi assurable :
+...
+i) l'emploi dans le cadre duquel l'employeur et l'employé ont entre eux un lien de dépendance.
+5(3) Personnes liées. - Pour l'application de l'alinéa (2)i) :
+a) ...
+b) l'employeur et l'employé, lorsqu'ils sont des personnes liées au sens de cette loi, sont réputés ne pas avoir de lien de dépendance si le ministre du Revenu national est convaincu qu'il est raisonnable de conclure, compte tenu de toutes les circonstances, notamment la rétribution versée, les modalités d'emploi ainsi que la durée, la nature et l'importance du travail accompli, qu'ils auraient conclu entre eux un contrat de travail à peu près semblable s'ils n'avaient pas eu de lien de dépendance.
+[23] Les appelants dans tous les dossiers sont des personnes liées au sens de la Loi de l'impôt sur le revenu. Il y a donc entre l'employeur Rolande Martin et New Moon et les employés appelants un lien de dépendance rendant leur emploi non assurable. Le ministre, après avoir analysé les faits, a conclu au maintien du lien de dépendance. Chacune des hypothèses de fait sur lesquelles le ministre s'est fondé dans tous les dossiers d'appel en espèce et qui ont été niées par les appelants ont été établies par la preuve présentée au procès. En fait, il n'y a rien dans la preuve présentée par les appelants qui puisse me permettre de conclure à l'existence d'erreurs dans les faits considérés par le ministre dans l'exercice de son pouvoir discrétionnaire. Le témoignage des appelants a en fait, dans certains cas, confirmé les hypothèses de fait sur lesquelles s'est fondé le ministre. Je reproduis ici quelques extraits des hypothèses de fait niées par les appelants :
+Dossier 2003-3434(EI)
+h) à l'extérieur des semaines inscrites au registre de paye, la travailleuse continuait à offrir ses services à l'appelante de façon régulière sans recevoir de rémunération, alors qu'elle recevait des prestations d'assurance-emploi.
+Dossier 2003-3718(EI)
+j) l'appelante travaillait pour la payeuse à l'année longue sans interruption, pour le nombre d'heures nécessaires à accomplir ses tâches;
+k) les heures de travail inscrites dans le registre spécial dépassaient rarement 20 heures par semaine;
+m) les heures de travail de l'appelante inscrites dans le registre spécial étaient en déficit jusqu'à la semaine finissant le 18 mars 2000; et
+n) les heures de l'appelante inscrite sur le registre spécial pendant la période en litige inclus le transfert de 420 heures travaillées par Romain Parent, son époux, le 9 septembre 2000.
+Dossier 2003-3717(EI)
+i) l'appelant travaillait pour la payeuse à l'année longue, sans interruption;
+k) certaines des heures travaillées par l'appelant furent transférées au nom de Madeleen Parent, son épouse, comme suit :
+le 11 juillet 1998 : 100 heures
+le 30 décembre 1999 : 480.5 heures
+le 9 septembre 2000 : 420 heures
+[24] Il n'y a aucun doute qu'il y avait chez l'entreprise de Rolande Martin et New Moon un système d'accumulation d'heures pour les employés et que les appelants Romain et Madeleen Parent y ont participé. Il ne fait aucun doute également que les trois employés appelants continuaient de rendre des services et de travailler pour Rolande Martin et New Moon et ce, durant toutes les périodes en litige, alors qu'ils recevaient des prestations d'assurance-emploi. Les registres indiquaient que Madeleen Parent travaillait 50 heures par semaine, alors qu'elle ne faisait que 25 heures de travail. De son côté, Romain Parent faisait plus d'heures de travail et n'était pas rémunéré pour toutes ces heures. Il en transférait à son fils ou à son épouse. Dans le cas de l'appelante Carole Muckler, elle était payée pour 44 heures de travail, mais son horaire de travail était moindre. Ce genre de conditions de travail se retrouve habituellement lorsque les parties ont entre elles un lien de dépendance.
+[25] Le juge Hugessen de la Cour d'appel fédérale, dans l'arrêt Bérard c. Canada (ministre du Revenu national - M.R.N.), [1997] A.C.F. no 88 (Q.L.), nous rappelle le but évident des dispositions de la Loi qui excluent les contrats de travail entre des personnes liées. Il disait :
+[...] Le but évident de la législation est d'exclure les contrats de travail entre des personnes liées qui ne sont pas de la même nature qu'un contrat normal conclu entre des personnes n'ayant pas un lien de dépendance entre elles. Il nous parait clair que ce caractère anormal peut aussi bien se manifester dans des conditions désavantageuses pour l'employé que dans des conditions favorables. Dans les deux cas, la relation employeur-employé n'est pas normale et il est permis de soupçonner qu'elle a été influencée par d'autres facteurs que les forces économiques du marché du travail.
+[26] Dans les dossiers de l'appelante Carole Muckler, il ressort de la preuve non seulement qu'elle travaillait pour sa mère durant ses périodes de chômage, mais en plus elle n'était pas rémunérée pour ce travail. De plus, elle était payée selon un taux horaire pour des semaines de 44 heures de travail, alors qu'elle ne faisait que 40 heures de travail incluant la pause du dîner. Lorsqu'on regarde les critères énoncés à l'alinéa 5(3)b) de la Loi, il est évident que la rétribution versée et les modalités d'emploi n'auraient pas été les mêmes s'il n'y avait pas eu de lien de dépendance. Elle est la seule qui ait bénéficié d'une augmentation de son taux horaire, si minime soit-elle. La durée de son emploi n'était pas conforme aux besoins de l'employeur, étant donné les responsabilités et l'importance de sa contribution.
+[27] Les rapports entre les appelants Romain et Madeleen Parent comprennent aussi des modalités que seul leur lien de dépendance avec Rolande Martin et New Moon ont pu permettre. Leurs responsabilités exigeaient leur présence durant toute l'année et il est évident qu'on abusait du système. Le transfert d'heures entre eux était connu de l'employeur et permis par lui. L'appelante Madeleen Parent était payée pour des heures de travail qu'elle ne faisait pas et l'appelant Romain Parent travaillait pendant plus d'heures que celles pour lesquelles il était payé.
+[28] Après avoir entendu la preuve, je ne puis qu'arriver à la conclusion que dans les circonstances en l'espèce, la détermination du ministre pour toutes les années en litige de tous les appelants était raisonnable, puisque les conditions de travail n'auraient pas été semblables si les employés appelants et les employeurs appelants n'avaient pas eu entre eux de lien de dépendance.
+[29] Les appels sont rejetés.
+Signé à Ottawa, Canada, ce 14e jour d'octobre 2004.
+« François Angers »
+Juge Angers
+RÉFÉRENCE :
+2004CCI660
+No DES DOSSIERS DE LA
+COUR :
+2003-3434(EI), 2003-3435(EI),
+2003-3437(EI), 2003-3438(EI),
+2003-3717(EI), 2003-3718(EI),
+2003-4124(EI),
+INTITULÉS DES CAUSES :
+Roland Martin s/n New Moon Restaurant et M.R.N.
+New Moon Motel & Restaurant Inc. et M.R.N.
+Carole Muckler et M.R.N.
+Romain Parent et M.R.N.
+Madeleen Parent et M.R.N.
+LIEU DE L'AUDIENCE :
+Edmundston (Nouveau-Brunswick)
+DATE DE L'AUDIENCE :
+le 28 juin 2004
+MOTIFS DE JUGEMENT PAR :
+l'honorable juge François Angers
+DATE DES JUGEMENTS :
+le 14 octobre 2004
+COMPARUTIONS :
+Pour les appelantes :
+Jacqueline Ruest
+Pour l'intimé(e) :
+Pour les intervenantes :
+Me Julie David
+Jacqueline Ruest
+AVOCAT(E) INSCRIT(E) AU DOSSIER:
+Pour l'appelant(e) :
+Nom :
+Étude :
+Pour l'intimé(e) :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

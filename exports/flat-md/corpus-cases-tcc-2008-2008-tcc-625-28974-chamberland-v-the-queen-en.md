@@ -1,0 +1,174 @@
+---
+title: "Chamberland v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28974/index.do"
+last_modified: "2008-11-21"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 TCC 625"
+citation2: ""
+neutral_citation: "2008 TCC 625"
+decision_date: "2008-11-21"
+language: "en"
+item_id: "28974"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6784
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T23:37:12.960000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "7654b58dcea5354b44ea7a4536a3de0faac00e3b010668ac32eda54da2a5d529"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Chamberland v. The Queen
+
+- Citation: 2008 TCC 625
+- Decision date: 2008-11-21
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6784, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Chamberland v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-11-21
+Neutral citation
+2008 TCC 625
+File numbers
+2008-315(IT)I
+Judges and Taxing Officers
+François M. Angers
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2008-315(IT)I
+BETWEEN:
+MATHIEU CHAMBERLAND,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard October 31, 2008, at Montreal, Quebec.
+Before: The Honourable Justice François Angers
+Appearances:
+Agent for the Appellant:
+Serge Cloutier
+Counsel for the Respondent:
+Annick Provencher
+____________________________________________________________________
+JUDGMENT
+The appeals from assessments established under the Income Tax Act for the 2002 and 2003 taxation years are dismissed, in accordance with the attached reasons for judgment.
+Signed at Montreal, Quebec, this 21st day of November 2008.
+"François Angers"
+Angers J.
+Translation certified true on this 9th day of January 2009.
+Elizabeth Tan, Translator
+Citation: 2008 TCC 625
+Date: 20081121
+Docket: 2008-315(IT)I
+BETWEEN:
+MATHIEU CHAMBERLAND,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Angers J.
+[1] The Appellant is appealing from two assessments established by the Minister of National Revenue (the Minister) under the Income Tax Act (the Act) for his 2002 and 2003 taxation years. The Minister had determined the deduction claimed by the Appellant for "other employment expenses" when calculating his income for the 2002 taxation year to be zero, disallowed the net business loss claimed by the Appellant for the 2003 taxation year, and revised the claim to add a net business income of $1,585. The Minister also established a gross negligence penalty for the two years in question, for $1,107 and $1,096.62, respectively, pursuant to subsection 163(2) of the Act.
+[2] In his income tax return for the 2002 taxation year, the Appellant claimed employment income of $33,587.06 from two distinct employers, CNC Solstice Inc. for $23,810.06 and Location Snap Shots Inc. (Snap Shots) for $9,777. He also received $874 in employment-insurance benefits. Employment expenses deducted by the Appellant totalled $13,189 and related to his job at Snap Shots. The Appellant received travel expenses from Snap Shots, calculated according at a rate of $0.35 per kilometre when he had to travel and for the 2002 taxation year, he received $841.15 from Snap Shots.
+[3] Ms. Carole Pitre from Snap Shots provided the Appellant with a T2200 form for his tax report, in which she acknowledged paying him $0.35 a kilometre for $841.15. She also confirmed that in accordance with his employment conditions, the Appellant did not pay any other expense. It was not a full-time job but a regular job, at one or two services per week. All the tools required to complete his work were provided to him, and since it was work that was carried out mainly on movie sets, he was fed, considering the hours were from 5 to 13 hours per day.
+[4] The employment expenses deducted by the Appellant consist of legal and accounting fees for $546.37, meals and entertainment expenses ($4,950 x 50%) for $2,475, travel fees for $575, parking fees for $120 and expenses for his vehicle for $9,473. The Appellant allegedly drove 24,402 kilometres for the purpose of earning income, from a total of 25,138 kilometres.
+[5] In his income tax return for the 2003 taxation year, the Appellant claimed employment income of $22,381.96 from his employer CNC Solstice Inc. and employment insurance benefits of $4,543. Under the heading "business income," he deducted a loss of $14,424.14. His gross business income was $1,585 and his business expenses were $16,009.14, distributed as follows:
+$
+net purchases
+2,365.70
+insurance
+215.00
+maintenance and repairs
+526.38
+management and administration fees
+125.00
+meals and entertainment expenses
+($4,950 x 50%)
+2,475.00
+expenses for vehicles
+3,122.60
+office costs
+235.44
+accounting, legal and other fees
+546.37
+travel costs
+135.00
+telephone and public services
+928.65
+CCA
+5,334.00
+16,009.14
+[6] The Appellant drove 25,236 kilometres for the purpose of earning income, which corresponds to his total mileage from 2003.
+[7] The Minister disallowed all expenses following an audit. The business expenses were disallowed on the ground that they were not paid for the purpose of earning business income. As for the employment expenses, they were disallowed because the Appellant did not show they were incurred to gain employment income. The Appellant never sent the documentary evidence or anything to the auditor, claiming he kept it all at the family cottage and there had been a burglary. In December 2005, he was asked to produce a copy of the police report from the burglary and he told the auditor that only a few things were taken and it had not been reported to the police or the insurer.
+[8] The Appellant is a trained gunsmith, driller and blaster. In his testimony he explained that he could not present any documentary evidence because there had been water damage in the basement of his cottage after Easter in 2004, and a briefcase with important documents such as his general ledger disappeared after his garage was broken into on May 7, 2004. A list of the stolen items was submitted. As for the water damage, no claim was filed with the insurer.
+[9] In 2002, the Appellant decided to start his own business. He also stated that he travelled around Quebec to go to all the hunting and fishing clubs and firearms stores to offer his services. He wanted to establish a network of commercial relations. He claims that he kept a general ledger and a notebook for his appointments. He gave these documents to his accountant Serge Cloutier to prepare his income tax reports.
+[10] He admits he did not keep a record of the distances travelled, and testified that the kilometres driven in 2002 were not for Snap Shots but to start his business, as were the kilometres driven in 2003 when he was no longer an employee of Snap Shots.
+[11] The Appellant submitted to evidence two invoices from his accountant for professional fees for each of the years in question. It is interesting to note that the fees are the same for the two years and that part of the fees charged are in relation to searching for missing documents, for both of the years in question. Therefore, documents were missing before the May 7, 2004, burglary, since the invoices were dated April 14, 2003, and March 17, 2004.
+[12] Three other exhibits were submitted, two of which are for work the Appellant carried out for Snap Shots in 2003 when he was no longer an employee of that company. These invoices are for $1,285 and are included in the $1,585 the Appellant claimed as business income. The Appellant was reimbursed for pager fees and vehicle costs for travelling. The third invoice is for a purchase made by the Appellant at Snap Shots for $93.98 before taxes, and which is included in the $2,365.70 claimed as purchases in 2003.
+[13] In cross-examination, the Appellant admitted that he had some bookkeping training when he took his gunsmith courses, in case he decided to start his own business. He even tried it out in 2001 but claimed it didn't work. No business income was claimed for 2001. He did, however, claim $6,590 in business income for 2000 without claiming any expenses, which he could not explain. Among the other income in 2001, the Appellant was employed by Snap Shots and CNC Solstice Inc. and no employment expenses were deducted that year.
+[14] Through the cross-examination, the Court learned that the Appellant changed accountants in 2002. He admitted he paid much less income tax than the previous years with this new accountant. In fact, his refunds were almost 20 times higher, which led him to admit he was happy with the result. He also admitted that his work at CNC Solstice was regular and he had accumulated an average of 40 hours a week.
+[15] When questioned about the kilometres driven in 2002 to earn income in relation to the kilometres driven that year and the figure for 2003, which is identical, the Appellant admitted that it was almost impossible for the figures to be identical. He did not raise this issue with his accountant. He also testified that he had more than one vehicle and he used another one, particularly at the end of 2003 when he returned to school. Neither could he explain how his entertainment and meal expenses were identical, $4,950, for the two taxation years in question.
+[16] It must therefore be determined whether the Minister correctly revised the Appellant's net business income, establishing it at $1,585 and thereby disallowing all the business expenses the Appellant claimed for the 2003 taxation year. It must also be determined whether the Minister correctly revised the deductions for "employment expenses" to zero in the Appellant's income calculation for the 2002 taxation year. For these two taxation years, it must also be determined whether the Minister was justified in imposing a penalty for gross negligence pursuant to subsection 163(2).
+[17] At the beginning of his pleading and during the hearing, the agent for the Appellant admitted that for the 2002 taxation year, his office had erred in deducting employment expenses. He claimed, however, that the Appellant had incurred these expenses for the purpose of starting his gunsmith business and they were to earn business income, as the 2003 expenses. On this point, I must state that it is surprising enough that such an error could be committed, but even more so that nobody noticed it until the hearing of the case. Evidently, these cannot be employment expenses. It is unlikely that the Appellant incurred so many expenses for a business that did not earn him a single penny of income.
+[18] I cannot ignore the fact the Appellant was unable to produce even a single piece of documentary evidence in support of his expenses, either at the audit stage or during the trial before the Court. The many contradictions in his testimony and the various versions of the facts only undermine any credibility he might have. It must not be forgotten that at the time of the audit, he never mentioned the loss of documents caused by the water damage in the basement of his cottage. During a conversation with the auditor on December 19, 2005, all he spoke of was a burglary that would explain why he did not have all his documentary evidence, which was in boxes at the cottage. At the trial, he referred to water damage at the cottage after Easter 2004, and a break-in on May 17, 2004, to explain the lack of documents. In my opinion, the issue of missing documentary evidence goes back to before the break-in and the water damage because the Appellant's accountant billed him on April 14, 2003, and March 17, 2004, for time spent looking for missing documents while preparing his income tax reports for 2002 and 2003. One has to wonder if the Appellant actually had these documents at all.
+[19] The Appellant claimed he had bookkeeping training during his gunsmith course, in case he wanted to start his own business. Although the content of the course was not described in detail, it is surprising that the Appellant did not find it necessary to keep a record of his travels, and more particularly of the kilometres driven for business compared to those driven for personal reasons. It was only when questioned about the kilometres claimed in his tax reports that he stated he had more than one vehicle and he drove close to 50,000 kilometres per year. In so doing, he doubled the annual kilometres indicated in his income tax reports.
+[20] There is also the fact that the Appellant held jobs in 2002 that undoubtedly restricted his availability to run a business, thus making his claim that he drove around Quebec to make a name for himself and to go see hunting and fishing clubs unlikely. Expending this much energy should, in my opinion, have generated at least a few dollars of income in two years. In 2003 he did earn an income of around $1,500 but the only invoices produced are from his former employer that had dismissed him as an employee in 2002 and that, in 2003, relied on his services as needed. Moreover, the invoices clearly show that his vehicle and pager expenses were reimbursed and that he was fed while on the film sets.
+[21] One must wonder how the Appellant could have spent exactly the same amount in entertainment and meal expenses for the two years in question. He was unable to explain this or provide any explanations. The Appellant was unable to meet his burden of proof and establish on a balance of probabilities that he had the right to deduct employment or business expenses for his 2002 taxation year, and business expenses for this 2003 taxation year.
+[22] As for the penalty imposed under subsection 163(2) of the Act, the burden is on the Minister to establish the facts to justify it. The Minister is justified in imposing such a penalty when it can be established that a taxpayer has knowingly, or under circumstances equal to gross negligence, made a false statement or omission in a report for a taxation year, or participated, consented or agreed to such a statement or omission.
+[23] In Lucien Venne v. Her Majesty the Queen, 84 D.T.C. 6247, Strayer J. interpreted the concept of gross negligence as a case of negligence greater than simply a failure to use reasonable care. There must be a significant degree of negligence that corresponds to a deliberate act, indifference to the respect of the Act.
+[24] The Federal Court of Appeal, in Villeneuve v. Canada, 2004 D.T.C. 6077, went so far as to state that gross negligence could result from the wrongdoer's wilful blindness.
+[25] In this case, the Appellant was not unaware that his income tax reports for the years in question led to a sizeable refund compared to the previous years and in particular, 2002 when he was a paid employee during almost the entire year. The fact that he did not ask questions about this sudden change when he signed his tax reports shows his indifference as to whether laws are complied with and regarding his duty to ensure he provides accurate and complete information. The fact he deducted employment expenses in 2002 knowing full well they were not incurred for his employer Snap Shots constitutes a false statement that is attributed to more than a simple failure to use reasonable care.
+[26] In my opinion, the Appellant showed indifference regarding the number of kilometres driven in order to earn income, compared to the total driven, since it is so unlikely. Similarly, the fact that the meal and entertainment expenses claimed during the two years in question were identical should also have drawn his attention. All in all, the Appellant wanted to benefit from this new method of reducing his taxes and did not think it was necessary to ask questions about the content of his tax report, thus shirking himself of all responsibilities regarding his obligations under the Act. The Respondent therefore established her burden of proof and the penalties are upheld.
+[27] The appeals are dismissed.
+Signed at Montreal, Quebec, this 21st day of November 2008.
+"François Angers"
+Angers J.
+Translation certified true
+on this 9th day of January 2009.
+Elizabeth Tan, Translator
+CITATION: 2008 TCC 625
+COURT FILE No.: 2008-315(IT)I
+STYLE OF CAUSE: Mathieu Chamberland v. HMTQ
+PLACE OF HEARING: Montreal, Quebec
+DATE OF HEARING: October 31, 2008
+REASONS FOR JUDGMENT BY: The Honourable Justice François Angers
+DATE OF JUDGMENT: November 21, 2008
+APPEARANCES:
+Agent for the Appellant:
+Serge Cloutier
+Counsel for the Respondent:
+Annick Provencher
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

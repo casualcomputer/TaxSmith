@@ -1,0 +1,615 @@
+Title: Sénéchal v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30567/index.do
+Corpus path: corpus/cases/tcc/2011/2011-tcc-365-30567-s-n-chal-v-the-queen-en.md
+Document type: case_law
+Last modified: 2011-08-25
+
+# Sénéchal v. The Queen
+
+- Citation: 2011 TCC 365
+- Decision date: 2011-08-25
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7307, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Sénéchal v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2011-08-25
+Neutral citation
+2011 TCC 365
+File numbers
+2008-1830(IT)I, 2008-1838(IT)I, 2008-1839(IT)I, 2008-1841(IT)I, 2008-1843(IT)I, 2008-1844(IT)I, 2008-1846(IT)I, 2008-1849(IT)I, 2008-1850(IT)I, 2008-1852(IT)I, 2008-1853(IT)I, 2008-1855(IT)I
+Judges and Taxing Officers
+Lucie Lamarre
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2008-1830(IT)I
+BETWEEN:
+MARC SÉNÉCHAL,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeals heard on common evidence with the appeals of
+Richard Gagné 2008-1838(IT)I, Denis Boucher 2008-1839(IT)I,
+Michel Bergeron 2008-1841(IT)I, Denis Harvey 2008-1843(IT)I,
+Hélène Leclerc 2008-1844(IT)I, Dominic Lemieux 2008-1846(IT)I,
+André Parent 2008-1849(IT)I, Charles Parent 2008-1850(IT)I,
+Jocelyn Simard 2008-1852(IT)I, Michel Simard 2008-1853(IT)I and
+Luc Turcotte 2008-1855(IT)I, on June 30, 2011, at Québec, Quebec.
+Before: The Honourable Justice Lucie Lamarre
+Appearances:
+Counsel for the appellant:
+Robert Marcotte
+Counsel for the respondent:
+Anne Poirier
+____________________________________________________________________
+JUDGMENT
+The appeals from the reassessments made under the Income Tax Act, with respect to the 2002, 2003 and 2004 taxation years, are dismissed.
+Signed at Ottawa, Canada, this 25th day of August 2011.
+"Lucie Lamarre"
+Lamarre J.
+Translation certified true
+On this 27th day of October 2011
+Monica F. Chamberlain, Reviser
+Docket: 2008-1838(IT)I
+BETWEEN :
+Richard Gagné,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeals heard on common evidence with the appeals of
+Marc Sénéchal 2008-1830(IT), Denis Boucher 2008-1839(IT)I,
+Michel Bergeron 2008-1841(IT)I, Denis Harvey 2008-1843(IT)I,
+Hélène Leclerc 2008-1844(IT)I, Dominic Lemieux 2008-1846(IT)I,
+André Parent 2008-1849(IT)I, Charles Parent 2008-1850(IT)I,
+Jocelyn Simard 2008-1852(IT)I, Michel Simard 2008-1853(IT)I and
+Luc Turcotte 2008-1855(IT)I, on June 30, 2011, at Québec, Quebec.
+Before: The Honourable Justice Lucie Lamarre
+Appearances:
+Counsel for the appellant:
+Robert Marcotte
+Counsel for the respondent:
+Anne Poirier
+____________________________________________________________________
+JUDGMENT
+The appeals from the reassessments made under the Income Tax Act with respect to the 2002, 2003 and 2004 taxation years are dismissed.
+Signed at Ottawa, Canada, this 25th day of August 2011.
+"Lucie Lamarre"
+Lamarre J.
+Translation certified true
+On this 27th day of October 2011
+Monica F. Chamberlain, Reviser
+Docket: 2008-1839(IT)I,
+BETWEEN:
+Denis Boucher
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeals heard on common evidence with the appeals of
+Marc Sénéchal 2008-1830(IT), Richard Gagné 2008-1838(IT)I,
+Michel Bergeron 2008-1841(IT)I, Denis Harvey 2008-1843(IT)I,
+Hélène Leclerc 2008-1844(IT)I, Dominic Lemieux 2008-1846(IT)I,
+André Parent 2008-1849(IT)I, Charles Parent 2008-1850(IT)I,
+Jocelyn Simard 2008-1852(IT)I, Michel Simard 2008-1853(IT)I and
+Luc Turcotte 2008-1855(IT)I, on June 30, 2011, at Québec, Quebec.
+Before: The Honourable Justice Lucie Lamarre
+Appearances:
+Counsel for the appellant:
+Robert Marcotte
+Counsel for the respondent:
+Anne Poirier
+____________________________________________________________________
+JUDGMENT
+The appeals from the reassessments made under the Income Tax Act with respect to the 2002, 2003 and 2004 taxation years are dismissed.
+Signed at Ottawa, Canada, this 25th day of August 2011.
+"Lucie Lamarre"
+Lamarre J.
+Translation certified true
+On this 27th day of October 2011
+Monica F. Chamberlain, Reviser
+Docket: 2008-1841(IT)I
+BETWEEN:
+Michel Bergeron
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeals heard on common evidence with the appeals of
+Marc Sénéchal 2008-1830(IT), Richard Gagné 2008-1838(IT)I, Denis Boucher 2008-1839(IT)I, Denis Harvey 2008-1843(IT)I,
+Hélène Leclerc 2008-1844(IT)I, Dominic Lemieux 2008-1846(IT)I,
+André Parent 2008-1849(IT)I, Charles Parent 2008-1850(IT)I,
+Jocelyn Simard 2008-1852(IT)I, Michel Simard 2008-1853(IT)I and
+Luc Turcotte 2008-1855(IT)I, on June 30, 2011, at Québec, Quebec.
+Before: The Honourable Justice Lucie Lamarre
+Appearances:
+Counsel for the appellant:
+Robert Marcotte
+Counsel for the respondent:
+Anne Poirier
+____________________________________________________________________
+JUDGMENT
+The appeals from the reassessments made under the Income Tax Act with respect to the 2002, 2003 and 2004 taxation years are dismissed.
+Signed at Ottawa, Canada, this 25th day of August 2011.
+"Lucie Lamarre"
+Lamarre J.
+Translation certified true
+On this 27th day of October 2011
+Monica F. Chamberlain, Reviser
+Docket: 2008-1843(IT)I
+BETWEEN:
+Denis Harvey,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeals heard on common evidence with the appeals of
+Marc Sénéchal 2008-1830(IT), Richard Gagné 2008-1838(IT)I, Denis Boucher 2008-1839(IT)I, Michel Bergeron 2008-1841(IT)I,
+Hélène Leclerc 2008-1844(IT)I, Dominic Lemieux 2008-1846(IT)I,
+André Parent 2008-1849(IT)I, Charles Parent 2008-1850(IT)I,
+Jocelyn Simard 2008-1852(IT)I, Michel Simard 2008-1853(IT)I and
+Luc Turcotte 2008-1855(IT)I, on June 30, 2011, at Québec, Quebec.
+Before: The Honourable Justice Lucie Lamarre
+Appearances:
+Counsel for the appellant:
+Robert Marcotte
+Counsel for the respondent:
+Anne Poirier
+____________________________________________________________________
+JUDGMENT
+The appeals from the reassessments made under the Income Tax Act with respect to the 2002, 2003 and 2004 taxation years are dismissed.
+Signed at Ottawa, Canada, this 25th day of August 2011.
+"Lucie Lamarre"
+Lamarre J.
+Translation certified true
+On this 27th day of October 2011
+Monica F. Chamberlain, Reviser
+Docket: 2008-1844(IT)I
+BETWEEN :
+Hélène Leclerc,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeals heard on common evidence with the appeals of
+Marc Sénéchal 2008-1830(IT), Richard Gagné 2008-1838(IT)I, Denis Boucher 2008-1839(IT)I, Michel Bergeron 2008-1841(IT)I, Denis Harvey 2008-1843(IT)I, Dominic Lemieux 2008-1846(IT)I,
+André Parent 2008-1849(IT)I, Charles Parent 2008-1850(IT)I,
+Jocelyn Simard 2008-1852(IT)I, Michel Simard 2008-1853(IT)I and
+Luc Turcotte 2008-1855(IT)I, on June 30, 2011, at Québec, Quebec.
+Before: The Honourable Justice Lucie Lamarre
+Appearances:
+Counsel for the appellant:
+Robert Marcotte
+Counsel for the respondent:
+Anne Poirier
+____________________________________________________________________
+JUDGMENT
+The appeals from the reassessments made under the Income Tax Act with respect to the 2002, 2003 and 2004 taxation years are dismissed.
+Signed at Ottawa, Canada, this 25th day of August 2011.
+"Lucie Lamarre"
+Lamarre J.
+Translation certified true
+On this 27th day of October 2011
+Monica F. Chamberlain, Reviser
+Docket: 2008-1846(IT)I
+BETWEEN:
+Dominic Lemieux,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeals heard on common evidence with the appeals of
+Marc Sénéchal 2008-1830(IT), Richard Gagné 2008-1838(IT)I, Denis Boucher 2008-1839(IT)I, Michel Bergeron 2008-1841(IT)I, Denis Harvey 2008-1843(IT)I, Hélène Leclerc 2008-1844(IT)I,
+André Parent 2008-1849(IT)I, Charles Parent 2008-1850(IT)I,
+Jocelyn Simard 2008-1852(IT)I, Michel Simard 2008-1853(IT)I,
+Luc Turcotte 2008-1855(IT)I, on June 30, 2011, at Québec, Quebec.
+Before: The Honourable Justice Lucie Lamarre
+Appearances:
+Counsel for the appellant:
+Robert Marcotte
+Counsel for the respondent:
+Anne Poirier
+____________________________________________________________________
+JUDGMENT
+The appeals from the reassessments made under the Income Tax Act with respect to the 2002, 2003 and 2004 taxation years are dismissed.
+Signed at Ottawa, Canada, this 25th day of August 2011.
+"Lucie Lamarre"
+Lamarre J.
+Translation certified true
+On this 27th day of October 2011
+Monica F. Chamberlain, Reviser
+Docket: 2008-1849(IT)I
+BETWEEN:
+ANDRÉ Parent,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeals heard on common evidence with the appeals of
+Marc Sénéchal 2008-1830(IT), Richard Gagné 2008-1838(IT)I, Denis Boucher 2008-1839(IT)I, Michel Bergeron 2008-1841(IT)I, Denis Harvey 2008-1843(IT)I, Hélène Leclerc 2008-1844(IT)I, Dominic Lemieux 2008-1846(IT)I, Charles Parent 2008-1850(IT)I,
+Jocelyn Simard 2008-1852(IT)I, Michel Simard 2008-1853(IT)I and
+Luc Turcotte 2008-1855(IT)I, on June 30, 2011, at Québec, Quebec.
+Before: The Honourable Justice Lucie Lamarre
+Appearances:
+Counsel for the appellant:
+Robert Marcotte
+Counsel for the respondent:
+Anne Poirier
+____________________________________________________________________
+JUDGMENT
+The appeals from the reassessments made under the Income Tax Act with respect to the 2002, 2003 and 2004 taxation years are dismissed.
+Signed at Ottawa, Canada, this 25th day of August 2011.
+"Lucie Lamarre"
+Lamarre J.
+Translation certified true
+On this 27th day of October 2011
+Monica F. Chamberlain, Reviser
+Docket: 2008-1850(IT)I
+BETWEEN:
+Charles Parent,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeals heard on common evidence with the appeals of
+Marc Sénéchal 2008-1830(IT), Richard Gagné 2008-1838(IT)I, Denis Boucher 2008-1839(IT)I, Michel Bergeron 2008-1841(IT)I, Denis Harvey 2008-1843(IT)I, Hélène Leclerc 2008-1844(IT)I, Dominic Lemieux 2008-1846(IT)I, André Parent 2008-1849(IT)I,
+Jocelyn Simard 2008-1852(IT)I, Michel Simard 2008-1853(IT)I and
+Luc Turcotte 2008-1855(IT)I, on June 30, 2011, at Québec, Quebec.
+Before: The Honourable Justice Lucie Lamarre
+Appearances:
+Counsel for the appellant:
+Robert Marcotte
+Counsel for the respondent:
+Anne Poirier
+____________________________________________________________________
+JUDGMENT
+The appeals from the reassessments made under the Income Tax Act with respect to the 2002, 2003 and 2004 taxation years are dismissed.
+Signed at Ottawa, Canada, this 25th day of August 2011.
+"Lucie Lamarre"
+Lamarre J.
+Translation certified true
+On this 27th day of October 2011
+Monica F. Chamberlain, Reviser
+Docket: 2008-1852(IT)I
+BETWEEN:
+Jocelyn Simard,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeals heard on common evidence with the appeals of
+Marc Sénéchal 2008-1830(IT), Richard Gagné 2008-1838(IT)I,
+Denis Boucher 2008-1839(IT)I, Michel Bergeron 2008-1841(IT)I,
+Denis Harvey 2008-1843(IT)I, Hélène Leclerc 2008-1844(IT)I, Dominic Lemieux 2008-1846(IT)I, André Parent 2008-1849(IT)I, Charles Parent 2008-1850(IT)I, Michel Simard 2008-1853(IT)I and
+Luc Turcotte 2008-1855(IT)I, on June 30, 2011, at Québec, Quebec.
+Before: The Honourable Justice Lucie Lamarre
+Appearances:
+Counsel for the appellant:
+Robert Marcotte
+Counsel for the respondent:
+Anne Poirier
+____________________________________________________________________
+JUDGMENT
+The appeals from the reassessments made under the Income Tax Act with respect to the 2002, 2003 and 2004 taxation years are dismissed.
+Signed at Ottawa, Canada, this 25th day of August 2011.
+"Lucie Lamarre"
+Lamarre J.
+Translation certified true
+On this 27th day of October 2011
+Monica F. Chamberlain, Reviser
+Docket: 2008-1853(IT)I
+BETWEEN:
+Michel Simard,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeals heard on common evidence with the appeals of
+Marc Sénéchal 2008-1830(IT), Richard Gagné 2008-1838(IT)I, Denis Boucher 2008-1839(IT)I, Michel Bergeron 2008-1841(IT)I, Denis Harvey 2008-1843(IT)I, Hélène Leclerc 2008-1844(IT)I, Dominic Lemieux 2008-1846(IT)I, André Parent 2008-1849(IT)I, Charles Parent 2008-1850(IT)I, Jocelyn Simard 2008-1852(IT)I and Luc Turcotte 2008-1855(IT)I, on June 30, 2011, at Québec, Quebec.
+Before: The Honourable Justice Lucie Lamarre
+Appearances:
+Counsel for the appellant:
+Robert Marcotte
+Counsel for the respondent:
+Anne Poirier
+____________________________________________________________________
+JUDGMENT
+The appeals from the reassessments made under the Income Tax Act with respect to the 2002, 2003 and 2004 taxation years are dismissed.
+Signed at Ottawa, Canada, this 25th day of August 2011.
+"Lucie Lamarre"
+Lamarre J.
+Translation certified true
+On this 27th day of October 2011
+Monica F. Chamberlain, Reviser
+Docket: 2008-1855(IT)I
+BETWEEN:
+Luc Turcotte,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeals heard on common evidence with the appeals of
+Marc Sénéchal 2008-1830(IT), Richard Gagné 2008-1838(IT)I, Denis Boucher 2008-1839(IT)I, Michel Bergeron 2008-1841(IT)I, Denis Harvey 2008-1843(IT)I, Hélène Leclerc 2008-1844(IT)I, Dominic Lemieux 2008-1846(IT)I, André Parent 2008-1849(IT)I, Charles Parent 2008-1850(IT)I, Jocelyn Simard 2008-1852(IT)I and Michel Simard 2008-1853(IT)I, on June 30, 2011, at Québec, Quebec.
+Before: The Honourable Justice Lucie Lamarre
+Appearances:
+Counsel for the appellant:
+Robert Marcotte
+Counsel for the respondent:
+Anne Poirier
+____________________________________________________________________
+JUDGMENT
+The appeals from the reassessments made under the Income Tax Act with respect to the 2002, 2003 and 2004 taxation years are dismissed.
+Signed at Ottawa, Canada, this 25th day of August 2011.
+"Lucie Lamarre"
+Lamarre J.
+Translation certified true
+On this 27th day of October 2011
+Monica F. Chamberlain, Reviser
+Citation: 2011 TCC 365
+Date: 20110825
+Docket: 2008-1830(IT)I
+BETWEEN:
+MARC SÉNÉCHAL,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+AND BETWEEN: Docket: 2008-1838(IT)I
+RICHARD GAGNÉ,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+AND BETWEEN: Docket: 2008-1839(IT)I
+DENIS BOUCHER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+AND BETWEEN: Docket: 2008-1841(IT)I
+MICHEL BERGERON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+AND BETWEEN: Docket: 2008-1843(IT)I
+DENIS HARVEY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+AND BETWEEN: Docket: 2008-1844(IT)I
+HÉLÈNE LECLERC,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+AND BETWEEN: Docket: 2008-1846(IT)I
+DOMINIC LEMIEUX,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+AND BETWEEN: Docket: 2008-1849(IT)I
+ANDRÉ PARENT,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+AND BETWEEN: Docket: 2008-1850(IT)I
+CHARLES PARENT,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+AND BETWEEN: Docket: 2008-1852(IT)I
+JOCELYN SIMARD,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+AND BETWEEN: Docket: 2008-1853(IT)I
+MICHEL SIMARD,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+AND BETWEEN: Docket: 2008-1855(IT)I
+LUC TURCOTTE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Lamarre J.
+[1] During the years in issue, namely 2002, 2003 and 2004, the twelve appellants were police officers for the municipality of Saguenay and were members of the executive of the Fraternité des policiers et policières de la Ville de Saguenay (the Police Union).
+[2] During those years, they received funds from the Police Union to cover some of the expenses they incurred in connection with their union duties. The expenses included transportation and meal expenses for all the appellants, and, for some of the appellants, child care, Internet and computer expenses, and allowances for attending union meetings.
+[3] The Canada Revenue Agency (CRA) took the position that the amounts were taxable allowances received in the course of an office of employment within the meaning of sections 5 and 6 of the Income Tax Act (ITA), and the Minister of National Revenue (the Minister) assessed each appellant in order to add the amounts to their income in accordance with the detailed table adduced by the appellants as Exhibit A‑2. The appellants dispute the addition of these amounts to their taxable income.
+The facts
+[4] The sole witness for the appellants was Marc Sénéchal, who was elected president of the Police Union in late 2001. He testified on behalf of all the appellants.
+[5] Mr. Sénéchal explained that the Police Union was created after the amalgamation of the cities of Chicoutimi, Jonquière and La Baie. Before the amalgamation, each city had a distinct collective agreement with its own police service. The Chicoutimi collective agreement expired on December 31, 2001, and the other two collective agreements expired on December 31, 2002 (Exhibit A‑1, tables 20, 21 and 22).
+[6] On January 10, 2002, an agreement on the terms of integration (Exhibit A-1, tab 18) was reached between the Comité de transition de la ville de Saguenay, the party of the first part, and the Syndicat des policiers de Chicoutimi, the Fraternité des policiers et policières de Jonquière, and the Syndicat des policiers-pompiers de ville de La Baie, the parties of the second part. It stated that, effective February 18, 2002, the provisions of the Convention collective régissant un policier [the police officer collective agreement] would continue to apply, except to the extent that they were specifically amended by this agreement (section 10.1).
+[7] Section 9 of the agreement of January 10, 2002, contained specific rules regarding leave for union business from February 18, 2002, onward. The section stipulated as follows:
+[translation]
+SECTION 9 - LEAVES OF ABSENCE FOR UNION BUSINESS
+9.01 As of February 18, 2002, the provisions of the collective agreements concerning leaves of absence for union business (Chicoutimi: clauses 5.03, 5.04 and 5.06 to 5.11; Jonquière: clauses 8.01 to 8.03; and La Baie: clauses 5.01 to 5.04, 5.07, and 5.08) shall be replaced by the provisions of this section, until the first collective agreement applicable to all salaried members of the Saguenay municipal police service come into force.
+9.02 The employer grants the representatives of all unions permission to be absent from their jobs, without loss of pay, for the activities and in the quanta set out below:
+(a) A maximum of six (6) representatives to take part in the sessions of the joint union-management integration committee and in the negotiations, conciliation or arbitration sessions aimed at achieving the first collective agreement applicable to all salaried members of the Service de police de Ville de Saguenay.
+(b) A maximum of three (3) representatives to take part in the discussions of the joint health and safety committee formed pursuant to the Act respecting occupational health and safety and any other joint union-management committee, as of the time that such a committee is put in place by the Ville de Saguenay; and in the meantime, the applicable provisions of the collective agreements continue to apply with respect to the number of union representatives on such a committee.
+(c) For grievance hearings, two (2) union representatives, plus the employee concerned by the grievance.
+(d) In addition, an annual bank of one thousand (1000) hours shall be available to all unions for the purposes of leave for any union business for a representative or member. The employer must be notified at least two (2) days in advance for any leave time to be taken from this bank, unless there are exceptional circumstances, in which case the employer shall not refuse it without valid cause.
+9.03 The president of the new Fraternité des policiers et policières de la Ville de Saguenay [the Police Union] is granted leave with pay for a total of five hundred and forty (540) hours per year for his union duties. This time bank must be used in periods of eight (8) or twelve (12) continuous hours based on his work schedule. He must notify the employer at least two (2) days in advance of any day of leave that he intends to take, unless there are exceptional circumstances, in which case the employer shall not refuse it without valid cause.
+9.05 Notwithstanding any contrary provision of a collective agreement, where the Ville de Saguenay decides to replace a police officer on leave under this section, it may use temporary police officers, regardless of the duration of the replacement.
+[Emphasis added.]
+[8] The collective agreement between Ville de Saguenay and the Police Union (Exhibit A‑1, tab 19) was signed on February 22, 2005, and applied to the period from January 1, 2003, to December 31, 2006. Section 5 of the agreement governs union business and leave for union business. It is reproduced below:
+[translation]
+5.01 General meetings
+The Employer authorizes the Union to hold its general meetings on the premises of the service that it designates, outside regular office hours. The request shall be made to the chief of police within a reasonable amount of time.
+5.02 Leave for union business
+The Employer grants the Union's representatives permission to be absent from work, without loss of pay, for the activities and the quanta set out below:
+(a) A maximum of six (6) representatives to participate in the negotiation, conciliation or dispute arbitration sessions aimed at achieving the collective agreement;
+(b) a maximum of three (3) representatives to take part in the discussions of the joint health and safety committee formed pursuant to the Act respecting occupational health and safety and any other joint union-management committee, as of the time that such a committee is put in place by the Employer. If the meeting takes place outside the employee's work schedule, the employee shall accumulate compensable time equal to the duration of the meeting and must take this compensable time as time off, subject to the ratios set out in section 15, prior to the end of the calendar year, failing which the employee loses that time.
+(c) For grievance hearings, two (2) union representatives, plus the employee concerned by the grievance.
+(d) For hearings before the Commissaire à la déontologie policière [police ethics commissioner], the Commission des relations du travail [labour relations board], the Commission de lésions professionnelles [occupational injury board] the Commission des normes du travail [employment standards board], and the disciplinary committee formed under the Règlement sur la discipline des policiers de Ville de Saguenay, one union representative.
+(e) In addition, an annual bank of one thousand (1000) hours shall be available to all unions for the purposes of leave for any union business for a representative or member. The employer must be notified at least two (2) days in advance for any leave time to be taken from this bank, unless there are exceptional circumstances, in which case the employer shall not refuse it without valid cause.
+5.03 The president of the Fraternité des policiers et policières de la Ville de Saguenay [the Police Union] is granted leave with pay for a total of five hundred and forty (540) hours per year for his union duties. This time bank must be used in periods of ten (10) or twelve (12) continuous hours based on his work schedule. He must notify the employer at least two (2) days in advance of any day of leave that he intends to take, unless there are exceptional circumstances, in which case the employer shall not refuse it without valid cause.
+5.04 Sections 3 and 9 apply to replacements in the event of absences caused by the granting of leave under this section.
+5.05 If a Union member is elected to the Executive of the Fédération des policiers et policières municipaux du Québec, that Union member may take time off work, without pay, to attend the meetings of that organization for the duration of his mandate, provided he gives the chief of police at least seven days' notice, in writing, of any absence, unless there are exceptional circumstances, in which case the employer shall not refuse it without valid cause.
+5.06 The Employer shall make available to the Union an adequate room that is appropriate for holding meetings of its board of directors and for keeping its documents.
+[Emphasis added.]
+[9] In addition, the Police Union's articles of association and by-laws, adopted on January 22, 2002, and amended on April 24, 2002, stated that the Police Union's executive would consist of 12 members from the three amalgamated unions (four from Jonquière, four from Chicoutimi and four from La Baie) until the signing of the Police Union's first collective agreement. They also stated that the initial pooled capital fund consisted in admission dues of $500 per permanent member (Exhibit A‑1, tab 17, section XXVII). Later on, according to Mr. Sénéchal, this fund was to be financed by weekly deductions from each member's pay (see also section VI of the articles and by-laws of the Police Union: Exhibit A-1, tab 17).
+[10] In his testimony, Mr. Sénéchal explained that the members of the executive had the use of a bank of 1000 hours, out of their total work output, to look after their union duties, and that he personally had 540 additional hours as president. Everyone needed to obtain the employer's permission before being absent during their hours of work. Mr. Sénéchal arranged with the employer to devote all his Wednesdays to union duties, and the employer looked after his replacement as the lieutenant in charge of the investigations unit. Mr. Sénéchal says that in actual fact, the members of the Police Union executive tried to meet or carry out their union work outside hours of work in order to limit the amount of leave for union business granted by the employer.
+[11] When the appellants were absent during their hours of work, they received their pay from the employer, the Ville de Saguenay, and the Ville de Saguenay was not reimbursed by the Police Union. Some appellants, like Mr. Sénéchal, had to be replaced by the Ville de Saguenay while they were away. Patrol officers were not necessarily replaced.
+[12] The appellants received no remuneration from the Police Union. That is why the Police Union adopted a policy on expenses incurred by members of the executive (Exhibit A‑1, tab 15) on February 13, 2002 (the Expense Policy). Mr. Sénéchal explained that since the Police Union spanned three former municipalities which were, according to him, roughly 20 to 25 kilometres apart, the policy sought to cover expenses related to travel, living, lodging, hospitality, long-distance calls, and participation by directors. According to a map (Exhibit I‑3) adduced by the respondent, the total distance between Jonquière and La Baie, via Chicoutimi, is a bit less than 33 km.
+[13] Hence, lodging expenses were refundable upon submission of supporting documents. Living expenses were reimbursed without vouchers at a rate of $10 for breakfasts, $20 for lunches and $40 for dinners, with an additional $20 for other incidentals if a member of the executive had to spend the night away from home. (The amount allotted for dinners is double the allotment made in the new collective agreement between the Ville de Saguenay and its police officers: see Exhibit A-1, tab 19, page 883). Travel expenses for personal automobile use were reimbursed at a rate of $0.36 per kilometre outside the municipality Saguenay, and parking was reimbursed upon submission of receipts. Each member was entitled to a $50 hospitality allowance, without receipts, for every event he or she was directed by the Police Union to attend. The members were also entitled to two long-distance phone calls a day. Child care expenses were also reimbursed in some cases, and if so, they were reimbursed at a fixed rate. Lastly, the directors of the Police Union received a $50 director's fee for any event designated by the president, subject to a $1,000 maximum. According to Mr. Sénéchal, the appellants, in their capacity as members of the executive, did not receive these directors' fees. In fact, based on a reading of the Expense Policy, it appears that six directors were entitled to director's fees. Mr. Sénéchal stated that these director's fees were only paid if the union activity took place outside working hours and the member was therefore not being paid by the employer. Also, the reimbursement of expenses incurred by members of the executive was limited to a maximum that varied based on the position held when the travel was within the boundaries of the municipality of Saguenay and when the living expenses were not directly related to their obligation of representation. (See the Expense Policy, Exhibit A-1, tab 15, at page 694.)
+[14] All the expenses claimed by the Police Union had to be approved by the president first. In Mr. Sénéchal's case, it was the treasurer who countersigned the expense account approvals. The president was the person who approved union business and travel. The union leave forms required his approval before being sent to the chief of police for approval.
+[15] Mr. Sénéchal stated that the Police Union did not have an office during the transitional period which coincides with the period in issue, and that all members needed to be able to operate from home and have access to their own computer and mobile phone. The Police Union could reimburse some of these expenses if they were not incurred for personal use and were reasonable, but all reimbursements needed to be approved in advance by Mr. Sénéchal. And the meetings were most often held in a reserved room at a restaurant, which inevitably gave rise to meal expenses. Mr. Sénéchal said that he claimed all his travel from the Jonquière police station from which he worked. If he was off work that day, he claimed travel from his residence. However, he admitted that he did not have the detail of all his union meetings because he could not find his day planner for the years in question. Nonetheless, he adds that the details were not important to him, because he sent a weekly report to his members. He confirms that all the kilometres of driving claimed from the Police Union matches his trips on Police Union business. The same goes for the other appellants, because he ensured that each person's claims were justified and reasonable.
+[16] It appears that the CRA considered all the amounts paid to the appellants for their trips on union business within the municipality of Saguenay — that is to say, between Jonquière, Chicoutimi and La Baie — as taxable benefits. According to the CRA, this travel was not away from the municipality where the employer's establishment at which the employee ordinarily worked was located (see the Exhibit I-1, tab 6, the letter by the CRA, dated February 15, 2006).
+Statutory provisions
+Income Tax Act,
+RSC 1985, c 1 (5th Supp)
+PART I – Income Tax
+DIVISION B – Computation of Income
+Subdivision a – Income or Loss from Office or Employment
+Basic Rules
+Income from office or employment
+5. (1) Subject to this Part, a taxpayer's income for a taxation year from an office or employment is the salary, wages and other remuneration, including gratuities, received by the taxpayer in the year.
+. . .
+Inclusions
+Amounts to be included as income from office or employment
+6. (1) There shall be included in computing the income of a taxpayer for a taxation year as income from an office or employment such of the following amounts as are applicable
+Value of benefits
+(a) the value of board, lodging and other benefits of any kind whatever received or enjoyed by the taxpayer in the year in respect of, in the course of, or by virtue of an office or employment . . .
+Personal or living expenses
+(b) all amounts received by the taxpayer in the year as an allowance for personal or living expenses or as an allowance for any other purpose, except
+. . .
+(v) reasonable allowances for travel expenses received by an employee from the employee's employer in respect of a period when the employee was employed in connection with the selling of property or negotiating of contracts for the employee's employer,
+. . .
+(vii) reasonable allowances for travel expenses (other than allowances for the use of a motor vehicle) received by an employee (other than an employee employed in connection with the selling of property or the negotiating of contracts for the employer) from the employer for travelling away from
+(A) the municipality where the employer's establishment at which the employee ordinarily worked or to which the employee ordinarily reported was located, and
+(B) the metropolitan area, if there is one, where that establishment was located,
+in the performance of the duties of the employee’s office or employment,
+(vii.1) reasonable allowances for the use of a motor vehicle received by an employee (other than an employee employed in connection with the selling of property or the negotiating of contracts for the employer) from the employer for travelling in the performance of the duties of the office or employment,
+. . .
+and for the purposes of subparagraphs 6(1)(b)(v), 6(1)(b)(vi) and 6(1)(b)(vii.1), an allowance received in a taxation year by a taxpayer for the use of a motor vehicle in connection with or in the course of the taxpayer's office or employment shall be deemed not to be a reasonable allowance
+(x) where the measurement of the use of the vehicle for the purpose of the allowance is not based solely on the number of kilometres for which the vehicle is used in connection with or in the course of the office or employment, or
+(xi) where the taxpayer both receives an allowance in respect of that use and is reimbursed in whole or in part for expenses in respect of that use (except where the reimbursement is in respect of supplementary business insurance or toll or ferry charges and the amount of the allowance was determined without reference to those reimbursed expenses);
+PART XVII - Interpretation
+Definitions
+248. (1) In this Act,
+. . .
+"office" means the position of an individual entitling the individual to a fixed or ascertainable stipend or remuneration and includes a judicial office, the office of a minister of the Crown, the office of a member of the Senate or House of Commons of Canada, a member of a legislative assembly or a member of a legislative or executive council and any other office, the incumbent of which is elected by popular vote or is elected or appointed in a representative capacity and also includes the position of a corporation director, and "officer" means a person holding such an office.
+"employment" means the position of an individual in the service of some other person (including Her Majesty or a foreign state or sovereign) and "servant" or "employee" means a person holding such a position;
+"employee" includes officer;
+"employed" means performing the duties of an office or employment.
+The appellants' arguments
+[17] The appellants submit that the amounts received from the Police Union in connection with their union business are not taxable, because they carried out that business on a volunteer basis and the amounts paid by the Police Union served solely to reimburse the expenses that they incurred to carry out their duties. Counsel for the appellants seeks to distinguish this case from the situation in Succession Vachon v. Canada, 2009 FCA 375, [2009] F.C.J. No. 1630 (QL). That situation, which is somewhat similar to this one, was analyzed by the Federal Court of Appeal. The issue was the tax treatment of certain allowances paid to union officials by their central council. The union officials argued that they were volunteers and could not be considered holders of an office or employment with the central council within the meaning of sections 5 and 6 and subsection 248(1) of the ITA, since their positions did not entitle them to any fixed or ascertainable stipend or remuneration. The evidence showed that the officials obtained leave for union business without loss of pay, and that the central council reimbursed the employer for that portion of their pay that was paid during union leave. The Federal Court of Appeal held that the officials were not volunteers and that they held an office entitling them to fixed and ascertainable remuneration. At first instance, it had been accepted that, if they held an office, the allowances were taxable. Counsel for the appellants in the case at bar seek to distinguish that decision on the basis that the Ville de Saguenay was not reimbursed by the Police Union for the salary that it paid them during union leave, and that the appellants cannot be considered to have been entitled to fixed and ascertainable remuneration from the Police Union. Moreover, the appellants submit that a major part of their union activities was outside their hours of work for the Ville de Saguenay, and that they received no remuneration for those activities in such an event.
+[18] In the case of appellant André Parent, the Minister added the amounts of $3,055 in 2003 and $3,337 in 2004 to his income under the heading [translation] "Miscellaneous". According to Mr. Sénéchal's explanations, these amounts constitute the Ville de Saguenay's refund of an employment insurance overpayment for several police officers. It is alleged that the municipality paid the Police Union and that the Police Union then remitted the amounts in question to André Parent, the Police Union treasurer. The two cheques in question were signed by Mr. Sénéchal and Mr. Parent on behalf of the Police Union and have been adduced in evidence as Exhibit A‑1, tab 8, page 437. Mr. Parent allegedly deposited these cheques into his personal account and then distributed them, in cash, to all the police officers concerned. According to other documents, the amounts paid by the Ville de Saguenay to the Police Union were $3,101.74 in 2003 and $3,355.78 in 2004. These amounts allegedly correspond to the reduction of the EI contribution rate, of which the employee is entitled to five-twelfths (Exhibit A-1, tab 8, pages 438, 439 and 440). Therefore, according to the counsel for the appellants, these amounts cannot be attributed solely to André Parent.
+[19] Counsel for the appellants also relies on the decision of the Quebec Court of Appeal in Québec (Sous-ministre du Revenu) v. Confédération des Caisses populaires et d’économie Desjardins du Québec, 2002 DTC 7404, [2001] Q.J. No. 2623 (QL), which establishes that living expense allowances are not taxable benefits if the employees derive no profit from the allowances, and the allowances are paid solely to reimburse expenditures that the employer has directed the employees incur. In the appellants' view, the amounts received from the Police Union served solely to reimburse them for the expenses that they incurred out of pocket in performing their union duties. And, in their submission, if they did not benefit from them, they should not have been taxed on the allowances paid by the Police Union (see also Bernier v. Québec (Sous‑ministre du Revenu), 2007 QCCA 1003, [2007] R.J.Q. 1519, [2007] Q.J. No. 7566 (QL).
+[20] Lastly, counsel for the appellants argues that the tax-exempt status of the allowances for the use of a motor vehicle are not contingent on the travel expenses having been incurred outside the municipality where the employer's establishment at which the employee ordinarily worked or to which the employee ordinarily reported was located (subparagraph 6(1)(b)(vii.1) of the ITA).
+The respondent's arguments
+[21] The respondent argues that the appellants did in fact conduct their union business as office holders. She submits that the decision of the Federal Court of Appeal in Succession Vachon v. Canada settles this question, and cannot be distinguished, because the Police Union did not reimburse the Ville de Saguenay for the compensation paid to the police officers during their leave for union business. As far as she is concerned, the fact that the appellants received their full pay means that they cannot be considered volunteers. Furthermore, she submits that the evidence does not show on a balance of probabilities that the appellants primarily carried out their union activities outside their hours of work. Neither the requests for leave submitted to the employer, nor the attendance sheets, were adduced in evidence. Moreover, the respondent emphasizes that if one looks closely at the hospitality expenses paid to the appellants, one sees that few amounts of $50 were claimed by the appellants from the Police Union to attend union activities during periods when they were not on union leave (see Exhibit A‑2).
+[22] The respondent also notes that the allowances that were added to the appellants' income are fixed amounts which were paid without justification by the appellants. Such allowances are taxable under paragraph 6(1)(b) of the ITA (see MacDonald v. Canada, [1994] F.C.J. No. 378 (QL); The Queen v. Savage, [1983] 2 S.C.R. 428). Moreover, a benefit can be received from a person other than the employer and constitute a taxable benefit (see Norris v. The Queen, [1994] T.C.J. No. 81 (QL)). Here, the appellants were granted leave by the Ville de Saguenay in order to perform their union duties, and thus, the allowances received from the Police Union were received in connection with the performance of their remunerated duties.
+[23] The respondent notes that, by virtue of the exception set out in subparagraph 6(1)(b)(vii) of the ITA, the allowances paid to the appellants for activities outside the municipality of Saguenay were not added to their income. However, the allowances for meals within that metropolitan area were considered taxable. In the respondent's submission, the meal allowance cannot be considered reasonable, given, firstly, that it is higher than what the Collective Agreement contemplates for cases where it is paid directly by the employer, and, secondly, that the appellants receive the full amount for their meals whereas subcontractors are only entitled to 50% of such expenses under the ITA. The respondent also draws a parallel with subsection 81(3.1) of the ITA, which provides that no income tax is payable on allowances for travel between two workplaces if the taxpayer has a part-time employment and another employment, and the distance between the two workplaces is greater than 80 km. Here, the total distance between the three former cities is no greater than 33 km. In addition, the auditor split the allowances given by the Police Union for group meals between the members of the union executive, because the appellants provided no details regarding the persons present at such meals (Exhibit I-1, tab 5).
+[24] The respondent also submits that in order to benefit from the exemption in subparagraph 6(1)(b)(vii.1) of the ITA for allowances received for motor vehicle travel, the appellants had to prove that their residence was the main base from which they performed their duties, and that they were travelling to take part in union activities that were being conducted at a second place of work (see Daniels v. Canada (Attorney General),2004 FCA 125, [2004] F.C.J. No. 573 (QL)). In the respondent's submission, the appellants' evidence in this regard is incomplete.
+[25] Lastly, in the case of André Parent, the respondent submits that it has not been proven that he distributed the funds from the EI overpayment cheques that he cashed to the other employees. No list of names was provided which would have enabled the Minister to allocate the amounts in question between the various persons supposedly concerned.
+Analysis
+[26] In Succession Vachon v. Canada, supra, at paragraph 34 et seq., Justice Noël addressed the issue of determining whether the union officials held an office as defined in subsection 248(1) of the ITA:
+34 The only issue is therefore the one that the TCC judge identified at the beginning of his reasons: "whether … the [union] officials held an office within the meaning of subsection 248(1) of the [Act and] … subsection 2(1) of the CPP". If so, the appeals should be allowed; if not, they should be dismissed (reasons, para. 36).
+. . .
+36 In this case, the relevant legal tests underlying the existence of an office are twofold: first, the individuals involved must hold an "office, the incumbent of which is elected by popular vote or is elected or appointed in a representative capacity" and, second, the position in question must entitle the individual to a fixed or ascertainable stipend or remuneration.
+37 The first test seems to have been met, since the union officials were all elected to the positions that they hold on the central councils. It is the second test that was not met, according to the TCC judge.
+38 There are two requirements for meeting this second test. The office or position held must "entitle" the individual to remuneration, and this remuneration must be "fixed or ascertainable". The fixed or ascertainable aspect of the remuneration seems to have been met, since the union officials knew exactly what the monetary conditions associated with their union leave were when they applied for a union position (Testimony of Pierre Morel, appeal book, Vol. III, p. 707).
+39 However, in the TCC judge's opinion, the requirement that the position or office must "entitle" the individual to this remuneration was not met. The TCC judge drew this conclusion mainly because "the union officials are not entitled, under any contractual relationship or any central council constitution or by-laws, to a fixed or ascertainable stipend or remuneration" (reasons, para. 54).
+40 With respect, that the union officials are not entitled to this remuneration under any contractual relationship or any central council constitution or by‑laws is immaterial. The only issue is whether the union officials were paid for their activities as union officers during their union leave (on this point, see Justice Lamarre Proulx's decision in Duguay v. Canada, [2000] T.C.J. No. 381 (QL) at paragraph 37, where she identifies this issue in the same way in a comparable context).
+41 In my humble opinion, the answer is evident. The union officials received their full salaries and all of the fringe benefits set out in their collective agreement, despite the fact that they performed no services for their regular employers. The regular employers were reimbursed by the respective unions, and the cost of this remuneration was ultimately borne by the central councils. Only the services that the union officials rendered as in that capacity can explain why they received their usual remuneration during their union leave, and only the fact that the regular employers were reimbursed explains why they agreed to pay the remuneration even though they received no services.
+42 That the remuneration was paid through the regular employer does not change the analysis. Contrary to the submissions of counsel for the respondents, this is not a case of recharacterization of the legal relationships between the parties (Shell, above, para. 39) but, rather, of recognizing these relationships for what they are. It is clear that the regular employers were acting on behalf of the respective unions and, ultimately, the central councils when they agreed to remunerate the union officials during their union leave.
+43 Based on this analysis, the TCC judge’s finding that the union officials were acting as volunteers is unfounded and even contrary to the evidence. A volunteer acts [translation] "voluntarily and without pay" (Le Petit Robert, French language dictionary). However, the evidence shows that, once elected, the union officials undertook to assume the powers and duties associated with their union positions (union constitution and by‑laws, appeal book, Vol. I, pp. 254 and 268), for which they were entitled to their usual remuneration. This is not volunteering.
+[27] In this decision, Justice Noël held that, for two reasons, the union officials were not carrying out their union duties as volunteers. Firstly, the elected union officials undertook to assume the powers and duties associated with their union positions, and secondly, they were entitled to their usual remuneration in exchange.
+[28] In the case at bar, the appellants were also elected as union representatives, and they also undertook to assume the powers and duties associated with that position (according to the Police Union articles and by-laws, Exhibit A-1, tab 17). As for remuneration, the evidence is that the employer, Ville de Saguenay, paid them their full salary, while they were on union leave. In my opinion, just because the Police Union did not reimburse the employer, does not mean that the appellants received no remuneration in consideration for their services to the Police Union. In fact, the appellants had to obtain their employer's approval for their union leave, and their remuneration, whenever they were on union leave, was directly tied to the performance of their union duties.
+[29] The other difference between the appellants' situation and the situation that appears to have existed in Succession Vachon v. Canada, supra, is that the appellants could perform their duties outside the hours of work with their employer. In such a case, the Expense Policy provided that the members of the Police Union's executive were entitled to a $50 allowance for each instance of participation in a union activity, up to the maximum total contemplated in the said Expense Policy. In my opinion, this constitutes fixed or ascertainable remuneration. In fact, it constitutes a fixed amount to which the executive member is entitled from the moment the member participates in a union activity, without being required to provide supporting documents.
+[30] If the executive member exceeded the permitted limit under the Expense Policy while carrying out his union duties outside the hours remunerated by the municipality, one might think that he was no longer remunerated for the duties carried out for the Police Union. However, upon referring to the total amounts received by the appellants during the years in issue, the details of which amounts are set out in Exhibit A-2, I see that these limits do not ever appear to have been attained, or that, at the very least, it has not been proven that they were ever attained. On the contrary, unlike what Mr. Sénéchal appears to be alleging, one can see that the event-related allowances paid to the appellants when they are not on the employer's clock appear to be rather modest. In fact, both the agreement on the terms of integration, and the collective agreement finally signed in 2005, provided that a total of 12 union representatives could be absent from work without loss of pay in order to take part in various specified activities, and that an annual 1000‑hour leave bank was also available to representatives or members for any union activity. This suggests that the appellants, as members of the executive, could be granted paid leave for the specified activities, such as participation in the sittings of the union‑management integration committee (sections 9.02 (a), (b) and (c) of the integration terms agreement; sections 5.02(a), (b), (c) and (d) of the Collective Agreement) without even dipping into the 1000-hour bank.
+[31] With respect to the taxation of the amounts paid to the appellants by the Police Union, the Minister only appears to have added to the appellant's income the allowances for which they were not required to provide justification, and for the expenses that the Minister considered personal.
+[32] With respect to the meal expenses, the Expense Policy provided for a fixed amount, which, according to Mr. Sénéchal, was to be approved by him if he acknowledged that the executive member had indeed taken part in an activity for which he had to dine away from home. The Minister was of the opinion that this was not an expense reimbursement, and, moreover, that this allowance was not tax‑exempt under subparagraph 6(1)(b)(vii) of the ITA, when the meals were taken within the municipality of Saguenay.
+[33] I agree with the respondent that the amount paid for meals was a taxable allowance, not an expense reimbursement. The respondent properly finds support in following excerpt from MacDonald, supra, at paragraph 8:
+8. The decision of the Exchequer Court in Ransom v. Minister of National Revenue, (1967) 67 D.T.C. 5235, provides a good starting place in determining the qualities of an allowance. Noël J. reasoned as follows:
+[A] reimbursement of an expense actually incurred in the course of the employment or of a loss actually incurred in the course of the employment is not an "allowance" within the meaning of the word in section 5(1)(b) [now 6(1)(b)] as an allowance implies an amount paid in respect of some possible expense without any obligation to account (p.5243).
+He continued:
+An allowance is quite a different thing from reimbursement. It is, as already mentioned, an arbitrary amount usually paid in lieu of reimbursement. It is paid to the employee to use as he wishes without being required to account for its expenditure. For that reason it is possible to use it as a concealed increase in remuneration and that is why, I assume, "allowances" are taxed as though they were remuneration (p.5244)
+[34] Moreover, the meal allowances that were included in the appellants' income were paid in connection with the appellants' performance of their duties within the municipality of Saguenay. Even though that municipality results from a merger of three former cities, the meals eaten within it cannot, in my view, be considered to have been eaten away from the municipality where the employer's establishment was located, or away from the metropolitan area where it was located. In any event, the appellants did not stress this point, or at the very least, they did not provide me with anything persuasive to the contrary.
+[35] As for the allowance for motor vehicle use, it appears that the Minister only included the allowances for travel within the municipality of Saguenay. Relying on Daniels, supra, the respondent argues that trips from the appellants' residences to their places of work are personal in nature. I heard only Mr. Sénéchal's testimony on the subject. He said he went to his employer's office in Jonquière every Wednesday and, from there, travelled between Jonquière, Chicoutimi and La Baie to meet the Police Union members. When he did not have to go to the employer's office — he had every other Friday off — he left for his union activities from his residence. He explained that during the transitional period between the creation of the Ville de Saguenay in late 2001 and the signing of the Collective Agreement in 2005, the Police Union did not really have any premises and the employer did not provide any spaces for the conduct of union business. In fact, I note that the new collective agreement provided that the employer had to make a space available to employees for union meetings. If my understanding is correct, even the CRA auditor appears to have acknowledged this state of affairs in the letter (Exhibit I‑1, tab 6, page 7) that he wrote to counsel for the appellants. However, he took the position that, under the Police Union's Expense Policy, the members of the executive had to use their compensation to cover all distance-based expenses for travel between their residence and any place located within the boundaries of the municipality of Saguenay. Consequently, his position was that the allowance received for travel within the municipality of Saguenay was for the appellants' personal benefit and was therefore taxable. Moreover, few details concerning these trips were given. If one looks at the expense justification tables in the various volumes of Exhibit I-2, one often sees the entry "déplacement Ville de Saguenay" ["Travel - municipality of Saguenay"] with high and round numbers of kilometres driven monthly, frequently ranging from 100 km to the occasional 400 km, without further details. No log book for kilometres driven for non-personal purposes was adduced in evidence either.
+[36] In my opinion, the appellants' evidence is insufficient to show that the allowance received from the Police Union for their travel within the municipality of Saguenay was a reasonable allowance for the use of a motor vehicle in order to travel as part of their duties. Even though Mr. Sénéchal approved the payments of the allowances, my understanding is that, more often than not, they covered the appellants' trips from their residences to union activities (at any rate, Mr. Sénéchal did not convince me otherwise.) These are personal expenses, and an allowance for such expenses is taxable (see Daniels, supra, at paragraph 7).
+[37] As for the office expenses (Internet and computer expenses) related to work done at home, these expenses constitute personal expenses that the appellants would have incurred even if they did not have union duties. An employer's payment of an employee's regular or current expenses constitutes a taxable benefit. In reimbursing the appellants this way, under the pretext that they use their computers to carry out union tasks, the Police Union was giving the appellants a form of remuneration. This was no longer in the realm of expenses incurred due to a specific demand by the Police Union, and is within the realm of partial compensation of a personal expense (see Leduc (Estate) v. Canada, [1995] T.C.J. No. 1514, 1995 CarswellNat 2065). As for the child care expenses for which, based on Mr. Sénéchal's testimony, the appellants received a fixed amount, I also find that they are a taxable benefit. Mr. Sénéchal made a point of noting that he considered child care expenses incurred when the appellants concerned were being remunerated by the Ville de Saguenay to be personal in nature, and that they were therefore not reimbursed by the Police Union. How could these same expenses lose their personal nature because they are incurred outside the hours of work for the Ville de Saguenay? In my opinion, these expenses remain personal in nature. First of all, the appellants voluntarily came forward to fill the positions that they hold in the Police Union, and they were elected to those positions. Thus, this is not a requirement tied to their employment. Secondly, my understanding is that the amount remitted by the Police Union is a fixed amount, that it requires no supporting documents, and that it is paid on the honour system. Given the circumstances, it is my opinion that the decisions of the Quebec Court of Appeal cited by the appellants do not apply to the case at bar.
+[38] As for the amount paid to the Police Union by the Ville de Saguenay and transferred to André Parent, and the auditor's allocation, between the appellants, of group meal expenses, the appellants deliberately refused to provide the names of the people concerned who, in the first case, received sums of cash from André Parent, or who, in the second case, were supposedly present at the group meals, as documented by Exhibit I‑1, tabs 5, 6 and 7. And as for the two cheques drawn by the Police Union and deposited into André Parent's account, they do not match the amounts paid by the Ville de Saguenay to the Police Union. Under the circumstances, I find that the evidence adduced by the appellants, who bore the burden of proof, was incomplete.
+[39] Consequently, the appeals are dismissed, and the assessments under appeal are confirmed.
+Signed at Ottawa, Canada, this 25th day of August 2011.
+"Lucie Lamarre"
+Lamarre J.
+Translation certified true
+On this 27th day of October 2011
+Monica F. Chamberlain, Reviser
+CITATION: 2011 TCC 365
+COURT FILE NOS.: 2008-1830(IT)I; 2008-1838(IT)I; 2008‑1839(IT)I; 2008-1841(IT)I; 2008‑1843(IT)I; 2008-1844(IT)I; 2008‑1846(IT)I; 2008-1949(IT)I; 2008‑1850(IT)I; 2008‑1852(IT)I; 2008‑1853(IT)I; 2008‑1855(IT)I
+STYLES OF CAUSE: MARC SÉNÉCHAL v. HER MAJESTY THE QUEEN
+RICHARD GAGNÉ v. HER MAJESTY THE QUEEN
+DENIS BOUCHER v. HER MAJESTY THE QUEEN
+MICHEL BERGERON v. HER MAJESTY THE QUEEN
+DENIS HARVEY v. HER MAJESTY THE QUEEN
+HÉLÈNE LECLERC v. HER MAJESTY THE QUEEN
+DOMINIC LEMIEUX v. HER MAJESTY THE QUEEN
+ANDRÉ PARENT v. HER MAJESTY THE QUEEN
+CHARLES PARENT v. HER MAJESTY THE QUEEN
+JOCELYN SIMARD v. HER MAJESTY THE QUEEN
+MICHEL SIMARD v. HER MAJESTY THE QUEEN
+LUC TURCOTTE v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Québec, Quebec
+DATE OF HEARING: June 30, 2011
+REASONS FOR JUDGMENT BY: The Honourable Justice Lucie Lamarre
+DATE OF JUDGMENT: August 25, 2011
+APPEARANCES:
+Counsel for the appellants:
+Robert Marcotte
+Counsel for the respondent:
+Anne Poirier
+COUNSEL OF RECORD:
+For the appellants:
+Name: Robert Marcotte
+Firm: Robert Marcotte
+Québec, Quebec
+For the respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada

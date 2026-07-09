@@ -1,0 +1,153 @@
+---
+title: "Harnish v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27980/index.do"
+last_modified: "2007-09-11"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 TCC 546"
+citation2: ""
+neutral_citation: "2007 TCC 546"
+decision_date: "2007-09-11"
+language: "en"
+item_id: "27980"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1762
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T22:44:54.911000+00:00"
+cases_cited_count: 1
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "f994d4903e4ea6407fc9be27a0a542ed2adb71a7346d812b80ad94c383d54fe2"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Harnish v. The Queen
+
+- Citation: 2007 TCC 546
+- Decision date: 2007-09-11
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1762, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Harnish v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-09-11
+Neutral citation
+2007 TCC 546
+File numbers
+2007-889(IT)I
+Judges and Taxing Officers
+Wyman W. Webb
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2007-889(IT)I
+BETWEEN:
+BRUCE W. HARNISH ,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on August 28, 2007, at Halifax, Nova Scotia.
+Before: The Honourable Justice Wyman W. Webb
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Carole Benoit
+JUDGMENT
+The appeal in relation to the inclusion of $43,774.48 of the income of the Appellant for 2004 is allowed in part, without costs, and is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that this amount is to be reduced by $2,705.22.
+Signed at Toronto, Ontario, this 11th day of September 2007.
+“Wyman W. Webb”
+Webb J.
+Citation: 2007TCC546
+Date: 20070911
+Docket: 2007-889(IT)I
+BETWEEN:
+BRUCE W. HARNISH ,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Webb J.
+[1] The issue in this case is whether the amount of $43,774.48 that was paid to the Appellant in 2004 by Sun Life Assurance Company of Canada (“Sun Life”) under a long term disability plan should be included in the income of the Appellant in 2004 even though, at the time the amounts were paid, the Appellant was subject to a condition that the amounts may have to be repaid.
+[2] The Appellant was injured in a motor vehicle accident on September 27, 2003 when his vehicle was rear-ended by another vehicle. Because of his injury he was unable to return to work. For the balance of 2003, he used his sick leave time that was available to him. Since the Appellant was not able to return to work after the expiration of the sick leave time period, he applied for long term disability benefits under the long-term disability plan with Sun Life.
+[3] Both the Appellant’s employer and the Appellant had made payments under the long term disability plan. The Appellant had paid a total of $2,705.22 of the premiums under the plan. The total amount that was paid to the Appellant in 2004 by Sun Life under the long-term disability plan was $43,774.48. The Appellant was reassessed to include this amount in his income pursuant to paragraph 6(1)(f) of the Income Tax Act (“Act”). This paragraph provides, in part, as follows:
+6(1) There shall be included in computing the income of a taxpayer for a taxation year as income from an office or employment such of the following amounts as are applicable:
+(f) the total of all amounts received by the taxpayer in the year that were payable to the taxpayer on a periodic basis in respect of the loss of all or any part of the taxpayer’s income from an office or employment, pursuant to
+(i) a sickness or accident insurance plan,
+(ii) a disability insurance plan, or
+(iii) an income maintenance insurance plan
+to or under which the taxpayer’s employer has made a contribution, not exceeding the amount, if any, by which
+(iv) the total of all such amounts received by the taxpayer pursuant to the plan before the end of the year. ...
+exceeds
+(v) the total of the contributions made by the taxpayer under the plan before the end of the year. ...
+[4] In this case the amounts that were payable to the Appellant by Sun Life were paid on a periodic basis as he received monthly payments. As well the amounts were paid in respect of the loss of the Appellant’s income from his office or employment as he was unable to work on a full time basis in 2004. He did start back to work on a gradual basis on November 1, 2004 and in 2005 was able to return on a full time basis. However, throughout 2004, he was unable to work on a full time basis.
+[5] Prior to the Appellant receiving any payment from Sun Life and as a condition imposed by Sun Life upon the Appellant receiving any payments, he signed a Subrogation Acknowledgment with Sun Life. This Subrogation Acknowledgment provides in part as follows:
+Where benefits under this policy have been paid or may be payable to an Employee and the Employee has a right of action against a Third Party for recovery of loss of income which otherwise would have been earned by the Employee during the whole or any part of the period that benefits are paid, or may be payable, to the Employee under this policy,
+1. any amount recovered by the Employee from the Third Party (including general damages, damages of loss of income, interest and legal costs, whether recovered through settlement or trial), less the Employee’s legal costs expended for such recovery, shall be deemed to be the Employee’s Net Recovery from the Third Party;
+2. the Employee shall pay to Sun Life Financial an amount equal to 75% of his/her Net Recovery from the Third Party (to a maximum of the amounts paid to the Employee under this policy), such percentage of his/her Net Recovery to be held in trust by the Employee for Sun Life Financial until payment is made to Sun Life Financial.
+[6] The position of the Appellant was that because it was a condition of his receiving payments that he sign the Subrogation Acknowledgment, the amounts that he received from Sun Life were a loan and not income. However since the amounts that were paid to the Appellant by Sun Life were paid under the long-term disability plan which imposed an obligation on Sun Life to make these payments because the Appellant was unable to work, I find that the amounts were not a loan. As well, Sun Life issued a T4A slip to the Appellant for the total amount of the payments made in 2004 and therefore Sun Life obviously did not consider these amounts to be a loan.
+[7] The issue is whether the amounts that were paid had the quality of income for the purposes of the Act. In Commonwealth Construction Company v. Her Majesty The Queen, [1984] C.T.C. 338, 56 NR 309, 84 DTC 6420, the Federal Court of Appeal made the following comments:
+21 The phrase “quality of income” appears in a case relied on both by the appellant and the respondent, namely, Kenneth BS Robertson Limited v. Minister of National Revenue, [1944] C.T.C. 75; 2 DTC 655. At 90-91 [660] of the report Thorson J. (as he then was), after disposing of an argument that the Appellant in that case was entitled to set up reserves in respect of certain types of commissions paid on insurance premiums received, made the following statement:
+This does not, however, dispose of this appeal, for the question remains whether all of the amounts received by the appellant during any year were received as income or became such during the year. Did such amounts have, at the time of their receipt, or acquire during the year of their receipt, the quality of income to use the phrase of Mr. Justice Brandeis in Brown v. Helvering (supra). In my judgment, the language used by him, to which I have already referred, lays down an important test as to whether an amount received by a taxpayer has the quality of income. Is his right to it absolute and under no restriction, contractual or otherwise, as to its disposition, use or enjoyment? To put it in another way, can an amount in a taxpayer’s hands be regarded as an item of profit or gain from his business, as long as he holds it subject to specific and unfulfilled conditions and his right to retain it and apply it to his own use has not yet accrued, and may never accrue?
+22 To apply phrases from that quotation to the case at bar, the record discloses that the rights of the appellant to the amounts paid to it in 1974 and 1975 were “absolute and under no restriction, contractual or otherwise, as to its disposition, use or enjoyment.” They were not held subject to any specific and unfulfilled conditions. Once the conditions precedent imposed in the letter agreements between the parties, supra, had been fulfilled, as they were, the right to receive the moneys and to retain them had accrued and was absolute. True, it might be necessary to return the moneys in whole or in part if the appeal were successful. But, as I see it, that was a condition subsequent which did not affect the unrestricted right of the appellant to use them until such a requirement occurred. It did not, as I see it, affect their quality as income upon receipt.
+23 As to the difference in effect of a condition precedent from a condition subsequent on the question of an accrual to income, the learned trial judge relied on a quotation from Meteor Homes Ltd. v. Minister of National Revenue, [1960] C.T.C. 419, 61 DTC 1001 at 43-31; [1007-1008] which substantiates the view which I expressed, supra:
+... Mertens, Law of Federal Income Taxation, Vol 2, c 12, p 127, considers “the problem of when items are ... deductions to the taxpayer on the accrual basis”, and deals with it at p132 in these terms:
+Not every contingency prevents the accrual of income: the contingency must be real and substantial. A condition precedent to the creation of a legal right to demand payment effectively bars the accrual of income until the condition is fulfilled, but the possible occurrence of a condition subsequent to the creation of a liability is not grounds for postponing the accrual. (Emphasis mine)
+24 The possibility of a successful appeal does not, therefore, appear to derogate from the quality of income of the payments in issue at the time of receipt.
+[8] In the Commonwealth Construction Company Limited case the conditions precedent imposed in the letter agreements referred to above were conditions related to the execution of various documents. This would be similar to the condition imposed upon the Appellant in this case in relation to the execution of the Subrogation Acknowledgement. Once the Subrogation Acknowledgment was signed, the Appellant was entitled to the funds from Sun Life and no conditions were imposed upon him in relation to the disposition of these funds. As the Appellant acknowledged, he was free to spend his money as he saw fit. As a result I find that the condition imposed upon the Appellant under the Subrogation Acknowledgment related to the possible requirement to repay the funds to Sun Life was a condition subsequent.
+[9] In the case of Théberge v. Her Majesty the Queen, 2003 CarswellNat 5426, 2003 TCC 97 Justice Archambault dealt with a situation where an employee had received an amount from his employer under the collective agreement with the employer during a period while the employee was unable to work. The collective agreement also included a condition that required the employee to repay any amounts that the employee may receive as wage compensation under Quebec's Workers' Compensation Act. The facts in Théberge are summarized by Justice Archambault are as follows:
+2 Mr. Théberge has worked for the city of Montréal for 25 years. In 1997, the taxation year at issue, he was a parking officer. On September 9, 1997, after being given a ticket by Mr. Théberge, a citizen chased him in his car, while driving in a dangerous manner, then got out of the car, shook his fists at Mr. Théberge, and threatened to kill him.
+3 A few days later, on September 23, 1997, Mr. Théberge went on sick leave. He testified that he suffered a nervous breakdown that kept him off work until February 1998. After a brief return to work, he went on sick leave once again, from March to August 1998.
+4 Under the collective agreement governing the conditions of his employment, Mr. Théberge was entitled to receive an amount equal to the net wages, at straight time, he would have received if he had remained at work. More specifically, clauses 25.01 and 25.02 of this collective agreement stipulate as follows:
+[TRANSLATION]
+25.01 (a) In case of injury or disease resulting from the performance of the employee's duties, the employee shall receive an amount equal to the net wages, at straight time, the employee would have received had that person remained at work. However, the employee shall repay the employer any amount of money the employee receives as wage compensation under Quebec's Automobile Insurance Act or its accompanying regulations. Similarly, the employee shall repay the employer any amount of money the employee receives as wage compensation under Quebec's Workers' Compensation Act or its accompanying regulations.
+(b) In all other cases, Quebec's Act respecting industrial accidents and occupational diseases (R.S.Q., c. A-3.001), as amended, shall be applicable.
+25.02 For the purposes of interpreting this article, the amount of the net wages, at straight time, shall be equal to the compensation payable under Quebec's Workers' Compensation Act, increased by an amount sufficient to maintain the net wages, excluding any bonuses except the bonus provided for in clause G-8.01 and after deductions for the regular contributions to the employer's supplementary pension plan, income tax, and the public plans applicable to this amount. The related calculations shall be made on an annual basis.
+[Emphasis added.]
+[10] After reviewing the cases dealing with the quality of income, Justice Archambault concluded that the wages paid to the taxpayer during the 1997 sick leave period were to be included in the income of the taxpayer even though the taxpayer was subject to the condition that he may have to repay the amount if he received sufficient amounts under Quebec’s Workers' Compensation Act. In Théberge, as in this case, amounts were paid during a period when the taxpayer was unable to work (in Théberge the amounts were paid pursuant to a collective agreement and in this case the amounts were paid pursuant to a long-term disability plan) and in each case the taxpayer at the time that he received the amounts was subject to a condition that the amounts may have to be repaid. In Théberge the obligation was under a collective agreement and related to amounts that the taxpayer may receive under Quebec’s Workers' Compensation Act and in the current case it was the Subrogation Acknowledgment and the obligation related to the amounts that the Appellant may recover from the Third Party or their insurer.
+[11] Based on the decision of Justice Archambault in Théberge and on my conclusion that the condition that was imposed by the Appellant in this case in relation to the repayment of the funds received from Sun Life was a condition subsequent which did not affect his ability to use the funds for any particular purpose or in any particular manner, the amount received by the Appellant from Sun Life in 2004 had the quality of income for the purposes of the Act and therefore was to be included in his income pursuant to paragraph 6(1)(f) of the Act.
+[12] Paragraph 6(1)(f) provides that the amount that is to be included in income is the amount received minus the total of the contributions made by the taxpayer before the end of the year. Since the total of the amount paid by the Appellant before the end of the year was $2,705.22, the amount included in his income for 2004 is to be reduced by this amount.
+[13] Therefore the appeal is allowed, in part without costs, to reduce the amount included in the income of the Appellant for 2004 by $2,705.22.
+Signed at Toronto, Ontario, this 11th day of September 2007.
+“Wyman W. Webb”
+Webb J.
+CITATION: 2007TCC546
+COURT FILE NO.: 2007-889(IT)I
+STYLE OF CAUSE: BRUCE W. HARNISH AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Halifax, Nova Scotia
+DATE OF HEARING: August 28, 2007
+REASONS FOR JUDGMENT BY: The Honourable Justice Wyman W. Webb
+DATE OF JUDGMENT: September 11, 2007
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Carole Benoit
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

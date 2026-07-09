@@ -1,0 +1,290 @@
+Title: Rhéaume c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28293/index.do
+Corpus path: corpus/cases/tcc/2007/2007-cci-591-28293-rh-aume-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2007-11-01
+
+# Rhéaume c. M.R.N.
+
+- Citation: 2007 CCI 591
+- Decision date: 2007-11-01
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1877, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Rhéaume c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-11-01
+Référence neutre
+2007 CCI 591
+Numéro de dossier
+2007-1255(EI)
+Juges et Officiers taxateurs
+Pierre Archambault
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2007-1255(EI)
+ENTRE :
+CHANTAL RHÉAUME,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+JULIE FAUCHER,
+intervenante.
+____________________________________________________________________
+Appel entendu le 29 août 2007, à Québec (Québec).
+Devant : L'honorable juge Pierre Archambault
+Comparutions :
+Pour l’appelante :
+L’appelante elle-même
+Avocat de l’intimé :
+Me Vlad Zolia
+Avocat de l’intervenante :
+Me Denys Saindon
+____________________________________________________________________
+JUGEMENT
+L'appel est accueilli et la décision rendue par le ministre du Revenu national est modifiée en tenant pour acquis que l'emploi de l'appelante auprès de madame Faucher durant la période pertinente était un emploi assurable aux fins du paragraphe 5(1) de la Loi sur l'assurance‑emploi, selon les motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 1er jour de novembre 2007.
+« Pierre Archambault »
+Juge Archambault
+Référence : 2007CCI591
+Date : 20071101
+Dossier : 2007-1255(EI)
+ENTRE :
+CHANTAL RHÉAUME,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+JULIE FAUCHER,
+intervenante.
+MOTIFS DU JUGEMENT
+Le juge Archambault
+[1] Madame Chantal Rhéaume interjette appel d’une décision rendue par le ministre du Revenu national (ministre) relativement à l’assurabilité, aux fins de la Loi sur l’assurance‑emploi (Loi), de son emploi auprès de madame Julie Faucher pour la période du 6 septembre 2005 au 13 avril 2006 (période pertinente). Le ministre a conclu que ce n’était pas un emploi assurable parce qu’il s’agissait d’un contrat de service plutôt que d’un contrat de travail. Madame Faucher est intervenue dans l’appel de madame Rhéaume pour appuyer la décision du ministre et elle était représentée par un avocat.
+[2] Pour rendre sa décision, le ministre a tenu pour acquis les faits suivants :
+a) la payeuse est kinésiologue; (admis)
+b) la payeuse exploitait une entreprise de conditionnement physique pour les aînés de 50 ans et plus, dans la région de la ville de Québec; (admis)
+c) la payeuse a immatriculé la raison sociale « Rest’actif » le 9 juin 1999; (avéré)[1]
+d) la payeuse était la seule propriétaire de l’entreprise; (avéré)
+e) la payeuse donnait des cours de conditionnement physique et elle faisait appel à des sous‑contractants lorsque le nombre de cours l’exigeait;[2]
+f) l’appelante avait pris connaissance d’une offre d’emploi de la payeuse sur le site de l’Université Laval; (admis)
+g) l’appelante détient un Bac en « kinésologie » depuis juin 2005; (admis)
+h) le 5 octobre 2005, l’appelante et la payeuse signaient un contrat de services pour la session d’automne 2005; (admis)
+i) aux termes de ce contrat, les jours, les heures, les endroits et le nombre de séance [sic], ainsi que la rémunération de 18,00 $ de l’heure, étaient établis pour l’appelante pour toute la durée de la session; (admis)
+j) le contrat de service pour la session d’hiver 2006, avec une rémunération de 22,00 $ de l’heure pour l’appelante, a été signé uniquement par la payeuse; (admis)
+k) le contrat prévoyait des clauses de non concurrence avec l’entreprise de la payeuse et de non‑sollicitation des participants; (admis)
+l) chaque cours avait une durée de 1 heure avec un nombre de participants variables [sic] de 10 à 25; (admis)
+m) la payeuse offrait, par ailleurs, à l’appelante des remplacements que l’appelante était libre d’accepter ou non; (admis)
+n) l’appelante avait toute la latitude dans l’exécution de ses cours, la payeuse n’imposant pas de méthode de travail à l’appelante; (nié)[3]
+o) l’appelante préparait les cours avec le choix des exercices à faire; (admis)
+p) l’appelante fournissait ses cassettes de musique; (admis)
+q) l’appelante ne pouvait pas changer l’heure des cours; (admis)
+r) à cause de son statut professionnel, l’appelante ne pouvait pas se faire remplacer par une personne de son choix; (admis)
+s) l’appelante n’avait pas de rapport à faire à la payeuse; (nié)[4]
+t) l’appelante était rémunérée aux deux semaines par la payeuse; (admis)
+u) l’appelante devait assumer ses dépenses et ses frais de déplacements; (admis quant aux frais de déplacement)
+v) l’appelante signait une seule facture globale de services pour la totalité de la session; (admis)
+w) la payeuse a retenu le dernier versement de la session d’hiver 2006, suite à un différend avec l’appelante, une réclamation à la Commission de Normes du travail du Québec s’en est suivie, et un paiement a clos le litige; (admis)
+x) durant la période en litige, l’appelante donnait des cours de conditionnement physique, comme travailleur autonome, à la CSST. (admis)
+[3] Au cours de l’audience, seulement mesdames Rhéaume et Faucher ont témoigné. Madame Faucher exploite son entreprise sous la raison sociale de Rest’Actif. Comme l’indique son dépliant publicitaire (pièce A‑5), « Rest’Actif propose des séances d’entraînement dédiées aux 50 ans et plus, qui sont structurées et variées, où chacun est amené à travailler à son rythme ». Par contre, contrairement à ce qui est indiqué dans le dépliant, ses entraîneurs ne sont pas tous diplômés universitaires en kinésiologie ou en éducation physique, puisque madame Faucher engage également des entraîneurs qui sont étudiants dans ces domaines. Madame Faucher exploite seule cette entreprise depuis 1999. Selon le dépliant publicitaire, les séances d’entraînement « sont offertes dans différentes villes, clubs, centres sportifs et résidences ».
+[4] Madame Rhéaume a obtenu un baccalauréat en kinésiologie en juin 2005. L'enseignement qu’elle a reçu était offert à la faculté de médecine de l’Université Laval. Selon l’expression utilisée par madame Rhéaume, elle a commencé « trois emplois » en septembre 2005. Le plus important était celui qu'elle exerçait auprès de Énergie Cardio, où elle travaillait de 20 à 25 heures par semaine. Son travail consistait à évaluer l'aptitude à l'activité physique et à préciser les objectifs des clients de cette entreprise. Elle était considérée comme une salariée (donc était liée par un contrat de travail), puisque Énergie Cardio effectuait toutes les retenues à la source pour son impôt, ses cotisations au Régime des rentes du Québec et ses cotisations d’assurance-emploi. Son deuxième « emploi » était exercé auprès d’une personne qui avait obtenu un contrat de la Commission de la santé et de la sécurité du travail (CSST) pour entraîner les employés de cet organisme au sous‑sol de l’un de ses édifices. En plus de l’entraînement, elle faisait aussi un travail de surveillance de la salle d’entraînement ainsi qu’un travail de planification de programmes. Elle consacrait à cet « emploi » environ de trois à cinq heures par semaine. Madame Rhéaume a indiqué qu’elle était payée comme une travailleuse autonome, mais qu'elle se considérait comme une salariée.
+[5] Finalement, le troisième « emploi » était celui qu’elle a occupé auprès de madame Faucher. Elle a décrit ainsi les circonstances de son engagement. Elle avait pris connaissance sur l’internet (probablement sur le site de l’Université Laval) de l’existence d’une offre de travail comme entraîneur. Elle a rencontré madame Faucher vers la fin du mois d’août 2005 et cette dernière lui a décrit, lors d’une entrevue d’une heure, en quoi consistait le travail. Il s’agissait de donner des cours de conditionnement physique à des personnes de 50 ans et plus. Madame Faucher avait spécifié à ce moment qu’elle engageait madame Rhéaume comme travailleuse autonome et lui aurait fait valoir l’avantage de pouvoir déduire ses dépenses aux fins fiscales. Elle lui aurait mentionné également qu’il n’y aurait pas de vacances payées. Madame Rhéaume a indiqué qu’elle ne voyait pas de différence entre être engagée comme salariée ou comme travailleuse autonome. Elle ne voyait que des conséquences au point de vue fiscale. Elle ne se souvient pas si madame Faucher a traité de la question de cotisations d’assurance‑emploi. Il s’agissait pour madame Rhéaume d’un premier engagement comme travailleuse autonome.
+[6] Madame Faucher a offert à madame Rhéaume la possibilité de fournir des services d’entraîneur pour dix cours à partir du 14 septembre 2005. Compte tenu de sa disponibilité limitée, madame Rhéaume n’a accepté que six cours, à être donnés à quatre endroits différents. Le prix convenu pour chaque cours était de 18 $ par séance. Un contrat écrit a été signé par mesdames Rhéaume et Faucher et il est daté du 5 octobre 2005 (pièce A‑1). Voici ce qu’il stipule :
+Contrat de services
+Entre :
+Rest'Actif
+4, Champagnat
+Lévis (Québec) G6V 2A5
+Représenté par Julie Faucher
+Et :
+Chantal Rhéaume
+1065, Bertin
+Cap-Rouge (Québec) G1Y 2G5
+Ci‑après désignée : Intervenant(e)
+1. L'intervant(e) s'engage à diriger les séances de conditionnement physique pour Rest'Actif, décrites dans le tableau suivant, pour la session Automne 2005 au tarif de 18,00 $ par séance.
+Journée
+Heure
+Date de
+début
+Endroit
+Nombre
+séances
+1
+Lundi
+18h00
+19-09-05
+Sillery
+12
+2
+Mardi
+19h00
+20-09-05
+Corpo Ste-Ursule
+12
+3
+Mercredi
+11h40
+14-09-05
+Revenu – Dorchester
+12
+4
+Mercredi
+18h00
+21-09-05
+Sillery
+12
+5
+Jeudi
+10h00
+22-09-05
+Sillery (Club de marche)
+12
+6
+Jeudi
+19h00
+22-09-05
+Corpo Ste-Ursule
+12
+Total :
+72
+2. L'intervenant(e) s'engage à préparer ses cours de façon conforme aux objectifs poursuivis par l'entreprise Rest'Actif dans le but de répondre aux besoins de la clientèle. L'intervenant(e) s'engage à être ponctuel(le), à agir de façon respectueuse et professionnelle envers la clientèle de Rest'Actif.
+3. L'intervenant(e) est responsable du matériel prêté par Rest'Actif. Tout bris, perte ou vol du matériel devra être remboursé à Rest'Actif par l'intervenant(e).
+4. Les demandes de remplacement pour un (1) ou plusieurs cours doivent êtres faites cinq (5) jours ouvrables avant le ou les cours et approuvées par Rest'Actif. Les absences sans raison valable ne sont pas tolérées. Rest'Actif peut demander, si nécessaire, une pièce justificative pour valider l'absence en cas de maladie (ex. : billet du médecin) et obligatoire pour les blessures sportives.
+5. L'intervenant(e) dégage l'entreprise Rest'Actif de toute responsabilité pour tous dommages, blessures, pertes ou vol qu'il(elle) pourrait subir.
+6. L'intervenant(e) s'engage à ne pas faire concurrence à l'entreprise Rest'Actif, que ce soit directement ou indirectement seul(e) ou par le biais d'une entreprise, dans le domaine des opérations et des buts poursuivis de Rest'Actif, et ce, pour une période de deux (2) ans suivant la date de signature du présent contrat.
+7. Rest'Actif s'engage à payer l'intervenant(e) selon les séances exécutées. Les chèques seront faits à toutes les 2 semaines pour 2 semaines de cours et ce à partir du 3 octobre 2005.
+8. Rest'Actif se réserve le droit de modifier ou d'annuler l'endroit et le nombre de séances indiquées à l'article 1, advenant le cas ou l'intervenant(e) ne convienne pas à un groupe donné de participants.
+9. Rest'Actif se réserve également le droit de mettre fin à ce contrat sans préavis si l'intervenant(e) ne respecte pas toutes les conditions du présent contrat ou pour quelqu'autre motif justifié.
+10. À la signature de ce contrat, l'intervenant(e) remet à Rest'Actif sa facture représentant ainsi le montant total de séances pour la présente session.
+[...]
+[Je souligne.]
+[7] Un autre contrat a été préparé pour 2006. Seulement madame Faucher l'a signé et il n'est pas daté (pièce A‑3). Madame Rhéaume avait probablement omis par négligence de le signer.
+[8] Avant de commencer ses cours, madame Rhéaume a été invitée à assister à une séance d’observation (selon l’expression de madame Faucher). Par contre, madame Rhéaume affirme que madame Faucher lui avait dit : « Je vais te donner de la formation. » Lors de cette séance, qui a eu lieu le 5 ou 6 septembre 2005, soit une semaine avant le début de ses cours, madame Rhéaume a observé un cours donné par madame Faucher à un groupe de participants. Après le cours, madame Faucher l’a informée qu’il fallait qu'elle arrive 10 minutes avant le début des cours, avec un habillement approprié. Elle lui a indiqué ce qu'elle devait dire aux participants : il fallait leur demander lors de la première rencontre de remplir un questionnaire pour déterminer leur aptitude à l'activité physique; il fallait leur dire d’apporter des espadrilles et des bouteilles d’eau ainsi que des vêtements de sport convenables. Il fallait leur remettre un feuillet de consentement par lequel les participants reconnaissaient les risques que comportaient l’activité physique. Il fallait commencer les cours par des exercices de réchauffement. Elle aurait même précisé le type d'exercices qu’il fallait exécuter et quand il fallait faire une pause.
+[9] En plus de cette séance d’observation/formation tenue au début de septembre 2005, il y a eu le fait que madame Faucher a accompagné madame Rhéaume lors de son premier cours d’entraînement pour les employés du ministère du Revenu du Québec, à l’édifice situé sur la rue Dorchester, à Québec. Madame Faucher avait indiqué que ces employés feraient des exercices avec un ballon, mais que, pour le premier cours, les ballons ne seraient pas disponibles. Or, lorsque madame Rhéaume s’est présentée pour donner son cours, les ballons étaient disponibles, quoique non gonflés. Le cours a donc été retardé pour permettre aux participants de les gonfler. Selon madame Rhéaume, le cours s’était mal déroulé. Elle s’était sentie humiliée, puisqu’elle ne s’était pas préparée pour un cours d’entraînement où l'on utiliserait des ballons, et elle aurait bégayé. Les participants seraient repartis déçus à la fin du cours. Madame Faucher était assise dans le fond de la salle pour l’observer. Après la séance, elle aurait critiqué son travail en lui faisant valoir qu’elle aurait dû faire sa présentation de façon différente. Elle lui aurait aussi reproché son manque de confiance.
+[10] Madame Faucher l’avait également accompagnée lors de la première séance d’entraînement pour des personnes habitant une résidence pour personnes âgées. Pour cette première séance, madame Faucher lui aurait dit ce qu’il fallait faire et aurait, après que madame Rhéaume eut terminé son cours, évalué son travail. Selon madame Rhéaume, sa façon de procéder avait été convenable aux yeux de madame Faucher. Pour le deuxième cours, madame Rhéaume est arrivée avec trois ou quatre minutes de retard, ce qui a provoqué une plainte de la part de la responsable de la résidence pour personnes âgées. Madame Faucher a communiqué avec madame Rhéaume pour lui reprocher son retard. Elle lui a rappelé que le contrat prévoyait une obligation de ponctualité et qu’il fallait qu’elle soit présente dix minutes avant le début du cours. Cette communication s’est faite lors d’une troisième visite de madame Faucher pour assister à un cours donné par madame Rhéaume, cette fois‑ci à la Corporation des loisirs Sainte‑Ursule. Elle l’avait observée pendant environ la moitié du cours. Madame Faucher n’était pas de bonne humeur en raison de la plainte qu’elle avait reçue de la résidence pour personnes âgées. De plus, elle avait remarqué que madame Rhéaume portait des espadrilles, et elle s’était inquiétée si elle avait des bottes pour recouvrir ses espadrilles, puisqu’il pleuvait à l’extérieur. Madame Rhéaume s’était sentie comme une « petite enfant » à la suite de ce commentaire.
+[11] Madame Faucher a indiqué que la séance d’observation/formation n’était pas obligatoire pour madame Rhéaume. À titre d’exemple, elle a mentionné une autre travailleuse autonome qu’elle avait engagée et qui sortait de l’université. Cette dernière n’avait participé à aucune séance d’observation/formation. Par contre, madame Faucher a reconnu qu’elle avait assisté à trois ou quatre reprises aux cours donnés par cette personne et qu’elle l'avait observée à ces occasions.
+[12] En plus des séances où madame Faucher observait le travail de madame Rhéaume, il y avait le fait que mesdames Faucher et Rhéaume échangeaient des appels téléphoniques au cours desquels madame Faucher s’informait du déroulement des cours donnés par madame Rhéaume.
+[13] Selon le contrat de service, madame Rhéaume devait informer madame Faucher cinq jours à l’avance si elle désirait se faire remplacer. Il est arrivé une fois que madame Rhéaume ne puisse être disponible et elle en avait informé madame Faucher quelques jours auparavant. À la toute dernière minute, madame Faucher a exigé que madame Rhéaume communique avec chacun des participants par téléphone, puisqu’elle n’avait pas trouvé de remplaçant pour madame Rhéaume.
+[14] Lors d’une séance subséquente à la résidence pour personnes âgées, madame Rhéaume avait décidé de laisser aux participants des élastiques utilisés pour la musculation, puisqu’il lui semblait qu’un des deux groupes qu'elle enseignait montrait beaucoup d’intérêt pour cette activité. Lorsque madame Faucher a eu connaissance de ce fait, elle a donné comme directive à madame Rhéaume qu’il ne fallait pas laisser les élastiques à ces personnes âgées, parce que, selon elle, il n’était pas sécuritaire que ces personnes utilisent ce matériel sans supervision. Il faut mentionner que madame Faucher avait obtenu une couverture d’assurance responsabilité au cas où un des participants se blesserait lors d’un de ses cours d’entraînement et, évidemment, cette assurance couvrait tous les entraîneurs engagés par elle (même s’ils étaient de soi‑disant travailleurs autonomes).
+[15] À plusieurs reprises, madame Rhéaume aurait aimé pouvoir communiquer avec les responsables des différents services de loisirs auxquels madame Faucher offrait les services de son entreprise, mais elle devait se contenter de passer par madame Faucher. Selon madame Rhéaume, le fait de passer par plusieurs intermédiaires lorsqu’une complication survenait posait problème. C'était le cas notamment s'il y avait des problèmes concernant la disponibilité du matériel ou de l'équipement qui était normalement fourni par les clients de madame Faucher ou s’il arrivait un contretemps à madame Rhéaume. Selon l’avocat de madame Faucher, cette façon de procéder s’imposait, puisque cela diminuait le risque que madame Faucher perde un client au profit des ses sous‑traitants.
+[16] D’ailleurs, un différend est survenu entre mesdames Faucher et Rhéaume parce que cette dernière avait communiqué avec le responsable de la Corporation des loisirs Sainte‑Ursule pour discuter d’une question soulevée par des participants de son groupe, qui se plaignaient que les coûts d’entraînement eussent augmenté, alors que la période pour laquelle ils recevaient les cours était passée de 75 minutes à 60 minutes. Selon madame Rhéaume, elle aurait été prête à allonger ses cours, mais madame Faucher n'était pas d'accord. C’est alors que madame Rhéaume a appris que madame Faucher obtenait une rémunération bien supérieure pour les cours d’entraînement qu’elle donnait elle‑même : madame Faucher recevait 45 $ l’heure, alors que madame Rhéaume ne gagnait que 18 $. Il semble que le représentant de la Corporation des loisirs Sainte‑Ursule ait été également agacé par la situation et qu’il ait décidé de ne plus faire affaire avec madame Faucher. Puisqu'elle allait perdre ce contrat de toute façon et que quelqu'un d’autre fournirait les cours à la Corporation de loisirs Sainte‑Ursule, madame Faucher aurait accepté que madame Rhéaume offre ses services directement à cet organisme, à condition que madame Rhéaume ne sollicite pas les autres clients de madame Faucher. Il est possible aussi que le fait d'avoir besoin des services de madame Rhéaume pour la session du printemps 2006 ait pu encourager madame Faucher à accepter ce compromis. Madame Rhéaume n'ayant pu s'entendre avec madame Faucher relativement à l'augmentation de sa rémunération, leurs relations se sont détériorées par la suite, puisqu’une lettre de mise en demeure a été envoyée à madame Rhéaume la sommant de remplir ses obligations contractuelles, notamment de ne pas solliciter les clients de madame Faucher. Madame Faucher a même décidé de retenir une somme de 266,38 $ sur les honoraires qu’elle devait verser à madame Rhéaume. Cette dernière a porté plainte à la Commission des normes du travail. Après enquête, la Commission aurait conclu que madame Rhéaume était une salariée; par contre, aucune décision officielle n’a été rendue, puisque madame Faucher avait accepté de remettre la somme de 266,38 $ à madame Rhéaume.
+[17] Lors de son témoignage, madame Rhéaume a indiqué qu’elle offre aussi des cours d’entraînement au Cégep de Ste‑Foy ainsi qu’à la YWCA de Québec et qu’elle est considérée comme une salariée par ces deux organismes. L’avocat de madame Faucher s’est opposé à toute question portant sur la fourniture des services de madame Rhéaume à ces deux organismes. Par contre, il n’avait aucune hésitation à poser des questions à madame Rhéaume relativement aux services qu’elle fournissait comme travailleuse autonome à la CSST et à la Corporation des loisirs Sainte‑Ursule.
+[18] Madame Rhéaume a reconnu que le plan de cours qu’elle préparait n’était pas vérifié par madame Faucher et qu’elle était libre de donner le cours comme elle le désirait, pourvu, bien évidemment, que ce soit en conformité avec les objectifs poursuivis par Rest'Actif. Selon madame Rhéaume, cela était tout à fait conforme à ce qui se passait lorsqu’elle donnait ses cours au Cégep de Ste‑Foy ainsi qu’à la YWCA. Elle a aussi reconnu qu’aucun questionnaire d’évaluation n’était donné aux participants de Rest’Actif à la fin des séances d’entraînement qu’elle tenait. Toutefois, madame Rhéaume a affirmé que tel était aussi le cas pour les cours qu’elle donnait comme salariée pour la YWCA. En ce qui a trait au Cégep de Ste‑Foy, un tel questionnaire était donné aux participants, mais, selon elle, aucune importance n’y était accordée.
+[19] Pour justifier le paiement de sa rémunération, madame Rhéaume signait des factures, lesquelles visaient toute une session, soit une pour celle de l'automne 2005 et une autre pour l'hiver 2006. Madame Rhéaume a déclaré que ces factures avaient été préparées par madame Faucher.
+[20] De façon générale, le matériel a été fourni par les clients de Rest'Actif ou par madame Faucher. Parmi le matériel fourni par madame Faucher, il y avait des lecteurs de CD, des appareils de musculation, des ballons, etc. Par contre, madame Rhéaume pouvait utiliser ses propres CD de musique dans le cadre de ses cours.
+Analyse
+[21] La question en litige est de savoir si madame Rhéaume occupait un emploi assurable aux fins de la Loi. La disposition pertinente est l’alinéa 5(1)a) de la Loi, qui édicte ce qui suit :
+5(1) Sous réserve du paragraphe (2), est un emploi assurable :
+a) l'emploi exercé au Canada pour un ou plusieurs employeurs, aux termes d'un contrat de louage de services ou d'apprentissage exprès ou tacite, écrit ou verbal, que l'employé reçoive sa rémunération de l'employeur ou d'une autre personne et que la rémunération soit calculée soit au temps ou aux pièces, soit en partie au temps et en partie aux pièces, soit de toute autre manière;
+[Je souligne.]
+[22] Cet article définit un emploi assurable comme comprenant l’emploi exercé en vertu d’un contrat de louage de services (ou, pour employer une expression plus moderne, un contrat de travail). Or, la Loi ne définit pas ce qui constitue un tel contrat. Voici ce que prévoit l’article 8.1 de la Loi d’interprétation relativement à de telles circonstances :
+Propriété et droits civils
+8.1 Le droit civil et la common law font pareillement autorité et sont tous deux sources de droit en matière de propriété et de droits civils au Canada et, s’il est nécessaire de recourir à des règles, principes ou notions appartenant au domaine de la propriété et des droits civils en vue d’assurer l’application d’un texte dans une province, il faut, sauf règle de droit s’y opposant, avoir recours aux règles, principes et notions en vigueur dans cette province au moment de l’application du texte.
+[Je souligne.]
+[23] Les dispositions les plus pertinentes pour déterminer l’existence d’un contrat de travail au Québec et le distinguer du contrat de service sont les articles 2085, 2086, 2098 et 2099 du Code civil du Québec (Code civil ou C.c.Q.) :
+Contrat de travail
+2085 Le contrat de travail est celui par lequel une personne, le salarié, s'oblige, pour un temps limité et moyennant rémunération, à effectuer un travail sous la direction ou le contrôle d'une autre personne, l'employeur.
+2086 Le contrat de travail est à durée déterminée ou indéterminée.
+Contrat d'entreprise ou de service
+2098 Le contrat d'entreprise ou de service est celui par lequel une personne, selon le cas l'entrepreneur ou le prestataire de services, s'engage envers une autre personne, le client, à réaliser un ouvrage matériel ou intellectuel ou à fournir un service moyennant un prix que le client s'oblige à lui payer.
+2099 L'entrepreneur ou le prestataire de services a le libre choix des moyens d'exécution du contrat et il n'existe entre lui et le client aucun lien de subordination quant à son exécution.
+[Je souligne.]
+[24] Lorsqu'on analyse ces dispositions du Code civil, il en ressort clairement qu'il y a trois conditions essentielles quant à l'existence d'un contrat de travail : i) une prestation de travail fournie par le salarié; ii) une rémunération pour ce travail payée par l'employeur; et iii) un lien de subordination. Ce qui distingue nettement le contrat de service du contrat de travail, c'est l'existence du lien de subordination, c'est‑à‑dire le fait pour l'employeur d'avoir un pouvoir de direction ou de contrôle sur le travailleur.
+[25] Dans la doctrine, les auteurs se sont interrogés sur la notion de « pouvoir de direction ou de contrôle » et son revers, le « lien de subordination ». Voici ce qu'écrit Robert P. Gagnon[5] :
+c) La subordination
+90 — Facteur distinctif — L'élément de qualification du contrat de travail le plus significatif est celui de la subordination du salarié à la personne pour laquelle il travaille. C'est cet élément qui permet de distinguer le contrat de travail d'autres contrats à titre onéreux qui impliquent également une prestation de travail au bénéfice d'une autre personne, moyennant un prix, comme le contrat d'entreprise ou de service régi par les articles 2098 et suivants C.c.Q. Ainsi, alors que l'entrepreneur ou le prestataire de services conserve, selon l'article 2099 C.c.Q., « le libre choix des moyens d'exécution du contrat » et qu'il n'existe entre lui et son client « aucun lien de subordination quant à son exécution », il est caractéristique du contrat de travail, sous réserve de ses termes, que le salarié exécute personnellement le travail convenu sous la direction de l'employeur et dans le cadre établi par ce dernier.
+[...]
+92 — Notion — Historiquement, le droit civil a d'abord élaboré une notion de subordination juridique dite stricte ou classique qui a servi de critère d'application du principe de la responsabilité civile du commettant pour le dommage causé par son préposé dans l'exécution de ses fonctions (art. 1504 C.c.B.‑C.; art. 1463 C.c.Q.). Cette subordination juridique classique était caractérisée par le contrôle immédiat exercé par l'employeur sur l'exécution du travail de l'employé quant à sa nature et à ses modalités. Elle s'est progressivement assouplie pour donner naissance à la notion de subordination juridique au sens large. La diversification et la spécialisation des occupations et des techniques de travail ont, en effet, rendu souvent irréaliste que l'employeur soit en mesure de dicter ou même de surveiller de façon immédiate l'exécution du travail. On en est ainsi venu à assimiler la subordination à la faculté, laissée à celui qu'on reconnaîtra alors comme l'employeur, de déterminer le travail à exécuter, d'encadrer cette exécution et de la contrôler. En renversant la perspective, le salarié sera celui qui accepte de s'intégrer dans le cadre de fonctionnement d'une entreprise pour la faire bénéficier de son travail. En pratique, on recherchera la présence d'un certain nombre d'indices d'encadrement, d'ailleurs susceptibles de varier selon les contextes : présence obligatoire à un lieu de travail, assignation plus ou moins régulière du travail, imposition de règles de conduite ou de comportement, exigence de rapports d'activité, contrôle de la quantité ou de la qualité de la prestation, etc. Le travail à domicile n'exclut pas une telle intégration à l'entreprise.
+[Je souligne.]
+[26] Soulignons que ce qui est la marque d'un contrat de travail, ce n'est pas le fait que la direction ou le contrôle a été exercé effectivement par l'employeur (la notion stricte ou classique), mais le fait qu'il avait le pouvoir de l'exercer (la notion élargie). Dans Gallant c. M.R.N., [1986] A.C.F. no 330 (QL), le juge Pratte de la Cour d'appel fédérale affirme :
+[...] Ce qui est la marque du louage de services, ce n'est pas le contrôle que l'employeur exerce effectivement sur son employé, c'est plutôt le pouvoir que possède l'employeur de contrôler la façon dont l'employé exécute ses fonctions. [...]
+[Je souligne.]
+[27] De plus, dans Groupe Desmarais Pinsonneault & Avard Inc. c. Canada (M.R.N.), 2002 CAF 144, (2002), 291 N.R. 389, le juge Noël écrit :
+5. La question que devait se poser le premier juge était de savoir si la société avait le pouvoir de contrôler l'exécution du travail des travailleurs et non pas si la société exerçait effectivement ce contrôle. Le fait que la société n'ait pas exercé ce contrôle ou le fait que les travailleurs ne s'y soit [sic] pas senti [sic] assujettis lors de l'exécution de leur travail n'a pas pour effet de faire disparaître, réduire ou limiter ce pouvoir d'intervention que la société possède, par le biais de son conseil d'administration.
+[Je souligne.]
+[28] Il faut également ajouter ces commentaires du ministre de la Justice au sujet de l’article 2085 C.c.Q., qui accompagnaient le projet du Code civil et que j’ai rapportés à la page 2:26 d’un article (mon article) que j’ai écrit et qui est intitulé « Contrat de travail : Pourquoi Wiebe Door Services Ltd. ne s'applique pas au Québec et par quoi on doit le remplacer » [6]:
+L’article reprend la règle édictée à l’article 1665a) C.C.B.C. La définition contenue dans cet article nouveau permet de cerner avec plus de précision la différence entre le contrat de travail et le contrat d’entreprise ou de service. La ligne de démarcation parfois ténue entre ces contrats a suscité des difficultés tant en doctrine qu’en jurisprudence.
+Cette définition indique le caractère essentiellement temporaire du contrat de travail, consacrant ainsi le premier alinéa de l’article 1667 C.C.B.‑C., et met en relief l’attribut principal du contrat de travail : le lien de préposition caractérisé par le pouvoir de contrôle, autre que le contrôle économique, de l’employeur sur le salarié, tant dans la fin recherchée que dans les moyens utilisés. Il importe peu que ce contrôle soit ou non effectivement exercé par son titulaire; il importe peu également que le travail soit matériel ou intellectuel.
+[Je souligne.]
+[29] À mon avis, les règles du Code civil régissant le contrat de travail ne sont pas identiques à celles de la common law et, par conséquent, il n'est pas approprié d'appliquer des décisions de common law comme les arrêts Wiebe Door Services Ltd. c. Ministre du Revenu national, [1986] 3 C.F. 553 (C.A.F.) et 671122 Ontario Ltd. c. Sagaz Industries Canada Inc., [2001] 2 R.C.S. 983, 2001 CSC 59.[7] En common law, « aucun critère universel ne permet de déterminer, de façon concluante, si une personne est un employé ou un entrepreneur indépendant [...] La question centrale est de savoir si la personne qui a été engagée pour fournir des services les fournit en tant que personne travaillant à son compte[8] ». Voici ce qu’écrit le juge Major dans Sagaz :
+47 Bien qu’aucun critère universel ne permette de déterminer si une personne est un employé ou un entrepreneur indépendant, je conviens avec le juge MacGuigan que la démarche suivie par le juge Cooke dans la décision Market Investigations, précitée, est convaincante. La question centrale est de savoir si la personne qui a été engagée pour fournir les services les fournit en tant que personne travaillant à son compte. Pour répondre à cette question, il faut toujours prendre en considération le degré de contrôle que l’employeur exerce sur les activités du travailleur. Cependant, il faut aussi se demander, notamment, si le travailleur fournit son propre outillage, s’il engage lui-même ses assistants, quelle est l’étendue de ses risques financiers, jusqu’à quel point il est responsable des mises de fonds et de la gestion et jusqu’à quel point il peut tirer profit de l’exécution de ses tâches.
+48 Ces facteurs, il est bon de le répéter, ne sont pas exhaustifs et il n’y a pas de manière préétablie de les appliquer. Leur importance relative respective dépend des circonstances et des faits particuliers de l’affaire.
+[Je souligne.]
+[30] Par conséquent, il est possible de conclure en common law à l'existence d'un contrat de travail sans avoir tiré de conclusion de fait quant à la présence du pouvoir de contrôle ou de direction.
+[31] Au Québec, contrairement à la situation en common law, la question centrale est de savoir s'il existe un lien de subordination, à savoir un pouvoir de contrôle ou de direction. Un tribunal n'a pas d'autre choix que de conclure à l'existence ou à l'absence du lien de subordination pour pouvoir conclure qu'un contrat constitue un contrat de travail ou bien un contrat de service. C'est l’approche que le juge Létourneau de la Cour d'appel fédérale a adoptée dans l'affaire D & J Driveway[9], où il a conclu à l'absence d'un contrat de travail en se fondant sur les dispositions du Code civil et, en particulier, en constatant l'absence d'un lien de subordination, lequel il a décrit comme « la caractéristique essentielle du contrat de travail »[10].
+[32] À la décision D & J Driveway, j’ajouterai celle rendue par la Cour d’appel fédérale dans l’affaire 9041‑6868 Québec Inc. c. Canada (ministre du Revenu national), [2005] A.C.F. no 1720 (QL), 2005 CAF 334. Voici ce que le juge Décary écrit aux paragraphes 2 et 3[11] :
+2 En ce qui a trait à la nature du contrat, le juge en est arrivé à la bonne solution, mais il y est parvenu, à mon humble avis, de la mauvaise manière. Nulle part, en effet, ne traite-t-il des dispositions du Code civil du Québec, se contentant, à la fin de son analyse de la preuve, de référer aux règles de common law énoncées dans les arrêts Wiebe Door Services Ltd. c. Canada (Ministère du Revenu national), [1986] 3 C.F. 553 (C.A.F.) et 671122 Ontario Ltd. Sagaz c. Industries Canada Inc., [2001] 2 R.C.S. 983. Cette méprise, je m'empresse de le souligner, n'est pas nouvelle et trouve son explication dans un flottement jurisprudentiel auquel le temps est venu de mettre un terme.
+3 L'entrée en vigueur du Code civil du Québec en 1994, puis l'adoption par le Parlement du Canada de la Loi d'harmonisation no 1 du droit fédéral avec le droit civil (c. 2001, ch. 4) et l'adjonction par cette Loi de l'article 8.1 à la Loi d'interprétation (L.R.C., ch. I‑21) ont redonné au droit civil du Québec, en matière fédérale, ses lettres de noblesse que les tribunaux avaient eu parfois tendance à ignorer. Il suffit, à cet égard, de consulter l'arrêt de cette Cour, dans St-Hilaire c. Canada, [2004] 4 C.F. 289 (C.A.F.) et l'article du juge Pierre Archambault, de la Cour canadienne de l'impôt publié récemment dans le Deuxième recueil d'études en fiscalité (2005) de la collection L'harmonisation de la législation fédérale avec le droit civil québécois et le bijuridisme canadien, pour se convaincre que le concept de « contrat de louage de services », à l'alinéa 5(1)a) de la Loi sur l'assurance-emploi, doit être analysé à la lumière du droit civil québécois lorsque le droit provincial applicable est celui du Québec.
+[Je souligne.]
+[33] Finalement, avant de terminer cet énoncé des règles pertinentes pour déterminer si madame Rhéaume occupait un emploi assurable, rappelons ces propos de la juge Picard de la Cour supérieure du Québec dans 9002‑8515 Québec inc.[12], que j’ai rapportés au paragraphe 121, page 2:82 de mon article :
+15 Pour qu’il y ait un contrat d’entreprise, il ne doit y avoir aucun lien de subordination et l’Entente contient plusieurs éléments démontrant un lien de subordination. Il existe dans ce cas un nombre suffisant d’indices d’un rapport d’autorité.
+[34] Il s'agit maintenant d'appliquer ces règles de droit pertinentes aux faits en litige. Pour déterminer la nature du contrat intervenu entre les parties, il est utile de déterminer d'abord quelle était l'intention des parties au moment pertinent. Il est clair que du point de vue de madame Faucher, son intention était de conclure un contrat de services et non de travail. Elle avait d'ailleurs fait savoir à madame Rhéaume qu'elle serait une travailleuse autonome. De plus, le contrat écrit mentionne expressément qu'il s'agit d'un contrat de service. En ce qui a trait à madame Rhéaume, elle a indiqué qu'elle ne voyait pas de différence entre un contrat de travail et un contrat de service; cela n'avait de conséquences, croyait‑elle, que sur le plan fiscal. Il faut rappeler que madame Rhéaume venait tout juste de terminer ses études universitaires et qu’elle faisait son entrée sur le marché du travail. Elle avait en conséquence peu d'expérience pour comprendre la portée de ce type de contrat. Il est donc loin d'être clair que madame Rhéaume ait compris qu'au Québec un contrat de travail est un contrat en vertu duquel une personne rend des services sous la direction ou le contrôle d'une autre personne, l'employeur. D'ailleurs, je doute que beaucoup de travailleurs sachent que ce qui distingue un contrat de service d'un contrat de travail est l'existence d'un lien de subordination. L’existence d’un flottement dans la jurisprudence, comme l’a constaté le juge Décary dans l’arrêt 9041‑6868 Québec Inc (précité), n’aide pas la situation. On peut donc, dans les circonstances de cet appel, conclure qu'il est douteux que madame Rhéaume ait véritablement donné son acquiescement à un véritable contrat de service, puisqu'elle ne connaissait pas les conditions essentielles à son existence.
+[35] Même s'il fallait conclure que madame Rhéaume avait acquiescé en toute connaissance de cause à la conclusion d'un contrat de service, à savoir un contrat selon lequel le travail ne serait pas exécuté sous la direction ou le contrôle de madame Faucher et elle aurait le libre choix des moyens d’exécution du contrat, les tribunaux ont toujours l'obligation de s'assurer que le contrat, tel qu'il est libellé, reflète correctement l'intention des parties et que les parties se sont comportées en conformité avec leur intention. Voici ce que j’ai écrit dans mon article sur cette question, à la page 2 : 63 :
+[97] Même si les parties contractantes ont manifesté leur intention dans leur contrat écrit ou verbal ou qu’une telle intention peut être induite de leur comportement, cela ne signifie pas que les tribunaux vont nécessairement considérer ce fait comme décisif. Comme l’indique le juge Décary dans l’arrêt Wolf précité, il faut que le contrat soit exécuté conformément à cette intention. Ainsi, ce n’est pas parce que les parties ont appelé leur contrat un « contrat de service » et qu’elles ont stipulé que le travail sera exécuté par un « travailleur autonome » et qu’il n’existe pas de relation employeur‑employé, qu’il s’agit nécessairement d’un contrat de service. Le contrat pourrait correspondre à un contrat de travail. Tel que l’édicte l’article 1425 C.c.Q., on doit rechercher quelle est la véritable commune intention des parties et non pas s’arrêter au sens littéral des termes utilisés dans le contrat. Les tribunaux doivent également vérifier la conformité de la conduite des parties avec les prescriptions législatives relatives aux contrats. Voici ce qu’écrit Robert P. Gagnon :
+91 — Appréciation factuelle — La subordination se vérifie dans les faits. À cet égard, la jurisprudence s’est toujours refusée à retenir la qualification donnée au contrat par les parties :
+Dans le contrat, le distributeur reconnaît lui‑même qu’il agit à son compte à titre d’entrepreneur indépendant. Il n’y aura pas lieu de revenir sur ce point, puisque cela ne changerait rien à la réalité; d’ailleurs ce que l’on prétend être est souvent ce que l’on n’est pas.
+[Je souligne.]
+[98] Dans l’affaire D & J Driveway, le juge Létourneau de la Cour d’appel fédérale écrit :
+2 Nous reconnaissons d’emblée que la stipulation des parties quant à la nature de leurs relations contractuelles n’est pas nécessairement déterminante et que la cour chargée d’examiner cette question peut en arriver à une détermination contraire sur la foi de la preuve qui lui est soumise : Dynamex Canada inc. c. Canada, (2003), 305 N.R. 295 (C.A.F.). Mais cette stipulation ou l’interrogatoire des parties sur la question peuvent s’avérer un instrument utile d’interprétation de la nature du contrat intervenu entre les participants.
+[Je souligne.]
+[99] Les juges peuvent donc requalifier le contrat pour que sa dénomination corresponde à la réalité. En France, la requalification du contrat résulte de l’application du principe de la réalité[13]. La Cour de cassation adopte une approche semblable à celle suivie au Canada :
+Attendu que l’existence d’une relation de travail ne dépend ni de la volonté exprimée par les parties ni de la dénomination qu’elles ont donnée à leur convention mais des conditions de fait dans lesquelles est exercée l’activité des travailleurs; [...]
+[100] À mon avis, cette vérification de la conformité est nécessaire en matière d’interprétation de contrats de travail, puisqu’il peut y avoir intérêt à maquiller la nature véritable d’une relation contractuelle entre un payeur et un travailleur. L’expérience révèle en effet qu’il arrive que des employeurs, désirant diminuer leurs charges fiscales à l’égard de leurs salariés, décident de les traiter comme des travailleurs autonomes. Cette décision peut intervenir tant au début de la relation contractuelle que par la suite. Pareillement, certains salariés pourraient avoir intérêt à maquiller leur contrat de travail en contrat de service parce que les circonstances sont telles qu’ils ne prévoient pas avoir besoin de prestations d’assurance‑emploi et qu’ils désirent éliminer leurs cotisations d’employé au régime d’assurance‑emploi, ou encore parce qu’ils veulent avoir plus de latitude pour déduire certaines dépenses aux fins du calcul de leur revenu en vertu de la Loi de l’impôt.
+[101] Comme la LAE, de façon générale, n’autorise le versement de prestations d’assurance‑emploi qu’aux salariés qui perdent leur emploi, la vigilance des tribunaux est requise pour démasquer les faux travailleurs autonomes. Les tribunaux doivent également s’assurer que la caisse de l’assurance‑emploi, d’où sont tirées ces prestations, reçoit les cotisations de tous ceux qui y sont tenus, y compris les faux autonomes et leurs employeurs.
+[Références omises.]
+[36] Est‑ce que, en l'espèce, le contrat de service respecte les conditions essentielles à l'existence d'un tel contrat? Comme on l'a vu, l'article 2099 C.c.Q. dispose que le prestataire de services doit avoir le libre choix des moyens d'exécution du contrat et il ne doit exister entre lui et le client aucun lien de subordination quant à son exécution.
+[37] Comme l'a reconnu l’avocat de l'intimé, parmi les stipulations du contrat de service en cause, on en trouve plusieurs qui démontrent que madame Faucher se réservait un droit de contrôle ou de direction sur le travail de madame Rhéaume. Notons que, selon le paragraphe 2 du contrat, madame Rhéaume devait préparer des cours « de façon conforme aux objectifs poursuivis par l'entreprise Rest'Actif ». En outre, madame Rhéaume s'engageait à être ponctuelle et à agir de façon respectueuse et professionnelle envers la clientèle de Rest'Actif. Au paragraphe 4, il est stipulé que les absences sans raison valable ne seront pas tolérées et qu'une preuve justifiant l'absence pour cause de maladie peut être demandée. Finalement, les demandes à se faire remplacer devaient être approuvées par Rest'Actif. Ajoutons que Rest'Actif se réservait le droit de modifier l'endroit où pouvait être exécuté le travail de madame Rhéaume.
+[38] Outre ces dispositions du contrat, il y a la conduite adoptée par madame Faucher dans la supervision du travail de madame Rhéaume, conduite qui fournit d’autres éléments de preuve directe du contrôle du travail de cette dernière. Ce contrôle s'est manifesté lorsque madame Faucher a réprimandé madame Rhéaume pour s'être présentée en retard pour un des cours qu'elle donnait. Il s'est manifesté également lorsqu'elle s'est présentée à plusieurs reprises pour observer madame Rhéaume lorsque celle‑ci donnait ses cours, et lorsqu'elle s'est assurée que madame Rhéaume prenait des mesures appropriées pour ne pas utiliser des espadrilles mouillées durant ses cours. Elle a aussi exercé son droit de direction lorsqu'elle a donné à madame Rhéaume la directive de ne pas laisser à ses clients des élastiques pour qu'ils puissent les utiliser en dehors des séances d'entraînement. Le contrôle s'est aussi manifesté lorsque madame Faucher a donné ses directives au moment de la séance de formation au début de l'engagement de madame Rhéaume, lui disant ce qu'il fallait faire, soit notamment, faire remplir les questionnaires portant sur l'aptitude à l'activité physique et faire remplir des formulaires de consentement aux risques que comportait l'activité physique. Le contrôle s'est manifesté également lorsqu'elle a indiqué quand il était opportun de faire une pause et qu'elle a dit qu’il fallait faire des exercices de réchauffement au début des cours.
+[39] Madame Faucher a aussi exercé son pouvoir de contrôle lorsqu'elle a critiqué la prestation de madame Rhéaume auprès des employés du ministère du Revenu du Québec et lorsqu'elle obtenait de façon informelle des comptes rendus de ce qui s'était passé en communiquant par téléphone avec madame Rhéaume ou en se présentant elle‑même aux endroits où les cours d'entraînement étaient donnés.
+[40] Son pouvoir de direction s'est manifesté également lorsqu'elle limitait au strict minimum les contacts de madame Rhéaume avec ses clients; madame Faucher ne permettait pas généralement à madame Rhéaume de communiquer avec eux; elle le faisait elle‑même. Ce pouvoir de direction s'est manifesté en outre lorsque madame Faucher a refusé que madame Rhéaume allonge ses périodes d'entraînement de quelques minutes par rapport à ce qui avait été convenu avec les clients.
+[41] Que madame Faucher se soit réservé et qu'elle ait exercé un pouvoir de contrôle et de direction sur le travail madame Rhéaume n'est pas surprenant parce que cette dernière rendait ses services aux clients de Rest'Actif. Je ne peux imaginer que l'entreprise de madame Faucher ait pu réussir sans l'exercice de ces droits de contrôle et de direction sur le travail des kinésiologues qu'elle engageait. Madame Faucher n’exploitait pas une simple agence de placement de kinésiologues dont les services étaient offerts à ses clients. Rest’Actif offrait à ces derniers des cours d’entraînement ou de conditionnement.
+[42] Le fait que madame Rhéaume avait une certaine marge de manoeuvre dans le choix des activités constitue un indice d'une certaine autonomie. Toutefois, comme le rappelle madame la juge Picard dans l'affaire 9002‑8515 Québec inc., et comme l'édicte l'article 2099 C.c.Q., il ne doit exister entre madame Rhéaume et madame Faucher aucun lien de subordination quant à l'exécution du travail. Or, le dossier révèle l'existence d'un lien de subordination. En effet, « il existe dans ce cas un nombre suffisant d'indices d'un rapport d'autorité » pour conclure que le contrat en cause ne peut constituer, au sens du Code civil du Québec, un contrat de service. Il s'agit plutôt d'un contrat de travail. Je rappellerai que nombre de professeurs, aux niveaux élémentaire, secondaire, collégiale et universitaire, qui sont considérés comme des salariés, ont une très large marge d'autonomie dans la façon d'enseigner les matières à leurs élèves ou à leurs étudiants. Comme le mentionne le juge Noël dans l'arrêt Pinsonneault, précité, ce qui est important est de savoir si le payeur avait le droit d'exercer un contrôle ou une direction sur le travail des travailleurs, pas s'il a effectivement exercé ce contrôle, et de façon évidente les commissions scolaires, les collèges et les universités ont ce pouvoir de contrôle et de direction sur le travail fourni par leurs professeurs. À mon avis, la même situation existait ici par rapport au travail de madame Rhéaume.
+[43] Même s’il ne s’agit que d’un fait mineur, je dois finalement noter que je ne connais pas beaucoup d'entrepreneurs et de prestataires de services qui demandent à leurs clients de préparer pour eux des factures. À mon avis, l'entrepreneur ici était madame Faucher, et madame Rhéaume n'était qu'une simple salariée.
+[44] Pour tous ces motifs, l'appel de madame Rhéaume est accueilli et je conclus que son emploi auprès de madame Faucher durant la période pertinente était un emploi assurable aux fins du paragraphe 5(1) de la Loi.
+Signé à Ottawa, Canada, ce 1er jour de novembre 2007.
+« Pierre Archambault »
+Juge Archambault
+RÉFÉRENCE : 2007CCI591
+Nº DU DOSSIER DE LA COUR : 2007-1255(EI)
+INTITULÉ DE LA CAUSE : CHANTAL RHÉAUME c. M.R.N. et JULIE FAUCHER
+LIEU DE L’AUDIENCE : Québec (Québec)
+DATE DE L’AUDIENCE : le 29 août 2007
+MOTIFS DU JUGEMENT PAR : L'honorable juge Pierre Archambault
+DATE DU JUGEMENT : le 1er novembre 2007
+COMPARUTIONS :
+Pour l’appelante :
+l’appelante elle-même
+Avocat de l’intimé :
+Me Vlad Zolia
+Avocat de l’intervenante :
+Me Denys Saindon
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelante:
+Nom :
+Cabinet :
+Pour l’intimé : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Pour les énoncés que madame Rhéaume n'a pas admis, j'indique que le fait est non avéré si une preuve contraire a été faite. Par contre, comme madame Rhéaume avait le fardeau de prouver le contraire du fait tenu pour acquis par le ministre, j'indique que le fait est avéré s'il y a une preuve positive qui l'établit, ou si aucune preuve du contraire n'a été présentée par madame Rhéaume.
+[2] La preuve a révélé que madame Faucher offrait environ une cinquantaine de cours et qu'elle avait recours à de 5 à 12 travailleurs à temps partiel pour les cours que son entreprise donnait à ses différents clients. Madame Faucher donnait elle-même trois cours sur ces cinquante et remplaçait au besoin les travailleurs dont elle avait retenu les services.
+[3] Je reviendrai sur cet élément factuel dans le cadre de mon analyse.
+[4] Idem.
+[5] Robert P. Gagnon, Le droit du travail du Québec, 5e éd., Cowansville (Qc), Les Éditions Yvon Blais Inc., 2003.
+[6] Deuxième recueil d'études en fiscalité (2005) de la collection L'harmonisation de la législation fédérale avec le droit civil québécois et le bijuridisme canadien, Montréal, Association de planification fiscale et financière et ministère de la Justice du Canada.
+[7] Voir l’analyse plus approfondie que j’ai faite dans mon article (précité).
+[8] Le juge Major dans Sagaz, par. 46 et 47.
+[9] D & J Driveway Inc. c. Canada (M.R.N.), [2003] A.C.F. no 1784 (QL), 2003 CAF 453. Voir également Charbonneau c. Canada, [1996] A.C.F. no 1337 (QL) (C.A.F.); Sauvé c. Canada, [1995] A.C.F. no 1378 (QL) (C.A.F.); Lagacé c. Canada (M.R.N.), [1994] A.C.F. no 885 (QL) (C.A.F.), confirmant [1991] T.C.J. no 945 (QL). Il faut toutefois mentionner que, dans les arrêts D & J Driveway et Charbonneau, la Cour d'appel n'a pas écarté explicitement l'application de Wiebe Door, mais a conclu à l'existence d'un contrat de service en se fondant sur l'absence du lien de subordination, suivant ainsi les règles du Code civil.
+[10] Par. 16 de la décision.
+[11] Il faut mentionner que les juges Pelletier et Létourneau ont manifesté leur adhésion à cette décision du juge Décary. Par contre, dans une décision plus récente, Combined Insurance Company of America c. M.N.R.et Mélanie Drapeau, 2007 CAF 60, écrite par le juge Nadon, à laquelle, d'ailleurs, les juges Pelletier et Létourneau ont souscrit, on se réfère à nouveau à la décision Wiebe Door. Par contre, il n'est aucunement fait référence dans l'arrêt Combined Insurance à la décision 9041‑6868 Québec Inc. et il n'y est pas fait mention que l'interprétation adoptée par le juge Décary ne faisait plus loi au Québec. La demande d'autorisation d'en appeler de l’arrêt Combined Insurance à la Cour suprême du Canada a été rejetée le 25 octobre 2007.
+[12] Commission des normes du travail c. 9002‑8515 Québec Inc., REJB 2000‑18725. Voir également les commentaires du ministre de la Justice reproduits au par. 42 de mon article, selon lesquels le prestataire doit avoir une « indépendance quasi absolue dans la manière dont s’exécute le contrat ».
+[13] Jean‑Maurice Verdier, Alain Coeuret et Marie‑Arnelle Souriac, Droit du travail, 12e éd., Paris, Dalloz, 2002, à la p. 315.

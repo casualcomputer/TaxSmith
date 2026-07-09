@@ -1,0 +1,33 @@
+Title: Houweling v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28480/index.do
+Corpus path: corpus/cases/tcc/2005/2006-tcc-59-28480-houweling-v-the-queen-en.md
+Document type: case_law
+Last modified: 2005-09-09
+
+# Houweling v. The Queen
+
+- Citation: 2006 TCC 59
+- Decision date: 2005-09-09
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1277, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Houweling v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-09-09
+Neutral citation
+2006 TCC 59
+File numbers
+2002-1574(IT)G
+Judges and Taxing Officers
+Donald G.H. Bowman
+Subjects
+Income Tax Act
+Decision Content
+Your browser's JavaScipt is disabled. Please download the PDF via the PDF icon.

@@ -1,0 +1,155 @@
+---
+title: "Haynes c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/31154/index.do"
+last_modified: "2013-04-29"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2013 CCI 84"
+citation2: ""
+neutral_citation: "2013 CCI 84"
+decision_date: "2013-04-29"
+language: "fr"
+item_id: "31154"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4743
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T15:21:08.089000+00:00"
+cases_cited_count: 4
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "a2b703bd0b3a2b3a7efc44134dc34b6b8d3004ef843a1af25f182efac79b3541"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Haynes c. La Reine
+
+- Citation: 2013 CCI 84
+- Decision date: 2013-04-29
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4743, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Haynes c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2013-04-29
+Référence neutre
+2013 CCI 84
+Numéro de dossier
+2012-2667(IT)I
+Juges et Officiers taxateurs
+Valerie A. Miller
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2012-2667(IT)I
+ENTRE :
+DARRYL DOUGLAS HAYNES,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 14 février 2013, à St. John’s
+(Terre-Neuve-et-Labrador)
+Devant : L’honorable juge Valerie Miller
+Comparutions :
+Avocate de l’appelant
+Me Melanie Del Rizzo
+Avocat de l’intimée
+Me Jan Jensen
+JUGEMENT
+L’appel relatif à la nouvelle cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2010 est rejeté.
+Signé à Ottawa, Canada, ce 29e jour d’avril 2013.
+« V.A. Miller »
+Juge Miller
+Traduction certifiée conforme
+ce 11e jour de juin 2013.
+S. Tasset
+Référence : 2013 CCI 84
+Date : 20130429
+Dossier : 2012-2667(IT)I
+ENTRE :
+DARRYL DOUGLAS HAYNES,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Miller
+[1] L’appelant a porté en appel la nouvelle cotisation relative à son année d’imposition 2010 par laquelle le ministre du Revenu national (le « ministre ») a conclu qu’il n’avait droit ni au crédit pour personne entièrement à charge ni au crédit d’impôt pour enfants à l’égard de ses enfants pour l’année 2010.
+Une question préliminaire
+[2] Au début de l’audience, l’avocate de l’appelant a déclaré que la réception du crédit d’impôt pour enfants n’était plus en litige.
+Les faits
+[3] Au cours de l’année 2010, l’appelant et son ex-épouse ont vécu séparés l’un de l’autre pour cause d’échec de leur mariage. Ils ont deux enfants et, en 2010, ils en avaient la garde partagée.
+[4] Aux termes d’une ordonnance sur consentement de l’appelant et de son ex-épouse rendue le 14 septembre 2009 par la Cour suprême de Terre-Neuve-et-Labrador, la pension alimentaire pour enfants devait être payée [traduction] « conformément à la méthode de “compensation” directe » prévue par les Lignes directrices fédérales sur les pensions alimentaires pour enfants, DORS/97-175 (les « Lignes directrices fédérales »). En 2010, l’appelant était tenu de payer à son ex-épouse une pension alimentaire pour enfants d’un montant mensuel de 410,25 $, lequel représentait la différence entre le montant total (783 $) que l’appelant devait payer au titre de la pension alimentaire de ses enfants et le montant total (372,75 $) que devait contribuer son ex-épouse, conformément aux Lignes directrices fédérales.
+[5] Dans sa déclaration de revenus pour 2010, l’appelant a demandé le crédit pour personne entièrement à charge pour l’un de ses enfants. Le ministre a refusé cette déduction au motif que le paragraphe 118(5) de la Loi de l’impôt sur le revenu (la « Loi ») l’empêchait de recevoir ce crédit.
+Le droit applicable
+[6] L’alinéa 118(1)b) de la Loi prévoit un crédit d’impôt pour personne entièrement à charge. Il y a plusieurs conditions à remplir pour y avoir droit, mais aucune d’elles n’est en litige en l’espèce.
+[7] Le paragraphe 118(5) de la Loi prescrit qu’un particulier ne peut pas se prévaloir d’un crédit d’impôt pour personne entièrement à charge s’il est tenu de payer une pension alimentaire à son ex-époux ou ancien conjoint de fait.
+[8] Le paragraphe 118(5.1) de la Loi prescrit que le paragraphe 118(5) ne s’applique pas s’il a pour effet de priver les deux parents du crédit. Dans un tel cas, c’est l’alinéa 118(4)b) qui s’applique, et les parents doivent convenir duquel d’entre eux aura droit au crédit sur une base annuelle. S’il n’y a pas d’entente, ni l’un ni l’autre des parents n’a droit au crédit pour l’année.
+La position de l’appelant
+[9] L’appelant a fait valoir que son ex-épouse et lui étaient tous deux tenus de payer une pension alimentaire pour enfants en 2010. Pour éviter d’avoir à échanger des chèques contenant le montant de pension alimentaire pour enfants que chacun d’eux avait à acquitter, il a versé à son ex-épouse la différence entre les deux montants.
+[10] Selon l’avocate de l’appelant, étant donné que l’appelant et son ex-épouse payaient tous deux une pension alimentaire pour enfants, le paragraphe 118(5) empêchait les deux de se prévaloir du crédit. Cependant, le paragraphe 118(5.1) de la Loi corrigeait la situation et le paragraphe 118(5) ne s’appliquait ni à son client ni à l’ex-épouse de ce dernier.
+Analyse
+[11] Il ressort clairement de l’ordonnance sur consentement que seul l’appelant était tenu de payer une pension alimentaire pour enfants en 2010. Pour ce qui est de cette pension, l’ordonnance indique :
+[traduction]
+À l’heure actuelle, en prenant pour base leurs revenus respectifs, les parties conviennent que le montant de la pension alimentaire pour enfants que le demandeur doit payer à l’intimée est de 410,25 $ par mois, lequel montant est calculé de la manière suivante :
+Revenu du demandeur pour 2008 : 56 297 $ (obligation relative à la pension alimentaire pour enfants de 783 $ par mois)
+Revenu de l’intimée pour 2008 : 24 523 $ (obligation relative à la pension alimentaire pour enfant de 363 $ par mois).
+Part de l’assurance médicale des enfants supportée par l’intimée : 9,75 $ par mois
+783 $ – 363 $ – 9,75 $ = 410,25 $
+Dans l’ordonnance sur consentement, l’appelant était le demandeur et son ex-épouse l’intimée.
+[12] La question soulevée dans le présent appel a récemment été analysée par la Cour d’appel fédérale dans l’arrêt Marc Verones c La Reine, 2013 CAF 69, où les faits sont quasi identiques à ceux dont il est question en l’espèce. Dans cette affaire, l’appelant payait tous les mois une pension alimentaire pour enfants à son ex-épouse. Le montant représentait une compensation entre le montant total que l’appelant était tenu de verser pour répondre aux besoins de ses enfants et le montant que son ex-épouse était tenue de contribuer, conformément aux Lignes directrices fédérales. La juge Trudel a déclaré :
+[5] Je suis d’avis que c’est à bon droit que la Cour de l’impôt a rejeté la thèse de l’appelant. La Cour de l’impôt a fait observer que l’ordonnance de la Cour du Banc de la Reine de l’Alberta obligeait uniquement l’appelant à faire des versements de pension alimentaire aux enfants malgré le fait que l’on avait tenu compte des revenus de son ex‑épouse pour calculer le montant de la pension alimentaire qu’en tant que conjoint ayant les revenus les plus élevés, il était tenu de payer. Il est évident que la pension alimentaire pour enfants versée par l’appelant constitue une « pension alimentaire » au sens du paragraphe 56.1(4) de la Loi. La contribution de la mère aux besoins des enfants ne répond pas aux exigences de ce paragraphe, étant donné qu’il n’existe aucune ordonnance ou entente écrite l’obligeant à verser une pension alimentaire pour enfants à l’appelant. Par conséquent, le paragraphe 118(5) s’applique et l’appelant n’a droit à aucun crédit d’impôt (voir Perrin c. Canada, 2010 CCI 331; Ladell c. Canada, 2011 CCI 314, cité au paragraphe 6 des motifs de la Cour de l’impôt).
+[6] Tout le débat autour du concept de la compensation ne fait que détourner notre attention de la véritable question, en l’occurrence celle de savoir si l’appelant est ou non le seul parent payant une « pension alimentaire pour enfants » conformément à une « ordonnance d’un tribunal compétent » ou à un « accord écrit » au sens de la Loi.
+[7] Dans l’arrêt Contino c. Leonelli‑Contino, 2005 CSC 63; [2005] 3 R.C.S. 217 [Contino], le juge Bastarache explique dans les termes les plus nets qu’en matière de pension alimentaire pour enfants, la Loi sur le divorce, L.R.C. 1985, ch. 3 (2e suppl.) (par. 26.1(2)) et les Lignes directrices fédérales (art. 1) sont fondées sur le principe que « l’obligation financière de subvenir aux besoins des enfants à charge [est] commune aux époux et qu’elle [est] répartie entre eux selon leurs ressources respectives permettant de remplir cette obligation » (au paragraphe 32).
+[8] Une fois que l’obligation de chacun des parents par rapport aux enfants a été précisée, le parent dont les revenus sont les plus élevés peut être obligé de verser une pension alimentaire pour enfants au parent dont les revenus sont moins élevés dans le cadre de l’exécution de son obligation. Cependant, au bout du compte, le concept de la compensation ne transforme pas l’obligation respective des parents de contribuer à l’éducation des enfants en une « pension alimentaire » au sens de la Loi.
+[9]L’argument de l’appelant quant aux incidences des Lignes directrices fédérales sur la pension alimentaire pour enfants ne saurait donc être retenu. Qui plus est, le paragraphe 118(5.1) de la Loi ne s’applique pas à la présente situation factuelle. Ainsi que le juge de la Cour de l’impôt l’a fait observer : [traduction] « le paragraphe 118(5.1) a été adopté en 2007 vraisemblablement pour accorder un allégement aux deux parents lorsque ceux‑ci paient effectivement tous les deux une pension alimentaire pour enfants » ce qui, comme nous l’avons déjà mentionné, n’est pas le cas en l’espèce. Quant à l’idée de l’appelant suivant laquelle le paragraphe 118(5.1) de la Loi devrait être abrogé, il s’agit là d’une question à laquelle seul le législateur peut répondre.
+[13] Comme dans l’arrêt Verones, le paragraphe 118(5) de la Loi s’applique et l’appelant n’a pas droit au crédit d’impôt pour personne entièrement à charge.
+[14] Dans une lettre datée du 14 mars 2013, l’avocat de l’intimée a informé la Cour qu’il était d’avis que la décision rendue dans Verones s’appliquait au présent appel. Je suis d’accord.
+[15] Le 18 mars 2013, la Cour a demandé à l’avocate de l’appelant de fournir par écrit des observations ou des commentaires au sujet de la décision rendue dans Verones. L’avocate a écrit qu’elle transmettrait une réponse avant le 12 avril 2013, mais la Cour n’en a reçu aucune.
+[16] L’appel est rejeté.
+Signé à Ottawa, Canada, ce 29e jour d’avril 2013
+« V.A. Miller »
+Juge Miller
+Traduction certifiée conforme
+ce 11e jour de juin 2013.
+S. Tasset
+RÉFÉRENCE : 2013CCI84
+No DU DOSSIER DE LA COUR : 2012-2667(IT)I
+INTITULÉ : DARRYL DOUGLAS HAYNES ET SA MAJESTÉ LA REINE
+LIEU DE L'AUDIENCE : St. John’s (Terre-Neuve-et-Labrador)
+DATE DE L’AUDIENCE : Le 14 février 2013
+MOTIFS DU JUGEMENT : L’honorable juge Valerie Miller
+DATE DU JUGEMENT : Le 29 avril 2013
+COMPARUTIONS :
+Avocate de l’appelante :
+Me Melanie Del Rizzo
+Avocat de l’intimée :
+Me Jan Jensen
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom : Me Melanie Del Rizzo
+Cabinet : Smyth, Woodland, Del Rizzo & LeDrew
+Pour l’intimée : William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada
